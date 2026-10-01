@@ -36,9 +36,9 @@ El Código Deontológico y de Ética del Servidor Público colombiano fue adopta
 ### Opciones
 - [ ] A) Ley 100 de 1993
   <!-- feedback: La Ley 100 organizó el sistema de seguridad social integral, no la ética pública. -->
-- [x] B) Ley 843 de 1998, que incorporó el Código de Ética del Servidor Público con principios como bien común, integridad y igualdad
+- [x] C) Ley 843 de 1998, que incorporó el Código de Ética del Servidor Público con principios como bien común, integridad y igualdad
   <!-- feedback: Correcto. El Anexo General de la Ley 843 de 1998 contiene el Código Deontológico y de Ética del Servidor Público. -->
-- [ ] C) Ley 1150 de 2007
+- [ ] B) Ley 1150 de 2007
   <!-- feedback: La Ley 1150 modernizó las reglas de contratación pública. -->
 
 
@@ -63,11 +63,11 @@ La relación entre servidor público y ciudadanía definida por el Código de É
   <!-- feedback: El cargo no es propiedad: es función asignada para servir a la comunidad. -->
 - [ ] B) Una concesión familiar transmisible por herencia
   <!-- feedback: La transmisión hereditaria de cargos corresponde a regímenes feudales, no a la república constitucional. -->
-- [x] C) Una misión del Estado para con la sociedad, de la que se deriva una ética social y política para garantizar el bien común
+- [x] D) Una misión del Estado para con la sociedad, de la que se deriva una ética social y política para garantizar el bien común
   <!-- feedback: Correcto. Esa es la formulación del Código: el servidor es servidor de la comunidad. -->
 
 
-- [ ] D) Un premio electoral para los colaboradores del gobierno
+- [ ] C) Un premio electoral para los colaboradores del gobierno
   <!-- feedback: El clientelismo en el empleo público viola el mérito (artículo 125) y la moralidad administrativa. -->
 
 ### Explicacion Pedagogica
@@ -86,13 +86,13 @@ La conducta descrita vulnera principalmente el principio de
 ### Opciones
 - [ ] A) Celeridad, porque el contrato debió firmarse más rápido
   <!-- feedback: El problema no es de tiempo: es de parcialidad e interés privado. -->
-- [x] B) Imparcialidad y moralidad, y configura causal de impedimento por conflicto de intereses
+- [x] D) Imparcialidad y moralidad, y configura causal de impedimento por conflicto de intereses
   <!-- feedback: Correcto. La participación en decisiones con interés personal o familiar está prohibida (artículo 209, Ley 734 de 2002 y Ley 1952 de 2019). -->
-- [ ] C) Publicidad, porque el contrato debía transmitirse por televisión
+- [ ] B) Publicidad, porque el contrato debía transmitirse por televisión
   <!-- feedback: La publicidad es transparencia del acto, no la transmisión mediática del proceso. -->
 
 
-- [ ] D) Economía, porque el contrato era de bajo valor
+- [ ] C) Economía, porque el contrato era de bajo valor
   <!-- feedback: El valor del contrato no sanea el conflicto de interés: la ética no tiene umbral de precio. -->
 
 ### Explicacion Pedagogica
@@ -186,13 +186,13 @@ El fenómeno descrito, regulado como "puerta giratoria" o conflicto de intereses
 ### Opciones
 - [ ] A) La prohibición permanente de que los exfuncionarios trabajen en el sector privado
   <!-- feedback: La Constitución protege la libertad de trabajo (artículo 26); las restricciones son temporales y materiales. -->
-- [x] B) Reglas de inhabilidad e incompatibilidad posterior al cargo, y el deber de declararse impedido cuando se use información privilegiada
+- [x] D) Reglas de inhabilidad e incompatibilidad posterior al cargo, y el deber de declararse impedido cuando se use información privilegiada
   <!-- feedback: Correcto. El régimen de conflicto de intereses posterior (impedimentos del artículo 26 y Ley 2014 de 2019) limita el tránsito a quien se sirvió del cargo. -->
-- [ ] C) La exigencia de un aval del antiguo jefe inmediato
+- [ ] B) La exigencia de un aval del antiguo jefe inmediato
   <!-- feedback: El aval del superior no elimina el conflicto: puede profundizar la captura. -->
 
 
-- [ ] D) El simple registro de la empresa en la cámara de comercio
+- [ ] C) El simple registro de la empresa en la cámara de comercio
   <!-- feedback: El registro mercantil no examina información privilegiada ni lealtades funcionales. -->
 
 ### Explicacion Pedagogica
@@ -234,9 +234,9 @@ La prohibición de proselitismo con recursos públicos protege la separación en
 Los pactos colectivos de integridad, promovidos por la Contraloría General, son herramientas de
 
 ### Opciones
-- [x] A) Rendición de cuentas y compromiso voluntario de servidores y organizaciones con metas de gestión y anti-corrupción
+- [x] B) Rendición de cuentas y compromiso voluntario de servidores y organizaciones con metas de gestión y anti-corrupción
   <!-- feedback: Correcto. El Pacto Colectivo por la Integridad canaliza compromisos públicos verificables. -->
-- [ ] B) Sindicalización obligatoria de los empleados hospitalarios
+- [ ] A) Sindicalización obligatoria de los empleados hospitalarios
   <!-- feedback: La sindicalización es un derecho libre (artículo 39); los pactos de integridad son otra figura. -->
 - [ ] C) Control previo de cada gasto hospitalario
   <!-- feedback: Los pactos no restauran la aprobación contable centralizada. -->
@@ -261,13 +261,13 @@ La conducta del docente expresa el principio ético de
 ### Opciones
 - [ ] A) Deslealtad hacia la corporación pública local
   <!-- feedback: La lealtad institucional es al Estado y a la misión, no a la presión de terceros. -->
-- [x] B) Integridad y responsabilidad: no usar la función para ventajas indebidas, aunque provengan de actores influyentes
+- [x] D) Integridad y responsabilidad: no usar la función para ventajas indebidas, aunque provengan de actores influyentes
   <!-- feedback: Correcto. La integridad es coherencia entre valores y acción bajo presión. -->
-- [ ] C) Violación del derecho de petición del concejal
+- [ ] B) Violación del derecho de petición del concejal
   <!-- feedback: Un pedido de información privilegiada y contraria a la norma no es petición amparable que exija colaboración indebida. -->
 
 
-- [ ] D) Ejercicio indebido de la autonomía escolar curricular
+- [ ] C) Ejercicio indebido de la autonomía escolar curricular
   <!-- feedback: La autonomía curricular (Ley 115 de 1994) no trata sobre protección de instrumentos de evaluación ante presiones. -->
 
 ### Explicacion Pedagogica
@@ -309,11 +309,11 @@ El caso "Carrusel de la Contratación" de Bogotá (2008-2011) o las redes de "pa
 La crítica constitucional a la "mermelada" como práctica política se funda en que
 
 ### Opciones
-- [x] A) Desvía la destinación del gasto público hacia intereses electorales de quienes deciden el presupuesto, en lugar de criterios técnicos y de necesidad ciudadana
+- [x] C) Desvía la destinación del gasto público hacia intereses electorales de quienes deciden el presupuesto, en lugar de criterios técnicos y de necesidad ciudadana
   <!-- feedback: Correcto. El vicio es la inversión del fin: el presupuesto sirve a la reelección, no al plan nacional (artículos 339-346). -->
-- [ ] B) Viola el principio de unidad de caja si se paga en efectivo
+- [ ] A) Viola el principio de unidad de caja si se paga en efectivo
   <!-- feedback: La unidad de caja es una regla contable presupuestal; el problema de fondo es de destino político del gasto. -->
-- [ ] C) Prohíbe a los congresistas presentar proyectos de ley
+- [ ] B) Prohíbe a los congresistas presentar proyectos de ley
   <!-- feedback: La iniciativa legislativa es derecho y función de los congresistas. -->
 
 
@@ -363,11 +363,11 @@ La refutación más sólida al argumento desde el constitucionalismo es que la �
   <!-- feedback: La ética complementa la norma; no la deroga ni la reemplaza. -->
 - [ ] B) Es incompatible con la democracia, porque el Estado debe ser moralmente neutral en todo sentido
   <!-- feedback: La neutralidad axiológica del Estado tiene límites: la Constitución misma es un pacto de valores. -->
-- [x] C) Institucionaliza la dimensión moral de la función: los valores constitucionales (artículo 2, 209) traducen la ética en deberes jurídicos y controles, porque el poder sin ética degenera en arbitrariedad
+- [x] D) Institucionaliza la dimensión moral de la función: los valores constitucionales (artículo 2, 209) traducen la ética en deberes jurídicos y controles, porque el poder sin ética degenera en arbitrariedad
   <!-- feedback: Correcto. El constitucionalismo convierte valores en normas: moralidad, probidad y bien común son mandatos, no preferencias. -->
 
 
-- [ ] D) Solo obliga a los gobernantes electos, no a los empleados de carrera
+- [ ] C) Solo obliga a los gobernantes electos, no a los empleados de carrera
   <!-- feedback: El Código de Ética del Servidor Público obliga a todos los que sirven al Estado. -->
 
 ### Explicacion Pedagogica
@@ -409,9 +409,9 @@ El conflicto de interés no exige ganancia económica: basta que un vínculo per
 La figura que describe la contratación simulada con interventoría cómplice en la doctrina anticorrupción es la de
 
 ### Opciones
-- [ ] A) Contrato realidad, porque el interventor siempre cumple
+- [ ] B) Contrato realidad, porque el interventor siempre cumple
   <!-- feedback: "Contrato realidad" designa proteger al trabajador bajo la forma, no una trama de simulación. -->
-- [x] B) Corrupción administrativa en red: la conjunción de documentos falsos, pago sin ejecución y vigilancia capturada, lo que agrava la ilicitud y multiplica responsables
+- [x] A) Corrupción administrativa en red: la conjunción de documentos falsos, pago sin ejecución y vigilancia capturada, lo que agrava la ilicitud y multiplica responsables
   <!-- feedback: Correcto. La simulación contractual es un delito en cadena: falsedad, celebración indebida, peculado por apropiación y prevaricato si hay jueces y abogados. -->
 - [ ] C) Libre competencia económica viciada por precios bajos
   <!-- feedback: El problema no es el precio sino la inexistencia de contraprestación real. -->
@@ -484,11 +484,11 @@ Colombia entró a la OCDE en 2020 y adoptó recomendaciones en contratación abi
 La evaluación moral y constitucional de la participación ciudadana en la corrupción concluye que
 
 ### Opciones
-- [ ] A) Es irreprochable: el que paga coimas es siempre una víctima inocente del sistema
+- [ ] B) Es irreprochable: el que paga coimas es siempre una víctima inocente del sistema
   <!-- feedback: El sobornado puede ser coactivamente presionado, pero la corrupción activa tiene cara ciudadana que reproduce el vicio. -->
-- [ ] B) Es inexistente: la corrupción es exclusivamente un fenómeno de servidores públicos
+- [ ] C) Es inexistente: la corrupción es exclusivamente un fenómeno de servidores públicos
   <!-- feedback: La evidencia de cohecho por dar u ofrecer y de trámites acelerados con pago desmiente la exclusividad. -->
-- [x] C) Es corresponsabilidad: los artículos 95 y 209 obligan a respetar el ordenamiento, y el ciudadano corruptor es parte del problema; la ética pública requiere una ética privada de lo público
+- [x] A) Es corresponsabilidad: los artículos 95 y 209 obligan a respetar el ordenamiento, y el ciudadano corruptor es parte del problema; la ética pública requiere una ética privada de lo público
   <!-- feedback: Correcto. El deber de obrar conforme al bien común no es exclusivo de funcionarios. -->
 
 
@@ -511,9 +511,9 @@ El fundamento constitucional más sólido para un decálogo escolar de ética p�
 ### Opciones
 - [ ] A) La escuela puede reemplazar a la familia en toda formación de valores
   <!-- feedback: La Constitución reconoce a la familia como núcleo básico de la sociedad (artículo 42); la escuela la complementa. -->
-- [x] B) La moralidad administrativa (artículo 209), el bien común y la dignidad humana (artículo 1) son valores constitucionales que orientan toda educación ciudadana, incluida la formación ética escolar
+- [x] C) La moralidad administrativa (artículo 209), el bien común y la dignidad humana (artículo 1) son valores constitucionales que orientan toda educación ciudadana, incluida la formación ética escolar
   <!-- feedback: Correcto. Los decálogos escolares traducen los valores de la "constitución ética" en normas de convivencia. -->
-- [ ] C) La ética solo puede enseñarse desde una confesión religiosa
+- [ ] B) La ética solo puede enseñarse desde una confesión religiosa
   <!-- feedback: La laicidad del Estado (artículo 1) y el derecho a la libertad religiosa hacen de la ética un espacio plural y común. -->
 
 

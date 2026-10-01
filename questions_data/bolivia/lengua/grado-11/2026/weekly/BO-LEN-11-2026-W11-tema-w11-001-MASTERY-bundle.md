@@ -34,13 +34,13 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿A qué tipología textual corresponde el fragmento leído?
 
 ### Opciones
-- [x] A) Texto expositivo-informativo
+- [x] D) Texto expositivo-informativo
   <!-- feedback: ¡Correcto! Presenta información técnica y datos objetivos verificables sin emitir juicios de valor. -->
-- [ ] B) Texto narrativo-literario
+- [ ] A) Texto narrativo-literario
   <!-- feedback: Incorrecto. No relata acciones de personajes de ficción. -->
-- [ ] C) Texto argumentativo de opinión
+- [ ] B) Texto argumentativo de opinión
   <!-- feedback: Incorrecto. No intenta persuadir ideológicamente sino informar datos. -->
-- [ ] D) Texto instructivo
+- [ ] C) Texto instructivo
   <!-- feedback: Incorrecto. No indica pasos obligatorios para realizar un procedimiento. -->
 
 ### Explicacion Pedagogica
@@ -58,13 +58,13 @@ El texto expositivo-informativo busca transmitir conocimientos objetivos y preci
 ¿Cuál es la función del lenguaje y la intención comunicativa predominante?
 
 ### Opciones
-- [x] A) Función apelativa o conativa para persuadir al lector sobre una acción ambiental
+- [x] D) Función apelativa o conativa para persuadir al lector sobre una acción ambiental
   <!-- feedback: ¡Correcto! Busca influir en la conducta del receptor motivando un cambio de hábitos. -->
-- [ ] B) Función poética para embellecer el idioma con rima
+- [ ] A) Función poética para embellecer el idioma con rima
   <!-- feedback: Incorrecto. No utiliza recursos de estética lírica. -->
-- [ ] C) Función fática para comprobar el canal
+- [ ] B) Función fática para comprobar el canal
   <!-- feedback: Incorrecto. No intenta verificar el medio de transmisión. -->
-- [ ] D) Función metalingüística para definir una regla gramatical
+- [ ] C) Función metalingüística para definir una regla gramatical
   <!-- feedback: Incorrecto. No analiza el código del idioma. -->
 
 ### Explicacion Pedagogica
@@ -106,11 +106,11 @@ El texto narrativo relata acontecimientos reales o ficticios protagonizados por 
 ¿Qué formato y tipología textual caracteriza a esta secuencia?
 
 ### Opciones
-- [x] A) Texto instructivo secuencial prescriptivo
+- [x] C) Texto instructivo secuencial prescriptivo
   <!-- feedback: ¡Correcto! Presenta pasos ordenados cronológicamente para lograr un resultado. -->
-- [ ] B) Texto argumentativo ensayístico
+- [ ] A) Texto argumentativo ensayístico
   <!-- feedback: Incorrecto. No defiende una postura filosófica con argumentos. -->
-- [ ] C) Texto lírico en verso libre
+- [ ] B) Texto lírico en verso libre
   <!-- feedback: Incorrecto. Carece de métrica y ritmo poético. -->
 - [ ] D) Texto periodístico de opinión
   <!-- feedback: Incorrecto. No expresa el punto de vista ideológico de un periódico. -->
@@ -130,13 +130,13 @@ Los textos instructivos guían al receptor de forma ordenada y clara para la rea
 ¿Cuál es el propósito comunicativo del autor de este texto de alerta ambiental?
 
 ### Opciones
-- [x] A) Concienciar sobre el impacto ecológico de la contaminación en la fauna autóctona
+- [x] D) Concienciar sobre el impacto ecológico de la contaminación en la fauna autóctona
   <!-- feedback: ¡Correcto! Busca sensibilizar e informar sobre el riesgo de pérdida de especies nativas. -->
-- [ ] B) Entretener al lector con una fábula sobre peces parlantes
+- [ ] A) Entretener al lector con una fábula sobre peces parlantes
   <!-- feedback: Incorrecto. El informe ambiental no es un texto narrativo de ficción. -->
-- [ ] C) Promover el turismo masivo sin restricciones en el lago
+- [ ] B) Promover el turismo masivo sin restricciones en el lago
   <!-- feedback: Incorrecto. Sería contradictorio con la alerta de preservación ecológica. -->
-- [ ] D) Enseñar la técnica gastronómica para cocinar el karachi
+- [ ] C) Enseñar la técnica gastronómica para cocinar el karachi
   <!-- feedback: Incorrecto. No es un recetario culinario. -->
 
 ### Explicacion Pedagogica
@@ -202,13 +202,13 @@ Los textos instructivos emplean un lenguaje claro, secuencial y prescriptivo par
 ¿Qué relación lógica establece la locución 'A pesar de'?
 
 ### Opciones
-- [x] A) Relación concesiva
+- [x] D) Relación concesiva
   <!-- feedback: ¡Correcto! Introduce un obstáculo (frío intenso) que no impide la realización de la acción principal (abrir los puestos). -->
-- [ ] B) Relación explicativa
+- [ ] A) Relación explicativa
   <!-- feedback: Incorrecto. No aclara una definición previa. -->
-- [ ] C) Relación disyuntiva
+- [ ] B) Relación disyuntiva
   <!-- feedback: Incorrecto. No presenta dos opciones excluyentes. -->
-- [ ] D) Relación condicional
+- [ ] C) Relación condicional
   <!-- feedback: Incorrecto. No supedita la acción a una condición previa. -->
 
 ### Explicacion Pedagogica
@@ -250,13 +250,13 @@ La función referencial se enfoca en el contexto y el mensaje informativo objeti
 ¿Qué figura estilística destaca en este verso?
 
 ### Opciones
-- [x] A) Personificación o prosopopeya
+- [x] D) Personificación o prosopopeya
   <!-- feedback: ¡Correcto! Se atribuye una acción humana ('custodiaba') a un elemento inanimado (la montaña). -->
-- [ ] B) Hipérbaton
+- [ ] A) Hipérbaton
   <!-- feedback: Incorrecto. El orden sintáctico Sujeto + Verbo + Objeto se mantiene regular. -->
-- [ ] C) Símil
+- [ ] B) Símil
   <!-- feedback: Incorrecto. No utiliza nexos de comparación como 'como' o 'semejante a'. -->
-- [ ] D) Onomatopeya
+- [ ] C) Onomatopeya
   <!-- feedback: Incorrecto. No imita sonidos de la naturaleza. -->
 
 ### Explicacion Pedagogica
@@ -298,13 +298,13 @@ La conclusión sintetiza lo desarrollado en el cuerpo y reafirma la tesis centra
 ¿Qué tipo de texto periodístico es la editorial?
 
 ### Opciones
-- [x] A) Texto periodístico de opinión institucional
+- [x] D) Texto periodístico de opinión institucional
   <!-- feedback: ¡Correcto! Expresa la postura o línea ideológica del medio de comunicación sobre un tema de interés público. -->
-- [ ] B) Noticia de última hora de la sección policial
+- [ ] A) Noticia de última hora de la sección policial
   <!-- feedback: Incorrecto. La noticia es un texto informativo neutro, no de opinión institucional. -->
-- [ ] C) Crónica narrativa de viaje
+- [ ] B) Crónica narrativa de viaje
   <!-- feedback: Incorrecto. La crónica relata sucesos con orden temporal y estilo personal. -->
-- [ ] D) Anuncio publicitario comercial
+- [ ] C) Anuncio publicitario comercial
   <!-- feedback: Incorrecto. No busca vender un producto ni servicio mercantil. -->
 
 ### Explicacion Pedagogica
@@ -322,11 +322,11 @@ El editorial refleja la posición valorativa e ideológica oficial del periódic
 ¿A qué categoría pertenecen estos conectores?
 
 ### Opciones
-- [x] A) Conectores explicativos o de paráfrasis
+- [x] C) Conectores explicativos o de paráfrasis
   <!-- feedback: ¡Correcto! Reexpresan una idea con mayor claridad para facilitar la comprensión del lector. -->
-- [ ] B) Conectores de causa
+- [ ] A) Conectores de causa
   <!-- feedback: Incorrecto. No indican el origen de un fenómeno. -->
-- [ ] C) Conectores de oposición
+- [ ] B) Conectores de oposición
   <!-- feedback: Incorrecto. No introducen contradicciones. -->
 - [ ] D) Conectores de conclusión
   <!-- feedback: Incorrecto. No marcan el cierre del discurso. -->
@@ -346,13 +346,13 @@ Los conectores explicativos o aclaratorios reformulan lo dicho anteriormente par
 ¿Qué estructura caracteriza a este intercambio comunicativo?
 
 ### Opciones
-- [x] A) Estructura dialógica o argumentativa contrapuesta
+- [x] D) Estructura dialógica o argumentativa contrapuesta
   <!-- feedback: ¡Correcto! Dos emisores presentan posturas y argumentos divergentes sobre un mismo tema. -->
-- [ ] B) Estructura monológica poética
+- [ ] A) Estructura monológica poética
   <!-- feedback: Incorrecto. No es una declamación individual de versos. -->
-- [ ] C) Estructura instructiva secuencial
+- [ ] B) Estructura instructiva secuencial
   <!-- feedback: Incorrecto. No es un conjunto de reglas paso a paso. -->
-- [ ] D) Estructura narrativa en tercera persona
+- [ ] C) Estructura narrativa en tercera persona
   <!-- feedback: Incorrecto. Es un debate en vivo con intervención de hablantes. -->
 
 ### Explicacion Pedagogica
@@ -370,11 +370,11 @@ El debate es una técnica de discusión oral estructurada dialógicamente entre 
 ¿Cuál es la ventaja cognitiva de emplear un mapa conceptual como técnica de estudio?
 
 ### Opciones
-- [x] A) Jerarquizar la información y visibilizar las relaciones lógicas entre conceptos
+- [x] C) Jerarquizar la información y visibilizar las relaciones lógicas entre conceptos
   <!-- feedback: ¡Correcto! Facilita la comprensión global mediante la organización visual estructurada. -->
-- [ ] B) Aumentar el número de páginas de un trabajo escolar sin aportar contenido
+- [ ] A) Aumentar el número de páginas de un trabajo escolar sin aportar contenido
   <!-- feedback: Incorrecto. No se busca volumen sino síntesis lógica. -->
-- [ ] C) Sustituir la lectura completa del libro por la memorización mecánica de letras
+- [ ] B) Sustituir la lectura completa del libro por la memorización mecánica de letras
   <!-- feedback: Incorrecto. Requiere análisis previo de comprensión. -->
 - [ ] D) Convertir un texto técnico en una composición poética
   <!-- feedback: Incorrecto. Mantiene el sentido lógico y académico original. -->
@@ -418,9 +418,9 @@ La coma enumerativa se usa para separar los miembros de una enumeración equival
 ¿Qué fenómeno enriquece la dimensión cultural y semántica del poema?
 
 ### Opciones
-- [x] A) Interculturalidad y presencia de vocabulario originario (quechua/aymara)
+- [x] B) Interculturalidad y presencia de vocabulario originario (quechua/aymara)
   <!-- feedback: ¡Correcto! El léxico originario aporta densidad cultural e identidad al texto lírico. -->
-- [ ] B) Neologismo tecnológico de la informática moderna
+- [ ] A) Neologismo tecnológico de la informática moderna
   <!-- feedback: Incorrecto. No son términos creados por la cibernética. -->
 - [ ] C) Vicio del lenguaje denominado solecismo gramatical
   <!-- feedback: Incorrecto. La inclusión léxica originaria no es una falta sintáctica. -->
@@ -442,13 +442,13 @@ La poesía boliviana integra términos de lenguas originarias expresando la riqu
 ¿Qué nivel de comprensión lectora está ejerciendo el estudiante al separar hechos de opiniones?
 
 ### Opciones
-- [x] A) Comprensión crítica o evaluativa
+- [x] D) Comprensión crítica o evaluativa
   <!-- feedback: ¡Correcto! Implica juzgar la validez, la neutralidad y la intención del texto distinguiendo datos de juicios. -->
-- [ ] B) Comprensión literal básica
+- [ ] A) Comprensión literal básica
   <!-- feedback: Incorrecto. La lectura literal se limita a identificar datos explícitos. -->
-- [ ] C) Comprensión fonética elemental
+- [ ] B) Comprensión fonética elemental
   <!-- feedback: Incorrecto. La fonética atañe a la pronunciación de sonidos. -->
-- [ ] D) Comprensión mecánica memorística
+- [ ] C) Comprensión mecánica memorística
   <!-- feedback: Incorrecto. Memorizar no implica discernir la calidad argumentativa. -->
 
 ### Explicacion Pedagogica
@@ -466,11 +466,11 @@ La lectura crítica evalúa el contenido distinguiendo entre evidencia objetiva 
 ¿Qué recurso retórico se emplea en esta frase?
 
 ### Opciones
-- [x] A) Hipérbole o exaggeración poética
+- [x] C) Hipérbole o exaggeración poética
   <!-- feedback: ¡Correcto! Se exagera la percepción del silencio hasta un límite irreal y poético. -->
-- [ ] B) Anáfora
+- [ ] A) Anáfora
   <!-- feedback: Incorrecto. No hay repetición de palabras al inicio de los versos. -->
-- [ ] C) Antítesis
+- [ ] B) Antítesis
   <!-- feedback: Incorrecto. No se contraponen dos palabras antonímicas directas. -->
 - [ ] D) Metonimia
   <!-- feedback: Incorrecto. No se designa una cosa con el nombre de otra por continuidad. -->

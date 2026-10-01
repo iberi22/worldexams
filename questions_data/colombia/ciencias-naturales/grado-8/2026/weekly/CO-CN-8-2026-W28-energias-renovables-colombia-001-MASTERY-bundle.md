@@ -72,13 +72,13 @@ Colombia dispone de un potencial destacado en cinco renovables: hidroeléctrico 
 ### Enunciado
 Cómo se caracteriza actualmente la matriz eléctrica de Colombia frente a las fuentes renovables?
 ### Opciones
-- [x] A) Es mayoritariamente hidráulica, con participación creciente de solar y eólica.
+- [x] D) Es mayoritariamente hidráulica, con participación creciente de solar y eólica.
   <!-- feedback: Correcto. La hidroelectricidad domina, complementada por nuevas renovables. -->
-- [ ] B) Depende por completo del carbón importado de China.
+- [ ] A) Depende por completo del carbón importado de China.
   <!-- feedback: Incorrecto. Colombia genera electricidad con recursos propios. -->
-- [ ] C) Solo usa gas natural y descarta fuentes hidraulicas.
+- [ ] B) Solo usa gas natural y descarta fuentes hidraulicas.
   <!-- feedback: Incorrecto. La hidroelectricidad sigue siendo la mayor fuente. -->
-- [ ] D) Es 100 por ciento nuclear desde 2010.
+- [ ] C) Es 100 por ciento nuclear desde 2010.
   <!-- feedback: Incorrecto. Colombia no tiene plantas nucleares comerciales. -->
 ### Explicacion Pedagogica
 Según XM y el Ministerio de Minas y Energía, cerca del 70 por ciento de la electricidad colombiana proviene del agua, y el resto de fuentes térmicas con gas y carbón. La transición energética busca incorporar más solar y eólica para reducir la vulnerabilidad ante fenomenos climaticos como el fenómeno de El Niño.
@@ -92,13 +92,13 @@ Según XM y el Ministerio de Minas y Energía, cerca del 70 por ciento de la ele
 ### Enunciado
 En una hidroeléctrica, que energía se transforma para finalmente obtener electricidad?
 ### Opciones
-- [x] A) Energía potencial y cinética del agua en movimiento se transforman en energía mecánica y luego eléctrica.
+- [x] D) Energía potencial y cinética del agua en movimiento se transforman en energía mecánica y luego eléctrica.
   <!-- feedback: Correcto. La secuencia potencial/cinética -> mecánica -> eléctrica es el principio básico. -->
-- [ ] B) La energía lumínica del fondo del embalse acciona directamente las turbinas.
+- [ ] A) La energía lumínica del fondo del embalse acciona directamente las turbinas.
   <!-- feedback: Incorrecto. Las turbinas no responden a luz sino al flujo de agua. -->
-- [ ] C) La combustión interna de petróleo mueve las aspas.
+- [ ] B) La combustión interna de petróleo mueve las aspas.
   <!-- feedback: Incorrecto. No hay combustión en una hidroeléctrica convencional. -->
-- [ ] D) La radiación solar calienta el agua y produce vapor.
+- [ ] C) La radiación solar calienta el agua y produce vapor.
   <!-- feedback: Incorrecto. Eso describe una termosolar, no una hidroeléctrica. -->
 ### Explicacion Pedagogica
 En una hidroeléctrica el agua almacenada en el embalse cae por gravedad, adquiere velocidad y golpea las aspas de una turbina. La turbina transmite energía mecánica a un generador que, por inducción electromagnética, produce corriente eléctrica. La cantidad de electricidad depende del caudal y del salto hidraulico.
@@ -112,11 +112,11 @@ En una hidroeléctrica el agua almacenada en el embalse cae por gravedad, adquie
 ### Enunciado
 Por qué La Guajira es una de las regiones de Colombia con mayor potencial para instalar granjas solares?
 ### Opciones
-- [x] A) Porque presenta altos niveles de radiación solar durante casi todo el año y pocas nubes.
+- [x] C) Porque presenta altos niveles de radiación solar durante casi todo el año y pocas nubes.
   <!-- feedback: Correcto. El promedio supera los 5 a 6 kWh por metro cuadrado por día en esa zona. -->
-- [ ] B) Porque las temperaturas son extremadamente bajas todo el año.
+- [ ] A) Porque las temperaturas son extremadamente bajas todo el año.
   <!-- feedback: Incorrecto. La Guajira es una de las zonas más cálidas del país. -->
-- [ ] C) Porque carece totalmente de viento y agua en el subsuelo.
+- [ ] B) Porque carece totalmente de viento y agua en el subsuelo.
   <!-- feedback: Incorrecto. De hecho tiene mucho viento, lo que permite granjas eólicas también. -->
 - [ ] D) Porque su geografia impide cualquier otra actividad economica.
   <!-- feedback: Incorrecto. La Guajira tiene economía diversa: pesca, minería, turismo. -->
@@ -153,13 +153,13 @@ La energía cinética del viento incide sobre las palas con diseño aerodinámic
 ### Enunciado
 Cómo se obtiene energía eléctrica a partir de la biomasa en una central azucarera del Valle del Cauca?
 ### Opciones
-- [x] A) El bagazo se quema en una caldera, el vapor mueve una turbina y se genera electricidad.
+- [x] D) El bagazo se quema en una caldera, el vapor mueve una turbina y se genera electricidad.
   <!-- feedback: Correcto. Es un ciclo Rankine clasico alimentado con biomasa. -->
-- [ ] B) El bagazo se mezcla con gasolina para alimentar automoviles.
+- [ ] A) El bagazo se mezcla con gasolina para alimentar automoviles.
   <!-- feedback: Incorrecto. El etanol de caña se mezcla con gasolina, pero el bagazo sólido se quema. -->
-- [ ] C) El bagazo se congela para producir energía por diferencia térmica.
+- [ ] B) El bagazo se congela para producir energía por diferencia térmica.
   <!-- feedback: Incorrecto. La congelacion no es el proceso industrial usado. -->
-- [ ] D) El bagazo se convierte directamente en paneles solares.
+- [ ] C) El bagazo se convierte directamente en paneles solares.
   <!-- feedback: Incorrecto. Los paneles no se fabrican a partir de bagazo. -->
 ### Explicacion Pedagogica
 La biomasa residual, como el bagazo de caña, tiene poder calorífico y puede sustituir combustibles fósiles. Al quemarla en calderas se produce vapor de agua a alta presión, el cual acciona turbinas acopladas a generadores. Colombia tiene experiencia consolidada en este modelo en ingenios como Manuelita y Mayaguez.
@@ -193,9 +193,9 @@ Interpretar datos energeticos requiere comparar magnitudes y reconocer tendencia
 ### Enunciado
 Cuál es una diferencia clave entre una hidroeléctrica de embalse y un parque solar fotovoltaico en términos de gestión ambiental?
 ### Opciones
-- [x] A) La hidroeléctrica inunda grandes areas e impacta comunidades; el parque solar ocupa suelo sin desplazar poblaciones.
+- [x] B) La hidroeléctrica inunda grandes areas e impacta comunidades; el parque solar ocupa suelo sin desplazar poblaciones.
   <!-- feedback: Correcto. El impacto territorial y social es claramente distinto. -->
-- [ ] B) El parque solar emite más dióxido de carbono que la hidroeléctrica.
+- [ ] A) El parque solar emite más dióxido de carbono que la hidroeléctrica.
   <!-- feedback: Incorrecto. La hidroeléctrica emite muy poco CO2; el solar casi cero. -->
 - [ ] C) La hidroeléctrica solo opera de noche y el solar solo de día.
   <!-- feedback: Incorrecto. La hidroeléctrica opera 24 horas; el solar solo de día. -->
@@ -233,9 +233,9 @@ Durante El Niño, las lluvias disminuyen en la región Andina y los caudales del
 ### Enunciado
 Cuál de las siguientes políticas es la más coherente con la transición energética y el desarrollo sostenible en Colombia?
 ### Opciones
-- [x] A) Diversificar la matriz con solar y eólica, fortalecer redes de transmisión y fomentar eficiencia energética.
+- [x] B) Diversificar la matriz con solar y eólica, fortalecer redes de transmisión y fomentar eficiencia energética.
   <!-- feedback: Correcto. Es una estrategia integral coherente con la evidencia internacional. -->
-- [ ] B) Incrementar exclusivamente la explotación de carbón en La Guajira y suspender proyectos eólicos.
+- [ ] A) Incrementar exclusivamente la explotación de carbón en La Guajira y suspender proyectos eólicos.
   <!-- feedback: Incorrecto. Eso aumenta emisiones y contradice la transición energética. -->
 - [ ] C) Eliminar todos los subsidios al gas y obligar a las familias a cocinar con lea.
   <!-- feedback: Incorrecto. La lea contamina el aire interior y no es solucion masiva. -->
@@ -253,13 +253,13 @@ La transición energética combina tres ejes: diversificar la matriz con renovab
 ### Enunciado
 Cuál es el criterio más justo para evaluar la viabilidad del nuevo parque eólico en territorio wayuu?
 ### Opciones
-- [x] A) Realizar consulta previa libre e informada y evaluar impactos ambientales, sociales y culturales.
+- [x] D) Realizar consulta previa libre e informada y evaluar impactos ambientales, sociales y culturales.
   <!-- feedback: Correcto. Es el estandar del Convenio 169 de la OIT y la Constitución colombiana. -->
-- [ ] B) Decidir unilateralmente sin consultar porque las energias renovables son urgentes.
+- [ ] A) Decidir unilateralmente sin consultar porque las energias renovables son urgentes.
   <!-- feedback: Incorrecto. La urgencia no exime del derecho a la consulta previa. -->
-- [ ] C) Aprobar si la empresa promete regalar molinos pequenos de bombeo a cada familia.
+- [ ] B) Aprobar si la empresa promete regalar molinos pequenos de bombeo a cada familia.
   <!-- feedback: Incorrecto. Las compensaciones puntuales no sustituyen la consulta previa. -->
-- [ ] D) Negarse por principio a cualquier proyecto energético en La Guajira.
+- [ ] C) Negarse por principio a cualquier proyecto energético en La Guajira.
   <!-- feedback: Incorrecto. Una postura cerrada impide beneficios verificables y participación. -->
 ### Explicacion Pedagogica
 El derecho a la consulta previa, libre e informada está reconocido por la Constitución de Colombia y el Convenio 169 de la OIT. Cualquier proyecto energético en territorio indígena debe evaluar impactos acumulativos, acordar beneficios justos y respetar la autonomia cultural wayuu, sin sustituir ese dialogo por compensaciones aisladas ni por imposicion tecnocratica.

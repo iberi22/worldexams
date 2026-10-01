@@ -29,8 +29,8 @@ bundle_index: 1
 ¿Cuál es la forma general de una ecuación cuadrática o de segundo grado con una incógnita?
 
 ### Opciones
-- [ ] A) $ax + b = 0$ <!-- feedback: Esta es la forma general de una ecuación lineal o de primer grado. -->
-- [x] B) $ax^2 + bx + c = 0$ <!-- feedback: Correcto. Esta forma incluye el término cuadrático, el lineal y el independiente, con $a \ne 0$. -->
+- [ ] B) $ax + b = 0$ <!-- feedback: Esta es la forma general de una ecuación lineal o de primer grado. -->
+- [x] A) $ax^2 + bx + c = 0$ <!-- feedback: Correcto. Esta forma incluye el término cuadrático, el lineal y el independiente, con $a \ne 0$. -->
 - [ ] C) $ax^3 + bx^2 + cx + d = 0$ <!-- feedback: Esta es la forma general de una ecuación cúbica o de tercer grado. -->
 - [ ] D) $y = mx + b$ <!-- feedback: Esta es la ecuación de una línea recta en su forma pendiente-intercepto. -->
 
@@ -67,9 +67,9 @@ El discriminante ($\Delta$) permite saber de antemano si la ecuación tiene solu
 Si el área de un terreno cuadrado es de $144$ metros cuadrados, ¿cuál es la ecuación que representa la medida de su lado $x$?
 
 ### Opciones
-- [x] A) $x^2 = 144$ <!-- feedback: Correcto. El área de un cuadrado es el lado al cuadrado. -->
-- [ ] B) $2x = 144$ <!-- feedback: Esto representaría el doble del lado, no el área. -->
-- [ ] C) $4x = 144$ <!-- feedback: Esto representaría el perímetro del cuadrado. -->
+- [x] C) $x^2 = 144$ <!-- feedback: Correcto. El área de un cuadrado es el lado al cuadrado. -->
+- [ ] A) $2x = 144$ <!-- feedback: Esto representaría el doble del lado, no el área. -->
+- [ ] B) $4x = 144$ <!-- feedback: Esto representaría el perímetro del cuadrado. -->
 - [ ] D) $x + x = 144$ <!-- feedback: Esto es equivalente a $2x$, lo cual es incorrecto. -->
 
 ### Explicacion Pedagogica
@@ -87,9 +87,9 @@ Si el discriminante $b^2 - 4ac$ es igual a cero, ¿cuántas soluciones reales di
 
 ### Opciones
 - [ ] A) Dos soluciones reales distintas. <!-- feedback: Esto ocurre cuando el discriminante es mayor que cero. -->
-- [x] B) Una única solución real (o dos soluciones iguales). <!-- feedback: Correcto. Si el discriminante es cero, la raíz desaparece y queda solo un valor. -->
-- [ ] C) Ninguna solución real. <!-- feedback: Esto ocurre cuando el discriminante es menor que cero. -->
-- [ ] D) Infinitas soluciones reales. <!-- feedback: Una ecuación cuadrática nunca puede tener infinitas soluciones. -->
+- [x] D) Una única solución real (o dos soluciones iguales). <!-- feedback: Correcto. Si el discriminante es cero, la raíz desaparece y queda solo un valor. -->
+- [ ] B) Ninguna solución real. <!-- feedback: Esto ocurre cuando el discriminante es menor que cero. -->
+- [ ] C) Infinitas soluciones reales. <!-- feedback: Una ecuación cuadrática nunca puede tener infinitas soluciones. -->
 
 ### Explicacion Pedagogica
 Cuando el discriminante es cero, el trinomio es un cuadrado perfecto y la parábola correspondiente solo toca el eje $x$ en un punto (vértice).
@@ -106,8 +106,8 @@ Resuelve la ecuación cuadrática incompleta: $x^2 - 25 = 0$.
 
 ### Opciones
 - [ ] A) $x = 5$ <!-- feedback: Falta la solución negativa. Toda raíz cuadrada en una ecuación tiene dos valores posibles. -->
-- [x] B) $x = 5, x = -5$ <!-- feedback: Correcto. $x^2 = 25 \Rightarrow x = \pm \sqrt{25} \Rightarrow x = \pm 5$. -->
-- [ ] C) $x = 12.5$ <!-- feedback: Se dividió 25 entre 2 en lugar de extraer la raíz cuadrada. -->
+- [x] C) $x = 5, x = -5$ <!-- feedback: Correcto. $x^2 = 25 \Rightarrow x = \pm \sqrt{25} \Rightarrow x = \pm 5$. -->
+- [ ] B) $x = 12.5$ <!-- feedback: Se dividió 25 entre 2 en lugar de extraer la raíz cuadrada. -->
 - [ ] D) No tiene solución real. <!-- feedback: Incorrecto. Dado que 25 es positivo, tiene dos raíces reales. -->
 
 ### Explicacion Pedagogica
@@ -124,8 +124,8 @@ Las ecuaciones cuadráticas puras se resuelven despejando $x^2$ y extrayendo la 
 Si el agricultor planta un total de $400$ árboles, ¿cuántos árboles hay en cada fila?
 
 ### Opciones
-- [ ] A) $10$ árboles <!-- feedback: $10 \times 10 = 100$, no es suficiente. -->
-- [x] B) $20$ árboles <!-- feedback: Correcto. $x^2 = 400 \Rightarrow x = 20$. -->
+- [ ] B) $10$ árboles <!-- feedback: $10 \times 10 = 100$, no es suficiente. -->
+- [x] A) $20$ árboles <!-- feedback: Correcto. $x^2 = 400 \Rightarrow x = 20$. -->
 - [ ] C) $40$ árboles <!-- feedback: $40 \times 40 = 1,600$, se excede. -->
 - [ ] D) $200$ árboles <!-- feedback: Error al dividir por 2 en lugar de extraer raíz cuadrada. -->
 
@@ -163,9 +163,9 @@ La factorización de un trinomio permite convertir la ecuación en dos ecuacione
 
 ### Opciones
 - [ ] A) $x = 1$ <!-- feedback: No necesariamente; depende de los valores de $a$ y $b$. -->
-- [x] B) $x = 0$ <!-- feedback: Correcto. Al factorizar $x(ax + b) = 0$, una solución siempre es $x = 0$. -->
-- [ ] C) $x = -1$ <!-- feedback: No es una solución general para este tipo de ecuaciones. -->
-- [ ] D) No tiene soluciones reales. <!-- feedback: Este tipo de ecuaciones siempre tiene al menos una solución real. -->
+- [x] D) $x = 0$ <!-- feedback: Correcto. Al factorizar $x(ax + b) = 0$, una solución siempre es $x = 0$. -->
+- [ ] B) $x = -1$ <!-- feedback: No es una solución general para este tipo de ecuaciones. -->
+- [ ] C) No tiene soluciones reales. <!-- feedback: Este tipo de ecuaciones siempre tiene al menos una solución real. -->
 
 ### Explicacion Pedagogica
 Al no tener término independiente ($c=0$), la variable $x$ es factor común, lo que garantiza que el cero sea una raíz de la ecuación.
@@ -181,8 +181,8 @@ Al no tener término independiente ($c=0$), la variable $x$ es factor común, lo
 Resuelve la ecuación $2x^2 - 10x = 0$.
 
 ### Opciones
-- [ ] A) $x = 0, x = 2$ <!-- feedback: El segundo factor es $2x-10$, cuya raíz es 5. -->
-- [x] B) $x = 0, x = 5$ <!-- feedback: Correcto. $2x(x - 5) = 0 \Rightarrow 2x = 0$ o $x - 5 = 0$. -->
+- [ ] B) $x = 0, x = 2$ <!-- feedback: El segundo factor es $2x-10$, cuya raíz es 5. -->
+- [x] A) $x = 0, x = 5$ <!-- feedback: Correcto. $2x(x - 5) = 0 \Rightarrow 2x = 0$ o $x - 5 = 0$. -->
 - [ ] C) $x = 5, x = -5$ <!-- feedback: Esta sería la solución para una ecuación pura como $x^2-25=0$. -->
 - [ ] D) $x = 0, x = 10$ <!-- feedback: Se olvidó dividir 10 entre el coeficiente 2. -->
 
@@ -200,8 +200,8 @@ Se aplica la factorización por factor común para descomponer la ecuación en d
 Dada la ecuación $x^2 - 4x + 1 = 0$, ¿cuál es el valor del discriminante?
 
 ### Opciones
-- [ ] A) $20$ <!-- feedback: Error al aplicar la fórmula $b^2 - 4ac$. -->
-- [x] B) $12$ <!-- feedback: Correcto. $(-4)^2 - 4(1)(1) = 16 - 4 = 12$. -->
+- [ ] B) $20$ <!-- feedback: Error al aplicar la fórmula $b^2 - 4ac$. -->
+- [x] A) $12$ <!-- feedback: Correcto. $(-4)^2 - 4(1)(1) = 16 - 4 = 12$. -->
 - [ ] C) $0$ <!-- feedback: Incorrecto. $b^2$ es 16, no 4. -->
 - [ ] D) $-12$ <!-- feedback: Error de signos en el cálculo de $b^2$. -->
 
@@ -219,8 +219,8 @@ El discriminante se halla con la expresión $b^2 - 4ac$. Un valor positivo indic
 Resuelve la ecuación $x^2 - 5x + 6 = 0$ usando la fórmula cuadrática.
 
 ### Opciones
-- [ ] A) $x = -2, x = -3$ <!-- feedback: Error en el signo final de las soluciones. -->
-- [x] B) $x = 2, x = 3$ <!-- feedback: Correcto. $x = \frac{5 \pm \sqrt{25 - 24}}{2} = \frac{5 \pm 1}{2}$. -->
+- [ ] B) $x = -2, x = -3$ <!-- feedback: Error en el signo final de las soluciones. -->
+- [x] A) $x = 2, x = 3$ <!-- feedback: Correcto. $x = \frac{5 \pm \sqrt{25 - 24}}{2} = \frac{5 \pm 1}{2}$. -->
 - [ ] C) $x = 1, x = 6$ <!-- feedback: Estos valores no satisfacen la ecuación original. -->
 - [ ] D) $x = 2.5 \pm 1$ <!-- feedback: Aunque el proceso es correcto, las soluciones finales deben ser valores discretos. -->
 
@@ -258,8 +258,8 @@ Se plantea una ecuación cuadrática basada en el teorema de Pitágoras. Al obte
 
 ### Opciones
 - [ ] A) $10$ <!-- feedback: Se debe usar la mitad del coeficiente lineal elevada al cuadrado. -->
-- [ ] B) $100$ <!-- feedback: Este es el cuadrado de 10, pero se necesita el cuadrado de la mitad de 10. -->
-- [x] C) $25$ <!-- feedback: Correcto. $(10/2)^2 = 5^2 = 25$. -->
+- [ ] C) $100$ <!-- feedback: Este es el cuadrado de 10, pero se necesita el cuadrado de la mitad de 10. -->
+- [x] B) $25$ <!-- feedback: Correcto. $(10/2)^2 = 5^2 = 25$. -->
 - [ ] D) $5$ <!-- feedback: Este es el valor de la mitad, pero falta elevarlo al cuadrado. -->
 
 ### Explicacion Pedagogica
@@ -277,8 +277,8 @@ Resuelve la ecuación $x^2 - 8x + 16 = 0$.
 
 ### Opciones
 - [ ] A) $x = 4, x = -4$ <!-- feedback: Esta sería la solución de $x^2-16=0$. -->
-- [x] B) $x = 4$ (solución doble) <!-- feedback: Correcto. Es un trinomio cuadrado perfecto $(x-4)^2 = 0$. -->
-- [ ] C) $x = 8, x = 2$ <!-- feedback: El producto de estos valores es 16, pero su suma es 10, no 8. -->
+- [x] C) $x = 4$ (solución doble) <!-- feedback: Correcto. Es un trinomio cuadrado perfecto $(x-4)^2 = 0$. -->
+- [ ] B) $x = 8, x = 2$ <!-- feedback: El producto de estos valores es 16, pero su suma es 10, no 8. -->
 - [ ] D) No tiene solución real. <!-- feedback: Incorrecto. El discriminante es cero, por lo que tiene una solución real. -->
 
 ### Explicacion Pedagogica
@@ -314,8 +314,8 @@ Un discriminante negativo indica que la parábola asociada no corta el eje $x$, 
 Si la altura está dada por $h = 80 - 5t^2$, ¿cuánto tiempo ($t$) tarda en llegar al suelo ($h=0$)?
 
 ### Opciones
-- [ ] A) $16$ s <!-- feedback: Este es el valor de $t^2$, falta extraer la raíz cuadrada. -->
-- [x] B) $4$ s <!-- feedback: Correcto. $5t^2 = 80 \Rightarrow t^2 = 16 \Rightarrow t = 4$. -->
+- [ ] B) $16$ s <!-- feedback: Este es el valor de $t^2$, falta extraer la raíz cuadrada. -->
+- [x] A) $4$ s <!-- feedback: Correcto. $5t^2 = 80 \Rightarrow t^2 = 16 \Rightarrow t = 4$. -->
 - [ ] C) $8$ s <!-- feedback: Error al realizar la división o la extracción de la raíz. -->
 - [ ] D) $5$ s <!-- feedback: Incorrecto. No satisface la ecuación de caída libre. -->
 
@@ -333,9 +333,9 @@ El tiempo en problemas de caída libre suele resolverse mediante una ecuación c
 Si las raíces de una ecuación cuadrática son $x_1 = 3$ y $x_2 = -5$, ¿cuál es la ecuación original en su forma general?
 
 ### Opciones
-- [x] A) $x^2 + 2x - 15 = 0$ <!-- feedback: Correcto. $(x-3)(x+5) = x^2 + 2x - 15$. La suma de raíces es $-b/a$ y el producto es $c/a$. -->
-- [ ] B) $x^2 - 2x - 15 = 0$ <!-- feedback: Aquí la suma de raíces sería 2, pero $3 + (-5) = -2$. -->
-- [ ] C) $x^2 + 8x + 15 = 0$ <!-- feedback: Error en los signos de las raíces al reconstruir la ecuación. -->
+- [x] C) $x^2 + 2x - 15 = 0$ <!-- feedback: Correcto. $(x-3)(x+5) = x^2 + 2x - 15$. La suma de raíces es $-b/a$ y el producto es $c/a$. -->
+- [ ] A) $x^2 - 2x - 15 = 0$ <!-- feedback: Aquí la suma de raíces sería 2, pero $3 + (-5) = -2$. -->
+- [ ] B) $x^2 + 8x + 15 = 0$ <!-- feedback: Error en los signos de las raíces al reconstruir la ecuación. -->
 - [ ] D) $x^2 - 8x - 15 = 0$ <!-- feedback: Los términos no coinciden con las raíces dadas. -->
 
 ### Explicacion Pedagogica
@@ -390,8 +390,8 @@ Al igualar la función a un valor dado, se forma una nueva ecuación cuadrática
 Sin resolver la ecuación $x^2 - 7x + 10 = 0$, ¿cuál es el valor de la suma de los recíprocos de sus raíces ($1/x_1 + 1/x_2$)?
 
 ### Opciones
-- [ ] A) $10/7$ <!-- feedback: Esto es producto dividido entre suma. Se requiere suma dividida entre producto. -->
-- [x] B) $7/10$ <!-- feedback: Correcto. $1/x_1 + 1/x_2 = (x_1 + x_2) / (x_1 \cdot x_2) = S/P = 7/10$. -->
+- [ ] B) $10/7$ <!-- feedback: Esto es producto dividido entre suma. Se requiere suma dividida entre producto. -->
+- [x] A) $7/10$ <!-- feedback: Correcto. $1/x_1 + 1/x_2 = (x_1 + x_2) / (x_1 \cdot x_2) = S/P = 7/10$. -->
 - [ ] C) $7$ <!-- feedback: Esta es solo la suma de las raíces. -->
 - [ ] D) $1/10$ <!-- feedback: Incorrecto. Solo consideraste el producto de las raíces. -->
 

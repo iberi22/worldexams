@@ -57,11 +57,11 @@ En el Movimiento Rectilíneo Uniforme (MRU), la velocidad permane constante tant
 ¿Cuál es la magnitud de la aceleración del automóvil?
 
 ### Opciones
-- [x] A) $4\text{ m/s}^2$
+- [x] C) $4\text{ m/s}^2$
   <!-- feedback: Correcto. La aceleración promedio es $a = \frac{v_f - v_i}{t} = \frac{20 - 0}{5} = 4\text{ m/s}^2$. -->
-- [ ] B) $100\text{ m/s}^2$
+- [ ] A) $100\text{ m/s}^2$
   <!-- feedback: Incorrecto. Corresponde al producto $v \cdot t$, no al cociente $\Delta v / t$. -->
-- [ ] C) $5\text{ m/s}^2$
+- [ ] B) $5\text{ m/s}^2$
   <!-- feedback: Incorrecto. Se obtiene al dividir incorrectamente el tiempo entre un valor no indicado. -->
 - [ ] D) $20\text{ m/s}^2$
   <!-- feedback: Incorrecto. Esta es la velocidad final alcanzada, no la aceleración. -->
@@ -80,9 +80,9 @@ La aceleración mide la tasa de cambio de la velocidad en el tiempo ($a = \frac{
 ¿Por qué se afirma que el ciclista experimenta una aceleración centrípeta aunque su rapidez no cambie?
 
 ### Opciones
-- [x] A) Porque la dirección del vector velocidad cambia continuamente a lo largo de la trayectoria circular.
+- [x] B) Porque la dirección del vector velocidad cambia continuamente a lo largo de la trayectoria circular.
   <!-- feedback: Correcto. La aceleración no solo cambia la magnitud de la velocidad, sino también su dirección. -->
-- [ ] B) Porque la fuerza de fricción destruye la energía mecánica del sistema.
+- [ ] A) Porque la fuerza de fricción destruye la energía mecánica del sistema.
   <!-- feedback: Incorrecto. La aceleración centrípeta es un concepto cinemático debido al cambio de dirección del vector velocidad. -->
 - [ ] C) Porque la masa del ciclista aumenta durante el viraje.
   <!-- feedback: Incorrecto. La masa es una propiedad escalar constante durante el movimiento clásico. -->
@@ -103,11 +103,11 @@ El vector velocidad es tangente a la trayectoria. En un Movimiento Circular Unif
 ¿Qué gráfica representa correctamente la velocidad vertical ($v$) en función del tiempo ($t$) para la piedra?
 
 ### Opciones
-- [x] A) Una línea recta ascendente que pasa por el origen.
+- [x] C) Una línea recta ascendente que pasa por el origen.
   <!-- feedback: Correcto. En caída libre con $a = g$ constante, $v(t) = g \cdot t$, que es una función lineal creciente. -->
-- [ ] B) Una parábola cóncava hacia abajo que parte del origen.
+- [ ] A) Una parábola cóncava hacia abajo que parte del origen.
   <!-- feedback: Incorrecto. La parábola representa la posición $y(t)$, no la velocidad $v(t)$. -->
-- [ ] C) Una línea horizontal paralela al eje del tiempo.
+- [ ] B) Una línea horizontal paralela al eje del tiempo.
   <!-- feedback: Incorrecto. Una línea horizontal correspondería a velocidad constante (MRU). -->
 - [ ] D) Una curva exponencial decreciente.
   <!-- feedback: Incorrecto. La aceleración constante produce una variación lineal de la velocidad. -->
@@ -126,9 +126,9 @@ En la caída libre bajo la acción de la gravedad constante $g$, la velocidad au
 En el punto más alto de la trayectoria parabólica de la bala, ¿cuál es el estado de su velocidad y aceleración vertical?
 
 ### Opciones
-- [x] A) La componente vertical de la velocidad es cero y la aceleración es $g$ dirigida hacia abajo.
+- [x] B) La componente vertical de la velocidad es cero y la aceleración es $g$ dirigida hacia abajo.
   <!-- feedback: Correcto. En el vértice parabólico $v_y = 0$, pero la gravedad $g$ sigue actuando ininterrumpidamente hacia abajo. -->
-- [ ] B) Tanto la velocidad vertical como la aceleración son simultáneamente cero.
+- [ ] A) Tanto la velocidad vertical como la aceleración son simultáneamente cero.
   <!-- feedback: Incorrecto. Si la aceleración fuera cero, la bala continuaría flotando horizontalmente de forma indefinida. -->
 - [ ] C) La velocidad vertical alcanza su valor máximo y la aceleración es positiva hacia arriba.
   <!-- feedback: Incorrecto. En el punto más alto la velocidad vertical se anula momentáneamente. -->
@@ -149,9 +149,9 @@ En un movimiento parabólico, el movimiento horizontal es MRU ($v_x = \text{cons
 ¿Qué distancia recorre el tren durante el proceso de frenado?
 
 ### Opciones
-- [x] A) $225\text{ metros}$
+- [x] B) $225\text{ metros}$
   <!-- feedback: Correcto. En MRUA, $x = \frac{v_i + v_f}{2} \cdot t = \frac{30 + 0}{2} \cdot 15 = 15 \cdot 15 = 225\text{ m}$. -->
-- [ ] B) $450\text{ metros}$
+- [ ] A) $450\text{ metros}$
   <!-- feedback: Incorrecto. Corresponde al cálculo sin dividir la velocidad inicial entre 2 ($30 \cdot 15$). -->
 - [ ] C) $150\text{ metros}$
   <!-- feedback: Incorrecto. Cálculo erróneo al asumir aceleración de $1\text{ m/s}^2$. -->
@@ -172,9 +172,9 @@ La distancia recorrida en un frenado con aceleración constante se calcula con $
 ¿Cuánto tiempo tarda el paquete en impactar el suelo?
 
 ### Opciones
-- [x] A) $3\text{ segundos}$
+- [x] B) $3\text{ segundos}$
   <!-- feedback: Correcto. El tiempo depende solo de la caída vertical: $h = \frac{1}{2}g t^2 \implies 45 = 5 t^2 \implies t^2 = 9 \implies t = 3\text{ s}$. -->
-- [ ] B) $4.5\text{ segundos}$
+- [ ] A) $4.5\text{ segundos}$
   <!-- feedback: Incorrecto. Se obtiene al dividir $45$ entre $10$ sin considerar la raíz cuadrada. -->
 - [ ] C) $9\text{ segundos}$
   <!-- feedback: Incorrecto. Es el valor de $t^2$, falta extraer la raíz cuadrada. -->
@@ -195,11 +195,11 @@ Los movimientos horizontal y vertical son independientes. La caída vertical sig
 ¿Qué se puede deducir sobre el movimiento de la partícula a partir de esta forma parabólica?
 
 ### Opciones
-- [x] A) La partícula se mueve con una aceleración constante positiva.
+- [x] C) La partícula se mueve con una aceleración constante positiva.
   <!-- feedback: Correcto. La ecuación $x(t) = x_0 + v_0 t + \frac{1}{2}a t^2$ es parabólica; si es cóncava hacia arriba, $a > 0$. -->
-- [ ] B) La velocidad de la partícula es constante y diferente de cero.
+- [ ] A) La velocidad de la partícula es constante y diferente de cero.
   <!-- feedback: Incorrecto. Una velocidad constante produce una recta con pendiente no nula en un gráfico $x$ vs $t$. -->
-- [ ] C) La partícula se encuentra completamente en reposo.
+- [ ] B) La partícula se encuentra completamente en reposo.
   <!-- feedback: Incorrecto. El reposo se grafica como una línea horizontal en el gráfico $x$ vs $t$. -->
 - [ ] D) La aceleración de la partícula es negativa y variable.
   <!-- feedback: Incorrecto. Una concavidad hacia arriba implica aceleración constante positiva. -->
@@ -241,9 +241,9 @@ La velocidad relativa entre vectores perpendiculares $\vec{v}_A$ y $\vec{v}_B$ s
 ¿Cuál fue la aceleración del automóvil durante este recorrido?
 
 ### Opciones
-- [x] A) $5\text{ m/s}^2$
+- [x] B) $5\text{ m/s}^2$
   <!-- feedback: Correcto. Usando $v_f^2 = v_i^2 + 2a\Delta x \implies 30^2 = 10^2 + 2a(80) \implies 900 - 100 = 160a \implies a = \frac{800}{160} = 5\text{ m/s}^2$. -->
-- [ ] B) $10\text{ m/s}^2$
+- [ ] A) $10\text{ m/s}^2$
   <!-- feedback: Incorrecto. Se obtiene si se olvida el factor $2$ en el denominador. -->
 - [ ] C) $2.5\text{ m/s}^2$
   <!-- feedback: Incorrecto. Error derivado de dividir entre el doble de la distancia. -->
@@ -264,13 +264,13 @@ Utilizando la ecuación cinemática independiente del tiempo $v_f^2 = v_i^2 + 2a
 ¿Qué representa físicamente el área bajo la curva en dicho gráfico y cuál es su valor?
 
 ### Opciones
-- [x] A) Representa el desplazamiento total realizado y es igual a $30\text{ metros}$.
+- [x] D) Representa el desplazamiento total realizado y es igual a $30\text{ metros}$.
   <!-- feedback: Correcto. El área bajo la curva $v(t)$ es el desplazamiento: $A = \frac{b \cdot h}{2} = \frac{10 \cdot 6}{2} = 30\text{ m}$. -->
-- [ ] B) Representa la aceleración promedio y equivale a $0.6\text{ m/s}^2$.
+- [ ] A) Representa la aceleración promedio y equivale a $0.6\text{ m/s}^2$.
   <!-- feedback: Incorrecto. La pendiente representa la aceleración, no el área bajo la curva. -->
-- [ ] C) Representa la fuerza neta aplicada y equivale a $60\text{ N}$.
+- [ ] B) Representa la fuerza neta aplicada y equivale a $60\text{ N}$.
   <!-- feedback: Incorrecto. El área en un gráfico $v(t)$ tiene unidades de longitud (metros), no fuerza. -->
-- [ ] D) Representa el tiempo total de retorno y es igual a $5\text{ segundos}$.
+- [ ] C) Representa el tiempo total de retorno y es igual a $5\text{ segundos}$.
   <!-- feedback: Incorrecto. El tiempo está en el eje horizontal, el área es la integral de la velocidad. -->
 
 ### Explicacion Pedagogica
@@ -287,9 +287,9 @@ En un gráfico de velocidad versus tiempo $v(t)$, la integral $\int v \, dt$ rep
 Al comparar el alcance horizontal $R$ y el tiempo de vuelo $t_v$ de ambos proyectiles (despreciando el aire), ¿cuál afirmación es correcta?
 
 ### Opciones
-- [x] A) Ambos proyectiles tienen el mismo alcance horizontal, pero el proyectil 2 tiene mayor tiempo de vuelo.
+- [x] B) Ambos proyectiles tienen el mismo alcance horizontal, pero el proyectil 2 tiene mayor tiempo de vuelo.
   <!-- feedback: Correcto. Ángulos complementarios ($30^\circ + 60^\circ = 90^\circ$) dan el mismo alcance $R = \frac{v_0^2 \sin(2\theta)}{g}$. Como $\sin(60^\circ) = \sin(120^\circ)$, $R_1 = R_2$. El tiempo $t_v = \frac{2v_0\sin\theta}{g}$ es mayor para $60^\circ$. -->
-- [ ] B) El proyectil 1 alcanza mayor distancia horizontal y permanece más tiempo en el aire.
+- [ ] A) El proyectil 1 alcanza mayor distancia horizontal y permanece más tiempo en el aire.
   <!-- feedback: Incorrecto. El tiempo de vuelo depende del seno del ángulo, que es mayor para $60^\circ$. -->
 - [ ] C) El proyectil 2 logra mayor alcance horizontal y menor tiempo de vuelo.
   <!-- feedback: Incorrecto. Los alcances son idénticos por ser ángulos complementarios. -->
@@ -333,9 +333,9 @@ Para convertir la frecuencia de rotación $f = 1200\text{ rpm}$ a velocidad angu
 ¿Qué distancia recorre la esfera exclusivamente durante dicho segundo intervalo de tiempo ($t = 1\text{ s}$ a $t = 2\text{ s}$)?
 
 ### Opciones
-- [x] A) $15\text{ metros}$
+- [x] B) $15\text{ metros}$
   <!-- feedback: Correcto. Posición a $t=1$: $y(1) = 5(1)^2 = 5\text{ m}$. Posición a $t=2$: $y(2) = 5(2)^2 = 20\text{ m}$. La distancia en el 2do segundo es $20 - 5 = 15\text{ m}$. -->
-- [ ] B) $20\text{ metros}$
+- [ ] A) $20\text{ metros}$
   <!-- feedback: Incorrecto. $20\text{ m}$ es la distancia acumulada total desde $t=0$ hasta $t=2$. -->
 - [ ] C) $10\text{ metros}$
   <!-- feedback: Incorrecto. Es la aceleración de la gravedad, no la distancia recorrida en ese intervalo. -->
@@ -356,9 +356,9 @@ La posición en caída libre es $y(t) = \frac{1}{2}g t^2 = 5t^2$. A $t=1\text{ s
 ¿Cuál es la velocidad del pasajero observada por una persona de pie en la orilla del río?
 
 ### Opciones
-- [x] A) $7\text{ m/s}$ en la misma dirección del movimiento del río.
+- [x] B) $7\text{ m/s}$ en la misma dirección del movimiento del río.
   <!-- feedback: Correcto. Por transformación Galileana de velocidades: $v_{total} = v_{bote/orilla} + v_{pasajero/bote} = 5 + 2 = 7\text{ m/s}$. -->
-- [ ] B) $3\text{ m/s}$ en dirección opuesta a la corriente.
+- [ ] A) $3\text{ m/s}$ en dirección opuesta a la corriente.
   <!-- feedback: Incorrecto. Corresponde si el pasajero caminara hacia la popa (atrás). -->
 - [ ] C) $2\text{ m/s}$ respecto a la orilla.
   <!-- feedback: Incorrecto. Esta es la velocidad relativa del pasajero respecto al bote únicamente. -->
@@ -402,11 +402,11 @@ Dado que $v_{media} = \frac{d_{total}}{t_{total}}$, siendo $t_1 = \frac{d/2}{v_1
 ¿En qué instante(s) de tiempo la partícula se detiene momentáneamente ($v = 0$)?
 
 ### Opciones
-- [x] A) A los $t = 1\text{ s}$ y $t = 2\text{ s}$.
+- [x] C) A los $t = 1\text{ s}$ y $t = 2\text{ s}$.
   <!-- feedback: Correcto. Derivando la posición: $v(t) = 6t^2 - 18t + 12$. Igualando a cero: $6(t^2 - 3t + 2) = 0 \implies (t-1)(t-2) = 0 \implies t = 1\text{ s}$ y $t = 2\text{ s}$. -->
-- [ ] B) Únicamente a los $t = 3\text{ s}$.
+- [ ] A) Únicamente a los $t = 3\text{ s}$.
   <!-- feedback: Incorrecto. $t=3$ es la raíz de la ecuación de aceleración nula, no de velocidad nula. -->
-- [ ] C) A los $t = 0\text{ s}$ y $t = 4\text{ s}$.
+- [ ] B) A los $t = 0\text{ s}$ y $t = 4\text{ s}$.
   <!-- feedback: Incorrecto. A $t=0$, $v(0) = 12\text{ m/s}$. -->
 - [ ] D) La partícula nunca se detiene porque es una función cúbica.
   <!-- feedback: Incorrecto. La función derivada posee dos raíces reales positivas. -->
@@ -425,9 +425,9 @@ La velocidad es la primera derivada de la posición: $v(t) = \frac{dx}{dt} = 6t^
 ¿Cómo se modifica la aceleración centrípeta $a_c$ del satélite tras esta variación cinemática?
 
 ### Opciones
-- [x] A) La aceleración centrípeta se cuadruplica ($4 a_c$).
+- [x] B) La aceleración centrípeta se cuadruplica ($4 a_c$).
   <!-- feedback: Correcto. Como $a_c = \frac{v^2}{r}$, al sustituir $v' = 2v$, se obtiene $a_c' = \frac{(2v)^2}{r} = \frac{4v^2}{r} = 4 a_c$. -->
-- [ ] B) La aceleración centrípeta se duplica ($2 a_c$).
+- [ ] A) La aceleración centrípeta se duplica ($2 a_c$).
   <!-- feedback: Incorrecto. Asume una relación lineal entre velocidad y aceleración centrípeta. -->
 - [ ] C) La aceleración centrípeta se reduce a la mitad ($a_c / 2$).
   <!-- feedback: Incorrecto. Inversión errónea de la fórmula de aceleración centrípeta. -->
@@ -448,13 +448,13 @@ La aceleración centrípeta es proporcional al cuadrado de la rapidez tangencial
 ¿Qué tipo de función matemática describe el perfil de velocidad $v(t)$ del autobús durante la desaceleración?
 
 ### Opciones
-- [x] A) Una función decreciente de tipo exponencial: $v(t) = v_0 e^{-kt}$.
+- [x] D) Una función decreciente de tipo exponencial: $v(t) = v_0 e^{-kt}$.
   <!-- feedback: Correcto. Integrando la ecuación diferencial $\frac{dv}{dt} = -k v \implies \frac{dv}{v} = -k dt \implies \ln(v) = -kt + C \implies v(t) = v_0 e^{-kt}$. -->
-- [ ] B) Una función lineal decreciente: $v(t) = v_0 - kt$.
+- [ ] A) Una función lineal decreciente: $v(t) = v_0 - kt$.
   <!-- feedback: Incorrecto. La linealidad ocurre solo cuando la aceleración $a$ es constante, no cuando depende de $v$. -->
-- [ ] C) Una función polinómica cuadrática: $v(t) = v_0 - k t^2$.
+- [ ] B) Una función polinómica cuadrática: $v(t) = v_0 - k t^2$.
   <!-- feedback: Incorrecto. Una aceleración dependiente de $v$ no genera un polinomio de segundo grado en tiempo. -->
-- [ ] D) Una constante independiente del tiempo.
+- [ ] C) Una constante independiente del tiempo.
   <!-- feedback: Incorrecto. Al existir desaceleración no nula, la velocidad debe variar con el tiempo. -->
 
 ### Explicacion Pedagogica

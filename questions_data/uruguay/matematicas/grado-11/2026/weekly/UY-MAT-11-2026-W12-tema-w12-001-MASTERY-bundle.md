@@ -33,9 +33,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 
 ### Opciones
 - [ ] A) $\frac{\pi}{2}\text{ rad}$ <!-- feedback: Incorrecto. $\frac{\pi}{2}$ equivale a $90^\circ$. -->
-- [x] B) $\pi\text{ rad}$ <!-- feedback: ¡Correcto! La equivalencia fundamental es $180^\circ = \pi\text{ rad}$. -->
-- [ ] C) $2\pi\text{ rad}$ <!-- feedback: Incorrecto. $2\pi\text{ rad}$ equivale a una vuelta completa ($360^\circ$). -->
-- [ ] D) $\frac{\pi}{4}\text{ rad}$ <!-- feedback: Incorrecto. $\frac{\pi}{4}$ equivale a $45^\circ$. -->
+- [x] D) $\pi\text{ rad}$ <!-- feedback: ¡Correcto! La equivalencia fundamental es $180^\circ = \pi\text{ rad}$. -->
+- [ ] B) $2\pi\text{ rad}$ <!-- feedback: Incorrecto. $2\pi\text{ rad}$ equivale a una vuelta completa ($360^\circ$). -->
+- [ ] C) $\frac{\pi}{4}\text{ rad}$ <!-- feedback: Incorrecto. $\frac{\pi}{4}$ equivale a $45^\circ$. -->
 
 ### Explicación Pedagógica
 Por definición de radián, un ángulo llano de $180^\circ$ corresponde exactamente a un arco de longitud igual a $\pi$ en la circunferencia unitaria.
@@ -51,8 +51,8 @@ Por definición de radián, un ángulo llano de $180^\circ$ corresponde exactame
 ¿Cuál es la relación pitagórica fundamental entre el seno y el coseno de un mismo ángulo $\theta$?
 
 ### Opciones
-- [ ] A) $\sin(\theta) + \cos(\theta) = 1$ <!-- feedback: Incorrecto. La suma de las funciones sin elevar al cuadrado no es constante 1. -->
-- [x] B) $\sin^2(\theta) + \cos^2(\theta) = 1$ <!-- feedback: ¡Correcto! Es la identidad pitagórica trigonométrica fundamental derivada del Teorema de Pitágoras en el círculo unitario. -->
+- [ ] B) $\sin(\theta) + \cos(\theta) = 1$ <!-- feedback: Incorrecto. La suma de las funciones sin elevar al cuadrado no es constante 1. -->
+- [x] A) $\sin^2(\theta) + \cos^2(\theta) = 1$ <!-- feedback: ¡Correcto! Es la identidad pitagórica trigonométrica fundamental derivada del Teorema de Pitágoras en el círculo unitario. -->
 - [ ] C) $\sin^2(\theta) - \cos^2(\theta) = 1$ <!-- feedback: Incorrecto. $\cos^2(\theta) - \sin^2(\theta) = \cos(2\theta)$, no 1. -->
 - [ ] D) $\tan^2(\theta) + 1 = \sin^2(\theta)$ <!-- feedback: Incorrecto. La identidad correcta con tangente es $\tan^2(\theta) + 1 = \sec^2(\theta)$. -->
 
@@ -70,8 +70,8 @@ En el círculo trigonométrico unitario $x^2 + y^2 = 1$, con $x = \cos(\theta)$ 
 ¿Cuál es el valor de $\sin(30^\circ)$ o $\sin\left(\frac{\pi}{6}\right)$?
 
 ### Opciones
-- [ ] A) $\frac{\sqrt{3}}{2}$ <!-- feedback: Incorrecto. Ese es el valor de $\cos(30^\circ)$ o $\sin(60^\circ)$. -->
-- [x] B) $\frac{1}{2}$ <!-- feedback: ¡Correcto! $\sin(30^\circ) = 0.5$. -->
+- [ ] B) $\frac{\sqrt{3}}{2}$ <!-- feedback: Incorrecto. Ese es el valor de $\cos(30^\circ)$ o $\sin(60^\circ)$. -->
+- [x] A) $\frac{1}{2}$ <!-- feedback: ¡Correcto! $\sin(30^\circ) = 0.5$. -->
 - [ ] C) $\frac{\sqrt{2}}{2}$ <!-- feedback: Incorrecto. Ese es el valor de $\sin(45^\circ)$. -->
 - [ ] D) $1$ <!-- feedback: Incorrecto. Ese es el valor de $\sin(90^\circ)$. -->
 
@@ -89,9 +89,9 @@ En un triángulo rectángulo de ángulos $30^\circ-60^\circ-90^\circ$, el cateto
 ¿En qué cuadrante son positivos TANTO el seno COMO el coseno?
 
 ### Opciones
-- [x] A) Primer cuadrante (I) <!-- feedback: ¡Correcto! En el I cuadrante, $x > 0$ y $y > 0$, luego $\cos(\theta) > 0$ y $\sin(\theta) > 0$. -->
-- [ ] B) Segundo cuadrante (II) <!-- feedback: Incorrecto. En el II cuadrante el coseno es negativo ($x < 0$). -->
-- [ ] C) Tercer cuadrante (III) <!-- feedback: Incorrecto. En el III cuadrante tanto seno como coseno son negativos. -->
+- [x] C) Primer cuadrante (I) <!-- feedback: ¡Correcto! En el I cuadrante, $x > 0$ y $y > 0$, luego $\cos(\theta) > 0$ y $\sin(\theta) > 0$. -->
+- [ ] A) Segundo cuadrante (II) <!-- feedback: Incorrecto. En el II cuadrante el coseno es negativo ($x < 0$). -->
+- [ ] B) Tercer cuadrante (III) <!-- feedback: Incorrecto. En el III cuadrante tanto seno como coseno son negativos. -->
 - [ ] D) Cuarto cuadrante (IV) <!-- feedback: Incorrecto. En el IV cuadrante el seno es negativo ($y < 0$). -->
 
 ### Explicación Pedagógica
@@ -108,8 +108,8 @@ Dado que $\cos(\theta) = x$ y $\sin(\theta) = y$ en la circunferencia unitaria, 
 Si $\sin(\theta) = \frac{3}{5}$ y $\cos(\theta) = \frac{4}{5}$, ¿cuál es el valor de $\tan(\theta)$?
 
 ### Opciones
-- [ ] A) $\frac{4}{3}$ <!-- feedback: Incorrecto. Invertiste la relación $\frac{\cos}{\sin}$; esa es la cotangente. -->
-- [x] B) $\frac{3}{4}$ <!-- feedback: ¡Correcto! $\tan(\theta) = \frac{\sin(\theta)}{\cos(\theta)} = \frac{3/5}{4/5} = \frac{3}{4}$. -->
+- [ ] B) $\frac{4}{3}$ <!-- feedback: Incorrecto. Invertiste la relación $\frac{\cos}{\sin}$; esa es la cotangente. -->
+- [x] A) $\frac{3}{4}$ <!-- feedback: ¡Correcto! $\tan(\theta) = \frac{\sin(\theta)}{\cos(\theta)} = \frac{3/5}{4/5} = \frac{3}{4}$. -->
 - [ ] C) $\frac{5}{3}$ <!-- feedback: Incorrecto. Esa es la cosecante $\frac{1}{\sin(\theta)}$. -->
 - [ ] D) $\frac{12}{25}$ <!-- feedback: Incorrecto. Multiplicaste seno y coseno en lugar de dividirlos. -->
 
@@ -127,8 +127,8 @@ La tangente se define como el cociente entre el seno y el coseno del mismo ángu
 ¿Cuál es el período de la función $f(x) = \sin(2x)$?
 
 ### Opciones
-- [ ] A) $2\pi$ <!-- feedback: Incorrecto. $2\pi$ es el período de la función seno básica $\sin(x)$. -->
-- [x] B) $\pi$ <!-- feedback: ¡Correcto! El período de $\sin(kx)$ es $T = \frac{2\pi}{k}$. Para $k=2$, $T = \frac{2\pi}{2} = \pi$. -->
+- [ ] B) $2\pi$ <!-- feedback: Incorrecto. $2\pi$ es el período de la función seno básica $\sin(x)$. -->
+- [x] A) $\pi$ <!-- feedback: ¡Correcto! El período de $\sin(kx)$ es $T = \frac{2\pi}{k}$. Para $k=2$, $T = \frac{2\pi}{2} = \pi$. -->
 - [ ] C) $4\pi$ <!-- feedback: Incorrecto. Multiplicaste por $k$ en lugar de dividir. -->
 - [ ] D) $\frac{\pi}{2}$ <!-- feedback: Incorrecto. Dividiste entre $k^2$ o cometiste un error de cálculo. -->
 
@@ -146,9 +146,9 @@ El período estándar del seno es $2\pi$. Cuando el argumento se multiplica por 
 Sabiendo que $\cos(2\theta) = \cos^2(\theta) - \sin^2(\theta)$, si $\cos(\theta) = \frac{\sqrt{3}}{2}$ y $\sin(\theta) = \frac{1}{2}$, ¿cuánto vale $\cos(2\theta)$?
 
 ### Opciones
-- [x] A) $\frac{1}{2}$ <!-- feedback: ¡Correcto! $\left(\frac{\sqrt{3}}{2}\right)^2 - \left(\frac{1}{2}\right)^2 = \frac{3}{4} - \frac{1}{4} = \frac{2}{4} = \frac{1}{2}$. -->
-- [ ] B) $1$ <!-- feedback: Incorrecto. Sumaste las fracciones en lugar de restarlas. -->
-- [ ] C) $\frac{\sqrt{3}}{2}$ <!-- feedback: Incorrecto. Repetiste el valor de $\cos(\theta)$. -->
+- [x] C) $\frac{1}{2}$ <!-- feedback: ¡Correcto! $\left(\frac{\sqrt{3}}{2}\right)^2 - \left(\frac{1}{2}\right)^2 = \frac{3}{4} - \frac{1}{4} = \frac{2}{4} = \frac{1}{2}$. -->
+- [ ] A) $1$ <!-- feedback: Incorrecto. Sumaste las fracciones en lugar de restarlas. -->
+- [ ] B) $\frac{\sqrt{3}}{2}$ <!-- feedback: Incorrecto. Repetiste el valor de $\cos(\theta)$. -->
 - [ ] D) $0$ <!-- feedback: Incorrecto. La resta $\frac{3}{4} - \frac{1}{4}$ da $\frac{1}{2}$, no 0. -->
 
 ### Explicación Pedagógica
@@ -165,8 +165,8 @@ Sustituyendo los valores: $\cos^2(\theta) = \left(\frac{\sqrt{3}}{2}\right)^2 = 
 ¿Cuáles son las soluciones de la ecuación $\sin(x) = \frac{1}{2}$ para $x \in [0, 2\pi)$?
 
 ### Opciones
-- [ ] A) $x = \frac{\pi}{6}$ solamente <!-- feedback: Incorrecto. Existe una segunda solución en el segundo cuadrante. -->
-- [x] B) $x = \frac{\pi}{6}$ y $x = \frac{5\pi}{6}$ <!-- feedback: ¡Correcto! El seno es positivo en el I y II cuadrante, $x = \frac{\pi}{6}$ y $x = \pi - \frac{\pi}{6} = \frac{5\pi}{6}$. -->
+- [ ] B) $x = \frac{\pi}{6}$ solamente <!-- feedback: Incorrecto. Existe una segunda solución en el segundo cuadrante. -->
+- [x] A) $x = \frac{\pi}{6}$ y $x = \frac{5\pi}{6}$ <!-- feedback: ¡Correcto! El seno es positivo en el I y II cuadrante, $x = \frac{\pi}{6}$ y $x = \pi - \frac{\pi}{6} = \frac{5\pi}{6}$. -->
 - [ ] C) $x = \frac{\pi}{3}$ y $x = \frac{2\pi}{3}$ <!-- feedback: Incorrecto. Para estos ángulos el seno vale $\frac{\sqrt{3}}{2}$. -->
 - [ ] D) $x = \frac{7\pi}{6}$ y $x = \frac{11\pi}{6}$ <!-- feedback: Incorrecto. En el III y IV cuadrante el seno es negativo ($-\frac{1}{2}$). -->
 
@@ -184,8 +184,8 @@ El seno vale $\frac{1}{2}$ en el primer cuadrante para $x = 30^\circ = \frac{\pi
 En un triángulo, el lado $a = 10\text{ cm}$ se opone a un ángulo $A = 30^\circ$. Si el ángulo $B = 45^\circ$, ¿cuál es la longitud del lado $b$?
 
 ### Opciones
-- [ ] A) $10\text{ cm}$ <!-- feedback: Incorrecto. Lados opuestos a ángulos distintos tienen longitudes distintas. -->
-- [x] B) $10\sqrt{2}\text{ cm}$ <!-- feedback: ¡Correcto! Por ley de senos $\frac{a}{\sin A} = \frac{b}{\sin B} \Rightarrow \frac{10}{1/2} = \frac{b}{\sqrt{2}/2} \Rightarrow 20 = \frac{2b}{\sqrt{2}} \Rightarrow b = 10\sqrt{2}$. -->
+- [ ] B) $10\text{ cm}$ <!-- feedback: Incorrecto. Lados opuestos a ángulos distintos tienen longitudes distintas. -->
+- [x] A) $10\sqrt{2}\text{ cm}$ <!-- feedback: ¡Correcto! Por ley de senos $\frac{a}{\sin A} = \frac{b}{\sin B} \Rightarrow \frac{10}{1/2} = \frac{b}{\sqrt{2}/2} \Rightarrow 20 = \frac{2b}{\sqrt{2}} \Rightarrow b = 10\sqrt{2}$. -->
 - [ ] C) $5\sqrt{2}\text{ cm}$ <!-- feedback: Incorrecto. Olvidaste multiplicar por 2 al despejar la proporción. -->
 - [ ] D) $20\text{ cm}$ <!-- feedback: Incorrecto. $20$ es el valor del diámetro del círculo circunscrito $\frac{a}{\sin A}$, no de $b$. -->
 
@@ -204,9 +204,9 @@ En un triángulo con lados $b = 3$, $c = 5$ y ángulo comprendido $A = 60^\circ$
 
 ### Opciones
 - [ ] A) 4 <!-- feedback: Incorrecto. 4 sería si el triángulo fuera rectángulo ($3^2+4^2=5^2$), pero $A = 60^\circ$. -->
-- [x] B) $\sqrt{19}$ <!-- feedback: ¡Correcto! $a^2 = b^2 + c^2 - 2bc \cos A = 9 + 25 - 2(3)(5)(0.5) = 34 - 15 = 19 \Rightarrow a = \sqrt{19}$. -->
-- [ ] C) $\sqrt{34}$ <!-- feedback: Incorrecto. Olvidaste el término de la resta $-2bc \cos A$. -->
-- [ ] D) 19 <!-- feedback: Incorrecto. 19 es $a^2$, falta extraer la raíz cuadrada. -->
+- [x] D) $\sqrt{19}$ <!-- feedback: ¡Correcto! $a^2 = b^2 + c^2 - 2bc \cos A = 9 + 25 - 2(3)(5)(0.5) = 34 - 15 = 19 \Rightarrow a = \sqrt{19}$. -->
+- [ ] B) $\sqrt{34}$ <!-- feedback: Incorrecto. Olvidaste el término de la resta $-2bc \cos A$. -->
+- [ ] C) 19 <!-- feedback: Incorrecto. 19 es $a^2$, falta extraer la raíz cuadrada. -->
 
 ### Explicación Pedagógica
 Por la Ley del Coseno: $a^2 = b^2 + c^2 - 2bc \cos(A) = 3^2 + 5^2 - 2(3)(5)\cos(60^\circ) = 9 + 25 - 30(0.5) = 34 - 15 = 19$. Por tanto, $a = \sqrt{19} \approx 4.36$.
@@ -223,9 +223,9 @@ Sabiendo que $75^\circ = 45^\circ + 30^\circ$, ¿cuál es el valor exacto de $\s
 
 ### Opciones
 - [ ] A) $\frac{\sqrt{3} + 1}{2}$ <!-- feedback: Incorrecto. Olvidaste que los denominadores al multiplicar $\frac{\sqrt{2}}{2}$ y $\frac{1}{2}$ dan 4. -->
-- [x] B) $\frac{\sqrt{6} + \sqrt{2}}{4}$ <!-- feedback: ¡Correcto! $\sin(45^\circ+30^\circ) = \sin 45^\circ \cos 30^\circ + \cos 45^\circ \sin 30^\circ = \frac{\sqrt{2}}{2}\frac{\sqrt{3}}{2} + \frac{\sqrt{2}}{2}\frac{1}{2} = \frac{\sqrt{6}+\sqrt{2}}{4}$. -->
-- [ ] C) $\frac{\sqrt{6} - \sqrt{2}}{4}$ <!-- feedback: Incorrecto. Esa es la fórmula para $\sin(15^\circ) = \sin(45^\circ - 30^\circ)$. -->
-- [ ] D) $\frac{\sqrt{2} + \sqrt{3}}{4}$ <!-- feedback: Incorrecto. $\sqrt{2} \cdot \sqrt{3} = \sqrt{6}$, no $\sqrt{3}$. -->
+- [x] D) $\frac{\sqrt{6} + \sqrt{2}}{4}$ <!-- feedback: ¡Correcto! $\sin(45^\circ+30^\circ) = \sin 45^\circ \cos 30^\circ + \cos 45^\circ \sin 30^\circ = \frac{\sqrt{2}}{2}\frac{\sqrt{3}}{2} + \frac{\sqrt{2}}{2}\frac{1}{2} = \frac{\sqrt{6}+\sqrt{2}}{4}$. -->
+- [ ] B) $\frac{\sqrt{6} - \sqrt{2}}{4}$ <!-- feedback: Incorrecto. Esa es la fórmula para $\sin(15^\circ) = \sin(45^\circ - 30^\circ)$. -->
+- [ ] C) $\frac{\sqrt{2} + \sqrt{3}}{4}$ <!-- feedback: Incorrecto. $\sqrt{2} \cdot \sqrt{3} = \sqrt{6}$, no $\sqrt{3}$. -->
 
 ### Explicación Pedagógica
 Usando la identidad del seno de la suma: $\sin(\alpha + \beta) = \sin\alpha \cos\beta + \cos\alpha \sin\beta$.
@@ -243,9 +243,9 @@ $\sin(45^\circ + 30^\circ) = \left(\frac{\sqrt{2}}{2}\right)\left(\frac{\sqrt{3}
 
 ### Opciones
 - [ ] A) $\cos(x)$ <!-- feedback: Incorrecto. $1 - \cos^2(x) = \sin^2(x)$, al simplificar queda $\frac{\sin(x)}{\cos(x)} = \tan(x)$. -->
-- [x] B) $\tan(x)$ <!-- feedback: ¡Correcto! Sustituyendo $1 - \cos^2(x) = \sin^2(x)$, la fracción queda $\frac{\sin^2(x)}{\sin(x)\cos(x)} = \frac{\sin(x)}{\cos(x)} = \tan(x)$. -->
-- [ ] C) $\cot(x)$ <!-- feedback: Incorrecto. La cotangente es $\frac{\cos(x)}{\sin(x)}$. -->
-- [ ] D) $\sin(x)$ <!-- feedback: Incorrecto. Olvidaste el factor $\cos(x)$ en el denominador. -->
+- [x] D) $\tan(x)$ <!-- feedback: ¡Correcto! Sustituyendo $1 - \cos^2(x) = \sin^2(x)$, la fracción queda $\frac{\sin^2(x)}{\sin(x)\cos(x)} = \frac{\sin(x)}{\cos(x)} = \tan(x)$. -->
+- [ ] B) $\cot(x)$ <!-- feedback: Incorrecto. La cotangente es $\frac{\cos(x)}{\sin(x)}$. -->
+- [ ] C) $\sin(x)$ <!-- feedback: Incorrecto. Olvidaste el factor $\cos(x)$ en el denominador. -->
 
 ### Explicación Pedagógica
 Por la identidad fundamental, $1 - \cos^2(x) = \sin^2(x)$.
@@ -263,8 +263,8 @@ Sustituyendo en la expresión: $\frac{\sin^2(x)}{\sin(x)\cos(x)} = \frac{\sin(x)
 
 ### Opciones
 - [ ] A) $x = k\pi$, con $k \in \mathbb{Z}$ <!-- feedback: Incorrecto. Esos son los ceros de la tangente, donde $\sin(x) = 0$. -->
-- [x] B) $x = \frac{\pi}{2} + k\pi$, con $k \in \mathbb{Z}$ <!-- feedback: ¡Correcto! La tangente no está definida donde $\cos(x) = 0$, que ocurre en los múltiplos impares de $\frac{\pi}{2}$. -->
-- [ ] C) $x = \frac{\pi}{4} + 2k\pi$, con $k \in \mathbb{Z}$ <!-- feedback: Incorrecto. En $\frac{\pi}{4}$ la tangente vale 1 y es perfectamente continua. -->
+- [x] C) $x = \frac{\pi}{2} + k\pi$, con $k \in \mathbb{Z}$ <!-- feedback: ¡Correcto! La tangente no está definida donde $\cos(x) = 0$, que ocurre en los múltiplos impares de $\frac{\pi}{2}$. -->
+- [ ] B) $x = \frac{\pi}{4} + 2k\pi$, con $k \in \mathbb{Z}$ <!-- feedback: Incorrecto. En $\frac{\pi}{4}$ la tangente vale 1 y es perfectamente continua. -->
 - [ ] D) $x = 2k\pi$, con $k \in \mathbb{Z}$ <!-- feedback: Incorrecto. En los múltiplos pares de $\pi$, la tangente vale 0. -->
 
 ### Explicación Pedagógica
@@ -301,8 +301,8 @@ Toda combinación lineal $a\sin(x) + b\cos(x)$ puede escribirse como $R\sin(x + 
 
 ### Opciones
 - [ ] A) 1 solución <!-- feedback: Incorrecto. Hay más de una solución en la primera vuelta. -->
-- [x] B) 3 soluciones <!-- feedback: ¡Correcto! Factorizando $(2\cos x + 1)(\cos x - 1) = 0 \Rightarrow \cos x = 1$ (1 solución: $0$) o $\cos x = -\frac{1}{2}$ (2 soluciones: $\frac{2\pi}{3}, \frac{4\pi}{3}$). Total = 3. -->
-- [ ] C) 2 soluciones <!-- feedback: Incorrecto. Olvidaste la solución correspondiente a $\cos(x) = 1$ o una de las de $-\frac{1}{2}$. -->
+- [x] C) 3 soluciones <!-- feedback: ¡Correcto! Factorizando $(2\cos x + 1)(\cos x - 1) = 0 \Rightarrow \cos x = 1$ (1 solución: $0$) o $\cos x = -\frac{1}{2}$ (2 soluciones: $\frac{2\pi}{3}, \frac{4\pi}{3}$). Total = 3. -->
+- [ ] B) 2 soluciones <!-- feedback: Incorrecto. Olvidaste la solución correspondiente a $\cos(x) = 1$ o una de las de $-\frac{1}{2}$. -->
 - [ ] D) 4 soluciones <!-- feedback: Incorrecto. $\cos(x) = 1$ solo aporta una solución en $[0, 2\pi)$, que es $x = 0$. -->
 
 ### Explicación Pedagógica
@@ -323,8 +323,8 @@ En total hay $1 + 2 = 3$ soluciones en $[0, 2\pi)$.
 
 ### Opciones
 - [ ] A) $A = a \cdot b \cdot \sin(C)$ <!-- feedback: Incorrecto. Olvidaste el factor $\frac{1}{2}$. -->
-- [x] B) $A = \frac{1}{2} a \cdot b \cdot \sin(C)$ <!-- feedback: ¡Correcto! La altura correspondiente al lado $a$ es $h = b \sin C$, por lo que Área $= \frac{1}{2} \text{base} \times \text{altura} = \frac{1}{2} a b \sin C$. -->
-- [ ] C) $A = \frac{1}{2} a \cdot b \cdot \cos(C)$ <!-- feedback: Incorrecto. La altura utiliza la función seno, no coseno. -->
+- [x] C) $A = \frac{1}{2} a \cdot b \cdot \sin(C)$ <!-- feedback: ¡Correcto! La altura correspondiente al lado $a$ es $h = b \sin C$, por lo que Área $= \frac{1}{2} \text{base} \times \text{altura} = \frac{1}{2} a b \sin C$. -->
+- [ ] B) $A = \frac{1}{2} a \cdot b \cdot \cos(C)$ <!-- feedback: Incorrecto. La altura utiliza la función seno, no coseno. -->
 - [ ] D) $A = \frac{a^2 + b^2}{2} \sin(C)$ <!-- feedback: Incorrecto. Es el producto de los lados $a \cdot b$, no la suma de sus cuadrados. -->
 
 ### Explicación Pedagógica
@@ -341,10 +341,10 @@ Tomando $a$ como base, la altura relativa a esa base es $h = b \sin(C)$. Aplican
 Se observan dos puntos $B$ y $C$ desde una base $A$. Se mide $AB = 100\text{ m}$, $AC = 150\text{ m}$ y el ángulo $\angle BAC = 120^\circ$. ¿Cuál es la distancia exacta entre $B$ y $C$?
 
 ### Opciones
-- [x] A) $50\sqrt{19}\text{ m}$ <!-- feedback: ¡Correcto! $BC^2 = 100^2 + 150^2 - 2(100)(150)\cos(120^\circ) = 10000 + 22500 - 30000(-0.5) = 32500 + 15000 = 47500 \Rightarrow BC = \sqrt{47500} = 50\sqrt{19}$. -->
-- [ ] B) $250\text{ m}$ <!-- feedback: Incorrecto. Sumaste directamente las distancias $100 + 150$, lo que violaría la desigualdad triangular. -->
-- [ ] C) $50\sqrt{7}\text{ m}$ <!-- feedback: Incorrecto. Usaste $\cos(120^\circ) = +0.5$ en lugar de $-0.5$. -->
-- [ ] D) $100\sqrt{3}\text{ m}$ <!-- feedback: Incorrecto. Error de cálculo en la aplicación del coseno de ángulo obtuso. -->
+- [x] D) $50\sqrt{19}\text{ m}$ <!-- feedback: ¡Correcto! $BC^2 = 100^2 + 150^2 - 2(100)(150)\cos(120^\circ) = 10000 + 22500 - 30000(-0.5) = 32500 + 15000 = 47500 \Rightarrow BC = \sqrt{47500} = 50\sqrt{19}$. -->
+- [ ] A) $250\text{ m}$ <!-- feedback: Incorrecto. Sumaste directamente las distancias $100 + 150$, lo que violaría la desigualdad triangular. -->
+- [ ] B) $50\sqrt{7}\text{ m}$ <!-- feedback: Incorrecto. Usaste $\cos(120^\circ) = +0.5$ en lugar de $-0.5$. -->
+- [ ] C) $100\sqrt{3}\text{ m}$ <!-- feedback: Incorrecto. Error de cálculo en la aplicación del coseno de ángulo obtuso. -->
 
 ### Explicación Pedagógica
 Aplicando la Ley del Coseno con $\cos(120^\circ) = -\frac{1}{2}$:
@@ -362,8 +362,8 @@ Simplificando el radical: $BC = \sqrt{47500} = \sqrt{2500 \times 19} = 50\sqrt{1
 ¿Cuál es el valor simplificado de la expresión $\cos(10^\circ) \cdot \cos(50^\circ) \cdot \cos(70^\circ)$?
 
 ### Opciones
-- [ ] A) $\frac{1}{4}$ <!-- feedback: Incorrecto. Se requiere aplicar la identidad $\cos(\theta)\cos(60^\circ-\theta)\cos(60^\circ+\theta) = \frac{1}{4}\cos(3\theta)$. -->
-- [x] B) $\frac{\sqrt{3}}{8}$ <!-- feedback: ¡Correcto! Usando $\cos(\theta)\cos(60^\circ-\theta)\cos(60^\circ+\theta) = \frac{1}{4}\cos(3\theta)$ con $\theta = 10^\circ$: $\frac{1}{4}\cos(30^\circ) = \frac{1}{4}\left(\frac{\sqrt{3}}{2}\right) = \frac{\sqrt{3}}{8}$. -->
+- [ ] B) $\frac{1}{4}$ <!-- feedback: Incorrecto. Se requiere aplicar la identidad $\cos(\theta)\cos(60^\circ-\theta)\cos(60^\circ+\theta) = \frac{1}{4}\cos(3\theta)$. -->
+- [x] A) $\frac{\sqrt{3}}{8}$ <!-- feedback: ¡Correcto! Usando $\cos(\theta)\cos(60^\circ-\theta)\cos(60^\circ+\theta) = \frac{1}{4}\cos(3\theta)$ con $\theta = 10^\circ$: $\frac{1}{4}\cos(30^\circ) = \frac{1}{4}\left(\frac{\sqrt{3}}{2}\right) = \frac{\sqrt{3}}{8}$. -->
 - [ ] C) $\frac{1}{8}$ <!-- feedback: Incorrecto. Olvidaste multiplicar por $\cos(30^\circ) = \frac{\sqrt{3}}{2}$. -->
 - [ ] D) $\frac{\sqrt{3}}{4}$ <!-- feedback: Incorrecto. Faltó dividir entre 2 adicionalmente. -->
 
@@ -405,8 +405,8 @@ $\cos(10^\circ)\cos(50^\circ)\cos(70^\circ) = \frac{1}{4}\cos(30^\circ) = \frac{
 ¿Cuántas soluciones reales tiene la ecuación $\sin(x) + \cos(x) = \sqrt{2}\sin(2x)$ en el intervalo $[0, 2\pi)$?
 
 ### Opciones
-- [x] A) 4 soluciones <!-- feedback: ¡Correcto! Escribiendo $\sin x + \cos x = \sqrt{2}\sin(x + \frac{\pi}{4})$, la ecuación es $\sqrt{2}\sin(x + \frac{\pi}{4}) = \sqrt{2}\sin(2x) \Rightarrow \sin(x + \frac{\pi}{4}) = \sin(2x)$. En $[0, 2\pi)$ esto genera 4 soluciones válidas. -->
-- [ ] B) 2 soluciones <!-- feedback: Incorrecto. Pasaste por alto las soluciones provenientes de la relación de ángulos suplementarios. -->
+- [x] B) 4 soluciones <!-- feedback: ¡Correcto! Escribiendo $\sin x + \cos x = \sqrt{2}\sin(x + \frac{\pi}{4})$, la ecuación es $\sqrt{2}\sin(x + \frac{\pi}{4}) = \sqrt{2}\sin(2x) \Rightarrow \sin(x + \frac{\pi}{4}) = \sin(2x)$. En $[0, 2\pi)$ esto genera 4 soluciones válidas. -->
+- [ ] A) 2 soluciones <!-- feedback: Incorrecto. Pasaste por alto las soluciones provenientes de la relación de ángulos suplementarios. -->
 - [ ] C) 6 soluciones <!-- feedback: Incorrecto. Contaste soluciones fuera del intervalo $[0, 2\pi)$. -->
 - [ ] D) Ninguna solución <!-- feedback: Incorrecto. Sí existen valores en $[0, 2\pi)$ que satisfacen la ecuación. -->
 

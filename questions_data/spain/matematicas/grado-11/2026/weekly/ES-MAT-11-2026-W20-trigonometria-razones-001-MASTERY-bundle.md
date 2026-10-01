@@ -30,9 +30,9 @@ bundle_index: 1
 
 ### Opciones
 - [ ] A) Cateto contiguo dividido por la hipotenusa. <!-- feedback: Esta es la definición del coseno. -->
-- [x] B) Cateto opuesto dividido por la hipotenusa. <!-- feedback: Correcto. Es la razón fundamental que relaciona el lado opuesto con la hipotenusa. -->
-- [ ] C) Cateto opuesto dividido por el cateto contiguo. <!-- feedback: Esta es la definición de la tangente. -->
-- [ ] D) Hipotenusa dividida por el cateto opuesto. <!-- feedback: Esta es la cosecante, la inversa del seno. -->
+- [x] D) Cateto opuesto dividido por la hipotenusa. <!-- feedback: Correcto. Es la razón fundamental que relaciona el lado opuesto con la hipotenusa. -->
+- [ ] B) Cateto opuesto dividido por el cateto contiguo. <!-- feedback: Esta es la definición de la tangente. -->
+- [ ] C) Hipotenusa dividida por el cateto opuesto. <!-- feedback: Esta es la cosecante, la inversa del seno. -->
 
 ### Explicacion Pedagogica
 Las razones trigonométricas son cocientes entre los lados de un triángulo rectángulo. El seno mide la proporción del lado opuesto respecto a la diagonal (hipotenusa).
@@ -72,8 +72,8 @@ Esta identidad es la herramienta más importante de la trigonometría. Permite h
 
 ### Opciones
 - [ ] A) Primer y cuarto cuadrante. <!-- feedback: En el cuarto cuadrante el seno es negativo (y < 0). -->
-- [x] B) Primer y segundo cuadrante. <!-- feedback: Correcto. El seno corresponde a la coordenada $y$ del punto en la circunferencia, que es positiva por encima del eje X. -->
-- [ ] C) Segundo y tercer cuadrante. <!-- feedback: En el tercer cuadrante el seno es negativo. -->
+- [x] C) Primer y segundo cuadrante. <!-- feedback: Correcto. El seno corresponde a la coordenada $y$ del punto en la circunferencia, que es positiva por encima del eje X. -->
+- [ ] B) Segundo y tercer cuadrante. <!-- feedback: En el tercer cuadrante el seno es negativo. -->
 - [ ] D) Solo en el primer cuadrante. <!-- feedback: En el segundo cuadrante (90 a 180 grados) también es positivo. -->
 
 ### Explicacion Pedagogica
@@ -92,8 +92,8 @@ La circunferencia goniométrica permite extender la trigonometría más allá de
 ¿A cuántos radianes equivale un ángulo de $180^{\circ}$?
 
 ### Opciones
-- [ ] A) $\pi/2$ rad <!-- feedback: Esto equivale a 90 grados. -->
-- [x] B) $\pi$ rad <!-- feedback: Correcto. La relación fundamental es que media vuelta (180 grados) equivale a $\pi$ radianes. -->
+- [ ] B) $\pi/2$ rad <!-- feedback: Esto equivale a 90 grados. -->
+- [x] A) $\pi$ rad <!-- feedback: Correcto. La relación fundamental es que media vuelta (180 grados) equivale a $\pi$ radianes. -->
 - [ ] C) $2\pi$ rad <!-- feedback: Esto equivale a una vuelta completa (360 grados). -->
 - [ ] D) 1 rad <!-- feedback: Un radián equivale aproximadamente a 57,3 grados. -->
 
@@ -114,9 +114,9 @@ Calcula el valor del coseno del mismo ángulo, $\cos(\alpha)$.
 
 ### Opciones
 - [ ] A) 0,4 <!-- feedback: Error al restar directamente de 1. -->
-- [x] B) 0,8 <!-- feedback: Correcto. $\cos^2(\alpha) = 1 - 0,6^2 = 1 - 0,36 = 0,64 \Rightarrow \cos(\alpha) = 0,8$. -->
-- [ ] C) 0,64 <!-- feedback: Este es el cuadrado del coseno, falta la raíz. -->
-- [ ] D) 1 <!-- feedback: El coseno solo vale 1 si el seno vale 0. -->
+- [x] D) 0,8 <!-- feedback: Correcto. $\cos^2(\alpha) = 1 - 0,6^2 = 1 - 0,36 = 0,64 \Rightarrow \cos(\alpha) = 0,8$. -->
+- [ ] B) 0,64 <!-- feedback: Este es el cuadrado del coseno, falta la raíz. -->
+- [ ] C) 1 <!-- feedback: El coseno solo vale 1 si el seno vale 0. -->
 
 ### Explicacion Pedagogica
 Aplicamos la Identidad Fundamental. Al estar en el primer cuadrante, tomamos la raíz positiva para el coseno. El par (0,6; 0,8) es un ejemplo clásico basado en el triángulo 3-4-5.
@@ -135,8 +135,8 @@ Aplicamos la Identidad Fundamental. Al estar en el primer cuadrante, tomamos la 
 
 ### Opciones
 - [ ] A) 100 m <!-- feedback: Error al usar la razón trigonométrica (se dividió en lugar de multiplicar). -->
-- [x] B) 28,85 m <!-- feedback: Correcto. $\text{tg}(30^{\circ}) = h / 50 \Rightarrow h = 50 \cdot \text{tg}(30^{\circ}) \approx 28,85$. -->
-- [ ] C) 43,3 m <!-- feedback: Error al usar el seno en lugar de la tangente. -->
+- [x] C) 28,85 m <!-- feedback: Correcto. $\text{tg}(30^{\circ}) = h / 50 \Rightarrow h = 50 \cdot \text{tg}(30^{\circ}) \approx 28,85$. -->
+- [ ] B) 43,3 m <!-- feedback: Error al usar el seno en lugar de la tangente. -->
 - [ ] D) 25 m <!-- feedback: Valor aproximado incorrecto. -->
 
 ### Explicacion Pedagogica
@@ -177,9 +177,9 @@ Los ángulos de $30^{\circ}$, $45^{\circ}$ y $60^{\circ}$ aparecen constantement
 
 ### Opciones
 - [ ] A) $\text{tg}(\alpha) = \text{sen}(\alpha) \cdot \cos(\alpha)$ <!-- feedback: Operación incorrecta. -->
-- [x] B) $\text{tg}(\alpha) = \text{sen}(\alpha) / \cos(\alpha)$ <!-- feedback: Correcto. Es el cociente entre las dos razones fundamentales. -->
-- [ ] C) $\text{tg}(\alpha) = \cos(\alpha) / \text{sen}(\alpha)$ <!-- feedback: Esta es la definición de la cotangente. -->
-- [ ] D) $\text{tg}(\alpha) = 1 / (\text{sen}(\alpha) + \cos(\alpha))$ <!-- feedback: Fórmula sin fundamento. -->
+- [x] D) $\text{tg}(\alpha) = \text{sen}(\alpha) / \cos(\alpha)$ <!-- feedback: Correcto. Es el cociente entre las dos razones fundamentales. -->
+- [ ] B) $\text{tg}(\alpha) = \cos(\alpha) / \text{sen}(\alpha)$ <!-- feedback: Esta es la definición de la cotangente. -->
+- [ ] C) $\text{tg}(\alpha) = 1 / (\text{sen}(\alpha) + \cos(\alpha))$ <!-- feedback: Fórmula sin fundamento. -->
 
 ### Explicacion Pedagogica
 La tangente relaciona la componente vertical con la horizontal de un punto en la circunferencia. Físicamente representa la pendiente de la recta que forma el ángulo.
@@ -197,8 +197,8 @@ La tangente relaciona la componente vertical con la horizontal de un punto en la
 ¿Qué distancia total recorre el nadador?
 
 ### Opciones
-- [ ] A) 40 m <!-- feedback: Esta es solo la anchura perpendicular. -->
-- [x] B) 46,19 m <!-- feedback: Correcto. $\text{sen}(60^{\circ}) = 40 / d \Rightarrow d = 40 / \text{sen}(60^{\circ}) \approx 40 / 0,866 \approx 46,19$. -->
+- [ ] B) 40 m <!-- feedback: Esta es solo la anchura perpendicular. -->
+- [x] A) 46,19 m <!-- feedback: Correcto. $\text{sen}(60^{\circ}) = 40 / d \Rightarrow d = 40 / \text{sen}(60^{\circ}) \approx 40 / 0,866 \approx 46,19$. -->
 - [ ] C) 80 m <!-- feedback: Error al usar la razón trigonométrica. -->
 - [ ] D) 20 m <!-- feedback: El recorrido debe ser mayor que el ancho del río. -->
 
@@ -218,8 +218,8 @@ Aquí la distancia recorrida es la hipotenusa de un triángulo donde conocemos e
 ¿Cuál es el valor de $\text{sen}(150^{\circ})$ sabiendo que $150^{\circ}$ está en el segundo cuadrante?
 
 ### Opciones
-- [x] A) $1/2$ <!-- feedback: Correcto. $150 = 180 - 30$. En el segundo cuadrante, el seno es igual al de su suplementario: $\text{sen}(150) = \text{sen}(30) = 1/2$. El seno mantiene el signo positivo en el segundo cuadrante. -->
-- [ ] B) $-1/2$ <!-- feedback: El seno es positivo en el segundo cuadrante. -->
+- [x] B) $1/2$ <!-- feedback: Correcto. $150 = 180 - 30$. En el segundo cuadrante, el seno es igual al de su suplementario: $\text{sen}(150) = \text{sen}(30) = 1/2$. El seno mantiene el signo positivo en el segundo cuadrante. -->
+- [ ] A) $-1/2$ <!-- feedback: El seno es positivo en el segundo cuadrante. -->
 - [ ] C) $\sqrt{3}/2$ <!-- feedback: Este sería el valor absoluto del coseno. -->
 - [ ] D) $-\sqrt{3}/2$ <!-- feedback: Valor incorrecto. -->
 
@@ -239,8 +239,8 @@ La reducción al primer cuadrante permite hallar razones de cualquier ángulo co
 Si $\text{tg}(\alpha) = 2$, ¿cuál es el valor de $\text{tg}(\alpha + 180^{\circ})$?
 
 ### Opciones
-- [ ] A) -2 <!-- feedback: La tangente tiene periodo de 180 grados, por lo que no cambia el signo. -->
-- [x] B) 2 <!-- feedback: Correcto. Al sumar 180 grados, tanto el seno como el coseno cambian de signo, por lo que su cociente (la tangente) permanece igual. -->
+- [ ] B) -2 <!-- feedback: La tangente tiene periodo de 180 grados, por lo que no cambia el signo. -->
+- [x] A) 2 <!-- feedback: Correcto. Al sumar 180 grados, tanto el seno como el coseno cambian de signo, por lo que su cociente (la tangente) permanece igual. -->
 - [ ] C) 1/2 <!-- feedback: Esta sería la cotangente de otro ángulo relacionado. -->
 - [ ] D) 0 <!-- feedback: La tangente no se anula al sumar 180 grados. -->
 
@@ -260,8 +260,8 @@ La tangente es una función periódica de periodo $\pi$ (o 180 grados). Esto sig
 ¿Cuál es el área del triángulo?
 
 ### Opciones
-- [ ] A) 60 unidades cuadradas <!-- feedback: Falta multiplicar por el seno del ángulo. -->
-- [x] B) $30\sqrt{2}$ unidades cuadradas <!-- feedback: Correcto. Área = $(b \cdot c \cdot \text{sen} A) / 2 = (10 \cdot 12 \cdot \sqrt{2}/2) / 2 = 60\sqrt{2} / 2 = 30\sqrt{2}$. -->
+- [ ] B) 60 unidades cuadradas <!-- feedback: Falta multiplicar por el seno del ángulo. -->
+- [x] A) $30\sqrt{2}$ unidades cuadradas <!-- feedback: Correcto. Área = $(b \cdot c \cdot \text{sen} A) / 2 = (10 \cdot 12 \cdot \sqrt{2}/2) / 2 = 60\sqrt{2} / 2 = 30\sqrt{2}$. -->
 - [ ] C) $60\sqrt{2}$ unidades cuadradas <!-- feedback: Olvido de dividir entre 2 al final. -->
 - [ ] D) 30 unidades cuadradas <!-- feedback: Valor incorrecto. -->
 
@@ -283,8 +283,8 @@ La fórmula trigonométrica del área ($1/2 \cdot ab \cdot \text{sen} C$) es ext
 ### Opciones
 - [ ] A) $30^{\circ}$ <!-- feedback: El seno de 30 es 1/2. -->
 - [ ] B) $45^{\circ}$ <!-- feedback: El seno de 45 es $\sqrt{2}/2$. -->
-- [x] C) $60^{\circ}$ <!-- feedback: Correcto. El ángulo cuyo seno vale $\sqrt{3}/2$ es 60 grados. -->
-- [ ] D) $90^{\circ}$ <!-- feedback: El seno de 90 es 1. -->
+- [x] D) $60^{\circ}$ <!-- feedback: Correcto. El ángulo cuyo seno vale $\sqrt{3}/2$ es 60 grados. -->
+- [ ] C) $90^{\circ}$ <!-- feedback: El seno de 90 es 1. -->
 
 ### Explicacion Pedagogica
 Las funciones "arco" realizan la operación inversa: dada una razón, nos devuelven el ángulo. Es fundamental restringir el dominio para que la respuesta sea única.
@@ -303,9 +303,9 @@ Si $a = 10 \text{ cm}, A = 30^{\circ}$ y $B = 45^{\circ}$, ¿cuánto mide el lad
 
 ### Opciones
 - [ ] A) $10\sqrt{3} \text{ cm}$ <!-- feedback: Valor incorrecto. -->
-- [x] B) $10\sqrt{2} \text{ cm}$ <!-- feedback: Correcto. $10/\text{sen}(30) = b/\text{sen}(45) \Rightarrow 10/0,5 = b/(\sqrt{2}/2) \Rightarrow 20 = 2b/\sqrt{2} \Rightarrow b = 10\sqrt{2}$. -->
-- [ ] C) $5 \text{ cm}$ <!-- feedback: El lado b debe ser mayor que a ya que el ángulo B es mayor que A. -->
-- [ ] D) $20 \text{ cm}$ <!-- feedback: Valor incorrecto. -->
+- [x] D) $10\sqrt{2} \text{ cm}$ <!-- feedback: Correcto. $10/\text{sen}(30) = b/\text{sen}(45) \Rightarrow 10/0,5 = b/(\sqrt{2}/2) \Rightarrow 20 = 2b/\sqrt{2} \Rightarrow b = 10\sqrt{2}$. -->
+- [ ] B) $5 \text{ cm}$ <!-- feedback: El lado b debe ser mayor que a ya que el ángulo B es mayor que A. -->
+- [ ] C) $20 \text{ cm}$ <!-- feedback: Valor incorrecto. -->
 
 ### Explicacion Pedagogica
 El Teorema del Seno establece que los lados de un triángulo son proporcionales a los senos de sus ángulos opuestos. Es ideal cuando conocemos "parejas" de lado y ángulo opuesto.
@@ -323,8 +323,8 @@ El Teorema del Seno establece que los lados de un triángulo son proporcionales 
 En un triángulo con lados $b=3, c=4$ y ángulo $A=60^{\circ}$, ¿cuánto mide el lado $a$?
 
 ### Opciones
-- [ ] A) 5 <!-- feedback: Esto solo sería cierto si el ángulo fuera de 90 grados (Pitágoras). -->
-- [x] B) $\sqrt{13}$ <!-- feedback: Correcto. $a^2 = 3^2 + 4^2 - 2 \cdot 3 \cdot 4 \cdot \cos(60) = 9 + 16 - 24 \cdot 0,5 = 25 - 12 = 13$. -->
+- [ ] B) 5 <!-- feedback: Esto solo sería cierto si el ángulo fuera de 90 grados (Pitágoras). -->
+- [x] A) $\sqrt{13}$ <!-- feedback: Correcto. $a^2 = 3^2 + 4^2 - 2 \cdot 3 \cdot 4 \cdot \cos(60) = 9 + 16 - 24 \cdot 0,5 = 25 - 12 = 13$. -->
 - [ ] C) $\sqrt{37}$ <!-- feedback: Error al restar el término del coseno (se sumó en lugar de restar). -->
 - [ ] D) 7 <!-- feedback: No se ha realizado la raíz cuadrada del resultado intermedio. -->
 
@@ -387,8 +387,8 @@ El dominio de las identidades pitagóricas permite simplificar expresiones trigo
 
 ### Opciones
 - [ ] A) $2 \text{sen}(\alpha)$ <!-- feedback: El factor 2 no puede salir del argumento de la función linealmente. -->
-- [x] B) $2 \text{sen}(\alpha) \cos(\alpha)$ <!-- feedback: Correcto. Es una de las fórmulas de adición más utilizadas. -->
-- [ ] C) $\text{sen}^2(\alpha) - \cos^2(\alpha)$ <!-- feedback: Esta relación (con signo cambiado) corresponde al $\cos(2\alpha)$. -->
+- [x] C) $2 \text{sen}(\alpha) \cos(\alpha)$ <!-- feedback: Correcto. Es una de las fórmulas de adición más utilizadas. -->
+- [ ] B) $\text{sen}^2(\alpha) - \cos^2(\alpha)$ <!-- feedback: Esta relación (con signo cambiado) corresponde al $\cos(2\alpha)$. -->
 - [ ] D) $\text{sen}(\alpha) + \cos(\alpha)$ <!-- feedback: Relación incorrecta. -->
 
 ### Explicacion Pedagogica
@@ -408,9 +408,9 @@ Las fórmulas de ángulo doble permiten reducir el argumento de las funciones, f
 
 ### Opciones
 - [ ] A) 10 <!-- feedback: Este valor es la frecuencia angular. -->
-- [x] B) 5 <!-- feedback: Correcto. El coeficiente que multiplica a la función trigonométrica determina el valor máximo (amplitud). -->
-- [ ] C) 1 <!-- feedback: La amplitud está escalada por el factor 5. -->
-- [ ] D) 0 <!-- feedback: El muelle oscila, no está en reposo. -->
+- [x] D) 5 <!-- feedback: Correcto. El coeficiente que multiplica a la función trigonométrica determina el valor máximo (amplitud). -->
+- [ ] B) 1 <!-- feedback: La amplitud está escalada por el factor 5. -->
+- [ ] C) 0 <!-- feedback: El muelle oscila, no está en reposo. -->
 
 ### Explicacion Pedagogica
 Las funciones seno y coseno están acotadas entre -1 y 1. Al multiplicarlas por una constante $A$, el rango pasa a ser $[-A, A]$, definiendo la amplitud del fenómeno ondulatorio.

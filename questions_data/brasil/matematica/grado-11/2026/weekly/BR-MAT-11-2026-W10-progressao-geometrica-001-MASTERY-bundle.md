@@ -30,8 +30,8 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 Qual é a lei de formação do termo geral ($a_n$) de uma Progressão Geométrica (PG) de primeiro termo $a_1$ e razão $q$?
 
 ### Opciones
-- [ ] A) $a_n = a_1 + (n - 1)q$ <!-- feedback: Esta é a fórmula de uma Progressão Aritmética. -->
-- [x] B) $a_n = a_1 \cdot q^{n-1}$ <!-- feedback: Correto. Em uma PG, cada termo é obtido multiplicando o anterior pela razão q. -->
+- [ ] B) $a_n = a_1 + (n - 1)q$ <!-- feedback: Esta é a fórmula de uma Progressão Aritmética. -->
+- [x] A) $a_n = a_1 \cdot q^{n-1}$ <!-- feedback: Correto. Em uma PG, cada termo é obtido multiplicando o anterior pela razão q. -->
 - [ ] C) $a_n = a_1 \cdot q^n$ <!-- feedback: Erro: o primeiro termo não deve ser multiplicado pela razão (q elevado a 0 é 1). -->
 - [ ] D) $a_n = (a_1 \cdot q)^{n-1}$ <!-- feedback: A potência deve ser aplicada apenas à razão q. -->
 
@@ -50,9 +50,9 @@ Uma Progressão Geométrica de termos positivos é considerada **decrescente** q
 
 ### Opciones
 - [ ] A) $q > 1$ <!-- feedback: Se q > 1, os termos aumentam a cada passo (PG crescente). -->
-- [x] B) $0 < q < 1$ <!-- feedback: Correto. Multiplicar um número positivo por uma fração entre 0 e 1 resulta em um valor menor. -->
-- [ ] C) $q = 1$ <!-- feedback: Se q = 1, a PG é constante ou estacionária. -->
-- [ ] D) $q < 0$ <!-- feedback: Se q < 0, os termos alternam de sinal (PG oscilante ou alternada). -->
+- [x] D) $0 < q < 1$ <!-- feedback: Correto. Multiplicar um número positivo por uma fração entre 0 e 1 resulta em um valor menor. -->
+- [ ] B) $q = 1$ <!-- feedback: Se q = 1, a PG é constante ou estacionária. -->
+- [ ] C) $q < 0$ <!-- feedback: Se q < 0, os termos alternam de sinal (PG oscilante ou alternada). -->
 
 ### Explicacion Pedagogica
 Para uma PG de termos positivos, se a razão está entre 0 e 1, cada novo termo é uma fração do anterior, fazendo com que os valores da sequência diminuam gradualmente em direção a zero.
@@ -88,8 +88,8 @@ Se uma população inicial $P$ cresce a uma taxa de 5\% ao período, qual é a r
 
 ### Opciones
 - [ ] A) 0,05 <!-- feedback: Este é apenas o valor do acréscimo, não o fator multiplicativo total. -->
-- [x] B) 1,05 <!-- feedback: Correto. O novo valor é 100% do atual mais 5% (1 + 0,05). -->
-- [ ] C) 5 <!-- feedback: Uma razão 5 significaria que a população quintuplica a cada período. -->
+- [x] C) 1,05 <!-- feedback: Correto. O novo valor é 100% do atual mais 5% (1 + 0,05). -->
+- [ ] B) 5 <!-- feedback: Uma razão 5 significaria que a população quintuplica a cada período. -->
 - [ ] D) 1,5 <!-- feedback: Isto representaria um crescimento de 50%. -->
 
 ### Explicacion Pedagogica
@@ -127,8 +127,8 @@ Se uma bola é solta de 10 metros e a cada quique atinge 80\% da altura anterior
 ### Opciones
 - [ ] A) 8 m <!-- feedback: Esta é a altura após o primeiro quique. -->
 - [ ] B) 6,4 m <!-- feedback: Esta é a altura após o segundo quique. -->
-- [x] C) 5,12 m <!-- feedback: a1=10, q=0,8. a_após_3 = 10 * 0,8³ = 10 * 0,512 = 5,12. -->
-- [ ] D) 4 m <!-- feedback: Incorreto. -->
+- [x] D) 5,12 m <!-- feedback: a1=10, q=0,8. a_após_3 = 10 * 0,8³ = 10 * 0,512 = 5,12. -->
+- [ ] C) 4 m <!-- feedback: Incorreto. -->
 
 ### Explicacion Pedagogica
 A altura inicial é o "termo zero" ou podemos considerar a sequência das alturas após os quiques: $a_1 = 10 \cdot 0,8 = 8$. Após o terceiro quique: $a_3 = a_1 \cdot q^2 = 8 \cdot (0,8)^2 = 8 \cdot 0,64 = 5,12$ metros.
@@ -164,9 +164,9 @@ Qual é a soma infinita dos termos da PG $(10, 5, 2,5, ...)$?
 
 ### Opciones
 - [ ] A) 15 <!-- feedback: A soma já atinge 17,5 no terceiro termo. -->
-- [x] B) 20 <!-- feedback: S = a1 / (1 - q) = 10 / (1 - 0,5) = 10 / 0,5 = 20. -->
-- [ ] C) 25 <!-- feedback: Cálculo incorreto da soma infinita. -->
-- [ ] D) A soma é infinita. <!-- feedback: Como a razão é menor que 1, a soma converge. -->
+- [x] D) 20 <!-- feedback: S = a1 / (1 - q) = 10 / (1 - 0,5) = 10 / 0,5 = 20. -->
+- [ ] B) 25 <!-- feedback: Cálculo incorreto da soma infinita. -->
+- [ ] C) A soma é infinita. <!-- feedback: Como a razão é menor que 1, a soma converge. -->
 
 ### Explicacion Pedagogica
 Para uma PG infinita com $|q| < 1$, a soma converge para $S = \frac{a_1}{1 - q}$. Com $a_1 = 10$ e $q = 0,5$: $S = \frac{10}{1 - 0,5} = \frac{10}{0,5} = 20$.
@@ -183,8 +183,8 @@ Se o primeiro quadrado tem lado 16, qual é o valor da área do quinto quadrado 
 
 ### Opciones
 - [ ] A) 4 <!-- feedback: Este seria o lado do terceiro quadrado. -->
-- [ ] B) 0,5 <!-- feedback: Incorreto. -->
-- [x] C) 1 <!-- feedback: Lado 5º = 16 * (1/2)⁴ = 1. Área = 1² = 1. -->
+- [ ] C) 0,5 <!-- feedback: Incorreto. -->
+- [x] B) 1 <!-- feedback: Lado 5º = 16 * (1/2)⁴ = 1. Área = 1² = 1. -->
 - [ ] D) 0,25 <!-- feedback: Incorreto. -->
 
 ### Explicacion Pedagogica
@@ -202,9 +202,9 @@ Determine o valor de $x$ para que a sequência $(x-1, x+2, 3x)$ seja uma PG de t
 
 ### Opciones
 - [ ] A) $x = 1$ <!-- feedback: Resultaria no primeiro termo zero, o que não define uma PG usual. -->
-- [x] B) $x = 4$ <!-- feedback: (x+2)² = (x-1)(3x) => x²+4x+4 = 3x²-3x => 2x²-7x-4 = 0. Raízes: 4 e -0,5. Para termos positivos, x=4. PG: (3, 6, 12). -->
-- [ ] C) $x = 2$ <!-- feedback: Testando: (1, 4, 6) não é PG. -->
-- [ ] D) $x = 5$ <!-- feedback: Testando: (4, 7, 15) não é PG. -->
+- [x] D) $x = 4$ <!-- feedback: (x+2)² = (x-1)(3x) => x²+4x+4 = 3x²-3x => 2x²-7x-4 = 0. Raízes: 4 e -0,5. Para termos positivos, x=4. PG: (3, 6, 12). -->
+- [ ] B) $x = 2$ <!-- feedback: Testando: (1, 4, 6) não é PG. -->
+- [ ] C) $x = 5$ <!-- feedback: Testando: (4, 7, 15) não é PG. -->
 
 ### Explicacion Pedagogica
 Em uma PG de três termos, o quadrado do termo médio é igual ao produto dos extremos: $(x+2)^2 = (x-1) \cdot 3x$. Expandindo: $x^2 + 4x + 4 = 3x^2 - 3x$. Organizando a equação quadrática: $2x^2 - 7x - 4 = 0$. As soluções são $x = 4$ e $x = -0,5$. Como os termos devem ser positivos, usamos $x = 4$.
@@ -220,8 +220,8 @@ Em uma PG de três termos, o quadrado do termo médio é igual ao produto dos ex
 Qual é a soma dos 10 primeiros termos da PG $(1, 2, 4, ...)$?
 
 ### Opciones
-- [ ] A) 511 <!-- feedback: Valor incorreto. -->
-- [x] B) 1.023 <!-- feedback: S10 = 1 * (2¹⁰ - 1) / (2 - 1) = 1024 - 1 = 1023. -->
+- [ ] B) 511 <!-- feedback: Valor incorreto. -->
+- [x] A) 1.023 <!-- feedback: S10 = 1 * (2¹⁰ - 1) / (2 - 1) = 1024 - 1 = 1023. -->
 - [ ] C) 1.024 <!-- feedback: Este é o valor do 11º termo, não a soma dos 10 primeiros. -->
 - [ ] D) 2.047 <!-- feedback: Valor incorreto. -->
 
@@ -239,8 +239,8 @@ Com $a_1 = 1, q = 2$ e $n = 10$: $S_{10} = \frac{1 \cdot (2^{10} - 1)}{2 - 1} = 
 Numa PG de termos positivos, o quarto termo é 54 e o primeiro termo é 2. Qual é o valor do quinto termo?
 
 ### Opciones
-- [ ] A) 108 <!-- feedback: Incorreto. -->
-- [x] B) 162 <!-- feedback: a4 = a1 * q³ => 54 = 2 * q³ => 27 = q³ => q = 3. a5 = 54 * 3 = 162. -->
+- [ ] B) 108 <!-- feedback: Incorreto. -->
+- [x] A) 162 <!-- feedback: a4 = a1 * q³ => 54 = 2 * q³ => 27 = q³ => q = 3. a5 = 54 * 3 = 162. -->
 - [ ] C) 216 <!-- feedback: Incorreto. -->
 - [ ] D) 150 <!-- feedback: Incorreto. -->
 
@@ -259,8 +259,8 @@ Numa PG de termos positivos, o quarto termo é 54 e o primeiro termo é 2. Qual 
 Expresse a dízima periódica $0,333...$ como a soma de uma PG infinita e determine sua fração geratriz.
 
 ### Opciones
-- [ ] A) $\frac{3}{10}$ <!-- feedback: Este é o decimal exato 0,3. -->
-- [x] B) $\frac{1}{3}$ <!-- feedback: a1=0,3, q=0,1. S = 0,3 / (1 - 0,1) = 0,3 / 0,9 = 3/9 = 1/3. -->
+- [ ] B) $\frac{3}{10}$ <!-- feedback: Este é o decimal exato 0,3. -->
+- [x] A) $\frac{1}{3}$ <!-- feedback: a1=0,3, q=0,1. S = 0,3 / (1 - 0,1) = 0,3 / 0,9 = 3/9 = 1/3. -->
 - [ ] C) $\frac{3}{11}$ <!-- feedback: Incorreto. -->
 - [ ] D) $\frac{1}{9}$ <!-- feedback: Este seria 0,111... -->
 
@@ -298,9 +298,9 @@ Determine a razão de uma PG onde $a_1 = 5$ e $a_4 = 625$.
 
 ### Opciones
 - [ ] A) 25 <!-- feedback: Se q=25, o segundo termo já seria 125. -->
-- [x] B) 5 <!-- feedback: 625 = 5 * q³ => 125 = q³ => q = 5. -->
-- [ ] C) 4 <!-- feedback: Se q=4, o quarto termo seria 5 * 64 = 320. -->
-- [ ] D) 10 <!-- feedback: Incorreto. -->
+- [x] D) 5 <!-- feedback: 625 = 5 * q³ => 125 = q³ => q = 5. -->
+- [ ] B) 4 <!-- feedback: Se q=4, o quarto termo seria 5 * 64 = 320. -->
+- [ ] C) 10 <!-- feedback: Incorreto. -->
 
 ### Explicacion Pedagogica
 Usamos o termo geral: $a_4 = a_1 \cdot q^3 \Rightarrow 625 = 5 \cdot q^3$. Dividindo por 5: $125 = q^3$. Extraindo a raiz cúbica: $q = \sqrt[3]{125} = 5$.
@@ -317,8 +317,8 @@ Se a sequência $(\log a, \log b, \log c)$ é uma PA, então o que se pode afirm
 
 ### Opciones
 - [ ] A) É uma PA de razão 10. <!-- feedback: Incorreto. -->
-- [x] B) É uma PG. <!-- feedback: Em PA: 2 log b = log a + log c => log b² = log(ac) => b² = ac. Esta é a condição de PG. -->
-- [ ] C) É uma sequência constante. <!-- feedback: Somente se a razão da PA fosse zero. -->
+- [x] C) É uma PG. <!-- feedback: Em PA: 2 log b = log a + log c => log b² = log(ac) => b² = ac. Esta é a condição de PG. -->
+- [ ] B) É uma sequência constante. <!-- feedback: Somente se a razão da PA fosse zero. -->
 - [ ] D) É uma sequência aleatória. <!-- feedback: Existe uma relação estrutural clara. -->
 
 ### Explicacion Pedagogica
@@ -335,8 +335,8 @@ Pela definição de PA: $2 \cdot \log b = \log a + \log c$. Usando propriedades 
 Qual é o valor da soma infinita $1 - \frac{1}{2} + \frac{1}{4} - \frac{1}{8} + ...$?
 
 ### Opciones
-- [ ] A) 2 <!-- feedback: Este seria o valor se todos os sinais fossem positivos. -->
-- [x] B) $\frac{2}{3}$ <!-- feedback: a1=1, q=-1/2. S = 1 / (1 - (-1/2)) = 1 / (3/2) = 2/3. -->
+- [ ] B) 2 <!-- feedback: Este seria o valor se todos os sinais fossem positivos. -->
+- [x] A) $\frac{2}{3}$ <!-- feedback: a1=1, q=-1/2. S = 1 / (1 - (-1/2)) = 1 / (3/2) = 2/3. -->
 - [ ] C) $\frac{1}{2}$ <!-- feedback: Incorreto. -->
 - [ ] D) 0 <!-- feedback: Embora os termos alternem, a soma converge para um valor positivo. -->
 
@@ -355,8 +355,8 @@ Calcule o produto dos 10 primeiros termos da PG $(1, 2, 4, 8, ...)$.
 
 ### Opciones
 - [ ] A) $2^{10}$ <!-- feedback: Este é apenas o 11º termo. -->
-- [ ] B) $2^{55}$ <!-- feedback: A soma dos expoentes de 0 a 9 é 45, não 55. -->
-- [x] C) $2^{45}$ <!-- feedback: P = 2⁰ * 2¹ * ... * 2⁹ = 2^(0+1+...+9) = 2^45. -->
+- [ ] C) $2^{55}$ <!-- feedback: A soma dos expoentes de 0 a 9 é 45, não 55. -->
+- [x] B) $2^{45}$ <!-- feedback: P = 2⁰ * 2¹ * ... * 2⁹ = 2^(0+1+...+9) = 2^45. -->
 - [ ] D) $2^{100}$ <!-- feedback: Valor excessivo. -->
 
 ### Explicacion Pedagogica
@@ -373,9 +373,9 @@ O produto de termos de uma PG de base 2 é $2^0 \cdot 2^1 \cdot 2^2 \cdot ... \c
 Seja uma PG de 3 termos positivos cuja soma é 26 e o produto é 216. Determine o maior desses três termos.
 
 ### Opciones
-- [ ] A) 6 <!-- feedback: Este é o termo central. -->
-- [ ] B) 12 <!-- feedback: Incorreto. -->
-- [x] C) 18 <!-- feedback: Termos: x/q, x, xq. Produto x³=216 => x=6. Soma: 6/q + 6 + 6q = 26 => 6/q + 6q = 20 => 3/q + 3q = 10 => 3q²-10q+3=0. Raízes 3 e 1/3. Termos: 2, 6, 18. -->
+- [ ] B) 6 <!-- feedback: Este é o termo central. -->
+- [ ] C) 12 <!-- feedback: Incorreto. -->
+- [x] A) 18 <!-- feedback: Termos: x/q, x, xq. Produto x³=216 => x=6. Soma: 6/q + 6 + 6q = 26 => 6/q + 6q = 20 => 3/q + 3q = 10 => 3q²-10q+3=0. Raízes 3 e 1/3. Termos: 2, 6, 18. -->
 - [ ] D) 24 <!-- feedback: Incorreto. -->
 
 ### Explicacion Pedagogica
@@ -393,8 +393,8 @@ Considere um quadrado de área $S$. Divide-se o quadrado em 4 quadrados iguais e
 
 ### Opciones
 - [ ] A) $S/2$ <!-- feedback: Incorreto. -->
-- [ ] B) $S$ <!-- feedback: Nem toda a área será pintada, pois em cada etapa sobra uma parte significativa. -->
-- [x] C) $S/3$ <!-- feedback: PG: a1=S/4, q=1/4. Soma = (S/4) / (1 - 1/4) = (S/4) / (3/4) = S/3. -->
+- [ ] C) $S$ <!-- feedback: Nem toda a área será pintada, pois em cada etapa sobra uma parte significativa. -->
+- [x] B) $S/3$ <!-- feedback: PG: a1=S/4, q=1/4. Soma = (S/4) / (1 - 1/4) = (S/4) / (3/4) = S/3. -->
 - [ ] D) $2S/3$ <!-- feedback: Incorreto. -->
 
 ### Explicacion Pedagogica

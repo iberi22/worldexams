@@ -36,9 +36,9 @@ Regulation is the set of rules or directives made and maintained by an authority
 
 ### Opciones
 - [ ] A) Suggestion <!-- feedback: Incorrect. Regulations are rules, not just suggestions. -->
-- [x] B) Regulation <!-- feedback: Correct. Specific term for official rules. -->
-- [ ] C) Opinion <!-- feedback: Incorrect. Regulations have legal force. -->
-- [ ] D) Legend <!-- feedback: Incorrect. A legend is a story. -->
+- [x] D) Regulation <!-- feedback: Correct. Specific term for official rules. -->
+- [ ] B) Opinion <!-- feedback: Incorrect. Regulations have legal force. -->
+- [ ] C) Legend <!-- feedback: Incorrect. A legend is a story. -->
 
 ### Explicacion Pedagogica
 'Regulation' is the standard term for the formal rules used by governments to control environmental impact.
@@ -56,9 +56,9 @@ The Paris Agreement has been ratified by nearly every country in the world to co
 
 ### Opciones
 - [ ] A) ratify <!-- feedback: Incorrect. Needs 'has been' for passive. -->
-- [x] B) has been ratified <!-- feedback: Correct. Present perfect passive for a completed action with present relevance. -->
-- [ ] C) ratifies <!-- feedback: Incorrect. Present tense. -->
-- [ ] D) is ratifying <!-- feedback: Incorrect. Active voice. -->
+- [x] D) has been ratified <!-- feedback: Correct. Present perfect passive for a completed action with present relevance. -->
+- [ ] B) ratifies <!-- feedback: Incorrect. Present tense. -->
+- [ ] C) is ratifying <!-- feedback: Incorrect. Active voice. -->
 
 ### Explicacion Pedagogica
 The present perfect passive 'has been ratified' describes the official state of acceptance of the treaty.
@@ -96,8 +96,8 @@ The "polluter pays" principle suggests that those who produce pollution should b
 
 ### Opciones
 - [ ] A) ignore <!-- feedback: Incorrect. -->
-- [x] B) bear the costs <!-- feedback: Correct. 'Bear the cost' means to pay for something. -->
-- [ ] C) avoid responsibility <!-- feedback: Incorrect. The principle is about taking responsibility. -->
+- [x] C) bear the costs <!-- feedback: Correct. 'Bear the cost' means to pay for something. -->
+- [ ] B) avoid responsibility <!-- feedback: Incorrect. The principle is about taking responsibility. -->
 - [ ] D) increase emissions <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
@@ -116,8 +116,8 @@ Some legal scholars argue that natural features like rivers should have "legal p
 
 ### Opciones
 - [ ] A) ownership <!-- feedback: Incorrect. personhood is about rights, not just being owned. -->
-- [x] B) personhood <!-- feedback: Correct. Legal personhood is the status of being a person in the eyes of the law. -->
-- [ ] C) destruction <!-- feedback: Incorrect. Legal personhood is meant to prevent destruction. -->
+- [x] C) personhood <!-- feedback: Correct. Legal personhood is the status of being a person in the eyes of the law. -->
+- [ ] B) destruction <!-- feedback: Incorrect. Legal personhood is meant to prevent destruction. -->
 - [ ] D) anonymity <!-- feedback: Incorrect. personhood involves having a name and status. -->
 
 ### Explicacion Pedagogica
@@ -135,8 +135,8 @@ Some legal scholars argue that natural features like rivers should have "legal p
 An environmental impact assessment (EIA) must be conducted before major construction projects can begin.
 
 ### Opciones
-- [ ] A) trial <!-- feedback: Incorrect. -->
-- [x] B) assessment <!-- feedback: Correct. An assessment is an evaluation or estimation of the nature, quality, or ability of someone or something. -->
+- [ ] B) trial <!-- feedback: Incorrect. -->
+- [x] A) assessment <!-- feedback: Correct. An assessment is an evaluation or estimation of the nature, quality, or ability of someone or something. -->
 - [ ] C) gossip <!-- feedback: Incorrect. -->
 - [ ] D) celebration <!-- feedback: Incorrect. -->
 
@@ -156,9 +156,9 @@ Stricter limits on carbon emissions are being implemented by several European go
 
 ### Opciones
 - [ ] A) are implementing <!-- feedback: Incorrect. Active voice. -->
-- [x] B) are being implemented <!-- feedback: Correct. Present continuous passive for an ongoing regulatory process. -->
-- [ ] C) implemented <!-- feedback: Incorrect. Past simple. -->
-- [ ] D) have implemented <!-- feedback: Incorrect. Active voice. -->
+- [x] D) are being implemented <!-- feedback: Correct. Present continuous passive for an ongoing regulatory process. -->
+- [ ] B) implemented <!-- feedback: Incorrect. Past simple. -->
+- [ ] C) have implemented <!-- feedback: Incorrect. Active voice. -->
 
 ### Explicacion Pedagogica
 The present continuous passive describes the current, active rollout of new regulations.
@@ -175,8 +175,8 @@ The present continuous passive describes the current, active rollout of new regu
 Companies that fail to comply with environmental regulations can face heavy fines or legal action.
 
 ### Opciones
-- [ ] A) disagree <!-- feedback: Incorrect. You can disagree but still comply (obey). -->
-- [x] B) comply with <!-- feedback: Correct. To comply with means to act in accordance with a wish or command. -->
+- [ ] B) disagree <!-- feedback: Incorrect. You can disagree but still comply (obey). -->
+- [x] A) comply with <!-- feedback: Correct. To comply with means to act in accordance with a wish or command. -->
 - [ ] C) ignore <!-- feedback: Incorrect. Failure to comply is more formal than just ignoring. -->
 - [ ] D) create <!-- feedback: Incorrect. -->
 
@@ -196,8 +196,8 @@ The community had been fighting the coal plant in court for years before they fi
 
 ### Opciones
 - [ ] A) was fighting <!-- feedback: Incorrect. Past continuous. -->
-- [x] B) had been fighting <!-- feedback: Correct. Past perfect continuous for duration before a past point. -->
-- [ ] C) has been fighting <!-- feedback: Incorrect. Present perfect continuous. -->
+- [x] C) had been fighting <!-- feedback: Correct. Past perfect continuous for duration before a past point. -->
+- [ ] B) has been fighting <!-- feedback: Incorrect. Present perfect continuous. -->
 - [ ] D) fight <!-- feedback: Incorrect. Present simple. -->
 
 ### Explicacion Pedagogica
@@ -216,9 +216,9 @@ Greenwashing involves misleading consumers about the environmental benefits of a
 
 ### Opciones
 - [ ] A) honest <!-- feedback: Incorrect. Greenwashing is deceptive. -->
-- [x] B) deceptive <!-- feedback: Correct. Deceptive means giving an appearance or impression different from the true one; misleading. -->
-- [ ] C) accurate <!-- feedback: Incorrect. -->
-- [ ] D) scientific <!-- feedback: Incorrect. It often lacks real scientific basis. -->
+- [x] D) deceptive <!-- feedback: Correct. Deceptive means giving an appearance or impression different from the true one; misleading. -->
+- [ ] B) accurate <!-- feedback: Incorrect. -->
+- [ ] C) scientific <!-- feedback: Incorrect. It often lacks real scientific basis. -->
 
 ### Explicacion Pedagogica
 'Deceptive' correctly identifies the dishonest nature of greenwashing practices.
@@ -235,8 +235,8 @@ Greenwashing involves misleading consumers about the environmental benefits of a
 Legislation is a law or a set of laws that have been passed by a parliament or other governing body.
 
 ### Opciones
-- [ ] A) Rumor <!-- feedback: Incorrect. -->
-- [x] B) Legislation <!-- feedback: Correct. The formal term for laws. -->
+- [ ] B) Rumor <!-- feedback: Incorrect. -->
+- [x] A) Legislation <!-- feedback: Correct. The formal term for laws. -->
 - [ ] C) Tradition <!-- feedback: Incorrect. -->
 - [ ] D) Myth <!-- feedback: Incorrect. -->
 
@@ -255,8 +255,8 @@ Legislation is a law or a set of laws that have been passed by a parliament or o
 By 2030, many single-use plastics will have been banned in most developed nations.
 
 ### Opciones
-- [ ] A) will ban <!-- feedback: Incorrect. Active voice. -->
-- [x] B) will have been banned <!-- feedback: Correct. Future perfect passive for a completed state in the future. -->
+- [ ] B) will ban <!-- feedback: Incorrect. Active voice. -->
+- [x] A) will have been banned <!-- feedback: Correct. Future perfect passive for a completed state in the future. -->
 - [ ] C) are banned <!-- feedback: Incorrect. Present. -->
 - [ ] D) banning <!-- feedback: Incorrect. Gerund. -->
 
@@ -275,8 +275,8 @@ The future perfect passive describes the ban as a finished reality by the year 2
 Jurisdiction refers to the official power to make legal decisions and judgments within a specific area.
 
 ### Opciones
-- [ ] A) Navigation <!-- feedback: Incorrect. -->
-- [x] B) Jurisdiction <!-- feedback: Correct. Legal power over an area. -->
+- [ ] B) Navigation <!-- feedback: Incorrect. -->
+- [x] A) Jurisdiction <!-- feedback: Correct. Legal power over an area. -->
 - [ ] C) Celebration <!-- feedback: Incorrect. -->
 - [ ] D) Isolation <!-- feedback: Incorrect. -->
 
@@ -296,8 +296,8 @@ If more countries joined the treaty, global environmental protection would be mo
 
 ### Opciones
 - [ ] A) join <!-- feedback: Incorrect. First conditional. -->
-- [x] B) joined <!-- feedback: Correct. Second conditional for a hypothetical change. -->
-- [ ] C) had joined <!-- feedback: Incorrect. Third conditional. -->
+- [x] C) joined <!-- feedback: Correct. Second conditional for a hypothetical change. -->
+- [ ] B) had joined <!-- feedback: Incorrect. Third conditional. -->
 - [ ] D) would join <!-- feedback: Incorrect. 'Would' not in 'if' clause. -->
 
 ### Explicacion Pedagogica
@@ -316,8 +316,8 @@ The author concludes that environmental litigation is a powerful tool for holdin
 
 ### Opciones
 - [ ] A) unimportant <!-- feedback: Incorrect. -->
-- [x] B) powerful tool <!-- feedback: Correct. Litigation is the process of taking legal action. -->
-- [ ] C) secret weapon <!-- feedback: Incorrect. It's a public legal process. -->
+- [x] C) powerful tool <!-- feedback: Correct. Litigation is the process of taking legal action. -->
+- [ ] B) secret weapon <!-- feedback: Incorrect. It's a public legal process. -->
 - [ ] D) distraction <!-- feedback: Incorrect. Author sees it as essential. -->
 
 ### Explicacion Pedagogica
@@ -335,8 +335,8 @@ The author concludes that environmental litigation is a powerful tool for holdin
 A litigant is a person involved in a lawsuit.
 
 ### Opciones
-- [ ] A) Witness <!-- feedback: Incorrect. A witness gives evidence but is not a party to the suit. -->
-- [x] B) Litigant <!-- feedback: Correct. Formal term for a party in a lawsuit. -->
+- [ ] B) Witness <!-- feedback: Incorrect. A witness gives evidence but is not a party to the suit. -->
+- [x] A) Litigant <!-- feedback: Correct. Formal term for a party in a lawsuit. -->
 - [ ] C) Judge <!-- feedback: Incorrect. The judge hears the case. -->
 - [ ] D) Jury <!-- feedback: Incorrect. The jury decides the facts. -->
 
@@ -375,8 +375,8 @@ The 'wish + past perfect' structure allows for the expression of regret about a 
 Sustainable finance involves taking environmental, social, and governance (ESG) factors into account when making investment decisions.
 
 ### Opciones
-- [ ] A) ignoring <!-- feedback: Incorrect. -->
-- [x] B) taking into account <!-- feedback: Correct. To take into account means to consider something when making a decision. -->
+- [ ] B) ignoring <!-- feedback: Incorrect. -->
+- [x] A) taking into account <!-- feedback: Correct. To take into account means to consider something when making a decision. -->
 - [ ] C) hiding <!-- feedback: Incorrect. -->
 - [ ] D) deleting <!-- feedback: Incorrect. -->
 
@@ -415,8 +415,8 @@ In reported speech, we backshift the tense of the original violation to show it 
 Ultimately, environmental law is essential for ensuring that economic development does not come at the expense of our planet's health.
 
 ### Opciones
-- [x] A) at the expense of <!-- feedback: Correct. 'At the expense of' means with the loss or damage of. -->
-- [ ] B) in addition to <!-- feedback: Incorrect. It doesn't mean adding. -->
+- [x] B) at the expense of <!-- feedback: Correct. 'At the expense of' means with the loss or damage of. -->
+- [ ] A) in addition to <!-- feedback: Incorrect. It doesn't mean adding. -->
 - [ ] C) because of <!-- feedback: Incorrect. -->
 - [ ] D) instead of <!-- feedback: Incorrect. -->
 

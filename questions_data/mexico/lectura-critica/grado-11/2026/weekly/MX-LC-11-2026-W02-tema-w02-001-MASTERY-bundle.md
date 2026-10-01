@@ -33,8 +33,8 @@ Sor Juana Inés de la Cruz redactó la 'Respuesta a Sor Filotea de la Cruz' (169
 
 ### Opciones
 - [ ] A) Un reglamento burocrático dictado por el gobierno colonial. <!-- feedback: Incorrecto. El texto es de carácter ensayístico o informativo-analítico, no un reglamento oficial. -->
-- [x] B) Un {kw[2]} que examina críticamente {kw[1]} en relación con {kw[3]}. <!-- feedback: Correcto. El escrito tiene todas las características de un {kw[2]} de análisis conceptual y humanista. -->
-- [ ] C) Una novela de ficción que narra leyendas cortesanas de la época. <!-- feedback: Incorrecto. Se trata de una argumentación teórica y conceptual, no de un relato de ficción novelado. -->
+- [x] C) Un {kw[2]} que examina críticamente {kw[1]} en relación con {kw[3]}. <!-- feedback: Correcto. El escrito tiene todas las características de un {kw[2]} de análisis conceptual y humanista. -->
+- [ ] B) Una novela de ficción que narra leyendas cortesanas de la época. <!-- feedback: Incorrecto. Se trata de una argumentación teórica y conceptual, no de un relato de ficción novelado. -->
 - [ ] D) Una recopilación de datos de contabilidad comercial internacional. <!-- feedback: Incorrecto. El fragmento se concentra en las ideas culturales e históricas, no en aspectos contables. -->
 
 ### Explicacion Pedagogica
@@ -79,8 +79,8 @@ De acuerdo con 'Sor Juana Inés de la Cruz y la Educación', ¿cuál es la postu
 
 ### Opciones
 - [ ] A) Que debe mantenerse en aislamiento absoluto para conservar su pureza de origen. <!-- feedback: Incorrecto. El texto rechaza explícitamente el aislamiento o cerrazón cultural. -->
-- [x] B) Que florece y se enriquece a través de la asimilación y el diálogo con corrientes universales. <!-- feedback: Correcto. El autor destaca que la integración con corrientes mundiales fortalece el desarrollo cultural local. -->
-- [ ] C) Que debe imitar de forma ciega y sumisa las modas intelectuales de Europa. <!-- feedback: Incorrecto. Se aboga por una asimilación activa y recreativa, no por una copia servil. -->
+- [x] C) Que florece y se enriquece a través de la asimilación y el diálogo con corrientes universales. <!-- feedback: Correcto. El autor destaca que la integración con corrientes mundiales fortalece el desarrollo cultural local. -->
+- [ ] B) Que debe imitar de forma ciega y sumisa las modas intelectuales de Europa. <!-- feedback: Incorrecto. Se aboga por una asimilación activa y recreativa, no por una copia servil. -->
 - [ ] D) Que carece de valor frente a los desarrollos industriales o comerciales del extranjero. <!-- feedback: Incorrecto. El texto resalta el inmenso valor y dignidad de la tradición y el intelecto de México. -->
 
 ### Explicacion Pedagogica
@@ -101,10 +101,10 @@ Sor Juana Inés de la Cruz redactó la 'Respuesta a Sor Filotea de la Cruz' (169
 En el contexto del fragmento, la mención de 'la retórica escolástica' alude principalmente a:
 
 ### Opciones
-- [x] A) Una corriente de pensamiento y método de análisis que concibe el saber como patrimonio común de la humanidad. <!-- feedback: Correcto. Alude al ideal que sitúa la razón y la cultura como puentes universales. -->
-- [ ] B) Una técnica formal de redacción mercantil de uso obligatorio en el virreinato. <!-- feedback: Incorrecto. Es un concepto intelectual y filosófico, no un formato mercantil. -->
-- [ ] C) Un castigo corporal destinado a corregir la desobediencia en los colegios. <!-- feedback: Incorrecto. No tiene ninguna relación con castigos o correctivos escolares. -->
-- [ ] D) Un inventario municipal de las especies forestales del norte de México. <!-- feedback: Incorrecto. El concepto es filosófico y humanístico, no de índole estadística forestal. -->
+- [x] D) Una corriente de pensamiento y método de análisis que concibe el saber como patrimonio común de la humanidad. <!-- feedback: Correcto. Alude al ideal que sitúa la razón y la cultura como puentes universales. -->
+- [ ] A) Una técnica formal de redacción mercantil de uso obligatorio en el virreinato. <!-- feedback: Incorrecto. Es un concepto intelectual y filosófico, no un formato mercantil. -->
+- [ ] B) Un castigo corporal destinado a corregir la desobediencia en los colegios. <!-- feedback: Incorrecto. No tiene ninguna relación con castigos o correctivos escolares. -->
+- [ ] C) Un inventario municipal de las especies forestales del norte de México. <!-- feedback: Incorrecto. El concepto es filosófico y humanístico, no de índole estadística forestal. -->
 
 ### Explicacion Pedagogica
 El concepto de 'la retórica escolástica' representa la deparación del saber y la cultura como patrimonios comunes e integradores del ser humano.
@@ -125,8 +125,8 @@ Sor Juana Inés de la Cruz redactó la 'Respuesta a Sor Filotea de la Cruz' (169
 
 ### Opciones
 - [ ] A) Demostrar que los intelectuales de su época carecían de rigor en la escritura. <!-- feedback: Incorrecto. No se formula una crítica negativa al rigor de los creadores de la época. -->
-- [x] B) Proveer un ejemplo práctico de cómo las ideas universales se recrean con originalidad desde una sensibilidad local. <!-- feedback: Correcto. Muestra de forma práctica la viabilidad del diálogo entre lo propio y lo universal que propone el autor. -->
-- [ ] C) Convencer a los lectores de abandonar las tradiciones indígenas mexicanas. <!-- feedback: Incorrecto. Al contrario, las tradiciones locales son valoradas y puestas en diálogo fecundo. -->
+- [x] C) Proveer un ejemplo práctico de cómo las ideas universales se recrean con originalidad desde una sensibilidad local. <!-- feedback: Correcto. Muestra de forma práctica la viabilidad del diálogo entre lo propio y lo universal que propone el autor. -->
+- [ ] B) Convencer a los lectores de abandonar las tradiciones indígenas mexicanas. <!-- feedback: Incorrecto. Al contrario, las tradiciones locales son valoradas y puestas en diálogo fecundo. -->
 - [ ] D) Promover la compra de ediciones costosas importadas de España. <!-- feedback: Incorrecto. El escrito se enfoca en el acceso al saber y de ninguna manera en transacciones comerciales. -->
 
 ### Explicacion Pedagogica
@@ -170,8 +170,8 @@ Sor Juana Inés de la Cruz redactó la 'Respuesta a Sor Filotea de la Cruz' (169
 Si un educador de la SEP actual compartiera la visión de Sor Juana Inés de la Cruz expuesta en el fragmento, ¿cuál de los siguientes proyectos de aula consideraría prioritario?
 
 ### Opciones
-- [ ] A) La memorización mecánica de fechas de batallas históricas sin análisis de causas. <!-- feedback: Incorrecto. El humanismo promueve la reflexión y comprensión crítica, no el aprendizaje memorístico. -->
-- [x] B) Un taller donde los alumnos analicen textos literarios universales vinculándolos con la realidad de su comunidad. <!-- feedback: Correcto. Este ejercicio encarna perfectamente el diálogo entre corrientes globales de pensamiento y la identidad local. -->
+- [ ] B) La memorización mecánica de fechas de batallas históricas sin análisis de causas. <!-- feedback: Incorrecto. El humanismo promueve la reflexión y comprensión crítica, no el aprendizaje memorístico. -->
+- [x] A) Un taller donde los alumnos analicen textos literarios universales vinculándolos con la realidad de su comunidad. <!-- feedback: Correcto. Este ejercicio encarna perfectamente el diálogo entre corrientes globales de pensamiento y la identidad local. -->
 - [ ] C) La prohibición de la lectura de autores extranjeros para proteger el idioma español. <!-- feedback: Incorrecto. Esto caería en el aislamiento cerrado que el autor critica de manera enérgica. -->
 - [ ] D) La reducción de las horas de clase dedicadas al arte y a la filosofía para priorizar la contabilidad. <!-- feedback: Incorrecto. El autor aboga por la centralidad de las humanidades en la educación nacional. -->
 
@@ -193,10 +193,10 @@ Sor Juana Inés de la Cruz redactó la 'Respuesta a Sor Filotea de la Cruz' (169
 Frente a una iniciativa legal que busque limitar el acceso de las mujeres o de comunidades rurales a la educación superior en México, la filosofía de Sor Juana Inés de la Cruz permitiría argumentar que:
 
 ### Opciones
-- [x] A) Limitar la educación de un sector de la población debilita el desarrollo cultural y atenta contra el potencial racional de la nación. <!-- feedback: Correcto. El desarrollo racional es un derecho universal y su restricción empobrece de manera integral a la cultura colectiva. -->
-- [ ] B) La medida es correcta porque el acceso a la cultura de vanguardia debe reservarse para una élite urbana cortesana. <!-- feedback: Incorrecto. El humanismo y la cruzada alfabetizadora promueven un ideal de acceso abierto al saber. -->
-- [ ] C) El estudio científico debe restringirse para evitar que las tradiciones locales cambien con el tiempo. <!-- feedback: Incorrecto. La cultura es concebida de forma dinámica, enriqueciéndose mediante la asimilación de nuevos saberes. -->
-- [ ] D) Las decisiones de política educativa deben ser dictadas de forma absoluta por las autoridades eclesiásticas. <!-- feedback: Incorrecto. Se defiende la libertad intelectual de los creadores e investigadores por encima de controles dogmáticos. -->
+- [x] D) Limitar la educación de un sector de la población debilita el desarrollo cultural y atenta contra el potencial racional de la nación. <!-- feedback: Correcto. El desarrollo racional es un derecho universal y su restricción empobrece de manera integral a la cultura colectiva. -->
+- [ ] A) La medida es correcta porque el acceso a la cultura de vanguardia debe reservarse para una élite urbana cortesana. <!-- feedback: Incorrecto. El humanismo y la cruzada alfabetizadora promueven un ideal de acceso abierto al saber. -->
+- [ ] B) El estudio científico debe restringirse para evitar que las tradiciones locales cambien con el tiempo. <!-- feedback: Incorrecto. La cultura es concebida de forma dinámica, enriqueciéndose mediante la asimilación de nuevos saberes. -->
+- [ ] C) Las decisiones de política educativa deben ser dictadas de forma absoluta por las autoridades eclesiásticas. <!-- feedback: Incorrecto. Se defiende la libertad intelectual de los creadores e investigadores por encima de controles dogmáticos. -->
 
 ### Explicacion Pedagogica
 Cualquier barrera que obstaculice el desarrollo intelectual contradice el ideal de una cultura abierta, democrática y humanista.
@@ -216,9 +216,9 @@ Sor Juana Inés de la Cruz redactó la 'Respuesta a Sor Filotea de la Cruz' (169
 Un ensayista contemporáneo que utiliza la sátira y el contraste lógico para criticar las incoherencias morales de la política mexicana sigue un método similar a:
 
 ### Opciones
-- [x] A) El desmontaje lógico e irónico que se describe en la obra de defensa del intelecto y crítica de costumbres. <!-- feedback: Correcto. Emplear la ironía y el rigor argumentativo para desnudar hipocresías es la técnica que se destaca en el fragmento. -->
-- [ ] B) La imitación de catálogos científicos de botánica exentos de lenguaje figurado. <!-- feedback: Incorrecto. La sátira es un recurso expresivo y valorativo de las humanidades, no una descripción científica fría. -->
-- [ ] C) La recopilación de datos estadísticos sobre el censo de población de la Nueva España. <!-- feedback: Incorrecto. Se enfoca en la argumentación lógica y moral, no en la contabilidad demográfica. -->
+- [x] C) El desmontaje lógico e irónico que se describe en la obra de defensa del intelecto y crítica de costumbres. <!-- feedback: Correcto. Emplear la ironía y el rigor argumentativo para desnudar hipocresías es la técnica que se destaca en el fragmento. -->
+- [ ] A) La imitación de catálogos científicos de botánica exentos de lenguaje figurado. <!-- feedback: Incorrecto. La sátira es un recurso expresivo y valorativo de las humanidades, no una descripción científica fría. -->
+- [ ] B) La recopilación de datos estadísticos sobre el censo de población de la Nueva España. <!-- feedback: Incorrecto. Se enfoca en la argumentación lógica y moral, no en la contabilidad demográfica. -->
 - [ ] D) Una queja lastimera que se limita a lamentar el orden social sin argumentar. <!-- feedback: Incorrecto. Al contrario, se destaca que la sátira y el desmontaje operan con rigor forense y racional. -->
 
 ### Explicacion Pedagogica
@@ -240,9 +240,9 @@ El concepto de un 'concierto de las letras universales' planteado en 'Sor Juana 
 
 ### Opciones
 - [ ] A) Un coro de voces idénticas que cantan en una sola nota e idioma sin admitir variaciones. <!-- feedback: Incorrecto. Un concierto implica pluralidad e integración armoniosa de sonidos diversos, no homogeneidad absoluta. -->
-- [x] B) Una orquesta filarmónica donde instrumentos diversos aportan su timbre particular para crear una obra común. <!-- feedback: Correcto. Ilustra la asimilación respetuosa de identidades múltiples que cooperan de forma equilibrada en un marco universal. -->
-- [ ] C) Una biblioteca cerrada con candado donde sólo se permite el ingreso de los bibliotecarios. <!-- feedback: Incorrecto. El concierto alude a un diálogo abierto de ideas, no al ocultamiento o reclusión del saber. -->
-- [ ] D) Un mercado informal de copias piratas de textos de botánica. <!-- feedback: Incorrecto. La analogía es con un espacio de creación coordinada e intelectual de alto valor estético. -->
+- [x] D) Una orquesta filarmónica donde instrumentos diversos aportan su timbre particular para crear una obra común. <!-- feedback: Correcto. Ilustra la asimilación respetuosa de identidades múltiples que cooperan de forma equilibrada en un marco universal. -->
+- [ ] B) Una biblioteca cerrada con candado donde sólo se permite el ingreso de los bibliotecarios. <!-- feedback: Incorrecto. El concierto alude a un diálogo abierto de ideas, no al ocultamiento o reclusión del saber. -->
+- [ ] C) Un mercado informal de copias piratas de textos de botánica. <!-- feedback: Incorrecto. La analogía es con un espacio de creación coordinada e intelectual de alto valor estético. -->
 
 ### Explicacion Pedagogica
 La armoniosa integración de voces y culturas literarias diversas en un tronco humanista común es representada de forma idónea por la analogía de la orquesta.
@@ -262,10 +262,10 @@ En las 'Redondillas' de Sor Juana Inés de la Cruz, el famoso verso 'Hombres nec
 Si un científico del CONACYT analizara el tema expuesto en 'Las Redondillas y la Crítica a la Doble Moral' desde un marco meramente físico-geológico, dirigiría su atención a:
 
 ### Opciones
-- [x] A) La composición mineral de las rocas calizas, la orografía del relieve y el registro empírico del clima. <!-- feedback: Correcto. El análisis geológico se ciñe a variables físicas y mensurables de manera objetiva, desprovistas de carga afectiva. -->
-- [ ] B) La añoranza poética que experimentan los habitantes locales en sus diarios íntimos. <!-- feedback: Incorrecto. Las emociones y recuerdos de la infancia entran en el ámbito del ensayo literario, no de la geología. -->
-- [ ] C) Las leyendas orales recopiladas por los cronistas coloniales de la Nueva España. <!-- feedback: Incorrecto. El folklore pertenece a los estudios antropológicos y culturales, apartados del registro físico-químico mineral. -->
-- [ ] D) La recaudación de impuestos ejidales del sector agrícola de la región. <!-- feedback: Incorrecto. Las finanzas municipales no constituyen el objeto de estudio de las ciencias de la Tierra. -->
+- [x] D) La composición mineral de las rocas calizas, la orografía del relieve y el registro empírico del clima. <!-- feedback: Correcto. El análisis geológico se ciñe a variables físicas y mensurables de manera objetiva, desprovistas de carga afectiva. -->
+- [ ] A) La añoranza poética que experimentan los habitantes locales en sus diarios íntimos. <!-- feedback: Incorrecto. Las emociones y recuerdos de la infancia entran en el ámbito del ensayo literario, no de la geología. -->
+- [ ] B) Las leyendas orales recopiladas por los cronistas coloniales de la Nueva España. <!-- feedback: Incorrecto. El folklore pertenece a los estudios antropológicos y culturales, apartados del registro físico-químico mineral. -->
+- [ ] C) La recaudación de impuestos ejidales del sector agrícola de la región. <!-- feedback: Incorrecto. Las finanzas municipales no constituyen el objeto de estudio de las ciencias de la Tierra. -->
 
 ### Explicacion Pedagogica
 Un enfoque puramente científico o físico aislaría las propiedades del relieve y del clima, dejando fuera el valor identitario y de memoria colectiva.
@@ -285,8 +285,8 @@ En las 'Redondillas' de Sor Juana Inés de la Cruz, el famoso verso 'Hombres nec
 Un plan de desarrollo urbano sustentable en la doble moral que incorpore la perspectiva de Sor Juana Inés de la Cruz descrita en el fragmento B priorizaría:
 
 ### Opciones
-- [ ] A) La pavimentación masiva de áreas verdes para la edificación de centros comerciales extranjeros. <!-- feedback: Incorrecto. Destruir el paisaje natural rompe la conexión con la flora y el relieve que el autor destaca. -->
-- [x] B) El equilibrio ecológico de la zona, el uso de flora nativa y la visibilidad de los monumentos naturales emblemáticos. <!-- feedback: Correcto. Respetar e integrar el entorno físico con la vida cotidiana preserva el ancla de la identidad y de la memoria colectiva. -->
+- [ ] B) La pavimentación masiva de áreas verdes para la edificación de centros comerciales extranjeros. <!-- feedback: Incorrecto. Destruir el paisaje natural rompe la conexión con la flora y el relieve que el autor destaca. -->
+- [x] A) El equilibrio ecológico de la zona, el uso de flora nativa y la visibilidad de los monumentos naturales emblemáticos. <!-- feedback: Correcto. Respetar e integrar el entorno físico con la vida cotidiana preserva el ancla de la identidad y de la memoria colectiva. -->
 - [ ] C) La construcción de grandes autopistas de cuota sin andadores peatonales. <!-- feedback: Incorrecto. Priorizar el tránsito vehicular a costa de la habitabilidad peatonal es ajeno a un enfoque humanista. -->
 - [ ] D) El desalojo forzado de los habitantes nativos para deparar zonas hoteleras exclusivas. <!-- feedback: Incorrecto. Esto trivializa el patrimonio social y destruye el tejido comunitario de memoria. -->
 
@@ -331,8 +331,8 @@ En las 'Redondillas' de Sor Juana Inés de la Cruz, el famoso verso 'Hombres nec
 Al describir la prosa del ensayo sobre las Redondillas como una 'unión de precisión botánica y profunda emotividad', el autor resalta:
 
 ### Opciones
-- [ ] A) Un error de método científico que resta validez informativa al escrito. <!-- feedback: Incorrecto. La unión de estas dos facetas se describe como una virtud literaria de gran valor, no como una falla. -->
-- [x] B) La destreza para conjugar la observación minuciosa y científica del entorno con la sensibilidad poética y afectiva. <!-- feedback: Correcto. El autor destaca que el escrito logra ser riguroso respecto a la naturaleza y a la vez evocar de forma viva la nostalgia. -->
+- [ ] B) Un error de método científico que resta validez informativa al escrito. <!-- feedback: Incorrecto. La unión de estas dos facetas se describe como una virtud literaria de gran valor, no como una falla. -->
+- [x] A) La destreza para conjugar la observación minuciosa y científica del entorno con la sensibilidad poética y afectiva. <!-- feedback: Correcto. El autor destaca que el escrito logra ser riguroso respecto a la naturaleza y a la vez evocar de forma viva la nostalgia. -->
 - [ ] C) El desprecio del ensayista por las leyes de la física y de las ciencias de la Tierra. <!-- feedback: Incorrecto. El ensayista demuestra un profundo conocimiento y aprecio por las ciencias biológicas de su entorno. -->
 - [ ] D) Una contradicción estilística insalvable que confunde por completo a los lectores. <!-- feedback: Incorrecto. Al contrario, produce un texto de gran claridad expresiva e intelectual. -->
 
@@ -354,8 +354,8 @@ En las 'Redondillas' de Sor Juana Inés de la Cruz, el famoso verso 'Hombres nec
 ¿Qué premisa lógica es indispensable para que se sostenga la tesis de que las Redondillas constituye la 'columna vertebral de la identidad' de una región?
 
 ### Opciones
-- [x] A) Que la cultura y la memoria de un pueblo se construyen en un diálogo ininterrumpido e íntimo con el entorno que habitan. <!-- feedback: Correcto. Si no existiera esta interdependencia subjetiva con el paisaje, el entorno sería irrelevante para la construcción de la identidad. -->
-- [ ] B) Que la geografía determina el comportamiento de forma absoluta e inmutable, sin importar las relaciones históricas. <!-- feedback: Incorrecto. Atribuir un poder determinista rígido borra la libertad y la evolución histórica de la sociedad que el texto reconoce. -->
+- [x] B) Que la cultura y la memoria de un pueblo se construyen en un diálogo ininterrumpido e íntimo con el entorno que habitan. <!-- feedback: Correcto. Si no existiera esta interdependencia subjetiva con el paisaje, el entorno sería irrelevante para la construcción de la identidad. -->
+- [ ] A) Que la geografía determina el comportamiento de forma absoluta e inmutable, sin importar las relaciones históricas. <!-- feedback: Incorrecto. Atribuir un poder determinista rígido borra la libertad y la evolución histórica de la sociedad que el texto reconoce. -->
 - [ ] C) Que las personas nacidas en llanuras carecen por completo de memoria histórica y de expresiones artísticas. <!-- feedback: Incorrecto. Es un absurdo lógico que no se desprende de la valoración del paisaje montañoso o ritual de una zona. -->
 - [ ] D) Que la recopilación de datos de archivos eclesiásticos es superior a la observación directa de la naturaleza. <!-- feedback: Incorrecto. El texto resalta precisamente la valía de la observación unida al afecto de la vivencia real. -->
 
@@ -378,9 +378,9 @@ En las 'Redondillas' de Sor Juana Inés de la Cruz, el famoso verso 'Hombres nec
 
 ### Opciones
 - [ ] A) Que utiliza un vocabulario excesivamente sencillo carente de figuras de paralelismo o antítesis. <!-- feedback: Incorrecto. El escrito destaca por su complejidad y refinamiento retórico, no por simpleza. -->
-- [x] B) Que corre el riesgo de caer en el determinismo geográfico, soslayando la inmensa influencia de los factores históricos, sociales y económicos. <!-- feedback: Correcto. Explicar el carácter laborioso únicamente por la dureza de la montaña simplifica los procesos económicos de la comunidad. -->
-- [ ] C) Que ignora por completo la herencia de los clásicos grecolatinos que Reyes defendía en sus ensayos. <!-- feedback: Incorrecto. El autor integra de hecho el humanismo universal al dar valor y dignidad literaria al entorno norteño. -->
-- [ ] D) Que rechaza de forma arbitraria el uso de la investigación científica y la biología en las crónicas de costumbres. <!-- feedback: Incorrecto. Al contrario, se destaca el uso de la precisión de las ciencias biológicas de la zona. -->
+- [x] D) Que corre el riesgo de caer en el determinismo geográfico, soslayando la inmensa influencia de los factores históricos, sociales y económicos. <!-- feedback: Correcto. Explicar el carácter laborioso únicamente por la dureza de la montaña simplifica los procesos económicos de la comunidad. -->
+- [ ] B) Que ignora por completo la herencia de los clásicos grecolatinos que Reyes defendía en sus ensayos. <!-- feedback: Incorrecto. El autor integra de hecho el humanismo universal al dar valor y dignidad literaria al entorno norteño. -->
+- [ ] C) Que rechaza de forma arbitraria el uso de la investigación científica y la biología en las crónicas de costumbres. <!-- feedback: Incorrecto. Al contrario, se destaca el uso de la precisión de las ciencias biológicas de la zona. -->
 
 ### Explicacion Pedagogica
 Asociar rígidamente la conducta al medio físico (clima, relieve) roza el determinismo, una teoría que la sociología contemporánea matiza por simplista.
@@ -401,9 +401,9 @@ En las 'Redondillas' de Sor Juana Inés de la Cruz, el famoso verso 'Hombres nec
 
 ### Opciones
 - [ ] A) En proveer una fórmula matemática exacta para calcular el volumen de agua de los acuíferos o la altura de las montañas. <!-- feedback: Incorrecto. No de depara mediciones de tipo industrial o ingenieril cuantitativo en el ensayo analizado. -->
-- [x] B) En transfigurar el espacio físico de un dato estadístico frío a un patrimonio vivo cargado de memoria y afecto social. <!-- feedback: Correcto. El escrito dota de dimensión humana y simbólica a la geografía, incorporándola al acervo cultural e identitario. -->
-- [ ] C) En justificar el cobro de cuotas arancelarias a las publicaciones literarias procedentes del extranjero. <!-- feedback: Incorrecto. No guarda relación alguna con regulaciones comerciales o aranceles de importación de libros. -->
-- [ ] D) En sugerir que la literatura de opinión carece de importancia frente a la recopilación de archivos históricos coloniales. <!-- feedback: Incorrecto. El texto exalta precisamente la gran valía del ensayo literario y de la apreciación estética del medio. -->
+- [x] D) En transfigurar el espacio físico de un dato estadístico frío a un patrimonio vivo cargado de memoria y afecto social. <!-- feedback: Correcto. El escrito dota de dimensión humana y simbólica a la geografía, incorporándola al acervo cultural e identitario. -->
+- [ ] B) En justificar el cobro de cuotas arancelarias a las publicaciones literarias procedentes del extranjero. <!-- feedback: Incorrecto. No guarda relación alguna con regulaciones comerciales o aranceles de importación de libros. -->
+- [ ] C) En sugerir que la literatura de opinión carece de importancia frente a la recopilación de archivos históricos coloniales. <!-- feedback: Incorrecto. El texto exalta precisamente la gran valía del ensayo literario y de la apreciación estética del medio. -->
 
 ### Explicacion Pedagogica
 La trascendencia de la geografía y los ritos estriba en su conversión en hitos vivos que anclan la memoria y el afecto de la comunidad.
@@ -423,10 +423,10 @@ En las 'Redondillas' de Sor Juana Inés de la Cruz, el famoso verso 'Hombres nec
 A partir de la advertencia sobre la tensión entre 'las Redondillas' y 'la doble moral' que se plantea en 'Las Redondillas y la Crítica a la Doble Moral', ¿qué postura asume el autor?
 
 ### Opciones
-- [x] A) Defiende la custodia responsable de la esencia espiritual y comunitaria del patrimonio frente a la banalización del consumo masivo. <!-- feedback: Correcto. Advierte del riesgo de que la mercantilización turística despoje de su valor sagrado y de memoria a los rituales colectivos. -->
-- [ ] B) Promueve la explotación comercial irrestricta de las tradiciones para maximizar la llegada de divisas extranjeras. <!-- feedback: Incorrecto. Considera que la comercialización descontrolada trivializa y devalúa el patrimonio identitario nacional. -->
-- [ ] C) Propone la prohibición de toda investigación biológica o antropológica sobre las especies y los cenotes de México. <!-- feedback: Incorrecto. Valora positivamente las investigaciones de las ciencias y el resguardo ecológico y arqueológico de la zona. -->
-- [ ] D) Recomienda la adopción obligatoria de las costumbres festivas norteamericanas en detrimento de la milpa y del Día de Muertos. <!-- feedback: Incorrecto. Se busca proteger y valorar de forma digna las tradiciones prehispánicas y novohispanas locales. -->
+- [x] D) Defiende la custodia responsable de la esencia espiritual y comunitaria del patrimonio frente a la banalización del consumo masivo. <!-- feedback: Correcto. Advierte del riesgo de que la mercantilización turística despoje de su valor sagrado y de memoria a los rituales colectivos. -->
+- [ ] A) Promueve la explotación comercial irrestricta de las tradiciones para maximizar la llegada de divisas extranjeras. <!-- feedback: Incorrecto. Considera que la comercialización descontrolada trivializa y devalúa el patrimonio identitario nacional. -->
+- [ ] B) Propone la prohibición de toda investigación biológica o antropológica sobre las especies y los cenotes de México. <!-- feedback: Incorrecto. Valora positivamente las investigaciones de las ciencias y el resguardo ecológico y arqueológico de la zona. -->
+- [ ] C) Recomienda la adopción obligatoria de las costumbres festivas norteamericanas en detrimento de la milpa y del Día de Muertos. <!-- feedback: Incorrecto. Se busca proteger y valorar de forma digna las tradiciones prehispánicas y novohispanas locales. -->
 
 ### Explicacion Pedagogica
 El autor aboga por un equilibrio ético que acoja el aprecio global sin trivializar ni erosionar el núcleo sagrado del patrimonio de México.

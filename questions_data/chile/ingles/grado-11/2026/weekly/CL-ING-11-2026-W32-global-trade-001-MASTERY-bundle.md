@@ -36,8 +36,8 @@ Tariffs are taxes imposed by a government on imported goods and services.
 
 ### Opciones
 - [ ] A) Dividends <!-- feedback: Incorrect. Dividends are payments to shareholders. -->
-- [x] B) Tariffs <!-- feedback: Correct. Specific term for import taxes. -->
-- [ ] C) Subsidies <!-- feedback: Incorrect. Subsidies are payments *from* a government to support a business. -->
+- [x] C) Tariffs <!-- feedback: Correct. Specific term for import taxes. -->
+- [ ] B) Subsidies <!-- feedback: Incorrect. Subsidies are payments *from* a government to support a business. -->
 - [ ] D) Revenues <!-- feedback: Incorrect. Total income. -->
 
 ### Explicacion Pedagogica
@@ -55,8 +55,8 @@ Tariffs are taxes imposed by a government on imported goods and services.
 The volume of global trade has been increasing steadily since the late 20th century.
 
 ### Opciones
-- [ ] A) increases <!-- feedback: Incorrect. Present simple. -->
-- [x] B) has been increasing <!-- feedback: Correct. Present perfect continuous for an ongoing trend starting in the past. -->
+- [ ] B) increases <!-- feedback: Incorrect. Present simple. -->
+- [x] A) has been increasing <!-- feedback: Correct. Present perfect continuous for an ongoing trend starting in the past. -->
 - [ ] C) increased <!-- feedback: Incorrect. Past simple. -->
 - [ ] D) will increase <!-- feedback: Incorrect. Simple future. -->
 
@@ -75,8 +75,8 @@ The present perfect continuous highlights the continuous growth of trade over se
 If the free trade agreement hadn't been signed, local businesses would have faced higher competition costs.
 
 ### Opciones
-- [ ] A) wasn't signed <!-- feedback: Incorrect. Second conditional. -->
-- [x] B) hadn't been signed <!-- feedback: Correct. Third conditional for hypothetical past. -->
+- [ ] B) wasn't signed <!-- feedback: Incorrect. Second conditional. -->
+- [x] A) hadn't been signed <!-- feedback: Correct. Third conditional for hypothetical past. -->
 - [ ] C) isn't signed <!-- feedback: Incorrect. Present. -->
 - [ ] D) wouldn't be signed <!-- feedback: Incorrect. 'Would' not in 'if' clause. -->
 
@@ -95,9 +95,9 @@ The third conditional is used to speculate about the consequences of a past econ
 Comparative advantage is the ability of an individual or group to carry out a particular economic activity more efficiently than another activity.
 
 ### Opciones
-- [x] A) efficiently <!-- feedback: Correct. Efficiency is the key to comparative advantage. -->
-- [ ] B) slowly <!-- feedback: Incorrect. Trade advantage usually implies being better/faster. -->
-- [ ] C) rarely <!-- feedback: Incorrect. Unrelated. -->
+- [x] C) efficiently <!-- feedback: Correct. Efficiency is the key to comparative advantage. -->
+- [ ] A) slowly <!-- feedback: Incorrect. Trade advantage usually implies being better/faster. -->
+- [ ] B) rarely <!-- feedback: Incorrect. Unrelated. -->
 - [ ] D) expensively <!-- feedback: Incorrect. Efficiency usually reduces costs. -->
 
 ### Explicacion Pedagogica
@@ -115,8 +115,8 @@ Comparative advantage is the ability of an individual or group to carry out a pa
 Protectionism involves government policies that restrict international trade to help domestic industries.
 
 ### Opciones
-- [ ] A) promote <!-- feedback: Incorrect. Protectionism restricts trade. -->
-- [x] B) restrict <!-- feedback: Correct. To restrict means to put a limit on. -->
+- [ ] B) promote <!-- feedback: Incorrect. Protectionism restricts trade. -->
+- [x] A) restrict <!-- feedback: Correct. To restrict means to put a limit on. -->
 - [ ] C) ignore <!-- feedback: Incorrect. It is an active policy. -->
 - [ ] D) finance <!-- feedback: Incorrect. While it might involve subsidies, 'restrict' is the core function described. -->
 
@@ -155,8 +155,8 @@ Logistics is the detailed coordination of a complex operation involving many peo
 New shipping routes are being explored due to the melting of Arctic ice.
 
 ### Opciones
-- [ ] A) are exploring <!-- feedback: Incorrect. Active voice. -->
-- [x] B) are being explored <!-- feedback: Correct. Present continuous passive for an ongoing development. -->
+- [ ] B) are exploring <!-- feedback: Incorrect. Active voice. -->
+- [x] A) are being explored <!-- feedback: Correct. Present continuous passive for an ongoing development. -->
 - [ ] C) explored <!-- feedback: Incorrect. Past simple. -->
 - [ ] D) have explored <!-- feedback: Incorrect. Active voice. -->
 
@@ -175,8 +175,8 @@ The present continuous passive describes the current, active investigation into 
 A supply chain is the entire system of producing and delivering a product or service, from the very beginning to the final customer.
 
 ### Opciones
-- [ ] A) fragment <!-- feedback: Incorrect. A chain is a whole system. -->
-- [x] B) system <!-- feedback: Correct. A set of things working together as parts of a mechanism or an interconnecting network. -->
+- [ ] B) fragment <!-- feedback: Incorrect. A chain is a whole system. -->
+- [x] A) system <!-- feedback: Correct. A set of things working together as parts of a mechanism or an interconnecting network. -->
 - [ ] C) barrier <!-- feedback: Incorrect. The chain facilitates the flow. -->
 - [ ] D) isolation <!-- feedback: Incorrect. The chain connects different entities. -->
 
@@ -196,8 +196,8 @@ The interruption in the supply chain had caused prices to skyrocket before the g
 
 ### Opciones
 - [ ] A) caused <!-- feedback: Incorrect. Past simple doesn't show sequence as well here. -->
-- [x] B) had caused <!-- feedback: Correct. Past perfect for an action before another past action. -->
-- [ ] C) has caused <!-- feedback: Incorrect. Present perfect. -->
+- [x] C) had caused <!-- feedback: Correct. Past perfect for an action before another past action. -->
+- [ ] B) has caused <!-- feedback: Incorrect. Present perfect. -->
 - [ ] D) causes <!-- feedback: Incorrect. Present tense. -->
 
 ### Explicacion Pedagogica
@@ -216,8 +216,8 @@ Fair trade initiatives aim to ensure that producers in developing countries rece
 
 ### Opciones
 - [ ] A) cheap <!-- feedback: Incorrect. 'Equitable' means fair, not necessarily cheap. -->
-- [x] B) equitable <!-- feedback: Correct. Equitable means fair and impartial. -->
-- [ ] C) random <!-- feedback: Incorrect. Prices should be systematic. -->
+- [x] C) equitable <!-- feedback: Correct. Equitable means fair and impartial. -->
+- [ ] B) random <!-- feedback: Incorrect. Prices should be systematic. -->
 - [ ] D) hidden <!-- feedback: Incorrect. Transparency is key to fair trade. -->
 
 ### Explicacion Pedagogica
@@ -236,8 +236,8 @@ Outsourcing is the practice of having certain job functions done outside a compa
 
 ### Opciones
 - [ ] A) Hiring <!-- feedback: Incorrect. Too broad. -->
-- [x] B) Outsourcing <!-- feedback: Correct. Specific term for moving functions outside the company. -->
-- [ ] C) Investing <!-- feedback: Incorrect. Putting money into something. -->
+- [x] C) Outsourcing <!-- feedback: Correct. Specific term for moving functions outside the company. -->
+- [ ] B) Investing <!-- feedback: Incorrect. Putting money into something. -->
 - [ ] D) Marketing <!-- feedback: Incorrect. Promoting products. -->
 
 ### Explicacion Pedagogica
@@ -255,8 +255,8 @@ Outsourcing is the practice of having certain job functions done outside a compa
 By the year 2030, the new trade agreement will have been fully implemented across all member states.
 
 ### Opciones
-- [ ] A) will implement <!-- feedback: Incorrect. Active voice. -->
-- [x] B) will have been fully implemented <!-- feedback: Correct. Future perfect passive for a completed state in the future. -->
+- [ ] B) will implement <!-- feedback: Incorrect. Active voice. -->
+- [x] A) will have been fully implemented <!-- feedback: Correct. Future perfect passive for a completed state in the future. -->
 - [ ] C) implemented <!-- feedback: Incorrect. Past. -->
 - [ ] D) is implemented <!-- feedback: Incorrect. Present. -->
 
@@ -276,8 +276,8 @@ A trade deficit occurs when a country's imports exceed its exports.
 
 ### Opciones
 - [ ] A) match <!-- feedback: Incorrect. This would be a balance. -->
-- [x] B) exceed <!-- feedback: Correct. To exceed means to be greater in number or size than. -->
-- [ ] C) follow <!-- feedback: Incorrect. -->
+- [x] C) exceed <!-- feedback: Correct. To exceed means to be greater in number or size than. -->
+- [ ] B) follow <!-- feedback: Incorrect. -->
 - [ ] D) ignore <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
@@ -295,8 +295,8 @@ A trade deficit occurs when a country's imports exceed its exports.
 If the sanctions were lifted, the country's economy would likely experience a period of rapid growth.
 
 ### Opciones
-- [ ] A) are <!-- feedback: Incorrect. First conditional. -->
-- [x] B) were <!-- feedback: Correct. Second conditional for a hypothetical change. -->
+- [ ] B) are <!-- feedback: Incorrect. First conditional. -->
+- [x] A) were <!-- feedback: Correct. Second conditional for a hypothetical change. -->
 - [ ] C) had been <!-- feedback: Incorrect. Third conditional. -->
 - [ ] D) would be <!-- feedback: Incorrect. 'Would' not in 'if' clause. -->
 
@@ -316,9 +316,9 @@ The author concludes that digital trade is transforming the global economy by re
 
 ### Opciones
 - [ ] A) increasing <!-- feedback: Incorrect. Digital trade aims to make things cheaper. -->
-- [x] B) reducing <!-- feedback: Correct. Reducing means making smaller or less in amount. -->
-- [ ] C) ignoring <!-- feedback: Incorrect. Digital trade actively changes the cost. -->
-- [ ] D) complicates <!-- feedback: Incorrect. While systems are complex, the goal is efficiency. -->
+- [x] D) reducing <!-- feedback: Correct. Reducing means making smaller or less in amount. -->
+- [ ] B) ignoring <!-- feedback: Incorrect. Digital trade actively changes the cost. -->
+- [ ] C) complicates <!-- feedback: Incorrect. While systems are complex, the goal is efficiency. -->
 
 ### Explicacion Pedagogica
 'Reducing' correctly identifies the primary economic benefit of digital trade mentioned in the text.
@@ -335,8 +335,8 @@ The author concludes that digital trade is transforming the global economy by re
 A subsidy is a sum of money granted by the state or a public body to help an industry or business keep the price of a commodity or service low.
 
 ### Opciones
-- [ ] A) Tax <!-- feedback: Incorrect. Money paid TO the government. -->
-- [x] B) Subsidy <!-- feedback: Correct. Money given BY the government. -->
+- [ ] B) Tax <!-- feedback: Incorrect. Money paid TO the government. -->
+- [x] A) Subsidy <!-- feedback: Correct. Money given BY the government. -->
 - [ ] C) Loan <!-- feedback: Incorrect. Must be paid back. -->
 - [ ] D) Fine <!-- feedback: Incorrect. Punishment. -->
 
@@ -375,8 +375,8 @@ Business leaders wish the trade war would end as soon as possible.
 Sustainable trade must account for the environmental and social costs that are often externalized in traditional commerce.
 
 ### Opciones
-- [ ] A) internal <!-- feedback: Incorrect. Externalized means passed to others (society/nature). -->
-- [x] B) externalized <!-- feedback: Correct. Costs not reflected in the price. -->
+- [ ] B) internal <!-- feedback: Incorrect. Externalized means passed to others (society/nature). -->
+- [x] A) externalized <!-- feedback: Correct. Costs not reflected in the price. -->
 - [ ] C) matching <!-- feedback: Incorrect. -->
 - [ ] D) hidden <!-- feedback: Incorrect. While they are often hidden, 'externalized' is the technical term. -->
 
@@ -396,8 +396,8 @@ The report stated that global trade had grown by 5% in the previous year.
 
 ### Opciones
 - [ ] A) has grown <!-- feedback: Incorrect. Backshifted in reported speech. -->
-- [x] B) had grown <!-- feedback: Correct. Backshifted from past simple or present perfect. -->
-- [ ] C) is growing <!-- feedback: Incorrect. Present tense. -->
+- [x] C) had grown <!-- feedback: Correct. Backshifted from past simple or present perfect. -->
+- [ ] B) is growing <!-- feedback: Incorrect. Present tense. -->
 - [ ] D) will grow <!-- feedback: Incorrect. Future. -->
 
 ### Explicacion Pedagogica
@@ -415,9 +415,9 @@ In reported speech, we backshift the tense of the original data ('Trade grew/has
 The future of global trade depends on our ability to create a system that is not only efficient but also resilient and equitable.
 
 ### Opciones
-- [x] A) equitable <!-- feedback: Correct. Fair and impartial. -->
-- [ ] B) greedy <!-- feedback: Incorrect. Negative. -->
-- [ ] C) isolated <!-- feedback: Incorrect. Trade requires connection. -->
+- [x] C) equitable <!-- feedback: Correct. Fair and impartial. -->
+- [ ] A) greedy <!-- feedback: Incorrect. Negative. -->
+- [ ] B) isolated <!-- feedback: Incorrect. Trade requires connection. -->
 - [ ] D) fragile <!-- feedback: Incorrect. We want resilience, the opposite of fragility. -->
 
 ### Explicacion Pedagogica

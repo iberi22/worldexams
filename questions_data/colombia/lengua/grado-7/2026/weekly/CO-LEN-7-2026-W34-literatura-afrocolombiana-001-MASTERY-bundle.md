@@ -31,8 +31,8 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) Obras escritas únicamente por autores extranjeros sobre la esclavitud en Colombia. <!-- feedback: La literatura afrocolombiana es producida por autores colombianos de ascendencia africana o que abordan su cosmovisión. -->
-- [x] B) Conjunto de obras escritas por autores colombianos de ascendencia africana, que reflejan su cultura, historia y cosmovisión. <!-- feedback: Esta definición abarca la autoría y la temática fundamental de esta corriente literaria. -->
-- [ ] C) Textos informativos sobre la geografía del continente africano. <!-- feedback: Esto corresponde a geografía o estudios africanos, no a la literatura producida por la comunidad afro en Colombia. -->
+- [x] C) Conjunto de obras escritas por autores colombianos de ascendencia africana, que reflejan su cultura, historia y cosmovisión. <!-- feedback: Esta definición abarca la autoría y la temática fundamental de esta corriente literaria. -->
+- [ ] B) Textos informativos sobre la geografía del continente africano. <!-- feedback: Esto corresponde a geografía o estudios africanos, no a la literatura producida por la comunidad afro en Colombia. -->
 - [ ] D) Poemas escritos exclusivamente en lenguas africanas antiguas sin traducción al español. <!-- feedback: La literatura afrocolombiana se escribe mayoritariamente en español, integrando giros y ritmos propios. -->
 
 ### Explicacion Pedagogica
@@ -88,8 +88,8 @@ La literatura afrocolombiana suele ser rítmica y sonora, influenciada por la tr
 
 ### Opciones
 - [ ] A) Confundir al lector que solo habla español. <!-- feedback: El objetivo no es la confusión, sino la autenticidad y la identidad. -->
-- [x] B) Preservar la identidad cultural y reivindicar el primer pueblo libre de América. <!-- feedback: El palenquero es una lengua criolla única; su uso en la literatura es un acto de resistencia y orgullo cultural. -->
-- [ ] C) Ahorrar papel escribiendo palabras más cortas. <!-- feedback: No tiene ninguna relación con la economía del soporte físico. -->
+- [x] C) Preservar la identidad cultural y reivindicar el primer pueblo libre de América. <!-- feedback: El palenquero es una lengua criolla única; su uso en la literatura es un acto de resistencia y orgullo cultural. -->
+- [ ] B) Ahorrar papel escribiendo palabras más cortas. <!-- feedback: No tiene ninguna relación con la economía del soporte físico. -->
 - [ ] D) Demostrar que los autores no conocen bien las reglas del español. <!-- feedback: Es un uso consciente y deliberado para enriquecer la obra desde la diversidad lingüística. -->
 
 ### Explicacion Pedagogica
@@ -106,8 +106,8 @@ San Basilio de Palenque fue el primer pueblo libre de América. Su lengua, el pa
 ¿Cuál de los siguientes elementos sería más coherente incluir para respetar la esencia de esta tradición afrocolombiana?
 
 ### Opciones
-- [ ] A) Un detective resolviendo un crimen en una ciudad futurista. <!-- feedback: Esto pertenece al género policial o ciencia ficción, no a la tradición del Pacífico. -->
-- [x] B) Una comunidad reunida alrededor de un velorio, donde las voces femeninas guían el tránsito del alma. <!-- feedback: Los alabaos son cantos comunitarios, principalmente liderados por mujeres, esenciales en los rituales de muerte. -->
+- [ ] B) Un detective resolviendo un crimen en una ciudad futurista. <!-- feedback: Esto pertenece al género policial o ciencia ficción, no a la tradición del Pacífico. -->
+- [x] A) Una comunidad reunida alrededor de un velorio, donde las voces femeninas guían el tránsito del alma. <!-- feedback: Los alabaos son cantos comunitarios, principalmente liderados por mujeres, esenciales en los rituales de muerte. -->
 - [ ] C) Una competencia de música rock en un estadio de fútbol. <!-- feedback: No guarda relación con la solemnidad y el contexto cultural de los alabaos. -->
 - [ ] D) Una receta de cocina detallada sobre cómo preparar sancocho. <!-- feedback: Aunque la gastronomía es cultura, no representa la tradición espiritual de los alabaos. -->
 
@@ -166,9 +166,9 @@ El análisis literario permite identificar cómo un mismo hecho histórico puede
 
 ### Opciones
 - [ ] A) Escribir poemas en un español perfecto y culto para ser aceptado en España. <!-- feedback: Al contrario, su gran innovación fue usar el dialecto y el habla popular. -->
-- [x] B) Darle estatus literario al lenguaje popular afro, demostrando que la poesía vive en la voz de la gente sencilla. <!-- feedback: Fue pionero en la literatura dialectal, rompiendo con los moldes rígidos de la época. -->
-- [ ] C) Inventar un nuevo idioma que nadie más podía entender. <!-- feedback: No inventó un idioma, capturó la riqueza del habla real de su región. -->
-- [ ] D) Escribir únicamente sobre los paisajes de Bogotá y Medellín. <!-- feedback: Su obra se centra en el río Magdalena y su gente en la región Caribe. -->
+- [x] D) Darle estatus literario al lenguaje popular afro, demostrando que la poesía vive en la voz de la gente sencilla. <!-- feedback: Fue pionero en la literatura dialectal, rompiendo con los moldes rígidos de la época. -->
+- [ ] B) Inventar un nuevo idioma que nadie más podía entender. <!-- feedback: No inventó un idioma, capturó la riqueza del habla real de su región. -->
+- [ ] C) Escribir únicamente sobre los paisajes de Bogotá y Medellín. <!-- feedback: Su obra se centra en el río Magdalena y su gente en la región Caribe. -->
 
 ### Explicacion Pedagogica
 Candelario Obeso es considerado el precursor de la poesía negra en Colombia. Al escribir como hablaba su gente, desafió los prejuicios de la élite intelectual y validó la identidad afro desde el lenguaje cotidiano.
@@ -205,8 +205,8 @@ El estudio de las escritoras afrocolombianas permite una comprensión más integ
 ### Opciones
 - [ ] A) La literatura es irrelevante porque los libros no detienen las balas de manera inmediata. <!-- feedback: Es una visión muy limitada; la literatura transforma mentalidades y culturas a largo plazo. -->
 - [ ] B) Es útil solo si todos los personajes de los cuentos se vuelven amigos al final de la historia. <!-- feedback: La paz no es un final feliz simplista, sino un proceso de reconocimiento y justicia. -->
-- [x] C) Es una herramienta poderosa de reparación simbólica que permite reconocer la dignidad de las comunidades y fomentar la empatía nacional. <!-- feedback: Al leer las historias de otros, se rompe el ciclo de la alteridad y se construye un sentido de nación compartida. -->
-- [ ] D) La literatura afro debería limitarse a hablar de música y baile para no generar tensiones políticas. <!-- feedback: Evadir los temas difíciles le restaría valor y honestidad a la producción literaria. -->
+- [x] D) Es una herramienta poderosa de reparación simbólica que permite reconocer la dignidad de las comunidades y fomentar la empatía nacional. <!-- feedback: Al leer las historias de otros, se rompe el ciclo de la alteridad y se construye un sentido de nación compartida. -->
+- [ ] C) La literatura afro debería limitarse a hablar de música y baile para no generar tensiones políticas. <!-- feedback: Evadir los temas difíciles le restaría valor y honestidad a la producción literaria. -->
 
 ### Explicacion Pedagogica
 La literatura tiene una función ética fundamental. En un país que busca la reconciliación, conocer las narrativas de los pueblos afrocolombianos es esencial para construir una paz basada en el respeto a la diferencia y la valoración de la historia común.

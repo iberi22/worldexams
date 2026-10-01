@@ -76,9 +76,9 @@ A well-written curriculum vitae (CV) should highlight your skills and relevant w
 
 ### Opciones
 - [ ] A) obscure <!-- feedback: Incorrect. Obscure means to hide. -->
-- [x] B) highlight <!-- feedback: Correct. To highlight means to draw attention to or emphasize. -->
-- [ ] C) dismiss <!-- feedback: Incorrect. To dismiss means to ignore or reject. -->
-- [ ] D) fabricate <!-- feedback: Incorrect. To fabricate means to invent or lie. -->
+- [x] D) highlight <!-- feedback: Correct. To highlight means to draw attention to or emphasize. -->
+- [ ] B) dismiss <!-- feedback: Incorrect. To dismiss means to ignore or reject. -->
+- [ ] C) fabricate <!-- feedback: Incorrect. To fabricate means to invent or lie. -->
 
 ### Explicacion Pedagogica
 'Highlight' is the appropriate verb for emphasizing positive attributes in a professional document.
@@ -95,10 +95,10 @@ A well-written curriculum vitae (CV) should highlight your skills and relevant w
 In a rapidly changing job market, the ability to adapt and learn new skills is essential for career longevity.
 
 ### Opciones
-- [x] A) adapt <!-- feedback: Correct. To adapt means to become adjusted to new conditions. -->
-- [ ] B) stagnate <!-- feedback: Incorrect. To stagnate means to stop developing. -->
-- [ ] C) surrender <!-- feedback: Incorrect. To surrender means to give up. -->
-- [ ] D) resist <!-- feedback: Incorrect. Resisting change is usually negative in this context. -->
+- [x] D) adapt <!-- feedback: Correct. To adapt means to become adjusted to new conditions. -->
+- [ ] A) stagnate <!-- feedback: Incorrect. To stagnate means to stop developing. -->
+- [ ] B) surrender <!-- feedback: Incorrect. To surrender means to give up. -->
+- [ ] C) resist <!-- feedback: Incorrect. Resisting change is usually negative in this context. -->
 
 ### Explicacion Pedagogica
 'Adapt' correctly identifies the proactive behavior needed to succeed in an evolving professional environment.
@@ -116,8 +116,8 @@ The author argues that while university provides theoretical knowledge, vocation
 
 ### Opciones
 - [ ] A) redundant <!-- feedback: Incorrect. Redundant means unnecessary. -->
-- [ ] B) abstract <!-- feedback: Incorrect. Abstract means existing in thought but not having a physical existence. -->
-- [x] C) practical <!-- feedback: Correct. Practical skills are those related to real-world application. -->
+- [ ] C) abstract <!-- feedback: Incorrect. Abstract means existing in thought but not having a physical existence. -->
+- [x] B) practical <!-- feedback: Correct. Practical skills are those related to real-world application. -->
 - [ ] D) obsolete <!-- feedback: Incorrect. Obsolete means out of date. -->
 
 ### Explicacion Pedagogica
@@ -196,9 +196,9 @@ She regrets not studying harder during her senior year.
 
 ### Opciones
 - [ ] A) to not study <!-- feedback: Incorrect. Regret is usually followed by a gerund for past actions. -->
-- [x] B) not studying <!-- feedback: Correct. 'Regret + (not) -ing' is used to talk about things we wish we hadn't (or had) done in the past. -->
-- [ ] C) not study <!-- feedback: Incorrect. Base form doesn't fit. -->
-- [ ] D) no study <!-- feedback: Incorrect. Incorrect grammar. -->
+- [x] D) not studying <!-- feedback: Correct. 'Regret + (not) -ing' is used to talk about things we wish we hadn't (or had) done in the past. -->
+- [ ] B) not study <!-- feedback: Incorrect. Base form doesn't fit. -->
+- [ ] C) no study <!-- feedback: Incorrect. Incorrect grammar. -->
 
 ### Explicacion Pedagogica
 The gerund 'studying' after 'regrets' describes the action being regretted.
@@ -235,9 +235,9 @@ While "hard skills" are specific technical abilities, "soft skills" like communi
 The CEO is the highest-ranking person in a company and is responsible for making major corporate decisions.
 
 ### Opciones
-- [ ] A) intern <!-- feedback: Incorrect. An intern is a low-level student worker. -->
-- [ ] B) supervisor <!-- feedback: Incorrect. A supervisor manages a specific team. -->
-- [x] C) CEO <!-- feedback: Correct. Chief Executive Officer. -->
+- [ ] B) intern <!-- feedback: Incorrect. An intern is a low-level student worker. -->
+- [ ] C) supervisor <!-- feedback: Incorrect. A supervisor manages a specific team. -->
+- [x] A) CEO <!-- feedback: Correct. Chief Executive Officer. -->
 - [ ] D) client <!-- feedback: Incorrect. A client is someone who buys services. -->
 
 ### Explicacion Pedagogica
@@ -255,10 +255,10 @@ The CEO is the highest-ranking person in a company and is responsible for making
 I may consider taking a gap year after high school to travel and gain perspective.
 
 ### Opciones
-- [x] A) taking <!-- feedback: Correct. 'Consider' is followed by a gerund. -->
-- [ ] B) to take <!-- feedback: Incorrect. Infinitive is not used after 'consider'. -->
-- [ ] C) take <!-- feedback: Incorrect. Base form doesn't fit. -->
-- [ ] D) taken <!-- feedback: Incorrect. Past participle. -->
+- [x] D) taking <!-- feedback: Correct. 'Consider' is followed by a gerund. -->
+- [ ] A) to take <!-- feedback: Incorrect. Infinitive is not used after 'consider'. -->
+- [ ] B) take <!-- feedback: Incorrect. Base form doesn't fit. -->
+- [ ] C) taken <!-- feedback: Incorrect. Past participle. -->
 
 ### Explicacion Pedagogica
 The verb 'consider' requires the gerund form of the following verb.
@@ -276,8 +276,8 @@ Candidates who meet all the requirements will be invited for an interview.
 
 ### Opciones
 - [ ] A) ignore <!-- feedback: Incorrect. Ignoring requirements won't get an interview. -->
-- [x] B) meet <!-- feedback: Correct. To meet a requirement means to fulfill it. -->
-- [ ] C) neglect <!-- feedback: Incorrect. Neglect means to fail to care for. -->
+- [x] C) meet <!-- feedback: Correct. To meet a requirement means to fulfill it. -->
+- [ ] B) neglect <!-- feedback: Incorrect. Neglect means to fail to care for. -->
 - [ ] D) postpone <!-- feedback: Incorrect. Postpone means to delay. -->
 
 ### Explicacion Pedagogica
@@ -295,8 +295,8 @@ Candidates who meet all the requirements will be invited for an interview.
 You won't get a promotion unless you show more initiative in your work.
 
 ### Opciones
-- [ ] A) if <!-- feedback: Incorrect. 'If you show' would mean the promotion is certain if initiative is shown, but 'unless' expresses the condition better here. -->
-- [x] B) unless <!-- feedback: Correct. 'Unless' means 'if not' and is used to express a negative condition. -->
+- [ ] B) if <!-- feedback: Incorrect. 'If you show' would mean the promotion is certain if initiative is shown, but 'unless' expresses the condition better here. -->
+- [x] A) unless <!-- feedback: Correct. 'Unless' means 'if not' and is used to express a negative condition. -->
 - [ ] C) although <!-- feedback: Incorrect. Expresses contrast. -->
 - [ ] D) whether <!-- feedback: Incorrect. Expresses choice between alternatives. -->
 
@@ -315,8 +315,8 @@ You won't get a promotion unless you show more initiative in your work.
 The article concludes that workers must continuously upskill to remain competitive in an automated world.
 
 ### Opciones
-- [x] A) upskill <!-- feedback: Correct. To upskill means to learn new skills or teach workers new skills. -->
-- [ ] B) retire <!-- feedback: Incorrect. Retiring doesn't help one remain competitive. -->
+- [x] B) upskill <!-- feedback: Correct. To upskill means to learn new skills or teach workers new skills. -->
+- [ ] A) retire <!-- feedback: Incorrect. Retiring doesn't help one remain competitive. -->
 - [ ] C) complain <!-- feedback: Incorrect. Complaining is not a strategy for competitiveness. -->
 - [ ] D) downsize <!-- feedback: Incorrect. Downsizing usually refers to companies cutting staff. -->
 
@@ -397,8 +397,8 @@ I hope to have finished my master's degree by the time I turn thirty.
 ### Opciones
 - [ ] A) finish <!-- feedback: Incorrect. Simple infinitive. -->
 - [ ] B) finishing <!-- feedback: Incorrect. Gerund. -->
-- [x] C) to have finished <!-- feedback: Correct. Perfect infinitive indicates an action completed before a certain time. -->
-- [ ] D) to finish <!-- feedback: Incorrect. While common, 'to have finished' better fits the 'by the time' structure. -->
+- [x] D) to have finished <!-- feedback: Correct. Perfect infinitive indicates an action completed before a certain time. -->
+- [ ] C) to finish <!-- feedback: Incorrect. While common, 'to have finished' better fits the 'by the time' structure. -->
 
 ### Explicacion Pedagogica
 The perfect infinitive 'to have finished' expresses a completed action relative to a future point.
@@ -415,9 +415,9 @@ The perfect infinitive 'to have finished' expresses a completed action relative 
 Ultimately, a career should provide not only financial stability but also personal fulfillment.
 
 ### Opciones
-- [ ] A) frustration <!-- feedback: Incorrect. Frustration is negative. -->
-- [ ] B) exhaustion <!-- feedback: Incorrect. Exhaustion is negative. -->
-- [x] C) fulfillment <!-- feedback: Correct. Fulfillment means the achievement of something desired or promised. -->
+- [ ] B) frustration <!-- feedback: Incorrect. Frustration is negative. -->
+- [ ] C) exhaustion <!-- feedback: Incorrect. Exhaustion is negative. -->
+- [x] A) fulfillment <!-- feedback: Correct. Fulfillment means the achievement of something desired or promised. -->
 - [ ] D) stagnancy <!-- feedback: Incorrect. Stagnancy is negative. -->
 
 ### Explicacion Pedagogica

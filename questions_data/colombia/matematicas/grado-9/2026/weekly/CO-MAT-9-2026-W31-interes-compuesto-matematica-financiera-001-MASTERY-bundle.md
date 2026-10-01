@@ -52,11 +52,11 @@ El interés compuesto se distingue porque los intereses generados se acumulan al
 ### Enunciado
 Si C es el capital inicial, i es la tasa de interés por periodo en forma decimal y n es el número de periodos, ¿cuál es la fórmula del monto M a interés compuesto?
 ### Opciones
-- [x] A) M = C por (1 + i) elevado a la n
+- [x] C) M = C por (1 + i) elevado a la n
   <!-- feedback: Correcto. Esa es la fórmula del monto a interés compuesto. -->
-- [ ] B) M = C por (1 + i por n)
+- [ ] A) M = C por (1 + i por n)
   <!-- feedback: Incorrecto. Esa es la fórmula del monto a interés simple. -->
-- [ ] C) M = C más i elevado a la n sin sumar 1
+- [ ] B) M = C más i elevado a la n sin sumar 1
   <!-- feedback: Incorrecto. Falta sumar 1 a la tasa antes de elevar, pues el capital base se conserva. -->
 - [ ] D) M = C menos C por i elevado a la n
   <!-- feedback: Incorrecto. Esa expresión resta en vez de acumular el crecimiento. -->
@@ -72,9 +72,9 @@ El factor (1 + i) representa que en cada periodo se conserva el capital (1) y se
 ### Enunciado
 ¿Cuál es el monto final de la inversión?
 ### Opciones
-- [x] A) COP 1.210.000
+- [x] B) COP 1.210.000
   <!-- feedback: Correcto. M = 1.000.000 por 1,1 al cuadrado = 1.000.000 por 1,21 = 1.210.000. -->
-- [ ] B) COP 1.200.000
+- [ ] A) COP 1.200.000
   <!-- feedback: Incorrecto. Ese valor usa interés simple: 1.000.000 más 2 por 100.000. -->
 - [ ] C) COP 1.100.000
   <!-- feedback: Incorrecto. Ese es el monto de un solo año, falta capitalizar el segundo año. -->
@@ -92,13 +92,13 @@ Se aplica M = 1.000.000 por (1 + 0,10) al cuadrado = 1.000.000 por 1,21 = COP 1.
 ### Enunciado
 ¿Cuál es el monto acumulado al final de los 2 años?
 ### Opciones
-- [x] A) COP 2.205.000
+- [x] D) COP 2.205.000
   <!-- feedback: Correcto. M = 2.000.000 por 1,05 al cuadrado = 2.000.000 por 1,1025 = 2.205.000. -->
-- [ ] B) COP 2.200.000
+- [ ] A) COP 2.200.000
   <!-- feedback: Incorrecto. Ese valor corresponde al interés simple: 2.000.000 más 200.000. -->
-- [ ] C) COP 2.100.000
+- [ ] B) COP 2.100.000
   <!-- feedback: Incorrecto. Ese es el monto de un solo año de capitalización. -->
-- [ ] D) COP 2.500.000
+- [ ] C) COP 2.500.000
   <!-- feedback: Incorrecto. Aplicaste una tasa mucho mayor que el 5 % indicado. -->
 ### Explicacion Pedagogica
 Primer año: 2.000.000 por 1,05 = 2.100.000. Segundo año: 2.100.000 por 1,05 = 2.205.000, que equivale a 2.000.000 por 1,1025.
@@ -112,13 +112,13 @@ Primer año: 2.000.000 por 1,05 = 2.100.000. Segundo año: 2.100.000 por 1,05 = 
 ### Enunciado
 ¿Cuánto dinero tendrá al final del segundo año?
 ### Opciones
-- [x] A) COP 720.000
+- [x] D) COP 720.000
   <!-- feedback: Correcto. M = 500.000 por 1,2 al cuadrado = 500.000 por 1,44 = 720.000. -->
-- [ ] B) COP 700.000
+- [ ] A) COP 700.000
   <!-- feedback: Incorrecto. Ese valor usa interés simple: 500.000 más 2 por 100.000. -->
-- [ ] C) COP 600.000
+- [ ] B) COP 600.000
   <!-- feedback: Incorrecto. Ese es el monto de un solo año, falta el segundo periodo. -->
-- [ ] D) COP 750.000
+- [ ] C) COP 750.000
   <!-- feedback: Incorrecto. Aplicaste una tasa distinta al 20 % anual indicado. -->
 ### Explicacion Pedagogica
 El factor de capitalización es 1,2 por año; en dos años es 1,44, de modo que 500.000 por 1,44 = COP 720.000.
@@ -132,11 +132,11 @@ El factor de capitalización es 1,2 por año; en dos años es 1,44, de modo que 
 ### Enunciado
 ¿Cuál es el interés ganado al final de los 3 años?
 ### Opciones
-- [x] A) COP 331.000
+- [x] C) COP 331.000
   <!-- feedback: Correcto. El monto es 1.331.000 y el interés es 1.331.000 menos 1.000.000 = 331.000. -->
-- [ ] B) COP 300.000
+- [ ] A) COP 300.000
   <!-- feedback: Incorrecto. Ese es el interés simple de 3 años: 3 por 100.000. -->
-- [ ] C) COP 1.331.000
+- [ ] B) COP 1.331.000
   <!-- feedback: Incorrecto. Ese es el monto total, no el interés ganado; falta restar el capital. -->
 - [ ] D) COP 310.000
   <!-- feedback: Incorrecto. Capitalizaste mal el tercer año del proceso. -->
@@ -152,11 +152,11 @@ M = 1.000.000 por 1,1 al cubo = 1.000.000 por 1,331 = 1.331.000. El interés es 
 ### Enunciado
 ¿Qué conclusión es correcta al analizar los intereses de cada año?
 ### Opciones
-- [x] A) El interés del segundo año es mayor porque se calcula sobre COP 1.100.000 ya capitalizados
+- [x] C) El interés del segundo año es mayor porque se calcula sobre COP 1.100.000 ya capitalizados
   <!-- feedback: Correcto. La base del segundo año incluye los intereses del primero, por eso el interés crece. -->
-- [ ] B) El interés debería ser igual los dos años porque la tasa no cambió
+- [ ] A) El interés debería ser igual los dos años porque la tasa no cambió
   <!-- feedback: Incorrecto. Con capitalización la base cambia aunque la tasa sea la misma. -->
-- [ ] C) El interés del segundo año es menor porque el capital se reduce
+- [ ] B) El interés del segundo año es menor porque el capital se reduce
   <!-- feedback: Incorrecto. El capital aumenta con la capitalización, no se reduce. -->
 - [ ] D) La diferencia se debe a un error del banco al liquidar
   <!-- feedback: Incorrecto. La diferencia es propia del interés compuesto y está bien calculada. -->
@@ -172,9 +172,9 @@ Primer año: 10 % de 1.000.000 = 100.000. Nuevo capital: 1.100.000. Segundo año
 ### Enunciado
 ¿Qué opción conviene y por qué?
 ### Opciones
-- [x] A) El Banco B, porque 1 % mensual compuesto produce cerca de COP 1.126.825, más que los COP 1.120.000 del Banco A
+- [x] B) El Banco B, porque 1 % mensual compuesto produce cerca de COP 1.126.825, más que los COP 1.120.000 del Banco A
   <!-- feedback: Correcto. 1,01 elevado a 12 es 1,126825, equivalente a 12,68 % efectivo anual, mayor que 12 %. -->
-- [ ] B) El Banco A, porque 12 % anual siempre supera cualquier tasa mensual del 1 %
+- [ ] A) El Banco A, porque 12 % anual siempre supera cualquier tasa mensual del 1 %
   <!-- feedback: Incorrecto. Al capitalizar cada mes, el 1 % mensual se acumula por encima del 12 % anual. -->
 - [ ] C) Las dos opciones son iguales porque 12 por 1 % es 12 %
   <!-- feedback: Incorrecto. Multiplicar 12 por 1 % ignora la capitalización mensual compuesta. -->
@@ -192,11 +192,11 @@ Banco A: 1.000.000 por 1,12 = 1.120.000. Banco B: 1.000.000 por 1,01 elevado a 1
 ### Enunciado
 ¿Qué patrón muestra la evolución del monto?
 ### Opciones
-- [x] A) Cada año el monto se multiplica por 1,25, por eso el aumento anual es cada vez mayor
+- [x] C) Cada año el monto se multiplica por 1,25, por eso el aumento anual es cada vez mayor
   <!-- feedback: Correcto. El factor constante 1,25 aplicado al capital creciente genera aumentos de 200.000, 250.000 y 312.500. -->
-- [ ] B) Cada año el monto aumenta en COP 200.000 fijos
+- [ ] A) Cada año el monto aumenta en COP 200.000 fijos
   <!-- feedback: Incorrecto. Solo el primer aumento es 200.000; luego los aumentos crecen. -->
-- [ ] C) El monto crece en forma lineal porque la tasa es fija
+- [ ] B) El monto crece en forma lineal porque la tasa es fija
   <!-- feedback: Incorrecto. La tasa fija con capitalización produce crecimiento exponencial, no lineal. -->
 - [ ] D) El monto se multiplica por 0,25 cada año
   <!-- feedback: Incorrecto. Multiplicar por 0,25 reduciría el capital en vez de aumentarlo. -->
@@ -212,11 +212,11 @@ Los cocientes 1.000.000/800.000, 1.250.000/1.000.000 y 1.562.500/1.250.000 valen
 ### Enunciado
 ¿Cuál afirmación es correcta al comparar los dos montos?
 ### Opciones
-- [x] A) El compuesto supera al simple en COP 31.000, porque capitaliza los intereses de cada año
+- [x] C) El compuesto supera al simple en COP 31.000, porque capitaliza los intereses de cada año
   <!-- feedback: Correcto. Simple: 1.300.000; compuesto: 1.331.000; diferencia: 31.000. -->
-- [ ] B) Los dos montos son iguales porque usan la misma tasa y el mismo tiempo
+- [ ] A) Los dos montos son iguales porque usan la misma tasa y el mismo tiempo
   <!-- feedback: Incorrecto. Con igual tasa y tiempo, el compuesto supera al simple desde el segundo periodo. -->
-- [ ] C) El simple supera al compuesto en COP 31.000
+- [ ] B) El simple supera al compuesto en COP 31.000
   <!-- feedback: Incorrecto. El simple da 1.300.000, menor que los 1.331.000 del compuesto. -->
 - [ ] D) El compuesto supera al simple en COP 300.000
   <!-- feedback: Incorrecto. Confundiste la diferencia con el interés total de un año. -->
@@ -252,13 +252,13 @@ M(2) = C por 1,1 al cuadrado y M(4) = C por 1,1 a la cuarta = M(2) por 1,21. El 
 ### Enunciado
 ¿Cuál es el error cometido y cuál es el monto correcto?
 ### Opciones
-- [x] A) Aplicó interés simple en vez de compuesto: lo correcto es COP 1.210.000
+- [x] D) Aplicó interés simple en vez de compuesto: lo correcto es COP 1.210.000
   <!-- feedback: Correcto. Sumó 100.000 dos veces sin capitalizar; lo correcto es 1.000.000 por 1,21. -->
-- [ ] B) No hay error: COP 1.200.000 es el monto a interés compuesto
+- [ ] A) No hay error: COP 1.200.000 es el monto a interés compuesto
   <!-- feedback: Incorrecto. 1.200.000 corresponde al interés simple de dos periodos. -->
-- [ ] C) El error es usar la tasa en decimal: lo correcto es COP 1.100.000
+- [ ] B) El error es usar la tasa en decimal: lo correcto es COP 1.100.000
   <!-- feedback: Incorrecto. 1.100.000 es solo un año y además sí se usa la tasa en decimal. -->
-- [ ] D) El error es elevar al cuadrado: lo correcto es COP 2.000.000
+- [ ] C) El error es elevar al cuadrado: lo correcto es COP 2.000.000
   <!-- feedback: Incorrecto. Elevar al cuadrado es precisamente lo que exige la capitalización en 2 periodos. -->
 ### Explicacion Pedagogica
 El procedimiento 1.000.000 más 2 por 100.000 es interés simple. A interés compuesto se debe multiplicar por 1,1 cada año: 1.000.000 por 1,21 = COP 1.210.000.

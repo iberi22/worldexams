@@ -35,13 +35,13 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia y 
 ¿Qué significado adquiere el término 'derecho' en la frase 'el ciudadano actuó de manera recta y conforme a derecho'?
 
 ### Opciones
-- [x] A) Conjunto de normas jurídicas legítimas que regulan la convivencia social.
+- [x] D) Conjunto de normas jurídicas legítimas que regulan la convivencia social.
   <!-- feedback: Es correcta porque en el contexto jurídico-constitucional 'derecho' remite al ordenamiento legal vigente. -->
-- [ ] B) Facultad individual para exigir un bien material en el mercado.
+- [ ] A) Facultad individual para exigir un bien material en el mercado.
   <!-- feedback: Es incorrecta porque se refiere a la dimensión objetiva de la norma, no a una transacción comercial. -->
-- [ ] C) Extremidad corporal opuesta al lado izquierdo del ser humano.
+- [ ] B) Extremidad corporal opuesta al lado izquierdo del ser humano.
   <!-- feedback: Es incorrecta porque desatiende el sentido figurado/jurídico usando el significado anatómico literal. -->
-- [ ] D) Línea recta trazada sobre un plano cartesiano sin curvaturas.
+- [ ] C) Línea recta trazada sobre un plano cartesiano sin curvaturas.
   <!-- feedback: Es incorrecta porque usa la acepción geométrica ajena al discurso legal. -->
 
 ### Explicacion Pedagogica
@@ -58,9 +58,9 @@ Evalúa la capacidad de determinar el sentido de una palabra polisémica en func
 ¿Cuál es el valor connotativo del término 'sombra' en el poema 'Nocturno'?
 
 ### Opciones
-- [x] A) Evoca la presencia intangible de la muerte, el duelo y la melancolía del poeta.
+- [x] B) Evoca la presencia intangible de la muerte, el duelo y la melancolía del poeta.
   <!-- feedback: Es correcta porque el poema utiliza 'sombra' con una carga afectiva y simbólica ligada al luto. -->
-- [ ] B) Designa la proyección oscura producida por un cuerpo al tapar la luz del sol.
+- [ ] A) Designa la proyección oscura producida por un cuerpo al tapar la luz del sol.
   <!-- feedback: Es incorrecta porque confunde la denotación física del fenómeno óptico con el sentido poético connotado. -->
 - [ ] C) Representa la silueta de un árbol frondoso en un parque de Bogotá.
   <!-- feedback: Es incorrecta porque ignora la temática lírica de la composición de Silva. -->
@@ -104,13 +104,13 @@ Evalúa la comprensión de los mecanismos de suavización o enmascaramiento sem�
 ¿Qué tipo de relación de antonimia se establece entre los pares 'vivo / muerto'?
 
 ### Opciones
-- [x] A) Antonimia complementaria, donde la afirmación de un término implica necesariamente la negación del otro.
+- [x] D) Antonimia complementaria, donde la afirmación de un término implica necesariamente la negación del otro.
   <!-- feedback: Es correcta porque en los antónimos complementarios no hay término medio: si se está vivo no se está muerto. -->
-- [ ] B) Antonimia gradual, porque existen múltiples grados intermedios de intensidad entre ambos estados.
+- [ ] A) Antonimia gradual, porque existen múltiples grados intermedios de intensidad entre ambos estados.
   <!-- feedback: Es incorrecta porque no es una escala gradual (como caliente/frío). -->
-- [ ] C) Antonimia recíproca, porque un término no puede existir sin que alguien ejerza la acción inversa.
+- [ ] B) Antonimia recíproca, porque un término no puede existir sin que alguien ejerza la acción inversa.
   <!-- feedback: Es incorrecta porque los antónimos recíprocos son del tipo comprar/vender. -->
-- [ ] D) Sinonimia conceptual, porque ambas palabras significan exactamente lo mismo en biología.
+- [ ] C) Sinonimia conceptual, porque ambas palabras significan exactamente lo mismo en biología.
   <!-- feedback: Es incorrecta porque son términos de significado opuesto, no sinónimos. -->
 
 ### Explicacion Pedagogica
@@ -150,9 +150,9 @@ Evalúa la identificación de ambigüedades originadas por fenómenos de homonim
 ¿Qué elementos integran el campo semántico de 'sostenibilidad' en el texto?
 
 ### Opciones
-- [x] A) Términos como 'biodiversidad', 'reciclaje', 'huella de carbono' y 'renovable'.
+- [x] B) Términos como 'biodiversidad', 'reciclaje', 'huella de carbono' y 'renovable'.
   <!-- feedback: Es correcta porque un campo semántico reúne palabras que comparten un mismo núcleo de significado o tema. -->
-- [ ] B) Palabras relativas a la arquitectura colonial como 'barroco', 'almena' y 'arcada'.
+- [ ] A) Palabras relativas a la arquitectura colonial como 'barroco', 'almena' y 'arcada'.
   <!-- feedback: Es incorrecta porque ese conjunto pertenece al campo de la arquitectura de la Colonia. -->
 - [ ] C) Conceptos del mercado bursátil como 'dividendos', 'acciones' y 'especulación'.
   <!-- feedback: Es incorrecta porque esos términos pertenecen al campo semántico de las finanzas bursátiles. -->
@@ -173,13 +173,13 @@ Evalúa la habilidad para agrupar léxico en función de sus relaciones de signi
 ¿Qué relación semántica existe entre la palabra 'vehículo' (mencionada en el párrafo 1) y 'automóvil' (en el párrafo 2)?
 
 ### Opciones
-- [x] A) 'Vehículo' es el hiperónimo (término general) y 'automóvil' es su hipónimo (término específico).
+- [x] D) 'Vehículo' es el hiperónimo (término general) y 'automóvil' es su hipónimo (término específico).
   <!-- feedback: Es correcta porque el hiperónimo posee un significado incluyente y de mayor extensión que el hipónimo. -->
-- [ ] B) 'Vehículo' es el hipónimo y 'automóvil' es su hiperónimo inclusivo de mayor extensión.
+- [ ] A) 'Vehículo' es el hipónimo y 'automóvil' es su hiperónimo inclusivo de mayor extensión.
   <!-- feedback: Es incorrecta porque invierte la relación lógica de inclusión conceptual. -->
-- [ ] C) Son palabras antónimas que expresan conceptos radicalmente opuestos.
+- [ ] B) Son palabras antónimas que expresan conceptos radicalmente opuestos.
   <!-- feedback: Es incorrecta porque no hay oposición de sentido entre vehículo y automóvil. -->
-- [ ] D) Son homófonas que se pronuncian igual pero se escriben con distinta ortografía.
+- [ ] C) Son homófonas que se pronuncian igual pero se escriben con distinta ortografía.
   <!-- feedback: Es incorrecta porque sus grafías y sonidos son totalmente distintos. -->
 
 ### Explicacion Pedagogica
@@ -242,11 +242,11 @@ Evalúa la reconstrucción del significado subyacente en metáforas conceptuales
 ¿Qué recurso semántico se emplea en la frase 'el país necesita más mentes brillantes y menos armas'?
 
 ### Opciones
-- [x] A) Metonimia, donde 'mentes brillantes' representa a los intelectuales y 'armas' a la violencia.
+- [x] C) Metonimia, donde 'mentes brillantes' representa a los intelectuales y 'armas' a la violencia.
   <!-- feedback: Es correcta porque la metonimia sustituye el todo por la parte o la causa por el efecto (mente por pensador). -->
-- [ ] B) Hipérbole, mediante una exageración matemática numéricamente imposible de verificar.
+- [ ] A) Hipérbole, mediante una exageración matemática numéricamente imposible de verificar.
   <!-- feedback: Es incorrecta porque no es una desproporción numérica cuantitativa sino un reemplazo léxico. -->
-- [ ] C) Onomatopeya, que imita el sonido físico de un disparo o explosión.
+- [ ] B) Onomatopeya, que imita el sonido físico de un disparo o explosión.
   <!-- feedback: Es incorrecta porque no se imitan sonidos de la naturaleza. -->
 - [ ] D) Pleonasmo, al repetir palabras innecesarias que no añaden información.
   <!-- feedback: Es incorrecta porque no hay redundancia viciosa en la expresión. -->
@@ -311,13 +311,13 @@ Evalúa la identificación de la referencia deíctica a partir del contexto de e
 ¿Qué diferencia semántica existe entre calificar una obra como 'interesante', 'excelente' o 'sublime'?
 
 ### Opciones
-- [x] A) Expresan una escala o gradación semántica de intensidad creciente en la valoración positiva.
+- [x] D) Expresan una escala o gradación semántica de intensidad creciente en la valoración positiva.
   <!-- feedback: Es correcta porque los adjetivos valorativos admiten grados de intensidad (gradación semántica). -->
-- [ ] B) Son términos idénticos en intensidad que pueden intercambiarse sin alterar el sentido.
+- [ ] A) Son términos idénticos en intensidad que pueden intercambiarse sin alterar el sentido.
   <!-- feedback: Es incorrecta porque 'sublime' expresa un grado de conmoción estética mucho mayor que 'interesante'. -->
-- [ ] C) Indican una gradación hacia el desprecio y la descalificación destructiva de la película.
+- [ ] B) Indican una gradación hacia el desprecio y la descalificación destructiva de la película.
   <!-- feedback: Es incorrecta porque los tres adjetivos implican una evaluación favorable, no negativa. -->
-- [ ] D) Pertenecen a campos semánticos opuestos que no admiten comparación alguna.
+- [ ] C) Pertenecen a campos semánticos opuestos que no admiten comparación alguna.
   <!-- feedback: Es incorrecta porque comparten la categoría semántica de apreciación estética. -->
 
 ### Explicacion Pedagogica
@@ -334,9 +334,9 @@ Evalúa el reconocimiento de los matices de intensidad en la adjetivación evalu
 ¿Qué efecto semántico produce el uso de términos como 'etiología', 'patógeno' y 'asintomático'?
 
 ### Opciones
-- [x] A) Otorga precisión denotativa y rigor especializado al diagnóstico clínico expuesto.
+- [x] B) Otorga precisión denotativa y rigor especializado al diagnóstico clínico expuesto.
   <!-- feedback: Es correcta porque los tecnicismos eliminan la ambigüedad y garantizan exactitud semántica en la ciencia. -->
-- [ ] B) Dificulta intencionadamente la lectura para que la población no comprenda sus derechos.
+- [ ] A) Dificulta intencionadamente la lectura para que la población no comprenda sus derechos.
   <!-- feedback: Es incorrecta porque el lenguaje técnico busca la validez objetiva, no la manipulación malintencionada. -->
 - [ ] C) Genera una atmósfera poética adecuada para la declamación en un teatro.
   <!-- feedback: Es incorrecta porque no posee intención estética ni lírica. -->
@@ -357,13 +357,13 @@ Evalúa el análisis de la función semántica del lenguaje técnico en textos c
 ¿Cómo debe interpretarse la ambigüedad en 'el policía persiguió al ladrón en su automóvil'?
 
 ### Opciones
-- [x] A) No queda claro de quién es el automóvil (si del policía o del ladrón) debido al alcance del posesivo.
+- [x] D) No queda claro de quién es el automóvil (si del policía o del ladrón) debido al alcance del posesivo.
   <!-- feedback: Es correcta porque la vaguedad del pronombre posesivo 'su' crea dos lecturas sintáctico-semánticas válidas. -->
-- [ ] B) Afirma con certeza que el automóvil pertenecía al alcalde de la ciudad de Cartagena.
+- [ ] A) Afirma con certeza que el automóvil pertenecía al alcalde de la ciudad de Cartagena.
   <!-- feedback: Es incorrecta porque el texto no menciona al alcalde en ninguna parte. -->
-- [ ] C) Demuestra que el ladrón corría a pie mientras el policía manejaba un camión de carga.
+- [ ] B) Demuestra que el ladrón corría a pie mientras el policía manejaba un camión de carga.
   <!-- feedback: Es incorrecta porque la ambigüedad estriba precisamente en no saber quién conducía el vehículo. -->
-- [ ] D) Es un enunciado perfectamente claro que no admite más de una interpretación gramatical.
+- [ ] C) Es un enunciado perfectamente claro que no admite más de una interpretación gramatical.
   <!-- feedback: Es incorrecta porque la frase es un caso clásico de anfibología o ambigüedad modificadora. -->
 
 ### Explicacion Pedagogica
@@ -380,11 +380,11 @@ Evalúa la detección de fallas semánticas causadas por anfibología en la estr
 ¿Qué sentido tiene la oración 'el teatro completo aplaudió de pie al finalizar la sinfonía'?
 
 ### Opciones
-- [x] A) El término 'teatro' sustituye por metonimia a los espectadores u oyentes presentes en la sala.
+- [x] C) El término 'teatro' sustituye por metonimia a los espectadores u oyentes presentes en la sala.
   <!-- feedback: Es correcta porque se emplea el continente (el teatro) para designar al contenido (el público asistente). -->
-- [ ] B) Significa que los muros de concreto y las sillas de madera emitieron sonidos de aplausos.
+- [ ] A) Significa que los muros de concreto y las sillas de madera emitieron sonidos de aplausos.
   <!-- feedback: Es incorrecta porque interpreta el término 'teatro' de forma literal-material imposible. -->
-- [ ] C) Indica que el director de la orquesta aplaudió a solas en el escenario vacío.
+- [ ] B) Indica que el director de la orquesta aplaudió a solas en el escenario vacío.
   <!-- feedback: Es incorrecta porque ignora la presencia del público sustituido por la palabra 'teatro'. -->
 - [ ] D) Expresa que la sinfonía fue un fracaso absoluto y la gente abandonó el edificio.
   <!-- feedback: Es incorrecta porque el aplauso colectivo de pie es símbolo unánime de éxito. -->
@@ -403,9 +403,9 @@ Evalúa la comprensión del mecanismo metonímico continente por contenido.
 ¿Qué diferencia semántico-pragmática existe entre calificar a los manifestantes de 'huelguistas' o de 'vándalos'?
 
 ### Opciones
-- [x] A) Revela el sesgo ideológico del medio: 'huelguistas' reconoce un derecho laboral, mientras que 'vándalos' criminaliza la protesta.
+- [x] B) Revela el sesgo ideológico del medio: 'huelguistas' reconoce un derecho laboral, mientras que 'vándalos' criminaliza la protesta.
   <!-- feedback: Es correcta porque la selección léxica evidencia la postura valorativa e ideológica del emisor frente a los hechos. -->
-- [ ] B) Demuestra que ambas palabras son sinónimos exactos según el diccionario de la lengua española.
+- [ ] A) Demuestra que ambas palabras son sinónimos exactos según el diccionario de la lengua española.
   <!-- feedback: Es incorrecta porque una palabra denota el ejercicio de un derecho y la otra un delito civil. -->
 - [ ] C) Indica que los periodistas que escribieron los artículos pertenecen a la misma sala de redacción.
   <!-- feedback: Es incorrecta porque evidencian dos enfoques ideológicos contrapuestos. -->
@@ -426,11 +426,11 @@ Evalúa la capacidad de develar presupuestos ideológicos a través del análisi
 ¿Cómo funciona el juego semántico entre 'capital' (dinero) y 'Capital' (ciudad de Bogotá)?
 
 ### Opciones
-- [x] A) Explotar la polisemia de la palabra para criticar cómo los recursos financieros se concentran en la sede del gobierno.
+- [x] C) Explotar la polisemia de la palabra para criticar cómo los recursos financieros se concentran en la sede del gobierno.
   <!-- feedback: Es correcta porque la caricatura aprovecha la doble acepción (financiera y política) para construir el sentido humorístico-crítico. -->
-- [ ] B) Demostrar que el dibujante comete errores de ortografía al no usar mayúsculas correctamente.
+- [ ] A) Demostrar que el dibujante comete errores de ortografía al no usar mayúsculas correctamente.
   <!-- feedback: Es incorrecta porque no se trata de una errata sino de un recurso expresivo intencionado. -->
-- [ ] C) Explicar la historia geográfica del río Magdalena de forma cuantitativa.
+- [ ] B) Explicar la historia geográfica del río Magdalena de forma cuantitativa.
   <!-- feedback: Es incorrecta porque el tema de la viñeta es la corrupción y la centralización, no la hidrografía. -->
 - [ ] D) Promover el turismo gastronómico en la región central de Colombia.
   <!-- feedback: Es incorrecta porque la viñeta posee un propósito de denuncia sociopolítica. -->
@@ -449,13 +449,13 @@ Evalúa la lectura de textos discontinuos (caricatura) analizando juegos de pala
 ¿Qué se entiende por 'isotopía semántica' a lo largo de un documento científico?
 
 ### Opciones
-- [x] A) La reiteración de un conjunto de rasgos semánticos comunes que garantizan la unidad temática del escrito.
+- [x] D) La reiteración de un conjunto de rasgos semánticos comunes que garantizan la unidad temática del escrito.
   <!-- feedback: Es correcta porque la isotopía es la redundancia de categorías semánticas que asegura la coherencia profunda del texto. -->
-- [ ] B) La presencia aleatoria de términos de física, poesía, derecho y cocina sin relación entre sí.
+- [ ] A) La presencia aleatoria de términos de física, poesía, derecho y cocina sin relación entre sí.
   <!-- feedback: Es incorrecta porque la dispersión de campos léxicos destruye la isotopía y la coherencia. -->
-- [ ] C) La traducción directa de un texto en tres idiomas simultáneos dentro del mismo párrafo.
+- [ ] B) La traducción directa de un texto en tres idiomas simultáneos dentro del mismo párrafo.
   <!-- feedback: Es incorrecta porque se refiere al plano del significado, no a la traducción políglota. -->
-- [ ] D) La obligación de usar una sola vocal en la redacción de todas las oraciones del texto.
+- [ ] C) La obligación de usar una sola vocal en la redacción de todas las oraciones del texto.
   <!-- feedback: Es incorrecta porque se confunde con un juego lipogramático ajeno al discurso académico. -->
 
 ### Explicacion Pedagogica
@@ -472,11 +472,11 @@ Evalúa la identificación de redes de coherencia semántica (isotopías) en tex
 ¿Cuál es el significado profundo que se sintetiza en esta sentencia filosófica?
 
 ### Opciones
-- [x] A) Que el conflicto y la dificultad son constitutivos del crecimiento humano y del pensamiento crítico.
+- [x] C) Que el conflicto y la dificultad son constitutivos del crecimiento humano y del pensamiento crítico.
   <!-- feedback: Es correcta porque Zuleta critica el ideal infantil de una felicidad pasiva e invita a asumir el conflicto como motor del desarrollo. -->
-- [ ] B) Que las personas inteligentes nunca enfrentan problemas ni dificultades en su vida cotidiana.
+- [ ] A) Que las personas inteligentes nunca enfrentan problemas ni dificultades en su vida cotidiana.
   <!-- feedback: Es incorrecta porque Zuleta sostiene precisamente lo opuesto: la vida inteligente requiere encarar problemas. -->
-- [ ] C) Que la felicidad consiste en no tener que tomar decisiones ni asumir responsabilidades en la sociedad.
+- [ ] B) Que la felicidad consiste en no tener que tomar decisiones ni asumir responsabilidades en la sociedad.
   <!-- feedback: Es incorrecta porque esa postura corresponde al ideal que Zuleta tacha de infantil. -->
 - [ ] D) Que la educación debe eliminar todos los exámenes y evaluaciones del sistema escolar.
   <!-- feedback: Es incorrecta porque saca la frase de contexto al aplicarla reductivamente a los exámenes. -->

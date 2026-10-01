@@ -34,9 +34,9 @@ creador: "Jules-Agent"
 ¿Cuál es el número que completa la secuencia de canicas de Camilo?
 
 ### Opciones
-- [x] A) 15
+- [x] B) 15
   <!-- feedback: ¡Correcto! La secuencia avanza sumando 3 a cada número (3 + 3 = 6, 6 + 3 = 9, 9 + 3 = 12, 12 + 3 = 15). -->
-- [ ] B) 13
+- [ ] A) 13
   <!-- feedback: Incorrecto. Recuerda revisar la regla de sumar 3 en cada paso. -->
 - [ ] C) 14
   <!-- feedback: Incorrecto. Sumar 1 a 12 no sigue el patrón de la secuencia. -->
@@ -57,13 +57,13 @@ Para identificar el número faltante en una secuencia aditiva, se debe determina
 ¿Cuál es el número que sigue en la secuencia de saltos de Mariana?
 
 ### Opciones
-- [x] A) 12
+- [x] D) 12
   <!-- feedback: ¡Correcto! La secuencia decrece restando 2 en cada paso (14 - 2 = 12). -->
-- [ ] B) 13
+- [ ] A) 13
   <!-- feedback: Incorrecto. Restar solo 1 no cumple la regla de la secuencia. -->
-- [ ] C) 10
+- [ ] B) 10
   <!-- feedback: Incorrecto. Restar 4 es un salto muy grande para el patrón de restar 2. -->
-- [ ] D) 15
+- [ ] C) 15
   <!-- feedback: Incorrecto. La secuencia va disminuyendo, por lo que el número debe ser menor que 14. -->
 
 ### Explicacion Pedagogica
@@ -80,13 +80,13 @@ Las secuencias numéricas también pueden ser decrecientes. En este problema, la
 ¿Cuál es la regla o patrón que sigue la recolección de huevos del granjero?
 
 ### Opciones
-- [x] A) Multiplicar el número anterior por 2.
+- [x] D) Multiplicar el número anterior por 2.
   <!-- feedback: ¡Correcto! Cada día se duplica la cantidad de huevos recolectados el día anterior (5x2=10, 10x2=20, 20x2=40). -->
-- [ ] B) Sumar 5 al número anterior.
+- [ ] A) Sumar 5 al número anterior.
   <!-- feedback: Incorrecto. Sumar 5 solo funciona de lunes a martes, pero no para los días siguientes. -->
-- [ ] C) Sumar 10 al número anterior.
+- [ ] B) Sumar 10 al número anterior.
   <!-- feedback: Incorrecto. Sumar 10 no explica la relación entre 5 y 10 ni entre 20 y 40. -->
-- [ ] D) Multiplicar el número anterior por 3.
+- [ ] C) Multiplicar el número anterior por 3.
   <!-- feedback: Incorrecto. 5 multiplicado por 3 daría 15, no 10. -->
 
 ### Explicacion Pedagogica
@@ -103,11 +103,11 @@ En las secuencias multiplicativas, cada término se obtiene multiplicando el té
 ¿Qué código de libro falta en la secuencia de la estantería?
 
 ### Opciones
-- [x] A) 120
+- [x] C) 120
   <!-- feedback: ¡Correcto! La secuencia avanza de 5 en 5 (115 + 5 = 120, y 120 + 5 = 125). -->
-- [ ] B) 116
+- [ ] A) 116
   <!-- feedback: Incorrecto. Sumar 1 no mantiene la distancia entre los números anteriores. -->
-- [ ] C) 121
+- [ ] B) 121
   <!-- feedback: Incorrecto. 115 + 5 es igual a 120. -->
 - [ ] D) 122
   <!-- feedback: Incorrecto. Revisa el patrón de contar de 5 en 5. -->
@@ -149,11 +149,11 @@ En secuencias numéricas no constantes (números triangulares), las diferencias 
 ¿Cuál es la posición del robot al finalizar su turno número 7?
 
 ### Opciones
-- [x] A) 21
+- [x] C) 21
   <!-- feedback: ¡Correcto! La posición final avanza de 3 en 3 (+3 por turno). En el turno 6 será 18 y en el turno 7 será 21. -->
-- [ ] B) 18
+- [ ] A) 18
   <!-- feedback: Incorrecto. 18 es la posición en el turno 6. -->
-- [ ] C) 24
+- [ ] B) 24
   <!-- feedback: Incorrecto. 24 correspondería al turno 8. -->
 - [ ] D) 19
   <!-- feedback: Incorrecto. Revisa la regla de sumar 3 a la posición anterior por cada turno. -->
@@ -174,9 +174,9 @@ Analizar el efecto neto de un patrón combinado (+4 y -1 = +3 neto) permite proy
 ¿Cuál de los dos estudiantes tiene la razón?
 
 ### Opciones
-- [x] A) Ambos tienen la razón, porque ambas reglas generan exactamente la misma secuencia.
+- [x] B) Ambos tienen la razón, porque ambas reglas generan exactamente la misma secuencia.
   <!-- feedback: ¡Excelente! Sumar 4 sucesivamente genera los múltiplos de 4, lo cual coincide con multiplicar 4 por la posición del término. -->
-- [ ] B) Solo Mateo, porque las secuencias numéricas solo pueden definirse sumando.
+- [ ] A) Solo Mateo, porque las secuencias numéricas solo pueden definirse sumando.
   <!-- feedback: Incorrecto. Las secuencias también pueden expresarse mediante la posición del término. -->
 - [ ] C) Solo Sofía, porque multiplicar es la única forma válida de construir patrones.
   <!-- feedback: Incorrecto. La regla recursiva de Mateo (sumar 4) es totalmente válida. -->
@@ -198,11 +198,11 @@ Una misma secuencia de números (en este caso la tabla del 4) puede describirse 
 Siguiendo la regla del juego, ¿cuál es el término que completa la secuencia después del 2?
 
 ### Opciones
-- [x] A) 1
+- [x] C) 1
   <!-- feedback: ¡Correcto! Como 2 es un número par, la regla indica dividirlo entre 2 (2 ÷ 2 = 1). -->
-- [ ] B) 3
+- [ ] A) 3
   <!-- feedback: Incorrecto. Se le sumaría 1 solo si el número fuera impar, pero 2 es par. -->
-- [ ] C) 0
+- [ ] B) 0
   <!-- feedback: Incorrecto. 2 dividido entre 2 da 1, no 0. -->
 - [ ] D) 4
   <!-- feedback: Incorrecto. Revisa las condiciones: para números pares se divide entre 2. -->

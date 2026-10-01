@@ -81,13 +81,13 @@ La noticia organiza la información de forma decreciente (pirámide invertida) p
 ¿A qué género periodístico de opinión responde este escrito sin firma del diario?
 
 ### Opciones
-- [x] A) Editorial, que refleja la línea ideológica oficial del medio de comunicación sobre un asunto de relevancia pública.
+- [x] D) Editorial, que refleja la línea ideológica oficial del medio de comunicación sobre un asunto de relevancia pública.
   <!-- feedback: Correcto. El editorial es el artículo de opinión colectivo, sin firma personal, que expresa de manera solemne la línea ideológica y política del periódico como corporación. -->
-- [ ] B) Columna de opinión, que siempre se escribe por un colaborador famoso de Sevilla y lleva obligatoriamente su firma.
+- [ ] A) Columna de opinión, que siempre se escribe por un colaborador famoso de Sevilla y lleva obligatoriamente su firma.
   <!-- feedback: Incorrecto. La columna o artículo de opinión firmado es personal y lleva la rúbrica de su autor, diferenciándose del editorial institucional sin firma. -->
-- [ ] C) Carta al director, que se redacta de forma anónima por los concejales del Ayuntamiento de Madrid.
+- [ ] B) Carta al director, que se redacta de forma anónima por los concejales del Ayuntamiento de Madrid.
   <!-- feedback: Incorrecto. Las cartas al director son firmadas de forma obligatoria por ciudadanos de a pie, no editoriales anónimos del propio periódico. -->
-- [ ] D) Crónica periodística de sucesos forenses de la LOMLOE.
+- [ ] C) Crónica periodística de sucesos forenses de la LOMLOE.
   <!-- feedback: Incorrecto. La crónica es interpretativa, lleva firma obligatoria de corresponsal y narra un suceso cronológicamente. -->
 
 ### Explicacion Pedagogica
@@ -105,9 +105,9 @@ El editorial destaca entre los géneros de opinión por su carácter colectivo y
 ¿Qué género periodístico interpretativo y mixto se manifiesta en el trabajo del corresponsal?
 
 ### Opciones
-- [x] A) Crónica periodística, que combina la información objetiva de los hechos con el relato cronológico y la valoración subjetiva y literaria del autor.
+- [x] B) Crónica periodística, que combina la información objetiva de los hechos con el relato cronológico y la valoración subjetiva y literaria del autor.
   <!-- feedback: Correcto. La crónica es el género híbrido por excelencia: exige presencia del autor sobre el terreno (corresponsal), ordena cronológicamente el suceso y admite estilo literario subjetivo. -->
-- [ ] B) Reportaje objetivo aséptico, que prohíbe de forma terminante usar la primera persona o figuras retóricas.
+- [ ] A) Reportaje objetivo aséptico, que prohíbe de forma terminante usar la primera persona o figuras retóricas.
   <!-- feedback: Incorrecto. El reportaje objetivo descarta la subjetividad lírica y el relato cronológico íntimo del yo de forma estricta. -->
 - [ ] C) Editorial corporativo sin firma del periódico de Barcelona.
   <!-- feedback: Incorrecto. Lleva firma de corresponsal y es un relato interpretativo, totalmente opuesto al editorial oficial anónimo corporativo. -->
@@ -129,9 +129,9 @@ La crónica es un género periodístico mixto. Comparte la base informativa de l
 Identifica las respuestas a las preguntas fundamentales de la información en el fragmento (lead) citado.
 
 ### Opciones
-- [x] A) Qué ocurrió (derribo de andamios), quiénes sufrieron el daño (dos operarios), dónde (centro de Madrid) y cuándo (ayer por la tarde).
+- [x] B) Qué ocurrió (derribo de andamios), quiénes sufrieron el daño (dos operarios), dónde (centro de Madrid) y cuándo (ayer por la tarde).
   <!-- feedback: Correcto. El lead condensa de forma impecable las respuestas nucleares a las preguntas informativas de la noticia (qué, quién, dónde, cuándo) para situar al lector de inmediato. -->
-- [ ] B) Por qué el viento prefiere el catalán de Barcelona y cómo se calcula el peso del andamio de forma física.
+- [ ] A) Por qué el viento prefiere el catalán de Barcelona y cómo se calcula el peso del andamio de forma física.
   <!-- feedback: Incorrecto. Son digresiones absurdas ajenas a la decodificación pragmática del suceso de prensa madrileño. -->
 - [ ] C) Qué siente el lince ibérico de Doñana ante las obras de construcción de Madrid.
   <!-- feedback: Incorrecto. El referente real son dos operarios humanos y no la fauna silvestre de Doñana. -->
@@ -153,13 +153,13 @@ La entradilla de una noticia (lead) cumple una función informativa nuclear. Su 
 ¿Qué género periodístico de opinión de carácter personal y firmado se manifiesta en esta cita?
 
 ### Opciones
-- [x] A) Columna de opinión (o artículo de opinión firmado), caracterizada por el uso de la primera persona, léxico valorativo y voluntad de estilo persuasivo.
+- [x] D) Columna de opinión (o artículo de opinión firmado), caracterizada por el uso de la primera persona, léxico valorativo y voluntad de estilo persuasivo.
   <!-- feedback: Correcto. Al llevar firma de colaborador y plasmar una visión subjetiva ('siento dolor', 'nuestro deber') con recursos expresivos, se clasifica como columna o artículo de opinión firmado. -->
-- [ ] B) Noticia objetiva exenta de valoraciones sentimentales del periodista de Sevilla.
+- [ ] A) Noticia objetiva exenta de valoraciones sentimentales del periodista de Sevilla.
   <!-- feedback: Incorrecto. La noticia debe ser aséptica y neutra en tercera persona, totalmente opuesta a este lamento de opinión en primera persona. -->
-- [ ] C) Reportaje técnico sobre la venta de agua de riego de Doñana.
+- [ ] B) Reportaje técnico sobre la venta de agua de riego de Doñana.
   <!-- feedback: Incorrecto. Carece de la frialdad denotativa, datos masivos e impersonalidad científica exigida en un reportaje técnico de riego. -->
-- [ ] D) Una carta al director escrita por los linces de Doñana.
+- [ ] C) Una carta al director escrita por los linces de Doñana.
   <!-- feedback: Incorrecto. Los linces carecen de competencia lingüística para remitir cartas a la dirección de periódicos de España. -->
 
 ### Explicacion Pedagogica
@@ -177,9 +177,9 @@ La columna o artículo de opinión firmado es el cauce idóneo para la expresió
 ¿Qué fin persigue esta disposición formal en la lectura de un reportaje extenso de investigación?
 
 ### Opciones
-- [x] A) Facilitar la cohesión y dosificación de la lectura, ofreciendo un andamiaje textual claro que guíe de forma ordenada al lector en la asimilación del tema complejo.
+- [x] B) Facilitar la cohesión y dosificación de la lectura, ofreciendo un andamiaje textual claro que guíe de forma ordenada al lector en la asimilación del tema complejo.
   <!-- feedback: Correcto. El reportaje extenso requiere de una cuidadosa segmentación formal (títulos, leads, ladillos, despieces) para ordenar la ingente cantidad de información sin fatigar al lector. -->
-- [ ] B) Prohibir el uso de la tilde diacrítica en la palabra 'solo' de forma obligatoria en Valencia.
+- [ ] A) Prohibir el uso de la tilde diacrítica en la palabra 'solo' de forma obligatoria en Valencia.
   <!-- feedback: Incorrecto. Las tildes son materia ortográfica y no influyen en el diseño espacial o tipografía de un reportaje extenso digital. -->
 - [ ] C) Asegurar que el reportaje se lea únicamente cantando en latín clásico de Toledo.
   <!-- feedback: Incorrecto. El fin es la lectura intelectual racional y silenciosa en castellano de uso estándar. -->
@@ -201,9 +201,9 @@ El diseño de la macroestructura de los grandes géneros de la prensa (reportaje
 ¿A qué género periodístico de opinión ciudadana se asocia el escrito remitido por el lector?
 
 ### Opciones
-- [x] A) Carta al director, que permite a los ciudadanos de a pie expresar su opinión o queja sobre asuntos cotidianos en la prensa escrita.
+- [x] B) Carta al director, que permite a los ciudadanos de a pie expresar su opinión o queja sobre asuntos cotidianos en la prensa escrita.
   <!-- feedback: Correcto. Las cartas al director son un espacio reservado para la opinión ciudadana, donde los lectores remiten textos breves, firmados e identificados para denunciar o reflexionar sobre temas cotidianos de actualidad. -->
-- [ ] B) Editorial oficial del periódico de Valencia.
+- [ ] A) Editorial oficial del periódico de Valencia.
   <!-- feedback: Incorrecto. El editorial refleja la opinión del periódico como corporación y no la queja individual firmada de un vecino por ruidos. -->
 - [ ] C) Crónica interpretativa firmada por el concejal de medioambiente en Toledo.
   <!-- feedback: Incorrecto. Es un escrito espontáneo de participación de un ciudadano común y no una crónica periodística profesional encargada. -->
@@ -225,11 +225,11 @@ Las cartas al director representan el espacio interactivo democrático de la pre
 Analiza las marcas lingüísticas de ambos escritos en relación con la objetividad y subjetividad periodística.
 
 ### Opciones
-- [x] A) El Texto A es de base objetiva-expositiva (tercera persona, léxico denotativo, impersonales); el Texto B es de base subjetiva-argumentativa (primera persona, adjetivos valorativos, interrogaciones retóricas).
+- [x] C) El Texto A es de base objetiva-expositiva (tercera persona, léxico denotativo, impersonales); el Texto B es de base subjetiva-argumentativa (primera persona, adjetivos valorativos, interrogaciones retóricas).
   <!-- feedback: Correcto. El reportaje (A) asume una marcas lingüísticas de distanciamiento objetivo (terceras personas, datos fríos); el artículo de opinión (B) asume marcas de compromiso subjetivo (yo, adjetivación apreciativa, figuras retóricas de apelación). -->
-- [ ] B) Ambos textos se escriben de forma obligatoria en latín clásico por orden de la RAE.
+- [ ] A) Ambos textos se escriben de forma obligatoria en latín clásico por orden de la RAE.
   <!-- feedback: Incorrecto. Son textos de la prensa moderna en castellano de uso estándar en Soria. -->
-- [ ] C) El Texto A es una caricatura satírica madrileña del siglo XIX.
+- [ ] B) El Texto A es una caricatura satírica madrileña del siglo XIX.
   <!-- feedback: Incorrecto. El reportaje de paro juvenil es un texto riguroso expositivo contemporáneo de datos estadísticos y no una sátira caricaturesca. -->
 - [ ] D) Se diferencian porque el Texto B comete dequeísmo de objeto directo de forma obligatoria.
   <!-- feedback: Incorrecto. Un intelectual de prestigio domina la norma estándar y redacta libre de dequeísmo. -->
@@ -249,11 +249,11 @@ El estilo periodístico oscila entre la asfixia subjetiva de la opinión (marcas
 ¿Qué procedencia y función cumplen estos términos dentro de la sección de economía y sociedad de la prensa?
 
 ### Opciones
-- [x] A) Tecnicismos socioeconómicos y jurídicos que precisan y delimitan con rigor denotativo la realidad analizada en el artículo periodístico.
+- [x] C) Tecnicismos socioeconómicos y jurídicos que precisan y delimitan con rigor denotativo la realidad analizada en el artículo periodístico.
   <!-- feedback: Correcto. Términos específicos del sector socioeconómico y de la sociología urbana ('gentrificación', 'burbuja') actúan como tecnicismos unívocos para delimitar con rigor de qué se trata en el escrito de prensa. -->
-- [ ] B) Arcaísmos medievales de uso exclusivo en la provincia de Toledo.
+- [ ] A) Arcaísmos medievales de uso exclusivo en la provincia de Toledo.
   <!-- feedback: Incorrecto. Son términos contemporáneos, de vigencia plenamente actual en los debates urbanísticos modernos de España. -->
-- [ ] C) Vulgarismos gramaticales desaconsejados por la gramática de la RAE.
+- [ ] B) Vulgarismos gramaticales desaconsejados por la gramática de la RAE.
   <!-- feedback: Incorrecto. Son vocablos correctos y de uso formal culto en el periodismo serio, admitidos por los diccionarios. -->
 - [ ] D) Neologismos de repostería del Pirineo para la venta de mazapanes.
   <!-- feedback: Incorrecto. Tratan sobre sociología urbana y patología inmobiliaria, totalmente ajenos a la repostería aragonesa. -->
@@ -273,9 +273,9 @@ Los tecnicismos de carácter sociológico, jurídico y económico abundan en las
 Analiza sintáctica y pragmáticamente el uso del condicional de rumor o de posibilidad en la prensa de España.
 
 ### Opciones
-- [x] A) Condicional de rumor o conjetura, utilizado de forma frecuente en periodismo para eximirse de responsabilidad sobre un hecho no confirmado, desaconsejado en el periodismo riguroso por restar veracidad fáctica.
+- [x] B) Condicional de rumor o conjetura, utilizado de forma frecuente en periodismo para eximirse de responsabilidad sobre un hecho no confirmado, desaconsejado en el periodismo riguroso por restar veracidad fáctica.
   <!-- feedback: Correcto. El condicional de rumor ('El ministro firmaría') enuncia una sospecha o posibilidad sin confirmación fáctica plena, un recurso que la norma de estilo periodístico seria aconseja evitar en favor de la afirmación contrastada de datos. -->
-- [ ] B) Un error de concordancia número-personal provocado por el subjuntivo de Zaragoza.
+- [ ] A) Un error de concordancia número-personal provocado por el subjuntivo de Zaragoza.
   <!-- feedback: Incorrecto. Es un problema de aspecto y tiempo modal de conjetura o rumor en indicativo, desvinculado de la concordancia sintáctica de número y persona. -->
 - [ ] C) Un dequeísmo sintáctico de tipo condicional canario aceptado por la RAE.
   <!-- feedback: Incorrecto. No hay preposición 'de' antes del nexo subordinado; se trata del uso estilístico de una desinencia verbal de indicativo. -->
@@ -297,11 +297,11 @@ El uso del condicional de rumor o 'condicional de posibilidad periodística' ('E
 Analiza las técnicas de reproducción del discurso ajeno aplicadas en los segmentos (1) y (2) de la crónica.
 
 ### Opciones
-- [x] A) (1) representa el estilo directo puro entre comillas para reproducir fielmente las palabras exactas; (2) es el estilo indirecto tradicional que resume el mensaje subordinándolo con la conjunción 'que'.
+- [x] C) (1) representa el estilo directo puro entre comillas para reproducir fielmente las palabras exactas; (2) es el estilo indirecto tradicional que resume el mensaje subordinándolo con la conjunción 'que'.
   <!-- feedback: Correcto. (1) introduce de forma literal la voz del testigo entre comillas (estilo directo); (2) resume y subordina el mensaje del emisor policial mediante un verbo de dicción y el nexo 'que' (estilo indirecto). -->
-- [ ] B) Ambas oraciones se hallan en estilo indirecto libre de las novelas de misterio.
+- [ ] A) Ambas oraciones se hallan en estilo indirecto libre de las novelas de misterio.
   <!-- feedback: Incorrecto. No hay estilo indirecto libre en el fragmento (las comillas y el nexo subordinado 'que' marcan la separación formal clásica de directo e indirecto de la prensa). -->
-- [ ] C) Representan un laísmo pronominal involuntario de la policía de Salamanca.
+- [ ] B) Representan un laísmo pronominal involuntario de la policía de Salamanca.
   <!-- feedback: Incorrecto. Son recursos lingüísticos estandarizados para introducir voces ajenas de testigos y fuentes en el periodismo, sin relación con el laísmo. -->
 - [ ] D) Las dos frases son caricaturas satíricas medievales que desvirtúan la información real.
   <!-- feedback: Incorrecto. Son técnicas normales de citas de fuentes informativas, indispensables para la veracidad y el distanciamiento periodístico. -->
@@ -321,13 +321,13 @@ La prensa se nutre de voces de testigos y fuentes. Para garantizar la veracidad,
 Analiza el uso de la perífrasis verbal 'debe de intervenir' en este contexto de opinión crítica según la norma de la RAE.
 
 ### Opciones
-- [x] A) Es inadecuado normativamente, ya que 'deber de + infinitivo' indica conjetura o probabilidad ('Debe de hacer calor hoy'); para expresar la obligación imperativa de intervenir de forma urgente debe usarse la perífrasis sin preposición: 'debe intervenir'.
+- [x] D) Es inadecuado normativamente, ya que 'deber de + infinitivo' indica conjetura o probabilidad ('Debe de hacer calor hoy'); para expresar la obligación imperativa de intervenir de forma urgente debe usarse la perífrasis sin preposición: 'debe intervenir'.
   <!-- feedback: Correcto. Para formular una obligación o imperativo moral ('debe intervenir de forma urgente') la RAE exige 'deber + infinitivo'. El uso de 'deber de + infinitivo' queda reservado para la conjetura o sospecha de posibilidad. -->
-- [ ] B) Es plenamente correcto, puesto que todas las preposiciones del español son intercambiables en Zaragoza de forma libre.
+- [ ] A) Es plenamente correcto, puesto que todas las preposiciones del español son intercambiables en Zaragoza de forma libre.
   <!-- feedback: Incorrecto. Las preposiciones y las perífrasis verbales obedecen a reglas sintácticas y semánticas precisas de la norma culta de España. -->
-- [ ] C) Se trata de un dequeísmo pronominal provocado por la preposición 'de' que exige el sustantivo 'tarifas'.
+- [ ] B) Se trata de un dequeísmo pronominal provocado por la preposición 'de' que exige el sustantivo 'tarifas'.
   <!-- feedback: Incorrecto. Es un error o inadecuación modal de una perífrasis verbal de obligación, ajena al dequeísmo sintáctico de subordinación substantiva. -->
-- [ ] D) Se considera una perífrasis de infinitivo andaluza de carácter obligatorio en el periodismo.
+- [ ] C) Se considera una perífrasis de infinitivo andaluza de carácter obligatorio en el periodismo.
   <!-- feedback: Incorrecto. Se censura en el periodismo riguroso de todo el territorio peninsular hispanohablante por atentar contra la norma estándar. -->
 
 ### Explicacion Pedagogica
@@ -345,11 +345,11 @@ La norma académica mantiene la distinción entre 'deber + infinitivo' (obligaci
 Analiza y clasifica los tipos de titulares periodísticos (1, 2, 3) según su intencionalidad pragmática.
 
 ### Opciones
-- [x] A) El Titular 1 es informativo (neutral y denotativo); el Titular 2 es expresivo-valorativo (subjetivo e hiperbólico); y el Titular 3 es apelativo-interrogativo (busca llamar la atención del lector forzando su reflexión).
+- [x] C) El Titular 1 es informativo (neutral y denotativo); el Titular 2 es expresivo-valorativo (subjetivo e hiperbólico); y el Titular 3 es apelativo-interrogativo (busca llamar la atención del lector forzando su reflexión).
   <!-- feedback: Correcto. La tipología periodística distingue entre titulares informativos (ofrecen datos neutros), expresivos o valorativos (reflejan emoción subjetiva) y apelativos u orientativos (buscan la implicación directa o curiosidad del receptor). -->
-- [ ] B) Los tres titulares son impersonales y de uso exclusivo en la física de laboratorios de Zaragoza.
+- [ ] A) Los tres titulares son impersonales y de uso exclusivo en la física de laboratorios de Zaragoza.
   <!-- feedback: Incorrecto. Pertenecen a la sección de periodismo deportivo y no a tratados científicos de física cuántica celular de mitosis. -->
-- [ ] C) El Titular 2 es un loísmo pronominal canario prohibido por la Constitución de 1978.
+- [ ] B) El Titular 2 es un loísmo pronominal canario prohibido por la Constitución de 1978.
   <!-- feedback: Incorrecto. '¡Hazaña heroica!' es una exclamación nominal valorativa, libre de pronombres átonos de objeto directo o indirecto. -->
 - [ ] D) Todos se clasifican como falsas alarmas que el Ayuntamiento de Zaragoza sanciona con multas.
   <!-- feedback: Incorrecto. Son titulares legítimos del periodismo deportivo con diversas orientaciones de estilo retórico y pragmático. -->
@@ -369,13 +369,13 @@ El titular es la puerta de acceso al texto periodístico. Su diseño obedece a i
 Analiza las figuras literarias y recursos expresivos aplicados por el escritor en esta descripción subjetiva de un problema social de España.
 
 ### Opciones
-- [x] A) Metáfora ('la despoblación es una hacha') y personificación ('decapita el alma', 'condena al silencio'), que dotan de patetismo y dramatismo al ensayo para conmover al lector.
+- [x] D) Metáfora ('la despoblación es una hacha') y personificación ('decapita el alma', 'condena al silencio'), que dotan de patetismo y dramatismo al ensayo para conmover al lector.
   <!-- feedback: Correcto. El columnista recurre de forma intencionada a figuras literarias de gran potencia plástica (metáfora de hacha, personificación del abandono que decapita y condena) para implicar emotivamente al receptor y persuadirle del drama rural. -->
-- [ ] B) Un dequeísmo de modestia provocado por la preposición 'de' antes del hacha.
+- [ ] A) Un dequeísmo de modestia provocado por la preposición 'de' antes del hacha.
   <!-- feedback: Incorrecto. No hay preposiciones inadecuadas en la construcción; es una prosa poética de excelente factura formal. -->
-- [ ] C) Definición científica de botánica agrícola de la LOMLOE para identificar la mitosis de los robles.
+- [ ] B) Definición científica de botánica agrícola de la LOMLOE para identificar la mitosis de los robles.
   <!-- feedback: Incorrecto. Es una opinión de carácter literario-subjetivo y moral, totalmente alejada de un tratado botánico objetivo de mitosis celular vegetal. -->
-- [ ] D) Seseo de las piedras que neutraliza los fonemas de Soria.
+- [ ] C) Seseo de las piedras que neutraliza los fonemas de Soria.
   <!-- feedback: Incorrecto. Las piedras y la calzada rural carecen de cuerdas vocales o realizaciones fonéticas dialectales. -->
 
 ### Explicacion Pedagogica
@@ -393,9 +393,9 @@ El artículo de opinión firmado comparte recursos con la literatura. El uso de 
 ¿Qué funciones del lenguaje organizan de forma prioritaria la comunicación en la editorial de opinión y en la noticia informativa, respectivamente?
 
 ### Opciones
-- [x] A) En la editorial de opinión predominan las funciones apelativa y expresiva (persuadir e influir en el juicio del lector); en la noticia informativa predomina de forma absoluta la función representativa o referencial (informar de forma neutra y objetiva).
+- [x] B) En la editorial de opinión predominan las funciones apelativa y expresiva (persuadir e influir en el juicio del lector); en la noticia informativa predomina de forma absoluta la función representativa o referencial (informar de forma neutra y objetiva).
   <!-- feedback: Correcto. Los géneros de opinión (como el editorial) buscan convencer al lector u orientar su voto (apelativo/expresivo); los géneros informativos (como la noticia) se limitan a proporcionar datos reales objetivos (referencial/representativo). -->
-- [ ] B) Ambas se rigen por la función fática del lenguaje para comprobar si el papel prensa de Valencia está seco.
+- [ ] A) Ambas se rigen por la función fática del lenguaje para comprobar si el papel prensa de Valencia está seco.
   <!-- feedback: Incorrecto. La fática solo abriría o verificaría el soporte o canal, pero la prensa persigue fines intelectuales lógicos complejos y no pruebas técnicas de secado de papel. -->
 - [ ] C) Predomina la función metalingüística de la RAE en ambas para prohibir el uso del valenciano bilingüe.
   <!-- feedback: Incorrecto. El bilingüismo en la prensa es una opción legislada y libre, y la función metalingüística solo opera cuando se explica gramática, ausente en estos textos. -->
@@ -417,11 +417,11 @@ El periodismo persigue diversos fines según su tipología textual. Los géneros
 Evalúa críticamente la adecuación ética e informativa de este titular de prensa (clickbait) a partir de los principios del periodismo riguroso de España.
 
 ### Opciones
-- [x] A) Es totalmente inadecuado e irresponsable, ya que incurre en clickbait o ciberanzuelo manipulador, utilizando una hipérbole apelativa tramposa en el titular que estafa la confianza del lector al vaciar de contenido informativo la noticia real.
+- [x] C) Es totalmente inadecuado e irresponsable, ya que incurre en clickbait o ciberanzuelo manipulador, utilizando una hipérbole apelativa tramposa en el titular que estafa la confianza del lector al vaciar de contenido informativo la noticia real.
   <!-- feedback: Correcto. El titular 'clickbait' manipula las emociones del receptor (curiosidad exagerada) mediante elipsis sospechosas o exclamaciones apelativas dramáticas, estafando la confianza del lector con una noticia insustancial. Atenta contra el rigor ético y verídico periodístico. -->
-- [ ] B) Es adecuado, ya que los ministros de Madrid deben de beber agua mineral bajo pena de censura de la RAE.
+- [ ] A) Es adecuado, ya que los ministros de Madrid deben de beber agua mineral bajo pena de censura de la RAE.
   <!-- feedback: Incorrecto. Que el ministro beba agua es un acto normal irrelevante; magnificarlo en el titular mediante falsas alarmas es clickbait manipulador e inaceptable. -->
-- [ ] C) Demuestra un excelente uso del estilo directo libre en las novelas policiales.
+- [ ] B) Demuestra un excelente uso del estilo directo libre en las novelas policiales.
   <!-- feedback: Incorrecto. Es una anomalía deontológica y comercial del periodismo digital moderno y no un recurso de ficción novelística literaria policial. -->
 - [ ] D) Se justifica porque la ley de la LOMLOE prohíbe de forma terminante titular las noticias con datos objetivos.
   <!-- feedback: Incorrecto. Al contrario, las directrices educativas y de alfabetización mediática enseñan a los alumnos de bachillerato a desenmascarar el sensacionalismo y el clickbait digital. -->
@@ -465,13 +465,13 @@ La objetividad en los géneros informativos de la prensa exige honestidad metodo
 Evalúa críticamente la solidez argumentativa y la intencionalidad del uso de la ironía en esta columna de opinión firmada.
 
 ### Opciones
-- [x] A) Emplea de manera eficaz la ironía como recurso satírico de refutación por el absurdo, forzando al lector a reevaluar críticamente la idoneidad de la reforma educativa al contrastarla con sus previsibles consecuencias negativas.
+- [x] D) Emplea de manera eficaz la ironía como recurso satírico de refutación por el absurdo, forzando al lector a reevaluar críticamente la idoneidad de la reforma educativa al contrastarla con sus previsibles consecuencias negativas.
   <!-- feedback: Correcto. La ironía ('¡Qué gran acierto! ¡Genialidad pedagógica!') ridiculiza con agudeza la reforma, sirviendo de argumento por el absurdo para que el lector reflexione críticamente sobre el declive de horas lectivas de materias nucleares. -->
-- [ ] B) Es un error sintáctico absoluto del periodista que la RAE prohíbe de forma terminante bajo pena de prisión ortográfica.
+- [ ] A) Es un error sintáctico absoluto del periodista que la RAE prohíbe de forma terminante bajo pena de prisión ortográfica.
   <!-- feedback: Incorrecto. La RAE codifica la gramática pero carece de competencias penales y de hecho la ironía es una de las mayores joyas estilísticas del periodismo y literatura de España. -->
-- [ ] C) La ironía es de uso exclusivo en la literatura de ficción policial de Soria y carece de validez en la prensa de opinión.
+- [ ] B) La ironía es de uso exclusivo en la literatura de ficción policial de Soria y carece de validez en la prensa de opinión.
   <!-- feedback: Incorrecto. Los artículos de opinión de firmas célebres se sirven constantemente de la ironía y el humor sutil como armas persuasivas estelares. -->
-- [ ] D) Se devalúa porque la ironía representa un ruido físico de canal que anula la voz de los mandalas.
+- [ ] C) Se devalúa porque la ironía representa un ruido físico de canal que anula la voz de los mandalas.
   <!-- feedback: Incorrecto. La ironía enriquece el mensaje a nivel pragmático intelectual, exigiendo complicidad mental activa del receptor. -->
 
 ### Explicacion Pedagogica
@@ -489,13 +489,13 @@ La ironía y la reducción al absurdo son recursos retóricos de primer orden en
 Evalúa la idoneidad de la publicación de esta carta por parte del equipo de edición del periódico.
 
 ### Opciones
-- [x] A) Debe ser rechazada o corregida de forma estricta por el equipo de edición, ya que publicar un texto con abreviaturas informales y faltas ortográficas graves atenta contra la adecuación del canal de prensa culta y el prestigio del diario, restando seriedad e intelectualidad a la propia queja ciudadana.
+- [x] D) Debe ser rechazada o corregida de forma estricta por el equipo de edición, ya que publicar un texto con abreviaturas informales y faltas ortográficas graves atenta contra la adecuación del canal de prensa culta y el prestigio del diario, restando seriedad e intelectualidad a la propia queja ciudadana.
   <!-- feedback: Correcto. Las cartas al director deben adecuarse al registro formal culto exigido por la prensa impresa seria de España. El equipo de edición filtra de oficio las cartas, exigiendo respeto, ortografía impecable de grafías y prohibiendo el lenguaje vulgar de chat. -->
-- [ ] B) Debe ser publicada en portada con letras gigantes de colores para conmover a los linces de Doñana de forma matemática.
+- [ ] A) Debe ser publicada en portada con letras gigantes de colores para conmover a los linces de Doñana de forma matemática.
   <!-- feedback: Incorrecto. Sería una afrenta deontológica y una inadecuación tipológica severa del medio escrito, desvinculada de la fauna silvestre de Doñana. -->
-- [ ] C) Es idónea, ya que la LOMLOE obliga a los periódicos de España a sustituir la gramática prescriptiva por el lenguaje de chat de móvil de los adolescentes.
+- [ ] B) Es idónea, ya que la LOMLOE obliga a los periódicos de España a sustituir la gramática prescriptiva por el lenguaje de chat de móvil de los adolescentes.
   <!-- feedback: Incorrecto. La LOMLOE promueve de forma vigorosa la corrección ortográfica, la expresión escrita culta, y la alfabetización de destrezas comunicativas serias en bachillerato. -->
-- [ ] D) Se publica así para demostrar que en Madrid las letras 'b' y 'v' se consideran laístas.
+- [ ] C) Se publica así para demostrar que en Madrid las letras 'b' y 'v' se consideran laístas.
   <!-- feedback: Incorrecto. Las letras del abecedario son materia ortográfica y fonológica, totalmente ajenas a anomalías pronominales de laísmo o loísmo sintáctico. -->
 
 ### Explicacion Pedagogica

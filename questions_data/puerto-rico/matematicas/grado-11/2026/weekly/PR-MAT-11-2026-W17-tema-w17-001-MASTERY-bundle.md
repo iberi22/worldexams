@@ -31,8 +31,8 @@ bundle_index: 1
 En un triángulo rectángulo, los catetos miden 6 cm y 8 cm. ¿Cuál es la medida de la hipotenusa?
 
 ### Opciones
-- [x] A) 10 cm <!-- feedback: Correcto. $\sqrt{6^2 + 8^2} = \sqrt{36 + 64} = 10$. -->
-- [ ] B) 100 cm <!-- feedback: Incorrecto. Se olvidó aplicar la raíz cuadrada. -->
+- [x] B) 10 cm <!-- feedback: Correcto. $\sqrt{6^2 + 8^2} = \sqrt{36 + 64} = 10$. -->
+- [ ] A) 100 cm <!-- feedback: Incorrecto. Se olvidó aplicar la raíz cuadrada. -->
 - [ ] C) 12 cm <!-- feedback: Incorrecto. Valor erróneo. -->
 - [ ] D) 14 cm <!-- feedback: Incorrecto. Se sumaron los catetos linealmente. -->
 
@@ -52,8 +52,8 @@ Aplicando el Teorema de Pitágoras $a^2 + b^2 = c^2$: $6^2 + 8^2 = c^2 \implies 
 En un triángulo rectángulo, la hipotenusa mide 13 cm y uno de los catetos mide 5 cm. ¿Cuál es la medida del otro cateto?
 
 ### Opciones
-- [x] A) 12 cm <!-- feedback: Correcto. $\sqrt{13^2 - 5^2} = \sqrt{169 - 25} = 12$. -->
-- [ ] B) 144 cm <!-- feedback: Incorrecto. Se olvidó aplicar la raíz cuadrada. -->
+- [x] B) 12 cm <!-- feedback: Correcto. $\sqrt{13^2 - 5^2} = \sqrt{169 - 25} = 12$. -->
+- [ ] A) 144 cm <!-- feedback: Incorrecto. Se olvidó aplicar la raíz cuadrada. -->
 - [ ] C) 18 cm <!-- feedback: Incorrecto. Se sumaron las longitudes. -->
 - [ ] D) 8 cm <!-- feedback: Incorrecto. Se restaron las longitudes linealmente. -->
 
@@ -73,9 +73,9 @@ Por el Teorema de Pitágoras: $a^2 + b^2 = c^2 \implies 5^2 + b^2 = 13^2 \implie
 Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(8, 15)$.
 
 ### Opciones
-- [x] A) 17 <!-- feedback: Correcto. La distancia es $\sqrt{8^2 + 15^2} = 17$. -->
-- [ ] B) 23 <!-- feedback: Incorrecto. Se sumaron las coordenadas de forma lineal. -->
-- [ ] C) 289 <!-- feedback: Incorrecto. Se olvidó aplicar la raíz cuadrada. -->
+- [x] C) 17 <!-- feedback: Correcto. La distancia es $\sqrt{8^2 + 15^2} = 17$. -->
+- [ ] A) 23 <!-- feedback: Incorrecto. Se sumaron las coordenadas de forma lineal. -->
+- [ ] B) 289 <!-- feedback: Incorrecto. Se olvidó aplicar la raíz cuadrada. -->
 - [ ] D) 7 <!-- feedback: Incorrecto. Se restaron las coordenadas. -->
 
 ### Explicacion Pedagogica
@@ -94,9 +94,9 @@ La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula
 Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(5, 12)$.
 
 ### Opciones
-- [x] A) 13 <!-- feedback: Correcto. La distancia es $\sqrt{5^2 + 12^2} = 13$. -->
-- [ ] B) 169 <!-- feedback: Incorrecto. Se olvidó aplicar la raíz cuadrada. -->
-- [ ] C) 17 <!-- feedback: Incorrecto. Se sumaron las coordenadas de forma lineal. -->
+- [x] C) 13 <!-- feedback: Correcto. La distancia es $\sqrt{5^2 + 12^2} = 13$. -->
+- [ ] A) 169 <!-- feedback: Incorrecto. Se olvidó aplicar la raíz cuadrada. -->
+- [ ] B) 17 <!-- feedback: Incorrecto. Se sumaron las coordenadas de forma lineal. -->
 - [ ] D) 7 <!-- feedback: Incorrecto. Se restaron las coordenadas. -->
 
 ### Explicacion Pedagogica
@@ -119,8 +119,8 @@ Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0
 ### Opciones
 - [ ] A) 1 <!-- feedback: Incorrecto. Se restaron las coordenadas. -->
 - [ ] B) 25 <!-- feedback: Incorrecto. Se olvidó aplicar la raíz cuadrada. -->
-- [x] C) 5 <!-- feedback: Correcto. La distancia es $\sqrt{3^2 + 4^2} = 5$. -->
-- [ ] D) 7 <!-- feedback: Incorrecto. Se sumaron las coordenadas de forma lineal. -->
+- [x] D) 5 <!-- feedback: Correcto. La distancia es $\sqrt{3^2 + 4^2} = 5$. -->
+- [ ] C) 7 <!-- feedback: Incorrecto. Se sumaron las coordenadas de forma lineal. -->
 
 ### Explicacion Pedagogica
 La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(3, 4)$: $d = \sqrt{3^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5$.
@@ -180,10 +180,10 @@ La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula
 Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(5, 12)$.
 
 ### Opciones
-- [x] A) 13 <!-- feedback: Correcto. La distancia es $\sqrt{5^2 + 12^2} = 13$. -->
-- [ ] B) 169 <!-- feedback: Incorrecto. Se olvidó aplicar la raíz cuadrada. -->
-- [ ] C) 17 <!-- feedback: Incorrecto. Se sumaron las coordenadas de forma lineal. -->
-- [ ] D) 7 <!-- feedback: Incorrecto. Se restaron las coordenadas. -->
+- [x] D) 13 <!-- feedback: Correcto. La distancia es $\sqrt{5^2 + 12^2} = 13$. -->
+- [ ] A) 169 <!-- feedback: Incorrecto. Se olvidó aplicar la raíz cuadrada. -->
+- [ ] B) 17 <!-- feedback: Incorrecto. Se sumaron las coordenadas de forma lineal. -->
+- [ ] C) 7 <!-- feedback: Incorrecto. Se restaron las coordenadas. -->
 
 ### Explicacion Pedagogica
 La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(5, 12)$: $d = \sqrt{5^2 + 12^2} = \sqrt{25 + 144} = \sqrt{169} = 13$.
@@ -222,8 +222,8 @@ La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula
 Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(8, 15)$.
 
 ### Opciones
-- [x] A) 17 <!-- feedback: Correcto. La distancia es $\sqrt{8^2 + 15^2} = 17$. -->
-- [ ] B) 23 <!-- feedback: Incorrecto. Se sumaron las coordenadas de forma lineal. -->
+- [x] B) 17 <!-- feedback: Correcto. La distancia es $\sqrt{8^2 + 15^2} = 17$. -->
+- [ ] A) 23 <!-- feedback: Incorrecto. Se sumaron las coordenadas de forma lineal. -->
 - [ ] C) 289 <!-- feedback: Incorrecto. Se olvidó aplicar la raíz cuadrada. -->
 - [ ] D) 7 <!-- feedback: Incorrecto. Se restaron las coordenadas. -->
 
@@ -266,8 +266,8 @@ La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula
 Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(8, 15)$.
 
 ### Opciones
-- [x] A) 17 <!-- feedback: Correcto. La distancia es $\sqrt{8^2 + 15^2} = 17$. -->
-- [ ] B) 23 <!-- feedback: Incorrecto. Se sumaron las coordenadas de forma lineal. -->
+- [x] B) 17 <!-- feedback: Correcto. La distancia es $\sqrt{8^2 + 15^2} = 17$. -->
+- [ ] A) 23 <!-- feedback: Incorrecto. Se sumaron las coordenadas de forma lineal. -->
 - [ ] C) 289 <!-- feedback: Incorrecto. Se olvidó aplicar la raíz cuadrada. -->
 - [ ] D) 7 <!-- feedback: Incorrecto. Se restaron las coordenadas. -->
 
@@ -308,8 +308,8 @@ La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula
 Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(8, 15)$.
 
 ### Opciones
-- [x] A) 17 <!-- feedback: Correcto. La distancia es $\sqrt{8^2 + 15^2} = 17$. -->
-- [ ] B) 23 <!-- feedback: Incorrecto. Se sumaron las coordenadas de forma lineal. -->
+- [x] B) 17 <!-- feedback: Correcto. La distancia es $\sqrt{8^2 + 15^2} = 17$. -->
+- [ ] A) 23 <!-- feedback: Incorrecto. Se sumaron las coordenadas de forma lineal. -->
 - [ ] C) 289 <!-- feedback: Incorrecto. Se olvidó aplicar la raíz cuadrada. -->
 - [ ] D) 7 <!-- feedback: Incorrecto. Se restaron las coordenadas. -->
 
@@ -330,8 +330,8 @@ Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0
 
 ### Opciones
 - [ ] A) 1 <!-- feedback: Incorrecto. Se restaron las coordenadas. -->
-- [ ] B) 25 <!-- feedback: Incorrecto. Se olvidó aplicar la raíz cuadrada. -->
-- [x] C) 5 <!-- feedback: Correcto. La distancia es $\sqrt{3^2 + 4^2} = 5$. -->
+- [ ] C) 25 <!-- feedback: Incorrecto. Se olvidó aplicar la raíz cuadrada. -->
+- [x] B) 5 <!-- feedback: Correcto. La distancia es $\sqrt{3^2 + 4^2} = 5$. -->
 - [ ] D) 7 <!-- feedback: Incorrecto. Se sumaron las coordenadas de forma lineal. -->
 
 ### Explicacion Pedagogica
@@ -351,8 +351,8 @@ Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0
 
 ### Opciones
 - [ ] A) 1 <!-- feedback: Incorrecto. Se restaron las coordenadas. -->
-- [ ] B) 25 <!-- feedback: Incorrecto. Se olvidó aplicar la raíz cuadrada. -->
-- [x] C) 5 <!-- feedback: Correcto. La distancia es $\sqrt{3^2 + 4^2} = 5$. -->
+- [ ] C) 25 <!-- feedback: Incorrecto. Se olvidó aplicar la raíz cuadrada. -->
+- [x] B) 5 <!-- feedback: Correcto. La distancia es $\sqrt{3^2 + 4^2} = 5$. -->
 - [ ] D) 7 <!-- feedback: Incorrecto. Se sumaron las coordenadas de forma lineal. -->
 
 ### Explicacion Pedagogica
@@ -374,8 +374,8 @@ Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0
 
 ### Opciones
 - [ ] A) 1 <!-- feedback: Incorrecto. Se restaron las coordenadas. -->
-- [ ] B) 25 <!-- feedback: Incorrecto. Se olvidó aplicar la raíz cuadrada. -->
-- [x] C) 5 <!-- feedback: Correcto. La distancia es $\sqrt{3^2 + 4^2} = 5$. -->
+- [ ] C) 25 <!-- feedback: Incorrecto. Se olvidó aplicar la raíz cuadrada. -->
+- [x] B) 5 <!-- feedback: Correcto. La distancia es $\sqrt{3^2 + 4^2} = 5$. -->
 - [ ] D) 7 <!-- feedback: Incorrecto. Se sumaron las coordenadas de forma lineal. -->
 
 ### Explicacion Pedagogica
@@ -396,8 +396,8 @@ Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0
 ### Opciones
 - [ ] A) 1 <!-- feedback: Incorrecto. Se restaron las coordenadas. -->
 - [ ] B) 25 <!-- feedback: Incorrecto. Se olvidó aplicar la raíz cuadrada. -->
-- [x] C) 5 <!-- feedback: Correcto. La distancia es $\sqrt{3^2 + 4^2} = 5$. -->
-- [ ] D) 7 <!-- feedback: Incorrecto. Se sumaron las coordenadas de forma lineal. -->
+- [x] D) 5 <!-- feedback: Correcto. La distancia es $\sqrt{3^2 + 4^2} = 5$. -->
+- [ ] C) 7 <!-- feedback: Incorrecto. Se sumaron las coordenadas de forma lineal. -->
 
 ### Explicacion Pedagogica
 La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(3, 4)$: $d = \sqrt{3^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5$.
@@ -417,8 +417,8 @@ Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0
 ### Opciones
 - [ ] A) 1 <!-- feedback: Incorrecto. Se restaron las coordenadas. -->
 - [ ] B) 25 <!-- feedback: Incorrecto. Se olvidó aplicar la raíz cuadrada. -->
-- [x] C) 5 <!-- feedback: Correcto. La distancia es $\sqrt{3^2 + 4^2} = 5$. -->
-- [ ] D) 7 <!-- feedback: Incorrecto. Se sumaron las coordenadas de forma lineal. -->
+- [x] D) 5 <!-- feedback: Correcto. La distancia es $\sqrt{3^2 + 4^2} = 5$. -->
+- [ ] C) 7 <!-- feedback: Incorrecto. Se sumaron las coordenadas de forma lineal. -->
 
 ### Explicacion Pedagogica
 La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(3, 4)$: $d = \sqrt{3^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5$.
@@ -438,8 +438,8 @@ Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0
 ### Opciones
 - [ ] A) 1 <!-- feedback: Incorrecto. Se restaron las coordenadas. -->
 - [ ] B) 25 <!-- feedback: Incorrecto. Se olvidó aplicar la raíz cuadrada. -->
-- [x] C) 5 <!-- feedback: Correcto. La distancia es $\sqrt{3^2 + 4^2} = 5$. -->
-- [ ] D) 7 <!-- feedback: Incorrecto. Se sumaron las coordenadas de forma lineal. -->
+- [x] D) 5 <!-- feedback: Correcto. La distancia es $\sqrt{3^2 + 4^2} = 5$. -->
+- [ ] C) 7 <!-- feedback: Incorrecto. Se sumaron las coordenadas de forma lineal. -->
 
 ### Explicacion Pedagogica
 La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(3, 4)$: $d = \sqrt{3^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5$.

@@ -56,11 +56,11 @@ Aprovechando la devaluación de los títulos salitreros y el apoyo de banqueros 
 ### Opciones
 - [ ] A) Estancias coloniales.
   <!-- feedback: Incorrecto. Las estancias eran grandes propiedades ganaderas, típicamente de la zona austral. -->
-- [x] B) Conventillos.
+- [x] D) Conventillos.
   <!-- feedback: Correcto. Los conventillos eran antiguas casonas de la élite deterioradas o construcciones precarias destinadas al alquiler de cuartos por familias obreras, focos de hacinamiento e insalubridad. -->
-- [ ] C) Reducciones fiscales.
+- [ ] B) Reducciones fiscales.
   <!-- feedback: Incorrecto. Las reducciones correspondían al confinamiento impuesto al pueblo mapuche en la Araucanía. -->
-- [ ] D) Villas olímpicas modernas.
+- [ ] C) Villas olímpicas modernas.
   <!-- feedback: Incorrecto. Las villas olímpicas pertenecen al desarrollo urbanístico y deportivo planificado de la segunda mitad del siglo XX. -->
 
 ### Explicacion Pedagogica
@@ -104,11 +104,11 @@ El modelo salitrerío chileno fue de concesión privada con recaudación fiscal 
 ### Opciones
 - [ ] A) El conflicto fronterizo no resuelto con Argentina por la Patagonia.
   <!-- feedback: Incorrecto. Este fue un asunto estrictamente diplomático y militar de límites. -->
-- [x] B) El conjunto de problemas materiales y de precariedad extrema que afectó a la clase obrera, caracterizado por insalubridad, hacinamiento, bajos salarios y nula legislación laboral.
+- [x] D) El conjunto de problemas materiales y de precariedad extrema que afectó a la clase obrera, caracterizado por insalubridad, hacinamiento, bajos salarios y nula legislación laboral.
   <!-- feedback: Correcto. La 'Cuestión Social' engloba la miseria estructural de los trabajadores urbanos, de las mineras de carbón y las oficinas salitreras, ante la indiferencia del Estado y la oligarquía parlamentaria. -->
-- [ ] C) El debate parlamentario sobre la ley de divorcio vincular civil.
+- [ ] B) El debate parlamentario sobre la ley de divorcio vincular civil.
   <!-- feedback: Incorrecto. Esto correspondía al debate de secularización e ideológico de las Leyes Laicas, no a la cuestión de clase social obrera. -->
-- [ ] D) La escasez absoluta de harina de trigo en las provincias australes.
+- [ ] C) La escasez absoluta de harina de trigo en las provincias australes.
   <!-- feedback: Incorrecto. Aunque hubo problemas económicos, la Cuestión Social trascendía un desabastecimiento puntual, siendo una crisis estructural del sistema capitalista chileno. -->
 
 ### Explicacion Pedagogica
@@ -126,9 +126,9 @@ La 'Cuestión Social' surgió debido al veloz crecimiento urbano e industrial si
 ¿De qué manera el sistema de 'fichas' utilizado para pagar el salario de los obreros de la pampa restringía su libertad de consumo y perpetuaba su dependencia económica?
 
 ### Opciones
-- [ ] A) Obligaba a los obreros a depositar sus ahorros bancarios en cuentas de la corona española.
+- [ ] B) Obligaba a los obreros a depositar sus ahorros bancarios en cuentas de la corona española.
   <!-- feedback: Incorrecto. No operaban bancos españoles en la pampa salitrera. -->
-- [x] B) Las fichas solo tenían validez de compra dentro de la 'pulpería' de la misma oficina salitrera que las emitía, fijando precios de monopolio sobre el alimento y vestuario.
+- [x] A) Las fichas solo tenían validez de compra dentro de la 'pulpería' de la misma oficina salitrera que las emitía, fijando precios de monopolio sobre el alimento y vestuario.
   <!-- feedback: Correcto. El pago en fichas de plástico o metal limitaba la capacidad de compra de los obreros, forzándolos a comprar víveres con sobreprecio en el almacén de la propia empresa (la pulpería), impidiendo el ahorro real. -->
 - [ ] C) Las fichas obligaban a los trabajadores a adquirir tierras áridas en el desierto de Atacama.
   <!-- feedback: Incorrecto. Las tierras salitreras pertenecían a los consorcios mineros y no se vendían a obreros mediante fichas. -->
@@ -176,11 +176,11 @@ La Masacre de la Escuela Santa María de Iquique representó el hito más doloro
 ### Opciones
 - [ ] A) Las mutuales prohibían la participación de personas analfabetas de forma absoluta.
   <!-- feedback: Incorrecto. Las mutuales acogían a trabajadores de diversos perfiles y niveles educativos. -->
-- [x] B) Las mancomunales incorporaban la defensa activa del salario, la huelga y la solidaridad de clase obrera frente al patrón, mientras las mutuales se centraban en la ayuda solidaria de emergencia (salud, sepelio).
+- [x] D) Las mancomunales incorporaban la defensa activa del salario, la huelga y la solidaridad de clase obrera frente al patrón, mientras las mutuales se centraban en la ayuda solidaria de emergencia (salud, sepelio).
   <!-- feedback: Correcto. Las mancomunales marcaron la transición hacia la acción sindical directa, asumiendo la huelga y la negociación laboral de clase, superando el enfoque puramente asistencialista y recreativo de las mutualidades tempranas. -->
-- [ ] C) Las mancomunales eran financiadas de forma exclusiva por los dueños ingleses de las minas.
+- [ ] B) Las mancomunales eran financiadas de forma exclusiva por los dueños ingleses de las minas.
   <!-- feedback: Incorrecto. Las mancomunales se financiaban de manera autónoma con las cotizaciones de los propios obreros afiliados y eran combatidas por los patrones. -->
-- [ ] D) Las mutuales promovían la revolución agraria inmediata para expropiar tierras agrícolas en Atacama.
+- [ ] C) Las mutuales promovían la revolución agraria inmediata para expropiar tierras agrícolas en Atacama.
   <!-- feedback: Incorrecto. Las mutuales de artesanos eran de perfil moderado, gremialista e integradas al orden institucional. -->
 
 ### Explicacion Pedagogica
@@ -222,9 +222,9 @@ Luis Emilio Recabarren, el 'padre del movimiento obrero chileno', comprendió qu
 ¿Qué doctrina económica y dogma filosófico imperante en la élite política del Chile oligárquico de 1900 dificultaba la promulgación de leyes que regularan la jornada laboral y las condiciones sanitarias?
 
 ### Opciones
-- [x] A) El liberalismo económico de Laissez-Faire (dejar hacer), que consideraba que el Estado no debía intervenir en los contratos individuales de trabajo.
+- [x] B) El liberalismo económico de Laissez-Faire (dejar hacer), que consideraba que el Estado no debía intervenir en los contratos individuales de trabajo.
   <!-- feedback: Correcto. La élite sostenía que el mercado laboral se autoregulaba libremente y que las leyes sociales quebraban la libertad de contratación de las partes, viendo la pobreza como un problema moral privado de los obreros y no social fiscal. -->
-- [ ] B) El estatismo regulador del corporativismo gremial.
+- [ ] A) El estatismo regulador del corporativismo gremial.
   <!-- feedback: Incorrecto. La élite rechazaba tajantemente el estatismo intervencionista en la economía minera y comercial de la época. -->
 - [ ] C) El socialismo de planificación centralizada importado de los soviéticos.
   <!-- feedback: Incorrecto. Esta corriente ideológica no era la doctrina económica en el Parlamento de Chile de 1900. -->
@@ -248,11 +248,11 @@ La oligarquía parlamentaria chilena adhería al liberalismo económico clásico
 ### Opciones
 - [ ] A) La escasez absoluta de aire en la superficie de la costa marina de Concepción.
   <!-- feedback: Incorrecto. En la superficie el aire abunda; el peligro radicaba en las galerías subterráneas profundas. -->
-- [x] B) La explotación minera en galerías submarinas o galerías bajo el fondo del océano Pacífico, expuestas a inundaciones constantes y derrumbes de techumbre húmeda.
+- [x] D) La explotación minera en galerías submarinas o galerías bajo el fondo del océano Pacífico, expuestas a inundaciones constantes y derrumbes de techumbre húmeda.
   <!-- feedback: Correcto. Las famosas minas de Lota y Schwager penetraban kilómetros por debajo del lecho del océano, lo que requería de complejos sistemas de ventilación y apuntalamiento de maderas en un ambiente húmedo que propiciaba muertes por asfixia y derrumbes catastróficos. -->
-- [ ] C) La extrema aridez y calor abrasador del desierto de Atacama que secaba los piques carboníferos del sur.
+- [ ] B) La extrema aridez y calor abrasador del desierto de Atacama que secaba los piques carboníferos del sur.
   <!-- feedback: Incorrecto. Las minas de carbón estaban en la Región del Biobío, de clima templado lluvioso costero y no en Atacama. -->
-- [ ] D) La nula presencia de bosques nativos de eucaliptos para quemar en el interior de los piques mineros.
+- [ ] C) La nula presencia de bosques nativos de eucaliptos para quemar en el interior de los piques mineros.
   <!-- feedback: Incorrecto. El eucalipto u otras maderas se usaban como puntales (chiflones) pero la ausencia de quema interior era lógica para evitar incendios. -->
 
 ### Explicacion Pedagogica
@@ -296,9 +296,9 @@ La encíclica 'Rerum Novarum' remeció las conciencias de intelectuales conserva
 ### Opciones
 - [ ] A) La prohibición absoluta de que las mujeres trabajaran sentadas en horario diurno.
   <!-- feedback: Incorrecto. La ley promovía exactamente lo contrario: permitirles sentarse. -->
-- [x] B) La obligación patronal de disponer de sillas o asientos en cantidad suficiente para que las y los dependientes del comercio descansaran temporalmente.
+- [x] C) La obligación patronal de disponer de sillas o asientos en cantidad suficiente para que las y los dependientes del comercio descansaran temporalmente.
   <!-- feedback: Correcto. La Ley de Sillas de 1914 obligaba a los dueños de tiendas comerciales e industrias minoristas a disponer de un asiento para cada dependiente, permitiéndoles sentarse cuando no atendieran público. -->
-- [ ] C) El retiro inmediato del peso chileno del patrón de plata minera.
+- [ ] B) El retiro inmediato del peso chileno del patrón de plata minera.
   <!-- feedback: Incorrecto. No guardaba relación con la política monetaria nacional del periodo. -->
 - [ ] D) La fijación de un salario obrero idéntico en todas las pulperías de la pampa salitrera.
   <!-- feedback: Incorrecto. Esta ley abordó una faceta puntual de las condiciones de fatiga física de dependientes urbanos. -->
@@ -342,11 +342,11 @@ Chile lideraba los tristes ránkings mundiales de mortalidad infantil a inicios 
 ¿Qué método preferente de acción directa y posicionamiento político diferenciaba a las 'Sociedades de Resistencia' anarquistas de las mutualidades moderadas?
 
 ### Opciones
-- [x] A) La huelga general revolucionaria, el sabotaje patronal y el rechazo absoluto a pactar con el Estado o partidos reformistas.
+- [x] C) La huelga general revolucionaria, el sabotaje patronal y el rechazo absoluto a pactar con el Estado o partidos reformistas.
   <!-- feedback: Correcto. Las Sociedades de Resistencia anarquistas rechazaban la intermediación del Estado y la participación parlamentaria, abogando por la autogestión obrera y el uso de la huelga beligerante para derribar el sistema capitalista. -->
-- [ ] B) La solicitud permanente de créditos financieros estatales al Banco de Chile de la élite de Santiago.
+- [ ] A) La solicitud permanente de créditos financieros estatales al Banco de Chile de la élite de Santiago.
   <!-- feedback: Incorrecto. El anarquismo rechazaba las instituciones bancarias burguesas capitalistas. -->
-- [ ] C) La defensa y lealtad incondicional al partido del Presidente de la República de turno.
+- [ ] B) La defensa y lealtad incondicional al partido del Presidente de la República de turno.
   <!-- feedback: Incorrecto. El anarquismo era antiestatista y rechazaba el presidencialismo oligárquico de cualquier signo político. -->
 - [ ] D) La obligatoriedad de que cada obrero afiliado fuera latifundista del Valle de Elqui.
   <!-- feedback: Incorrecto. Eran organizaciones compuestas por obreros asalariados y artesanos urbanos pobres, carentes de tierras agrarias. -->
@@ -368,9 +368,9 @@ El anarquismo echó fuertes raíces en el naciente proletariado chileno. Agrupad
 ### Opciones
 - [ ] A) La exigencia patronal de que los lancheros vistieran uniformes militares ingleses.
   <!-- feedback: Incorrecto. La huelga tenía motivos puramente salariales e higiénicos obreros. -->
-- [x] B) La solicitud de reducción de la agobiante jornada laboral a 10 horas diarias y un aumento de salario monetario para compensar la depreciación del peso chileno.
+- [x] C) La solicitud de reducción de la agobiante jornada laboral a 10 horas diarias y un aumento de salario monetario para compensar la depreciación del peso chileno.
   <!-- feedback: Correcto. Los estibadores y lancheros de Valparaíso reclamaban límites a las agobiantes jornadas diarias (que superaban las 12 horas) y salarios dignos en el puerto, lo que al ser negado provocó la huelga y posterior motín urbano. -->
-- [ ] C) La clausura definitiva del ferrocarril interoceánico de Santiago.
+- [ ] B) La clausura definitiva del ferrocarril interoceánico de Santiago.
   <!-- feedback: Incorrecto. El ferrocarril continuaba operando vigorosamente. -->
 - [ ] D) El cobro de impuestos personales directos a los marinos mercantes por cruzar el Estrecho de Magallanes.
   <!-- feedback: Incorrecto. El cobro por el Estrecho era para buques de carga internacionales y no motivó la huelga laboral estibadora de Valparaíso. -->
@@ -390,11 +390,11 @@ La inflación provocada por las sucesivas devaluaciones de la moneda erosionaba 
 ¿Qué actitud adoptó mayoritariamente el Congreso Nacional respecto de los abusos de las empresas salitreras en la pampa tras conocer los informes sanitarios y laborales presentados por sus comisiones?
 
 ### Opciones
-- [x] A) Justificó o minimizó el accionar patronal argumentando la necesidad de resguardar el orden público, posponiendo leyes laborales integrales por varios años.
+- [x] C) Justificó o minimizó el accionar patronal argumentando la necesidad de resguardar el orden público, posponiendo leyes laborales integrales por varios años.
   <!-- feedback: Correcto. El Parlamento priorizó los lazos con los inversionistas mineros y la mantención del orden público fiscal. Consideraba las demandas obreras como motines revolucionarios de agitación comunista o anarquista, retrasando la reforma sustantiva de la legislación. -->
-- [ ] B) La estatización total inmediata de las oficinas mineras de John Thomas North.
+- [ ] A) La estatización total inmediata de las oficinas mineras de John Thomas North.
   <!-- feedback: Incorrecto. No se propuso ninguna nacionalización salitrera en favor del fisco chileno en este periodo parlamentario. -->
-- [ ] C) La entrega de indemnizaciones económicas millonarias públicas a las viudas mapuches de Temuco.
+- [ ] B) La entrega de indemnizaciones económicas millonarias públicas a las viudas mapuches de Temuco.
   <!-- feedback: Incorrecto. Los damnificados por la masacre eran obreros pampinos del norte, y el Estado no otorgó indemnizaciones colectivas oficiales. -->
 - [ ] D) La destitución sumaria del jefe del Ejército por haber violado los derechos humanos de huelguistas.
   <!-- feedback: Incorrecto. El general Silva Renard fue amparado políticamente por la cúpula del gobierno y del Congreso chilenos. -->
@@ -414,11 +414,11 @@ Bajo el régimen parlamentario chileno (1891-1925), el Congreso operaba fuerteme
 A la luz de la evolución literaria nacional, ¿qué valor historiográfico e intelectual se le asigna a la obra literaria de la Generación de 1900 respecto del auge de la Cuestión Social?
 
 ### Opciones
-- [ ] A) Ninguno, pues las obras eran pura ficción fantástica que no reflejaban la geografía nacional.
+- [ ] B) Ninguno, pues las obras eran pura ficción fantástica que no reflejaban la geografía nacional.
   <!-- feedback: Incorrecto. Estas obras fueron valiosos testimonios del realismo descarnado del Chile popular. -->
-- [ ] B) Buscaba justificar los altos aranceles que cobraba John Thomas North por el carbón de Lota.
+- [ ] C) Buscaba justificar los altos aranceles que cobraba John Thomas North por el carbón de Lota.
   <!-- feedback: Incorrecto. Lillo denunció de forma vehemente los abusos e injusticias que los patrones cometían contra los carboneros en Lota. -->
-- [x] C) Sirvió como un potente canal de sensibilización y denuncia social que desnudó ante la élite de Santiago la miseria obrera y minera de Chile, dinamizando el debate sobre legislación del trabajo.
+- [x] A) Sirvió como un potente canal de sensibilización y denuncia social que desnudó ante la élite de Santiago la miseria obrera y minera de Chile, dinamizando el debate sobre legislación del trabajo.
   <!-- feedback: Correcto. El realismo literario visibilizó crudamente el dolor de los inquilinos, obreros del carbón y prostitutas urbanas, generando incomodidad intelectual y política en círculos del Valle Central que ignoraban o evadían la precarización obrera. -->
 - [ ] D) Su fin exclusivo era ensalzar los logros y viajes de Diego Portales por el Estrecho de Magallanes.
   <!-- feedback: Incorrecto. Portales no pertenecía a la época, ni la obra de Lillo tenía objetivos de apología al orden portaliano. -->
@@ -438,13 +438,13 @@ La literatura chilena de principios de siglo XX rompió con el romanticismo crio
 ¿Qué preocupante brecha nacional o paradoja histórica denunciaron ensayistas críticos chilenos como Nicolás Palacios (autor de 'Raza Chilena') o Francisco Antonio Encina al conmemorarse los primeros cien años de la patria?
 
 ### Opciones
-- [x] A) La coexistencia de un gran esplendor fiscal salitrero y lujosos palacios oligárquicos en Santiago junto a la más absoluta miseria obrera popular, hacinamiento urbano y retraso educativo masivo del bajo pueblo.
+- [x] D) La coexistencia de un gran esplendor fiscal salitrero y lujosos palacios oligárquicos en Santiago junto a la más absoluta miseria obrera popular, hacinamiento urbano y retraso educativo masivo del bajo pueblo.
   <!-- feedback: Correcto. Los ensayistas de la 'Crisis del Centenario' evidenciaron el contraste entre la opulencia de la élite de Santiago beneficiada por las divisas salitreras y la postración social de las masas populares, sumidas en analfabetismo, vicios y nulas condiciones básicas de vida. -->
-- [ ] B) La completa desaparición de toda la producción de trigo de exportación del sur de Chile por culpa de los inmigrantes alemanes.
+- [ ] A) La completa desaparición de toda la producción de trigo de exportación del sur de Chile por culpa de los inmigrantes alemanes.
   <!-- feedback: Incorrecto. Los inmigrantes alemanes aumentaron y consolidaron la producción agraria cerealera del sur chilenos. -->
-- [ ] C) El fin del monopolio de la Iglesia Católica debido a la imposición forzosa de la teología evangélica metodista.
+- [ ] B) El fin del monopolio de la Iglesia Católica debido a la imposición forzosa de la teología evangélica metodista.
   <!-- feedback: Incorrecto. No se impusieron cultos obligatorios, la crisis era de cohesión social, pobreza y desigualdad estructural. -->
-- [ ] D) La necesidad de ceder el Estrecho de Magallanes para anular la deuda externa chilena con el Banco de Londres.
+- [ ] C) La necesidad de ceder el Estrecho de Magallanes para anular la deuda externa chilena con el Banco de Londres.
   <!-- feedback: Incorrecto. No se planteó vender o enajenar territorio nacional austral clave por motivos de deuda. -->
 
 ### Explicacion Pedagogica
@@ -488,9 +488,9 @@ A la luz del desarrollo histórico comparado, ¿cuál fue la principal omisión 
 ### Opciones
 - [ ] A) El exceso de impuestos cobrados por el Estado a los capitalistas ingleses que operaban en los puertos del norte.
   <!-- feedback: Incorrecto. Los impuestos al salitre eran moderados y el capital inglés obtenía inmensas tasas de rentabilidad sin contratiempos fiscales internos. -->
-- [x] B) La nula reinversión estatal de las divisas salitreras en un sistema público sólido de salud, educación industrial de calidad e infraestructura habitacional para la mano de obra.
+- [x] C) La nula reinversión estatal de las divisas salitreras en un sistema público sólido de salud, educación industrial de calidad e infraestructura habitacional para la mano de obra.
   <!-- feedback: Correcto. El fisco chileno recibió gigantescos flujos de riqueza pero prefirió financiar obras públicas suntuarias y una vasta burocracia civil, omitiendo crear un sistema de previsión y bienestar social integral. Ello postergó el desarrollo intelectual y la salud de la clase trabajadora que sostenía la producción nacional. -->
-- [ ] C) La prohibición legal decretada por el Congreso para exportar cobre refinado a Europa.
+- [ ] B) La prohibición legal decretada por el Congreso para exportar cobre refinado a Europa.
   <!-- feedback: Incorrecto. El cobre y otros minerales continuaban su curso de exportación libre sin prohibiciones gubernamentales. -->
 - [ ] D) La entrega de la totalidad del presupuesto fiscal a las familias indígenas de la Patagonia.
   <!-- feedback: Incorrecto. Los pueblos originarios del sur estaban totalmente marginados y no recibían presupuesto de Santiago. -->

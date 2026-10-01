@@ -33,13 +33,13 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Qué tipos de interacciones químicas estabilizan la unión específica entre las bases nitrogenadas complementarias de ambas hebras de ADN?
 
 ### Opciones
-- [x] A) Puentes de hidrógeno específicos entre los grupos amino y carbonilo de las bases nitrogenadas.
+- [x] D) Puentes de hidrógeno específicos entre los grupos amino y carbonilo de las bases nitrogenadas.
   <!-- feedback: Correcto. Se forman 2 puentes de hidrógeno entre Adenina y Timina, y 3 puentes de hidrógeno entre Citosina y Guanina. -->
-- [ ] B) Enlaces fosfodiéster covalentes de alta energía libre.
+- [ ] A) Enlaces fosfodiéster covalentes de alta energía libre.
   <!-- feedback: Incorrecto. Los enlaces fosfodiéster unen covalentemente los nucleótidos a lo largo de una misma hebra de azúcar-fosfato. -->
-- [ ] C) Interacciones iónicas dependientes de iones de magnesio libres.
+- [ ] B) Interacciones iónicas dependientes de iones de magnesio libres.
   <!-- feedback: Incorrecto. Los iones metálicos estabilizan cargas pero no son responsables de la complementariedad de bases. -->
-- [ ] D) Fuerzas electrostáticas repulsivas entre los extremos de fosfato polar.
+- [ ] C) Fuerzas electrostáticas repulsivas entre los extremos de fosfato polar.
   <!-- feedback: Incorrecto. Las cargas negativas de los grupos fosfato se repelen, requiriendo solvente para mantener la estructura celular. -->
 
 ### Explicación Pedagógica
@@ -56,11 +56,11 @@ La especificidad de los puentes de hidrógeno es el fundamento molecular de la r
 ¿Qué demostró el histórico experimento de Meselson y Stahl utilizando isótopos pesados y livianos de nitrógeno ($^{15}N$ y $^{14}N$)?
 
 ### Opciones
-- [x] A) La replicación del ADN ocurre mediante un mecanismo semiconservativo, conservando cada hebra molde.
+- [x] C) La replicación del ADN ocurre mediante un mecanismo semiconservativo, conservando cada hebra molde.
   <!-- feedback: Correcto. Demostraron que cada doble hélice hija consta de una hebra madre parental original y una hebra de nueva síntesis. -->
-- [ ] B) El ADN se duplica de manera dispersiva fragmentándose y uniendo trozos nuevos aleatorios.
+- [ ] A) El ADN se duplica de manera dispersiva fragmentándose y uniendo trozos nuevos aleatorios.
   <!-- feedback: Incorrecto. El modelo dispersivo sugería parches mezclados en ambas hebras, hipótesis descartada por el experimento. -->
-- [ ] C) La síntesis de proteínas ocurre directamente en los ribosomas acoplados a lisosomas.
+- [ ] B) La síntesis de proteínas ocurre directamente en los ribosomas acoplados a lisosomas.
   <!-- feedback: Incorrecto. Su estudio investigó la replicación nucleica del ADN, no la síntesis de polipéptidos. -->
 - [ ] D) La replicación ocurre únicamente en células vegetales sin mitocondrias.
   <!-- feedback: Incorrecto. La replicación semiconservativa es un proceso universal de la vida, presente en todos los taxones celulares. -->
@@ -125,13 +125,13 @@ La síntesis discontinua produce fragmentos de Okazaki que posteriormente se sel
 ¿Qué tipos de interacciones químicas estabilizan la unión específica entre las bases nitrogenadas complementarias de ambas hebras de ADN?
 
 ### Opciones
-- [x] A) Puentes de hidrógeno específicos entre los grupos amino y carbonilo de las bases nitrogenadas.
+- [x] D) Puentes de hidrógeno específicos entre los grupos amino y carbonilo de las bases nitrogenadas.
   <!-- feedback: Correcto. Se forman 2 puentes de hidrógeno entre Adenina y Timina, y 3 puentes de hidrógeno entre Citosina y Guanina. -->
-- [ ] B) Enlaces fosfodiéster covalentes de alta energía libre.
+- [ ] A) Enlaces fosfodiéster covalentes de alta energía libre.
   <!-- feedback: Incorrecto. Los enlaces fosfodiéster unen covalentemente los nucleótidos a lo largo de una misma hebra de azúcar-fosfato. -->
-- [ ] C) Interacciones iónicas dependientes de iones de magnesio libres.
+- [ ] B) Interacciones iónicas dependientes de iones de magnesio libres.
   <!-- feedback: Incorrecto. Los iones metálicos estabilizan cargas pero no son responsables de la complementariedad de bases. -->
-- [ ] D) Fuerzas electrostáticas repulsivas entre los extremos de fosfato polar.
+- [ ] C) Fuerzas electrostáticas repulsivas entre los extremos de fosfato polar.
   <!-- feedback: Incorrecto. Las cargas negativas de los grupos fosfato se repelen, requiriendo solvente para mantener la estructura celular. -->
 
 ### Explicación Pedagógica
@@ -148,13 +148,13 @@ La especificidad de los puentes de hidrógeno es el fundamento molecular de la r
 ¿Qué demostró el histórico experimento de Meselson y Stahl utilizando isótopos pesados y livianos de nitrógeno ($^{15}N$ y $^{14}N$)?
 
 ### Opciones
-- [x] A) La replicación del ADN ocurre mediante un mecanismo semiconservativo, conservando cada hebra molde.
+- [x] D) La replicación del ADN ocurre mediante un mecanismo semiconservativo, conservando cada hebra molde.
   <!-- feedback: Correcto. Demostraron que cada doble hélice hija consta de una hebra madre parental original y una hebra de nueva síntesis. -->
-- [ ] B) El ADN se duplica de manera dispersiva fragmentándose y uniendo trozos nuevos aleatorios.
+- [ ] A) El ADN se duplica de manera dispersiva fragmentándose y uniendo trozos nuevos aleatorios.
   <!-- feedback: Incorrecto. El modelo dispersivo sugería parches mezclados en ambas hebras, hipótesis descartada por el experimento. -->
-- [ ] C) La síntesis de proteínas ocurre directamente en los ribosomas acoplados a lisosomas.
+- [ ] B) La síntesis de proteínas ocurre directamente en los ribosomas acoplados a lisosomas.
   <!-- feedback: Incorrecto. Su estudio investigó la replicación nucleica del ADN, no la síntesis de polipéptidos. -->
-- [ ] D) La replicación ocurre únicamente en células vegetales sin mitocondrias.
+- [ ] C) La replicación ocurre únicamente en células vegetales sin mitocondrias.
   <!-- feedback: Incorrecto. La replicación semiconservativa es un proceso universal de la vida, presente en todos los taxones celulares. -->
 
 ### Explicación Pedagógica
@@ -171,9 +171,9 @@ La modelo semiconservativo propuesto por Watson y Crick fue validado físicament
 ¿Cuál es la función específica de la enzima helicasa durante el inicio de la replicación del ADN?
 
 ### Opciones
-- [x] A) Romper los puentes de hidrógeno entre las bases nitrogenadas para separar la doble hélice.
+- [x] B) Romper los puentes de hidrógeno entre las bases nitrogenadas para separar la doble hélice.
   <!-- feedback: Correcto. La helicasa cataliza la apertura de la doble hélice consumiendo ATP, formando la horquilla de replicación. -->
-- [ ] B) Sintetizar un fragmento corto de ARN cebador para dar inicio a la copia.
+- [ ] A) Sintetizar un fragmento corto de ARN cebador para dar inicio a la copia.
   <!-- feedback: Incorrecto. Esta actividad corresponde a la ARN primasa, encargada de generar el cebador (primer). -->
 - [ ] C) Unir covalentemente los fragmentos de Okazaki en la hebra discontinua.
   <!-- feedback: Incorrecto. La unión de los fragmentos de Okazaki es realizada por la enzima ADN ligasa. -->
@@ -194,11 +194,11 @@ La separación de las hebras por la helicasa genera tensión torsional que es al
 ¿Por qué la síntesis de la hebra rezagada (discontinua) ocurre mediante fragmentos de Okazaki?
 
 ### Opciones
-- [x] A) La ADN polimerasa solo puede sintetizar en dirección 5' a 3', requiriendo múltiples cebadores a medida que avanza la horquilla.
+- [x] C) La ADN polimerasa solo puede sintetizar en dirección 5' a 3', requiriendo múltiples cebadores a medida que avanza la horquilla.
   <!-- feedback: Correcto. Debido a que las hebras son antiparalelas y la polimerasa agrega nucleótidos solo al extremo 3'-OH libre. -->
-- [ ] B) La hebra molde rezagada carece de bases púricas de adenina indispensables.
+- [ ] A) La hebra molde rezagada carece de bases púricas de adenina indispensables.
   <!-- feedback: Incorrecto. Ambas hebras molde contienen las mismas proporciones de nucleótidos complementarios normales. -->
-- [ ] C) Las enzimas nucleasas destruyen continuamente las uniones de la hebra de origen paterno.
+- [ ] B) Las enzimas nucleasas destruyen continuamente las uniones de la hebra de origen paterno.
   <!-- feedback: Incorrecto. Las nucleasas actúan en reparación de ADN dañado o degradación de ácidos nucleicos foráneos. -->
 - [ ] D) El núcleo celular impide el transporte de azúcares ribosa en dirección retrógrada.
   <!-- feedback: Incorrecto. La replicación ocurre in situ dentro de la matriz nuclear de forma de forma directa. -->
@@ -240,11 +240,11 @@ La especificidad de los puentes de hidrógeno es el fundamento molecular de la r
 ¿Qué demostró el histórico experimento de Meselson y Stahl utilizando isótopos pesados y livianos de nitrógeno ($^{15}N$ y $^{14}N$)?
 
 ### Opciones
-- [x] A) La replicación del ADN ocurre mediante un mecanismo semiconservativo, conservando cada hebra molde.
+- [x] C) La replicación del ADN ocurre mediante un mecanismo semiconservativo, conservando cada hebra molde.
   <!-- feedback: Correcto. Demostraron que cada doble hélice hija consta de una hebra madre parental original y una hebra de nueva síntesis. -->
-- [ ] B) El ADN se duplica de manera dispersiva fragmentándose y uniendo trozos nuevos aleatorios.
+- [ ] A) El ADN se duplica de manera dispersiva fragmentándose y uniendo trozos nuevos aleatorios.
   <!-- feedback: Incorrecto. El modelo dispersivo sugería parches mezclados en ambas hebras, hipótesis descartada por el experimento. -->
-- [ ] C) La síntesis de proteínas ocurre directamente en los ribosomas acoplados a lisosomas.
+- [ ] B) La síntesis de proteínas ocurre directamente en los ribosomas acoplados a lisosomas.
   <!-- feedback: Incorrecto. Su estudio investigó la replicación nucleica del ADN, no la síntesis de polipéptidos. -->
 - [ ] D) La replicación ocurre únicamente en células vegetales sin mitocondrias.
   <!-- feedback: Incorrecto. La replicación semiconservativa es un proceso universal de la vida, presente en todos los taxones celulares. -->
@@ -263,9 +263,9 @@ La modelo semiconservativo propuesto por Watson y Crick fue validado físicament
 ¿Cuál es la función específica de la enzima helicasa durante el inicio de la replicación del ADN?
 
 ### Opciones
-- [x] A) Romper los puentes de hidrógeno entre las bases nitrogenadas para separar la doble hélice.
+- [x] B) Romper los puentes de hidrógeno entre las bases nitrogenadas para separar la doble hélice.
   <!-- feedback: Correcto. La helicasa cataliza la apertura de la doble hélice consumiendo ATP, formando la horquilla de replicación. -->
-- [ ] B) Sintetizar un fragmento corto de ARN cebador para dar inicio a la copia.
+- [ ] A) Sintetizar un fragmento corto de ARN cebador para dar inicio a la copia.
   <!-- feedback: Incorrecto. Esta actividad corresponde a la ARN primasa, encargada de generar el cebador (primer). -->
 - [ ] C) Unir covalentemente los fragmentos de Okazaki en la hebra discontinua.
   <!-- feedback: Incorrecto. La unión de los fragmentos de Okazaki es realizada por la enzima ADN ligasa. -->
@@ -309,13 +309,13 @@ La síntesis discontinua produce fragmentos de Okazaki que posteriormente se sel
 ¿Qué tipos de interacciones químicas estabilizan la unión específica entre las bases nitrogenadas complementarias de ambas hebras de ADN?
 
 ### Opciones
-- [x] A) Puentes de hidrógeno específicos entre los grupos amino y carbonilo de las bases nitrogenadas.
+- [x] D) Puentes de hidrógeno específicos entre los grupos amino y carbonilo de las bases nitrogenadas.
   <!-- feedback: Correcto. Se forman 2 puentes de hidrógeno entre Adenina y Timina, y 3 puentes de hidrógeno entre Citosina y Guanina. -->
-- [ ] B) Enlaces fosfodiéster covalentes de alta energía libre.
+- [ ] A) Enlaces fosfodiéster covalentes de alta energía libre.
   <!-- feedback: Incorrecto. Los enlaces fosfodiéster unen covalentemente los nucleótidos a lo largo de una misma hebra de azúcar-fosfato. -->
-- [ ] C) Interacciones iónicas dependientes de iones de magnesio libres.
+- [ ] B) Interacciones iónicas dependientes de iones de magnesio libres.
   <!-- feedback: Incorrecto. Los iones metálicos estabilizan cargas pero no son responsables de la complementariedad de bases. -->
-- [ ] D) Fuerzas electrostáticas repulsivas entre los extremos de fosfato polar.
+- [ ] C) Fuerzas electrostáticas repulsivas entre los extremos de fosfato polar.
   <!-- feedback: Incorrecto. Las cargas negativas de los grupos fosfato se repelen, requiriendo solvente para mantener la estructura celular. -->
 
 ### Explicación Pedagógica
@@ -332,9 +332,9 @@ La especificidad de los puentes de hidrógeno es el fundamento molecular de la r
 ¿Qué demostró el histórico experimento de Meselson y Stahl utilizando isótopos pesados y livianos de nitrógeno ($^{15}N$ y $^{14}N$)?
 
 ### Opciones
-- [x] A) La replicación del ADN ocurre mediante un mecanismo semiconservativo, conservando cada hebra molde.
+- [x] B) La replicación del ADN ocurre mediante un mecanismo semiconservativo, conservando cada hebra molde.
   <!-- feedback: Correcto. Demostraron que cada doble hélice hija consta de una hebra madre parental original y una hebra de nueva síntesis. -->
-- [ ] B) El ADN se duplica de manera dispersiva fragmentándose y uniendo trozos nuevos aleatorios.
+- [ ] A) El ADN se duplica de manera dispersiva fragmentándose y uniendo trozos nuevos aleatorios.
   <!-- feedback: Incorrecto. El modelo dispersivo sugería parches mezclados en ambas hebras, hipótesis descartada por el experimento. -->
 - [ ] C) La síntesis de proteínas ocurre directamente en los ribosomas acoplados a lisosomas.
   <!-- feedback: Incorrecto. Su estudio investigó la replicación nucleica del ADN, no la síntesis de polipéptidos. -->
@@ -355,13 +355,13 @@ La modelo semiconservativo propuesto por Watson y Crick fue validado físicament
 ¿Cuál es la función específica de la enzima helicasa durante el inicio de la replicación del ADN?
 
 ### Opciones
-- [x] A) Romper los puentes de hidrógeno entre las bases nitrogenadas para separar la doble hélice.
+- [x] D) Romper los puentes de hidrógeno entre las bases nitrogenadas para separar la doble hélice.
   <!-- feedback: Correcto. La helicasa cataliza la apertura de la doble hélice consumiendo ATP, formando la horquilla de replicación. -->
-- [ ] B) Sintetizar un fragmento corto de ARN cebador para dar inicio a la copia.
+- [ ] A) Sintetizar un fragmento corto de ARN cebador para dar inicio a la copia.
   <!-- feedback: Incorrecto. Esta actividad corresponde a la ARN primasa, encargada de generar el cebador (primer). -->
-- [ ] C) Unir covalentemente los fragmentos de Okazaki en la hebra discontinua.
+- [ ] B) Unir covalentemente los fragmentos de Okazaki en la hebra discontinua.
   <!-- feedback: Incorrecto. La unión de los fragmentos de Okazaki es realizada por la enzima ADN ligasa. -->
-- [ ] D) Corregir los errores de emparejamiento removiendo bases incorrectas.
+- [ ] C) Corregir los errores de emparejamiento removiendo bases incorrectas.
   <!-- feedback: Incorrecto. La corrección y síntesis de ADN es función de las polimerasas de replicación y reparación. -->
 
 ### Explicación Pedagógica
@@ -401,11 +401,11 @@ La síntesis discontinua produce fragmentos de Okazaki que posteriormente se sel
 ¿Qué tipos de interacciones químicas estabilizan la unión específica entre las bases nitrogenadas complementarias de ambas hebras de ADN?
 
 ### Opciones
-- [x] A) Puentes de hidrógeno específicos entre los grupos amino y carbonilo de las bases nitrogenadas.
+- [x] C) Puentes de hidrógeno específicos entre los grupos amino y carbonilo de las bases nitrogenadas.
   <!-- feedback: Correcto. Se forman 2 puentes de hidrógeno entre Adenina y Timina, y 3 puentes de hidrógeno entre Citosina y Guanina. -->
-- [ ] B) Enlaces fosfodiéster covalentes de alta energía libre.
+- [ ] A) Enlaces fosfodiéster covalentes de alta energía libre.
   <!-- feedback: Incorrecto. Los enlaces fosfodiéster unen covalentemente los nucleótidos a lo largo de una misma hebra de azúcar-fosfato. -->
-- [ ] C) Interacciones iónicas dependientes de iones de magnesio libres.
+- [ ] B) Interacciones iónicas dependientes de iones de magnesio libres.
   <!-- feedback: Incorrecto. Los iones metálicos estabilizan cargas pero no son responsables de la complementariedad de bases. -->
 - [ ] D) Fuerzas electrostáticas repulsivas entre los extremos de fosfato polar.
   <!-- feedback: Incorrecto. Las cargas negativas de los grupos fosfato se repelen, requiriendo solvente para mantener la estructura celular. -->
@@ -424,11 +424,11 @@ La especificidad de los puentes de hidrógeno es el fundamento molecular de la r
 ¿Qué demostró el histórico experimento de Meselson y Stahl utilizando isótopos pesados y livianos de nitrógeno ($^{15}N$ y $^{14}N$)?
 
 ### Opciones
-- [x] A) La replicación del ADN ocurre mediante un mecanismo semiconservativo, conservando cada hebra molde.
+- [x] C) La replicación del ADN ocurre mediante un mecanismo semiconservativo, conservando cada hebra molde.
   <!-- feedback: Correcto. Demostraron que cada doble hélice hija consta de una hebra madre parental original y una hebra de nueva síntesis. -->
-- [ ] B) El ADN se duplica de manera dispersiva fragmentándose y uniendo trozos nuevos aleatorios.
+- [ ] A) El ADN se duplica de manera dispersiva fragmentándose y uniendo trozos nuevos aleatorios.
   <!-- feedback: Incorrecto. El modelo dispersivo sugería parches mezclados en ambas hebras, hipótesis descartada por el experimento. -->
-- [ ] C) La síntesis de proteínas ocurre directamente en los ribosomas acoplados a lisosomas.
+- [ ] B) La síntesis de proteínas ocurre directamente en los ribosomas acoplados a lisosomas.
   <!-- feedback: Incorrecto. Su estudio investigó la replicación nucleica del ADN, no la síntesis de polipéptidos. -->
 - [ ] D) La replicación ocurre únicamente en células vegetales sin mitocondrias.
   <!-- feedback: Incorrecto. La replicación semiconservativa es un proceso universal de la vida, presente en todos los taxones celulares. -->
@@ -447,9 +447,9 @@ La modelo semiconservativo propuesto por Watson y Crick fue validado físicament
 ¿Cuál es la función específica de la enzima helicasa durante el inicio de la replicación del ADN?
 
 ### Opciones
-- [x] A) Romper los puentes de hidrógeno entre las bases nitrogenadas para separar la doble hélice.
+- [x] B) Romper los puentes de hidrógeno entre las bases nitrogenadas para separar la doble hélice.
   <!-- feedback: Correcto. La helicasa cataliza la apertura de la doble hélice consumiendo ATP, formando la horquilla de replicación. -->
-- [ ] B) Sintetizar un fragmento corto de ARN cebador para dar inicio a la copia.
+- [ ] A) Sintetizar un fragmento corto de ARN cebador para dar inicio a la copia.
   <!-- feedback: Incorrecto. Esta actividad corresponde a la ARN primasa, encargada de generar el cebador (primer). -->
 - [ ] C) Unir covalentemente los fragmentos de Okazaki en la hebra discontinua.
   <!-- feedback: Incorrecto. La unión de los fragmentos de Okazaki es realizada por la enzima ADN ligasa. -->
@@ -470,11 +470,11 @@ La separación de las hebras por la helicasa genera tensión torsional que es al
 ¿Por qué la síntesis de la hebra rezagada (discontinua) ocurre mediante fragmentos de Okazaki?
 
 ### Opciones
-- [x] A) La ADN polimerasa solo puede sintetizar en dirección 5' a 3', requiriendo múltiples cebadores a medida que avanza la horquilla.
+- [x] C) La ADN polimerasa solo puede sintetizar en dirección 5' a 3', requiriendo múltiples cebadores a medida que avanza la horquilla.
   <!-- feedback: Correcto. Debido a que las hebras son antiparalelas y la polimerasa agrega nucleótidos solo al extremo 3'-OH libre. -->
-- [ ] B) La hebra molde rezagada carece de bases púricas de adenina indispensables.
+- [ ] A) La hebra molde rezagada carece de bases púricas de adenina indispensables.
   <!-- feedback: Incorrecto. Ambas hebras molde contienen las mismas proporciones de nucleótidos complementarios normales. -->
-- [ ] C) Las enzimas nucleasas destruyen continuamente las uniones de la hebra de origen paterno.
+- [ ] B) Las enzimas nucleasas destruyen continuamente las uniones de la hebra de origen paterno.
   <!-- feedback: Incorrecto. Las nucleasas actúan en reparación de ADN dañado o degradación de ácidos nucleicos foráneos. -->
 - [ ] D) El núcleo celular impide el transporte de azúcares ribosa en dirección retrógrada.
   <!-- feedback: Incorrecto. La replicación ocurre in situ dentro de la matriz nuclear de forma de forma directa. -->

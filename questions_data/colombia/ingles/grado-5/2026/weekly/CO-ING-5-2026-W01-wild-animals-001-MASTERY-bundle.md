@@ -103,13 +103,13 @@ Subject-verb agreement in the Simple Present tense with plural nouns (Eagles hav
 Why do giraffes have long necks according to the context?
 
 ### Opciones
-- [x] A) To reach and eat leaves from tall trees.
+- [x] D) To reach and eat leaves from tall trees.
   <!-- feedback: Their long necks allow them to reach high branches easily. -->
-- [ ] B) To swim fast across deep rivers.
+- [ ] A) To swim fast across deep rivers.
   <!-- feedback: Giraffes do not use their necks for swimming. -->
-- [ ] C) To sleep underground during the night.
+- [ ] B) To sleep underground during the night.
   <!-- feedback: Giraffes are large surface animals and do not live underground. -->
-- [ ] D) To catch small fish in the sea.
+- [ ] C) To catch small fish in the sea.
   <!-- feedback: Giraffes are herbivores that eat leaves, not fish. -->
 
 ### Explicacion Pedagogica
@@ -126,13 +126,13 @@ Extracting specific information from a short descriptive text in English.
 Choose the correct question to ask about an animal's diet: "What _____ pink river dolphins eat?"
 
 ### Opciones
-- [x] A) do.
+- [x] D) do.
   <!-- feedback: "Do" is the correct auxiliary verb for plural subjects like "pink river dolphins". -->
-- [ ] B) does.
+- [ ] A) does.
   <!-- feedback: "Does" is used with third-person singular subjects (he, she, it). -->
-- [ ] C) is.
+- [ ] B) is.
   <!-- feedback: "Is" is not the auxiliary verb for simple present action questions. -->
-- [ ] D) are.
+- [ ] C) are.
   <!-- feedback: "Are" would require a present continuous verb (-ing form). -->
 
 ### Explicacion Pedagogica
@@ -149,9 +149,9 @@ Forming questions in the Simple Present tense using the auxiliary verb "do".
 What does the word "hibernation" mean in this passage?
 
 ### Opciones
-- [x] A) A long sleep during the winter season.
+- [x] B) A long sleep during the winter season.
   <!-- feedback: The passage explicitly defines hibernation as a long winter sleep. -->
-- [ ] B) Running fast across open green fields.
+- [ ] A) Running fast across open green fields.
   <!-- feedback: Bears rest during hibernation rather than running around. -->
 - [ ] C) Hunting for food in the river.
   <!-- feedback: Bears do not hunt during hibernation because they do not eat. -->
@@ -172,11 +172,11 @@ Inferring word meaning from context in simple English reading passages.
 Which sentence correctly compares the speed of these two animals?
 
 ### Opciones
-- [x] A) Cheetahs are faster than turtles.
+- [x] C) Cheetahs are faster than turtles.
   <!-- feedback: The comparative form "faster than" correctly compares cheetahs and turtles. -->
-- [ ] B) Turtles are faster than cheetahs.
+- [ ] A) Turtles are faster than cheetahs.
   <!-- feedback: Incorrect because turtles move slowly while cheetahs run fast. -->
-- [ ] C) Cheetahs are slower than turtles.
+- [ ] B) Cheetahs are slower than turtles.
   <!-- feedback: Incorrect meaning for the comparative "slower than". -->
 - [ ] D) Cheetahs is fast than turtles.
   <!-- feedback: Grammatically incorrect structure for comparative adjectives. -->
@@ -195,13 +195,13 @@ Using comparative adjectives (-er than) to compare animal traits in English.
 What is the main message and purpose of this poster?
 
 ### Opciones
-- [x] A) To raise awareness about protecting spectacled bears and their forest habitat.
+- [x] D) To raise awareness about protecting spectacled bears and their forest habitat.
   <!-- feedback: The text highlights habitat loss and calls for protecting their forest home. -->
-- [ ] B) To encourage people to keep wild spectacled bears as pets at home.
+- [ ] A) To encourage people to keep wild spectacled bears as pets at home.
   <!-- feedback: Wild bears cannot be domestic pets; the poster urges protecting their wild habitat. -->
-- [ ] C) To invite tourists to cut down trees in the cloud forest.
+- [ ] B) To invite tourists to cut down trees in the cloud forest.
   <!-- feedback: Deforestation is identified as a threat, not something to encourage. -->
-- [ ] D) To explain how to buy bear fur coats in city markets.
+- [ ] C) To explain how to buy bear fur coats in city markets.
   <!-- feedback: The poster advocates conservation, not commercial hunting. -->
 
 ### Explicacion Pedagogica

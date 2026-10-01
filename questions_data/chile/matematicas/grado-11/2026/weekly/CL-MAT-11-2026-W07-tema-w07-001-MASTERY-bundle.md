@@ -49,8 +49,8 @@ Un intervalo semiabierto $[a, b)$ incluye al extremo inferior $a$ (cerrado) y ex
 ¿Qué sucede con el sentido de una desigualdad si se multiplican ambos lados por un número negativo?
 
 ### Opciones
-- [ ] A) Se mantiene igual. <!-- feedback: Solo se mantiene si el número multiplicador es positivo. -->
-- [x] B) Cambia al sentido opuesto. <!-- feedback: Correcto, es una propiedad fundamental de las inecuaciones. -->
+- [ ] B) Se mantiene igual. <!-- feedback: Solo se mantiene si el número multiplicador es positivo. -->
+- [x] A) Cambia al sentido opuesto. <!-- feedback: Correcto, es una propiedad fundamental de las inecuaciones. -->
 - [ ] C) La desigualdad se convierte en una igualdad. <!-- feedback: Multiplicar por un número distinto de cero no altera la naturaleza de la relación. -->
 - [ ] D) El resultado es siempre positivo. <!-- feedback: El signo del resultado depende de los valores originales. -->
 
@@ -69,9 +69,9 @@ Resuelva la inecuación: $x + 7 > 15$
 
 ### Opciones
 - [ ] A) $x < 8$ <!-- feedback: Restaste mal o invertiste el signo de la desigualdad sin motivo. -->
-- [x] B) $x > 8$ <!-- feedback: $x > 15 - 7 \Rightarrow x > 8$. -->
-- [ ] C) $x > 22$ <!-- feedback: Sumaste 7 en lugar de restarlo para despejar la incógnita. -->
-- [ ] D) $x \geq 8$ <!-- feedback: El símbolo original es "estrictamente mayor", no permite la igualdad. -->
+- [x] D) $x > 8$ <!-- feedback: $x > 15 - 7 \Rightarrow x > 8$. -->
+- [ ] B) $x > 22$ <!-- feedback: Sumaste 7 en lugar de restarlo para despejar la incógnita. -->
+- [ ] C) $x \geq 8$ <!-- feedback: El símbolo original es "estrictamente mayor", no permite la igualdad. -->
 
 ### Explicacion Pedagogica
 Para resolver $x + 7 > 15$, aplicamos la operación inversa a la suma: restamos 7 en ambos lados. $x > 15 - 7$, lo cual resulta en $x > 8$. La solución son todos los reales mayores a 8.
@@ -107,9 +107,9 @@ Resuelva la inecuación: $-2x \leq 10$
 
 ### Opciones
 - [ ] A) $x \leq -5$ <!-- feedback: Olvidaste invertir el sentido de la desigualdad al dividir por negativo. -->
-- [x] B) $x \geq -5$ <!-- feedback: Al dividir por -2, el sentido cambia obligatoriamente: $x \geq 10 / (-2)$. -->
-- [ ] C) $x \geq 5$ <!-- feedback: Cometiste un error en el signo del resultado numérico final. -->
-- [ ] D) $x < -5$ <!-- feedback: El símbolo resultante debe mantener el componente de igualdad de la expresión original. -->
+- [x] D) $x \geq -5$ <!-- feedback: Al dividir por -2, el sentido cambia obligatoriamente: $x \geq 10 / (-2)$. -->
+- [ ] B) $x \geq 5$ <!-- feedback: Cometiste un error en el signo del resultado numérico final. -->
+- [ ] C) $x < -5$ <!-- feedback: El símbolo resultante debe mantener el componente de igualdad de la expresión original. -->
 
 ### Explicacion Pedagogica
 Partimos de $-2x \leq 10$. Dividimos ambos lados por $-2$. Como la cantidad es negativa, el sentido de la desigualdad cambia de $\leq$ a $\geq$. Por lo tanto, $x \geq -5$.
@@ -126,8 +126,8 @@ Nicolás tiene \$30.000 para gastar en entradas de cine que cuestan \$4.500 cada
 
 ### Opciones
 - [ ] A) $4.500x > 30.000$ <!-- feedback: Nicolás no tiene permitido gastar más dinero del que dispone. -->
-- [x] B) $4.500x \leq 30.000$ <!-- feedback: El gasto total acumulado debe ser menor o igual al presupuesto total. -->
-- [ ] C) $4.500/x \leq 30.000$ <!-- feedback: La relación matemática entre precio unitario y cantidad es multiplicativa. -->
+- [x] C) $4.500x \leq 30.000$ <!-- feedback: El gasto total acumulado debe ser menor o igual al presupuesto total. -->
+- [ ] B) $4.500/x \leq 30.000$ <!-- feedback: La relación matemática entre precio unitario y cantidad es multiplicativa. -->
 - [ ] D) $x + 4.500 \leq 30.000$ <!-- feedback: Representación algebraica incorrecta del costo de múltiples entradas. -->
 
 ### Explicacion Pedagogica
@@ -145,9 +145,9 @@ Si el conductor pesa $80 \text{ kg}$ y lleva cajas de $25 \text{ kg}$ cada una, 
 
 ### Opciones
 - [ ] A) 20 cajas <!-- feedback: El peso total sería 580 kg, lo cual excede el límite permitido. -->
-- [x] B) 16 cajas <!-- feedback: El peso es 480 kg. Agregar una caja más excedería el límite de 500 kg. -->
-- [ ] C) 18 cajas <!-- feedback: El peso total sería 530 kg, superando la capacidad del furgón. -->
-- [ ] D) 15 cajas <!-- feedback: Aunque el peso cumple, existe la posibilidad de llevar una caja adicional. -->
+- [x] D) 16 cajas <!-- feedback: El peso es 480 kg. Agregar una caja más excedería el límite de 500 kg. -->
+- [ ] B) 18 cajas <!-- feedback: El peso total sería 530 kg, superando la capacidad del furgón. -->
+- [ ] C) 15 cajas <!-- feedback: Aunque el peso cumple, existe la posibilidad de llevar una caja adicional. -->
 
 ### Explicacion Pedagogica
 Planteamos $25x + 80 \leq 500$. Restamos 80: $25x \leq 420$. Dividimos por 25: $x \leq 16,8$. Como el número de cajas debe ser entero, el máximo es 16.
@@ -164,9 +164,9 @@ El plan A cobra \$5.000 fijo más \$50 por minuto. El plan B cobra \$2.000 fijo 
 
 ### Opciones
 - [ ] A) Más de 50 minutos. <!-- feedback: A los 50 minutos los planes no se igualan aún en costo total. -->
-- [x] B) Más de 100 minutos. <!-- feedback: $5.000 + 50x < 2.000 + 80x \Rightarrow 3.000 < 30x \Rightarrow 100 < x$. -->
-- [ ] C) Menos de 100 minutos. <!-- feedback: Para consumos bajos el plan B resulta más barato por su menor cargo inicial. -->
-- [ ] D) Exactamente 100 minutos. <!-- feedback: En este punto exacto el costo es el mismo; debe superarlo para ser más barato. -->
+- [x] D) Más de 100 minutos. <!-- feedback: $5.000 + 50x < 2.000 + 80x \Rightarrow 3.000 < 30x \Rightarrow 100 < x$. -->
+- [ ] B) Menos de 100 minutos. <!-- feedback: Para consumos bajos el plan B resulta más barato por su menor cargo inicial. -->
+- [ ] C) Exactamente 100 minutos. <!-- feedback: En este punto exacto el costo es el mismo; debe superarlo para ser más barato. -->
 
 ### Explicacion Pedagogica
 Buscamos $x$ tal que $\text{Costo A} < \text{Costo B}$: $5.000 + 50x < 2.000 + 80x$. Trasponemos términos: $5.000 - 2.000 < 80x - 50x \Rightarrow 3.000 < 30x$. Dividiendo por 30: $100 < x$. El plan A conviene después de los 100 minutos.
@@ -183,8 +183,8 @@ Si Matías obtuvo un 3,8 y un 4,2 en sus dos primeras notas, ¿qué nota mínima
 
 ### Opciones
 - [ ] A) 4,5 <!-- feedback: El promedio total obtenido sería de 4,16, lo cual es insuficiente para aprobar. -->
-- [x] B) 5,5 <!-- feedback: Con esta nota el promedio alcanza exactamente el 4,5 requerido para aprobar. -->
-- [ ] C) 6,0 <!-- feedback: El promedio obtenido sería de 4,66; cumple la condición pero no es la mínima. -->
+- [x] C) 5,5 <!-- feedback: Con esta nota el promedio alcanza exactamente el 4,5 requerido para aprobar. -->
+- [ ] B) 6,0 <!-- feedback: El promedio obtenido sería de 4,66; cumple la condición pero no es la mínima. -->
 - [ ] D) 5,0 <!-- feedback: El promedio resultante sería de 4,33; insuficiente para alcanzar el mínimo de aprobación. -->
 
 ### Explicacion Pedagogica
@@ -202,9 +202,9 @@ Promedio: $(3,8 + 4,2 + x) / 3 \geq 4,5$. Sumamos las notas conocidas: $8,0 + x 
 
 ### Opciones
 - [ ] A) Todos los números reales ($\mathbb{R}$). <!-- feedback: Al sustituir valores la relación de orden resulta siempre falsa. -->
-- [x] B) Conjunto vacío ($\emptyset$). <!-- feedback: Al simplificar la variable $x$ queda $5 < 2$, lo cual es matemáticamente imposible. -->
-- [ ] C) $x < -3$ <!-- feedback: Error algebraico al intentar despejar la variable de la inecuación. -->
-- [ ] D) El valor $x = 0$. <!-- feedback: Incluso para cero la relación 5 < 2 sigue siendo incorrecta. -->
+- [x] D) Conjunto vacío ($\emptyset$). <!-- feedback: Al simplificar la variable $x$ queda $5 < 2$, lo cual es matemáticamente imposible. -->
+- [ ] B) $x < -3$ <!-- feedback: Error algebraico al intentar despejar la variable de la inecuación. -->
+- [ ] C) El valor $x = 0$. <!-- feedback: Incluso para cero la relación 5 < 2 sigue siendo incorrecta. -->
 
 ### Explicacion Pedagogica
 Intentamos despejar $x$ restando $x$ en ambos lados: $x - x + 5 < x - x + 2 \Rightarrow 5 < 2$. Como 5 nunca es menor que 2, no existe ningún valor de $x$ que satisfaga la desigualdad. El conjunto solución es el vacío.
@@ -221,9 +221,9 @@ Intentamos despejar $x$ restando $x$ en ambos lados: $x - x + 5 < x - x + 2 \Rig
 
 ### Opciones
 - [ ] A) $L < 34$ <!-- feedback: No consideraste que el perímetro involucra dos medidas de ancho y dos de largo. -->
-- [x] B) $0 < L < 17$ <!-- feedback: $16 + 2L < 50 \Rightarrow 2L < 34 \Rightarrow L < 17$. El largo debe ser un valor positivo. -->
-- [ ] C) $L < 25$ <!-- feedback: Error al utilizar la fórmula simplificada del perímetro de la figura. -->
-- [ ] D) $17 < L < 50$ <!-- feedback: Realizaste una inversión incorrecta de la relación de la desigualdad. -->
+- [x] D) $0 < L < 17$ <!-- feedback: $16 + 2L < 50 \Rightarrow 2L < 34 \Rightarrow L < 17$. El largo debe ser un valor positivo. -->
+- [ ] B) $L < 25$ <!-- feedback: Error al utilizar la fórmula simplificada del perímetro de la figura. -->
+- [ ] C) $17 < L < 50$ <!-- feedback: Realizaste una inversión incorrecta de la relación de la desigualdad. -->
 
 ### Explicacion Pedagogica
 Fórmula del perímetro: $2 \cdot ancho + 2 \cdot largo < 50$. Sustituimos: $2(8) + 2L < 50 \Rightarrow 16 + 2L < 50$. Despejamos: $2L < 34 \Rightarrow L < 17$. Además, por ser una dimensión física, $L$ debe ser mayor que 0.
@@ -240,9 +240,9 @@ Resuelva: $3(2x - 4) \leq 4x + 8$
 
 ### Opciones
 - [ ] A) $x \geq 10$ <!-- feedback: Error en el sentido final de la desigualdad durante el proceso de división. -->
-- [x] B) $x \leq 10$ <!-- feedback: $6x - 12 \leq 4x + 8 \Rightarrow 2x \leq 20 \Rightarrow x \leq 10$. -->
-- [ ] C) $x \leq 2$ <!-- feedback: Cometiste un error aritmético al sumar o restar los términos constantes. -->
-- [ ] D) $x \leq 4$ <!-- feedback: Olvidaste aplicar la distribución del factor 3 al término constante -4. -->
+- [x] D) $x \leq 10$ <!-- feedback: $6x - 12 \leq 4x + 8 \Rightarrow 2x \leq 20 \Rightarrow x \leq 10$. -->
+- [ ] B) $x \leq 2$ <!-- feedback: Cometiste un error aritmético al sumar o restar los términos constantes. -->
+- [ ] C) $x \leq 4$ <!-- feedback: Olvidaste aplicar la distribución del factor 3 al término constante -4. -->
 
 ### Explicacion Pedagogica
 Distribuimos el 3: $6x - 12 \leq 4x + 8$. Agrupamos las "x" a la izquierda y los números a la derecha: $6x - 4x \leq 8 + 12$, lo que nos da $2x \leq 20$. Al dividir por 2 (positivo, no cambia el signo), obtenemos $x \leq 10$.
@@ -258,8 +258,8 @@ Distribuimos el 3: $6x - 12 \leq 4x + 8$. Agrupamos las "x" a la izquierda y los
 ¿Cuál es el conjunto solución del sistema: $x > 2$ y $x \leq 5$?
 
 ### Opciones
-- [ ] A) $[2, 5]$ <!-- feedback: El extremo inferior 2 no está incluido debido a que el símbolo es estrictamente mayor. -->
-- [x] B) $(2, 5]$ <!-- feedback: Correcto, corresponde a la intersección de los dos intervalos resultantes. -->
+- [ ] B) $[2, 5]$ <!-- feedback: El extremo inferior 2 no está incluido debido a que el símbolo es estrictamente mayor. -->
+- [x] A) $(2, 5]$ <!-- feedback: Correcto, corresponde a la intersección de los dos intervalos resultantes. -->
 - [ ] C) $(2, 5)$ <!-- feedback: El extremo superior 5 debe ser incluido por el símbolo de menor o igual. -->
 - [ ] D) $(-\infty, 5]$ <!-- feedback: Ignoraste por completo la primera restricción del sistema de inecuaciones. -->
 
@@ -278,8 +278,8 @@ Para la inecuación $\frac{5}{x} > 0$, ¿qué valores de $x$ son soluciones?
 
 ### Opciones
 - [ ] A) Todos los reales excepto el 0. <!-- feedback: Si la variable es negativa, el resultado de la fracción será menor a cero. -->
-- [x] B) Solo los reales positivos ($x > 0$). <!-- feedback: El numerador positivo exige un denominador también positivo para mantener el signo. -->
-- [ ] C) Solo los reales negativos ($x < 0$). <!-- feedback: El cociente entre positivo y negativo resultaría en un valor negativo. -->
+- [x] C) Solo los reales positivos ($x > 0$). <!-- feedback: El numerador positivo exige un denominador también positivo para mantener el signo. -->
+- [ ] B) Solo los reales negativos ($x < 0$). <!-- feedback: El cociente entre positivo y negativo resultaría en un valor negativo. -->
 - [ ] D) La inecuación no posee solución real. <!-- feedback: Cualquier valor numérico mayor que cero satisface plenamente la condición. -->
 
 ### Explicacion Pedagogica
@@ -296,8 +296,8 @@ En una fracción $\frac{a}{b} > 0$, el signo de $a$ y $b$ debe ser el mismo. Com
 ¿A qué intervalo equivale la unión de $(-\infty, 4)$ y $[2, 10]$?
 
 ### Opciones
-- [ ] A) $[2, 4)$ <!-- feedback: Este intervalo representa la intersección de los conjuntos, no su unión. -->
-- [x] B) $(-\infty, 10]$ <!-- feedback: La unión abarca la totalidad del rango cubierto por ambos conjuntos combinados. -->
+- [ ] B) $[2, 4)$ <!-- feedback: Este intervalo representa la intersección de los conjuntos, no su unión. -->
+- [x] A) $(-\infty, 10]$ <!-- feedback: La unión abarca la totalidad del rango cubierto por ambos conjuntos combinados. -->
 - [ ] C) $(-\infty, \infty)$ <!-- feedback: La unión de estos conjuntos termina en el valor 10, no prosigue infinitamente. -->
 - [ ] D) $(4, 10]$ <!-- feedback: Omitiste la parte izquierda del intervalo que contiene a los números menores a 4. -->
 
@@ -374,8 +374,8 @@ Factorizamos: $(x-2)(x+2) < 0$. Analizamos los signos: la expresión es negativa
 ### Opciones
 - [ ] A) $x \geq 2$ <!-- feedback: Te faltó considerar el escenario donde tanto numerador como denominador son negativos. -->
 - [ ] B) $x > -3$ <!-- feedback: No todos los valores superiores a -3 satisfacen plenamente la condición dada. -->
-- [x] C) $(-\infty, -3) \cup [2, \infty)$ <!-- feedback: Signos iguales: ambos positivos o ambos negativos garantizan el resultado. -->
-- [ ] D) $(-3, 2]$ <!-- feedback: En este intervalo los signos difieren, resultando en un cociente menor a cero. -->
+- [x] D) $(-\infty, -3) \cup [2, \infty)$ <!-- feedback: Signos iguales: ambos positivos o ambos negativos garantizan el resultado. -->
+- [ ] C) $(-3, 2]$ <!-- feedback: En este intervalo los signos difieren, resultando en un cociente menor a cero. -->
 
 ### Explicacion Pedagogica
 El cociente es $\geq 0$ si numerador y denominador tienen el mismo signo. Caso 1: $x-2 \geq 0$ y $x+3 > 0 \Rightarrow x \geq 2$. Caso 2: $x-2 \leq 0$ y $x+3 < 0 \Rightarrow x < -3$. Unión: $(-\infty, -3) \cup [2, \infty)$. Nota: $x=-3$ se excluye por el denominador.
@@ -391,8 +391,8 @@ El cociente es $\geq 0$ si numerador y denominador tienen el mismo signo. Caso 1
 ¿Cuántos números enteros satisfacen simultáneamente $2x - 3 < 10$ y $x + 4 > 8$?
 
 ### Opciones
-- [ ] A) Solo un número entero. <!-- feedback: Existen más valores dentro del rango de solución que cumplen la condición. -->
-- [x] B) Exactamente dos números enteros. <!-- feedback: Los valores 5 y 6 son los únicos enteros que se encuentran en el intervalo. -->
+- [ ] B) Solo un número entero. <!-- feedback: Existen más valores dentro del rango de solución que cumplen la condición. -->
+- [x] A) Exactamente dos números enteros. <!-- feedback: Los valores 5 y 6 son los únicos enteros que se encuentran en el intervalo. -->
 - [ ] C) Tres números enteros. <!-- feedback: Los extremos del intervalo de solución no son enteros o no están incluidos. -->
 - [ ] D) Una cantidad infinita de enteros. <!-- feedback: Aunque hay infinitos reales, los enteros en un rango acotado son finitos. -->
 

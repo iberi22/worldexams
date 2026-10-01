@@ -34,13 +34,13 @@ Redondeo de números a la decena, la centena y el millar, estimación de sumas y
 ¿Cuál es el número 47 redondeado a la decena más cercana?
 
 ### Opciones
-- [x] A) 50
+- [x] D) 50
   <!-- feedback: El 47 está más cerca de 50 que de 40, por eso se redondea a 50. -->
-- [ ] B) 40
+- [ ] A) 40
   <!-- feedback: El 47 está más cerca de 50; 40 quedaría para números como 42 o 43. -->
-- [ ] C) 48
+- [ ] B) 48
   <!-- feedback: Al redondear a la decena, el resultado debe terminar en 0. -->
-- [ ] D) 100
+- [ ] C) 100
   <!-- feedback: 100 sería redondear a la centena, no a la decena. -->
 
 ### Explicacion Pedagogica
@@ -57,13 +57,13 @@ Recordar el procedimiento para redondear un número a la decena más cercana.
 ¿Para qué sirve redondear y estimar cantidades en la vida diaria?
 
 ### Opciones
-- [x] A) Para calcular de forma rápida y tener una idea aproximada del resultado.
+- [x] D) Para calcular de forma rápida y tener una idea aproximada del resultado.
   <!-- feedback: Al redondear se obtiene un resultado cercano con cálculos más sencillos y veloces. -->
-- [ ] B) Para obtener siempre el resultado exacto sin hacer ninguna operación.
+- [ ] A) Para obtener siempre el resultado exacto sin hacer ninguna operación.
   <!-- feedback: Estimar da un valor aproximado, no siempre el resultado exacto. -->
-- [ ] C) Para cambiar el valor real de los precios del mercado.
+- [ ] B) Para cambiar el valor real de los precios del mercado.
   <!-- feedback: Redondear no cambia los precios reales; solo facilita el cálculo aproximado. -->
-- [ ] D) Para evitar tener que pagar las compras.
+- [ ] C) Para evitar tener que pagar las compras.
   <!-- feedback: Estimar no exime del pago; solo ayuda a calcular cuánto se gastará. -->
 
 ### Explicacion Pedagogica
@@ -80,9 +80,9 @@ Comprender la utilidad del redondeo y la estimación para hacer cálculos rápid
 ¿Cuál es el número 3.480 redondeado al millar más cercano?
 
 ### Opciones
-- [x] A) 3.000
+- [x] B) 3.000
   <!-- feedback: Como 480 es menor que 500, el 3.480 se redondea hacia abajo, a 3.000. -->
-- [ ] B) 4.000
+- [ ] A) 4.000
   <!-- feedback: Para redondear a 4.000, la cifra tendría que ser 3.500 o más. -->
 - [ ] C) 3.500
   <!-- feedback: Al redondear al millar, el resultado debe ser múltiplo de 1.000. -->
@@ -103,13 +103,13 @@ Aplicar el redondeo al millar más cercano en un contexto real de datos.
 ¿Cuál estimación se obtiene al redondear cada precio al millar más cercano y sumarlos?
 
 ### Opciones
-- [x] A) $9.000
+- [x] D) $9.000
   <!-- feedback: $5.900 se redondea a $6.000 y $3.100 a $3.000; la suma estimada es $9.000. -->
-- [ ] B) $8.000
+- [ ] A) $8.000
   <!-- feedback: Al redondear, $5.900 sube a $6.000; con $3.000 serían $9.000. -->
-- [ ] C) $10.000
+- [ ] B) $10.000
   <!-- feedback: Esa cifra resultaría de redondear $3.100 a $4.000, lo cual no corresponde. -->
-- [ ] D) $7.000
+- [ ] C) $7.000
   <!-- feedback: La suma estimada de ambos precios redondeados es mayor que $7.000. -->
 
 ### Explicacion Pedagogica
@@ -126,11 +126,11 @@ Aplicar el redondeo de precios al millar para estimar el total de una compra en 
 ¿Cuál estimación es la más razonable para la suma?
 
 ### Opciones
-- [x] A) 500, porque 198 se acerca a 200 y 305 a 300, y 200 + 300 = 500.
+- [x] C) 500, porque 198 se acerca a 200 y 305 a 300, y 200 + 300 = 500.
   <!-- feedback: Al redondear a la centena, 198 queda en 200 y 305 en 300, de modo que la suma estimada es 500. -->
-- [ ] B) 300, porque se redondea solo el primer número y se ignora el segundo.
+- [ ] A) 300, porque se redondea solo el primer número y se ignora el segundo.
   <!-- feedback: Para estimar una suma se redondean ambos sumandos, no uno solo. -->
-- [ ] C) 400, porque ambos números se redondean hacia abajo.
+- [ ] B) 400, porque ambos números se redondean hacia abajo.
   <!-- feedback: 198 se redondea hacia arriba, a 200; por eso la estimación no es 400. -->
 - [ ] D) 600, porque se redondea 305 a 400 y 198 a 200.
   <!-- feedback: 305 está más cerca de 300 que de 400, así que no se redondea a 400. -->
@@ -172,9 +172,9 @@ Analizar cómo el redondeo al millar facilita estimar una diferencia en un conte
 ¿Cuál razonamiento es correcto para decidir si le alcanza el dinero?
 
 ### Opciones
-- [x] A) No le alcanza, porque el precio es mayor que el dinero ahorrado y redondear no cambia esa comparación.
+- [x] B) No le alcanza, porque el precio es mayor que el dinero ahorrado y redondear no cambia esa comparación.
   <!-- feedback: $2.750 es mayor que $2.500, así que redondear no modifica que falta dinero. -->
-- [ ] B) Le alcanza, porque al redondear el precio baja a $2.000.
+- [ ] A) Le alcanza, porque al redondear el precio baja a $2.000.
   <!-- feedback: Redondear el precio no lo rebaja realmente; sigue costando más de lo ahorrado. -->
 - [ ] C) Le alcanza, porque al redondear el ahorro sube a $3.000.
   <!-- feedback: El ahorro real es $2.500; redondear no aumenta el dinero disponible. -->

@@ -30,8 +30,8 @@ bundle_index: 1
 
 ### Opciones
 - [ ] A) Linea recta <!-- feedback: La linea recta representa a las funciones lineales o afines. -->
-- [x] B) Parabola <!-- feedback: ¡Correcto! La grafica de toda funcion cuadratica es una curva simetrica llamada parabola. -->
-- [ ] C) Hipérbola <!-- feedback: Las hiperbolas representan funciones de proporcionalidad inversa. -->
+- [x] C) Parabola <!-- feedback: ¡Correcto! La grafica de toda funcion cuadratica es una curva simetrica llamada parabola. -->
+- [ ] B) Hipérbola <!-- feedback: Las hiperbolas representan funciones de proporcionalidad inversa. -->
 - [ ] D) Circunferencia <!-- feedback: La circunferencia no es la grafica de una funcion, ya que a un valor de x le pueden corresponder dos de y. -->
 
 ### Explicacion Pedagogica
@@ -48,8 +48,8 @@ La funcion cuadratica $f(x) = ax^2 + bx + c$ genera una curva caracteristica en 
 Si el coeficiente $a$ de la funcion $f(x) = ax^2 + bx + c$ es positivo ($a > 0$), ¿hacia donde se abren las ramas de la parabola?
 
 ### Opciones
-- [x] A) Hacia arriba (convexa) <!-- feedback: ¡Correcto! Si a es positivo, la parabola tiene forma de "U" y presenta un minimo. -->
-- [ ] B) Hacia abajo (concava) <!-- feedback: Esto ocurre si el coeficiente 'a' es negativo. -->
+- [x] B) Hacia arriba (convexa) <!-- feedback: ¡Correcto! Si a es positivo, la parabola tiene forma de "U" y presenta un minimo. -->
+- [ ] A) Hacia abajo (concava) <!-- feedback: Esto ocurre si el coeficiente 'a' es negativo. -->
 - [ ] C) Hacia la derecha <!-- feedback: Las funciones de x no se abren lateralmente de esta forma. -->
 - [ ] D) Es una linea horizontal <!-- feedback: Esto solo ocurriria si el coeficiente 'a' y 'b' fueran cero. -->
 
@@ -86,8 +86,8 @@ El vertice es el punto critico de la funcion cuadratica. Sus coordenadas $(h, k)
 ¿En que punto corta al eje Y la grafica de la funcion $f(x) = x^2 + 7$?
 
 ### Opciones
-- [ ] A) $(7, 0)$ <!-- feedback: Este seria un punto sobre el eje X. -->
-- [x] B) $(0, 7)$ <!-- feedback: ¡Correcto! Al evaluar f(0) obtenemos 7. El termino independiente 'c' indica el corte con Y. -->
+- [ ] B) $(7, 0)$ <!-- feedback: Este seria un punto sobre el eje X. -->
+- [x] A) $(0, 7)$ <!-- feedback: ¡Correcto! Al evaluar f(0) obtenemos 7. El termino independiente 'c' indica el corte con Y. -->
 - [ ] C) $(0, 0)$ <!-- feedback: La parabola esta desplazada 7 unidades hacia arriba. -->
 - [ ] D) No corta al eje Y. <!-- feedback: Todas las funciones cuadraticas cortan al eje Y en algun punto. -->
 
@@ -124,8 +124,8 @@ El eje de simetria es una recta vertical que divide a la parabola en dos partes 
 ¿Cuales son las coordenadas del vertice $(h, k)$ de esta parabola?
 
 ### Opciones
-- [ ] A) $(-3, 2)$ <!-- feedback: En la forma canonica $(x-h)^2 + k$, el valor de h tiene el signo cambiado. -->
-- [x] B) $(3, 2)$ <!-- feedback: ¡Correcto! El vertice se lee directamente como (3, 2). -->
+- [ ] B) $(-3, 2)$ <!-- feedback: En la forma canonica $(x-h)^2 + k$, el valor de h tiene el signo cambiado. -->
+- [x] A) $(3, 2)$ <!-- feedback: ¡Correcto! El vertice se lee directamente como (3, 2). -->
 - [ ] C) $(3, -2)$ <!-- feedback: El valor de k mantiene su signo original en la forma canonica. -->
 - [ ] D) $(0, 0)$ <!-- feedback: La parabola ha sido desplazada tanto horizontal como verticalmente. -->
 
@@ -143,8 +143,8 @@ La forma canonica $f(x) = a(x - h)^2 + k$ es muy util porque permite identificar
 ¿En que tiempo $t$ alcanza el proyectil su altura maxima?
 
 ### Opciones
-- [ ] A) $t = 0$ <!-- feedback: Este es el momento del lanzamiento. -->
-- [x] B) $t = 2$ <!-- feedback: ¡Correcto! El vertice esta en $t = -4 / (2 \cdot -1) = 2$. -->
+- [ ] B) $t = 0$ <!-- feedback: Este es el momento del lanzamiento. -->
+- [x] A) $t = 2$ <!-- feedback: ¡Correcto! El vertice esta en $t = -4 / (2 \cdot -1) = 2$. -->
 - [ ] C) $t = 4$ <!-- feedback: Este es el tiempo en que el proyectil vuelve a tocar el suelo. -->
 - [ ] D) $t = 1$ <!-- feedback: A este tiempo aun sigue subiendo hacia el maximo. -->
 
@@ -182,8 +182,8 @@ La forma factorizada $f(x) = a(x - r_1)(x - r_2)$ revela las raices $r_1$ y $r_2
 
 ### Opciones
 - [ ] A) Tiene dos raices reales distintas. <!-- feedback: El discriminante es negativo ($4 - 20 = -16$). -->
-- [ ] B) Tiene una unica raiz real. <!-- feedback: El discriminante no es cero. -->
-- [x] C) No tiene raices reales. <!-- feedback: ¡Correcto! Al ser el discriminante negativo, la parabola no toca el eje X. -->
+- [ ] C) Tiene una unica raiz real. <!-- feedback: El discriminante no es cero. -->
+- [x] B) No tiene raices reales. <!-- feedback: ¡Correcto! Al ser el discriminante negativo, la parabola no toca el eje X. -->
 - [ ] D) Toca el eje X en el origen. <!-- feedback: Como c=5, el corte con Y es en (0,5), no en el origen. -->
 
 ### Explicacion Pedagogica
@@ -201,9 +201,9 @@ El discriminante $\Delta = b^2 - 4ac$ es la herramienta para predecir la existen
 
 ### Opciones
 - [ ] A) $y = 5$ <!-- feedback: El eje de simetria es una linea vertical (x=...), no horizontal. -->
-- [x] B) $x = 5$ <!-- feedback: ¡Correcto! $x = -(-10) / (2 \cdot 1) = 10 / 2 = 5$. -->
-- [ ] C) $x = 10$ <!-- feedback: Olvido dividir por 2a en la formula. -->
-- [ ] D) $x = -5$ <!-- feedback: Error de signo en la aplicacion de la formula. -->
+- [x] D) $x = 5$ <!-- feedback: ¡Correcto! $x = -(-10) / (2 \cdot 1) = 10 / 2 = 5$. -->
+- [ ] B) $x = 10$ <!-- feedback: Olvido dividir por 2a en la formula. -->
+- [ ] C) $x = -5$ <!-- feedback: Error de signo en la aplicacion de la formula. -->
 
 ### Explicacion Pedagogica
 El eje de simetria es la recta vertical que pasa por el vertice. Divide a la parabola en dos imagenes especulares. Su valor se halla con la primera parte de la formula general: $x = -b/2a$.
@@ -219,9 +219,9 @@ El eje de simetria es la recta vertical que pasa por el vertice. Divide a la par
 ¿Cuales son los puntos de corte con el eje X de esta funcion?
 
 ### Opciones
-- [ ] A) $(0, 3)$ <!-- feedback: Este es el punto de corte con el eje Y. -->
-- [ ] B) $(1, 0)$ y $(-3, 0)$ <!-- feedback: El producto de las raices debe ser +3. -->
-- [x] C) $(1, 0)$ y $(3, 0)$ <!-- feedback: ¡Correcto! Resolviendo la ecuacion $x^2 - 4x + 3 = 0$ obtenemos $x=1$ y $x=3$. -->
+- [ ] B) $(0, 3)$ <!-- feedback: Este es el punto de corte con el eje Y. -->
+- [ ] C) $(1, 0)$ y $(-3, 0)$ <!-- feedback: El producto de las raices debe ser +3. -->
+- [x] A) $(1, 0)$ y $(3, 0)$ <!-- feedback: ¡Correcto! Resolviendo la ecuacion $x^2 - 4x + 3 = 0$ obtenemos $x=1$ y $x=3$. -->
 - [ ] D) No tiene cortes con el eje X. <!-- feedback: El discriminante es positivo ($16 - 12 = 4$), por lo que tiene dos cortes. -->
 
 ### Explicacion Pedagogica
@@ -239,9 +239,9 @@ Los cortes con el eje X se encuentran resolviendo la ecuacion cuadratica $f(x) =
 
 ### Opciones
 - [ ] A) 2 unidades a la derecha y 5 hacia abajo. <!-- feedback: El signo +2 dentro del parentesis indica un desplazamiento a la izquierda. -->
-- [x] B) 2 unidades a la izquierda y 5 hacia abajo. <!-- feedback: ¡Correcto! $x+2$ desplaza a la izquierda y $-5$ desplaza hacia abajo. -->
-- [ ] C) 2 unidades arriba y 5 a la izquierda. <!-- feedback: Se han confundido los desplazamientos horizontales y verticales. -->
-- [ ] D) Solo se ha desplazado 5 unidades hacia abajo. <!-- feedback: El termino $(x+2)$ tambien genera un movimiento horizontal. -->
+- [x] D) 2 unidades a la izquierda y 5 hacia abajo. <!-- feedback: ¡Correcto! $x+2$ desplaza a la izquierda y $-5$ desplaza hacia abajo. -->
+- [ ] B) 2 unidades arriba y 5 a la izquierda. <!-- feedback: Se han confundido los desplazamientos horizontales y verticales. -->
+- [ ] C) Solo se ha desplazado 5 unidades hacia abajo. <!-- feedback: El termino $(x+2)$ tambien genera un movimiento horizontal. -->
 
 ### Explicacion Pedagogica
 Las traslaciones de funciones son cambios en la posicion de la grafica. Sumar o restar fuera de la funcion desplaza verticalmente, mientras que hacerlo dentro del argumento (con $x$) desplaza horizontalmente en sentido opuesto al signo.
@@ -257,9 +257,9 @@ Las traslaciones de funciones son cambios en la posicion de la grafica. Sumar o 
 ¿Cual de las siguientes funciones podria representar esta parabola?
 
 ### Opciones
-- [x] A) $f(x) = (x - 2)^2 + 3$ <!-- feedback: ¡Correcto! El vertice es (2, 3) y como a=1 (>0), se abre hacia arriba y nunca llega a y=0. -->
-- [ ] B) $f(x) = -(x - 2)^2 + 3$ <!-- feedback: Esta se abre hacia abajo y si cortaria al eje X. -->
-- [ ] C) $f(x) = (x + 2)^2 + 3$ <!-- feedback: El vertice de esta seria (-2, 3). -->
+- [x] C) $f(x) = (x - 2)^2 + 3$ <!-- feedback: ¡Correcto! El vertice es (2, 3) y como a=1 (>0), se abre hacia arriba y nunca llega a y=0. -->
+- [ ] A) $f(x) = -(x - 2)^2 + 3$ <!-- feedback: Esta se abre hacia abajo y si cortaria al eje X. -->
+- [ ] B) $f(x) = (x + 2)^2 + 3$ <!-- feedback: El vertice de esta seria (-2, 3). -->
 - [ ] D) $f(x) = (x - 2)^2 - 3$ <!-- feedback: El vertice estaria por debajo del eje X (y = -3), por lo que lo cortaria al subir. -->
 
 ### Explicacion Pedagogica
@@ -276,8 +276,8 @@ Una parabola cuyo vertice tiene una ordenada $k$ positiva y que se abre hacia ar
 ¿Que ocurre con el objeto en el tiempo $t = 5$?
 
 ### Opciones
-- [ ] A) Alcanza su velocidad maxima. <!-- feedback: Como a=1, el vertice es un minimo, no un maximo. -->
-- [x] B) Se detiene completamente ($v = 0$). <!-- feedback: ¡Correcto! $v(5) = 25 - 50 + 25 = 0$. Ademas, es una raiz doble. -->
+- [ ] B) Alcanza su velocidad maxima. <!-- feedback: Como a=1, el vertice es un minimo, no un maximo. -->
+- [x] A) Se detiene completamente ($v = 0$). <!-- feedback: ¡Correcto! $v(5) = 25 - 50 + 25 = 0$. Ademas, es una raiz doble. -->
 - [ ] C) Cambia de direccion sin detenerse. <!-- feedback: Para cambiar de direccion en este modelo debe pasar por velocidad cero. -->
 - [ ] D) Su velocidad es de $25$ m/s. <!-- feedback: Esa es la velocidad inicial en t=0. -->
 
@@ -314,8 +314,8 @@ El coeficiente principal $a$ actua como un factor de escala vertical. Si $|a| > 
 ¿Cual es el valor maximo de esta funcion?
 
 ### Opciones
-- [x] A) $y = 0$ <!-- feedback: ¡Correcto! El vertice esta en x=3. $f(3) = -9 + 18 - 9 = 0$. Como a=-1, es un maximo. -->
-- [ ] B) $y = 3$ <!-- feedback: Este es el valor de x en el vertice, no el valor maximo de la funcion. -->
+- [x] B) $y = 0$ <!-- feedback: ¡Correcto! El vertice esta en x=3. $f(3) = -9 + 18 - 9 = 0$. Como a=-1, es un maximo. -->
+- [ ] A) $y = 3$ <!-- feedback: Este es el valor de x en el vertice, no el valor maximo de la funcion. -->
 - [ ] C) $y = -9$ <!-- feedback: Este es el corte con el eje Y. -->
 - [ ] D) $y = 9$ <!-- feedback: Error al evaluar la funcion en el vertice. -->
 
@@ -333,8 +333,8 @@ Para hallar el valor maximo, primero calculamos la coordenada $x$ del vertice ($
 ¿Cual es el valor maximo que alcanza la funcion $f(x) = -2x^2 + 8x - 6$?
 
 ### Opciones
-- [ ] A) $y = 8$ <!-- feedback: 8 es el coeficiente de x, no el valor maximo. -->
-- [x] B) $y = 2$ <!-- feedback: ¡Correcto! El vertice esta en x=2. Evaluando f(2) = -2(4) + 8(2) - 6 = -8 + 16 - 6 = 2. -->
+- [ ] B) $y = 8$ <!-- feedback: 8 es el coeficiente de x, no el valor maximo. -->
+- [x] A) $y = 2$ <!-- feedback: ¡Correcto! El vertice esta en x=2. Evaluando f(2) = -2(4) + 8(2) - 6 = -8 + 16 - 6 = 2. -->
 - [ ] C) $y = -6$ <!-- feedback: Este es el corte con el eje Y. -->
 - [ ] D) $y = 0$ <!-- feedback: La funcion alcanza valores superiores a cero. -->
 
@@ -372,9 +372,9 @@ Usando la forma canonica $f(x) = a(x - 2)^2 + 4$, sustituimos el punto $(0, 0)$ 
 
 ### Opciones
 - [ ] A) $100$ $m^2$ <!-- feedback: Si el ancho es 10, el largo seria 20. El area seria 200. -->
-- [x] B) $200$ $m^2$ <!-- feedback: ¡Correcto! Area $A = x(40 - 2x) = -2x^2 + 40x$. El vertice esta en x=10, $A = 10(20) = 200$. -->
-- [ ] C) $400$ $m^2$ <!-- feedback: Esto requeriria mas metros de valla. -->
-- [ ] D) $150$ $m^2$ <!-- feedback: No es el valor maximo posible. -->
+- [x] D) $200$ $m^2$ <!-- feedback: ¡Correcto! Area $A = x(40 - 2x) = -2x^2 + 40x$. El vertice esta en x=10, $A = 10(20) = 200$. -->
+- [ ] B) $400$ $m^2$ <!-- feedback: Esto requeriria mas metros de valla. -->
+- [ ] C) $150$ $m^2$ <!-- feedback: No es el valor maximo posible. -->
 
 ### Explicacion Pedagogica
 Este es un problema clasico de optimizacion que se resuelve mediante funciones cuadraticas. Al expresar el area en funcion de una de las dimensiones, obtenemos una parabola que se abre hacia abajo. El vertice de esa parabola nos da el area maxima.
@@ -391,8 +391,8 @@ Este es un problema clasico de optimizacion que se resuelve mediante funciones c
 
 ### Opciones
 - [ ] A) La parabola se desplaza hacia la izquierda. <!-- feedback: Los desplazamientos dependen mas de los valores de a y b combinados. -->
-- [x] B) La parabola se invierte (pasa de abrirse hacia arriba a abrirse hacia abajo). <!-- feedback: ¡Correcto! El signo de a determina la concavidad de la funcion. -->
-- [ ] C) La parabola se convierte en una recta. <!-- feedback: Para ser una recta, 'a' deberia ser exactamente cero. -->
+- [x] C) La parabola se invierte (pasa de abrirse hacia arriba a abrirse hacia abajo). <!-- feedback: ¡Correcto! El signo de a determina la concavidad de la funcion. -->
+- [ ] B) La parabola se convierte en una recta. <!-- feedback: Para ser una recta, 'a' deberia ser exactamente cero. -->
 - [ ] D) El corte con el eje Y desaparece. <!-- feedback: El corte con el eje Y depende exclusivamente del valor de 'c'. -->
 
 ### Explicacion Pedagogica

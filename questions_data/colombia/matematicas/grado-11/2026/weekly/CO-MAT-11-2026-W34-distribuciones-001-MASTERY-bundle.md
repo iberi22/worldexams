@@ -81,13 +81,13 @@ $X = 0 Rightarrow P = 0.5$, $X = 1 Rightarrow P = 0.3$, $X = 2 Rightarrow P = 0.
 ¿Alrededor de qué porcentaje de estudiantes tiene una estatura comprendida entre 160 cm y 170 cm ($mu \pm 1\sigma$)?
 
 ### Opciones
-- [x] A) 68%
+- [x] D) 68%
   <!-- feedback: Según la regla empírica de la distribución normal, el intervalo (mu - sigma, mu + sigma) concentra aproximadamente el 68% de los datos. -->
-- [ ] B) 95%
+- [ ] A) 95%
   <!-- feedback: Corresponde al intervalo mu +/- 2 sigma (155 cm a 175 cm). -->
-- [ ] C) 99.7%
+- [ ] B) 99.7%
   <!-- feedback: Corresponde al intervalo mu +/- 3 sigma (150 cm a 180 cm). -->
-- [ ] D) 50%
+- [ ] C) 50%
   <!-- feedback: Representa el área a un solo lado de la media en una distribución simétrica. -->
 
 ### Explicacion Pedagogica
@@ -104,11 +104,11 @@ En la regla empírica (o 68-95-99.7) de una distribución normal, el $68.27%$ de
 ¿Cuál es la fórmula para calcular el valor esperado (o media) $mu$ de esta distribución binomial?
 
 ### Opciones
-- [x] A) $\mu = n \cdot p$
+- [x] C) $\mu = n \cdot p$
   <!-- feedback: En una distribución binomial B(n, p), la media o valor esperado es mu = n * p = 10 * 0.4 = 4. -->
-- [ ] B) $\mu = n \cdot p \cdot (1-p)$
+- [ ] A) $\mu = n \cdot p \cdot (1-p)$
   <!-- feedback: Esta fórmula corresponde a la varianza sigma^2 de la distribución binomial. -->
-- [ ] C) $\mu = \sqrt{n \cdot p \cdot (1-p)}$
+- [ ] B) $\mu = \sqrt{n \cdot p \cdot (1-p)}$
   <!-- feedback: Esta fórmula corresponde a la desviación estándar sigma de la distribución binomial. -->
 - [ ] D) $\mu = \frac{p}{n}$
   <!-- feedback: Es una razón sin significado probabilístico en el modelo binomial. -->
@@ -127,9 +127,9 @@ Para una variable aleatoria binomial $X sim B(n,p)$, el valor esperado se calcul
 ¿Cuál es el valor esperado de la ganancia neta para un comprador de un billete?
 
 ### Opciones
-- [x] A) -3,000 COP
+- [x] B) -3,000 COP
   <!-- feedback: E[Ganancia Neta] = (100000 - 5000)*0.02 + (-5000)*0.98 = 95000*0.02 - 4900 = 1900 - 4900 = -3000 COP. -->
-- [ ] B) 2,000 COP
+- [ ] A) 2,000 COP
   <!-- feedback: Se calculó el valor esperado del premio (0.02 * 100000 = 2000 COP) sin restar el costo del billete. -->
 - [ ] C) -5,000 COP
   <!-- feedback: Se asumió que siempre se pierde el costo total del billete. -->
@@ -150,9 +150,9 @@ El valor esperado de la ganancia neta es $E[X] = (95,000)(0.02) + (-5,000)(0.98)
 ¿Cuál es la probabilidad de que responda correctamente exactamente 4 preguntas?
 
 ### Opciones
-- [x] A) $\frac{5}{32}$
+- [x] B) $\frac{5}{32}$
   <!-- feedback: P(X=4) = C(5,4) * (0.5)^4 * (0.5)^1 = 5 * (1/16) * (1/2) = 5/32 = 0.15625. -->
-- [ ] B) $\frac{1}{32}$
+- [ ] A) $\frac{1}{32}$
   <!-- feedback: Corresponde a la probabilidad de acertar las 5 preguntas P(X=5). -->
 - [ ] C) $\frac{10}{32}$
   <!-- feedback: Corresponde a la probabilidad de acertar exactamente 2 o 3 preguntas (C(5,2)/32). -->
@@ -174,13 +174,13 @@ $P(X=4) = 5 \cdot (0.5)^4 \cdot (0.5)^1 = \frac{5}{32}$.
 ¿Qué porcentaje aproximado de estudiantes obtuvo un puntaje entre 220 y 380 ($mu \pm 2\sigma$)?
 
 ### Opciones
-- [x] A) 95%
+- [x] D) 95%
   <!-- feedback: De acuerdo con la regla empírica 68-95-99.7, el rango mu +/- 2 sigma engloba aproximadamente el 95% de la distribución normal. -->
-- [ ] B) 68%
+- [ ] A) 68%
   <!-- feedback: Corresponde al rango entre 260 y 340 (mu +/- 1 sigma). -->
-- [ ] C) 99.7%
+- [ ] B) 99.7%
   <!-- feedback: Corresponde al rango entre 180 y 420 (mu +/- 3 sigma). -->
-- [ ] D) 80%
+- [ ] C) 80%
   <!-- feedback: Valor arbitrario no correspondiente a las propiedades estándar de la curva gaussiana. -->
 
 ### Explicacion Pedagogica
@@ -197,11 +197,11 @@ El intervalo $[300 - 2(40), 300 + 2(40)] = [220, 380]$ representa 2 desviaciones
 ¿Cuál es la desviación estándar $\sigma$ de esta distribución?
 
 ### Opciones
-- [x] A) 4
+- [x] C) 4
   <!-- feedback: Varianza sigma^2 = n*p*(1-p) = 100 * 0.2 * 0.8 = 16. La desviación estándar sigma = sqrt(16) = 4. -->
-- [ ] B) 16
+- [ ] A) 16
   <!-- feedback: Corresponde a la varianza sigma^2, faltó extraer la raíz cuadrada. -->
-- [ ] C) 20
+- [ ] B) 20
   <!-- feedback: Corresponde a la media mu = n*p = 100 * 0.2 = 20. -->
 - [ ] D) 2
   <!-- feedback: Se dividió 4 entre 2 sin justificación probabilística. -->
@@ -221,13 +221,13 @@ $X = 0 Rightarrow 0.6$, $X = 1 Rightarrow 0.3$, $X = 2 Rightarrow 0.1$.
 ¿Cuál es el valor esperado $E[X]$ del número de fallas del equipo?
 
 ### Opciones
-- [x] A) 0.5
+- [x] D) 0.5
   <!-- feedback: E[X] = (0 * 0.6) + (1 * 0.3) + (2 * 0.1) = 0 + 0.3 + 0.2 = 0.5. -->
-- [ ] B) 1.0
+- [ ] A) 1.0
   <!-- feedback: Se sumó 0.6 + 0.3 + 0.1 en lugar de ponderar por los valores de X. -->
-- [ ] C) 0.3
+- [ ] B) 0.3
   <!-- feedback: Se eligió solo el término correspondiente a X = 1. -->
-- [ ] D) 0.6
+- [ ] C) 0.6
   <!-- feedback: Se seleccionó la probabilidad más alta (el valor modal de X). -->
 
 ### Explicacion Pedagogica
@@ -244,13 +244,13 @@ El valor esperado es la suma ponderada de cada valor por su probabilidad: $E[X] 
 ¿Cuál es la probabilidad de que NINGUNO de los 3 productos presente imperfecciones?
 
 ### Opciones
-- [x] A) 0.729
+- [x] D) 0.729
   <!-- feedback: La probabilidad de no tener imperfección es q = 0.9. P(X=0) = (0.9)^3 = 0.729. -->
-- [ ] B) 0.900
+- [ ] A) 0.900
   <!-- feedback: Se tomó solo la probabilidad de un producto individual no imperfecto. -->
-- [ ] C) 0.271
+- [ ] B) 0.271
   <!-- feedback: Corresponde al complemento 1 - 0.729 (probabilidad de que al menos uno esté imperfecto). -->
-- [ ] D) 0.001
+- [ ] C) 0.001
   <!-- feedback: Corresponde a la probabilidad de que TODOS los 3 productos estén imperfectos (0.10)^3. -->
 
 ### Explicacion Pedagogica
@@ -290,11 +290,11 @@ El puntaje estandarizado $Z$ mide cuántas desviaciones estándar está un dato 
 ¿Cuál es la varianza $Var(X)$ de esta variable aleatoria?
 
 ### Opciones
-- [x] A) 4
+- [x] C) 4
   <!-- feedback: Usando la fórmula de la varianza Var(X) = E[X^2] - (E[X])^2 = 29 - 5^2 = 29 - 25 = 4. -->
-- [ ] B) 24
+- [ ] A) 24
   <!-- feedback: Se restó 29 - 5 sin elevar E[X] al cuadrado. -->
-- [ ] C) 2
+- [ ] B) 2
   <!-- feedback: Se extrajo la raíz cuadrada de la varianza (obteniendo la desviación estándar). -->
 - [ ] D) 54
   <!-- feedback: Se sumaron E[X^2] + (E[X])^2 = 29 + 25 = 54. -->
@@ -313,9 +313,9 @@ La varianza se define computacionalmente como $Var(X) = E[X^2] - (E[X])^2$. Sust
 ¿Cuál es la probabilidad de que $Z$ se encuentre entre -1 y 1 ($P(-1 < Z < 1)$)?
 
 ### Opciones
-- [x] A) 0.6826
+- [x] B) 0.6826
   <!-- feedback: P(-1 < Z < 1) = P(Z < 1) - P(Z < -1) = 0.8413 - (1 - 0.8413) = 0.8413 - 0.1587 = 0.6826. -->
-- [ ] B) 0.3413
+- [ ] A) 0.3413
   <!-- feedback: Corresponde solo al área entre 0 y 1 (mitad del intervalo deseado). -->
 - [ ] C) 0.1587
   <!-- feedback: Corresponde a la probabilidad en la cola superior P(Z > 1). -->
@@ -336,11 +336,11 @@ Por simetría, $P(Z < -1) = 1 - P(Z < 1) = 1 - 0.8413 = 0.1587$. Por lo tanto, $
 ¿Cuál es la probabilidad de obtener AL MENOS 1 respuesta correcta si se contesta al azar?
 
 ### Opciones
-- [x] A) $\frac{175}{256}$
+- [x] C) $\frac{175}{256}$
   <!-- feedback: P(X >= 1) = 1 - P(X=0). P(X=0) = (3/4)^4 = 81/256. 1 - 81/256 = 175/256. -->
-- [ ] B) $\frac{81}{256}$
+- [ ] A) $\frac{81}{256}$
   <!-- feedback: Corresponde a la probabilidad de obtener 0 respuestas correctas P(X=0). -->
-- [ ] C) $\frac{1}{256}$
+- [ ] B) $\frac{1}{256}$
   <!-- feedback: Corresponde a la probabilidad de acertar las 4 preguntas P(X=4). -->
 - [ ] D) $\frac{3}{4}$
   <!-- feedback: Se restó 1 - 0.25 sin elevar a la potencia correspondiente al número de preguntas. -->
@@ -360,9 +360,9 @@ ight)^4 = 1 - \frac{81}{256} = \frac{175}{256}$.
 ¿Cuál es el porcentaje de componentes que se espera que duren MÁS de 1200 horas?
 
 ### Opciones
-- [x] A) 2.5%
+- [x] B) 2.5%
   <!-- feedback: Z = (1200 - 1000)/100 = 2. Por la regla 68-95-99.7, mu +/- 2 sigma cubre el 95%. Las colas exteriores suman 5%, por lo que la cola superior Z > 2 es el 2.5%. -->
-- [ ] B) 5.0%
+- [ ] A) 5.0%
   <!-- feedback: Se sumaron las dos colas externas (Z > 2 y Z < -2) sin dividir entre 2. -->
 - [ ] C) 16.0%
   <!-- feedback: Corresponde a la cola superior Z > 1 (más de 1100 horas). -->
@@ -383,11 +383,11 @@ $Z = \frac{1200 - 1000}{100} = 2$. Dado que $P(-2 < Z < 2) \approx 95%$, el áre
 ¿Cuál debe ser el valor constante de $k$ para que sea una función de probabilidad válida?
 
 ### Opciones
-- [x] A) $\frac{1}{10}$
+- [x] C) $\frac{1}{10}$
   <!-- feedback: La suma de probabilidades k*(1 + 2 + 3 + 4) = 10k = 1 -> k = 1/10 = 0.1. -->
-- [ ] B) $\frac{1}{4}$
+- [ ] A) $\frac{1}{4}$
   <!-- feedback: Se dividió 1 entre la cantidad de valores posibles (4) sin considerar la suma ponderada por x. -->
-- [ ] C) $\frac{1}{24}$
+- [ ] B) $\frac{1}{24}$
   <!-- feedback: Se multiplicaron los valores 1 * 2 * 3 * 4 = 24 en lugar de sumarlos. -->
 - [ ] D) 1
   <!-- feedback: Se asumió k=1 ignorando que la suma de probabilidades superaría ampliamente 1. -->
@@ -406,13 +406,13 @@ Condición de normalización: $\sum P(X=x) = k(1) + k(2) + k(3) + k(4) = 10k = 1
 ¿Cuál es el valor esperado y la decisión financiera más adecuada si el costo del proyecto es de 20 millones COP?
 
 ### Opciones
-- [x] A) El valor esperado es 18 millones COP, por lo que el proyecto NO recupera el costo inicial de 20 millones COP.
+- [x] D) El valor esperado es 18 millones COP, por lo que el proyecto NO recupera el costo inicial de 20 millones COP.
   <!-- feedback: E[X] = (50*0.4) + (10*0.4) + (-30*0.2) = 20 + 4 - 6 = 18 millones. Como 18 < 20, la inversión esperada genera pérdida neta. -->
-- [ ] B) El valor esperado es 24 millones COP, por lo que el proyecto es rentable.
+- [ ] A) El valor esperado es 24 millones COP, por lo que el proyecto es rentable.
   <!-- feedback: Se olvidó incluir el signo negativo en la pérdida de 30 millones durante la recesión. -->
-- [ ] C) El valor esperado es 30 millones COP, superando ampliamente la inversión.
+- [ ] B) El valor esperado es 30 millones COP, superando ampliamente la inversión.
   <!-- feedback: Se realizó un cálculo erróneo sumando directamente las ganancias sin ponderar por probabilidades. -->
-- [ ] D) El valor esperado es 0 millones COP, quedando en punto de equilibrio.
+- [ ] C) El valor esperado es 0 millones COP, quedando en punto de equilibrio.
   <!-- feedback: Se restaron de forma incorrecta los valores monetarios. -->
 
 ### Explicacion Pedagogica
@@ -429,13 +429,13 @@ $E[X] = 50(0.4) + 10(0.4) + (-30)(0.2) = 20 + 4 - 6 = 18$ millones COP. Como el 
 Si un usuario es atendido en la taquilla, ¿cuál es la probabilidad de que su atención demore ENTRE 4.5 y 7.5 minutos?
 
 ### Opciones
-- [x] A) 0.68
+- [x] D) 0.68
   <!-- feedback: Z1 = (4.5 - 6)/1.5 = -1. Z2 = (7.5 - 6)/1.5 = 1. El rango entre -1 y 1 desviaciones estándar abarca aproximadamente el 68% de los casos. -->
-- [ ] B) 0.95
+- [ ] A) 0.95
   <!-- feedback: Corresponde al intervalo de +/- 2 desviaciones estándar (3 a 9 minutos). -->
-- [ ] C) 0.34
+- [ ] B) 0.34
   <!-- feedback: Corresponde a medio intervalo (de 6 a 7.5 minutos únicamente). -->
-- [ ] D) 0.50
+- [ ] C) 0.50
   <!-- feedback: Se asumió arbitrariamente la mitad de la población. -->
 
 ### Explicacion Pedagogica
@@ -452,13 +452,13 @@ Estandarizando la variable: $Z_1 = \frac{4.5 - 6}{1.5} = -1.0$ y $Z_2 = \frac{7.
 ¿Cuáles son los valores del número de ensayos $n$ y la probabilidad de éxito $p$?
 
 ### Opciones
-- [x] A) $n = 16, p = 0.75$
+- [x] D) $n = 16, p = 0.75$
   <!-- feedback: mu = n*p = 12 y sigma^2 = n*p*(1-p) = 3 -> 12*(1-p) = 3 -> 1 - p = 3/12 = 0.25 -> p = 0.75. Luego n = 12 / 0.75 = 16. -->
-- [ ] B) $n = 24, p = 0.50$
+- [ ] A) $n = 24, p = 0.50$
   <!-- feedback: Si n=24 y p=0.5, la varianza sería 24*0.5*0.5 = 6, no 3. -->
-- [ ] C) $n = 12, p = 1.00$
+- [ ] B) $n = 12, p = 1.00$
   <!-- feedback: Si p=1 la varianza sería 0, contradiciendo sigma^2 = 3. -->
-- [ ] D) $n = 20, p = 0.60$
+- [ ] C) $n = 20, p = 0.60$
   <!-- feedback: Si n=20 y p=0.6, la media sería 12 pero la varianza sería 20*0.6*0.4 = 4.8. -->
 
 ### Explicacion Pedagogica
@@ -477,11 +477,11 @@ Por ende, $n = \frac{12}{0.75} = 16$.
 ¿Cuál es la varianza $\sigma^2$ de la distribución de esta variable aleatoria $X$?
 
 ### Opciones
-- [x] A) 1.0
+- [x] C) 1.0
   <!-- feedback: Para una binomial con n=4 y p=0.5: sigma^2 = n*p*(1-p) = 4 * 0.5 * 0.5 = 1.0. -->
-- [ ] B) 2.0
+- [ ] A) 2.0
   <!-- feedback: Corresponde a la media mu = n*p = 4 * 0.5 = 2.0. -->
-- [ ] C) 0.5
+- [ ] B) 0.5
   <!-- feedback: Se dividió 1 entre 2 erróneamente. -->
 - [ ] D) 4.0
   <!-- feedback: Corresponde al número total de ensayos n. -->

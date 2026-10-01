@@ -55,8 +55,8 @@ El narrador omnisciente se sitúa fuera de la acción (en tercera persona) y pos
 ¿Qué representa simbólicamente el personaje del toro "Josco" en la trama literaria de Díaz Alfaro?
 
 ### Opciones
-- [ ] A) La necesidad de modernizar la agricultura industrial de la isla. <!-- feedback: Incorrecto. El cuento no promueve la industrialización; al contrario, lamenta el desplazamiento de lo criollo. -->
-- [x] B) La identidad, el orgullo criollo y la resistencia cultural puertorriqueña frente a la asimilación extranjera. <!-- feedback: ¡Correcto! El "Josco" es una metáfora de la resistencia cultural y el orgullo nacional boricua que prefiere la muerte antes que doblegarse. -->
+- [ ] B) La necesidad de modernizar la agricultura industrial de la isla. <!-- feedback: Incorrecto. El cuento no promueve la industrialización; al contrario, lamenta el desplazamiento de lo criollo. -->
+- [x] A) La identidad, el orgullo criollo y la resistencia cultural puertorriqueña frente a la asimilación extranjera. <!-- feedback: ¡Correcto! El "Josco" es una metáfora de la resistencia cultural y el orgullo nacional boricua que prefiere la muerte antes que doblegarse. -->
 - [ ] C) La falta de herramientas mecánicas en el sector lechero de Ponce. <!-- feedback: Incorrecto. Es una lectura literal y errónea; el texto es profundamente simbólico y nacionalista. -->
 - [ ] D) El triunfo definitivo de la asimilación norteamericana sobre las tradiciones del campo. <!-- feedback: Incorrecto. Aunque el final es trágico, el Josco simboliza la dignidad invicta que no se entrega al yugo extranjero. -->
 
@@ -76,8 +76,8 @@ En la literatura del 45 en Puerto Rico, "El Josco" simboliza la resistencia de l
 ¿Cuál de los siguientes enunciados describe el propósito estético principal de Luis Rafael Sánchez al usar este estilo de escritura hiperbólico e impregnado del lenguaje popular de la calle?
 
 ### Opciones
-- [ ] A) Enseñar gramática normativa de la lengua española según la RAE. <!-- feedback: Incorrecto. La obra subvierte las normas académicas tradicionales usando el habla popular. -->
-- [x] B) Retratar satíricamente la cotidianidad, el caos urbano y la influencia de los medios de comunicación en la identidad puertorriqueña contemporánea. <!-- feedback: ¡Correcto! Sánchez utiliza la estética de la guaracha y la sátira lingüística para criticar la alienación urbana y los discursos de poder en la sociedad boricua. -->
+- [ ] B) Enseñar gramática normativa de la lengua española según la RAE. <!-- feedback: Incorrecto. La obra subvierte las normas académicas tradicionales usando el habla popular. -->
+- [x] A) Retratar satíricamente la cotidianidad, el caos urbano y la influencia de los medios de comunicación en la identidad puertorriqueña contemporánea. <!-- feedback: ¡Correcto! Sánchez utiliza la estética de la guaracha y la sátira lingüística para criticar la alienación urbana y los discursos de poder en la sociedad boricua. -->
 - [ ] C) Defender el uso exclusivo del inglés en el ámbito académico. <!-- feedback: Incorrecto. Al contrario, la novela es una celebración y crítica social que descansa en la oralidad puertorriqueña. -->
 - [ ] D) Crear un manual histórico de la música de los años setenta en San Juan. <!-- feedback: Incorrecto. Aunque la música es central, la obra es de ficción satírica, no un tratado musical descriptivo. -->
 
@@ -99,8 +99,8 @@ El estilo neobarroco de Luis Rafael Sánchez busca capturar el ritmo y la aliena
 ### Opciones
 - [ ] A) El libre albedrío total que permite a los campesinos superar la pobreza. <!-- feedback: Incorrecto. El naturalismo descarta que el libre albedrío baste para escapar de la opresión biológica y social. -->
 - [ ] B) La intervención divina milagrosa que resuelve el conflicto social. <!-- feedback: Incorrecto. El naturalismo es una corriente científica y materialista que no recurre a la magia divina. -->
-- [x] C) El determinismo ambiental y biológico que condena a los individuos de acuerdo con su herencia y entorno degradado. <!-- feedback: ¡Correcto! El naturalismo postula que el ser humano está determinado por su herencia genética y por la miseria de su ambiente social (la "charca" física y moral). -->
-- [ ] D) El optimismo revolucionario propio del Realismo Mágico. <!-- feedback: Incorrecto. "La charca" es naturalista y profundamente trágica, ajena al optimismo mágico hispanoamericano posterior. -->
+- [x] D) El determinismo ambiental y biológico que condena a los individuos de acuerdo con su herencia y entorno degradado. <!-- feedback: ¡Correcto! El naturalismo postula que el ser humano está determinado por su herencia genética y por la miseria de su ambiente social (la "charca" física y moral). -->
+- [ ] C) El optimismo revolucionario propio del Realismo Mágico. <!-- feedback: Incorrecto. "La charca" es naturalista y profundamente trágica, ajena al optimismo mágico hispanoamericano posterior. -->
 
 ### Explicacion Pedagogica
 El Naturalismo literario aplica principios científicos a la literatura. En *La charca*, Zeno Gandía utiliza el determinismo para demostrar cómo la falta de educación, la herencia y las deplorables condiciones de vida en el cafetal anulan cualquier posibilidad de redención de los campesinos.
@@ -140,9 +140,9 @@ La literatura de la Generación del 70 en Puerto Rico (Ana Lydia Vega, Rosario F
 
 ### Opciones
 - [ ] A) Describir el entorno usando fórmulas matemáticas exactas. <!-- feedback: Incorrecto. La fantasía de la trama se aleja de la fría descripción cuantitativa matemática. -->
-- [x] B) Presentar hechos insólitos o fantásticos como sucesos cotidianos y normales dentro de la realidad de los personajes. <!-- feedback: ¡Correcto! La esencia del realismo mágico es la coexistencia natural de lo maravilloso y lo real sin causar asombro ni incredulidad en los personajes. -->
-- [ ] C) Introducir robots futuristas en una sociedad medieval de fantasía. <!-- feedback: Incorrecto. Eso se asocia con la ciencia ficción o el anacronismo fantástico, no con el realismo mágico. -->
-- [ ] D) Limitar la trama exclusivamente a datos de archivos policiales históricos reales. <!-- feedback: Incorrecto. Esto corresponde a la crónica periodística o la novela negra documental, no al realismo mágico. -->
+- [x] D) Presentar hechos insólitos o fantásticos como sucesos cotidianos y normales dentro de la realidad de los personajes. <!-- feedback: ¡Correcto! La esencia del realismo mágico es la coexistencia natural de lo maravilloso y lo real sin causar asombro ni incredulidad en los personajes. -->
+- [ ] B) Introducir robots futuristas en una sociedad medieval de fantasía. <!-- feedback: Incorrecto. Eso se asocia con la ciencia ficción o el anacronismo fantástico, no con el realismo mágico. -->
+- [ ] C) Limitar la trama exclusivamente a datos de archivos policiales históricos reales. <!-- feedback: Incorrecto. Esto corresponde a la crónica periodística o la novela negra documental, no al realismo mágico. -->
 
 ### Explicacion Pedagogica
 El realismo mágico, acuñado por la crítica hispanoamericana, se caracteriza porque lo fantástico se funde de manera orgánica con lo cotidiano, de modo que los milagros o apariciones son interpretados por los personajes como parte normal de la naturaleza.
@@ -161,8 +161,8 @@ Si un autor puertorriqueño escribe una novela que inicia con el funeral del pro
 
 ### Opciones
 - [ ] A) Prolepsis (anticipación de un futuro remoto). <!-- feedback: Incorrecto. No se adelantan hechos del futuro de forma rápida, se retrocede al pasado para narrar el transcurso vital. -->
-- [ ] B) Estructura lineal cronológica directa. <!-- feedback: Incorrecto. La historia no sigue un orden temporal directo; comienza por el final de la vida del personaje. -->
-- [x] C) Racconto (retrospección extensa y detallada del pasado) <!-- feedback: ¡Correcto! El racconto es un viaje extenso y cronológico al pasado que permite reconstruir la historia de vida del personaje desde un punto de inicio posterior. -->
+- [ ] C) Estructura lineal cronológica directa. <!-- feedback: Incorrecto. La historia no sigue un orden temporal directo; comienza por el final de la vida del personaje. -->
+- [x] B) Racconto (retrospección extensa y detallada del pasado) <!-- feedback: ¡Correcto! El racconto es un viaje extenso y cronológico al pasado que permite reconstruir la historia de vida del personaje desde un punto de inicio posterior. -->
 - [ ] D) Flashback (regresión temporal violenta e instantánea). <!-- feedback: Incorrecto. Un flashback es una mirada al pasado extremadamente breve y rápida, mientras que narrar toda una vida es un viaje pausado y prolongado (racconto). -->
 
 ### Explicacion Pedagogica
@@ -181,9 +181,9 @@ La anacronía es la alteración del orden cronológico de los sucesos de la tram
 ¿Qué corriente literaria y qué sentido metafórico subyace en la transformación de la sobrina menor en una muñeca habitada por chágaras al final del relato?
 
 ### Opciones
-- [ ] A) El realismo social clásico de denuncia sindical de los cañaverales. <!-- feedback: Incorrecto. La metamorfosis física y la muñeca viviente trascienden el mero realismo obrero costumbrista. -->
-- [ ] B) La novela histórica documental sobre la colonización española de Ponce. <!-- feedback: Incorrecto. El relato aborda dinámicas burguesas modernas, no la conquista española, y utiliza elementos fantásticos. -->
-- [x] C) La literatura neofantástica y de crítica feminista contra la cosificación de la mujer burguesa <!-- feedback: ¡Correcto! La transformación en muñeca simboliza la cosificación social de la mujer burguesa tratada como adorno. La chágara representa el castigo o la venganza poética femenina contra la opresión patriarcal. -->
+- [ ] B) El realismo social clásico de denuncia sindical de los cañaverales. <!-- feedback: Incorrecto. La metamorfosis física y la muñeca viviente trascienden el mero realismo obrero costumbrista. -->
+- [ ] C) La novela histórica documental sobre la colonización española de Ponce. <!-- feedback: Incorrecto. El relato aborda dinámicas burguesas modernas, no la conquista española, y utiliza elementos fantásticos. -->
+- [x] A) La literatura neofantástica y de crítica feminista contra la cosificación de la mujer burguesa <!-- feedback: ¡Correcto! La transformación en muñeca simboliza la cosificación social de la mujer burguesa tratada como adorno. La chágara representa el castigo o la venganza poética femenina contra la opresión patriarcal. -->
 - [ ] D) El costumbrismo decimonónico que enseña labores de costura doméstica de la época. <!-- feedback: Incorrecto. La obra no tiene un propósito didáctico de costura, sino una profunda carga simbólica y cuestionadora. -->
 
 ### Explicacion Pedagogica
@@ -202,10 +202,10 @@ Rosario Ferré utiliza lo neofantástico en *La muñeca menor* como vehículo de
 ¿Cuál es la tesis existencial y sociológica fundamental que plantea la obra sobre el proceso migratorio de la familia puertorriqueña de la montaña?
 
 ### Opciones
-- [x] A) La emigración urbana e industrial destruye los valores morales tradicionales del campesinado boricua, exigiendo el retorno a la tierra natal como salvación. <!-- feedback: ¡Correcto! René Marqués plantea una postura de resistencia agraria: abandonar la tierra fértil de Orocovis por el espejismo urbano de San Juan o Nueva York produce desintegración familiar y tragedia moral. -->
-- [ ] B) El éxito financiero en Nueva York es el único camino viable para preservar la herencia cultural criolla. <!-- feedback: Incorrecto. Al contrario, Nueva York se retrata como un escenario de alienación, frío y muerte para los personajes. -->
-- [ ] C) El gobierno de los Estados Unidos debió prohibir por ley la entrada de campesinos puertorriqueños al Bronx. <!-- feedback: Incorrecto. La obra es una crítica social y moral del viaje boricua, no una propuesta de ley de exclusión de fronteras. -->
-- [ ] D) La modernización tecnológica del campo debe importarse de forma idéntica del modelo industrial norteamericano. <!-- feedback: Incorrecto. El autor rechaza la tecnificación deshumanizante de las máquinas que causan accidentes mortales (como la muerte de Luis). -->
+- [x] D) La emigración urbana e industrial destruye los valores morales tradicionales del campesinado boricua, exigiendo el retorno a la tierra natal como salvación. <!-- feedback: ¡Correcto! René Marqués plantea una postura de resistencia agraria: abandonar la tierra fértil de Orocovis por el espejismo urbano de San Juan o Nueva York produce desintegración familiar y tragedia moral. -->
+- [ ] A) El éxito financiero en Nueva York es el único camino viable para preservar la herencia cultural criolla. <!-- feedback: Incorrecto. Al contrario, Nueva York se retrata como un escenario de alienación, frío y muerte para los personajes. -->
+- [ ] B) El gobierno de los Estados Unidos debió prohibir por ley la entrada de campesinos puertorriqueños al Bronx. <!-- feedback: Incorrecto. La obra es una crítica social y moral del viaje boricua, no una propuesta de ley de exclusión de fronteras. -->
+- [ ] C) La modernización tecnológica del campo debe importarse de forma idéntica del modelo industrial norteamericano. <!-- feedback: Incorrecto. El autor rechaza la tecnificación deshumanizante de las máquinas que causan accidentes mortales (como la muerte de Luis). -->
 
 ### Explicacion Pedagogica
 *La carreta* de René Marqués sostiene que el progreso urbano-industrial destruye la pureza del campesino. El destino trágico de la familia solo se soluciona moralmente mediante el retorno nostálgico al cultivo de la tierra en Puerto Rico como eje identitario.
@@ -224,8 +224,8 @@ Rosario Ferré utiliza lo neofantástico en *La muñeca menor* como vehículo de
 
 ### Opciones
 - [ ] A) Símil o comparación explícita. <!-- feedback: Incorrecto. No se utiliza el nexo "como" o "parece" para equiparar la casa con otro elemento distinto. -->
-- [x] B) Prosopopeya o personificación <!-- feedback: ¡Correcto! Se atribuyen cualidades humanas y biológicas ("parecía respirar", "recordando") al espacio inanimado de la casona de ausubo. -->
-- [ ] C) Hipérbaton gramatical extremo. <!-- feedback: Incorrecto. El orden sintáctico de la oración es estándar y comprensible, no hay alteración del orden de las palabras. -->
+- [x] C) Prosopopeya o personificación <!-- feedback: ¡Correcto! Se atribuyen cualidades humanas y biológicas ("parecía respirar", "recordando") al espacio inanimado de la casona de ausubo. -->
+- [ ] B) Hipérbaton gramatical extremo. <!-- feedback: Incorrecto. El orden sintáctico de la oración es estándar y comprensible, no hay alteración del orden de las palabras. -->
 - [ ] D) Reticencia elíptica de adjetivos. <!-- feedback: Incorrecto. El texto está cargado de adjetivos calificativos directos (vieja, ausubo, último, familiar), no los suprime. -->
 
 ### Explicacion Pedagogica
@@ -244,8 +244,8 @@ La prosopopeya o personificación otorga vida y rasgos humanos a objetos o espac
 ¿Cuál es la función metodológica del concepto de "intertextualidad" en el análisis literario moderno?
 
 ### Opciones
-- [ ] A) Demostrar que el autor copió textualmente y cometió plagio intelectual de obras pasadas. <!-- feedback: Incorrecto. La intertextualidad es un diálogo estético deliberado y creativo, no un delito de copia ilegal o plagio. -->
-- [x] B) Analizar la relación de diálogo, referencia, transformación o cita que un texto establece con otros textos y discursos sociales previos. <!-- feedback: ¡Correcto! La intertextualidad revela cómo una obra literaria dialoga con el universo discursivo exterior (otras novelas, mitos, noticias, géneros), enriqueciendo su significado. -->
+- [ ] B) Demostrar que el autor copió textualmente y cometió plagio intelectual de obras pasadas. <!-- feedback: Incorrecto. La intertextualidad es un diálogo estético deliberado y creativo, no un delito de copia ilegal o plagio. -->
+- [x] A) Analizar la relación de diálogo, referencia, transformación o cita que un texto establece con otros textos y discursos sociales previos. <!-- feedback: ¡Correcto! La intertextualidad revela cómo una obra literaria dialoga con el universo discursivo exterior (otras novelas, mitos, noticias, géneros), enriqueciendo su significado. -->
 - [ ] C) Limitar la lectura exclusivamente a los errores de imprenta del libro original. <!-- feedback: Incorrecto. Los errores tipográficos corresponden a la crítica textual de imprenta, no a la intertextualidad de sentido. -->
 - [ ] D) Prohibir que se mencione cualquier autor que no sea del agrado de la crítica académica oficial. <!-- feedback: Incorrecto. La intertextualidad es descriptiva y abierta, no un mecanismo de censura política. -->
 
@@ -289,8 +289,8 @@ El *Bildungsroman* o novela de formación enfoca su estructura en el desarrollo 
 
 ### Opciones
 - [ ] A) Luis tiene miedo al agua debido a un trauma médico infantil inexplicable en San Juan. <!-- feedback: Incorrecto. La objeción de Luis es de sentido común ingenieril y físico, no un miedo irracional de salud. -->
-- [ ] B) Carmen es una inversionista de bienes raíces que busca defraudar a las agencias de Guaynabo. <!-- feedback: Incorrecto. Carmen adopta una postura lírica y de rechazo al mercantilismo inmobiliario burgués; no busca lucrarse con fraudes. -->
-- [x] C) Luis encarna la racionalidad pragmática de la seguridad material, mientras Carmen representa la obstinación poética y el rechazo a la segregación económica urbana. <!-- feedback: ¡Correcto! Luis se enfoca en el peligro técnico de los cimientos (pragmatismo), mientras que Carmen prefiere el riesgo físico a someterse a la asfixia social o de alquiler en zonas ricas. -->
+- [ ] C) Carmen es una inversionista de bienes raíces que busca defraudar a las agencias de Guaynabo. <!-- feedback: Incorrecto. Carmen adopta una postura lírica y de rechazo al mercantilismo inmobiliario burgués; no busca lucrarse con fraudes. -->
+- [x] B) Luis encarna la racionalidad pragmática de la seguridad material, mientras Carmen representa la obstinación poética y el rechazo a la segregación económica urbana. <!-- feedback: ¡Correcto! Luis se enfoca en el peligro técnico de los cimientos (pragmatismo), mientras que Carmen prefiere el riesgo físico a someterse a la asfixia social o de alquiler en zonas ricas. -->
 - [ ] D) Ambos personajes odian la geografía caribeña de la isla y desean emigrar a los Estados Unidos. <!-- feedback: Incorrecto. Su debate se concentra en habitar la isla de dos maneras alternativas (la laguna versus la colina urbana de Guaynabo). -->
 
 ### Explicacion Pedagogica
@@ -310,8 +310,8 @@ El diálogo revela las dimensiones axiológicas de los personajes. Al oponer la 
 
 ### Opciones
 - [ ] A) Se refiere a la víspera de la fiesta patronal de un pueblo rural boricua. <!-- feedback: Incorrecto. El título no alude a una celebración religiosa o municipal concreta del calendario festivo. -->
-- [x] B) Simboliza la etapa de la adolescencia (víspera) previa al nacimiento ético y doloroso del hombre adulto comprometido con su realidad nacional. <!-- feedback: ¡Correcto! El título alude poéticamente al umbral de formación sicológica e identitaria del protagonista (Pirulo), quien está a punto de dejar la inocencia infantil para encarar la adultez como "hombre" boricua. -->
-- [ ] C) Hace referencia a un desastre atmosférico inminente que acabará con los cafetales. <!-- feedback: Incorrecto. No es una novela sobre catástrofes climatológicas, aunque se mencione el entorno físico del campo. -->
+- [x] C) Simboliza la etapa de la adolescencia (víspera) previa al nacimiento ético y doloroso del hombre adulto comprometido con su realidad nacional. <!-- feedback: ¡Correcto! El título alude poéticamente al umbral de formación sicológica e identitaria del protagonista (Pirulo), quien está a punto de dejar la inocencia infantil para encarar la adultez como "hombre" boricua. -->
+- [ ] B) Hace referencia a un desastre atmosférico inminente que acabará con los cafetales. <!-- feedback: Incorrecto. No es una novela sobre catástrofes climatológicas, aunque se mencione el entorno físico del campo. -->
 - [ ] D) Señala el fin de la dominación española sobre los municipios de la cordillera. <!-- feedback: Incorrecto. La novela transcurre en la década de 1930, mucho después del cambio de soberanía de 1898. -->
 
 ### Explicacion Pedagogica
@@ -330,10 +330,10 @@ El diálogo revela las dimensiones axiológicas de los personajes. Al oponer la 
 ¿Qué técnica narrativa emplea principalmente el autor para denunciar la desigualdad de clases en este pasaje?
 
 ### Opciones
-- [x] A) El contraste visual directo de las descripciones físicas corporales entre amo y obrero <!-- feedback: ¡Correcto! El autor contrapone la descripción de las manos limpias y ociosas del hacendado con las manos lastimadas y encorvadas de los cañeros bajo el sol, evidenciando de forma visual la explotación laboral sin recurrir a discursos panfletarios. -->
-- [ ] B) El monólogo interior subjetivo del capataz del cañaveral. <!-- feedback: Incorrecto. No se presenta el flujo de pensamiento de ningún personaje en primera persona; la descripción es externa en tercera persona. -->
-- [ ] C) Una alteración temporal fantasiosa de realismo mágico con saltos de siglo. <!-- feedback: Incorrecto. El pasaje es realista, descriptivo y directo; no hay elementos mágicos ni saltos de tiempo. -->
-- [ ] D) El uso de diálogos cómicos para aliviar la tensión trágica del trabajo. <!-- feedback: Incorrecto. No existen diálogos en este fragmento, y el tono es solemne y crítico, no humorístico o cómico. -->
+- [x] D) El contraste visual directo de las descripciones físicas corporales entre amo y obrero <!-- feedback: ¡Correcto! El autor contrapone la descripción de las manos limpias y ociosas del hacendado con las manos lastimadas y encorvadas de los cañeros bajo el sol, evidenciando de forma visual la explotación laboral sin recurrir a discursos panfletarios. -->
+- [ ] A) El monólogo interior subjetivo del capataz del cañaveral. <!-- feedback: Incorrecto. No se presenta el flujo de pensamiento de ningún personaje en primera persona; la descripción es externa en tercera persona. -->
+- [ ] B) Una alteración temporal fantasiosa de realismo mágico con saltos de siglo. <!-- feedback: Incorrecto. El pasaje es realista, descriptivo y directo; no hay elementos mágicos ni saltos de tiempo. -->
+- [ ] C) El uso de diálogos cómicos para aliviar la tensión trágica del trabajo. <!-- feedback: Incorrecto. No existen diálogos en este fragmento, y el tono es solemne y crítico, no humorístico o cómico. -->
 
 ### Explicacion Pedagogica
 La descripción selectiva con intención contrastante es una poderosa herramienta retórica de denuncia social. Al enfrentar la corporalidad ociosa del dueño con la anatomía explotada del obrero, el autor devela la injusticia de la estructura agraria tradicional.
@@ -352,9 +352,9 @@ La descripción selectiva con intención contrastante es una poderosa herramient
 
 ### Opciones
 - [ ] A) El niño encuentra una bolsa de monedas de oro en el lodo del caño Martín Peña. <!-- feedback: Incorrecto. El niño no encuentra tesoros económicos reales; vive y muere en la extrema pobreza del arrabal. -->
-- [x] B) El "gozo" es la ilusión óptica del niño al ver su propio reflejo sonriente en el agua estancada, lo que le lleva a caer al caño creyendo que hay otro niño esperándolo para jugar. <!-- feedback: ¡Correcto! El título encierra una terrible ironía lírica: el niño ve su reflejo (un "gozo" inocente) en el agua contaminada y se ahoga al intentar alcanzar su propia imagen amiga, denunciando de manera magistral la miseria material del arrabal. -->
-- [ ] C) La comunidad celebra una fiesta vecinal alegre en la laguna costera de San Juan. <!-- feedback: Incorrecto. El final es profundamente trágico y desolador, no una fiesta vecinal feliz. -->
-- [ ] D) El gobierno aprueba un proyecto de viviendas gratuitas de lujo para todos los habitantes del caño. <!-- feedback: Incorrecto. La obra es realista y de fuerte crítica social, denunciando la desidia estatal frente a la marginación urbana del caño. -->
+- [x] D) El "gozo" es la ilusión óptica del niño al ver su propio reflejo sonriente en el agua estancada, lo que le lleva a caer al caño creyendo que hay otro niño esperándolo para jugar. <!-- feedback: ¡Correcto! El título encierra una terrible ironía lírica: el niño ve su reflejo (un "gozo" inocente) en el agua contaminada y se ahoga al intentar alcanzar su propia imagen amiga, denunciando de manera magistral la miseria material del arrabal. -->
+- [ ] B) La comunidad celebra una fiesta vecinal alegre en la laguna costera de San Juan. <!-- feedback: Incorrecto. El final es profundamente trágico y desolador, no una fiesta vecinal feliz. -->
+- [ ] C) El gobierno aprueba un proyecto de viviendas gratuitas de lujo para todos los habitantes del caño. <!-- feedback: Incorrecto. La obra es realista y de fuerte crítica social, denunciando la desidia estatal frente a la marginación urbana del caño. -->
 
 ### Explicacion Pedagogica
 José Luis González denuncia la marginación urbana mediante una ironía trágica en "En el fondo del caño hay un gozo". El agua fangosa y estancada del caño Martín Peña, que representa el límite de la exclusión social, se convierte en el espejo fatal donde un niño inocente encuentra la muerte al buscar afecto en su reflejo.
@@ -372,8 +372,8 @@ José Luis González denuncia la marginación urbana mediante una ironía trági
 ¿Qué juicio crítico emite el ensayista moderno sobre el enfoque identitario de la Generación del 30 en Puerto Rico?
 
 ### Opciones
-- [ ] A) Que fue el primer movimiento literario en celebrar con total inclusión e igualdad los derechos civiles afroboricuas. <!-- feedback: Incorrecto. El ensayista denuncia precisamente que el modelo de la Generación del 30 "excluía la herencia africana". -->
-- [x] B) Que construyó un concepto de identidad nacional nostálgico, elitista y excluyente centrado en el hacendado de montaña y de espaldas a los sectores obreros y negros. <!-- feedback: ¡Correcto! El ensayista juzga que la Generación del 30 idealizó el paternalismo agrario del hacendado, ignorando la realidad de exclusión de las clases trabajadoras y de los afrodescendientes. -->
+- [ ] B) Que fue el primer movimiento literario en celebrar con total inclusión e igualdad los derechos civiles afroboricuas. <!-- feedback: Incorrecto. El ensayista denuncia precisamente que el modelo de la Generación del 30 "excluía la herencia africana". -->
+- [x] A) Que construyó un concepto de identidad nacional nostálgico, elitista y excluyente centrado en el hacendado de montaña y de espaldas a los sectores obreros y negros. <!-- feedback: ¡Correcto! El ensayista juzga que la Generación del 30 idealizó el paternalismo agrario del hacendado, ignorando la realidad de exclusión de las clases trabajadoras y de los afrodescendientes. -->
 - [ ] C) Que el grupo debió escribir todas sus novelas en inglés para modernizarse. <!-- feedback: Incorrecto. No se cuestiona el idioma español de la producción del 30, sino su enfoque sociológico aristocrático agrario. -->
 - [ ] D) Que sus cuentos carecían de valor artístico debido a la falta de métrica y rima en la prosa narrativa. <!-- feedback: Incorrecto. La crítica moderna no evalúa la prosa del 30 según normas de rima poética, sino por su discurso nacional restrictivo. -->
 
@@ -393,8 +393,8 @@ El análisis crítico contemporáneo revisa los mitos literarios fundacionales. 
 ¿Cuál es el valor estético y sociológico de la polifonía en una novela urbana que aborda la migración o la marginalidad?
 
 ### Opciones
-- [ ] A) Obligar a todos los personajes a hablar con un acento idéntico refinado para no ofender al lector. <!-- feedback: Incorrecto. La polifonía celebra precisamente la diferencia de registros y dialectos, no la uniformidad idiomática. -->
-- [x] B) Permitir que coexistan múltiples visiones de mundo, discursos, dialectos y posturas ideológicas de diversos sectores sociales en igualdad de importancia estética dentro de la novela. <!-- feedback: ¡Correcto! La polifonía (teorizada por Mijaíl Bajtín) democratiza el espacio de la novela, permitiendo que las voces de marginados, adinerados, burócratas o intelectuales convivan en tensión, reflejando el caos social real. -->
+- [ ] B) Obligar a todos los personajes a hablar con un acento idéntico refinado para no ofender al lector. <!-- feedback: Incorrecto. La polifonía celebra precisamente la diferencia de registros y dialectos, no la uniformidad idiomática. -->
+- [x] A) Permitir que coexistan múltiples visiones de mundo, discursos, dialectos y posturas ideológicas de diversos sectores sociales en igualdad de importancia estética dentro de la novela. <!-- feedback: ¡Correcto! La polifonía (teorizada por Mijaíl Bajtín) democratiza el espacio de la novela, permitiendo que las voces de marginados, adinerados, burócratas o intelectuales convivan en tensión, reflejando el caos social real. -->
 - [ ] C) Limitar la novela a la transcripción textual y literal de grabaciones policiales de San Juan. <!-- feedback: Incorrecto. La polifonía es una técnica de creación literaria artística, no una transcripción documental forense. -->
 - [ ] D) Garantizar que el narrador omnisciente corrija en rojo todas las expresiones populares de los personajes. <!-- feedback: Incorrecto. Si el narrador corrigiera o sometiera todas las voces a su norma, se destruiría la polifonía, cayendo en la monofonía autoritaria. -->
 
@@ -416,8 +416,8 @@ La polifonía literaria enriquece la representación social en la novela contemp
 ### Opciones
 - [ ] A) Señalar que la calidad técnica de las estaciones de radio de Ponce era muy deficiente. <!-- feedback: Incorrecto. Es una lectura literal y simplista; el "silencio" tiene una fuerte carga metafórica sobre el fin de una era o la alienación colectiva. -->
 - [ ] B) Demostrar que los personajes del cuento prefieren la música clásica grabada sobre el susurro natural del mar. <!-- feedback: Incorrecto. El mar y el silencio representan un vacío existencial desolador, no una preferencia de géneros musicales refinados. -->
-- [x] C) Simbolizar la soledad existencial, la desconexión social colectiva y la parálisis identitaria de la sociedad boricua frente al vacío de la modernización. <!-- feedback: ¡Correcto! El fin de la música (la guaracha o salsa activa) y el silencio en los transmisores representan metafóricamente la pérdida de cohesión, el vacío y el desamparo existencial de una isla saturada por la modernidad vacía de contenido. -->
-- [ ] D) Indicar que la novela continuará en un segundo volumen centrado en el desarrollo de plantas hidroeléctricas. <!-- feedback: Incorrecto. No es una novela técnica de desarrollo de infraestructura energética; es una obra literaria de fuerte corte existencial y simbólico caribeño. -->
+- [x] D) Simbolizar la soledad existencial, la desconexión social colectiva y la parálisis identitaria de la sociedad boricua frente al vacío de la modernización. <!-- feedback: ¡Correcto! El fin de la música (la guaracha o salsa activa) y el silencio en los transmisores representan metafóricamente la pérdida de cohesión, el vacío y el desamparo existencial de una isla saturada por la modernidad vacía de contenido. -->
+- [ ] C) Indicar que la novela continuará en un segundo volumen centrado en el desarrollo de plantas hidroeléctricas. <!-- feedback: Incorrecto. No es una novela técnica de desarrollo de infraestructura energética; es una obra literaria de fuerte corte existencial y simbólico caribeño. -->
 
 ### Explicacion Pedagogica
 El análisis de finales abiertos o metafóricos requiere interpretar las resonancias existenciales de los símbolos empleados. El silencio colectivo de la radio y el mar representa el desamparo moral y de identidad nacional de la modernidad colonial insular.
@@ -436,8 +436,8 @@ El análisis de finales abiertos o metafóricos requiere interpretar las resonan
 
 ### Opciones
 - [ ] A) Reclamar que Puerto Rico carece de cualquier nexo cultural con el resto de las Antillas debido al estatus de moneda en USD. <!-- feedback: Incorrecto. La moneda no anula los lazos históricos, literarios e identitarios profundos del archipiélago caribeño. -->
-- [x] B) Interpretar las novelas costeras y la música (bomba, plena, salsa) como discursos dinámicos de resistencia e hibridez que dialogan constantemente con la herencia de las demás Antillas (Cuba, República Dominicana). <!-- feedback: ¡Correcto! El enfoque postcolonial caribeño concibe la literatura isleña como un ecosistema vivo de resistencia cultural, donde el ritmo y el mestizaje lingüístico y sonoro nos conectan con el resto de la cuenca antillana en superación de fronteras geopolíticas. -->
-- [ ] C) Exigir que la literatura boricua imite de forma idéntica la narrativa realista tradicional de la meseta castellana de España. <!-- feedback: Incorrecto. Esto va en contra de la teoría postcolonial, que busca la liberación de los moldes imperiales castellanos mediante el sincretismo de lo criollo. -->
+- [x] C) Interpretar las novelas costeras y la música (bomba, plena, salsa) como discursos dinámicos de resistencia e hibridez que dialogan constantemente con la herencia de las demás Antillas (Cuba, República Dominicana). <!-- feedback: ¡Correcto! El enfoque postcolonial caribeño concibe la literatura isleña como un ecosistema vivo de resistencia cultural, donde el ritmo y el mestizaje lingüístico y sonoro nos conectan con el resto de la cuenca antillana en superación de fronteras geopolíticas. -->
+- [ ] B) Exigir que la literatura boricua imite de forma idéntica la narrativa realista tradicional de la meseta castellana de España. <!-- feedback: Incorrecto. Esto va en contra de la teoría postcolonial, que busca la liberación de los moldes imperiales castellanos mediante el sincretismo de lo criollo. -->
 - [ ] D) Limitar el estudio de las obras exclusivamente a la medición física de las cuerdas de terreno de la cordillera central. <!-- feedback: Incorrecto. Esto corresponde a la agrimensura o geografía catastral, no al análisis semiótico y postcolonial de la herencia literaria. -->
 
 ### Explicacion Pedagogica

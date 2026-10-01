@@ -34,9 +34,9 @@ Este bundle de 10 preguntas recorre el sistema nervioso y los órganos de los se
 ¿Qué órgano principal dirige y coordina el sistema nervioso central?
 
 ### Opciones
-- [x] A) El encéfalo, que incluye el cerebro, el cerebelo y el bulbo raquídeo
+- [x] B) El encéfalo, que incluye el cerebro, el cerebelo y el bulbo raquídeo
   <!-- feedback: Correcto. El encéfalo es el centro de control del sistema nervioso central. -->
-- [ ] B) El estómago, que procesa la información
+- [ ] A) El estómago, que procesa la información
   <!-- feedback: Incorrecto. El estómago pertenece al sistema digestivo. -->
 - [ ] C) Los pulmones, que ordenan los movimientos
   <!-- feedback: Incorrecto. Los pulmones pertenecen al sistema respiratorio. -->
@@ -80,9 +80,9 @@ Los órganos de los sentidos contienen receptores que captan estímulos como la 
 ¿Qué deben concluir a partir del cambio de tamaño de la pupila?
 
 ### Opciones
-- [x] A) Que se trata de un acto reflejo: el ojo responde automáticamente a la luz para proteger la retina
+- [x] B) Que se trata de un acto reflejo: el ojo responde automáticamente a la luz para proteger la retina
   <!-- feedback: Correcto. La pupila se ajusta sin control consciente. -->
-- [ ] B) Que el compañero decidió cerrar la pupila con la mente
+- [ ] A) Que el compañero decidió cerrar la pupila con la mente
   <!-- feedback: Incorrecto. El reflejo pupilar es involuntario. -->
 - [ ] C) Que la linterna le cambió el color al ojo
   <!-- feedback: Incorrecto. El tamaño de la pupila cambia, no el color del ojo. -->
@@ -103,9 +103,9 @@ El cambio de tamaño de la pupila frente a la luz es un acto reflejo involuntari
 ¿Qué secuencia describe la respuesta del conductor desde que ve la luz roja hasta que frena?
 
 ### Opciones
-- [x] A) El ojo capta la luz, el nervio óptico lleva la información al cerebro, este la interpreta y envía una orden por los nervios hasta los músculos de la pierna que accionan el freno
+- [x] B) El ojo capta la luz, el nervio óptico lleva la información al cerebro, este la interpreta y envía una orden por los nervios hasta los músculos de la pierna que accionan el freno
   <!-- feedback: Correcto. Describe el circuito estímulo, procesamiento y respuesta. -->
-- [ ] B) Los músculos de la pierna ven la luz y deciden frenar solos
+- [ ] A) Los músculos de la pierna ven la luz y deciden frenar solos
   <!-- feedback: Incorrecto. Los músculos no captan la luz; el ojo envía la información. -->
 - [ ] C) La sangre produce la orden de frenar al detectar el rojo
   <!-- feedback: Incorrecto. La sangre no interpreta señales visuales. -->
@@ -126,13 +126,13 @@ Responder a un estímulo implica tres pasos: un receptor capta la señal, el sis
 ¿Por qué retira la mano tan rápido, incluso antes de ser consciente del dolor?
 
 ### Opciones
-- [x] A) Porque es un acto reflejo que la médula espinal ejecuta rápidamente sin esperar el procesamiento completo del cerebro
+- [x] D) Porque es un acto reflejo que la médula espinal ejecuta rápidamente sin esperar el procesamiento completo del cerebro
   <!-- feedback: Correcto. Los reflejos protegen el cuerpo con respuestas veloces. -->
-- [ ] B) Porque la mano tiene un cerebro propio en los dedos
+- [ ] A) Porque la mano tiene un cerebro propio en los dedos
   <!-- feedback: Incorrecto. Los dedos no contienen un cerebro. -->
-- [ ] C) Porque la piel expulsa el calor con un resorte
+- [ ] B) Porque la piel expulsa el calor con un resorte
   <!-- feedback: Incorrecto. La piel no tiene un resorte mecánico. -->
-- [ ] D) Porque el corazón le ordena a la mano moverse
+- [ ] C) Porque el corazón le ordena a la mano moverse
   <!-- feedback: Incorrecto. El corazón no ejecuta respuestas motoras. -->
 
 ### Explicacion Pedagogica
@@ -149,11 +149,11 @@ Los actos reflejos son respuestas rápidas e involuntarias; en el reflejo de ret
 ¿Qué análisis explica por qué la yema de los dedos detecta mejor dos puntos cercanos que la espalda?
 
 ### Opciones
-- [x] A) La yema de los dedos tiene mayor densidad de receptores táctiles, por lo que distingue estímulos muy próximos
+- [x] C) La yema de los dedos tiene mayor densidad de receptores táctiles, por lo que distingue estímulos muy próximos
   <!-- feedback: Correcto. Más receptores implican mayor resolución táctil. -->
-- [ ] B) La espalda no tiene receptores táctiles de ningún tipo
+- [ ] A) La espalda no tiene receptores táctiles de ningún tipo
   <!-- feedback: Incorrecto. La espalda sí tiene receptores, pero en menor cantidad. -->
-- [ ] C) La yema es más grande que la espalda
+- [ ] B) La yema es más grande que la espalda
   <!-- feedback: Incorrecto. El tamaño de la superficie no es la causa. -->
 - [ ] D) Los dedos captan estímulos porque son más delgados
   <!-- feedback: Incorrecto. La causa es la densidad de receptores, no el grosor. -->
@@ -172,11 +172,11 @@ La sensibilidad de la piel depende de la cantidad y proximidad de los receptores
 ¿Qué análisis describe la función específica del cerebelo en el sistema nervioso?
 
 ### Opciones
-- [x] A) El cerebelo coordina el equilibrio, la postura y los movimientos finos; por eso su lesión altera la coordinación sin impedir del todo el movimiento
+- [x] C) El cerebelo coordina el equilibrio, la postura y los movimientos finos; por eso su lesión altera la coordinación sin impedir del todo el movimiento
   <!-- feedback: Correcto. El cerebelo ajusta la precisión del movimiento y el equilibrio. -->
-- [ ] B) El cerebelo produce la sangre que riega el cerebro
+- [ ] A) El cerebelo produce la sangre que riega el cerebro
   <!-- feedback: Incorrecto. La sangre llega por los vasos sanguíneos. -->
-- [ ] C) El cerebelo es el encargado exclusivo de la memoria
+- [ ] B) El cerebelo es el encargado exclusivo de la memoria
   <!-- feedback: Incorrecto. La memoria se relaciona principalmente con otras áreas cerebrales. -->
 - [ ] D) El cerebelo controla solo la respiración y los latidos del corazón
   <!-- feedback: Incorrecto. Esas funciones vitales las regula el bulbo raquídeo. -->
@@ -218,11 +218,11 @@ El oído interno contiene células sensoriales ciliadas que transforman las vibr
 ¿Qué evaluación conjunta de las tres afirmaciones es correcta?
 
 ### Opciones
-- [x] A) La 1 es verdadera, la 2 es verdadera y la 3 es falsa porque los sentidos solo captan información y es el sistema nervioso el que la procesa
+- [x] C) La 1 es verdadera, la 2 es verdadera y la 3 es falsa porque los sentidos solo captan información y es el sistema nervioso el que la procesa
   <!-- feedback: Correcto. Valida los reflejos y la función sensorial, y corrige el error. -->
-- [ ] B) Las tres son verdaderas porque los ojos y los oídos pueden razonar
+- [ ] A) Las tres son verdaderas porque los ojos y los oídos pueden razonar
   <!-- feedback: Incorrecto. Los órganos de los sentidos no piensan; solo captan estímulos. -->
-- [ ] C) Solo la 3 es verdadera y las demás son falsas
+- [ ] B) Solo la 3 es verdadera y las demás son falsas
   <!-- feedback: Incorrecto. La 3 es falsa y las dos primeras son verdaderas. -->
 - [ ] D) Las tres son falsas porque el sistema nervioso no existe
   <!-- feedback: Incorrecto. El sistema nervioso es real y coordina todo el cuerpo. -->
@@ -241,9 +241,9 @@ Evaluar estas afirmaciones exige distinguir captar de procesar: los sentidos rec
 ¿Qué medida conviene priorizar y por qué?
 
 ### Opciones
-- [x] A) Reducir la exposición al ruido y a sustancias tóxicas, y promover el descanso y el uso de protección adecuada, porque previenen daños nerviosos y sensoriales de forma sostenible
+- [x] B) Reducir la exposición al ruido y a sustancias tóxicas, y promover el descanso y el uso de protección adecuada, porque previenen daños nerviosos y sensoriales de forma sostenible
   <!-- feedback: Correcto. La prevención reduce riesgos reales a bajo costo. -->
-- [ ] B) Comprar equipos costosos que solo usen algunos empleados
+- [ ] A) Comprar equipos costosos que solo usen algunos empleados
   <!-- feedback: Incorrecto. Un gasto alto y de bajo alcance no protege a toda la plantilla. -->
 - [ ] C) Ignorar los síntomas hasta que sean graves
   <!-- feedback: Incorrecto. Atender tarde permite que el daño nervioso avance. -->

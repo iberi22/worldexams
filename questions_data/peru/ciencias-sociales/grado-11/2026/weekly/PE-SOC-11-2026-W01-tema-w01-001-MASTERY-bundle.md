@@ -30,9 +30,9 @@ creador: "Jules-Agent"
 ¿Cuál de las siguientes teorías sobre el poblamiento de América sostiene que el hombre llegó al continente procedente de Asia cruzando el estrecho de Bering durante la última glaciación?
 
 ### Opciones
-- [x] A) Teoría Inmigracionista Asiática (Alex Hrdlicka)
+- [x] B) Teoría Inmigracionista Asiática (Alex Hrdlicka)
   <!-- feedback: Correcto. Alex Hrdlicka planteó la ruta asiática a través del Estrecho de Bering favorecida por la eustacia glacial. -->
-- [ ] B) Teoría Australiana (Méndez Correia)
+- [ ] A) Teoría Australiana (Méndez Correia)
   <!-- feedback: Incorrecto. Méndez Correia postuló la ruta por la Antártida hasta la Patagonia. -->
 - [ ] C) Teoría Autoctonista (Florentino Ameghino)
   <!-- feedback: Incorrecto. Ameghino sostuvo erróneamente que la humanidad surgió en la pampa argentina. -->
@@ -80,13 +80,13 @@ La Ciudad Sagrada de Caral fue investigada por Ruth Shady y se ubica en el valle
 El centro ceremonial de Chavín de Huántar fue considerado por Julio C. Tello como la 'cultura matriz' del Perú. ¿Cuál es su principal característica arquitectónica e ideológica?
 
 ### Opciones
-- [x] A) Teocracia basada en el control del agua y el culto a dioses terroríficos (Lanzón Monolítico)
+- [x] D) Teocracia basada en el control del agua y el culto a dioses terroríficos (Lanzón Monolítico)
   <!-- feedback: Correcto. Chavín fue un estado teocrático impulsado por sacerdotes astrónomos que ejercían control mediante ritos y deidades felinicas. -->
-- [ ] B) Imperio militar expansivo con ciudades fortificadas
+- [ ] A) Imperio militar expansivo con ciudades fortificadas
   <!-- feedback: Incorrecto. El carácter miliciano urbano se desarrolló posteriormente en culturas del Horizonte Medio como Wari. -->
-- [ ] C) Confederación democrática de ayllus autónomos
+- [ ] B) Confederación democrática de ayllus autónomos
   <!-- feedback: Incorrecto. En Chavín existía una marcada jerarquía teocrática dominada por sacerdotes. -->
-- [ ] D) Estado estrictamente comercial sin templos religiosos
+- [ ] C) Estado estrictamente comercial sin templos religiosos
   <!-- feedback: Incorrecto. La religión y la astronomía ceremonial eran la columna vertebral de Chavín. -->
 
 ### Explicacion Pedagogica
@@ -105,9 +105,9 @@ Chavín expandió su influencia mediante un sistema teocrático donde los sacerd
 La cultura Paracas (fase Paracas Necrópolis) destaca extraordinariamente en el ámbito cultural precolombino por:
 
 ### Opciones
-- [x] A) Sus finos y complejos mantos textiles con bordados policromos
+- [x] B) Sus finos y complejos mantos textiles con bordados policromos
   <!-- feedback: Correcto. Paracas Necrópolis es mundialmente célebre por sus fardos funerarios y sus mantos de lana y algodón policromos. -->
-- [ ] B) La invención de la metalurgia del bronce
+- [ ] A) La invención de la metalurgia del bronce
   <!-- feedback: Incorrecto. El bronce fue perfeccionado principalmente por las culturas Mochica, Tiwanaku y Wari. -->
 - [ ] C) Sus murales policromados con representaciones del dios AI APAEC
   <!-- feedback: Incorrecto. El dios Ai Apaec es la divinidad principal de la cultura Mochica. -->
@@ -130,11 +130,11 @@ Paracas Necrópolis logró la máxima expresión textil del mundo prehispánico 
 La cultura Mochica desarrolló en la costa norte peruana una de las hidráulicas agrícolas más avanzadas del Perú antiguo. ¿Qué obra de ingeniería hidráulica moche irrigó el valle de Chicama?
 
 ### Opciones
-- [x] A) El canal de La Cumbre
+- [x] C) El canal de La Cumbre
   <!-- feedback: Correcto. El canal de La Cumbre alcanzaba más de 110 km y trasladaba aguas entre valles del norte. -->
-- [ ] B) El acueducto de Cantalloc
+- [ ] A) El acueducto de Cantalloc
   <!-- feedback: Incorrecto. Los acueductos subterráneos de Cantalloc fueron construidos por la cultura Nasca. -->
-- [ ] C) El sistema de andenerías de Colca
+- [ ] B) El sistema de andenerías de Colca
   <!-- feedback: Incorrecto. Los andenes del Colca son terrazas agrícolas andinas desarrolladas en Arequipa. -->
 - [ ] D) El canal de Cumbemayo
   <!-- feedback: Incorrecto. El canal de Cumbemayo es una obra megalítica de la zona de Cajamarca. -->
@@ -155,11 +155,11 @@ Los moches dominaron la ingeniería hidráulica costera construyendo represas co
 Los geoglifos de la pampa de Nasca (líneas de Nasca) fueron interpretados por la investigadora María Reiche como:
 
 ### Opciones
-- [x] A) Un gigantesco calendario astronómico con fines agrícolas
+- [x] C) Un gigantesco calendario astronómico con fines agrícolas
   <!-- feedback: Correcto. María Reiche dedicó su vida a teorizar que las líneas eran observaciones astronómicas de solsticios y constelaciones para la siembra. -->
-- [ ] B) Caminos de procesión militar del imperio Wari
+- [ ] A) Caminos de procesión militar del imperio Wari
   <!-- feedback: Incorrecto. No corresponden a caminos militares sino a trazos ceremoniales y astronómicos. -->
-- [ ] C) Sistemas de canalización superficial de agua de mar
+- [ ] B) Sistemas de canalización superficial de agua de mar
   <!-- feedback: Incorrecto. Los geoglifos están trazados en la pampa desértica y no conducían agua salada. -->
 - [ ] D) Límites territoriales de propiedad privada familiar
   <!-- feedback: Incorrecto. Eran representaciones colectivas de carácter sagrado y astronómico. -->
@@ -180,13 +180,13 @@ María Reiche sostuvo que las figuras geométricas y zoomorfas de Nasca servían
 El primer Imperio panandino en el territorio peruano durante el Horizonte Medio (600 - 1000 d. C.) caracterizado por la planificación urbana y red vial fue:
 
 ### Opciones
-- [x] A) Wari
+- [x] D) Wari
   <!-- feedback: Correcto. Wari unificó los Andes centrales integrando aportes urbanos de Huarpa, religiosos de Tiwanaku y textiles/cerámicos de Nasca. -->
-- [ ] B) Tiahuanaco
+- [ ] A) Tiahuanaco
   <!-- feedback: Incorrecto. Tiwanaku fue un estado teocrático-colonizador altiplánico, precursor ideológico pero centrado en el Collao. -->
-- [ ] C) Chimú
+- [ ] B) Chimú
   <!-- feedback: Incorrecto. Chimú fue un reino costeño del Intermedio Tardío con capital en Chan Chan. -->
-- [ ] D) Inca
+- [ ] C) Inca
   <!-- feedback: Incorrecto. El Tahuantinsuyo incaico constituye el Horizonte Tardío posterior. -->
 
 ### Explicacion Pedagogica
@@ -230,9 +230,9 @@ Chan Chan albergaba palacios de barro articulados por ciudadelas residenciales p
 La cultura Tiwanaku utilizó el principio socioeconómico del 'control vertical de pisos ecológicos' para:
 
 ### Opciones
-- [x] A) Acceder a diversidad de productos de diferentes altitudes mediante colonias agrícolas
+- [x] B) Acceder a diversidad de productos de diferentes altitudes mediante colonias agrícolas
   <!-- feedback: Correcto. John Murra demostró que las etnias andinas instalaban enclaves en la costa, valles y yunga para autoabastecerse. -->
-- [ ] B) Imponer tributación monetaria obligatoria a las poblaciones sometidas
+- [ ] A) Imponer tributación monetaria obligatoria a las poblaciones sometidas
   <!-- feedback: Incorrecto. En los Andes no existía la moneda; la economía se basaba en la reciprocidad y redistribución. -->
 - [ ] C) Evitar el intercambio comercial entre la sierra y la selva
   <!-- feedback: Incorrecto. Al contrario, el control vertical promovía la articulación entre diversas zonas ecológicas. -->
@@ -255,13 +255,13 @@ El control vertical de pisos ecológicos permitió a las sociedades andinas supe
 ¿Cuál de los siguientes sitios arqueológicos corresponde al periodo Arcaico Inferior y presenta las evidencias de horticultura más antiguas del Perú (calabazas, pallares)?
 
 ### Opciones
-- [x] A) Guitarrero II (Áncash)
+- [x] D) Guitarrero II (Áncash)
   <!-- feedback: Correcto. Thomas Lynch descubrió en la cueva de Guitarrero evidencias tempranas de cultivo de leguminosas y hortalizas. -->
-- [ ] B) Kotosh (Huánuco)
+- [ ] A) Kotosh (Huánuco)
   <!-- feedback: Incorrecto. Kotosh corresponde al Arcaico Superior, famoso por el Templo de las Manos Cruzadas. -->
-- [ ] C) Piquimachay (Ayacucho)
+- [ ] B) Piquimachay (Ayacucho)
   <!-- feedback: Incorrecto. Piquimachay evidencia pobladores del periodo Lítico o cazadores-recolectores inferiores. -->
-- [ ] D) Huaca Prieta (La Libertad)
+- [ ] C) Huaca Prieta (La Libertad)
   <!-- feedback: Incorrecto. Huaca Prieta pertenece al Arcaico Superior con textiles precerámicos y mate pirograbado. -->
 
 ### Explicacion Pedagogica
@@ -280,11 +280,11 @@ Guitarrero II en el Callejón de Huaylas representa el tránsito temprano hacia 
 Las trepanaciones craneanas realizadas con fines quirúrgicos y rituales alcanzaron su mayor perfeccionamiento en la cultura:
 
 ### Opciones
-- [x] A) Paracas (fase Paracas Cavernas)
+- [x] C) Paracas (fase Paracas Cavernas)
   <!-- feedback: Correcto. Los cirujanos paracas utilizaban cuchillos de obsidiana (tumi) y anestésicos naturales para operar traumatismos óseos. -->
-- [ ] B) Chavín
+- [ ] A) Chavín
   <!-- feedback: Incorrecto. Chavín destacó en la escultura lítica ceremonial, no en cirugía médica avanzada. -->
-- [ ] C) Tallán
+- [ ] B) Tallán
   <!-- feedback: Incorrecto. Los tallanes fueron etnias del norte peruano especializadas en el comercio marítimo. -->
 - [ ] D) Recuay
   <!-- feedback: Incorrecto. Recuay se distinguió por su cerámica arquitectónica y escultura en piedra en Áncash. -->
@@ -305,13 +305,13 @@ Paracas Cavernas es reconocida mundialmente por sus exitosas intervenciones quir
 El dios supremo y creador panandino representado en la Estela Yauya y el Lanzón Monolítico de Chavín tiene rasgos antropomorfos combinados con:
 
 ### Opciones
-- [x] A) Jaguar, serpiente y ave de rapiña
+- [x] D) Jaguar, serpiente y ave de rapiña
   <!-- feedback: Correcto. La tríada sagrada chavinoide integraba colmillos de felino, cabellos de serpiente y garras de arpía. -->
-- [ ] B) Camélido sudamericano y pez de agua dulce
+- [ ] A) Camélido sudamericano y pez de agua dulce
   <!-- feedback: Incorrecto. Los camélidos eran representados en Tiwanaku y el ámbito ganadero altoandino. -->
-- [ ] C) Zorro costero y perro viringo
+- [ ] B) Zorro costero y perro viringo
   <!-- feedback: Incorrecto. El perro peruano aparece retratado en cerámicas moche y chiribaya posteriores. -->
-- [ ] D) Caimán amazónico exclusivamente sin rasgos felínicos
+- [ ] C) Caimán amazónico exclusivamente sin rasgos felínicos
   <!-- feedback: Incorrecto. El caimán aparece en el Templo Viejo, pero siempre hibridado con colmillos de jaguar. -->
 
 ### Explicacion Pedagogica
@@ -355,9 +355,9 @@ Nasca es célebre por su cerámica pictórica polícroma con representaciones de
 La cultura Wari logró mantener la integración de su vasto territorio mediante la construcción de una red de ciudades cabeza de región como:
 
 ### Opciones
-- [x] A) Pikillacta (Cusco) y Cajamarquilla (Lima)
+- [x] B) Pikillacta (Cusco) y Cajamarquilla (Lima)
   <!-- feedback: Correcto. Pikillacta y Cajamarquilla funcionaban como centros administrativos provinciales del imperio Wari. -->
-- [ ] B) Chan Chan (La Libertad) y Paramonga (Lima)
+- [ ] A) Chan Chan (La Libertad) y Paramonga (Lima)
   <!-- feedback: Incorrecto. Chan Chan y Paramonga pertenecen a los reinos Chimú y Chinchay posteriores. -->
 - [ ] C) Kuelap (Amazonas) y Pachacámac (Lima)
   <!-- feedback: Incorrecto. Kuelap es Chachapoyas y Pachacámac fue un santuario costero reestructurado por Wari pero autónomo. -->
@@ -380,11 +380,11 @@ Wari descentralizó el control imperial edificando centros administrativos amura
 El 'Señor de Sipán', uno de los hallazgos arqueológicos más importantes del Perú descubierto por Walter Alva en 1987, perteneció a la cultura:
 
 ### Opciones
-- [x] A) Mochica
+- [x] C) Mochica
   <!-- feedback: Correcto. La tumba real del Señor de Sipán en Huaca Rajada (Lambayeque) reveló el nivel de orfebrería y jerarquía de un gobernante moche. -->
-- [ ] B) Chimú
+- [ ] A) Chimú
   <!-- feedback: Incorrecto. Las tumbas chimúes se concentran en las ciudadelas de Chan Chan. -->
-- [ ] C) Cupisnique
+- [ ] B) Cupisnique
   <!-- feedback: Incorrecto. Cupisnique es una cultura formativa pre-moche del norte peruano. -->
 - [ ] D) Sicán
   <!-- feedback: Incorrecto. El Señor de Sicán (Huaca del Oro) fue descubierto por Izumi Shimada en Batán Grande. -->
@@ -430,13 +430,13 @@ Paiján representa el grupo humano prehistórico costeño con rituales funerario
 Las esculturas en relieve conocidas como 'Manos Cruzadas' se encuentran en el templo de:
 
 ### Opciones
-- [x] A) Kotosh (Huánuco)
+- [x] D) Kotosh (Huánuco)
   <!-- feedback: Correcto. Seiichi Izumi descubrió en Kotosh las célebres Manos Cruzadas modeladas en barro sobre el nicho del templo ceremonial. -->
-- [ ] B) Sechín (Áncash)
+- [ ] A) Sechín (Áncash)
   <!-- feedback: Incorrecto. Sechín exhibe fachadas monolíticas esculpidas con guerreros y sacrificados. -->
-- [ ] C) Chavín de Huántar (Áncash)
+- [ ] B) Chavín de Huántar (Áncash)
   <!-- feedback: Incorrecto. Chavín posee las Cabezas Clavas y el Lanzón Monolítico. -->
-- [ ] D) Caral (Lima)
+- [ ] C) Caral (Lima)
   <!-- feedback: Incorrecto. Caral presenta altares con fogones centrales para quemar ofrendas. -->
 
 ### Explicacion Pedagogica
@@ -455,13 +455,13 @@ El Templo de las Manos Cruzadas de Kotosh es uno de los recintos religiosos más
 ¿Qué actividad económica caracterizó al próspero señorío de Chincha durante el Intermedio Tardío previo a la conquista incaica?
 
 ### Opciones
-- [x] A) El comercio mercantil marítimo en balsas a gran escala trayendo spondylus desde el Ecuador
+- [x] D) El comercio mercantil marítimo en balsas a gran escala trayendo spondylus desde el Ecuador
   <!-- feedback: Correcto. Los mercaderes de Chincha navegaban hasta Guayaquil para intercambiar la concha sagrada Spondylus por cobre y textiles. -->
-- [ ] B) La minería aurífera subterránea en la meseta del Collao
+- [ ] A) La minería aurífera subterránea en la meseta del Collao
   <!-- feedback: Incorrecto. La minería de oro y plata altiplánica estaba ligada a los reinos aymaras. -->
-- [ ] C) La construcción exclusiva de andenes en las laderas amazónicas
+- [ ] B) La construcción exclusiva de andenes en las laderas amazónicas
   <!-- feedback: Incorrecto. La agricultura en andenes amazónicos caracterizó a los Chachapoyas. -->
-- [ ] D) La cría intensiva de caballos y ganado vacuno
+- [ ] C) La cría intensiva de caballos y ganado vacuno
   <!-- feedback: Incorrecto. El ganado vacuno y equino fue introducido al Perú por los invasores españoles en el siglo XVI. -->
 
 ### Explicacion Pedagogica
@@ -480,9 +480,9 @@ La cultura Chincha desarrolló un próspero imperio comercial marítimo y terres
 El templo monolítico de la huaca El Brujo y la tumba de la 'Señora de Cao' pertenecen a la cultura:
 
 ### Opciones
-- [x] A) Mochica
+- [x] B) Mochica
   <!-- feedback: Correcto. La Señora de Cao demostró el rol supremo político y religioso de las mujeres en la sociedad Mochica del norte peruano. -->
-- [ ] B) Sikán
+- [ ] A) Sikán
   <!-- feedback: Incorrecto. Sikán gobernó el valle de La Leche con deidades como la máscara de ojos alados. -->
 - [ ] C) Salinar
   <!-- feedback: Incorrecto. Salinar fue una fase previa del Formativo Superior en el valle de Moche. -->
@@ -505,13 +505,13 @@ La Señora de Cao en el complejo El Brujo revolucionó la visión del poder feme
 En la mitología andina precolombina, la deidad Pachacámac era venerada principalmente como el dios de:
 
 ### Opciones
-- [x] A) Los temblores, terremotos y la vida subterránea
+- [x] D) Los temblores, terremotos y la vida subterránea
   <!-- feedback: Correcto. El oráculo de Pachacámac en el valle de Lurín era temido y consultado porque se creía que con sus movimientos sacudía la tierra. -->
-- [ ] B) El trueno, la lluvia y la tempestad (Illapa)
+- [ ] A) El trueno, la lluvia y la tempestad (Illapa)
   <!-- feedback: Incorrecto. Illapa era el dios incaico del rayo y la tormenta agrícola. -->
-- [ ] C) La agricultura de la papa y el ichu altoandino
+- [ ] B) La agricultura de la papa y el ichu altoandino
   <!-- feedback: Incorrecto. Las deidades de la papa eran las mamitas o apus tutelares regionales. -->
-- [ ] D) La guerra naval y la navegación costera
+- [ ] C) La guerra naval y la navegación costera
   <!-- feedback: Incorrecto. Pachacámac era un oráculo supremo telúrico, respetado por costeños y serranos por su poder sísmico. -->
 
 ### Explicacion Pedagogica

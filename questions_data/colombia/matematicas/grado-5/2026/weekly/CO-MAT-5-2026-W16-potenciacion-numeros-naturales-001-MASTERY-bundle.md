@@ -57,9 +57,9 @@ Una potencia es una multiplicación repetida: la base indica el factor que se re
 ¿Cuál es la base y cuál es el exponente en la potencia 5^3?
 
 ### Opciones
-- [x] A) Base 5 y exponente 3.
+- [x] B) Base 5 y exponente 3.
   <!-- feedback: La base es el factor que se repite (5) y el exponente indica cuántas veces se multiplica (3). -->
-- [ ] B) Base 3 y exponente 5.
+- [ ] A) Base 3 y exponente 5.
   <!-- feedback: Se invirtieron los roles de base y exponente. -->
 - [ ] C) Base 5 y exponente 15.
   <!-- feedback: 15 es el producto de 5 por 3, no el exponente. -->
@@ -126,13 +126,13 @@ El cuadrado de un número es el resultado de multiplicarlo por sí mismo una vez
 ¿Cuántos bloques pequeños caben en el cubo?
 
 ### Opciones
-- [x] A) 125 bloques.
+- [x] D) 125 bloques.
   <!-- feedback: 5^3 = 5 × 5 × 5 = 125. -->
-- [ ] B) 15 bloques.
+- [ ] A) 15 bloques.
   <!-- feedback: Se multiplicó 5 × 3 en lugar de multiplicar 5 por sí mismo tres veces. -->
-- [ ] C) 25 bloques.
+- [ ] B) 25 bloques.
   <!-- feedback: 25 corresponde a 5^2, no a 5^3. -->
-- [ ] D) 243 bloques.
+- [ ] C) 243 bloques.
   <!-- feedback: 243 corresponde a 3^5, con base y exponente invertidos. -->
 
 ### Explicacion Pedagogica
@@ -149,11 +149,11 @@ El cubo de un número surge de multiplicarlo por sí mismo dos veces y modela vo
 ¿Cuál de las siguientes afirmaciones es correcta?
 
 ### Opciones
-- [x] A) 2^5 es mayor porque 32 > 25.
+- [x] C) 2^5 es mayor porque 32 > 25.
   <!-- feedback: 2^5 = 32 y 5^2 = 25; por lo tanto 2^5 es mayor que 5^2. -->
-- [ ] B) 5^2 es mayor porque 25 > 32.
+- [ ] A) 5^2 es mayor porque 25 > 32.
   <!-- feedback: 25 no es mayor que 32; se invirtió la comparación de los resultados. -->
-- [ ] C) Son iguales porque ambas valen 10.
+- [ ] B) Son iguales porque ambas valen 10.
   <!-- feedback: El resultado no es 10; 2^5 = 32 y 5^2 = 25, por lo que no son iguales. -->
 - [ ] D) 2^5 es menor porque 5 > 2.
   <!-- feedback: El valor del exponente no se compara de esa forma; 2^5 = 32 es mayor que 25. -->
@@ -172,11 +172,11 @@ Comparar potencias exige calcular primero cada valor, porque una base menor con 
 ¿Cuántas cartas recibe un jugador en total?
 
 ### Opciones
-- [x] A) 72 cartas.
+- [x] C) 72 cartas.
   <!-- feedback: 2^3 = 8 y 3^2 = 9; entonces 8 × 9 = 72. -->
-- [ ] B) 36 cartas.
+- [ ] A) 36 cartas.
   <!-- feedback: 36 resulta de 4 × 9, usando 2^2 en lugar de 2^3. -->
-- [ ] C) 24 cartas.
+- [ ] B) 24 cartas.
   <!-- feedback: 24 resulta de 8 × 3, usando 3 en lugar de 3^2. -->
 - [ ] D) 216 cartas.
   <!-- feedback: 216 corresponde a 6^3, no a 2^3 × 3^2. -->

@@ -58,13 +58,13 @@ Se aplica la regla de la potencia término a término: $(1x^3)' = 3x^2$, $(-3x^2
 Dada la función polinómica $f(x) = 2x^3 - 4x^2 + 6x - 5$, determine la expresión de la primera derivada $f'(x)$.
 
 ### Opciones
-- [x] A) $6x^2 - 8x + 6$
+- [x] D) $6x^2 - 8x + 6$
   <!-- feedback: Se derivó cada término término a término adecuadamente. -->
-- [ ] B) $6x^3 - 8x + 6$
+- [ ] A) $6x^3 - 8x + 6$
   <!-- feedback: Error en no reducir el exponente del primer término. -->
-- [ ] C) $2x^2 - 4x + 6$
+- [ ] B) $2x^2 - 4x + 6$
   <!-- feedback: Error al omitir la multiplicación por los exponentes. -->
-- [ ] D) $6x^2 - 8x + 5$
+- [ ] C) $6x^2 - 8x + 5$
   <!-- feedback: Error al no hacer cero la derivada de la constante. -->
 
 ### Explicacion Pedagogica
@@ -104,9 +104,9 @@ Se aplica la regla de la potencia término a término: $(3x^3)' = 9x^2$, $(-5x^2
 Dada la función polinómica $f(x) = 4x^3 - 6x^2 + 12x - 5$, determine la expresión de la primera derivada $f'(x)$.
 
 ### Opciones
-- [x] A) $12x^2 - 12x + 12$
+- [x] B) $12x^2 - 12x + 12$
   <!-- feedback: Se derivó cada término término a término adecuadamente. -->
-- [ ] B) $12x^3 - 12x + 12$
+- [ ] A) $12x^3 - 12x + 12$
   <!-- feedback: Error en no reducir el exponente del primer término. -->
 - [ ] C) $4x^2 - 6x + 12$
   <!-- feedback: Error al omitir la multiplicación por los exponentes. -->
@@ -150,11 +150,11 @@ Se aplica la regla de la potencia término a término: $(5x^3)' = 15x^2$, $(-7x^
 Dada la función polinómica $f(x) = 6x^3 - 8x^2 + 18x - 5$, determine la expresión de la primera derivada $f'(x)$.
 
 ### Opciones
-- [x] A) $18x^2 - 16x + 18$
+- [x] C) $18x^2 - 16x + 18$
   <!-- feedback: Se derivó cada término término a término adecuadamente. -->
-- [ ] B) $18x^3 - 16x + 18$
+- [ ] A) $18x^3 - 16x + 18$
   <!-- feedback: Error en no reducir el exponente del primer término. -->
-- [ ] C) $6x^2 - 8x + 18$
+- [ ] B) $6x^2 - 8x + 18$
   <!-- feedback: Error al omitir la multiplicación por los exponentes. -->
 - [ ] D) $18x^2 - 16x + 5$
   <!-- feedback: Error al no hacer cero la derivada de la constante. -->
@@ -196,9 +196,9 @@ Se aplica la regla de la potencia término a término: $(7x^3)' = 21x^2$, $(-9x^
 Dada la función polinómica $f(x) = 8x^3 - 10x^2 + 24x - 5$, determine la expresión de la primera derivada $f'(x)$.
 
 ### Opciones
-- [x] A) $24x^2 - 20x + 24$
+- [x] B) $24x^2 - 20x + 24$
   <!-- feedback: Se derivó cada término término a término adecuadamente. -->
-- [ ] B) $24x^3 - 20x + 24$
+- [ ] A) $24x^3 - 20x + 24$
   <!-- feedback: Error en no reducir el exponente del primer término. -->
 - [ ] C) $8x^2 - 10x + 24$
   <!-- feedback: Error al omitir la multiplicación por los exponentes. -->
@@ -219,13 +219,13 @@ Se aplica la regla de la potencia término a término: $(8x^3)' = 24x^2$, $(-10x
 Dada la función polinómica $f(x) = 9x^3 - 11x^2 + 27x - 5$, determine la expresión de la primera derivada $f'(x)$.
 
 ### Opciones
-- [x] A) $27x^2 - 22x + 27$
+- [x] D) $27x^2 - 22x + 27$
   <!-- feedback: Se derivó cada término término a término adecuadamente. -->
-- [ ] B) $27x^3 - 22x + 27$
+- [ ] A) $27x^3 - 22x + 27$
   <!-- feedback: Error en no reducir el exponente del primer término. -->
-- [ ] C) $9x^2 - 11x + 27$
+- [ ] B) $9x^2 - 11x + 27$
   <!-- feedback: Error al omitir la multiplicación por los exponentes. -->
-- [ ] D) $27x^2 - 22x + 5$
+- [ ] C) $27x^2 - 22x + 5$
   <!-- feedback: Error al no hacer cero la derivada de la constante. -->
 
 ### Explicacion Pedagogica
@@ -265,9 +265,9 @@ Se aplica la regla de la potencia término a término: $(10x^3)' = 30x^2$, $(-12
 Dada la función polinómica $f(x) = 11x^3 - 13x^2 + 33x - 5$, determine la expresión de la primera derivada $f'(x)$.
 
 ### Opciones
-- [x] A) $33x^2 - 26x + 33$
+- [x] B) $33x^2 - 26x + 33$
   <!-- feedback: Se derivó cada término término a término adecuadamente. -->
-- [ ] B) $33x^3 - 26x + 33$
+- [ ] A) $33x^3 - 26x + 33$
   <!-- feedback: Error en no reducir el exponente del primer término. -->
 - [ ] C) $11x^2 - 13x + 33$
   <!-- feedback: Error al omitir la multiplicación por los exponentes. -->
@@ -288,13 +288,13 @@ Se aplica la regla de la potencia término a término: $(11x^3)' = 33x^2$, $(-13
 Dada la función polinómica $f(x) = 12x^3 - 14x^2 + 36x - 5$, determine la expresión de la primera derivada $f'(x)$.
 
 ### Opciones
-- [x] A) $36x^2 - 28x + 36$
+- [x] D) $36x^2 - 28x + 36$
   <!-- feedback: Se derivó cada término término a término adecuadamente. -->
-- [ ] B) $36x^3 - 28x + 36$
+- [ ] A) $36x^3 - 28x + 36$
   <!-- feedback: Error en no reducir el exponente del primer término. -->
-- [ ] C) $12x^2 - 14x + 36$
+- [ ] B) $12x^2 - 14x + 36$
   <!-- feedback: Error al omitir la multiplicación por los exponentes. -->
-- [ ] D) $36x^2 - 28x + 5$
+- [ ] C) $36x^2 - 28x + 5$
   <!-- feedback: Error al no hacer cero la derivada de la constante. -->
 
 ### Explicacion Pedagogica
@@ -334,13 +334,13 @@ Se aplica la regla de la potencia término a término: $(13x^3)' = 39x^2$, $(-15
 Dada la función polinómica $f(x) = 14x^3 - 16x^2 + 42x - 5$, determine la expresión de la primera derivada $f'(x)$.
 
 ### Opciones
-- [x] A) $42x^2 - 32x + 42$
+- [x] D) $42x^2 - 32x + 42$
   <!-- feedback: Se derivó cada término término a término adecuadamente. -->
-- [ ] B) $42x^3 - 32x + 42$
+- [ ] A) $42x^3 - 32x + 42$
   <!-- feedback: Error en no reducir el exponente del primer término. -->
-- [ ] C) $14x^2 - 16x + 42$
+- [ ] B) $14x^2 - 16x + 42$
   <!-- feedback: Error al omitir la multiplicación por los exponentes. -->
-- [ ] D) $42x^2 - 32x + 5$
+- [ ] C) $42x^2 - 32x + 5$
   <!-- feedback: Error al no hacer cero la derivada de la constante. -->
 
 ### Explicacion Pedagogica
@@ -357,11 +357,11 @@ Se aplica la regla de la potencia término a término: $(14x^3)' = 42x^2$, $(-16
 Dada la función polinómica $f(x) = 15x^3 - 17x^2 + 45x - 5$, determine la expresión de la primera derivada $f'(x)$.
 
 ### Opciones
-- [x] A) $45x^2 - 34x + 45$
+- [x] C) $45x^2 - 34x + 45$
   <!-- feedback: Se derivó cada término término a término adecuadamente. -->
-- [ ] B) $45x^3 - 34x + 45$
+- [ ] A) $45x^3 - 34x + 45$
   <!-- feedback: Error en no reducir el exponente del primer término. -->
-- [ ] C) $15x^2 - 17x + 45$
+- [ ] B) $15x^2 - 17x + 45$
   <!-- feedback: Error al omitir la multiplicación por los exponentes. -->
 - [ ] D) $45x^2 - 34x + 5$
   <!-- feedback: Error al no hacer cero la derivada de la constante. -->
@@ -380,11 +380,11 @@ Se aplica la regla de la potencia término a término: $(15x^3)' = 45x^2$, $(-17
 Dada la función polinómica $f(x) = 16x^3 - 18x^2 + 48x - 5$, determine la expresión de la primera derivada $f'(x)$.
 
 ### Opciones
-- [x] A) $48x^2 - 36x + 48$
+- [x] C) $48x^2 - 36x + 48$
   <!-- feedback: Se derivó cada término término a término adecuadamente. -->
-- [ ] B) $48x^3 - 36x + 48$
+- [ ] A) $48x^3 - 36x + 48$
   <!-- feedback: Error en no reducir el exponente del primer término. -->
-- [ ] C) $16x^2 - 18x + 48$
+- [ ] B) $16x^2 - 18x + 48$
   <!-- feedback: Error al omitir la multiplicación por los exponentes. -->
 - [ ] D) $48x^2 - 36x + 5$
   <!-- feedback: Error al no hacer cero la derivada de la constante. -->
@@ -403,11 +403,11 @@ Se aplica la regla de la potencia término a término: $(16x^3)' = 48x^2$, $(-18
 Dada la función polinómica $f(x) = 17x^3 - 19x^2 + 51x - 5$, determine la expresión de la primera derivada $f'(x)$.
 
 ### Opciones
-- [x] A) $51x^2 - 38x + 51$
+- [x] C) $51x^2 - 38x + 51$
   <!-- feedback: Se derivó cada término término a término adecuadamente. -->
-- [ ] B) $51x^3 - 38x + 51$
+- [ ] A) $51x^3 - 38x + 51$
   <!-- feedback: Error en no reducir el exponente del primer término. -->
-- [ ] C) $17x^2 - 19x + 51$
+- [ ] B) $17x^2 - 19x + 51$
   <!-- feedback: Error al omitir la multiplicación por los exponentes. -->
 - [ ] D) $51x^2 - 38x + 5$
   <!-- feedback: Error al no hacer cero la derivada de la constante. -->
@@ -449,13 +449,13 @@ Se aplica la regla de la potencia término a término: $(18x^3)' = 54x^2$, $(-20
 Dada la función polinómica $f(x) = 19x^3 - 21x^2 + 57x - 5$, determine la expresión de la primera derivada $f'(x)$.
 
 ### Opciones
-- [x] A) $57x^2 - 42x + 57$
+- [x] D) $57x^2 - 42x + 57$
   <!-- feedback: Se derivó cada término término a término adecuadamente. -->
-- [ ] B) $57x^3 - 42x + 57$
+- [ ] A) $57x^3 - 42x + 57$
   <!-- feedback: Error en no reducir el exponente del primer término. -->
-- [ ] C) $19x^2 - 21x + 57$
+- [ ] B) $19x^2 - 21x + 57$
   <!-- feedback: Error al omitir la multiplicación por los exponentes. -->
-- [ ] D) $57x^2 - 42x + 5$
+- [ ] C) $57x^2 - 42x + 5$
   <!-- feedback: Error al no hacer cero la derivada de la constante. -->
 
 ### Explicacion Pedagogica
@@ -472,11 +472,11 @@ Se aplica la regla de la potencia término a término: $(19x^3)' = 57x^2$, $(-21
 Dada la función polinómica $f(x) = 20x^3 - 22x^2 + 60x - 5$, determine la expresión de la primera derivada $f'(x)$.
 
 ### Opciones
-- [x] A) $60x^2 - 44x + 60$
+- [x] C) $60x^2 - 44x + 60$
   <!-- feedback: Se derivó cada término término a término adecuadamente. -->
-- [ ] B) $60x^3 - 44x + 60$
+- [ ] A) $60x^3 - 44x + 60$
   <!-- feedback: Error en no reducir el exponente del primer término. -->
-- [ ] C) $20x^2 - 22x + 60$
+- [ ] B) $20x^2 - 22x + 60$
   <!-- feedback: Error al omitir la multiplicación por los exponentes. -->
 - [ ] D) $60x^2 - 44x + 5$
   <!-- feedback: Error al no hacer cero la derivada de la constante. -->

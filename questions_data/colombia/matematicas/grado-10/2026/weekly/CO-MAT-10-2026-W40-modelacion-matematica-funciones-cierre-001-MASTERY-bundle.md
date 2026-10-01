@@ -72,13 +72,13 @@ Si dos magnitudes se relacionan de manera directamente proporcional o aproximada
 ### Enunciado
 ¿Qué tipo de función describe mejor esa secuencia de alturas?
 ### Opciones
-- [x] A) Una función lineal, porque la altura aumenta $4$ cm cada semana.
+- [x] D) Una función lineal, porque la altura aumenta $4$ cm cada semana.
   <!-- feedback: Correcto. La diferencia es constante, así que una función lineal $f(n) = 4n + 6$ ajusta bien. -->
-- [ ] B) Una función exponencial, porque la altura crece rápidamente.
+- [ ] A) Una función exponencial, porque la altura crece rápidamente.
   <!-- feedback: Incorrecto. Aunque crece, no es multiplicativa; las diferencias son constantes. -->
-- [ ] C) Una función logarítmica.
+- [ ] B) Una función logarítmica.
   <!-- feedback: Incorrecto. Los logaritmos crecen cada vez más lento, no es el caso. -->
-- [ ] D) Una función trigonométrica.
+- [ ] C) Una función trigonométrica.
   <!-- feedback: Incorrecto. No hay oscilación; los datos son monótonos crecientes. -->
 ### Explicacion Pedagogica
 Cuando las diferencias entre valores consecutivos son aproximadamente constantes, la relación es lineal. En este caso, la diferencia semanal es $4$ cm, así que un modelo lineal es el más natural.
@@ -114,9 +114,9 @@ Un crecimiento multiplicativo se modela con funciones exponenciales. Aquí la ba
 ### Opciones
 - [ ] A) Amplitud $2$ cm y frecuencia angular $5$ rad/s.
   <!-- feedback: Incorrecto. Intercambiaste amplitud y frecuencia angular. -->
-- [ ] B) Amplitud $5$ rad y frecuencia angular $2$ cm.
+- [ ] C) Amplitud $5$ rad y frecuencia angular $2$ cm.
   <!-- feedback: Incorrecto. Las unidades son incorrectas. -->
-- [x] C) Amplitud $5$ cm y frecuencia angular $2$ rad/s.
+- [x] B) Amplitud $5$ cm y frecuencia angular $2$ rad/s.
   <!-- feedback: Correcto. En $f(t) = A \cos(\omega t)$, $A$ es la amplitud y $\omega$ la frecuencia angular. -->
 - [ ] D) Amplitud $10$ cm y frecuencia angular $2$ rad/s.
   <!-- feedback: Incorrecto. La amplitud es $5$, no $10$. -->
@@ -156,9 +156,9 @@ Para una parábola $h(t) = at^2 + bt + c$ con $a < 0$, el vértice (altura máxi
   <!-- feedback: Incorrecto. Crecimientos exponencial y lineal son muy distintos a largo plazo. -->
 - [ ] B) La función lineal $P_0 + 2t$ representa mejor un crecimiento multiplicativo.
   <!-- feedback: Incorrecto. La lineal representa crecimiento aditivo, no multiplicativo. -->
-- [x] C) La función $P_0 \cdot 2^t$ describe un crecimiento multiplicativo (se duplica cada hora), mientras que $P_0 + 2t$ describe un crecimiento aditivo (suma una cantidad fija cada hora).
+- [x] D) La función $P_0 \cdot 2^t$ describe un crecimiento multiplicativo (se duplica cada hora), mientras que $P_0 + 2t$ describe un crecimiento aditivo (suma una cantidad fija cada hora).
   <!-- feedback: Correcto. El modelo exponencial es apropiado para poblaciones bacterianas que se duplican; el lineal solo sirve si el incremento es constante, lo que no ocurre en este caso. -->
-- [ ] D) Ninguna de las dos sirve; hay que usar trigonometría.
+- [ ] C) Ninguna de las dos sirve; hay que usar trigonometría.
   <!-- feedback: Incorrecto. Las funciones trigonométricas modelan oscilaciones, no crecimiento poblacional. -->
 ### Explicacion Pedagogica
 La diferencia clave entre crecimiento exponencial y lineal es la naturaleza del incremento: en el modelo $P_0 \cdot 2^t$ cada hora se duplica la cantidad anterior (incremento multiplicativo), mientras que en $P_0 + 2t$ cada hora se suman $2$ bacterias al valor inicial (incremento aditivo). Para poblaciones bacterianas reales, el modelo exponencial es el adecuado.
@@ -176,9 +176,9 @@ La diferencia clave entre crecimiento exponencial y lineal es la naturaleza del 
   <!-- feedback: Incorrecto. Aunque son cercanos, no son idénticos. -->
 - [ ] B) El primero da $100 \cdot e^{0.5}$ y el segundo da $100 \cdot 1.05^{10}$.
   <!-- feedback: Incorrecto. Invertiste los modelos. -->
-- [x] C) El primero da aproximadamente $162.89$ y el segundo aproximadamente $164.87$.
+- [x] D) El primero da aproximadamente $162.89$ y el segundo aproximadamente $164.87$.
   <!-- feedback: Correcto. $100 \cdot 1.05^{10} \approx 162.89$ y $100 \cdot e^{0.5} \approx 164.87$. -->
-- [ ] D) El primero da exactamente $100$ y el segundo da $0$ en $t = 10$.
+- [ ] C) El primero da exactamente $100$ y el segundo da $0$ en $t = 10$.
   <!-- feedback: Incorrecto. Ambos crecen, no se anulan. -->
 ### Explicacion Pedagogica
 La diferencia entre las bases $1.05^t$ y $e^{0.05t}$ es sutil pero significativa: la base $1.05$ representa un aumento del $5\%$ por unidad de tiempo, mientras que $e^{0.05t}$ corresponde a una tasa instantánea de crecimiento del $5\%$ por unidad de tiempo. Para valores pequeños, son cercanos; para tiempos largos, se separan.
@@ -214,9 +214,9 @@ La utilidad es la diferencia entre ingresos y costos. Con precio $p = 25.000$, c
 ### Opciones
 - [ ] A) Elegir siempre el modelo exponencial porque crece más rápido.
   <!-- feedback: Incorrecto. Crecimiento rápido no implica mejor ajuste; hay que considerar la naturaleza del fenómeno. -->
-- [ ] B) Elegir siempre el lineal por simplicidad.
+- [ ] C) Elegir siempre el lineal por simplicidad.
   <!-- feedback: Incorrecto. La simplicidad no basta si no representa bien el fenómeno a largo plazo. -->
-- [x] C) Comparar las predicciones de ambos modelos con datos nuevos no usados en el ajuste y elegir el que tenga menor error de predicción.
+- [x] B) Comparar las predicciones de ambos modelos con datos nuevos no usados en el ajuste y elegir el que tenga menor error de predicción.
   <!-- feedback: Correcto. La validación con datos nuevos y el análisis de residuos son criterios objetivos para elegir modelos. -->
 - [ ] D) Elegir el que mejor se vea en una hoja cuadriculada.
   <!-- feedback: Incorrecto. La apariencia gráfica no es un criterio cuantitativo suficiente. -->
@@ -232,9 +232,9 @@ La elección entre modelos se hace evaluando su capacidad predictiva con datos n
 ### Enunciado
 ¿Cuál es la valoración correcta de esa afirmación?
 ### Opciones
-- [x] A) Es incorrecta, porque $R^2$ mide la bondad de ajuste a los datos usados, pero no garantiza buena predicción fuera de ese rango ni considera otros factores.
+- [x] B) Es incorrecta, porque $R^2$ mide la bondad de ajuste a los datos usados, pero no garantiza buena predicción fuera de ese rango ni considera otros factores.
   <!-- feedback: Correcto. Un $R^2$ alto no implica que el modelo sea perfecto: hay que validar con datos nuevos y considerar el dominio de validez. -->
-- [ ] B) Es correcta, porque $R^2$ cercano a $1$ siempre significa modelo perfecto.
+- [ ] A) Es correcta, porque $R^2$ cercano a $1$ siempre significa modelo perfecto.
   <!-- feedback: Incorrecto. $R^2$ es solo una medida entre varias; un valor alto no garantiza validez predictiva completa. -->
 - [ ] C) Es correcta si el fenómeno es lineal en su naturaleza.
   <!-- feedback: Incorrecto. Aunque el fenómeno sea lineal, hay que validar el ajuste con datos fuera de la muestra. -->
@@ -252,11 +252,11 @@ El coeficiente de determinación $R^2$ mide la proporción de variabilidad expli
 ### Enunciado
 ¿Cuál de las siguientes es la mejor justificación para usar ese tipo de proyecto integrador como cierre?
 ### Opciones
-- [ ] A) Es el cierre porque los exámenes finales ya cubren todos los temas.
+- [ ] B) Es el cierre porque los exámenes finales ya cubren todos los temas.
   <!-- feedback: Incorrecto. Un proyecto integrador aporta algo distinto: articular y aplicar conocimientos en contexto. -->
-- [ ] B) Es el cierre porque elimina la necesidad de explicar la teoría.
+- [ ] C) Es el cierre porque elimina la necesidad de explicar la teoría.
   <!-- feedback: Incorrecto. El proyecto integra teoría y práctica, no sustituye la explicación conceptual. -->
-- [x] C) Es el cierre porque permite a los estudiantes integrar funciones lineales, cuadráticas, exponenciales y trigonométricas en un único contexto de modelación, fortaleciendo el pensamiento variacional.
+- [x] A) Es el cierre porque permite a los estudiantes integrar funciones lineales, cuadráticas, exponenciales y trigonométricas en un único contexto de modelación, fortaleciendo el pensamiento variacional.
   <!-- feedback: Correcto. El proyecto articula las distintas familias de funciones vistas durante el año y exige tomar decisiones de modelación, ajuste y validación, lo que consolida el pensamiento variacional. -->
 - [ ] D) Es el cierre porque es la única manera de obtener una nota.
   <!-- feedback: Incorrecto. La evaluación se puede hacer de muchas formas; el valor del proyecto es pedagógico, no administrativo. -->

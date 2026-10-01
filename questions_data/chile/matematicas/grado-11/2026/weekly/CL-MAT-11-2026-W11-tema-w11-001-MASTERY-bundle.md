@@ -30,8 +30,8 @@ creador: "Jules-Agent"
 ¿Cuál es la pendiente $m$ de la recta que pasa por $A(1, 2)$ y $B(4, 11)$ en un plano cartesiano en Chillán?
 
 ### Opciones
-- [x] A) $9/3$ <!-- feedback: ¡Correcto! m = (11 - 2)/(4 - 1) = 9/3. -->
-- [ ] B) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
+- [x] B) $9/3$ <!-- feedback: ¡Correcto! m = (11 - 2)/(4 - 1) = 9/3. -->
+- [ ] A) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
 - [ ] C) $10/3$ <!-- feedback: Incorrecto. Cometiste un error de resta en el numerador. -->
 - [ ] D) $9/5$ <!-- feedback: Incorrecto. Cometiste un error de resta en el denominador. -->
 
@@ -49,8 +49,8 @@ La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (11 - 2) / (4 - 1) 
 ¿Cuál es la pendiente $m$ de la recta que pasa por $A(2, 3)$ y $B(5, 12)$ en un plano cartesiano en Calama?
 
 ### Opciones
-- [x] A) $9/3$ <!-- feedback: ¡Correcto! m = (12 - 3)/(5 - 2) = 9/3. -->
-- [ ] B) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
+- [x] B) $9/3$ <!-- feedback: ¡Correcto! m = (12 - 3)/(5 - 2) = 9/3. -->
+- [ ] A) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
 - [ ] C) $10/3$ <!-- feedback: Incorrecto. Cometiste un error de resta en el numerador. -->
 - [ ] D) $9/5$ <!-- feedback: Incorrecto. Cometiste un error de resta en el denominador. -->
 
@@ -68,9 +68,9 @@ La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (12 - 3) / (5 - 2) 
 ¿Cuál es la pendiente $m$ de la recta que pasa por $A(3, 4)$ y $B(6, 13)$ en un plano cartesiano en Valdivia?
 
 ### Opciones
-- [x] A) $9/3$ <!-- feedback: ¡Correcto! m = (13 - 4)/(6 - 3) = 9/3. -->
-- [ ] B) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
-- [ ] C) $10/3$ <!-- feedback: Incorrecto. Cometiste un error de resta en el numerador. -->
+- [x] C) $9/3$ <!-- feedback: ¡Correcto! m = (13 - 4)/(6 - 3) = 9/3. -->
+- [ ] A) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
+- [ ] B) $10/3$ <!-- feedback: Incorrecto. Cometiste un error de resta en el numerador. -->
 - [ ] D) $9/5$ <!-- feedback: Incorrecto. Cometiste un error de resta en el denominador. -->
 
 ### Explicacion Pedagogica
@@ -125,9 +125,9 @@ La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (15 - 6) / (8 - 5) 
 ¿Cuál es la pendiente $m$ de la recta que pasa por $A(6, 7)$ y $B(9, 16)$ en un plano cartesiano en Concepción?
 
 ### Opciones
-- [x] A) $9/3$ <!-- feedback: ¡Correcto! m = (16 - 7)/(9 - 6) = 9/3. -->
-- [ ] B) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
-- [ ] C) $10/3$ <!-- feedback: Incorrecto. Cometiste un error de resta en el numerador. -->
+- [x] C) $9/3$ <!-- feedback: ¡Correcto! m = (16 - 7)/(9 - 6) = 9/3. -->
+- [ ] A) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
+- [ ] B) $10/3$ <!-- feedback: Incorrecto. Cometiste un error de resta en el numerador. -->
 - [ ] D) $9/5$ <!-- feedback: Incorrecto. Cometiste un error de resta en el denominador. -->
 
 ### Explicacion Pedagogica
@@ -144,10 +144,10 @@ La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (16 - 7) / (9 - 6) 
 ¿Cuál es la pendiente $m$ de la recta que pasa por $A(7, 8)$ y $B(10, 17)$ en un plano cartesiano en Antofagasta?
 
 ### Opciones
-- [x] A) $9/3$ <!-- feedback: ¡Correcto! m = (17 - 8)/(10 - 7) = 9/3. -->
-- [ ] B) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
-- [ ] C) $10/3$ <!-- feedback: Incorrecto. Cometiste un error de resta en el numerador. -->
-- [ ] D) $9/5$ <!-- feedback: Incorrecto. Cometiste un error de resta en el denominador. -->
+- [x] D) $9/3$ <!-- feedback: ¡Correcto! m = (17 - 8)/(10 - 7) = 9/3. -->
+- [ ] A) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
+- [ ] B) $10/3$ <!-- feedback: Incorrecto. Cometiste un error de resta en el numerador. -->
+- [ ] C) $9/5$ <!-- feedback: Incorrecto. Cometiste un error de resta en el denominador. -->
 
 ### Explicacion Pedagogica
 La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (17 - 8) / (10 - 7) = 9/3.
@@ -182,8 +182,8 @@ La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (18 - 9) / (11 - 8)
 ¿Cuál es la pendiente $m$ de la recta que pasa por $A(9, 10)$ y $B(12, 19)$ en un plano cartesiano en La Serena?
 
 ### Opciones
-- [x] A) $9/3$ <!-- feedback: ¡Correcto! m = (19 - 10)/(12 - 9) = 9/3. -->
-- [ ] B) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
+- [x] B) $9/3$ <!-- feedback: ¡Correcto! m = (19 - 10)/(12 - 9) = 9/3. -->
+- [ ] A) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
 - [ ] C) $10/3$ <!-- feedback: Incorrecto. Cometiste un error de resta en el numerador. -->
 - [ ] D) $9/5$ <!-- feedback: Incorrecto. Cometiste un error de resta en el denominador. -->
 
@@ -201,10 +201,10 @@ La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (19 - 10) / (12 - 9
 ¿Cuál es la pendiente $m$ de la recta que pasa por $A(10, 11)$ y $B(13, 20)$ en un plano cartesiano en Viña del Mar?
 
 ### Opciones
-- [x] A) $9/3$ <!-- feedback: ¡Correcto! m = (20 - 11)/(13 - 10) = 9/3. -->
-- [ ] B) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
-- [ ] C) $10/3$ <!-- feedback: Incorrecto. Cometiste un error de resta en el numerador. -->
-- [ ] D) $9/5$ <!-- feedback: Incorrecto. Cometiste un error de resta en el denominador. -->
+- [x] D) $9/3$ <!-- feedback: ¡Correcto! m = (20 - 11)/(13 - 10) = 9/3. -->
+- [ ] A) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
+- [ ] B) $10/3$ <!-- feedback: Incorrecto. Cometiste un error de resta en el numerador. -->
+- [ ] C) $9/5$ <!-- feedback: Incorrecto. Cometiste un error de resta en el denominador. -->
 
 ### Explicacion Pedagogica
 La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (20 - 11) / (13 - 10) = 9/3.
@@ -220,8 +220,8 @@ La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (20 - 11) / (13 - 1
 ¿Cuál es la pendiente $m$ de la recta que pasa por $A(11, 12)$ y $B(14, 21)$ en un plano cartesiano en Iquique?
 
 ### Opciones
-- [x] A) $9/3$ <!-- feedback: ¡Correcto! m = (21 - 12)/(14 - 11) = 9/3. -->
-- [ ] B) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
+- [x] B) $9/3$ <!-- feedback: ¡Correcto! m = (21 - 12)/(14 - 11) = 9/3. -->
+- [ ] A) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
 - [ ] C) $10/3$ <!-- feedback: Incorrecto. Cometiste un error de resta en el numerador. -->
 - [ ] D) $9/5$ <!-- feedback: Incorrecto. Cometiste un error de resta en el denominador. -->
 
@@ -239,9 +239,9 @@ La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (21 - 12) / (14 - 1
 ¿Cuál es la pendiente $m$ de la recta que pasa por $A(12, 13)$ y $B(15, 22)$ en un plano cartesiano en Rancagua?
 
 ### Opciones
-- [x] A) $9/3$ <!-- feedback: ¡Correcto! m = (22 - 13)/(15 - 12) = 9/3. -->
-- [ ] B) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
-- [ ] C) $10/3$ <!-- feedback: Incorrecto. Cometiste un error de resta en el numerador. -->
+- [x] C) $9/3$ <!-- feedback: ¡Correcto! m = (22 - 13)/(15 - 12) = 9/3. -->
+- [ ] A) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
+- [ ] B) $10/3$ <!-- feedback: Incorrecto. Cometiste un error de resta en el numerador. -->
 - [ ] D) $9/5$ <!-- feedback: Incorrecto. Cometiste un error de resta en el denominador. -->
 
 ### Explicacion Pedagogica
@@ -258,9 +258,9 @@ La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (22 - 13) / (15 - 1
 ¿Cuál es la pendiente $m$ de la recta que pasa por $A(13, 14)$ y $B(16, 23)$ en un plano cartesiano en Talca?
 
 ### Opciones
-- [x] A) $9/3$ <!-- feedback: ¡Correcto! m = (23 - 14)/(16 - 13) = 9/3. -->
-- [ ] B) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
-- [ ] C) $10/3$ <!-- feedback: Incorrecto. Cometiste un error de resta en el numerador. -->
+- [x] C) $9/3$ <!-- feedback: ¡Correcto! m = (23 - 14)/(16 - 13) = 9/3. -->
+- [ ] A) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
+- [ ] B) $10/3$ <!-- feedback: Incorrecto. Cometiste un error de resta en el numerador. -->
 - [ ] D) $9/5$ <!-- feedback: Incorrecto. Cometiste un error de resta en el denominador. -->
 
 ### Explicacion Pedagogica
@@ -277,9 +277,9 @@ La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (23 - 14) / (16 - 1
 ¿Cuál es la pendiente $m$ de la recta que pasa por $A(14, 15)$ y $B(17, 24)$ en un plano cartesiano en Arica?
 
 ### Opciones
-- [x] A) $9/3$ <!-- feedback: ¡Correcto! m = (24 - 15)/(17 - 14) = 9/3. -->
-- [ ] B) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
-- [ ] C) $10/3$ <!-- feedback: Incorrecto. Cometiste un error de resta en el numerador. -->
+- [x] C) $9/3$ <!-- feedback: ¡Correcto! m = (24 - 15)/(17 - 14) = 9/3. -->
+- [ ] A) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
+- [ ] B) $10/3$ <!-- feedback: Incorrecto. Cometiste un error de resta en el numerador. -->
 - [ ] D) $9/5$ <!-- feedback: Incorrecto. Cometiste un error de resta en el denominador. -->
 
 ### Explicacion Pedagogica
@@ -296,9 +296,9 @@ La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (24 - 15) / (17 - 1
 ¿Cuál es la pendiente $m$ de la recta que pasa por $A(15, 16)$ y $B(18, 25)$ en un plano cartesiano en Puerto Montt?
 
 ### Opciones
-- [x] A) $9/3$ <!-- feedback: ¡Correcto! m = (25 - 16)/(18 - 15) = 9/3. -->
-- [ ] B) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
-- [ ] C) $10/3$ <!-- feedback: Incorrecto. Cometiste un error de resta en el numerador. -->
+- [x] C) $9/3$ <!-- feedback: ¡Correcto! m = (25 - 16)/(18 - 15) = 9/3. -->
+- [ ] A) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
+- [ ] B) $10/3$ <!-- feedback: Incorrecto. Cometiste un error de resta en el numerador. -->
 - [ ] D) $9/5$ <!-- feedback: Incorrecto. Cometiste un error de resta en el denominador. -->
 
 ### Explicacion Pedagogica
@@ -315,8 +315,8 @@ La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (25 - 16) / (18 - 1
 ¿Cuál es la pendiente $m$ de la recta que pasa por $A(16, 17)$ y $B(19, 26)$ en un plano cartesiano en Chillán?
 
 ### Opciones
-- [x] A) $9/3$ <!-- feedback: ¡Correcto! m = (26 - 17)/(19 - 16) = 9/3. -->
-- [ ] B) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
+- [x] B) $9/3$ <!-- feedback: ¡Correcto! m = (26 - 17)/(19 - 16) = 9/3. -->
+- [ ] A) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
 - [ ] C) $10/3$ <!-- feedback: Incorrecto. Cometiste un error de resta en el numerador. -->
 - [ ] D) $9/5$ <!-- feedback: Incorrecto. Cometiste un error de resta en el denominador. -->
 
@@ -353,9 +353,9 @@ La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (27 - 18) / (20 - 1
 ¿Cuál es la pendiente $m$ de la recta que pasa por $A(18, 19)$ y $B(21, 28)$ en un plano cartesiano en Valdivia?
 
 ### Opciones
-- [x] A) $9/3$ <!-- feedback: ¡Correcto! m = (28 - 19)/(21 - 18) = 9/3. -->
-- [ ] B) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
-- [ ] C) $10/3$ <!-- feedback: Incorrecto. Cometiste un error de resta en el numerador. -->
+- [x] C) $9/3$ <!-- feedback: ¡Correcto! m = (28 - 19)/(21 - 18) = 9/3. -->
+- [ ] A) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
+- [ ] B) $10/3$ <!-- feedback: Incorrecto. Cometiste un error de resta en el numerador. -->
 - [ ] D) $9/5$ <!-- feedback: Incorrecto. Cometiste un error de resta en el denominador. -->
 
 ### Explicacion Pedagogica
@@ -372,10 +372,10 @@ La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (28 - 19) / (21 - 1
 ¿Cuál es la pendiente $m$ de la recta que pasa por $A(19, 20)$ y $B(22, 29)$ en un plano cartesiano en Santiago?
 
 ### Opciones
-- [x] A) $9/3$ <!-- feedback: ¡Correcto! m = (29 - 20)/(22 - 19) = 9/3. -->
-- [ ] B) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
-- [ ] C) $10/3$ <!-- feedback: Incorrecto. Cometiste un error de resta en el numerador. -->
-- [ ] D) $9/5$ <!-- feedback: Incorrecto. Cometiste un error de resta en el denominador. -->
+- [x] D) $9/3$ <!-- feedback: ¡Correcto! m = (29 - 20)/(22 - 19) = 9/3. -->
+- [ ] A) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
+- [ ] B) $10/3$ <!-- feedback: Incorrecto. Cometiste un error de resta en el numerador. -->
+- [ ] C) $9/5$ <!-- feedback: Incorrecto. Cometiste un error de resta en el denominador. -->
 
 ### Explicacion Pedagogica
 La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (29 - 20) / (22 - 19) = 9/3.
@@ -391,10 +391,10 @@ La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (29 - 20) / (22 - 1
 ¿Cuál es la pendiente $m$ de la recta que pasa por $A(20, 21)$ y $B(23, 30)$ en un plano cartesiano en Valparaíso?
 
 ### Opciones
-- [x] A) $9/3$ <!-- feedback: ¡Correcto! m = (30 - 21)/(23 - 20) = 9/3. -->
-- [ ] B) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
-- [ ] C) $10/3$ <!-- feedback: Incorrecto. Cometiste un error de resta en el numerador. -->
-- [ ] D) $9/5$ <!-- feedback: Incorrecto. Cometiste un error de resta en el denominador. -->
+- [x] D) $9/3$ <!-- feedback: ¡Correcto! m = (30 - 21)/(23 - 20) = 9/3. -->
+- [ ] A) $3/9$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo la diferencia en x por la diferencia en y. -->
+- [ ] B) $10/3$ <!-- feedback: Incorrecto. Cometiste un error de resta en el numerador. -->
+- [ ] C) $9/5$ <!-- feedback: Incorrecto. Cometiste un error de resta en el denominador. -->
 
 ### Explicacion Pedagogica
 La pendiente se calcula mediante m = (y2 - y1) / (x2 - x1) = (30 - 21) / (23 - 20) = 9/3.

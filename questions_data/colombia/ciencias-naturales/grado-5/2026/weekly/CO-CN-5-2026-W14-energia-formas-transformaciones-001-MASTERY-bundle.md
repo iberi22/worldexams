@@ -34,13 +34,13 @@ Concepto de energía, formas de energía como la luz, el calor y el movimiento, 
 ¿Qué es la energía?
 
 ### Opciones
-- [x] A) La capacidad que tienen los cuerpos para producir cambios o realizar un trabajo.
+- [x] D) La capacidad que tienen los cuerpos para producir cambios o realizar un trabajo.
   <!-- feedback: La energía permite que los cuerpos se muevan, se calienten o emitan luz. -->
-- [ ] B) Un tipo de materia sólida que se puede tocar con las manos.
+- [ ] A) Un tipo de materia sólida que se puede tocar con las manos.
   <!-- feedback: La energía no es un objeto material, sino una propiedad que produce cambios. -->
-- [ ] C) Un objeto que solo existe dentro de los libros de texto.
+- [ ] B) Un objeto que solo existe dentro de los libros de texto.
   <!-- feedback: La energía es real y se manifiesta continuamente en la vida cotidiana. -->
-- [ ] D) Una sustancia líquida que se puede beber.
+- [ ] C) Una sustancia líquida que se puede beber.
   <!-- feedback: La energía no se bebe ni se almacena como un líquido. -->
 
 ### Explicacion Pedagogica
@@ -57,13 +57,13 @@ Comprensión inicial del concepto de energía como capacidad para producir cambi
 ¿Qué representan la luz del Sol, el calor de la estufa y el movimiento de la bicicleta?
 
 ### Opciones
-- [x] A) Diferentes formas en que se manifiesta la energía.
+- [x] D) Diferentes formas en que se manifiesta la energía.
   <!-- feedback: La energía se presenta como luz, calor y movimiento, entre otras formas. -->
-- [ ] B) Un mismo tipo de materia que cambia de color.
+- [ ] A) Un mismo tipo de materia que cambia de color.
   <!-- feedback: No son materia ni cambios de color, sino manifestaciones de la energía. -->
-- [ ] C) Fuerzas que no producen ningún cambio en el entorno.
+- [ ] B) Fuerzas que no producen ningún cambio en el entorno.
   <!-- feedback: La luz, el calor y el movimiento producen cambios claramente observables. -->
-- [ ] D) Objetos que no tienen ninguna relación con la energía.
+- [ ] C) Objetos que no tienen ninguna relación con la energía.
   <!-- feedback: Todas esas situaciones son ejemplos evidentes de energía en acción. -->
 
 ### Explicacion Pedagogica
@@ -80,9 +80,9 @@ Reconocimiento de la luz, el calor y el movimiento como formas cotidianas de man
 ¿Qué transformación de energía ocurre en la licuadora?
 
 ### Opciones
-- [x] A) Energía eléctrica en energía de movimiento.
+- [x] B) Energía eléctrica en energía de movimiento.
   <!-- feedback: El motor convierte la electricidad en el giro de las cuchillas. -->
-- [ ] B) Energía de movimiento en energía eléctrica.
+- [ ] A) Energía de movimiento en energía eléctrica.
   <!-- feedback: Esa transformación ocurre en un generador, no en una licuadora enchufada. -->
 - [ ] C) Energía química en energía luminosa.
   <!-- feedback: La licuadora no produce luz a partir de reacciones químicas. -->
@@ -103,13 +103,13 @@ Aplicación del concepto de transformación de energía en un electrodoméstico 
 ¿Qué forma de energía se transfiere del fogón al agua de la olla?
 
 ### Opciones
-- [x] A) Energía térmica o calor.
+- [x] D) Energía térmica o calor.
   <!-- feedback: El fogón transfiere calor al agua hasta que esta alcanza la ebullición. -->
-- [ ] B) Energía química.
+- [ ] A) Energía química.
   <!-- feedback: El calor del fogón es energía térmica, no una reacción química del agua. -->
-- [ ] C) Energía luminosa.
+- [ ] B) Energía luminosa.
   <!-- feedback: Aunque la llama emite luz, lo que calienta el agua es la energía térmica. -->
-- [ ] D) Energía nuclear.
+- [ ] C) Energía nuclear.
   <!-- feedback: La energía nuclear no interviene en el funcionamiento de una estufa doméstica. -->
 
 ### Explicacion Pedagogica
@@ -126,11 +126,11 @@ Identificación de la energía térmica como la forma de energía transferida en
 ¿Cuál es la secuencia correcta de transformación de energía que ocurre en la linterna?
 
 ### Opciones
-- [x] A) Energía química de las pilas, luego energía eléctrica y finalmente energía luminosa.
+- [x] C) Energía química de las pilas, luego energía eléctrica y finalmente energía luminosa.
   <!-- feedback: Las pilas liberan energía química, que se convierte en electricidad y luego en luz. -->
-- [ ] B) Energía luminosa, luego energía química y finalmente energía eléctrica.
+- [ ] A) Energía luminosa, luego energía química y finalmente energía eléctrica.
   <!-- feedback: La luz es el resultado final, no el punto de partida del proceso. -->
-- [ ] C) Energía eléctrica, luego energía química y finalmente energía luminosa.
+- [ ] B) Energía eléctrica, luego energía química y finalmente energía luminosa.
   <!-- feedback: El orden está invertido: primero ocurre la reacción química en las pilas. -->
 - [ ] D) Energía de movimiento, luego energía química y finalmente energía eléctrica.
   <!-- feedback: El movimiento no es el origen de la energía en una linterna con pilas. -->
@@ -149,9 +149,9 @@ Aplicación de cadenas de transformación de energía en un dispositivo sencillo
 ¿Qué conclusión explica mejor por qué ambos aparatos usan energía eléctrica pero producen efectos distintos?
 
 ### Opciones
-- [x] A) Porque cada aparato transforma la energía eléctrica en una forma diferente de energía.
+- [x] B) Porque cada aparato transforma la energía eléctrica en una forma diferente de energía.
   <!-- feedback: El ventilador la convierte en movimiento y el radio en sonido, según su función. -->
-- [ ] B) Porque el radio no necesita energía para funcionar.
+- [ ] A) Porque el radio no necesita energía para funcionar.
   <!-- feedback: Todo aparato eléctrico, incluido el radio, requiere energía para funcionar. -->
 - [ ] C) Porque el ventilador produce energía química al girar.
   <!-- feedback: El ventilador convierte electricidad en movimiento, no en energía química. -->
@@ -195,9 +195,9 @@ Análisis de las transformaciones de energía en el cuerpo humano durante la act
 ¿Cuál es la mejor evaluación de estas acciones?
 
 ### Opciones
-- [x] A) Son adecuadas porque evitan desperdiciar energía y reducen el consumo eléctrico de la casa y la escuela.
+- [x] B) Son adecuadas porque evitan desperdiciar energía y reducen el consumo eléctrico de la casa y la escuela.
   <!-- feedback: Evitar el consumo innecesario ahorra energía y protege los recursos naturales. -->
-- [ ] B) Son inútiles porque la energía nunca se agota ni tiene costo alguno.
+- [ ] A) Son inútiles porque la energía nunca se agota ni tiene costo alguno.
   <!-- feedback: La energía tiene costos económicos y ambientales que conviene reducir. -->
 - [ ] C) Solo sirven para las grandes empresas y no para los hogares.
   <!-- feedback: El ahorro de energía es útil en cualquier lugar, incluidos los hogares y las escuelas. -->

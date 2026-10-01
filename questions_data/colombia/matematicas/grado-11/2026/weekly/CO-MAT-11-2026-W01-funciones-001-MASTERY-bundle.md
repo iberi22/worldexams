@@ -35,9 +35,9 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia.
 ¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 1$?
 
 ### Opciones
-- [x] A) 3
+- [x] B) 3
   <!-- feedback: Se evalúa la función reemplazando x por 1. -->
-- [ ] B) 2
+- [ ] A) 2
   <!-- feedback: Falta sumar 1. -->
 - [ ] C) 4
   <!-- feedback: Se sumó 2 en lugar de 1. -->
@@ -58,9 +58,9 @@ Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y 
 ¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 2$?
 
 ### Opciones
-- [x] A) 5
+- [x] B) 5
   <!-- feedback: Se evalúa la función reemplazando x por 2. -->
-- [ ] B) 4
+- [ ] A) 4
   <!-- feedback: Falta sumar 1. -->
 - [ ] C) 6
   <!-- feedback: Se sumó 2 en lugar de 1. -->
@@ -81,11 +81,11 @@ Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y 
 ¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 3$?
 
 ### Opciones
-- [x] A) 7
+- [x] C) 7
   <!-- feedback: Se evalúa la función reemplazando x por 3. -->
-- [ ] B) 6
+- [ ] A) 6
   <!-- feedback: Falta sumar 1. -->
-- [ ] C) 8
+- [ ] B) 8
   <!-- feedback: Se sumó 2 en lugar de 1. -->
 - [ ] D) 12
   <!-- feedback: No se multiplicó por 2. -->
@@ -104,13 +104,13 @@ Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y 
 ¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 4$?
 
 ### Opciones
-- [x] A) 9
+- [x] D) 9
   <!-- feedback: Se evalúa la función reemplazando x por 4. -->
-- [ ] B) 8
+- [ ] A) 8
   <!-- feedback: Falta sumar 1. -->
-- [ ] C) 10
+- [ ] B) 10
   <!-- feedback: Se sumó 2 en lugar de 1. -->
-- [ ] D) 13
+- [ ] C) 13
   <!-- feedback: No se multiplicó por 2. -->
 
 ### Explicacion Pedagogica
@@ -127,11 +127,11 @@ Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y 
 ¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 5$?
 
 ### Opciones
-- [x] A) 11
+- [x] C) 11
   <!-- feedback: Se evalúa la función reemplazando x por 5. -->
-- [ ] B) 10
+- [ ] A) 10
   <!-- feedback: Falta sumar 1. -->
-- [ ] C) 12
+- [ ] B) 12
   <!-- feedback: Se sumó 2 en lugar de 1. -->
 - [ ] D) 9
   <!-- feedback: No se multiplicó por 2. -->
@@ -150,11 +150,11 @@ Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y 
 ¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 6$?
 
 ### Opciones
-- [x] A) 13
+- [x] C) 13
   <!-- feedback: Se evalúa la función reemplazando x por 6. -->
-- [ ] B) 12
+- [ ] A) 12
   <!-- feedback: Falta sumar 1. -->
-- [ ] C) 14
+- [ ] B) 14
   <!-- feedback: Se sumó 2 en lugar de 1. -->
 - [ ] D) 10
   <!-- feedback: No se multiplicó por 2. -->
@@ -173,13 +173,13 @@ Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y 
 ¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 7$?
 
 ### Opciones
-- [x] A) 15
+- [x] D) 15
   <!-- feedback: Se evalúa la función reemplazando x por 7. -->
-- [ ] B) 14
+- [ ] A) 14
   <!-- feedback: Falta sumar 1. -->
-- [ ] C) 16
+- [ ] B) 16
   <!-- feedback: Se sumó 2 en lugar de 1. -->
-- [ ] D) 11
+- [ ] C) 11
   <!-- feedback: No se multiplicó por 2. -->
 
 ### Explicacion Pedagogica
@@ -196,9 +196,9 @@ Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y 
 ¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 8$?
 
 ### Opciones
-- [x] A) 17
+- [x] B) 17
   <!-- feedback: Se evalúa la función reemplazando x por 8. -->
-- [ ] B) 16
+- [ ] A) 16
   <!-- feedback: Falta sumar 1. -->
 - [ ] C) 18
   <!-- feedback: Se sumó 2 en lugar de 1. -->
@@ -265,13 +265,13 @@ Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y 
 ¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 11$?
 
 ### Opciones
-- [x] A) 23
+- [x] D) 23
   <!-- feedback: Se evalúa la función reemplazando x por 11. -->
-- [ ] B) 22
+- [ ] A) 22
   <!-- feedback: Falta sumar 1. -->
-- [ ] C) 24
+- [ ] B) 24
   <!-- feedback: Se sumó 2 en lugar de 1. -->
-- [ ] D) 15
+- [ ] C) 15
   <!-- feedback: No se multiplicó por 2. -->
 
 ### Explicacion Pedagogica
@@ -334,9 +334,9 @@ Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y 
 ¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 14$?
 
 ### Opciones
-- [x] A) 29
+- [x] B) 29
   <!-- feedback: Se evalúa la función reemplazando x por 14. -->
-- [ ] B) 28
+- [ ] A) 28
   <!-- feedback: Falta sumar 1. -->
 - [ ] C) 30
   <!-- feedback: Se sumó 2 en lugar de 1. -->
@@ -357,11 +357,11 @@ Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y 
 ¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 15$?
 
 ### Opciones
-- [x] A) 31
+- [x] C) 31
   <!-- feedback: Se evalúa la función reemplazando x por 15. -->
-- [ ] B) 30
+- [ ] A) 30
   <!-- feedback: Falta sumar 1. -->
-- [ ] C) 32
+- [ ] B) 32
   <!-- feedback: Se sumó 2 en lugar de 1. -->
 - [ ] D) 19
   <!-- feedback: No se multiplicó por 2. -->
@@ -380,9 +380,9 @@ Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y 
 ¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 16$?
 
 ### Opciones
-- [x] A) 33
+- [x] B) 33
   <!-- feedback: Se evalúa la función reemplazando x por 16. -->
-- [ ] B) 32
+- [ ] A) 32
   <!-- feedback: Falta sumar 1. -->
 - [ ] C) 34
   <!-- feedback: Se sumó 2 en lugar de 1. -->
@@ -403,13 +403,13 @@ Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y 
 ¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 17$?
 
 ### Opciones
-- [x] A) 35
+- [x] D) 35
   <!-- feedback: Se evalúa la función reemplazando x por 17. -->
-- [ ] B) 34
+- [ ] A) 34
   <!-- feedback: Falta sumar 1. -->
-- [ ] C) 36
+- [ ] B) 36
   <!-- feedback: Se sumó 2 en lugar de 1. -->
-- [ ] D) 21
+- [ ] C) 21
   <!-- feedback: No se multiplicó por 2. -->
 
 ### Explicacion Pedagogica
@@ -449,13 +449,13 @@ Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y 
 ¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 19$?
 
 ### Opciones
-- [x] A) 39
+- [x] D) 39
   <!-- feedback: Se evalúa la función reemplazando x por 19. -->
-- [ ] B) 38
+- [ ] A) 38
   <!-- feedback: Falta sumar 1. -->
-- [ ] C) 40
+- [ ] B) 40
   <!-- feedback: Se sumó 2 en lugar de 1. -->
-- [ ] D) 23
+- [ ] C) 23
   <!-- feedback: No se multiplicó por 2. -->
 
 ### Explicacion Pedagogica
@@ -472,13 +472,13 @@ Para evaluar la función lineal $f(x) = 2x + 1$, se sustituye el valor de $x$ y 
 ¿Cuál es la función que representa el modelo lineal $f(x) = 2x + 1$ si $x = 20$?
 
 ### Opciones
-- [x] A) 41
+- [x] D) 41
   <!-- feedback: Se evalúa la función reemplazando x por 20. -->
-- [ ] B) 40
+- [ ] A) 40
   <!-- feedback: Falta sumar 1. -->
-- [ ] C) 42
+- [ ] B) 42
   <!-- feedback: Se sumó 2 en lugar de 1. -->
-- [ ] D) 24
+- [ ] C) 24
   <!-- feedback: No se multiplicó por 2. -->
 
 ### Explicacion Pedagogica

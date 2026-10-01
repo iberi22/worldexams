@@ -29,8 +29,8 @@ bundle_index: 1
 ¿Que representa la solucion de un sistema de dos ecuaciones lineales con dos incognitas desde el punto de vista grafico?
 
 ### Opciones
-- [ ] A) El area comprendida entre las dos rectas. <!-- feedback: El area no representa una solucion puntual (x, y) del sistema. -->
-- [x] B) El punto de interseccion entre las dos rectas. <!-- feedback: ¡Correcto! Las coordenadas del punto donde se cruzan las rectas satisfacen ambas ecuaciones simultaneamente. -->
+- [ ] B) El area comprendida entre las dos rectas. <!-- feedback: El area no representa una solucion puntual (x, y) del sistema. -->
+- [x] A) El punto de interseccion entre las dos rectas. <!-- feedback: ¡Correcto! Las coordenadas del punto donde se cruzan las rectas satisfacen ambas ecuaciones simultaneamente. -->
 - [ ] C) La suma de las pendientes de ambas rectas. <!-- feedback: Las pendientes determinan la inclinacion, pero su suma no es la solucion del sistema. -->
 - [ ] D) El punto donde ambas rectas cortan al eje Y. <!-- feedback: Esos son los terminos independientes, no necesariamente la solucion del sistema. -->
 
@@ -48,10 +48,10 @@ Cada ecuacion lineal en un sistema de $2 \times 2$ representa una recta en el pl
 ¿Cual de los siguientes NO es un metodo estandar para resolver sistemas de ecuaciones lineales?
 
 ### Opciones
-- [ ] A) Metodo de Sustitucion <!-- feedback: Este es un metodo valido donde se despeja una variable y se sustituye en la otra. -->
-- [ ] B) Metodo de Igualacion <!-- feedback: Este es un metodo valido donde se despeja la misma variable en ambas ecuaciones. -->
-- [ ] C) Metodo de Reduccion (o Eliminacion) <!-- feedback: Este es un metodo valido donde se suman o restan las ecuaciones para eliminar una variable. -->
-- [x] D) Metodo de Factorizacion por Termino Comun <!-- feedback: ¡Correcto! La factorizacion es una tecnica para simplificar expresiones o resolver ecuaciones de grado superior, no un metodo especifico de sistemas lineales. -->
+- [ ] B) Metodo de Sustitucion <!-- feedback: Este es un metodo valido donde se despeja una variable y se sustituye en la otra. -->
+- [ ] C) Metodo de Igualacion <!-- feedback: Este es un metodo valido donde se despeja la misma variable en ambas ecuaciones. -->
+- [ ] D) Metodo de Reduccion (o Eliminacion) <!-- feedback: Este es un metodo valido donde se suman o restan las ecuaciones para eliminar una variable. -->
+- [x] A) Metodo de Factorizacion por Termino Comun <!-- feedback: ¡Correcto! La factorizacion es una tecnica para simplificar expresiones o resolver ecuaciones de grado superior, no un metodo especifico de sistemas lineales. -->
 
 ### Explicacion Pedagogica
 Existen varios metodos para resolver sistemas lineales: sustitucion, igualacion, reduccion y el metodo grafico. Tambien existen metodos matriciales como la Regla de Cramer. La factorizacion no es un metodo de resolucion de sistemas.
@@ -87,8 +87,8 @@ Si un sistema de ecuaciones lineales esta formado por dos rectas paralelas que n
 
 ### Opciones
 - [ ] A) Una solucion unica. <!-- feedback: Para tener una solucion unica, las rectas deben cortarse en un punto. -->
-- [ ] B) Infinitas soluciones. <!-- feedback: Esto ocurre si las rectas son coincidentes (una encima de la otra). -->
-- [x] C) Ninguna solucion. <!-- feedback: ¡Correcto! Si no hay puntos de contacto, no hay valores que satisfagan ambas ecuaciones. -->
+- [ ] C) Infinitas soluciones. <!-- feedback: Esto ocurre si las rectas son coincidentes (una encima de la otra). -->
+- [x] B) Ninguna solucion. <!-- feedback: ¡Correcto! Si no hay puntos de contacto, no hay valores que satisfagan ambas ecuaciones. -->
 - [ ] D) Dos soluciones. <!-- feedback: Dos rectas en un plano nunca pueden cortarse exactamente en dos puntos. -->
 
 ### Explicacion Pedagogica
@@ -106,9 +106,9 @@ Un sistema sin solucion se llama "Sistema Incompatible". Graficamente, esto corr
 
 ### Opciones
 - [ ] A) Igualacion <!-- feedback: Requeriria despejar y en la segunda ecuacion primero. -->
-- [x] B) Sustitucion <!-- feedback: ¡Correcto! Como la primera ecuacion ya tiene la 'y' despejada, podemos sustituirla directamente en la segunda. -->
-- [ ] C) Reduccion <!-- feedback: Requeriria reordenar los terminos de la primera ecuacion primero. -->
-- [ ] D) Grafico <!-- feedback: El metodo grafico es menos preciso para obtener valores exactos rapidamente. -->
+- [x] D) Sustitucion <!-- feedback: ¡Correcto! Como la primera ecuacion ya tiene la 'y' despejada, podemos sustituirla directamente en la segunda. -->
+- [ ] B) Reduccion <!-- feedback: Requeriria reordenar los terminos de la primera ecuacion primero. -->
+- [ ] C) Grafico <!-- feedback: El metodo grafico es menos preciso para obtener valores exactos rapidamente. -->
 
 ### Explicacion Pedagogica
 El metodo de sustitucion es preferible cuando una de las incognitas ya esta despejada en una de las ecuaciones. Al sustituir $2x + 1$ en lugar de $y$ en la segunda ecuacion, obtenemos una ecuacion de primer grado con una sola incognita.
@@ -125,9 +125,9 @@ El metodo de sustitucion es preferible cuando una de las incognitas ya esta desp
 
 ### Opciones
 - [ ] A) $G + C = 40$ y $2G + 4C = 15$ <!-- feedback: Las cabezas (15) y patas (40) estan intercambiadas en la ecuacion. -->
-- [x] B) $G + C = 15$ y $2G + 4C = 40$ <!-- feedback: ¡Correcto! Cada animal tiene 1 cabeza; las gallinas tienen 2 patas y los cerdos 4. -->
-- [ ] C) $G + C = 15$ y $G + C = 40$ <!-- feedback: Esta contradiccion no tiene sentido biologico ni matematico. -->
-- [ ] D) $2G + 2C = 15$ y $4G + 4C = 40$ <!-- feedback: Error al asignar el numero de patas por animal. -->
+- [x] D) $G + C = 15$ y $2G + 4C = 40$ <!-- feedback: ¡Correcto! Cada animal tiene 1 cabeza; las gallinas tienen 2 patas y los cerdos 4. -->
+- [ ] B) $G + C = 15$ y $G + C = 40$ <!-- feedback: Esta contradiccion no tiene sentido biologico ni matematico. -->
+- [ ] C) $2G + 2C = 15$ y $4G + 4C = 40$ <!-- feedback: Error al asignar el numero de patas por animal. -->
 
 ### Explicacion Pedagogica
 Este es un problema clasico de sistemas de ecuaciones. La primera ecuacion representa la cantidad total de individuos (cabezas) y la segunda representa la suma de una caracteristica diferenciada (patas).
@@ -144,9 +144,9 @@ Resuelve el sistema y encuentra el valor de $y$.
 
 ### Opciones
 - [ ] A) $y = 1$ <!-- feedback: Si y=1, entonces x=2 (de la 2da eq). Probando en la 1ra: 2(2)+3(1)=7, no 12. -->
-- [x] B) $y = 2$ <!-- feedback: ¡Correcto! Si y=2, entonces x=3. Probando en la 1ra: 2(3)+3(2)=6+6=12. -->
-- [ ] C) $y = 3$ <!-- feedback: Si y=3, entonces x=4. Probando en la 1ra: 2(4)+3(3)=17, no 12. -->
-- [ ] D) $y = 0$ <!-- feedback: No satisface ambas ecuaciones simultaneamente. -->
+- [x] D) $y = 2$ <!-- feedback: ¡Correcto! Si y=2, entonces x=3. Probando en la 1ra: 2(3)+3(2)=6+6=12. -->
+- [ ] B) $y = 3$ <!-- feedback: Si y=3, entonces x=4. Probando en la 1ra: 2(4)+3(3)=17, no 12. -->
+- [ ] C) $y = 0$ <!-- feedback: No satisface ambas ecuaciones simultaneamente. -->
 
 ### Explicacion Pedagogica
 Al despejar $x$ en la segunda ecuacion ($x = y + 1$) y sustituir en la primera: $2(y + 1) + 3y = 12 \rightarrow 2y + 2 + 3y = 12 \rightarrow 5y = 10 \rightarrow y = 2$. Luego $x = 2 + 1 = 3$.
@@ -163,8 +163,8 @@ Al despejar $x$ en la segunda ecuacion ($x = y + 1$) y sustituir en la primera: 
 
 ### Opciones
 - [ ] A) $x = 10$ <!-- feedback: Si x=10, y seria 5 (de x+y=15), pero 2(10)+5=25, no 20. -->
-- [x] B) $x = 5$ <!-- feedback: ¡Correcto! Al restar las ecuaciones: (2x+y)-(x+y) = 20-15, por tanto x=5. -->
-- [ ] C) $x = 15$ <!-- feedback: No satisface la primera ecuacion. -->
+- [x] C) $x = 5$ <!-- feedback: ¡Correcto! Al restar las ecuaciones: (2x+y)-(x+y) = 20-15, por tanto x=5. -->
+- [ ] B) $x = 15$ <!-- feedback: No satisface la primera ecuacion. -->
 - [ ] D) $x = 0$ <!-- feedback: No satisface ninguna de las dos ecuaciones. -->
 
 ### Explicacion Pedagogica
@@ -182,8 +182,8 @@ Restar directamente las ecuaciones es un atajo del metodo de reduccion muy util 
 
 ### Opciones
 - [ ] A) $(2, 0)$ <!-- feedback: 2+2(0)=2, no 8. -->
-- [ ] B) $(6, 1)$ <!-- feedback: 6+2=8, pero 6 no es 1+2. -->
-- [x] C) $(4, 2)$ <!-- feedback: ¡Correcto! 4+2(2)=8 y 4=2+2. -->
+- [ ] C) $(6, 1)$ <!-- feedback: 6+2=8, pero 6 no es 1+2. -->
+- [x] B) $(4, 2)$ <!-- feedback: ¡Correcto! 4+2(2)=8 y 4=2+2. -->
 - [ ] D) $(2, 2)$ <!-- feedback: No satisface la primera ecuacion. -->
 
 ### Explicacion Pedagogica
@@ -202,8 +202,8 @@ Sustituimos $x = y + 2$ en la primera ecuacion: $(y + 2) + 2y = 8 \rightarrow 3y
 ### Opciones
 - [ ] A) Compatible Determinado <!-- feedback: Un sistema determinado tiene una solucion única. -->
 - [ ] B) Compatible Indeterminado <!-- feedback: Un sistema indeterminado tiene infinitas soluciones. -->
-- [x] C) Incompatible <!-- feedback: ¡Correcto! Es imposible que la misma suma de dos numeros de dos resultados distintos al mismo tiempo. -->
-- [ ] D) Linealmente dependiente <!-- feedback: Las ecuaciones son contradictorias, no dependientes una de la otra. -->
+- [x] D) Incompatible <!-- feedback: ¡Correcto! Es imposible que la misma suma de dos numeros de dos resultados distintos al mismo tiempo. -->
+- [ ] C) Linealmente dependiente <!-- feedback: Las ecuaciones son contradictorias, no dependientes una de la otra. -->
 
 ### Explicacion Pedagogica
 Un sistema incompatible ocurre cuando las condiciones son mutuamente excluyentes. Graficamente representa dos rectas paralelas que tienen la misma inclinacion pero nunca se tocan.
@@ -239,9 +239,9 @@ Encuentra el valor de equilibrio $Q$ (cantidad) igualando ambas expresiones de p
 
 ### Opciones
 - [ ] A) $Q = 10$ <!-- feedback: $50 - 20 = 30$, pero $10 + 30 = 40$. No coinciden. -->
-- [x] B) $Q = 8$ <!-- feedback: ¡Correcto! $50 - 2Q = 10 + 3Q \rightarrow 40 = 5Q \rightarrow Q = 8$. -->
-- [ ] C) $Q = 12$ <!-- feedback: No satisface la igualdad de las expresiones. -->
-- [ ] D) $Q = 5$ <!-- feedback: No satisface la igualdad de las expresiones. -->
+- [x] D) $Q = 8$ <!-- feedback: ¡Correcto! $50 - 2Q = 10 + 3Q \rightarrow 40 = 5Q \rightarrow Q = 8$. -->
+- [ ] B) $Q = 12$ <!-- feedback: No satisface la igualdad de las expresiones. -->
+- [ ] C) $Q = 5$ <!-- feedback: No satisface la igualdad de las expresiones. -->
 
 ### Explicacion Pedagogica
 El punto de equilibrio en economia se halla resolviendo un sistema de ecuaciones por igualacion. Al igualar las dos expresiones del precio, determinamos la cantidad necesaria para que oferta y demanda coincidan.
@@ -276,9 +276,9 @@ Cuando una ecuacion de un sistema es multiplo de la otra, el sistema tiene infin
 Si $x = 2, y = 3z$ y $x + y + z = 10$, ¿cual es el valor de $z$?
 
 ### Opciones
-- [x] A) $z = 2$ <!-- feedback: ¡Correcto! $2 + 3z + z = 10 \rightarrow 4z = 8 \rightarrow z = 2$. -->
-- [ ] B) $z = 1$ <!-- feedback: Al sustituir quedaria 2+3+1 = 6, no 10. -->
-- [ ] C) $z = 3$ <!-- feedback: Al sustituir quedaria 2+9+3 = 14, no 10. -->
+- [x] C) $z = 2$ <!-- feedback: ¡Correcto! $2 + 3z + z = 10 \rightarrow 4z = 8 \rightarrow z = 2$. -->
+- [ ] A) $z = 1$ <!-- feedback: Al sustituir quedaria 2+3+1 = 6, no 10. -->
+- [ ] B) $z = 3$ <!-- feedback: Al sustituir quedaria 2+9+3 = 14, no 10. -->
 - [ ] D) $z = 5$ <!-- feedback: Al sustituir quedaria 2+15+5 = 22, no 10. -->
 
 ### Explicacion Pedagogica
@@ -295,8 +295,8 @@ Aunque es un sistema de tres variables, la estructura permite una resolucion rap
 ¿Cual es el valor de $y$ que resuelve este sistema?
 
 ### Opciones
-- [ ] A) $y = 3$ <!-- feedback: x seria 7, 7/2 + 3/3 = 4.5, no 4. -->
-- [x] B) $y = 6$ <!-- feedback: ¡Correcto! Si y=6, x=4. 4/2 + 6/3 = 2 + 2 = 4. -->
+- [ ] B) $y = 3$ <!-- feedback: x seria 7, 7/2 + 3/3 = 4.5, no 4. -->
+- [x] A) $y = 6$ <!-- feedback: ¡Correcto! Si y=6, x=4. 4/2 + 6/3 = 2 + 2 = 4. -->
 - [ ] C) $y = 9$ <!-- feedback: x seria 1, 0.5 + 3 = 3.5, no 4. -->
 - [ ] D) $y = 0$ <!-- feedback: x seria 10, 10/2 + 0 = 5, no 4. -->
 
@@ -314,8 +314,8 @@ Multiplicamos la primera ecuacion por el mcm (6) para obtener $3x + 2y = 24$. Us
 ¿Cuales son las coordenadas del punto donde se cruzan estas dos rectas?
 
 ### Opciones
-- [ ] A) $(1, 2)$ <!-- feedback: Satisface la 1ra pero no la 2da ($2 \neq 4$). -->
-- [x] B) $(2, 3)$ <!-- feedback: ¡Correcto! $3 = 2+1$ y $3 = -2+5$. -->
+- [ ] B) $(1, 2)$ <!-- feedback: Satisface la 1ra pero no la 2da ($2 \neq 4$). -->
+- [x] A) $(2, 3)$ <!-- feedback: ¡Correcto! $3 = 2+1$ y $3 = -2+5$. -->
 - [ ] C) $(3, 4)$ <!-- feedback: Satisface la 1ra pero no la 2da ($4 \neq 2$). -->
 - [ ] D) $(0, 5)$ <!-- feedback: Satisface la 2da pero no la 1ra ($5 \neq 1$). -->
 
@@ -352,8 +352,8 @@ El determinante de la matriz de coeficientes es una herramienta poderosa. Si es 
 ¿Para que valor de $k$ el sistema tiene infinitas soluciones?
 
 ### Opciones
-- [ ] A) $k = 4$ <!-- feedback: Las rectas no serian proporcionales. -->
-- [x] B) $k = 2$ <!-- feedback: ¡Correcto! Si k=2, la segunda ecuacion es exactamente el doble de la primera. -->
+- [ ] B) $k = 4$ <!-- feedback: Las rectas no serian proporcionales. -->
+- [x] A) $k = 2$ <!-- feedback: ¡Correcto! Si k=2, la segunda ecuacion es exactamente el doble de la primera. -->
 - [ ] C) $k = 0$ <!-- feedback: Las rectas serian x=4 y 2x+4y=8, que se cortan en un solo punto. -->
 - [ ] D) $k = 1$ <!-- feedback: El sistema tendria una solucion unica. -->
 
@@ -372,8 +372,8 @@ Para que haya infinitas soluciones, los coeficientes de las variables y el termi
 
 ### Opciones
 - [ ] A) 5 <!-- feedback: Valor incorrecto del determinante. -->
-- [x] B) -7 <!-- feedback: ¡Correcto! $\Delta = (1 \cdot -1) - (3 \cdot 2) = -1 - 6 = -7$. -->
-- [ ] C) 7 <!-- feedback: Error de signo en el calculo de los productos cruzados. -->
+- [x] C) -7 <!-- feedback: ¡Correcto! $\Delta = (1 \cdot -1) - (3 \cdot 2) = -1 - 6 = -7$. -->
+- [ ] B) 7 <!-- feedback: Error de signo en el calculo de los productos cruzados. -->
 - [ ] D) 0 <!-- feedback: El determinante no es nulo, el sistema tiene solucion unica. -->
 
 ### Explicacion Pedagogica
@@ -392,8 +392,8 @@ El determinante principal se calcula con los coeficientes de las incognitas: $\d
 ### Opciones
 - [ ] A) 33.3 barriles <!-- feedback: Error en el planteamiento de la proporcion. -->
 - [ ] B) 50 barriles <!-- feedback: Mezclar partes iguales de 2% y 5% daria 3.5%, no 3%. -->
-- [x] C) 66.7 barriles <!-- feedback: ¡Correcto! El sistema es $x + y = 100$ y $0.02x + 0.05y = 3$. Al resolver, $x \approx 66.7$. -->
-- [ ] D) 75 barriles <!-- feedback: Produciria un crudo con menos del 3% de azufre. -->
+- [x] D) 66.7 barriles <!-- feedback: ¡Correcto! El sistema es $x + y = 100$ y $0.02x + 0.05y = 3$. Al resolver, $x \approx 66.7$. -->
+- [ ] C) 75 barriles <!-- feedback: Produciria un crudo con menos del 3% de azufre. -->
 
 ### Explicacion Pedagogica
 Este problema requiere un sistema de dos ecuaciones: una para la cantidad total de barriles y otra para la cantidad total de azufre. Al resolverlo, determinamos la proporcion exacta de cada componente para lograr la mezcla deseada.

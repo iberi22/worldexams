@@ -29,8 +29,8 @@ bundle_index: 1
 ¿Cuál es la definición fundamental de un logaritmo en base $b$?
 
 ### Opciones
-- [ ] A) $\log_b(x) = y$ es equivalente a $x^b = y$. <!-- feedback: Incorrecto. La base del logaritmo debe ser la base de la potencia. -->
-- [x] B) $\log_b(x) = y$ es equivalente a $b^y = x$. <!-- feedback: Correcto. El logaritmo es el exponente al que hay que elevar la base para obtener el argumento. -->
+- [ ] B) $\log_b(x) = y$ es equivalente a $x^b = y$. <!-- feedback: Incorrecto. La base del logaritmo debe ser la base de la potencia. -->
+- [x] A) $\log_b(x) = y$ es equivalente a $b^y = x$. <!-- feedback: Correcto. El logaritmo es el exponente al que hay que elevar la base para obtener el argumento. -->
 - [ ] C) $\log_b(x) = y$ es equivalente a $y^x = b$. <!-- feedback: Incorrecto. Esta no es la relación inversa correcta entre logaritmos y potencias. -->
 - [ ] D) $\log_b(x) = y$ es equivalente a $b \cdot y = x$. <!-- feedback: Incorrecto. El logaritmo no es un factor multiplicativo, sino un exponente. -->
 
@@ -68,8 +68,8 @@ Como la función exponencial $b^y$ siempre da resultados positivos, su función 
 
 ### Opciones
 - [ ] A) $(0, 1)$ <!-- feedback: Incorrecto. Este es el intercepto con el eje y de la función exponencial. -->
-- [x] B) $(1, 0)$ <!-- feedback: Correcto. El logaritmo de 1 en cualquier base válida es siempre 0, ya que $b^0 = 1$. -->
-- [ ] C) $(0, 0)$ <!-- feedback: Incorrecto. La función logarítmica básica no pasa por el origen; tiene una asíntota vertical en $x=0$. -->
+- [x] C) $(1, 0)$ <!-- feedback: Correcto. El logaritmo de 1 en cualquier base válida es siempre 0, ya que $b^0 = 1$. -->
+- [ ] B) $(0, 0)$ <!-- feedback: Incorrecto. La función logarítmica básica no pasa por el origen; tiene una asíntota vertical en $x=0$. -->
 - [ ] D) No tiene intercepto con el eje $x$. <!-- feedback: Incorrecto. Todas las funciones logarítmicas básicas cruzan el eje x en 1. -->
 
 ### Explicacion Pedagogica
@@ -106,8 +106,8 @@ Los logaritmos en base 10 son fundamentales para la notación científica y esca
 
 ### Opciones
 - [ ] A) Son paralelas entre sí. <!-- feedback: Incorrecto. No tienen la misma pendiente ni dirección. -->
-- [ ] B) Son simétricas respecto al eje $x$. <!-- feedback: Incorrecto. Esta sería una reflexión vertical. -->
-- [x] C) Son simétricas respecto a la recta identidad $y = x$. <!-- feedback: Correcto. Toda función y su inversa son reflejos mutuos sobre esta diagonal. -->
+- [ ] C) Son simétricas respecto al eje $x$. <!-- feedback: Incorrecto. Esta sería una reflexión vertical. -->
+- [x] B) Son simétricas respecto a la recta identidad $y = x$. <!-- feedback: Correcto. Toda función y su inversa son reflejos mutuos sobre esta diagonal. -->
 - [ ] D) Son simétricas respecto al origen $(0,0)$. <!-- feedback: Incorrecto. Esto indicaría que son funciones impares relacionadas. -->
 
 ### Explicacion Pedagogica
@@ -125,9 +125,9 @@ Gráficamente, intercambiar $x$ por $y$ equivale a reflejar la curva sobre la l�
 
 ### Opciones
 - [ ] A) $x = 0$ <!-- feedback: Incorrecto. Esta es la asíntota de la función básica. -->
-- [x] B) $x = 4$ <!-- feedback: Correcto. El desplazamiento horizontal de 4 unidades a la derecha mueve la asíntota vertical a $x=4$. -->
-- [ ] C) $y = 3$ <!-- feedback: Incorrecto. El logaritmo tiene asíntota vertical, no horizontal (aunque crece muy lento). -->
-- [ ] D) $x = -4$ <!-- feedback: Incorrecto. El signo negativo dentro del paréntesis indica un movimiento hacia la derecha (valores positivos de x). -->
+- [x] D) $x = 4$ <!-- feedback: Correcto. El desplazamiento horizontal de 4 unidades a la derecha mueve la asíntota vertical a $x=4$. -->
+- [ ] B) $y = 3$ <!-- feedback: Incorrecto. El logaritmo tiene asíntota vertical, no horizontal (aunque crece muy lento). -->
+- [ ] C) $x = -4$ <!-- feedback: Incorrecto. El signo negativo dentro del paréntesis indica un movimiento hacia la derecha (valores positivos de x). -->
 
 ### Explicacion Pedagogica
 La asíntota vertical se encuentra igualando el argumento a cero: $x - 4 = 0 \Rightarrow x = 4$. El logaritmo no puede evaluar valores menores o iguales a 4 en este caso.
@@ -143,8 +143,8 @@ La asíntota vertical se encuentra igualando el argumento a cero: $x - 4 = 0 \Ri
 ¿Cuál es el valor exacto de $\log_5(125)$?
 
 ### Opciones
-- [ ] A) 2 <!-- feedback: Incorrecto. $5^2 = 25$, no 125. -->
-- [x] B) 3 <!-- feedback: Correcto. Porque $5^3 = 5 \times 5 \times 5 = 125$. -->
+- [ ] B) 2 <!-- feedback: Incorrecto. $5^2 = 25$, no 125. -->
+- [x] A) 3 <!-- feedback: Correcto. Porque $5^3 = 5 \times 5 \times 5 = 125$. -->
 - [ ] C) 25 <!-- feedback: Incorrecto. Se confundió el resultado de la potencia con el exponente. -->
 - [ ] D) 5 <!-- feedback: Incorrecto. $5^5 = 3,125$. -->
 
@@ -163,8 +163,8 @@ Resolver un logaritmo es responder a la pregunta: ¿A qué potencia debo elevar 
 
 ### Opciones
 - [ ] A) 3 <!-- feedback: Incorrecto. $2^3 = 8$, no $1/8$. -->
-- [x] B) -3 <!-- feedback: Correcto. $2^{-3} = 1 / 2^3 = 1/8$. -->
-- [ ] C) -4 <!-- feedback: Incorrecto. $2^{-4} = 1/16$. -->
+- [x] C) -3 <!-- feedback: Correcto. $2^{-3} = 1 / 2^3 = 1/8$. -->
+- [ ] B) -4 <!-- feedback: Incorrecto. $2^{-4} = 1/16$. -->
 - [ ] D) 0.125 <!-- feedback: Incorrecto. Este es el valor decimal del argumento, no el logaritmo. -->
 
 ### Explicacion Pedagogica
@@ -182,9 +182,9 @@ Cuando el argumento es menor que 1 (pero mayor que 0) y la base es mayor que 1, 
 
 ### Opciones
 - [ ] A) $\log(x)$ <!-- feedback: Incorrecto. Este suele representar la base 10. -->
-- [x] B) $\ln(x)$ <!-- feedback: Correcto. La abreviatura proviene del latín "logarithmus naturalis". -->
-- [ ] C) $\exp(x)$ <!-- feedback: Incorrecto. Esta es la función exponencial inversa ($e^x$). -->
-- [ ] D) $e^x$ <!-- feedback: Incorrecto. Esta es la función exponencial, no el logaritmo. -->
+- [x] D) $\ln(x)$ <!-- feedback: Correcto. La abreviatura proviene del latín "logarithmus naturalis". -->
+- [ ] B) $\exp(x)$ <!-- feedback: Incorrecto. Esta es la función exponencial inversa ($e^x$). -->
+- [ ] C) $e^x$ <!-- feedback: Incorrecto. Esta es la función exponencial, no el logaritmo. -->
 
 ### Explicacion Pedagogica
 El logaritmo natural utiliza como base el número irracional $e \approx 2.718$. Es fundamental en el cálculo y modelos de crecimiento natural.
@@ -219,9 +219,9 @@ Como el logaritmo natural y la base $e$ son inversos, su composición devuelve s
 De acuerdo con las propiedades de los logaritmos, ¿a qué es igual $\log_b(M \cdot N)$?
 
 ### Opciones
-- [x] A) $\log_b(M) + \log_b(N)$ <!-- feedback: Correcto. El logaritmo de un producto es la suma de los logaritmos de los factores. -->
-- [ ] B) $\log_b(M) - \log_b(N)$ <!-- feedback: Incorrecto. Esta es la propiedad para el cociente (división). -->
-- [ ] C) $\log_b(M) \cdot \log_b(N)$ <!-- feedback: Incorrecto. No existe una propiedad que simplifique el producto de dos logaritmos de esta manera. -->
+- [x] C) $\log_b(M) + \log_b(N)$ <!-- feedback: Correcto. El logaritmo de un producto es la suma de los logaritmos de los factores. -->
+- [ ] A) $\log_b(M) - \log_b(N)$ <!-- feedback: Incorrecto. Esta es la propiedad para el cociente (división). -->
+- [ ] B) $\log_b(M) \cdot \log_b(N)$ <!-- feedback: Incorrecto. No existe una propiedad que simplifique el producto de dos logaritmos de esta manera. -->
 - [ ] D) $N \cdot \log_b(M)$ <!-- feedback: Incorrecto. Esta es la propiedad para el logaritmo de una potencia ($M^N$). -->
 
 ### Explicacion Pedagogica
@@ -276,10 +276,10 @@ Esta propiedad es crucial para resolver ecuaciones exponenciales, ya que permite
 ¿Cuál es la fórmula correcta para cambiar la base de un logaritmo $\log_a(x)$ a una nueva base $b$?
 
 ### Opciones
-- [x] A) $\frac{\log_b(x)}{\log_b(a)}$ <!-- feedback: Correcto. El logaritmo del argumento original se divide entre el logaritmo de la base original, ambos en la nueva base. -->
-- [ ] B) $\log_b(x) - \log_b(a)$ <!-- feedback: Incorrecto. El cambio de base involucra división, no resta. -->
-- [ ] C) $\log_b(x) \cdot \log_b(a)$ <!-- feedback: Incorrecto. La operación correcta es el cociente de los logaritmos. -->
-- [ ] D) $\frac{\log_x(b)}{\log_a(b)}$ <!-- feedback: Incorrecto. Los argumentos y bases están mal posicionados. -->
+- [x] D) $\frac{\log_b(x)}{\log_b(a)}$ <!-- feedback: Correcto. El logaritmo del argumento original se divide entre el logaritmo de la base original, ambos en la nueva base. -->
+- [ ] A) $\log_b(x) - \log_b(a)$ <!-- feedback: Incorrecto. El cambio de base involucra división, no resta. -->
+- [ ] B) $\log_b(x) \cdot \log_b(a)$ <!-- feedback: Incorrecto. La operación correcta es el cociente de los logaritmos. -->
+- [ ] C) $\frac{\log_x(b)}{\log_a(b)}$ <!-- feedback: Incorrecto. Los argumentos y bases están mal posicionados. -->
 
 ### Explicacion Pedagogica
 Esta fórmula permite calcular logaritmos en cualquier base (como base 2 o base 7) usando solo los botones de $\log$ (base 10) o $\ln$ (base $e$) de una calculadora.
@@ -315,8 +315,8 @@ Despejando la ecuación: $\log[H^+] = -pH \Rightarrow [H^+] = 10^{-pH}$. Para un
 
 ### Opciones
 - [ ] A) Es estrictamente creciente. <!-- feedback: Incorrecto. Al ser la base menor que 1, la función decrece. -->
-- [x] B) Es estrictamente decreciente. <!-- feedback: Correcto. Similar a las exponenciales, una base entre 0 y 1 invierte la monotonía del logaritmo. -->
-- [ ] C) Tiene una asíntota horizontal en $y=0$. <!-- feedback: Incorrecto. Los logaritmos tienen asíntotas verticales. -->
+- [x] C) Es estrictamente decreciente. <!-- feedback: Correcto. Similar a las exponenciales, una base entre 0 y 1 invierte la monotonía del logaritmo. -->
+- [ ] B) Tiene una asíntota horizontal en $y=0$. <!-- feedback: Incorrecto. Los logaritmos tienen asíntotas verticales. -->
 - [ ] D) Su dominio son los reales negativos. <!-- feedback: Incorrecto. El dominio sigue siendo $(0, \infty)$. -->
 
 ### Explicacion Pedagogica
@@ -334,9 +334,9 @@ Halla el valor de $x$ en la ecuación: $\log_2(x + 5) = 4$.
 
 ### Opciones
 - [ ] A) $x = 9$ <!-- feedback: Incorrecto. $\log_2(14)$ no es igual a 4. -->
-- [x] B) $x = 11$ <!-- feedback: Correcto. Convertimos a forma exponencial: $x + 5 = 2^4 = 16$. Restando 5 obtenemos $x = 11$. -->
-- [ ] C) $x = 1$ <!-- feedback: Incorrecto. $\log_2(6)$ no es un número entero. -->
-- [ ] D) $x = 21$ <!-- feedback: Incorrecto. $\log_2(26)$ no es 4. -->
+- [x] D) $x = 11$ <!-- feedback: Correcto. Convertimos a forma exponencial: $x + 5 = 2^4 = 16$. Restando 5 obtenemos $x = 11$. -->
+- [ ] B) $x = 1$ <!-- feedback: Incorrecto. $\log_2(6)$ no es un número entero. -->
+- [ ] C) $x = 21$ <!-- feedback: Incorrecto. $\log_2(26)$ no es 4. -->
 
 ### Explicacion Pedagogica
 Para resolver ecuaciones logarítmicas, transformamos la expresión a su forma exponencial equivalente: $\text{argumento} = \text{base}^{\text{resultado}}$.
@@ -353,8 +353,8 @@ La intensidad sonora en decibelios se calcula como $dB = 10 \cdot \log(I/I_0)$. 
 
 ### Opciones
 - [ ] A) 10 dB <!-- feedback: Incorrecto. Se olvidó multiplicar por el logaritmo de la razón. -->
-- [ ] B) 100 dB <!-- feedback: Incorrecto. Error en el cálculo del logaritmo de 1,000. -->
-- [x] C) 30 dB <!-- feedback: Correcto. $\log(1,000) = 3$. Entonces $10 \times 3 = 30$ dB. -->
+- [ ] C) 100 dB <!-- feedback: Incorrecto. Error en el cálculo del logaritmo de 1,000. -->
+- [x] B) 30 dB <!-- feedback: Correcto. $\log(1,000) = 3$. Entonces $10 \times 3 = 30$ dB. -->
 - [ ] D) 3 dB <!-- feedback: Incorrecto. Falta multiplicar por el factor 10 de la escala decibélica. -->
 
 ### Explicacion Pedagogica
@@ -392,8 +392,8 @@ Calcula el valor de $x$ si $\log_2(\log_3(x)) = 1$.
 ### Opciones
 - [ ] A) 3 <!-- feedback: Incorrecto. $\log_3(3) = 1$, y $\log_2(1) = 0$, no 1. -->
 - [ ] B) 2 <!-- feedback: Incorrecto. El argumento del logaritmo exterior debe ser 2. -->
-- [x] C) 9 <!-- feedback: Correcto. $\log_2(\dots)=1 \Rightarrow \log_3(x) = 2^1 = 2$. Luego $x = 3^2 = 9$. -->
-- [ ] D) 6 <!-- feedback: Incorrecto. Error en la aplicación sucesiva de la definición de logaritmo. -->
+- [x] D) 9 <!-- feedback: Correcto. $\log_2(\dots)=1 \Rightarrow \log_3(x) = 2^1 = 2$. Luego $x = 3^2 = 9$. -->
+- [ ] C) 6 <!-- feedback: Incorrecto. Error en la aplicación sucesiva de la definición de logaritmo. -->
 
 ### Explicacion Pedagogica
 Para logaritmos anidados, resolvemos "de afuera hacia adentro" aplicando la definición de logaritmo en cada paso.

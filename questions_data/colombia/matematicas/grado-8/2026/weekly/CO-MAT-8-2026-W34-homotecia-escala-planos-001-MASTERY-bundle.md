@@ -32,13 +32,13 @@ Este bundle contiene 12 preguntas sobre **homotecia-escala-planos** para grado 8
 ### Enunciado
 ¿Qué elementos definen una homotecia en el plano?
 ### Opciones
-- [x] A) Un centro de homotecia y un factor de escala k
+- [x] D) Un centro de homotecia y un factor de escala k
   <!-- feedback: Correcto. La homotecia queda determinada por su centro O y su razón k, que indica cuánto se amplía o se reduce. -->
-- [ ] B) Dos ángulos rectos y un eje de simetría
+- [ ] A) Dos ángulos rectos y un eje de simetría
   <!-- feedback: Incorrecto. Esos elementos describen reflexiones o figuras rectangulares, no la homotecia. -->
-- [ ] C) Un vector de traslación y una distancia fija
+- [ ] B) Un vector de traslación y una distancia fija
   <!-- feedback: Incorrecto. El vector define una traslación, que conserva el tamaño sin centro ni factor de ampliación. -->
-- [ ] D) Un ángulo de giro y un sentido horario
+- [ ] C) Un ángulo de giro y un sentido horario
   <!-- feedback: Incorrecto. Esos elementos definen una rotación, que conserva el tamaño y no usa factor de escala. -->
 ### Explicacion Pedagogica
 La homotecia con centro O y factor k envía cada punto P a un punto P' sobre la recta OP tal que OP' = k × OP. Si |k| > 1 amplía, si 0 < |k| < 1 reduce, y si k es negativo además rota media vuelta.
@@ -52,9 +52,9 @@ La homotecia con centro O y factor k envía cada punto P a un punto P' sobre la 
 ### Enunciado
 ¿Qué significa que el factor de homotecia sea k = 5?
 ### Opciones
-- [ ] A) Que la imagen se reduce a la quinta parte
+- [ ] B) Que la imagen se reduce a la quinta parte
   <!-- feedback: Incorrecto. Esa reducción corresponde a k = 1/5, no a k = 5. -->
-- [x] B) Que cada distancia al centro se multiplica por 5
+- [x] A) Que cada distancia al centro se multiplica por 5
   <!-- feedback: Correcto. Con k = 5 la figura se amplía cinco veces conservando su forma. -->
 - [ ] C) Que la figura gira 5 grados
   <!-- feedback: Incorrecto. El factor k no mide ángulos; la homotecia positiva no gira la figura. -->
@@ -94,9 +94,9 @@ La escala a:b significa dibujo:realidad. En 1:100, 1 cm del plano son 100 cm = 1
 ### Opciones
 - [ ] A) 7 cm
   <!-- feedback: Incorrecto. Ese valor suma 4 + 3; la homotecia multiplica, no suma. -->
-- [x] B) 12 cm
+- [x] C) 12 cm
   <!-- feedback: Correcto. Como OA' = k × OA = 3 × 4 = 12 cm. -->
-- [ ] C) 9 cm
+- [ ] B) 9 cm
   <!-- feedback: Incorrecto. Ese valor sería 3 al cuadrado; debes multiplicar el factor por la distancia original. -->
 - [ ] D) 16 cm
   <!-- feedback: Incorrecto. Ese valor es 4 al cuadrado; el cálculo correcto es 3 × 4 = 12. -->
@@ -114,11 +114,11 @@ Por definición OA' = |k| × OA. Con k = 3 y OA = 4 cm, OA' = 12 cm. Todos los p
 ### Opciones
 - [ ] A) 30 m
   <!-- feedback: Incorrecto. Ese valor olvida dos ceros; 6 × 5000 = 30000 cm, no 3000 cm. -->
-- [x] B) 300 m
+- [x] D) 300 m
   <!-- feedback: Correcto. La distancia real es 6 × 5000 = 30000 cm = 300 m. -->
-- [ ] C) 3 km
+- [ ] B) 3 km
   <!-- feedback: Incorrecto. Ese valor multiplica por 10 de más; 30000 cm son 300 m, es decir 0,3 km. -->
-- [ ] D) 30 km
+- [ ] C) 30 km
   <!-- feedback: Incorrecto. Ese valor confunde centímetros con metros al convertir; 30000 cm = 300 m. -->
 ### Explicacion Pedagogica
 Distancia real = medida del plano × denominador de la escala: 6 × 5000 = 30000 cm. Como 1 m = 100 cm, 30000 cm = 300 m. La escala permite pasar del papel al terreno con una multiplicación.
@@ -192,9 +192,9 @@ Lado imagen = 40 × 1,5 = 60 cm; área = 3600 cm² frente a 1600 cm² del origin
 ### Enunciado
 ¿Cuál es la longitud real de ese tramo y cuántos minutos tarda en recorrerse a 5 km/h?
 ### Opciones
-- [ ] A) 2 km y 12 minutos
+- [ ] B) 2 km y 12 minutos
   <!-- feedback: Incorrecto. La longitud real es correcta, pero 2 km a 5 km/h toman 24 minutos, no 12. -->
-- [x] B) 2 km y 24 minutos
+- [x] A) 2 km y 24 minutos
   <!-- feedback: Correcto. 8 × 25000 = 200000 cm = 2 km; tiempo = 2/5 h = 0,4 h = 24 min. -->
 - [ ] C) 20 km y 4 horas
   <!-- feedback: Incorrecto. Ese valor multiplica por 10 de más al convertir centímetros a kilómetros. -->
@@ -214,9 +214,9 @@ Lado imagen = 40 × 1,5 = 60 cm; área = 3600 cm² frente a 1600 cm² del origin
 ### Opciones
 - [ ] A) Mide 3 cm y queda del mismo lado del centro
   <!-- feedback: Incorrecto. Esa medida resta 2 a 5 y el signo negativo indica lado opuesto, no el mismo. -->
-- [ ] B) Mide 10 cm y queda del mismo lado del centro
+- [ ] C) Mide 10 cm y queda del mismo lado del centro
   <!-- feedback: Incorrecto. La medida 10 cm es correcta, pero con k negativo la imagen queda en el lado opuesto del centro. -->
-- [x] C) Mide 10 cm y queda en el lado opuesto del centro
+- [x] B) Mide 10 cm y queda en el lado opuesto del centro
   <!-- feedback: Correcto. La longitud es |−2| × 5 = 10 cm y el signo menos indica inversión respecto al centro. -->
 - [ ] D) Mide 25 cm y conserva la orientación
   <!-- feedback: Incorrecto. Esa medida eleva al cuadrado; además k negativo invierte la orientación de la figura. -->
@@ -234,11 +234,11 @@ En la homotecia, la distancia se multiplica por |k| y el signo de k indica la po
 ### Opciones
 - [ ] A) El de 6 m², porque 3 × 5 = 15 y 15/2,5 = 6
   <!-- feedback: Incorrecto. Esa división arbitraria no corresponde a la conversión de escala en áreas. -->
-- [x] B) El de 60 m², porque 6 m × 10 m = 60 m²
+- [x] D) El de 60 m², porque 6 m × 10 m = 60 m²
   <!-- feedback: Correcto. Cada lado real es 200 veces el del plano: 6 m y 10 m, cuyo producto es 60 m². -->
-- [ ] C) Ambos son correctos según la unidad usada
+- [ ] B) Ambos son correctos según la unidad usada
   <!-- feedback: Incorrecto. El área real es única; 6 m² subestima diez veces el valor verdadero. -->
-- [ ] D) Ninguno, el área real es 600 m²
+- [ ] C) Ninguno, el área real es 600 m²
   <!-- feedback: Incorrecto. Ese valor multiplica una vez más por 10; las dimensiones reales son 6 m y 10 m. -->
 ### Explicacion Pedagogica
 Lados reales: 3 × 200 = 600 cm = 6 m y 5 × 200 = 1000 cm = 10 m. Área = 60 m². Nótese que el área del plano (15 cm²) se multiplica por 200² = 40000: 15 × 40000 = 600000 cm² = 60 m². Evaluar exige convertir con k², no con k.

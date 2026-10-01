@@ -34,11 +34,11 @@ Este bundle contiene 20 preguntas sobre **Tabla Periódica y Propiedades Periód
 ¿Cuál es el criterio fundamental según el cual se ordenan actualmente los elementos químicos en la tabla periódica?
 
 ### Opciones
-- [x] A) El orden creciente de su número atómico $Z$ (número de protones).
+- [x] C) El orden creciente de su número atómico $Z$ (número de protones).
   <!-- feedback: Correcto. Moseley demostró que las propiedades físicas y químicas de los elementos varían periódicamente en función de $Z$. -->
-- [ ] B) El orden creciente de su masa atómica $A$.
+- [ ] A) El orden creciente de su masa atómica $A$.
   <!-- feedback: Incorrecto. El ordenamiento por masa atómica pertenecía a la tabla histórica de Mendeleev y presentaba anomalías. -->
-- [ ] C) El orden alfabético de sus símbolos químicos.
+- [ ] B) El orden alfabético de sus símbolos químicos.
   <!-- feedback: Incorrecto. El nombre o símbolo del elemento no determina sus propiedades químicas. -->
 - [ ] D) Su abundancia porcentual en la corteza terrestre.
   <!-- feedback: Incorrecto. La abundancia geológica es una propiedad variable e independiente del ordenamiento periódico. -->
@@ -57,9 +57,9 @@ La Ley Periódica Moderna formulada por Henry Moseley establece que las propieda
 ¿Qué característica estructural comparten todos los elementos pertenecientes a un mismo grupo o familia en la tabla periódica?
 
 ### Opciones
-- [x] A) Poseen la misma cantidad de electrones de valencia en su capa externa.
+- [x] B) Poseen la misma cantidad de electrones de valencia en su capa externa.
   <!-- feedback: Correcto. Los elementos de un mismo grupo tienen configuraciones electrónicas externas análogas (ej. todos los alcalinos terminan en $ns^1$). -->
-- [ ] B) Tienen exactamente el mismo número de niveles de energía ocupados.
+- [ ] A) Tienen exactamente el mismo número de niveles de energía ocupados.
   <!-- feedback: Incorrecto. El número de niveles de energía ocupados define el periodo (fila horizontal), no el grupo. -->
 - [ ] C) Poseen idéntica masa atómica y radio atómico.
   <!-- feedback: Incorrecto. La masa y el radio aumentan al descender en un grupo. -->
@@ -80,11 +80,11 @@ Los elementos de un mismo grupo presentan propiedades químicas similares debido
 ¿Cómo varía el radio atómico de los elementos neutros al avanzar de izquierda a derecha a lo largo de un mismo periodo?
 
 ### Opciones
-- [x] A) Disminuye, debido al aumento de la carga nuclear efectiva ($Z_{ef}$) que atrae con mayor fuerza a los electrones del mismo nivel.
+- [x] C) Disminuye, debido al aumento de la carga nuclear efectiva ($Z_{ef}$) que atrae con mayor fuerza a los electrones del mismo nivel.
   <!-- feedback: Correcto. Al aumentar Z dentro del mismo periodo (mismo n), la atracción nuclear comprimiendo la nube electrónica aumenta. -->
-- [ ] B) Aumenta linealmente, porque se agregan protones y neutrones de gran volumen.
+- [ ] A) Aumenta linealmente, porque se agregan protones y neutrones de gran volumen.
   <!-- feedback: Incorrecto. Aunque aumenta Z, los electrones se añaden al mismo nivel y sufren mayor atracción nuclear. -->
-- [ ] C) Permanece totalmente constante porque el nivel principal $n$ no cambia.
+- [ ] B) Permanece totalmente constante porque el nivel principal $n$ no cambia.
   <!-- feedback: Incorrecto. El nivel $n$ es constante pero la carga nuclear crece haciendo disminuir el radio. -->
 - [ ] D) Aumenta exponencialmente al llegar a los halógenos.
   <!-- feedback: Incorrecto. Los halógenos poseen los radios atómicos más pequeños de sus respectivos periodos. -->
@@ -103,11 +103,11 @@ Al avanzar horizontalmente en un periodo, el número de protones ($Z$) aumenta p
 ¿Cuál es el elemento químico más electronegativo de toda la tabla periódica según la escala de Linus Pauling?
 
 ### Opciones
-- [x] A) Flúor ($F$), con un valor de 4.0.
+- [x] C) Flúor ($F$), con un valor de 4.0.
   <!-- feedback: Correcto. El Flúor ($F$) se ubica arriba y a la derecha (excluyendo gases nobles), siendo el elemento con mayor tendencia a atraer electrones de enlace. -->
-- [ ] B) Francio ($Fr$), con un valor de 0.7.
+- [ ] A) Francio ($Fr$), con un valor de 0.7.
   <!-- feedback: Incorrecto. El Francio es el elemento menos electronegativo (más electropositivo). -->
-- [ ] C) Oxígeno ($O$), con un valor de 3.5.
+- [ ] B) Oxígeno ($O$), con un valor de 3.5.
   <!-- feedback: Incorrecto. El Oxígeno es el segundo más electronegativo, pero inferior al Flúor. -->
 - [ ] D) Helio ($He$), con un valor de 5.0.
   <!-- feedback: Incorrecto. Los gases nobles no presentan valores tabulados habituales de electronegatividad de Pauling al no formar enlaces covalentes simples. -->
@@ -149,11 +149,11 @@ La energía de ionización es la energía mínima necesaria para remover un elec
 ¿Por qué el radio iónico del anión $Cl^-$ es significativamente MAYOR que el radio atómico del átomo neutro de $Cl$?
 
 ### Opciones
-- [x] A) Porque la adición de un electrón incrementa la repulsión electrón-electrón en la capa de valencia, expandiendo la nube electrónica sin modificar la carga nuclear.
+- [x] C) Porque la adición de un electrón incrementa la repulsión electrón-electrón en la capa de valencia, expandiendo la nube electrónica sin modificar la carga nuclear.
   <!-- feedback: Correcto. Ganar un electrón incrementa las fuerzas repulsivas entre los electrones de valencia, provocando la expansión de la nube electrónica. -->
-- [ ] B) Porque el núcleo del anión pierde un protón al ionizarse.
+- [ ] A) Porque el núcleo del anión pierde un protón al ionizarse.
   <!-- feedback: Incorrecto. El número de protones en el núcleo permanece constante ($Z=17$). -->
-- [ ] C) Porque el átomo gana niveles de energía principales adicionales.
+- [ ] B) Porque el átomo gana niveles de energía principales adicionales.
   <!-- feedback: Incorrecto. El electrón adicional entra al mismo subnivel $3p$. -->
 - [ ] D) Porque el anión pierde todos sus electrones internos.
   <!-- feedback: Incorrecto. Los electrones internos permanecen intactos. -->
@@ -172,13 +172,13 @@ Al ganar un electrón para formar un anión, la carga nuclear ($Z=+17$) se manti
 ¿Cómo se compara el radio iónico del catión $Na^+$ respecto al radio atómico del $Na$ neutro y por qué?
 
 ### Opciones
-- [x] A) El $Na^+$ es MENOR que el $Na$, porque al perder el electrón del subnivel $3s$ se elimina una capa electrónica completa y aumenta la carga nuclear efectiva sobre los electrones remanentes.
+- [x] D) El $Na^+$ es MENOR que el $Na$, porque al perder el electrón del subnivel $3s$ se elimina una capa electrónica completa y aumenta la carga nuclear efectiva sobre los electrones remanentes.
   <!-- feedback: Correcto. La pérdida del electrón de valencia vacía el nivel $n=3$, y la atracción de 11 protones sobre 10 electrones contrae fuertemente la nube. -->
-- [ ] B) El $Na^+$ es mayor que el $Na$, porque la carga positiva repele a la nube electrónica hacia afuera.
+- [ ] A) El $Na^+$ es mayor que el $Na$, porque la carga positiva repele a la nube electrónica hacia afuera.
   <!-- feedback: Incorrecto. La carga positiva nuclear atrae con mayor intensidad a los electrones restantes. -->
-- [ ] C) Tienen exactamente el mismo tamaño porque $Z=11$ en ambos.
+- [ ] B) Tienen exactamente el mismo tamaño porque $Z=11$ en ambos.
   <!-- feedback: Incorrecto. La remoción de electrones altera el balance de atracción/repulsión y la cantidad de capas. -->
-- [ ] D) El catión $Na^+$ es el doble de grande por pérdida de protones.
+- [ ] C) El catión $Na^+$ es el doble de grande por pérdida de protones.
   <!-- feedback: Incorrecto. La ionización química afecta a la nube electrónica, nunca a la cantidad de protones. -->
 
 ### Explicacion Pedagogica
@@ -195,11 +195,11 @@ Al perder un electrón para formar un catión ($Na \rightarrow Na^+ + e^-$), se 
 ¿Cuál de los elementos indicados presenta el carácter metálico más pronunciado y la menor electronegatividad del periodo?
 
 ### Opciones
-- [x] A) Sodio ($Na$)
+- [x] C) Sodio ($Na$)
   <!-- feedback: Correcto. El carácter metálico (tendencia a ceder electrones) es máximo en la extrema izquierda de la tabla periódica (alcalinos). -->
-- [ ] B) Cloro ($Cl$)
+- [ ] A) Cloro ($Cl$)
   <!-- feedback: Incorrecto. El Cloro es un no metal de alta electronegatividad. -->
-- [ ] C) Argón ($Ar$)
+- [ ] B) Argón ($Ar$)
   <!-- feedback: Incorrecto. El Argón es un gas noble inerte. -->
 - [ ] D) Silicio ($Si$)
   <!-- feedback: Incorrecto. El Silicio es un metaloide o semimetal. -->
@@ -218,9 +218,9 @@ El carácter metálico mide la facilidad con que un átomo pierde electrones. Au
 ¿Qué define a la AFINIDAD ELECTRÓNICA de un átomo neutro gaseoso?
 
 ### Opciones
-- [x] A) Es el cambio de energía producido cuando un átomo gaseoso neutro en estado fundamental captura un electrón para formar un anión con carga $-1$.
+- [x] B) Es el cambio de energía producido cuando un átomo gaseoso neutro en estado fundamental captura un electrón para formar un anión con carga $-1$.
   <!-- feedback: Correcto. Definición estándar de afinidad electrónica: $X_{(g)} + e^- \rightarrow X^-_{(g)} + \Delta E$. -->
-- [ ] B) Es la energía requerida para arrancar el electrón de valencia más débilmente unido.
+- [ ] A) Es la energía requerida para arrancar el electrón de valencia más débilmente unido.
   <!-- feedback: Incorrecto. Esa es la definición de la energía de ionización. -->
 - [ ] C) Es la capacidad de formar enlaces covalentes dobles con el carbono.
   <!-- feedback: Incorrecto. Es una propiedad específica de reactividad sintética orgánica. -->
@@ -241,13 +241,13 @@ La afinidad electrónica ($AE$) es la variación energética ($\Delta E$) asocia
 ¿Por qué la SEGUNDA energía de ionización del Sodio ($Na \rightarrow Na^{2+} + e^-$) es astronómicamente mayor que la del Magnesio ($Mg \rightarrow Mg^{2+} + e^-$)?
 
 ### Opciones
-- [x] A) Porque la segunda ionización del $Na$ requiere arrancar un electrón de un nivel principal interno ($n=2$) con configuración de gas noble cerrada, mientras en el $Mg$ se arranca el segundo electrón de valencia del subnivel $3s$.
+- [x] D) Porque la segunda ionización del $Na$ requiere arrancar un electrón de un nivel principal interno ($n=2$) con configuración de gas noble cerrada, mientras en el $Mg$ se arranca el segundo electrón de valencia del subnivel $3s$.
   <!-- feedback: Correcto. El $Na^+$ tiene configuración $[Ne]$. Arrancar un segundo electrón destruye el octeto estable $n=2$. En el $Mg^+$, el segundo electrón proviene todavía de la capa $3s$. -->
-- [ ] B) Porque el Sodio tiene mayor número atómico que el Magnesio.
+- [ ] A) Porque el Sodio tiene mayor número atómico que el Magnesio.
   <!-- feedback: Incorrecto. El Magnesio ($Z=12$) tiene mayor carga nuclear que el Sodio ($Z=11$). -->
-- [ ] C) Porque el Magnesio es un gas noble inerte a temperatura ambiente.
+- [ ] B) Porque el Magnesio es un gas noble inerte a temperatura ambiente.
   <!-- feedback: Incorrecto. El Magnesio es un metal alcalinotérreo reactivo. -->
-- [ ] D) Porque el catión $Na^+$ es un anión inestable.
+- [ ] C) Porque el catión $Na^+$ es un anión inestable.
   <!-- feedback: Incorrecto. $Na^+$ es un catión monovalente muy estable. -->
 
 ### Explicacion Pedagogica
@@ -264,11 +264,11 @@ Configuraciones: $Na^+ = [Ne]$ (octeto completo $n=2$, muy estable). Arrancar un
 ¿Cuál es el orden correcto de RADIO IÓNICO de menor a mayor para esta serie isoelectrónica?
 
 ### Opciones
-- [x] A) $Mg^{2+} < Na^+ < F^- < O^{2-}$
+- [x] C) $Mg^{2+} < Na^+ < F^- < O^{2-}$
   <!-- feedback: Correcto. A igual número de electrones (10 e$^-$), la especie con mayor número de protones ($Mg^{2+}, Z=12$) ejerce la mayor atracción nuclear comprimiendo al máximo el radio. $O^{2-}$ ($Z=8$) tiene la menor atracción y mayor radio. -->
-- [ ] B) $O^{2-} < F^- < Na^+ < Mg^{2+}$
+- [ ] A) $O^{2-} < F^- < Na^+ < Mg^{2+}$
   <!-- feedback: Incorrecto. Inversión total del tamaño iónico de especies isoelectrónicas. -->
-- [ ] C) $Na^+ < Mg^{2+} < O^{2-} < F^-$
+- [ ] B) $Na^+ < Mg^{2+} < O^{2-} < F^-$
   <!-- feedback: Incorrecto. Falla la comparación de cargas catiónicas y aniónicas. -->
 - [ ] D) Los cuatro iones tienen exactamente el mismo tamaño iónico.
   <!-- feedback: Incorrecto. La variación en el número atómico $Z$ altera significativamente la atracción nuclear. -->
@@ -287,13 +287,13 @@ En una serie isoelectrónica, el número de electrones es idéntico. El tamaño 
 A pesar de que el Boro tiene mayor carga nuclear ($Z=5$) que el Berilio ($Z=4$), la primera energía de ionización del Boro es LIGERAMENTE MENOR que la del Berilio. ¿Qué razón cuántica explica esta excepción?
 
 ### Opciones
-- [x] A) El electrón a remover en el Boro se encuentra en un subnivel $2p$ de mayor energía y más penetrado por el apantallamiento del subnivel $2s^2$ lleno del Berilio.
+- [x] D) El electrón a remover en el Boro se encuentra en un subnivel $2p$ de mayor energía y más penetrado por el apantallamiento del subnivel $2s^2$ lleno del Berilio.
   <!-- feedback: Correcto. En el $Be$ ($1s^2 2s^2$), el subnivel $2s$ está lleno y estable. En el $B$ ($1s^2 2s^2 2p^1$), el electrón $2p$ es de mayor energía y es fácil de retirar. -->
-- [ ] B) El Berilio es un gas noble y el Boro es un no metal.
+- [ ] A) El Berilio es un gas noble y el Boro es un no metal.
   <!-- feedback: Incorrecto. El Berilio es un metal alcalinotérreo y el Boro es un metaloide. -->
-- [ ] C) El núcleo del Boro contiene menos neutrones que el del Berilio.
+- [ ] B) El núcleo del Boro contiene menos neutrones que el del Berilio.
   <!-- feedback: Incorrecto. La energía de ionización está regida por la estructura electrónica y carga nuclear. -->
-- [ ] D) El Boro pierde protones espontáneamente durante la prueba.
+- [ ] C) El Boro pierde protones espontáneamente durante la prueba.
   <!-- feedback: Incorrecto. La ionización afecta únicamente a la corteza de electrones. -->
 
 ### Explicacion Pedagogica
@@ -333,11 +333,11 @@ Configuraciones: $N = [He] 2s^2 2p_x^1 2p_y^1 2p_z^1$ (semilleno, estable). $O =
 ¿Cuál es la causa cuántica de la resistencia de los gases nobles a aceptar un electrón adicional?
 
 ### Opciones
-- [x] A) Tienen capas de valencia completamente saturadas ($ns^2 np^6$), por lo que el electrón adicional debería entrar a un nivel $n+1$ superior de mucha mayor energía y fuertemente apantallado.
+- [x] C) Tienen capas de valencia completamente saturadas ($ns^2 np^6$), por lo que el electrón adicional debería entrar a un nivel $n+1$ superior de mucha mayor energía y fuertemente apantallado.
   <!-- feedback: Correcto. Al tener el octeto completo, agregar un electrón exige inaugurar un nuevo nivel principal $n+1$, lo cual es termodinámicamente desfavorable. -->
-- [ ] B) No poseen protones en el núcleo para atraer al nuevo electrón.
+- [ ] A) No poseen protones en el núcleo para atraer al nuevo electrón.
   <!-- feedback: Incorrecto. Los gases nobles poseen núcleos altamente cargados de protones. -->
-- [ ] C) Son elementos líquidos de altísima densidad.
+- [ ] B) Son elementos líquidos de altísima densidad.
   <!-- feedback: Incorrecto. Son gases monoatómicos. -->
 - [ ] D) Tienen masas atómicas infinitas.
   <!-- feedback: Incorrecto. Tienen masas atómicas finitas bien definidas. -->
@@ -356,13 +356,13 @@ Los gases nobles poseen configuraciones estables de capa cerrada ($ns^2 np^6$). 
 ¿En qué consiste el fenómeno de la contracción lantánida y qué efecto produce en los radios atómicos de los metales de transición del Periodo 6?
 
 ### Opciones
-- [x] A) El deficiente apantallamiento de los 14 electrones que llenan el subnivel $4f$ causa un aumento de la carga nuclear efectiva, haciendo que los radios del Periodo 6 sean casi idénticos a los del Periodo 5.
+- [x] D) El deficiente apantallamiento de los 14 electrones que llenan el subnivel $4f$ causa un aumento de la carga nuclear efectiva, haciendo que los radios del Periodo 6 sean casi idénticos a los del Periodo 5.
   <!-- feedback: Correcto. La contracción lantánida se debe a la baja capacidad de apantallamiento de los orbitales $f$, contrayendo el radio del Periodo 6 al nivel del Periodo 5. -->
-- [ ] B) Los elementos del Periodo 6 pierden neutrones espontáneamente achicando su volumen.
+- [ ] A) Los elementos del Periodo 6 pierden neutrones espontáneamente achicando su volumen.
   <!-- feedback: Incorrecto. La contracción es un fenómeno de atracción electrónica, no de decaimiento nuclear. -->
-- [ ] C) Los radios del Periodo 6 se vuelven diez veces mayores que los del Periodo 5.
+- [ ] B) Los radios del Periodo 6 se vuelven diez veces mayores que los del Periodo 5.
   <!-- feedback: Incorrecto. La contracción evita el crecimiento esperado del radio al bajar de periodo. -->
-- [ ] D) El fenómeno destruye la electronegatividad de los lantánidos.
+- [ ] C) El fenómeno destruye la electronegatividad de los lantánidos.
   <!-- feedback: Incorrecto. La contracción afecta principalmente a las dimensiones atómicas y energías de ionización. -->
 
 ### Explicacion Pedagogica
@@ -379,9 +379,9 @@ A medida que se llena el subnivel $4f$ a lo largo de los lantánidos (14 element
 ¿Cuál es la clasificación correcta del carácter del enlace para cada uno de estos tres pares?
 
 ### Opciones
-- [x] A) $K-Cl$: Iónico; $C-O$: Covalente polar; $C-H$: Covalente apolar (o débilmente polar).
+- [x] B) $K-Cl$: Iónico; $C-O$: Covalente polar; $C-H$: Covalente apolar (o débilmente polar).
   <!-- feedback: Correcto. $\Delta EN \ge 1.7 \implies$ iónico ($K-Cl$). $0.5 \le \Delta EN < 1.7 \implies$ covalente polar ($C-O$). $\Delta EN < 0.5 \implies$ covalente apolar ($C-H$). -->
-- [ ] B) $K-Cl$: Covalente apolar; $C-O$: Iónico; $C-H$: Metálico.
+- [ ] A) $K-Cl$: Covalente apolar; $C-O$: Iónico; $C-H$: Metálico.
   <!-- feedback: Incorrecto. Clasificación inversa del carácter del enlace según la diferencia de electronegatividades. -->
 - [ ] C) Los tres enlaces son estrictamente iónicos.
   <!-- feedback: Incorrecto. Solo $K-Cl$ involucra una transferencia neta de electrones por gran diferencia de electronegatividad. -->
@@ -477,11 +477,11 @@ La relación diagonal ($Li/Mg, Be/Al, B/Si$) ocurre porque al moverse un lugar a
 ¿Qué efecto cuántico justifica la mayor estabilidad del $Pb^{2+}$ frente al $Pb^{4+}$, haciendo que el $Pb(IV)$ sea un potente agente oxidante?
 
 ### Opciones
-- [x] A) El efecto del par inerte, donde los electrones del subnivel $6s^2$ están tan fuertemente retenidos por la carga nuclear y la contracción relativista que no participan en el enlace.
+- [x] C) El efecto del par inerte, donde los electrones del subnivel $6s^2$ están tan fuertemente retenidos por la carga nuclear y la contracción relativista que no participan en el enlace.
   <!-- feedback: Correcto. En elementos pesados de los bloques p ($Tl, Pb, Bi$), los electrones $s^2$ externos son reacios a ionizarse o compartirse (efecto de par inerte). -->
-- [ ] B) La pérdida de neutrones del núcleo de Plomo.
+- [ ] A) La pérdida de neutrones del núcleo de Plomo.
   <!-- feedback: Incorrecto. Las propiedades de oxidación/reducción dependen de la corteza electrónica. -->
-- [ ] C) La destrucción del subnivel $5d$.
+- [ ] B) La destrucción del subnivel $5d$.
   <!-- feedback: Incorrecto. Los subniveles $d$ internos permanecen completos e inalterados. -->
 - [ ] D) La ausencia de electronegatividad en el plomo.
   <!-- feedback: Incorrecto. El plomo posee una electronegatividad finita definida. -->

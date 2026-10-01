@@ -34,13 +34,13 @@ Este bundle de 10 preguntas estudia la gestion del riesgo frente a desastres nat
 Que es la gestion del riesgo de desastres?
 
 ### Opciones
-- [x] A) El conjunto de acciones para conocer las amenazas, reducir la vulnerabilidad y prepararse para responder ante un evento peligroso
+- [x] D) El conjunto de acciones para conocer las amenazas, reducir la vulnerabilidad y prepararse para responder ante un evento peligroso
   <!-- feedback: Correcto. La gestion del riesgo busca prevenir y reducir impactos. -->
-- [ ] B) La actividad de esperar a que ocurra el desastre y luego lamentar las perdidas
+- [ ] A) La actividad de esperar a que ocurra el desastre y luego lamentar las perdidas
   <!-- feedback: Incorrecto. La gestion del riesgo actua antes del evento, de forma preventiva. -->
-- [ ] C) El estudio de los desastres solo despues de que terminan
+- [ ] B) El estudio de los desastres solo despues de que terminan
   <!-- feedback: Incorrecto. La gestion se hace antes, durante y despues, con enfasis en la prevencion. -->
-- [ ] D) La lista de los desastres que ya ocurrieron en el pais
+- [ ] C) La lista de los desastres que ya ocurrieron en el pais
   <!-- feedback: Incorrecto. Conocer el historial ayuda, pero la gestion es un proceso de acciones. -->
 
 ### Explicacion Pedagogica
@@ -57,9 +57,9 @@ La gestion del riesgo es un proceso que incluye identificar las amenazas, evalua
 Por que construir viviendas muy cerca del cauce de un rio aumenta el riesgo de inundacion?
 
 ### Opciones
-- [x] A) Porque en las crecientes el agua ocupa el cauce y sus rondas, por lo que las viviendas alli quedan expuestas a la inundacion
+- [x] B) Porque en las crecientes el agua ocupa el cauce y sus rondas, por lo que las viviendas alli quedan expuestas a la inundacion
   <!-- feedback: Correcto. Las rondas de los rios son zonas de flujo natural del agua. -->
-- [ ] B) Porque las casas cerca del rio atraen la lluvia
+- [ ] A) Porque las casas cerca del rio atraen la lluvia
   <!-- feedback: Incorrecto. Las viviendas no atraen la lluvia; el agua ocupa su cauce natural. -->
 - [ ] C) Porque el rio siempre permanece con el mismo caudal
   <!-- feedback: Incorrecto. El caudal de los rios varia con las lluvias. -->
@@ -80,11 +80,11 @@ Los rios ocupan su cauce y sus rondas durante las crecientes; construir en esas 
 Para que sirve este mapa de riesgo escolar?
 
 ### Opciones
-- [x] A) Para identificar las amenazas y los lugares seguros, y asi planear rutas de evacuacion y acciones de prevencion en la comunidad educativa
+- [x] C) Para identificar las amenazas y los lugares seguros, y asi planear rutas de evacuacion y acciones de prevencion en la comunidad educativa
   <!-- feedback: Correcto. El mapa de riesgo orienta la preparacion y la respuesta. -->
-- [ ] B) Para decorar las paredes del salon con colores
+- [ ] A) Para decorar las paredes del salon con colores
   <!-- feedback: Incorrecto. El mapa tiene una funcion de prevencion, no decorativa. -->
-- [ ] C) Para saber en que casa vive cada estudiante
+- [ ] B) Para saber en que casa vive cada estudiante
   <!-- feedback: Incorrecto. El mapa de riesgo representa amenazas y zonas seguras. -->
 - [ ] D) Para elegir el lugar donde construir nuevas casas sin revisar el terreno
   <!-- feedback: Incorrecto. La construccion debe evitar las zonas de amenaza marcadas. -->
@@ -103,11 +103,11 @@ El mapa de riesgo es una herramienta de participacion comunitaria: ubica las ame
 Que explica la utilidad de esta respuesta durante un sismo?
 
 ### Opciones
-- [x] A) Protege a la persona de la caida de objetos y reduce el riesgo de golpes mientras dura el movimiento, y luego permite evacuar de forma ordenada
+- [x] C) Protege a la persona de la caida de objetos y reduce el riesgo de golpes mientras dura el movimiento, y luego permite evacuar de forma ordenada
   <!-- feedback: Correcto. Agacharse, cubrirse y sujetarse disminuye el riesgo de lesion. -->
-- [ ] B) Sirve para detener el sismo con la fuerza del cuerpo
+- [ ] A) Sirve para detener el sismo con la fuerza del cuerpo
   <!-- feedback: Incorrecto. Los sismos no se detienen con acciones humanas. -->
-- [ ] C) Es una forma de llamar la atencion de los vecinos
+- [ ] B) Es una forma de llamar la atencion de los vecinos
   <!-- feedback: Incorrecto. El protocolo busca proteger la integridad fisica. -->
 - [ ] D) Sirve para correr rapido hacia la salida durante el movimiento
   <!-- feedback: Incorrecto. Correr durante el sismo aumenta el riesgo de caidas. -->
@@ -126,13 +126,13 @@ Durante un sismo, la mayoria de las lesiones se deben a objetos que caen o a cai
 Que aplicacion correcta hacen las familias de esta informacion?
 
 ### Opciones
-- [x] A) Conocer las zonas de amenaza, identificar rutas de evacuacion y participar en simulacros, para actuar rapido si hay una alerta
+- [x] D) Conocer las zonas de amenaza, identificar rutas de evacuacion y participar en simulacros, para actuar rapido si hay una alerta
   <!-- feedback: Correcto. La informacion se usa para prepararse y saber que hacer. -->
-- [ ] B) Ignorar las alertas porque el volcan hace mucho no erupciona
+- [ ] A) Ignorar las alertas porque el volcan hace mucho no erupciona
   <!-- feedback: Incorrecto. El tiempo sin erupcionar no elimina la amenaza. -->
-- [ ] C) Construir nuevas casas en la zona mas cercana al volcan
+- [ ] B) Construir nuevas casas en la zona mas cercana al volcan
   <!-- feedback: Incorrecto. Acercarse al volcan aumenta la exposicion al riesgo. -->
-- [ ] D) Guardar los mapas sin leerlos ni comentarlos en familia
+- [ ] C) Guardar los mapas sin leerlos ni comentarlos en familia
   <!-- feedback: Incorrecto. La informacion solo es util si se conoce y se practica. -->
 
 ### Explicacion Pedagogica
@@ -149,11 +149,11 @@ La gestion del riesgo volcanico se basa en la informacion y la preparacion: cono
 Que analisis explica la diferencia en el riesgo de deslizamiento?
 
 ### Opciones
-- [x] A) La loma deforestada tiene mayor riesgo de deslizamiento porque, sin raices que sujeten el suelo, el agua de lluvia lo satura y lo hace mas propenso a deslizarse
+- [x] C) La loma deforestada tiene mayor riesgo de deslizamiento porque, sin raices que sujeten el suelo, el agua de lluvia lo satura y lo hace mas propenso a deslizarse
   <!-- feedback: Correcto. La vegetacion reduce el riesgo de deslizamiento en las laderas. -->
-- [ ] B) La loma con bosque tiene mayor riesgo porque sus arboles pesan mucho
+- [ ] A) La loma con bosque tiene mayor riesgo porque sus arboles pesan mucho
   <!-- feedback: Incorrecto. Las raices del bosque sujetan el suelo y reducen el riesgo. -->
-- [ ] C) Las dos lomas tienen exactamente el mismo riesgo
+- [ ] B) Las dos lomas tienen exactamente el mismo riesgo
   <!-- feedback: Incorrecto. La cobertura vegetal marca una diferencia clave. -->
 - [ ] D) El deslizamiento depende solo del color del suelo
   <!-- feedback: Incorrecto. Depende de la cobertura, la pendiente y la saturacion por agua. -->
@@ -172,13 +172,13 @@ En laderas, el riesgo de deslizamiento depende de la pendiente, el tipo de suelo
 Que analisis explica por que el plan combina varias medidas?
 
 ### Opciones
-- [x] A) Porque el riesgo resulta de la amenaza, la exposicion y la vulnerabilidad; atacarlos a la vez con obras, alertas y educacion reduce el impacto mas que una sola medida
+- [x] D) Porque el riesgo resulta de la amenaza, la exposicion y la vulnerabilidad; atacarlos a la vez con obras, alertas y educacion reduce el impacto mas que una sola medida
   <!-- feedback: Correcto. Un plan integral abarca las distintas causas del riesgo. -->
-- [ ] B) Porque una sola obra siempre resuelve todas las inundaciones
+- [ ] A) Porque una sola obra siempre resuelve todas las inundaciones
   <!-- feedback: Incorrecto. Ninguna medida aislada elimina por completo la amenaza. -->
-- [ ] C) Porque las alertas reemplazan la necesidad de educar a la comunidad
+- [ ] B) Porque las alertas reemplazan la necesidad de educar a la comunidad
   <!-- feedback: Incorrecto. Las alertas solo sirven si la comunidad sabe como actuar. -->
-- [ ] D) Porque el plan busca gastar todo el presupuesto sin criterio
+- [ ] C) Porque el plan busca gastar todo el presupuesto sin criterio
   <!-- feedback: Incorrecto. La combinacion de medidas responde a un analisis del riesgo. -->
 
 ### Explicacion Pedagogica
@@ -218,11 +218,11 @@ Las grietas y deformaciones de un terreno indican inestabilidad; ante esas senal
 Que evaluacion conjunta de las tres afirmaciones es correcta?
 
 ### Opciones
-- [x] A) La 1 es falsa porque el impacto depende tambien de la vulnerabilidad y la exposicion, la 2 es verdadera y la 3 es verdadera porque la prevencion reduce las perdidas
+- [x] C) La 1 es falsa porque el impacto depende tambien de la vulnerabilidad y la exposicion, la 2 es verdadera y la 3 es verdadera porque la prevencion reduce las perdidas
   <!-- feedback: Correcto. Reconoce el papel humano en el riesgo y el valor de la prevencion. -->
-- [ ] B) Las tres son verdaderas porque la naturaleza decide todo
+- [ ] A) Las tres son verdaderas porque la naturaleza decide todo
   <!-- feedback: Incorrecto. Las decisiones humanas influyen en la vulnerabilidad y la exposicion. -->
-- [ ] C) Solo la 1 es verdadera y las demas son falsas
+- [ ] B) Solo la 1 es verdadera y las demas son falsas
   <!-- feedback: Incorrecto. La 1 es falsa y las otras dos son verdaderas. -->
 - [ ] D) Las tres son falsas porque la prevencion no sirve para nada
   <!-- feedback: Incorrecto. La prevencion reduce el impacto de los eventos naturales. -->
@@ -241,13 +241,13 @@ Evaluar estas afirmaciones exige distinguir amenaza de desastre: un evento natur
 Que medida conviene priorizar y por que?
 
 ### Opciones
-- [x] A) Recuperar y proteger la ronda del rio, mejorar el drenaje y preparar a la comunidad con alertas y simulacros, porque reduce el riesgo de forma sostenible y protege a las familias
+- [x] D) Recuperar y proteger la ronda del rio, mejorar el drenaje y preparar a la comunidad con alertas y simulacros, porque reduce el riesgo de forma sostenible y protege a las familias
   <!-- feedback: Correcto. Combinar proteccion del cauce con preparacion reduce el riesgo a largo plazo. -->
-- [ ] B) Construir mas viviendas en la ronda del rio para aprovechar el terreno
+- [ ] A) Construir mas viviendas en la ronda del rio para aprovechar el terreno
   <!-- feedback: Incorrecto. Aumentar la exposicion en la ronda eleva el riesgo. -->
-- [ ] C) Tapar el rio con una losa de concreto y no hacer mantenimiento
+- [ ] B) Tapar el rio con una losa de concreto y no hacer mantenimiento
   <!-- feedback: Incorrecto. Tapar el cauce sin mantenimiento agrava las inundaciones. -->
-- [ ] D) Trasladar el problema y no informar a la comunidad
+- [ ] C) Trasladar el problema y no informar a la comunidad
   <!-- feedback: Incorrecto. Ocultar la informacion impide que la comunidad se prepare. -->
 
 ### Explicacion Pedagogica

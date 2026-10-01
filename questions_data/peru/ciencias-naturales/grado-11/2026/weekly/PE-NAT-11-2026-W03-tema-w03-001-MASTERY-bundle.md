@@ -30,11 +30,11 @@ creador: "Jules-Agent"
 Durante el proceso de transcripción en células eucariotas, la enzima encargada de sintetizar una hebra de ARN mensajero a partir del molde de ADN es:
 
 ### Opciones
-- [x] A) ARN polimerasa II
+- [x] C) ARN polimerasa II
   <!-- feedback: Correcto. La ARN polimerasa II sintetiza el ARN pre-mensajero a partir del molde de ADN en el núcleo. -->
-- [ ] B) ADN helicasa
+- [ ] A) ADN helicasa
   <!-- feedback: Incorrecto. La helicasa desenrolla y abre la doble hélice de ADN en la horquilla de replicación. -->
-- [ ] C) ADN ligasa
+- [ ] B) ADN ligasa
   <!-- feedback: Incorrecto. La ADN ligasa une los fragmentos de Okazaki en la hebra discontinua de ADN. -->
 - [ ] D) Topoisomerasa
   <!-- feedback: Incorrecto. La topoisomerasa alivia la tensión de superenrollamiento del ADN durante la replicación. -->
@@ -55,11 +55,11 @@ La ARN polimerasa sintetiza ARNm en dirección 5' -> 3' leyendo la cadena molde 
 En la replicación del ADN, la enzima que une los fragmentos de Okazaki en la hebra discontinua o retardada es la:
 
 ### Opciones
-- [x] A) ADN ligasa
+- [x] C) ADN ligasa
   <!-- feedback: Correcto. La ADN ligasa forma enlaces fosfodiéster entre los fragmentos sintetizados. -->
-- [ ] B) ADN polimerasa I
+- [ ] A) ADN polimerasa I
   <!-- feedback: Incorrecto. La ADN polimerasa I remueve los cebadores de ARN y los reemplaza por ADN. -->
-- [ ] C) Helicasa
+- [ ] B) Helicasa
   <!-- feedback: Incorrecto. La helicasa separa las hebras complementarias rompiendo puentes de hidrógeno. -->
 - [ ] D) Primasa
   <!-- feedback: Incorrecto. La primasa sintetiza los cebadores de ARN iniciales. -->
@@ -130,9 +130,9 @@ Existen 64 codones posibles que constituyen el código genético degenerado y un
 ¿Cuál es el codón de iniciación universal que marca el comienzo de la traducción e incorpora metionina?
 
 ### Opciones
-- [x] A) AUG
+- [x] B) AUG
   <!-- feedback: Correcto. AUG codifica para metionina en eucariotas y formalmetionina en procariotas. -->
-- [ ] B) UAA
+- [ ] A) UAA
   <!-- feedback: Incorrecto. UAA es un codón de parada o terminación (ocre). -->
 - [ ] C) UAG
   <!-- feedback: Incorrecto. UAG es un codón de parada (ámbar). -->
@@ -180,13 +180,13 @@ El cuadro de Punnett para Tt x Tt determina 1/4 TT, 2/4 Tt y 1/4 tt.
 La anomalía cromosómica numérica caracterizada por la presencia de tres cromosomas en el par 21 (Trisomía 21) se conoce como:
 
 ### Opciones
-- [x] A) Síndrome de Down
+- [x] D) Síndrome de Down
   <!-- feedback: Correcto. El síndrome de Down se debe a una no disyunción meiótica del cromosoma 21. -->
-- [ ] B) Síndrome de Turner
+- [ ] A) Síndrome de Turner
   <!-- feedback: Incorrecto. El síndrome de Turner es una monosomía 45,X0 en mujeres. -->
-- [ ] C) Síndrome de Klinefelter
+- [ ] B) Síndrome de Klinefelter
   <!-- feedback: Incorrecto. Klinefelter es una trisomía sexual 47,XXY en varones. -->
-- [ ] D) Síndrome de Edwards
+- [ ] C) Síndrome de Edwards
   <!-- feedback: Incorrecto. El síndrome de Edwards es la trisomía del cromosoma 18. -->
 
 ### Explicacion Pedagogica
@@ -205,11 +205,11 @@ La trisomía 21 es la causa genética más frecuente de discapacidad intelectual
 El proceso de eliminación de intrones y unión de exones en el ARN pre-mensajero eucariótico se llama:
 
 ### Opciones
-- [x] A) Empalme o Splicing
+- [x] C) Empalme o Splicing
   <!-- feedback: Correcto. El splicing es realizado por el espliceosoma para generar el ARNm maduro. -->
-- [ ] B) Traducción polipeptídica
+- [ ] A) Traducción polipeptídica
   <!-- feedback: Incorrecto. La traducción convierte ARNm en proteína en el ribosoma. -->
-- [ ] C) Replicación semiconservativa
+- [ ] B) Replicación semiconservativa
   <!-- feedback: Incorrecto. La replicación duplica el genoma en la fase S del ciclo celular. -->
 - [ ] D) Transcripción inversa
   <!-- feedback: Incorrecto. La transcripción inversa sintetiza ADN a partir de ARN viral mediante la transcriptasa inversa. -->
@@ -230,9 +230,9 @@ El splicing alternativo permite generar múltiples isoformas proteicas a partir 
 La molécula encargada de transportar aminoácidos específicos hacia el ribosoma durante la traducción proteica es el:
 
 ### Opciones
-- [x] A) ARN de transferencia (ARNt)
+- [x] B) ARN de transferencia (ARNt)
   <!-- feedback: Correcto. El ARNt posee el anticodón complementario al codón del ARNm y carga el aminoácido en su extremo 3'. -->
-- [ ] B) ARN ribosomal (ARNr)
+- [ ] A) ARN ribosomal (ARNr)
   <!-- feedback: Incorrecto. El ARNr forma la estructura catalítica de las subunidades ribosómicas. -->
 - [ ] C) ARN nuclear pequeño (ARNsn)
   <!-- feedback: Incorrecto. El ARNsn participa en el procesamiento del ARNm en el núcleo. -->
@@ -255,13 +255,13 @@ El ARNt actúa como adaptador entre el código genético y la secuencia primaria
 La hipótesis que demuestra que cada hebra original de ADN sirve como molde para sintetizar una nueva hebra complementaria se conoce como replicación:
 
 ### Opciones
-- [x] A) Semiconservativa
+- [x] D) Semiconservativa
   <!-- feedback: Correcto. Demostrada por Meselson y Stahl, cada molécula hija conserva una hebra antigua y una hebra nueva. -->
-- [ ] B) Conservativa
+- [ ] A) Conservativa
   <!-- feedback: Incorrecto. Postulaba que la hélice paterna permanecía totalmente intacta. -->
-- [ ] C) Dispersiva
+- [ ] B) Dispersiva
   <!-- feedback: Incorrecto. Postulaba que las hebras hijas eran mezclas fragmentadas de ADN viejo y nuevo. -->
-- [ ] D) Semicontinua exclusivamente
+- [ ] C) Semicontinua exclusivamente
   <!-- feedback: Incorrecto. Se refiere a la forma de síntesis leading/lagging strand, no al destino de las hebras progenitoras. -->
 
 ### Explicacion Pedagogica
@@ -280,13 +280,13 @@ La replicación semiconservativa garantiza la fidelidad en la transmisión de la
 Durante el proceso de transcripción en células eucariotas, la enzima encargada de sintetizar una hebra de ARN mensajero a partir del molde de ADN es:
 
 ### Opciones
-- [x] A) ARN polimerasa II
+- [x] D) ARN polimerasa II
   <!-- feedback: Correcto. La ARN polimerasa II sintetiza el ARN pre-mensajero a partir del molde de ADN en el núcleo. -->
-- [ ] B) ADN helicasa
+- [ ] A) ADN helicasa
   <!-- feedback: Incorrecto. La helicasa desenrolla y abre la doble hélice de ADN en la horquilla de replicación. -->
-- [ ] C) ADN ligasa
+- [ ] B) ADN ligasa
   <!-- feedback: Incorrecto. La ADN ligasa une los fragmentos de Okazaki en la hebra discontinua de ADN. -->
-- [ ] D) Topoisomerasa
+- [ ] C) Topoisomerasa
   <!-- feedback: Incorrecto. La topoisomerasa alivia la tensión de superenrollamiento del ADN durante la replicación. -->
 
 ### Explicacion Pedagogica
@@ -305,9 +305,9 @@ La ARN polimerasa sintetiza ARNm en dirección 5' -> 3' leyendo la cadena molde 
 En la replicación del ADN, la enzima que une los fragmentos de Okazaki en la hebra discontinua o retardada es la:
 
 ### Opciones
-- [x] A) ADN ligasa
+- [x] B) ADN ligasa
   <!-- feedback: Correcto. La ADN ligasa forma enlaces fosfodiéster entre los fragmentos sintetizados. -->
-- [ ] B) ADN polimerasa I
+- [ ] A) ADN polimerasa I
   <!-- feedback: Incorrecto. La ADN polimerasa I remueve los cebadores de ARN y los reemplaza por ADN. -->
 - [ ] C) Helicasa
   <!-- feedback: Incorrecto. La helicasa separa las hebras complementarias rompiendo puentes de hidrógeno. -->
@@ -330,9 +330,9 @@ La ADN ligasa sella las muescas en el esqueleto de azúcar-fosfato uniendo fragm
 La Primera Ley de Mendel o Ley de la Segregación de los caracteres establece que:
 
 ### Opciones
-- [x] A) Los alelos de un gen se separan durante la formación de los gametos quedándose cada gameto con uno solo
+- [x] B) Los alelos de un gen se separan durante la formación de los gametos quedándose cada gameto con uno solo
   <!-- feedback: Correcto. Durante la meiosis cada alelo del par parental segrega equitativamente en gametos distintos. -->
-- [ ] B) Todos los descendientes F1 presentan fenotipo intermedio codominante
+- [ ] A) Todos los descendientes F1 presentan fenotipo intermedio codominante
   <!-- feedback: Incorrecto. Eso corresponde a herencia intermedia o codominancia. -->
 - [ ] C) Los genes de diferentes cromosomas se heredan ligados siempre
   <!-- feedback: Incorrecto. La tercera ley aborda la transmisión independiente de genes no ligados. -->
@@ -355,11 +355,11 @@ La segregación de alelos en la meiosis explica las proporciones mendelianas 3:1
 El triplete de nucleótidos presente en el ARN mensajero que codifica para un aminoácido específico se denomina:
 
 ### Opciones
-- [x] A) Codón
+- [x] C) Codón
   <!-- feedback: Correcto. El codón consta de 3 bases consecutivas en el ARNm reconocido por el anticodón del ARNt. -->
-- [ ] B) Anticodón
+- [ ] A) Anticodón
   <!-- feedback: Incorrecto. El anticodón es el triplete complementario en el extremo del ARNt. -->
-- [ ] C) Promotor
+- [ ] B) Promotor
   <!-- feedback: Incorrecto. El promotor es la secuencia de ADN donde se une la ARN polimerasa. -->
 - [ ] D) Intrón
   <!-- feedback: Incorrecto. Los intrones son secuencias no codificantes eliminadas durante el empalme (splicing). -->
@@ -380,11 +380,11 @@ Existen 64 codones posibles que constituyen el código genético degenerado y un
 ¿Cuál es el codón de iniciación universal que marca el comienzo de la traducción e incorpora metionina?
 
 ### Opciones
-- [x] A) AUG
+- [x] C) AUG
   <!-- feedback: Correcto. AUG codifica para metionina en eucariotas y formalmetionina en procariotas. -->
-- [ ] B) UAA
+- [ ] A) UAA
   <!-- feedback: Incorrecto. UAA es un codón de parada o terminación (ocre). -->
-- [ ] C) UAG
+- [ ] B) UAG
   <!-- feedback: Incorrecto. UAG es un codón de parada (ámbar). -->
 - [ ] D) UGA
   <!-- feedback: Incorrecto. UGA es un codón de parada (ópalo). -->
@@ -405,13 +405,13 @@ AUG marca el sitio de inicio del marco de lectura abierto en el ribosoma.
 Si se cruzan dos plantas heterocigotas para la altura ($Tt \times Tt$), ¿cuál es la probabilidad genotípica de obtener descendientes homocigotos recesivos ($tt$)?
 
 ### Opciones
-- [x] A) 25% (1/4)
+- [x] D) 25% (1/4)
   <!-- feedback: Correcto. El cruce heterocigoto produce genotipos 1 TT : 2 Tt : 1 tt (25% tt). -->
-- [ ] B) 50% (1/2)
+- [ ] A) 50% (1/2)
   <!-- feedback: Incorrecto. 50% corresponde a la frecuencia de heterocigotos Tt. -->
-- [ ] C) 75% (3/4)
+- [ ] B) 75% (3/4)
   <!-- feedback: Incorrecto. 75% corresponde a la proporción fenotípica dominante. -->
-- [ ] D) 100%
+- [ ] C) 100%
   <!-- feedback: Incorrecto. Ocurriría solo entre homocigotos recesivos tt x tt. -->
 
 ### Explicacion Pedagogica
@@ -455,9 +455,9 @@ La trisomía 21 es la causa genética más frecuente de discapacidad intelectual
 El proceso de eliminación de intrones y unión de exones en el ARN pre-mensajero eucariótico se llama:
 
 ### Opciones
-- [x] A) Empalme o Splicing
+- [x] B) Empalme o Splicing
   <!-- feedback: Correcto. El splicing es realizado por el espliceosoma para generar el ARNm maduro. -->
-- [ ] B) Traducción polipeptídica
+- [ ] A) Traducción polipeptídica
   <!-- feedback: Incorrecto. La traducción convierte ARNm en proteína en el ribosoma. -->
 - [ ] C) Replicación semiconservativa
   <!-- feedback: Incorrecto. La replicación duplica el genoma en la fase S del ciclo celular. -->

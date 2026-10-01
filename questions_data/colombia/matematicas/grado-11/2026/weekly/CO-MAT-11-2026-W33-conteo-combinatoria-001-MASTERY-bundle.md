@@ -34,11 +34,11 @@ Este bundle contiene 20 preguntas sobre **principios de conteo, permutaciones y 
 ¿De cuántas maneras diferentes puede combinar una camisa y un pantalón?
 
 ### Opciones
-- [x] A) 12
+- [x] C) 12
   <!-- feedback: Por el principio multiplicativo, el total de combinaciones es 4 * 3 = 12. -->
-- [ ] B) 7
+- [ ] A) 7
   <!-- feedback: Se sumaron las opciones (4 + 3) en lugar de multiplicarlas. -->
-- [ ] C) 14
+- [ ] B) 14
   <!-- feedback: Se realizó un cálculo erróneo sumando y multiplicando. -->
 - [ ] D) 9
   <!-- feedback: Se elevó 3 al cuadrado. -->
@@ -57,9 +57,9 @@ El principio fundamental del conteo establece que si un evento ocurre de $m$ man
 ¿Cuántos almuerzos diferentes compuestos por una entrada, un plato fuerte y un postre se pueden elegir?
 
 ### Opciones
-- [x] A) 24
+- [x] B) 24
   <!-- feedback: Aplicando el principio multiplicativo: 3 * 4 * 2 = 24 opciones distintas de almuerzo. -->
-- [ ] B) 9
+- [ ] A) 9
   <!-- feedback: Se sumaron las opciones disponibles de cada categoría (3 + 4 + 2 = 9). -->
 - [ ] C) 18
   <!-- feedback: Se omitió multiplicar por los 4 platos fuertes correctamente. -->
@@ -80,9 +80,9 @@ Multiplicando la cantidad de opciones de cada plato: $3   imes 4   imes 2 = 24$ 
 ¿De cuántas maneras diferentes pueden ocupar las 5 posiciones en la meta?
 
 ### Opciones
-- [x] A) 120
+- [x] B) 120
   <!-- feedback: Es una permutación de 5 elementos: 5! = 5 * 4 * 3 * 2 * 1 = 120. -->
-- [ ] B) 25
+- [ ] A) 25
   <!-- feedback: Se calculó 5 al cuadrado (5^2). -->
 - [ ] C) 60
   <!-- feedback: Se dividió 5! entre 2. -->
@@ -103,9 +103,9 @@ El número de ordenamientos posibles de $n$ elementos distintos es dado por el f
 Si el orden de las letras importa, ¿cuántos códigos diferentes se pueden crear?
 
 ### Opciones
-- [x] A) 12
+- [x] B) 12
   <!-- feedback: Es una variación de 4 elementos tomados de a 2: V(4,2) = 4 * 3 = 12. -->
-- [ ] B) 6
+- [ ] A) 6
   <!-- feedback: Corresponde a la combinación C(4,2) donde el orden no importa. -->
 - [ ] C) 16
   <!-- feedback: Se asumió que las letras podían repetirse (4^2 = 16). -->
@@ -126,9 +126,9 @@ Dado que el orden de las letras importa y no hay repetición, es una permutació
 ¿De cuántas formas se puede seleccionar esta delegación?
 
 ### Opciones
-- [x] A) 56
+- [x] B) 56
   <!-- feedback: Es una combinación C(8,3) = 8! / (3! * 5!) = (8 * 7 * 6) / 6 = 56. -->
-- [ ] B) 336
+- [ ] A) 336
   <!-- feedback: Se calculó la permutación P(8,3) = 8 * 7 * 6, pero el orden no importa en una delegación. -->
 - [ ] C) 24
   <!-- feedback: Se multiplicó 8 por 3. -->
@@ -149,9 +149,9 @@ Al no importar el orden de los integrantes, se usa la fórmula de combinaciones:
 ¿De cuántas maneras se puede formar el equipo si debe haber exactamente 2 hombres y 2 mujeres?
 
 ### Opciones
-- [x] A) 150
+- [x] B) 150
   <!-- feedback: C(6,2) = 15 maneras para los hombres; C(5,2) = 10 maneras para las mujeres. Total = 15 * 10 = 150. -->
-- [ ] B) 25
+- [ ] A) 25
   <!-- feedback: Se sumaron las combinaciones C(6,2) + C(5,2) = 15 + 10 = 25. -->
 - [ ] C) 330
   <!-- feedback: Se calculó C(11,4) en lugar de separar por géneros. -->
@@ -172,9 +172,9 @@ Seleccionar 2 hombres de 6 se hace de $C(6,2) = 15$ formas. Seleccionar 2 mujere
 Si 2 libros específicos deben estar siempre juntos, ¿de cuántas maneras se pueden organizar los 6 libros?
 
 ### Opciones
-- [x] A) 240
+- [x] B) 240
   <!-- feedback: Consideramos los 2 libros como 1 solo bloque: 5! = 120 formas. Los 2 libros se pueden ordenar entre sí de 2! = 2 maneras. Total = 120 * 2 = 240. -->
-- [ ] B) 120
+- [ ] A) 120
   <!-- feedback: Se olvidó multiplicar por las 2! formas de permutar los 2 libros entre sí dentro del bloque. -->
 - [ ] C) 720
   <!-- feedback: Se calculó 6! ignorando la restricción de que deben estar juntos. -->
@@ -218,9 +218,9 @@ Al ser 4 letras distintas y formar palabras de 4 letras sin repetición, se perm
 Si se utilizan 26 letras del alfabeto y los dígitos del 0 al 9, ¿cuántas placas diferentes se pueden fabricar si se permite la repetición de letras y dígitos?
 
 ### Opciones
-- [x] A) $26^3   imes 10^3$
+- [x] B) $26^3   imes 10^3$
   <!-- feedback: Hay 26 opciones para cada una de las 3 letras y 10 opciones para cada uno de los 3 dígitos: 26^3 * 10^3 = 17,576,000. -->
-- [ ] B) $26   imes 3 + 10   imes 3$
+- [ ] A) $26   imes 3 + 10   imes 3$
   <!-- feedback: Se aplicó principio aditivo en lugar de multiplicativo. -->
 - [ ] C) $26   imes 25   imes 24   imes 10   imes 9   imes 8$
   <!-- feedback: Se asumió erróneamente que no se permitía la repetición de letras y dígitos. -->
@@ -333,11 +333,11 @@ Utilizando el principio del complemento: Total de códigos $= 5^4 = 625$. Códig
 Si las 3 primeras preguntas son obligatorias, ¿de cuántas maneras distintas puede elegir las preguntas a responder?
 
 ### Opciones
-- [x] A) 35
+- [x] C) 35
   <!-- feedback: Como las 3 primeras son obligatorias, le falta elegir 4 preguntas entre las 7 restantes: C(7,4) = C(7,3) = (7 * 6 * 5) / 6 = 35. -->
-- [ ] B) 120
+- [ ] A) 120
   <!-- feedback: Se calculó C(10,7) ignorando que las 3 primeras preguntas son obligatorias. -->
-- [ ] C) 21
+- [ ] B) 21
   <!-- feedback: Se calculó C(7,2) en lugar de C(7,4). -->
 - [ ] D) 70
   <!-- feedback: Se multiplicó 35 por 2. -->
@@ -356,11 +356,11 @@ Al ser obligatorias las 3 primeras, el estudiante solo selecciona $7 - 3 = 4$ pr
 ¿Cuántos triángulos diferentes se pueden formar con sus vértices en estos puntos?
 
 ### Opciones
-- [x] A) 56
+- [x] C) 56
   <!-- feedback: Para formar un triángulo se eligen 3 puntos sin importar el orden: C(8,3) = (8 * 7 * 6) / 6 = 56. -->
-- [ ] B) 336
+- [ ] A) 336
   <!-- feedback: Se calculó P(8,3) = 8 * 7 * 6 considerando el orden de los vértices. -->
-- [ ] C) 28
+- [ ] B) 28
   <!-- feedback: Corresponde a la cantidad de segmentos (líneas) formados por 2 puntos: C(8,2) = 28. -->
 - [ ] D) 24
   <!-- feedback: Se multiplicó 8 por 3. -->
@@ -379,11 +379,11 @@ Un triángulo queda determinado por 3 puntos no colineales independientemente de
 Si cada estudiante puede recibir más de un premio (incluso los 4 premios), ¿de cuántas maneras se pueden distribuir los premios?
 
 ### Opciones
-- [x] A) 81
+- [x] C) 81
   <!-- feedback: Cada uno de los 4 premios tiene 3 opciones de estudiante a quien asignarlo: 3^4 = 81. -->
-- [ ] B) 64
+- [ ] A) 64
   <!-- feedback: Se calculó 4^3 asignando estudiantes a premios por error. -->
-- [ ] C) 12
+- [ ] B) 12
   <!-- feedback: Se multiplicó 4 por 3. -->
 - [ ] D) 24
   <!-- feedback: Se calculó 4! asumiendo permutación de 4 premios entre 4 personas. -->
@@ -451,9 +451,9 @@ Asignar 3 medallas distintas (oro, plata, bronce) entre 12 personas es una varia
 ¿De cuántas maneras se pueden sentar en una fila de 8 sillas de modo que cada pareja permanezca sentada junta?
 
 ### Opciones
-- [x] A) 384
+- [x] B) 384
   <!-- feedback: Ordenar las 4 parejas como bloques: 4! = 24. Cada una de las 4 parejas puede ordenarse internamente de 2! formas: 2^4 = 16. Total = 24 * 16 = 384. -->
-- [ ] B) 576
+- [ ] A) 576
   <!-- feedback: Se multiplicó 24 por 24 por un error de exponenciación. -->
 - [ ] C) 40320
   <!-- feedback: Se calculó 8! ignorando que las parejas deben estar juntas. -->
@@ -474,11 +474,11 @@ Consideramos cada pareja como un bloque. Hay $4! = 24$ formas de ordenar las par
 ¿De cuántas maneras se pueden distribuir las 6 monedas entre los 3 niños si se permite que algún niño no reciba ninguna moneda?
 
 ### Opciones
-- [x] A) 28
+- [x] C) 28
   <!-- feedback: Es una combinación con repetición CR(n,k) = C(n+k-1, k) = C(3+6-1, 6) = C(8,6) = C(8,2) = 28. -->
-- [ ] B) 18
+- [ ] A) 18
   <!-- feedback: Se multiplicó 6 por 3. -->
-- [ ] C) 216
+- [ ] B) 216
   <!-- feedback: Se calculó 6^3 como si las monedas fueran distinguibles. -->
 - [ ] D) 56
   <!-- feedback: Se calculó C(8,3). -->

@@ -50,9 +50,9 @@ El ciclo del agua conecta atmósfera, vegetación y suelo: el agua se evapora y 
 ### Enunciado
 ¿Por qué la fotosíntesis se considera la puerta de entrada del carbono a las cadenas alimenticias del cafetal?
 ### Opciones
-- [ ] A) Porque libera todo el carbono del suelo hacia la atmósfera sin usarlo.
+- [ ] B) Porque libera todo el carbono del suelo hacia la atmósfera sin usarlo.
   <!-- feedback: Incorrecta, porque la fotosíntesis captura carbono atmosférico, no lo libera sin uso. -->
-- [x] B) Porque convierte el dióxido de carbono atmosférico en materia orgánica que luego alimenta a herbívoros y descomponedores.
+- [x] A) Porque convierte el dióxido de carbono atmosférico en materia orgánica que luego alimenta a herbívoros y descomponedores.
   <!-- feedback: Correcta, porque los productores fijan carbono inorgánico en moléculas orgánicas que sostienen la red trófica. -->
 - [ ] C) Porque transforma el nitrógeno del aire en proteínas del café.
   <!-- feedback: Incorrecta, porque la conversión de nitrógeno atmosférico la realizan bacterias fijadoras, no la fotosíntesis. -->
@@ -70,9 +70,9 @@ La fotosíntesis fija el carbono atmosférico en glucosa, que se convierte en ho
 ### Enunciado
 Si el fríjol es una leguminosa asociada a bacterias fijadoras, ¿qué proceso explica la mejora del suelo en este cultivo asociado?
 ### Opciones
-- [ ] A) La condensación del agua en las hojas del fríjol que riega el café.
+- [ ] B) La condensación del agua en las hojas del fríjol que riega el café.
   <!-- feedback: Incorrecta, porque la condensación aporta humedad, pero no explica el aumento de fertilidad por nutrientes nitrogenados. -->
-- [x] B) La fijación biológica de nitrógeno, que convierte nitrógeno atmosférico en compuestos asimilables para las plantas.
+- [x] A) La fijación biológica de nitrógeno, que convierte nitrógeno atmosférico en compuestos asimilables para las plantas.
   <!-- feedback: Correcta, porque las bacterias en raíces de leguminosas fijan nitrógeno que enriquece el suelo. -->
 - [ ] C) La fotosíntesis del fríjol que produce fósforo directamente.
   <!-- feedback: Incorrecta, porque la fotosíntesis produce azúcares, no compuestos de fósforo. -->
@@ -92,11 +92,11 @@ La fijación de nitrógeno transforma el nitrógeno gaseoso, no utilizable por p
 ### Opciones
 - [ ] A) Elimina para siempre el carbono y el nitrógeno de las hojas del ecosistema.
   <!-- feedback: Incorrecta, porque los nutrientes no desaparecen; se transforman y retornan al suelo y a la atmósfera. -->
-- [x] B) Retorna nutrientes al suelo y libera dióxido de carbono a la atmósfera mediante la acción de hongos y bacterias.
+- [x] D) Retorna nutrientes al suelo y libera dióxido de carbono a la atmósfera mediante la acción de hongos y bacterias.
   <!-- feedback: Correcta, porque los descomponedores mineralizan la materia orgánica y cierran los ciclos. -->
-- [ ] C) Convierte directamente las hojas en agua de lluvia para el páramo.
+- [ ] B) Convierte directamente las hojas en agua de lluvia para el páramo.
   <!-- feedback: Incorrecta, porque la descomposición no produce lluvia; el agua de lluvia proviene de la condensación atmosférica. -->
-- [ ] D) Fija el fósforo de las rocas sin participación de organismos.
+- [ ] C) Fija el fósforo de las rocas sin participación de organismos.
   <!-- feedback: Incorrecta, porque la descomposición depende de organismos y el fósforo de rocas se libera por meteorización. -->
 ### Explicacion Pedagogica
 Los descomponedores como hongos, bacterias y lombrices degradan la materia muerta y devuelven nutrientes al suelo en forma asimilable, además de liberar dióxido de carbono por respiración. El compostaje escolar replica este servicio ecosistémico esencial.
@@ -112,11 +112,11 @@ Los descomponedores como hongos, bacterias y lombrices degradan la materia muert
 ### Opciones
 - [ ] A) Porque la quema aumenta el fósforo de las rocas y la materia orgánica lo destruye.
   <!-- feedback: Incorrecta, porque la quema no crea fósforo de rocas y la materia orgánica no destruye fósforo. -->
-- [x] B) Porque la quema volatiliza carbono y nitrógeno hacia la atmósfera y elimina descomponedores, mientras la materia orgánica alimenta el ciclo suelo-planta.
+- [x] D) Porque la quema volatiliza carbono y nitrógeno hacia la atmósfera y elimina descomponedores, mientras la materia orgánica alimenta el ciclo suelo-planta.
   <!-- feedback: Correcta, porque el fuego libera gases y mata microorganismos, y el abono orgánico sostiene fertilidad. -->
-- [ ] C) Porque la quema produce más agua en el suelo y la materia orgánica seca los cultivos.
+- [ ] B) Porque la quema produce más agua en el suelo y la materia orgánica seca los cultivos.
   <!-- feedback: Incorrecta, porque la quema reseca el suelo y la materia orgánica mejora la retención de humedad. -->
-- [ ] D) Porque la quema fija nitrógeno atmosférico y la materia orgánica bloquea la fotosíntesis.
+- [ ] C) Porque la quema fija nitrógeno atmosférico y la materia orgánica bloquea la fotosíntesis.
   <!-- feedback: Incorrecta, porque el fuego no fija nitrógeno útil y la materia orgánica no bloquea la luz de las hojas. -->
 ### Explicacion Pedagogica
 La quema libera de golpe carbono y nitrógeno como gases y empobrece la biota del suelo, rompiendo los ciclos. En cambio, el abono orgánico alimenta a los descomponedores y mantiene reservas de nutrientes, práctica clave en la Orinoquía colombiana.
@@ -130,9 +130,9 @@ La quema libera de golpe carbono y nitrógeno como gases y empobrece la biota de
 ### Enunciado
 ¿Qué análisis explica mejor la diferencia en la regulación del ciclo del agua entre las dos microcuencas?
 ### Opciones
-- [ ] A) El suelo desnudo retiene más agua porque no tiene plantas que la consuman.
+- [ ] B) El suelo desnudo retiene más agua porque no tiene plantas que la consuman.
   <!-- feedback: Incorrecta, porque sin cobertura vegetal el agua escurre rápido y arrastra suelo, sin infiltración efectiva. -->
-- [x] B) La cobertura de páramo favorece infiltración y liberación lenta, mientras el suelo desnudo aumenta escorrentía y erosión.
+- [x] A) La cobertura de páramo favorece infiltración y liberación lenta, mientras el suelo desnudo aumenta escorrentía y erosión.
   <!-- feedback: Correcta, porque la vegetación y la materia orgánica actúan como esponja que regula el caudal. -->
 - [ ] C) Ambas cuencas regulan igual porque la lluvia cae en la misma cantidad sobre las dos.
   <!-- feedback: Incorrecta, porque la misma lluvia produce respuestas distintas según la cobertura y el suelo. -->
@@ -172,9 +172,9 @@ El balance diario del carbono alterna fijación diurna y liberación nocturna po
 ### Opciones
 - [ ] A) Los fertilizantes enfrían el agua y los peces mueren de frío inmediatamente.
   <!-- feedback: Incorrecta, porque los fertilizantes aportan nutrientes, no enfrían el lago de forma letal. -->
-- [x] B) Exceso de nutrientes, proliferación de algas, descomposición masiva que consume oxígeno y asfixia a los peces.
+- [x] C) Exceso de nutrientes, proliferación de algas, descomposición masiva que consume oxígeno y asfixia a los peces.
   <!-- feedback: Correcta, porque describe la eutrofización: enriquecimiento, bloom algal y agotamiento de oxígeno. -->
-- [ ] C) El fósforo evapora el agua del lago y los peces quedan sin hábitat.
+- [ ] B) El fósforo evapora el agua del lago y los peces quedan sin hábitat.
   <!-- feedback: Incorrecta, porque el fósforo no evapora agua; el nivel depende del balance hídrico. -->
 - [ ] D) El nitrógeno fija directamente a los peces y los convierte en plantas.
   <!-- feedback: Incorrecta, porque el nitrógeno no transforma animales en plantas; nutre a las algas que alteran el oxígeno. -->

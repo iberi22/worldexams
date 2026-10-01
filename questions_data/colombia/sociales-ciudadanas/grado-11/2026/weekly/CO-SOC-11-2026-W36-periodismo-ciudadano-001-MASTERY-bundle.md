@@ -34,15 +34,15 @@ Este bundle contiene 20 preguntas sobre libertad de expresión, medios de comuni
 El artículo 20 de la Constitución de 1991 garantiza
 
 ### Opciones
-- [x] A) La libertad de expresar y difundir libremente pensamientos y opiniones, y el derecho a recibir información veraz e imparcial
+- [x] D) La libertad de expresar y difundir libremente pensamientos y opiniones, y el derecho a recibir información veraz e imparcial
   <!-- feedback: Correcto. Esa es la doble garantía del artículo 20: emitir e informar verazmente. -->
-- [ ] B) La propiedad estatal exclusiva de todos los medios de comunicación
+- [ ] A) La propiedad estatal exclusiva de todos los medios de comunicación
   <!-- feedback: La Constitución permite medios privados, públicos y comunitarios; no estatuye un monopolio. -->
-- [ ] C) La obligación de toda persona de publicar sus opiniones en redes sociales
+- [ ] B) La obligación de toda persona de publicar sus opiniones en redes sociales
   <!-- feedback: La libertad de expresión incluye el derecho a no expresarse; forzar la publicación la destruiría. -->
 
 
-- [ ] D) La censura previa de contenidos ofensivos decidida por la Policía
+- [ ] C) La censura previa de contenidos ofensivos decidida por la Policía
   <!-- feedback: El artículo 73 prohíbe expresamente la censura. -->
 
 ### Explicacion Pedagogica
@@ -59,9 +59,9 @@ El artículo 20 garantiza la libertad de expresar y difundir pensamientos y opin
 La prohibición de la censura en Colombia está consagrada principalmente en el
 
 ### Opciones
-- [x] A) Artículo 73, que garantiza la libertad de información y prohíbe la censura
+- [x] B) Artículo 73, que garantiza la libertad de información y prohíbe la censura
   <!-- feedback: Correcto. El artículo 73 declara la libertad de información y veta la censura. -->
-- [ ] B) Artículo 1, que define al Estado como unitario
+- [ ] A) Artículo 1, que define al Estado como unitario
   <!-- feedback: El artículo 1 no regula medios ni censura. -->
 - [ ] C) Artículo 150, sobre atribuciones del Congreso
   <!-- feedback: Las atribuciones legislativas no contienen la prohibición de censura. -->
@@ -86,13 +86,13 @@ Se llama "periodismo ciudadano" a
 ### Opciones
 - [ ] A) El trabajo exclusivo de periodistas con tarjeta profesional
   <!-- feedback: Justo lo contrario: el periodismo ciudadano es practicado por personas sin formación ni cargo periodístico formal. -->
-- [x] B) La recolección, publicación y difusión de noticias e información de interés público por personas ajenas a los medios profesionales, usualmente con apoyo digital
+- [x] D) La recolección, publicación y difusión de noticias e información de interés público por personas ajenas a los medios profesionales, usualmente con apoyo digital
   <!-- feedback: Correcto. Es producción informativa desde la ciudadanía, potenciada por plataformas digitales. -->
-- [ ] C) La propaganda oficial de las alcaldías en sus páginas web
+- [ ] B) La propaganda oficial de las alcaldías en sus páginas web
   <!-- feedback: La comunicación institucional emite desde el Estado; el periodismo ciudadano emite desde la sociedad. -->
 
 
-- [ ] D) El chisme de redes sociales sin interés colectivo
+- [ ] C) El chisme de redes sociales sin interés colectivo
   <!-- feedback: El periodismo ciudadano exige rigor y relevancia pública; el chisme no tiene estándares verificables. -->
 
 ### Explicacion Pedagogica
@@ -111,13 +111,13 @@ Una "fake news" o desinformación se caracteriza principalmente por
 ### Opciones
 - [ ] A) Ser una información verdadera publicada por un medio pequeño
   <!-- feedback: La veracidad y el tamaño del medio no definen la desinformación. -->
-- [x] B) Ser contenido falso o manipulados difundido con apariencia de noticia, que puede causar daño público
+- [x] D) Ser contenido falso o manipulados difundido con apariencia de noticia, que puede causar daño público
   <!-- feedback: Correcto. Falsedad más forma noticiosa es el núcleo del concepto. -->
-- [ ] C) Publicar una opinión personal sobre un hecho real
+- [ ] B) Publicar una opinión personal sobre un hecho real
   <!-- feedback: La opinión sobre hechos reales es parte legítima del debate público. -->
 
 
-- [ ] D) Reproducir un comunicado de prensa oficial
+- [ ] C) Reproducir un comunicado de prensa oficial
   <!-- feedback: Los comunicados oficiales son fuentes documentales; su publicación no es desinformación. -->
 
 ### Explicacion Pedagogica
@@ -134,9 +134,9 @@ No toda información errónea es desinformación: la desinformación implica int
 Como ciudadano informativamente responsable, la primera acción procedente es
 
 ### Opciones
-- [ ] A) Compartirlo para que otros lo verifiquen
+- [ ] B) Compartirlo para que otros lo verifiquen
   <!-- feedback: Compartir multiplica el daño potencial antes de verificar: la regla es comprobar antes de difundir. -->
-- [x] B) Verificar la autoría, ubicación, fecha y contraste con fuentes oficiales y medios establecimientos antes de difundir
+- [x] A) Verificar la autoría, ubicación, fecha y contraste con fuentes oficiales y medios establecimientos antes de difundir
   <!-- feedback: Correcto. Es el protocolo básico de verificación digital. -->
 - [ ] C) Editar el video para que se entienda mejor
   <!-- feedback: Editar contenido ajeno sin contexto puede constituir manipulación y agravar el problema. -->
@@ -159,9 +159,9 @@ Las técnicas de verificación —geolocalización, metadatos, búsqueda inversa
 La garantía de que el portal no puede ser obligado a revelar la identidad de su fuente se funda en
 
 ### Opciones
-- [x] A) El secreto profesional del periodismo, reconocido constitucional y legalmente como cláusula de conciencia
+- [x] B) El secreto profesional del periodismo, reconocido constitucional y legalmente como cláusula de conciencia
   <!-- feedback: Correcto. El artículo 73 y la jurisprudencia protegen la reserva de la fuente; la Ley 820 de 2003 desarrolló la profesión. -->
-- [ ] B) El derecho de hábeas corpus del denunciante
+- [ ] A) El derecho de hábeas corpus del denunciante
   <!-- feedback: El hábeas corpus protege la libertad personal, no la confidencialidad de la fuente. -->
 - [ ] C) La autorización de la rectoría del colegio
   <!-- feedback: La protección de la fuente no depende del poder presuntamente investigado. -->
@@ -184,11 +184,11 @@ La reserva de la fuente es la piedra angular del periodismo de investigación: s
 El mecanismo legal de protección del honor frente a información publicada, que no equivale a censura previa, es
 
 ### Opciones
-- [ ] A) El cierre definitivo del medio por orden del alcalde
+- [ ] B) El cierre definitivo del medio por orden del alcalde
   <!-- feedback: Cerrar un medio por incomodar a un funcionario es censura prohibida por el artículo 73. -->
-- [ ] B) La acción de tutela, única vía para todo conflicto, sin otras opciones
+- [ ] C) La acción de tutela, única vía para todo conflicto, sin otras opciones
   <!-- feedback: La tutela es subsidiaria; existe un mecanismo específico de rectificación y las acciones civiles y penales comunes. -->
-- [x] C) La rectificación, y eventualmente las acciones civiles o penales por calumnia e injuria, con carga de prueba del afectado
+- [x] A) La rectificación, y eventualmente las acciones civiles o penales por calumnia e injuria, con carga de prueba del afectado
   <!-- feedback: Correcto. La rectificación repara sin silenciar; el proceso posterior garantiza contradicción. -->
 
 
@@ -211,13 +211,13 @@ Para ejercer el periodismo ciudadano con mayor protección frente a represalias,
 ### Opciones
 - [ ] A) Difundir datos personales de funcionarios sin evidencia como escarmiento
   <!-- feedback: Eso agrava el riesgo legal y ético; no es periodismo, es exposición arbitraria. -->
-- [x] B) Documentar con evidencia verificable, preservar el debido proceso informativo y recurrir a medios establecidos o a la Defensoría cuando haya riesgo
+- [x] D) Documentar con evidencia verificable, preservar el debido proceso informativo y recurrir a medios establecidos o a la Defensoría cuando haya riesgo
   <!-- feedback: Correcto. La combinación de evidencia, canal institucional y acompañamiento reduce riesgos y aumenta efecto. -->
-- [ ] C) Esperar a que otro lo publique para no asumir consecuencias
+- [ ] B) Esperar a que otro lo publique para no asumir consecuencias
   <!-- feedback: La pasividad colectiva es la aliada de la impunidad; el periodismo ciudadano existe para asumirla responsablemente. -->
 
 
-- [ ] D) Crear una cuenta anónima dedicada exclusivamente a insultar
+- [ ] C) Crear una cuenta anónima dedicada exclusivamente a insultar
   <!-- feedback: El insulto no informado carece de valor periodístico y puede constituir delito contra el honor. -->
 
 ### Explicacion Pedagogica
@@ -234,9 +234,9 @@ La denuncia ciudadana eficaz combina prueba (fotos con contexto, documentos ofic
 El organismo encargado de regular y vigilar los servicios de comunicación audiovisual en Colombia es
 
 ### Opciones
-- [ ] A) La Superintendencia de Servicios Públicos Domiciliarios
+- [ ] B) La Superintendencia de Servicios Públicos Domiciliarios
   <!-- feedback: La Superservicios vigila servicios domiciliarios como agua y energía, no contenidos audiovisuales. -->
-- [x] B) La Autoridad Nacional de Televisión, ANTV, que reemplazó a la Comisión Nacional de Televisión
+- [x] A) La Autoridad Nacional de Televisión, ANTV, que reemplazó a la Comisión Nacional de Televisión
   <!-- feedback: Correcto. La ANTV, creada por la Ley 182 de 1995 y reestructurada por la Ley 680 de 2001, regula el sector audiovisual. -->
 - [ ] C) El Ministerio de Cultura exclusivamente
   <!-- feedback: El Ministerio formula políticas culturales; la regulación técnica y de contenidos recae en la Autoridad. -->
@@ -286,13 +286,13 @@ El riesgo democrático de la concentración mediática y del uso discrecional de
 ### Opciones
 - [ ] A) Reduce el número de empleos en el sector cultural del país
   <!-- feedback: Es un efecto posible, pero no el riesgo democrático estructural del fenómeno. -->
-- [x] B) Pluralismo formalmente garantizado puede convivir con un debate público alineado, porque la agenda y el tono se deciden por pocos actores y por incentivos económicos
+- [x] D) Pluralismo formalmente garantizado puede convivir con un debate público alineado, porque la agenda y el tono se deciden por pocos actores y por incentivos económicos
   <!-- feedback: Correcto. La diversidad de voces no se agota en la cantidad de medios: importa la autonomía editorial real. -->
-- [ ] C) Obliga constitucionalmente al Estado a comprar todos los medios privados
+- [ ] B) Obliga constitucionalmente al Estado a comprar todos los medios privados
   <!-- feedback: No hay mandato de estatización; la respuesta es regulación antimonopólica y distribución transparente de la pauta. -->
 
 
-- [ ] D) Solo afecta a los medios radiales comunitarios
+- [ ] C) Solo afecta a los medios radiales comunitarios
   <!-- feedback: El fenómeno impacta la estructura completa del debate, no un segmento. -->
 
 ### Explicacion Pedagogica
@@ -336,9 +336,9 @@ La operación de granjas de bots para inflar tendencias y atacar adversarios com
 ### Opciones
 - [ ] A) Aumenta la participación real de la ciudadanía en la deliberación pública
   <!-- feedback: Simular conversación no es participación: es falsificación de consenso artificial. -->
-- [x] B) Distorsiona la percepción de opinión mayoritaria, manipula la agenda pública y degrada las condiciones de libre formación de la voluntad ciudadana
+- [x] C) Distorsiona la percepción de opinión mayoritaria, manipula la agenda pública y degrada las condiciones de libre formación de la voluntad ciudadana
   <!-- feedback: Correcto. La manipulación de señales sociales falsea el mercado de ideas sobre el que descansa el voto libre. -->
-- [ ] C) Solo genera spam comercial irrelevante para la política
+- [ ] B) Solo genera spam comercial irrelevante para la política
   <!-- feedback: Su uso coordinado en campañas es precisamente un problema político central. -->
 
 
@@ -384,9 +384,9 @@ La ecología informativa local es infraestructura democrática: consejos municip
 El análisis del caso como problema de competencias ciudadanas muestra que el rumor
 
 ### Opciones
-- [ ] A) Carece de importancia porque es un canal privado
+- [ ] B) Carece de importancia porque es un canal privado
   <!-- feedback: Los canales privados producen daño público real: estigmatización y acoso escolar. -->
-- [x] B) Ejemplifica el ejercicio irresponsable de la libertad de expresión: vulnera honra e intimidad (artículos 14, 15, 21) y puede configurar acoso con consecuencias para el autor
+- [x] A) Ejemplifica el ejercicio irresponsable de la libertad de expresión: vulnera honra e intimidad (artículos 14, 15, 21) y puede configurar acoso con consecuencias para el autor
   <!-- feedback: Correcto. La libertad de expresión no ampara la difusión de datos falsos o denigrantes, y los menores responden ante la ley penal juvenil. -->
 - [ ] C) Está protegido por el anonimato de las aplicaciones cerradas
   <!-- feedback: El anonimato técnico no garantiza impunidad: existen trazas y responsabilidades. -->
@@ -409,11 +409,11 @@ Los estándares de competencia ciudadana incluyen la comunicación asertiva y la
 El uso de inteligencia artificial generativa en periodismo ciudadano exige, para no degradar la función informativa, que
 
 ### Opciones
-- [ ] A) Se oculte su uso al público para no perder lectores
+- [ ] B) Se oculte su uso al público para no perder lectores
   <!-- feedback: Ocultar el proceso contradice la transparencia que legitima la información. -->
-- [ ] B) Se delegue totalmente la edición a la máquina para ahorrar costos
+- [ ] C) Se delegue totalmente la edición a la máquina para ahorrar costos
   <!-- feedback: La máquina no responde por la verdad: la rendición de cuentas informativa sigue humana. -->
-- [x] C) Se declare su uso, se verifiquen sus resultados y se preserve la responsabilidad editorial humana sobre la veracidad
+- [x] A) Se declare su uso, se verifiquen sus resultados y se preserve la responsabilidad editorial humana sobre la veracidad
   <!-- feedback: Correcto. Transparencia, verificación y responsabilidad humana son las tres condiciones éticas. -->
 
 
@@ -436,9 +436,9 @@ La evaluación constitucional de una propuesta así, a la luz del artículo 20 y
 ### Opciones
 - [ ] A) Es plenamente válida, porque la honra de los funcionarios prevalece siempre sobre la crítica
   <!-- feedback: La jurisprudencia es clara: los servidores públicos están expuestos a mayor escrutinio y crítica, incluso dura. -->
-- [x] B) Es sospechosa de inconstitucionalidad, porque puede criminalizar la crítica política y operar como censura encubierta de la deliberación democrática
+- [x] C) Es sospechosa de inconstitucionalidad, porque puede criminalizar la crítica política y operar como censura encubierta de la deliberación democrática
   <!-- feedback: Correcto. El derecho penal solo procede frente a expresiones que inciten violencia o calumnien con dolo; ofender a la autoridad no es tipo legítimo. -->
-- [ ] C) Es necesaria, porque las redes sociales carecen de toda regulación
+- [ ] B) Es necesaria, porque las redes sociales carecen de toda regulación
   <!-- feedback: Las redes ya están sujetas a normas civiles, penales y de protección al consumidor digital. -->
 
 
@@ -461,9 +461,9 @@ La estrategia más sólida contra la desinformación, según la evidencia, combi
 ### Opciones
 - [ ] A) Verificación reactiva, prohibición total de redes sociales, y cierre de portales alternativos
   <!-- feedback: Prohibir plataformas y silenciar medios alternativos es contraproducente y contrario a la Constitución. -->
-- [x] B) Educación mediática desde la escuela, verificación profesional accesible, transparencia algorítmica de plataformas y respuesta rápida de las instituciones
+- [x] C) Educación mediática desde la escuela, verificación profesional accesible, transparencia algorítmica de plataformas y respuesta rápida de las instituciones
   <!-- feedback: Correcto. La evidencia privilegia la inoculación previa —resiliencia ciudadana— sobre el simple fact-checking tardío. -->
-- [ ] C) Dejar que el mercado de ideas autorregule sin ninguna intervención
+- [ ] B) Dejar que el mercado de ideas autorregule sin ninguna intervención
   <!-- feedback: El laissez-faire comunicacional funciona bien solo con condiciones de competencia que hoy fallan. -->
 
 
@@ -486,9 +486,9 @@ La práctica de borrar o desplazar noticias críticas mediante presión a plataf
 ### Opciones
 - [ ] A) Un ejercicio válido del derecho a la imagen sobre toda información que incomode a un funcionario
   <!-- feedback: Los funcionarios soportan mayor escrutinio; la incomodidad no es causa de exclusión de información pública. -->
-- [ ] B) Una restricción posterior legítima en cualquier caso, sin control judicial
+- [ ] C) Una restricción posterior legítima en cualquier caso, sin control judicial
   <!-- feedback: Toda exclusión de información de interés público exige ponderación y, en lo posible, control judicial. -->
-- [x] C) Sospechosa de vulnerar el interés público de la información y la memoria documental, reservable a casos excepcionales de derechos de terceros con ponderación estricta
+- [x] B) Sospechosa de vulnerar el interés público de la información y la memoria documental, reservable a casos excepcionales de derechos de terceros con ponderación estricta
   <!-- feedback: Correcto. El derecho al olvido no es un derecho a borrar la gestión pública. -->
 
 
@@ -509,9 +509,9 @@ El "derecho al olvido" colombiano, desarrollado por la Corte Constitucional (SU-
 La afirmación más sólida sobre el futuro del periodismo ciudadano en la democracia colombiana es que
 
 ### Opciones
-- [ ] A) Estará de más cuando desaparezcan los medios tradicionales
+- [ ] B) Estará de más cuando desaparezcan los medios tradicionales
   <!-- feedback: La desaparición de los medios profesionales agravaría el déficit de verificación, no lo resolvería. -->
-- [x] B) Su fuerza depende de que la ciudadanía combine libertades con responsabilidades: verificar, proteger derechos ajenos, sostener medios independientes y exigir pluralismo como bien público
+- [x] A) Su fuerza depende de que la ciudadanía combine libertades con responsabilidades: verificar, proteger derechos ajenos, sostener medios independientes y exigir pluralismo como bien público
   <!-- feedback: Correcto. El periodismo ciudadano es un ecosistema de deberes compartidos, no una autopista de cualquier contenido. -->
 - [ ] C) Debe ser controlado por el gobierno para garantizar información veraz
   <!-- feedback: El control gubernamental de contenidos es censura estructural, prohibida por el artículo 73. -->

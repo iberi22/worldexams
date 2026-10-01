@@ -33,8 +33,8 @@ $$2x + y = 12$$
 $$1x - y = -3$$
 
 ### Opciones
-- [x] A) $x = 3$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 3x = 9 \Rightarrow x = 3. -->
-- [ ] B) $x = 7$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
+- [x] B) $x = 3$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 3x = 9 \Rightarrow x = 3. -->
+- [ ] A) $x = 7$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
 - [ ] C) $x = 6$ <!-- feedback: Incorrecto. Este valor corresponde a la variable $y$. -->
 - [ ] D) $x = 1$ <!-- feedback: Incorrecto. Al sustituir, no se cumple la igualdad. -->
 
@@ -102,8 +102,8 @@ $$2x + y = 21$$
 $$1x - y = -3$$
 
 ### Opciones
-- [x] A) $x = 6$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 3x = 18 \Rightarrow x = 6. -->
-- [ ] B) $x = 10$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
+- [x] B) $x = 6$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 3x = 18 \Rightarrow x = 6. -->
+- [ ] A) $x = 10$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
 - [ ] C) $x = 9$ <!-- feedback: Incorrecto. Este valor corresponde a la variable $y$. -->
 - [ ] D) $x = 4$ <!-- feedback: Incorrecto. Al sustituir, no se cumple la igualdad. -->
 
@@ -128,8 +128,8 @@ $$3x + y = 31$$
 $$1x - y = -3$$
 
 ### Opciones
-- [x] A) $x = 7$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 4x = 28 \Rightarrow x = 7. -->
-- [ ] B) $x = 11$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
+- [x] B) $x = 7$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 4x = 28 \Rightarrow x = 7. -->
+- [ ] A) $x = 11$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
 - [ ] C) $x = 10$ <!-- feedback: Incorrecto. Este valor corresponde a la variable $y$. -->
 - [ ] D) $x = 5$ <!-- feedback: Incorrecto. Al sustituir, no se cumple la igualdad. -->
 
@@ -174,10 +174,10 @@ $$2x + y = 30$$
 $$1x - y = -3$$
 
 ### Opciones
-- [x] A) $x = 9$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 3x = 27 \Rightarrow x = 9. -->
-- [ ] B) $x = 13$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
-- [ ] C) $x = 12$ <!-- feedback: Incorrecto. Este valor corresponde a la variable $y$. -->
-- [ ] D) $x = 7$ <!-- feedback: Incorrecto. Al sustituir, no se cumple la igualdad. -->
+- [x] D) $x = 9$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 3x = 27 \Rightarrow x = 9. -->
+- [ ] A) $x = 13$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
+- [ ] B) $x = 12$ <!-- feedback: Incorrecto. Este valor corresponde a la variable $y$. -->
+- [ ] C) $x = 7$ <!-- feedback: Incorrecto. Al sustituir, no se cumple la igualdad. -->
 
 ### Explicacion Pedagogica
 Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(2x + y) + (1x - y) = 30 + -3 \Rightarrow 3x = 27$$. Despejando $x$: $$x = \frac{ 27 }{ 3 } = 9$$. Sustituyendo este valor en la primera ecuación obtenemos $y = 12$.
@@ -220,10 +220,10 @@ $$1x + y = 25$$
 $$1x - y = -3$$
 
 ### Opciones
-- [x] A) $x = 11$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 2x = 22 \Rightarrow x = 11. -->
-- [ ] B) $x = 15$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
-- [ ] C) $x = 14$ <!-- feedback: Incorrecto. Este valor corresponde a la variable $y$. -->
-- [ ] D) $x = 9$ <!-- feedback: Incorrecto. Al sustituir, no se cumple la igualdad. -->
+- [x] D) $x = 11$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 2x = 22 \Rightarrow x = 11. -->
+- [ ] A) $x = 15$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
+- [ ] B) $x = 14$ <!-- feedback: Incorrecto. Este valor corresponde a la variable $y$. -->
+- [ ] C) $x = 9$ <!-- feedback: Incorrecto. Al sustituir, no se cumple la igualdad. -->
 
 ### Explicacion Pedagogica
 Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(1x + y) + (1x - y) = 25 + -3 \Rightarrow 2x = 22$$. Despejando $x$: $$x = \frac{ 22 }{ 2 } = 11$$. Sustituyendo este valor en la primera ecuación obtenemos $y = 14$.
@@ -243,8 +243,8 @@ $$2x + y = 39$$
 $$1x - y = -3$$
 
 ### Opciones
-- [x] A) $x = 12$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 3x = 36 \Rightarrow x = 12. -->
-- [ ] B) $x = 16$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
+- [x] B) $x = 12$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 3x = 36 \Rightarrow x = 12. -->
+- [ ] A) $x = 16$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
 - [ ] C) $x = 15$ <!-- feedback: Incorrecto. Este valor corresponde a la variable $y$. -->
 - [ ] D) $x = 10$ <!-- feedback: Incorrecto. Al sustituir, no se cumple la igualdad. -->
 
@@ -269,10 +269,10 @@ $$3x + y = 55$$
 $$1x - y = -3$$
 
 ### Opciones
-- [x] A) $x = 13$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 4x = 52 \Rightarrow x = 13. -->
-- [ ] B) $x = 17$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
-- [ ] C) $x = 16$ <!-- feedback: Incorrecto. Este valor corresponde a la variable $y$. -->
-- [ ] D) $x = 11$ <!-- feedback: Incorrecto. Al sustituir, no se cumple la igualdad. -->
+- [x] D) $x = 13$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 4x = 52 \Rightarrow x = 13. -->
+- [ ] A) $x = 17$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
+- [ ] B) $x = 16$ <!-- feedback: Incorrecto. Este valor corresponde a la variable $y$. -->
+- [ ] C) $x = 11$ <!-- feedback: Incorrecto. Al sustituir, no se cumple la igualdad. -->
 
 ### Explicacion Pedagogica
 Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(3x + y) + (1x - y) = 55 + -3 \Rightarrow 4x = 52$$. Despejando $x$: $$x = \frac{ 52 }{ 4 } = 13$$. Sustituyendo este valor en la primera ecuación obtenemos $y = 16$.
@@ -292,9 +292,9 @@ $$1x + y = 31$$
 $$1x - y = -3$$
 
 ### Opciones
-- [x] A) $x = 14$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 2x = 28 \Rightarrow x = 14. -->
-- [ ] B) $x = 18$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
-- [ ] C) $x = 17$ <!-- feedback: Incorrecto. Este valor corresponde a la variable $y$. -->
+- [x] C) $x = 14$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 2x = 28 \Rightarrow x = 14. -->
+- [ ] A) $x = 18$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
+- [ ] B) $x = 17$ <!-- feedback: Incorrecto. Este valor corresponde a la variable $y$. -->
 - [ ] D) $x = 12$ <!-- feedback: Incorrecto. Al sustituir, no se cumple la igualdad. -->
 
 ### Explicacion Pedagogica
@@ -315,10 +315,10 @@ $$2x + y = 48$$
 $$1x - y = -3$$
 
 ### Opciones
-- [x] A) $x = 15$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 3x = 45 \Rightarrow x = 15. -->
-- [ ] B) $x = 19$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
-- [ ] C) $x = 18$ <!-- feedback: Incorrecto. Este valor corresponde a la variable $y$. -->
-- [ ] D) $x = 13$ <!-- feedback: Incorrecto. Al sustituir, no se cumple la igualdad. -->
+- [x] D) $x = 15$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 3x = 45 \Rightarrow x = 15. -->
+- [ ] A) $x = 19$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
+- [ ] B) $x = 18$ <!-- feedback: Incorrecto. Este valor corresponde a la variable $y$. -->
+- [ ] C) $x = 13$ <!-- feedback: Incorrecto. Al sustituir, no se cumple la igualdad. -->
 
 ### Explicacion Pedagogica
 Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(2x + y) + (1x - y) = 48 + -3 \Rightarrow 3x = 45$$. Despejando $x$: $$x = \frac{ 45 }{ 3 } = 15$$. Sustituyendo este valor en la primera ecuación obtenemos $y = 18$.
@@ -338,10 +338,10 @@ $$3x + y = 67$$
 $$1x - y = -3$$
 
 ### Opciones
-- [x] A) $x = 16$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 4x = 64 \Rightarrow x = 16. -->
-- [ ] B) $x = 20$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
-- [ ] C) $x = 19$ <!-- feedback: Incorrecto. Este valor corresponde a la variable $y$. -->
-- [ ] D) $x = 14$ <!-- feedback: Incorrecto. Al sustituir, no se cumple la igualdad. -->
+- [x] D) $x = 16$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 4x = 64 \Rightarrow x = 16. -->
+- [ ] A) $x = 20$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
+- [ ] B) $x = 19$ <!-- feedback: Incorrecto. Este valor corresponde a la variable $y$. -->
+- [ ] C) $x = 14$ <!-- feedback: Incorrecto. Al sustituir, no se cumple la igualdad. -->
 
 ### Explicacion Pedagogica
 Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(3x + y) + (1x - y) = 67 + -3 \Rightarrow 4x = 64$$. Despejando $x$: $$x = \frac{ 64 }{ 4 } = 16$$. Sustituyendo este valor en la primera ecuación obtenemos $y = 19$.
@@ -384,8 +384,8 @@ $$2x + y = 57$$
 $$1x - y = -3$$
 
 ### Opciones
-- [x] A) $x = 18$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 3x = 54 \Rightarrow x = 18. -->
-- [ ] B) $x = 22$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
+- [x] B) $x = 18$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 3x = 54 \Rightarrow x = 18. -->
+- [ ] A) $x = 22$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
 - [ ] C) $x = 21$ <!-- feedback: Incorrecto. Este valor corresponde a la variable $y$. -->
 - [ ] D) $x = 16$ <!-- feedback: Incorrecto. Al sustituir, no se cumple la igualdad. -->
 
@@ -410,8 +410,8 @@ $$3x + y = 79$$
 $$1x - y = -3$$
 
 ### Opciones
-- [x] A) $x = 19$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 4x = 76 \Rightarrow x = 19. -->
-- [ ] B) $x = 23$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
+- [x] B) $x = 19$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 4x = 76 \Rightarrow x = 19. -->
+- [ ] A) $x = 23$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
 - [ ] C) $x = 22$ <!-- feedback: Incorrecto. Este valor corresponde a la variable $y$. -->
 - [ ] D) $x = 17$ <!-- feedback: Incorrecto. Al sustituir, no se cumple la igualdad. -->
 
@@ -433,8 +433,8 @@ $$1x + y = 43$$
 $$1x - y = -3$$
 
 ### Opciones
-- [x] A) $x = 20$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 2x = 40 \Rightarrow x = 20. -->
-- [ ] B) $x = 24$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
+- [x] B) $x = 20$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 2x = 40 \Rightarrow x = 20. -->
+- [ ] A) $x = 24$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
 - [ ] C) $x = 23$ <!-- feedback: Incorrecto. Este valor corresponde a la variable $y$. -->
 - [ ] D) $x = 18$ <!-- feedback: Incorrecto. Al sustituir, no se cumple la igualdad. -->
 
@@ -456,10 +456,10 @@ $$2x + y = 66$$
 $$1x - y = -3$$
 
 ### Opciones
-- [x] A) $x = 21$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 3x = 63 \Rightarrow x = 21. -->
-- [ ] B) $x = 25$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
-- [ ] C) $x = 24$ <!-- feedback: Incorrecto. Este valor corresponde a la variable $y$. -->
-- [ ] D) $x = 19$ <!-- feedback: Incorrecto. Al sustituir, no se cumple la igualdad. -->
+- [x] D) $x = 21$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 3x = 63 \Rightarrow x = 21. -->
+- [ ] A) $x = 25$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
+- [ ] B) $x = 24$ <!-- feedback: Incorrecto. Este valor corresponde a la variable $y$. -->
+- [ ] C) $x = 19$ <!-- feedback: Incorrecto. Al sustituir, no se cumple la igualdad. -->
 
 ### Explicacion Pedagogica
 Para resolver por eliminación, sumamos las dos ecuaciones lineales: $$(2x + y) + (1x - y) = 66 + -3 \Rightarrow 3x = 63$$. Despejando $x$: $$x = \frac{ 63 }{ 3 } = 21$$. Sustituyendo este valor en la primera ecuación obtenemos $y = 24$.
@@ -479,9 +479,9 @@ $$3x + y = 91$$
 $$1x - y = -3$$
 
 ### Opciones
-- [x] A) $x = 22$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 4x = 88 \Rightarrow x = 22. -->
-- [ ] B) $x = 26$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
-- [ ] C) $x = 25$ <!-- feedback: Incorrecto. Este valor corresponde a la variable $y$. -->
+- [x] C) $x = 22$ <!-- feedback: Correcto. Sumando ambas ecuaciones da 4x = 88 \Rightarrow x = 22. -->
+- [ ] A) $x = 26$ <!-- feedback: Incorrecto. No satisface el sistema de ecuaciones. -->
+- [ ] B) $x = 25$ <!-- feedback: Incorrecto. Este valor corresponde a la variable $y$. -->
 - [ ] D) $x = 20$ <!-- feedback: Incorrecto. Al sustituir, no se cumple la igualdad. -->
 
 ### Explicacion Pedagogica

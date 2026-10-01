@@ -30,8 +30,8 @@ creador: "Jules-Agent"
 ¿Cuál es el valor de la expresión $3^0 + 3^1 + 3^2$?
 
 ### Opciones
-- [ ] A) 12 <!-- feedback: Olvidaste que $3^0$ es igual a 1. -->
-- [x] B) 13 <!-- feedback: $1 + 3 + 9 = 13$. Todo número elevado a 0 es 1. -->
+- [ ] B) 12 <!-- feedback: Olvidaste que $3^0$ es igual a 1. -->
+- [x] A) 13 <!-- feedback: $1 + 3 + 9 = 13$. Todo número elevado a 0 es 1. -->
 - [ ] C) 9 <!-- feedback: Solo consideraste el término $3^2$. -->
 - [ ] D) 15 <!-- feedback: Error en el cálculo de las potencias individuales. -->
 
@@ -50,8 +50,8 @@ Calculamos cada término por separado: $3^0 = 1$ (propiedad de potencia con expo
 
 ### Opciones
 - [ ] A) $x^{3/2}$ <!-- feedback: El índice de la raíz va en el denominador del exponente. -->
-- [x] B) $x^{2/3}$ <!-- feedback: Correcto, el exponente de la base es el numerador y el índice de la raíz es el denominador. -->
-- [ ] C) $x^6$ <!-- feedback: Has multiplicado el exponente por el índice en lugar de dividirlos. -->
+- [x] C) $x^{2/3}$ <!-- feedback: Correcto, el exponente de la base es el numerador y el índice de la raíz es el denominador. -->
+- [ ] B) $x^6$ <!-- feedback: Has multiplicado el exponente por el índice en lugar de dividirlos. -->
 - [ ] D) $x^{-2/3}$ <!-- feedback: No hay razón para que el exponente sea negativo; la expresión original es positiva. -->
 
 ### Explicacion Pedagogica
@@ -70,8 +70,8 @@ Simplifique la expresión: $\frac{5^7 \cdot 5^4}{5^9}$
 ### Opciones
 - [ ] A) $5^{20}$ <!-- feedback: Multiplicaste los exponentes en lugar de sumarlos y restarlos. -->
 - [ ] B) $5^3$ <!-- feedback: Solo restaste los exponentes del final, olvidando la multiplicación inicial. -->
-- [x] C) $5^2$ <!-- feedback: $\frac{5^{7+4}}{5^9} = \frac{5^{11}}{5^9} = 5^{11-9} = 5^2$. -->
-- [ ] D) $5^{11}$ <!-- feedback: Olvidaste dividir por el término del denominador. -->
+- [x] D) $5^2$ <!-- feedback: $\frac{5^{7+4}}{5^9} = \frac{5^{11}}{5^9} = 5^{11-9} = 5^2$. -->
+- [ ] C) $5^{11}$ <!-- feedback: Olvidaste dividir por el término del denominador. -->
 
 ### Explicacion Pedagogica
 Aplicamos las propiedades de las potencias de igual base: en la multiplicación se suman los exponentes ($7+4=11$) y en la división se restan ($11-9=2$). La expresión simplificada es $5^2$.
@@ -88,8 +88,8 @@ Aplicamos las propiedades de las potencias de igual base: en la multiplicación 
 
 ### Opciones
 - [ ] A) Son expresiones equivalentes y ambas valen 16. <!-- feedback: Los paréntesis cambian significativamente la operación. -->
-- [x] B) $(-2)^4 = 16$ y $-2^4 = -16$. <!-- feedback: En la primera la base es $-2$, en la segunda el signo no es parte de la potencia. -->
-- [ ] C) Ambas expresiones resultan en $-16$. <!-- feedback: Una potencia con base negativa y exponente par siempre es positiva. -->
+- [x] C) $(-2)^4 = 16$ y $-2^4 = -16$. <!-- feedback: En la primera la base es $-2$, en la segunda el signo no es parte de la potencia. -->
+- [ ] B) Ambas expresiones resultan en $-16$. <!-- feedback: Una potencia con base negativa y exponente par siempre es positiva. -->
 - [ ] D) $(-2)^4$ no está definido en los números reales. <!-- feedback: Las potencias de base negativa con exponente entero están perfectamente definidas. -->
 
 ### Explicacion Pedagogica
@@ -106,8 +106,8 @@ En $(-2)^4$, la base es $-2$, y $(-2) \cdot (-2) \cdot (-2) \cdot (-2) = 16$. En
 Si hoy el hongo mide $9 \text{ mm}$, ¿cuál será su medida en $3$ días más, expresada como una potencia de base 3?
 
 ### Opciones
-- [ ] A) $3^3 \text{ mm}$ <!-- feedback: Olvidaste incluir la medida inicial de 9 mm. -->
-- [x] B) $3^5 \text{ mm}$ <!-- feedback: $9 = 3^2$; en 3 días se multiplica por $3^3$. Entonces $3^2 \cdot 3^3 = 3^5$. -->
+- [ ] B) $3^3 \text{ mm}$ <!-- feedback: Olvidaste incluir la medida inicial de 9 mm. -->
+- [x] A) $3^5 \text{ mm}$ <!-- feedback: $9 = 3^2$; en 3 días se multiplica por $3^3$. Entonces $3^2 \cdot 3^3 = 3^5$. -->
 - [ ] C) $3^6 \text{ mm}$ <!-- feedback: Has sumado días a la medida inicial de forma incorrecta o multiplicado bases. -->
 - [ ] D) $3^2 \text{ mm}$ <!-- feedback: Esa es la medida actual del hongo. -->
 
@@ -127,8 +127,8 @@ La medida inicial es $9 = 3^2 \text{ mm}$. Si triplica su tamaño cada día, en 
 ### Opciones
 - [ ] A) 1 <!-- feedback: No puedes cancelar directamente una raíz con un número entero. -->
 - [ ] B) 3 <!-- feedback: Error en el proceso de simplificación tras multiplicar. -->
-- [x] C) $\sqrt{3}$ <!-- feedback: $\frac{3\sqrt{3}}{3} = \sqrt{3}$. -->
-- [ ] D) $3\sqrt{3}$ <!-- feedback: Olvidaste simplificar el denominador después de multiplicar por la raíz. -->
+- [x] D) $\sqrt{3}$ <!-- feedback: $\frac{3\sqrt{3}}{3} = \sqrt{3}$. -->
+- [ ] C) $3\sqrt{3}$ <!-- feedback: Olvidaste simplificar el denominador después de multiplicar por la raíz. -->
 
 ### Explicacion Pedagogica
 Multiplicamos numerador y denominador por $\sqrt{3}$ para eliminar la raíz del denominador: $\frac{3 \cdot \sqrt{3}}{\sqrt{3} \cdot \sqrt{3}} = \frac{3\sqrt{3}}{3}$. Al simplificar los 3, obtenemos $\sqrt{3}$.
@@ -146,8 +146,8 @@ Multiplicamos numerador y denominador por $\sqrt{3}$ para eliminar la raíz del 
 ### Opciones
 - [ ] A) $\sqrt{36}$ <!-- feedback: Introducir un factor a la raíz requiere elevarlo al cuadrado. -->
 - [ ] B) $3\sqrt{2}$ <!-- feedback: Esa es solo la simplificación de $\sqrt{18}$, falta multiplicar por 2. -->
-- [x] C) $6\sqrt{2}$ <!-- feedback: $\sqrt{18} = 3\sqrt{2}$; multiplicando por 2 resulta $6\sqrt{2}$. -->
-- [ ] D) $12\sqrt{2}$ <!-- feedback: Multiplicaste por 4 en lugar de por 2. -->
+- [x] D) $6\sqrt{2}$ <!-- feedback: $\sqrt{18} = 3\sqrt{2}$; multiplicando por 2 resulta $6\sqrt{2}$. -->
+- [ ] C) $12\sqrt{2}$ <!-- feedback: Multiplicaste por 4 en lugar de por 2. -->
 
 ### Explicacion Pedagogica
 Primero simplificamos la raíz: $\sqrt{18} = \sqrt{9 \cdot 2} = 3\sqrt{2}$. Luego multiplicamos este resultado por el coeficiente exterior: $2 \cdot 3\sqrt{2} = 6\sqrt{2}$.
@@ -164,8 +164,8 @@ Si $g = 10 \text{ m/s}^2$ y $h = 5 \text{ m}$, ¿cuál es la velocidad $v$ en $\
 
 ### Opciones
 - [ ] A) 50 <!-- feedback: Olvidaste extraer la raíz cuadrada del producto calculado. -->
-- [x] B) 10 <!-- feedback: $\sqrt{2 \cdot 10 \cdot 5} = \sqrt{100} = 10$. -->
-- [ ] C) 20 <!-- feedback: Error en el cálculo del producto dentro de la raíz cuadrada. -->
+- [x] C) 10 <!-- feedback: $\sqrt{2 \cdot 10 \cdot 5} = \sqrt{100} = 10$. -->
+- [ ] B) 20 <!-- feedback: Error en el cálculo del producto dentro de la raíz cuadrada. -->
 - [ ] D) $10\sqrt{2}$ <!-- feedback: Error al realizar la multiplicación bajo el radical. -->
 
 ### Explicacion Pedagogica
@@ -182,8 +182,8 @@ Sustituimos los valores en la fórmula: $v = \sqrt{2 \cdot 10 \cdot 5}$. Resolve
 Simplifique la expresión: $\sqrt[3]{8x^6y^3}$
 
 ### Opciones
-- [ ] A) $2x^3y$ <!-- feedback: Dividiste el exponente de $x$ por 2 en lugar de 3. -->
-- [x] B) $2x^2y$ <!-- feedback: $\sqrt[3]{8}=2$, $6/3=2$ y $3/3=1$. -->
+- [ ] B) $2x^3y$ <!-- feedback: Dividiste el exponente de $x$ por 2 en lugar de 3. -->
+- [x] A) $2x^2y$ <!-- feedback: $\sqrt[3]{8}=2$, $6/3=2$ y $3/3=1$. -->
 - [ ] C) $8x^2y$ <!-- feedback: Olvidaste extraer la raíz cúbica del coeficiente 8. -->
 - [ ] D) $4x^2y$ <!-- feedback: Calculaste la raíz cuadrada de 8 o un valor erróneo para la raíz cúbica. -->
 
@@ -203,8 +203,8 @@ Extraemos la raíz cúbica de cada factor por separado: $\sqrt[3]{8} = 2$. Para 
 ### Opciones
 - [ ] A) Para cualquier valor de $x$ real. <!-- feedback: Las raíces cuadradas de números negativos no son reales. -->
 - [ ] B) $x < 4$ <!-- feedback: Esto haría que el argumento fuera negativo, invalidando la raíz en los reales. -->
-- [x] C) $x \geq 4$ <!-- feedback: Asegura que el argumento sea mayor o igual a cero. -->
-- [ ] D) $x > 0$ <!-- feedback: No es suficiente; si $x=1$, $1-4=-3$, cuya raíz no es real. -->
+- [x] D) $x \geq 4$ <!-- feedback: Asegura que el argumento sea mayor o igual a cero. -->
+- [ ] C) $x > 0$ <!-- feedback: No es suficiente; si $x=1$, $1-4=-3$, cuya raíz no es real. -->
 
 ### Explicacion Pedagogica
 Para que una raíz de índice par (como la raíz cuadrada) sea un número real, su cantidad subradical debe ser mayor o igual a cero. Planteamos la inecuación: $x - 4 \geq 0$, lo que implica $x \geq 4$.
@@ -240,8 +240,8 @@ Simplifique la expresión: $\frac{(2^3)^2 \cdot 4^2}{2^{10}}$
 
 ### Opciones
 - [ ] A) $2$ <!-- feedback: Calculaste mal la potencia de 4 como base 2 o sumaste mal exponentes. -->
-- [x] B) $1$ <!-- feedback: $\frac{2^6 \cdot (2^2)^2}{2^{10}} = \frac{2^6 \cdot 2^4}{2^{10}} = \frac{2^{10}}{2^{10}} = 1$. -->
-- [ ] C) $2^2$ <!-- feedback: Error en la suma o resta de los exponentes durante la simplificación. -->
+- [x] C) $1$ <!-- feedback: $\frac{2^6 \cdot (2^2)^2}{2^{10}} = \frac{2^6 \cdot 2^4}{2^{10}} = \frac{2^{10}}{2^{10}} = 1$. -->
+- [ ] B) $2^2$ <!-- feedback: Error en la suma o resta de los exponentes durante la simplificación. -->
 - [ ] D) $2^4$ <!-- feedback: Olvidaste el exponente de la potencia de potencia en el denominador o el numerador. -->
 
 ### Explicacion Pedagogica
@@ -277,8 +277,8 @@ Simplificamos cada raíz: $\sqrt{12} = 2\sqrt{3}$, $\sqrt{27} = 3\sqrt{3}$ y $\s
 ¿Cuál de las siguientes igualdades es FALSA para números reales positivos?
 
 ### Opciones
-- [ ] A) $\sqrt{a \cdot b} = \sqrt{a} \cdot \sqrt{b}$ <!-- feedback: Esta es una propiedad verdadera y fundamental de las raíces. -->
-- [x] B) $\sqrt{a + b} = \sqrt{a} + \sqrt{b}$ <!-- feedback: ¡Falso! La raíz no es distributiva respecto a la suma. Por ejemplo $\sqrt{9+16} \neq 3+4$. -->
+- [ ] B) $\sqrt{a \cdot b} = \sqrt{a} \cdot \sqrt{b}$ <!-- feedback: Esta es una propiedad verdadera y fundamental de las raíces. -->
+- [x] A) $\sqrt{a + b} = \sqrt{a} + \sqrt{b}$ <!-- feedback: ¡Falso! La raíz no es distributiva respecto a la suma. Por ejemplo $\sqrt{9+16} \neq 3+4$. -->
 - [ ] C) $(\sqrt{a})^2 = a$ <!-- feedback: Para números positivos, esta propiedad siempre se cumple por definición. -->
 - [ ] D) $\sqrt{a/b} = \sqrt{a}/\sqrt{b}$ <!-- feedback: La raíz sí es distributiva respecto al cociente o división. -->
 
@@ -297,9 +297,9 @@ La raíz cuadrada es una operación distributiva respecto al producto y al cocie
 
 ### Opciones
 - [ ] A) $a > b > c$ <!-- feedback: El número $b$ es mayor que $a$. -->
-- [x] B) $b > a > c$ <!-- feedback: $b = \sqrt{20} \approx 4,47$; $a = \sqrt{18} \approx 4,24$; $c = \sqrt{16} = 4$. -->
-- [ ] C) $c > a > b$ <!-- feedback: El número $c$ es el menor de los tres. -->
-- [ ] D) $b > c > a$ <!-- feedback: El número $a$ es mayor que $c$. -->
+- [x] D) $b > a > c$ <!-- feedback: $b = \sqrt{20} \approx 4,47$; $a = \sqrt{18} \approx 4,24$; $c = \sqrt{16} = 4$. -->
+- [ ] B) $c > a > b$ <!-- feedback: El número $c$ es el menor de los tres. -->
+- [ ] C) $b > c > a$ <!-- feedback: El número $a$ es mayor que $c$. -->
 
 ### Explicacion Pedagogica
 Para comparar, introducimos los coeficientes dentro de las raíces: $a = \sqrt{3^2 \cdot 2} = \sqrt{18}$, $b = \sqrt{2^2 \cdot 5} = \sqrt{20}$, y $c = \sqrt{16}$. Comparando los argumentos: $20 > 18 > 16$. Por lo tanto, $b > a > c$.
@@ -316,8 +316,8 @@ Si la diagonal de un rectángulo de lados $a$ y $b$ es $d = \sqrt{a^2 + b^2}$, �
 
 ### Opciones
 - [ ] A) $\sqrt{7} \text{ m}$ <!-- feedback: Sumaste los lados antes de elevarlos al cuadrado, lo cual es incorrecto. -->
-- [x] B) $5 \text{ m}$ <!-- feedback: $\sqrt{4^2 + 3^2} = \sqrt{16 + 9} = \sqrt{25} = 5$. -->
-- [ ] C) $7 \text{ m}$ <!-- feedback: Sumaste los lados directamente sin considerar los cuadrados ni la raíz. -->
+- [x] C) $5 \text{ m}$ <!-- feedback: $\sqrt{4^2 + 3^2} = \sqrt{16 + 9} = \sqrt{25} = 5$. -->
+- [ ] B) $7 \text{ m}$ <!-- feedback: Sumaste los lados directamente sin considerar los cuadrados ni la raíz. -->
 - [ ] D) $25 \text{ m}$ <!-- feedback: Olvidaste extraer la raíz cuadrada final del resultado de la suma. -->
 
 ### Explicacion Pedagogica
@@ -334,8 +334,8 @@ Aplicamos el teorema de Pitágoras: la diagonal al cuadrado es la suma de los cu
 ¿Cuál es el valor de $16^{-3/4}$?
 
 ### Opciones
-- [ ] A) -8 <!-- feedback: Un exponente negativo indica inversión de la base, no un resultado negativo. -->
-- [x] B) 1/8 <!-- feedback: $(\sqrt[4]{16})^{-3} = 2^{-3} = 1/8$. -->
+- [ ] B) -8 <!-- feedback: Un exponente negativo indica inversión de la base, no un resultado negativo. -->
+- [x] A) 1/8 <!-- feedback: $(\sqrt[4]{16})^{-3} = 2^{-3} = 1/8$. -->
 - [ ] C) 8 <!-- feedback: Olvidaste que el exponente negativo invierte la base de la potencia. -->
 - [ ] D) 1/12 <!-- feedback: Error al calcular la raíz o la potencia del número base. -->
 
@@ -353,9 +353,9 @@ Primero resolvemos el exponente fraccionario (raíz cuarta): $\sqrt[4]{16} = 2$.
 Si $x^2 = \sqrt{81}$, ¿cuáles son los posibles valores reales de $x$?
 
 ### Opciones
-- [ ] A) Solo 9 <!-- feedback: $\sqrt{81}=9$, pero estás buscando $x$ tal que $x^2=9$. -->
-- [ ] B) Solo 3 <!-- feedback: Olvidaste incluir la solución negativa válida para esta ecuación cuadrática. -->
-- [x] C) 3 y -3 <!-- feedback: $x^2 = 9 \Rightarrow x = \pm\sqrt{9} \Rightarrow x = \pm 3$. -->
+- [ ] B) Solo 9 <!-- feedback: $\sqrt{81}=9$, pero estás buscando $x$ tal que $x^2=9$. -->
+- [ ] C) Solo 3 <!-- feedback: Olvidaste incluir la solución negativa válida para esta ecuación cuadrática. -->
+- [x] A) 3 y -3 <!-- feedback: $x^2 = 9 \Rightarrow x = \pm\sqrt{9} \Rightarrow x = \pm 3$. -->
 - [ ] D) 9 y -9 <!-- feedback: Confundiste el resultado de la raíz de 81 con el valor final de la incógnita $x$. -->
 
 ### Explicacion Pedagogica
@@ -373,8 +373,8 @@ Primero calculamos el lado derecho: $\sqrt{81} = 9$. La ecuación es $x^2 = 9$. 
 
 ### Opciones
 - [ ] A) $x$ <!-- feedback: Las raíces no se anulan de esa forma simplista. -->
-- [ ] B) $x^{1/4}$ <!-- feedback: Olvidaste considerar la $x$ que se encuentra fuera de la raíz interna. -->
-- [x] C) $x^{3/4}$ <!-- feedback: $\sqrt{x \cdot x^{1/2}} = \sqrt{x^{3/2}} = (x^{3/2})^{1/2} = x^{3/4}$. -->
+- [ ] C) $x^{1/4}$ <!-- feedback: Olvidaste considerar la $x$ que se encuentra fuera de la raíz interna. -->
+- [x] B) $x^{3/4}$ <!-- feedback: $\sqrt{x \cdot x^{1/2}} = \sqrt{x^{3/2}} = (x^{3/2})^{1/2} = x^{3/4}$. -->
 - [ ] D) $x^{1/2}$ <!-- feedback: Error al combinar los exponentes de las raíces anidadas. -->
 
 ### Explicacion Pedagogica
@@ -392,8 +392,8 @@ Expresamos las raíces como exponentes: $\sqrt{x \cdot x^{1/2}}$. Sumamos los ex
 
 ### Opciones
 - [ ] A) $\sqrt{a^2} = a$ <!-- feedback: Solo es cierto si $a$ es no negativo. Si $a=-3$, $\sqrt{(-3)^2}=3$. -->
-- [x] B) $\sqrt{a^2} = |a|$ <!-- feedback: Esta es la definición correcta de la raíz cuadrada de un cuadrado en $\mathbb{R}$. -->
-- [ ] C) $(a^{1/2})^2 = |a|$ <!-- feedback: Para que $a^{1/2}$ exista en los reales, $a$ debe ser no negativo necesariamente. -->
+- [x] C) $\sqrt{a^2} = |a|$ <!-- feedback: Esta es la definición correcta de la raíz cuadrada de un cuadrado en $\mathbb{R}$. -->
+- [ ] B) $(a^{1/2})^2 = |a|$ <!-- feedback: Para que $a^{1/2}$ exista en los reales, $a$ debe ser no negativo necesariamente. -->
 - [ ] D) $\sqrt[3]{a^3} = |a|$ <!-- feedback: Las raíces de índice impar conservan el signo original de la base, no requieren valor absoluto. -->
 
 ### Explicacion Pedagogica

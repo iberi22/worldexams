@@ -34,13 +34,13 @@ Importancia del café en la economía colombiana, regiones productoras, actores 
 ¿Cuál de los siguientes productos ha sido históricamente uno de los principales de la economía colombiana?
 
 ### Opciones
-- [x] A) El café.
+- [x] D) El café.
   <!-- feedback: El café ha sido uno de los productos más importantes de la economía colombiana durante décadas. -->
-- [ ] B) La quinua andina.
+- [ ] A) La quinua andina.
   <!-- feedback: La quinua es importante en otros países andinos, no tanto en Colombia. -->
-- [ ] C) El cacao africano.
+- [ ] B) El cacao africano.
   <!-- feedback: El cacao se cultiva, pero el café tiene mayor peso histórico en la economía nacional. -->
-- [ ] D) La soya asiática.
+- [ ] C) La soya asiática.
   <!-- feedback: La soya no es un cultivo central de la economía colombiana. -->
 
 ### Explicacion Pedagogica
@@ -57,9 +57,9 @@ Reconocer el café como producto tradicional y central en la economía colombian
 ¿Por qué el eje cafetero es una región clave para la producción de café en Colombia?
 
 ### Opciones
-- [x] A) Porque combina altitud, clima templado y suelos volcánicos favorables para el cultivo del café.
+- [x] B) Porque combina altitud, clima templado y suelos volcánicos favorables para el cultivo del café.
   <!-- feedback: Las condiciones geográficas del eje cafetero son ideales para el café de montaña. -->
-- [ ] B) Porque es una región desértica sin agua.
+- [ ] A) Porque es una región desértica sin agua.
   <!-- feedback: El eje cafetero no es desértico; tiene abundantes fuentes de agua y tierras fértiles. -->
 - [ ] C) Porque está ubicada en la costa Caribe.
   <!-- feedback: El eje cafetero se ubica en el centro occidente del país, no en la costa Caribe. -->
@@ -80,9 +80,9 @@ Comprender la relación entre las condiciones geográficas y la producción cafe
 ¿Cuál de las siguientes acciones ayuda a mejorar la calidad del café que produce un caficultor?
 
 ### Opciones
-- [x] A) Cosechar solo los granos maduros, beneficiarlos bien y almacenarlos en lugares secos.
+- [x] B) Cosechar solo los granos maduros, beneficiarlos bien y almacenarlos en lugares secos.
   <!-- feedback: Una cosecha selectiva y un buen proceso posterior elevan la calidad del café. -->
-- [ ] B) Mezclar todos los granos, verdes y maduros, en el mismo costal.
+- [ ] A) Mezclar todos los granos, verdes y maduros, en el mismo costal.
   <!-- feedback: Mezclar granos verdes con maduros reduce la calidad final del café. -->
 - [ ] C) Almacenar el café en lugares húmedos junto a combustibles.
   <!-- feedback: La humedad y los olores afectan negativamente la calidad del café. -->
@@ -103,13 +103,13 @@ Aplicar buenas prácticas agrícolas para mejorar la calidad del café colombian
 ¿Cuál es la función principal de los caficultores en esta cadena productiva?
 
 ### Opciones
-- [x] A) Cultivar y cuidar las plantas de café para producir cerezas de buena calidad.
+- [x] D) Cultivar y cuidar las plantas de café para producir cerezas de buena calidad.
   <!-- feedback: Los caficultores son la base de la cadena al cultivar el café en sus fincas. -->
-- [ ] B) Tostar y empacar el café en tiendas internacionales.
+- [ ] A) Tostar y empacar el café en tiendas internacionales.
   <!-- feedback: La tostión y empaque los realizan otros actores, no los caficultores. -->
-- [ ] C) Transportar el café en grandes barcos por el mundo.
+- [ ] B) Transportar el café en grandes barcos por el mundo.
   <!-- feedback: El transporte internacional lo hacen exportadores y navieras, no caficultores. -->
-- [ ] D) Crear leyes internacionales sobre el café.
+- [ ] C) Crear leyes internacionales sobre el café.
   <!-- feedback: Las leyes internacionales las acuerdan los países en organizaciones internacionales. -->
 
 ### Explicacion Pedagogica
@@ -126,9 +126,9 @@ Reconocer el papel de los caficultores dentro de la cadena productiva del café.
 ¿Qué ventaja tienen los caficultores al organizarse en cooperativas?
 
 ### Opciones
-- [x] A) Obtienen mejores precios, acceso a créditos y apoyo técnico para mejorar su producción.
+- [x] B) Obtienen mejores precios, acceso a créditos y apoyo técnico para mejorar su producción.
   <!-- feedback: Las cooperativas fortalecen a los pequeños caficultores al unir fuerzas. -->
-- [ ] B) Pierden autonomía y deben abandonar sus fincas.
+- [ ] A) Pierden autonomía y deben abandonar sus fincas.
   <!-- feedback: Las cooperativas, por el contrario, ayudan a mantener a los productores en sus fincas. -->
 - [ ] C) Solo producen para el consumo familiar sin vender a nadie.
   <!-- feedback: Las cooperativas buscan mejorar la venta, no reducir la producción comercial. -->
@@ -149,11 +149,11 @@ Aplicar el concepto de cooperativismo como estrategia para fortalecer a los cafi
 ¿Qué diferencia económica enfrenta un caficultor que vende solo frente a uno organizado en cooperativa?
 
 ### Opciones
-- [x] A) El caficultor solo depende de intermediarios y recibe menos; el cooperativista obtiene mejores condiciones.
+- [x] C) El caficultor solo depende de intermediarios y recibe menos; el cooperativista obtiene mejores condiciones.
   <!-- feedback: La asociatividad mejora la negociación y el ingreso del productor. -->
-- [ ] B) Ambos caficultores reciben exactamente el mismo ingreso por su cosecha.
+- [ ] A) Ambos caficultores reciben exactamente el mismo ingreso por su cosecha.
   <!-- feedback: Los ingresos varían según la estrategia de venta. -->
-- [ ] C) Solo los caficultores individuales pueden exportar su café.
+- [ ] B) Solo los caficultores individuales pueden exportar su café.
   <!-- feedback: Las cooperativas también exportan y a veces mejor que los productores aislados. -->
 - [ ] D) La cooperativa no influye en el precio final del café.
   <!-- feedback: La cooperativa sí influye al negociar volumen y calidad. -->
@@ -172,13 +172,13 @@ Analizar el impacto de la asociatividad cafetera en los ingresos de los producto
 ¿Qué consecuencia puede traer el cambio climático para la economía cafetera colombiana?
 
 ### Opciones
-- [x] A) Disminución de cosechas, mayor presencia de plagas y reducción de la calidad del grano.
+- [x] D) Disminución de cosechas, mayor presencia de plagas y reducción de la calidad del grano.
   <!-- feedback: El cambio climático impacta la producción y la calidad del café de montaña. -->
-- [ ] B) Aumento automático de los ingresos por mejor precio internacional.
+- [ ] A) Aumento automático de los ingresos por mejor precio internacional.
   <!-- feedback: Aunque puede haber fluctuaciones, el cambio climático no garantiza más ingresos. -->
-- [ ] C) Desaparición total e inmediata de las fincas cafeteras.
+- [ ] B) Desaparición total e inmediata de las fincas cafeteras.
   <!-- feedback: El cambio climático no produce desaparición inmediata, pero sí genera riesgos serios. -->
-- [ ] D) Ninguna consecuencia para los caficultores colombianos.
+- [ ] C) Ninguna consecuencia para los caficultores colombianos.
   <!-- feedback: El cambio climático sí afecta a los caficultores y al medio ambiente. -->
 
 ### Explicacion Pedagogica
@@ -195,11 +195,11 @@ Analizar el impacto del cambio climático sobre la producción y la economía ca
 ¿Por qué apoyar a los caficultores colombianos es importante para el país?
 
 ### Opciones
-- [x] A) Porque el café es parte de la identidad nacional, genera empleo rural y dinamiza las regiones productoras.
+- [x] C) Porque el café es parte de la identidad nacional, genera empleo rural y dinamiza las regiones productoras.
   <!-- feedback: Apoyar al caficultor protege la economía, la cultura y el campo colombiano. -->
-- [ ] B) Porque solo beneficia a las grandes multinacionales extranjeras.
+- [ ] A) Porque solo beneficia a las grandes multinacionales extranjeras.
   <!-- feedback: Los caficultores colombianos se benefician directamente del apoyo al sector. -->
-- [ ] C) Porque los caficultores no aportan nada a la economía nacional.
+- [ ] B) Porque los caficultores no aportan nada a la economía nacional.
   <!-- feedback: Los caficultores son un pilar fundamental de la economía rural. -->
 - [ ] D) Porque el café colombiano ya no se cultiva en ninguna región.
   <!-- feedback: El café sigue siendo cultivado en muchas regiones de Colombia. -->

@@ -32,11 +32,11 @@ Este bundle contiene 12 preguntas sobre **teorema-seno-coseno** para grado 9, al
 ### Enunciado
 ¿Cuál es la expresión correcta de la ley del seno?
 ### Opciones
-- [x] A) a/sen A = b/sen B = c/sen C
+- [x] C) a/sen A = b/sen B = c/sen C
   <!-- feedback: Correcto. La ley del seno iguala el cociente de cada lado con el seno de su ángulo opuesto. -->
-- [ ] B) a · sen A = b · sen B
+- [ ] A) a · sen A = b · sen B
   <!-- feedback: Incorrecto. La relación es un cociente, no un producto. -->
-- [ ] C) a² = b² + c²
+- [ ] B) a² = b² + c²
   <!-- feedback: Incorrecto. Esa expresión incompleta corresponde al teorema de Pitágoras. -->
 - [ ] D) a/sen A = b/c
   <!-- feedback: Incorrecto. Los denominadores deben ser los senos de los ángulos opuestos. -->
@@ -52,11 +52,11 @@ La ley del seno establece que a/sen A = b/sen B = c/sen C para cualquier triáng
 ### Enunciado
 ¿Cuál expresión corresponde a la ley del coseno para hallar el lado a?
 ### Opciones
-- [x] A) a² = b² + c² − 2bc · cos A
+- [x] C) a² = b² + c² − 2bc · cos A
   <!-- feedback: Correcto. El término del coseno se resta del cuadrado de los lados. -->
-- [ ] B) a² = b² + c² + 2bc · cos A
+- [ ] A) a² = b² + c² + 2bc · cos A
   <!-- feedback: Incorrecto. El término del coseno se resta, no se suma. -->
-- [ ] C) a² = b² − c²
+- [ ] B) a² = b² − c²
   <!-- feedback: Incorrecto. Falta el tercer término y el cuadrado del otro lado. -->
 - [ ] D) a = b · sen A
   <!-- feedback: Incorrecto. Esa expresión no corresponde a la ley del coseno. -->
@@ -72,11 +72,11 @@ La ley del coseno para el lado a es a² = b² + c² − 2bc · cos A.
 ### Enunciado
 ¿Cuánto mide el lado b?
 ### Opciones
-- [x] A) 5√2 cm
+- [x] C) 5√2 cm
   <!-- feedback: Correcto. b = 5 · sen45°/sen30° = 5√2 cm. -->
-- [ ] B) 5√3 cm
+- [ ] A) 5√3 cm
   <!-- feedback: Incorrecto. Usaste el seno de 60° en vez del de 45°. -->
-- [ ] C) 10 cm
+- [ ] B) 10 cm
   <!-- feedback: Incorrecto. Duplicaste a sin completar bien la razón de senos. -->
 - [ ] D) 5/√2 cm
   <!-- feedback: Incorrecto. Invertiste la razón entre los senos. -->
@@ -94,11 +94,11 @@ Por la ley del seno, b = a · sen B / sen A = 5 · (√2/2) / (1/2) = 5√2 cm.
 ### Opciones
 - [ ] A) 13 m
   <!-- feedback: Incorrecto. Sumaste los lados sin aplicar el término del coseno. -->
-- [x] B) 7 m
+- [x] D) 7 m
   <!-- feedback: Correcto. a² = 25 + 64 − 40 = 49, luego a = 7 m. -->
-- [ ] C) √89 m
+- [ ] B) √89 m
   <!-- feedback: Incorrecto. Olvidaste restar el término 2bc·cos A. -->
-- [ ] D) 49 m
+- [ ] C) 49 m
   <!-- feedback: Incorrecto. Ese es el valor de a², no de a. -->
 ### Explicacion Pedagogica
 Por la ley del coseno: a² = 5² + 8² − 2(5)(8)(1/2) = 89 − 40 = 49, así que a = 7 m.
@@ -134,11 +134,11 @@ Aplicando la ley del coseno: cos C = (3² + 4² − 5²)/(2·3·4) = 0, de modo 
 ### Opciones
 - [ ] A) 6 cm
   <!-- feedback: Incorrecto. Dividiste en vez de multiplicar por la razón de senos. -->
-- [x] B) 6√2 cm
+- [x] D) 6√2 cm
   <!-- feedback: Correcto. c = 12 · sen30°/sen45° = 6√2 cm. -->
-- [ ] C) 12√2 cm
+- [ ] B) 12√2 cm
   <!-- feedback: Incorrecto. No simplificaste el factor 12 con la razón de senos. -->
-- [ ] D) 6√3 cm
+- [ ] C) 6√3 cm
   <!-- feedback: Incorrecto. Usaste el seno de 60° en lugar del de 45°. -->
 ### Explicacion Pedagogica
 Por la ley del seno: c = b · sen C / sen B = 12 · (1/2)/(√2/2) = 6√2 cm.
@@ -152,9 +152,9 @@ Por la ley del seno: c = b · sen C / sen B = 12 · (1/2)/(√2/2) = 6√2 cm.
 ### Enunciado
 ¿Cuántos triángulos diferentes cumplen esas condiciones?
 ### Opciones
-- [x] A) Dos, porque el ángulo B también puede ser el suplemento 131.4° y ambos son válidos con A = 30°
+- [x] B) Dos, porque el ángulo B también puede ser el suplemento 131.4° y ambos son válidos con A = 30°
   <!-- feedback: Correcto. Es el caso ambiguo: sen B = 0.75 admite dos ángulos y ambos dejan suma menor que 180°. -->
-- [ ] B) Uno, porque sen B = 0.75 tiene una única solución
+- [ ] A) Uno, porque sen B = 0.75 tiene una única solución
   <!-- feedback: Incorrecto. El seno es positivo en dos cuadrantes, así que hay dos ángulos posibles. -->
 - [ ] C) Ninguno, porque a debe ser mayor que b
   <!-- feedback: Incorrecto. Que a sea menor que b no impide construir el triángulo. -->
@@ -172,13 +172,13 @@ Con sen B = 0.75 se obtienen B ≈ 48.6° o B ≈ 131.4°; como en ambos casos A
 ### Enunciado
 ¿Cuál es la distancia entre los extremos de las dos calles?
 ### Opciones
-- [x] A) 14 km
+- [x] D) 14 km
   <!-- feedback: Correcto. d² = 36 + 100 + 60 = 196, luego d = 14 km. -->
-- [ ] B) 16 km
+- [ ] A) 16 km
   <!-- feedback: Incorrecto. Sumaste los lados sin aplicar la ley del coseno. -->
-- [ ] C) √136 km
+- [ ] B) √136 km
   <!-- feedback: Incorrecto. Restaste el término en vez de sumarlo al ser el coseno negativo. -->
-- [ ] D) 8 km
+- [ ] C) 8 km
   <!-- feedback: Incorrecto. Restaste los lados, procedimiento que no corresponde. -->
 ### Explicacion Pedagogica
 d² = 6² + 10² − 2(6)(10)(−1/2) = 36 + 100 + 60 = 196, por lo que d = 14 km.
@@ -212,9 +212,9 @@ La ley del coseno vincula los tres lados con el ángulo opuesto, por lo que es l
 ### Enunciado
 ¿Cuál es, aproximadamente, la medida de ese ángulo?
 ### Opciones
-- [x] A) 73.4°
+- [x] B) 73.4°
   <!-- feedback: Correcto. cos C = (49 + 64 − 81)/(2·7·8) = 32/112 ≈ 0.2857, luego C ≈ 73.4°. -->
-- [ ] B) 60°
+- [ ] A) 60°
   <!-- feedback: Incorrecto. 60° correspondería a un triángulo equilátero, no a lados 7, 8 y 9. -->
 - [ ] C) 90°
   <!-- feedback: Incorrecto. El coseno del ángulo no es cero, así que no es recto. -->
@@ -252,13 +252,13 @@ En un triángulo rectángulo, cos 90° = 0, así que a² = b² + c² − 2bc(0) 
 ### Enunciado
 ¿Cuál es la evaluación correcta del procedimiento?
 ### Opciones
-- [x] A) Es incorrecto: la ley del seno exige conocer un ángulo; con los tres lados debe usar la ley del coseno
+- [x] D) Es incorrecto: la ley del seno exige conocer un ángulo; con los tres lados debe usar la ley del coseno
   <!-- feedback: Correcto. Con tres lados se aplica la ley del coseno para despejar un ángulo. -->
-- [ ] B) Es correcto: la ley del seno permite hallar el ángulo A directamente
+- [ ] A) Es correcto: la ley del seno permite hallar el ángulo A directamente
   <!-- feedback: Incorrecto. La ley del seno necesita al menos un ángulo conocido. -->
-- [ ] C) Es correcto porque el triángulo es rectángulo
+- [ ] B) Es correcto porque el triángulo es rectángulo
   <!-- feedback: Incorrecto. Los lados 6, 7 y 11 no forman un triángulo rectángulo. -->
-- [ ] D) Es incorrecto porque la ley del seno solo vale para triángulos equiláteros
+- [ ] C) Es incorrecto porque la ley del seno solo vale para triángulos equiláteros
   <!-- feedback: Incorrecto. La ley del seno vale para todo triángulo, pero requiere un ángulo conocido. -->
 ### Explicacion Pedagogica
 La ley del seno requiere al menos un ángulo conocido. Cuando se conocen los tres lados, la herramienta adecuada es la ley del coseno.

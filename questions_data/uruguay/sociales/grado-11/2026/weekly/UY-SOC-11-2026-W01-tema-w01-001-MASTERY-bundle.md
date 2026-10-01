@@ -34,13 +34,13 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Qué papel o definición histórica le corresponde a Montesquieu en relación con este contexto en Uruguay?
 
 ### Opciones
-- [x] A) Constituyó el factor decisivo que consolidó la tripartición de poderes en beneficio del desarrollo institucional del país.
+- [x] D) Constituyó el factor decisivo que consolidó la tripartición de poderes en beneficio del desarrollo institucional del país.
   <!-- feedback: Correcto. Montesquieu representó precisamente el hecho o concepto que consagró la tripartición de poderes. -->
-- [ ] B) Consistió en una reforma fiscal que impuso Thomas Hobbes eliminando toda libertad mercantil o política local.
+- [ ] A) Consistió en una reforma fiscal que impuso Thomas Hobbes eliminando toda libertad mercantil o política local.
   <!-- feedback: Incorrecto. Thomas Hobbes no define la acción histórica de este elemento ni se corresponde con este período. -->
-- [ ] C) Fue un movimiento de oposición promovido por los defensores de Jean-Jacques Rousseau para restablecer el régimen colonial absoluto.
+- [ ] B) Fue un movimiento de oposición promovido por los defensores de Jean-Jacques Rousseau para restablecer el régimen colonial absoluto.
   <!-- feedback: Incorrecto. Jean-Jacques Rousseau responde a otra dinámica o intereses opuestos a los evaluados en este hecho. -->
-- [ ] D) Representó una medida de orden militar que forzó la inmediata adopción de John Locke en toda la campaña rural.
+- [ ] C) Representó una medida de orden militar que forzó la inmediata adopción de John Locke en toda la campaña rural.
   <!-- feedback: Incorrecto. John Locke representa una distracción sin sustento documental o empírico en la historia uruguaya. -->
 
 ### Explicacion Pedagogica
@@ -58,9 +58,9 @@ La identificación precisa de Montesquieu permite comprender la tripartición de
 ¿Qué papel o definición histórica le corresponde a El puerto de Montevideo en relación con este contexto en Uruguay?
 
 ### Opciones
-- [x] A) Constituyó el factor decisivo que consolidó la apertura mercantil española en beneficio del desarrollo institucional del país.
+- [x] B) Constituyó el factor decisivo que consolidó la apertura mercantil española en beneficio del desarrollo institucional del país.
   <!-- feedback: Correcto. El puerto de Montevideo representó precisamente el hecho o concepto que consagró la apertura mercantil española. -->
-- [ ] B) Consistió en una reforma fiscal que impuso El puerto de Colonia eliminando toda libertad mercantil o política local.
+- [ ] A) Consistió en una reforma fiscal que impuso El puerto de Colonia eliminando toda libertad mercantil o política local.
   <!-- feedback: Incorrecto. El puerto de Colonia no define la acción histórica de este elemento ni se corresponde con este período. -->
 - [ ] C) Fue un movimiento de oposición promovido por los defensores de El puerto de Maldonado para restablecer el régimen colonial absoluto.
   <!-- feedback: Incorrecto. El puerto de Maldonado responde a otra dinámica o intereses opuestos a los evaluados en este hecho. -->
@@ -106,13 +106,13 @@ La relación entre La retroversión de la soberanía popular y la legitimidad po
 Si analizás la trascendencia de este suceso, ¿cómo se explica la relación causa-efecto entre La esclavitud africana y la contradicción de la igualdad natural?
 
 ### Opciones
-- [x] A) Que la implantación de La esclavitud africana actuó como la causa principal que posibilitó el desarrollo de la contradicción de la igualdad natural.
+- [x] D) Que la implantación de La esclavitud africana actuó como la causa principal que posibilitó el desarrollo de la contradicción de la igualdad natural.
   <!-- feedback: Correcto. Hay una relación causal directa: La esclavitud africana funcionó como cimiento para que se diera la contradicción de la igualdad natural. -->
-- [ ] B) Que la promoción de El libre comercio de lanas bloqueó de forma absoluta todo efecto de La esclavitud africana sobre la sociedad de la campaña.
+- [ ] A) Que la promoción de El libre comercio de lanas bloqueó de forma absoluta todo efecto de La esclavitud africana sobre la sociedad de la campaña.
   <!-- feedback: Incorrecto. El libre comercio de lanas representa una distracción conceptual que no interfirió de esa forma ni anula el papel de La esclavitud africana. -->
-- [ ] C) Que la imposición de La minería de oro y plata sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
+- [ ] B) Que la imposición de La minería de oro y plata sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
   <!-- feedback: Incorrecto. La minería de oro y plata es una lectura errónea que tergiversa la base socioeconómica agropecuaria de la Banda Oriental o del Estado uruguayo. -->
-- [ ] D) Que la aplicación de El cultivo masivo de café resolvió de forma pacífica todas las tensiones sin participación de caudillos agrarios.
+- [ ] C) Que la aplicación de El cultivo masivo de café resolvió de forma pacífica todas las tensiones sin participación de caudillos agrarios.
   <!-- feedback: Incorrecto. El cultivo masivo de café representa un supuesto inverosímil que contradice las agudas luchas partidarias y sociales de la época. -->
 
 ### Explicacion Pedagogica
@@ -130,11 +130,11 @@ La relación entre La esclavitud africana y la contradicción de la igualdad nat
 Si analizás la trascendencia de este suceso, ¿cómo se explica la relación causa-efecto entre La consolidación de grandes latifundios y la exclusión de los sectores agrarios?
 
 ### Opciones
-- [x] A) Que la implantación de La consolidación de grandes latifundios actuó como la causa principal que posibilitó el desarrollo de la exclusión de los sectores agrarios.
+- [x] C) Que la implantación de La consolidación de grandes latifundios actuó como la causa principal que posibilitó el desarrollo de la exclusión de los sectores agrarios.
   <!-- feedback: Correcto. Hay una relación causal directa: La consolidación de grandes latifundios funcionó como cimiento para que se diera la exclusión de los sectores agrarios. -->
-- [ ] B) Que la promoción de El reparto equitativo de chacras bloqueó de forma absoluta todo efecto de La consolidación de grandes latifundios sobre la sociedad de la campaña.
+- [ ] A) Que la promoción de El reparto equitativo de chacras bloqueó de forma absoluta todo efecto de La consolidación de grandes latifundios sobre la sociedad de la campaña.
   <!-- feedback: Incorrecto. El reparto equitativo de chacras representa una distracción conceptual que no interfirió de esa forma ni anula el papel de La consolidación de grandes latifundios. -->
-- [ ] C) Que la imposición de La estatización total del agro sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
+- [ ] B) Que la imposición de La estatización total del agro sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
   <!-- feedback: Incorrecto. La estatización total del agro es una lectura errónea que tergiversa la base socioeconómica agropecuaria de la Banda Oriental o del Estado uruguayo. -->
 - [ ] D) Que la aplicación de La prohibición de la cría de vacas resolvió de forma pacífica todas las tensiones sin participación de caudillos agrarios.
   <!-- feedback: Incorrecto. La prohibición de la cría de vacas representa un supuesto inverosímil que contradice las agudas luchas partidarias y sociales de la época. -->
@@ -154,11 +154,11 @@ La relación entre La consolidación de grandes latifundios y la exclusión de l
 Si analizás la trascendencia de este suceso, ¿cómo se explica la relación causa-efecto entre La bahía natural profunda de Montevideo y la ventaja militar montevideana?
 
 ### Opciones
-- [x] A) Que la implantación de La bahía natural profunda de Montevideo actuó como la causa principal que posibilitó el desarrollo de la ventaja militar montevideana.
+- [x] C) Que la implantación de La bahía natural profunda de Montevideo actuó como la causa principal que posibilitó el desarrollo de la ventaja militar montevideana.
   <!-- feedback: Correcto. Hay una relación causal directa: La bahía natural profunda de Montevideo funcionó como cimiento para que se diera la ventaja militar montevideana. -->
-- [ ] B) Que la promoción de El descubrimiento de minas de plata bloqueó de forma absoluta todo efecto de La bahía natural profunda de Montevideo sobre la sociedad de la campaña.
+- [ ] A) Que la promoción de El descubrimiento de minas de plata bloqueó de forma absoluta todo efecto de La bahía natural profunda de Montevideo sobre la sociedad de la campaña.
   <!-- feedback: Incorrecto. El descubrimiento de minas de plata representa una distracción conceptual que no interfirió de esa forma ni anula el papel de La bahía natural profunda de Montevideo. -->
-- [ ] C) Que la imposición de La invasión de piratas franceses sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
+- [ ] B) Que la imposición de La invasión de piratas franceses sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
   <!-- feedback: Incorrecto. La invasión de piratas franceses es una lectura errónea que tergiversa la base socioeconómica agropecuaria de la Banda Oriental o del Estado uruguayo. -->
 - [ ] D) Que la aplicación de El tratado de alianza con Dinamarca resolvió de forma pacífica todas las tensiones sin participación de caudillos agrarios.
   <!-- feedback: Incorrecto. El tratado de alianza con Dinamarca representa un supuesto inverosímil que contradice las agudas luchas partidarias y sociales de la época. -->
@@ -178,11 +178,11 @@ La relación entre La bahía natural profunda de Montevideo y la ventaja militar
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de La militarización de milicias criollas en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó el nacimiento de una conciencia autónoma a través del despliegue efectivo de La militarización de milicias criollas en el territorio nacional.
+- [x] C) En que viabilizó el nacimiento de una conciencia autónoma a través del despliegue efectivo de La militarización de milicias criollas en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, La militarización de milicias criollas se tradujo directamente en el nacimiento de una conciencia autónoma, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de La obediencia absoluta al virrey como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de La obediencia absoluta al virrey como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. La obediencia absoluta al virrey no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
-- [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La abolición del idioma castellano.
+- [ ] B) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La abolición del idioma castellano.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La abolición del idioma castellano carece de veracidad y fundamento histórico para este período. -->
 - [ ] D) En que provocó el abandono inmediato de las estancias y la adopción generalizada de La anexión formal al Imperio británico por los gauchos.
   <!-- feedback: Incorrecto. La anexión formal al Imperio británico representa un supuesto anacrónico o absurdo que no operó en la realidad cotidiana del campo uruguayo. -->
@@ -202,9 +202,9 @@ La aplicación práctica de La militarización de milicias criollas revela que l
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de La rivalidad con Buenos Aires en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó el autonomismo del cabildo montevideano a través del despliegue efectivo de La rivalidad con Buenos Aires en el territorio nacional.
+- [x] B) En que viabilizó el autonomismo del cabildo montevideano a través del despliegue efectivo de La rivalidad con Buenos Aires en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, La rivalidad con Buenos Aires se tradujo directamente en el autonomismo del cabildo montevideano, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de El vasallaje incondicional a Francia como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de El vasallaje incondicional a Francia como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. El vasallaje incondicional a Francia no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
 - [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La coronación de un rey inca.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La coronación de un rey inca carece de veracidad y fundamento histórico para este período. -->
@@ -250,11 +250,11 @@ La aplicación práctica de Los beneficios fiscales del libre comercio revela qu
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de El cobro centralizado de aranceles en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó el malestar de los hacendados criollos a través del despliegue efectivo de El cobro centralizado de aranceles en el territorio nacional.
+- [x] C) En que viabilizó el malestar de los hacendados criollos a través del despliegue efectivo de El cobro centralizado de aranceles en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, El cobro centralizado de aranceles se tradujo directamente en el malestar de los hacendados criollos, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de El subsidio directo a pequeños pastores como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de El subsidio directo a pequeños pastores como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. El subsidio directo a pequeños pastores no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
-- [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La eliminación de todo arancel aduanero.
+- [ ] B) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La eliminación de todo arancel aduanero.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La eliminación de todo arancel aduanero carece de veracidad y fundamento histórico para este período. -->
 - [ ] D) En que provocó el abandono inmediato de las estancias y la adopción generalizada de El pago de pensiones vitalicias a gauchos por los gauchos.
   <!-- feedback: Incorrecto. El pago de pensiones vitalicias a gauchos representa un supuesto anacrónico o absurdo que no operó en la realidad cotidiana del campo uruguayo. -->
@@ -322,13 +322,13 @@ La aplicación práctica de El puerto de Montevideo revela que el Reglamento de 
 ¿Qué contradicción o conflicto de intereses de la sociedad de la época queda en evidencia al analizar las consecuencias de La retroversión de la soberanía popular?
 
 ### Opciones
-- [x] A) La fractura social entre los sectores que consolidaron su posición con la legitimidad política ante Napoleón gracias a La retroversión de la soberanía popular y aquellos que resultaron postergados.
+- [x] D) La fractura social entre los sectores que consolidaron su posición con la legitimidad política ante Napoleón gracias a La retroversión de la soberanía popular y aquellos que resultaron postergados.
   <!-- feedback: Correcto. El análisis crítico de La retroversión de la soberanía popular revela una profunda contradicción en torno a la legitimidad política ante Napoleón, marcando límites en la integración social. -->
-- [ ] B) El enfrentamiento ideológico entre los defensores de El centralismo de los virreyes y los promotores de una monarquía incaica absoluta en Canelones.
+- [ ] A) El enfrentamiento ideológico entre los defensores de El centralismo de los virreyes y los promotores de una monarquía incaica absoluta en Canelones.
   <!-- feedback: Incorrecto. Una monarquía incaica en Canelones es un absurdo geográfico e histórico sin relación con los conflictos reales uruguayos. -->
-- [ ] C) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La anexión militar a Portugal.
+- [ ] B) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La anexión militar a Portugal.
   <!-- feedback: Incorrecto. Los hacendados dependían vitalmente de la exportación pecuaria y nunca buscaron prohibir su comercio para imponer La anexión militar a Portugal. -->
-- [ ] D) La total disolución de las clases sociales que eliminó el influjo de El Tratado de Tordesillas y unificó amigablemente a toda la población.
+- [ ] C) La total disolución de las clases sociales que eliminó el influjo de El Tratado de Tordesillas y unificó amigablemente a toda la población.
   <!-- feedback: Incorrecto. Postular una armonía absoluta que borrara las tensiones y anulara El Tratado de Tordesillas es una lectura idílica e incorrecta de la historia nacional. -->
 
 ### Explicacion Pedagogica
@@ -346,9 +346,9 @@ El análisis crítico de La retroversión de la soberanía popular demuestra que
 ¿Qué contradicción o conflicto de intereses de la sociedad de la época queda en evidencia al analizar las consecuencias de La esclavitud africana?
 
 ### Opciones
-- [x] A) La fractura social entre los sectores que consolidaron su posición con la contradicción de la igualdad natural gracias a La esclavitud africana y aquellos que resultaron postergados.
+- [x] B) La fractura social entre los sectores que consolidaron su posición con la contradicción de la igualdad natural gracias a La esclavitud africana y aquellos que resultaron postergados.
   <!-- feedback: Correcto. El análisis crítico de La esclavitud africana revela una profunda contradicción en torno a la contradicción de la igualdad natural, marcando límites en la integración social. -->
-- [ ] B) El enfrentamiento ideológico entre los defensores de El libre comercio de lanas y los promotores de una monarquía incaica absoluta en Canelones.
+- [ ] A) El enfrentamiento ideológico entre los defensores de El libre comercio de lanas y los promotores de una monarquía incaica absoluta en Canelones.
   <!-- feedback: Incorrecto. Una monarquía incaica en Canelones es un absurdo geográfico e histórico sin relación con los conflictos reales uruguayos. -->
 - [ ] C) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La minería de oro y plata.
   <!-- feedback: Incorrecto. Los hacendados dependían vitalmente de la exportación pecuaria y nunca buscaron prohibir su comercio para imponer La minería de oro y plata. -->
@@ -370,13 +370,13 @@ El análisis crítico de La esclavitud africana demuestra que la esclavitud en e
 ¿Qué contradicción o conflicto de intereses de la sociedad de la época queda en evidencia al analizar las consecuencias de La consolidación de grandes latifundios?
 
 ### Opciones
-- [x] A) La fractura social entre los sectores que consolidaron su posición con la exclusión de los sectores agrarios gracias a La consolidación de grandes latifundios y aquellos que resultaron postergados.
+- [x] D) La fractura social entre los sectores que consolidaron su posición con la exclusión de los sectores agrarios gracias a La consolidación de grandes latifundios y aquellos que resultaron postergados.
   <!-- feedback: Correcto. El análisis crítico de La consolidación de grandes latifundios revela una profunda contradicción en torno a la exclusión de los sectores agrarios, marcando límites en la integración social. -->
-- [ ] B) El enfrentamiento ideológico entre los defensores de El reparto equitativo de chacras y los promotores de una monarquía incaica absoluta en Canelones.
+- [ ] A) El enfrentamiento ideológico entre los defensores de El reparto equitativo de chacras y los promotores de una monarquía incaica absoluta en Canelones.
   <!-- feedback: Incorrecto. Una monarquía incaica en Canelones es un absurdo geográfico e histórico sin relación con los conflictos reales uruguayos. -->
-- [ ] C) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La estatización total del agro.
+- [ ] B) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La estatización total del agro.
   <!-- feedback: Incorrecto. Los hacendados dependían vitalmente de la exportación pecuaria y nunca buscaron prohibir su comercio para imponer La estatización total del agro. -->
-- [ ] D) La total disolución de las clases sociales que eliminó el influjo de La prohibición de la cría de vacas y unificó amigablemente a toda la población.
+- [ ] C) La total disolución de las clases sociales que eliminó el influjo de La prohibición de la cría de vacas y unificó amigablemente a toda la población.
   <!-- feedback: Incorrecto. Postular una armonía absoluta que borrara las tensiones y anulara La prohibición de la cría de vacas es una lectura idílica e incorrecta de la historia nacional. -->
 
 ### Explicacion Pedagogica
@@ -394,11 +394,11 @@ El análisis crítico de La consolidación de grandes latifundios demuestra que 
 ¿Qué contradicción o conflicto de intereses de la sociedad de la época queda en evidencia al analizar las consecuencias de La bahía natural profunda de Montevideo?
 
 ### Opciones
-- [x] A) La fractura social entre los sectores que consolidaron su posición con la ventaja militar montevideana gracias a La bahía natural profunda de Montevideo y aquellos que resultaron postergados.
+- [x] C) La fractura social entre los sectores que consolidaron su posición con la ventaja militar montevideana gracias a La bahía natural profunda de Montevideo y aquellos que resultaron postergados.
   <!-- feedback: Correcto. El análisis crítico de La bahía natural profunda de Montevideo revela una profunda contradicción en torno a la ventaja militar montevideana, marcando límites en la integración social. -->
-- [ ] B) El enfrentamiento ideológico entre los defensores de El descubrimiento de minas de plata y los promotores de una monarquía incaica absoluta en Canelones.
+- [ ] A) El enfrentamiento ideológico entre los defensores de El descubrimiento de minas de plata y los promotores de una monarquía incaica absoluta en Canelones.
   <!-- feedback: Incorrecto. Una monarquía incaica en Canelones es un absurdo geográfico e histórico sin relación con los conflictos reales uruguayos. -->
-- [ ] C) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La invasión de piratas franceses.
+- [ ] B) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La invasión de piratas franceses.
   <!-- feedback: Incorrecto. Los hacendados dependían vitalmente de la exportación pecuaria y nunca buscaron prohibir su comercio para imponer La invasión de piratas franceses. -->
 - [ ] D) La total disolución de las clases sociales que eliminó el influjo de El tratado de alianza con Dinamarca y unificó amigablemente a toda la población.
   <!-- feedback: Incorrecto. Postular una armonía absoluta que borrara las tensiones y anulara El tratado de alianza con Dinamarca es una lectura idílica e incorrecta de la historia nacional. -->
@@ -490,13 +490,13 @@ La evaluación crítica de la Representación de los Hacendados de 1809 destaca 
 Al juzgar de manera integral el alcance histórico de El cobro centralizado de aranceles, ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?
 
 ### Opciones
-- [x] A) Que El cobro centralizado de aranceles constituyó una respuesta clave que sentó las bases de el malestar de los hacendados criollos, reconfigurando de forma duradera el orden estatal del país.
+- [x] D) Que El cobro centralizado de aranceles constituyó una respuesta clave que sentó las bases de el malestar de los hacendados criollos, reconfigurando de forma duradera el orden estatal del país.
   <!-- feedback: Correcto. Una evaluación de largo plazo demuestra que El cobro centralizado de aranceles actuó como piedra angular para estructurar el malestar de los hacendados criollos en el Uruguay moderno. -->
-- [ ] B) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de El subsidio directo a pequeños pastores.
+- [ ] A) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de El subsidio directo a pequeños pastores.
   <!-- feedback: Incorrecto. Las transformaciones republicanas, democráticas o sociales contaban con amplio arraigo e irreversibilidad, descartando el retorno a El subsidio directo a pequeños pastores. -->
-- [ ] C) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La eliminación de todo arancel aduanero.
+- [ ] B) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La eliminación de todo arancel aduanero.
   <!-- feedback: Incorrecto. Sostener que El cobro centralizado de aranceles solo sirvió para someter el país a La eliminación de todo arancel aduanero es una lectura reduccionista que ignora la dinámica interna soberana. -->
-- [ ] D) Que careció de trascendencia práctica real al tratarse de una imitación artificial de El pago de pensiones vitalicias a gauchos sin ningún tipo de base social en el territorio.
+- [ ] C) Que careció de trascendencia práctica real al tratarse de una imitación artificial de El pago de pensiones vitalicias a gauchos sin ningún tipo de base social en el territorio.
   <!-- feedback: Incorrecto. A pesar de las influencias conceptuales externas, el modelo uruguayo se adaptó y respondió de forma directa a su propia base social y conflictos de época. -->
 
 ### Explicacion Pedagogica

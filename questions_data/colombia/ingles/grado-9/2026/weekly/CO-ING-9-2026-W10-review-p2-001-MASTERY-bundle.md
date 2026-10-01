@@ -38,8 +38,8 @@ This bundle provides a comprehensive review of the topics covered in weeks 6 to 
 
 ### Opciones
 - [ ] A) can't have left <!-- feedback: Incorrect. If you were packing, it's very possible you left it there. -->
-- [x] B) must have left <!-- feedback: Correct! High probability deduction about a past action. -->
-- [ ] C) should leave <!-- feedback: Incorrect. Not for deduction. -->
+- [x] C) must have left <!-- feedback: Correct! High probability deduction about a past action. -->
+- [ ] B) should leave <!-- feedback: Incorrect. Not for deduction. -->
 - [ ] D) must leave <!-- feedback: Incorrect. This refers to the present. -->
 
 ### Explicacion Pedagogica
@@ -59,8 +59,8 @@ The first radio broadcast in Colombia ________ in 1929.
 
 ### Opciones
 - [ ] A) made <!-- feedback: Incorrect. Active voice. -->
-- [x] B) was made <!-- feedback: Correct! Past Simple Passive for a finished historical event. -->
-- [ ] C) is made <!-- feedback: Incorrect. Present tense. -->
+- [x] C) was made <!-- feedback: Correct! Past Simple Passive for a finished historical event. -->
+- [ ] B) is made <!-- feedback: Incorrect. Present tense. -->
 - [ ] D) has been made <!-- feedback: Incorrect. Specific past year requires Past Simple. -->
 
 ### Explicacion Pedagogica
@@ -80,8 +80,8 @@ If I ________ a world leader, I ________ laws to protect every citizen's digital
 
 ### Opciones
 - [ ] A) am / will pass <!-- feedback: Incorrect. Too unlikely for First Conditional. -->
-- [x] B) were / would pass <!-- feedback: Correct! Second Conditional for a hypothetical situation. -->
-- [ ] C) was / will pass <!-- feedback: Incorrect. Inconsistent tenses. -->
+- [x] C) were / would pass <!-- feedback: Correct! Second Conditional for a hypothetical situation. -->
+- [ ] B) was / will pass <!-- feedback: Incorrect. Inconsistent tenses. -->
 - [ ] D) would be / passed <!-- feedback: Incorrect. "Would" doesn't go in the "if" clause. -->
 
 ### Explicacion Pedagogica
@@ -123,9 +123,9 @@ He ________ the manager. He is too young and he doesn't know how the system work
 
 ### Opciones
 - [ ] A) mustn't be <!-- feedback: Incorrect. "Mustn't" is for prohibition. -->
-- [x] B) can't be <!-- feedback: Correct! Strong negative deduction based on evidence. -->
-- [ ] C) might not be <!-- feedback: Incorrect. This is for less certain possibility. -->
-- [ ] D) couldn't have been <!-- feedback: Incorrect. Refers to the past. -->
+- [x] D) can't be <!-- feedback: Correct! Strong negative deduction based on evidence. -->
+- [ ] B) might not be <!-- feedback: Incorrect. This is for less certain possibility. -->
+- [ ] C) couldn't have been <!-- feedback: Incorrect. Refers to the past. -->
 
 ### Explicacion Pedagogica
 Usamos *can't* cuando estamos seguros de que algo no es posible en el presente basándonos en evidencias o lógica.
@@ -143,8 +143,8 @@ Usamos *can't* cuando estamos seguros de que algo no es posible en el presente b
 All historical sites ________ by visitors to ensure their preservation for future generations.
 
 ### Opciones
-- [ ] A) must respect <!-- feedback: Incorrect. Active voice. -->
-- [x] B) must be respected <!-- feedback: Correct! Modal Passive (modal + be + past participle). -->
+- [ ] B) must respect <!-- feedback: Incorrect. Active voice. -->
+- [x] A) must be respected <!-- feedback: Correct! Modal Passive (modal + be + past participle). -->
 - [ ] C) must respected <!-- feedback: Incorrect. Missing "be". -->
 - [ ] D) must being respected <!-- feedback: Incorrect. Grammatically incorrect. -->
 
@@ -185,8 +185,8 @@ A nivel B2, el estudiante debe diferenciar el grado de probabilidad entre el Pri
 The activist ________ to support the new law.
 
 ### Opciones
-- [ ] A) asked if we can <!-- feedback: Incorrect. Mixed direct and indirect speech. -->
-- [x] B) urged us to support <!-- feedback: Correct! "Urge" is a reporting verb for strong requests, followed by object + to + infinitive. -->
+- [ ] B) asked if we can <!-- feedback: Incorrect. Mixed direct and indirect speech. -->
+- [x] A) urged us to support <!-- feedback: Correct! "Urge" is a reporting verb for strong requests, followed by object + to + infinitive. -->
 - [ ] C) said us to support <!-- feedback: Incorrect. "Say" cannot be used with an object + infinitive. -->
 - [ ] D) told that we support <!-- feedback: Incorrect. Missing object and proper structure. -->
 
@@ -207,8 +207,8 @@ The ancient builders ________ very advanced tools, though we haven't found them 
 
 ### Opciones
 - [ ] A) must use <!-- feedback: Incorrect. Present deduction. -->
-- [x] B) must have used <!-- feedback: Correct! Deduction about the past based on the results (the buildings). -->
-- [ ] C) can't have used <!-- feedback: Incorrect. Contradicts the achievement. -->
+- [x] C) must have used <!-- feedback: Correct! Deduction about the past based on the results (the buildings). -->
+- [ ] B) can't have used <!-- feedback: Incorrect. Contradicts the achievement. -->
 - [ ] D) should have used <!-- feedback: Incorrect. This is for unfulfilled obligations. -->
 
 ### Explicacion Pedagogica
@@ -229,8 +229,8 @@ Identify the error in this paragraph:
 
 ### Opciones
 - [ ] A) is used <!-- feedback: Incorrect. Correct Present Passive. -->
-- [x] B) would spend <!-- feedback: Correct! In the "if" clause of a conditional, we use past simple (*spent*), not *would*. -->
-- [ ] C) would be <!-- feedback: Incorrect. Correct use of *would* in the result clause. -->
+- [x] C) would spend <!-- feedback: Correct! In the "if" clause of a conditional, we use past simple (*spent*), not *would*. -->
+- [ ] B) would be <!-- feedback: Incorrect. Correct use of *would* in the result clause. -->
 - [ ] D) to find <!-- feedback: Incorrect. Correct reported request structure. -->
 
 ### Explicacion Pedagogica

@@ -36,10 +36,10 @@ Este bundle cubre de manera exhaustiva el tema de Evolución y selección natura
 ¿Qué mecanismo evolutivo propuesto por Darwin favorece la supervivencia de los rasgos adaptativos heredables?
 
 ### Opciones
-- [x] A) La selección natural <!-- feedback: ¡Correcto! La selección natural responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Estructuras análogas <!-- feedback: Incorrecto. Estructuras análogas no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) Evolución convergente <!-- feedback: Incorrecto. Evolución convergente es un concepto diferente de la unidad temática. -->
-- [ ] D) La ley de Hardy-Weinberg <!-- feedback: Incorrecto. La ley de Hardy-Weinberg describe un proceso o componente distinto. -->
+- [x] D) La selección natural <!-- feedback: ¡Correcto! La selección natural responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Estructuras análogas <!-- feedback: Incorrecto. Estructuras análogas no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) Evolución convergente <!-- feedback: Incorrecto. Evolución convergente es un concepto diferente de la unidad temática. -->
+- [ ] C) La ley de Hardy-Weinberg <!-- feedback: Incorrecto. La ley de Hardy-Weinberg describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de La selección natural constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.
@@ -99,9 +99,9 @@ El concepto de Evolución convergente constituye un fundamento esencial para com
 ¿Qué fuerza evolutiva introduce nuevos alelos de forma aleatoria en el acervo génico mediante alteraciones del ADN?
 
 ### Opciones
-- [x] A) La mutación génica <!-- feedback: ¡Correcto! La mutación génica responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Selección disruptiva (o diversificadora) <!-- feedback: Incorrecto. Selección disruptiva (o diversificadora) no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) Órganos vestigiales <!-- feedback: Incorrecto. Órganos vestigiales es un concepto diferente de la unidad temática. -->
+- [x] C) La mutación génica <!-- feedback: ¡Correcto! La mutación génica responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Selección disruptiva (o diversificadora) <!-- feedback: Incorrecto. Selección disruptiva (o diversificadora) no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) Órganos vestigiales <!-- feedback: Incorrecto. Órganos vestigiales es un concepto diferente de la unidad temática. -->
 - [ ] D) Aislamiento temporal (o estacional) <!-- feedback: Incorrecto. Aislamiento temporal (o estacional) describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
@@ -120,10 +120,10 @@ El concepto de La mutación génica constituye un fundamento esencial para compr
 ¿Qué principio poblacional matemático describe una población ideal donde las frecuencias alélicas permanecen constantes?
 
 ### Opciones
-- [x] A) La ley de Hardy-Weinberg <!-- feedback: ¡Correcto! La ley de Hardy-Weinberg responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Inviabilidad o esterilidad híbrida <!-- feedback: Incorrecto. Inviabilidad o esterilidad híbrida no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) Selección disruptiva (o diversificadora) <!-- feedback: Incorrecto. Selección disruptiva (o diversificadora) es un concepto diferente de la unidad temática. -->
-- [ ] D) La teoría sintética de la evolución (neodarwinismo) <!-- feedback: Incorrecto. La teoría sintética de la evolución (neodarwinismo) describe un proceso o componente distinto. -->
+- [x] D) La ley de Hardy-Weinberg <!-- feedback: ¡Correcto! La ley de Hardy-Weinberg responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Inviabilidad o esterilidad híbrida <!-- feedback: Incorrecto. Inviabilidad o esterilidad híbrida no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) Selección disruptiva (o diversificadora) <!-- feedback: Incorrecto. Selección disruptiva (o diversificadora) es un concepto diferente de la unidad temática. -->
+- [ ] C) La teoría sintética de la evolución (neodarwinismo) <!-- feedback: Incorrecto. La teoría sintética de la evolución (neodarwinismo) describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de La ley de Hardy-Weinberg constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.
@@ -141,9 +141,9 @@ El concepto de La ley de Hardy-Weinberg constituye un fundamento esencial para c
 ¿Qué efecto de la deriva génica ocurre cuando una población se reduce drásticamente por un desastre natural?
 
 ### Opciones
-- [x] A) Efecto de cuello de botella <!-- feedback: ¡Correcto! Efecto de cuello de botella responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Inviabilidad o esterilidad híbrida <!-- feedback: Incorrecto. Inviabilidad o esterilidad híbrida no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) Especiación alopátrica <!-- feedback: Incorrecto. Especiación alopátrica es un concepto diferente de la unidad temática. -->
+- [x] C) Efecto de cuello de botella <!-- feedback: ¡Correcto! Efecto de cuello de botella responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Inviabilidad o esterilidad híbrida <!-- feedback: Incorrecto. Inviabilidad o esterilidad híbrida no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) Especiación alopátrica <!-- feedback: Incorrecto. Especiación alopátrica es un concepto diferente de la unidad temática. -->
 - [ ] D) La eficacia biológica (fitness) <!-- feedback: Incorrecto. La eficacia biológica (fitness) describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
@@ -162,10 +162,10 @@ El concepto de Efecto de cuello de botella constituye un fundamento esencial par
 ¿Qué tipo de selección natural favorece a los individuos con rasgos fenotípicos extremos de ambos lados de la media?
 
 ### Opciones
-- [x] A) Selección disruptiva (o diversificadora) <!-- feedback: ¡Correcto! Selección disruptiva (o diversificadora) responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Aislamiento temporal (o estacional) <!-- feedback: Incorrecto. Aislamiento temporal (o estacional) no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) La coevolución <!-- feedback: Incorrecto. La coevolución es un concepto diferente de la unidad temática. -->
-- [ ] D) Evolución convergente <!-- feedback: Incorrecto. Evolución convergente describe un proceso o componente distinto. -->
+- [x] D) Selección disruptiva (o diversificadora) <!-- feedback: ¡Correcto! Selección disruptiva (o diversificadora) responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Aislamiento temporal (o estacional) <!-- feedback: Incorrecto. Aislamiento temporal (o estacional) no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) La coevolución <!-- feedback: Incorrecto. La coevolución es un concepto diferente de la unidad temática. -->
+- [ ] C) Evolución convergente <!-- feedback: Incorrecto. Evolución convergente describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de Selección disruptiva (o diversificadora) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.
@@ -183,8 +183,8 @@ El concepto de Selección disruptiva (o diversificadora) constituye un fundament
 ¿Qué tipo de especiación ocurre cuando una barrera geográfica física divide de manera definitiva una población original?
 
 ### Opciones
-- [x] A) Especiación alopátrica <!-- feedback: ¡Correcto! Especiación alopátrica responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Selección disruptiva (o diversificadora) <!-- feedback: Incorrecto. Selección disruptiva (o diversificadora) no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) Especiación alopátrica <!-- feedback: ¡Correcto! Especiación alopátrica responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Selección disruptiva (o diversificadora) <!-- feedback: Incorrecto. Selección disruptiva (o diversificadora) no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) La mutación génica <!-- feedback: Incorrecto. La mutación génica es un concepto diferente de la unidad temática. -->
 - [ ] D) Evolución convergente <!-- feedback: Incorrecto. Evolución convergente describe un proceso o componente distinto. -->
 
@@ -204,10 +204,10 @@ El concepto de Especiación alopátrica constituye un fundamento esencial para c
 ¿Qué estructuras homólogas vestigiales persisten en una especie silvestre sin cumplir ninguna función fisiológica?
 
 ### Opciones
-- [x] A) Órganos vestigiales <!-- feedback: ¡Correcto! Órganos vestigiales responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Efecto de cuello de botella <!-- feedback: Incorrecto. Efecto de cuello de botella no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) La mutación génica <!-- feedback: Incorrecto. La mutación génica es un concepto diferente de la unidad temática. -->
-- [ ] D) La deriva génica <!-- feedback: Incorrecto. La deriva génica describe un proceso o componente distinto. -->
+- [x] D) Órganos vestigiales <!-- feedback: ¡Correcto! Órganos vestigiales responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Efecto de cuello de botella <!-- feedback: Incorrecto. Efecto de cuello de botella no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) La mutación génica <!-- feedback: Incorrecto. La mutación génica es un concepto diferente de la unidad temática. -->
+- [ ] C) La deriva génica <!-- feedback: Incorrecto. La deriva génica describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de Órganos vestigiales constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.
@@ -225,8 +225,8 @@ El concepto de Órganos vestigiales constituye un fundamento esencial para compr
 ¿Qué hipótesis propone que la evolución ocurre mediante periodos de estasis interrumpidos por rápidos cambios de especiación?
 
 ### Opciones
-- [x] A) El equilibrio puntuado <!-- feedback: ¡Correcto! El equilibrio puntuado responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) La teoría sintética de la evolución (neodarwinismo) <!-- feedback: Incorrecto. La teoría sintética de la evolución (neodarwinismo) no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) El equilibrio puntuado <!-- feedback: ¡Correcto! El equilibrio puntuado responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) La teoría sintética de la evolución (neodarwinismo) <!-- feedback: Incorrecto. La teoría sintética de la evolución (neodarwinismo) no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) Selección disruptiva (o diversificadora) <!-- feedback: Incorrecto. Selección disruptiva (o diversificadora) es un concepto diferente de la unidad temática. -->
 - [ ] D) La deriva génica <!-- feedback: Incorrecto. La deriva génica describe un proceso o componente distinto. -->
 
@@ -267,9 +267,9 @@ El concepto de La eficacia biológica (fitness) constituye un fundamento esencia
 ¿Qué tipo de aislamiento reproductivo impide la fecundación del óvulo debido a diferencias en los rituales de cortejo?
 
 ### Opciones
-- [x] A) Aislamiento etológico (o conductual) <!-- feedback: ¡Correcto! Aislamiento etológico (o conductual) responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) La selección natural <!-- feedback: Incorrecto. La selección natural no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) La coevolución <!-- feedback: Incorrecto. La coevolución es un concepto diferente de la unidad temática. -->
+- [x] C) Aislamiento etológico (o conductual) <!-- feedback: ¡Correcto! Aislamiento etológico (o conductual) responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) La selección natural <!-- feedback: Incorrecto. La selección natural no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) La coevolución <!-- feedback: Incorrecto. La coevolución es un concepto diferente de la unidad temática. -->
 - [ ] D) Datación por radiocarbono <!-- feedback: Incorrecto. Datación por radiocarbono describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
@@ -288,9 +288,9 @@ El concepto de Aislamiento etológico (o conductual) constituye un fundamento es
 ¿Qué tipo de barrera postcigótica provoca que la descendencia híbrida de dos especies diferentes sea completamente estéril?
 
 ### Opciones
-- [x] A) Inviabilidad o esterilidad híbrida <!-- feedback: ¡Correcto! Inviabilidad o esterilidad híbrida responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Órganos vestigiales <!-- feedback: Incorrecto. Órganos vestigiales no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) Aislamiento etológico (o conductual) <!-- feedback: Incorrecto. Aislamiento etológico (o conductual) es un concepto diferente de la unidad temática. -->
+- [x] C) Inviabilidad o esterilidad híbrida <!-- feedback: ¡Correcto! Inviabilidad o esterilidad híbrida responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Órganos vestigiales <!-- feedback: Incorrecto. Órganos vestigiales no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) Aislamiento etológico (o conductual) <!-- feedback: Incorrecto. Aislamiento etológico (o conductual) es un concepto diferente de la unidad temática. -->
 - [ ] D) La coevolución <!-- feedback: Incorrecto. La coevolución describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
@@ -309,10 +309,10 @@ El concepto de Inviabilidad o esterilidad híbrida constituye un fundamento esen
 ¿Qué fósiles de transición demuestran caracteres intermedios entre dos grupos taxonómicos principales de la vida?
 
 ### Opciones
-- [x] A) Fósiles transicionales (como Archaeopteryx) <!-- feedback: ¡Correcto! Fósiles transicionales (como Archaeopteryx) responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) La ley de Hardy-Weinberg <!-- feedback: Incorrecto. La ley de Hardy-Weinberg no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) Aislamiento temporal (o estacional) <!-- feedback: Incorrecto. Aislamiento temporal (o estacional) es un concepto diferente de la unidad temática. -->
-- [ ] D) Especiación alopátrica <!-- feedback: Incorrecto. Especiación alopátrica describe un proceso o componente distinto. -->
+- [x] D) Fósiles transicionales (como Archaeopteryx) <!-- feedback: ¡Correcto! Fósiles transicionales (como Archaeopteryx) responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) La ley de Hardy-Weinberg <!-- feedback: Incorrecto. La ley de Hardy-Weinberg no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) Aislamiento temporal (o estacional) <!-- feedback: Incorrecto. Aislamiento temporal (o estacional) es un concepto diferente de la unidad temática. -->
+- [ ] C) Especiación alopátrica <!-- feedback: Incorrecto. Especiación alopátrica describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de Fósiles transicionales (como Archaeopteryx) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.
@@ -330,8 +330,8 @@ El concepto de Fósiles transicionales (como Archaeopteryx) constituye un fundam
 ¿Qué teoría moderna integra la selección natural de Darwin con los principios de la genética clásica y poblacional?
 
 ### Opciones
-- [x] A) La teoría sintética de la evolución (neodarwinismo) <!-- feedback: ¡Correcto! La teoría sintética de la evolución (neodarwinismo) responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Inviabilidad o esterilidad híbrida <!-- feedback: Incorrecto. Inviabilidad o esterilidad híbrida no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) La teoría sintética de la evolución (neodarwinismo) <!-- feedback: ¡Correcto! La teoría sintética de la evolución (neodarwinismo) responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Inviabilidad o esterilidad híbrida <!-- feedback: Incorrecto. Inviabilidad o esterilidad híbrida no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) Estructuras análogas <!-- feedback: Incorrecto. Estructuras análogas es un concepto diferente de la unidad temática. -->
 - [ ] D) La eficacia biológica (fitness) <!-- feedback: Incorrecto. La eficacia biológica (fitness) describe un proceso o componente distinto. -->
 
@@ -351,10 +351,10 @@ El concepto de La teoría sintética de la evolución (neodarwinismo) constituye
 ¿Qué tipo de selección natural elimina los rasgos extremos de la población favoreciendo el valor promedio de la media?
 
 ### Opciones
-- [x] A) Selección estabilizadora <!-- feedback: ¡Correcto! Selección estabilizadora responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Evolución convergente <!-- feedback: Incorrecto. Evolución convergente no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) La teoría sintética de la evolución (neodarwinismo) <!-- feedback: Incorrecto. La teoría sintética de la evolución (neodarwinismo) es un concepto diferente de la unidad temática. -->
-- [ ] D) Aislamiento temporal (o estacional) <!-- feedback: Incorrecto. Aislamiento temporal (o estacional) describe un proceso o componente distinto. -->
+- [x] D) Selección estabilizadora <!-- feedback: ¡Correcto! Selección estabilizadora responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Evolución convergente <!-- feedback: Incorrecto. Evolución convergente no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) La teoría sintética de la evolución (neodarwinismo) <!-- feedback: Incorrecto. La teoría sintética de la evolución (neodarwinismo) es un concepto diferente de la unidad temática. -->
+- [ ] C) Aislamiento temporal (o estacional) <!-- feedback: Incorrecto. Aislamiento temporal (o estacional) describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de Selección estabilizadora constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.
@@ -372,9 +372,9 @@ El concepto de Selección estabilizadora constituye un fundamento esencial para 
 ¿Qué proceso coevolutivo asocia el desarrollo de rasgos de una planta con los rasgos específicos de su insecto polinizador?
 
 ### Opciones
-- [x] A) La coevolución <!-- feedback: ¡Correcto! La coevolución responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Datación por radiocarbono <!-- feedback: Incorrecto. Datación por radiocarbono no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) La deriva génica <!-- feedback: Incorrecto. La deriva génica es un concepto diferente de la unidad temática. -->
+- [x] C) La coevolución <!-- feedback: ¡Correcto! La coevolución responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Datación por radiocarbono <!-- feedback: Incorrecto. Datación por radiocarbono no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) La deriva génica <!-- feedback: Incorrecto. La deriva génica es un concepto diferente de la unidad temática. -->
 - [ ] D) La mutación génica <!-- feedback: Incorrecto. La mutación génica describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
@@ -393,10 +393,10 @@ El concepto de La coevolución constituye un fundamento esencial para comprender
 ¿Qué datación radiométrica calcula la edad absoluta de un fósil midiendo la desintegración del isótopo de carbono-14?
 
 ### Opciones
-- [x] A) Datación por radiocarbono <!-- feedback: ¡Correcto! Datación por radiocarbono responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Estructuras análogas <!-- feedback: Incorrecto. Estructuras análogas no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) Evolución convergente <!-- feedback: Incorrecto. Evolución convergente es un concepto diferente de la unidad temática. -->
-- [ ] D) La deriva génica <!-- feedback: Incorrecto. La deriva génica describe un proceso o componente distinto. -->
+- [x] D) Datación por radiocarbono <!-- feedback: ¡Correcto! Datación por radiocarbono responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Estructuras análogas <!-- feedback: Incorrecto. Estructuras análogas no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) Evolución convergente <!-- feedback: Incorrecto. Evolución convergente es un concepto diferente de la unidad temática. -->
+- [ ] C) La deriva génica <!-- feedback: Incorrecto. La deriva génica describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de Datación por radiocarbono constituye un fundamento esencial para comprender los procesos analizados en la unidad de Evolución y selección natural.
@@ -435,8 +435,8 @@ El concepto de Aislamiento temporal (o estacional) constituye un fundamento esen
 ¿Qué factor poblacional aleatorio tiene mayor probabilidad de eliminar alelos benéficos raros en poblaciones muy pequeñas?
 
 ### Opciones
-- [x] A) La deriva génica <!-- feedback: ¡Correcto! La deriva génica responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Selección estabilizadora <!-- feedback: Incorrecto. Selección estabilizadora no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) La deriva génica <!-- feedback: ¡Correcto! La deriva génica responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Selección estabilizadora <!-- feedback: Incorrecto. Selección estabilizadora no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) Datación por radiocarbono <!-- feedback: Incorrecto. Datación por radiocarbono es un concepto diferente de la unidad temática. -->
 - [ ] D) La selección natural <!-- feedback: Incorrecto. La selección natural describe un proceso o componente distinto. -->
 

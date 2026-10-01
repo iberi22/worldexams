@@ -32,9 +32,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Qué condición debe cumplir una relación entre dos conjuntos para ser una función?
 
 ### Opciones
-- [x] A) Cada elemento del dominio debe tener exactamente una imagen. <!-- feedback: ¡Correcto! La unicidad de la imagen define a la función. -->
-- [ ] B) Cada elemento del codominio debe tener una preimagen. <!-- feedback: Incorrecto. Eso sería sobreyectividad, no se exige para ser función. -->
-- [ ] C) Elementos distintos del dominio deben tener imágenes distintas. <!-- feedback: Incorrecto. Eso es inyectividad; una función puede repetir imágenes. -->
+- [x] C) Cada elemento del dominio debe tener exactamente una imagen. <!-- feedback: ¡Correcto! La unicidad de la imagen define a la función. -->
+- [ ] A) Cada elemento del codominio debe tener una preimagen. <!-- feedback: Incorrecto. Eso sería sobreyectividad, no se exige para ser función. -->
+- [ ] B) Elementos distintos del dominio deben tener imágenes distintas. <!-- feedback: Incorrecto. Eso es inyectividad; una función puede repetir imágenes. -->
 - [ ] D) El dominio y el codominio deben tener la misma cantidad de elementos. <!-- feedback: Incorrecto. Los conjuntos pueden tener cualquier cardinal. -->
 
 ### Explicación Pedagógica
@@ -52,8 +52,8 @@ En la función lineal $f(x) = 3x - 5$, ¿cuál es la pendiente?
 
 ### Opciones
 - [ ] A) $-5$ <!-- feedback: Incorrecto. Ese es el término independiente u ordenada al origen. -->
-- [x] B) $3$ <!-- feedback: ¡Correcto! En $f(x) = mx + b$, la pendiente es $m = 3$. -->
-- [ ] C) $x$ <!-- feedback: Incorrecto. $x$ es la variable, no un coeficiente. -->
+- [x] C) $3$ <!-- feedback: ¡Correcto! En $f(x) = mx + b$, la pendiente es $m = 3$. -->
+- [ ] B) $x$ <!-- feedback: Incorrecto. $x$ es la variable, no un coeficiente. -->
 - [ ] D) $-2$ <!-- feedback: Incorrecto. Provienede sumar los coeficientes; la pendiente es solo el factor de $x$. -->
 
 ### Explicación Pedagógica
@@ -90,8 +90,8 @@ Evaluar una función es sustituir la variable: $C(5) = 40 \cdot 5 + 60 = 260$. E
 
 ### Opciones
 - [ ] A) Solo los números positivos. <!-- feedback: Incorrecto. Los polinomios admiten cualquier real, incluidos negativos. -->
-- [ ] B) Todos los reales excepto $x = 1$ y $x = 2$. <!-- feedback: Incorrecto. Esas son las raíces, no restricciones del dominio. -->
-- [x] C) Todos los números reales. <!-- feedback: ¡Correcto! Toda función polinómica tiene dominio $\mathbb{R}$. -->
+- [ ] C) Todos los reales excepto $x = 1$ y $x = 2$. <!-- feedback: Incorrecto. Esas son las raíces, no restricciones del dominio. -->
+- [x] B) Todos los números reales. <!-- feedback: ¡Correcto! Toda función polinómica tiene dominio $\mathbb{R}$. -->
 - [ ] D) Los números enteros. <!-- feedback: Incorrecto. Nada impide evaluar el polinomio en fracciones o irracionales. -->
 
 ### Explicación Pedagógica
@@ -128,8 +128,8 @@ Sustituyendo: $f(3) = 2(3)^2 - 3 = 18 - 3 = 15$. Respetar la jerarquía: primero
 
 ### Opciones
 - [ ] A) $x = -3$ <!-- feedback: Incorrecto. Revisá el signo al despejar: $4x = 12$. -->
-- [x] B) $x = 3$ <!-- feedback: ¡Correcto! $4x - 12 = 0$ implica $x = 3$. -->
-- [ ] C) $x = 12$ <!-- feedback: Incorrecto. Falta dividir entre el coeficiente 4. -->
+- [x] C) $x = 3$ <!-- feedback: ¡Correcto! $4x - 12 = 0$ implica $x = 3$. -->
+- [ ] B) $x = 12$ <!-- feedback: Incorrecto. Falta dividir entre el coeficiente 4. -->
 - [ ] D) $x = 0$ <!-- feedback: Incorrecto. La raíz es donde la función vale 0, no donde $x$ vale 0. -->
 
 ### Explicación Pedagógica
@@ -147,8 +147,8 @@ La raíz se obtiene igualando a cero: $4x = 12$, $x = 3$. Gráficamente es donde
 
 ### Opciones
 - [ ] A) $\frac{1}{2}$ <!-- feedback: Incorrecto. Invertiste el cociente: es $\frac{\Delta y}{\Delta x}$, no $\frac{\Delta x}{\Delta y}$. -->
-- [x] B) $2$ <!-- feedback: ¡Correcto! $m = \frac{10 - 2}{5 - 1} = \frac{8}{4} = 2$. -->
-- [ ] C) $4$ <!-- feedback: Incorrecto. Restaste solo las abscisas o solo las ordenadas. -->
+- [x] C) $2$ <!-- feedback: ¡Correcto! $m = \frac{10 - 2}{5 - 1} = \frac{8}{4} = 2$. -->
+- [ ] B) $4$ <!-- feedback: Incorrecto. Restaste solo las abscisas o solo las ordenadas. -->
 - [ ] D) $8$ <!-- feedback: Incorrecto. Ese es solo $\Delta y$; falta dividir por $\Delta x$. -->
 
 ### Explicación Pedagógica
@@ -166,9 +166,9 @@ La pendiente entre dos puntos es $m = \frac{y_2 - y_1}{x_2 - x_1} = \frac{8}{4} 
 
 ### Opciones
 - [ ] A) $y = -2x + 1$ <!-- feedback: Incorrecto. El 1 es la ordenada del punto, no la ordenada al origen. -->
-- [x] B) $y = -2x + 7$ <!-- feedback: ¡Correcto! $1 = -2(3) + b$ da $b = 7$. -->
-- [ ] C) $y = -2x - 5$ <!-- feedback: Incorrecto. Revisá el signo al despejar $b$: $1 + 6 = 7$. -->
-- [ ] D) $y = 2x - 5$ <!-- feedback: Incorrecto. La pendiente pedida es negativa. -->
+- [x] D) $y = -2x + 7$ <!-- feedback: ¡Correcto! $1 = -2(3) + b$ da $b = 7$. -->
+- [ ] B) $y = -2x - 5$ <!-- feedback: Incorrecto. Revisá el signo al despejar $b$: $1 + 6 = 7$. -->
+- [ ] C) $y = 2x - 5$ <!-- feedback: Incorrecto. La pendiente pedida es negativa. -->
 
 ### Explicación Pedagógica
 Con punto-pendiente: $y - 1 = -2(x - 3)$, desarrollando $y = -2x + 7$. Verificación: en $x = 3$ da $y = 1$.
@@ -185,8 +185,8 @@ Las funciones $f(x) = 2x + 3$ y $g(x) = -x + 9$ se intersecan en el punto de abs
 
 ### Opciones
 - [ ] A) $x = 3$ <!-- feedback: Incorrecto. Con $x = 3$, $f(3) = 9$ pero $g(3) = 6$; no coinciden. -->
-- [x] B) $x = 2$ <!-- feedback: ¡Correcto! $2x + 3 = -x + 9$ da $3x = 6$, $x = 2$ (y $y = 7$). -->
-- [ ] C) $x = 4$ <!-- feedback: Incorrecto. Sumaste los términos independientes sin agrupar los de $x$. -->
+- [x] C) $x = 2$ <!-- feedback: ¡Correcto! $2x + 3 = -x + 9$ da $3x = 6$, $x = 2$ (y $y = 7$). -->
+- [ ] B) $x = 4$ <!-- feedback: Incorrecto. Sumaste los términos independientes sin agrupar los de $x$. -->
 - [ ] D) $x = 6$ <!-- feedback: Incorrecto. Ese es el valor de $3x$, falta dividir. -->
 
 ### Explicación Pedagógica
@@ -203,8 +203,8 @@ La intersección se halla igualando las expresiones: $2x + 3 = -x + 9$, así $x 
 ¿Cuáles son las raíces de $f(x) = x^2 - 6x + 5$?
 
 ### Opciones
-- [x] A) $x = 1$ y $x = 5$ <!-- feedback: ¡Correcto! $(x-1)(x-5) = 0$: suma 6 y producto 5. -->
-- [ ] B) $x = -1$ y $x = -5$ <!-- feedback: Incorrecto. Esas raíces corresponden a $x^2 + 6x + 5$. -->
+- [x] B) $x = 1$ y $x = 5$ <!-- feedback: ¡Correcto! $(x-1)(x-5) = 0$: suma 6 y producto 5. -->
+- [ ] A) $x = -1$ y $x = -5$ <!-- feedback: Incorrecto. Esas raíces corresponden a $x^2 + 6x + 5$. -->
 - [ ] C) $x = 2$ y $x = 3$ <!-- feedback: Incorrecto. Su producto es 6, no 5. -->
 - [ ] D) $x = 6$ y $x = -1$ <!-- feedback: Incorrecto. Su suma es 5, no 6. -->
 
@@ -223,9 +223,9 @@ Buscando dos números con suma 6 y producto 5: 1 y 5. Las raíces marcan donde l
 
 ### Opciones
 - [ ] A) Se cortan en el punto $(0, 1)$. <!-- feedback: Incorrecto. Tienen la misma pendiente: nunca se cortan. -->
-- [x] B) Son paralelas porque tienen igual pendiente y distinta ordenada. <!-- feedback: ¡Correcto! $m = 3$ en ambas y $b$ distinto: paralelas. -->
-- [ ] C) Son la misma recta. <!-- feedback: Incorrecto. Las ordenadas al origen difieren. -->
-- [ ] D) Son perpendiculares. <!-- feedback: Incorrecto. La perpendicular tendría pendiente $-\frac{1}{3}$. -->
+- [x] D) Son paralelas porque tienen igual pendiente y distinta ordenada. <!-- feedback: ¡Correcto! $m = 3$ en ambas y $b$ distinto: paralelas. -->
+- [ ] B) Son la misma recta. <!-- feedback: Incorrecto. Las ordenadas al origen difieren. -->
+- [ ] C) Son perpendiculares. <!-- feedback: Incorrecto. La perpendicular tendría pendiente $-\frac{1}{3}$. -->
 
 ### Explicación Pedagógica
 Dos rectas con igual pendiente y distinta ordenada al origen son paralelas: no se intersecan jamás. La perpendicularidad exige pendientes inversas y opuestas.
@@ -241,8 +241,8 @@ Dos rectas con igual pendiente y distinta ordenada al origen son paralelas: no s
 ¿Para qué valores de $x$ la función $f(x) = -2x + 8$ toma valores positivos?
 
 ### Opciones
-- [x] A) $x < 4$ <!-- feedback: ¡Correcto! $-2x + 8 > 0$ implica $x < 4$ (se invierte al dividir por $-2$). -->
-- [ ] B) $x > 4$ <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir por un negativo. -->
+- [x] B) $x < 4$ <!-- feedback: ¡Correcto! $-2x + 8 > 0$ implica $x < 4$ (se invierte al dividir por $-2$). -->
+- [ ] A) $x > 4$ <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir por un negativo. -->
 - [ ] C) $x > -4$ <!-- feedback: Incorrecto. Revisá los signos: la raíz es $x = 4$, no $-4$. -->
 - [ ] D) Todo número real. <!-- feedback: Incorrecto. La recta decrece y se hace negativa a partir de $x = 4$. -->
 
@@ -298,8 +298,8 @@ La composición $f(g(x))$ evalúa primero la función interna: $g(6) = 2$, luego
 ¿Qué transformación lleva la gráfica de $y = x^2$ a la de $y = (x - 3)^2 + 2$?
 
 ### Opciones
-- [ ] A) Traslación 3 unidades a la izquierda y 2 hacia abajo. <!-- feedback: Incorrecto. Los signos dentro del paréntesis trasladan en dirección opuesta a la intuición. -->
-- [x] B) Traslación 3 unidades a la derecha y 2 hacia arriba. <!-- feedback: ¡Correcto! $x - 3$ mueve a la derecha 3 y $+2$ sube la gráfica. -->
+- [ ] B) Traslación 3 unidades a la izquierda y 2 hacia abajo. <!-- feedback: Incorrecto. Los signos dentro del paréntesis trasladan en dirección opuesta a la intuición. -->
+- [x] A) Traslación 3 unidades a la derecha y 2 hacia arriba. <!-- feedback: ¡Correcto! $x - 3$ mueve a la derecha 3 y $+2$ sube la gráfica. -->
 - [ ] C) Traslación 3 unidades a la derecha y 2 hacia abajo. <!-- feedback: Incorrecto. El término externo $+2$ desplaza hacia arriba. -->
 - [ ] D) Traslación 2 unidades a la derecha y 3 hacia arriba. <!-- feedback: Incorrecto. Invertiste los desplazamientos horizontal y vertical. -->
 
@@ -317,9 +317,9 @@ En $y = (x - h)^2 + k$ el vértice pasa a $(h, k)$: traslación horizontal $h$ a
 ¿Cuál es la función inversa de $f(x) = 2x + 6$?
 
 ### Opciones
-- [x] A) $f^{-1}(x) = \frac{x - 6}{2}$ <!-- feedback: ¡Correcto! Despejando $x$ de $y = 2x + 6$: $x = \frac{y - 6}{2}$ e intercambiando variables. -->
-- [ ] B) $f^{-1}(x) = \frac{x}{2} - 6$ <!-- feedback: Incorrecto. El 6 también queda dividido: sería $\frac{x}{2} - 3$. -->
-- [ ] C) $f^{-1}(x) = -2x - 6$ <!-- feedback: Incorrecto. Cambiar el signo no invierte la función. -->
+- [x] C) $f^{-1}(x) = \frac{x - 6}{2}$ <!-- feedback: ¡Correcto! Despejando $x$ de $y = 2x + 6$: $x = \frac{y - 6}{2}$ e intercambiando variables. -->
+- [ ] A) $f^{-1}(x) = \frac{x}{2} - 6$ <!-- feedback: Incorrecto. El 6 también queda dividido: sería $\frac{x}{2} - 3$. -->
+- [ ] B) $f^{-1}(x) = -2x - 6$ <!-- feedback: Incorrecto. Cambiar el signo no invierte la función. -->
 - [ ] D) $f^{-1}(x) = \frac{1}{2x + 6}$ <!-- feedback: Incorrecto. La inversa no es el recíproco de la función. -->
 
 ### Explicación Pedagógica
@@ -336,8 +336,8 @@ Invertir consiste en despejar $x$ en función de $y$: $x = \frac{y-6}{2}$, y ren
 Una tabla muestra que para $x = 1, 2, 3$ los valores de $f(x)$ son $5, 7, 9$. ¿Cuál modelo describe mejor los datos?
 
 ### Opciones
-- [x] A) Lineal, $f(x) = 2x + 3$, porque la diferencia entre valores consecutivos es constante. <!-- feedback: ¡Correcto! La tasa de cambio es 2 constante y $f(1) = 5$ fija el término 3. -->
-- [ ] B) Cuadrático, porque los valores crecen. <!-- feedback: Incorrecto. Crecer no implica cuadrático; la diferencia constante delata lo lineal. -->
+- [x] B) Lineal, $f(x) = 2x + 3$, porque la diferencia entre valores consecutivos es constante. <!-- feedback: ¡Correcto! La tasa de cambio es 2 constante y $f(1) = 5$ fija el término 3. -->
+- [ ] A) Cuadrático, porque los valores crecen. <!-- feedback: Incorrecto. Crecer no implica cuadrático; la diferencia constante delata lo lineal. -->
 - [ ] C) Lineal, $f(x) = 5x$, porque el primer valor es 5. <!-- feedback: Incorrecto. $f(2) = 10 \ne 7$; no ajusta los demás puntos. -->
 - [ ] D) Constante, porque todos los valores son positivos. <!-- feedback: Incorrecto. Los valores cambian: no es una función constante. -->
 
@@ -355,8 +355,8 @@ Diferencias primeras constantes ($+2$) identifican un modelo lineal con pendient
 ¿Cuál criterio decide si una gráfica en el plano representa una función de $x$?
 
 ### Opciones
-- [ ] A) La prueba de la recta horizontal: si corta una vez, es función. <!-- feedback: Incorrecto. Esa prueba sirve para detectar inyectividad, no la definición de función. -->
-- [x] B) La prueba de la recta vertical: toda vertical debe cortar la gráfica a lo sumo una vez. <!-- feedback: ¡Correcto! Garantiza que cada $x$ tenga una única imagen. -->
+- [ ] B) La prueba de la recta horizontal: si corta una vez, es función. <!-- feedback: Incorrecto. Esa prueba sirve para detectar inyectividad, no la definición de función. -->
+- [x] A) La prueba de la recta vertical: toda vertical debe cortar la gráfica a lo sumo una vez. <!-- feedback: ¡Correcto! Garantiza que cada $x$ tenga una única imagen. -->
 - [ ] C) La gráfica debe pasar por el origen. <!-- feedback: Incorrecto. Muchas funciones no pasan por $(0,0)$. -->
 - [ ] D) La gráfica debe ser una línea continua sin saltos. <!-- feedback: Incorrecto. Hay funciones discontinuas perfectamente válidas. -->
 
@@ -375,9 +375,9 @@ La prueba de la recta vertical traduce la definición: ninguna vertical puede to
 
 ### Opciones
 - [ ] A) $q = 60$, porque allí el precio llega a cero. <!-- feedback: Incorrecto. Con precio cero el ingreso también es cero, no máximo. -->
-- [x] B) $q = 30$, el vértice de la parábola de ingresos. <!-- feedback: ¡Correcto! $I(q) = -2q^2 + 120q$ tiene vértice en $q = \frac{-120}{-4} = 30$. -->
-- [ ] C) $q = 10$, porque se vende menos pero más caro. <!-- feedback: Incorrecto. En $q = 10$ el ingreso es $1000$, menor que el máximo $1800$. -->
-- [ ] D) $q = 120$, porque más cantidad siempre da más ingreso. <!-- feedback: Incorrecto. Con $q = 120$ el precio sería negativo y el modelo pierde sentido. -->
+- [x] D) $q = 30$, el vértice de la parábola de ingresos. <!-- feedback: ¡Correcto! $I(q) = -2q^2 + 120q$ tiene vértice en $q = \frac{-120}{-4} = 30$. -->
+- [ ] B) $q = 10$, porque se vende menos pero más caro. <!-- feedback: Incorrecto. En $q = 10$ el ingreso es $1000$, menor que el máximo $1800$. -->
+- [ ] C) $q = 120$, porque más cantidad siempre da más ingreso. <!-- feedback: Incorrecto. Con $q = 120$ el precio sería negativo y el modelo pierde sentido. -->
 
 ### Explicación Pedagógica
 El ingreso $I(q) = 120q - 2q^2$ es una parábola que abre hacia abajo; su máximo está en el vértice $q = 30$, con ingreso $1800$ miles de pesos.

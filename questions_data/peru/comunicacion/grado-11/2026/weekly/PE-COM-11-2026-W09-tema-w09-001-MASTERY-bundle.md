@@ -59,9 +59,9 @@ En lógica y teoría de la argumentación, una falacia es un argumento que viola
   <!-- feedback: Incorrecto. Ad verecundiam consiste en defender una idea recurriendo al prestigio de un experto fuera de su área. -->
 - [ ] B) Falacia de apelación a la ignorancia (ad ignorantiam)
   <!-- feedback: Incorrecto. Ad ignorantiam ocurre cuando se afirma que algo es verdadero solo porque no se ha demostrado su falsedad. -->
-- [x] C) Falacia de ataque a la persona (ad hominem)
+- [x] D) Falacia de ataque a la persona (ad hominem)
   <!-- feedback: Correcto. La falacia ad hominem desvía la atención del debate real atacando directamente la credibilidad, origen o conducta moral del oponente para desacreditar su tesis sin analizarla. -->
-- [ ] D) Falacia de apelación al pueblo (ad populum)
+- [ ] C) Falacia de apelación al pueblo (ad populum)
   <!-- feedback: Incorrecto. Ad populum busca convencer apelando al sentimiento, prejuicio o supuesta mayoría de la multitud. -->
 
 ### Explicacion Pedagogica
@@ -82,9 +82,9 @@ Lea el fragmento del artículo de opinión:
 ¿Qué falacia lógica comete el autor y cómo afecta al análisis de la propuesta técnica?
 
 ### Opciones
-- [ ] A) Falacia de apelación a la ignorancia; porque asume que la energía solar no existe en el Perú
+- [ ] B) Falacia de apelación a la ignorancia; porque asume que la energía solar no existe en el Perú
   <!-- feedback: Incorrecto. El autor no habla sobre la existencia científica de la energía solar, sino sobre el congresista. -->
-- [x] B) Falacia ad hominem; deforma el debate técnico de la energía solar al atacar la conducta familiar privada del proponente
+- [x] A) Falacia ad hominem; deforma el debate técnico de la energía solar al atacar la conducta familiar privada del proponente
   <!-- feedback: Correcto. El autor ataca un defecto moral personal del congresista (pensión de alimentos) para desacreditar una ley de energía solar totalmente ajena a su vida familiar, distorsionando la validez fáctica y técnica del proyecto de ley. -->
 - [ ] C) Falacia de apelación a la autoridad; porque cita al Ministerio de Energía de forma reverencial
   <!-- feedback: Incorrecto. El autor no cita a ninguna autoridad o institución especializada para respaldar su rechazo. -->
@@ -134,11 +134,11 @@ Lea el argumento de un comerciante informal:
 ¿Por qué este razonamiento constituye una falacia ad populum y qué sesgo encubre?
 
 ### Opciones
-- [ ] A) Porque miente sobre el número de personas que usan los colectivos informales en Lima Norte
+- [ ] B) Porque miente sobre el número de personas que usan los colectivos informales en Lima Norte
   <!-- feedback: Incorrecto. Aunque el dato numérico sea alto, el error lógico no es la veracidad del uso, sino la conclusión de calidad del servicio. -->
-- [ ] B) Porque el Ministerio de Transportes prohíbe el uso de la palabra 'colectivo' en discursos públicos
+- [ ] C) Porque el Ministerio de Transportes prohíbe el uso de la palabra 'colectivo' en discursos públicos
   <!-- feedback: Incorrecto. El Ministerio no prohíbe palabras; la inconsistencia es de naturaleza argumentativa lógica. -->
-- [x] C) Porque asume erróneamente que la preferencia masiva o uso popular de un servicio demuestra su seguridad y legalidad, invisibilizando los problemas de informalidad y riesgo real de accidentes
+- [x] A) Porque asume erróneamente que la preferencia masiva o uso popular de un servicio demuestra su seguridad y legalidad, invisibilizando los problemas de informalidad y riesgo real de accidentes
   <!-- feedback: Correcto. El hecho de que muchas personas usen un transporte por necesidad de traslado rápido (debido a la crisis de transporte) no demuestra lógicamente que el servicio sea seguro, eficiente o legal. Asociar verdad o bondad a la opinión de la multitud define a la falacia ad populum. -->
 - [ ] D) Porque no cita las opiniones de los ingenieros de transporte de las universidades de Suiza
   <!-- feedback: Incorrecto. La validez no depende de citar expertos extranjeros de forma obligatoria, sino de no forzar la conclusión en base a mayorías de uso. -->
@@ -165,9 +165,9 @@ En una mesa de debate sobre nutrición infantil en Lambayeque, un ponente afirma
   <!-- feedback: Incorrecto. Aunque se cultive en la sierra, se consume en todo el país; el error principal es metodológico en la cita del experto. -->
 - [ ] B) Que la química no es una ciencia exacta de rango universitario en el Perú actual
   <!-- feedback: Incorrecto. La química es una ciencia experimental de alta jerarquía académica y científica. -->
-- [x] C) Comete la falacia ad verecundiam; porque apela al prestigio de un científico en química para validar una afirmación sobre medicina y nutrición infantil, un área ajena a su especialidad científica directa
+- [x] D) Comete la falacia ad verecundiam; porque apela al prestigio de un científico en química para validar una afirmación sobre medicina y nutrición infantil, un área ajena a su especialidad científica directa
   <!-- feedback: Correcto. Un premio Nobel de Química es autoridad en su campo exacto (química molecular, enlaces, etc.), pero su opinión sobre pediatría, nutrición o prevención inmunológica infantil no posee el mismo rango especializado, constituyendo una apelación indebida a la autoridad por fuera de su campo real de conocimiento. -->
-- [ ] D) Que los premios Nobel de Química tienen prohibido conceder entrevistas sobre alimentos de origen andino
+- [ ] C) Que los premios Nobel de Química tienen prohibido conceder entrevistas sobre alimentos de origen andino
   <!-- feedback: Incorrecto. No existen prohibiciones jurídicas o científicas internacionales que impidan a los científicos dar entrevistas sobre granos andinos. -->
 
 ### Explicacion Pedagogica
@@ -271,9 +271,9 @@ Lea el fragmento de una columna de opinión periodística:
 ### Opciones
 - [ ] A) Falacia ad hominem; al atacar moralmente el sueldo de los científicos universitarios de Lima
   <!-- feedback: Incorrecto. El columnista no ataca el sueldo de los científicos; los califica de 'respetables e irracionales' de forma general. -->
-- [ ] B) Falacia ad ignorantiam; porque asume que el río Rímac no desemboca en el océano Pacífico
+- [ ] C) Falacia ad ignorantiam; porque asume que el río Rímac no desemboca en el océano Pacífico
   <!-- feedback: Incorrecto. El curso geográfico del río es irrelevante para el error de lógica de equilibrar las posturas de contaminación. -->
-- [x] C) Falacia de la falsa equivalencia (o falso equilibrio); al equiparar de forma injustificada dos posturas con niveles de evidencia y rigor empírico abismalmente desiguales, presentándolas como simétricas
+- [x] B) Falacia de la falsa equivalencia (o falso equilibrio); al equiparar de forma injustificada dos posturas con niveles de evidencia y rigor empírico abismalmente desiguales, presentándolas como simétricas
   <!-- feedback: Correcto. La falsa equivalencia ocurre cuando se pretende dar igual peso o autoridad a un postulado avalado por estudios empíricos científicos y replicables (los científicos) y a otro sustentado solo en la negación corporativa interesada (la empresa sin muestras), forzando un punto medio imparcial que deforma la realidad científica. -->
 - [ ] D) Falacia de apelación al pueblo; al sostener que los peces del río son el alimento favorito de la costa
   <!-- feedback: Incorrecto. No apela a mayorías de consumo de pescado andino o de río para defender su tesis. -->
@@ -300,9 +300,9 @@ Lea la intervención de un vecino en la junta comunal:
   <!-- feedback: Incorrecto. No basa su argumento en el porcentaje de consumo de la multitud, sino en una secuencia de desastres futuros. -->
 - [ ] B) Falacia del espantapájaros; porque deforma la receta tradicional del emoliente andino
   <!-- feedback: Incorrecto. No deforma los ingredientes de la infusión, sino la consecuencia regulatoria municipal. -->
-- [x] C) Falacia de la pendiente resbaladiza; al argumentar que una medida reguladora menor (empadronar emolienteros) conducirá ineludiblemente al colapso legal total de la provincia, infundiendo temor infundado en el auditorio
+- [x] D) Falacia de la pendiente resbaladiza; al argumentar que una medida reguladora menor (empadronar emolienteros) conducirá ineludiblemente al colapso legal total de la provincia, infundiendo temor infundado en el auditorio
   <!-- feedback: Correcto. El vecino conecta de forma espuria un empadronamiento legal con el tráfico de tierras y mafias, proyectando un escenario catastrófico sin nexos de causalidad válidos o lógicos, típico de la pendiente resbaladiza. -->
-- [ ] D) Falacia ad hominem; al revelar que el alcalde compró un automóvil importado en lugar de usar bicicleta
+- [ ] C) Falacia ad hominem; al revelar que el alcalde compró un automóvil importado en lugar de usar bicicleta
   <!-- feedback: Incorrecto. No ataca la vida privada o moral del alcalde en este fragmento de discurso vecinal. -->
 
 ### Explicacion Pedagogica
@@ -325,11 +325,11 @@ Lea la frase del columnista:
 ### Opciones
 - [ ] A) Falacia de la falsa analogía; al comparar los huaycos con las erupciones volcánicas del Cusco
   <!-- feedback: Incorrecto. No se comparan desastres de distinta índole volcánica en la frase analizada. -->
-- [x] B) Falacia de apelación a la ignorancia (ad ignorantiam); al pretender que la falta de predicción del día exacto (ignorancia temporal) valida la inutilidad de instalar sistemas científicos de alerta preventivos de lluvias
+- [x] D) Falacia de apelación a la ignorancia (ad ignorantiam); al pretender que la falta de predicción del día exacto (ignorancia temporal) valida la inutilidad de instalar sistemas científicos de alerta preventivos de lluvias
   <!-- feedback: Correcto. Sostiene que como no se sabe el día preciso de caída (ausencia de demostración perfecta de un detalle temporal), entonces la prevención general de lluvias es inútil. Esto atenta contra la lógica de gestión de riesgos, donde los sistemas de alerta salvan vidas al medir variaciones de humedad en tiempo real. -->
-- [ ] C) Falacia del espantapájaros; porque caricaturiza al Ministerio de Economía presentándolo como un banco privado
+- [ ] B) Falacia del espantapájaros; porque caricaturiza al Ministerio de Economía presentándolo como un banco privado
   <!-- feedback: Incorrecto. No se deforma el perfil del Ministerio; se desvaloriza la ciencia de prevención basándose en un vacío de predicción absoluta. -->
-- [ ] D) Falacia ad populum; porque asume que todos los pobladores de Chosica se oponen a las alertas de lluvias
+- [ ] C) Falacia ad populum; porque asume que todos los pobladores de Chosica se oponen a las alertas de lluvias
   <!-- feedback: Incorrecto. No basa su razonamiento de rechazo en la opinión o preferencia de los vecinos del distrito. -->
 
 ### Explicacion Pedagogica
@@ -352,9 +352,9 @@ En debates sobre la identidad andina peruana, algunos opositores al indigenismo 
 ### Opciones
 - [ ] A) Falacia ad hominem; al atacar moralmente los ingresos económicos de José María Arguedas en Lima
   <!-- feedback: Incorrecto. El ataque no se dirige a las finanzas privadas de Arguedas, sino a la propuesta cultural indigenista de forma caricaturesca. -->
-- [x] B) Falacia del espantapájaros; porque deforma, caricaturiza y simplifica de forma ridícula la tesis indigenista (que abogaba por la modernidad respetando la identidad cultural), presentándola como un deseo absurdo de atraso medieval forzado
+- [x] C) Falacia del espantapájaros; porque deforma, caricaturiza y simplifica de forma ridícula la tesis indigenista (que abogaba por la modernidad respetando la identidad cultural), presentándola como un deseo absurdo de atraso medieval forzado
   <!-- feedback: Correcto. El indigenismo arguediano o de Mariátegui jamás propuso aislar al indígena o prohibir la tecnología; defendía la interculturalidad (modernidad simétrica). Los detractores construyeron un 'espantapájaros' (el indigenismo como retorno al neolítico) para atacarlo de forma fácil y burda ante el público costeño ilustrado. -->
-- [ ] C) Falacia ad ignorantiam; porque asume que en los Andes no existen ponchos de lana de oveja
+- [ ] B) Falacia ad ignorantiam; porque asume que en los Andes no existen ponchos de lana de oveja
   <!-- feedback: Incorrecto. Los ponchos existen y son parte de la cultura, pero el error no reside en el dato textil, sino en la caricaturización de la propuesta política. -->
 - [ ] D) Falacia de causa falsa; al sostener que la tecnología genera la desaparición de las danzas tradicionales del Cusco
   <!-- feedback: Incorrecto. El argumento no analiza la causa física de la desaparición de ritos, sino que atribuye un deseo de atraso absurdo al indigenismo. -->
@@ -406,9 +406,9 @@ Lea el argumento de un discurso político local sobre seguridad ciudadana en Piu
 ### Opciones
 - [ ] A) Falacia de apelación al pueblo; al sostener que las fuerzas armadas son el cuerpo más respetado por la población andina
   <!-- feedback: Incorrecto. El error no es apelar a la opinión de la multitud sobre los soldados, sino el diseño trunco de alternativas. -->
-- [ ] B) Falacia ad hominem; al atacar moralmente los antecedentes penales de los delincuentes locales
+- [ ] C) Falacia ad hominem; al atacar moralmente los antecedentes penales de los delincuentes locales
   <!-- feedback: Incorrecto. No realiza un ataque personal a un oponente específico para desviar una propuesta técnica. -->
-- [x] C) Falacia del falso dilema (o falsa dicotomía); al reducir de manera tramposa el problema complejo de la seguridad a solo dos alternativas extremas y excluyentes, forzando al oyente a elegir la postura del autor ante el miedo a la catástrofe
+- [x] B) Falacia del falso dilema (o falsa dicotomía); al reducir de manera tramposa el problema complejo de la seguridad a solo dos alternativas extremas y excluyentes, forzando al oyente a elegir la postura del autor ante el miedo a la catástrofe
   <!-- feedback: Correcto. El falso dilema oculta de forma deliberada que existen múltiples vías, estrategias y políticas intermedias para combatir la delincuencia (ej. mejorar la inteligencia policial, patrullaje integrado municipal, iluminación, prevención social), obligando de manera tramposa a elegir el patrullaje militarizado como única opción ante la rendición total. -->
 - [ ] D) Falacia de la pendiente resbaladiza; al argumentar que los soldados de la marina de guerra usarán bicicletas para patrullar
   <!-- feedback: Incorrecto. La falacia del falso dilema se caracteriza por el diseño restrictivo de las opciones iniciales, no por los medios de transporte de la marina. -->
@@ -433,9 +433,9 @@ En debates sobre temas públicos peruanos en redes sociales (como X o Facebook),
   <!-- feedback: Incorrecto. Esto describe una conducta analítica crítica correcta y libre de sesgos burdos, no el sesgo de confirmación. -->
 - [ ] B) Rechaza el castellano estándar y prefiere escribir sus opiniones en quechua literario del Cusco
   <!-- feedback: Incorrecto. Elegir expresarse en una lengua nativa es un acto lingüístico soberano y no se asocia al sesgo de confirmación. -->
-- [x] C) Busca, acepta y comparte únicamente aquellas informaciones o noticias de opinión que confirman y respaldan sus propios prejuicios ideológicos preexistentes, ignorando de manera deliberada las evidencias que los contradicen
+- [x] D) Busca, acepta y comparte únicamente aquellas informaciones o noticias de opinión que confirman y respaldan sus propios prejuicios ideológicos preexistentes, ignorando de manera deliberada las evidencias que los contradicen
   <!-- feedback: Correcto. El sesgo de confirmación es la tendencia cognitiva a privilegiar los datos que ratifican las opiniones del sujeto. En redes sociales, esto conduce a la creación de burbujas informativas (cámaras de eco) donde se multiplican las noticias falsas por falta de contrastación crítica. -->
-- [ ] D) Exige que el Ministerio de Educación reestructure el plan de estudios escolares de la costa de forma democrática
+- [ ] C) Exige que el Ministerio de Educación reestructure el plan de estudios escolares de la costa de forma democrática
   <!-- feedback: Incorrecto. Exigir reformas al plan escolar es una postura política cívica; no constituye la definición técnica de este sesgo cognitivo. -->
 
 ### Explicacion Pedagogica
@@ -515,9 +515,9 @@ Lea la argumentación de un editorial de un medio limeño sobre reformas laboral
   <!-- feedback: Incorrecto. El texto no menciona ni ataca a sindicatos u obreros de forma personal en este fragmento. -->
 - [ ] B) Comete falacia ad ignorantiam al no citar las leyes de la Organización Internacional del Trabajo (OIT)
   <!-- feedback: Incorrecto. La omisión de citar leyes internacionales no es la falla lógica de petición de principio. -->
-- [x] C) Incurre en petición de principio (razonamiento circular); al pretender demostrar la justicia e ineludible necesidad del despido libre utilizando como argumento y prueba de su tesis la propia definición reformulada del despido libre
+- [x] D) Incurre en petición de principio (razonamiento circular); al pretender demostrar la justicia e ineludible necesidad del despido libre utilizando como argumento y prueba de su tesis la propia definición reformulada del despido libre
   <!-- feedback: Correcto. La petición de principio o círculo vicioso ocurre cuando la tesis que se pretende demostrar se incluye de manera implícita o explícita en las premisas de la argumentación (afirma que el despido libre es justo porque permite despedir de forma justa, y que es motor porque es motor). El argumento gira sobre sí mismo sin aportar evidencias o datos empíricos externos que validen la premisa inicial. -->
-- [ ] D) Aplica de forma incorrecta el gerundio de posterioridad en el verbo 'rescindir' afectando la sintaxis del párrafo
+- [ ] C) Aplica de forma incorrecta el gerundio de posterioridad en el verbo 'rescindir' afectando la sintaxis del párrafo
   <!-- feedback: Incorrecto. No hay un mal uso de gerundios en la frase; el error es puramente lógico-argumental de carácter circular. -->
 
 ### Explicacion Pedagogica
@@ -538,9 +538,9 @@ Desde la perspectiva de la teoría de la comunicación andina e intercultural pe
 ### Opciones
 - [ ] A) La erradicación de las jergas criollas de la costa limeña en los diarios impresos
   <!-- feedback: Incorrecto. Dejar de sancionar las falacias no erradica las jergas; al contrario, puede multiplicar discursos polarizados de bajo registro. -->
-- [ ] B) La obligación de que todos los peruanos aprendan a debatir bajo las reglas del latín clásico del virreinato
+- [ ] C) La obligación de que todos los peruanos aprendan a debatir bajo las reglas del latín clásico del virreinato
   <!-- feedback: Incorrecto. Las reglas de argumentación no obligan a retornar a la lengua muerta de la colonia de forma alguna. -->
-- [x] C) La desintegración del debate democrático racional, la normalización de prejuicios discriminatorios mediante la demagogia persuasiva y la atrofia del pensamiento crítico ciudadano frente a las desigualdades del país
+- [x] B) La desintegración del debate democrático racional, la normalización de prejuicios discriminatorios mediante la demagogia persuasiva y la atrofia del pensamiento crítico ciudadano frente a las desigualdades del país
   <!-- feedback: Correcto. Tolerar o no deconstruir las falacias (como el falso dilema, ad hominem o el espantapájaros) permite que la posverdad y la demagogia colonicen el espacio público. Esto facilita la propagación de estereotipos racistas, raciocinios excluyentes y odios sociales dirigidos a minorías o sectores marginados (ej. indios, migrantes), destruyendo la posibilidad de un diálogo intercultural simétrico y socavando los cimientos de la convivencia democrática republicana. -->
 - [ ] D) El colapso de las exportaciones de cobre de la sierra peruana hacia el continente europeo
   <!-- feedback: Incorrecto. Las exportaciones de metales pesados no dependen directamente de la deconstrucción ética de falacias sobre racismo en medios locales. -->

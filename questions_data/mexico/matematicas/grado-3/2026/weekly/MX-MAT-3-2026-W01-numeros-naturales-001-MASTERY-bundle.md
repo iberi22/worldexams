@@ -29,9 +29,9 @@ creador: "Jules-Agent"
 En el número 4,372, ¿qué valor de lugar tiene el dígito 7?
 
 ### Opciones
-- [x] A) Decenas
+- [x] B) Decenas
   <!-- feedback: El 7 está en la segunda posición desde la derecha, que corresponde a las decenas; por eso vale 70. -->
-- [ ] B) Unidades
+- [ ] A) Unidades
   <!-- feedback: Las unidades es la primera posición desde la derecha; ahí está el 2, no el 7. -->
 - [ ] C) Centenas
   <!-- feedback: Las centenas es la tercera posición desde la derecha; ahí está el 3, no el 7. -->
@@ -51,9 +51,9 @@ El sistema decimal es posicional: el valor de cada cifra depende de su lugar. De
 ¿Cuál es la lectura correcta del número 8,705?
 
 ### Opciones
-- [x] A) Ocho mil setecientos cinco
+- [x] B) Ocho mil setecientos cinco
   <!-- feedback: Se lee primero las unidades de millar (ocho mil), después las centenas (setecientos) y al final las unidades (cinco). -->
-- [ ] B) Ochenta y siete mil cinco
+- [ ] A) Ochenta y siete mil cinco
   <!-- feedback: Ese sería el número 87,005; el 8 de 8,705 está en el lugar de las unidades de millar, no de las decenas de millar. -->
 - [ ] C) Ocho mil setenta y cinco
   <!-- feedback: Ese sería el número 8,075; en 8,705 el 7 está en las centenas, no en las decenas. -->
@@ -73,11 +73,11 @@ Leer números exige identificar el valor de lugar de cada cifra y agruparlo corr
 ¿Cuál comparación es correcta entre las dos cantidades?
 
 ### Opciones
-- [x] A) 2,489 < 2,498
+- [x] C) 2,489 < 2,498
   <!-- feedback: Al comparar de izquierda a derecha, las unidades de millar y las centenas coinciden; en las decenas, 8 es menor que 9, así que 2,489 < 2,498. -->
-- [ ] B) 2,489 > 2,498
+- [ ] A) 2,489 > 2,498
   <!-- feedback: Aunque el 9 aparece primero, está en las unidades del número menor; en las decenas, 8 es menor que 9. -->
-- [ ] C) 2,489 = 2,498
+- [ ] B) 2,489 = 2,498
   <!-- feedback: Los números no son iguales: difieren en el lugar de las decenas (8 contra 9). -->
 - [ ] D) 2,489 ≈ 2,489
   <!-- feedback: Esta comparación no establece relación de orden entre las dos cantidades distintas del problema. -->
@@ -95,9 +95,9 @@ Para comparar números de la misma cantidad de cifras se recorre el número de i
 ¿Cuál es el orden de menor a mayor altura?
 
 ### Opciones
-- [x] A) Nevado de Toluca, Iztaccíhuatl, Popocatépetl, Pico de Orizaba
+- [x] B) Nevado de Toluca, Iztaccíhuatl, Popocatépetl, Pico de Orizaba
   <!-- feedback: 4,680 < 5,230 < 5,452 < 5,610 corresponde al orden creciente correcto. -->
-- [ ] B) Pico de Orizaba, Popocatépetl, Iztaccíhuatl, Nevado de Toluca
+- [ ] A) Pico de Orizaba, Popocatépetl, Iztaccíhuatl, Nevado de Toluca
   <!-- feedback: Ese es el orden decreciente; el problema pide de menor a mayor. -->
 - [ ] C) Nevado de Toluca, Popocatépetl, Iztaccíhuatl, Pico de Orizaba
   <!-- feedback: 5,452 es mayor que 5,230, así que Popocatépetl no va antes que Iztaccíhuatl. -->
@@ -117,13 +117,13 @@ Ordenar números exige comparar primero el número de cifras y, entre los de igu
 ¿Qué número continúa la secuencia?
 
 ### Opciones
-- [x] A) 200
+- [x] D) 200
   <!-- feedback: La regla del patrón es sumar 20 al término anterior: 180 + 20 = 200. -->
-- [ ] B) 190
+- [ ] A) 190
   <!-- feedback: 190 implicaría sumar solo 10; el patrón constante de la secuencia es +20. -->
-- [ ] C) 210
+- [ ] B) 210
   <!-- feedback: 210 correspondería al término siguiente, no al que continúa inmediatamente después de 180. -->
-- [ ] D) 220
+- [ ] C) 220
   <!-- feedback: 220 se obtendría sumando 40; la secuencia avanza de 20 en 20. -->
 
 ### Explicacion Pedagogica
@@ -183,13 +183,13 @@ Resolver acertijos con pistas exige traducir cada condición al lugar correcto d
 ¿Quién hizo una afirmación correcta?
 
 ### Opciones
-- [x] A) Solo Ana
+- [x] D) Solo Ana
   <!-- feedback: Las decenas son 9 (≥ 5), así que al redondear a la centena 6,495 se convierte en 6,500; Beto debió escribir 6,500 y Carla debió decir que el 4 vale 400. -->
-- [ ] B) Solo Beto
+- [ ] A) Solo Beto
   <!-- feedback: Al redondear 6,495 a la decena, la unidad 5 sube la decena: el resultado es 6,500, no 6,490. -->
-- [ ] C) Solo Carla
+- [ ] B) Solo Carla
   <!-- feedback: El 4 está en las centenas y vale 400, no 40. -->
-- [ ] D) Ana y Beto
+- [ ] C) Ana y Beto
   <!-- feedback: La afirmación de Beto es incorrecta porque 6,495 redondeado a la decena es 6,500. -->
 
 ### Explicacion Pedagogica

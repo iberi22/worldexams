@@ -36,9 +36,9 @@ This bundle focuses on using "be going to" to express intentions, plans, and pre
 Which auxiliary verb is essential to form the "going to" future?
 
 ### Opciones
-- [ ] A) Do
+- [ ] B) Do
   <!-- feedback: Incorrect. "Do" is for present simple. -->
-- [x] B) Be (Am, Is, Are)
+- [x] A) Be (Am, Is, Are)
   <!-- feedback: Correct! "Be going to" requires the verb to be conjugated correctly. -->
 - [ ] C) Have
   <!-- feedback: Incorrect. "Have" is for perfect tenses. -->
@@ -113,11 +113,11 @@ Choose the correct question about someone's future intentions.
 ### Opciones
 - [ ] A) What you are going to do?
   <!-- feedback: Incorrect. The verb "be" must come before the subject in a question. -->
-- [x] B) What are you going to do?
+- [x] D) What are you going to do?
   <!-- feedback: Correct! Standard auxiliary + subject + going to + verb structure. -->
-- [ ] C) What do you going to do?
+- [ ] B) What do you going to do?
   <!-- feedback: Incorrect. Don't use "do" with "going to". -->
-- [ ] D) Are you will go to do?
+- [ ] C) Are you will go to do?
   <!-- feedback: Incorrect. Grammatically wrong. -->
 
 ### Explicacion Pedagogica
@@ -138,9 +138,9 @@ The student understands the word order requirements for questions in the "going 
 ### Opciones
 - [ ] A) is go to
   <!-- feedback: Incorrect. Missing "ing". -->
-- [x] B) is going to
+- [x] C) is going to
   <!-- feedback: Correct! "Is going to" is used for predictions based on current evidence. -->
-- [ ] C) are going to
+- [ ] B) are going to
   <!-- feedback: Incorrect. "It" (weather) is singular. -->
 - [ ] D) going to
   <!-- feedback: Incorrect. Missing the auxiliary. -->
@@ -187,11 +187,11 @@ The student applies reading strategies to understand negative intentions in a pl
 "Camilo is studying very hard. He ________ be a doctor when he grows up."
 
 ### Opciones
-- [ ] A) going to
+- [ ] B) going to
   <!-- feedback: Incorrect. Missing "is". -->
-- [ ] B) am going to
+- [ ] C) am going to
   <!-- feedback: Incorrect. For "He", use "is". -->
-- [x] C) is going to
+- [x] A) is going to
   <!-- feedback: Correct! Shows a firm intention or plan based on his current effort. -->
 - [ ] D) are going to
   <!-- feedback: Incorrect. For plural. -->
@@ -214,9 +214,9 @@ Which negative sentence is grammatically correct?
 ### Opciones
 - [ ] A) I not going to eat junk food.
   <!-- feedback: Incorrect. Missing "am". -->
-- [ ] B) I don't going to eat junk food.
+- [ ] C) I don't going to eat junk food.
   <!-- feedback: Incorrect. Use "am not" for "going to". -->
-- [x] C) I am not going to eat junk food.
+- [x] B) I am not going to eat junk food.
   <!-- feedback: Correct! Auxiliary "am" + "not" + "going to". -->
 - [ ] D) I am going to not eat junk food.
   <!-- feedback: Incorrect. "Not" should come after the verb "be". -->
@@ -238,13 +238,13 @@ The student analyzes the position of the negative particle "not" within the "be 
 Which sentence accurately describes their plans using "going to"?
 
 ### Opciones
-- [x] A) Ana is going to travel to Cali.
+- [x] D) Ana is going to travel to Cali.
   <!-- feedback: Correct! Having a ticket shows a definite plan/evidence. -->
-- [ ] B) Luis is going to travel to Cali.
+- [ ] A) Luis is going to travel to Cali.
   <!-- feedback: Incorrect. He only "might" go; it's not a definite plan yet. -->
-- [ ] C) Both are going to travel to Cali.
+- [ ] B) Both are going to travel to Cali.
   <!-- feedback: Incorrect. Only Ana has a confirmed plan. -->
-- [ ] D) Neither is going to travel.
+- [ ] C) Neither is going to travel.
   <!-- feedback: Incorrect. Ana is definitely planning to. -->
 
 ### Explicacion Pedagogica
@@ -266,9 +266,9 @@ What is the best evaluation of this student's intentions?
 ### Opciones
 - [ ] A) The student is lazy and wants more help.
   <!-- feedback: Incorrect. Asking questions and starting earlier shows initiative. -->
-- [x] B) The student has a proactive plan to achieve better academic results.
+- [x] C) The student has a proactive plan to achieve better academic results.
   <!-- feedback: Correct! Both intentions (starting earlier and asking questions) are proactive steps toward the goal. -->
-- [ ] C) The student is going to fail because they have too many plans.
+- [ ] B) The student is going to fail because they have too many plans.
   <!-- feedback: Incorrect. The plans are realistic and positive. -->
 - [ ] D) The student only cares about asking questions.
   <!-- feedback: Incorrect. They also plan to start homework earlier. -->

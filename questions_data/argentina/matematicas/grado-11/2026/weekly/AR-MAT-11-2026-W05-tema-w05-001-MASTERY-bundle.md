@@ -31,8 +31,8 @@ Dada la función polinómica $P(x) = -2x^3 + 5x^2 - x^4 + 7$, ¿cuál es el grad
 
 ### Opciones
 - [ ] A) Grado 3, coeficiente principal $-2$. <!-- feedback: Incorrecto. El grado está determinado por el mayor exponente de la variable. -->
-- [x] B) Grado 4, coeficiente principal $-1$. <!-- feedback: Correcto. El mayor exponente de $x$ es 4, lo que define el grado. El coeficiente que acompaña a $x^4$ es $-1$. -->
-- [ ] C) Grado 4, coeficiente principal $7$. <!-- feedback: Incorrecto. $7$ es el término independiente. -->
+- [x] C) Grado 4, coeficiente principal $-1$. <!-- feedback: Correcto. El mayor exponente de $x$ es 4, lo que define el grado. El coeficiente que acompaña a $x^4$ es $-1$. -->
+- [ ] B) Grado 4, coeficiente principal $7$. <!-- feedback: Incorrecto. $7$ es el término independiente. -->
 - [ ] D) Grado 3, coeficiente principal $5$. <!-- feedback: Incorrecto. Esta no es la potencia dominante del polinomio. -->
 
 ### Explicacion Pedagogica
@@ -52,8 +52,8 @@ Según el teorema del resto, ¿cuál es el resto de dividir un polinomio $P(x)$ 
 
 ### Opciones
 - [ ] A) El valor $P(-a)$. <!-- feedback: Incorrecto. Se debe sustituir el valor de $a$ con el signo opuesto. -->
-- [x] B) El valor $P(a)$. <!-- feedback: Correcto. El teorema del resto establece que el residuo de la división de un polinomio $P(x)$ por $x - a$ es igual a evaluar el polinomio en $a$. -->
-- [ ] C) El valor constante $0$. <!-- feedback: Incorrecto. Esto ocurre únicamente si $a$ es una raíz del polinomio. -->
+- [x] C) El valor $P(a)$. <!-- feedback: Correcto. El teorema del resto establece que el residuo de la división de un polinomio $P(x)$ por $x - a$ es igual a evaluar el polinomio en $a$. -->
+- [ ] B) El valor constante $0$. <!-- feedback: Incorrecto. Esto ocurre únicamente si $a$ es una raíz del polinomio. -->
 - [ ] D) El coeficiente principal de $P(x)$. <!-- feedback: Incorrecto. El resto es un número real que no necesariamente es igual al coeficiente principal. -->
 
 ### Explicacion Pedagogica
@@ -72,8 +72,8 @@ El teorema del resto es una herramienta algebraica que permite calcular directam
 ¿Cuál de los siguientes divisores tiene la forma requerida para poder aplicar de manera directa la regla de Ruffini en la división de polinomios?
 
 ### Opciones
-- [ ] A) $x^2 - 1$ <!-- feedback: Incorrecto. El divisor debe ser de primer grado. -->
-- [x] B) $x - 3$ <!-- feedback: Correcto. La regla de Ruffini es aplicable para divisiones donde el divisor es un binomio mónico de primer grado de la forma $x - a$. -->
+- [ ] B) $x^2 - 1$ <!-- feedback: Incorrecto. El divisor debe ser de primer grado. -->
+- [x] A) $x - 3$ <!-- feedback: Correcto. La regla de Ruffini es aplicable para divisiones donde el divisor es un binomio mónico de primer grado de la forma $x - a$. -->
 - [ ] C) $2x + 4$ <!-- feedback: Incorrecto. El coeficiente de $x$ debe ser exactamente igual a 1 (mónico) para aplicarse directamente. -->
 - [ ] D) $\frac{1}{x - 1}$ <!-- feedback: Incorrecto. Este término representa una fracción algebraica, no un polinomio divisor. -->
 
@@ -94,9 +94,9 @@ Si una función polinómica tiene una raíz real de multiplicidad par (por ejemp
 
 ### Opciones
 - [ ] A) Cruza el eje horizontal de forma perfectamente recta. <!-- feedback: Incorrecto. Esto ocurre en raíces simples de multiplicidad 1. -->
-- [x] B) Toca el eje horizontal pero no lo cruza, rebotando en él. <!-- feedback: Correcto. Las raíces de multiplicidad par producen un 'rebote' gráfico en el eje $x$, conservando el signo de la ordenada. -->
-- [ ] C) La gráfica presenta una asíntota vertical en esa posición. <!-- feedback: Incorrecto. Las funciones polinómicas son continuas en todos los reales y no poseen asíntotas. -->
-- [ ] D) Cruza el eje horizontal formando una meseta (punto de inflexión). <!-- feedback: Incorrecto. Esto describe a raíces de multiplicidad impar mayor a 1 (como multiplicidad 3). -->
+- [x] D) Toca el eje horizontal pero no lo cruza, rebotando en él. <!-- feedback: Correcto. Las raíces de multiplicidad par producen un 'rebote' gráfico en el eje $x$, conservando el signo de la ordenada. -->
+- [ ] B) La gráfica presenta una asíntota vertical en esa posición. <!-- feedback: Incorrecto. Las funciones polinómicas son continuas en todos los reales y no poseen asíntotas. -->
+- [ ] C) Cruza el eje horizontal formando una meseta (punto de inflexión). <!-- feedback: Incorrecto. Esto describe a raíces de multiplicidad impar mayor a 1 (como multiplicidad 3). -->
 
 ### Explicacion Pedagogica
 La multiplicidad de una raíz determina el comportamiento de la gráfica en su intersección con el eje $x$. Multiplicidad par implica rebote; multiplicidad impar implica cruce.
@@ -136,9 +136,9 @@ Dada la función racional $f(x) = \frac{6x^2 + 1}{2x^2 - 4}$, ¿cuál es la ecua
 
 ### Opciones
 - [ ] A) $y = 6$ <!-- feedback: Incorrecto. No divide el coeficiente del término dominante del denominador. -->
-- [x] B) $y = 3$ <!-- feedback: Correcto. Como los grados de numerador y denominador son iguales, la asíntota horizontal es el cociente de los coeficientes principales: $y = 6/2 = 3$. -->
-- [ ] C) $x = 2$ <!-- feedback: Incorrecto. Esto describe las asíntotas verticales. -->
-- [ ] D) No posee asíntota horizontal. <!-- feedback: Incorrecto. Al tener igual grado, sí posee una asíntota horizontal constante. -->
+- [x] D) $y = 3$ <!-- feedback: Correcto. Como los grados de numerador y denominador son iguales, la asíntota horizontal es el cociente de los coeficientes principales: $y = 6/2 = 3$. -->
+- [ ] B) $x = 2$ <!-- feedback: Incorrecto. Esto describe las asíntotas verticales. -->
+- [ ] C) No posee asíntota horizontal. <!-- feedback: Incorrecto. Al tener igual grado, sí posee una asíntota horizontal constante. -->
 
 ### Explicacion Pedagogica
 Para funciones racionales con igual grado en numerador y denominador, la asíntota horizontal se obtiene como el cociente de los coeficientes principales de ambos polinomios.
@@ -157,8 +157,8 @@ Utilizá la regla de Ruffini para encontrar el resto de dividir el polinomio $P(
 
 ### Opciones
 - [ ] A) Resto = $-1$ <!-- feedback: Incorrecto. Error de signo al operar los términos intermedios. -->
-- [ ] B) Resto = $5$ <!-- feedback: Incorrecto. Este sería el valor del resto si la raíz fuera otra. -->
-- [x] C) Resto = $-5$ <!-- feedback: Correcto. Aplicando el teorema del resto o Ruffini para $x=2$: $P(2) = 2^3 - 3(2)^2 + 2(2) - 5 = 8 - 12 + 4 - 5 = -5$. -->
+- [ ] C) Resto = $5$ <!-- feedback: Incorrecto. Este sería el valor del resto si la raíz fuera otra. -->
+- [x] B) Resto = $-5$ <!-- feedback: Correcto. Aplicando el teorema del resto o Ruffini para $x=2$: $P(2) = 2^3 - 3(2)^2 + 2(2) - 5 = 8 - 12 + 4 - 5 = -5$. -->
 - [ ] D) Resto = $0$ <!-- feedback: Incorrecto. El binomio $x-2$ no es un divisor exacto de $P(x)$. -->
 
 ### Explicacion Pedagogica
@@ -178,9 +178,9 @@ La concentración de un fármaco viene dada por la función racional $C(t) = \fr
 
 ### Opciones
 - [ ] A) Tiende a $4$. <!-- feedback: Incorrecto. Esto ocurriría si los grados fueran iguales. -->
-- [x] B) Tiende a $0$. <!-- feedback: Correcto. Como el grado del denominador ($2$) es mayor que el del numerador ($1$), cuando $t \to \infty$, la función tiende a cero. -->
-- [ ] C) Tiende a infinito. <!-- feedback: Incorrecto. El denominador crece mucho más rápido que el numerador, amortiguando la concentración. -->
-- [ ] D) Tiende a $2$. <!-- feedback: Incorrecto. El valor independiente de la constante no define el límite al infinito. -->
+- [x] D) Tiende a $0$. <!-- feedback: Correcto. Como el grado del denominador ($2$) es mayor que el del numerador ($1$), cuando $t \to \infty$, la función tiende a cero. -->
+- [ ] B) Tiende a infinito. <!-- feedback: Incorrecto. El denominador crece mucho más rápido que el numerador, amortiguando la concentración. -->
+- [ ] C) Tiende a $2$. <!-- feedback: Incorrecto. El valor independiente de la constante no define el límite al infinito. -->
 
 ### Explicacion Pedagogica
 Cuando el grado del denominador de una función racional es estrictamente mayor que el grado del numerador, el límite de la función a medida que la variable independiente tiende a infinito es igual a cero.
@@ -199,8 +199,8 @@ La función de costo promedio unitario está modelada por $f(x) = \frac{50x + 20
 
 ### Opciones
 - [ ] A) $y = 2000$, representa el costo de la primera unidad. <!-- feedback: Incorrecto. 2000 es el costo fijo total. -->
-- [x] B) $y = 50$, representa el costo promedio mínimo de producción a gran escala. <!-- feedback: Correcto. La asíntota horizontal es $y=50$. A medida que se producen infinitas unidades, el costo promedio por calzado se aproxima a $\$50$, licuando los costos fijos. -->
-- [ ] C) $y = 0$, representa que producir muchas unidades no tiene costo. <!-- feedback: Incorrecto. Siempre hay un costo variable mínimo asociado. -->
+- [x] C) $y = 50$, representa el costo promedio mínimo de producción a gran escala. <!-- feedback: Correcto. La asíntota horizontal es $y=50$. A medida que se producen infinitas unidades, el costo promedio por calzado se aproxima a $\$50$, licuando los costos fijos. -->
+- [ ] B) $y = 0$, representa que producir muchas unidades no tiene costo. <!-- feedback: Incorrecto. Siempre hay un costo variable mínimo asociado. -->
 - [ ] D) $y = 100$, representa el costo fijo unitario ponderado. <!-- feedback: Incorrecto. El costo variable unitario es 50. -->
 
 ### Explicacion Pedagogica
@@ -220,9 +220,9 @@ Dado el polinomio cúbico $P(x) = x^3 - 4x^2 + x + 6$, y sabiendo que $x = -1$ e
 
 ### Opciones
 - [ ] A) $x = 1$ y $x = 6$ <!-- feedback: Incorrecto. El producto de las raíces no coincide con el término independiente. -->
-- [x] B) $x = 2$ y $x = 3$ <!-- feedback: Correcto. Al dividir $P(x)$ por $(x + 1)$ usando Ruffini se obtiene el polinomio cuadrático $x^2 - 5x + 6$. Sus raíces son $x = 2$ y $x = 3$. -->
-- [ ] C) $x = -2$ y $x = -3$ <!-- feedback: Incorrecto. Darían signos opuestos en la factorización. -->
-- [ ] D) $x = 0$ y $x = 4$ <!-- feedback: Incorrecto. No son raíces del polinomio cúbico. -->
+- [x] D) $x = 2$ y $x = 3$ <!-- feedback: Correcto. Al dividir $P(x)$ por $(x + 1)$ usando Ruffini se obtiene el polinomio cuadrático $x^2 - 5x + 6$. Sus raíces son $x = 2$ y $x = 3$. -->
+- [ ] B) $x = -2$ y $x = -3$ <!-- feedback: Incorrecto. Darían signos opuestos en la factorización. -->
+- [ ] C) $x = 0$ y $x = 4$ <!-- feedback: Incorrecto. No son raíces del polinomio cúbico. -->
 
 ### Explicacion Pedagogica
 Dividiendo $P(x)$ por el factor conocido $(x+1)$ mediante Ruffini, obtenemos el polinomio reducido $x^2 - 5x + 6$. Resolviendo la ecuación cuadrática resultante encontramos que las otras raíces son $2$ y $3$.
@@ -240,8 +240,8 @@ Dividiendo $P(x)$ por el factor conocido $(x+1)$ mediante Ruffini, obtenemos el 
 Calculá la ecuación de la asíntota oblicua de la función racional $f(x) = \frac{2x^2 + 3x + 1}{x - 1}$.
 
 ### Opciones
-- [ ] A) $y = 2x$ <!-- feedback: Incorrecto. Falta el término independiente obtenido al realizar el cociente. -->
-- [x] B) $y = 2x + 5$ <!-- feedback: Correcto. Realizando la división polinómica del numerador por el denominador, se obtiene como cociente $2x + 5$ y resto $6$. La ecuación de la asíntota oblicua es $y = 2x + 5$. -->
+- [ ] B) $y = 2x$ <!-- feedback: Incorrecto. Falta el término independiente obtenido al realizar el cociente. -->
+- [x] A) $y = 2x + 5$ <!-- feedback: Correcto. Realizando la división polinómica del numerador por el denominador, se obtiene como cociente $2x + 5$ y resto $6$. La ecuación de la asíntota oblicua es $y = 2x + 5$. -->
 - [ ] C) $y = 2x - 3$ <!-- feedback: Incorrecto. Error en los signos de la división polinómica. -->
 - [ ] D) No posee asíntota oblicua. <!-- feedback: Incorrecto. Como el grado del numerador es exactamente uno mayor que el del denominador, sí posee asíntota oblicua. -->
 
@@ -325,9 +325,9 @@ Resolvé la inecuación polinómica $(x - 1)(x - 3)(x + 2) \ge 0$ para encontrar
 
 ### Opciones
 - [ ] A) $[-2, 1] \cup [3, +\\infty)$ <!-- feedback: Incorrecto. Verificá los corchetes y paréntesis en la unión. -->
-- [x] B) $[-2, 1] \cup [3, +\infty)$ <!-- feedback: Correcto. Los puntos críticos son $-2$, $1$ y $3$. Evaluando los signos por intervalos, la expresión es positiva en $[-2, 1]$ y en $[3, +\infty)$. -->
-- [ ] C) $(-\\infty, -2] \cup [1, 3]$ <!-- feedback: Incorrecto. En este rango la función toma valores menores o iguales a cero. -->
-- [ ] D) $[-2, 3]$ <!-- feedback: Incorrecto. Omite evaluar correctamente el signo en el intervalo entre 1 y 3. -->
+- [x] D) $[-2, 1] \cup [3, +\infty)$ <!-- feedback: Correcto. Los puntos críticos son $-2$, $1$ y $3$. Evaluando los signos por intervalos, la expresión es positiva en $[-2, 1]$ y en $[3, +\infty)$. -->
+- [ ] B) $(-\\infty, -2] \cup [1, 3]$ <!-- feedback: Incorrecto. En este rango la función toma valores menores o iguales a cero. -->
+- [ ] C) $[-2, 3]$ <!-- feedback: Incorrecto. Omite evaluar correctamente el signo en el intervalo entre 1 y 3. -->
 
 ### Explicacion Pedagogica
 La resolución se realiza determinando los signos de cada factor en los intervalos delimitados por las raíces reales de la función. El producto es positivo en los intervalos $[-2, 1]$ y $[3, +\infty)$.
@@ -346,8 +346,8 @@ Dada la función racional $f(x) = \frac{ax^3 + 2x^2}{3x^3 - x + 1}$, ¿cuál deb
 
 ### Opciones
 - [ ] A) $a = 4$ <!-- feedback: Incorrecto. Si $a=4$, la asíntota sería $y = 4/3$. -->
-- [x] B) $a = 12$ <!-- feedback: Correcto. Como los grados de numerador y denominador son iguales a 3, la asíntota horizontal es $y = a/3$. Para que sea igual a 4: $a/3 = 4 \Rightarrow a = 12$. -->
-- [ ] C) $a = 3$ <!-- feedback: Incorrecto. Daría una asíntota horizontal en $y = 1$. -->
+- [x] C) $a = 12$ <!-- feedback: Correcto. Como los grados de numerador y denominador son iguales a 3, la asíntota horizontal es $y = a/3$. Para que sea igual a 4: $a/3 = 4 \Rightarrow a = 12$. -->
+- [ ] B) $a = 3$ <!-- feedback: Incorrecto. Daría una asíntota horizontal en $y = 1$. -->
 - [ ] D) $a = 2$ <!-- feedback: Incorrecto. No cumple con la ecuación de la asíntota pedida. -->
 
 ### Explicacion Pedagogica
@@ -367,8 +367,8 @@ Una función racional de la forma $f(x) = \frac{ax + b}{x + c}$ tiene una asínt
 
 ### Opciones
 - [ ] A) $a = 2, b = 4, c = 3$ <!-- feedback: Incorrecto. El valor de la asíntota vertical implica que $c=2$. -->
-- [x] B) $a = 3, b = 8, c = 2$ <!-- feedback: Correcto. Asíntota vertical en $x = -2 \Rightarrow c = 2$. Asíntota horizontal en $y = 3 \Rightarrow a/1 = 3 \Rightarrow a = 3$. Corte en el eje y en $y=4 \Rightarrow f(0) = b/c = 4 \Rightarrow b/2 = 4 \Rightarrow b = 8$. -->
-- [ ] C) $a = 3, b = 4, c = -2$ <!-- feedback: Incorrecto. Si $c = -2$ la asíntota vertical estaría en $x=2$ positivo. -->
+- [x] C) $a = 3, b = 8, c = 2$ <!-- feedback: Correcto. Asíntota vertical en $x = -2 \Rightarrow c = 2$. Asíntota horizontal en $y = 3 \Rightarrow a/1 = 3 \Rightarrow a = 3$. Corte en el eje y en $y=4 \Rightarrow f(0) = b/c = 4 \Rightarrow b/2 = 4 \Rightarrow b = 8$. -->
+- [ ] B) $a = 3, b = 4, c = -2$ <!-- feedback: Incorrecto. Si $c = -2$ la asíntota vertical estaría en $x=2$ positivo. -->
 - [ ] D) $a = 1, b = 2, c = 4$ <!-- feedback: Incorrecto. No verifica ninguno de los parámetros asintóticos de la función dada. -->
 
 ### Explicacion Pedagogica
@@ -387,8 +387,8 @@ Despejamos cada parámetro secuencialmente: $c=2$ de la asíntota vertical; $a=3
 Dada la función racional $f(x) = \frac{x^2 - 1}{x^2 - 2x - 3}$, ¿cuáles son las asíntotas y puntos de discontinuidad evitable de esta función?
 
 ### Opciones
-- [ ] A) Asíntota vertical en $x = -1$, asíntota horizontal en $y = 1$, hueco en $x = 3$. <!-- feedback: Incorrecto. El factor $(x+1)$ se simplifica, por lo que la discontinuidad evitable ocurre en $x = -1$. -->
-- [x] B) Asíntota vertical en $x = 3$, asíntota horizontal en $y = 1$, hueco en $x = -1$. <!-- feedback: Correcto. Factorizando: $\frac{(x-1)(x+1)}{(x-3)(x+1)}$. El factor $(x+1)$ se anula en ambos dando un hueco en $x = -1$. El denominador se anula de forma única en $x = 3$ dando una asíntota vertical. Al tener igual grado, la asíntota horizontal es $y = 1$. -->
+- [ ] B) Asíntota vertical en $x = -1$, asíntota horizontal en $y = 1$, hueco en $x = 3$. <!-- feedback: Incorrecto. El factor $(x+1)$ se simplifica, por lo que la discontinuidad evitable ocurre en $x = -1$. -->
+- [x] A) Asíntota vertical en $x = 3$, asíntota horizontal en $y = 1$, hueco en $x = -1$. <!-- feedback: Correcto. Factorizando: $\frac{(x-1)(x+1)}{(x-3)(x+1)}$. El factor $(x+1)$ se anula en ambos dando un hueco en $x = -1$. El denominador se anula de forma única en $x = 3$ dando una asíntota vertical. Al tener igual grado, la asíntota horizontal es $y = 1$. -->
 - [ ] C) Asíntotas verticales en $x = 3$ y $x = -1$, asíntota horizontal en $y = 0$. <!-- feedback: Incorrecto. Ignora que el factor común se puede simplificar eliminando una asíntota vertical. -->
 - [ ] D) No posee asíntotas de ningún tipo. <!-- feedback: Incorrecto. Sí presenta comportamiento asintótico tanto vertical como horizontal. -->
 
@@ -408,8 +408,8 @@ Mediante factorización completa $\frac{(x-1)(x+1)}{(x-3)(x+1)}$, identificamos 
 Evaluá la veracidad de la siguiente afirmación: 'La gráfica de una función racional nunca puede cortar o cruzar a su propia asíntota horizontal'. ¿Es esta afirmación verdadera o falsa?
 
 ### Opciones
-- [ ] A) Verdadera, porque una asíntota es por definición una línea invisible e infranqueable que la gráfica no puede tocar. <!-- feedback: Incorrecto. Confunde el comportamiento asintótico global en el infinito con restricciones locales. -->
-- [x] B) Falsa, porque la definición de asíntota horizontal describe únicamente el comportamiento límite en el infinito ($x \to \pm\infty$); a valores finitos de $x$, la gráfica sí puede cruzar la asíntota horizontal. <!-- feedback: Correcto. Una función racional puede cruzarse con su asíntota horizontal para valores finitos de $x$. La restricción de no tocar la recta solo se aplica en el comportamiento límite cuando $x$ tiende a infinito. -->
+- [ ] B) Verdadera, porque una asíntota es por definición una línea invisible e infranqueable que la gráfica no puede tocar. <!-- feedback: Incorrecto. Confunde el comportamiento asintótico global en el infinito con restricciones locales. -->
+- [x] A) Falsa, porque la definición de asíntota horizontal describe únicamente el comportamiento límite en el infinito ($x \to \pm\infty$); a valores finitos de $x$, la gráfica sí puede cruzar la asíntota horizontal. <!-- feedback: Correcto. Una función racional puede cruzarse con su asíntota horizontal para valores finitos de $x$. La restricción de no tocar la recta solo se aplica en el comportamiento límite cuando $x$ tiende a infinito. -->
 - [ ] C) Verdadera, pero solo si la función tiene un grado impar en su denominador. <!-- feedback: Incorrecto. El grado del polinomio no impide que localmente se cruce con la recta asintótica. -->
 - [ ] D) Falsa, porque las asíntotas horizontales solo existen si el numerador es de mayor grado. <!-- feedback: Incorrecto. Si el numerador es de mayor grado, no posee asíntota horizontal (posee oblicua). -->
 
@@ -429,8 +429,8 @@ La asíntota horizontal describe el comportamiento de la función en el extremo 
 Para hallar las raíces racionales del polinomio $P(x) = 2x^3 - x^2 + 5x - 3$, un estudiante propone que las únicas posibles raíces racionales son los divisores del término independiente: $\pm 1$ y $\pm 3$. Evaluá la validez matemática de este criterio.
 
 ### Opciones
-- [ ] A) El criterio es completamente válido y no requiere modificaciones. <!-- feedback: Incorrecto. El estudiante se olvidó de considerar los divisores del coeficiente principal. -->
-- [x] B) Es incorrecto porque, según el teorema de las raíces racionales, las posibles raíces tienen la forma $p/q$, donde $p$ divide al término independiente ($-3$) y $q$ divide al coeficiente principal ($2$), incluyendo candidatos como $\pm \frac{1}{2}$ y $\pm \frac{3}{2}$. <!-- feedback: Correcto. Deben considerarse los divisores de ambos términos para armar todas las combinaciones fraccionarias posibles $p/q$. -->
+- [ ] B) El criterio es completamente válido y no requiere modificaciones. <!-- feedback: Incorrecto. El estudiante se olvidó de considerar los divisores del coeficiente principal. -->
+- [x] A) Es incorrecto porque, según el teorema de las raíces racionales, las posibles raíces tienen la forma $p/q$, donde $p$ divide al término independiente ($-3$) y $q$ divide al coeficiente principal ($2$), incluyendo candidatos como $\pm \frac{1}{2}$ y $\pm \frac{3}{2}$. <!-- feedback: Correcto. Deben considerarse los divisores de ambos términos para armar todas las combinaciones fraccionarias posibles $p/q$. -->
 - [ ] C) Es incorrecto porque el teorema de las raíces racionales solo se aplica a polinomios de grado par. <!-- feedback: Incorrecto. Se aplica a cualquier polinomio de coeficientes enteros sin importar su grado. -->
 - [ ] D) Es correcto únicamente si el coeficiente principal es un número irracional. <!-- feedback: Incorrecto. Los coeficientes del polinomio deben ser enteros. -->
 

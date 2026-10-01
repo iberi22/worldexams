@@ -36,9 +36,9 @@ La actual Constitución Política de Colombia fue expedida por
 ### Opciones
 - [ ] A) el presidente de la República mediante decreto extraordinario.
   <!-- feedback: Incorrecto. La Carta de 1991 no fue expedida por decreto presidencial sino por una Asamblea Constituyente elegida popularmente. -->
-- [ ] B) el Congreso de la República en sesión ordinaria de 1990.
+- [ ] C) el Congreso de la República en sesión ordinaria de 1990.
   <!-- feedback: Incorrecto. El Congreso ordinario no tiene facultad de dictar una nueva Constitución; la Carta vigente fue producto de la Asamblea Constituyente. -->
-- [x] C) la Asamblea Nacional Constituyente elegida el 9 de diciembre de 1990.
+- [x] B) la Asamblea Nacional Constituyente elegida el 9 de diciembre de 1990.
   <!-- feedback: Correcto. Los colombianos eligieron el 9 de diciembre de 1990 a los delegatarios de la Asamblea que redactó y promulgó la Carta de 1991. -->
 - [ ] D) la Corte Constitucional en ejercicio de sus funciones.
   <!-- feedback: Incorrecto. La Corte Constitucional fue creada por esa misma Constitución, no podía expedirla antes de existir formalmente. -->
@@ -57,9 +57,9 @@ La Constitución de 1991 fue producto de una crisis de representación que se ex
 Una innovación democrática central de la Constitución de 1991 fue
 
 ### Opciones
-- [x] A) la elección popular directa de gobernadores departamentales, que antes eran designados por el presidente.
+- [x] B) la elección popular directa de gobernadores departamentales, que antes eran designados por el presidente.
   <!-- feedback: Correcto. Antes de 1991 los gobernadores eran designados por el ejecutivo; la Carta de 1991 estableció su elección popular por cuatro años. -->
-- [ ] B) la eliminación completa del Senado y la Cámara de Representantes.
+- [ ] A) la eliminación completa del Senado y la Cámara de Representantes.
   <!-- feedback: Incorrecto. El Congreso bicameral se mantuvo; lo que se amplió fueron los mecanismos de participación ciudadana. -->
 - [ ] C) la supresión del voto programático para los alcaldes.
   <!-- feedback: Incorrecto. Por el contrario, la Constitución de 1991 mantuvo el voto programático como instrumento de rendición de cuentas a los alcaldes. -->
@@ -82,9 +82,9 @@ La Constitución de 1991 profundizó la descentralización mediante la elección
 ### Opciones
 - [ ] A) Nación, departamento y corregimiento.
   <!-- feedback: Incorrecto. La Nación no es una entidad territorial en el sentido estricto; los departamentos, municipios y distritos son los niveles principales. -->
-- [ ] B) Estado central, regiones autónomas y cantones.
+- [ ] C) Estado central, regiones autónomas y cantones.
   <!-- feedback: Incorrecto. Colombia no tiene regiones autónomas ni cantones; su modelo es departamental, municipal y distrital. -->
-- [x] C) Departamentos, municipios y distritos.
+- [x] B) Departamentos, municipios y distritos.
   <!-- feedback: Correcto. El artículo 286 de la Constitución reconoce como entidades territoriales a departamentos, municipios y distritos. -->
 - [ ] D) Provincias, municipios y veredas.
   <!-- feedback: Incorrecto. Las provincias son asociaciones de municipios y las veredas son divisiones rurales internas, no entidades territoriales principales. -->
@@ -126,9 +126,9 @@ Los mecanismos de participación son instrumentos mediante los cuales los ciudad
 La principal fuente de ingresos de los municipios colombianos proviene actualmente de
 
 ### Opciones
-- [ ] A) los aportes directos que el presidente entrega con cargo al presupuesto nacional.
+- [ ] B) los aportes directos que el presidente entrega con cargo al presupuesto nacional.
   <!-- feedback: Incorrecto. Los recursos no se entregan discrecionalmente por el presidente sino por el Sistema General de Participaciones, con criterios técnicos. -->
-- [x] B) el Sistema General de Participaciones, SGP, originado en los ingresos corrientes de la Nación.
+- [x] A) el Sistema General de Participaciones, SGP, originado en los ingresos corrientes de la Nación.
   <!-- feedback: Correcto. El SGP, creado por el Acto Legislativo 01 de 2001, distribuye recursos a entidades territoriales para educación, salud y propósito general. -->
 - [ ] C) la venta internacional del petróleo extraído en zonas rurales.
   <!-- feedback: Incorrecto. Aunque existen regalías, la mayor parte de los ingresos ordinarios de los municipios proviene del SGP, no de exportaciones. -->
@@ -153,9 +153,9 @@ La Constitución de 1991 reconoció a los pueblos indígenas de Colombia como en
   <!-- feedback: Incorrecto. Los resguardos son una figura histórica de origen colonial, pero la Constitución los moderniza dentro de los territorios indígenas. -->
 - [ ] B) parcialidades campesinas autónomas.
   <!-- feedback: Incorrecto. Las parcialidades son figuras del derecho agrario tradicional, no la categoría constitucional de los pueblos indígenas. -->
-- [x] C) territorios indígenas, dotados de entidad territorial propia.
+- [x] D) territorios indígenas, dotados de entidad territorial propia.
   <!-- feedback: Correcto. El artículo 286 y el título XI de la Carta reconocen a los territorios indígenas como entidades territoriales con autonomía y jurisdicción especial. -->
-- [ ] D) asociaciones de municipios exclusivamente.
+- [ ] C) asociaciones de municipios exclusivamente.
   <!-- feedback: Incorrecto. Las asociaciones de municipios son una figura de cooperación municipal; los territorios indígenas tienen un estatus constitucional propio. -->
 
 ### Explicacion Pedagogica
@@ -174,9 +174,9 @@ Una herramienta de planificación participativa del desarrollo departamental en 
 ### Opciones
 - [ ] A) el Plan Nacional de Desarrollo aprobado por el Senado.
   <!-- feedback: Incorrecto. El Plan Nacional de Desarrollo es el instrumento del nivel nacional; los departamentos tienen su propio plan de desarrollo. -->
-- [x] B) el Plan de Desarrollo Departamental, construido participativamente por el gobernador y aprobado por la Asamblea Departamental.
+- [x] C) el Plan de Desarrollo Departamental, construido participativamente por el gobernador y aprobado por la Asamblea Departamental.
   <!-- feedback: Correcto. Cada gobernador debe formular un Plan de Desarrollo para su período, concertado con actores del territorio y aprobado por la Asamblea Departamental. -->
-- [ ] C) el Plan de Ordenamiento Territorial exclusivamente para municipios.
+- [ ] B) el Plan de Ordenamiento Territorial exclusivamente para municipios.
   <!-- feedback: Incorrecto. El POT es principalmente municipal; los departamentos cuentan con planes de desarrollo propios y directrices de ordenamiento. -->
 - [ ] D) la Agenda Parlamentaria anual del Congreso.
   <!-- feedback: Incorrecto. La agenda del Congreso es del nivel nacional; los departamentos tienen su propio plan y su propio presupuesto. -->
@@ -199,9 +199,9 @@ El mecanismo mediante el cual los ciudadanos pueden dar por terminado el mandato
   <!-- feedback: Incorrecto. El juicio político o proceso disciplinario puede destituir al funcionario, pero no es un mecanismo ciudadano directo de revocatoria. -->
 - [ ] B) solicitud de renuncia elevada por el Concejo Municipal.
   <!-- feedback: Incorrecto. El Concejo no puede remover directamente al alcalde; ese es un proceso ante autoridades disciplinarias o judiciales. -->
-- [x] C) revocatoria del mandato, regulada por la Ley 1757 de 2015.
+- [x] D) revocatoria del mandato, regulada por la Ley 1757 de 2015.
   <!-- feedback: Correcto. La revocatoria del mandato es un derecho político mediante el cual los ciudadanos terminan anticipadamente el período del elegido. -->
-- [ ] D) consulta previa ante la Corte Constitucional.
+- [ ] C) consulta previa ante la Corte Constitucional.
   <!-- feedback: Incorrecto. La consulta previa se aplica a comunidades étnicas; la revocatoria es un mecanismo universal regulado por la ley estatutaria. -->
 
 ### Explicacion Pedagogica
@@ -241,9 +241,9 @@ La descentralización colombiana combina tres dimensiones: política, fiscal y a
 El Sistema General de Regalías colombiano fue reformado mediante el Acto Legislativo 05 de 2011 con el objetivo principal de
 
 ### Opciones
-- [ ] A) concentrar los recursos de regalías en Bogotá para reducir la desigualdad.
+- [ ] B) concentrar los recursos de regalías en Bogotá para reducir la desigualdad.
   <!-- feedback: Incorrecto. La reforma buscó precisamente redistribuir las regalías para reducir las desigualdades territoriales, no concentrarlas. -->
-- [x] B) distribuir las regalías con criterios de equidad regional, ahorro intergeneracional y competitividad.
+- [x] A) distribuir las regalías con criterios de equidad regional, ahorro intergeneracional y competitividad.
   <!-- feedback: Correcto. El SGR distribuye ingresos por regalías entre regiones productoras y no productoras, ahorra parte para el futuro y financia proyectos de impacto regional. -->
 - [ ] C) eliminar las regalías para todos los municipios del país.
   <!-- feedback: Incorrecto. Las regalías se mantienen; lo que cambió fue su forma de distribución y administración. -->
@@ -264,9 +264,9 @@ Antes de 2011, los municipios y departamentos productores recibían la mayor par
 La participación efectiva de la ciudadanía en los planes de desarrollo territorial se garantiza principalmente a través de
 
 ### Opciones
-- [ ] A) la elección del presidente de la República cada cuatro años.
+- [ ] B) la elección del presidente de la República cada cuatro años.
   <!-- feedback: Incorrecto. La elección presidencial es una herramienta de participación nacional, no territorial directa. -->
-- [x] B) la formulación participativa del plan de desarrollo en audiencias públicas y consejos territoriales de planeación.
+- [x] A) la formulación participativa del plan de desarrollo en audiencias públicas y consejos territoriales de planeación.
   <!-- feedback: Correcto. La Ley 152 de 1994 regula los Consejos Territoriales de Planeación como instancias de concertación entre gobierno y sociedad civil. -->
 - [ ] C) la consulta popular automática sobre cualquier asunto municipal.
   <!-- feedback: Incorrecto. La consulta popular es un mecanismo excepcional regulado por la ley estatutaria, no automático. -->
@@ -287,9 +287,9 @@ Los Consejos Territoriales de Planeación son cuerpos colegiados integrados por 
 La figura constitucional que permite a dos o más municipios asociarse para gestionar conjuntamente servicios públicos, obras o funciones es
 
 ### Opciones
-- [ ] A) la fusión obligatoria de entidades territoriales.
+- [ ] B) la fusión obligatoria de entidades territoriales.
   <!-- feedback: Incorrecto. La fusión implica pérdida de identidad del municipio; las asociaciones son acuerdos voluntarios. -->
-- [x] B) la asociación de municipios, regulada por la Ley 1454 de 2011, Ley Orgánica de Ordenamiento Territorial.
+- [x] A) la asociación de municipios, regulada por la Ley 1454 de 2011, Ley Orgánica de Ordenamiento Territorial.
   <!-- feedback: Correcto. La LOOT 1454 de 2011 desarrolla las asociaciones de municipios y regiones como esquemas asociativos territoriales. -->
 - [ ] C) el comisariato departamental.
   <!-- feedback: Incorrecto. El comisariato departamental era una figura del siglo XIX; la asociación de municipios es la figura contemporánea. -->
@@ -312,9 +312,9 @@ La diferencia entre descentralización y autonomía territorial en Colombia es q
 ### Opciones
 - [ ] A) son sinónimos exactos en la Constitución de 1991.
   <!-- feedback: Incorrecto. Aunque se relacionan, la descentralización es la distribución de competencias y recursos, mientras que la autonomía incluye el autogobierno y la elección de autoridades. -->
-- [ ] B) la autonomía solo aplica al nivel departamental.
+- [ ] C) la autonomía solo aplica al nivel departamental.
   <!-- feedback: Incorrecto. La autonomía se aplica a todas las entidades territoriales: departamentos, municipios, distritos y territorios indígenas. -->
-- [x] C) la descentralización transfiere competencias y recursos desde la Nación, mientras la autonomía reconoce capacidad de autogobierno a las entidades territoriales.
+- [x] B) la descentralización transfiere competencias y recursos desde la Nación, mientras la autonomía reconoce capacidad de autogobierno a las entidades territoriales.
   <!-- feedback: Correcto. Descentralización y autonomía son complementarias: la primera opera en el plano fiscal y administrativo, la segunda en el político y normativo. -->
 - [ ] D) la descentralización desapareció con la reforma de 1991.
   <!-- feedback: Incorrecto. La Constitución de 1991 amplió la descentralización, no la eliminó. -->
@@ -381,11 +381,11 @@ Un área metropolitana en Colombia, según la Ley 128 de 1994 reformada por la L
 ### Opciones
 - [ ] A) una nueva entidad territorial que reemplaza a los municipios que la conforman.
   <!-- feedback: Incorrecto. El área metropolitana no reemplaza a los municipios; los integra en una autoridad común para temas específicos. -->
-- [x] B) una entidad administrativa formada por dos o más municipios con vínculos económicos y sociales, dotada de una autoridad metropolitana.
+- [x] D) una entidad administrativa formada por dos o más municipios con vínculos económicos y sociales, dotada de una autoridad metropolitana.
   <!-- feedback: Correcto. Las áreas metropolitanas coordinan servicios públicos, transporte, ambiente y ordenamiento territorial entre municipios cercanos. -->
-- [ ] C) una asociación obligatoria impuesta por el gobierno central.
+- [ ] B) una asociación obligatoria impuesta por el gobierno central.
   <!-- feedback: Incorrecto. La conformación requiere voluntad de los municipios y aprobación de la ley que la crea; no es obligatoria. -->
-- [ ] D) una región autónoma con soberanía legislativa propia.
+- [ ] C) una región autónoma con soberanía legislativa propia.
   <!-- feedback: Incorrecto. Las áreas metropolitanas no tienen soberanía legislativa; coordinan servicios en el marco de la ley. -->
 
 ### Explicacion Pedagogica
@@ -404,9 +404,9 @@ Entre las propuestas discutidas en los últimos años para una reforma política
 ### Opciones
 - [ ] A) listas cerradas y bloqueadas para reducir la fragmentación de los partidos.
   <!-- feedback: Incorrecto. Las listas cerradas sí han sido propuestas como mecanismo para fortalecer la disciplina partidista. -->
-- [ ] B) financiación estatal predominante de las campañas electorales.
+- [ ] C) financiación estatal predominante de las campañas electorales.
   <!-- feedback: Incorrecto. La financiación estatal de campañas es una propuesta recurrente para reducir la influencia de dinero privado. -->
-- [x] C) eliminación del voto programático como mecanismo de rendición de cuentas.
+- [x] B) eliminación del voto programático como mecanismo de rendición de cuentas.
   <!-- feedback: Correcto. Por el contrario, los debates recientes buscan fortalecer el voto programático, no eliminarlo. -->
 - [ ] D) segunda vuelta para elección de gobernadores y alcaldes.
   <!-- feedback: Incorrecto. La segunda vuelta para mandatarios locales es una propuesta concreta para fortalecer legitimidad y reducir extremos. -->
@@ -473,11 +473,11 @@ Para fortalecer la democracia local y la descentralización en regiones apartada
 ### Opciones
 - [ ] A) concentrar toda la inversión pública en la capital del departamento respectivo.
   <!-- feedback: Incorrecto. Concentrar recursos en la capital suele profundizar desigualdades con los municipios más alejados. -->
-- [x] B) fortalecer capacidades técnicas municipales, garantizar recursos estables y promover la participación de comunidades en decisiones locales.
+- [x] D) fortalecer capacidades técnicas municipales, garantizar recursos estables y promover la participación de comunidades en decisiones locales.
   <!-- feedback: Correcto. La sostenibilidad de la descentralización depende de capacidades, recursos predecibles y participación efectiva. -->
-- [ ] C) eliminar las transferencias a municipios con baja población.
+- [ ] B) eliminar las transferencias a municipios con baja población.
   <!-- feedback: Incorrecto. Las transferencias son justamente un mecanismo para compensar las desigualdades territoriales. -->
-- [ ] D) suprimir los mecanismos de participación para evitar demoras en las decisiones.
+- [ ] C) suprimir los mecanismos de participación para evitar demoras en las decisiones.
   <!-- feedback: Incorrecto. La participación es un derecho constitucional y un factor de legitimidad de las decisiones locales. -->
 
 ### Explicacion Pedagogica

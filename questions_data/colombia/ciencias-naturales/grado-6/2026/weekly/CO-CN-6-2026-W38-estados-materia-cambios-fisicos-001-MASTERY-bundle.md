@@ -34,13 +34,13 @@ Este bundle de 10 preguntas estudia los estados de la materia y los cambios fís
 ¿Cuál es la característica principal de los estados sólido, líquido y gaseoso?
 
 ### Opciones
-- [x] A) El sólido tiene forma y volumen definidos, el líquido tiene volumen definido pero adopta la forma del recipiente, y el gas ocupa todo el espacio disponible
+- [x] D) El sólido tiene forma y volumen definidos, el líquido tiene volumen definido pero adopta la forma del recipiente, y el gas ocupa todo el espacio disponible
   <!-- feedback: Correcto. Cada estado se distingue por su forma y su volumen. -->
-- [ ] B) Los tres estados tienen forma y volumen definidos iguales
+- [ ] A) Los tres estados tienen forma y volumen definidos iguales
   <!-- feedback: Incorrecto. Solo el sólido tiene forma propia definida. -->
-- [ ] C) El gas tiene forma definida y el sólido no tiene volumen propio
+- [ ] B) El gas tiene forma definida y el sólido no tiene volumen propio
   <!-- feedback: Incorrecto. Es al contrario: el sólido sí tiene forma y volumen definidos. -->
-- [ ] D) El líquido no tiene volumen definido ni ocupa espacio
+- [ ] C) El líquido no tiene volumen definido ni ocupa espacio
   <!-- feedback: Incorrecto. El líquido sí tiene volumen definido. -->
 
 ### Explicacion Pedagogica
@@ -80,9 +80,9 @@ La compresibilidad depende de cuánto espacio libre hay entre las partículas: e
 ¿Cómo deben organizar el experimento para que la comparación sea válida?
 
 ### Opciones
-- [x] A) Usar la misma cantidad de agua y recipientes iguales, cambiar solo la exposición al sol y medir el volumen restante cada cierto tiempo
+- [x] B) Usar la misma cantidad de agua y recipientes iguales, cambiar solo la exposición al sol y medir el volumen restante cada cierto tiempo
   <!-- feedback: Correcto. Se cambia una sola variable y se controlan las demás. -->
-- [ ] B) Poner distinta cantidad de agua en cada recipiente y medir a simple vista
+- [ ] A) Poner distinta cantidad de agua en cada recipiente y medir a simple vista
   <!-- feedback: Incorrecto. Si cambia la cantidad de agua, no se puede comparar el efecto. -->
 - [ ] C) Usar recipientes de distinto tamaño y anotar solo lo que parece
   <!-- feedback: Incorrecto. Los recipientes deben ser iguales para comparar de forma justa. -->
@@ -126,9 +126,9 @@ La condensación es el cambio de estado en que un gas pasa a líquido al disminu
 ¿Cómo se clasifican los cambios que observan en la nieve?
 
 ### Opciones
-- [x] A) Son cambios físicos, porque el agua pasa de sólida a líquida sin convertirse en una sustancia nueva
+- [x] B) Son cambios físicos, porque el agua pasa de sólida a líquida sin convertirse en una sustancia nueva
   <!-- feedback: Correcto. Cambia el estado, pero la sustancia sigue siendo agua. -->
-- [ ] B) Son cambios químicos, porque aparece una sustancia diferente
+- [ ] A) Son cambios químicos, porque aparece una sustancia diferente
   <!-- feedback: Incorrecto. La nieve derretida sigue siendo agua, no una sustancia nueva. -->
 - [ ] C) Son cambios irreversibles que destruyen la materia
   <!-- feedback: Incorrecto. La materia no se destruye; el agua puede volver a congelarse. -->
@@ -172,11 +172,11 @@ La ley de conservación de la masa indica que en un sistema cerrado la masa no s
 ¿Qué análisis permite diferenciar los dos procesos?
 
 ### Opciones
-- [x] A) Derretir la mantequilla es un cambio físico porque solo cambia de estado y puede volver a solidificarse, mientras quemar la madera es un cambio químico porque se forman sustancias nuevas como la ceniza y el humo
+- [x] C) Derretir la mantequilla es un cambio físico porque solo cambia de estado y puede volver a solidificarse, mientras quemar la madera es un cambio químico porque se forman sustancias nuevas como la ceniza y el humo
   <!-- feedback: Correcto. La formación de sustancias nuevas distingue el cambio químico. -->
-- [ ] B) Los dos son cambios físicos porque ambos requieren calor
+- [ ] A) Los dos son cambios físicos porque ambos requieren calor
   <!-- feedback: Incorrecto. El calor no define el tipo de cambio, sino la formación de sustancias nuevas. -->
-- [ ] C) Los dos son cambios químicos porque la materia se transforma
+- [ ] B) Los dos son cambios químicos porque la materia se transforma
   <!-- feedback: Incorrecto. La fusión de la mantequilla no produce sustancias nuevas. -->
 - [ ] D) Quemar madera es un cambio físico porque la ceniza se puede ver
   <!-- feedback: Incorrecto. Se forman sustancias distintas, por lo que es un cambio químico. -->
@@ -195,9 +195,9 @@ Un cambio físico altera la forma, el tamaño o el estado del material sin modif
 ¿Qué análisis explica por qué el charco se seca más rápido en esas condiciones?
 
 ### Opciones
-- [x] A) Porque el calor aporta energía a las partículas del agua y el viento retira el vapor de la superficie, de modo que más moléculas escapan y la evaporación se acelera
+- [x] B) Porque el calor aporta energía a las partículas del agua y el viento retira el vapor de la superficie, de modo que más moléculas escapan y la evaporación se acelera
   <!-- feedback: Correcto. Calor y viento favorecen la evaporación. -->
-- [ ] B) Porque el viento empuja el agua hacia el suelo y la hace desaparecer
+- [ ] A) Porque el viento empuja el agua hacia el suelo y la hace desaparecer
   <!-- feedback: Incorrecto. El viento no elimina el agua: facilita que pase a vapor. -->
 - [ ] C) Porque el agua se convierte en una sustancia distinta al secarse
   <!-- feedback: Incorrecto. La evaporación es un cambio físico: sigue siendo agua. -->
@@ -218,9 +218,9 @@ La evaporación ocurre en la superficie del líquido cuando las moléculas con m
 ¿Qué evaluación conjunta de las tres afirmaciones es correcta?
 
 ### Opciones
-- [x] A) La 1 es verdadera porque el cambio de estado no modifica la sustancia; la 2 es verdadera porque la energía se usa en el cambio de estado; y la 3 es falsa porque el agua sigue existiendo como vapor
+- [x] B) La 1 es verdadera porque el cambio de estado no modifica la sustancia; la 2 es verdadera porque la energía se usa en el cambio de estado; y la 3 es falsa porque el agua sigue existiendo como vapor
   <!-- feedback: Correcto. Distingue el cambio físico reversible y la conservación de la materia. -->
-- [ ] B) Las tres afirmaciones son verdaderas, porque el agua hervida se destruye
+- [ ] A) Las tres afirmaciones son verdaderas, porque el agua hervida se destruye
   <!-- feedback: Incorrecto. El agua no se destruye: pasa al estado gaseoso. -->
 - [ ] C) Solo la 3 es verdadera, porque el vapor no es agua
   <!-- feedback: Incorrecto. El vapor de agua sí es agua en estado gaseoso. -->
@@ -241,13 +241,13 @@ Evaluar estas afirmaciones exige distinguir cambio físico de pérdida de materi
 ¿Qué decisión es más adecuada desde el punto de vista de la materia y sus cambios?
 
 ### Opciones
-- [x] A) Conservar los alimentos refrigerados o congelados, porque al bajar la temperatura se reduce la actividad de los microorganismos y los cambios que descomponen el alimento
+- [x] D) Conservar los alimentos refrigerados o congelados, porque al bajar la temperatura se reduce la actividad de los microorganismos y los cambios que descomponen el alimento
   <!-- feedback: Correcto. El frío retarda el deterioro de los alimentos. -->
-- [ ] B) Dejar los alimentos al sol en un recipiente abierto para que se sequen y se conserven
+- [ ] A) Dejar los alimentos al sol en un recipiente abierto para que se sequen y se conserven
   <!-- feedback: Incorrecto. El calor y la humedad aceleran la descomposición. -->
-- [ ] C) Guardar los alimentos junto a sustancias químicas de limpieza
+- [ ] B) Guardar los alimentos junto a sustancias químicas de limpieza
   <!-- feedback: Incorrecto. Eso contamina los alimentos y pone en riesgo la salud. -->
-- [ ] D) Cocinar todos los alimentos y dejarlos a temperatura ambiente muchos días
+- [ ] C) Cocinar todos los alimentos y dejarlos a temperatura ambiente muchos días
   <!-- feedback: Incorrecto. A temperatura ambiente los alimentos se dañan rápidamente. -->
 
 ### Explicacion Pedagogica

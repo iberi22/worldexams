@@ -33,13 +33,13 @@ creador: "Jules-Agent"
 ¿Qué carta magna de corte liberal e individualista fue promulgada el 25 de noviembre de 1870 bajo la ocupación militar aliada, organizando los poderes del Estado paraguayo en la posguerra?
 
 ### Opciones
-- [x] A) La Constitución Nacional de 1870
+- [x] D) La Constitución Nacional de 1870
   <!-- feedback: Correcto. La Constitución de 1870 introdujo el constitucionalismo clásico liberal de derechos individuales y división de poderes en la posguerra inmediata. -->
-- [ ] B) La Ley de Administración Pública de 1844
+- [ ] A) La Ley de Administración Pública de 1844
   <!-- feedback: Incorrecto. Fue el marco constitucional organizativo redactado bajo Carlos Antonio López, de carácter centralista presidencial prebélico. -->
-- [ ] C) La Constitución Política del Estado de 1992
+- [ ] B) La Constitución Política del Estado de 1992
   <!-- feedback: Incorrecto. Es la constitución democrática vigente del Paraguay contemporáneo, redactada a finales del siglo XX tras la caída de Stroessner. -->
-- [ ] D) La Constitución de la Triple Alianza de 1865
+- [ ] C) La Constitución de la Triple Alianza de 1865
   <!-- feedback: Incorrecto. La Triple Alianza fue un acuerdo militar tripartito secreto firmado en secreto en 1865, no una carta constitucional interna paraguaya. -->
 
 ### Explicacion Pedagogica
@@ -79,9 +79,9 @@ En 1887 nacieron el Centro Democrático (luego Partido Liberal) y la Asociación
 ¿Qué controvertida ley económica de 1883 y 1885 promulgó el presidente colorado Bernardino Caballero para saldar la asfixiante deuda externa del Paraguay?
 
 ### Opciones
-- [x] A) Las leyes de venta de tierras públicas y yerbales fiscales de gran escala, que dieron origen a inmensos latifundios extranjeros como la firma Carlos Casado o La Industrial Paraguaya
+- [x] B) Las leyes de venta de tierras públicas y yerbales fiscales de gran escala, que dieron origen a inmensos latifundios extranjeros como la firma Carlos Casado o La Industrial Paraguaya
   <!-- feedback: Correcto. El descalabro financiero obligó al gobierno colorado a vender los bosques y tierras estatales a bajo precio, liquidando el modelo agrario estatal prebélico de los López. -->
-- [ ] B) La estatización inmediata e ininterrumpida de todos los yacimientos mineros de carbón de Concepción
+- [ ] A) La estatización inmediata e ininterrumpida de todos los yacimientos mineros de carbón de Concepción
   <!-- feedback: Incorrecto. Al contrario, las leyes enajenaron y privatizaron los recursos fiscales en favor del capital extranjero, deprimiendo el control estatal. -->
 - [ ] C) La prohibición de que ciudadanos extranjeros compraran tierras agrícolas o yerbales en el este de la Región Oriental
   <!-- feedback: Incorrecto. Las leyes abrieron la compra y propiedad del suelo paraguayo a compañías extranjeras (principalmente de origen anglo-argentino). -->
@@ -148,11 +148,11 @@ Bernardino Caballero representó al ala nacionalista revisionista de posguerra, 
 ¿Qué acontecimiento político-militar de gran trascendencia puso fin al dominio ininterrumpido del Partido Colorado en 1904, inaugurando la era de hegemonía liberal?
 
 ### Opciones
-- [x] A) La Revolución Liberal de 1904, liderada por jefes civiles y militares que marcharon sobre Asunción con el apoyo de buques armados mercantes desde la Argentina
+- [x] C) La Revolución Liberal de 1904, liderada por jefes civiles y militares que marcharon sobre Asunción con el apoyo de buques armados mercantes desde la Argentina
   <!-- feedback: Correcto. La sublevación militar y el Pacto de Pilcomayo de 1904 derrocaron al régimen colorado e iniciaron un largo periodo de gobiernos liberales. -->
-- [ ] B) La invasión y anexión armada definitiva del Paraguay por las fuerzas del Imperio del Brasil
+- [ ] A) La invasión y anexión armada definitiva del Paraguay por las fuerzas del Imperio del Brasil
   <!-- feedback: Incorrecto. El imperio brasileño cayó en 1889 dando paso a la República del Brasil, y el Paraguay preservó su total independencia en 1904. -->
-- [ ] C) La reinstauración de la mita prehispánica obligatoria para explotar minas de carbón en el Chaco
+- [ ] B) La reinstauración de la mita prehispánica obligatoria para explotar minas de carbón en el Chaco
   <!-- feedback: Incorrecto. La mita fue abolida en el pasado colonial y no constituía un programa político o causa de revoluciones en 1904. -->
 - [ ] D) La designación papal de un general jesuita como dictador perpetuo de Asunción
   <!-- feedback: Incorrecto. La era de gobiernos francistas o misiones jesuíticas pertenecía al pasado histórico nacional de siglos anteriores. -->
@@ -171,11 +171,11 @@ La gesta de 1904 reconfiguró el equilibrio partidario nacional, desplazando al 
 A pesar de las libertades civiles promovidas por los gobiernos liberales, ¿qué rasgo caracterizó fuertemente a la conducción institucional del país entre 1904 y 1922?
 
 ### Opciones
-- [x] A) Una profunda inestabilidad política interna con constantes revoluciones armadas de cuartel, cambios de presidente frecuentes y guerras civiles facciosas
+- [x] C) Una profunda inestabilidad política interna con constantes revoluciones armadas de cuartel, cambios de presidente frecuentes y guerras civiles facciosas
   <!-- feedback: Correcto. El faccionalismo interno del Partido Liberal desató asonadas militares (especialmente las revueltas de 1911-1912 y la guerra civil de 1922) que debilitaron el desarrollo nacional. -->
-- [ ] B) La ausencia de todo tipo de ejército o fuerzas de seguridad nacional armadas
+- [ ] A) La ausencia de todo tipo de ejército o fuerzas de seguridad nacional armadas
   <!-- feedback: Incorrecto. El ejército paraguayo existía y se profesionalizó (llegando misiones francesas), pero estuvo fuertemente involucrado en las facciones partidarias. -->
-- [ ] C) La unificación dócil de los dos partidos tradicionales para fundar una monarquía británica en el Paraguay
+- [ ] B) La unificación dócil de los dos partidos tradicionales para fundar una monarquía británica en el Paraguay
   <!-- feedback: Incorrecto. Los partidos conservaron su feroz antagonismo y resguardaron la forma republicana de gobierno, sin pretensiones monárquicas inglesas. -->
 - [ ] D) La prohibición gubernamental de usar papel moneda y de cultivar yerba mate
   <!-- feedback: Incorrecto. El papel moneda y la exportación de yerba mate siguieron sustentando la precaria estructura de las finanzas nacionales paraguayas. -->
@@ -194,9 +194,9 @@ El periodo liberal de la primera mitad del siglo XX estuvo signado por la puja c
 ¿Qué colosal empresa maderera extranjera de origen hispano-argentino adquirió extensas concesiones de tierras en el Alto Paraguay para la explotación forestal de quebracho colorado?
 
 ### Opciones
-- [x] A) La firma de Carlos Casado, estableciendo su puerto principal (Puerto Casado) sobre el río Paraguay
+- [x] B) La firma de Carlos Casado, estableciendo su puerto principal (Puerto Casado) sobre el río Paraguay
   <!-- feedback: Correcto. Carlos Casado adquirió millones de hectáreas del Chaco Boreal para extraer tanino de quebracho colorado, construyendo líneas de tren de trocha angosta. -->
-- [ ] B) La Compañía Minera de Oro del cerro Ybytyruzú
+- [ ] A) La Compañía Minera de Oro del cerro Ybytyruzú
   <!-- feedback: Incorrecto. El Ybytyruzú es un cordón montañoso lítico oriental y no albergó emprendimientos forestales chaqueños de quebracho colorado de Carlos Casado. -->
 - [ ] C) El consorcio petrolero de los Estados Unidos en la bahía de Asunción
   <!-- feedback: Incorrecto. La bahía fluvial de Asunción carece de petróleo; la explotación forestal de quebracho colorado se concentró en el norte del Chaco paraguayo. -->
@@ -217,13 +217,13 @@ La explotación forestal en los 'puertos tanineros' chaqueños de posguerra oper
 ¿Qué destacado intelectual paraguayo de corte liberal y positivista mantuvo encendidas polémicas con los revisionistas colorados, defendiendo la modernización racional de la nación frente al pasado de los López?
 
 ### Opciones
-- [x] A) El doctor Cecilio Báez
+- [x] D) El doctor Cecilio Báez
   <!-- feedback: Correcto. Cecilio Báez fue el máximo exponente del positivismo liberal paraguayo, cuestionando duramente la dictadura del Dr. Francia y de los López desde la prensa y la academia universitaria. -->
-- [ ] B) El general Bernardino Caballero
+- [ ] A) El general Bernardino Caballero
   <!-- feedback: Incorrecto. Caballero fue el principal líder militar de la Triple Alianza y político fundador de la Asociación Nacional Republicana (Partido Colorado). -->
-- [ ] C) El Gral. Francisco Solano López
+- [ ] B) El Gral. Francisco Solano López
   <!-- feedback: Incorrecto. Solano López falleció heroicamente batiéndose en Cerro Corá en 1870, antes de la eclosión intelectual del positivismo paraguayo de posguerra. -->
-- [ ] D) El laudo arbitral del presidente estadounidense Hayes
+- [ ] C) El laudo arbitral del presidente estadounidense Hayes
   <!-- feedback: Incorrecto. Rutherford B. Hayes fue el mandatario norteamericano que falló de forma arbitral y diplomática en el diferendo chaqueño en 1878. -->
 
 ### Explicacion Pedagogica
@@ -240,11 +240,11 @@ La polémica histórica e intelectual entre liberales de corte positivista (Báe
 ¿Cómo se conoce habitualmente a los peones explotados bajo régimen de servidumbre por deudas en los obrajes forestales y yerbateros de la compañía La Industrial Paraguaya?
 
 ### Opciones
-- [x] A) Los mensú
+- [x] C) Los mensú
   <!-- feedback: Correcto. Los 'mensú' (peones contratados mensualmente) padecían una explotación infrahumana de esclavitud por deudas en los inmensos yerbales naturales del este del país. -->
-- [ ] B) Los bandeirantes históricos
+- [ ] A) Los bandeirantes históricos
   <!-- feedback: Incorrecto. Los bandeirantes eran expediciones coloniales de paulistas de los siglos XVII y XVIII, ajenos al peonaje yerbatero paraguayo del siglo XIX de posguerra. -->
-- [ ] C) Los gauchos riograndenses
+- [ ] B) Los gauchos riograndenses
   <!-- feedback: Incorrecto. Refiere al habitante tradicional de las pampas de Río Grande del Sur, ajeno al régimen forestal de yerba mate paraguayo del este. -->
 - [ ] D) Los colonos menonitas de Boquerón
   <!-- feedback: Incorrecto. Los menonitas se establecieron en el Chaco Central de forma cooperativa en el siglo XX, sin relacionarse con el peonaje de obrajes yerbateros orientales. -->
@@ -263,13 +263,13 @@ La dolorosa realidad social de los 'mensú' en el Alto Paraná fue magistralment
 La privatización de las líneas de ferrocarril estatal y el arsenal de Asunción ejecutadas en la posguerra inmediata representó estructuralmente para el Paraguay:
 
 ### Opciones
-- [x] A) La pérdida definitiva de la soberanía tecnológica e industrial prebélica, transformando la infraestructura nacional en propiedades lucrativas de compañías de capital extranjero
+- [x] D) La pérdida definitiva de la soberanía tecnológica e industrial prebélica, transformando la infraestructura nacional en propiedades lucrativas de compañías de capital extranjero
   <!-- feedback: Correcto. Las colosales empresas públicas de la era de los López fueron malvendidas para pagar deudas espurias, atando al país al capital privado extranjero británico y argentino. -->
-- [ ] B) El incremento notable de las patentes estatales nacionales de fabricación de reactores nucleares de vapor
+- [ ] A) El incremento notable de las patentes estatales nacionales de fabricación de reactores nucleares de vapor
   <!-- feedback: Incorrecto. Es un anacronismo tecnológico desmedido; la privatización limitó la capacidad industrial soberana paraguaya decimonónica. -->
-- [ ] C) El vasallaje incondicional de Asunción ante las directivas directas de la corona de Portugal
+- [ ] B) El vasallaje incondicional de Asunción ante las directivas directas de la corona de Portugal
   <!-- feedback: Incorrecto. El imperio de Brasil cayó en 1889, y las privatizaciones transfirieron activos a empresas anglo-argentinas, sin injerencias dinásticas portuguesas coloniales. -->
-- [ ] D) La prohibición gubernamental de usar ferrocarriles para forzar el uso de caballos de tiro
+- [ ] C) La prohibición gubernamental de usar ferrocarriles para forzar el uso de caballos de tiro
   <!-- feedback: Incorrecto. Los ferrocarriles continuaron operando pero de forma privada bajo tarifas de flete abusivas que perjudicaban el transporte nacional. -->
 
 ### Explicacion Pedagogica
@@ -309,13 +309,13 @@ La prosa lúcida y militante de Rafael Barrett en los obrajes yerbateros encendi
 ¿Qué repercusión institucional directa deparó el Pacto de Pilcomayo de 1904 tras el derrocamiento pacífico de la hegemonía colorada?
 
 ### Opciones
-- [x] A) Estableció el fin definitivo de la hegemonía colorada de finales del siglo XIX y dio inicio a la era de gobiernos liberales caracterizada por la inestabilidad facciosa de posguerra
+- [x] D) Estableció el fin definitivo de la hegemonía colorada de finales del siglo XIX y dio inicio a la era de gobiernos liberales caracterizada por la inestabilidad facciosa de posguerra
   <!-- feedback: Correcto. El pacto acordó el traspaso pacífico del poder a las fuerzas revolucionarias del Partido Liberal, iniciando un periodo de hegemonía liberal de varias décadas. -->
-- [ ] B) Consagró la anexión pacífica del Paraguay como estado libre asociado a los Estados Unidos
+- [ ] A) Consagró la anexión pacífica del Paraguay como estado libre asociado a los Estados Unidos
   <!-- feedback: Incorrecto. El país resguardó con celo su carácter de República plenamente soberana, sin uniones federales o protectorados exteriores. -->
-- [ ] C) Decretó el uso oficial y exclusivo del idioma alemán en todos los tribunales de Asunción
+- [ ] B) Decretó el uso oficial y exclusivo del idioma alemán en todos los tribunales de Asunción
   <!-- feedback: Incorrecto. Las lenguas administrativas siguieron siendo el castellano y guaraní; las colonias menonitas de habla alemana arribaron mucho después. -->
-- [ ] D) La prohibición constitucional de celebrar elecciones periódicas de partidos políticos de forma indefinida
+- [ ] C) La prohibición constitucional de celebrar elecciones periódicas de partidos políticos de forma indefinida
   <!-- feedback: Incorrecto. Al contrario, se consolidó la puja electoral partidaria entre liberales y colorados en la escena política de posguerra paraguaya. -->
 
 ### Explicacion Pedagogica
@@ -332,9 +332,9 @@ El Pacto de Pilcomayo reconfiguró la gobernabilidad nacional en el Paraguay de 
 La venta masiva de las ricas tierras públicas y selvas de la Región Oriental paraguaya decretada en la posguerra inmediata tuvo como impacto social severo:
 
 ### Opciones
-- [x] A) El despojo sistemático del campesinado criollo tradicional que pasó de arrendatario estatal a ocupante precario, dando origen a los permanentes conflictos por la tenencia de la tierra
+- [x] B) El despojo sistemático del campesinado criollo tradicional que pasó de arrendatario estatal a ocupante precario, dando origen a los permanentes conflictos por la tenencia de la tierra
   <!-- feedback: Correcto. Al privatizarse las tierras públicas prebélicas de los López, las familias campesinas perdieron la posesión legal de sus chacras, precarizando su estatus rural campesino. -->
-- [ ] B) La unificación dócil de todas las parcelas agrícolas para transformarlas en desiertos estériles de sal
+- [ ] A) La unificación dócil de todas las parcelas agrícolas para transformarlas en desiertos estériles de sal
   <!-- feedback: Incorrecto. El Chaco posee suelos arcillosos salobres, pero las ricas selvas de la Región Oriental mantuvieron alta fertilidad, siendo destinadas al agro privado agroexportador. -->
 - [ ] C) La prohibición estatal de cultivar mandioca y de criar cerdos nativos en las fincas rurales
   <!-- feedback: Incorrecto. La mandioca siguió constituyendo el alimento primordial agrario familiar de subsistencia paraguayo, sin prohibiciones estatales. -->
@@ -355,11 +355,11 @@ El problema de la tenencia de la tierra y la precarización del campesinado rura
 La destructiva guerra civil paraguaya de 1922, que enfrentó de forma armada a las facciones de jefes militares liberales partidarios de Eduardo Schaerer y de Manuel Gondra, representó estructuralmente para el país:
 
 ### Opciones
-- [x] A) Una honda parálisis económica nacional y desestabilización institucional, que dividió al ejército paraguayo en las vísperas de la tensión fronteriza con Bolivia
+- [x] C) Una honda parálisis económica nacional y desestabilización institucional, que dividió al ejército paraguayo en las vísperas de la tensión fronteriza con Bolivia
   <!-- feedback: Correcto. La guerra civil de 1922 enfrentó a los 'saco mbyky' contra los 'saco puku' dividiendo al ejército y demorando la necesaria defensa nacional militar territorial de la frontera chaqueña. -->
-- [ ] B) La anexión pacífica de toda la llanura del Chaco Boreal al territorio soberano de la vecina Bolivia
+- [ ] A) La anexión pacífica de toda la llanura del Chaco Boreal al territorio soberano de la vecina Bolivia
   <!-- feedback: Incorrecto. Paraguay defendió con patriotismo indomable su Chaco Boreal, superando las guerras civiles facciosas liberales en la posterior contienda chaqueña (1932-1935). -->
-- [ ] C) La restauración absoluta del imperio colonial español de la corona de Borbón en la bahía de Asunción
+- [ ] B) La restauración absoluta del imperio colonial español de la corona de Borbón en la bahía de Asunción
   <!-- feedback: Incorrecto. Ninguna facción partidaria liberal propiciaba un retorno a la monarquía colonial española del Río de la Plata. -->
 - [ ] D) La evaporación física de todo el sistema ferroviario a vapor nacional construido por Don Carlos Antonio López
   <!-- feedback: Incorrecto. El ferrocarril continuó operando de forma regular y prestando servicios, aunque sufrió daños de material bélico y descalabros financieros transitorios por combates. -->
@@ -378,9 +378,9 @@ La inestabilidad partidaria interna de la posguerra liberal erosionó el presupu
 ¿Qué rol intelectual y cívico desempeñó el historiador Juan E. O'Leary en el Paraguay de la primera mitad del siglo XX?
 
 ### Opciones
-- [x] A) Lideró la corriente intelectual del revisionismo histórico, vindicando la figura del mariscal Francisco Solano López y revalorizando el patriotismo popular frente a los ataques liberales
+- [x] B) Lideró la corriente intelectual del revisionismo histórico, vindicando la figura del mariscal Francisco Solano López y revalorizando el patriotismo popular frente a los ataques liberales
   <!-- feedback: Correcto. O'Leary combatió la visión antipatriótica liberal clásica, transformando al Mariscal López en la máxima figura heroica de cohesión cívica nacional de posguerra. -->
-- [ ] B) Fundó de forma secreta el Partido de los Caballeros de la Triple Alianza para entregar el Chaco
+- [ ] A) Fundó de forma secreta el Partido de los Caballeros de la Triple Alianza para entregar el Chaco
   <!-- feedback: Incorrecto. Al contrario, el revisionismo de O'Leary exaltó heróicamente las glorias del ejército de los López para infundir valor soberano paraguayo ante cualquier peligro fronterizo. -->
 - [ ] C) Decretó el uso oficial y obligatorio del idioma mandarín en todas las academias literarias del país
   <!-- feedback: Incorrecto. Su prosa patriótica y discursos fueron escritos en castellano y arengaban con fervor en guaraní para apelar al alma mestiza de la nación paraguaya. -->
@@ -401,13 +401,13 @@ El revisionismo histórico de Juan E. O'Leary cimentó la mística heroica nacio
 Al evaluar críticamente la gestión política del Gral. Bernardino Caballero en la posguerra inmediata, ¿cuál de las siguientes valoraciones posee mayor rigurosidad analítica?
 
 ### Opciones
-- [x] A) Por un lado logró pacificar internamente un país asolado por la anarquía, organizó instituciones y fundó la ANR; por el otro sancionó las gravosas leyes de venta de tierras públicas que despojaron al campesinado e instalaron inmensos latifundios extranjeros
+- [x] D) Por un lado logró pacificar internamente un país asolado por la anarquía, organizó instituciones y fundó la ANR; por el otro sancionó las gravosas leyes de venta de tierras públicas que despojaron al campesinado e instalaron inmensos latifundios extranjeros
   <!-- feedback: Correcto. El análisis del Gral. Caballero pondera el indudable mérito de proveer gobernabilidad e institucionalidad en un Paraguay destruido con las controvertidas e irreversibles decisiones fiscales de enajenación del patrimonio territorial público. -->
-- [ ] B) Que fue un gobernante de corte monárquico que subordinó de forma voluntaria la soberanía nacional al Imperio del Brasil a cambio de títulos de nobleza aristocrática personal
+- [ ] A) Que fue un gobernante de corte monárquico que subordinó de forma voluntaria la soberanía nacional al Imperio del Brasil a cambio de títulos de nobleza aristocrática personal
   <!-- feedback: Incorrecto. Caballero fue un veterano combatiente que batió heróicamente al invasor imperial, defendiendo la independencia republicana paraguaya de posguerra de forma patriótica. -->
-- [ ] C) Que logró la industrialización militar aeroespacial del Chaco paraguayo mediante reactores nucleares británicos
+- [ ] B) Que logró la industrialización militar aeroespacial del Chaco paraguayo mediante reactores nucleares británicos
   <!-- feedback: Incorrecto. Es un planteamiento anacrónico, fantasioso e insostenible alejado del precaria y agraria economía paraguaya de finales del siglo XIX. -->
-- [ ] D) Que su gobierno careció por completo de ejércitos armados de defensa e impuso de forma exclusiva el derecho islámico otomano
+- [ ] C) Que su gobierno careció por completo de ejércitos armados de defensa e impuso de forma exclusiva el derecho islámico otomano
   <!-- feedback: Incorrecto. Caballero organizó y profesionalizó al ejército nacional terrestre de posguerra bajo códigos y tácticas republicanas convencionales. -->
 
 ### Explicacion Pedagogica
@@ -424,11 +424,11 @@ La figura de Bernardino Caballero es objeto de exaltación republicana y de seve
 Al juzgar el impacto del positivismo liberal doctrinario en el Paraguay de fines del siglo XIX, ¿cuál es la mayor crítica de los intelectuales revisionistas contemporáneos respecto a la visión nacionalista?
 
 ### Opciones
-- [x] A) Que adoptó una visión pesimista del pueblo paraguayo y de su historia decimonónica, culpando de forma exclusiva a las dictaduras del Dr. Francia y de los López de la ruina nacional de 1870, e ignorando la agresión de los aliados imperialistas
+- [x] C) Que adoptó una visión pesimista del pueblo paraguayo y de su historia decimonónica, culpando de forma exclusiva a las dictaduras del Dr. Francia y de los López de la ruina nacional de 1870, e ignorando la agresión de los aliados imperialistas
   <!-- feedback: Correcto. El liberalismo positivista clásico denostó el pasado soberano e industrializador lopesca por su carácter autoritario, asumiendo postulados foráneos que justificaban de manera velada el desmembramiento y ocupación aliada paraguaya. -->
-- [ ] B) Que promovió de forma directa e ininterrumpida el exterminio de la población hispanohablante de Asunción para repoblar con colonos asiáticos
+- [ ] A) Que promovió de forma directa e ininterrumpida el exterminio de la población hispanohablante de Asunción para repoblar con colonos asiáticos
   <!-- feedback: Incorrecto. El positivismo paraguayo se centró en reformar la educación superior en castellano, sin proponer exterminios demográficos disparatados de población nativa de la capital. -->
-- [ ] C) Que forzó al país a declarar la guerra inmediata y de por vida contra la corona de Gran Bretaña
+- [ ] B) Que forzó al país a declarar la guerra inmediata y de por vida contra la corona de Gran Bretaña
   <!-- feedback: Incorrecto. Los gobiernos liberales y positivistas de posguerra se alinearon comercialmente con los intereses financieros de los inversores británicos, de forma pacífica. -->
 - [ ] D) La prohibición gubernamental de usar papel moneda nacional para obligar al trueque exclusivo de mandioca
   <!-- feedback: Incorrecto. El sistema monetario continuó rigiéndose bajo patrones cambiarios bancarios ordinarios emitidos en Asunción y controlados por el comercio comercial. -->
@@ -470,13 +470,13 @@ La simbiosis entre el poder partidario liberal gobernante y el gran latifundio e
 Al evaluar globalmente el proceso de reconstrucción cívica, institucional y social del Paraguay de posguerra en la transición al siglo XX, ¿cuál de las siguientes conclusiones posee mayor sustento empírico e histórico?
 
 ### Opciones
-- [x] A) El Paraguay logró renacer demográficamente y reconstruir de forma precaria sus instituciones gracias al protagonismo abnegado de sus mujeres (Residentas), superando la ruina material y la enajenación de su patrimonio público territorial para emerger con un fuerte fervor patrio
+- [x] D) El Paraguay logró renacer demográficamente y reconstruir de forma precaria sus instituciones gracias al protagonismo abnegado de sus mujeres (Residentas), superando la ruina material y la enajenación de su patrimonio público territorial para emerger con un fuerte fervor patrio
   <!-- feedback: Correcto. A pesar de las pérdidas territoriales catastróficas, las deudas espurias impuestas y el despojo del campesinado rural, el Paraguay sobrevivió con orgullo e identidad nacional soberana mestiza bilingüe de cara al siglo XX. -->
-- [ ] B) El Paraguay renunció por completo de forma oficial a su soberanía e independencia para convertirse en provincia dócil de la Confederación de la Argentina
+- [ ] A) El Paraguay renunció por completo de forma oficial a su soberanía e independencia para convertirse en provincia dócil de la Confederación de la Argentina
   <!-- feedback: Incorrecto. Paraguay defendió con patriotismo celoso su autonomía nacional republicana, logrando retirar las tropas invasoras aliadas de ocupación en la posguerra inmediata. -->
-- [ ] C) La donación de todos los edificios e iglesias de Asunción a consorcios petroleros de los Estados Unidos de América
+- [ ] B) La donación de todos los edificios e iglesias de Asunción a consorcios petroleros de los Estados Unidos de América
   <!-- feedback: Incorrecto. No existían tales transferencias coloniales o comerciales; el patrimonio nacional se mantuvo en manos del Estado paraguayo o de comunidades locales de posguerra. -->
-- [ ] D) La desaparición absoluta de toda actividad agrícola familiar rural para forzar la industrialización metalúrgica de alta tecnología nuclear
+- [ ] C) La desaparición absoluta de toda actividad agrícola familiar rural para forzar la industrialización metalúrgica de alta tecnología nuclear
   <!-- feedback: Incorrecto. El campo (mandioca, tabaco, algodón) y el autoconsumo campesino familiar rural continuaron sosteniendo la subsistencia precaria de millones de habitantes del país de posguerra. -->
 
 ### Explicacion Pedagogica

@@ -57,8 +57,8 @@ El concepto de La enzima de restricción constituye un fundamento esencial para 
 ¿Qué técnica molecular separa físicamente fragmentos de ADN según su tamaño cargándolos en un gel bajo un campo eléctrico?
 
 ### Opciones
-- [x] A) La electroforesis en gel <!-- feedback: ¡Correcto! La electroforesis en gel responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) CRISPR-Cas9 <!-- feedback: Incorrecto. CRISPR-Cas9 no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) La electroforesis en gel <!-- feedback: ¡Correcto! La electroforesis en gel responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) CRISPR-Cas9 <!-- feedback: Incorrecto. CRISPR-Cas9 no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) El plásmido <!-- feedback: Incorrecto. El plásmido es un concepto diferente de la unidad temática. -->
 - [ ] D) Transferencia nuclear de células somáticas <!-- feedback: Incorrecto. Transferencia nuclear de células somáticas describe un proceso o componente distinto. -->
 
@@ -78,9 +78,9 @@ El concepto de La electroforesis en gel constituye un fundamento esencial para c
 ¿Qué molécula de ADN extracromosómica circular se utiliza comúnmente en biotecnología como vector de clonación celular?
 
 ### Opciones
-- [x] A) El plásmido <!-- feedback: ¡Correcto! El plásmido responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) El cultivo in vitro de tejidos <!-- feedback: Incorrecto. El cultivo in vitro de tejidos no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) El promotor fuerte (como pCMV) <!-- feedback: Incorrecto. El promotor fuerte (como pCMV) es un concepto diferente de la unidad temática. -->
+- [x] C) El plásmido <!-- feedback: ¡Correcto! El plásmido responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) El cultivo in vitro de tejidos <!-- feedback: Incorrecto. El cultivo in vitro de tejidos no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) El promotor fuerte (como pCMV) <!-- feedback: Incorrecto. El promotor fuerte (como pCMV) es un concepto diferente de la unidad temática. -->
 - [ ] D) La insulina recombinante <!-- feedback: Incorrecto. La insulina recombinante describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
@@ -99,8 +99,8 @@ El concepto de El plásmido constituye un fundamento esencial para comprender lo
 ¿Qué enzima une de forma covalente extremos cohesivos de fragmentos de ADN recombinantes?
 
 ### Opciones
-- [x] A) La ADN ligasa <!-- feedback: ¡Correcto! La ADN ligasa responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) El plásmido <!-- feedback: Incorrecto. El plásmido no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) La ADN ligasa <!-- feedback: ¡Correcto! La ADN ligasa responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) El plásmido <!-- feedback: Incorrecto. El plásmido no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) El cultivo in vitro de tejidos <!-- feedback: Incorrecto. El cultivo in vitro de tejidos es un concepto diferente de la unidad temática. -->
 - [ ] D) El promotor fuerte (como pCMV) <!-- feedback: Incorrecto. El promotor fuerte (como pCMV) describe un proceso o componente distinto. -->
 
@@ -141,10 +141,10 @@ El concepto de La reacción en cadena de la polimerasa (PCR) constituye un funda
 ¿Qué ADN polimerasa termoestable es indispensable para resistir las fases de desnaturalización de la PCR?
 
 ### Opciones
-- [x] A) La Taq polimerasa <!-- feedback: ¡Correcto! La Taq polimerasa responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) El plásmido <!-- feedback: Incorrecto. El plásmido no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) El promotor fuerte (como pCMV) <!-- feedback: Incorrecto. El promotor fuerte (como pCMV) es un concepto diferente de la unidad temática. -->
-- [ ] D) La secuenciación de Sanger <!-- feedback: Incorrecto. La secuenciación de Sanger describe un proceso o componente distinto. -->
+- [x] D) La Taq polimerasa <!-- feedback: ¡Correcto! La Taq polimerasa responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) El plásmido <!-- feedback: Incorrecto. El plásmido no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) El promotor fuerte (como pCMV) <!-- feedback: Incorrecto. El promotor fuerte (como pCMV) es un concepto diferente de la unidad temática. -->
+- [ ] C) La secuenciación de Sanger <!-- feedback: Incorrecto. La secuenciación de Sanger describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de La Taq polimerasa constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.
@@ -162,9 +162,9 @@ El concepto de La Taq polimerasa constituye un fundamento esencial para comprend
 ¿Qué método de secuenciación clásica utiliza dideoxinucleótidos marcados con fluoróforos para terminar la síntesis de ADN?
 
 ### Opciones
-- [x] A) La secuenciación de Sanger <!-- feedback: ¡Correcto! La secuenciación de Sanger responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) El cultivo in vitro de tejidos <!-- feedback: Incorrecto. El cultivo in vitro de tejidos no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) La huella genética por PCR de STR <!-- feedback: Incorrecto. La huella genética por PCR de STR es un concepto diferente de la unidad temática. -->
+- [x] C) La secuenciación de Sanger <!-- feedback: ¡Correcto! La secuenciación de Sanger responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) El cultivo in vitro de tejidos <!-- feedback: Incorrecto. El cultivo in vitro de tejidos no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) La huella genética por PCR de STR <!-- feedback: Incorrecto. La huella genética por PCR de STR es un concepto diferente de la unidad temática. -->
 - [ ] D) Hibridación Southern Blot <!-- feedback: Incorrecto. Hibridación Southern Blot describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
@@ -183,9 +183,9 @@ El concepto de La secuenciación de Sanger constituye un fundamento esencial par
 ¿Qué sistema de edición genética utiliza un ARN guía complementario para dirigir la enzima nucleasa Cas9 a cortar el ADN?
 
 ### Opciones
-- [x] A) CRISPR-Cas9 <!-- feedback: ¡Correcto! CRISPR-Cas9 responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) La secuenciación de Sanger <!-- feedback: Incorrecto. La secuenciación de Sanger no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) La enzima de restricción <!-- feedback: Incorrecto. La enzima de restricción es un concepto diferente de la unidad temática. -->
+- [x] C) CRISPR-Cas9 <!-- feedback: ¡Correcto! CRISPR-Cas9 responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) La secuenciación de Sanger <!-- feedback: Incorrecto. La secuenciación de Sanger no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) La enzima de restricción <!-- feedback: Incorrecto. La enzima de restricción es un concepto diferente de la unidad temática. -->
 - [ ] D) El retrovirus o adenovirus modificado <!-- feedback: Incorrecto. El retrovirus o adenovirus modificado describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
@@ -246,9 +246,9 @@ El concepto de Las células madre embrionarias constituye un fundamento esencial
 ¿Qué compuesto hormonal humano es producido industrialmente por bacterias transgénicas portadoras del gen sintético?
 
 ### Opciones
-- [x] A) La insulina recombinante <!-- feedback: ¡Correcto! La insulina recombinante responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) La terapia génica <!-- feedback: Incorrecto. La terapia génica no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) Cultivos Bt resistentes a insectos <!-- feedback: Incorrecto. Cultivos Bt resistentes a insectos es un concepto diferente de la unidad temática. -->
+- [x] C) La insulina recombinante <!-- feedback: ¡Correcto! La insulina recombinante responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) La terapia génica <!-- feedback: Incorrecto. La terapia génica no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) Cultivos Bt resistentes a insectos <!-- feedback: Incorrecto. Cultivos Bt resistentes a insectos es un concepto diferente de la unidad temática. -->
 - [ ] D) Hibridación Southern Blot <!-- feedback: Incorrecto. Hibridación Southern Blot describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
@@ -288,10 +288,10 @@ El concepto de La terapia génica constituye un fundamento esencial para compren
 ¿Qué plantas transgénicas contienen genes de la bacteria *Bacillus thuringiensis* para producir toxinas contra insectos?
 
 ### Opciones
-- [x] A) Cultivos Bt resistentes a insectos <!-- feedback: ¡Correcto! Cultivos Bt resistentes a insectos responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) La reacción en cadena de la polimerasa (PCR) <!-- feedback: Incorrecto. La reacción en cadena de la polimerasa (PCR) no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) La huella genética por PCR de STR <!-- feedback: Incorrecto. La huella genética por PCR de STR es un concepto diferente de la unidad temática. -->
-- [ ] D) El promotor fuerte (como pCMV) <!-- feedback: Incorrecto. El promotor fuerte (como pCMV) describe un proceso o componente distinto. -->
+- [x] D) Cultivos Bt resistentes a insectos <!-- feedback: ¡Correcto! Cultivos Bt resistentes a insectos responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) La reacción en cadena de la polimerasa (PCR) <!-- feedback: Incorrecto. La reacción en cadena de la polimerasa (PCR) no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) La huella genética por PCR de STR <!-- feedback: Incorrecto. La huella genética por PCR de STR es un concepto diferente de la unidad temática. -->
+- [ ] C) El promotor fuerte (como pCMV) <!-- feedback: Incorrecto. El promotor fuerte (como pCMV) describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de Cultivos Bt resistentes a insectos constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.
@@ -309,10 +309,10 @@ El concepto de Cultivos Bt resistentes a insectos constituye un fundamento esenc
 ¿Qué técnica utiliza sondas de ADN monocatenario marcadas para detectar la presencia de secuencias complementarias en un filtro?
 
 ### Opciones
-- [x] A) Hibridación Southern Blot <!-- feedback: ¡Correcto! Hibridación Southern Blot responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) La electroforesis en gel <!-- feedback: Incorrecto. La electroforesis en gel no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) La electroporación <!-- feedback: Incorrecto. La electroporación es un concepto diferente de la unidad temática. -->
-- [ ] D) Las células madre embrionarias <!-- feedback: Incorrecto. Las células madre embrionarias describe un proceso o componente distinto. -->
+- [x] D) Hibridación Southern Blot <!-- feedback: ¡Correcto! Hibridación Southern Blot responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) La electroforesis en gel <!-- feedback: Incorrecto. La electroforesis en gel no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) La electroporación <!-- feedback: Incorrecto. La electroporación es un concepto diferente de la unidad temática. -->
+- [ ] C) Las células madre embrionarias <!-- feedback: Incorrecto. Las células madre embrionarias describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de Hibridación Southern Blot constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.
@@ -351,8 +351,8 @@ El concepto de Transferencia nuclear de células somáticas constituye un fundam
 ¿Qué vector vírico modificado se emplea de forma común para transferir ADN exógeno al genoma de células animales?
 
 ### Opciones
-- [x] A) El retrovirus o adenovirus modificado <!-- feedback: ¡Correcto! El retrovirus o adenovirus modificado responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) La Taq polimerasa <!-- feedback: Incorrecto. La Taq polimerasa no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) El retrovirus o adenovirus modificado <!-- feedback: ¡Correcto! El retrovirus o adenovirus modificado responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) La Taq polimerasa <!-- feedback: Incorrecto. La Taq polimerasa no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) La huella genética por PCR de STR <!-- feedback: Incorrecto. La huella genética por PCR de STR es un concepto diferente de la unidad temática. -->
 - [ ] D) La electroforesis en gel <!-- feedback: Incorrecto. La electroforesis en gel describe un proceso o componente distinto. -->
 
@@ -372,9 +372,9 @@ El concepto de El retrovirus o adenovirus modificado constituye un fundamento es
 ¿Qué enzima permite sintetizar ADN de doble cadena utilizando como molde inicial una molécula de ARN mensajero?
 
 ### Opciones
-- [x] A) La transcriptasa inversa <!-- feedback: ¡Correcto! La transcriptasa inversa responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) La reacción en cadena de la polimerasa (PCR) <!-- feedback: Incorrecto. La reacción en cadena de la polimerasa (PCR) no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) Hibridación Southern Blot <!-- feedback: Incorrecto. Hibridación Southern Blot es un concepto diferente de la unidad temática. -->
+- [x] C) La transcriptasa inversa <!-- feedback: ¡Correcto! La transcriptasa inversa responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) La reacción en cadena de la polimerasa (PCR) <!-- feedback: Incorrecto. La reacción en cadena de la polimerasa (PCR) no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) Hibridación Southern Blot <!-- feedback: Incorrecto. Hibridación Southern Blot es un concepto diferente de la unidad temática. -->
 - [ ] D) El retrovirus o adenovirus modificado <!-- feedback: Incorrecto. El retrovirus o adenovirus modificado describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
@@ -393,10 +393,10 @@ El concepto de La transcriptasa inversa constituye un fundamento esencial para c
 ¿Qué tipo de cultivo celular vegetal regenera una planta completa a partir de células individuales totipotenciales?
 
 ### Opciones
-- [x] A) El cultivo in vitro de tejidos <!-- feedback: ¡Correcto! El cultivo in vitro de tejidos responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Las células madre embrionarias <!-- feedback: Incorrecto. Las células madre embrionarias no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) CRISPR-Cas9 <!-- feedback: Incorrecto. CRISPR-Cas9 es un concepto diferente de la unidad temática. -->
-- [ ] D) La transcriptasa inversa <!-- feedback: Incorrecto. La transcriptasa inversa describe un proceso o componente distinto. -->
+- [x] D) El cultivo in vitro de tejidos <!-- feedback: ¡Correcto! El cultivo in vitro de tejidos responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Las células madre embrionarias <!-- feedback: Incorrecto. Las células madre embrionarias no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) CRISPR-Cas9 <!-- feedback: Incorrecto. CRISPR-Cas9 es un concepto diferente de la unidad temática. -->
+- [ ] C) La transcriptasa inversa <!-- feedback: Incorrecto. La transcriptasa inversa describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de El cultivo in vitro de tejidos constituye un fundamento esencial para comprender los procesos analizados en la unidad de Biotecnología.
@@ -414,8 +414,8 @@ El concepto de El cultivo in vitro de tejidos constituye un fundamento esencial 
 ¿Qué elemento promotor de transcripción viral se acopla a los vectores de expresión para forzar una alta síntesis de proteínas?
 
 ### Opciones
-- [x] A) El promotor fuerte (como pCMV) <!-- feedback: ¡Correcto! El promotor fuerte (como pCMV) responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) El cultivo in vitro de tejidos <!-- feedback: Incorrecto. El cultivo in vitro de tejidos no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) El promotor fuerte (como pCMV) <!-- feedback: ¡Correcto! El promotor fuerte (como pCMV) responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) El cultivo in vitro de tejidos <!-- feedback: Incorrecto. El cultivo in vitro de tejidos no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) El plásmido <!-- feedback: Incorrecto. El plásmido es un concepto diferente de la unidad temática. -->
 - [ ] D) Transferencia nuclear de células somáticas <!-- feedback: Incorrecto. Transferencia nuclear de células somáticas describe un proceso o componente distinto. -->
 

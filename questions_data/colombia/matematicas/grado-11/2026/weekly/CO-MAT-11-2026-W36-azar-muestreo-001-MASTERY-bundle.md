@@ -34,9 +34,9 @@ Este bundle contiene 20 preguntas sobre **azar, métodos de muestreo aleatorio y
 ¿Qué tipo de muestreo probabilístico se está utilizando en este estudio?
 
 ### Opciones
-- [x] A) Muestreo aleatorio simple
+- [x] B) Muestreo aleatorio simple
   <!-- feedback: Cada individuo de la población tiene exactamente la misma probabilidad de ser seleccionado mediante un mecanismo de azar puro. -->
-- [ ] B) Muestreo estratificado
+- [ ] A) Muestreo estratificado
   <!-- feedback: No se dividió previamente la población en subgrupos o estratos homogéneos. -->
 - [ ] C) Muestreo por conveniencia
   <!-- feedback: Es un muestreo probabilístico técnico, no una selección arbitraria por facilidad de acceso. -->
@@ -80,11 +80,11 @@ El muestreo estratificado permite controlar la representatividad de subgrupos cl
 ¿A qué método de muestreo corresponde este procedimiento?
 
 ### Opciones
-- [x] A) Muestreo sistemático
+- [x] C) Muestreo sistemático
   <!-- feedback: Consiste en elegir un punto de partida aleatorio y luego seleccionar cada k-ésimo elemento de la lista o proceso. -->
-- [ ] B) Muestreo aleatorio simple
+- [ ] A) Muestreo aleatorio simple
   <!-- feedback: En el muestreo aleatorio simple no existe un ordenamiento o intervalo prefijado k. -->
-- [ ] C) Muestreo por conglomerados
+- [ ] B) Muestreo por conglomerados
   <!-- feedback: No se están seleccionando grupos enteros o racimos. -->
 - [ ] D) Muestreo intencional
   <!-- feedback: La regla del k-ésimo elemento es un método probabilístico sistemático. -->
@@ -126,11 +126,11 @@ El sesgo de selección ocurre cuando algunos miembros de la población tienen pr
 ¿Cuántos estudiantes de pregrado y de posgrado deben ser seleccionados en la muestra proporcional?
 
 ### Opciones
-- [x] A) 60 de pregrado y 40 de posgrado
+- [x] C) 60 de pregrado y 40 de posgrado
   <!-- feedback: Pregrado: (1200 / 2000) * 100 = 60. Posgrado: (800 / 2000) * 100 = 40. -->
-- [ ] B) 50 de pregrado y 50 de posgrado
+- [ ] A) 50 de pregrado y 50 de posgrado
   <!-- feedback: Esto correspondería a un afijación igual sin respetar la proporcionalidad real. -->
-- [ ] C) 70 de pregrado y 30 de posgrado
+- [ ] B) 70 de pregrado y 30 de posgrado
   <!-- feedback: Sobreestimó el porcentaje de estudiantes de pregrado (70% en lugar del 60%). -->
 - [ ] D) 80 de pregrado y 20 de posgrado
   <!-- feedback: Usó las cantidades de posgrado para calcular porcentajes erróneos. -->
@@ -149,11 +149,11 @@ En la afijación proporcional, cada estrato aporta en función de su peso poblac
 ¿Qué técnica de muestreo probabilístico se aplicó?
 
 ### Opciones
-- [x] A) Muestreo por conglomerados (o racimos)
+- [x] C) Muestreo por conglomerados (o racimos)
   <!-- feedback: Se eligen grupos completos (conglomerados/municipios) al azar y se analizan todos los elementos dentro de los conglomerados seleccionados. -->
-- [ ] B) Muestreo aleatorio simple
+- [ ] A) Muestreo aleatorio simple
   <!-- feedback: Se seleccionaron grupos enteros (municipios), no escuelas individuales directamente de toda la región. -->
-- [ ] C) Muestreo estratificado
+- [ ] B) Muestreo estratificado
   <!-- feedback: En el estratificado se selecciona una muestra dentro de CADA grupo, no grupos completos. -->
 - [ ] D) Muestreo sistemático
   <!-- feedback: No se usó un intervalo de salto constante k. -->
@@ -172,13 +172,13 @@ El muestreo por conglomerados divide la población en grupos heterogéneos (cong
 ¿Cuál es el valor del intervalo de salto $k$?
 
 ### Opciones
-- [x] A) $k = 20$
+- [x] D) $k = 20$
   <!-- feedback: k = N / n = 1000 / 50 = 20. -->
-- [ ] B) $k = 50$
+- [ ] A) $k = 50$
   <!-- feedback: Confundió el intervalo k con el tamaño de la muestra n. -->
-- [ ] C) $k = 10$
+- [ ] B) $k = 10$
   <!-- feedback: Calculó 1000 / 100 por error. -->
-- [ ] D) $k = 5$
+- [ ] C) $k = 5$
   <!-- feedback: Calculó 50 / 10 por error. -->
 
 ### Explicacion Pedagogica
@@ -195,13 +195,13 @@ El intervalo de salto sistemático se define como el cociente entre la població
 ¿Por qué los resultados de esta encuesta NO son estadísticamente representativos de la población general?
 
 ### Opciones
-- [x] A) Debido al sesgo de autoselección (voluntariado), donde suelen participar principalmente personas con opiniones extremas.
+- [x] D) Debido al sesgo de autoselección (voluntariado), donde suelen participar principalmente personas con opiniones extremas.
   <!-- feedback: Al ser una respuesta voluntaria, el grupo de personas que llama no es una muestra aleatoria ni representativa. -->
-- [ ] B) Porque el tamaño de la muestra (2,000 personas) es demasiado pequeño para una ciudad.
+- [ ] A) Porque el tamaño de la muestra (2,000 personas) es demasiado pequeño para una ciudad.
   <!-- feedback: Un tamaño de 2,000 es estadísticamente grande; el problema radica en el método no probabilístico de recolección. -->
-- [ ] C) Porque no se utilizó un programa informático para registrar las llamadas.
+- [ ] B) Porque no se utilizó un programa informático para registrar las llamadas.
   <!-- feedback: El software de registro no afecta la validez muestral del diseño de encuesta. -->
-- [ ] D) Porque las llamadas telefónicas siempre generan errores de cálculo numérico.
+- [ ] C) Porque las llamadas telefónicas siempre generan errores de cálculo numérico.
   <!-- feedback: Afirmación incorrecta y sin base teórica. -->
 
 ### Explicacion Pedagogica
@@ -242,11 +242,11 @@ $P = \frac{8}{50} = \frac{4}{25} = 0.16$.
 ¿Qué tipo de muestreo se aplicó y cómo afecta esto la representatividad?
 
 ### Opciones
-- [x] A) Muestreo por cuotas (no proporcional); requiere ponderar los resultados para reflejar los porcentajes reales de la población.
+- [x] C) Muestreo por cuotas (no proporcional); requiere ponderar los resultados para reflejar los porcentajes reales de la población.
   <!-- feedback: Al fijar cuotas iguales (50-50) que no coinciden con la población (40-60), se sobre-representa a los hombres y se sub-representa a las mujeres. -->
-- [ ] B) Muestreo aleatorio simple; es perfectamente representativo porque incluye 100 personas.
+- [ ] A) Muestreo aleatorio simple; es perfectamente representativo porque incluye 100 personas.
   <!-- feedback: No es aleatorio simple ni respeta la distribución poblacional directa. -->
-- [ ] C) Muestreo estratificado óptimo; no genera ningún sesgo.
+- [ ] B) Muestreo estratificado óptimo; no genera ningún sesgo.
   <!-- feedback: Para ser proporcional debió seleccionar 40 hombres y 60 mujeres. -->
 - [ ] D) Muestreo sistemático lineal; elimina la necesidad de ajustar datos.
   <!-- feedback: No se aplicó una regla de selección por intervalo k. -->
@@ -265,13 +265,13 @@ Al asignar cuotas fijas (50/50) diferentes a la proporción real de la població
 ¿Cómo se denomina este método de muestreo no probabilístico?
 
 ### Opciones
-- [x] A) Muestreo por bola de nieve
+- [x] D) Muestreo por bola de nieve
   <!-- feedback: Es una técnica utilizada cuando la población de estudio es de difícil acceso o clandestina, donde los participantes reclutan a nuevos sujetos. -->
-- [ ] B) Muestreo por conglomerados
+- [ ] A) Muestreo por conglomerados
   <!-- feedback: No se dividió el espacio en regiones geográficas o clusters delimitados. -->
-- [ ] C) Muestreo aleatorio sistemático
+- [ ] B) Muestreo aleatorio sistemático
   <!-- feedback: Carece de marco muestral estructurado y de selección aleatoria por intervalos. -->
-- [ ] D) Muestreo estratificado proporcional
+- [ ] C) Muestreo estratificado proporcional
   <!-- feedback: No hay estratos definidos con probabilidad de selección calculable. -->
 
 ### Explicacion Pedagogica
@@ -288,11 +288,11 @@ El muestreo por bola de nieve (o en cadena) aprovecha las redes sociales de los 
 ¿Es verdadera la afirmación del estadístico y por qué razón técnica?
 
 ### Opciones
-- [x] A) Sí, es verdadera porque al reducir la variabilidad dentro de los estratos se reduce el error estándar global.
+- [x] C) Sí, es verdadera porque al reducir la variabilidad dentro de los estratos se reduce el error estándar global.
   <!-- feedback: La estratificación aprovecha la homogeneidad intra-estrato para minimizar la variabilidad residual del estimador. -->
-- [ ] B) No, es falsa porque el muestreo aleatorio simple siempre tiene menor varianza sin excepción.
+- [ ] A) No, es falsa porque el muestreo aleatorio simple siempre tiene menor varianza sin excepción.
   <!-- feedback: El muestreo estratificado supera al aleatorio simple cuando los estratos están bien construidos. -->
-- [ ] C) No, es falsa porque la varianza no depende del agrupamiento de los datos.
+- [ ] B) No, es falsa porque la varianza no depende del agrupamiento de los datos.
   <!-- feedback: La varianza del estimador depende directamente de la homogeneidad de los estratos. -->
 - [ ] D) Sí, es verdadera pero únicamente si el tamaño de la población es menor a 100 personas.
   <!-- feedback: La propiedad matemática de la estratificación aplica independientemente de la magnitud de N. -->
@@ -311,9 +311,9 @@ La varianza del estimador estratificado depende de la variabilidad interna de lo
 ¿Cuál es la principal deficiencia de validez en este diseño muestral?
 
 ### Opciones
-- [x] A) Sesgo de cobertura, ya que la mayoría de los jóvenes no utiliza o no posee teléfono fijo.
+- [x] B) Sesgo de cobertura, ya que la mayoría de los jóvenes no utiliza o no posee teléfono fijo.
   <!-- feedback: La población de jóvenes suele estar sub-representada en marcos muestrales basados en telefonía fija tradicional. -->
-- [ ] B) Error de cálculo en la fórmula de la varianza.
+- [ ] A) Error de cálculo en la fórmula de la varianza.
   <!-- feedback: El problema no es de cálculo numérico, sino de la definición del marco muestral. -->
 - [ ] C) Violación del Teorema del Límite Central.
   <!-- feedback: El TLC se aplica a distribuciones muestrales y no a los sesgos del marco muestral. -->
@@ -334,13 +334,13 @@ El marco muestral de teléfonos fijos sufre un grave sesgo de cobertura (cobertu
 ¿Cuál será el TERCER elemento seleccionado en esta muestra?
 
 ### Opciones
-- [x] A) 47
+- [x] D) 47
   <!-- feedback: k = 500 / 25 = 20. 1er elemento = 7. 2do elemento = 7 + 20 = 27. 3er elemento = 7 + 2*20 = 47. -->
-- [ ] B) 27
+- [ ] A) 27
   <!-- feedback: Corresponde al segundo elemento de la secuencia sistemática. -->
-- [ ] C) 67
+- [ ] B) 67
   <!-- feedback: Corresponde al cuarto elemento de la secuencia sistemática. -->
-- [ ] D) 21
+- [ ] C) 21
   <!-- feedback: Se sumó 7 + 7 + 7 en lugar del intervalo k = 20. -->
 
 ### Explicacion Pedagogica
@@ -358,11 +358,11 @@ Para el 3er elemento ($i=3$): $x_3 = 7 + (3-1)20 = 7 + 40 = 47$.
 ¿Cuál es la condición general sobre la población original para que el TLC sea aplicable al calcular probabilidades sobre $\bar{X}$ para $n ge 30$?
 
 ### Opciones
-- [x] A) Aplica independientemente de la forma de la distribución poblacional original (incluso si es sesgada o no normal).
+- [x] C) Aplica independientemente de la forma de la distribución poblacional original (incluso si es sesgada o no normal).
   <!-- feedback: El TLC garantiza la normalidad asintótica de la media muestral para muestras grandes (n >= 30) sin importar la distribución original. -->
-- [ ] B) Exige de manera obligatoria que la población original sea exactamente normal.
+- [ ] A) Exige de manera obligatoria que la población original sea exactamente normal.
   <!-- feedback: Si la población es normal, la media es normal para cualquier n. El aporte del TLC es que funciona incluso si la población NO es normal. -->
-- [ ] C) Requiere que la muestra sea mayor al 50% de la población total.
+- [ ] B) Requiere que la muestra sea mayor al 50% de la población total.
   <!-- feedback: Basta con que n sea suficientemente grande en términos absolutos (n >= 30). -->
 - [ ] D) Aplica solo si la desviación estándar es igual a cero.
   <!-- feedback: Si la desviación estándar fuera 0 no habría variabilidad probabilística alguna. -->
@@ -381,13 +381,13 @@ La potencia fundamental del TLC radica en que la distribución muestral de la me
 ¿Cómo se comparan las precisiones (errores estándar) de los dos estudios si ambas poblaciones tienen la misma varianza $\sigma^2$?
 
 ### Opciones
-- [x] A) Tienen prácticamente la MISMA precisión, pues el error estándar depende fundamentalmente del tamaño muestral $n$, no del tamaño poblacional $N$.
+- [x] D) Tienen prácticamente la MISMA precisión, pues el error estándar depende fundamentalmente del tamaño muestral $n$, no del tamaño poblacional $N$.
   <!-- feedback: Salvo el factor de corrección por población finita (despreciable cuando n/N < 0.05), el error estándar depende de sigma / sqrt(n), el cual es idéntico en ambos casos. -->
-- [ ] B) El estudio en la ciudad A es 10 veces más preciso que el de la ciudad B.
+- [ ] A) El estudio en la ciudad A es 10 veces más preciso que el de la ciudad B.
   <!-- feedback: Confunde la proporción n/N con la precisión absoluta del estimador. -->
-- [ ] C) El estudio en la ciudad B es mucho más preciso porque la población es más grande.
+- [ ] B) El estudio en la ciudad B es mucho más preciso porque la población es más grande.
   <!-- feedback: El tamaño de la población no incrementa la precisión muestral. -->
-- [ ] D) Ninguno de los estudios es válido porque $n$ debe ser al menos del 10% de la población.
+- [ ] C) Ninguno de los estudios es válido porque $n$ debe ser al menos del 10% de la población.
   <!-- feedback: En poblaciones grandes, muestras de 1,000 ofrecen alta precisión independientemente de N. -->
 
 ### Explicacion Pedagogica
@@ -406,9 +406,9 @@ Propuesta 2: Seleccionar 100 usuarios al azar de la base de datos completa de ci
 ¿Cuál de las propuestas ofrece mayor validez científica para inferir la satisfacción de la población general de usuarios?
 
 ### Opciones
-- [x] A) La Propuesta 2, porque garantiza una selección aleatoria sin el sesgo del área de urgencias o del horario del lunes.
+- [x] B) La Propuesta 2, porque garantiza una selección aleatoria sin el sesgo del área de urgencias o del horario del lunes.
   <!-- feedback: La Propuesta 2 utiliza un marco muestral completo y probabilístico, mientras la Propuesta 1 sufre de sesgo de conveniencia y de subpoblación. -->
-- [ ] B) La Propuesta 1, porque las personas en urgencias tienen opiniones más recientes sobre el servicio.
+- [ ] A) La Propuesta 1, porque las personas en urgencias tienen opiniones más recientes sobre el servicio.
   <!-- feedback: Los usuarios de urgencias no representan a la totalidad de servicios del hospital (citas médicas, laboratorio, etc.). -->
 - [ ] C) Ambas propuestas son estadísticamente equivalentes por tener $n = 100$.
   <!-- feedback: El tamaño de la muestra no corrige las deficiencias metodológicas del diseño no probabilístico. -->
@@ -429,11 +429,11 @@ La validez inferencial exige un diseño probabilístico sobre la población obje
 ¿Cuál es la probabilidad de que la muestra contenga EXACTAMENTE una pieza defectuosa?
 
 ### Opciones
-- [x] A) $20 \cdot (0.05) \cdot (0.95)^{19} \approx 0.377$
+- [x] C) $20 \cdot (0.05) \cdot (0.95)^{19} \approx 0.377$
   <!-- feedback: P(X=1) = C(20,1) * (0.05)^1 * (0.95)^19 = 20 * 0.05 * (0.95)^19 = 1 * (0.377) = 0.377. -->
-- [ ] B) $(0.05)^{20}$
+- [ ] A) $(0.05)^{20}$
   <!-- feedback: Corresponde a la probabilidad de que TODAS las 20 piezas sean defectuosas. -->
-- [ ] C) $1 - (0.95)^{20}$
+- [ ] B) $1 - (0.95)^{20}$
   <!-- feedback: Corresponde a la probabilidad de obtener AL MENOS una pieza defectuosa. -->
 - [ ] D) 0.05
   <!-- feedback: Confundió la probabilidad puntual de la muestra con la proporción poblacional p. -->
@@ -453,9 +453,9 @@ $P(X=1) = \binom{20}{1} (0.05)^1 (0.95)^{19} = 20   imes 0.05   imes (0.95)^{19}
 Si un lote tiene en realidad un $1%$ de unidades defectuosas, ¿cuál es el valor esperado de piezas defectuosas en la muestra y la interpretación del riesgo del productor?
 
 ### Opciones
-- [x] A) El valor esperado es 0.5 piezas defectuosas; existe un riesgo pequeño pero real de rechazar erróneamente un lote de buena calidad.
+- [x] B) El valor esperado es 0.5 piezas defectuosas; existe un riesgo pequeño pero real de rechazar erróneamente un lote de buena calidad.
   <!-- feedback: E[X] = n * p = 50 * 0.01 = 0.5 piezas. Como P(X >= 2) > 0, hay probabilidad de rechazar un lote que cumple con la calidad estándar del 1%. -->
-- [ ] B) El valor esperado es 5 piezas defectuosas; el lote será rechazado con total certeza.
+- [ ] A) El valor esperado es 5 piezas defectuosas; el lote será rechazado con total certeza.
   <!-- feedback: Calculó 50 * 0.1 en lugar de 50 * 0.01. -->
 - [ ] C) El valor esperado es 0 piezas defectuosas; el lote siempre será aceptado.
   <!-- feedback: El valor esperado es 0.5, no 0, e indica variabilidad probabilística. -->

@@ -34,9 +34,9 @@ Paisajes de Colombia: montañas y valles andinos, pisos térmicos, ríos Magdale
 ¿Cuál de las siguientes afirmaciones describe correctamente el relieve montañoso de Colombia?
 
 ### Opciones
-- [x] A) Colombia es atravesada por tres cordilleras: Occidental, Central y Oriental, con valles entre ellas.
+- [x] B) Colombia es atravesada por tres cordilleras: Occidental, Central y Oriental, con valles entre ellas.
   <!-- feedback: Las tres cordilleras de los Andes y los valles interandinos forman el relieve montañoso del país. -->
-- [ ] B) Colombia es una llanura total sin montañas ni valles.
+- [ ] A) Colombia es una llanura total sin montañas ni valles.
   <!-- feedback: Colombia tiene extensas montañas andinas además de llanuras en otras regiones. -->
 - [ ] C) En Colombia solo existe una pequeña colina cerca de Bogotá.
   <!-- feedback: El sistema montañoso colombiano incluye tres grandes cordilleras, no una sola colina. -->
@@ -57,13 +57,13 @@ Reconocer las tres cordilleras andinas y los valles como elementos básicos del 
 ¿Por qué el clima cambia entre Tunja y Barranquilla?
 
 ### Opciones
-- [x] A) Porque a mayor altura la temperatura baja y a menor altura la temperatura sube.
+- [x] D) Porque a mayor altura la temperatura baja y a menor altura la temperatura sube.
   <!-- feedback: La altura sobre el nivel del mar explica los pisos térmicos: frío en la montaña y cálido en la costa. -->
-- [ ] B) Porque Tunja está más cerca del sol que Barranquilla.
+- [ ] A) Porque Tunja está más cerca del sol que Barranquilla.
   <!-- feedback: La distancia al sol no explica la diferencia; la causa es la altura del relieve. -->
-- [ ] C) Porque en Barranquilla nunca sale el sol.
+- [ ] B) Porque en Barranquilla nunca sale el sol.
   <!-- feedback: Barranquilla es una ciudad cálida y soleada del Caribe colombiano. -->
-- [ ] D) Porque el clima es igual en todo el país y no depende del relieve.
+- [ ] C) Porque el clima es igual en todo el país y no depende del relieve.
   <!-- feedback: El clima colombiano varía mucho según la altura, también llamada piso térmico. -->
 
 ### Explicacion Pedagogica
@@ -80,11 +80,11 @@ Comprender la relación entre la altura del relieve y los pisos térmicos que de
 ¿Cuál es la importancia de los ríos Magdalena y Cauca para las comunidades que viven cerca de ellos?
 
 ### Opciones
-- [x] A) Sirven como vías de transporte, fuente de pesca y agua para cultivos y hogares.
+- [x] C) Sirven como vías de transporte, fuente de pesca y agua para cultivos y hogares.
   <!-- feedback: Los ríos principales también proveen agua, alimento y comunicación entre regiones. -->
-- [ ] B) Solo sirven para adornar el paisaje sin ningún uso.
+- [ ] A) Solo sirven para adornar el paisaje sin ningún uso.
   <!-- feedback: Los ríos tienen usos vitales para el transporte, la pesca y la agricultura. -->
-- [ ] C) Impiden que las personas cultiven o viajen por el país.
+- [ ] B) Impiden que las personas cultiven o viajen por el país.
   <!-- feedback: Por el contrario, los ríos facilitan los viajes y el riego de cultivos. -->
 - [ ] D) Son ríos cortos que se secan todo el año en Huila y Antioquia.
   <!-- feedback: El Magdalena y el Cauca son ríos largos y caudalosos que fluyen todo el año. -->
@@ -149,13 +149,13 @@ Identificar las sabanas de los Llanos y la selva amazónica como paisajes de tie
 ¿Qué relación existe entre el piso térmico y los cultivos en estos dos lugares?
 
 ### Opciones
-- [x] A) Cada piso térmico favorece ciertos cultivos: el café necesita el clima templado y la papa se adapta al clima frío.
+- [x] D) Cada piso térmico favorece ciertos cultivos: el café necesita el clima templado y la papa se adapta al clima frío.
   <!-- feedback: La temperatura y la altura determinan qué plantas crecen mejor en cada zona. -->
-- [ ] B) Los cultivos crecen igual en cualquier clima y el piso térmico no influye.
+- [ ] A) Los cultivos crecen igual en cualquier clima y el piso térmico no influye.
   <!-- feedback: El café no prospera en el frío intenso ni la papa rinde igual en tierras muy cálidas. -->
-- [ ] C) El café solo crece en la nieve y la papa solo crece en el desierto.
+- [ ] B) El café solo crece en la nieve y la papa solo crece en el desierto.
   <!-- feedback: El café es de tierra templada y la papa es de tierra fría, no de nieve ni de desierto. -->
-- [ ] D) Manizales y Samacá tienen el mismo clima porque están en el mismo departamento.
+- [ ] C) Manizales y Samacá tienen el mismo clima porque están en el mismo departamento.
   <!-- feedback: Manizales y Samacá están en departamentos distintos y a alturas con climas diferentes. -->
 
 ### Explicacion Pedagogica
@@ -172,11 +172,11 @@ Analizar cómo los pisos térmicos determinan las actividades agrícolas en las 
 ¿Qué explica que Santa Marta y Quibdó tengan paisajes y climas tan distintos aunque ambas estén cerca del mar?
 
 ### Opciones
-- [x] A) La ubicación, los vientos, las montañas cercanas y la humedad hacen al Caribe más seco y al Pacífico más lluvioso.
+- [x] C) La ubicación, los vientos, las montañas cercanas y la humedad hacen al Caribe más seco y al Pacífico más lluvioso.
   <!-- feedback: El relieve y la humedad del Pacífico también producen selva, mientras el Caribe combina mar con zonas más secas. -->
-- [ ] B) La única causa es que en Quibdó no existe el mar.
+- [ ] A) La única causa es que en Quibdó no existe el mar.
   <!-- feedback: Quibdó está en la región Pacífica, influida por el océano y por lluvias constantes. -->
-- [ ] C) Santa Marta y Quibdó tienen exactamente el mismo paisaje y el mismo clima.
+- [ ] B) Santa Marta y Quibdó tienen exactamente el mismo paisaje y el mismo clima.
   <!-- feedback: Sus paisajes son distintos: playas y sierra en Santa Marta, selva y ríos en Quibdó. -->
 - [ ] D) La diferencia se debe a que Santa Marta queda en otro país.
   <!-- feedback: Ambas ciudades son colombianas, pero pertenecen a regiones costeras diferentes. -->

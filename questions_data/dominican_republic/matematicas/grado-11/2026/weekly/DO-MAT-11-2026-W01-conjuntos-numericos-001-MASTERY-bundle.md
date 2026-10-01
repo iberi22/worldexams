@@ -50,8 +50,8 @@ Los números naturales ($\mathbb{N}$) son el primer conjunto de números utiliza
 ¿Cuál es el conjunto numérico que incluye naturales, sus opuestos y el cero?
 
 ### Opciones
-- [ ] A) Números Fraccionarios <!-- feedback: Incorrecto. Son divisiones. -->
-- [x] B) Números Enteros <!-- feedback: Correcto. Incluyen positivos, negativos y cero. -->
+- [ ] B) Números Fraccionarios <!-- feedback: Incorrecto. Son divisiones. -->
+- [x] A) Números Enteros <!-- feedback: Correcto. Incluyen positivos, negativos y cero. -->
 - [ ] C) Números Irracionales <!-- feedback: Incorrecto. Tienen decimales infinitos. -->
 - [ ] D) Números Primos <!-- feedback: Incorrecto. Es un subconjunto de los naturales. -->
 
@@ -92,8 +92,8 @@ Los números racionales ($\mathbb{Q}$) pueden expresarse como el cociente de dos
 ¿Cómo se clasifica el número $\pi$ (3.14159...)?
 
 ### Opciones
-- [ ] A) Números Enteros <!-- feedback: Incorrecto. No es un valor exacto sin decimales. -->
-- [x] B) Números Irracionales <!-- feedback: Correcto. Tiene decimales infinitos no periódicos. -->
+- [ ] B) Números Enteros <!-- feedback: Incorrecto. No es un valor exacto sin decimales. -->
+- [x] A) Números Irracionales <!-- feedback: Correcto. Tiene decimales infinitos no periódicos. -->
 - [ ] C) Números Naturales <!-- feedback: Incorrecto. Es un decimal. -->
 - [ ] D) Números Racionales <!-- feedback: Incorrecto. No se puede escribir como fracción de enteros. -->
 
@@ -115,8 +115,8 @@ Los números irracionales tienen representación decimal infinita no periódica.
 ### Opciones
 - [ ] A) Números Complejos <!-- feedback: Incorrecto. Incluyen imaginarios. -->
 - [ ] B) Números Enteros <!-- feedback: Incorrecto. Son parte de los racionales. -->
-- [x] C) Números Reales <!-- feedback: Correcto. Los reales agrupan a ambos. -->
-- [ ] D) Números Naturales <!-- feedback: Incorrecto. Solo son una parte. -->
+- [x] D) Números Reales <!-- feedback: Correcto. Los reales agrupan a ambos. -->
+- [ ] C) Números Naturales <!-- feedback: Incorrecto. Solo son una parte. -->
 
 ### Explicacion Pedagogica
 Los números reales ($\mathbb{R}$) son la unión de racionales e irracionales.
@@ -155,9 +155,9 @@ Raíces de números no cuadrados perfectos son irracionales.
 ¿A qué conjunto pertenece el resultado de $(-8 + 5) \times 2$?
 
 ### Opciones
-- [x] A) Números Enteros <!-- feedback: Correcto. El resultado es -6. -->
-- [ ] B) Números Naturales <!-- feedback: Incorrecto. Es negativo. -->
-- [ ] C) Números Irracionales <!-- feedback: Incorrecto. Es exacto. -->
+- [x] C) Números Enteros <!-- feedback: Correcto. El resultado es -6. -->
+- [ ] A) Números Naturales <!-- feedback: Incorrecto. Es negativo. -->
+- [ ] B) Números Irracionales <!-- feedback: Incorrecto. Es exacto. -->
 - [ ] D) Números Imaginarios <!-- feedback: Incorrecto. Es real. -->
 
 ### Explicacion Pedagogica
@@ -177,8 +177,8 @@ $-3 \times 2 = -6$, el cual es un número entero.
 
 ### Opciones
 - [ ] A) Números Reales <!-- feedback: Incorrecto. No incluyen la unidad i. -->
-- [x] B) Números Complejos <!-- feedback: Correcto. Tienen parte real e imaginaria. -->
-- [ ] C) Números Irracionales <!-- feedback: Incorrecto. Son decimales. -->
+- [x] C) Números Complejos <!-- feedback: Correcto. Tienen parte real e imaginaria. -->
+- [ ] B) Números Irracionales <!-- feedback: Incorrecto. Son decimales. -->
 - [ ] D) Números Primos <!-- feedback: Incorrecto. Son naturales. -->
 
 ### Explicacion Pedagogica
@@ -197,9 +197,9 @@ Los complejos ($\mathbb{C}$) incluyen reales e imaginarios.
 ¿Qué afirmación sobre los racionales es correcta?
 
 ### Opciones
-- [ ] A) No hay racionales entre 1 y 2. <!-- feedback: Incorrecto. Hay infinitos. -->
-- [ ] B) Todo racional es natural. <!-- feedback: Incorrecto. 1/2 no es natural. -->
-- [x] C) Entre dos racionales siempre hay otro. <!-- feedback: Correcto. Es la densidad racional. -->
+- [ ] B) No hay racionales entre 1 y 2. <!-- feedback: Incorrecto. Hay infinitos. -->
+- [ ] C) Todo racional es natural. <!-- feedback: Incorrecto. 1/2 no es natural. -->
+- [x] A) Entre dos racionales siempre hay otro. <!-- feedback: Correcto. Es la densidad racional. -->
 - [ ] D) Irracionales son subconjunto de racionales. <!-- feedback: Incorrecto. Son disjuntos. -->
 
 ### Explicacion Pedagogica
@@ -219,9 +219,9 @@ La densidad racional permite hallar siempre un número entre otros dos.
 
 ### Opciones
 - [ ] A) Números Racionales <!-- feedback: Incorrecto. Son cerrados. -->
-- [x] B) Números Enteros <!-- feedback: Correcto. 5/2 no es entero. -->
-- [ ] C) Números Reales <!-- feedback: Incorrecto. Son cerrados. -->
-- [ ] D) Números Complejos <!-- feedback: Incorrecto. Son cerrados. -->
+- [x] D) Números Enteros <!-- feedback: Correcto. 5/2 no es entero. -->
+- [ ] B) Números Reales <!-- feedback: Incorrecto. Son cerrados. -->
+- [ ] C) Números Complejos <!-- feedback: Incorrecto. Son cerrados. -->
 
 ### Explicacion Pedagogica
 Los enteros no son cerrados bajo la división.
@@ -240,9 +240,9 @@ Los enteros no son cerrados bajo la división.
 
 ### Opciones
 - [ ] A) $R \subset Q \subset Z \subset N$ <!-- feedback: Incorrecto. Orden invertido. -->
-- [x] B) $N \subset Z \subset Q \subset R$ <!-- feedback: Correcto. Los naturales están dentro de todos. -->
-- [ ] C) $Q \subset N \subset Z \subset R$ <!-- feedback: Incorrecto. Racionales es el más grande de los tres primeros. -->
-- [ ] D) $N \subset R \subset Q \subset Z$ <!-- feedback: Incorrecto. Reales es el conjunto mayor. -->
+- [x] D) $N \subset Z \subset Q \subset R$ <!-- feedback: Correcto. Los naturales están dentro de todos. -->
+- [ ] B) $Q \subset N \subset Z \subset R$ <!-- feedback: Incorrecto. Racionales es el más grande de los tres primeros. -->
+- [ ] C) $N \subset R \subset Q \subset Z$ <!-- feedback: Incorrecto. Reales es el conjunto mayor. -->
 
 ### Explicacion Pedagogica
 Cada conjunto numérico expande las capacidades del anterior.
@@ -281,9 +281,9 @@ Decimales periódicos tienen fracción generatriz racional.
 ¿Cuál es el resultado de $\sqrt{-4}$?
 
 ### Opciones
-- [ ] A) -2 <!-- feedback: Incorrecto. (-2)^2 es 4. -->
-- [ ] B) 2 <!-- feedback: Incorrecto. 2^2 es 4. -->
-- [x] C) $2i$ <!-- feedback: Correcto. Raíz de negativo usa unidad i. -->
+- [ ] B) -2 <!-- feedback: Incorrecto. (-2)^2 es 4. -->
+- [ ] C) 2 <!-- feedback: Incorrecto. 2^2 es 4. -->
+- [x] A) $2i$ <!-- feedback: Correcto. Raíz de negativo usa unidad i. -->
 - [ ] D) No existe <!-- feedback: Incorrecto. Existe en complejos. -->
 
 ### Explicacion Pedagogica
@@ -303,9 +303,9 @@ La raíz de un negativo requiere números imaginarios.
 
 ### Opciones
 - [ ] A) Todo entero es racional. <!-- feedback: Verdadero. n = n/1. -->
-- [x] B) Algunos irracionales son racionales. <!-- feedback: Falso. Son conjuntos disjuntos. -->
-- [ ] C) Cero es real. <!-- feedback: Verdadero. Está en la recta. -->
-- [ ] D) $\sqrt{2}$ es real. <!-- feedback: Verdadero. Está en la recta. -->
+- [x] D) Algunos irracionales son racionales. <!-- feedback: Falso. Son conjuntos disjuntos. -->
+- [ ] B) Cero es real. <!-- feedback: Verdadero. Está en la recta. -->
+- [ ] C) $\sqrt{2}$ es real. <!-- feedback: Verdadero. Está en la recta. -->
 
 ### Explicacion Pedagogica
 Racionales e irracionales no tienen elementos comunes.
@@ -324,8 +324,8 @@ Racionales e irracionales no tienen elementos comunes.
 
 ### Opciones
 - [ ] A) Números Enteros <!-- feedback: Incorrecto. Hay uno menor. -->
-- [x] B) Números Naturales <!-- feedback: Correcto. Resultado es 2. -->
-- [ ] C) Números Racionales <!-- feedback: Incorrecto. Hay uno menor. -->
+- [x] C) Números Naturales <!-- feedback: Correcto. Resultado es 2. -->
+- [ ] B) Números Racionales <!-- feedback: Incorrecto. Hay uno menor. -->
 - [ ] D) Números Irracionales <!-- feedback: Incorrecto. El pi se cancela. -->
 
 ### Explicacion Pedagogica
@@ -345,8 +345,8 @@ El resultado 2 es un número natural.
 
 ### Opciones
 - [ ] A) Racional <!-- feedback: Incorrecto. Es irracional. -->
-- [x] B) Trascendente <!-- feedback: Correcto. Como pi o e. -->
-- [ ] C) Entero <!-- feedback: Incorrecto. Son algebraicos. -->
+- [x] C) Trascendente <!-- feedback: Correcto. Como pi o e. -->
+- [ ] B) Entero <!-- feedback: Incorrecto. Son algebraicos. -->
 - [ ] D) Imaginario <!-- feedback: Incorrecto. Son reales. -->
 
 ### Explicacion Pedagogica
@@ -366,9 +366,9 @@ Números como $\pi$ son trascendentes.
 
 ### Opciones
 - [ ] A) Siempre verdadera. <!-- feedback: Incorrecto. Ver contraejemplo. -->
-- [x] B) Falsa, $\sqrt{2} + (-\sqrt{2}) = 0$. <!-- feedback: Correcto. El cero es racional. -->
-- [ ] C) Verdadera por infinitud. <!-- feedback: Incorrecto. No es argumento válido. -->
-- [ ] D) Falsa por ser siempre entera. <!-- feedback: Incorrecto. No siempre es entera. -->
+- [x] D) Falsa, $\sqrt{2} + (-\sqrt{2}) = 0$. <!-- feedback: Correcto. El cero es racional. -->
+- [ ] B) Verdadera por infinitud. <!-- feedback: Incorrecto. No es argumento válido. -->
+- [ ] C) Falsa por ser siempre entera. <!-- feedback: Incorrecto. No siempre es entera. -->
 
 ### Explicacion Pedagogica
 La suma de opuestos irracionales da cero.
@@ -387,9 +387,9 @@ La suma de opuestos irracionales da cero.
 
 ### Opciones
 - [ ] A) Naturales <!-- feedback: Incorrecto. Empieza en 1. -->
-- [x] B) Enteros <!-- feedback: Correcto. Infinitos hacia negativos. -->
-- [ ] C) Primos <!-- feedback: Incorrecto. Empieza en 2. -->
-- [ ] D) Enteros pos. <!-- feedback: Incorrecto. Empieza en 1. -->
+- [x] D) Enteros <!-- feedback: Correcto. Infinitos hacia negativos. -->
+- [ ] B) Primos <!-- feedback: Incorrecto. Empieza en 2. -->
+- [ ] C) Enteros pos. <!-- feedback: Incorrecto. Empieza en 1. -->
 
 ### Explicacion Pedagogica
 Los enteros no tienen un límite inferior.
@@ -407,8 +407,8 @@ Los enteros no tienen un límite inferior.
 Clasifica $0.121121112...$
 
 ### Opciones
-- [ ] A) Racional <!-- feedback: Incorrecto. No es periódico. -->
-- [x] B) Irracional <!-- feedback: Correcto. Patrón no repetitivo. -->
+- [ ] B) Racional <!-- feedback: Incorrecto. No es periódico. -->
+- [x] A) Irracional <!-- feedback: Correcto. Patrón no repetitivo. -->
 - [ ] C) Racional fraccional <!-- feedback: Incorrecto. No existe tal fracción. -->
 - [ ] D) Entero <!-- feedback: Incorrecto. Es decimal. -->
 

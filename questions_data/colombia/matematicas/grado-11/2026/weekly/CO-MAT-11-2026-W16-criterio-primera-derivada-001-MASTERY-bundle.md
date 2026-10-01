@@ -35,11 +35,11 @@ alineadas con los DBA del MEN Colombia y el marco de evaluación Saber 11 del IC
 Si para la función $f(x)$ la primera derivada es $f'(x) = 2(x - 1)$, ¿cuál es el comportamiento de la función alrededor de $x = 1$?
 
 ### Opciones
-- [x] A) Decrece para $x < 1$ y crece para $x > 1$, indicando un mínimo relativo en $x = 1$.
+- [x] C) Decrece para $x < 1$ y crece para $x > 1$, indicando un mínimo relativo en $x = 1$.
   <!-- feedback: Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo. -->
-- [ ] B) Crece para $x < 1$ y decrece para $x > 1$, indicando un máximo relativo en $x = 1$.
+- [ ] A) Crece para $x < 1$ y decrece para $x > 1$, indicando un máximo relativo en $x = 1$.
   <!-- feedback: Incorrecto: esa es la definición para un máximo relativo. -->
-- [ ] C) Es siempre creciente en todo su dominio.
+- [ ] B) Es siempre creciente en todo su dominio.
   <!-- feedback: Incorrecto: la derivada cambia de signo, no mantiene un signo constante. -->
 - [ ] D) Es constante en el punto $x = 1$.
   <!-- feedback: Incorrecto: un punto crítico con f'(c)=0 no implica función constante. -->
@@ -58,13 +58,13 @@ Para $x < 1$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 1$, $f'(x) > 0$, po
 Si para la función $f(x)$ la primera derivada es $f'(x) = 2(x - 2)$, ¿cuál es el comportamiento de la función alrededor de $x = 2$?
 
 ### Opciones
-- [x] A) Decrece para $x < 2$ y crece para $x > 2$, indicando un mínimo relativo en $x = 2$.
+- [x] D) Decrece para $x < 2$ y crece para $x > 2$, indicando un mínimo relativo en $x = 2$.
   <!-- feedback: Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo. -->
-- [ ] B) Crece para $x < 2$ y decrece para $x > 2$, indicando un máximo relativo en $x = 2$.
+- [ ] A) Crece para $x < 2$ y decrece para $x > 2$, indicando un máximo relativo en $x = 2$.
   <!-- feedback: Incorrecto: esa es la definición para un máximo relativo. -->
-- [ ] C) Es siempre creciente en todo su dominio.
+- [ ] B) Es siempre creciente en todo su dominio.
   <!-- feedback: Incorrecto: la derivada cambia de signo, no mantiene un signo constante. -->
-- [ ] D) Es constante en el punto $x = 2$.
+- [ ] C) Es constante en el punto $x = 2$.
   <!-- feedback: Incorrecto: un punto crítico con f'(c)=0 no implica función constante. -->
 
 ### Explicacion Pedagogica
@@ -81,13 +81,13 @@ Para $x < 2$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 2$, $f'(x) > 0$, po
 Si para la función $f(x)$ la primera derivada es $f'(x) = 2(x - 3)$, ¿cuál es el comportamiento de la función alrededor de $x = 3$?
 
 ### Opciones
-- [x] A) Decrece para $x < 3$ y crece para $x > 3$, indicando un mínimo relativo en $x = 3$.
+- [x] D) Decrece para $x < 3$ y crece para $x > 3$, indicando un mínimo relativo en $x = 3$.
   <!-- feedback: Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo. -->
-- [ ] B) Crece para $x < 3$ y decrece para $x > 3$, indicando un máximo relativo en $x = 3$.
+- [ ] A) Crece para $x < 3$ y decrece para $x > 3$, indicando un máximo relativo en $x = 3$.
   <!-- feedback: Incorrecto: esa es la definición para un máximo relativo. -->
-- [ ] C) Es siempre creciente en todo su dominio.
+- [ ] B) Es siempre creciente en todo su dominio.
   <!-- feedback: Incorrecto: la derivada cambia de signo, no mantiene un signo constante. -->
-- [ ] D) Es constante en el punto $x = 3$.
+- [ ] C) Es constante en el punto $x = 3$.
   <!-- feedback: Incorrecto: un punto crítico con f'(c)=0 no implica función constante. -->
 
 ### Explicacion Pedagogica
@@ -150,13 +150,13 @@ Para $x < 5$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 5$, $f'(x) > 0$, po
 Si para la función $f(x)$ la primera derivada es $f'(x) = 2(x - 6)$, ¿cuál es el comportamiento de la función alrededor de $x = 6$?
 
 ### Opciones
-- [x] A) Decrece para $x < 6$ y crece para $x > 6$, indicando un mínimo relativo en $x = 6$.
+- [x] D) Decrece para $x < 6$ y crece para $x > 6$, indicando un mínimo relativo en $x = 6$.
   <!-- feedback: Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo. -->
-- [ ] B) Crece para $x < 6$ y decrece para $x > 6$, indicando un máximo relativo en $x = 6$.
+- [ ] A) Crece para $x < 6$ y decrece para $x > 6$, indicando un máximo relativo en $x = 6$.
   <!-- feedback: Incorrecto: esa es la definición para un máximo relativo. -->
-- [ ] C) Es siempre creciente en todo su dominio.
+- [ ] B) Es siempre creciente en todo su dominio.
   <!-- feedback: Incorrecto: la derivada cambia de signo, no mantiene un signo constante. -->
-- [ ] D) Es constante en el punto $x = 6$.
+- [ ] C) Es constante en el punto $x = 6$.
   <!-- feedback: Incorrecto: un punto crítico con f'(c)=0 no implica función constante. -->
 
 ### Explicacion Pedagogica
@@ -173,9 +173,9 @@ Para $x < 6$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 6$, $f'(x) > 0$, po
 Si para la función $f(x)$ la primera derivada es $f'(x) = 2(x - 7)$, ¿cuál es el comportamiento de la función alrededor de $x = 7$?
 
 ### Opciones
-- [x] A) Decrece para $x < 7$ y crece para $x > 7$, indicando un mínimo relativo en $x = 7$.
+- [x] B) Decrece para $x < 7$ y crece para $x > 7$, indicando un mínimo relativo en $x = 7$.
   <!-- feedback: Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo. -->
-- [ ] B) Crece para $x < 7$ y decrece para $x > 7$, indicando un máximo relativo en $x = 7$.
+- [ ] A) Crece para $x < 7$ y decrece para $x > 7$, indicando un máximo relativo en $x = 7$.
   <!-- feedback: Incorrecto: esa es la definición para un máximo relativo. -->
 - [ ] C) Es siempre creciente en todo su dominio.
   <!-- feedback: Incorrecto: la derivada cambia de signo, no mantiene un signo constante. -->
@@ -219,9 +219,9 @@ Para $x < 8$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 8$, $f'(x) > 0$, po
 Si para la función $f(x)$ la primera derivada es $f'(x) = 2(x - 9)$, ¿cuál es el comportamiento de la función alrededor de $x = 9$?
 
 ### Opciones
-- [x] A) Decrece para $x < 9$ y crece para $x > 9$, indicando un mínimo relativo en $x = 9$.
+- [x] B) Decrece para $x < 9$ y crece para $x > 9$, indicando un mínimo relativo en $x = 9$.
   <!-- feedback: Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo. -->
-- [ ] B) Crece para $x < 9$ y decrece para $x > 9$, indicando un máximo relativo en $x = 9$.
+- [ ] A) Crece para $x < 9$ y decrece para $x > 9$, indicando un máximo relativo en $x = 9$.
   <!-- feedback: Incorrecto: esa es la definición para un máximo relativo. -->
 - [ ] C) Es siempre creciente en todo su dominio.
   <!-- feedback: Incorrecto: la derivada cambia de signo, no mantiene un signo constante. -->
@@ -242,9 +242,9 @@ Para $x < 9$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 9$, $f'(x) > 0$, po
 Si para la función $f(x)$ la primera derivada es $f'(x) = 2(x - 10)$, ¿cuál es el comportamiento de la función alrededor de $x = 10$?
 
 ### Opciones
-- [x] A) Decrece para $x < 10$ y crece para $x > 10$, indicando un mínimo relativo en $x = 10$.
+- [x] B) Decrece para $x < 10$ y crece para $x > 10$, indicando un mínimo relativo en $x = 10$.
   <!-- feedback: Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo. -->
-- [ ] B) Crece para $x < 10$ y decrece para $x > 10$, indicando un máximo relativo en $x = 10$.
+- [ ] A) Crece para $x < 10$ y decrece para $x > 10$, indicando un máximo relativo en $x = 10$.
   <!-- feedback: Incorrecto: esa es la definición para un máximo relativo. -->
 - [ ] C) Es siempre creciente en todo su dominio.
   <!-- feedback: Incorrecto: la derivada cambia de signo, no mantiene un signo constante. -->
@@ -265,9 +265,9 @@ Para $x < 10$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 10$, $f'(x) > 0$, 
 Si para la función $f(x)$ la primera derivada es $f'(x) = 2(x - 11)$, ¿cuál es el comportamiento de la función alrededor de $x = 11$?
 
 ### Opciones
-- [x] A) Decrece para $x < 11$ y crece para $x > 11$, indicando un mínimo relativo en $x = 11$.
+- [x] B) Decrece para $x < 11$ y crece para $x > 11$, indicando un mínimo relativo en $x = 11$.
   <!-- feedback: Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo. -->
-- [ ] B) Crece para $x < 11$ y decrece para $x > 11$, indicando un máximo relativo en $x = 11$.
+- [ ] A) Crece para $x < 11$ y decrece para $x > 11$, indicando un máximo relativo en $x = 11$.
   <!-- feedback: Incorrecto: esa es la definición para un máximo relativo. -->
 - [ ] C) Es siempre creciente en todo su dominio.
   <!-- feedback: Incorrecto: la derivada cambia de signo, no mantiene un signo constante. -->
@@ -288,11 +288,11 @@ Para $x < 11$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 11$, $f'(x) > 0$, 
 Si para la función $f(x)$ la primera derivada es $f'(x) = 2(x - 12)$, ¿cuál es el comportamiento de la función alrededor de $x = 12$?
 
 ### Opciones
-- [x] A) Decrece para $x < 12$ y crece para $x > 12$, indicando un mínimo relativo en $x = 12$.
+- [x] C) Decrece para $x < 12$ y crece para $x > 12$, indicando un mínimo relativo en $x = 12$.
   <!-- feedback: Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo. -->
-- [ ] B) Crece para $x < 12$ y decrece para $x > 12$, indicando un máximo relativo en $x = 12$.
+- [ ] A) Crece para $x < 12$ y decrece para $x > 12$, indicando un máximo relativo en $x = 12$.
   <!-- feedback: Incorrecto: esa es la definición para un máximo relativo. -->
-- [ ] C) Es siempre creciente en todo su dominio.
+- [ ] B) Es siempre creciente en todo su dominio.
   <!-- feedback: Incorrecto: la derivada cambia de signo, no mantiene un signo constante. -->
 - [ ] D) Es constante en el punto $x = 12$.
   <!-- feedback: Incorrecto: un punto crítico con f'(c)=0 no implica función constante. -->
@@ -357,9 +357,9 @@ Para $x < 14$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 14$, $f'(x) > 0$, 
 Si para la función $f(x)$ la primera derivada es $f'(x) = 2(x - 15)$, ¿cuál es el comportamiento de la función alrededor de $x = 15$?
 
 ### Opciones
-- [x] A) Decrece para $x < 15$ y crece para $x > 15$, indicando un mínimo relativo en $x = 15$.
+- [x] B) Decrece para $x < 15$ y crece para $x > 15$, indicando un mínimo relativo en $x = 15$.
   <!-- feedback: Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo. -->
-- [ ] B) Crece para $x < 15$ y decrece para $x > 15$, indicando un máximo relativo en $x = 15$.
+- [ ] A) Crece para $x < 15$ y decrece para $x > 15$, indicando un máximo relativo en $x = 15$.
   <!-- feedback: Incorrecto: esa es la definición para un máximo relativo. -->
 - [ ] C) Es siempre creciente en todo su dominio.
   <!-- feedback: Incorrecto: la derivada cambia de signo, no mantiene un signo constante. -->
@@ -380,9 +380,9 @@ Para $x < 15$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 15$, $f'(x) > 0$, 
 Si para la función $f(x)$ la primera derivada es $f'(x) = 2(x - 16)$, ¿cuál es el comportamiento de la función alrededor de $x = 16$?
 
 ### Opciones
-- [x] A) Decrece para $x < 16$ y crece para $x > 16$, indicando un mínimo relativo en $x = 16$.
+- [x] B) Decrece para $x < 16$ y crece para $x > 16$, indicando un mínimo relativo en $x = 16$.
   <!-- feedback: Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo. -->
-- [ ] B) Crece para $x < 16$ y decrece para $x > 16$, indicando un máximo relativo en $x = 16$.
+- [ ] A) Crece para $x < 16$ y decrece para $x > 16$, indicando un máximo relativo en $x = 16$.
   <!-- feedback: Incorrecto: esa es la definición para un máximo relativo. -->
 - [ ] C) Es siempre creciente en todo su dominio.
   <!-- feedback: Incorrecto: la derivada cambia de signo, no mantiene un signo constante. -->
@@ -403,9 +403,9 @@ Para $x < 16$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 16$, $f'(x) > 0$, 
 Si para la función $f(x)$ la primera derivada es $f'(x) = 2(x - 17)$, ¿cuál es el comportamiento de la función alrededor de $x = 17$?
 
 ### Opciones
-- [x] A) Decrece para $x < 17$ y crece para $x > 17$, indicando un mínimo relativo en $x = 17$.
+- [x] B) Decrece para $x < 17$ y crece para $x > 17$, indicando un mínimo relativo en $x = 17$.
   <!-- feedback: Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo. -->
-- [ ] B) Crece para $x < 17$ y decrece para $x > 17$, indicando un máximo relativo en $x = 17$.
+- [ ] A) Crece para $x < 17$ y decrece para $x > 17$, indicando un máximo relativo en $x = 17$.
   <!-- feedback: Incorrecto: esa es la definición para un máximo relativo. -->
 - [ ] C) Es siempre creciente en todo su dominio.
   <!-- feedback: Incorrecto: la derivada cambia de signo, no mantiene un signo constante. -->
@@ -426,13 +426,13 @@ Para $x < 17$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 17$, $f'(x) > 0$, 
 Si para la función $f(x)$ la primera derivada es $f'(x) = 2(x - 18)$, ¿cuál es el comportamiento de la función alrededor de $x = 18$?
 
 ### Opciones
-- [x] A) Decrece para $x < 18$ y crece para $x > 18$, indicando un mínimo relativo en $x = 18$.
+- [x] D) Decrece para $x < 18$ y crece para $x > 18$, indicando un mínimo relativo en $x = 18$.
   <!-- feedback: Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo. -->
-- [ ] B) Crece para $x < 18$ y decrece para $x > 18$, indicando un máximo relativo en $x = 18$.
+- [ ] A) Crece para $x < 18$ y decrece para $x > 18$, indicando un máximo relativo en $x = 18$.
   <!-- feedback: Incorrecto: esa es la definición para un máximo relativo. -->
-- [ ] C) Es siempre creciente en todo su dominio.
+- [ ] B) Es siempre creciente en todo su dominio.
   <!-- feedback: Incorrecto: la derivada cambia de signo, no mantiene un signo constante. -->
-- [ ] D) Es constante en el punto $x = 18$.
+- [ ] C) Es constante en el punto $x = 18$.
   <!-- feedback: Incorrecto: un punto crítico con f'(c)=0 no implica función constante. -->
 
 ### Explicacion Pedagogica
@@ -449,13 +449,13 @@ Para $x < 18$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 18$, $f'(x) > 0$, 
 Si para la función $f(x)$ la primera derivada es $f'(x) = 2(x - 19)$, ¿cuál es el comportamiento de la función alrededor de $x = 19$?
 
 ### Opciones
-- [x] A) Decrece para $x < 19$ y crece para $x > 19$, indicando un mínimo relativo en $x = 19$.
+- [x] D) Decrece para $x < 19$ y crece para $x > 19$, indicando un mínimo relativo en $x = 19$.
   <!-- feedback: Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo. -->
-- [ ] B) Crece para $x < 19$ y decrece para $x > 19$, indicando un máximo relativo en $x = 19$.
+- [ ] A) Crece para $x < 19$ y decrece para $x > 19$, indicando un máximo relativo en $x = 19$.
   <!-- feedback: Incorrecto: esa es la definición para un máximo relativo. -->
-- [ ] C) Es siempre creciente en todo su dominio.
+- [ ] B) Es siempre creciente en todo su dominio.
   <!-- feedback: Incorrecto: la derivada cambia de signo, no mantiene un signo constante. -->
-- [ ] D) Es constante en el punto $x = 19$.
+- [ ] C) Es constante en el punto $x = 19$.
   <!-- feedback: Incorrecto: un punto crítico con f'(c)=0 no implica función constante. -->
 
 ### Explicacion Pedagogica
@@ -472,11 +472,11 @@ Para $x < 19$, $f'(x) < 0$, por lo que $f$ decrece. Para $x > 19$, $f'(x) > 0$, 
 Si para la función $f(x)$ la primera derivada es $f'(x) = 2(x - 20)$, ¿cuál es el comportamiento de la función alrededor de $x = 20$?
 
 ### Opciones
-- [x] A) Decrece para $x < 20$ y crece para $x > 20$, indicando un mínimo relativo en $x = 20$.
+- [x] C) Decrece para $x < 20$ y crece para $x > 20$, indicando un mínimo relativo en $x = 20$.
   <!-- feedback: Correcto: el cambio de signo de f' de negativo a positivo señala un mínimo. -->
-- [ ] B) Crece para $x < 20$ y decrece para $x > 20$, indicando un máximo relativo en $x = 20$.
+- [ ] A) Crece para $x < 20$ y decrece para $x > 20$, indicando un máximo relativo en $x = 20$.
   <!-- feedback: Incorrecto: esa es la definición para un máximo relativo. -->
-- [ ] C) Es siempre creciente en todo su dominio.
+- [ ] B) Es siempre creciente en todo su dominio.
   <!-- feedback: Incorrecto: la derivada cambia de signo, no mantiene un signo constante. -->
 - [ ] D) Es constante en el punto $x = 20$.
   <!-- feedback: Incorrecto: un punto crítico con f'(c)=0 no implica función constante. -->

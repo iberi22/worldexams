@@ -32,9 +32,9 @@ Resuelve la siguiente inecuación de primer grado para la variable $x$:
 $$2x + 3 < 7$$
 
 ### Opciones
-- [x] A) $x < 2$ <!-- feedback: Correcto. Al restar 3 y dividir entre 2 obtenemos $x < 2$. -->
-- [ ] B) $x > 2$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
-- [ ] C) $x < 0$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
+- [x] C) $x < 2$ <!-- feedback: Correcto. Al restar 3 y dividir entre 2 obtenemos $x < 2$. -->
+- [ ] A) $x > 2$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
+- [ ] B) $x < 0$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
 - [ ] D) $x \le 2$ <!-- feedback: Incorrecto. La desigualdad debe ser estricta. -->
 
 ### Explicacion Pedagogica
@@ -76,9 +76,9 @@ Resuelve la siguiente inecuación de primer grado para la variable $x$:
 $$2x + 7 < 15$$
 
 ### Opciones
-- [x] A) $x < 4$ <!-- feedback: Correcto. Al restar 7 y dividir entre 2 obtenemos $x < 4$. -->
-- [ ] B) $x > 4$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
-- [ ] C) $x < 2$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
+- [x] C) $x < 4$ <!-- feedback: Correcto. Al restar 7 y dividir entre 2 obtenemos $x < 4$. -->
+- [ ] A) $x > 4$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
+- [ ] B) $x < 2$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
 - [ ] D) $x \le 4$ <!-- feedback: Incorrecto. La desigualdad debe ser estricta. -->
 
 ### Explicacion Pedagogica
@@ -98,8 +98,8 @@ Resuelve la siguiente inecuación de primer grado para la variable $x$:
 $$3x + 9 < 24$$
 
 ### Opciones
-- [x] A) $x < 5$ <!-- feedback: Correcto. Al restar 9 y dividir entre 3 obtenemos $x < 5$. -->
-- [ ] B) $x > 5$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
+- [x] B) $x < 5$ <!-- feedback: Correcto. Al restar 9 y dividir entre 3 obtenemos $x < 5$. -->
+- [ ] A) $x > 5$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
 - [ ] C) $x < 3$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
 - [ ] D) $x \le 5$ <!-- feedback: Incorrecto. La desigualdad debe ser estricta. -->
 
@@ -123,9 +123,9 @@ Resuelve la siguiente inecuación de primer grado para la variable $x$:
 $$2x + 11 < 23$$
 
 ### Opciones
-- [x] A) $x < 6$ <!-- feedback: Correcto. Al restar 11 y dividir entre 2 obtenemos $x < 6$. -->
-- [ ] B) $x > 6$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
-- [ ] C) $x < 4$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
+- [x] C) $x < 6$ <!-- feedback: Correcto. Al restar 11 y dividir entre 2 obtenemos $x < 6$. -->
+- [ ] A) $x > 6$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
+- [ ] B) $x < 4$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
 - [ ] D) $x \le 6$ <!-- feedback: Incorrecto. La desigualdad debe ser estricta. -->
 
 ### Explicacion Pedagogica
@@ -167,8 +167,8 @@ Resuelve la siguiente inecuación de primer grado para la variable $x$:
 $$2x + 15 < 31$$
 
 ### Opciones
-- [x] A) $x < 8$ <!-- feedback: Correcto. Al restar 15 y dividir entre 2 obtenemos $x < 8$. -->
-- [ ] B) $x > 8$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
+- [x] B) $x < 8$ <!-- feedback: Correcto. Al restar 15 y dividir entre 2 obtenemos $x < 8$. -->
+- [ ] A) $x > 8$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
 - [ ] C) $x < 6$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
 - [ ] D) $x \le 8$ <!-- feedback: Incorrecto. La desigualdad debe ser estricta. -->
 
@@ -189,10 +189,10 @@ Resuelve la siguiente inecuación de primer grado para la variable $x$:
 $$3x + 17 < 44$$
 
 ### Opciones
-- [x] A) $x < 9$ <!-- feedback: Correcto. Al restar 17 y dividir entre 3 obtenemos $x < 9$. -->
-- [ ] B) $x > 9$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
-- [ ] C) $x < 7$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
-- [ ] D) $x \le 9$ <!-- feedback: Incorrecto. La desigualdad debe ser estricta. -->
+- [x] D) $x < 9$ <!-- feedback: Correcto. Al restar 17 y dividir entre 3 obtenemos $x < 9$. -->
+- [ ] A) $x > 9$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
+- [ ] B) $x < 7$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
+- [ ] C) $x \le 9$ <!-- feedback: Incorrecto. La desigualdad debe ser estricta. -->
 
 ### Explicacion Pedagogica
 Para resolver la inecuación lineal $$3x + 17 < 44$$, primero restamos 17 en ambos lados: $$3x < 44 - 17 \Rightarrow 3x < 27$$. Dividimos entre 3 para despejar $x$: $$x < \frac{ 27 }{ 3 } \Rightarrow x < 9$$. Como el divisor es positivo, el sentido de la desigualdad se mantiene igual.
@@ -211,8 +211,8 @@ Resuelve la siguiente inecuación de primer grado para la variable $x$:
 $$2x + 19 < 39$$
 
 ### Opciones
-- [x] A) $x < 10$ <!-- feedback: Correcto. Al restar 19 y dividir entre 2 obtenemos $x < 10$. -->
-- [ ] B) $x > 10$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
+- [x] B) $x < 10$ <!-- feedback: Correcto. Al restar 19 y dividir entre 2 obtenemos $x < 10$. -->
+- [ ] A) $x > 10$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
 - [ ] C) $x < 8$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
 - [ ] D) $x \le 10$ <!-- feedback: Incorrecto. La desigualdad debe ser estricta. -->
 
@@ -233,9 +233,9 @@ Resuelve la siguiente inecuación de primer grado para la variable $x$:
 $$3x + 21 < 54$$
 
 ### Opciones
-- [x] A) $x < 11$ <!-- feedback: Correcto. Al restar 21 y dividir entre 3 obtenemos $x < 11$. -->
-- [ ] B) $x > 11$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
-- [ ] C) $x < 9$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
+- [x] C) $x < 11$ <!-- feedback: Correcto. Al restar 21 y dividir entre 3 obtenemos $x < 11$. -->
+- [ ] A) $x > 11$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
+- [ ] B) $x < 9$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
 - [ ] D) $x \le 11$ <!-- feedback: Incorrecto. La desigualdad debe ser estricta. -->
 
 ### Explicacion Pedagogica
@@ -258,10 +258,10 @@ Resuelve la siguiente inecuación de primer grado para la variable $x$:
 $$2x + 23 < 47$$
 
 ### Opciones
-- [x] A) $x < 12$ <!-- feedback: Correcto. Al restar 23 y dividir entre 2 obtenemos $x < 12$. -->
-- [ ] B) $x > 12$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
-- [ ] C) $x < 10$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
-- [ ] D) $x \le 12$ <!-- feedback: Incorrecto. La desigualdad debe ser estricta. -->
+- [x] D) $x < 12$ <!-- feedback: Correcto. Al restar 23 y dividir entre 2 obtenemos $x < 12$. -->
+- [ ] A) $x > 12$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
+- [ ] B) $x < 10$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
+- [ ] C) $x \le 12$ <!-- feedback: Incorrecto. La desigualdad debe ser estricta. -->
 
 ### Explicacion Pedagogica
 Para resolver la inecuación lineal $$2x + 23 < 47$$, primero restamos 23 en ambos lados: $$2x < 47 - 23 \Rightarrow 2x < 24$$. Dividimos entre 2 para despejar $x$: $$x < \frac{ 24 }{ 2 } \Rightarrow x < 12$$. Como el divisor es positivo, el sentido de la desigualdad se mantiene igual.
@@ -280,10 +280,10 @@ Resuelve la siguiente inecuación de primer grado para la variable $x$:
 $$3x + 25 < 64$$
 
 ### Opciones
-- [x] A) $x < 13$ <!-- feedback: Correcto. Al restar 25 y dividir entre 3 obtenemos $x < 13$. -->
-- [ ] B) $x > 13$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
-- [ ] C) $x < 11$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
-- [ ] D) $x \le 13$ <!-- feedback: Incorrecto. La desigualdad debe ser estricta. -->
+- [x] D) $x < 13$ <!-- feedback: Correcto. Al restar 25 y dividir entre 3 obtenemos $x < 13$. -->
+- [ ] A) $x > 13$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
+- [ ] B) $x < 11$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
+- [ ] C) $x \le 13$ <!-- feedback: Incorrecto. La desigualdad debe ser estricta. -->
 
 ### Explicacion Pedagogica
 Para resolver la inecuación lineal $$3x + 25 < 64$$, primero restamos 25 en ambos lados: $$3x < 64 - 25 \Rightarrow 3x < 39$$. Dividimos entre 3 para despejar $x$: $$x < \frac{ 39 }{ 3 } \Rightarrow x < 13$$. Como el divisor es positivo, el sentido de la desigualdad se mantiene igual.
@@ -302,8 +302,8 @@ Resuelve la siguiente inecuación de primer grado para la variable $x$:
 $$2x + 27 < 55$$
 
 ### Opciones
-- [x] A) $x < 14$ <!-- feedback: Correcto. Al restar 27 y dividir entre 2 obtenemos $x < 14$. -->
-- [ ] B) $x > 14$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
+- [x] B) $x < 14$ <!-- feedback: Correcto. Al restar 27 y dividir entre 2 obtenemos $x < 14$. -->
+- [ ] A) $x > 14$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
 - [ ] C) $x < 12$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
 - [ ] D) $x \le 14$ <!-- feedback: Incorrecto. La desigualdad debe ser estricta. -->
 
@@ -324,8 +324,8 @@ Resuelve la siguiente inecuación de primer grado para la variable $x$:
 $$3x + 29 < 74$$
 
 ### Opciones
-- [x] A) $x < 15$ <!-- feedback: Correcto. Al restar 29 y dividir entre 3 obtenemos $x < 15$. -->
-- [ ] B) $x > 15$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
+- [x] B) $x < 15$ <!-- feedback: Correcto. Al restar 29 y dividir entre 3 obtenemos $x < 15$. -->
+- [ ] A) $x > 15$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
 - [ ] C) $x < 13$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
 - [ ] D) $x \le 15$ <!-- feedback: Incorrecto. La desigualdad debe ser estricta. -->
 
@@ -346,9 +346,9 @@ Resuelve la siguiente inecuación de primer grado para la variable $x$:
 $$2x + 31 < 63$$
 
 ### Opciones
-- [x] A) $x < 16$ <!-- feedback: Correcto. Al restar 31 y dividir entre 2 obtenemos $x < 16$. -->
-- [ ] B) $x > 16$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
-- [ ] C) $x < 14$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
+- [x] C) $x < 16$ <!-- feedback: Correcto. Al restar 31 y dividir entre 2 obtenemos $x < 16$. -->
+- [ ] A) $x > 16$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
+- [ ] B) $x < 14$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
 - [ ] D) $x \le 16$ <!-- feedback: Incorrecto. La desigualdad debe ser estricta. -->
 
 ### Explicacion Pedagogica
@@ -368,10 +368,10 @@ Resuelve la siguiente inecuación de primer grado para la variable $x$:
 $$3x + 33 < 84$$
 
 ### Opciones
-- [x] A) $x < 17$ <!-- feedback: Correcto. Al restar 33 y dividir entre 3 obtenemos $x < 17$. -->
-- [ ] B) $x > 17$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
-- [ ] C) $x < 15$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
-- [ ] D) $x \le 17$ <!-- feedback: Incorrecto. La desigualdad debe ser estricta. -->
+- [x] D) $x < 17$ <!-- feedback: Correcto. Al restar 33 y dividir entre 3 obtenemos $x < 17$. -->
+- [ ] A) $x > 17$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
+- [ ] B) $x < 15$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
+- [ ] C) $x \le 17$ <!-- feedback: Incorrecto. La desigualdad debe ser estricta. -->
 
 ### Explicacion Pedagogica
 Para resolver la inecuación lineal $$3x + 33 < 84$$, primero restamos 33 en ambos lados: $$3x < 84 - 33 \Rightarrow 3x < 51$$. Dividimos entre 3 para despejar $x$: $$x < \frac{ 51 }{ 3 } \Rightarrow x < 17$$. Como el divisor es positivo, el sentido de la desigualdad se mantiene igual.
@@ -393,9 +393,9 @@ Resuelve la siguiente inecuación de primer grado para la variable $x$:
 $$2x + 35 < 71$$
 
 ### Opciones
-- [x] A) $x < 18$ <!-- feedback: Correcto. Al restar 35 y dividir entre 2 obtenemos $x < 18$. -->
-- [ ] B) $x > 18$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
-- [ ] C) $x < 16$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
+- [x] C) $x < 18$ <!-- feedback: Correcto. Al restar 35 y dividir entre 2 obtenemos $x < 18$. -->
+- [ ] A) $x > 18$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
+- [ ] B) $x < 16$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
 - [ ] D) $x \le 18$ <!-- feedback: Incorrecto. La desigualdad debe ser estricta. -->
 
 ### Explicacion Pedagogica
@@ -415,8 +415,8 @@ Resuelve la siguiente inecuación de primer grado para la variable $x$:
 $$3x + 37 < 94$$
 
 ### Opciones
-- [x] A) $x < 19$ <!-- feedback: Correcto. Al restar 37 y dividir entre 3 obtenemos $x < 19$. -->
-- [ ] B) $x > 19$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
+- [x] B) $x < 19$ <!-- feedback: Correcto. Al restar 37 y dividir entre 3 obtenemos $x < 19$. -->
+- [ ] A) $x > 19$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
 - [ ] C) $x < 17$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
 - [ ] D) $x \le 19$ <!-- feedback: Incorrecto. La desigualdad debe ser estricta. -->
 
@@ -437,8 +437,8 @@ Resuelve la siguiente inecuación de primer grado para la variable $x$:
 $$2x + 39 < 79$$
 
 ### Opciones
-- [x] A) $x < 20$ <!-- feedback: Correcto. Al restar 39 y dividir entre 2 obtenemos $x < 20$. -->
-- [ ] B) $x > 20$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
+- [x] B) $x < 20$ <!-- feedback: Correcto. Al restar 39 y dividir entre 2 obtenemos $x < 20$. -->
+- [ ] A) $x > 20$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
 - [ ] C) $x < 18$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
 - [ ] D) $x \le 20$ <!-- feedback: Incorrecto. La desigualdad debe ser estricta. -->
 
@@ -459,9 +459,9 @@ Resuelve la siguiente inecuación de primer grado para la variable $x$:
 $$3x + 41 < 104$$
 
 ### Opciones
-- [x] A) $x < 21$ <!-- feedback: Correcto. Al restar 41 y dividir entre 3 obtenemos $x < 21$. -->
-- [ ] B) $x > 21$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
-- [ ] C) $x < 19$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
+- [x] C) $x < 21$ <!-- feedback: Correcto. Al restar 41 y dividir entre 3 obtenemos $x < 21$. -->
+- [ ] A) $x > 21$ <!-- feedback: Incorrecto. Se cambió de forma errónea el sentido de la desigualdad. -->
+- [ ] B) $x < 19$ <!-- feedback: Incorrecto. Error de cálculo en la división. -->
 - [ ] D) $x \le 21$ <!-- feedback: Incorrecto. La desigualdad debe ser estricta. -->
 
 ### Explicacion Pedagogica

@@ -55,9 +55,9 @@ Una progresión aritmética es una sucesión donde cada término se obtiene suma
 ¿Cuál es la diferencia $d$ de esta progresión y cuánto dinero se pondrá el décimo día?
 
 ### Opciones
-- [ ] A) $d = 3$; S/ 32
+- [ ] B) $d = 3$; S/ 32
   <!-- feedback: Incorrecto. Calculó mal el décimo término. -->
-- [x] B) $d = 3$; S/ 29
+- [x] A) $d = 3$; S/ 29
   <!-- feedback: Correcto. $d = 5 - 2 = 3$. $a_{10} = 2 + (9) \cdot 3 = 2 + 27 = 29$. -->
 - [ ] C) $d = 2$; S/ 20
   <!-- feedback: Incorrecto. La diferencia entre los días no es 2. -->
@@ -82,9 +82,9 @@ Dada la progresión geométrica: 3, 6, 12, 24, ... Determine el valor del octavo
 ### Opciones
 - [ ] A) 192
   <!-- feedback: Incorrecto. Este es el séptimo término. -->
-- [x] B) 384
+- [x] C) 384
   <!-- feedback: Correcto. $a_1 = 3, r = 2$. $a_8 = 3 \cdot 2^7 = 3 \cdot 128 = 384$. -->
-- [ ] C) 768
+- [ ] B) 768
   <!-- feedback: Incorrecto. Se excedió en una potencia de 2. -->
 - [ ] D) 96
   <!-- feedback: Incorrecto. Valor muy bajo para el octavo término. -->
@@ -107,11 +107,11 @@ En una PG, cada término es el anterior multiplicado por la razón $r$. Aquí $r
 ### Opciones
 - [ ] A) 400
   <!-- feedback: Incorrecto. $20^2$ es la suma de los impares, no de los pares. -->
-- [x] B) 420
+- [x] D) 420
   <!-- feedback: Correcto. $S_{20} = (2 + 40) \cdot 20 / 2 = 42 \cdot 10 = 420$. -->
-- [ ] C) 840
+- [ ] B) 840
   <!-- feedback: Incorrecto. Olvidó dividir por 2 en la fórmula de la suma. -->
-- [ ] D) 210
+- [ ] C) 210
   <!-- feedback: Incorrecto. Error al aplicar los valores en la fórmula de la serie. -->
 
 ### Explicacion Pedagogica
@@ -157,9 +157,9 @@ Si entre los números 7 y 37 se interpolan 4 medios aritméticos, ¿cuál es la 
 ### Opciones
 - [ ] A) 5
   <!-- feedback: Incorrecto. Dividió la diferencia total entre 6 por error. -->
-- [x] B) 6
+- [x] C) 6
   <!-- feedback: Correcto. Tenemos $a_1=7$ y $a_6=37$. $37 = 7 + (6-1)d \Rightarrow 30 = 5d \Rightarrow d = 6$. -->
-- [ ] C) 7.5
+- [ ] B) 7.5
   <!-- feedback: Incorrecto. Consideró erróneamente que había 5 intervalos en lugar de 5. No, un momento, si hay 4 medios, hay 5 espacios. $30/5 = 6$. -->
 - [ ] D) 4
   <!-- feedback: Incorrecto. Diferencia insuficiente para cubrir el rango. -->
@@ -182,11 +182,11 @@ Una pelota se deja caer desde una altura de 10 metros. En cada rebote alcanza la
 ### Opciones
 - [ ] A) 7.5 metros
   <!-- feedback: Incorrecto. Esta es la altura tras el primer rebote. -->
-- [x] B) 4.22 metros (aprox)
+- [x] D) 4.22 metros (aprox)
   <!-- feedback: Correcto. $a_1 = 10 \cdot (3/4) = 7.5$ (1er rebote). $a_2 = 7.5 \cdot (3/4) = 5.625$. $a_3 = 5.625 \cdot (0.75) = 4.21875$. -->
-- [ ] C) 5.63 metros
+- [ ] B) 5.63 metros
   <!-- feedback: Incorrecto. Esta es la altura tras el segundo rebote. -->
-- [ ] D) 3.16 metros
+- [ ] C) 3.16 metros
   <!-- feedback: Incorrecto. Error al aplicar el factor de reducción sucesivo. -->
 
 ### Explicacion Pedagogica
@@ -207,9 +207,9 @@ Se trata de una progresión geométrica donde la razón es 0.75. El término $a_
 ### Opciones
 - [ ] A) 29 términos
   <!-- feedback: Incorrecto. Error al restar o dividir por la diferencia. -->
-- [x] B) 30 términos
+- [x] C) 30 términos
   <!-- feedback: Correcto. $157 = 12 + (n-1)5 \Rightarrow 145 = (n-1)5 \Rightarrow 29 = n-1 \Rightarrow n = 30$. -->
-- [ ] C) 31 términos
+- [ ] B) 31 términos
   <!-- feedback: Incorrecto. Sumó uno de más en el proceso final. -->
 - [ ] D) 28 términos
   <!-- feedback: Incorrecto. Olvidó considerar el primer término en el conteo total. -->
@@ -232,9 +232,9 @@ Halle el valor de la suma de todos los términos de la progresión geométrica i
 ### Opciones
 - [ ] A) 2/3
   <!-- feedback: Incorrecto. El valor debe ser mayor que el primer término. -->
-- [x] B) 3/2
+- [x] C) 3/2
   <!-- feedback: Correcto. $S = a_1 / (1 - r) = 1 / (1 - 1/3) = 1 / (2/3) = 3/2$. -->
-- [ ] C) 2
+- [ ] B) 2
   <!-- feedback: Incorrecto. Excede el valor de la suma convergente. -->
 - [ ] D) No tiene suma finita.
   <!-- feedback: Incorrecto. Al ser $|r| < 1$, la serie es convergente. -->
@@ -257,9 +257,9 @@ Las edades de 4 hermanos están en progresión aritmética. Si el menor tiene 12
 ### Opciones
 - [ ] A) 18 años
   <!-- feedback: Incorrecto. Error al calcular la diferencia común. -->
-- [ ] B) 20 años
+- [ ] C) 20 años
   <!-- feedback: Incorrecto. La suma total con esta edad no coincidiría con 72. -->
-- [x] C) 24 años
+- [x] B) 24 años
   <!-- feedback: Correcto. $72 = (12 + a_4) \cdot 4 / 2 \Rightarrow 72 = (12 + a_4) \cdot 2 \Rightarrow 36 = 12 + a_4 \Rightarrow a_4 = 24$. -->
 - [ ] D) 22 años
   <!-- feedback: Incorrecto. Revise el cálculo en la fórmula de la suma. -->
@@ -280,9 +280,9 @@ Conocemos $a_1=12$, $n=4$ y $S_4=72$. Usamos la fórmula de la suma para despeja
 Dada la sucesión: 4, 7, 12, 19, 28, ... ¿Cuál es el término general $a_n$?
 
 ### Opciones
-- [ ] A) $a_n = 3n + 1$
+- [ ] B) $a_n = 3n + 1$
   <!-- feedback: Incorrecto. Esta es una regla lineal y la sucesión no tiene diferencia constante. -->
-- [x] B) $a_n = n^2 + 3$
+- [x] A) $a_n = n^2 + 3$
   <!-- feedback: Correcto. Probando: $1^2+3=4, 2^2+3=7, 3^2+3=12, 4^2+3=19$. -->
 - [ ] C) $a_n = n^2 + n + 2$
   <!-- feedback: Incorrecto. Para $n=1$ daría 4, pero para $n=2$ daría 8. -->
@@ -307,9 +307,9 @@ Al observar las diferencias entre términos (3, 5, 7, 9), notamos que estas form
 ### Opciones
 - [ ] A) 14.5 km
   <!-- feedback: Incorrecto. Calculó como si el aumento fuera de 200 metros fijos (aritmética). -->
-- [x] B) 19 km
+- [x] C) 19 km
   <!-- feedback: Correcto. PG con $a_1=2, r=1.1, n=7$. $S_7 = 2(1.1^7 - 1)/(1.1 - 1) = 2(0.95)/0.1 = 19$. -->
-- [ ] C) 21.2 km
+- [ ] B) 21.2 km
   <!-- feedback: Incorrecto. Error al aplicar la fórmula de la suma geométrica. -->
 - [ ] D) 17.8 km
   <!-- feedback: Incorrecto. Error en el manejo de los decimales de la razón. -->
@@ -330,9 +330,9 @@ El aumento porcentual diario implica una progresión geométrica. Usamos la fór
 Si los números $x - 1, x + 3$ y $3x - 1$ están en progresión aritmética, ¿cuál es el valor de $x$?
 
 ### Opciones
-- [ ] A) 2
+- [ ] B) 2
   <!-- feedback: Incorrecto. Los términos serían 1, 5, 5, que no forman una PA. -->
-- [x] B) 4
+- [x] A) 4
   <!-- feedback: Correcto. En una PA: $2(x+3) = (x-1) + (3x-1) \Rightarrow 2x+6 = 4x-2 \Rightarrow 8 = 2x \Rightarrow x = 4$. -->
 - [ ] C) 5
   <!-- feedback: Incorrecto. Los términos serían 4, 8, 14, no es PA. -->
@@ -357,9 +357,9 @@ Halle el término de lugar 20 de la siguiente sucesión: 2, 6, 12, 20, 30, ...
 ### Opciones
 - [ ] A) 380
   <!-- feedback: Incorrecto. Este es el término 19. -->
-- [x] B) 420
+- [x] C) 420
   <!-- feedback: Correcto. La regla es $n(n+1)$ o $n^2+n$. Para $n=20: 20(21) = 420$. -->
-- [ ] C) 400
+- [ ] B) 400
   <!-- feedback: Incorrecto. Solo elevó al cuadrado sin sumar $n$. -->
 - [ ] D) 440
   <!-- feedback: Incorrecto. Error al identificar el patrón de crecimiento. -->
@@ -380,9 +380,9 @@ Identificamos el patrón: $1 \times 2, 2 \times 3, 3 \times 4, 4 \times 5...$ Es
 Si los números 2, $x$, 6 forman una progresión armónica, ¿cuál es el valor de $x$?
 
 ### Opciones
-- [ ] A) 4
+- [ ] B) 4
   <!-- feedback: Incorrecto. 4 es la media aritmética, no la armónica. -->
-- [x] B) 3
+- [x] A) 3
   <!-- feedback: Correcto. En una progresión armónica, los recíprocos están en PA. $2/x = 1/2 + 1/6 \Rightarrow 2/x = 4/6 = 2/3 \Rightarrow x = 3$. -->
 - [ ] C) 3.5
   <!-- feedback: Incorrecto. Error al operar con las fracciones de los recíprocos. -->
@@ -405,9 +405,9 @@ Una sucesión es armónica si los recíprocos de sus términos forman una progre
 Si en la primera casilla de un tablero de ajedrez se pone 1 grano, en la segunda 2, en la tercera 4, y así sucesivamente. ¿Cuántos granos habrá en total en las primeras 10 casillas?
 
 ### Opciones
-- [ ] A) 512 granos
+- [ ] B) 512 granos
   <!-- feedback: Incorrecto. Este es el contenido de la décima casilla, no la suma total. -->
-- [x] B) 1023 granos
+- [x] A) 1023 granos
   <!-- feedback: Correcto. $S_{10} = 1(2^{10} - 1) / (2 - 1) = 1024 - 1 = 1023$. -->
 - [ ] C) 1024 granos
   <!-- feedback: Incorrecto. Olvidó restar el 1 inicial en la fórmula de la suma. -->
@@ -432,9 +432,9 @@ Entre los números 1 y 100 se han interpolado $n$ medios aritméticos. Si la sum
 ### Opciones
 - [ ] A) 20
   <!-- feedback: Incorrecto. Este es el número total de términos, no los medios interpolados. -->
-- [x] B) 18
+- [x] C) 18
   <!-- feedback: Correcto. $S = (1 + 100) \cdot N / 2 = 1010 \Rightarrow 101 \cdot N = 2020 \Rightarrow N = 20$. Como $N = n + 2$, entonces $n = 18$. -->
-- [ ] C) 19
+- [ ] B) 19
   <!-- feedback: Incorrecto. Error al relacionar el número de términos con el número de medios. -->
 - [ ] D) 10
   <!-- feedback: Incorrecto. Valor insuficiente para alcanzar la suma total dada. -->
@@ -455,9 +455,9 @@ Primero hallamos el número total de términos $N$ usando la fórmula de la suma
 Dada la sucesión: $a_1 = 1, a_2 = 1$ y $a_n = a_{n-1} + a_{n-2}$ para $n > 2$. Halle el valor de $a_6 + a_3$.
 
 ### Opciones
-- [ ] A) 11
+- [ ] B) 11
   <!-- feedback: Incorrecto. Error al generar los términos de la secuencia de Fibonacci. -->
-- [x] B) 10
+- [x] A) 10
   <!-- feedback: Correcto. Términos: 1, 1, 2, 3, 5, 8. $a_6 = 8$ y $a_3 = 2$. Suma: $8 + 2 = 10$. -->
 - [ ] C) 9
   <!-- feedback: Incorrecto. Revisé mal el sexto término. -->
@@ -480,11 +480,11 @@ Generamos los términos de la sucesión de Fibonacci sumando los dos anteriores.
 Si los números $k-4, k, 2k+12$ forman una progresión geométrica de términos reales, halle la suma de los posibles valores de $k$.
 
 ### Opciones
-- [ ] A) 4
+- [ ] B) 4
   <!-- feedback: Incorrecto. Verifique el signo de la suma de raíces mediante Vieta. -->
-- [ ] B) -8
+- [ ] C) -8
   <!-- feedback: Incorrecto. No consideró que el producto de los extremos genera una ecuación cuadrática específica. -->
-- [x] C) -4
+- [x] A) -4
   <!-- feedback: Correcto. Aplicando la propiedad del término medio de una PG ($k^2 = (k-4)(2k+12)$), obtenemos la ecuación $k^2 = 2k^2 + 4k - 48$, que simplifica a $k^2 + 4k - 48 = 0$. Por Vieta, la suma de las raíces es $-b/a = -4$. -->
 - [ ] D) 12
   <!-- feedback: Incorrecto. Valor obtenido por error en los signos de la factorización. -->
@@ -507,11 +507,11 @@ Calcule el valor de la suma: $S = \frac{1}{2} + \frac{2}{4} + \frac{3}{8} + \fra
 ### Opciones
 - [ ] A) 1.5
   <!-- feedback: Incorrecto. El valor es superior. -->
-- [x] B) 2
+- [x] D) 2
   <!-- feedback: Correcto. Esta es una serie aritmético-geométrica. Si $S = 1/2 + 2/4 + 3/8...$, entonces $S/2 = 1/4 + 2/8 + 3/16...$. Restando $S - S/2 = 1/2 + 1/4 + 1/8 + ...$ lo cual es una serie geométrica de suma 1. Entonces $S/2 = 1 \Rightarrow S = 2$. -->
-- [ ] C) 3
+- [ ] B) 3
   <!-- feedback: Incorrecto. Excede el límite de convergencia de la serie. -->
-- [ ] D) 1
+- [ ] C) 1
   <!-- feedback: Incorrecto. Esta es solo la suma de la parte geométrica resultante de la resta. -->
 
 ### Explicacion Pedagogica

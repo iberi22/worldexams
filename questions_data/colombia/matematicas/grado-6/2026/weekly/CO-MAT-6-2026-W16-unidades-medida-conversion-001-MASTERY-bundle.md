@@ -30,9 +30,9 @@ Este bundle trabaja longitud, masa, capacidad y tiempo con conversiones del sist
 ### Enunciado
 ¿Cuál es la unidad básica de longitud en el sistema métrico decimal?
 ### Opciones
-- [x] A) El metro
+- [x] B) El metro
   <!-- feedback: Explica por qué es correcta: identifica el metro como patrón base de la longitud. -->
-- [ ] B) El gramo
+- [ ] A) El gramo
   <!-- feedback: Explica el error conceptual: el gramo mide masa, no longitud. -->
 - [ ] C) El litro
   <!-- feedback: Explica el error conceptual: el litro mide capacidad, no longitud. -->
@@ -90,11 +90,11 @@ Como 1 kilogramo tiene 1000 gramos, se multiplica 2.5 por 1000 para obtener 2500
 ### Enunciado
 ¿Cuántos litros contiene cada botella?
 ### Opciones
-- [x] A) 1.5 litros
+- [x] C) 1.5 litros
   <!-- feedback: Explica por qué es correcta: divide 1500 entre 1000 y obtiene 1.5. -->
-- [ ] B) 15 litros
+- [ ] A) 15 litros
   <!-- feedback: Explica el error conceptual: divide entre 100 en lugar de dividir entre 1000. -->
-- [ ] C) 0.15 litros
+- [ ] B) 0.15 litros
   <!-- feedback: Explica el error conceptual: divide entre 10000 y corre mal la coma decimal. -->
 - [ ] D) 150 litros
   <!-- feedback: Explica el error conceptual: multiplica en vez de dividir al pasar a una unidad mayor. -->
@@ -130,9 +130,9 @@ Cada hora tiene 60 minutos. Dos horas aportan 120 minutos y al sumar los 30 rest
 ### Enunciado
 ¿Cuál es la distancia total de ambos tramos en metros?
 ### Opciones
-- [x] A) 4050 metros
+- [x] B) 4050 metros
   <!-- feedback: Explica por qué es correcta: convierte 3.2 a 3200 y suma 850 para obtener 4050. -->
-- [ ] B) 885 metros
+- [ ] A) 885 metros
   <!-- feedback: Explica el error conceptual: suma 3.2 con 850 sin convertir kilómetros a metros. -->
 - [ ] C) 1170 metros
   <!-- feedback: Explica el error conceptual: convierte 3.2 como 320 y pierde un cero del factor mil. -->
@@ -150,9 +150,9 @@ Antes de sumar se debe unificar la unidad. Al convertir 3.2 kilómetros a metros
 ### Enunciado
 ¿Qué fracción de la bolsa se usa y cuánto cuesta esa cantidad manteniendo la proporción?
 ### Opciones
-- [x] A) Tres cuartos de bolsa y cuesta 3150 COP
+- [x] B) Tres cuartos de bolsa y cuesta 3150 COP
   <!-- feedback: Explica por qué es correcta: 750 de 1000 es tres cuartos y 4200 por 0.75 da 3150. -->
-- [ ] B) Un medio de bolsa y cuesta 2100 COP
+- [ ] A) Un medio de bolsa y cuesta 2100 COP
   <!-- feedback: Explica el error conceptual: supone 500 gramos en vez de los 750 reales. -->
 - [ ] C) Tres cuartos de bolsa y cuesta 4200 COP
   <!-- feedback: Explica el error conceptual: acierta la fracción pero cobra la bolsa completa. -->
@@ -190,9 +190,9 @@ Se unifica a litros: el envase B tiene 0.75 litros. El litro en A cuesta 7000 en
 ### Enunciado
 Evalúa el procedimiento del estudiante.
 ### Opciones
-- [x] A) Es incorrecto, porque suma unidades distintas y omite duplicar lados; el perímetro real es 6.6 metros
+- [x] B) Es incorrecto, porque suma unidades distintas y omite duplicar lados; el perímetro real es 6.6 metros
   <!-- feedback: Explica por qué es correcta: detecta la mezcla de unidades y aplica bien 2 por 2.5 más 2 por 0.8. -->
-- [ ] B) Es correcto, porque el perímetro se halla sumando largo más ancho una sola vez
+- [ ] A) Es correcto, porque el perímetro se halla sumando largo más ancho una sola vez
   <!-- feedback: Explica el error conceptual: el perímetro incluye los cuatro lados, no solo dos. -->
 - [ ] C) Es correcto, porque metros y centímetros se pueden sumar directamente
   <!-- feedback: Explica el error conceptual: ignora que toda suma exige la misma unidad de medida. -->

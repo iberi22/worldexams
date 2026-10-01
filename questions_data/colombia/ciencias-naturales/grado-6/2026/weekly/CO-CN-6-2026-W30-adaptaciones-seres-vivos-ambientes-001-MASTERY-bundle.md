@@ -34,9 +34,9 @@ Este bundle de 10 preguntas explora como los seres vivos se adaptan a los ambien
 Que se entiende por adaptacion de un ser vivo?
 
 ### Opciones
-- [x] A) Una caracteristica o comportamiento que le ayuda a sobrevivir y reproducirse en su ambiente
+- [x] B) Una caracteristica o comportamiento que le ayuda a sobrevivir y reproducirse en su ambiente
   <!-- feedback: Correcto. La adaptacion es una caracteristica heredable que favorece la supervivencia. -->
-- [ ] B) Un cambio que el animal decide hacer en un momento dado
+- [ ] A) Un cambio que el animal decide hacer en un momento dado
   <!-- feedback: Incorrecto. Las adaptaciones se heredan; no son decisiones momentaneas. -->
 - [ ] C) Una enfermedad que debilita a la especie
   <!-- feedback: Incorrecto. Una enfermedad no es una adaptacion, sino un dano a la salud. -->
@@ -57,13 +57,13 @@ Las adaptaciones son caracteristicas anatomicas, fisiologicas o de comportamient
 Por que en el bosque seco muchos arboles pierden las hojas en la temporada seca?
 
 ### Opciones
-- [x] A) Porque al perder las hojas reducen la perdida de agua por evaporacion y sobreviven a la sequia
+- [x] D) Porque al perder las hojas reducen la perdida de agua por evaporacion y sobreviven a la sequia
   <!-- feedback: Correcto. La caida de hojas es una adaptacion que disminuye la perdida de agua. -->
-- [ ] B) Porque las hojas se aburren de estar en el arbol
+- [ ] A) Porque las hojas se aburren de estar en el arbol
   <!-- feedback: Incorrecto. Las plantas no tienen sentimientos ni decisiones. -->
-- [ ] C) Porque el arbol quiere quedar sin hojas para verse diferente
+- [ ] B) Porque el arbol quiere quedar sin hojas para verse diferente
   <!-- feedback: Incorrecto. La perdida de hojas responde a la escasez de agua, no a la apariencia. -->
-- [ ] D) Porque las hojas se convierten en raices al caer
+- [ ] C) Porque las hojas se convierten en raices al caer
   <!-- feedback: Incorrecto. Las hojas caidas se descomponen y forman materia organica, no raices. -->
 
 ### Explicacion Pedagogica
@@ -80,13 +80,13 @@ En los bosques secos, la temporada de pocas lluvias exige ahorrar agua; los arbo
 Que explicacion dan los estudiantes a estas dos caracteristicas observadas?
 
 ### Opciones
-- [x] A) Las raices aereas les permiten respirar en un suelo lodoso pobre en oxigeno y las semillas que germinan en el arbol favorecen su establecimiento en el lodo
+- [x] D) Las raices aereas les permiten respirar en un suelo lodoso pobre en oxigeno y las semillas que germinan en el arbol favorecen su establecimiento en el lodo
   <!-- feedback: Correcto. Ambas son adaptaciones al ambiente salino y anegado del manglar. -->
-- [ ] B) Las raices sobresalen porque el mangle quiere crecer mas alto
+- [ ] A) Las raices sobresalen porque el mangle quiere crecer mas alto
   <!-- feedback: Incorrecto. Las raices aereas cumplen la funcion de respirar en el lodo. -->
-- [ ] C) Las semillas germinan en el arbol porque no les gusta el suelo
+- [ ] B) Las semillas germinan en el arbol porque no les gusta el suelo
   <!-- feedback: Incorrecto. La germinacion en el arbol ayuda a la plántula a establecerse. -->
-- [ ] D) El mangle no tiene ninguna adaptacion y crece por casualidad
+- [ ] C) El mangle no tiene ninguna adaptacion y crece por casualidad
   <!-- feedback: Incorrecto. El mangle presenta adaptaciones claras al ambiente del manglar. -->
 
 ### Explicacion Pedagogica
@@ -103,9 +103,9 @@ El manglar es un ambiente salino, con lodo pobre en oxigeno y mareas; los mangle
 Que ventaja adaptativa ofrecen estas capacidades en los rios amazonicos?
 
 ### Opciones
-- [x] A) Les permiten orientarse, detectar presas y comunicarse en aguas oscuras y turbias donde la vista es poco util
+- [x] B) Les permiten orientarse, detectar presas y comunicarse en aguas oscuras y turbias donde la vista es poco util
   <!-- feedback: Correcto. La electrolocalizacion compensa la falta de visibilidad. -->
-- [ ] B) Les sirven para cambiar el color del agua del rio
+- [ ] A) Les sirven para cambiar el color del agua del rio
   <!-- feedback: Incorrecto. Las descargas electricas no cambian el color del agua. -->
 - [ ] C) Les ayudan a volar sobre la superficie del agua
   <!-- feedback: Incorrecto. Los peces no vuelan; las descargas cumplen otra funcion. -->
@@ -126,9 +126,9 @@ En aguas turbias, oscuras o ricas en sedimentos, la vision resulta poco eficaz; 
 Que explicacion corresponde a las caracteristicas de esa planta?
 
 ### Opciones
-- [x] A) Las hojas gruesas y peludas retienen el calor y reducen la perdida de agua, adaptaciones utiles en el frio, el viento y la intensa radiacion del paramo
+- [x] B) Las hojas gruesas y peludas retienen el calor y reducen la perdida de agua, adaptaciones utiles en el frio, el viento y la intensa radiacion del paramo
   <!-- feedback: Correcto. Relaciona los rasgos con las condiciones extremas del paramo. -->
-- [ ] B) Las hojas gruesas sirven para flotar en el agua
+- [ ] A) Las hojas gruesas sirven para flotar en el agua
   <!-- feedback: Incorrecto. El paramo no es un ambiente acuatico. -->
 - [ ] C) Los pelos de las hojas atraen la lluvia hacia las raices
   <!-- feedback: Incorrecto. Los pelos reducen la transpiracion y protegen del frio. -->
@@ -218,13 +218,13 @@ Las adaptaciones defensivas pueden ser de dos tipos: la cripsis o camuflaje, en 
 Que evaluacion conjunta de las tres afirmaciones es correcta?
 
 ### Opciones
-- [x] A) La 1 es verdadera, la 2 es falsa porque las adaptaciones surgen a lo largo de muchas generaciones y la 3 es verdadera porque el ambiente determina que rasgos resultan ventajosos
+- [x] D) La 1 es verdadera, la 2 es falsa porque las adaptaciones surgen a lo largo de muchas generaciones y la 3 es verdadera porque el ambiente determina que rasgos resultan ventajosos
   <!-- feedback: Correcto. Distingue herencia y tiempos evolutivos del papel del ambiente. -->
-- [ ] B) Las tres son verdaderas porque un animal puede cambiar sus genes cuando quiere
+- [ ] A) Las tres son verdaderas porque un animal puede cambiar sus genes cuando quiere
   <!-- feedback: Incorrecto. Los organismos no cambian sus genes por voluntad. -->
-- [ ] C) Solo la 2 es verdadera y las demas son falsas
+- [ ] B) Solo la 2 es verdadera y las demas son falsas
   <!-- feedback: Incorrecto. La 2 es falsa; las adaptaciones no ocurren en minutos. -->
-- [ ] D) Las tres son falsas porque el ambiente no influye en la evolucion
+- [ ] C) Las tres son falsas porque el ambiente no influye en la evolucion
   <!-- feedback: Incorrecto. El ambiente es clave para la seleccion de rasgos ventajosos. -->
 
 ### Explicacion Pedagogica
@@ -241,13 +241,13 @@ Evaluar estas afirmaciones exige distinguir los tiempos de la evolucion: las ada
 Que medida conviene priorizar y por que?
 
 ### Opciones
-- [x] A) Conservar y conectar los fragmentos de habitat y reducir las amenazas directas, porque mantener el ambiente donde la especie esta adaptada es la forma mas sostenible de protegerla
+- [x] D) Conservar y conectar los fragmentos de habitat y reducir las amenazas directas, porque mantener el ambiente donde la especie esta adaptada es la forma mas sostenible de protegerla
   <!-- feedback: Correcto. Conservar el habitat respeta las adaptaciones y es eficaz a largo plazo. -->
-- [ ] B) Llevar unos pocos individuos a un zoologico y no hacer nada mas con el habitat
+- [ ] A) Llevar unos pocos individuos a un zoologico y no hacer nada mas con el habitat
   <!-- feedback: Incorrecto. Sin habitat, la especie no se recupera en la naturaleza. -->
-- [ ] C) Introducir la especie en un ambiente muy distinto esperando que se adapte en poco tiempo
+- [ ] B) Introducir la especie en un ambiente muy distinto esperando que se adapte en poco tiempo
   <!-- feedback: Incorrecto. La adaptacion requiere muchas generaciones y no garantiza exito. -->
-- [ ] D) Ignorar la fragmentacion y dejar que la especie se adapte sola
+- [ ] C) Ignorar la fragmentacion y dejar que la especie se adapte sola
   <!-- feedback: Incorrecto. La fragmentacion reduce el habitat y las poblaciones. -->
 
 ### Explicacion Pedagogica

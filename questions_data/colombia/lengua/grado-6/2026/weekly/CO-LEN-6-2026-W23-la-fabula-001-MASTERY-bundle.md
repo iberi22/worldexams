@@ -33,10 +33,10 @@ creador: Jules-Agent
 ¿Qué es una fábula?
 
 ### Opciones
-- [x] A) Un relato breve con animales como personajes que deja una enseñanza. <!-- feedback: Correcto. La fábula combina narración corta y moraleja final. -->
-- [ ] B) Un cuento largo con muchos personajes humanos. <!-- feedback: Incorrecto. Es un texto breve y sus personajes suelen ser animales. -->
-- [ ] C) Un poema dedicado a la naturaleza. <!-- feedback: Incorrecto. La fábula se narra en prosa o verso, pero no es poesía lírica. -->
-- [ ] D) Una noticia sobre animales en peligro. <!-- feedback: Incorrecto. La noticia informa hechos reales, no relatos imaginarios. -->
+- [x] D) Un relato breve con animales como personajes que deja una enseñanza. <!-- feedback: Correcto. La fábula combina narración corta y moraleja final. -->
+- [ ] A) Un cuento largo con muchos personajes humanos. <!-- feedback: Incorrecto. Es un texto breve y sus personajes suelen ser animales. -->
+- [ ] B) Un poema dedicado a la naturaleza. <!-- feedback: Incorrecto. La fábula se narra en prosa o verso, pero no es poesía lírica. -->
+- [ ] C) Una noticia sobre animales en peligro. <!-- feedback: Incorrecto. La noticia informa hechos reales, no relatos imaginarios. -->
 
 ### Explicacion Pedagogica
 La fábula es un texto narrativo corto cuyos personajes suelen ser animales personificados y siempre termina con una moraleja o enseñanza explícita, como en las obras de Esopo o Félix María de Samaniego.
@@ -54,8 +54,8 @@ La fábula es un texto narrativo corto cuyos personajes suelen ser animales pers
 ¿Cuál es la moraleja de esta fábula?
 
 ### Opciones
-- [ ] A) Es importante cantar para alegrar el verano. <!-- feedback: Incorrecto. La moraleja no elogia el canto despreocupado. -->
-- [x] B) Hay que trabajar con anticipación y no dejarse llevar solo por el placer. <!-- feedback: Correcto. La hormiga representa el esfuerzo previsor. -->
+- [ ] B) Es importante cantar para alegrar el verano. <!-- feedback: Incorrecto. La moraleja no elogia el canto despreocupado. -->
+- [x] A) Hay que trabajar con anticipación y no dejarse llevar solo por el placer. <!-- feedback: Correcto. La hormiga representa el esfuerzo previsor. -->
 - [ ] C) El invierno siempre es mejor que el verano. <!-- feedback: Incorrecto. La historia no compara estaciones. -->
 - [ ] D) Los animales no deben hablar entre ellos. <!-- feedback: Incorrecto. La personificación es un recurso válido de la fábula. -->
 
@@ -76,9 +76,9 @@ La moraleja es la enseñanza final de la fábula. Aquí se destaca la importanci
 
 ### Opciones
 - [ ] A) Personajes humanos y un final realista. <!-- feedback: Incorrecto. Los protagonistas suelen ser animales personificados. -->
-- [x] B) Animales como personajes, conflicto breve y una moraleja final. <!-- feedback: Correcto. Son los rasgos clásicos del género. -->
-- [ ] C) Una descripción larga del paisaje rural. <!-- feedback: Incorrecto. La extensión de la fábula es corta. -->
-- [ ] D) Un narrador en primera persona y un final abierto. <!-- feedback: Incorrecto. La moraleja debe quedar explícita. -->
+- [x] D) Animales como personajes, conflicto breve y una moraleja final. <!-- feedback: Correcto. Son los rasgos clásicos del género. -->
+- [ ] B) Una descripción larga del paisaje rural. <!-- feedback: Incorrecto. La extensión de la fábula es corta. -->
+- [ ] C) Un narrador en primera persona y un final abierto. <!-- feedback: Incorrecto. La moraleja debe quedar explícita. -->
 
 ### Explicacion Pedagogica
 Para que un texto se reconozca como fábula debe combinar personajes animales personificados, un conflicto breve y una enseñanza explícita al final. Sin moraleja, sería solo un cuento de animales.
@@ -96,8 +96,8 @@ Para que un texto se reconozca como fábula debe combinar personajes animales pe
 ¿Qué recurso utiliza el autor al dar cualidades humanas al ratón?
 
 ### Opciones
-- [x] A) La personificación, porque le atribuye intenciones humanas. <!-- feedback: Correcto. El ratón decide, intenta y evalúa como una persona. -->
-- [ ] B) La metáfora visual, porque compara tamaños. <!-- feedback: Incorrecto. No hay comparación explícita entre dos elementos. -->
+- [x] B) La personificación, porque le atribuye intenciones humanas. <!-- feedback: Correcto. El ratón decide, intenta y evalúa como una persona. -->
+- [ ] A) La metáfora visual, porque compara tamaños. <!-- feedback: Incorrecto. No hay comparación explícita entre dos elementos. -->
 - [ ] C) La hipérbole, porque exagera el tamaño del ratón. <!-- feedback: Incorrecto. Aquí no hay exageración sino descripción realista. -->
 - [ ] D) La ironía, porque dice lo contrario de lo que piensa. <!-- feedback: Incorrecto. El texto no contradice su sentido literal. -->
 
@@ -118,9 +118,9 @@ La personificación es el recurso central de la fábula: animales y objetos reci
 
 ### Opciones
 - [ ] A) La fábula explica el origen del universo, el mito cuenta historias de animales. <!-- feedback: Incorrecto. Es al revés: el mito explica orígenes. -->
-- [x] B) La fábula busca enseñar una conducta con una moraleja, el mito explica el origen del mundo. <!-- feedback: Correcto. Cada género tiene una intención distinta. -->
-- [ ] C) La fábula y el mito son exactamente lo mismo. <!-- feedback: Incorrecto. Pertenecen a géneros narrativos diferentes. -->
-- [ ] D) La fábula se escribe solo en verso, el mito solo en prosa. <!-- feedback: Incorrecto. Ambos géneros admiten prosa y verso. -->
+- [x] D) La fábula busca enseñar una conducta con una moraleja, el mito explica el origen del mundo. <!-- feedback: Correcto. Cada género tiene una intención distinta. -->
+- [ ] B) La fábula y el mito son exactamente lo mismo. <!-- feedback: Incorrecto. Pertenecen a géneros narrativos diferentes. -->
+- [ ] C) La fábula se escribe solo en verso, el mito solo en prosa. <!-- feedback: Incorrecto. Ambos géneros admiten prosa y verso. -->
 
 ### Explicacion Pedagogica
 La fábula enseña conductas humanas mediante animales y una moraleja. El mito, en cambio, explica el origen del mundo, de los dioses o de los fenómenos naturales en culturas antiguas.
@@ -139,8 +139,8 @@ La fábula enseña conductas humanas mediante animales y una moraleja. El mito, 
 
 ### Opciones
 - [ ] A) Una descripción objetiva del fruto. <!-- feedback: Incorrecto. La descripción no refleja la realidad sino una excusa. -->
-- [ ] B) Una comparación con otros animales. <!-- feedback: Incorrecto. No aparece otro animal en la comparación. -->
-- [x] C) Una ironía que disimula la frustración del personaje. <!-- feedback: Correcto. La zorra oculta su derrota con un pretexto. -->
+- [ ] C) Una comparación con otros animales. <!-- feedback: Incorrecto. No aparece otro animal en la comparación. -->
+- [x] B) Una ironía que disimula la frustración del personaje. <!-- feedback: Correcto. La zorra oculta su derrota con un pretexto. -->
 - [ ] D) Una hipérbole sobre el sabor de las uvas. <!-- feedback: Incorrecto. No hay exageración cuantitativa. -->
 
 ### Explicacion Pedagogica
@@ -180,8 +180,8 @@ Una misma fábula puede escribirse en prosa o verso. Lo esencial —personajes a
 ¿Por qué el autor recurre a animales en lugar de personas en una fábula?
 
 ### Opciones
-- [ ] A) Porque en su época no sabía dibujar personas. <!-- feedback: Incorrecto. La elección es literaria, no técnica. -->
-- [x] B) Para crear distancia con el lector y permitirle aprender sin sentirse señalado. <!-- feedback: Correcto. La voz animal protege y universaliza la crítica. -->
+- [ ] B) Porque en su época no sabía dibujar personas. <!-- feedback: Incorrecto. La elección es literaria, no técnica. -->
+- [x] A) Para crear distancia con el lector y permitirle aprender sin sentirse señalado. <!-- feedback: Correcto. La voz animal protege y universaliza la crítica. -->
 - [ ] C) Porque los animales hablan en todos los idiomas. <!-- feedback: Incorrecto. Las fábulas se escriben en idiomas concretos. -->
 - [ ] D) Para evitar enseñar valores morales. <!-- feedback: Incorrecto. La moraleja es la esencia del género. -->
 

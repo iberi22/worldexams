@@ -34,8 +34,8 @@ creador: Jules-Agent
 
 ### Opciones
 - [ ] A) Solo hay un punto final porque todo es una sola oración. <!-- feedback: Incorrecto. Hay tres oraciones distintas separadas por puntos. -->
-- [ ] B) Todos los puntos son puntos finales. <!-- feedback: Incorrecto. Los primeros son puntos seguidos. -->
-- [x] C) Hay punto seguido entre oraciones y punto final al cerrar el texto. <!-- feedback: Correcto. Cada función corresponde a un tipo de punto. -->
+- [ ] C) Todos los puntos son puntos finales. <!-- feedback: Incorrecto. Los primeros son puntos seguidos. -->
+- [x] B) Hay punto seguido entre oraciones y punto final al cerrar el texto. <!-- feedback: Correcto. Cada función corresponde a un tipo de punto. -->
 - [ ] D) Solo hay punto y aparte porque cambia el tema. <!-- feedback: Incorrecto. Las tres oraciones tratan el mismo día. -->
 
 ### Explicacion Pedagogica
@@ -54,8 +54,8 @@ Punto seguido une oraciones dentro del mismo párrafo. Punto y aparte separa pá
 ¿Qué función cumple la coma después de «Estimados padres»?
 
 ### Opciones
-- [ ] A) Cierra el aviso como signo final. <!-- feedback: Incorrecto. Para cerrar se usa el punto. -->
-- [x] B) Separa el vocativo (a quién se dirige) del resto de la oración. <!-- feedback: Correcto. La coma aísla el saludo o llamado de atención. -->
+- [ ] B) Cierra el aviso como signo final. <!-- feedback: Incorrecto. Para cerrar se usa el punto. -->
+- [x] A) Separa el vocativo (a quién se dirige) del resto de la oración. <!-- feedback: Correcto. La coma aísla el saludo o llamado de atención. -->
 - [ ] C) Indica que la oración no ha terminado. <!-- feedback: Incorrecto. Esa función la cumple el punto y coma, no la coma. -->
 - [ ] D) Sustituye al verbo y da agilidad al texto. <!-- feedback: Incorrecto. La coma no reemplaza verbos. -->
 
@@ -75,9 +75,9 @@ La coma se usa para: 1) aislar el vocativo (Juan, ven aquí); 2) enumerar elemen
 ¿Qué signo de puntuación se usa en la lista de ingredientes y por qué?
 
 ### Opciones
-- [ ] A) El punto y coma, porque cada ingrediente es una oración. <!-- feedback: Incorrecto. No son oraciones, son sustantivos. -->
-- [ ] B) Los puntos suspensivos, porque la lista podría seguir. <!-- feedback: Incorrecto. Los puntos suspensivos sugieren continuación indefinida. -->
-- [x] C) La coma, porque separa elementos en una enumeración. <!-- feedback: Correcto. Antes del último elemento se coloca «y» en lugar de otra coma. -->
+- [ ] B) El punto y coma, porque cada ingrediente es una oración. <!-- feedback: Incorrecto. No son oraciones, son sustantivos. -->
+- [ ] C) Los puntos suspensivos, porque la lista podría seguir. <!-- feedback: Incorrecto. Los puntos suspensivos sugieren continuación indefinida. -->
+- [x] A) La coma, porque separa elementos en una enumeración. <!-- feedback: Correcto. Antes del último elemento se coloca «y» en lugar de otra coma. -->
 - [ ] D) El punto final, porque cada ingrediente es independiente. <!-- feedback: Incorrecto. El punto no separa elementos dentro de una misma oración. -->
 
 ### Explicacion Pedagogica
@@ -96,8 +96,8 @@ Al enumerar elementos dentro de una oración, se separan con coma y antes del ú
 ¿Qué uso correcto tienen los signos de interrogación en español?
 
 ### Opciones
-- [ ] A) Solo se coloca el signo al final de la pregunta. <!-- feedback: Incorrecto. En español se usan dos signos: uno de apertura y otro de cierre. -->
-- [x] B) Se coloca el signo de apertura invertido (¿) al inicio y el de cierre (?) al final. <!-- feedback: Correcto. La doble marca es una particularidad del español. -->
+- [ ] B) Solo se coloca el signo al final de la pregunta. <!-- feedback: Incorrecto. En español se usan dos signos: uno de apertura y otro de cierre. -->
+- [x] A) Se coloca el signo de apertura invertido (¿) al inicio y el de cierre (?) al final. <!-- feedback: Correcto. La doble marca es una particularidad del español. -->
 - [ ] C) Se usa el signo de cierre (?) al inicio y al final. <!-- feedback: Incorrecto. Eso produciría una frase ininteligible. -->
 - [ ] D) Solo se usa el signo de apertura (¿). <!-- feedback: Incorrecto. Sin signo de cierre la pregunta queda abierta. -->
 
@@ -161,8 +161,8 @@ El punto y coma une oraciones que están estrechamente relacionadas y separa los
 ### Opciones
 - [ ] A) Solo hay admiración al final porque basta con un signo. <!-- feedback: Incorrecto. En español la exclamación lleva doble signo. -->
 - [ ] B) Los dos puntos sobran y deberían ser comas. <!-- feedback: Incorrecto. Los dos puntos son correctos antes de la cita. -->
-- [x] C) Dos puntos para introducir la cita, signos dobles de exclamación por la intensidad. <!-- feedback: Correcto. Cada signo cumple una función precisa. -->
-- [ ] D) El punto final debería ir después de los signos de exclamación. <!-- feedback: Incorrecto. El signo de cierre ya cierra la oración. -->
+- [x] D) Dos puntos para introducir la cita, signos dobles de exclamación por la intensidad. <!-- feedback: Correcto. Cada signo cumple una función precisa. -->
+- [ ] C) El punto final debería ir después de los signos de exclamación. <!-- feedback: Incorrecto. El signo de cierre ya cierra la oración. -->
 
 ### Explicacion Pedagogica
 Combinar signos es válido: los dos puntos pueden anteceder exclamaciones, citas, enumeraciones y preguntas. Lo importante es que cada signo tenga una razón y no se acumulen por costumbre.
@@ -180,8 +180,8 @@ Combinar signos es válido: los dos puntos pueden anteceder exclamaciones, citas
 ¿Qué función tienen las rayas y los puntos suspensivos en la frase?
 
 ### Opciones
-- [ ] A) Las rayas son signos finales y los puntos suspensivos una coma. <!-- feedback: Incorrecto. Cada signo cumple funciones distintas. -->
-- [x] B) Las rayas enmarcan un inciso y los puntos suspensivos dejan abierto el sentido. <!-- feedback: Correcto. Cada marca aporta ritmo y misterio al relato. -->
+- [ ] B) Las rayas son signos finales y los puntos suspensivos una coma. <!-- feedback: Incorrecto. Cada signo cumple funciones distintas. -->
+- [x] A) Las rayas enmarcan un inciso y los puntos suspensivos dejan abierto el sentido. <!-- feedback: Correcto. Cada marca aporta ritmo y misterio al relato. -->
 - [ ] C) Las rayas indican pregunta y los puntos suspensivos una respuesta. <!-- feedback: Incorrecto. Aquí no hay pregunta ni respuesta explícita. -->
 - [ ] D) Solo las rayas son signos válidos, los puntos suspensivos sobran. <!-- feedback: Incorrecto. Cada signo tiene su uso apropiado. -->
 
@@ -202,8 +202,8 @@ Las rayas (—) enmarcan incisos y diálogos. Los puntos suspensivos (...) sugie
 
 ### Opciones
 - [ ] A) La coma es correcta porque separa dos verbos. <!-- feedback: Incorrecto. Una coma no debe separar sujeto de verbo. -->
-- [x] B) La coma sobra y debe eliminarse antes de «que». <!-- feedback: Correcto. La conjunción «que» no se aísla con coma salvo en casos especiales. -->
-- [ ] C) Falta una coma después de «estudio». <!-- feedback: Incorrecto. Esa coma no aporta claridad y rompería la oración. -->
+- [x] C) La coma sobra y debe eliminarse antes de «que». <!-- feedback: Correcto. La conjunción «que» no se aísla con coma salvo en casos especiales. -->
+- [ ] B) Falta una coma después de «estudio». <!-- feedback: Incorrecto. Esa coma no aporta claridad y rompería la oración. -->
 - [ ] D) La frase necesita dos puntos en lugar de coma. <!-- feedback: Incorrecto. No hay enumeración ni cita, solo subordinación. -->
 
 ### Explicacion Pedagogica
@@ -223,8 +223,8 @@ Una regla clave: la coma no debe separar el verbo de su complemento directo ni a
 
 ### Opciones
 - [ ] A) El texto es correcto y solo necesita un punto final. <!-- feedback: Incorrecto. Los signos están mal empleados. -->
-- [x] B) Faltan mayúsculas tras los signos y los signos de exclamación e interrogación deben ir dobles. <!-- feedback: Correcto. Cada error afecta la presentación y la lectura. -->
-- [ ] C) Solo hay que añadir comas para separar palabras. <!-- feedback: Incorrecto. Las comas no resuelven los errores señalados. -->
+- [x] C) Faltan mayúsculas tras los signos y los signos de exclamación e interrogación deben ir dobles. <!-- feedback: Correcto. Cada error afecta la presentación y la lectura. -->
+- [ ] B) Solo hay que añadir comas para separar palabras. <!-- feedback: Incorrecto. Las comas no resuelven los errores señalados. -->
 - [ ] D) Falta un título y no importa la puntuación. <!-- feedback: Incorrecto. La puntuación es fundamental para la claridad. -->
 
 ### Explicacion Pedagogica

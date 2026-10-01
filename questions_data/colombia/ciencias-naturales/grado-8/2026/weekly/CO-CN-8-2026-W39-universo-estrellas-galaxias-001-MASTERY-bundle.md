@@ -31,11 +31,11 @@ Bundle de 12 preguntas sobre astronomía y astrofísica: características de las
 ### Enunciado
 Cuál de los siguientes cuerpos celestes es una estrella, a diferencia de los planetas que orbitan a su alrededor?
 ### Opciones
-- [x] A) El Sol.
+- [x] C) El Sol.
   <!-- feedback: Correcto. El Sol es una estrella de tipo espectral G2V que produce su propia luz por fusión nuclear de hidrógeno en helio. -->
-- [ ] B) La Tierra.
+- [ ] A) La Tierra.
   <!-- feedback: Incorrecto. La Tierra es un planeta rocoso que refleja la luz del Sol y no genera energía propia por fusión. -->
-- [ ] C) La Luna.
+- [ ] B) La Luna.
   <!-- feedback: Incorrecto. La Luna es un satélite natural que refleja la luz solar y no produce luz propia. -->
 - [ ] D) El asteroide Ceres.
   <!-- feedback: Incorrecto. Ceres es un cuerpo menor del cinturón de asteroides, no una estrella ni un planeta. -->
@@ -51,11 +51,11 @@ Las estrellas son esferas de plasma que generan luz y calor mediante reacciones 
 ### Enunciado
 A qué galaxia pertenece el sistema solar dentro del universo observable?
 ### Opciones
-- [x] A) A la galaxia conocida como Vía Láctea.
+- [x] C) A la galaxia conocida como Vía Láctea.
   <!-- feedback: Correcto. El sistema solar se ubica en un brazo externo de la galaxia espiral llamada Vía Láctea, junto con miles de millones de otras estrellas. -->
-- [ ] B) A la galaxia Andrómeda.
+- [ ] A) A la galaxia Andrómeda.
   <!-- feedback: Incorrecto. Andrómeda es otra galaxia espiral cercana pero independiente, no contiene al Sol. -->
-- [ ] C) A la galaxia enana de Magallanes.
+- [ ] B) A la galaxia enana de Magallanes.
   <!-- feedback: Incorrecto. Las Nubes de Magallanes son galaxias satélite de la Vía Láctea pero no contienen al Sol. -->
 - [ ] D) A la galaxia elíptica Centaurus A.
   <!-- feedback: Incorrecto. Centaurus A es una galaxia lejana del hemisferio sur, sin relación con nuestro sistema solar. -->
@@ -91,9 +91,9 @@ Las galaxias se clasifican morfológicamente en espirales, elípticas e irregula
 ### Enunciado
 Si los estudiantes observan la Luna en cuarto creciente durante una noche despejada en la Sabana de Bogotá, qué fase lunar verán exactamente una semana después si las condiciones meteorológicas se mantienen?
 ### Opciones
-- [x] A) Luna gibosa menguante, próxima al tercer cuarto.
+- [x] B) Luna gibosa menguante, próxima al tercer cuarto.
   <!-- feedback: Correcto. Después del cuarto creciente, una semana después la Luna estará en fase gibosa menguante, antes del tercer cuarto. -->
-- [ ] B) Luna nueva, completamente oscura en el cielo nocturno.
+- [ ] A) Luna nueva, completamente oscura en el cielo nocturno.
   <!-- feedback: Incorrecto. La Luna nueva ocurre aproximadamente dos semanas después del cuarto creciente, no una. -->
 - [ ] C) Luna llena en su máximo brillo.
   <!-- feedback: Incorrecto. La Luna llena se observa cerca de dos semanas después del cuarto creciente. -->
@@ -111,11 +111,11 @@ El ciclo lunar sinódico dura aproximadamente 29,5 días. Cada siete días la fa
 ### Enunciado
 Cómo puede un estudiante de Cali explicar el movimiento aparente del Sol a lo largo del día utilizando el reloj solar recién construido?
 ### Opciones
-- [x] A) La sombra se desplaza de oeste a este a medida que pasan las horas, porque la Tierra rota de oeste a este y el Sol parece moverse en sentido contrario.
+- [x] C) La sombra se desplaza de oeste a este a medida que pasan las horas, porque la Tierra rota de oeste a este y el Sol parece moverse en sentido contrario.
   <!-- feedback: Correcto. La rotación terrestre de oeste a este genera el movimiento aparente del Sol de este a oeste y el desplazamiento inverso de la sombra. -->
-- [ ] B) El Sol realmente orbita alrededor de la Tierra en 24 horas, sin importar el movimiento terrestre.
+- [ ] A) El Sol realmente orbita alrededor de la Tierra en 24 horas, sin importar el movimiento terrestre.
   <!-- feedback: Incorrecto. Aunque en la antigüedad se pensaba así, hoy sabemos que el giro aparente se debe a la rotación terrestre. -->
-- [ ] C) La sombra cambia porque el reloj se mueve por el viento sobre el patio.
+- [ ] B) La sombra cambia porque el reloj se mueve por el viento sobre el patio.
   <!-- feedback: Incorrecto. El reloj está fijo en el suelo; la sombra cambia por la posición del Sol respecto al observador. -->
 - [ ] D) El reloj de Sol solo funciona de noche bajo la luz de la Luna.
   <!-- feedback: Incorrecto. El reloj de Sol funciona con la luz del Sol; durante la noche marca de manera imprecisa o no marca. -->
@@ -135,9 +135,9 @@ Por qué los astrónomos prefieren medir el paralaje estelar desde dos posicione
   <!-- feedback: Incorrecto. La atmósfera permite observar estrellas cualquier noche despejada; el motivo es geométrico, no atmosférico. -->
 - [ ] B) Porque en una noche la estrella se mueve demasiado rápido para fijar el telescopio.
   <!-- feedback: Incorrecto. Las estrellas parecen fijas en escalas de horas; lo que importa es el cambio aparente por el movimiento orbital. -->
-- [x] C) Porque al separar las posiciones por el diámetro de la órbita terrestre se obtiene una línea base mucho mayor que mejora la precisión del ángulo de paralaje.
+- [x] D) Porque al separar las posiciones por el diámetro de la órbita terrestre se obtiene una línea base mucho mayor que mejora la precisión del ángulo de paralaje.
   <!-- feedback: Correcto. Una línea base de unos 300 millones de kilómetros genera ángulos detectables para estrellas relativamente cercanas. -->
-- [ ] D) Porque en una sola noche las estrellas cambian su brillo de forma impredecible.
+- [ ] C) Porque en una sola noche las estrellas cambian su brillo de forma impredecible.
   <!-- feedback: Incorrecto. La variación de brillo en una noche es despreciable para la mayoría de las estrellas medidas por paralaje. -->
 ### Explicacion Pedagogica
 El método del paralaje aprovecha la órbita terrestre para medir el desplazamiento aparente de una estrella cercana contra el fondo de estrellas más lejanas. Entre mayor sea la línea base, más preciso es el cálculo de la distancia en parsecs y años luz.
@@ -151,13 +151,13 @@ El método del paralaje aprovecha la órbita terrestre para medir el desplazamie
 ### Enunciado
 Si el Sol tiene una temperatura superficial cercana a 5.800 K y una luminosidad de referencia, qué sucedería con su posición en el diagrama HR si en el futuro se convirtiera en una gigante roja?
 ### Opciones
-- [x] A) Se desplazaría hacia la parte superior derecha del diagrama, indicando mayor luminosidad y menor temperatura superficial.
+- [x] D) Se desplazaría hacia la parte superior derecha del diagrama, indicando mayor luminosidad y menor temperatura superficial.
   <!-- feedback: Correcto. Las gigantes rojas son más luminosas pero más frías en la superficie, por eso migran al área superior derecha del diagrama HR. -->
-- [ ] B) Se desplazaría hacia el extremo inferior izquierdo, volviéndose enana blanca caliente y poco luminosa.
+- [ ] A) Se desplazaría hacia el extremo inferior izquierdo, volviéndose enana blanca caliente y poco luminosa.
   <!-- feedback: Incorrecto. Esa posición corresponde a una enana blanca, etapa posterior a la gigante roja, no la fase inmediata. -->
-- [ ] C) Mantendría exactamente la misma posición indefinidamente.
+- [ ] B) Mantendría exactamente la misma posición indefinidamente.
   <!-- feedback: Incorrecto. Las estrellas cambian su luminosidad y temperatura a lo largo de su evolución, modificando su posición en el diagrama. -->
-- [ ] D) Saldría del diagrama HR porque las gigantes rojas no pueden representarse en él.
+- [ ] C) Saldría del diagrama HR porque las gigantes rojas no pueden representarse en él.
   <!-- feedback: Incorrecto. El diagrama HR incluye todas las fases estelares, incluyendo gigantes rojas y supergigantes. -->
 ### Explicacion Pedagogica
 El diagrama Hertzsprung-Russell ordena las estrellas según su temperatura y luminosidad. Durante su evolución, las estrellas cambian de posición: las de masa baja como el Sol pasan por la secuencia principal, gigante roja, nebulosa planetaria y enana blanca.
@@ -171,11 +171,11 @@ El diagrama Hertzsprung-Russell ordena las estrellas según su temperatura y lum
 ### Enunciado
 Qué información útil obtienen los astrónomos al comparar imágenes de la Gran Nube de Magallanes tomadas con varios años de diferencia y distintos filtros espectrales?
 ### Opciones
-- [x] A) Identifican estrellas variables, regiones de formación estelar activa y eventos como supernovas en galaxias cercanas.
+- [x] C) Identifican estrellas variables, regiones de formación estelar activa y eventos como supernovas en galaxias cercanas.
   <!-- feedback: Correcto. La comparación temporal y multibanda permite detectar cambios astrofísicos rápidos y mapear poblaciones estelares jóvenes. -->
-- [ ] B) Únicamente calculan la distancia a la galaxia, sin más aplicaciones.
+- [ ] A) Únicamente calculan la distancia a la galaxia, sin más aplicaciones.
   <!-- feedback: Incorrecto. Aunque la distancia puede afinarse, el monitoreo temporal entrega muchos más datos físicos sobre la galaxia. -->
-- [ ] C) Determinan el color de pintura del telescopio que tomó la imagen.
+- [ ] B) Determinan el color de pintura del telescopio que tomó la imagen.
   <!-- feedback: Incorrecto. El color del telescopio no influye en la información astrofísica que entrega la imagen. -->
 - [ ] D) Verifican que la galaxia se está alejando o acercando a la Tierra en tiempo real.
   <!-- feedback: Incorrecto. La Gran Nube de Magallanes se mueve lentamente; su variación en pocos años es prácticamente imperceptible sin métodos espectroscópicos. -->
@@ -193,11 +193,11 @@ Cuál es la razón principal por la que el cielo nocturno en el municipio de San
 ### Opciones
 - [ ] A) Porque en San Pedro llueve menos y el cielo siempre está despejado.
   <!-- feedback: Incorrecto. Aunque el clima influye, la diferencia principal es la contaminación lumínica, no la cantidad de lluvia. -->
-- [x] B) Porque la contaminación lumínica del área metropolitana de Medellín reduce la visibilidad de las estrellas débiles, mientras que San Pedro tiene cielos oscuros.
+- [x] D) Porque la contaminación lumínica del área metropolitana de Medellín reduce la visibilidad de las estrellas débiles, mientras que San Pedro tiene cielos oscuros.
   <!-- feedback: Correcto. La luz artificial dispersada por la atmósfera enmascara las estrellas más débiles, efecto que desaparece en zonas oscuras. -->
-- [ ] C) Porque Medellín está ubicada en el hemisferio equivocado para observar estrellas.
+- [ ] B) Porque Medellín está ubicada en el hemisferio equivocado para observar estrellas.
   <!-- feedback: Incorrecto. Medellín se ubica en el hemisferio norte celeste; eso no impide observar estrellas débiles. -->
-- [ ] D) Porque en San Pedro las personas tienen mejor vista que en Medellín.
+- [ ] C) Porque en San Pedro las personas tienen mejor vista que en Medellín.
   <!-- feedback: Incorrecto. La agudeza visual promedio no explica una diferencia tan marcada de visibilidad estelar. -->
 ### Explicacion Pedagogica
 La contaminación lumínica generada por las grandes ciudades impide ver la mayoría de las estrellas débiles. Por eso los mejores observatorios se ubican en zonas apartadas como el Desierto de la Tatacoa, en el Huila, donde los cielos oscuros son patrimonio científico.
@@ -211,9 +211,9 @@ La contaminación lumínica generada por las grandes ciudades impide ver la mayo
 ### Enunciado
 Qué significa que los astrónomos detecten un corrimiento al rojo (redshift) alto en la luz de una galaxia muy lejana?
 ### Opciones
-- [x] A) Que la galaxia se aleja de nosotros a gran velocidad y que el universo se encuentra en expansión acelerada.
+- [x] B) Que la galaxia se aleja de nosotros a gran velocidad y que el universo se encuentra en expansión acelerada.
   <!-- feedback: Correcto. Un redshift alto indica velocidad de recesión alta, evidencia clave de la expansión del universo descubierta por Hubble. -->
-- [ ] B) Que la galaxia tiene color rojo porque está compuesta únicamente por estrellas frías.
+- [ ] A) Que la galaxia tiene color rojo porque está compuesta únicamente por estrellas frías.
   <!-- feedback: Incorrecto. El color real de la galaxia depende de su población estelar; el redshift es un efecto cosmológico independiente. -->
 - [ ] C) Que la luz proviene de un foco cercano de color rojo dentro de la propia galaxia.
   <!-- feedback: Incorrecto. El redshift es una propiedad de toda la luz integrada de la galaxia, no de un foco individual. -->
@@ -231,9 +231,9 @@ El corrimiento al rojo observado en galaxias distantes es la principal evidencia
 ### Enunciado
 Evalúe la propuesta de implementar en Bogotá una ordenanza municipal que limite la publicidad lumínica excesiva durante la noche para preservar la observación astronómica desde los cerros orientales.
 ### Opciones
-- [x] A) Es favorable: reducir el resplandor urbano protege el patrimonio astronómico, disminuye el consumo eléctrico y favorece la fauna nocturna.
+- [x] B) Es favorable: reducir el resplandor urbano protege el patrimonio astronómico, disminuye el consumo eléctrico y favorece la fauna nocturna.
   <!-- feedback: Correcto. La contaminación lumínica afecta la biodiversidad, el gasto energético y la posibilidad de observar el cielo desde la ciudad. -->
-- [ ] B) Es innecesaria, porque la observación astronómica solo se realiza en el campo.
+- [ ] A) Es innecesaria, porque la observación astronómica solo se realiza en el campo.
   <!-- feedback: Incorrecto. Aunque el campo ofrece mejores condiciones, en Bogotá también se hace divulgación en Planetario, colegios y cerros. -->
 - [ ] C) Es negativa, porque la iluminación nocturna reduce el crimen de forma definitiva.
   <!-- feedback: Incorrecto. La iluminación excesiva no reduce el crimen por sí sola; puede crear nuevos puntos ciegos visuales y afectar el sueño. -->
@@ -251,13 +251,13 @@ La contaminación lumínica es un problema creciente que afecta la observación 
 ### Enunciado
 Evalúe la propuesta de un show láser nocturno de gran potencia en el Parque de los Deseos como estrategia principal de educación astronómica para los jóvenes de Medellín.
 ### Opciones
-- [x] A) Es limitada como herramienta principal: los shows láser son espectaculares pero no reemplazan la observación directa ni la explicación científica guiada.
+- [x] D) Es limitada como herramienta principal: los shows láser son espectaculares pero no reemplazan la observación directa ni la explicación científica guiada.
   <!-- feedback: Correcto. La educación astronómica requiere observación, lectura crítica y práctica experimental; los shows son un complemento, no el eje. -->
-- [ ] B) Es perfecta porque enseña astronomía sin necesidad de Planetario ni docentes especializados.
+- [ ] A) Es perfecta porque enseña astronomía sin necesidad de Planetario ni docentes especializados.
   <!-- feedback: Incorrecto. Sin pedagogía ni observación real, el show se convierte en espectáculo visual sin aprendizaje significativo. -->
-- [ ] C) Solo debe juzgarse por el color y la cantidad de láseres utilizados.
+- [ ] B) Solo debe juzgarse por el color y la cantidad de láseres utilizados.
   <!-- feedback: Incorrecto. El aprendizaje se evalúa por la comprensión lograda, no por la espectacularidad visual. -->
-- [ ] D) Es inviable únicamente por razones estéticas en el espacio público.
+- [ ] C) Es inviable únicamente por razones estéticas en el espacio público.
   <!-- feedback: Incorrecto. El problema central es pedagógico; la estética puede ajustarse, pero el show por sí solo no enseña astronomía profunda. -->
 ### Explicacion Pedagogica
 La educación astronómica combina observación al telescopio, modelación, lectura crítica y mediación docente. Los espectáculos visuales son valiosos para atraer público, pero deben complementarse con prácticas científicas que consoliden el aprendizaje conceptual.

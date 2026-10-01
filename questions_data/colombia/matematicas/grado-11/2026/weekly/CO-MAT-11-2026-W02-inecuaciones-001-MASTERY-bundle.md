@@ -72,11 +72,11 @@ Para despejar $x$ en $2x + 2 \le 20$, restamos 2 de ambos miembros: $2x \le 18$.
 ### Enunciado
 ¿Cuál es el conjunto solución para la inecuación lineal $2x + 3 \le 25$?
 ### Opciones
-- [x] A) $x \le 11$
+- [x] C) $x \le 11$
   <!-- feedback: Correcto. Restando 3 a ambos lados obtenemos $2x \le 22$, y dividiendo entre 2 resulta $x \le 11$. -->
-- [ ] B) $x \ge 11$
+- [ ] A) $x \ge 11$
   <!-- feedback: Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo. -->
-- [ ] C) $x \le 14$
+- [ ] B) $x \le 14$
   <!-- feedback: Incorrecto. Se cometió un error en la resta de 3. -->
 - [ ] D) $x \le 22$
   <!-- feedback: Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2. -->
@@ -112,13 +112,13 @@ Para despejar $x$ en $2x + 4 \le 30$, restamos 4 de ambos miembros: $2x \le 26$.
 ### Enunciado
 ¿Cuál es el conjunto solución para la inecuación lineal $2x + 5 \le 35$?
 ### Opciones
-- [x] A) $x \le 15$
+- [x] D) $x \le 15$
   <!-- feedback: Correcto. Restando 5 a ambos lados obtenemos $2x \le 30$, y dividiendo entre 2 resulta $x \le 15$. -->
-- [ ] B) $x \ge 15$
+- [ ] A) $x \ge 15$
   <!-- feedback: Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo. -->
-- [ ] C) $x \le 18$
+- [ ] B) $x \le 18$
   <!-- feedback: Incorrecto. Se cometió un error en la resta de 5. -->
-- [ ] D) $x \le 30$
+- [ ] C) $x \le 30$
   <!-- feedback: Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2. -->
 ### Explicacion Pedagogica
 Para despejar $x$ en $2x + 5 \le 35$, restamos 5 de ambos miembros: $2x \le 30$. Luego dividimos entre 2 manteniendo la desigualdad: $x \le 15$.
@@ -132,9 +132,9 @@ Para despejar $x$ en $2x + 5 \le 35$, restamos 5 de ambos miembros: $2x \le 30$.
 ### Enunciado
 ¿Cuál es el conjunto solución para la inecuación lineal $2x + 6 \le 40$?
 ### Opciones
-- [x] A) $x \le 17$
+- [x] B) $x \le 17$
   <!-- feedback: Correcto. Restando 6 a ambos lados obtenemos $2x \le 34$, y dividiendo entre 2 resulta $x \le 17$. -->
-- [ ] B) $x \ge 17$
+- [ ] A) $x \ge 17$
   <!-- feedback: Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo. -->
 - [ ] C) $x \le 20$
   <!-- feedback: Incorrecto. Se cometió un error en la resta de 6. -->
@@ -172,9 +172,9 @@ Para despejar $x$ en $2x + 7 \le 45$, restamos 7 de ambos miembros: $2x \le 38$.
 ### Enunciado
 ¿Cuál es el conjunto solución para la inecuación lineal $2x + 8 \le 50$?
 ### Opciones
-- [x] A) $x \le 21$
+- [x] B) $x \le 21$
   <!-- feedback: Correcto. Restando 8 a ambos lados obtenemos $2x \le 42$, y dividiendo entre 2 resulta $x \le 21$. -->
-- [ ] B) $x \ge 21$
+- [ ] A) $x \ge 21$
   <!-- feedback: Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo. -->
 - [ ] C) $x \le 24$
   <!-- feedback: Incorrecto. Se cometió un error en la resta de 8. -->
@@ -192,9 +192,9 @@ Para despejar $x$ en $2x + 8 \le 50$, restamos 8 de ambos miembros: $2x \le 42$.
 ### Enunciado
 ¿Cuál es el conjunto solución para la inecuación lineal $2x + 9 \le 55$?
 ### Opciones
-- [x] A) $x \le 23$
+- [x] B) $x \le 23$
   <!-- feedback: Correcto. Restando 9 a ambos lados obtenemos $2x \le 46$, y dividiendo entre 2 resulta $x \le 23$. -->
-- [ ] B) $x \ge 23$
+- [ ] A) $x \ge 23$
   <!-- feedback: Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo. -->
 - [ ] C) $x \le 26$
   <!-- feedback: Incorrecto. Se cometió un error en la resta de 9. -->
@@ -232,9 +232,9 @@ Para despejar $x$ en $2x + 10 \le 60$, restamos 10 de ambos miembros: $2x \le 50
 ### Enunciado
 ¿Cuál es el conjunto solución para la inecuación lineal $2x + 11 \le 65$?
 ### Opciones
-- [x] A) $x \le 27$
+- [x] B) $x \le 27$
   <!-- feedback: Correcto. Restando 11 a ambos lados obtenemos $2x \le 54$, y dividiendo entre 2 resulta $x \le 27$. -->
-- [ ] B) $x \ge 27$
+- [ ] A) $x \ge 27$
   <!-- feedback: Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo. -->
 - [ ] C) $x \le 30$
   <!-- feedback: Incorrecto. Se cometió un error en la resta de 11. -->
@@ -252,11 +252,11 @@ Para despejar $x$ en $2x + 11 \le 65$, restamos 11 de ambos miembros: $2x \le 54
 ### Enunciado
 ¿Cuál es el conjunto solución para la inecuación lineal $2x + 12 \le 70$?
 ### Opciones
-- [x] A) $x \le 29$
+- [x] C) $x \le 29$
   <!-- feedback: Correcto. Restando 12 a ambos lados obtenemos $2x \le 58$, y dividiendo entre 2 resulta $x \le 29$. -->
-- [ ] B) $x \ge 29$
+- [ ] A) $x \ge 29$
   <!-- feedback: Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo. -->
-- [ ] C) $x \le 32$
+- [ ] B) $x \le 32$
   <!-- feedback: Incorrecto. Se cometió un error en la resta de 12. -->
 - [ ] D) $x \le 58$
   <!-- feedback: Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2. -->
@@ -272,11 +272,11 @@ Para despejar $x$ en $2x + 12 \le 70$, restamos 12 de ambos miembros: $2x \le 58
 ### Enunciado
 ¿Cuál es el conjunto solución para la inecuación lineal $2x + 13 \le 75$?
 ### Opciones
-- [x] A) $x \le 31$
+- [x] C) $x \le 31$
   <!-- feedback: Correcto. Restando 13 a ambos lados obtenemos $2x \le 62$, y dividiendo entre 2 resulta $x \le 31$. -->
-- [ ] B) $x \ge 31$
+- [ ] A) $x \ge 31$
   <!-- feedback: Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo. -->
-- [ ] C) $x \le 34$
+- [ ] B) $x \le 34$
   <!-- feedback: Incorrecto. Se cometió un error en la resta de 13. -->
 - [ ] D) $x \le 62$
   <!-- feedback: Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2. -->
@@ -292,13 +292,13 @@ Para despejar $x$ en $2x + 13 \le 75$, restamos 13 de ambos miembros: $2x \le 62
 ### Enunciado
 ¿Cuál es el conjunto solución para la inecuación lineal $2x + 14 \le 80$?
 ### Opciones
-- [x] A) $x \le 33$
+- [x] D) $x \le 33$
   <!-- feedback: Correcto. Restando 14 a ambos lados obtenemos $2x \le 66$, y dividiendo entre 2 resulta $x \le 33$. -->
-- [ ] B) $x \ge 33$
+- [ ] A) $x \ge 33$
   <!-- feedback: Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo. -->
-- [ ] C) $x \le 36$
+- [ ] B) $x \le 36$
   <!-- feedback: Incorrecto. Se cometió un error en la resta de 14. -->
-- [ ] D) $x \le 66$
+- [ ] C) $x \le 66$
   <!-- feedback: Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2. -->
 ### Explicacion Pedagogica
 Para despejar $x$ en $2x + 14 \le 80$, restamos 14 de ambos miembros: $2x \le 66$. Luego dividimos entre 2 manteniendo la desigualdad: $x \le 33$.
@@ -332,13 +332,13 @@ Para despejar $x$ en $2x + 15 \le 85$, restamos 15 de ambos miembros: $2x \le 70
 ### Enunciado
 ¿Cuál es el conjunto solución para la inecuación lineal $2x + 16 \le 90$?
 ### Opciones
-- [x] A) $x \le 37$
+- [x] D) $x \le 37$
   <!-- feedback: Correcto. Restando 16 a ambos lados obtenemos $2x \le 74$, y dividiendo entre 2 resulta $x \le 37$. -->
-- [ ] B) $x \ge 37$
+- [ ] A) $x \ge 37$
   <!-- feedback: Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo. -->
-- [ ] C) $x \le 40$
+- [ ] B) $x \le 40$
   <!-- feedback: Incorrecto. Se cometió un error en la resta de 16. -->
-- [ ] D) $x \le 74$
+- [ ] C) $x \le 74$
   <!-- feedback: Incorrecto. Se olvidó dividir el resultado entre el coeficiente 2. -->
 ### Explicacion Pedagogica
 Para despejar $x$ en $2x + 16 \le 90$, restamos 16 de ambos miembros: $2x \le 74$. Luego dividimos entre 2 manteniendo la desigualdad: $x \le 37$.
@@ -352,9 +352,9 @@ Para despejar $x$ en $2x + 16 \le 90$, restamos 16 de ambos miembros: $2x \le 74
 ### Enunciado
 ¿Cuál es el conjunto solución para la inecuación lineal $2x + 17 \le 95$?
 ### Opciones
-- [x] A) $x \le 39$
+- [x] B) $x \le 39$
   <!-- feedback: Correcto. Restando 17 a ambos lados obtenemos $2x \le 78$, y dividiendo entre 2 resulta $x \le 39$. -->
-- [ ] B) $x \ge 39$
+- [ ] A) $x \ge 39$
   <!-- feedback: Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo. -->
 - [ ] C) $x \le 42$
   <!-- feedback: Incorrecto. Se cometió un error en la resta de 17. -->
@@ -392,9 +392,9 @@ Para despejar $x$ en $2x + 18 \le 100$, restamos 18 de ambos miembros: $2x \le 8
 ### Enunciado
 ¿Cuál es el conjunto solución para la inecuación lineal $2x + 19 \le 105$?
 ### Opciones
-- [x] A) $x \le 43$
+- [x] B) $x \le 43$
   <!-- feedback: Correcto. Restando 19 a ambos lados obtenemos $2x \le 86$, y dividiendo entre 2 resulta $x \le 43$. -->
-- [ ] B) $x \ge 43$
+- [ ] A) $x \ge 43$
   <!-- feedback: Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo. -->
 - [ ] C) $x \le 46$
   <!-- feedback: Incorrecto. Se cometió un error en la resta de 19. -->
@@ -412,9 +412,9 @@ Para despejar $x$ en $2x + 19 \le 105$, restamos 19 de ambos miembros: $2x \le 8
 ### Enunciado
 ¿Cuál es el conjunto solución para la inecuación lineal $2x + 20 \le 110$?
 ### Opciones
-- [x] A) $x \le 45$
+- [x] B) $x \le 45$
   <!-- feedback: Correcto. Restando 20 a ambos lados obtenemos $2x \le 90$, y dividiendo entre 2 resulta $x \le 45$. -->
-- [ ] B) $x \ge 45$
+- [ ] A) $x \ge 45$
   <!-- feedback: Incorrecto. Invertiste la desigualdad sin haber multiplicado ni dividido por un número negativo. -->
 - [ ] C) $x \le 48$
   <!-- feedback: Incorrecto. Se cometió un error en la resta de 20. -->

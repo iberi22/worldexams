@@ -54,9 +54,9 @@ Aplique la regla de la potencia para integrar la función $f(x) = x$. $\int x \,
 
 ### Opciones
 - [ ] A) $x^2 + C$ <!-- feedback: Incorrecto. Olvidó dividir por el nuevo exponente. -->
-- [x] B) $\frac{x^2}{2} + C$ <!-- feedback: Correcto. Al exponente 1 le sumamos 1 (1+1=2) y dividimos por ese mismo resultado. -->
-- [ ] C) 1 <!-- feedback: Incorrecto. Esta es la derivada de x, no su integral. -->
-- [ ] D) $2x + C$ <!-- feedback: Incorrecto. Aplicó la regla de derivación en lugar de la de integración. -->
+- [x] D) $\frac{x^2}{2} + C$ <!-- feedback: Correcto. Al exponente 1 le sumamos 1 (1+1=2) y dividimos por ese mismo resultado. -->
+- [ ] B) 1 <!-- feedback: Incorrecto. Esta es la derivada de x, no su integral. -->
+- [ ] C) $2x + C$ <!-- feedback: Incorrecto. Aplicó la regla de derivación en lugar de la de integración. -->
 
 ### Explicacion Pedagogica
 La regla de la potencia para integrales establece que $\int x^n \, dx = \frac{x^{n+1}}{n+1} + C$. Para $x^1$, obtenemos $\frac{x^{1+1}}{1+1} = \frac{x^2}{2}$.
@@ -141,8 +141,8 @@ Integramos cada término por separado: para $3x^2$ queda $x^3$, para $-4x$ queda
 Determine el valor de $\int \frac{1}{x^2} \, dx$.
 
 ### Opciones
-- [ ] A) $\ln(x^2) + C$ <!-- feedback: Incorrecto. Solo la función 1/x tiene como integral al logaritmo natural. -->
-- [x] B) $-\frac{1}{x} + C$ <!-- feedback: Correcto. x^(-2) integrado es x^(-1)/(-1) = -1/x. -->
+- [ ] B) $\ln(x^2) + C$ <!-- feedback: Incorrecto. Solo la función 1/x tiene como integral al logaritmo natural. -->
+- [x] A) $-\frac{1}{x} + C$ <!-- feedback: Correcto. x^(-2) integrado es x^(-1)/(-1) = -1/x. -->
 - [ ] C) $\frac{1}{x} + C$ <!-- feedback: Incorrecto. Olvidó el signo negativo que surge de la división por el nuevo exponente -1. -->
 - [ ] D) $-\frac{2}{x^3} + C$ <!-- feedback: Incorrecto. Esta es la derivada de la función. -->
 
@@ -164,8 +164,8 @@ Calcule la integral especial: $\int \frac{1}{x} \, dx$ para $x > 0$.
 
 ### Opciones
 - [ ] A) $\frac{x^0}{0} + C$ <!-- feedback: Incorrecto. La regla de la potencia no aplica cuando n = -1 porque genera una división por cero. -->
-- [ ] B) $1 + C$ <!-- feedback: Incorrecto. El resultado debe ser una función logarítmica. -->
-- [x] C) $\ln(x) + C$ <!-- feedback: Correcto. Por definición, la antiderivada de 1/x es el logaritmo natural de x. -->
+- [ ] C) $1 + C$ <!-- feedback: Incorrecto. El resultado debe ser una función logarítmica. -->
+- [x] B) $\ln(x) + C$ <!-- feedback: Correcto. Por definición, la antiderivada de 1/x es el logaritmo natural de x. -->
 - [ ] D) $e^x + C$ <!-- feedback: Incorrecto. La exponencial es la integral de sí misma, no de 1/x. -->
 
 ### Explicacion Pedagogica
@@ -186,8 +186,8 @@ Determine $\int e^x \, dx$.
 
 ### Opciones
 - [ ] A) $xe^x + C$ <!-- feedback: Incorrecto. No es necesario multiplicar por x. -->
-- [x] B) $e^x + C$ <!-- feedback: Correcto. La función exponencial natural es la única función (distinta de cero) que es su propia integral y derivada. -->
-- [ ] C) $\frac{e^{x+1}}{x+1} + C$ <!-- feedback: Incorrecto. No se aplica la regla de la potencia a funciones con base e y variable en el exponente. -->
+- [x] C) $e^x + C$ <!-- feedback: Correcto. La función exponencial natural es la única función (distinta de cero) que es su propia integral y derivada. -->
+- [ ] B) $\frac{e^{x+1}}{x+1} + C$ <!-- feedback: Incorrecto. No se aplica la regla de la potencia a funciones con base e y variable en el exponente. -->
 - [ ] D) $\ln(e^x) + C$ <!-- feedback: Incorrecto. El logaritmo es la operación inversa de la exponencial, no su integral. -->
 
 ### Explicacion Pedagogica
@@ -275,8 +275,8 @@ Calcule la integral indefinida de $f(x) = \sqrt{x}$.
 ### Opciones
 - [ ] A) $\frac{1}{2\sqrt{x}} + C$ <!-- feedback: Incorrecto. Esta es la derivada de la raíz de x. -->
 - [ ] B) $\frac{2}{3}x^{2/3} + C$ <!-- feedback: Incorrecto. Invirtió el exponente fraccionario. -->
-- [x] C) $\frac{2}{3}x^{3/2} + C$ <!-- feedback: Correcto. x^(1/2) integrado es x^(3/2) / (3/2) = 2/3 * x^(3/2). -->
-- [ ] D) $x^{3/2} + C$ <!-- feedback: Incorrecto. Olvidó el coeficiente resultante de dividir por el nuevo exponente. -->
+- [x] D) $\frac{2}{3}x^{3/2} + C$ <!-- feedback: Correcto. x^(1/2) integrado es x^(3/2) / (3/2) = 2/3 * x^(3/2). -->
+- [ ] C) $x^{3/2} + C$ <!-- feedback: Incorrecto. Olvidó el coeficiente resultante de dividir por el nuevo exponente. -->
 
 ### Explicacion Pedagogica
 Escribimos $\sqrt{x}$ como $x^{1/2}$. Aplicamos la regla de la potencia: el nuevo exponente es $1/2 + 1 = 3/2$. Dividimos entre $3/2$, lo que equivale a multiplicar por el recíproco $2/3$.
@@ -318,8 +318,8 @@ Determine la integral de $\int (2x + 1)^3 \, dx$.
 
 ### Opciones
 - [ ] A) $\frac{(2x+1)^4}{4} + C$ <!-- feedback: Incorrecto. Olvidó aplicar la compensación por la derivada del término interno (2x+1). -->
-- [x] B) $\frac{(2x+1)^4}{8} + C$ <!-- feedback: Correcto. Aplicando cambio de variable u=2x+1, du=2dx, entonces dx=du/2. La integral queda (1/2) * (u^4/4) = u^4/8. -->
-- [ ] C) $3(2x+1)^2 + C$ <!-- feedback: Incorrecto. Esta respuesta se parece a la derivada de la función. -->
+- [x] C) $\frac{(2x+1)^4}{8} + C$ <!-- feedback: Correcto. Aplicando cambio de variable u=2x+1, du=2dx, entonces dx=du/2. La integral queda (1/2) * (u^4/4) = u^4/8. -->
+- [ ] B) $3(2x+1)^2 + C$ <!-- feedback: Incorrecto. Esta respuesta se parece a la derivada de la función. -->
 - [ ] D) $\frac{(2x+1)^4}{2} + C$ <!-- feedback: Incorrecto. Solo dividió por la derivada interna pero olvidó la división del exponente. -->
 
 ### Explicacion Pedagogica
@@ -362,8 +362,8 @@ Identifique el resultado de la integral: $\int \frac{1}{1 + x^2} \, dx$.
 
 ### Opciones
 - [ ] A) $\ln(1 + x^2) + C$ <!-- feedback: Incorrecto. Esta sería la integral si el numerador fuera 2x. -->
-- [x] B) $\arctan(x) + C$ <!-- feedback: Correcto. La función cuya derivada es 1/(1+x^2) es la arcotangente de x. -->
-- [ ] C) $\arcsin(x) + C$ <!-- feedback: Incorrecto. La integral del arcoseno proviene de una raíz cuadrada en el denominador. -->
+- [x] C) $\arctan(x) + C$ <!-- feedback: Correcto. La función cuya derivada es 1/(1+x^2) es la arcotangente de x. -->
+- [ ] B) $\arcsin(x) + C$ <!-- feedback: Incorrecto. La integral del arcoseno proviene de una raíz cuadrada en el denominador. -->
 - [ ] D) $\tan(x) + C$ <!-- feedback: Incorrecto. La integral de la tangente es -ln|cos x|, no esta función racional. -->
 
 ### Explicacion Pedagogica
@@ -406,8 +406,8 @@ Determine $\int \ln(x) \, dx$ mediante el método de integración por partes.
 
 ### Opciones
 - [ ] A) $\frac{1}{x} + C$ <!-- feedback: Incorrecto. Esta es la derivada de ln(x). -->
-- [ ] B) $x \ln(x) + C$ <!-- feedback: Incorrecto. Falta el segundo término que surge de la fórmula de integración por partes. -->
-- [x] C) $x \ln(x) - x + C$ <!-- feedback: Correcto. Usando u=ln x, dv=dx. Entonces du=dx/x, v=x. Integral = uv - \int v du = x ln x - \int 1 dx = x ln x - x. -->
+- [ ] C) $x \ln(x) + C$ <!-- feedback: Incorrecto. Falta el segundo término que surge de la fórmula de integración por partes. -->
+- [x] B) $x \ln(x) - x + C$ <!-- feedback: Correcto. Usando u=ln x, dv=dx. Entonces du=dx/x, v=x. Integral = uv - \int v du = x ln x - \int 1 dx = x ln x - x. -->
 - [ ] D) $\frac{(\ln x)^2}{2} + C$ <!-- feedback: Incorrecto. Esta sería la integral si la función fuera (ln x) / x. -->
 
 ### Explicacion Pedagogica
@@ -427,10 +427,10 @@ La integración por partes sigue la fórmula $\int u \, dv = uv - \int v \, du$.
 Calcule $\int \sin^2(x) \cos(x) \, dx$.
 
 ### Opciones
-- [x] A) $\frac{\sin^3(x)}{3} + C$ <!-- feedback: Correcto. Sea u = sen(x), entonces du = cos(x) dx. La integral es \int u^2 du = u^3/3. -->
-- [ ] B) $\frac{\cos^3(x)}{3} + C$ <!-- feedback: Incorrecto. La sustitución correcta es u = sen(x) porque su derivada es cos(x). -->
-- [ ] C) $-\frac{\sin^3(x)}{3} + C$ <!-- feedback: Incorrecto. El signo es positivo porque la derivada del seno es el coseno positivo. -->
-- [ ] D) $\sin(x) \cos(x) + C$ <!-- feedback: Incorrecto. No aplicó ninguna regla de integración válida. -->
+- [x] D) $\frac{\sin^3(x)}{3} + C$ <!-- feedback: Correcto. Sea u = sen(x), entonces du = cos(x) dx. La integral es \int u^2 du = u^3/3. -->
+- [ ] A) $\frac{\cos^3(x)}{3} + C$ <!-- feedback: Incorrecto. La sustitución correcta es u = sen(x) porque su derivada es cos(x). -->
+- [ ] B) $-\frac{\sin^3(x)}{3} + C$ <!-- feedback: Incorrecto. El signo es positivo porque la derivada del seno es el coseno positivo. -->
+- [ ] C) $\sin(x) \cos(x) + C$ <!-- feedback: Incorrecto. No aplicó ninguna regla de integración válida. -->
 
 ### Explicacion Pedagogica
 Este es un caso ideal para el cambio de variable. Identificamos que una parte de la función ($\cos x$) es la derivada de otra parte que está elevada a una potencia ($\sin x$). Esto reduce el problema a integrar una potencia simple.
@@ -449,8 +449,8 @@ Este es un caso ideal para el cambio de variable. Identificamos que una parte de
 ¿Cuál es el valor de $\int \frac{x}{x^2 + 1} \, dx$?
 
 ### Opciones
-- [ ] A) $\arctan(x) + C$ <!-- feedback: Incorrecto. Esta sería la integral si el numerador fuera 1, no x. -->
-- [x] B) $\frac{1}{2}\ln(x^2 + 1) + C$ <!-- feedback: Correcto. Sea u = x^2+1, du = 2x dx. La integral queda (1/2) \int du/u = (1/2) ln|u|. -->
+- [ ] B) $\arctan(x) + C$ <!-- feedback: Incorrecto. Esta sería la integral si el numerador fuera 1, no x. -->
+- [x] A) $\frac{1}{2}\ln(x^2 + 1) + C$ <!-- feedback: Correcto. Sea u = x^2+1, du = 2x dx. La integral queda (1/2) \int du/u = (1/2) ln|u|. -->
 - [ ] C) $\ln(x^2 + 1) + C$ <!-- feedback: Incorrecto. Olvidó el factor 1/2 necesario para completar el diferencial de x^2+1. -->
 - [ ] D) $\frac{x^2}{x^2+1} + C$ <!-- feedback: Incorrecto. No se integran fracciones dividiendo los términos de esa manera. -->
 

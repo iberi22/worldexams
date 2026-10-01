@@ -56,8 +56,8 @@ Users should ensure that their private information is kept secure from potential
 
 ### Opciones
 - [ ] A) keep <!-- feedback: Incorrect. Active voice. -->
-- [x] B) is kept <!-- feedback: Correct. Present simple passive for a general requirement. -->
-- [ ] C) keeps <!-- feedback: Incorrect. Active voice. -->
+- [x] C) is kept <!-- feedback: Correct. Present simple passive for a general requirement. -->
+- [ ] B) keeps <!-- feedback: Incorrect. Active voice. -->
 - [ ] D) being kept <!-- feedback: Incorrect. Gerund. -->
 
 ### Explicacion Pedagogica
@@ -96,9 +96,9 @@ Cyberbullying involves using digital communication to harass, threaten, or intim
 
 ### Opciones
 - [ ] A) promote <!-- feedback: Incorrect. Cyberbullying is negative. -->
-- [x] B) harass <!-- feedback: Correct. To harass means to subject to aggressive pressure or intimidation. -->
-- [ ] C) support <!-- feedback: Incorrect. Opposite meaning. -->
-- [ ] D) ignore <!-- feedback: Incorrect. It is an active form of harm. -->
+- [x] D) harass <!-- feedback: Correct. To harass means to subject to aggressive pressure or intimidation. -->
+- [ ] B) support <!-- feedback: Incorrect. Opposite meaning. -->
+- [ ] C) ignore <!-- feedback: Incorrect. It is an active form of harm. -->
 
 ### Explicacion Pedagogica
 'Harass' is one of the key actions that defines cyberbullying behavior.
@@ -115,8 +115,8 @@ Cyberbullying involves using digital communication to harass, threaten, or intim
 The digital divide highlights the inequality in access to information and communication technology between different social groups.
 
 ### Opciones
-- [ ] A) equality <!-- feedback: Incorrect. The divide is about *in*equality. -->
-- [x] B) inequality <!-- feedback: Correct. Inequality is the state of not being equal, especially in status, rights, and opportunities. -->
+- [ ] B) equality <!-- feedback: Incorrect. The divide is about *in*equality. -->
+- [x] A) inequality <!-- feedback: Correct. Inequality is the state of not being equal, especially in status, rights, and opportunities. -->
 - [ ] C) similarity <!-- feedback: Incorrect. Focuses on the gap. -->
 - [ ] D) abundance <!-- feedback: Incorrect. One group lacks the technology. -->
 
@@ -136,8 +136,8 @@ Netiquette is the set of rules for behaving properly online.
 
 ### Opciones
 - [ ] A) Software <!-- feedback: Incorrect. Programs. -->
-- [x] B) Netiquette <!-- feedback: Correct. Portmanteau of network and etiquette. -->
-- [ ] C) Hardware <!-- feedback: Incorrect. Physical parts of a computer. -->
+- [x] C) Netiquette <!-- feedback: Correct. Portmanteau of network and etiquette. -->
+- [ ] B) Hardware <!-- feedback: Incorrect. Physical parts of a computer. -->
 - [ ] D) Malware <!-- feedback: Incorrect. Harmful software. -->
 
 ### Explicacion Pedagogica
@@ -155,8 +155,8 @@ Netiquette is the set of rules for behaving properly online.
 It is vital that everyone use strong, unique passwords for their online accounts.
 
 ### Opciones
-- [x] A) use <!-- feedback: Correct. Subjunctive base form after 'It is vital that...'. -->
-- [ ] B) uses <!-- feedback: Incorrect. Third person singular not used in formal subjunctive. -->
+- [x] B) use <!-- feedback: Correct. Subjunctive base form after 'It is vital that...'. -->
+- [ ] A) uses <!-- feedback: Incorrect. Third person singular not used in formal subjunctive. -->
 - [ ] C) to use <!-- feedback: Incorrect. Doesn't fit 'that' clause. -->
 - [ ] D) using <!-- feedback: Incorrect. Gerund. -->
 
@@ -176,9 +176,9 @@ Plagiarism is the practice of taking someone else's work or ideas and passing th
 
 ### Opciones
 - [ ] A) Citation <!-- feedback: Incorrect. Citation is giving credit. -->
-- [x] B) Plagiarism <!-- feedback: Correct. Plagiarism is academic/creative theft. -->
-- [ ] C) Innovation <!-- feedback: Incorrect. Innovation is creating something new. -->
-- [ ] D) Collaboration <!-- feedback: Incorrect. Collaboration is working together. -->
+- [x] D) Plagiarism <!-- feedback: Correct. Plagiarism is academic/creative theft. -->
+- [ ] B) Innovation <!-- feedback: Incorrect. Innovation is creating something new. -->
+- [ ] C) Collaboration <!-- feedback: Incorrect. Collaboration is working together. -->
 
 ### Explicacion Pedagogica
 'Plagiarism' is the specific term for the unethical use of another's work without attribution.
@@ -196,9 +196,9 @@ Your browsing habits are being tracked by various companies to target you with a
 
 ### Opciones
 - [ ] A) are tracking <!-- feedback: Incorrect. Active voice. -->
-- [x] B) are being tracked <!-- feedback: Correct. Present continuous passive for an ongoing process. -->
-- [ ] C) were tracked <!-- feedback: Incorrect. Past simple. -->
-- [ ] D) tracked <!-- feedback: Incorrect. Past simple. -->
+- [x] D) are being tracked <!-- feedback: Correct. Present continuous passive for an ongoing process. -->
+- [ ] B) were tracked <!-- feedback: Incorrect. Past simple. -->
+- [ ] C) tracked <!-- feedback: Incorrect. Past simple. -->
 
 ### Explicacion Pedagogica
 The present continuous passive describes how user data is currently and continuously being monitored.
@@ -216,9 +216,9 @@ Echo chambers can polarize society by only exposing individuals to information t
 
 ### Opciones
 - [ ] A) unite <!-- feedback: Incorrect. Polarize is the opposite of unite. -->
-- [x] B) polarize <!-- feedback: Correct. To polarize means to divide into two sharply contrasting groups or sets of opinions. -->
-- [ ] C) educate <!-- feedback: Incorrect. Echo chambers often limit education. -->
-- [ ] D) simplify <!-- feedback: Incorrect. They make social cohesion more complex. -->
+- [x] D) polarize <!-- feedback: Correct. To polarize means to divide into two sharply contrasting groups or sets of opinions. -->
+- [ ] B) educate <!-- feedback: Incorrect. Echo chambers often limit education. -->
+- [ ] C) simplify <!-- feedback: Incorrect. They make social cohesion more complex. -->
 
 ### Explicacion Pedagogica
 'Polarize' correctly identifies the divisive effect that echo chambers have on public discourse.
@@ -255,8 +255,8 @@ Malware is software that is specifically designed to disrupt, damage, or gain un
 Users whose data has been breached should be notified immediately by the service provider.
 
 ### Opciones
-- [ ] A) who <!-- feedback: Incorrect. Subject pronoun. -->
-- [x] B) whose <!-- feedback: Correct. Possessive relative pronoun for 'users' data'. -->
+- [ ] B) who <!-- feedback: Incorrect. Subject pronoun. -->
+- [x] A) whose <!-- feedback: Correct. Possessive relative pronoun for 'users' data'. -->
 - [ ] C) which <!-- feedback: Incorrect. Refers to things. -->
 - [ ] D) that <!-- feedback: Incorrect. Relative pronoun. -->
 
@@ -276,9 +276,9 @@ Everything you do online leaves a permanent digital footprint that can be diffic
 
 ### Opciones
 - [ ] A) temporary <!-- feedback: Incorrect. Digital data is notoriously persistent. -->
-- [x] B) permanent <!-- feedback: Correct. Permanent means lasting or intended to last or remain unchanged indefinitely. -->
-- [ ] C) invisible <!-- feedback: Incorrect. It can be seen by those with the right access. -->
-- [ ] D) private <!-- feedback: Incorrect. It's often more public than we realize. -->
+- [x] D) permanent <!-- feedback: Correct. Permanent means lasting or intended to last or remain unchanged indefinitely. -->
+- [ ] B) invisible <!-- feedback: Incorrect. It can be seen by those with the right access. -->
+- [ ] C) private <!-- feedback: Incorrect. It's often more public than we realize. -->
 
 ### Explicacion Pedagogica
 'Permanent' describes the enduring nature of digital information once it has been shared or recorded.
@@ -315,8 +315,8 @@ You shouldn't share sensitive information unless you are absolutely sure of the 
 The author concludes that digital literacy is the most effective tool for navigating the complexities of the online world.
 
 ### Opciones
-- [ ] A) distraction <!-- feedback: Incorrect. Literacy is a help, not a distraction. -->
-- [x] B) digital literacy <!-- feedback: Correct. Digital literacy is the ability to find, evaluate, and communicate information through various digital platforms. -->
+- [ ] B) distraction <!-- feedback: Incorrect. Literacy is a help, not a distraction. -->
+- [x] A) digital literacy <!-- feedback: Correct. Digital literacy is the ability to find, evaluate, and communicate information through various digital platforms. -->
 - [ ] C) isolation <!-- feedback: Incorrect. Negative. -->
 - [ ] D) aggression <!-- feedback: Incorrect. Negative. -->
 
@@ -336,9 +336,9 @@ Phishing is a fraudulent attempt to obtain sensitive information such as usernam
 
 ### Opciones
 - [ ] A) Fishing <!-- feedback: Incorrect spelling for this context. -->
-- [x] B) Phishing <!-- feedback: Correct. Specific term for this type of cybercrime. -->
-- [ ] C) Shopping <!-- feedback: Incorrect. -->
-- [ ] D) Blogging <!-- feedback: Incorrect. -->
+- [x] D) Phishing <!-- feedback: Correct. Specific term for this type of cybercrime. -->
+- [ ] B) Shopping <!-- feedback: Incorrect. -->
+- [ ] C) Blogging <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
 'Phishing' is the technical term for deceptive attempts to steal user data.
@@ -376,9 +376,9 @@ Open-source software allows users to access and modify the source code, promotin
 
 ### Opciones
 - [ ] A) Private <!-- feedback: Incorrect. Private software hides code. -->
-- [x] B) Open-source <!-- feedback: Correct. The code is open for all to see and edit. -->
-- [ ] C) Expensive <!-- feedback: Incorrect. It's often free, but the key is the code access. -->
-- [ ] D) Encrypted <!-- feedback: Incorrect. Encryption hides meaning. -->
+- [x] D) Open-source <!-- feedback: Correct. The code is open for all to see and edit. -->
+- [ ] B) Expensive <!-- feedback: Incorrect. It's often free, but the key is the code access. -->
+- [ ] C) Encrypted <!-- feedback: Incorrect. Encryption hides meaning. -->
 
 ### Explicacion Pedagogica
 'Open-source' is the term for software where the original source code is made freely available and may be redistributed and modified.
@@ -395,8 +395,8 @@ Open-source software allows users to access and modify the source code, promotin
 The expert warned that hackers were becoming increasingly sophisticated.
 
 ### Opciones
-- [ ] A) are becoming <!-- feedback: Incorrect. Backshifted in reported speech. -->
-- [x] B) were becoming <!-- feedback: Correct. Backshifted from 'are' to 'were' in reported speech. -->
+- [ ] B) are becoming <!-- feedback: Incorrect. Backshifted in reported speech. -->
+- [x] A) were becoming <!-- feedback: Correct. Backshifted from 'are' to 'were' in reported speech. -->
 - [ ] C) have become <!-- feedback: Incorrect. Present perfect. -->
 - [ ] D) will become <!-- feedback: Incorrect. Future. -->
 

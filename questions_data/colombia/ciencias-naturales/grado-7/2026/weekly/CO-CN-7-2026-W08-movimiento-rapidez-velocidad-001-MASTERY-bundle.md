@@ -30,11 +30,11 @@ Este bundle de dominio desarrolla los conceptos de posición, desplazamiento, ra
 ### Enunciado
 ¿Qué diferencia existe entre la posición y el desplazamiento de la patineta en la ciclovía?
 ### Opciones
-- [x] A) La posición indica el lugar respecto a un punto de referencia y el desplazamiento es el cambio entre la posición final y la inicial.
+- [x] C) La posición indica el lugar respecto a un punto de referencia y el desplazamiento es el cambio entre la posición final y la inicial.
   <!-- feedback: Correcta, porque define posición como ubicación y desplazamiento como cambio de posición. -->
-- [ ] B) La posición es la velocidad de la patineta y el desplazamiento es el tiempo que tarda.
+- [ ] A) La posición es la velocidad de la patineta y el desplazamiento es el tiempo que tarda.
   <!-- feedback: Incorrecta, porque velocidad y tiempo son magnitudes distintas de la posición y el desplazamiento. -->
-- [ ] C) La posición es la distancia total recorrida y el desplazamiento es la rapidez del recorrido.
+- [ ] B) La posición es la distancia total recorrida y el desplazamiento es la rapidez del recorrido.
   <!-- feedback: Incorrecta, porque confunde distancia recorrida con ubicación y rapidez con cambio de posición. -->
 - [ ] D) La posición y el desplazamiento son exactamente lo mismo sin ninguna diferencia.
   <!-- feedback: Incorrecta, porque la posición es un punto y el desplazamiento es el cambio entre dos puntos. -->
@@ -52,11 +52,11 @@ La posición describe dónde está un objeto frente a un origen, mientras el des
 ### Opciones
 - [ ] A) Porque la rapidez depende solo del color del bus y no del tiempo.
   <!-- feedback: Incorrecta, porque el color no influye en la rapidez física del movimiento. -->
-- [x] B) Porque la rapidez media divide la distancia entre el tiempo empleado, y al variar el tiempo cambia el resultado.
+- [x] D) Porque la rapidez media divide la distancia entre el tiempo empleado, y al variar el tiempo cambia el resultado.
   <!-- feedback: Correcta, porque a igual distancia, mayor tiempo implica menor rapidez media. -->
-- [ ] C) Porque la rapidez se mide solo en kilómetros sin considerar el tiempo.
+- [ ] B) Porque la rapidez se mide solo en kilómetros sin considerar el tiempo.
   <!-- feedback: Incorrecta, porque la rapidez siempre relaciona distancia con tiempo. -->
-- [ ] D) Porque ambos buses tienen la misma rapidez por recorrer la misma ruta.
+- [ ] C) Porque ambos buses tienen la misma rapidez por recorrer la misma ruta.
   <!-- feedback: Incorrecta, porque ignorar el tiempo contradice la definición de rapidez media. -->
 ### Explicacion Pedagogica
 La rapidez media es distancia total sobre tiempo total. Si la distancia es igual pero el tiempo cambia por paradas, la rapidez media cambia. Esto explica por qué el transporte urbano con muchas paradas es más lento aunque cubra el mismo trayecto.
@@ -70,9 +70,9 @@ La rapidez media es distancia total sobre tiempo total. Si la distancia es igual
 ### Enunciado
 ¿Cuál es la rapidez media y la velocidad media de la ciclista en ese recorrido?
 ### Opciones
-- [ ] A) Rapidez 1 metro por segundo y velocidad 0 metros por segundo hacia el norte.
+- [ ] B) Rapidez 1 metro por segundo y velocidad 0 metros por segundo hacia el norte.
   <!-- feedback: Incorrecta, porque en un trayecto recto sin retorno el desplazamiento equals la distancia y la velocidad no es cero. -->
-- [x] B) Rapidez 10 metros por segundo y velocidad 10 metros por segundo hacia el norte.
+- [x] A) Rapidez 10 metros por segundo y velocidad 10 metros por segundo hacia el norte.
   <!-- feedback: Correcta, porque 6000 dividido entre 600 equals 10, y al ser recto coinciden rapidez y magnitud de velocidad con dirección norte. -->
 - [ ] C) Rapidez 600 metros por segundo y velocidad 600 metros por segundo hacia el sur.
   <!-- feedback: Incorrecta, porque divide de forma errada y la dirección es hacia el norte, no hacia el sur. -->
@@ -92,11 +92,11 @@ La rapidez media usa distancia total y la velocidad media usa desplazamiento con
 ### Opciones
 - [ ] A) Distancia 600 metros y desplazamiento 1000 metros hacia el norte.
   <!-- feedback: Incorrecta, porque invierte los valores: la distancia suma todo lo recorrido y el desplazamiento resta por dirección. -->
-- [x] B) Distancia 1000 metros y desplazamiento 600 metros hacia el norte.
+- [x] D) Distancia 1000 metros y desplazamiento 600 metros hacia el norte.
   <!-- feedback: Correcta, porque distancia equals 800 más 200, y desplazamiento equals 800 menos 200 hacia el norte. -->
-- [ ] C) Distancia 800 metros y desplazamiento 200 metros hacia el sur.
+- [ ] B) Distancia 800 metros y desplazamiento 200 metros hacia el sur.
   <!-- feedback: Incorrecta, porque olvida sumar el tramo de regreso en la distancia y calcula mal la dirección neta. -->
-- [ ] D) Distancia 100 metros y desplazamiento 1000 metros hacia el sur.
+- [ ] C) Distancia 100 metros y desplazamiento 1000 metros hacia el sur.
   <!-- feedback: Incorrecta, porque ningún cálculo corresponde a la suma de tramos ni a la diferencia con dirección. -->
 ### Explicacion Pedagogica
 La distancia acumula todo lo recorrido sin importar la dirección, mientras el desplazamiento resta los tramos opuestos. Este caso de TransMilenio muestra por qué rapidez y velocidad pueden diferir cuando hay cambios de sentido.
@@ -110,9 +110,9 @@ La distancia acumula todo lo recorrido sin importar la dirección, mientras el d
 ### Enunciado
 ¿Cuál es la aceleración media del ciclista durante el embalaje?
 ### Opciones
-- [ ] A) 3 metros por segundo al cuadrado, porque se divide mal el tiempo entre la velocidad final.
+- [ ] B) 3 metros por segundo al cuadrado, porque se divide mal el tiempo entre la velocidad final.
   <!-- feedback: Incorrecta, porque la aceleración requiere el cambio de velocidad entre el tiempo, no el tiempo entre la velocidad. -->
-- [x] B) 2 metros por segundo al cuadrado, porque 6 metros por segundo divididos entre 3 segundos dan ese valor.
+- [x] A) 2 metros por segundo al cuadrado, porque 6 metros por segundo divididos entre 3 segundos dan ese valor.
   <!-- feedback: Correcta, porque la aceleración equals cambio de velocidad sobre tiempo: 11 menos 5 equals 6, entre 3 equals 2. -->
 - [ ] C) 14 metros por segundo al cuadrado, porque se suman velocidad y tiempo sin restar.
   <!-- feedback: Incorrecta, porque la aceleración requiere el cambio de velocidad, no la suma de velocidad y tiempo. -->
@@ -132,11 +132,11 @@ Si la tabla muestra que el patinador avanza 15 metros en cada intervalo de 10 se
 ### Opciones
 - [ ] A) El movimiento es acelerado, porque recorre distancias iguales en tiempos iguales.
   <!-- feedback: Incorrecta, porque distancias iguales en tiempos iguales indican velocidad constante, no aceleración. -->
-- [x] B) El movimiento es rectilíneo uniforme, porque la velocidad se mantiene constante en 1.5 metros por segundo.
+- [x] D) El movimiento es rectilíneo uniforme, porque la velocidad se mantiene constante en 1.5 metros por segundo.
   <!-- feedback: Correcta, porque 15 metros entre 10 segundos equals 1.5 constante, propio del movimiento uniforme. -->
-- [ ] C) El patinador está en reposo, porque su posición cambia con el tiempo.
+- [ ] B) El patinador está en reposo, porque su posición cambia con el tiempo.
   <!-- feedback: Incorrecta, porque si la posición cambia hay movimiento, no reposo. -->
-- [ ] D) La rapidez es cero, porque el intervalo de tiempo es de 10 segundos.
+- [ ] C) La rapidez es cero, porque el intervalo de tiempo es de 10 segundos.
   <!-- feedback: Incorrecta, porque la rapidez se calcula con distancia y tiempo, y aquí la distancia no es cero. -->
 ### Explicacion Pedagogica
 Analizar una tabla de posición contra tiempo permite identificar patrones: si el cociente distancia entre tiempo es constante, el movimiento es uniforme. Graficarlo da una línea recta, herramienta central en física de grado séptimo.
@@ -190,9 +190,9 @@ La caída libre es un movimiento con aceleración constante debida a la gravedad
 ### Enunciado
 ¿Qué evaluación con argumentos de rapidez, velocidad y aceleración justifica mejor la decisión?
 ### Opciones
-- [ ] A) Solo poner la señal, porque la rapidez no influye en la distancia de frenado ni en la gravedad de un choque.
+- [ ] B) Solo poner la señal, porque la rapidez no influye en la distancia de frenado ni en la gravedad de un choque.
   <!-- feedback: Incorrecta, porque a mayor rapidez la distancia de frenado y la energía del impacto aumentan notablemente. -->
-- [x] B) Instalar reductores, porque obligan a disminuir la rapidez y permiten frenar en menor distancia con desaceleración controlada.
+- [x] A) Instalar reductores, porque obligan a disminuir la rapidez y permiten frenar en menor distancia con desaceleración controlada.
   <!-- feedback: Correcta, porque evalúa evidencia física: menor velocidad implica menor distancia y menor riesgo para peatones. -->
 - [ ] C) Eliminar los frenos de los carros, porque así no hay aceleraciones negativas peligrosas.
   <!-- feedback: Incorrecta, porque sin frenos no hay control del movimiento y el riesgo aumenta gravemente. -->
@@ -212,11 +212,11 @@ Como veedor del curso escolar, ¿qué juicio físico sustenta rechazar esa ense�
 ### Opciones
 - [ ] A) Aceptar la promesa, porque al girar con igual rapidez la velocidad no cambia y no hay riesgo.
   <!-- feedback: Incorrecta, porque al girar cambia la dirección de la velocidad y se requiere fricción que puede superarse en bajada. -->
-- [x] B) Rechazarla, porque girar implica aceleración centrípeta que exige fricción, y a alta rapidez en bajada el carro puede derrapar.
+- [x] D) Rechazarla, porque girar implica aceleración centrípeta que exige fricción, y a alta rapidez en bajada el carro puede derrapar.
   <!-- feedback: Correcta, porque aplica correctamente el carácter vectorial de la velocidad y los límites de adherencia. -->
-- [ ] C) Aceptarla, porque la gravedad en bajada elimina toda aceleración del carro.
+- [ ] B) Aceptarla, porque la gravedad en bajada elimina toda aceleración del carro.
   <!-- feedback: Incorrecta, porque en bajada la gravedad aumenta la rapidez y se necesita frenar, no acelerar más. -->
-- [ ] D) Rechazarla, porque ningún carro en Manizales puede moverse por las pendientes de la ciudad.
+- [ ] C) Rechazarla, porque ningún carro en Manizales puede moverse por las pendientes de la ciudad.
   <!-- feedback: Incorrecta, porque los carros sí se mueven en pendientes; el problema es la maniobra insegura a alta rapidez, no la imposibilidad de moverse. -->
 ### Explicacion Pedagogica
 En una curva la dirección cambia y aparece aceleración hacia el centro que depende de la rapidez al cuadrado. A alta rapidez se necesita más fricción de la disponible y ocurre el derrape, por eso la propuesta del curso es físicamente insegura y debe rechazarse.

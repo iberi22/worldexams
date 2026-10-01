@@ -57,10 +57,10 @@ Toda la energía potencial gravitatoria inicial $E_p = m \cdot g \cdot h = 2 \cd
 Un cuerpo de masa $m = 4\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 10\text{ m}$ ($g = 9,8\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?
 
 ### Opciones
-- [x] A) Energía cinética = $392,0\text{ J}$ <!-- feedback: Correcto. $E_c = E_p = m \cdot g \cdot h = 4 \cdot 9,8 \cdot 10 = 392,0\text{ J}$. -->
-- [ ] B) Energía cinética = $40,0\text{ J}$ <!-- feedback: Incorrecto. Omitió la aceleración de la gravedad $g$. -->
-- [ ] C) Energía cinética = $196,0\text{ J}$ <!-- feedback: Incorrecto. Dividió la energía total por dos. -->
-- [ ] D) Energía cinética = $784,0\text{ J}$ <!-- feedback: Incorrecto. Duplicó erróneamente la energía mecánica. -->
+- [x] D) Energía cinética = $392,0\text{ J}$ <!-- feedback: Correcto. $E_c = E_p = m \cdot g \cdot h = 4 \cdot 9,8 \cdot 10 = 392,0\text{ J}$. -->
+- [ ] A) Energía cinética = $40,0\text{ J}$ <!-- feedback: Incorrecto. Omitió la aceleración de la gravedad $g$. -->
+- [ ] B) Energía cinética = $196,0\text{ J}$ <!-- feedback: Incorrecto. Dividió la energía total por dos. -->
+- [ ] C) Energía cinética = $784,0\text{ J}$ <!-- feedback: Incorrecto. Duplicó erróneamente la energía mecánica. -->
 
 ### Explicacion Pedagogica
 Toda la energía potencial gravitatoria inicial $E_p = m \cdot g \cdot h = 4 \cdot 9,8 \cdot 10 = 392,0\text{ J}$ se convierte en energía cinética en la base.
@@ -78,8 +78,8 @@ Toda la energía potencial gravitatoria inicial $E_p = m \cdot g \cdot h = 4 \cd
 Un cuerpo de masa $m = 6\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 15\text{ m}$ ($g = 9,8\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?
 
 ### Opciones
-- [x] A) Energía cinética = $882,0\text{ J}$ <!-- feedback: Correcto. $E_c = E_p = m \cdot g \cdot h = 6 \cdot 9,8 \cdot 15 = 882,0\text{ J}$. -->
-- [ ] B) Energía cinética = $90,0\text{ J}$ <!-- feedback: Incorrecto. Omitió la aceleración de la gravedad $g$. -->
+- [x] B) Energía cinética = $882,0\text{ J}$ <!-- feedback: Correcto. $E_c = E_p = m \cdot g \cdot h = 6 \cdot 9,8 \cdot 15 = 882,0\text{ J}$. -->
+- [ ] A) Energía cinética = $90,0\text{ J}$ <!-- feedback: Incorrecto. Omitió la aceleración de la gravedad $g$. -->
 - [ ] C) Energía cinética = $441,0\text{ J}$ <!-- feedback: Incorrecto. Dividió la energía total por dos. -->
 - [ ] D) Energía cinética = $1764,0\text{ J}$ <!-- feedback: Incorrecto. Duplicó erróneamente la energía mecánica. -->
 
@@ -99,10 +99,10 @@ Toda la energía potencial gravitatoria inicial $E_p = m \cdot g \cdot h = 6 \cd
 Un cuerpo de masa $m = 8\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 20\text{ m}$ ($g = 9,8\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?
 
 ### Opciones
-- [x] A) Energía cinética = $1568,0\text{ J}$ <!-- feedback: Correcto. $E_c = E_p = m \cdot g \cdot h = 8 \cdot 9,8 \cdot 20 = 1568,0\text{ J}$. -->
-- [ ] B) Energía cinética = $160,0\text{ J}$ <!-- feedback: Incorrecto. Omitió la aceleración de la gravedad $g$. -->
-- [ ] C) Energía cinética = $784,0\text{ J}$ <!-- feedback: Incorrecto. Dividió la energía total por dos. -->
-- [ ] D) Energía cinética = $3136,0\text{ J}$ <!-- feedback: Incorrecto. Duplicó erróneamente la energía mecánica. -->
+- [x] D) Energía cinética = $1568,0\text{ J}$ <!-- feedback: Correcto. $E_c = E_p = m \cdot g \cdot h = 8 \cdot 9,8 \cdot 20 = 1568,0\text{ J}$. -->
+- [ ] A) Energía cinética = $160,0\text{ J}$ <!-- feedback: Incorrecto. Omitió la aceleración de la gravedad $g$. -->
+- [ ] B) Energía cinética = $784,0\text{ J}$ <!-- feedback: Incorrecto. Dividió la energía total por dos. -->
+- [ ] C) Energía cinética = $3136,0\text{ J}$ <!-- feedback: Incorrecto. Duplicó erróneamente la energía mecánica. -->
 
 ### Explicacion Pedagogica
 Toda la energía potencial gravitatoria inicial $E_p = m \cdot g \cdot h = 8 \cdot 9,8 \cdot 20 = 1568,0\text{ J}$ se convierte en energía cinética en la base.
@@ -120,10 +120,10 @@ Toda la energía potencial gravitatoria inicial $E_p = m \cdot g \cdot h = 8 \cd
 Un cuerpo de masa $m = 10\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 25\text{ m}$ ($g = 9,8\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?
 
 ### Opciones
-- [x] A) Energía cinética = $2450,0\text{ J}$ <!-- feedback: Correcto. $E_c = E_p = m \cdot g \cdot h = 10 \cdot 9,8 \cdot 25 = 2450,0\text{ J}$. -->
-- [ ] B) Energía cinética = $250,0\text{ J}$ <!-- feedback: Incorrecto. Omitió la aceleración de la gravedad $g$. -->
-- [ ] C) Energía cinética = $1225,0\text{ J}$ <!-- feedback: Incorrecto. Dividió la energía total por dos. -->
-- [ ] D) Energía cinética = $4900,0\text{ J}$ <!-- feedback: Incorrecto. Duplicó erróneamente la energía mecánica. -->
+- [x] D) Energía cinética = $2450,0\text{ J}$ <!-- feedback: Correcto. $E_c = E_p = m \cdot g \cdot h = 10 \cdot 9,8 \cdot 25 = 2450,0\text{ J}$. -->
+- [ ] A) Energía cinética = $250,0\text{ J}$ <!-- feedback: Incorrecto. Omitió la aceleración de la gravedad $g$. -->
+- [ ] B) Energía cinética = $1225,0\text{ J}$ <!-- feedback: Incorrecto. Dividió la energía total por dos. -->
+- [ ] C) Energía cinética = $4900,0\text{ J}$ <!-- feedback: Incorrecto. Duplicó erróneamente la energía mecánica. -->
 
 ### Explicacion Pedagogica
 Toda la energía potencial gravitatoria inicial $E_p = m \cdot g \cdot h = 10 \cdot 9,8 \cdot 25 = 2450,0\text{ J}$ se convierte en energía cinética en la base.
@@ -141,8 +141,8 @@ Toda la energía potencial gravitatoria inicial $E_p = m \cdot g \cdot h = 10 \c
 Un cuerpo de masa $m = 12\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 30\text{ m}$ ($g = 9,8\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?
 
 ### Opciones
-- [x] A) Energía cinética = $3528,0\text{ J}$ <!-- feedback: Correcto. $E_c = E_p = m \cdot g \cdot h = 12 \cdot 9,8 \cdot 30 = 3528,0\text{ J}$. -->
-- [ ] B) Energía cinética = $360,0\text{ J}$ <!-- feedback: Incorrecto. Omitió la aceleración de la gravedad $g$. -->
+- [x] B) Energía cinética = $3528,0\text{ J}$ <!-- feedback: Correcto. $E_c = E_p = m \cdot g \cdot h = 12 \cdot 9,8 \cdot 30 = 3528,0\text{ J}$. -->
+- [ ] A) Energía cinética = $360,0\text{ J}$ <!-- feedback: Incorrecto. Omitió la aceleración de la gravedad $g$. -->
 - [ ] C) Energía cinética = $1764,0\text{ J}$ <!-- feedback: Incorrecto. Dividió la energía total por dos. -->
 - [ ] D) Energía cinética = $7056,0\text{ J}$ <!-- feedback: Incorrecto. Duplicó erróneamente la energía mecánica. -->
 
@@ -183,10 +183,10 @@ Toda la energía potencial gravitatoria inicial $E_p = m \cdot g \cdot h = 14 \c
 Un cuerpo de masa $m = 16\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 40\text{ m}$ ($g = 9,8\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?
 
 ### Opciones
-- [x] A) Energía cinética = $6272,0\text{ J}$ <!-- feedback: Correcto. $E_c = E_p = m \cdot g \cdot h = 16 \cdot 9,8 \cdot 40 = 6272,0\text{ J}$. -->
-- [ ] B) Energía cinética = $640,0\text{ J}$ <!-- feedback: Incorrecto. Omitió la aceleración de la gravedad $g$. -->
-- [ ] C) Energía cinética = $3136,0\text{ J}$ <!-- feedback: Incorrecto. Dividió la energía total por dos. -->
-- [ ] D) Energía cinética = $12544,0\text{ J}$ <!-- feedback: Incorrecto. Duplicó erróneamente la energía mecánica. -->
+- [x] D) Energía cinética = $6272,0\text{ J}$ <!-- feedback: Correcto. $E_c = E_p = m \cdot g \cdot h = 16 \cdot 9,8 \cdot 40 = 6272,0\text{ J}$. -->
+- [ ] A) Energía cinética = $640,0\text{ J}$ <!-- feedback: Incorrecto. Omitió la aceleración de la gravedad $g$. -->
+- [ ] B) Energía cinética = $3136,0\text{ J}$ <!-- feedback: Incorrecto. Dividió la energía total por dos. -->
+- [ ] C) Energía cinética = $12544,0\text{ J}$ <!-- feedback: Incorrecto. Duplicó erróneamente la energía mecánica. -->
 
 ### Explicacion Pedagogica
 Toda la energía potencial gravitatoria inicial $E_p = m \cdot g \cdot h = 16 \cdot 9,8 \cdot 40 = 6272,0\text{ J}$ se convierte en energía cinética en la base.
@@ -246,9 +246,9 @@ Toda la energía potencial gravitatoria inicial $E_p = m \cdot g \cdot h = 20 \c
 Un cuerpo de masa $m = 22\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 55\text{ m}$ ($g = 9,8\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?
 
 ### Opciones
-- [x] A) Energía cinética = $11858,0\text{ J}$ <!-- feedback: Correcto. $E_c = E_p = m \cdot g \cdot h = 22 \cdot 9,8 \cdot 55 = 11858,0\text{ J}$. -->
-- [ ] B) Energía cinética = $1210,0\text{ J}$ <!-- feedback: Incorrecto. Omitió la aceleración de la gravedad $g$. -->
-- [ ] C) Energía cinética = $5929,0\text{ J}$ <!-- feedback: Incorrecto. Dividió la energía total por dos. -->
+- [x] C) Energía cinética = $11858,0\text{ J}$ <!-- feedback: Correcto. $E_c = E_p = m \cdot g \cdot h = 22 \cdot 9,8 \cdot 55 = 11858,0\text{ J}$. -->
+- [ ] A) Energía cinética = $1210,0\text{ J}$ <!-- feedback: Incorrecto. Omitió la aceleración de la gravedad $g$. -->
+- [ ] B) Energía cinética = $5929,0\text{ J}$ <!-- feedback: Incorrecto. Dividió la energía total por dos. -->
 - [ ] D) Energía cinética = $23716,0\text{ J}$ <!-- feedback: Incorrecto. Duplicó erróneamente la energía mecánica. -->
 
 ### Explicacion Pedagogica
@@ -267,9 +267,9 @@ Toda la energía potencial gravitatoria inicial $E_p = m \cdot g \cdot h = 22 \c
 Un cuerpo de masa $m = 24\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 60\text{ m}$ ($g = 9,8\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?
 
 ### Opciones
-- [x] A) Energía cinética = $14112,0\text{ J}$ <!-- feedback: Correcto. $E_c = E_p = m \cdot g \cdot h = 24 \cdot 9,8 \cdot 60 = 14112,0\text{ J}$. -->
-- [ ] B) Energía cinética = $1440,0\text{ J}$ <!-- feedback: Incorrecto. Omitió la aceleración de la gravedad $g$. -->
-- [ ] C) Energía cinética = $7056,0\text{ J}$ <!-- feedback: Incorrecto. Dividió la energía total por dos. -->
+- [x] C) Energía cinética = $14112,0\text{ J}$ <!-- feedback: Correcto. $E_c = E_p = m \cdot g \cdot h = 24 \cdot 9,8 \cdot 60 = 14112,0\text{ J}$. -->
+- [ ] A) Energía cinética = $1440,0\text{ J}$ <!-- feedback: Incorrecto. Omitió la aceleración de la gravedad $g$. -->
+- [ ] B) Energía cinética = $7056,0\text{ J}$ <!-- feedback: Incorrecto. Dividió la energía total por dos. -->
 - [ ] D) Energía cinética = $28224,0\text{ J}$ <!-- feedback: Incorrecto. Duplicó erróneamente la energía mecánica. -->
 
 ### Explicacion Pedagogica
@@ -351,9 +351,9 @@ Toda la energía potencial gravitatoria inicial $E_p = m \cdot g \cdot h = 30 \c
 Un cuerpo de masa $m = 32\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 80\text{ m}$ ($g = 9,8\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?
 
 ### Opciones
-- [x] A) Energía cinética = $25088,0\text{ J}$ <!-- feedback: Correcto. $E_c = E_p = m \cdot g \cdot h = 32 \cdot 9,8 \cdot 80 = 25088,0\text{ J}$. -->
-- [ ] B) Energía cinética = $2560,0\text{ J}$ <!-- feedback: Incorrecto. Omitió la aceleración de la gravedad $g$. -->
-- [ ] C) Energía cinética = $12544,0\text{ J}$ <!-- feedback: Incorrecto. Dividió la energía total por dos. -->
+- [x] C) Energía cinética = $25088,0\text{ J}$ <!-- feedback: Correcto. $E_c = E_p = m \cdot g \cdot h = 32 \cdot 9,8 \cdot 80 = 25088,0\text{ J}$. -->
+- [ ] A) Energía cinética = $2560,0\text{ J}$ <!-- feedback: Incorrecto. Omitió la aceleración de la gravedad $g$. -->
+- [ ] B) Energía cinética = $12544,0\text{ J}$ <!-- feedback: Incorrecto. Dividió la energía total por dos. -->
 - [ ] D) Energía cinética = $50176,0\text{ J}$ <!-- feedback: Incorrecto. Duplicó erróneamente la energía mecánica. -->
 
 ### Explicacion Pedagogica
@@ -372,8 +372,8 @@ Toda la energía potencial gravitatoria inicial $E_p = m \cdot g \cdot h = 32 \c
 Un cuerpo de masa $m = 34\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 85\text{ m}$ ($g = 9,8\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?
 
 ### Opciones
-- [x] A) Energía cinética = $28322,0\text{ J}$ <!-- feedback: Correcto. $E_c = E_p = m \cdot g \cdot h = 34 \cdot 9,8 \cdot 85 = 28322,0\text{ J}$. -->
-- [ ] B) Energía cinética = $2890,0\text{ J}$ <!-- feedback: Incorrecto. Omitió la aceleración de la gravedad $g$. -->
+- [x] B) Energía cinética = $28322,0\text{ J}$ <!-- feedback: Correcto. $E_c = E_p = m \cdot g \cdot h = 34 \cdot 9,8 \cdot 85 = 28322,0\text{ J}$. -->
+- [ ] A) Energía cinética = $2890,0\text{ J}$ <!-- feedback: Incorrecto. Omitió la aceleración de la gravedad $g$. -->
 - [ ] C) Energía cinética = $14161,0\text{ J}$ <!-- feedback: Incorrecto. Dividió la energía total por dos. -->
 - [ ] D) Energía cinética = $56644,0\text{ J}$ <!-- feedback: Incorrecto. Duplicó erróneamente la energía mecánica. -->
 
@@ -393,8 +393,8 @@ Toda la energía potencial gravitatoria inicial $E_p = m \cdot g \cdot h = 34 \c
 Un cuerpo de masa $m = 36\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 90\text{ m}$ ($g = 9,8\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?
 
 ### Opciones
-- [x] A) Energía cinética = $31752,0\text{ J}$ <!-- feedback: Correcto. $E_c = E_p = m \cdot g \cdot h = 36 \cdot 9,8 \cdot 90 = 31752,0\text{ J}$. -->
-- [ ] B) Energía cinética = $3240,0\text{ J}$ <!-- feedback: Incorrecto. Omitió la aceleración de la gravedad $g$. -->
+- [x] B) Energía cinética = $31752,0\text{ J}$ <!-- feedback: Correcto. $E_c = E_p = m \cdot g \cdot h = 36 \cdot 9,8 \cdot 90 = 31752,0\text{ J}$. -->
+- [ ] A) Energía cinética = $3240,0\text{ J}$ <!-- feedback: Incorrecto. Omitió la aceleración de la gravedad $g$. -->
 - [ ] C) Energía cinética = $15876,0\text{ J}$ <!-- feedback: Incorrecto. Dividió la energía total por dos. -->
 - [ ] D) Energía cinética = $63504,0\text{ J}$ <!-- feedback: Incorrecto. Duplicó erróneamente la energía mecánica. -->
 
@@ -414,8 +414,8 @@ Toda la energía potencial gravitatoria inicial $E_p = m \cdot g \cdot h = 36 \c
 Un cuerpo de masa $m = 38\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 95\text{ m}$ ($g = 9,8\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?
 
 ### Opciones
-- [x] A) Energía cinética = $35378,0\text{ J}$ <!-- feedback: Correcto. $E_c = E_p = m \cdot g \cdot h = 38 \cdot 9,8 \cdot 95 = 35378,0\text{ J}$. -->
-- [ ] B) Energía cinética = $3610,0\text{ J}$ <!-- feedback: Incorrecto. Omitió la aceleración de la gravedad $g$. -->
+- [x] B) Energía cinética = $35378,0\text{ J}$ <!-- feedback: Correcto. $E_c = E_p = m \cdot g \cdot h = 38 \cdot 9,8 \cdot 95 = 35378,0\text{ J}$. -->
+- [ ] A) Energía cinética = $3610,0\text{ J}$ <!-- feedback: Incorrecto. Omitió la aceleración de la gravedad $g$. -->
 - [ ] C) Energía cinética = $17689,0\text{ J}$ <!-- feedback: Incorrecto. Dividió la energía total por dos. -->
 - [ ] D) Energía cinética = $70756,0\text{ J}$ <!-- feedback: Incorrecto. Duplicó erróneamente la energía mecánica. -->
 
@@ -435,8 +435,8 @@ Toda la energía potencial gravitatoria inicial $E_p = m \cdot g \cdot h = 38 \c
 Un cuerpo de masa $m = 40\text{ kg}$ se suelta sin velocidad inicial desde una altura $h = 100\text{ m}$ ($g = 9,8\text{ m/s}^2$). Sin fricción, ¿cuál es su energía cinética al llegar al suelo?
 
 ### Opciones
-- [x] A) Energía cinética = $39200,0\text{ J}$ <!-- feedback: Correcto. $E_c = E_p = m \cdot g \cdot h = 40 \cdot 9,8 \cdot 100 = 39200,0\text{ J}$. -->
-- [ ] B) Energía cinética = $4000,0\text{ J}$ <!-- feedback: Incorrecto. Omitió la aceleración de la gravedad $g$. -->
+- [x] B) Energía cinética = $39200,0\text{ J}$ <!-- feedback: Correcto. $E_c = E_p = m \cdot g \cdot h = 40 \cdot 9,8 \cdot 100 = 39200,0\text{ J}$. -->
+- [ ] A) Energía cinética = $4000,0\text{ J}$ <!-- feedback: Incorrecto. Omitió la aceleración de la gravedad $g$. -->
 - [ ] C) Energía cinética = $19600,0\text{ J}$ <!-- feedback: Incorrecto. Dividió la energía total por dos. -->
 - [ ] D) Energía cinética = $78400,0\text{ J}$ <!-- feedback: Incorrecto. Duplicó erróneamente la energía mecánica. -->
 

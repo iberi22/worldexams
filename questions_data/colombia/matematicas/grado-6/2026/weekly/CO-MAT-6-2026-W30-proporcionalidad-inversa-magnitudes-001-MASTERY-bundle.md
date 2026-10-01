@@ -29,13 +29,13 @@ Este bundle trabaja la relación de proporcionalidad inversa entre magnitudes co
 ### Enunciado
 ¿Qué tipo de relación existe entre el número de obreros y el tiempo de trabajo?
 ### Opciones
-- [x] A) Proporcionalidad inversa
+- [x] D) Proporcionalidad inversa
   <!-- feedback: Es correcto: al aumentar una magnitud, la otra disminuye de forma proporcional. -->
-- [ ] B) Proporcionalidad directa
+- [ ] A) Proporcionalidad directa
   <!-- feedback: Error conceptual: en la directa ambas magnitudes crecen juntas, y aquí una baja. -->
-- [ ] C) No hay relación entre ellas
+- [ ] B) No hay relación entre ellas
   <!-- feedback: Error conceptual: sí existe relación; lo que cambia es su sentido inverso. -->
-- [ ] D) Suma constante
+- [ ] C) Suma constante
   <!-- feedback: Error conceptual: la relación no se describe sumando las magnitudes. -->
 ### Explicacion Pedagogica
 Dos magnitudes son inversamente proporcionales cuando al multiplicar una por cierto factor, la otra se divide por ese factor. Más obreros implican menos tiempo, así que la relación es inversa.
@@ -48,11 +48,11 @@ Dos magnitudes son inversamente proporcionales cuando al multiplicar una por cie
 ### Enunciado
 Si aumenta la velocidad del carro, ¿qué ocurre con el tiempo del recorrido?
 ### Opciones
-- [x] A) Disminuye, porque la relación es inversa
+- [x] C) Disminuye, porque la relación es inversa
   <!-- feedback: Es correcto: a mayor velocidad, menor tiempo para la misma distancia. -->
-- [ ] B) Aumenta, porque es una relación directa
+- [ ] A) Aumenta, porque es una relación directa
   <!-- feedback: Error conceptual: velocidad y tiempo no crecen juntas; una sube y la otra baja. -->
-- [ ] C) Se mantiene igual
+- [ ] B) Se mantiene igual
   <!-- feedback: Error conceptual: al cambiar la velocidad el tiempo también cambia. -->
 - [ ] D) Se duplica siempre
   <!-- feedback: Error conceptual: el tiempo no se duplica de forma fija; depende de la velocidad. -->
@@ -67,11 +67,11 @@ Para una distancia fija, velocidad y tiempo son inversamente proporcionales: el 
 ### Enunciado
 ¿En cuántos días construirían el mismo muro 12 obreros?
 ### Opciones
-- [x] A) 4 días
+- [x] C) 4 días
   <!-- feedback: Es correcto: 6 × 8 = 48 y 48 ÷ 12 = 4 días. -->
-- [ ] B) 16 días
+- [ ] A) 16 días
   <!-- feedback: Error conceptual: 16 días duplica el tiempo como si la relación fuera directa. -->
-- [ ] C) 8 días
+- [ ] B) 8 días
   <!-- feedback: Error conceptual: el tiempo cambia al variar el número de obreros. -->
 - [ ] D) 2 días
   <!-- feedback: Error conceptual: 2 días reduciría el tiempo a la cuarta parte, no a la mitad. -->
@@ -86,11 +86,11 @@ En la proporcionalidad inversa el producto es constante: obreros × días = 48. 
 ### Enunciado
 ¿Cuánto tardan en llenar el mismo tanque 4 grifos iguales?
 ### Opciones
-- [x] A) 9 horas
+- [x] C) 9 horas
   <!-- feedback: Es correcto: 3 × 12 = 36 y 36 ÷ 4 = 9 horas. -->
-- [ ] B) 16 horas
+- [ ] A) 16 horas
   <!-- feedback: Error conceptual: 16 horas aumenta el tiempo como si fuera proporción directa. -->
-- [ ] C) 6 horas
+- [ ] B) 6 horas
   <!-- feedback: Error conceptual: 6 horas implicaría duplicar los grifos, no pasar de 3 a 4. -->
 - [ ] D) 36 horas
   <!-- feedback: Error conceptual: 36 es el producto constante, no el tiempo con 4 grifos. -->
@@ -105,13 +105,13 @@ Caudal y tiempo son inversamente proporcionales: 3 × 12 = 36. Con 4 grifos, 36 
 ### Enunciado
 ¿Cuánto tardan 4 máquinas iguales en empacar el mismo pedido?
 ### Opciones
-- [x] A) 10 horas
+- [x] D) 10 horas
   <!-- feedback: Es correcto: 8 × 5 = 40 y 40 ÷ 4 = 10 horas. -->
-- [ ] B) 2.5 horas
+- [ ] A) 2.5 horas
   <!-- feedback: Error conceptual: 2.5 horas reduciría el tiempo a la mitad al reducir las máquinas. -->
-- [ ] C) 5 horas
+- [ ] B) 5 horas
   <!-- feedback: Error conceptual: con menos máquinas el tiempo debe aumentar, no quedarse igual. -->
-- [ ] D) 20 horas
+- [ ] C) 20 horas
   <!-- feedback: Error conceptual: 20 horas cuadruplica el tiempo, más de lo que corresponde. -->
 ### Explicacion Pedagogica
 Menos máquinas implican más tiempo: 8 × 5 = 40 y 40 ÷ 4 = 10 horas. La relación inversa garantiza que el producto permanezca constante.
@@ -124,9 +124,9 @@ Menos máquinas implican más tiempo: 8 × 5 = 40 y 40 ÷ 4 = 10 horas. La relac
 ### Enunciado
 ¿Cuántos trabajadores se necesitan para cumplir el nuevo plazo?
 ### Opciones
-- [x] A) 15 trabajadores
+- [x] B) 15 trabajadores
   <!-- feedback: Es correcto: 10 × 18 = 180 y 180 ÷ 12 = 15 trabajadores. -->
-- [ ] B) 12 trabajadores
+- [ ] A) 12 trabajadores
   <!-- feedback: Error conceptual: 12 igualaría trabajadores con días, sin respetar el producto constante. -->
 - [ ] C) 20 trabajadores
   <!-- feedback: Error conceptual: 20 sobrepasa la cantidad requerida para 12 días. -->
@@ -143,9 +143,9 @@ Se conserva el trabajo total: 10 × 18 = 180 jornadas. Para 12 días, 180 ÷ 12 
 ### Enunciado
 ¿Cuánto tarda a 60 km/h y qué constante se mantiene?
 ### Opciones
-- [x] A) 4 horas, manteniendo la distancia de 240 km
+- [x] B) 4 horas, manteniendo la distancia de 240 km
   <!-- feedback: Es correcto: 80 × 3 = 240 km y 240 ÷ 60 = 4 horas. -->
-- [ ] B) 2.25 horas, manteniendo la velocidad
+- [ ] A) 2.25 horas, manteniendo la velocidad
   <!-- feedback: Error conceptual: la velocidad cambia, por eso no puede mantenerse constante. -->
 - [ ] C) 4 horas, manteniendo el tiempo
   <!-- feedback: Error conceptual: el tiempo no se conserva; lo constante es la distancia. -->
@@ -162,13 +162,13 @@ La distancia recorrida es la constante: 80 × 3 = 240 km. Al reducir la velocida
 ### Enunciado
 ¿En cuánto tiempo llenan juntas el tanque?
 ### Opciones
-- [x] A) 2 horas
+- [x] D) 2 horas
   <!-- feedback: Es correcto: en una hora llenan 1/6 + 1/3 = 1/2 del tanque, así que tardan 2 horas. -->
-- [ ] B) 9 horas
+- [ ] A) 9 horas
   <!-- feedback: Error conceptual: 9 horas resulta de sumar los tiempos en vez de sumar los caudales. -->
-- [ ] C) 4.5 horas
+- [ ] B) 4.5 horas
   <!-- feedback: Error conceptual: 4.5 es el promedio de los tiempos y no el tiempo conjunto. -->
-- [ ] D) 1.5 horas
+- [ ] C) 1.5 horas
   <!-- feedback: Error conceptual: 1.5 horas supondría un caudal mayor que el real. -->
 ### Explicacion Pedagogica
 Los caudales se suman: 1/6 + 1/3 = 1/2 del tanque por hora. Por eso juntas tardan 2 horas. Sumar tiempos es un error porque las llaves trabajan a la vez.
@@ -200,11 +200,11 @@ En la proporcionalidad inversa, si una magnitud se multiplica por k, la otra se 
 ### Enunciado
 ¿Cuál situación corresponde a proporcionalidad inversa y por qué?
 ### Opciones
-- [x] A) La segunda, porque al aumentar los obreros disminuye el tiempo
+- [x] C) La segunda, porque al aumentar los obreros disminuye el tiempo
   <!-- feedback: Es correcto: obreros y tiempo se comportan de forma inversamente proporcional. -->
-- [ ] B) La primera, porque más kilos de arroz cuestan más
+- [ ] A) La primera, porque más kilos de arroz cuestan más
   <!-- feedback: Error conceptual: kilos y precio crecen juntos, por eso es proporcionalidad directa. -->
-- [ ] C) Ambas, porque en las dos hay dos magnitudes
+- [ ] B) Ambas, porque en las dos hay dos magnitudes
   <!-- feedback: Error conceptual: tener dos magnitudes no implica que la relación sea inversa. -->
 - [ ] D) Ninguna, porque no hay proporción entre ellas
   <!-- feedback: Error conceptual: ambas presentan proporción; solo una es inversa. -->

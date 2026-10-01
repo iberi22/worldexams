@@ -29,13 +29,13 @@ Este bundle trabaja la identificación de cuadriláteros y el cálculo de área 
 ### Enunciado
 ¿Cuál de las siguientes figuras es un cuadrilátero?
 ### Opciones
-- [x] A) Cuadrado
+- [x] D) Cuadrado
   <!-- feedback: Es correcto: el cuadrado tiene cuatro lados y cuatro vértices, por eso es un cuadrilátero. -->
-- [ ] B) Triángulo
+- [ ] A) Triángulo
   <!-- feedback: Error conceptual: el triángulo tiene tres lados, no cuatro. -->
-- [ ] C) Círculo
+- [ ] B) Círculo
   <!-- feedback: Error conceptual: el círculo no tiene lados rectos ni vértices. -->
-- [ ] D) Pentágono
+- [ ] C) Pentágono
   <!-- feedback: Error conceptual: el pentágono tiene cinco lados, uno más de los que define un cuadrilátero. -->
 ### Explicacion Pedagogica
 Un cuadrilátero es un polígono de cuatro lados. El cuadrado, el rectángulo, el rombo, el trapecio y el paralelogramo pertenecen a esta familia.
@@ -48,13 +48,13 @@ Un cuadrilátero es un polígono de cuatro lados. El cuadrado, el rectángulo, e
 ### Enunciado
 ¿Cómo se calcula correctamente el perímetro de ese rectángulo?
 ### Opciones
-- [x] A) 2 × (8 + 5) = 26 cm
+- [x] D) 2 × (8 + 5) = 26 cm
   <!-- feedback: Es correcto: se suman largo y ancho y se multiplica por 2, porque hay dos de cada uno. -->
-- [ ] B) 8 × 5 = 40 cm
+- [ ] A) 8 × 5 = 40 cm
   <!-- feedback: Error conceptual: multiplicar largo por ancho calcula el área, no el perímetro. -->
-- [ ] C) 8 + 5 = 13 cm
+- [ ] B) 8 + 5 = 13 cm
   <!-- feedback: Error conceptual: 13 cm es solo medio perímetro; falta sumar los otros dos lados. -->
-- [ ] D) 4 × 8 = 32 cm
+- [ ] C) 4 × 8 = 32 cm
   <!-- feedback: Error conceptual: 4 × 8 trata la figura como un cuadrado e ignora el ancho. -->
 ### Explicacion Pedagogica
 El perímetro del rectángulo suma sus cuatro lados y, como los opuestos son iguales, se calcula con 2 × (largo + ancho). Aquí: 2 × (8 + 5) = 26 cm.
@@ -67,13 +67,13 @@ El perímetro del rectángulo suma sus cuatro lados y, como los opuestos son igu
 ### Enunciado
 ¿Cuál es el área del terreno?
 ### Opciones
-- [x] A) 84 m²
+- [x] D) 84 m²
   <!-- feedback: Es correcto: 12 m × 7 m = 84 m². -->
-- [ ] B) 38 m²
+- [ ] A) 38 m²
   <!-- feedback: Error conceptual: 38 m es el perímetro (2 × 19) y se confunde con el área. -->
-- [ ] C) 19 m²
+- [ ] B) 19 m²
   <!-- feedback: Error conceptual: 19 m es la suma de largo y ancho, no la superficie. -->
-- [ ] D) 144 m²
+- [ ] C) 144 m²
   <!-- feedback: Error conceptual: 144 m² eleva el largo al cuadrado y omite el ancho. -->
 ### Explicacion Pedagogica
 El área del rectángulo se obtiene multiplicando largo por ancho: 12 × 7 = 84 m². El resultado se expresa en unidades cuadradas porque mide superficie.
@@ -86,9 +86,9 @@ El área del rectángulo se obtiene multiplicando largo por ancho: 12 × 7 = 84 
 ### Enunciado
 ¿Cuál es el área del rombo?
 ### Opciones
-- [x] A) 30 cm²
+- [x] B) 30 cm²
   <!-- feedback: Es correcto: (10 × 6) ÷ 2 = 60 ÷ 2 = 30 cm². -->
-- [ ] B) 60 cm²
+- [ ] A) 60 cm²
   <!-- feedback: Error conceptual: 60 cm² multiplica las diagonales pero olvida dividir entre 2. -->
 - [ ] C) 16 cm²
   <!-- feedback: Error conceptual: 16 cm suma las diagonales y no corresponde al área. -->
@@ -124,9 +124,9 @@ En un cuadrado el perímetro es 4 veces el lado, así que el lado es perímetro 
 ### Enunciado
 ¿Cuál es el área del trapecio?
 ### Opciones
-- [x] A) 26 cm²
+- [x] B) 26 cm²
   <!-- feedback: Es correcto: (8 + 5) ÷ 2 × 4 = 6.5 × 4 = 26 cm². -->
-- [ ] B) 52 cm²
+- [ ] A) 52 cm²
   <!-- feedback: Error conceptual: 52 cm² omite dividir la suma de las bases entre 2. -->
 - [ ] C) 20 cm²
   <!-- feedback: Error conceptual: 20 cm² multiplica la base mayor por la altura e ignora la base menor. -->
@@ -143,13 +143,13 @@ El área del trapecio es el promedio de las bases por la altura: ((8 + 5) ÷ 2) 
 ### Enunciado
 ¿Cuál es su perímetro?
 ### Opciones
-- [x] A) 28 cm
+- [x] D) 28 cm
   <!-- feedback: Es correcto: el largo es 48 ÷ 6 = 8 cm y el perímetro es 2 × (8 + 6) = 28 cm. -->
-- [ ] B) 14 cm
+- [ ] A) 14 cm
   <!-- feedback: Error conceptual: 14 cm es solo la suma de largo y ancho, es decir, medio perímetro. -->
-- [ ] C) 56 cm
+- [ ] B) 56 cm
   <!-- feedback: Error conceptual: 56 cm duplica sin dividir entre 2 correctamente el valor del perímetro. -->
-- [ ] D) 22 cm
+- [ ] C) 22 cm
   <!-- feedback: Error conceptual: 22 cm usa un largo equivocado; el largo correcto es 8 cm. -->
 ### Explicacion Pedagogica
 Primero se recupera el largo con área ÷ ancho = 48 ÷ 6 = 8 cm y luego se calcula el perímetro: 2 × (8 + 6) = 28 cm. Se encadenan dos propiedades del rectángulo.
@@ -162,13 +162,13 @@ Primero se recupera el largo con área ÷ ancho = 48 ÷ 6 = 8 cm y luego se calc
 ### Enunciado
 ¿Cuál es el área correcta y por qué?
 ### Opciones
-- [x] A) 45 cm², porque se multiplica la base por la altura
+- [x] D) 45 cm², porque se multiplica la base por la altura
   <!-- feedback: Es correcto: el área del paralelogramo es base × altura = 9 × 5 = 45 cm². -->
-- [ ] B) 54 cm², porque se multiplica la base por el lado inclinado
+- [ ] A) 54 cm², porque se multiplica la base por el lado inclinado
   <!-- feedback: Error conceptual: el lado inclinado no es perpendicular a la base, así que no mide la altura. -->
-- [ ] C) 30 cm², porque se multiplica el lado inclinado por la altura
+- [ ] B) 30 cm², porque se multiplica el lado inclinado por la altura
   <!-- feedback: Error conceptual: 30 cm² combina el lado inclinado con la altura, medidas que no definen el área. -->
-- [ ] D) 27 cm², porque se multiplica la base por la mitad de la altura
+- [ ] C) 27 cm², porque se multiplica la base por la mitad de la altura
   <!-- feedback: Error conceptual: dividir la altura entre 2 no corresponde a la fórmula del paralelogramo. -->
 ### Explicacion Pedagogica
 El área del paralelogramo es base × altura, donde la altura es la distancia perpendicular entre las bases. El lado inclinado solo sirve para el perímetro, no para el área.
@@ -200,11 +200,11 @@ Perímetro y área miden cosas distintas y no se comparan directamente; sin emba
 ### Enunciado
 ¿Cuál terreno tiene mayor área y por cuánto?
 ### Opciones
-- [x] A) El cuadrado, con 4 m² más, porque 64 m² > 60 m²
+- [x] C) El cuadrado, con 4 m² más, porque 64 m² > 60 m²
   <!-- feedback: Es correcto: el cuadrado tiene 8 × 8 = 64 m² y el rectángulo 10 × 6 = 60 m². -->
-- [ ] B) El rectángulo, con 8 m² más, porque 10 + 6 > 8 + 8
+- [ ] A) El rectángulo, con 8 m² más, porque 10 + 6 > 8 + 8
   <!-- feedback: Error conceptual: se suman los lados (perímetro) en vez de multiplicarlos para el área. -->
-- [ ] C) Tienen la misma área
+- [ ] B) Tienen la misma área
   <!-- feedback: Error conceptual: 64 m² y 60 m² son distintos, así que las áreas no coinciden. -->
 - [ ] D) El cuadrado, con 12 m² más
   <!-- feedback: Error conceptual: la diferencia correcta es 64 − 60 = 4 m², no 12 m². -->

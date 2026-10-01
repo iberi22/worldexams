@@ -37,11 +37,11 @@ Silvia said: "I visited the ruins last year." Which is the correct reported spee
 ### Opciones
 - [ ] A) Silvia said she visits the ruins last year.
   <!-- feedback: Incorrect. The verb 'visited' (past simple) must change to 'had visited' (past perfect) in reported speech. -->
-- [x] B) Silvia said she had visited the ruins the previous year.
+- [x] D) Silvia said she had visited the ruins the previous year.
   <!-- feedback: Correct! In reported speech, Past Simple changes to Past Perfect and 'last year' becomes 'the previous year'. -->
-- [ ] C) Silvia said she has visited the ruins last year.
+- [ ] B) Silvia said she has visited the ruins last year.
   <!-- feedback: Incorrect. 'Has visited' is present perfect; reported speech from past simple requires past perfect. -->
-- [ ] D) Silvia said she would visit the ruins the previous year.
+- [ ] C) Silvia said she would visit the ruins the previous year.
   <!-- feedback: Incorrect. 'Would' is used for future intentions in the past (will -> would), not for past actions. -->
 
 ### Explicacion Pedagogica
@@ -62,9 +62,9 @@ Complete the sentence: "You ______ touch the coral reef while snorkeling; it is 
 ### Opciones
 - [ ] A) don't have to
   <!-- feedback: Incorrect. 'Don't have to' implies lack of necessity, not prohibition. -->
-- [ ] B) shouldn't
+- [ ] C) shouldn't
   <!-- feedback: Incorrect. 'Shouldn't' is for advice, but this is a strict prohibition. -->
-- [x] C) must not
+- [x] B) must not
   <!-- feedback: Correct! 'Must not' (or mustn't) is used to express strong prohibition, which fits the context of local laws. -->
 - [ ] D) might not
   <!-- feedback: Incorrect. 'Might not' expresses a negative possibility, not a prohibition. -->
@@ -87,9 +87,9 @@ If it ______ more often in the south, the coffee harvest ______ better this year
 ### Opciones
 - [ ] A) rains / will be
   <!-- feedback: Incorrect. This is a first conditional, but the context suggests a hypothetical situation about the current year. -->
-- [x] B) rained / would be
+- [x] C) rained / would be
   <!-- feedback: Correct! This is a second conditional (Past Simple + would) used for hypothetical or unlikely situations in the present. -->
-- [ ] C) had rained / will be
+- [ ] B) had rained / will be
   <!-- feedback: Incorrect. Mixed conditional forms require a specific logical link between past and present results. -->
 - [ ] D) rains / would have been
   <!-- feedback: Incorrect. 'Rains' is present simple, which doesn't match the third conditional result 'would have been'. -->
@@ -114,9 +114,9 @@ The new terminal at Ramon Villeda Morales Airport ______ by the end of next mont
   <!-- feedback: Incorrect. The terminal cannot finish itself; it needs a passive construction. -->
 - [ ] B) is being finished
   <!-- feedback: Incorrect. This implies it is happening right now, but the context points to a future completion. -->
-- [x] C) will be finished
+- [x] D) will be finished
   <!-- feedback: Correct! This is the future passive (will be + past participle), indicating an action done to the subject in the future. -->
-- [ ] D) will have finished
+- [ ] C) will have finished
   <!-- feedback: Incorrect. This is future perfect active; the terminal is the object of the action 'finish'. -->
 
 ### Explicacion Pedagogica
@@ -137,11 +137,11 @@ Choose the correct phrasal verb: "We need to ______ early in the morning to avoi
 ### Opciones
 - [ ] A) get up
   <!-- feedback: Incorrect. 'Get up' means to leave bed, but the sentence refers to starting a journey. -->
-- [x] B) set off
+- [x] D) set off
   <!-- feedback: Correct! 'Set off' means to start a journey or trip. -->
-- [ ] C) take off
+- [ ] B) take off
   <!-- feedback: Incorrect. 'Take off' is used for planes or removing clothes. -->
-- [ ] D) go through
+- [ ] C) go through
   <!-- feedback: Incorrect. 'Go through' means to experience or examine something. -->
 
 ### Explicacion Pedagogica
@@ -162,9 +162,9 @@ Los 'phrasal verbs' son combinaciones de verbos y preposiciones que adquieren si
 ### Opciones
 - [ ] A) since
   <!-- feedback: Incorrect. 'Since' is used for a specific point in time (e.g., since 2018). -->
-- [x] B) for
+- [x] C) for
   <!-- feedback: Correct! 'For' is used to express a period or duration of time. -->
-- [ ] C) during
+- [ ] B) during
   <!-- feedback: Incorrect. 'During' is followed by a noun representing an event, not a duration of time. -->
 - [ ] D) while
   <!-- feedback: Incorrect. 'While' is used to connect two simultaneous actions. -->
@@ -210,9 +210,9 @@ Los pronombres relativos se utilizan para unir oraciones y proporcionar más inf
 "Baleadas ______ in every corner of Honduras because they are delicious and affordable."
 
 ### Opciones
-- [ ] A) are selling
+- [ ] B) are selling
   <!-- feedback: Incorrect. This is active voice, but baleadas are sold by people. -->
-- [x] B) are sold
+- [x] A) are sold
   <!-- feedback: Correct! This is the present simple passive, indicating a general fact or routine. -->
 - [ ] C) have sold
   <!-- feedback: Incorrect. This is present perfect active. -->
@@ -287,9 +287,9 @@ El Present Perfect se utiliza para acciones que comenzaron en el pasado y contin
 ### Opciones
 - [ ] A) installed / would be
   <!-- feedback: Incorrect. This is second conditional, but the 'if' part is about the past. -->
-- [ ] B) had installed / would have been
+- [ ] C) had installed / would have been
   <!-- feedback: Incorrect. This is third conditional, but the result 'now' refers to the present. -->
-- [x] C) had installed / would be
+- [x] B) had installed / would be
   <!-- feedback: Correct! This is a mixed conditional: Past Perfect in the 'if' clause (past action) and 'would' + verb in the result (present effect). -->
 - [ ] D) install / will be
   <!-- feedback: Incorrect. This is first conditional. -->
@@ -387,9 +387,9 @@ Tegucigalpa is ______ as hot ______ La Ceiba during the summer months.
 ### Opciones
 - [ ] A) no / than
   <!-- feedback: Incorrect comparison structure. -->
-- [x] B) not / so
+- [x] C) not / so
   <!-- feedback: Correct! 'Not so/as ... as' is used for negative comparisons of equality. -->
-- [ ] C) more / as
+- [ ] B) more / as
   <!-- feedback: Incorrect. 'More' goes with 'than'. -->
 - [ ] D) less / as
   <!-- feedback: Incorrect. 'Less' goes with 'than'. -->
@@ -487,9 +487,9 @@ El modo subjuntivo en inglés se utiliza después de ciertas expresiones de urge
 ### Opciones
 - [ ] A) invest / wouldn't be
   <!-- feedback: Incorrect. Mixed conditional requires Past Perfect (had invested). -->
-- [x] B) invested / wouldn't be
+- [x] C) invested / wouldn't be
   <!-- feedback: Correct! Third conditional 'if' part (omitting 'if' with inversion) + second conditional result. -->
-- [ ] C) invested / wouldn't have been
+- [ ] B) invested / wouldn't have been
   <!-- feedback: Incorrect. This would refer to a past result, but 'today' indicates a present result. -->
 - [ ] D) invest / wouldn't have been
   <!-- feedback: Incorrect verb form. -->
@@ -512,9 +512,9 @@ Esta es una estructura de inversión de tercer condicional (omitimos 'if' y pone
 ### Opciones
 - [ ] A) have
   <!-- feedback: Incorrect. 'I'd rather' about the past requires the past perfect. -->
-- [x] B) had
+- [x] C) had
   <!-- feedback: Correct! 'I'd rather' + subject + past perfect is used to express a preference about a past action that didn't happen. -->
-- [ ] C) did
+- [ ] B) did
   <!-- feedback: Incorrect. 'Did' is used for preferences about the present/future. -->
 - [ ] D) would have
   <!-- feedback: Incorrect structure for 'I'd rather'. -->

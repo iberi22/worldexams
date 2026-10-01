@@ -29,13 +29,13 @@ Este bundle de dominio explica páramos y selvas colombianas, su biodiversidad y
 ### Enunciado
 ¿Qué es un páramo colombiano?
 ### Opciones
-- [x] A) Un ecosistema de alta montaña, frío y húmedo, con frailejones que regula y guarda el agua.
+- [x] D) Un ecosistema de alta montaña, frío y húmedo, con frailejones que regula y guarda el agua.
   <!-- feedback: Explica por qué es correcta: ubica la altura, el clima, la planta típica y la función hídrica. -->
-- [ ] B) Una playa caliente de Chingaza donde se cultiva coco y se nada en el mar.
+- [ ] A) Una playa caliente de Chingaza donde se cultiva coco y se nada en el mar.
   <!-- feedback: Explica el error conceptual: Chingaza es montaña fría, no costa caliente con cocos. -->
-- [ ] C) Un desierto sin agua donde nunca llueve ni crece ninguna planta.
+- [ ] B) Un desierto sin agua donde nunca llueve ni crece ninguna planta.
   <!-- feedback: Explica el error conceptual: el páramo es húmedo y con vegetación adaptada, no un desierto seco. -->
-- [ ] D) Un barrio de Bogotá con edificios altos y centros comerciales.
+- [ ] C) Un barrio de Bogotá con edificios altos y centros comerciales.
   <!-- feedback: Explica el error conceptual: el páramo es un ecosistema natural, no una zona urbana. -->
 ### Explicacion Pedagogica
 El páramo está por encima de los 3000 metros en los Andes, con frío, niebla y lluvias frecuentes. Sus suelos y musgos actúan como esponjas que guardan agua y la liberan poco a poco a los ríos. El frailejón, con hojas peludas que atrapan la niebla, es su símbolo y ayuda a proteger ese depósito natural.
@@ -69,9 +69,9 @@ La selva húmeda del Amazonas y del Chocó recibe mucha lluvia y calor todo el a
 ### Opciones
 - [ ] A) Porque los páramos fabrican agua con mangueras pagadas con pesos en Bogotá.
   <!-- feedback: Explica el error conceptual: el páramo no fabrica agua con mangueras, la capta y regula de la lluvia y la niebla. -->
-- [x] B) Porque sus suelos y plantas retienen la lluvia y la niebla y la entregan de forma constante a los ríos.
+- [x] C) Porque sus suelos y plantas retienen la lluvia y la niebla y la entregan de forma constante a los ríos.
   <!-- feedback: Explica por qué es correcta: explica la esponja natural que evita crecientes y sequías extremas. -->
-- [ ] C) Porque en el páramo nunca llueve y el agua llega por camiones desde la costa.
+- [ ] B) Porque en el páramo nunca llueve y el agua llega por camiones desde la costa.
   <!-- feedback: Explica el error conceptual: en el páramo llueve mucho y el agua viaja por ríos, no por camiones. -->
 - [ ] D) Porque cuidar el páramo solo sirve para tomar fotos de frailejones sin valor del agua.
   <!-- feedback: Explica el error conceptual: el turismo ayuda, pero la función principal es hídrica para millones de personas. -->
@@ -88,11 +88,11 @@ El musgo y la materia orgánica del páramo absorben el agua de lluvia y niebla 
 ### Opciones
 - [ ] A) Aumenta la biodiversidad porque las vacas de Florencia siembran árboles nuevos.
   <!-- feedback: Explica el error conceptual: el potrero reemplaza cientos de especies por un solo pasto y compacta el suelo. -->
-- [x] B) Se pierde hábitat y biodiversidad, el suelo se erosiona y se libera carbono que calienta el clima.
+- [x] D) Se pierde hábitat y biodiversidad, el suelo se erosiona y se libera carbono que calienta el clima.
   <!-- feedback: Explica por qué es correcta: conecta pérdida de especies, suelo frágil y emisiones por deforestación. -->
-- [ ] C) El suelo se vuelve más fértil para siempre y ya no necesita ningún cuidado.
+- [ ] B) El suelo se vuelve más fértil para siempre y ya no necesita ningún cuidado.
   <!-- feedback: Explica el error conceptual: el suelo selvático es delgado y pierde nutrientes rápido tras la tala y la quema. -->
-- [ ] D) Los ríos llevan más agua limpia porque ya no hay árboles que la usen.
+- [ ] C) Los ríos llevan más agua limpia porque ya no hay árboles que la usen.
   <!-- feedback: Explica el error conceptual: sin bosque el agua baja turbia, con crecientes y menos regulación. -->
 ### Explicacion Pedagogica
 La selva guarda su fertilidad en la vegetación viva, no en el suelo profundo. Al talar y quemar, los nutrientes se lavan con la lluvia, el suelo se compacta con el ganado y muchas especies pierden casa y alimento. Además, el carbono guardado en los árboles sale a la atmósfera y afecta el clima regional y global.
@@ -107,11 +107,11 @@ La selva guarda su fertilidad en la vegetación viva, no en el suelo profundo. A
 ### Opciones
 - [ ] A) Sirven para espantar turistas en Tunja porque pican como ortiga caliente.
   <!-- feedback: Explica el error conceptual: los pelitos no son para picar turistas, sino para proteger del frío y guardar agua. -->
-- [x] B) Atrapan la niebla, aíslan del frío y reducen la pérdida de agua por el viento.
+- [x] D) Atrapan la niebla, aíslan del frío y reducen la pérdida de agua por el viento.
   <!-- feedback: Explica por qué es correcta: relaciona adaptación con captación de agua y protección térmica. -->
-- [ ] C) Sirven para hacer fotosíntesis de noche sin necesidad de luz del sol.
+- [ ] B) Sirven para hacer fotosíntesis de noche sin necesidad de luz del sol.
   <!-- feedback: Explica el error conceptual: la fotosíntesis necesita luz, y los pelos no reemplazan al sol. -->
-- [ ] D) Son adornos sin función que la planta puede perder sin consecuencias.
+- [ ] C) Son adornos sin función que la planta puede perder sin consecuencias.
   <!-- feedback: Explica el error conceptual: sin esa protección la planta se congela y se deshidrata en el páramo. -->
 ### Explicacion Pedagogica
 El páramo combina sol fuerte de día, frío de noche y viento seco. Los pelos blancos reflejan el exceso de sol, frenan el viento y condensan gotas de niebla que caen a la base. Las hojas gruesas guardan agua. Así el frailejón sobrevive donde otras plantas se helarían y además aporta agua al suelo.
@@ -143,9 +143,9 @@ El Chocó biogeográfico es tierra baja cálida con lluvias extremas y miles de 
 ### Enunciado
 ¿Qué ocurre si desaparece el jaguar de esa red trófica amazónica?
 ### Opciones
-- [ ] A) Nada cambia porque en el Amazonas cada especie vive aislada de las demás.
+- [ ] B) Nada cambia porque en el Amazonas cada especie vive aislada de las demás.
   <!-- feedback: Explica el error conceptual: las especies están conectadas por alimentación y control mutuo. -->
-- [x] B) Aumentan sus presas, se altera la vegetación y se desequilibra toda la red.
+- [x] A) Aumentan sus presas, se altera la vegetación y se desequilibra toda la red.
   <!-- feedback: Explica por qué es correcta: el depredador tope controla herbívoros y protege indirectamente a las plantas. -->
 - [ ] C) Los hongos dejan de descomponer hojas porque extrañan al jaguar.
   <!-- feedback: Explica el error conceptual: los hongos descomponen materia muerta sin depender del afecto por un animal. -->
@@ -200,9 +200,9 @@ La mejor inversión une tres metas: corredores que permiten moverse a los animal
 ### Enunciado
 ¿Cómo se evalúa esa propuesta desde la ecología?
 ### Opciones
-- [ ] A) Es excelente porque las carreteras nunca afectan animales, agua ni clima en Pasto.
+- [ ] B) Es excelente porque las carreteras nunca afectan animales, agua ni clima en Pasto.
   <!-- feedback: Explica el error conceptual: toda vía fragmenta hábitat, contamina y abre paso a más deforestación. -->
-- [x] B) Es riesgosa porque fragmenta hábitats, contamina aguas y facilita invasiones y deforestación si no se evalúa y mitiga.
+- [x] A) Es riesgosa porque fragmenta hábitats, contamina aguas y facilita invasiones y deforestación si no se evalúa y mitiga.
   <!-- feedback: Explica por qué es correcta: exige estudio de impacto, alternativas y medidas de mitigación. -->
 - [ ] C) Es buena solo porque el cemento es gris y combina con la niebla del páramo.
   <!-- feedback: Explica el error conceptual: el color no mide el daño ecológico ni social del proyecto. -->

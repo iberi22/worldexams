@@ -34,9 +34,9 @@ Ruptura estética, creacionismo, ultraísmo y surrealismo en la literatura hispa
 ¿Cuál es el postulado estético central que propone Huidobro en este fragmento del manifiesto creacionista?
 
 ### Opciones
-- [x] A) La poesía debe crear realidades autónomas e inéditas mediante la palabra, rechazando la mera imitación de la naturaleza.
+- [x] B) La poesía debe crear realidades autónomas e inéditas mediante la palabra, rechazando la mera imitación de la naturaleza.
   <!-- feedback: Huidobro proclama que el poeta no debe describir la naturaleza existente sino inventar mundos verbales independientes. -->
-- [ ] B) El poeta debe limitarse a catalogar las especies florales autóctonas de América Latina.
+- [ ] A) El poeta debe limitarse a catalogar las especies florales autóctonas de América Latina.
   <!-- feedback: El manifiesto no busca descripciones botánicas ni catálogos ilustrados. -->
 - [ ] C) La poesía debe alinearse estrictamente con los preceptos de la lírica religiosa medieval.
   <!-- feedback: El creacionismo vanguardista se contrapone a la imitación de dogmas tradicionales. -->
@@ -57,11 +57,11 @@ El creacionismo de Huidobro defiende la autonomía radical del arte: el poema no
 ¿De qué manera el uso de la ironía y los objetos tecnológicos modernos caracteriza la vanguardia de Los Nuevos en Colombia?
 
 ### Opciones
-- [x] A) Desacraliza la solemnidad de la poesía romántica tradicional introduciendo el humor y la cotidianeidad urbana.
+- [x] C) Desacraliza la solemnidad de la poesía romántica tradicional introduciendo el humor y la cotidianeidad urbana.
   <!-- feedback: Vidales rompe con el lenguaje engolado decimonónico al incorporar objetos de la modernidad técnica con desacralizadora ironía. -->
-- [ ] B) Rinde homenaje a los sonetos del Siglo de Oro español manteniendo la métrica en alejandrinos.
+- [ ] A) Rinde homenaje a los sonetos del Siglo de Oro español manteniendo la métrica en alejandrinos.
   <!-- feedback: Los Nuevos rechazaron precisamente la métrica rancia y el retoricismo clásico. -->
-- [ ] C) Exige la abolición inmediata de la energía eléctrica en la Bogotá de los años veinte.
+- [ ] B) Exige la abolición inmediata de la energía eléctrica en la Bogotá de los años veinte.
   <!-- feedback: El poema celebra la modernidad urbana y sus artefactos, no propone un retorno rural. -->
 - [ ] D) Demuestra la incapacidad del autor para entender el funcionamiento de un timbre eléctrico.
   <!-- feedback: El poeta utiliza la metáfora humorística intencionalmente como recurso estético vanguardista. -->
@@ -80,13 +80,13 @@ Luis Vidales y Los Nuevos renovaron la lírica colombiana al incorporar el entor
 ¿Qué efecto produce en el lector la disrupción sintáctica y la invención de términos en la poesía vallejiana?
 
 ### Opciones
-- [x] A) Manifestar la angustia existencial y la fractura del sujeto ante el dolor humano, desarticulando la lógica verbal convencional.
+- [x] D) Manifestar la angustia existencial y la fractura del sujeto ante el dolor humano, desarticulando la lógica verbal convencional.
   <!-- feedback: Vallejo tuerce la sintaxis tradicional para expresar una dimensión de dolor e inconformidad que desborda el lenguaje cotidiano. -->
-- [ ] B) Enseñar las reglas grammaticales básicas a los estudiantes de secundaria.
+- [ ] A) Enseñar las reglas grammaticales básicas a los estudiantes de secundaria.
   <!-- feedback: La poesía hermética de *Trilce* es una indagación estética compleja, no un texto escolar. -->
-- [ ] C) Copiar las fórmulas del romanticismo francés del siglo XIX.
+- [ ] B) Copiar las fórmulas del romanticismo francés del siglo XIX.
   <!-- feedback: Vallejo se distancia radicalmente del romanticismo hacia una vanguardia profundamente personal. -->
-- [ ] D) Garantizar que el poema pueda ser cantado como un himno patriótico oficial.
+- [ ] C) Garantizar que el poema pueda ser cantado como un himno patriótico oficial.
   <!-- feedback: La disrupción de *Trilce* resiste la métrica uniforme o la solemnidad de los himnos. -->
 
 ### Explicacion Pedagogica
@@ -172,13 +172,13 @@ La heteronimia en León de Greiff diversifica las voces líricas y enriquece el 
 ¿Qué significa la "deshumanización" en el contexto de las vanguardias según el análisis de Ortega y Gasset?
 
 ### Opciones
-- [x] A) El rechazo del realismo folletinesco para enfocarse en el placer estético puro de la forma, la metáfora y la ironía.
+- [x] D) El rechazo del realismo folletinesco para enfocarse en el placer estético puro de la forma, la metáfora y la ironía.
   <!-- feedback: Ortega define que el arte nuevo no busca hacer llorar al espectador con dramas cotidianos, sino ofrecer un goce estético autónomo. -->
-- [ ] B) La crueldad física ejercida por los artistas contra los espectadores en las galerías de arte.
+- [ ] A) La crueldad física ejercida por los artistas contra los espectadores en las galerías de arte.
   <!-- feedback: No se refiere a violencia física sino a la distancia respecto al dramatismo sentimental decimonónico. -->
-- [ ] C) La sustitución de los poetas por máquinas de vapor en los recitales públicos.
+- [ ] B) La sustitución de los poetas por máquinas de vapor en los recitales públicos.
   <!-- feedback: Es una categoría filosófica sobre la forma artística y el distanciamiento crítico. -->
-- [ ] D) La prohibición de pintar o describir figuras humanas en cualquier obra visual.
+- [ ] C) La prohibición de pintar o describir figuras humanas en cualquier obra visual.
   <!-- feedback: Significa purificación de la forma artística frente al realismo naturalista. -->
 
 ### Explicacion Pedagogica
@@ -218,11 +218,11 @@ El estridentismo y el futurismo sublimaron la velocidad, la urbe y la tecnologí
 ¿Qué papel cumple la revista literaria como soporte de difusión de los grupos de vanguardia?
 
 ### Opciones
-- [x] A) Funciona como plataforma combativa de debate, difusión de manifiestos y cohesión de la nueva sensibilidad estética.
+- [x] C) Funciona como plataforma combativa de debate, difusión de manifiestos y cohesión de la nueva sensibilidad estética.
   <!-- feedback: Las revistas de vanguardia fueron el espacio vital de experimentación, polémica y aglutinamiento de las jóvenes generaciones. -->
-- [ ] B) Es un boletín comercial destinado a la venta de terrenos en la sabana de Bogotá.
+- [ ] A) Es un boletín comercial destinado a la venta de terrenos en la sabana de Bogotá.
   <!-- feedback: Tenía un propósito artístico y cultural beligerante, lejos de la especulación inmobiliaria. -->
-- [ ] C) Es una publicación oficial del Ministerio de Educación de la época.
+- [ ] B) Es una publicación oficial del Ministerio de Educación de la época.
   <!-- feedback: Las revistas vanguardistas eran independientes e iconoclastas frente al establecimiento oficial. -->
 - [ ] D) Es una antología de oraciones religiosas para el rezo del rosario.
   <!-- feedback: Eran publicaciones desacralizadoras que polemizaban con el conservadurismo vigente. -->
@@ -241,9 +241,9 @@ Las revistas de vanguardia (*Proa*, *Martín Fierro*, *Mandarina*) fueron los ca
 ¿Qué representa la caída de Altazor y la disolución final del lenguaje en el Canto VII?
 
 ### Opciones
-- [x] A) El límite trágico del lenguaje poético que, tras liberarse de la norma, desemboca en la pura sonoridad y el silencio primal.
+- [x] B) El límite trágico del lenguaje poético que, tras liberarse de la norma, desemboca en la pura sonoridad y el silencio primal.
   <!-- feedback: En *Altazor*, el viaje en paracaídas simboliza la agonía de la palabra que busca nombrar lo inefable hasta pulverizarse en música pura. -->
-- [ ] B) El fracaso involuntario del autor por haber perdido sus apuntes en una estación de tren.
+- [ ] A) El fracaso involuntario del autor por haber perdido sus apuntes en una estación de tren.
   <!-- feedback: Es una de las cumbres premeditadas de la poesía de vanguardia hispanoamericana. -->
 - [ ] C) La prueba de que el poema fue traducido incorrectamente del idioma alemán.
   <!-- feedback: Huidobro redactó el texto explorando los límites fonéticos del propio español. -->
@@ -264,11 +264,11 @@ El Canto VII de *Altazor* representa la parábola de la palabra poética que, al
 ¿Qué transformación conceptual sufre la metáfora en la poesía de vanguardia frente al Modernismo?
 
 ### Opciones
-- [x] A) Abandona la ornamentación preciosa y la armonía musical para convertirse en un choque ilógico e impactante entre realidades distantes.
+- [x] C) Abandona la ornamentación preciosa y la armonía musical para convertirse en un choque ilógico e impactante entre realidades distantes.
   <!-- feedback: La metáfora vanguardista crea un cortocircuito mental que no busca la belleza decorativa sino la revelación insólita. -->
-- [ ] B) Pasa a ser el único recurso prohibido por las normas internacionales de la literatura.
+- [ ] A) Pasa a ser el único recurso prohibido por las normas internacionales de la literatura.
   <!-- feedback: La vanguardia multiplicó el uso de la metáfora convirtiéndola en el motor del poema. -->
-- [ ] C) Se limita a describir cisnes blancos en estanques de mármol de manera idéntica al Modernismo.
+- [ ] B) Se limita a describir cisnes blancos en estanques de mármol de manera idéntica al Modernismo.
   <!-- feedback: La vanguardia rechazó la cisneida y los cisnes de mármol por considerarlos clisés gastados. -->
 - [ ] D) Obliga al poeta a incluir notas a pie de página explicando la definición del diccionario.
   <!-- feedback: La metáfora vanguardista busca la intuición directa del lector sin explicaciones doctas. -->
@@ -379,13 +379,13 @@ La vanguardia de Los Nuevos oxigenó la cultura colombiana al combatir la solemn
 ¿Qué visión de la metrópoli moderna transmite la imaginería surrealista de Lorca?
 
 ### Opciones
-- [x] A) Una pesadilla alienante donde la máquina, el dinero y la deshumanización asfixian la naturaleza y la ternura humana.
+- [x] D) Una pesadilla alienante donde la máquina, el dinero y la deshumanización asfixian la naturaleza y la ternura humana.
   <!-- feedback: Lorca utiliza imágenes alucinadas para expresar el trauma del capitalismo voraz y la angustia de las minorías en la urbe. -->
-- [ ] B) Una celebración entusiasta de las finanzas y de la arquitectura de la Bolsa de Wall Street.
+- [ ] A) Una celebración entusiasta de las finanzas y de la arquitectura de la Bolsa de Wall Street.
   <!-- feedback: El texto es una protesta amarga y dolorosa contra la deshumanización mercantil. -->
-- [ ] C) Un libro de viajes turístico con recomendaciones de hoteles y restaurantes.
+- [ ] B) Un libro de viajes turístico con recomendaciones de hoteles y restaurantes.
   <!-- feedback: Es una de las cumbres líricas de la protesta existencial y social de la vanguardia en español. -->
-- [ ] D) Un manual para la construcción de rascacielos de acero.
+- [ ] C) Un manual para la construcción de rascacielos de acero.
   <!-- feedback: Utiliza metáforas de angustia y sangre para criticar la tiranía del hormigón. -->
 
 ### Explicacion Pedagogica
@@ -402,9 +402,9 @@ La vanguardia de Los Nuevos oxigenó la cultura colombiana al combatir la solemn
 ¿Qué ruptura temática lideraron las poetas de la vanguardia hispanoamericana a comienzos del siglo XX?
 
 ### Opciones
-- [x] A) La afirmación del deseo erótico femenino, la autonomía del cuerpo y el cuestionamiento del mandato patriarcal.
+- [x] B) La afirmación del deseo erótico femenino, la autonomía del cuerpo y el cuestionamiento del mandato patriarcal.
   <!-- feedback: Agustini, Storni e Ibarbourou irrumpieron con una voz audaz que reivindicó la pasión y la subjetividad femenina sin tapujos. -->
-- [ ] B) La renuncia a escribir poesía para dedicarse exclusivamente a las labores del hogar.
+- [ ] A) La renuncia a escribir poesía para dedicarse exclusivamente a las labores del hogar.
   <!-- feedback: Desafiaron los límites asignados publicando obras de inmensa potencia creadora. -->
 - [ ] C) La exigencia de que las mujeres solo escribieran oraciones religiosas en verso.
   <!-- feedback: Sustituyeron la devoción piadosa por una apasionada y vanguardista afirmación del yo. -->
@@ -425,11 +425,11 @@ La vanguardia femenina hispanoamericana liberó la voz de la mujer al nombrar la
 ¿En qué consiste la metáfora de la "antropofagia cultural" propuesta por la vanguardia brasileña?
 
 ### Opciones
-- [x] A) En devorar la cultura europea importada, digerirla críticamente y combinarla con los mitos indígenas para crear un arte nacional autónomo.
+- [x] C) En devorar la cultura europea importada, digerirla críticamente y combinarla con los mitos indígenas para crear un arte nacional autónomo.
   <!-- feedback: Oswald de Andrade propone la digestión crítica del saber extranjero para fundar una identidad brasileña moderna y mestiza. -->
-- [ ] B) En la recomendación literal de practicar el canibalismo en las ciudades del Amazonas.
+- [ ] A) En la recomendación literal de practicar el canibalismo en las ciudades del Amazonas.
   <!-- feedback: Es una metáfora estética y filosófica sobre la asimilación cultural no un acto físico. -->
-- [ ] C) En la prohibición absoluta de traducir obras escritas en lengua portuguesa.
+- [ ] B) En la prohibición absoluta de traducir obras escritas en lengua portuguesa.
   <!-- feedback: Buscaba dialogar con las vanguardias del mundo desde la propia especificidad iberoamericana. -->
 - [ ] D) En la imitación sumisa de las obras de teatro de William Shakespeare.
   <!-- feedback: El juego con Shakespeare ("Tupi or not tupi") es una apropiación irónica y desacralizadora. -->
@@ -448,11 +448,11 @@ La antropofagia cultural brasileña teorizó una forma audaz de descolonización
 ¿Qué herencia vanguardista permanece activa en el arte gráfico y la literatura del siglo XXI?
 
 ### Opciones
-- [x] A) El rompimiento de las fronteras entre géneros, la libertad de montaje y la desacralización de los soportes tradicionales.
+- [x] C) El rompimiento de las fronteras entre géneros, la libertad de montaje y la desacralización de los soportes tradicionales.
   <!-- feedback: El arte actual mantiene el espíritu de montaje, collage y libertad expresiva inaugurado por las vanguardias de hace un siglo. -->
-- [ ] B) La obligación estricta de usar métrica consonante en todas las publicaciones digitales.
+- [ ] A) La obligación estricta de usar métrica consonante en todas las publicaciones digitales.
   <!-- feedback: Las vanguardias acabaron con la tiranía de la métrica tradicional. -->
-- [ ] C) La prohibición de usar imágenes en los periódicos de circulación nacional.
+- [ ] B) La prohibición de usar imágenes en los periódicos de circulación nacional.
   <!-- feedback: Abrieron la puerta al diseño gráfico audaz y la integración verbo-icónica. -->
 - [ ] D) El retorno a la imitación servil de las estatuas romanas en los museos.
   <!-- feedback: Proclamaron el dinamismo y la búsqueda de lenguajes vivos. -->
@@ -471,11 +471,11 @@ Las vanguardias legaron la libertad conceptual, la hibridación de lenguajes y l
 ¿Qué juicio argumentativo justifica esta conclusión sobre el valor de las vanguardias regionales?
 
 ### Opciones
-- [x] A) Apropiaron las técnicas de experimentación para expresar las contradicciones, la memoria y la identidad de América Latina con voz propia.
+- [x] C) Apropiaron las técnicas de experimentación para expresar las contradicciones, la memoria y la identidad de América Latina con voz propia.
   <!-- feedback: La vanguardia en nuestro continente (Huidobro, Vallejo, Asturias, De Greiff) refundó la palabra para nombrar nuestra propia realidad. -->
-- [ ] B) Demuestra que los poetas hispanoamericanos se limitaron a traducir textos franceses sin cambiar una palabra.
+- [ ] A) Demuestra que los poetas hispanoamericanos se limitaron a traducir textos franceses sin cambiar una palabra.
   <!-- feedback: La crítica reconoce la inmensa originalidad y potencia de nuestras vanguardias. -->
-- [ ] C) Afirma que las vanguardias solo existieron en los libros de geografía oficial.
+- [ ] B) Afirma que las vanguardias solo existieron en los libros de geografía oficial.
   <!-- feedback: Fueron movimientos vitales que transformaron la literatura y las artes. -->
 - [ ] D) Sugiere que la poesía debe ser reemplazada por instructivos de electrodomésticos.
   <!-- feedback: Reivindica la centralidad de la poesía como indagación sobre el ser y la cultura. -->

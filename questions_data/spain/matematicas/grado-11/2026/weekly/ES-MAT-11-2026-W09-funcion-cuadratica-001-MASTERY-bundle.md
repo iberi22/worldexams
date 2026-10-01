@@ -29,8 +29,8 @@ bundle_index: 1
 ¿Qué nombre recibe la curva característica que representa gráficamente a una función cuadrática?
 
 ### Opciones
-- [ ] A) Hipérbola <!-- feedback: La hipérbola corresponde a funciones racionales de tipo y=k/x. -->
-- [x] B) Parábola <!-- feedback: Correcto. Es la curva simétrica en forma de U (o U invertida) característica de los polinomios de grado 2. -->
+- [ ] B) Hipérbola <!-- feedback: La hipérbola corresponde a funciones racionales de tipo y=k/x. -->
+- [x] A) Parábola <!-- feedback: Correcto. Es la curva simétrica en forma de U (o U invertida) característica de los polinomios de grado 2. -->
 - [ ] C) Elipse <!-- feedback: La elipse no es la gráfica de una función simple de tipo y=f(x). -->
 - [ ] D) Recta <!-- feedback: La recta corresponde a funciones lineales o afines. -->
 
@@ -50,8 +50,8 @@ La función cuadrática $f(x) = ax^2 + bx + c$ genera siempre una parábola. Su 
 En una parábola que abre hacia arriba ($a > 0$), ¿cómo se denomina al punto donde la función alcanza su valor mínimo?
 
 ### Opciones
-- [ ] A) Foco <!-- feedback: El foco es un punto interno de la parábola pero no pertenece a la curva. -->
-- [x] B) Vértice <!-- feedback: Correcto. El vértice es el punto de inflexión donde la función cambia de decreciente a creciente (o viceversa). -->
+- [ ] B) Foco <!-- feedback: El foco es un punto interno de la parábola pero no pertenece a la curva. -->
+- [x] A) Vértice <!-- feedback: Correcto. El vértice es el punto de inflexión donde la función cambia de decreciente a creciente (o viceversa). -->
 - [ ] C) Directriz <!-- feedback: La directriz es una recta, no un punto. -->
 - [ ] D) Eje de simetría <!-- feedback: Es la recta vertical que pasa por el vértice. -->
 
@@ -72,9 +72,9 @@ El vértice $(x_v, y_v)$ es el punto crítico de la parábola. Representa el val
 
 ### Opciones
 - [ ] A) 6 <!-- feedback: Se ha olvidado dividir por 2a. -->
-- [x] B) 3 <!-- feedback: Correcto. Usando la fórmula $x_v = -b / 2a$: $x_v = -(-6) / (2 \cdot 1) = 3$. -->
-- [ ] C) -3 <!-- feedback: Error de signo en la fórmula. -->
-- [ ] D) 0 <!-- feedback: Este sería el valor si b fuera cero. -->
+- [x] D) 3 <!-- feedback: Correcto. Usando la fórmula $x_v = -b / 2a$: $x_v = -(-6) / (2 \cdot 1) = 3$. -->
+- [ ] B) -3 <!-- feedback: Error de signo en la fórmula. -->
+- [ ] C) 0 <!-- feedback: Este sería el valor si b fuera cero. -->
 
 ### Explicacion Pedagogica
 La abscisa del vértice de una parábola $y = ax^2 + bx + c$ se encuentra siempre en $x = -b / 2a$. Este punto también define la posición del eje de simetría vertical de la curva.
@@ -92,8 +92,8 @@ La abscisa del vértice de una parábola $y = ax^2 + bx + c$ se encuentra siempr
 Si en la función $f(x) = ax^2 + bx + c$, el coeficiente $a$ es negativo, ¿hacia dónde se dirigen las ramas de la parábola?
 
 ### Opciones
-- [ ] A) Hacia arriba (convexa). <!-- feedback: Esto ocurre si a > 0. -->
-- [x] B) Hacia abajo (cóncava). <!-- feedback: Correcto. Un coeficiente principal negativo invierte la parábola, situando el vértice en el máximo. -->
+- [ ] B) Hacia arriba (convexa). <!-- feedback: Esto ocurre si a > 0. -->
+- [x] A) Hacia abajo (cóncava). <!-- feedback: Correcto. Un coeficiente principal negativo invierte la parábola, situando el vértice en el máximo. -->
 - [ ] C) Hacia la derecha. <!-- feedback: Las funciones de tipo y=f(x) no abren lateralmente. -->
 - [ ] D) Hacia la izquierda. <!-- feedback: Las funciones de tipo y=f(x) no abren lateralmente. -->
 
@@ -114,9 +114,9 @@ El signo de $a$ determina la curvatura. Si $a < 0$, la función tiende a $-\inft
 
 ### Opciones
 - [ ] A) Solo en (4, 0). <!-- feedback: Olvida que hay dos raíces y que debe extraer la raíz cuadrada. -->
-- [x] B) En (2, 0) y (-2, 0). <!-- feedback: Correcto. $x^2 - 4 = 0 \Rightarrow x^2 = 4 \Rightarrow x = \pm 2$. -->
-- [ ] C) En (0, 2) y (0, -2). <!-- feedback: Estos son puntos del eje Y, no del eje X. -->
-- [ ] D) No corta al eje X. <!-- feedback: El discriminante es positivo ($16$), por lo que sí corta. -->
+- [x] D) En (2, 0) y (-2, 0). <!-- feedback: Correcto. $x^2 - 4 = 0 \Rightarrow x^2 = 4 \Rightarrow x = \pm 2$. -->
+- [ ] B) En (0, 2) y (0, -2). <!-- feedback: Estos son puntos del eje Y, no del eje X. -->
+- [ ] C) No corta al eje X. <!-- feedback: El discriminante es positivo ($16$), por lo que sí corta. -->
 
 ### Explicacion Pedagogica
 Los puntos de corte con el eje X (ceros o raíces) se obtienen resolviendo la ecuación de segundo grado $ax^2 + bx + c = 0$. Gráficamente, son las intersecciones de la parábola con la recta horizontal $y = 0$.
@@ -134,9 +134,9 @@ Los puntos de corte con el eje X (ceros o raíces) se obtienen resolviendo la ec
 ¿Cuál es el punto de corte con el eje Y de la función $f(x) = 2x^2 - 3x + 7$?
 
 ### Opciones
-- [ ] A) (0, 0) <!-- feedback: Solo pasaría por el origen si c = 0. -->
-- [ ] B) (7, 0) <!-- feedback: Confusión entre coordenadas x e y. -->
-- [x] C) (0, 7) <!-- feedback: Correcto. Sustituyendo x = 0, el resultado es 7. -->
+- [ ] B) (0, 0) <!-- feedback: Solo pasaría por el origen si c = 0. -->
+- [ ] C) (7, 0) <!-- feedback: Confusión entre coordenadas x e y. -->
+- [x] A) (0, 7) <!-- feedback: Correcto. Sustituyendo x = 0, el resultado es 7. -->
 - [ ] D) (0, 2) <!-- feedback: El coeficiente principal no define el corte con el eje Y. -->
 
 ### Explicacion Pedagogica
@@ -155,8 +155,8 @@ El corte con el eje Y siempre ocurre en el punto $(0, c)$. Es el valor numérico
 Si el discriminante de la función cuadrática es cero ($\Delta = 0$), ¿qué podemos afirmar sobre su gráfica?
 
 ### Opciones
-- [ ] A) Corta al eje X en dos puntos distintos. <!-- feedback: Esto requiere discriminante positivo. -->
-- [x] B) El vértice de la parábola está sobre el eje X (un único punto de corte). <!-- feedback: Correcto. La parábola es tangente al eje. -->
+- [ ] B) Corta al eje X en dos puntos distintos. <!-- feedback: Esto requiere discriminante positivo. -->
+- [x] A) El vértice de la parábola está sobre el eje X (un único punto de corte). <!-- feedback: Correcto. La parábola es tangente al eje. -->
 - [ ] C) No corta nunca al eje X. <!-- feedback: Esto requiere discriminante negativo. -->
 - [ ] D) La gráfica es una recta horizontal. <!-- feedback: Sigue siendo una parábola, pero con una sola raíz real. -->
 
@@ -176,8 +176,8 @@ El discriminante $\Delta = b^2 - 4ac$ determina cuántas veces toca la parábola
 ¿En qué instante $t$ alcanza el proyectil su altura máxima?
 
 ### Opciones
-- [ ] A) t = 4 s <!-- feedback: Este es el tiempo total de vuelo hasta volver al suelo. -->
-- [x] B) t = 2 s <!-- feedback: Correcto. $t_v = -20 / (2 \cdot -5) = -20 / -10 = 2$. -->
+- [ ] B) t = 4 s <!-- feedback: Este es el tiempo total de vuelo hasta volver al suelo. -->
+- [x] A) t = 2 s <!-- feedback: Correcto. $t_v = -20 / (2 \cdot -5) = -20 / -10 = 2$. -->
 - [ ] C) t = 1 s <!-- feedback: Valor incorrecto. -->
 - [ ] D) t = 20 s <!-- feedback: Confusión con el coeficiente lineal. -->
 
@@ -197,8 +197,8 @@ Los problemas de proyectiles usan funciones cuadráticas donde el vértice repre
 Halla el valor mínimo de la función $f(x) = x^2 - 4x + 10$.
 
 ### Opciones
-- [ ] A) x = 2 <!-- feedback: Esta es la posición del mínimo, no el valor mínimo de la función. -->
-- [x] B) y = 6 <!-- feedback: Correcto. El vértice está en $x=2$. Evaluando: $f(2) = 2^2 - 4(2) + 10 = 4 - 8 + 10 = 6$. -->
+- [ ] B) x = 2 <!-- feedback: Esta es la posición del mínimo, no el valor mínimo de la función. -->
+- [x] A) y = 6 <!-- feedback: Correcto. El vértice está en $x=2$. Evaluando: $f(2) = 2^2 - 4(2) + 10 = 4 - 8 + 10 = 6$. -->
 - [ ] C) y = 10 <!-- feedback: Este es el corte con el eje Y, no el mínimo del vértice. -->
 - [ ] D) y = 4 <!-- feedback: Error de cálculo al evaluar. -->
 
@@ -240,8 +240,8 @@ Si $f(x) = x^2 + 2x + 5$, ¿cuál es el signo de la función para cualquier valo
 
 ### Opciones
 - [ ] A) Siempre negativo. <!-- feedback: El coeficiente principal es positivo. -->
-- [x] B) Siempre positivo. <!-- feedback: Correcto. El discriminante es negativo ($4-20=-16$), por lo que no corta al eje X. Como abre hacia arriba, siempre está por encima del eje. -->
-- [ ] C) Positivo para x > 0 y negativo para x < 0. <!-- feedback: Esto sería una función impar o lineal. -->
+- [x] C) Siempre positivo. <!-- feedback: Correcto. El discriminante es negativo ($4-20=-16$), por lo que no corta al eje X. Como abre hacia arriba, siempre está por encima del eje. -->
+- [ ] B) Positivo para x > 0 y negativo para x < 0. <!-- feedback: Esto sería una función impar o lineal. -->
 - [ ] D) Depende del valor de x. <!-- feedback: Al no tener raíces, la función nunca cambia de signo. -->
 
 ### Explicacion Pedagogica
@@ -261,9 +261,9 @@ Una parábola que no corta al eje X mantiene el mismo signo en todo su dominio. 
 
 ### Opciones
 - [ ] A) $y = 4x$ <!-- feedback: Es una recta, no una parábola. -->
-- [x] B) $y = 2x^2$ <!-- feedback: Correcto. $y = ax^2$. Sustituyendo (2,8): $8 = a(2^2) \Rightarrow 8 = 4a \Rightarrow a = 2$. -->
-- [ ] C) $y = x^2 + 4$ <!-- feedback: No pasa por (0,0). -->
-- [ ] D) $y = 8x^2$ <!-- feedback: No cumple el punto (2,8): 8(4) = 32 ≠ 8. -->
+- [x] D) $y = 2x^2$ <!-- feedback: Correcto. $y = ax^2$. Sustituyendo (2,8): $8 = a(2^2) \Rightarrow 8 = 4a \Rightarrow a = 2$. -->
+- [ ] B) $y = x^2 + 4$ <!-- feedback: No pasa por (0,0). -->
+- [ ] C) $y = 8x^2$ <!-- feedback: No cumple el punto (2,8): 8(4) = 32 ≠ 8. -->
 
 ### Explicacion Pedagogica
 Si el vértice está en el origen, la ecuación es $y = ax^2$. Usamos cualquier otro punto conocido de la curva para sustituir las coordenadas y despejar el valor del parámetro $a$.
@@ -302,8 +302,8 @@ La forma canónica o de vértice de la función cuadrática facilita la identifi
 Si la altura máxima es de 5 metros, ¿cuál es la ecuación del arco?
 
 ### Opciones
-- [ ] A) $y = x(x-10)$ <!-- feedback: La altura máxima sería negativa (hacia abajo). -->
-- [x] B) $y = -0,2x(x-10)$ <!-- feedback: Correcto. Vértice en x=5. $5 = a(5)(5-10) \Rightarrow 5 = -25a \Rightarrow a = -0,2$. -->
+- [ ] B) $y = x(x-10)$ <!-- feedback: La altura máxima sería negativa (hacia abajo). -->
+- [x] A) $y = -0,2x(x-10)$ <!-- feedback: Correcto. Vértice en x=5. $5 = a(5)(5-10) \Rightarrow 5 = -25a \Rightarrow a = -0,2$. -->
 - [ ] C) $y = -5x(x-10)$ <!-- feedback: La altura máxima sería de 125 metros, no 5. -->
 - [ ] D) $y = x^2 - 10x + 5$ <!-- feedback: No tiene las raíces en 0 y 10. -->
 
@@ -366,9 +366,9 @@ Igualamos ambas expresiones para formar una ecuación de segundo grado. Las solu
 
 ### Opciones
 - [ ] A) 0 unidades <!-- feedback: La parábola no pasa por el origen. -->
-- [x] B) 1 unidad <!-- feedback: Correcto. El punto más cercano es el vértice (0, 1), cuya distancia al origen es exactamente 1. -->
-- [ ] C) $\sqrt{2}$ unidades <!-- feedback: Distancia mayor que la del vértice. -->
-- [ ] D) 2 unidades <!-- feedback: Valor incorrecto. -->
+- [x] D) 1 unidad <!-- feedback: Correcto. El punto más cercano es el vértice (0, 1), cuya distancia al origen es exactamente 1. -->
+- [ ] B) $\sqrt{2}$ unidades <!-- feedback: Distancia mayor que la del vértice. -->
+- [ ] C) 2 unidades <!-- feedback: Valor incorrecto. -->
 
 ### Explicacion Pedagogica
 En parábolas verticales cuyo eje de simetría es el eje Y, el punto más cercano al origen suele ser el vértice si este se encuentra sobre el eje Y. La distancia es simplemente el valor absoluto de la ordenada en el origen.
@@ -386,8 +386,8 @@ En parábolas verticales cuyo eje de simetría es el eje Y, el punto más cercan
 ¿Para qué valores de $k$ la parábola $y = x^2 - kx + 4$ es siempre mayor que cero?
 
 ### Opciones
-- [ ] A) $k > 4$ <!-- feedback: Tendría raíces reales, por lo que tocaría o cruzaría el eje X. -->
-- [x] B) $-4 < k < 4$ <!-- feedback: Correcto. Requiere discriminante negativo: $k^2 - 16 < 0 \Rightarrow k^2 < 16 \Rightarrow |k| < 4$. -->
+- [ ] B) $k > 4$ <!-- feedback: Tendría raíces reales, por lo que tocaría o cruzaría el eje X. -->
+- [x] A) $-4 < k < 4$ <!-- feedback: Correcto. Requiere discriminante negativo: $k^2 - 16 < 0 \Rightarrow k^2 < 16 \Rightarrow |k| < 4$. -->
 - [ ] C) $k = 0$ solamente. <!-- feedback: Hay un rango completo de valores que cumplen la condición. -->
 - [ ] D) Ningún valor de k. <!-- feedback: Sí existen valores que cumplen la condición. -->
 
@@ -407,8 +407,8 @@ Para que una parábola sea siempre positiva, no debe tener raíces reales ($\Del
 Si la suma de las raíces de una función cuadrática es 6 y su producto es 8, ¿cuál es la ecuación de la parábola si $a = 1$?
 
 ### Opciones
-- [ ] A) $y = x^2 + 6x + 8$ <!-- feedback: La suma sería -6. -->
-- [x] B) $y = x^2 - 6x + 8$ <!-- feedback: Correcto. Por relaciones de Vieta: $x^2 - (suma)x + producto = 0$. -->
+- [ ] B) $y = x^2 + 6x + 8$ <!-- feedback: La suma sería -6. -->
+- [x] A) $y = x^2 - 6x + 8$ <!-- feedback: Correcto. Por relaciones de Vieta: $x^2 - (suma)x + producto = 0$. -->
 - [ ] C) $y = x^2 - 8x + 6$ <!-- feedback: Suma y producto intercambiados. -->
 - [ ] D) $y = x^2 + 6x - 8$ <!-- feedback: Producto incorrecto. -->
 
@@ -428,8 +428,8 @@ Conociendo la suma ($S$) y el producto ($P$) de las raíces, cualquier función 
 Si desplazamos la parábola $y = x^2$ tres unidades a la derecha y dos hacia arriba, ¿cuál es su nueva ecuación?
 
 ### Opciones
-- [ ] A) $y = (x+3)^2 + 2$ <!-- feedback: El signo +3 desplaza a la izquierda. -->
-- [x] B) $y = (x-3)^2 + 2$ <!-- feedback: Correcto. Desplazamiento horizontal h=+3 (resta en la x) y vertical k=+2 (suma fuera). -->
+- [ ] B) $y = (x+3)^2 + 2$ <!-- feedback: El signo +3 desplaza a la izquierda. -->
+- [x] A) $y = (x-3)^2 + 2$ <!-- feedback: Correcto. Desplazamiento horizontal h=+3 (resta en la x) y vertical k=+2 (suma fuera). -->
 - [ ] C) $y = (x-3)^2 - 2$ <!-- feedback: El -2 desplaza hacia abajo. -->
 - [ ] D) $y = x^2 - 3x + 2$ <!-- feedback: No corresponde a los desplazamientos indicados. -->
 

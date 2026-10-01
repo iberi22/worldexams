@@ -68,9 +68,9 @@ El número de neutrones se calcula restando el número atómico al número mási
 Un átomo neutro en Antofagasta posee número atómico $Z = 6$ y número másico $A = 14$. ¿Cuántos neutrones alberga en su núcleo?
 
 ### Opciones
-- [x] A) $8$ neutrones <!-- feedback: ¡Correcto! N = A - Z = 14 - 6 = 8. -->
-- [ ] B) $6$ neutrones <!-- feedback: Incorrecto. Confundiste el número de neutrones con el número atómico Z. -->
-- [ ] C) $14$ neutrones <!-- feedback: Incorrecto. Tomaste el número másico A completo. -->
+- [x] C) $8$ neutrones <!-- feedback: ¡Correcto! N = A - Z = 14 - 6 = 8. -->
+- [ ] A) $6$ neutrones <!-- feedback: Incorrecto. Confundiste el número de neutrones con el número atómico Z. -->
+- [ ] B) $14$ neutrones <!-- feedback: Incorrecto. Tomaste el número másico A completo. -->
 - [ ] D) $11$ neutrones <!-- feedback: Incorrecto. Calculaste mal la resta. -->
 
 ### Explicacion Pedagogica
@@ -125,10 +125,10 @@ El número de neutrones se calcula restando el número atómico al número mási
 Un átomo neutro en Viña del Mar posee número atómico $Z = 9$ y número másico $A = 20$. ¿Cuántos neutrones alberga en su núcleo?
 
 ### Opciones
-- [x] A) $11$ neutrones <!-- feedback: ¡Correcto! N = A - Z = 20 - 9 = 11. -->
-- [ ] B) $9$ neutrones <!-- feedback: Incorrecto. Confundiste el número de neutrones con el número atómico Z. -->
-- [ ] C) $20$ neutrones <!-- feedback: Incorrecto. Tomaste el número másico A completo. -->
-- [ ] D) $14$ neutrones <!-- feedback: Incorrecto. Calculaste mal la resta. -->
+- [x] D) $11$ neutrones <!-- feedback: ¡Correcto! N = A - Z = 20 - 9 = 11. -->
+- [ ] A) $9$ neutrones <!-- feedback: Incorrecto. Confundiste el número de neutrones con el número atómico Z. -->
+- [ ] B) $20$ neutrones <!-- feedback: Incorrecto. Tomaste el número másico A completo. -->
+- [ ] C) $14$ neutrones <!-- feedback: Incorrecto. Calculaste mal la resta. -->
 
 ### Explicacion Pedagogica
 El número de neutrones se calcula restando el número atómico al número másico: N = A - Z = 20 - 9 = 11.
@@ -144,8 +144,8 @@ El número de neutrones se calcula restando el número atómico al número mási
 Un átomo neutro en Iquique posee número atómico $Z = 10$ y número másico $A = 22$. ¿Cuántos neutrones alberga en su núcleo?
 
 ### Opciones
-- [x] A) $12$ neutrones <!-- feedback: ¡Correcto! N = A - Z = 22 - 10 = 12. -->
-- [ ] B) $10$ neutrones <!-- feedback: Incorrecto. Confundiste el número de neutrones con el número atómico Z. -->
+- [x] B) $12$ neutrones <!-- feedback: ¡Correcto! N = A - Z = 22 - 10 = 12. -->
+- [ ] A) $10$ neutrones <!-- feedback: Incorrecto. Confundiste el número de neutrones con el número atómico Z. -->
 - [ ] C) $22$ neutrones <!-- feedback: Incorrecto. Tomaste el número másico A completo. -->
 - [ ] D) $15$ neutrones <!-- feedback: Incorrecto. Calculaste mal la resta. -->
 
@@ -163,8 +163,8 @@ El número de neutrones se calcula restando el número atómico al número mási
 Un átomo neutro en Rancagua posee número atómico $Z = 11$ y número másico $A = 24$. ¿Cuántos neutrones alberga en su núcleo?
 
 ### Opciones
-- [x] A) $13$ neutrones <!-- feedback: ¡Correcto! N = A - Z = 24 - 11 = 13. -->
-- [ ] B) $11$ neutrones <!-- feedback: Incorrecto. Confundiste el número de neutrones con el número atómico Z. -->
+- [x] B) $13$ neutrones <!-- feedback: ¡Correcto! N = A - Z = 24 - 11 = 13. -->
+- [ ] A) $11$ neutrones <!-- feedback: Incorrecto. Confundiste el número de neutrones con el número atómico Z. -->
 - [ ] C) $24$ neutrones <!-- feedback: Incorrecto. Tomaste el número másico A completo. -->
 - [ ] D) $16$ neutrones <!-- feedback: Incorrecto. Calculaste mal la resta. -->
 
@@ -182,10 +182,10 @@ El número de neutrones se calcula restando el número atómico al número mási
 Un átomo neutro en Talca posee número atómico $Z = 12$ y número másico $A = 26$. ¿Cuántos neutrones alberga en su núcleo?
 
 ### Opciones
-- [x] A) $14$ neutrones <!-- feedback: ¡Correcto! N = A - Z = 26 - 12 = 14. -->
-- [ ] B) $12$ neutrones <!-- feedback: Incorrecto. Confundiste el número de neutrones con el número atómico Z. -->
-- [ ] C) $26$ neutrones <!-- feedback: Incorrecto. Tomaste el número másico A completo. -->
-- [ ] D) $17$ neutrones <!-- feedback: Incorrecto. Calculaste mal la resta. -->
+- [x] D) $14$ neutrones <!-- feedback: ¡Correcto! N = A - Z = 26 - 12 = 14. -->
+- [ ] A) $12$ neutrones <!-- feedback: Incorrecto. Confundiste el número de neutrones con el número atómico Z. -->
+- [ ] B) $26$ neutrones <!-- feedback: Incorrecto. Tomaste el número másico A completo. -->
+- [ ] C) $17$ neutrones <!-- feedback: Incorrecto. Calculaste mal la resta. -->
 
 ### Explicacion Pedagogica
 El número de neutrones se calcula restando el número atómico al número másico: N = A - Z = 26 - 12 = 14.
@@ -220,8 +220,8 @@ El número de neutrones se calcula restando el número atómico al número mási
 Un átomo neutro en Puerto Montt posee número atómico $Z = 14$ y número másico $A = 30$. ¿Cuántos neutrones alberga en su núcleo?
 
 ### Opciones
-- [x] A) $16$ neutrones <!-- feedback: ¡Correcto! N = A - Z = 30 - 14 = 16. -->
-- [ ] B) $14$ neutrones <!-- feedback: Incorrecto. Confundiste el número de neutrones con el número atómico Z. -->
+- [x] B) $16$ neutrones <!-- feedback: ¡Correcto! N = A - Z = 30 - 14 = 16. -->
+- [ ] A) $14$ neutrones <!-- feedback: Incorrecto. Confundiste el número de neutrones con el número atómico Z. -->
 - [ ] C) $30$ neutrones <!-- feedback: Incorrecto. Tomaste el número másico A completo. -->
 - [ ] D) $19$ neutrones <!-- feedback: Incorrecto. Calculaste mal la resta. -->
 
@@ -277,9 +277,9 @@ El número de neutrones se calcula restando el número atómico al número mási
 Un átomo neutro en Valdivia posee número atómico $Z = 17$ y número másico $A = 36$. ¿Cuántos neutrones alberga en su núcleo?
 
 ### Opciones
-- [x] A) $19$ neutrones <!-- feedback: ¡Correcto! N = A - Z = 36 - 17 = 19. -->
-- [ ] B) $17$ neutrones <!-- feedback: Incorrecto. Confundiste el número de neutrones con el número atómico Z. -->
-- [ ] C) $36$ neutrones <!-- feedback: Incorrecto. Tomaste el número másico A completo. -->
+- [x] C) $19$ neutrones <!-- feedback: ¡Correcto! N = A - Z = 36 - 17 = 19. -->
+- [ ] A) $17$ neutrones <!-- feedback: Incorrecto. Confundiste el número de neutrones con el número atómico Z. -->
+- [ ] B) $36$ neutrones <!-- feedback: Incorrecto. Tomaste el número másico A completo. -->
 - [ ] D) $22$ neutrones <!-- feedback: Incorrecto. Calculaste mal la resta. -->
 
 ### Explicacion Pedagogica
@@ -296,10 +296,10 @@ El número de neutrones se calcula restando el número atómico al número mási
 Un átomo neutro en Santiago posee número atómico $Z = 18$ y número másico $A = 38$. ¿Cuántos neutrones alberga en su núcleo?
 
 ### Opciones
-- [x] A) $20$ neutrones <!-- feedback: ¡Correcto! N = A - Z = 38 - 18 = 20. -->
-- [ ] B) $18$ neutrones <!-- feedback: Incorrecto. Confundiste el número de neutrones con el número atómico Z. -->
-- [ ] C) $38$ neutrones <!-- feedback: Incorrecto. Tomaste el número másico A completo. -->
-- [ ] D) $23$ neutrones <!-- feedback: Incorrecto. Calculaste mal la resta. -->
+- [x] D) $20$ neutrones <!-- feedback: ¡Correcto! N = A - Z = 38 - 18 = 20. -->
+- [ ] A) $18$ neutrones <!-- feedback: Incorrecto. Confundiste el número de neutrones con el número atómico Z. -->
+- [ ] B) $38$ neutrones <!-- feedback: Incorrecto. Tomaste el número másico A completo. -->
+- [ ] C) $23$ neutrones <!-- feedback: Incorrecto. Calculaste mal la resta. -->
 
 ### Explicacion Pedagogica
 El número de neutrones se calcula restando el número atómico al número másico: N = A - Z = 38 - 18 = 20.
@@ -315,8 +315,8 @@ El número de neutrones se calcula restando el número atómico al número mási
 Un átomo neutro en Valparaíso posee número atómico $Z = 19$ y número másico $A = 40$. ¿Cuántos neutrones alberga en su núcleo?
 
 ### Opciones
-- [x] A) $21$ neutrones <!-- feedback: ¡Correcto! N = A - Z = 40 - 19 = 21. -->
-- [ ] B) $19$ neutrones <!-- feedback: Incorrecto. Confundiste el número de neutrones con el número atómico Z. -->
+- [x] B) $21$ neutrones <!-- feedback: ¡Correcto! N = A - Z = 40 - 19 = 21. -->
+- [ ] A) $19$ neutrones <!-- feedback: Incorrecto. Confundiste el número de neutrones con el número atómico Z. -->
 - [ ] C) $40$ neutrones <!-- feedback: Incorrecto. Tomaste el número másico A completo. -->
 - [ ] D) $24$ neutrones <!-- feedback: Incorrecto. Calculaste mal la resta. -->
 
@@ -334,9 +334,9 @@ El número de neutrones se calcula restando el número atómico al número mási
 Un átomo neutro en Concepción posee número atómico $Z = 20$ y número másico $A = 42$. ¿Cuántos neutrones alberga en su núcleo?
 
 ### Opciones
-- [x] A) $22$ neutrones <!-- feedback: ¡Correcto! N = A - Z = 42 - 20 = 22. -->
-- [ ] B) $20$ neutrones <!-- feedback: Incorrecto. Confundiste el número de neutrones con el número atómico Z. -->
-- [ ] C) $42$ neutrones <!-- feedback: Incorrecto. Tomaste el número másico A completo. -->
+- [x] C) $22$ neutrones <!-- feedback: ¡Correcto! N = A - Z = 42 - 20 = 22. -->
+- [ ] A) $20$ neutrones <!-- feedback: Incorrecto. Confundiste el número de neutrones con el número atómico Z. -->
+- [ ] B) $42$ neutrones <!-- feedback: Incorrecto. Tomaste el número másico A completo. -->
 - [ ] D) $25$ neutrones <!-- feedback: Incorrecto. Calculaste mal la resta. -->
 
 ### Explicacion Pedagogica
@@ -353,10 +353,10 @@ El número de neutrones se calcula restando el número atómico al número mási
 Un átomo neutro en Antofagasta posee número atómico $Z = 21$ y número másico $A = 44$. ¿Cuántos neutrones alberga en su núcleo?
 
 ### Opciones
-- [x] A) $23$ neutrones <!-- feedback: ¡Correcto! N = A - Z = 44 - 21 = 23. -->
-- [ ] B) $21$ neutrones <!-- feedback: Incorrecto. Confundiste el número de neutrones con el número atómico Z. -->
-- [ ] C) $44$ neutrones <!-- feedback: Incorrecto. Tomaste el número másico A completo. -->
-- [ ] D) $26$ neutrones <!-- feedback: Incorrecto. Calculaste mal la resta. -->
+- [x] D) $23$ neutrones <!-- feedback: ¡Correcto! N = A - Z = 44 - 21 = 23. -->
+- [ ] A) $21$ neutrones <!-- feedback: Incorrecto. Confundiste el número de neutrones con el número atómico Z. -->
+- [ ] B) $44$ neutrones <!-- feedback: Incorrecto. Tomaste el número másico A completo. -->
+- [ ] C) $26$ neutrones <!-- feedback: Incorrecto. Calculaste mal la resta. -->
 
 ### Explicacion Pedagogica
 El número de neutrones se calcula restando el número atómico al número másico: N = A - Z = 44 - 21 = 23.
@@ -391,8 +391,8 @@ El número de neutrones se calcula restando el número atómico al número mási
 Un átomo neutro en La Serena posee número atómico $Z = 23$ y número másico $A = 48$. ¿Cuántos neutrones alberga en su núcleo?
 
 ### Opciones
-- [x] A) $25$ neutrones <!-- feedback: ¡Correcto! N = A - Z = 48 - 23 = 25. -->
-- [ ] B) $23$ neutrones <!-- feedback: Incorrecto. Confundiste el número de neutrones con el número atómico Z. -->
+- [x] B) $25$ neutrones <!-- feedback: ¡Correcto! N = A - Z = 48 - 23 = 25. -->
+- [ ] A) $23$ neutrones <!-- feedback: Incorrecto. Confundiste el número de neutrones con el número atómico Z. -->
 - [ ] C) $48$ neutrones <!-- feedback: Incorrecto. Tomaste el número másico A completo. -->
 - [ ] D) $28$ neutrones <!-- feedback: Incorrecto. Calculaste mal la resta. -->
 

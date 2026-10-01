@@ -30,8 +30,8 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 Qual é a lei de formação do termo geral ($a_n$) de uma Progressão Geométrica (PG) de primeiro termo $a_1$ e razão $q$?
 
 ### Opciones
-- [ ] A) $a_n = a_1 + (n - 1)q$ <!-- feedback: Esta é a fórmula de uma Progressão Aritmética. -->
-- [x] B) $a_n = a_1 \cdot q^{n-1}$ <!-- feedback: Correto. Em uma PG, cada termo é obtido multiplicando o anterior pela razão q. -->
+- [ ] B) $a_n = a_1 + (n - 1)q$ <!-- feedback: Esta é a fórmula de uma Progressão Aritmética. -->
+- [x] A) $a_n = a_1 \cdot q^{n-1}$ <!-- feedback: Correto. Em uma PG, cada termo é obtido multiplicando o anterior pela razão q. -->
 - [ ] C) $a_n = a_1 \cdot q^n$ <!-- feedback: Erro: o primeiro termo não deve ser multiplicado pela razão (q elevado a 0 é 1). -->
 - [ ] D) $a_n = (a_1 \cdot q)^{n-1}$ <!-- feedback: A potência deve ser aplicada apenas à razão q. -->
 
@@ -50,9 +50,9 @@ Uma Progressão Geométrica de termos positivos é considerada **decrescente** q
 
 ### Opciones
 - [ ] A) $q > 1$ <!-- feedback: Se q > 1, os termos aumentam a cada passo (PG crescente). -->
-- [x] B) $0 < q < 1$ <!-- feedback: Correto. Multiplicar um número positivo por uma fração entre 0 e 1 resulta em um valor menor. -->
-- [ ] C) $q = 1$ <!-- feedback: Se q = 1, a PG é constante ou estacionária. -->
-- [ ] D) $q < 0$ <!-- feedback: Se q < 0, os termos alternam de sinal (PG oscilante ou alternada). -->
+- [x] D) $0 < q < 1$ <!-- feedback: Correto. Multiplicar um número positivo por uma fração entre 0 e 1 resulta em um valor menor. -->
+- [ ] B) $q = 1$ <!-- feedback: Se q = 1, a PG é constante ou estacionária. -->
+- [ ] C) $q < 0$ <!-- feedback: Se q < 0, os termos alternam de sinal (PG oscilante ou alternada). -->
 
 ### Explicacion Pedagogica
 Para uma PG de termos positivos, se a razão está entre 0 e 1, cada novo termo é uma fração do anterior, fazendo com que os valores da sequência diminuam gradualmente em direção a zero.
@@ -69,9 +69,9 @@ Dada a PG $(4, 12, 36, 108, ...)$, qual é o valor da razão $q$?
 
 ### Opciones
 - [ ] A) 8 <!-- feedback: 8 é a diferença entre os dois primeiros termos, mas PG usa razão multiplicativa. -->
-- [x] B) 3 <!-- feedback: q = 12 / 4 = 3. -->
-- [ ] C) 4 <!-- feedback: 4 é o primeiro termo, não a razão. -->
-- [ ] D) 2 <!-- feedback: Se a razão fosse 2, o segundo termo seria 8. -->
+- [x] D) 3 <!-- feedback: q = 12 / 4 = 3. -->
+- [ ] B) 4 <!-- feedback: 4 é o primeiro termo, não a razão. -->
+- [ ] C) 2 <!-- feedback: Se a razão fosse 2, o segundo termo seria 8. -->
 
 ### Explicacion Pedagogica
 A razão $q$ de uma PG é encontrada dividindo um termo pelo seu antecessor imediato: $q = a_2 / a_1$. No caso, $12 / 4 = 3$.
@@ -127,8 +127,8 @@ Se uma bola é solta de 10 metros e a cada quique atinge 80\% da altura anterior
 ### Opciones
 - [ ] A) 8 m <!-- feedback: Esta é a altura após o primeiro quique. -->
 - [ ] B) 6,4 m <!-- feedback: Esta é a altura após o segundo quique. -->
-- [x] C) 5,12 m <!-- feedback: a1=10, q=0,8. a_após_3 = 10 * 0,8³ = 10 * 0,512 = 5,12. -->
-- [ ] D) 4 m <!-- feedback: Incorreto. -->
+- [x] D) 5,12 m <!-- feedback: a1=10, q=0,8. a_após_3 = 10 * 0,8³ = 10 * 0,512 = 5,12. -->
+- [ ] C) 4 m <!-- feedback: Incorreto. -->
 
 ### Explicacion Pedagogica
 A altura inicial é o "termo zero" ou podemos considerar a sequência das alturas após os quiques: $a_1 = 10 \cdot 0,8 = 8$. Após o terceiro quique: $a_3 = a_1 \cdot q^2 = 8 \cdot (0,8)^2 = 8 \cdot 0,64 = 5,12$ metros.
@@ -145,9 +145,9 @@ Qual é a soma dos 5 primeiros termos da PG $(2, 6, 18, ...)$?
 
 ### Opciones
 - [ ] A) 80 <!-- feedback: Valor muito baixo para a sequência dada. -->
-- [x] B) 242 <!-- feedback: S5 = 2(3⁵ - 1) / (3 - 1) = 2(243 - 1) / 2 = 242. -->
-- [ ] C) 484 <!-- feedback: Esqueceu de simplificar a divisão por (q-1). -->
-- [ ] D) 162 <!-- feedback: Este é apenas o valor do 5º termo, não a soma. -->
+- [x] D) 242 <!-- feedback: S5 = 2(3⁵ - 1) / (3 - 1) = 2(243 - 1) / 2 = 242. -->
+- [ ] B) 484 <!-- feedback: Esqueceu de simplificar a divisão por (q-1). -->
+- [ ] C) 162 <!-- feedback: Este é apenas o valor do 5º termo, não a soma. -->
 
 ### Explicacion Pedagogica
 Usamos a fórmula $S_n = \frac{a_1(q^n - 1)}{q - 1}$. Para $a_1 = 2, q = 3$ e $n = 5$: $S_5 = \frac{2(3^5 - 1)}{3 - 1} = \frac{2(243 - 1)}{2} = 242$.
@@ -182,9 +182,9 @@ Para uma PG infinita com $|q| < 1$, a soma converge para $S = \frac{a_1}{1 - q}$
 Se o primeiro quadrado tem lado 16, qual é o valor da área do quinto quadrado da sequência?
 
 ### Opciones
-- [ ] A) 4 <!-- feedback: Este seria o lado do terceiro quadrado. -->
-- [ ] B) 0,5 <!-- feedback: Incorreto. -->
-- [x] C) 1 <!-- feedback: Lado 5º = 16 * (1/2)⁴ = 1. Área = 1² = 1. -->
+- [ ] B) 4 <!-- feedback: Este seria o lado do terceiro quadrado. -->
+- [ ] C) 0,5 <!-- feedback: Incorreto. -->
+- [x] A) 1 <!-- feedback: Lado 5º = 16 * (1/2)⁴ = 1. Área = 1² = 1. -->
 - [ ] D) 0,25 <!-- feedback: Incorreto. -->
 
 ### Explicacion Pedagogica
@@ -220,8 +220,8 @@ Em uma PG de três termos, o quadrado do termo médio é igual ao produto dos ex
 Qual é a soma dos 10 primeiros termos da PG $(1, 2, 4, ...)$?
 
 ### Opciones
-- [ ] A) 511 <!-- feedback: Valor incorreto. -->
-- [x] B) 1.023 <!-- feedback: S10 = 1 * (2¹⁰ - 1) / (2 - 1) = 1024 - 1 = 1023. -->
+- [ ] B) 511 <!-- feedback: Valor incorreto. -->
+- [x] A) 1.023 <!-- feedback: S10 = 1 * (2¹⁰ - 1) / (2 - 1) = 1024 - 1 = 1023. -->
 - [ ] C) 1.024 <!-- feedback: Este é o valor do 11º termo, não a soma dos 10 primeiros. -->
 - [ ] D) 2.047 <!-- feedback: Valor incorreto. -->
 
@@ -259,8 +259,8 @@ Numa PG de termos positivos, o quarto termo é 54 e o primeiro termo é 2. Qual 
 Expresse a dízima periódica $0,333...$ como a soma de uma PG infinita e determine sua fração geratriz.
 
 ### Opciones
-- [ ] A) $\frac{3}{10}$ <!-- feedback: Este é o decimal exato 0,3. -->
-- [x] B) $\frac{1}{3}$ <!-- feedback: a1=0,3, q=0,1. S = 0,3 / (1 - 0,1) = 0,3 / 0,9 = 3/9 = 1/3. -->
+- [ ] B) $\frac{3}{10}$ <!-- feedback: Este é o decimal exato 0,3. -->
+- [x] A) $\frac{1}{3}$ <!-- feedback: a1=0,3, q=0,1. S = 0,3 / (1 - 0,1) = 0,3 / 0,9 = 3/9 = 1/3. -->
 - [ ] C) $\frac{3}{11}$ <!-- feedback: Incorreto. -->
 - [ ] D) $\frac{1}{9}$ <!-- feedback: Este seria 0,111... -->
 
@@ -279,8 +279,8 @@ Numa PG de 9 termos, o produto do primeiro com o último termo é 100. Qual é o
 
 ### Opciones
 - [ ] A) 50 <!-- feedback: Incorreto. -->
-- [x] B) 10 <!-- feedback: Pela propriedade, a1*a9 = a5² = 100. Logo a5 = 10. -->
-- [ ] C) 5 <!-- feedback: Incorreto. -->
+- [x] C) 10 <!-- feedback: Pela propriedade, a1*a9 = a5² = 100. Logo a5 = 10. -->
+- [ ] B) 5 <!-- feedback: Incorreto. -->
 - [ ] D) 20 <!-- feedback: Incorreto. -->
 
 ### Explicacion Pedagogica
@@ -297,8 +297,8 @@ Em uma PG finita com número ímpar de termos, o produto dos termos equidistante
 Determine a razão de uma PG onde $a_1 = 5$ e $a_4 = 625$.
 
 ### Opciones
-- [ ] A) 25 <!-- feedback: Se q=25, o segundo termo já seria 125. -->
-- [x] B) 5 <!-- feedback: 625 = 5 * q³ => 125 = q³ => q = 5. -->
+- [ ] B) 25 <!-- feedback: Se q=25, o segundo termo já seria 125. -->
+- [x] A) 5 <!-- feedback: 625 = 5 * q³ => 125 = q³ => q = 5. -->
 - [ ] C) 4 <!-- feedback: Se q=4, o quarto termo seria 5 * 64 = 320. -->
 - [ ] D) 10 <!-- feedback: Incorreto. -->
 
@@ -317,9 +317,9 @@ Se a sequência $(\log a, \log b, \log c)$ é uma PA, então o que se pode afirm
 
 ### Opciones
 - [ ] A) É uma PA de razão 10. <!-- feedback: Incorreto. -->
-- [x] B) É uma PG. <!-- feedback: Em PA: 2 log b = log a + log c => log b² = log(ac) => b² = ac. Esta é a condição de PG. -->
-- [ ] C) É uma sequência constante. <!-- feedback: Somente se a razão da PA fosse zero. -->
-- [ ] D) É uma sequência aleatória. <!-- feedback: Existe uma relação estrutural clara. -->
+- [x] D) É uma PG. <!-- feedback: Em PA: 2 log b = log a + log c => log b² = log(ac) => b² = ac. Esta é a condição de PG. -->
+- [ ] B) É uma sequência constante. <!-- feedback: Somente se a razão da PA fosse zero. -->
+- [ ] C) É uma sequência aleatória. <!-- feedback: Existe uma relação estrutural clara. -->
 
 ### Explicacion Pedagogica
 Pela definição de PA: $2 \cdot \log b = \log a + \log c$. Usando propriedades de logaritmos: $\log b^2 = \log(a \cdot c)$. Isso implica $b^2 = a \cdot c$, que é exatamente a condição para que $a, b, c$ formem uma PG.
@@ -354,9 +354,9 @@ Identificamos $a_1 = 1$ e $q = -1/2$. Como $|q| < 1$, aplicamos a fórmula da so
 Calcule o produto dos 10 primeiros termos da PG $(1, 2, 4, 8, ...)$.
 
 ### Opciones
-- [ ] A) $2^{10}$ <!-- feedback: Este é apenas o 11º termo. -->
-- [ ] B) $2^{55}$ <!-- feedback: A soma dos expoentes de 0 a 9 é 45, não 55. -->
-- [x] C) $2^{45}$ <!-- feedback: P = 2⁰ * 2¹ * ... * 2⁹ = 2^(0+1+...+9) = 2^45. -->
+- [ ] B) $2^{10}$ <!-- feedback: Este é apenas o 11º termo. -->
+- [ ] C) $2^{55}$ <!-- feedback: A soma dos expoentes de 0 a 9 é 45, não 55. -->
+- [x] A) $2^{45}$ <!-- feedback: P = 2⁰ * 2¹ * ... * 2⁹ = 2^(0+1+...+9) = 2^45. -->
 - [ ] D) $2^{100}$ <!-- feedback: Valor excessivo. -->
 
 ### Explicacion Pedagogica
@@ -392,9 +392,9 @@ Representamos a PG como $(\frac{x}{q}, x, x \cdot q)$. O produto é $(\frac{x}{q
 Considere um quadrado de área $S$. Divide-se o quadrado em 4 quadrados iguais e pinta-se um deles. Repete-se o processo com um dos quadrados não pintados, infinitamente. Qual é a área total pintada ao final do processo?
 
 ### Opciones
-- [ ] A) $S/2$ <!-- feedback: Incorreto. -->
-- [ ] B) $S$ <!-- feedback: Nem toda a área será pintada, pois em cada etapa sobra uma parte significativa. -->
-- [x] C) $S/3$ <!-- feedback: PG: a1=S/4, q=1/4. Soma = (S/4) / (1 - 1/4) = (S/4) / (3/4) = S/3. -->
+- [ ] B) $S/2$ <!-- feedback: Incorreto. -->
+- [ ] C) $S$ <!-- feedback: Nem toda a área será pintada, pois em cada etapa sobra uma parte significativa. -->
+- [x] A) $S/3$ <!-- feedback: PG: a1=S/4, q=1/4. Soma = (S/4) / (1 - 1/4) = (S/4) / (3/4) = S/3. -->
 - [ ] D) $2S/3$ <!-- feedback: Incorreto. -->
 
 ### Explicacion Pedagogica

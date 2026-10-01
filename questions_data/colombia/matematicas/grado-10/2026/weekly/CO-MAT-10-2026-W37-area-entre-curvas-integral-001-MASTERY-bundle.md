@@ -32,9 +32,9 @@ Este bundle contiene 12 preguntas sobre **area-entre-curvas-integral** para grad
 ### Enunciado
 ¿Cuál de las siguientes expresiones representa el área entre dos curvas continuas $y = f(x)$ y $y = g(x)$ con $f(x) \geq g(x)$ en $[a, b]$?
 ### Opciones
-- [ ] A) $\int_a^b [f(x) + g(x)]\, dx$
+- [ ] B) $\int_a^b [f(x) + g(x)]\, dx$
   <!-- feedback: Incorrecto. Sumaste las funciones; lo correcto es restar la inferior a la superior. -->
-- [x] B) $\int_a^b [f(x) - g(x)]\, dx$
+- [x] A) $\int_a^b [f(x) - g(x)]\, dx$
   <!-- feedback: Correcto. El área entre curvas es la integral de la diferencia entre la curva superior y la inferior. -->
 - [ ] C) $\int_a^b f(x)\, dx - \int_a^b g(x)\, dx \cdot g(x)$
   <!-- feedback: Incorrecto. La expresión no tiene sentido dimensional ni operativo. -->
@@ -54,11 +54,11 @@ Cuando $f(x) \geq g(x)$ en $[a, b]$, el área encerrada entre las curvas se obti
 ### Opciones
 - [ ] A) El volumen generado al rotar las curvas alrededor del eje $x$.
   <!-- feedback: Incorrecto. Para volúmenes se usa otra técnica de integración. -->
-- [x] B) El área de la región limitada por las gráficas de $f$ y $g$ entre $x = a$ y $x = b$.
+- [x] D) El área de la región limitada por las gráficas de $f$ y $g$ entre $x = a$ y $x = b$.
   <!-- feedback: Correcto. La integral de la diferencia entrega el área entre las curvas en ese intervalo. -->
-- [ ] C) La longitud del arco de $f$ entre $a$ y $b$.
+- [ ] B) La longitud del arco de $f$ entre $a$ y $b$.
   <!-- feedback: Incorrecto. La longitud de arco se calcula con otra fórmula. -->
-- [ ] D) El valor promedio de $f$ en $[a, b]$.
+- [ ] C) El valor promedio de $f$ en $[a, b]$.
   <!-- feedback: Incorrecto. El valor promedio se obtiene dividiendo la integral entre $(b - a)$. -->
 ### Explicacion Pedagogica
 La integral definida de la diferencia de dos funciones en un intervalo entrega el área de la región encerrada entre ambas curvas en ese intervalo, lo que conecta el concepto de integral con una medida geométrica.
@@ -72,9 +72,9 @@ La integral definida de la diferencia de dos funciones en un intervalo entrega e
 ### Enunciado
 ¿Cuál es la diferencia $f(x) - g(x)$ que se debe integrar en ese intervalo?
 ### Opciones
-- [ ] A) $x^2 + 2x + 3$
+- [ ] B) $x^2 + 2x + 3$
   <!-- feedback: Incorrecto. Sumaste los términos en lugar de restarlos. -->
-- [x] B) $x^2 - 2x + 3$
+- [x] A) $x^2 - 2x + 3$
   <!-- feedback: Correcto. $(x^2 + 4) - (2x + 1) = x^2 - 2x + 3$. -->
 - [ ] C) $-x^2 + 2x - 3$
   <!-- feedback: Incorrecto. Obtuviste el negativo de la diferencia correcta. -->
@@ -112,13 +112,13 @@ Como $x \geq x^2$ en $[0, 1]$, el área es $\int_0^1 (x - x^2)\, dx = \frac{1}{2
 ### Enunciado
 Si $R_1(t) \geq R_2(t)$ en ese intervalo, ¿cuál es el "excedente" acumulado de $R_1$ sobre $R_2$ en millones de COP?
 ### Opciones
-- [ ] A) $40$ millones de COP
+- [ ] B) $40$ millones de COP
   <!-- feedback: Incorrecto. Sumaste las integrales en lugar de restar. -->
-- [ ] B) $\frac{20}{3}$ millones de COP
+- [ ] C) $\frac{20}{3}$ millones de COP
   <!-- feedback: Incorrecto. Ese valor corresponde a otra integral distinta. -->
-- [ ] C) $10$ millones de COP
+- [ ] D) $10$ millones de COP
   <!-- feedback: Incorrecto. El cálculo no corresponde a esta integral. -->
-- [x] D) $\frac{118}{3}$ millones de COP, aproximadamente $39.33$ millones.
+- [x] A) $\frac{118}{3}$ millones de COP, aproximadamente $39.33$ millones.
   <!-- feedback: Correcto. $\int_1^3 (-t^2 + 8t + 8)\, dt = \left[-\frac{t^3}{3} + 4t^2 + 8t\right]_1^3 = 51 - \frac{35}{3} = \frac{118}{3} \approx 39.33$ millones de COP. -->
 ### Explicacion Pedagogica
 El excedente acumulado equivale a $\int_1^3 [(8t + 10) - (t^2 + 2)]\, dt = \int_1^3 (-t^2 + 8t + 8)\, dt$. Evaluando: $\left[-\frac{t^3}{3} + 4t^2 + 8t\right]_1^3 = \left(-9 + 36 + 24\right) - \left(-\frac{1}{3} + 4 + 8\right) = 51 - \frac{35}{3} = \frac{118}{3}$, es decir, aproximadamente $39.33$ millones de COP en el intervalo.
@@ -132,9 +132,9 @@ El excedente acumulado equivale a $\int_1^3 [(8t + 10) - (t^2 + 2)]\, dt = \int_
 ### Enunciado
 Primero se obtienen los puntos de intersección resolviendo $4 - x^2 = x^2 - 2x$. ¿Cuáles son estos puntos?
 ### Opciones
-- [ ] A) $x = -2$ y $x = 1$
+- [ ] B) $x = -2$ y $x = 1$
   <!-- feedback: Incorrecto. Esos puntos no satisfacen la igualdad original. -->
-- [x] B) $x = -1$ y $x = 2$
+- [x] A) $x = -1$ y $x = 2$
   <!-- feedback: Correcto. $2x^2 - 2x - 4 = 0$ da $x^2 - x - 2 = 0$, cuyas raíces son $x = -1$ y $x = 2$. -->
 - [ ] C) $x = 0$ y $x = 4$
   <!-- feedback: Incorrecto. Esos puntos no satisfacen la ecuación. -->
@@ -154,11 +154,11 @@ Igualar las funciones lleva a $4 - x^2 = x^2 - 2x$, es decir, $2x^2 - 2x - 4 = 0
 ### Opciones
 - [ ] A) En todo el intervalo $[-2, 2]$ sin ninguna verificación.
   <!-- feedback: Incorrecto. Aunque aquí sí se cumple, falta justificar resolviendo la desigualdad. -->
-- [x] B) En todo el intervalo $[-2, 2]$, porque resolver $6 - x^2 \geq x$ da $-3 \leq x \leq 2$ y ese rango contiene a $[-2, 2]$.
+- [x] D) En todo el intervalo $[-2, 2]$, porque resolver $6 - x^2 \geq x$ da $-3 \leq x \leq 2$ y ese rango contiene a $[-2, 2]$.
   <!-- feedback: Correcto. La parábola está por encima de la recta en todo $[-2, 2]$ porque la inecuación $6 - x^2 \geq x$ se cumple para $-3 \leq x \leq 2$. -->
-- [ ] C) Solo en $x = 0$.
+- [ ] B) Solo en $x = 0$.
   <!-- feedback: Incorrecto. Hay un rango más amplio donde se cumple la desigualdad. -->
-- [ ] D) Nunca; la recta siempre está por encima.
+- [ ] C) Nunca; la recta siempre está por encima.
   <!-- feedback: Incorrecto. En $x = 0$, la parábola da $6$ y la recta $0$; la parábola está muy por encima. -->
 ### Explicacion Pedagogica
 Resolver $6 - x^2 \geq x$ lleva a $x^2 + x - 6 \leq 0$, es decir, $(x + 3)(x - 2) \leq 0$. La solución es $-3 \leq x \leq 2$. Intersectando con $[-2, 2]$, obtenemos $[-2, 2]$ donde la parábola está por encima de la recta en todo el intervalo.
@@ -174,9 +174,9 @@ Resolver $6 - x^2 \geq x$ lleva a $x^2 + x - 6 \leq 0$, es decir, $(x + 3)(x - 2
 ### Opciones
 - [ ] A) Es correcta, porque la integral siempre da el área, sin importar el orden.
   <!-- feedback: Incorrecto. Si inviertes el orden, el resultado cambia de signo y deja de representar un área. -->
-- [x] B) Es incorrecta; se debe integrar la diferencia entre la curva superior y la inferior para obtener un valor positivo de área.
+- [x] C) Es incorrecta; se debe integrar la diferencia entre la curva superior y la inferior para obtener un valor positivo de área.
   <!-- feedback: Correcto. Integrar la diferencia en el orden equivocado puede dar un valor negativo, lo que no representa área. -->
-- [ ] C) Es correcta solo si las curvas no se cruzan en el intervalo.
+- [ ] B) Es correcta solo si las curvas no se cruzan en el intervalo.
   <!-- feedback: Incorrecto. El principio de orden superior/inferior aplica siempre. -->
 - [ ] D) Es correcta si las curvas son funciones lineales.
   <!-- feedback: Incorrecto. El orden superior/inferior aplica para todo tipo de funciones. -->
@@ -254,9 +254,9 @@ Ella nota que en $[0, 1]$, $x \geq x^3$. ¿Cuál es el área correcta y por qué
 ### Opciones
 - [ ] A) $\int_0^1 (x^3 - x)\, dx = -\frac{5}{12}$, así que el área es $\frac{5}{12}$.
   <!-- feedback: Incorrecto. Integraste en el orden equivocado, pero al menos obtuviste el signo correcto. Faltó verificar el orden. -->
-- [x] B) $\int_0^1 (x - x^3)\, dx = \frac{1}{2} - \frac{1}{4} = \frac{1}{4}$, porque en ese intervalo $x \geq x^3$.
+- [x] C) $\int_0^1 (x - x^3)\, dx = \frac{1}{2} - \frac{1}{4} = \frac{1}{4}$, porque en ese intervalo $x \geq x^3$.
   <!-- feedback: Correcto. La diferencia correcta es $x - x^3$, y su integral en $[0, 1]$ da $\frac{1}{4}$. -->
-- [ ] C) $1$ porque las curvas coinciden en los extremos.
+- [ ] B) $1$ porque las curvas coinciden en los extremos.
   <!-- feedback: Incorrecto. La coincidencia en extremos no implica que el área sea 1. -->
 - [ ] D) No se puede calcular porque las curvas no se intersectan en el interior.
   <!-- feedback: Incorrecto. Sí se intersectan en $x = 0$ y $x = 1$, pero el área interior está bien definida. -->

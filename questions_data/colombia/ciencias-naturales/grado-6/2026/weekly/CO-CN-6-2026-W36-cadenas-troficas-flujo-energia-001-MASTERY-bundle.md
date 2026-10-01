@@ -34,9 +34,9 @@ Este bundle de 10 preguntas estudia las cadenas tróficas y el flujo de energía
 ¿Qué es una cadena trófica?
 
 ### Opciones
-- [x] A) La secuencia que muestra cómo se transfiere la energía y el alimento de los productores a los herbívoros y luego a los carnívoros
+- [x] B) La secuencia que muestra cómo se transfiere la energía y el alimento de los productores a los herbívoros y luego a los carnívoros
   <!-- feedback: Correcto. La cadena trófica representa el paso del alimento y la energía. -->
-- [ ] B) La lista de todos los seres vivos que habitan en un ecosistema determinado
+- [ ] A) La lista de todos los seres vivos que habitan en un ecosistema determinado
   <!-- feedback: Incorrecto. Esa lista corresponde a un inventario de especies, no a una cadena trófica. -->
 - [ ] C) El recorrido del agua desde las nubes hasta los ríos y el mar
   <!-- feedback: Incorrecto. Ese proceso es el ciclo del agua. -->
@@ -57,9 +57,9 @@ Una cadena trófica es una representación sencilla de las relaciones alimentari
 ¿Qué papel cumplen las plantas en una cadena trófica?
 
 ### Opciones
-- [x] A) Son productoras: captan la energía de la luz solar y fabrican su propio alimento mediante la fotosíntesis
+- [x] B) Son productoras: captan la energía de la luz solar y fabrican su propio alimento mediante la fotosíntesis
   <!-- feedback: Correcto. Los productores inician la cadena trófica. -->
-- [ ] B) Son consumidoras primarias, porque se alimentan de los insectos del suelo
+- [ ] A) Son consumidoras primarias, porque se alimentan de los insectos del suelo
   <!-- feedback: Incorrecto. Las plantas fabrican su alimento y no cazan insectos. -->
 - [ ] C) Son descomponedoras, porque transforman la materia muerta en minerales
   <!-- feedback: Incorrecto. Ese papel lo cumplen hongos y bacterias. -->
@@ -80,13 +80,13 @@ Las plantas, las algas y algunas bacterias son productores: transforman la energ
 ¿Cuál es el orden correcto de una cadena trófica en ese humedal?
 
 ### Opciones
-- [x] A) Fitoplancton, pez herbívoro y garza
+- [x] D) Fitoplancton, pez herbívoro y garza
   <!-- feedback: Correcto. Va del productor al herbívoro y luego al carnívoro. -->
-- [ ] B) Garza, pez herbívoro y fitoplancton
+- [ ] A) Garza, pez herbívoro y fitoplancton
   <!-- feedback: Incorrecto. La cadena debe empezar en el productor, no en el depredador. -->
-- [ ] C) Pez herbívoro, fitoplancton y garza
+- [ ] B) Pez herbívoro, fitoplancton y garza
   <!-- feedback: Incorrecto. El fitoplancton es el productor y debe ir primero. -->
-- [ ] D) Bacterias del lodo, garza y fitoplancton
+- [ ] C) Bacterias del lodo, garza y fitoplancton
   <!-- feedback: Incorrecto. Las bacterias actúan al final, como descomponedoras. -->
 
 ### Explicacion Pedagogica
@@ -103,11 +103,11 @@ Para construir una cadena trófica se ordena el flujo de energía: primero los p
 Según esta regla, ¿cuánta energía llega aproximadamente a los herbívoros?
 
 ### Opciones
-- [x] A) 1.000 unidades de energía
+- [x] C) 1.000 unidades de energía
   <!-- feedback: Correcto. El 10 por ciento de 10.000 es 1.000. -->
-- [ ] B) 10.000 unidades de energía, es decir, la misma cantidad
+- [ ] A) 10.000 unidades de energía, es decir, la misma cantidad
   <!-- feedback: Incorrecto. En cada transferencia se pierde energía, no se conserva toda. -->
-- [ ] C) 100 unidades de energía
+- [ ] B) 100 unidades de energía
   <!-- feedback: Incorrecto. Ese valor correspondería al siguiente nivel, no a los herbívoros. -->
 - [ ] D) 5.000 unidades de energía, es decir, la mitad
   <!-- feedback: Incorrecto. La proporción que se transfiere es mucho menor. -->
@@ -126,9 +126,9 @@ Aplicar la regla del 10 por ciento permite estimar la energía disponible en cad
 ¿Qué efecto se espera sobre las aves del cultivo?
 
 ### Opciones
-- [x] A) Disminuirán porque al reducirse los insectos, que son su alimento, tendrán menos energía disponible para sobrevivir y reproducirse
+- [x] B) Disminuirán porque al reducirse los insectos, que son su alimento, tendrán menos energía disponible para sobrevivir y reproducirse
   <!-- feedback: Correcto. Al faltar el nivel anterior de la cadena, el consumidor se ve afectado. -->
-- [ ] B) Aumentarán, porque habrá más espacio libre en el cultivo
+- [ ] A) Aumentarán, porque habrá más espacio libre en el cultivo
   <!-- feedback: Incorrecto. El espacio no reemplaza el alimento que se perdió. -->
 - [ ] C) Se mantendrán igual, porque las aves no dependen de los insectos
   <!-- feedback: Incorrecto. Los insectos son su alimento principal en ese lugar. -->
@@ -149,11 +149,11 @@ Los niveles de una cadena trófica están encadenados: si se reduce el alimento 
 ¿Qué análisis explica por qué la pirámide de energía tiene forma triangular?
 
 ### Opciones
-- [x] A) Porque en cada transferencia una gran parte de la energía se usa en los procesos vitales y se disipa como calor, de modo que cada nivel dispone de menos energía que el anterior
+- [x] C) Porque en cada transferencia una gran parte de la energía se usa en los procesos vitales y se disipa como calor, de modo que cada nivel dispone de menos energía que el anterior
   <!-- feedback: Correcto. La pérdida de energía explica la forma de la pirámide. -->
-- [ ] B) Porque cada nivel trófico pesa menos que el anterior, sin importar la energía
+- [ ] A) Porque cada nivel trófico pesa menos que el anterior, sin importar la energía
   <!-- feedback: Incorrecto. La pirámide representa energía disponible, no peso corporal. -->
-- [ ] C) Porque el número de especies disminuye siempre hacia la cima
+- [ ] B) Porque el número de especies disminuye siempre hacia la cima
   <!-- feedback: Incorrecto. La forma depende de la energía, aunque el número de individuos suela acompañar el patrón. -->
 - [ ] D) Porque los depredadores producen energía nueva para el ecosistema
   <!-- feedback: Incorrecto. Solo los productores captan energía nueva; los consumidores la transfieren. -->
@@ -172,11 +172,11 @@ La energía entra al ecosistema por los productores y se transfiere de un nivel 
 ¿Qué análisis explica por qué la red trófica representa mejor la realidad del ecosistema?
 
 ### Opciones
-- [x] A) Porque en la naturaleza un mismo consumidor suele alimentarse de varios organismos y puede ocupar distintos niveles, de modo que las cadenas se cruzan formando una red
+- [x] C) Porque en la naturaleza un mismo consumidor suele alimentarse de varios organismos y puede ocupar distintos niveles, de modo que las cadenas se cruzan formando una red
   <!-- feedback: Correcto. La red trófica refleja las múltiples relaciones alimentarias. -->
-- [ ] B) Porque en la naturaleza cada animal solo consume una especie y nunca cambia de dieta
+- [ ] A) Porque en la naturaleza cada animal solo consume una especie y nunca cambia de dieta
   <!-- feedback: Incorrecto. La mayoría de los animales consume varios tipos de alimento. -->
-- [ ] C) Porque la red trófica muestra solo los nombres de las plantas del lugar
+- [ ] B) Porque la red trófica muestra solo los nombres de las plantas del lugar
   <!-- feedback: Incorrecto. La red incluye productores, consumidores y descomponedores. -->
 - [ ] D) Porque la red trófica elimina a los descomponedores del ecosistema
   <!-- feedback: Incorrecto. Los descomponedores también hacen parte de las relaciones tróficas. -->
@@ -195,11 +195,11 @@ En un ecosistema real las relaciones alimentarias no son líneas aisladas: un in
 ¿Qué análisis explica las consecuencias de esa desaparición?
 
 ### Opciones
-- [x] A) Los restos de plantas y animales se acumularían sin descomponerse y los nutrientes no volverían al suelo, lo que afectaría a los productores y a toda la cadena trófica
+- [x] C) Los restos de plantas y animales se acumularían sin descomponerse y los nutrientes no volverían al suelo, lo que afectaría a los productores y a toda la cadena trófica
   <!-- feedback: Correcto. Los descomponedores cierran el ciclo de la materia. -->
-- [ ] B) No ocurriría ningún cambio, porque los descomponedores no participan en el ecosistema
+- [ ] A) No ocurriría ningún cambio, porque los descomponedores no participan en el ecosistema
   <!-- feedback: Incorrecto. Los descomponedores son indispensables para reciclar la materia. -->
-- [ ] C) Aumentaría el alimento de los productores, porque el suelo quedaría libre
+- [ ] B) Aumentaría el alimento de los productores, porque el suelo quedaría libre
   <!-- feedback: Incorrecto. Sin descomposición, los nutrientes quedan retenidos en los restos. -->
 - [ ] D) Los herbívoros se convertirían en productores mediante la fotosíntesis
   <!-- feedback: Incorrecto. Los herbívoros no realizan fotosíntesis. -->
@@ -218,11 +218,11 @@ Los descomponedores transforman los restos y desechos en sustancias simples, que
 ¿Qué evaluación conjunta de las tres afirmaciones es correcta?
 
 ### Opciones
-- [x] A) Las tres afirmaciones son verdaderas, porque la energía fluye en un sentido y se pierde en parte como calor, mientras que la materia se recicla por acción de los descomponedores
+- [x] C) Las tres afirmaciones son verdaderas, porque la energía fluye en un sentido y se pierde en parte como calor, mientras que la materia se recicla por acción de los descomponedores
   <!-- feedback: Correcto. Distingue el flujo unidireccional de la energía del ciclo de la materia. -->
-- [ ] B) Solo la 1 es verdadera, porque la energía y los nutrientes siguen el mismo camino
+- [ ] A) Solo la 1 es verdadera, porque la energía y los nutrientes siguen el mismo camino
   <!-- feedback: Incorrecto. El reciclaje de nutrientes es distinto del flujo de energía. -->
-- [ ] C) Solo la 3 es verdadera, porque la energía nunca se pierde en el ecosistema
+- [ ] B) Solo la 3 es verdadera, porque la energía nunca se pierde en el ecosistema
   <!-- feedback: Incorrecto. La energía sí se disipa en forma de calor. -->
 - [ ] D) Las tres afirmaciones son falsas, porque los productores no participan en el flujo de energía
   <!-- feedback: Incorrecto. Los productores son la puerta de entrada de la energía. -->
@@ -241,13 +241,13 @@ Evaluar estas afirmaciones exige distinguir dos procesos: la energía entra como
 ¿Qué medida conviene priorizar para recuperar la cadena trófica del río?
 
 ### Opciones
-- [x] A) Restaurar la vegetación de las riberas y regular la pesca para no extraer más de lo que las poblaciones pueden reponerse, porque así se protege la base de la cadena y el flujo de energía
+- [x] D) Restaurar la vegetación de las riberas y regular la pesca para no extraer más de lo que las poblaciones pueden reponerse, porque así se protege la base de la cadena y el flujo de energía
   <!-- feedback: Correcto. Conservar el hábitat y pescar de forma sostenible mantiene la cadena trófica. -->
-- [ ] B) Aumentar la captura de peces con redes más finas para compensar la escasez
+- [ ] A) Aumentar la captura de peces con redes más finas para compensar la escasez
   <!-- feedback: Incorrecto. Extraer más agrava la disminución de las poblaciones de peces. -->
-- [ ] C) Introducir una especie depredadora nueva para llenar el vacío del río
+- [ ] B) Introducir una especie depredadora nueva para llenar el vacío del río
   <!-- feedback: Incorrecto. Las especies introducidas pueden alterar y dañar la red trófica nativa. -->
-- [ ] D) Esperar a que los peces se reproduzcan sin cambiar las prácticas actuales
+- [ ] C) Esperar a que los peces se reproduzcan sin cambiar las prácticas actuales
   <!-- feedback: Incorrecto. Sin recuperar el hábitat ni ordenar la pesca, la situación se mantiene. -->
 
 ### Explicacion Pedagogica

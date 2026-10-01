@@ -34,9 +34,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Cuál es la distancia d entre los puntos A y B?
 
 ### Opciones
-- [x] A) d = 5 unidades
+- [x] B) d = 5 unidades
   <!-- feedback: ¡Correcto! d = √[(4-1)² + (6-2)²] = √[3² + 4²] = √[9 + 16] = √25 = 5. -->
-- [ ] B) d = 7 unidades
+- [ ] A) d = 7 unidades
   <!-- feedback: Incorrecto. Sumaste las diferencias horizontales y verticales sin aplicar el Teorema de Pitágoras. -->
 - [ ] C) d = √14 unidades
   <!-- feedback: Incorrecto. Restaste los cuadrados de las coordenadas. -->
@@ -58,11 +58,11 @@ La fórmula de distancia entre dos puntos (x₁, y₁) y (x₂, y₂) es d = √
 ¿Cuál es el valor numérico de la pendiente m?
 
 ### Opciones
-- [x] A) m = 2
+- [x] C) m = 2
   <!-- feedback: ¡Correcto! m = (13 - 5) / (6 - 2) = 8 / 4 = 2. -->
-- [ ] B) m = 1/2
+- [ ] A) m = 1/2
   <!-- feedback: Incorrecto. Invertiste la fórmula dividiendo la variación horizontal entre la vertical. -->
-- [ ] C) m = 4
+- [ ] B) m = 4
   <!-- feedback: Incorrecto. Restaste las coordenadas sin aplicar el cociente correcto. -->
 - [ ] D) m = -2
   <!-- feedback: Incorrecto. Cometiste un error de signo al restar las ordenadas. -->
@@ -82,11 +82,11 @@ La pendiente m se calcula como m = (y₂ - y₁) / (x₂ - x₁). Sustituyendo P
 ¿Cuál es la ecuación explícita de la recta?
 
 ### Opciones
-- [x] A) y = -3x + 7
+- [x] C) y = -3x + 7
   <!-- feedback: ¡Correcto! En la forma y = mx + b, sustituimos m = -3 y la ordenada al origen b = 7. -->
-- [ ] B) y = 3x - 7
+- [ ] A) y = 3x - 7
   <!-- feedback: Incorrecto. Erraste en los signos de la pendiente y de la constante. -->
-- [ ] C) y = 7x - 3
+- [ ] B) y = 7x - 3
   <!-- feedback: Incorrecto. Intercambiaste la pendiente con el intercepto. -->
 - [ ] D) y = -3x - 7
   <!-- feedback: Incorrecto. Asignaste signo negativo a la constante b = 7. -->
@@ -106,11 +106,11 @@ La forma pendiente-intercepto es y = mx + b. Como m = -3 y el punto (0, 7) da di
 ¿Cuáles son el centro C(h, k) y el radio r de la circunferencia?
 
 ### Opciones
-- [x] A) Centro C(3, -4) y radio r = 6
+- [x] C) Centro C(3, -4) y radio r = 6
   <!-- feedback: ¡Correcto! Comparando con (x - h)² + (y - k)² = r²: h = 3, k = -4 y r = √36 = 6. -->
-- [ ] B) Centro C(-3, 4) y radio r = 36
+- [ ] A) Centro C(-3, 4) y radio r = 36
   <!-- feedback: Incorrecto. Invertiste los signos del centro y no sacaste raíz cuadrada al radio. -->
-- [ ] C) Centro C(3, 4) y radio r = 6
+- [ ] B) Centro C(3, 4) y radio r = 6
   <!-- feedback: Incorrecto. Erraste en el signo de la ordenada k del centro. -->
 - [ ] D) Centro C(-3, -4) y radio r = 12
   <!-- feedback: Incorrecto. Erraste en el cálculo del radio r. -->
@@ -130,11 +130,11 @@ La ecuación ordinaria es (x - h)² + (y - k)² = r². Así, el centro es (3, -4
 ¿Cuáles son las coordenadas del foco F y la ecuación de la directriz?
 
 ### Opciones
-- [x] A) Foco F(3, 0) y directriz x = -3
+- [x] C) Foco F(3, 0) y directriz x = -3
   <!-- feedback: ¡Correcto! 4p = 12 ⇒ p = 3. La parábola abre a la derecha: F(3, 0) y directriz x = -3. -->
-- [ ] B) Foco F(0, 3) y directriz y = -3
+- [ ] A) Foco F(0, 3) y directriz y = -3
   <!-- feedback: Incorrecto. Confundiste la parábola horizontal con una vertical. -->
-- [ ] C) Foco F(6, 0) y directriz x = -6
+- [ ] B) Foco F(6, 0) y directriz x = -6
   <!-- feedback: Incorrecto. Dividiste 12 entre 2 en lugar de 4 al despejar p. -->
 - [ ] D) Foco F(-3, 0) y directriz x = 3
   <!-- feedback: Incorrecto. Invertiste el sentido de apertura de la parábola. -->
@@ -178,13 +178,13 @@ En x²/a² + y²/b² = 1: a = 5, b = 3. Relación focal: c² = a² - b² = 25 - 
 ¿Cuáles son las ecuaciones de las dos asíntotas?
 
 ### Opciones
-- [x] A) y = ±(3/4)x
+- [x] D) y = ±(3/4)x
   <!-- feedback: ¡Correcto! Para la hipérbola x²/a² - y²/b² = 1, las asíntotas son y = ±(b/a)x. Como a = 4 y b = 3, y = ±(3/4)x. -->
-- [ ] B) y = ±(4/3)x
+- [ ] A) y = ±(4/3)x
   <!-- feedback: Incorrecto. Invertiste el coeficiente de la pendiente usas a/b. -->
-- [ ] C) y = ±(9/16)x
+- [ ] B) y = ±(9/16)x
   <!-- feedback: Incorrecto. Usaste los cuadrados b²/a² sin extraer raíz cuadrada. -->
-- [ ] D) y = ±(16/9)x
+- [ ] C) y = ±(16/9)x
   <!-- feedback: Incorrecto. Usaste a²/b² sin extraer raíz cuadrada. -->
 
 ### Explicacion Pedagogica
@@ -202,13 +202,13 @@ La hipérbola horizontal x²/a² - y²/b² = 1 tiene asíntotas y = ±(b/a)x. Co
 ¿Cuáles son las coordenadas del punto medio M?
 
 ### Opciones
-- [x] A) M(1, 3)
+- [x] D) M(1, 3)
   <!-- feedback: ¡Correcto! M = ((-4 + 6)/2, (8 - 2)/2) = (2/2, 6/2) = (1, 3). -->
-- [ ] B) M(2, 6)
+- [ ] A) M(2, 6)
   <!-- feedback: Incorrecto. Olvidaste dividir entre 2 la suma de las coordenadas. -->
-- [ ] C) M(-5, 5)
+- [ ] B) M(-5, 5)
   <!-- feedback: Incorrecto. Restaste las coordenadas en lugar de promediarlas. -->
-- [ ] D) M(5, 3)
+- [ ] C) M(5, 3)
   <!-- feedback: Incorrecto. Erraste en la suma de las abscisas -4 + 6. -->
 
 ### Explicacion Pedagogica
@@ -226,11 +226,11 @@ La fórmula del punto medio es M = ((x₁ + x₂)/2, (y₁ + y₂)/2). Para (-4,
 ¿Cuál es el ángulo de inclinación θ en grados sexagesimales?
 
 ### Opciones
-- [x] A) θ = 45°
+- [x] C) θ = 45°
   <!-- feedback: ¡Correcto! m = 1. tan(θ) = 1 ⇒ θ = arctan(1) = 45°. -->
-- [ ] B) θ = 90°
+- [ ] A) θ = 90°
   <!-- feedback: Incorrecto. 90° corresponde a una recta vertical de pendiente indefinida. -->
-- [ ] C) θ = 30°
+- [ ] B) θ = 30°
   <!-- feedback: Incorrecto. tan(30°) = 1/√3 ≈ 0,577, no 1. -->
 - [ ] D) θ = 60°
   <!-- feedback: Incorrecto. tan(60°) = √3 ≈ 1,732, no 1. -->
@@ -250,9 +250,9 @@ La relación entre pendiente y ángulo de inclinación es m = tan(θ). Como m = 
 ¿Cuál es la relación geométrica entre las rectas L₁ y L₂?
 
 ### Opciones
-- [x] A) Son paralelas distintas (m₁ = m₂ = 2/3)
+- [x] B) Son paralelas distintas (m₁ = m₂ = 2/3)
   <!-- feedback: ¡Correcto! m₁ = 2/3 y m₂ = 4/6 = 2/3. Tienen pendientes iguales y constantes no proporcionales. -->
-- [ ] B) Son perpendiculares entre sí
+- [ ] A) Son perpendiculares entre sí
   <!-- feedback: Incorrecto. El producto de las pendientes no es -1. -->
 - [ ] C) Son coincidentes
   <!-- feedback: Incorrecto. Las constantes 6 y -5 no son proporcionales a los coeficientes. -->
@@ -274,11 +274,11 @@ m₁ = -A/B = -2/(-3) = 2/3. m₂ = -4/(-6) = 2/3. Como m₁ = m₂ y las consta
 ¿Cuál es la distancia perpendicular d de P a la recta?
 
 ### Opciones
-- [x] A) d = 4 unidades
+- [x] C) d = 4 unidades
   <!-- feedback: ¡Correcto! d = |3(3) + 4(4) - 5| / √(3² + 4²) = |9 + 16 - 5| / √25 = 20 / 5 = 4. -->
-- [ ] B) d = 5 unidades
+- [ ] A) d = 5 unidades
   <!-- feedback: Incorrecto. Erraste en la simplificación del numerador. -->
-- [ ] C) d = 20 unidades
+- [ ] B) d = 20 unidades
   <!-- feedback: Incorrecto. Olvidaste dividir entre el módulo de la normal √25 = 5. -->
 - [ ] D) d = 2 unidades
   <!-- feedback: Incorrecto. Cometiste un error de resta en el numerador. -->
@@ -346,9 +346,9 @@ Como el vértice es (2, 3) y el foco (2, 5), la parábola es vertical abre hacia
 ¿Cuáles son las coordenadas de los vértices sobre el eje mayor?
 
 ### Opciones
-- [x] A) V₁(5, 0) y V₂(-5, 0)
+- [x] B) V₁(5, 0) y V₂(-5, 0)
   <!-- feedback: ¡Correcto! Dividiendo entre 225: x²/25 + y²/9 = 1. a² = 25 ⇒ a = 5. Vértices en (±5, 0). -->
-- [ ] B) V₁(3, 0) y V₂(-3, 0)
+- [ ] A) V₁(3, 0) y V₂(-3, 0)
   <!-- feedback: Incorrecto. Tomaste el semieje menor b = 3. -->
 - [ ] C) V₁(0, 5) y V₂(0, -5)
   <!-- feedback: Incorrecto. Ubicaste los vértices en el eje vertical. -->
@@ -370,9 +370,9 @@ Dividiendo entre 225 resulta x²/25 + y²/9 = 1. Como 25 > 9, el eje mayor es ho
 ¿Cuáles son las coordenadas de los focos F₁ y F₂?
 
 ### Opciones
-- [x] A) F₁(0, 5) y F₂(0, -5)
+- [x] B) F₁(0, 5) y F₂(0, -5)
   <!-- feedback: ¡Correcto! Eje focal vertical. a² = 16, b² = 9. c² = 16 + 9 = 25 ⇒ c = 5. Focos en (0, ±5). -->
-- [ ] B) F₁(5, 0) y F₂(-5, 0)
+- [ ] A) F₁(5, 0) y F₂(-5, 0)
   <!-- feedback: Incorrecto. Ubicaste los focos en el eje horizontal. -->
 - [ ] C) F₁(0, 7) y F₂(0, -7)
   <!-- feedback: Incorrecto. Restaste los denominadores en lugar de sumarlos. -->
@@ -394,9 +394,9 @@ Hipérbola vertical: y²/16 - x²/9 = 1. c² = a² + b² = 16 + 9 = 25 ⇒ c = 5
 ¿Cuál es la ecuación general Ax + By + C = 0?
 
 ### Opciones
-- [x] A) x + 2y - 9 = 0
+- [x] B) x + 2y - 9 = 0
   <!-- feedback: ¡Correcto! m perpendicular = -1/2. y - 4 = -1/2(x - 1) ⇒ 2y - 8 = -x + 1 ⇒ x + 2y - 9 = 0. -->
-- [ ] B) 2x + y - 6 = 0
+- [ ] A) 2x + y - 6 = 0
   <!-- feedback: Incorrecto. Usaste la misma pendiente m = 2. -->
 - [ ] C) x - 2y + 7 = 0
   <!-- feedback: Incorrecto. Erraste en el signo de la pendiente perpendicular. -->
@@ -418,9 +418,9 @@ m₁ = 2 ⇒ m₂ = -1/2. Ecuación punto-pendiente: y - 4 = -1/2(x - 1) ⇒ 2y 
 ¿Cuáles son los puntos de intersección entre la recta y la parábola?
 
 ### Opciones
-- [x] A) (2, 3) y (-1, 0)
+- [x] B) (2, 3) y (-1, 0)
   <!-- feedback: ¡Correcto! x + 1 = x² - 1 ⇒ x² - x - 2 = 0 ⇒ (x - 2)(x + 1) = 0 ⇒ (2, 3) y (-1, 0). -->
-- [ ] B) (1, 2) y (-2, -1)
+- [ ] A) (1, 2) y (-2, -1)
   <!-- feedback: Incorrecto. Factorizaste mal el trinomio x² - x - 2. -->
 - [ ] C) (2, 0) y (-1, 3)
   <!-- feedback: Incorrecto. Intercambiaste las ordenadas correspondientes. -->
@@ -442,13 +442,13 @@ Igualando y: x² - 1 = x + 1 ⇒ x² - x - 2 = 0 ⇒ (x - 2)(x + 1) = 0 ⇒ x = 
 ¿Cuál es el área del triángulo en unidades cuadradas?
 
 ### Opciones
-- [x] A) Área = 12 u²
+- [x] D) Área = 12 u²
   <!-- feedback: ¡Correcto! Base = 6, altura h = 4. Área = (6 × 4) / 2 = 12 u². -->
-- [ ] B) Área = 24 u²
+- [ ] A) Área = 24 u²
   <!-- feedback: Incorrecto. Olvidaste dividir entre 2 la base por la altura. -->
-- [ ] C) Área = 8 u²
+- [ ] B) Área = 8 u²
   <!-- feedback: Incorrecto. Multiplicaste erróneamente las coordenadas de C. -->
-- [ ] D) Área = 16 u²
+- [ ] C) Área = 16 u²
   <!-- feedback: Incorrecto. Erraste en la medida de la altura perpendicular. -->
 
 ### Explicacion Pedagogica
@@ -466,11 +466,11 @@ El segmento AB sobre el eje x mide b = 6. La altura desde C(2, 4) es h = 4. Áre
 ¿Cuál es la longitud L del lado recto?
 
 ### Opciones
-- [x] A) L = 2 unidades
+- [x] C) L = 2 unidades
   <!-- feedback: ¡Correcto! a² = 16 (a = 4), b² = 4. Lado recto L = 2b²/a = 2(4)/4 = 2 unidades. -->
-- [ ] B) L = 4 unidades
+- [ ] A) L = 4 unidades
   <!-- feedback: Incorrecto. Olvidaste dividir entre a = 4. -->
-- [ ] C) L = 1 unidad
+- [ ] B) L = 1 unidad
   <!-- feedback: Incorrecto. Dividiste b² entre a². -->
 - [ ] D) L = 8 unidades
   <!-- feedback: Incorrecto. Multiplicaste a · b en lugar de aplicar la fórmula. -->
@@ -490,9 +490,9 @@ La longitud del lado recto en la elipse es L = 2b² / a. Con a = 4 y b² = 4: L 
 ¿Cuáles son los valores posibles de k?
 
 ### Opciones
-- [x] A) k = 15 o k = -15
+- [x] B) k = 15 o k = -15
   <!-- feedback: ¡Correcto! Distancia del centro (0,0) a la recta: |k| / √(4² + 3²) = 3 ⇒ |k| / 5 = 3 ⇒ |k| = 15 ⇒ k = ±15. -->
-- [ ] B) k = 9 o k = -9
+- [ ] A) k = 9 o k = -9
   <!-- feedback: Incorrecto. Usaste r² = 9 en lugar del radio r = 3. -->
 - [ ] C) k = 25 o k = -25
   <!-- feedback: Incorrecto. Elevaste al cuadrado la distancia. -->

@@ -35,10 +35,10 @@ Este bundle evalúa conceptos clave de Sistemas de Ecuaciones Lineales alineados
 ¿Cuándo se considera que un sistema de dos ecuaciones lineales con dos incógnitas es consistente?
 
 ### Opciones
-- [x] A) Cuando el sistema tiene al menos una solución común para ambas incógnitas. <!-- feedback: ¡Correcto! Un sistema es consistente o compatible si posee solución (única o infinitas). -->
-- [ ] B) Cuando no existe ningún par de números reales que satisfaga ambas ecuaciones simultáneamente. <!-- feedback: Incorrecto. Eso describe un sistema inconsistente o incompatible. -->
-- [ ] C) Cuando las rectas representadas en el plano cartesiano son estrictamente paralelas. <!-- feedback: Incorrecto. Las rectas paralelas no tienen puntos de intersección, lo que representa un sistema inconsistente. -->
-- [ ] D) Cuando una de las variables tiene coeficientes nulos en todas las ecuaciones. <!-- feedback: Incorrecto. Eso reduce el sistema de variables de manera trivial. -->
+- [x] D) Cuando el sistema tiene al menos una solución común para ambas incógnitas. <!-- feedback: ¡Correcto! Un sistema es consistente o compatible si posee solución (única o infinitas). -->
+- [ ] A) Cuando no existe ningún par de números reales que satisfaga ambas ecuaciones simultáneamente. <!-- feedback: Incorrecto. Eso describe un sistema inconsistente o incompatible. -->
+- [ ] B) Cuando las rectas representadas en el plano cartesiano son estrictamente paralelas. <!-- feedback: Incorrecto. Las rectas paralelas no tienen puntos de intersección, lo que representa un sistema inconsistente. -->
+- [ ] C) Cuando una de las variables tiene coeficientes nulos en todas las ecuaciones. <!-- feedback: Incorrecto. Eso reduce el sistema de variables de manera trivial. -->
 
 ### Explicacion Pedagogica
 Un sistema consistente de ecuaciones lineales es aquel que posee solución (una o infinitas).
@@ -80,10 +80,10 @@ El método de sustitución consiste en despejar una de las variables en una de l
 En Luque. Jorge compró chipas y empanadas. El primer día compró 1 chipa y 2 empanadas por un total de ₲ 40.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?
 
 ### Opciones
-- [x] A) ₲ 10.000 <!-- feedback: ¡Correcto! Restando las ecuaciones se obtiene que 1 empanadas cuestan 10,000 ₲, por lo que cada una cuesta 10.000 ₲. -->
-- [ ] B) ₲ 5.000 <!-- feedback: Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales. -->
-- [ ] C) ₲ 12.000 <!-- feedback: Incorrecto. El valor calculado no satisface las condiciones de compra. -->
-- [ ] D) ₲ 8.000 <!-- feedback: Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar. -->
+- [x] D) ₲ 10.000 <!-- feedback: ¡Correcto! Restando las ecuaciones se obtiene que 1 empanadas cuestan 10,000 ₲, por lo que cada una cuesta 10.000 ₲. -->
+- [ ] A) ₲ 5.000 <!-- feedback: Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales. -->
+- [ ] B) ₲ 12.000 <!-- feedback: Incorrecto. El valor calculado no satisface las condiciones de compra. -->
+- [ ] C) ₲ 8.000 <!-- feedback: Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar. -->
 
 ### Explicacion Pedagogica
 Planteamos el sistema: $x + 2y = 40000$ y $x + y = 30000$. Restando ambas ecuaciones elimina $x$: $(1)y = 10000 \implies y = 10.000$ Guaraníes.
@@ -101,9 +101,9 @@ Planteamos el sistema: $x + 2y = 40000$ y $x + y = 30000$. Restando ambas ecuaci
 En Encarnación. Liz compró chipas y empanadas. El primer día compró 1 chipa y 3 empanadas por un total de ₲ 50.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?
 
 ### Opciones
-- [x] A) ₲ 10.000 <!-- feedback: ¡Correcto! Restando las ecuaciones se obtiene que 2 empanadas cuestan 20,000 ₲, por lo que cada una cuesta 10.000 ₲. -->
-- [ ] B) ₲ 5.000 <!-- feedback: Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales. -->
-- [ ] C) ₲ 12.000 <!-- feedback: Incorrecto. El valor calculado no satisface las condiciones de compra. -->
+- [x] C) ₲ 10.000 <!-- feedback: ¡Correcto! Restando las ecuaciones se obtiene que 2 empanadas cuestan 20,000 ₲, por lo que cada una cuesta 10.000 ₲. -->
+- [ ] A) ₲ 5.000 <!-- feedback: Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales. -->
+- [ ] B) ₲ 12.000 <!-- feedback: Incorrecto. El valor calculado no satisface las condiciones de compra. -->
 - [ ] D) ₲ 8.000 <!-- feedback: Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar. -->
 
 ### Explicacion Pedagogica
@@ -122,9 +122,9 @@ Planteamos el sistema: $x + 3y = 50000$ y $x + y = 30000$. Restando ambas ecuaci
 En Ciudad del Este. Gladys compró chipas y empanadas. El primer día compró 1 chipa y 4 empanadas por un total de ₲ 60.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?
 
 ### Opciones
-- [x] A) ₲ 10.000 <!-- feedback: ¡Correcto! Restando las ecuaciones se obtiene que 3 empanadas cuestan 30,000 ₲, por lo que cada una cuesta 10.000 ₲. -->
-- [ ] B) ₲ 5.000 <!-- feedback: Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales. -->
-- [ ] C) ₲ 12.000 <!-- feedback: Incorrecto. El valor calculado no satisface las condiciones de compra. -->
+- [x] C) ₲ 10.000 <!-- feedback: ¡Correcto! Restando las ecuaciones se obtiene que 3 empanadas cuestan 30,000 ₲, por lo que cada una cuesta 10.000 ₲. -->
+- [ ] A) ₲ 5.000 <!-- feedback: Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales. -->
+- [ ] B) ₲ 12.000 <!-- feedback: Incorrecto. El valor calculado no satisface las condiciones de compra. -->
 - [ ] D) ₲ 8.000 <!-- feedback: Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar. -->
 
 ### Explicacion Pedagogica
@@ -185,9 +185,9 @@ Planteamos el sistema: $x + 3y = 50000$ y $x + y = 30000$. Restando ambas ecuaci
 En Coronel Oviedo. Gustavo compró chipas y empanadas. El primer día compró 1 chipa y 4 empanadas por un total de ₲ 60.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?
 
 ### Opciones
-- [x] A) ₲ 10.000 <!-- feedback: ¡Correcto! Restando las ecuaciones se obtiene que 3 empanadas cuestan 30,000 ₲, por lo que cada una cuesta 10.000 ₲. -->
-- [ ] B) ₲ 5.000 <!-- feedback: Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales. -->
-- [ ] C) ₲ 12.000 <!-- feedback: Incorrecto. El valor calculado no satisface las condiciones de compra. -->
+- [x] C) ₲ 10.000 <!-- feedback: ¡Correcto! Restando las ecuaciones se obtiene que 3 empanadas cuestan 30,000 ₲, por lo que cada una cuesta 10.000 ₲. -->
+- [ ] A) ₲ 5.000 <!-- feedback: Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales. -->
+- [ ] B) ₲ 12.000 <!-- feedback: Incorrecto. El valor calculado no satisface las condiciones de compra. -->
 - [ ] D) ₲ 8.000 <!-- feedback: Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar. -->
 
 ### Explicacion Pedagogica
@@ -206,8 +206,8 @@ Planteamos el sistema: $x + 4y = 60000$ y $x + y = 30000$. Restando ambas ecuaci
 En Concepción. Natalia compró chipas y empanadas. El primer día compró 1 chipa y 2 empanadas por un total de ₲ 40.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?
 
 ### Opciones
-- [x] A) ₲ 10.000 <!-- feedback: ¡Correcto! Restando las ecuaciones se obtiene que 1 empanadas cuestan 10,000 ₲, por lo que cada una cuesta 10.000 ₲. -->
-- [ ] B) ₲ 5.000 <!-- feedback: Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales. -->
+- [x] B) ₲ 10.000 <!-- feedback: ¡Correcto! Restando las ecuaciones se obtiene que 1 empanadas cuestan 10,000 ₲, por lo que cada una cuesta 10.000 ₲. -->
+- [ ] A) ₲ 5.000 <!-- feedback: Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales. -->
 - [ ] C) ₲ 12.000 <!-- feedback: Incorrecto. El valor calculado no satisface las condiciones de compra. -->
 - [ ] D) ₲ 8.000 <!-- feedback: Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar. -->
 
@@ -227,8 +227,8 @@ Planteamos el sistema: $x + 2y = 40000$ y $x + y = 30000$. Restando ambas ecuaci
 En Villarrica. Carlos compró chipas y empanadas. El primer día compró 1 chipa y 3 empanadas por un total de ₲ 50.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?
 
 ### Opciones
-- [x] A) ₲ 10.000 <!-- feedback: ¡Correcto! Restando las ecuaciones se obtiene que 2 empanadas cuestan 20,000 ₲, por lo que cada una cuesta 10.000 ₲. -->
-- [ ] B) ₲ 5.000 <!-- feedback: Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales. -->
+- [x] B) ₲ 10.000 <!-- feedback: ¡Correcto! Restando las ecuaciones se obtiene que 2 empanadas cuestan 20,000 ₲, por lo que cada una cuesta 10.000 ₲. -->
+- [ ] A) ₲ 5.000 <!-- feedback: Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales. -->
 - [ ] C) ₲ 12.000 <!-- feedback: Incorrecto. El valor calculado no satisface las condiciones de compra. -->
 - [ ] D) ₲ 8.000 <!-- feedback: Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar. -->
 
@@ -248,10 +248,10 @@ Planteamos el sistema: $x + 3y = 50000$ y $x + y = 30000$. Restando ambas ecuaci
 En Asunción. Ramón compró chipas y empanadas. El primer día compró 1 chipa y 4 empanadas por un total de ₲ 60.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?
 
 ### Opciones
-- [x] A) ₲ 10.000 <!-- feedback: ¡Correcto! Restando las ecuaciones se obtiene que 3 empanadas cuestan 30,000 ₲, por lo que cada una cuesta 10.000 ₲. -->
-- [ ] B) ₲ 5.000 <!-- feedback: Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales. -->
-- [ ] C) ₲ 12.000 <!-- feedback: Incorrecto. El valor calculado no satisface las condiciones de compra. -->
-- [ ] D) ₲ 8.000 <!-- feedback: Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar. -->
+- [x] D) ₲ 10.000 <!-- feedback: ¡Correcto! Restando las ecuaciones se obtiene que 3 empanadas cuestan 30,000 ₲, por lo que cada una cuesta 10.000 ₲. -->
+- [ ] A) ₲ 5.000 <!-- feedback: Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales. -->
+- [ ] B) ₲ 12.000 <!-- feedback: Incorrecto. El valor calculado no satisface las condiciones de compra. -->
+- [ ] C) ₲ 8.000 <!-- feedback: Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar. -->
 
 ### Explicacion Pedagogica
 Planteamos el sistema: $x + 4y = 60000$ y $x + y = 30000$. Restando ambas ecuaciones elimina $x$: $(3)y = 30000 \implies y = 10.000$ Guaraníes.
@@ -269,9 +269,9 @@ Planteamos el sistema: $x + 4y = 60000$ y $x + y = 30000$. Restando ambas ecuaci
 En San Lorenzo. María compró chipas y empanadas. El primer día compró 1 chipa y 2 empanadas por un total de ₲ 40.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?
 
 ### Opciones
-- [x] A) ₲ 10.000 <!-- feedback: ¡Correcto! Restando las ecuaciones se obtiene que 1 empanadas cuestan 10,000 ₲, por lo que cada una cuesta 10.000 ₲. -->
-- [ ] B) ₲ 5.000 <!-- feedback: Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales. -->
-- [ ] C) ₲ 12.000 <!-- feedback: Incorrecto. El valor calculado no satisface las condiciones de compra. -->
+- [x] C) ₲ 10.000 <!-- feedback: ¡Correcto! Restando las ecuaciones se obtiene que 1 empanadas cuestan 10,000 ₲, por lo que cada una cuesta 10.000 ₲. -->
+- [ ] A) ₲ 5.000 <!-- feedback: Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales. -->
+- [ ] B) ₲ 12.000 <!-- feedback: Incorrecto. El valor calculado no satisface las condiciones de compra. -->
 - [ ] D) ₲ 8.000 <!-- feedback: Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar. -->
 
 ### Explicacion Pedagogica
@@ -290,9 +290,9 @@ Planteamos el sistema: $x + 2y = 40000$ y $x + y = 30000$. Restando ambas ecuaci
 En Luque. Jorge compró chipas y empanadas. El primer día compró 1 chipa y 3 empanadas por un total de ₲ 50.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?
 
 ### Opciones
-- [x] A) ₲ 10.000 <!-- feedback: ¡Correcto! Restando las ecuaciones se obtiene que 2 empanadas cuestan 20,000 ₲, por lo que cada una cuesta 10.000 ₲. -->
-- [ ] B) ₲ 5.000 <!-- feedback: Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales. -->
-- [ ] C) ₲ 12.000 <!-- feedback: Incorrecto. El valor calculado no satisface las condiciones de compra. -->
+- [x] C) ₲ 10.000 <!-- feedback: ¡Correcto! Restando las ecuaciones se obtiene que 2 empanadas cuestan 20,000 ₲, por lo que cada una cuesta 10.000 ₲. -->
+- [ ] A) ₲ 5.000 <!-- feedback: Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales. -->
+- [ ] B) ₲ 12.000 <!-- feedback: Incorrecto. El valor calculado no satisface las condiciones de compra. -->
 - [ ] D) ₲ 8.000 <!-- feedback: Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar. -->
 
 ### Explicacion Pedagogica
@@ -311,9 +311,9 @@ Planteamos el sistema: $x + 3y = 50000$ y $x + y = 30000$. Restando ambas ecuaci
 En Encarnación. Liz compró chipas y empanadas. El primer día compró 1 chipa y 4 empanadas por un total de ₲ 60.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?
 
 ### Opciones
-- [x] A) ₲ 10.000 <!-- feedback: ¡Correcto! Restando las ecuaciones se obtiene que 3 empanadas cuestan 30,000 ₲, por lo que cada una cuesta 10.000 ₲. -->
-- [ ] B) ₲ 5.000 <!-- feedback: Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales. -->
-- [ ] C) ₲ 12.000 <!-- feedback: Incorrecto. El valor calculado no satisface las condiciones de compra. -->
+- [x] C) ₲ 10.000 <!-- feedback: ¡Correcto! Restando las ecuaciones se obtiene que 3 empanadas cuestan 30,000 ₲, por lo que cada una cuesta 10.000 ₲. -->
+- [ ] A) ₲ 5.000 <!-- feedback: Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales. -->
+- [ ] B) ₲ 12.000 <!-- feedback: Incorrecto. El valor calculado no satisface las condiciones de compra. -->
 - [ ] D) ₲ 8.000 <!-- feedback: Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar. -->
 
 ### Explicacion Pedagogica
@@ -374,10 +374,10 @@ Planteamos el sistema: $x + 3y = 50000$ y $x + y = 30000$. Restando ambas ecuaci
 En Pilar. Patricia compró chipas y empanadas. El primer día compró 1 chipa y 4 empanadas por un total de ₲ 60.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?
 
 ### Opciones
-- [x] A) ₲ 10.000 <!-- feedback: ¡Correcto! Restando las ecuaciones se obtiene que 3 empanadas cuestan 30,000 ₲, por lo que cada una cuesta 10.000 ₲. -->
-- [ ] B) ₲ 5.000 <!-- feedback: Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales. -->
-- [ ] C) ₲ 12.000 <!-- feedback: Incorrecto. El valor calculado no satisface las condiciones de compra. -->
-- [ ] D) ₲ 8.000 <!-- feedback: Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar. -->
+- [x] D) ₲ 10.000 <!-- feedback: ¡Correcto! Restando las ecuaciones se obtiene que 3 empanadas cuestan 30,000 ₲, por lo que cada una cuesta 10.000 ₲. -->
+- [ ] A) ₲ 5.000 <!-- feedback: Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales. -->
+- [ ] B) ₲ 12.000 <!-- feedback: Incorrecto. El valor calculado no satisface las condiciones de compra. -->
+- [ ] C) ₲ 8.000 <!-- feedback: Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar. -->
 
 ### Explicacion Pedagogica
 Planteamos el sistema: $x + 4y = 60000$ y $x + y = 30000$. Restando ambas ecuaciones elimina $x$: $(3)y = 30000 \implies y = 10.000$ Guaraníes.
@@ -395,9 +395,9 @@ Planteamos el sistema: $x + 4y = 60000$ y $x + y = 30000$. Restando ambas ecuaci
 En Coronel Oviedo. Gustavo compró chipas y empanadas. El primer día compró 1 chipa y 2 empanadas por un total de ₲ 40.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?
 
 ### Opciones
-- [x] A) ₲ 10.000 <!-- feedback: ¡Correcto! Restando las ecuaciones se obtiene que 1 empanadas cuestan 10,000 ₲, por lo que cada una cuesta 10.000 ₲. -->
-- [ ] B) ₲ 5.000 <!-- feedback: Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales. -->
-- [ ] C) ₲ 12.000 <!-- feedback: Incorrecto. El valor calculado no satisface las condiciones de compra. -->
+- [x] C) ₲ 10.000 <!-- feedback: ¡Correcto! Restando las ecuaciones se obtiene que 1 empanadas cuestan 10,000 ₲, por lo que cada una cuesta 10.000 ₲. -->
+- [ ] A) ₲ 5.000 <!-- feedback: Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales. -->
+- [ ] B) ₲ 12.000 <!-- feedback: Incorrecto. El valor calculado no satisface las condiciones de compra. -->
 - [ ] D) ₲ 8.000 <!-- feedback: Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar. -->
 
 ### Explicacion Pedagogica
@@ -416,9 +416,9 @@ Planteamos el sistema: $x + 2y = 40000$ y $x + y = 30000$. Restando ambas ecuaci
 En Concepción. Natalia compró chipas y empanadas. El primer día compró 1 chipa y 3 empanadas por un total de ₲ 50.000. El segundo día compró 1 chipa y 1 empanada por ₲ 30.000. ¿Cuánto cuesta cada empanada ($y$) en Guaraníes?
 
 ### Opciones
-- [x] A) ₲ 10.000 <!-- feedback: ¡Correcto! Restando las ecuaciones se obtiene que 2 empanadas cuestan 20,000 ₲, por lo que cada una cuesta 10.000 ₲. -->
-- [ ] B) ₲ 5.000 <!-- feedback: Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales. -->
-- [ ] C) ₲ 12.000 <!-- feedback: Incorrecto. El valor calculado no satisface las condiciones de compra. -->
+- [x] C) ₲ 10.000 <!-- feedback: ¡Correcto! Restando las ecuaciones se obtiene que 2 empanadas cuestan 20,000 ₲, por lo que cada una cuesta 10.000 ₲. -->
+- [ ] A) ₲ 5.000 <!-- feedback: Incorrecto. Verifique el planteo de su sistema de ecuaciones lineales. -->
+- [ ] B) ₲ 12.000 <!-- feedback: Incorrecto. El valor calculado no satisface las condiciones de compra. -->
 - [ ] D) ₲ 8.000 <!-- feedback: Incorrecto. Reemplace los valores en las ecuaciones originales para comprobar. -->
 
 ### Explicacion Pedagogica

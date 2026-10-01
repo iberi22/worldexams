@@ -34,13 +34,13 @@ Tipos de mezclas (homogéneas y heterogéneas) y métodos físicos para separar 
 ¿Cuál es la diferencia entre una mezcla homogénea y una mezcla heterogénea?
 
 ### Opciones
-- [x] A) En la homogénea no se distinguen sus componentes a simple vista; en la heterogénea sí se distinguen.
+- [x] D) En la homogénea no se distinguen sus componentes a simple vista; en la heterogénea sí se distinguen.
   <!-- feedback: Las mezclas homogéneas se ven uniformes, mientras que las heterogéneas muestran sus componentes a simple vista. -->
-- [ ] B) En la homogénea se ven los componentes separados, en la heterogénea no se ven.
+- [ ] A) En la homogénea se ven los componentes separados, en la heterogénea no se ven.
   <!-- feedback: Es al revés: en las heterogéneas se ven los componentes, no en las homogéneas. -->
-- [ ] C) Las mezclas homogéneas siempre son sólidas y las heterogéneas líquidas.
+- [ ] B) Las mezclas homogéneas siempre son sólidas y las heterogéneas líquidas.
   <!-- feedback: Tanto las homogéneas como las heterogéneas pueden presentarse en distintos estados. -->
-- [ ] D) No existe ninguna diferencia visible entre ellas.
+- [ ] C) No existe ninguna diferencia visible entre ellas.
   <!-- feedback: La diferencia principal es precisamente la uniformidad visible de la mezcla. -->
 
 ### Explicacion Pedagogica
@@ -57,11 +57,11 @@ Diferenciar mezclas homogéneas de heterogéneas a partir de la observación de 
 ¿Por qué el agua con sal se considera una mezcla homogénea?
 
 ### Opciones
-- [x] A) Porque la sal disuelta no se ve y la mezcla luce uniforme en toda la solución.
+- [x] C) Porque la sal disuelta no se ve y la mezcla luce uniforme en toda la solución.
   <!-- feedback: Al disolverse, la sal se reparte de manera uniforme y no se distingue. -->
-- [ ] B) Porque la sal desaparece completamente y deja de existir.
+- [ ] A) Porque la sal desaparece completamente y deja de existir.
   <!-- feedback: La sal no desaparece: se disuelve en el agua y se puede recuperar evaporando. -->
-- [ ] C) Porque el agua deja de ser líquida al mezclarse con la sal.
+- [ ] B) Porque el agua deja de ser líquida al mezclarse con la sal.
   <!-- feedback: El agua sigue siendo líquida; lo que cambia es la composición de la mezcla. -->
 - [ ] D) Porque la sal se evapora automáticamente al contacto con el agua.
   <!-- feedback: La sal no se evapora; permanece en la mezcla y puede separarse luego. -->
@@ -80,9 +80,9 @@ Explicar por qué una disolución se clasifica como mezcla homogénea.
 ¿Qué método de separación es el más adecuado en este caso?
 
 ### Opciones
-- [x] A) Decantación, porque la tierra más densa se deposita en el fondo y el agua queda arriba.
+- [x] B) Decantación, porque la tierra más densa se deposita en el fondo y el agua queda arriba.
   <!-- feedback: La decantación permite separar líquidos de sólidos sedimentados por gravedad. -->
-- [ ] B) Filtración con un colador muy fino, aunque la tierra ya se haya asentado.
+- [ ] A) Filtración con un colador muy fino, aunque la tierra ya se haya asentado.
   <!-- feedback: La filtración también funciona, pero la decantación es más sencilla cuando el sólido ya reposó. -->
 - [ ] C) Evaporación del agua, porque así se obtiene la tierra en forma de gas.
   <!-- feedback: La evaporación recupera el sólido disuelto, no el sólido sedimentado, y no produce gas. -->
@@ -149,9 +149,9 @@ Aplicar la evaporación para separar el soluto disuelto en una mezcla homogénea
 ¿Qué diferencia fundamental existe entre la mezcla de arena con agua y la de sal con agua?
 
 ### Opciones
-- [x] A) La de arena con agua es heterogénea y la arena sedimenta; la de sal con agua es homogénea y no sedimenta.
+- [x] B) La de arena con agua es heterogénea y la arena sedimenta; la de sal con agua es homogénea y no sedimenta.
   <!-- feedback: La arena no se disuelve y forma una mezcla heterogénea; la sal se disuelve formando una mezcla homogénea. -->
-- [ ] B) Las dos son heterogéneas porque no se ven los componentes.
+- [ ] A) Las dos son heterogéneas porque no se ven los componentes.
   <!-- feedback: En la mezcla de arena con agua sí se ven los granos de arena; es heterogénea. -->
 - [ ] C) Las dos son homogéneas porque ambas son transparentes.
   <!-- feedback: Solo la mezcla de agua con sal es transparente; la de arena con agua es turbia. -->
@@ -195,9 +195,9 @@ Comprender la combinación de métodos físicos y químicos en el tratamiento de
 ¿Por qué es importante aprender a separar mezclas en la vida cotidiana?
 
 ### Opciones
-- [x] A) Porque permite obtener sustancias puras, reciclar materiales y cuidar el ambiente.
+- [x] B) Porque permite obtener sustancias puras, reciclar materiales y cuidar el ambiente.
   <!-- feedback: Separar mezclas es clave para obtener productos útiles y reducir residuos. -->
-- [ ] B) Porque solo se usa en laboratorios avanzados sin aplicación en la vida diaria.
+- [ ] A) Porque solo se usa en laboratorios avanzados sin aplicación en la vida diaria.
   <!-- feedback: Los métodos de separación se aplican en el hogar, la industria y el ambiente. -->
 - [ ] C) Porque ningún producto cotidiano proviene de la separación de mezclas.
   <!-- feedback: Muchos productos como el agua potable, la sal y los aceites dependen de separar mezclas. -->

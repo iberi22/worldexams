@@ -34,8 +34,8 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) El papel y la tinta. <!-- feedback: Incorrecto. Esto corresponde a la comunicación escrita. -->
-- [x] B) Las ondas sonoras que viajan por el aire. <!-- feedback: Correcto. La comunicación oral utiliza sonidos articulados que se transmiten físicamente a través de ondas sonoras. -->
-- [ ] C) El código Morse. <!-- feedback: Incorrecto. Es un sistema de señales, no es comunicación oral directa. -->
+- [x] C) Las ondas sonoras que viajan por el aire. <!-- feedback: Correcto. La comunicación oral utiliza sonidos articulados que se transmiten físicamente a través de ondas sonoras. -->
+- [ ] B) El código Morse. <!-- feedback: Incorrecto. Es un sistema de señales, no es comunicación oral directa. -->
 - [ ] D) Las imágenes y colores de una cartelera. <!-- feedback: Incorrecto. Esto es comunicación visual. -->
 
 ### Explicacion Pedagogica
@@ -56,8 +56,8 @@ La comunicación oral se produce mediante la articulación de sonidos (palabras 
 ### Opciones
 - [ ] A) El código, porque no está usando el idioma español. <!-- feedback: Incorrecto. El estudiante usa español, pero la forma de emitirlo es el problema. -->
 - [ ] B) El mensaje, porque las ballenas no son un tema interesante. <!-- feedback: Incorrecto. El tema es válido, el problema es la ejecución técnica. -->
-- [x] C) El paralenguaje y la kinésica, debido al volumen bajo y la falta de contacto visual. <!-- feedback: Correcto. El volumen de voz (paralenguaje) y la postura/mirada (kinésica) son vitales para una buena comunicación oral. -->
-- [ ] D) El receptor, porque sus compañeros no están prestando atención. <!-- feedback: Incorrecto. La falla principal se origina en el emisor y su manejo de la voz y el cuerpo. -->
+- [x] D) El paralenguaje y la kinésica, debido al volumen bajo y la falta de contacto visual. <!-- feedback: Correcto. El volumen de voz (paralenguaje) y la postura/mirada (kinésica) son vitales para una buena comunicación oral. -->
+- [ ] C) El receptor, porque sus compañeros no están prestando atención. <!-- feedback: Incorrecto. La falla principal se origina en el emisor y su manejo de la voz y el cuerpo. -->
 
 ### Explicacion Pedagogica
 En la comunicación oral, no solo importan las palabras. El paralenguaje (volumen, tono, ritmo) y la kinésica (gestos, contacto visual) son elementos que refuerzan o debilitan el mensaje que queremos transmitir.
@@ -98,8 +98,8 @@ La comunicación oral es efímera (dura poco tiempo), pero permite una interacci
 ### Opciones
 - [ ] A) Leer un cuestionario sin mirar al abuelo para no distraerse. <!-- feedback: Incorrecto. El contacto visual es esencial para la conexión humana. -->
 - [ ] B) Interrumpir al abuelo cada vez que diga algo que el estudiante no conoce. <!-- feedback: Incorrecto. Interrumpir corta el flujo de la comunicación y es irrespetuoso. -->
-- [x] C) Practicar la escucha activa, asintiendo con la cabeza y haciendo preguntas de seguimiento basadas en lo que el abuelo cuenta. <!-- feedback: Correcto. La escucha activa es una habilidad fundamental de la comunicación oral exitosa. -->
-- [ ] D) Hablar más tiempo que el abuelo para demostrar que sabe mucho. <!-- feedback: Incorrecto. En una entrevista, el protagonista debe ser el entrevistado. -->
+- [x] D) Practicar la escucha activa, asintiendo con la cabeza y haciendo preguntas de seguimiento basadas en lo que el abuelo cuenta. <!-- feedback: Correcto. La escucha activa es una habilidad fundamental de la comunicación oral exitosa. -->
+- [ ] C) Hablar más tiempo que el abuelo para demostrar que sabe mucho. <!-- feedback: Incorrecto. En una entrevista, el protagonista debe ser el entrevistado. -->
 
 ### Explicacion Pedagogica
 La comunicación oral es un proceso de doble vía. Ser un buen comunicador oral no solo significa hablar bien, sino también saber escuchar con atención (escucha activa) para responder de forma coherente.
@@ -139,8 +139,8 @@ En la comunicación oral, el tono de voz establece el clima de la interacción. 
 
 ### Opciones
 - [ ] A) Hablar muy rápido para que los turistas se acostumbren al acento bogotano. <!-- feedback: Incorrecto. Hablar rápido dificulta la comprensión, especialmente para extranjeros. -->
-- [x] B) Utilizar una dicción clara, un ritmo pausado y apoyarse en gestos y señalamientos hacia las piezas del museo. <!-- feedback: Correcto. La buena pronunciación (dicción) y el apoyo visual/gestual facilitan el entendimiento del mensaje oral. -->
-- [ ] C) Usar términos técnicos muy complejos para demostrar que es un experto. <!-- feedback: Incorrecto. El lenguaje técnico sin explicación aleja al receptor que no domina el tema. -->
+- [x] C) Utilizar una dicción clara, un ritmo pausado y apoyarse en gestos y señalamientos hacia las piezas del museo. <!-- feedback: Correcto. La buena pronunciación (dicción) y el apoyo visual/gestual facilitan el entendimiento del mensaje oral. -->
+- [ ] B) Usar términos técnicos muy complejos para demostrar que es un experto. <!-- feedback: Incorrecto. El lenguaje técnico sin explicación aleja al receptor que no domina el tema. -->
 - [ ] D) No decir nada y dejar que los turistas lean los letreros por su cuenta. <!-- feedback: Incorrecto. Esto elimina la comunicación oral que es la función del guía. -->
 
 ### Explicacion Pedagogica
@@ -159,8 +159,8 @@ La dicción es la capacidad de pronunciar claramente las palabras. Una buena dic
 ¿Qué indican las muletillas en el flujo de la comunicación oral?
 
 ### Opciones
-- [ ] A) Que el emisor tiene un vocabulario muy amplio y rico. <!-- feedback: Incorrecto. Las muletillas suelen indicar lo contrario: falta de recursos léxicos en el momento. -->
-- [x] B) Que hay baches o pausas en el pensamiento que el emisor llena con sonidos repetitivos mientras busca la siguiente idea. <!-- feedback: Correcto. Las muletillas son apoyos verbales innecesarios que surgen por nerviosismo o falta de preparación. -->
+- [ ] B) Que el emisor tiene un vocabulario muy amplio y rico. <!-- feedback: Incorrecto. Las muletillas suelen indicar lo contrario: falta de recursos léxicos en el momento. -->
+- [x] A) Que hay baches o pausas en el pensamiento que el emisor llena con sonidos repetitivos mientras busca la siguiente idea. <!-- feedback: Correcto. Las muletillas son apoyos verbales innecesarios que surgen por nerviosismo o falta de preparación. -->
 - [ ] C) Que el mensaje es muy importante y debe repetirse muchas veces. <!-- feedback: Incorrecto. Las muletillas no añaden significado al mensaje, solo ruido. -->
 - [ ] D) Que el canal de comunicación (la televisión) está fallando técnicamente. <!-- feedback: Incorrecto. Las muletillas son producidas por el hablante, no por el aparato técnico. -->
 
@@ -182,8 +182,8 @@ Un buen comunicador oral debe intentar reducir las muletillas. Aunque son natura
 ### Opciones
 - [ ] A) Hablar muy fuerte y muy rápido con un tono agudo. <!-- feedback: Incorrecto. Eso suena más a un niño emocionado que a un anciano cansado. -->
 - [ ] B) Gritar todas las palabras para que el público lo escuche bien. <!-- feedback: Incorrecto. El cansancio no se comunica con gritos constantes. -->
-- [x] C) Bajar el volumen de la voz, usar un tono más grave y hacer pausas frecuentes como si le faltara el aire. <!-- feedback: Correcto. El tono, el ritmo y el volumen (paralenguaje) crean la caracterización del personaje. -->
-- [ ] D) Leer un libro en voz alta sin hacer ningún cambio en su forma de hablar. <!-- feedback: Incorrecto. Esto no es una representación dramática a través de la voz. -->
+- [x] D) Bajar el volumen de la voz, usar un tono más grave y hacer pausas frecuentes como si le faltara el aire. <!-- feedback: Correcto. El tono, el ritmo y el volumen (paralenguaje) crean la caracterización del personaje. -->
+- [ ] C) Leer un libro en voz alta sin hacer ningún cambio en su forma de hablar. <!-- feedback: Incorrecto. Esto no es una representación dramática a través de la voz. -->
 
 ### Explicacion Pedagogica
 El paralenguaje tiene una función expresiva fundamental. A través de variaciones en la voz, podemos transmitir estados físicos (cansancio, enfermedad), emociones (tristeza, alegría) y rasgos de personalidad sin necesidad de describirlos con palabras.
@@ -203,8 +203,8 @@ El paralenguaje tiene una función expresiva fundamental. A través de variacion
 ### Opciones
 - [ ] A) Porque si el lugar es ruidoso, no se escucha nada. <!-- feedback: Incorrecto. Esto es solo un problema del canal (ruido), no es el fondo de la importancia del contexto. -->
 - [ ] B) Porque las palabras escritas no necesitan contexto para entenderse. <!-- feedback: Incorrecto. Todo mensaje necesita contexto, pero el oral es más dependiente del "aquí y ahora". -->
-- [x] C) Porque una misma frase como "¿Estás listo?" significa cosas muy distintas en un hospital, en una carrera de atletismo o antes de un examen. <!-- feedback: Correcto. El contexto físico y situacional le da el significado final a las palabras habladas. -->
-- [ ] D) Porque el contexto solo importa si el emisor y el receptor no se conocen. <!-- feedback: Incorrecto. Incluso entre amigos, el contexto determina el sentido de lo que se dice. -->
+- [x] D) Porque una misma frase como "¿Estás listo?" significa cosas muy distintas en un hospital, en una carrera de atletismo o antes de un examen. <!-- feedback: Correcto. El contexto físico y situacional le da el significado final a las palabras habladas. -->
+- [ ] C) Porque el contexto solo importa si el emisor y el receptor no se conocen. <!-- feedback: Incorrecto. Incluso entre amigos, el contexto determina el sentido de lo que se dice. -->
 
 ### Explicacion Pedagogica
 A diferencia de un libro, que puede leerse años después en otro país, la comunicación oral ocurre en un espacio y tiempo determinados. El contexto situacional completa el sentido de lo que decimos, permitiéndonos usar menos palabras porque el entorno ya nos da mucha información.
@@ -222,9 +222,9 @@ A diferencia de un libro, que puede leerse años después en otro país, la comu
 ¿Cuál es la conclusión que el abogado puede proponer basándose en la comunicación oral y no verbal del testigo?
 
 ### Opciones
-- [ ] A) Que el testigo tiene un dolor de garganta muy fuerte. <!-- feedback: Incorrecto. Es una interpretación literal y poco probable en un contexto judicial. -->
-- [ ] B) Que el testigo es una persona muy tímida y por eso no mira al juez. <!-- feedback: Incorrecto. La timidez es una posibilidad, pero en un juicio se analiza más la veracidad. -->
-- [x] C) Que el testimonio puede ser falso o que el testigo está ocultando información, debido a la falta de coherencia entre su relato y sus gestos de nerviosismo. <!-- feedback: Correcto. La falta de contacto visual y los gestos de autoprotección (tocar el cuello) son indicadores comunes de que la persona no está siendo totalmente honesta. -->
+- [ ] B) Que el testigo tiene un dolor de garganta muy fuerte. <!-- feedback: Incorrecto. Es una interpretación literal y poco probable en un contexto judicial. -->
+- [ ] C) Que el testigo es una persona muy tímida y por eso no mira al juez. <!-- feedback: Incorrecto. La timidez es una posibilidad, pero en un juicio se analiza más la veracidad. -->
+- [x] A) Que el testimonio puede ser falso o que el testigo está ocultando información, debido a la falta de coherencia entre su relato y sus gestos de nerviosismo. <!-- feedback: Correcto. La falta de contacto visual y los gestos de autoprotección (tocar el cuello) son indicadores comunes de que la persona no está siendo totalmente honesta. -->
 - [ ] D) Que el testigo está muy feliz de estar ayudando a la justicia colombiana. <!-- feedback: Incorrecto. El nerviosismo descrito no se asocia con la felicidad. -->
 
 ### Explicacion Pedagogica

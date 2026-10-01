@@ -52,11 +52,11 @@ La simetría axial existe cuando una línea (eje de simetría) divide la figura 
 ### Enunciado
 ¿Qué tipo de transformación desplaza una figura sin rotarla ni reflejarla?
 ### Opciones
-- [x] A) La traslación
+- [x] C) La traslación
   <!-- feedback: Correcto. La traslación es un desplazamiento paralelo, sin giro ni reflexión. -->
-- [ ] B) La rotación
+- [ ] A) La rotación
   <!-- feedback: Incorrecto. La rotación implica giro alrededor de un punto. -->
-- [ ] C) La reflexión
+- [ ] B) La reflexión
   <!-- feedback: Incorrecto. La reflexión invierte la figura respecto a un eje. -->
 - [ ] D) La homotecia
   <!-- feedback: Incorrecto. La homotecia cambia el tamaño, no solo la posición. -->
@@ -72,11 +72,11 @@ Una traslación desplaza cada punto de la figura la misma distancia y en la mism
 ### Enunciado
 ¿Cuántos ejes de simetría tiene un triángulo equilátero?
 ### Opciones
-- [x] A) 3 ejes
+- [x] C) 3 ejes
   <!-- feedback: Correcto. Cada altura es también eje de simetría del triángulo equilátero. -->
-- [ ] B) 1 eje
+- [ ] A) 1 eje
   <!-- feedback: Incorrecto. Solo tendría 1 eje si fuera un triángulo isósceles. -->
-- [ ] C) 2 ejes
+- [ ] B) 2 ejes
   <!-- feedback: Incorrecto. Eso aplicaría a otras figuras, no al triángulo equilátero. -->
 - [ ] D) Ninguno
   <!-- feedback: Incorrecto. El triángulo equilátero siempre tiene simetría axial. -->
@@ -92,13 +92,13 @@ En el triángulo equilátero cada vértice se refleja sobre el lado opuesto a tr
 ### Enunciado
 ¿Cómo queda el cuadrado después de la traslación?
 ### Opciones
-- [x] A) Sigue siendo un cuadrado de 4 cm de lado, en una nueva posición
+- [x] D) Sigue siendo un cuadrado de 4 cm de lado, en una nueva posición
   <!-- feedback: Correcto. La traslación no cambia tamaño ni forma, solo posición. -->
-- [ ] B) Se convierte en un rectángulo de 4 × 6
+- [ ] A) Se convierte en un rectángulo de 4 × 6
   <!-- feedback: Incorrecto. La traslación no deforma la figura. -->
-- [ ] C) Se rota 90°
+- [ ] B) Se rota 90°
   <!-- feedback: Incorrecto. La traslación no aplica rotación. -->
-- [ ] D) Se agranda al doble
+- [ ] C) Se agranda al doble
   <!-- feedback: Incorrecto. Las traslaciones conservan el tamaño. -->
 ### Explicacion Pedagogica
 En una traslación, cada punto se mueve el mismo vector. La figura final tiene la misma forma, tamaño y orientación, solo está desplazada.
@@ -112,9 +112,9 @@ En una traslación, cada punto se mueve el mismo vector. La figura final tiene l
 ### Enunciado
 ¿Cuántos ejes de simetría tiene ese triángulo isósceles?
 ### Opciones
-- [x] A) 1 eje, el que pasa por el vértice y el punto medio de la base
+- [x] B) 1 eje, el que pasa por el vértice y el punto medio de la base
   <!-- feedback: Correcto. La altura sobre la base es el único eje de simetría. -->
-- [ ] B) 3 ejes
+- [ ] A) 3 ejes
   <!-- feedback: Incorrecto. Eso se aplica al triángulo equilátero, no al isósceles. -->
 - [ ] C) 0 ejes
   <!-- feedback: Incorrecto. Un triángulo isósceles siempre tiene al menos un eje. -->
@@ -132,11 +132,11 @@ En el triángulo isósceles la altura desde el vértice superior al punto medio 
 ### Enunciado
 ¿Cuáles son las coordenadas del punto P' después de la reflexión?
 ### Opciones
-- [x] A) (6, 3)
+- [x] C) (6, 3)
   <!-- feedback: Correcto. La distancia de P al eje es 4 - 2 = 2, así que P' = 4 + 2 = 6, con la misma y. -->
-- [ ] B) (2, 5)
+- [ ] A) (2, 5)
   <!-- feedback: Incorrecto. Aplicaste la reflexión respecto al eje horizontal. -->
-- [ ] C) (-2, 3)
+- [ ] B) (-2, 3)
   <!-- feedback: Incorrecto. Tomaste el eje x como referencia en lugar de x = 4. -->
 - [ ] D) (6, -3)
   <!-- feedback: Incorrecto. Reflejaste también la coordenada y. -->
@@ -152,9 +152,9 @@ Para reflejar respecto al eje vertical x = 4, la coordenada x cambia a 4 + (4 - 
 ### Enunciado
 ¿Qué tipo de transformación mantiene la congruencia entre dos figuras?
 ### Opciones
-- [x] A) Cualquier movimiento rígido: traslación, rotación o reflexión
+- [x] B) Cualquier movimiento rígido: traslación, rotación o reflexión
   <!-- feedback: Correcto. Los movimientos rígidos conservan forma y tamaño, así que producen figuras congruentes. -->
-- [ ] B) Solo la traslación
+- [ ] A) Solo la traslación
   <!-- feedback: Incorrecto. Rotaciones y reflexiones también son congruencias. -->
 - [ ] C) Solo la homotecia
   <!-- feedback: Incorrecto. La homotecia cambia el tamaño, no produce figuras congruentes. -->
@@ -192,9 +192,9 @@ La letra "A" mayúscula tiene un eje vertical que pasa por su punta superior y d
 ### Enunciado
 ¿Qué condición matemática garantiza que las dos mitades obtenidas al cortar por una línea son intercambiables?
 ### Opciones
-- [x] A) Que la línea sea efectivamente un eje de simetría axial de la figura
+- [x] B) Que la línea sea efectivamente un eje de simetría axial de la figura
   <!-- feedback: Correcto. Solo los ejes de simetría producen mitades intercambiables por reflexión. -->
-- [ ] B) Que la figura sea convexa
+- [ ] A) Que la figura sea convexa
   <!-- feedback: Incorrecto. Hay figuras convexas sin ejes de simetría. -->
 - [ ] C) Que la figura tenga todos sus lados iguales
   <!-- feedback: Incorrecto. Eso es una condición fuerte pero no suficiente en general. -->
@@ -212,13 +212,13 @@ El eje de simetría axial es la línea que produce una reflexión que superpone 
 ### Enunciado
 ¿La figura F2 es igual a F o distinta?
 ### Opciones
-- [x] A) Es igual a F porque ambas transformaciones son movimientos rígidos que conservan forma y tamaño
+- [x] D) Es igual a F porque ambas transformaciones son movimientos rígidos que conservan forma y tamaño
   <!-- feedback: Correcto. El resultado final F2 es congruente con F, solo cambia su posición y orientación. -->
-- [ ] B) Es distinta porque cambió la orientación
+- [ ] A) Es distinta porque cambió la orientación
   <!-- feedback: Incorrecto. La orientación no destruye la congruencia geométrica. -->
-- [ ] C) Es distinta porque se aplicaron dos movimientos
+- [ ] B) Es distinta porque se aplicaron dos movimientos
   <!-- feedback: Incorrecto. Componer movimientos rígidos da otro movimiento rígido. -->
-- [ ] D) Es imposible comparar sin ver la figura
+- [ ] C) Es imposible comparar sin ver la figura
   <!-- feedback: Incorrecto. Sí es posible: la composición de movimientos rígidos preserva la figura. -->
 ### Explicacion Pedagogica
 Una traslación seguida de una rotación sigue siendo una congruencia: F2 es igual a F en forma y tamaño; solamente cambia posición y orientación.

@@ -30,9 +30,9 @@ creador: "Jules-Agent"
 En un terreno triangular en Valparaíso, dos lados miden $3 \text{ m}$ y $5 \text{ m}$ formando un ángulo de $60^\circ$ (con $\cos(60^\circ) = 0,5$). ¿Cuánto mide el tercer lado $c$?
 
 ### Opciones
-- [x] A) $\sqrt{19} \text{ m}$ <!-- feedback: ¡Correcto! c^2 = 3^2 + 5^2 - 2(3)(5)(0,5) = 19 => c = sqrt(19). -->
-- [ ] B) $\sqrt{34} \text{ m}$ <!-- feedback: Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°. -->
-- [ ] C) $8 \text{ m}$ <!-- feedback: Incorrecto. Sumaste los dos lados directamente. -->
+- [x] C) $\sqrt{19} \text{ m}$ <!-- feedback: ¡Correcto! c^2 = 3^2 + 5^2 - 2(3)(5)(0,5) = 19 => c = sqrt(19). -->
+- [ ] A) $\sqrt{34} \text{ m}$ <!-- feedback: Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°. -->
+- [ ] B) $8 \text{ m}$ <!-- feedback: Incorrecto. Sumaste los dos lados directamente. -->
 - [ ] D) $\sqrt{29} \text{ m}$ <!-- feedback: Incorrecto. Error aritmético en el producto 2ab*cos(gamma). -->
 
 ### Explicacion Pedagogica
@@ -49,8 +49,8 @@ Por Ley de Cosenos: c^2 = a^2 + b^2 - 2ab*cos(60°) = 3^2 + 5^2 - 3*5 = 19 => c 
 En un terreno triangular en Concepción, dos lados miden $4 \text{ m}$ y $6 \text{ m}$ formando un ángulo de $60^\circ$ (con $\cos(60^\circ) = 0,5$). ¿Cuánto mide el tercer lado $c$?
 
 ### Opciones
-- [x] A) $\sqrt{28} \text{ m}$ <!-- feedback: ¡Correcto! c^2 = 4^2 + 6^2 - 2(4)(6)(0,5) = 28 => c = sqrt(28). -->
-- [ ] B) $\sqrt{52} \text{ m}$ <!-- feedback: Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°. -->
+- [x] B) $\sqrt{28} \text{ m}$ <!-- feedback: ¡Correcto! c^2 = 4^2 + 6^2 - 2(4)(6)(0,5) = 28 => c = sqrt(28). -->
+- [ ] A) $\sqrt{52} \text{ m}$ <!-- feedback: Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°. -->
 - [ ] C) $10 \text{ m}$ <!-- feedback: Incorrecto. Sumaste los dos lados directamente. -->
 - [ ] D) $\sqrt{43} \text{ m}$ <!-- feedback: Incorrecto. Error aritmético en el producto 2ab*cos(gamma). -->
 
@@ -68,8 +68,8 @@ Por Ley de Cosenos: c^2 = a^2 + b^2 - 2ab*cos(60°) = 4^2 + 6^2 - 4*6 = 28 => c 
 En un terreno triangular en Antofagasta, dos lados miden $5 \text{ m}$ y $7 \text{ m}$ formando un ángulo de $60^\circ$ (con $\cos(60^\circ) = 0,5$). ¿Cuánto mide el tercer lado $c$?
 
 ### Opciones
-- [x] A) $\sqrt{39} \text{ m}$ <!-- feedback: ¡Correcto! c^2 = 5^2 + 7^2 - 2(5)(7)(0,5) = 39 => c = sqrt(39). -->
-- [ ] B) $\sqrt{74} \text{ m}$ <!-- feedback: Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°. -->
+- [x] B) $\sqrt{39} \text{ m}$ <!-- feedback: ¡Correcto! c^2 = 5^2 + 7^2 - 2(5)(7)(0,5) = 39 => c = sqrt(39). -->
+- [ ] A) $\sqrt{74} \text{ m}$ <!-- feedback: Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°. -->
 - [ ] C) $12 \text{ m}$ <!-- feedback: Incorrecto. Sumaste los dos lados directamente. -->
 - [ ] D) $\sqrt{54} \text{ m}$ <!-- feedback: Incorrecto. Error aritmético en el producto 2ab*cos(gamma). -->
 
@@ -87,8 +87,8 @@ Por Ley de Cosenos: c^2 = a^2 + b^2 - 2ab*cos(60°) = 5^2 + 7^2 - 5*7 = 39 => c 
 En un terreno triangular en Temuco, dos lados miden $6 \text{ m}$ y $8 \text{ m}$ formando un ángulo de $60^\circ$ (con $\cos(60^\circ) = 0,5$). ¿Cuánto mide el tercer lado $c$?
 
 ### Opciones
-- [x] A) $\sqrt{52} \text{ m}$ <!-- feedback: ¡Correcto! c^2 = 6^2 + 8^2 - 2(6)(8)(0,5) = 52 => c = sqrt(52). -->
-- [ ] B) $\sqrt{100} \text{ m}$ <!-- feedback: Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°. -->
+- [x] B) $\sqrt{52} \text{ m}$ <!-- feedback: ¡Correcto! c^2 = 6^2 + 8^2 - 2(6)(8)(0,5) = 52 => c = sqrt(52). -->
+- [ ] A) $\sqrt{100} \text{ m}$ <!-- feedback: Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°. -->
 - [ ] C) $14 \text{ m}$ <!-- feedback: Incorrecto. Sumaste los dos lados directamente. -->
 - [ ] D) $\sqrt{67} \text{ m}$ <!-- feedback: Incorrecto. Error aritmético en el producto 2ab*cos(gamma). -->
 
@@ -106,10 +106,10 @@ Por Ley de Cosenos: c^2 = a^2 + b^2 - 2ab*cos(60°) = 6^2 + 8^2 - 6*8 = 52 => c 
 En un terreno triangular en La Serena, dos lados miden $7 \text{ m}$ y $9 \text{ m}$ formando un ángulo de $60^\circ$ (con $\cos(60^\circ) = 0,5$). ¿Cuánto mide el tercer lado $c$?
 
 ### Opciones
-- [x] A) $\sqrt{67} \text{ m}$ <!-- feedback: ¡Correcto! c^2 = 7^2 + 9^2 - 2(7)(9)(0,5) = 67 => c = sqrt(67). -->
-- [ ] B) $\sqrt{130} \text{ m}$ <!-- feedback: Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°. -->
-- [ ] C) $16 \text{ m}$ <!-- feedback: Incorrecto. Sumaste los dos lados directamente. -->
-- [ ] D) $\sqrt{82} \text{ m}$ <!-- feedback: Incorrecto. Error aritmético en el producto 2ab*cos(gamma). -->
+- [x] D) $\sqrt{67} \text{ m}$ <!-- feedback: ¡Correcto! c^2 = 7^2 + 9^2 - 2(7)(9)(0,5) = 67 => c = sqrt(67). -->
+- [ ] A) $\sqrt{130} \text{ m}$ <!-- feedback: Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°. -->
+- [ ] B) $16 \text{ m}$ <!-- feedback: Incorrecto. Sumaste los dos lados directamente. -->
+- [ ] C) $\sqrt{82} \text{ m}$ <!-- feedback: Incorrecto. Error aritmético en el producto 2ab*cos(gamma). -->
 
 ### Explicacion Pedagogica
 Por Ley de Cosenos: c^2 = a^2 + b^2 - 2ab*cos(60°) = 7^2 + 9^2 - 7*9 = 67 => c = sqrt(67) m.
@@ -144,9 +144,9 @@ Por Ley de Cosenos: c^2 = a^2 + b^2 - 2ab*cos(60°) = 8^2 + 10^2 - 8*10 = 84 => 
 En un terreno triangular en Iquique, dos lados miden $9 \text{ m}$ y $11 \text{ m}$ formando un ángulo de $60^\circ$ (con $\cos(60^\circ) = 0,5$). ¿Cuánto mide el tercer lado $c$?
 
 ### Opciones
-- [x] A) $\sqrt{103} \text{ m}$ <!-- feedback: ¡Correcto! c^2 = 9^2 + 11^2 - 2(9)(11)(0,5) = 103 => c = sqrt(103). -->
-- [ ] B) $\sqrt{202} \text{ m}$ <!-- feedback: Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°. -->
-- [ ] C) $20 \text{ m}$ <!-- feedback: Incorrecto. Sumaste los dos lados directamente. -->
+- [x] C) $\sqrt{103} \text{ m}$ <!-- feedback: ¡Correcto! c^2 = 9^2 + 11^2 - 2(9)(11)(0,5) = 103 => c = sqrt(103). -->
+- [ ] A) $\sqrt{202} \text{ m}$ <!-- feedback: Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°. -->
+- [ ] B) $20 \text{ m}$ <!-- feedback: Incorrecto. Sumaste los dos lados directamente. -->
 - [ ] D) $\sqrt{118} \text{ m}$ <!-- feedback: Incorrecto. Error aritmético en el producto 2ab*cos(gamma). -->
 
 ### Explicacion Pedagogica
@@ -182,8 +182,8 @@ Por Ley de Cosenos: c^2 = a^2 + b^2 - 2ab*cos(60°) = 10^2 + 12^2 - 10*12 = 124 
 En un terreno triangular en Talca, dos lados miden $11 \text{ m}$ y $13 \text{ m}$ formando un ángulo de $60^\circ$ (con $\cos(60^\circ) = 0,5$). ¿Cuánto mide el tercer lado $c$?
 
 ### Opciones
-- [x] A) $\sqrt{147} \text{ m}$ <!-- feedback: ¡Correcto! c^2 = 11^2 + 13^2 - 2(11)(13)(0,5) = 147 => c = sqrt(147). -->
-- [ ] B) $\sqrt{290} \text{ m}$ <!-- feedback: Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°. -->
+- [x] B) $\sqrt{147} \text{ m}$ <!-- feedback: ¡Correcto! c^2 = 11^2 + 13^2 - 2(11)(13)(0,5) = 147 => c = sqrt(147). -->
+- [ ] A) $\sqrt{290} \text{ m}$ <!-- feedback: Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°. -->
 - [ ] C) $24 \text{ m}$ <!-- feedback: Incorrecto. Sumaste los dos lados directamente. -->
 - [ ] D) $\sqrt{162} \text{ m}$ <!-- feedback: Incorrecto. Error aritmético en el producto 2ab*cos(gamma). -->
 
@@ -220,10 +220,10 @@ Por Ley de Cosenos: c^2 = a^2 + b^2 - 2ab*cos(60°) = 12^2 + 14^2 - 12*14 = 172 
 En un terreno triangular en Puerto Montt, dos lados miden $13 \text{ m}$ y $15 \text{ m}$ formando un ángulo de $60^\circ$ (con $\cos(60^\circ) = 0,5$). ¿Cuánto mide el tercer lado $c$?
 
 ### Opciones
-- [x] A) $\sqrt{199} \text{ m}$ <!-- feedback: ¡Correcto! c^2 = 13^2 + 15^2 - 2(13)(15)(0,5) = 199 => c = sqrt(199). -->
-- [ ] B) $\sqrt{394} \text{ m}$ <!-- feedback: Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°. -->
-- [ ] C) $28 \text{ m}$ <!-- feedback: Incorrecto. Sumaste los dos lados directamente. -->
-- [ ] D) $\sqrt{214} \text{ m}$ <!-- feedback: Incorrecto. Error aritmético en el producto 2ab*cos(gamma). -->
+- [x] D) $\sqrt{199} \text{ m}$ <!-- feedback: ¡Correcto! c^2 = 13^2 + 15^2 - 2(13)(15)(0,5) = 199 => c = sqrt(199). -->
+- [ ] A) $\sqrt{394} \text{ m}$ <!-- feedback: Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°. -->
+- [ ] B) $28 \text{ m}$ <!-- feedback: Incorrecto. Sumaste los dos lados directamente. -->
+- [ ] C) $\sqrt{214} \text{ m}$ <!-- feedback: Incorrecto. Error aritmético en el producto 2ab*cos(gamma). -->
 
 ### Explicacion Pedagogica
 Por Ley de Cosenos: c^2 = a^2 + b^2 - 2ab*cos(60°) = 13^2 + 15^2 - 13*15 = 199 => c = sqrt(199) m.
@@ -277,8 +277,8 @@ Por Ley de Cosenos: c^2 = a^2 + b^2 - 2ab*cos(60°) = 15^2 + 17^2 - 15*17 = 259 
 En un terreno triangular en Valdivia, dos lados miden $16 \text{ m}$ y $18 \text{ m}$ formando un ángulo de $60^\circ$ (con $\cos(60^\circ) = 0,5$). ¿Cuánto mide el tercer lado $c$?
 
 ### Opciones
-- [x] A) $\sqrt{292} \text{ m}$ <!-- feedback: ¡Correcto! c^2 = 16^2 + 18^2 - 2(16)(18)(0,5) = 292 => c = sqrt(292). -->
-- [ ] B) $\sqrt{580} \text{ m}$ <!-- feedback: Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°. -->
+- [x] B) $\sqrt{292} \text{ m}$ <!-- feedback: ¡Correcto! c^2 = 16^2 + 18^2 - 2(16)(18)(0,5) = 292 => c = sqrt(292). -->
+- [ ] A) $\sqrt{580} \text{ m}$ <!-- feedback: Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°. -->
 - [ ] C) $34 \text{ m}$ <!-- feedback: Incorrecto. Sumaste los dos lados directamente. -->
 - [ ] D) $\sqrt{307} \text{ m}$ <!-- feedback: Incorrecto. Error aritmético en el producto 2ab*cos(gamma). -->
 
@@ -315,9 +315,9 @@ Por Ley de Cosenos: c^2 = a^2 + b^2 - 2ab*cos(60°) = 17^2 + 19^2 - 17*19 = 327 
 En un terreno triangular en Valparaíso, dos lados miden $18 \text{ m}$ y $20 \text{ m}$ formando un ángulo de $60^\circ$ (con $\cos(60^\circ) = 0,5$). ¿Cuánto mide el tercer lado $c$?
 
 ### Opciones
-- [x] A) $\sqrt{364} \text{ m}$ <!-- feedback: ¡Correcto! c^2 = 18^2 + 20^2 - 2(18)(20)(0,5) = 364 => c = sqrt(364). -->
-- [ ] B) $\sqrt{724} \text{ m}$ <!-- feedback: Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°. -->
-- [ ] C) $38 \text{ m}$ <!-- feedback: Incorrecto. Sumaste los dos lados directamente. -->
+- [x] C) $\sqrt{364} \text{ m}$ <!-- feedback: ¡Correcto! c^2 = 18^2 + 20^2 - 2(18)(20)(0,5) = 364 => c = sqrt(364). -->
+- [ ] A) $\sqrt{724} \text{ m}$ <!-- feedback: Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°. -->
+- [ ] B) $38 \text{ m}$ <!-- feedback: Incorrecto. Sumaste los dos lados directamente. -->
 - [ ] D) $\sqrt{379} \text{ m}$ <!-- feedback: Incorrecto. Error aritmético en el producto 2ab*cos(gamma). -->
 
 ### Explicacion Pedagogica
@@ -353,9 +353,9 @@ Por Ley de Cosenos: c^2 = a^2 + b^2 - 2ab*cos(60°) = 19^2 + 21^2 - 19*21 = 403 
 En un terreno triangular en Antofagasta, dos lados miden $20 \text{ m}$ y $22 \text{ m}$ formando un ángulo de $60^\circ$ (con $\cos(60^\circ) = 0,5$). ¿Cuánto mide el tercer lado $c$?
 
 ### Opciones
-- [x] A) $\sqrt{444} \text{ m}$ <!-- feedback: ¡Correcto! c^2 = 20^2 + 22^2 - 2(20)(22)(0,5) = 444 => c = sqrt(444). -->
-- [ ] B) $\sqrt{884} \text{ m}$ <!-- feedback: Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°. -->
-- [ ] C) $42 \text{ m}$ <!-- feedback: Incorrecto. Sumaste los dos lados directamente. -->
+- [x] C) $\sqrt{444} \text{ m}$ <!-- feedback: ¡Correcto! c^2 = 20^2 + 22^2 - 2(20)(22)(0,5) = 444 => c = sqrt(444). -->
+- [ ] A) $\sqrt{884} \text{ m}$ <!-- feedback: Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°. -->
+- [ ] B) $42 \text{ m}$ <!-- feedback: Incorrecto. Sumaste los dos lados directamente. -->
 - [ ] D) $\sqrt{459} \text{ m}$ <!-- feedback: Incorrecto. Error aritmético en el producto 2ab*cos(gamma). -->
 
 ### Explicacion Pedagogica
@@ -391,10 +391,10 @@ Por Ley de Cosenos: c^2 = a^2 + b^2 - 2ab*cos(60°) = 21^2 + 23^2 - 21*23 = 487 
 En un terreno triangular en La Serena, dos lados miden $22 \text{ m}$ y $24 \text{ m}$ formando un ángulo de $60^\circ$ (con $\cos(60^\circ) = 0,5$). ¿Cuánto mide el tercer lado $c$?
 
 ### Opciones
-- [x] A) $\sqrt{532} \text{ m}$ <!-- feedback: ¡Correcto! c^2 = 22^2 + 24^2 - 2(22)(24)(0,5) = 532 => c = sqrt(532). -->
-- [ ] B) $\sqrt{1060} \text{ m}$ <!-- feedback: Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°. -->
-- [ ] C) $46 \text{ m}$ <!-- feedback: Incorrecto. Sumaste los dos lados directamente. -->
-- [ ] D) $\sqrt{547} \text{ m}$ <!-- feedback: Incorrecto. Error aritmético en el producto 2ab*cos(gamma). -->
+- [x] D) $\sqrt{532} \text{ m}$ <!-- feedback: ¡Correcto! c^2 = 22^2 + 24^2 - 2(22)(24)(0,5) = 532 => c = sqrt(532). -->
+- [ ] A) $\sqrt{1060} \text{ m}$ <!-- feedback: Incorrecto. Aplicaste Pitágoras ignorando el ángulo de 60°. -->
+- [ ] B) $46 \text{ m}$ <!-- feedback: Incorrecto. Sumaste los dos lados directamente. -->
+- [ ] C) $\sqrt{547} \text{ m}$ <!-- feedback: Incorrecto. Error aritmético en el producto 2ab*cos(gamma). -->
 
 ### Explicacion Pedagogica
 Por Ley de Cosenos: c^2 = a^2 + b^2 - 2ab*cos(60°) = 22^2 + 24^2 - 22*24 = 532 => c = sqrt(532) m.

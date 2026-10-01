@@ -58,11 +58,11 @@ El imperativo categórico kantiano fundamenta la moral en el respeto incondicion
 ¿En qué principio se fundamenta la evaluación moral de una acción según el utilitarismo?
 
 ### Opciones
-- [x] A) En el principio de la mayor felicidad para el mayor número de personas afectadas por las consecuencias de la acción.
+- [x] C) En el principio de la mayor felicidad para el mayor número de personas afectadas por las consecuencias de la acción.
   <!-- feedback: Es correcta porque el utilitarismo es una teoría consecuencialista que mide la moral por el impacto en el bienestar colectivo. -->
-- [ ] B) En la conformidad literal con las costumbres religiosas heredadas de la Edad Media.
+- [ ] A) En la conformidad literal con las costumbres religiosas heredadas de la Edad Media.
   <!-- feedback: Es incorrecta porque el utilitarismo no depende de dogmas teológicos tradicionales. -->
-- [ ] C) En la intención pura y secreta del individuo al margen de cualquier resultado empírico.
+- [ ] B) En la intención pura y secreta del individuo al margen de cualquier resultado empírico.
   <!-- feedback: Es incorrecta porque rechaza juzgar los actos por las intenciones desvinculadas de sus consecuencias reales. -->
 - [ ] D) En el azar biológico de las leyes de la selección natural de las especies.
   <!-- feedback: Es incorrecta porque la moral utilitarista es una teoría ética y no una ley biológica estocástica. -->
@@ -104,9 +104,9 @@ La banalidad del mal alerta sobre el peligro de la obediencia ciega y la renunci
 ¿Por qué los seres humanos deciden ceder su libertad natural a un poder soberano según Hobbes?
 
 ### Opciones
-- [x] A) Para salir del estado de naturaleza, caracterizado por la guerra de todos contra todos y el miedo constante a la muerte violenta.
+- [x] B) Para salir del estado de naturaleza, caracterizado por la guerra de todos contra todos y el miedo constante a la muerte violenta.
   <!-- feedback: Es correcta porque la seguridad y la paz son los móviles racionales que fundamentan el pacto político hobbesiano. -->
-- [ ] B) Para crear una sociedad donde nadie tenga que trabajar y el Estado regale todos los bienes.
+- [ ] A) Para crear una sociedad donde nadie tenga que trabajar y el Estado regale todos los bienes.
   <!-- feedback: Es incorrecta porque el fin del Estado hobbesiano es preservar la vida y la propiedad, no garantizar la holgazanería. -->
 - [ ] C) Porque los reyes son seres celestiales elegidos por designio divino para gobernar las naciones.
   <!-- feedback: Es incorrecta porque Hobbes fundamenta el poder en un contrato de hombres y no en el derecho divino de los reyes. -->
@@ -173,9 +173,9 @@ Nietzsche propone la transvaloración de todos los valores para superar la moral
 En el dilema del tranvía, ¿qué decisión tomaría un ético deontológico estricto frente a accionar la palanca para salvar a cinco personas desviándolo hacia una?
 
 ### Opciones
-- [x] A) Se negaría a accionar la palanca si considera que matar activamente a una persona inocente viola un deber moral absoluto.
+- [x] B) Se negaría a accionar la palanca si considera que matar activamente a una persona inocente viola un deber moral absoluto.
   <!-- feedback: Es correcta porque la deontología sostiene que ciertas acciones (como usar a un inocente) son intrínsecamente malas. -->
-- [ ] B) Accionaría la palanca de inmediato porque cinco vidas valen matemáticamente más que una sola vida.
+- [ ] A) Accionaría la palanca de inmediato porque cinco vidas valen matemáticamente más que una sola vida.
   <!-- feedback: Es incorrecta porque esa postura de optimización numérica corresponde a la ética utilitarista y no deontológica. -->
 - [ ] C) Se retiraría a dormir en un parque por no tener interés en los problemas de la física de los trenes.
   <!-- feedback: Es incorrecta porque evasión desatiende la naturaleza del dilema ético planteado. -->
@@ -219,13 +219,13 @@ Popper combate las teorías que pretenden predecir el destino de la historia par
 ¿A qué se refiere Foucault con el término 'biopolítica' en sus análisis del poder moderno?
 
 ### Opciones
-- [x] A) Al conjunto de mecanismos mediante los cuales el Estado administra, regula y controla la vida biológica de las poblaciones.
+- [x] D) Al conjunto de mecanismos mediante los cuales el Estado administra, regula y controla la vida biológica de las poblaciones.
   <!-- feedback: Es correcta porque la biopolítica es la tecnología de poder que toma a la vida y la población como objeto de gestión. -->
-- [ ] B) A las guerras libradas con microorganismos y virus producidos en laboratorios militares.
+- [ ] A) A las guerras libradas con microorganismos y virus producidos en laboratorios militares.
   <!-- feedback: Es incorrecta porque no se limita a la guerra biológica sino al control cotidiano de la salud, natalidad y gestión poblacional. -->
-- [ ] C) A la exigencia de que todos los gobernantes tengan títulos de doctorado en biología molecular.
+- [ ] B) A la exigencia de que todos los gobernantes tengan títulos de doctorado en biología molecular.
   <!-- feedback: Es incorrecta porque se refiere a la naturaleza del poder moderno y no a la titulación de los mandatarios. -->
-- [ ] D) A la cría de animales de granja en las zonas rurales para aumentar la producción de leche.
+- [ ] C) A la cría de animales de granja en las zonas rurales para aumentar la producción de leche.
   <!-- feedback: Es incorrecta porque desatiende la dimensión política sobre el cuerpo humano colectivo. -->
 
 ### Explicacion Pedagogica
@@ -242,13 +242,13 @@ La biopolítica analiza cómo el poder moderno ejerce su dominio regulando los p
 ¿Qué función cumple el 'velo de ignorancia' en el experimento mental de la posición original de Rawls?
 
 ### Opciones
-- [x] A) Garantizar la imparcialidad al impedir que los diseñadores de la sociedad conozcan su propia posición social, riqueza o talentos.
+- [x] D) Garantizar la imparcialidad al impedir que los diseñadores de la sociedad conozcan su propia posición social, riqueza o talentos.
   <!-- feedback: Es correcta meidante el velo de ignorancia nadie puede diseñar principios que favorezcan sus propios privilegios. -->
-- [ ] B) Obligar a todos los ciudadanos a votar con los ojos vendados durante las elecciones presidenciales.
+- [ ] A) Obligar a todos los ciudadanos a votar con los ojos vendados durante las elecciones presidenciales.
   <!-- feedback: Es incorrecta porque el velo de ignorancia es un dispositivo teórico de reflexión ética, no un acto electoral físico. -->
-- [ ] C) Prohibir la enseñanza de las ciencias sociales en las universidades públicas del país.
+- [ ] B) Prohibir la enseñanza de las ciencias sociales en las universidades públicas del país.
   <!-- feedback: Es incorrecta porque Rawls busca fundamentar una sociedad justa y no restringir la educación superior. -->
-- [ ] D) Asegurar que las leyes sean redactadas por personas que no sepan leer ni escribir.
+- [ ] C) Asegurar que las leyes sean redactadas por personas que no sepan leer ni escribir.
   <!-- feedback: Es incorrecta porque exige un alto ejercicio de racionalidad e imparcialidad en la formulación de principios. -->
 
 ### Explicacion Pedagogica
@@ -265,9 +265,9 @@ El velo de ignorancia de Rawls asegura que los principios de justicia se elijan 
 ¿Cuál es el imperativo ético formulado por Hans Jonas en 'El principio de responsabilidad'?
 
 ### Opciones
-- [x] A) Obra de tal modo que los efectos de tu acción sean compatibles con la permanencia de una vida humana auténtica en la Tierra.
+- [x] B) Obra de tal modo que los efectos de tu acción sean compatibles con la permanencia de una vida humana auténtica en la Tierra.
   <!-- feedback: Es correcta porque Jonas extiende el deber ético hacia la protección del futuro de las próximas generaciones y del planeta. -->
-- [ ] B) Aprovecha todos los recursos naturales hasta agotarlos por completo en beneficio de la generación actual.
+- [ ] A) Aprovecha todos los recursos naturales hasta agotarlos por completo en beneficio de la generación actual.
   <!-- feedback: Es incorrecta porque el principio de responsabilidad condena la sobreexplotación egoísta del presente. -->
 - [ ] C) Prohíbe cualquier tipo de innovación tecnológica en la medicina por considerar que altera el destino divino.
   <!-- feedback: Es incorrecta porque Jonas no rechaza la tecnología sino que exige una regulación ética responsable sobre su impacto. -->
@@ -288,11 +288,11 @@ Hans Jonas formula una ética para la era tecnológica orientada a preservar la 
 ¿En qué consiste la alineación del trabajador en el modo de producción capitalista según Marx?
 
 ### Opciones
-- [x] A) En que el trabajador se vuelve extraño respecto al producto de su trabajo, al proceso productivo y a su propia naturaleza humana.
+- [x] C) En que el trabajador se vuelve extraño respecto al producto de su trabajo, al proceso productivo y a su propia naturaleza humana.
   <!-- feedback: Es correcta porque la alienación enajena el fruto del trabajo convirtiéndolo en una fuerza hostil que domina al creador. -->
-- [ ] B) En que los obreros olvidan cómo hablar su idioma materno al entrar a la fábrica.
+- [ ] A) En que los obreros olvidan cómo hablar su idioma materno al entrar a la fábrica.
   <!-- feedback: Es incorrecta porque la alienación es un fenómeno socioeconómico de desposesión y no de amnesia lingüística. -->
-- [ ] C) En que los empresarios regalan las acciones de sus industrias a los empleados más antiguos.
+- [ ] B) En que los empresarios regalan las acciones de sus industrias a los empleados más antiguos.
   <!-- feedback: Es incorrecta porque el análisis marxista denuncia la expropiación de la plusvalía y no la donación corporativa. -->
 - [ ] D) En el estado de alegría y plenitud espiritual que siente el trabajador al realizar jornadas de 16 horas.
   <!-- feedback: Es incorrecta porque Marx denuncia la explotación y el desgaste que sufre el obrero en la jornada laboral. -->
@@ -311,9 +311,9 @@ La alienación marxista describe la separación entre el trabajador, su activida
 ¿Qué caracteriza a la posverdad en las democracias contemporáneas según la filosofía de la comunicación?
 
 ### Opciones
-- [x] A) Que los hechos objetivos tienen menos influencia en la formación de la opinión pública que las apelaciones a las emociones y creencias personales.
+- [x] B) Que los hechos objetivos tienen menos influencia en la formación de la opinión pública que las apelaciones a las emociones y creencias personales.
   <!-- feedback: Es correcta porque la posverdad subordina la evidencia empírica al sesgo de confirmación y a las reacciones emocionales. -->
-- [ ] B) Que la verdad histórica ha sido finalmente descubierta gracias a los algoritmos de las redes sociales.
+- [ ] A) Que la verdad histórica ha sido finalmente descubierta gracias a los algoritmos de las redes sociales.
   <!-- feedback: Es incorrecta porque la posverdad desdibuja el valor de los hechos empíricos y fomenta las cámaras de eco. -->
 - [ ] C) Que los ciudadanos leen más libros de filosofía que en cualquier otra época de la humanidad.
   <!-- feedback: Es incorrecta porque el consumo de información digital acelerada ha desplazado la lectura reposada de libros. -->
@@ -334,11 +334,11 @@ La posverdad vulnera el debate democrático al reemplazar la verificación de he
 ¿Cuál es el punto de partida del pensamiento filosófico latinoamericano en la obra de Enrique Dussel?
 
 ### Opciones
-- [x] A) El reconocimiento de la alteridad del 'Otro' golpeado y excluido por la colonialidad y el centro periférico.
+- [x] C) El reconocimiento de la alteridad del 'Otro' golpeado y excluido por la colonialidad y el centro periférico.
   <!-- feedback: Es correcta porque Dussel ubica a la víctima y al excluido de la periferia como la fuente de la crítica filosófica de liberación. -->
-- [ ] B) La copia exacta de los modelos de gobierno de las monarquías europeas del siglo XVII.
+- [ ] A) La copia exacta de los modelos de gobierno de las monarquías europeas del siglo XVII.
   <!-- feedback: Es incorrecta porque la filosofía de la liberación es anticolonialista y rechaza la imitación acrítica de modelos imperiales. -->
-- [ ] C) La afirmación de que América Latina debe aislarse por completo del resto del mundo sin comerciar.
+- [ ] B) La afirmación de que América Latina debe aislarse por completo del resto del mundo sin comerciar.
   <!-- feedback: Es incorrecta porque no propone el aislamiento autárquico sino la transformación crítica de la geopolítica del saber. -->
 - [ ] D) El rechazo absoluto al uso de la lengua española en la redacción de tratados académicos.
   <!-- feedback: Es incorrecta porque Dussel escribe y teoriza en español enriqueciendo el pensamiento regional. -->
@@ -357,9 +357,9 @@ La filosofía de la liberación de Dussel parte de la perspectiva del oprimido p
 ¿Qué simboliza el paso de las sombras dentro de la caverna hacia la luz del sol en la República?
 
 ### Opciones
-- [x] A) El tránsito desde la ignorancia o mera opinión (doxa) hacia el conocimiento verdadero de las Ideas (episteme).
+- [x] B) El tránsito desde la ignorancia o mera opinión (doxa) hacia el conocimiento verdadero de las Ideas (episteme).
   <!-- feedback: Es correcta porque la alegoría platónica representa la ascensión dialéctica del alma hacia la Verdad y el Bien. -->
-- [ ] B) El descubrimiento de una mina de oro por parte de los prisioneros del relato.
+- [ ] A) El descubrimiento de una mina de oro por parte de los prisioneros del relato.
   <!-- feedback: Es incorrecta porque aplica una lectura materialista literal que desvirtúa el sentido metafórico del mito. -->
 - [ ] C) La obligación de vivir en la oscuridad para proteger la vista de los rayos solares.
   <!-- feedback: Es incorrecta porque la salida de la cueva representa la liberación de la ignorancia y no un refugio en las tinieblas. -->
@@ -380,13 +380,13 @@ El mito de la caverna ilustra la distinción platónica entre el mundo sensible 
 ¿Qué significa la célebre máxima sartreana 'la existencia precede a la esencia'?
 
 ### Opciones
-- [x] A) Que el ser humano primero existe en el mundo y luego se define a sí mismo mediante sus elecciones y actos en absoluta libertad.
+- [x] D) Que el ser humano primero existe en el mundo y luego se define a sí mismo mediante sus elecciones y actos en absoluta libertad.
   <!-- feedback: Es correcta porque en el existencialismo ateo no hay una naturaleza humana dada previo a la existencia; somos lo que hacemos. -->
-- [ ] B) Que las personas nacen con un destino prefijado por las estrellas que no pueden cambiar.
+- [ ] A) Que las personas nacen con un destino prefijado por las estrellas que no pueden cambiar.
   <!-- feedback: Es incorrecta porque el determinismo de los astros es la negación radical del existencialismo de Sartre. -->
-- [ ] C) Que los animales poseen más libertad moral que los seres humanos por no tener leyes escritas.
+- [ ] B) Que los animales poseen más libertad moral que los seres humanos por no tener leyes escritas.
   <!-- feedback: Es incorrecta porque los animales actúan por instinto, mientras que el hombre está 'condenado a ser libre'. -->
-- [ ] D) Que las cosas inanimadas como las mesas eligen voluntariamente convertirse en árboles.
+- [ ] C) Que las cosas inanimadas como las mesas eligen voluntariamente convertirse en árboles.
   <!-- feedback: Es incorrecta porque las cosas inanimadas son 'en-sí' y carecen de conciencia reflexiva ('para-sí'). -->
 
 ### Explicacion Pedagogica
@@ -403,11 +403,11 @@ Para Sartre, la existencia precede a la esencia implica que la libertad y la res
 ¿Qué propone Amartya Sen frente a la medición del desarrollo basada únicamente en el Producto Interno Bruto (PIB)?
 
 ### Opciones
-- [x] A) Evaluar la justicia social según las 'capacidades' reales que tienen las personas para convertir sus recursos en libertades efectivas.
+- [x] C) Evaluar la justicia social según las 'capacidades' reales que tienen las personas para convertir sus recursos en libertades efectivas.
   <!-- feedback: Es correcta porque el enfoque de capacidades de Sen mide la libertad real de las personas para ser y hacer lo que valoran. -->
-- [ ] B) Sostener que el dinero es el único indicador que garantiza la felicidad plena de los seres humanos.
+- [ ] A) Sostener que el dinero es el único indicador que garantiza la felicidad plena de los seres humanos.
   <!-- feedback: Es incorrecta porque Sen precisamente critica el reduccionismo economicista del PIB y el ingreso monetario. -->
-- [ ] C) Prohibir la medición estadística de la economía para basarse únicamente en intuiciones poéticas.
+- [ ] B) Prohibir la medición estadística de la economía para basarse únicamente en intuiciones poéticas.
   <!-- feedback: Es incorrecta porque Sen es un economista y filósofo que utiliza la estadística al servicio del desarrollo humano. -->
 - [ ] D) Afirmar que los países pobres deben conformarse con su situación sin aspirar a mejorar su calidad de vida.
   <!-- feedback: Es incorrecta porque su teoría busca promover la justicia global y ampliar las oportunidades de las personas desfavorecidas. -->
@@ -426,11 +426,11 @@ Amartya Sen reorienta la justicia distributiva del mero ingreso financiero a la 
 ¿Cómo logra la clase dominante mantener el control social según Antonio Gramsci?
 
 ### Opciones
-- [x] A) No solo mediante la fuerza coercitiva del Estado, sino a través de la hegemonía cultural que naturaliza su cosmovisión.
+- [x] C) No solo mediante la fuerza coercitiva del Estado, sino a través de la hegemonía cultural que naturaliza su cosmovisión.
   <!-- feedback: Es correcta porque la hegemonía es el consenso cultural e ideológico mediante el cual la clase dominante lidera la sociedad. -->
-- [ ] B) Unicamente mediante la presencia permanente del ejército en las calles de las ciudades.
+- [ ] A) Unicamente mediante la presencia permanente del ejército en las calles de las ciudades.
   <!-- feedback: Es incorrecta porque la tesis de Gramsci es que la coerción pura es insuficiente sin la hegemonía cultural consensuada. -->
-- [ ] C) Distribuyendo de forma equitativa toda la riqueza del país entre los trabajadores de forma voluntaria.
+- [ ] B) Distribuyendo de forma equitativa toda la riqueza del país entre los trabajadores de forma voluntaria.
   <!-- feedback: Es incorrecta porque el capitalismo no distribuye equitativamente la riqueza de forma espontánea. -->
 - [ ] D) Prohibiendo el uso de periódicos, libros y escuelas en todo el territorio nacional.
   <!-- feedback: Es incorrecta porque las instituciones culturales (escuela, prensa, iglesia) son precisamente los aparatos de hegemonía. -->
@@ -449,9 +449,9 @@ La hegemonía en Gramsci explica la dimensión cultural e ideológica en la repr
 ¿Cuál es el peligro principal de la técnica moderna según Martin Heidegger en 'La pregunta por la técnica'?
 
 ### Opciones
-- [x] A) Que reduce toda la naturaleza y al ser humano a mero 'fondo de reserva' o recurso disponible para ser explotado.
+- [x] B) Que reduce toda la naturaleza y al ser humano a mero 'fondo de reserva' o recurso disponible para ser explotado.
   <!-- feedback: Es correcta porque la esencia de la técnica (Ge-stell) encuadra la realidad como insumo o recurso manipulable sin reverencia al Ser. -->
-- [ ] B) Que las máquinas se rompen con frecuencia por falta de repuestos importados del exterior.
+- [ ] A) Que las máquinas se rompen con frecuencia por falta de repuestos importados del exterior.
   <!-- feedback: Es incorrecta porque la crítica de Heidegger es ontológica y no una queja sobre fallas mecánicas puntuales. -->
 - [ ] C) Que las computadoras funcionan más lento durante los días de lluvia en las ciudades.
   <!-- feedback: Es incorrecta porque reduce el análisis metafísico a un problema técnico-meteorológico trivial. -->
@@ -472,11 +472,11 @@ Heidegger advierte que el encuadre técnico del mundo degrada la existencia al t
 ¿Por qué la prueba Saber 11 incluye el análisis de argumentos filosóficos dentro de la competencia de Lectura Crítica?
 
 ### Opciones
-- [x] A) Porque exige al estudiante identificar premisas, evaluar la validez de los razonamientos y asumir una postura fundamentada ante dilemas complejos.
+- [x] C) Porque exige al estudiante identificar premisas, evaluar la validez de los razonamientos y asumir una postura fundamentada ante dilemas complejos.
   <!-- feedback: Es correcta porque el análisis filosófico entrena las habilidades de deconstrucción del discurso, argumentación y reflexión ética. -->
-- [ ] B) Porque se busca comprobar si los estudiantes han memorizado todas las fechas de nacimiento de los filósofos griegos.
+- [ ] A) Porque se busca comprobar si los estudiantes han memorizado todas las fechas de nacimiento de los filósofos griegos.
   <!-- feedback: Es incorrecta porque la prueba no mide la memoria de fechas sino la capacidad de comprensión e inferencia crítica. -->
-- [ ] C) Porque la filosofía es un requisito burocrático para llenar el cuadernillo de preguntas de la prueba.
+- [ ] B) Porque la filosofía es un requisito burocrático para llenar el cuadernillo de preguntas de la prueba.
   <!-- feedback: Es incorrecta porque responde a los estándares curriculares nacionales del Ministerio de Educación. -->
 - [ ] D) Porque permite clasificar a los alumnos según su religión o creencia espiritual privada.
   <!-- feedback: Es incorrecta porque la prueba es laica, plural y evalúa competencias analíticas y no convicciones religiosas. -->

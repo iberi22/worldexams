@@ -34,11 +34,11 @@ Este bundle de 10 preguntas estudia el suelo colombiano como recurso natural, su
 Cual es la capa mas superficial del suelo, donde crecen las raices y viven muchos organismos descomponedores?
 
 ### Opciones
-- [x] A) La capa superior u horizonte organico, rica en humus y restos de hojas
+- [x] C) La capa superior u horizonte organico, rica en humus y restos de hojas
   <!-- feedback: Correcto. Es la capa mas superficial y fertil, donde se desarrollan las raices. -->
-- [ ] B) El lecho de roca madre, que esta en la superficie
+- [ ] A) El lecho de roca madre, que esta en la superficie
   <!-- feedback: Incorrecto. La roca madre se encuentra en las capas profundas del suelo. -->
-- [ ] C) El manto de agua subterranea, que cubre la superficie
+- [ ] B) El manto de agua subterranea, que cubre la superficie
   <!-- feedback: Incorrecto. El agua subterranea esta por debajo de las capas del suelo. -->
 - [ ] D) La capa de aire, que forma parte del suelo superficial
   <!-- feedback: Incorrecto. El aire ocupa poros del suelo, pero no es una capa superficial solida. -->
@@ -80,9 +80,9 @@ La cobertura vegetal cumple un papel protector: las raices sujetan las particula
 Que resultado esperan encontrar y como lo explican?
 
 ### Opciones
-- [x] A) La parcela sin cobertura pierde mas suelo porque el agua arrastra las particulas en la pendiente, mientras la parcela con vegetacion lo retiene
+- [x] B) La parcela sin cobertura pierde mas suelo porque el agua arrastra las particulas en la pendiente, mientras la parcela con vegetacion lo retiene
   <!-- feedback: Correcto. Comparar parcelas permite observar el efecto de la cobertura sobre la erosion. -->
-- [ ] B) La parcela con vegetacion pierde mas suelo porque las raices lo empujan hacia abajo
+- [ ] A) La parcela con vegetacion pierde mas suelo porque las raices lo empujan hacia abajo
   <!-- feedback: Incorrecto. Las raices sujetan el suelo y disminuyen la perdida. -->
 - [ ] C) Las dos parcelas pierden exactamente la misma cantidad de suelo
   <!-- feedback: Incorrecto. La cobertura vegetal marca una diferencia clara en la erosion. -->
@@ -103,11 +103,11 @@ Este experimento de comparacion pone a prueba una hipotesis: en terreno inclinad
 Que explicacion cientifica corresponde al bajo rendimiento del cultivo?
 
 ### Opciones
-- [x] A) La acidez excesiva dificulta que las plantas absorban algunos nutrientes, por eso conviene corregir el pH del suelo con cal y materia organica
+- [x] C) La acidez excesiva dificulta que las plantas absorban algunos nutrientes, por eso conviene corregir el pH del suelo con cal y materia organica
   <!-- feedback: Correcto. El pH afecta la disponibilidad de nutrientes para las raices. -->
-- [ ] B) La acidez hace que el suelo produzca mas nutrientes de los necesarios
+- [ ] A) La acidez hace que el suelo produzca mas nutrientes de los necesarios
   <!-- feedback: Incorrecto. La acidez excesiva reduce la disponibilidad de nutrientes. -->
-- [ ] C) El agua de riego no influye en el crecimiento de las plantas
+- [ ] B) El agua de riego no influye en el crecimiento de las plantas
   <!-- feedback: Incorrecto. El agua es indispensable para el crecimiento. -->
 - [ ] D) La acidez convierte el suelo en roca y por eso no hay raices
   <!-- feedback: Incorrecto. El suelo acido sigue siendo suelo, solo dificulta la nutricion. -->
@@ -126,11 +126,11 @@ El pH del suelo influye en la solubilidad de los nutrientes: en suelos muy acido
 Que criterio aplican correctamente para clasificar los suelos?
 
 ### Opciones
-- [x] A) El tamano de sus particulas y su composicion: los arenosos tienen granos grandes, los arcillosos granos muy finos y los organicos mucho humus
+- [x] C) El tamano de sus particulas y su composicion: los arenosos tienen granos grandes, los arcillosos granos muy finos y los organicos mucho humus
   <!-- feedback: Correcto. La textura y la composicion son los criterios usados para clasificar suelos. -->
-- [ ] B) El color de la etiqueta del frasco que los contiene
+- [ ] A) El color de la etiqueta del frasco que los contiene
   <!-- feedback: Incorrecto. El color de la etiqueta no describe el suelo. -->
-- [ ] C) La cantidad de estudiantes que observa cada muestra
+- [ ] B) La cantidad de estudiantes que observa cada muestra
   <!-- feedback: Incorrecto. El numero de observadores no es un criterio cientifico. -->
 - [ ] D) El precio en COP de cada muestra de suelo
   <!-- feedback: Incorrecto. El precio no describe las propiedades del suelo. -->
@@ -149,11 +149,11 @@ Clasificar suelos exige observar propiedades fisicas y quimicas: el tamano de la
 Que analisis de los resultados explica mejor la relacion entre deforestacion y erosion?
 
 ### Opciones
-- [x] A) La perdida de suelo es mucho mayor en el terreno talado que en el bosque, lo que muestra que la deforestacion acelera la erosion al eliminar la proteccion de raices y hojarasca
+- [x] C) La perdida de suelo es mucho mayor en el terreno talado que en el bosque, lo que muestra que la deforestacion acelera la erosion al eliminar la proteccion de raices y hojarasca
   <!-- feedback: Correcto. Los datos sustentan la relacion entre falta de cobertura y erosion. -->
-- [ ] B) La perdida de suelo es igual en ambos terrenos porque la lluvia cae sobre los dos
+- [ ] A) La perdida de suelo es igual en ambos terrenos porque la lluvia cae sobre los dos
   <!-- feedback: Incorrecto. La cobertura vegetal cambia el efecto de la lluvia sobre el suelo. -->
-- [ ] C) El bosque pierde mas suelo porque sus raices lo aflojan
+- [ ] B) El bosque pierde mas suelo porque sus raices lo aflojan
   <!-- feedback: Incorrecto. Las raices del bosque retienen y protegen el suelo. -->
 - [ ] D) La erosion depende solo del color del terreno, no de su cobertura
   <!-- feedback: Incorrecto. El factor decisivo es la cobertura vegetal, no el color. -->
@@ -172,11 +172,11 @@ Analizar series de datos permite establecer causas: al comparar la perdida de su
 Que analisis explica el efecto en cadena de la mineria sobre el rio?
 
 ### Opciones
-- [x] A) Al remover el suelo, los sedimentos sueltos son arrastrados por la lluvia hasta el rio; el exceso de sedimentos enturbia el agua y afecta a los seres vivos acuaticos
+- [x] C) Al remover el suelo, los sedimentos sueltos son arrastrados por la lluvia hasta el rio; el exceso de sedimentos enturbia el agua y afecta a los seres vivos acuaticos
   <!-- feedback: Correcto. Explica la cadena suelo removido, escorrentia y contaminacion del rio. -->
-- [ ] B) La turbidez del agua se debe a que el rio produce mas peces
+- [ ] A) La turbidez del agua se debe a que el rio produce mas peces
   <!-- feedback: Incorrecto. La turbidez proviene de los sedimentos arrastrados. -->
-- [ ] C) El agua se vuelve turbia porque cambia de color por si sola
+- [ ] B) El agua se vuelve turbia porque cambia de color por si sola
   <!-- feedback: Incorrecto. El cambio se debe a los materiales arrastrados por el agua. -->
 - [ ] D) La mineria no tiene ninguna relacion con el estado del rio
   <!-- feedback: Incorrecto. La remocion del suelo y la escorrentia si afectan el rio. -->
@@ -218,9 +218,9 @@ La estructura del suelo depende de su manejo: el pisoteo intenso del ganado comp
 Que evaluacion conjunta de las tres afirmaciones es correcta?
 
 ### Opciones
-- [x] A) La 1 es falsa porque el suelo tarda muchos anos en formarse, la 2 es verdadera y la 3 es falsa porque la mineria remueve y altera el suelo
+- [x] B) La 1 es falsa porque el suelo tarda muchos anos en formarse, la 2 es verdadera y la 3 es falsa porque la mineria remueve y altera el suelo
   <!-- feedback: Correcto. Distingue la lentitud de formacion del suelo y el efecto real de la mineria. -->
-- [ ] B) Las tres son verdaderas porque el suelo se recupera en pocos meses
+- [ ] A) Las tres son verdaderas porque el suelo se recupera en pocos meses
   <!-- feedback: Incorrecto. El suelo se forma muy lentamente; no es renovable a corto plazo. -->
 - [ ] C) Solo la 3 es verdadera y las demas son falsas
   <!-- feedback: Incorrecto. La 3 es falsa y la 2 es verdadera. -->
@@ -241,11 +241,11 @@ Evaluar estas afirmaciones exige reconocer los tiempos de la naturaleza: un cent
 Que medida conviene priorizar y por que?
 
 ### Opciones
-- [x] A) Sembrar cobertura vegetal y construir barreras vivas y terrazas en las laderas, porque reducen la erosion de forma duradera y de bajo costo para los campesinos
+- [x] C) Sembrar cobertura vegetal y construir barreras vivas y terrazas en las laderas, porque reducen la erosion de forma duradera y de bajo costo para los campesinos
   <!-- feedback: Correcto. La proteccion con vegetacion es sostenible y protege el recurso a largo plazo. -->
-- [ ] B) Pavimentar toda la zona agricola para que no se moje el suelo
+- [ ] A) Pavimentar toda la zona agricola para que no se moje el suelo
   <!-- feedback: Incorrecto. Pavimentar impide la agricultura y no conserva el suelo productivo. -->
-- [ ] C) Aplicar fertilizantes quimicos todos los meses sin cuidar la cobertura
+- [ ] B) Aplicar fertilizantes quimicos todos los meses sin cuidar la cobertura
   <!-- feedback: Incorrecto. El fertilizante no evita la erosion y puede contaminar el agua. -->
 - [ ] D) Ignorar la pendiente y dejar el suelo desnudo durante las lluvias
   <!-- feedback: Incorrecto. El suelo desnudo en pendiente es el mas vulnerable a la erosion. -->

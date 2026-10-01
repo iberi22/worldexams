@@ -30,9 +30,9 @@ Practica el reconocimiento del sustantivo, su género y su número con situacion
 ### Enunciado
 Lee la lista de palabras: "cuaderno, correr, mesa, alegre". ¿Cuál de estas palabras es un sustantivo?
 ### Opciones
-- [x] A) Mesa
+- [x] B) Mesa
   <!-- feedback: Es correcta porque nombra un objeto que se puede ver y tocar, por eso es un sustantivo. -->
-- [ ] B) Correr
+- [ ] A) Correr
   <!-- feedback: Es incorrecta porque expresa una acción y por eso es un verbo, no un sustantivo. -->
 - [ ] C) Alegre
   <!-- feedback: Es incorrecta porque describe una cualidad de una persona y por eso es un adjetivo. -->
@@ -70,13 +70,13 @@ El género del sustantivo en español es masculino o femenino y casi siempre se 
 ### Enunciado
 El sustantivo singular es "árbol". ¿Cuál es su forma correcta en plural?
 ### Opciones
-- [x] A) Árboles
+- [x] D) Árboles
   <!-- feedback: Es correcta porque los sustantivos terminados en consonante forman el plural agregando "es". -->
-- [ ] B) Árbols
+- [ ] A) Árbols
   <!-- feedback: Es incorrecta porque solo agregar "s" no sigue la regla de los sustantivos terminados en consonante. -->
-- [ ] C) Arboles
+- [ ] B) Arboles
   <!-- feedback: Es incorrecta porque el plural de árbol conserva la tilde al volverse palabra esdrújula. -->
-- [ ] D) Los árbol
+- [ ] C) Los árbol
   <!-- feedback: Es incorrecta porque cambia el artículo pero deja el sustantivo en singular. -->
 ### Explicacion Pedagogica
 Los sustantivos terminados en consonante forman el plural con "es": árbol-árboles, papel-papeles, color-colores. La palabra árbol es aguda con tilde y al formar el plural se vuelve esdrújula, por eso conserva la tilde en árboles. Aplicar esta regla permite escribir correctamente listas, descripciones y textos.
@@ -90,9 +90,9 @@ Los sustantivos terminados en consonante forman el plural con "es": árbol-árbo
 ### Enunciado
 Lee la oración: "La estudiante Mariana ganó el concurso de lectura". Si cambiamos el sustantivo "estudiante" por su forma masculina referida a un niño, ¿cómo queda la oración?
 ### Opciones
-- [x] A) El estudiante Mariana ganó el concurso de lectura.
+- [x] B) El estudiante Mariana ganó el concurso de lectura.
   <!-- feedback: Es correcta porque "estudiante" es un sustantivo común en cuanto al género y solo cambia el artículo de "la" a "el". -->
-- [ ] B) La estudianta Mariana ganó el concurso de lectura.
+- [ ] A) La estudianta Mariana ganó el concurso de lectura.
   <!-- feedback: Es incorrecta porque la palabra "estudianta" no existe en español. -->
 - [ ] C) El estudianto Mariana ganó el concurso de lectura.
   <!-- feedback: Es incorrecta porque la terminación "o" no corresponde a este sustantivo. -->
@@ -110,9 +110,9 @@ Algunos sustantivos tienen una sola forma para masculino y femenino y solo cambi
 ### Enunciado
 ¿Cuál oración usa correctamente el género y el número del sustantivo subrayado?
 ### Opciones
-- [x] A) Las mochilas nuevas están listas para la feria.
+- [x] B) Las mochilas nuevas están listas para la feria.
   <!-- feedback: Es correcta porque el artículo "las" y el adjetivo "nuevas" concuerdan en femenino plural con "mochilas". -->
-- [ ] B) Las mochila nuevas están listas para la feria.
+- [ ] A) Las mochila nuevas están listas para la feria.
   <!-- feedback: Es incorrecta porque el artículo plural "las" no concuerda con el sustantivo singular "mochila". -->
 - [ ] C) Los mochilas nuevas están listas para la feria.
   <!-- feedback: Es incorrecta porque el artículo "los" es masculino y "mochilas" es femenino. -->
@@ -150,9 +150,9 @@ Analizar un texto implica revisar la concordancia entre el sustantivo y sus acom
 ### Enunciado
 Compara las dos oraciones. ¿Cuál es correcta y por qué?
 ### Opciones
-- [x] A) La oración 2, porque el sustantivo "mapas" concuerda en plural con el artículo "los" y el verbo "están".
+- [x] B) La oración 2, porque el sustantivo "mapas" concuerda en plural con el artículo "los" y el verbo "están".
   <!-- feedback: Es correcta porque identifica la concordancia completa en número entre artículo, sustantivo y verbo. -->
-- [ ] B) La oración 1, porque el sustantivo "mapa" siempre se escribe en singular.
+- [ ] A) La oración 1, porque el sustantivo "mapa" siempre se escribe en singular.
   <!-- feedback: Es incorrecta porque "mapa" sí tiene plural y aquí se habla de varios mapas. -->
 - [ ] C) La oración 1, porque el artículo "los" puede acompañar sustantivos singulares.
   <!-- feedback: Es incorrecta porque "los" es plural y exige un sustantivo plural. -->
@@ -170,11 +170,11 @@ El sustantivo "mapa" es una excepción famosa: termina en "a" pero es masculino,
 ### Enunciado
 ¿Cuál párrafo usa de manera correcta el género y el número de los sustantivos?
 ### Opciones
-- [x] A) La biblioteca nueva abre sus puertas. Los libros infantiles están organizados y las mesas limpias esperan a los lectores.
+- [x] C) La biblioteca nueva abre sus puertas. Los libros infantiles están organizados y las mesas limpias esperan a los lectores.
   <!-- feedback: Es correcta porque todos los artículos y adjetivos concuerdan en género y número con sus sustantivos. -->
-- [ ] B) El biblioteca nuevo abre sus puertas. Los libro infantil está organizado y las mesa limpia espera a los lectores.
+- [ ] A) El biblioteca nuevo abre sus puertas. Los libro infantil está organizado y las mesa limpia espera a los lectores.
   <!-- feedback: Es incorrecta porque presenta errores de género en "biblioteca" y de número en "libro" y "mesa". -->
-- [ ] C) La biblioteca nuevas abre sus puertas. El libros infantiles están organizados y los mesas limpios esperan a los lectores.
+- [ ] B) La biblioteca nuevas abre sus puertas. El libros infantiles están organizados y los mesas limpios esperan a los lectores.
   <!-- feedback: Es incorrecta porque mezcla singular con plural y masculino con femenino en casi todas las parejas. -->
 - [ ] D) Las biblioteca nueva abre sus puertas. La libros infantil están organizados y el mesa limpia esperan a los lectores.
   <!-- feedback: Es incorrecta porque todos los artículos contradicen el género o el número de los sustantivos. -->

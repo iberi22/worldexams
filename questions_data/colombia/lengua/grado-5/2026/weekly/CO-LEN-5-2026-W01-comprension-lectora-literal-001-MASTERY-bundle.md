@@ -50,13 +50,13 @@ La comprensión literal consiste en recuperar la información que está escrita 
 ### Enunciado
 Lee la nota: "Mi gata Luna toma leche en la mañana y duerme en una caja azul junto a mi cama". ¿Qué se entiende de manera directa de la nota?
 ### Opciones
-- [x] A) Que Luna toma leche en la mañana y duerme en una caja azul.
+- [x] D) Que Luna toma leche en la mañana y duerme en una caja azul.
   <!-- feedback: Es correcta porque resume con otras palabras lo que la nota dice de forma explícita. -->
-- [ ] B) Que Luna sale a pasear todas las tardes al parque.
+- [ ] A) Que Luna sale a pasear todas las tardes al parque.
   <!-- feedback: Es incorrecta porque la nota no habla de paseos ni de parques. -->
-- [ ] C) Que Luna está enferma y necesita medicinas.
+- [ ] B) Que Luna está enferma y necesita medicinas.
   <!-- feedback: Es incorrecta porque la nota no menciona enfermedad ni medicinas. -->
-- [ ] D) Que Luna vive en la casa de la abuela.
+- [ ] C) Que Luna vive en la casa de la abuela.
   <!-- feedback: Es incorrecta porque la nota dice que duerme junto a la cama de Mariana. -->
 ### Explicacion Pedagogica
 Comprender de manera literal también implica decir con palabras propias lo que el texto afirma. La opción correcta conserva los dos datos explícitos, la leche en la mañana y la caja azul, sin agregar ideas nuevas.
@@ -70,9 +70,9 @@ Comprender de manera literal también implica decir con palabras propias lo que 
 ### Enunciado
 Lee el fragmento: "Santiago guardó la sombrilla en el morral y se puso las botas de caucho antes de salir". ¿Qué se puede deducir de lo que hace Santiago?
 ### Opciones
-- [x] A) Que probablemente va a llover y él se prepara para la lluvia.
+- [x] B) Que probablemente va a llover y él se prepara para la lluvia.
   <!-- feedback: Es correcta porque la sombrilla y las botas son señales claras de lluvia. -->
-- [ ] B) Que hace mucho calor y quiere ir a la piscina.
+- [ ] A) Que hace mucho calor y quiere ir a la piscina.
   <!-- feedback: Es incorrecta porque con calor no se usan botas de caucho ni sombrilla para la lluvia. -->
 - [ ] C) Que va a una fiesta con ropa elegante.
   <!-- feedback: Es incorrecta porque las botas de caucho no son ropa de fiesta. -->
@@ -90,11 +90,11 @@ Inferir es unir las pistas del texto con lo que sabemos del mundo. La sombrilla 
 ### Enunciado
 Lee el fragmento: "El puesto de don Pedro tenía fila larga, mientras los otros puestos estaban vacíos". ¿Qué se puede concluir del puesto de don Pedro?
 ### Opciones
-- [x] A) Que sus clientes confían en él y prefieren comprarle a él.
+- [x] C) Que sus clientes confían en él y prefieren comprarle a él.
   <!-- feedback: Es correcta porque la fila larga frente a puestos vacíos muestra preferencia de los compradores. -->
-- [ ] B) Que vende más caro y nadie quiere comprarle.
+- [ ] A) Que vende más caro y nadie quiere comprarle.
   <!-- feedback: Es incorrecta porque si fuera caro no tendría fila larga. -->
-- [ ] C) Que está cerrado y no atiende a nadie.
+- [ ] B) Que está cerrado y no atiende a nadie.
   <!-- feedback: Es incorrecta porque una fila larga indica que sí está atendiendo. -->
 - [ ] D) Que regala el pescado a los vecinos.
   <!-- feedback: Es incorrecta porque el texto habla de un puesto de venta, no de regalos. -->
@@ -110,13 +110,13 @@ La inferencia permite leer entre líneas: comparar la fila larga con los puestos
 ### Enunciado
 Lee el fragmento: "Valentina pagó con un billete de 5000 pesos y el tendero le devolvió 2500 pesos junto con el jugo". ¿Qué se deduce de la situación?
 ### Opciones
-- [x] A) Que el jugo costaba 2500 pesos y la devuelta fue correcta.
+- [x] D) Que el jugo costaba 2500 pesos y la devuelta fue correcta.
   <!-- feedback: Es correcta porque 5000 menos 2500 deja exactamente 2500 de devuelta. -->
-- [ ] B) Que el jugo era gratis y no había que pagar.
+- [ ] A) Que el jugo era gratis y no había que pagar.
   <!-- feedback: Es incorrecta porque hubo pago y devuelta de dinero. -->
-- [ ] C) Que Valentina pagó con monedas de 500 pesos.
+- [ ] B) Que Valentina pagó con monedas de 500 pesos.
   <!-- feedback: Es incorrecta porque el texto dice que pagó con un billete de 5000 pesos. -->
-- [ ] D) Que el tendero se quedó con todo el billete sin devolver nada.
+- [ ] C) Que el tendero se quedó con todo el billete sin devolver nada.
   <!-- feedback: Es incorrecta porque el texto afirma que devolvió 2500 pesos. -->
 ### Explicacion Pedagogica
 Aplicar la información del texto permite verificar la operación: si entrega 5000 y recibe 2500 de vuelta, el precio era 2500. Este tipo de lectura también sirve para revisar cuentas sencillas y mejorar la comunicación en la tienda.
@@ -130,9 +130,9 @@ Aplicar la información del texto permite verificar la operación: si entrega 50
 ### Enunciado
 Lee las opiniones: "Juan dice: perdimos por el árbitro. Mariana dice: perdimos porque no entrenamos ni nos pasamos el balón". ¿Cuál es la diferencia principal entre las dos opiniones?
 ### Opciones
-- [x] A) Que Juan culpa a otra persona y Mariana reconoce la responsabilidad del equipo.
+- [x] B) Que Juan culpa a otra persona y Mariana reconoce la responsabilidad del equipo.
   <!-- feedback: Es correcta porque distingue la excusa externa de la autocrítica del equipo. -->
-- [ ] B) Que los dos dicen exactamente lo mismo con otras palabras.
+- [ ] A) Que los dos dicen exactamente lo mismo con otras palabras.
   <!-- feedback: Es incorrecta porque uno culpa al árbitro y la otra habla del juego del equipo. -->
 - [ ] C) Que Mariana culpa al árbitro y Juan habla del entrenamiento.
   <!-- feedback: Es incorrecta porque invierte lo que dijo cada uno. -->
@@ -150,11 +150,11 @@ Analizar opiniones exige comparar a quién atribuye cada uno la causa del result
 ### Enunciado
 ¿Cuál es la intención principal del cartel del colegio?
 ### Opciones
-- [x] A) Convencer a los estudiantes de ahorrar agua con una acción concreta.
+- [x] C) Convencer a los estudiantes de ahorrar agua con una acción concreta.
   <!-- feedback: Es correcta porque el cartel propone cerrar la llave para cuidar el agua. -->
-- [ ] B) Informar los horarios de aseo del colegio.
+- [ ] A) Informar los horarios de aseo del colegio.
   <!-- feedback: Es incorrecta porque no menciona horarios ni jornadas de aseo. -->
-- [ ] C) Prohibir que los estudiantes se laven las manos.
+- [ ] B) Prohibir que los estudiantes se laven las manos.
   <!-- feedback: Es incorrecta porque pide lavarse, pero cerrando la llave al enjabonarse. -->
 - [ ] D) Contar la historia del acueducto de la ciudad.
   <!-- feedback: Es incorrecta porque no narra hechos históricos. -->
@@ -170,13 +170,13 @@ Analizar un texto breve incluye descubrir su propósito. El verbo "cuida" y la o
 ### Enunciado
 Texto: "La plaza de mercado de Cali abre a las cinco de la mañana. Allí se venden frutas, verduras y jugos. Los campesinos llegan temprano y los vecinos compran productos frescos". ¿Cuál es el mejor resumen del texto?
 ### Opciones
-- [x] A) La plaza abre temprano y allí campesinos y vecinos venden y compran alimentos frescos.
+- [x] D) La plaza abre temprano y allí campesinos y vecinos venden y compran alimentos frescos.
   <!-- feedback: Es correcta porque conserva las ideas centrales: lugar, hora y actividad principal. -->
-- [ ] B) En Cali solo se venden jugos en la noche.
+- [ ] A) En Cali solo se venden jugos en la noche.
   <!-- feedback: Es incorrecta porque cambia la hora y reduce todo a los jugos. -->
-- [ ] C) Los campesinos nunca van a la plaza de mercado.
+- [ ] B) Los campesinos nunca van a la plaza de mercado.
   <!-- feedback: Es incorrecta porque contradice el texto, que dice que llegan temprano. -->
-- [ ] D) La plaza es un lugar sucio donde nadie compra.
+- [ ] C) La plaza es un lugar sucio donde nadie compra.
   <!-- feedback: Es incorrecta porque agrega una valoración negativa que el texto no tiene. -->
 ### Explicacion Pedagogica
 Evaluar un resumen exige comprobar que mantenga las ideas centrales sin agregar juicios ni cambiar datos. La opción correcta reúne apertura temprana, vendedores, compradores y productos frescos. Un buen resumen también demuestra cuidado con la escritura y la comunicación de ideas.

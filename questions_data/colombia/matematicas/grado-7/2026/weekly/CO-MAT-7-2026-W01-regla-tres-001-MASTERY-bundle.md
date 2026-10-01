@@ -32,9 +32,9 @@ Este bundle contiene 10 preguntas sobre **regla-tres** para grado 7, alineadas c
 ### Enunciado
 ¿Cuántos galones necesita para recorrer $280\text{ km}$ a la misma velocidad?
 ### Opciones
-- [x] A) $7$ galones
+- [x] B) $7$ galones
   <!-- feedback: Correcto. $120 / 3 = 40\text{ km/galón}$; $280 / 40 = 7$ galones. -->
-- [ ] B) $8$ galones
+- [ ] A) $8$ galones
   <!-- feedback: Incorrecto. Cálculo proporcional impreciso. -->
 - [ ] C) $6$ galones
   <!-- feedback: Incorrecto. Subestimaste el consumo por kilómetro. -->
@@ -72,13 +72,13 @@ A menos impresoras, más tiempo (inversa): $5 \cdot 10 = 2 \cdot x \implies 50 =
 ### Enunciado
 ¿Cuántos metros pavimentarán $12$ obreros en el mismo tiempo?
 ### Opciones
-- [x] A) $90\text{ metros}$
+- [x] D) $90\text{ metros}$
   <!-- feedback: Correcto. $60 / 8 = 7.5\text{ m/obrero}$; $12 \times 7.5 = 90\text{ metros}$. -->
-- [ ] B) $80\text{ metros}$
+- [ ] A) $80\text{ metros}$
   <!-- feedback: Incorrecto. Sumaste obreros sin mantener la proporción. -->
-- [ ] C) $120\text{ metros}$
+- [ ] B) $120\text{ metros}$
   <!-- feedback: Incorrecto. Duplicaste el rendimiento sin duplicar obreros. -->
-- [ ] D) $100\text{ metros}$
+- [ ] C) $100\text{ metros}$
   <!-- feedback: Incorrecto. Error de cálculo en la tasa unitaria. -->
 ### Explicacion Pedagogica
 $\frac{8}{60} = \frac{12}{x} \implies 8x = 720 \implies x = 90$ metros.
@@ -112,11 +112,11 @@ Menos grifos requieren más tiempo: $4 \cdot 6 = 24$. $24 / 3 = 8$ horas.
 ### Enunciado
 ¿Cuántos kilogramos de fertilizante necesita para un terreno de $800\text{ m}^2$?
 ### Opciones
-- [x] A) $40\text{ kg}$
+- [x] C) $40\text{ kg}$
   <!-- feedback: Correcto. $15 / 300 = 0.05\text{ kg/m}^2$; $800 \times 0.05 = 40\text{ kg}$. -->
-- [ ] B) $35\text{ kg}$
+- [ ] A) $35\text{ kg}$
   <!-- feedback: Incorrecto. Error de cálculo en el área adicional. -->
-- [ ] C) $50\text{ kg}$
+- [ ] B) $50\text{ kg}$
   <!-- feedback: Incorrecto. Sobreestimaste la tasa por metro cuadrado. -->
 - [ ] D) $30\text{ kg}$
   <!-- feedback: Incorrecto. Subestimaste el fertilizante requerido. -->
@@ -132,11 +132,11 @@ $\frac{15}{300} = \frac{x}{800} \implies 300x = 12000 \implies x = 40\text{ kg}$
 ### Enunciado
 ¿Cuántas prendas producirán $8$ máquinas trabajando $9$ horas diarias durante $5$ días?
 ### Opciones
-- [x] A) $720$ prendas
+- [x] C) $720$ prendas
   <!-- feedback: Correcto. Rendimiento por máquina-hora = $480 / (6 \times 8 \times 5) = 2$ prendas/hora. Producción = $8 \times 9 \times 5 \times 2 = 720$. -->
-- [ ] B) $640$ prendas
+- [ ] A) $640$ prendas
   <!-- feedback: Incorrecto. Omitiste el incremento de horas diarias. -->
-- [ ] C) $800$ prendas
+- [ ] B) $800$ prendas
   <!-- feedback: Incorrecto. Error en la multiplicación de variables compuestas. -->
 - [ ] D) $540$ prendas
   <!-- feedback: Incorrecto. Calculaste con el número inicial de máquinas. -->
@@ -152,13 +152,13 @@ Regla de tres compuesta directa en máquinas y horas: $\frac{480}{6 \cdot 8} = \
 ### Enunciado
 ¿Cuántos panaderos se necesitan para elaborar $300$ panecillos en $3$ horas?
 ### Opciones
-- [x] A) $10$ panaderos
+- [x] D) $10$ panaderos
   <!-- feedback: Correcto. $1$ panadero hace $200 / (5 \times 4) = 10$ panecillos/hora. Para $300$ en $3$ h se requiere tasa de $100$ panecillos/hora $\implies 100/10 = 10$ panaderos. -->
-- [ ] B) $8$ panaderos
+- [ ] A) $8$ panaderos
   <!-- feedback: Incorrecto. No tuviste en cuenta la reducción de tiempo a 3 horas. -->
-- [ ] C) $12$ panaderos
+- [ ] B) $12$ panaderos
   <!-- feedback: Incorrecto. Sobreestimaste el número de panaderos. -->
-- [ ] D) $6$ panaderos
+- [ ] C) $6$ panaderos
   <!-- feedback: Incorrecto. No compensaste el incremento de producción. -->
 ### Explicacion Pedagogica
 $\frac{5 \cdot 4}{200} = \frac{x \cdot 3}{300} \implies \frac{20}{200} = \frac{3x}{300} \implies \frac{1}{10} = \frac{x}{100} \implies x = 10$ panaderos.
@@ -172,11 +172,11 @@ $\frac{5 \cdot 4}{200} = \frac{x \cdot 3}{300} \implies \frac{20}{200} = \frac{3
 ### Enunciado
 ¿Cuántas toneladas transportarán $5$ camiones idénticos en $6$ viajes?
 ### Opciones
-- [x] A) $75$ toneladas
+- [x] C) $75$ toneladas
   <!-- feedback: Correcto. Capacidad por camión-viaje = $30 / (3 \times 4) = 2.5$ ton. Total = $5 \times 6 \times 2.5 = 75$ toneladas. -->
-- [ ] B) $60$ toneladas
+- [ ] A) $60$ toneladas
   <!-- feedback: Incorrecto. Omitiste el aumento de viajes. -->
-- [ ] C) $90$ toneladas
+- [ ] B) $90$ toneladas
   <!-- feedback: Incorrecto. Sobreestimaste la capacidad unitaria. -->
 - [ ] D) $50$ toneladas
   <!-- feedback: Incorrecto. Calculaste como si fueran solo 4 viajes. -->
@@ -192,11 +192,11 @@ $\frac{30}{3 \cdot 4} = \frac{x}{5 \cdot 6} \implies \frac{30}{12} = \frac{x}{30
 ### Enunciado
 ¿Cuál es el tiempo requerido en días?
 ### Opciones
-- [x] A) $18$ días
+- [x] C) $18$ días
   <!-- feedback: Correcto. Obreros finales = $8$. Ecuación: $x = 15 \times (10/8) \times (8/10) \times (120/100) = 15 \times 1.2 = 18$ días. -->
-- [ ] B) $20$ días
+- [ ] A) $20$ días
   <!-- feedback: Incorrecto. No compensaste el aumento de horas de trabajo. -->
-- [ ] C) $15$ días
+- [ ] B) $15$ días
   <!-- feedback: Incorrecto. Asumiste que las variaciones se cancelaban exactamente. -->
 - [ ] D) $22$ días
   <!-- feedback: Incorrecto. Error en la ponderación inversa de obreros. -->
@@ -212,11 +212,11 @@ $x = 15 \cdot \left(\frac{10}{8}\right) \cdot \left(\frac{8}{10}\right) \cdot \l
 ### Enunciado
 ¿Cuántos días tomará la producción?
 ### Opciones
-- [x] A) $10$ días
+- [x] C) $10$ días
   <!-- feedback: Correcto. Rendimiento inicial = $4 \times 0.8 = 3.2$ máquinas equivalentes. Rendimiento final = $5 \times 1.0 = 5.0$. $x = 10 \times (3.2 / 5.0) \times (25.000 / 16.000) = 10 \times 0.64 \times 1.5625 = 10$ días. -->
-- [ ] B) $12$ días
+- [ ] A) $12$ días
   <!-- feedback: Incorrecto. No consideraste el aumento de eficiencia al $100\%$. -->
-- [ ] C) $8$ días
+- [ ] B) $8$ días
   <!-- feedback: Incorrecto. Subestimaste el impacto del volumen adicional de libros. -->
 - [ ] D) $15$ días
   <!-- feedback: Incorrecto. Ignoraste la máquina adicional incorporada. -->

@@ -32,8 +32,8 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 En el punto $(-3, 5)$, ¿qué indica la coordenada $-3$?
 
 ### Opciones
-- [x] A) La abscisa: la posición horizontal respecto al origen. <!-- feedback: ¡Correcto! La primera coordenada es la abscisa (eje $x$). -->
-- [ ] B) La ordenada: la posición vertical respecto al origen. <!-- feedback: Incorrecto. La ordenada es la segunda coordenada, $5$. -->
+- [x] B) La abscisa: la posición horizontal respecto al origen. <!-- feedback: ¡Correcto! La primera coordenada es la abscisa (eje $x$). -->
+- [ ] A) La ordenada: la posición vertical respecto al origen. <!-- feedback: Incorrecto. La ordenada es la segunda coordenada, $5$. -->
 - [ ] C) La distancia del punto al origen. <!-- feedback: Incorrecto. La distancia es $\sqrt{9 + 25} = \sqrt{34}$. -->
 - [ ] D) La pendiente de la recta que une el punto con el origen. <!-- feedback: Incorrecto. La pendiente sería $\frac{5}{-3}$, no una coordenada. -->
 
@@ -51,10 +51,10 @@ Todo punto del plano se escribe $(x, y)$: la abscisa $x$ mide el desplazamiento 
 ¿Cuál es la fórmula de la distancia entre los puntos $A(x_1, y_1)$ y $B(x_2, y_2)$?
 
 ### Opciones
-- [x] A) $d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$ <!-- feedback: ¡Correcto! Es el teorema de Pitágoras aplicado al plano. -->
-- [ ] B) $d = (x_2 - x_1) + (y_2 - y_1)$ <!-- feedback: Incorrecto. Sumar diferencias no mide la distancia euclidiana. -->
-- [ ] C) $d = \sqrt{(x_2 - x_1) + (y_2 - y_1)}$ <!-- feedback: Incorrecto. Faltan los cuadrados de cada diferencia. -->
-- [ ] D) $d = \frac{(x_2 - x_1)}{(y_2 - y_1)}$ <!-- feedback: Incorrecto. Ese cociente se parece al inverso de la pendiente, no a la distancia. -->
+- [x] D) $d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$ <!-- feedback: ¡Correcto! Es el teorema de Pitágoras aplicado al plano. -->
+- [ ] A) $d = (x_2 - x_1) + (y_2 - y_1)$ <!-- feedback: Incorrecto. Sumar diferencias no mide la distancia euclidiana. -->
+- [ ] B) $d = \sqrt{(x_2 - x_1) + (y_2 - y_1)}$ <!-- feedback: Incorrecto. Faltan los cuadrados de cada diferencia. -->
+- [ ] C) $d = \frac{(x_2 - x_1)}{(y_2 - y_1)}$ <!-- feedback: Incorrecto. Ese cociente se parece al inverso de la pendiente, no a la distancia. -->
 
 ### Explicación Pedagógica
 La distancia es la hipotenusa del triángulo cuyos catetos son las diferencias de coordenadas: $d = \sqrt{(\Delta x)^2 + (\Delta y)^2}$.
@@ -70,9 +70,9 @@ La distancia es la hipotenusa del triángulo cuyos catetos son las diferencias d
 ¿En qué cuadrante se encuentra el punto $(-4, -7)$?
 
 ### Opciones
-- [ ] A) Segundo cuadrante <!-- feedback: Incorrecto. El segundo tiene abscisa negativa pero ordenada positiva. -->
-- [ ] B) Cuarto cuadrante <!-- feedback: Incorrecto. El cuarto tiene abscisa positiva y ordenada negativa. -->
-- [x] C) Tercer cuadrante <!-- feedback: ¡Correcto! Ambas coordenadas negativas ubican el punto en el tercer cuadrante. -->
+- [ ] B) Segundo cuadrante <!-- feedback: Incorrecto. El segundo tiene abscisa negativa pero ordenada positiva. -->
+- [ ] C) Cuarto cuadrante <!-- feedback: Incorrecto. El cuarto tiene abscisa positiva y ordenada negativa. -->
+- [x] A) Tercer cuadrante <!-- feedback: ¡Correcto! Ambas coordenadas negativas ubican el punto en el tercer cuadrante. -->
 - [ ] D) Sobre el eje $y$ <!-- feedback: Incorrecto. Estar sobre el eje $y$ exige abscisa cero. -->
 
 ### Explicación Pedagógica
@@ -90,9 +90,9 @@ Los signos deciden el cuadrante: $(-,-)$ es el tercero, $(-,+)$ el segundo, $(+,
 
 ### Opciones
 - [ ] A) $(8, 14)$ <!-- feedback: Incorrecto. Sumaste las coordenadas; el punto medio promedia. -->
-- [x] B) $(4, 7)$ <!-- feedback: ¡Correcto! $\left(\frac{2+6}{2}, \frac{4+10}{2}\right) = (4, 7)$. -->
-- [ ] C) $(2, 3)$ <!-- feedback: Incorrecto. Dividiste las coordenadas de $B$ entre las de $A$. -->
-- [ ] D) $(3, 5)$ <!-- feedback: Incorrecto. Dividiste cada coordenada de $B$ entre 2 sin promediar con $A$. -->
+- [x] D) $(4, 7)$ <!-- feedback: ¡Correcto! $\left(\frac{2+6}{2}, \frac{4+10}{2}\right) = (4, 7)$. -->
+- [ ] B) $(2, 3)$ <!-- feedback: Incorrecto. Dividiste las coordenadas de $B$ entre las de $A$. -->
+- [ ] C) $(3, 5)$ <!-- feedback: Incorrecto. Dividiste cada coordenada de $B$ entre 2 sin promediar con $A$. -->
 
 ### Explicación Pedagógica
 El punto medio es el promedio de las coordenadas: $M = \left(\frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2}\right) = (4, 7)$.
@@ -109,9 +109,9 @@ El punto medio es el promedio de las coordenadas: $M = \left(\frac{x_1 + x_2}{2}
 
 ### Opciones
 - [ ] A) $7$ <!-- feedback: Incorrecto. Sumaste las diferencias $3 + 4$; la distancia usa Pitágoras. -->
-- [x] B) $5$ <!-- feedback: ¡Correcto! $\sqrt{3^2 + 4^2} = \sqrt{25} = 5$. -->
-- [ ] C) $\sqrt{7}$ <!-- feedback: Incorrecto. Sumaste sin elevar al cuadrado dentro de la raíz. -->
-- [ ] D) $25$ <!-- feedback: Incorrecto. Ese es el cuadrado de la distancia; falta la raíz. -->
+- [x] D) $5$ <!-- feedback: ¡Correcto! $\sqrt{3^2 + 4^2} = \sqrt{25} = 5$. -->
+- [ ] B) $\sqrt{7}$ <!-- feedback: Incorrecto. Sumaste sin elevar al cuadrado dentro de la raíz. -->
+- [ ] C) $25$ <!-- feedback: Incorrecto. Ese es el cuadrado de la distancia; falta la raíz. -->
 
 ### Explicación Pedagógica
 Las diferencias son $\Delta x = 3$ y $\Delta y = 4$: $d = \sqrt{9 + 16} = 5$, la clásica terna 3-4-5.
@@ -128,8 +128,8 @@ Las diferencias son $\Delta x = 3$ y $\Delta y = 4$: $d = \sqrt{9 + 16} = 5$, la
 
 ### Opciones
 - [ ] A) $\frac{1}{2}$ <!-- feedback: Incorrecto. Invertiste el cociente de las diferencias. -->
-- [x] B) $2$ <!-- feedback: ¡Correcto! $m = \frac{5 - (-1)}{3 - 0} = \frac{6}{3} = 2$. -->
-- [ ] C) $6$ <!-- feedback: Incorrecto. Ese es solo $\Delta y$; falta dividir por $\Delta x$. -->
+- [x] C) $2$ <!-- feedback: ¡Correcto! $m = \frac{5 - (-1)}{3 - 0} = \frac{6}{3} = 2$. -->
+- [ ] B) $6$ <!-- feedback: Incorrecto. Ese es solo $\Delta y$; falta dividir por $\Delta x$. -->
 - [ ] D) $-2$ <!-- feedback: Incorrecto. La recta crece de izquierda a derecha: la pendiente es positiva. -->
 
 ### Explicación Pedagógica
@@ -165,8 +165,8 @@ Las rectas horizontales tienen pendiente cero y ecuación $y = k$, donde $k$ es 
 ¿Cuál es la pendiente de una recta perpendicular a $y = \frac{1}{2}x + 3$?
 
 ### Opciones
-- [ ] A) $\frac{1}{2}$ <!-- feedback: Incorrecto. Esa pendiente daría una recta paralela. -->
-- [x] B) $-2$ <!-- feedback: ¡Correcto! Las perpendiculares cumplen $m_1 \cdot m_2 = -1$: $\frac{1}{2} \cdot (-2) = -1$. -->
+- [ ] B) $\frac{1}{2}$ <!-- feedback: Incorrecto. Esa pendiente daría una recta paralela. -->
+- [x] A) $-2$ <!-- feedback: ¡Correcto! Las perpendiculares cumplen $m_1 \cdot m_2 = -1$: $\frac{1}{2} \cdot (-2) = -1$. -->
 - [ ] C) $2$ <!-- feedback: Incorrecto. Falta el cambio de signo; el producto daría $+1$. -->
 - [ ] D) $-\frac{1}{2}$ <!-- feedback: Incorrecto. Esa es la opuesta, no la recíproca opuesta. -->
 
@@ -204,8 +204,8 @@ La circunferencia de centro $(h, k)$ y radio $r$ es $(x-h)^2 + (y-k)^2 = r^2$. C
 
 ### Opciones
 - [ ] A) $(0, -6)$ <!-- feedback: Incorrecto. Ese es el corte con el eje $y$, no con el eje $x$. -->
-- [x] B) $(3, 0)$ <!-- feedback: ¡Correcto! Con $y = 0$: $2x = 6$, $x = 3$. -->
-- [ ] C) $(-3, 0)$ <!-- feedback: Incorrecto. Revisá el signo al despejar: $x = 3$ positivo. -->
+- [x] C) $(3, 0)$ <!-- feedback: ¡Correcto! Con $y = 0$: $2x = 6$, $x = 3$. -->
+- [ ] B) $(-3, 0)$ <!-- feedback: Incorrecto. Revisá el signo al despejar: $x = 3$ positivo. -->
 - [ ] D) $(6, 0)$ <!-- feedback: Incorrecto. Falta dividir entre el coeficiente 2. -->
 
 ### Explicación Pedagógica
@@ -222,8 +222,8 @@ El corte con el eje $x$ ocurre cuando $y = 0$: $0 = 2x - 6$ da $x = 3$. El punto
 Los vértices de un triángulo son $A(0, 0)$, $B(4, 0)$ y $C(0, 3)$. ¿Qué tipo de triángulo es?
 
 ### Opciones
-- [x] A) Rectángulo, porque los lados $AB$ y $AC$ son perpendiculares (ejes). <!-- feedback: ¡Correcto! Un lado horizontal y otro vertical se cortan en 90° en $A$. -->
-- [ ] B) Equilátero, porque tiene tres vértices. <!-- feedback: Incorrecto. Los lados miden 4, 3 y 5: todos distintos. -->
+- [x] B) Rectángulo, porque los lados $AB$ y $AC$ son perpendiculares (ejes). <!-- feedback: ¡Correcto! Un lado horizontal y otro vertical se cortan en 90° en $A$. -->
+- [ ] A) Equilátero, porque tiene tres vértices. <!-- feedback: Incorrecto. Los lados miden 4, 3 y 5: todos distintos. -->
 - [ ] C) Isósceles, porque dos lados salen del origen. <!-- feedback: Incorrecto. Esos lados miden 4 y 3, distintos. -->
 - [ ] D) Obtusángulo, porque tiene un lado largo. <!-- feedback: Incorrecto. $3^2 + 4^2 = 5^2$: es rectángulo exacto. -->
 
@@ -241,8 +241,8 @@ Los lados miden 3, 4 y 5 y cumplen $9 + 16 = 25$: triángulo rectángulo con el 
 ¿Qué condición deben cumplir las pendientes de dos rectas para que sean paralelas distintas?
 
 ### Opciones
-- [x] A) Pendientes iguales y ordenadas al origen distintas. <!-- feedback: ¡Correcto! Igual dirección, sin coincidir: paralelas. -->
-- [ ] B) Pendientes cuyo producto sea $-1$. <!-- feedback: Incorrecto. Esa es la condición de perpendicularidad. -->
+- [x] B) Pendientes iguales y ordenadas al origen distintas. <!-- feedback: ¡Correcto! Igual dirección, sin coincidir: paralelas. -->
+- [ ] A) Pendientes cuyo producto sea $-1$. <!-- feedback: Incorrecto. Esa es la condición de perpendicularidad. -->
 - [ ] C) Pendientes iguales y ordenadas iguales. <!-- feedback: Incorrecto. En ese caso serían la misma recta (coincidentes). -->
 - [ ] D) Pendientes opuestas. <!-- feedback: Incorrecto. Pendientes opuestas se cortan simétricamente; no son paralelas. -->
 
@@ -261,8 +261,8 @@ Respecto de la circunferencia $x^2 + y^2 = 25$, el punto $(3, 5)$ se encuentra:
 
 ### Opciones
 - [ ] A) Sobre la circunferencia. <!-- feedback: Incorrecto. $9 + 25 = 34 \ne 25$; el punto no verifica la ecuación. -->
-- [x] B) En el exterior, porque $3^2 + 5^2 = 34 > 25$. <!-- feedback: ¡Correcto! La distancia al centro es $\sqrt{34} > 5$, el radio. -->
-- [ ] C) En el interior, porque sus coordenadas son pequeñas. <!-- feedback: Incorrecto. La suma de cuadrados supera el radio al cuadrado: es exterior. -->
+- [x] C) En el exterior, porque $3^2 + 5^2 = 34 > 25$. <!-- feedback: ¡Correcto! La distancia al centro es $\sqrt{34} > 5$, el radio. -->
+- [ ] B) En el interior, porque sus coordenadas son pequeñas. <!-- feedback: Incorrecto. La suma de cuadrados supera el radio al cuadrado: es exterior. -->
 - [ ] D) En el centro. <!-- feedback: Incorrecto. El centro es $(0, 0)$. -->
 
 ### Explicación Pedagógica
@@ -280,8 +280,8 @@ Comparar $x^2 + y^2$ con $r^2$ ubica el punto: igual (sobre), menor (dentro), ma
 
 ### Opciones
 - [ ] A) Centro $(-2, 1)$ y radio $9$ <!-- feedback: Incorrecto. Los signos del centro se invierten respecto de la ecuación y el radio es la raíz de 9. -->
-- [x] B) Centro $(2, -1)$ y radio $3$ <!-- feedback: ¡Correcto! Comparando con $(x-h)^2 + (y-k)^2 = r^2$: $h = 2$, $k = -1$, $r = 3$. -->
-- [ ] C) Centro $(2, -1)$ y radio $9$ <!-- feedback: Incorrecto. El centro está bien, pero el radio es $\sqrt{9} = 3$. -->
+- [x] C) Centro $(2, -1)$ y radio $3$ <!-- feedback: ¡Correcto! Comparando con $(x-h)^2 + (y-k)^2 = r^2$: $h = 2$, $k = -1$, $r = 3$. -->
+- [ ] B) Centro $(2, -1)$ y radio $9$ <!-- feedback: Incorrecto. El centro está bien, pero el radio es $\sqrt{9} = 3$. -->
 - [ ] D) Centro $(1, -2)$ y radio $3$ <!-- feedback: Incorrecto. Intercambiaste las coordenadas del centro. -->
 
 ### Explicación Pedagógica
@@ -317,9 +317,9 @@ Las paralelas comparten pendiente: $y = 3x + b$. Imponiendo el paso por $(2, 4)$
 ¿Están alineados los puntos $A(0, 1)$, $B(2, 5)$ y $C(4, 9)$?
 
 ### Opciones
-- [x] A) Sí, porque la pendiente entre $A$ y $B$ ($2$) es la misma que entre $B$ y $C$. <!-- feedback: ¡Correcto! $\frac{5-1}{2-0} = 2$ y $\frac{9-5}{4-2} = 2$: misma dirección, puntos colineales. -->
-- [ ] B) No, porque las coordenadas no son proporcionales. <!-- feedback: Incorrecto. La colinealidad se mide por pendientes iguales, y aquí coinciden. -->
-- [ ] C) Sí, porque las ordenadas son impares. <!-- feedback: Incorrecto. La paridad no es criterio de alineación, aunque aquí la conclusión sea correcta. -->
+- [x] C) Sí, porque la pendiente entre $A$ y $B$ ($2$) es la misma que entre $B$ y $C$. <!-- feedback: ¡Correcto! $\frac{5-1}{2-0} = 2$ y $\frac{9-5}{4-2} = 2$: misma dirección, puntos colineales. -->
+- [ ] A) No, porque las coordenadas no son proporcionales. <!-- feedback: Incorrecto. La colinealidad se mide por pendientes iguales, y aquí coinciden. -->
+- [ ] B) Sí, porque las ordenadas son impares. <!-- feedback: Incorrecto. La paridad no es criterio de alineación, aunque aquí la conclusión sea correcta. -->
 - [ ] D) No, porque $C$ no es el doble de $B$. <!-- feedback: Incorrecto. La alineación no exige proporcionalidad de coordenadas. -->
 
 ### Explicación Pedagógica
@@ -337,9 +337,9 @@ Tres puntos son colineales si las pendientes entre pares consecutivos coinciden.
 
 ### Opciones
 - [ ] A) $2$ unidades <!-- feedback: Incorrecto. Esa es la ordenada del punto; la recta es vertical y la distancia es horizontal. -->
-- [x] B) $4$ unidades <!-- feedback: ¡Correcto! La distancia horizontal es $|7 - 3| = 4$. -->
-- [ ] C) $\sqrt{53}$ unidades <!-- feedback: Incorrecto. Usaste la fórmula de distancia al origen, no a la recta. -->
-- [ ] D) $10$ unidades <!-- feedback: Incorrecto. Sumaste coordenada y constante; la distancia es la diferencia absoluta. -->
+- [x] D) $4$ unidades <!-- feedback: ¡Correcto! La distancia horizontal es $|7 - 3| = 4$. -->
+- [ ] B) $\sqrt{53}$ unidades <!-- feedback: Incorrecto. Usaste la fórmula de distancia al origen, no a la recta. -->
+- [ ] C) $10$ unidades <!-- feedback: Incorrecto. Sumaste coordenada y constante; la distancia es la diferencia absoluta. -->
 
 ### Explicación Pedagógica
 La distancia de un punto a una recta vertical $x = k$ es $|x_0 - k|$: $|7 - 3| = 4$. Es la longitud del segmento perpendicular (horizontal) a la recta.
@@ -356,8 +356,8 @@ La distancia de un punto a una recta vertical $x = k$ es $|x_0 - k|$: $|7 - 3| =
 
 ### Opciones
 - [ ] A) Un cuadrado de área 16. <!-- feedback: Incorrecto. Los lados miden 6 y 4: no son iguales. -->
-- [x] B) Un rectángulo de área 24. <!-- feedback: ¡Correcto! Lados 6 y 4 perpendiculares: área $6 \times 4 = 24$. -->
-- [ ] C) Un rombo de área 12. <!-- feedback: Incorrecto. Los lados no son todos iguales y el área es base por altura: 24. -->
+- [x] C) Un rectángulo de área 24. <!-- feedback: ¡Correcto! Lados 6 y 4 perpendiculares: área $6 \times 4 = 24$. -->
+- [ ] B) Un rombo de área 12. <!-- feedback: Incorrecto. Los lados no son todos iguales y el área es base por altura: 24. -->
 - [ ] D) Un trapecio de área 20. <!-- feedback: Incorrecto. Los cuatro vértices forman lados paralelos dos a dos: es un rectángulo. -->
 
 ### Explicación Pedagógica
@@ -375,8 +375,8 @@ Los lados $AB$ y $CD$ son horizontales de largo 6; $BC$ y $DA$ verticales de lar
 
 ### Opciones
 - [ ] A) $24$ unidades cuadradas <!-- feedback: Incorrecto. Olvidaste dividir entre 2: $\frac{6 \times 4}{2}$. -->
-- [x] B) $12$ unidades cuadradas <!-- feedback: ¡Correcto! Base $6$ (sobre el eje $x$) y altura $4$: $\frac{24}{2} = 12$. -->
-- [ ] C) $6$ unidades cuadradas <!-- feedback: Incorrecto. Usaste solo la base o solo la altura como área. -->
+- [x] C) $12$ unidades cuadradas <!-- feedback: ¡Correcto! Base $6$ (sobre el eje $x$) y altura $4$: $\frac{24}{2} = 12$. -->
+- [ ] B) $6$ unidades cuadradas <!-- feedback: Incorrecto. Usaste solo la base o solo la altura como área. -->
 - [ ] D) $10$ unidades cuadradas <!-- feedback: Incorrecto. Sumaste base y altura; el área triangular es la mitad del producto. -->
 
 ### Explicación Pedagógica
@@ -393,10 +393,10 @@ Tomando $AB$ como base ($6$) y la ordenada de $C$ como altura ($4$): $A = \frac{
 Sustituyendo la recta en la circunferencia se obtiene $2x^2 + 12x + 20 = 0$, con discriminante $\Delta = 144 - 160 = -16$. ¿Qué conclusión es correcta?
 
 ### Opciones
-- [x] A) La calle no toca la plaza: el discriminante negativo indica que no hay intersección. <!-- feedback: ¡Correcto! Sin soluciones reales, la recta pasa por fuera de la circunferencia. -->
-- [ ] B) La calle es tangente a la plaza en un punto. <!-- feedback: Incorrecto. La tangencia exige discriminante cero. -->
-- [ ] C) La calle corta la plaza en dos puntos. <!-- feedback: Incorrecto. Eso requeriría discriminante positivo. -->
-- [ ] D) La calle pasa por el centro de la plaza. <!-- feedback: Incorrecto. El centro $(0,0)$ no verifica $y = x + 6$. -->
+- [x] D) La calle no toca la plaza: el discriminante negativo indica que no hay intersección. <!-- feedback: ¡Correcto! Sin soluciones reales, la recta pasa por fuera de la circunferencia. -->
+- [ ] A) La calle es tangente a la plaza en un punto. <!-- feedback: Incorrecto. La tangencia exige discriminante cero. -->
+- [ ] B) La calle corta la plaza en dos puntos. <!-- feedback: Incorrecto. Eso requeriría discriminante positivo. -->
+- [ ] C) La calle pasa por el centro de la plaza. <!-- feedback: Incorrecto. El centro $(0,0)$ no verifica $y = x + 6$. -->
 
 ### Explicación Pedagógica
 El signo del discriminante de la ecuación resultante clasifica la posición relativa: $\Delta < 0$ exterior (sin contacto), $\Delta = 0$ tangente, $\Delta > 0$ secante. Aquí la calle no interfiere con la plaza.

@@ -34,11 +34,11 @@ Este bundle contiene 20 preguntas sobre **inferencia estadística, estimación d
 ¿Cuál es el término técnico utilizado para referirse al valor numérico calculado a partir de la muestra que se usa para estimar el parámetro poblacional?
 
 ### Opciones
-- [x] A) Estadístico
+- [x] C) Estadístico
   <!-- feedback: Un estadístico o estimador puntual es cualquier medida cuantitativa calculada sobre los datos de una muestra. -->
-- [ ] B) Parámetro
+- [ ] A) Parámetro
   <!-- feedback: Un parámetro es una propiedad fija de la población completa, no de la muestra. -->
-- [ ] C) Sesgo
+- [ ] B) Sesgo
   <!-- feedback: El sesgo mide el error sistemático en la estimación, no el valor numérico en sí. -->
 - [ ] D) Varianza poblacional
   <!-- feedback: Es un parámetro específico de dispersión en la población, no el término general. -->
@@ -80,11 +80,11 @@ Un intervalo de confianza al $95%$ garantiza que el método utilizado genera int
 ¿Cómo se calcula el error estándar de la media muestral ($\sigma_{\bar{x}}$)?
 
 ### Opciones
-- [x] A) $\sigma_{\bar{x}} = \frac{sigma}{\sqrt{n}}$
+- [x] C) $\sigma_{\bar{x}} = \frac{sigma}{\sqrt{n}}$
   <!-- feedback: El error estándar de la media disminuye de forma inversamente proporcional a la raíz cuadrada del tamaño de la muestra. -->
-- [ ] B) $\sigma_{\bar{x}} = \frac{sigma}{n}$
+- [ ] A) $\sigma_{\bar{x}} = \frac{sigma}{n}$
   <!-- feedback: Le falta elevar n a la raíz cuadrada. -->
-- [ ] C) $\sigma_{\bar{x}} = \sigma \cdot \sqrt{n}$
+- [ ] B) $\sigma_{\bar{x}} = \sigma \cdot \sqrt{n}$
   <!-- feedback: Multiplica en lugar de dividir por la raíz de n. -->
 - [ ] D) $\sigma_{\bar{x}} = \frac{n}{sigma}$
   <!-- feedback: Invierte los términos de la fracción. -->
@@ -149,9 +149,9 @@ El margen de error es $E = Z_{alpha/2} \frac{sigma}{\sqrt{n}} = 1.96 \cdot \frac
 ¿Cuál es el valor estimado de la media muestral $\bar{x}$ y el margen de error $E$ de este estudio?
 
 ### Opciones
-- [x] A) Media $\bar{x} = 14,000$ COP y Margen de error $E = 2,000$ COP
+- [x] B) Media $\bar{x} = 14,000$ COP y Margen de error $E = 2,000$ COP
   <!-- feedback: Media = (12000 + 16000)/2 = 14000 COP. Margen de error = (16000 - 12000)/2 = 2000 COP. -->
-- [ ] B) Media $\bar{x} = 14,000$ COP y Margen de error $E = 4,000$ COP
+- [ ] A) Media $\bar{x} = 14,000$ COP y Margen de error $E = 4,000$ COP
   <!-- feedback: Tomó el ancho total del intervalo como el margen de error en lugar de la mitad. -->
 - [ ] C) Media $\bar{x} = 12,000$ COP y Margen de error $E = 2,000$ COP
   <!-- feedback: Tomó el límite inferior como el centro del intervalo. -->
@@ -172,11 +172,11 @@ El centro del intervalo equidistante es la media muestral $\bar{x} = \frac{L_{in
 ¿Cuál es el valor del estimador puntual de la proporción poblacional $\hat{p}$?
 
 ### Opciones
-- [x] A) 0.60
+- [x] C) 0.60
   <!-- feedback: p_hat = x / n = 240 / 400 = 0.60 (o 60%). -->
-- [ ] B) 0.40
+- [ ] A) 0.40
   <!-- feedback: Corresponde a la proporción muestral de personas que NO usan bicicleta (160/400). -->
-- [ ] C) 0.24
+- [ ] B) 0.24
   <!-- feedback: Se dividió 240 entre 1000 por error de escala. -->
 - [ ] D) 1.66
   <!-- feedback: Se dividió el total entre los casos favorables (400/240). -->
@@ -195,11 +195,11 @@ La proporción muestral $\hat{p}$ se obtiene mediante la razón entre el número
 ¿Cómo se deben plantear las hipótesis nula ($H_0$) y alternativa ($H_a$)?
 
 ### Opciones
-- [x] A) $H_0: \mu \le 50$ cm vs $H_a: \mu > 50$ cm
+- [x] C) $H_0: \mu \le 50$ cm vs $H_a: \mu > 50$ cm
   <!-- feedback: La hipótesis nula contiene la igualdad o la afirmación por defecto, mientras que la alternativa refleja la sospecha o prueba del investigador (mu > 50). -->
-- [ ] B) $H_0: \mu > 50$ cm vs $H_a: \mu \le 50$ cm
+- [ ] A) $H_0: \mu > 50$ cm vs $H_a: \mu \le 50$ cm
   <!-- feedback: Intercambió los roles de las hipótesis nula y alternativa. -->
-- [ ] C) $H_0: \mu = 50$ cm vs $H_a: \mu < 50$ cm
+- [ ] B) $H_0: \mu = 50$ cm vs $H_a: \mu < 50$ cm
   <!-- feedback: La alternativa apunta en sentido opuesto a la sospecha planteada en el enunciado. -->
 - [ ] D) $H_0: \bar{x} = 50$ cm vs $H_a: \bar{x} > 50$ cm
   <!-- feedback: Las hipótesis se plantean sobre los parámetros poblacionales (mu), nunca sobre los estadísticos muestrales (x_bar). -->
@@ -218,9 +218,9 @@ La hipótesis alternativa $H_a$ expresa la condición que el investigador desea 
 ¿Cuál es la conclusión estadística correcta respecto a la hipótesis nula $H_0$?
 
 ### Opciones
-- [x] A) Se rechaza la hipótesis nula $H_0$ porque el $p$-valor es menor que el nivel de significancia $\alpha$.
+- [x] B) Se rechaza la hipótesis nula $H_0$ porque el $p$-valor es menor que el nivel de significancia $\alpha$.
   <!-- feedback: Como p-valor (0.02) < alpha (0.05), existe suficiente evidencia estadística para rechazar H0. -->
-- [ ] B) No se rechaza la hipótesis nula $H_0$ porque el $p$-valor es mayor que cero.
+- [ ] A) No se rechaza la hipótesis nula $H_0$ porque el $p$-valor es mayor que cero.
   <!-- feedback: La regla de decisión compara el p-valor con alpha, no con cero. -->
 - [ ] C) Se acepta definitivamente la hipótesis nula $H_0$.
   <!-- feedback: Un p-valor bajo conduce al rechazo de H0, no a su aceptación. -->
@@ -241,9 +241,9 @@ La regla de decisión estipula que si $p\text{-valor} \le \alpha$, se rechaza $H
 ¿Cuál es el valor del error estándar $\sigma_{\hat{p}} = \sqrt{\frac{\hat{p}(1-\hat{p})}{n}}$?
 
 ### Opciones
-- [x] A) 0.05
+- [x] B) 0.05
   <!-- feedback: sigma_p = sqrt((0.5 * 0.5) / 100) = sqrt(0.25 / 100) = sqrt(0.0025) = 0.05. -->
-- [ ] B) 0.25
+- [ ] A) 0.25
   <!-- feedback: Olvidó dividir por n y extraer la raíz de la fracción completa. -->
 - [ ] C) 0.50
   <!-- feedback: Corresponde al valor directo de p_hat. -->
@@ -264,11 +264,11 @@ Sustituyendo en la fórmula: $\sigma_{\hat{p}} = \sqrt{\frac{0.5   imes 0.5}{100
 ¿Cuál es el tamaño de muestra mínimo $n$ requerido para cumplir con esta precisión?
 
 ### Opciones
-- [x] A) 100
+- [x] C) 100
   <!-- feedback: n = (Z * sigma / E)^2 = (2 * 10 / 2)^2 = (10)^2 = 100. -->
-- [ ] B) 50
+- [ ] A) 50
   <!-- feedback: Olvidó elevar al cuadrado el término de la ecuación. -->
-- [ ] C) 400
+- [ ] B) 400
   <!-- feedback: Multiplicó por 4 el resultado correcto. -->
 - [ ] D) 20
   <!-- feedback: Calculó solo Z * sigma / E sin elevar al cuadrado. -->
@@ -314,11 +314,11 @@ Intervalo B: $[1,300,000; 1,700,000]$ COP
 ¿Cuál de las siguientes afirmaciones sobre los niveles de confianza de los dos intervalos es correcta?
 
 ### Opciones
-- [x] A) El Intervalo A tiene un nivel de confianza MAYOR que el Intervalo B.
+- [x] C) El Intervalo A tiene un nivel de confianza MAYOR que el Intervalo B.
   <!-- feedback: Un intervalo más ancho ofrece mayor cobertura y por tanto corresponde a un nivel de confianza más elevado. -->
-- [ ] B) El Intervalo B tiene un nivel de confianza MAYOR que el Intervalo A.
+- [ ] A) El Intervalo B tiene un nivel de confianza MAYOR que el Intervalo A.
   <!-- feedback: Un intervalo más estrecho reduce la certidumbre de capturar el parámetro verdadero. -->
-- [ ] C) Ambos intervalos tienen exactamente el mismo nivel de confianza.
+- [ ] B) Ambos intervalos tienen exactamente el mismo nivel de confianza.
   <!-- feedback: La amplitud del intervalo cambia directamente al modificar el nivel de confianza (Z). -->
 - [ ] D) No es posible comparar sus niveles de confianza con la información dada.
   <!-- feedback: Sí es posible, pues a mayor amplitud corresponde mayor nivel de confianza bajo la misma muestra. -->
@@ -360,11 +360,11 @@ Dado que $Z_{calc} = 2.33 \ge Z_{crit} = 2.33$, el estadístico de prueba entra 
 ¿Cuál es el intervalo de confianza del 95% para la proporción poblacional de deportistas?
 
 ### Opciones
-- [x] A) $[0.35, 0.45]$
+- [x] C) $[0.35, 0.45]$
   <!-- feedback: IC = [p_hat - E, p_hat + E] = [0.40 - 0.05, 0.40 + 0.05] = [0.35, 0.45]. -->
-- [ ] B) $[0.30, 0.50]$
+- [ ] A) $[0.30, 0.50]$
   <!-- feedback: Se restó y sumó el doble del margen de error (0.10). -->
-- [ ] C) $[0.40, 0.45]$
+- [ ] B) $[0.40, 0.45]$
   <!-- feedback: Olvidó restar el margen de error para obtener el límite inferior. -->
 - [ ] D) $[0.90, 1.00]$
   <!-- feedback: Confundió la proporción muestral con el nivel de confianza. -->
@@ -408,13 +408,13 @@ $Z = \frac{0.60 - 0.50}{0.05} = \frac{0.10}{0.05} = 2.0$.
 ¿Cuál es el valor de $Z_{calc}$ y la conclusión adecuada con $\alpha = 0.05$ ($Z_{crit} = -1.645$)?
 
 ### Opciones
-- [x] A) $Z_{calc} = -2.00$; se RECHAZA $H_0$, respaldando la afirmación del laboratorio.
+- [x] D) $Z_{calc} = -2.00$; se RECHAZA $H_0$, respaldando la afirmación del laboratorio.
   <!-- feedback: Z = (18 - 20) / (6 / sqrt(36)) = -2 / (6 / 6) = -2 / 1 = -2.00. Como -2.00 < -1.645, cae en la región de rechazo. -->
-- [ ] B) $Z_{calc} = -0.33$; NO se rechaza $H_0$, descartando la eficacia.
+- [ ] A) $Z_{calc} = -0.33$; NO se rechaza $H_0$, descartando la eficacia.
   <!-- feedback: Olvidó multiplicar el denominador por sqrt(36). -->
-- [ ] C) $Z_{calc} = 2.00$; se rechaza $H_0$ por ser una prueba bilateral únicamente.
+- [ ] B) $Z_{calc} = 2.00$; se rechaza $H_0$ por ser una prueba bilateral únicamente.
   <!-- feedback: Confundió el signo de la diferencia (18 - 20 es negativo). -->
-- [ ] D) $Z_{calc} = -1.20$; la muestra es insuficiente para concluir.
+- [ ] C) $Z_{calc} = -1.20$; la muestra es insuficiente para concluir.
   <!-- feedback: Calculó incorrectamente el error estándar dividiendo 6 entre 5. -->
 
 ### Explicacion Pedagogica
@@ -433,13 +433,13 @@ Dado que $-2.00 < -1.645$, se rechaza $H_0$ a un nivel de significancia del 5%, 
 ¿Cuál es el tamaño de muestra $n$ más conservador (peor escenario probabilístico) que debe seleccionar?
 
 ### Opciones
-- [x] A) 1068
+- [x] D) 1068
   <!-- feedback: Cuando p es desconocido, se usa p = 0.5 para maximizar la varianza: n = (1.96^2 * 0.5 * 0.5) / (0.03^2) = (3.8416 * 0.25) / 0.0009 = 0.9604 / 0.0009 = 1067.11 -> redondeando hacia arriba n = 1068. -->
-- [ ] B) 534
+- [ ] A) 534
   <!-- feedback: Usó p = 0.25 en lugar de maximizar el producto p*(1-p) = 0.25. -->
-- [ ] C) 267
+- [ ] B) 267
   <!-- feedback: Olvidó elevar el margen de error E al cuadrado en el denominador. -->
-- [ ] D) 400
+- [ ] C) 400
   <!-- feedback: Valor predeterminado genérico no relacionado con el cálculo formal. -->
 
 ### Explicacion Pedagogica
@@ -460,13 +460,13 @@ Firmas B: $n_B = 400$, $\hat{p}_B = 0.60$
 ¿Cómo se comparan los márgenes de error $E_A$ y $E_B$ de ambas firmas al mismo nivel de confianza?
 
 ### Opciones
-- [x] A) $E_A = 2 \cdot E_B$
+- [x] D) $E_A = 2 \cdot E_B$
   <!-- feedback: Como E es proporcional a 1/sqrt(n), E_A / E_B = sqrt(400) / sqrt(100) = 20 / 10 = 2. El margen de la firma A es el doble que el de B. -->
-- [ ] B) $E_A = 4 \cdot E_B$
+- [ ] A) $E_A = 4 \cdot E_B$
   <!-- feedback: No aplicó la raíz cuadrada a la razón entre los tamaños muestrales (400/100 = 4). -->
-- [ ] C) $E_A = E_B$
+- [ ] B) $E_A = E_B$
   <!-- feedback: Asumió erróneamente que tener la misma proporción muestral p_hat implica igual margen de error. -->
-- [ ] D) $E_A = 0.5 \cdot E_B$
+- [ ] C) $E_A = 0.5 \cdot E_B$
   <!-- feedback: Invirtió la relación; la muestra más pequeña (A) produce un margen de error mayor. -->
 
 ### Explicacion Pedagogica
@@ -483,9 +483,9 @@ Dado que $E propto \frac{1}{\sqrt{n}}$, se cumple $\frac{E_A}{E_B} = \sqrt{\frac
 ¿Cuál es la conclusión de la prueba de hipótesis bilateral equivalente a un nivel de significancia $\alpha = 0.05$?
 
 ### Opciones
-- [x] A) Se RECHAZA $H_0$, porque el valor nulo de 5,000,000 COP no se encuentra contenido dentro del intervalo de confianza del 95%.
+- [x] B) Se RECHAZA $H_0$, porque el valor nulo de 5,000,000 COP no se encuentra contenido dentro del intervalo de confianza del 95%.
   <!-- feedback: Si el valor hipotético bajo H0 no cae dentro del intervalo de confianza del (1 - alpha), se rechaza H0 al nivel alpha. -->
-- [ ] B) No se rechaza $H_0$, porque el intervalo contiene únicamente valores positivos.
+- [ ] A) No se rechaza $H_0$, porque el intervalo contiene únicamente valores positivos.
   <!-- feedback: La regla de equivalencia evalúa si el valor puntual especificado en H0 pertenece al intervalo. -->
 - [ ] C) Se acepta $H_0$, concluyendo que la media poblacional es exactamente 5,000,000 COP.
   <!-- feedback: Como el valor 5,000,000 está fuera del intervalo, la evidencia está en contra de H0. -->

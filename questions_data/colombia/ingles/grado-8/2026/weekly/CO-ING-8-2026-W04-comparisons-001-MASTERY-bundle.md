@@ -35,8 +35,8 @@ This bundle focuses on comparative and superlative adjectives, including irregul
 Bogotá is usually ________ than Cartagena, especially in the early morning.
 
 ### Opciones
-- [ ] A) cold <!-- feedback: Incorrect. We need the comparative form. -->
-- [x] B) colder <!-- feedback: Correct! For short adjectives, we add "-er" for comparison. -->
+- [ ] B) cold <!-- feedback: Incorrect. We need the comparative form. -->
+- [x] A) colder <!-- feedback: Correct! For short adjectives, we add "-er" for comparison. -->
 - [ ] C) more cold <!-- feedback: Incorrect. Short adjectives don't use "more". -->
 - [ ] D) the coldest <!-- feedback: Incorrect. This is the superlative form, used for more than two things. -->
 
@@ -57,8 +57,8 @@ Mount Everest is ________ mountain in the world.
 
 ### Opciones
 - [ ] A) the high <!-- feedback: Incorrect. Needs the superlative suffix. -->
-- [ ] B) higher than <!-- feedback: Incorrect. This is for comparing two things. -->
-- [x] C) the highest <!-- feedback: Correct! Use "the" + "-est" for the superlative of short adjectives. -->
+- [ ] C) higher than <!-- feedback: Incorrect. This is for comparing two things. -->
+- [x] B) the highest <!-- feedback: Correct! Use "the" + "-est" for the superlative of short adjectives. -->
 - [ ] D) most high <!-- feedback: Incorrect. Short adjectives don't use "most". -->
 
 ### Explicación Pedagógica
@@ -78,9 +78,9 @@ In my opinion, playing the piano is ________ than playing the drums.
 
 ### Opciones
 - [ ] A) difficultier <!-- feedback: Incorrect. "Difficult" is a long adjective. -->
-- [x] B) more difficult <!-- feedback: Correct! Long adjectives use "more" for comparison. -->
-- [ ] C) as difficult <!-- feedback: Incorrect. Needs "as" after the adjective to complete the structure. -->
-- [ ] D) the most difficult <!-- feedback: Incorrect. This is a superlative, not a comparison between two. -->
+- [x] D) more difficult <!-- feedback: Correct! Long adjectives use "more" for comparison. -->
+- [ ] B) as difficult <!-- feedback: Incorrect. Needs "as" after the adjective to complete the structure. -->
+- [ ] C) the most difficult <!-- feedback: Incorrect. This is a superlative, not a comparison between two. -->
 
 ### Explicación Pedagógica
 Para adjetivos largos (de tres o más sílabas), el comparativo se forma anteponiendo la palabra "more" al adjetivo.
@@ -99,8 +99,8 @@ My English grades are ________ this term than they were last year. I am studying
 
 ### Opciones
 - [ ] A) gooder <!-- feedback: Incorrect. "Good" is an irregular adjective. -->
-- [x] B) better <!-- feedback: Correct! "Better" is the comparative form of "good". -->
-- [ ] C) the best <!-- feedback: Incorrect. This is the superlative form. -->
+- [x] C) better <!-- feedback: Correct! "Better" is the comparative form of "good". -->
+- [ ] B) the best <!-- feedback: Incorrect. This is the superlative form. -->
 - [ ] D) more good <!-- feedback: Incorrect. "Good" does not use "more". -->
 
 ### Explicación Pedagógica
@@ -119,10 +119,10 @@ Algunos adjetivos son irregulares y cambian su forma completamente. El comparati
 This new smartphone is ________ expensive ________ the previous model. They cost exactly the same.
 
 ### Opciones
-- [x] A) as / as <!-- feedback: Correct! We use "as + adjective + as" to show equality. -->
-- [ ] B) more / than <!-- feedback: Incorrect. This would mean they don't cost the same. -->
-- [ ] C) so / that <!-- feedback: Incorrect. This structure is for consequence, not comparison. -->
-- [ ] D) less / than <!-- feedback: Incorrect. This means it is cheaper, but they cost the same. -->
+- [x] D) as / as <!-- feedback: Correct! We use "as + adjective + as" to show equality. -->
+- [ ] A) more / than <!-- feedback: Incorrect. This would mean they don't cost the same. -->
+- [ ] B) so / that <!-- feedback: Incorrect. This structure is for consequence, not comparison. -->
+- [ ] C) less / than <!-- feedback: Incorrect. This means it is cheaper, but they cost the same. -->
 
 ### Explicación Pedagógica
 Para comparar dos cosas que son iguales en una cualidad, utilizamos la estructura "as + adjetivo + as" (tan... como).
@@ -141,9 +141,9 @@ Traveling by "Chiva" is definitely ________ than traveling by a modern intercity
 
 ### Opciones
 - [ ] A) slow <!-- feedback: Incorrect. Comparative needed. -->
-- [x] B) slower <!-- feedback: Correct! Comparison of two modes of transport. -->
-- [ ] C) the slowest <!-- feedback: Incorrect. Superlative doesn't fit a comparison between two items. -->
-- [ ] D) more slow <!-- feedback: Incorrect. "Slow" is a short adjective. -->
+- [x] D) slower <!-- feedback: Correct! Comparison of two modes of transport. -->
+- [ ] B) the slowest <!-- feedback: Incorrect. Superlative doesn't fit a comparison between two items. -->
+- [ ] C) more slow <!-- feedback: Incorrect. "Slow" is a short adjective. -->
 
 ### Explicación Pedagógica
 Al comparar dos elementos específicos (Chiva vs. Bus moderno), debemos usar el grado comparativo. "Slow" es corto, por lo que usamos "-er".
@@ -183,8 +183,8 @@ Aunque en lenguaje informal se usa "less" para todo, gramaticalmente en nivel B1
 What does "by far" emphasize?
 
 ### Opciones
-- [ ] A) Cali is a little bit warmer than other cities. <!-- feedback: Incorrect. "By far" shows a large difference. -->
-- [x] B) Cali is much warmer than all the other cities. <!-- feedback: Correct! "By far" emphasizes a significant difference in a superlative. -->
+- [ ] B) Cali is a little bit warmer than other cities. <!-- feedback: Incorrect. "By far" shows a large difference. -->
+- [x] A) Cali is much warmer than all the other cities. <!-- feedback: Correct! "By far" emphasizes a significant difference in a superlative. -->
 - [ ] C) Cali is not actually warm. <!-- feedback: Incorrect. It says the opposite. -->
 - [ ] D) The speaker doesn't like warm cities. <!-- feedback: Incorrect. It's a statement of fact, not preference. -->
 
@@ -205,9 +205,9 @@ The ________ you study, the ________ your results will be.
 
 ### Opciones
 - [ ] A) more / good <!-- feedback: Incorrect. Second part must be a comparative too. -->
-- [x] B) harder / better <!-- feedback: Correct! Double comparative structure "The + comparative, the + comparative". -->
-- [ ] C) hard / best <!-- feedback: Incorrect. Doesn't follow the correlative structure. -->
-- [ ] D) most / best <!-- feedback: Incorrect. Uses superlatives instead of comparatives. -->
+- [x] D) harder / better <!-- feedback: Correct! Double comparative structure "The + comparative, the + comparative". -->
+- [ ] B) hard / best <!-- feedback: Incorrect. Doesn't follow the correlative structure. -->
+- [ ] C) most / best <!-- feedback: Incorrect. Uses superlatives instead of comparatives. -->
 
 ### Explicación Pedagógica
 La estructura "The + comparativo..., the + comparativo..." se usa para mostrar cómo una situación depende de otra (Cuanto más..., mejor...).
@@ -225,9 +225,9 @@ La estructura "The + comparativo..., the + comparativo..." se usa para mostrar c
 Which of the following sentences is grammatically **incorrect**?
 
 ### Opciones
-- [ ] A) This exam was far more difficult than I expected. <!-- feedback: Incorrect. This sentence is correct; "far" modifies the comparative. -->
-- [ ] B) She is the least ambitious person in the whole team. <!-- feedback: Incorrect. This sentence is correct; "the least" is a negative superlative. -->
-- [x] C) My house is more bigger than yours. <!-- feedback: Correct! This is an error. We should never use "more" with an "-er" comparative. -->
+- [ ] B) This exam was far more difficult than I expected. <!-- feedback: Incorrect. This sentence is correct; "far" modifies the comparative. -->
+- [ ] C) She is the least ambitious person in the whole team. <!-- feedback: Incorrect. This sentence is correct; "the least" is a negative superlative. -->
+- [x] A) My house is more bigger than yours. <!-- feedback: Correct! This is an error. We should never use "more" with an "-er" comparative. -->
 - [ ] D) Gold is much heavier than aluminum. <!-- feedback: Incorrect. This sentence is correct. -->
 
 ### Explicación Pedagógica
@@ -250,8 +250,8 @@ Compare these two sentences:
 Are they expressing the same idea?
 
 ### Opciones
-- [x] A) Yes, both sentences mean the book is superior to the movie. <!-- feedback: Correct! "Not as... as" is often a softer way to say "less than". -->
-- [ ] B) No, sentence 1 means they are equal. <!-- feedback: Incorrect. "Not as...as" shows inequality. -->
+- [x] B) Yes, both sentences mean the book is superior to the movie. <!-- feedback: Correct! "Not as... as" is often a softer way to say "less than". -->
+- [ ] A) No, sentence 1 means they are equal. <!-- feedback: Incorrect. "Not as...as" shows inequality. -->
 - [ ] C) No, sentence 2 means the movie is better. <!-- feedback: Incorrect. It says the book is better. -->
 - [ ] D) Yes, both sentences mean the movie is the best. <!-- feedback: Incorrect. Both favor the book. -->
 
@@ -272,9 +272,9 @@ El estudiante debe reconocer que "not as + adjetivo + as" es una estructura alte
 Choose the best follow-up sentence:
 
 ### Opciones
-- [x] A) Ultimately, choosing between them depends on whether you prefer warmth or scenery. <!-- feedback: Correct! It summarizes the comparison fairly. -->
-- [ ] B) Therefore, Medellín is worse than Manizales in every aspect. <!-- feedback: Incorrect. Too extreme and doesn't reflect the original text. -->
-- [ ] C) However, both cities are the most expensive in the world. <!-- feedback: Incorrect. Irrelevant to the previous comparison of climate/views. -->
+- [x] C) Ultimately, choosing between them depends on whether you prefer warmth or scenery. <!-- feedback: Correct! It summarizes the comparison fairly. -->
+- [ ] A) Therefore, Medellín is worse than Manizales in every aspect. <!-- feedback: Incorrect. Too extreme and doesn't reflect the original text. -->
+- [ ] B) However, both cities are the most expensive in the world. <!-- feedback: Incorrect. Irrelevant to the previous comparison of climate/views. -->
 - [ ] D) I will never go to those places because they are far. <!-- feedback: Incorrect. Contradicts the context of having already visited them. -->
 
 ### Explicación Pedagógica

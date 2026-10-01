@@ -52,9 +52,9 @@ Los cloroplastos son los organelos especializados en la fotosíntesis en plantas
 ### Enunciado
 ¿Cómo se denomina la propiedad de la membrana que permite el paso selectivo de ciertas sustancias e impide el de otras?
 ### Opciones
-- [x] A) Permeabilidad selectiva (semipermeabilidad)
+- [x] B) Permeabilidad selectiva (semipermeabilidad)
   <!-- feedback: Correcto. Controla el transporte de solutos e iones adentro y afuera de la célula. -->
-- [ ] B) Impermeabilidad total
+- [ ] A) Impermeabilidad total
   <!-- feedback: Incorrecto. Si fuera totalmente impermeable, la célula moriría sin intercambio. -->
 - [ ] C) Permeabilidad absoluta
   <!-- feedback: Incorrecto. Permitiría el paso descontrolado de cualquier molécula. -->
@@ -72,9 +72,9 @@ La membrana plasmática posee permeabilidad selectiva para regular la homeostasi
 ### Enunciado
 ¿Qué fenómeno celular ocurrirá con los glóbulos rojos debido al proceso de ósmosis?
 ### Opciones
-- [x] A) Entrará agua masivamente a la célula provocando su hinchamiento y lisis (citólisis).
+- [x] B) Entrará agua masivamente a la célula provocando su hinchamiento y lisis (citólisis).
   <!-- feedback: Correcto. El agua fluye hacia el medio con mayor concentración de solutos (interior celular). -->
-- [ ] B) Saldrá agua de la célula provocando su arrugamiento (crenación).
+- [ ] A) Saldrá agua de la célula provocando su arrugamiento (crenación).
   <!-- feedback: Incorrecto. La crenación ocurre en soluciones hipertónicas. -->
 - [ ] C) No habrá flujo de agua y la célula mantendrá su volumen.
   <!-- feedback: Incorrecto. Esto ocurre únicamente en soluciones isotónicas. -->
@@ -92,11 +92,11 @@ En solución hipotónica, el agua entra a favor del gradiente osmótico provocan
 ### Enunciado
 ¿Qué organelo celular se encuentra en alta abundancia dentro de las fibras musculares?
 ### Opciones
-- [x] A) Mitocondrias
+- [x] C) Mitocondrias
   <!-- feedback: Correcto. Producen el ATP requerido mediante la respiración celular aerobia. -->
-- [ ] B) Vacuolas centrales
+- [ ] A) Vacuolas centrales
   <!-- feedback: Incorrecto. Las vacuolas centrales turgentes son propias de plantas. -->
-- [ ] C) Ribosomas libres exclusivamente
+- [ ] B) Ribosomas libres exclusivamente
   <!-- feedback: Incorrecto. Los ribosomas sintetizan proteínas, no producen ATP directamente. -->
 - [ ] D) Paredes celulósicas
   <!-- feedback: Incorrecto. Las células animales no tienen pared celular. -->
@@ -132,9 +132,9 @@ El complejo de Golgi recibe proteínas del RER, las glicosila, empaqueta y dirig
 ### Enunciado
 ¿Cuál es la diferencia fundamental en términos de energía y gradiente de concentración entre ambos transportes?
 ### Opciones
-- [x] A) El transporte activo requiere gasto de energía (ATP) porque mueve solutos en contra del gradiente de concentración; la difusión pasiva no gasta ATP.
+- [x] B) El transporte activo requiere gasto de energía (ATP) porque mueve solutos en contra del gradiente de concentración; la difusión pasiva no gasta ATP.
   <!-- feedback: Correcto. El transporte contra gradiente requiere acoplamiento con la hidrólisis de ATP. -->
-- [ ] B) La difusión facilitada requiere ATP mientras que el transporte activo utiliza calor ambiental.
+- [ ] A) La difusión facilitada requiere ATP mientras que el transporte activo utiliza calor ambiental.
   <!-- feedback: Incorrecto. La difusión pasiva es un proceso espontáneo a favor de gradiente sin gasto de ATP. -->
 - [ ] C) Ambos transportes consumen la misma cantidad de ATP por molécula transportada.
   <!-- feedback: Incorrecto. El transporte pasivo no gasta ATP. -->
@@ -152,9 +152,9 @@ El transporte activo va contra gradiente electroquímico impulsado por hidrólis
 ### Enunciado
 ¿Por qué aumenta el ritmo de bombeo de la vacuola contráctil cuando el protozoo está en agua dulce hipotónica?
 ### Opciones
-- [x] A) Porque el agua entra constantemente por ósmosis al interior celular y debe ser expulsada para evitar la ruptura por lisis.
+- [x] B) Porque el agua entra constantemente por ósmosis al interior celular y debe ser expulsada para evitar la ruptura por lisis.
   <!-- feedback: Correcto. En medio hipotónico el agua ingresa por gradiente osmótico y la vacuola la bombea al exterior. -->
-- [ ] B) Porque el protozoo necesita beber agua dulce para realizar fotosíntesis.
+- [ ] A) Porque el protozoo necesita beber agua dulce para realizar fotosíntesis.
   <!-- feedback: Incorrecto. El *Paramecium* es heterótrofo y el ingreso es osmótico pasivo. -->
 - [ ] C) Porque la sal del exterior destruye la membrana plasmática.
   <!-- feedback: Incorrecto. El agua dulce no tiene altas sales. -->
@@ -192,11 +192,11 @@ La presencia de genoma propio ADN circular, ribosomas 70S y división por fisió
 ### Enunciado
 ¿Cuál es la secuencia cronológica exacta de organelos recorridos por la proteína marcada desde su síntesis hasta su salida?
 ### Opciones
-- [x] A) Reticulo Endoplásmico Rugoso (RER) $\rightarrow$ Aparato de Golgi $\rightarrow$ Vesículas de secreción $\rightarrow$ Membrana plasmática.
+- [x] C) Reticulo Endoplásmico Rugoso (RER) $\rightarrow$ Aparato de Golgi $\rightarrow$ Vesículas de secreción $\rightarrow$ Membrana plasmática.
   <!-- feedback: Correcto. La ruta de la vía secretora corre de RER a Golgi y de ahí a vesículas que fusionan con la membrana. -->
-- [ ] B) Aparato de Golgi $\rightarrow$ Núcleo $\rightarrow$ RER $\rightarrow$ Lisosoma.
+- [ ] A) Aparato de Golgi $\rightarrow$ Núcleo $\rightarrow$ RER $\rightarrow$ Lisosoma.
   <!-- feedback: Incorrecto. La síntesis secretora no ingresa al núcleo ni inicia en Golgi. -->
-- [ ] C) Mitocondria $\rightarrow$ RER $\rightarrow$ Vacuola $\text{central} \rightarrow$ Membrana.
+- [ ] B) Mitocondria $\rightarrow$ RER $\rightarrow$ Vacuola $\text{central} \rightarrow$ Membrana.
   <!-- feedback: Incorrecto. Las mitocondrias no forman parte del sistema de endomembranas secretor. -->
 - [ ] D) Lisosoma $\rightarrow$ RER $\rightarrow$ Golgi $\rightarrow$ Núcleo.
   <!-- feedback: Incorrecto. Los lisosomas son organelos digestivos finales, no iniciales de secreción. -->
@@ -212,13 +212,13 @@ Vía secretora celular: Ribosomas unidos al RER sintetizan la proteína hacia la
 ### Enunciado
 ¿Qué organelo celular se fusiona directamente con el fagosoma (vesícula con la bacteria) para degradar enzimáticamente al microorganismo?
 ### Opciones
-- [x] A) Lisosoma (formando el fagolisosoma)
+- [x] D) Lisosoma (formando el fagolisosoma)
   <!-- feedback: Correcto. Los lisosomas aportan hidrolasas ácidas para digerir el contenido del fagosoma. -->
-- [ ] B) Peroxisoma exclusivamente
+- [ ] A) Peroxisoma exclusivamente
   <!-- feedback: Incorrecto. Los peroxisomas degradan ácidos grasos y $H_2O_2$, no fagolisosomas principales. -->
-- [ ] C) Centrosoma
+- [ ] B) Centrosoma
   <!-- feedback: Incorrecto. El centrosoma organiza microtúbulos durante la división. -->
-- [ ] D) Reticulo Endoplásmico Liso (REL)
+- [ ] C) Reticulo Endoplásmico Liso (REL)
   <!-- feedback: Incorrecto. El REL sintetiza lípidos y desintoxica medicamentos. -->
 ### Explicacion Pedagogica
 La fusión del fagosoma con el lisosoma primario origina el fagolisosoma, donde las hidrolasas ácidas digieren la bacteria.

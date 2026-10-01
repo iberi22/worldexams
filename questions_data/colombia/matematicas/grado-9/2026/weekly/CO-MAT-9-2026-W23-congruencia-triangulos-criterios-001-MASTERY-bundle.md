@@ -52,11 +52,11 @@ El criterio LAL (lado-ángulo-lado) afirma que si dos lados y el ángulo compren
 ### Enunciado
 ¿Qué significa que dos triángulos sean congruentes?
 ### Opciones
-- [x] A) Tienen la misma forma y el mismo tamaño, con lados y ángulos correspondientes iguales
+- [x] C) Tienen la misma forma y el mismo tamaño, con lados y ángulos correspondientes iguales
   <!-- feedback: Correcto. La congruencia exige coincidencia total en lados y ángulos correspondientes. -->
-- [ ] B) Tienen la misma forma pero pueden tener distinto tamaño
+- [ ] A) Tienen la misma forma pero pueden tener distinto tamaño
   <!-- feedback: Incorrecto. Esa condición describe la semejanza, no la congruencia. -->
-- [ ] C) Tienen el mismo perímetro, sin importar los ángulos
+- [ ] B) Tienen el mismo perímetro, sin importar los ángulos
   <!-- feedback: Incorrecto. Igual perímetro no asegura la misma forma ni los mismos ángulos. -->
 - [ ] D) Tienen la misma área, aunque cambien los lados
   <!-- feedback: Incorrecto. Dos triángulos pueden tener igual área con lados y ángulos distintos. -->
@@ -72,13 +72,13 @@ Dos triángulos son congruentes cuando sus lados correspondientes y sus ángulos
 ### Enunciado
 Aplicando el criterio LLL, ¿cuál conjunto de lados corresponde a un triángulo congruente con la pieza?
 ### Opciones
-- [x] A) 6 cm, 8 cm y 10 cm
+- [x] D) 6 cm, 8 cm y 10 cm
   <!-- feedback: Correcto. Coinciden los tres lados, así que por LLL el triángulo es congruente. -->
-- [ ] B) 6 cm, 8 cm y 9 cm
+- [ ] A) 6 cm, 8 cm y 9 cm
   <!-- feedback: Incorrecto. El tercer lado cambió y el triángulo deja de coincidir. -->
-- [ ] C) 5 cm, 8 cm y 10 cm
+- [ ] B) 5 cm, 8 cm y 10 cm
   <!-- feedback: Incorrecto. El primer lado cambió, por lo que no se conservan los tres lados. -->
-- [ ] D) 6 cm, 7 cm y 10 cm
+- [ ] C) 6 cm, 7 cm y 10 cm
   <!-- feedback: Incorrecto. El segundo lado cambió y no se cumple el criterio LLL. -->
 ### Explicacion Pedagogica
 El criterio LLL exige que los tres lados correspondientes sean iguales, de modo que la única opción válida es 6 cm, 8 cm y 10 cm.
@@ -94,9 +94,9 @@ El criterio LLL exige que los tres lados correspondientes sean iguales, de modo 
 ### Opciones
 - [ ] A) LLL
   <!-- feedback: Incorrecto. Solo se conocen un lado y dos ángulos, no los tres lados. -->
-- [x] B) ALA
+- [x] C) ALA
   <!-- feedback: Correcto. Los dos ángulos y el lado comprendido entre ellos son iguales. -->
-- [ ] C) LAL
+- [ ] B) LAL
   <!-- feedback: Incorrecto. LAL requiere dos lados y el ángulo entre ellos, y aquí solo hay un lado. -->
 - [ ] D) AAA
   <!-- feedback: Incorrecto. AAA no garantiza congruencia porque no fija el tamaño. -->
@@ -112,11 +112,11 @@ Al tener dos ángulos iguales y el lado comprendido entre ellos también igual, 
 ### Enunciado
 ¿Cuánto debe medir x para que el nuevo triángulo sea congruente por el criterio LLL?
 ### Opciones
-- [ ] A) 7 cm
+- [ ] B) 7 cm
   <!-- feedback: Incorrecto. Restaste los otros dos lados, operación que no aplica al criterio LLL. -->
-- [ ] B) 17 cm
+- [ ] C) 17 cm
   <!-- feedback: Incorrecto. Sumaste los catetos en vez de igualar el tercer lado. -->
-- [x] C) 13 cm
+- [x] A) 13 cm
   <!-- feedback: Correcto. El tercer lado debe coincidir con 13 cm para igualar los tres lados. -->
 - [ ] D) 60 cm
   <!-- feedback: Incorrecto. Multiplicaste los lados, lo cual no corresponde a la congruencia. -->
@@ -134,9 +134,9 @@ Para que se cumpla LLL, los tres lados deben ser iguales; como ya coinciden 5 cm
 ### Opciones
 - [ ] A) 35°
   <!-- feedback: Incorrecto. Restaste de 90°, pero los ángulos correspondientes no son complementarios. -->
-- [ ] B) 125°
+- [ ] C) 125°
   <!-- feedback: Incorrecto. Restaste de 180°, pero aquí se trata del mismo ángulo correspondiente. -->
-- [x] C) 55°
+- [x] B) 55°
   <!-- feedback: Correcto. En triángulos congruentes los ángulos correspondientes son iguales. -->
 - [ ] D) 110°
   <!-- feedback: Incorrecto. Duplicaste el ángulo sin justificación geométrica. -->
@@ -172,13 +172,13 @@ Cuando se conocen dos lados y un ángulo no comprendido (LLA), pueden existir do
 ### Enunciado
 ¿Qué criterio demuestra que los triángulos ABC y ADC son congruentes?
 ### Opciones
-- [x] A) LLL
+- [x] D) LLL
   <!-- feedback: Correcto. AC es común, AB = AD y BC = DC: los tres lados correspondientes son iguales. -->
-- [ ] B) ALA
+- [ ] A) ALA
   <!-- feedback: Incorrecto. No se conocen dos ángulos iguales en los triángulos. -->
-- [ ] C) AAA
+- [ ] B) AAA
   <!-- feedback: Incorrecto. Con solo igualdad de ángulos no se garantiza la congruencia. -->
-- [ ] D) No se puede demostrar con los datos dados
+- [ ] C) No se puede demostrar con los datos dados
   <!-- feedback: Incorrecto. Los tres pares de lados iguales permiten aplicar LLL. -->
 ### Explicacion Pedagogica
 El lado AC es común a ambos triángulos y los otros dos lados son iguales por dato; por el criterio LLL los triángulos son congruentes.
@@ -192,9 +192,9 @@ El lado AC es común a ambos triángulos y los otros dos lados son iguales por d
 ### Enunciado
 ¿Qué criterio justifica la congruencia de esos dos triángulos?
 ### Opciones
-- [ ] A) LLL
+- [ ] B) LLL
   <!-- feedback: Incorrecto. Solo se conoce un lado igual, no los tres. -->
-- [x] B) ALA
+- [x] A) ALA
   <!-- feedback: Correcto. Hay dos ángulos iguales y el lado comprendido entre ellos es igual. -->
 - [ ] C) LAL
   <!-- feedback: Incorrecto. No se conocen dos lados iguales con su ángulo comprendido. -->
@@ -212,13 +212,13 @@ Los ángulos alternos internos son iguales por el paralelismo de las bases y el 
 ### Enunciado
 ¿Qué se puede concluir sobre estos dos triángulos?
 ### Opciones
-- [x] A) Son semejantes pero no congruentes, porque AAA solo garantiza la semejanza
+- [x] D) Son semejantes pero no congruentes, porque AAA solo garantiza la semejanza
   <!-- feedback: Correcto. Los ángulos iguales aseguran la forma, pero el tamaño cambia y no hay congruencia. -->
-- [ ] B) Son congruentes porque los tres ángulos coinciden
+- [ ] A) Son congruentes porque los tres ángulos coinciden
   <!-- feedback: Incorrecto. AAA no fija el tamaño de los lados, así que no basta para la congruencia. -->
-- [ ] C) Son congruentes porque ambos son triángulos rectángulos
+- [ ] B) Son congruentes porque ambos son triángulos rectángulos
   <!-- feedback: Incorrecto. Compartir un ángulo recto no iguala los lados de los triángulos. -->
-- [ ] D) No son semejantes ni congruentes
+- [ ] C) No son semejantes ni congruentes
   <!-- feedback: Incorrecto. Con ángulos iguales sí son semejantes, aunque no congruentes. -->
 ### Explicacion Pedagogica
 El criterio AAA solo establece semejanza: los triángulos tienen la misma forma pero distinto tamaño, por lo que no son congruentes.
@@ -232,9 +232,9 @@ El criterio AAA solo establece semejanza: los triángulos tienen la misma forma 
 ### Enunciado
 ¿Cuál es la evaluación correcta de la afirmación de Camila?
 ### Opciones
-- [x] A) Es falsa: un triángulo de lados 3, 4 y 5 y otro de base 6 con altura 2 tienen igual área (6) pero no son congruentes
+- [x] B) Es falsa: un triángulo de lados 3, 4 y 5 y otro de base 6 con altura 2 tienen igual área (6) pero no son congruentes
   <!-- feedback: Correcto. Ambos tienen área 6, pero sus lados y ángulos son distintos. -->
-- [ ] B) Es verdadera: si el área coincide, los lados también coinciden
+- [ ] A) Es verdadera: si el área coincide, los lados también coinciden
   <!-- feedback: Incorrecto. La congruencia exige lados y ángulos iguales, no solo igual área. -->
 - [ ] C) Es verdadera: el área determina por completo la forma del triángulo
   <!-- feedback: Incorrecto. Distintas formas pueden compartir la misma área. -->
@@ -252,11 +252,11 @@ La congruencia requiere la igualdad de lados y ángulos correspondientes. La igu
 ### Enunciado
 ¿Es correcta la afirmación del carpintero?
 ### Opciones
-- [x] A) Sí, porque por el criterio LLL dos triángulos con los tres lados respectivamente iguales son congruentes
+- [x] C) Sí, porque por el criterio LLL dos triángulos con los tres lados respectivamente iguales son congruentes
   <!-- feedback: Correcto. Los tres lados coinciden, así que los triángulos son congruentes por LLL. -->
-- [ ] B) No, porque podrían ser semejantes con distinto tamaño
+- [ ] A) No, porque podrían ser semejantes con distinto tamaño
   <!-- feedback: Incorrecto. La semejanza con distinto tamaño exigiría lados proporcionales, no iguales. -->
-- [ ] C) No, porque hace falta medir al menos un ángulo
+- [ ] B) No, porque hace falta medir al menos un ángulo
   <!-- feedback: Incorrecto. El criterio LLL no requiere conocer ángulos. -->
 - [ ] D) Sí, pero solo si los triángulos fueran rectángulos
   <!-- feedback: Incorrecto. LLL aplica a cualquier triángulo, no solo a los rectángulos. -->

@@ -52,13 +52,13 @@ En el interés simple, el interés I es el producto del capital inicial P por la
 ### Enunciado
 En ese préstamo, ¿qué representa el 2 % mensual?
 ### Opciones
-- [x] A) La tasa r: la fracción del capital que se cobra como interés cada mes
+- [x] D) La tasa r: la fracción del capital que se cobra como interés cada mes
   <!-- feedback: Correcto. La tasa indica que cada mes el interés es el 2 % del capital inicial, o sea 0,02 × 500 000 = $10 000. -->
-- [ ] B) El capital P que se prestó al inicio
+- [ ] A) El capital P que se prestó al inicio
   <!-- feedback: Incorrecto. El capital es $500 000, no el 2 %. -->
-- [ ] C) El tiempo t que dura el préstamo
+- [ ] B) El tiempo t que dura el préstamo
   <!-- feedback: Incorrecto. El tiempo es 1 mes, no el 2 %. -->
-- [ ] D) El monto total M que se termina pagando
+- [ ] C) El monto total M que se termina pagando
   <!-- feedback: Incorrecto. El monto total es capital más interés: $510 000. -->
 ### Explicacion Pedagogica
 La tasa r es el porcentaje por periodo aplicado al capital inicial. Con r = 2 % = 0,02, el interés de un mes es 500 000 × 0,02 = $10 000 y el monto es $510 000.
@@ -74,9 +74,9 @@ La tasa r es el porcentaje por periodo aplicado al capital inicial. Con r = 2 % 
 ### Opciones
 - [ ] A) $6 000
   <!-- feedback: Incorrecto. Ese es el interés de un solo mes; falta multiplicar por los 4 meses. -->
-- [x] B) $24 000
+- [x] C) $24 000
   <!-- feedback: Correcto. I = 200 000 × 0,03 × 4 = 6 000 × 4 = $24 000. -->
-- [ ] C) $12 000
+- [ ] B) $12 000
   <!-- feedback: Incorrecto. Ese valor usa 2 meses en vez de 4. -->
 - [ ] D) $60 000
   <!-- feedback: Incorrecto. Ese valor usa una tasa del 30 % en vez del 3 %. -->
@@ -92,11 +92,11 @@ I = P × r × t = 200 000 × 0,03 × 4 = $24 000. El estudiante devolverá $224 
 ### Enunciado
 ¿Cuál es el monto total que pagará el taller?
 ### Opciones
-- [x] A) $1 090 000
+- [x] C) $1 090 000
   <!-- feedback: Correcto. I = 1 000 000 × 0,015 × 6 = $90 000; M = 1 000 000 + 90 000 = $1 090 000. -->
-- [ ] B) $1 015 000
+- [ ] A) $1 015 000
   <!-- feedback: Incorrecto. Ese valor solo incluye un mes de interés. -->
-- [ ] C) $1 900 000
+- [ ] B) $1 900 000
   <!-- feedback: Incorrecto. Ese valor suma mal el capital con el interés. -->
 - [ ] D) $1 009 000
   <!-- feedback: Incorrecto. Ese valor usa una tasa del 0,15 % en vez del 1,5 %. -->
@@ -114,9 +114,9 @@ Primero se halla el interés (90 000) y luego se suma al capital inicial: M = P 
 ### Opciones
 - [ ] A) 12 % mensual
   <!-- feedback: Incorrecto. 12 % es la tasa total de los 6 meses, no la mensual. -->
-- [x] B) 2 % mensual
+- [x] C) 2 % mensual
   <!-- feedback: Correcto. r = 60 000 ÷ (500 000 × 6) = 60 000 ÷ 3 000 000 = 0,02 = 2 % mensual. -->
-- [ ] C) 0,2 % mensual
+- [ ] B) 0,2 % mensual
   <!-- feedback: Incorrecto. Con 0,2 % el interés sería de solo $6 000. -->
 - [ ] D) 6 % mensual
   <!-- feedback: Incorrecto. Con 6 % mensual el interés sería de $180 000. -->
@@ -152,9 +152,9 @@ El interés simple depende del producto r × t: 0,03 × 4 = 0,12 y 0,02 × 6 = 0
 ### Enunciado
 ¿Qué plan paga menos interés?
 ### Opciones
-- [x] A) Ninguno: ambos cobran el 12 % del capital
+- [x] B) Ninguno: ambos cobran el 12 % del capital
   <!-- feedback: Correcto. X: 0,04 × 3 = 0,12. Y: 0,02 × 6 = 0,12. El interés es idéntico. -->
-- [ ] B) El plan X, porque se termina de pagar antes
+- [ ] A) El plan X, porque se termina de pagar antes
   <!-- feedback: Incorrecto. Pagar antes no lo hace más barato si el producto tasa × tiempo es el mismo. -->
 - [ ] C) El plan Y, porque su tasa mensual es la mitad
   <!-- feedback: Incorrecto. La mitad de tasa durante el doble de tiempo produce el mismo interés. -->
@@ -172,9 +172,9 @@ Con el mismo capital, manda el producto r × t. Ambos planes dan 0,12, así que 
 ### Enunciado
 ¿En cuántos meses el interés iguala al capital?
 ### Opciones
-- [ ] A) 5 meses
+- [ ] B) 5 meses
   <!-- feedback: Incorrecto. En 5 meses el interés es apenas el 25 % del capital. -->
-- [x] B) 20 meses
+- [x] A) 20 meses
   <!-- feedback: Correcto. Se necesita r × t = 1, o sea 0,05 × t = 1, de donde t = 20 meses. -->
 - [ ] C) 10 meses
   <!-- feedback: Incorrecto. En 10 meses el interés es el 50 % del capital, no el 100 %. -->

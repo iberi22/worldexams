@@ -57,9 +57,9 @@ Remembering vocabulary of typical Colombian food in English.
 Which item on the menu is a drink?
 
 ### Opciones
-- [x] A) Fresh mango juice.
+- [x] B) Fresh mango juice.
   <!-- feedback: Mango juice is a drink made from the fruit. -->
-- [ ] B) Bandeja paisa.
+- [ ] A) Bandeja paisa.
   <!-- feedback: Bandeja paisa is a main dish, not a drink. -->
 - [ ] C) Arepas.
   <!-- feedback: Arepas are solid corn cakes, not a drink. -->
@@ -103,13 +103,13 @@ Applying polite expressions to order food in English.
 Which sentence correctly expresses likes and dislikes?
 
 ### Opciones
-- [x] A) She likes arepas, but she does not like onions.
+- [x] D) She likes arepas, but she does not like onions.
   <!-- feedback: "Likes" agrees with "she" and "does not like" expresses dislike correctly. -->
-- [ ] B) She like arepas, but she does not like onions.
+- [ ] A) She like arepas, but she does not like onions.
   <!-- feedback: "Like" needs an -s with the subject "she". -->
-- [ ] C) She liking arepas, but she does not like onions.
+- [ ] B) She liking arepas, but she does not like onions.
   <!-- feedback: "Liking" cannot work as a main verb here. -->
-- [ ] D) She likes arepas, but she do not like onions.
+- [ ] C) She likes arepas, but she do not like onions.
   <!-- feedback: The negative needs "does not", not "do not", with "she". -->
 
 ### Explicacion Pedagogica
@@ -126,9 +126,9 @@ Applying the verb "like" in affirmative and negative forms to express preference
 Which answer is correct and polite?
 
 ### Opciones
-- [x] A) I would like a glass of lulo juice, please.
+- [x] B) I would like a glass of lulo juice, please.
   <!-- feedback: This is a complete and polite answer to the question. -->
-- [ ] B) A table for two.
+- [ ] A) A table for two.
   <!-- feedback: That answers a question about seating, not about drinks. -->
 - [ ] C) I am from Colombia.
   <!-- feedback: That is not related to the question about drinks. -->
@@ -149,13 +149,13 @@ Responding appropriately and politely to a waiter's question about drinks.
 Which statement compares Sofía's and Mateo's orders correctly?
 
 ### Opciones
-- [x] A) Sofía orders a drink, and Mateo orders a bigger meal.
+- [x] D) Sofía orders a drink, and Mateo orders a bigger meal.
   <!-- feedback: Sofía orders juice with a snack, while Mateo orders a full meal. -->
-- [ ] B) Both order exactly the same food and drink.
+- [ ] A) Both order exactly the same food and drink.
   <!-- feedback: Their orders are different. -->
-- [ ] C) Mateo orders juice and Sofía orders water.
+- [ ] B) Mateo orders juice and Sofía orders water.
   <!-- feedback: Sofía orders guava juice and Mateo orders water. -->
-- [ ] D) Neither of them orders anything to drink.
+- [ ] C) Neither of them orders anything to drink.
   <!-- feedback: Both order something to drink: juice and water. -->
 
 ### Explicacion Pedagogica
@@ -172,11 +172,11 @@ Analyzing and comparing two orders described in English.
 Why do the sentences use "some" and "any"?
 
 ### Opciones
-- [x] A) "Some" is used in affirmative sentences and "any" in negative sentences.
+- [x] C) "Some" is used in affirmative sentences and "any" in negative sentences.
   <!-- feedback: "Some" appears in positive statements and "any" in negative ones. -->
-- [ ] B) "Some" is used in negative sentences and "any" in affirmative ones.
+- [ ] A) "Some" is used in negative sentences and "any" in affirmative ones.
   <!-- feedback: It is the opposite of the correct rule. -->
-- [ ] C) "Some" and "any" mean the same and can be exchanged freely.
+- [ ] B) "Some" and "any" mean the same and can be exchanged freely.
   <!-- feedback: They follow different rules in affirmative and negative sentences. -->
 - [ ] D) "Some" and "any" are only used with people, not food.
   <!-- feedback: They are commonly used with food and drinks. -->
@@ -195,9 +195,9 @@ Analyzing the use of "some" and "any" with countable and uncountable food nouns.
 What is the best conclusion about ajiaco?
 
 ### Opciones
-- [x] A) Ajiaco is a traditional soup from Bogotá that includes chicken, potatoes, and corn.
+- [x] B) Ajiaco is a traditional soup from Bogotá that includes chicken, potatoes, and corn.
   <!-- feedback: The text describes ajiaco as a traditional soup with those ingredients. -->
-- [ ] B) Ajiaco is a dessert made with chocolate.
+- [ ] A) Ajiaco is a dessert made with chocolate.
   <!-- feedback: The text says it is a soup, not a dessert. -->
 - [ ] C) Ajiaco is a drink served only at breakfast.
   <!-- feedback: The text says it is a soup, not a drink. -->

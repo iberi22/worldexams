@@ -58,11 +58,11 @@ La deixis anafórica garantiza la cohesión textual mediante pronombres que recu
 ¿Cuál de los siguientes enunciados cumple con las normas de concordancia gramatical de la RAE?
 
 ### Opciones
-- [x] A) La mayoría de los manifestantes marchó pacíficamente por la avenida principal.
+- [x] C) La mayoría de los manifestantes marchó pacíficamente por la avenida principal.
   <!-- feedback: Es correcta porque el verbo concuerda en singular con el núcleo colectivo partitivo 'la mayoría'. -->
-- [ ] B) La mayoría de los manifestantes marcháron pacíficamente por la avenida principal.
+- [ ] A) La mayoría de los manifestantes marcháron pacíficamente por la avenida principal.
   <!-- feedback: Es incorrecta porque incurre en una acentuación ortográfica aberrante en la conjugación verbal. -->
-- [ ] C) La mayoría de los manifestante marcharon pacíficamente por la avenida principal.
+- [ ] B) La mayoría de los manifestante marcharon pacíficamente por la avenida principal.
   <!-- feedback: Es incorrecta por la falta de concordancia de número en el complemento 'manifestante'. -->
 - [ ] D) La mayoría de los manifestantes marcharemos pacíficamente por la avenida principal.
   <!-- feedback: Es incorrecta por alterar la tercera persona gramatical sustituyéndola por la primera plural. -->
@@ -81,13 +81,13 @@ Los colectivos partitivos admiten concordancia en singular con el núcleo o en p
 ¿Qué propósito cumple el marcador discursivo 'es decir' en la redacción de un artículo de divulgación científica?
 
 ### Opciones
-- [x] A) Aclarar o reexplicar una afirmación compleja previa mediante términos más comprensibles.
+- [x] D) Aclarar o reexplicar una afirmación compleja previa mediante términos más comprensibles.
   <!-- feedback: Es correcta porque 'es decir' es un conector de reformulación explicativa. -->
-- [ ] B) Introducir una contradicción tajante que anula lo expresado en el párrafo anterior.
+- [ ] A) Introducir una contradicción tajante que anula lo expresado en el párrafo anterior.
   <!-- feedback: Es incorrecta porque no tiene función adversativa sino aclaratoria. -->
-- [ ] C) Iniciar una lista cronológica de los descubrimientos astronómicos del siglo XVII.
+- [ ] B) Iniciar una lista cronológica de los descubrimientos astronómicos del siglo XVII.
   <!-- feedback: Es incorrecta porque no ordena secuencias temporales en el discurso. -->
-- [ ] D) Concluir formalmente un ensayo despidiéndose de los lectores de la revista.
+- [ ] C) Concluir formalmente un ensayo despidiéndose de los lectores de la revista.
   <!-- feedback: Es incorrecta porque no posee carácter recapitulativo ni de despedida final. -->
 
 ### Explicacion Pedagogica
@@ -127,11 +127,11 @@ La pasiva refleja exige concordancia obligatoria entre el verbo pasivo y el suje
 ¿En qué opción se emplea de manera impecable el pronombre relativo 'cuyo'?
 
 ### Opciones
-- [x] A) La investigadora cuya hipótesis fue premiada presentó su ponencia en la universidad.
+- [x] C) La investigadora cuya hipótesis fue premiada presentó su ponencia en la universidad.
   <!-- feedback: Es correcta porque 'cuya' concuerda en femenino singular con el sustantivo poseído ('hipótesis'). -->
-- [ ] B) La investigadora que su hipótesis fue premiada presentó su ponencia en la universidad.
+- [ ] A) La investigadora que su hipótesis fue premiada presentó su ponencia en la universidad.
   <!-- feedback: Es incorrecta por el uso vulgar del 'quesuísmo' ('que su') en lugar del relativo correcto cuyo. -->
-- [ ] C) La investigadora cuya de su hipótesis fue premiada presentó su ponencia en la universidad.
+- [ ] B) La investigadora cuya de su hipótesis fue premiada presentó su ponencia en la universidad.
   <!-- feedback: Es incorrecta por la redundancia agramatical de acumular cuyo + de + su. -->
 - [ ] D) La investigadora quien su hipótesis fue premiada presentó su ponencia en la universidad.
   <!-- feedback: Es incorrecta por emplear el relativo de persona 'quien' con sentido posesivo sin concordancia. -->
@@ -150,13 +150,13 @@ El relativo 'cuyo' concuerda en género y número con la cosa poseída y enlaza 
 ¿Qué función cumplen los organizadores 'en primer lugar' y 'por último' en un ensayo?
 
 ### Opciones
-- [x] A) Estructurar la secuencia del discurso guiando al lector a lo largo del desarrollo de las ideas.
+- [x] D) Estructurar la secuencia del discurso guiando al lector a lo largo del desarrollo de las ideas.
   <!-- feedback: Es correcta porque organizan la información jerárquicamente en el tiempo o espacio del texto. -->
-- [ ] B) Expresar dudas sobre la veracidad de los datos presentados en el texto.
+- [ ] A) Expresar dudas sobre la veracidad de los datos presentados en el texto.
   <!-- feedback: Es incorrecta porque no indican incertidumbre sino ordenamiento expositivo. -->
-- [ ] C) Reemplazar el uso de los signos de puntuación como la coma y el punto seguido.
+- [ ] B) Reemplazar el uso de los signos de puntuación como la coma y el punto seguido.
   <!-- feedback: Es incorrecta porque los organizadores no eximen del uso adecuado de la puntuación. -->
-- [ ] D) Introducir diálogos dramáticos entre personajes de ficción dentro de un texto informativo.
+- [ ] C) Introducir diálogos dramáticos entre personajes de ficción dentro de un texto informativo.
   <!-- feedback: Es incorrecta porque no se usan para abrir diálogos sino para secuenciar apartados. -->
 
 ### Explicacion Pedagogica
@@ -173,13 +173,13 @@ Los conectores organizadores jerarquizan las partes del escrito facilitando el m
 ¿Qué fenómeno de cohesión se presenta en la oración 'Juan compró libros; Valentina, revistas'?
 
 ### Opciones
-- [x] A) Elipsis verbal, donde la coma sustituye al verbo 'compró' para evitar su repetición innecesaria.
+- [x] D) Elipsis verbal, donde la coma sustituye al verbo 'compró' para evitar su repetición innecesaria.
   <!-- feedback: Es correcta porque la elipsis omite un elemento lingüístico recuperable por el contexto sintáctico. -->
-- [ ] B) Anáfora pronominal, mediante el reemplazo de Valentina por un pronombre personal.
+- [ ] A) Anáfora pronominal, mediante el reemplazo de Valentina por un pronombre personal.
   <!-- feedback: Es incorrecta porque no hay sustitución pronominal sino omisión del núcleo verbal. -->
-- [ ] C) Catáfora explicativa, al anticipar los títulos de las revistas que se van a comprar.
+- [ ] B) Catáfora explicativa, al anticipar los títulos de las revistas que se van a comprar.
   <!-- feedback: Es incorrecta porque no se anticipa información futura sino que se elide el verbo previo. -->
-- [ ] D) Pleonasmo sintáctico, al reiterar palabras redundantes dentro de la proposición.
+- [ ] C) Pleonasmo sintáctico, al reiterar palabras redundantes dentro de la proposición.
   <!-- feedback: Es incorrecta porque la elipsis es un mecanismo de economía y no de redundancia. -->
 
 ### Explicacion Pedagogica
@@ -196,11 +196,11 @@ La elipsis suprime elementos redundantes sin perder la inteligibilidad del enunc
 ¿Qué relación lógica se establece mediante el conector 'por lo tanto' en un texto argumentativo?
 
 ### Opciones
-- [x] A) Introduce la consecuencia o deducción que se deriva de las premisas expuestas anteriormente.
+- [x] C) Introduce la consecuencia o deducción que se deriva de las premisas expuestas anteriormente.
   <!-- feedback: Es correcta porque 'por lo tanto' es un conector consecutivo que da paso a la conclusión o efecto. -->
-- [ ] B) Señala una restricción o concesión frente a la afirmación expresada en la cláusula previa.
+- [ ] A) Señala una restricción o concesión frente a la afirmación expresada en la cláusula previa.
   <!-- feedback: Es incorrecta porque las restricciones corresponden a conectores adversativos (sin embargo). -->
-- [ ] C) Indica la causa u origen biológico de un fenómeno natural descrito en el párrafo.
+- [ ] B) Indica la causa u origen biológico de un fenómeno natural descrito en el párrafo.
   <!-- feedback: Es incorrecta porque las causas se introducen mediante conectores causales (porque, ya que). -->
 - [ ] D) Sirve para ejemplificar una anécdota personal sin valor en el argumento principal.
   <!-- feedback: Es incorrecta porque no introduce ejemplos sino deducciones lógicas. -->
@@ -242,11 +242,11 @@ La catáfora anticipa elementos del discurso que se explicitarán posteriormente
 ¿Por qué un redactor reemplaza 'el perro' por 'el canino' en el segundo párrafo de una noticia?
 
 ### Opciones
-- [x] A) Para evitar la monotonía léxica mediante la sustitución por un sinónimo o hiperónimo.
+- [x] C) Para evitar la monotonía léxica mediante la sustitución por un sinónimo o hiperónimo.
   <!-- feedback: Es correcta porque la sustitución sinonímica mantiene la continuidad referencial sin repeticiones molestas. -->
-- [ ] B) Para confundir al lector haciéndole creer que en el segundo párrafo aparece un animal distinto.
+- [ ] A) Para confundir al lector haciéndole creer que en el segundo párrafo aparece un animal distinto.
   <!-- feedback: Es incorrecta porque el contexto periodístico asegura la correferencialidad entre perro y canino. -->
-- [ ] C) Porque la palabra 'perro' está prohibida por las normas gramaticales del idioma español.
+- [ ] B) Porque la palabra 'perro' está prohibida por las normas gramaticales del idioma español.
   <!-- feedback: Es incorrecta porque 'perro' es un sustantivo plenamente legítimo y normativo. -->
 - [ ] D) Para demostrar que el periodista conoce el idioma latín de forma fluida.
   <!-- feedback: Es incorrecta porque se busca elegancia y cohesión en castellano, no ostentación lingüística. -->
@@ -265,9 +265,9 @@ La sustitución sinonímica es una estrategia de cohesión que mantiene la coher
 ¿Qué función cumple el conector 'a pesar de que' en la frase 'A pesar de la lluvia, la marcha continuó'?
 
 ### Opciones
-- [x] A) Expresar un obstáculo o dificultad que no impide la realización de la acción principal.
+- [x] B) Expresar un obstáculo o dificultad que no impide la realización de la acción principal.
   <!-- feedback: Es correcta porque los conectores concesivos introducen una traba superada por la acción del verbo principal. -->
-- [ ] B) Señalar la causa absoluta por la cual las personas decidieron regresar a sus casas.
+- [ ] A) Señalar la causa absoluta por la cual las personas decidieron regresar a sus casas.
   <!-- feedback: Es incorrecta porque la marcha no se canceló; la lluvia no funcionó como causa de detención. -->
 - [ ] C) Introducir una comparación cuantitativa entre el volumen de agua y el número de marchantes.
   <!-- feedback: Es incorrecta porque no se realiza una medición de magnitudes comparadas. -->
@@ -288,13 +288,13 @@ La concesividad señala un impedimento que resulta ineficaz para neutralizar la 
 ¿Cuándo se utiliza adecuadamente el marcador 'a propósito' en una conversación académica?
 
 ### Opciones
-- [x] A) Para introducir una observación lateral o tema secundario relacionado tangencialmente con la charla.
+- [x] D) Para introducir una observación lateral o tema secundario relacionado tangencialmente con la charla.
   <!-- feedback: Es correcta porque 'a propósito' o 'por cierto' son marcadores de digresión que abren un parentesis temático. -->
-- [ ] B) Para insultar de forma malintencionada a uno de los participantes del debate.
+- [ ] A) Para insultar de forma malintencionada a uno de los participantes del debate.
   <!-- feedback: Es incorrecta porque la norma discursiva académica prohíbe el uso de marcadores para agravios. -->
-- [ ] C) Para señalar que se ha llegado al final de la clase y los alumnos pueden salir.
+- [ ] B) Para señalar que se ha llegado al final de la clase y los alumnos pueden salir.
   <!-- feedback: Es incorrecta porque no funciona como fórmula de clausura del tiempo de clase. -->
-- [ ] D) Para corregir una falla de ortografía cometida por el docente en el tablero.
+- [ ] C) Para corregir una falla de ortografía cometida por el docente en el tablero.
   <!-- feedback: Es incorrecta porque no cumple la función de corrección tipográfica o gramatical. -->
 
 ### Explicacion Pedagogica
@@ -334,9 +334,9 @@ El verbo 'haber' impersonal carece de sujeto y solo se conjuga en tercera person
 ¿Qué error comete quien escribe 'o sea' como una sola palabra ('osea')?
 
 ### Opciones
-- [x] A) Incurre en una falta de ortografía al confundir la locución explicativa con el adjetivo relativo a los huesos.
+- [x] B) Incurre en una falta de ortografía al confundir la locución explicativa con el adjetivo relativo a los huesos.
   <!-- feedback: Es correcta porque 'o sea' (locución explicativa) va en dos palabras, mientras que 'ósea' es relativo a hueso. -->
-- [ ] B) Demuestra un amplio dominio del vocabulario de la medicina ortopédica.
+- [ ] A) Demuestra un amplio dominio del vocabulario de la medicina ortopédica.
   <!-- feedback: Es incorrecta porque la equivocación refleja un error de segmentación léxica y no un mérito médico. -->
 - [ ] C) Aplica correctamente la reforma ortográfica de la RAE publicada en 2020.
   <!-- feedback: Es incorrecta porque la RAE no ha aprobado la unificación léxica de la locución 'o sea'. -->
@@ -357,13 +357,13 @@ La locución explicativa 'o sea' se compone de dos palabras independientes y no 
 ¿Qué sentido aporta la locución 'en todo caso' al inicio de una oración conclusiva?
 
 ### Opciones
-- [x] A) Relativizar lo dicho previamente o matizar la posición del autor dando por sentado lo esencial.
+- [x] D) Relativizar lo dicho previamente o matizar la posición del autor dando por sentado lo esencial.
   <!-- feedback: Es correcta porque los marcadores de distanciamiento permiten matizar o dar por superada una discusión parcial. -->
-- [ ] B) Afirmar que todo lo expresado en el texto son mentiras sin fundamento.
+- [ ] A) Afirmar que todo lo expresado en el texto son mentiras sin fundamento.
   <!-- feedback: Es incorrecta porque no descalifica la verdad del texto sino que reajusta su alcance. -->
-- [ ] C) Iniciar una descripción detallada de los muebles presentes en una habitación.
+- [ ] B) Iniciar una descripción detallada de los muebles presentes en una habitación.
   <!-- feedback: Es incorrecta porque no tiene por función la descripción de objetos físicos. -->
-- [ ] D) Exigir la repetición exacta del texto en voz alta por parte del público.
+- [ ] C) Exigir la repetición exacta del texto en voz alta por parte del público.
   <!-- feedback: Es incorrecta porque no es una consigna de lectura en voz alta. -->
 
 ### Explicacion Pedagogica
@@ -380,9 +380,9 @@ Los marcadores de distanciamiento permiten al emisor matizar su compromiso con l
 ¿Cuál de las siguientes estructuras causales presenta la puntuación adecuada?
 
 ### Opciones
-- [x] A) Ya que la reunión fue cancelada, los delegados regresaron a sus ciudades de origen.
+- [x] B) Ya que la reunión fue cancelada, los delegados regresaron a sus ciudades de origen.
   <!-- feedback: Es correcta porque la proposición subordinada causal antepuesta al núcleo verbal se separa con una coma. -->
-- [ ] B) Ya que la reunión fue cancelada los delegados regresaron, a sus ciudades de origen.
+- [ ] A) Ya que la reunión fue cancelada los delegados regresaron, a sus ciudades de origen.
   <!-- feedback: Es incorrecta porque falta la coma que debe delimitar el final de la subordinada antepuesta. -->
 - [ ] C) Ya que, la reunión fue cancelada los delegados regresaron a sus ciudades de origen.
   <!-- feedback: Es incorrecta porque coloca la coma de forma ilícita justo después de la locución conjuntiva. -->
@@ -403,13 +403,13 @@ Las oraciones subordinadas causales antepuestas a la principal deben separarse m
 ¿En qué tipo de texto resulta imprescindible la reiteración exacta de términos sin usar sinónimos?
 
 ### Opciones
-- [x] A) En los textos jurídicos y normativos, para evitar cualquier resquicio de ambigüedad interpretativa.
+- [x] D) En los textos jurídicos y normativos, para evitar cualquier resquicio de ambigüedad interpretativa.
   <!-- feedback: Es correcta porque en el derecho la precisión del concepto técnico exige fijedad léxica y repetición exacta. -->
-- [ ] B) En los poemas de amor romántico dedicados a la naturaleza y las flores.
+- [ ] A) En los poemas de amor romántico dedicados a la naturaleza y las flores.
   <!-- feedback: Es incorrecta porque la poesía privilegia la variedad metafórica y el ritmo léxico. -->
-- [ ] C) En las fábulas infantiles que enseñan valores morales a los niños pequeños.
+- [ ] B) En las fábulas infantiles que enseñan valores morales a los niños pequeños.
   <!-- feedback: Es incorrecta porque la literatura infantil emplea variaciones y juegos de palabras. -->
-- [ ] D) En los artículos de chismes sobre la vida privada de los artistas de televisión.
+- [ ] C) En los artículos de chismes sobre la vida privada de los artistas de televisión.
   <!-- feedback: Es incorrecta porque el periodismo de entretenimiento busca la variedad adjetiva no restrictiva. -->
 
 ### Explicacion Pedagogica
@@ -426,11 +426,11 @@ En discursos de alta precisión técnica o legal, la repetición léxica exacta 
 ¿Qué función cumple la locución 'es más' en un discurso persuasivo?
 
 ### Opciones
-- [x] A) Añadir un argumento de mayor peso o intensidad para reforzar la postura que se defiende.
+- [x] C) Añadir un argumento de mayor peso o intensidad para reforzar la postura que se defiende.
   <!-- feedback: Es correcta porque 'es más' funciona como un conector aditivo intensificativo que refuerza la tesis. -->
-- [ ] B) Restar importancia a los datos presentados para que el público no se preocupe.
+- [ ] A) Restar importancia a los datos presentados para que el público no se preocupe.
   <!-- feedback: Es incorrecta porque no atenúa los datos sino que añade énfasis y fortaleza a la argumentación. -->
-- [ ] C) Señalar que la conferencia durará dos horas más de lo previsto originalmente.
+- [ ] B) Señalar que la conferencia durará dos horas más de lo previsto originalmente.
   <!-- feedback: Es incorrecta porque no informa sobre la duración temporal del evento. -->
 - [ ] D) Indicar que se deben sumar dos números enteros en una operación matemática.
   <!-- feedback: Es incorrecta porque aplica una interpretación literal aritmética ajena a la función discursiva. -->
@@ -449,13 +449,13 @@ Los marcadores de intensificación introducen argumentos con mayor carga persuas
 ¿Qué elemento garantiza que un ensayo de diez páginas no se desarticule en fragmentos aislados?
 
 ### Opciones
-- [x] A) La presencia de un hilo conductor o eje temático mantenido mediante conectores y cohesión léxica.
+- [x] D) La presencia de un hilo conductor o eje temático mantenido mediante conectores y cohesión léxica.
   <!-- feedback: Es correcta porque la coherencia global reposa en la articulación de la tesis a través de la red de enlaces. -->
-- [ ] B) El uso de hojas de papel de colores diferentes en cada uno de los capítulos.
+- [ ] A) El uso de hojas de papel de colores diferentes en cada uno de los capítulos.
   <!-- feedback: Es incorrecta porque los aspectos de diseño gráfico no garantizan la estructura lógica del pensamiento. -->
-- [ ] C) La obligación de colocar la palabra 'fin' al término de cada párrafo escrito.
+- [ ] B) La obligación de colocar la palabra 'fin' al término de cada párrafo escrito.
   <!-- feedback: Es incorrecta porque la palabra 'fin' no crea cohesión sintáctica ni semántica entre ideas. -->
-- [ ] D) La inclusión de una lista de nombres de actores famosos en la mitad del texto.
+- [ ] C) La inclusión de una lista de nombres de actores famosos en la mitad del texto.
   <!-- feedback: Es incorrecta porque intercalar nombres inconexos destruye la unidad del ensayo. -->
 
 ### Explicacion Pedagogica
@@ -472,9 +472,9 @@ La coherencia global se logra mediante la presencia ininterrumpida de un eje tem
 ¿Por qué el ICFES evalúa la gramática textual y los marcadores discursivos en Lectura Crítica?
 
 ### Opciones
-- [x] A) Porque permiten identificar cómo se construyen las relaciones lógicas entre las oraciones y párrafos de un texto.
+- [x] B) Porque permiten identificar cómo se construyen las relaciones lógicas entre las oraciones y párrafos de un texto.
   <!-- feedback: Es correcta porque comprender la red de marcadores y referentes es indispensable para descifrar el sentido global. -->
-- [ ] B) Porque se busca que los estudiantes memoricen el diccionario de la lengua española sin comprenderlo.
+- [ ] A) Porque se busca que los estudiantes memoricen el diccionario de la lengua española sin comprenderlo.
   <!-- feedback: Es incorrecta porque la prueba no mide la memorización ciega sino la capacidad analítica y relacional. -->
 - [ ] C) Porque la gramática textual es un juego de entretenimiento para los momentos de descanso escolar.
   <!-- feedback: Es incorrecta porque es una competencia académica central para la educación superior. -->

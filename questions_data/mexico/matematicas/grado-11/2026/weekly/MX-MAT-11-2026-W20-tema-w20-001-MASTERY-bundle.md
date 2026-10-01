@@ -30,11 +30,11 @@ creador: "Jules-Agent"
 Determina la pendiente m de la recta que pasa por los puntos P₁(1, 3) y P₂(4, 12) en el plano cartesiano.
 
 ### Opciones
-- [x] A) 3
+- [x] C) 3
   <!-- feedback: ¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (12 - 3) / (4 - 1) = 9 / 3 = 3. -->
-- [ ] B) 1/3
+- [ ] A) 1/3
   <!-- feedback: Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y. -->
-- [ ] C) 9
+- [ ] B) 9
   <!-- feedback: Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal. -->
 - [ ] D) -3
   <!-- feedback: Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y. -->
@@ -53,13 +53,13 @@ La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmul
 Determina la pendiente m de la recta que pasa por los puntos P₁(2, 4) y P₂(5, 13) en el plano cartesiano.
 
 ### Opciones
-- [x] A) 3
+- [x] D) 3
   <!-- feedback: ¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (13 - 4) / (5 - 2) = 9 / 3 = 3. -->
-- [ ] B) 1/3
+- [ ] A) 1/3
   <!-- feedback: Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y. -->
-- [ ] C) 9
+- [ ] B) 9
   <!-- feedback: Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal. -->
-- [ ] D) -3
+- [ ] C) -3
   <!-- feedback: Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y. -->
 
 ### Explicacion Pedagogica
@@ -76,9 +76,9 @@ La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmul
 Determina la pendiente m de la recta que pasa por los puntos P₁(3, 5) y P₂(6, 14) en el plano cartesiano.
 
 ### Opciones
-- [x] A) 3
+- [x] B) 3
   <!-- feedback: ¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (14 - 5) / (6 - 3) = 9 / 3 = 3. -->
-- [ ] B) 1/3
+- [ ] A) 1/3
   <!-- feedback: Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y. -->
 - [ ] C) 9
   <!-- feedback: Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal. -->
@@ -99,11 +99,11 @@ La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmul
 Determina la pendiente m de la recta que pasa por los puntos P₁(4, 3) y P₂(7, 12) en el plano cartesiano.
 
 ### Opciones
-- [x] A) 3
+- [x] C) 3
   <!-- feedback: ¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (12 - 3) / (7 - 4) = 9 / 3 = 3. -->
-- [ ] B) 1/3
+- [ ] A) 1/3
   <!-- feedback: Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y. -->
-- [ ] C) 9
+- [ ] B) 9
   <!-- feedback: Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal. -->
 - [ ] D) -3
   <!-- feedback: Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y. -->
@@ -122,9 +122,9 @@ La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmul
 Determina la pendiente m de la recta que pasa por los puntos P₁(5, 4) y P₂(8, 13) en el plano cartesiano.
 
 ### Opciones
-- [x] A) 3
+- [x] B) 3
   <!-- feedback: ¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (13 - 4) / (8 - 5) = 9 / 3 = 3. -->
-- [ ] B) 1/3
+- [ ] A) 1/3
   <!-- feedback: Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y. -->
 - [ ] C) 9
   <!-- feedback: Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal. -->
@@ -145,13 +145,13 @@ La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmul
 Determina la pendiente m de la recta que pasa por los puntos P₁(6, 5) y P₂(9, 14) en el plano cartesiano.
 
 ### Opciones
-- [x] A) 3
+- [x] D) 3
   <!-- feedback: ¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (14 - 5) / (9 - 6) = 9 / 3 = 3. -->
-- [ ] B) 1/3
+- [ ] A) 1/3
   <!-- feedback: Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y. -->
-- [ ] C) 9
+- [ ] B) 9
   <!-- feedback: Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal. -->
-- [ ] D) -3
+- [ ] C) -3
   <!-- feedback: Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y. -->
 
 ### Explicacion Pedagogica
@@ -191,11 +191,11 @@ La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmul
 Determina la pendiente m de la recta que pasa por los puntos P₁(8, 4) y P₂(11, 13) en el plano cartesiano.
 
 ### Opciones
-- [x] A) 3
+- [x] C) 3
   <!-- feedback: ¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (13 - 4) / (11 - 8) = 9 / 3 = 3. -->
-- [ ] B) 1/3
+- [ ] A) 1/3
   <!-- feedback: Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y. -->
-- [ ] C) 9
+- [ ] B) 9
   <!-- feedback: Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal. -->
 - [ ] D) -3
   <!-- feedback: Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y. -->
@@ -237,11 +237,11 @@ La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmul
 Determina la pendiente m de la recta que pasa por los puntos P₁(10, 3) y P₂(13, 12) en el plano cartesiano.
 
 ### Opciones
-- [x] A) 3
+- [x] C) 3
   <!-- feedback: ¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (12 - 3) / (13 - 10) = 9 / 3 = 3. -->
-- [ ] B) 1/3
+- [ ] A) 1/3
   <!-- feedback: Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y. -->
-- [ ] C) 9
+- [ ] B) 9
   <!-- feedback: Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal. -->
 - [ ] D) -3
   <!-- feedback: Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y. -->
@@ -283,9 +283,9 @@ La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmul
 Determina la pendiente m de la recta que pasa por los puntos P₁(12, 5) y P₂(15, 14) en el plano cartesiano.
 
 ### Opciones
-- [x] A) 3
+- [x] B) 3
   <!-- feedback: ¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (14 - 5) / (15 - 12) = 9 / 3 = 3. -->
-- [ ] B) 1/3
+- [ ] A) 1/3
   <!-- feedback: Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y. -->
 - [ ] C) 9
   <!-- feedback: Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal. -->
@@ -306,11 +306,11 @@ La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmul
 Determina la pendiente m de la recta que pasa por los puntos P₁(13, 3) y P₂(16, 12) en el plano cartesiano.
 
 ### Opciones
-- [x] A) 3
+- [x] C) 3
   <!-- feedback: ¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (12 - 3) / (16 - 13) = 9 / 3 = 3. -->
-- [ ] B) 1/3
+- [ ] A) 1/3
   <!-- feedback: Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y. -->
-- [ ] C) 9
+- [ ] B) 9
   <!-- feedback: Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal. -->
 - [ ] D) -3
   <!-- feedback: Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y. -->
@@ -329,11 +329,11 @@ La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmul
 Determina la pendiente m de la recta que pasa por los puntos P₁(14, 4) y P₂(17, 13) en el plano cartesiano.
 
 ### Opciones
-- [x] A) 3
+- [x] C) 3
   <!-- feedback: ¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (13 - 4) / (17 - 14) = 9 / 3 = 3. -->
-- [ ] B) 1/3
+- [ ] A) 1/3
   <!-- feedback: Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y. -->
-- [ ] C) 9
+- [ ] B) 9
   <!-- feedback: Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal. -->
 - [ ] D) -3
   <!-- feedback: Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y. -->
@@ -398,11 +398,11 @@ La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmul
 Determina la pendiente m de la recta que pasa por los puntos P₁(17, 4) y P₂(20, 13) en el plano cartesiano.
 
 ### Opciones
-- [x] A) 3
+- [x] C) 3
   <!-- feedback: ¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (13 - 4) / (20 - 17) = 9 / 3 = 3. -->
-- [ ] B) 1/3
+- [ ] A) 1/3
   <!-- feedback: Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y. -->
-- [ ] C) 9
+- [ ] B) 9
   <!-- feedback: Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal. -->
 - [ ] D) -3
   <!-- feedback: Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y. -->
@@ -421,13 +421,13 @@ La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmul
 Determina la pendiente m de la recta que pasa por los puntos P₁(18, 5) y P₂(21, 14) en el plano cartesiano.
 
 ### Opciones
-- [x] A) 3
+- [x] D) 3
   <!-- feedback: ¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (14 - 5) / (21 - 18) = 9 / 3 = 3. -->
-- [ ] B) 1/3
+- [ ] A) 1/3
   <!-- feedback: Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y. -->
-- [ ] C) 9
+- [ ] B) 9
   <!-- feedback: Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal. -->
-- [ ] D) -3
+- [ ] C) -3
   <!-- feedback: Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y. -->
 
 ### Explicacion Pedagogica
@@ -444,11 +444,11 @@ La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmul
 Determina la pendiente m de la recta que pasa por los puntos P₁(19, 3) y P₂(22, 12) en el plano cartesiano.
 
 ### Opciones
-- [x] A) 3
+- [x] C) 3
   <!-- feedback: ¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (12 - 3) / (22 - 19) = 9 / 3 = 3. -->
-- [ ] B) 1/3
+- [ ] A) 1/3
   <!-- feedback: Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y. -->
-- [ ] C) 9
+- [ ] B) 9
   <!-- feedback: Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal. -->
 - [ ] D) -3
   <!-- feedback: Incorrecto. La pendiente es positiva porque al aumentar X también aumenta el valor en Y. -->
@@ -467,9 +467,9 @@ La pendiente de una recta que pasa por dos puntos se obtiene mediante la fórmul
 Determina la pendiente m de la recta que pasa por los puntos P₁(20, 4) y P₂(23, 13) en el plano cartesiano.
 
 ### Opciones
-- [x] A) 3
+- [x] B) 3
   <!-- feedback: ¡Correcto! La pendiente m es m = (y2 - y1) / (x2 - x1). Sustituyendo: m = (13 - 4) / (23 - 20) = 9 / 3 = 3. -->
-- [ ] B) 1/3
+- [ ] A) 1/3
   <!-- feedback: Incorrecto. Se calculó la pendiente al revés, dividiendo la diferencia en X por la diferencia en Y. -->
 - [ ] C) 9
   <!-- feedback: Incorrecto. Corresponde únicamente a la diferencia vertical (y2 - y1), sin dividir entre la diferencia horizontal. -->

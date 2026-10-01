@@ -57,13 +57,13 @@ La luz se propaga en línea recta en medios homogéneos y puede ser reflejada, a
 ¿Por qué las manos proyectan una silueta oscura sobre la pared blanca iluminada?
 
 ### Opciones
-- [x] A) Porque la mano sólida bloquea el paso de la luz solar y deja una región sin iluminación directa, que es la sombra
+- [x] D) Porque la mano sólida bloquea el paso de la luz solar y deja una región sin iluminación directa, que es la sombra
   <!-- feedback: Correcto. Los objetos opacos producen sombra cuando interceptan la luz. -->
-- [ ] B) Porque la mano emite un oscuridad que pinta la pared
+- [ ] A) Porque la mano emite un oscuridad que pinta la pared
   <!-- feedback: Incorrecto. La mano no emite oscuridad, solo bloquea la luz. -->
-- [ ] C) Porque la pared cambia de color al recibir la sombra
+- [ ] B) Porque la pared cambia de color al recibir la sombra
   <!-- feedback: Incorrecto. La pared sigue del mismo color y solo deja de recibir luz directa en esa zona. -->
-- [ ] D) Porque el sol no brilla sobre Nariño a esa hora
+- [ ] C) Porque el sol no brilla sobre Nariño a esa hora
   <!-- feedback: Incorrecto. El sol sí alumbra esa zona y por eso se forma la silueta. -->
 
 ### Explicacion Pedagogica
@@ -80,13 +80,13 @@ La sombra es la región donde la luz no llega porque un objeto opaco la intercep
 ¿Cómo se llama la región totalmente oscura formada alrededor de la pelota en la pantalla?
 
 ### Opciones
-- [x] A) Umbra
+- [x] D) Umbra
   <!-- feedback: Correcto. La umbra es la región donde no llega ningún rayo de la fuente puntual. -->
-- [ ] B) Penumbra
+- [ ] A) Penumbra
   <!-- feedback: Incorrecto. La penumbra es la región parcialmente iluminada, no la totalmente oscura. -->
-- [ ] C) Fotón
+- [ ] B) Fotón
   <!-- feedback: Incorrecto. Fotón es la partícula de luz, no la región de sombra. -->
-- [ ] D) Espejo
+- [ ] C) Espejo
   <!-- feedback: Incorrecto. Espejo es una superficie reflectante, no una sombra. -->
 
 ### Explicacion Pedagogica
@@ -103,11 +103,11 @@ Con una fuente puntual y un solo cuerpo opaco se forma una umbra nítida; si la 
 ¿Qué ocurre cuando la luz de la calle llega al espejo plano y vuelve a los ojos del vendedor?
 
 ### Opciones
-- [x] A) La luz se refleja con el mismo ángulo con el que llegó, formando una imagen virtual del objeto detrás del espejo
+- [x] C) La luz se refleja con el mismo ángulo con el que llegó, formando una imagen virtual del objeto detrás del espejo
   <!-- feedback: Correcto. El espejo plano cumple la ley de reflexión y produce imagen virtual. -->
-- [ ] B) La luz atraviesa el espejo y no regresa al vendedor
+- [ ] A) La luz atraviesa el espejo y no regresa al vendedor
   <!-- feedback: Incorrecto. El espejo plano refleja casi toda la luz, no la deja pasar. -->
-- [ ] C) El espejo cambia la dirección de la luz al azar y deforma todo
+- [ ] B) El espejo cambia la dirección de la luz al azar y deforma todo
   <!-- feedback: Incorrecto. La reflexión sigue una ley geométrica precisa. -->
 - [ ] D) La luz emitida por el vendedor vuelve al espejo y ese es el rayo reflejado
   <!-- feedback: Incorrecto. La reflexión ocurre con luz externa al espejo, no con la luz del ojo del vendedor. -->
@@ -126,9 +126,9 @@ La ley de reflexión dice que el ángulo de incidencia es igual al ángulo de re
 ¿Qué tipo de reflexión se ve en la superficie del embalse cuando el agua está completamente quieta?
 
 ### Opciones
-- [x] A) Reflexión especular, porque el agua lisa refleja los rayos de forma ordenada como un espejo plano
+- [x] B) Reflexión especular, porque el agua lisa refleja los rayos de forma ordenada como un espejo plano
   <!-- feedback: Correcto. Superficies lisas producen reflexión especular. -->
-- [ ] B) Reflexión difusa, porque el agua desordenada desvía la imagen
+- [ ] A) Reflexión difusa, porque el agua desordenada desvía la imagen
   <!-- feedback: Incorrecto. La difusa ocurre en superficies rugosas, no en agua quieta. -->
 - [ ] C) Refracción, porque la luz cambia de velocidad dentro del agua
   <!-- feedback: Incorrecto. La refracción también ocurre, pero el efecto óptico visible aquí es la reflexión especular. -->
@@ -149,13 +149,13 @@ La reflexión especular se da en superficies lisas donde los rayos paralelos se 
 ¿Qué análisis explica que la sombra crezca al alejar el cuerpo del foco y acercarse a la pantalla?
 
 ### Opciones
-- [x] A) Los rayos divergentes de la fuente puntual se abren y la región bloqueada aumenta con la distancia
+- [x] D) Los rayos divergentes de la fuente puntual se abren y la región bloqueada aumenta con la distancia
   <!-- feedback: Correcto. La propagación rectilínea explica el aumento de la sombra. -->
-- [ ] B) La pantalla se encoge por la distancia
+- [ ] A) La pantalla se encoge por la distancia
   <!-- feedback: Incorrecto. La pantalla tiene tamaño fijo, lo que cambia es la sombra proyectada. -->
-- [ ] C) La luz se vuelve más débil al alejarse y por eso la sombra crece
+- [ ] B) La luz se vuelve más débil al alejarse y por eso la sombra crece
   <!-- feedback: Incorrecto. La intensidad no cambia el tamaño de la sombra. -->
-- [ ] D) El color del cuerpo aumenta la sombra
+- [ ] C) El color del cuerpo aumenta la sombra
   <!-- feedback: Incorrecto. El color no afecta la geometría de la sombra. -->
 
 ### Explicacion Pedagogica
@@ -172,13 +172,13 @@ Si la fuente es puntual, los rayos divergen y la sombra proyecta los bordes del 
 ¿Qué análisis compara la sombra producida por una bombilla grande y la producida por una pequeña linterna?
 
 ### Opciones
-- [x] A) La fuente grande genera umbra más pequeña y penumbra más amplia; la fuente puntual genera umbra bien definida y penumbra casi nula
+- [x] D) La fuente grande genera umbra más pequeña y penumbra más amplia; la fuente puntual genera umbra bien definida y penumbra casi nula
   <!-- feedback: Correcto. La geometría de la fuente define la umbra y la penumbra. -->
-- [ ] B) La fuente grande genera penumbra nula y la bolita genera doble umbra
+- [ ] A) La fuente grande genera penumbra nula y la bolita genera doble umbra
   <!-- feedback: Incorrecto. La fuente grande siempre genera penumbra. -->
-- [ ] C) La fuente puntual no produce sombra alguna
+- [ ] B) La fuente puntual no produce sombra alguna
   <!-- feedback: Incorrecto. Toda fuente de luz puntual produce sombra definida. -->
-- [ ] D) El color de la fuente cambia la umbra pero no la penumbra
+- [ ] C) El color de la fuente cambia la umbra pero no la penumbra
   <!-- feedback: Incorrecto. El color no influye en la geometría de la sombra. -->
 
 ### Explicacion Pedagogica
@@ -218,9 +218,9 @@ La imagen del espejo plano es virtual y del mismo tamaño, pero invierte los eje
 ¿Qué juicio crítico merece la afirmación del vendedor respecto a broncearse en una habitación oscura?
 
 ### Opciones
-- [x] A) Es falsa, porque sin luz no hay energía que produzca bronceado; la radiación ultravioleta artificial necesita fuente propia y declarada
+- [x] B) Es falsa, porque sin luz no hay energía que produzca bronceado; la radiación ultravioleta artificial necesita fuente propia y declarada
   <!-- feedback: Correcto. El bronceado requiere luz ultravioleta específica, no oscuridad. -->
-- [ ] B) Es cierta porque una habitación oscura ya trae luz escondida
+- [ ] A) Es cierta porque una habitación oscura ya trae luz escondida
   <!-- feedback: Incorrecto. La oscuridad no contiene energía lumínica utilizable. -->
 - [ ] C) Es cierta porque la piel se broncea en cualquier ambiente oscuro
   <!-- feedback: Incorrecto. Sin luz incidente no hay producción de melanina por bronceado. -->
@@ -241,13 +241,13 @@ Evaluar publicidad exige reconocer que la luz se genera por fuentes específicas
 ¿Qué evaluación conjunta de las tres hipótesis es correcta?
 
 ### Opciones
-- [x] A) La 1 es falsa porque la luz viaja en el vacío, la 2 es falsa porque la reflexión ocurre en muchas superficies además del metal pulido y la 3 es verdadera
+- [x] D) La 1 es falsa porque la luz viaja en el vacío, la 2 es falsa porque la reflexión ocurre en muchas superficies además del metal pulido y la 3 es verdadera
   <!-- feedback: Correcto. La luz viaja en el vacío, la reflexión ocurre en aguas y espejos y la imagen del espejo plano conserva el tamaño. -->
-- [ ] B) Las tres son verdaderas porque la luz siempre necesita aire
+- [ ] A) Las tres son verdaderas porque la luz siempre necesita aire
   <!-- feedback: Incorrecto. La luz del Sol llega a la Tierra cruzando el vacío. -->
-- [ ] C) Solo la 2 es verdadera y las demás son falsas
+- [ ] B) Solo la 2 es verdadera y las demás son falsas
   <!-- feedback: Incorrecto. La 2 es falsa y la 3 es verdadera. -->
-- [ ] D) Las tres son falsas porque no existe la reflexión
+- [ ] C) Las tres son falsas porque no existe la reflexión
   <!-- feedback: Incorrecto. La reflexión es observable en muchos contextos. -->
 
 ### Explicacion Pedagogica

@@ -38,11 +38,11 @@ Which word is most commonly used to introduce the short action that interrupts a
 ### Opciones
 - [ ] A) While
   <!-- feedback: Incorrect. "While" is usually followed by the long action (Continuous). -->
-- [x] B) When
+- [x] D) When
   <!-- feedback: Correct! "When" is typically followed by the short action (Simple). -->
-- [ ] C) Then
+- [ ] B) Then
   <!-- feedback: Incorrect. This is a sequence connector. -->
-- [ ] D) If
+- [ ] C) If
   <!-- feedback: Incorrect. This is a conditional connector. -->
 
 ### Explicacion Pedagogica
@@ -61,9 +61,9 @@ The student identifies the grammatical function of the connector "when" in past 
 Which tense is used to describe a background action that was in progress?
 
 ### Opciones
-- [ ] A) Past Simple
+- [ ] B) Past Simple
   <!-- feedback: Incorrect. This is for completed or short actions. -->
-- [x] B) Past Continuous
+- [x] A) Past Continuous
   <!-- feedback: Correct! This tense describes actions that were in progress. -->
 - [ ] C) Present Continuous
   <!-- feedback: Incorrect. This is for actions happening now. -->
@@ -86,9 +86,9 @@ The student remembers the primary function of the Past Continuous tense.
 Complete: "I ________ (read) a book when the phone ________ (ring)."
 
 ### Opciones
-- [ ] A) read / rang
+- [ ] B) read / rang
   <!-- feedback: Incorrect. Both are simple past; doesn't show the background/interruption relationship. -->
-- [x] B) was reading / rang
+- [x] A) was reading / rang
   <!-- feedback: Correct! "Was reading" is the background action, and "rang" is the interruption. -->
 - [ ] C) reading / ringed
   <!-- feedback: Incorrect. Missing "was" and "ring" is irregular. -->
@@ -136,11 +136,11 @@ The student understands the specific syntactic placement of "while" in a compoun
 "We ________ (walk) in the park when we ________ (see) a famous actor."
 
 ### Opciones
-- [ ] A) walked / saw
+- [ ] B) walked / saw
   <!-- feedback: Incorrect. Doesn't emphasize the progress of the first action. -->
-- [ ] B) was walking / saw
+- [ ] C) was walking / saw
   <!-- feedback: Incorrect. "We" requires "were". -->
-- [x] C) were walking / saw
+- [x] A) were walking / saw
   <!-- feedback: Correct! "Were walking" (long action) was interrupted by "saw" (short event). -->
 - [ ] D) were walking / see
   <!-- feedback: Incorrect. "See" must be in the past. -->
@@ -162,9 +162,9 @@ The student applies subject-verb agreement and the contrast between long and sho
 What were the two background actions happening before the power went out?
 
 ### Opciones
-- [ ] A) Looking for a candle and stopping TV.
+- [ ] B) Looking for a candle and stopping TV.
   <!-- feedback: Incorrect. These happened AFTER the blackout. -->
-- [x] B) Doing homework and watching TV.
+- [x] A) Doing homework and watching TV.
   <!-- feedback: Correct! These were the actions in progress when the interruption occurred. -->
 - [ ] C) Going out and reading.
   <!-- feedback: Incorrect. Not mentioned. -->
@@ -187,9 +187,9 @@ The student applies reading strategies to identify the background actions in a n
 "The driver ________ (not / look) at the road when the cat ________ (run) in front of the car."
 
 ### Opciones
-- [ ] A) didn't look / ran
+- [ ] B) didn't look / ran
   <!-- feedback: Incorrect. Needs the continuous to show the lack of attention was an ongoing state. -->
-- [x] B) wasn't looking / ran
+- [x] A) wasn't looking / ran
   <!-- feedback: Correct! "Wasn't looking" (negative background state) and "ran" (interruption). -->
 - [ ] C) wasn't looking / was running
   <!-- feedback: Incorrect. This would mean two simultaneous actions, but "when" signals an interruption. -->
@@ -214,9 +214,9 @@ Which sentence is LOGICALLY correct?
 ### Opciones
 - [ ] A) I was falling asleep when the movie started.
   <!-- feedback: Incorrect. Usually, starting a movie makes you wake up or stay awake, though possible, option B is more standard. -->
-- [x] B) I fell asleep while I was watching the movie.
+- [x] C) I fell asleep while I was watching the movie.
   <!-- feedback: Correct! The long action is watching, and falling asleep is the sudden interruption. -->
-- [ ] C) I was watching the movie when I was falling asleep.
+- [ ] B) I was watching the movie when I was falling asleep.
   <!-- feedback: Incorrect. "Falling asleep" is usually seen as the short point of transition here. -->
 - [ ] D) While I fell asleep, I was watching the movie.
   <!-- feedback: Incorrect. Reverses the use of "while". -->
@@ -240,9 +240,9 @@ What happened first in the sequence?
 ### Opciones
 - [ ] A) It started to rain.
   <!-- feedback: Incorrect. This happened while they were already playing. -->
-- [x] B) The kids were playing.
+- [x] C) The kids were playing.
   <!-- feedback: Correct! This was the action already in progress (background) before the rain started. -->
-- [ ] C) They ran inside.
+- [ ] B) They ran inside.
   <!-- feedback: Incorrect. This was a reaction to the rain. -->
 - [ ] D) They used the towels.
   <!-- feedback: Incorrect. This was the final step. -->

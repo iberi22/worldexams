@@ -57,9 +57,9 @@ Reconocer el significado del patrimonio cultural como herencia e identidad de un
 ¿Por qué el Carnaval de Barranquilla es parte del patrimonio cultural de Colombia?
 
 ### Opciones
-- [x] A) Porque reúne música, danzas y tradiciones que identifican a la región Caribe.
+- [x] B) Porque reúne música, danzas y tradiciones que identifican a la región Caribe.
   <!-- feedback: El Carnaval expresa la identidad cultural del Caribe colombiano a través de sus expresiones. -->
-- [ ] B) Porque se celebra de la misma manera en todos los países del mundo.
+- [ ] A) Porque se celebra de la misma manera en todos los países del mundo.
   <!-- feedback: El Carnaval tiene características propias de Barranquilla y la región Caribe. -->
 - [ ] C) Porque en él participan únicamente personas extranjeras.
   <!-- feedback: La comunidad barranquillera es protagonista de sus propias tradiciones. -->
@@ -80,9 +80,9 @@ Comprender por qué las fiestas tradicionales expresan la identidad cultural de 
 ¿Cómo aporta el café a la identidad cultural colombiana?
 
 ### Opciones
-- [x] A) Es un producto que representa el trabajo del campo y es reconocido en el mundo como símbolo de Colombia.
+- [x] B) Es un producto que representa el trabajo del campo y es reconocido en el mundo como símbolo de Colombia.
   <!-- feedback: El café encarna la cultura campesina y la imagen de Colombia ante el mundo. -->
-- [ ] B) Es un producto que solo se consume en otros países.
+- [ ] A) Es un producto que solo se consume en otros países.
   <!-- feedback: El café se cultiva y se consume también en Colombia, donde hace parte de la vida diaria. -->
 - [ ] C) Es una bebida que no tiene ninguna relación con la cultura colombiana.
   <!-- feedback: El café está ligado a la historia, la economía y las costumbres del país. -->
@@ -126,9 +126,9 @@ Reconocer el valor cultural de las artesanías tradicionales colombianas.
 ¿Cuál es la acción más adecuada para proteger el patrimonio cultural?
 
 ### Opciones
-- [x] A) Cuidar los monumentos, no rayarlos y enseñar a otros a respetarlos.
+- [x] B) Cuidar los monumentos, no rayarlos y enseñar a otros a respetarlos.
   <!-- feedback: Conservar los bienes patrimoniales es una responsabilidad compartida por toda la comunidad. -->
-- [ ] B) Rayar las paredes para dejar la propia firma.
+- [ ] A) Rayar las paredes para dejar la propia firma.
   <!-- feedback: Rayar los monumentos los deteriora y borra parte de la historia. -->
 - [ ] C) Llevarse pedazos de los monumentos como recuerdo.
   <!-- feedback: Tomar partes de un monumento daña un bien que pertenece a todos. -->
@@ -149,9 +149,9 @@ Aplicar acciones de cuidado y respeto hacia el patrimonio cultural en la vida co
 ¿Qué diferencia hay entre el patrimonio material y el patrimonio inmaterial?
 
 ### Opciones
-- [x] A) El material está formado por objetos y lugares; el inmaterial por prácticas, música y tradiciones.
+- [x] B) El material está formado por objetos y lugares; el inmaterial por prácticas, música y tradiciones.
   <!-- feedback: El patrimonio material es tangible y el inmaterial vive en las prácticas culturales. -->
-- [ ] B) El material solo existe en los museos y el inmaterial no existe.
+- [ ] A) El material solo existe en los museos y el inmaterial no existe.
   <!-- feedback: El patrimonio material está también en las calles y las casas, y el inmaterial existe en las tradiciones. -->
 - [ ] C) Los dos son exactamente iguales y no tienen ninguna diferencia.
   <!-- feedback: Sí existen diferencias claras entre lo tangible y lo intangible. -->
@@ -172,11 +172,11 @@ Analizar las diferencias entre el patrimonio cultural material e inmaterial.
 ¿Qué consecuencia trae la desaparición de una lengua indígena?
 
 ### Opciones
-- [x] A) Se pierden conocimientos, historias y formas de ver el mundo que hacen parte del patrimonio cultural.
+- [x] C) Se pierden conocimientos, historias y formas de ver el mundo que hacen parte del patrimonio cultural.
   <!-- feedback: Cada lengua guarda saberes y visiones únicas que se pierden con ella. -->
-- [ ] B) Aumenta el número de tradiciones que se conservan.
+- [ ] A) Aumenta el número de tradiciones que se conservan.
   <!-- feedback: La desaparición de una lengua reduce, no aumenta, el patrimonio conservado. -->
-- [ ] C) No tiene ninguna consecuencia para el país.
+- [ ] B) No tiene ninguna consecuencia para el país.
   <!-- feedback: La pérdida de una lengua afecta la diversidad y la memoria cultural del país. -->
 - [ ] D) Se recuperan automáticamente todas las costumbres antiguas.
   <!-- feedback: Las costumbres no se recuperan solas; requieren esfuerzo de conservación. -->
@@ -195,9 +195,9 @@ Analizar las consecuencias de la pérdida de lenguas y tradiciones indígenas pa
 ¿Por qué es importante valorar y proteger la diversidad cultural de Colombia?
 
 ### Opciones
-- [x] A) Porque fortalece la identidad, el respeto entre los pueblos y conserva las tradiciones para las futuras generaciones.
+- [x] B) Porque fortalece la identidad, el respeto entre los pueblos y conserva las tradiciones para las futuras generaciones.
   <!-- feedback: La diversidad cultural es una riqueza que une al país y debe protegerse para el futuro. -->
-- [ ] B) Porque una sola cultura debe imponerse sobre todas las demás.
+- [ ] A) Porque una sola cultura debe imponerse sobre todas las demás.
   <!-- feedback: Imponer una cultura sobre otras niega la pluralidad y vulnera la identidad de los pueblos. -->
 - [ ] C) Porque las culturas diferentes no aportan nada al país.
   <!-- feedback: Cada cultura aporta conocimientos, arte y formas de vida que enriquecen a la nación. -->

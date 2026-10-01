@@ -34,11 +34,11 @@ Estructura y características de la biografía, identificación de ideas princip
 ¿Qué es una biografía?
 
 ### Opciones
-- [x] A) Un texto narrativo que cuenta la vida de una persona real, organizada en orden cronológico.
+- [x] C) Un texto narrativo que cuenta la vida de una persona real, organizada en orden cronológico.
   <!-- feedback: La biografía narra hechos reales de una persona en orden temporal. -->
-- [ ] B) Un cuento de hadas con personajes inventados.
+- [ ] A) Un cuento de hadas con personajes inventados.
   <!-- feedback: La biografía se basa en personas reales, no en ficción. -->
-- [ ] C) Un texto que solo habla del presente de una persona famosa.
+- [ ] B) Un texto que solo habla del presente de una persona famosa.
   <!-- feedback: La biografía incluye infancia, juventud y adultez. -->
 - [ ] D) Una lista de datos sin ninguna historia.
   <!-- feedback: La biografía narra hechos organizados en una historia. -->
@@ -57,9 +57,9 @@ Reconocer la definición básica de biografía como texto narrativo sobre la vid
 ¿Qué información del fragmento permite conocer los orígenes del personaje?
 
 ### Opciones
-- [x] A) El lugar y año de nacimiento, junto con los primeros intereses de su infancia.
+- [x] B) El lugar y año de nacimiento, junto con los primeros intereses de su infancia.
   <!-- feedback: Estos datos ubican al personaje en un tiempo y lugar concretos. -->
-- [ ] B) El color favorito del personaje.
+- [ ] A) El color favorito del personaje.
   <!-- feedback: El fragmento no menciona el color favorito. -->
 - [ ] C) La cantidad de libros que escribió.
   <!-- feedback: El fragmento no menciona el número de libros. -->
@@ -103,9 +103,9 @@ Aplicar el orden cronológico para secuenciar los eventos principales de una bio
 ¿Cuál es la idea principal del texto subrayado?
 
 ### Opciones
-- [x] A) Que Fernando Botero es un pintor colombiano reconocido por su estilo de figuras grandes y redondeadas.
+- [x] B) Que Fernando Botero es un pintor colombiano reconocido por su estilo de figuras grandes y redondeadas.
   <!-- feedback: La idea principal resume quién es y por qué es famoso. -->
-- [ ] B) Que Botero únicamente vivió en Europa.
+- [ ] A) Que Botero únicamente vivió en Europa.
   <!-- feedback: El texto menciona Europa como etapa, no como lugar único. -->
 - [ ] C) Que Botero no tiene un estilo propio.
   <!-- feedback: El texto sí destaca su estilo característico. -->
@@ -149,13 +149,13 @@ Aplicar la estructura de una ficha biográfica para organizar la información le
 ¿Qué diferencia esencial existe entre el texto A y el texto B?
 
 ### Opciones
-- [x] A) El texto A narra hechos reales verificables de una persona existente, mientras el texto B es ficción.
+- [x] D) El texto A narra hechos reales verificables de una persona existente, mientras el texto B es ficción.
   <!-- feedback: La biografía se basa en hechos reales, el cuento es ficción. -->
-- [ ] B) Los dos textos son biografías porque hablan de ranas.
+- [ ] A) Los dos textos son biografías porque hablan de ranas.
   <!-- feedback: Hablar de ranas no convierte un cuento en biografía. -->
-- [ ] C) El texto B es más real porque menciona lugares de Colombia.
+- [ ] B) El texto B es más real porque menciona lugares de Colombia.
   <!-- feedback: Mencionar un lugar real no convierte un cuento en biografía. -->
-- [ ] D) El texto A no tiene personajes.
+- [ ] C) El texto A no tiene personajes.
   <!-- feedback: El texto A sí tiene un personaje principal, la científica. -->
 
 ### Explicacion Pedagogica
@@ -172,9 +172,9 @@ Analizar las diferencias entre una biografía y un texto narrativo de ficción.
 ¿Qué enseñanza sobre la vida del personaje se deduce del texto?
 
 ### Opciones
-- [x] A) Que la perseverancia y el esfuerzo permiten superar las dificultades y alcanzar logros importantes.
+- [x] B) Que la perseverancia y el esfuerzo permiten superar las dificultades y alcanzar logros importantes.
   <!-- feedback: El texto muestra cómo la constancia llevó al éxito. -->
-- [ ] B) Que cualquier persona famosa siempre tuvo dinero.
+- [ ] A) Que cualquier persona famosa siempre tuvo dinero.
   <!-- feedback: El texto menciona pobreza y rechazos en su camino. -->
 - [ ] C) Que solo los extranjeros pueden triunfar en la literatura.
   <!-- feedback: El personaje es colombiano, lo cual desmiente esa idea. -->
@@ -195,13 +195,13 @@ Analizar el mensaje o enseñanza que transmite una biografía de un personaje co
 ¿Cuál es la mejor respuesta a esta pregunta?
 
 ### Opciones
-- [x] A) Porque permiten conocer la historia del país, valorar los aportes de sus personajes y aprender de sus experiencias.
+- [x] D) Porque permiten conocer la historia del país, valorar los aportes de sus personajes y aprender de sus experiencias.
   <!-- feedback: Las biografías conectan la historia personal con la historia colectiva. -->
-- [ ] B) Porque reemplazan a los libros de ciencia en el currículo.
+- [ ] A) Porque reemplazan a los libros de ciencia en el currículo.
   <!-- feedback: Las biografías complementan, pero no reemplazan otros textos. -->
-- [ ] C) Porque solo sirven para aprobar el examen final.
+- [ ] B) Porque solo sirven para aprobar el examen final.
   <!-- feedback: Su valor va mucho más allá de una evaluación. -->
-- [ ] D) Porque prohiben conocer la historia universal.
+- [ ] C) Porque prohiben conocer la historia universal.
   <!-- feedback: Las biografías colombianas enriquecen, no prohíben, el estudio de otras historias. -->
 
 ### Explicacion Pedagogica

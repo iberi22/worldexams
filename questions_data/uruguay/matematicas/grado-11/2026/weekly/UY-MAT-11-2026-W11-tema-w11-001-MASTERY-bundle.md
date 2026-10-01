@@ -33,9 +33,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 
 ### Opciones
 - [ ] A) 4 <!-- feedback: Incorrecto. El 4 es el coeficiente principal, no el exponente máximo de la variable. -->
-- [x] B) 3 <!-- feedback: ¡Correcto! El grado es el mayor exponente de $x$ con coeficiente distinto de cero, que es 3. -->
-- [ ] C) 2 <!-- feedback: Incorrecto. El término de grado 2 existe, pero no es el exponente más alto del polinomio. -->
-- [ ] D) -9 <!-- feedback: Incorrecto. -9 es el término independiente, no el grado. -->
+- [x] D) 3 <!-- feedback: ¡Correcto! El grado es el mayor exponente de $x$ con coeficiente distinto de cero, que es 3. -->
+- [ ] B) 2 <!-- feedback: Incorrecto. El término de grado 2 existe, pero no es el exponente más alto del polinomio. -->
+- [ ] C) -9 <!-- feedback: Incorrecto. -9 es el término independiente, no el grado. -->
 
 ### Explicación Pedagógica
 El grado de un polinomio en una variable es el mayor exponente al que está elevada la variable $x$ con coeficiente no nulo. En $4x^3 - 7x^2 + 2x - 9$, el exponente máximo es 3.
@@ -51,8 +51,8 @@ El grado de un polinomio en una variable es el mayor exponente al que está elev
 ¿Cuáles son las raíces del polinomio $P(x) = (x - 2)(x + 5)(x - 1)$?
 
 ### Opciones
-- [ ] A) $x = -2, 5, -1$ <!-- feedback: Incorrecto. Confundiste los signos de los factores $(x - a)$. -->
-- [x] B) $x = 2, -5, 1$ <!-- feedback: ¡Correcto! Se iguala cada factor a cero: $x - 2 = 0 \Rightarrow x = 2$, $x + 5 = 0 \Rightarrow x = -5$, $x - 1 = 0 \Rightarrow x = 1$. -->
+- [ ] B) $x = -2, 5, -1$ <!-- feedback: Incorrecto. Confundiste los signos de los factores $(x - a)$. -->
+- [x] A) $x = 2, -5, 1$ <!-- feedback: ¡Correcto! Se iguala cada factor a cero: $x - 2 = 0 \Rightarrow x = 2$, $x + 5 = 0 \Rightarrow x = -5$, $x - 1 = 0 \Rightarrow x = 1$. -->
 - [ ] C) $x = 2, 5, 1$ <!-- feedback: Incorrecto. Para el factor $(x + 5)$, la raíz es $x = -5$. -->
 - [ ] D) $x = 10$ <!-- feedback: Incorrecto. Multiplicaste las constantes en lugar de hallar los ceros de cada factor. -->
 
@@ -166,9 +166,9 @@ Si $f(x) = u(x) \cdot v(x)$, ¿cuál es la expresión correcta para su derivada 
 
 ### Opciones
 - [ ] A) $u'(x) \cdot v'(x)$ <!-- feedback: Incorrecto. La derivada del producto NO es el producto de las derivadas. -->
-- [x] B) $u'(x) \cdot v(x) + u(x) \cdot v'(x)$ <!-- feedback: ¡Correcto! Es la regla de Leibniz para la derivada de un producto. -->
-- [ ] C) $u'(x) \cdot v(x) - u(x) \cdot v'(x)$ <!-- feedback: Incorrecto. Ese signo negativo aparece en la regla del cociente. -->
-- [ ] D) $\frac{u'(x)}{v'(x)}$ <!-- feedback: Incorrecto. Esta no es la regla del producto. -->
+- [x] D) $u'(x) \cdot v(x) + u(x) \cdot v'(x)$ <!-- feedback: ¡Correcto! Es la regla de Leibniz para la derivada de un producto. -->
+- [ ] B) $u'(x) \cdot v(x) - u(x) \cdot v'(x)$ <!-- feedback: Incorrecto. Ese signo negativo aparece en la regla del cociente. -->
+- [ ] C) $\frac{u'(x)}{v'(x)}$ <!-- feedback: Incorrecto. Esta no es la regla del producto. -->
 
 ### Explicación Pedagógica
 La regla del producto (o regla de Leibniz) establece que la derivada de un producto de dos funciones es la derivada de la primera por la segunda sin derivar, más la primera sin derivar por la derivada de la segunda.
@@ -185,8 +185,8 @@ Utilizando la regla del producto o desarrollando el polinomio, ¿cuál es la der
 
 ### Opciones
 - [ ] A) $g'(x) = 2$ <!-- feedback: Incorrecto. Solo derivaste el primer factor sin considerar la interacción con el segundo. -->
-- [x] B) $g'(x) = 4x - 5$ <!-- feedback: ¡Correcto! Desarrollando $g(x) = 2x^2 - 5x - 3$, su derivada es $4x - 5$. -->
-- [ ] C) $g'(x) = 4x + 1$ <!-- feedback: Incorrecto. Error en el signo del término lineal al expandir o al aplicar la regla del producto. -->
+- [x] C) $g'(x) = 4x - 5$ <!-- feedback: ¡Correcto! Desarrollando $g(x) = 2x^2 - 5x - 3$, su derivada es $4x - 5$. -->
+- [ ] B) $g'(x) = 4x + 1$ <!-- feedback: Incorrecto. Error en el signo del término lineal al expandir o al aplicar la regla del producto. -->
 - [ ] D) $g'(x) = 2x - 5$ <!-- feedback: Incorrecto. Derivaste $2x^2$ como $2x$ en lugar de $4x$. -->
 
 ### Explicación Pedagógica
@@ -222,9 +222,9 @@ Una función es estrictamente creciente donde su derivada es positiva. Como $f'(
 Dada la posición $s(t) = 2t^3 - 9t^2 + 12t$, ¿cuál es la aceleración $a(t) = s''(t)$ en el instante $t = 2$?
 
 ### Opciones
-- [x] A) 6 <!-- feedback: ¡Correcto! $s'(t) = 6t^2 - 18t + 12$, luego $s''(t) = 12t - 18$. Para $t=2$: $12(2) - 18 = 6$. -->
-- [ ] B) 0 <!-- feedback: Incorrecto. 0 es la velocidad $s'(2) = 6(4) - 36 + 12 = 0$, no la aceleración. -->
-- [ ] C) 12 <!-- feedback: Incorrecto. Evaluaste solo el primer término $12t$ de la segunda derivada sin restar 18. -->
+- [x] C) 6 <!-- feedback: ¡Correcto! $s'(t) = 6t^2 - 18t + 12$, luego $s''(t) = 12t - 18$. Para $t=2$: $12(2) - 18 = 6$. -->
+- [ ] A) 0 <!-- feedback: Incorrecto. 0 es la velocidad $s'(2) = 6(4) - 36 + 12 = 0$, no la aceleración. -->
+- [ ] B) 12 <!-- feedback: Incorrecto. Evaluaste solo el primer término $12t$ de la segunda derivada sin restar 18. -->
 - [ ] D) -6 <!-- feedback: Incorrecto. Error de signo en la resta $24 - 18$. -->
 
 ### Explicación Pedagógica
@@ -242,9 +242,9 @@ La velocidad es $v(t) = s'(t) = 6t^2 - 18t + 12$. La aceleración es $a(t) = v'(
 
 ### Opciones
 - [ ] A) $h'(x) = 4(3x^2 + 1)^3$ <!-- feedback: Incorrecto. Olvidaste multiplicar por la derivada de la función interna $(3x^2 + 1)' = 6x$. -->
-- [x] B) $h'(x) = 24x(3x^2 + 1)^3$ <!-- feedback: ¡Correcto! Por regla de la cadena: $4(3x^2 + 1)^3 \cdot (6x) = 24x(3x^2 + 1)^3$. -->
-- [ ] C) $h'(x) = 12x(3x^2 + 1)^3$ <!-- feedback: Incorrecto. Derivaste $3x^2$ como $3x$ en lugar de $6x$. -->
-- [ ] D) $h'(x) = 24x^2(3x^2 + 1)^3$ <!-- feedback: Incorrecto. Multiplicaste por $6x^2$ en lugar de $6x$. -->
+- [x] D) $h'(x) = 24x(3x^2 + 1)^3$ <!-- feedback: ¡Correcto! Por regla de la cadena: $4(3x^2 + 1)^3 \cdot (6x) = 24x(3x^2 + 1)^3$. -->
+- [ ] B) $h'(x) = 12x(3x^2 + 1)^3$ <!-- feedback: Incorrecto. Derivaste $3x^2$ como $3x$ en lugar de $6x$. -->
+- [ ] C) $h'(x) = 24x^2(3x^2 + 1)^3$ <!-- feedback: Incorrecto. Multiplicaste por $6x^2$ en lugar de $6x$. -->
 
 ### Explicación Pedagógica
 Por la regla de la cadena, $\frac{d}{dx}[g(x)^n] = n g(x)^{n-1} g'(x)$. Para $g(x) = 3x^2 + 1$, se tiene $g'(x) = 6x$. Por lo tanto, $h'(x) = 4(3x^2 + 1)^3 \cdot 6x = 24x(3x^2 + 1)^3$.
@@ -301,8 +301,8 @@ Si un polinomio con coeficientes reales $P(x)$ tiene a $z = 3 + 2i$ como raíz, 
 
 ### Opciones
 - [ ] A) $z = -3 + 2i$ <!-- feedback: Incorrecto. La conjugación afecta la parte imaginaria, no la parte real. -->
-- [x] B) $z = 3 - 2i$ <!-- feedback: ¡Correcto! Por el Teorema de las Raíces Complejas Conjugadas, las raíces no reales aparecen en pares conjugados. -->
-- [ ] C) $z = -3 - 2i$ <!-- feedback: Incorrecto. Cambiaste ambos signos; solo la parte imaginaria debe cambiar de signo. -->
+- [x] C) $z = 3 - 2i$ <!-- feedback: ¡Correcto! Por el Teorema de las Raíces Complejas Conjugadas, las raíces no reales aparecen en pares conjugados. -->
+- [ ] B) $z = -3 - 2i$ <!-- feedback: Incorrecto. Cambiaste ambos signos; solo la parte imaginaria debe cambiar de signo. -->
 - [ ] D) $z = 2 + 3i$ <!-- feedback: Incorrecto. Intercambiaste las partes real e imaginaria. -->
 
 ### Explicación Pedagógica
@@ -319,8 +319,8 @@ El Teorema de las Raíces Conjugadas establece que si un polinomio con coeficien
 Al dividir $P(x) = 2x^3 - 3x^2 + 4x - 5$ entre $(x - 2)$, ¿cuál es el resto de la división?
 
 ### Opciones
-- [ ] A) 3 <!-- feedback: Incorrecto. Evaluaste $P(1)$ o cometiste un error aritmético al aplicar Ruffini. -->
-- [x] B) 7 <!-- feedback: ¡Correcto! Por el Teorema del Resto: $R = P(2) = 2(2^3) - 3(2^2) + 4(2) - 5 = 16 - 12 + 8 - 5 = 7$. -->
+- [ ] B) 3 <!-- feedback: Incorrecto. Evaluaste $P(1)$ o cometiste un error aritmético al aplicar Ruffini. -->
+- [x] A) 7 <!-- feedback: ¡Correcto! Por el Teorema del Resto: $R = P(2) = 2(2^3) - 3(2^2) + 4(2) - 5 = 16 - 12 + 8 - 5 = 7$. -->
 - [ ] C) 11 <!-- feedback: Incorrecto. Error de cálculo en la combinación de sumas y restas de $16 - 12 + 8 - 5$. -->
 - [ ] D) -5 <!-- feedback: Incorrecto. -5 es el término independiente, no el resto de la división por $(x-2)$. -->
 
@@ -338,9 +338,9 @@ Por el Teorema del Resto, el resto de dividir un polinomio $P(x)$ entre $(x - a)
 Se recortan cuadrados de lado $x$ en las cuatro esquinas y se doblan las pestañas. ¿Qué valor de $x$ maximiza el volumen de la caja?
 
 ### Opciones
-- [x] A) $x = 2\text{ cm}$ <!-- feedback: ¡Correcto! $V(x) = x(12-2x)^2 = 4x^3 - 48x^2 + 144x$. $V'(x) = 12x^2 - 96x + 144 = 0 \Rightarrow x^2 - 8x + 12 = 0 \Rightarrow x = 2$ o $x = 6$. Como $x<6$, el máximo es $x = 2$. -->
-- [ ] B) $x = 3\text{ cm}$ <!-- feedback: Incorrecto. Evaluando $V(3) = 3(6)^2 = 108$, mientras que $V(2) = 2(8)^2 = 128$. -->
-- [ ] C) $x = 4\text{ cm}$ <!-- feedback: Incorrecto. $V(4) = 4(4)^2 = 64 < 128$. -->
+- [x] C) $x = 2\text{ cm}$ <!-- feedback: ¡Correcto! $V(x) = x(12-2x)^2 = 4x^3 - 48x^2 + 144x$. $V'(x) = 12x^2 - 96x + 144 = 0 \Rightarrow x^2 - 8x + 12 = 0 \Rightarrow x = 2$ o $x = 6$. Como $x<6$, el máximo es $x = 2$. -->
+- [ ] A) $x = 3\text{ cm}$ <!-- feedback: Incorrecto. Evaluando $V(3) = 3(6)^2 = 108$, mientras que $V(2) = 2(8)^2 = 128$. -->
+- [ ] B) $x = 4\text{ cm}$ <!-- feedback: Incorrecto. $V(4) = 4(4)^2 = 64 < 128$. -->
 - [ ] D) $x = 6\text{ cm}$ <!-- feedback: Incorrecto. Si $x = 6$, las dimensiones de la base se reducen a 0, dando un volumen nulo. -->
 
 ### Explicación Pedagógica
@@ -361,8 +361,8 @@ Dada $f(x) = x^2$ en el intervalo $[1, 3]$, ¿qué valor $c \in (1, 3)$ satisfac
 
 ### Opciones
 - [ ] A) $c = 1.5$ <!-- feedback: Incorrecto. La tasa media de cambio es 4, por lo que $2c = 4 \Rightarrow c = 2$. -->
-- [x] B) $c = 2$ <!-- feedback: ¡Correcto! Tasa de cambio: $\frac{9 - 1}{2} = 4$. Como $f'(x) = 2x$, se tiene $2c = 4 \Rightarrow c = 2$. -->
-- [ ] C) $c = 2.5$ <!-- feedback: Incorrecto. $f'(2.5) = 5 \neq 4$. -->
+- [x] C) $c = 2$ <!-- feedback: ¡Correcto! Tasa de cambio: $\frac{9 - 1}{2} = 4$. Como $f'(x) = 2x$, se tiene $2c = 4 \Rightarrow c = 2$. -->
+- [ ] B) $c = 2.5$ <!-- feedback: Incorrecto. $f'(2.5) = 5 \neq 4$. -->
 - [ ] D) $c = \sqrt{3}$ <!-- feedback: Incorrecto.Confundiste el valor medio de la derivada con la media geométrica. -->
 
 ### Explicación Pedagógica
@@ -381,9 +381,9 @@ Dada $f(x) = x^2$ en el intervalo $[1, 3]$, ¿qué valor $c \in (1, 3)$ satisfac
 Si $f(x)$ es una función derivable y par en todo $\mathbb{R}$ (es decir, $f(-x) = f(x)$), ¿qué propiedad cumple su función derivada $f'(x)$?
 
 ### Opciones
-- [x] A) $f'(x)$ es una función impar (satisface $f'(-x) = -f'(x)$). <!-- feedback: ¡Correcto! Derivando $f(-x) = f(x)$ mediante regla de la cadena se obtiene $-f'(-x) = f'(x) \Rightarrow f'(-x) = -f'(x)$. -->
-- [ ] B) $f'(x)$ es una función par (satisface $f'(-x) = f'(x)$). <!-- feedback: Incorrecto. Al derivar cambia la paridad debido al signo negativo de la regla de la cadena. -->
-- [ ] C) $f'(x)$ es necesariamente idénticamente nula. <!-- feedback: Incorrecto. La constante es par y su derivada es nula, pero $x^2$ es par y su derivada $2x$ no es nula. -->
+- [x] C) $f'(x)$ es una función impar (satisface $f'(-x) = -f'(x)$). <!-- feedback: ¡Correcto! Derivando $f(-x) = f(x)$ mediante regla de la cadena se obtiene $-f'(-x) = f'(x) \Rightarrow f'(-x) = -f'(x)$. -->
+- [ ] A) $f'(x)$ es una función par (satisface $f'(-x) = f'(x)$). <!-- feedback: Incorrecto. Al derivar cambia la paridad debido al signo negativo de la regla de la cadena. -->
+- [ ] B) $f'(x)$ es necesariamente idénticamente nula. <!-- feedback: Incorrecto. La constante es par y su derivada es nula, pero $x^2$ es par y su derivada $2x$ no es nula. -->
 - [ ] D) $f'(x)$ no está definida en $x = 0$. <!-- feedback: Incorrecto. Si $f$ es derivable en todo $\mathbb{R}$, $f'(0)$ existe y de hecho $f'(0) = 0$. -->
 
 ### Explicación Pedagógica
@@ -402,10 +402,10 @@ Esto demuestra por definición que la derivada de una función par es una funci�
 Demostrando por contradicción mediante el Teorema de Rolle, ¿cuántas raíces reales como máximo puede tener el polinomio $P(x) = x^5 + 4x + 1$?
 
 ### Opciones
-- [x] A) Exactamente 1 raíz real. <!-- feedback: ¡Correcto! $P'(x) = 5x^4 + 4 > 0$ para todo $x$. Como $P'(x)$ nunca se anula, por el Teorema de Rolle no puede tener 2 o más raíces reales. Por el TVI posee al menos una. -->
-- [ ] B) 3 raíces reales. <!-- feedback: Incorrecto. Si tuviera 3 raíces reales, $P'(x)$ debería anularse al menos 2 veces, pero $5x^4 + 4 > 0$. -->
-- [ ] C) 5 raíces reales. <!-- feedback: Incorrecto. Un polinomio de grado 5 tiene hasta 5 raíces en $\mathbb{C}$, pero aquí solo 1 es real. -->
-- [ ] D) Ninguna raíz real. <!-- feedback: Incorrecto. Como es de grado impar (5), por el Teorema de Bolzano / TVI tiene al menos una raíz real. -->
+- [x] D) Exactamente 1 raíz real. <!-- feedback: ¡Correcto! $P'(x) = 5x^4 + 4 > 0$ para todo $x$. Como $P'(x)$ nunca se anula, por el Teorema de Rolle no puede tener 2 o más raíces reales. Por el TVI posee al menos una. -->
+- [ ] A) 3 raíces reales. <!-- feedback: Incorrecto. Si tuviera 3 raíces reales, $P'(x)$ debería anularse al menos 2 veces, pero $5x^4 + 4 > 0$. -->
+- [ ] B) 5 raíces reales. <!-- feedback: Incorrecto. Un polinomio de grado 5 tiene hasta 5 raíces en $\mathbb{C}$, pero aquí solo 1 es real. -->
+- [ ] C) Ninguna raíz real. <!-- feedback: Incorrecto. Como es de grado impar (5), por el Teorema de Bolzano / TVI tiene al menos una raíz real. -->
 
 ### Explicación Pedagógica
 1) Por ser de grado impar, $\lim_{x\to -\infty} P(x) = -\infty$ y $\lim_{x\to +\infty} P(x) = +\infty$, luego por continuidad tiene al menos 1 raíz real.

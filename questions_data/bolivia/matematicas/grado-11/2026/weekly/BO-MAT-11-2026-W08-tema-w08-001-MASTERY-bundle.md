@@ -34,10 +34,10 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Qué propiedad del sentido de la desigualdad matemática cambia cuando multiplicamos o dividimos ambos lados por un número real negativo?
 
 ### Opciones
-- [x] A) El sentido de la desigualdad se invierte obligatoriamente. <!-- feedback: ¡Correcto! Multiplicar o dividir una inecuación por un número negativo invierte el signo de desigualdad (por ejemplo de < a >). -->
-- [ ] B) El sentido de la desigualdad se mantiene exactamente igual. <!-- feedback: Incorrecto. Esto solo ocurre si multiplicamos o dividimos por un número positivo. -->
-- [ ] C) La inecuación se transforma de manera obligatoria en una de segundo grado. <!-- feedback: Incorrecto. Sigue siendo una inecuación de primer grado si se realiza la operación. -->
-- [ ] D) La desigualdad se anula y no tiene solución en el campo real. <!-- feedback: Incorrecto. Sigue siendo perfectamente válida e invertible. -->
+- [x] D) El sentido de la desigualdad se invierte obligatoriamente. <!-- feedback: ¡Correcto! Multiplicar o dividir una inecuación por un número negativo invierte el signo de desigualdad (por ejemplo de < a >). -->
+- [ ] A) El sentido de la desigualdad se mantiene exactamente igual. <!-- feedback: Incorrecto. Esto solo ocurre si multiplicamos o dividimos por un número positivo. -->
+- [ ] B) La inecuación se transforma de manera obligatoria en una de segundo grado. <!-- feedback: Incorrecto. Sigue siendo una inecuación de primer grado si se realiza la operación. -->
+- [ ] C) La desigualdad se anula y no tiene solución en el campo real. <!-- feedback: Incorrecto. Sigue siendo perfectamente válida e invertible. -->
 
 ### Explicacion Pedagogica
 Por las propiedades fundamentales del orden en la recta real, multiplicar o dividir ambos miembros por una constante negativa requiere invertir el sentido de la desigualdad.
@@ -74,10 +74,10 @@ Por las propiedades fundamentales del orden en la recta real, multiplicar o divi
 Si representamos en la recta real la inecuación con valor absoluto |x| <= 3, ¿cuál es el intervalo cerrado correspondiente?
 
 ### Opciones
-- [x] A) [-3, 3] <!-- feedback: ¡Correcto! Por propiedad del valor absoluto, |x| <= a equivale a -a <= x <= a. Así, el intervalo es [-3, 3]. -->
-- [ ] B) (-3, 3) <!-- feedback: Incorrecto. La inecuación incluye la igualdad (<=), por lo que el intervalo debe ser cerrado (con corchetes) y no abierto. -->
-- [ ] C) (-infinito, -3] U [3, +infinito) <!-- feedback: Incorrecto. Este conjunto es el resultado de resolver la desigualdad |x| >= 3. -->
-- [ ] D) [0, 3] <!-- feedback: Incorrecto. El valor absoluto también incluye a los números reales negativos comprendidos en el límite. -->
+- [x] D) [-3, 3] <!-- feedback: ¡Correcto! Por propiedad del valor absoluto, |x| <= a equivale a -a <= x <= a. Así, el intervalo es [-3, 3]. -->
+- [ ] A) (-3, 3) <!-- feedback: Incorrecto. La inecuación incluye la igualdad (<=), por lo que el intervalo debe ser cerrado (con corchetes) y no abierto. -->
+- [ ] B) (-infinito, -3] U [3, +infinito) <!-- feedback: Incorrecto. Este conjunto es el resultado de resolver la desigualdad |x| >= 3. -->
+- [ ] C) [0, 3] <!-- feedback: Incorrecto. El valor absoluto también incluye a los números reales negativos comprendidos en el límite. -->
 
 ### Explicacion Pedagogica
 La inecuación |x| <= 3 se traduce geométricamente como la distancia al origen menor o igual que 3, lo cual equivale a -3 <= x <= 3, representado por el intervalo cerrado [-3, 3].
@@ -94,8 +94,8 @@ La inecuación |x| <= 3 se traduce geométricamente como la distancia al origen 
 Resuelva la inecuación lineal con coeficientes fraccionarios: -4x + 16 < 4. ¿Cuál es la solución?
 
 ### Opciones
-- [x] A) x > 3 <!-- feedback: ¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad. -->
-- [ ] B) x < 3 <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable. -->
+- [x] B) x > 3 <!-- feedback: ¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad. -->
+- [ ] A) x < 3 <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable. -->
 - [ ] C) x > 4 <!-- feedback: Incorrecto. Error al realizar la división aritmética de las constantes. -->
 - [ ] D) No tiene solución real <!-- feedback: Incorrecto. Toda inecuación lineal posee solución real en un intervalo. -->
 
@@ -134,9 +134,9 @@ Despejando: -5x < -15. Al dividir por el coeficiente negativo -5, invertimos obl
 Resuelva la inecuación lineal con coeficientes fraccionarios: -6x + 24 < 6. ¿Cuál es la solución?
 
 ### Opciones
-- [x] A) x > 3 <!-- feedback: ¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad. -->
-- [ ] B) x < 3 <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable. -->
-- [ ] C) x > 6 <!-- feedback: Incorrecto. Error al realizar la división aritmética de las constantes. -->
+- [x] C) x > 3 <!-- feedback: ¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad. -->
+- [ ] A) x < 3 <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable. -->
+- [ ] B) x > 6 <!-- feedback: Incorrecto. Error al realizar la división aritmética de las constantes. -->
 - [ ] D) No tiene solución real <!-- feedback: Incorrecto. Toda inecuación lineal posee solución real en un intervalo. -->
 
 ### Explicacion Pedagogica
@@ -154,8 +154,8 @@ Despejando: -6x < -18. Al dividir por el coeficiente negativo -6, invertimos obl
 Resuelva la inecuación lineal con coeficientes fraccionarios: -7x + 28 < 7. ¿Cuál es la solución?
 
 ### Opciones
-- [x] A) x > 3 <!-- feedback: ¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad. -->
-- [ ] B) x < 3 <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable. -->
+- [x] B) x > 3 <!-- feedback: ¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad. -->
+- [ ] A) x < 3 <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable. -->
 - [ ] C) x > 7 <!-- feedback: Incorrecto. Error al realizar la división aritmética de las constantes. -->
 - [ ] D) No tiene solución real <!-- feedback: Incorrecto. Toda inecuación lineal posee solución real en un intervalo. -->
 
@@ -174,8 +174,8 @@ Despejando: -7x < -21. Al dividir por el coeficiente negativo -7, invertimos obl
 Resuelva la inecuación lineal con coeficientes fraccionarios: -8x + 32 < 8. ¿Cuál es la solución?
 
 ### Opciones
-- [x] A) x > 3 <!-- feedback: ¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad. -->
-- [ ] B) x < 3 <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable. -->
+- [x] B) x > 3 <!-- feedback: ¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad. -->
+- [ ] A) x < 3 <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable. -->
 - [ ] C) x > 8 <!-- feedback: Incorrecto. Error al realizar la división aritmética de las constantes. -->
 - [ ] D) No tiene solución real <!-- feedback: Incorrecto. Toda inecuación lineal posee solución real en un intervalo. -->
 
@@ -194,10 +194,10 @@ Despejando: -8x < -24. Al dividir por el coeficiente negativo -8, invertimos obl
 Resuelva la inecuación lineal con coeficientes fraccionarios: -9x + 36 < 9. ¿Cuál es la solución?
 
 ### Opciones
-- [x] A) x > 3 <!-- feedback: ¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad. -->
-- [ ] B) x < 3 <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable. -->
-- [ ] C) x > 9 <!-- feedback: Incorrecto. Error al realizar la división aritmética de las constantes. -->
-- [ ] D) No tiene solución real <!-- feedback: Incorrecto. Toda inecuación lineal posee solución real en un intervalo. -->
+- [x] D) x > 3 <!-- feedback: ¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad. -->
+- [ ] A) x < 3 <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable. -->
+- [ ] B) x > 9 <!-- feedback: Incorrecto. Error al realizar la división aritmética de las constantes. -->
+- [ ] C) No tiene solución real <!-- feedback: Incorrecto. Toda inecuación lineal posee solución real en un intervalo. -->
 
 ### Explicacion Pedagogica
 Despejando: -9x < -27. Al dividir por el coeficiente negativo -9, invertimos obligatoriamente el sentido, resultando en x > 3.
@@ -214,8 +214,8 @@ Despejando: -9x < -27. Al dividir por el coeficiente negativo -9, invertimos obl
 Resuelva la inecuación lineal con coeficientes fraccionarios: -10x + 40 < 10. ¿Cuál es la solución?
 
 ### Opciones
-- [x] A) x > 3 <!-- feedback: ¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad. -->
-- [ ] B) x < 3 <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable. -->
+- [x] B) x > 3 <!-- feedback: ¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad. -->
+- [ ] A) x < 3 <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable. -->
 - [ ] C) x > 10 <!-- feedback: Incorrecto. Error al realizar la división aritmética de las constantes. -->
 - [ ] D) No tiene solución real <!-- feedback: Incorrecto. Toda inecuación lineal posee solución real en un intervalo. -->
 
@@ -234,10 +234,10 @@ Despejando: -10x < -30. Al dividir por el coeficiente negativo -10, invertimos o
 Resuelva la inecuación lineal con coeficientes fraccionarios: -11x + 44 < 11. ¿Cuál es la solución?
 
 ### Opciones
-- [x] A) x > 3 <!-- feedback: ¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad. -->
-- [ ] B) x < 3 <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable. -->
-- [ ] C) x > 11 <!-- feedback: Incorrecto. Error al realizar la división aritmética de las constantes. -->
-- [ ] D) No tiene solución real <!-- feedback: Incorrecto. Toda inecuación lineal posee solución real en un intervalo. -->
+- [x] D) x > 3 <!-- feedback: ¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad. -->
+- [ ] A) x < 3 <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable. -->
+- [ ] B) x > 11 <!-- feedback: Incorrecto. Error al realizar la división aritmética de las constantes. -->
+- [ ] C) No tiene solución real <!-- feedback: Incorrecto. Toda inecuación lineal posee solución real en un intervalo. -->
 
 ### Explicacion Pedagogica
 Despejando: -11x < -33. Al dividir por el coeficiente negativo -11, invertimos obligatoriamente el sentido, resultando en x > 3.
@@ -254,9 +254,9 @@ Despejando: -11x < -33. Al dividir por el coeficiente negativo -11, invertimos o
 Resuelva la inecuación lineal con coeficientes fraccionarios: -12x + 48 < 12. ¿Cuál es la solución?
 
 ### Opciones
-- [x] A) x > 3 <!-- feedback: ¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad. -->
-- [ ] B) x < 3 <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable. -->
-- [ ] C) x > 12 <!-- feedback: Incorrecto. Error al realizar la división aritmética de las constantes. -->
+- [x] C) x > 3 <!-- feedback: ¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad. -->
+- [ ] A) x < 3 <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable. -->
+- [ ] B) x > 12 <!-- feedback: Incorrecto. Error al realizar la división aritmética de las constantes. -->
 - [ ] D) No tiene solución real <!-- feedback: Incorrecto. Toda inecuación lineal posee solución real en un intervalo. -->
 
 ### Explicacion Pedagogica
@@ -274,10 +274,10 @@ Despejando: -12x < -36. Al dividir por el coeficiente negativo -12, invertimos o
 Resuelva la inecuación lineal con coeficientes fraccionarios: -13x + 52 < 13. ¿Cuál es la solución?
 
 ### Opciones
-- [x] A) x > 3 <!-- feedback: ¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad. -->
-- [ ] B) x < 3 <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable. -->
-- [ ] C) x > 13 <!-- feedback: Incorrecto. Error al realizar la división aritmética de las constantes. -->
-- [ ] D) No tiene solución real <!-- feedback: Incorrecto. Toda inecuación lineal posee solución real en un intervalo. -->
+- [x] D) x > 3 <!-- feedback: ¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad. -->
+- [ ] A) x < 3 <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable. -->
+- [ ] B) x > 13 <!-- feedback: Incorrecto. Error al realizar la división aritmética de las constantes. -->
+- [ ] C) No tiene solución real <!-- feedback: Incorrecto. Toda inecuación lineal posee solución real en un intervalo. -->
 
 ### Explicacion Pedagogica
 Despejando: -13x < -39. Al dividir por el coeficiente negativo -13, invertimos obligatoriamente el sentido, resultando en x > 3.
@@ -314,9 +314,9 @@ Despejando: -14x < -42. Al dividir por el coeficiente negativo -14, invertimos o
 Resuelva la inecuación lineal con coeficientes fraccionarios: -15x + 60 < 15. ¿Cuál es la solución?
 
 ### Opciones
-- [x] A) x > 3 <!-- feedback: ¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad. -->
-- [ ] B) x < 3 <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable. -->
-- [ ] C) x > 15 <!-- feedback: Incorrecto. Error al realizar la división aritmética de las constantes. -->
+- [x] C) x > 3 <!-- feedback: ¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad. -->
+- [ ] A) x < 3 <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable. -->
+- [ ] B) x > 15 <!-- feedback: Incorrecto. Error al realizar la división aritmética de las constantes. -->
 - [ ] D) No tiene solución real <!-- feedback: Incorrecto. Toda inecuación lineal posee solución real en un intervalo. -->
 
 ### Explicacion Pedagogica
@@ -354,8 +354,8 @@ Despejando: -16x < -48. Al dividir por el coeficiente negativo -16, invertimos o
 Resuelva la inecuación lineal con coeficientes fraccionarios: -17x + 68 < 17. ¿Cuál es la solución?
 
 ### Opciones
-- [x] A) x > 3 <!-- feedback: ¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad. -->
-- [ ] B) x < 3 <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable. -->
+- [x] B) x > 3 <!-- feedback: ¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad. -->
+- [ ] A) x < 3 <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable. -->
 - [ ] C) x > 17 <!-- feedback: Incorrecto. Error al realizar la división aritmética de las constantes. -->
 - [ ] D) No tiene solución real <!-- feedback: Incorrecto. Toda inecuación lineal posee solución real en un intervalo. -->
 
@@ -374,10 +374,10 @@ Despejando: -17x < -51. Al dividir por el coeficiente negativo -17, invertimos o
 Resuelva la inecuación lineal con coeficientes fraccionarios: -18x + 72 < 18. ¿Cuál es la solución?
 
 ### Opciones
-- [x] A) x > 3 <!-- feedback: ¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad. -->
-- [ ] B) x < 3 <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable. -->
-- [ ] C) x > 18 <!-- feedback: Incorrecto. Error al realizar la división aritmética de las constantes. -->
-- [ ] D) No tiene solución real <!-- feedback: Incorrecto. Toda inecuación lineal posee solución real en un intervalo. -->
+- [x] D) x > 3 <!-- feedback: ¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad. -->
+- [ ] A) x < 3 <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable. -->
+- [ ] B) x > 18 <!-- feedback: Incorrecto. Error al realizar la división aritmética de las constantes. -->
+- [ ] C) No tiene solución real <!-- feedback: Incorrecto. Toda inecuación lineal posee solución real en un intervalo. -->
 
 ### Explicacion Pedagogica
 Despejando: -18x < -54. Al dividir por el coeficiente negativo -18, invertimos obligatoriamente el sentido, resultando en x > 3.
@@ -394,8 +394,8 @@ Despejando: -18x < -54. Al dividir por el coeficiente negativo -18, invertimos o
 Resuelva la inecuación lineal con coeficientes fraccionarios: -19x + 76 < 19. ¿Cuál es la solución?
 
 ### Opciones
-- [x] A) x > 3 <!-- feedback: ¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad. -->
-- [ ] B) x < 3 <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable. -->
+- [x] B) x > 3 <!-- feedback: ¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad. -->
+- [ ] A) x < 3 <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable. -->
 - [ ] C) x > 19 <!-- feedback: Incorrecto. Error al realizar la división aritmética de las constantes. -->
 - [ ] D) No tiene solución real <!-- feedback: Incorrecto. Toda inecuación lineal posee solución real en un intervalo. -->
 
@@ -414,10 +414,10 @@ Despejando: -19x < -57. Al dividir por el coeficiente negativo -19, invertimos o
 Resuelva la inecuación lineal con coeficientes fraccionarios: -20x + 80 < 20. ¿Cuál es la solución?
 
 ### Opciones
-- [x] A) x > 3 <!-- feedback: ¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad. -->
-- [ ] B) x < 3 <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable. -->
-- [ ] C) x > 20 <!-- feedback: Incorrecto. Error al realizar la división aritmética de las constantes. -->
-- [ ] D) No tiene solución real <!-- feedback: Incorrecto. Toda inecuación lineal posee solución real en un intervalo. -->
+- [x] D) x > 3 <!-- feedback: ¡Correcto! Al dividir por el término negativo se invierte el sentido de la desigualdad. -->
+- [ ] A) x < 3 <!-- feedback: Incorrecto. Olvidaste invertir la desigualdad al dividir entre el término negativo de la variable. -->
+- [ ] B) x > 20 <!-- feedback: Incorrecto. Error al realizar la división aritmética de las constantes. -->
+- [ ] C) No tiene solución real <!-- feedback: Incorrecto. Toda inecuación lineal posee solución real en un intervalo. -->
 
 ### Explicacion Pedagogica
 Despejando: -20x < -60. Al dividir por el coeficiente negativo -20, invertimos obligatoriamente el sentido, resultando en x > 3.

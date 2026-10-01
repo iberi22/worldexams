@@ -34,11 +34,11 @@ Estructura, secuencia temporal y función apelativa del lenguaje en manuales, re
 ¿Cuál es la función del primer apartado "Ingredientes y Materiales" en la estructura del texto instructivo?
 
 ### Opciones
-- [x] A) Enumerar los elementos requeridos antes de iniciar la ejecución de los pasos.
+- [x] C) Enumerar los elementos requeridos antes de iniciar la ejecución de los pasos.
   <!-- feedback: Permite verificar que se cuenta con todos los insumos necesarios antes de comenzar el procedimiento. -->
-- [ ] B) Explicar la historia y el origen histórico de las cometas en Boyacá.
+- [ ] A) Explicar la historia y el origen histórico de las cometas en Boyacá.
   <!-- feedback: El apartado no aborda antecedentes históricos sino elementos físicos para la construcción. -->
-- [ ] C) Narrar una anécdota divertida sobre un vuelo de cometa fallido.
+- [ ] B) Narrar una anécdota divertida sobre un vuelo de cometa fallido.
   <!-- feedback: No se trata de un relato narrativo con personajes ni conflicto. -->
 - [ ] D) Justificar por qué las cometas vuelan usando leyes de la física.
   <!-- feedback: Un texto instructivo da indicaciones prácticas, no explicaciones teóricas complejas. -->
@@ -57,11 +57,11 @@ Los textos instructivos suelen organizarse en dos secciones claras: lista de mat
 ¿Qué propósito cumple la cola de tela según la indicación explícita del texto?
 
 ### Opciones
-- [x] A) Evitar que la cometa tambalee o pierda el equilibrio en el aire.
+- [x] C) Evitar que la cometa tambalee o pierda el equilibrio en el aire.
   <!-- feedback: La palabra "estabilidad" indica mantener el equilibrio constante durante el vuelo. -->
-- [ ] B) Hacer que la cometa sea la más pesada de la competencia.
+- [ ] A) Hacer que la cometa sea la más pesada de la competencia.
   <!-- feedback: El texto no busca aumentar peso innecesario sino lograr un vuelo estable. -->
-- [ ] C) Ocultar el papel seda si se rompe durante la preparación.
+- [ ] B) Ocultar el papel seda si se rompe durante la preparación.
   <!-- feedback: La cola no se usa para tapar imperfecciones del papel sino como contrapeso aerodinámico. -->
 - [ ] D) Cambiar el color del hilo de algodón en la cruz central.
   <!-- feedback: La cola se amarra en el extremo inferior, no en el centro del armazón. -->
@@ -80,9 +80,9 @@ La comprensión semántica implica identificar las relaciones de causa y finalid
 ¿Cuál es el orden cronológico lógico para realizar correctamente el experimento?
 
 ### Opciones
-- [x] A) C -> B -> A.
+- [x] B) C -> B -> A.
   <!-- feedback: Primero se ubica el algodón en el vaso (C), se colocan las semillas (B) y finalmente se humedece (A). -->
-- [ ] B) A -> B -> C.
+- [ ] A) A -> B -> C.
   <!-- feedback: Humedecer el algodón fuera del vaso dificultaría su manipulación posterior de forma ordenada. -->
 - [ ] C) B -> C -> A.
   <!-- feedback: No se pueden poner las semillas en el algodón antes de introducirlo al recipiente contenedor. -->
@@ -126,11 +126,11 @@ El modo imperativo (o el infinitivo) es la marca gramatical característica de l
 ¿Por qué el texto utiliza la indicación explícita "No corra ni empuje"?
 
 ### Opciones
-- [x] A) Para prevenir caídas y aglomeraciones que entorpezcan la salida de emergencia.
+- [x] C) Para prevenir caídas y aglomeraciones que entorpezcan la salida de emergencia.
   <!-- feedback: En una evacuación, correr o empujar genera tropezones y pánico, entorpeciendo el flujo de personas. -->
-- [ ] B) Porque la zona segura señalizada está demasiado cerca y no requiere prisa.
+- [ ] A) Porque la zona segura señalizada está demasiado cerca y no requiere prisa.
   <!-- feedback: La distancia no es la razón; la regla busca la seguridad física de los evacuados. -->
-- [ ] C) Para asegurar que todos los estudiantes lleguen al mismo tiempo exacto.
+- [ ] B) Para asegurar que todos los estudiantes lleguen al mismo tiempo exacto.
   <!-- feedback: El objetivo es la seguridad y el orden, no una competencia de sincronización. -->
 - [ ] D) Porque correr está prohibido en todas las áreas de la escuela durante los descansos.
   <!-- feedback: La indicación responde a una norma de gestión de riesgos ante emergencias, no al reglamento general de recreos. -->
@@ -149,13 +149,13 @@ Las advertencias y prohibiciones en protocolos de seguridad previenen riesgos co
 ¿Cuál es la principal diferencia de propósito comunicativo entre el Texto 1 y el Texto 2?
 
 ### Opciones
-- [x] A) El Texto 1 busca guiar la preparación práctica del alimento, mientras el Texto 2 busca evocar emociones y recuerdos.
+- [x] D) El Texto 1 busca guiar la preparación práctica del alimento, mientras el Texto 2 busca evocar emociones y recuerdos.
   <!-- feedback: El texto instructivo tiene finalidad práctica procedimental; el texto poético tiene finalidad estética y afectiva. -->
-- [ ] B) El Texto 1 es un relato de ficción pura y el Texto 2 es una norma legal obligatoria.
+- [ ] A) El Texto 1 es un relato de ficción pura y el Texto 2 es una norma legal obligatoria.
   <!-- feedback: La receta no es ficción sino un texto expositivo-instructivo real; el poema no es una norma. -->
-- [ ] C) Ambos textos persiguen exactamente el mismo objetivo técnico pedagógico.
+- [ ] B) Ambos textos persiguen exactamente el mismo objetivo técnico pedagógico.
   <!-- feedback: Tienen formatos y propósitos totalmente diferentes (normativo/práctico vs. lírico/emotivo). -->
-- [ ] D) El Texto 2 enseña a cultivar maíz y el Texto 1 critica los precios del mercado.
+- [ ] C) El Texto 2 enseña a cultivar maíz y el Texto 1 critica los precios del mercado.
   <!-- feedback: Ninguno de los dos textos aborda temas agronómicos o de economía de mercado. -->
 
 ### Explicacion Pedagogica
@@ -195,13 +195,13 @@ La ausencia de componentes estructurales clave en un texto instructivo fragmenta
 ¿Por qué es válida la crítica del usuario respecto a la efectividad pedagógica del manual?
 
 ### Opciones
-- [x] A) Porque los esquemas visuales y diagramas complementan la comprensión sintáctica en la guía de ensamblaje de piezas espaciales.
+- [x] D) Porque los esquemas visuales y diagramas complementan la comprensión sintáctica en la guía de ensamblaje de piezas espaciales.
   <!-- feedback: En textos instructivos sobre objetos tridimensionales, la iconografía e imágenes son indispensables para orientar la ubicación espacial. -->
-- [ ] B) Porque las leyes colombianas prohíben publicar libros que contengan oraciones largas.
+- [ ] A) Porque las leyes colombianas prohíben publicar libros que contengan oraciones largas.
   <!-- feedback: No existe una prohibición legal sobre la longitud de las oraciones en libros. -->
-- [ ] C) Porque los niños de quinto grado no saben leer textos escritos en prosa.
+- [ ] B) Porque los niños de quinto grado no saben leer textos escritos en prosa.
   <!-- feedback: En quinto grado los estudiantes poseen plena competencia lectora de textos en prosa. -->
-- [ ] D) Porque los muebles de estudio solo deben armarse siguiendo instrucciones orales en video.
+- [ ] C) Porque los muebles de estudio solo deben armarse siguiendo instrucciones orales en video.
   <!-- feedback: El formato impreso con apoyo gráfico es un medio totalmente válido y muy extendido. -->
 
 ### Explicacion Pedagogica

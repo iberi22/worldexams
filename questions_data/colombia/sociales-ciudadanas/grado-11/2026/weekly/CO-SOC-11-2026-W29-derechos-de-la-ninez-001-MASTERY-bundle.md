@@ -58,9 +58,9 @@ La Convención sobre los Derechos del Niño (CDN), adoptada por la Asamblea Gene
 ¿Qué establece el artículo 44 de la Constitución de 1991 sobre los derechos de los niños?
 
 ### Opciones
-- [ ] A) Que los derechos de los niños solo se aplican a menores de cinco años
+- [ ] B) Que los derechos de los niños solo se aplican a menores de cinco años
   <!-- feedback: El artículo 44 protege a los niños en general; la Convención define como niño a toda persona menor de 18 años. -->
-- [x] B) Que los derechos de los niños prevalecen sobre los derechos de los demás y que la familia, la sociedad y el Estado deben asistirlos como obligación primordial
+- [x] A) Que los derechos de los niños prevalecen sobre los derechos de los demás y que la familia, la sociedad y el Estado deben asistirlos como obligación primordial
   <!-- feedback: Correcto. El artículo 44 consagra la prevalencia de los derechos de los niños y la obligación primordial de familia, sociedad y Estado. -->
 - [ ] C) Que los niños tienen derechos solo si sus padres los inscriben en un registro especial
   <!-- feedback: Los derechos fundamentales son inherentes a la condición de persona y no dependen de trámites. -->
@@ -85,9 +85,9 @@ El artículo 44 de la Constitución Política de 1991 establece que la familia, 
   <!-- feedback: La Ley 115 es la Ley General de Educación, no el código de infancia. -->
 - [ ] B) La Ley 100 de 1993
   <!-- feedback: La Ley 100 creó el sistema de seguridad social integral en salud, pensiones y riesgos laborales. -->
-- [x] C) La Ley 1098 de 2006
+- [x] D) La Ley 1098 de 2006
   <!-- feedback: Correcto. La Ley 1098 de 2006 expide el Código de la Infancia y la Adolescencia y crea el Sistema de Responsabilidad Penal para Adolescentes. -->
-- [ ] D) La Ley 136 de 1994
+- [ ] C) La Ley 136 de 1994
   <!-- feedback: La Ley 136 es una norma general de organización municipal. -->
 
 ### Explicacion Pedagogica
@@ -127,11 +127,11 @@ El ICBF fue creado por la Ley 27 de 1974 y su misión fue reformulada con el par
 ¿Cuál es la valoración legal del caso y la actuación procedente del vecino?
 
 ### Opciones
-- [ ] A) Es legal, porque trabajar ayuda al desarrollo madurativo de los menores que no estudian
+- [ ] B) Es legal, porque trabajar ayuda al desarrollo madurativo de los menores que no estudian
   <!-- feedback: El trabajo que interrumpe la escolaridad y expone a un niño no es "ayuda": es trabajo infantil en su peor forma. -->
-- [ ] B) Es legal si el padre de Santiago firma un permiso escrito ante la comunidad vecinal
+- [ ] C) Es legal si el padre de Santiago firma un permiso escrito ante la comunidad vecinal
   <!-- feedback: Los padres no pueden disponer del derecho a la educación ni renunciar a la protección del niño. -->
-- [x] C) Es trabajo infantil prohibido que vulnera educación, salud y descanso; debe reportarse a la línea del ICBF, a la Policía de Infancia y Adolescencia o a la inspección del trabajo
+- [x] A) Es trabajo infantil prohibido que vulnera educación, salud y descanso; debe reportarse a la línea del ICBF, a la Policía de Infancia y Adolescencia o a la inspección del trabajo
   <!-- feedback: Correcto. Este trabajo nocturno y excluyente de la escuela configura la peor forma de trabajo infantil y activa rutas de restablecimiento de derechos. -->
 - [ ] D) Es un asunto estrictamente familiar en el que ningún tercero puede intervenir jamás
   <!-- feedback: Los derechos de los niños son de orden público y la comunidad puede y debe denunciar su vulneración. -->
@@ -154,9 +154,9 @@ En Colombia está prohibido el trabajo de menores de 15 años; entre los 15 y 17
   <!-- feedback: El ciberacoso entre estudiantes sí es situación de tipo II del protocolo y es competencia de la institución. -->
 - [ ] B) Trasladar inmediatamente a Luisa de colegio para protegerla sin agotar otras medidas
   <!-- feedback: Victimizar dos veces a la afectada con el traslado invierte la responsabilidad: la medida debe centrarse en la situación, no en silenciar a la víctima. -->
-- [x] C) Activar la ruta de atención integral: brindar protección a Luisa, vincular a las familias, aplicar medidas pedagógicas y correctivas, y reportar al comité escolar de convivencia cuando corresponde a situación tipo II
+- [x] D) Activar la ruta de atención integral: brindar protección a Luisa, vincular a las familias, aplicar medidas pedagógicas y correctivas, y reportar al comité escolar de convivencia cuando corresponde a situación tipo II
   <!-- feedback: Correcto. La Ley 1620 de 2013 establece protocolos escalonados según el tipo de situación, con atención, seguimiento y participación de las familias. -->
-- [ ] D) Ordenar expulsión automática del agresor sin debido proceso ni debido derecho a la defensa
+- [ ] C) Ordenar expulsión automática del agresor sin debido proceso ni debido derecho a la defensa
   <!-- feedback: Toda medida debe respetar el debido proceso y el principio educativo; la expulsión del agresor sin proceso es ilegal. -->
 
 ### Explicacion Pedagogica
@@ -198,11 +198,11 @@ La Ley 1098 de 2006 obliga a cualquier persona y con especial deber a los servid
 ### Opciones
 - [ ] A) El sistema penitenciario adulto, porque el delito fue grave
   <!-- feedback: Los mayores de 14 y menores de 18 no responden en el sistema de adultos; hacerlo violaría la ley colombiana y la Convención. -->
-- [x] B) El Sistema de Responsabilidad Penal para Adolescentes del Libro V de la Ley 1098 de 2006, con sanciones socioeducativas que privilegian la restitución del daño y el desarrollo de capacidades
+- [x] D) El Sistema de Responsabilidad Penal para Adolescentes del Libro V de la Ley 1098 de 2006, con sanciones socioeducativas que privilegian la restitución del daño y el desarrollo de capacidades
   <!-- feedback: Correcto. El SRPA aplica a adolescentes entre 14 y 18 años y su fin es la responsabilidad con sanciones educativo-asistenciales, no el castigo puro. -->
-- [ ] C) Ninguno, porque los menores de edad están totalmente exentos de cualquier consecuencia legal
+- [ ] B) Ninguno, porque los menores de edad están totalmente exentos de cualquier consecuencia legal
   <!-- feedback: Desde los 14 años sí hay responsabilidad penal diferenciada; la impunidad absoluta es un mito. -->
-- [ ] D) El sistema de policía cívica, que decide el caso sin juzgados
+- [ ] C) El sistema de policía cívica, que decide el caso sin juzgados
   <!-- feedback: El SRPA es un proceso judicial con garantías ante jueces y fiscales especializados, no una medida de policía. -->
 
 ### Explicacion Pedagogica
@@ -221,9 +221,9 @@ El Libro V de la Ley 1098 de 2006 creó el Sistema de Responsabilidad Penal para
 ### Opciones
 - [ ] A) Ninguno: las personerías solo tramitan licencias de construcción
   <!-- feedback: Las funciones urbanísticas corresponden a otras dependencias; la personería es un órgano de control de derechos humanos. -->
-- [ ] B) Juzgar y condenar directamente al adulto explotador
+- [ ] C) Juzgar y condenar directamente al adulto explotador
   <!-- feedback: Las personerías no ejercen funciones jurisdicionales; juzgar es tarea de jueces y fiscales. -->
-- [x] C) Hacer vigilancia y promoción de los derechos humanos, recibir quejas, orientar a las familias y activar rutas con el ICBF, la Policía y el ente municipal competente
+- [x] B) Hacer vigilancia y promoción de los derechos humanos, recibir quejas, orientar a las familias y activar rutas con el ICBF, la Policía y el ente municipal competente
   <!-- feedback: Correcto. La personería es el defensor del pueblo local (artículo 118 constitucional) y debe gestionar la protección de derechos de la niñez en el municipio. -->
 - [ ] D) Pagar de su presupuesto las multas que impongan los jueces a los victimarios
   <!-- feedback: No existe tal figura; las sanciones patrimoniales corren por cuenta del condenado. -->
@@ -244,11 +244,11 @@ Los personerías municipales, creadas conforme al artículo 118 de la Constituci
 ### Opciones
 - [ ] A) El derecho a la recreación; se soluciona matriculándola en una ludoteca municipal
   <!-- feedback: La recreación es un derecho, pero no sustituye la identidad jurídica de la niña. -->
-- [ ] B) Ninguno, porque el registro solo sirve para trámites de pasaporte
+- [ ] C) Ninguno, porque el registro solo sirve para trámites de pasaporte
   <!-- feedback: El registro civil es la puerta de entrada a salud, educación y protección: sin él la niña es jurídicamente invisible. -->
-- [ ] C) El derecho a la propiedad; se soluciona ante la oficina de instrumentos públicos
+- [ ] D) El derecho a la propiedad; se soluciona ante la oficina de instrumentos públicos
   <!-- feedback: La inscripción de nacimiento no es un asunto de propiedad inmueble. -->
-- [x] D) El derecho a la identidad; el registro se practica en cualquier notaría o registraduría del estado civil, con la declaratoria de nacimiento
+- [x] B) El derecho a la identidad; el registro se practica en cualquier notaría o registraduría del estado civil, con la declaratoria de nacimiento
   <!-- feedback: Correcto. La identidad, incluida la nacionalidad y el nombre, es un derecho fundamental (artículo 44 constitucional y artículos 7 y 8 de la Convención). -->
 
 ### Explicacion Pedagogica
@@ -265,11 +265,11 @@ El derecho a la identidad, consagrado en el artículo 44 de la Constitución com
 ¿Cuál es el análisis correcto del caso según el interés superior y el derecho a ser escuchada?
 
 ### Opciones
-- [ ] A) Debe adjudicarse la custodia al padre, porque el ingreso económico es el criterio único que define el bienestar
+- [ ] B) Debe adjudicarse la custodia al padre, porque el ingreso económico es el criterio único que define el bienestar
   <!-- feedback: El dinero no es criterio único: la jurisprudencia constitucional pondera cuidados, vínculo afectivo y proyecto de vida de la niña. -->
-- [ ] B) Debe ignorarse la opinión de la niña porque todos los menores carecen de capacidad para formar juicios
+- [ ] C) Debe ignorarse la opinión de la niña porque todos los menores carecen de capacidad para formar juicios
   <!-- feedback: El artículo 12 de la Convención reconoce el derecho del niño a ser oído y a que su opinión sea tenida en cuenta según su edad y madurez. -->
-- [x] C) Debe ponderarse el interés superior de la niña, valorando los cuidados ejercidos, la continuidad de su proyecto de vida y su opinión calificada conforme a edad y madurez
+- [x] A) Debe ponderarse el interés superior de la niña, valorando los cuidados ejercidos, la continuidad de su proyecto de vida y su opinión calificada conforme a edad y madurez
   <!-- feedback: Correcto. La Corte Constitucional exige oír a la niña y analizar el interés superior con criterios integrales, no solo económicos. -->
 - [ ] D) Debe decidirse por sorteo entre los dos hogares, porque el Estado no puede pronunciarse sobre conflictos familiares
   <!-- feedback: El juez de familia tiene el deber legal y constitucional de decidir en derecho con perspectiva de protección. -->
@@ -313,9 +313,9 @@ Analizar el SRPA exige identificar sus lógicas: la Convención exige que la res
 ### Opciones
 - [ ] A) El programa fracasó porque los niños no valoran la educación, lo que demuestra que el problema es cultural y no de política pública
   <!-- feedback: Culpar a las víctimas ignora los incentivos económicos del hogar y la ausencia de alternativas; es un análisis superficial. -->
-- [ ] B) El programa fracasó exclusivamente por la falta de publicidad en redes sociales
+- [ ] C) El programa fracasó exclusivamente por la falta de publicidad en redes sociales
   <!-- feedback: La difusión no era la falla: la intervención retiraba al niño sin modificar las causas del retorno. -->
-- [x] C) El programa trató el síntoma (el niño en la calle) sin abordar las causas estructurales (pobreza del hogar, desescolarización, economías informales), incumpliendo la exigencia de medidas integrales de la Ley 1098
+- [x] B) El programa trató el síntoma (el niño en la calle) sin abordar las causas estructurales (pobreza del hogar, desescolarización, economías informales), incumpliendo la exigencia de medidas integrales de la Ley 1098
   <!-- feedback: Correcto. La restablecimiento de derechos debe ser integral y sostenible; sin familia y sin escuela, el retorno es predecible. -->
 - [ ] D) El programa fracasó porque las multas a los compradores de dulces fueron demasiado altas
   <!-- feedback: El caso no menciona multas a compradores; esta opción fabrica un dato inexistente. -->
@@ -384,9 +384,9 @@ La Ley 1098 de 2006 organiza el Sistema Nacional de Bienestar Familiar con repar
   <!-- feedback: La Convención reconoce a los niños como sujetos de derechos, pero también de protección especial frente a la explotación comercial. -->
 - [ ] B) Solo hay vulneración si los padres de cada niño firman una autorización notarial
   <!-- feedback: La protección no depende del consentimiento parental: es una garantía estatal y un límite a los proveedores. -->
-- [x] C) Hay riesgo de vulneración del interés superior por exposición a publicidad de actividades prohibidas o dañinas para menores, y aplican los límites de la Convención, la Ley 1098 y la regulación de inspección y vigilancia del Estado sobre proveedores de servicios digitales
+- [x] D) Hay riesgo de vulneración del interés superior por exposición a publicidad de actividades prohibidas o dañinas para menores, y aplican los límites de la Convención, la Ley 1098 y la regulación de inspección y vigilancia del Estado sobre proveedores de servicios digitales
   <!-- feedback: Correcto. La protección integral exige regular los entornos digitales que afectan a niños, tal como han desarrollado la ICBF y las autoridades de consumo y telecomunicaciones. -->
-- [ ] D) La responsabilidad es únicamente del colegio, porque la app es de otro país y no aplica la ley colombiana
+- [ ] C) La responsabilidad es únicamente del colegio, porque la app es de otro país y no aplica la ley colombiana
   <!-- feedback: Las normas colombianas y los principios de la Convención alcanzan los servicios que operan y dirigen publicidad a niños en el territorio nacional. -->
 
 ### Explicacion Pedagogica
@@ -451,11 +451,11 @@ Una evaluación ciudadana rigurosa distingue entre el componente de emergencia (
 ### Opciones
 - [ ] A) Es válida, porque la igualdad exige aplicar el manual sin mirar las circunstancias de nadie
   <!-- feedback: Tratar igual a situaciones desiguales profundiza la desigualdad; la igualdad material es justamente lo contrario. -->
-- [ ] B) Es válida, porque el manual de convivencia es un contrato y quien ingresa renuncia a sus derechos fundamentales
+- [ ] C) Es válida, porque el manual de convivencia es un contrato y quien ingresa renuncia a sus derechos fundamentales
   <!-- feedback: Ningún reglamento interno puede prevalecer sobre derechos fundamentales de una menor; tal renuncia es jurídicamente inexistente. -->
-- [ ] C) Es inválida solo si la familia demuestra un daño económico con recibos, pues lo demás es disciplinario interno
+- [ ] D) Es inválida solo si la familia demuestra un daño económico con recibos, pues lo demás es disciplinario interno
   <!-- feedback: La afectación es de derechos fundamentales (educación, salud, debido proceso reforzado), no patrimonial. -->
-- [x] D) Es inválida, porque expulsa a una víctima en vez de activar protocolos de atención, re-victimiza y contraviene la Ley 1620, la Ley 1098 y el interés superior; la tutela y las autoridades de educación deben ordenar su retorno con apoyos
+- [x] B) Es inválida, porque expulsa a una víctima en vez de activar protocolos de atención, re-victimiza y contraviene la Ley 1620, la Ley 1098 y el interés superior; la tutela y las autoridades de educación deben ordenar su retorno con apoyos
   <!-- feedback: Correcto. La respuesta institucional debida a una estudiante victimizada era la ruta de atención integral, no la exclusión disciplinaria. -->
 
 ### Explicacion Pedagogica

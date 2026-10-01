@@ -52,11 +52,11 @@ El teorema de Tales relaciona las longitudes de los segmentos determinados por r
 ### Enunciado
 ¿Qué proporción expresa correctamente el teorema de Tales en ese esquema?
 ### Opciones
-- [x] A) 3 dividido entre 6 es igual a 4 dividido entre x
+- [x] C) 3 dividido entre 6 es igual a 4 dividido entre x
   <!-- feedback: Correcto. Se igualan las razones de los segmentos correspondientes de cada transversal. -->
-- [ ] B) 3 más 6 es igual a 4 más x
+- [ ] A) 3 más 6 es igual a 4 más x
   <!-- feedback: Incorrecto. El teorema relaciona razones, no sumas de segmentos. -->
-- [ ] C) 3 por 6 es igual a 4 por x
+- [ ] B) 3 por 6 es igual a 4 por x
   <!-- feedback: Incorrecto. Los productos directos no expresan la proporcionalidad sin estar cruzados. -->
 - [ ] D) 3 menos 4 es igual a 6 menos x
   <!-- feedback: Incorrecto. Restar segmentos correspondientes no es el procedimiento de Tales. -->
@@ -72,9 +72,9 @@ Los segmentos correspondientes deben formar la misma razón: el segmento menor s
 ### Enunciado
 ¿Cuál es el valor de x?
 ### Opciones
-- [x] A) 8 m
+- [x] B) 8 m
   <!-- feedback: Correcto. 3/6 = 4/x, entonces x = 4 por 6 dividido entre 3 = 8. -->
-- [ ] B) 7 m
+- [ ] A) 7 m
   <!-- feedback: Incorrecto. Sumaste 3 y 4 sin plantear la proporción cruzada. -->
 - [ ] C) 9 m
   <!-- feedback: Incorrecto. Multiplicaste 3 por 3 en vez de despejar x de la proporción. -->
@@ -92,9 +92,9 @@ Se plantea 3/6 = 4/x. Al multiplicar en cruz: 3 por x = 24, de donde x = 8 m.
 ### Enunciado
 ¿Cuál es el valor de x?
 ### Opciones
-- [x] A) 15 km
+- [x] B) 15 km
   <!-- feedback: Correcto. 2/5 = 6/x, entonces x = 6 por 5 dividido entre 2 = 15. -->
-- [ ] B) 12 km
+- [ ] A) 12 km
   <!-- feedback: Incorrecto. Duplicaste 6 sin respetar la razón 2 a 5. -->
 - [ ] C) 13 km
   <!-- feedback: Incorrecto. Sumaste 2, 5 y 6 en vez de plantear la proporción. -->
@@ -112,9 +112,9 @@ De 2/5 = 6/x se obtiene 2 por x = 30, por lo tanto x = 15 km.
 ### Enunciado
 ¿Cuál es el valor de x?
 ### Opciones
-- [x] A) 10 cm
+- [x] B) 10 cm
   <!-- feedback: Correcto. 4/8 = 5/x, entonces x = 5 por 8 dividido entre 4 = 10. -->
-- [ ] B) 11 cm
+- [ ] A) 11 cm
   <!-- feedback: Incorrecto. Sumaste 1 al segmento conocido sin resolver la proporción. -->
 - [ ] C) 9 cm
   <!-- feedback: Incorrecto. Restaste 1 en vez de multiplicar en cruz. -->
@@ -132,9 +132,9 @@ Por Tales en el triángulo, los segmentos guardan la misma razón: 4/8 = 5/x, de
 ### Enunciado
 ¿Cuál es la altura del edificio?
 ### Opciones
-- [x] A) 15 m
+- [x] B) 15 m
   <!-- feedback: Correcto. 3/2 = h/10, entonces h = 3 por 10 dividido entre 2 = 15. -->
-- [ ] B) 12 m
+- [ ] A) 12 m
   <!-- feedback: Incorrecto. Sumaste 10 y 2 sin plantear la razón altura sobre sombra. -->
 - [ ] C) 13 m
   <!-- feedback: Incorrecto. Sumaste 3 y 10 sin usar la proporcionalidad de Tales. -->
@@ -152,11 +152,11 @@ La altura y su sombra son segmentos proporcionales por los rayos paralelos: h = 
 ### Enunciado
 ¿Qué se puede concluir sobre las dos rectas cortadas por las transversales?
 ### Opciones
-- [x] A) Son paralelas, porque 6/9 es igual a 10/15 e igual a 2/3
+- [x] C) Son paralelas, porque 6/9 es igual a 10/15 e igual a 2/3
   <!-- feedback: Correcto. La igualdad de las razones confirma el paralelismo por el recíproco de Tales. -->
-- [ ] B) Son perpendiculares, porque los segmentos son diferentes
+- [ ] A) Son perpendiculares, porque los segmentos son diferentes
   <!-- feedback: Incorrecto. Que los segmentos sean diferentes no indica perpendicularidad. -->
-- [ ] C) No son paralelas, porque los segmentos no son iguales
+- [ ] B) No son paralelas, porque los segmentos no son iguales
   <!-- feedback: Incorrecto. El criterio es la igualdad de razones, no la igualdad de segmentos. -->
 - [ ] D) No se puede concluir nada con esos cuatro datos
   <!-- feedback: Incorrecto. Las dos razones sí permiten aplicar el recíproco del teorema. -->
@@ -172,13 +172,13 @@ La altura y su sombra son segmentos proporcionales por los rayos paralelos: h = 
 ### Enunciado
 ¿Qué análisis es correcto sobre esas dos líneas?
 ### Opciones
-- [x] A) No son paralelas, porque 4/6 es 0,666 y 5/8 es 0,625, razones distintas
+- [x] D) No son paralelas, porque 4/6 es 0,666 y 5/8 es 0,625, razones distintas
   <!-- feedback: Correcto. Al ser distintas las razones, no se cumple la condición de Tales para el paralelismo. -->
-- [ ] B) Son paralelas, porque todos los segmentos son menores que 10 m
+- [ ] A) Son paralelas, porque todos los segmentos son menores que 10 m
   <!-- feedback: Incorrecto. El tamaño de los segmentos no determina el paralelismo. -->
-- [ ] C) Son paralelas, porque 4 más 6 es parecido a 5 más 8
+- [ ] B) Son paralelas, porque 4 más 6 es parecido a 5 más 8
   <!-- feedback: Incorrecto. Comparar sumas no es el criterio de proporcionalidad. -->
-- [ ] D) Son perpendiculares, porque las razones no coinciden
+- [ ] C) Son perpendiculares, porque las razones no coinciden
   <!-- feedback: Incorrecto. Que no sean paralelas no implica que sean perpendiculares. -->
 ### Explicacion Pedagogica
 4/6 = 2/3 = 0,666 mientras 5/8 = 0,625. La diferencia muestra que los segmentos no son proporcionales y las líneas no son paralelas.
@@ -192,11 +192,11 @@ La altura y su sombra son segmentos proporcionales por los rayos paralelos: h = 
 ### Enunciado
 ¿Cuál es el valor de x y qué significa?
 ### Opciones
-- [x] A) 150 m; es la longitud proporcional que conserva la razón 2 a 3 entre cuadras
+- [x] C) 150 m; es la longitud proporcional que conserva la razón 2 a 3 entre cuadras
   <!-- feedback: Correcto. 120/180 = 100/x, de donde x = 100 por 180 dividido entre 120 = 150. -->
-- [ ] B) 160 m; es el promedio de 120 y 180 más 10
+- [ ] A) 160 m; es el promedio de 120 y 180 más 10
   <!-- feedback: Incorrecto. Promediar cuadras no aplica el teorema de Tales. -->
-- [ ] C) 140 m; es la diferencia entre 180 y 120 sumada a 100
+- [ ] B) 140 m; es la diferencia entre 180 y 120 sumada a 100
   <!-- feedback: Incorrecto. Sumar diferencias no conserva la razón de proporcionalidad. -->
 - [ ] D) 200 m; es el doble de la cuadra de 100 m
   <!-- feedback: Incorrecto. Duplicar ignora la razón 120 a 180 dada por las paralelas. -->
@@ -212,9 +212,9 @@ La altura y su sombra son segmentos proporcionales por los rayos paralelos: h = 
 ### Enunciado
 ¿Cuáles son los valores de a y b?
 ### Opciones
-- [x] A) a = 12 cm y b = 16 cm, porque 12/16 = 3/4 y 12 + 16 = 28
+- [x] B) a = 12 cm y b = 16 cm, porque 12/16 = 3/4 y 12 + 16 = 28
   <!-- feedback: Correcto. Se cumplen al tiempo la razón y la suma total del segmento. -->
-- [ ] B) a = 14 cm y b = 14 cm, porque dividen el segmento en partes iguales
+- [ ] A) a = 14 cm y b = 14 cm, porque dividen el segmento en partes iguales
   <!-- feedback: Incorrecto. Partes iguales darían razón 1 a 1, no 3 a 4. -->
 - [ ] C) a = 7 cm y b = 21 cm, porque están en razón 1 a 3
   <!-- feedback: Incorrecto. Esa pareja está en razón 1 a 3, distinta de 3 a 4. -->
@@ -232,9 +232,9 @@ Si a/b = 3/4 entonces a = 3k y b = 4k. Como 3k + 4k = 28, k = 4; por tanto a = 1
 ### Enunciado
 ¿Cuál es la evaluación correcta de esa afirmación?
 ### Opciones
-- [x] A) Es falsa: la proporcionalidad solo está garantizada cuando las rectas cortadas son paralelas
+- [x] B) Es falsa: la proporcionalidad solo está garantizada cuando las rectas cortadas son paralelas
   <!-- feedback: Correcto. El paralelismo es la condición esencial del teorema de Tales. -->
-- [ ] B) Es verdadera: cualquier par de rectas cortadas produce segmentos proporcionales
+- [ ] A) Es verdadera: cualquier par de rectas cortadas produce segmentos proporcionales
   <!-- feedback: Incorrecto. Sin paralelismo las razones pueden ser distintas, como muestran los contraejemplos. -->
 - [ ] C) Es verdadera solo cuando las transversales son paralelas entre sí
   <!-- feedback: Incorrecto. La condición es el paralelismo de las rectas cortadas, no de las transversales. -->
@@ -252,13 +252,13 @@ El teorema exige rectas paralelas. Sin esa hipótesis, segmentos como 4, 6 frent
 ### Enunciado
 ¿Cuál es el error cometido y cuál es el valor correcto de x?
 ### Opciones
-- [x] A) Sumó en vez de multiplicar en cruz: lo correcto es x = 6 porque 2 por x = 12
+- [x] D) Sumó en vez de multiplicar en cruz: lo correcto es x = 6 porque 2 por x = 12
   <!-- feedback: Correcto. De 2/3 = 4/x se obtiene 2 por x = 12, de donde x = 6. -->
-- [ ] B) No hay error: x = 5 es el valor correcto de la proporción
+- [ ] A) No hay error: x = 5 es el valor correcto de la proporción
   <!-- feedback: Incorrecto. 2/3 es 0,666 y 4/5 es 0,8, de modo que no son iguales. -->
-- [ ] C) El error es simplificar: lo correcto es x = 4 porque los numeradores son iguales
+- [ ] B) El error es simplificar: lo correcto es x = 4 porque los numeradores son iguales
   <!-- feedback: Incorrecto. Igualar numeradores ignora los denominadores de la proporción. -->
-- [ ] D) El error es multiplicar en cruz: lo correcto es x = 7 por suma de extremos
+- [ ] C) El error es multiplicar en cruz: lo correcto es x = 7 por suma de extremos
   <!-- feedback: Incorrecto. Sumar extremos no es un procedimiento válido para proporciones. -->
 ### Explicacion Pedagogica
 En una proporción el producto de extremos iguala al de medios: 2 por x = 3 por 4 = 12, por lo tanto x = 6. Sumar 1 no tiene fundamento en Tales.

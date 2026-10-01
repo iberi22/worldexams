@@ -34,9 +34,9 @@ Lectura, escritura, comparación y operaciones básicas con números decimales e
 ¿Cómo se escribe en cifras el valor "cuatro mil doscientos cincuenta pesos"?
 
 ### Opciones
-- [x] A) $4.250 COP.
+- [x] B) $4.250 COP.
   <!-- feedback: El número cuatro mil doscientos cincuenta se escribe 4.250 en el sistema decimal colombiano usando punto como separador de miles. -->
-- [ ] B) $4,250 COP.
+- [ ] A) $4,250 COP.
   <!-- feedback: La coma en Colombia separa decimales, no miles; para miles se usa punto. -->
 - [ ] C) $42.50 COP.
   <!-- feedback: 42,50 sería cuarenta y dos pesos con cincuenta centavos, una cantidad muy distinta. -->
@@ -80,9 +80,9 @@ La conversión entre el kilogramo y el gramo se basa en que 1 kilogramo equivale
 Si Valentina compra 2 tintos y 1 pan de queso, y paga con un billete de $5.000 COP, ¿cuánto recibe de cambio?
 
 ### Opciones
-- [ ] A) $1.150 COP.
+- [ ] B) $1.150 COP.
   <!-- feedback: Error al sumar: este valor surge de confundir 4.350 con 3.850. -->
-- [x] B) $650 COP.
+- [x] A) $650 COP.
   <!-- feedback: Correcto: 2 x $1.250 = $2.500; $2.500 + $1.850 = $4.350; $5.000 - $4.350 = $650 COP. -->
 - [ ] C) $1.900 COP.
   <!-- feedback: Corresponde a comprar 1 tinto y 1 pan de queso ($1.250 + $1.850 = $3.100), no a la compra solicitada. -->
@@ -103,13 +103,13 @@ Para resolver problemas con decimales y dinero se multiplican las cantidades por
 ¿Cuánta leche quedará en el refrigerador después de preparar la receta?
 
 ### Opciones
-- [x] A) 1,05 litros.
+- [x] D) 1,05 litros.
   <!-- feedback: Al restar 0,45 de 1,5 se obtiene 1,05 litros de leche restantes. -->
-- [ ] B) 0,95 litros.
+- [ ] A) 0,95 litros.
   <!-- feedback: 0,95 litros sería el resultado de restar 0,55 en lugar de 0,45. -->
-- [ ] C) 1,95 litros.
+- [ ] B) 1,95 litros.
   <!-- feedback: Se sumaron los valores en lugar de restarlos. -->
-- [ ] D) 1,5 litros.
+- [ ] C) 1,5 litros.
   <!-- feedback: No se realizó la sustracción de la cantidad usada en la receta. -->
 
 ### Explicacion Pedagogica
@@ -149,11 +149,11 @@ Para sumar decimales se alinean las comas y se suman las cifras por columna. 12,
 Si los precios se ordenan de menor a mayor, ¿cuál es la posición que ocupa el precio $42.750 COP?
 
 ### Opciones
-- [ ] A) En el medio, entre $28.250 y $35.500.
+- [ ] B) En el medio, entre $28.250 y $35.500.
   <!-- feedback: El valor del medio es $35.500 COP; $42.750 está por encima de este. -->
-- [ ] B) Sería el valor más bajo de los tres precios.
+- [ ] C) Sería el valor más bajo de los tres precios.
   <!-- feedback: $42.750 es el mayor, no el más bajo. -->
-- [x] C) Sería el valor más alto de los tres precios.
+- [x] A) Sería el valor más alto de los tres precios.
   <!-- feedback: 42.750 > 35.500 > 28.250, por lo tanto $42.750 COP ocupa la posición más alta. -->
 - [ ] D) Tendría el mismo valor numérico que los demás.
   <!-- feedback: Los tres precios tienen parte entera distinta (28, 35 y 42), por lo que sus valores numéricos son diferentes. -->
@@ -172,13 +172,13 @@ Al comparar números con parte entera distinta, basta comparar los enteros. Aqu�
 Si el vendedor redondea el precio a $3.000 COP por kilo para facilitar el cálculo, ¿cuál es el error aproximado que comete la familia al pagar?
 
 ### Opciones
-- [x] A) Paga aproximadamente $600 COP de más.
+- [x] D) Paga aproximadamente $600 COP de más.
   <!-- feedback: Precio real: 2,4 x $3.250 = $7.800. Precio redondeado: 2,4 x $3.000 = $7.200. Diferencia: $7.800 - $7.200 = $600 COP a favor del vendedor. -->
-- [ ] B) Paga aproximadamente $300 COP de más.
+- [ ] A) Paga aproximadamente $300 COP de más.
   <!-- feedback: $300 COP correspondería a redondear solamente 125 pesos por kilo, no 250. -->
-- [ ] C) Paga exactamente la misma cantidad.
+- [ ] B) Paga exactamente la misma cantidad.
   <!-- feedback: Los valores son diferentes ($3.250 vs $3.000), por lo tanto el pago cambia. -->
-- [ ] D) Paga aproximadamente $60 COP de más.
+- [ ] C) Paga aproximadamente $60 COP de más.
   <!-- feedback: $60 COP corresponde a redondear solo 25 pesos por kilo, no 250. -->
 
 ### Explicacion Pedagogica
@@ -195,11 +195,11 @@ El redondeo produce diferencias que se multiplican por la cantidad comprada. Al 
 ¿Cuál de las siguientes afirmaciones sobre el reparto es la más precisa matemáticamente?
 
 ### Opciones
-- [x] A) El reparto suma exactamente 1,0 y asigna $7.500, $4.500 y $3.000 COP respectivamente.
+- [x] C) El reparto suma exactamente 1,0 y asigna $7.500, $4.500 y $3.000 COP respectivamente.
   <!-- feedback: 0,5 + 0,3 + 0,2 = 1,0. Multiplicando por $15.000: 7.500 + 4.500 + 3.000 = $15.000 COP. -->
-- [ ] B) El reparto suma 1,0 pero asigna $7.000, $4.000 y $4.000 COP.
+- [ ] A) El reparto suma 1,0 pero asigna $7.000, $4.000 y $4.000 COP.
   <!-- feedback: Los valores asignados no corresponden a las fracciones decimales indicadas. -->
-- [ ] C) El reparto es inválido porque las fracciones no son enteras.
+- [ ] B) El reparto es inválido porque las fracciones no son enteras.
   <!-- feedback: Las fracciones decimales son una forma válida de repartir un todo entre varios. -->
 - [ ] D) El reparto solo funcionaría si las tres fracciones fueran iguales a 0,33.
   <!-- feedback: 0,33 + 0,33 + 0,33 = 0,99, no 1,0; el reparto exacto exige fracciones cuya suma sea exactamente el total. -->

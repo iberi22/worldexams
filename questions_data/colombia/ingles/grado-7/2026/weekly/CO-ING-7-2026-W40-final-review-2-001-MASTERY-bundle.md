@@ -36,9 +36,9 @@ This final comprehensive review bundle for Grade 7 covers vocabulary related to 
 What is the opposite of "shy"?
 
 ### Opciones
-- [ ] A) Quiet
+- [ ] B) Quiet
   <!-- feedback: Incorrect. Shy people are usually quiet. -->
-- [x] B) Outgoing
+- [x] A) Outgoing
   <!-- feedback: Correct! Outgoing refers to someone who is friendly and socially confident. -->
 - [ ] C) Lazy
   <!-- feedback: Incorrect. -->
@@ -61,11 +61,11 @@ The student identifies basic antonyms for personality adjectives.
 Which of the "3 Rs" means to use less of something?
 
 ### Opciones
-- [x] A) Reduce
+- [x] C) Reduce
   <!-- feedback: Correct! "Reduce" is the practice of using less material or energy. -->
-- [ ] B) Reuse
+- [ ] A) Reuse
   <!-- feedback: Incorrect. This means using it again. -->
-- [ ] C) Recycle
+- [ ] B) Recycle
   <!-- feedback: Incorrect. This means turning it into something new. -->
 - [ ] D) Review
   <!-- feedback: Incorrect. Not one of the "3 Rs" of the environment. -->
@@ -88,9 +88,9 @@ The student identifies the specific meaning of environmental sustainability term
 ### Opciones
 - [ ] A) many
   <!-- feedback: Incorrect. Salt is uncountable. -->
-- [x] B) much
+- [x] C) much
   <!-- feedback: Correct! "Much" is used for large quantities of uncountable nouns. -->
-- [ ] C) few
+- [ ] B) few
   <!-- feedback: Incorrect. For uncountable, use "little". -->
 - [ ] D) any
   <!-- feedback: Incorrect. In this context, it implies an excess. -->
@@ -113,11 +113,11 @@ The student understands the correct quantifier for uncountable nouns in a nutrit
 ### Opciones
 - [ ] A) higher
   <!-- feedback: Incorrect. Comparative form. -->
-- [x] B) highest
+- [x] D) highest
   <!-- feedback: Correct! Superlative form for a short adjective. -->
-- [ ] C) most high
+- [ ] B) most high
   <!-- feedback: Incorrect. "High" is a short adjective. -->
-- [ ] D) as high
+- [ ] C) as high
   <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
@@ -136,11 +136,11 @@ The student understands the correct superlative form for a short adjective.
 "The bakery is ________ the post office and the library."
 
 ### Opciones
-- [ ] A) opposite
+- [ ] B) opposite
   <!-- feedback: Incorrect. "Opposite" usually refers to one thing. -->
-- [ ] B) behind
+- [ ] C) behind
   <!-- feedback: Incorrect. -->
-- [x] C) between
+- [x] A) between
   <!-- feedback: Correct! "Between" indicates a position in the middle of two points. -->
 - [ ] D) under
   <!-- feedback: Incorrect. -->
@@ -162,9 +162,9 @@ The student applies knowledge of prepositions of place to describe city layouts.
 What solution for climate change is suggested in the text?
 
 ### Opciones
-- [ ] A) Letting the glaciers melt.
+- [ ] B) Letting the glaciers melt.
   <!-- feedback: Incorrect. This is a problem, not a solution. -->
-- [x] B) Using renewable energy sources like solar power.
+- [x] A) Using renewable energy sources like solar power.
   <!-- feedback: Correct! The text explicitly recommends this. -->
 - [ ] C) Moving away from Colombia.
   <!-- feedback: Incorrect. Not mentioned. -->
@@ -189,9 +189,9 @@ The student applies reading strategies to identify a proposed solution in an env
 ### Opciones
 - [ ] A) interestinger
   <!-- feedback: Incorrect. Long adjective. -->
-- [x] B) more interesting
+- [x] C) more interesting
   <!-- feedback: Correct! Comparative form for long adjectives. -->
-- [ ] C) the most interesting
+- [ ] B) the most interesting
   <!-- feedback: Incorrect. Comparing two things. -->
 - [ ] D) as interesting
   <!-- feedback: Incorrect. Missing the second "as". -->
@@ -214,11 +214,11 @@ Which sentence is grammatically correct for a question about quantity?
 ### Opciones
 - [ ] A) Is there some sugar in the kitchen?
   <!-- feedback: Incorrect. In simple questions, "any" is more standard. -->
-- [x] B) Is there any sugar in the kitchen?
+- [x] D) Is there any sugar in the kitchen?
   <!-- feedback: Correct! "Any" is the standard quantifier for questions and negatives. -->
-- [ ] C) Are there any sugar in the kitchen?
+- [ ] B) Are there any sugar in the kitchen?
   <!-- feedback: Incorrect. "Sugar" is uncountable, needs singular "Is there". -->
-- [ ] D) Is there many sugar in the kitchen?
+- [ ] C) Is there many sugar in the kitchen?
   <!-- feedback: Incorrect. "Many" is for countable nouns. -->
 
 ### Explicacion Pedagogica
@@ -240,11 +240,11 @@ What can we determine about Elena from the text?
 ### Opciones
 - [ ] A) She is the shortest person in her family.
   <!-- feedback: Incorrect. She is taller than her sister. -->
-- [x] B) She has a generous personality and a medium height compared to her siblings.
+- [x] D) She has a generous personality and a medium height compared to her siblings.
   <!-- feedback: Correct! Helpful/sharing means generous; "between" the heights of siblings means medium height. -->
-- [ ] C) She has short hair.
+- [ ] B) She has short hair.
   <!-- feedback: Incorrect. The text says "long". -->
-- [ ] D) She is taller than her brother.
+- [ ] C) She is taller than her brother.
   <!-- feedback: Incorrect. She is "shorter than" him. -->
 
 ### Explicacion Pedagogica
@@ -266,9 +266,9 @@ Which evaluation best describes the impact of this project?
 ### Opciones
 - [ ] A) The project is only useful for growing food.
   <!-- feedback: Incorrect. It also helps with waste and community connection. -->
-- [ ] B) The project is a waste of time for the residents.
+- [ ] C) The project is a waste of time for the residents.
   <!-- feedback: Incorrect. They say it makes them "connected and happy". -->
-- [x] C) The project successfully combines environmental sustainability with community well-being.
+- [x] B) The project successfully combines environmental sustainability with community well-being.
   <!-- feedback: Correct! Reusing/recycling (sustainability) and connection/happiness (well-being). -->
 - [ ] D) The residents are unhappy because they have to work in the garden.
   <!-- feedback: Incorrect. They say they feel happy. -->

@@ -29,9 +29,9 @@ creador: "Jules-Agent"
 ¿Cuánto pagó María en total?
 
 ### Opciones
-- [x] A) $63
+- [x] B) $63
   <!-- feedback: 38 + 25 = 63; se suman unidades con unidades y decenas con decenas. -->
-- [ ] B) $53
+- [ ] A) $53
   <!-- feedback: Falta llevar la decena: 8 + 5 = 13, se anota 3 y se acumula 1 decena extra. -->
 - [ ] C) $62
   <!-- feedback: La suma de las unidades es 13, no 12; el resultado correcto termina en 3. -->
@@ -51,13 +51,13 @@ Sumar cantidades de dos dígitos con canje exige sumar primero las unidades (8 +
 ¿Qué operación permite saber cuántos libros quedaron en la biblioteca y cuál es el resultado?
 
 ### Opciones
-- [x] A) 250 − 120 = 130
+- [x] D) 250 − 120 = 130
   <!-- feedback: Al prestar libros la cantidad disminuye, por eso se resta: quedan 130 libros. -->
-- [ ] B) 250 + 120 = 370
+- [ ] A) 250 + 120 = 370
   <!-- feedback: Sumar contaría los libros prestados como si llegaran a la biblioteca, cuando en realidad salen de ella. -->
-- [ ] C) 250 − 120 = 120
+- [ ] B) 250 − 120 = 120
   <!-- feedback: La operación es correcta pero el cálculo no: 250 − 120 es 130, no 120. -->
-- [ ] D) 250 + 120 = 130
+- [ ] C) 250 + 120 = 130
   <!-- feedback: La operación y el cálculo no son coherentes; una suma de números positivos no puede dar un resultado menor que 250. -->
 
 ### Explicacion Pedagogica
@@ -73,13 +73,13 @@ Comprender el sentido de las operaciones es tan importante como calcular: cuando
 ¿Cuántos tamales prepararon entre las dos?
 
 ### Opciones
-- [x] A) 323
+- [x] D) 323
   <!-- feedback: 175 + 148 = 323; hay canje en unidades (5 + 8 = 13) y en decenas (7 + 4 + 1 = 12). -->
-- [ ] B) 313
+- [ ] A) 313
   <!-- feedback: Al sumar decenas, 7 + 4 más la decena que se llevó da 12; olvidar el canje produce 313. -->
-- [ ] C) 333
+- [ ] B) 333
   <!-- feedback: El canje de las unidades ya se contó; sumarlo dos veces infla el resultado a 333. -->
-- [ ] D) 223
+- [ ] C) 223
   <!-- feedback: Falta una centena: 100 + 100 ya da 200 y 70 + 40 rebasa las 300 en total. -->
 
 ### Explicacion Pedagogica
@@ -95,11 +95,11 @@ La suma de números de tres cifras con múltiples canjes se resuelve paso a paso
 ¿Cuánto dinero le quedó a José?
 
 ### Opciones
-- [x] A) $232
+- [x] C) $232
   <!-- feedback: 500 − 268 = 232; al restar es necesario descomponer las centenas para poder restar unidades y decenas. -->
-- [ ] B) $242
+- [ ] A) $242
   <!-- feedback: El error típico es restar 8 de 10 y dejar las decenas sin ajustar: el resultado correcto es 232. -->
-- [ ] C) $332
+- [ ] B) $332
   <!-- feedback: 500 − 200 ya es 300; restar además 68 deja menos de 300. -->
 - [ ] D) $268
   <!-- feedback: Ese es el gasto, no lo que queda; la resta 500 − 268 da 232. -->
@@ -119,9 +119,9 @@ Restar con ceros intermedios (500 − 268) obliga a "desarmar" una centena en 9 
 ### Opciones
 - [ ] A) 3
   <!-- feedback: 3 se obtendría restando las diferencias parciales sin acumular los goles por equipo; los totales son 6 y 7. -->
-- [x] B) 1
+- [x] C) 1
   <!-- feedback: Local sumó 3 + 3 = 6 goles y Visitante sumó 2 + 5 = 7; la diferencia total es 7 − 6 = 1. -->
-- [ ] C) 2
+- [ ] B) 2
   <!-- feedback: Ese resultado mezclaría la diferencia de un solo partido en lugar de los totales acumulados. -->
 - [ ] D) 4
   <!-- feedback: 4 se obtendría sumando las diferencias parciales (1 + 2) sin considerar que van en sentidos opuestos. -->
@@ -139,9 +139,9 @@ Para comparar totales acumulados primero se suman los goles de cada equipo entre
 ¿Qué comprobación muestra que el resultado de Lupita es incorrecto?
 
 ### Opciones
-- [x] A) 355 + 167 = 522, que no es 412
+- [x] B) 355 + 167 = 522, que no es 412
   <!-- feedback: La resta se comprueba con la suma inversa: si 412 − 167 fuera 355, entonces 355 + 167 debería ser 412; al dar 522 queda claro que el resultado estaba mal. -->
-- [ ] B) 355 está entre 167 y 412
+- [ ] A) 355 está entre 167 y 412
   <!-- feedback: Verificar que el resultado esté en un rango razonable no detecta errores de cálculo; el resultado correcto de 412 − 167 es 245. -->
 - [ ] C) 355 − 167 = 188
   <!-- feedback: Restar el resultado supuesto con el sustraendo no es una comprobación válida de una sustracción. -->
@@ -161,13 +161,13 @@ La relación inversa entre suma y resta permite comprobar: minuendo − sustraen
 ¿Cuántas gallinas y cuántos conejos hay?
 
 ### Opciones
-- [x] A) 9 gallinas y 5 conejos
+- [x] D) 9 gallinas y 5 conejos
   <!-- feedback: 9 + 5 = 14 cabezas y 9 × 2 + 5 × 4 = 18 + 20 = 38 patas; se cumplen las dos condiciones. -->
-- [ ] B) 10 gallinas y 4 conejos
+- [ ] A) 10 gallinas y 4 conejos
   <!-- feedback: Da 14 cabezas pero 10 × 2 + 4 × 4 = 36 patas, no 38. -->
-- [ ] C) 7 gallinas y 7 conejos
+- [ ] B) 7 gallinas y 7 conejos
   <!-- feedback: Da 14 cabezas pero 7 × 2 + 7 × 4 = 42 patas, no 38. -->
-- [ ] D) 11 gallinas y 3 conejos
+- [ ] C) 11 gallinas y 3 conejos
   <!-- feedback: Da 14 cabezas pero 11 × 2 + 3 × 4 = 34 patas, no 38. -->
 
 ### Explicacion Pedagogica
@@ -183,13 +183,13 @@ Este problema clásico exige probar combinaciones que cumplan dos condiciones si
 ¿Cuál afirmación es correcta?
 
 ### Opciones
-- [x] A) La del papá, porque 875 + 400 = 1,275 y sobran $25
+- [x] D) La del papá, porque 875 + 400 = 1,275 y sobran $25
   <!-- feedback: 875 + 400 = 1,275; al restar el precio, 1,275 − 1,250 = 25, así que alcanza y sobran $25. -->
-- [ ] B) La de la mamá, porque 875 + 400 = 1,250
+- [ ] A) La de la mamá, porque 875 + 400 = 1,250
   <!-- feedback: El cálculo 875 + 400 = 1,250 es incorrecto; la suma real es 1,275. -->
-- [ ] C) Ninguna, porque no les alcanza
+- [ ] B) Ninguna, porque no les alcanza
   <!-- feedback: 1,275 es mayor que 1,250, así que sí alcanza para el boleto. -->
-- [ ] D) La de la mamá, porque 875 + 400 = 1,275 y eso es el precio
+- [ ] C) La de la mamá, porque 875 + 400 = 1,275 y eso es el precio
   <!-- feedback: Usa la suma correcta pero la interpreta mal: 1,275 excede el precio de 1,250 en $25. -->
 
 ### Explicacion Pedagogica

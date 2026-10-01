@@ -34,11 +34,11 @@ Use of the Present Continuous tense to describe actions that are happening at th
 What is the correct structure of the Present Continuous tense in English?
 
 ### Opciones
-- [x] A) Subject + am/is/are + verb-ing.
+- [x] C) Subject + am/is/are + verb-ing.
   <!-- feedback: The Present Continuous uses the verb "to be" plus the main verb with -ing. -->
-- [ ] B) Subject + verb in past tense.
+- [ ] A) Subject + verb in past tense.
   <!-- feedback: The past simple is used for finished actions, not for actions happening now. -->
-- [ ] C) Subject + do/does + verb.
+- [ ] B) Subject + do/does + verb.
   <!-- feedback: "Do/does" is used in the present simple, not in the continuous. -->
 - [ ] D) Subject + will + verb.
   <!-- feedback: "Will" is used for the future, not for actions happening now. -->
@@ -80,11 +80,11 @@ Comprender que el Presente Continuo describe acciones que ocurren en este moment
 Which sentence is in the Present Continuous and describes an action happening now?
 
 ### Opciones
-- [x] A) The children are playing soccer.
+- [x] C) The children are playing soccer.
   <!-- feedback: "Are playing" is a correct Present Continuous form for a present action. -->
-- [ ] B) The children plays soccer.
+- [ ] A) The children plays soccer.
   <!-- feedback: "Plays" is present simple, not continuous, and "children" is plural. -->
-- [ ] C) The children played soccer yesterday.
+- [ ] B) The children played soccer yesterday.
   <!-- feedback: "Played" is past simple, not continuous. -->
 - [ ] D) The children will play soccer tomorrow.
   <!-- feedback: "Will play" is future simple, not continuous. -->
@@ -126,9 +126,9 @@ Aplicar la conjugación del Presente Continuo con el pronombre "I".
 Which sentence correctly uses the negative form of the Present Continuous?
 
 ### Opciones
-- [x] A) The students are not using their phones in class.
+- [x] B) The students are not using their phones in class.
   <!-- feedback: The negative adds "not" after the verb "to be": are not using. -->
-- [ ] B) The students don't using their phones in class.
+- [ ] A) The students don't using their phones in class.
   <!-- feedback: "Don't" is used in the present simple, not in the continuous. -->
 - [ ] C) The students not are using their phones in class.
   <!-- feedback: The correct order is "are not using", not "not are using". -->
@@ -172,13 +172,13 @@ Analizar acciones presentes que contrastan con rutinas habituales.
 What can you infer about the family from the description?
 
 ### Opciones
-- [x] A) Each member of the family is busy with a different activity at the same time.
+- [x] D) Each member of the family is busy with a different activity at the same time.
   <!-- feedback: The text shows several actions happening at the same moment in the family. -->
-- [ ] B) The whole family is sleeping because no one is doing anything.
+- [ ] A) The whole family is sleeping because no one is doing anything.
   <!-- feedback: Each person is performing an activity, so they are not sleeping. -->
-- [ ] C) Only one person is doing something in the house.
+- [ ] B) Only one person is doing something in the house.
   <!-- feedback: Four different people are doing different activities. -->
-- [ ] D) The family is celebrating a birthday party.
+- [ ] C) The family is celebrating a birthday party.
   <!-- feedback: The text describes daily activities, not a birthday party. -->
 
 ### Explicacion Pedagogica
@@ -195,13 +195,13 @@ Analizar varias acciones simultáneas usando el Presente Continuo en un mismo co
 Why is the Present Continuous important for real communication in English?
 
 ### Opciones
-- [x] A) Because it allows us to describe what is happening right now in daily life and share clear observations with others.
+- [x] D) Because it allows us to describe what is happening right now in daily life and share clear observations with others.
   <!-- feedback: El Presente Continuo es clave para comunicar acciones del momento presente. -->
-- [ ] B) Because it is only used in very formal academic writing.
+- [ ] A) Because it is only used in very formal academic writing.
   <!-- feedback: Se usa en la conversación diaria, no solo en textos académicos formales. -->
-- [ ] C) Because it replaces the present simple in all situations.
+- [ ] B) Because it replaces the present simple in all situations.
   <!-- feedback: El Presente Continuo no reemplaza al simple; ambos cumplen funciones distintas. -->
-- [ ] D) Because it is not useful for talking about the present.
+- [ ] C) Because it is not useful for talking about the present.
   <!-- feedback: Precisamente, es el tiempo más útil para hablar del presente en curso. -->
 
 ### Explicacion Pedagogica

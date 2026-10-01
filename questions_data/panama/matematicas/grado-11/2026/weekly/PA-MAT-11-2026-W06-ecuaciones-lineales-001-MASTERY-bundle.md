@@ -50,8 +50,8 @@ Identificación de los pasos lógicos y propiedades de la igualdad para la resol
 Resuelve para el valor de $x$ en la ecuación: $3x + 4 = 19$.
 
 ### Opciones
-- [ ] A) $x = 7.6$ <!-- feedback: Incorrecto. Probablemente se sumó la constante 4 al valor 19 en lugar de restarla durante el despeje. -->
-- [x] B) $x = 5$ <!-- feedback: Correcto. Restando 4 queda 3x = 15; dividiendo luego entre 3 resulta en x = 5. -->
+- [ ] B) $x = 7.6$ <!-- feedback: Incorrecto. Probablemente se sumó la constante 4 al valor 19 en lugar de restarla durante el despeje. -->
+- [x] A) $x = 5$ <!-- feedback: Correcto. Restando 4 queda 3x = 15; dividiendo luego entre 3 resulta en x = 5. -->
 - [ ] C) $x = 4$ <!-- feedback: Incorrecto. Se cometió un error en la división final tras haber restado la constante correctamente. -->
 - [ ] D) $x = 23/3$ <!-- feedback: Incorrecto. Se cometió un error al trasponer el término independiente (+4) al otro miembro. -->
 
@@ -93,8 +93,8 @@ Encuentra el valor real de $x$ en la ecuación: $10 - 2x = 4$.
 
 ### Opciones
 - [ ] A) $x = -3$ <!-- feedback: Incorrecto. Error de signos al realizar el despeje; se debe considerar el coeficiente negativo de la variable. -->
-- [x] B) $x = 3$ <!-- feedback: Correcto. -2x = 4 - 10, lo que da -2x = -6. Al dividir por -2, el resultado es positivo 3. -->
-- [ ] C) $x = 7$ <!-- feedback: Incorrecto. Error al sumar el valor de 10 a la constante 4 en lugar de restarlo como corresponde. -->
+- [x] C) $x = 3$ <!-- feedback: Correcto. -2x = 4 - 10, lo que da -2x = -6. Al dividir por -2, el resultado es positivo 3. -->
+- [ ] B) $x = 7$ <!-- feedback: Incorrecto. Error al sumar el valor de 10 a la constante 4 en lugar de restarlo como corresponde. -->
 - [ ] D) $x = 12$ <!-- feedback: Incorrecto. Aplicación errónea de todas las reglas de trasposición de términos en la ecuación. -->
 
 ### Explicacion Pedagogica
@@ -113,8 +113,8 @@ Manejo de coeficientes negativos y términos constantes en la resolución de ecu
 ¿Qué ecuación representa el enunciado: "El doble de un número aumentado en 8 es igual a 20"?
 
 ### Opciones
-- [x] A) $2x + 8 = 20$ <!-- feedback: Correcto. Doble de un número es 2x, aumentado en 8 es +8, e igual a 20 completa la expresión. -->
-- [ ] B) $x^2 + 8 = 20$ <!-- feedback: Incorrecto. El término "cuadrado" y "doble" representan operaciones matemáticas distintas. -->
+- [x] B) $2x + 8 = 20$ <!-- feedback: Correcto. Doble de un número es 2x, aumentado en 8 es +8, e igual a 20 completa la expresión. -->
+- [ ] A) $x^2 + 8 = 20$ <!-- feedback: Incorrecto. El término "cuadrado" y "doble" representan operaciones matemáticas distintas. -->
 - [ ] C) $2(x + 8) = 20$ <!-- feedback: Incorrecto. Esta igualdad representaría el doble de la suma de un número y ocho. -->
 - [ ] D) $x/2 + 8 = 20$ <!-- feedback: Incorrecto. Esta expresión describe la mitad de un número en lugar de su duplicado. -->
 
@@ -155,8 +155,8 @@ Resolución de ecuaciones lineales con la incógnita presente en ambos miembros 
 Halla la solución de la ecuación: $3(x - 2) = 12$.
 
 ### Opciones
-- [ ] A) $x = 4$ <!-- feedback: Incorrecto. Este valor se obtiene si no se distribuye el factor 3 sobre la constante negativa -2. -->
-- [x] B) $x = 6$ <!-- feedback: Correcto. 3x - 6 = 12, entonces 3x = 18. Al realizar la división se obtiene el valor de 6. -->
+- [ ] B) $x = 4$ <!-- feedback: Incorrecto. Este valor se obtiene si no se distribuye el factor 3 sobre la constante negativa -2. -->
+- [x] A) $x = 6$ <!-- feedback: Correcto. 3x - 6 = 12, entonces 3x = 18. Al realizar la división se obtiene el valor de 6. -->
 - [ ] C) $x = 14/3$ <!-- feedback: Incorrecto. Se cometió un error de signo al trasponer el término constante resultante del paréntesis. -->
 - [ ] D) $x = 8$ <!-- feedback: Incorrecto. Se cometió un error aritmético básico durante alguna de las etapas del despeje. -->
 
@@ -177,8 +177,8 @@ Encuentra el valor de $x$ en la ecuación: $\frac{x}{2} + 5 = 11$.
 
 ### Opciones
 - [ ] A) $x = 3$ <!-- feedback: Incorrecto. Se realizó una división en lugar de una multiplicación durante el paso final del despeje. -->
-- [x] B) $x = 12$ <!-- feedback: Correcto. x/2 = 11 - 5, entonces x/2 = 6. Multiplicando por 2 se obtiene el valor 12. -->
-- [ ] C) $x = 8$ <!-- feedback: Incorrecto. Error al realizar la resta de las constantes o al despejar el denominador de la fracción. -->
+- [x] C) $x = 12$ <!-- feedback: Correcto. x/2 = 11 - 5, entonces x/2 = 6. Multiplicando por 2 se obtiene el valor 12. -->
+- [ ] B) $x = 8$ <!-- feedback: Incorrecto. Error al realizar la resta de las constantes o al despejar el denominador de la fracción. -->
 - [ ] D) $x = 32$ <!-- feedback: Incorrecto. Se cometió un error de cálculo significativo en la operación de multiplicación final. -->
 
 ### Explicacion Pedagogica
@@ -218,8 +218,8 @@ Identificación de ecuaciones lineales sin solución (sistemas inconsistentes).
 Resuelve la ecuación: $2(x + 3) - 5 = x + 4$.
 
 ### Opciones
-- [x] A) $x = 3$ <!-- feedback: Correcto. 2x+6-5 = x+4, lo que da 2x+1 = x+4. Trasponiendo términos se obtiene x = 3. -->
-- [ ] B) $x = 5$ <!-- feedback: Incorrecto. Error al simplificar los términos constantes presentes en el primer miembro de la igualdad. -->
+- [x] B) $x = 3$ <!-- feedback: Correcto. 2x+6-5 = x+4, lo que da 2x+1 = x+4. Trasponiendo términos se obtiene x = 3. -->
+- [ ] A) $x = 5$ <!-- feedback: Incorrecto. Error al simplificar los términos constantes presentes en el primer miembro de la igualdad. -->
 - [ ] C) $x = -3$ <!-- feedback: Incorrecto. Error en el manejo de los signos al trasponer los términos hacia los lados opuestos. -->
 - [ ] D) $x = 1$ <!-- feedback: Incorrecto. Error al aplicar la propiedad distributiva o al reducir los términos de la variable. -->
 
@@ -240,8 +240,8 @@ Halla el valor de $x$ que satisface: $\frac{x}{3} + \frac{x}{2} = 5$.
 
 ### Opciones
 - [ ] A) $x = 1$ <!-- feedback: Incorrecto. Al sustituir este valor no se cumple la igualdad de las fracciones con la constante. -->
-- [x] B) $x = 6$ <!-- feedback: Correcto. Multiplicando todo por 6: 2x + 3x = 30, entonces 5x = 30 y el resultado final es x = 6. -->
-- [ ] C) $x = 10$ <!-- feedback: Incorrecto. Error al procesar la suma de las fracciones o al despejar el valor de la incógnita. -->
+- [x] C) $x = 6$ <!-- feedback: Correcto. Multiplicando todo por 6: 2x + 3x = 30, entonces 5x = 30 y el resultado final es x = 6. -->
+- [ ] B) $x = 10$ <!-- feedback: Incorrecto. Error al procesar la suma de las fracciones o al despejar el valor de la incógnita. -->
 - [ ] D) $x = 5/6$ <!-- feedback: Incorrecto. Resultado proveniente de una manipulación errónea de las leyes de los denominadores. -->
 
 ### Explicacion Pedagogica
@@ -261,8 +261,8 @@ Resuelve la ecuación con decimales: $0.4x - 1.2 = 0.1x + 0.6$.
 
 ### Opciones
 - [ ] A) $x = 2$ <!-- feedback: Incorrecto. Error al realizar las operaciones de resta o suma con los coeficientes decimales. -->
-- [x] B) $x = 6$ <!-- feedback: Correcto. 0.3x = 1.8. Al dividir 1.8 entre 0.3 se obtiene exactamente el valor de 6. -->
-- [ ] C) $x = 4$ <!-- feedback: Incorrecto. Se cometió un error en la etapa final de división de los números decimales obtenidos. -->
+- [x] C) $x = 6$ <!-- feedback: Correcto. 0.3x = 1.8. Al dividir 1.8 entre 0.3 se obtiene exactamente el valor de 6. -->
+- [ ] B) $x = 4$ <!-- feedback: Incorrecto. Se cometió un error en la etapa final de división de los números decimales obtenidos. -->
 - [ ] D) $x = 0.6$ <!-- feedback: Incorrecto. Error de posición en el punto decimal durante la escritura del resultado final. -->
 
 ### Explicacion Pedagogica
@@ -281,8 +281,8 @@ Resolución de ecuaciones lineales que contienen coeficientes en forma decimal.
 La suma de las edades de Ricardo e Itzel es 45 años. Si Ricardo tiene 5 años más que Itzel, ¿qué ecuación permite hallar la edad de Itzel?
 
 ### Opciones
-- [ ] A) $x + 5 = 45$ <!-- feedback: Incorrecto. Esta igualdad ignora la edad del segundo personaje mencionado en el problema. -->
-- [x] B) $x + (x + 5) = 45$ <!-- feedback: Correcto. Representa la suma de la edad de Itzel (x) y la edad de Ricardo (x+5). -->
+- [ ] B) $x + 5 = 45$ <!-- feedback: Incorrecto. Esta igualdad ignora la edad del segundo personaje mencionado en el problema. -->
+- [x] A) $x + (x + 5) = 45$ <!-- feedback: Correcto. Representa la suma de la edad de Itzel (x) y la edad de Ricardo (x+5). -->
 - [ ] C) $x + 5x = 45$ <!-- feedback: Incorrecto. Esto indicaría una relación multiplicativa entre las edades, no una diferencia simple. -->
 - [ ] D) $x - 5 = 45$ <!-- feedback: Incorrecto. No refleja la condición de suma total de las dos edades dadas inicialmente. -->
 
@@ -323,9 +323,9 @@ Resolución de ecuaciones lineales mediante el producto cruzado en estructuras p
 ¿Qué se puede afirmar sobre la ecuación $3(x - 4) + 2 = 3x - 10$?
 
 ### Opciones
-- [ ] A) Tiene una solución única <!-- feedback: Incorrecto. Al simplificar los términos de la variable x, esta desaparece de la igualdad. -->
-- [ ] B) No tiene solución <!-- feedback: Incorrecto. Se obtiene una igualdad numérica verdadera (identidad) tras la simplificación. -->
-- [x] C) Tiene infinitas soluciones <!-- feedback: Correcto. La expresión se reduce a -10 = -10, lo cual es válido para cualquier número real x. -->
+- [ ] B) Tiene una solución única <!-- feedback: Incorrecto. Al simplificar los términos de la variable x, esta desaparece de la igualdad. -->
+- [ ] C) No tiene solución <!-- feedback: Incorrecto. Se obtiene una igualdad numérica verdadera (identidad) tras la simplificación. -->
+- [x] A) Tiene infinitas soluciones <!-- feedback: Correcto. La expresión se reduce a -10 = -10, lo cual es válido para cualquier número real x. -->
 - [ ] D) La única solución es cero <!-- feedback: Incorrecto. Aunque el cero satisface la igualdad, no es el único valor que lo hace. -->
 
 ### Explicacion Pedagogica
@@ -345,9 +345,9 @@ Despeja la variable $x$ en la ecuación: $ax + b = c$.
 
 ### Opciones
 - [ ] A) $x = c - b - a$ <!-- feedback: Incorrecto. La operación inversa de la multiplicación que afecta a la x es la división. -->
-- [x] B) $x = (c - b) / a$ <!-- feedback: Correcto. Primero se resta la constante b y luego se divide todo por el coeficiente a. -->
-- [ ] C) $x = (c + b) / a$ <!-- feedback: Incorrecto. Se cometió un error de signo al trasponer el término independiente al otro miembro. -->
-- [ ] D) $x = c - b/a$ <!-- feedback: Incorrecto. La división por el coeficiente a debe afectar a toda la diferencia resultante. -->
+- [x] D) $x = (c - b) / a$ <!-- feedback: Correcto. Primero se resta la constante b y luego se divide todo por el coeficiente a. -->
+- [ ] B) $x = (c + b) / a$ <!-- feedback: Incorrecto. Se cometió un error de signo al trasponer el término independiente al otro miembro. -->
+- [ ] C) $x = c - b/a$ <!-- feedback: Incorrecto. La división por el coeficiente a debe afectar a toda la diferencia resultante. -->
 
 ### Explicacion Pedagogica
 Resolución de ecuaciones literales mediante el despeje algorítmico de variables.
@@ -387,8 +387,8 @@ Resolución de ecuaciones lineales complejas con múltiples fracciones y signos 
 
 ### Opciones
 - [ ] A) $k = 0$ <!-- feedback: Incorrecto. Con este valor la ecuación se convierte en lineal con una solución única definida. -->
-- [x] B) $k = 5$ <!-- feedback: Correcto. Si k=5, los términos con la variable se anulan dejando una contradicción numérica. -->
-- [ ] C) $k = -5$ <!-- feedback: Incorrecto. Resultaría en una ecuación lineal estándar con una única solución posible. -->
+- [x] C) $k = 5$ <!-- feedback: Correcto. Si k=5, los términos con la variable se anulan dejando una contradicción numérica. -->
+- [ ] B) $k = -5$ <!-- feedback: Incorrecto. Resultaría en una ecuación lineal estándar con una única solución posible. -->
 - [ ] D) $k = 1$ <!-- feedback: Incorrecto. Este valor no anula los términos de la variable necesarios para la inconsistencia. -->
 
 ### Explicacion Pedagogica
@@ -408,8 +408,8 @@ Halla la solución de la ecuación: $(x + 2)^2 - x^2 = 12$.
 
 ### Opciones
 - [ ] A) $x = 1$ <!-- feedback: Incorrecto. El valor del primer miembro sería 8, el cual no iguala a la constante 12 dada. -->
-- [x] B) $x = 2$ <!-- feedback: Correcto. Al expandir el binomio queda 4x+4=12, lo cual resulta en la solución x=2. -->
-- [ ] C) $x = 4$ <!-- feedback: Incorrecto. Al evaluar x=4 en la expresión original se obtiene un valor de 20. -->
+- [x] C) $x = 2$ <!-- feedback: Correcto. Al expandir el binomio queda 4x+4=12, lo cual resulta en la solución x=2. -->
+- [ ] B) $x = 4$ <!-- feedback: Incorrecto. Al evaluar x=4 en la expresión original se obtiene un valor de 20. -->
 - [ ] D) $x = 0$ <!-- feedback: Incorrecto. El valor resultante del lado izquierdo sería 4 en lugar del valor de 12. -->
 
 ### Explicacion Pedagogica
@@ -428,8 +428,8 @@ Resolución de ecuaciones que involucran productos notables y simplificaciones l
 Determina el valor exacto de $x$ que satisface la igualdad: $\frac{1}{x} + \frac{1}{2x} = 3$.
 
 ### Opciones
-- [ ] A) $x = 1$ <!-- feedback: Incorrecto. La suma de las fracciones daría 1.5 en lugar del valor constante de 3. -->
-- [x] B) $x = 0.5$ <!-- feedback: Correcto. Multiplicando por 2x queda 2+1=6x, por lo tanto 3=6x y x es igual a un medio. -->
+- [ ] B) $x = 1$ <!-- feedback: Incorrecto. La suma de las fracciones daría 1.5 en lugar del valor constante de 3. -->
+- [x] A) $x = 0.5$ <!-- feedback: Correcto. Multiplicando por 2x queda 2+1=6x, por lo tanto 3=6x y x es igual a un medio. -->
 - [ ] C) $x = 2$ <!-- feedback: Incorrecto. La suma de las fracciones daría un valor menor a la unidad (0.75). -->
 - [ ] D) $x = 1.5$ <!-- feedback: Incorrecto. No se cumple la condición de igualdad para esta entrada numérica específica. -->
 

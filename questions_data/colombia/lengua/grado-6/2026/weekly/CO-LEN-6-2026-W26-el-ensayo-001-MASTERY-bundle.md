@@ -57,13 +57,13 @@ El ensayo es un texto argumentativo en el que el autor expone su posición sobre
 ¿A partir de la frase citada se puede deducir que el texto es un ensayo? ¿Por qué?
 
 ### Opciones
-- [x] A) Sí, porque el texto anuncia que va a defender una idea por escrito, rasgo propio del ensayo.
+- [x] D) Sí, porque el texto anuncia que va a defender una idea por escrito, rasgo propio del ensayo.
   <!-- feedback: Correcto. La frase declara la tesis y el propósito de defenderla, dos marcas del género ensayo. -->
-- [ ] B) No, porque solo los poemas y las narraciones pueden anunciar su propósito al comienzo.
+- [ ] A) No, porque solo los poemas y las narraciones pueden anunciar su propósito al comienzo.
   <!-- feedback: Incorrecto. Cualquier género puede anticipar su propósito; el del ensayo es defender una idea. -->
-- [ ] C) No, porque el ensayo nunca comienza con una oración, siempre comienza con un título largo.
+- [ ] B) No, porque el ensayo nunca comienza con una oración, siempre comienza con un título largo.
   <!-- feedback: Incorrecto. El título es necesario, pero puede ir seguido de una oración inicial breve. -->
-- [ ] D) Sí, porque toda frase que usa la palabra "defender" pertenece a un texto histórico.
+- [ ] C) Sí, porque toda frase que usa la palabra "defender" pertenece a un texto histórico.
   <!-- feedback: Incorrecto. La palabra "defender" es propia de la argumentación, no de la narración histórica. -->
 
 ### Explicacion Pedagogica
@@ -80,13 +80,13 @@ Comprender un texto implica reconocer su género a partir de marcas internas. La
 Un alumno elige la postura "las bicicletas son la mejor solución para reducir el tráfico en Cali". ¿Cuál de las siguientes es una tesis correctamente formulada?
 
 ### Opciones
-- [x] A) Las bicicletas son la mejor solución para reducir el tráfico en Cali, porque ocupan poco espacio y no generan contaminación.
+- [x] D) Las bicicletas son la mejor solución para reducir el tráfico en Cali, porque ocupan poco espacio y no generan contaminación.
   <!-- feedback: Correcto. La tesis toma postura, delimita el alcance y anuncia la razón que la sostiene. -->
-- [ ] B) Las bicicletas son lindas y en Bogotá hay muchas ciclorrutas desde hace años.
+- [ ] A) Las bicicletas son lindas y en Bogotá hay muchas ciclorrutas desde hace años.
   <!-- feedback: Incorrecto. Introduce una preferencia estética y un dato ajeno a Cali, y no delimita el problema. -->
-- [ ] C) Es importante conocer las bicicletas porque son objetos muy antiguos.
+- [ ] B) Es importante conocer las bicicletas porque son objetos muy antiguos.
   <!-- feedback: Incorrecto. Es una afirmación vaga y general, sin postura ni alcance sobre la ciudad. -->
-- [ ] D) Hay bicicletas en el parque principal de Cali desde hace muchos años.
+- [ ] C) Hay bicicletas en el parque principal de Cali desde hace muchos años.
   <!-- feedback: Incorrecto. Es un dato aislado que describe un lugar, no una postura defendible. -->
 
 ### Explicacion Pedagogica
@@ -103,9 +103,9 @@ Una tesis de ensayo combina tres elementos: una postura clara, un alcance delimi
 ¿Cuál de los textos es un ensayo y por qué es el único con esa característica?
 
 ### Opciones
-- [x] A) El que defiende una postura sobre el consumo de agua, porque presenta una tesis y argumentos para sostenerla.
+- [x] B) El que defiende una postura sobre el consumo de agua, porque presenta una tesis y argumentos para sostenerla.
   <!-- feedback: Correcto. Solo ese texto combina postura, tesis y argumentos propios del género ensayo. -->
-- [ ] B) El que presenta datos de temperatura, porque la tabla de datos demuestra que es ensayo.
+- [ ] A) El que presenta datos de temperatura, porque la tabla de datos demuestra que es ensayo.
   <!-- feedback: Incorrecto. Los datos cuantitativos corresponden a un texto informativo o científico. -->
 - [ ] C) El que relata las historias de los hacendores, porque todo relato de la época colonial es ensayo.
   <!-- feedback: Incorrecto. Los relatos de los hacenderos son narración histórica, un género distinto. -->
@@ -126,11 +126,11 @@ El ensayo pertenece al género argumentativo, no al informativo ni al narrativo.
 ¿Qué orden produce un párrafo argumentativo coherente?
 
 ### Opciones
-- [x] A) Tesis, argumento, evidencia y cierre que retoma la idea central.
+- [x] C) Tesis, argumento, evidencia y cierre que retoma la idea central.
   <!-- feedback: Correcto. Respeta la secuencia clásica: postura, razones, pruebas y recapitulación. -->
-- [ ] B) Evidencia, tesis, argumento y cierre, para demostrar que el autor ya sabía la respuesta.
+- [ ] A) Evidencia, tesis, argumento y cierre, para demostrar que el autor ya sabía la respuesta.
   <!-- feedback: Incorrecto. Sin tesis inicial el lector no sabe qué postura se sostiene ni hacia dónde va el texto. -->
-- [ ] C) Tesis, cierre, argumento y evidencia, porque el cierre se escribe siempre antes de desarrollar.
+- [ ] B) Tesis, cierre, argumento y evidencia, porque el cierre se escribe siempre antes de desarrollar.
   <!-- feedback: Incorrecto. El cierre antes de los argumentos deja el párrafo sin desarrollo y confunde al lector. -->
 - [ ] D) Argumento, tesis, evidencia y cierre, porque así el texto empieza con una razón y luego explica la idea.
   <!-- feedback: Incorrecto. Una razón sin tesis previa es confusa: no se sabe qué postura sostiene esa razón. -->
@@ -172,11 +172,11 @@ Analizar un argumento exige distinguir entre afirmaciones que se sostienen solas
 ¿Cuál es el problema central de este ensayo desde el punto de vista crítico?
 
 ### Opciones
-- [x] A) La tesis es refutable y no se apoya en ninguna evidencia, de modo que el razonamiento es débil.
+- [x] C) La tesis es refutable y no se apoya en ninguna evidencia, de modo que el razonamiento es débil.
   <!-- feedback: Correcto. Una tesis que contradice lo evidente y carece de pruebas no convince a nadie. -->
-- [ ] B) El texto es débil porque usa demasiadas palabras técnicas que confunden al lector.
+- [ ] A) El texto es débil porque usa demasiadas palabras técnicas que confunden al lector.
   <!-- feedback: Incorrecto. El texto no usa tecnicismos; su defecto es la ausencia total de sustento. -->
-- [ ] C) El texto es débil porque es muy corto y no alcanza la cantidad de páginas exigida por el MEN.
+- [ ] B) El texto es débil porque es muy corto y no alcanza la cantidad de páginas exigida por el MEN.
   <!-- feedback: Incorrecto. El MEN no fija un número de páginas obligatorio; pesa la calidad del argumento. -->
 - [ ] D) El texto es débil porque no incluye datos biográficos del autor que den contexto personal.
   <!-- feedback: Incorrecto. La biografía del autor no es un requisito del ensayo argumentativo. -->
@@ -218,13 +218,13 @@ Anticipar la estructura es una estrategia de lectura de alto rendimiento. El tí
 Un buen lector crítico, ¿cómo debe evaluar la tesis del primer ensayo?
 
 ### Opciones
-- [x] A) Debe valorar la solidez del argumento y contrastarlo con los datos actuales, sin descartarlo solo por su antigüedad.
+- [x] D) Debe valorar la solidez del argumento y contrastarlo con los datos actuales, sin descartarlo solo por su antigüedad.
   <!-- feedback: Correcto. La vigencia y la validez son criterios distintos: un texto antiguo puede aportar razones relevantes. -->
-- [ ] B) Debe aceptarla sin discusión porque los textos antiguos siempre tienen la razón.
+- [ ] A) Debe aceptarla sin discusión porque los textos antiguos siempre tienen la razón.
   <!-- feedback: Incorrecto. La antigüedad no garantiza validez; un texto viejo puede contener afirmaciones refutadas. -->
-- [ ] C) Debe rechazarla automáticamente porque los datos actuales contradicen su conclusión general.
+- [ ] B) Debe rechazarla automáticamente porque los datos actuales contradicen su conclusión general.
   <!-- feedback: Incorrecto. Rechazar por novedad es el error opuesto: la vigencia no invalida por sí sola el argumento. -->
-- [ ] D) Debe pedirle al autor que la actualice por correo electrónico antes de considerarla válida.
+- [ ] C) Debe pedirle al autor que la actualice por correo electrónico antes de considerarla válida.
   <!-- feedback: Incorrecto. Un texto no se evalúa por la posibilidad de contactar a su autor, sino por sus razones. -->
 
 ### Explicacion Pedagogica

@@ -36,8 +36,8 @@ I ________ to Cartagena three times. It's a beautiful city!
 
 ### Opciones
 - [ ] A) was <!-- feedback: Incorrect. We use Present Perfect for experiences. -->
-- [x] B) have been <!-- feedback: Correct! Present Perfect (have + past participle) for life experiences. -->
-- [ ] C) am <!-- feedback: Incorrect. This is present tense. -->
+- [x] C) have been <!-- feedback: Correct! Present Perfect (have + past participle) for life experiences. -->
+- [ ] B) am <!-- feedback: Incorrect. This is present tense. -->
 - [ ] D) has been <!-- feedback: Incorrect. "I" takes "have", not "has". -->
 
 ### Explicación Pedagógica
@@ -58,8 +58,8 @@ ________ you ever ________ an exotic fruit like a pitahaya?
 ### Opciones
 - [ ] A) Do / eat <!-- feedback: Incorrect. This is for habits. -->
 - [ ] B) Did / eat <!-- feedback: Incorrect. This is for a specific time in the past. -->
-- [x] C) Have / eaten <!-- feedback: Correct! "Have + past participle" for questions about experiences. -->
-- [ ] D) Has / eaten <!-- feedback: Incorrect. "You" takes "have". -->
+- [x] D) Have / eaten <!-- feedback: Correct! "Have + past participle" for questions about experiences. -->
+- [ ] C) Has / eaten <!-- feedback: Incorrect. "You" takes "have". -->
 
 ### Explicación Pedagógica
 Para preguntar sobre experiencias de vida usamos "Have you ever + participio pasado".
@@ -99,8 +99,8 @@ Juan has lived in Medellín ________ he was a little boy.
 
 ### Opciones
 - [ ] A) for <!-- feedback: Incorrect. "For" is used for periods of time (e.g., 5 years). -->
-- [x] B) since <!-- feedback: Correct! "Since" is used for a specific starting point in time. -->
-- [ ] C) during <!-- feedback: Incorrect. Not the standard preposition for present perfect duration. -->
+- [x] C) since <!-- feedback: Correct! "Since" is used for a specific starting point in time. -->
+- [ ] B) during <!-- feedback: Incorrect. Not the standard preposition for present perfect duration. -->
 - [ ] D) until <!-- feedback: Incorrect. This means he stopped living there. -->
 
 ### Explicación Pedagógica
@@ -119,10 +119,10 @@ Usamos "since" para indicar el punto de inicio de una acción que continúa hast
 We have studied English ________ five years.
 
 ### Opciones
-- [x] A) for <!-- feedback: Correct! "For" is used to show a duration or period of time. -->
-- [ ] B) since <!-- feedback: Incorrect. "Since" needs a specific point in time, not a number of years. -->
-- [ ] C) ago <!-- feedback: Incorrect. "Ago" is only used with Past Simple. -->
-- [ ] D) yet <!-- feedback: Incorrect. "Yet" is used for expectations in negatives/questions. -->
+- [x] D) for <!-- feedback: Correct! "For" is used to show a duration or period of time. -->
+- [ ] A) since <!-- feedback: Incorrect. "Since" needs a specific point in time, not a number of years. -->
+- [ ] B) ago <!-- feedback: Incorrect. "Ago" is only used with Past Simple. -->
+- [ ] C) yet <!-- feedback: Incorrect. "Yet" is used for expectations in negatives/questions. -->
 
 ### Explicación Pedagógica
 "For" se utiliza para indicar la duración de una acción (cuánto tiempo ha pasado).
@@ -140,8 +140,8 @@ We have studied English ________ five years.
 Shakira ________ many awards throughout her career.
 
 ### Opciones
-- [ ] A) won <!-- feedback: Incorrect. Her career is ongoing, so Present Perfect is better. -->
-- [x] B) has won <!-- feedback: Correct! Present perfect connects the past with the current status of her career. -->
+- [ ] B) won <!-- feedback: Incorrect. Her career is ongoing, so Present Perfect is better. -->
+- [x] A) has won <!-- feedback: Correct! Present perfect connects the past with the current status of her career. -->
 - [ ] C) have won <!-- feedback: Incorrect. Shakira (she) takes "has". -->
 - [ ] D) wins <!-- feedback: Incorrect. This is present simple. -->
 
@@ -161,8 +161,8 @@ Cuando hablamos de los logros de alguien que sigue activo en su carrera, el Pres
 I ________ a lot of coffee today, but yesterday I ________ any.
 
 ### Opciones
-- [ ] A) drank / haven't drunk <!-- feedback: Incorrect. Tenses are in the wrong places. -->
-- [x] B) have drunk / didn't drink <!-- feedback: Correct! "Today" is an unfinished time (Present Perfect); "yesterday" is finished (Past Simple). -->
+- [ ] B) drank / haven't drunk <!-- feedback: Incorrect. Tenses are in the wrong places. -->
+- [x] A) have drunk / didn't drink <!-- feedback: Correct! "Today" is an unfinished time (Present Perfect); "yesterday" is finished (Past Simple). -->
 - [ ] C) have drunk / haven't drunk <!-- feedback: Incorrect. "Yesterday" requires Past Simple. -->
 - [ ] D) drunk / didn't drunk <!-- feedback: Incorrect. Grammatically incorrect forms. -->
 
@@ -183,9 +183,9 @@ Este es un punto clave de B1: usar Presente Perfecto para tiempos no terminados 
 **B:** "No, thanks. I've ________ had a big lunch."
 
 ### Opciones
-- [x] A) just <!-- feedback: Correct! "Just" indicates that the action happened a very short time ago. -->
-- [ ] B) yet <!-- feedback: Incorrect. "Yet" goes at the end of negative sentences or questions. -->
-- [ ] C) ever <!-- feedback: Incorrect. "Ever" is for questions about experiences in general. -->
+- [x] C) just <!-- feedback: Correct! "Just" indicates that the action happened a very short time ago. -->
+- [ ] A) yet <!-- feedback: Incorrect. "Yet" goes at the end of negative sentences or questions. -->
+- [ ] B) ever <!-- feedback: Incorrect. "Ever" is for questions about experiences in general. -->
 - [ ] D) never <!-- feedback: Incorrect. Would mean you haven't eaten, but the response says "no thanks". -->
 
 ### Explicación Pedagógica
@@ -227,8 +227,8 @@ Which part of this text contains a grammatical error?
 
 ### Opciones
 - [ ] A) known <!-- feedback: Incorrect. Correct participle for "know". -->
-- [ ] B) for <!-- feedback: Incorrect. Correct preposition for a period of time. -->
-- [x] C) have met <!-- feedback: Correct! This is an error. Meeting someone is a specific event in the past; it should be "We met" (Past Simple). -->
+- [ ] C) for <!-- feedback: Incorrect. Correct preposition for a period of time. -->
+- [x] B) have met <!-- feedback: Correct! This is an error. Meeting someone is a specific event in the past; it should be "We met" (Past Simple). -->
 - [ ] D) have been <!-- feedback: Incorrect. Correct use to show a state that continues to the present. -->
 
 ### Explicación Pedagógica
@@ -248,8 +248,8 @@ Choose the most natural dialogue for a mother checking her son's chores:
 
 ### Opciones
 - [ ] A) "Have you finished yet?" - "Yes, I already did." <!-- feedback: Incorrect. Past simple is possible in American English but Present Perfect is preferred in B1 tests. -->
-- [x] B) "Have you finished your chores yet?" - "Yes, I have already finished them." <!-- feedback: Correct! Uses both "yet" and "already" perfectly in Present Perfect. -->
-- [ ] C) "Did you finish already?" - "No, I haven't finished already." <!-- feedback: Incorrect. "Already" is not used in negative responses of this type; "yet" is needed. -->
+- [x] C) "Have you finished your chores yet?" - "Yes, I have already finished them." <!-- feedback: Correct! Uses both "yet" and "already" perfectly in Present Perfect. -->
+- [ ] B) "Did you finish already?" - "No, I haven't finished already." <!-- feedback: Incorrect. "Already" is not used in negative responses of this type; "yet" is needed. -->
 - [ ] D) "You finish yet?" - "I have finish now." <!-- feedback: Incorrect. Grammatically broken. -->
 
 ### Explicación Pedagógica

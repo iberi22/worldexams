@@ -32,9 +32,9 @@ creador: "Jules-Agent"
 ### Opciones
 - [ ] A) La omisión de una palabra que se sobreentiende por el contexto oracional
   <!-- feedback: Incorrecto. Esto define a la elipsis, no a la anáfora. -->
-- [x] B) La alusión a un elemento (persona, objeto o idea) que ya ha sido mencionado previamente en el texto
+- [x] C) La alusión a un elemento (persona, objeto o idea) que ya ha sido mencionado previamente en el texto
   <!-- feedback: Correcto. La anáfora consiste en usar pronombres, adverbios o sinónimos para referirse a un elemento ya introducido con anterioridad. -->
-- [ ] C) La anticipación de una idea o palabra que se detallará más adelante en el desarrollo del párrafo
+- [ ] B) La anticipación de una idea o palabra que se detallará más adelante en el desarrollo del párrafo
   <!-- feedback: Incorrecto. Esto define a la catáfora, que es lo contrario de la anáfora. -->
 - [ ] D) La repetición rítmica de palabras al inicio de cada verso en un poema
   <!-- feedback: Incorrecto. Esto es la anáfora como figura retórica o literaria, no como mecanismo de cohesión y referencia gramatical en textos prosaicos. -->
@@ -55,11 +55,11 @@ En lingüística del texto, la anáfora es un mecanismo de referencia intratextu
 ¿Qué tipo de relación lógica introducen los conectores adversativos como 'sin embargo', 'no obstante' y 'empero'?
 
 ### Opciones
-- [ ] A) Adición de ideas de igual jerarquía
+- [ ] B) Adición de ideas de igual jerarquía
   <!-- feedback: Incorrecto. La adición se realiza con conectores como 'además', 'asimismo' o 'también'. -->
-- [ ] B) Explicación o aclaración de un concepto complejo anterior
+- [ ] C) Explicación o aclaración de un concepto complejo anterior
   <!-- feedback: Incorrecto. Esto se hace con nexos como 'es decir', 'o sea' o 'en otras palabras'. -->
-- [x] C) Oposición o contraste parcial entre dos proposiciones
+- [x] A) Oposición o contraste parcial entre dos proposiciones
   <!-- feedback: Correcto. Los conectores adversativos marcan un límite, objeción o contraposición entre las ideas vinculadas. -->
 - [ ] D) Causa o motivo de un hecho ya enunciado
   <!-- feedback: Incorrecto. Los causales son 'porque', 'puesto que', 'ya que', etc. -->
@@ -84,9 +84,9 @@ Lea la siguiente oración:
 ### Opciones
 - [ ] A) por lo tanto
   <!-- feedback: Incorrecto. 'Por lo tanto' es consecutivo; no expresa la oposición real existente entre beneficio económico y daño ecológico. -->
-- [x] B) sin embargo
+- [x] C) sin embargo
   <!-- feedback: Correcto. 'Sin embargo' es un conector adversativo que resalta con precisión el contraste u objeción entre la generación de ingresos y el problema ecológico de la contaminación. -->
-- [ ] C) porque
+- [ ] B) porque
   <!-- feedback: Incorrecto. 'Porque' es un conector causal; no tiene sentido decir que se generaron ingresos debido a la contaminación en este contexto gramatical. -->
 - [ ] D) además
   <!-- feedback: Incorrecto. 'Además' sumaría las ideas de forma acumulativa positiva, ignorando la contradicción ética de ambos hechos. -->
@@ -109,9 +109,9 @@ Identifique la oración que presenta un mecanismo de cohesión por 'catáfora':
 ### Opciones
 - [ ] A) María y Pedro fueron a Trujillo. Ellos visitaron las ruinas de Chan Chan.
   <!-- feedback: Incorrecto. Presenta anáfora: el pronombre 'Ellos' se refiere a elementos ya mencionados ('María y Pedro'). -->
-- [ ] B) El ceviche es delicioso; la causa limeña, exquisita.
+- [ ] C) El ceviche es delicioso; la causa limeña, exquisita.
   <!-- feedback: Incorrecto. Presenta elipsis: se omite el verbo 'es' en la segunda proposición para evitar su repetición. -->
-- [x] C) Solo te diré esto: debes esforzarte más si deseas ingresar a la UNI.
+- [x] B) Solo te diré esto: debes esforzarte más si deseas ingresar a la UNI.
   <!-- feedback: Correcto. Presenta catáfora: el pronombre demostrativo 'esto' anticipa la información que viene inmediatamente después ('debes esforzarte más...'). -->
 - [ ] D) Los libros estaban sobre la mesa del profesor, pero nadie los leyó durante la clase.
   <!-- feedback: Incorrecto. Presenta anáfora: el clítico 'los' se refiere a los 'libros' mencionados anteriormente. -->
@@ -163,9 +163,9 @@ Señale la oración que presenta un uso INCORRECTO del conector causal 'ya que':
   <!-- feedback: Incorrecto. Es un uso correcto: introduce la causa de no poder tomar fotos. -->
 - [ ] B) Se suspendieron las clases escolares, ya que las lluvias inundaron los accesos de la provincia.
   <!-- feedback: Incorrecto. Uso adecuado: introduce el motivo o causa de la suspensión de clases. -->
-- [x] C) El sol brillaba intensamente, ya que salimos a caminar por el malecón de Chorrillos.
+- [x] D) El sol brillaba intensamente, ya que salimos a caminar por el malecón de Chorrillos.
   <!-- feedback: Correcto. Aquí hay un uso incorrecto de 'ya que'. La caminata no es la causa de que el sol brille; la relación lógica requerida es consecutiva o temporal ('por lo cual', 'entonces'), no de causa. -->
-- [ ] D) Compramos bastantes abrigos, ya que viajaremos a una zona muy fría de Puno.
+- [ ] C) Compramos bastantes abrigos, ya que viajaremos a una zona muy fría de Puno.
   <!-- feedback: Incorrecto. Uso correcto: la causa de comprar abrigos es el viaje a Puno. -->
 
 ### Explicacion Pedagogica
@@ -188,9 +188,9 @@ Lea el fragmento de la carta:
 ### Opciones
 - [ ] A) no obstante
   <!-- feedback: Incorrecto. 'No obstante' sugeriría que a pesar de no haber luz la delincuencia bajó, lo que contradice el sentido del texto. -->
-- [ ] B) por el contrario
+- [ ] C) por el contrario
   <!-- feedback: Incorrecto. Es un conector adversativo excluyente, no lógico-consecutivo. -->
-- [x] C) por consiguiente
+- [x] B) por consiguiente
   <!-- feedback: Correcto. 'Por consiguiente' es un conector consecutivo de registro formal que vincula perfectamente la falta de luz (causa) con el aumento de la delincuencia (efecto). -->
 - [ ] D) ya que
   <!-- feedback: Incorrecto. 'Ya que' invertiría la relación, señalando que la falta de luz ocurre porque subió la delincuencia, lo cual es físicamente absurdo en este contexto. -->
@@ -215,9 +215,9 @@ Lea el siguiente texto instructivo de un recetario tradicional:
 ### Opciones
 - [ ] A) Finalmente - En primer lugar - No obstante
   <!-- feedback: Incorrecto. Inicia con 'Finalmente', lo que rompe el orden lógico del proceso. -->
-- [x] B) En primer lugar - Luego - Por último
+- [x] C) En primer lugar - Luego - Por último
   <!-- feedback: Correcto. Esta secuencia de ordenadores discursivos temporales/secuenciales estructura de manera clara e intuitiva los pasos cronológicos de la receta. -->
-- [ ] C) Por el contrario - Además - En consecuencia
+- [ ] B) Por el contrario - Además - En consecuencia
   <!-- feedback: Incorrecto. Usa conectores de oposición y consecuencia ajenos a una secuencia cronológica pura. -->
 - [ ] D) En resumen - Sin embargo - Es decir
   <!-- feedback: Incorrecto. Marcadores de síntesis, contraste y aclaración impropios para dar instrucciones secuenciales. -->
@@ -244,9 +244,9 @@ Lea el fragmento:
   <!-- feedback: Incorrecto. 'Allí' alude al lugar físico desde donde escribe el cronista, no al imperio que evoca. -->
 - [ ] B) A los Comentarios Reales
   <!-- feedback: Incorrecto. Este es el objeto o libro escrito, no un referente espacial de lugar. -->
-- [x] C) A España
+- [x] D) A España
   <!-- feedback: Correcto. El adverbio de lugar 'allí' cumple una función anafórica deíctica, refiriéndose al país europeo ('España') mencionado inmediatamente antes. -->
-- [ ] D) Al Cusco colonial
+- [ ] C) Al Cusco colonial
   <!-- feedback: Incorrecto. El Cusco no se menciona de forma explícita en las oraciones previas del fragmento analizado. -->
 
 ### Explicacion Pedagogica
@@ -267,11 +267,11 @@ En la teoría del texto, ¿cuál es la diferencia fundamental entre la cohesión
 ### Opciones
 - [ ] A) La cohesión es de carácter estético e informal, mientras que la coherencia es científica y obligatoria
   <!-- feedback: Incorrecto. Ambas propiedades son requisitos lingüísticos objetivos de cualquier texto académico formal. -->
-- [x] B) La cohesión atañe a las conexiones gramaticales y léxicas entre las oraciones, mientras que la coherencia concierne a la unidad de sentido y la lógica temática global del texto
+- [x] D) La cohesión atañe a las conexiones gramaticales y léxicas entre las oraciones, mientras que la coherencia concierne a la unidad de sentido y la lógica temática global del texto
   <!-- feedback: Correcto. La cohesión es la propiedad sintáctica-gramatical externa (conectores, deícticos, elipsis) y la coherencia es la estructura semántica interna (unidad conceptual, ausencia de contradicciones, relevancia temática). -->
-- [ ] C) La cohesión se aplica únicamente en poemas líricos y la coherencia solo en novelas históricas
+- [ ] B) La cohesión se aplica únicamente en poemas líricos y la coherencia solo en novelas históricas
   <!-- feedback: Incorrecto. Todo tipo de texto (artículo, carta, narración, diálogo) requiere poseer tanto cohesión como coherencia para ser comprensible. -->
-- [ ] D) La cohesión busca la redundancia de sustantivos, mientras que la coherencia prohíbe el uso de conectores lógicos
+- [ ] C) La cohesión busca la redundancia de sustantivos, mientras que la coherencia prohíbe el uso de conectores lógicos
   <!-- feedback: Incorrecto. Al contrario: la cohesión busca evitar la redundancia mediante la elipsis o anáforas y utiliza activamente los conectores. -->
 
 ### Explicacion Pedagogica
@@ -292,11 +292,11 @@ Lea la siguiente frase de geografía peruana:
 ¿Cuál es el nexo relativo posesivo correcto que restituye la cohesión gramatical de la frase?
 
 ### Opciones
-- [ ] A) en cuya la
+- [ ] B) en cuya la
   <!-- feedback: Incorrecto. 'En cuya la' presenta doble artículo, lo cual constituye un vulgarismo y error sintáctico severo en castellano. -->
-- [ ] B) del cual su
+- [ ] C) del cual su
   <!-- feedback: Incorrecto. Es un giro redundante inapropiado para el registro académico formal. -->
-- [x] C) cuya
+- [x] A) cuya
   <!-- feedback: Correcto. El pronombre relativo posesivo 'cuya' concuerda en género y número con el sustantivo que posee ('cima', femenino singular) y establece la correcta relación de pertenencia con el antecedente ('Huascarán'). -->
 - [ ] D) donde su
   <!-- feedback: Incorrecto. 'Donde su' es un uso impropio del relativo espacial 'donde' para denotar pertenencia posesiva. -->
@@ -350,9 +350,9 @@ Considere la oración ambigua:
   <!-- feedback: Incorrecto. La estructura posee conectores o preposiciones ('con', 'en'), el error es de otra clase. -->
 - [ ] B) El uso de un verbo intransitivo que impide identificar la acción física
   <!-- feedback: Incorrecto. El verbo 'conversar' es adecuado, la confusión no reside en la acción en sí. -->
-- [x] C) La imprecisión del posesivo 'su', que no aclara si la oficina pertenece a Juan o a su jefe
+- [x] D) La imprecisión del posesivo 'su', que no aclara si la oficina pertenece a Juan o a su jefe
   <!-- feedback: Correcto. El adjetivo posesivo de tercera persona 'su' es ambiguo en este contexto, ya que gramaticalmente puede referirse tanto al sujeto ('Juan') como al término de la preposición ('jefe'), generando confusión sobre el lugar real del evento. -->
-- [ ] D) La elipsis del sujeto tácito en la segunda cláusula oracional
+- [ ] C) La elipsis del sujeto tácito en la segunda cláusula oracional
   <!-- feedback: Incorrecto. No hay una segunda cláusula que carezca de sujeto; la estructura es una sola oración simple. -->
 
 ### Explicacion Pedagogica
@@ -377,9 +377,9 @@ Lea el enunciado:
   <!-- feedback: Incorrecto. 'Es decir' es aclarativo, no adversativo; 'los mismos' es un anafórico de bajo registro en la redacción formal. -->
 - [ ] B) por lo tanto / quienes
   <!-- feedback: Incorrecto. 'Por lo tanto' es consecutivo; el relativo 'quienes' solo se aplica a personas, no a 'particularismos culturales'. -->
-- [x] C) no obstante / los cuales
+- [x] D) no obstante / los cuales
   <!-- feedback: Correcto. 'No obstante' marca la oposición exacta entre la homogeneización global y la persistencia local; el relativo 'los cuales' recupera con precisión y concordancia plural al antecedente 'particularismos culturales'. -->
-- [ ] D) porque / donde
+- [ ] C) porque / donde
   <!-- feedback: Incorrecto. 'Porque' es causal y 'donde' es relativo de lugar, ambos inadecuados para el sentido de contraste y objeto abstracto del fragmento. -->
 
 ### Explicacion Pedagogica
@@ -429,11 +429,11 @@ En el texto de Basadre:
 ### Opciones
 - [ ] A) Se elidió el pronombre relativo 'que', simplificando la subordinación oracional
   <!-- feedback: Incorrecto. El pronombre 'que' no hace falta ni ha sido elidido en la estructura de la frase. -->
-- [x] B) Se elidió la frase verbal 'fue un faro de esperanza' (o el verbo copulativo 'fue'), evitando la repetición y dinamizando el estilo conceptual
+- [x] D) Se elidió la frase verbal 'fue un faro de esperanza' (o el verbo copulativo 'fue'), evitando la repetición y dinamizando el estilo conceptual
   <!-- feedback: Correcto. La estructura elide el verbo copulativo 'fue' (o la frase completa 'fue un...'), permitiendo que el lector asocie inmediatamente la 'promesa de la vida peruana' con el nuevo atributo ('recordatorio de tareas pendientes') de forma elíptica. -->
-- [ ] C) Se elidió el sujeto 'Jorge Basadre' para dar un tono impersonal al ensayo de historia
+- [ ] B) Se elidió el sujeto 'Jorge Basadre' para dar un tono impersonal al ensayo de historia
   <!-- feedback: Incorrecto. El sujeto de la oración es la 'promesa de la vida peruana', no el nombre del autor. -->
-- [ ] D) Se elidió el sustantivo 'República' para no herir susceptibilidades políticas de la época
+- [ ] C) Se elidió el sustantivo 'República' para no herir susceptibilidades políticas de la época
   <!-- feedback: Incorrecto. 'República' figura explícitamente en la primera oración del pasaje. -->
 
 ### Explicacion Pedagogica
@@ -479,11 +479,11 @@ La redacción jurídica moderna en el Perú busca erradicar la 'prosa forense ba
 En la redacción de noticias de prensa escrita para diarios limeños, la elipsis del sujeto o del verbo debe ser utilizada con cautela principalmente para evitar:
 
 ### Opciones
-- [ ] A) La reducción innecesaria de la longitud del artículo periodístico
+- [ ] B) La reducción innecesaria de la longitud del artículo periodístico
   <!-- feedback: Incorrecto. En prensa, la brevedad y concisión son virtudes, no defectos a evitar. -->
-- [ ] B) El uso de adjetivos calificativos de corte subjetivo e ideológico
+- [ ] C) El uso de adjetivos calificativos de corte subjetivo e ideológico
   <!-- feedback: Incorrecto. La elipsis afecta a sustantivos y verbos, no tiene relación directa con la adjetivación sesgada. -->
-- [x] C) La pérdida de precisión informativa y la inducción a interpretaciones erróneas por parte del lector rápido
+- [x] A) La pérdida de precisión informativa y la inducción a interpretaciones erróneas por parte del lector rápido
   <!-- feedback: Correcto. Si en una noticia policial o económica se abusa de la elipsis del sujeto o del verbo, el lector de titulares o de lectura rápida puede confundir quién realizó la acción delictiva o qué indicador económico sufrió la variación, perjudicando la objetividad periodística. -->
 - [ ] D) La censura política del gobierno sobre los medios de comunicación masivos
   <!-- feedback: Incorrecto. Los problemas de cohesión sintáctica interna no son causantes directos de censura estatal de corte ideológico. -->
@@ -510,9 +510,9 @@ Desde la perspectiva de la coherencia interna del discurso, ¿qué supuesto prob
   <!-- feedback: Incorrecto. El argumento no aborda el tema del presupuesto municipal, sino la justificación del acto. -->
 - [ ] B) Afirma de forma categórica que los autos modernos no consumen combustible importado
   <!-- feedback: Incorrecto. El combustible de los vehículos es un detalle técnico ajeno a las premisas explícitas de la discusión. -->
-- [x] C) Establece una relación causal forzada e injustificada entre la demolición de un único inmueble patrimonial y el desarrollo de la macroeconomía regional
+- [x] D) Establece una relación causal forzada e injustificada entre la demolición de un único inmueble patrimonial y el desarrollo de la macroeconomía regional
   <!-- feedback: Correcto. El argumento comete un error de escala y coherencia lógica (pendiente resbaladiza o causa falsa): sobredimensiona el impacto de conservar la casona, sugiriendo que obstruir el paso de algunos autos modernos en una calle comprometería el motor entero de la economía regional. -->
-- [ ] D) Elude definir la palabra 'casona' según el reglamento del Ministerio de Cultura
+- [ ] C) Elude definir la palabra 'casona' según el reglamento del Ministerio de Cultura
   <!-- feedback: Incorrecto. Aunque la casona pueda ser patrimonio declarado, el error lógico-argumentativo interno se halla en la desmesura de la relación de causa y efecto planteada. -->
 
 ### Explicacion Pedagogica
@@ -533,11 +533,11 @@ Considere la siguiente secuencia inconexa:
 ¿Cuál es la crítica fundamental sobre la coherencia y cohesión de este conjunto de oraciones?
 
 ### Opciones
-- [ ] A) Carece de coherencia global porque habla de temas totalmente inconexos como la medicina y la ingeniería
+- [ ] B) Carece de coherencia global porque habla de temas totalmente inconexos como la medicina y la ingeniería
   <!-- feedback: Incorrecto. Las oraciones sí comparten un marco temático general común (la lectura, los libros, los estudiantes), por lo que hay cierta coherencia temática potencial. -->
-- [ ] B) Tiene excelente cohesión formal pero carece de coherencia local porque usa demasiados pronombres relativos
+- [ ] C) Tiene excelente cohesión formal pero carece de coherencia local porque usa demasiados pronombres relativos
   <!-- feedback: Incorrecto. Al contrario, el texto carece por completo de conectores lógicos o pronombres relativos, pareciendo una lista inconexa. -->
-- [x] C) Presenta coherencia temática potencial pero carece totalmente de cohesión formal (yustaposición inconexa), lo que obliga al lector a adivinar las relaciones de causa, oposición o adición entre las ideas
+- [x] A) Presenta coherencia temática potencial pero carece totalmente de cohesión formal (yustaposición inconexa), lo que obliga al lector a adivinar las relaciones de causa, oposición o adición entre las ideas
   <!-- feedback: Correcto. El conjunto de enunciados es un ejemplo de texto inconexo (estilo fragmentado). Aunque las oraciones abordan aristas de la lectura, al no usar conectores ni mecanismos de referencia, no queda claro si el Ministerio regala libros *porque* el precio es alto, o si leen poco *a pesar de que* el hogar influye, etc. La falta de nexos destruye la fluidez sintáctica. -->
 - [ ] D) Es un poema en prosa vanguardista cuya coherencia reside en la ausencia voluntaria de sustantivos
   <!-- feedback: Incorrecto. El texto está lleno de sustantivos ('estudiantes', 'hábito', 'libros', 'Ministerio') y no sigue una finalidad lírica o poética intencionada. -->

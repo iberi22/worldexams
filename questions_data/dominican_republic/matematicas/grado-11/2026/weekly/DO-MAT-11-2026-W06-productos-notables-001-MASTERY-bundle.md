@@ -29,8 +29,8 @@ bundle_index: 1
 ¿Cuál es la fórmula para el binomio al cuadrado $(a + b)^2$?
 
 ### Opciones
-- [ ] A) $a^2 + b^2$ <!-- feedback: Incorrecto. Falta el término central. -->
-- [x] B) $a^2 + 2ab + b^2$ <!-- feedback: Correcto. Cuadrado del primero más doble producto más cuadrado del segundo. -->
+- [ ] B) $a^2 + b^2$ <!-- feedback: Incorrecto. Falta el término central. -->
+- [x] A) $a^2 + 2ab + b^2$ <!-- feedback: Correcto. Cuadrado del primero más doble producto más cuadrado del segundo. -->
 - [ ] C) $a^2 + ab + b^2$ <!-- feedback: Incorrecto. El producto debe ser doble. -->
 - [ ] D) $(a + b)(a - b)$ <!-- feedback: Incorrecto. Esa es la diferencia de cuadrados. -->
 
@@ -51,9 +51,9 @@ Regla básica para el desarrollo de un binomio sumado al cuadrado.
 
 ### Opciones
 - [ ] A) $a^2 + b^2$ <!-- feedback: Incorrecto. No es suma de cuadrados. -->
-- [x] B) $a^2 - b^2$ <!-- feedback: Correcto. Resulta en una diferencia de cuadrados. -->
-- [ ] C) $(a - b)^2$ <!-- feedback: Incorrecto. Esto es un trinomio. -->
-- [ ] D) $a^2 - 2ab + b^2$ <!-- feedback: Incorrecto. Desarrollo de resta al cuadrado. -->
+- [x] D) $a^2 - b^2$ <!-- feedback: Correcto. Resulta en una diferencia de cuadrados. -->
+- [ ] B) $(a - b)^2$ <!-- feedback: Incorrecto. Esto es un trinomio. -->
+- [ ] C) $a^2 - 2ab + b^2$ <!-- feedback: Incorrecto. Desarrollo de resta al cuadrado. -->
 
 ### Explicacion Pedagogica
 Los términos medios se cancelan al multiplicar binomios conjugados.
@@ -72,9 +72,9 @@ Los términos medios se cancelan al multiplicar binomios conjugados.
 
 ### Opciones
 - [ ] A) Positivo <!-- feedback: Incorrecto. Hereda el signo de la resta. -->
-- [x] B) Negativo <!-- feedback: Correcto. En $(a-b)^2$, el término $2ab$ es negativo. -->
-- [ ] C) No tiene <!-- feedback: Incorrecto. Existe y tiene signo. -->
-- [ ] D) Depende de x <!-- feedback: Incorrecto. La regla es constante. -->
+- [x] D) Negativo <!-- feedback: Correcto. En $(a-b)^2$, el término $2ab$ es negativo. -->
+- [ ] B) No tiene <!-- feedback: Incorrecto. Existe y tiene signo. -->
+- [ ] C) Depende de x <!-- feedback: Incorrecto. La regla es constante. -->
 
 ### Explicacion Pedagogica
 El signo de la operación interna determina el signo del doble producto.
@@ -114,8 +114,8 @@ Resultado de $(x + 2)(x + 3)$.
 
 ### Opciones
 - [ ] A) $x^2 + 6$ <!-- feedback: Incorrecto. Falta término lineal. -->
-- [ ] B) $x^2 + 5x + 5$ <!-- feedback: Incorrecto. Producto final errado. -->
-- [x] C) $x^2 + 5x + 6$ <!-- feedback: Correcto. Suma (5) y producto (6) de los términos. -->
+- [ ] C) $x^2 + 5x + 5$ <!-- feedback: Incorrecto. Producto final errado. -->
+- [x] B) $x^2 + 5x + 6$ <!-- feedback: Correcto. Suma (5) y producto (6) de los términos. -->
 - [ ] D) $x^2 + 6x + 5$ <!-- feedback: Incorrecto. Intercambió suma y producto. -->
 
 ### Explicacion Pedagogica
@@ -134,8 +134,8 @@ Regla para productos de la forma $x^2 + (a+b)x + ab$.
 Halla el resultado.
 
 ### Opciones
-- [ ] A) $4x^2 + 25$ <!-- feedback: Incorrecto. Debe ser resta. -->
-- [x] B) $4x^2 - 25$ <!-- feedback: Correcto. Diferencia de cuadrados. -->
+- [ ] B) $4x^2 + 25$ <!-- feedback: Incorrecto. Debe ser resta. -->
+- [x] A) $4x^2 - 25$ <!-- feedback: Correcto. Diferencia de cuadrados. -->
 - [ ] C) $2x^2 - 5$ <!-- feedback: Incorrecto. No elevó los términos. -->
 - [ ] D) $4x - 25$ <!-- feedback: Incorrecto. Falta potencia en x. -->
 
@@ -156,9 +156,9 @@ Cuadrado del primero ($4x^2$) menos cuadrado del segundo ($25$).
 
 ### Opciones
 - [ ] A) $9x^2 - 1$ <!-- feedback: Incorrecto. No es diferencia de cuadrados. -->
-- [x] B) $9x^2 - 6x + 1$ <!-- feedback: Correcto. $(3x)^2 - 2(3x)(1) + 1$. -->
-- [ ] C) $6x^2 - 6x + 1$ <!-- feedback: Incorrecto. Cuadrado de 3 es 9. -->
-- [ ] D) $9x^2 - 3x + 1$ <!-- feedback: Incorrecto. Olvidó el factor 2 en el medio. -->
+- [x] D) $9x^2 - 6x + 1$ <!-- feedback: Correcto. $(3x)^2 - 2(3x)(1) + 1$. -->
+- [ ] B) $6x^2 - 6x + 1$ <!-- feedback: Incorrecto. Cuadrado de 3 es 9. -->
+- [ ] C) $9x^2 - 3x + 1$ <!-- feedback: Incorrecto. Olvidó el factor 2 en el medio. -->
 
 ### Explicacion Pedagogica
 Cálculo minucioso de cada término del trinomio cuadrado perfecto.
@@ -176,8 +176,8 @@ Cálculo minucioso de cada término del trinomio cuadrado perfecto.
 ¿Desarrollo de $(x + 2)^3$?
 
 ### Opciones
-- [ ] A) $x^3 + 8$ <!-- feedback: Incorrecto. Olvidó términos centrales. -->
-- [x] B) $x^3 + 6x^2 + 12x + 8$ <!-- feedback: Correcto. Sigue el patrón 1-3-3-1. -->
+- [ ] B) $x^3 + 8$ <!-- feedback: Incorrecto. Olvidó términos centrales. -->
+- [x] A) $x^3 + 6x^2 + 12x + 8$ <!-- feedback: Correcto. Sigue el patrón 1-3-3-1. -->
 - [ ] C) $x^3 + 2x^2 + 4x + 8$ <!-- feedback: Incorrecto. Ignoró coeficientes triples. -->
 - [ ] D) $x^3 + 3x^2 + 3x + 8$ <!-- feedback: Incorrecto. No multiplicó por b y b^2. -->
 
@@ -197,9 +197,9 @@ Aplicación de $(a+b)^3 = a^3 + 3a^2b + 3ab^2 + b^3$.
 ¿Resultado final?
 
 ### Opciones
-- [ ] A) $x^2 + 25$ <!-- feedback: Incorrecto. Operación errónea. -->
-- [ ] B) 50 <!-- feedback: Incorrecto. Las constantes se cancelan. -->
-- [x] C) $20x$ <!-- feedback: Correcto. $10x - (-10x) = 20x$. -->
+- [ ] B) $x^2 + 25$ <!-- feedback: Incorrecto. Operación errónea. -->
+- [ ] C) 50 <!-- feedback: Incorrecto. Las constantes se cancelan. -->
+- [x] A) $20x$ <!-- feedback: Correcto. $10x - (-10x) = 20x$. -->
 - [ ] D) 0 <!-- feedback: Incorrecto. Los términos medios se suman. -->
 
 ### Explicacion Pedagogica
@@ -218,8 +218,8 @@ Uso de identidades para reducir expresiones complejas.
 ¿Resultado de $(a + b + c)^2$?
 
 ### Opciones
-- [ ] A) $a^2 + b^2 + c^2$ <!-- feedback: Incorrecto. Faltan productos dobles. -->
-- [x] B) $a^2 + b^2 + c^2 + 2ab + 2ac + 2bc$ <!-- feedback: Correcto. Suma de cuadrados más dobles productos de todas las parejas. -->
+- [ ] B) $a^2 + b^2 + c^2$ <!-- feedback: Incorrecto. Faltan productos dobles. -->
+- [x] A) $a^2 + b^2 + c^2 + 2ab + 2ac + 2bc$ <!-- feedback: Correcto. Suma de cuadrados más dobles productos de todas las parejas. -->
 - [ ] C) $a^2 + b^2 + c^2 + ab + ac + bc$ <!-- feedback: Incorrecto. Productos no son dobles. -->
 - [ ] D) $(a+b)^2 + c^2$ <!-- feedback: Incorrecto. Incompleto. -->
 
@@ -239,8 +239,8 @@ Generalización del binomio al cuadrado para tres términos.
 ¿A qué es igual $(a + b)^2 + (a - b)^2$?
 
 ### Opciones
-- [ ] A) $4ab$ <!-- feedback: Incorrecto. Ese es el resultado de la resta. -->
-- [x] B) $2(a^2 + b^2)$ <!-- feedback: Correcto. Los dobles productos se cancelan. -->
+- [ ] B) $4ab$ <!-- feedback: Incorrecto. Ese es el resultado de la resta. -->
+- [x] A) $2(a^2 + b^2)$ <!-- feedback: Correcto. Los dobles productos se cancelan. -->
 - [ ] C) $a^2 + b^2$ <!-- feedback: Incorrecto. Olvidó el factor 2. -->
 - [ ] D) $2a^2 + 2ab + 2b^2$ <!-- feedback: Incorrecto. El término ab desaparece. -->
 
@@ -261,8 +261,8 @@ Simplificación avanzada de la suma de desarrollos binomiales.
 
 ### Opciones
 - [ ] A) $-12x^2$ <!-- feedback: Incorrecto. Olvidó coeficiente 3. -->
-- [x] B) $-36x^2$ <!-- feedback: Correcto. $3(2x)^2(-3) = -36x^2$. -->
-- [ ] C) $36x^2$ <!-- feedback: Incorrecto. Error de signo. -->
+- [x] C) $-36x^2$ <!-- feedback: Correcto. $3(2x)^2(-3) = -36x^2$. -->
+- [ ] B) $36x^2$ <!-- feedback: Incorrecto. Error de signo. -->
 - [ ] D) $-18x^2$ <!-- feedback: Incorrecto. Cálculo parcial errado. -->
 
 ### Explicacion Pedagogica
@@ -324,9 +324,9 @@ Simplifica la expresión.
 
 ### Opciones
 - [ ] A) $x + 3$ <!-- feedback: Incorrecto. Factor equivocado. -->
-- [x] B) $x - 3$ <!-- feedback: Correcto. $(x+3)(x-3)/(x+3)$. -->
-- [ ] C) $x - 9$ <!-- feedback: Incorrecto. Resta no permitida así. -->
-- [ ] D) 3 <!-- feedback: Incorrecto. Resultado variable. -->
+- [x] D) $x - 3$ <!-- feedback: Correcto. $(x+3)(x-3)/(x+3)$. -->
+- [ ] B) $x - 9$ <!-- feedback: Incorrecto. Resta no permitida así. -->
+- [ ] C) 3 <!-- feedback: Incorrecto. Resultado variable. -->
 
 ### Explicacion Pedagogica
 Uso de diferencia de cuadrados para cancelar factores comunes.
@@ -344,9 +344,9 @@ Uso de diferencia de cuadrados para cancelar factores comunes.
 ¿Resultado?
 
 ### Opciones
-- [ ] A) $x^2 - y^2$ <!-- feedback: Incorrecto. Olvidó elevar potencias iniciales. -->
-- [ ] B) $x^4 + y^4$ <!-- feedback: Incorrecto. Debe ser diferencia. -->
-- [x] C) $x^4 - y^4$ <!-- feedback: Correcto. Diferencia de cuadrados de términos cuadráticos. -->
+- [ ] B) $x^2 - y^2$ <!-- feedback: Incorrecto. Olvidó elevar potencias iniciales. -->
+- [ ] C) $x^4 + y^4$ <!-- feedback: Incorrecto. Debe ser diferencia. -->
+- [x] A) $x^4 - y^4$ <!-- feedback: Correcto. Diferencia de cuadrados de términos cuadráticos. -->
 - [ ] D) $(x - y)^4$ <!-- feedback: Incorrecto. Operación distinta. -->
 
 ### Explicacion Pedagogica
@@ -365,8 +365,8 @@ Aplicación de leyes de exponentes sobre productos notables.
 ¿Resultado de $(a + b)(a^2 - ab + b^2)$?
 
 ### Opciones
-- [ ] A) $(a + b)^3$ <!-- feedback: Incorrecto. Incompleto. -->
-- [x] B) $a^3 + b^3$ <!-- feedback: Correcto. Suma de cubos. -->
+- [ ] B) $(a + b)^3$ <!-- feedback: Incorrecto. Incompleto. -->
+- [x] A) $a^3 + b^3$ <!-- feedback: Correcto. Suma de cubos. -->
 - [ ] C) $a^3 - b^3$ <!-- feedback: Incorrecto. Signo de suma manda. -->
 - [ ] D) $a^3 + 3a^2b + 3ab^2 + b^3$ <!-- feedback: Incorrecto. Esto es binomio al cubo. -->
 
@@ -408,9 +408,9 @@ Técnica para hallar el tercer término del trinomio cuadrado perfecto.
 
 ### Opciones
 - [ ] A) Tablas multiplicar. <!-- feedback: Incorrecto. Insuficiente. -->
-- [x] B) Triángulo Pascal. <!-- feedback: Correcto. Contiene coeficientes binomiales. -->
-- [ ] C) Regla de tres. <!-- feedback: Incorrecto. Sin relación. -->
-- [ ] D) Algoritmo Euclides. <!-- feedback: Incorrecto. MCD. -->
+- [x] D) Triángulo Pascal. <!-- feedback: Correcto. Contiene coeficientes binomiales. -->
+- [ ] B) Regla de tres. <!-- feedback: Incorrecto. Sin relación. -->
+- [ ] C) Algoritmo Euclides. <!-- feedback: Incorrecto. MCD. -->
 
 ### Explicacion Pedagogica
 Relación entre combinatoria y productos notables de grado n.
@@ -429,9 +429,9 @@ Simplifica totalmente.
 
 ### Opciones
 - [ ] A) 0 <!-- feedback: Incorrecto. Quedan productos. -->
-- [x] B) $2(ab + ac + bc)$ <!-- feedback: Correcto. Restan dobles productos. -->
-- [ ] C) $ab + ac + bc$ <!-- feedback: Incorrecto. Falta factor 2. -->
-- [ ] D) $2abc$ <!-- feedback: Incorrecto. Solo un término. -->
+- [x] D) $2(ab + ac + bc)$ <!-- feedback: Correcto. Restan dobles productos. -->
+- [ ] B) $ab + ac + bc$ <!-- feedback: Incorrecto. Falta factor 2. -->
+- [ ] C) $2abc$ <!-- feedback: Incorrecto. Solo un término. -->
 
 ### Explicacion Pedagogica
 Eliminación de cuadrados individuales del desarrollo total.

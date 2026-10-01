@@ -53,8 +53,8 @@ Las razones trigonométricas son cocientes entre los lados de un triángulo rect
 ¿Cuál es la función trigonométrica recíproca del Coseno?
 
 ### Opciones
-- [ ] A) Cosecante <!-- feedback: La cosecante es la recíproca del seno. -->
-- [x] B) Secante <!-- feedback: Correcto. La secante (sec) se define como 1/coseno, es decir, Hipotenusa / Cateto adyacente. -->
+- [ ] B) Cosecante <!-- feedback: La cosecante es la recíproca del seno. -->
+- [x] A) Secante <!-- feedback: Correcto. La secante (sec) se define como 1/coseno, es decir, Hipotenusa / Cateto adyacente. -->
 - [ ] C) Cotangente <!-- feedback: La cotangente es la recíproca de la tangente. -->
 - [ ] D) Seno <!-- feedback: El seno y el coseno son funciones complementarias (co-funciones), no recíprocas. -->
 
@@ -75,8 +75,8 @@ Cada una de las tres razones fundamentales (seno, coseno, tangente) tiene una fu
 
 ### Opciones
 - [ ] A) $3/5$ <!-- feedback: Este es el seno del ángulo opuesto al cateto de 3, o el coseno del ángulo opuesto al cateto de 4. -->
-- [x] B) $4/5$ <!-- feedback: Correcto. El cateto adyacente al ángulo opuesto al de 3 es el cateto de 4. Hipotenusa = 5. Cos = CA/H = 4/5. -->
-- [ ] C) $3/4$ <!-- feedback: Esta es la tangente del ángulo. -->
+- [x] C) $4/5$ <!-- feedback: Correcto. El cateto adyacente al ángulo opuesto al de 3 es el cateto de 4. Hipotenusa = 5. Cos = CA/H = 4/5. -->
+- [ ] B) $3/4$ <!-- feedback: Esta es la tangente del ángulo. -->
 - [ ] D) $4/3$ <!-- feedback: Esta es la cotangente del ángulo. -->
 
 ### Explicacion Pedagogica
@@ -95,9 +95,9 @@ En un triángulo $(3, 4, 5)$, para el ángulo $\theta$ opuesto al lado 3: el cat
 ¿Cuál es el valor exacto de la tangente de $45^{\circ}$?
 
 ### Opciones
-- [ ] A) $0$ <!-- feedback: Este es el valor de la tangente de 0 grados. -->
-- [ ] B) $0.5$ <!-- feedback: Este es el valor del seno de 30 grados. -->
-- [x] C) $1$ <!-- feedback: Correcto. A 45 grados, los dos catetos son iguales, por lo que su razón (tangente) es 1. -->
+- [ ] B) $0$ <!-- feedback: Este es el valor de la tangente de 0 grados. -->
+- [ ] C) $0.5$ <!-- feedback: Este es el valor del seno de 30 grados. -->
+- [x] A) $1$ <!-- feedback: Correcto. A 45 grados, los dos catetos son iguales, por lo que su razón (tangente) es 1. -->
 - [ ] D) $\sqrt{3}$ <!-- feedback: Este es el valor de la tangente de 60 grados. -->
 
 ### Explicacion Pedagogica
@@ -116,8 +116,8 @@ En un triángulo rectángulo isósceles (ángulos de $45^{\circ}$), los catetos 
 Si el ángulo de elevación es de $30^{\circ}$ y el ingeniero se encuentra a 20 metros de la base, ¿cuál es la altura aproximada de la torre? (Considera $\tan(30^{\circ}) \approx 0.577$)
 
 ### Opciones
-- [ ] A) $10.0\text{ m}$ <!-- feedback: Usaste seno en lugar de tangente o hiciste un redondeo excesivo. -->
-- [x] B) $11.54\text{ m}$ <!-- feedback: Correcto. h = 20 × tan(30°) = 20 × 0.577 = 11.54. -->
+- [ ] B) $10.0\text{ m}$ <!-- feedback: Usaste seno en lugar de tangente o hiciste un redondeo excesivo. -->
+- [x] A) $11.54\text{ m}$ <!-- feedback: Correcto. h = 20 × tan(30°) = 20 × 0.577 = 11.54. -->
 - [ ] C) $17.32\text{ m}$ <!-- feedback: Este resultado se obtiene usando la tangente de 60 grados o dividiendo incorrectamente. -->
 - [ ] D) $34.64\text{ m}$ <!-- feedback: Valor incorrecto producto de un error de procedimiento. -->
 
@@ -138,9 +138,9 @@ El faro tiene 40 metros de altura. Si el ángulo de depresión desde la cima del
 
 ### Opciones
 - [ ] A) $14.56\text{ m}$ <!-- feedback: Multiplicaste la altura por la tangente en lugar de dividir. -->
-- [x] B) $109.89\text{ m}$ <!-- feedback: Correcto. d = 40 / tan(20°) = 40 / 0.364 ≈ 109.89. -->
-- [ ] C) $42.56\text{ m}$ <!-- feedback: Error en la elección de la razón trigonométrica o su aplicación. -->
-- [ ] D) $116.96\text{ m}$ <!-- feedback: Usaste el seno en lugar de la tangente. -->
+- [x] D) $109.89\text{ m}$ <!-- feedback: Correcto. d = 40 / tan(20°) = 40 / 0.364 ≈ 109.89. -->
+- [ ] B) $42.56\text{ m}$ <!-- feedback: Error en la elección de la razón trigonométrica o su aplicación. -->
+- [ ] C) $116.96\text{ m}$ <!-- feedback: Usaste el seno en lugar de la tangente. -->
 
 ### Explicacion Pedagogica
 El ángulo de depresión es igual al ángulo de elevación desde el barco. La altura ($40\text{ m}$) es el cateto opuesto y la distancia ($d$) es el cateto adyacente. $\tan(20^{\circ}) = 40 / d$, por lo tanto $d = 40 / \tan(20^{\circ}) = 40 / 0.364 \approx 109.89\text{ metros}$.
@@ -159,9 +159,9 @@ El ángulo de depresión es igual al ángulo de elevación desde el barco. La al
 
 ### Opciones
 - [ ] A) $1/2$ <!-- feedback: Este es el valor del seno de 30 grados o el coseno de 60 grados. -->
-- [x] B) $\sqrt{3}/2$ <!-- feedback: Correcto. En un triángulo notable de 30-60-90, el seno de 60 es el cateto mayor entre la hipotenusa. -->
-- [ ] C) $\sqrt{2}/2$ <!-- feedback: Este es el valor del seno y coseno de 45 grados. -->
-- [ ] D) $1$ <!-- feedback: Este es el valor del seno de 90 grados. -->
+- [x] D) $\sqrt{3}/2$ <!-- feedback: Correcto. En un triángulo notable de 30-60-90, el seno de 60 es el cateto mayor entre la hipotenusa. -->
+- [ ] B) $\sqrt{2}/2$ <!-- feedback: Este es el valor del seno y coseno de 45 grados. -->
+- [ ] C) $1$ <!-- feedback: Este es el valor del seno de 90 grados. -->
 
 ### Explicacion Pedagogica
 El ángulo de $60^{\circ}$ forma parte del triángulo equilátero dividido a la mitad. Sus lados están en proporción $1 : \sqrt{3} : 2$. El seno es el cateto opuesto ($\sqrt{3}$) entre la hipotenusa ($2$), es decir, $\sqrt{3}/2$.
@@ -180,8 +180,8 @@ Si el $\operatorname{sen} \theta = 0.6$ y $\theta$ está en el primer cuadrante,
 
 ### Opciones
 - [ ] A) $0.4$ <!-- feedback: La suma de seno y coseno no es 1; la suma de sus cuadrados es 1. -->
-- [x] B) $0.8$ <!-- feedback: Correcto. Por la identidad pitagórica cos²θ = 1 - sen²θ = 1 - 0.36 = 0.64. √0.64 = 0.8. -->
-- [ ] C) $0.6$ <!-- feedback: Esto solo ocurriría a 45 grados, donde ambos valen √2/2. -->
+- [x] C) $0.8$ <!-- feedback: Correcto. Por la identidad pitagórica cos²θ = 1 - sen²θ = 1 - 0.36 = 0.64. √0.64 = 0.8. -->
+- [ ] B) $0.6$ <!-- feedback: Esto solo ocurriría a 45 grados, donde ambos valen √2/2. -->
 - [ ] D) $1.0$ <!-- feedback: Si el seno es 0.6, el coseno no puede ser 1. -->
 
 ### Explicacion Pedagogica
@@ -201,8 +201,8 @@ La cercha es un triángulo rectángulo donde uno de los ángulos agudos mide $37
 
 ### Opciones
 - [ ] A) 6 m <!-- feedback: Este es el valor del cateto opuesto (10 × sen 37°). -->
-- [x] B) 8 m <!-- feedback: Correcto. CA = H × cos(θ) = 10 × 0.8 = 8. -->
-- [ ] C) 7.5 m <!-- feedback: Valor incorrecto producto de un error de procedimiento. -->
+- [x] C) 8 m <!-- feedback: Correcto. CA = H × cos(θ) = 10 × 0.8 = 8. -->
+- [ ] B) 7.5 m <!-- feedback: Valor incorrecto producto de un error de procedimiento. -->
 - [ ] D) 12.5 m <!-- feedback: Dividiste en lugar de multiplicar; el cateto debe ser menor que la hipotenusa. -->
 
 ### Explicacion Pedagogica
@@ -221,8 +221,8 @@ Relacionamos el cateto adyacente ($CA$) con la hipotenusa ($H$) mediante el cose
 ¿A cuál de las siguientes expresiones es equivalente el $\operatorname{sen}(25^{\circ})$?
 
 ### Opciones
-- [ ] A) $\operatorname{sen}(65^{\circ})$ <!-- feedback: El seno de un ángulo no es igual al seno de su complemento. -->
-- [x] B) $\cos(65^{\circ})$ <!-- feedback: Correcto. El seno de un ángulo es igual al coseno de su ángulo complementario (90 - 25 = 65). -->
+- [ ] B) $\operatorname{sen}(65^{\circ})$ <!-- feedback: El seno de un ángulo no es igual al seno de su complemento. -->
+- [x] A) $\cos(65^{\circ})$ <!-- feedback: Correcto. El seno de un ángulo es igual al coseno de su ángulo complementario (90 - 25 = 65). -->
 - [ ] C) $\tan(25^{\circ})$ <!-- feedback: El seno y la tangente solo son similares para ángulos muy pequeños, pero no equivalentes. -->
 - [ ] D) $-\operatorname{sen}(25^{\circ})$ <!-- feedback: Esto solo sería cierto si el ángulo fuera 0. -->
 
@@ -242,9 +242,9 @@ Las "co-funciones" trigonométricas cumplen que la función de un ángulo es igu
 Si el $\cos \theta = 5/13$ y $\theta$ es un ángulo agudo, ¿cuál es el valor de la $\csc \theta$?
 
 ### Opciones
-- [ ] A) $12/13$ <!-- feedback: Este es el valor del seno del ángulo. -->
-- [ ] B) $13/5$ <!-- feedback: Este es el valor de la secante (recíproca del coseno). -->
-- [x] C) $13/12$ <!-- feedback: Correcto. CA=5, H=13 -> CO = √(13²-5²) = 12. Sen = 12/13, por lo que Csc = 13/12. -->
+- [ ] B) $12/13$ <!-- feedback: Este es el valor del seno del ángulo. -->
+- [ ] C) $13/5$ <!-- feedback: Este es el valor de la secante (recíproca del coseno). -->
+- [x] A) $13/12$ <!-- feedback: Correcto. CA=5, H=13 -> CO = √(13²-5²) = 12. Sen = 12/13, por lo que Csc = 13/12. -->
 - [ ] D) $5/12$ <!-- feedback: Este es el valor de la cotangente del ángulo. -->
 
 ### Explicacion Pedagogica
@@ -263,8 +263,8 @@ Primero hallamos el cateto opuesto usando Pitágoras: $CO = \sqrt{13^2 - 5^2} = 
 Simplifica la expresión: $(\operatorname{sen} \theta)(\csc \theta) + (\cos \theta)(\sec \theta)$
 
 ### Opciones
-- [ ] A) $1$ <!-- feedback: Solo consideraste uno de los productos recíprocos. -->
-- [x] B) $2$ <!-- feedback: Correcto. Por definición de recíprocas, sen×csc = 1 y cos×sec = 1. Entonces 1 + 1 = 2. -->
+- [ ] B) $1$ <!-- feedback: Solo consideraste uno de los productos recíprocos. -->
+- [x] A) $2$ <!-- feedback: Correcto. Por definición de recíprocas, sen×csc = 1 y cos×sec = 1. Entonces 1 + 1 = 2. -->
 - [ ] C) $\tan \theta$ <!-- feedback: La expresión no depende del valor del ángulo θ. -->
 - [ ] D) $\operatorname{sen}^2 \theta + \cos^2 \theta$ <!-- feedback: Aunque esto es igual a 1, la expresión original suma 2. -->
 
@@ -306,8 +306,8 @@ En un círculo de radio 10 cm, se traza una cuerda que subtiende un ángulo cent
 
 ### Opciones
 - [ ] A) $5\text{ cm}$ <!-- feedback: Este valor es la mitad de la cuerda para un ángulo de 30 grados. -->
-- [x] B) $10\text{ cm}$ <!-- feedback: Correcto. Un triángulo con radio-radio y ángulo de 60° es equilátero, por lo que la cuerda mide igual que el radio. -->
-- [ ] C) $10\sqrt{3}\text{ cm}$ <!-- feedback: Este sería el valor si el ángulo fuera de 120 grados. -->
+- [x] C) $10\text{ cm}$ <!-- feedback: Correcto. Un triángulo con radio-radio y ángulo de 60° es equilátero, por lo que la cuerda mide igual que el radio. -->
+- [ ] B) $10\sqrt{3}\text{ cm}$ <!-- feedback: Este sería el valor si el ángulo fuera de 120 grados. -->
 - [ ] D) $17.32\text{ cm}$ <!-- feedback: Valor incorrecto producto de un error de procedimiento. -->
 
 ### Explicacion Pedagogica
@@ -369,9 +369,9 @@ El problema describe un triángulo rectángulo isósceles con catetos de $100\te
 
 ### Opciones
 - [ ] A) $0^{\circ}$ y $180^{\circ}$ <!-- feedback: En estos puntos el seno es 0, por lo que la tangente es 0 (está definida). -->
-- [x] B) $90^{\circ}$ y $270^{\circ}$ <!-- feedback: Correcto. En estos puntos el coseno es 0, y como tan = sen/cos, la división entre cero no está definida. -->
-- [ ] C) $45^{\circ}$ y $225^{\circ}$ <!-- feedback: En estos puntos la tangente vale 1. -->
-- [ ] D) $90^{\circ}$ únicamente <!-- feedback: También en 270 grados el coseno se anula, produciendo otra asíntota. -->
+- [x] D) $90^{\circ}$ y $270^{\circ}$ <!-- feedback: Correcto. En estos puntos el coseno es 0, y como tan = sen/cos, la división entre cero no está definida. -->
+- [ ] B) $45^{\circ}$ y $225^{\circ}$ <!-- feedback: En estos puntos la tangente vale 1. -->
+- [ ] C) $90^{\circ}$ únicamente <!-- feedback: También en 270 grados el coseno se anula, produciendo otra asíntota. -->
 
 ### Explicacion Pedagogica
 La tangente se define como $\frac{\operatorname{sen} \theta}{\cos \theta}$. Esta función no está definida cuando el denominador es cero. En el intervalo $[0, 360)$, el coseno es cero en $90^{\circ}$ y en $270^{\circ}$. En estos puntos, la gráfica de la función presenta asíntotas verticales.
@@ -389,8 +389,8 @@ La tangente se define como $\frac{\operatorname{sen} \theta}{\cos \theta}$. Esta
 ¿Cuál es el valor exacto del $\cos(150^{\circ})$?
 
 ### Opciones
-- [ ] A) $1/2$ <!-- feedback: Este es el valor del seno de 150 grados. -->
-- [x] B) $-\sqrt{3}/2$ <!-- feedback: Correcto. El ángulo de referencia es 30°. Cos(150°) = -Cos(30°) = -√3/2. -->
+- [ ] B) $1/2$ <!-- feedback: Este es el valor del seno de 150 grados. -->
+- [x] A) $-\sqrt{3}/2$ <!-- feedback: Correcto. El ángulo de referencia es 30°. Cos(150°) = -Cos(30°) = -√3/2. -->
 - [ ] C) $\sqrt{3}/2$ <!-- feedback: Olvidaste que el coseno es negativo en el segundo cuadrante. -->
 - [ ] D) $-1/2$ <!-- feedback: Este es el valor del coseno de 120 grados. -->
 
@@ -411,9 +411,9 @@ Simplifica la expresión: $\frac{1}{1 + \operatorname{sen} \theta} + \frac{1}{1 
 
 ### Opciones
 - [ ] A) $2$ <!-- feedback: Esta simplificación solo sería correcta si el denominador fuera 1. -->
-- [x] B) $2 \sec^2 \theta$ <!-- feedback: Correcto. Al sumar las fracciones queda (1-senθ + 1+senθ)/(1-sen²θ) = 2/cos²θ = 2 sec²θ. -->
-- [ ] C) $2 \csc^2 \theta$ <!-- feedback: El denominador resultante es cos²θ, lo que lleva a la secante, no a la cosecante. -->
-- [ ] D) $1$ <!-- feedback: La expresión no se simplifica a la unidad. -->
+- [x] D) $2 \sec^2 \theta$ <!-- feedback: Correcto. Al sumar las fracciones queda (1-senθ + 1+senθ)/(1-sen²θ) = 2/cos²θ = 2 sec²θ. -->
+- [ ] B) $2 \csc^2 \theta$ <!-- feedback: El denominador resultante es cos²θ, lo que lleva a la secante, no a la cosecante. -->
+- [ ] C) $1$ <!-- feedback: La expresión no se simplifica a la unidad. -->
 
 ### Explicacion Pedagogica
 Sumamos las fracciones buscando un denominador común: $\frac{(1 - \operatorname{sen} \theta) + (1 + \operatorname{sen} \theta)}{(1 + \operatorname{sen} \theta)(1 - \operatorname{sen} \theta)} = \frac{2}{1 - \operatorname{sen}^2 \theta}$. Usando la identidad pitagórica, el denominador es $\cos^2 \theta$. Así, la expresión es $\frac{2}{\cos^2 \theta} = 2 \sec^2 \theta$.
@@ -432,8 +432,8 @@ En un triángulo $\triangle ABC$, se conocen los lados $a = 8\text{ cm}$, $b = 1
 
 ### Opciones
 - [ ] A) $40\text{ cm}^2$ <!-- feedback: Olvidaste multiplicar por el seno del ángulo. -->
-- [x] B) $20\text{ cm}^2$ <!-- feedback: Correcto. Área = (1/2)ab sen C = (1/2)(8)(10) sen 30° = 40 × 0.5 = 20. -->
-- [ ] C) $20\sqrt{3}\text{ cm}^2$ <!-- feedback: Usaste el coseno de 30 grados en lugar del seno. -->
+- [x] C) $20\text{ cm}^2$ <!-- feedback: Correcto. Área = (1/2)ab sen C = (1/2)(8)(10) sen 30° = 40 × 0.5 = 20. -->
+- [ ] B) $20\sqrt{3}\text{ cm}^2$ <!-- feedback: Usaste el coseno de 30 grados en lugar del seno. -->
 - [ ] D) $10\text{ cm}^2$ <!-- feedback: Error en la aplicación de la fórmula o en el cálculo aritmético. -->
 
 ### Explicacion Pedagogica

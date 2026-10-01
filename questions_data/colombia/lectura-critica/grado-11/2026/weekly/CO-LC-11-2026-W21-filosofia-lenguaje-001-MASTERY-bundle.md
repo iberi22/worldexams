@@ -34,13 +34,13 @@ Este bundle contiene 20 preguntas sobre **Filosofía del Lenguaje y Semántica**
 ¿Cuál es la idea principal que transmite este aforismo sobre la relación entre lenguaje y realidad?
 
 ### Opciones
-- [x] A) El conocimiento y la conceptualización de la realidad están determinados por los recursos lingüísticos de los que disponemos.
+- [x] D) El conocimiento y la conceptualización de la realidad están determinados por los recursos lingüísticos de los que disponemos.
   <!-- feedback: Correcto. Lo que no podemos nombrar o conceptualizar mediante el lenguaje queda fuera de nuestro horizonte de representación del mundo. -->
-- [ ] B) Los lenguajes humanos deben ser reemplazados por señas corporales en todas las escuelas.
+- [ ] A) Los lenguajes humanos deben ser reemplazados por señas corporales en todas las escuelas.
   <!-- feedback: Incorrecto. Wittgenstein analiza el alcance epistemológico del lenguaje verbal y no propone su abolición por señas. -->
-- [ ] C) El tamaño de los diccionarios impresos determina la superficie geográfica de un país.
+- [ ] B) El tamaño de los diccionarios impresos determina la superficie geográfica de un país.
   <!-- feedback: Incorrecto. Los límites son de representación del mundo mental y no de fronteras terrestres físicas. -->
-- [ ] D) Todos los idiomas del mundo poseen exactamente el mismo número de palabras.
+- [ ] C) Todos los idiomas del mundo poseen exactamente el mismo número de palabras.
   <!-- feedback: Incorrecto. El aforismo atañe al límite del pensamiento expresable y no a un recuento de vocabulario. -->
 
 ### Explicacion Pedagogica
@@ -195,9 +195,9 @@ La deconstrucción como estrategia de lectura crítica examina las tensiones ocu
 La respuesta "El panadero acaba de abrir" transmite información útil gracias a que:
 
 ### Opciones
-- [x] A) El oyente realiza una inferencia pragmática basada en el Principio de Cooperación y el conocimiento compartido de la rutina del barrio.
+- [x] B) El oyente realiza una inferencia pragmática basada en el Principio de Cooperación y el conocimiento compartido de la rutina del barrio.
   <!-- feedback: Correcto. El oyente deduce que abrir la panadería equivale a una hora aproximada (ej. 6:00 a.m.), descifrando la implicatura implícita. -->
-- [ ] B) El panadero es un experto relojero que vende relojes de pared.
+- [ ] A) El panadero es un experto relojero que vende relojes de pared.
   <!-- feedback: Incorrecto. La respuesta apela al hábito temporal de apertura y no a la venta de instrumentos de hora. -->
 - [ ] C) La pregunta era una clave secreta de una novela de espionaje internacional.
   <!-- feedback: Incorrecto. Es un ejemplo cotidiano de cómo desciframos sentidos no literales en la conversación común. -->
@@ -218,11 +218,11 @@ Las implicaturas de Grice explican cómo los hablantes comunican mucho más de l
 Esta postura innatista de Chomsky se opone a la visión según la cual el lenguaje es:
 
 ### Opciones
-- [x] A) Una mera conducta aprendida desde cero exclusivamente por repetición e imitación del entorno (conductismo).
+- [x] C) Una mera conducta aprendida desde cero exclusivamente por repetición e imitación del entorno (conductismo).
   <!-- feedback: Correcto. Chomsky combate el empirismo/conductismo radical de Skinner al demostrar que la mente posee estructuras lingüísticas innatas. -->
-- [ ] B) Una capacidad presente en todos los seres humanos del planeta Tierra.
+- [ ] A) Una capacidad presente en todos los seres humanos del planeta Tierra.
   <!-- feedback: Incorrecto. Chomsky reafirma la universalidad humana de la facultad del lenguaje. -->
-- [ ] C) Un sistema de signos que utiliza sonidos articulados para comunicar.
+- [ ] B) Un sistema de signos que utiliza sonidos articulados para comunicar.
   <!-- feedback: Incorrecto. El nativismo chomskiano valida la articulación fónica; lo que objeta es el aprendizaje por tabla rasa. -->
 - [ ] D) Una invención reciente del siglo XXI ligada a los teléfonos inteligentes.
   <!-- feedback: Incorrecto. Chomsky sostiene que es una facultad biológica de la especie evolucionada hace milenios. -->
@@ -241,9 +241,9 @@ El debate entre el nativismo chomskiano (facultad innata) y el conductismo (apre
 A partir de la noción de *episteme* de Foucault, se deduce que los enunciados científicos del pasado:
 
 ### Opciones
-- [x] A) Deben analizarse dentro de las reglas de pensamiento de su época y no juzgarse solo desde los prejuicios del presente.
+- [x] B) Deben analizarse dentro de las reglas de pensamiento de su época y no juzgarse solo desde los prejuicios del presente.
   <!-- feedback: Correcto. La episteme exige comprender la estructura del saber propia de cada período histórico sin anacronismos. -->
-- [ ] B) Eran verdades absolutas escritas por divinidades inmortales.
+- [ ] A) Eran verdades absolutas escritas por divinidades inmortales.
   <!-- feedback: Incorrecto. Foucault demuestra la historicidad y relatividad de las construcciones del saber humano. -->
 - [ ] C) Carecen de todo interés porque los científicos antiguos eran personas ignorantes.
   <!-- feedback: Incorrecto. La episteme estudia la riqueza de los sistemas de saber históricos sin descalificaciones del presente. -->
@@ -264,11 +264,11 @@ La arqueología del saber de Foucault analiza cómo las estructuras del discurso
 ¿Por qué este enunciado constituye una paradoja autorreferencial cuando es pronunciado por Epiménides (quien es cretense)?
 
 ### Opciones
-- [x] A) Si la frase es verdadera, Epiménides miente, luego es falsa; si es falsa, Epiménides dice la verdad, luego es verdadera.
+- [x] C) Si la frase es verdadera, Epiménides miente, luego es falsa; si es falsa, Epiménides dice la verdad, luego es verdadera.
   <!-- feedback: Correcto. La autorreferencia crea un bucle lógico donde la verdad de la premisa implica su falsedad y viceversa. -->
-- [ ] B) Porque los habitantes de la isla de Creta no hablaban ningún idioma.
+- [ ] A) Porque los habitantes de la isla de Creta no hablaban ningún idioma.
   <!-- feedback: Incorrecto. Los cretenses hablaban griego; la paradoja es de valor de verdad lógico autorreferencial. -->
-- [ ] C) Porque demuestra que las mentiras son ilegales en los tribunales griegos.
+- [ ] B) Porque demuestra que las mentiras son ilegales en los tribunales griegos.
   <!-- feedback: Incorrecto. El dilema no es de código penal sino de la estructura formal de los enunciados que se refieren a sí mismos. -->
 - [ ] D) Porque utiliza conectores gramaticales propios de la poesía épica.
   <!-- feedback: Incorrecto. El vicio o paradoja reside en la autorreferencia de la verdad y no en el estilo poético. -->
@@ -287,9 +287,9 @@ El estudio de las paradojas semánticas autorreferenciales analiza las limitacio
 ¿Cuál es la implicación cultural de la hipótesis de la relatividad lingüística?
 
 ### Opciones
-- [x] A) Que la diversidad de idiomas refleja diferentes modos de estructurar la experiencia y la categorización de la realidad.
+- [x] B) Que la diversidad de idiomas refleja diferentes modos de estructurar la experiencia y la categorización de la realidad.
   <!-- feedback: Correcto. Sapir y Whorf sostienen que hablar lenguas distintas implica habitar mundos perceptivos levemente diferentes. -->
-- [ ] B) Que solo las lenguas europeas son capaces de expresar pensamientos lógicos de alta complejidad.
+- [ ] A) Que solo las lenguas europeas son capaces de expresar pensamientos lógicos de alta complejidad.
   <!-- feedback: Incorrecto. La hipótesis rechaza las jerarquías etnocéntricas y postula que cada lengua categoriza la realidad de forma rica. -->
 - [ ] C) Que los colores no existen en la naturaleza física y son invenciones oculares.
   <!-- feedback: Incorrecto. No niega la física de la luz sino que estudia cómo cada lengua segmenta y nombra el espectro cromático. -->
@@ -310,13 +310,13 @@ La hipótesis Sapir-Whorf examina la intersección entre lingüística, antropol
 ¿En qué radica la diferencia de **Sentido** entre ambas expresiones según la teoría de Frege?
 
 ### Opciones
-- [x] A) En el modo de presentación o perspectiva cognitiva a través de la cual se da a conocer el objeto (mañana vs. tarde).
+- [x] D) En el modo de presentación o perspectiva cognitiva a través de la cual se da a conocer el objeto (mañana vs. tarde).
   <!-- feedback: Correcto. El Sentido es la forma o ruta informativa en que el objeto es presentado a la mente, aunque la entidad física (Venus) sea la misma. -->
-- [ ] B) En que una expresión es verdadera y la otra es una mentira astronómica.
+- [ ] A) En que una expresión es verdadera y la otra es una mentira astronómica.
   <!-- feedback: Incorrecto. Ambas expresiones son astronómicamente verdaderas sobre el planeta Venus. -->
-- [ ] C) En que el planeta Venus desaparece del sistema solar durante el mediodía.
+- [ ] B) En que el planeta Venus desaparece del sistema solar durante el mediodía.
   <!-- feedback: Incorrecto. El planeta permanece; lo que cambia es la visibilidad según el momento del día. -->
-- [ ] D) En que una frase está en idioma latín y la otra en idioma griego antiguo.
+- [ ] C) En que una frase está en idioma latín y la otra en idioma griego antiguo.
   <!-- feedback: Incorrecto. La distinción fregeana es de semántica filosófica (modo de presentación) y no de idioma. -->
 
 ### Explicacion Pedagogica
@@ -333,13 +333,13 @@ La distinción fregeana entre sentido (modo de dar el objeto) y referencia (el o
 Al analizar un discurso político a la luz de la teoría bajtiniana, se comprende que el orador:
 
 ### Opciones
-- [x] A) Modula su voz tejiendo un diálogo implícito con las voces, prejuicios y expectativas de la tradición de su comunidad.
+- [x] D) Modula su voz tejiendo un diálogo implícito con las voces, prejuicios y expectativas de la tradición de su comunidad.
   <!-- feedback: Correcto. La polifonía bajtiniana demuestra que en la voz de un solo hablante resuenan y responden múltiples voces sociales. -->
-- [ ] B) Inventa por primera vez en la historia todas las palabras que pronuncia en la plaza.
+- [ ] A) Inventa por primera vez en la historia todas las palabras que pronuncia en la plaza.
   <!-- feedback: Incorrecto. Bakhtin rechaza el mito de la adánida originalidad absoluta; nos servimos de palabras cargadas de usos previos. -->
-- [ ] C) Habla en un idioma desconocido para que nadie entienda su propuesta.
+- [ ] B) Habla en un idioma desconocido para que nadie entienda su propuesta.
   <!-- feedback: Incorrecto. El diálogo polifónico busca la resonancia social con la cultura de los oyentes. -->
-- [ ] D) Utiliza un altavoz electrónico de alta potencia para acallar a los opositores.
+- [ ] C) Utiliza un altavoz electrónico de alta potencia para acallar a los opositores.
   <!-- feedback: Incorrecto. La polifonía es un concepto semiótico-discursivo de resonancia de voces y no un volumen físico del sonido. -->
 
 ### Explicacion Pedagogica
@@ -379,11 +379,11 @@ Diferenciar entre denotación (literalidad) y connotación (sentido figurado cul
 La idea de la "máquina perezosa" implica que la lectura es un proceso:
 
 ### Opciones
-- [x] A) Activo y co-creador, donde el lector actualiza el sentido del texto aportando sus propios conocimientos previos.
+- [x] C) Activo y co-creador, donde el lector actualiza el sentido del texto aportando sus propios conocimientos previos.
   <!-- feedback: Correcto. El texto no lo dice todo; el lector debe realizar inferencias y actualizar los implícitos para que el texto funcione. -->
-- [ ] B) Pasivo y receptivo, donde el lector se limita a memorizar mecánicamente los signos gráficos.
+- [ ] A) Pasivo y receptivo, donde el lector se limita a memorizar mecánicamente los signos gráficos.
   <!-- feedback: Incorrecto. Eco rechaza la lectura pasiva; la metáfora exige la cooperación activa del lector para dotar de vida al texto. -->
-- [ ] C) Inútil, porque los textos no contienen ninguna información relevante.
+- [ ] B) Inútil, porque los textos no contienen ninguna información relevante.
   <!-- feedback: Incorrecto. Eco defiende la riqueza de la interpretación guiada por las pistas del texto. -->
 - [ ] D) Exclusivo de las personas que escriben diccionarios de la lengua.
   <!-- feedback: Incorrecto. Toda lectura de cualquier ciudadano requiere de este trabajo cooperativo de inferencia. -->
@@ -402,9 +402,9 @@ La teoría de la recepción de Umberto Eco concibe al lector como un agente acti
 Al evaluar este fenómeno desde la semántica política y la filosofía del lenguaje, se evidencia que:
 
 ### Opciones
-- [x] A) El lenguaje no es un espejo neutro sino un campo de batalla ideológico donde las etiquetas construyen legitimidad o descalificación moral.
+- [x] B) El lenguaje no es un espejo neutro sino un campo de batalla ideológico donde las etiquetas construyen legitimidad o descalificación moral.
   <!-- feedback: Correcto. La nominación léxica de los actores de un conflicto impone una valoración ética e ideológica de la violencia. -->
-- [ ] B) Ambos medios de comunicación utilizan el Diccionario de la RAE con absoluta imparcialidad científica.
+- [ ] A) Ambos medios de comunicación utilizan el Diccionario de la RAE con absoluta imparcialidad científica.
   <!-- feedback: Incorrecto. La selección léxica evidencia un uso marcadamente ideológico y sesgado por ambas partes. -->
 - [ ] C) El significado de las palabras está determinado por las leyes de la física gravitacional.
   <!-- feedback: Incorrecto. El lenguaje político es una construcción socio-discursiva y no un fenómeno gravitatorio. -->
@@ -448,9 +448,9 @@ El análisis de la Neolengua orwelliana aborda el peligro del determinismo ling�
 Desde la filosofía del lenguaje y la sociolingüística, ¿cuál es el núcleo de este debate contemporáneo?
 
 ### Opciones
-- [x] A) La tensión entre la función del lenguaje como reproductor de las estructuras sociales preexistentes y su potencial como agente de transformación cultural.
+- [x] B) La tensión entre la función del lenguaje como reproductor de las estructuras sociales preexistentes y su potencial como agente de transformación cultural.
   <!-- feedback: Correcto. Enfrenta la postura de que el lenguaje refleja el orden social (y cambiarlo visibiliza a los excluidos) frente a la idea de que la gramática es autónoma de la reforma política. -->
-- [ ] B) Una discusión técnica sobre el uso de la tinta de color en los documentos impresos.
+- [ ] A) Una discusión técnica sobre el uso de la tinta de color en los documentos impresos.
   <!-- feedback: Incorrecto. El debate es sobre visibilización de género y reforma social del lenguaje, no sobre la imprenta. -->
 - [ ] C) La exigencia de que todas las universidades cierren sus facultades de lingüística.
   <!-- feedback: Incorrecto. El debate enriquece los estudios lingüísticos y de ciencias sociales. -->

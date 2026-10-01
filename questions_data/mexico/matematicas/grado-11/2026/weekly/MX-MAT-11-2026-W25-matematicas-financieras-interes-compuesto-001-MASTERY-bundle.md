@@ -32,8 +32,8 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) $M = C(1 + i \cdot t)$ <!-- feedback: Incorrecto. Esta es la fórmula del monto para interés simple. -->
-- [x] B) $M = C(1 + i)^n$ <!-- feedback: Correcto. En el interés compuesto, el capital se multiplica por el factor (1+i) elevado al número de periodos n. -->
-- [ ] C) $M = C \cdot i \cdot n$ <!-- feedback: Incorrecto. Esta fórmula calcula solo el interés simple. -->
+- [x] C) $M = C(1 + i)^n$ <!-- feedback: Correcto. En el interés compuesto, el capital se multiplica por el factor (1+i) elevado al número de periodos n. -->
+- [ ] B) $M = C \cdot i \cdot n$ <!-- feedback: Incorrecto. Esta fórmula calcula solo el interés simple. -->
 - [ ] D) $M = C + (i/n)$ <!-- feedback: Incorrecto. No representa la acumulación exponencial de intereses. -->
 
 ### Explicacion Pedagogica
@@ -53,8 +53,8 @@ El interés compuesto se caracteriza porque los intereses generados en cada peri
 En el interés compuesto, ¿qué significa el término "capitalización"?
 
 ### Opciones
-- [ ] A) Retirar los intereses ganados cada mes. <!-- feedback: Incorrecto. La capitalización implica dejar los intereses para que crezcan. -->
-- [x] B) El proceso de sumar los intereses ganados al capital original para el siguiente periodo. <!-- feedback: Correcto. Es la esencia del interés compuesto, permitiendo el crecimiento exponencial. -->
+- [ ] B) Retirar los intereses ganados cada mes. <!-- feedback: Incorrecto. La capitalización implica dejar los intereses para que crezcan. -->
+- [x] A) El proceso de sumar los intereses ganados al capital original para el siguiente periodo. <!-- feedback: Correcto. Es la esencia del interés compuesto, permitiendo el crecimiento exponencial. -->
 - [ ] C) El pago de impuestos sobre el capital invertido. <!-- feedback: Incorrecto. No tiene relación con el cálculo de rendimientos. -->
 - [ ] D) El tiempo total que dura la inversión. <!-- feedback: Incorrecto. Eso es el plazo o n. -->
 
@@ -76,8 +76,8 @@ Si una tasa de interés anual se capitaliza mensualmente, ¿cuántos periodos de
 
 ### Opciones
 - [ ] A) 1 <!-- feedback: Incorrecto. Esto sería capitalización anual. -->
-- [ ] B) 4 <!-- feedback: Incorrecto. Esto sería capitalización trimestral. -->
-- [x] C) 12 <!-- feedback: Correcto. Como hay 12 meses en un año, la capitalización mensual ocurre 12 veces. -->
+- [ ] C) 4 <!-- feedback: Incorrecto. Esto sería capitalización trimestral. -->
+- [x] B) 12 <!-- feedback: Correcto. Como hay 12 meses en un año, la capitalización mensual ocurre 12 veces. -->
 - [ ] D) 6 <!-- feedback: Incorrecto. Esto sería capitalización bimestral. -->
 
 ### Explicacion Pedagogica
@@ -119,8 +119,8 @@ Mientras que el interés simple aumenta una cantidad fija (línea recta), el int
 Calcule el monto total después de 2 años de una inversión de $5,000 pesos con una tasa del 10% anual capitalizable anualmente.
 
 ### Opciones
-- [ ] A) $6,000 pesos <!-- feedback: Incorrecto. Este sería el monto con interés simple. -->
-- [x] B) $6,050 pesos <!-- feedback: Correcto. M = 5,000(1 + 0.10)^2 = 5,000(1.10)^2 = 5,000(1.21) = 6,050. -->
+- [ ] B) $6,000 pesos <!-- feedback: Incorrecto. Este sería el monto con interés simple. -->
+- [x] A) $6,050 pesos <!-- feedback: Correcto. M = 5,000(1 + 0.10)^2 = 5,000(1.10)^2 = 5,000(1.21) = 6,050. -->
 - [ ] C) $5,500 pesos <!-- feedback: Incorrecto. Este es el monto después de solo un año. -->
 - [ ] D) $6,100 pesos <!-- feedback: Incorrecto. Error en el cálculo de la potencia de 1.10. -->
 
@@ -143,8 +143,8 @@ Si se invierten $10,000 pesos a una tasa del 12% anual capitalizable trimestralm
 ### Opciones
 - [ ] A) 12% <!-- feedback: Incorrecto. Esta es la tasa anual, no la del periodo trimestral. -->
 - [ ] B) 4% <!-- feedback: Incorrecto. Dividió entre 3 meses en lugar de considerar cuántos trimestres tiene un año. -->
-- [x] C) 3% <!-- feedback: Correcto. Como hay 4 trimestres en un año, la tasa del periodo es 12% / 4 = 3% (0.03). -->
-- [ ] D) 1% <!-- feedback: Incorrecto. Esta sería la tasa mensual (12% / 12). -->
+- [x] D) 3% <!-- feedback: Correcto. Como hay 4 trimestres en un año, la tasa del periodo es 12% / 4 = 3% (0.03). -->
+- [ ] C) 1% <!-- feedback: Incorrecto. Esta sería la tasa mensual (12% / 12). -->
 
 ### Explicacion Pedagogica
 La tasa nominal anual debe dividirse entre el número de veces que se capitaliza en el año ($m$). Para capitalización trimestral, $m = 4$. Así, $0.12 / 4 = 0.03$.
@@ -163,8 +163,8 @@ La tasa nominal anual debe dividirse entre el número de veces que se capitaliza
 Determine el interés ganado (no el monto) de un capital de $20,000 pesos invertido al 8% anual compuesto anualmente durante 2 años.
 
 ### Opciones
-- [ ] A) $3,200 pesos <!-- feedback: Incorrecto. Este es el interés simple de dos años. -->
-- [x] B) $3,328 pesos <!-- feedback: Correcto. M = 20,000(1.08)^2 = 20,000(1.1664) = 23,328. Interés = 23,328 - 20,000 = 3,328. -->
+- [ ] B) $3,200 pesos <!-- feedback: Incorrecto. Este es el interés simple de dos años. -->
+- [x] A) $3,328 pesos <!-- feedback: Correcto. M = 20,000(1.08)^2 = 20,000(1.1664) = 23,328. Interés = 23,328 - 20,000 = 3,328. -->
 - [ ] C) $1,600 pesos <!-- feedback: Incorrecto. Este es el interés de un solo año. -->
 - [ ] D) $23,328 pesos <!-- feedback: Incorrecto. Este es el Monto total, la pregunta pide solo el interés. -->
 
@@ -186,8 +186,8 @@ Primero calculamos el Monto total usando la fórmula exponencial. Luego, restamo
 
 ### Opciones
 - [ ] A) $1,072 pesos <!-- feedback: Incorrecto. Este sería el resultado con interés simple (1,000 + 72). -->
-- [ ] B) $1,240 pesos <!-- feedback: Incorrecto. Aplicó la tasa anual completa en lugar de la mensual. -->
-- [x] C) $1,061.21 pesos <!-- feedback: Correcto. Tasa mensual = 24%/12 = 2% (0.02). M = 1,000(1.02)^3 = 1,000(1.061208) ≈ 1,061.21. -->
+- [ ] C) $1,240 pesos <!-- feedback: Incorrecto. Aplicó la tasa anual completa en lugar de la mensual. -->
+- [x] B) $1,061.21 pesos <!-- feedback: Correcto. Tasa mensual = 24%/12 = 2% (0.02). M = 1,000(1.02)^3 = 1,000(1.061208) ≈ 1,061.21. -->
 - [ ] D) $1,060 pesos <!-- feedback: Incorrecto. Olvidó el efecto de la capitalización compuesta. -->
 
 ### Explicacion Pedagogica
@@ -207,9 +207,9 @@ Dividimos la tasa anual entre 12 para obtener la mensual (0.02). El número de p
 En una inversión a 1 año con capitalización anual, ¿cómo es el monto de interés compuesto comparado con el interés simple?
 
 ### Opciones
-- [ ] A) El interés compuesto es mayor. <!-- feedback: Incorrecto. Con capitalización anual, el primer periodo es igual para ambos. -->
-- [ ] B) El interés simple es mayor. <!-- feedback: Incorrecto. Nunca el interés simple supera al compuesto con la misma tasa y tiempo. -->
-- [x] C) Son exactamente iguales. <!-- feedback: Correcto. Como solo hay una capitalización al final del año, no hay intereses previos que generen nuevos intereses. -->
+- [ ] B) El interés compuesto es mayor. <!-- feedback: Incorrecto. Con capitalización anual, el primer periodo es igual para ambos. -->
+- [ ] C) El interés simple es mayor. <!-- feedback: Incorrecto. Nunca el interés simple supera al compuesto con la misma tasa y tiempo. -->
+- [x] A) Son exactamente iguales. <!-- feedback: Correcto. Como solo hay una capitalización al final del año, no hay intereses previos que generen nuevos intereses. -->
 - [ ] D) Depende del capital inicial. <!-- feedback: Incorrecto. La relación es independiente de la magnitud del capital. -->
 
 ### Explicacion Pedagogica
@@ -230,8 +230,8 @@ Si un capital de $15,000 pesos se invierte al 6% anual compuesto anualmente por 
 
 ### Opciones
 - [ ] A) 1.18 <!-- feedback: Incorrecto. Este es el factor de interés simple (1 + 0.06 * 3). -->
-- [x] B) $(1.06)^3$ <!-- feedback: Correcto. El factor de crecimiento es (1 + i)^n, que en este caso es (1 + 0.06)^3. -->
-- [ ] C) $1.06 \cdot 3$ <!-- feedback: Incorrecto. No es una multiplicación lineal, sino una potencia. -->
+- [x] C) $(1.06)^3$ <!-- feedback: Correcto. El factor de crecimiento es (1 + i)^n, que en este caso es (1 + 0.06)^3. -->
+- [ ] B) $1.06 \cdot 3$ <!-- feedback: Incorrecto. No es una multiplicación lineal, sino una potencia. -->
 - [ ] D) $3^{1.06}$ <!-- feedback: Incorrecto. La base debe ser el factor de tasa y el exponente el tiempo. -->
 
 ### Explicacion Pedagogica
@@ -252,9 +252,9 @@ El factor $(1+i)^n$ representa cuánto crece cada peso invertido. Para una tasa 
 
 ### Opciones
 - [ ] A) $10,100 pesos <!-- feedback: Incorrecto. Restó los intereses en lugar de dividir por el factor. -->
-- [x] B) $10,000 pesos <!-- feedback: Correcto. C = M / (1+i)^n = 12,100 / (1.10)^2 = 12,100 / 1.21 = 10,000. -->
-- [ ] C) $11,000 pesos <!-- feedback: Incorrecto. Este capital produciría $12,100 en un año, no en dos. -->
-- [ ] D) $9,500 pesos <!-- feedback: Incorrecto. Valor demasiado bajo para alcanzar la meta. -->
+- [x] D) $10,000 pesos <!-- feedback: Correcto. C = M / (1+i)^n = 12,100 / (1.10)^2 = 12,100 / 1.21 = 10,000. -->
+- [ ] B) $11,000 pesos <!-- feedback: Incorrecto. Este capital produciría $12,100 en un año, no en dos. -->
+- [ ] C) $9,500 pesos <!-- feedback: Incorrecto. Valor demasiado bajo para alcanzar la meta. -->
 
 ### Explicacion Pedagogica
 Para hallar el valor presente ($C$), despejamos la fórmula original: $C = M / (1+i)^n$. Dividimos el monto final entre el factor de acumulación acumulado en los dos años.
@@ -273,8 +273,8 @@ Para hallar el valor presente ($C$), despejamos la fórmula original: $C = M / (
 Si una tasa nominal es del 12% anual capitalizable mensualmente, ¿cuál es la tasa efectiva anual aproximada?
 
 ### Opciones
-- [ ] A) 12.00% <!-- feedback: Incorrecto. La tasa efectiva siempre es mayor que la nominal si hay más de una capitalización al año. -->
-- [x] B) 12.68% <!-- feedback: Correcto. Tasa efectiva = (1 + 0.12/12)^12 - 1 = (1.01)^12 - 1 ≈ 1.1268 - 1 = 0.1268. -->
+- [ ] B) 12.00% <!-- feedback: Incorrecto. La tasa efectiva siempre es mayor que la nominal si hay más de una capitalización al año. -->
+- [x] A) 12.68% <!-- feedback: Correcto. Tasa efectiva = (1 + 0.12/12)^12 - 1 = (1.01)^12 - 1 ≈ 1.1268 - 1 = 0.1268. -->
 - [ ] C) 13.15% <!-- feedback: Incorrecto. Error en el cálculo de la potencia de 1.01. -->
 - [ ] D) 1% <!-- feedback: Incorrecto. Esta es la tasa mensual, no la efectiva anual. -->
 
@@ -296,8 +296,8 @@ La tasa efectiva anual ($i_e$) representa el rendimiento real tras considerar la
 
 ### Opciones
 - [ ] A) $n = \frac{M}{C \ln(1+i)}$ <!-- feedback: Incorrecto. La relación entre M y C debe estar dentro de un logaritmo. -->
-- [x] B) $n = \frac{\ln(M/C)}{\ln(1+i)}$ <!-- feedback: Correcto. Aplicando logaritmos a la fórmula M = C(1+i)^n y despejando n. -->
-- [ ] C) $n = \ln(M - C) \cdot (1+i)$ <!-- feedback: Incorrecto. No sigue las reglas de despeje exponencial. -->
+- [x] C) $n = \frac{\ln(M/C)}{\ln(1+i)}$ <!-- feedback: Correcto. Aplicando logaritmos a la fórmula M = C(1+i)^n y despejando n. -->
+- [ ] B) $n = \ln(M - C) \cdot (1+i)$ <!-- feedback: Incorrecto. No sigue las reglas de despeje exponencial. -->
 - [ ] D) $n = \frac{\ln(M) - \ln(C)}{i}$ <!-- feedback: Incorrecto. Olvidó el logaritmo en el denominador. -->
 
 ### Explicacion Pedagogica
@@ -317,9 +317,9 @@ Para despejar una variable en el exponente ($n$), aplicamos logaritmos en ambos 
 Determine el monto de $40,000 pesos al 10% anual capitalizable semestralmente durante 1.5 años.
 
 ### Opciones
-- [ ] A) $46,000 pesos <!-- feedback: Incorrecto. Este es el interés simple. -->
-- [ ] B) $46,410 pesos <!-- feedback: Incorrecto. Posible error por redondear de forma acumulada la tasa semestral. -->
-- [x] C) $46,305 pesos <!-- feedback: Correcto. Tasa semestral = 5% (0.05). Periodos = 3 (1.5 años = 3 semestres). M = 40,000(1.05)^3 = 40,000(1.157625) = 46,305. -->
+- [ ] B) $46,000 pesos <!-- feedback: Incorrecto. Este es el interés simple. -->
+- [ ] C) $46,410 pesos <!-- feedback: Incorrecto. Posible error por redondear de forma acumulada la tasa semestral. -->
+- [x] A) $46,305 pesos <!-- feedback: Correcto. Tasa semestral = 5% (0.05). Periodos = 3 (1.5 años = 3 semestres). M = 40,000(1.05)^3 = 40,000(1.157625) = 46,305. -->
 - [ ] D) $44,100 pesos <!-- feedback: Incorrecto. Solo calculó dos periodos de capitalización. -->
 
 ### Explicacion Pedagogica
@@ -340,9 +340,9 @@ Si el Banco A ofrece 12% anual capitalizable anualmente y el Banco B ofrece 12% 
 
 ### Opciones
 - [ ] A) Banco A, porque cobra menos comisiones. <!-- feedback: Incorrecto. La pregunta se refiere solo al rendimiento matemático de las tasas. -->
-- [x] B) Banco B, porque la capitalización más frecuente genera más intereses. <!-- feedback: Correcto. A mayor frecuencia de capitalización, mayor es la tasa efectiva anual. -->
-- [ ] C) Son iguales, porque la tasa anual es la misma (12%). <!-- feedback: Incorrecto. La capitalización mensual genera "interés sobre interés" con mayor frecuencia. -->
-- [ ] D) Banco A, porque es más fácil de calcular. <!-- feedback: Incorrecto. La facilidad de cálculo no determina la rentabilidad. -->
+- [x] D) Banco B, porque la capitalización más frecuente genera más intereses. <!-- feedback: Correcto. A mayor frecuencia de capitalización, mayor es la tasa efectiva anual. -->
+- [ ] B) Son iguales, porque la tasa anual es la misma (12%). <!-- feedback: Incorrecto. La capitalización mensual genera "interés sobre interés" con mayor frecuencia. -->
+- [ ] C) Banco A, porque es más fácil de calcular. <!-- feedback: Incorrecto. La facilidad de cálculo no determina la rentabilidad. -->
 
 ### Explicacion Pedagogica
 Matemáticamente, cuantas más veces se capitalicen los intereses en un año, mayor será el monto final. La capitalización mensual siempre superará a la anual para una misma tasa nominal positiva.
@@ -362,8 +362,8 @@ Una maquinaria de $100,000 pesos se deprecia un 20% anual (interés compuesto ne
 
 ### Opciones
 - [ ] A) $60,000 pesos <!-- feedback: Incorrecto. Este sería el valor con depreciación lineal (simple). -->
-- [x] B) $64,000 pesos <!-- feedback: Correcto. Valor = 100,000(1 - 0.20)^2 = 100,000(0.80)^2 = 100,000(0.64) = 64,000. -->
-- [ ] C) $80,000 pesos <!-- feedback: Incorrecto. Este es el valor tras solo un año de depreciación. -->
+- [x] C) $64,000 pesos <!-- feedback: Correcto. Valor = 100,000(1 - 0.20)^2 = 100,000(0.80)^2 = 100,000(0.64) = 64,000. -->
+- [ ] B) $80,000 pesos <!-- feedback: Incorrecto. Este es el valor tras solo un año de depreciación. -->
 - [ ] D) $72,000 pesos <!-- feedback: Incorrecto. Error en el cálculo de la potencia de 0.80. -->
 
 ### Explicacion Pedagogica
@@ -406,9 +406,9 @@ Aproximadamente, ¿cuántos años tarda un capital en duplicarse si se invierte 
 
 ### Opciones
 - [ ] A) 6 años <!-- feedback: Incorrecto. Tardaría 12 años según la regla. -->
-- [x] B) 12 años <!-- feedback: Correcto. Regla del 72: Tiempo ≈ 72 / tasa (entera) = 72 / 6 = 12 años. -->
-- [ ] C) 10 años <!-- feedback: Incorrecto. Esto sería para una tasa del 7.2%. -->
-- [ ] D) 15 años <!-- feedback: Incorrecto. Esto sería para una tasa del 4.8%. -->
+- [x] D) 12 años <!-- feedback: Correcto. Regla del 72: Tiempo ≈ 72 / tasa (entera) = 72 / 6 = 12 años. -->
+- [ ] B) 10 años <!-- feedback: Incorrecto. Esto sería para una tasa del 7.2%. -->
+- [ ] C) 15 años <!-- feedback: Incorrecto. Esto sería para una tasa del 4.8%. -->
 
 ### Explicacion Pedagogica
 La "Regla del 72" es una herramienta de estimación rápida. Al dividir 72 entre la tasa de interés anual, obtenemos el número de años necesarios para duplicar la inversión inicial bajo interés compuesto.
@@ -428,8 +428,8 @@ La "Regla del 72" es una herramienta de estimación rápida. Al dividir 72 entre
 
 ### Opciones
 - [ ] A) 20% <!-- feedback: Incorrecto. Este sería el valor para interés simple. -->
-- [ ] B) 14.4% <!-- feedback: Incorrecto. Este valor proviene de la regla del 72, pero el valor exacto es diferente. -->
-- [x] C) 14.87% <!-- feedback: Correcto. 2 = (1+i)^5 => (2)^(1/5) = 1+i => 1.1487 = 1+i => i = 0.1487. -->
+- [ ] C) 14.4% <!-- feedback: Incorrecto. Este valor proviene de la regla del 72, pero el valor exacto es diferente. -->
+- [x] B) 14.87% <!-- feedback: Correcto. 2 = (1+i)^5 => (2)^(1/5) = 1+i => 1.1487 = 1+i => i = 0.1487. -->
 - [ ] D) 12.5% <!-- feedback: Incorrecto. Rendimiento insuficiente para duplicar en 5 años. -->
 
 ### Explicacion Pedagogica

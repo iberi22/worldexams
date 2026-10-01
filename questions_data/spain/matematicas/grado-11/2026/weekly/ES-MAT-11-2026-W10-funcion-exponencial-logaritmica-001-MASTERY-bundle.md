@@ -30,8 +30,8 @@ bundle_index: 1
 
 ### Opciones
 - [ ] A) $f(x) = x^a$ <!-- feedback: Esta es una función potencia, no exponencial (la x está en la base). -->
-- [x] B) $f(x) = a^x$ <!-- feedback: Correcto. La variable independiente se encuentra en el exponente. -->
-- [ ] C) $f(x) = \log_a x$ <!-- feedback: Esta es la función logarítmica, inversa de la exponencial. -->
+- [x] C) $f(x) = a^x$ <!-- feedback: Correcto. La variable independiente se encuentra en el exponente. -->
+- [ ] B) $f(x) = \log_a x$ <!-- feedback: Esta es la función logarítmica, inversa de la exponencial. -->
 - [ ] D) $f(x) = e \cdot x$ <!-- feedback: Es una función lineal. -->
 
 ### Explicacion Pedagogica
@@ -71,9 +71,9 @@ Independientemente de la base $a$, si evaluamos $f(0) = a^0$, el resultado es si
 Dada la función $f(x) = e^x$, ¿cuál es el valor aproximado de $f(1)$?
 
 ### Opciones
-- [ ] A) 1 <!-- feedback: e elevado a 0 es 1. -->
-- [ ] B) 10 <!-- feedback: Esta es la base de los logaritmos decimales. -->
-- [x] C) 2,718 <!-- feedback: Correcto. El número e es la base de los logaritmos naturales y vale aproximadamente 2,71828... -->
+- [ ] B) 1 <!-- feedback: e elevado a 0 es 1. -->
+- [ ] C) 10 <!-- feedback: Esta es la base de los logaritmos decimales. -->
+- [x] A) 2,718 <!-- feedback: Correcto. El número e es la base de los logaritmos naturales y vale aproximadamente 2,71828... -->
 - [ ] D) 3,141 <!-- feedback: Este es el valor del número pi. -->
 
 ### Explicacion Pedagogica
@@ -113,9 +113,9 @@ Las funciones logarítmica y exponencial de la misma base son funciones inversas
 Si inicialmente hay 100 bacterias, ¿cuántas habrá después de 5 horas?
 
 ### Opciones
-- [ ] A) 500 <!-- feedback: Esto sería un crecimiento lineal (100 por hora). -->
-- [ ] B) 1.000 <!-- feedback: Error de cálculo. -->
-- [x] C) 3.200 <!-- feedback: Correcto. $P(5) = 100 \cdot 2^5 = 100 \cdot 32 = 3.200$. -->
+- [ ] B) 500 <!-- feedback: Esto sería un crecimiento lineal (100 por hora). -->
+- [ ] C) 1.000 <!-- feedback: Error de cálculo. -->
+- [x] A) 3.200 <!-- feedback: Correcto. $P(5) = 100 \cdot 2^5 = 100 \cdot 32 = 3.200$. -->
 - [ ] D) 6.400 <!-- feedback: Este sería el valor a las 6 horas. -->
 
 ### Explicacion Pedagogica
@@ -135,8 +135,8 @@ El crecimiento exponencial se caracteriza por multiplicar la población en cada 
 
 ### Opciones
 - [ ] A) Todos los reales ($\mathbb{R}$). <!-- feedback: El logaritmo no admite argumentos negativos ni cero. -->
-- [ ] B) $x \geq 3$ <!-- feedback: El valor x = 3 anularía el argumento, y el logaritmo de 0 no existe. -->
-- [x] C) $x > 3$ <!-- feedback: Correcto. El argumento debe ser estrictamente positivo: $x - 3 > 0 \Rightarrow x > 3$. -->
+- [ ] C) $x \geq 3$ <!-- feedback: El valor x = 3 anularía el argumento, y el logaritmo de 0 no existe. -->
+- [x] B) $x > 3$ <!-- feedback: Correcto. El argumento debe ser estrictamente positivo: $x - 3 > 0 \Rightarrow x > 3$. -->
 - [ ] D) $x < 3$ <!-- feedback: El argumento sería negativo. -->
 
 ### Explicacion Pedagogica
@@ -156,9 +156,9 @@ El dominio de una función logarítmica está restringido a los valores que hace
 
 ### Opciones
 - [ ] A) Cuando a > 1. <!-- feedback: En este caso la función es creciente. -->
-- [x] B) Cuando 0 < a < 1. <!-- feedback: Correcto. Al elevar una fracción propia a exponentes mayores, el resultado disminuye. -->
-- [ ] C) Cuando a < 0. <!-- feedback: La base no puede ser negativa en las funciones exponenciales reales. -->
-- [ ] D) Siempre es decreciente. <!-- feedback: Depende del valor de la base. -->
+- [x] D) Cuando 0 < a < 1. <!-- feedback: Correcto. Al elevar una fracción propia a exponentes mayores, el resultado disminuye. -->
+- [ ] B) Cuando a < 0. <!-- feedback: La base no puede ser negativa en las funciones exponenciales reales. -->
+- [ ] C) Siempre es decreciente. <!-- feedback: Depende del valor de la base. -->
 
 ### Explicacion Pedagogica
 Si la base está entre 0 y 1 (como 0,5), multiplicar sucesivamente por la base reduce el valor total, generando una curva que se acerca al eje X pero nunca lo toca.
@@ -177,9 +177,9 @@ Si la base está entre 0 y 1 (como 0,5), multiplicar sucesivamente por la base r
 
 ### Opciones
 - [ ] A) 10.000 <!-- feedback: Este es el valor de la amplitud relativa, no de la magnitud logarítmica. -->
-- [x] B) 4 <!-- feedback: Correcto. $M = \log(10.000) = \log(10^4) = 4$. -->
-- [ ] C) 2 <!-- feedback: log(100) = 2. -->
-- [ ] D) 5 <!-- feedback: log(100.000) = 5. -->
+- [x] D) 4 <!-- feedback: Correcto. $M = \log(10.000) = \log(10^4) = 4$. -->
+- [ ] B) 2 <!-- feedback: log(100) = 2. -->
+- [ ] C) 5 <!-- feedback: log(100.000) = 5. -->
 
 ### Explicacion Pedagogica
 Las escalas logarítmicas como la Richter o el pH comprimen grandes rangos de valores en números pequeños y manejables. Un aumento de 1 unidad en la magnitud Richter equivale a multiplicar por 10 la intensidad.
@@ -240,8 +240,8 @@ A largo plazo ($x \to \infty$), ¿cuál de las siguientes funciones crece más r
 
 ### Opciones
 - [ ] A) $f(x) = x^2$ <!-- feedback: Es una función cuadrática, crece rápido pero no tanto como una exponencial. -->
-- [ ] B) $f(x) = 100x + 500$ <!-- feedback: Es lineal, su tasa de crecimiento es constante. -->
-- [x] C) $f(x) = 1,1^x$ <!-- feedback: Correcto. Cualquier exponencial con base > 1 acabará superando a cualquier polinomio. -->
+- [ ] C) $f(x) = 100x + 500$ <!-- feedback: Es lineal, su tasa de crecimiento es constante. -->
+- [x] B) $f(x) = 1,1^x$ <!-- feedback: Correcto. Cualquier exponencial con base > 1 acabará superando a cualquier polinomio. -->
 - [ ] D) $f(x) = \log x$ <!-- feedback: Su crecimiento es extremadamente lento (sublineal). -->
 
 ### Explicacion Pedagogica
@@ -303,8 +303,8 @@ Al sumarle 1 a la función logarítmica, toda la gráfica sube una unidad. El pu
 
 ### Opciones
 - [ ] A) x = 4 <!-- feedback: $2^{4-4} = 2^0 = 1$. -->
-- [x] B) x = 7 <!-- feedback: Correcto. $2^{x-4} = 2^3 \Rightarrow x-4=3 \Rightarrow x=7$. -->
-- [ ] C) x = 12 <!-- feedback: Valor demasiado alto. -->
+- [x] C) x = 7 <!-- feedback: Correcto. $2^{x-4} = 2^3 \Rightarrow x-4=3 \Rightarrow x=7$. -->
+- [ ] B) x = 12 <!-- feedback: Valor demasiado alto. -->
 - [ ] D) x = 3 <!-- feedback: Error de cálculo. -->
 
 ### Explicacion Pedagogica
@@ -324,9 +324,9 @@ Igualamos las bases: 8 se puede escribir como $2^3$. Al tener la misma base en a
 
 ### Opciones
 - [ ] A) Todos los reales ($\mathbb{R}$). <!-- feedback: No puede tomar valores negativos ni cero. -->
-- [x] B) Los reales positivos $(0, \infty)$. <!-- feedback: Correcto. Una potencia de base positiva siempre es mayor que cero. -->
-- [ ] C) Los reales no negativos $[0, \infty)$. <!-- feedback: El cero no se alcanza nunca (es una asíntota). -->
-- [ ] D) Solo números enteros. <!-- feedback: Puede tomar cualquier valor real positivo (ej. 5^0,5 = √5). -->
+- [x] D) Los reales positivos $(0, \infty)$. <!-- feedback: Correcto. Una potencia de base positiva siempre es mayor que cero. -->
+- [ ] B) Los reales no negativos $[0, \infty)$. <!-- feedback: El cero no se alcanza nunca (es una asíntota). -->
+- [ ] C) Solo números enteros. <!-- feedback: Puede tomar cualquier valor real positivo (ej. 5^0,5 = √5). -->
 
 ### Explicacion Pedagogica
 La función exponencial $a^x$ nunca arroja un resultado negativo ni nulo. Por ello, su gráfica se sitúa íntegramente por encima del eje de abscisas.
@@ -344,9 +344,9 @@ La función exponencial $a^x$ nunca arroja un resultado negativo ni nulo. Por el
 Halla x si $\log_2(x+1) = 3$.
 
 ### Opciones
-- [ ] A) x = 5 <!-- feedback: $2^3 = 8$, no 6. -->
-- [ ] B) x = 8 <!-- feedback: Error al no restar el 1 del argumento. -->
-- [x] C) x = 7 <!-- feedback: Correcto. $x+1 = 2^3 = 8 \Rightarrow x = 7$. -->
+- [ ] B) x = 5 <!-- feedback: $2^3 = 8$, no 6. -->
+- [ ] C) x = 8 <!-- feedback: Error al no restar el 1 del argumento. -->
+- [x] A) x = 7 <!-- feedback: Correcto. $x+1 = 2^3 = 8 \Rightarrow x = 7$. -->
 - [ ] D) x = 9 <!-- feedback: Error de cálculo. -->
 
 ### Explicacion Pedagogica
@@ -366,8 +366,8 @@ Aplicamos la definición de logaritmo: el argumento debe ser igual a la base ele
 
 ### Opciones
 - [ ] A) d = 0,5 <!-- feedback: Error conceptual. -->
-- [x] B) d = 3,5 <!-- feedback: Correcto. $1/2 = e^{-0,2d} \Rightarrow \ln(0,5) = -0,2d \Rightarrow -0,7 = -0,2d \Rightarrow d = 3,5$. -->
-- [ ] C) d = 2 <!-- feedback: Valor incorrecto. -->
+- [x] C) d = 3,5 <!-- feedback: Correcto. $1/2 = e^{-0,2d} \Rightarrow \ln(0,5) = -0,2d \Rightarrow -0,7 = -0,2d \Rightarrow d = 3,5$. -->
+- [ ] B) d = 2 <!-- feedback: Valor incorrecto. -->
 - [ ] D) d = 7 <!-- feedback: Error en el factor decimal. -->
 
 ### Explicacion Pedagogica
@@ -387,8 +387,8 @@ Resuelve: $2^{2x} - 5 \cdot 2^x + 4 = 0$.
 
 ### Opciones
 - [ ] A) x = 1 y x = 4 <!-- feedback: Estas son las soluciones para z = 2^x, falta hallar x. -->
-- [x] B) x = 0 y x = 2 <!-- feedback: Correcto. Si $z=2^x$, $z^2-5z+4=0 \Rightarrow z=1, z=4$. Entonces $2^x=1 \Rightarrow x=0$ y $2^x=4 \Rightarrow x=2$. -->
-- [ ] C) Solo x = 2 <!-- feedback: Falta la solución x = 0. -->
+- [x] C) x = 0 y x = 2 <!-- feedback: Correcto. Si $z=2^x$, $z^2-5z+4=0 \Rightarrow z=1, z=4$. Entonces $2^x=1 \Rightarrow x=0$ y $2^x=4 \Rightarrow x=2$. -->
+- [ ] B) Solo x = 2 <!-- feedback: Falta la solución x = 0. -->
 - [ ] D) No tiene solución real. <!-- feedback: Tiene dos soluciones exactas. -->
 
 ### Explicacion Pedagogica
@@ -408,8 +408,8 @@ Usamos el cambio de variable $z = 2^x$ para convertir la expresión exponencial 
 
 ### Opciones
 - [ ] A) $f^{-1}(x) = \ln(x) + 2$ <!-- feedback: El desplazamiento horizontal se convierte en vertical pero con signo opuesto. -->
-- [x] B) $f^{-1}(x) = \ln(x) - 2$ <!-- feedback: Correcto. $y = e^{x+2} \Rightarrow \ln y = x+2 \Rightarrow x = \ln y - 2$. -->
-- [ ] C) $f^{-1}(x) = \ln(x-2)$ <!-- feedback: Error en el despeje de la variable. -->
+- [x] C) $f^{-1}(x) = \ln(x) - 2$ <!-- feedback: Correcto. $y = e^{x+2} \Rightarrow \ln y = x+2 \Rightarrow x = \ln y - 2$. -->
+- [ ] B) $f^{-1}(x) = \ln(x-2)$ <!-- feedback: Error en el despeje de la variable. -->
 - [ ] D) $f^{-1}(x) = e^{-x-2}$ <!-- feedback: Esto no es la función logarítmica. -->
 
 ### Explicacion Pedagogica
@@ -429,9 +429,9 @@ Para hallar la inversa, intercambiamos los roles de $x$ e $y$ y despejamos la nu
 
 ### Opciones
 - [ ] A) 0 <!-- feedback: ln(1) = 0, pero cerca de 0 la función cae. -->
-- [x] B) $-\infty$ <!-- feedback: Correcto. A medida que x se acerca a 0 por la derecha, el logaritmo se vuelve arbitrariamente negativo (asíntota vertical). -->
-- [ ] C) $+\infty$ <!-- feedback: Esto ocurre cuando x tiende a infinito. -->
-- [ ] D) No existe el límite lateral. <!-- feedback: Sí existe y es divergente al infinito negativo. -->
+- [x] D) $-\infty$ <!-- feedback: Correcto. A medida que x se acerca a 0 por la derecha, el logaritmo se vuelve arbitrariamente negativo (asíntota vertical). -->
+- [ ] B) $+\infty$ <!-- feedback: Esto ocurre cuando x tiende a infinito. -->
+- [ ] C) No existe el límite lateral. <!-- feedback: Sí existe y es divergente al infinito negativo. -->
 
 ### Explicacion Pedagogica
 La función logarítmica tiene una asíntota vertical en $x=0$. Como la base $e$ es mayor que 1, valores muy pequeños de $x$ (fracciones muy pequeñas) requieren exponentes negativos muy grandes, por lo que la función tiende a menos infinito.

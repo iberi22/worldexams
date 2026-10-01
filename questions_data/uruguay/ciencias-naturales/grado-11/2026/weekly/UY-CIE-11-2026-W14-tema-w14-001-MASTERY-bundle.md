@@ -33,13 +33,13 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Cómo se denomina este proceso de enriquecimiento nutricional de los cuerpos de agua dulce?
 
 ### Opciones
-- [x] A) Eutrofización.
+- [x] D) Eutrofización.
   <!-- feedback: Correcto. La eutrofización es el enriquecimiento de las aguas con nutrientes que estimula la proliferación de algas. -->
-- [ ] B) Acidificación oceánica.
+- [ ] A) Acidificación oceánica.
   <!-- feedback: Incorrecto. La acidificación es la disminución del pH marino por absorción de $CO_2$. -->
-- [ ] C) Biomagnificación pesquera.
+- [ ] B) Biomagnificación pesquera.
   <!-- feedback: Incorrecto. La biomagnificación es el aumento de concentración de toxinas a lo largo de la red trófica. -->
-- [ ] D) Salinización freática.
+- [ ] C) Salinización freática.
   <!-- feedback: Incorrecto. La salinización es la acumulación de sales disueltas en suelos o acuíferos. -->
 
 ### Explicacion Pedagogica
@@ -58,9 +58,9 @@ La eutrofización es un proceso desencadenado por el vertido excesivo de nitróg
 ### Opciones
 - [ ] A) Destrucción de la capa de ozono estratosférico.
   <!-- feedback: Incorrecto. El ozono estratosférico se destruye principalmente por compuestos clorofluorocarbonados (CFCs). -->
-- [x] B) Lluvia ácida (o deposición ácida).
+- [x] C) Lluvia ácida (o deposición ácida).
   <!-- feedback: Correcto. La reacción del $SO_2$ y $NO_x$ con agua atmosférica genera $H_2SO_4$ y $HNO_3$, acidificando las precipitaciones. -->
-- [ ] C) Smog fotorradiativo de radón.
+- [ ] B) Smog fotorradiativo de radón.
   <!-- feedback: Incorrecto. El radón es un gas radiactivo natural derivado del uranio, no asociado a la deposición ácida. -->
 - [ ] D) Efecto invernadero natural por vapor de agua.
   <!-- feedback: Incorrecto. La deposición ácida es una alteración por contaminantes ácidos, no el efecto invernadero. -->
@@ -104,11 +104,11 @@ Las cianobacterias sintetizan metabolitos secundarios tóxicos (cianotoxinas) qu
 ### Opciones
 - [ ] A) La cantidad de sustancia que destruye el 50% de las moléculas de nitrógeno del aire.
   <!-- feedback: Incorrecto. Es un parámetro toxicológico aplicado a poblaciones de organismos vivos de prueba. -->
-- [x] B) La dosis de una sustancia requerida para provocar la muerte del 50% de una población de organismos de prueba en un tiempo determinado.
+- [x] D) La dosis de una sustancia requerida para provocar la muerte del 50% de una población de organismos de prueba en un tiempo determinado.
   <!-- feedback: Correcto. La DL50 es el indicador cuantitativo estándar de toxicidad aguda: a menor DL50, mayor es la toxicidad de la sustancia. -->
-- [ ] C) El tiempo necesario para que el 50% del producto se evapore por acción solar.
+- [ ] B) El tiempo necesario para que el 50% del producto se evapore por acción solar.
   <!-- feedback: Incorrecto. La tasa de evaporación o vida media no coincide con la DL50 de mortalidad biológica. -->
-- [ ] D) El porcentaje de fertilidad que conservan los organismos tras 50 días de exposición.
+- [ ] C) El porcentaje de fertilidad que conservan los organismos tras 50 días de exposición.
   <!-- feedback: Incorrecto. Mide letalidad por dosis, no subletalidad reproductiva en 50 días. -->
 
 ### Explicacion Pedagogica
@@ -171,9 +171,9 @@ El $O_3$ estratosférico es esencial como escudo protector frente a la radiació
 ¿Por qué los metales pesados son considerados contaminantes de alta persistencia y peligrosidad en los ecosistemas acuáticos?
 
 ### Opciones
-- [ ] A) Porque se evaporan velozmente hacia la estratosfera mediante fotólisis.
+- [ ] B) Porque se evaporan velozmente hacia la estratosfera mediante fotólisis.
   <!-- feedback: Incorrecto. Los metales pesados son elementos inorgánicos estables que no se evaporan ni destruyen por fotólisis. -->
-- [x] B) Porque no son biodegradables, persisten en el ambiente y se bioacumulan en los tejidos de los organismos vivientes.
+- [x] A) Porque no son biodegradables, persisten en el ambiente y se bioacumulan en los tejidos de los organismos vivientes.
   <!-- feedback: Correcto. Al ser elementos químicos indivisibles, no se degradan metabólicamente, persistiendo en sedimentos y biomagnificándose. -->
 - [ ] C) Porque actúan como fertilizantes orgánicos acelerando la fotosíntesis de los peces.
   <!-- feedback: Incorrecto. Son elementos altamente citotóxicos, no nutrientes ni fertilizantes. -->
@@ -196,9 +196,9 @@ Los metales pesados son elementos químicos indivisibles no biodegradables que s
 ### Opciones
 - [ ] A) La DBO mide sustancias inorgánicas oxidables y la DQO mide la transpiración de plantas acuáticas.
   <!-- feedback: Incorrecto. La DBO mide biodegradación biológica por bacterias, no transpiración vegetal. -->
-- [x] B) La DQO mide el oxígeno requerido para oxidar químicamente toda la materia orgánica (biodegradable y no biodegradable), superando casi siempre el valor de la DBO.
+- [x] C) La DQO mide el oxígeno requerido para oxidar químicamente toda la materia orgánica (biodegradable y no biodegradable), superando casi siempre el valor de la DBO.
   <!-- feedback: Correcto. La DQO utiliza un oxidante químico fuerte (dicromato de potasio) oxidando materia orgánica total; la DBO solo cuantifica la fracción biodegradable por bacterias. -->
-- [ ] C) La DQO es siempre cero si existen bacterias vivas en la muestra de agua.
+- [ ] B) La DQO es siempre cero si existen bacterias vivas en la muestra de agua.
   <!-- feedback: Incorrecto. La DQO es independiente de la viabilidad bacteriana pues emplea reactivos químicos. -->
 - [ ] D) Ambas pruebas son idénticas y se diferencian únicamente por la temperatura de congelación.
   <!-- feedback: Incorrecto. DBO y DQO se fundamentan en principios analíticos distintos (biológico vs químico). -->
@@ -217,9 +217,9 @@ La DQO evalúa la carga oxidable total mediante un oxidante químico potente en 
 ¿Qué riesgo para la salud humana (especialmente en lactantes) representa el consumo de agua subterránea contaminada con concentraciones de nitratos ($NO_3^-$) superiores a 50 mg/L?
 
 ### Opciones
-- [ ] A) Producir raquitis masiva por hipercalcemia ósea.
+- [ ] B) Producir raquitis masiva por hipercalcemia ósea.
   <!-- feedback: Incorrecto. La toxicidad por nitratos no provoca hipercalcemia ósea. -->
-- [x] B) Desarrollar metahemoglobinemia (síndrome del bebé azul), donde el nitrito reduce la capacidad de la hemoglobina para transportar oxígeno.
+- [x] A) Desarrollar metahemoglobinemia (síndrome del bebé azul), donde el nitrito reduce la capacidad de la hemoglobina para transportar oxígeno.
   <!-- feedback: Correcto. En el estómago del lactante, el nitrato se reduce a nitrito, oxidando el hierro de la hemoglobina a metahemoglobina incapaz de transportar $O_2$. -->
 - [ ] C) Provocar silicosis pulmonar por depósitos de arena silícea.
   <!-- feedback: Incorrecto. La silicosis es una enfermedad inhalatoria ocupacional por polvo de sílice. -->
@@ -242,9 +242,9 @@ La ingesta de altas concentraciones de nitratos en agua de pozo induce metahemog
 ### Opciones
 - [ ] A) Incinereación química instantánea de los sólidos disueltos por la acción del sol.
   <!-- feedback: Incorrecto. Los humedales son sistemas biológicos de filtración y depuración, no incineradores. -->
-- [x] B) Filtración física por el sustrato de grava, absorción de nutrientes por las raíces de las macrófitas y degradación microbiana en la rizosfera.
+- [x] C) Filtración física por el sustrato de grava, absorción de nutrientes por las raíces de las macrófitas y degradación microbiana en la rizosfera.
   <!-- feedback: Correcto. Las raíces aportan oxígeno a la zona rizoférica, estimulando a las bacterias nitrificantes y descomponedoras que depuran el agua. -->
-- [ ] C) Esterilización por radiación gamma emitida por las hojas de totora.
+- [ ] B) Esterilización por radiación gamma emitida por las hojas de totora.
   <!-- feedback: Incorrecto. Las totoras no emiten radiación gamma; la depuración es un proceso biológico estándar. -->
 - [ ] D) Conversión de la materia orgánica en derivados plásticos insolubles.
   <!-- feedback: Incorrecto. Los microorganismos edáficos mineralizan los compuestos orgánicos en sales inorgánicas y biomasa. -->
@@ -263,9 +263,9 @@ Los humedales artificiales depuran efluentes mediante la acción conjunta de la 
 Si la constante de degradación $k$ es de $0{,}05\text{ día}^{-1}$, ¿cuál es el tiempo de vida media ($t_{1/2} = \frac{\ln 2}{k}$) necesario para que la concentración del contaminante se reduzca al 50% de su valor inicial?
 
 ### Opciones
-- [x] A) $13{,}86\text{ días}$ ($t_{1/2} = \frac{0{,}693}{0{,}05} = 13{,}86$).
+- [x] B) $13{,}86\text{ días}$ ($t_{1/2} = \frac{0{,}693}{0{,}05} = 13{,}86$).
   <!-- feedback: Correcto. Sustituyendo $k=0{,}05$: $t_{1/2} = 0{,}693 / 0{,}05 = 13{,}86\text{ días}$. -->
-- [ ] B) $5{,}00\text{ días}$ ($t_{1/2} = 100 \times 0{,}05$).
+- [ ] A) $5{,}00\text{ días}$ ($t_{1/2} = 100 \times 0{,}05$).
   <!-- feedback: Incorrecto. La vida media para cinéticas de primer orden utiliza $\ln(2) / k$, no la multiplicación lineal. -->
 - [ ] C) $20{,}00\text{ días}$ ($t_{1/2} = 1 / 0{,}05$).
   <!-- feedback: Incorrecto. $1/k$ es el tiempo de residencia o vida media matemática $\tau$, no el $t_{1/2}$ de desintegración al 50%. -->
@@ -311,11 +311,11 @@ El modelo de curva de abatimiento de oxígeno de Streeter-Phelps describe la ca�
 ### Opciones
 - [ ] A) Remover todo el suelo contaminado e incinerarlo a $2000^\circ\text{C}$ en hornos industriales.
   <!-- feedback: Incorrecto. La incineración ex situ es un tratamiento térmico físico-químico, no bioestimulación. -->
-- [x] B) Adicionar nutrientes (nitrógeno y fósforo) y oxígeno para estimular la actividad metabólica de las bacterias degradadoras autóctonas.
+- [x] D) Adicionar nutrientes (nitrógeno y fósforo) y oxígeno para estimular la actividad metabólica de las bacterias degradadoras autóctonas.
   <!-- feedback: Correcto. La bioestimulación optimiza las condiciones ambientales ($N$, $P$, $O_2$) para que la microbiota nativa degrade los hidrocarburos. -->
-- [ ] C) Inocular especies de mamíferos carnívoros para que consuman el petróleo derramado.
+- [ ] B) Inocular especies de mamíferos carnívoros para que consuman el petróleo derramado.
   <!-- feedback: Incorrecto. Los mamíferos no digieren ni metabolizan hidrocarburos para biorremediación. -->
-- [ ] D) Cubrir el área contaminada con láminas de plástico sintético impermeables por un siglo.
+- [ ] C) Cubrir el área contaminada con láminas de plástico sintético impermeables por un siglo.
   <!-- feedback: Incorrecto. El aislamiento térmico no degrada los hidrocarburos de forma biológica. -->
 
 ### Explicacion Pedagogica
@@ -332,9 +332,9 @@ La bioestimulación aporta nutrientes limitantes ($N$, $P$) y efectúa aireació
 ¿Qué cambio en la química del complejo de cambio del suelo genera la acidificación por acumuación de pinocha y cómo afecta a los cationes nutrientes ($Ca^{2+}$, $Mg^{2+}$, $K^+$)?
 
 ### Opciones
-- [ ] A) Aumenta el pH a 9,0 liberando grandes cantidades de carbonato de calcio.
+- [ ] B) Aumenta el pH a 9,0 liberando grandes cantidades de carbonato de calcio.
   <!-- feedback: Incorrecto. La hojarasca de coníferas acidifica el suelo, bajando el pH, no alcalinizándolo. -->
-- [x] B) El aumento de iones $H^+$ y $Al^{3+}$ desplaza a los cationes nutrientes ($Ca^{2+}$, $Mg^{2+}$, $K^+$) de las arcillas, favoreciendo su lixiviación.
+- [x] A) El aumento de iones $H^+$ y $Al^{3+}$ desplaza a los cationes nutrientes ($Ca^{2+}$, $Mg^{2+}$, $K^+$) de las arcillas, favoreciendo su lixiviación.
   <!-- feedback: Correcto. Los protones $H^+$ y el aluminio soluble ocupan los sitios de intercambio catiónico en las arcillas, lavando los nutrientes esenciales hacia el subsuelo. -->
 - [ ] C) Aumenta la capacidad de intercambio catiónico fijando todos los nutrientes de forma permanente.
   <!-- feedback: Incorrecto. La acidificación solubiliza aluminio tóxico y desabsorbe nutrientes básicos. -->
@@ -357,9 +357,9 @@ La acidificación incrementa la concentración de $H^+$ y $Al^{3+}$ solubles, de
 ### Opciones
 - [ ] A) Monóxido de carbono ($CO$) primario inodoro.
   <!-- feedback: Incorrecto. El $CO$ es un contaminante primario emitido por combustión incompleta. -->
-- [x] B) Ozono troposférico ($O_3$) y nitrato de peroxiacetilo (PAN).
+- [x] C) Ozono troposférico ($O_3$) y nitrato de peroxiacetilo (PAN).
   <!-- feedback: Correcto. La fotólisis del $NO_2$ producida por radiación solar en presencia de COVs genera $O_3$ troposférico y PAN. -->
-- [ ] C) Sulfato de amonio sólido cristalino de origen geotérmico.
+- [ ] B) Sulfato de amonio sólido cristalino de origen geotérmico.
   <!-- feedback: Incorrecto. No proviene de reacciones fotoquímicas de $NO_x$ y COVs. -->
 - [ ] D) Metano puro libre de la digestión entérica.
   <!-- feedback: Incorrecto. El metano es un hidrocarburo simple, no el oxidante secundario del smog fotoquímico. -->
@@ -378,9 +378,9 @@ El smog fotoquímico es una mezcla de contaminantes secundarios (destacando el $
 Si un compuesto 'A' presenta $K_{oc} = 10\text{ L/kg}$ y un compuesto 'B' presenta $K_{oc} = 5000\text{ L/kg}$, ¿cuál de los dos plaguicidas posee mayor potencial de contaminación de acuíferos por lixiviación?
 
 ### Opciones
-- [x] A) El compuesto 'A', porque su bajo $K_{oc}$ indica débil adsorción a la materia orgánica del suelo y alta movilidad en la fase acuosa.
+- [x] B) El compuesto 'A', porque su bajo $K_{oc}$ indica débil adsorción a la materia orgánica del suelo y alta movilidad en la fase acuosa.
   <!-- feedback: Correcto. A menor $K_{oc}$, menor retención en el suelo orgánico y mayor solubilidad/movilidad con el agua de infiltración hacia el acuífero. -->
-- [ ] B) El compuesto 'B', porque su elevado $K_{oc}$ hace que se volatilice al instante hacia el agua subterránea.
+- [ ] A) El compuesto 'B', porque su elevado $K_{oc}$ hace que se volatilice al instante hacia el agua subterránea.
   <!-- feedback: Incorrecto. Un $K_{oc}$ alto indica fuerte fijación a las partículas orgánicas del suelo, frenando su lixiviación. -->
 - [ ] C) Ambos compuestos poseen la misma movilidad pues el $K_{oc}$ no se relaciona con la lixiviación.
   <!-- feedback: Incorrecto. El $K_{oc}$ es el parámetro clave para predecir la movilidad de contaminantes orgánicos en el perfil del suelo. -->
@@ -401,13 +401,13 @@ El coeficiente $K_{oc}$ mide la afinidad de un compuesto sintético por la mater
 ¿Cuál es el tiempo crítico ($t_c = \frac{1}{k_2 - k_1} \ln \left( \frac{k_2}{k_1} \left( 1 - D_0 \frac{k_2 - k_1}{k_1 L_0} \right) \right)$) en días donde se alcanzará el déficit máximo de oxígeno en el cuerpo de agua?
 
 ### Opciones
-- [x] A) $t_c = 3{,}05\text{ días}$ ($t_c = \frac{1}{0{,}3} \ln \left( \frac{0{,}5}{0{,}2} \right) = 3{,}33 \times 0{,}916 = 3{,}05\text{ días}$).
+- [x] D) $t_c = 3{,}05\text{ días}$ ($t_c = \frac{1}{0{,}3} \ln \left( \frac{0{,}5}{0{,}2} \right) = 3{,}33 \times 0{,}916 = 3{,}05\text{ días}$).
   <!-- feedback: Correcto. Al ser $D_0 = 0$: $t_c = \frac{1}{0{,}5 - 0{,}2} \ln (0{,}5 / 0{,}2) = \frac{1}{0{,}3} \ln(2{,}5) = 3{,}333 \times 0{,}9163 = 3{,}05\text{ días}$. -->
-- [ ] B) $1{,}00\text{ día}$ ($t_c = 0{,}5 - 0{,}2$).
+- [ ] A) $1{,}00\text{ día}$ ($t_c = 0{,}5 - 0{,}2$).
   <!-- feedback: Incorrecto. Restó los coeficientes de tasa directamente omitiendo el cálculo logarítmico del modelo de Streeter-Phelps. -->
-- [ ] C) $10{,}00\text{ días}$ ($t_c = 20 / 2$).
+- [ ] B) $10{,}00\text{ días}$ ($t_c = 20 / 2$).
   <!-- feedback: Incorrecto. Dividió la DBO $L_0$ por un número arbitrario sin aplicar la ecuación diferencial integrada. -->
-- [ ] D) $0{,}10\text{ días}$ ($t_c = 0{,}2 / 2$).
+- [ ] C) $0{,}10\text{ días}$ ($t_c = 0{,}2 / 2$).
   <!-- feedback: Incorrecto. Sustitución matemática incorrecta de las constantes cinéticas. -->
 
 ### Explicacion Pedagogica
@@ -426,11 +426,11 @@ Si el sedimento pasa de un estado anóxico ($E_h < 0\text{ mV}$) a un estado alt
 ### Opciones
 - [ ] A) El $Cr(VI)$ se reduce a $Cr(III)$ insoluble, eliminando la toxicidad del sedimento.
   <!-- feedback: Incorrecto. La oxidación convierte el $Cr(III)$ benigno en $Cr(VI)$ extremadamente soluble y tóxico. -->
-- [x] B) El $Cr(III)$ relativamente insoluble y de baja toxicidad se oxida a $Cr(VI)$ (cromato $CrO_4^{2-}$), altamente soluble, mutagénico y carcinogénico.
+- [x] D) El $Cr(III)$ relativamente insoluble y de baja toxicidad se oxida a $Cr(VI)$ (cromato $CrO_4^{2-}$), altamente soluble, mutagénico y carcinogénico.
   <!-- feedback: Correcto. Las condiciones oxidantes y alcalinas favorecen la especie $Cr(VI)$, que penetra las membranas celulares vía transportadores de sulfato ejerciendo alta citotoxicidad. -->
-- [ ] C) El cromo elemental se evapora a la atmósfera en forma de cromo gaseoso inerte.
+- [ ] B) El cromo elemental se evapora a la atmósfera en forma de cromo gaseoso inerte.
   <!-- feedback: Incorrecto. El cromo no se volatiliza a temperatura ambiente en forma de gas. -->
-- [ ] D) El cromo muta en hierro ferroso disuelto reduciendo el pH a 1,0.
+- [ ] C) El cromo muta en hierro ferroso disuelto reduciendo el pH a 1,0.
   <!-- feedback: Incorrecto. La oxidación cambia el estado de oxidación del cromo, no altera su número atómico. -->
 
 ### Explicacion Pedagogica
@@ -447,9 +447,9 @@ El cromo hexavalente $Cr(VI)$ es una especie química móvil, fuertemente oxidan
 Si para la especie daphnia (*Daphnia magna*) se mide $PEC = 12\text{ }\mu\text{g/L}$ y $PNEC = 1{,}5\text{ }\mu\text{g/L}$, ¿cuál es el valor de $HQ$ y cuál es el veredicto de riesgo ecológico?
 
 ### Opciones
-- [x] A) $HQ = 8{,}0$; al ser $HQ > 1$, existe un riesgo ecológico significativo que exige medidas de mitigación.
+- [x] B) $HQ = 8{,}0$; al ser $HQ > 1$, existe un riesgo ecológico significativo que exige medidas de mitigación.
   <!-- feedback: Correcto. $HQ = 12 / 1{,}5 = 8{,}0$. Todo valor de $HQ > 1$ indica que la exposición ambiental supera el umbral seguro sin efecto, representando un riesgo inaceptable. -->
-- [ ] B) $HQ = 0{,}125$; al ser $HQ < 1$, el riesgo es despreciable y no requiere acción.
+- [ ] A) $HQ = 0{,}125$; al ser $HQ < 1$, el riesgo es despreciable y no requiere acción.
   <!-- feedback: Incorrecto. Invirtió la división ($1{,}5 / 12 = 0{,}125$). La fórmula es $PEC / PNEC$. -->
 - [ ] C) $HQ = 13{,}5$; riesgo moderado por suma directa de parámetros.
   <!-- feedback: Incorrecto. El cociente de peligro es la razón de concentraciones, no la suma de ellas. -->
@@ -472,11 +472,11 @@ En la evaluación del riesgo ecotoxicológico, un Cociente de Peligro ($HQ$) sup
 ### Opciones
 - [ ] A) Oxida el hierro a dióxido de carbono sintetizando más polímeros plásticos.
   <!-- feedback: Incorrecto. El $Fe^0$ actúa como reductor liberando electrones, desclorando el contaminante. -->
-- [x] B) El $Fe^0$ se oxida liberando electrones que reemplazan progresivamente los átomos de cloro del TCE por hidrógeno, transformándolo en etileno no tóxico y cloruro.
+- [x] D) El $Fe^0$ se oxida liberando electrones que reemplazan progresivamente los átomos de cloro del TCE por hidrógeno, transformándolo en etileno no tóxico y cloruro.
   <!-- feedback: Correcto. La descloración reductiva abiótica sobre $Fe^0$ convierte el compuesto organoclorado en etileno inofensivo mediante transferencia de electrones. -->
-- [ ] C) Sintetiza organofosforados de alta toxicidad para la microbiota aeróbica.
+- [ ] B) Sintetiza organofosforados de alta toxicidad para la microbiota aeróbica.
   <!-- feedback: Incorrecto. La reacción desclora el solvente halógeno sin introducir azufre o fósforo. -->
-- [ ] D) Provoca la polimerización del agua en hielo sintético a temperatura ambiente.
+- [ ] C) Provoca la polimerización del agua en hielo sintético a temperatura ambiente.
   <!-- feedback: Incorrecto. Es un proceso de óxido-reducción en fase acuosa que degrada el compuesto tóxico. -->
 
 ### Explicacion Pedagogica

@@ -30,8 +30,8 @@ bundle_index: 1
 
 ### Opciones
 - [ ] A) $a^{m \cdot n}$ <!-- feedback: Esta es la propiedad de la potencia de una potencia, no del producto de potencias de la misma base. -->
-- [x] B) $a^{m + n}$ <!-- feedback: Correcto. Al multiplicar potencias de la misma base, se mantiene la base y se suman los exponentes. -->
-- [ ] C) $a^{m - n}$ <!-- feedback: Esta propiedad corresponde a la división de potencias de la misma base. -->
+- [x] C) $a^{m + n}$ <!-- feedback: Correcto. Al multiplicar potencias de la misma base, se mantiene la base y se suman los exponentes. -->
+- [ ] B) $a^{m - n}$ <!-- feedback: Esta propiedad corresponde a la división de potencias de la misma base. -->
 - [ ] D) $(2a)^{m+n}$ <!-- feedback: La base no se multiplica; se mantiene constante. -->
 
 ### Explicacion Pedagogica
@@ -72,8 +72,8 @@ La notación de exponente fraccionario es esencial para unificar el tratamiento 
 
 ### Opciones
 - [ ] A) 2,5 m² <!-- feedback: Error al dividir la base por el índice en lugar de elevar al cuadrado. -->
-- [x] B) 5 m² <!-- feedback: Correcto. El área es el lado al cuadrado: $(\sqrt{5})^2 = 5$. -->
-- [ ] C) $\sqrt{10}$ m² <!-- feedback: Error al multiplicar el radicando por 2. -->
+- [x] C) 5 m² <!-- feedback: Correcto. El área es el lado al cuadrado: $(\sqrt{5})^2 = 5$. -->
+- [ ] B) $\sqrt{10}$ m² <!-- feedback: Error al multiplicar el radicando por 2. -->
 - [ ] D) 25 m² <!-- feedback: Error al elevar al cuadrado el radicando sin eliminar la raíz. -->
 
 ### Explicacion Pedagogica
@@ -114,8 +114,8 @@ Simplifica la expresión $(2^3)^2 \cdot 2^{-4}$.
 
 ### Opciones
 - [ ] A) 2^10 <!-- feedback: Error al sumar exponentes en lugar de multiplicar en la potencia de una potencia. -->
-- [x] B) 4 <!-- feedback: Correcto. $(2^3)^2 = 2^6$; $2^6 \cdot 2^{-4} = 2^2 = 4$. -->
-- [ ] C) 2 <!-- feedback: Error en la resta de los exponentes. -->
+- [x] C) 4 <!-- feedback: Correcto. $(2^3)^2 = 2^6$; $2^6 \cdot 2^{-4} = 2^2 = 4$. -->
+- [ ] B) 2 <!-- feedback: Error en la resta de los exponentes. -->
 - [ ] D) 1/4 <!-- feedback: Error de signo en el exponente final. -->
 
 ### Explicacion Pedagogica
@@ -135,8 +135,8 @@ Se aplica la propiedad de potencia de una potencia (multiplicar exponentes) y lu
 
 ### Opciones
 - [ ] A) 8 m³ <!-- feedback: Error al elevar el radicando al cubo sin considerar la raíz. -->
-- [ ] B) $\sqrt[3]{8}$ m³ <!-- feedback: Aunque es matemáticamente igual a 2, no es la forma simplificada. -->
-- [x] C) 2 m³ <!-- feedback: Correcto. El volumen es $(\sqrt[3]{2})^3 = 2$. -->
+- [ ] C) $\sqrt[3]{8}$ m³ <!-- feedback: Aunque es matemáticamente igual a 2, no es la forma simplificada. -->
+- [x] B) 2 m³ <!-- feedback: Correcto. El volumen es $(\sqrt[3]{2})^3 = 2$. -->
 - [ ] D) 4 m³ <!-- feedback: Error de cálculo en la potencia. -->
 
 ### Explicacion Pedagogica
@@ -177,8 +177,8 @@ Para sumar radicales, deben ser semejantes. Extraemos factores de $\sqrt{32}$ id
 
 ### Opciones
 - [ ] A) $45 \cdot 10^{-9}$ <!-- feedback: No es notación científica estándar (el coeficiente debe estar entre 1 y 10). -->
-- [x] B) $4,5 \cdot 10^{-8}$ <!-- feedback: Correcto. Movemos la coma 8 lugares a la derecha. -->
-- [ ] C) $4,5 \cdot 10^8$ <!-- feedback: El exponente debe ser negativo para números menores que 1. -->
+- [x] C) $4,5 \cdot 10^{-8}$ <!-- feedback: Correcto. Movemos la coma 8 lugares a la derecha. -->
+- [ ] B) $4,5 \cdot 10^8$ <!-- feedback: El exponente debe ser negativo para números menores que 1. -->
 - [ ] D) $0,45 \cdot 10^{-7}$ <!-- feedback: El coeficiente debe ser mayor o igual a 1. -->
 
 ### Explicacion Pedagogica
@@ -198,9 +198,9 @@ La notación científica requiere un coeficiente entre 1 (incluido) y 10 (exclui
 
 ### Opciones
 - [ ] A) Sumando los índices y los radicandos. <!-- feedback: Esto no permite comparar magnitudes. -->
-- [x] B) Reduciendo ambos radicales a un índice común. <!-- feedback: Correcto. El mínimo común múltiplo de los índices (2 y 3) es 6. -->
-- [ ] C) Elevando ambos al cuadrado únicamente. <!-- feedback: Elevar al cuadrado no elimina la raíz cúbica. -->
-- [ ] D) Restando los radicandos. <!-- feedback: No es un método válido de comparación. -->
+- [x] D) Reduciendo ambos radicales a un índice común. <!-- feedback: Correcto. El mínimo común múltiplo de los índices (2 y 3) es 6. -->
+- [ ] B) Elevando ambos al cuadrado únicamente. <!-- feedback: Elevar al cuadrado no elimina la raíz cúbica. -->
+- [ ] C) Restando los radicandos. <!-- feedback: No es un método válido de comparación. -->
 
 ### Explicacion Pedagogica
 Para comparar radicales de distinto índice, se reducen a índice común (m.c.m. de los índices). $\sqrt{2} = \sqrt[6]{2^3} = \sqrt[6]{8}$ y $\sqrt[3]{3} = \sqrt[6]{3^2} = \sqrt[6]{9}$. Así, $\sqrt[3]{3} > \sqrt{2}$.
@@ -218,9 +218,9 @@ Para comparar radicales de distinto índice, se reducen a índice común (m.c.m.
 Si la fórmula del volumen es $V = \frac{4}{3}\pi r^3$, ¿cuál es el volumen de la perla?
 
 ### Opciones
-- [x] A) $4\pi$ cm³ <!-- feedback: Correcto. $r^3 = $(\sqrt[3]{3})^3 = 3$. Entonces $V = (4/3)\pi \cdot 3 = 4\pi$. -->
-- [ ] B) $3\pi$ cm³ <!-- feedback: Error al simplificar el 3 de la fórmula con el radio. -->
-- [ ] C) $\frac{4}{3}\pi$ cm³ <!-- feedback: Se ha olvidado multiplicar por el cubo del radio. -->
+- [x] C) $4\pi$ cm³ <!-- feedback: Correcto. $r^3 = $(\sqrt[3]{3})^3 = 3$. Entonces $V = (4/3)\pi \cdot 3 = 4\pi$. -->
+- [ ] A) $3\pi$ cm³ <!-- feedback: Error al simplificar el 3 de la fórmula con el radio. -->
+- [ ] B) $\frac{4}{3}\pi$ cm³ <!-- feedback: Se ha olvidado multiplicar por el cubo del radio. -->
 - [ ] D) $12\pi$ cm³ <!-- feedback: Error al multiplicar los coeficientes. -->
 
 ### Explicacion Pedagogica
@@ -240,8 +240,8 @@ Racionaliza la expresión $\frac{6}{\sqrt{3}}$. ¿Cuál es el resultado simplifi
 
 ### Opciones
 - [ ] A) $6\sqrt{3}$ <!-- feedback: Falta dividir por el radicando resultante en el denominador. -->
-- [ ] B) $3\sqrt{6}$ <!-- feedback: Confusión entre los valores del numerador y el radicando. -->
-- [x] C) $2\sqrt{3}$ <!-- feedback: Correcto. Al multiplicar por $\sqrt{3}/\sqrt{3}$ obtenemos $6\sqrt{3}/3 = 2\sqrt{3}$. -->
+- [ ] C) $3\sqrt{6}$ <!-- feedback: Confusión entre los valores del numerador y el radicando. -->
+- [x] B) $2\sqrt{3}$ <!-- feedback: Correcto. Al multiplicar por $\sqrt{3}/\sqrt{3}$ obtenemos $6\sqrt{3}/3 = 2\sqrt{3}$. -->
 - [ ] D) $\sqrt{2}$ <!-- feedback: Error total en la simplificación. -->
 
 ### Explicacion Pedagogica
@@ -261,9 +261,9 @@ Simplifica la expresión resultante en términos de una potencia de $a$.
 
 ### Opciones
 - [ ] A) $a^3$ <!-- feedback: Error al dividir el exponente total por el índice de forma incorrecta. -->
-- [x] B) $a^2$ <!-- feedback: Correcto. Sumamos los exponentes de los radicandos bajo la misma raíz cúbica: $\sqrt[3]{a^6} = a^2$. -->
-- [ ] C) $a^6$ <!-- feedback: Error al no aplicar la raíz al exponente. -->
-- [ ] D) $a^{8/3}$ <!-- feedback: Se han multiplicado los exponentes en lugar de sumarlos. -->
+- [x] D) $a^2$ <!-- feedback: Correcto. Sumamos los exponentes de los radicandos bajo la misma raíz cúbica: $\sqrt[3]{a^6} = a^2$. -->
+- [ ] B) $a^6$ <!-- feedback: Error al no aplicar la raíz al exponente. -->
+- [ ] C) $a^{8/3}$ <!-- feedback: Se han multiplicado los exponentes en lugar de sumarlos. -->
 
 ### Explicacion Pedagogica
 Cuando los radicales tienen el mismo índice, se pueden multiplicar sus radicandos. $\sqrt[3]{a^2 \cdot a^4} = \sqrt[3]{a^6}$. Dividiendo el exponente por el índice obtenemos $a^2$.
@@ -281,8 +281,8 @@ Cuando los radicales tienen el mismo índice, se pueden multiplicar sus radicand
 ¿Cuál es el factor racionalizante adecuado para la expresión $\frac{1}{\sqrt{5} - \sqrt{2}}$?
 
 ### Opciones
-- [ ] A) $\sqrt{5} - \sqrt{2}$ <!-- feedback: Multiplicar por el mismo signo no eliminaría las raíces (daría un binomio al cuadrado). -->
-- [x] B) $\sqrt{5} + \sqrt{2}$ <!-- feedback: Correcto. Se usa el conjugado para aplicar la identidad de diferencia de cuadrados $(a-b)(a+b) = a^2 - b^2$. -->
+- [ ] B) $\sqrt{5} - \sqrt{2}$ <!-- feedback: Multiplicar por el mismo signo no eliminaría las raíces (daría un binomio al cuadrado). -->
+- [x] A) $\sqrt{5} + \sqrt{2}$ <!-- feedback: Correcto. Se usa el conjugado para aplicar la identidad de diferencia de cuadrados $(a-b)(a+b) = a^2 - b^2$. -->
 - [ ] C) $\sqrt{3}$ <!-- feedback: Multiplicar por una sola raíz no elimina el binomio del denominador. -->
 - [ ] D) $5 - 2$ <!-- feedback: Este es el resultado buscado en el denominador, no el factor para multiplicar. -->
 
@@ -303,8 +303,8 @@ Simplifica la expresión (asume $x > 0$).
 
 ### Opciones
 - [ ] A) $4x^2$ <!-- feedback: Se ha calculado la raíz cuadrada de 16, no la cuarta. -->
-- [x] B) $2x^2$ <!-- feedback: Correcto. $\sqrt[4]{16} = 2$ y $\sqrt[4]{x^8} = x^{8/4} = x^2$. -->
-- [ ] C) $2x^4$ <!-- feedback: Error al dividir el exponente por el índice. -->
+- [x] C) $2x^2$ <!-- feedback: Correcto. $\sqrt[4]{16} = 2$ y $\sqrt[4]{x^8} = x^{8/4} = x^2$. -->
+- [ ] B) $2x^4$ <!-- feedback: Error al dividir el exponente por el índice. -->
 - [ ] D) $4x^4$ <!-- feedback: Múltiples errores en el cálculo de raíces. -->
 
 ### Explicacion Pedagogica
@@ -325,8 +325,8 @@ Simplifica la expresión $\sqrt{x\sqrt{x}}$.
 ### Opciones
 - [ ] A) $x$ <!-- feedback: Error al ignorar la estructura de los radicales. -->
 - [ ] B) $\sqrt[3]{x^2}$ <!-- feedback: Error en el cálculo del índice o los exponentes. -->
-- [x] C) $\sqrt[4]{x^3}$ <!-- feedback: Correcto. $\sqrt{x \cdot x^{1/2}} = \sqrt{x^{3/2}} = (x^{3/2})^{1/2} = x^{3/4} = \sqrt[4]{x^3}$. -->
-- [ ] D) $\sqrt[4]{x^2}$ <!-- feedback: Error al sumar los exponentes internos. -->
+- [x] D) $\sqrt[4]{x^3}$ <!-- feedback: Correcto. $\sqrt{x \cdot x^{1/2}} = \sqrt{x^{3/2}} = (x^{3/2})^{1/2} = x^{3/4} = \sqrt[4]{x^3}$. -->
+- [ ] C) $\sqrt[4]{x^2}$ <!-- feedback: Error al sumar los exponentes internos. -->
 
 ### Explicacion Pedagogica
 Convertimos los radicales a exponentes fraccionarios de dentro hacia afuera. $x \cdot \sqrt{x} = x^1 \cdot x^{1/2} = x^{3/2}$. Aplicando la raíz exterior: $(x^{3/2})^{1/2} = x^{3/4}$, que en radical es $\sqrt[4]{x^3}$.
@@ -345,9 +345,9 @@ Convertimos los radicales a exponentes fraccionarios de dentro hacia afuera. $x 
 
 ### Opciones
 - [ ] A) $50\sqrt{10}$ <!-- feedback: Error al extraer el factor; se dividió por 10 en lugar de 100. -->
-- [x] B) $10\sqrt{5}$ <!-- feedback: Correcto. $\sqrt{500} = \sqrt{100 \cdot 5} = 10\sqrt{5}$. -->
-- [ ] C) $5\sqrt{10}$ <!-- feedback: Error al identificar el cuadrado perfecto. -->
-- [ ] D) $100\sqrt{5}$ <!-- feedback: No se extrajo la raíz del factor 100. -->
+- [x] D) $10\sqrt{5}$ <!-- feedback: Correcto. $\sqrt{500} = \sqrt{100 \cdot 5} = 10\sqrt{5}$. -->
+- [ ] B) $5\sqrt{10}$ <!-- feedback: Error al identificar el cuadrado perfecto. -->
+- [ ] C) $100\sqrt{5}$ <!-- feedback: No se extrajo la raíz del factor 100. -->
 
 ### Explicacion Pedagogica
 Para simplificar un radical, descomponemos el radicando en factores, buscando el mayor cuadrado perfecto (en este caso 100). Extraemos su raíz fuera del radical.
@@ -366,9 +366,9 @@ Si $3^{x+1} = \sqrt{27}$, ¿cuál es el valor de $x$?
 
 ### Opciones
 - [ ] A) 1 <!-- feedback: $3^{1+1} = 9$, mientras que $\sqrt{27}$ es $3\sqrt{3} \approx 5,2$. -->
-- [x] B) 0,5 <!-- feedback: Correcto. $\sqrt{27} = \sqrt{3^3} = 3^{3/2} = 3^{1,5}$. Entonces $x+1 = 1,5 \Rightarrow x=0,5$. -->
-- [ ] C) 2 <!-- feedback: Daría un resultado mucho mayor. -->
-- [ ] D) 1,5 <!-- feedback: Este es el exponente total, no el valor de x. -->
+- [x] D) 0,5 <!-- feedback: Correcto. $\sqrt{27} = \sqrt{3^3} = 3^{3/2} = 3^{1,5}$. Entonces $x+1 = 1,5 \Rightarrow x=0,5$. -->
+- [ ] B) 2 <!-- feedback: Daría un resultado mucho mayor. -->
+- [ ] C) 1,5 <!-- feedback: Este es el exponente total, no el valor de x. -->
 
 ### Explicacion Pedagogica
 Igualamos las bases de la ecuación exponencial. $\sqrt{27} = 27^{1/2} = (3^3)^{1/2} = 3^{3/2}$. Al tener la misma base, igualamos los exponentes: $x+1 = 3/2$, por lo tanto $x = 1/2 = 0,5$.
@@ -408,9 +408,9 @@ Simplifica la expresión $\frac{\sqrt[3]{a} \cdot \sqrt{a}}{\sqrt[6]{a^5}}$.
 
 ### Opciones
 - [ ] A) $a$ <!-- feedback: Los exponentes no suman 1. -->
-- [x] B) 1 <!-- feedback: Correcto. Exponentes: $1/3 + 1/2 = 2/6 + 3/6 = 5/6$. Numerador: $a^{5/6}$. Dividido por $a^{5/6}$ da 1. -->
-- [ ] C) $a^{1/6}$ <!-- feedback: Error en la suma o resta de exponentes fraccionarios. -->
-- [ ] D) 0 <!-- feedback: El cociente de potencias no nulas nunca es cero. -->
+- [x] D) 1 <!-- feedback: Correcto. Exponentes: $1/3 + 1/2 = 2/6 + 3/6 = 5/6$. Numerador: $a^{5/6}$. Dividido por $a^{5/6}$ da 1. -->
+- [ ] B) $a^{1/6}$ <!-- feedback: Error en la suma o resta de exponentes fraccionarios. -->
+- [ ] C) 0 <!-- feedback: El cociente de potencias no nulas nunca es cero. -->
 
 ### Explicacion Pedagogica
 Convertimos a exponentes fraccionarios: $a^{1/3} \cdot a^{1/2} = a^{1/3+1/2} = a^{5/6}$. Como el denominador es también $\sqrt[6]{a^5} = a^{5/6}$, el cociente es igual a la unidad.
@@ -429,9 +429,9 @@ Convertimos a exponentes fraccionarios: $a^{1/3} \cdot a^{1/2} = a^{1/3+1/2} = a
 
 ### Opciones
 - [ ] A) -4 <!-- feedback: El cuadrado de -8 es 64, cuya raíz cúbica es 4 positiva. -->
-- [x] B) 4 <!-- feedback: Correcto. $(-8)^2 = 64$. $\sqrt[3]{64} = 4$. -->
-- [ ] C) No existe en los reales <!-- feedback: El radicando tras elevar al cuadrado es positivo, por lo que la raíz existe. -->
-- [ ] D) 16 <!-- feedback: Error en el cálculo de la raíz cúbica. -->
+- [x] D) 4 <!-- feedback: Correcto. $(-8)^2 = 64$. $\sqrt[3]{64} = 4$. -->
+- [ ] B) No existe en los reales <!-- feedback: El radicando tras elevar al cuadrado es positivo, por lo que la raíz existe. -->
+- [ ] C) 16 <!-- feedback: Error en el cálculo de la raíz cúbica. -->
 
 ### Explicacion Pedagogica
 Siguiendo la jerarquía, primero elevamos al cuadrado: $(-8)^2 = 64$. Luego calculamos la raíz cúbica de 64, que es 4, ya que $4^3 = 64$.

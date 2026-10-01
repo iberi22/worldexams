@@ -34,11 +34,11 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Qué falacia lógica o sesgo argumentativo se evidencia?
 
 ### Opciones
-- [x] A) Falacia del falso dilema
+- [x] C) Falacia del falso dilema
   <!-- feedback: ¡Correcto! Reduce un problema socioeconómico complejo a solo dos alternativas extremas excluyendo soluciones intermedias. -->
-- [ ] B) Falacia ad hominem
+- [ ] A) Falacia ad hominem
   <!-- feedback: Incorrecto. No se ataca a la persona de ningún interlocutor. -->
-- [ ] C) Falacia de apelación a la autoridad
+- [ ] B) Falacia de apelación a la autoridad
   <!-- feedback: Incorrecto. No apoya su argumento en el prestigio de un tercero. -->
 - [ ] D) Falacia de generalización apresurada
   <!-- feedback: Incorrecto. No concluye a partir de una muestra de datos. -->
@@ -58,9 +58,9 @@ El falso dilema fuerza al interlocutor a elegir entre dos opciones polares opues
 ¿Qué recurso persuasivo engañoso se utiliza?
 
 ### Opciones
-- [x] A) Falacia de apelación a la falsa autoridad
+- [x] B) Falacia de apelación a la falsa autoridad
   <!-- feedback: ¡Correcto! Utiliza el prestigio de una figura del espectáculo en un tema médico-nutricional ajeno a su competencia. -->
-- [ ] B) Falacia de causa falsa
+- [ ] A) Falacia de causa falsa
   <!-- feedback: Incorrecto. No establece una relación causa-efecto temporal errónea. -->
 - [ ] C) Falacia ad populum
   <!-- feedback: Incorrecto. No argumenta que la mayoría consuma el producto. -->
@@ -82,13 +82,13 @@ Apelar a una falsa autoridad consiste en justificar la calidad de una afirmació
 ¿Qué estrategia de desacreditación personal se aplica?
 
 ### Opciones
-- [x] A) Falacia ad hominem de ataque personal
+- [x] D) Falacia ad hominem de ataque personal
   <!-- feedback: ¡Correcto! Ataca la condición o procedencia del emisor para descalificar su argumento en lugar de refutar la propuesta. -->
-- [ ] B) Falacia de petición de principio
+- [ ] A) Falacia de petición de principio
   <!-- feedback: Incorrecto. No incurre en un argumento circular. -->
-- [ ] C) Falacia de la pendiente resbaladiza
+- [ ] B) Falacia de la pendiente resbaladiza
   <!-- feedback: Incorrecto. No describe una cadena catastrófica de eventos. -->
-- [ ] D) Falacia ad ignorantiam
+- [ ] C) Falacia ad ignorantiam
   <!-- feedback: Incorrecto. No sostiene que algo sea cierto por no haberse probado falso. -->
 
 ### Explicacion Pedagogica
@@ -106,11 +106,11 @@ La falacia ad hominem pretende invalidar una idea dirigiendo el ataque hacia los
 ¿Qué tipo de manipulación discursiva se comete?
 
 ### Opciones
-- [x] A) Sesgo por omisión de datos contrastantes
+- [x] C) Sesgo por omisión de datos contrastantes
   <!-- feedback: ¡Correcto! Presenta una visión unilateral positiva ocultando los costos sociales o impactos colaterales. -->
-- [ ] B) Uso de metáforas poéticas
+- [ ] A) Uso de metáforas poéticas
   <!-- feedback: Incorrecto. No se trata de un recurso de estética lírica. -->
-- [ ] C) Demostración axiomática rigurosa
+- [ ] B) Demostración axiomática rigurosa
   <!-- feedback: Incorrecto. Carece de la neutralidad requerida en un informe objetivo. -->
 - [ ] D) Traducción literal neutra
   <!-- feedback: Incorrecto. Contiene un sesgo deliberado de selección de información. -->
@@ -130,13 +130,13 @@ El sesgo por omisión selecciona únicamente la información conveniente al emis
 ¿Qué falacia inductiva presenta el texto?
 
 ### Opciones
-- [x] A) Falacia de generalización apresurada
+- [x] D) Falacia de generalización apresurada
   <!-- feedback: ¡Correcto! Extrae una conclusión universal sobre toda la juventud a partir de una muestra insuficiente de dos personas. -->
-- [ ] B) Falacia ad antiquitatem
+- [ ] A) Falacia ad antiquitatem
   <!-- feedback: Incorrecto. No justifica una acción por tradición antigua. -->
-- [ ] C) Falacia de falso dilema
+- [ ] B) Falacia de falso dilema
   <!-- feedback: Incorrecto. No limita las opciones a dos alternativas. -->
-- [ ] D) Falacia de apelación a la piedad
+- [ ] C) Falacia de apelación a la piedad
   <!-- feedback: Incorrecto. No busca despertar compasión o lástima. -->
 
 ### Explicacion Pedagogica
@@ -178,11 +178,11 @@ La falacia ad populum sostiene que una afirmación es verdadera o válida respal
 ¿Qué falacia de apelación a la costumbre se invoca?
 
 ### Opciones
-- [x] A) Falacia ad antiquitatem o de la tradición
+- [x] C) Falacia ad antiquitatem o de la tradición
   <!-- feedback: ¡Correcto! Justifica la validez de una norma únicamente por su antigüedad e inercia histórica. -->
-- [ ] B) Falacia de la pendiente resbaladiza
+- [ ] A) Falacia de la pendiente resbaladiza
   <!-- feedback: Incorrecto. No describe consecuencias en cadena. -->
-- [ ] C) Falacia del hombre de paja
+- [ ] B) Falacia del hombre de paja
   <!-- feedback: Incorrecto. No tergiversa la postura del oponente. -->
 - [ ] D) Falacia ad novitatem
   <!-- feedback: Incorrecto. No sostiene que algo sea mejor por ser nuevo. -->
@@ -226,9 +226,9 @@ La pendiente resbaladiza presupone un encadenamiento inexorable de efectos negat
 ¿Qué falacia sobre la prueba se evidencia?
 
 ### Opciones
-- [x] A) Falacia ad ignorantiam o apelación a la ignorancia
+- [x] B) Falacia ad ignorantiam o apelación a la ignorancia
   <!-- feedback: ¡Correcto! Dar por probada una afirmación solo porque no se ha demostrado formalmente su falsedad. -->
-- [ ] B) Falacia ad populum
+- [ ] A) Falacia ad populum
   <!-- feedback: Incorrecto. No apela a la opinión de las masas. -->
 - [ ] C) Falacia de causa falsa
   <!-- feedback: Incorrecto. No relaciona eventos temporales. -->
@@ -250,13 +250,13 @@ La falacia ad ignorantiam pretende que una afirmación es verdadera basándose e
 ¿Qué error de razonamiento circular se identifica?
 
 ### Opciones
-- [x] A) Falacia de petición de principio o argumento circular
+- [x] D) Falacia de petición de principio o argumento circular
   <!-- feedback: ¡Correcto! Repite la premisa inicial en la conclusión sin aportar razones independientes. -->
-- [ ] B) Falacia ad hominem
+- [ ] A) Falacia ad hominem
   <!-- feedback: Incorrecto. No ataca a ninguna persona. -->
-- [ ] C) Falacia de la pendiente resbaladiza
+- [ ] B) Falacia de la pendiente resbaladiza
   <!-- feedback: Incorrecto. No augura catástrofes sucesivas. -->
-- [ ] D) Falacia ad baculum
+- [ ] C) Falacia ad baculum
   <!-- feedback: Incorrecto. No recurre a la fuerza o intimidación. -->
 
 ### Explicacion Pedagogica
@@ -274,13 +274,13 @@ La petición de principio asume como probado en las premisas lo mismo que se pre
 ¿Qué estrategia sensacionalista emplean los medios?
 
 ### Opciones
-- [x] A) Sensacionalismo o amarillismo mediático
+- [x] D) Sensacionalismo o amarillismo mediático
   <!-- feedback: ¡Correcto! Exagera de forma desproporcionada el titular para atraer al público mediante el morbo. -->
-- [ ] B) Periodismo de investigación riguroso
+- [ ] A) Periodismo de investigación riguroso
   <!-- feedback: Incorrecto. El cuerpo del texto no demuestra la acusación del titular. -->
-- [ ] C) Crónica literaria de viaje
+- [ ] B) Crónica literaria de viaje
   <!-- feedback: Incorrecto. No es un relato de costumbres ni desplazamientos. -->
-- [ ] D) Ensayo filosófico académico
+- [ ] C) Ensayo filosófico académico
   <!-- feedback: Incorrecto. No es una reflexión conceptual estructurada. -->
 
 ### Explicacion Pedagogica
@@ -298,11 +298,11 @@ El sensacionalismo mediático deforma la jerarquía informativa usando titulares
 ¿Qué recurso léxico-persuasivo se aplica?
 
 ### Opciones
-- [x] A) Uso de eufemismos persuasivos
+- [x] C) Uso de eufemismos persuasivos
   <!-- feedback: ¡Correcto! Suaviza o disfraza una realidad desfavorable mediante términos de menor impacto emotivo. -->
-- [ ] B) Uso de disfemismos peyorativos
+- [ ] A) Uso de disfemismos peyorativos
   <!-- feedback: Incorrecto. El disfemismo busca enfatizar lo negativo de forma cruda. -->
-- [ ] C) Uso de metáforas poéticas líricas
+- [ ] B) Uso de metáforas poéticas líricas
   <!-- feedback: Incorrecto. No tiene una intención estética sino administrativa. -->
 - [ ] D) Uso de jerga juvenil coloquial
   <!-- feedback: Incorrecto. Es un lenguaje formal burocrático. -->
@@ -322,9 +322,9 @@ El eufemismo sustituye una palabra de connotación negativa o dura por una expre
 ¿Qué estrategia del discurso político se evidencia?
 
 ### Opciones
-- [x] A) Uso de palabras eslogan vacías de contenido
+- [x] B) Uso de palabras eslogan vacías de contenido
   <!-- feedback: ¡Correcto! Apela a la emotividad del auditorio mediante conceptos abstractos sin sustento propositivo. -->
-- [ ] B) Demostración estadística empírica
+- [ ] A) Demostración estadística empírica
   <!-- feedback: Incorrecto. Carece por completo de datos cuantitativos. -->
 - [ ] C) Argumentación científica axiomática
   <!-- feedback: Incorrecto. No utiliza el método deductivo científico. -->
@@ -394,13 +394,13 @@ El debate democrático exige respetar la alternancia en el uso de la palabra y e
 ¿Qué nivel del lenguaje destaca en este escrito publicitario?
 
 ### Opciones
-- [x] A) Lenguaje valorativo altamente connotativo
+- [x] D) Lenguaje valorativo altamente connotativo
   <!-- feedback: ¡Correcto! Sugestiona positivamente la percepción del lector mediante adjetivación afectiva. -->
-- [ ] B) Lenguaje técnico denotativo neutro
+- [ ] A) Lenguaje técnico denotativo neutro
   <!-- feedback: Incorrecto. El texto no busca la neutralidad de un informe geográfico. -->
-- [ ] C) Lenguaje jurídico normativo
+- [ ] B) Lenguaje jurídico normativo
   <!-- feedback: Incorrecto. No establece artículos ni sanciones legales. -->
-- [ ] D) Lenguaje algebraico abstracto
+- [ ] C) Lenguaje algebraico abstracto
   <!-- feedback: Incorrecto. No utiliza fórmulas ni variables numéricas. -->
 
 ### Explicacion Pedagogica
@@ -418,13 +418,13 @@ La publicidad turística recurre al lenguaje connotativo y a los adjetivos ponde
 ¿Qué maniobra evasiva se ejecuta en la respuesta?
 
 ### Opciones
-- [x] A) Técnica de evasión o 'cortina de humo'
+- [x] D) Técnica de evasión o 'cortina de humo'
   <!-- feedback: ¡Correcto! Desvía la atención del tema central hacia un asunto irrelevante para evitar dar explicaciones. -->
-- [ ] B) Respuesta directa fundamentada
+- [ ] A) Respuesta directa fundamentada
   <!-- feedback: Incorrecto. Evitó por completo abordar la pregunta formulada. -->
-- [ ] C) Análisis estadístico riguroso
+- [ ] B) Análisis estadístico riguroso
   <!-- feedback: Incorrecto. No aportó datos sobre el tema de corrupción. -->
-- [ ] D) Conclusión silogística válida
+- [ ] C) Conclusión silogística válida
   <!-- feedback: Incorrecto. No construyó ningún razonamiento sobre la pregunta. -->
 
 ### Explicacion Pedagogica
@@ -442,11 +442,11 @@ La cortina de humo o maniobra evasiva sustituye la respuesta requerida por un di
 ¿Qué mecanismo psicológico de persuasión aplica?
 
 ### Opciones
-- [x] A) Asociación de transferencia emotiva
+- [x] C) Asociación de transferencia emotiva
   <!-- feedback: ¡Correcto! Vincula valores positivos del inconsciente (familia, naturaleza) con un bien comercial. -->
-- [ ] B) Demostración científica de laboratorio
+- [ ] A) Demostración científica de laboratorio
   <!-- feedback: Incorrecto. No presenta pruebas químicas del producto. -->
-- [ ] C) Argumentación lógica deductiva
+- [ ] B) Argumentación lógica deductiva
   <!-- feedback: Incorrecto. No construye premisas sobre la fórmula del limpiador. -->
 - [ ] D) Evaluación técnica de impacto ambiental
   <!-- feedback: Incorrecto. No analiza el efecto químico del producto en el agua. -->
@@ -466,9 +466,9 @@ La publicidad asociativa transfiere las emociones positivas evocadas por una ima
 ¿Qué trampa presuposicional contiene la formulación de la pregunta?
 
 ### Opciones
-- [x] A) Pregunta compleja o presuposición tramposa
+- [x] B) Pregunta compleja o presuposición tramposa
   <!-- feedback: ¡Correcto! Da por sentada una acusación previa implícita (que el entrevistado ocultaba información). -->
-- [ ] B) Pregunta neutra abierta
+- [ ] A) Pregunta neutra abierta
   <!-- feedback: Incorrecto. No es imparcial pues fuerza una admisión implícita. -->
 - [ ] C) Pregunta de opción múltiple excluyente
   <!-- feedback: Incorrecto. No ofrece alternativas de respuesta. -->
@@ -490,9 +490,9 @@ La pregunta compleja encierra una presuposición no demostrada de modo que cualq
 ¿Qué perspectiva del análisis textual se está implementando?
 
 ### Opciones
-- [x] A) Análisis ideológico del discurso
+- [x] B) Análisis ideológico del discurso
   <!-- feedback: ¡Correcto! Identifica y cuestiona las estructuras de poder y prejuicios culturales naturalizados. -->
-- [ ] B) Análisis métrico de versificación
+- [ ] A) Análisis métrico de versificación
   <!-- feedback: Incorrecto. Los textos escolares en prosa no poseen métrica poética. -->
 - [ ] C) Análisis fonético de pronunciación
   <!-- feedback: Incorrecto. No estudia la emisión de sonidos vocálicos. -->

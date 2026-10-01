@@ -49,8 +49,8 @@ La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(1^2 + 3^2 + 5^
 Un vector en $\mathbb{R}^3$ está dado por $\vec{v} = (2, 4, 6)$. ¿Cuál es la magnitud $|\vec{v}|$?
 
 ### Opciones
-- [x] A) $\sqrt{56}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(2^2 + 4^2 + 6^2) = sqrt(56). -->
-- [ ] B) $12$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
+- [x] B) $\sqrt{56}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(2^2 + 4^2 + 6^2) = sqrt(56). -->
+- [ ] A) $12$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
 - [ ] C) $56$ unidades <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado. -->
 - [ ] D) $\sqrt{68}$ unidades <!-- feedback: Incorrecto. Calculaste mal la suma de los cuadrados. -->
 
@@ -68,8 +68,8 @@ La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(2^2 + 4^2 + 6^
 Un vector en $\mathbb{R}^3$ está dado por $\vec{v} = (3, 5, 7)$. ¿Cuál es la magnitud $|\vec{v}|$?
 
 ### Opciones
-- [x] A) $\sqrt{83}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(3^2 + 5^2 + 7^2) = sqrt(83). -->
-- [ ] B) $15$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
+- [x] B) $\sqrt{83}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(3^2 + 5^2 + 7^2) = sqrt(83). -->
+- [ ] A) $15$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
 - [ ] C) $83$ unidades <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado. -->
 - [ ] D) $\sqrt{95}$ unidades <!-- feedback: Incorrecto. Calculaste mal la suma de los cuadrados. -->
 
@@ -87,9 +87,9 @@ La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(3^2 + 5^2 + 7^
 Un vector en $\mathbb{R}^3$ está dado por $\vec{v} = (4, 6, 8)$. ¿Cuál es la magnitud $|\vec{v}|$?
 
 ### Opciones
-- [x] A) $\sqrt{116}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(4^2 + 6^2 + 8^2) = sqrt(116). -->
-- [ ] B) $18$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
-- [ ] C) $116$ unidades <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado. -->
+- [x] C) $\sqrt{116}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(4^2 + 6^2 + 8^2) = sqrt(116). -->
+- [ ] A) $18$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
+- [ ] B) $116$ unidades <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado. -->
 - [ ] D) $\sqrt{128}$ unidades <!-- feedback: Incorrecto. Calculaste mal la suma de los cuadrados. -->
 
 ### Explicacion Pedagogica
@@ -106,10 +106,10 @@ La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(4^2 + 6^2 + 8^
 Un vector en $\mathbb{R}^3$ está dado por $\vec{v} = (5, 7, 9)$. ¿Cuál es la magnitud $|\vec{v}|$?
 
 ### Opciones
-- [x] A) $\sqrt{155}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(5^2 + 7^2 + 9^2) = sqrt(155). -->
-- [ ] B) $21$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
-- [ ] C) $155$ unidades <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado. -->
-- [ ] D) $\sqrt{167}$ unidades <!-- feedback: Incorrecto. Calculaste mal la suma de los cuadrados. -->
+- [x] D) $\sqrt{155}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(5^2 + 7^2 + 9^2) = sqrt(155). -->
+- [ ] A) $21$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
+- [ ] B) $155$ unidades <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado. -->
+- [ ] C) $\sqrt{167}$ unidades <!-- feedback: Incorrecto. Calculaste mal la suma de los cuadrados. -->
 
 ### Explicacion Pedagogica
 La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(5^2 + 7^2 + 9^2) = sqrt(155) unidades.
@@ -125,9 +125,9 @@ La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(5^2 + 7^2 + 9^
 Un vector en $\mathbb{R}^3$ está dado por $\vec{v} = (6, 8, 10)$. ¿Cuál es la magnitud $|\vec{v}|$?
 
 ### Opciones
-- [x] A) $\sqrt{200}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(6^2 + 8^2 + 10^2) = sqrt(200). -->
-- [ ] B) $24$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
-- [ ] C) $200$ unidades <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado. -->
+- [x] C) $\sqrt{200}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(6^2 + 8^2 + 10^2) = sqrt(200). -->
+- [ ] A) $24$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
+- [ ] B) $200$ unidades <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado. -->
 - [ ] D) $\sqrt{212}$ unidades <!-- feedback: Incorrecto. Calculaste mal la suma de los cuadrados. -->
 
 ### Explicacion Pedagogica
@@ -144,10 +144,10 @@ La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(6^2 + 8^2 + 10
 Un vector en $\mathbb{R}^3$ está dado por $\vec{v} = (7, 9, 11)$. ¿Cuál es la magnitud $|\vec{v}|$?
 
 ### Opciones
-- [x] A) $\sqrt{251}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(7^2 + 9^2 + 11^2) = sqrt(251). -->
-- [ ] B) $27$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
-- [ ] C) $251$ unidades <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado. -->
-- [ ] D) $\sqrt{263}$ unidades <!-- feedback: Incorrecto. Calculaste mal la suma de los cuadrados. -->
+- [x] D) $\sqrt{251}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(7^2 + 9^2 + 11^2) = sqrt(251). -->
+- [ ] A) $27$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
+- [ ] B) $251$ unidades <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado. -->
+- [ ] C) $\sqrt{263}$ unidades <!-- feedback: Incorrecto. Calculaste mal la suma de los cuadrados. -->
 
 ### Explicacion Pedagogica
 La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(7^2 + 9^2 + 11^2) = sqrt(251) unidades.
@@ -163,9 +163,9 @@ La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(7^2 + 9^2 + 11
 Un vector en $\mathbb{R}^3$ está dado por $\vec{v} = (8, 10, 12)$. ¿Cuál es la magnitud $|\vec{v}|$?
 
 ### Opciones
-- [x] A) $\sqrt{308}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(8^2 + 10^2 + 12^2) = sqrt(308). -->
-- [ ] B) $30$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
-- [ ] C) $308$ unidades <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado. -->
+- [x] C) $\sqrt{308}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(8^2 + 10^2 + 12^2) = sqrt(308). -->
+- [ ] A) $30$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
+- [ ] B) $308$ unidades <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado. -->
 - [ ] D) $\sqrt{320}$ unidades <!-- feedback: Incorrecto. Calculaste mal la suma de los cuadrados. -->
 
 ### Explicacion Pedagogica
@@ -182,10 +182,10 @@ La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(8^2 + 10^2 + 1
 Un vector en $\mathbb{R}^3$ está dado por $\vec{v} = (9, 11, 13)$. ¿Cuál es la magnitud $|\vec{v}|$?
 
 ### Opciones
-- [x] A) $\sqrt{371}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(9^2 + 11^2 + 13^2) = sqrt(371). -->
-- [ ] B) $33$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
-- [ ] C) $371$ unidades <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado. -->
-- [ ] D) $\sqrt{383}$ unidades <!-- feedback: Incorrecto. Calculaste mal la suma de los cuadrados. -->
+- [x] D) $\sqrt{371}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(9^2 + 11^2 + 13^2) = sqrt(371). -->
+- [ ] A) $33$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
+- [ ] B) $371$ unidades <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado. -->
+- [ ] C) $\sqrt{383}$ unidades <!-- feedback: Incorrecto. Calculaste mal la suma de los cuadrados. -->
 
 ### Explicacion Pedagogica
 La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(9^2 + 11^2 + 13^2) = sqrt(371) unidades.
@@ -220,9 +220,9 @@ La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(10^2 + 12^2 + 
 Un vector en $\mathbb{R}^3$ está dado por $\vec{v} = (11, 13, 15)$. ¿Cuál es la magnitud $|\vec{v}|$?
 
 ### Opciones
-- [x] A) $\sqrt{515}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(11^2 + 13^2 + 15^2) = sqrt(515). -->
-- [ ] B) $39$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
-- [ ] C) $515$ unidades <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado. -->
+- [x] C) $\sqrt{515}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(11^2 + 13^2 + 15^2) = sqrt(515). -->
+- [ ] A) $39$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
+- [ ] B) $515$ unidades <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado. -->
 - [ ] D) $\sqrt{527}$ unidades <!-- feedback: Incorrecto. Calculaste mal la suma de los cuadrados. -->
 
 ### Explicacion Pedagogica
@@ -239,10 +239,10 @@ La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(11^2 + 13^2 + 
 Un vector en $\mathbb{R}^3$ está dado por $\vec{v} = (12, 14, 16)$. ¿Cuál es la magnitud $|\vec{v}|$?
 
 ### Opciones
-- [x] A) $\sqrt{596}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(12^2 + 14^2 + 16^2) = sqrt(596). -->
-- [ ] B) $42$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
-- [ ] C) $596$ unidades <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado. -->
-- [ ] D) $\sqrt{608}$ unidades <!-- feedback: Incorrecto. Calculaste mal la suma de los cuadrados. -->
+- [x] D) $\sqrt{596}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(12^2 + 14^2 + 16^2) = sqrt(596). -->
+- [ ] A) $42$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
+- [ ] B) $596$ unidades <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado. -->
+- [ ] C) $\sqrt{608}$ unidades <!-- feedback: Incorrecto. Calculaste mal la suma de los cuadrados. -->
 
 ### Explicacion Pedagogica
 La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(12^2 + 14^2 + 16^2) = sqrt(596) unidades.
@@ -258,9 +258,9 @@ La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(12^2 + 14^2 + 
 Un vector en $\mathbb{R}^3$ está dado por $\vec{v} = (13, 15, 17)$. ¿Cuál es la magnitud $|\vec{v}|$?
 
 ### Opciones
-- [x] A) $\sqrt{683}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(13^2 + 15^2 + 17^2) = sqrt(683). -->
-- [ ] B) $45$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
-- [ ] C) $683$ unidades <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado. -->
+- [x] C) $\sqrt{683}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(13^2 + 15^2 + 17^2) = sqrt(683). -->
+- [ ] A) $45$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
+- [ ] B) $683$ unidades <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado. -->
 - [ ] D) $\sqrt{695}$ unidades <!-- feedback: Incorrecto. Calculaste mal la suma de los cuadrados. -->
 
 ### Explicacion Pedagogica
@@ -296,8 +296,8 @@ La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(14^2 + 16^2 + 
 Un vector en $\mathbb{R}^3$ está dado por $\vec{v} = (15, 17, 19)$. ¿Cuál es la magnitud $|\vec{v}|$?
 
 ### Opciones
-- [x] A) $\sqrt{875}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(15^2 + 17^2 + 19^2) = sqrt(875). -->
-- [ ] B) $51$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
+- [x] B) $\sqrt{875}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(15^2 + 17^2 + 19^2) = sqrt(875). -->
+- [ ] A) $51$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
 - [ ] C) $875$ unidades <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado. -->
 - [ ] D) $\sqrt{887}$ unidades <!-- feedback: Incorrecto. Calculaste mal la suma de los cuadrados. -->
 
@@ -315,9 +315,9 @@ La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(15^2 + 17^2 + 
 Un vector en $\mathbb{R}^3$ está dado por $\vec{v} = (16, 18, 20)$. ¿Cuál es la magnitud $|\vec{v}|$?
 
 ### Opciones
-- [x] A) $\sqrt{980}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(16^2 + 18^2 + 20^2) = sqrt(980). -->
-- [ ] B) $54$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
-- [ ] C) $980$ unidades <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado. -->
+- [x] C) $\sqrt{980}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(16^2 + 18^2 + 20^2) = sqrt(980). -->
+- [ ] A) $54$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
+- [ ] B) $980$ unidades <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado. -->
 - [ ] D) $\sqrt{992}$ unidades <!-- feedback: Incorrecto. Calculaste mal la suma de los cuadrados. -->
 
 ### Explicacion Pedagogica
@@ -334,9 +334,9 @@ La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(16^2 + 18^2 + 
 Un vector en $\mathbb{R}^3$ está dado por $\vec{v} = (17, 19, 21)$. ¿Cuál es la magnitud $|\vec{v}|$?
 
 ### Opciones
-- [x] A) $\sqrt{1091}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(17^2 + 19^2 + 21^2) = sqrt(1091). -->
-- [ ] B) $57$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
-- [ ] C) $1091$ unidades <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado. -->
+- [x] C) $\sqrt{1091}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(17^2 + 19^2 + 21^2) = sqrt(1091). -->
+- [ ] A) $57$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
+- [ ] B) $1091$ unidades <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado. -->
 - [ ] D) $\sqrt{1103}$ unidades <!-- feedback: Incorrecto. Calculaste mal la suma de los cuadrados. -->
 
 ### Explicacion Pedagogica
@@ -353,8 +353,8 @@ La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(17^2 + 19^2 + 
 Un vector en $\mathbb{R}^3$ está dado por $\vec{v} = (18, 20, 22)$. ¿Cuál es la magnitud $|\vec{v}|$?
 
 ### Opciones
-- [x] A) $\sqrt{1208}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(18^2 + 20^2 + 22^2) = sqrt(1208). -->
-- [ ] B) $60$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
+- [x] B) $\sqrt{1208}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(18^2 + 20^2 + 22^2) = sqrt(1208). -->
+- [ ] A) $60$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
 - [ ] C) $1208$ unidades <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado. -->
 - [ ] D) $\sqrt{1220}$ unidades <!-- feedback: Incorrecto. Calculaste mal la suma de los cuadrados. -->
 
@@ -391,10 +391,10 @@ La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(19^2 + 21^2 + 
 Un vector en $\mathbb{R}^3$ está dado por $\vec{v} = (20, 22, 24)$. ¿Cuál es la magnitud $|\vec{v}|$?
 
 ### Opciones
-- [x] A) $\sqrt{1460}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(20^2 + 22^2 + 24^2) = sqrt(1460). -->
-- [ ] B) $66$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
-- [ ] C) $1460$ unidades <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado. -->
-- [ ] D) $\sqrt{1472}$ unidades <!-- feedback: Incorrecto. Calculaste mal la suma de los cuadrados. -->
+- [x] D) $\sqrt{1460}$ unidades <!-- feedback: ¡Correcto! |v| = sqrt(20^2 + 22^2 + 24^2) = sqrt(1460). -->
+- [ ] A) $66$ unidades <!-- feedback: Incorrecto. Sumaste las componentes directamente sin elevar al cuadrado. -->
+- [ ] B) $1460$ unidades <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada al resultado. -->
+- [ ] C) $\sqrt{1472}$ unidades <!-- feedback: Incorrecto. Calculaste mal la suma de los cuadrados. -->
 
 ### Explicacion Pedagogica
 La magnitud de un vector 3D es |v| = sqrt(x^2 + y^2 + z^2) = sqrt(20^2 + 22^2 + 24^2) = sqrt(1460) unidades.

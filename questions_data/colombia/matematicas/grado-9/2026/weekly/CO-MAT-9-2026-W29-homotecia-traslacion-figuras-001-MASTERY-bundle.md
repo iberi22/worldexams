@@ -32,11 +32,11 @@ Este bundle contiene 12 preguntas sobre **homotecia-traslacion-figuras** para gr
 ### Enunciado
 ¿Qué hace una homotecia sobre una figura?
 ### Opciones
-- [x] A) La amplía o la reduce conservando su forma
+- [x] C) La amplía o la reduce conservando su forma
   <!-- feedback: Correcto. La homotecia cambia el tamaño pero mantiene la forma y los ángulos. -->
-- [ ] B) La desplaza sin cambiar su tamaño
+- [ ] A) La desplaza sin cambiar su tamaño
   <!-- feedback: Incorrecto. Eso describe una traslación, no una homotecia. -->
-- [ ] C) La refleja como en un espejo
+- [ ] B) La refleja como en un espejo
   <!-- feedback: Incorrecto. Eso describe una reflexión. -->
 - [ ] D) La gira alrededor de un punto
   <!-- feedback: Incorrecto. Eso describe una rotación. -->
@@ -52,9 +52,9 @@ La homotecia multiplica las distancias al centro por un factor fijo, así que la
 ### Enunciado
 ¿Qué caracteriza a una traslación de una figura?
 ### Opciones
-- [x] A) Desplaza todos los puntos la misma distancia y en la misma dirección, conservando tamaño y forma
+- [x] B) Desplaza todos los puntos la misma distancia y en la misma dirección, conservando tamaño y forma
   <!-- feedback: Correcto. Esa es la definición de traslación. -->
-- [ ] B) Cambia el tamaño de la figura
+- [ ] A) Cambia el tamaño de la figura
   <!-- feedback: Incorrecto. La traslación nunca cambia el tamaño. -->
 - [ ] C) Invierte la figura como en un espejo
   <!-- feedback: Incorrecto. Eso corresponde a una reflexión. -->
@@ -72,13 +72,13 @@ Trasladar es deslizar la figura: cada punto se mueve con el mismo vector, así q
 ### Enunciado
 ¿Cuál es la imagen del punto (3, 5)?
 ### Opciones
-- [x] A) El punto (6, 10)
+- [x] D) El punto (6, 10)
   <!-- feedback: Correcto. Se multiplica cada coordenada por 2: (6, 10). -->
-- [ ] B) El punto (5, 7)
+- [ ] A) El punto (5, 7)
   <!-- feedback: Incorrecto. Sumaste 2 en vez de multiplicar por 2. -->
-- [ ] C) El punto (3, 5)
+- [ ] B) El punto (3, 5)
   <!-- feedback: Incorrecto. Ese es el punto original sin transformar. -->
-- [ ] D) El punto (1.5, 2.5)
+- [ ] C) El punto (1.5, 2.5)
   <!-- feedback: Incorrecto. Dividiste entre 2, lo que corresponde al factor un medio. -->
 ### Explicacion Pedagogica
 Con centro en el origen, la homotecia multiplica coordenadas: (3 por 2, 5 por 2) = (6, 10).
@@ -92,9 +92,9 @@ Con centro en el origen, la homotecia multiplica coordenadas: (3 por 2, 5 por 2)
 ### Enunciado
 ¿Dónde queda el punto (2, 7) después de la traslación?
 ### Opciones
-- [x] A) En el punto (6, 4)
+- [x] B) En el punto (6, 4)
   <!-- feedback: Correcto. Se suma 4 a x y se resta 3 a y: (6, 4). -->
-- [ ] B) En el punto (2, 4)
+- [ ] A) En el punto (2, 4)
   <!-- feedback: Incorrecto. Olvidaste sumar 4 a la coordenada x. -->
 - [ ] C) En el punto (6, 7)
   <!-- feedback: Incorrecto. Olvidaste restar 3 a la coordenada y. -->
@@ -112,13 +112,13 @@ La traslación suma el vector (4, menos 3): x pasa de 2 a 6 y y pasa de 7 a 4.
 ### Enunciado
 ¿Cuánto mide el segmento imagen?
 ### Opciones
-- [x] A) 12 cm
+- [x] D) 12 cm
   <!-- feedback: Correcto. Las longitudes se multiplican por el factor: 4 por 3 = 12. -->
-- [ ] B) 7 cm
+- [ ] A) 7 cm
   <!-- feedback: Incorrecto. Sumaste el factor en vez de multiplicar. -->
-- [ ] C) 4 cm
+- [ ] B) 4 cm
   <!-- feedback: Incorrecto. Esa es la medida original sin ampliar. -->
-- [ ] D) 9 cm
+- [ ] C) 9 cm
   <!-- feedback: Incorrecto. Multiplicaste mal 4 por 3. -->
 ### Explicacion Pedagogica
 En una homotecia, toda longitud queda multiplicada por el factor de escala: 4 cm por 3 = 12 cm.
@@ -132,13 +132,13 @@ En una homotecia, toda longitud queda multiplicada por el factor de escala: 4 cm
 ### Enunciado
 ¿Cuál es el área del triángulo imagen?
 ### Opciones
-- [x] A) 20 centímetros cuadrados
+- [x] D) 20 centímetros cuadrados
   <!-- feedback: Correcto. La traslación conserva todas las medidas, incluida el área. -->
-- [ ] B) 40 centímetros cuadrados
+- [ ] A) 40 centímetros cuadrados
   <!-- feedback: Incorrecto. La traslación no duplica el área. -->
-- [ ] C) 10 centímetros cuadrados
+- [ ] B) 10 centímetros cuadrados
   <!-- feedback: Incorrecto. La traslación no reduce el área. -->
-- [ ] D) 26 centímetros cuadrados
+- [ ] C) 26 centímetros cuadrados
   <!-- feedback: Incorrecto. Sumaste el desplazamiento al área, lo cual no tiene sentido. -->
 ### Explicacion Pedagogica
 Trasladar es mover sin deformar: lados, ángulos, perímetro y área quedan exactamente iguales.
@@ -152,11 +152,11 @@ Trasladar es mover sin deformar: lados, ángulos, perímetro y área quedan exac
 ### Enunciado
 ¿Cuál es el área de la figura imagen?
 ### Opciones
-- [x] A) 36 centímetros cuadrados
+- [x] C) 36 centímetros cuadrados
   <!-- feedback: Correcto. El área se multiplica por el factor al cuadrado: 9 por 4 = 36. -->
-- [ ] B) 18 centímetros cuadrados
+- [ ] A) 18 centímetros cuadrados
   <!-- feedback: Incorrecto. Multiplicaste el área solo por 2, no por 2 al cuadrado. -->
-- [ ] C) 12 centímetros cuadrados
+- [ ] B) 12 centímetros cuadrados
   <!-- feedback: Incorrecto. Sumaste el factor al área en vez de aplicar la escala. -->
 - [ ] D) 9 centímetros cuadrados
   <!-- feedback: Incorrecto. Esa es el área original; la homotecia sí cambia el área. -->
@@ -172,11 +172,11 @@ Con factor k, el lado se duplica (6 cm) y el área se multiplica por k al cuadra
 ### Enunciado
 ¿Cuáles son las dimensiones del rectángulo imagen?
 ### Opciones
-- [x] A) 4 cm por 3 cm
+- [x] C) 4 cm por 3 cm
   <!-- feedback: Correcto. Cada lado se multiplica por un medio: 4 por 3. -->
-- [ ] B) 8 cm por 6 cm
+- [ ] A) 8 cm por 6 cm
   <!-- feedback: Incorrecto. Esas son las dimensiones originales sin reducir. -->
-- [ ] C) 6 cm por 4 cm
+- [ ] B) 6 cm por 4 cm
   <!-- feedback: Incorrecto. Restaste 2 a cada lado en vez de multiplicar por un medio. -->
 - [ ] D) 16 cm por 12 cm
   <!-- feedback: Incorrecto. Duplicaste en vez de reducir a la mitad. -->
@@ -192,13 +192,13 @@ El factor un medio divide cada longitud entre 2, conservando la proporción 8 a 
 ### Enunciado
 ¿Qué transformación describe esa regla?
 ### Opciones
-- [x] A) Traslación de 5 unidades a la izquierda y 2 hacia arriba
+- [x] D) Traslación de 5 unidades a la izquierda y 2 hacia arriba
   <!-- feedback: Correcto. Restar 5 en x mueve a la izquierda y sumar 2 en y mueve hacia arriba. -->
-- [ ] B) Homotecia de factor 5
+- [ ] A) Homotecia de factor 5
   <!-- feedback: Incorrecto. La homotecia multiplica coordenadas, no suma ni resta. -->
-- [ ] C) Rotación de 90 grados
+- [ ] B) Rotación de 90 grados
   <!-- feedback: Incorrecto. La rotación intercambia y cambia signos de coordenadas. -->
-- [ ] D) Reflexión respecto al eje x
+- [ ] C) Reflexión respecto al eje x
   <!-- feedback: Incorrecto. La reflexión cambiaría el signo de una coordenada. -->
 ### Explicacion Pedagogica
 Sumar o restar constantes a las coordenadas es la forma algebraica de una traslación con vector (menos 5, 2).
@@ -212,11 +212,11 @@ Sumar o restar constantes a las coordenadas es la forma algebraica de una trasla
 ### Enunciado
 ¿Cuál es la imagen del punto?
 ### Opciones
-- [x] A) El punto (menos 4, menos 2)
+- [x] C) El punto (menos 4, menos 2)
   <!-- feedback: Correcto. Multiplicar por menos 1 cambia el signo de ambas coordenadas. -->
-- [ ] B) El punto (4, 2)
+- [ ] A) El punto (4, 2)
   <!-- feedback: Incorrecto. Ese es el punto original sin transformar. -->
-- [ ] C) El punto (menos 4, 2)
+- [ ] B) El punto (menos 4, 2)
   <!-- feedback: Incorrecto. Cambiaste solo el signo de x; el factor afecta ambas coordenadas. -->
 - [ ] D) El punto (4, menos 2)
   <!-- feedback: Incorrecto. Cambiaste solo el signo de y; el factor afecta ambas coordenadas. -->
@@ -232,9 +232,9 @@ El factor menos 1 produce una media vuelta respecto al origen: (x, y) pasa a (me
 ### Enunciado
 ¿Cómo se evalúa esa afirmación?
 ### Opciones
-- [x] A) Es falsa: el área se multiplica por 9, es decir 3 al cuadrado
+- [x] B) Es falsa: el área se multiplica por 9, es decir 3 al cuadrado
   <!-- feedback: Correcto. Las áreas escalan con el cuadrado del factor. -->
-- [ ] B) Es verdadera: la homotecia conserva todas las medidas
+- [ ] A) Es verdadera: la homotecia conserva todas las medidas
   <!-- feedback: Incorrecto. La homotecia conserva la forma, pero no las longitudes ni el área. -->
 - [ ] C) Es verdadera cuando el centro es el origen
   <!-- feedback: Incorrecto. El centro cambia la posición, no el efecto sobre el área. -->
@@ -252,9 +252,9 @@ Con factor 3, cada lado se triplica y el área se multiplica por 9; solo el fact
 ### Enunciado
 ¿Cuál es el error cometido?
 ### Opciones
-- [x] A) No hay duplicación: la traslación conserva el área exactamente igual
+- [x] B) No hay duplicación: la traslación conserva el área exactamente igual
   <!-- feedback: Correcto. Trasladar solo cambia la posición, no las medidas. -->
-- [ ] B) No hay error: el área sí se duplica
+- [ ] A) No hay error: el área sí se duplica
   <!-- feedback: Incorrecto. Ninguna traslación modifica el área. -->
 - [ ] C) Debió multiplicar las coordenadas para trasladar
   <!-- feedback: Incorrecto. Multiplicar corresponde a homotecia, no a traslación. -->

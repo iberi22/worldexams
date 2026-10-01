@@ -33,11 +33,11 @@ creador: "Jules-Agent"
 ¿Qué conquistador español fundó la Casa Forte de Nuestra Señora de la Asunción el 15 de agosto de 1537?
 
 ### Opciones
-- [x] A) Juan de Salazar de Espinosa
+- [x] C) Juan de Salazar de Espinosa
   <!-- feedback: Correcto. Juan de Salazar de Espinosa fundó el fuerte de Asunción el 15 de agosto de 1537 a orillas del Río Paraguay. -->
-- [ ] B) Cristóbal Colón
+- [ ] A) Cristóbal Colón
   <!-- feedback: Incorrecto. Colón llegó a las Antillas en 1492 y nunca exploró la cuenca del Río de la Plata o el Paraguay. -->
-- [ ] C) Hernandarias de Saavedra
+- [ ] B) Hernandarias de Saavedra
   <!-- feedback: Incorrecto. Hernandarias fue el primer gobernador criollo del Río de la Plata nacida a finales del siglo XVI. -->
 - [ ] D) Gaspar Rodríguez de Francia
   <!-- feedback: Incorrecto. El Dr. Francia fue el líder fundamental de la independencia paraguaya en el siglo XIX. -->
@@ -79,9 +79,9 @@ La Encomienda en Paraguay adoptó modalidades como la mita y el yanaconazgo, mar
 ¿Qué orden religiosa estableció prósperas misiones o reducciones entre los guaraníes, caracterizadas por el trabajo comunitario y el respeto a la lengua nativa hasta su expulsión en 1767?
 
 ### Opciones
-- [x] A) La Compañía de Jesús (Jesuitas)
+- [x] B) La Compañía de Jesús (Jesuitas)
   <!-- feedback: Correcto. Los padres jesuitas crearon un célebre sistema de misiones donde desarrollaron la imprenta, la música, la arquitectura y preservaron la lengua guaraní. -->
-- [ ] B) Los Monjes Franciscanos Capuchinos
+- [ ] A) Los Monjes Franciscanos Capuchinos
   <!-- feedback: Incorrecto. Aunque los franciscanos fundaron pueblos antiguos (como Yaguarón), las misiones jesuíticas de Itapúa y Misiones pertenecían a la Compañía de Jesús. -->
 - [ ] C) La Orden de los Dominicos
   <!-- feedback: Incorrecto. Los dominicos tuvieron presencia conventual pero no organizaron el complejo sistema de las reducciones guaraníes jesuíticas. -->
@@ -102,11 +102,11 @@ Las reducciones jesuíticas constituyeron una experiencia socio-religiosa única
 ¿En qué fechas de mayo de 1811 se consumó el golpe revolucionario incruento que intimó al gobernador Bernardo de Velasco a formar una junta patriótica de gobierno?
 
 ### Opciones
-- [x] A) 14 y 15 de mayo de 1811
+- [x] C) 14 y 15 de mayo de 1811
   <!-- feedback: Correcto. Durante la noche del 14 y la madrugada del 15 de mayo de 1811 los próceres intimaron al gobernador Velasco dando nacimiento a la independencia paraguaya. -->
-- [ ] B) 25 de mayo de 1810
+- [ ] A) 25 de mayo de 1810
   <!-- feedback: Incorrecto. El 25 de mayo de 1810 se produjo la Revolución de Mayo en Buenos Aires (Argentina). -->
-- [ ] C) 4 de julio de 1776
+- [ ] B) 4 de julio de 1776
   <!-- feedback: Incorrecto. El 4 de julio de 1776 se proclamó la independencia de los Estados Unidos de América. -->
 - [ ] D) 12 de octubre de 1492
   <!-- feedback: Incorrecto. Corresponde al arribo de Cristóbal Colón al continente americano. -->
@@ -125,11 +125,11 @@ Las jornadas del 14 y 15 de mayo son la fiesta nacional patria donde Paraguay in
 ¿Qué privilegio democrático singular concedió la Real Cédula de 1537 a los conquistadores del Paraguay tras la muerte de Pedro de Mendoza?
 
 ### Opciones
-- [x] A) El derecho de elegir libremente por voto de los vecinos al gobernador interino en caso de vacancia
+- [x] C) El derecho de elegir libremente por voto de los vecinos al gobernador interino en caso de vacancia
   <!-- feedback: Correcto. La Cédula Real de 1537 otorgó al Paraguay la potestad de elegir gobernadores en las urnas por votación popular criolla (ej. elección de Irala). -->
-- [ ] B) La potestad de abolir el catolicismo en favor de la corona inglesa
+- [ ] A) La potestad de abolir el catolicismo en favor de la corona inglesa
   <!-- feedback: Incorrecto. La monarquía hispánica mantuvo una estricta adhesión al catolicismo romano. -->
-- [ ] C) La exención permanente de pagar cualquier tipo de tributo al Rey
+- [ ] B) La exención permanente de pagar cualquier tipo de tributo al Rey
   <!-- feedback: Incorrecto. Los tributos reales como el quinto real se mantuvieron vigentes en las Indias. -->
 - [ ] D) El monopolio exclusivo de comerciar con los puertos de Asia oriental
   <!-- feedback: Incorrecto. El comercio colonial estaba monopolizado por la Casa de Contratación de Sevilla. -->
@@ -148,13 +148,13 @@ La Real Cédula de 1537 sentó una temprana tradición autonomista y representat
 ¿Qué objetivo político perseguía la expedición militar porteña al mando de Manuel Belgrano enviada a Paraguay en 1810-1811, victoriosamente rechazada por las tropas paraguayas?
 
 ### Opciones
-- [x] A) Someter a la provincia del Paraguay a la autoridad de la Junta de Buenos Aires
+- [x] D) Someter a la provincia del Paraguay a la autoridad de la Junta de Buenos Aires
   <!-- feedback: Correcto. Belgrano buscaba la anexión o subordinación de Asunción a las directivas bonaerenses, siendo derrotado en Paraguarí y Tacuarí por los jefes criollos paraguayos. -->
-- [ ] B) Entregar el territorio paraguayo a la corona del Imperio de Portugal
+- [ ] A) Entregar el territorio paraguayo a la corona del Imperio de Portugal
   <!-- feedback: Incorrecto. Buenos Aires buscaba unificar las provincias del antiguo virreinato bajo su mando, no entregarlas a Portugal. -->
-- [ ] C) Fundar una república federada con Gran Bretaña y Francia
+- [ ] B) Fundar una república federada con Gran Bretaña y Francia
   <!-- feedback: Incorrecto. Belgrano actuaba en nombre de la junta revolucionaria del Río de la Plata. -->
-- [ ] D) Ayudar al gobernador Velasco a proclamarse emperador vitalicio
+- [ ] C) Ayudar al gobernador Velasco a proclamarse emperador vitalicio
   <!-- feedback: Incorrecto. Belgrano luchaba contra el gobernador español Velasco, aunque la resistencia criolla paraguaya defendió su autonomía local. -->
 
 ### Explicacion Pedagogica
@@ -171,9 +171,9 @@ Las victorias patriotas en Paraguarí (enero de 1811) y Tacuarí (marzo de 1811)
 ¿Qué importante prócer civil, ideólogo de la revolución y doctor en teología y derecho, lideró el proceso de independencia y fue nombrado Dictador Supremo de la República?
 
 ### Opciones
-- [x] A) El Dr. José Gaspar Rodríguez de Francia
+- [x] B) El Dr. José Gaspar Rodríguez de Francia
   <!-- feedback: Correcto. El Dr. Francia fue la figura consular y Dictador Supremo que consolidó la soberanía paraguaya frente a amenazas externas. -->
-- [ ] B) Pedro Juan Caballero
+- [ ] A) Pedro Juan Caballero
   <!-- feedback: Incorrecto. Caballero fue el capitán militar héroe de la gesta de mayo que integró la Junta, pero no fue Dictador Supremo. -->
 - [ ] C) Fulgencio Yegros
   <!-- feedback: Incorrecto. Yegros fue el presidente de la primera Junta Superior Gubernativa de 1811 y héroe militar de Tacuarí. -->
@@ -194,9 +194,9 @@ El Dr. Francia guió la política de autosuficiencia y defensa irrestricta de la
 ¿Qué célebre consigna enunciada por los líderes comuneros (como Fernando de Mompox) resumía la doctrina de que la voluntad del pueblo es superior a la del propio Rey?
 
 ### Opciones
-- [x] A) "La autoridad del común es superior a la del propio Rey"
+- [x] B) "La autoridad del común es superior a la del propio Rey"
   <!-- feedback: Correcto. Las Revoluciones Comuneras postularon que el poder reside en el Común (el pueblo) y está por encima de gobernadores o mandatos reales arbitrarios. -->
-- [ ] B) "Todo por el Rey y nada para el pueblo"
+- [ ] A) "Todo por el Rey y nada para el pueblo"
   <!-- feedback: Incorrecto. Esta divisa corresponde al absolutismo monárquico ilustrado opuesto a las reivindicaciones comuneras. -->
 - [ ] C) "Sometimiento total a las autoridades porteñas"
   <!-- feedback: Incorrecto. Los comuneros defendieron la autonomía del cabildo de Asunción frente a intromisiones externas. -->
@@ -217,11 +217,11 @@ Las Revoluciones Comuneras fueron un antecedente de resistencia cívica contra l
 ¿En qué consistió fundamentalmente la política de "aislamiento voluntario" (o clausura de fronteras) instaurada por el Dr. Francia durante su gobierno?
 
 ### Opciones
-- [x] A) Cerrar las fronteras fluviales y terrestres para proteger al Paraguay de las guerras civiles del Río de la Plata y garantizar la autosuficiencia económica
+- [x] C) Cerrar las fronteras fluviales y terrestres para proteger al Paraguay de las guerras civiles del Río de la Plata y garantizar la autosuficiencia económica
   <!-- feedback: Correcto. El aislamiento aisló al país de las devastadoras contiendas anárquicas vecinas, promoviendo la agricultura interna y resguardando la independencia. -->
-- [ ] B) Entregar la soberanía nacional al gobierno británico a cambio de empréstitos financieros
+- [ ] A) Entregar la soberanía nacional al gobierno británico a cambio de empréstitos financieros
   <!-- feedback: Incorrecto. Francia rechazó endeudamientos externos y defendió con celo la soberanía paraguaya. -->
-- [ ] C) Fomentar el libre comercio ilimitado con los puertos de España e Inglaterra
+- [ ] B) Fomentar el libre comercio ilimitado con los puertos de España e Inglaterra
   <!-- feedback: Incorrecto. Francia controló de forma estricta y reducida el comercio exterior mediante el puerto de Itapúa. -->
 - [ ] D) Obligar a la población a emigrar masivamente a las provincias argentinas
   <!-- feedback: Incorrecto. La política promovió la permanencia y el trabajo agrícola interno obligatorio. -->
@@ -240,11 +240,11 @@ El aislamiento francista evitó que Paraguay fuera absorbido por el expansionism
 ¿Qué hito institucional histórico aprobó el Congreso General de 1813 convirtiendo a Paraguay en la primera nación de Sudamérica en adoptar dicha forma de gobierno?
 
 ### Opciones
-- [x] A) La proclamación de la República del Paraguay y la adopción del Consulado como gobierno
+- [x] C) La proclamación de la República del Paraguay y la adopción del Consulado como gobierno
   <!-- feedback: Correcto. El Congreso de 1813 declaró oficialmente la República del Paraguay (abandonando toda alusión a Fernando VII) eligiendo cónsules a Francia y Yegros. -->
-- [ ] B) La proclamación de un reino monárquico constitucional bajo la dinastía Borbón
+- [ ] A) La proclamación de un reino monárquico constitucional bajo la dinastía Borbón
   <!-- feedback: Incorrecto. Paraguay rechazó la monarquía adoptando explícitamente el sistema republicano. -->
-- [ ] C) La anexión definitiva del territorio al Virreinato del Perú
+- [ ] B) La anexión definitiva del territorio al Virreinato del Perú
   <!-- feedback: Incorrecto. El Congreso ratificó la absoluta independencia de todo poder extranjero. -->
 - [ ] D) La aprobación de la enmienda de libre comercio de esclavos con África
   <!-- feedback: Incorrecto. La República adoptó posteriormente normas de libertad de vientres y abolición gradual. -->
@@ -263,13 +263,13 @@ El Congreso de 1813 convirtió a Paraguay en la pionera de las repúblicas del c
 ¿Por qué el mestizaje en el Paraguay colonial (iniciado con alianzas entre conquistadores y caciques guaraníes) tuvo un carácter cultural y social tan singular respecto a otras regiones de América?
 
 ### Opciones
-- [x] A) La escasez de mujeres españolas propició la integración biológica y el pacto de parentesco (cuñadazgo) donde el idioma guaraní se preservó como lengua materna de los mestizos
+- [x] D) La escasez de mujeres españolas propició la integración biológica y el pacto de parentesco (cuñadazgo) donde el idioma guaraní se preservó como lengua materna de los mestizos
   <!-- feedback: Correcto. El guaraní fue transmitido por las madres nativas a sus hijos mestizos, convirtiéndose en el vehículo de la identidad colectiva e idioma nacional. -->
-- [ ] B) Los españoles eliminaron por completo a la población aborigen impidiendo cualquier intercambio cultural
+- [ ] A) Los españoles eliminaron por completo a la población aborigen impidiendo cualquier intercambio cultural
   <!-- feedback: Incorrecto. En Paraguay no hubo exterminio total; la alianza inicial estructuró la sociedad mestiza. -->
-- [ ] C) Los guaraníes obligaron a los conquistadores a olvidar el castellano adoptando la religión incaica
+- [ ] B) Los guaraníes obligaron a los conquistadores a olvidar el castellano adoptando la religión incaica
   <!-- feedback: Incorrecto. Se mantuvo la religión católica y el bilingüismo, no el culto incaico. -->
-- [ ] D) La corona española prohibió la entrada de soldados en las tierras paraguayas durante tres siglos
+- [ ] C) La corona española prohibió la entrada de soldados en las tierras paraguayas durante tres siglos
   <!-- feedback: Incorrecto. Paraguay fue el núcleo militar y administrativo colonizador del Río de la Plata. -->
 
 ### Explicacion Pedagogica
@@ -286,11 +286,11 @@ El "cuñadazgo" tradicional entre hispanos y guaraníes cimentó una sociedad me
 ¿Cuál fue la consecuencia económica e institucional inmediata sobre los pueblos de las Misiones Guaraníes tras la expulsión de los padres jesuitas impuesta por las Reformas Borbónicas?
 
 ### Opciones
-- [x] A) El saqueo y la rápida decadencia económica de los pueblos por mala administración secular, provocando la dispersión de la población indígena
+- [x] C) El saqueo y la rápida decadencia económica de los pueblos por mala administración secular, provocando la dispersión de la población indígena
   <!-- feedback: Correcto. Los administradores civiles y seculares no lograron mantener la prosperidad comunitaria jesuita, desintegrándose el sistema productivo misional. -->
-- [ ] B) El aumento de la producción textil y la transformación de las misiones en potencias industriales europeas
+- [ ] A) El aumento de la producción textil y la transformación de las misiones en potencias industriales europeas
   <!-- feedback: Incorrecto. Al contrario, las misiones cayeron en abandono y ruina económica progresiva. -->
-- [ ] C) La invasión y conquista pacífica de los pueblos por tropas del imperio ruso
+- [ ] B) La invasión y conquista pacífica de los pueblos por tropas del imperio ruso
   <!-- feedback: Incorrecto. La expulsión fue ejecutada por la monarquía española sin intervención de potencias no ibéricas. -->
 - [ ] D) La conversión automática de todos los indígenas en terratenientes aristócratas de Madrid
   <!-- feedback: Incorrecto. La población indígena fue despojada o marginada perdiendo el resguardo colectivo. -->
@@ -309,13 +309,13 @@ La expulsión de los jesuitas destruyó un modelo de desarrollo autónomo excepc
 ¿Qué principio diplomático trascendental consagró la Nota del 20 de julio de 1811 redactada por el Dr. Francia y firmada por la Junta Superior Gubernativa?
 
 ### Opciones
-- [x] A) El principio de independencia soberana de Paraguay y la voluntad de confederarse de igual a igual sin subordinación a Buenos Aires
+- [x] D) El principio de independencia soberana de Paraguay y la voluntad de confederarse de igual a igual sin subordinación a Buenos Aires
   <!-- feedback: Correcto. La Nota del 20 de julio es el documento cumbre de la diplomacia paraguaya que afirmó la autodeterminación y la soberanía absoluta de la provincia. -->
-- [ ] B) La aceptación incondicional del Paraguay de someterse al virrey de Lima
+- [ ] A) La aceptación incondicional del Paraguay de someterse al virrey de Lima
   <!-- feedback: Incorrecto. La nota reafirmó la ruptura con el sistema colonial y con cualquier autoridad tutelar extranjera. -->
-- [ ] C) La rendición de las armas paraguayas ante las tropas del rey Fernando VII
+- [ ] B) La rendición de las armas paraguayas ante las tropas del rey Fernando VII
   <!-- feedback: Incorrecto. Paraguay no se rindió a Fernando VII; fundó su propia gobernanza autónoma. -->
-- [ ] D) La renuncia definitiva al derecho de navegar el Río Paraná
+- [ ] C) La renuncia definitiva al derecho de navegar el Río Paraná
   <!-- feedback: Incorrecto. Exigió el libre tránsito y la eliminación de impuestos aduaneros abusivos porteños. -->
 
 ### Explicacion Pedagogica
@@ -332,11 +332,11 @@ La Nota del 20 de julio de 1811 es considerada el acta de bautismo de la políti
 ¿Cuál era la función político-administrativa del Cabildo de Asunción durante la época colonial hispánica?
 
 ### Opciones
-- [x] A) Administrar la justicia ordinaria, regular los precios y el abastecimiento, y velar por el orden y las obras públicas de la ciudad
+- [x] C) Administrar la justicia ordinaria, regular los precios y el abastecimiento, y velar por el orden y las obras públicas de la ciudad
   <!-- feedback: Correcto. El Cabildo era la institución municipal vecinal encargada del gobierno local, policía, abastecimiento y justicia en primera instancia. -->
-- [ ] B) Comandar la armada naval española en el Océano Atlántico
+- [ ] A) Comandar la armada naval española en el Océano Atlántico
   <!-- feedback: Incorrecto. Las flotas navales dependían del Ministerio de Marina y las almirantazgos reales en España. -->
-- [ ] C) Redactar los dogmas de la Iglesia Católica para toda Sudamérica
+- [ ] B) Redactar los dogmas de la Iglesia Católica para toda Sudamérica
   <!-- feedback: Incorrecto. El ámbito religioso correspondía a los concilios y diócesis eclesiásticas de Roma y América. -->
 - [ ] D) Emitir papel moneda bancario internacional convertible
   <!-- feedback: Incorrecto. La moneda era acuñada por las Casas de Moneda reales (ej. Potosí) y el papel moneda no existía en el Cabildo colonial. -->
@@ -378,11 +378,11 @@ Las Estancias del Estado convirtieron a la tierra pública en una herramienta de
 ¿Qué consecuencia política e institucional produjo el descubrimiento de la conspiración de 1820 liderada por próceres de la independencia como Yegros y Caballero?
 
 ### Opciones
-- [x] A) La desarticulación de la elite porteñista y próceres militares mediante prisión y ejecuciones, consolidando el poder absoluto del Dictador Supremo
+- [x] C) La desarticulación de la elite porteñista y próceres militares mediante prisión y ejecuciones, consolidando el poder absoluto del Dictador Supremo
   <!-- feedback: Correcto. El develamiento de la conspiración de 1820 provocó el encarcelamiento de los antiguos jefes revolucionarios y el endurecimiento del régimen francista. -->
-- [ ] B) La renuncia inmediata del Dr. Francia y el retorno del Paraguay a la corona española
+- [ ] A) La renuncia inmediata del Dr. Francia y el retorno del Paraguay a la corona española
   <!-- feedback: Incorrecto. El Dr. Francia afianzó su control dictatorial sin abdicar ni reinstaurar la colonia. -->
-- [ ] C) La firma del pacto de unión definitiva con las provincias de Brasil
+- [ ] B) La firma del pacto de unión definitiva con las provincias de Brasil
   <!-- feedback: Incorrecto. Francia mantuvo una celosa neutralidad y rechazo a pactos de anexión extranjera. -->
 - [ ] D) La abolición absoluta de la República y la reinstauración del consulado romano
   <!-- feedback: Incorrecto. La República continuó bajo la Dictadura Perpetua establecida desde 1816. -->
@@ -447,13 +447,13 @@ La doble independencia paraguaya (de España y de Buenos Aires) configuró una v
 Al evaluar el acceso a la tierra durante el siglo XVI al XVIII en Paraguay, ¿cuál fue el efecto a largo plazo del predominio de las tierras comunales e indias frente al latifundismo privado de otras colonias?
 
 ### Opciones
-- [x] A) Evitó la formación de una oligarquía feudal terrateniente hiperconcentrada, permitiendo el arraigo de una amplia clase campesina mestiza autosuficiente
+- [x] D) Evitó la formación de una oligarquía feudal terrateniente hiperconcentrada, permitiendo el arraigo de una amplia clase campesina mestiza autosuficiente
   <!-- feedback: Correcto. La disponibilidad de tierras públicas y comunales favoreció el desarrollo de campesinos independientes que sostuvieron la producción del país. -->
-- [ ] B) Provocó el colapso de toda producción de alimentos condenando a la población a la hambruna permanente
+- [ ] A) Provocó el colapso de toda producción de alimentos condenando a la población a la hambruna permanente
   <!-- feedback: Incorrecto. Paraguay fue reconocido como la provisión de víveres ("huerta de las Indias") en el Río de la Plata. -->
-- [ ] C) Forzó a la totalidad de la población a convertirse en marineros mercantes de ultramar
+- [ ] B) Forzó a la totalidad de la población a convertirse en marineros mercantes de ultramar
   <!-- feedback: Incorrecto. La población paraguaya se mantuvo con fuerte arraigo agrícola y ganadero en el territorio. -->
-- [ ] D) Facilitó la compra total del territorio patrio por consorcios mineros de Norteamérica
+- [ ] C) Facilitó la compra total del territorio patrio por consorcios mineros de Norteamérica
   <!-- feedback: Incorrecto. La propiedad de la tierra se mantuvo bajo control criollo e indiano administrado localmente. -->
 
 ### Explicacion Pedagogica
@@ -470,9 +470,9 @@ La estructura agraria basada en la pequeña y mediana propiedad campesina fue el
 Al juzgar el proceso de síntesis histórica transcurrido entre la fundación de Asunción (1537) y la consolidación republicana (1813), ¿cuál es la mayor herencia intangible que sostiene la identidad de la nación paraguaya?
 
 ### Opciones
-- [x] A) El bilingüismo vivo (guaraní-castellano), la resiliencia comunitaria y el celoso sentimiento de soberanía e independencia territorial
+- [x] B) El bilingüismo vivo (guaraní-castellano), la resiliencia comunitaria y el celoso sentimiento de soberanía e independencia territorial
   <!-- feedback: Correcto. La fusión hispano-guaraní legó la cultura bilingüe, la resistencia cívica y un inquebrantable patriotismo de defensa de la patria. -->
-- [ ] B) La adopción de la arquitectura gótica medieval europea como estilo único de vivienda rural
+- [ ] A) La adopción de la arquitectura gótica medieval europea como estilo único de vivienda rural
   <!-- feedback: Incorrecto. La vivienda rural tradicional (culata yovái) respondió a adaptaciones bioclimáticas locales. -->
 - [ ] C) La sustitución total de la gastronomía autóctona por la cocina de Medio Oriente
   <!-- feedback: Incorrecto. La gastronomía paraguaya integra ingredientes autóctonos como la mandioca y el maíz (sopa paraguaya, chipa). -->

@@ -41,9 +41,9 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ### Opciones
 - [ ] A) La Asamblea Legislativa
   <!-- feedback: Incorrecto. Su función principal es crear leyes, no juzgar su constitucionalidad. -->
-- [ ] B) El Tribunal Supremo de Elecciones
+- [ ] C) El Tribunal Supremo de Elecciones
   <!-- feedback: Incorrecto. Se encarga exclusivamente de los procesos electorales. -->
-- [x] C) La Sala Constitucional (Sala IV)
+- [x] B) La Sala Constitucional (Sala IV)
   <!-- feedback: ¡Correcto! Es el órgano del Poder Judicial que garantiza el respeto a la Carta Magna. -->
 - [ ] D) La Defensoría de los Habitantes
   <!-- feedback: Incorrecto. Supervisa la actividad del sector público, pero no dicta sentencias de constitucionalidad. -->
@@ -66,9 +66,9 @@ La Sala IV es pilar de la democracia costarricense, permitiendo que cualquier ci
 ### Opciones
 - [ ] A) La inversión masiva en la compra de armamento extranjero.
   <!-- feedback: Incorrecto. Al contrario, se dejó de gastar en armas. -->
-- [x] B) El traslado de recursos económicos hacia el fortalecimiento de la educación y la salud pública.
+- [x] C) El traslado de recursos económicos hacia el fortalecimiento de la educación y la salud pública.
   <!-- feedback: ¡Correcto! Esto permitió alcanzar altos índices de desarrollo humano en la región. -->
-- [ ] C) El aumento de los conflictos fronterizos con los países vecinos.
+- [ ] B) El aumento de los conflictos fronterizos con los países vecinos.
   <!-- feedback: Incorrecto. Costa Rica ha mantenido una política de neutralidad y paz. -->
 - [ ] D) La prohibición de los desfiles patrios en todo el país.
   <!-- feedback: Incorrecto. Los desfiles siguen realizándose con un enfoque civilista. -->
@@ -141,11 +141,11 @@ La crisis de los 80 obligó a Costa Rica a reformular su modelo económico, pasa
 ### Opciones
 - [ ] A) Han provocado que todos los ticos dejen de comer gallo pinto.
   <!-- feedback: Incorrecto. La cultura gastronómica persiste, aunque los insumos puedan ser importados. -->
-- [x] B) Han generado una mayor competencia con productos importados más baratos, obligando a la reconversión productiva.
+- [x] D) Han generado una mayor competencia con productos importados más baratos, obligando a la reconversión productiva.
   <!-- feedback: ¡Correcto! Los pequeños productores de granos básicos han enfrentado grandes desafíos económicos. -->
-- [ ] C) Han eliminado por completo el uso de tecnología en el campo.
+- [ ] B) Han eliminado por completo el uso de tecnología en el campo.
   <!-- feedback: Incorrecto. Al contrario, la tecnología ha aumentado para mejorar la competitividad. -->
-- [ ] D) Han causado el cierre total de las fronteras terrestres.
+- [ ] C) Han causado el cierre total de las fronteras terrestres.
   <!-- feedback: Incorrecto. La globalización implica apertura, no cierre. -->
 
 ### Explicacion Pedagogica
@@ -189,9 +189,9 @@ El cambio en la pirámide poblacional costarricense requiere ajustes en las pol�
 ¿Cuál es la función principal de las Municipalidades en la organización político-administrativa de Costa Rica?
 
 ### Opciones
-- [ ] A) Administrar la justicia penal en todo el territorio nacional.
+- [ ] B) Administrar la justicia penal en todo el territorio nacional.
   <!-- feedback: Incorrecto. Esa es función exclusiva del Poder Judicial. -->
-- [x] B) Administrar los intereses y servicios locales de cada cantón.
+- [x] A) Administrar los intereses y servicios locales de cada cantón.
   <!-- feedback: ¡Correcto! Se encargan de recolección de residuos, patentes, caminos vecinales y desarrollo local. -->
 - [ ] C) Dictar la política monetaria y el tipo de cambio del dólar.
   <!-- feedback: Incorrecto. Función del Banco Central de Costa Rica. -->
@@ -216,11 +216,11 @@ Costa Rica es sede de la Corte Interamericana de Derechos Humanos. ¿Qué import
 ### Opciones
 - [ ] A) Significa que Costa Rica puede imponer sus leyes a toda América.
   <!-- feedback: Incorrecto. La Corte es un tribunal autónomo internacional, no una extensión del gobierno tico. -->
-- [x] B) Consolida el prestigio internacional de Costa Rica como defensor de la paz y los derechos fundamentales.
+- [x] D) Consolida el prestigio internacional de Costa Rica como defensor de la paz y los derechos fundamentales.
   <!-- feedback: ¡Correcto! Refuerza el "soft power" del país en la diplomacia mundial. -->
-- [ ] C) Obliga a todos los costarricenses a ser abogados de oficio.
+- [ ] B) Obliga a todos los costarricenses a ser abogados de oficio.
   <!-- feedback: Incorrecto. No existe tal obligación ciudadana. -->
-- [ ] D) Permite que el país no tenga que cumplir ningún tratado internacional.
+- [ ] C) Permite que el país no tenga que cumplir ningún tratado internacional.
   <!-- feedback: Incorrecto. Al contrario, compromete más al país con el cumplimiento. -->
 
 ### Explicacion Pedagogica
@@ -266,9 +266,9 @@ El conflicto de 1948 fue un evento transformador que dio paso a la Segunda Repú
 ### Opciones
 - [ ] A) Cordillera de Talamanca
   <!-- feedback: Incorrecto. Es la más alta y antigua, pero no tiene volcanes activos jóvenes en su cresta principal. -->
-- [x] B) Cordillera Volcánica Central
+- [x] C) Cordillera Volcánica Central
   <!-- feedback: ¡Correcto! Se ubica al norte del Valle Central y es clave para el turismo y la agricultura. -->
-- [ ] C) Cordillera de Guanacaste
+- [ ] B) Cordillera de Guanacaste
   <!-- feedback: Incorrecto. Se ubica al noroeste, con volcanes como el Rincón de la Vieja. -->
 - [ ] D) Fila Brunqueña
   <!-- feedback: Incorrecto. Es una cordillera costera de menor altura en el Pacífico sur. -->
@@ -318,9 +318,9 @@ A pesar del crecimiento económico, Costa Rica enfrenta el reto de que los benef
   <!-- feedback: Incorrecto. Año de la independencia. -->
 - [ ] B) 1900
   <!-- feedback: Incorrecto. En esa época el voto era exclusivamente masculino. -->
-- [x] C) 1953
+- [x] D) 1953
   <!-- feedback: ¡Correcto! Fue el hito que marcó la universalidad del sufragio en el país. -->
-- [ ] D) 2010
+- [ ] C) 2010
   <!-- feedback: Incorrecto. El voto femenino tiene décadas de vigencia. -->
 
 ### Explicacion Pedagogica
@@ -339,9 +339,9 @@ El sufragio femenino fue el resultado de una larga lucha de movimientos feminist
 ¿Cuál es una de las principales críticas ambientales y sociales que se le hace a la expansión desmedida del cultivo de piña en la zona norte de Costa Rica?
 
 ### Opciones
-- [ ] A) Que las piñas son demasiado dulces para el mercado europeo.
+- [ ] B) Que las piñas son demasiado dulces para el mercado europeo.
   <!-- feedback: Incorrecto. No es una crítica social ni ambiental. -->
-- [x] B) La contaminación de fuentes de agua por agroquímicos y la precarización del trabajo rural.
+- [x] A) La contaminación de fuentes de agua por agroquímicos y la precarización del trabajo rural.
   <!-- feedback: ¡Correcto! El impacto en los mantos acuíferos es una preocupación constante de las comunidades. -->
 - [ ] C) Que el cultivo de piña atrae demasiados volcanes a la zona.
   <!-- feedback: Incorrecto. No existe relación geológica. -->
@@ -366,9 +366,9 @@ El modelo agroexportador requiere un equilibrio estricto entre el crecimiento ec
 ### Opciones
 - [ ] A) Ayudó a que todos los grupos étnicos recibieran las mismas tierras.
   <!-- feedback: Incorrecto. Al contrario, favoreció la marginación. -->
-- [x] B) Promovió una visión homogénea de la sociedad que ignoró la diversidad cultural y los aportes de las minorías.
+- [x] C) Promovió una visión homogénea de la sociedad que ignoró la diversidad cultural y los aportes de las minorías.
   <!-- feedback: ¡Correcto! Se construyó una identidad oficial que excluía la realidad multiétnica del país. -->
-- [ ] C) Logró que el inglés fuera el idioma oficial en todo el país.
+- [ ] B) Logró que el inglés fuera el idioma oficial en todo el país.
   <!-- feedback: Incorrecto. El español siempre ha sido el oficial. -->
 - [ ] D) Eliminó la necesidad de tener un Himno Nacional.
   <!-- feedback: Incorrecto. Los símbolos nacionales reforzaron esa visión homogénea. -->
@@ -416,11 +416,11 @@ La educación técnica es el motor que permite a Costa Rica competir en la econo
 ### Opciones
 - [ ] A) El ICE, el RECOPE y el Ministerio de Salud.
   <!-- feedback: Incorrecto. Estas instituciones son de períodos diferentes. -->
-- [x] B) La Caja Costarricense de Seguro Social, la Universidad de Costa Rica y las Garantías Sociales (Código de Trabajo).
+- [x] D) La Caja Costarricense de Seguro Social, la Universidad de Costa Rica y las Garantías Sociales (Código de Trabajo).
   <!-- feedback: ¡Correcto! Son los pilares del Estado de Bienestar costarricense. -->
-- [ ] C) El Banco Central, la Guardia Civil y la Sala Cuarta.
+- [ ] B) El Banco Central, la Guardia Civil y la Sala Cuarta.
   <!-- feedback: Incorrecto. Instituciones de creación posterior. -->
-- [ ] D) La Independencia, la abolición del ejército y el voto femenino.
+- [ ] C) La Independencia, la abolición del ejército y el voto femenino.
   <!-- feedback: Incorrecto. Mezcla hitos de diferentes épocas. -->
 
 ### Explicacion Pedagogica
@@ -441,9 +441,9 @@ La Reforma Social fue un pacto histórico entre el gobierno, la Iglesia Católic
 ### Opciones
 - [ ] A) Ayudar a los países centroamericanos a independizarse de España.
   <!-- feedback: Incorrecto. La independencia ya había ocurrido décadas antes. -->
-- [x] B) Instaurar un sistema de esclavitud y anexar el territorio a los estados esclavistas del sur de Estados Unidos.
+- [x] C) Instaurar un sistema de esclavitud y anexar el territorio a los estados esclavistas del sur de Estados Unidos.
   <!-- feedback: ¡Correcto! Representaba una amenaza directa a la libertad y soberanía de la región. -->
-- [ ] C) Construir un canal interoceánico para regalarlo a los indígenas.
+- [ ] B) Construir un canal interoceánico para regalarlo a los indígenas.
   <!-- feedback: Incorrecto. Buscaba el control de la ruta de tránsito para beneficio propio. -->
 - [ ] D) Traer la paz definitiva entre Costa Rica y Nicaragua.
   <!-- feedback: Incorrecto. Su presencia generó la mayor guerra del siglo en la región. -->
@@ -466,9 +466,9 @@ La derrota de los filibusteros en la Batalla de Rivas (donde destaca Juan Santam
 ### Opciones
 - [ ] A) Lograr que nadie trabaje para el gobierno nunca más.
   <!-- feedback: Incorrecto. El Estado requiere trabajadores para funcionar. -->
-- [x] B) Controlar el gasto público, eliminar las disparidades salariales injustas y garantizar la sostenibilidad fiscal a largo plazo.
+- [x] C) Controlar el gasto público, eliminar las disparidades salariales injustas y garantizar la sostenibilidad fiscal a largo plazo.
   <!-- feedback: ¡Correcto! Busca eficiencia y equidad en el uso de los recursos del Estado. -->
-- [ ] C) Aumentar los salarios de todos los empleados un 100% cada año.
+- [ ] B) Aumentar los salarios de todos los empleados un 100% cada año.
   <!-- feedback: Incorrecto. Esto iría en contra de la sostenibilidad fiscal. -->
 - [ ] D) Prohibir el uso de uniformes en las oficinas públicas.
   <!-- feedback: Incorrecto. No es un objetivo de la ley. -->

@@ -57,8 +57,8 @@ You ________ eat so much junk food if you want to stay healthy.
 
 ### Opciones
 - [ ] A) should <!-- feedback: Incorrect. Eating junk food is not good advice for staying healthy. -->
-- [x] B) shouldn't <!-- feedback: Correct! "Shouldn't" (should not) is used for negative advice. -->
-- [ ] C) don't have to <!-- feedback: Incorrect. This means it's not necessary, but "shouldn't" is better for advice. -->
+- [x] C) shouldn't <!-- feedback: Correct! "Shouldn't" (should not) is used for negative advice. -->
+- [ ] B) don't have to <!-- feedback: Incorrect. This means it's not necessary, but "shouldn't" is better for advice. -->
 - [ ] D) must <!-- feedback: Incorrect. "Must" expresses strong obligation, but the sentence is negative advice. -->
 
 ### Explicación Pedagógica
@@ -78,8 +78,8 @@ Students ________ wear their school uniform every day according to the school ru
 
 ### Opciones
 - [ ] A) should <!-- feedback: Incorrect. "Should" is advice, but school rules are usually obligations. -->
-- [x] B) must <!-- feedback: Correct! "Must" is used for strong obligations or rules. -->
-- [ ] C) shouldn't <!-- feedback: Incorrect. This contradicts the school rules mentioned. -->
+- [x] C) must <!-- feedback: Correct! "Must" is used for strong obligations or rules. -->
+- [ ] B) shouldn't <!-- feedback: Incorrect. This contradicts the school rules mentioned. -->
 - [ ] D) are should <!-- feedback: Incorrect. Grammatically incorrect combination. -->
 
 ### Explicación Pedagógica
@@ -98,8 +98,8 @@ Students ________ wear their school uniform every day according to the school ru
 Tomorrow is Sunday, so I ________ wake up early. I can sleep until late.
 
 ### Opciones
-- [ ] A) mustn't <!-- feedback: Incorrect. "Mustn't" means it is forbidden, not that it is unnecessary. -->
-- [x] B) don't have to <!-- feedback: Correct! "Don't have to" expresses lack of necessity. -->
+- [ ] B) mustn't <!-- feedback: Incorrect. "Mustn't" means it is forbidden, not that it is unnecessary. -->
+- [x] A) don't have to <!-- feedback: Correct! "Don't have to" expresses lack of necessity. -->
 - [ ] C) shouldn't <!-- feedback: Incorrect. It's not about advice, but about the absence of obligation. -->
 - [ ] D) haven't to <!-- feedback: Incorrect. The negative of "have to" is "don't have to". -->
 
@@ -120,9 +120,9 @@ You ________ wear a helmet when you ride your motorcycle in the city.
 
 ### Opciones
 - [ ] A) could <!-- feedback: Incorrect. "Could" is just a possibility, but this is a safety requirement. -->
-- [x] B) have to <!-- feedback: Correct! "Have to" expresses external obligation (like traffic laws). -->
-- [ ] C) don't must <!-- feedback: Incorrect. This form does not exist in English. -->
-- [ ] D) are having to <!-- feedback: Incorrect. "Have to" is rarely used in continuous form for general rules. -->
+- [x] D) have to <!-- feedback: Correct! "Have to" expresses external obligation (like traffic laws). -->
+- [ ] B) don't must <!-- feedback: Incorrect. This form does not exist in English. -->
+- [ ] C) are having to <!-- feedback: Incorrect. "Have to" is rarely used in continuous form for general rules. -->
 
 ### Explicación Pedagógica
 "Have to" se usa frecuentemente para obligaciones impuestas por una autoridad externa, como las leyes de tránsito.
@@ -140,10 +140,10 @@ You ________ wear a helmet when you ride your motorcycle in the city.
 If you visit Medellín, you ________ definitely take the Metrocable to see the view.
 
 ### Opciones
-- [x] A) should <!-- feedback: Correct! A friendly recommendation for a tourist. -->
-- [ ] B) must to <!-- feedback: Incorrect. "Must" does not take "to". -->
-- [ ] C) have <!-- feedback: Incorrect. Missing "to". -->
-- [ ] D) mustn't <!-- feedback: Incorrect. That would mean it's forbidden to take it. -->
+- [x] D) should <!-- feedback: Correct! A friendly recommendation for a tourist. -->
+- [ ] A) must to <!-- feedback: Incorrect. "Must" does not take "to". -->
+- [ ] B) have <!-- feedback: Incorrect. Missing "to". -->
+- [ ] C) mustn't <!-- feedback: Incorrect. That would mean it's forbidden to take it. -->
 
 ### Explicación Pedagógica
 Para dar recomendaciones culturales o turísticas, "should" es la opción más natural y cortés.
@@ -162,8 +162,8 @@ Which sentence has the same meaning as "You should study more"?
 
 ### Opciones
 - [ ] A) You must study more. <!-- feedback: Incorrect. "Must" is stronger than "should". -->
-- [x] B) You ought to study more. <!-- feedback: Correct! "Ought to" is a synonym of "should". -->
-- [ ] C) You have study more. <!-- feedback: Incorrect. Grammatically incomplete. -->
+- [x] C) You ought to study more. <!-- feedback: Correct! "Ought to" is a synonym of "should". -->
+- [ ] B) You have study more. <!-- feedback: Incorrect. Grammatically incomplete. -->
 - [ ] D) You better study more. <!-- feedback: Incorrect. Needs "had" (You'd better) to be correct. -->
 
 ### Explicación Pedagógica
@@ -226,8 +226,8 @@ Which sentence expresses the **strongest** obligation?
 
 ### Opciones
 - [ ] A) You should finish the report tonight. <!-- feedback: Incorrect. This is just advice. -->
-- [ ] B) You ought to finish the report tonight. <!-- feedback: Incorrect. Similar to "should". -->
-- [x] C) You must finish the report tonight; it's a matter of life or death! <!-- feedback: Correct! "Must" expresses the highest level of necessity or obligation. -->
+- [ ] C) You ought to finish the report tonight. <!-- feedback: Incorrect. Similar to "should". -->
+- [x] B) You must finish the report tonight; it's a matter of life or death! <!-- feedback: Correct! "Must" expresses the highest level of necessity or obligation. -->
 - [ ] D) You might finish the report tonight if you have time. <!-- feedback: Incorrect. This is just a possibility. -->
 
 ### Explicación Pedagógica
@@ -246,8 +246,8 @@ El estudiante debe evaluar la carga semántica de cada modal. "Must" es el más 
 Your boss says: "You'd better not be late for the meeting." What is the tone of this advice?
 
 ### Opciones
-- [ ] A) It's a friendly suggestion with no consequences. <!-- feedback: Incorrect. "Had better" implies consequences. -->
-- [x] B) It's a strong warning; there might be trouble if you are late. <!-- feedback: Correct! "Had better" is used for warnings. -->
+- [ ] B) It's a friendly suggestion with no consequences. <!-- feedback: Incorrect. "Had better" implies consequences. -->
+- [x] A) It's a strong warning; there might be trouble if you are late. <!-- feedback: Correct! "Had better" is used for warnings. -->
 - [ ] C) It's an invitation to a party. <!-- feedback: Incorrect. -->
 - [ ] D) The boss is asking for your opinion about the time. <!-- feedback: Incorrect. -->
 
@@ -268,9 +268,9 @@ Your boss says: "You'd better not be late for the meeting." What is the tone of 
 What is the most logical and helpful advice?
 
 ### Opciones
-- [x] A) You should take a painkiller now and you must call the dentist first thing tomorrow morning. <!-- feedback: Correct! Balanced advice with immediate and future steps. -->
-- [ ] B) You don't have to worry because teeth don't matter for presentations. <!-- feedback: Incorrect. Dismissive and unhelpful. -->
-- [ ] C) You mustn't go to the dentist ever. <!-- feedback: Incorrect. Dangerous advice. -->
+- [x] C) You should take a painkiller now and you must call the dentist first thing tomorrow morning. <!-- feedback: Correct! Balanced advice with immediate and future steps. -->
+- [ ] A) You don't have to worry because teeth don't matter for presentations. <!-- feedback: Incorrect. Dismissive and unhelpful. -->
+- [ ] B) You mustn't go to the dentist ever. <!-- feedback: Incorrect. Dangerous advice. -->
 - [ ] D) You should go to the cinema to forget the pain. <!-- feedback: Incorrect. Doesn't solve the problem. -->
 
 ### Explicación Pedagógica

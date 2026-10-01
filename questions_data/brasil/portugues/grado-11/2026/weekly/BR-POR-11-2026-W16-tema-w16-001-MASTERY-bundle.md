@@ -34,8 +34,8 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 No estudo de Semântica e Relações de Sentido, especificamente sobre Sinonímia e Antonímia, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de sentidos semelhantes e sentidos opostos?
 
 ### Opciones
-- [x] A) A aplicação adequada de sentidos semelhantes permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Sinonímia e Antonímia. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de sentidos semelhantes limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Sinonímia e Antonímia. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [x] B) A aplicação adequada de sentidos semelhantes permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Sinonímia e Antonímia. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de sentidos semelhantes limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Sinonímia e Antonímia. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
 - [ ] C) O fenômeno de sentidos opostos impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. sentidos opostos é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Sinonímia e Antonímia aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
@@ -53,8 +53,8 @@ A compreensão de Sinonímia e Antonímia no contexto de Semântica e Relações
 No estudo de Semântica e Relações de Sentido, especificamente sobre Hipotenímia e Hiperonímia, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de relação espécie-gênero e hierarquia semântica?
 
 ### Opciones
-- [x] A) A aplicação adequada de relação espécie-gênero permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Hipotenímia e Hiperonímia. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de relação espécie-gênero limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Hipotenímia e Hiperonímia. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [x] B) A aplicação adequada de relação espécie-gênero permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Hipotenímia e Hiperonímia. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de relação espécie-gênero limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Hipotenímia e Hiperonímia. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
 - [ ] C) O fenômeno de hierarquia semântica impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. hierarquia semântica é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Hipotenímia e Hiperonímia aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
@@ -110,8 +110,8 @@ A compreensão de Homonímia (Homófonos/Homógrafos) no contexto de Semântica 
 No estudo de Semântica e Relações de Sentido, especificamente sobre Paronímia (Palavras Parecidas), qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de grafia semelhante e significados distintos?
 
 ### Opciones
-- [x] A) A aplicação adequada de grafia semelhante permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Paronímia (Palavras Parecidas). <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de grafia semelhante limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Paronímia (Palavras Parecidas). <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [x] B) A aplicação adequada de grafia semelhante permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Paronímia (Palavras Parecidas). <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de grafia semelhante limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Paronímia (Palavras Parecidas). <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
 - [ ] C) O fenômeno de significados distintos impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. significados distintos é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Paronímia (Palavras Parecidas) aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
@@ -129,10 +129,10 @@ A compreensão de Paronímia (Palavras Parecidas) no contexto de Semântica e Re
 No estudo de Semântica e Relações de Sentido, especificamente sobre Denotação vs Conotação, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de sentido literal e sentido figurado?
 
 ### Opciones
-- [x] A) A aplicação adequada de sentido literal permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Denotação vs Conotação. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de sentido literal limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Denotação vs Conotação. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de sentido figurado impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. sentido figurado é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
-- [ ] D) A análise de Denotação vs Conotação aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
+- [x] D) A aplicação adequada de sentido literal permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Denotação vs Conotação. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de sentido literal limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Denotação vs Conotação. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de sentido figurado impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. sentido figurado é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [ ] C) A análise de Denotação vs Conotação aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
 A compreensão de Denotação vs Conotação no contexto de Semântica e Relações de Sentido exige identificar como sentido literal e sentido figurado articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.
@@ -148,10 +148,10 @@ A compreensão de Denotação vs Conotação no contexto de Semântica e Relaç�
 No estudo de Semântica e Relações de Sentido, especificamente sobre Ambiguidade Lexical e Sintática, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de dupla interpretação e construção ambígua?
 
 ### Opciones
-- [x] A) A aplicação adequada de dupla interpretação permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Ambiguidade Lexical e Sintática. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de dupla interpretação limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Ambiguidade Lexical e Sintática. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de construção ambígua impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. construção ambígua é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
-- [ ] D) A análise de Ambiguidade Lexical e Sintática aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
+- [x] D) A aplicação adequada de dupla interpretação permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Ambiguidade Lexical e Sintática. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de dupla interpretação limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Ambiguidade Lexical e Sintática. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de construção ambígua impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. construção ambígua é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [ ] C) A análise de Ambiguidade Lexical e Sintática aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
 A compreensão de Ambiguidade Lexical e Sintática no contexto de Semântica e Relações de Sentido exige identificar como dupla interpretação e construção ambígua articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.
@@ -167,9 +167,9 @@ A compreensão de Ambiguidade Lexical e Sintática no contexto de Semântica e R
 No estudo de Semântica e Relações de Sentido, especificamente sobre Pressupostos e Subentendidos, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de marcas gramaticais de sentido e inferência implícita?
 
 ### Opciones
-- [x] A) A aplicação adequada de marcas gramaticais de sentido permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Pressupostos e Subentendidos. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de marcas gramaticais de sentido limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Pressupostos e Subentendidos. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de inferência implícita impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. inferência implícita é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [x] C) A aplicação adequada de marcas gramaticais de sentido permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Pressupostos e Subentendidos. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de marcas gramaticais de sentido limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Pressupostos e Subentendidos. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de inferência implícita impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. inferência implícita é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Pressupostos e Subentendidos aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
@@ -186,9 +186,9 @@ A compreensão de Pressupostos e Subentendidos no contexto de Semântica e Rela�
 No estudo de Semântica e Relações de Sentido, especificamente sobre Mudança Semântica no Tempo, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de deslocamento de sentido e pejorativa ou mehorativa?
 
 ### Opciones
-- [x] A) A aplicação adequada de deslocamento de sentido permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Mudança Semântica no Tempo. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de deslocamento de sentido limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Mudança Semântica no Tempo. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de pejorativa ou mehorativa impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. pejorativa ou mehorativa é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [x] C) A aplicação adequada de deslocamento de sentido permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Mudança Semântica no Tempo. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de deslocamento de sentido limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Mudança Semântica no Tempo. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de pejorativa ou mehorativa impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. pejorativa ou mehorativa é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Mudança Semântica no Tempo aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
@@ -224,8 +224,8 @@ A compreensão de Campos Semânticos e Lexicais no contexto de Semântica e Rela
 No estudo de Semântica e Relações de Sentido, especificamente sobre Eufemismo e Suavização Semântica, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de atenuante verbal e tabu linguístico?
 
 ### Opciones
-- [x] A) A aplicação adequada de atenuante verbal permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Eufemismo e Suavização Semântica. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de atenuante verbal limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Eufemismo e Suavização Semântica. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [x] B) A aplicação adequada de atenuante verbal permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Eufemismo e Suavização Semântica. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de atenuante verbal limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Eufemismo e Suavização Semântica. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
 - [ ] C) O fenômeno de tabu linguístico impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. tabu linguístico é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Eufemismo e Suavização Semântica aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
@@ -243,8 +243,8 @@ A compreensão de Eufemismo e Suavização Semântica no contexto de Semântica 
 No estudo de Semântica e Relações de Sentido, especificamente sobre Ironia e Inversão Semântica, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de dizer o oposto e intenção sarcástica?
 
 ### Opciones
-- [x] A) A aplicação adequada de dizer o oposto permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Ironia e Inversão Semântica. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de dizer o oposto limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Ironia e Inversão Semântica. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [x] B) A aplicação adequada de dizer o oposto permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Ironia e Inversão Semântica. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de dizer o oposto limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Ironia e Inversão Semântica. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
 - [ ] C) O fenômeno de intenção sarcástica impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. intenção sarcástica é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Ironia e Inversão Semântica aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
@@ -262,8 +262,8 @@ A compreensão de Ironia e Inversão Semântica no contexto de Semântica e Rela
 No estudo de Semântica e Relações de Sentido, especificamente sobre Metáfora Denotativa e Morta, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de catacrese cristalizada e uso cotidiano?
 
 ### Opciones
-- [x] A) A aplicação adequada de catacrese cristalizada permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Metáfora Denotativa e Morta. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de catacrese cristalizada limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Metáfora Denotativa e Morta. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [x] B) A aplicação adequada de catacrese cristalizada permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Metáfora Denotativa e Morta. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de catacrese cristalizada limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Metáfora Denotativa e Morta. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
 - [ ] C) O fenômeno de uso cotidiano impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. uso cotidiano é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Metáfora Denotativa e Morta aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
@@ -281,10 +281,10 @@ A compreensão de Metáfora Denotativa e Morta no contexto de Semântica e Rela�
 No estudo de Semântica e Relações de Sentido, especificamente sobre Semântica dos Conectores, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de mudança de conector e alteração de sentido?
 
 ### Opciones
-- [x] A) A aplicação adequada de mudança de conector permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Semântica dos Conectores. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de mudança de conector limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Semântica dos Conectores. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de alteração de sentido impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. alteração de sentido é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
-- [ ] D) A análise de Semântica dos Conectores aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
+- [x] D) A aplicação adequada de mudança de conector permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Semântica dos Conectores. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de mudança de conector limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Semântica dos Conectores. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de alteração de sentido impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. alteração de sentido é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [ ] C) A análise de Semântica dos Conectores aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
 A compreensão de Semântica dos Conectores no contexto de Semântica e Relações de Sentido exige identificar como mudança de conector e alteração de sentido articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.
@@ -300,10 +300,10 @@ A compreensão de Semântica dos Conectores no contexto de Semântica e Relaçõ
 No estudo de Semântica e Relações de Sentido, especificamente sobre Vaguidade e Imprecisão Lexical, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de palavras-ônibus e falta de clareza?
 
 ### Opciones
-- [x] A) A aplicação adequada de palavras-ônibus permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Vaguidade e Imprecisão Lexical. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de palavras-ônibus limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Vaguidade e Imprecisão Lexical. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de falta de clareza impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. falta de clareza é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
-- [ ] D) A análise de Vaguidade e Imprecisão Lexical aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
+- [x] D) A aplicação adequada de palavras-ônibus permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Vaguidade e Imprecisão Lexical. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de palavras-ônibus limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Vaguidade e Imprecisão Lexical. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de falta de clareza impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. falta de clareza é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [ ] C) A análise de Vaguidade e Imprecisão Lexical aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
 A compreensão de Vaguidade e Imprecisão Lexical no contexto de Semântica e Relações de Sentido exige identificar como palavras-ônibus e falta de clareza articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.
@@ -319,8 +319,8 @@ A compreensão de Vaguidade e Imprecisão Lexical no contexto de Semântica e Re
 No estudo de Semântica e Relações de Sentido, especificamente sobre Orientação Semântica do Adjetivo, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de posição do adjetivo e mudança de significado?
 
 ### Opciones
-- [x] A) A aplicação adequada de posição do adjetivo permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Orientação Semântica do Adjetivo. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de posição do adjetivo limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Orientação Semântica do Adjetivo. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [x] B) A aplicação adequada de posição do adjetivo permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Orientação Semântica do Adjetivo. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de posição do adjetivo limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Orientação Semântica do Adjetivo. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
 - [ ] C) O fenômeno de mudança de significado impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. mudança de significado é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Orientação Semântica do Adjetivo aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
@@ -338,8 +338,8 @@ A compreensão de Orientação Semântica do Adjetivo no contexto de Semântica 
 No estudo de Semântica e Relações de Sentido, especificamente sobre Análise Semântica de Tropos, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de densidade figurativa e complexidade conotativa?
 
 ### Opciones
-- [x] A) A aplicação adequada de densidade figurativa permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Análise Semântica de Tropos. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de densidade figurativa limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Análise Semântica de Tropos. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [x] B) A aplicação adequada de densidade figurativa permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Análise Semântica de Tropos. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de densidade figurativa limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Análise Semântica de Tropos. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
 - [ ] C) O fenômeno de complexidade conotativa impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. complexidade conotativa é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Análise Semântica de Tropos aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
@@ -357,8 +357,8 @@ A compreensão de Análise Semântica de Tropos no contexto de Semântica e Rela
 No estudo de Semântica e Relações de Sentido, especificamente sobre Inferências em Textos Complexos, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de leitura nas entrelinhas e dedução lógica?
 
 ### Opciones
-- [x] A) A aplicação adequada de leitura nas entrelinhas permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Inferências em Textos Complexos. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de leitura nas entrelinhas limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Inferências em Textos Complexos. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [x] B) A aplicação adequada de leitura nas entrelinhas permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Inferências em Textos Complexos. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de leitura nas entrelinhas limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Inferências em Textos Complexos. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
 - [ ] C) O fenômeno de dedução lógica impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. dedução lógica é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Inferências em Textos Complexos aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
@@ -376,8 +376,8 @@ A compreensão de Inferências em Textos Complexos no contexto de Semântica e R
 No estudo de Semântica e Relações de Sentido, especificamente sobre Desconstrução Semântica, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de polifonia de sentidos e desencadeamento textual?
 
 ### Opciones
-- [x] A) A aplicação adequada de polifonia de sentidos permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Desconstrução Semântica. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de polifonia de sentidos limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Desconstrução Semântica. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [x] B) A aplicação adequada de polifonia de sentidos permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Desconstrução Semântica. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de polifonia de sentidos limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Desconstrução Semântica. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
 - [ ] C) O fenômeno de desencadeamento textual impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. desencadeamento textual é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Desconstrução Semântica aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 

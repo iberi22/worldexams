@@ -30,9 +30,9 @@ bundle_index: 1
 
 ### Opciones
 - [ ] A) Es la función que resulta de elevar $f(x)$ al cuadrado. <!-- feedback: Operación incorrecta. -->
-- [x] B) Es una función cuya derivada es igual a $f(x)$, es decir, $F'(x) = f(x)$. <!-- feedback: Correcto. La integración es el proceso inverso a la derivación. -->
-- [ ] C) Es la inversa de la función $f(x)$ respecto a la composición. <!-- feedback: Esta es la función inversa $f^{-1}(x)$, no la primitiva. -->
-- [ ] D) Es el límite de la función $f(x)$ cuando $x$ tiende a infinito. <!-- feedback: Definición incorrecta. -->
+- [x] D) Es una función cuya derivada es igual a $f(x)$, es decir, $F'(x) = f(x)$. <!-- feedback: Correcto. La integración es el proceso inverso a la derivación. -->
+- [ ] B) Es la inversa de la función $f(x)$ respecto a la composición. <!-- feedback: Esta es la función inversa $f^{-1}(x)$, no la primitiva. -->
+- [ ] C) Es el límite de la función $f(x)$ cuando $x$ tiende a infinito. <!-- feedback: Definición incorrecta. -->
 
 ### Explicacion Pedagogica
 Integrar es hallar una función conociendo su tasa de variación. Por ejemplo, si la derivada es $2x$, la primitiva es $x^2$ (más una constante).
@@ -52,8 +52,8 @@ Integrar es hallar una función conociendo su tasa de variación. Por ejemplo, s
 ### Opciones
 - [ ] A) Porque la integral siempre debe dar un resultado positivo. <!-- feedback: El resultado puede ser negativo. -->
 - [ ] B) Porque la integral es una función exponencial. <!-- feedback: No necesariamente. -->
-- [x] C) Porque la derivada de cualquier constante es cero, y existen infinitas primitivas que difieren solo en una constante. <!-- feedback: Correcto. Todas las funciones $F(x) + C$ tienen la misma derivada $f(x)$. -->
-- [ ] D) Es una convención sin significado real. <!-- feedback: Tiene un significado fundamental en la solución de ecuaciones diferenciales. -->
+- [x] D) Porque la derivada de cualquier constante es cero, y existen infinitas primitivas que difieren solo en una constante. <!-- feedback: Correcto. Todas las funciones $F(x) + C$ tienen la misma derivada $f(x)$. -->
+- [ ] C) Es una convención sin significado real. <!-- feedback: Tiene un significado fundamental en la solución de ecuaciones diferenciales. -->
 
 ### Explicacion Pedagogica
 Al derivar, perdemos la información sobre el término constante. Al integrar, debemos representar todas las posibles funciones originales mediante la familia de curvas $F(x) + C$.
@@ -71,8 +71,8 @@ Al derivar, perdemos la información sobre el término constante. Al integrar, d
 ¿Cuál es la integral indefinida de la función $f(x) = x^n$, suponiendo $n \neq -1$?
 
 ### Opciones
-- [ ] A) $n \cdot x^{n-1} + C$ <!-- feedback: Esta es la regla para la derivada. -->
-- [x] B) $\frac{x^{n+1}}{n+1} + C$ <!-- feedback: Correcto. Al integrar, sumamos 1 al exponente y dividimos por el nuevo exponente. -->
+- [ ] B) $n \cdot x^{n-1} + C$ <!-- feedback: Esta es la regla para la derivada. -->
+- [x] A) $\frac{x^{n+1}}{n+1} + C$ <!-- feedback: Correcto. Al integrar, sumamos 1 al exponente y dividimos por el nuevo exponente. -->
 - [ ] C) $x^{n+1} + C$ <!-- feedback: Falta dividir por el nuevo exponente. -->
 - [ ] D) $\ln(x^n) + C$ <!-- feedback: Regla incorrecta. -->
 
@@ -93,9 +93,9 @@ La regla de la potencia para integrales es el proceso inverso a la regla de la p
 
 ### Opciones
 - [ ] A) $\frac{x^0}{0} + C$ <!-- feedback: La regla de la potencia falla para n = -1 porque el denominador se anula. -->
-- [x] B) $\ln(x) + C$ <!-- feedback: Correcto. La primitiva de $1/x$ es el logaritmo neperiano de x. -->
-- [ ] C) $e^x + C$ <!-- feedback: La primitiva de e^x es e^x. -->
-- [ ] D) $-1/x^2 + C$ <!-- feedback: Esta es la derivada de 1/x. -->
+- [x] D) $\ln(x) + C$ <!-- feedback: Correcto. La primitiva de $1/x$ es el logaritmo neperiano de x. -->
+- [ ] B) $e^x + C$ <!-- feedback: La primitiva de e^x es e^x. -->
+- [ ] C) $-1/x^2 + C$ <!-- feedback: Esta es la derivada de 1/x. -->
 
 ### Explicacion Pedagogica
 La función $1/x$ es la única potencia de $x$ cuya integral no sigue la regla general de sumarle uno al exponente, resultando en una función logarítmica.
@@ -113,8 +113,8 @@ La función $1/x$ es la única potencia de $x$ cuya integral no sigue la regla g
 Halla la integral indefinida: $\int (3x^2 + 4x - 5) \, dx$.
 
 ### Opciones
-- [ ] A) $x^3 + 2x^2 + C$ <!-- feedback: Falta el término correspondiente a la constante -5. -->
-- [x] B) $x^3 + 2x^2 - 5x + C$ <!-- feedback: Correcto. Integrando término a término: $3(x^3/3) + 4(x^2/2) - 5x = x^3 + 2x^2 - 5x$. -->
+- [ ] B) $x^3 + 2x^2 + C$ <!-- feedback: Falta el término correspondiente a la constante -5. -->
+- [x] A) $x^3 + 2x^2 - 5x + C$ <!-- feedback: Correcto. Integrando término a término: $3(x^3/3) + 4(x^2/2) - 5x = x^3 + 2x^2 - 5x$. -->
 - [ ] C) $6x + 4 + C$ <!-- feedback: Se ha derivado en lugar de integrar. -->
 - [ ] D) $x^3 + 4x^2 - 5x + C$ <!-- feedback: Error al integrar el término 4x. -->
 
@@ -156,8 +156,8 @@ Para integrar radicales, primero los escribimos como potencias de exponente frac
 
 ### Opciones
 - [ ] A) $\text{sen}(x)$ <!-- feedback: Correcto, pero falta la constante de integración. -->
-- [x] B) $\text{sen}(x) + C$ <!-- feedback: Correcto. La derivada del seno es el coseno. -->
-- [ ] C) $-\text{sen}(x) + C$ <!-- feedback: Esta es la derivada del coseno. -->
+- [x] C) $\text{sen}(x) + C$ <!-- feedback: Correcto. La derivada del seno es el coseno. -->
+- [ ] B) $-\text{sen}(x) + C$ <!-- feedback: Esta es la derivada del coseno. -->
 - [ ] D) $\cos(x) + C$ <!-- feedback: Solo la función exponencial de base e es su propia primitiva. -->
 
 ### Explicacion Pedagogica
@@ -177,9 +177,9 @@ Es fundamental no confundir los signos al integrar funciones trigonométricas. R
 
 ### Opciones
 - [ ] A) $2^x \cdot \ln(2) + C$ <!-- feedback: Esta es la derivada de 2^x. -->
-- [x] B) $\frac{2^x}{\ln(2)} + C$ <!-- feedback: Correcto. Al integrar una exponencial, se divide por el logaritmo neperiano de la base. -->
-- [ ] C) $\frac{x^2}{2} + C$ <!-- feedback: Error al confundir función exponencial con función potencia. -->
-- [ ] D) $2^x + C$ <!-- feedback: Solo válido si la base fuera el número e. -->
+- [x] D) $\frac{2^x}{\ln(2)} + C$ <!-- feedback: Correcto. Al integrar una exponencial, se divide por el logaritmo neperiano de la base. -->
+- [ ] B) $\frac{x^2}{2} + C$ <!-- feedback: Error al confundir función exponencial con función potencia. -->
+- [ ] C) $2^x + C$ <!-- feedback: Solo válido si la base fuera el número e. -->
 
 ### Explicacion Pedagogica
 Para funciones exponenciales $a^x$, la regla de integración requiere compensar el factor $\ln(a)$ que aparecería al derivar, por lo que dividimos por dicho valor.
@@ -198,8 +198,8 @@ Si la velocidad inicial es $v(0) = 10 \text{ m/s}$, halla la función de velocid
 
 ### Opciones
 - [ ] A) $v(t) = 9,8t$ <!-- feedback: Falta la constante de integración (velocidad inicial). -->
-- [x] B) $v(t) = 9,8t + 10$ <!-- feedback: Correcto. $\int 9,8 \, dt = 9,8t + C$. Como $v(0)=10$, entonces $C=10$. -->
-- [ ] C) $v(t) = 4,9t^2 + 10$ <!-- feedback: Esta sería la función de posición si v era la aceleración. -->
+- [x] C) $v(t) = 9,8t + 10$ <!-- feedback: Correcto. $\int 9,8 \, dt = 9,8t + C$. Como $v(0)=10$, entonces $C=10$. -->
+- [ ] B) $v(t) = 4,9t^2 + 10$ <!-- feedback: Esta sería la función de posición si v era la aceleración. -->
 - [ ] D) $v(t) = 10t + 9,8$ <!-- feedback: Error en la asignación de los valores. -->
 
 ### Explicacion Pedagogica
@@ -219,8 +219,8 @@ Los problemas de condiciones iniciales permiten determinar el valor exacto de la
 
 ### Opciones
 - [ ] A) $y = x^2 + x + C$ <!-- feedback: Esta es la familia general, falta hallar C. -->
-- [x] B) $y = x^2 + x + 3$ <!-- feedback: Correcto. $\int (2x+1)dx = x^2+x+C$. En $(1,5): 1^2+1+C=5 \Rightarrow 2+C=5 \Rightarrow C=3$. -->
-- [ ] C) $y = 2x^2 + x + 2$ <!-- feedback: Error al integrar el primer término. -->
+- [x] C) $y = x^2 + x + 3$ <!-- feedback: Correcto. $\int (2x+1)dx = x^2+x+C$. En $(1,5): 1^2+1+C=5 \Rightarrow 2+C=5 \Rightarrow C=3$. -->
+- [ ] B) $y = 2x^2 + x + 2$ <!-- feedback: Error al integrar el primer término. -->
 - [ ] D) $y = x^2 + x + 5$ <!-- feedback: Error al calcular el valor de C. -->
 
 ### Explicacion Pedagogica
@@ -240,9 +240,9 @@ Integrar la función de pendiente nos devuelve la función original de la curva.
 
 ### Opciones
 - [ ] A) $\frac{1}{x^2+1} + C$ <!-- feedback: Esta es una forma similar a la derivada del arco tangente, pero el numerador es distinto. -->
-- [x] B) $\ln(x^2 + 1) + C$ <!-- feedback: Correcto. Es del tipo $\int \frac{u'}{u} = \ln|u| + C$. El numerador es exactamente la derivada del denominador. -->
-- [ ] C) $\arctan(x) + C$ <!-- feedback: Esto sería si el numerador fuera 1, no 2x. -->
-- [ ] D) $2 \ln(x) + C$ <!-- feedback: El argumento del logaritmo debe ser el denominador completo. -->
+- [x] D) $\ln(x^2 + 1) + C$ <!-- feedback: Correcto. Es del tipo $\int \frac{u'}{u} = \ln|u| + C$. El numerador es exactamente la derivada del denominador. -->
+- [ ] B) $\arctan(x) + C$ <!-- feedback: Esto sería si el numerador fuera 1, no 2x. -->
+- [ ] C) $2 \ln(x) + C$ <!-- feedback: El argumento del logaritmo debe ser el denominador completo. -->
 
 ### Explicacion Pedagogica
 Una de las integrales inmediatas más comunes en EBAU es la del tipo logarítmico, donde el numerador es (o puede convertirse en) la derivada del denominador.
@@ -261,8 +261,8 @@ Calcula $\int \text{sen}(3x) \, dx$.
 
 ### Opciones
 - [ ] A) $3 \cos(3x) + C$ <!-- feedback: Esta es la derivada de la función interna por la externa. -->
-- [x] B) $-\frac{1}{3} \cos(3x) + C$ <!-- feedback: Correcto. Al integrar una función compuesta lineal, se divide por el coeficiente de la x. -->
-- [ ] C) $\frac{1}{3} \cos(3x) + C$ <!-- feedback: Error de signo (la integral del seno es menos coseno). -->
+- [x] C) $-\frac{1}{3} \cos(3x) + C$ <!-- feedback: Correcto. Al integrar una función compuesta lineal, se divide por el coeficiente de la x. -->
+- [ ] B) $\frac{1}{3} \cos(3x) + C$ <!-- feedback: Error de signo (la integral del seno es menos coseno). -->
 - [ ] D) $-\cos(3x) + C$ <!-- feedback: Falta compensar la derivada interna (el 3). -->
 
 ### Explicacion Pedagogica
@@ -281,8 +281,8 @@ Al integrar $f(ax+b)$, el resultado es $\frac{1}{a} F(ax+b)$. Es una aplicación
 Halla el valor de $\int \frac{1}{x^2 + 9} \, dx$.
 
 ### Opciones
-- [ ] A) $\arctan(x/9) + C$ <!-- feedback: Error al aplicar la constante de la fórmula. -->
-- [x] B) $\frac{1}{3} \arctan(x/3) + C$ <!-- feedback: Correcto. Aplicando la fórmula $\int \frac{1}{x^2+a^2} = \frac{1}{a} \arctan(x/a)$. Aquí $a=3$. -->
+- [ ] B) $\arctan(x/9) + C$ <!-- feedback: Error al aplicar la constante de la fórmula. -->
+- [x] A) $\frac{1}{3} \arctan(x/3) + C$ <!-- feedback: Correcto. Aplicando la fórmula $\int \frac{1}{x^2+a^2} = \frac{1}{a} \arctan(x/a)$. Aquí $a=3$. -->
 - [ ] C) $\ln(x^2 + 9) + C$ <!-- feedback: Falta la x en el numerador para que sea logarítmica. -->
 - [ ] D) $\frac{1}{9} \arctan(x/9) + C$ <!-- feedback: Error al identificar el valor de a (es la raíz de 9). -->
 
@@ -303,9 +303,9 @@ Resuelve $\int e^{5x} \, dx$.
 
 ### Opciones
 - [ ] A) $5e^{5x} + C$ <!-- feedback: Esta es la derivada de la función. -->
-- [x] B) $\frac{1}{5} e^{5x} + C$ <!-- feedback: Correcto. Al integrar $e^{ux}$, dividimos por la derivada del exponente si esta es constante. -->
-- [ ] C) $e^{5x} + C$ <!-- feedback: Falta el factor de corrección. -->
-- [ ] D) $\frac{e^{6x}}{6} + C$ <!-- feedback: Confusión con la regla de la potencia. -->
+- [x] D) $\frac{1}{5} e^{5x} + C$ <!-- feedback: Correcto. Al integrar $e^{ux}$, dividimos por la derivada del exponente si esta es constante. -->
+- [ ] B) $e^{5x} + C$ <!-- feedback: Falta el factor de corrección. -->
+- [ ] C) $\frac{e^{6x}}{6} + C$ <!-- feedback: Confusión con la regla de la potencia. -->
 
 ### Explicacion Pedagogica
 La integración de la función exponencial con exponente lineal es una de las operaciones más básicas y repetitivas en el cálculo de primitivas.
@@ -324,8 +324,8 @@ La integración de la función exponencial con exponente lineal es una de las op
 
 ### Opciones
 - [ ] A) 7 <!-- feedback: Esta es la constante del denominador, no su derivada. -->
-- [x] B) 2 <!-- feedback: Correcto. La derivada de $2x+7$ es 2. Podemos multiplicar y dividir por 2 para completar la integral. -->
-- [ ] C) 1/2 <!-- feedback: Esta es la constante que quedará fuera de la integral tras el ajuste. -->
+- [x] C) 2 <!-- feedback: Correcto. La derivada de $2x+7$ es 2. Podemos multiplicar y dividir por 2 para completar la integral. -->
+- [ ] B) 1/2 <!-- feedback: Esta es la constante que quedará fuera de la integral tras el ajuste. -->
 - [ ] D) $x$ <!-- feedback: No se pueden introducir variables fuera de la integral para ajustar el numerador. -->
 
 ### Explicacion Pedagogica
@@ -386,8 +386,8 @@ Cuando el grado de $P(x) \geq$ grado de $Q(x)$, la división permite escribir la
 ¿Cómo se resuelve la integral de la tangente escribiéndola como cociente de seno y coseno?
 
 ### Opciones
-- [ ] A) Es de tipo arco tangente, resultado $\arctan(x) + C$. <!-- feedback: La tangente no integra como arco tangente. -->
-- [x] B) Es de tipo logarítmico, resultado $-\ln|\cos(x)| + C$. <!-- feedback: Correcto. $\int \frac{\text{sen}(x)}{\cos(x)} dx$. La derivada del denominador es $-\text{sen}(x)$, por lo que ajustamos el signo. -->
+- [ ] B) Es de tipo arco tangente, resultado $\arctan(x) + C$. <!-- feedback: La tangente no integra como arco tangente. -->
+- [x] A) Es de tipo logarítmico, resultado $-\ln|\cos(x)| + C$. <!-- feedback: Correcto. $\int \frac{\text{sen}(x)}{\cos(x)} dx$. La derivada del denominador es $-\text{sen}(x)$, por lo que ajustamos el signo. -->
 - [ ] C) Es inmediata, resultado $\sec^2(x) + C$. <!-- feedback: Esta es la derivada de la tangente. -->
 - [ ] D) No tiene primitiva expresable mediante funciones elementales. <!-- feedback: Sí la tiene y es logarítmica. -->
 

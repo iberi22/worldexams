@@ -34,9 +34,9 @@ Este bundle de 10 preguntas invita a los estudiantes de sexto grado a reconocer 
 ### Opciones
 - [ ] A) El Sol
   <!-- feedback: Incorrecto. El Sol es una estrella, no un satélite de la Tierra. -->
-- [x] B) La Luna
+- [x] C) La Luna
   <!-- feedback: Correcto. La Luna es el satélite natural de la Tierra y gira a su alrededor. -->
-- [ ] C) Mercurio
+- [ ] B) Mercurio
   <!-- feedback: Incorrecto. Mercurio es un planeta del sistema solar, no un satélite de la Tierra. -->
 - [ ] D) Venus
   <!-- feedback: Incorrecto. Venus es un planeta vecino, no un satélite de la Tierra. -->
@@ -52,13 +52,13 @@ La Luna es el único satélite natural de la Tierra; se mueve en órbita alreded
 ### Enunciado
 ¿Cuáles son las cuatro fases principales que se reconocen en el ciclo lunar visto desde la Tierra?
 ### Opciones
-- [x] A) Luna nueva, cuarto creciente, luna llena y cuarto menguante
+- [x] D) Luna nueva, cuarto creciente, luna llena y cuarto menguante
   <!-- feedback: Correcto. Esas son las cuatro fases más usadas para describir el ciclo lunar mes a mes. -->
-- [ ] B) Luna roja, luna azul, luna blanca y luna amarilla
+- [ ] A) Luna roja, luna azul, luna blanca y luna amarilla
   <!-- feedback: Incorrecto. Esos no son nombres de fases; son referencias a colores especiales, no a fases reales. -->
-- [ ] C) Luna nueva, luna grande, luna vieja y luna chiquita
+- [ ] B) Luna nueva, luna grande, luna vieja y luna chiquita
   <!-- feedback: Incorrecto. "Grande" y "chiquita" no son fases; el tamaño aparente no define una fase. -->
-- [ ] D) Cuarto creciente, cuarto chiquito, cuarto grande y cuarto menguante
+- [ ] C) Cuarto creciente, cuarto chiquito, cuarto grande y cuarto menguante
   <!-- feedback: Incorrecto. "Cuarto chiquito" y "cuarto grande" no son fases reconocidas oficialmente. -->
 ### Explicacion Pedagogica
 Durante el ciclo lunar de unos 29 días, la Luna pasa por cuatro fases principales: luna nueva (no se ve), cuarto creciente, luna llena y cuarto menguante, que se repiten en forma continua cada mes lunar.
@@ -74,9 +74,9 @@ Durante el ciclo lunar de unos 29 días, la Luna pasa por cuatro fases principal
 ### Opciones
 - [ ] A) Porque la Luna cambia de tamaño real a lo largo del mes
   <!-- feedback: Incorrecto. La Luna mantiene un tamaño similar; no crece ni encoge de manera perceptible. -->
-- [ ] B) Porque la Luna emite luz propia que varía con el tiempo
+- [ ] C) Porque la Luna emite luz propia que varía con el tiempo
   <!-- feedback: Incorrecto. La Luna no emite luz propia; refleja la luz del Sol. -->
-- [x] C) Porque la porción iluminada por el Sol que vemos desde la Tierra cambia según la posición de la Luna respecto a la Tierra y al Sol
+- [x] B) Porque la porción iluminada por el Sol que vemos desde la Tierra cambia según la posición de la Luna respecto a la Tierra y al Sol
   <!-- feedback: Correcto. Las fases son producto de la geometría Sol-Tierra-Luna, no de cambios en la Luna. -->
 - [ ] D) Porque la Luna se mete dentro de la Tierra en ciertas noches
   <!-- feedback: Incorrecto. La Luna nunca entra al interior de la Tierra; siempre orbita por fuera. -->
@@ -92,13 +92,13 @@ La Luna siempre está iluminada en su mitad que mira al Sol; desde la Tierra sol
 ### Enunciado
 ¿Cuál es el orden correcto de los astros durante un eclipse solar?
 ### Opciones
-- [x] A) Sol, Luna y Tierra, con la Luna ubicada entre el Sol y la Tierra
+- [x] D) Sol, Luna y Tierra, con la Luna ubicada entre el Sol y la Tierra
   <!-- feedback: Correcto. En el eclipse solar la Luna pasa entre el Sol y la Tierra y oculta parte del disco solar. -->
-- [ ] B) Sol, Tierra y Luna, con la Tierra entre el Sol y la Luna
+- [ ] A) Sol, Tierra y Luna, con la Tierra entre el Sol y la Luna
   <!-- feedback: Incorrecto. Ese es el orden de un eclipse lunar, no de uno solar. -->
-- [ ] C) Luna, Sol y Tierra, con el Sol en el centro
+- [ ] B) Luna, Sol y Tierra, con el Sol en el centro
   <!-- feedback: Incorrecto. El Sol siempre está en el centro de los eclipses considerados en el sistema solar; aquí está mal ubicado. -->
-- [ ] D) Tierra, Sol y Luna, con el Sol entre los otros dos
+- [ ] C) Tierra, Sol y Luna, con el Sol entre los otros dos
   <!-- feedback: Incorrecto. El Sol no se interpone entre la Tierra y la Luna en un eclipse solar. -->
 ### Explicacion Pedagogica
 Un eclipse solar ocurre cuando la Luna se interpone entre el Sol y la Tierra; la sombra de la Luna cae sobre una franja de la Tierra y desde allí se ve al Sol de forma parcial o totalmente cubierta.
@@ -112,11 +112,11 @@ Un eclipse solar ocurre cuando la Luna se interpone entre el Sol y la Tierra; la
 ### Enunciado
 ¿Cómo se produce un eclipse lunar según la posición de los astros?
 ### Opciones
-- [ ] A) Cuando la Luna se ubica entre el Sol y la Tierra
+- [ ] B) Cuando la Luna se ubica entre el Sol y la Tierra
   <!-- feedback: Incorrecto. Esa configuración corresponde al eclipse solar, no al lunar. -->
-- [ ] B) Cuando el Sol se apaga de forma temporal
+- [ ] C) Cuando el Sol se apaga de forma temporal
   <!-- feedback: Incorrecto. El Sol no se apaga; el efecto se debe a la sombra terrestre. -->
-- [x] C) Cuando la Tierra se interpone entre el Sol y la Luna y proyecta su sombra sobre la Luna
+- [x] A) Cuando la Tierra se interpone entre el Sol y la Luna y proyecta su sombra sobre la Luna
   <!-- feedback: Correcto. La Tierra bloquea la luz del Sol y la Luna queda dentro de su sombra. -->
 - [ ] D) Cuando la Luna se mete dentro del centro de la Tierra
   <!-- feedback: Incorrecto. La Luna nunca entra al interior terrestre; solo pasa por la sombra que proyecta la Tierra. -->
@@ -134,9 +134,9 @@ Un eclipse lunar ocurre cuando la Tierra queda entre el Sol y la Luna llena, de 
 ### Opciones
 - [ ] A) Porque los eclipses son una invención de culturas antiguas y no son reales
   <!-- feedback: Incorrecto. Los eclipses son fenómenos astronómicos verificables y se explican con física actual. -->
-- [ ] B) Porque los eclipses solo ocurren en ciertos países, no en todo el mundo
+- [ ] C) Porque los eclipses solo ocurren en ciertos países, no en todo el mundo
   <!-- feedback: Incorrecto. Pueden verse desde distintas regiones del mundo, no solo de un país. -->
-- [x] C) Porque la órbita de la Luna está inclinada unos 5 grados respecto al plano de la órbita de la Tierra, y casi nunca se alinean perfectamente los tres astros
+- [x] B) Porque la órbita de la Luna está inclinada unos 5 grados respecto al plano de la órbita de la Tierra, y casi nunca se alinean perfectamente los tres astros
   <!-- feedback: Correcto. La inclinación orbital impide que cada luna nueva haya eclipse solar y cada luna llena haya eclipse lunar. -->
 - [ ] D) Porque los eclipses solo pueden ocurrir en el mes de enero
   <!-- feedback: Incorrecto. Los eclipses se pueden producir en cualquier época del año, no solo en enero. -->
@@ -156,9 +156,9 @@ Analizar la geometría orbital muestra que la órbita lunar está inclinada resp
   <!-- feedback: Incorrecto. El fenómeno responde a la fuerza gravitatoria de la Luna, así que no es azaroso. -->
 - [ ] B) Es porque la Luna emite agua hacia los océanos
   <!-- feedback: Incorrecto. La Luna no libera agua; solo ejerce atracción gravitatoria sobre las masas de agua. -->
-- [x] C) La fuerza gravitatoria de la Luna levanta el agua del mar; en luna llena y luna nueva esa atracción se suma a la del Sol y produce mareas más altas
+- [x] D) La fuerza gravitatoria de la Luna levanta el agua del mar; en luna llena y luna nueva esa atracción se suma a la del Sol y produce mareas más altas
   <!-- feedback: Correcto. Cuando Sol, Tierra y Luna están alineados, las atracciones se suman y las mareas vivas son más marcadas. -->
-- [ ] D) Es porque el Sol calienta el agua del mar en esas fechas
+- [ ] C) Es porque el Sol calienta el agua del mar en esas fechas
   <!-- feedback: Incorrecto. El Sol calienta el agua, pero las mareas altas se deben a la atracción gravitatoria, no al calor. -->
 ### Explicacion Pedagogica
 La Luna atrae gravitatoriamente el agua de los océanos; cuando está alineada con el Sol, su efecto se suma al solar y se generan mareas vivas (más altas), mientras que cuando forma ángulo recto se producen mareas muertas (más bajas).
@@ -174,9 +174,9 @@ La Luna atrae gravitatoriamente el agua de los océanos; cuando está alineada c
 ### Opciones
 - [ ] A) La Luna está fija en el cielo y nunca cambia de posición
   <!-- feedback: Incorrecto. La Luna cambia de posición visible cada noche, como se aprecia a simple vista. -->
-- [ ] B) La Luna se mueve tan rápido que no se puede seguir su posición
+- [ ] C) La Luna se mueve tan rápido que no se puede seguir su posición
   <!-- feedback: Incorrecto. Su movimiento es lento y puede registrarse cuidadosamente cada noche. -->
-- [x] C) La Luna orbita la Tierra y por eso, al pasar los días, va apareciendo en posiciones diferentes del cielo a la misma hora
+- [x] B) La Luna orbita la Tierra y por eso, al pasar los días, va apareciendo en posiciones diferentes del cielo a la misma hora
   <!-- feedback: Correcto. Cada noche la Luna se ha desplazado en su órbita, así que sale más tarde y se ve en otro lugar del cielo. -->
 - [ ] D) La Luna solo se mueve cuando ocurre un eclipse
   <!-- feedback: Incorrecto. La Luna orbita permanentemente, también fuera de los eclipses. -->
@@ -192,11 +192,11 @@ La Luna completa una vuelta alrededor de la Tierra en unos 27 días; por eso cad
 ### Enunciado
 ¿Qué evaluación es la más correcta sobre la posibilidad de observar un eclipse lunar en pleno mediodía?
 ### Opciones
-- [ ] A) Sí se puede, porque los eclipses ocurren a cualquier hora del día
+- [ ] B) Sí se puede, porque los eclipses ocurren a cualquier hora del día
   <!-- feedback: Incorrecto. Un eclipse lunar depende de la posición relativa de los astros y de la hora local. -->
-- [ ] B) Sí se puede, porque la Luna se mueve mucho durante el día
+- [ ] C) Sí se puede, porque la Luna se mueve mucho durante el día
   <!-- feedback: Incorrecto. La velocidad lunar no cambia la lógica de cuándo puede haber eclipse. -->
-- [x] C) No se puede observar a mediodía, porque durante el eclipse lunar la Luna está en el lado nocturno de la Tierra y, por tanto, invisible bajo el Sol
+- [x] A) No se puede observar a mediodía, porque durante el eclipse lunar la Luna está en el lado nocturno de la Tierra y, por tanto, invisible bajo el Sol
   <!-- feedback: Correcto. En un eclipse lunar la Luna llena entra en la sombra de la Tierra, lo que ocurre cuando el Sol no ilumina directamente esa zona. -->
 - [ ] D) No se puede observar porque los eclipses lunares no existen realmente
   <!-- feedback: Incorrecto. Los eclipses lunares son fenómenos bien documentados y verificables. -->
@@ -216,9 +216,9 @@ Evaluar exige reconocer las condicionesdel eclipse lunar: la Luna llena debe est
   <!-- feedback: Incorrecto. La Luna cumple funciones físicas importantes, no solo decorativas. -->
 - [ ] B) La Luna solo importa cuando hay eclipses
   <!-- feedback: Incorrecto. Su influencia va mucho más allá de los eclipses. -->
-- [x] C) La Luna estabiliza el eje de rotación terrestre, contribuye a las mareas y acompaña los ritmos nocturnos de muchos seres vivos, influyendo en el clima y la biología
+- [x] D) La Luna estabiliza el eje de rotación terrestre, contribuye a las mareas y acompaña los ritmos nocturnos de muchos seres vivos, influyendo en el clima y la biología
   <!-- feedback: Correcto. Su gravedad y su presencia regulan procesos físicos y biológicos en el planeta. -->
-- [ ] D) La Luna es importante únicamente para los enamorados y escritores
+- [ ] C) La Luna es importante únicamente para los enamorados y escritores
   <!-- feedback: Incorrecto. Su importancia es principalmente física y ambiental, no poética. -->
 ### Explicacion Pedagogica
 La Luna cumple un papel físico central: ayuda a estabilizar la inclinación del eje terrestre, genera mareas que mezclan nutrientes en el mar, e influye en ritmos biológicos nocturnos; por eso la vida en la Tierra sería muy distinta sin su presencia.

@@ -57,10 +57,10 @@ El código genético asigna a cada triplete de ARNm una función. El triplete AU
 En la lectura del ARN mensajero por parte de los ribosomas, ¿cuál es la función del triplete o codón $UAA$?
 
 ### Opciones
-- [x] A) Actúa como codón de parada o terminación (Ochre) <!-- feedback: Correcto. El codón $UAA$ funciona como codón de parada o terminación (Ochre). -->
-- [ ] B) Sintetiza la enzima ADN polimerasa directamente <!-- feedback: Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada. -->
-- [ ] C) Se une irreversiblemente a la pared celular <!-- feedback: Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático. -->
-- [ ] D) Empareja bases directamente con la histona <!-- feedback: Incorrecto. El codón interactúa con el anticodón del ARNt. -->
+- [x] D) Actúa como codón de parada o terminación (Ochre) <!-- feedback: Correcto. El codón $UAA$ funciona como codón de parada o terminación (Ochre). -->
+- [ ] A) Sintetiza la enzima ADN polimerasa directamente <!-- feedback: Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada. -->
+- [ ] B) Se une irreversiblemente a la pared celular <!-- feedback: Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático. -->
+- [ ] C) Empareja bases directamente con la histona <!-- feedback: Incorrecto. El codón interactúa con el anticodón del ARNt. -->
 
 ### Explicacion Pedagogica
 El código genético asigna a cada triplete de ARNm una función. El triplete UAA actúa como codón de parada o terminación (Ochre).
@@ -99,9 +99,9 @@ El código genético asigna a cada triplete de ARNm una función. El triplete UA
 En la lectura del ARN mensajero por parte de los ribosomas, ¿cuál es la función del triplete o codón $UGA$?
 
 ### Opciones
-- [x] A) Actúa como codón de parada o terminación (Opal) <!-- feedback: Correcto. El codón $UGA$ funciona como codón de parada o terminación (Opal). -->
-- [ ] B) Sintetiza la enzima ADN polimerasa directamente <!-- feedback: Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada. -->
-- [ ] C) Se une irreversiblemente a la pared celular <!-- feedback: Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático. -->
+- [x] C) Actúa como codón de parada o terminación (Opal) <!-- feedback: Correcto. El codón $UGA$ funciona como codón de parada o terminación (Opal). -->
+- [ ] A) Sintetiza la enzima ADN polimerasa directamente <!-- feedback: Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada. -->
+- [ ] B) Se une irreversiblemente a la pared celular <!-- feedback: Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático. -->
 - [ ] D) Empareja bases directamente con la histona <!-- feedback: Incorrecto. El codón interactúa con el anticodón del ARNt. -->
 
 ### Explicacion Pedagogica
@@ -120,10 +120,10 @@ El código genético asigna a cada triplete de ARNm una función. El triplete UG
 En la lectura del ARN mensajero por parte de los ribosomas, ¿cuál es la función del triplete o codón $AUG$?
 
 ### Opciones
-- [x] A) Actúa como codón de inicio que incorpora Metionina <!-- feedback: Correcto. El codón $AUG$ funciona como codón de inicio que incorpora Metionina. -->
-- [ ] B) Sintetiza la enzima ADN polimerasa directamente <!-- feedback: Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada. -->
-- [ ] C) Se une irreversiblemente a la pared celular <!-- feedback: Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático. -->
-- [ ] D) Empareja bases directamente con la histona <!-- feedback: Incorrecto. El codón interactúa con el anticodón del ARNt. -->
+- [x] D) Actúa como codón de inicio que incorpora Metionina <!-- feedback: Correcto. El codón $AUG$ funciona como codón de inicio que incorpora Metionina. -->
+- [ ] A) Sintetiza la enzima ADN polimerasa directamente <!-- feedback: Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada. -->
+- [ ] B) Se une irreversiblemente a la pared celular <!-- feedback: Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático. -->
+- [ ] C) Empareja bases directamente con la histona <!-- feedback: Incorrecto. El codón interactúa con el anticodón del ARNt. -->
 
 ### Explicacion Pedagogica
 El código genético asigna a cada triplete de ARNm una función. El triplete AUG actúa como codón de inicio que incorpora Metionina.
@@ -141,8 +141,8 @@ El código genético asigna a cada triplete de ARNm una función. El triplete AU
 En la lectura del ARN mensajero por parte de los ribosomas, ¿cuál es la función del triplete o codón $UAA$?
 
 ### Opciones
-- [x] A) Actúa como codón de parada o terminación (Ochre) <!-- feedback: Correcto. El codón $UAA$ funciona como codón de parada o terminación (Ochre). -->
-- [ ] B) Sintetiza la enzima ADN polimerasa directamente <!-- feedback: Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada. -->
+- [x] B) Actúa como codón de parada o terminación (Ochre) <!-- feedback: Correcto. El codón $UAA$ funciona como codón de parada o terminación (Ochre). -->
+- [ ] A) Sintetiza la enzima ADN polimerasa directamente <!-- feedback: Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada. -->
 - [ ] C) Se une irreversiblemente a la pared celular <!-- feedback: Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático. -->
 - [ ] D) Empareja bases directamente con la histona <!-- feedback: Incorrecto. El codón interactúa con el anticodón del ARNt. -->
 
@@ -162,8 +162,8 @@ El código genético asigna a cada triplete de ARNm una función. El triplete UA
 En la lectura del ARN mensajero por parte de los ribosomas, ¿cuál es la función del triplete o codón $UAG$?
 
 ### Opciones
-- [x] A) Actúa como codón de parada o terminación (Amber) <!-- feedback: Correcto. El codón $UAG$ funciona como codón de parada o terminación (Amber). -->
-- [ ] B) Sintetiza la enzima ADN polimerasa directamente <!-- feedback: Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada. -->
+- [x] B) Actúa como codón de parada o terminación (Amber) <!-- feedback: Correcto. El codón $UAG$ funciona como codón de parada o terminación (Amber). -->
+- [ ] A) Sintetiza la enzima ADN polimerasa directamente <!-- feedback: Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada. -->
 - [ ] C) Se une irreversiblemente a la pared celular <!-- feedback: Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático. -->
 - [ ] D) Empareja bases directamente con la histona <!-- feedback: Incorrecto. El codón interactúa con el anticodón del ARNt. -->
 
@@ -204,8 +204,8 @@ El código genético asigna a cada triplete de ARNm una función. El triplete UG
 En la lectura del ARN mensajero por parte de los ribosomas, ¿cuál es la función del triplete o codón $AUG$?
 
 ### Opciones
-- [x] A) Actúa como codón de inicio que incorpora Metionina <!-- feedback: Correcto. El codón $AUG$ funciona como codón de inicio que incorpora Metionina. -->
-- [ ] B) Sintetiza la enzima ADN polimerasa directamente <!-- feedback: Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada. -->
+- [x] B) Actúa como codón de inicio que incorpora Metionina <!-- feedback: Correcto. El codón $AUG$ funciona como codón de inicio que incorpora Metionina. -->
+- [ ] A) Sintetiza la enzima ADN polimerasa directamente <!-- feedback: Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada. -->
 - [ ] C) Se une irreversiblemente a la pared celular <!-- feedback: Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático. -->
 - [ ] D) Empareja bases directamente con la histona <!-- feedback: Incorrecto. El codón interactúa con el anticodón del ARNt. -->
 
@@ -225,9 +225,9 @@ El código genético asigna a cada triplete de ARNm una función. El triplete AU
 En la lectura del ARN mensajero por parte de los ribosomas, ¿cuál es la función del triplete o codón $UAA$?
 
 ### Opciones
-- [x] A) Actúa como codón de parada o terminación (Ochre) <!-- feedback: Correcto. El codón $UAA$ funciona como codón de parada o terminación (Ochre). -->
-- [ ] B) Sintetiza la enzima ADN polimerasa directamente <!-- feedback: Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada. -->
-- [ ] C) Se une irreversiblemente a la pared celular <!-- feedback: Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático. -->
+- [x] C) Actúa como codón de parada o terminación (Ochre) <!-- feedback: Correcto. El codón $UAA$ funciona como codón de parada o terminación (Ochre). -->
+- [ ] A) Sintetiza la enzima ADN polimerasa directamente <!-- feedback: Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada. -->
+- [ ] B) Se une irreversiblemente a la pared celular <!-- feedback: Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático. -->
 - [ ] D) Empareja bases directamente con la histona <!-- feedback: Incorrecto. El codón interactúa con el anticodón del ARNt. -->
 
 ### Explicacion Pedagogica
@@ -246,10 +246,10 @@ El código genético asigna a cada triplete de ARNm una función. El triplete UA
 En la lectura del ARN mensajero por parte de los ribosomas, ¿cuál es la función del triplete o codón $UAG$?
 
 ### Opciones
-- [x] A) Actúa como codón de parada o terminación (Amber) <!-- feedback: Correcto. El codón $UAG$ funciona como codón de parada o terminación (Amber). -->
-- [ ] B) Sintetiza la enzima ADN polimerasa directamente <!-- feedback: Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada. -->
-- [ ] C) Se une irreversiblemente a la pared celular <!-- feedback: Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático. -->
-- [ ] D) Empareja bases directamente con la histona <!-- feedback: Incorrecto. El codón interactúa con el anticodón del ARNt. -->
+- [x] D) Actúa como codón de parada o terminación (Amber) <!-- feedback: Correcto. El codón $UAG$ funciona como codón de parada o terminación (Amber). -->
+- [ ] A) Sintetiza la enzima ADN polimerasa directamente <!-- feedback: Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada. -->
+- [ ] B) Se une irreversiblemente a la pared celular <!-- feedback: Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático. -->
+- [ ] C) Empareja bases directamente con la histona <!-- feedback: Incorrecto. El codón interactúa con el anticodón del ARNt. -->
 
 ### Explicacion Pedagogica
 El código genético asigna a cada triplete de ARNm una función. El triplete UAG actúa como codón de parada o terminación (Amber).
@@ -288,10 +288,10 @@ El código genético asigna a cada triplete de ARNm una función. El triplete UG
 En la lectura del ARN mensajero por parte de los ribosomas, ¿cuál es la función del triplete o codón $AUG$?
 
 ### Opciones
-- [x] A) Actúa como codón de inicio que incorpora Metionina <!-- feedback: Correcto. El codón $AUG$ funciona como codón de inicio que incorpora Metionina. -->
-- [ ] B) Sintetiza la enzima ADN polimerasa directamente <!-- feedback: Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada. -->
-- [ ] C) Se une irreversiblemente a la pared celular <!-- feedback: Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático. -->
-- [ ] D) Empareja bases directamente con la histona <!-- feedback: Incorrecto. El codón interactúa con el anticodón del ARNt. -->
+- [x] D) Actúa como codón de inicio que incorpora Metionina <!-- feedback: Correcto. El codón $AUG$ funciona como codón de inicio que incorpora Metionina. -->
+- [ ] A) Sintetiza la enzima ADN polimerasa directamente <!-- feedback: Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada. -->
+- [ ] B) Se une irreversiblemente a la pared celular <!-- feedback: Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático. -->
+- [ ] C) Empareja bases directamente con la histona <!-- feedback: Incorrecto. El codón interactúa con el anticodón del ARNt. -->
 
 ### Explicacion Pedagogica
 El código genético asigna a cada triplete de ARNm una función. El triplete AUG actúa como codón de inicio que incorpora Metionina.
@@ -309,9 +309,9 @@ El código genético asigna a cada triplete de ARNm una función. El triplete AU
 En la lectura del ARN mensajero por parte de los ribosomas, ¿cuál es la función del triplete o codón $UAA$?
 
 ### Opciones
-- [x] A) Actúa como codón de parada o terminación (Ochre) <!-- feedback: Correcto. El codón $UAA$ funciona como codón de parada o terminación (Ochre). -->
-- [ ] B) Sintetiza la enzima ADN polimerasa directamente <!-- feedback: Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada. -->
-- [ ] C) Se une irreversiblemente a la pared celular <!-- feedback: Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático. -->
+- [x] C) Actúa como codón de parada o terminación (Ochre) <!-- feedback: Correcto. El codón $UAA$ funciona como codón de parada o terminación (Ochre). -->
+- [ ] A) Sintetiza la enzima ADN polimerasa directamente <!-- feedback: Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada. -->
+- [ ] B) Se une irreversiblemente a la pared celular <!-- feedback: Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático. -->
 - [ ] D) Empareja bases directamente con la histona <!-- feedback: Incorrecto. El codón interactúa con el anticodón del ARNt. -->
 
 ### Explicacion Pedagogica
@@ -351,10 +351,10 @@ El código genético asigna a cada triplete de ARNm una función. El triplete UA
 En la lectura del ARN mensajero por parte de los ribosomas, ¿cuál es la función del triplete o codón $UGA$?
 
 ### Opciones
-- [x] A) Actúa como codón de parada o terminación (Opal) <!-- feedback: Correcto. El codón $UGA$ funciona como codón de parada o terminación (Opal). -->
-- [ ] B) Sintetiza la enzima ADN polimerasa directamente <!-- feedback: Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada. -->
-- [ ] C) Se une irreversiblemente a la pared celular <!-- feedback: Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático. -->
-- [ ] D) Empareja bases directamente con la histona <!-- feedback: Incorrecto. El codón interactúa con el anticodón del ARNt. -->
+- [x] D) Actúa como codón de parada o terminación (Opal) <!-- feedback: Correcto. El codón $UGA$ funciona como codón de parada o terminación (Opal). -->
+- [ ] A) Sintetiza la enzima ADN polimerasa directamente <!-- feedback: Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada. -->
+- [ ] B) Se une irreversiblemente a la pared celular <!-- feedback: Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático. -->
+- [ ] C) Empareja bases directamente con la histona <!-- feedback: Incorrecto. El codón interactúa con el anticodón del ARNt. -->
 
 ### Explicacion Pedagogica
 El código genético asigna a cada triplete de ARNm una función. El triplete UGA actúa como codón de parada o terminación (Opal).
@@ -393,10 +393,10 @@ El código genético asigna a cada triplete de ARNm una función. El triplete AU
 En la lectura del ARN mensajero por parte de los ribosomas, ¿cuál es la función del triplete o codón $UAA$?
 
 ### Opciones
-- [x] A) Actúa como codón de parada o terminación (Ochre) <!-- feedback: Correcto. El codón $UAA$ funciona como codón de parada o terminación (Ochre). -->
-- [ ] B) Sintetiza la enzima ADN polimerasa directamente <!-- feedback: Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada. -->
-- [ ] C) Se une irreversiblemente a la pared celular <!-- feedback: Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático. -->
-- [ ] D) Empareja bases directamente con la histona <!-- feedback: Incorrecto. El codón interactúa con el anticodón del ARNt. -->
+- [x] D) Actúa como codón de parada o terminación (Ochre) <!-- feedback: Correcto. El codón $UAA$ funciona como codón de parada o terminación (Ochre). -->
+- [ ] A) Sintetiza la enzima ADN polimerasa directamente <!-- feedback: Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada. -->
+- [ ] B) Se une irreversiblemente a la pared celular <!-- feedback: Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático. -->
+- [ ] C) Empareja bases directamente con la histona <!-- feedback: Incorrecto. El codón interactúa con el anticodón del ARNt. -->
 
 ### Explicacion Pedagogica
 El código genético asigna a cada triplete de ARNm una función. El triplete UAA actúa como codón de parada o terminación (Ochre).
@@ -414,8 +414,8 @@ El código genético asigna a cada triplete de ARNm una función. El triplete UA
 En la lectura del ARN mensajero por parte de los ribosomas, ¿cuál es la función del triplete o codón $UAG$?
 
 ### Opciones
-- [x] A) Actúa como codón de parada o terminación (Amber) <!-- feedback: Correcto. El codón $UAG$ funciona como codón de parada o terminación (Amber). -->
-- [ ] B) Sintetiza la enzima ADN polimerasa directamente <!-- feedback: Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada. -->
+- [x] B) Actúa como codón de parada o terminación (Amber) <!-- feedback: Correcto. El codón $UAG$ funciona como codón de parada o terminación (Amber). -->
+- [ ] A) Sintetiza la enzima ADN polimerasa directamente <!-- feedback: Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada. -->
 - [ ] C) Se une irreversiblemente a la pared celular <!-- feedback: Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático. -->
 - [ ] D) Empareja bases directamente con la histona <!-- feedback: Incorrecto. El codón interactúa con el anticodón del ARNt. -->
 
@@ -435,10 +435,10 @@ El código genético asigna a cada triplete de ARNm una función. El triplete UA
 En la lectura del ARN mensajero por parte de los ribosomas, ¿cuál es la función del triplete o codón $UGA$?
 
 ### Opciones
-- [x] A) Actúa como codón de parada o terminación (Opal) <!-- feedback: Correcto. El codón $UGA$ funciona como codón de parada o terminación (Opal). -->
-- [ ] B) Sintetiza la enzima ADN polimerasa directamente <!-- feedback: Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada. -->
-- [ ] C) Se une irreversiblemente a la pared celular <!-- feedback: Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático. -->
-- [ ] D) Empareja bases directamente con la histona <!-- feedback: Incorrecto. El codón interactúa con el anticodón del ARNt. -->
+- [x] D) Actúa como codón de parada o terminación (Opal) <!-- feedback: Correcto. El codón $UGA$ funciona como codón de parada o terminación (Opal). -->
+- [ ] A) Sintetiza la enzima ADN polimerasa directamente <!-- feedback: Incorrecto. Un codón es un triplete de bases que codifica un aminoácido o señal de parada. -->
+- [ ] B) Se une irreversiblemente a la pared celular <!-- feedback: Incorrecto. Ocurre dentro del complejo ribosomal citoplasmático. -->
+- [ ] C) Empareja bases directamente con la histona <!-- feedback: Incorrecto. El codón interactúa con el anticodón del ARNt. -->
 
 ### Explicacion Pedagogica
 El código genético asigna a cada triplete de ARNm una función. El triplete UGA actúa como codón de parada o terminación (Opal).

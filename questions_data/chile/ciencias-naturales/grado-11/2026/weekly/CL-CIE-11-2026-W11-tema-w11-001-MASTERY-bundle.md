@@ -49,10 +49,10 @@ En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 3 +
 Un móvil en Calama acelera a $a = 2 \text{ m/s}^2$ durante $t = 5 \text{ s}$ partiendo con velocidad inicial $v_0 = 6 \text{ m/s}$. ¿Cuál es su velocidad final $v_f$?
 
 ### Opciones
-- [x] A) $16 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 6 + 2*5 = 16 m/s. -->
-- [ ] B) $24 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
-- [ ] C) $30 \text{ m/s}$ <!-- feedback: Incorrecto. Ignoraste la aceleración del móvil. -->
-- [ ] D) $10 \text{ m/s}$ <!-- feedback: Incorrecto. Olvidaste sumar la velocidad inicial. -->
+- [x] D) $16 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 6 + 2*5 = 16 m/s. -->
+- [ ] A) $24 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
+- [ ] B) $30 \text{ m/s}$ <!-- feedback: Incorrecto. Ignoraste la aceleración del móvil. -->
+- [ ] C) $10 \text{ m/s}$ <!-- feedback: Incorrecto. Olvidaste sumar la velocidad inicial. -->
 
 ### Explicacion Pedagogica
 En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 6 + 2*5 = 16 m/s.
@@ -68,9 +68,9 @@ En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 6 +
 Un móvil en Valdivia acelera a $a = 2 \text{ m/s}^2$ durante $t = 5 \text{ s}$ partiendo con velocidad inicial $v_0 = 9 \text{ m/s}$. ¿Cuál es su velocidad final $v_f$?
 
 ### Opciones
-- [x] A) $19 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 9 + 2*5 = 19 m/s. -->
-- [ ] B) $27 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
-- [ ] C) $45 \text{ m/s}$ <!-- feedback: Incorrecto. Ignoraste la aceleración del móvil. -->
+- [x] C) $19 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 9 + 2*5 = 19 m/s. -->
+- [ ] A) $27 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
+- [ ] B) $45 \text{ m/s}$ <!-- feedback: Incorrecto. Ignoraste la aceleración del móvil. -->
 - [ ] D) $10 \text{ m/s}$ <!-- feedback: Incorrecto. Olvidaste sumar la velocidad inicial. -->
 
 ### Explicacion Pedagogica
@@ -87,9 +87,9 @@ En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 9 +
 Un móvil en Santiago acelera a $a = 2 \text{ m/s}^2$ durante $t = 5 \text{ s}$ partiendo con velocidad inicial $v_0 = 12 \text{ m/s}$. ¿Cuál es su velocidad final $v_f$?
 
 ### Opciones
-- [x] A) $22 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 12 + 2*5 = 22 m/s. -->
-- [ ] B) $30 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
-- [ ] C) $60 \text{ m/s}$ <!-- feedback: Incorrecto. Ignoraste la aceleración del móvil. -->
+- [x] C) $22 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 12 + 2*5 = 22 m/s. -->
+- [ ] A) $30 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
+- [ ] B) $60 \text{ m/s}$ <!-- feedback: Incorrecto. Ignoraste la aceleración del móvil. -->
 - [ ] D) $10 \text{ m/s}$ <!-- feedback: Incorrecto. Olvidaste sumar la velocidad inicial. -->
 
 ### Explicacion Pedagogica
@@ -106,8 +106,8 @@ En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 12 
 Un móvil en Valparaíso acelera a $a = 2 \text{ m/s}^2$ durante $t = 5 \text{ s}$ partiendo con velocidad inicial $v_0 = 15 \text{ m/s}$. ¿Cuál es su velocidad final $v_f$?
 
 ### Opciones
-- [x] A) $25 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 15 + 2*5 = 25 m/s. -->
-- [ ] B) $33 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
+- [x] B) $25 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 15 + 2*5 = 25 m/s. -->
+- [ ] A) $33 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
 - [ ] C) $75 \text{ m/s}$ <!-- feedback: Incorrecto. Ignoraste la aceleración del móvil. -->
 - [ ] D) $10 \text{ m/s}$ <!-- feedback: Incorrecto. Olvidaste sumar la velocidad inicial. -->
 
@@ -125,8 +125,8 @@ En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 15 
 Un móvil en Concepción acelera a $a = 2 \text{ m/s}^2$ durante $t = 5 \text{ s}$ partiendo con velocidad inicial $v_0 = 18 \text{ m/s}$. ¿Cuál es su velocidad final $v_f$?
 
 ### Opciones
-- [x] A) $28 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 18 + 2*5 = 28 m/s. -->
-- [ ] B) $36 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
+- [x] B) $28 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 18 + 2*5 = 28 m/s. -->
+- [ ] A) $36 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
 - [ ] C) $90 \text{ m/s}$ <!-- feedback: Incorrecto. Ignoraste la aceleración del móvil. -->
 - [ ] D) $10 \text{ m/s}$ <!-- feedback: Incorrecto. Olvidaste sumar la velocidad inicial. -->
 
@@ -144,10 +144,10 @@ En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 18 
 Un móvil en Antofagasta acelera a $a = 2 \text{ m/s}^2$ durante $t = 5 \text{ s}$ partiendo con velocidad inicial $v_0 = 21 \text{ m/s}$. ¿Cuál es su velocidad final $v_f$?
 
 ### Opciones
-- [x] A) $31 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 21 + 2*5 = 31 m/s. -->
-- [ ] B) $39 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
-- [ ] C) $105 \text{ m/s}$ <!-- feedback: Incorrecto. Ignoraste la aceleración del móvil. -->
-- [ ] D) $10 \text{ m/s}$ <!-- feedback: Incorrecto. Olvidaste sumar la velocidad inicial. -->
+- [x] D) $31 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 21 + 2*5 = 31 m/s. -->
+- [ ] A) $39 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
+- [ ] B) $105 \text{ m/s}$ <!-- feedback: Incorrecto. Ignoraste la aceleración del móvil. -->
+- [ ] C) $10 \text{ m/s}$ <!-- feedback: Incorrecto. Olvidaste sumar la velocidad inicial. -->
 
 ### Explicacion Pedagogica
 En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 21 + 2*5 = 31 m/s.
@@ -182,9 +182,9 @@ En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 24 
 Un móvil en La Serena acelera a $a = 2 \text{ m/s}^2$ durante $t = 5 \text{ s}$ partiendo con velocidad inicial $v_0 = 27 \text{ m/s}$. ¿Cuál es su velocidad final $v_f$?
 
 ### Opciones
-- [x] A) $37 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 27 + 2*5 = 37 m/s. -->
-- [ ] B) $45 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
-- [ ] C) $135 \text{ m/s}$ <!-- feedback: Incorrecto. Ignoraste la aceleración del móvil. -->
+- [x] C) $37 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 27 + 2*5 = 37 m/s. -->
+- [ ] A) $45 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
+- [ ] B) $135 \text{ m/s}$ <!-- feedback: Incorrecto. Ignoraste la aceleración del móvil. -->
 - [ ] D) $10 \text{ m/s}$ <!-- feedback: Incorrecto. Olvidaste sumar la velocidad inicial. -->
 
 ### Explicacion Pedagogica
@@ -220,9 +220,9 @@ En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 30 
 Un móvil en Iquique acelera a $a = 2 \text{ m/s}^2$ durante $t = 5 \text{ s}$ partiendo con velocidad inicial $v_0 = 33 \text{ m/s}$. ¿Cuál es su velocidad final $v_f$?
 
 ### Opciones
-- [x] A) $43 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 33 + 2*5 = 43 m/s. -->
-- [ ] B) $51 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
-- [ ] C) $165 \text{ m/s}$ <!-- feedback: Incorrecto. Ignoraste la aceleración del móvil. -->
+- [x] C) $43 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 33 + 2*5 = 43 m/s. -->
+- [ ] A) $51 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
+- [ ] B) $165 \text{ m/s}$ <!-- feedback: Incorrecto. Ignoraste la aceleración del móvil. -->
 - [ ] D) $10 \text{ m/s}$ <!-- feedback: Incorrecto. Olvidaste sumar la velocidad inicial. -->
 
 ### Explicacion Pedagogica
@@ -239,8 +239,8 @@ En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 33 
 Un móvil en Rancagua acelera a $a = 2 \text{ m/s}^2$ durante $t = 5 \text{ s}$ partiendo con velocidad inicial $v_0 = 36 \text{ m/s}$. ¿Cuál es su velocidad final $v_f$?
 
 ### Opciones
-- [x] A) $46 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 36 + 2*5 = 46 m/s. -->
-- [ ] B) $54 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
+- [x] B) $46 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 36 + 2*5 = 46 m/s. -->
+- [ ] A) $54 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
 - [ ] C) $180 \text{ m/s}$ <!-- feedback: Incorrecto. Ignoraste la aceleración del móvil. -->
 - [ ] D) $10 \text{ m/s}$ <!-- feedback: Incorrecto. Olvidaste sumar la velocidad inicial. -->
 
@@ -258,8 +258,8 @@ En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 36 
 Un móvil en Talca acelera a $a = 2 \text{ m/s}^2$ durante $t = 5 \text{ s}$ partiendo con velocidad inicial $v_0 = 39 \text{ m/s}$. ¿Cuál es su velocidad final $v_f$?
 
 ### Opciones
-- [x] A) $49 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 39 + 2*5 = 49 m/s. -->
-- [ ] B) $57 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
+- [x] B) $49 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 39 + 2*5 = 49 m/s. -->
+- [ ] A) $57 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
 - [ ] C) $195 \text{ m/s}$ <!-- feedback: Incorrecto. Ignoraste la aceleración del móvil. -->
 - [ ] D) $10 \text{ m/s}$ <!-- feedback: Incorrecto. Olvidaste sumar la velocidad inicial. -->
 
@@ -277,9 +277,9 @@ En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 39 
 Un móvil en Arica acelera a $a = 2 \text{ m/s}^2$ durante $t = 5 \text{ s}$ partiendo con velocidad inicial $v_0 = 42 \text{ m/s}$. ¿Cuál es su velocidad final $v_f$?
 
 ### Opciones
-- [x] A) $52 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 42 + 2*5 = 52 m/s. -->
-- [ ] B) $60 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
-- [ ] C) $210 \text{ m/s}$ <!-- feedback: Incorrecto. Ignoraste la aceleración del móvil. -->
+- [x] C) $52 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 42 + 2*5 = 52 m/s. -->
+- [ ] A) $60 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
+- [ ] B) $210 \text{ m/s}$ <!-- feedback: Incorrecto. Ignoraste la aceleración del móvil. -->
 - [ ] D) $10 \text{ m/s}$ <!-- feedback: Incorrecto. Olvidaste sumar la velocidad inicial. -->
 
 ### Explicacion Pedagogica
@@ -296,9 +296,9 @@ En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 42 
 Un móvil en Puerto Montt acelera a $a = 2 \text{ m/s}^2$ durante $t = 5 \text{ s}$ partiendo con velocidad inicial $v_0 = 45 \text{ m/s}$. ¿Cuál es su velocidad final $v_f$?
 
 ### Opciones
-- [x] A) $55 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 45 + 2*5 = 55 m/s. -->
-- [ ] B) $63 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
-- [ ] C) $225 \text{ m/s}$ <!-- feedback: Incorrecto. Ignoraste la aceleración del móvil. -->
+- [x] C) $55 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 45 + 2*5 = 55 m/s. -->
+- [ ] A) $63 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
+- [ ] B) $225 \text{ m/s}$ <!-- feedback: Incorrecto. Ignoraste la aceleración del móvil. -->
 - [ ] D) $10 \text{ m/s}$ <!-- feedback: Incorrecto. Olvidaste sumar la velocidad inicial. -->
 
 ### Explicacion Pedagogica
@@ -315,10 +315,10 @@ En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 45 
 Un móvil en Chillán acelera a $a = 2 \text{ m/s}^2$ durante $t = 5 \text{ s}$ partiendo con velocidad inicial $v_0 = 48 \text{ m/s}$. ¿Cuál es su velocidad final $v_f$?
 
 ### Opciones
-- [x] A) $58 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 48 + 2*5 = 58 m/s. -->
-- [ ] B) $66 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
-- [ ] C) $240 \text{ m/s}$ <!-- feedback: Incorrecto. Ignoraste la aceleración del móvil. -->
-- [ ] D) $10 \text{ m/s}$ <!-- feedback: Incorrecto. Olvidaste sumar la velocidad inicial. -->
+- [x] D) $58 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 48 + 2*5 = 58 m/s. -->
+- [ ] A) $66 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
+- [ ] B) $240 \text{ m/s}$ <!-- feedback: Incorrecto. Ignoraste la aceleración del móvil. -->
+- [ ] C) $10 \text{ m/s}$ <!-- feedback: Incorrecto. Olvidaste sumar la velocidad inicial. -->
 
 ### Explicacion Pedagogica
 En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 48 + 2*5 = 58 m/s.
@@ -353,10 +353,10 @@ En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 51 
 Un móvil en Valdivia acelera a $a = 2 \text{ m/s}^2$ durante $t = 5 \text{ s}$ partiendo con velocidad inicial $v_0 = 54 \text{ m/s}$. ¿Cuál es su velocidad final $v_f$?
 
 ### Opciones
-- [x] A) $64 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 54 + 2*5 = 64 m/s. -->
-- [ ] B) $72 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
-- [ ] C) $270 \text{ m/s}$ <!-- feedback: Incorrecto. Ignoraste la aceleración del móvil. -->
-- [ ] D) $10 \text{ m/s}$ <!-- feedback: Incorrecto. Olvidaste sumar la velocidad inicial. -->
+- [x] D) $64 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 54 + 2*5 = 64 m/s. -->
+- [ ] A) $72 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
+- [ ] B) $270 \text{ m/s}$ <!-- feedback: Incorrecto. Ignoraste la aceleración del móvil. -->
+- [ ] C) $10 \text{ m/s}$ <!-- feedback: Incorrecto. Olvidaste sumar la velocidad inicial. -->
 
 ### Explicacion Pedagogica
 En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 54 + 2*5 = 64 m/s.
@@ -372,8 +372,8 @@ En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 54 
 Un móvil en Santiago acelera a $a = 2 \text{ m/s}^2$ durante $t = 5 \text{ s}$ partiendo con velocidad inicial $v_0 = 57 \text{ m/s}$. ¿Cuál es su velocidad final $v_f$?
 
 ### Opciones
-- [x] A) $67 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 57 + 2*5 = 67 m/s. -->
-- [ ] B) $75 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
+- [x] B) $67 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 57 + 2*5 = 67 m/s. -->
+- [ ] A) $75 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
 - [ ] C) $285 \text{ m/s}$ <!-- feedback: Incorrecto. Ignoraste la aceleración del móvil. -->
 - [ ] D) $10 \text{ m/s}$ <!-- feedback: Incorrecto. Olvidaste sumar la velocidad inicial. -->
 
@@ -391,8 +391,8 @@ En un movimiento rectilíneo uniformemente acelerado (MRUA), vf = v0 + a*t = 57 
 Un móvil en Valparaíso acelera a $a = 2 \text{ m/s}^2$ durante $t = 5 \text{ s}$ partiendo con velocidad inicial $v_0 = 60 \text{ m/s}$. ¿Cuál es su velocidad final $v_f$?
 
 ### Opciones
-- [x] A) $70 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 60 + 2*5 = 70 m/s. -->
-- [ ] B) $78 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
+- [x] B) $70 \text{ m/s}$ <!-- feedback: ¡Correcto! vf = v0 + a*t = 60 + 2*5 = 70 m/s. -->
+- [ ] A) $78 \text{ m/s}$ <!-- feedback: Incorrecto. Sumaste erróneamente el término de aceleración. -->
 - [ ] C) $300 \text{ m/s}$ <!-- feedback: Incorrecto. Ignoraste la aceleración del móvil. -->
 - [ ] D) $10 \text{ m/s}$ <!-- feedback: Incorrecto. Olvidaste sumar la velocidad inicial. -->
 

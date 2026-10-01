@@ -35,9 +35,9 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia.
 ¿Qué consagra el artículo 40 de la Constitución Política de Colombia?
 
 ### Opciones
-- [ ] A) La libertad de cultos y el derecho a profesar cualquier religión sin permiso estatal.
+- [ ] B) La libertad de cultos y el derecho a profesar cualquier religión sin permiso estatal.
   <!-- feedback: La libertad de cultos está en el artículo 19; el artículo 40 se dedica a los derechos de participación política. -->
-- [x] B) El derecho de todos los ciudadanos a participar en la fundación, ejercicio y control del poder político.
+- [x] A) El derecho de todos los ciudadanos a participar en la fundación, ejercicio y control del poder político.
   <!-- feedback: Correcto: el artículo 40 enumera las formas de participación, desde votar hasta ejercer control político y constituir partidos. -->
 - [ ] C) La autonomía de las entidades territoriales para expedir sus propias constituciones locales.
   <!-- feedback: Colombia es unitaria y las entidades territoriales tienen autonomía, pero no potestad constituyente local; esa idea es falsa. -->
@@ -83,9 +83,9 @@ La Registraduría Nacional del Estado Civil fue creada por la Constitución de 1
 ### Opciones
 - [ ] A) Es un derecho voluntario: cada ciudadano decide libremente si desea inscribirse y votar.
   <!-- feedback: El voto es un derecho, pero la ley lo declara además obligación; la inscripción en el registro es obligatoria para mayores de 18 años. -->
-- [ ] B) Es una obligación con multa económica automática para quien no sufragie en cada jornada.
+- [ ] C) Es una obligación con multa económica automática para quien no sufragie en cada jornada.
   <!-- feedback: En Colombia no se aplica multa económica efectiva por no votar; la obligación existe, pero no está sancionada. -->
-- [x] C) Es un derecho y una obligación, pero la ley no establece una sanción efectiva por abstenerse.
+- [x] B) Es un derecho y una obligación, pero la ley no establece una sanción efectiva por abstenerse.
   <!-- feedback: Correcto: el artículo 179 del Código Electoral lo declara derecho y obligación; no obstante, no hay sanción aplicable, por lo que se habla de voto obligatorio "de nombre". -->
 - [ ] D) Es una función pública reservada a quienes acreditan haber votado en las elecciones anteriores.
   <!-- feedback: El sufragio no se condiciona a haber votado antes; esa restricción sería contraria a los artículos 40 y 96 de la Constitución. -->
@@ -106,9 +106,9 @@ En Colombia el sufragio es personal, igual, libre y secreto, y el Código Electo
 ### Opciones
 - [ ] A) La huelga general, el paro nacional, la toma de carreteras y la desobediencia civil.
   <!-- feedback: Esas son formas de protesta regidas por otras normas; el artículo 103 enumera mecanismos institucionales de participación. -->
-- [ ] B) El voto programático, la lista cerrada, el umbral y la circunscripción especial.
+- [ ] C) El voto programático, la lista cerrada, el umbral y la circunscripción especial.
   <!-- feedback: Esos son elementos del sistema electoral, no mecanismos de participación del artículo 103. -->
-- [x] C) El plebiscito, el referendo, la consulta popular, el cabildo abierto, la iniciativa legislativa y la revocatoria del mandato.
+- [x] B) El plebiscito, el referendo, la consulta popular, el cabildo abierto, la iniciativa legislativa y la revocatoria del mandato.
   <!-- feedback: Correcto: esos seis institutos, desarrollados por la Ley 134 de 1994, integran el catálogo del artículo 103. -->
 - [ ] D) El consejo de seguridad, la comisión accidental, la moción de censura y la interpelación.
   <!-- feedback: Esas son figuras de control político y seguridad del nivel nacional; el artículo 103 contempla otros institutos de participación directa. -->
@@ -127,11 +127,11 @@ El artículo 103 establece que son mecanismos de participación del poder públi
 ¿Qué mecanismo de participación del artículo 103 describe este escenario?
 
 ### Opciones
-- [x] A) El plebiscito, porque convoca al pueblo para que acepte o rechace una decisión del Presidente.
+- [x] C) El plebiscito, porque convoca al pueblo para que acepte o rechace una decisión del Presidente.
   <!-- feedback: Correcto: el plebiscito somete a votación popular la aprobación o rechazo de una decisión del Jefe de Estado. -->
-- [ ] B) El referendo, porque el tema convocado tiene carácter normativo y hace parte de una reforma constitucional.
+- [ ] A) El referendo, porque el tema convocado tiene carácter normativo y hace parte de una reforma constitucional.
   <!-- feedback: El referendo convoca para aprobar o reformar una ley o la Constitución; aquí lo sometido es una decisión presidencial, no un texto normativo. -->
-- [ ] C) La consulta popular, porque se pregunta a los ciudadanos de varios departamentos de forma simultánea.
+- [ ] B) La consulta popular, porque se pregunta a los ciudadanos de varios departamentos de forma simultánea.
   <!-- feedback: La consulta popular puede ser nacional o territorial, pero versa sobre asuntos de trascendencia para las comunidades; cuando la decisión es del Ejecutivo y se somete a aceptación, es plebiscito. -->
 - [ ] D) El cabildo abierto, porque la ciudadanía se reúne en asamblea para deliberar sobre el acuerdo.
   <!-- feedback: El cabildo abierto es una reunión de concejales y ciudadanos a nivel municipal o distrital, no una convocatoria nacional con voto. -->
@@ -173,11 +173,11 @@ La revocatoria del mandato, prevista en el artículo 103 constitucional y desarr
 ¿Qué mecanismo de participación encaja con esa exigencia ciudadana?
 
 ### Opciones
-- [x] A) El cabildo abierto, reunión pública de concejales con ciudadanos de un municipio o localidad para decidir asuntos de trascendencia.
+- [x] C) El cabildo abierto, reunión pública de concejales con ciudadanos de un municipio o localidad para decidir asuntos de trascendencia.
   <!-- feedback: Correcto: el cabildo abierto, regulado en la Constitución y la Ley 134 de 1994, acerca la decisión pública al nivel municipal y de localidades. -->
-- [ ] B) La asamblea constituyente municipal, convocada para reescribir las normas locales.
+- [ ] A) La asamblea constituyente municipal, convocada para reescribir las normas locales.
   <!-- feedback: No existe la asamblea constituyente municipal; la potestad constituyente es nacional y extraordinaria. -->
-- [ ] C) El plebiscito local, mediante el cual los vecinos aceptan o rechazan la ejecución de obras.
+- [ ] B) El plebiscito local, mediante el cual los vecinos aceptan o rechazan la ejecución de obras.
   <!-- feedback: El plebiscito es de nivel nacional y versa sobre decisiones del Presidente; no es la figura para deliberar en el concejo. -->
 - [ ] D) La junta administradora local, que reemplaza al concejo en municipios pequeños.
   <!-- feedback: Los concejos municipales existen en todos los municipios; las JAL son asesoras de alcaldías locales, no sustituyen al concejo ni al cabildo. -->
@@ -198,9 +198,9 @@ El cabildo abierto es la reunión de los concejos municipales o distritales con 
 ### Opciones
 - [ ] A) Una entidad del Estado adscrita al Consejo Nacional Electoral, que sanciona campaña sucia.
   <!-- feedback: La MOE no es estatal ni sanciona; es una organización de la sociedad civil que observa y monitorea. -->
-- [x] B) Una organización colombiana de la sociedad civil que observa las elecciones, monitorea alertas y publica guías para el votante.
+- [x] C) Una organización colombiana de la sociedad civil que observa las elecciones, monitorea alertas y publica guías para el votante.
   <!-- feedback: Correcto: la MOE agrupa ONG y gremios, observa jornadas, alerta sobre riesgos como el dinero ilícito y entrega información para decidir el voto. -->
-- [ ] C) Un partido político con veeduría propia en los departamentos de frontera.
+- [ ] B) Un partido político con veeduría propia en los departamentos de frontera.
   <!-- feedback: La MOE no postula candidatos ni es un partido; su labor es de observación e investigación electoral sin bandera política. -->
 - [ ] D) Una misión de la Unión Europea que solo acompaña elecciones presidenciales.
   <!-- feedback: Las misiones internacionales existen, pero la MOE es una organización nacional que cubre procesos electorales de todo tipo. -->
@@ -267,9 +267,9 @@ El Consejo Nacional Electoral, regulado en los artículos 265 y siguientes de la
 ### Opciones
 - [ ] A) Se explica solo por la apatía natural de los jóvenes, que nunca participan en ningún proceso del mundo.
   <!-- feedback: Generalizar por edades ignora otras causas y datos: la abstención es transversal y los jóvenes han movilizado votaciones recientes. -->
-- [ ] B) Responde únicamente al fraude masivo, pues cuando hay abstención alta siempre hubo irregularidad en el conteo.
+- [ ] C) Responde únicamente al fraude masivo, pues cuando hay abstención alta siempre hubo irregularidad en el conteo.
   <!-- feedback: Confunde causalidad: la abstención precede a la jornada; el fraude afecta resultados, pero no explica por sí solo la no inscripción ni el no voto. -->
-- [x] C) Combina factores culturales, institucionales y materiales, como desconfianza en los partidos, listas cerradas y dificultades para llegar a puestos.
+- [x] B) Combina factores culturales, institucionales y materiales, como desconfianza en los partidos, listas cerradas y dificultades para llegar a puestos.
   <!-- feedback: Correcto: el abstencionismo es multicausal, incluye socialización política, diseño electoral y barreras logísticas especialmente en zonas rurales. -->
 - [ ] D) Se debe a que el voto no es obligatorio en Colombia, pues la Constitución de 1991 abolió esa obligación.
   <!-- feedback: El voto sí es declarado obligatorio por el Código Electoral, aunque sin sanción; la premisa de que la Constitución lo abolió es incorrecta. -->
@@ -311,11 +311,11 @@ El umbral —porcentaje de votos válidos que un partido o movimiento debe alcan
 ¿Qué distingue las actuaciones del CNE y de la Procuraduría General en este caso?
 
 ### Opciones
-- [ ] A) Ambas entidades sancionan penalmente; la única diferencia es el nivel territorial de cada una.
+- [ ] B) Ambas entidades sancionan penalmente; la única diferencia es el nivel territorial de cada una.
   <!-- feedback: Ninguna de las dos tiene función penal: esa corresponde a la Fiscalía y los jueces penales; las de CNE y Procuraduría son administrativas y disciplinarias. -->
-- [ ] B) El CNE investiga el delito electoral y la Procuraduría organiza las mesas de votación.
+- [ ] C) El CNE investiga el delito electoral y la Procuraduría organiza las mesas de votación.
   <!-- feedback: Invierte roles: la investigación de delitos corresponde a la Fiscalía y la organización de mesas a la Registraduría. -->
-- [x] C) El CNE vigila la legalidad y transparencia del proceso electoral, y la Procuraduría ejerce control disciplinario sobre el funcionario público.
+- [x] A) El CNE vigila la legalidad y transparencia del proceso electoral, y la Procuraduría ejerce control disciplinario sobre el funcionario público.
   <!-- feedback: Correcto: el CNE ejerce vigilancia de la organización electoral; la Procuraduría investiga y sanciona la falta disciplinaria del servidor que usa bienes públicos. -->
 - [ ] D) La Procuraduría anula las elecciones y el CNE archiva las quejas sin consecuencias.
   <!-- feedback: Ninguna de las dos anula elecciones por vía administrativa: el Contencioso Electoral del Consejo de Estado decide sobre la validez de los actos de elección. -->
@@ -357,9 +357,9 @@ El artículo 96 de la Constitución reconoce la ciudadanía a los mayores de die
 ¿Qué instrumento constitucional de control político, exclusivo del Congreso frente a ministros, puede incluso terminar con la función del ministro si prospera?
 
 ### Opciones
-- [ ] A) La revocatoria del mandato, votada por el Congreso en pleno.
+- [ ] B) La revocatoria del mandato, votada por el Congreso en pleno.
   <!-- feedback: La revocatoria es un mecanismo de participación popular contra gobernadores y alcaldes elegidos por voto, no contra ministros. -->
-- [x] B) La moción de censura, que si es aprobada implica la renuncia del ministro.
+- [x] A) La moción de censura, que si es aprobada implica la renuncia del ministro.
   <!-- feedback: Correcto: el artículo 135 de la Constitución faculta al Congreso para censurar ministros con el resultado de la separación del cargo. -->
 - [ ] C) El juicio de residencia, que abre la Procuraduría contra todo ministro saliente.
   <!-- feedback: No existe un "juicio de residencia" vigente en el derecho colombiano; esa era una figura del derecho español indiano. -->
@@ -382,9 +382,9 @@ El control político del Congreso —artículos 132 a 135 de la Constitución y 
 ### Opciones
 - [ ] A) No se distingue nada: la veeduría es otro de los seis mecanismos listados expresamente en el artículo 103.
   <!-- feedback: El artículo 103 enumera seis mecanismos y la veeduría no está entre ellos de forma textual; pertenece al mandato general de vigilancia del artículo 40. -->
-- [ ] B) La veeduría tiene poder de decisión vinculante, mientras que los del 103 son puramente consultivos.
+- [ ] C) La veeduría tiene poder de decisión vinculante, mientras que los del 103 son puramente consultivos.
   <!-- feedback: Es al contrario: varios mecanismos del 103 son decisorios (plebiscito, referendo, revocatoria) y la veeduría solo vigila y denuncia. -->
-- [x] C) La veeduría desarrolla el derecho de vigilancia del artículo 40; los mecanismos del 103 están sujetos a reglas de convocatoria y umbral de participación.
+- [x] B) La veeduría desarrolla el derecho de vigilancia del artículo 40; los mecanismos del 103 están sujetos a reglas de convocatoria y umbral de participación.
   <!-- feedback: Correcto: la veeduría es una forma de control ciudadano permanente sin formalidades electorales; los mecanismos del 103 exigen convocatorias y mínimos de participación. -->
 - [ ] D) La veeduría solo la pueden ejercer quienes votaron en las últimas elecciones.
   <!-- feedback: La vigilancia del poder público corresponde a todos los ciudadanos, votantes o no, sin requisito de participación electoral previa. -->
@@ -428,9 +428,9 @@ Implementar sanciones por no votar implicaría modificar el Código Electoral po
 ### Opciones
 - [ ] A) Censurar las redes sociales durante la semana electoral para que no circulen rumores.
   <!-- feedback: La censura general de medios vulnera la libertad de expresión del artículo 20 constitucional y suele aumentar la desconfianza. -->
-- [ ] B) Dejar que el mercado de información se autorregule, pues los ciudadanos siempre distinguen lo falso.
+- [ ] C) Dejar que el mercado de información se autorregule, pues los ciudadanos siempre distinguen lo falso.
   <!-- feedback: La premisa empírica es falsa: la evidencia muestra vulnerabilidad cognitiva generalizada; abandonar la regulación es delegar la integridad electoral a algoritmos. -->
-- [x] C) Combinar comunicación oficial temprana y verificable, observación independiente y educación mediática de la ciudadanía.
+- [x] B) Combinar comunicación oficial temprana y verificable, observación independiente y educación mediática de la ciudadanía.
   <!-- feedback: Correcto: la integridad informativa se defiende con transparencia activa de la autoridad, contrastación de observadores y ciudadanos críticos. -->
 - [ ] D) Ordenar al CNE eliminar cualquier publicación que mencione el proceso electoral.
   <!-- feedback: El CNE regula campaña y financia, pero no es un censor universal; eliminar toda mención sería una restricción desproporcionada y técnicamente imposible. -->
@@ -453,9 +453,9 @@ La lucha contra la desinformación electoral exige proporcionalidad: primero, la
   <!-- feedback: La premisa es empíricamente falsa: ha habido revocatorias con recolección de firmas y jornadas de voto en varios municipios del país. -->
 - [ ] B) Es siempre un mecanismo legítimo, porque cualquier grupo con firmas representa la voluntad popular.
   <!-- feedback: Identifica "cualquier iniciativa con firmas" con legitimidad automática; ignora que puede capturarla la oposición partidista sin incumplimiento real. -->
-- [x] C) Es legítima como control ciudadano, pero exige verificar el incumplimiento alegado y puede ser instrumentalizada por la competencia política.
+- [x] D) Es legítima como control ciudadano, pero exige verificar el incumplimiento alegado y puede ser instrumentalizada por la competencia política.
   <!-- feedback: Correcto: su razón de ser es la rendición de cuentas sobre el plan de desarrollo, pero su diseño permite uso estratégico por adversarios. -->
-- [ ] D) Debe decidirla la Procuraduría sin votación, porque es más técnico revisar los planes de desarrollo.
+- [ ] C) Debe decidirla la Procuraduría sin votación, porque es más técnico revisar los planes de desarrollo.
   <!-- feedback: Convertir un mecanismo de democracia directa en decisión administrativa anularía su esencia: es el pueblo del municipio, mediante el voto, quien decide su procedencia. -->
 
 ### Explicacion Pedagogica
@@ -472,11 +472,11 @@ La revocatoria del mandato nació en la Constitución de 1991 como instrumento d
 ¿Cuál es la mejor síntesis a la luz del modelo de democracia de la Constitución de 1991?
 
 ### Opciones
-- [ ] A) La primera tesis, porque el voto es la única forma jurídicamente válida de participar en Colombia.
+- [ ] B) La primera tesis, porque el voto es la única forma jurídicamente válida de participar en Colombia.
   <!-- feedback: Contradice el texto constitucional: los artículos 40 y 103 reconocen múltiples vías de participación entre elecciones. -->
-- [ ] B) La segunda tesis, porque la participación directa reemplazó a los representantes elegidos por voto popular.
+- [ ] C) La segunda tesis, porque la participación directa reemplazó a los representantes elegidos por voto popular.
   <!-- feedback: Exagera: Colombia conserva un sistema representativo; la participación directa complementa, no reemplaza, al Congreso y a los alcaldes elegidos. -->
-- [x] C) Ninguna por sí sola: la Constitución combina democracia representativa y participativa, donde el voto legitima y la vigilancia entre comicios hace rendir cuentas.
+- [x] A) Ninguna por sí sola: la Constitución combina democracia representativa y participativa, donde el voto legitima y la vigilancia entre comicios hace rendir cuentas.
   <!-- feedback: Correcto: el artículo 1 define a Colombia como democracia participativa y representativa; ambas dimensiones se necesitan mutuamente. -->
 - [ ] D) Ambas son indiferentes, pues la Carta de 1991 remite el tema de la participación exclusivamente a la ley ordinaria.
   <!-- feedback: Falso: la Constitución de 1991 consagró expresamente el principio participativo y sus mecanismos, no los delegó en blanco a la ley. -->

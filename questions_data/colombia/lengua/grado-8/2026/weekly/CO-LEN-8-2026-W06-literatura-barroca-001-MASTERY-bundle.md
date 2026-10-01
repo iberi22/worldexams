@@ -34,8 +34,8 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) Un optimismo exagerado basado en el progreso tecnológico. <!-- feedback: El Barroco es una época de desengaño y crisis, no de optimismo tecnológico. -->
-- [x] B) El desengaño, el pesimismo y la conciencia de la brevedad de la vida. <!-- feedback: La realidad se percibe como algo inestable, ilusorio y transitorio. -->
-- [ ] C) Una vuelta al teocentrismo medieval sin ninguna crítica social. <!-- feedback: Aunque hay mucha religiosidad, el Barroco es profundamente crítico y complejo. -->
+- [x] C) El desengaño, el pesimismo y la conciencia de la brevedad de la vida. <!-- feedback: La realidad se percibe como algo inestable, ilusorio y transitorio. -->
+- [ ] B) Una vuelta al teocentrismo medieval sin ninguna crítica social. <!-- feedback: Aunque hay mucha religiosidad, el Barroco es profundamente crítico y complejo. -->
 - [ ] D) El desinterés total por la forma y el lenguaje artístico. <!-- feedback: El Barroco se caracteriza precisamente por una complicación extrema del lenguaje. -->
 
 ### Explicacion Pedagogica
@@ -56,8 +56,8 @@ El desengaño es el tema central del Barroco, reflejando la decepción ante la s
 ### Opciones
 - [ ] A) La sencillez y la claridad extrema en el uso de las palabras. <!-- feedback: Esto era el ideal del Renacimiento, no del Barroco. -->
 - [ ] B) El rechazo a cualquier figura retórica como la metáfora o el hipérbaton. <!-- feedback: El Barroco es el siglo de oro de la complicación retórica. -->
-- [x] C) La complicación ornamental, el uso abundante de figuras retóricas y el contraste. <!-- feedback: Se busca la sorpresa y el desafío intelectual del lector mediante un lenguaje elaborado. -->
-- [ ] D) La imitación exacta y realista de la vida cotidiana sin ningún adorno. <!-- feedback: El Barroco suele deformar la realidad, ya sea para embellecerla o para ridiculizarla. -->
+- [x] D) La complicación ornamental, el uso abundante de figuras retóricas y el contraste. <!-- feedback: Se busca la sorpresa y el desafío intelectual del lector mediante un lenguaje elaborado. -->
+- [ ] C) La imitación exacta y realista de la vida cotidiana sin ningún adorno. <!-- feedback: El Barroco suele deformar la realidad, ya sea para embellecerla o para ridiculizarla. -->
 
 ### Explicacion Pedagogica
 La estética barroca se define por el "horror vacui" (miedo al vacío), llenando los textos de adornos, alusiones mitológicas y estructuras sintácticas complejas.
@@ -75,9 +75,9 @@ La estética barroca se define por el "horror vacui" (miedo al vacío), llenando
 ¿Cuáles fueron las dos tendencias poéticas principales que dominaron el Siglo de Oro durante el periodo Barroco?
 
 ### Opciones
-- [ ] A) Humanismo y Escolástica <!-- feedback: Estas son corrientes filosóficas, la primera renacentista y la segunda medieval. -->
-- [ ] B) Realismo y Naturalismo <!-- feedback: Estas corrientes pertenecen al siglo XIX. -->
-- [x] C) Culteranismo y Conceptismo <!-- feedback: El primero centrado en la forma brillante y el segundo en la profundidad del ingenio. -->
+- [ ] B) Humanismo y Escolástica <!-- feedback: Estas son corrientes filosóficas, la primera renacentista y la segunda medieval. -->
+- [ ] C) Realismo y Naturalismo <!-- feedback: Estas corrientes pertenecen al siglo XIX. -->
+- [x] A) Culteranismo y Conceptismo <!-- feedback: El primero centrado en la forma brillante y el segundo en la profundidad del ingenio. -->
 - [ ] D) Romanticismo y Modernismo <!-- feedback: Son movimientos posteriores (siglos XIX y XX). -->
 
 ### Explicacion Pedagogica
@@ -97,8 +97,8 @@ Aunque compartían la misma base estética barroca, el Culteranismo (Góngora) y
 
 ### Opciones
 - [ ] A) Que los sueños son premoniciones exactas de lo que va a pasar en el futuro. <!-- feedback: La obra explora la inestabilidad de la realidad, no la adivinación. -->
-- [x] B) Que la existencia terrenal es transitoria y confusa, y que lo único real es la vida espiritual. <!-- feedback: Segismundo aprende que, sea sueño o realidad, lo importante es obrar bien. -->
-- [ ] C) Que no vale la pena esforzarse en nada porque nada es real. <!-- feedback: Al contrario, la conclusión es que actuar correctamente es valioso en cualquier circunstancia. -->
+- [x] C) Que la existencia terrenal es transitoria y confusa, y que lo único real es la vida espiritual. <!-- feedback: Segismundo aprende que, sea sueño o realidad, lo importante es obrar bien. -->
+- [ ] B) Que no vale la pena esforzarse en nada porque nada es real. <!-- feedback: Al contrario, la conclusión es que actuar correctamente es valioso en cualquier circunstancia. -->
 - [ ] D) Que los reyes pueden hacer lo que quieran porque los súbditos están soñando. <!-- feedback: La obra critica precisamente la tiranía y defiende el libre albedrío. -->
 
 ### Explicacion Pedagogica
@@ -160,8 +160,8 @@ La hipérbole y el ingenio verbal son herramientas típicas del conceptismo para
 
 ### Opciones
 - [ ] A) Obligar al público a estar en silencio durante toda la función. <!-- feedback: El público del Corral de Comedias era muy ruidoso y participativo. -->
-- [ ] B) Escribir las obras exclusivamente en latín para que fueran más prestigiosas. <!-- feedback: Las escribió en verso castellano para ser entendido por todos. -->
-- [x] C) Mezclar lo trágico con lo cómico y permitir que la acción durara más de un día. <!-- feedback: Buscaba mayor dinamismo y realismo dramático para entretener al pueblo. -->
+- [ ] C) Escribir las obras exclusivamente en latín para que fueran más prestigiosas. <!-- feedback: Las escribió en verso castellano para ser entendido por todos. -->
+- [x] B) Mezclar lo trágico con lo cómico y permitir que la acción durara más de un día. <!-- feedback: Buscaba mayor dinamismo y realismo dramático para entretener al pueblo. -->
 - [ ] D) Eliminar a todos los personajes femeninos para ahorrar costos en vestuario. <!-- feedback: Los personajes femeninos de Lope son muy importantes y complejos. -->
 
 ### Explicacion Pedagogica
@@ -182,8 +182,8 @@ En su poema "Hombres necios que acusáis", ¿qué crítica fundamental lanza Sor
 ### Opciones
 - [ ] A) Que los hombres no saben escribir poesía tan bien como las monjas. <!-- feedback: Su crítica es moral y social, no literaria. -->
 - [ ] B) Que la educación debería ser solo para las personas que viven en los conventos. <!-- feedback: Ella defendía el saber universal para todos, especialmente para las mujeres. -->
-- [x] C) La doble moral de los hombres que critican en las mujeres lo que ellos mismos provocan. <!-- feedback: Denuncia la contradicción del comportamiento masculino y la falta de libertad femenina. -->
-- [ ] D) Que los hombres gastan demasiado dinero en ropas lujosas en lugar de libros. <!-- feedback: Aunque critica la vanidad, su foco es la injusticia de género. -->
+- [x] D) La doble moral de los hombres que critican en las mujeres lo que ellos mismos provocan. <!-- feedback: Denuncia la contradicción del comportamiento masculino y la falta de libertad femenina. -->
+- [ ] C) Que los hombres gastan demasiado dinero en ropas lujosas en lugar de libros. <!-- feedback: Aunque critica la vanidad, su foco es la injusticia de género. -->
 
 ### Explicacion Pedagogica
 La obra de Sor Juana representa la cumbre del ingenio barroco aplicado a la crítica social y la reivindicación intelectual de la mujer en el México virreinal.
@@ -223,8 +223,8 @@ El culteranismo de Góngora busca la elitización de la literatura, convirtiendo
 
 ### Opciones
 - [ ] A) Como una falta de imaginación de los autores al repetir siempre los mismos temas. <!-- feedback: El realismo crítico era una elección consciente y necesaria. -->
-- [ ] B) Como un intento del gobierno para que la gente no quisiera ser pobre. <!-- feedback: La literatura a menudo escapaba al control idealizador del gobierno. -->
-- [x] C) Como un reflejo literario de la profunda crisis social y la pérdida de los ideales heroicos del pasado. <!-- feedback: El pícaro es el antihéroe que sobrevive en una España que ya no es dueña del mundo. -->
+- [ ] C) Como un intento del gobierno para que la gente no quisiera ser pobre. <!-- feedback: La literatura a menudo escapaba al control idealizador del gobierno. -->
+- [x] B) Como un reflejo literario de la profunda crisis social y la pérdida de los ideales heroicos del pasado. <!-- feedback: El pícaro es el antihéroe que sobrevive en una España que ya no es dueña del mundo. -->
 - [ ] D) Como una moda extranjera que no tenía nada que ver con la realidad de España. <!-- feedback: Fue un género genuinamente español que surgió de su propia realidad social. -->
 
 ### Explicacion Pedagogica
@@ -244,9 +244,9 @@ En "Fuenteovejuna", el pueblo entero se declara culpable de la muerte del Comend
 
 ### Opciones
 - [ ] A) Que el pueblo no sabía quién había matado realmente al Comendador. <!-- feedback: Todos participaron conscientemente en la acción. -->
-- [x] B) La defensa de la dignidad humana por encima de la jerarquía feudal y la unión del pueblo ante la tiranía. <!-- feedback: El honor deja de ser exclusivo de los nobles y se convierte en un valor de toda la comunidad. -->
-- [ ] C) Que los reyes no tenían ninguna autoridad sobre los pueblos pequeños. <!-- feedback: El pueblo recurre finalmente al Rey para que valide su acto de justicia. -->
-- [ ] D) Que la violencia es la única forma de resolver cualquier problema legal. <!-- feedback: Es una respuesta extrema a un abuso de poder extremo donde la justicia legal no llegaba. -->
+- [x] D) La defensa de la dignidad humana por encima de la jerarquía feudal y la unión del pueblo ante la tiranía. <!-- feedback: El honor deja de ser exclusivo de los nobles y se convierte en un valor de toda la comunidad. -->
+- [ ] B) Que los reyes no tenían ninguna autoridad sobre los pueblos pequeños. <!-- feedback: El pueblo recurre finalmente al Rey para que valide su acto de justicia. -->
+- [ ] C) Que la violencia es la única forma de resolver cualquier problema legal. <!-- feedback: Es una respuesta extrema a un abuso de poder extremo donde la justicia legal no llegaba. -->
 
 ### Explicacion Pedagogica
 "Fuenteovejuna" muestra un concepto de honra democrática, donde el honor personal depende de la virtud y no solo del linaje, reflejando tensiones sociales del siglo XVII.

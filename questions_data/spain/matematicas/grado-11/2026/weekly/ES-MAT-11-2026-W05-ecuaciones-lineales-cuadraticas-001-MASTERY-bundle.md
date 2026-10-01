@@ -30,9 +30,9 @@ bundle_index: 1
 
 ### Opciones
 - [ ] A) $ax + b = 0$ <!-- feedback: Esta es la forma de una ecuación de primer grado o lineal. -->
-- [x] B) $ax^2 + bx + c = 0$ <!-- feedback: Correcto. Incluye el término cuadrático, el lineal y el independiente. -->
-- [ ] C) $ax^2 + c = 0$ <!-- feedback: Esta es una ecuación de segundo grado incompleta (falta el término lineal). -->
-- [ ] D) $x^2 = k$ <!-- feedback: Forma básica de una ecuación cuadrática pura. -->
+- [x] D) $ax^2 + bx + c = 0$ <!-- feedback: Correcto. Incluye el término cuadrático, el lineal y el independiente. -->
+- [ ] B) $ax^2 + c = 0$ <!-- feedback: Esta es una ecuación de segundo grado incompleta (falta el término lineal). -->
+- [ ] C) $x^2 = k$ <!-- feedback: Forma básica de una ecuación cuadrática pura. -->
 
 ### Explicacion Pedagogica
 Una ecuación de segundo grado completa requiere que los coeficientes $a, b$ y $c$ sean distintos de cero (especialmente $a$, para que sea cuadrática). Se conoce también como ecuación de la forma general.
@@ -52,8 +52,8 @@ Una ecuación de segundo grado completa requiere que los coeficientes $a, b$ y $
 ### Opciones
 - [ ] A) Que la ecuación tiene dos soluciones reales distintas. <!-- feedback: Esto ocurre cuando el discriminante es positivo. -->
 - [ ] B) Que la ecuación tiene una única solución real (doble). <!-- feedback: Esto ocurre cuando el discriminante es cero. -->
-- [x] C) Que la ecuación no tiene soluciones reales. <!-- feedback: Correcto. Al ser la raíz de un número negativo, las soluciones son números complejos. -->
-- [ ] D) Que la ecuación es lineal en realidad. <!-- feedback: El grado depende del exponente, no del discriminante. -->
+- [x] D) Que la ecuación no tiene soluciones reales. <!-- feedback: Correcto. Al ser la raíz de un número negativo, las soluciones son números complejos. -->
+- [ ] C) Que la ecuación es lineal en realidad. <!-- feedback: El grado depende del exponente, no del discriminante. -->
 
 ### Explicacion Pedagogica
 El discriminante ($\Delta = b^2 - 4ac$) es el término bajo la raíz cuadrada en la fórmula general. Si es negativo, no existe raíz real, por lo que la parábola asociada no corta al eje X.
@@ -92,9 +92,9 @@ Para resolver ecuaciones lineales con paréntesis, primero aplicamos la propieda
 ¿Cuáles son las soluciones de la ecuación $x^2 - 9 = 0$?
 
 ### Opciones
-- [ ] A) Solo $x = 3$ <!-- feedback: Se ha olvidado la raíz negativa. -->
-- [ ] B) Solo $x = -3$ <!-- feedback: Se ha olvidado la raíz positiva. -->
-- [x] C) $x = 3$ y $x = -3$ <!-- feedback: Correcto. $x^2 = 9 \Rightarrow x = \pm \sqrt{9}$. -->
+- [ ] B) Solo $x = 3$ <!-- feedback: Se ha olvidado la raíz negativa. -->
+- [ ] C) Solo $x = -3$ <!-- feedback: Se ha olvidado la raíz positiva. -->
+- [x] A) $x = 3$ y $x = -3$ <!-- feedback: Correcto. $x^2 = 9 \Rightarrow x = \pm \sqrt{9}$. -->
 - [ ] D) No tiene solución real. <!-- feedback: Al ser el término independiente negativo tras pasarlo al otro lado, la raíz es real. -->
 
 ### Explicacion Pedagogica
@@ -114,8 +114,8 @@ Halla las soluciones de la ecuación: $x^2 - 5x + 6 = 0$.
 
 ### Opciones
 - [ ] A) $x = 1$ y $x = 6$ <!-- feedback: Aunque suman 7 y su producto es 6, no anulan la ecuación con los signos dados. -->
-- [x] B) $x = 2$ y $x = 3$ <!-- feedback: Correcto. $(x-2)(x-3) = x^2 - 5x + 6 = 0$. -->
-- [ ] C) $x = -2$ y $x = -3$ <!-- feedback: El término lineal sería +5x con estas raíces. -->
+- [x] C) $x = 2$ y $x = 3$ <!-- feedback: Correcto. $(x-2)(x-3) = x^2 - 5x + 6 = 0$. -->
+- [ ] B) $x = -2$ y $x = -3$ <!-- feedback: El término lineal sería +5x con estas raíces. -->
 - [ ] D) $x = 0$ y $x = 5$ <!-- feedback: Error al intentar factorizar. -->
 
 ### Explicacion Pedagogica
@@ -155,8 +155,8 @@ En ecuaciones de la forma $ax^2 + bx = 0$, siempre se puede extraer factor comú
 Si $x_1$ y $x_2$ son las raíces de $ax^2 + bx + c = 0$, ¿a qué es igual la suma de dichas raíces según las fórmulas de Vieta?
 
 ### Opciones
-- [ ] A) $c/a$ <!-- feedback: Este es el producto de las raíces, no la suma. -->
-- [x] B) $-b/a$ <!-- feedback: Correcto. La suma de las raíces es el opuesto del coeficiente lineal entre el principal. -->
+- [ ] B) $c/a$ <!-- feedback: Este es el producto de las raíces, no la suma. -->
+- [x] A) $-b/a$ <!-- feedback: Correcto. La suma de las raíces es el opuesto del coeficiente lineal entre el principal. -->
 - [ ] C) $b/a$ <!-- feedback: Falta el signo negativo de la fórmula. -->
 - [ ] D) $\sqrt{\Delta}/2a$ <!-- feedback: Esto es parte de la fórmula de resolución, no la suma total de raíces. -->
 
@@ -176,8 +176,8 @@ Las relaciones de Vieta permiten conocer propiedades de las raíces directamente
 Plantea la ecuación para hallar el ancho ($x$) del terreno.
 
 ### Opciones
-- [ ] A) $2x + 2 = 120$ <!-- feedback: Esto es el perímetro, no el área. -->
-- [x] B) $x^2 + 2x - 120 = 0$ <!-- feedback: Correcto. $x(x + 2) = 120 \Rightarrow x^2 + 2x = 120$. -->
+- [ ] B) $2x + 2 = 120$ <!-- feedback: Esto es el perímetro, no el área. -->
+- [x] A) $x^2 + 2x - 120 = 0$ <!-- feedback: Correcto. $x(x + 2) = 120 \Rightarrow x^2 + 2x = 120$. -->
 - [ ] C) $x^2 - 2x + 120 = 0$ <!-- feedback: Error de signos en el planteamiento. -->
 - [ ] D) $2x^2 = 120$ <!-- feedback: Error al relacionar el largo y el ancho. -->
 
@@ -197,8 +197,8 @@ Asignamos $x$ al ancho, por lo que el largo es $(x + 2)$. El área es el product
 ¿Cuál es la solución de la ecuación $x^2 - 10x + 25 = 0$?
 
 ### Opciones
-- [ ] A) $x = 5$ y $x = -5$ <!-- feedback: El producto sería -25, no +25. -->
-- [x] B) $x = 5$ (doble) <!-- feedback: Correcto. Es el desarrollo del binomio $(x-5)^2 = 0$. -->
+- [ ] B) $x = 5$ y $x = -5$ <!-- feedback: El producto sería -25, no +25. -->
+- [x] A) $x = 5$ (doble) <!-- feedback: Correcto. Es el desarrollo del binomio $(x-5)^2 = 0$. -->
 - [ ] C) $x = 10$ <!-- feedback: Error al relacionar los coeficientes. -->
 - [ ] D) No tiene solución real. <!-- feedback: El discriminante es cero ($100 - 100$), por lo que sí tiene solución. -->
 
@@ -218,8 +218,8 @@ Cuando el trinomio es un cuadrado perfecto, el discriminante es cero y la ecuaci
 Resuelve: $\frac{x}{2} + \frac{x}{3} = 5$.
 
 ### Opciones
-- [ ] A) $x = 1$ <!-- feedback: Valor demasiado pequeño. -->
-- [x] B) $x = 6$ <!-- feedback: Correcto. Multiplicando por 6: $3x + 2x = 30 \Rightarrow 5x = 30 \Rightarrow x = 6$. -->
+- [ ] B) $x = 1$ <!-- feedback: Valor demasiado pequeño. -->
+- [x] A) $x = 6$ <!-- feedback: Correcto. Multiplicando por 6: $3x + 2x = 30 \Rightarrow 5x = 30 \Rightarrow x = 6$. -->
 - [ ] C) $x = 5$ <!-- feedback: Error al operar las fracciones. -->
 - [ ] D) $x = 10$ <!-- feedback: Error al despejar tras sumar las fracciones. -->
 
@@ -240,8 +240,8 @@ Para resolver ecuaciones con denominadores, multiplicamos todos los términos po
 
 ### Opciones
 - [ ] A) $k = 0$ <!-- feedback: Tendría dos soluciones (0 y 4). -->
-- [ ] B) $k = 2$ <!-- feedback: El discriminante sería $16-8=8 > 0$, dos soluciones reales. -->
-- [x] C) $k = 4$ <!-- feedback: Correcto. El discriminante debe ser cero: $(-4)^2 - 4(1)(k) = 16 - 4k = 0 \Rightarrow k = 4$. -->
+- [ ] C) $k = 2$ <!-- feedback: El discriminante sería $16-8=8 > 0$, dos soluciones reales. -->
+- [x] B) $k = 4$ <!-- feedback: Correcto. El discriminante debe ser cero: $(-4)^2 - 4(1)(k) = 16 - 4k = 0 \Rightarrow k = 4$. -->
 - [ ] D) $k = 16$ <!-- feedback: El discriminante sería negativo, sin soluciones reales. -->
 
 ### Explicacion Pedagogica
@@ -260,8 +260,8 @@ La condición de "solución única" en una cuadrática equivale a que el discrim
 Resuelve la ecuación $2x^2 - 7x + 3 = 0$.
 
 ### Opciones
-- [ ] A) $x = 1$ y $x = 3/2$ <!-- feedback: Error al aplicar la fórmula. -->
-- [x] B) $x = 3$ y $x = 1/2$ <!-- feedback: Correcto. $\Delta = 49 - 24 = 25$. $x = (7 \pm 5)/4$. -->
+- [ ] B) $x = 1$ y $x = 3/2$ <!-- feedback: Error al aplicar la fórmula. -->
+- [x] A) $x = 3$ y $x = 1/2$ <!-- feedback: Correcto. $\Delta = 49 - 24 = 25$. $x = (7 \pm 5)/4$. -->
 - [ ] C) $x = -3$ y $x = -1/2$ <!-- feedback: Error de signos en la aplicación de la fórmula. -->
 - [ ] D) No tiene soluciones enteras ni fraccionarias simples. <!-- feedback: Las soluciones son racionales y exactas. -->
 
@@ -282,8 +282,8 @@ Aplicamos la fórmula cuadrática completa. Identificamos $a=2, b=-7, c=3$. Calc
 
 ### Opciones
 - [ ] A) Siempre tiene $n$ soluciones reales. <!-- feedback: Algunas pueden ser complejas. -->
-- [x] B) Como máximo $n$ soluciones reales. <!-- feedback: Correcto. El grado marca el límite superior de raíces. -->
-- [ ] C) Siempre tiene al menos una solución real. <!-- feedback: No para grados pares (ej. x^2+1=0). -->
+- [x] C) Como máximo $n$ soluciones reales. <!-- feedback: Correcto. El grado marca el límite superior de raíces. -->
+- [ ] B) Siempre tiene al menos una solución real. <!-- feedback: No para grados pares (ej. x^2+1=0). -->
 - [ ] D) $n-1$ soluciones. <!-- feedback: Incorrecto. -->
 
 ### Explicacion Pedagogica
@@ -303,9 +303,9 @@ Resuelve para el radio positivo $r$: $r^2 + 4r - 21 = 0$.
 
 ### Opciones
 - [ ] A) $r = 7$ <!-- feedback: $49 + 28 - 21 = 56 \neq 0$. -->
-- [x] B) $r = 3$ <!-- feedback: Correcto. $9 + 12 - 21 = 0$. La otra raíz es -7, pero un radio debe ser positivo. -->
-- [ ] C) $r = 5$ <!-- feedback: Error de cálculo. -->
-- [ ] D) $r = 21$ <!-- feedback: Valor incorrecto. -->
+- [x] D) $r = 3$ <!-- feedback: Correcto. $9 + 12 - 21 = 0$. La otra raíz es -7, pero un radio debe ser positivo. -->
+- [ ] B) $r = 5$ <!-- feedback: Error de cálculo. -->
+- [ ] C) $r = 21$ <!-- feedback: Valor incorrecto. -->
 
 ### Explicacion Pedagogica
 Al resolver problemas aplicados a la geometría (como longitudes o radios), aunque la ecuación cuadrática arroje dos soluciones, debemos descartar las negativas por carecer de sentido físico en el contexto del problema.
@@ -324,9 +324,9 @@ Al resolver problemas aplicados a la geometría (como longitudes o radios), aunq
 
 ### Opciones
 - [ ] A) Corta al eje X en dos puntos. <!-- feedback: Solo corta en uno (el vértice). -->
-- [x] B) Es tangente al eje X en el punto (3, 0). <!-- feedback: Correcto. Al ser una raíz doble, el vértice toca el eje sin cruzarlo. -->
-- [ ] C) No toca nunca el eje X. <!-- feedback: Esto ocurriría si el discriminante fuera negativo. -->
-- [ ] D) Es una línea recta. <!-- feedback: Es una parábola por ser de grado 2. -->
+- [x] D) Es tangente al eje X en el punto (3, 0). <!-- feedback: Correcto. Al ser una raíz doble, el vértice toca el eje sin cruzarlo. -->
+- [ ] B) No toca nunca el eje X. <!-- feedback: Esto ocurriría si el discriminante fuera negativo. -->
+- [ ] C) Es una línea recta. <!-- feedback: Es una parábola por ser de grado 2. -->
 
 ### Explicacion Pedagogica
 La conexión entre el álgebra y la geometría es clave. Una raíz doble en una ecuación cuadrática significa que la parábola correspondiente tiene su vértice justo sobre el eje de abscisas.
@@ -386,8 +386,8 @@ En ecuaciones racionales, multiplicamos por el denominador para "linealizar" la 
 ¿Cuáles son las soluciones reales de la ecuación $x^4 - 13x^2 + 36 = 0$?
 
 ### Opciones
-- [ ] A) $x = 4$ y $x = 9$ <!-- feedback: Estas son las soluciones para $z=x^2$, falta extraer la raíz. -->
-- [x] B) $x = \pm 2$ y $x = \pm 3$ <!-- feedback: Correcto. Si $z=x^2$, $z^2-13z+36=0$ da $z=4, z=9$. Sus raíces son $\pm 2$ y $\pm 3$. -->
+- [ ] B) $x = 4$ y $x = 9$ <!-- feedback: Estas son las soluciones para $z=x^2$, falta extraer la raíz. -->
+- [x] A) $x = \pm 2$ y $x = \pm 3$ <!-- feedback: Correcto. Si $z=x^2$, $z^2-13z+36=0$ da $z=4, z=9$. Sus raíces son $\pm 2$ y $\pm 3$. -->
 - [ ] C) Solo $x = 2$ y $x = 3$ <!-- feedback: Se han omitido las soluciones negativas. -->
 - [ ] D) No tiene soluciones reales. <!-- feedback: Tiene cuatro soluciones reales distintas. -->
 
@@ -428,9 +428,9 @@ Usando las fórmulas de Vieta, podemos hallar expresiones complejas de las raíc
 Si en la ecuación $x^2 + bx + c = 0$, las raíces son consecutivas (ej. 3 y 4), ¿cuál es el valor del discriminante $\Delta$?
 
 ### Opciones
-- [x] A) 1 <!-- feedback: Correcto. Si las raíces son $r$ y $r+1$, su diferencia es 1. Dado que $x_1-x_2 = \sqrt{\Delta}/a$, entonces $1 = \sqrt{\Delta}/1 \Rightarrow \Delta = 1$. -->
-- [ ] B) 0 <!-- feedback: Las raíces serían iguales, no consecutivas. -->
-- [ ] C) 4 <!-- feedback: Las raíces distarían 2 unidades entre sí. -->
+- [x] C) 1 <!-- feedback: Correcto. Si las raíces son $r$ y $r+1$, su diferencia es 1. Dado que $x_1-x_2 = \sqrt{\Delta}/a$, entonces $1 = \sqrt{\Delta}/1 \Rightarrow \Delta = 1$. -->
+- [ ] A) 0 <!-- feedback: Las raíces serían iguales, no consecutivas. -->
+- [ ] B) 4 <!-- feedback: Las raíces distarían 2 unidades entre sí. -->
 - [ ] D) Depende de los valores de b y c. <!-- feedback: Para cualquier par de raíces consecutivas, el discriminante siempre vale 1. -->
 
 ### Explicacion Pedagogica

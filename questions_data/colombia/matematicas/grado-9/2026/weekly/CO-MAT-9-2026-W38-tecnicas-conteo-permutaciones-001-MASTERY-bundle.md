@@ -54,9 +54,9 @@ Por que el numero total de combinaciones posibles de bandeja con jugo se calcula
 ### Opciones
 - [ ] A) Es un capricho del profesor, pues sumar o multiplicar daria el mismo resultado siempre.
   <!-- feedback: Incorrecto. La suma y el producto son operaciones distintas y solo coinciden en casos muy especificos. -->
-- [x] B) Porque cada una de las $3$ bandejas puede acompanarse con cualquiera de los $4$ jugos, formando parejas independientes, y eso se cuenta con el principio multiplicativo.
+- [x] C) Porque cada una de las $3$ bandejas puede acompanarse con cualquiera de los $4$ jugos, formando parejas independientes, y eso se cuenta con el principio multiplicativo.
   <!-- feedback: Correcto. Cuando las decisiones son independientes, el conteo se hace con el principio multiplicativo: $3 \times 4 = 12$ combinaciones posibles. -->
-- [ ] C) Porque sumando se obtiene exactamente el mismo resultado cuando los numeros son pequenos.
+- [ ] B) Porque sumando se obtiene exactamente el mismo resultado cuando los numeros son pequenos.
   <!-- feedback: Incorrecto. $3+4=7$ y $3 \times 4 = 12$ son distintos; no coinciden por ser pequenos. -->
 - [ ] D) Solo se aplica la multiplicacion cuando hay mas de $5$ elementos en total.
   <!-- feedback: Incorrecto. El principio multiplicativo se aplica siempre que las elecciones sean independientes, sin importar la cantidad. -->
@@ -74,9 +74,9 @@ Cuantas placas distintas pueden emitirse bajo ese formato?
 ### Opciones
 - [ ] A) $26 \times 10 = 260$ placas, una por cada combinacion simple de una letra y un digito.
   <!-- feedback: Incorrecto. Esa cuenta corresponderia a placas con una sola letra y un solo digito, no al formato completo de seis posiciones. -->
-- [x] B) $26^3 \times 10^3 = 17576000$ placas, porque cada posicion se elige de manera independiente.
+- [x] C) $26^3 \times 10^3 = 17576000$ placas, porque cada posicion se elige de manera independiente.
   <!-- feedback: Correcto. En cada una de las $3$ posiciones de letra hay $26$ opciones y en cada una de las $3$ posiciones de digito hay $10$ opciones, y el principio multiplicativo da $26^3 \times 10^3$. -->
-- [ ] C) $26 + 10 = 36$ placas, una por cada simbolo distinto del alfabeto alfanumerico.
+- [ ] B) $26 + 10 = 36$ placas, una por cada simbolo distinto del alfabeto alfanumerico.
   <!-- feedback: Incorrecto. Sumar seria valido solo si letras y digitos fueran opciones excluyentes para la misma posicion, lo cual no es el caso. -->
 - [ ] D) $3 \times 26 \times 3 \times 10 = 2340$ placas, contando letras y digitos multiplicados por la cantidad de cada uno.
   <!-- feedback: Incorrecto. Multiplicar por $3$ repite las letras o los digitos, lo que duplica cuentas que ya estan contempladas en las potencias. -->
@@ -94,9 +94,9 @@ Cuantas formas distintas tiene un estudiante de elegir su postre, sabiendo que t
 ### Opciones
 - [ ] A) $3 \times 4 \times 2 = 24$ formas, una por cada combinacion simultanea de las tres categorias.
   <!-- feedback: Incorrecto. Multiplicar asume que se elige una torta, un helado y una fruta a la vez, cuando en realidad solo se escoge un postre. -->
-- [x] B) $3 + 4 + 2 = 9$ formas, sumando las opciones excluyentes de cada categoria.
+- [x] C) $3 + 4 + 2 = 9$ formas, sumando las opciones excluyentes de cada categoria.
   <!-- feedback: Correcto. Como las categorias son excluyentes, se aplica el principio aditivo y se obtiene $3+4+2 = 9$ formas posibles. -->
-- [ ] C) $3 + 4 \times 2 = 11$ formas, mezclando un producto parcial con una suma.
+- [ ] B) $3 + 4 \times 2 = 11$ formas, mezclando un producto parcial con una suma.
   <!-- feedback: Incorrecto. Multiplicar helado por fruta y luego sumar tortas no corresponde a ninguna regla valida del conteo. -->
 - [ ] D) $3^4 \times 2^4 = 1296$ formas, elevando cada categoria a sus sub-opciones.
   <!-- feedback: Incorrecto. Las potencias $3^4$ y $2^4$ no tienen sentido porque ninguna categoria tiene $4$ sub-opciones. -->
@@ -114,9 +114,9 @@ De cuantas formas distintas pueden llegar a la meta los $5$ corredores si todos 
 ### Opciones
 - [ ] A) $5^5 = 3125$ formas, porque cada corredor puede ubicarse en cualquiera de las $5$ posiciones independientemente.
   <!-- feedback: Incorrecto. $5^5$ describe colocaciones con repeticion donde un mismo corredor podria estar en varios lugares a la vez. -->
-- [x] B) $5! = 120$ formas, aplicando una permutacion sin repeticion de los $5$ corredores.
+- [x] C) $5! = 120$ formas, aplicando una permutacion sin repeticion de los $5$ corredores.
   <!-- feedback: Correcto. Como cada corredor ocupa exactamente una posicion, se trata de una permutacion de $5$ elementos distintos y el total es $5! = 120$. -->
-- [ ] C) $5 \times 4 = 20$ formas, contando solo el primero y el segundo lugar.
+- [ ] B) $5 \times 4 = 20$ formas, contando solo el primero y el segundo lugar.
   <!-- feedback: Incorrecto. Esa cuenta ignora el tercer, cuarto y quinto lugar, que tambien son posiciones distintas. -->
 - [ ] D) $5 + 4 = 9$ formas, sumando el numero de participantes y de posiciones.
   <!-- feedback: Incorrecto. Sumar cantidades no relacionadas no produce el numero de ordenamientos posibles. -->
@@ -132,9 +132,9 @@ Una permutacion de $n$ elementos distintos es el numero de formas de ordenarlos 
 ### Enunciado
 Al dibujar el diagrama de arbol que representa estas tres decisiones independientes, cuantas ramas finales aparecen?
 ### Opciones
-- [x] A) $2 \times 3 \times 2 = 12$ ramas, una por cada combinacion completa de las tres decisiones.
+- [x] B) $2 \times 3 \times 2 = 12$ ramas, una por cada combinacion completa de las tres decisiones.
   <!-- feedback: Correcto. Cada nivel del arbol multiplica el numero de opciones, dando $2 \times 3 \times 2 = 12$ combinaciones finales, una por hoja del diagrama. -->
-- [ ] B) $2 + 3 + 2 = 7$ ramas, una por cada decision sumada.
+- [ ] A) $2 + 3 + 2 = 7$ ramas, una por cada decision sumada.
   <!-- feedback: Incorrecto. La suma seria valida solo si las decisiones fueran excluyentes, lo que no ocurre porque se toman en paralelo. -->
 - [ ] C) $2 \times 3 + 2 = 8$ ramas, mezclando una multiplicacion parcial con una suma final.
   <!-- feedback: Incorrecto. La operacion $2 \times 3 + 2$ no corresponde a ninguna regla valida del conteo. -->
@@ -152,9 +152,9 @@ Un diagrama de arbol permite visualizar todas las combinaciones cuando las decis
 ### Enunciado
 De cuantas formas distintas se pueden asignar los tres cargos?
 ### Opciones
-- [ ] A) $8^3 = 512$ formas, porque en cada cargo puede caer cualquiera de los $8$ candidatos.
+- [ ] B) $8^3 = 512$ formas, porque en cada cargo puede caer cualquiera de los $8$ candidatos.
   <!-- feedback: Incorrecto. $8^3$ permitiria que la misma persona ocupara varios cargos, lo que viola la condicion del problema. -->
-- [x] B) $8 \times 7 \times 6 = 336$ formas, aplicando una permutacion sin repeticion $P(8,3)$.
+- [x] A) $8 \times 7 \times 6 = 336$ formas, aplicando una permutacion sin repeticion $P(8,3)$.
   <!-- feedback: Correcto. Para presidente hay $8$ opciones, para vicepresidente quedan $7$ y para tesorero $6$, dando $8 \times 7 \times 6 = 336$ asignaciones. -->
 - [ ] C) $\binom{8}{3} = 56$ formas, una combinacion sin importar el orden.
   <!-- feedback: Incorrecto. La combinacion ignora que los cargos son distintos; aqui presidente, vicepresidente y tesorero importan. -->
@@ -194,9 +194,9 @@ Cuantas claves distintas puede crear el cliente bajo esas dos restricciones?
 ### Opciones
 - [ ] A) $10^4 = 10000$ claves, una por cada cadena de cuatro digitos.
   <!-- feedback: Incorrecto. $10^4$ no aplica la prohibicion de repetir digitos ni la restriction sobre el cero. -->
-- [ ] B) $10 \times 10 \times 10 \times 10 = 10000$ claves, equivalente al conteo anterior sin restricciones.
+- [ ] C) $10 \times 10 \times 10 \times 10 = 10000$ claves, equivalente al conteo anterior sin restricciones.
   <!-- feedback: Incorrecto. Es la misma cuenta que la opcion A y omite las dos restricciones. -->
-- [x] C) $9 \times 9 \times 8 \times 7 = 4536$ claves, aplicando la primera restriction al primer digito y la no repeticion a los demas.
+- [x] B) $9 \times 9 \times 8 \times 7 = 4536$ claves, aplicando la primera restriction al primer digito y la no repeticion a los demas.
   <!-- feedback: Correcto. El primer digito tiene $9$ opciones ($1$ a $9$), el segundo $9$ opciones (cualquier digito excepto el primero), el tercero $8$ y el cuarto $7$, dando $9 \times 9 \times 8 \times 7 = 4536$. -->
 - [ ] D) $9 \times 8 \times 7 \times 6 = 3024$ claves, ignorando que el cero si puede aparecer despues del primer digito.
   <!-- feedback: Incorrecto. Esa cuenta prohibe el cero en todas las posiciones, lo que es mas estricto de lo pedido y reduce las claves. -->
@@ -212,9 +212,9 @@ El problema combina dos restricciones: el primer digito no puede ser cero, lo qu
 ### Enunciado
 Cuantos comites diferentes de $3$ personas pueden formarse?
 ### Opciones
-- [ ] A) $10 \times 9 \times 8 = 720$ comites, como si los cargos dentro del comite fueran distintos.
+- [ ] B) $10 \times 9 \times 8 = 720$ comites, como si los cargos dentro del comite fueran distintos.
   <!-- feedback: Incorrecto. Esa cuenta distingue el orden de los miembros, pero aqui el orden no importa, asi que sobrecuenta. -->
-- [x] B) $\dfrac{10!}{3! \cdot 7!} = \binom{10}{3} = 120$ comites, aplicando una combinacion.
+- [x] A) $\dfrac{10!}{3! \cdot 7!} = \binom{10}{3} = 120$ comites, aplicando una combinacion.
   <!-- feedback: Correcto. Como el orden dentro del comite no importa, se divide la permutacion entre las $3!$ reordenaciones posibles de los elegidos, quedando $\binom{10}{3} = 120$ comites. -->
 - [ ] C) $\dfrac{10!}{7!} = 720$ comites, una permutacion que no corrige el orden interno.
   <!-- feedback: Incorrecto. $10!/7!$ es $10 \times 9 \times 8$ y sobrecuenta cada comite $3!$ veces. -->
@@ -232,9 +232,9 @@ La combinacion $\binom{n}{k} = \frac{n!}{k!(n-k)!}$ cuenta cuantos subconjuntos 
 ### Enunciado
 Cual es la valoracion correcta del razonamiento de la estudiante?
 ### Opciones
-- [x] A) El razonamiento es correcto siempre que se permitan letras y digitos repetidos y el orden importe, produciendo $36^5 = 60466176$ contrasenas.
+- [x] B) El razonamiento es correcto siempre que se permitan letras y digitos repetidos y el orden importe, produciendo $36^5 = 60466176$ contrasenas.
   <!-- feedback: Correcto. El principio multiplicativo con $36$ opciones por posicion y $5$ posiciones independientes da exactamente $36^5 = 60466176$, valido si no hay restricciones adicionales. -->
-- [ ] B) El razonamiento es incorrecto porque las letras y los digitos no pueden mezclarse dentro de una misma contrasena.
+- [ ] A) El razonamiento es incorrecto porque las letras y los digitos no pueden mezclarse dentro de una misma contrasena.
   <!-- feedback: Incorrecto. Las contrasenas usualmente si mezclan letras y digitos, por eso el alfabeto de $36$ simbolos es valido. -->
 - [ ] C) El razonamiento es incorrecto porque faltan los simbolos especiales como espacios o signos.
   <!-- feedback: Incorrecto. El problema delimita explicitamente el alfabeto a letras y digitos, asi que no hay simbolos adicionales que agregar. -->
@@ -256,9 +256,9 @@ Que estrategia de conteo es la mas adecuada para determinar el numero total de p
   <!-- feedback: Incorrecto. Esa combinacion ignora que los lugares del podio son posiciones ordenadas y no intercambiables. -->
 - [ ] B) Aplicar combinaciones con repeticion porque los lugares son distintos pero los clubes pueden repetirse.
   <!-- feedback: Incorrecto. El problema prohibe que un club reciba dos lugares, asi que no hay repeticion. -->
-- [x] C) Aplicar una permutacion $P(8,3) = 8 \times 7 \times 6$ porque los lugares del podio son posiciones ordenadas.
+- [x] D) Aplicar una permutacion $P(8,3) = 8 \times 7 \times 6$ porque los lugares del podio son posiciones ordenadas.
   <!-- feedback: Correcto. Como oro, plata y bronce son posiciones distintas y cada club aparece a lo sumo una vez, se trata de una permutacion sin repeticion $P(8,3) = 336$ podios posibles. -->
-- [ ] D) Aplicar el principio aditivo con $8 + 7 + 6 = 21$ porque se suman las opciones por lugar.
+- [ ] C) Aplicar el principio aditivo con $8 + 7 + 6 = 21$ porque se suman las opciones por lugar.
   <!-- feedback: Incorrecto. El principio aditivo se usa para opciones excluyentes, no para lugares que deben asignarse de manera consistente. -->
 ### Explicacion Pedagogica
 Evaluar la mejor estrategia de conteo exige distinguir si el orden importa y si hay repeticion. En un podio los lugares son posiciones ordenadas y los clubes no pueden repetirse, por lo que la herramienta adecuada es la permutacion sin repeticion $P(8,3) = 8 \times 7 \times 6 = 336$ podios validos.

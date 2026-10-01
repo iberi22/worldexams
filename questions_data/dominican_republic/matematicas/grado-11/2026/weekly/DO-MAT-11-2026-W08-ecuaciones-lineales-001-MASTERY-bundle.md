@@ -50,8 +50,8 @@ Definición estructural de la ecuación de la forma $ax + b = 0$.
 Si un término suma, ¿cómo pasa al otro lado de la igualdad?
 
 ### Opciones
-- [ ] A) Dividiendo. <!-- feedback: Incorrecto. Operación no correspondiente. -->
-- [x] B) Restando. <!-- feedback: Correcto. Aplicación de la operación inversa. -->
+- [ ] B) Dividiendo. <!-- feedback: Incorrecto. Operación no correspondiente. -->
+- [x] A) Restando. <!-- feedback: Correcto. Aplicación de la operación inversa. -->
 - [ ] C) Multiplicando. <!-- feedback: Incorrecto. Operación no correspondiente. -->
 - [ ] D) Con igual signo. <!-- feedback: Incorrecto. Rompe la igualdad. -->
 
@@ -93,8 +93,8 @@ Despeje directo mediante resta en el segundo miembro.
 
 ### Opciones
 - [ ] A) $x + 100 = 35$ <!-- feedback: Incorrecto. Planteamiento ilógico. -->
-- [x] B) $100 - x = 35$ <!-- feedback: Correcto. Pago menos precio igual a cambio. -->
-- [ ] C) $x - 35 = 100$ <!-- feedback: Incorrecto. Precio mayor que pago. -->
+- [x] C) $100 - x = 35$ <!-- feedback: Correcto. Pago menos precio igual a cambio. -->
+- [ ] B) $x - 35 = 100$ <!-- feedback: Incorrecto. Precio mayor que pago. -->
 - [ ] D) $100 + x = 35$ <!-- feedback: Incorrecto. Suma errónea. -->
 
 ### Explicacion Pedagogica
@@ -155,9 +155,9 @@ Procedimiento de dos pasos: transposición de términos y división.
 Si Juan es x, ¿ecuación correcta?
 
 ### Opciones
-- [ ] A) $x + 2 = 45$ <!-- feedback: Incorrecto. Pedro no es Juan+2. -->
-- [ ] B) $2x = 45$ <!-- feedback: Incorrecto. Ignoró a Juan en la suma. -->
-- [x] C) $x + 2x = 45$ <!-- feedback: Correcto. Suma de ambas edades. -->
+- [ ] B) $x + 2 = 45$ <!-- feedback: Incorrecto. Pedro no es Juan+2. -->
+- [ ] C) $2x = 45$ <!-- feedback: Incorrecto. Ignoró a Juan en la suma. -->
+- [x] A) $x + 2x = 45$ <!-- feedback: Correcto. Suma de ambas edades. -->
 - [ ] D) $x + x/2 = 45$ <!-- feedback: Incorrecto. Relación inversa. -->
 
 ### Explicacion Pedagogica
@@ -176,8 +176,8 @@ Traducción de problemas de edades a lenguaje algebraico.
 Halla x.
 
 ### Opciones
-- [ ] A) 7 <!-- feedback: Incorrecto. Falló en distribución o suma. -->
-- [x] B) 9 <!-- feedback: Correcto. $x-4=5 \implies x=9$. -->
+- [ ] B) 7 <!-- feedback: Incorrecto. Falló en distribución o suma. -->
+- [x] A) 9 <!-- feedback: Correcto. $x-4=5 \implies x=9$. -->
 - [ ] C) 14 <!-- feedback: Incorrecto. Despeje errático. -->
 - [ ] D) 5 <!-- feedback: Incorrecto. Ignoró el 4 interno. -->
 
@@ -198,8 +198,8 @@ Resolución de ecuaciones con signos de agrupación.
 
 ### Opciones
 - [ ] A) 5 <!-- feedback: Incorrecto. Resta de x errónea. -->
-- [x] B) 3 <!-- feedback: Correcto. $3x = 9 \implies x = 3$. -->
-- [ ] C) 2 <!-- feedback: Incorrecto. Error en división. -->
+- [x] C) 3 <!-- feedback: Correcto. $3x = 9 \implies x = 3$. -->
+- [ ] B) 2 <!-- feedback: Incorrecto. Error en división. -->
 - [ ] D) 1 <!-- feedback: Incorrecto. No satisface igualdad. -->
 
 ### Explicacion Pedagogica
@@ -218,8 +218,8 @@ Agrupación de términos semejantes en ambos miembros de la ecuación.
 Halla el largo l.
 
 ### Opciones
-- [ ] A) 30 <!-- feedback: Incorrecto. No descontó el ancho. -->
-- [x] B) 20 <!-- feedback: Correcto. $60 = 2l + 20 \implies 2l = 40 \implies l = 20$. -->
+- [ ] B) 30 <!-- feedback: Incorrecto. No descontó el ancho. -->
+- [x] A) 20 <!-- feedback: Correcto. $60 = 2l + 20 \implies 2l = 40 \implies l = 20$. -->
 - [ ] C) 10 <!-- feedback: Incorrecto. Sería perímetro 40. -->
 - [ ] D) 40 <!-- feedback: Incorrecto. Excedió valor. -->
 
@@ -240,9 +240,9 @@ Uso de ecuaciones para hallar dimensiones en fórmulas geométricas.
 
 ### Opciones
 - [ ] A) 3 <!-- feedback: Incorrecto. Dividió en lugar de multiplicar. -->
-- [x] B) 12 <!-- feedback: Correcto. $x/2 = 6 \implies x = 12$. -->
-- [ ] C) 8 <!-- feedback: Incorrecto. Falló en resta o multiplicación. -->
-- [ ] D) 6 <!-- feedback: Incorrecto. Falta paso final. -->
+- [x] D) 12 <!-- feedback: Correcto. $x/2 = 6 \implies x = 12$. -->
+- [ ] B) 8 <!-- feedback: Incorrecto. Falló en resta o multiplicación. -->
+- [ ] C) 6 <!-- feedback: Incorrecto. Falta paso final. -->
 
 ### Explicacion Pedagogica
 Manejo de denominadores en el despeje de ecuaciones lineales.
@@ -261,9 +261,9 @@ Manejo de denominadores en el despeje de ecuaciones lineales.
 
 ### Opciones
 - [ ] A) RD\$ 100 <!-- feedback: Incorrecto. $100+200 \neq 200$. -->
-- [x] B) RD\$ 200 <!-- feedback: Correcto. $x+200=2x \implies x=200$. -->
-- [ ] C) RD\$ 400 <!-- feedback: Incorrecto. No satisface balance. -->
-- [ ] D) RD\$ 50 <!-- feedback: Incorrecto. Envío desproporcionado. -->
+- [x] D) RD\$ 200 <!-- feedback: Correcto. $x+200=2x \implies x=200$. -->
+- [ ] B) RD\$ 400 <!-- feedback: Incorrecto. No satisface balance. -->
+- [ ] C) RD\$ 50 <!-- feedback: Incorrecto. Envío desproporcionado. -->
 
 ### Explicacion Pedagogica
 Planteamiento de igualdad a partir de descripciones verbales.
@@ -323,10 +323,10 @@ Resolución integral combinando distribución y agrupación.
 ¿Capital inicial?
 
 ### Opciones
-- [x] A) RD\$ 10,000 <!-- feedback: Correcto. $1.05x = 10500 \implies x=10000$. -->
-- [ ] B) RD\$ 9,500 <!-- feedback: Incorrecto. Interés insuficiente. -->
-- [ ] C) RD\$ 10,450 <!-- feedback: Incorrecto. Descuento mal aplicado. -->
-- [ ] D) RD\$ 10,250 <!-- feedback: Incorrecto. Error porcentual. -->
+- [x] D) RD\$ 10,000 <!-- feedback: Correcto. $1.05x = 10500 \implies x=10000$. -->
+- [ ] A) RD\$ 9,500 <!-- feedback: Incorrecto. Interés insuficiente. -->
+- [ ] B) RD\$ 10,450 <!-- feedback: Incorrecto. Descuento mal aplicado. -->
+- [ ] C) RD\$ 10,250 <!-- feedback: Incorrecto. Error porcentual. -->
 
 ### Explicacion Pedagogica
 Aplicación de ecuaciones al cálculo de interés simple.
@@ -345,9 +345,9 @@ Aplicación de ecuaciones al cálculo de interés simple.
 
 ### Opciones
 - [ ] A) Intercepto eje Y. <!-- feedback: Incorrecto. Es (0, -6). -->
-- [x] B) Intercepto eje X. <!-- feedback: Correcto. Donde la recta corta la horizontal. -->
-- [ ] C) Pendiente. <!-- feedback: Incorrecto. Es 3. -->
-- [ ] D) Punto aleatorio. <!-- feedback: Incorrecto. Valor específico. -->
+- [x] D) Intercepto eje X. <!-- feedback: Correcto. Donde la recta corta la horizontal. -->
+- [ ] B) Pendiente. <!-- feedback: Incorrecto. Es 3. -->
+- [ ] C) Punto aleatorio. <!-- feedback: Incorrecto. Valor específico. -->
 
 ### Explicacion Pedagogica
 Interpretación geométrica de las raíces de una función lineal.
@@ -387,9 +387,9 @@ Generalización del despeje para fórmulas con parámetros variables.
 
 ### Opciones
 - [ ] A) RD\$ 400 <!-- feedback: Incorrecto. Suma menor a 3000. -->
-- [x] B) RD\$ 500 <!-- feedback: Correcto. $5x + 500 = 3000 \implies x=500$. -->
-- [ ] C) RD\$ 600 <!-- feedback: Incorrecto. Excede total. -->
-- [ ] D) RD\$ 250 <!-- feedback: Incorrecto. Insuficiente. -->
+- [x] D) RD\$ 500 <!-- feedback: Correcto. $5x + 500 = 3000 \implies x=500$. -->
+- [ ] B) RD\$ 600 <!-- feedback: Incorrecto. Excede total. -->
+- [ ] C) RD\$ 250 <!-- feedback: Incorrecto. Insuficiente. -->
 
 ### Explicacion Pedagogica
 Modelación de problemas de reparto con múltiples condiciones vinculadas.

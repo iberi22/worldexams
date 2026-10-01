@@ -56,11 +56,11 @@ La Constitución de 1992 consagró de manera definitiva el Estado social de dere
 ¿Qué restricción tajante e inflexible impone el artículo 229 de la Constitución de 1992 a la figura del Presidente de la República, buscando prevenir de forma histórica cualquier continuismo autoritario o personalista?
 
 ### Opciones
-- [x] A) Prohíbe de forma absoluta e irrevocable la reelección presidencial en cualquiera de sus formas
+- [x] C) Prohíbe de forma absoluta e irrevocable la reelección presidencial en cualquiera de sus formas
   <!-- feedback: Correcto. El artículo 229 de la Constitución de 1992 prohíbe de forma tajante e irreversible la reelección de los presidentes, impidiéndoles postularse de nuevo, incluso de forma alterna o sucesiva. -->
-- [ ] B) Prohíbe que el presidente hable en el idioma oficial guaraní nativo paraguayo
+- [ ] A) Prohíbe que el presidente hable en el idioma oficial guaraní nativo paraguayo
   <!-- feedback: Incorrecto. La Constitución de 1992 eleva al guaraní al rango co-oficial de igual a igual junto al castellano, promoviendo de forma cívica el bilingüismo coordinado. -->
-- [ ] C) Obliga a que el presidente sea designado de por vida por el papa de Roma
+- [ ] B) Obliga a que el presidente sea designado de por vida por el papa de Roma
   <!-- feedback: Incorrecto. El Paraguay democrático es un Estado laico, sin sumisiones confesionales directas en la designación electoral del ejecutivo nacional paraguayo. -->
 - [ ] D) Prohíbe que el presidente resida en la ciudad capital de Asunción
   <!-- feedback: Incorrecto. El presidente reside y opera constitucionalmente en Asunción, asiento del palacio de López y de las oficinas de administración civil central. -->
@@ -79,9 +79,9 @@ La prohibición absoluta de la reelección en la carta magna de 1992 fue una res
 Bajo la Constitución de 1992, ¿qué cargo ejecutivo departamental clave pasó a ser electo directamente por el sufragio popular ciudadano de cada departamento, consolidando la descentralización del Estado?
 
 ### Opciones
-- [x] A) El Gobernador departamental
+- [x] B) El Gobernador departamental
   <!-- feedback: Correcto. La creación del cargo de Gobernador departamental electo democratizó la administración del interior del país, superando el centralismo de los delegados de gobierno militares de la dictadura. -->
-- [ ] B) El cónsul supremo vitalicio de Itapúa
+- [ ] A) El cónsul supremo vitalicio de Itapúa
   <!-- feedback: Incorrecto. El Consulado dual consular pertenecía al siglo XIX de la independencia, sin roles gubernamentales contemporáneos descentralizados del país. -->
 - [ ] C) El obispo de la catedral mariana de Caacupé
   <!-- feedback: Incorrecto. Las autoridades eclesiásticas católicas se regulan por pautas canónicas de la Iglesia, independientes del sufragio de elecciones populares civiles del Estado. -->
@@ -102,11 +102,11 @@ La descentralización de 1992 dividió administrativamente al país en 17 depart
 ¿Qué histórica conquista lingüística consagró el artículo 140 de la Constitución de 1992 para la lengua guaraní nacional paraguaya?
 
 ### Opciones
-- [x] A) Declaró al guaraní como idioma oficial en igualdad de condiciones con el castellano, obligando al Estado a promover su enseñanza y uso administrativo
+- [x] C) Declaró al guaraní como idioma oficial en igualdad de condiciones con el castellano, obligando al Estado a promover su enseñanza y uso administrativo
   <!-- feedback: Correcto. El guaraní dejó de ser meramente 'idioma nacional' subordinado para adquirir el rango co-oficial de igual de rango, promoviéndose de forma cívica su estandarización y alfabetización formal. -->
-- [ ] B) Prohibió de por vida el uso del idioma castellano dentro de las oficinas del Estado
+- [ ] A) Prohibió de por vida el uso del idioma castellano dentro de las oficinas del Estado
   <!-- feedback: Incorrecto. La Constitución de 1992 adopta de forma coordinada el bilingüismo, respetando y tutelando el uso escrito y oral de ambas lenguas nacionales oficiales. -->
-- [ ] C) Estableció de forma obligatoria el dialecto alemán menonita plautdietsch en todas las escuelas de Boquerón
+- [ ] B) Estableció de forma obligatoria el dialecto alemán menonita plautdietsch en todas las escuelas de Boquerón
   <!-- feedback: Incorrecto. Aunque respeta la diversidad cultural de las minorías inmigrantes, las lenguas oficiales soberanas paraguayas son el castellano y el guaraní. -->
 - [ ] D) Declaró que el guaraní es una lengua originaria de Asia que debe enseñarse en caracteres chinos
   <!-- feedback: Incorrecto. El guaraní es una lengua nativa autóctona americana de gran arraigo neotropical paraguayo, escrita mediante su propio alfabeto fonético de base latina. -->
@@ -148,11 +148,11 @@ El Marzo Paraguayo de 1999 costó la vida de ocho jóvenes manifestantes asesina
 ¿Qué histórico acuerdo subcontinental, firmado en Asunción el 26 de marzo de 1991, fundó el Mercado Común del Sur (Mercosur) vinculando de forma irreversible al Paraguay con las economías de la región?
 
 ### Opciones
-- [x] A) El Tratado de Asunción de 1991
+- [x] C) El Tratado de Asunción de 1991
   <!-- feedback: Correcto. El Tratado de Asunción de 1991 sentó las bases del Mercosur, integrando económicamente de forma comercial al Paraguay, Argentina, Brasil y Uruguay. -->
-- [ ] B) El Tratado de la Triple Alianza de 1865
+- [ ] A) El Tratado de la Triple Alianza de 1865
   <!-- feedback: Incorrecto. Fue un pacto de agresión militar secreta tripartita de ocupación e intervención contra el país, opuesto a tratados integradores de comercio pacífico modernos. -->
-- [ ] C) El Tratado de Paz, Amistad y Límites de 1938 de Buenos Aires
+- [ ] B) El Tratado de Paz, Amistad y Límites de 1938 de Buenos Aires
   <!-- feedback: Incorrecto. Resolvió las fronteras chaqueñas con Bolivia de forma de arbitraje diplomático pacífico tras finalizar la cruenta contienda armada. -->
 - [ ] D) La enmienda constitucional stronista para permitir la reelección indefinida de 1977
   <!-- feedback: Incorrecto. Alude a una reforma jurídica autoritaria de perpetuación de la dictadura stronista, ajena a tratados regionales comerciales externos. -->
@@ -194,11 +194,11 @@ La destitución de Lugo en 2012, tras la tragedia de Curuguaty, fue interpretada
 ¿Qué órgano de rango constitucional independiente fue creado en el marco de la transición democrática para regular de forma transparente las elecciones partidarias, departamentales y presidenciales del país?
 
 ### Opciones
-- [x] A) El Tribunal Superior de Justicia Electoral (TSJE)
+- [x] C) El Tribunal Superior de Justicia Electoral (TSJE)
   <!-- feedback: Correcto. El TSJE es la máxima institución electoral paraguaya creada en la transición para garantizar la transparencia de los comicios electorales cívicos. -->
-- [ ] B) El Ministerio del Ambiente y Desarrollo Sostenible (MADES)
+- [ ] A) El Ministerio del Ambiente y Desarrollo Sostenible (MADES)
   <!-- feedback: Incorrecto. El MADES es la secretaría del ejecutivo nacional que regula la política forestal y ambiental, sin injerencia en comicios de partidos políticos. -->
-- [ ] C) La junta superior de gobernadores jesuitas de Itapúa
+- [ ] B) La junta superior de gobernadores jesuitas de Itapúa
   <!-- feedback: Incorrecto. Las misiones de la orden jesuita pertenecen al devenir histórico del pasado de siglos anteriores, ajenas a comicios electorales del siglo XXI paraguayo. -->
 - [ ] D) La corte de arbitraje comercial británica de la reina de Inglaterra
   <!-- feedback: Incorrecto. El Paraguay rige de manera autónoma y soberana sus procesos de justicia electoral a través de sus propias cortes de la administración pública de Asunción. -->
@@ -217,9 +217,9 @@ El TSJE garantizó la legitimidad de las alternancias partidarias de la transici
 ¿Qué histórica y valorada ley de acceso a la información pública y transparencia gubernamental (Ley N° 5282) fue promulgada en el año 2014 bajo la presión de la ciudadanía activa paraguaya?
 
 ### Opciones
-- [x] A) La ley de libre acceso ciudadano a la información pública y transparencia gubernamental
+- [x] B) La ley de libre acceso ciudadano a la información pública y transparencia gubernamental
   <!-- feedback: Correcto. Esta ley democratizó de forma histórica el acceso a salarios públicos de funcionarios, contratos y gastos fiscales, permitiendo un eficaz control y periodismo de investigación civil contra la corrupción. -->
-- [ ] B) La ley de venta masiva de tierras públicas y bosques orientales
+- [ ] A) La ley de venta masiva de tierras públicas y bosques orientales
   <!-- feedback: Incorrecto. Fue el marco mercantilista decimonónico colorado que liquidó tierras del Estado paraguayo en la posguerra del siglo XIX. -->
 - [ ] C) El reglamento consular de la dictadura perpetua del Dr. Francia de 1813
   <!-- feedback: Incorrecto. Corresponde al marco fundacional e independiente decimonónico transitorio consular, sin alcances sobre trámites digitales contemporáneos de transparencia. -->
@@ -240,9 +240,9 @@ La Ley 5282/14 representó un parteaguas de la transparencia, empoderando a la c
 ¿Qué valioso avance de rango constitucional consagra el Capítulo V de la Constitución de 1992 respecto a las comunidades indígenas del Paraguay y sus derechos colectivos?
 
 ### Opciones
-- [x] A) Reconoce de forma oficial la existencia de los pueblos indígenas como grupos de culturas anteriores al Estado, garantizándoles el derecho a la propiedad comunitaria de sus tierras y a conservar su propia organización social
+- [x] B) Reconoce de forma oficial la existencia de los pueblos indígenas como grupos de culturas anteriores al Estado, garantizándoles el derecho a la propiedad comunitaria de sus tierras y a conservar su propia organización social
   <!-- feedback: Correcto. El artículo 62 y siguientes consagra por vez primera en la historia del país los derechos indígenas colectivos fundamentales de tierra ancestral y preservación cultural de sus lenguas nativas. -->
-- [ ] B) La obligación de que todos los indígenas chaqueños se muden de por vida a los bañados de Asunción
+- [ ] A) La obligación de que todos los indígenas chaqueños se muden de por vida a los bañados de Asunción
   <!-- feedback: Incorrecto. No existe ninguna medida de traslado forzado; al contrario, la ley garantiza el derecho a permanecer en sus hábitats nativos ancestrales libres de agresiones. -->
 - [ ] C) La supresión absoluta de sus idiomas originarios para asimilarlos de forma forzosa al idioma inglés
   <!-- feedback: Incorrecto. Se tutela de forma activa su derecho a la alfabetización escolar bilingüe y multilingüe en sus lenguas de origen americanas vernáculas. -->
@@ -263,13 +263,13 @@ A pesar de la consagración constitucional, la restitución efectiva de tierras 
 La grave crisis política de marzo de 2017 en Asunción, que derivó en la quema de una porción de la sede del Congreso Nacional por manifestantes civiles contrarios a la enmienda de reelección promovida por el oficialismo, representó institucionalmente para el país:
 
 ### Opciones
-- [x] A) La férrea defensa cívica y social de la alternancia y el respeto a la Constitución de 1992, que prohíbe tajantemente la reelección, abortando el proyecto que intentaba habilitar de nuevo al ejecutivo nacional
+- [x] D) La férrea defensa cívica y social de la alternancia y el respeto a la Constitución de 1992, que prohíbe tajantemente la reelección, abortando el proyecto que intentaba habilitar de nuevo al ejecutivo nacional
   <!-- feedback: Correcto. Las masivas protestas civiles ciudadanas (31 de marzo de 2017) detuvieron la enmienda que buscaba sortear la prohibición de reelección de la carta magna, ratificando el espíritu democrático del país contra continuismos. -->
-- [ ] B) La anexión pacífica de la totalidad de la Región Oriental al territorio de los Estados Unidos
+- [ ] A) La anexión pacífica de la totalidad de la Región Oriental al territorio de los Estados Unidos
   <!-- feedback: Incorrecto. No existieron propuestas de uniones federales de anexión; la movilización civil asuncena defendió el Estado de derecho e independencia republicana paraguaya de forma soberana. -->
-- [ ] C) La reinstauración de la mita y las encomiendas españolas en beneficio de la corona portuguesa de Brasil
+- [ ] B) La reinstauración de la mita y las encomiendas españolas en beneficio de la corona portuguesa de Brasil
   <!-- feedback: Incorrecto. Alude al régimen de la era colonial abolido del pasado de siglos anteriores, ajeno a crisis constitucionales urbanas contemporáneas de 2017. -->
-- [ ] D) La prohibición gubernamental de usar teléfonos celulares para comunicarse en idioma guaraní
+- [ ] C) La prohibición gubernamental de usar teléfonos celulares para comunicarse en idioma guaraní
   <!-- feedback: Incorrecto. Planteamiento fantasioso desprovisto de veracidad o asidero documental en las causas reales de la crisis política de la enmienda de 2017. -->
 
 ### Explicacion Pedagogica
@@ -286,11 +286,11 @@ La crisis de la enmienda de 2017 puso de manifiesto que el rechazo a la reelecci
 ¿Qué órgano de rango constitucional colegiado e independiente fue creado en 1832 para proponer de forma democrática las ternas de designación de jueces y fiscales al Poder Judicial, superando las injerencias discrecionales del ejecutivo?
 
 ### Opciones
-- [x] A) El Consejo de la Magistratura (y el Jurado de Enjuiciamiento de Magistrados)
+- [x] C) El Consejo de la Magistratura (y el Jurado de Enjuiciamiento de Magistrados)
   <!-- feedback: Correcto. El Consejo de la Magistratura (creado formalmente por la Constitución de 1992) se encarga de seleccionar las ternas de magistrados bajo pautas cívicas y académicas transparentes para depurar la justicia nacional paraguaya. -->
-- [ ] B) El Ministerio del Ambiente y Desarrollo Sostenible (MADES)
+- [ ] A) El Ministerio del Ambiente y Desarrollo Sostenible (MADES)
   <!-- feedback: Incorrecto. Es la secretaría gubernamental encargada de vigilar la política de biodiversidad forestal y medio ambiente, sin injerencias en selección de magistrados judiciales. -->
-- [ ] C) El cabildo secular de Asunción de origen monárquico español
+- [ ] B) El cabildo secular de Asunción de origen monárquico español
   <!-- feedback: Incorrecto. Alude a una institución de administración de justicia colonial abolida del siglo XIX, ajena al andamiaje de división de poderes contemporáneo democrático paraguayo. -->
 - [ ] D) La asamblea de caciques guaraníes de las misiones jesuitas
   <!-- feedback: Incorrecto. Las misiones históricas jesuíticas de la orden pertenecen al pasado de siglos anteriores y carecen de roles en la estructuración de la magistratura judicial del siglo XXI. -->
@@ -309,11 +309,11 @@ El Consejo de la Magistratura busca profesionalizar e independizar al Poder Judi
 Desde el punto de vista macroeconómico y aduanero, ¿cuál es la mayor asimetría e inconformidad que Paraguay plantea frecuentemente a sus socios de mayor peso (Brasil y Argentina) en el seno del Mercosur?
 
 ### Opciones
-- [x] A) Las persistentes barreras no arancelarias que aplican a las exportaciones paraguayas, sumadas a las dificultades de libre tránsito fluvial y trabas aduaneras fronterizas que encarecen el transporte comercial
+- [x] C) Las persistentes barreras no arancelarias que aplican a las exportaciones paraguayas, sumadas a las dificultades de libre tránsito fluvial y trabas aduaneras fronterizas que encarecen el transporte comercial
   <!-- feedback: Correcto. Al ser un país mediterráneo de menor peso, Paraguay reclama de manera recurrente por las trabas burocráticas que aplican Brasil y Argentina sobre sus manufacturas de exportación, demorando el comercio regional libre. -->
-- [ ] B) La exigencia de Brasil de que la totalidad de los paraguayos hablen únicamente en idioma portugués de por vida
+- [ ] A) La exigencia de Brasil de que la totalidad de los paraguayos hablen únicamente en idioma portugués de por vida
   <!-- feedback: Incorrecto. El bilingüismo paraguayo castellano-guaraní se respeta de forma plena por los socios, el diferendo es puramente aduanero y de logística comercial de flete. -->
-- [ ] C) La donación gratuita de todas las centrales hidroeléctricas a consorcios de telecomunicaciones de Asia
+- [ ] B) La donación gratuita de todas las centrales hidroeléctricas a consorcios de telecomunicaciones de Asia
   <!-- feedback: Incorrecto. Paraguay y sus socios gestionan de manera soberana y binacional sus recursos hidroenergéticos, sin donaciones unilaterales forzadas. -->
 - [ ] D) La prohibición gubernamental de usar barcos de carga para el comercio fluvial
   <!-- feedback: Incorrecto. El comercio fluvial a través de la hidrovía es vital para el país, y Paraguay promueve de manera constante la libre navegación fluvial sin restricciones aduaneras. -->
@@ -332,11 +332,11 @@ Las disputas por asimetrías comerciales en el Mercosur constituyen un tema perm
 ¿Qué trascendencia institucional y educativa deparó la promulgación de la Ley de Lenguas N° 4251 en el Paraguay del siglo XXI?
 
 ### Opciones
-- [x] A) Creó la Academia de la Lengua Guaraní y la Secretaría de Políticas Lingüísticas, regulando los derechos lingüísticos de los ciudadanos y garantizando el uso bilingüe equitativo de los servicios del Estado
+- [x] C) Creó la Academia de la Lengua Guaraní y la Secretaría de Políticas Lingüísticas, regulando los derechos lingüísticos de los ciudadanos y garantizando el uso bilingüe equitativo de los servicios del Estado
   <!-- feedback: Correcto. La Ley de Lenguas del año 2010 reglamentó el mandato constitucional de 1992, proveyendo un marco legal de amparo técnico institucional para estandarizar la lectoescritura escolar formal escrita del guaraní paraguayo. -->
-- [ ] B) Decretó la prohibición definitiva de enseñar castellano en todas las escuelas secundarias del país
+- [ ] A) Decretó la prohibición definitiva de enseñar castellano en todas las escuelas secundarias del país
   <!-- feedback: Incorrecto. La ley alienta la educación bilingüe coordinada e integral, garantizando el dominio equitativo escrito y oral de castellano y guaraní paraguayos. -->
-- [ ] C) Estableció de forma exclusiva el uso social oral del idioma inglés en todos los hogares campesinos
+- [ ] B) Estableció de forma exclusiva el uso social oral del idioma inglés en todos los hogares campesinos
   <!-- feedback: Incorrecto. Las lenguas de uso social diario mayoritarias y protegidas por ley en el campo paraguayo son el guaraní y el castellano, sin imposiciones inglesas forzadas. -->
 - [ ] D) La entrega gratuita del alfabeto guaraní a consorcios de telecomunicaciones de otros continentes
   <!-- feedback: Incorrecto. El alfabeto guaraní (achegety) es patrimonio cívico y cultural nacional de la República del Paraguay, administrado bajo su propia academia de la lengua. -->
@@ -378,13 +378,13 @@ El dilema sojero de exportación en Paraguay revela las agudas asimetrías de un
 ¿Qué gran movimiento y protesta estudiantil cívica pacífica de estudiantes secundarios de colegios públicos y privados en el año 2015, conocido como la 'Primavera Estudiantil' o 'UNA no te calles', forzó reformas en el Ministerio de Educación?
 
 ### Opciones
-- [x] A) Las históricas movilizaciones estudiantiles universitarias y secundarias ('UNA no te calles') que exigieron la renuncia de rectores acusados de corrupción y una profunda reforma educativa
+- [x] D) Las históricas movilizaciones estudiantiles universitarias y secundarias ('UNA no te calles') que exigieron la renuncia de rectores acusados de corrupción y una profunda reforma educativa
   <!-- feedback: Correcto. El vigor juvenil y el clamor de estudiantes de la UNA y de escuelas secundarias en 2015 forzaron la intervención de facultades y renuncias de altos funcionarios, demandando transparencia fiscal y calidad educativa democrática. -->
-- [ ] B) El movimiento febrerista militar de Rafael Franco de 1936 de las trincheras del Chaco
+- [ ] A) El movimiento febrerista militar de Rafael Franco de 1936 de las trincheras del Chaco
   <!-- feedback: Incorrecto. Corresponde al movimiento corporativista militar posbélico del siglo XX que derrocó al partido liberal, décadas antes de la primavera estudiantil de 2015. -->
-- [ ] C) El golpe de Estado militar del general Andrés Rodríguez de febrero de 1989
+- [ ] B) El golpe de Estado militar del general Andrés Rodríguez de febrero de 1989
   <!-- feedback: Incorrecto. Relevó de forma de facto a Stroessner clausurando los 35 años de dictadura stronista de forma incruenta en un momento diferente de apertura democrática. -->
-- [ ] D) La procesión mariana de Caacupé con carruajes tirados por elefantes asiáticos
+- [ ] C) La procesión mariana de Caacupé con carruajes tirados por elefantes asiáticos
   <!-- feedback: Incorrecto. Escenario irreal y satírico desprovisto de veracidad o rigor analítico sobre movimientos estudiantiles cívicos paraguayos. -->
 
 ### Explicacion Pedagogica
@@ -401,9 +401,9 @@ Las protestas estudiantiles universitarias de 'UNA no te calles' de 2015 sacudie
 Al evaluar de manera integral los logros y deudas sociales de la democracia en el Paraguay contemporáneo (1989 en adelante), ¿cuál de las siguientes valoraciones posee mayor rigurosidad analítica?
 
 ### Opciones
-- [x] A) Se consolidó el respeto de libertades civiles, elecciones transparentes regulares y el pluralismo político, pero persiste la debilidad institucional judicial, la impunidad ante hechos de corrupción pública y una profunda desigualdad social agraria campesina
+- [x] B) Se consolidó el respeto de libertades civiles, elecciones transparentes regulares y el pluralismo político, pero persiste la debilidad institucional judicial, la impunidad ante hechos de corrupción pública y una profunda desigualdad social agraria campesina
   <!-- feedback: Correcto. El Paraguay democrático del siglo XXI deparó amplios canales de participación cívica y prensa libre, pero tropieza de forma severa con la falta de reformas distributivas de tierras, debilidad institucional y nepotismo partidario. -->
-- [ ] B) Se restauró de forma pacífica y voluntaria la dictadura del Gral. Alfredo Stroessner con carácter vitalicio hereditario
+- [ ] A) Se restauró de forma pacífica y voluntaria la dictadura del Gral. Alfredo Stroessner con carácter vitalicio hereditario
   <!-- feedback: Incorrecto. La Constitución de 1992 prohíbe de forma tajante e inflexible cualquier tipo de reelección o continuismos, consolidándose la transición democrática plural. -->
 - [ ] C) Se logró la industrialización militar aeroespacial del Chaco paraguayo mediante reactores nucleares británicos
   <!-- feedback: Incorrecto. Es un planteamiento anacrónico, fantasioso e insostenible alejado del precaria y agraria economía paraguaya del siglo XXI democrático. -->
@@ -424,11 +424,11 @@ La joven democracia paraguaya descolla por su estabilidad cívica, el resguardo 
 Al juzgar las demandas de soberanía energética y renegociación del Anexo C del Tratado de Itaipú de 1973 con el Brasil, ¿cuál es el mayor beneficio de desarrollo nacional sustentable para el Paraguay?
 
 ### Opciones
-- [x] A) Lograr la justa compensación comercial de tarifas del excedente energético, la libre disponibilidad para exportar a terceros mercados regionales y destinar ingresos para invertir en infraestructura de salud, educación y red de transmisión interna
+- [x] C) Lograr la justa compensación comercial de tarifas del excedente energético, la libre disponibilidad para exportar a terceros mercados regionales y destinar ingresos para invertir en infraestructura de salud, educación y red de transmisión interna
   <!-- feedback: Correcto. Lograr un precio equitativo de mercado de la energía sobrante deparará cuantiosos ingresos fiscales, permitiendo al Paraguay financiar de forma autónoma su postergado desarrollo industrial y de salud pública en la democracia del siglo XXI. -->
-- [ ] B) Exportar de forma gratuita la totalidad de la energía hidroeléctrica a cambio de reactores nucleares británicos
+- [ ] A) Exportar de forma gratuita la totalidad de la energía hidroeléctrica a cambio de reactores nucleares británicos
   <!-- feedback: Incorrecto. Paraguay requiere usar su propia electricidad limpia para industrializarse, no exportarla de forma gratuita ni someterse a deudas o reactores nucleares lejanos. -->
-- [ ] C) Decretar la demolición de la represa de Itaipú para volver a un sistema de recolección de leña de la selva nativa
+- [ ] B) Decretar la demolición de la represa de Itaipú para volver a un sistema de recolección de leña de la selva nativa
   <!-- feedback: Incorrecto. La represa es una colosal e indispensable infraestructura de generación energética limpia que sostiene el suministro de electricidad nacional de forma física constante. -->
 - [ ] D) Prohibir de forma absoluta el uso de electrodomésticos para donar la energía a consorcios de otros continentes
   <!-- feedback: Incorrecto. El desarrollo sustentable busca elevar los niveles de bienestar familiar doméstico de la población local, sin prohibiciones absurdas de consumo eléctrico. -->
@@ -447,13 +447,13 @@ La negociación soberana y justa de las bases de Itaipú constituye el mayor ret
 Al evaluar críticamente las agudas tensiones políticas y de tenencia de la tierra que desataron la masacre de Curuguaty de junio de 2012 (confrontación armada entre policías y campesinos ocupantes que costó 17 vidas), ¿cuál de las siguientes conclusiones posee rigor analítico?
 
 ### Opciones
-- [x] A) Reveló de forma trágica la debilidad del Estado de derecho regulador de disputas de tierras fiscales, la persistencia de la precarización agraria campesina familiar tradicional y fue utilizada políticamente como detonante veloz para destituir al presidente Fernando Lugo mediante Juicio Político
+- [x] D) Reveló de forma trágica la debilidad del Estado de derecho regulador de disputas de tierras fiscales, la persistencia de la precarización agraria campesina familiar tradicional y fue utilizada políticamente como detonante veloz para destituir al presidente Fernando Lugo mediante Juicio Político
   <!-- feedback: Correcto. El enfrentamiento de Curuguaty (tierras en disputa de Marina Cue) catalizó el descontento de la mayoría parlamentaria tradicional con Lugo, precipitándole un expeditivo proceso de destitución en menos de 48 horas de trámite parlamentario. -->
-- [ ] B) Fue resuelta por la llegada de tropas de marina de guerra de los Estados Unidos de América para gobernar el este
+- [ ] A) Fue resuelta por la llegada de tropas de marina de guerra de los Estados Unidos de América para gobernar el este
   <!-- feedback: Incorrecto. No existieron intervenciones de tropas navales o de fuerzas de seguridad estadounidenses; la crisis fue estrictamente institucional de derecho interno paraguayo asunceno. -->
-- [ ] C) Consistió en combates con armas nucleares secretas importadas de las colonias menonitas de Boquerón
+- [ ] B) Consistió en combates con armas nucleares secretas importadas de las colonias menonitas de Boquerón
   <!-- feedback: Incorrecto. Planteamiento de ficción desprovisto de veracidad o asidero científico de guerra; los enfrentamientos se libraron con fusiles convencionales y sables de forma terrestre militar. -->
-- [ ] D) La prohibición papal de sancionar judicialmente a los grandes terratenientes que hablaran en idioma guaraní
+- [ ] C) La prohibición papal de sancionar judicialmente a los grandes terratenientes que hablaran en idioma guaraní
   <!-- feedback: Incorrecto. El proceso penal judicial de Curuguaty se procesó bajo las cortes de la administración pública de Asunción de conformidad ordinaria legal de posguerra paraguaya. -->
 
 ### Explicacion Pedagogica
@@ -470,11 +470,11 @@ La masacre de Curuguaty de 2012 condensó la persistencia trágica del conflicto
 Al evaluar globalmente el vigor y la resiliencia del Estado social de derecho consagrado por la Constitución de 1992, ¿cuál de las siguientes afirmaciones posee mayor sustento socio-histórico en la transición contemporánea?
 
 ### Opciones
-- [x] A) La alternancia política de 2008 (triunfo de Lugo rompiendo 61 años de hegemonía colorada), el activismo juvenil de control público y la resistencia cívica contra la enmienda de 2017 ratifican que el consenso democrático republicano paraguayo y el respeto a la soberanía popular se han consolidado firmemente
+- [x] C) La alternancia política de 2008 (triunfo de Lugo rompiendo 61 años de hegemonía colorada), el activismo juvenil de control público y la resistencia cívica contra la enmienda de 2017 ratifican que el consenso democrático republicano paraguayo y el respeto a la soberanía popular se han consolidado firmemente
   <!-- feedback: Correcto. A pesar de los agudos diferendos de gobernabilidad de la posguerra stronista, el pueblo paraguayo y la juventud han dado sobradas muestras de fervor patriótico cívico, defendiendo las garantías constitucionales de libertades democráticas y la alternancia soberana en las urnas electorales. -->
-- [ ] B) El Paraguay democrático ha acordado de forma pacífica disolver la totalidad de sus instituciones civiles para someterse a la corona del Imperio del Brasil
+- [ ] A) El Paraguay democrático ha acordado de forma pacífica disolver la totalidad de sus instituciones civiles para someterse a la corona del Imperio del Brasil
   <!-- feedback: Incorrecto. Paraguay resguarda con patriotismo su estatus republicano e independencia soberana, manteniendo una inserción de igual a igual en la diplomacia internacional regional. -->
-- [ ] C) La entrega definitiva de la central binacional de Yacyretá a consorcios de telecomunicaciones de otros continentes
+- [ ] B) La entrega definitiva de la central binacional de Yacyretá a consorcios de telecomunicaciones de otros continentes
   <!-- feedback: Incorrecto. No existen tales transferencias de activos o cesiones del patrimonio estatal hídrico, manteniéndose bajo administración y control binacional con Argentina. -->
 - [ ] D) La supresión absoluta del bilingüismo paraguayo bilingüe, prohibiéndose de por vida hablar guaraní o jopará
   <!-- feedback: Incorrecto. Al contrario, la Constitución de 1992 elevó de forma extraordinaria el rango co-oficial de la lengua nacional materna guaraní, constituyendo el mayor orgullo y seña identitaria del pueblo mestizo paraguayo contemporáneo. -->

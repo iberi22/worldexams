@@ -58,9 +58,9 @@ La noticia es el género periodístico básico cuya intención es informar al p�
 
 ### Opciones
 - [ ] A) Dar todos los detalles minuciosos del evento. <!-- feedback: Incorrecto. Los detalles van en el cuerpo de la noticia. -->
-- [x] B) Captar la atención del lector y resumir el hecho principal en pocas palabras. <!-- feedback: Correcto. El titular es la parte más visible y debe ser impactante y conciso. -->
-- [ ] C) Servir como espacio para poner la publicidad del periódico. <!-- feedback: Incorrecto. El titular es parte del contenido informativo. -->
-- [ ] D) Indicar el nombre del periodista que escribió la nota. <!-- feedback: Incorrecto. El nombre del periodista suele ir en la firma o "byline". -->
+- [x] D) Captar la atención del lector y resumir el hecho principal en pocas palabras. <!-- feedback: Correcto. El titular es la parte más visible y debe ser impactante y conciso. -->
+- [ ] B) Servir como espacio para poner la publicidad del periódico. <!-- feedback: Incorrecto. El titular es parte del contenido informativo. -->
+- [ ] C) Indicar el nombre del periodista que escribió la nota. <!-- feedback: Incorrecto. El nombre del periodista suele ir en la firma o "byline". -->
 
 ### Explicacion Pedagogica
 El titular es el encabezado de la noticia. Su diseño busca jerarquizar la información más importante para que el lector decida si profundizar en la lectura.
@@ -79,8 +79,8 @@ El titular es el encabezado de la noticia. Su diseño busca jerarquizar la infor
 
 ### Opciones
 - [ ] A) Un poema dedicado a los músicos participantes. <!-- feedback: Incorrecto. No corresponde al género periodístico informativo. -->
-- [x] B) Las respuestas a las preguntas básicas: ¿qué?, ¿quién?, ¿cuándo?, ¿dónde? y ¿por qué? <!-- feedback: Correcto. El primer párrafo debe condensar los datos esenciales del suceso. -->
-- [ ] C) Una lista de todas las personas que ayudaron a limpiar el salón después del evento. <!-- feedback: Incorrecto. Esa información es secundaria y no va en la entradilla. -->
+- [x] C) Las respuestas a las preguntas básicas: ¿qué?, ¿quién?, ¿cuándo?, ¿dónde? y ¿por qué? <!-- feedback: Correcto. El primer párrafo debe condensar los datos esenciales del suceso. -->
+- [ ] B) Una lista de todas las personas que ayudaron a limpiar el salón después del evento. <!-- feedback: Incorrecto. Esa información es secundaria y no va en la entradilla. -->
 - [ ] D) La opinión personal del rector sobre la música moderna. <!-- feedback: Incorrecto. La noticia debe ser objetiva, no recoger opiniones personales del lead. -->
 
 ### Explicacion Pedagogica
@@ -120,9 +120,9 @@ La pirámide invertida es la técnica clásica del periodismo que prioriza los d
 ¿Cómo se llama la parte de la noticia que se ubica antes del titular y sirve para dar un contexto general al tema?
 
 ### Opciones
-- [ ] A) El cuerpo de la noticia. <!-- feedback: Incorrecto. El cuerpo va después del titular y el lead. -->
-- [ ] B) El pie de foto. <!-- feedback: Incorrecto. El pie de foto explica una imagen. -->
-- [x] C) El antetítulo o volada. <!-- feedback: Correcto. El antetítulo sitúa geográficamente o temáticamente la noticia antes del gran titular. -->
+- [ ] B) El cuerpo de la noticia. <!-- feedback: Incorrecto. El cuerpo va después del titular y el lead. -->
+- [ ] C) El pie de foto. <!-- feedback: Incorrecto. El pie de foto explica una imagen. -->
+- [x] A) El antetítulo o volada. <!-- feedback: Correcto. El antetítulo sitúa geográficamente o temáticamente la noticia antes del gran titular. -->
 - [ ] D) El cierre o remate. <!-- feedback: Incorrecto. El cierre es la parte final del texto. -->
 
 ### Explicacion Pedagogica
@@ -142,9 +142,9 @@ El antetítulo ayuda a enmarcar la noticia, indicando por ejemplo la sección o 
 
 ### Opciones
 - [ ] A) El calor en Cartagena es hoy verdaderamente insoportable y horrible. <!-- feedback: Incorrecto. Usa adjetivos valorativos ("insoportable", "horrible") que expresan una opinión personal. -->
-- [x] B) El Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM) reportó una temperatura de 34°C. <!-- feedback: Correcto. Presenta datos verificables y cita una fuente oficial sin dar opiniones. -->
-- [ ] C) Yo creo que mañana lloverá porque mis rodillas me duelen mucho. <!-- feedback: Incorrecto. Se basa en una creencia personal, no en hechos comprobables. -->
-- [ ] D) Ojalá el sol deje de brillar tan fuerte para que podamos jugar fútbol. <!-- feedback: Incorrecto. Es un deseo (modo subjuntivo), no una información de un suceso. -->
+- [x] D) El Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM) reportó una temperatura de 34°C. <!-- feedback: Correcto. Presenta datos verificables y cita una fuente oficial sin dar opiniones. -->
+- [ ] B) Yo creo que mañana lloverá porque mis rodillas me duelen mucho. <!-- feedback: Incorrecto. Se basa en una creencia personal, no en hechos comprobables. -->
+- [ ] C) Ojalá el sol deje de brillar tan fuerte para que podamos jugar fútbol. <!-- feedback: Incorrecto. Es un deseo (modo subjuntivo), no una información de un suceso. -->
 
 ### Explicacion Pedagogica
 La objetividad en la noticia se logra mediante el uso de la tercera persona, la ausencia de adjetivos calificativos subjetivos y la referencia a fuentes de información confiables.
@@ -205,9 +205,9 @@ La coherencia externa de la noticia depende de respetar su estructura canónica,
 
 ### Opciones
 - [ ] A) El uso de verbos en tiempo pasado. <!-- feedback: Incorrecto. Ambos pueden hablar de hechos pasados. -->
-- [x] B) La búsqueda de la imparcialidad y la ausencia de juicios de valor del autor. <!-- feedback: Correcto. La noticia se centra en el "qué pasó", mientras que la opinión se centra en el "qué pienso yo sobre lo que pasó". -->
-- [ ] C) La mención de nombres de ciudades colombianas. <!-- feedback: Incorrecto. Ambos tipos de textos pueden mencionar lugares reales. -->
-- [ ] D) El uso de signos de puntuación como el punto y la coma. <!-- feedback: Incorrecto. Todos los textos escritos requieren puntuación. -->
+- [x] D) La búsqueda de la imparcialidad y la ausencia de juicios de valor del autor. <!-- feedback: Correcto. La noticia se centra en el "qué pasó", mientras que la opinión se centra en el "qué pienso yo sobre lo que pasó". -->
+- [ ] B) La mención de nombres de ciudades colombianas. <!-- feedback: Incorrecto. Ambos tipos de textos pueden mencionar lugares reales. -->
+- [ ] C) El uso de signos de puntuación como el punto y la coma. <!-- feedback: Incorrecto. Todos los textos escritos requieren puntuación. -->
 
 ### Explicacion Pedagogica
 La diferencia fundamental entre los géneros informativos y los de opinión radica en la carga subjetiva. La noticia debe esforzarse por ser un espejo fiel de la realidad, sin filtros emocionales del periodista.
@@ -226,8 +226,8 @@ La diferencia fundamental entre los géneros informativos y los de opinión radi
 
 ### Opciones
 - [ ] A) Tiene un titular muy corto y claro. <!-- feedback: Incorrecto. Los buenos titulares suelen ser cortos y claros. -->
-- [ ] B) Cita fuentes oficiales como el Ministerio de Salud o la Alcaldía. <!-- feedback: Incorrecto. Citar fuentes oficiales es señal de veracidad. -->
-- [x] C) Utiliza un lenguaje muy exagerado, no tiene fecha y la fuente de información es desconocida o dudosa. <!-- feedback: Correcto. La falta de rigor, el sensacionalismo extremo y el anonimato son alarmas de desinformación. -->
+- [ ] C) Cita fuentes oficiales como el Ministerio de Salud o la Alcaldía. <!-- feedback: Incorrecto. Citar fuentes oficiales es señal de veracidad. -->
+- [x] B) Utiliza un lenguaje muy exagerado, no tiene fecha y la fuente de información es desconocida o dudosa. <!-- feedback: Correcto. La falta de rigor, el sensacionalismo extremo y el anonimato son alarmas de desinformación. -->
 - [ ] D) Incluye una fotografía real del lugar de los hechos. <!-- feedback: Incorrecto. Las fotos reales suelen apoyar la veracidad (aunque pueden ser manipuladas). -->
 
 ### Explicacion Pedagogica

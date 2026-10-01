@@ -33,13 +33,13 @@ creador: "Jules-Agent"
 ¿Qué cruento conflicto bélico sudamericano libraron el Paraguay y Bolivia entre 1932 y 1935 por la soberanía de una vasta región semiárida?
 
 ### Opciones
-- [x] A) La Guerra del Chaco
+- [x] D) La Guerra del Chaco
   <!-- feedback: Correcto. La Guerra del Chaco (1932-1935) fue librada por Paraguay y Bolivia para definir los límites soberanos del Chaco Boreal. -->
-- [ ] B) La Guerra de la Triple Alianza
+- [ ] A) La Guerra de la Triple Alianza
   <!-- feedback: Incorrecto. Este sangriento conflicto enfrentó al Paraguay contra Argentina, Brasil y Uruguay en el siglo XIX (1864-1870). -->
-- [ ] C) La Guerra del Pacífico
+- [ ] B) La Guerra del Pacífico
   <!-- feedback: Incorrecto. Conflicto que enfrentó a Chile contra la alianza de Perú y Bolivia a fines del siglo XIX por las regiones costeras de salitre. -->
-- [ ] D) La Guerra del Acre
+- [ ] C) La Guerra del Acre
   <!-- feedback: Incorrecto. Combate militar fronterizo librado entre Bolivia y el Brasil por el rico territorio gomero amazónico de la región del Acre. -->
 
 ### Explicacion Pedagogica
@@ -56,13 +56,13 @@ La Guerra del Chaco constituyó la mayor contienda armada sudamericana del siglo
 ¿Qué ilustre conductor militar paraguayo comandó de forma brillante las fuerzas nacionales en el Chaco y fue ascendido póstumamente al rango de Mariscal?
 
 ### Opciones
-- [x] A) El general José Félix Estigarribia
+- [x] D) El general José Félix Estigarribia
   <!-- feedback: Correcto. El Gral. José Félix Estigarribia dirigió con lucidez táctica y operativa la defensa del Chaco, planificando la ofensiva que acorraló al ejército boliviano. -->
-- [ ] B) El mariscal Francisco Solano López
+- [ ] A) El mariscal Francisco Solano López
   <!-- feedback: Incorrecto. Solano López comandó las fuerzas nacionales paraguayas en el siglo XIX durante la Guerra de la Triple Alianza (1864-1870). -->
-- [ ] C) El general Bernardino Caballero
+- [ ] B) El general Bernardino Caballero
   <!-- feedback: Incorrecto. Caballero fue prócer militar de la Triple Alianza y líder reconstructor conservador decimonónico paraguayo de posguerra. -->
-- [ ] D) El coronel Rafael Franco
+- [ ] C) El coronel Rafael Franco
   <!-- feedback: Incorrecto. Rafael Franco fue un destacado jefe militar del Chaco y líder de la Revolución Febrerista del siglo XX (1936), pero no fue el comandante supremo de guerra. -->
 
 ### Explicacion Pedagogica
@@ -79,11 +79,11 @@ José Félix Estigarribia plasmó una brillante estrategia de guerra de movimien
 ¿Qué causa de orden económico internacional, ampliamente discutida por la prensa de la época, motivó la injerencia de corporaciones extranjeras en la Guerra del Chaco?
 
 ### Opciones
-- [x] A) La presunta existencia de ricos yacimientos de petróleo en el subsuelo chaqueño, con el consiguiente enfrentamiento de concesiones de la Standard Oil (apoyando a Bolivia) y la Royal Dutch Shell (asociada al Paraguay)
+- [x] C) La presunta existencia de ricos yacimientos de petróleo en el subsuelo chaqueño, con el consiguiente enfrentamiento de concesiones de la Standard Oil (apoyando a Bolivia) y la Royal Dutch Shell (asociada al Paraguay)
   <!-- feedback: Correcto. Aunque la causa real fue limítrofe y territorial, el conflicto estuvo azuzado por el interés de corporaciones petroleras anglo-estadounidenses de controlar potenciales pozos de hidrocarburos. -->
-- [ ] B) La compra de la totalidad de las misiones jesuíticas por la corona británica de Londres
+- [ ] A) La compra de la totalidad de las misiones jesuíticas por la corona británica de Londres
   <!-- feedback: Incorrecto. Las misiones jesuíticas ya pertenecían al patrimonio histórico nacional paraguayo, sin transacciones madereras inglesas. -->
-- [ ] C) La donación gratuita de toda la llanura del Chaco a los reyes de Portugal a cambio de buques a vapor
+- [ ] B) La donación gratuita de toda la llanura del Chaco a los reyes de Portugal a cambio de buques a vapor
   <!-- feedback: Incorrecto. Es un completo anacronismo e inexactitud jurídica ajena al contexto geopolítico sudamericano del siglo XX. -->
 - [ ] D) La prohibición de circular empleando tractores en los campos de soja de Itapúa
   <!-- feedback: Incorrecto. La mecanización agraria de la soja de Itapúa es un fenómeno socioeconómico muy posterior de la segunda mitad del siglo XX. -->
@@ -102,13 +102,13 @@ La especulación en torno a la riqueza petrolera del Chaco atrajo la atención d
 ¿Qué tratado diplomático internacional definitivo de paz, límites y arbitraje selló la soberanía paraguaya sobre el Chaco Boreal el 21 de julio de 1938?
 
 ### Opciones
-- [x] A) El Tratado de Paz, Amistad y Límites de 1938 firmado en Buenos Aires
+- [x] D) El Tratado de Paz, Amistad y Límites de 1938 firmado en Buenos Aires
   <!-- feedback: Correcto. Este tratado resolvió de forma pacífica y definitiva los límites chaqueños, adjudicando al Paraguay el 75% del territorio en litigio defendido por las armas. -->
-- [ ] B) El Tratado Secreto de la Triple Alianza de 1865
+- [ ] A) El Tratado Secreto de la Triple Alianza de 1865
   <!-- feedback: Incorrecto. El tratado secreto de 1865 dividía al Paraguay entre Argentina y Brasil en el siglo XIX, ajeno a diferendos del Chaco de 1938. -->
-- [ ] C) La Ley de Administración Pública de 1844
+- [ ] B) La Ley de Administración Pública de 1844
   <!-- feedback: Incorrecto. Es el marco constitucional prebélico promulgado bajo Carlos Antonio López, sin relación con litigios fronterizos bolivianos. -->
-- [ ] D) La mediación papal de Juan Pablo II de 1978
+- [ ] C) La mediación papal de Juan Pablo II de 1978
   <!-- feedback: Incorrecto. Resolvió diferendos australes territoriales entre las repúblicas de Argentina y Chile, ajena a la paz del Chaco paraguaya-boliviana. -->
 
 ### Explicacion Pedagogica
@@ -125,13 +125,13 @@ El Tratado de 1838 reconoció los límites defendidos por las armas paraguayas, 
 Aparte del fuego enemigo, ¿cuál fue el factor geográfico y biológico hostil más temido y letal que causó millares de bajas y determinó las tácticas de combate en la llanura del Chaco Seco?
 
 ### Opciones
-- [x] A) La extrema escasez de agua dulce y las temperaturas sofocantes de calor abrasador, que causaban severa deshidratación colectiva e insolación en las tropas
+- [x] D) La extrema escasez de agua dulce y las temperaturas sofocantes de calor abrasador, que causaban severa deshidratación colectiva e insolación en las tropas
   <!-- feedback: Correcto. El Chaco Seco (denominado 'el infierno verde') carecía de agua potable superficial. Encontrar o defender pozos de agua y tajamares resultó decisivo y costó millares de vidas por sed. -->
-- [ ] B) La invasión de icebergs de hielo móviles que congelaban las trincheras de Boquerón
+- [ ] A) La invasión de icebergs de hielo móviles que congelaban las trincheras de Boquerón
   <!-- feedback: Incorrecto. El Chaco es cálido, semiárido y aluvial, donde jamás ocurren nevadas o congelamientos glaciales árticos. -->
-- [ ] C) La presencia de volcanes activos que expulsaban ceniza ácida sobre los fortines
+- [ ] B) La presencia de volcanes activos que expulsaban ceniza ácida sobre los fortines
   <!-- feedback: Incorrecto. El subsuelo chaqueño es estable y llano, carente de manifestaciones volcánicas de ningún tipo. -->
-- [ ] D) El desborde destructivo del océano Atlántico sobre el departamento de Presidente Hayes
+- [ ] C) El desborde destructivo del océano Atlántico sobre el departamento de Presidente Hayes
   <!-- feedback: Incorrecto. Paraguay es enteramente mediterráneo, incomunicado con el océano Atlántico por vía costera marina directa. -->
 
 ### Explicacion Pedagogica
@@ -171,11 +171,11 @@ Los cañoneros blindados 'Paraguay' y 'Humaitá' constituyeron el escudo estrat�
 ¿Cuál fue la trascendencia militar y psicológica del combate y captura victoriosa del fortín boliviano de Boquerón el 29 de septiembre de 1932?
 
 ### Opciones
-- [x] A) Constituyó la primera gran ofensiva paraguaya victoriosa, infundiendo un inmenso fervor y confianza en la capacidad bélica del ejército nacional para vencer a Bolivia
+- [x] C) Constituyó la primera gran ofensiva paraguaya victoriosa, infundiendo un inmenso fervor y confianza en la capacidad bélica del ejército nacional para vencer a Bolivia
   <!-- feedback: Correcto. El triunfo del asedio de Boquerón (29 de septiembre) demostró la cohesión y valentía paraguaya, quebrando la idea de una supuesta superioridad militar boliviana en el Chaco. -->
-- [ ] B) Obligó a la junta de La Paz a ceder pacíficamente la totalidad de las minas de plata andinas bolivianas
+- [ ] A) Obligó a la junta de La Paz a ceder pacíficamente la totalidad de las minas de plata andinas bolivianas
   <!-- feedback: Incorrecto. La guerra continuó de forma encarnizada por tres años más a través de todo el territorio semiárido de la llanura chaqueña continental. -->
-- [ ] C) Culminó con la rendición absoluta del ejército paraguayo y la anexión del Chaco por Bolivia
+- [ ] B) Culminó con la rendición absoluta del ejército paraguayo y la anexión del Chaco por Bolivia
   <!-- feedback: Incorrecto. Al contrario, fue un gran e histórico triunfo defensivo y táctico de las armas de la República del Paraguay dirigidas por el Gral. Estigarribia. -->
 - [ ] D) Provocó que el papa decretara de forma obligatoria el fin de la fe católica en el Cono Sur
   <!-- feedback: Incorrecto. La espiritualidad católica y capellanes militares desempeñaron un papel de consuelo y asistencia humanitaria primordial a las tropas en campaña. -->
@@ -194,11 +194,11 @@ La captura de Boquerón se conmemora como fiesta patriótica nacional, celebrand
 ¿Por qué el idioma guaraní representó una ventaja táctica y de seguridad de comunicaciones insustituible para el ejército paraguayo en el Chaco?
 
 ### Opciones
-- [x] A) Porque servía como código de transmisiones telefónicas y de radio que las fuerzas bolivianas eran incapaces de descifrar o comprender, facilitando directivas rápidas y seguras
+- [x] C) Porque servía como código de transmisiones telefónicas y de radio que las fuerzas bolivianas eran incapaces de descifrar o comprender, facilitando directivas rápidas y seguras
   <!-- feedback: Correcto. El bilingüismo paraguayo actuó como un código criptográfico de comunicaciones naturales espontáneo sumamente eficaz en todo el frente de operaciones de guerra. -->
-- [ ] B) Porque era una lengua impuesta de forma violenta a los soldados paraguayos por asesores militares británicos
+- [ ] A) Porque era una lengua impuesta de forma violenta a los soldados paraguayos por asesores militares británicos
   <!-- feedback: Incorrecto. El guaraní era la lengua materna natural de la inmensa mayoría mestiza de campesinos y oficiales paraguayos de campaña. -->
-- [ ] C) Porque consistía exclusivamente en caracteres impresos chinos indescifrables
+- [ ] B) Porque consistía exclusivamente en caracteres impresos chinos indescifrables
   <!-- feedback: Incorrecto. El guaraní paraguayo es un idioma americano originario aglutinante y nasal, no relacionado con escrituras caligráficas chinas. -->
 - [ ] D) Porque prohibía de forma tajante el uso oral del idioma castellano dentro de las oficinas del Estado
   <!-- feedback: Incorrecto. Ambas lenguas nacionales coexistieron y se articularon legalmente en los despachos presidenciales y comunicaciones formales escritas del ejército. -->
@@ -217,11 +217,11 @@ El uso del guaraní en las comunicaciones de radiotelefonía de trinchera paragu
 ¿Qué fecha de conmemoración patria cívica celebra anualmente la firma del Protocolo de Paz en Buenos Aires que puso fin a las hostilidades chaqueñas en 1935?
 
 ### Opciones
-- [x] A) El 12 de junio (Día de la Paz del Chaco)
+- [x] C) El 12 de junio (Día de la Paz del Chaco)
   <!-- feedback: Correcto. El 12 de junio de 1935 se firmó el Protocolo de Paz que dispuso el cese definitivo del fuego de las armas en el Chaco Boreal, conmemorándose anualmente. -->
-- [ ] B) El 15 de mayo (Día de la Independencia de España)
+- [ ] A) El 15 de mayo (Día de la Independencia de España)
   <!-- feedback: Incorrecto. Es la fecha nacional patria que celebra la emancipación revolucionaria criolla contra la dominación española colonial de 1811. -->
-- [ ] C) El 1 de marzo (Día de los Héroes de la Triple Alianza)
+- [ ] B) El 1 de marzo (Día de los Héroes de la Triple Alianza)
   <!-- feedback: Incorrecto. Recuerda el fallecimiento de Francisco Solano López en Cerro Corá (1870), clausurando la Guerra de la Triple Alianza decimonónica. -->
 - [ ] D) El 29 de septiembre (Día de la victoria de Curupayty)
   <!-- feedback: Incorrecto. El 29 de septiembre celebra la victoria de Boquerón (1932) en el Chaco Seco, mientras que Curupayty se libró el 22 de septiembre de 1866. -->
@@ -263,13 +263,13 @@ La deshidratación forzó a los soldados a consumir lodo de tajamares filtrado d
 Desde el punto de vista logístico y operativo, ¿cuál fue el aporte primordial de los cañoneros paraguayos 'Paraguay' y 'Humaitá' diseñados en preguerra?
 
 ### Opciones
-- [x] A) Sirvieron como transportes fluviales armados blindados de alta velocidad y gran capacidad, movilizando a millares de soldados y pertrechos de Asunción a Puerto Casado en tiempo récord
+- [x] D) Sirvieron como transportes fluviales armados blindados de alta velocidad y gran capacidad, movilizando a millares de soldados y pertrechos de Asunción a Puerto Casado en tiempo récord
   <!-- feedback: Correcto. Transportaron a la inmensa mayoría de la masa de soldados combatientes al Chaco de forma rápida, segura e inalcanzable para la aviación de Bolivia. -->
-- [ ] B) Lanzaron ataques de artillería de largo alcance sobre los puertos marítimos de Bolivia en las costas del océano Pacífico
+- [ ] A) Lanzaron ataques de artillería de largo alcance sobre los puertos marítimos de Bolivia en las costas del océano Pacífico
   <!-- feedback: Incorrecto. Bolivia es enteramente mediterránea de forma geográfica y carecía de puertos en el Pacífico, y los cañoneros operaban en ríos continentales fluviales del Paraguay. -->
-- [ ] C) Fueron vendidos a consorcios petroleros de los Estados Unidos a mitad del combate para saldar deudas externas
+- [ ] B) Fueron vendidos a consorcios petroleros de los Estados Unidos a mitad del combate para saldar deudas externas
   <!-- feedback: Incorrecto. Permanecieron al servicio exclusivo y soberano de la patria paraguaya durante todo el conflicto y la posguerra posterior. -->
-- [ ] D) Provocaron la evaporación física de todo el cauce del río Paraguay por el calor de sus calderas
+- [ ] C) Provocaron la evaporación física de todo el cauce del río Paraguay por el calor de sus calderas
   <!-- feedback: Incorrecto. Planteamiento absurdo e insostenible físicamente ajeno a la valiosa y exitosa logística naval fluvial armada paraguaya. -->
 
 ### Explicacion Pedagogica
@@ -286,11 +286,11 @@ Los cañoneros blindados aseguraron el puente logístico de transporte de Asunci
 ¿Qué denominación táctica recibe el movimiento militar envolvente, empleado exitosamente por Estigarribia en batallas como Campo Vía, consistente en cercar y asfixiar al ejército de Bolivia?
 
 ### Opciones
-- [x] A) La maniobra de cerco o guerra de movimientos (envolvente) de doble ala
+- [x] C) La maniobra de cerco o guerra de movimientos (envolvente) de doble ala
   <!-- feedback: Correcto. Estigarribia rehusó la rígida guerra de posiciones estáticas, prefiriendo la movilidad envolvente que cercaba fortines y divisiones bolivianas privándolas de agua. -->
-- [ ] B) La guerra de posiciones de trincheras al estilo de la Europa medieval feudal
+- [ ] A) La guerra de posiciones de trincheras al estilo de la Europa medieval feudal
   <!-- feedback: Incorrecto. Estigarribia evitó estancarse en trincheras estáticas permanentes debido a la vasta y desierta llanura chaqueña continental dinámica. -->
-- [ ] C) La rendición armada voluntaria cediendo de forma pacífica las aduanas fluviales
+- [ ] B) La rendición armada voluntaria cediendo de forma pacífica las aduanas fluviales
   <!-- feedback: Incorrecto. Paraguay defendió con fiereza intransigente y tácticas audaces de primer orden mundial sus aduanas e integridad soberana. -->
 - [ ] D) La invasión de naves espaciales para lanzar rayos térmicos sobre el fortín Nanawa
   <!-- feedback: Incorrecto. Planteamiento fantasioso y anacrónico ajeno al rigor y heroicidad de las milicias terrestres y aviadores paraguayos del Chaco. -->
@@ -309,13 +309,13 @@ La brillante guerra de movimientos paraguaya compensó la superioridad de recurs
 A pesar de que el ejército paraguayo llegó victorioso hasta las estribaciones andinas en el sur de Bolivia, ¿qué factor diplomático y de arbitraje determinó que la paz de 1938 no adjudicara la totalidad de las tierras conquistadas?
 
 ### Opciones
-- [x] A) La mediación de las potencias neutrales (lideradas por Argentina y EE. UU.) que impusieron un trazado transaccional para evitar un resentimiento perpetuo de Bolivia y garantizar la estabilidad geopolítica del Cono Sur
+- [x] D) La mediación de las potencias neutrales (lideradas por Argentina y EE. UU.) que impusieron un trazado transaccional para evitar un resentimiento perpetuo de Bolivia y garantizar la estabilidad geopolítica del Cono Sur
   <!-- feedback: Correcto. Los mediadores diplomáticos internacionales impusieron límites de transacción de arbitraje para balancear las demandas territoriales y asegurar una paz duradera regional. -->
-- [ ] B) La exigencia de la corona británica de anexar la totalidad del Chaco a su imperio de ultramar
+- [ ] A) La exigencia de la corona británica de anexar la totalidad del Chaco a su imperio de ultramar
   <!-- feedback: Incorrecto. Gran Bretaña no poseía reclamos territoriales o de soberanía sobre el Chaco paraguayo en 1938 de forma oficial de posguerra. -->
-- [ ] C) La disolución pacífica de la República de Bolivia para integrarla de forma voluntaria al Paraguay
+- [ ] B) La disolución pacífica de la República de Bolivia para integrarla de forma voluntaria al Paraguay
   <!-- feedback: Incorrecto. Bolivia preservó su soberanía estatal e integridad territorial, delimitando de común acuerdo y arbitraje diplomático pacífico sus fronteras. -->
-- [ ] D) La prohibición gubernamental de cultivar mandioca y de exportar carne vacuna paraguaya
+- [ ] C) La prohibición gubernamental de cultivar mandioca y de exportar carne vacuna paraguaya
   <!-- feedback: Incorrecto. La economía paraguaya del agro y ganadería continuó consolidándose y exportando de forma activa a los mercados mundiales. -->
 
 ### Explicacion Pedagogica
@@ -378,13 +378,13 @@ Nanawa fue el baluarte del frente sur de operaciones del Chaco, consagrando la a
 Durante el conflicto chaqueño, ¿qué rol desempeñaron de forma cívica y humanitaria los miles de prisioneros de guerra bolivianos albergados en el interior del Paraguay?
 
 ### Opciones
-- [x] A) Fueron empleados bajo convenios humanitarios en obras públicas de infraestructura vial, construcciones civiles (como iglesias y caminos) y respetados en su integridad por la población local
+- [x] D) Fueron empleados bajo convenios humanitarios en obras públicas de infraestructura vial, construcciones civiles (como iglesias y caminos) y respetados en su integridad por la población local
   <!-- feedback: Correcto. Los prisioneros de guerra bolivianos colaboraron de forma valorada en caminos y construcciones viales (como el camino a Paraguarí), recibiendo un trato humanitario digno. -->
-- [ ] B) Fueron obligados a enrolarse de por vida en la marina de guerra japonesa para atacar puertos americanos
+- [ ] A) Fueron obligados a enrolarse de por vida en la marina de guerra japonesa para atacar puertos americanos
   <!-- feedback: Incorrecto. Paraguay observó de forma civilizada el derecho internacional humanitario y de guerra, protegiendo y custodiando a prisioneros en su territorio. -->
-- [ ] C) Fueron empleados en la fabricación masiva de armamento nuclear en la bahía de Asunción
+- [ ] B) Fueron empleados en la fabricación masiva de armamento nuclear en la bahía de Asunción
   <!-- feedback: Incorrecto. No existía tecnología atómica en América del Sur en el siglo XX, y los prisioneros se abocaban a obras civiles tradicionales. -->
-- [ ] D) Fueron obligados a aprender de forma obligatoria el dialecto alemán menonita plautdietsch
+- [ ] C) Fueron obligados a aprender de forma obligatoria el dialecto alemán menonita plautdietsch
   <!-- feedback: Incorrecto. Su estadía de internamiento militar se reguló pacíficamente por los oficiales locales sin imposiciones lingüísticas forzadas germánicas. -->
 
 ### Explicacion Pedagogica
@@ -401,11 +401,11 @@ El trato digno e integración de prisioneros bolivianos en obras civiles testimo
 Al evaluar críticamente las causas de la Revolución del 17 de febrero de 1936 liderada por el coronel Rafael Franco, ¿cuál de las siguientes explicaciones posee mayor asidero sociológico?
 
 ### Opciones
-- [x] A) El profundo descontento de la juventud militar y combatientes campesinos (frente de veteranos) contra la desgastada conducción política liberal, exigiendo reformas de justicia social, agraria y de descolonización
+- [x] C) El profundo descontento de la juventud militar y combatientes campesinos (frente de veteranos) contra la desgastada conducción política liberal, exigiendo reformas de justicia social, agraria y de descolonización
   <!-- feedback: Correcto. El fin de la guerra desató demandas latentes de justicia social agraria acumuladas, derrocando pacíficamente al partido liberal e inaugurando el 'febrerismo' corporativista nacionalista reformador. -->
-- [ ] B) El descontento por la firma del Tratado de límites que cedía de forma voluntaria Asunción al territorio de Bolivia
+- [ ] A) El descontento por la firma del Tratado de límites que cedía de forma voluntaria Asunción al territorio de Bolivia
   <!-- feedback: Incorrecto. Paraguay resguardó de manera inquebrantable su territorio nuclear e independencia; el conflicto febrerista se centró en demandas internas de justicia social agraria campesina. -->
-- [ ] C) El anhelo militar de coronar a Rafael Franco como monarca absoluto y hereditario de la corona británica
+- [ ] B) El anhelo militar de coronar a Rafael Franco como monarca absoluto y hereditario de la corona británica
   <!-- feedback: Incorrecto. El movimiento febrerista se autodefinía de corte nacionalista, obrero y campesino popular, rechazando monarquías o sumisiones coloniales lejanas. -->
 - [ ] D) La prohibición gubernamental de usar monedas nacionales para obligar al trueque exclusivo de mandioca
   <!-- feedback: Incorrecto. La política febrerista decretó precisamente reformas monetarias progresistas y leyes de salario mínimo obrero, sin prohibir el uso cambiario monetario. -->
@@ -424,11 +424,11 @@ La Revolución de 1936 clausuró la hegemonía del Partido Liberal clásico, irr
 Al juzgar el Tratado de Paz, Amistad y Límites de 1938, ¿cuál es el mayor logro de la diplomacia paraguaya respecto a la salida fluvial al mar del Chaco?
 
 ### Opciones
-- [x] A) Consagró de forma soberana el acceso fluvial del Paraguay al río homónimo y la posesión definitiva de Bahía Negra y zonas adyacentes, asegurando el control comercial e hídrico de la hidrovía
+- [x] C) Consagró de forma soberana el acceso fluvial del Paraguay al río homónimo y la posesión definitiva de Bahía Negra y zonas adyacentes, asegurando el control comercial e hídrico de la hidrovía
   <!-- feedback: Correcto. La diplomacia paraguaya impuso el derecho indiscutible de soberanía sobre las costas chaqueñas del río Paraguay, bloqueando los históricos anhelos bolivianos de puertos soberanos fluviales. -->
-- [ ] B) Permitió que la escuadra naval paraguaya conquistara militarmente puertos bolivianos en el océano Pacífico
+- [ ] A) Permitió que la escuadra naval paraguaya conquistara militarmente puertos bolivianos en el océano Pacífico
   <!-- feedback: Incorrecto. El arbitraje delimitó fronteras terrestres y fluviales chaqueñas locales continentales, sin emprender campañas marítimas lejanas en el Pacífico chileno. -->
-- [ ] C) Cedió de forma pacífica la mitad de la Región Oriental a cambio de riquezas mineras de estaño de los Andes
+- [ ] B) Cedió de forma pacífica la mitad de la Región Oriental a cambio de riquezas mineras de estaño de los Andes
   <!-- feedback: Incorrecto. Paraguay resguardó de forma intransigente e invicta todo su territorio de la Región Oriental agraria, delimitando pacíficamente los confines chaqueños. -->
 - [ ] D) Decretó el uso oficial y exclusivo del idioma alemán menonita plautdietsch en todas las aduanas chaqueñas
   <!-- feedback: Incorrecto. Las aduanas chaqueñas soberanas operaban bajo los códigos paraguayos bilingües oficiales de la administración pública de Asunción. -->
@@ -470,11 +470,11 @@ La victoria paraguaya de Nanawa consagró la destreza defensiva táctica de los 
 Al evaluar globalmente el impacto de la Guerra del Chaco en la cohesión nacional y el devenir social del Paraguay del siglo XX, ¿cuál de las siguientes conclusiones posee mayor sustento empírico e histórico?
 
 ### Opciones
-- [x] A) Consolidó la definitiva integración cívico-social de la masa campesina mestiza guaraníhablante al seno de la ciudadanía activa y sembró las bases ideológicas de las futuras reformas sociales y agrarias de la segunda mitad del siglo
+- [x] C) Consolidó la definitiva integración cívico-social de la masa campesina mestiza guaraníhablante al seno de la ciudadanía activa y sembró las bases ideológicas de las futuras reformas sociales y agrarias de la segunda mitad del siglo
   <!-- feedback: Correcto. El sacrificio compartido en las trincheras del Chaco unificó de forma definitiva al campesino bilingüe con las clases urbanas, gestando una vigorosa mística de derechos sociales patrióticos nacionales. -->
-- [ ] B) Provocó la sumisión pacífica y voluntaria del Paraguay al territorio boliviano, extinguiendo la soberanía asuncena de forma definitiva
+- [ ] A) Provocó la sumisión pacífica y voluntaria del Paraguay al territorio boliviano, extinguiendo la soberanía asuncena de forma definitiva
   <!-- feedback: Incorrecto. Al contrario, Paraguay se consolidó de forma invicta como vencedor cívico-militar, ampliando su soberanía e integridad territorial en los confines chaqueños. -->
-- [ ] C) La privatización de todos los puertos del río Paraguay para cederlos de forma definitiva al Imperio del Japón
+- [ ] B) La privatización de todos los puertos del río Paraguay para cederlos de forma definitiva al Imperio del Japón
   <!-- feedback: Incorrecto. No existieron tales transferencias comerciales; el Paraguay defendió celosamente el control soberano estatal de todos sus puertos fluviales mercantes. -->
 - [ ] D) La prohibición absoluta del uso social oral del idioma guaraní bajo pena de destierro al norte de África
   <!-- feedback: Incorrecto. Al contrario, la contienda de 1832 revalorizó de forma extraordinaria y patriótica nacionalista el orgullo de hablar y escribir en la lengua materna guaraní de la patria. -->

@@ -35,11 +35,11 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ¿Cuál de las siguientes definiciones describe formalmente a la figura literaria de la metáfora frente al símil?
 
 ### Opciones
-- [x] A) La identificación directa de un término real con uno imaginario debido a una relación de semejanza, sin utilizar nexos comparativos.
+- [x] C) La identificación directa de un término real con uno imaginario debido a una relación de semejanza, sin utilizar nexos comparativos.
   <!-- feedback: Correcto. La metáfora es la traslación de sentido directa sin nexos explícitos. -->
-- [ ] B) La comparación explícita de dos elementos utilizando nexos comparativos como 'como', 'parece' o 'semeja'.
+- [ ] A) La comparación explícita de dos elementos utilizando nexos comparativos como 'como', 'parece' o 'semeja'.
   <!-- feedback: Incorrecto. Esta definición formal corresponde al símil o comparación. -->
-- [ ] C) La exageración desmesurada de las cualidades de un personaje de Alajuela.
+- [ ] B) La exageración desmesurada de las cualidades de un personaje de Alajuela.
   <!-- feedback: Incorrecto. Esto constituye una definición formal de la hipérbole. -->
 - [ ] D) La repetición constante de sonidos en un mismo verso costarricense.
   <!-- feedback: Incorrecto. Esto define a la aliteración poética, no a la metáfora. -->
@@ -87,11 +87,11 @@ El símil o comparación exige la presencia de un nexo verbal o gramatical compa
 ### Opciones
 - [ ] A) Metáfora de adobes costumbrista de la provincia.
   <!-- feedback: Incorrecto. La metáfora asocia un término real con uno figurado; atribuir conducta es personificación. -->
-- [x] B) Personificación o prosopopeya.
+- [x] D) Personificación o prosopopeya.
   <!-- feedback: Correcto. Consiste en conceder rasgos, acciones o sentimientos humanos (silbar canciones tristes) a elementos de la naturaleza u objetos inanimados. -->
-- [ ] C) Símil utilizando el nexo comparativo 'como'.
+- [ ] B) Símil utilizando el nexo comparativo 'como'.
   <!-- feedback: Incorrecto. No hay nexos comparativos de semejanza explícitos en el enunciado de Cartago. -->
-- [ ] D) Aliteración fonética de la letra /s/ en la asamblea.
+- [ ] C) Aliteración fonética de la letra /s/ en la asamblea.
   <!-- feedback: Incorrecto. Aunque hay sonidos de /s/, la figura conceptual dominante es la atribución de conducta humana. -->
 
 ### Explicacion Pedagogica
@@ -112,11 +112,11 @@ La personificación o prosopopeya es el tropo de pensamiento que humaniza el ent
 ### Opciones
 - [ ] A) En la provincia de Limón llueve copiosamente durante varios días de la estación lluviosa.
   <!-- feedback: Incorrecto. Es un enunciado puramente fáctico descriptivo, libre de exageraciones o tropos poéticos. -->
-- [x] B) Llovieron océanos enteros sobre Limón, inundando hasta el último rincón de la provincia con cascadas celestiales.
+- [x] D) Llovieron océanos enteros sobre Limón, inundando hasta el último rincón de la provincia con cascadas celestiales.
   <!-- feedback: Correcto. El uso de 'océanos enteros' es una exageración desmesurada (hipérbole) con fines expresivos estéticos. -->
-- [ ] C) La lluvia caribeña caía como finas lágrimas sobre las hojas de banano.
+- [ ] B) La lluvia caribeña caía como finas lágrimas sobre las hojas de banano.
   <!-- feedback: Incorrecto. Es un símil comparativo poético ('como finas lágrimas'), no una hipérbole de exageración. -->
-- [ ] D) El Ministerio de Educación Pública emitió una alerta por el temporal.
+- [ ] C) El Ministerio de Educación Pública emitió una alerta por el temporal.
   <!-- feedback: Incorrecto. Es un hecho fáctico de carácter periodístico o informativo de seguridad del MEP. -->
 
 ### Explicacion Pedagogica
@@ -137,9 +137,9 @@ La hipérbole deforma de manera intencional y desmesurada la realidad para inten
 ### Opciones
 - [ ] A) En la repetición de un mismo sustantivo al inicio de cada verso.
   <!-- feedback: Incorrecto. Esto define a la anáfora poética, no a la antítesis. -->
-- [x] B) En la contraposición de dos palabras, conceptos o ideas de significado opuesto en una misma estrofa para resaltar un contraste.
+- [x] C) En la contraposición de dos palabras, conceptos o ideas de significado opuesto en una misma estrofa para resaltar un contraste.
   <!-- feedback: Correcto. La antítesis confronta términos contrapuestos de forma lógica y poética (como 'luz' y 'sombra', o 'dulce' y 'amargo'). -->
-- [ ] C) En el uso de construcciones impersonales con pasiva refleja.
+- [ ] B) En el uso de construcciones impersonales con pasiva refleja.
   <!-- feedback: Incorrecto. Esto caracteriza a la sintaxis del texto expositivo académico, ajeno a figuras poéticas líricas. -->
 - [ ] D) En la supresión de signos de puntuación del libreto de teatro.
   <!-- feedback: Incorrecto. Se trata de un recurso de puntuación, no de contraposición semántica lírica. -->
@@ -162,9 +162,9 @@ La antítesis realza la expresión lírica al aproximar conceptos opuestos, estr
 ### Opciones
 - [ ] A) Hipérbaton sintáctico del Valle Central de la provincia.
   <!-- feedback: Incorrecto. El hipérbaton altera el orden de las palabras, ausente en este sintagma nominal directo. -->
-- [x] B) Oxímoron.
+- [x] C) Oxímoron.
   <!-- feedback: Correcto. El oxímoron une dos conceptos contradictorios en un mismo sintagma ('áspera' y 'caricia' se contradicen), creando un nuevo significado poético. -->
-- [ ] C) Anáfora de Cartago.
+- [ ] B) Anáfora de Cartago.
   <!-- feedback: Incorrecto. Consiste en la repetición de palabras en versos sucesivos, no en la contradicción de un sintagma. -->
 - [ ] D) Epíteto del buey cansado.
   <!-- feedback: Incorrecto. El epíteto es un adjetivo explicativo que destaca una cualidad natural obvia (blanca nieve), no un término contradictorio. -->
@@ -212,11 +212,11 @@ El epíteto es un adjetivo calificativo que explicita una cualidad obvia y natur
 ### Opciones
 - [ ] A) Metáfora pura de la zafra.
   <!-- feedback: Incorrecto. La metáfora pura omite el plano real (A), dejando únicamente el término imaginario (B). Aquí 'su voz' está explícito. -->
-- [x] B) Metáfora impura (de identificación directa del plano real A con el imaginario B a través del verbo 'ser': A es B).
+- [x] D) Metáfora impura (de identificación directa del plano real A con el imaginario B a través del verbo 'ser': A es B).
   <!-- feedback: Correcto. El verso une de forma directa 'su voz' (A) con 'manantial' (B) a través de la cópula verbal 'era' (A es B). -->
-- [ ] C) Símil poético de la provincia de Alajuela.
+- [ ] B) Símil poético de la provincia de Alajuela.
   <!-- feedback: Incorrecto. No utiliza nexos gramaticales comparativos de semejanza explícitos como 'como' o 'semeja'. -->
-- [ ] D) Hipérbole de las municipalidades del país.
+- [ ] C) Hipérbole de las municipalidades del país.
   <!-- feedback: Incorrecto. No constituye una exageración de gran escala; es una correspondencia de significado. -->
 
 ### Explicacion Pedagogica
@@ -260,9 +260,9 @@ La derivación o políptoton reitera vocablos de un mismo origen etimológico en
 ¿En qué consiste la sinécdoque como tropo en el análisis textual literario?
 
 ### Opciones
-- [ ] A) En la contraposición lógica de dos ideas opuestas en una estrofa poética.
+- [ ] B) En la contraposición lógica de dos ideas opuestas en una estrofa poética.
   <!-- feedback: Incorrecto. Esto constituye la definición formal de la antítesis, no de la sinécdoque. -->
-- [x] B) En designar un elemento con el nombre de otro a partir de una relación de inclusión de carácter físico, por ejemplo, mencionando la parte para referirse al todo.
+- [x] A) En designar un elemento con el nombre de otro a partir de una relación de inclusión de carácter físico, por ejemplo, mencionando la parte para referirse al todo.
   <!-- feedback: Correcto. Describe con rigor la transferencia semántica por inclusión de la sinécdoque. -->
 - [ ] C) En atribuir cualidades y conductas humanas a seres de la naturaleza u objetos inanimados.
   <!-- feedback: Incorrecto. Esto es la definición técnica de la personificación. -->
@@ -288,9 +288,9 @@ tu voz de arroyo limpio es música de paz que duerme las penas.'
 ¿Qué figura de construcción sintáctica de repetición y paralelismo organiza la estructura de este poema?
 
 ### Opciones
-- [x] A) La anáfora y el paralelismo sintáctico, al repetir la misma estructura gramatical e iniciar cada verso con la misma palabra de pertenencia.
+- [x] B) La anáfora y el paralelismo sintáctico, al repetir la misma estructura gramatical e iniciar cada verso con la misma palabra de pertenencia.
   <!-- feedback: Correcto. El poema se organiza mediante la repetición de palabras al inicio ('tus', 'tus', 'tu') y repite una misma estructura gramatical en los tres versos, logrando paralelismo. -->
-- [ ] B) El hipérbaton por alteración del orden de la oración en la provincia de Alajuela.
+- [ ] A) El hipérbaton por alteración del orden de la oración en la provincia de Alajuela.
   <!-- feedback: Incorrecto. El orden sintáctico se mantiene lineal, natural e idéntico en los tres versos, sin hipérbaton. -->
 - [ ] C) El asíndeton por omisión de comas de la provincia.
   <!-- feedback: Incorrecto. No hay omisión de nexos copulativos coordinantes; se estructura mediante oraciones completas. -->
@@ -317,11 +317,11 @@ y la montaña herida sueña con el agua limpia del río.'
 ### Opciones
 - [ ] A) El hipérbaton y el asíndeton de la provincia de San José.
   <!-- feedback: Incorrecto. El orden oracional es directo y no hay omisión de conjunciones copulativas coordinantes. -->
-- [x] B) La personificación o prosopopeya, al atribuir conductas y sentimientos netamente humanos al cráter y a la montaña.
+- [x] D) La personificación o prosopopeya, al atribuir conductas y sentimientos netamente humanos al cráter y a la montaña.
   <!-- feedback: Correcto. Humaniza los accidentes geográficos dándoles vida, lo cual es personificación. -->
-- [ ] C) La antítesis entre el humo del volcán y los adobes de la casa.
+- [ ] B) La antítesis entre el humo del volcán y los adobes de la casa.
   <!-- feedback: Incorrecto. No hay una confrontación de conceptos opuestos directos en el enunciado. -->
-- [ ] D) La sinécdoque de la parte por el todo referida al cultivo de café.
+- [ ] C) La sinécdoque de la parte por el todo referida al cultivo de café.
   <!-- feedback: Incorrecto. No hay sustitución cuantitativa de la parte por el todo de términos agrícolas. -->
 
 ### Explicacion Pedagogica
@@ -370,11 +370,11 @@ donde el colón es oro en las manos del peón sencillo...'
 ### Opciones
 - [ ] A) Símil utilizando el nexo de comparación 'semeja'.
   <!-- feedback: Incorrecto. No utiliza nexos gramaticales comparativos de semejanza explícitos; la correspondencia es de identificación directa. -->
-- [x] B) Metáfora de equivalencia de identificación del plano real (colón) con el imaginario (oro) para realzar el gran valor del trabajo rústico del labriego.
+- [x] D) Metáfora de equivalencia de identificación del plano real (colón) con el imaginario (oro) para realzar el gran valor del trabajo rústico del labriego.
   <!-- feedback: Correcto. Asocia de forma directa el colón costarricense con el oro para dignificar económicamente y dar alto valor moral al jornalero. -->
-- [ ] C) Sinécdoque de la parte por el todo de los bancos de la capital.
+- [ ] B) Sinécdoque de la parte por el todo de los bancos de la capital.
   <!-- feedback: Incorrecto. No hay relaciones cuantitativas de inclusión de parte-todo con el sistema bancario. -->
-- [ ] D) La ironía de la moneda de colones costarricense emitida por el MEP.
+- [ ] C) La ironía de la moneda de colones costarricense emitida por el MEP.
   <!-- feedback: Incorrecto. El tono es de elogio, orgullo e identidad, no de sátira, desprecio o burla del signo monetario. -->
 
 ### Explicacion Pedagogica
@@ -449,9 +449,9 @@ Al analizar la coherencia estilística de la comparación 'silencioso como un ga
 ### Opciones
 - [ ] A) Inconsistente ya que los adobes de la provincia de Cartago no se mueven ni tienen gatos de arcilla.
   <!-- feedback: Incorrecto. Es un tropo poético de color local, no una descripción científica física de adobes. -->
-- [x] B) Es una comparación de gran color local costarricense que integra la rústica arquitectura tradicional (los adobes) con el sigilo del animal para caracterizar el andar misterioso de la criatura mítica.
+- [x] C) Es una comparación de gran color local costarricense que integra la rústica arquitectura tradicional (los adobes) con el sigilo del animal para caracterizar el andar misterioso de la criatura mítica.
   <!-- feedback: Correcto. El 'gato de adobes' evoca una imagen rural típica costarricense de gran valor identitario costumbrista. -->
-- [ ] C) Demuestra que el autor posee un gran manejo de los antibióticos del perro doméstico.
+- [ ] B) Demuestra que el autor posee un gran manejo de los antibióticos del perro doméstico.
   <!-- feedback: Incorrecto. Es un análisis estético de figuras retóricas, libre de variables de veterinaria o medicina animal. -->
 - [ ] D) Exige la demolición de todas las casas tradicionales coloniales del país.
   <!-- feedback: Incorrecto. No tiene propósitos legislativos o de demolición de la provincia; el fin es de color local. -->
@@ -501,11 +501,11 @@ El tropo de la hoja seca y el tiempo destructor (cronófago) representa el tópi
 ### Opciones
 - [ ] A) Asíndeton por supresión de conjunciones sintácticas.
   <!-- feedback: Incorrecto. El asíndeton hace lo contrario: elimina las conjunciones para dar rapidez y velocidad al verso. -->
-- [x] B) Polisíndeton.
+- [x] D) Polisíndeton.
   <!-- feedback: Correcto. El polisíndeton acumula conjunciones coordinantes de forma voluntaria para dotar de pesadez y lentitud expresiva al poema. -->
-- [ ] C) Anáfora al inicio del verso de la provincia.
+- [ ] B) Anáfora al inicio del verso de la provincia.
   <!-- feedback: Incorrecto. Reitera vocablos al comienzo de versos consecutivos, no conjunciones copulativas a lo largo de la frase. -->
-- [ ] D) Metáfora del buey cansado de Cartago.
+- [ ] C) Metáfora del buey cansado de Cartago.
   <!-- feedback: Incorrecto. Es un tropo semántico de correspondencia, no una figura de construcción sintáctica oracional de conjunciones. -->
 
 ### Explicacion Pedagogica
@@ -524,9 +524,9 @@ El polisíndeton retarda de forma deliberada el fluir sintáctico del poema, con
 ¿En qué consiste el hipérbaton como figura de construcción en el idioma español?
 
 ### Opciones
-- [ ] A) En la exageración de los rasgos psicológicos de un campesino.
+- [ ] B) En la exageración de los rasgos psicológicos de un campesino.
   <!-- feedback: Incorrecto. Esto constituye la definición de la etopeya de exageración o caricatura moral de carácter retórico. -->
-- [x] B) En la alteración intencionada de la disposición regular u orden sintáctico lógico de las palabras de la oración (sujeto, verbo, complementos) en el escrito.
+- [x] A) En la alteración intencionada de la disposición regular u orden sintáctico lógico de las palabras de la oración (sujeto, verbo, complementos) en el escrito.
   <!-- feedback: Correcto. El hipérbaton fractura la estructura lineal lógica del idioma con fines rítmicos poéticos clásicos. -->
 - [ ] C) En la descripción de las playas de la provincia de Puntarenas.
   <!-- feedback: Incorrecto. Se trata de un recurso de geografía descriptiva (topografía), no de una alteración sintáctica oracional formal. -->

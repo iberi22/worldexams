@@ -31,9 +31,9 @@ creador: "Jules-Agent"
 ¿Cuáles son las tres características fundamentales que definen a un vector?
 
 ### Opciones
-- [ ] A) Masa, peso y volumen. <!-- feedback: Incorrecto. Estas son propiedades de la materia, no características de un vector. -->
-- [ ] B) Altura, base y profundidad. <!-- feedback: Incorrecto. Estas definen dimensiones espaciales, no necesariamente un vector. -->
-- [x] C) Magnitud, dirección y sentido. <!-- feedback: Correcto. Un vector requiere de un valor numérico (módulo), una línea de acción (dirección) y una orientación (sentido). -->
+- [ ] B) Masa, peso y volumen. <!-- feedback: Incorrecto. Estas son propiedades de la materia, no características de un vector. -->
+- [ ] C) Altura, base y profundidad. <!-- feedback: Incorrecto. Estas definen dimensiones espaciales, no necesariamente un vector. -->
+- [x] A) Magnitud, dirección y sentido. <!-- feedback: Correcto. Un vector requiere de un valor numérico (módulo), una línea de acción (dirección) y una orientación (sentido). -->
 - [ ] D) Tiempo, velocidad y aceleración. <!-- feedback: Incorrecto. Velocidad y aceleración son vectores, pero no son las características que los definen. -->
 
 ### Explicacion Pedagogica
@@ -53,9 +53,9 @@ A diferencia de las magnitudes escalares (que solo tienen valor numérico), las 
 ¿Qué nombre recibe la longitud de la flecha que representa a un vector en el plano?
 
 ### Opciones
-- [ ] A) Sentido <!-- feedback: Incorrecto. El sentido se indica con la punta de la flecha. -->
-- [ ] B) Dirección <!-- feedback: Incorrecto. La dirección es el ángulo o inclinación de la flecha. -->
-- [x] C) Módulo o Magnitud <!-- feedback: Correcto. El tamaño físico de la representación vectorial es proporcional a su valor numérico o módulo. -->
+- [ ] B) Sentido <!-- feedback: Incorrecto. El sentido se indica con la punta de la flecha. -->
+- [ ] C) Dirección <!-- feedback: Incorrecto. La dirección es el ángulo o inclinación de la flecha. -->
+- [x] A) Módulo o Magnitud <!-- feedback: Correcto. El tamaño físico de la representación vectorial es proporcional a su valor numérico o módulo. -->
 - [ ] D) Origen <!-- feedback: Incorrecto. El origen es el punto de inicio del vector. -->
 
 ### Explicacion Pedagogica
@@ -98,8 +98,8 @@ Cualquier vector en el plano puede descomponerse en dos vectores perpendiculares
 
 ### Opciones
 - [ ] A) Colocar todos los vectores saliendo desde el mismo origen. <!-- feedback: Incorrecto. Este es el método del paralelogramo. -->
-- [x] B) Colocar el origen de cada vector en la punta (flecha) del vector anterior. <!-- feedback: Correcto. También conocido como método de punta y cola; el resultante une el inicio del primero con el final del último. -->
-- [ ] C) Sumar las magnitudes de los vectores directamente. <!-- feedback: Incorrecto. Los vectores no se suman como simples números a menos que tengan la misma dirección. -->
+- [x] C) Colocar el origen de cada vector en la punta (flecha) del vector anterior. <!-- feedback: Correcto. También conocido como método de punta y cola; el resultante une el inicio del primero con el final del último. -->
+- [ ] B) Sumar las magnitudes de los vectores directamente. <!-- feedback: Incorrecto. Los vectores no se suman como simples números a menos que tengan la misma dirección. -->
 - [ ] D) Multiplicar los vectores por un escalar. <!-- feedback: Incorrecto. Esto cambia la magnitud, pero no es un método de suma. -->
 
 ### Explicacion Pedagogica
@@ -164,8 +164,8 @@ Dado el vector $\vec{w} = (-4, 2)$, determine el resultado de la operación $3\v
 
 ### Opciones
 - [ ] A) $(-12, 2)$ <!-- feedback: Incorrecto. Solo multiplicó la primera componente por el escalar. -->
-- [ ] B) $(-1, 5)$ <!-- feedback: Incorrecto. Sumó el número 3 a las componentes en lugar de multiplicar. -->
-- [x] C) $(-12, 6)$ <!-- feedback: Correcto. El escalar 3 multiplica a cada una de las componentes: (3*-4, 3*2) = (-12, 6). -->
+- [ ] C) $(-1, 5)$ <!-- feedback: Incorrecto. Sumó el número 3 a las componentes en lugar de multiplicar. -->
+- [x] B) $(-12, 6)$ <!-- feedback: Correcto. El escalar 3 multiplica a cada una de las componentes: (3*-4, 3*2) = (-12, 6). -->
 - [ ] D) $(12, -6)$ <!-- feedback: Incorrecto. Cambió los signos del vector original sin motivo. -->
 
 ### Explicacion Pedagogica
@@ -186,9 +186,9 @@ Calcule el módulo (magnitud) del vector $\vec{a} = (3, 4)$.
 
 ### Opciones
 - [ ] A) 7 <!-- feedback: Incorrecto. No se deben sumar las componentes directamente para hallar el módulo. -->
-- [x] B) 5 <!-- feedback: Correcto. Aplicando el teorema de Pitágoras: sqrt(3^2 + 4^2) = sqrt(9 + 16) = sqrt(25) = 5. -->
-- [ ] C) 25 <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada final. -->
-- [ ] D) 1 <!-- feedback: Incorrecto. Restó los cuadrados en lugar de sumarlos. -->
+- [x] D) 5 <!-- feedback: Correcto. Aplicando el teorema de Pitágoras: sqrt(3^2 + 4^2) = sqrt(9 + 16) = sqrt(25) = 5. -->
+- [ ] B) 25 <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada final. -->
+- [ ] C) 1 <!-- feedback: Incorrecto. Restó los cuadrados en lugar de sumarlos. -->
 
 ### Explicacion Pedagogica
 El módulo de un vector se calcula mediante la fórmula $|\vec{v}| = \sqrt{x^2 + y^2}$. Esto se basa en el Teorema de Pitágoras, donde las componentes son los catetos de un triángulo rectángulo y el módulo es la hipotenusa.
@@ -207,9 +207,9 @@ El módulo de un vector se calcula mediante la fórmula $|\vec{v}| = \sqrt{x^2 +
 ¿Cuál es el ángulo de dirección $\theta$ de un vector $\vec{v} = (1, 1)$ en el primer cuadrante?
 
 ### Opciones
-- [ ] A) 90° <!-- feedback: Incorrecto. Este ángulo corresponde a un vector sobre el eje Y positivo (0, y). -->
-- [ ] B) 0° <!-- feedback: Incorrecto. Este ángulo corresponde a un vector sobre el eje X positivo (x, 0). -->
-- [x] C) 45° <!-- feedback: Correcto. tan(theta) = y/x = 1/1 = 1. El ángulo cuya tangente es 1 es 45°. -->
+- [ ] B) 90° <!-- feedback: Incorrecto. Este ángulo corresponde a un vector sobre el eje Y positivo (0, y). -->
+- [ ] C) 0° <!-- feedback: Incorrecto. Este ángulo corresponde a un vector sobre el eje X positivo (x, 0). -->
+- [x] A) 45° <!-- feedback: Correcto. tan(theta) = y/x = 1/1 = 1. El ángulo cuya tangente es 1 es 45°. -->
 - [ ] D) 30° <!-- feedback: Incorrecto. La tangente de 30° es 1/sqrt(3), no coincide con las componentes dadas. -->
 
 ### Explicacion Pedagogica
@@ -229,8 +229,8 @@ La dirección de un vector se halla con la función arcotangente: $\theta = \arc
 ¿Cuál es el vector unitario en la dirección del vector $\vec{u} = (6, 8)$?
 
 ### Opciones
-- [ ] A) $(1, 1)$ <!-- feedback: Incorrecto. Un vector unitario debe tener magnitud 1, y este tiene magnitud sqrt(2). -->
-- [x] B) $(0.6, 0.8)$ <!-- feedback: Correcto. Módulo de u es 10. Dividimos componentes entre módulo: (6/10, 8/10) = (0.6, 0.8). -->
+- [ ] B) $(1, 1)$ <!-- feedback: Incorrecto. Un vector unitario debe tener magnitud 1, y este tiene magnitud sqrt(2). -->
+- [x] A) $(0.6, 0.8)$ <!-- feedback: Correcto. Módulo de u es 10. Dividimos componentes entre módulo: (6/10, 8/10) = (0.6, 0.8). -->
 - [ ] C) $(3, 4)$ <!-- feedback: Incorrecto. Solo simplificó el vector pero su magnitud sigue siendo mayor a 1. -->
 - [ ] D) $(0.5, 0.5)$ <!-- feedback: Incorrecto. Estas no son las proporciones correctas de las componentes originales. -->
 
@@ -251,8 +251,8 @@ Un vector unitario se obtiene dividiendo cada componente del vector original ent
 Un vector tiene una magnitud de 10 unidades y forma un ángulo de 60° con el eje X positivo. Determine su componente horizontal ($V_x$). (Considere $\cos 60° = 0.5$, $\sin 60° = 0.866$).
 
 ### Opciones
-- [ ] A) 8.66 unidades <!-- feedback: Incorrecto. Esta es la componente vertical (usando el seno). -->
-- [x] B) 5 unidades <!-- feedback: Correcto. Vx = V * cos(theta) = 10 * cos(60°) = 10 * 0.5 = 5. -->
+- [ ] B) 8.66 unidades <!-- feedback: Incorrecto. Esta es la componente vertical (usando el seno). -->
+- [x] A) 5 unidades <!-- feedback: Correcto. Vx = V * cos(theta) = 10 * cos(60°) = 10 * 0.5 = 5. -->
 - [ ] C) 10 unidades <!-- feedback: Incorrecto. Esta es la magnitud total, no la proyección sobre el eje X. -->
 - [ ] D) 2.5 unidades <!-- feedback: Incorrecto. Error en la aplicación de la función trigonométrica o el valor del coseno. -->
 
@@ -317,8 +317,8 @@ Dos vectores son ortogonales si y solo si su producto escalar es igual a cero. E
 ¿Cuál de las siguientes afirmaciones sobre la resta de vectores es correcta?
 
 ### Opciones
-- [ ] A) La resta de vectores es conmutativa ($\vec{a} - \vec{b} = \vec{b} - \vec{a}$). <!-- feedback: Incorrecto. Al cambiar el orden, se obtiene el vector opuesto (mismo módulo pero sentido contrario). -->
-- [x] B) El vector $\vec{a} - \vec{b}$ tiene la misma magnitud que $\vec{b} - \vec{a}$, pero sentido opuesto. <!-- feedback: Correcto. Los vectores resultantes apuntan en direcciones contrarias sobre la misma línea de acción. -->
+- [ ] B) La resta de vectores es conmutativa ($\vec{a} - \vec{b} = \vec{b} - \vec{a}$). <!-- feedback: Incorrecto. Al cambiar el orden, se obtiene el vector opuesto (mismo módulo pero sentido contrario). -->
+- [x] A) El vector $\vec{a} - \vec{b}$ tiene la misma magnitud que $\vec{b} - \vec{a}$, pero sentido opuesto. <!-- feedback: Correcto. Los vectores resultantes apuntan en direcciones contrarias sobre la misma línea de acción. -->
 - [ ] C) Restar un vector es equivalente a sumar el mismo vector sin cambios. <!-- feedback: Incorrecto. Equivale a sumar su vector opuesto. -->
 - [ ] D) La resta de dos vectores siempre da como resultado un vector más pequeño. <!-- feedback: Incorrecto. Depende de las direcciones; puede resultar en un vector más largo. -->
 
@@ -341,8 +341,8 @@ Determine el coseno del ángulo entre los vectores $\vec{u} = (1, 0)$ y $\vec{v}
 ### Opciones
 - [ ] A) 1 <!-- feedback: Incorrecto. Este sería el coseno si los vectores fueran paralelos. -->
 - [ ] B) 0 <!-- feedback: Incorrecto. Este sería el coseno si fueran perpendiculares. -->
-- [x] C) $1 / \sqrt{2}$ <!-- feedback: Correcto. cos(theta) = (u*v) / (|u|*|v|) = (1*1 + 0*1) / (1 * sqrt(2)) = 1/sqrt(2). -->
-- [ ] D) $\sqrt{2}$ <!-- feedback: Incorrecto. El valor del coseno nunca puede ser mayor que 1. -->
+- [x] D) $1 / \sqrt{2}$ <!-- feedback: Correcto. cos(theta) = (u*v) / (|u|*|v|) = (1*1 + 0*1) / (1 * sqrt(2)) = 1/sqrt(2). -->
+- [ ] C) $\sqrt{2}$ <!-- feedback: Incorrecto. El valor del coseno nunca puede ser mayor que 1. -->
 
 ### Explicacion Pedagogica
 El coseno del ángulo entre dos vectores se obtiene dividiendo su producto escalar entre el producto de sus módulos. Es una aplicación directa de la definición geométrica del producto punto.
@@ -362,8 +362,8 @@ Si multiplicamos el vector $\vec{v} = (2, -3)$ por el escalar $k = -2$, ¿cómo 
 
 ### Opciones
 - [ ] A) Su magnitud se duplica y su sentido permanece igual. <!-- feedback: Incorrecto. El signo negativo del escalar invierte el sentido del vector. -->
-- [x] B) Su magnitud se duplica y su sentido se invierte. <!-- feedback: Correcto. El valor absoluto de -2 duplica el tamaño, y el signo menos cambia la orientación 180°. -->
-- [ ] C) Su magnitud se reduce a la mitad. <!-- feedback: Incorrecto. Un escalar con valor absoluto mayor a 1 siempre aumenta la magnitud. -->
+- [x] C) Su magnitud se duplica y su sentido se invierte. <!-- feedback: Correcto. El valor absoluto de -2 duplica el tamaño, y el signo menos cambia la orientación 180°. -->
+- [ ] B) Su magnitud se reduce a la mitad. <!-- feedback: Incorrecto. Un escalar con valor absoluto mayor a 1 siempre aumenta la magnitud. -->
 - [ ] D) Solo cambia su dirección en 90°. <!-- feedback: Incorrecto. La multiplicación por escalar no produce rotaciones de 90°, sino de 0° o 180°. -->
 
 ### Explicacion Pedagogica
@@ -384,8 +384,8 @@ Un avión vuela hacia el Norte con una velocidad de 200 km/h respecto al aire. S
 
 ### Opciones
 - [ ] A) 250 km/h <!-- feedback: Incorrecto. Sumó las magnitudes directamente, lo cual solo es válido si tienen la misma dirección. -->
-- [ ] B) 150 km/h <!-- feedback: Incorrecto. Restó las magnitudes, lo cual solo es válido si son opuestas. -->
-- [x] C) 206.15 km/h <!-- feedback: Correcto. Los vectores son perpendiculares (Norte y Este). Magnitud = sqrt(200^2 + 50^2) = sqrt(40,000 + 2,500) = sqrt(42,500) ≈ 206.15. -->
+- [ ] C) 150 km/h <!-- feedback: Incorrecto. Restó las magnitudes, lo cual solo es válido si son opuestas. -->
+- [x] B) 206.15 km/h <!-- feedback: Correcto. Los vectores son perpendiculares (Norte y Este). Magnitud = sqrt(200^2 + 50^2) = sqrt(40,000 + 2,500) = sqrt(42,500) ≈ 206.15. -->
 - [ ] D) 212.13 km/h <!-- feedback: Incorrecto. Posible error en el cálculo de los cuadrados o la raíz. -->
 
 ### Explicacion Pedagogica
@@ -405,8 +405,8 @@ Cuando dos vectores son perpendiculares, su suma se resuelve encontrando la hipo
 Si el producto escalar de dos vectores no nulos es igual al producto de sus módulos ($\vec{u} \cdot \vec{v} = |\vec{u}| |\vec{v}|$), ¿qué podemos concluir sobre su relación geométrica?
 
 ### Opciones
-- [ ] A) Los vectores son perpendiculares entre sí. <!-- feedback: Incorrecto. En ese caso el producto escalar sería cero. -->
-- [x] B) Los vectores son paralelos y tienen el mismo sentido. <!-- feedback: Correcto. cos(theta) = 1, lo que implica que el ángulo es 0°. -->
+- [ ] B) Los vectores son perpendiculares entre sí. <!-- feedback: Incorrecto. En ese caso el producto escalar sería cero. -->
+- [x] A) Los vectores son paralelos y tienen el mismo sentido. <!-- feedback: Correcto. cos(theta) = 1, lo que implica que el ángulo es 0°. -->
 - [ ] C) Los vectores son paralelos y tienen sentidos opuestos. <!-- feedback: Incorrecto. En ese caso el producto sería -|u||v|. -->
 - [ ] D) Uno de los vectores es el vector nulo. <!-- feedback: Incorrecto. El enunciado especifica que los vectores son no nulos. -->
 
@@ -451,8 +451,8 @@ Determine la magnitud de la suma de dos vectores $\vec{a}$ y $\vec{b}$ si $|\vec
 ### Opciones
 - [ ] A) 8 <!-- feedback: Incorrecto. Este valor solo se daría si el ángulo fuera 0°. -->
 - [ ] B) 4 <!-- feedback: Incorrecto. Este valor solo se daría si el ángulo fuera 180°. -->
-- [x] C) 7 <!-- feedback: Correcto. R = sqrt(a^2 + b^2 + 2ab*cos(theta)) = sqrt(3^2 + 5^2 + 2*3*5*0.5) = sqrt(9 + 25 + 15) = sqrt(49) = 7. -->
-- [ ] D) $\sqrt{34}$ <!-- feedback: Incorrecto. Olvidó incluir el término 2ab*cos(theta) de la ley de cosenos generalizada para vectores. -->
+- [x] D) 7 <!-- feedback: Correcto. R = sqrt(a^2 + b^2 + 2ab*cos(theta)) = sqrt(3^2 + 5^2 + 2*3*5*0.5) = sqrt(9 + 25 + 15) = sqrt(49) = 7. -->
+- [ ] C) $\sqrt{34}$ <!-- feedback: Incorrecto. Olvidó incluir el término 2ab*cos(theta) de la ley de cosenos generalizada para vectores. -->
 
 ### Explicacion Pedagogica
 Para sumar vectores con un ángulo cualquiera, usamos la variante vectorial de la ley de los cosenos: $R = \sqrt{A^2 + B^2 + 2AB \cos \theta}$. Esta fórmula permite resolver la suma de cualquier par de vectores conociendo sus magnitudes y el ángulo que los separa.

@@ -68,8 +68,8 @@ Por Segunda Ley de Newton, F = m*a = 6*3 = 18 N.
 ¿Qué fuerza neta horizontal se necesita aplicar sobre un cuerpo de masa $7 \text{ kg}$ en Santiago para otorgarle una aceleración de $3 \text{ m/s}^2$?
 
 ### Opciones
-- [x] A) $21 \text{ N}$ <!-- feedback: ¡Correcto! F = m*a = 7*3 = 21 N. -->
-- [ ] B) $10 \text{ N}$ <!-- feedback: Incorrecto. Sumaste la masa y la aceleración. -->
+- [x] B) $21 \text{ N}$ <!-- feedback: ¡Correcto! F = m*a = 7*3 = 21 N. -->
+- [ ] A) $10 \text{ N}$ <!-- feedback: Incorrecto. Sumaste la masa y la aceleración. -->
 - [ ] C) $42 \text{ N}$ <!-- feedback: Incorrecto. Duplicaste el valor de la fuerza necesaria. -->
 - [ ] D) $2.33 \text{ N}$ <!-- feedback: Incorrecto. Dividiste la masa por la aceleración. -->
 
@@ -106,8 +106,8 @@ Por Segunda Ley de Newton, F = m*a = 8*3 = 24 N.
 ¿Qué fuerza neta horizontal se necesita aplicar sobre un cuerpo de masa $9 \text{ kg}$ en Concepción para otorgarle una aceleración de $3 \text{ m/s}^2$?
 
 ### Opciones
-- [x] A) $27 \text{ N}$ <!-- feedback: ¡Correcto! F = m*a = 9*3 = 27 N. -->
-- [ ] B) $12 \text{ N}$ <!-- feedback: Incorrecto. Sumaste la masa y la aceleración. -->
+- [x] B) $27 \text{ N}$ <!-- feedback: ¡Correcto! F = m*a = 9*3 = 27 N. -->
+- [ ] A) $12 \text{ N}$ <!-- feedback: Incorrecto. Sumaste la masa y la aceleración. -->
 - [ ] C) $54 \text{ N}$ <!-- feedback: Incorrecto. Duplicaste el valor de la fuerza necesaria. -->
 - [ ] D) $3.00 \text{ N}$ <!-- feedback: Incorrecto. Dividiste la masa por la aceleración. -->
 
@@ -125,8 +125,8 @@ Por Segunda Ley de Newton, F = m*a = 9*3 = 27 N.
 ¿Qué fuerza neta horizontal se necesita aplicar sobre un cuerpo de masa $10 \text{ kg}$ en Antofagasta para otorgarle una aceleración de $3 \text{ m/s}^2$?
 
 ### Opciones
-- [x] A) $30 \text{ N}$ <!-- feedback: ¡Correcto! F = m*a = 10*3 = 30 N. -->
-- [ ] B) $13 \text{ N}$ <!-- feedback: Incorrecto. Sumaste la masa y la aceleración. -->
+- [x] B) $30 \text{ N}$ <!-- feedback: ¡Correcto! F = m*a = 10*3 = 30 N. -->
+- [ ] A) $13 \text{ N}$ <!-- feedback: Incorrecto. Sumaste la masa y la aceleración. -->
 - [ ] C) $60 \text{ N}$ <!-- feedback: Incorrecto. Duplicaste el valor de la fuerza necesaria. -->
 - [ ] D) $3.33 \text{ N}$ <!-- feedback: Incorrecto. Dividiste la masa por la aceleración. -->
 
@@ -144,10 +144,10 @@ Por Segunda Ley de Newton, F = m*a = 10*3 = 30 N.
 ¿Qué fuerza neta horizontal se necesita aplicar sobre un cuerpo de masa $11 \text{ kg}$ en Temuco para otorgarle una aceleración de $3 \text{ m/s}^2$?
 
 ### Opciones
-- [x] A) $33 \text{ N}$ <!-- feedback: ¡Correcto! F = m*a = 11*3 = 33 N. -->
-- [ ] B) $14 \text{ N}$ <!-- feedback: Incorrecto. Sumaste la masa y la aceleración. -->
-- [ ] C) $66 \text{ N}$ <!-- feedback: Incorrecto. Duplicaste el valor de la fuerza necesaria. -->
-- [ ] D) $3.67 \text{ N}$ <!-- feedback: Incorrecto. Dividiste la masa por la aceleración. -->
+- [x] D) $33 \text{ N}$ <!-- feedback: ¡Correcto! F = m*a = 11*3 = 33 N. -->
+- [ ] A) $14 \text{ N}$ <!-- feedback: Incorrecto. Sumaste la masa y la aceleración. -->
+- [ ] B) $66 \text{ N}$ <!-- feedback: Incorrecto. Duplicaste el valor de la fuerza necesaria. -->
+- [ ] C) $3.67 \text{ N}$ <!-- feedback: Incorrecto. Dividiste la masa por la aceleración. -->
 
 ### Explicacion Pedagogica
 Por Segunda Ley de Newton, F = m*a = 11*3 = 33 N.
@@ -182,9 +182,9 @@ Por Segunda Ley de Newton, F = m*a = 12*3 = 36 N.
 ¿Qué fuerza neta horizontal se necesita aplicar sobre un cuerpo de masa $13 \text{ kg}$ en Viña del Mar para otorgarle una aceleración de $3 \text{ m/s}^2$?
 
 ### Opciones
-- [x] A) $39 \text{ N}$ <!-- feedback: ¡Correcto! F = m*a = 13*3 = 39 N. -->
-- [ ] B) $16 \text{ N}$ <!-- feedback: Incorrecto. Sumaste la masa y la aceleración. -->
-- [ ] C) $78 \text{ N}$ <!-- feedback: Incorrecto. Duplicaste el valor de la fuerza necesaria. -->
+- [x] C) $39 \text{ N}$ <!-- feedback: ¡Correcto! F = m*a = 13*3 = 39 N. -->
+- [ ] A) $16 \text{ N}$ <!-- feedback: Incorrecto. Sumaste la masa y la aceleración. -->
+- [ ] B) $78 \text{ N}$ <!-- feedback: Incorrecto. Duplicaste el valor de la fuerza necesaria. -->
 - [ ] D) $4.33 \text{ N}$ <!-- feedback: Incorrecto. Dividiste la masa por la aceleración. -->
 
 ### Explicacion Pedagogica
@@ -201,9 +201,9 @@ Por Segunda Ley de Newton, F = m*a = 13*3 = 39 N.
 ¿Qué fuerza neta horizontal se necesita aplicar sobre un cuerpo de masa $14 \text{ kg}$ en Iquique para otorgarle una aceleración de $3 \text{ m/s}^2$?
 
 ### Opciones
-- [x] A) $42 \text{ N}$ <!-- feedback: ¡Correcto! F = m*a = 14*3 = 42 N. -->
-- [ ] B) $17 \text{ N}$ <!-- feedback: Incorrecto. Sumaste la masa y la aceleración. -->
-- [ ] C) $84 \text{ N}$ <!-- feedback: Incorrecto. Duplicaste el valor de la fuerza necesaria. -->
+- [x] C) $42 \text{ N}$ <!-- feedback: ¡Correcto! F = m*a = 14*3 = 42 N. -->
+- [ ] A) $17 \text{ N}$ <!-- feedback: Incorrecto. Sumaste la masa y la aceleración. -->
+- [ ] B) $84 \text{ N}$ <!-- feedback: Incorrecto. Duplicaste el valor de la fuerza necesaria. -->
 - [ ] D) $4.67 \text{ N}$ <!-- feedback: Incorrecto. Dividiste la masa por la aceleración. -->
 
 ### Explicacion Pedagogica
@@ -220,10 +220,10 @@ Por Segunda Ley de Newton, F = m*a = 14*3 = 42 N.
 ¿Qué fuerza neta horizontal se necesita aplicar sobre un cuerpo de masa $15 \text{ kg}$ en Rancagua para otorgarle una aceleración de $3 \text{ m/s}^2$?
 
 ### Opciones
-- [x] A) $45 \text{ N}$ <!-- feedback: ¡Correcto! F = m*a = 15*3 = 45 N. -->
-- [ ] B) $18 \text{ N}$ <!-- feedback: Incorrecto. Sumaste la masa y la aceleración. -->
-- [ ] C) $90 \text{ N}$ <!-- feedback: Incorrecto. Duplicaste el valor de la fuerza necesaria. -->
-- [ ] D) $5.00 \text{ N}$ <!-- feedback: Incorrecto. Dividiste la masa por la aceleración. -->
+- [x] D) $45 \text{ N}$ <!-- feedback: ¡Correcto! F = m*a = 15*3 = 45 N. -->
+- [ ] A) $18 \text{ N}$ <!-- feedback: Incorrecto. Sumaste la masa y la aceleración. -->
+- [ ] B) $90 \text{ N}$ <!-- feedback: Incorrecto. Duplicaste el valor de la fuerza necesaria. -->
+- [ ] C) $5.00 \text{ N}$ <!-- feedback: Incorrecto. Dividiste la masa por la aceleración. -->
 
 ### Explicacion Pedagogica
 Por Segunda Ley de Newton, F = m*a = 15*3 = 45 N.
@@ -258,8 +258,8 @@ Por Segunda Ley de Newton, F = m*a = 16*3 = 48 N.
 ¿Qué fuerza neta horizontal se necesita aplicar sobre un cuerpo de masa $17 \text{ kg}$ en Arica para otorgarle una aceleración de $3 \text{ m/s}^2$?
 
 ### Opciones
-- [x] A) $51 \text{ N}$ <!-- feedback: ¡Correcto! F = m*a = 17*3 = 51 N. -->
-- [ ] B) $20 \text{ N}$ <!-- feedback: Incorrecto. Sumaste la masa y la aceleración. -->
+- [x] B) $51 \text{ N}$ <!-- feedback: ¡Correcto! F = m*a = 17*3 = 51 N. -->
+- [ ] A) $20 \text{ N}$ <!-- feedback: Incorrecto. Sumaste la masa y la aceleración. -->
 - [ ] C) $102 \text{ N}$ <!-- feedback: Incorrecto. Duplicaste el valor de la fuerza necesaria. -->
 - [ ] D) $5.67 \text{ N}$ <!-- feedback: Incorrecto. Dividiste la masa por la aceleración. -->
 
@@ -277,9 +277,9 @@ Por Segunda Ley de Newton, F = m*a = 17*3 = 51 N.
 ¿Qué fuerza neta horizontal se necesita aplicar sobre un cuerpo de masa $18 \text{ kg}$ en Puerto Montt para otorgarle una aceleración de $3 \text{ m/s}^2$?
 
 ### Opciones
-- [x] A) $54 \text{ N}$ <!-- feedback: ¡Correcto! F = m*a = 18*3 = 54 N. -->
-- [ ] B) $21 \text{ N}$ <!-- feedback: Incorrecto. Sumaste la masa y la aceleración. -->
-- [ ] C) $108 \text{ N}$ <!-- feedback: Incorrecto. Duplicaste el valor de la fuerza necesaria. -->
+- [x] C) $54 \text{ N}$ <!-- feedback: ¡Correcto! F = m*a = 18*3 = 54 N. -->
+- [ ] A) $21 \text{ N}$ <!-- feedback: Incorrecto. Sumaste la masa y la aceleración. -->
+- [ ] B) $108 \text{ N}$ <!-- feedback: Incorrecto. Duplicaste el valor de la fuerza necesaria. -->
 - [ ] D) $6.00 \text{ N}$ <!-- feedback: Incorrecto. Dividiste la masa por la aceleración. -->
 
 ### Explicacion Pedagogica
@@ -296,9 +296,9 @@ Por Segunda Ley de Newton, F = m*a = 18*3 = 54 N.
 ¿Qué fuerza neta horizontal se necesita aplicar sobre un cuerpo de masa $19 \text{ kg}$ en Chillán para otorgarle una aceleración de $3 \text{ m/s}^2$?
 
 ### Opciones
-- [x] A) $57 \text{ N}$ <!-- feedback: ¡Correcto! F = m*a = 19*3 = 57 N. -->
-- [ ] B) $22 \text{ N}$ <!-- feedback: Incorrecto. Sumaste la masa y la aceleración. -->
-- [ ] C) $114 \text{ N}$ <!-- feedback: Incorrecto. Duplicaste el valor de la fuerza necesaria. -->
+- [x] C) $57 \text{ N}$ <!-- feedback: ¡Correcto! F = m*a = 19*3 = 57 N. -->
+- [ ] A) $22 \text{ N}$ <!-- feedback: Incorrecto. Sumaste la masa y la aceleración. -->
+- [ ] B) $114 \text{ N}$ <!-- feedback: Incorrecto. Duplicaste el valor de la fuerza necesaria. -->
 - [ ] D) $6.33 \text{ N}$ <!-- feedback: Incorrecto. Dividiste la masa por la aceleración. -->
 
 ### Explicacion Pedagogica
@@ -315,10 +315,10 @@ Por Segunda Ley de Newton, F = m*a = 19*3 = 57 N.
 ¿Qué fuerza neta horizontal se necesita aplicar sobre un cuerpo de masa $20 \text{ kg}$ en Calama para otorgarle una aceleración de $3 \text{ m/s}^2$?
 
 ### Opciones
-- [x] A) $60 \text{ N}$ <!-- feedback: ¡Correcto! F = m*a = 20*3 = 60 N. -->
-- [ ] B) $23 \text{ N}$ <!-- feedback: Incorrecto. Sumaste la masa y la aceleración. -->
-- [ ] C) $120 \text{ N}$ <!-- feedback: Incorrecto. Duplicaste el valor de la fuerza necesaria. -->
-- [ ] D) $6.67 \text{ N}$ <!-- feedback: Incorrecto. Dividiste la masa por la aceleración. -->
+- [x] D) $60 \text{ N}$ <!-- feedback: ¡Correcto! F = m*a = 20*3 = 60 N. -->
+- [ ] A) $23 \text{ N}$ <!-- feedback: Incorrecto. Sumaste la masa y la aceleración. -->
+- [ ] B) $120 \text{ N}$ <!-- feedback: Incorrecto. Duplicaste el valor de la fuerza necesaria. -->
+- [ ] C) $6.67 \text{ N}$ <!-- feedback: Incorrecto. Dividiste la masa por la aceleración. -->
 
 ### Explicacion Pedagogica
 Por Segunda Ley de Newton, F = m*a = 20*3 = 60 N.
@@ -372,9 +372,9 @@ Por Segunda Ley de Newton, F = m*a = 22*3 = 66 N.
 ¿Qué fuerza neta horizontal se necesita aplicar sobre un cuerpo de masa $23 \text{ kg}$ en Valparaíso para otorgarle una aceleración de $3 \text{ m/s}^2$?
 
 ### Opciones
-- [x] A) $69 \text{ N}$ <!-- feedback: ¡Correcto! F = m*a = 23*3 = 69 N. -->
-- [ ] B) $26 \text{ N}$ <!-- feedback: Incorrecto. Sumaste la masa y la aceleración. -->
-- [ ] C) $138 \text{ N}$ <!-- feedback: Incorrecto. Duplicaste el valor de la fuerza necesaria. -->
+- [x] C) $69 \text{ N}$ <!-- feedback: ¡Correcto! F = m*a = 23*3 = 69 N. -->
+- [ ] A) $26 \text{ N}$ <!-- feedback: Incorrecto. Sumaste la masa y la aceleración. -->
+- [ ] B) $138 \text{ N}$ <!-- feedback: Incorrecto. Duplicaste el valor de la fuerza necesaria. -->
 - [ ] D) $7.67 \text{ N}$ <!-- feedback: Incorrecto. Dividiste la masa por la aceleración. -->
 
 ### Explicacion Pedagogica

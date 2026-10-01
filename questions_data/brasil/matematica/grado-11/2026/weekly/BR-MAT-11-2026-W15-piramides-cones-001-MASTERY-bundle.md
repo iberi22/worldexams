@@ -30,8 +30,8 @@ creador: "Jules-Agent"
 Quantas faces possui uma pirâmide de base quadrangular?
 
 ### Opciones
-- [ ] A) 4 <!-- feedback: Incorreto: 4 é o número de faces laterais. -->
-- [x] B) 5 <!-- feedback: Correto: 4 faces laterais triangulares + 1 base = 5 faces. -->
+- [ ] B) 4 <!-- feedback: Incorreto: 4 é o número de faces laterais. -->
+- [x] A) 5 <!-- feedback: Correto: 4 faces laterais triangulares + 1 base = 5 faces. -->
 - [ ] C) 6 <!-- feedback: Incorreto: 6 seria o número de faces de um prisma de base triangular. -->
 - [ ] D) 8 <!-- feedback: Incorreto: 8 seria o número de arestas. -->
 
@@ -49,8 +49,8 @@ Uma pirâmide de base quadrangular tem 4 faces laterais triangulares e 1 face da
 Qual é a fórmula do volume de um cone circular reto de raio r e altura h?
 
 ### Opciones
-- [ ] A) πr²h <!-- feedback: Incorreto: essa é a fórmula do volume do cilindro. -->
-- [x] B) (1/3)πr²h <!-- feedback: Correto: o volume do cone é um terço do volume do cilindro de mesma base e altura. -->
+- [ ] B) πr²h <!-- feedback: Incorreto: essa é a fórmula do volume do cilindro. -->
+- [x] A) (1/3)πr²h <!-- feedback: Correto: o volume do cone é um terço do volume do cilindro de mesma base e altura. -->
 - [ ] C) (2/3)πr²h <!-- feedback: Incorreto: (2/3)πr²h seria o volume da metade de uma esfera de raio r com altura h. -->
 - [ ] D) πr√(r² + h²) <!-- feedback: Incorreto: essa expressão se relaciona à área lateral do cone. -->
 
@@ -68,10 +68,10 @@ O volume do cone circular reto é V = (1/3) × área da base × altura = (1/3)π
 Uma pirâmide tem base quadrada de lado 6 cm e altura 9 cm. Qual é o seu volume?
 
 ### Opciones
-- [x] A) 108 cm³ <!-- feedback: Correto: V = (1/3) × 36 × 9 = 108 cm³. -->
-- [ ] B) 324 cm³ <!-- feedback: Incorreto: 324 seria o volume de um prisma de mesma base e altura. -->
-- [ ] C) 54 cm³ <!-- feedback: Incorreto: 54 seria o volume se a altura fosse 4,5 cm. -->
-- [ ] D) 216 cm³ <!-- feedback: Incorreto: 216 seria o volume de um cubo de aresta 6. -->
+- [x] D) 108 cm³ <!-- feedback: Correto: V = (1/3) × 36 × 9 = 108 cm³. -->
+- [ ] A) 324 cm³ <!-- feedback: Incorreto: 324 seria o volume de um prisma de mesma base e altura. -->
+- [ ] B) 54 cm³ <!-- feedback: Incorreto: 54 seria o volume se a altura fosse 4,5 cm. -->
+- [ ] C) 216 cm³ <!-- feedback: Incorreto: 216 seria o volume de um cubo de aresta 6. -->
 
 ### Explicacion Pedagogica
 A área da base quadrada é 6² = 36 cm². O volume da pirâmide é V = (1/3) × 36 × 9 = 108 cm³.
@@ -88,9 +88,9 @@ Em um cone circular reto, a geratriz g, o raio r da base e a altura h satisfazem
 
 ### Opciones
 - [ ] A) g = r + h <!-- feedback: Incorreto: a geratriz não é a soma do raio com a altura. -->
-- [x] B) g² = r² + h² <!-- feedback: Correto: o triângulo formado por geratriz, raio e altura é retângulo. -->
-- [ ] C) g = r·h <!-- feedback: Incorreto: g·h não tem relação com a geratriz. -->
-- [ ] D) g² = r² − h² <!-- feedback: Incorreto: o quadrado da geratriz é a soma, não a diferença. -->
+- [x] D) g² = r² + h² <!-- feedback: Correto: o triângulo formado por geratriz, raio e altura é retângulo. -->
+- [ ] B) g = r·h <!-- feedback: Incorreto: g·h não tem relação com a geratriz. -->
+- [ ] C) g² = r² − h² <!-- feedback: Incorreto: o quadrado da geratriz é a soma, não a diferença. -->
 
 ### Explicacion Pedagogica
 A geratriz, o raio da base e a altura do cone formam um triângulo retângulo, com a geratriz como hipotenusa: g² = r² + h².
@@ -106,9 +106,9 @@ A geratriz, o raio da base e a altura do cone formam um triângulo retângulo, c
 Qual é a área lateral de um cone reto de raio 3 cm e geratriz 5 cm?
 
 ### Opciones
-- [x] A) 15π cm² <!-- feedback: Correto: A_lat = πrg = π × 3 × 5 = 15π cm². -->
-- [ ] B) 12π cm² <!-- feedback: Incorreto: 12π seria πr² com r = 2√3. -->
-- [ ] C) 20π cm² <!-- feedback: Incorreto: 20π seria πg² com g = 2√5. -->
+- [x] C) 15π cm² <!-- feedback: Correto: A_lat = πrg = π × 3 × 5 = 15π cm². -->
+- [ ] A) 12π cm² <!-- feedback: Incorreto: 12π seria πr² com r = 2√3. -->
+- [ ] B) 20π cm² <!-- feedback: Incorreto: 20π seria πg² com g = 2√5. -->
 - [ ] D) 9π cm² <!-- feedback: Incorreto: 9π é a área da base. -->
 
 ### Explicacion Pedagogica
@@ -145,9 +145,9 @@ Uma tenda tem formato de pirâmide regular de base quadrada de lado 8 m e altura
 
 ### Opciones
 - [ ] A) 24 m³ <!-- feedback: Incorreto: 24 seria o volume se a área da base fosse 18 m². -->
-- [x] B) 64 m³ <!-- feedback: Correto: V = (1/3) × 64 × 3 = 64 m³. -->
-- [ ] C) 192 m³ <!-- feedback: Incorreto: 192 seria o volume se o fator 1/3 não fosse aplicado. -->
-- [ ] D) 32 m³ <!-- feedback: Incorreto: 32 seria o volume se o lado da base fosse 4√2. -->
+- [x] D) 64 m³ <!-- feedback: Correto: V = (1/3) × 64 × 3 = 64 m³. -->
+- [ ] B) 192 m³ <!-- feedback: Incorreto: 192 seria o volume se o fator 1/3 não fosse aplicado. -->
+- [ ] C) 32 m³ <!-- feedback: Incorreto: 32 seria o volume se o lado da base fosse 4√2. -->
 
 ### Explicacion Pedagogica
 A área da base é 8² = 64 m². O volume é V = (1/3) × 64 × 3 = 64 m³.
@@ -183,8 +183,8 @@ Qual é a área total de um cone reto de raio 2 cm e geratriz 4 cm? (Use π = 3.
 
 ### Opciones
 - [ ] A) 24 cm² <!-- feedback: Incorreto: 24 é apenas a área lateral. -->
-- [x] B) 36 cm² <!-- feedback: Correto: A_total = πr(r + g) = 3 × 2 × (2 + 4) = 36 cm². -->
-- [ ] C) 48 cm² <!-- feedback: Incorreto: 48 seria o dobro da área total correta. -->
+- [x] C) 36 cm² <!-- feedback: Correto: A_total = πr(r + g) = 3 × 2 × (2 + 4) = 36 cm². -->
+- [ ] B) 48 cm² <!-- feedback: Incorreto: 48 seria o dobro da área total correta. -->
 - [ ] D) 12 cm² <!-- feedback: Incorreto: 12 é a área da base. -->
 
 ### Explicacion Pedagogica
@@ -220,10 +220,10 @@ O prisma tem volume 30 × 9 = 270 cm³ e a pirâmide tem volume (1/3) × 30 × 9
 Uma pirâmide regular de base quadrada de lado 6 cm tem altura 4 cm. Qual é a área lateral da pirâmide (soma das 4 faces triangulares)?
 
 ### Opciones
-- [x] A) 60 cm² <!-- feedback: Correto: o apótema da face é √(4² + 3²) = 5 cm; cada face tem área (6 × 5)/2 = 15 cm²; total = 60 cm². -->
-- [ ] B) 120 cm² <!-- feedback: Incorreto: 120 seria o dobro da área lateral. -->
-- [ ] C) 48 cm² <!-- feedback: Incorreto: 48 seria a área lateral de um prisma quadrado de altura 4. -->
-- [ ] D) 30 cm² <!-- feedback: Incorreto: 30 é a área de apenas duas faces. -->
+- [x] D) 60 cm² <!-- feedback: Correto: o apótema da face é √(4² + 3²) = 5 cm; cada face tem área (6 × 5)/2 = 15 cm²; total = 60 cm². -->
+- [ ] A) 120 cm² <!-- feedback: Incorreto: 120 seria o dobro da área lateral. -->
+- [ ] B) 48 cm² <!-- feedback: Incorreto: 48 seria a área lateral de um prisma quadrado de altura 4. -->
+- [ ] C) 30 cm² <!-- feedback: Incorreto: 30 é a área de apenas duas faces. -->
 
 ### Explicacion Pedagogica
 O apótema da base é 3 cm (metade do lado). O apótema da face é m = √(4² + 3²) = 5 cm. Cada face triangular tem área (6 × 5)/2 = 15 cm², e a área lateral é 4 × 15 = 60 cm².
@@ -239,9 +239,9 @@ O apótema da base é 3 cm (metade do lado). O apótema da face é m = √(4² +
 Um cone reto tem volume 32π cm³ e raio da base 4 cm. Qual é a sua altura?
 
 ### Opciones
-- [x] A) 6 cm <!-- feedback: Correto: V = (1/3)πr²h, logo 32π = (1/3)·π·16·h, e h = 6 cm. -->
-- [ ] B) 8 cm <!-- feedback: Incorreto: 8 seria a altura se o volume fosse (1/3)·π·16·8 = 128π/3. -->
-- [ ] C) 4 cm <!-- feedback: Incorreto: 4 seria a altura se o volume fosse 64π/3. -->
+- [x] C) 6 cm <!-- feedback: Correto: V = (1/3)πr²h, logo 32π = (1/3)·π·16·h, e h = 6 cm. -->
+- [ ] A) 8 cm <!-- feedback: Incorreto: 8 seria a altura se o volume fosse (1/3)·π·16·8 = 128π/3. -->
+- [ ] B) 4 cm <!-- feedback: Incorreto: 4 seria a altura se o volume fosse 64π/3. -->
 - [ ] D) 12 cm <!-- feedback: Incorreto: 12 seria a altura se o volume fosse 64π. -->
 
 ### Explicacion Pedagogica
@@ -259,9 +259,9 @@ Em um cone equilátero, a geratriz é igual ao diâmetro da base. Se a geratriz 
 
 ### Opciones
 - [ ] A) 5 cm <!-- feedback: Incorreto: 5 é o raio da base. -->
-- [x] B) 5√3 cm <!-- feedback: Correto: r = 5 cm e h = √(10² − 5²) = √75 = 5√3 cm. -->
-- [ ] C) 10√3 cm <!-- feedback: Incorreto: 10√3 seria a altura se a geratriz fosse 20 cm. -->
-- [ ] D) 10 cm <!-- feedback: Incorreto: 10 é a geratriz. -->
+- [x] D) 5√3 cm <!-- feedback: Correto: r = 5 cm e h = √(10² − 5²) = √75 = 5√3 cm. -->
+- [ ] B) 10√3 cm <!-- feedback: Incorreto: 10√3 seria a altura se a geratriz fosse 20 cm. -->
+- [ ] C) 10 cm <!-- feedback: Incorreto: 10 é a geratriz. -->
 
 ### Explicacion Pedagogica
 No cone equilátero, a secção meridiana é um triângulo equilátero, logo g = 2r = 10 cm e r = 5 cm. A altura é h = √(g² − r²) = √(100 − 25) = √75 = 5√3 cm.
@@ -277,10 +277,10 @@ No cone equilátero, a secção meridiana é um triângulo equilátero, logo g =
 Um tetraedro regular tem todas as arestas medindo 6 cm. Sabendo que o volume de um tetraedro regular de aresta a é a³√2/12, qual é o volume desse tetraedro?
 
 ### Opciones
-- [x] A) 18√2 cm³ <!-- feedback: Correto: V = 6³√2/12 = 216√2/12 = 18√2 cm³. -->
-- [ ] B) 36√2 cm³ <!-- feedback: Incorreto: 36√2 seria o volume se a aresta fosse 6√2. -->
-- [ ] C) 12√2 cm³ <!-- feedback: Incorreto: 12√2 seria o volume se a aresta fosse √72. -->
-- [ ] D) 54√2 cm³ <!-- feedback: Incorreto: 54√2 seria o volume se a aresta fosse 9. -->
+- [x] D) 18√2 cm³ <!-- feedback: Correto: V = 6³√2/12 = 216√2/12 = 18√2 cm³. -->
+- [ ] A) 36√2 cm³ <!-- feedback: Incorreto: 36√2 seria o volume se a aresta fosse 6√2. -->
+- [ ] B) 12√2 cm³ <!-- feedback: Incorreto: 12√2 seria o volume se a aresta fosse √72. -->
+- [ ] C) 54√2 cm³ <!-- feedback: Incorreto: 54√2 seria o volume se a aresta fosse 9. -->
 
 ### Explicacion Pedagogica
 Substituindo a = 6 na fórmula do volume do tetraedro regular: V = 6³√2/12 = 216√2/12 = 18√2 cm³.
@@ -334,9 +334,9 @@ O arco do setor circular é o comprimento da circunferência da base: (1/3) × 2
 Uma pirâmide regular tem base quadrada de lado 4 cm e as faces laterais são triângulos equiláteros. Qual é a área lateral da pirâmide?
 
 ### Opciones
-- [x] A) 16√3 cm² <!-- feedback: Correto: cada face equilátera de lado 4 tem área 4²√3/4 = 4√3 cm²; total = 4 × 4√3 = 16√3 cm². -->
-- [ ] B) 8√3 cm² <!-- feedback: Incorreto: 8√3 seria a área de duas faces. -->
-- [ ] C) 32 cm² <!-- feedback: Incorreto: 32 seria a área lateral se as faces fossem quadradas. -->
+- [x] C) 16√3 cm² <!-- feedback: Correto: cada face equilátera de lado 4 tem área 4²√3/4 = 4√3 cm²; total = 4 × 4√3 = 16√3 cm². -->
+- [ ] A) 8√3 cm² <!-- feedback: Incorreto: 8√3 seria a área de duas faces. -->
+- [ ] B) 32 cm² <!-- feedback: Incorreto: 32 seria a área lateral se as faces fossem quadradas. -->
 - [ ] D) 64 cm² <!-- feedback: Incorreto: 64 seria o dobro da área lateral correta. -->
 
 ### Explicacion Pedagogica
@@ -353,8 +353,8 @@ A área de um triângulo equilátero de lado 4 é 4²√3/4 = 4√3 cm². Com 4 
 Um reservatório cônico invertido tem raio da base 3 m e altura 4 m. Quando o nível da água está a 2 m de altura (medida do vértice), qual fração do volume total do cone está ocupada?
 
 ### Opciones
-- [ ] A) 1/2 <!-- feedback: Incorreto: o volume não varia linearmente com a altura. -->
-- [x] B) 1/8 <!-- feedback: Correto: o cone de água é semelhante ao cone total com razão 2/4 = 1/2; o volume é (1/2)³ = 1/8 do total. -->
+- [ ] B) 1/2 <!-- feedback: Incorreto: o volume não varia linearmente com a altura. -->
+- [x] A) 1/8 <!-- feedback: Correto: o cone de água é semelhante ao cone total com razão 2/4 = 1/2; o volume é (1/2)³ = 1/8 do total. -->
 - [ ] C) 1/4 <!-- feedback: Incorreto: 1/4 seria a razão entre as áreas das seções. -->
 - [ ] D) 1/16 <!-- feedback: Incorreto: 1/16 seria (1/2)⁴. -->
 
@@ -391,9 +391,9 @@ O volume da pirâmide é V = (1/3) × área da base × altura = (1/3) × 6√3 �
 Um cone reto tem área lateral igual ao dobro da área de sua base. Qual é a relação entre a geratriz g e o raio r?
 
 ### Opciones
-- [x] A) g = 2r <!-- feedback: Correto: πrg = 2πr², logo g = 2r (o cone é equilátero). -->
-- [ ] B) g = r/2 <!-- feedback: Incorreto: g = r/2 faria a área lateral ser metade da base. -->
-- [ ] C) g = √2·r <!-- feedback: Incorreto: √2·r faria a área lateral ser √2 vezes a base. -->
+- [x] C) g = 2r <!-- feedback: Correto: πrg = 2πr², logo g = 2r (o cone é equilátero). -->
+- [ ] A) g = r/2 <!-- feedback: Incorreto: g = r/2 faria a área lateral ser metade da base. -->
+- [ ] B) g = √2·r <!-- feedback: Incorreto: √2·r faria a área lateral ser √2 vezes a base. -->
 - [ ] D) g = 4r <!-- feedback: Incorreto: g = 4r faria a área lateral ser 4 vezes a base. -->
 
 ### Explicacion Pedagogica

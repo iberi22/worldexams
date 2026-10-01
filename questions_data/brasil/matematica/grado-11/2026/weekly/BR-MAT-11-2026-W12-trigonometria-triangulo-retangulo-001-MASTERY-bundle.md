@@ -30,8 +30,8 @@ creador: "Jules-Agent"
 Em um triângulo retângulo, o seno de um ângulo agudo é definido como:
 
 ### Opciones
-- [ ] A) a razão entre o cateto adjacente e a hipotenusa <!-- feedback: Incorreto: essa é a definição do cosseno. -->
-- [x] B) a razão entre o cateto oposto e a hipotenusa <!-- feedback: Correto: seno = cateto oposto / hipotenusa. -->
+- [ ] B) a razão entre o cateto adjacente e a hipotenusa <!-- feedback: Incorreto: essa é a definição do cosseno. -->
+- [x] A) a razão entre o cateto oposto e a hipotenusa <!-- feedback: Correto: seno = cateto oposto / hipotenusa. -->
 - [ ] C) a razão entre o cateto oposto e o cateto adjacente <!-- feedback: Incorreto: essa é a definição da tangente. -->
 - [ ] D) a razão entre a hipotenusa e o cateto oposto <!-- feedback: Incorreto: essa é a definição da cossecante. -->
 
@@ -49,9 +49,9 @@ No triângulo retângulo, sen θ = (cateto oposto a θ) / (hipotenusa), cos θ =
 Qual é o valor de sen 30°?
 
 ### Opciones
-- [x] A) 1/2 <!-- feedback: Correto: sen 30° = 1/2. -->
-- [ ] B) √2/2 <!-- feedback: Incorreto: √2/2 é o seno de 45°. -->
-- [ ] C) √3/2 <!-- feedback: Incorreto: √3/2 é o seno de 60°. -->
+- [x] C) 1/2 <!-- feedback: Correto: sen 30° = 1/2. -->
+- [ ] A) √2/2 <!-- feedback: Incorreto: √2/2 é o seno de 45°. -->
+- [ ] B) √3/2 <!-- feedback: Incorreto: √3/2 é o seno de 60°. -->
 - [ ] D) 1 <!-- feedback: Incorreto: 1 é o seno de 90°. -->
 
 ### Explicacion Pedagogica
@@ -106,8 +106,8 @@ Pela relação fundamental da trigonometria, sen²θ + cos²θ = 1 para qualquer
 Em um triângulo retângulo, um dos ângulos agudos mede 30°. Qual é o valor de cos 30°?
 
 ### Opciones
-- [ ] A) 1/2 <!-- feedback: Incorreto: 1/2 é o seno de 30°. -->
-- [x] B) √3/2 <!-- feedback: Correto: cos 30° = √3/2. -->
+- [ ] B) 1/2 <!-- feedback: Incorreto: 1/2 é o seno de 30°. -->
+- [x] A) √3/2 <!-- feedback: Correto: cos 30° = √3/2. -->
 - [ ] C) √2/2 <!-- feedback: Incorreto: √2/2 é o cosseno de 45°. -->
 - [ ] D) √3/3 <!-- feedback: Incorreto: √3/3 é a tangente de 30°. -->
 
@@ -145,8 +145,8 @@ Uma árvore de 6 m projeta uma sombra no chão quando o sol está a 45° de elev
 
 ### Opciones
 - [ ] A) 3 m <!-- feedback: Incorreto: 3 seria o resultado para elevação de 60°. -->
-- [x] B) 6 m <!-- feedback: Correto: tan 45° = 1 = altura/sombra, logo sombra = 6 m. -->
-- [ ] C) 6√2 m <!-- feedback: Incorreto: 6√2 seria o raio ou a hipotenusa da configuração. -->
+- [x] C) 6 m <!-- feedback: Correto: tan 45° = 1 = altura/sombra, logo sombra = 6 m. -->
+- [ ] B) 6√2 m <!-- feedback: Incorreto: 6√2 seria o raio ou a hipotenusa da configuração. -->
 - [ ] D) 12 m <!-- feedback: Incorreto: 12 seria o resultado para elevação de 26,5° aproximadamente. -->
 
 ### Explicacion Pedagogica
@@ -165,8 +165,8 @@ Qual é o comprimento da rampa (hipotenusa) se a altura é 2 m e a inclinação 
 ### Opciones
 - [ ] A) 2√3 m <!-- feedback: Incorreto: 2√3 é o cateto adjacente (projeção horizontal). -->
 - [ ] B) 3 m <!-- feedback: Incorreto: 3 não corresponde a nenhuma razão de 30°. -->
-- [x] C) 4 m <!-- feedback: Correto: sen 30° = 2/hipotenusa, logo hipotenusa = 2/(1/2) = 4 m. -->
-- [ ] D) 2√2 m <!-- feedback: Incorreto: 2√2 seria o resultado para inclinação de 45°. -->
+- [x] D) 4 m <!-- feedback: Correto: sen 30° = 2/hipotenusa, logo hipotenusa = 2/(1/2) = 4 m. -->
+- [ ] C) 2√2 m <!-- feedback: Incorreto: 2√2 seria o resultado para inclinação de 45°. -->
 
 ### Explicacion Pedagogica
 Utilizando sen 30° = 1/2 e a relação sen 30° = altura/hipotenusa, obtemos 1/2 = 2/L, portanto L = 4 m.
@@ -183,9 +183,9 @@ Em um triângulo retângulo, os ângulos agudos são α e β. Sabendo que sen α
 
 ### Opciones
 - [ ] A) 4/5 <!-- feedback: Incorreto: 4/5 é o cosseno de α, não de β. -->
-- [x] B) 3/5 <!-- feedback: Correto: α e β são complementares, então cos β = sen α = 3/5. -->
-- [ ] C) 5/3 <!-- feedback: Incorreto: 5/3 é uma razão maior que 1, impossível para seno ou cosseno. -->
-- [ ] D) 3/4 <!-- feedback: Incorreto: 3/4 é a tangente de α. -->
+- [x] D) 3/5 <!-- feedback: Correto: α e β são complementares, então cos β = sen α = 3/5. -->
+- [ ] B) 5/3 <!-- feedback: Incorreto: 5/3 é uma razão maior que 1, impossível para seno ou cosseno. -->
+- [ ] C) 3/4 <!-- feedback: Incorreto: 3/4 é a tangente de α. -->
 
 ### Explicacion Pedagogica
 Em um triângulo retângulo, os ângulos agudos são complementares (α + β = 90°). Pela propriedade de complementaridade, cos β = sen(90° − β) = sen α = 3/5.
@@ -220,10 +220,10 @@ A tangente do ângulo de elevação relaciona a altura h com a distância horizo
 Um barco percorre 10 km em linha reta formando um ângulo de 60° com a linha da costa. Qual é a distância do barco à costa (cateto adjacente)?
 
 ### Opciones
-- [x] A) 5 km <!-- feedback: Correto: cos 60° = d/10, logo d = 10 × 1/2 = 5 km. -->
-- [ ] B) 5√3 km <!-- feedback: Incorreto: 5√3 seria obtido com sen 60°. -->
-- [ ] C) 10 km <!-- feedback: Incorreto: 10 km é a distância percorrida (hipotenusa). -->
-- [ ] D) 20 km <!-- feedback: Incorreto: 20 seria o resultado se o cosseno fosse 1/2 invertido. -->
+- [x] D) 5 km <!-- feedback: Correto: cos 60° = d/10, logo d = 10 × 1/2 = 5 km. -->
+- [ ] A) 5√3 km <!-- feedback: Incorreto: 5√3 seria obtido com sen 60°. -->
+- [ ] B) 10 km <!-- feedback: Incorreto: 10 km é a distância percorrida (hipotenusa). -->
+- [ ] C) 20 km <!-- feedback: Incorreto: 20 seria o resultado se o cosseno fosse 1/2 invertido. -->
 
 ### Explicacion Pedagogica
 O cosseno de 60° relaciona o cateto adjacente (distância à costa) com a hipotenusa: cos 60° = d/10. Como cos 60° = 1/2, d = 5 km.
@@ -239,9 +239,9 @@ O cosseno de 60° relaciona o cateto adjacente (distância à costa) com a hipot
 Um poste de 8 m é sustentado por um cabo esticado que forma 30° com o poste. Qual é o comprimento do cabo?
 
 ### Opciones
-- [ ] A) 4 m <!-- feedback: Incorreto: 4 seria o cateto oposto ao ângulo de 30° no triângulo interno. -->
-- [ ] B) 8√3 m <!-- feedback: Incorreto: 8√3 seria o cateto horizontal se o ângulo fosse com o chão. -->
-- [x] C) 16√3/3 m <!-- feedback: Correto: cos 30° = 8/cabo, logo cabo = 8/(√3/2) = 16/√3 = 16√3/3 m. -->
+- [ ] B) 4 m <!-- feedback: Incorreto: 4 seria o cateto oposto ao ângulo de 30° no triângulo interno. -->
+- [ ] C) 8√3 m <!-- feedback: Incorreto: 8√3 seria o cateto horizontal se o ângulo fosse com o chão. -->
+- [x] A) 16√3/3 m <!-- feedback: Correto: cos 30° = 8/cabo, logo cabo = 8/(√3/2) = 16/√3 = 16√3/3 m. -->
 - [ ] D) 16 m <!-- feedback: Incorreto: 16 seria o resultado se o ângulo com o poste fosse 60°. -->
 
 ### Explicacion Pedagogica
@@ -259,9 +259,9 @@ Em um triângulo retângulo, sen θ = 4/5. Qual é o valor de tan θ?
 
 ### Opciones
 - [ ] A) 3/4 <!-- feedback: Incorreto: 3/4 é a tangente do ângulo complementar. -->
-- [x] B) 4/3 <!-- feedback: Correto: cos θ = 3/5 (triângulo 3-4-5), logo tan θ = (4/5)/(3/5) = 4/3. -->
-- [ ] C) 5/4 <!-- feedback: Incorreto: 5/4 é a cossecante de θ, não a tangente. -->
-- [ ] D) 4/5 <!-- feedback: Incorreto: 4/5 é o seno de θ. -->
+- [x] D) 4/3 <!-- feedback: Correto: cos θ = 3/5 (triângulo 3-4-5), logo tan θ = (4/5)/(3/5) = 4/3. -->
+- [ ] B) 5/4 <!-- feedback: Incorreto: 5/4 é a cossecante de θ, não a tangente. -->
+- [ ] C) 4/5 <!-- feedback: Incorreto: 4/5 é o seno de θ. -->
 
 ### Explicacion Pedagogica
 Pelo teorema de Pitágoras, se sen θ = 4/5, o cateto adjacente mede 3 (triângulo 3-4-5), então cos θ = 3/5. Assim, tan θ = sen θ/cos θ = (4/5)/(3/5) = 4/3.
@@ -277,8 +277,8 @@ Pelo teorema de Pitágoras, se sen θ = 4/5, o cateto adjacente mede 3 (triângu
 Uma rampa A tem inclinação de 30° e outra rampa B tem inclinação de 45°, ambas com a mesma altura. Qual é a relação entre os comprimentos das rampas?
 
 ### Opciones
-- [ ] A) A rampa A é o dobro da rampa B <!-- feedback: Incorreto: sen 30° = 1/2 e sen 45° = √2/2, logo A/B = √2, não 2. -->
-- [x] B) A rampa A é √2 vezes maior que a rampa B <!-- feedback: Correto: L = h/sen θ, logo LA/LB = (sen 45°)/(sen 30°) = (√2/2)/(1/2) = √2. -->
+- [ ] B) A rampa A é o dobro da rampa B <!-- feedback: Incorreto: sen 30° = 1/2 e sen 45° = √2/2, logo A/B = √2, não 2. -->
+- [x] A) A rampa A é √2 vezes maior que a rampa B <!-- feedback: Correto: L = h/sen θ, logo LA/LB = (sen 45°)/(sen 30°) = (√2/2)/(1/2) = √2. -->
 - [ ] C) A rampa B é √2 vezes maior que a rampa A <!-- feedback: Incorreto: a rampa com menor inclinação é a mais longa. -->
 - [ ] D) As rampas têm o mesmo comprimento <!-- feedback: Incorreto: a inclinação altera o comprimento para a mesma altura. -->
 
@@ -353,10 +353,10 @@ Pela relação fundamental, cos²θ = 1 − (5/13)² = 1 − 25/169 = 144/169, l
 Em um triângulo retângulo, os ângulos agudos medem α e β, com α < β. Sabendo que sen α = 0,6, qual é o valor de cos β?
 
 ### Opciones
-- [x] A) 0,6 <!-- feedback: Correto: β = 90° − α, então cos β = sen α = 0,6. -->
-- [ ] B) 0,8 <!-- feedback: Incorreto: 0,8 é o cos α, não o cos β. -->
-- [ ] C) 0,75 <!-- feedback: Incorreto: 0,75 é a tangente de α. -->
-- [ ] D) 0,4 <!-- feedback: Incorreto: 0,4 não corresponde a nenhuma razão derivada de sen α = 0,6. -->
+- [x] D) 0,6 <!-- feedback: Correto: β = 90° − α, então cos β = sen α = 0,6. -->
+- [ ] A) 0,8 <!-- feedback: Incorreto: 0,8 é o cos α, não o cos β. -->
+- [ ] B) 0,75 <!-- feedback: Incorreto: 0,75 é a tangente de α. -->
+- [ ] C) 0,4 <!-- feedback: Incorreto: 0,4 não corresponde a nenhuma razão derivada de sen α = 0,6. -->
 
 ### Explicacion Pedagogica
 Os ângulos agudos do triângulo retângulo são complementares. Pela propriedade de complementaridade, cos β = cos(90° − α) = sen α = 0,6.
@@ -372,8 +372,8 @@ Os ângulos agudos do triângulo retângulo são complementares. Pela propriedad
 Um triângulo retângulo tem hipotenusa 10 cm e um dos ângulos agudos mede 60°. Qual é a área desse triângulo?
 
 ### Opciones
-- [x] A) 25√3/2 cm² <!-- feedback: Correto: catetos 5√3 e 5, área = (5√3 × 5)/2 = 25√3/2 cm². -->
-- [ ] B) 25√3/4 cm² <!-- feedback: Incorreto: este seria o resultado de dividir a área correta pela metade. -->
+- [x] B) 25√3/2 cm² <!-- feedback: Correto: catetos 5√3 e 5, área = (5√3 × 5)/2 = 25√3/2 cm². -->
+- [ ] A) 25√3/4 cm² <!-- feedback: Incorreto: este seria o resultado de dividir a área correta pela metade. -->
 - [ ] C) 25√3 cm² <!-- feedback: Incorreto: este seria o dobro da área correta. -->
 - [ ] D) 50 cm² <!-- feedback: Incorreto: 50 seria a área de um quadrado de lado 5√2. -->
 
@@ -391,8 +391,8 @@ Os catetos do triângulo são: cateto oposto a 60° = 10·sen 60° = 5√3, e ca
 Em um triângulo retângulo, os catetos medem 6 cm e 8 cm. Qual é o valor de tan θ, onde θ é o ângulo oposto ao cateto de 6 cm?
 
 ### Opciones
-- [x] A) 3/4 <!-- feedback: Correto: tan θ = cateto oposto/cateto adjacente = 6/8 = 3/4. -->
-- [ ] B) 4/3 <!-- feedback: Incorreto: 4/3 é a tangente do outro ângulo agudo. -->
+- [x] B) 3/4 <!-- feedback: Correto: tan θ = cateto oposto/cateto adjacente = 6/8 = 3/4. -->
+- [ ] A) 4/3 <!-- feedback: Incorreto: 4/3 é a tangente do outro ângulo agudo. -->
 - [ ] C) 3/5 <!-- feedback: Incorreto: 3/5 é o seno de θ. -->
 - [ ] D) 5/3 <!-- feedback: Incorreto: valor maior que 1, sem relação com os catetos dados. -->
 

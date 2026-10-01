@@ -34,9 +34,9 @@ Ahorro, presupuesto familiar, diferencia entre necesidades y deseos, y uso respo
 ¿Qué es el ahorro?
 
 ### Opciones
-- [x] A) Guardar una parte del dinero para usarla cuando se necesite en el futuro.
+- [x] B) Guardar una parte del dinero para usarla cuando se necesite en el futuro.
   <!-- feedback: El ahorro es reservar una porción de los ingresos para atender metas o imprevistos. -->
-- [ ] B) Gastar todo el dinero el mismo día que se recibe.
+- [ ] A) Gastar todo el dinero el mismo día que se recibe.
   <!-- feedback: Gastar todo de inmediato es lo contrario del ahorro. -->
 - [ ] C) Pedir dinero prestado para comprar lo que no se necesita.
   <!-- feedback: Endeudarse por deseos no necesarios dificulta el ahorro y aumenta las deudas. -->
@@ -80,9 +80,9 @@ Distinguir las necesidades básicas de los deseos al momento de decidir un gasto
 Si quiere aplicar el ahorro, ¿qué debería hacer primero?
 
 ### Opciones
-- [x] A) Anotar sus gastos, apartar una parte para ahorrar y gastar solo en lo necesario.
+- [x] B) Anotar sus gastos, apartar una parte para ahorrar y gastar solo en lo necesario.
   <!-- feedback: Ordenar los gastos y reservar antes de gastar es la base de un buen manejo del dinero. -->
-- [ ] B) Comprar primero todos los deseos y dejar lo necesario para después.
+- [ ] A) Comprar primero todos los deseos y dejar lo necesario para después.
   <!-- feedback: Gastar primero en deseos deja sin recursos para lo esencial. -->
 - [ ] C) Prestar el dinero a un amigo y olvidarse de que lo debe.
   <!-- feedback: Prestar sin registro ni acuerdos pone en riesgo el dinero y la amistad. -->
@@ -103,11 +103,11 @@ Aplicar pasos sencillos de organización del dinero para ahorrar en la vida coti
 ¿Para qué sirve elaborar un presupuesto familiar?
 
 ### Opciones
-- [x] A) Para saber cuánto se puede gastar y cuánto se puede ahorrar de forma ordenada.
+- [x] C) Para saber cuánto se puede gastar y cuánto se puede ahorrar de forma ordenada.
   <!-- feedback: El presupuesto orienta las decisiones y evita gastar más de lo que se recibe. -->
-- [ ] B) Para prohibir que la familia compre absolutamente cualquier cosa.
+- [ ] A) Para prohibir que la familia compre absolutamente cualquier cosa.
   <!-- feedback: El presupuesto organiza el gasto; no prohíbe toda compra. -->
-- [ ] C) Para aumentar por sí solo el sueldo de todos los integrantes.
+- [ ] B) Para aumentar por sí solo el sueldo de todos los integrantes.
   <!-- feedback: El presupuesto no aumenta los ingresos; ayuda a administrarlos mejor. -->
 - [ ] D) Para esconder el dinero de los demás integrantes de la familia.
   <!-- feedback: El presupuesto es un plan transparente, no una forma de ocultar el dinero. -->
@@ -126,11 +126,11 @@ Comprender la utilidad del presupuesto familiar para organizar ingresos y gastos
 ¿Cuánto dinero habrá ahorrado Ana en total?
 
 ### Opciones
-- [x] A) 10.000 pesos.
+- [x] C) 10.000 pesos.
   <!-- feedback: 2.000 pesos multiplicados por 5 días dan 10.000 pesos. -->
-- [ ] B) 7.000 pesos.
+- [ ] A) 7.000 pesos.
   <!-- feedback: 7.000 resultaría de sumar mal los días; el cálculo correcto es 2.000 por 5. -->
-- [ ] C) 2.000 pesos.
+- [ ] B) 2.000 pesos.
   <!-- feedback: 2.000 pesos es solo lo ahorrado en un día, no en los cinco. -->
 - [ ] D) 5.000 pesos.
   <!-- feedback: 5.000 pesos confunde el número de días con el monto diario. -->
@@ -149,9 +149,9 @@ Aplicar el cálculo del ahorro multiplicando el monto diario por el número de d
 ¿Qué consecuencia probable tendrá cada familia?
 
 ### Opciones
-- [x] A) La familia A podrá enfrentar imprevistos; la familia B acumulará deudas difíciles de pagar.
+- [x] B) La familia A podrá enfrentar imprevistos; la familia B acumulará deudas difíciles de pagar.
   <!-- feedback: Planear y ahorrar da estabilidad; gastar sin control y endeudarse genera dificultades. -->
-- [ ] B) Las dos familias terminarán con la misma cantidad de dinero.
+- [ ] A) Las dos familias terminarán con la misma cantidad de dinero.
   <!-- feedback: Sus hábitos financieros son distintos y producen resultados diferentes. -->
 - [ ] C) La familia B ahorrará más porque gasta sin pensar.
   <!-- feedback: Gastar sin pensar no produce ahorro, sino deudas. -->
@@ -172,11 +172,11 @@ Analizar cómo los hábitos de gasto y ahorro producen consecuencias distintas e
 ¿Cuál es la decisión más responsable con el presupuesto familiar?
 
 ### Opciones
-- [x] A) Posponer la compra de los zapatos y dar prioridad a los pagos necesarios.
+- [x] C) Posponer la compra de los zapatos y dar prioridad a los pagos necesarios.
   <!-- feedback: Cubrir primero las obligaciones básicas protege la estabilidad del hogar. -->
-- [ ] B) Comprar los zapatos de inmediato y dejar los pagos para después.
+- [ ] A) Comprar los zapatos de inmediato y dejar los pagos para después.
   <!-- feedback: Postergar pagos básicos por un deseo puede generar deudas y cortes de servicios. -->
-- [ ] C) Pedir un préstamo con intereses para comprar los zapatos.
+- [ ] B) Pedir un préstamo con intereses para comprar los zapatos.
   <!-- feedback: Endeudarse por un deseo aumenta el costo y complica el presupuesto. -->
 - [ ] D) Usar el dinero del arriendo para comprar los zapatos.
   <!-- feedback: Usar dinero destinado a la vivienda pone en riesgo el hogar. -->
@@ -195,13 +195,13 @@ Analizar prioridades de gasto para tomar decisiones responsables dentro del pres
 ¿Por qué es importante que las familias aprendan a ahorrar y a presupuestar?
 
 ### Opciones
-- [x] A) Porque les ayuda a cubrir sus necesidades, alcanzar metas y tener mayor estabilidad económica.
+- [x] D) Porque les ayuda a cubrir sus necesidades, alcanzar metas y tener mayor estabilidad económica.
   <!-- feedback: El ahorro y el presupuesto fortalecen la seguridad económica de la familia. -->
-- [ ] B) Porque así nunca tendrán que trabajar para conseguir dinero.
+- [ ] A) Porque así nunca tendrán que trabajar para conseguir dinero.
   <!-- feedback: El ahorro se construye con ingresos del trabajo; no reemplaza el empleo. -->
-- [ ] C) Porque ahorrar garantiza que no existan gastos inesperados.
+- [ ] B) Porque ahorrar garantiza que no existan gastos inesperados.
   <!-- feedback: Los imprevistos siempre pueden ocurrir; el ahorro ayuda a enfrentarlos, no a eliminarlos. -->
-- [ ] D) Porque el dinero ahorrado pierde todo su valor con el tiempo.
+- [ ] C) Porque el dinero ahorrado pierde todo su valor con el tiempo.
   <!-- feedback: El ahorro conserva recursos para el futuro y no los pierde por guardarlos. -->
 
 ### Explicacion Pedagogica

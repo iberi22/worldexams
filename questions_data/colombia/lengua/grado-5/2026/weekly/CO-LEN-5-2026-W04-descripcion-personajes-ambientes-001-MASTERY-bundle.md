@@ -30,13 +30,13 @@ Bundle semanal para identificar rasgos físicos, cualidades y detalles del ambie
 ### Enunciado
 Lee la descripción: "Mi abuela es bajita, de cabello blanco recogido y ojos alegres". Según el texto, ¿cómo es la abuela?
 ### Opciones
-- [x] A) Bajita, de cabello blanco recogido y ojos alegres.
+- [x] D) Bajita, de cabello blanco recogido y ojos alegres.
   <!-- feedback: Es correcta porque repite los tres rasgos que da la descripción. -->
-- [ ] B) Alta, de cabello negro y ojos tristes.
+- [ ] A) Alta, de cabello negro y ojos tristes.
   <!-- feedback: Es incorrecta porque cambia todos los rasgos del texto. -->
-- [ ] C) Una niña de trenzas que vive en Cali.
+- [ ] B) Una niña de trenzas que vive en Cali.
   <!-- feedback: Es incorrecta porque habla de una niña, no de la abuela. -->
-- [ ] D) Un señor pescador de Cartagena.
+- [ ] C) Un señor pescador de Cartagena.
   <!-- feedback: Es incorrecta porque no se menciona ningún pescador. -->
 ### Explicacion Pedagogica
 La descripción física reúne datos visibles como estatura, cabello y mirada. Recuperarlos de forma literal es la base para imaginar al personaje. Observar con detalle también mejora la comunicación oral.
@@ -50,11 +50,11 @@ La descripción física reúne datos visibles como estatura, cabello y mirada. R
 ### Enunciado
 Lee la descripción: "El patio es amplio, con árboles grandes, bancas de colores y una cancha pintada de blanco". ¿Qué se entiende del patio?
 ### Opciones
-- [x] A) Que es un lugar amplio y alegre con árboles, bancas y cancha.
+- [x] C) Que es un lugar amplio y alegre con árboles, bancas y cancha.
   <!-- feedback: Es correcta porque resume los detalles del ambiente con otras palabras. -->
-- [ ] B) Que es un salón pequeño y oscuro sin ventanas.
+- [ ] A) Que es un salón pequeño y oscuro sin ventanas.
   <!-- feedback: Es incorrecta porque describe un patio amplio, no un salón. -->
-- [ ] C) Que es una tienda con jugos y dulces.
+- [ ] B) Que es una tienda con jugos y dulces.
   <!-- feedback: Es incorrecta porque no se mencionan ventas ni productos. -->
 - [ ] D) Que es una calle con carros y ruido.
   <!-- feedback: Es incorrecta porque habla de árboles y bancas, no de tráfico. -->
@@ -70,9 +70,9 @@ Comprender una descripción del ambiente implica reunir los detalles del lugar e
 ### Enunciado
 Lee el fragmento: "Santiago llega corriendo a ayudar, comparte sus colores y anima a todos cuando están tristes". ¿Qué cualidad se deduce de Santiago?
 ### Opciones
-- [x] A) Que es solidario y alegre con sus compañeros.
+- [x] B) Que es solidario y alegre con sus compañeros.
   <!-- feedback: Es correcta porque ayudar, compartir y animar muestran solidaridad y alegría. -->
-- [ ] B) Que es egoísta y le gusta pelear.
+- [ ] A) Que es egoísta y le gusta pelear.
   <!-- feedback: Es incorrecta porque sus acciones son de ayuda, no de pelea. -->
 - [ ] C) Que es perezoso y nunca colabora.
   <!-- feedback: Es incorrecta porque llega corriendo a ayudar. -->
@@ -90,13 +90,13 @@ Las cualidades se infieren de las acciones: ayudar y compartir revelan solidarid
 ### Enunciado
 Lee el fragmento: "El cielo se puso naranja, la brisa era fresca y las olas sonaban suaves". ¿Qué ambiente se deduce del fragmento?
 ### Opciones
-- [x] A) Un ambiente tranquilo y hermoso al atardecer.
+- [x] D) Un ambiente tranquilo y hermoso al atardecer.
   <!-- feedback: Es correcta porque los colores, la brisa y el sonido suave crean calma. -->
-- [ ] B) Una tormenta peligrosa con vientos fuertes.
+- [ ] A) Una tormenta peligrosa con vientos fuertes.
   <!-- feedback: Es incorrecta porque las olas suaves y la brisa fresca no indican tormenta. -->
-- [ ] C) Una mañana fría y oscura de invierno.
+- [ ] B) Una mañana fría y oscura de invierno.
   <!-- feedback: Es incorrecta porque el cielo naranja indica atardecer, no mañana oscura. -->
-- [ ] D) Un mercado ruidoso lleno de gente.
+- [ ] C) Un mercado ruidoso lleno de gente.
   <!-- feedback: Es incorrecta porque no hay mención de ventas ni multitudes. -->
 ### Explicacion Pedagogica
 El ambiente se deduce de los detalles sensoriales: color, tacto y sonido. Aquí las tres pistas apuntan a la tranquilidad. Reconocer el ambiente también ayuda a crear atmósferas en cuentos propios.
@@ -110,13 +110,13 @@ El ambiente se deduce de los detalles sensoriales: color, tacto y sonido. Aquí 
 ### Enunciado
 Lee el fragmento: "La vendedora, una señora paciente de voz dulce, le explicó con calma que la devuelta era de 4000 pesos". ¿Qué se deduce de la vendedora y de la cuenta?
 ### Opciones
-- [x] A) Que es amable y la cuenta es correcta porque 10000 menos 6000 es 4000.
+- [x] D) Que es amable y la cuenta es correcta porque 10000 menos 6000 es 4000.
   <!-- feedback: Es correcta porque une la cualidad de paciente con la operación bien hecha. -->
-- [ ] B) Que es grosera y no devolvió nada.
+- [ ] A) Que es grosera y no devolvió nada.
   <!-- feedback: Es incorrecta porque explicó con calma y sí dio devuelta. -->
-- [ ] C) Que la devuelta era de 6000 pesos.
+- [ ] B) Que la devuelta era de 6000 pesos.
   <!-- feedback: Es incorrecta porque esa es la resta al revés. -->
-- [ ] D) Que Mariana pagó con monedas de 500 pesos.
+- [ ] C) Que Mariana pagó con monedas de 500 pesos.
   <!-- feedback: Es incorrecta porque pagó con un billete de 10000 pesos. -->
 ### Explicacion Pedagogica
 La descripción de la voz dulce y la calma permite inferir amabilidad, y la resta confirma la devuelta. Unir rasgos del personaje con datos numéricos también ejercita la atención y la comunicación respetuosa.
@@ -130,9 +130,9 @@ La descripción de la voz dulce y la calma permite inferir amabilidad, y la rest
 ### Enunciado
 Descripción 1: "Juan es alto". Descripción 2: "Juan es alto como un guadual joven, corre rápido y también ayuda a sus amigos". ¿Por qué la segunda descripción es mejor?
 ### Opciones
-- [x] A) Porque usa una comparación, una acción y una cualidad que lo muestran completo.
+- [x] B) Porque usa una comparación, una acción y una cualidad que lo muestran completo.
   <!-- feedback: Es correcta porque combina imagen, movimiento y valor humano. -->
-- [ ] B) Porque es más corta y no da detalles.
+- [ ] A) Porque es más corta y no da detalles.
   <!-- feedback: Es incorrecta porque es más larga y sí da detalles. -->
 - [ ] C) Porque repite la misma palabra muchas veces.
   <!-- feedback: Es incorrecta porque varía los recursos en vez de repetir. -->
@@ -150,9 +150,9 @@ Analizar descripciones enseña que los buenos retratos mezclan rasgos físicos, 
 ### Enunciado
 Ana dice: "El salón es frío y oscuro, con pupitres rotos". Luis dice: "El salón es luminoso y ordenado, con carteleras de colores". ¿Qué se analiza de estas descripciones?
 ### Opciones
-- [x] A) Que cada uno mira el mismo lugar con una actitud distinta.
+- [x] B) Que cada uno mira el mismo lugar con una actitud distinta.
   <!-- feedback: Es correcta porque el contraste muestra miradas opuestas sobre el mismo salón. -->
-- [ ] B) Que describen dos colegios de ciudades diferentes.
+- [ ] A) Que describen dos colegios de ciudades diferentes.
   <!-- feedback: Es incorrecta porque ambos hablan del mismo salón. -->
 - [ ] C) Que Ana y Luis escribieron exactamente lo mismo.
   <!-- feedback: Es incorrecta porque una visión es negativa y la otra positiva. -->
@@ -170,11 +170,11 @@ Las descripciones reflejan la mirada de quien escribe. Analizar el contraste rev
 ### Enunciado
 ¿Cuál descripción invita mejor a visitar la plaza?
 ### Opciones
-- [x] A) La plaza huele a frutas frescas, brilla con colores vivos y se escucha la risa de los vendedores que también ofrecen jugos naturales.
+- [x] C) La plaza huele a frutas frescas, brilla con colores vivos y se escucha la risa de los vendedores que también ofrecen jugos naturales.
   <!-- feedback: Es correcta porque usa olores, colores y sonidos que atraen al lector. -->
-- [ ] B) La plaza es un lugar.
+- [ ] A) La plaza es un lugar.
   <!-- feedback: Es incorrecta porque es demasiado breve y no despierta interés. -->
-- [ ] C) La plaza es fea, sucia y nadie debería ir.
+- [ ] B) La plaza es fea, sucia y nadie debería ir.
   <!-- feedback: Es incorrecta porque rechaza al lector en vez de invitarlo. -->
 - [ ] D) La plaza queda lejos y no tiene nada especial.
   <!-- feedback: Es incorrecta porque desanima la visita sin describir nada. -->

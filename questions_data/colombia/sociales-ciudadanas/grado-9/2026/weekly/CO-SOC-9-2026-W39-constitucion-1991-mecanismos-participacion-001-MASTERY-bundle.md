@@ -57,11 +57,11 @@ Identificación básica de la tipología de mecanismos institucionales de partic
 ¿Qué acción constitucional es la más adecuada para proteger los derechos colectivos al medio ambiente sano y a la salud pública de esa comunidad?
 
 ### Opciones
-- [x] A) La acción popular.
+- [x] C) La acción popular.
   <!-- feedback: ¡Correcto! La acción popular (Artículo 88) es el mecanismo constitucional diseñado para defender derechos e intereses colectivos como el medio ambiente sano. -->
-- [ ] B) El plebiscito municipal.
+- [ ] A) El plebiscito municipal.
   <!-- feedback: Incorrecto. El plebiscito es una consulta política convocada por el ejecutivo, no una acción de protección judicial. -->
-- [ ] C) La revocatoria del mandato.
+- [ ] B) La revocatoria del mandato.
   <!-- feedback: Incorrecto. No se trata de remover a un gobernante de su cargo sino de frenar una vulneración ambiental. -->
 - [ ] D) El juicio político.
   <!-- feedback: Incorrecto. El juicio político corresponde al Congreso frente a altos dignatarios. -->
@@ -80,11 +80,11 @@ Diferenciación de herramientas jurídicas de protección: las acciones populare
 ¿Por qué la Acción de Tutela es el mecanismo idóneo para proteger el derecho del estudiante?
 
 ### Opciones
-- [x] A) Porque la tutela es un mecanismo preferente y sumario que protege de forma inmediata los derechos fundamentales amenazados o vulnerados.
+- [x] C) Porque la tutela es un mecanismo preferente y sumario que protege de forma inmediata los derechos fundamentales amenazados o vulnerados.
   <!-- feedback: ¡Correcto! La educación de un menor es un derecho fundamental tutelable de respuesta rápida (10 días). -->
-- [ ] B) Porque la tutela requiere reunir la firma del 10% del censo electoral.
+- [ ] A) Porque la tutela requiere reunir la firma del 10% del censo electoral.
   <!-- feedback: Incorrecto. La tutela no requiere recolección masiva de firmas ni respaldos electorales. -->
-- [ ] C) Porque con la tutela se aprueban nuevas leyes en el Congreso.
+- [ ] B) Porque con la tutela se aprueban nuevas leyes en el Congreso.
   <!-- feedback: Incorrecto. La tutela es un mecanismo judicial de amparo individual, no legislativo. -->
 - [ ] D) Porque la tutela solo la pueden presentar los alcaldes municipales.
   <!-- feedback: Incorrecto. Cualquier persona puede interponer una tutela por sí misma o mediante apoderado. -->
@@ -103,9 +103,9 @@ Comprensión de las características de la Acción de Tutela (artículo 86) como
 ¿A qué mecanismo de participación democrática se refiere esta acción constitucional?
 
 ### Opciones
-- [x] A) Plebiscito.
+- [x] B) Plebiscito.
   <!-- feedback: ¡Correcto! El plebiscito es el pronunciamiento del pueblo convocado por el Presidente para apoyar o rechazar una decisión del Ejecutivo. -->
-- [ ] B) Referendo aprobatorio.
+- [ ] A) Referendo aprobatorio.
   <!-- feedback: Incorrecto. El referendo se utiliza para someter un texto normativo o proyecto de ley a aprobación o derogación. -->
 - [ ] C) Cabildo abierto.
   <!-- feedback: Incorrecto. El cabildo abierto es una reunión pública de los concejos municipales o juntas administradoras locales con los vecinos. -->
@@ -172,13 +172,13 @@ Reconocimiento del rol activo de la ciudadanía en la producción normativa medi
 ¿Qué ventaja ofrece el Cabildo Abierto frente a una reunión técnica cerrada?
 
 ### Opciones
-- [x] A) Permite que los habitantes del municipio participen directamente en el debate público institucional exponiendo sus inquietudes ante los concejales.
+- [x] D) Permite que los habitantes del municipio participen directamente en el debate público institucional exponiendo sus inquietudes ante los concejales.
   <!-- feedback: ¡Correcto! El cabildo abierto es la reunión pública de los concejos o JAL donde los residentes pueden discutir asuntos de interés comunitario. -->
-- [ ] B) Otorga poder al alcalde para aprobar presupuestos sin pasar por el Concejo.
+- [ ] A) Otorga poder al alcalde para aprobar presupuestos sin pasar por el Concejo.
   <!-- feedback: Incorrecto. El cabildo no concentra poder en el alcalde, promueve la deliberación ciudadana. -->
-- [ ] C) Anula la Constitución Política en el territorio municipal.
+- [ ] B) Anula la Constitución Política en el territorio municipal.
   <!-- feedback: Incorrecto. El cabildo es una figura plenamente enmarcada en la Constitución. -->
-- [ ] D) Obliga a los ingenieros a renunciar a sus salarios.
+- [ ] C) Obliga a los ingenieros a renunciar a sus salarios.
   <!-- feedback: Incorrecto. No tiene ninguna relación con los contratos laborales de los ingenieros. -->
 
 ### Explicacion Pedagogica
@@ -195,11 +195,11 @@ Análisis comparativo de la deliberación democrática participativa (Cabildo Ab
 ¿Cuál es la diferencia fundamental entre la democracia representativa y la democracia participativa?
 
 ### Opciones
-- [x] A) En la representativa el ciudadano se limita a elegir gobernantes en las urnas; en la participativa interviene activamente en las decisiones que lo afectan.
+- [x] C) En la representativa el ciudadano se limita a elegir gobernantes en las urnas; en la participativa interviene activamente en las decisiones que lo afectan.
   <!-- feedback: ¡Correcto! La democracia participativa otorga herramientas constantes (tutela, consultas, cabildos) más allá del voto periódico electoral. -->
-- [ ] B) En la representativa no hay elecciones y en la participativa gobierna la fuerza militar.
+- [ ] A) En la representativa no hay elecciones y en la participativa gobierna la fuerza militar.
   <!-- feedback: Incorrecto. Ambas formas democráticas repudian el gobierno militar y exigen elecciones. -->
-- [ ] C) En la participativa solo votan los senadores y en la representativa solo los presidentes.
+- [ ] B) En la participativa solo votan los senadores y en la representativa solo los presidentes.
   <!-- feedback: Incorrecto. La participación abarca el conjunto del censo ciudadano. -->
 - [ ] D) No existe ninguna diferencia, son términos exactamente sinónimos en derecho constitucional.
   <!-- feedback: Incorrecto. Representan dos paradigmas diferenciados de la relación Estado-Ciudadanía. -->
@@ -218,13 +218,13 @@ Análisis de la evolución histórica y conceptual del modelo constitucional de 
 ¿Qué acción constitucional o jurídica procede para que un juez ordene a la entidad responder y proteger la salud de la ciudadana?
 
 ### Opciones
-- [x] A) Acción de Tutela por vulneración del Derecho de Petición en conexión con la Salud.
+- [x] D) Acción de Tutela por vulneración del Derecho de Petición en conexión con la Salud.
   <!-- feedback: ¡Correcto! La jurisprudencia constitucional tutela la falta de respuesta a peticiones cuando vulnera derechos fundamentales. -->
-- [ ] B) Convocatoria a una huelga general de estudiantes de noveno grado.
+- [ ] A) Convocatoria a una huelga general de estudiantes de noveno grado.
   <!-- feedback: Incorrecto. La huelga escolar no es el mecanismo jurídico para ordenar a una entidad de salud responder peticiones. -->
-- [ ] C) Iniciar una revocatoria del mandato al Presidente de la República.
+- [ ] B) Iniciar una revocatoria del mandato al Presidente de la República.
   <!-- feedback: Incorrecto. La revocatoria no aplica para la Presidencia ni resuelve una petición particular. -->
-- [ ] D) Solicitar un referendo constitucional para cambiar el idioma oficial.
+- [ ] C) Solicitar un referendo constitucional para cambiar el idioma oficial.
   <!-- feedback: Incorrecto. No tiene pertinencia con la pretensión de amparo individual. -->
 
 ### Explicacion Pedagogica
@@ -243,13 +243,13 @@ Articulación pragmática de las garantías constitucionales ante la ineficienci
 ¿Qué tensión constitucional entre principios del Estado colombiano evidencia este choque de posturas?
 
 ### Opciones
-- [x] A) La tensión entre la autonomía de las entidades territoriales y la centralización política de la Nación (Estado unitario).
+- [x] D) La tensión entre la autonomía de las entidades territoriales y la centralización política de la Nación (Estado unitario).
   <!-- feedback: ¡Excelente! Corresponde al debate de fondo resuelto por la Corte Constitucional sobre la coordinación entre municipios y el nivel nacional. -->
-- [ ] B) La tensión entre declarar la guerra a países vecinos o firmar tratados comerciales.
+- [ ] A) La tensión entre declarar la guerra a países vecinos o firmar tratados comerciales.
   <!-- feedback: Incorrecto. El conflicto abordado es interno e institucional (municipio vs. nación). -->
-- [ ] C) La tensión entre usar uniforme escolar o ropa particular en colegios privados.
+- [ ] B) La tensión entre usar uniforme escolar o ropa particular en colegios privados.
   <!-- feedback: Incorrecto. Esta opción no atañe a las competencias constitucionales extractivas del Estado. -->
-- [ ] D) La incompatibilidad absoluta entre la democracia y el cobro de impuestos.
+- [ ] C) La incompatibilidad absoluta entre la democracia y el cobro de impuestos.
   <!-- feedback: Incorrecto. La democracia fiscal es un pilar del Estado constitucional. -->
 
 ### Explicacion Pedagogica
@@ -266,9 +266,9 @@ Evaluación crítica de dilemas constitucionales estructurales: Autonomía terri
 ¿Cuál de las siguientes afirmaciones evalúa críticamente el impacto del abstencionismo elevado en la legitimidad democrática?
 
 ### Opciones
-- [x] A) El abstencionismo debilita la representatividad de las decisiones públicas y permite que minorías organizadas decidan sobre el destino de toda la colectividad.
+- [x] B) El abstencionismo debilita la representatividad de las decisiones públicas y permite que minorías organizadas decidan sobre el destino de toda la colectividad.
   <!-- feedback: ¡Excelente! La falta de participación ciudadana socava la base de legitimidad de las políticas e instituciones democráticas. -->
-- [ ] B) El abstencionismo es ideal porque le ahorra dinero al presupuesto del Estado en impresiones de tarjetones.
+- [ ] A) El abstencionismo es ideal porque le ahorra dinero al presupuesto del Estado en impresiones de tarjetones.
   <!-- feedback: Incorrecto. Considerar la apatía democrática como algo positivo contradice el espíritu de la Constitución. -->
 - [ ] C) El abstencionismo demuestra que la ciudadanía no necesita leyes ni normas de convivencia.
   <!-- feedback: Incorrecto. Confunde la desafección electoral con la inexistencia de normas sociales. -->

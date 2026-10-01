@@ -31,9 +31,9 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) ax + b = 0 <!-- feedback: Esta es la forma de una ecuación lineal de primer grado. -->
-- [x] B) ax² + bx + c = 0 <!-- feedback: Forma estándar donde a, b y c son coeficientes reales y a ≠ 0. -->
-- [ ] C) ax³ + bx² + cx + d = 0 <!-- feedback: Esta es la forma de una ecuación cúbica (tercer grado). -->
-- [ ] D) x² + y² = r² <!-- feedback: Esta es la ecuación de una circunferencia en el plano cartesiano. -->
+- [x] D) ax² + bx + c = 0 <!-- feedback: Forma estándar donde a, b y c son coeficientes reales y a ≠ 0. -->
+- [ ] B) ax³ + bx² + cx + d = 0 <!-- feedback: Esta es la forma de una ecuación cúbica (tercer grado). -->
+- [ ] C) x² + y² = r² <!-- feedback: Esta es la ecuación de una circunferencia en el plano cartesiano. -->
 
 ### Explicacion Pedagogica
 Una ecuación cuadrática o de segundo grado se caracteriza por tener la incógnita elevada al cuadrado como su mayor exponente. La forma general o estándar es ax² + bx + c = 0, donde "a" es el coeficiente cuadrático, "b" el lineal y "c" el término independiente.
@@ -74,8 +74,8 @@ En la fórmula general x = [-b ± √(b² - 4ac)] / 2a, ¿cómo se le llama a la
 ### Opciones
 - [ ] A) Radicando simple. <!-- feedback: Nombre genérico para lo que está dentro de una raíz. -->
 - [ ] B) Factor común. <!-- feedback: Concepto de factorización, no de la fórmula general. -->
-- [x] C) Discriminante. <!-- feedback: Su valor determina el número y tipo de soluciones de la ecuación. -->
-- [ ] D) Vértice. <!-- feedback: Es el punto máximo o mínimo de la parábola, no una parte de la fórmula. -->
+- [x] D) Discriminante. <!-- feedback: Su valor determina el número y tipo de soluciones de la ecuación. -->
+- [ ] C) Vértice. <!-- feedback: Es el punto máximo o mínimo de la parábola, no una parte de la fórmula. -->
 
 ### Explicacion Pedagogica
 La expresión dentro de la raíz cuadrada en la fórmula general se denomina discriminante (denotado por Δ o D). Es fundamental porque nos indica si la ecuación tiene dos soluciones reales distintas (D > 0), una solución real única (D = 0) o ninguna solución real (D < 0).
@@ -114,9 +114,9 @@ Para resolver x² - 49 = 0, despejamos x²: x² = 49. Al aplicar raíz cuadrada 
 ¿Cuál es la medida del ancho del estanque?
 
 ### Opciones
-- [x] A) 10 metros <!-- feedback: x * 2x = 200; 2x² = 200; x² = 100; x = 10. -->
-- [ ] B) 20 metros <!-- feedback: Este sería el largo (2x). -->
-- [ ] C) 14.14 metros <!-- feedback: Error al no considerar que el largo es el doble del ancho. -->
+- [x] C) 10 metros <!-- feedback: x * 2x = 200; 2x² = 200; x² = 100; x = 10. -->
+- [ ] A) 20 metros <!-- feedback: Este sería el largo (2x). -->
+- [ ] B) 14.14 metros <!-- feedback: Error al no considerar que el largo es el doble del ancho. -->
 - [ ] D) 100 metros <!-- feedback: Error de cálculo en la resolución de la ecuación. -->
 
 ### Explicacion Pedagogica
@@ -157,8 +157,8 @@ Buscamos dos números que multiplicados den 6 y sumados den -5. Esos números so
 
 ### Opciones
 - [ ] A) Dos soluciones reales distintas. <!-- feedback: Requiere discriminante mayor a cero. -->
-- [x] B) Una única solución real. <!-- feedback: El discriminante es (-4)² - 4(1)(4) = 16 - 16 = 0. -->
-- [ ] C) Ninguna solución real. <!-- feedback: Requiere discriminante negativo. -->
+- [x] C) Una única solución real. <!-- feedback: El discriminante es (-4)² - 4(1)(4) = 16 - 16 = 0. -->
+- [ ] B) Ninguna solución real. <!-- feedback: Requiere discriminante negativo. -->
 - [ ] D) Infinitas soluciones. <!-- feedback: Las ecuaciones cuadráticas no pueden tener infinitas soluciones. -->
 
 ### Explicacion Pedagogica
@@ -178,8 +178,8 @@ Calculamos el discriminante D = b² - 4ac. Aquí a=1, b=-4, c=4. D = (-4)² - 4(
 
 ### Opciones
 - [ ] A) 2 segundos <!-- feedback: Este es el tiempo en el que alcanza la altura máxima (vértice). -->
-- [x] B) 4 segundos <!-- feedback: -5t² + 20t = 0; -5t(t - 4) = 0; t=0 (salida) y t=4 (regreso). -->
-- [ ] C) 20 segundos <!-- feedback: Error en el despeje de la ecuación cuadrática. -->
+- [x] C) 4 segundos <!-- feedback: -5t² + 20t = 0; -5t(t - 4) = 0; t=0 (salida) y t=4 (regreso). -->
+- [ ] B) 20 segundos <!-- feedback: Error en el despeje de la ecuación cuadrática. -->
 - [ ] D) 5 segundos <!-- feedback: Cálculo incorrecto de las raíces. -->
 
 ### Explicacion Pedagogica
@@ -199,8 +199,8 @@ Si en la función f(x) = ax² + bx + c, el valor de "a" es negativo, ¿qué pode
 
 ### Opciones
 - [ ] A) Se encuentra en el origen (0,0). <!-- feedback: Esto solo ocurre si b y c son cero. -->
-- [ ] B) Es el punto mínimo de la función. <!-- feedback: Esto ocurre si a es positivo (abre hacia arriba). -->
-- [x] C) Es el punto máximo de la función. <!-- feedback: Si a es negativo, la parábola abre hacia abajo y el vértice es el punto más alto. -->
+- [ ] C) Es el punto mínimo de la función. <!-- feedback: Esto ocurre si a es positivo (abre hacia arriba). -->
+- [x] B) Es el punto máximo de la función. <!-- feedback: Si a es negativo, la parábola abre hacia abajo y el vértice es el punto más alto. -->
 - [ ] D) La parábola no tiene vértice. <!-- feedback: Todas las parábolas tienen un vértice. -->
 
 ### Explicacion Pedagogica
@@ -241,8 +241,8 @@ Planteamos la ecuación: x² = 8x. Movemos todos los términos a un lado: x² - 
 
 ### Opciones
 - [ ] A) 2 <!-- feedback: 2(2)² - 7(2) + 3 = 8 - 14 + 3 = -3. No es raíz. -->
-- [x] B) 3 <!-- feedback: x = [7 ± √(49 - 24)] / 4 = [7 ± 5] / 4. x₁ = 12/4 = 3. -->
-- [ ] C) 0.5 <!-- feedback: Esta es la segunda raíz (x₂ = 2/4 = 0.5), pero no la que aparece como principal. -->
+- [x] C) 3 <!-- feedback: x = [7 ± √(49 - 24)] / 4 = [7 ± 5] / 4. x₁ = 12/4 = 3. -->
+- [ ] B) 0.5 <!-- feedback: Esta es la segunda raíz (x₂ = 2/4 = 0.5), pero no la que aparece como principal. -->
 - [ ] D) -3 <!-- feedback: Error de signo en la aplicación de la fórmula. -->
 
 ### Explicacion Pedagogica
@@ -303,8 +303,8 @@ La coordenada x del vértice de una parábola f(x) = ax² + bx + c se calcula me
 Resuelve la ecuación: 3x² + 12x = 0
 
 ### Opciones
-- [ ] A) x = 0, x = 4 <!-- feedback: Error de signo al despejar el factor (x+4). -->
-- [x] B) x = 0, x = -4 <!-- feedback: 3x(x + 4) = 0; x = 0 y x + 4 = 0. -->
+- [ ] B) x = 0, x = 4 <!-- feedback: Error de signo al despejar el factor (x+4). -->
+- [x] A) x = 0, x = -4 <!-- feedback: 3x(x + 4) = 0; x = 0 y x + 4 = 0. -->
 - [ ] C) x = 2, x = -2 <!-- feedback: Esta sería la solución si fuera una diferencia de cuadrados. -->
 - [ ] D) No tiene solución. <!-- feedback: Las ecuaciones incompletas mixtas siempre tienen solución (una de ellas es cero). -->
 
@@ -325,8 +325,8 @@ En la ecuación x² - kx + 9 = 0, ¿qué valores puede tomar k para que el siste
 
 ### Opciones
 - [ ] A) Solo k = 6 <!-- feedback: También se debe considerar el valor negativo. -->
-- [ ] B) k = 3, k = -3 <!-- feedback: Error al no elevar al cuadrado correctamente en el discriminante. -->
-- [x] C) k = 6, k = -6 <!-- feedback: D = k² - 4(1)(9) = k² - 36. Para D=0, k²=36. -->
+- [ ] C) k = 3, k = -3 <!-- feedback: Error al no elevar al cuadrado correctamente en el discriminante. -->
+- [x] B) k = 6, k = -6 <!-- feedback: D = k² - 4(1)(9) = k² - 36. Para D=0, k²=36. -->
 - [ ] D) k = 0 <!-- feedback: Si k=0, x²+9=0 no tiene soluciones reales. -->
 
 ### Explicacion Pedagogica
@@ -346,8 +346,8 @@ Dada la ecuación x² + 5x + 4 = 0, ¿cuál es el producto de sus raíces (x₁ 
 
 ### Opciones
 - [ ] A) -5 <!-- feedback: Esta es la suma de las raíces (-b/a). -->
-- [ ] B) 5 <!-- feedback: Error de signo en la relación de la suma. -->
-- [x] C) 4 <!-- feedback: El producto de las raíces es igual a c/a. -->
+- [ ] C) 5 <!-- feedback: Error de signo en la relación de la suma. -->
+- [x] B) 4 <!-- feedback: El producto de las raíces es igual a c/a. -->
 - [ ] D) -4 <!-- feedback: Error de signo en la relación del producto. -->
 
 ### Explicacion Pedagogica
@@ -409,8 +409,8 @@ El marco rodea la foto por los cuatro costados. Si el ancho del marco es x, la n
 
 ### Opciones
 - [ ] A) x = 5, x = -5 <!-- feedback: Estas serían soluciones para x² - 25 = 0. -->
-- [x] B) x = 5i, x = -5i <!-- feedback: x² = -25; x = ±√(-25) = ±5i. -->
-- [ ] C) No tiene solución. <!-- feedback: No tiene solución real, pero sí en los complejos. -->
+- [x] C) x = 5i, x = -5i <!-- feedback: x² = -25; x = ±√(-25) = ±5i. -->
+- [ ] B) No tiene solución. <!-- feedback: No tiene solución real, pero sí en los complejos. -->
 - [ ] D) x = 25i, x = -25i <!-- feedback: Error al no extraer la raíz de 25. -->
 
 ### Explicacion Pedagogica
@@ -430,9 +430,9 @@ Despejamos x²: x² = -25. Al extraer la raíz cuadrada, obtenemos x = ±√(-25
 
 ### Opciones
 - [ ] A) 4 + √13 <!-- feedback: El 13 debe restarse tras completar el cuadrado. -->
-- [x] B) 4 + √3 <!-- feedback: (x-4)² - 16 + 13 = 0; (x-4)² = 3; x-4 = ±√3. -->
-- [ ] C) 8 + √3 <!-- feedback: Error al determinar la mitad del coeficiente lineal. -->
-- [ ] D) 4 + 3 <!-- feedback: Error al no extraer la raíz del resultado. -->
+- [x] D) 4 + √3 <!-- feedback: (x-4)² - 16 + 13 = 0; (x-4)² = 3; x-4 = ±√3. -->
+- [ ] B) 8 + √3 <!-- feedback: Error al determinar la mitad del coeficiente lineal. -->
+- [ ] C) 4 + 3 <!-- feedback: Error al no extraer la raíz del resultado. -->
 
 ### Explicacion Pedagogica
 Para completar el cuadrado: tomamos la mitad de -8, que es -4, y elevamos al cuadrado (16). Escribimos: (x - 4)² - 16 + 13 = 0. Simplificamos: (x - 4)² - 3 = 0 \rightarrow (x - 4)² = 3. Despejamos x: x - 4 = ±√3 \rightarrow x = 4 ± √3.

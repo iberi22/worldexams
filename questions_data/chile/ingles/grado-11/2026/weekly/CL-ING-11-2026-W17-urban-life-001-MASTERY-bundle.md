@@ -36,9 +36,9 @@ Public transportation systems like the metro or buses are essential for reducing
 
 ### Opciones
 - [ ] A) isolation <!-- feedback: Incorrect. Public trans connects people. -->
-- [x] B) congestion <!-- feedback: Correct. Congestion is the state of being overcrowded with traffic. -->
-- [ ] C) speed <!-- feedback: Incorrect. It aims to increase speed by reducing congestion. -->
-- [ ] D) ruralization <!-- feedback: Incorrect. This refers to the country, not the city. -->
+- [x] D) congestion <!-- feedback: Correct. Congestion is the state of being overcrowded with traffic. -->
+- [ ] B) speed <!-- feedback: Incorrect. It aims to increase speed by reducing congestion. -->
+- [ ] C) ruralization <!-- feedback: Incorrect. This refers to the country, not the city. -->
 
 ### Explicacion Pedagogica
 'Congestion' is the standard term for the overcrowding of traffic or people in urban areas.
@@ -55,8 +55,8 @@ Public transportation systems like the metro or buses are essential for reducing
 The population of this city has been growing at an unprecedented rate for the last ten years.
 
 ### Opciones
-- [ ] A) grows <!-- feedback: Incorrect. Present simple. -->
-- [x] B) has been growing <!-- feedback: Correct. Present perfect continuous for a trend starting in the past and continuing. -->
+- [ ] B) grows <!-- feedback: Incorrect. Present simple. -->
+- [x] A) has been growing <!-- feedback: Correct. Present perfect continuous for a trend starting in the past and continuing. -->
 - [ ] C) grew <!-- feedback: Incorrect. Past simple. -->
 - [ ] D) will grow <!-- feedback: Incorrect. Simple future. -->
 
@@ -76,9 +76,9 @@ If the city had invested more in green spaces, urban heat islands wouldn't be su
 
 ### Opciones
 - [ ] A) invested <!-- feedback: Incorrect. Second conditional. -->
-- [x] B) had invested <!-- feedback: Correct. Mixed conditional (past action, present result). -->
-- [ ] C) has invested <!-- feedback: Incorrect. Present perfect. -->
-- [ ] D) would invest <!-- feedback: Incorrect. 'Would' not used in 'if' clause. -->
+- [x] D) had invested <!-- feedback: Correct. Mixed conditional (past action, present result). -->
+- [ ] B) has invested <!-- feedback: Incorrect. Present perfect. -->
+- [ ] C) would invest <!-- feedback: Incorrect. 'Would' not used in 'if' clause. -->
 
 ### Explicacion Pedagogica
 The mixed conditional (if + past perfect, would + verb) connects a past failure to invest with a current negative situation.
@@ -95,9 +95,9 @@ The mixed conditional (if + past perfect, would + verb) connects a past failure 
 Gentrification occurs when the character of a poor urban area is changed by wealthier people moving in, improving housing and attracting new businesses.
 
 ### Opciones
-- [x] A) Gentrification <!-- feedback: Correct. Specific term for the process described. -->
-- [ ] B) Urbanization <!-- feedback: Incorrect. Broad term for city growth. -->
-- [ ] C) Migration <!-- feedback: Incorrect. Broad term for moving. -->
+- [x] C) Gentrification <!-- feedback: Correct. Specific term for the process described. -->
+- [ ] A) Urbanization <!-- feedback: Incorrect. Broad term for city growth. -->
+- [ ] B) Migration <!-- feedback: Incorrect. Broad term for moving. -->
 - [ ] D) Renovation <!-- feedback: Incorrect. Part of the process, but not the whole sociological term. -->
 
 ### Explicacion Pedagogica
@@ -116,8 +116,8 @@ The primary disadvantage of urban sprawl is the increased dependence on cars and
 
 ### Opciones
 - [ ] A) concentration <!-- feedback: Incorrect. Sprawl is the opposite of concentration. -->
-- [x] B) sprawl <!-- feedback: Correct. Urban sprawl is the outward expansion of cities. -->
-- [ ] C) density <!-- feedback: Incorrect. Sprawl leads to low density. -->
+- [x] C) sprawl <!-- feedback: Correct. Urban sprawl is the outward expansion of cities. -->
+- [ ] B) density <!-- feedback: Incorrect. Sprawl leads to low density. -->
 - [ ] D) unity <!-- feedback: Incorrect. Sprawl often separates communities. -->
 
 ### Explicacion Pedagogica
@@ -195,8 +195,8 @@ The lack of affordable housing is a major challenge for many young professionals
 He is getting used to the noise and hustle of city life after moving from a small town.
 
 ### Opciones
-- [ ] A) is used to <!-- feedback: Incorrect. This means he is already accustomed; 'getting used to' shows the process. -->
-- [x] B) is getting used to <!-- feedback: Correct. 'Be getting used to' describes the process of becoming accustomed. -->
+- [ ] B) is used to <!-- feedback: Incorrect. This means he is already accustomed; 'getting used to' shows the process. -->
+- [x] A) is getting used to <!-- feedback: Correct. 'Be getting used to' describes the process of becoming accustomed. -->
 - [ ] C) used to <!-- feedback: Incorrect. Refers to a past habit. -->
 - [ ] D) gets used to <!-- feedback: Incorrect. Simple present doesn't show the current process. -->
 
@@ -215,8 +215,8 @@ He is getting used to the noise and hustle of city life after moving from a smal
 The author uses the term "concrete jungle" to describe cities that lack sufficient vegetation and feel harsh or inhospitable.
 
 ### Opciones
-- [ ] A) oasis <!-- feedback: Incorrect. An oasis is a fertile spot in a desert. -->
-- [x] B) concrete jungle <!-- feedback: Correct. Metaphor for an unpleasant, crowded city environment. -->
+- [ ] B) oasis <!-- feedback: Incorrect. An oasis is a fertile spot in a desert. -->
+- [x] A) concrete jungle <!-- feedback: Correct. Metaphor for an unpleasant, crowded city environment. -->
 - [ ] C) paradise <!-- feedback: Incorrect. Opposite meaning. -->
 - [ ] D) playground <!-- feedback: Incorrect. Focuses on fun rather than the harshness. -->
 
@@ -236,8 +236,8 @@ A commuter is a person who travels some distance to work on a regular basis.
 
 ### Opciones
 - [ ] A) tourist <!-- feedback: Incorrect. Travels for pleasure. -->
-- [x] B) commuter <!-- feedback: Correct. Travels for work. -->
-- [ ] C) resident <!-- feedback: Incorrect. Just lives there, doesn't necessarily travel. -->
+- [x] C) commuter <!-- feedback: Correct. Travels for work. -->
+- [ ] B) resident <!-- feedback: Incorrect. Just lives there, doesn't necessarily travel. -->
 - [ ] D) native <!-- feedback: Incorrect. Born there. -->
 
 ### Explicacion Pedagogica
@@ -256,8 +256,8 @@ The old shipyard has been transformed into a vibrant cultural hub.
 
 ### Opciones
 - [ ] A) has transformed <!-- feedback: Incorrect. Active voice. -->
-- [x] B) has been transformed <!-- feedback: Correct. Present perfect passive for a completed change with present result. -->
-- [ ] C) is transforming <!-- feedback: Incorrect. Active voice. -->
+- [x] C) has been transformed <!-- feedback: Correct. Present perfect passive for a completed change with present result. -->
+- [ ] B) is transforming <!-- feedback: Incorrect. Active voice. -->
 - [ ] D) transforms <!-- feedback: Incorrect. Simple present. -->
 
 ### Explicacion Pedagogica
@@ -275,10 +275,10 @@ The present perfect passive describes a completed process of change that defines
 The cosmopolitan nature of the city is reflected in its diverse population and international cuisine.
 
 ### Opciones
-- [x] A) cosmopolitan <!-- feedback: Correct. Cosmopolitan means containing people from many different countries. -->
-- [ ] B) provincial <!-- feedback: Incorrect. Provincial means narrow-minded or typical of a province. -->
-- [ ] C) isolated <!-- feedback: Incorrect. Isolation is the opposite of cosmopolitanism. -->
-- [ ] D) homogeneous <!-- feedback: Incorrect. Homogeneous means all the same. -->
+- [x] D) cosmopolitan <!-- feedback: Correct. Cosmopolitan means containing people from many different countries. -->
+- [ ] A) provincial <!-- feedback: Incorrect. Provincial means narrow-minded or typical of a province. -->
+- [ ] B) isolated <!-- feedback: Incorrect. Isolation is the opposite of cosmopolitanism. -->
+- [ ] C) homogeneous <!-- feedback: Incorrect. Homogeneous means all the same. -->
 
 ### Explicacion Pedagogica
 'Cosmopolitan' is the ideal adjective for a city that is multicultural and globally connected.
@@ -295,8 +295,8 @@ The cosmopolitan nature of the city is reflected in its diverse population and i
 If the metro were more reliable, more people would leave their cars at home.
 
 ### Opciones
-- [ ] A) is <!-- feedback: Incorrect. First conditional. -->
-- [x] B) were <!-- feedback: Correct. Second conditional for a hypothetical situation. -->
+- [ ] B) is <!-- feedback: Incorrect. First conditional. -->
+- [x] A) were <!-- feedback: Correct. Second conditional for a hypothetical situation. -->
 - [ ] C) has been <!-- feedback: Incorrect. Present perfect. -->
 - [ ] D) had been <!-- feedback: Incorrect. Third conditional. -->
 
@@ -316,9 +316,9 @@ The author argues that cities must prioritize "walkability" to improve the healt
 
 ### Opciones
 - [ ] A) parking <!-- feedback: Incorrect. Prioritizing parking usually hurts walkability. -->
-- [x] B) walkability <!-- feedback: Correct. Walkability is the measure of how friendly an area is to walking. -->
-- [ ] C) isolation <!-- feedback: Incorrect. Negative. -->
-- [ ] D) construction <!-- feedback: Incorrect. Too broad. -->
+- [x] D) walkability <!-- feedback: Correct. Walkability is the measure of how friendly an area is to walking. -->
+- [ ] B) isolation <!-- feedback: Incorrect. Negative. -->
+- [ ] C) construction <!-- feedback: Incorrect. Too broad. -->
 
 ### Explicacion Pedagogica
 'Walkability' is a key concept in modern urban planning focused on human-centric design.
@@ -336,9 +336,9 @@ The outskirts are the parts of a town or city that are furthest from the center.
 
 ### Opciones
 - [ ] A) heart <!-- feedback: Incorrect. The heart is the center. -->
-- [x] B) outskirts <!-- feedback: Correct. The outer edges of a city. -->
-- [ ] C) plaza <!-- feedback: Incorrect. A plaza is a central square. -->
-- [ ] D) landmark <!-- feedback: Incorrect. A landmark is a recognizable feature. -->
+- [x] D) outskirts <!-- feedback: Correct. The outer edges of a city. -->
+- [ ] B) plaza <!-- feedback: Incorrect. A plaza is a central square. -->
+- [ ] C) landmark <!-- feedback: Incorrect. A landmark is a recognizable feature. -->
 
 ### Explicacion Pedagogica
 'Outskirts' is the standard term for the peripheral areas of a city.
@@ -375,8 +375,8 @@ The 'wish + past' structure is used to express a desire for the current situatio
 Smart cities use technology and data to optimize urban services and improve the quality of life for citizens.
 
 ### Opciones
-- [ ] A) ignore <!-- feedback: Incorrect. Smart cities actively use data. -->
-- [x] B) optimize <!-- feedback: Correct. To optimize means to make the best or most effective use of a resource. -->
+- [ ] B) ignore <!-- feedback: Incorrect. Smart cities actively use data. -->
+- [x] A) optimize <!-- feedback: Correct. To optimize means to make the best or most effective use of a resource. -->
 - [ ] C) complicated <!-- feedback: Incorrect. The goal is to improve, not just complicate. -->
 - [ ] D) delete <!-- feedback: Incorrect. They use, don't delete, services. -->
 
@@ -395,8 +395,8 @@ Smart cities use technology and data to optimize urban services and improve the 
 The council announced that they would be pedestrianizing the main street next month.
 
 ### Opciones
-- [ ] A) will <!-- feedback: Incorrect. Backshifted in reported speech. -->
-- [x] B) would be <!-- feedback: Correct. Backshifted from 'will be' to 'would be' in reported speech. -->
+- [ ] B) will <!-- feedback: Incorrect. Backshifted in reported speech. -->
+- [x] A) would be <!-- feedback: Correct. Backshifted from 'will be' to 'would be' in reported speech. -->
 - [ ] C) are <!-- feedback: Incorrect. Present tense. -->
 - [ ] D) have been <!-- feedback: Incorrect. Present perfect. -->
 
@@ -415,9 +415,9 @@ In reported speech, we change 'will be' to 'would be' when reporting a future pl
 Despite the density of the city, many people find a strong sense of community in their local neighborhoods.
 
 ### Opciones
-- [x] A) sense of community <!-- feedback: Correct. Feeling of belonging to a group. -->
-- [ ] B) feeling of isolation <!-- feedback: Incorrect. The text says 'Despite...', implying a positive despite the density. -->
-- [ ] C) lack of connection <!-- feedback: Incorrect. Also negative. -->
+- [x] C) sense of community <!-- feedback: Correct. Feeling of belonging to a group. -->
+- [ ] A) feeling of isolation <!-- feedback: Incorrect. The text says 'Despite...', implying a positive despite the density. -->
+- [ ] B) lack of connection <!-- feedback: Incorrect. Also negative. -->
 - [ ] D) desire for wealth <!-- feedback: Incorrect. Unrelated to the social point. -->
 
 ### Explicacion Pedagogica

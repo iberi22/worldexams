@@ -36,9 +36,9 @@ A metaphor is a figure of speech that describes an object or action in a way tha
 
 ### Opciones
 - [ ] A) Fact <!-- feedback: Incorrect. A metaphor is not literally true. -->
-- [x] B) Metaphor <!-- feedback: Correct. Specific term for this type of comparison. -->
-- [ ] C) Slogan <!-- feedback: Incorrect. Used in advertising. -->
-- [ ] D) Archive <!-- feedback: Incorrect. A collection of records. -->
+- [x] D) Metaphor <!-- feedback: Correct. Specific term for this type of comparison. -->
+- [ ] B) Slogan <!-- feedback: Incorrect. Used in advertising. -->
+- [ ] C) Archive <!-- feedback: Incorrect. A collection of records. -->
 
 ### Explicacion Pedagogica
 'Metaphor' is the foundational literary term for non-literal comparisons used to create imagery.
@@ -56,9 +56,9 @@ First-person narration is a mode of storytelling in which the narrator is a char
 
 ### Opciones
 - [ ] A) speak <!-- feedback: Incorrect. Subject-verb agreement ('narrator' is singular). -->
-- [x] B) speaks <!-- feedback: Correct. Present simple for a definition. -->
-- [ ] C) speaking <!-- feedback: Incorrect. Gerund. -->
-- [ ] D) spoke <!-- feedback: Incorrect. Past tense. -->
+- [x] D) speaks <!-- feedback: Correct. Present simple for a definition. -->
+- [ ] B) speaking <!-- feedback: Incorrect. Gerund. -->
+- [ ] C) spoke <!-- feedback: Incorrect. Past tense. -->
 
 ### Explicacion Pedagogica
 The present simple 'speaks' describes the constant function of a narrative style.
@@ -76,8 +76,8 @@ If the author had revealed the secret in the first chapter, the ending wouldn't 
 
 ### Opciones
 - [ ] A) revealed <!-- feedback: Incorrect. Second conditional. -->
-- [x] B) had revealed <!-- feedback: Correct. Third conditional for hypothetical past. -->
-- [ ] C) has revealed <!-- feedback: Incorrect. Present perfect. -->
+- [x] C) had revealed <!-- feedback: Correct. Third conditional for hypothetical past. -->
+- [ ] B) has revealed <!-- feedback: Incorrect. Present perfect. -->
 - [ ] D) would reveal <!-- feedback: Incorrect. 'Would' not used in 'if' clause. -->
 
 ### Explicacion Pedagogica
@@ -95,9 +95,9 @@ The third conditional is used to imagine how a different narrative choice would 
 "Show, don't tell" is a technique used in creative writing to allow the reader to experience the story through action and sensory details.
 
 ### Opciones
-- [x] A) sensory <!-- feedback: Correct. Sensory details relate to the five senses. -->
-- [ ] B) boring <!-- feedback: Incorrect. The technique aims to make writing more engaging. -->
-- [ ] C) hidden <!-- feedback: Incorrect. Details should be present to 'show' the scene. -->
+- [x] C) sensory <!-- feedback: Correct. Sensory details relate to the five senses. -->
+- [ ] A) boring <!-- feedback: Incorrect. The technique aims to make writing more engaging. -->
+- [ ] B) hidden <!-- feedback: Incorrect. Details should be present to 'show' the scene. -->
 - [ ] D) numerical <!-- feedback: Incorrect. Unrelated to the creative technique. -->
 
 ### Explicacion Pedagogica
@@ -116,8 +116,8 @@ Effective character development involves creating a protagonist who is complex a
 
 ### Opciones
 - [ ] A) simple <!-- feedback: Incorrect. Good characters are usually complex. -->
-- [x] B) complex <!-- feedback: Correct. Complex characters have many parts or aspects. -->
-- [ ] C) invisible <!-- feedback: Incorrect. Characters need to be present. -->
+- [x] C) complex <!-- feedback: Correct. Complex characters have many parts or aspects. -->
+- [ ] B) invisible <!-- feedback: Incorrect. Characters need to be present. -->
 - [ ] D) perfect <!-- feedback: Incorrect. Flaws often make characters more relatable and interesting. -->
 
 ### Explicacion Pedagogica
@@ -136,8 +136,8 @@ A draft is a preliminary version of a piece of writing.
 
 ### Opciones
 - [ ] A) finale <!-- feedback: Incorrect. The final version. -->
-- [x] B) draft <!-- feedback: Correct. An early or rough version of a text. -->
-- [ ] C) slogan <!-- feedback: Incorrect. Advertising phrase. -->
+- [x] C) draft <!-- feedback: Correct. An early or rough version of a text. -->
+- [ ] B) slogan <!-- feedback: Incorrect. Advertising phrase. -->
 - [ ] D) prompt <!-- feedback: Incorrect. A starting instruction for writing. -->
 
 ### Explicacion Pedagogica
@@ -156,9 +156,9 @@ She is used to revising her work multiple times before she is satisfied with the
 
 ### Opciones
 - [ ] A) use to <!-- feedback: Incorrect grammar. -->
-- [x] B) is used to <!-- feedback: Correct. 'Be used to + -ing' means 'accustomed to'. -->
-- [ ] C) used to <!-- feedback: Incorrect. Refers to a past habit. -->
-- [ ] D) used <!-- feedback: Incorrect. -->
+- [x] D) is used to <!-- feedback: Correct. 'Be used to + -ing' means 'accustomed to'. -->
+- [ ] B) used to <!-- feedback: Incorrect. Refers to a past habit. -->
+- [ ] C) used <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
 'Is used to + gerund' describes a current state of being accustomed to a specific professional habit.
@@ -195,8 +195,8 @@ Alliteration is the occurrence of the same letter or sound at the beginning of a
 New stories are being inspired by current events and personal experiences every day.
 
 ### Opciones
-- [ ] A) are inspiring <!-- feedback: Incorrect. Active voice. -->
-- [x] B) are being inspired <!-- feedback: Correct. Present continuous passive for an ongoing process. -->
+- [ ] B) are inspiring <!-- feedback: Incorrect. Active voice. -->
+- [x] A) are being inspired <!-- feedback: Correct. Present continuous passive for an ongoing process. -->
 - [ ] C) inspired <!-- feedback: Incorrect. Past simple. -->
 - [ ] D) have inspired <!-- feedback: Incorrect. Active voice. -->
 
@@ -215,8 +215,8 @@ The present continuous passive describes the active and constant influence of li
 A cliché is a phrase or opinion that is overused and betrays a lack of original thought.
 
 ### Opciones
-- [ ] A) masterpiece <!-- feedback: Incorrect. A masterpiece is original and great. -->
-- [x] B) cliché <!-- feedback: Correct. Term for an unoriginal or overused idea. -->
+- [ ] B) masterpiece <!-- feedback: Incorrect. A masterpiece is original and great. -->
+- [x] A) cliché <!-- feedback: Correct. Term for an unoriginal or overused idea. -->
 - [ ] C) metaphor <!-- feedback: Incorrect. A tool for creative comparison. -->
 - [ ] D) dialogue <!-- feedback: Incorrect. A tool for representing speech. -->
 
@@ -275,9 +275,9 @@ The future perfect describes a goal that will be a finished achievement by the s
 A writer's voice is the unique style or perspective that makes their work recognizable.
 
 ### Opciones
-- [x] A) unique <!-- feedback: Correct. Unique means being the only one of its kind; unlike anything else. -->
-- [ ] B) identical <!-- feedback: Incorrect. Opposite of unique. -->
-- [ ] C) common <!-- feedback: Incorrect. 'Voice' should be distinct. -->
+- [x] C) unique <!-- feedback: Correct. Unique means being the only one of its kind; unlike anything else. -->
+- [ ] A) identical <!-- feedback: Incorrect. Opposite of unique. -->
+- [ ] B) common <!-- feedback: Incorrect. 'Voice' should be distinct. -->
 - [ ] D) invisible <!-- feedback: Incorrect. Voice should be felt by the reader. -->
 
 ### Explicacion Pedagogica
@@ -296,9 +296,9 @@ If I had more time to daydream, I would come up with more interesting story idea
 
 ### Opciones
 - [ ] A) have <!-- feedback: Incorrect. First conditional. -->
-- [x] B) had <!-- feedback: Correct. Second conditional for a hypothetical change. -->
-- [ ] C) have had <!-- feedback: Incorrect. Present perfect. -->
-- [ ] D) would have <!-- feedback: Incorrect. 'Would' not used in 'if' clause. -->
+- [x] D) had <!-- feedback: Correct. Second conditional for a hypothetical change. -->
+- [ ] B) have had <!-- feedback: Incorrect. Present perfect. -->
+- [ ] C) would have <!-- feedback: Incorrect. 'Would' not used in 'if' clause. -->
 
 ### Explicacion Pedagogica
 The second conditional 'if + past simple' describes how a hypothetical change in lifestyle would affect creativity.
@@ -315,8 +315,8 @@ The second conditional 'if + past simple' describes how a hypothetical change in
 The author concludes that "writing is rewriting," emphasizing the critical role of revision in the creative process.
 
 ### Opciones
-- [ ] A) secondary <!-- feedback: Incorrect. The author says it's critical (essential). -->
-- [x] B) critical <!-- feedback: Correct. Critical means expressing adverse or disapproving comments or judgments, but also (as here) essential or fundamental. -->
+- [ ] B) secondary <!-- feedback: Incorrect. The author says it's critical (essential). -->
+- [x] A) critical <!-- feedback: Correct. Critical means expressing adverse or disapproving comments or judgments, but also (as here) essential or fundamental. -->
 - [ ] C) optional <!-- feedback: Incorrect. Author says it's central to the process. -->
 - [ ] D) boring <!-- feedback: Incorrect. While it might be, 'critical' is the professional evaluation of its role. -->
 
@@ -335,8 +335,8 @@ The author concludes that "writing is rewriting," emphasizing the critical role 
 The protagonist is the main character in a play, novel, or movie.
 
 ### Opciones
-- [ ] A) Antagonist <!-- feedback: Incorrect. The opponent. -->
-- [x] B) Protagonist <!-- feedback: Correct. The leading character. -->
+- [ ] B) Antagonist <!-- feedback: Incorrect. The opponent. -->
+- [x] A) Protagonist <!-- feedback: Correct. The leading character. -->
 - [ ] C) Narrator <!-- feedback: Incorrect. The one telling the story. -->
 - [ ] D) Extra <!-- feedback: Incorrect. A character with no speaking part. -->
 
@@ -355,10 +355,10 @@ The protagonist is the main character in a play, novel, or movie.
 The instructor suggested that we experiment with different narrative perspectives.
 
 ### Opciones
-- [x] A) experiment <!-- feedback: Correct. Subjunctive base form after 'suggested'. -->
-- [ ] B) experiments <!-- feedback: Incorrect. -->
-- [ ] C) to experiment <!-- feedback: Incorrect. Doesn't fit 'that' clause. -->
-- [ ] D) experimenting <!-- feedback: Incorrect. -->
+- [x] D) experiment <!-- feedback: Correct. Subjunctive base form after 'suggested'. -->
+- [ ] A) experiments <!-- feedback: Incorrect. -->
+- [ ] B) to experiment <!-- feedback: Incorrect. Doesn't fit 'that' clause. -->
+- [ ] C) experimenting <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
 Verbs of suggestion take a 'that' clause with the base form (subjunctive mood) of the following verb.
@@ -396,8 +396,8 @@ I had been struggling with writer's block for weeks before the inspiration final
 
 ### Opciones
 - [ ] A) was struggling <!-- feedback: Incorrect. Past continuous. -->
-- [x] B) had been struggling <!-- feedback: Correct. Past perfect continuous for duration before a past point. -->
-- [ ] C) have been struggling <!-- feedback: Incorrect. Present perfect continuous. -->
+- [x] C) had been struggling <!-- feedback: Correct. Past perfect continuous for duration before a past point. -->
+- [ ] B) have been struggling <!-- feedback: Incorrect. Present perfect continuous. -->
 - [ ] D) struggle <!-- feedback: Incorrect. Present simple. -->
 
 ### Explicacion Pedagogica
@@ -415,8 +415,8 @@ The past perfect continuous emphasizes the duration of the difficulty leading up
 Creative writing is a powerful means of self-expression, allowing us to share our unique vision of the world with others.
 
 ### Opciones
-- [x] A) self-expression <!-- feedback: Correct. Expression of one's own personality, feelings, or ideas. -->
-- [ ] B) isolation <!-- feedback: Incorrect. Writing aims to connect. -->
+- [x] B) self-expression <!-- feedback: Correct. Expression of one's own personality, feelings, or ideas. -->
+- [ ] A) isolation <!-- feedback: Incorrect. Writing aims to connect. -->
 - [ ] C) confusion <!-- feedback: Incorrect. Writing aims for clarity of vision. -->
 - [ ] D) greed <!-- feedback: Incorrect. Unrelated. -->
 

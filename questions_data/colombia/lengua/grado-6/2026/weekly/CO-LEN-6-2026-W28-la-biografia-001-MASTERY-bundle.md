@@ -34,13 +34,13 @@ creador: "Jules-Agent"
 ¿Qué es una biografía?
 
 ### Opciones
-- [x] A) El relato de la vida de una persona real, contado por otra persona y basado en datos verificables.
+- [x] D) El relato de la vida de una persona real, contado por otra persona y basado en datos verificables.
   <!-- feedback: Correcto. La biografía narra la vida de un personaje real y se apoya en datos comprobables. -->
-- [ ] B) La autobiografía que escribe el propio protagonista de su vida en primera persona.
+- [ ] A) La autobiografía que escribe el propio protagonista de su vida en primera persona.
   <!-- feedback: Incorrecto. Esa descripción corresponde a la autobiografía, no a la biografía. -->
-- [ ] C) La descripción física de un personaje de ficción creado por un novelista.
+- [ ] B) La descripción física de un personaje de ficción creado por un novelista.
   <!-- feedback: Incorrecto. La biografía trata sobre personas reales, nunca sobre personajes de ficción. -->
-- [ ] D) El resumen de las obras de un autor sin datos sobre su vida.
+- [ ] C) El resumen de las obras de un autor sin datos sobre su vida.
   <!-- feedback: Incorrecto. Un resumen de obras sin datos de vida es un comentario, no una biografía. -->
 
 ### Explicacion Pedagogica
@@ -57,13 +57,13 @@ La biografía es un texto informativo que narra la vida de una persona real, des
 ¿Qué diferencia de género se observa entre los dos textos?
 
 ### Opciones
-- [x] A) El primero es autobiográfico porque el autor habla de sí mismo; el segundo es biográfico porque habla de otra persona.
+- [x] D) El primero es autobiográfico porque el autor habla de sí mismo; el segundo es biográfico porque habla de otra persona.
   <!-- feedback: Correcto. El uso de "mi vida" en primera persona delata autobiografía; narrar a otro, biografía. -->
-- [ ] B) Ambos son biografías, porque en los dos casos se cuentan hechos de la vida de alguien.
+- [ ] A) Ambos son biografías, porque en los dos casos se cuentan hechos de la vida de alguien.
   <!-- feedback: Incorrecto. La diferencia no está en contar hechos, sino en quién los narra: yo u otro. -->
-- [ ] C) El primero es biográfico y el segundo autobiográfico, porque el orden está invertido.
+- [ ] B) El primero es biográfico y el segundo autobiográfico, porque el orden está invertido.
   <!-- feedback: Incorrecto. La distinción depende de la voz narrativa, no del lugar que ocupa cada texto. -->
-- [ ] D) El primero es un cuento y el segundo un artículo de opinión, porque ambos hablan en primera persona.
+- [ ] C) El primero es un cuento y el segundo un artículo de opinión, porque ambos hablan en primera persona.
   <!-- feedback: Incorrecto. Los dos textos son textos informativos; solo uno usa la voz del propio protagonista. -->
 
 ### Explicacion Pedagogica
@@ -103,11 +103,11 @@ Una biografía se organiza en bloques de información: datos personales, formaci
 ¿Qué conjunto de datos aporta un contexto local pertinente a esta biografía?
 
 ### Opciones
-- [x] A) La región donde vivió, las plantas que estudiaba y cómo sus hallazgos ayudaron a otras comunidades del país.
+- [x] C) La región donde vivió, las plantas que estudiaba y cómo sus hallazgos ayudaron a otras comunidades del país.
   <!-- feedback: Correcto. Los tres datos conectan la persona, su trabajo y su efecto en el territorio. -->
-- [ ] B) El número de países del mundo y la capital de cada uno de ellos.
+- [ ] A) El número de países del mundo y la capital de cada uno de ellos.
   <!-- feedback: Incorrecto. Son datos geográficos generales que no explican la vida del personaje. -->
-- [ ] C) El menú de un restaurante de Cartagena y las canciones que se escuchan en la costa.
+- [ ] B) El menú de un restaurante de Cartagena y las canciones que se escuchan en la costa.
   <!-- feedback: Incorrecto. Son detalles culturales que no aportan a entender la trayectoria del botánico. -->
 - [ ] D) La biografía de otro científico que no tiene relación con el personaje central.
   <!-- feedback: Incorrecto. Introducir otro personaje desvía el foco y rompe la unidad del texto. -->
@@ -126,13 +126,13 @@ El contexto local hace comprensible y significativa una biografía: indica el te
 ¿Cuál es el orden más adecuado para presentar esos tres momentos?
 
 ### Opciones
-- [x] A) Infancia, labor social y reconocimiento póstumo, porque sigue el orden cronológico de la vida.
+- [x] D) Infancia, labor social y reconocimiento póstumo, porque sigue el orden cronológico de la vida.
   <!-- feedback: Correcto. El orden cronológico es el más natural y comprensible para narrar una vida completa. -->
-- [ ] B) Reconocimiento póstumo, infancia y labor social, porque lo importante se presenta siempre primero.
+- [ ] A) Reconocimiento póstumo, infancia y labor social, porque lo importante se presenta siempre primero.
   <!-- feedback: Incorrecto. Invertir el orden dificulta la comprensión, porque falta el contexto de las etapas anteriores. -->
-- [ ] C) Infancia, reconocimiento póstumo y labor social, porque el premio se recibió antes del trabajo.
+- [ ] B) Infancia, reconocimiento póstumo y labor social, porque el premio se recibió antes del trabajo.
   <!-- feedback: Incorrecto. Falsea la secuencia de los hechos y confunde al lector sobre el personaje. -->
-- [ ] D) Labor social, infancia y reconocimiento póstumo, porque así se empieza por lo más importante para la comunidad.
+- [ ] C) Labor social, infancia y reconocimiento póstumo, porque así se empieza por lo más importante para la comunidad.
   <!-- feedback: Incorrecto. Sin la infancia, el lector no entiende el origen de la persona narrada. -->
 
 ### Explicacion Pedagogica
@@ -172,11 +172,11 @@ Inferir significa deducir información que el texto sugiere sin enunciarla de fo
 ¿Qué observación crítica es válida sobre esa afirmación?
 
 ### Opciones
-- [x] A) Es refutable, porque los premios literarios se otorgan por obras ya escritas y publicadas, no por una promesa de escritura.
+- [x] C) Es refutable, porque los premios literarios se otorgan por obras ya escritas y publicadas, no por una promesa de escritura.
   <!-- feedback: Correcto. La cronología es falsa: un premio se concede por una obra, que debe existir antes. -->
-- [ ] B) Es válida, porque los premios se entregan al inicio de la carrera de cualquier escritor.
+- [ ] A) Es válida, porque los premios se entregan al inicio de la carrera de cualquier escritor.
   <!-- feedback: Incorrecto. Los premios se otorgan por trabajos y no anteceden la obra que los motiva. -->
-- [ ] C) Es válida, porque García Márquez recibió más premios que cualquier otro escritor vivo.
+- [ ] B) Es válida, porque García Márquez recibió más premios que cualquier otro escritor vivo.
   <!-- feedback: Incorrecto. El texto no menciona cantidad de premios ni los compara con otros autores. -->
 - [ ] D) Es inválida, porque la biografía de un escritor no puede mencionar premios de ninguna clase.
   <!-- feedback: Incorrecto. Los premios son datos biográficos legítimos; lo falso es la secuencia temporal. -->
@@ -195,11 +195,11 @@ Una afirmación es refutable cuando los datos disponibles contradicen lo que afi
 ¿Qué estrategia de lectura es más adecuada para Seguir de cerca los cambios de una biografía extensa?
 
 ### Opciones
-- [x] A) Subrayar los datos de cada etapa y unir el año con el hecho correspondiente, porque así se conserva la línea temporal.
+- [x] C) Subrayar los datos de cada etapa y unir el año con el hecho correspondiente, porque así se conserva la línea temporal.
   <!-- feedback: Correcto. Asociar año y hecho permite seguir la cronología sin perder los datos clave. -->
-- [ ] B) Leer solo el primer y el último capítulo, porque la vida se entiende mejor si se leen los extremos.
+- [ ] A) Leer solo el primer y el último capítulo, porque la vida se entiende mejor si se leen los extremos.
   <!-- feedback: Incorrecto. La información decisiva está en los capítulos intermedios, no en los extremos. -->
-- [ ] C) Buscar las palabras más largas del texto, porque la extensión de las palabras indica la importancia de los hechos.
+- [ ] B) Buscar las palabras más largas del texto, porque la extensión de las palabras indica la importancia de los hechos.
   <!-- feedback: Incorrecto. El tamaño de las palabras no tiene relación con la relevancia de un dato biográfico. -->
 - [ ] D) Copiar el texto completo a mano, porque transcribir garantiza comprender cada una de las palabras.
   <!-- feedback: Incorrecto. Transcribir consume tiempo y no garantiza la comprensión del contenido. -->
@@ -218,11 +218,11 @@ Leer una biografía extensa exige una estrategia que preserve la organización d
 ¿Qué evaluación de las dos biografías resulta más fundamentada?
 
 ### Opciones
-- [x] A) La segunda es más completa porque presenta luces y sombras, que es lo que permite valorar el legado de una figura.
+- [x] C) La segunda es más completa porque presenta luces y sombras, que es lo que permite valorar el legado de una figura.
   <!-- feedback: Correcto. Un texto que incluye aciertos y errores ofrece una imagen equilibrada y útil para valorar. -->
-- [ ] B) La primera es mejor porque una biografía debe mostrar exclusivamente los logros de la persona narrada.
+- [ ] A) La primera es mejor porque una biografía debe mostrar exclusivamente los logros de la persona narrada.
   <!-- feedback: Incorrecto. Excluir los errores convierte el texto en un panfleto, no en una biografía veraz. -->
-- [ ] C) Ambas son igualmente objetivas, porque el género biográfico siempre refleja la opinión del autor.
+- [ ] B) Ambas son igualmente objetivas, porque el género biográfico siempre refleja la opinión del autor.
   <!-- feedback: Incorrecto. Un buen texto biográfico busca hechos verificables, no la opinión del narrador. -->
 - [ ] D) La segunda es peor porque menciona los errores y eso daña la memoria de los próceres colombianos.
   <!-- feedback: Incorrecto. Reconocer errores no daña la memoria; la oculta y sí impide un juicio honesto. -->
@@ -241,13 +241,13 @@ Evaluar un texto biográfico exige examinar qué hechos selecciona y cuáles omi
 Frente a esa situación, ¿qué juicio y qué corrección son los más pertinentes?
 
 ### Opciones
-- [x] A) El texto es parcialmente confiable, pero debe reforzar la parte científica con datos atribuidos y verificables.
+- [x] D) El texto es parcialmente confiable, pero debe reforzar la parte científica con datos atribuidos y verificables.
   <!-- feedback: Correcto: distingue el valor de cada fuente y propone la mejora específica que corresponde. -->
-- [ ] B) El texto es descartable en su totalidad, porque una sola fuente sin autor invalida todo el trabajo.
+- [ ] A) El texto es descartable en su totalidad, porque una sola fuente sin autor invalida todo el trabajo.
   <!-- feedback: Incorrecto. La parte con fuentes científicas conserva su valor y puede reforzarse con una fuente válida. -->
-- [ ] C) El texto es impecable, porque la proporción de fuentes científicas demuestra que todo el contenido es cierto.
+- [ ] B) El texto es impecable, porque la proporción de fuentes científicas demuestra que todo el contenido es cierto.
   <!-- feedback: Incorrecto. Una buena proporción no corrige el uso de fuentes sin autor ni sus posibles errores. -->
-- [ ] D) El texto debe reescribirse por completo, porque toda biografía con datos sin autor está prohibida por el MEN.
+- [ ] C) El texto debe reescribirse por completo, porque toda biografía con datos sin autor está prohibida por el MEN.
   <!-- feedback: Incorrecto. El MEN exige fuentes confiables, no prohíbe todo dato que provenga de un sitio web. -->
 
 ### Explicacion Pedagogica

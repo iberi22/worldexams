@@ -35,13 +35,13 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia y 
 ¿Cuál de las siguientes opciones expresa mejor la tesis central del autor?
 
 ### Opciones
-- [x] A) La transición energética debe ser justa, gradual e incluyente con las comunidades étnicas de La Guajira.
+- [x] D) La transición energética debe ser justa, gradual e incluyente con las comunidades étnicas de La Guajira.
   <!-- feedback: Es correcta porque la tesis sintetiza la propuesta de equidad social y gradualidad planteada en el texto. -->
-- [ ] B) Colombia debe prohibir de inmediato la extracción de petróleo sin importar las consecuencias financieras.
+- [ ] A) Colombia debe prohibir de inmediato la extracción de petróleo sin importar las consecuencias financieras.
   <!-- feedback: Es incorrecta porque el autor no aboga por una suspensión drástica sino por una transición gradual. -->
-- [ ] C) El carbón es la única fuente de riqueza sostenible para la economía nacional a largo plazo.
+- [ ] B) El carbón es la única fuente de riqueza sostenible para la economía nacional a largo plazo.
   <!-- feedback: Es incorrecta porque el ensayo cuestiona expresamente la dependencia indefinida del carbón. -->
-- [ ] D) Las energías renovables representan una moda pasajera promovida por países industrializados.
+- [ ] C) Las energías renovables representan una moda pasajera promovida por países industrializados.
   <!-- feedback: Es incorrecta porque el escrito defiende el valor estratégico de las energías limpias. -->
 
 ### Explicacion Pedagogica
@@ -58,11 +58,11 @@ La tesis constituye el núcleo argumentativo del ensayo y debe expresar la postu
 ¿Cómo organiza el autor la secuencia de sus argumentos?
 
 ### Opciones
-- [x] A) Presenta el diagnóstico del problema ambiental, examina datos socioeconómicos y propone alternativas comunitarias.
+- [x] C) Presenta el diagnóstico del problema ambiental, examina datos socioeconómicos y propone alternativas comunitarias.
   <!-- feedback: Es correcta porque sigue la estructura lógica canónica: planteamiento, sustentación empírica y cierre propositivo. -->
-- [ ] B) Relata una anécdota personal infantil y concluye con una fórmula matemática de costos energéticos.
+- [ ] A) Relata una anécdota personal infantil y concluye con una fórmula matemática de costos energéticos.
   <!-- feedback: Es incorrecta porque confunde un ensayo crítico con una narración autobiográfica irrelevante. -->
-- [ ] C) Enumera los nombres de los ministros de ambiente sin ofrecer ningún análisis conceptual.
+- [ ] B) Enumera los nombres de los ministros de ambiente sin ofrecer ningún análisis conceptual.
   <!-- feedback: Es incorrecta porque una lista de nombres no constituye una argumentación articulada. -->
 - [ ] D) Inicia con la conclusión final y luego transcribe el reglamento interno de una empresa privada.
   <!-- feedback: Es incorrecta porque la conclusión resulta infundada si se coloca sin antecedentes argumentativos. -->
@@ -81,9 +81,9 @@ Reconocer la arquitectura textual permite comprender la progresión del pensamie
 ¿Qué evidencia fortalece el argumento del autor sobre la pérdida de biodiversidad?
 
 ### Opciones
-- [x] A) Los informes científicos del Instituto Humboldt que documentan la reducción de especies endémicas.
+- [x] B) Los informes científicos del Instituto Humboldt que documentan la reducción de especies endémicas.
   <!-- feedback: Es correcta porque el Instituto Humboldt es una institución oficial y especializada en biodiversidad. -->
-- [ ] B) La opinión informal compartida por un conductor de taxi durante un trancón urbano.
+- [ ] A) La opinión informal compartida por un conductor de taxi durante un trancón urbano.
   <!-- feedback: Es incorrecta porque el testimonio informal carece de rigor y representatividad científica. -->
 - [ ] C) Las publicaciones anónimas virales difundidas en redes sociales durante el fin de semana.
   <!-- feedback: Es incorrecta porque los rumores anónimos en redes no ofrecen validez empírica. -->
@@ -104,9 +104,9 @@ El argumento de autoridad requiere apelar a fuentes institucionales o expertas d
 ¿De qué manera responde el autor a quienes afirman que las renovables son muy costosas?
 
 ### Opciones
-- [x] A) Demuestra que los costos del impacto ambiental a largo plazo superan con creces la inversión inicial en tecnología limpia.
+- [x] B) Demuestra que los costos del impacto ambiental a largo plazo superan con creces la inversión inicial en tecnología limpia.
   <!-- feedback: Es correcta porque refuta la objeción financiera contrastando el gasto inicial con los costos futuros de inacción. -->
-- [ ] B) Descalifica moralmente a sus opositores tildándolos de enemigos del progreso y de la patria.
+- [ ] A) Descalifica moralmente a sus opositores tildándolos de enemigos del progreso y de la patria.
   <!-- feedback: Es incorrecta porque incurre en una falacia ad hominem en lugar de aportar razones financieras. -->
 - [ ] C) Acepta que el argumento contrario es imbatible y renuncia a defender su postura original.
   <!-- feedback: Es incorrecta porque el ensayista no abandona su tesis sino que la defiende mediante evidencia. -->
@@ -127,11 +127,11 @@ La contraargumentación efectiva invalida las objeciones del adversario mediante
 ¿Qué relación lógica establece el conector 'sin embargo' al inicio del tercer párrafo?
 
 ### Opciones
-- [x] A) Introduce una salvedad o matiz crítico frente a los indicadores de crecimiento económico expuestos previamente.
+- [x] C) Introduce una salvedad o matiz crítico frente a los indicadores de crecimiento económico expuestos previamente.
   <!-- feedback: Es correcta porque 'sin embargo' es un conector adversativo que contrapone una restricción a la idea anterior. -->
-- [ ] B) Indica la causa biológica directa por la cual las plantas realizan la fotosíntesis en el desierto.
+- [ ] A) Indica la causa biológica directa por la cual las plantas realizan la fotosíntesis en el desierto.
   <!-- feedback: Es incorrecta porque confunde un enlace discursivo con una explicación causal biológica. -->
-- [ ] C) Anuncia la conclusión definitiva del ensayo despidiéndose formalmente de los lectores.
+- [ ] B) Anuncia la conclusión definitiva del ensayo despidiéndose formalmente de los lectores.
   <!-- feedback: Es incorrecta porque no se ubica en el cierre ni tiene valor recapitulativo. -->
 - [ ] D) Funciona como un nexo aditivo equivalente a la conjunción copulativa 'y' sin marcar contraste.
   <!-- feedback: Es incorrecta porque no suma elementos análogos sino que introduce una oposición. -->
@@ -150,9 +150,9 @@ Los conectores adversativos regulan los giros lógicos y las restricciones dentr
 ¿Con qué intención afirma el autor que 'la burocracia estatal brilla por su velocidad prodigiosa'?
 
 ### Opciones
-- [x] A) Denunciar sarcásticamente la lentitud e ineficiencia de los trámites administrativos en el país.
+- [x] B) Denunciar sarcásticamente la lentitud e ineficiencia de los trámites administrativos en el país.
   <!-- feedback: Es correcta porque la ironía dice lo opuesto de lo que piensa para enfatizar una falla del sistema. -->
-- [ ] B) Elogiar genuinamente al ministerio por la prontitud en la expedición de licencias ambientales.
+- [ ] A) Elogiar genuinamente al ministerio por la prontitud en la expedición de licencias ambientales.
   <!-- feedback: Es incorrecta porque el texto demuestra a lo largo de los párrafos la demora del Estado. -->
 - [ ] C) Sugerir que los funcionarios públicos deberían competir en carreras de atletismo internacional.
   <!-- feedback: Es incorrecta porque aplica una lectura literal absurda que desconoce la figura retórica. -->
@@ -242,9 +242,9 @@ La suficiencia de las pruebas determina la validez y generalizabilidad de las co
 ¿Cuál de las siguientes afirmaciones del texto corresponde a un hecho empírico?
 
 ### Opciones
-- [x] A) La temperatura media global ha aumentado aproximadamente 1,1 °C desde la era preindustrial.
+- [x] B) La temperatura media global ha aumentado aproximadamente 1,1 °C desde la era preindustrial.
   <!-- feedback: Es correcta porque presenta una medición objetiva y contrastable con registros meteorológicos. -->
-- [ ] B) La indiferencia de los ciudadanos ante el calentamiento global es una falta moral imperdonable.
+- [ ] A) La indiferencia de los ciudadanos ante el calentamiento global es una falta moral imperdonable.
   <!-- feedback: Es incorrecta porque juzgar la indiferencia como 'falta moral' es un juicio ético o apreciación subjetiva. -->
 - [ ] C) Los paisajes montañosos de Colombia son los más hermosos y sobrecogedores del planeta tierra.
   <!-- feedback: Es incorrecta porque la 'hermosura' es una valoración estética personal no medible de forma absoluta. -->
@@ -288,9 +288,9 @@ El tono refleja la postura emotiva e intelectual del emisor hacia la materia dis
 ¿De qué manera se articulan el primer y el último párrafo del documento?
 
 ### Opciones
-- [x] A) La conclusión retoma la hipótesis planteada en la apertura y sintetiza la validación lograda mediante los argumentos.
+- [x] B) La conclusión retoma la hipótesis planteada en la apertura y sintetiza la validación lograda mediante los argumentos.
   <!-- feedback: Es correcta porque la conclusión cumple la función de cerrar el círculo argumentativo demostrando la tesis. -->
-- [ ] B) El último párrafo afirma lo opuesto a la introducción dejando al lector sin saber qué piensa el autor.
+- [ ] A) El último párrafo afirma lo opuesto a la introducción dejando al lector sin saber qué piensa el autor.
   <!-- feedback: Es incorrecta porque una contradicción no resuelta destruye la coherencia del escrito. -->
 - [ ] C) La introducción habla sobre la Amazonia y la conclusión se dedica a explicar la física cuántica.
   <!-- feedback: Es incorrecta porque rompe la unidad temática y la continuidad del texto. -->
@@ -311,9 +311,9 @@ La coherencia global exige que la conclusión selle la indagación abierta en la
 ¿Qué función cumple comparar el río Magdalena con las arterias del cuerpo humano?
 
 ### Opciones
-- [x] A) Ilustrar cómo la contaminación en un tramo afecta la salud e integridad de todo el ecosistema fluvial.
+- [x] B) Ilustrar cómo la contaminación en un tramo afecta la salud e integridad de todo el ecosistema fluvial.
   <!-- feedback: Es correcta porque la analogía permite comprender la interconexión y fragilidad del sistema hídrico. -->
-- [ ] B) Demostrar que el agua dulce tiene la misma composición química que la sangre humana.
+- [ ] A) Demostrar que el agua dulce tiene la misma composición química que la sangre humana.
   <!-- feedback: Es incorrecta porque confunde una metáfora biológica con una identidad de composición física. -->
 - [ ] C) Sugerir que los médicos de los hospitales deben dedicarse a la pesca de subienda.
   <!-- feedback: Es incorrecta porque la analogía no propone un cambio de profesión para el personal de salud. -->
@@ -380,13 +380,13 @@ El título constituye el primer marco hermenéutico que orienta las expectativas
 ¿Qué enriquece el debate al incluir testimonios de campesinos, empresarios y académicos?
 
 ### Opciones
-- [x] A) Permite abordar la problemática desde múltiples ángulos e intereses, ofreciendo una visión integral.
+- [x] D) Permite abordar la problemática desde múltiples ángulos e intereses, ofreciendo una visión integral.
   <!-- feedback: Es correcta porque la polifonía bien estructurada amplía el horizonte de análisis y fortalece el juicio crítico. -->
-- [ ] B) Demuestra que el autor no tenía ideas propias y tuvo que copiar textos ajenos para llenar páginas.
+- [ ] A) Demuestra que el autor no tenía ideas propias y tuvo que copiar textos ajenos para llenar páginas.
   <!-- feedback: Es incorrecta porque integrar fuentes es una fortaleza metodológica y no un síntoma de falta de ideas. -->
-- [ ] C) Genera un caos verbal que impide saber cuál es la verdadera intención del escrito.
+- [ ] B) Genera un caos verbal que impide saber cuál es la verdadera intención del escrito.
   <!-- feedback: Es incorrecta porque el ensayista se encarga de articular las distintas voces bajo un hilo conductor. -->
-- [ ] D) Prueba que los campesinos y los académicos opinan exactamente lo mismo sobre todos los temas.
+- [ ] C) Prueba que los campesinos y los académicos opinan exactamente lo mismo sobre todos los temas.
   <!-- feedback: Es incorrecta porque la riqueza del debate estriba precisamente en los matices y tensiones entre actores. -->
 
 ### Explicacion Pedagogica
@@ -403,11 +403,11 @@ La polifonía discursiva pondera diferentes voces sociales para evitar reduccion
 ¿De qué manera influye la historia del conflicto armado en la reflexión sobre la tierra?
 
 ### Opciones
-- [x] A) Evidencia que el despojo de tierras y la violencia han marcado la relación con el territorio y la naturaleza.
+- [x] C) Evidencia que el despojo de tierras y la violencia han marcado la relación con el territorio y la naturaleza.
   <!-- feedback: Es correcta porque ubica las problemáticas ecológicas en el marco histórico de las disputas territoriales del país. -->
-- [ ] B) Demuestra que Colombia es un país habitado exclusivamente por diplomáticos suizos en paz perpetua.
+- [ ] A) Demuestra que Colombia es un país habitado exclusivamente por diplomáticos suizos en paz perpetua.
   <!-- feedback: Es incorrecta porque niega la dolorosa realidad del conflicto interno de la nación. -->
-- [ ] C) Prueba que la violencia no ha tenido ningún impacto en la economía agraria nacional.
+- [ ] B) Prueba que la violencia no ha tenido ningún impacto en la economía agraria nacional.
   <!-- feedback: Es incorrecta porque el conflicto armado y el despojo han afectado profundamente el campo colombiano. -->
 - [ ] D) Obliga al autor a escribir el ensayo en dialectos antiguos ya desaparecidos.
   <!-- feedback: Es incorrecta porque el texto se redacta en español contemporáneo estándar. -->
@@ -426,11 +426,11 @@ Comprender el contexto sociocultural resulta imprescindible para juzgar la perti
 Si se acepta que 'todos los humedales regulan las inundaciones' y que 'La Conejera es un humedal', ¿qué se deduce?
 
 ### Opciones
-- [x] A) Que La Conejera cumple la función de regular las inundaciones en su entorno geográfico.
+- [x] C) Que La Conejera cumple la función de regular las inundaciones en su entorno geográfico.
   <!-- feedback: Es correcta porque la conclusión se deriva necesariamente de la premisa mayor universal y la premisa menor singular. -->
-- [ ] B) Que La Conejera es una cadena de montañas ubicada en el departamento del Nariño.
+- [ ] A) Que La Conejera es una cadena de montañas ubicada en el departamento del Nariño.
   <!-- feedback: Es incorrecta porque altera la naturaleza geográfica del objeto de estudio expresado en las premisas. -->
-- [ ] C) Que ningún humedal del planeta puede almacenar agua durante las épocas de lluvia.
+- [ ] B) Que ningún humedal del planeta puede almacenar agua durante las épocas de lluvia.
   <!-- feedback: Es incorrecta porque contradice abiertamente la premisa mayor categórica. -->
 - [ ] D) Que las inundaciones son provocadas intencionalmente por los científicos de la capital.
   <!-- feedback: Es incorrecta porque introduce un elemento externo infundado que no atañe a la deducción lógica. -->
@@ -449,13 +449,13 @@ La validez deductiva exige que la conclusión esté contenida conceptualmente en
 ¿Qué diferencia existe entre calificar un proyecto como 'reforma audaz' o como 'improvisación peligrosa'?
 
 ### Opciones
-- [x] A) La primera adjetivación denota aprobación y valentía, mientras que la segunda sugiere irresponsabilidad y riesgo.
+- [x] D) La primera adjetivación denota aprobación y valentía, mientras que la segunda sugiere irresponsabilidad y riesgo.
   <!-- feedback: Es correcta meidante la adjetivación valorativa se trasluce la simpatía o el rechazo ideológico del emisor. -->
-- [ ] B) Ambas expresiones significan exactamente lo mismo y no revelan la postura del emisor.
+- [ ] A) Ambas expresiones significan exactamente lo mismo y no revelan la postura del emisor.
   <!-- feedback: Es incorrecta porque orientan el juicio del lector en direcciones diametralmente opuestas. -->
-- [ ] C) La primera opción es un insulto gravísimo y la segunda es un poema de amor romántico.
+- [ ] B) La primera opción es un insulto gravísimo y la segunda es un poema de amor romántico.
   <!-- feedback: Es incorrecta porque distorsiona completamente las funciones pragmáticas de ambas expresiones. -->
-- [ ] D) Demuestran que el autor desconoce el significado de las palabras en el idioma castellano.
+- [ ] C) Demuestran que el autor desconoce el significado de las palabras en el idioma castellano.
   <!-- feedback: Es incorrecta porque evidencia el uso preciso de la carga connotativa del léxico. -->
 
 ### Explicacion Pedagogica
@@ -472,9 +472,9 @@ El análisis del léxico adjetivo permite desenmascarar la toma de posición imp
 ¿Por qué se puede considerar que el ensayo analizado posee un alto valor formativo?
 
 ### Opciones
-- [x] A) Porque articula una tesis clara, premisas verificables, rigor en la contraargumentación y compromiso ético.
+- [x] B) Porque articula una tesis clara, premisas verificables, rigor en la contraargumentación y compromiso ético.
   <!-- feedback: Es correcta porque reúne los criterios fundamentales de consistencia discursiva, validez empírica y trascendencia social. -->
-- [ ] B) Porque fue publicado en un papel con bordes dorados y tipografía dorada de lujo.
+- [ ] A) Porque fue publicado en un papel con bordes dorados y tipografía dorada de lujo.
   <!-- feedback: Es incorrecta porque el lujo tipográfico no añade validez intelectual ni conceptual al escrito. -->
 - [ ] C) Porque le da la razón al lector en todos sus prejuicios sin obligarlo a pensar.
   <!-- feedback: Es incorrecta porque la educación crítica busca desafiar los prejuicios y estimular la reflexión autónoma. -->

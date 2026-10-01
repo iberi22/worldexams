@@ -31,11 +31,11 @@ Este bundle desarrolla la fotosíntesis y la respiración celular en plantas con
 ### Opciones
 - [ ] A) La absorción de agua por las raíces para sostener las hojas sin fabricar alimento.
   <!-- feedback: Incorrecta, porque la absorción es solo una parte y no describe la fabricación del alimento. -->
-- [x] B) El proceso por el cual la planta usa luz, agua y dióxido de carbono para producir glucosa y liberar oxígeno.
+- [x] D) El proceso por el cual la planta usa luz, agua y dióxido de carbono para producir glucosa y liberar oxígeno.
   <!-- feedback: Correcta, porque define los insumos y los productos de la fotosíntesis. -->
-- [ ] C) La caída de las hojas viejas cuando llega la temporada seca en el cafetal.
+- [ ] B) La caída de las hojas viejas cuando llega la temporada seca en el cafetal.
   <!-- feedback: Incorrecta, porque la caída de hojas es una respuesta, no la fabricación del alimento. -->
-- [ ] D) El transporte de semillas que hacen los campesinos para sembrar nuevos surcos.
+- [ ] C) El transporte de semillas que hacen los campesinos para sembrar nuevos surcos.
   <!-- feedback: Incorrecta, porque sembrar es una labor agrícola y no el proceso interno de la planta. -->
 ### Explicacion Pedagogica
 La fotosíntesis ocurre principalmente en las hojas, donde la clorofila captura la luz solar. Con esa energía, la planta transforma agua y dióxido de carbono en glucosa, que es su alimento, y libera oxígeno al aire. Por eso las plantas son productoras que sostienen a casi todos los seres vivos.
@@ -48,9 +48,9 @@ La fotosíntesis ocurre principalmente en las hojas, donde la clorofila captura 
 ### Enunciado
 ¿Cuál es la diferencia entre la fotosíntesis y la respiración celular en las plantas?
 ### Opciones
-- [x] A) La fotosíntesis fabrica alimento con luz y la respiración libera la energía de ese alimento en todo momento.
+- [x] B) La fotosíntesis fabrica alimento con luz y la respiración libera la energía de ese alimento en todo momento.
   <!-- feedback: Correcta, porque distingue fabricar alimento con luz de liberar su energía de día y de noche. -->
-- [ ] B) Ambas son el mismo proceso y ocurren solo cuando la planta está en completa oscuridad.
+- [ ] A) Ambas son el mismo proceso y ocurren solo cuando la planta está en completa oscuridad.
   <!-- feedback: Incorrecta, porque son procesos distintos y la fotosíntesis necesita luz. -->
 - [ ] C) La respiración fabrica glucosa y la fotosíntesis quema la glucosa para mover las hojas.
   <!-- feedback: Incorrecta, porque invierte los papeles de cada proceso. -->
@@ -86,13 +86,13 @@ Al cambiar solo la luz y mantener iguales agua, tierra y tipo de planta, la dife
 ### Enunciado
 ¿Cuál es la relación correcta entre los insumos y los productos de la fotosíntesis en la caña?
 ### Opciones
-- [x] A) Dióxido de carbono más agua, con energía de la luz, producen glucosa y oxígeno.
+- [x] D) Dióxido de carbono más agua, con energía de la luz, producen glucosa y oxígeno.
   <!-- feedback: Correcta, porque nombra los insumos y productos verdaderos de la fotosíntesis. -->
-- [ ] B) Oxígeno más glucosa, con energía de la luz, producen agua y dióxido de carbono.
+- [ ] A) Oxígeno más glucosa, con energía de la luz, producen agua y dióxido de carbono.
   <!-- feedback: Incorrecta, porque esa es la dirección de la respiración y no de la fotosíntesis. -->
-- [ ] C) La caña produce azúcar solo con tierra y viento, sin necesidad de agua ni aire.
+- [ ] B) La caña produce azúcar solo con tierra y viento, sin necesidad de agua ni aire.
   <!-- feedback: Incorrecta, porque sin agua ni dióxido de carbono no hay materia para fabricar glucosa. -->
-- [ ] D) La luz se convierte en tierra fértil dentro del tallo de la caña.
+- [ ] C) La luz se convierte en tierra fértil dentro del tallo de la caña.
   <!-- feedback: Incorrecta, porque la luz aporta energía y no se transforma en tierra. -->
 ### Explicacion Pedagogica
 La ecuación resume que la materia del alimento viene del agua que sube por el tallo y del dióxido de carbono que entra por los estomas, mientras la luz aporta la energía. La caña guarda esa glucosa como sacarosa en el tallo. Entender la ecuación ayuda a ver por qué riego, aire y luz afectan la cosecha.
@@ -105,9 +105,9 @@ La ecuación resume que la materia del alimento viene del agua que sube por el t
 ### Enunciado
 ¿Qué resultado se espera en la prueba de yodo y por qué?
 ### Opciones
-- [ ] A) Toda la hoja se tiñe igual porque el aluminio también hace fotosíntesis.
+- [ ] B) Toda la hoja se tiñe igual porque el aluminio también hace fotosíntesis.
   <!-- feedback: Incorrecta, porque el papel aluminio no fotosintetiza y bloquea la luz. -->
-- [x] B) Solo la parte iluminada se tiñe oscuro porque allí hubo fotosíntesis y se formó almidón.
+- [x] A) Solo la parte iluminada se tiñe oscuro porque allí hubo fotosíntesis y se formó almidón.
   <!-- feedback: Correcta, porque aplica que sin luz no se produce glucosa ni almidón. -->
 - [ ] C) Solo la parte tapada se tiñe porque la oscuridad fabrica más almidón.
   <!-- feedback: Incorrecta, porque la oscuridad impide la fotosíntesis en vez de aumentarla. -->
@@ -145,11 +145,11 @@ Las burbujas son oxígeno liberado al fotosintetizar, de modo que funcionan como
 ### Opciones
 - [ ] A) Las raíces dejan de funcionar al mediodía porque odian el sol fuerte del Eje Cafetero.
   <!-- feedback: Incorrecta, porque atribuye gustos a las raíces y no explica el fenómeno. -->
-- [x] B) Al mediodía la planta pierde más agua por transpiración de la que absorbe y cierra los estomas, y en la tarde se recupera.
+- [x] D) Al mediodía la planta pierde más agua por transpiración de la que absorbe y cierra los estomas, y en la tarde se recupera.
   <!-- feedback: Correcta, porque conecta calor, pérdida de agua, cierre de estomas y recuperación. -->
-- [ ] C) La planta deja de respirar para siempre al mediodía y revive por arte de magia en la tarde.
+- [ ] B) La planta deja de respirar para siempre al mediodía y revive por arte de magia en la tarde.
   <!-- feedback: Incorrecta, porque la respiración no se detiene y no hay magia en la recuperación. -->
-- [ ] D) El marchitamiento prueba que la fotosíntesis ocurre solo en las raíces bajo la tierra.
+- [ ] C) El marchitamiento prueba que la fotosíntesis ocurre solo en las raíces bajo la tierra.
   <!-- feedback: Incorrecta, porque la fotosíntesis ocurre en las hojas con luz y no en las raíces. -->
 ### Explicacion Pedagogica
 Los estomas dejan entrar dióxido de carbono pero también dejan salir vapor de agua. Con calor fuerte, la planta pierde mucha agua y cierra los estomas para protegerse, lo que reduce temporalmente la fotosíntesis. Cuando refresca, los estomas se abren y la planta se recupera. Es un equilibrio entre conseguir carbono y cuidar el agua.
@@ -162,9 +162,9 @@ Los estomas dejan entrar dióxido de carbono pero también dejan salir vapor de 
 ### Enunciado
 ¿Qué demuestra ese resultado sobre las plantas en germinación?
 ### Opciones
-- [ ] A) Que las semillas hacen fotosíntesis en la oscuridad usando la tapa del frasco.
+- [ ] B) Que las semillas hacen fotosíntesis en la oscuridad usando la tapa del frasco.
   <!-- feedback: Incorrecta, porque sin luz no hay fotosíntesis y la tapa no aporta energía. -->
-- [x] B) Que las semillas respiran: consumen oxígeno y liberan dióxido de carbono al liberar energía para germinar.
+- [x] A) Que las semillas respiran: consumen oxígeno y liberan dióxido de carbono al liberar energía para germinar.
   <!-- feedback: Correcta, porque interpreta el intercambio de gases como evidencia de respiración celular. -->
 - [ ] C) Que el sensor está dañado porque las plantas jamás intercambian gases con el aire.
   <!-- feedback: Incorrecta, porque el intercambio de gases es normal y el sensor lo registra bien. -->
@@ -183,11 +183,11 @@ Conclusión 1: la luz extra aumentó el crecimiento en estas condiciones. Conclu
 ### Opciones
 - [ ] A) Ambas son correctas porque un invernadero pequeño demuestra todo lo que pasa en el planeta.
   <!-- feedback: Incorrecta, porque un ensayo local no prueba afirmaciones universales absolutas. -->
-- [x] B) La primera es válida porque se apoya en los datos, y la segunda es exagerada porque agua, nutrientes y temperatura también influyen.
+- [x] D) La primera es válida porque se apoya en los datos, y la segunda es exagerada porque agua, nutrientes y temperatura también influyen.
   <!-- feedback: Correcta, porque acepta lo respaldado por la evidencia y frena la generalización excesiva. -->
-- [ ] C) Ambas son falsas porque medir tallos con regla invalida cualquier experimento agrícola.
+- [ ] B) Ambas son falsas porque medir tallos con regla invalida cualquier experimento agrícola.
   <!-- feedback: Incorrecta, porque medir con regla es un procedimiento válido y necesario. -->
-- [ ] D) La primera es falsa y la segunda verdadera porque en ciencia gana la frase más amplia.
+- [ ] C) La primera es falsa y la segunda verdadera porque en ciencia gana la frase más amplia.
   <!-- feedback: Incorrecta, porque en ciencia gana la afirmación ajustada a los datos, no la más llamativa. -->
 ### Explicacion Pedagogica
 Evaluar conclusiones es comparar cada frase con los datos y con lo ya conocido. El mayor crecimiento con luz extra respalda la primera conclusión dentro de ese invernadero. La segunda ignora otros factores limitantes y salta a todo el planeta. Una buena conclusión declara condiciones, reconoce límites y propone repetir el ensayo.
@@ -202,9 +202,9 @@ Evaluar conclusiones es comparar cada frase con los datos y con lo ya conocido. 
 ### Opciones
 - [ ] A) Meter la planta al sol con la bolsa y afirmar que el agua de cal se enturbia por la fotosíntesis.
   <!-- feedback: Incorrecta, porque de día predomina la fotosíntesis y confunde los gases que se miden. -->
-- [ ] B) Oler la bolsa en la mañana y votar por el olor favorito para decidir si la planta respiró.
+- [ ] C) Oler la bolsa en la mañana y votar por el olor favorito para decidir si la planta respiró.
   <!-- feedback: Incorrecta, porque votar no mide gases y ningún gusto colectivo demuestra la respiración. -->
-- [x] C) Cubrir la planta en oscuridad, recoger el aire en la bolsa y probar con agua de cal que se enturbia por el dióxido de carbono, con un frasco sin planta como control.
+- [x] B) Cubrir la planta en oscuridad, recoger el aire en la bolsa y probar con agua de cal que se enturbia por el dióxido de carbono, con un frasco sin planta como control.
   <!-- feedback: Correcta, porque aísla la respiración nocturna, usa indicador de dióxido de carbono y control. -->
 - [ ] D) No hacer nada porque las plantas solo respiran cuando las personas las están mirando.
   <!-- feedback: Incorrecta, porque la respiración celular es continua e independiente de la observación. -->

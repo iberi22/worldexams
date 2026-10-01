@@ -32,9 +32,9 @@ creador: "Jules-Agent"
 Considera el siguiente escenario: En una asamblea en el Instituto de Santa Ana, Nayib exclama: '¡Por favor, colaboren con el reciclaje escolar!'. ¿Qué función o fenómeno comunicativo predomina en este mensaje?
 
 ### Opciones
-- [x] A) La función conativa o apelativa.
+- [x] B) La función conativa o apelativa.
   <!-- feedback: ¡Correcto! Se asocia con conativa o apelativa porque busca modificar la conducta del receptor con mandatos, ruegos o exhortaciones. -->
-- [ ] B) Un código lingüístico de traducción simultánea al náhuat.
+- [ ] A) Un código lingüístico de traducción simultánea al náhuat.
   <!-- feedback: Incorrecto. No hay un proceso de traducción idiomática en este escenario. -->
 - [ ] C) El canal analógico de retroalimentación asíncrona.
   <!-- feedback: Incorrecto. El caso se centra en la función del lenguaje y no en las propiedades del canal físico. -->
@@ -58,9 +58,9 @@ Este ejemplo práctico ilustra cómo opera conativa o apelativa dentro del circu
 Considera el siguiente escenario: En un examen escolar en Sonsonate, el profesor de lenguaje define con precisión el significado del término 'arcaísmo' en la gramática española. ¿Qué función o fenómeno comunicativo predomina en este mensaje?
 
 ### Opciones
-- [x] A) La función metalingüística.
+- [x] B) La función metalingüística.
   <!-- feedback: ¡Correcto! Se asocia con metalingüística porque busca utilizar el lenguaje para reflexionar sobre las normas y vocablos del propio idioma. -->
-- [ ] B) Un código lingüístico de traducción simultánea al náhuat.
+- [ ] A) Un código lingüístico de traducción simultánea al náhuat.
   <!-- feedback: Incorrecto. No hay un proceso de traducción idiomática en este escenario. -->
 - [ ] C) El canal analógico de retroalimentación asíncrona.
   <!-- feedback: Incorrecto. El caso se centra en la función del lenguaje y no en las propiedades del canal físico. -->
@@ -84,11 +84,11 @@ Este ejemplo práctico ilustra cómo opera metalingüística dentro del circuito
 Considera el siguiente escenario: Fátima le escribe una carta a su amiga en San Miguel donde expresa: 'Me siento inmensamente feliz de haber aprobado el ciclo con buenas notas'. ¿Qué función o fenómeno comunicativo predomina en este mensaje?
 
 ### Opciones
-- [x] A) La función expresiva o emotiva.
+- [x] C) La función expresiva o emotiva.
   <!-- feedback: ¡Correcto! Se asocia con expresiva o emotiva porque busca exteriorizar el estado emocional, los sentimientos y la subjetividad del propio emisor. -->
-- [ ] B) Un código lingüístico de traducción simultánea al náhuat.
+- [ ] A) Un código lingüístico de traducción simultánea al náhuat.
   <!-- feedback: Incorrecto. No hay un proceso de traducción idiomática en este escenario. -->
-- [ ] C) El canal analógico de retroalimentación asíncrona.
+- [ ] B) El canal analógico de retroalimentación asíncrona.
   <!-- feedback: Incorrecto. El caso se centra en la función del lenguaje y no en las propiedades del canal físico. -->
 - [ ] D) La eliminación absoluta del referente real del mensaje.
   <!-- feedback: Incorrecto. El referente conceptual se mantiene perfectamente comprensible. -->
@@ -136,9 +136,9 @@ Este ejemplo práctico ilustra cómo opera referencial o denotativa dentro del c
 Considera el siguiente escenario: Al iniciar una videoconferencia escolar en Ahuachapán, Carlos dice al micrófono: 'Hola, ¿me escuchan bien al fondo de la sala?'. ¿Qué función o fenómeno comunicativo predomina en este mensaje?
 
 ### Opciones
-- [x] A) La función fática o de contacto.
+- [x] B) La función fática o de contacto.
   <!-- feedback: ¡Correcto! Se asocia con fática o de contacto porque busca verificar el correcto funcionamiento físico del canal o la línea de transmisión técnica. -->
-- [ ] B) Un código lingüístico de traducción simultánea al náhuat.
+- [ ] A) Un código lingüístico de traducción simultánea al náhuat.
   <!-- feedback: Incorrecto. No hay un proceso de traducción idiomática en este escenario. -->
 - [ ] C) El canal analógico de retroalimentación asíncrona.
   <!-- feedback: Incorrecto. El caso se centra en la función del lenguaje y no en las propiedades del canal físico. -->
@@ -162,9 +162,9 @@ Este ejemplo práctico ilustra cómo opera fática o de contacto dentro del circ
 Considera el siguiente escenario: En un anuncio publicitario de café en San Salvador, el eslogan dice: 'El perfume de la colina en tu taza de cada mañana'. ¿Qué función o fenómeno comunicativo predomina en este mensaje?
 
 ### Opciones
-- [x] A) La función poética o estética.
+- [x] B) La función poética o estética.
   <!-- feedback: ¡Correcto! Se asocia con poética o estética porque busca atraer la atención sobre la forma estética, la musicalidad y la belleza del propio mensaje lingüístico. -->
-- [ ] B) Un código lingüístico de traducción simultánea al náhuat.
+- [ ] A) Un código lingüístico de traducción simultánea al náhuat.
   <!-- feedback: Incorrecto. No hay un proceso de traducción idiomática en este escenario. -->
 - [ ] C) El canal analógico de retroalimentación asíncrona.
   <!-- feedback: Incorrecto. El caso se centra en la función del lenguaje y no en las propiedades del canal físico. -->
@@ -188,9 +188,9 @@ Este ejemplo práctico ilustra cómo opera poética o estética dentro del circu
 Considera el siguiente escenario: Un cartel gubernamental en Soyapango invita a la población infantil a vacunarse gratuitamente contra la influenza estacional. ¿Qué función o fenómeno comunicativo predomina en este mensaje?
 
 ### Opciones
-- [x] A) La función propaganda cívica.
+- [x] B) La función propaganda cívica.
   <!-- feedback: ¡Correcto! Se asocia con propaganda cívica porque busca difundir ideas políticas, cívicas o sociales sin un fin de lucro económico o comercial. -->
-- [ ] B) Un código lingüístico de traducción simultánea al náhuat.
+- [ ] A) Un código lingüístico de traducción simultánea al náhuat.
   <!-- feedback: Incorrecto. No hay un proceso de traducción idiomática en este escenario. -->
 - [ ] C) El canal analógico de retroalimentación asíncrona.
   <!-- feedback: Incorrecto. El caso se centra en la función del lenguaje y no en las propiedades del canal físico. -->
@@ -214,9 +214,9 @@ Este ejemplo práctico ilustra cómo opera propaganda cívica dentro del circuit
 Considera el siguiente escenario: Un editorial de prensa analiza de forma institucional el estado de las carreteras y calles del municipio de Mejicanos. ¿Qué función o fenómeno comunicativo predomina en este mensaje?
 
 ### Opciones
-- [x] A) La función editorial periodístico.
+- [x] B) La función editorial periodístico.
   <!-- feedback: ¡Correcto! Se asocia con editorial periodístico porque busca presentar la postura oficial e institucional del medio de comunicación sobre un asunto de interés común. -->
-- [ ] B) Un código lingüístico de traducción simultánea al náhuat.
+- [ ] A) Un código lingüístico de traducción simultánea al náhuat.
   <!-- feedback: Incorrecto. No hay un proceso de traducción idiomática en este escenario. -->
 - [ ] C) El canal analógico de retroalimentación asíncrona.
   <!-- feedback: Incorrecto. El caso se centra en la función del lenguaje y no en las propiedades del canal físico. -->
@@ -240,11 +240,11 @@ Este ejemplo práctico ilustra cómo opera editorial periodístico dentro del ci
 Considera el siguiente escenario: Un estudio de medios de comunicación en El Salvador critica que los comerciales de limpieza utilicen exclusivamente la figura de amas de casa. ¿Qué función o fenómeno comunicativo predomina en este mensaje?
 
 ### Opciones
-- [x] A) La función estereotipos de género.
+- [x] C) La función estereotipos de género.
   <!-- feedback: ¡Correcto! Se asocia con estereotipos de género porque busca promover imágenes sociales simplificadas y preconcebidas que limitan la diversidad de roles humanos. -->
-- [ ] B) Un código lingüístico de traducción simultánea al náhuat.
+- [ ] A) Un código lingüístico de traducción simultánea al náhuat.
   <!-- feedback: Incorrecto. No hay un proceso de traducción idiomática en este escenario. -->
-- [ ] C) El canal analógico de retroalimentación asíncrona.
+- [ ] B) El canal analógico de retroalimentación asíncrona.
   <!-- feedback: Incorrecto. El caso se centra en la función del lenguaje y no en las propiedades del canal físico. -->
 - [ ] D) La eliminación absoluta del referente real del mensaje.
   <!-- feedback: Incorrecto. El referente conceptual se mantiene perfectamente comprensible. -->
@@ -266,13 +266,13 @@ Este ejemplo práctico ilustra cómo opera estereotipos de género dentro del ci
 Considera el siguiente escenario: Una emisora de radio en San Miguel permite que los oyentes envíen mensajes de texto en tiempo real durante la transmisión en vivo. ¿Qué función o fenómeno comunicativo predomina en este mensaje?
 
 ### Opciones
-- [x] A) La función interactividad en directo.
+- [x] D) La función interactividad en directo.
   <!-- feedback: ¡Correcto! Se asocia con interactividad en directo porque busca fomentar una retroalimentación ágil y directa que democratiza el circuito de difusión masiva. -->
-- [ ] B) Un código lingüístico de traducción simultánea al náhuat.
+- [ ] A) Un código lingüístico de traducción simultánea al náhuat.
   <!-- feedback: Incorrecto. No hay un proceso de traducción idiomática en este escenario. -->
-- [ ] C) El canal analógico de retroalimentación asíncrona.
+- [ ] B) El canal analógico de retroalimentación asíncrona.
   <!-- feedback: Incorrecto. El caso se centra en la función del lenguaje y no en las propiedades del canal físico. -->
-- [ ] D) La eliminación absoluta del referente real del mensaje.
+- [ ] C) La eliminación absoluta del referente real del mensaje.
   <!-- feedback: Incorrecto. El referente conceptual se mantiene perfectamente comprensible. -->
 
 ### Explicación Pedagógica
@@ -292,9 +292,9 @@ Este ejemplo práctico ilustra cómo opera interactividad en directo dentro del 
 Considera el siguiente escenario: Un anuncio comercial en Facebook promueve teléfonos celulares nuevos con un descuento especial de $50 USD solo por hoy. ¿Qué función o fenómeno comunicativo predomina en este mensaje?
 
 ### Opciones
-- [x] A) La función persuasión publicitaria.
+- [x] B) La función persuasión publicitaria.
   <!-- feedback: ¡Correcto! Se asocia con persuasión publicitaria porque busca convencer al consumidor de adquirir un bien o servicio con argumentos comerciales directos. -->
-- [ ] B) Un código lingüístico de traducción simultánea al náhuat.
+- [ ] A) Un código lingüístico de traducción simultánea al náhuat.
   <!-- feedback: Incorrecto. No hay un proceso de traducción idiomática en este escenario. -->
 - [ ] C) El canal analógico de retroalimentación asíncrona.
   <!-- feedback: Incorrecto. El caso se centra en la función del lenguaje y no en las propiedades del canal físico. -->
@@ -318,9 +318,9 @@ Este ejemplo práctico ilustra cómo opera persuasión publicitaria dentro del c
 Considera el siguiente escenario: Un analista de comunicación en San Salvador señala que ciertos canales de televisión exageran noticias para generar pánico social. ¿Qué función o fenómeno comunicativo predomina en este mensaje?
 
 ### Opciones
-- [x] A) La función manipulación sensacionalista.
+- [x] B) La función manipulación sensacionalista.
   <!-- feedback: ¡Correcto! Se asocia con manipulación sensacionalista porque busca capturar audiencias masivas apelando a las emociones básicas del público en lugar del análisis racional. -->
-- [ ] B) Un código lingüístico de traducción simultánea al náhuat.
+- [ ] A) Un código lingüístico de traducción simultánea al náhuat.
   <!-- feedback: Incorrecto. No hay un proceso de traducción idiomática en este escenario. -->
 - [ ] C) El canal analógico de retroalimentación asíncrona.
   <!-- feedback: Incorrecto. El caso se centra en la función del lenguaje y no en las propiedades del canal físico. -->
@@ -344,9 +344,9 @@ Este ejemplo práctico ilustra cómo opera manipulación sensacionalista dentro 
 Considera el siguiente escenario: En el pizarrón del aula en Usulután, se detalla que la palabra 'té' lleva tilde diacrítica para distinguirse del pronombre 'te'. ¿Qué función o fenómeno comunicativo predomina en este mensaje?
 
 ### Opciones
-- [x] A) La función metalingüística diacrítica.
+- [x] B) La función metalingüística diacrítica.
   <!-- feedback: ¡Correcto! Se asocia con metalingüística diacrítica porque busca aclarar el uso de signos diacríticos y normas ortográficas específicas del propio código lingüístico. -->
-- [ ] B) Un código lingüístico de traducción simultánea al náhuat.
+- [ ] A) Un código lingüístico de traducción simultánea al náhuat.
   <!-- feedback: Incorrecto. No hay un proceso de traducción idiomática en este escenario. -->
 - [ ] C) El canal analógico de retroalimentación asíncrona.
   <!-- feedback: Incorrecto. El caso se centra en la función del lenguaje y no en las propiedades del canal físico. -->
@@ -396,9 +396,9 @@ Este ejemplo práctico ilustra cómo opera apelativa en autopista dentro del cir
 Considera el siguiente escenario: Al leer los hermosos versos de Alfredo Espino sobre los nidos de los pájaros, Gabriela se conmueve por sus delicadas metáforas. ¿Qué función o fenómeno comunicativo predomina en este mensaje?
 
 ### Opciones
-- [x] A) La función poética en versos.
+- [x] B) La función poética en versos.
   <!-- feedback: ¡Correcto! Se asocia con poética en versos porque busca embellecer y estilizar el lenguaje escrito con fines artísticos y líricos. -->
-- [ ] B) Un código lingüístico de traducción simultánea al náhuat.
+- [ ] A) Un código lingüístico de traducción simultánea al náhuat.
   <!-- feedback: Incorrecto. No hay un proceso de traducción idiomática en este escenario. -->
 - [ ] C) El canal analógico de retroalimentación asíncrona.
   <!-- feedback: Incorrecto. El caso se centra en la función del lenguaje y no en las propiedades del canal físico. -->
@@ -448,13 +448,13 @@ Este ejemplo práctico ilustra cómo opera fática en telefonía dentro del circ
 Considera el siguiente escenario: El noticiero nacional informa objetivamente que las exportaciones de azúcar salvadoreña crecieron un 5% el último trimestre del año. ¿Qué función o fenómeno comunicativo predomina en este mensaje?
 
 ### Opciones
-- [x] A) La función referencial económica.
+- [x] D) La función referencial económica.
   <!-- feedback: ¡Correcto! Se asocia con referencial económica porque busca ofrecer datos numéricos y cuantitativos objetivos sin juicios de valor ni opiniones subjetivas. -->
-- [ ] B) Un código lingüístico de traducción simultánea al náhuat.
+- [ ] A) Un código lingüístico de traducción simultánea al náhuat.
   <!-- feedback: Incorrecto. No hay un proceso de traducción idiomática en este escenario. -->
-- [ ] C) El canal analógico de retroalimentación asíncrona.
+- [ ] B) El canal analógico de retroalimentación asíncrona.
   <!-- feedback: Incorrecto. El caso se centra en la función del lenguaje y no en las propiedades del canal físico. -->
-- [ ] D) La eliminación absoluta del referente real del mensaje.
+- [ ] C) La eliminación absoluta del referente real del mensaje.
   <!-- feedback: Incorrecto. El referente conceptual se mantiene perfectamente comprensible. -->
 
 ### Explicación Pedagógica
@@ -474,9 +474,9 @@ Este ejemplo práctico ilustra cómo opera referencial económica dentro del cir
 Considera el siguiente escenario: En un poema modernista de Francisco Gavidia, el hablante lírico confiesa su melancolía y dolor existencial ante el paso del tiempo. ¿Qué función o fenómeno comunicativo predomina en este mensaje?
 
 ### Opciones
-- [x] A) La función expresiva lírica.
+- [x] B) La función expresiva lírica.
   <!-- feedback: ¡Correcto! Se asocia con expresiva lírica porque busca canalizar la subjetividad del emisor a través de la confesión íntima de sentimientos poéticos. -->
-- [ ] B) Un código lingüístico de traducción simultánea al náhuat.
+- [ ] A) Un código lingüístico de traducción simultánea al náhuat.
   <!-- feedback: Incorrecto. No hay un proceso de traducción idiomática en este escenario. -->
 - [ ] C) El canal analógico de retroalimentación asíncrona.
   <!-- feedback: Incorrecto. El caso se centra en la función del lenguaje y no en las propiedades del canal físico. -->
@@ -526,13 +526,13 @@ Este ejemplo práctico ilustra cómo opera publicidad algorítmica dentro del ci
 Considera el siguiente escenario: Durante una emergencia por tormenta, la radio de protección civil transmite instrucciones oficiales de evacuación a todo el territorio nacional. ¿Qué función o fenómeno comunicativo predomina en este mensaje?
 
 ### Opciones
-- [x] A) La función medio de masas radiofónico.
+- [x] D) La función medio de masas radiofónico.
   <!-- feedback: ¡Correcto! Se asocia con medio de masas radiofónico porque busca difundir alertas urgentes a un receptor sumamente amplio, disperso y heterogéneo en tiempo real. -->
-- [ ] B) Un código lingüístico de traducción simultánea al náhuat.
+- [ ] A) Un código lingüístico de traducción simultánea al náhuat.
   <!-- feedback: Incorrecto. No hay un proceso de traducción idiomática en este escenario. -->
-- [ ] C) El canal analógico de retroalimentación asíncrona.
+- [ ] B) El canal analógico de retroalimentación asíncrona.
   <!-- feedback: Incorrecto. El caso se centra en la función del lenguaje y no en las propiedades del canal físico. -->
-- [ ] D) La eliminación absoluta del referente real del mensaje.
+- [ ] C) La eliminación absoluta del referente real del mensaje.
   <!-- feedback: Incorrecto. El referente conceptual se mantiene perfectamente comprensible. -->
 
 ### Explicación Pedagógica

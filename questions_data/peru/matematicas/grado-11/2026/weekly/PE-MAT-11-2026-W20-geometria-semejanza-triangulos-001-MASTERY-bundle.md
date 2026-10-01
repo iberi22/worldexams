@@ -30,9 +30,9 @@ creador: "Jules-Agent"
 ¿Cuál es la condición mínima necesaria para afirmar que dos triángulos son semejantes según el criterio AA (Ángulo-Ángulo)?
 
 ### Opciones
-- [ ] A) Que tengan sus tres lados proporcionales.
+- [ ] B) Que tengan sus tres lados proporcionales.
   <!-- feedback: Incorrecto. Este es el criterio LLL. -->
-- [x] B) Que tengan dos de sus ángulos internos respectivamente iguales.
+- [x] A) Que tengan dos de sus ángulos internos respectivamente iguales.
   <!-- feedback: Correcto. Si dos triángulos comparten dos ángulos, el tercero también será igual y sus formas serán idénticas (semejantes). -->
 - [ ] C) Que tengan un ángulo igual y los lados que lo forman iguales.
   <!-- feedback: Incorrecto. Esto indicaría congruencia (mismo tamaño), no solo semejanza. -->
@@ -80,9 +80,9 @@ En geometría, cuando escalamos las dimensiones de una figura por un factor $k$,
 Un poste de 2 metros proyecta una sombra de 3 metros. En ese mismo instante, una torre cercana proyecta una sombra de 45 metros. ¿Cuál es la altura de la torre?
 
 ### Opciones
-- [ ] A) 20 metros
+- [ ] B) 20 metros
   <!-- feedback: Incorrecto. Error en el planteamiento de la proporción. -->
-- [x] B) 30 metros
+- [x] A) 30 metros
   <!-- feedback: Correcto. Proporción: $2 / 3 = h / 45 \Rightarrow 3h = 90 \Rightarrow h = 30$. -->
 - [ ] C) 40 metros
   <!-- feedback: Incorrecto. Realizó mal la multiplicación cruzada. -->
@@ -107,9 +107,9 @@ En un triángulo $ABC$, se traza una línea paralela al lado $BC$ que corta a lo
 ### Opciones
 - [ ] A) 12
   <!-- feedback: Incorrecto. Multiplicó en lugar de aplicar la proporción directa. -->
-- [x] B) 3
+- [x] C) 3
   <!-- feedback: Correcto. Por Teorema de Tales: $AD / DB = AE / EC \Rightarrow 4 / 2 = 6 / EC \Rightarrow 2 = 6 / EC \Rightarrow EC = 3$. -->
-- [ ] C) 4
+- [ ] B) 4
   <!-- feedback: Incorrecto. Asumió que los segmentos eran iguales. -->
 - [ ] D) 8
   <!-- feedback: Incorrecto. Error en el despeje de la proporción. -->
@@ -157,11 +157,11 @@ En un triángulo cuyo perímetro es de 48 cm, se unen los puntos medios de sus t
 ### Opciones
 - [ ] A) 48 cm
   <!-- feedback: Incorrecto. Las longitudes de los lados se han reducido. -->
-- [x] B) 24 cm
+- [x] D) 24 cm
   <!-- feedback: Correcto. Cada lado del nuevo triángulo es una base media, que mide la mitad del lado correspondiente del original. Por lo tanto, el perímetro también es la mitad: $48 / 2 = 24$. -->
-- [ ] C) 12 cm
+- [ ] B) 12 cm
   <!-- feedback: Incorrecto. Dividió el perímetro original por 4 por error. -->
-- [ ] D) 16 cm
+- [ ] C) 16 cm
   <!-- feedback: Incorrecto. No corresponde a la relación de semejanza 1:2 de las longitudes. -->
 
 ### Explicacion Pedagogica
@@ -182,9 +182,9 @@ Para medir el ancho de un río, un ingeniero utiliza dos triángulos semejantes 
 ### Opciones
 - [ ] A) 25 metros
   <!-- feedback: Incorrecto. Proporción mal aplicada. -->
-- [x] B) 32 metros
+- [x] C) 32 metros
   <!-- feedback: Correcto. Razón de semejanza $20 / 5 = 4$. Entonces el otro cateto es $8 \times 4 = 32$. -->
-- [ ] C) 40 metros
+- [ ] B) 40 metros
   <!-- feedback: Incorrecto. Multiplicó por un factor incorrecto. -->
 - [ ] D) 13 metros
   <!-- feedback: Incorrecto. Sumó los catetos del triángulo menor. -->
@@ -232,11 +232,11 @@ En una cámara oscura de 20 cm de largo, se forma la imagen de un árbol de 15 m
 ### Opciones
 - [ ] A) 5 cm
   <!-- feedback: Incorrecto. Error en la conversión de unidades o en la proporción. -->
-- [x] B) 10 cm
+- [x] D) 10 cm
   <!-- feedback: Correcto. Los triángulos son semejantes. $\text{Altura}_{\text{árbol}} / \text{Distancia} = \text{Altura}_{\text{imagen}} / \text{Largo}_{\text{cámara}}$. $15 / 30 = h / 0.20 \Rightarrow 0.5 = h / 0.20 \Rightarrow h = 0.10$ m $= 10$ cm. -->
-- [ ] C) 15 cm
+- [ ] B) 15 cm
   <!-- feedback: Incorrecto. La imagen no puede tener el mismo valor numérico que la altura real en unidades diferentes. -->
-- [ ] D) 7.5 cm
+- [ ] C) 7.5 cm
   <!-- feedback: Incorrecto. Realizó mal el cálculo de la razón. -->
 
 ### Explicacion Pedagogica
@@ -255,9 +255,9 @@ El orificio de la cámara actúa como el vértice común de dos triángulos seme
 Dos triángulos son semejantes y sus perímetros están en la razón de 3 a 5. Si la altura del triángulo mayor es de 25 cm, ¿cuánto mide la altura correspondiente del triángulo menor?
 
 ### Opciones
-- [ ] A) 10 cm
+- [ ] B) 10 cm
   <!-- feedback: Incorrecto. Aplicó una razón diferente a la dada. -->
-- [x] B) 15 cm
+- [x] A) 15 cm
   <!-- feedback: Correcto. La razón entre cualquier par de líneas notables correspondientes (como las alturas) es la misma que la razón de los perímetros. $h / 25 = 3 / 5 \Rightarrow 5h = 75 \Rightarrow h = 15$. -->
 - [ ] C) 20 cm
   <!-- feedback: Incorrecto. Valor inconsistente con la proporción 3/5. -->
@@ -282,11 +282,11 @@ En un triángulo $ABC$, se inscribe un rombo $ADEF$ tal que los puntos $D, E$ y 
 ### Opciones
 - [ ] A) 3
   <!-- feedback: Incorrecto. Valor obtenido por una suposición de punto medio incorrecta. -->
-- [x] B) 4
+- [x] D) 4
   <!-- feedback: Correcto. Sea $x$ el lado del rombo. Por semejanza de triángulos ($EFC \sim ABC$): $x / 12 = (6 - x) / 6 \Rightarrow 6x = 12(6 - x) \Rightarrow 6x = 72 - 12x \Rightarrow 18x = 72 \Rightarrow x = 4$. -->
-- [ ] C) 4.5
+- [ ] B) 4.5
   <!-- feedback: Incorrecto. Error en el planteamiento de la relación de semejanza. -->
-- [ ] D) 2
+- [ ] C) 2
   <!-- feedback: Incorrecto. El rombo ocuparía una porción muy pequeña del triángulo. -->
 
 ### Explicacion Pedagogica
@@ -305,9 +305,9 @@ Al inscribir el rombo, el triángulo pequeño $EFC$ es semejante al triángulo o
 En un trapecio $ABCD$, las bases $AD$ y $BC$ miden 12 cm y 8 cm respectivamente. Las diagonales se cortan en el punto $O$. Si la altura total del trapecio es de 10 cm, ¿cuál es la distancia desde $O$ hasta la base mayor?
 
 ### Opciones
-- [ ] A) 4 cm
+- [ ] B) 4 cm
   <!-- feedback: Incorrecto. Esta es la distancia a la base menor. -->
-- [x] B) 6 cm
+- [x] A) 6 cm
   <!-- feedback: Correcto. Los triángulos $AOD$ y $BOC$ son semejantes. Razón $= 12 / 8 = 1.5$. Si $h_1$ es la distancia a la base mayor y $h_2$ a la menor: $h_1 / h_2 = 1.5$ y $h_1 + h_2 = 10$. Resolviendo: $1.5h_2 + h_2 = 10 \Rightarrow 2.5h_2 = 10 \Rightarrow h_2 = 4$. Entonces $h_1 = 6$. -->
 - [ ] C) 5 cm
   <!-- feedback: Incorrecto. Las diagonales no se cortan en el punto medio de la altura a menos que sea un paralelogramo. -->
@@ -357,11 +357,11 @@ Dos postes verticales de alturas $a = 2$ m y $b = 3$ m están separados una dist
 ### Opciones
 - [ ] A) 1.5 metros
   <!-- feedback: Incorrecto. Promedio simple que no aplica en este modelo de semejanza. -->
-- [x] B) 1.2 metros
+- [x] D) 1.2 metros
   <!-- feedback: Correcto. Por semejanza se demuestra la fórmula $1/h = 1/a + 1/b$. Entonces $1/h = 1/2 + 1/3 = 5/6 \Rightarrow h = 6/5 = 1.2$. -->
-- [ ] C) 1.0 metros
+- [ ] B) 1.0 metros
   <!-- feedback: Incorrecto. No satisface la relación armónica de las alturas. -->
-- [ ] D) 2.5 metros
+- [ ] C) 2.5 metros
   <!-- feedback: Incorrecto. La altura de cruce siempre es menor que la menor de las alturas de los postes. -->
 
 ### Explicacion Pedagogica
@@ -380,9 +380,9 @@ Este es el clásico problema de la media armónica en geometría. La altura del 
 En un triángulo rectángulo, la altura relativa a la hipotenusa mide 12 cm. Si una de las proyecciones de los catetos sobre la hipotenusa mide 9 cm, ¿cuánto mide el cateto cuya proyección es la desconocida?
 
 ### Opciones
-- [ ] A) 15 cm
+- [ ] B) 15 cm
   <!-- feedback: Incorrecto. Este es el valor del cateto cuya proyección es 9. -->
-- [x] B) 20 cm
+- [x] A) 20 cm
   <!-- feedback: Correcto. Primero hallamos la otra proyección $n$: $12^2 = 9 \cdot n \Rightarrow 144 = 9n \Rightarrow n = 16$. El cateto $b$ cumple $b^2 = n \cdot hipotenusa = 16 \cdot (9+16) = 16 \cdot 25 = 400 \Rightarrow b = 20$. -->
 - [ ] C) 25 cm
   <!-- feedback: Incorrecto. Este es el valor de la hipotenusa total. -->
@@ -405,9 +405,9 @@ Combinamos dos relaciones métricas: 1) el cuadrado de la altura es el producto 
 En un triángulo isósceles de ángulos 36°, 72° y 72°, se traza la bisectriz de uno de los ángulos de 72°. ¿Cuál es la razón de semejanza entre el triángulo original y el nuevo triángulo isósceles más pequeño que se forma?
 
 ### Opciones
-- [ ] A) 2
+- [ ] B) 2
   <!-- feedback: Incorrecto. No es una relación de números enteros simple. -->
-- [x] B) $\frac{1 + \sqrt{5}}{2}$ (Número de oro)
+- [x] A) $\frac{1 + \sqrt{5}}{2}$ (Número de oro)
   <!-- feedback: Correcto. Este es el llamado "triángulo áureo". Al trazar la bisectriz se genera un triángulo semejante al original. La relación entre sus lados corresponde a la proporción áurea $\phi$. -->
 - [ ] C) $\sqrt{2}$
   <!-- feedback: Incorrecto. Esta razón aparece en cuadrados y triángulos rectángulos isósceles. -->
@@ -432,11 +432,11 @@ En un triángulo $ABC$, se traza la ceviana interior $BD$. Si el ángulo $ABD$ e
 ### Opciones
 - [ ] A) 10
   <!-- feedback: Incorrecto. Sumó los segmentos sin considerar la semejanza. -->
-- [x] B) 9
+- [x] D) 9
   <!-- feedback: Correcto. Los triángulos $ABD$ y $ACB$ son semejantes por el criterio AA (comparten el ángulo $A$ y tienen otro ángulo igual por dato). Proporción: $AB / AC = AD / AB \Rightarrow 6 / AC = 4 / 6 \Rightarrow 4 AC = 36 \Rightarrow AC = 9$. -->
-- [ ] C) 8
+- [ ] B) 8
   <!-- feedback: Incorrecto. Error en la correspondencia de los lados en la proporción. -->
-- [ ] D) 12
+- [ ] C) 12
   <!-- feedback: Incorrecto. Valor inconsistente con la razón de semejanza encontrada. -->
 
 ### Explicacion Pedagogica
@@ -457,9 +457,9 @@ En un triángulo $ABC$, se trazan dos paralelas al lado $BC$ que dividen a la al
 ### Opciones
 - [ ] A) 10 cm²
   <!-- feedback: Incorrecto. Este es el área del triángulo pequeño superior. -->
-- [x] B) 30 cm²
+- [x] C) 30 cm²
   <!-- feedback: Correcto. Área superior $= (1/3)^2 \cdot 90 = 10$. Área hasta la segunda paralela $= (2/3)^2 \cdot 90 = 40$. El área del trapecio central es la diferencia: $40 - 10 = 30$. -->
-- [ ] C) 40 cm²
+- [ ] B) 40 cm²
   <!-- feedback: Incorrecto. Este es el área acumulada de las dos primeras secciones. -->
 - [ ] D) 20 cm²
   <!-- feedback: Incorrecto. Error en la aplicación de la razón cuadrática de áreas. -->

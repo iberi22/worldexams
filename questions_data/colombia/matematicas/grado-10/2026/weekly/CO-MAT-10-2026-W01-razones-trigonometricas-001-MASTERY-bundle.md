@@ -52,13 +52,13 @@ Por definición, $\operatorname{sen}(\theta) = \frac{\text{opuesto}}{\text{hipot
 ### Enunciado
 ¿Cuál es el valor de $\cos(60^\circ)$?
 ### Opciones
-- [x] A) $\frac{1}{2}$
+- [x] D) $\frac{1}{2}$
   <!-- feedback: Correcto. $\cos(60^\circ) = 0.5 = \frac{1}{2}$. -->
-- [ ] B) $\frac{\sqrt{3}}{2}$
+- [ ] A) $\frac{\sqrt{3}}{2}$
   <!-- feedback: Incorrecto. Corresponde a $\operatorname{sen}(60^\circ)$ o $\cos(30^\circ)$. -->
-- [ ] C) $\frac{\sqrt{2}}{2}$
+- [ ] B) $\frac{\sqrt{2}}{2}$
   <!-- feedback: Incorrecto. Corresponde a $\cos(45^\circ)$. -->
-- [ ] D) $1$
+- [ ] C) $1$
   <!-- feedback: Incorrecto. $1$ es el valor de $\cos(0^\circ)$. -->
 ### Explicacion Pedagogica
 En el triángulo notable $30^\circ-60^\circ-90^\circ$, $\cos(60^\circ) = \frac{1}{2}$.
@@ -72,11 +72,11 @@ En el triángulo notable $30^\circ-60^\circ-90^\circ$, $\cos(60^\circ) = \frac{1
 ### Enunciado
 ¿A qué distancia de la base de la torre se encuentra el observador?
 ### Opciones
-- [x] A) $20\text{ m}$
+- [x] C) $20\text{ m}$
   <!-- feedback: Correcto. $\tan(45^\circ) = 1 = \frac{20}{x} \implies x = 20\text{ m}$. -->
-- [ ] B) $10\text{ m}$
+- [ ] A) $10\text{ m}$
   <!-- feedback: Incorrecto. Dividiste la altura entre 2. -->
-- [ ] C) $20\sqrt{3}\text{ m}$
+- [ ] B) $20\sqrt{3}\text{ m}$
   <!-- feedback: Incorrecto. Usaste un ángulo de elevación de $30^\circ$. -->
 - [ ] D) $40\text{ m}$
   <!-- feedback: Incorrecto. Duplicaste la distancia real. -->
@@ -112,13 +112,13 @@ Hipotenusa $= \sqrt{3^2 + 4^2} = 5$. Así, $\cos(\alpha) = \frac{\text{adyacente
 ### Enunciado
 ¿A qué altura del suelo llega el extremo superior de la rampa?
 ### Opciones
-- [x] A) $5\text{ m}$
+- [x] D) $5\text{ m}$
   <!-- feedback: Correcto. $h = 10 \cdot \operatorname{sen}(30^\circ) = 10 \cdot (1/2) = 5\text{ m}$. -->
-- [ ] B) $5\sqrt{3}\text{ m}$
+- [ ] A) $5\sqrt{3}\text{ m}$
   <!-- feedback: Incorrecto. Calculaste la distancia horizontal (usando coseno). -->
-- [ ] C) $10\text{ m}$
+- [ ] B) $10\text{ m}$
   <!-- feedback: Incorrecto. Asumiste altura igual a la rampa. -->
-- [ ] D) $2.5\text{ m}$
+- [ ] C) $2.5\text{ m}$
   <!-- feedback: Incorrecto. Dividiste por 4. -->
 ### Explicacion Pedagogica
 Altura $h = \text{hipotenusa} \cdot \operatorname{sen}(30^\circ) = 10 \cdot 0.5 = 5\text{ m}$.
@@ -132,9 +132,9 @@ Altura $h = \text{hipotenusa} \cdot \operatorname{sen}(30^\circ) = 10 \cdot 0.5 
 ### Enunciado
 ¿Cuál es el valor de $\tan(\theta)$?
 ### Opciones
-- [x] A) $\frac{12}{5}$
+- [x] B) $\frac{12}{5}$
   <!-- feedback: Correcto. Cateto adyacente $= \sqrt{13^2 - 12^2} = 5$. $\tan(\theta) = 12/5$. -->
-- [ ] B) $\frac{5}{12}$
+- [ ] A) $\frac{5}{12}$
   <!-- feedback: Incorrecto. Invertiste la tangente (cotangente). -->
 - [ ] C) $\frac{5}{13}$
   <!-- feedback: Incorrecto. $\frac{5}{13}$ es el coseno de $\theta$. -->
@@ -152,11 +152,11 @@ Cateto adyacente $= \sqrt{169 - 144} = 5$. Por lo tanto, $\tan(\theta) = \frac{\
 ### Enunciado
 ¿Cuál es el ángulo de elevación del Sol?
 ### Opciones
-- [x] A) $60^\circ$
+- [x] C) $60^\circ$
   <!-- feedback: Correcto. $\tan(\theta) = \frac{30}{10\sqrt{3}} = \frac{3}{\sqrt{3}} = \sqrt{3} \implies \theta = 60^\circ$. -->
-- [ ] B) $30^\circ$
+- [ ] A) $30^\circ$
   <!-- feedback: Incorrecto. Si fuera $30^\circ$, la tangente valdría $\frac{\sqrt{3}}{3}$. -->
-- [ ] C) $45^\circ$
+- [ ] B) $45^\circ$
   <!-- feedback: Incorrecto. Para $45^\circ$, la altura y la sombra deben ser iguales. -->
 - [ ] D) $75^\circ$
   <!-- feedback: Incorrecto. Valor fuera de la razón notable. -->
@@ -172,13 +172,13 @@ $\tan(\theta) = \frac{30}{10\sqrt{3}} = \frac{3}{\sqrt{3}} = \sqrt{3} \implies \
 ### Enunciado
 ¿A qué distancia horizontal de la base del acantilado está el bote?
 ### Opciones
-- [x] A) $50\sqrt{3}\text{ m}$
+- [x] D) $50\sqrt{3}\text{ m}$
   <!-- feedback: Correcto. $\tan(30^\circ) = \frac{50}{d} \implies \frac{\sqrt{3}}{3} = \frac{50}{d} \implies d = \frac{150}{\sqrt{3}} = 50\sqrt{3}\text{ m}$. -->
-- [ ] B) $\frac{50}{\sqrt{3}}\text{ m}$
+- [ ] A) $\frac{50}{\sqrt{3}}\text{ m}$
   <!-- feedback: Incorrecto. Invertiste la razón tangente. -->
-- [ ] C) $50\text{ m}$
+- [ ] B) $50\text{ m}$
   <!-- feedback: Incorrecto. Sería correcto si el ángulo fuera $45^\circ$. -->
-- [ ] D) $100\text{ m}$
+- [ ] C) $100\text{ m}$
   <!-- feedback: Incorrecto. $100\text{ m}$ es la distancia en línea recta (hipotenusa). -->
 ### Explicacion Pedagogica
 $\tan(30^\circ) = \frac{50}{d} \implies d = \frac{50}{\tan(30^\circ)} = \frac{50}{1/\sqrt{3}} = 50\sqrt{3}\text{ m}$.
@@ -192,13 +192,13 @@ $\tan(30^\circ) = \frac{50}{d} \implies d = \frac{50}{\tan(30^\circ)} = \frac{50
 ### Enunciado
 ¿Cuál es la expresión simplificada equivalente?
 ### Opciones
-- [x] A) $\cos(\theta)$
+- [x] D) $\cos(\theta)$
   <!-- feedback: Correcto. $\operatorname{sen}(\theta) \cdot \frac{\cos(\theta)}{\operatorname{sen}(\theta)} = \cos(\theta)$. -->
-- [ ] B) $\operatorname{sec}(\theta)$
+- [ ] A) $\operatorname{sec}(\theta)$
   <!-- feedback: Incorrecto. Es el recíproco del coseno. -->
-- [ ] C) $\operatorname{tan}(\theta)$
+- [ ] B) $\operatorname{tan}(\theta)$
   <!-- feedback: Incorrecto. Es el recíproco de la cotangente. -->
-- [ ] D) $1$
+- [ ] C) $1$
   <!-- feedback: Incorrecto. $1$ se obtiene multiplicando seno por cosecante. -->
 ### Explicacion Pedagogica
 $\operatorname{sen}(\theta) \cdot \operatorname{cot}(\theta) = \operatorname{sen}(\theta) \cdot \frac{\cos(\theta)}{\operatorname{sen}(\theta)} = \cos(\theta)$.
@@ -212,13 +212,13 @@ $\operatorname{sen}(\theta) \cdot \operatorname{cot}(\theta) = \operatorname{sen
 ### Enunciado
 ¿A qué expresión equivale exactamente?
 ### Opciones
-- [x] A) $\operatorname{sen}^2(\theta)$
+- [x] D) $\operatorname{sen}^2(\theta)$
   <!-- feedback: Correcto. De $\operatorname{sen}^2(\theta) + \cos^2(\theta) = 1 \implies \operatorname{sen}^2(\theta) = 1 - \cos^2(\theta)$. -->
-- [ ] B) $\operatorname{tan}^2(\theta)$
+- [ ] A) $\operatorname{tan}^2(\theta)$
   <!-- feedback: Incorrecto. La tangente involucra la división por coseno. -->
-- [ ] C) $\operatorname{sec}^2(\theta)$
+- [ ] B) $\operatorname{sec}^2(\theta)$
   <!-- feedback: Incorrecto. Es $1 + \operatorname{tan}^2(\theta)$. -->
-- [ ] D) $\operatorname{cos}^2(\theta)$
+- [ ] C) $\operatorname{cos}^2(\theta)$
   <!-- feedback: Incorrecto. Restar de 1 no devuelve la misma función. -->
 ### Explicacion Pedagogica
 De $\operatorname{sen}^2(\theta) + \cos^2(\theta) = 1$ se despeja $\operatorname{sen}^2(\theta) = 1 - \cos^2(\theta)$.

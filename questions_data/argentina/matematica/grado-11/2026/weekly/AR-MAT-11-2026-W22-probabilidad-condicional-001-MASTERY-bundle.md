@@ -39,9 +39,9 @@ Este bundle se centra en la probabilidad condicional, eventos dependientes e ind
 
 ### Opciones
 - [ ] A) P(Colón ∩ Asado) <!-- feedback: Incorrecto. Esta es la probabilidad de la intersección (ambos a la vez). -->
-- [x] B) P(Colón | Asado) <!-- feedback: Correcto. La barra vertical indica que el evento a su derecha es la condición dada. -->
-- [ ] C) P(Colón U Asado) <!-- feedback: Incorrecto. Esta es la probabilidad de la unión (uno u otro). -->
-- [ ] D) P(Asado | Colón) <!-- feedback: Incorrecto. Esta sería la probabilidad de haber probado asado dado que visitó el Colón. -->
+- [x] D) P(Colón | Asado) <!-- feedback: Correcto. La barra vertical indica que el evento a su derecha es la condición dada. -->
+- [ ] B) P(Colón U Asado) <!-- feedback: Incorrecto. Esta es la probabilidad de la unión (uno u otro). -->
+- [ ] C) P(Asado | Colón) <!-- feedback: Incorrecto. Esta sería la probabilidad de haber probado asado dado que visitó el Colón. -->
 
 ### Explicacion Pedagogica
 La probabilidad condicional de un evento A dado un evento B se escribe P(A | B). Se lee como "la probabilidad de A dado B" o "la probabilidad de A sabiendo que ocurrió B".
@@ -61,8 +61,8 @@ La probabilidad condicional de un evento A dado un evento B se escribe P(A | B).
 Si elegimos un alumno que estudia italiano, ¿cuál es la probabilidad de que también estudie francés?
 
 ### Opciones
-- [ ] A) 0,05 <!-- feedback: Incorrecto. Esa es la probabilidad de la intersección respecto al total de alumnos. -->
-- [x] B) 1/6 <!-- feedback: Correcto. P(F|I) = P(F ∩ I) / P(I) = 0,05 / 0,30 = 5/30 = 1/6. -->
+- [ ] B) 0,05 <!-- feedback: Incorrecto. Esa es la probabilidad de la intersección respecto al total de alumnos. -->
+- [x] A) 1/6 <!-- feedback: Correcto. P(F|I) = P(F ∩ I) / P(I) = 0,05 / 0,30 = 5/30 = 1/6. -->
 - [ ] C) 0,25 <!-- feedback: Incorrecto. No corresponde al cálculo de probabilidad condicional. -->
 - [ ] D) 1/4 <!-- feedback: Incorrecto. Esto sería si se dividiera por la probabilidad de francés. -->
 
@@ -84,9 +84,9 @@ La fórmula de probabilidad condicional es P(A|B) = P(A ∩ B) / P(B). Aquí, P(
 Dos eventos A y B son independientes si y solo si se cumple que:
 
 ### Opciones
-- [x] A) P(A ∩ B) = P(A) * P(B) <!-- feedback: Correcto. Esta es la definición formal de independencia de eventos. -->
-- [ ] B) P(A | B) = P(B) <!-- feedback: Incorrecto. La independencia significa que P(A|B) = P(A). -->
-- [ ] C) P(A U B) = P(A) + P(B) <!-- feedback: Incorrecto. Esto se cumple si los eventos son mutuamente excluyentes o disjuntos. -->
+- [x] C) P(A ∩ B) = P(A) * P(B) <!-- feedback: Correcto. Esta es la definición formal de independencia de eventos. -->
+- [ ] A) P(A | B) = P(B) <!-- feedback: Incorrecto. La independencia significa que P(A|B) = P(A). -->
+- [ ] B) P(A U B) = P(A) + P(B) <!-- feedback: Incorrecto. Esto se cumple si los eventos son mutuamente excluyentes o disjuntos. -->
 - [ ] D) P(A | B) = 0 <!-- feedback: Incorrecto. Esto significaría que los eventos son incompatibles. -->
 
 ### Explicacion Pedagogica
@@ -108,9 +108,9 @@ La independencia implica que la ocurrencia de un evento no afecta la probabilida
 
 ### Opciones
 - [ ] A) 0,005 <!-- feedback: Incorrecto. Esta es la probabilidad de que tenga ambas fallas. -->
-- [x] B) 0,10 <!-- feedback: Correcto. Como son independientes, P(Presión | Dibujo) = P(Presión). -->
-- [ ] C) 0,05 <!-- feedback: Incorrecto. Esta es la probabilidad de falla de dibujo. -->
-- [ ] D) 0,15 <!-- feedback: Incorrecto. Esta es la probabilidad de que tenga al menos una falla. -->
+- [x] D) 0,10 <!-- feedback: Correcto. Como son independientes, P(Presión | Dibujo) = P(Presión). -->
+- [ ] B) 0,05 <!-- feedback: Incorrecto. Esta es la probabilidad de falla de dibujo. -->
+- [ ] C) 0,15 <!-- feedback: Incorrecto. Esta es la probabilidad de que tenga al menos una falla. -->
 
 ### Explicacion Pedagogica
 Si dos eventos A y B son independientes, entonces P(A|B) = P(A). El hecho de saber que ocurrió B no cambia la probabilidad de que ocurra A.
@@ -134,9 +134,9 @@ Si elegimos un paciente que fuma, ¿cuál es la probabilidad de que tenga la enf
 
 ### Opciones
 - [ ] A) 0,08 <!-- feedback: Incorrecto. Esta es la probabilidad de ser fumador Y tener la enfermedad. -->
-- [x] B) 0,20 <!-- feedback: Correcto. El enunciado indica directamente la probabilidad condicionada: de los que fuman, el 20% tiene la enfermedad. -->
-- [ ] C) 0,40 <!-- feedback: Incorrecto. Esta es la probabilidad de fumar. -->
-- [ ] D) 0,05 <!-- feedback: Incorrecto. Esta es la probabilidad de tener la enfermedad dado que no fuma. -->
+- [x] D) 0,20 <!-- feedback: Correcto. El enunciado indica directamente la probabilidad condicionada: de los que fuman, el 20% tiene la enfermedad. -->
+- [ ] B) 0,40 <!-- feedback: Incorrecto. Esta es la probabilidad de fumar. -->
+- [ ] C) 0,05 <!-- feedback: Incorrecto. Esta es la probabilidad de tener la enfermedad dado que no fuma. -->
 
 ### Explicacion Pedagogica
 La información dada "De los que fuman, el 20% tiene la enfermedad" representa directamente la probabilidad condicional P(Enfermedad | Fuma) = 0,20.
@@ -159,9 +159,9 @@ La información dada "De los que fuman, el 20% tiene la enfermedad" representa d
 ¿Cuál es la probabilidad de que un paciente elegido al azar tenga la enfermedad?
 
 ### Opciones
-- [x] A) 0,11 <!-- feedback: Correcto. P(E) = P(E|F)*P(F) + P(E|NF)*P(NF) = 0,20*0,40 + 0,05*0,60 = 0,08 + 0,03 = 0,11. -->
-- [ ] B) 0,25 <!-- feedback: Incorrecto. No se pueden sumar las probabilidades condicionadas directamente. -->
-- [ ] C) 0,08 <!-- feedback: Incorrecto. Esta es solo la parte de los fumadores que enferman. -->
+- [x] C) 0,11 <!-- feedback: Correcto. P(E) = P(E|F)*P(F) + P(E|NF)*P(NF) = 0,20*0,40 + 0,05*0,60 = 0,08 + 0,03 = 0,11. -->
+- [ ] A) 0,25 <!-- feedback: Incorrecto. No se pueden sumar las probabilidades condicionadas directamente. -->
+- [ ] B) 0,08 <!-- feedback: Incorrecto. Esta es solo la parte de los fumadores que enferman. -->
 - [ ] D) 0,15 <!-- feedback: Incorrecto. Error en la ponderación de los grupos. -->
 
 ### Explicacion Pedagogica
@@ -205,8 +205,8 @@ Al no haber reposición, los eventos son dependientes. La probabilidad del segun
 ¿Cuál es la probabilidad de que un alfajor sea defectuoso Y provenga de la máquina B?
 
 ### Opciones
-- [ ] A) 0,02 <!-- feedback: Incorrecto. Esta es la probabilidad de ser defectuoso dado que es de B. -->
-- [x] B) 0,008 <!-- feedback: Correcto. P(Defectuoso ∩ B) = P(Defectuoso | B) * P(B) = 0,02 * 0,40 = 0,008. -->
+- [ ] B) 0,02 <!-- feedback: Incorrecto. Esta es la probabilidad de ser defectuoso dado que es de B. -->
+- [x] A) 0,008 <!-- feedback: Correcto. P(Defectuoso ∩ B) = P(Defectuoso | B) * P(B) = 0,02 * 0,40 = 0,008. -->
 - [ ] C) 0,012 <!-- feedback: Incorrecto. Esta es la probabilidad de que sea defectuoso e integrante de la máquina A. -->
 - [ ] D) 0,014 <!-- feedback: Incorrecto. Esta es la probabilidad total de ser defectuoso. -->
 
@@ -228,8 +228,8 @@ Usamos la regla de la multiplicación: P(A ∩ B) = P(A|B) * P(B). La probabilid
 Si el primer marcador fue azul, ¿cuál es la probabilidad de que el segundo sea rojo?
 
 ### Opciones
-- [ ] A) 4/10 <!-- feedback: Incorrecto. El total de marcadores cambió tras la primera extracción. -->
-- [x] B) 4/9 <!-- feedback: Correcto. Quedan los 4 rojos originales en un total de 9 marcadores. -->
+- [ ] B) 4/10 <!-- feedback: Incorrecto. El total de marcadores cambió tras la primera extracción. -->
+- [x] A) 4/9 <!-- feedback: Correcto. Quedan los 4 rojos originales en un total de 9 marcadores. -->
 - [ ] C) 3/9 <!-- feedback: Incorrecto. Esta sería la probabilidad si el primero hubiera sido rojo. -->
 - [ ] D) 5/9 <!-- feedback: Incorrecto. Esta sería la probabilidad de que el segundo sea azul. -->
 
@@ -251,8 +251,8 @@ P(Rojo en 2do | Azul en 1ro). Al sacar un azul, quedan 9 elementos en la caja (5
 ¿Cuál es la probabilidad de que un socio elegido al azar NO asista al estadio?
 
 ### Opciones
-- [ ] A) 0,68 <!-- feedback: Incorrecto. Esta es la probabilidad de que sí asista. -->
-- [x] B) 0,32 <!-- feedback: Correcto. P(Asiste) = 0,8*0,7 + 0,4*0,3 = 0,56 + 0,12 = 0,68. P(No asiste) = 1 - 0,68 = 0,32. -->
+- [ ] B) 0,68 <!-- feedback: Incorrecto. Esta es la probabilidad de que sí asista. -->
+- [x] A) 0,32 <!-- feedback: Correcto. P(Asiste) = 0,8*0,7 + 0,4*0,3 = 0,56 + 0,12 = 0,68. P(No asiste) = 1 - 0,68 = 0,32. -->
 - [ ] C) 0,12 <!-- feedback: Incorrecto. Esta es solo la parte de los hinchas de Buenos Aires que asiste. -->
 - [ ] D) 0,44 <!-- feedback: Incorrecto. Error en los cálculos intermedios. -->
 
@@ -299,10 +299,10 @@ Restringimos el espacio muestral al evento condicionante "prefiere Jugo" (110 pe
 ¿Son los eventos A y B independientes?
 
 ### Opciones
-- [x] A) Sí, porque P(A|B) = P(A) = 1/6. <!-- feedback: Correcto. P(A) = 6/36 = 1/6. P(A|B): si el primero es 4, solo el 3 en el segundo da suma 7, así que P(A|B) = 1/6. -->
-- [ ] B) No, porque si sale 4 en el primero, la suma está condicionada. <!-- feedback: Incorrecto. Aunque parezca que sí, matemáticamente la probabilidad no cambia. -->
-- [ ] C) Sí, porque la suma de dos dados siempre es independiente de cada dado. <!-- feedback: Incorrecto. No siempre es así para otras sumas. -->
-- [ ] D) No, porque P(A ∩ B) = 1/36 y P(A)*P(B) = 1/12. <!-- feedback: Incorrecto. P(A)*P(B) = (1/6)*(1/6) = 1/36, lo cual es igual a la intersección. -->
+- [x] D) Sí, porque P(A|B) = P(A) = 1/6. <!-- feedback: Correcto. P(A) = 6/36 = 1/6. P(A|B): si el primero es 4, solo el 3 en el segundo da suma 7, así que P(A|B) = 1/6. -->
+- [ ] A) No, porque si sale 4 en el primero, la suma está condicionada. <!-- feedback: Incorrecto. Aunque parezca que sí, matemáticamente la probabilidad no cambia. -->
+- [ ] B) Sí, porque la suma de dos dados siempre es independiente de cada dado. <!-- feedback: Incorrecto. No siempre es así para otras sumas. -->
+- [ ] C) No, porque P(A ∩ B) = 1/36 y P(A)*P(B) = 1/12. <!-- feedback: Incorrecto. P(A)*P(B) = (1/6)*(1/6) = 1/36, lo cual es igual a la intersección. -->
 
 ### Explicacion Pedagogica
 Calculamos P(A) = 6/36 = 1/6. Calculamos P(B) = 6/36 = 1/6. La intersección es el par (4,3), P(A ∩ B) = 1/36. Como 1/36 = (1/6)*(1/6), los eventos son independientes.
@@ -322,8 +322,8 @@ Calculamos P(A) = 6/36 = 1/6. Calculamos P(B) = 6/36 = 1/6. La intersección es 
 ¿Cuál es la probabilidad de que una persona elegida al azar haya aprobado AMBAS partes?
 
 ### Opciones
-- [ ] A) 0,80 <!-- feedback: Incorrecto. Esta es la probabilidad condicional de la práctica. -->
-- [x] B) 0,56 <!-- feedback: Correcto. P(T ∩ P) = P(P|T) * P(T) = 0,80 * 0,70 = 0,56. -->
+- [ ] B) 0,80 <!-- feedback: Incorrecto. Esta es la probabilidad condicional de la práctica. -->
+- [x] A) 0,56 <!-- feedback: Correcto. P(T ∩ P) = P(P|T) * P(T) = 0,80 * 0,70 = 0,56. -->
 - [ ] C) 0,75 <!-- feedback: Incorrecto. No surge del producto de las probabilidades dadas. -->
 - [ ] D) 0,50 <!-- feedback: Incorrecto. Error en el cálculo decimal. -->
 
@@ -346,9 +346,9 @@ Usamos la regla del producto para la intersección de eventos dependientes: P(A 
 
 ### Opciones
 - [ ] A) 13/20 <!-- feedback: Incorrecto. No se pueden sumar los casos directamente si las cajas tienen distinta probabilidad de ser elegidas (o si se ignora el proceso de elección). -->
-- [x] B) 0,65 <!-- feedback: Correcto. P(Ch) = P(Ch|C1)P(C1) + P(Ch|C2)P(C2) = (8/10 * 0,5) + (5/10 * 0,5) = 0,4 + 0,25 = 0,65. -->
-- [ ] C) 0,80 <!-- feedback: Incorrecto. Esta es solo la probabilidad si fuera de la caja 1. -->
-- [ ] D) 0,50 <!-- feedback: Incorrecto. Esta es la probabilidad si fuera de la caja 2. -->
+- [x] D) 0,65 <!-- feedback: Correcto. P(Ch) = P(Ch|C1)P(C1) + P(Ch|C2)P(C2) = (8/10 * 0,5) + (5/10 * 0,5) = 0,4 + 0,25 = 0,65. -->
+- [ ] B) 0,80 <!-- feedback: Incorrecto. Esta es solo la probabilidad si fuera de la caja 1. -->
+- [ ] C) 0,50 <!-- feedback: Incorrecto. Esta es la probabilidad si fuera de la caja 2. -->
 
 ### Explicacion Pedagogica
 Aplicamos la Probabilidad Total. La probabilidad de elegir chocolate depende de qué caja se elija. Como cada caja tiene 1/2 de probabilidad: P(Ch) = (0,5 * 0,8) + (0,5 * 0,5) = 0,4 + 0,25 = 0,65.
@@ -368,8 +368,8 @@ Aplicamos la Probabilidad Total. La probabilidad de elegir chocolate depende de 
 Si se selecciona una máquina y esta falló, ¿cuál es la probabilidad de que haya requerido mantenimiento ese mes?
 
 ### Opciones
-- [ ] A) 0,10 <!-- feedback: Incorrecto. Esta es la probabilidad de fallo dado que requiere mantenimiento. -->
-- [x] B) 0,714 <!-- feedback: Correcto. P(M|F) = P(F|M)P(M) / P(F). P(F) = 0,1*0,2 + 0,01*0,8 = 0,028. P(M|F) = 0,02 / 0,028 ≈ 0,714. -->
+- [ ] B) 0,10 <!-- feedback: Incorrecto. Esta es la probabilidad de fallo dado que requiere mantenimiento. -->
+- [x] A) 0,714 <!-- feedback: Correcto. P(M|F) = P(F|M)P(M) / P(F). P(F) = 0,1*0,2 + 0,01*0,8 = 0,028. P(M|F) = 0,02 / 0,028 ≈ 0,714. -->
 - [ ] C) 0,20 <!-- feedback: Incorrecto. Esta es la probabilidad a priori de mantenimiento. -->
 - [ ] D) 0,02 <!-- feedback: Incorrecto. Esta es la probabilidad de que requiera mantenimiento y falle. -->
 
@@ -391,8 +391,8 @@ Este es un problema de Teorema de Bayes. P(M|F) = [P(F|M)*P(M)] / [P(F|M)*P(M) +
 Si el blanco fue alcanzado por EXACTAMENTE un disparo, ¿cuál es la probabilidad de que haya sido el de Facundo?
 
 ### Opciones
-- [ ] A) 0,70 <!-- feedback: Incorrecto. Esta es su probabilidad de acierto general. -->
-- [x] B) 0,368 <!-- feedback: Correcto. P(F acierta y M falla) = 0,7*0,2 = 0,14. P(M acierta y F falla) = 0,8*0,3 = 0,24. Total exactamente uno = 0,38. P(F | exact. uno) = 0,14 / 0,38 ≈ 0,368. -->
+- [ ] B) 0,70 <!-- feedback: Incorrecto. Esta es su probabilidad de acierto general. -->
+- [x] A) 0,368 <!-- feedback: Correcto. P(F acierta y M falla) = 0,7*0,2 = 0,14. P(M acierta y F falla) = 0,8*0,3 = 0,24. Total exactamente uno = 0,38. P(F | exact. uno) = 0,14 / 0,38 ≈ 0,368. -->
 - [ ] C) 0,14 <!-- feedback: Incorrecto. Esta es la probabilidad de que Facundo acierte y Martín no, pero respecto al total. -->
 - [ ] D) 0,50 <!-- feedback: Incorrecto. Martín tiene mayor probabilidad de acierto, por lo que la respuesta debería ser menor a 0,5. -->
 
@@ -415,9 +415,9 @@ Si el test da positivo, ¿cuál es la probabilidad de que el agua esté realment
 
 ### Opciones
 - [ ] A) 0,99 <!-- feedback: Incorrecto. Esta es la sensibilidad, no el valor predictivo positivo. -->
-- [x] B) 0,167 <!-- feedback: Correcto. P(C|+) = (0,99*0,01) / (0,99*0,01 + 0,05*0,99) = 0,0099 / (0,0099 + 0,0495) = 0,0099 / 0,0594 = 1/6 ≈ 0,167. -->
-- [ ] C) 0,95 <!-- feedback: Incorrecto. Esta es la especificidad. -->
-- [ ] D) 0,01 <!-- feedback: Incorrecto. Esta es la probabilidad a priori de contaminación. -->
+- [x] D) 0,167 <!-- feedback: Correcto. P(C|+) = (0,99*0,01) / (0,99*0,01 + 0,05*0,99) = 0,0099 / (0,0099 + 0,0495) = 0,0099 / 0,0594 = 1/6 ≈ 0,167. -->
+- [ ] B) 0,95 <!-- feedback: Incorrecto. Esta es la especificidad. -->
+- [ ] C) 0,01 <!-- feedback: Incorrecto. Esta es la probabilidad a priori de contaminación. -->
 
 ### Explicacion Pedagogica
 Aunque el test es muy preciso, la baja prevalencia (1%) hace que la mayoría de los positivos sean falsos positivos del 99% sano. P(C|+) = 0,0099 / 0,0594 = 1/6.
@@ -461,8 +461,8 @@ Si la pareja A ganó la partida, ¿cuál es la probabilidad de que hayan empezad
 
 ### Opciones
 - [ ] A) 0,50 <!-- feedback: Incorrecto. Empezar siendo mano da ventaja, por lo que la probabilidad debe ser mayor a 0,5. -->
-- [x] B) 0,60 <!-- feedback: Correcto. P(M|G) = P(G|M)P(M) / P(G). P(G) = 0,6*0,5 + 0,4*0,5 = 0,5. P(M|G) = 0,3 / 0,5 = 0,6. -->
-- [ ] C) 0,30 <!-- feedback: Incorrecto. Esta es la probabilidad de ser mano y ganar. -->
+- [x] C) 0,60 <!-- feedback: Correcto. P(M|G) = P(G|M)P(M) / P(G). P(G) = 0,6*0,5 + 0,4*0,5 = 0,5. P(M|G) = 0,3 / 0,5 = 0,6. -->
+- [ ] B) 0,30 <!-- feedback: Incorrecto. Esta es la probabilidad de ser mano y ganar. -->
 - [ ] D) 0,75 <!-- feedback: Incorrecto. Es un valor demasiado alto para los datos dados. -->
 
 ### Explicacion Pedagogica

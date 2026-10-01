@@ -32,13 +32,13 @@ Este bundle contiene 10 preguntas sobre **circulo-area-perimetro** para grado 7,
 ### Enunciado
 ¿Cuál es la relación entre el radio y el diámetro de un círculo?
 ### Opciones
-- [x] A) El diámetro es exactamente el doble del radio
+- [x] D) El diámetro es exactamente el doble del radio
   <!-- feedback: Correcto. El diámetro $d = 2r$ siempre es el doble del radio. -->
-- [ ] B) El diámetro es el radio al cuadrado
+- [ ] A) El diámetro es el radio al cuadrado
   <!-- feedback: Incorrecto. No hay relación cuadrática entre radio y diámetro. -->
-- [ ] C) El radio es el doble del diámetro
+- [ ] B) El radio es el doble del diámetro
   <!-- feedback: Incorrecto. El radio es la mitad del diámetro, no su doble. -->
-- [ ] D) El radio y el diámetro son siempre iguales
+- [ ] C) El radio y el diámetro son siempre iguales
   <!-- feedback: Incorrecto. Solo coincidirían en un círculo de radio $0$, lo cual no aplica. -->
 ### Explicacion Pedagogica
 El radio $r$ es la distancia del centro al borde; el diámetro $d$ cruza el círculo pasando por el centro, y se cumple $d = 2r$.
@@ -52,9 +52,9 @@ El radio $r$ es la distancia del centro al borde; el diámetro $d$ cruza el cír
 ### Enunciado
 ¿Cómo se calcula la longitud de la circunferencia de un círculo?
 ### Opciones
-- [x] A) Con la fórmula $C = 2\pi r$
+- [x] B) Con la fórmula $C = 2\pi r$
   <!-- feedback: Correcto. La longitud de la circunferencia es el doble del producto de $\pi$ por el radio. -->
-- [ ] B) Con la fórmula $C = \pi r^2$
+- [ ] A) Con la fórmula $C = \pi r^2$
   <!-- feedback: Incorrecto. $\pi r^2$ es la fórmula del área, no del perímetro. -->
 - [ ] C) Con la fórmula $C = r/2$
   <!-- feedback: Incorrecto. Dividir el radio entre 2 no produce la circunferencia. -->
@@ -72,11 +72,11 @@ La circunferencia es el perímetro del círculo y su fórmula es $C = 2\pi r$ (e
 ### Enunciado
 ¿Qué longitud de pintura amarilla se requiere aproximadamente?
 ### Opciones
-- [x] A) $\approx 87{,}96\text{ m}$
+- [x] C) $\approx 87{,}96\text{ m}$
   <!-- feedback: Correcto. $C = 2\pi \times 14 \approx 87{,}96$ m. -->
-- [ ] B) $\approx 43{,}98\text{ m}$
+- [ ] A) $\approx 43{,}98\text{ m}$
   <!-- feedback: Incorrecto. Dividiste la circunferencia entre 2. -->
-- [ ] C) $\approx 175{,}93\text{ m}$
+- [ ] B) $\approx 175{,}93\text{ m}$
   <!-- feedback: Incorrecto. Usaste $2\pi d$ o duplicaste el resultado. -->
 - [ ] D) $\approx 615{,}75\text{ m}$
   <!-- feedback: Incorrecto. Probablemente calculaste $\pi r^2$ (área) en lugar de la circunferencia. -->
@@ -92,11 +92,11 @@ Para hallar la longitud de la línea circular aplica $C = 2\pi r$, sustituyendo 
 ### Enunciado
 ¿Cuál es aproximadamente el área de la superficie de la piscina?
 ### Opciones
-- [x] A) $\approx 50{,}27\text{ m}^2$
+- [x] C) $\approx 50{,}27\text{ m}^2$
   <!-- feedback: Correcto. Radio $r = 4$; $A = \pi \times 4^2 = 16\pi \approx 50{,}27$ m². -->
-- [ ] B) $\approx 100{,}53\text{ m}^2$
+- [ ] A) $\approx 100{,}53\text{ m}^2$
   <!-- feedback: Incorrecto. Usaste el diámetro en lugar del radio. -->
-- [ ] C) $\approx 25{,}13\text{ m}^2$
+- [ ] B) $\approx 25{,}13\text{ m}^2$
   <!-- feedback: Incorrecto. Dividiste entre 3 o tomaste un radio incorrecto. -->
 - [ ] D) $\approx 64\text{ m}^2$
   <!-- feedback: Incorrecto. Solo elevaste el diámetro al cuadrado sin multiplicar por $\pi/4$. -->
@@ -112,11 +112,11 @@ Recuerda identificar primero el radio. El área del círculo es $A = \pi r^2$, n
 ### Enunciado
 ¿Cuál es el área del sector circular de $60^\circ$?
 ### Opciones
-- [x] A) $\approx 52{,}36\text{ cm}^2$
+- [x] C) $\approx 52{,}36\text{ cm}^2$
   <!-- feedback: Correcto. Área del sector $= \frac{60}{360} \pi r^2 = \frac{1}{6}\pi \times 100 \approx 52{,}36$ cm². -->
-- [ ] B) $100\pi\text{ cm}^2$ aproximadamente
+- [ ] A) $100\pi\text{ cm}^2$ aproximadamente
   <!-- feedback: Incorrecto. Ese valor corresponde al círculo completo, no al sector. -->
-- [ ] C) $60\pi\text{ cm}^2$ aproximadamente
+- [ ] B) $60\pi\text{ cm}^2$ aproximadamente
   <!-- feedback: Incorrecto. Usaste el ángulo como factor sin convertirlo a fracción. -->
 - [ ] D) $30\pi\text{ cm}^2$ aproximadamente
   <!-- feedback: Incorrecto. Probablemente tomaste el ángulo como $30^\circ$ o invertiste la fracción. -->
@@ -132,9 +132,9 @@ El área de un sector circular es proporcional al ángulo: $A_{sector} = \frac{\
 ### Enunciado
 ¿Cuál es el área total aproximada del parque?
 ### Opciones
-- [x] A) $\approx 357{,}08\text{ m}^2$
+- [x] B) $\approx 357{,}08\text{ m}^2$
   <!-- feedback: Correcto. Rectángulo $200$ m² + semicírculo $\frac{1}{2}\pi \times 100 \approx 157{,}08$ m² = $357{,}08$ m². -->
-- [ ] B) $\approx 257{,}08\text{ m}^2$
+- [ ] A) $\approx 257{,}08\text{ m}^2$
   <!-- feedback: Incorrecto. Restaste el semicírculo en vez de sumarlo. -->
 - [ ] C) $\approx 314{,}16\text{ m}^2$
   <!-- feedback: Incorrecto. Probablemente tomaste el círculo completo en lugar del semicírculo. -->
@@ -152,9 +152,9 @@ Para figuras compuestas se separan en regiones conocidas (rectángulo, semicírc
 ### Enunciado
 ¿Cuántas veces mayor es el área del Círculo B respecto al Círculo A?
 ### Opciones
-- [x] A) $4$ veces mayor
+- [x] B) $4$ veces mayor
   <!-- feedback: Correcto. $\frac{\pi \cdot 6^2}{\pi \cdot 3^2} = \frac{36}{9}=4$. El área escala con el cuadrado del radio. -->
-- [ ] B) $2$ veces mayor
+- [ ] A) $2$ veces mayor
   <!-- feedback: Incorrecto. Ese es el factor entre radios, no entre áreas. -->
 - [ ] C) $6$ veces mayor
   <!-- feedback: Incorrecto. Ese es el cociente entre radios, no entre áreas. -->
@@ -192,11 +192,11 @@ Para un anillo o corona circular, el área es $\pi(R^2 - r^2)$, donde $R$ es el 
 ### Enunciado
 ¿Qué diseño genera mayor área para sembrar césped y por qué?
 ### Opciones
-- [x] A) La glorieta circular, con área $\approx 509{,}3\text{ m}^2$, porque el círculo maximiza el área con perímetro fijo
+- [x] C) La glorieta circular, con área $\approx 509{,}3\text{ m}^2$, porque el círculo maximiza el área con perímetro fijo
   <!-- feedback: Correcto. Círculo: $r = 80/(2\pi) \approx 12{,}73$; área $\approx 509{,}3$ m². Cuadrado: lado $20$, área $400$ m². -->
-- [ ] B) La glorieta cuadrada, con área de $400\text{ m}^2$, porque es más fácil de construir
+- [ ] A) La glorieta cuadrada, con área de $400\text{ m}^2$, porque es más fácil de construir
   <!-- feedback: Incorrecto. Aunque sea más fácil de construir, su área es menor. -->
-- [ ] C) Ambas opciones generan exactamente la misma área
+- [ ] B) Ambas opciones generan exactamente la misma área
   <!-- feedback: Incorrecto. Con perímetro fijo, el círculo siempre tiene más área que el cuadrado. -->
 - [ ] D) Faltan datos para decidir entre las dos opciones
   <!-- feedback: Incorrecto. Con perímetro y forma ya es posible calcular el área exacta de cada diseño. -->
@@ -212,11 +212,11 @@ Entre todas las figuras planas, el círculo encierra la mayor área con el mismo
 ### Enunciado
 ¿Qué distancia recorre aproximadamente la bicicleta en esos $10$ giros?
 ### Opciones
-- [x] A) $\approx 21{,}99\text{ m}$
+- [x] C) $\approx 21{,}99\text{ m}$
   <!-- feedback: Correcto. Circunferencia $\pi \times 70 \approx 219{,}91$ cm $= 2{,}199$ m. Total $10 \times 2{,}199 \approx 21{,}99$ m. -->
-- [ ] B) $\approx 70\text{ m}$
+- [ ] A) $\approx 70\text{ m}$
   <!-- feedback: Incorrecto. Usaste el diámetro como distancia recorrida por vuelta. -->
-- [ ] C) $\approx 7\text{ m}$
+- [ ] B) $\approx 7\text{ m}$
   <!-- feedback: Incorrecto. Dividiste entre $10$ en lugar de multiplicar por $10$. -->
 - [ ] D) $\approx 220\text{ m}$
   <!-- feedback: Incorrecto. Olvidaste convertir centímetros a metros antes de multiplicar. -->

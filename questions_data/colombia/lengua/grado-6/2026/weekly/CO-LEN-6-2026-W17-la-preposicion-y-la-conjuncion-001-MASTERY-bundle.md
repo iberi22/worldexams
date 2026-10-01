@@ -34,8 +34,8 @@ creador: Jules-Agent
 
 ### Opciones
 - [ ] A) Palabras que expresan acciones o estados del sujeto. <!-- feedback: Incorrecto. Esa es la función del verbo. -->
-- [ ] B) Palabras que reemplazan al sustantivo para evitar repeticiones. <!-- feedback: Incorrecto. Esa es la función del pronombre. -->
-- [x] C) Palabras invariables que enlazan un sustantivo con otra palabra de la oración. <!-- feedback: Correcto. Las preposiciones relacionan términos dentro de la oración. -->
+- [ ] C) Palabras que reemplazan al sustantivo para evitar repeticiones. <!-- feedback: Incorrecto. Esa es la función del pronombre. -->
+- [x] B) Palabras invariables que enlazan un sustantivo con otra palabra de la oración. <!-- feedback: Correcto. Las preposiciones relacionan términos dentro de la oración. -->
 - [ ] D) Palabras que unen dos oraciones independientes. <!-- feedback: Incorrecto. Esa es la función de la conjunción. -->
 
 ### Explicacion Pedagogica
@@ -55,8 +55,8 @@ Las preposiciones más usadas en español son: a, ante, bajo, con, contra, de, d
 
 ### Opciones
 - [ ] A) Mi, de y las, porque acompañan a los sustantivos. <!-- feedback: Incorrecto. Esas palabras son pronombre, preposición y artículo. -->
-- [x] B) «Sin» enlaza «cuaderno» y «de» enlaza «ciencias» con «profesora». <!-- feedback: Correcto. Cada preposición cumple una función distinta. -->
-- [ ] C) Solo «con» es preposición, las demás son adverbios. <!-- feedback: Incorrecto. «Sin» y «de» también son preposiciones. -->
+- [x] C) «Sin» enlaza «cuaderno» y «de» enlaza «ciencias» con «profesora». <!-- feedback: Correcto. Cada preposición cumple una función distinta. -->
+- [ ] B) Solo «con» es preposición, las demás son adverbios. <!-- feedback: Incorrecto. «Sin» y «de» también son preposiciones. -->
 - [ ] D) Llegó y compartimos son preposiciones porque son acciones. <!-- feedback: Incorrecto. Esas palabras son verbos conjugados. -->
 
 ### Explicacion Pedagogica
@@ -75,9 +75,9 @@ La preposición siempre forma una unidad con la palabra o palabras que la siguen
 ¿Qué información aporta cada preposición del cartel?
 
 ### Opciones
-- [ ] A) «Desde» indica destino, «hacia» indica origen y «por» indica modo. <!-- feedback: Incorrecto. Las funciones están invertidas. -->
-- [ ] B) Las tres preposiciones son sinónimas y no aportan diferencia. <!-- feedback: Incorrecto. Cada una tiene un matiz distinto. -->
-- [x] C) «Desde» marca origen, «hacia» marca dirección y «por» indica el precio. <!-- feedback: Correcto. Cada preposición precisa un dato distinto del viaje. -->
+- [ ] B) «Desde» indica destino, «hacia» indica origen y «por» indica modo. <!-- feedback: Incorrecto. Las funciones están invertidas. -->
+- [ ] C) Las tres preposiciones son sinónimas y no aportan diferencia. <!-- feedback: Incorrecto. Cada una tiene un matiz distinto. -->
+- [x] A) «Desde» marca origen, «hacia» marca dirección y «por» indica el precio. <!-- feedback: Correcto. Cada preposición precisa un dato distinto del viaje. -->
 - [ ] D) Solo «por» funciona, las demás están de más. <!-- feedback: Incorrecto. Todas son necesarias para entender el anuncio. -->
 
 ### Explicacion Pedagogica
@@ -117,8 +117,8 @@ Conjunciones coordinantes más usadas: y, e, ni, o, u, pero, sino. «E» sustitu
 ¿Qué conjunciones aparecen y qué relación expresan?
 
 ### Opciones
-- [ ] A) Con y no son conjunciones, son adverbios. <!-- feedback: Incorrecto. «Con» es preposición y «no» es adverbio de negación. -->
-- [x] B) «Pero» introduce un aviso, «si» plantea una condición y «no» es adverbio. <!-- feedback: Correcto. Cada palabra cumple un papel distinto en la receta. -->
+- [ ] B) Con y no son conjunciones, son adverbios. <!-- feedback: Incorrecto. «Con» es preposición y «no» es adverbio de negación. -->
+- [x] A) «Pero» introduce un aviso, «si» plantea una condición y «no» es adverbio. <!-- feedback: Correcto. Cada palabra cumple un papel distinto en la receta. -->
 - [ ] C) Solo «si» es conjunción; las demás son verbos. <!-- feedback: Incorrecto. «Pero» y «si» son conjunciones; «no» es adverbio. -->
 - [ ] D) Todas son pronombres porque se refieren a la cebolla. <!-- feedback: Incorrecto. Ninguna reemplaza al sustantivo. -->
 
@@ -160,9 +160,9 @@ Las conjunciones se dividen en coordinantes (unen elementos del mismo nivel: y, 
 
 ### Opciones
 - [ ] A) Para y porque son adverbios porque completan al verbo. <!-- feedback: Incorrecto. «Para» es preposición y «porque» es conjunción causal. -->
-- [x] B) «Para» introduce finalidad, «porque» expresa causa y «aunque» marca oposición. <!-- feedback: Correcto. Cada conector muestra un tipo de relación lógica. -->
-- [ ] C) «Aunque» solo se usa para hablar del pasado. <!-- feedback: Incorrecto. Puede aparecer en distintos tiempos y modos. -->
-- [ ] D) «Leer» y «esencial» son las conjunciones más importantes. <!-- feedback: Incorrecto. Esas palabras son verbo y adjetivo. -->
+- [x] D) «Para» introduce finalidad, «porque» expresa causa y «aunque» marca oposición. <!-- feedback: Correcto. Cada conector muestra un tipo de relación lógica. -->
+- [ ] B) «Aunque» solo se usa para hablar del pasado. <!-- feedback: Incorrecto. Puede aparecer en distintos tiempos y modos. -->
+- [ ] C) «Leer» y «esencial» son las conjunciones más importantes. <!-- feedback: Incorrecto. Esas palabras son verbo y adjetivo. -->
 
 ### Explicacion Pedagogica
 Conjunciones causales (porque, ya que), finales (para que, a fin de que) y adversativas (aunque, a pesar de que) organizan las ideas del texto. Reconocerlas mejora la argumentación.
@@ -201,8 +201,8 @@ En una narración, las preposiciones de tiempo (entre, hasta, desde, a) y las co
 ¿Qué función cumple cada conector del aviso y cómo se evalúa su precisión?
 
 ### Opciones
-- [ ] A) El aviso es confuso y debe reescribirse por completo. <!-- feedback: Incorrecto. El texto es claro; solo se puede mejorar algún matiz. -->
-- [x] B) «Con» precisa compañía, «hacia» marca dirección y «sin» advierte de una condición. <!-- feedback: Correcto. Cada conector organiza un aspecto distinto del plan. -->
+- [ ] B) El aviso es confuso y debe reescribirse por completo. <!-- feedback: Incorrecto. El texto es claro; solo se puede mejorar algún matiz. -->
+- [x] A) «Con» precisa compañía, «hacia» marca dirección y «sin» advierte de una condición. <!-- feedback: Correcto. Cada conector organiza un aspecto distinto del plan. -->
 - [ ] C) «Hacia» está mal y debe cambiarse por «hasta». <!-- feedback: Incorrecto. «Hacia» señala dirección sin precisar el destino exacto. -->
 - [ ] D) Solo «sin» es preposición; las demás son adverbios. <!-- feedback: Incorrecto. «Con» y «hacia» también son preposiciones. -->
 
@@ -222,8 +222,8 @@ Un buen aviso depende de conectores precisos: «hacia» para indicar dirección 
 ¿Qué problema tiene la elección de «sino» en la frase y cómo se corrige?
 
 ### Opciones
-- [ ] A) La frase es correcta y no necesita cambios. <!-- feedback: Incorrecto. Hay un error en el uso de «sino». -->
-- [x] B) «Si no» debería ir separado y «sino» aparece mal combinado. <!-- feedback: Correcto. La alumna fusionó dos estructuras distintas: «si no» (condición) y «sino» (contraste). -->
+- [ ] B) La frase es correcta y no necesita cambios. <!-- feedback: Incorrecto. Hay un error en el uso de «sino». -->
+- [x] A) «Si no» debería ir separado y «sino» aparece mal combinado. <!-- feedback: Correcto. La alumna fusionó dos estructuras distintas: «si no» (condición) y «sino» (contraste). -->
 - [ ] C) Solo «o» es correcto; «sino» sobra. <!-- feedback: Incorrecto. «O» une alternativas, pero «sino» no está mal elegido en sí. -->
 - [ ] D) El verbo «iré» se debe cambiar por «voy». <!-- feedback: Incorrecto. El futuro es correcto para anunciar planes. -->
 

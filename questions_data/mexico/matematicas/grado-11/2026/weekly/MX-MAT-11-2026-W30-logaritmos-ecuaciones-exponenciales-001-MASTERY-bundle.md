@@ -32,8 +32,8 @@ Resuelva la siguiente ecuación para $x$: $\log_2(x) = 4$.
 
 ### Opciones
 - [ ] A) $x = 8$ <!-- feedback: Incorrecto. Multiplicó 2 por 4 en lugar de elevar 2 a la cuarta potencia. -->
-- [x] B) $x = 16$ <!-- feedback: Correcto. Aplicando la definición de logaritmo, x = 2^4 = 16. -->
-- [ ] C) $x = 2$ <!-- feedback: Incorrecto. Ese es el resultado de 4/2, no es la operación correcta. -->
+- [x] C) $x = 16$ <!-- feedback: Correcto. Aplicando la definición de logaritmo, x = 2^4 = 16. -->
+- [ ] B) $x = 2$ <!-- feedback: Incorrecto. Ese es el resultado de 4/2, no es la operación correcta. -->
 - [ ] D) $x = 6$ <!-- feedback: Incorrecto. Sumó la base y el resultado en lugar de aplicar la potencia. -->
 
 ### Explicacion Pedagogica
@@ -76,8 +76,8 @@ En ecuaciones exponenciales donde ambos lados se pueden expresar en la misma bas
 
 ### Opciones
 - [ ] A) $x = 1$ <!-- feedback: Incorrecto. ln(1+1) = ln(2), que no es cero. -->
-- [x] B) $x = 0$ <!-- feedback: Correcto. ln(1) = 0, por lo tanto x+1 debe ser 1. x + 1 = 1 implica x = 0. -->
-- [ ] C) $x = e$ <!-- feedback: Incorrecto. ln(e+1) no es cero. -->
+- [x] C) $x = 0$ <!-- feedback: Correcto. ln(1) = 0, por lo tanto x+1 debe ser 1. x + 1 = 1 implica x = 0. -->
+- [ ] B) $x = e$ <!-- feedback: Incorrecto. ln(e+1) no es cero. -->
 - [ ] D) $x = -1$ <!-- feedback: Incorrecto. El logaritmo de cero no está definido. -->
 
 ### Explicacion Pedagogica
@@ -98,8 +98,8 @@ Sabemos que el logaritmo de 1 en cualquier base es 0. Entonces, el argumento $(x
 
 ### Opciones
 - [ ] A) Restar 5 de ambos lados. <!-- feedback: Incorrecto. La resta no cancela una base exponencial. -->
-- [ ] B) Dividir 20 entre 5. <!-- feedback: Incorrecto. La base 5 no es un coeficiente multiplicativo. -->
-- [x] C) Aplicar logaritmos a ambos lados de la ecuación. <!-- feedback: Correcto. Aplicar log(5^x) = log(20) permite bajar la x como coeficiente. -->
+- [ ] C) Dividir 20 entre 5. <!-- feedback: Incorrecto. La base 5 no es un coeficiente multiplicativo. -->
+- [x] B) Aplicar logaritmos a ambos lados de la ecuación. <!-- feedback: Correcto. Aplicar log(5^x) = log(20) permite bajar la x como coeficiente. -->
 - [ ] D) Elevar ambos lados al cuadrado. <!-- feedback: Incorrecto. Esto complica más la ecuación sin despejar la x. -->
 
 ### Explicacion Pedagogica
@@ -119,8 +119,8 @@ Cuando la incógnita se encuentra en el exponente y las bases no se pueden igual
 Resuelva la ecuación: $2^{x+3} = 32$.
 
 ### Opciones
-- [ ] A) $x = 5$ <!-- feedback: Incorrecto. Este es el exponente total, pero falta restar el 3. -->
-- [x] B) $x = 2$ <!-- feedback: Correcto. 32 = 2^5. Entonces x + 3 = 5, lo que implica x = 2. -->
+- [ ] B) $x = 5$ <!-- feedback: Incorrecto. Este es el exponente total, pero falta restar el 3. -->
+- [x] A) $x = 2$ <!-- feedback: Correcto. 32 = 2^5. Entonces x + 3 = 5, lo que implica x = 2. -->
 - [ ] C) $x = 13$ <!-- feedback: Incorrecto. Posible error al intentar realizar operaciones aritméticas directas con la base. -->
 - [ ] D) $x = 8$ <!-- feedback: Incorrecto. No satisface la igualdad original. -->
 
@@ -141,8 +141,8 @@ Expresamos 32 como una potencia de 2: $32 = 2^5$. Al tener la misma base en ambo
 Dada la ecuación $3^x = 15$, ¿cuál es el valor aproximado de $x$? (Considere $\log(3) \approx 0.477$ y $\log(15) \approx 1.176$).
 
 ### Opciones
-- [ ] A) $x = 5$ <!-- feedback: Incorrecto. 3 elevado a la 5 es 243, no 15. -->
-- [x] B) $x \approx 2.46$ <!-- feedback: Correcto. x = log(15) / log(3) = 1.176 / 0.477 ≈ 2.46. -->
+- [ ] B) $x = 5$ <!-- feedback: Incorrecto. 3 elevado a la 5 es 243, no 15. -->
+- [x] A) $x \approx 2.46$ <!-- feedback: Correcto. x = log(15) / log(3) = 1.176 / 0.477 ≈ 2.46. -->
 - [ ] C) $x \approx 0.40$ <!-- feedback: Incorrecto. Realizó la división al revés (log 3 / log 15). -->
 - [ ] D) $x = 12$ <!-- feedback: Incorrecto. Restó 3 de 15 en lugar de usar logaritmos. -->
 
@@ -164,8 +164,8 @@ Resuelva la ecuación: $\log(x) + \log(2) = 1$.
 
 ### Opciones
 - [ ] A) $x = 8$ <!-- feedback: Incorrecto. Confundió la propiedad de suma de logaritmos con una resta. -->
-- [x] B) $x = 5$ <!-- feedback: Correcto. log(2x) = 1. Aplicando definición: 2x = 10^1 = 10. Por lo tanto x = 5. -->
-- [ ] C) $x = 0.5$ <!-- feedback: Incorrecto. Dividió 1 entre 2 en lugar de considerar la base 10. -->
+- [x] C) $x = 5$ <!-- feedback: Correcto. log(2x) = 1. Aplicando definición: 2x = 10^1 = 10. Por lo tanto x = 5. -->
+- [ ] B) $x = 0.5$ <!-- feedback: Incorrecto. Dividió 1 entre 2 en lugar de considerar la base 10. -->
 - [ ] D) $x = 10$ <!-- feedback: Incorrecto. Olvidó el factor 2 en el argumento. -->
 
 ### Explicacion Pedagogica
@@ -185,9 +185,9 @@ Utilizamos la propiedad del producto para combinar los logaritmos: $\log(2x) = 1
 Determine el valor de $x$ en la ecuación $e^{2x} = 7$.
 
 ### Opciones
-- [ ] A) $x = \frac{\ln(7)}{e}$ <!-- feedback: Incorrecto. El número e no debe estar en el denominador. -->
-- [ ] B) $x = \ln(3.5)$ <!-- feedback: Incorrecto. No se puede dividir el argumento del logaritmo por el coeficiente del exponente. -->
-- [x] C) $x = \frac{\ln(7)}{2}$ <!-- feedback: Correcto. Aplicando ln en ambos lados: 2x = ln(7), entonces x = ln(7)/2. -->
+- [ ] B) $x = \frac{\ln(7)}{e}$ <!-- feedback: Incorrecto. El número e no debe estar en el denominador. -->
+- [ ] C) $x = \ln(3.5)$ <!-- feedback: Incorrecto. No se puede dividir el argumento del logaritmo por el coeficiente del exponente. -->
+- [x] A) $x = \frac{\ln(7)}{2}$ <!-- feedback: Correcto. Aplicando ln en ambos lados: 2x = ln(7), entonces x = ln(7)/2. -->
 - [ ] D) $x = 2 \ln(7)$ <!-- feedback: Incorrecto. El 2 debe pasar dividiendo, no multiplicando. -->
 
 ### Explicacion Pedagogica
@@ -208,8 +208,8 @@ Dada la ecuación $3^x = 9^{x-1}$, resuelva para $x$.
 
 ### Opciones
 - [ ] A) $x = 1$ <!-- feedback: Incorrecto. Al sustituir, queda 3^1 = 9^0, que es 3 = 1 (falso). -->
-- [x] B) $x = 2$ <!-- feedback: Correcto. 3^x = (3^2)^(x-1) = 3^(2x-2). Igualando exponentes: x = 2x - 2, por lo tanto x = 2. -->
-- [ ] C) $x = 3$ <!-- feedback: Incorrecto. No satisface la igualdad de las bases. -->
+- [x] C) $x = 2$ <!-- feedback: Correcto. 3^x = (3^2)^(x-1) = 3^(2x-2). Igualando exponentes: x = 2x - 2, por lo tanto x = 2. -->
+- [ ] B) $x = 3$ <!-- feedback: Incorrecto. No satisface la igualdad de las bases. -->
 - [ ] D) $x = 0$ <!-- feedback: Incorrecto. Daría 1 = 1/9. -->
 
 ### Explicacion Pedagogica
@@ -231,8 +231,8 @@ Resuelva para $x$: $\log_2(x) - \log_2(3) = 2$.
 ### Opciones
 - [ ] A) $x = 6$ <!-- feedback: Incorrecto. Posible error al intentar multiplicar el argumento por el resultado. -->
 - [ ] B) $x = 9$ <!-- feedback: Incorrecto. No consideró la base 2 del logaritmo. -->
-- [x] C) $x = 12$ <!-- feedback: Correcto. log2(x/3) = 2. x/3 = 2^2 = 4. x = 4 * 3 = 12. -->
-- [ ] D) $x = 5$ <!-- feedback: Incorrecto. Sumó los valores numéricos sin aplicar las propiedades logarítmicas. -->
+- [x] D) $x = 12$ <!-- feedback: Correcto. log2(x/3) = 2. x/3 = 2^2 = 4. x = 4 * 3 = 12. -->
+- [ ] C) $x = 5$ <!-- feedback: Incorrecto. Sumó los valores numéricos sin aplicar las propiedades logarítmicas. -->
 
 ### Explicacion Pedagogica
 Usamos la propiedad del cociente: $\log_2(x/3) = 2$. Transformamos a forma exponencial: $x/3 = 2^2$. Al resolver la ecuación resultante $x/3 = 4$, obtenemos $x = 12$.
@@ -251,8 +251,8 @@ Usamos la propiedad del cociente: $\log_2(x/3) = 2$. Transformamos a forma expon
 Resuelva la ecuación: $4^x = (\frac{1}{2})^{x-3}$.
 
 ### Opciones
-- [x] A) $x = 1$ <!-- feedback: Correcto. 2^(2x) = 2^(-1*(x-3)) = 2^(-x+3). Entonces 2x = -x+3 => 3x = 3 => x = 1. -->
-- [ ] B) $x = 3$ <!-- feedback: Incorrecto. Sustituyendo, queda 64 = 1. -->
+- [x] B) $x = 1$ <!-- feedback: Correcto. 2^(2x) = 2^(-1*(x-3)) = 2^(-x+3). Entonces 2x = -x+3 => 3x = 3 => x = 1. -->
+- [ ] A) $x = 3$ <!-- feedback: Incorrecto. Sustituyendo, queda 64 = 1. -->
 - [ ] C) $x = -1$ <!-- feedback: Incorrecto. No satisface la igualdad tras convertir a base 2. -->
 - [ ] D) $x = 1.5$ <!-- feedback: Incorrecto. Error en la resolución de la ecuación lineal resultante. -->
 
@@ -274,9 +274,9 @@ Determine el valor de $x$ en la ecuación: $\log_x(16) = 2$.
 
 ### Opciones
 - [ ] A) $x = 8$ <!-- feedback: Incorrecto. 8 al cuadrado es 64, no 16. -->
-- [x] B) $x = 4$ <!-- feedback: Correcto. x^2 = 16. Tomando la raíz positiva (la base debe ser > 0), x = 4. -->
-- [ ] C) $x = 256$ <!-- feedback: Incorrecto. Elevó 16 al cuadrado en lugar de buscar la base de la potencia. -->
-- [ ] D) $x = 2$ <!-- feedback: Incorrecto. 2 al cuadrado es 4, no 16. -->
+- [x] D) $x = 4$ <!-- feedback: Correcto. x^2 = 16. Tomando la raíz positiva (la base debe ser > 0), x = 4. -->
+- [ ] B) $x = 256$ <!-- feedback: Incorrecto. Elevó 16 al cuadrado en lugar de buscar la base de la potencia. -->
+- [ ] C) $x = 2$ <!-- feedback: Incorrecto. 2 al cuadrado es 4, no 16. -->
 
 ### Explicacion Pedagogica
 Aplicamos la definición de logaritmo: $x^2 = 16$. Aunque matemáticamente $x$ podría ser $4$ o $-4$, en logaritmos la base debe ser siempre un número positivo y diferente de 1. Por lo tanto, $x=4$.
@@ -340,9 +340,9 @@ Convertimos a forma logarítmica: $3x - 1 = \log_2(5)$. Luego procedemos a despe
 
 ### Opciones
 - [ ] A) $x = 4$ <!-- feedback: Incorrecto. 3 * 2^4 = 3 * 16 = 48. -->
-- [x] B) $x = 2$ <!-- feedback: Correcto. 2^x = 12 / 3 = 4. Como 2^2 = 4, entonces x = 2. -->
-- [ ] C) $x = \log_2(9)$ <!-- feedback: Incorrecto. Error al manejar el coeficiente multiplicativo 3. -->
-- [ ] D) $x = 1.58$ <!-- feedback: Incorrecto. No es necesario usar decimales ya que la solución es entera. -->
+- [x] D) $x = 2$ <!-- feedback: Correcto. 2^x = 12 / 3 = 4. Como 2^2 = 4, entonces x = 2. -->
+- [ ] B) $x = \log_2(9)$ <!-- feedback: Incorrecto. Error al manejar el coeficiente multiplicativo 3. -->
+- [ ] C) $x = 1.58$ <!-- feedback: Incorrecto. No es necesario usar decimales ya que la solución es entera. -->
 
 ### Explicacion Pedagogica
 Primero aislamos la parte exponencial dividiendo ambos lados entre el coeficiente 3. Obtenemos $2^x = 4$. Reconocemos que $4 = 2^2$, por lo que $x = 2$.
@@ -361,8 +361,8 @@ Primero aislamos la parte exponencial dividiendo ambos lados entre el coeficient
 Resuelva la ecuación: $\log_2(x) + \log_2(x - 2) = 3$.
 
 ### Opciones
-- [ ] A) $x = 3$ <!-- feedback: Incorrecto. log2(3) + log2(1) = 1.58 + 0 = 1.58. -->
-- [x] B) $x = 4$ <!-- feedback: Correcto. log2(x(x-2)) = 3. x^2 - 2x = 2^3 = 8. x^2 - 2x - 8 = 0. (x-4)(x+2)=0. Como x debe ser > 2, x = 4. -->
+- [ ] B) $x = 3$ <!-- feedback: Incorrecto. log2(3) + log2(1) = 1.58 + 0 = 1.58. -->
+- [x] A) $x = 4$ <!-- feedback: Correcto. log2(x(x-2)) = 3. x^2 - 2x = 2^3 = 8. x^2 - 2x - 8 = 0. (x-4)(x+2)=0. Como x debe ser > 2, x = 4. -->
 - [ ] C) $x = 4$ y $x = -2$ <!-- feedback: Incorrecto. Aunque -2 es raíz de la cuadrática, no pertenece al dominio del logaritmo original. -->
 - [ ] D) $x = 5$ <!-- feedback: Incorrecto. No satisface la ecuación. -->
 
@@ -406,8 +406,8 @@ Usamos el cambio de variable $u = 2^x$, lo que convierte la ecuación en una cua
 
 ### Opciones
 - [ ] A) $x = 4$ <!-- feedback: Incorrecto. 4 a la 4 es 256. -->
-- [x] B) $x = 2$ <!-- feedback: Correcto. Al sustituir, 2^2 = 4, lo cual cumple la igualdad perfectamente. -->
-- [ ] C) $x = \sqrt{2}$ <!-- feedback: Incorrecto. (sqrt 2)^(sqrt 2) no es 4. -->
+- [x] C) $x = 2$ <!-- feedback: Correcto. Al sustituir, 2^2 = 4, lo cual cumple la igualdad perfectamente. -->
+- [ ] B) $x = \sqrt{2}$ <!-- feedback: Incorrecto. (sqrt 2)^(sqrt 2) no es 4. -->
 - [ ] D) $x = e$ <!-- feedback: Incorrecto. e a la e es aproximadamente 15.15. -->
 
 ### Explicacion Pedagogica
@@ -429,8 +429,8 @@ $\log(x) + \log(y) = 2$
 $x - y = 15$
 
 ### Opciones
-- [ ] A) $x = 10, y = 10$ <!-- feedback: Incorrecto. No cumplen la segunda ecuación (10-10=0). -->
-- [x] B) $x = 20, y = 5$ <!-- feedback: Correcto. log(20*5) = log(100) = 2. Y 20 - 5 = 15. Cumple ambas. -->
+- [ ] B) $x = 10, y = 10$ <!-- feedback: Incorrecto. No cumplen la segunda ecuación (10-10=0). -->
+- [x] A) $x = 20, y = 5$ <!-- feedback: Correcto. log(20*5) = log(100) = 2. Y 20 - 5 = 15. Cumple ambas. -->
 - [ ] C) $x = 25, y = 4$ <!-- feedback: Incorrecto. 25-4=21, no cumple la segunda ecuación. -->
 - [ ] D) $x = 50, y = 2$ <!-- feedback: Incorrecto. 50-2=48, no cumple la segunda ecuación. -->
 
@@ -452,9 +452,9 @@ Determine la solución exacta para $x$ en la ecuación $2^x = 3^{x+1}$.
 
 ### Opciones
 - [ ] A) $x = \frac{\log(3)}{\log(2)}$ <!-- feedback: Incorrecto. Olvidó el término x que queda al expandir el exponente de la derecha. -->
-- [x] B) $x = \frac{\log(3)}{\log(2) - \log(3)}$ <!-- feedback: Correcto. x log 2 = (x+1) log 3 => x log 2 = x log 3 + log 3 => x(log 2 - log 3) = log 3. -->
-- [ ] C) $x = \frac{\log(2)}{\log(3)}$ <!-- feedback: Incorrecto. Error en el despeje de la variable. -->
-- [ ] D) $x = \log(1.5)$ <!-- feedback: Incorrecto. No es una simple resta de logaritmos. -->
+- [x] D) $x = \frac{\log(3)}{\log(2) - \log(3)}$ <!-- feedback: Correcto. x log 2 = (x+1) log 3 => x log 2 = x log 3 + log 3 => x(log 2 - log 3) = log 3. -->
+- [ ] B) $x = \frac{\log(2)}{\log(3)}$ <!-- feedback: Incorrecto. Error en el despeje de la variable. -->
+- [ ] C) $x = \log(1.5)$ <!-- feedback: Incorrecto. No es una simple resta de logaritmos. -->
 
 ### Explicacion Pedagogica
 Aplicamos logaritmos en ambos lados: $x \log 2 = (x+1) \log 3$. Distribuimos el $\log 3$ en el lado derecho: $x \log 2 = x \log 3 + \log 3$. Agrupamos los términos con $x$ en un solo lado, factorizamos $x$ y despejamos.

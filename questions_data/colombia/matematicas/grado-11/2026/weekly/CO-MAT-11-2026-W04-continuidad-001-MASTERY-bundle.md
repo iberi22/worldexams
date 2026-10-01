@@ -32,9 +32,9 @@ Este bundle contiene 20 preguntas sobre **continuidad** para grado 11, alineadas
 ### Enunciado
 ¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?
 ### Opciones
-- [x] A) 2
+- [x] B) 2
   <!-- feedback: Correcto. El límite izquierdo es $3(2) + 2 = 8$ y el derecho es $2k + 4$. Igualando $2k + 4 = 8 \implies 2k = 4 \implies k = 2$. -->
-- [ ] B) 5
+- [ ] A) 5
   <!-- feedback: Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación. -->
 - [ ] C) 8
   <!-- feedback: Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea. -->
@@ -72,11 +72,11 @@ Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguale
 ### Enunciado
 ¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?
 ### Opciones
-- [x] A) 4
+- [x] C) 4
   <!-- feedback: Correcto. El límite izquierdo es $3(2) + 6 = 12$ y el derecho es $2k + 4$. Igualando $2k + 4 = 12 \implies 2k = 8 \implies k = 4$. -->
-- [ ] B) 7
+- [ ] A) 7
   <!-- feedback: Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación. -->
-- [ ] C) 12
+- [ ] B) 12
   <!-- feedback: Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea. -->
 - [ ] D) 0
   <!-- feedback: Incorrecto. Si k = 0, la función tendría una discontinuidad de salto en x = 2. -->
@@ -92,9 +92,9 @@ Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguale
 ### Enunciado
 ¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?
 ### Opciones
-- [x] A) 5
+- [x] B) 5
   <!-- feedback: Correcto. El límite izquierdo es $3(2) + 8 = 14$ y el derecho es $2k + 4$. Igualando $2k + 4 = 14 \implies 2k = 10 \implies k = 5$. -->
-- [ ] B) 8
+- [ ] A) 8
   <!-- feedback: Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación. -->
 - [ ] C) 14
   <!-- feedback: Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea. -->
@@ -112,9 +112,9 @@ Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguale
 ### Enunciado
 ¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?
 ### Opciones
-- [x] A) 6
+- [x] B) 6
   <!-- feedback: Correcto. El límite izquierdo es $3(2) + 10 = 16$ y el derecho es $2k + 4$. Igualando $2k + 4 = 16 \implies 2k = 12 \implies k = 6$. -->
-- [ ] B) 9
+- [ ] A) 9
   <!-- feedback: Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación. -->
 - [ ] C) 16
   <!-- feedback: Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea. -->
@@ -132,11 +132,11 @@ Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguale
 ### Enunciado
 ¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?
 ### Opciones
-- [x] A) 7
+- [x] C) 7
   <!-- feedback: Correcto. El límite izquierdo es $3(2) + 12 = 18$ y el derecho es $2k + 4$. Igualando $2k + 4 = 18 \implies 2k = 14 \implies k = 7$. -->
-- [ ] B) 10
+- [ ] A) 10
   <!-- feedback: Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación. -->
-- [ ] C) 18
+- [ ] B) 18
   <!-- feedback: Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea. -->
 - [ ] D) 0
   <!-- feedback: Incorrecto. Si k = 0, la función tendría una discontinuidad de salto en x = 2. -->
@@ -172,13 +172,13 @@ Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguale
 ### Enunciado
 ¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?
 ### Opciones
-- [x] A) 9
+- [x] D) 9
   <!-- feedback: Correcto. El límite izquierdo es $3(2) + 16 = 22$ y el derecho es $2k + 4$. Igualando $2k + 4 = 22 \implies 2k = 18 \implies k = 9$. -->
-- [ ] B) 12
+- [ ] A) 12
   <!-- feedback: Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación. -->
-- [ ] C) 22
+- [ ] B) 22
   <!-- feedback: Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea. -->
-- [ ] D) 0
+- [ ] C) 0
   <!-- feedback: Incorrecto. Si k = 0, la función tendría una discontinuidad de salto en x = 2. -->
 ### Explicacion Pedagogica
 Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguales: $\lim_{x \to 2^-} f(x) = \lim_{x \to 2^+} f(x)$. Evaluando: $3(2) + 16 = k(2) + 4 \implies 6 + 16 = 2k + 4 \implies 2k = 18 \implies k = 9$.
@@ -192,11 +192,11 @@ Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguale
 ### Enunciado
 ¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?
 ### Opciones
-- [x] A) 10
+- [x] C) 10
   <!-- feedback: Correcto. El límite izquierdo es $3(2) + 18 = 24$ y el derecho es $2k + 4$. Igualando $2k + 4 = 24 \implies 2k = 20 \implies k = 10$. -->
-- [ ] B) 13
+- [ ] A) 13
   <!-- feedback: Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación. -->
-- [ ] C) 24
+- [ ] B) 24
   <!-- feedback: Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea. -->
 - [ ] D) 0
   <!-- feedback: Incorrecto. Si k = 0, la función tendría una discontinuidad de salto en x = 2. -->
@@ -212,9 +212,9 @@ Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguale
 ### Enunciado
 ¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?
 ### Opciones
-- [x] A) 11
+- [x] B) 11
   <!-- feedback: Correcto. El límite izquierdo es $3(2) + 20 = 26$ y el derecho es $2k + 4$. Igualando $2k + 4 = 26 \implies 2k = 22 \implies k = 11$. -->
-- [ ] B) 14
+- [ ] A) 14
   <!-- feedback: Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación. -->
 - [ ] C) 26
   <!-- feedback: Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea. -->
@@ -232,9 +232,9 @@ Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguale
 ### Enunciado
 ¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?
 ### Opciones
-- [x] A) 12
+- [x] B) 12
   <!-- feedback: Correcto. El límite izquierdo es $3(2) + 22 = 28$ y el derecho es $2k + 4$. Igualando $2k + 4 = 28 \implies 2k = 24 \implies k = 12$. -->
-- [ ] B) 15
+- [ ] A) 15
   <!-- feedback: Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación. -->
 - [ ] C) 28
   <!-- feedback: Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea. -->
@@ -312,13 +312,13 @@ Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguale
 ### Enunciado
 ¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?
 ### Opciones
-- [x] A) 16
+- [x] D) 16
   <!-- feedback: Correcto. El límite izquierdo es $3(2) + 30 = 36$ y el derecho es $2k + 4$. Igualando $2k + 4 = 36 \implies 2k = 32 \implies k = 16$. -->
-- [ ] B) 19
+- [ ] A) 19
   <!-- feedback: Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación. -->
-- [ ] C) 36
+- [ ] B) 36
   <!-- feedback: Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea. -->
-- [ ] D) 0
+- [ ] C) 0
   <!-- feedback: Incorrecto. Si k = 0, la función tendría una discontinuidad de salto en x = 2. -->
 ### Explicacion Pedagogica
 Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguales: $\lim_{x \to 2^-} f(x) = \lim_{x \to 2^+} f(x)$. Evaluando: $3(2) + 30 = k(2) + 4 \implies 6 + 30 = 2k + 4 \implies 2k = 32 \implies k = 16$.
@@ -332,13 +332,13 @@ Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguale
 ### Enunciado
 ¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?
 ### Opciones
-- [x] A) 17
+- [x] D) 17
   <!-- feedback: Correcto. El límite izquierdo es $3(2) + 32 = 38$ y el derecho es $2k + 4$. Igualando $2k + 4 = 38 \implies 2k = 34 \implies k = 17$. -->
-- [ ] B) 20
+- [ ] A) 20
   <!-- feedback: Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación. -->
-- [ ] C) 38
+- [ ] B) 38
   <!-- feedback: Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea. -->
-- [ ] D) 0
+- [ ] C) 0
   <!-- feedback: Incorrecto. Si k = 0, la función tendría una discontinuidad de salto en x = 2. -->
 ### Explicacion Pedagogica
 Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguales: $\lim_{x \to 2^-} f(x) = \lim_{x \to 2^+} f(x)$. Evaluando: $3(2) + 32 = k(2) + 4 \implies 6 + 32 = 2k + 4 \implies 2k = 34 \implies k = 17$.
@@ -352,9 +352,9 @@ Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguale
 ### Enunciado
 ¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?
 ### Opciones
-- [x] A) 18
+- [x] B) 18
   <!-- feedback: Correcto. El límite izquierdo es $3(2) + 34 = 40$ y el derecho es $2k + 4$. Igualando $2k + 4 = 40 \implies 2k = 36 \implies k = 18$. -->
-- [ ] B) 21
+- [ ] A) 21
   <!-- feedback: Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación. -->
 - [ ] C) 40
   <!-- feedback: Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea. -->
@@ -372,9 +372,9 @@ Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguale
 ### Enunciado
 ¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?
 ### Opciones
-- [x] A) 19
+- [x] B) 19
   <!-- feedback: Correcto. El límite izquierdo es $3(2) + 36 = 42$ y el derecho es $2k + 4$. Igualando $2k + 4 = 42 \implies 2k = 38 \implies k = 19$. -->
-- [ ] B) 22
+- [ ] A) 22
   <!-- feedback: Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación. -->
 - [ ] C) 42
   <!-- feedback: Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea. -->
@@ -412,13 +412,13 @@ Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguale
 ### Enunciado
 ¿Para qué valor del parámetro $k$ la función $f(x)$ es continua en $x = 2$?
 ### Opciones
-- [x] A) 21
+- [x] D) 21
   <!-- feedback: Correcto. El límite izquierdo es $3(2) + 40 = 46$ y el derecho es $2k + 4$. Igualando $2k + 4 = 46 \implies 2k = 42 \implies k = 21$. -->
-- [ ] B) 24
+- [ ] A) 24
   <!-- feedback: Incorrecto. Se cometió un error al trasponer los términos constantes en la ecuación. -->
-- [ ] C) 46
+- [ ] B) 46
   <!-- feedback: Incorrecto. Se multiplicó por 2 y sumó 4 de forma errónea. -->
-- [ ] D) 0
+- [ ] C) 0
   <!-- feedback: Incorrecto. Si k = 0, la función tendría una discontinuidad de salto en x = 2. -->
 ### Explicacion Pedagogica
 Para que $f(x)$ sea continua en $x = 2$, los límites laterales deben ser iguales: $\lim_{x \to 2^-} f(x) = \lim_{x \to 2^+} f(x)$. Evaluando: $3(2) + 40 = k(2) + 4 \implies 6 + 40 = 2k + 4 \implies 2k = 42 \implies k = 21$.

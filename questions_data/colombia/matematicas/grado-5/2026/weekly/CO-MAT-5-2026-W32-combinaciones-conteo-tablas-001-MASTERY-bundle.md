@@ -34,9 +34,9 @@ Uso de tablas de doble entrada y del principio multiplicativo para contar combin
 ¿Cuántas combinaciones diferentes registra Gabriela en total?
 
 ### Opciones
-- [x] A) 6 combinaciones.
+- [x] B) 6 combinaciones.
   <!-- feedback: Cada uno de los 2 sabores se combina con las 3 coberturas, y 2 por 3 da 6 parejas distintas. -->
-- [ ] B) 5 combinaciones.
+- [ ] A) 5 combinaciones.
   <!-- feedback: 5 sería el resultado de sumar mal los grupos, porque cada sabor se combina con las 3 coberturas. -->
 - [ ] C) 3 combinaciones.
   <!-- feedback: 3 son solo las coberturas, y falta combinarlas con los 2 sabores. -->
@@ -57,9 +57,9 @@ Reconocer que una combinación es una pareja formada por un elemento de cada gru
 ¿Para qué le sirve a Tomás organizar las combinaciones en una tabla?
 
 ### Opciones
-- [x] A) Para contar todas las posibilidades sin repetir ni olvidar ninguna combinación.
+- [x] B) Para contar todas las posibilidades sin repetir ni olvidar ninguna combinación.
   <!-- feedback: La tabla ordena cada pareja en una casilla y así se evita repetir u omitir combinaciones. -->
-- [ ] B) Para saber el precio exacto de cada jugo.
+- [ ] A) Para saber el precio exacto de cada jugo.
   <!-- feedback: El precio de un jugo no se obtiene de una tabla de combinaciones. -->
 - [ ] C) Para cambiar los sabores de los jugos por otros nuevos.
   <!-- feedback: La tabla solo organiza las opciones que ya existen, no cambia los sabores. -->
@@ -80,13 +80,13 @@ Comprender que una tabla de doble entrada es una herramienta ordenada para enume
 ¿Cuántas formas distintas tiene Tomás de vestirse eligiendo una camiseta y un pantalón?
 
 ### Opciones
-- [x] A) 12 formas.
+- [x] D) 12 formas.
   <!-- feedback: Cada camiseta se combina con los 3 pantalones, y 4 por 3 da 12 formas distintas. -->
-- [ ] B) 7 formas.
+- [ ] A) 7 formas.
   <!-- feedback: 7 es la suma de 4 más 3, y sumar cuenta los grupos, no las parejas. -->
-- [ ] C) 4 formas.
+- [ ] B) 4 formas.
   <!-- feedback: 4 son solo las camisetas, y falta combinarlas con los 3 pantalones. -->
-- [ ] D) 3 formas.
+- [ ] C) 3 formas.
   <!-- feedback: 3 son solo los pantalones, y falta combinarlos con las 4 camisetas. -->
 
 ### Explicacion Pedagogica
@@ -126,13 +126,13 @@ Aplicar el conteo con tablas cuando los dos grupos tienen la misma cantidad de o
 ¿Cuántas boletas diferentes puede formar Gabriela?
 
 ### Opciones
-- [x] A) 20 boletas.
+- [x] D) 20 boletas.
   <!-- feedback: Cada color se combina con los 5 números, y 4 por 5 da 20 boletas distintas. -->
-- [ ] B) 9 boletas.
+- [ ] A) 9 boletas.
   <!-- feedback: 9 es la suma de 4 más 5, y sumar no cuenta las parejas color-número. -->
-- [ ] C) 5 boletas.
+- [ ] B) 5 boletas.
   <!-- feedback: 5 son solo los números, y falta combinarlos con los 4 colores. -->
-- [ ] D) 4 boletas.
+- [ ] C) 4 boletas.
   <!-- feedback: 4 son solo los colores, y falta combinarlos con los 5 números. -->
 
 ### Explicacion Pedagogica
@@ -149,9 +149,9 @@ Resolver problemas de conteo multiplicando las opciones de dos grupos para obten
 ¿Cuál estudiante cuenta bien las combinaciones y por qué?
 
 ### Opciones
-- [x] A) Tomás, porque cada ensalada se combina con los 4 jugos y 3 por 4 es 12.
+- [x] B) Tomás, porque cada ensalada se combina con los 4 jugos y 3 por 4 es 12.
   <!-- feedback: Multiplicar los grupos cuenta cada pareja ensalada-jugo exactamente una vez. -->
-- [ ] B) Gabriela, porque sumar los grupos siempre da el total de combinaciones.
+- [ ] A) Gabriela, porque sumar los grupos siempre da el total de combinaciones.
   <!-- feedback: Sumar 3 más 4 solo cuenta la cantidad de grupos, no las parejas que se forman. -->
 - [ ] C) Tomás, porque el total siempre es la suma de 3 más 4 repetida dos veces.
   <!-- feedback: Repetir la suma no explica por qué cada ensalada se combina con todos los jugos. -->
@@ -172,9 +172,9 @@ Analizar por qué el principio multiplicativo cuenta las combinaciones y la suma
 Si el relleno de pollo se puede combinar con los 2 tipos de pan, ¿cuántos sándwiches distintos llevan pollo?
 
 ### Opciones
-- [x] A) 2 sándwiches, porque el pollo se combina con los 2 tipos de pan.
+- [x] B) 2 sándwiches, porque el pollo se combina con los 2 tipos de pan.
   <!-- feedback: Al fijar el relleno de pollo, solo se combina con los 2 panes y resultan 2 parejas. -->
-- [ ] B) 4 sándwiches, porque hay 4 rellenos en total.
+- [ ] A) 4 sándwiches, porque hay 4 rellenos en total.
   <!-- feedback: 4 es la cantidad de rellenos disponibles, no la de sándwiches que llevan pollo. -->
 - [ ] C) 8 sándwiches, porque todos los sándwiches llevan pollo.
   <!-- feedback: Solo uno de los cuatro rellenos es pollo, así que no todos lo llevan. -->
@@ -195,13 +195,13 @@ Analizar una condición sobre una tabla de combinaciones para contar solo las pa
 ¿Cuál conclusión evalúa mejor las dos formas de contar las combinaciones?
 
 ### Opciones
-- [x] A) La tabla de Gabriela es más confiable porque ordena todas las parejas y evita repetir u omitir combinaciones.
+- [x] D) La tabla de Gabriela es más confiable porque ordena todas las parejas y evita repetir u omitir combinaciones.
   <!-- feedback: La tabla de doble entrada organiza cada pareja en una casilla y controla que no se repita ninguna. -->
-- [ ] B) La lista de Tomás es mejor porque una lista a mano siempre resulta más ordenada.
+- [ ] A) La lista de Tomás es mejor porque una lista a mano siempre resulta más ordenada.
   <!-- feedback: Escribir a mano facilita repetir u omitir parejas cuando hay muchas combinaciones. -->
-- [ ] C) Las dos formas son iguales porque ninguna permite contar todas las combinaciones.
+- [ ] B) Las dos formas son iguales porque ninguna permite contar todas las combinaciones.
   <!-- feedback: La tabla sí permite contar todas las combinaciones de manera ordenada. -->
-- [ ] D) La tabla no sirve cuando se combinan más de dos grupos de opciones.
+- [ ] C) La tabla no sirve cuando se combinan más de dos grupos de opciones.
   <!-- feedback: La tabla de doble entrada funciona igual con dos grupos, sin importar cuántas opciones tenga cada uno. -->
 
 ### Explicacion Pedagogica

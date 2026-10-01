@@ -38,11 +38,11 @@ What suffix is added to short adjectives (like "tall" or "small") to form a comp
 ### Opciones
 - [ ] A) -est
   <!-- feedback: Incorrect. This is for superlatives. -->
-- [x] B) -er
+- [x] D) -er
   <!-- feedback: Correct! We add -er to short adjectives for comparisons. -->
-- [ ] C) -ing
+- [ ] B) -ing
   <!-- feedback: Incorrect. This is for continuous tenses. -->
-- [ ] D) -ed
+- [ ] C) -ed
   <!-- feedback: Incorrect. This is for past tense. -->
 
 ### Explicacion Pedagogica
@@ -61,9 +61,9 @@ The student identifies the basic morphological rule for short comparative adject
 What word is used before long adjectives (like "beautiful" or "intelligent") in a comparative sentence?
 
 ### Opciones
-- [ ] A) Very
+- [ ] B) Very
   <!-- feedback: Incorrect. This just intensifies the adjective. -->
-- [x] B) More
+- [x] A) More
   <!-- feedback: Correct! We use "more" for adjectives with two or more syllables. -->
 - [ ] C) Most
   <!-- feedback: Incorrect. This is for superlatives. -->
@@ -88,11 +88,11 @@ The student remembers the rule for comparing using long adjectives.
 ### Opciones
 - [ ] A) more cold
   <!-- feedback: Incorrect. "Cold" is a short adjective, so it needs -er. -->
-- [x] B) colder
+- [x] D) colder
   <!-- feedback: Correct! Comparative form of a short adjective. -->
-- [ ] C) coldest
+- [ ] B) coldest
   <!-- feedback: Incorrect. This is the superlative. -->
-- [ ] D) as cold
+- [ ] C) as cold
   <!-- feedback: Incorrect. Missing the second "as" and "than" is already present. -->
 
 ### Explicacion Pedagogica
@@ -113,11 +113,11 @@ Which structure is used to say that two things are the same?
 ### Opciones
 - [ ] A) more...than
   <!-- feedback: Incorrect. This shows superiority. -->
-- [x] B) as...as
+- [x] D) as...as
   <!-- feedback: Correct! This structure expresses equality (e.g., as tall as). -->
-- [ ] C) er...than
+- [ ] B) er...than
   <!-- feedback: Incorrect. This shows superiority. -->
-- [ ] D) most...of
+- [ ] C) most...of
   <!-- feedback: Incorrect. This is for superlatives. -->
 
 ### Explicacion Pedagogica
@@ -136,11 +136,11 @@ The student understands the structural difference between comparisons of superio
 "I think soccer is ________ than baseball." (Adjective: good)
 
 ### Opciones
-- [ ] A) more good
+- [ ] B) more good
   <!-- feedback: Incorrect. "Good" is an irregular adjective. -->
-- [ ] B) gooder
+- [ ] C) gooder
   <!-- feedback: Incorrect. "Good" is irregular. -->
-- [x] C) better
+- [x] A) better
   <!-- feedback: Correct! "Better" is the irregular comparative of "good". -->
 - [ ] D) best
   <!-- feedback: Incorrect. This is the superlative. -->
@@ -187,9 +187,9 @@ The student applies reading strategies to verify a comparative statement based o
 "This math problem is ________ than the one yesterday." (Adjective: difficult)
 
 ### Opciones
-- [ ] A) difficulter
+- [ ] B) difficulter
   <!-- feedback: Incorrect. Adjectives with 3 syllables don't take -er. -->
-- [x] B) more difficult
+- [x] A) more difficult
   <!-- feedback: Correct! "Difficult" is a long adjective, so it needs "more". -->
 - [ ] C) as difficult
   <!-- feedback: Incorrect. Missing the second "as". -->
@@ -212,9 +212,9 @@ The student applies the comparative rule for long adjectives in a school-related
 Choose the sentence with the correct spelling.
 
 ### Opciones
-- [ ] A) My dog is biger than your cat.
+- [ ] B) My dog is biger than your cat.
   <!-- feedback: Incorrect. "Big" is CVC, so double the 'g'. -->
-- [x] B) My dog is bigger than your cat.
+- [x] A) My dog is bigger than your cat.
   <!-- feedback: Correct! CVC adjectives double the last consonant before -er. -->
 - [ ] C) My dog is more big than your cat.
   <!-- feedback: Incorrect. Short adjectives use -er. -->
@@ -238,9 +238,9 @@ The student analyzes the spelling rules (doubling consonants) for short comparat
 What can we conclude about Mateo and Luis?
 
 ### Opciones
-- [ ] A) Luis is older than Mateo.
+- [ ] B) Luis is older than Mateo.
   <!-- feedback: Incorrect. They are both 14. -->
-- [x] B) Mateo and Luis have the same age.
+- [x] A) Mateo and Luis have the same age.
   <!-- feedback: Correct! The text says "Mateo is as old as Luis". -->
 - [ ] C) Mateo is more active than Luis.
   <!-- feedback: Incorrect. Luis is more active. -->
@@ -264,9 +264,9 @@ The student analyzes a text using both equality and superiority comparisons to i
 Which product should a person buy if they want a long-lasting item that is easy to use, even if it costs more?
 
 ### Opciones
-- [ ] A) Product X
+- [ ] B) Product X
   <!-- feedback: Incorrect. It is cheaper, but not as durable. -->
-- [x] B) Product Y
+- [x] A) Product Y
   <!-- feedback: Correct! It is "more durable" (long-lasting) and "as easy to use". -->
 - [ ] C) Both are the same in every way.
   <!-- feedback: Incorrect. There are clear differences in price and durability. -->

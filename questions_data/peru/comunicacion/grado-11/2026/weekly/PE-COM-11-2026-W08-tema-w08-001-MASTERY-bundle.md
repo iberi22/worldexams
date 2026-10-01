@@ -30,9 +30,9 @@ creador: "Jules-Agent"
 ¿Cómo se define el vicio del lenguaje denominado 'anfibología' o 'ambigüedad'?
 
 ### Opciones
-- [ ] A) La repetición monótona y desagradable de una misma consonante o sílaba en una frase corta
+- [ ] B) La repetición monótona y desagradable de una misma consonante o sílaba en una frase corta
   <!-- feedback: Incorrecto. Esto define a la cacofonía, no a la anfibología. -->
-- [x] B) La falta de claridad que permite interpretar una misma oración o frase de dos o más formas diferentes
+- [x] A) La falta de claridad que permite interpretar una misma oración o frase de dos o más formas diferentes
   <!-- feedback: Correcto. La anfibología ocurre cuando el orden de las palabras o el uso impreciso de pronombres y preposiciones da lugar a dobles interpretaciones del mensaje, afectando la inteligibilidad. -->
 - [ ] C) El uso de vocablos extranjeros adaptados de forma defectuosa a la ortografía española
   <!-- feedback: Incorrecto. Esto se asocia más con el barbarismo o extranjerismo crudo, no con la ambigüedad estructural. -->
@@ -55,11 +55,11 @@ La anfibología es un vicio de construcción sintáctica que oscurece el sentido
 ¿Cuál de las siguientes palabras constituye un barbarismo léxico o error ortográfico severo frente a la norma de la RAE?
 
 ### Opciones
-- [ ] A) idiosincrasia
+- [ ] B) idiosincrasia
   <!-- feedback: Incorrecto. Es la grafía correcta para referirse al temperamento de un grupo; escribir 'idiosincrazia' con z o c errónea sería barbarismo. -->
-- [ ] B) prever
+- [ ] C) prever
   <!-- feedback: Incorrecto. Es la grafía correcta del verbo que significa ver con anticipación; el error común es escribirlo redundante 'preveer'. -->
-- [x] C) habían
+- [x] A) habían
   <!-- feedback: Correcto. Usar 'habían' como verbo impersonal que indica existencia en plural es un solecismo o barbarismo de concordancia muy grave (ej. 'Habían muchos postulantes en la UNI' en lugar del correcto 'Había muchos postulantes'). -->
 - [ ] D) jesuita
   <!-- feedback: Incorrecto. Es la grafía correcta para referirse al miembro de la Compañía de Jesús. -->
@@ -84,9 +84,9 @@ Lea el enunciado del borrador:
 ### Opciones
 - [ ] A) Incurre en dequeísmo y queísmo, debiendo decirse 'de que subió'
   <!-- feedback: Incorrecto. No hay errores de dequeísmo o queísmo en la frase; el problema es puramente de pleonasmo o redundancia. -->
-- [x] B) Presenta múltiples redundancias vulgares ('temperatura muy caliente', 'vapor gaseoso', 'subió hacia arriba') que deben depurarse para lograr concisión
+- [x] C) Presenta múltiples redundancias vulgares ('temperatura muy caliente', 'vapor gaseoso', 'subió hacia arriba') que deben depurarse para lograr concisión
   <!-- feedback: Correcto. 'Calentar a temperatura caliente' es redundante; el vapor es por definición gaseoso; y el verbo 'subir' contiene en su semántica la dirección ascendente. La corrección ideal sería: 'El agua se calentó a alta temperatura, produciendo un vapor que ascendió por el tubo'. -->
-- [ ] C) Presenta solecismo de concordancia entre 'agua' (femenino) y 'calentó' (masculino)
+- [ ] B) Presenta solecismo de concordancia entre 'agua' (femenino) y 'calentó' (masculino)
   <!-- feedback: Incorrecto. El verbo 'calentó' no tiene género; concuerda correctamente en tercera persona singular con el sujeto 'agua'. -->
 - [ ] D) Incurre en cacofonía por la repetición de la consonante T en 'tubo'
   <!-- feedback: Incorrecto. La consonante T no genera cacofonía molesta en esta posición; la redundancia de ideas es el defecto principal. -->
@@ -159,9 +159,9 @@ Lea la oración:
 ¿Qué errores de concordancia y de cacofonía presenta este enunciado según las reglas gramaticales vigentes?
 
 ### Opciones
-- [ ] A) El término 'altiva' debe escribirse con H intermedia para concordar con 'águila'
+- [ ] B) El término 'altiva' debe escribirse con H intermedia para concordar con 'águila'
   <!-- feedback: Incorrecto. 'Altiva' no lleva H en ninguna posición de su raíz etimológica. -->
-- [x] B) Incurre en un mal uso de los artículos femeninos antes de sustantivos que inician con 'a' tónica, debiendo decirse 'El águila' y 'el área'
+- [x] A) Incurre en un mal uso de los artículos femeninos antes de sustantivos que inician con 'a' tónica, debiendo decirse 'El águila' y 'el área'
   <!-- feedback: Correcto. Los sustantivos femeninos que inician con 'a' o 'ha' tónica exigen el artículo masculino 'el' en singular para evitar el sonido discordante de la cacofonía ('El águila altiva', 'el área protegida'). Los adjetivos calificativos acompañantes ('altiva', 'protegida') se mantienen en femenino. -->
 - [ ] C) Debería escribirse 'La águila' porque el sustantivo 'águila' es de género neutro en castellano
   <!-- feedback: Incorrecto. En español no existen sustantivos de género neutro; 'águila' es femenino y el cambio de artículo es meramente fonético por cacofonía. -->
@@ -188,11 +188,11 @@ Lea el enunciado de un informe sobre patrimonio andino:
 ### Opciones
 - [ ] A) grabar / acervo
   <!-- feedback: Incorrecto. 'Grabar' con B significa registrar sonidos/imágenes o tallar una superficie, inadecuado para referirse a la imposición de tributos. -->
-- [x] B) gravar / acervo
+- [x] D) gravar / acervo
   <!-- feedback: Correcto. El verbo 'gravar' (con V) significa imponer un impuesto, tasa o gravamen económico. El sustantivo 'acervo' (con V) representa el patrimonio de bienes culturales o comunes de una colectividad. -->
-- [ ] C) gravar / acerbo
+- [ ] B) gravar / acerbo
   <!-- feedback: Incorrecto. El adjetivo 'acerbo' (con B) significa áspero, amargo o cruel, inadecuado para designar el patrimonio cultural nacional. -->
-- [ ] D) grabar / acerbo
+- [ ] C) grabar / acerbo
   <!-- feedback: Incorrecto. Ambos vocablos presentan errores de selección semántica para las funciones y significados del enunciado. -->
 
 ### Explicacion Pedagogica
@@ -213,9 +213,9 @@ Identifique la oración que presenta un uso CORRECTO de las reglas de concordanc
 ### Opciones
 - [ ] A) La mayoría de los postulantes que rindieron el examen ingresaron a la universidad pública.
   <!-- feedback: Incorrecto. Presenta concordancia colectiva lícita, pero busquemos un solecismo de discordancia evidente: 'La gente de las provincias andinas solicitaron ayuda al Estado para mitigar las heladas'. Aquí, 'gente' es singular y el verbo 'solicitaron' está en plural. -->
-- [ ] B) El grupo de arqueólogos de San Marcos descubrieron una nueva tumba prehispánica.
+- [ ] C) El grupo de arqueólogos de San Marcos descubrieron una nueva tumba prehispánica.
   <!-- feedback: Incorrecto. El sujeto colectivo singular 'grupo' exige concordancia en singular en la redacción formal estricta ('descubrió'), a pesar del modificador plural. -->
-- [x] C) La dotación de insumos médicos para los hospitales rurales fue distribuida de manera oportuna por el Ministerio.
+- [x] B) La dotación de insumos médicos para los hospitales rurales fue distribuida de manera oportuna por el Ministerio.
   <!-- feedback: Correcto. El núcleo del sujeto es el sustantivo singular femenino 'La dotación'. El verbo copulativo pasivo concuerda perfectamente en tercera persona singular femenino: 'fue distribuida'. -->
 - [ ] D) Se vende departamentos amoblados en el centro histórico de la ciudad de Arequipa.
   <!-- feedback: Incorrecto. Incurre en solecismo de pasiva refleja: al ser 'departamentos amoblados' el sujeto plural pasivo, el verbo debe concordar obligatoriamente en plural: 'Se venden departamentos...' (Los departamentos son vendidos). -->
@@ -264,9 +264,9 @@ En la redacción académica formal, el uso de verbos comodín como 'hacer', 'ten
 'El comité de becas decidió hacer una investigación rigurosa de los expedientes'.
 
 ### Opciones
-- [ ] A) decidió dar una investigación rigurosa
+- [ ] B) decidió dar una investigación rigurosa
   <!-- feedback: Incorrecto. 'Dar una investigación' mantiene el uso de un verbo comodín e informal. -->
-- [x] B) decidió emprender (o acometer / realizar / efectuar / desarrollar) una investigación rigurosa
+- [x] A) decidió emprender (o acometer / realizar / efectuar / desarrollar) una investigación rigurosa
   <!-- feedback: Correcto. El verbo 'emprender', 'realizar' o 'efectuar' dota a la frase de precisión léxica y elegancia académica, superando la pobreza verbal del verbo genérico 'hacer'. -->
 - [ ] C) decidió poseer una investigación rigurosa
   <!-- feedback: Incorrecto. 'Poseer' no concuerda semánticamente con la acción dinámica de investigar expedientes. -->
@@ -293,9 +293,9 @@ Lea la oración ambigua de un folleto escolar:
 ### Opciones
 - [ ] A) Felicitaron al alumno por la excelente monografía de parte del profesor en su propia aula de ciencias.
   <!-- feedback: Incorrecto. Mantiene el posesivo ambiguo 'su propia aula' sin resolver la confusión de pertenencia. -->
-- [ ] B) El profesor felicitó en su aula a su alumno de ciencias por su monografía excelente de él.
+- [ ] C) El profesor felicitó en su aula a su alumno de ciencias por su monografía excelente de él.
   <!-- feedback: Incorrecto. 'De él' es redundante e informal y no disipa con claridad a quién pertenece el aula geográfica. -->
-- [x] C) En el aula de ciencias, el profesor felicitó al alumno por la excelente monografía que este último había redactado.
+- [x] B) En el aula de ciencias, el profesor felicitó al alumno por la excelente monografía que este último había redactado.
   <!-- feedback: Correcto. El orden sintáctico separa de forma clara las circunstancias: sitúa el lugar al inicio ('En el aula de ciencias', que suele pertenecer al profesor o institución) y emplea el pronombre demostrativo de relativo complejo 'este último' para referirse sin ambigüedad alguna al alumno como autor indiscutible de la monografía. -->
 - [ ] D) El profesor de ciencias le dio una felicitación por su monografía al alumno en su propia clase de él.
   <!-- feedback: Incorrecto. Redacción engorrosa plagada de vicios del lenguaje y redundancias de posesión informales. -->
@@ -345,11 +345,11 @@ Lea el siguiente memorándum con un error frecuente de concordancia distributiva
 ¿Cuál es el significado gramatical correcto de la palabra 'sendos' y en qué error incurre el emisor que escribe 'enviaron un sendo informe'?
 
 ### Opciones
-- [ ] A) Significa 'grandioso o extraordinario'; y el error es usarlo en minúscula
+- [ ] B) Significa 'grandioso o extraordinario'; y el error es usarlo en minúscula
   <!-- feedback: Incorrecto. 'Sendos' no significa grandioso o enorme, a pesar del uso popular erróneo de la expresión. -->
-- [ ] B) Significa 'ambos'; y el error es aplicarlo a tres o más sujetos coordinados
+- [ ] C) Significa 'ambos'; y el error es aplicarlo a tres o más sujetos coordinados
   <!-- feedback: Incorrecto. Aunque incluye dualidad, el significado preciso es distributivo plural. -->
-- [x] C) Significa 'uno para cada uno de los sujetos o elementos referidos'; e incurre en error de concordancia distributiva y de número al usarlo en singular ('sendo informe')
+- [x] A) Significa 'uno para cada uno de los sujetos o elementos referidos'; e incurre en error de concordancia distributiva y de número al usarlo en singular ('sendo informe')
   <!-- feedback: Correcto. 'Sendos/sendas' es un adjetivo distributivo plural que significa 'uno para cada uno' (ej. 'tres personas recibieron sendos diplomas' = cada una recibió un diploma). Carece de forma singular, por lo que escribir o decir 'un sendo golpe' o 'un sendo informe' atribuyéndole el significado de 'grande' o 'único' es un barbarismo sintáctico severo. -->
 - [ ] D) Significa 'sin fecha de vencimiento'; y el error es aplicarlo al balance presupuestal
   <!-- feedback: Incorrecto. No tiene significado de temporalidad o de vencimiento legal. -->
@@ -375,9 +375,9 @@ Lea las dos propuestas de justificación de un proyecto científico escolar:
 ### Opciones
 - [ ] A) El Texto A es adecuado porque la jerga juvenil es más eficiente para los artículos científicos indexados
   <!-- feedback: Incorrecto. La jerga juvenil desvaloriza la objetividad e impide la indexación académica formal. -->
-- [ ] B) El Texto B es inadecuado porque el uso de vocablos específicos como 'flora endémica' confunde a la SUNAT
+- [ ] C) El Texto B es inadecuado porque el uso de vocablos específicos como 'flora endémica' confunde a la SUNAT
   <!-- feedback: Incorrecto. Los términos botánicos son adecuados y obligatorios en ciencias; la SUNAT no evalúa proyectos ecológicos de esta índole botánica. -->
-- [x] C) El Texto A incurre en inadecuación por el uso de jerga informal, adjetivos vagos ('bacán', 'recontra') y verbos coloquiales ('chequear'), mientras que el Texto B cumple plenamente la adecuación formal mediante un léxico preciso, tono denotativo y registro académico culto
+- [x] B) El Texto A incurre en inadecuación por el uso de jerga informal, adjetivos vagos ('bacán', 'recontra') y verbos coloquiales ('chequear'), mientras que el Texto B cumple plenamente la adecuación formal mediante un léxico preciso, tono denotativo y registro académico culto
   <!-- feedback: Correcto. El Texto A rompe con las normas del registro formal exigido en las disciplinas científicas, recurriendo a localismos informales. El Texto B emplea con total precisión los términos técnicos correspondientes ('captación de agua', 'flora endémica', 'perfil hídrico') y un tono denotativo riguroso. -->
 - [ ] D) Ambos textos son adecuados porque la ciencia moderna peruana prohíbe el uso de la tercera persona gramatical
   <!-- feedback: Incorrecto. La tercera persona es el estándar de objetividad científica en todo el mundo, no una prohibición. -->
@@ -484,9 +484,9 @@ En la evaluación nacional de la escritura de los estudiantes de 5to de secundar
   <!-- feedback: Incorrecto. Conocer las biografías de autores antiguos no provee de destrezas para la sintaxis oracional activa de hoy. -->
 - [ ] B) La caligrafía manual y el uso de bolígrafos de tinta líquida en los exámenes
   <!-- feedback: Incorrecto. El error no es de trazo físico de las letras, sino de estructura lógico-sintáctica oracional en la mente del estudiante. -->
-- [x] C) El análisis sintáctico funcional, el dominio del régimen preposicional de los verbos y el hábito de relectura y autocorrección de borradores
+- [x] D) El análisis sintáctico funcional, el dominio del régimen preposicional de los verbos y el hábito de relectura y autocorrección de borradores
   <!-- feedback: Correcto. El queísmo y dequeísmo son problemas estructurales de régimen verbal y preposicional. Su persistencia revela que la enseñanza de la lengua se limita a menudo a la teoría pasiva o memorización ortográfica, sin entrenar al alumno en el análisis funcional de sus oraciones ni en el hábito crítico de revisar sus propios borradores académicos. -->
-- [ ] D) La velocidad física de lectura literal que impide registrar las consonantes mudas
+- [ ] C) La velocidad física de lectura literal que impide registrar las consonantes mudas
   <!-- feedback: Incorrecto. No responde a un problema de velocidad física de lectura literal o consonantes mudas. -->
 
 ### Explicacion Pedagogica
@@ -534,11 +534,11 @@ Considere la oración trunca con graves solecismos de concordancia y preposició
 ¿Cuál de las siguientes propuestas de reescritura recupera la coherencia temática, elimina la pasiva inconexa, los gerundios viciosos y el dequeísmo de forma impecable?
 
 ### Opciones
-- [ ] A) La comisión habiendo analizado expedientes vio de que el postulante carecía de perfil y lo rechazó de inmediato.
+- [ ] B) La comisión habiendo analizado expedientes vio de que el postulante carecía de perfil y lo rechazó de inmediato.
   <!-- feedback: Incorrecto. Mantiene el solecismo por dequeísmo ('vio de que') y el gerundio de anterioridad mal enlazado al inicio. -->
-- [ ] B) Se analizó los expedientes por la comisión, y se vio que el postulante carecía de perfil, rechazándolo de inmediato.
+- [ ] C) Se analizó los expedientes por la comisión, y se vio que el postulante carecía de perfil, rechazándolo de inmediato.
   <!-- feedback: Incorrecto. Mantiene la pasiva refleja impersonal con solecismo de número ('Se analizó los expedientes' en lugar de 'Se analizaron') y el gerundio de posterioridad vicioso ('rechazándolo'). -->
-- [x] C) Tras analizar los expedientes, la comisión constató que el candidato no cumplía con el perfil requerido; por consiguiente, rechazó su postulación de inmediato.
+- [x] A) Tras analizar los expedientes, la comisión constató que el candidato no cumplía con el perfil requerido; por consiguiente, rechazó su postulación de inmediato.
   <!-- feedback: Correcto. Elimina la pasiva vaga dándole agencia real a la comisión ('la comisión constató'), suprime el dequeísmo del verbo ver sustituyéndolo por 'constató que' (OD directo), erradica el gerundio de posterioridad vicioso ('siendo rechazado') mediante el conector consecutivo formal 'por consiguiente' y el verbo activo 'rechazó'. -->
 - [ ] D) Habiéndose visto de parte de la comisión el expediente del postulante que no tenía perfil, fue rechazado por consiguiente de inmediato.
   <!-- feedback: Incorrecto. Redacción engorrosa y barroca que mantiene las estructuras truncas, gerundios vagos y pasivas redundantes. -->

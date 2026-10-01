@@ -58,8 +58,8 @@ This question evaluates the student's ability to remember the topic of Period 3 
 Select the correct A2 level use for p3-final-review.
 
 ### Opciones
-- [ ] A) Structure 2 <!-- feedback: Incorrect. Please review the topic. -->
-- [x] B) Structure 1 (Correct) <!-- feedback: Correct! Well done. -->
+- [ ] B) Structure 2 <!-- feedback: Incorrect. Please review the topic. -->
+- [x] A) Structure 1 (Correct) <!-- feedback: Correct! Well done. -->
 - [ ] C) Structure 3 <!-- feedback: Incorrect. Please review the topic. -->
 - [ ] D) Structure 4 <!-- feedback: Incorrect. Please review the topic. -->
 
@@ -81,8 +81,8 @@ Identify the appropriate vocabulary for p3-final-review.
 
 ### Opciones
 - [ ] A) Word 2 <!-- feedback: Incorrect. Please review the topic. -->
-- [x] B) Word 1 (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] C) Word 4 <!-- feedback: Incorrect. Please review the topic. -->
+- [x] C) Word 1 (Correct) <!-- feedback: Correct! Well done. -->
+- [ ] B) Word 4 <!-- feedback: Incorrect. Please review the topic. -->
 - [ ] D) Word 3 <!-- feedback: Incorrect. Please review the topic. -->
 
 ### Explicación Pedagógica
@@ -103,9 +103,9 @@ Complete the sentence about p3-final-review.
 
 ### Opciones
 - [ ] A) Phrase C <!-- feedback: Incorrect. Please review the topic. -->
-- [x] B) Phrase A (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] C) Phrase B <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Phrase D <!-- feedback: Incorrect. Please review the topic. -->
+- [x] D) Phrase A (Correct) <!-- feedback: Correct! Well done. -->
+- [ ] B) Phrase B <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] C) Phrase D <!-- feedback: Incorrect. Please review the topic. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to understand the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -124,8 +124,8 @@ This question evaluates the student's ability to understand the topic of Period 
 What is the best way to express p3-final-review?
 
 ### Opciones
-- [ ] A) Incorrect way <!-- feedback: Incorrect. Please review the topic. -->
-- [x] B) This way (Correct) <!-- feedback: Correct! Well done. -->
+- [ ] B) Incorrect way <!-- feedback: Incorrect. Please review the topic. -->
+- [x] A) This way (Correct) <!-- feedback: Correct! Well done. -->
 - [ ] C) Other way <!-- feedback: Incorrect. Please review the topic. -->
 - [ ] D) That way <!-- feedback: Incorrect. Please review the topic. -->
 
@@ -147,9 +147,9 @@ Find the error in this p3-final-review sentence.
 
 ### Opciones
 - [ ] A) Wrong error <!-- feedback: Incorrect. Please review the topic. -->
-- [x] B) The error is here (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] C) No error <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Different error <!-- feedback: Incorrect. Please review the topic. -->
+- [x] D) The error is here (Correct) <!-- feedback: Correct! Well done. -->
+- [ ] B) No error <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] C) Different error <!-- feedback: Incorrect. Please review the topic. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -191,9 +191,9 @@ Choose the synonym for a word related to p3-final-review.
 
 ### Opciones
 - [ ] A) Antonym <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Unrelated <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) Homonym <!-- feedback: Incorrect. Please review the topic. -->
-- [x] D) Synonym (Correct) <!-- feedback: Correct! Well done. -->
+- [ ] C) Unrelated <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] D) Homonym <!-- feedback: Incorrect. Please review the topic. -->
+- [x] B) Synonym (Correct) <!-- feedback: Correct! Well done. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to analyze the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -214,8 +214,8 @@ Which of these belongs to p3-final-review?
 ### Opciones
 - [ ] A) Neither <!-- feedback: Incorrect. Please review the topic. -->
 - [ ] B) Both <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) Not this one <!-- feedback: Incorrect. Please review the topic. -->
-- [x] D) This one (Correct) <!-- feedback: Correct! Well done. -->
+- [ ] D) Not this one <!-- feedback: Incorrect. Please review the topic. -->
+- [x] C) This one (Correct) <!-- feedback: Correct! Well done. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to analyze the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.

@@ -73,8 +73,8 @@ El factor común identifica divisores comunes en todos los términos.
 ### Opciones
 - [ ] A) 5 <!-- feedback: Incorrecto. Falta la variable común. -->
 - [ ] B) x <!-- feedback: Incorrecto. Falta el coeficiente común. -->
-- [x] C) 5x <!-- feedback: Correcto. MCD de coeficientes y menor potencia de variable. -->
-- [ ] D) 10x2 <!-- feedback: Incorrecto. Excede los términos originales. -->
+- [x] D) 5x <!-- feedback: Correcto. MCD de coeficientes y menor potencia de variable. -->
+- [ ] C) 10x2 <!-- feedback: Incorrecto. Excede los términos originales. -->
 
 ### Explicacion Pedagogica
 Extracción del máximo común divisor algebraico de la expresión.
@@ -93,9 +93,9 @@ Extracción del máximo común divisor algebraico de la expresión.
 
 ### Opciones
 - [ ] A) $(x - y)^2$ <!-- feedback: Incorrecto. Es el cuadrado de resta. -->
-- [x] B) $(x + y)(x - y)$ <!-- feedback: Correcto. Producto de binomios conjugados. -->
-- [ ] C) $(x + y)^2$ <!-- feedback: Incorrecto. Cuadrado de suma. -->
-- [ ] D) $x - y$ <!-- feedback: Incorrecto. Falta el otro factor. -->
+- [x] D) $(x + y)(x - y)$ <!-- feedback: Correcto. Producto de binomios conjugados. -->
+- [ ] B) $(x + y)^2$ <!-- feedback: Incorrecto. Cuadrado de suma. -->
+- [ ] C) $x - y$ <!-- feedback: Incorrecto. Falta el otro factor. -->
 
 ### Explicacion Pedagogica
 Técnica basada en el producto notable de binomios conjugados.
@@ -113,8 +113,8 @@ Técnica basada en el producto notable de binomios conjugados.
 ¿Qué condición cumple el término central en un TCP?
 
 ### Opciones
-- [ ] A) Suma de raíces extremas. <!-- feedback: Incorrecto. Es producto, no suma. -->
-- [x] B) Doble producto de raíces. <!-- feedback: Correcto. $2 \cdot \sqrt{a} \cdot \sqrt{c}$. -->
+- [ ] B) Suma de raíces extremas. <!-- feedback: Incorrecto. Es producto, no suma. -->
+- [x] A) Doble producto de raíces. <!-- feedback: Correcto. $2 \cdot \sqrt{a} \cdot \sqrt{c}$. -->
 - [ ] C) Número par siempre. <!-- feedback: Incorrecto. No es obligatorio. -->
 - [ ] D) Cuadrado del tercer término. <!-- feedback: Incorrecto. Sin sentido. -->
 
@@ -135,9 +135,9 @@ Verificación de la estructura de un binomio al cuadrado expandido.
 
 ### Opciones
 - [ ] A) $(x + 9)^2$ <!-- feedback: Incorrecto. Raíz de 9 es 3. -->
-- [x] B) $(x + 3)^2$ <!-- feedback: Correcto. Trinomio cuadrado perfecto. -->
-- [ ] C) $(x + 3)(x - 3)$ <!-- feedback: Incorrecto. Esa es para x2 - 9. -->
-- [ ] D) $x(x + 6) + 9$ <!-- feedback: Incorrecto. No está en producto. -->
+- [x] D) $(x + 3)^2$ <!-- feedback: Correcto. Trinomio cuadrado perfecto. -->
+- [ ] B) $(x + 3)(x - 3)$ <!-- feedback: Incorrecto. Esa es para x2 - 9. -->
+- [ ] C) $x(x + 6) + 9$ <!-- feedback: Incorrecto. No está en producto. -->
 
 ### Explicacion Pedagogica
 Reconocimiento de las raíces de los extremos y verificación del centro.
@@ -155,8 +155,8 @@ Reconocimiento de las raíces de los extremos y verificación del centro.
 ¿Resultado de factorizar $x^2 - 5x + 6$?
 
 ### Opciones
-- [ ] A) $(x - 6)(x + 1)$ <!-- feedback: Incorrecto. Producto da -6. -->
-- [x] B) $(x - 3)(x - 2)$ <!-- feedback: Correcto. Suma -5, producto +6. -->
+- [ ] B) $(x - 6)(x + 1)$ <!-- feedback: Incorrecto. Producto da -6. -->
+- [x] A) $(x - 3)(x - 2)$ <!-- feedback: Correcto. Suma -5, producto +6. -->
 - [ ] C) $(x + 3)(x + 2)$ <!-- feedback: Incorrecto. Suma daría +5. -->
 - [ ] D) $(x - 5)(x + 6)$ <!-- feedback: Incorrecto. No cumple reglas. -->
 
@@ -177,9 +177,9 @@ Factoriza $ax + ay + bx + by$.
 
 ### Opciones
 - [ ] A) $(a + y)(b + x)$ <!-- feedback: Incorrecto. No coincide expansión. -->
-- [x] B) $(a + b)(x + y)$ <!-- feedback: Correcto. Agrupando por parejas. -->
-- [ ] C) $ab(x + y)$ <!-- feedback: Incorrecto. Multiplicaría a y b. -->
-- [ ] D) $a(x + y) + b$ <!-- feedback: Incorrecto. Incompleto. -->
+- [x] D) $(a + b)(x + y)$ <!-- feedback: Correcto. Agrupando por parejas. -->
+- [ ] B) $ab(x + y)$ <!-- feedback: Incorrecto. Multiplicaría a y b. -->
+- [ ] C) $a(x + y) + b$ <!-- feedback: Incorrecto. Incompleto. -->
 
 ### Explicacion Pedagogica
 Agrupación estratégica para hallar binomios comunes repetidos.
@@ -199,8 +199,8 @@ Agrupación estratégica para hallar binomios comunes repetidos.
 ### Opciones
 - [ ] A) $x-8, x+2$ <!-- feedback: Incorrecto. No es diferencia de cuadrados. -->
 - [ ] B) $x-4, x-4$ <!-- feedback: Incorrecto. Daría trinomio. -->
-- [x] C) $x-4, x+4$ <!-- feedback: Correcto. Diferencia de cuadrados perfectos. -->
-- [ ] D) $x-16, x+1$ <!-- feedback: Incorrecto. No cumple estructura. -->
+- [x] D) $x-4, x+4$ <!-- feedback: Correcto. Diferencia de cuadrados perfectos. -->
+- [ ] C) $x-16, x+1$ <!-- feedback: Incorrecto. No cumple estructura. -->
 
 ### Explicacion Pedagogica
 Aplicación de factorización a dimensiones físicas de un rectángulo.
@@ -219,9 +219,9 @@ Aplicación de factorización a dimensiones físicas de un rectángulo.
 
 ### Opciones
 - [ ] A) $(2x + 1)(x + 1)$ <!-- feedback: Incorrecto. Centro daría 3x. -->
-- [x] B) $(2x + 1)(x + 2)$ <!-- feedback: Correcto. Satisface todos los términos. -->
-- [ ] C) $(2x + 2)(x + 1)$ <!-- feedback: Incorrecto. Centro daría 4x. -->
-- [ ] D) $(x + 2)(x + 2)$ <!-- feedback: Incorrecto. Coeficiente de x2 errado. -->
+- [x] D) $(2x + 1)(x + 2)$ <!-- feedback: Correcto. Satisface todos los términos. -->
+- [ ] B) $(2x + 2)(x + 1)$ <!-- feedback: Incorrecto. Centro daría 4x. -->
+- [ ] C) $(x + 2)(x + 2)$ <!-- feedback: Incorrecto. Coeficiente de x2 errado. -->
 
 ### Explicacion Pedagogica
 Factorización de trinomios con coeficiente principal distinto de uno.
@@ -241,8 +241,8 @@ Fórmula para $a^3 + b^3$.
 ### Opciones
 - [ ] A) $(a + b)^3$ <!-- feedback: Incorrecto. Es potencia, no factores. -->
 - [ ] B) $(a+b)(a^2+ab+b^2)$ <!-- feedback: Incorrecto. Signo medio debe ser opuesto. -->
-- [x] C) $(a+b)(a^2-ab+b^2)$ <!-- feedback: Correcto. Estructura estándar de suma de cubos. -->
-- [ ] D) $(a+b)(a-b)^2$ <!-- feedback: Incorrecto. No corresponde. -->
+- [x] D) $(a+b)(a^2-ab+b^2)$ <!-- feedback: Correcto. Estructura estándar de suma de cubos. -->
+- [ ] C) $(a+b)(a-b)^2$ <!-- feedback: Incorrecto. No corresponde. -->
 
 ### Explicacion Pedagogica
 Descomposición de la suma de potencias cúbicas en factores reales.
@@ -260,8 +260,8 @@ Descomposición de la suma de potencias cúbicas en factores reales.
 ¿Factorización total?
 
 ### Opciones
-- [ ] A) $3(x^2 - 4)$ <!-- feedback: Incorrecto. Falta un paso. -->
-- [x] B) $3(x + 2)(x - 2)$ <!-- feedback: Correcto. Factor común y luego diferencia cuadrados. -->
+- [ ] B) $3(x^2 - 4)$ <!-- feedback: Incorrecto. Falta un paso. -->
+- [x] A) $3(x + 2)(x - 2)$ <!-- feedback: Correcto. Factor común y luego diferencia cuadrados. -->
 - [ ] C) $(3x + 6)(x - 2)$ <!-- feedback: Incorrecto. No está totalmente factorizado por MCD. -->
 - [ ] D) $3(x - 2)^2$ <!-- feedback: Incorrecto. No es un binomio al cuadrado. -->
 
@@ -303,8 +303,8 @@ Simplifica la fracción.
 
 ### Opciones
 - [ ] A) $x + 2$ <!-- feedback: Incorrecto. Signo errado. -->
-- [x] B) $x - 2$ <!-- feedback: Correcto. $(x-3)(x-2) / (x-3)$. -->
-- [ ] C) $x - 3$ <!-- feedback: Incorrecto. Factor no remanente. -->
+- [x] C) $x - 2$ <!-- feedback: Correcto. $(x-3)(x-2) / (x-3)$. -->
+- [ ] B) $x - 3$ <!-- feedback: Incorrecto. Factor no remanente. -->
 - [ ] D) 1 <!-- feedback: Incorrecto. No son idénticos. -->
 
 ### Explicacion Pedagogica
@@ -324,8 +324,8 @@ Uso de la factorización para la simplificación de expresiones racionales.
 
 ### Opciones
 - [ ] A) $(x^2 + 2)^2$ <!-- feedback: Incorrecto. Sobra 4x2. -->
-- [x] B) $(x^2+2x+2)(x^2-2x+2)$ <!-- feedback: Correcto. Mediante completar cuadrados. -->
-- [ ] C) $(x^2+2)(x^2-2)$ <!-- feedback: Incorrecto. Daría x4 - 4. -->
+- [x] C) $(x^2+2x+2)(x^2-2x+2)$ <!-- feedback: Correcto. Mediante completar cuadrados. -->
+- [ ] B) $(x^2+2)(x^2-2)$ <!-- feedback: Incorrecto. Daría x4 - 4. -->
 - [ ] D) No factoriza. <!-- feedback: Incorrecto. Sí se puede aunque sea difícil. -->
 
 ### Explicacion Pedagogica
@@ -344,8 +344,8 @@ Técnica avanzada de suma y resta de términos para habilitar factorización.
 Si $P(1) = 0$, ¿cuál es factor?
 
 ### Opciones
-- [ ] A) $x + 1$ <!-- feedback: Incorrecto. El signo debe ser opuesto a la raíz. -->
-- [x] B) $x - 1$ <!-- feedback: Correcto. Por el Teorema del Factor. -->
+- [ ] B) $x + 1$ <!-- feedback: Incorrecto. El signo debe ser opuesto a la raíz. -->
+- [x] A) $x - 1$ <!-- feedback: Correcto. Por el Teorema del Factor. -->
 - [ ] C) 1 <!-- feedback: Incorrecto. Es la raíz, no el factor. -->
 - [ ] D) Ninguno. <!-- feedback: Incorrecto. Existe al menos uno. -->
 
@@ -366,9 +366,9 @@ Conexión directa entre los ceros de una función y sus divisores algebraicos.
 
 ### Opciones
 - [ ] A) $(x+3)(x-3)$ <!-- feedback: Incorrecto. Eso es x2 - 9. -->
-- [x] B) $(x+3i)(x-3i)$ <!-- feedback: Correcto. Diferencia de cuadrados con unidad imaginaria. -->
-- [ ] C) $(x+3i)^2$ <!-- feedback: Incorrecto. Genera término medio. -->
-- [ ] D) $(x+9i)(x-9i)$ <!-- feedback: Incorrecto. Cuadrado errado. -->
+- [x] D) $(x+3i)(x-3i)$ <!-- feedback: Correcto. Diferencia de cuadrados con unidad imaginaria. -->
+- [ ] B) $(x+3i)^2$ <!-- feedback: Incorrecto. Genera término medio. -->
+- [ ] C) $(x+9i)(x-9i)$ <!-- feedback: Incorrecto. Cuadrado errado. -->
 
 ### Explicacion Pedagogica
 Ampliación del campo numérico para permitir factores en sumas de cuadrados.
@@ -386,8 +386,8 @@ Ampliación del campo numérico para permitir factores en sumas de cuadrados.
 Halla todos los factores reales.
 
 ### Opciones
-- [ ] A) $(x^2+9)(x^2-9)$ <!-- feedback: Incorrecto. Incompleto. -->
-- [x] B) $(x^2+9)(x+3)(x-3)$ <!-- feedback: Correcto. Descomposición sucesiva completa. -->
+- [ ] B) $(x^2+9)(x^2-9)$ <!-- feedback: Incorrecto. Incompleto. -->
+- [x] A) $(x^2+9)(x+3)(x-3)$ <!-- feedback: Correcto. Descomposición sucesiva completa. -->
 - [ ] C) $(x+3)^2(x-3)^2$ <!-- feedback: Incorrecto. Expansión distinta. -->
 - [ ] D) $(x-3)^4$ <!-- feedback: Incorrecto. No es binomio a la cuarta. -->
 
@@ -409,8 +409,8 @@ Aplicación reiterada de la diferencia de cuadrados hasta factores irreducibles.
 ### Opciones
 - [ ] A) $n - 1$ <!-- feedback: Incorrecto. Falta uno. -->
 - [ ] B) Al menos n. <!-- feedback: Incorrecto. Exactamente n. -->
-- [x] C) Exactamente n. <!-- feedback: Correcto. Contando multiplicidades y complejos. -->
-- [ ] D) Depende de coeficientes. <!-- feedback: Incorrecto. Solo del grado. -->
+- [x] D) Exactamente n. <!-- feedback: Correcto. Contando multiplicidades y complejos. -->
+- [ ] C) Depende de coeficientes. <!-- feedback: Incorrecto. Solo del grado. -->
 
 ### Explicacion Pedagogica
 Propiedad estructural que rige la cantidad de raíces de cualquier polinomio.
@@ -428,8 +428,8 @@ Propiedad estructural que rige la cantidad de raíces de cualquier polinomio.
 ¿Cuál es la factorización?
 
 ### Opciones
-- [ ] A) $(2^x - 1)^2$ <!-- feedback: Incorrecto. Genera término medio. -->
-- [x] B) $(2^x + 1)(2^x - 1)$ <!-- feedback: Correcto. Diferencia de cuadrados con bases exponenciales. -->
+- [ ] B) $(2^x - 1)^2$ <!-- feedback: Incorrecto. Genera término medio. -->
+- [x] A) $(2^x + 1)(2^x - 1)$ <!-- feedback: Correcto. Diferencia de cuadrados con bases exponenciales. -->
 - [ ] C) $2(2^x - 1)$ <!-- feedback: Incorrecto. No es factor común. -->
 - [ ] D) $2^{2(x-1)}$ <!-- feedback: Incorrecto. Ley de exponentes mal aplicada. -->
 

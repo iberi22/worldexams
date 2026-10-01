@@ -30,13 +30,13 @@ creador: "Jules-Agent"
 ¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 1?
 
 ### Opciones
-- [x] A) 1 + 1cos²(x)
+- [x] D) 1 + 1cos²(x)
   <!-- feedback: ¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x). -->
-- [ ] B) 1 * (sen²(x) + cos²(x))
+- [ ] A) 1 * (sen²(x) + cos²(x))
   <!-- feedback: Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada. -->
-- [ ] C) 1
+- [ ] B) 1
   <!-- feedback: Incorrecto. No se puede simplificar toda la expresión a un número constante. -->
-- [ ] D) sen(x) + 1cos(x)
+- [ ] C) sen(x) + 1cos(x)
   <!-- feedback: Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno. -->
 
 ### Explicacion Pedagogica
@@ -53,13 +53,13 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 2?
 
 ### Opciones
-- [x] A) 1 + 2cos²(x)
+- [x] D) 1 + 2cos²(x)
   <!-- feedback: ¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x). -->
-- [ ] B) 2 * (sen²(x) + cos²(x))
+- [ ] A) 2 * (sen²(x) + cos²(x))
   <!-- feedback: Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada. -->
-- [ ] C) 2
+- [ ] B) 2
   <!-- feedback: Incorrecto. No se puede simplificar toda la expresión a un número constante. -->
-- [ ] D) sen(x) + 2cos(x)
+- [ ] C) sen(x) + 2cos(x)
   <!-- feedback: Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno. -->
 
 ### Explicacion Pedagogica
@@ -99,13 +99,13 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 4?
 
 ### Opciones
-- [x] A) 1 + 4cos²(x)
+- [x] D) 1 + 4cos²(x)
   <!-- feedback: ¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x). -->
-- [ ] B) 4 * (sen²(x) + cos²(x))
+- [ ] A) 4 * (sen²(x) + cos²(x))
   <!-- feedback: Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada. -->
-- [ ] C) 4
+- [ ] B) 4
   <!-- feedback: Incorrecto. No se puede simplificar toda la expresión a un número constante. -->
-- [ ] D) sen(x) + 4cos(x)
+- [ ] C) sen(x) + 4cos(x)
   <!-- feedback: Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno. -->
 
 ### Explicacion Pedagogica
@@ -122,11 +122,11 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 5?
 
 ### Opciones
-- [x] A) 1 + 5cos²(x)
+- [x] C) 1 + 5cos²(x)
   <!-- feedback: ¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x). -->
-- [ ] B) 5 * (sen²(x) + cos²(x))
+- [ ] A) 5 * (sen²(x) + cos²(x))
   <!-- feedback: Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada. -->
-- [ ] C) 5
+- [ ] B) 5
   <!-- feedback: Incorrecto. No se puede simplificar toda la expresión a un número constante. -->
 - [ ] D) sen(x) + 5cos(x)
   <!-- feedback: Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno. -->
@@ -145,11 +145,11 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 6?
 
 ### Opciones
-- [x] A) 1 + 6cos²(x)
+- [x] C) 1 + 6cos²(x)
   <!-- feedback: ¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x). -->
-- [ ] B) 6 * (sen²(x) + cos²(x))
+- [ ] A) 6 * (sen²(x) + cos²(x))
   <!-- feedback: Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada. -->
-- [ ] C) 6
+- [ ] B) 6
   <!-- feedback: Incorrecto. No se puede simplificar toda la expresión a un número constante. -->
 - [ ] D) sen(x) + 6cos(x)
   <!-- feedback: Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno. -->
@@ -168,13 +168,13 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 7?
 
 ### Opciones
-- [x] A) 1 + 7cos²(x)
+- [x] D) 1 + 7cos²(x)
   <!-- feedback: ¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x). -->
-- [ ] B) 7 * (sen²(x) + cos²(x))
+- [ ] A) 7 * (sen²(x) + cos²(x))
   <!-- feedback: Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada. -->
-- [ ] C) 7
+- [ ] B) 7
   <!-- feedback: Incorrecto. No se puede simplificar toda la expresión a un número constante. -->
-- [ ] D) sen(x) + 7cos(x)
+- [ ] C) sen(x) + 7cos(x)
   <!-- feedback: Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno. -->
 
 ### Explicacion Pedagogica
@@ -191,13 +191,13 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 8?
 
 ### Opciones
-- [x] A) 1 + 8cos²(x)
+- [x] D) 1 + 8cos²(x)
   <!-- feedback: ¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x). -->
-- [ ] B) 8 * (sen²(x) + cos²(x))
+- [ ] A) 8 * (sen²(x) + cos²(x))
   <!-- feedback: Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada. -->
-- [ ] C) 8
+- [ ] B) 8
   <!-- feedback: Incorrecto. No se puede simplificar toda la expresión a un número constante. -->
-- [ ] D) sen(x) + 8cos(x)
+- [ ] C) sen(x) + 8cos(x)
   <!-- feedback: Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno. -->
 
 ### Explicacion Pedagogica
@@ -214,9 +214,9 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 9?
 
 ### Opciones
-- [x] A) 1 + 9cos²(x)
+- [x] B) 1 + 9cos²(x)
   <!-- feedback: ¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x). -->
-- [ ] B) 9 * (sen²(x) + cos²(x))
+- [ ] A) 9 * (sen²(x) + cos²(x))
   <!-- feedback: Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada. -->
 - [ ] C) 9
   <!-- feedback: Incorrecto. No se puede simplificar toda la expresión a un número constante. -->
@@ -237,13 +237,13 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 10?
 
 ### Opciones
-- [x] A) 1 + 10cos²(x)
+- [x] D) 1 + 10cos²(x)
   <!-- feedback: ¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x). -->
-- [ ] B) 10 * (sen²(x) + cos²(x))
+- [ ] A) 10 * (sen²(x) + cos²(x))
   <!-- feedback: Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada. -->
-- [ ] C) 10
+- [ ] B) 10
   <!-- feedback: Incorrecto. No se puede simplificar toda la expresión a un número constante. -->
-- [ ] D) sen(x) + 10cos(x)
+- [ ] C) sen(x) + 10cos(x)
   <!-- feedback: Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno. -->
 
 ### Explicacion Pedagogica
@@ -260,13 +260,13 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 11?
 
 ### Opciones
-- [x] A) 1 + 11cos²(x)
+- [x] D) 1 + 11cos²(x)
   <!-- feedback: ¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x). -->
-- [ ] B) 11 * (sen²(x) + cos²(x))
+- [ ] A) 11 * (sen²(x) + cos²(x))
   <!-- feedback: Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada. -->
-- [ ] C) 11
+- [ ] B) 11
   <!-- feedback: Incorrecto. No se puede simplificar toda la expresión a un número constante. -->
-- [ ] D) sen(x) + 11cos(x)
+- [ ] C) sen(x) + 11cos(x)
   <!-- feedback: Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno. -->
 
 ### Explicacion Pedagogica
@@ -283,9 +283,9 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 12?
 
 ### Opciones
-- [x] A) 1 + 12cos²(x)
+- [x] B) 1 + 12cos²(x)
   <!-- feedback: ¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x). -->
-- [ ] B) 12 * (sen²(x) + cos²(x))
+- [ ] A) 12 * (sen²(x) + cos²(x))
   <!-- feedback: Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada. -->
 - [ ] C) 12
   <!-- feedback: Incorrecto. No se puede simplificar toda la expresión a un número constante. -->
@@ -352,11 +352,11 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 15?
 
 ### Opciones
-- [x] A) 1 + 15cos²(x)
+- [x] C) 1 + 15cos²(x)
   <!-- feedback: ¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x). -->
-- [ ] B) 15 * (sen²(x) + cos²(x))
+- [ ] A) 15 * (sen²(x) + cos²(x))
   <!-- feedback: Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada. -->
-- [ ] C) 15
+- [ ] B) 15
   <!-- feedback: Incorrecto. No se puede simplificar toda la expresión a un número constante. -->
 - [ ] D) sen(x) + 15cos(x)
   <!-- feedback: Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno. -->
@@ -375,11 +375,11 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 16?
 
 ### Opciones
-- [x] A) 1 + 16cos²(x)
+- [x] C) 1 + 16cos²(x)
   <!-- feedback: ¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x). -->
-- [ ] B) 16 * (sen²(x) + cos²(x))
+- [ ] A) 16 * (sen²(x) + cos²(x))
   <!-- feedback: Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada. -->
-- [ ] C) 16
+- [ ] B) 16
   <!-- feedback: Incorrecto. No se puede simplificar toda la expresión a un número constante. -->
 - [ ] D) sen(x) + 16cos(x)
   <!-- feedback: Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno. -->
@@ -421,13 +421,13 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 18?
 
 ### Opciones
-- [x] A) 1 + 18cos²(x)
+- [x] D) 1 + 18cos²(x)
   <!-- feedback: ¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x). -->
-- [ ] B) 18 * (sen²(x) + cos²(x))
+- [ ] A) 18 * (sen²(x) + cos²(x))
   <!-- feedback: Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada. -->
-- [ ] C) 18
+- [ ] B) 18
   <!-- feedback: Incorrecto. No se puede simplificar toda la expresión a un número constante. -->
-- [ ] D) sen(x) + 18cos(x)
+- [ ] C) sen(x) + 18cos(x)
   <!-- feedback: Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno. -->
 
 ### Explicacion Pedagogica
@@ -444,13 +444,13 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 19?
 
 ### Opciones
-- [x] A) 1 + 19cos²(x)
+- [x] D) 1 + 19cos²(x)
   <!-- feedback: ¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x). -->
-- [ ] B) 19 * (sen²(x) + cos²(x))
+- [ ] A) 19 * (sen²(x) + cos²(x))
   <!-- feedback: Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada. -->
-- [ ] C) 19
+- [ ] B) 19
   <!-- feedback: Incorrecto. No se puede simplificar toda la expresión a un número constante. -->
-- [ ] D) sen(x) + 19cos(x)
+- [ ] C) sen(x) + 19cos(x)
   <!-- feedback: Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno. -->
 
 ### Explicacion Pedagogica
@@ -467,11 +467,11 @@ Dado que la cosecante es la función recíproca del seno (csc(x) = 1/sen(x)), sa
 ¿A cuál de las siguientes expresiones simplificadas equivale la expresión trigonométrica E = sen(x) * csc(x) + cos²(x) * 20?
 
 ### Opciones
-- [x] A) 1 + 20cos²(x)
+- [x] C) 1 + 20cos²(x)
   <!-- feedback: ¡Correcto! Como sen(x) * csc(x) = 1 (identidad recíproca), la expresión queda como 1 + (coeficiente)*cos²(x). -->
-- [ ] B) 20 * (sen²(x) + cos²(x))
+- [ ] A) 20 * (sen²(x) + cos²(x))
   <!-- feedback: Incorrecto. El coeficiente solo multiplica a la función coseno al cuadrado, no a toda la expresión simplificada. -->
-- [ ] C) 20
+- [ ] B) 20
   <!-- feedback: Incorrecto. No se puede simplificar toda la expresión a un número constante. -->
 - [ ] D) sen(x) + 20cos(x)
   <!-- feedback: Incorrecto. Esta simplificación ignora la naturaleza de la cosecante como el recíproco multiplicativo del seno. -->

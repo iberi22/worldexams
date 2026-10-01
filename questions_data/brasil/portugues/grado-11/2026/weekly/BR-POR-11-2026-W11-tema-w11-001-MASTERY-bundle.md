@@ -34,10 +34,10 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 No estudo de Recursos Estilísticos e Figuras de Linguagem, especificamente sobre Metáfora e Comparação, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de metáfora e comparação?
 
 ### Opciones
-- [x] A) A aplicação adequada de metáfora permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Metáfora e Comparação. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de metáfora limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Metáfora e Comparação. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de comparação impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. comparação é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
-- [ ] D) A análise de Metáfora e Comparação aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
+- [x] D) A aplicação adequada de metáfora permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Metáfora e Comparação. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de metáfora limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Metáfora e Comparação. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de comparação impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. comparação é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [ ] C) A análise de Metáfora e Comparação aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
 A compreensão de Metáfora e Comparação no contexto de Recursos Estilísticos e Figuras de Linguagem exige identificar como metáfora e comparação articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.
@@ -72,8 +72,8 @@ A compreensão de Metonímia e Sinédoque no contexto de Recursos Estilísticos 
 No estudo de Recursos Estilísticos e Figuras de Linguagem, especificamente sobre Antítese e Paradoxo, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de antítese e paradoxo?
 
 ### Opciones
-- [x] A) A aplicação adequada de antítese permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Antítese e Paradoxo. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de antítese limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Antítese e Paradoxo. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [x] B) A aplicação adequada de antítese permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Antítese e Paradoxo. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de antítese limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Antítese e Paradoxo. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
 - [ ] C) O fenômeno de paradoxo impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. paradoxo é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Antítese e Paradoxo aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
@@ -91,8 +91,8 @@ A compreensão de Antítese e Paradoxo no contexto de Recursos Estilísticos e F
 No estudo de Recursos Estilísticos e Figuras de Linguagem, especificamente sobre Ironia e Sarcasmo, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de ironia e sarcasmo?
 
 ### Opciones
-- [x] A) A aplicação adequada de ironia permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Ironia e Sarcasmo. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de ironia limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Ironia e Sarcasmo. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [x] B) A aplicação adequada de ironia permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Ironia e Sarcasmo. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de ironia limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Ironia e Sarcasmo. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
 - [ ] C) O fenômeno de sarcasmo impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. sarcasmo é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Ironia e Sarcasmo aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
@@ -110,10 +110,10 @@ A compreensão de Ironia e Sarcasmo no contexto de Recursos Estilísticos e Figu
 No estudo de Recursos Estilísticos e Figuras de Linguagem, especificamente sobre Hipérbole e Eufemismo, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de hipérbole e eufemismo?
 
 ### Opciones
-- [x] A) A aplicação adequada de hipérbole permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Hipérbole e Eufemismo. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de hipérbole limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Hipérbole e Eufemismo. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de eufemismo impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. eufemismo é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
-- [ ] D) A análise de Hipérbole e Eufemismo aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
+- [x] D) A aplicação adequada de hipérbole permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Hipérbole e Eufemismo. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de hipérbole limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Hipérbole e Eufemismo. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de eufemismo impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. eufemismo é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [ ] C) A análise de Hipérbole e Eufemismo aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
 A compreensão de Hipérbole e Eufemismo no contexto de Recursos Estilísticos e Figuras de Linguagem exige identificar como hipérbole e eufemismo articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.
@@ -129,9 +129,9 @@ A compreensão de Hipérbole e Eufemismo no contexto de Recursos Estilísticos e
 No estudo de Recursos Estilísticos e Figuras de Linguagem, especificamente sobre Personificação / Prosopopeia, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de prosopopeia e personificação?
 
 ### Opciones
-- [x] A) A aplicação adequada de prosopopeia permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Personificação / Prosopopeia. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de prosopopeia limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Personificação / Prosopopeia. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de personificação impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. personificação é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [x] C) A aplicação adequada de prosopopeia permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Personificação / Prosopopeia. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de prosopopeia limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Personificação / Prosopopeia. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de personificação impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. personificação é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Personificação / Prosopopeia aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
@@ -148,9 +148,9 @@ A compreensão de Personificação / Prosopopeia no contexto de Recursos Estilí
 No estudo de Recursos Estilísticos e Figuras de Linguagem, especificamente sobre Sinestesia e Sensações, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de sinestesia e sensações cruzadas?
 
 ### Opciones
-- [x] A) A aplicação adequada de sinestesia permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Sinestesia e Sensações. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de sinestesia limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Sinestesia e Sensações. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de sensações cruzadas impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. sensações cruzadas é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [x] C) A aplicação adequada de sinestesia permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Sinestesia e Sensações. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de sinestesia limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Sinestesia e Sensações. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de sensações cruzadas impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. sensações cruzadas é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Sinestesia e Sensações aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
@@ -167,9 +167,9 @@ A compreensão de Sinestesia e Sensações no contexto de Recursos Estilísticos
 No estudo de Recursos Estilísticos e Figuras de Linguagem, especificamente sobre Pleonasmo e Anáfora, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de anáfora e pleonasmo?
 
 ### Opciones
-- [x] A) A aplicação adequada de anáfora permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Pleonasmo e Anáfora. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de anáfora limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Pleonasmo e Anáfora. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de pleonasmo impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. pleonasmo é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [x] C) A aplicação adequada de anáfora permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Pleonasmo e Anáfora. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de anáfora limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Pleonasmo e Anáfora. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de pleonasmo impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. pleonasmo é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Pleonasmo e Anáfora aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
@@ -186,9 +186,9 @@ A compreensão de Pleonasmo e Anáfora no contexto de Recursos Estilísticos e F
 No estudo de Recursos Estilísticos e Figuras de Linguagem, especificamente sobre Aliteração e Assonância, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de aliteração e assonância?
 
 ### Opciones
-- [x] A) A aplicação adequada de aliteração permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Aliteração e Assonância. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de aliteração limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Aliteração e Assonância. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de assonância impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. assonância é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [x] C) A aplicação adequada de aliteração permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Aliteração e Assonância. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de aliteração limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Aliteração e Assonância. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de assonância impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. assonância é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Aliteração e Assonância aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
@@ -205,9 +205,9 @@ A compreensão de Aliteração e Assonância no contexto de Recursos Estilístic
 No estudo de Recursos Estilísticos e Figuras de Linguagem, especificamente sobre Catacrese e Perífrase, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de catacrese e perífrase?
 
 ### Opciones
-- [x] A) A aplicação adequada de catacrese permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Catacrese e Perífrase. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de catacrese limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Catacrese e Perífrase. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de perífrase impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. perífrase é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [x] C) A aplicação adequada de catacrese permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Catacrese e Perífrase. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de catacrese limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Catacrese e Perífrase. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de perífrase impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. perífrase é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Catacrese e Perífrase aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
@@ -224,10 +224,10 @@ A compreensão de Catacrese e Perífrase no contexto de Recursos Estilísticos e
 No estudo de Recursos Estilísticos e Figuras de Linguagem, especificamente sobre Polissíndeto e Assíndeto, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de polissíndeto e assíndeto?
 
 ### Opciones
-- [x] A) A aplicação adequada de polissíndeto permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Polissíndeto e Assíndeto. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de polissíndeto limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Polissíndeto e Assíndeto. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de assíndeto impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. assíndeto é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
-- [ ] D) A análise de Polissíndeto e Assíndeto aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
+- [x] D) A aplicação adequada de polissíndeto permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Polissíndeto e Assíndeto. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de polissíndeto limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Polissíndeto e Assíndeto. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de assíndeto impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. assíndeto é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [ ] C) A análise de Polissíndeto e Assíndeto aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
 A compreensão de Polissíndeto e Assíndeto no contexto de Recursos Estilísticos e Figuras de Linguagem exige identificar como polissíndeto e assíndeto articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.
@@ -243,9 +243,9 @@ A compreensão de Polissíndeto e Assíndeto no contexto de Recursos Estilístic
 No estudo de Recursos Estilísticos e Figuras de Linguagem, especificamente sobre Elipse e Zeugma, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de zeugma e elipse?
 
 ### Opciones
-- [x] A) A aplicação adequada de zeugma permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Elipse e Zeugma. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de zeugma limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Elipse e Zeugma. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de elipse impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. elipse é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [x] C) A aplicação adequada de zeugma permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Elipse e Zeugma. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de zeugma limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Elipse e Zeugma. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de elipse impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. elipse é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Elipse e Zeugma aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
@@ -281,10 +281,10 @@ A compreensão de Anacoluto e Hipérbato no contexto de Recursos Estilísticos e
 No estudo de Recursos Estilísticos e Figuras de Linguagem, especificamente sobre Apóstrofe e Invocação, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de apóstrofe e invocação?
 
 ### Opciones
-- [x] A) A aplicação adequada de apóstrofe permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Apóstrofe e Invocação. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de apóstrofe limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Apóstrofe e Invocação. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de invocação impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. invocação é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
-- [ ] D) A análise de Apóstrofe e Invocação aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
+- [x] D) A aplicação adequada de apóstrofe permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Apóstrofe e Invocação. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de apóstrofe limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Apóstrofe e Invocação. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de invocação impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. invocação é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [ ] C) A análise de Apóstrofe e Invocação aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
 A compreensão de Apóstrofe e Invocação no contexto de Recursos Estilísticos e Figuras de Linguagem exige identificar como apóstrofe e invocação articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.
@@ -300,10 +300,10 @@ A compreensão de Apóstrofe e Invocação no contexto de Recursos Estilísticos
 No estudo de Recursos Estilísticos e Figuras de Linguagem, especificamente sobre Gradação ou Clímax, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de gradação e clímax?
 
 ### Opciones
-- [x] A) A aplicação adequada de gradação permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Gradação ou Clímax. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de gradação limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Gradação ou Clímax. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de clímax impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. clímax é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
-- [ ] D) A análise de Gradação ou Clímax aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
+- [x] D) A aplicação adequada de gradação permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Gradação ou Clímax. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de gradação limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Gradação ou Clímax. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de clímax impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. clímax é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [ ] C) A análise de Gradação ou Clímax aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
 A compreensão de Gradação ou Clímax no contexto de Recursos Estilísticos e Figuras de Linguagem exige identificar como gradação e clímax articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.
@@ -338,9 +338,9 @@ A compreensão de Ironia Crítica em Notícias no contexto de Recursos Estilíst
 No estudo de Recursos Estilísticos e Figuras de Linguagem, especificamente sobre Recursos Poéticos Modernistas, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de estilística modernista e ruptura de sintaxe?
 
 ### Opciones
-- [x] A) A aplicação adequada de estilística modernista permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Recursos Poéticos Modernistas. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de estilística modernista limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Recursos Poéticos Modernistas. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de ruptura de sintaxe impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. ruptura de sintaxe é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [x] C) A aplicação adequada de estilística modernista permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Recursos Poéticos Modernistas. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de estilística modernista limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Recursos Poéticos Modernistas. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de ruptura de sintaxe impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. ruptura de sintaxe é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Recursos Poéticos Modernistas aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
@@ -395,8 +395,8 @@ A compreensão de Metáforas Absolutas e Hermetismo no contexto de Recursos Esti
 No estudo de Recursos Estilísticos e Figuras de Linguagem, especificamente sobre Intersecção de Figuras no Texto, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de polifonia figurativa e estilística complexa?
 
 ### Opciones
-- [x] A) A aplicação adequada de polifonia figurativa permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Intersecção de Figuras no Texto. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de polifonia figurativa limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Intersecção de Figuras no Texto. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [x] B) A aplicação adequada de polifonia figurativa permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Intersecção de Figuras no Texto. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de polifonia figurativa limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Intersecção de Figuras no Texto. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
 - [ ] C) O fenômeno de estilística complexa impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. estilística complexa é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Intersecção de Figuras no Texto aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 

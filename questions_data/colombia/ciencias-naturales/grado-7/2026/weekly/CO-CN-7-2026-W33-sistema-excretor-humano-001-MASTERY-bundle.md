@@ -31,9 +31,9 @@ Este bundle desarrolla los órganos de la excreción, la formación de la orina 
 ### Opciones
 - [ ] A) El corazón, que filtra la sangre mientras bombea hacia los brazos.
   <!-- feedback: Incorrecta, porque el corazón impulsa la sangre pero no forma la orina. -->
-- [x] B) El riñón, que limpia la sangre y produce la orina con los desechos.
+- [x] C) El riñón, que limpia la sangre y produce la orina con los desechos.
   <!-- feedback: Correcta, porque identifica al riñón como el filtro principal del sistema excretor. -->
-- [ ] C) El pulmón, que convierte toda la orina en aire al respirar.
+- [ ] B) El pulmón, que convierte toda la orina en aire al respirar.
   <!-- feedback: Incorrecta, porque el pulmón expulsa dióxido de carbono y vapor, no fabrica orina. -->
 - [ ] D) El estómago, que guarda la orina después de cada comida.
   <!-- feedback: Incorrecta, porque el estómago digiere alimentos y no almacena orina. -->
@@ -48,9 +48,9 @@ Los riñones son dos órganos que reciben mucha sangre y retienen las sustancias
 ### Enunciado
 ¿Qué elimina el cuerpo humano a través del sudor?
 ### Opciones
-- [x] A) Exceso de agua, sales y una parte de desechos, además de ayudar a refrescar el cuerpo.
+- [x] B) Exceso de agua, sales y una parte de desechos, además de ayudar a refrescar el cuerpo.
   <!-- feedback: Correcta, porque describe la doble función del sudor: excretar y regular la temperatura. -->
-- [ ] B) Toda la sangre sucia completa que sale por los poros de la piel.
+- [ ] A) Toda la sangre sucia completa que sale por los poros de la piel.
   <!-- feedback: Incorrecta, porque por el sudor no sale sangre sino agua con sales disueltas. -->
 - [ ] C) Solo aire caliente sin agua ni sales de ningún tipo.
   <!-- feedback: Incorrecta, porque el sudor es líquido y contiene sales que se pierden. -->
@@ -88,11 +88,11 @@ Los riñones regulan el agua del cuerpo: si hay mucha agua, eliminan más y la o
 ### Opciones
 - [ ] A) Porque fabrican la orina cuando los riñones están cansados de filtrar.
   <!-- feedback: Incorrecta, porque los pulmones nunca producen orina. -->
-- [x] B) Porque expulsan el dióxido de carbono, que es un desecho de la respiración de las células.
+- [x] D) Porque expulsan el dióxido de carbono, que es un desecho de la respiración de las células.
   <!-- feedback: Correcta, porque reconoce al dióxido de carbono como desecho eliminado al exhalar. -->
-- [ ] C) Porque guardan el sudor del cuerpo para después repartirlo en la piel.
+- [ ] B) Porque guardan el sudor del cuerpo para después repartirlo en la piel.
   <!-- feedback: Incorrecta, porque el sudor lo producen glándulas de la piel, no los pulmones. -->
-- [ ] D) Porque convierten el aire en alimento para no tener que comer.
+- [ ] C) Porque convierten el aire en alimento para no tener que comer.
   <!-- feedback: Incorrecta, porque los pulmones toman oxígeno pero no fabrican nutrientes. -->
 ### Explicacion Pedagogica
 Cada célula produce dióxido de carbono al liberar energía de los nutrientes. La sangre lo lleva hasta los pulmones y al exhalar sale del cuerpo. Sin esa salida, el desecho se acumularía y haría daño. Por eso respirar es excretar un gas de desecho además de tomar oxígeno.
@@ -107,11 +107,11 @@ Cada célula produce dióxido de carbono al liberar energía de los nutrientes. 
 ### Opciones
 - [ ] A) Porque la vejiga se vuelve más grande y fuerte cuando nunca se desocupa.
   <!-- feedback: Incorrecta, porque retener orina favorece infecciones en vez de fortalecer. -->
-- [x] B) Porque la orina retenida facilita infecciones y la poca agua concentra desechos que forman cálculos.
+- [x] D) Porque la orina retenida facilita infecciones y la poca agua concentra desechos que forman cálculos.
   <!-- feedback: Correcta, porque conecta la retención y la deshidratación con la enfermedad renal. -->
-- [ ] C) Porque tomar agua ensucia los riñones y es mejor no beber nada en el día.
+- [ ] B) Porque tomar agua ensucia los riñones y es mejor no beber nada en el día.
   <!-- feedback: Incorrecta, porque el agua ayuda a los riñones a limpiar la sangre. -->
-- [ ] D) Porque orinar elimina los huesos y por eso conviene retener todo lo posible.
+- [ ] C) Porque orinar elimina los huesos y por eso conviene retener todo lo posible.
   <!-- feedback: Incorrecta, porque la orina lleva desechos disueltos y no huesos. -->
 ### Explicacion Pedagogica
 Ir al baño a tiempo evita que los microbios crezcan en la orina retenida. Tomar agua mantiene los desechos diluidos y ayuda a expulsarlos antes de que formen piedras en el riñón. Estos dos hábitos sencillos, más una buena higiene, protegen la vejiga y los riñones.
@@ -126,9 +126,9 @@ Ir al baño a tiempo evita que los microbios crezcan en la orina retenida. Tomar
 ### Opciones
 - [ ] A) Son idénticos porque el riñón es un embudo de papel que se cambia cada semana.
   <!-- feedback: Incorrecta, porque el riñón es un órgano vivo con filtración selectiva y no un papel desechable. -->
-- [x] B) Ambos separan lo que pasa de lo que queda retenido, pero el riñón además reabsorbe agua y sustancias útiles para el cuerpo.
+- [x] C) Ambos separan lo que pasa de lo que queda retenido, pero el riñón además reabsorbe agua y sustancias útiles para el cuerpo.
   <!-- feedback: Correcta, porque encuentra la semejanza y la diferencia clave con la reabsorción. -->
-- [ ] C) No se parecen en nada porque el agua del filtro nunca tuvo tierra mezclada.
+- [ ] B) No se parecen en nada porque el agua del filtro nunca tuvo tierra mezclada.
   <!-- feedback: Incorrecta, porque en ambos casos hay una mezcla que se separa al filtrar. -->
 - [ ] D) El filtro es mejor porque el riñón deja pasar todos los desechos hacia la sangre.
   <!-- feedback: Incorrecta, porque el riñón retiene los desechos en la orina y devuelve lo útil a la sangre. -->
@@ -145,11 +145,11 @@ La comparación ayuda: el filtro deja pasar el agua y retiene la tierra, como el
 ### Opciones
 - [ ] A) Sudar mucho hidrata el cuerpo y por eso el mareo indica que sobra agua.
   <!-- feedback: Incorrecta, porque sudar pierde agua y el mareo señala deshidratación. -->
-- [x] B) Perdió mucha agua por el sudor sin reponerla, los riñones conservaron líquido y aparecieron señales de deshidratación.
+- [x] D) Perdió mucha agua por el sudor sin reponerla, los riñones conservaron líquido y aparecieron señales de deshidratación.
   <!-- feedback: Correcta, porque encadena pérdida de agua, respuesta renal y síntomas. -->
-- [ ] C) La orina oscura prueba que sus riñones dejaron de funcionar para siempre.
+- [ ] B) La orina oscura prueba que sus riñones dejaron de funcionar para siempre.
   <!-- feedback: Incorrecta, porque la orina concentrada es una respuesta normal ante la falta de agua. -->
-- [ ] D) El dolor de cabeza ocurre porque el sudor enfría demasiado el cuerpo en La Guajira.
+- [ ] C) El dolor de cabeza ocurre porque el sudor enfría demasiado el cuerpo en La Guajira.
   <!-- feedback: Incorrecta, porque el problema es la falta de agua y no el enfriamiento. -->
 ### Explicacion Pedagogica
 El cuerpo pierde agua por el sudor y los riñones responden guardando la que queda, por eso la orina sale escasa y oscura. Si no se repone el agua, bajan el volumen de sangre y aparecen mareo y dolor de cabeza. Tomar agua antes, durante y después del juego evita la deshidratación en climas calientes.
@@ -164,11 +164,11 @@ El cuerpo pierde agua por el sudor y los riñones responden guardando la que que
 ### Opciones
 - [ ] A) Porque el azúcar tapa la boca y ya no se puede tomar agua en ningún momento.
   <!-- feedback: Incorrecta, porque el daño ocurre dentro del filtro renal y no en la boca. -->
-- [x] B) Porque el exceso de azúcar obliga a los filtros del riñón a trabajar de más y con los años se deterioran.
+- [x] D) Porque el exceso de azúcar obliga a los filtros del riñón a trabajar de más y con los años se deterioran.
   <!-- feedback: Correcta, porque explica la sobrecarga crónica del filtro por la glucosa alta. -->
-- [ ] C) Porque la diabetes convierte los riñones en pulmones que ya no filtran nada.
+- [ ] B) Porque la diabetes convierte los riñones en pulmones que ya no filtran nada.
   <!-- feedback: Incorrecta, porque los órganos no se transforman unos en otros. -->
-- [ ] D) Porque el azúcar de la sangre nunca llega a los riñones y por eso se dañan de tristeza.
+- [ ] C) Porque el azúcar de la sangre nunca llega a los riñones y por eso se dañan de tristeza.
   <!-- feedback: Incorrecta, porque toda la sangre, con su azúcar, pasa por los riñones. -->
 ### Explicacion Pedagogica
 Los riñones filtran toda la sangre muchas veces al día. Cuando la glucosa está alta de forma constante, los filtros diminutos se fuerzan, dejan escapar proteínas y se cicatrizan. Controlar el azúcar con dieta, ejercicio y medicación cuando el médico la indica protege también a los riñones.

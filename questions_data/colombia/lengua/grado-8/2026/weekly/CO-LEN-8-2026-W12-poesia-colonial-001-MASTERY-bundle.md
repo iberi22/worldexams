@@ -55,9 +55,9 @@ El Barroco americano adaptó las formas españolas pero incluyó elementos local
 
 ### Opciones
 - [ ] A) La Gran Mariscala <!-- feedback: Este no es un título literario asociado a Sor Juana. -->
-- [x] B) La Décima Musa <!-- feedback: Correcto. Se le llamó así comparándola con las nueve musas de la mitología griega por su genio literario. -->
-- [ ] C) La Monja de Hierro <!-- feedback: Aunque era monja, este apodo no refleja su reconocimiento literario colonial. -->
-- [ ] D) La Dama del Barroco <!-- feedback: Aunque es una figura del Barroco, el término histórico exacto de su fama fue "La Décima Musa". -->
+- [x] D) La Décima Musa <!-- feedback: Correcto. Se le llamó así comparándola con las nueve musas de la mitología griega por su genio literario. -->
+- [ ] B) La Monja de Hierro <!-- feedback: Aunque era monja, este apodo no refleja su reconocimiento literario colonial. -->
+- [ ] C) La Dama del Barroco <!-- feedback: Aunque es una figura del Barroco, el término histórico exacto de su fama fue "La Décima Musa". -->
 
 ### Explicacion Pedagogica
 Sor Juana destacó no solo por su poesía, sino por su defensa del derecho de las mujeres al conocimiento y al estudio en una época de fuertes restricciones sociales.
@@ -75,8 +75,8 @@ Sor Juana destacó no solo por su poesía, sino por su defensa del derecho de la
 ¿Cuál es el tema principal de los versos anteriores de Sor Juana Inés de la Cruz?
 
 ### Opciones
-- [ ] A) La belleza de la naturaleza americana. <!-- feedback: Los versos no mencionan paisajes ni elementos naturales. -->
-- [x] B) La crítica a la doble moral y la contradicción de los hombres hacia las mujeres. <!-- feedback: Correcto. Sor Juana cuestiona la injusticia de las acusaciones masculinas. -->
+- [ ] B) La belleza de la naturaleza americana. <!-- feedback: Los versos no mencionan paisajes ni elementos naturales. -->
+- [x] A) La crítica a la doble moral y la contradicción de los hombres hacia las mujeres. <!-- feedback: Correcto. Sor Juana cuestiona la injusticia de las acusaciones masculinas. -->
 - [ ] C) El amor platónico por un caballero de la corte. <!-- feedback: El tono es de reproche y análisis social, no de declaración amorosa. -->
 - [ ] D) El arrepentimiento por haber entrado al convento. <!-- feedback: El poema trata sobre relaciones sociales y de género, no sobre su vida religiosa interna. -->
 
@@ -118,8 +118,8 @@ El culteranismo pretendía elevar la lengua española a la altura del latín cl�
 
 ### Opciones
 - [ ] A) Ninguno, porque la poesía nunca cuenta la verdad de los hechos. <!-- feedback: La poesía histórica de la época era un registro muy detallado de acontecimientos. -->
-- [ ] B) Sirve para saber qué rimas eran las más populares en el siglo XVI. <!-- feedback: Aunque es un dato formal, su valor principal es el contenido histórico y geográfico. -->
-- [x] C) Ofrece información detallada sobre la geografía, la flora, la fauna y los nombres de los conquistadores de Colombia y Venezuela. <!-- feedback: Correcto. Castellanos actuó como cronista y poeta simultáneamente. -->
+- [ ] C) Sirve para saber qué rimas eran las más populares en el siglo XVI. <!-- feedback: Aunque es un dato formal, su valor principal es el contenido histórico y geográfico. -->
+- [x] B) Ofrece información detallada sobre la geografía, la flora, la fauna y los nombres de los conquistadores de Colombia y Venezuela. <!-- feedback: Correcto. Castellanos actuó como cronista y poeta simultáneamente. -->
 - [ ] D) Permite encontrar mapas ocultos de la mítica ciudad de El Dorado. <!-- feedback: Menciona el mito, pero el poema es un registro testimonial, no un mapa de tesoros. -->
 
 ### Explicacion Pedagogica
@@ -159,8 +159,8 @@ El Barroco americano se caracteriza por esta "saturación de belleza" donde la n
 ¿Cuál es la diferencia principal entre la poesía de Sor Juana Inés de la Cruz y la de la Madre Castillo?
 
 ### Opciones
-- [ ] A) Sor Juana escribía en francés y la Madre Castillo en español. <!-- feedback: Ambas escribieron en español. -->
-- [x] B) Sor Juana exploró temas intelectuales y sociales, mientras que la Madre Castillo se centró en la experiencia espiritual y el diálogo con Dios. <!-- feedback: Correcto. La Madre Castillo es la gran mística de las letras colombianas coloniales. -->
+- [ ] B) Sor Juana escribía en francés y la Madre Castillo en español. <!-- feedback: Ambas escribieron en español. -->
+- [x] A) Sor Juana exploró temas intelectuales y sociales, mientras que la Madre Castillo se centró en la experiencia espiritual y el diálogo con Dios. <!-- feedback: Correcto. La Madre Castillo es la gran mística de las letras colombianas coloniales. -->
 - [ ] C) Sor Juana era analfabeta y dictaba sus poemas a otras monjas. <!-- feedback: Sor Juana era una de las personas más cultas y con la biblioteca más grande de América. -->
 - [ ] D) No hay diferencias, ambas escribieron exactamente los mismos poemas. <!-- feedback: Cada una tiene un estilo y una temática propios dentro del contexto religioso. -->
 
@@ -181,9 +181,9 @@ Mientras Sor Juana representa el Barroco de conceptos y debates, la Madre Castil
 
 ### Opciones
 - [ ] A) Porque los poetas no sabían gramática y se equivocaban al escribir. <!-- feedback: Eran expertos en gramática y retórica; el cambio era intencional. -->
-- [x] B) Porque refleja un mundo complejo, contradictorio y en constante tensión entre lo terrenal y lo divino. <!-- feedback: Correcto. La forma difícil del poema imita la dificultad de entender un mundo en crisis. -->
-- [ ] C) Porque querían que los libros fueran más difíciles de leer para que duraran más tiempo. <!-- feedback: La dificultad buscaba el prestigio estético, no la durabilidad física del libro. -->
-- [ ] D) Porque el papel en la Colonia era circular y obligaba a escribir así. <!-- feedback: El papel era rectangular como el actual; la forma es una elección estilística. -->
+- [x] D) Porque refleja un mundo complejo, contradictorio y en constante tensión entre lo terrenal y lo divino. <!-- feedback: Correcto. La forma difícil del poema imita la dificultad de entender un mundo en crisis. -->
+- [ ] B) Porque querían que los libros fueran más difíciles de leer para que duraran más tiempo. <!-- feedback: La dificultad buscaba el prestigio estético, no la durabilidad física del libro. -->
+- [ ] C) Porque el papel en la Colonia era circular y obligaba a escribir así. <!-- feedback: El papel era rectangular como el actual; la forma es una elección estilística. -->
 
 ### Explicacion Pedagogica
 El estilo barroco huye de la línea recta y la claridad absoluta, prefiriendo el laberinto y el enigma como formas de representar la complejidad del alma humana.
@@ -201,9 +201,9 @@ El estilo barroco huye de la línea recta y la claridad absoluta, prefiriendo el
 ¿Qué nos dice el hecho de que gran parte de la poesía colonial fuera escrita para "agasajar" a los poderosos?
 
 ### Opciones
-- [ ] A) Que los poetas eran todos muy amigos de los virreyes. <!-- feedback: Era una relación de subordinación y búsqueda de patrocinio (mecenazgo). -->
-- [ ] B) Que en la Colonia no existía el dinero y se pagaba con poemas. <!-- feedback: El dinero existía, pero el prestigio y los cargos públicos se obtenían mediante favores. -->
-- [x] C) Que la literatura era una herramienta de prestigio social y poder político usada por la élite. <!-- feedback: Correcto. El dominio del lenguaje era un signo de distinción de clase. -->
+- [ ] B) Que los poetas eran todos muy amigos de los virreyes. <!-- feedback: Era una relación de subordinación y búsqueda de patrocinio (mecenazgo). -->
+- [ ] C) Que en la Colonia no existía el dinero y se pagaba con poemas. <!-- feedback: El dinero existía, pero el prestigio y los cargos públicos se obtenían mediante favores. -->
+- [x] A) Que la literatura era una herramienta de prestigio social y poder político usada por la élite. <!-- feedback: Correcto. El dominio del lenguaje era un signo de distinción de clase. -->
 - [ ] D) Que no había otros temas sobre los cuales escribir en América. <!-- feedback: Había muchos temas, pero la poesía cortesana era la más premiada y difundida. -->
 
 ### Explicacion Pedagogica
@@ -222,8 +222,8 @@ La poesía colonial estaba profundamente ligada a las instituciones de poder (Ig
 ¿Cuál es la importancia de que los poetas coloniales incluyeran términos como "cacao", "piragua" o "hamaca" en poemas escritos con rima española tradicional?
 
 ### Opciones
-- [ ] A) Demuestra que no sabían las palabras correctas en español. <!-- feedback: Esos términos no tenían equivalente en español europeo; eran precisiones necesarias. -->
-- [x] B) Marca el inicio de una identidad literaria propia que empieza a diferenciar lo americano de lo europeo. <!-- feedback: Correcto. Es el germen de la americanización de la lengua castellana. -->
+- [ ] B) Demuestra que no sabían las palabras correctas en español. <!-- feedback: Esos términos no tenían equivalente en español europeo; eran precisiones necesarias. -->
+- [x] A) Marca el inicio de una identidad literaria propia que empieza a diferenciar lo americano de lo europeo. <!-- feedback: Correcto. Es el germen de la americanización de la lengua castellana. -->
 - [ ] C) Fue una obligación impuesta por los reyes para vender más productos americanos. <!-- feedback: No fue una imposición comercial, sino una necesidad expresiva del poeta que vivía en América. -->
 - [ ] D) Los poetas querían burlarse de las reglas de la Real Academia Española. <!-- feedback: La RAE no se fundó hasta 1713; en el siglo XVII el idioma estaba en plena expansión creativa. -->
 
@@ -243,9 +243,9 @@ La inclusión de americanismos en la poesía culta es el primer paso hacia una l
 ¿Por qué "Primero Sueño" se considera una obra que rompe con la tradición poética femenina de su tiempo?
 
 ### Opciones
-- [ ] A) Porque está escrito en forma de canción de cuna para niños. <!-- feedback: Es un poema denso, intelectual y profundamente filosófico. -->
-- [ ] B) Porque no menciona a Dios en ninguna de sus estrofas. <!-- feedback: Aunque se centra en el alma y el conocimiento, la visión sigue siendo cristiana barroca. -->
-- [x] C) Porque aborda temas científicos y racionales tradicionalmente prohibidos o ajenos a las mujeres en la Colonia. <!-- feedback: Correcto. Sor Juana reclama el derecho femenino a la ciencia y la alta filosofía. -->
+- [ ] B) Porque está escrito en forma de canción de cuna para niños. <!-- feedback: Es un poema denso, intelectual y profundamente filosófico. -->
+- [ ] C) Porque no menciona a Dios en ninguna de sus estrofas. <!-- feedback: Aunque se centra en el alma y el conocimiento, la visión sigue siendo cristiana barroca. -->
+- [x] A) Porque aborda temas científicos y racionales tradicionalmente prohibidos o ajenos a las mujeres en la Colonia. <!-- feedback: Correcto. Sor Juana reclama el derecho femenino a la ciencia y la alta filosofía. -->
 - [ ] D) Porque fue escrito para ser leído exclusivamente por piratas en alta mar. <!-- feedback: Fue escrito para la élite intelectual del virreinato y de España. -->
 
 ### Explicacion Pedagogica
@@ -265,8 +265,8 @@ Sor Juana utiliza el estilo barroco más sofisticado para demostrar que la mente
 
 ### Opciones
 - [ ] A) Que la vida es muy divertida y todos debemos reír siempre. <!-- feedback: Al contrario, suele ser una visión melancólica sobre la brevedad de la vida. -->
-- [ ] B) Que se deben construir más edificios de teatros en las ciudades americanas. <!-- feedback: Es una metáfora filosófica sobre la existencia, no una propuesta arquitectónica. -->
-- [x] C) Que la existencia es fugaz y las jerarquías sociales son temporales, ya que al final todos "se quitan el disfraz" ante la muerte. <!-- feedback: Correcto. Refleja la idea de que lo importante no es el cargo terrenal, sino la salvación eterna. -->
+- [ ] C) Que se deben construir más edificios de teatros en las ciudades americanas. <!-- feedback: Es una metáfora filosófica sobre la existencia, no una propuesta arquitectónica. -->
+- [x] B) Que la existencia es fugaz y las jerarquías sociales son temporales, ya que al final todos "se quitan el disfraz" ante la muerte. <!-- feedback: Correcto. Refleja la idea de que lo importante no es el cargo terrenal, sino la salvación eterna. -->
 - [ ] D) Que los actores deben ganar más dinero que los sacerdotes. <!-- feedback: La metáfora iguala a todos los hombres bajo el juicio divino, no busca mejoras salariales. -->
 
 ### Explicacion Pedagogica

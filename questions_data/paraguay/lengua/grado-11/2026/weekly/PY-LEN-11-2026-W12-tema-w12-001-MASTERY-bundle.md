@@ -56,8 +56,8 @@ El sujeto gramatical de la oración es 'la lectura de poesía' porque concuerda 
 ¿En cuál de las siguientes opciones se incurre en un vicio de dequeísmo?
 
 ### Opciones
-- [x] A) Pienso de que mañana lloverá en la capital. <!-- feedback: ¡Correcto! El verbo "pensar" es transitivo y exige un complemento directo sin la preposición "de" ("Pienso que..."). -->
-- [ ] B) Estoy seguro de que vendrás a la reunión. <!-- feedback: Incorrecto. El adjetivo "seguro" exige la preposición "de" (dequeísmo correcto o complemento de régimen). -->
+- [x] B) Pienso de que mañana lloverá en la capital. <!-- feedback: ¡Correcto! El verbo "pensar" es transitivo y exige un complemento directo sin la preposición "de" ("Pienso que..."). -->
+- [ ] A) Estoy seguro de que vendrás a la reunión. <!-- feedback: Incorrecto. El adjetivo "seguro" exige la preposición "de" (dequeísmo correcto o complemento de régimen). -->
 - [ ] C) Me alegro de que hayas aprobado el examen. <!-- feedback: Incorrecto. El verbo pronominal "alegrarse" exige la preposición "de". -->
 - [ ] D) Se acordó de que tenía un trámite pendiente. <!-- feedback: Incorrecto. El verbo "acordarse" rige la preposición "de". -->
 
@@ -98,8 +98,8 @@ Cuando el sujeto está coordinado por dos o más sustantivos en singular ('la en
 ¿Qué tipo de oración coordinada se presenta en: 'Estudió intensamente toda la semana, pero no obtuvo la nota esperada'?
 
 ### Opciones
-- [x] A) Coordinada adversativa <!-- feedback: ¡Correcto! La conjunción "pero" contrapone dos proposiciones señalando un contraste. -->
-- [ ] B) Coordinada copulativa <!-- feedback: Incorrecto. Las copulativas unen oraciones mediante "y", "e", "ni". -->
+- [x] B) Coordinada adversativa <!-- feedback: ¡Correcto! La conjunción "pero" contrapone dos proposiciones señalando un contraste. -->
+- [ ] A) Coordinada copulativa <!-- feedback: Incorrecto. Las copulativas unen oraciones mediante "y", "e", "ni". -->
 - [ ] C) Coordinada disyuntiva <!-- feedback: Incorrecto. Las disyuntivas presentan opciones excluyentes mediante "o", "u". -->
 - [ ] D) Coordinada explicativa <!-- feedback: Incorrecto. Las explicativas aclaran mediante "es decir", "esto es". -->
 
@@ -119,8 +119,8 @@ Las oraciones coordinadas adversativas expresan una oposición o restricción en
 ¿Qué valor o función cumple el pronombre 'se' en la oración: 'Se venden productos artesanales en la feria de la ciudad'?
 
 ### Opciones
-- [x] A) Pasiva refleja <!-- feedback: ¡Correcto! Contiene el pronombre "se", verbo en 3.ª persona plural ("venden") y un sujeto paciente en plural ("productos artesanales"). -->
-- [ ] B) Impersonal sintáctica <!-- feedback: Incorrecto. Las impersonales no llevan sujeto paciente en plural ("Se atiende al público"). -->
+- [x] B) Pasiva refleja <!-- feedback: ¡Correcto! Contiene el pronombre "se", verbo en 3.ª persona plural ("venden") y un sujeto paciente en plural ("productos artesanales"). -->
+- [ ] A) Impersonal sintáctica <!-- feedback: Incorrecto. Las impersonales no llevan sujeto paciente en plural ("Se atiende al público"). -->
 - [ ] C) Pronombre reflexivo <!-- feedback: Incorrecto. Los productos no se venden a sí mismos. -->
 - [ ] D) Pronombre recíproco <!-- feedback: Incorrecto. No indica una acción mutua entre dos o más sujetos. -->
 
@@ -224,8 +224,8 @@ La estructura 'deber de + infinitivo' denota probabilidad o hipótesis ('Debe de
 ¿Cómo se tilda correctamente el adverbio derivado 'fácilmente' según la regla de la RAE?
 
 ### Opciones
-- [x] A) fácilmente (conserva la tilde del adjetivo original "fácil") <!-- feedback: ¡Correcto! Los adverbios terminados en -mente mantienen la tilde si el adjetivo base la llevaba. -->
-- [ ] B) facilmente (pierde la tilde por convertirse en palabra sobreesdrújula) <!-- feedback: Incorrecto. No pierde la tilde del adjetivo de origen. -->
+- [x] B) fácilmente (conserva la tilde del adjetivo original "fácil") <!-- feedback: ¡Correcto! Los adverbios terminados en -mente mantienen la tilde si el adjetivo base la llevaba. -->
+- [ ] A) facilmente (pierde la tilde por convertirse en palabra sobreesdrújula) <!-- feedback: Incorrecto. No pierde la tilde del adjetivo de origen. -->
 - [ ] C) fácilmenté (lleva tilde en la última sílaba) <!-- feedback: Incorrecto. La terminación -mente no se tilda. -->
 - [ ] D) fácil-mente (se escribe obligatoriamente con guion) <!-- feedback: Incorrecto. Se escribe en una sola palabra sin guion. -->
 
@@ -245,10 +245,10 @@ Los adverbios formados con la terminación '-mente' conservan la tilde del adjet
 ¿En cuál de las siguientes oraciones la proposición subordinada sustantiva funciona como sujeto del verbo principal?
 
 ### Opciones
-- [x] A) Nos conviene que todos asistan puntualmente a la asamblea. <!-- feedback: ¡Correcto! La subordinada "que todos asistan puntualmente" es el sujeto del verbo "conviene" ("Nos conviene eso / Nos convienen esas cosas"). -->
-- [ ] B) El director anunció que las clases comenzarán mañana. <!-- feedback: Incorrecto. La subordinada es complemento directo del verbo "anunció". -->
-- [ ] C) Tengo la certeza de que alcanzaremos la meta. <!-- feedback: Incorrecto. La subordinada funciona como complemento del sustantivo "certeza". -->
-- [ ] D) La estudiante ingresó sin que nadie la notara. <!-- feedback: Incorrecto. Es una subordinada adverbial de modo. -->
+- [x] D) Nos conviene que todos asistan puntualmente a la asamblea. <!-- feedback: ¡Correcto! La subordinada "que todos asistan puntualmente" es el sujeto del verbo "conviene" ("Nos conviene eso / Nos convienen esas cosas"). -->
+- [ ] A) El director anunció que las clases comenzarán mañana. <!-- feedback: Incorrecto. La subordinada es complemento directo del verbo "anunció". -->
+- [ ] B) Tengo la certeza de que alcanzaremos la meta. <!-- feedback: Incorrecto. La subordinada funciona como complemento del sustantivo "certeza". -->
+- [ ] C) La estudiante ingresó sin que nadie la notara. <!-- feedback: Incorrecto. Es una subordinada adverbial de modo. -->
 
 ### Explicacion Pedagogica
 En 'Nos conviene que todos asistan', al sustituir por el pronombre 'eso' vemos: 'Nos conviene eso' / 'Nos convienen esas cosas'. El cambio de número demuestra que es el sujeto gramatical.
@@ -287,10 +287,10 @@ Cuando el verbo 'haber' indica existencia o presencia de elementos, es impersona
 Compare las oraciones: I. 'Los atletas que estaban cansados abandonaron la carrera'. II. 'Los atletas, que estaban cansados, abandonaron la carrera'. ¿Cuál es la diferencia de significado?
 
 ### Opciones
-- [x] A) En I solo abandonaron los atletas fatigados (especificativa); en II todos los atletas estaban fatigados y todos abandonaron (explicativa). <!-- feedback: ¡Correcto! La especificativa restringe el grupo de atletas; la explicativa describe una condición común a la totalidad del sujeto. -->
-- [ ] B) En I todos los atletas abandonaron; en II solo abandonó una parte. <!-- feedback: Incorrecto. Invirtió las interpretaciones semánticas de las proposiciones. -->
-- [ ] C) No existe ninguna diferencia semántica entre ambas oraciones. <!-- feedback: Incorrecto. El uso de comas cambia radicalmente el alcance especificativo o explicativo. -->
-- [ ] D) La oración II es gramaticalmente incorrecta por llevar comas. <!-- feedback: Incorrecto. Las adjetivas explicativas se escriben entre comas. -->
+- [x] D) En I solo abandonaron los atletas fatigados (especificativa); en II todos los atletas estaban fatigados y todos abandonaron (explicativa). <!-- feedback: ¡Correcto! La especificativa restringe el grupo de atletas; la explicativa describe una condición común a la totalidad del sujeto. -->
+- [ ] A) En I todos los atletas abandonaron; en II solo abandonó una parte. <!-- feedback: Incorrecto. Invirtió las interpretaciones semánticas de las proposiciones. -->
+- [ ] B) No existe ninguna diferencia semántica entre ambas oraciones. <!-- feedback: Incorrecto. El uso de comas cambia radicalmente el alcance especificativo o explicativo. -->
+- [ ] C) La oración II es gramaticalmente incorrecta por llevar comas. <!-- feedback: Incorrecto. Las adjetivas explicativas se escriben entre comas. -->
 
 ### Explicacion Pedagogica
 Las subordinadas adjetivas especificativas (sin comas) delimitan el alcance del sustantivo (solo los cansados). Las explicativas (entre comas) aportan una cualidad aplicable a todo el antecedente.
@@ -329,8 +329,8 @@ El queísmo consiste en suprimir indebidamente la preposición 'de' (u otra) del
 ¿Cuál es la forma correcta de concordancia para el adjetivo que modifica a los sustantivos 'el abrigo y la bufanda'?
 
 ### Opciones
-- [x] A) el abrigo y la bufanda nuevos <!-- feedback: ¡Correcto! Cuando se coordinan sustantivos de diferente género (masculino y femenino), el adjetivo en plural concuerda en masculino ("nuevos"). -->
-- [ ] B) el abrigo y la bufanda nuevas <!-- feedback: Incorrecto. El femenino plural no puede abarcar al sustantivo masculino "abrigo". -->
+- [x] B) el abrigo y la bufanda nuevos <!-- feedback: ¡Correcto! Cuando se coordinan sustantivos de diferente género (masculino y femenino), el adjetivo en plural concuerda en masculino ("nuevos"). -->
+- [ ] A) el abrigo y la bufanda nuevas <!-- feedback: Incorrecto. El femenino plural no puede abarcar al sustantivo masculino "abrigo". -->
 - [ ] C) el abrigo y la bufanda nuevo <!-- feedback: Incorrecto. Al modificar a dos sustantivos debe ir en plural. -->
 - [ ] D) el abrigo y la bufanda nueva <!-- feedback: Incorrecto. Discordancia de número respecto al conjunto coordinado. -->
 
@@ -350,10 +350,10 @@ En la norma sintáctica castellana, la coordinación de sustantivos de género m
 ¿Cuál es la opción que cumple con el régimen preposicional adecuado en el castellano culto?
 
 ### Opciones
-- [x] A) Ingresó a la universidad tras aprobar los exámenes. <!-- feedback: ¡Correcto! El verbo "ingresar" en su sentido de entrar a una institución rige la preposición "a". -->
-- [ ] B) Discrepo con tu punto de vista sobre el tema. <!-- feedback: Incorrecto. Se prefiere "Discrepo de tu punto de vista". -->
-- [ ] C) Se quedó de sentarse en la primera fila. <!-- feedback: Incorrecto. Incurre en un régimen verbal anómalo. -->
-- [ ] D) Acostumbra a levantarse muy temprano. <!-- feedback: Incorrecto. El verbo "acostumbrar" como transitivo directo se usa habitualmente sin la preposición "a" ("Acostumbra levantarse"). -->
+- [x] D) Ingresó a la universidad tras aprobar los exámenes. <!-- feedback: ¡Correcto! El verbo "ingresar" en su sentido de entrar a una institución rige la preposición "a". -->
+- [ ] A) Discrepo con tu punto de vista sobre el tema. <!-- feedback: Incorrecto. Se prefiere "Discrepo de tu punto de vista". -->
+- [ ] B) Se quedó de sentarse en la primera fila. <!-- feedback: Incorrecto. Incurre en un régimen verbal anómalo. -->
+- [ ] C) Acostumbra a levantarse muy temprano. <!-- feedback: Incorrecto. El verbo "acostumbrar" como transitivo directo se usa habitualmente sin la preposición "a" ("Acostumbra levantarse"). -->
 
 ### Explicacion Pedagogica
 El régimen preposicional culto establece que el verbo 'ingresar' cuando indica incorporación o entrada a un organismo se construya con la preposición 'a' ('Ingresó a la facultad').
@@ -371,8 +371,8 @@ El régimen preposicional culto establece que el verbo 'ingresar' cuando indica 
 ¿Qué valor expresivo o modal aporta el verbo en modo subjuntivo en la oración: '¡Ojalá consigan los recursos para el centro cultural!'?
 
 ### Opciones
-- [x] A) Valor desiderativo o optativo (expresión de deseo) <!-- feedback: ¡Correcto! El adverbio "ojalá" introduciendo el presente de subjuntivo denota un deseo vehemente del emisor. -->
-- [ ] B) Valor dubitativo de incertidumbre objetiva <!-- feedback: Incorrecto. No expresa duda sobre un hecho sino el anhelo de que ocurra. -->
+- [x] B) Valor desiderativo o optativo (expresión de deseo) <!-- feedback: ¡Correcto! El adverbio "ojalá" introduciendo el presente de subjuntivo denota un deseo vehemente del emisor. -->
+- [ ] A) Valor dubitativo de incertidumbre objetiva <!-- feedback: Incorrecto. No expresa duda sobre un hecho sino el anhelo de que ocurra. -->
 - [ ] C) Valor imperativo o mandato directo de orden <!-- feedback: Incorrecto. No da una orden directa a un interlocutor presencial. -->
 - [ ] D) Valor condicional hipotético irreal <!-- feedback: Incorrecto. Carece de la prótasis hipotética con "si". -->
 
@@ -392,8 +392,8 @@ El modo subjuntivo junto a partículas como 'ojalá' cumple una función desider
 Dadas las oraciones: 1) 'Como llovió torrencialmente, no pudimos salir'. 2) 'Llovió tanto que las calles se inundaron'. ¿Qué tipo de relación causal o consecutiva guardan respectivamente?
 
 ### Opciones
-- [x] A) 1 es subordinada adverbial causal; 2 es subordinada adverbial consecutiva ponderativa. <!-- feedback: ¡Correcto! En 1 "Como" introduce la causa; en 2 "tanto que" pondera la intensidad para señalar la consecuencia. -->
-- [ ] B) Ambas son oraciones subordinadas causales puras. <!-- feedback: Incorrecto. La oración 2 presenta la estructura consecutiva intensiva "tanto... que". -->
+- [x] B) 1 es subordinada adverbial causal; 2 es subordinada adverbial consecutiva ponderativa. <!-- feedback: ¡Correcto! En 1 "Como" introduce la causa; en 2 "tanto que" pondera la intensidad para señalar la consecuencia. -->
+- [ ] A) Ambas son oraciones subordinadas causales puras. <!-- feedback: Incorrecto. La oración 2 presenta la estructura consecutiva intensiva "tanto... que". -->
 - [ ] C) 1 es subordinada concesiva y 2 es subordinada final. <!-- feedback: Incorrecto. No expresan objeción ni finalidad. -->
 - [ ] D) 1 es consecutiva y 2 es condicional. <!-- feedback: Incorrecto. La clasificación de las partículas y el sentido difieren. -->
 
@@ -434,10 +434,10 @@ La posición pospuesta del adverbio 'alegremente' al final de la oración genera
 ¿Qué diferencia semántica y funcional existe entre el conector contraargumentativo 'sin embargo' y el conector consecutivo 'por lo tanto'?
 
 ### Opciones
-- [x] A) "sin embargo" limita o rectifica lo dicho en el enunciado anterior; "por lo tanto" presenta la deducción o efecto lógico resultante. <!-- feedback: ¡Correcto! Define con precisión la función adverso-rectificativa del primero frente a la relación de causalidad-efecto del segundo. -->
-- [ ] B) "sin embargo" añade información sumativa; "por lo tanto" introduce una duda. <!-- feedback: Incorrecto. "sin embargo" no es copulativo ni "por lo tanto" es dubitativo. -->
-- [ ] C) Ambos conectores son intercambiables en cualquier contexto discursivo. <!-- feedback: Incorrecto. Pertenecen a familias conectoras opuestas. -->
-- [ ] D) "sin embargo" se usa solo en textos poéticos y "por lo tanto" en textos dramáticos. <!-- feedback: Incorrecto. Son marcadores discursivos de uso general en prosa expositiva y argumentativa. -->
+- [x] D) "sin embargo" limita o rectifica lo dicho en el enunciado anterior; "por lo tanto" presenta la deducción o efecto lógico resultante. <!-- feedback: ¡Correcto! Define con precisión la función adverso-rectificativa del primero frente a la relación de causalidad-efecto del segundo. -->
+- [ ] A) "sin embargo" añade información sumativa; "por lo tanto" introduce una duda. <!-- feedback: Incorrecto. "sin embargo" no es copulativo ni "por lo tanto" es dubitativo. -->
+- [ ] B) Ambos conectores son intercambiables en cualquier contexto discursivo. <!-- feedback: Incorrecto. Pertenecen a familias conectoras opuestas. -->
+- [ ] C) "sin embargo" se usa solo en textos poéticos y "por lo tanto" en textos dramáticos. <!-- feedback: Incorrecto. Son marcadores discursivos de uso general en prosa expositiva y argumentativa. -->
 
 ### Explicacion Pedagogica
 'Sin embargo' es un conector contraargumentativo que introduce una objeción o contraste con respecto a la premisa previa. 'Por lo tanto' es un marcador consecutivo que presenta la conclusión deducida.

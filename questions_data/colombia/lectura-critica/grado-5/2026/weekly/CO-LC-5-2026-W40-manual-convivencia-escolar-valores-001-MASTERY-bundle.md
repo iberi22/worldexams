@@ -57,9 +57,9 @@ La comprensión literal de un texto normativo exige identificar los deberes tal 
 ¿Cuál es el propósito principal del Manual de Convivencia según su presentación?
 
 ### Opciones
-- [x] A) Formar ciudadanos responsables que resuelvan sus diferencias mediante el diálogo y el respeto.
+- [x] B) Formar ciudadanos responsables que resuelvan sus diferencias mediante el diálogo y el respeto.
   <!-- feedback: La presentación declara que el propósito es formar, no castigar, promoviendo el diálogo y el respeto por los derechos. -->
-- [ ] B) Establecer un listado de castigos severos para sancionar cualquier falta de inmediato.
+- [ ] A) Establecer un listado de castigos severos para sancionar cualquier falta de inmediato.
   <!-- feedback: El texto aclara expresamente que su propósito no es castigar, sino formar. -->
 - [ ] C) Reemplazar las clases de todas las asignaturas por jornadas de disciplina.
   <!-- feedback: El manual complementa la formación académica, no reemplaza las clases. -->
@@ -80,9 +80,9 @@ Comprender el propósito global de un texto institucional permite interpretar co
 Aplicando el manual, ¿cuál es la conducta correcta que deben seguir los estudiantes en este conflicto?
 
 ### Opciones
-- [x] A) Detenerse, expresar lo que sienten sin insultos y buscar un acuerdo justo o acudir al mediador.
+- [x] B) Detenerse, expresar lo que sienten sin insultos y buscar un acuerdo justo o acudir al mediador.
   <!-- feedback: Este es el procedimiento de tres pasos que el manual prescribe para resolver los conflictos de forma pacífica. -->
-- [ ] B) Resolver la disputa con empujones para demostrar quién es más fuerte con el balón.
+- [ ] A) Resolver la disputa con empujones para demostrar quién es más fuerte con el balón.
   <!-- feedback: La agresión física contradice el principio de resolución pacífica del manual. -->
 - [ ] C) Insultarse mutuamente hasta que uno de los dos abandone el juego llorando.
   <!-- feedback: Los insultos violan la regla de expresar los sentimientos sin agredir al compañero. -->
@@ -172,11 +172,11 @@ Analizar la tipificación de las faltas enseña a diferenciar la gravedad de las
 ¿Qué relación existe entre el artículo 14 del manual y la situación descrita en la nota del estudiante?
 
 ### Opciones
-- [x] A) La situación vulnera el derecho al debido proceso porque el estudiante fue sancionado sin ser escuchado.
+- [x] C) La situación vulnera el derecho al debido proceso porque el estudiante fue sancionado sin ser escuchado.
   <!-- feedback: El artículo garantiza ser escuchado antes de la sanción; castigar sin escuchar contradice esa norma. -->
-- [ ] B) La nota confirma que el manual se cumplió correctamente en todos sus pasos.
+- [ ] A) La nota confirma que el manual se cumplió correctamente en todos sus pasos.
   <!-- feedback: Si al estudiante no lo dejaron explicar, el procedimiento del artículo no se cumplió. -->
-- [ ] C) El artículo y la nota hablan de temas completamente distintos sin relación entre sí.
+- [ ] B) El artículo y la nota hablan de temas completamente distintos sin relación entre sí.
   <!-- feedback: Ambos tratan del mismo derecho: ser escuchado antes de recibir una sanción. -->
 - [ ] D) La nota demuestra que los estudiantes no tienen ningún derecho dentro del colegio.
   <!-- feedback: El artículo 14 reconoce expresamente el derecho a ser escuchado y al debido proceso. -->
@@ -195,9 +195,9 @@ Contrastar la norma escrita con un caso real permite analizar si los derechos co
 ¿Qué argumento crítico refuta mejor la postura del estudiante sobre el valor del Manual de Convivencia?
 
 ### Opciones
-- [x] A) El diálogo y la mediación reparan las relaciones y enseñan a convivir, mientras la pelea genera más violencia y sanciones.
+- [x] B) El diálogo y la mediación reparan las relaciones y enseñan a convivir, mientras la pelea genera más violencia y sanciones.
   <!-- feedback: La resolución pacífica preserva los vínculos y forma ciudadanía; la agresión multiplica el daño y vulnera derechos. -->
-- [ ] B) El estudiante tiene razón porque dialogar quita demasiado tiempo y pelear es más divertido.
+- [ ] A) El estudiante tiene razón porque dialogar quita demasiado tiempo y pelear es más divertido.
   <!-- feedback: La rapidez de la pelea no la hace justa; el diálogo construye acuerdos duraderos y respetuosos. -->
 - [ ] C) Los manuales solo sirven para adornar las carteleras y nunca se aplican en la vida real.
   <!-- feedback: Desconoce que el manual es un pacto colectivo con procedimientos concretos como la mediación escolar. -->

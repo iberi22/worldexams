@@ -34,9 +34,9 @@ Historia, significado cívico y diversidad cultural en los símbolos patrios y e
 ¿Cuál es la proporción del espacio total que ocupa la franja de color amarillo en el pabellón nacional de Colombia?
 
 ### Opciones
-- [x] A) Ocupa la mitad superior de la bandera (50% de la superficie total).
+- [x] B) Ocupa la mitad superior de la bandera (50% de la superficie total).
   <!-- feedback: La franja amarilla ocupa la mitad superior de la bandera, mientras el azul y el rojo ocupan una cuarta parte cada uno. -->
-- [ ] B) Ocupa una tercera parte exacta igual que las franjas azul y roja.
+- [ ] A) Ocupa una tercera parte exacta igual que las franjas azul y roja.
   <!-- feedback: Las tres franjas no son iguales; la amarilla equivale al doble de la anchura de las otras dos franjas individuales. -->
 - [ ] C) Ocupa únicamente una delgada línea en el borde inferior.
   <!-- feedback: El amarillo se ubica en la parte superior y es la franja más ancha de la bandera. -->
@@ -57,13 +57,13 @@ Identificación de las características geométricas y colores oficiales del pab
 ¿Qué representa el color azul en la franja central del tricolor patrio?
 
 ### Opciones
-- [x] A) Los dos océanos (Atlántico y Pacífico) que bañan las costas de Colombia y la riqueza de sus ríos.
+- [x] D) Los dos océanos (Atlántico y Pacífico) que bañan las costas de Colombia y la riqueza de sus ríos.
   <!-- feedback: El azul simboliza los mares, el cielo patrio y las corrientes de agua dulce del país. -->
-- [ ] B) El oro y la riqueza mineral extraída en las minas coloniales.
+- [ ] A) El oro y la riqueza mineral extraída en las minas coloniales.
   <!-- feedback: El oro y la fertilidad del suelo están representados por la franja amarilla. -->
-- [ ] C) La sangre derramada por los patriotas durante la Guerra de Independencia.
+- [ ] B) La sangre derramada por los patriotas durante la Guerra de Independencia.
   <!-- feedback: La sangre de los héroes de la independencia está representada por la franja roja. -->
-- [ ] D) Las selvas de la Amazonía y los páramos andinos.
+- [ ] C) Las selvas de la Amazonía y los páramos andinos.
   <!-- feedback: La vegetación no forma parte de la interpretación cromática clásica del tricolor nacional. -->
 
 ### Explicacion Pedagogica
@@ -80,13 +80,13 @@ Comprensión del significado histórico y geográfico asignado a la simbología 
 ¿Cuál de los siguientes versos forma parte del coro oficial del Himno Nacional de Colombia?
 
 ### Opciones
-- [x] A) "¡Oh gloria inmarcesible! / ¡Oh júbilo inmortal! / En surcos de dolores / el bien germina ya".
+- [x] D) "¡Oh gloria inmarcesible! / ¡Oh júbilo inmortal! / En surcos de dolores / el bien germina ya".
   <!-- feedback: Corresponde a la letra emblemática del coro redactado por el expresidente Rafael Núñez. -->
-- [ ] B) "Libertad y orden para todos los pueblos de la América del Sur".
+- [ ] A) "Libertad y orden para todos los pueblos de la América del Sur".
   <!-- feedback: "Libertad y Orden" es el lema del Escudo Nacional, no los versos del coro del Himno. -->
-- [ ] C) "Firmes la patria nos llama a luchar con valor en la frontera".
+- [ ] B) "Firmes la patria nos llama a luchar con valor en la frontera".
   <!-- feedback: Corresponde a una frase apócrifa ajena a la letra oficial del Himno de Colombia. -->
-- [ ] D) "Canten las aves alegres al brillo del Sol de los Andes".
+- [ ] C) "Canten las aves alegres al brillo del Sol de los Andes".
   <!-- feedback: No pertenece a la composición oficial del Himno Nacional patrio. -->
 
 ### Explicacion Pedagogica
@@ -103,9 +103,9 @@ Reconocimiento de la letra oficial y valor patrimonial del Himno Nacional como s
 ¿Qué leyenda oficial está inscrita en la cinta dorada que sostiene el cóndor en el Escudo Nacional?
 
 ### Opciones
-- [x] A) Libertad y Orden.
+- [x] B) Libertad y Orden.
   <!-- feedback: El lema nacional impreso en la cinta sostenida por el cóndor es "Libertad y Orden". -->
-- [ ] B) Unión y Victoria.
+- [ ] A) Unión y Victoria.
   <!-- feedback: No es el divisa nacional impreso en el Escudo de Colombia. -->
 - [ ] C) Paz y Trabajo.
   <!-- feedback: Aunque son valores deseables, el lema oficial de la divisa es "Libertad y Orden". -->
@@ -126,11 +126,11 @@ Identificación de los elementos heráldicos y divisas textuales del Escudo de l
 ¿Por qué la Palma de Cera fue decretada como el Árbol Nacional de Colombia?
 
 ### Opciones
-- [x] A) Por ser una especie autóctona majestuosa que crece a gran altura en los Andes y requiere protección frente a la extinción.
+- [x] C) Por ser una especie autóctona majestuosa que crece a gran altura en los Andes y requiere protección frente a la extinción.
   <!-- feedback: Es una palmera nativa exclusiva de los bosques de niebla colombianos declarada símbolo por Ley 61 de 1985. -->
-- [ ] B) Porque es el único árbol del país que produce manzanas rojas en climas cálidos.
+- [ ] A) Porque es el único árbol del país que produce manzanas rojas en climas cálidos.
   <!-- feedback: La Palma de Cera es una conífera/palmera autóctona de cera, no un frutal de manzano. -->
-- [ ] C) Porque fue importada desde Asia durante la construcción del Ferrocarril del Pacífico.
+- [ ] B) Porque fue importada desde Asia durante la construcción del Ferrocarril del Pacífico.
   <!-- feedback: La Palma de Cera es una especie nativa endémica de la flora colombiana, no importada. -->
 - [ ] D) Porque de su madera se fabrican exclusivamente los billetes de pesos colombianos.
   <!-- feedback: Los billetes se imprimen en papel de fibra de algodón especial, no en madera de palma. -->
@@ -172,11 +172,11 @@ Análisis de la articulación entre el civismo nacional y el respeto por la plur
 ¿Qué función social desempeñan los símbolos patrios en momentos de encuentro colectivo como el deporte o la cultura?
 
 ### Opciones
-- [x] A) Fortalecen el sentimiento de pertenencia, la cohesión social y la unidad nacional por encima de las diferencias.
+- [x] C) Fortalecen el sentimiento de pertenencia, la cohesión social y la unidad nacional por encima de las diferencias.
   <!-- feedback: Los símbolos patrios actúan como referentes de identidad compartida que unen a la población civil. -->
-- [ ] B) Obligan a la población a pensar exactamente igual en todas las decisiones políticas.
+- [ ] A) Obligan a la población a pensar exactamente igual en todas las decisiones políticas.
   <!-- feedback: Los símbolos unen afectivamente pero la democracia promueve la diversidad de pensamiento. -->
-- [ ] C) Generan división y enfrentamientos violentos entre los departamentos del país.
+- [ ] B) Generan división y enfrentamientos violentos entre los departamentos del país.
   <!-- feedback: El propósito de los símbolos colectivos es la unión y el orgullo compartido, no la discordia. -->
 - [ ] D) Reemplazan la necesidad de cumplir la Constitución y las leyes de la República.
   <!-- feedback: Los símbolos acompañan la identidad; la convivencia ordenada requiere acatar el marco legal. -->
@@ -195,11 +195,11 @@ Análisis sociológico del rol de los símbolos nacionales en la construcción d
 ¿Cómo evalúa la formación ciudadana la afirmación del ciudadano sobre el patriotismo ético?
 
 ### Opciones
-- [x] A) Es correcta, porque el respeto a los símbolos debe complementarse con una conducta ética, honesta y comprometida con el bien común.
+- [x] C) Es correcta, porque el respeto a los símbolos debe complementarse con una conducta ética, honesta y comprometida con el bien común.
   <!-- feedback: La cultura ciudadana trasciende el formalismo de los símbolos e implica la vivencia diaria de valores democráticos y cumplimiento de deberes. -->
-- [ ] B) Es incorrecta, porque lo único necesario para ser buen ciudadano es memorizar todas las estrofas del himno.
+- [ ] A) Es incorrecta, porque lo único necesario para ser buen ciudadano es memorizar todas las estrofas del himno.
   <!-- feedback: La memorización formal sin compromiso ético y honestidad es insuficiente para la ciudadanía activa. -->
-- [ ] C) Es incorrecta, porque izar la bandera exime a las personas de pagar impuestos y cumplir leyes.
+- [ ] B) Es incorrecta, porque izar la bandera exime a las personas de pagar impuestos y cumplir leyes.
   <!-- feedback: Las obligaciones legales y tributarias aplican a todos los ciudadanos por mandato constitucional. -->
 - [ ] D) Es correcta únicamente para las personas que trabajan en la Policía Nacional o las Fuerzas Militares.
   <!-- feedback: La ética ciudadana y el bien común son compromisos de todos los habitantes de la nación. -->

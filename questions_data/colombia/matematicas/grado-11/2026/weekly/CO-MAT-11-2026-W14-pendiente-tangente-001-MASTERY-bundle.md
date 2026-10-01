@@ -58,9 +58,9 @@ La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 1$, evaluan
 Para la curva $f(x) = x^2 + 2x$, halle la pendiente $m$ de la recta tangente en el punto donde $x = 1$.
 
 ### Opciones
-- [x] A) $m = 4$
+- [x] B) $m = 4$
   <!-- feedback: Correcto: la derivada evaluada en x=1 otorga la pendiente exacta. -->
-- [ ] B) $m = 2$
+- [ ] A) $m = 2$
   <!-- feedback: Incorrecto: solo se tomó el coeficiente del término lineal. -->
 - [ ] C) $m = 7$
   <!-- feedback: Incorrecto: se sumaron valores adicionales erróneos. -->
@@ -104,9 +104,9 @@ La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 3$, evaluan
 Para la curva $f(x) = x^2 + 4x$, halle la pendiente $m$ de la recta tangente en el punto donde $x = 1$.
 
 ### Opciones
-- [x] A) $m = 6$
+- [x] B) $m = 6$
   <!-- feedback: Correcto: la derivada evaluada en x=1 otorga la pendiente exacta. -->
-- [ ] B) $m = 4$
+- [ ] A) $m = 4$
   <!-- feedback: Incorrecto: solo se tomó el coeficiente del término lineal. -->
 - [ ] C) $m = 9$
   <!-- feedback: Incorrecto: se sumaron valores adicionales erróneos. -->
@@ -127,11 +127,11 @@ La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 4$, evaluan
 Para la curva $f(x) = x^2 + 5x$, halle la pendiente $m$ de la recta tangente en el punto donde $x = 1$.
 
 ### Opciones
-- [x] A) $m = 7$
+- [x] C) $m = 7$
   <!-- feedback: Correcto: la derivada evaluada en x=1 otorga la pendiente exacta. -->
-- [ ] B) $m = 5$
+- [ ] A) $m = 5$
   <!-- feedback: Incorrecto: solo se tomó el coeficiente del término lineal. -->
-- [ ] C) $m = 10$
+- [ ] B) $m = 10$
   <!-- feedback: Incorrecto: se sumaron valores adicionales erróneos. -->
 - [ ] D) $m = 16$
   <!-- feedback: Incorrecto: se confundió el valor de f(1) con la derivada f'(1). -->
@@ -150,9 +150,9 @@ La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 5$, evaluan
 Para la curva $f(x) = x^2 + 6x$, halle la pendiente $m$ de la recta tangente en el punto donde $x = 1$.
 
 ### Opciones
-- [x] A) $m = 8$
+- [x] B) $m = 8$
   <!-- feedback: Correcto: la derivada evaluada en x=1 otorga la pendiente exacta. -->
-- [ ] B) $m = 6$
+- [ ] A) $m = 6$
   <!-- feedback: Incorrecto: solo se tomó el coeficiente del término lineal. -->
 - [ ] C) $m = 11$
   <!-- feedback: Incorrecto: se sumaron valores adicionales erróneos. -->
@@ -173,9 +173,9 @@ La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 6$, evaluan
 Para la curva $f(x) = x^2 + 7x$, halle la pendiente $m$ de la recta tangente en el punto donde $x = 1$.
 
 ### Opciones
-- [x] A) $m = 9$
+- [x] B) $m = 9$
   <!-- feedback: Correcto: la derivada evaluada en x=1 otorga la pendiente exacta. -->
-- [ ] B) $m = 7$
+- [ ] A) $m = 7$
   <!-- feedback: Incorrecto: solo se tomó el coeficiente del término lineal. -->
 - [ ] C) $m = 12$
   <!-- feedback: Incorrecto: se sumaron valores adicionales erróneos. -->
@@ -196,11 +196,11 @@ La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 7$, evaluan
 Para la curva $f(x) = x^2 + 8x$, halle la pendiente $m$ de la recta tangente en el punto donde $x = 1$.
 
 ### Opciones
-- [x] A) $m = 10$
+- [x] C) $m = 10$
   <!-- feedback: Correcto: la derivada evaluada en x=1 otorga la pendiente exacta. -->
-- [ ] B) $m = 8$
+- [ ] A) $m = 8$
   <!-- feedback: Incorrecto: solo se tomó el coeficiente del término lineal. -->
-- [ ] C) $m = 13$
+- [ ] B) $m = 13$
   <!-- feedback: Incorrecto: se sumaron valores adicionales erróneos. -->
 - [ ] D) $m = 19$
   <!-- feedback: Incorrecto: se confundió el valor de f(1) con la derivada f'(1). -->
@@ -219,13 +219,13 @@ La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 8$, evaluan
 Para la curva $f(x) = x^2 + 9x$, halle la pendiente $m$ de la recta tangente en el punto donde $x = 1$.
 
 ### Opciones
-- [x] A) $m = 11$
+- [x] D) $m = 11$
   <!-- feedback: Correcto: la derivada evaluada en x=1 otorga la pendiente exacta. -->
-- [ ] B) $m = 9$
+- [ ] A) $m = 9$
   <!-- feedback: Incorrecto: solo se tomó el coeficiente del término lineal. -->
-- [ ] C) $m = 14$
+- [ ] B) $m = 14$
   <!-- feedback: Incorrecto: se sumaron valores adicionales erróneos. -->
-- [ ] D) $m = 20$
+- [ ] C) $m = 20$
   <!-- feedback: Incorrecto: se confundió el valor de f(1) con la derivada f'(1). -->
 
 ### Explicacion Pedagogica
@@ -265,9 +265,9 @@ La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 10$, evalua
 Para la curva $f(x) = x^2 + 11x$, halle la pendiente $m$ de la recta tangente en el punto donde $x = 1$.
 
 ### Opciones
-- [x] A) $m = 13$
+- [x] B) $m = 13$
   <!-- feedback: Correcto: la derivada evaluada en x=1 otorga la pendiente exacta. -->
-- [ ] B) $m = 11$
+- [ ] A) $m = 11$
   <!-- feedback: Incorrecto: solo se tomó el coeficiente del término lineal. -->
 - [ ] C) $m = 16$
   <!-- feedback: Incorrecto: se sumaron valores adicionales erróneos. -->
@@ -288,11 +288,11 @@ La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 11$, evalua
 Para la curva $f(x) = x^2 + 12x$, halle la pendiente $m$ de la recta tangente en el punto donde $x = 1$.
 
 ### Opciones
-- [x] A) $m = 14$
+- [x] C) $m = 14$
   <!-- feedback: Correcto: la derivada evaluada en x=1 otorga la pendiente exacta. -->
-- [ ] B) $m = 12$
+- [ ] A) $m = 12$
   <!-- feedback: Incorrecto: solo se tomó el coeficiente del término lineal. -->
-- [ ] C) $m = 17$
+- [ ] B) $m = 17$
   <!-- feedback: Incorrecto: se sumaron valores adicionales erróneos. -->
 - [ ] D) $m = 23$
   <!-- feedback: Incorrecto: se confundió el valor de f(1) con la derivada f'(1). -->
@@ -311,13 +311,13 @@ La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 12$, evalua
 Para la curva $f(x) = x^2 + 13x$, halle la pendiente $m$ de la recta tangente en el punto donde $x = 1$.
 
 ### Opciones
-- [x] A) $m = 15$
+- [x] D) $m = 15$
   <!-- feedback: Correcto: la derivada evaluada en x=1 otorga la pendiente exacta. -->
-- [ ] B) $m = 13$
+- [ ] A) $m = 13$
   <!-- feedback: Incorrecto: solo se tomó el coeficiente del término lineal. -->
-- [ ] C) $m = 18$
+- [ ] B) $m = 18$
   <!-- feedback: Incorrecto: se sumaron valores adicionales erróneos. -->
-- [ ] D) $m = 24$
+- [ ] C) $m = 24$
   <!-- feedback: Incorrecto: se confundió el valor de f(1) con la derivada f'(1). -->
 
 ### Explicacion Pedagogica
@@ -334,11 +334,11 @@ La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 13$, evalua
 Para la curva $f(x) = x^2 + 14x$, halle la pendiente $m$ de la recta tangente en el punto donde $x = 1$.
 
 ### Opciones
-- [x] A) $m = 16$
+- [x] C) $m = 16$
   <!-- feedback: Correcto: la derivada evaluada en x=1 otorga la pendiente exacta. -->
-- [ ] B) $m = 14$
+- [ ] A) $m = 14$
   <!-- feedback: Incorrecto: solo se tomó el coeficiente del término lineal. -->
-- [ ] C) $m = 19$
+- [ ] B) $m = 19$
   <!-- feedback: Incorrecto: se sumaron valores adicionales erróneos. -->
 - [ ] D) $m = 25$
   <!-- feedback: Incorrecto: se confundió el valor de f(1) con la derivada f'(1). -->
@@ -380,11 +380,11 @@ La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 15$, evalua
 Para la curva $f(x) = x^2 + 16x$, halle la pendiente $m$ de la recta tangente en el punto donde $x = 1$.
 
 ### Opciones
-- [x] A) $m = 18$
+- [x] C) $m = 18$
   <!-- feedback: Correcto: la derivada evaluada en x=1 otorga la pendiente exacta. -->
-- [ ] B) $m = 16$
+- [ ] A) $m = 16$
   <!-- feedback: Incorrecto: solo se tomó el coeficiente del término lineal. -->
-- [ ] C) $m = 21$
+- [ ] B) $m = 21$
   <!-- feedback: Incorrecto: se sumaron valores adicionales erróneos. -->
 - [ ] D) $m = 27$
   <!-- feedback: Incorrecto: se confundió el valor de f(1) con la derivada f'(1). -->
@@ -403,11 +403,11 @@ La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 16$, evalua
 Para la curva $f(x) = x^2 + 17x$, halle la pendiente $m$ de la recta tangente en el punto donde $x = 1$.
 
 ### Opciones
-- [x] A) $m = 19$
+- [x] C) $m = 19$
   <!-- feedback: Correcto: la derivada evaluada en x=1 otorga la pendiente exacta. -->
-- [ ] B) $m = 17$
+- [ ] A) $m = 17$
   <!-- feedback: Incorrecto: solo se tomó el coeficiente del término lineal. -->
-- [ ] C) $m = 22$
+- [ ] B) $m = 22$
   <!-- feedback: Incorrecto: se sumaron valores adicionales erróneos. -->
 - [ ] D) $m = 28$
   <!-- feedback: Incorrecto: se confundió el valor de f(1) con la derivada f'(1). -->
@@ -426,9 +426,9 @@ La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 17$, evalua
 Para la curva $f(x) = x^2 + 18x$, halle la pendiente $m$ de la recta tangente en el punto donde $x = 1$.
 
 ### Opciones
-- [x] A) $m = 20$
+- [x] B) $m = 20$
   <!-- feedback: Correcto: la derivada evaluada en x=1 otorga la pendiente exacta. -->
-- [ ] B) $m = 18$
+- [ ] A) $m = 18$
   <!-- feedback: Incorrecto: solo se tomó el coeficiente del término lineal. -->
 - [ ] C) $m = 23$
   <!-- feedback: Incorrecto: se sumaron valores adicionales erróneos. -->
@@ -472,9 +472,9 @@ La pendiente de la recta tangente es $m = f'(1)$. Como $f'(x) = 2x + 19$, evalua
 Para la curva $f(x) = x^2 + 20x$, halle la pendiente $m$ de la recta tangente en el punto donde $x = 1$.
 
 ### Opciones
-- [x] A) $m = 22$
+- [x] B) $m = 22$
   <!-- feedback: Correcto: la derivada evaluada en x=1 otorga la pendiente exacta. -->
-- [ ] B) $m = 20$
+- [ ] A) $m = 20$
   <!-- feedback: Incorrecto: solo se tomó el coeficiente del término lineal. -->
 - [ ] C) $m = 25$
   <!-- feedback: Incorrecto: se sumaron valores adicionales erróneos. -->

@@ -29,8 +29,8 @@ bundle_index: 1
 Por definición, si $\log_a b = c$, ¿cuál de las siguientes igualdades exponenciales es equivalente?
 
 ### Opciones
-- [x] A) $a^c = b$ <!-- feedback: Correcto. La base del logaritmo elevada al resultado es igual al argumento. -->
-- [ ] B) $b^c = a$ <!-- feedback: Error al intercambiar la base y el argumento. -->
+- [x] B) $a^c = b$ <!-- feedback: Correcto. La base del logaritmo elevada al resultado es igual al argumento. -->
+- [ ] A) $b^c = a$ <!-- feedback: Error al intercambiar la base y el argumento. -->
 - [ ] C) $a^b = c$ <!-- feedback: Error al usar el argumento como exponente. -->
 - [ ] D) $c^a = b$ <!-- feedback: Error al usar el resultado como base. -->
 
@@ -71,8 +71,8 @@ Por la definición exponencial del logaritmo, la base debe ser positiva y no pue
 ¿Cuál es el valor de $\log_2 32$?
 
 ### Opciones
-- [ ] A) 4 <!-- feedback: 2 elevado a 4 es 16. -->
-- [x] B) 5 <!-- feedback: Correcto. $2^5 = 32$, por lo tanto $\log_2 32 = 5$. -->
+- [ ] B) 4 <!-- feedback: 2 elevado a 4 es 16. -->
+- [x] A) 5 <!-- feedback: Correcto. $2^5 = 32$, por lo tanto $\log_2 32 = 5$. -->
 - [ ] C) 16 <!-- feedback: Error al dividir 32 entre 2. -->
 - [ ] D) 6 <!-- feedback: 2 elevado a 6 es 64. -->
 
@@ -93,9 +93,9 @@ Buscamos el exponente $x$ tal que $2^x = 32$. Dado que $32 = 2^5$, el valor del 
 
 ### Opciones
 - [ ] A) Base 10 <!-- feedback: El logaritmo en base 10 se escribe simplemente como log x. -->
-- [x] B) Base $e$ <!-- feedback: Correcto. El logaritmo neperiano tiene como base el número irracional e (aprox. 2,718). -->
-- [ ] C) Base 2 <!-- feedback: Es el logaritmo binario, usado en informática. -->
-- [ ] D) Base $\pi$ <!-- feedback: No es una base de uso estándar para logaritmos neperianos. -->
+- [x] D) Base $e$ <!-- feedback: Correcto. El logaritmo neperiano tiene como base el número irracional e (aprox. 2,718). -->
+- [ ] B) Base 2 <!-- feedback: Es el logaritmo binario, usado en informática. -->
+- [ ] C) Base $\pi$ <!-- feedback: No es una base de uso estándar para logaritmos neperianos. -->
 
 ### Explicacion Pedagogica
 Existen dos bases logarítmicas fundamentales: la base 10 (decimal) y la base $e$ (natural o neperiana). El número $e$ surge de procesos de crecimiento continuo y es la base de los logaritmos naturales, denotados como $\ln$.
@@ -135,9 +135,9 @@ Simplifica la expresión: $3 \log x + \log y$.
 
 ### Opciones
 - [ ] A) $\log (3x + y)$ <!-- feedback: Error al tratar el logaritmo como una operación lineal sobre los términos. -->
-- [x] B) $\log (x^3 y)$ <!-- feedback: Correcto. $3 \log x = \log x^3$; luego $\log x^3 + \log y = \log (x^3 y)$. -->
-- [ ] C) $\log (x^3 + y)$ <!-- feedback: La suma de logaritmos se convierte en producto de argumentos, no suma. -->
-- [ ] D) $3 \log (xy)$ <!-- feedback: El coeficiente 3 solo afecta al término de la x. -->
+- [x] D) $\log (x^3 y)$ <!-- feedback: Correcto. $3 \log x = \log x^3$; luego $\log x^3 + \log y = \log (x^3 y)$. -->
+- [ ] B) $\log (x^3 + y)$ <!-- feedback: La suma de logaritmos se convierte en producto de argumentos, no suma. -->
+- [ ] C) $3 \log (xy)$ <!-- feedback: El coeficiente 3 solo afecta al término de la x. -->
 
 ### Explicacion Pedagogica
 Aplicamos dos propiedades: 1. El logaritmo de una potencia ($n \log A = \log A^n$) para el primer término. 2. El logaritmo de un producto ($\log A + \log B = \log(A \cdot B)$) para unir los dos términos.
@@ -156,8 +156,8 @@ Aplicamos dos propiedades: 1. El logaritmo de una potencia ($n \log A = \log A^n
 
 ### Opciones
 - [ ] A) $\sqrt{\log x}$ <!-- feedback: El radical no puede extraerse fuera de la función logaritmo de esa forma. -->
-- [x] B) $\frac{1}{2} \log x$ <!-- feedback: Correcto. $\sqrt{x} = x^{1/2}$, y por la propiedad de la potencia, el exponente sale multiplicando. -->
-- [ ] C) $2 \log x$ <!-- feedback: Este sería el logaritmo de $x$ al cuadrado, no de la raíz. -->
+- [x] C) $\frac{1}{2} \log x$ <!-- feedback: Correcto. $\sqrt{x} = x^{1/2}$, y por la propiedad de la potencia, el exponente sale multiplicando. -->
+- [ ] B) $2 \log x$ <!-- feedback: Este sería el logaritmo de $x$ al cuadrado, no de la raíz. -->
 - [ ] D) $\log (x/2)$ <!-- feedback: Error al confundir el exponente con un divisor del argumento. -->
 
 ### Explicacion Pedagogica
@@ -176,10 +176,10 @@ La raíz cuadrada se expresa como potencia de exponente $1/2$. Aplicando la prop
 ¿Cuál es la fórmula de cambio de base para calcular $\log_3 10$ usando logaritmos decimales?
 
 ### Opciones
-- [x] A) $\frac{\log 10}{\log 3}$ <!-- feedback: Correcto. Para cambiar a base 10: $\log_a b = \frac{\log b}{\log a}$. -->
-- [ ] B) $\frac{\log 3}{\log 10}$ <!-- feedback: Error al invertir el numerador y el denominador. -->
-- [ ] C) $\log 10 - \log 3$ <!-- feedback: El cambio de base implica división, no resta. -->
-- [ ] D) $10 \cdot \log 3$ <!-- feedback: Fórmula incorrecta. -->
+- [x] D) $\frac{\log 10}{\log 3}$ <!-- feedback: Correcto. Para cambiar a base 10: $\log_a b = \frac{\log b}{\log a}$. -->
+- [ ] A) $\frac{\log 3}{\log 10}$ <!-- feedback: Error al invertir el numerador y el denominador. -->
+- [ ] B) $\log 10 - \log 3$ <!-- feedback: El cambio de base implica división, no resta. -->
+- [ ] C) $10 \cdot \log 3$ <!-- feedback: Fórmula incorrecta. -->
 
 ### Explicacion Pedagogica
 La propiedad de cambio de base permite calcular el logaritmo en cualquier base $a$ dividiendo el logaritmo del argumento en una nueva base $k$ entre el logaritmo de la base original en esa misma base $k$.
@@ -198,8 +198,8 @@ Halla el valor de $\log_{1/2} 8$.
 
 ### Opciones
 - [ ] A) 3 <!-- feedback: $(1/2)^3 = 1/8$, no 8. -->
-- [x] B) -3 <!-- feedback: Correcto. $(1/2)^{-3} = 2^3 = 8$. -->
-- [ ] C) -4 <!-- feedback: $(1/2)^{-4} = 16$. -->
+- [x] C) -3 <!-- feedback: Correcto. $(1/2)^{-3} = 2^3 = 8$. -->
+- [ ] B) -4 <!-- feedback: $(1/2)^{-4} = 16$. -->
 - [ ] D) 4 <!-- feedback: Valor incorrecto. -->
 
 ### Explicacion Pedagogica
@@ -218,8 +218,8 @@ Buscamos $x$ tal que $(1/2)^x = 8$. Escribiendo ambos en base 2: $(2^{-1})^x = 2
 ¿Cuál es el valor de $\log_a 1$ para cualquier base $a$ válida?
 
 ### Opciones
-- [x] A) 0 <!-- feedback: Correcto. Cualquier número (base) elevado a 0 es igual a 1. -->
-- [ ] B) 1 <!-- feedback: Solo se cumple si la base fuera 1, pero la base 1 no está permitida. -->
+- [x] B) 0 <!-- feedback: Correcto. Cualquier número (base) elevado a 0 es igual a 1. -->
+- [ ] A) 1 <!-- feedback: Solo se cumple si la base fuera 1, pero la base 1 no está permitida. -->
 - [ ] C) $a$ <!-- feedback: Este es el valor de $\log_a a$. -->
 - [ ] D) Infinito <!-- feedback: El logaritmo tiende a infinito cuando el argumento tiende a infinito. -->
 
@@ -260,8 +260,8 @@ Aplicamos la definición de logaritmo (base 10): el argumento $x+2$ debe ser igu
 ¿Por qué la expresión $\log (-5)$ no tiene sentido en el conjunto de los números reales?
 
 ### Opciones
-- [ ] A) Porque el resultado sería un número negativo muy grande. <!-- feedback: No es una cuestión de magnitud del resultado, sino de existencia. -->
-- [x] B) Porque no existe ningún número real $x$ tal que $10^x$ sea negativo. <!-- feedback: Correcto. Una potencia de base positiva es siempre positiva. -->
+- [ ] B) Porque el resultado sería un número negativo muy grande. <!-- feedback: No es una cuestión de magnitud del resultado, sino de existencia. -->
+- [x] A) Porque no existe ningún número real $x$ tal que $10^x$ sea negativo. <!-- feedback: Correcto. Una potencia de base positiva es siempre positiva. -->
 - [ ] C) Porque los logaritmos solo admiten números enteros. <!-- feedback: Admiten cualquier número real positivo. -->
 - [ ] D) Porque el logaritmo de un negativo es siempre cero. <!-- feedback: Incorrecto. -->
 
@@ -281,9 +281,9 @@ La función logarítmica es la inversa de la exponencial $y = a^x$. Dado que $a^
 Utiliza las propiedades de los logaritmos para hallar el resultado.
 
 ### Opciones
-- [x] A) 0,778 <!-- feedback: Correcto. $\log 6 = \log (2 \cdot 3) = \log 2 + \log 3 \approx 0,301 + 0,477 = 0,778$. -->
-- [ ] B) 0,143 <!-- feedback: Error al restar los logaritmos en lugar de sumarlos. -->
-- [ ] C) 0,176 <!-- feedback: Error de cálculo. -->
+- [x] C) 0,778 <!-- feedback: Correcto. $\log 6 = \log (2 \cdot 3) = \log 2 + \log 3 \approx 0,301 + 0,477 = 0,778$. -->
+- [ ] A) 0,143 <!-- feedback: Error al restar los logaritmos en lugar de sumarlos. -->
+- [ ] B) 0,176 <!-- feedback: Error de cálculo. -->
 - [ ] D) 1,436 <!-- feedback: Error al multiplicar los valores de los logaritmos. -->
 
 ### Explicacion Pedagogica
@@ -345,8 +345,8 @@ Calcula $x$ si $\log_x 81 = 4$.
 
 ### Opciones
 - [ ] A) 9 <!-- feedback: 9 al cuadrado es 81, pero aquí el exponente es 4. -->
-- [x] B) 3 <!-- feedback: Correcto. $x^4 = 81 \Rightarrow x = \sqrt[4]{81} = 3$. -->
-- [ ] C) 20,25 <!-- feedback: Error al dividir 81 entre 4. -->
+- [x] C) 3 <!-- feedback: Correcto. $x^4 = 81 \Rightarrow x = \sqrt[4]{81} = 3$. -->
+- [ ] B) 20,25 <!-- feedback: Error al dividir 81 entre 4. -->
 - [ ] D) 2 <!-- feedback: 2 elevado a 4 es 16. -->
 
 ### Explicacion Pedagogica
@@ -366,8 +366,8 @@ Resuelve para $x$: $\log x + \log 5 = \log 20$.
 
 ### Opciones
 - [ ] A) $x = 15$ <!-- feedback: Error al restar los argumentos en lugar de dividirlos. -->
-- [x] B) $x = 4$ <!-- feedback: Correcto. $\log(5x) = \log 20 \Rightarrow 5x = 20 \Rightarrow x = 4$. -->
-- [ ] C) $x = 100$ <!-- feedback: Error de cálculo. -->
+- [x] C) $x = 4$ <!-- feedback: Correcto. $\log(5x) = \log 20 \Rightarrow 5x = 20 \Rightarrow x = 4$. -->
+- [ ] B) $x = 100$ <!-- feedback: Error de cálculo. -->
 - [ ] D) $x = 25$ <!-- feedback: Error al operar con los logaritmos. -->
 
 ### Explicacion Pedagogica
@@ -386,8 +386,8 @@ Agrupamos los logaritmos del primer miembro usando la propiedad del producto: $\
 Simplifica la expresión: $\log \left( \frac{\sqrt{10}}{100} \right)$.
 
 ### Opciones
-- [ ] A) 1,5 <!-- feedback: Error de signo. -->
-- [x] B) -1,5 <!-- feedback: Correcto. $\log 10^{1/2} - \log 10^2 = 0,5 - 2 = -1,5$. -->
+- [ ] B) 1,5 <!-- feedback: Error de signo. -->
+- [x] A) -1,5 <!-- feedback: Correcto. $\log 10^{1/2} - \log 10^2 = 0,5 - 2 = -1,5$. -->
 - [ ] C) -2,5 <!-- feedback: Error de cálculo. -->
 - [ ] D) 0,5 <!-- feedback: Solo se ha calculado el logaritmo del numerador. -->
 
@@ -408,9 +408,9 @@ Convertimos todo a potencias de 10: $\sqrt{10} = 10^{0,5}$ y $100 = 10^2$. La ex
 
 ### Opciones
 - [ ] A) Son iguales. <!-- feedback: No son iguales; tienen signos opuestos. -->
-- [x] B) Son opuestos ($\log(1/x) = -\log x$). <!-- feedback: Correcto. $\log(1/x) = \log x^{-1} = -1 \cdot \log x$. -->
-- [ ] C) Son recíprocos. <!-- feedback: No es una propiedad válida. -->
-- [ ] D) Su suma es 1. <!-- feedback: Su suma es 0. -->
+- [x] D) Son opuestos ($\log(1/x) = -\log x$). <!-- feedback: Correcto. $\log(1/x) = \log x^{-1} = -1 \cdot \log x$. -->
+- [ ] B) Son recíprocos. <!-- feedback: No es una propiedad válida. -->
+- [ ] C) Su suma es 1. <!-- feedback: Su suma es 0. -->
 
 ### Explicacion Pedagogica
 El inverso de un número se expresa como una potencia de exponente -1. Aplicando la propiedad del logaritmo de una potencia, el exponente -1 pasa multiplicando al frente, resultando en el opuesto del logaritmo original.
@@ -429,8 +429,8 @@ Halla el valor de $A$ si $\ln A = 2 + \ln 3$.
 
 ### Opciones
 - [ ] A) $A = e^2 + 3$ <!-- feedback: Error al tratar el logaritmo como una operación lineal. -->
-- [x] B) $A = 3e^2$ <!-- feedback: Correcto. $2 = \ln(e^2)$. Entonces $\ln A = \ln(e^2) + \ln 3 = \ln(3e^2)$. -->
-- [ ] C) $A = e^5$ <!-- feedback: Error al sumar el 2 y el 3 de forma incorrecta. -->
+- [x] C) $A = 3e^2$ <!-- feedback: Correcto. $2 = \ln(e^2)$. Entonces $\ln A = \ln(e^2) + \ln 3 = \ln(3e^2)$. -->
+- [ ] B) $A = e^5$ <!-- feedback: Error al sumar el 2 y el 3 de forma incorrecta. -->
 - [ ] D) $A = 3/e^2$ <!-- feedback: Error al restar en lugar de sumar. -->
 
 ### Explicacion Pedagogica

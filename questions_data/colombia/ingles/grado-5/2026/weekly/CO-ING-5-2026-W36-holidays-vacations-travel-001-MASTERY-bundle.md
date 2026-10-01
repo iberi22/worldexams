@@ -134,9 +134,9 @@ What can you conclude about the two trips?
 ### Opciones
 - [ ] A) Both trips had sun and swimming.
   <!-- feedback: Only the San Andrés trip had sun; Bogotá had rain. -->
-- [x] B) The weather changed the plans in each city.
+- [x] C) The weather changed the plans in each city.
   <!-- feedback: Rain kept them in the hotel while sun allowed swimming daily. -->
-- [ ] C) Both trips stayed only in hotels.
+- [ ] B) Both trips stayed only in hotels.
   <!-- feedback: Only the Bogotá trip stayed in the hotel; San Andrés swam. -->
 - [ ] D) Neither trip left the home city.
   <!-- feedback: The diary describes real trips to Bogotá and San Andrés. -->
@@ -152,9 +152,9 @@ Analizar diarios permite comparar el clima y sus efectos en los planes. También
 ### Enunciado
 Which statement explains the difference?
 ### Opciones
-- [ ] A) Both sentences describe a future plan.
+- [ ] B) Both sentences describe a future plan.
   <!-- feedback: Only the first with going to describes a future plan. -->
-- [x] B) The first is a future plan, the second is a habit.
+- [x] A) The first is a future plan, the second is a habit.
   <!-- feedback: "Going to" plans the future and "every June" repeats each year. -->
 - [ ] C) Both sentences describe a past trip.
   <!-- feedback: Neither sentence uses past tense verbs. -->
@@ -172,9 +172,9 @@ Going to expresa planes futuros y el presente con every marca hábitos. También
 ### Enunciado
 Which plan is the best for fifth graders?
 ### Opciones
-- [x] A) The plan with transport, hotel and museums.
+- [x] B) The plan with transport, hotel and museums.
   <!-- feedback: This plan is safe, organized and includes learning visits. -->
-- [ ] B) The plan with night swimming alone.
+- [ ] A) The plan with night swimming alone.
   <!-- feedback: Swimming alone at night is dangerous for children. -->
 - [ ] C) The plan with no transport or hotel.
   <!-- feedback: A plan without transport or hotel leaves children unprotected. -->

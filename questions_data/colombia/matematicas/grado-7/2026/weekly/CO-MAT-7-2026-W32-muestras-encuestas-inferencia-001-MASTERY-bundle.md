@@ -52,13 +52,13 @@ La población es el conjunto total de interés y la muestra es el subconjunto qu
 ### Enunciado
 ¿Cuáles son la población y la muestra en este estudio?
 ### Opciones
-- [x] A) Población: los 1 200 estudiantes; muestra: los 60 encuestados
+- [x] D) Población: los 1 200 estudiantes; muestra: los 60 encuestados
   <!-- feedback: Correcto. La población abarca a todos los estudiantes y la muestra a los 60 observados. -->
-- [ ] B) Población: los 60 encuestados; muestra: los 1 200 estudiantes
+- [ ] A) Población: los 60 encuestados; muestra: los 1 200 estudiantes
   <!-- feedback: Incorrecto. Invierte los conceptos: la muestra nunca es más grande que la población. -->
-- [ ] C) Población: los sabores del refrigerio; muestra: los 60 encuestados
+- [ ] B) Población: los sabores del refrigerio; muestra: los 60 encuestados
   <!-- feedback: Incorrecto. Los sabores son la variable estudiada, no la población. -->
-- [ ] D) Población: los 1 200 estudiantes; muestra: el refrigerio servido
+- [ ] C) Población: los 1 200 estudiantes; muestra: el refrigerio servido
   <!-- feedback: Incorrecto. El refrigerio no es un subconjunto de estudiantes. -->
 ### Explicacion Pedagogica
 Población = conjunto total sobre el que se quiere saber (1 200 estudiantes). Muestra = quienes efectivamente responden (60). La inferencia va de la muestra hacia la población.
@@ -72,9 +72,9 @@ Población = conjunto total sobre el que se quiere saber (1 200 estudiantes). Mu
 ### Enunciado
 Si la muestra es representativa, ¿cuántos estudiantes del colegio prefieren el fútbol?
 ### Opciones
-- [ ] A) 30 estudiantes, porque la muestra ya da el total
+- [ ] B) 30 estudiantes, porque la muestra ya da el total
   <!-- feedback: Incorrecto. 30 es el conteo dentro de la muestra de 50, no del colegio completo. -->
-- [x] B) 480 estudiantes, porque el 60 % de 800 es 480
+- [x] A) 480 estudiantes, porque el 60 % de 800 es 480
   <!-- feedback: Correcto. 30/50 = 60 % y el 60 % de 800 = 480 estudiantes. -->
 - [ ] C) 800 estudiantes, porque todos prefieren lo mismo que la muestra
   <!-- feedback: Incorrecto. La inferencia traslada la proporción (60 %), no impone unanimidad. -->
@@ -114,9 +114,9 @@ Se traslada la proporción muestral a la población: 25 % de 1 000 000 = 250 000
 ### Opciones
 - [ ] A) 100 vecinos, que son los que dijeron que sí
   <!-- feedback: Incorrecto. 100 es el conteo en la muestra, pero la pregunta pide la estimación del barrio. -->
-- [x] B) 500 vecinos, porque 100/400 = 25 % y el 25 % de 2 000 es 500
+- [x] C) 500 vecinos, porque 100/400 = 25 % y el 25 % de 2 000 es 500
   <!-- feedback: Correcto. La proporción muestral (25 %) proyectada a 2 000 vecinos da 500. -->
-- [ ] C) 400 vecinos, que son todos los encuestados
+- [ ] B) 400 vecinos, que son todos los encuestados
   <!-- feedback: Incorrecto. No todos los encuestados apoyan: solo 100 de 400. -->
 - [ ] D) 2 000 vecinos, porque la muestra decide por todos
   <!-- feedback: Incorrecto. La muestra estima una proporción, no impone unanimidad. -->
@@ -152,13 +152,13 @@ Una muestra debe parecerse a la población. Encuestar solo a hinchas del estadio
 ### Enunciado
 ¿Cuál opción da una estimación más confiable y por qué?
 ### Opciones
-- [x] A) Encuestar a 1 000, porque una muestra aleatoria más grande fluctúa menos y representa mejor a la población
+- [x] D) Encuestar a 1 000, porque una muestra aleatoria más grande fluctúa menos y representa mejor a la población
   <!-- feedback: Correcto. A mayor tamaño muestral (aleatorio), menor error de estimación y mejor inferencia. -->
-- [ ] B) Encuestar a 100, porque las muestras pequeñas nunca se equivocan
+- [ ] A) Encuestar a 100, porque las muestras pequeñas nunca se equivocan
   <!-- feedback: Incorrecto. Las muestras pequeñas fluctúan mucho más y son menos confiables. -->
-- [ ] C) Ambas dan exactamente la misma precisión siempre
+- [ ] B) Ambas dan exactamente la misma precisión siempre
   <!-- feedback: Incorrecto. El tamaño de muestra sí afecta la precisión de la estimación. -->
-- [ ] D) Encuestar a 100, porque encuestar a más gente siempre sesga los resultados
+- [ ] C) Encuestar a 100, porque encuestar a más gente siempre sesga los resultados
   <!-- feedback: Incorrecto. El tamaño no crea sesgo; el sesgo viene de mala selección, no de encuestar a más personas. -->
 ### Explicacion Pedagogica
 Con muestreo aleatorio, aumentar la muestra reduce el error de estimación (las fluctuaciones se compensan). 1 000 encuestados describen mejor a 10 000 que solo 100.
@@ -174,9 +174,9 @@ Con muestreo aleatorio, aumentar la muestra reduce el error de estimación (las 
 ### Opciones
 - [ ] A) Que los dos cursos tienen exactamente el mismo número de lectores
   <!-- feedback: Incorrecto. Los conteos difieren (20 frente a 45); lo igual es la proporción, no el conteo. -->
-- [x] B) Que la preferencia por la lectura ronda el 50 % de forma consistente en ambos grupos
+- [x] C) Que la preferencia por la lectura ronda el 50 % de forma consistente en ambos grupos
   <!-- feedback: Correcto. 20/40 = 45/90 = 50 %: dos muestras independientes coinciden y refuerzan la estimación. -->
-- [ ] C) Que las encuestas están mal porque siempre deben dar resultados distintos
+- [ ] B) Que las encuestas están mal porque siempre deben dar resultados distintos
   <!-- feedback: Incorrecto. Coincidir no es un error; dos muestras pueden dar la misma proporción. -->
 - [ ] D) Que el curso B lee el doble que el curso A
   <!-- feedback: Incorrecto. 45 es más del doble de 20, pero la proporción de lectores es idéntica (50 %). -->
@@ -192,11 +192,11 @@ Comparar proporciones (no conteos) permite contrastar grupos de distinto tamaño
 ### Enunciado
 ¿Es válida la afirmación del alcalde? Evalúe.
 ### Opciones
-- [x] A) No, la muestra es diminuta frente a la población y además está sesgada: los funcionarios no representan a los habitantes
+- [x] C) No, la muestra es diminuta frente a la población y además está sesgada: los funcionarios no representan a los habitantes
   <!-- feedback: Correcto. Falla por tamaño (30 frente a 50 000) y por selección (entorno del alcalde, no muestra aleatoria). -->
-- [ ] B) Sí, porque 30 personas son suficientes para representar a cualquier población
+- [ ] A) Sí, porque 30 personas son suficientes para representar a cualquier población
   <!-- feedback: Incorrecto. 30 personas elegidas a dedo no representan a 50 000 habitantes. -->
-- [ ] C) Sí, porque los funcionarios conocen bien el municipio
+- [ ] B) Sí, porque los funcionarios conocen bien el municipio
   <!-- feedback: Incorrecto. Conocer el municipio no convierte a un grupo cercano al alcalde en muestra representativa. -->
 - [ ] D) No, porque ninguna encuesta puede representar a más de 1 000 personas
   <!-- feedback: Incorrecto. No hay tal límite; muestras aleatorias de miles sí representan a millones. -->
@@ -214,11 +214,11 @@ Una inferencia válida exige muestra aleatoria y de tamaño razonable. Aquí hay
 ### Opciones
 - [ ] A) Sí, porque 100 y 1 000 encuestados siempre dan exactamente el mismo resultado
   <!-- feedback: Incorrecto. Muestras distintas fluctúan; la de 1 000 fluctúa mucho menos. -->
-- [x] B) No, la muestra de 1 000 (aleatoria) estima con mucho menos error que la de 100, aunque cueste más
+- [x] D) No, la muestra de 1 000 (aleatoria) estima con mucho menos error que la de 100, aunque cueste más
   <!-- feedback: Correcto. A igual método aleatorio, más muestra significa estimación más precisa; "da lo mismo" es falso. -->
-- [ ] C) Sí, porque encuestar a más personas siempre introduce sesgo
+- [ ] B) Sí, porque encuestar a más personas siempre introduce sesgo
   <!-- feedback: Incorrecto. El tamaño no sesga; el sesgo depende de cómo se elige, no de a cuántos se elige. -->
-- [ ] D) No, porque hay que encuestar a los 20 000 clientes o no se puede afirmar nada
+- [ ] C) No, porque hay que encuestar a los 20 000 clientes o no se puede afirmar nada
   <!-- feedback: Incorrecto. No hace falta un censo: una muestra aleatoria grande estima muy bien a la población. -->
 ### Explicacion Pedagogica
 La precisión crece con el tamaño muestral (el error se reduce aproximadamente con la raíz del tamaño). 1 000 encuestas aleatorias estiman notablemente mejor que 100; el ahorro del gerente sacrifica la precisión que la empresa necesita.

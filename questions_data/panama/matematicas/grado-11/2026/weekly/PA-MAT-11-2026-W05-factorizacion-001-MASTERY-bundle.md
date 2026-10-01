@@ -30,8 +30,8 @@ bundle_index: 1
 
 ### Opciones
 - [ ] A) $x$ <!-- feedback: Aunque x es un factor común, no representa el máximo factor numérico y literal posible. -->
-- [ ] B) $4$ <!-- feedback: Aunque 4 es el máximo común divisor numérico, falta incluir la variable común con menor exponente. -->
-- [x] C) $4x$ <!-- feedback: Correcto. El máximo común divisor de 12, 8 y 4 es 4, y la variable común con menor exponente es x. -->
+- [ ] C) $4$ <!-- feedback: Aunque 4 es el máximo común divisor numérico, falta incluir la variable común con menor exponente. -->
+- [x] B) $4x$ <!-- feedback: Correcto. El máximo común divisor de 12, 8 y 4 es 4, y la variable común con menor exponente es x. -->
 - [ ] D) $4x^2$ <!-- feedback: Incorrecto. El término final 4x no contiene la potencia x^2, por lo que no puede ser común. -->
 
 ### Explicacion Pedagogica
@@ -51,8 +51,8 @@ Identificación del máximo factor común (numérico y literal) en un polinomio.
 
 ### Opciones
 - [ ] A) $(x - 10)^2$ <!-- feedback: Incorrecto. Este desarrollo resultaría en el trinomio x^2 - 20x + 100. -->
-- [x] B) $(x - 10)(x + 10)$ <!-- feedback: Correcto. Una diferencia de cuadrados a^2 - b^2 se factoriza como el producto de suma por diferencia. -->
-- [ ] C) $(x - 50)(x + 50)$ <!-- feedback: Incorrecto. Error al extraer la raíz cuadrada de 100; se usó la mitad del valor en su lugar. -->
+- [x] C) $(x - 10)(x + 10)$ <!-- feedback: Correcto. Una diferencia de cuadrados a^2 - b^2 se factoriza como el producto de suma por diferencia. -->
+- [ ] B) $(x - 50)(x + 50)$ <!-- feedback: Incorrecto. Error al extraer la raíz cuadrada de 100; se usó la mitad del valor en su lugar. -->
 - [ ] D) $(x^2 - 10)(x^2 + 10)$ <!-- feedback: Incorrecto. No se debe mantener la potencia cuadrada en los factores binómicos resultantes. -->
 
 ### Explicacion Pedagogica
@@ -72,8 +72,8 @@ Factoriza por agrupación la expresión $ax + ay + bx + by$.
 
 ### Opciones
 - [ ] A) $(a + b) + (x + y)$ <!-- feedback: Incorrecto. Los factores finales deben estar multiplicándose, no sumándose entre sí. -->
-- [x] B) $(a + b)(x + y)$ <!-- feedback: Correcto. Agrupando por factor común: a(x+y) + b(x+y) = (a+b)(x+y). -->
-- [ ] C) $ab(x + y)$ <!-- feedback: Incorrecto. Se multiplicaron erróneamente los términos comunes en lugar de sumarlos como un factor. -->
+- [x] C) $(a + b)(x + y)$ <!-- feedback: Correcto. Agrupando por factor común: a(x+y) + b(x+y) = (a+b)(x+y). -->
+- [ ] B) $ab(x + y)$ <!-- feedback: Incorrecto. Se multiplicaron erróneamente los términos comunes en lugar de sumarlos como un factor. -->
 - [ ] D) $(ax + by)(ay + bx)$ <!-- feedback: Incorrecto. Agrupación defectuosa que no preserva la igualdad con la expresión original. -->
 
 ### Explicacion Pedagogica
@@ -93,8 +93,8 @@ Factoriza el trinomio $x^2 + 6x + 9$.
 
 ### Opciones
 - [ ] A) $(x + 4.5)^2$ <!-- feedback: Incorrecto. Se dividió el término lineal entre 2 sin verificar la raíz del término constante. -->
-- [x] B) $(x + 3)^2$ <!-- feedback: Correcto. Es un trinomio cuadrado perfecto porque sqrt(x^2)=x, sqrt(9)=3 y 2*x*3=6x. -->
-- [ ] C) $(x + 3)(x - 3)$ <!-- feedback: Incorrecto. Esto corresponde a una diferencia de cuadrados, resultando en x^2 - 9. -->
+- [x] C) $(x + 3)^2$ <!-- feedback: Correcto. Es un trinomio cuadrado perfecto porque sqrt(x^2)=x, sqrt(9)=3 y 2*x*3=6x. -->
+- [ ] B) $(x + 3)(x - 3)$ <!-- feedback: Incorrecto. Esto corresponde a una diferencia de cuadrados, resultando en x^2 - 9. -->
 - [ ] D) $(x + 9)^2$ <!-- feedback: Incorrecto. Se utilizó el valor de la constante como raíz en lugar de extraer su raíz cuadrada. -->
 
 ### Explicacion Pedagogica
@@ -135,8 +135,8 @@ Factorización de trinomios de la forma x^2 + bx + c mediante la búsqueda de fa
 
 ### Opciones
 - [ ] A) $(x - 2)^3$ <!-- feedback: Incorrecto. Esta potencia de binomio generaría términos cuadráticos y lineales adicionales. -->
-- [x] B) $(x - 2)(x^2 + 2x + 4)$ <!-- feedback: Correcto. Siguiendo la regla a^3 - b^3 = (a-b)(a^2 + ab + b^2) con a=x y b=2. -->
-- [ ] C) $(x - 2)(x^2 - 2x + 4)$ <!-- feedback: Incorrecto. En una diferencia de cubos, todos los términos del factor de segundo grado son positivos. -->
+- [x] C) $(x - 2)(x^2 + 2x + 4)$ <!-- feedback: Correcto. Siguiendo la regla a^3 - b^3 = (a-b)(a^2 + ab + b^2) con a=x y b=2. -->
+- [ ] B) $(x - 2)(x^2 - 2x + 4)$ <!-- feedback: Incorrecto. En una diferencia de cubos, todos los términos del factor de segundo grado son positivos. -->
 - [ ] D) $(x + 2)(x^2 - 2x + 4)$ <!-- feedback: Incorrecto. Esta corresponde a la factorización de una suma de cubos (x^3 + 8). -->
 
 ### Explicacion Pedagogica
@@ -156,8 +156,8 @@ Factoriza el trinomio $2x^2 + 7x + 3$.
 
 ### Opciones
 - [ ] A) $(2x + 3)(x + 1)$ <!-- feedback: Incorrecto. Al expandir este producto, el término central resultaría en 5x, no 7x. -->
-- [x] B) $(2x + 1)(x + 3)$ <!-- feedback: Correcto. 2x*x + 6x + x + 3 = 2x^2 + 7x + 3 tras realizar la distribución. -->
-- [ ] C) $(2x + 7)(x + 1)$ <!-- feedback: Incorrecto. El producto de los términos constantes daría 7 en lugar de la unidad 3. -->
+- [x] C) $(2x + 1)(x + 3)$ <!-- feedback: Correcto. 2x*x + 6x + x + 3 = 2x^2 + 7x + 3 tras realizar la distribución. -->
+- [ ] B) $(2x + 7)(x + 1)$ <!-- feedback: Incorrecto. El producto de los términos constantes daría 7 en lugar de la unidad 3. -->
 - [ ] D) $(x + 3)(x + 0.5)$ <!-- feedback: Incorrecto. Representación inválida de los factores enteros para el polinomio dado. -->
 
 ### Explicacion Pedagogica
@@ -176,8 +176,8 @@ Factorización de trinomios de la forma ax^2 + bx + c mediante descomposición d
 Factoriza totalmente la expresión $25a^2 - 40ab + 16b^2$.
 
 ### Opciones
-- [ ] A) $(5a + 4b)^2$ <!-- feedback: Incorrecto. Dado que el término central es negativo, el factor debe ser una diferencia. -->
-- [x] B) $(5a - 4b)^2$ <!-- feedback: Correcto. Las raíces son 5a y 4b, y el doble producto de ambas coincide con el término central. -->
+- [ ] B) $(5a + 4b)^2$ <!-- feedback: Incorrecto. Dado que el término central es negativo, el factor debe ser una diferencia. -->
+- [x] A) $(5a - 4b)^2$ <!-- feedback: Correcto. Las raíces son 5a y 4b, y el doble producto de ambas coincide con el término central. -->
 - [ ] C) $(5a - 4b)(5a + 4b)$ <!-- feedback: Incorrecto. Esto es la factorización de una diferencia de cuadrados (25a^2 - 16b^2). -->
 - [ ] D) $5a - 4b$ <!-- feedback: Incorrecto. Falta elevar la expresión factorizada a la potencia cuadrada correspondiente. -->
 
@@ -198,9 +198,9 @@ Factoriza la expresión $27 + y^3$.
 
 ### Opciones
 - [ ] A) $(3 + y)^3$ <!-- feedback: Incorrecto. Este es el cubo de una suma y contiene términos polinómicos adicionales. -->
-- [x] B) $(3 + y)(9 - 3y + y^2)$ <!-- feedback: Correcto. Aplicando la regla a^3 + b^3 = (a+b)(a^2 - ab + b^2) con a=3 y b=y. -->
-- [ ] C) $(3 + y)(9 + 3y + y^2)$ <!-- feedback: Incorrecto. En una suma de cubos, el término central del trinomio factor debe ser negativo. -->
-- [ ] D) $(3 - y)(9 + 3y + y^2)$ <!-- feedback: Incorrecto. Esta corresponde a la factorización de la diferencia de cubos (27 - y^3). -->
+- [x] D) $(3 + y)(9 - 3y + y^2)$ <!-- feedback: Correcto. Aplicando la regla a^3 + b^3 = (a+b)(a^2 - ab + b^2) con a=3 y b=y. -->
+- [ ] B) $(3 + y)(9 + 3y + y^2)$ <!-- feedback: Incorrecto. En una suma de cubos, el término central del trinomio factor debe ser negativo. -->
+- [ ] C) $(3 - y)(9 + 3y + y^2)$ <!-- feedback: Incorrecto. Esta corresponde a la factorización de la diferencia de cubos (27 - y^3). -->
 
 ### Explicacion Pedagogica
 Aplicación del caso de factorización de Suma de Cubos Perfectos.
@@ -220,8 +220,8 @@ Aplicación del caso de factorización de Suma de Cubos Perfectos.
 ### Opciones
 - [ ] A) $3(x^4 - 16)$ <!-- feedback: Incompleto. El binomio resultante aún puede factorizarse como una diferencia de cuadrados. -->
 - [ ] B) $3(x^2 - 4)(x^2 + 4)$ <!-- feedback: Incompleto. El primer factor binómico todavía puede reducirse a factores lineales. -->
-- [x] C) $3(x - 2)(x + 2)(x^2 + 4)$ <!-- feedback: Correcto. Se extrae el factor 3 y se aplican diferencias de cuadrados sucesivamente. -->
-- [ ] D) $3(x - 2)^2 (x + 2)^2$ <!-- feedback: Incorrecto. La suma de cuadrados x^2 + 4 no se descompone en estos factores reales. -->
+- [x] D) $3(x - 2)(x + 2)(x^2 + 4)$ <!-- feedback: Correcto. Se extrae el factor 3 y se aplican diferencias de cuadrados sucesivamente. -->
+- [ ] C) $3(x - 2)^2 (x + 2)^2$ <!-- feedback: Incorrecto. La suma de cuadrados x^2 + 4 no se descompone en estos factores reales. -->
 
 ### Explicacion Pedagogica
 Ejecución de factorizaciones sucesivas combinando factor común y diferencia de cuadrados.
@@ -239,8 +239,8 @@ Ejecución de factorizaciones sucesivas combinando factor común y diferencia de
 Factoriza por agrupación la siguiente expresión: $x^2 + xy + xz + xy + y^2 + yz$.
 
 ### Opciones
-- [x] A) $(x + y)(x + y + z)$ <!-- feedback: Correcto. Agrupando x(x+y+z) + y(x+y+z) se obtiene el producto de los dos factores. -->
-- [ ] B) $(x + y)^2 + z$ <!-- feedback: Incorrecto. Esto no representa una forma factorizada (producto de factores) completa. -->
+- [x] B) $(x + y)(x + y + z)$ <!-- feedback: Correcto. Agrupando x(x+y+z) + y(x+y+z) se obtiene el producto de los dos factores. -->
+- [ ] A) $(x + y)^2 + z$ <!-- feedback: Incorrecto. Esto no representa una forma factorizada (producto de factores) completa. -->
 - [ ] C) $xy(x + y + z)$ <!-- feedback: Incorrecto. El factor común extraído de los primeros tres términos no coincide con esta forma. -->
 - [ ] D) $(x + z)(x + y)$ <!-- feedback: Incorrecto. Faltan términos en el desarrollo de este producto para igualar a la expresión inicial. -->
 
@@ -260,8 +260,8 @@ Factorización por agrupación de términos en polinomios de varios términos.
 Factoriza la expresión algebraica: $(x + 1)^2 - 4$.
 
 ### Opciones
-- [ ] A) $(x - 1)^2$ <!-- feedback: Incorrecto. El desarrollo de esta potencia no iguala al valor del binomio original. -->
-- [x] B) $(x + 3)(x - 1)$ <!-- feedback: Correcto. Es una diferencia de cuadrados (x+1+2)(x+1-2), que simplifica a estos factores. -->
+- [ ] B) $(x - 1)^2$ <!-- feedback: Incorrecto. El desarrollo de esta potencia no iguala al valor del binomio original. -->
+- [x] A) $(x + 3)(x - 1)$ <!-- feedback: Correcto. Es una diferencia de cuadrados (x+1+2)(x+1-2), que simplifica a estos factores. -->
 - [ ] C) $(x + 1 + 4)(x + 1 - 4)$ <!-- feedback: Incorrecto. Se utilizó el valor 4 en lugar de su raíz cuadrada 2 para la factorización. -->
 - [ ] D) $x^2 + 2x - 3$ <!-- feedback: Incorrecto. Esta es la forma expandida del polinomio, no su forma factorizada. -->
 
@@ -282,8 +282,8 @@ Aplicación de la diferencia de cuadrados sobre bases que son expresiones compue
 
 ### Opciones
 - [ ] A) $(6x + 1)(x - 3)$ <!-- feedback: Incorrecto. Al expandir, el término central sería -17x en lugar del valor de -7x requerido. -->
-- [x] B) $(3x + 1)(2x - 3)$ <!-- feedback: Correcto. 6x^2 - 9x + 2x - 3 = 6x^2 - 7x - 3 tras realizar la expansión. -->
-- [ ] C) $(3x - 1)(2x + 3)$ <!-- feedback: Incorrecto. Los signos de las constantes están invertidos, lo que afectaría al signo central. -->
+- [x] C) $(3x + 1)(2x - 3)$ <!-- feedback: Correcto. 6x^2 - 9x + 2x - 3 = 6x^2 - 7x - 3 tras realizar la expansión. -->
+- [ ] B) $(3x - 1)(2x + 3)$ <!-- feedback: Incorrecto. Los signos de las constantes están invertidos, lo que afectaría al signo central. -->
 - [ ] D) $(2x - 1)(3x + 3)$ <!-- feedback: Incorrecto. El producto de las constantes daría el valor correcto, pero el resto no. -->
 
 ### Explicacion Pedagogica
@@ -302,8 +302,8 @@ Factorización de trinomios con coeficientes principales mayores a 1 y signos ne
 ¿Cuál es la factorización de $x^4 + x^2 + 1$? (Identidad de Argand).
 
 ### Opciones
-- [ ] A) $(x^2 + 1)^2$ <!-- feedback: Incorrecto. El desarrollo de este cuadrado sobraría o faltaría un término de x^2. -->
-- [x] B) $(x^2 + x + 1)(x^2 - x + 1)$ <!-- feedback: Correcto. Se completa el trinomio (x^2+1)^2 - x^2 y se aplica diferencia de cuadrados. -->
+- [ ] B) $(x^2 + 1)^2$ <!-- feedback: Incorrecto. El desarrollo de este cuadrado sobraría o faltaría un término de x^2. -->
+- [x] A) $(x^2 + x + 1)(x^2 - x + 1)$ <!-- feedback: Correcto. Se completa el trinomio (x^2+1)^2 - x^2 y se aplica diferencia de cuadrados. -->
 - [ ] C) $(x^2 + x - 1)^2$ <!-- feedback: Incorrecto. Esta expresión expandida no coincide con los signos del polinomio original. -->
 - [ ] D) No es factorizable real <!-- feedback: Incorrecto. Este tipo de polinomios admite factorización en el campo de los números reales. -->
 
@@ -323,8 +323,8 @@ Uso del método de adición y sustracción para completar trinomios y factorizar
 Factoriza totalmente el polinomio $x^3 - x^2 - 4x + 4$.
 
 ### Opciones
-- [ ] A) $(x^2 - 4)(x - 1)$ <!-- feedback: Incompleto. El factor cuadrático todavía admite una descomposición adicional en factores lineales. -->
-- [x] B) $(x - 1)(x - 2)(x + 2)$ <!-- feedback: Correcto. Agrupando x^2(x-1)-4(x-1) y factorizando luego la diferencia de cuadrados. -->
+- [ ] B) $(x^2 - 4)(x - 1)$ <!-- feedback: Incompleto. El factor cuadrático todavía admite una descomposición adicional en factores lineales. -->
+- [x] A) $(x - 1)(x - 2)(x + 2)$ <!-- feedback: Correcto. Agrupando x^2(x-1)-4(x-1) y factorizando luego la diferencia de cuadrados. -->
 - [ ] C) $(x + 1)(x - 2)^2$ <!-- feedback: Incorrecto. La distribución de los signos y valores no reproduce el polinomio dado. -->
 - [ ] D) $x(x^2 - x - 4) + 4$ <!-- feedback: Incorrecto. Esta no representa una forma factorizada por producto de polinomios. -->
 
@@ -345,9 +345,9 @@ Factoriza el polinomio $x^3 + 3x^2 - 4$ sabiendo que $x=1$ es una raíz del mism
 
 ### Opciones
 - [ ] A) $(x - 1)(x^2 + 4)$ <!-- feedback: Incorrecto. Al multiplicar estos factores no se recupera el término cuadrático 3x^2. -->
-- [x] B) $(x - 1)(x + 2)^2$ <!-- feedback: Correcto. Aplicando Ruffini se obtiene x^2 + 4x + 4, que es el cuadrado de x+2. -->
-- [ ] C) $(x - 1)(x - 2)^2$ <!-- feedback: Incorrecto. El signo del binomio elevado al cuadrado es el opuesto al correcto. -->
-- [ ] D) $(x - 1)(x + 2)(x - 2)$ <!-- feedback: Incorrecto. Resultaría en un polinomio con un término independiente diferente al original. -->
+- [x] D) $(x - 1)(x + 2)^2$ <!-- feedback: Correcto. Aplicando Ruffini se obtiene x^2 + 4x + 4, que es el cuadrado de x+2. -->
+- [ ] B) $(x - 1)(x - 2)^2$ <!-- feedback: Incorrecto. El signo del binomio elevado al cuadrado es el opuesto al correcto. -->
+- [ ] C) $(x - 1)(x + 2)(x - 2)$ <!-- feedback: Incorrecto. Resultaría en un polinomio con un término independiente diferente al original. -->
 
 ### Explicacion Pedagogica
 Factorización de polinomios mediante el teorema del factor y la regla de Ruffini.
@@ -366,8 +366,8 @@ Factoriza la expresión algebraica $x^5 + 32$.
 
 ### Opciones
 - [ ] A) $(x + 2)^5$ <!-- feedback: Incorrecto. Esto es una potencia de binomio con múltiples términos polinómicos intermedios. -->
-- [x] B) $(x + 2)(x^4 - 2x^3 + 4x^2 - 8x + 16)$ <!-- feedback: Correcto. Aplicando la regla para suma de potencias impares con signos alternados en el factor largo. -->
-- [ ] C) $(x + 2)(x^4 + 2x^3 + 4x^2 + 8x + 16)$ <!-- feedback: Incorrecto. En una suma de potencias impares los signos del segundo factor deben ser alternos. -->
+- [x] C) $(x + 2)(x^4 - 2x^3 + 4x^2 - 8x + 16)$ <!-- feedback: Correcto. Aplicando la regla para suma de potencias impares con signos alternados en el factor largo. -->
+- [ ] B) $(x + 2)(x^4 + 2x^3 + 4x^2 + 8x + 16)$ <!-- feedback: Incorrecto. En una suma de potencias impares los signos del segundo factor deben ser alternos. -->
 - [ ] D) No es factorizable real <!-- feedback: Incorrecto. Las sumas de potencias impares siempre admiten factorización mediante sus raíces. -->
 
 ### Explicacion Pedagogica
@@ -387,9 +387,9 @@ Factoriza totalmente la expresión: $a^2 + 2ab + b^2 - c^2$.
 
 ### Opciones
 - [ ] A) $(a + b)^2 - c^2$ <!-- feedback: Incompleto. Esta es solo una fase intermedia del proceso de factorización total. -->
-- [x] B) $(a + b + c)(a + b - c)$ <!-- feedback: Correcto. Se forma el trinomio cuadrado (a+b)^2 y luego se aplica diferencia de cuadrados. -->
-- [ ] C) $(a + b + c)^2$ <!-- feedback: Incorrecto. La expansión de este cuadrado incluiría términos de productos cruzados extra. -->
-- [ ] D) $(a^2 + b^2)(a + b - c)$ <!-- feedback: Incorrecto. Estructura de factores que no coincide con la composición de la expresión inicial. -->
+- [x] D) $(a + b + c)(a + b - c)$ <!-- feedback: Correcto. Se forma el trinomio cuadrado (a+b)^2 y luego se aplica diferencia de cuadrados. -->
+- [ ] B) $(a + b + c)^2$ <!-- feedback: Incorrecto. La expansión de este cuadrado incluiría términos de productos cruzados extra. -->
+- [ ] C) $(a^2 + b^2)(a + b - c)$ <!-- feedback: Incorrecto. Estructura de factores que no coincide con la composición de la expresión inicial. -->
 
 ### Explicacion Pedagogica
 Factorización de expresiones que requieren agrupación para formar un trinomio cuadrado perfecto seguido de una diferencia de cuadrados.
@@ -408,9 +408,9 @@ Factorización de expresiones que requieren agrupación para formar un trinomio 
 
 ### Opciones
 - [ ] A) $(x^3 - y^3)(x^3 + y^3)$ <!-- feedback: Incompleto. Ambos factores son descomposiciones de cubos que deben seguir factorizándose. -->
-- [x] B) $(x - y)(x^2 + xy + y^2)(x + y)(x^2 - xy + y^2)$ <!-- feedback: Correcto. Combinación de diferencia de cuadrados y reglas de suma/resta de cubos. -->
-- [ ] C) $(x - y)^6$ <!-- feedback: Incorrecto. Esta potencia generaría una expresión polinómica mucho más extensa. -->
-- [ ] D) $(x^2 - y^2)^3$ <!-- feedback: Incorrecto. Posee términos polinómicos adicionales al realizarse la expansión del cubo. -->
+- [x] D) $(x - y)(x^2 + xy + y^2)(x + y)(x^2 - xy + y^2)$ <!-- feedback: Correcto. Combinación de diferencia de cuadrados y reglas de suma/resta de cubos. -->
+- [ ] B) $(x - y)^6$ <!-- feedback: Incorrecto. Esta potencia generaría una expresión polinómica mucho más extensa. -->
+- [ ] C) $(x^2 - y^2)^3$ <!-- feedback: Incorrecto. Posee términos polinómicos adicionales al realizarse la expansión del cubo. -->
 
 ### Explicacion Pedagogica
 Factorización exhaustiva combinando diferencia de cuadrados y suma/diferencia de cubos.
@@ -428,9 +428,9 @@ Factorización exhaustiva combinando diferencia de cuadrados y suma/diferencia d
 Factoriza la expresión $4x^4 + 1$ siguiendo la identidad de Sophie Germain.
 
 ### Opciones
-- [ ] A) $(2x^2 + 1)^2$ <!-- feedback: Incorrecto. El desarrollo de este cuadrado perfecto daría un término central de 4x^2. -->
-- [ ] B) $(2x^2 + 2x + 1)^2$ <!-- feedback: Incorrecto. No iguala a la expresión polinómica inicial tras realizar su expansión. -->
-- [x] C) $(2x^2 + 2x + 1)(2x^2 - 2x + 1)$ <!-- feedback: Correcto. Resulta de sumar y restar 4x^2 para aplicar diferencia de cuadrados sobre trinomios. -->
+- [ ] B) $(2x^2 + 1)^2$ <!-- feedback: Incorrecto. El desarrollo de este cuadrado perfecto daría un término central de 4x^2. -->
+- [ ] C) $(2x^2 + 2x + 1)^2$ <!-- feedback: Incorrecto. No iguala a la expresión polinómica inicial tras realizar su expansión. -->
+- [x] A) $(2x^2 + 2x + 1)(2x^2 - 2x + 1)$ <!-- feedback: Correcto. Resulta de sumar y restar 4x^2 para aplicar diferencia de cuadrados sobre trinomios. -->
 - [ ] D) No es factorizable real <!-- feedback: Incorrecto. Esta identidad permite la descomposición en factores reales de segundo grado. -->
 
 ### Explicacion Pedagogica

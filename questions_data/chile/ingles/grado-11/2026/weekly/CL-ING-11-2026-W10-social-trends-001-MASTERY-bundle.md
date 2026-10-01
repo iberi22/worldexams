@@ -36,8 +36,8 @@ A trend is a general direction in which something is developing or changing.
 
 ### Opciones
 - [ ] A) ritual <!-- feedback: Incorrect. A ritual is a ceremony. -->
-- [x] B) trend <!-- feedback: Correct. A trend is a current style or popular direction. -->
-- [ ] C) tradition <!-- feedback: Incorrect. A tradition is long-standing. -->
+- [x] C) trend <!-- feedback: Correct. A trend is a current style or popular direction. -->
+- [ ] B) tradition <!-- feedback: Incorrect. A tradition is long-standing. -->
 - [ ] D) law <!-- feedback: Incorrect. A law is a formal rule. -->
 
 ### Explicacion Pedagogica
@@ -55,8 +55,8 @@ A trend is a general direction in which something is developing or changing.
 The average age of the population has been increasing in many developed countries.
 
 ### Opciones
-- [ ] A) increases <!-- feedback: Incorrect. Present simple. -->
-- [x] B) has been increasing <!-- feedback: Correct. Present perfect continuous for an ongoing demographic trend. -->
+- [ ] B) increases <!-- feedback: Incorrect. Present simple. -->
+- [x] A) has been increasing <!-- feedback: Correct. Present perfect continuous for an ongoing demographic trend. -->
 - [ ] C) increased <!-- feedback: Incorrect. Past simple. -->
 - [ ] D) will increase <!-- feedback: Incorrect. Simple future. -->
 
@@ -76,8 +76,8 @@ If remote work had been possible twenty years ago, urbanization might have slowe
 
 ### Opciones
 - [ ] A) was <!-- feedback: Incorrect. Second conditional. -->
-- [x] B) had been <!-- feedback: Correct. Third conditional for hypothetical past situation. -->
-- [ ] C) is <!-- feedback: Incorrect. Present tense. -->
+- [x] C) had been <!-- feedback: Correct. Third conditional for hypothetical past situation. -->
+- [ ] B) is <!-- feedback: Incorrect. Present tense. -->
 - [ ] D) has been <!-- feedback: Incorrect. Present perfect. -->
 
 ### Explicacion Pedagogica
@@ -95,9 +95,9 @@ The third conditional (if + past perfect) is used to imagine how the past might 
 Digital nomads are individuals who use technology to work remotely and lead a lifestyle that allows them to travel frequently.
 
 ### Opciones
-- [x] A) nomads <!-- feedback: Correct. A nomad is a person with no permanent home who moves from place to place. -->
-- [ ] B) settlers <!-- feedback: Incorrect. Settlers stay in one place. -->
-- [ ] C) natives <!-- feedback: Incorrect. Refers to where someone was born. -->
+- [x] C) nomads <!-- feedback: Correct. A nomad is a person with no permanent home who moves from place to place. -->
+- [ ] A) settlers <!-- feedback: Incorrect. Settlers stay in one place. -->
+- [ ] B) natives <!-- feedback: Incorrect. Refers to where someone was born. -->
 - [ ] D) recluses <!-- feedback: Incorrect. Recluses avoid society. -->
 
 ### Explicacion Pedagogica
@@ -116,8 +116,8 @@ The sharing economy emphasizes access over ownership, allowing people to rent or
 
 ### Opciones
 - [ ] A) profit <!-- feedback: Incorrect. While companies profit, the concept is about access. -->
-- [x] B) access <!-- feedback: Correct. Sharing economy platforms focus on providing temporary access to resources. -->
-- [ ] C) scarcity <!-- feedback: Incorrect. It aims to reduce the impact of scarcity. -->
+- [x] C) access <!-- feedback: Correct. Sharing economy platforms focus on providing temporary access to resources. -->
+- [ ] B) scarcity <!-- feedback: Incorrect. It aims to reduce the impact of scarcity. -->
 - [ ] D) status <!-- feedback: Incorrect. It often challenges traditional status symbols of ownership. -->
 
 ### Explicacion Pedagogica
@@ -136,8 +136,8 @@ An influencer is a person with the ability to influence potential buyers of a pr
 
 ### Opciones
 - [ ] A) observer <!-- feedback: Incorrect. Observers are passive. -->
-- [x] B) influencer <!-- feedback: Correct. This is the specific term for this social role. -->
-- [ ] C) critic <!-- feedback: Incorrect. Critics analyze, but don't necessarily have the same commercial influence. -->
+- [x] C) influencer <!-- feedback: Correct. This is the specific term for this social role. -->
+- [ ] B) critic <!-- feedback: Incorrect. Critics analyze, but don't necessarily have the same commercial influence. -->
 - [ ] D) apprentice <!-- feedback: Incorrect. An apprentice is learning. -->
 
 ### Explicacion Pedagogica
@@ -176,8 +176,8 @@ Minimalism is a lifestyle choice that focuses on living with fewer material poss
 
 ### Opciones
 - [ ] A) materialism <!-- feedback: Incorrect. Materialism is the opposite. -->
-- [x] B) minimalism <!-- feedback: Correct. Minimalism is the practice of living with only the essentials. -->
-- [ ] C) consumerism <!-- feedback: Incorrect. Consumerism focuses on buying more. -->
+- [x] C) minimalism <!-- feedback: Correct. Minimalism is the practice of living with only the essentials. -->
+- [ ] B) consumerism <!-- feedback: Incorrect. Consumerism focuses on buying more. -->
 - [ ] D) narcissism <!-- feedback: Incorrect. Narcissism is excessive self-interest. -->
 
 ### Explicacion Pedagogica
@@ -196,9 +196,9 @@ Many people used to commute to an office every day, but now they work from home.
 
 ### Opciones
 - [ ] A) are used to <!-- feedback: Incorrect. This means 'accustomed to'. -->
-- [x] B) used to <!-- feedback: Correct. Describes a past habit that has changed. -->
-- [ ] C) use to <!-- feedback: Incorrect grammar. -->
-- [ ] D) would <!-- feedback: Incorrect. 'Used to' is better for contrasting the past and present. -->
+- [x] D) used to <!-- feedback: Correct. Describes a past habit that has changed. -->
+- [ ] B) use to <!-- feedback: Incorrect grammar. -->
+- [ ] C) would <!-- feedback: Incorrect. 'Used to' is better for contrasting the past and present. -->
 
 ### Explicacion Pedagogica
 'Used to' is the standard structure for comparing past habits with present reality.
@@ -216,9 +216,9 @@ The article argues that cancel culture can sometimes lead to a "mob mentality" w
 
 ### Opciones
 - [ ] A) harmony <!-- feedback: Incorrect. Condemnation is not harmony. -->
-- [x] B) mob mentality <!-- feedback: Correct. Mob mentality refers to people being influenced by their peers to adopt certain behaviors. -->
-- [ ] C) logic <!-- feedback: Incorrect. Mob mentality is often described as lacking logic. -->
-- [ ] D) empathy <!-- feedback: Incorrect. Mob mentality often lacks empathy. -->
+- [x] D) mob mentality <!-- feedback: Correct. Mob mentality refers to people being influenced by their peers to adopt certain behaviors. -->
+- [ ] B) logic <!-- feedback: Incorrect. Mob mentality is often described as lacking logic. -->
+- [ ] C) empathy <!-- feedback: Incorrect. Mob mentality often lacks empathy. -->
 
 ### Explicacion Pedagogica
 'Mob mentality' (or herd mentality) describes the collective behavior of a group that can be irrational or aggressive.
@@ -235,9 +235,9 @@ The article argues that cancel culture can sometimes lead to a "mob mentality" w
 The term "Millennials" refers to the generation of people born between the early 1980s and the mid-1990s.
 
 ### Opciones
-- [ ] A) Boomers <!-- feedback: Incorrect. Born earlier (post-WWII). -->
-- [ ] B) Gen Z <!-- feedback: Incorrect. Born later (late 90s to early 2010s). -->
-- [x] C) Millennials <!-- feedback: Correct. This is the specific name for that generation. -->
+- [ ] B) Boomers <!-- feedback: Incorrect. Born earlier (post-WWII). -->
+- [ ] C) Gen Z <!-- feedback: Incorrect. Born later (late 90s to early 2010s). -->
+- [x] A) Millennials <!-- feedback: Correct. This is the specific name for that generation. -->
 - [ ] D) Builders <!-- feedback: Incorrect. Refers to an even older generation. -->
 
 ### Explicacion Pedagogica
@@ -296,8 +296,8 @@ If people spent less time on their screens, they would probably feel more connec
 
 ### Opciones
 - [ ] A) spend <!-- feedback: Incorrect. First conditional. -->
-- [x] B) spent <!-- feedback: Correct. Second conditional for a hypothetical change. -->
-- [ ] C) have spent <!-- feedback: Incorrect. Present perfect. -->
+- [x] C) spent <!-- feedback: Correct. Second conditional for a hypothetical change. -->
+- [ ] B) have spent <!-- feedback: Incorrect. Present perfect. -->
 - [ ] D) would spend <!-- feedback: Incorrect. 'Would' not used in 'if' clause. -->
 
 ### Explicacion Pedagogica
@@ -316,8 +316,8 @@ The author concludes that the "urban exodus" is driven by a desire for more spac
 
 ### Opciones
 - [ ] A) growth <!-- feedback: Incorrect. Exodus means leaving. -->
-- [x] B) exodus <!-- feedback: Correct. An exodus is a mass departure of people. -->
-- [ ] C) isolation <!-- feedback: Incorrect. Focuses on the state rather than the movement. -->
+- [x] C) exodus <!-- feedback: Correct. An exodus is a mass departure of people. -->
+- [ ] B) isolation <!-- feedback: Incorrect. Focuses on the state rather than the movement. -->
 - [ ] D) congestion <!-- feedback: Incorrect. This is usually why people leave cities, not the name of the movement itself. -->
 
 ### Explicacion Pedagogica
@@ -335,8 +335,8 @@ The author concludes that the "urban exodus" is driven by a desire for more spac
 A "viral" post is one that is shared rapidly and widely from one internet user to another.
 
 ### Opciones
-- [ ] A) private <!-- feedback: Incorrect. Private posts are not shared widely. -->
-- [x] B) viral <!-- feedback: Correct. Viral means spreading very quickly. -->
+- [ ] B) private <!-- feedback: Incorrect. Private posts are not shared widely. -->
+- [x] A) viral <!-- feedback: Correct. Viral means spreading very quickly. -->
 - [ ] C) boring <!-- feedback: Incorrect. Boring posts usually don't spread. -->
 - [ ] D) expensive <!-- feedback: Incorrect. Sharing online is usually free. -->
 
@@ -376,9 +376,9 @@ A new movement for social justice is gaining momentum across the country.
 
 ### Opciones
 - [ ] A) Slow <!-- feedback: Incorrect. Slow fashion is the sustainable alternative. -->
-- [x] B) Fast <!-- feedback: Correct. Fast fashion is the industry term for rapid, cheap production. -->
-- [ ] C) Luxury <!-- feedback: Incorrect. Luxury fashion is expensive and produced slowly. -->
-- [ ] D) Classic <!-- feedback: Incorrect. Traditional, unchanging styles. -->
+- [x] D) Fast <!-- feedback: Correct. Fast fashion is the industry term for rapid, cheap production. -->
+- [ ] B) Luxury <!-- feedback: Incorrect. Luxury fashion is expensive and produced slowly. -->
+- [ ] C) Classic <!-- feedback: Incorrect. Traditional, unchanging styles. -->
 
 ### Explicacion Pedagogica
 'Fast fashion' is the specific term for the business model described.
@@ -396,9 +396,9 @@ Experts said that the trend toward automation would continue to accelerate.
 
 ### Opciones
 - [ ] A) will <!-- feedback: Incorrect. Backshifted from 'will' to 'would' in reported speech. -->
-- [x] B) would <!-- feedback: Correct. 'Would' is the past form of 'will' used in reported speech. -->
-- [ ] C) should <!-- feedback: Incorrect. Expresses advice or expectation. -->
-- [ ] D) can <!-- feedback: Incorrect. Backshifted to 'could'. -->
+- [x] D) would <!-- feedback: Correct. 'Would' is the past form of 'will' used in reported speech. -->
+- [ ] B) should <!-- feedback: Incorrect. Expresses advice or expectation. -->
+- [ ] C) can <!-- feedback: Incorrect. Backshifted to 'could'. -->
 
 ### Explicacion Pedagogica
 In reported speech, we change 'will' to 'would' when the reporting verb ('said') is in the past.
@@ -415,9 +415,9 @@ In reported speech, we change 'will' to 'would' when the reporting verb ('said')
 The paradox of our time is that while we are more "connected" than ever digitally, many report feeling more isolated.
 
 ### Opciones
-- [x] A) paradox <!-- feedback: Correct. A paradox is a seemingly absurd or self-contradictory statement that may prove to be true. -->
-- [ ] B) solution <!-- feedback: Incorrect. This is a problem, not a solution. -->
-- [ ] C) agreement <!-- feedback: Incorrect. The two facts contradict each other. -->
+- [x] C) paradox <!-- feedback: Correct. A paradox is a seemingly absurd or self-contradictory statement that may prove to be true. -->
+- [ ] A) solution <!-- feedback: Incorrect. This is a problem, not a solution. -->
+- [ ] B) agreement <!-- feedback: Incorrect. The two facts contradict each other. -->
 - [ ] D) benefit <!-- feedback: Incorrect. Feeling isolated is not a benefit. -->
 
 ### Explicacion Pedagogica

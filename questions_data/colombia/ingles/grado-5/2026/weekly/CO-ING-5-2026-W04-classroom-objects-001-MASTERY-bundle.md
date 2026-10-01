@@ -80,11 +80,11 @@ Locating classroom objects using the preposition "on" to describe position in En
 Which sentence correctly follows the teacher's instructions?
 
 ### Opciones
-- [x] A) The students open their notebooks and take out their pencils and rulers.
+- [x] C) The students open their notebooks and take out their pencils and rulers.
   <!-- feedback: The verb forms agree with the plural subject "the students". -->
-- [ ] B) The students opens their notebooks and take out their pencils.
+- [ ] A) The students opens their notebooks and take out their pencils.
   <!-- feedback: "Opens" is singular and does not agree with the plural subject "students". -->
-- [ ] C) The student open their notebooks and takes out their pencils.
+- [ ] B) The student open their notebooks and takes out their pencils.
   <!-- feedback: The singular subject "student" requires "opens" and "takes", not the plural forms. -->
 - [ ] D) The students opening their notebooks at page ten.
   <!-- feedback: "Opening" is a gerund and needs an auxiliary verb in this context. -->
@@ -103,11 +103,11 @@ Applying subject-verb agreement with plural classroom subjects in the Simple Pre
 Which preposition best describes the position of the dictionary?
 
 ### Opciones
-- [x] A) Next to.
+- [x] C) Next to.
   <!-- feedback: "Next to" indicates that the dictionary is beside the notebook. -->
-- [ ] B) Under.
+- [ ] A) Under.
   <!-- feedback: "Under" describes something below another object, not beside it. -->
-- [ ] C) Between.
+- [ ] B) Between.
   <!-- feedback: "Between" requires two reference objects on each side. -->
 - [ ] D) Behind.
   <!-- feedback: "Behind" describes something at the back of another object. -->
@@ -149,13 +149,13 @@ Applying subject-verb agreement between "there is" and "there are" with classroo
 Where is the dictionary in relation to the English book?
 
 ### Opciones
-- [x] A) It is right beside the English book.
+- [x] D) It is right beside the English book.
   <!-- feedback: "Next to" means the dictionary is beside the English book. -->
-- [ ] B) It is inside the backpack with the math book.
+- [ ] A) It is inside the backpack with the math book.
   <!-- feedback: The text locates the math book in the backpack, not the dictionary. -->
-- [ ] C) It is under the English book.
+- [ ] B) It is under the English book.
   <!-- feedback: The text says "next to", not "under", so the dictionary is not below. -->
-- [ ] D) It is on a different floor in the school.
+- [ ] C) It is on a different floor in the school.
   <!-- feedback: Both objects are described in the same classroom context. -->
 
 ### Explicacion Pedagogica
@@ -172,11 +172,11 @@ Analyzing spatial relationships between classroom objects described in English t
 Which inference about the student's school supplies is correct?
 
 ### Opciones
-- [x] A) The student has more notebooks than pencils.
+- [x] C) The student has more notebooks than pencils.
   <!-- feedback: Five notebooks is greater than three pencils, so the inference is correct. -->
-- [ ] B) The student has the same number of notebooks and pencils.
+- [ ] A) The student has the same number of notebooks and pencils.
   <!-- feedback: The numbers are different: 5 notebooks vs 3 pencils. -->
-- [ ] C) The student has more pencils than notebooks.
+- [ ] B) The student has more pencils than notebooks.
   <!-- feedback: Three pencils is less than five notebooks, so this inference is wrong. -->
 - [ ] D) The student has no rulers at all.
   <!-- feedback: The text clearly states the student has one ruler. -->

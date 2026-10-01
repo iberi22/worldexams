@@ -34,9 +34,9 @@ Vocabulary of common jobs and community helpers, plus simple expressions to desc
 Which word in English names the person who teaches students in a school?
 
 ### Opciones
-- [x] A) Teacher.
+- [x] B) Teacher.
   <!-- feedback: A teacher works in a school and helps students learn new things. -->
-- [ ] B) Doctor.
+- [ ] A) Doctor.
   <!-- feedback: A doctor takes care of sick people in a hospital or clinic. -->
 - [ ] C) Driver.
   <!-- feedback: A driver moves people or goods in a bus, a taxi, or a truck. -->
@@ -80,9 +80,9 @@ Understanding what a person does from a short descriptive text in English. / Com
 Which sentence correctly uses the verb "work" with the third person singular?
 
 ### Opciones
-- [x] A) She works in a hospital.
+- [x] B) She works in a hospital.
   <!-- feedback: "Works" adds -s to agree with the third person singular subject "she". -->
-- [ ] B) She work in a hospital.
+- [ ] A) She work in a hospital.
   <!-- feedback: "Work" without -s is incorrect with "she" in Simple Present. -->
 - [ ] C) She working in a hospital.
   <!-- feedback: "Working" is a gerund and needs an auxiliary verb here. -->
@@ -103,11 +103,11 @@ Using the Simple Present with the third person singular to describe jobs in Engl
 Which question correctly matches this answer about a job?
 
 ### Opciones
-- [x] A) What does a police officer do?
+- [x] C) What does a police officer do?
   <!-- feedback: The answer describes the actions of a police officer, so this question fits. -->
-- [ ] B) How old is a police officer?
+- [ ] A) How old is a police officer?
   <!-- feedback: The answer does not give an age, so this question does not match. -->
-- [ ] C) Where does a police officer live?
+- [ ] B) Where does a police officer live?
   <!-- feedback: The answer does not mention a home or an address. -->
 - [ ] D) What color is the police officer's car?
   <!-- feedback: The answer does not talk about the color of any car. -->
@@ -149,11 +149,11 @@ Describing the main action of a job with a simple sentence in English. / Describ
 Which occupation does Mr. Rojas have?
 
 ### Opciones
-- [x] A) He is a dentist.
+- [x] C) He is a dentist.
   <!-- feedback: Looking at teeth and helping them feel better is the work of a dentist. -->
-- [ ] B) He is a teacher.
+- [ ] A) He is a teacher.
   <!-- feedback: A teacher works with students in a school, not with teeth. -->
-- [ ] C) He is a farmer.
+- [ ] B) He is a farmer.
   <!-- feedback: A farmer works in the field with plants and animals. -->
 - [ ] D) He is a police officer.
   <!-- feedback: A police officer takes care of people and streets, not teeth. -->

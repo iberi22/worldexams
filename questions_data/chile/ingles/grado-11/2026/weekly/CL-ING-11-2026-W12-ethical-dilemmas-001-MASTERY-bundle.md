@@ -36,8 +36,8 @@ An ethical dilemma is a situation in which a difficult choice has to be made bet
 
 ### Opciones
 - [ ] A) solution <!-- feedback: Incorrect. A dilemma is a problem, not a solution. -->
-- [x] B) dilemma <!-- feedback: Correct. An ethical dilemma is a choice between two moral imperatives. -->
-- [ ] C) certainty <!-- feedback: Incorrect. Dilemmas involve uncertainty and conflict. -->
+- [x] C) dilemma <!-- feedback: Correct. An ethical dilemma is a choice between two moral imperatives. -->
+- [ ] B) certainty <!-- feedback: Incorrect. Dilemmas involve uncertainty and conflict. -->
 - [ ] D) agreement <!-- feedback: Incorrect. Dilemmas usually involve internal or external disagreement. -->
 
 ### Explicacion Pedagogica
@@ -55,8 +55,8 @@ An ethical dilemma is a situation in which a difficult choice has to be made bet
 Utilitarianism is a theory that suggests actions are right if they are useful or for the benefit of a majority.
 
 ### Opciones
-- [ ] A) suggest <!-- feedback: Incorrect. Subject-verb agreement ('theory' is singular). -->
-- [x] B) suggests <!-- feedback: Correct. Present simple for a general definition of a theory. -->
+- [ ] B) suggest <!-- feedback: Incorrect. Subject-verb agreement ('theory' is singular). -->
+- [x] A) suggests <!-- feedback: Correct. Present simple for a general definition of a theory. -->
 - [ ] C) suggesting <!-- feedback: Incorrect. Gerund. -->
 - [ ] D) suggested <!-- feedback: Incorrect. Past tense. -->
 
@@ -76,9 +76,9 @@ If you found a wallet full of money on the street, what would you do?
 
 ### Opciones
 - [ ] A) do you do <!-- feedback: Incorrect. First conditional. -->
-- [x] B) would you do <!-- feedback: Correct. Second conditional for a hypothetical scenario. -->
-- [ ] C) will you do <!-- feedback: Incorrect. Inconsistent with 'found'. -->
-- [ ] D) have you done <!-- feedback: Incorrect. Present perfect. -->
+- [x] D) would you do <!-- feedback: Correct. Second conditional for a hypothetical scenario. -->
+- [ ] B) will you do <!-- feedback: Incorrect. Inconsistent with 'found'. -->
+- [ ] C) have you done <!-- feedback: Incorrect. Present perfect. -->
 
 ### Explicacion Pedagogica
 The second conditional 'if + past simple, would + verb' is used to ask about an imaginary situation.
@@ -95,8 +95,8 @@ The second conditional 'if + past simple, would + verb' is used to ask about an 
 A whistleblower is a person who informs on a person or organization regarded as engaging in an unlawful or unethical activity.
 
 ### Opciones
-- [x] A) whistleblower <!-- feedback: Correct. This is the specific term for someone who exposes wrongdoing. -->
-- [ ] B) accomplice <!-- feedback: Incorrect. An accomplice helps in the wrongdoing. -->
+- [x] B) whistleblower <!-- feedback: Correct. This is the specific term for someone who exposes wrongdoing. -->
+- [ ] A) accomplice <!-- feedback: Incorrect. An accomplice helps in the wrongdoing. -->
 - [ ] C) bystander <!-- feedback: Incorrect. A bystander watches but doesn't act. -->
 - [ ] D) benefactor <!-- feedback: Incorrect. A benefactor provides financial help. -->
 
@@ -115,8 +115,8 @@ A whistleblower is a person who informs on a person or organization regarded as 
 The text implies that prioritizing profit over safety is inherently unethical and can lead to long-term reputational damage.
 
 ### Opciones
-- [ ] A) beneficial <!-- feedback: Incorrect. It might be profitable but is not 'beneficial' in an ethical context. -->
-- [x] B) unethical <!-- feedback: Correct. Not conforming to high moral standards. -->
+- [ ] B) beneficial <!-- feedback: Incorrect. It might be profitable but is not 'beneficial' in an ethical context. -->
+- [x] A) unethical <!-- feedback: Correct. Not conforming to high moral standards. -->
 - [ ] C) legal <!-- feedback: Incorrect. While it might be legal in some cases, the focus is on the moral 'ethics'. -->
 - [ ] D) mandatory <!-- feedback: Incorrect. It is never mandatory to be unethical. -->
 
@@ -136,9 +136,9 @@ Just because an action is legal does not necessarily mean it is moral.
 
 ### Opciones
 - [ ] A) illegal <!-- feedback: Incorrect. If it's illegal, it's usually considered wrong anyway. -->
-- [x] B) legal <!-- feedback: Correct. The text contrasts law with morality. -->
-- [ ] C) public <!-- feedback: Incorrect. Public doesn't contrast with moral here. -->
-- [ ] D) expensive <!-- feedback: Incorrect. Price is unrelated to morality. -->
+- [x] D) legal <!-- feedback: Correct. The text contrasts law with morality. -->
+- [ ] B) public <!-- feedback: Incorrect. Public doesn't contrast with moral here. -->
+- [ ] C) expensive <!-- feedback: Incorrect. Price is unrelated to morality. -->
 
 ### Explicacion Pedagogica
 The distinction between 'legal' (following the law) and 'moral' (doing what is right) is a key concept in ethics.
@@ -156,9 +156,9 @@ The company should have disclosed the risks to the public much sooner.
 
 ### Opciones
 - [ ] A) should disclose <!-- feedback: Incorrect. This refers to the present or future. -->
-- [x] B) should have disclosed <!-- feedback: Correct. 'Should have + past participle' for past criticism or regret. -->
-- [ ] C) must disclose <!-- feedback: Incorrect. Obligation in the present. -->
-- [ ] D) could disclose <!-- feedback: Incorrect. Possibility in the present. -->
+- [x] D) should have disclosed <!-- feedback: Correct. 'Should have + past participle' for past criticism or regret. -->
+- [ ] B) must disclose <!-- feedback: Incorrect. Obligation in the present. -->
+- [ ] C) could disclose <!-- feedback: Incorrect. Possibility in the present. -->
 
 ### Explicacion Pedagogica
 'Should have disclosed' expresses a past obligation that was not met.
@@ -176,9 +176,9 @@ A conflict of interest occurs when an individual's personal interests interfere 
 
 ### Opciones
 - [ ] A) resolution <!-- feedback: Incorrect. A resolution solves a conflict. -->
-- [x] B) conflict <!-- feedback: Correct. A conflict of interest is the formal term. -->
-- [ ] C) alignment <!-- feedback: Incorrect. Alignment is the opposite of conflict. -->
-- [ ] D) benefit <!-- feedback: Incorrect. While there may be a personal benefit, the situation is a conflict. -->
+- [x] D) conflict <!-- feedback: Correct. A conflict of interest is the formal term. -->
+- [ ] B) alignment <!-- feedback: Incorrect. Alignment is the opposite of conflict. -->
+- [ ] C) benefit <!-- feedback: Incorrect. While there may be a personal benefit, the situation is a conflict. -->
 
 ### Explicacion Pedagogica
 'Conflict of interest' is the specific term for the ethical situation described.
@@ -196,8 +196,8 @@ The ethics of genetic engineering are being debated by scientists and philosophe
 
 ### Opciones
 - [ ] A) are debating <!-- feedback: Incorrect. Active voice. -->
-- [x] B) are being debated <!-- feedback: Correct. Present continuous passive for an ongoing discussion. -->
-- [ ] C) have debated <!-- feedback: Incorrect. Active voice. -->
+- [x] C) are being debated <!-- feedback: Correct. Present continuous passive for an ongoing discussion. -->
+- [ ] B) have debated <!-- feedback: Incorrect. Active voice. -->
 - [ ] D) debate <!-- feedback: Incorrect. Present simple. -->
 
 ### Explicacion Pedagogica
@@ -216,8 +216,8 @@ Consequentialism is the class of normative ethical theories holding that the con
 
 ### Opciones
 - [ ] A) intention <!-- feedback: Incorrect. Consequentialism focuses on results, not intentions. -->
-- [x] B) consequences <!-- feedback: Correct. The name of the theory itself gives the answer. -->
-- [ ] C) tradition <!-- feedback: Incorrect. Focuses on results. -->
+- [x] C) consequences <!-- feedback: Correct. The name of the theory itself gives the answer. -->
+- [ ] B) tradition <!-- feedback: Incorrect. Focuses on results. -->
 - [ ] D) legality <!-- feedback: Incorrect. Focuses on moral results. -->
 
 ### Explicacion Pedagogica
@@ -275,8 +275,8 @@ The adjective 'agonizing' is used to describe a situation that causes great ment
 Equality of opportunity is the idea that everyone should have a fair chance to succeed, regardless of their background.
 
 ### Opciones
-- [ ] A) wealth <!-- feedback: Incorrect. Focuses on money. -->
-- [x] B) opportunity <!-- feedback: Correct. This is the specific ethical/social concept. -->
+- [ ] B) wealth <!-- feedback: Incorrect. Focuses on money. -->
+- [x] A) opportunity <!-- feedback: Correct. This is the specific ethical/social concept. -->
 - [ ] C) outcomes <!-- feedback: Incorrect. Equality of outcomes is a different, more controversial concept. -->
 - [ ] D) intelligence <!-- feedback: Incorrect. Not the standard phrase. -->
 
@@ -315,8 +315,8 @@ The mixed conditional (if + past simple, would + have + past participle) connect
 The author concludes that we must cultivate our moral compass through reflection and experience.
 
 ### Opciones
-- [ ] A) budget <!-- feedback: Incorrect. Financial plan. -->
-- [x] B) moral compass <!-- feedback: Correct. Metaphor for one's inner sense of right and wrong. -->
+- [ ] B) budget <!-- feedback: Incorrect. Financial plan. -->
+- [x] A) moral compass <!-- feedback: Correct. Metaphor for one's inner sense of right and wrong. -->
 - [ ] C) reputation <!-- feedback: Incorrect. How others see you. -->
 - [ ] D) career <!-- feedback: Incorrect. Professional life. -->
 
@@ -335,8 +335,8 @@ The author concludes that we must cultivate our moral compass through reflection
 Empathy is the ability to understand and share the feelings of another.
 
 ### Opciones
-- [ ] A) Apathy <!-- feedback: Incorrect. Lack of interest. -->
-- [x] B) Empathy <!-- feedback: Correct. Fundamental for ethical behavior. -->
+- [ ] B) Apathy <!-- feedback: Incorrect. Lack of interest. -->
+- [x] A) Empathy <!-- feedback: Correct. Fundamental for ethical behavior. -->
 - [ ] C) Antipathy <!-- feedback: Incorrect. Deep-seated feeling of dislike. -->
 - [ ] D) Simplicity <!-- feedback: Incorrect. Being simple. -->
 
@@ -356,9 +356,9 @@ We ought to treat others with the same respect that we expect for ourselves.
 
 ### Opciones
 - [ ] A) must to <!-- feedback: Incorrect. 'Must' doesn't take 'to'. -->
-- [x] B) ought to <!-- feedback: Correct. 'Ought to' expresses moral obligation. -->
-- [ ] C) would to <!-- feedback: Incorrect. 'Would' doesn't take 'to'. -->
-- [ ] D) can to <!-- feedback: Incorrect. 'Can' doesn't take 'to'. -->
+- [x] D) ought to <!-- feedback: Correct. 'Ought to' expresses moral obligation. -->
+- [ ] B) would to <!-- feedback: Incorrect. 'Would' doesn't take 'to'. -->
+- [ ] C) can to <!-- feedback: Incorrect. 'Can' doesn't take 'to'. -->
 
 ### Explicacion Pedagogica
 'Ought to' is a modal verb used to express a moral duty or recommendation.
@@ -376,9 +376,9 @@ Fundamental human rights are inalienable, meaning they cannot be taken away from
 
 ### Opciones
 - [ ] A) flexible <!-- feedback: Incorrect. Rights should not be flexible in this way. -->
-- [x] B) inalienable <!-- feedback: Correct. Inalienable means unable to be taken away or given away by the possessor. -->
-- [ ] C) optional <!-- feedback: Incorrect. Rights are not optional. -->
-- [ ] D) temporary <!-- feedback: Incorrect. Rights should be permanent. -->
+- [x] D) inalienable <!-- feedback: Correct. Inalienable means unable to be taken away or given away by the possessor. -->
+- [ ] B) optional <!-- feedback: Incorrect. Rights are not optional. -->
+- [ ] C) temporary <!-- feedback: Incorrect. Rights should be permanent. -->
 
 ### Explicacion Pedagogica
 'Inalienable' is the formal term used in human rights documents to describe the permanent nature of fundamental rights.
@@ -396,8 +396,8 @@ The philosopher argued that the ends did not always justify the means.
 
 ### Opciones
 - [ ] A) don't <!-- feedback: Incorrect. Backshifted in reported speech. -->
-- [x] B) did not <!-- feedback: Correct. Backshifted from 'do not' to 'did not'. -->
-- [ ] C) have not <!-- feedback: Incorrect. Present perfect. -->
+- [x] C) did not <!-- feedback: Correct. Backshifted from 'do not' to 'did not'. -->
+- [ ] B) have not <!-- feedback: Incorrect. Present perfect. -->
 - [ ] D) will not <!-- feedback: Incorrect. Future. -->
 
 ### Explicacion Pedagogica
@@ -415,9 +415,9 @@ In reported speech, we backshift tenses: 'The ends do not justify...' becomes '.
 Accountability is an assurance that an individual or organization will be evaluated on their performance or behavior.
 
 ### Opciones
-- [x] A) Accountability <!-- feedback: Correct. Accountability is the obligation of an individual or organization to account for its activities. -->
-- [ ] B) Anonymity <!-- feedback: Incorrect. Being unknown. -->
-- [ ] C) Impunity <!-- feedback: Incorrect. Exemption from punishment or loss. -->
+- [x] C) Accountability <!-- feedback: Correct. Accountability is the obligation of an individual or organization to account for its activities. -->
+- [ ] A) Anonymity <!-- feedback: Incorrect. Being unknown. -->
+- [ ] B) Impunity <!-- feedback: Incorrect. Exemption from punishment or loss. -->
 - [ ] D) Indifference <!-- feedback: Incorrect. Lack of interest. -->
 
 ### Explicacion Pedagogica

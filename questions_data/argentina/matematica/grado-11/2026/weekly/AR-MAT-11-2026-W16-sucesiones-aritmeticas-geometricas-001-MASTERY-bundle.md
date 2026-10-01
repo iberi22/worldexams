@@ -78,8 +78,8 @@ La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 
 En una sucesión aritmética con primer término $a_1 = 6$ y diferencia $d = 4$, ¿cuál es el valor del quinto término ($a_5$)?
 
 ### Opciones
-- [x] A) $a_5 = 22$ <!-- feedback: Correcto. $a_5 = a_1 + 4d = 6 + 4(4) = 22$. -->
-- [ ] B) $a_5 = 26$ <!-- feedback: Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$. -->
+- [x] B) $a_5 = 22$ <!-- feedback: Correcto. $a_5 = a_1 + 4d = 6 + 4(4) = 22$. -->
+- [ ] A) $a_5 = 26$ <!-- feedback: Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$. -->
 - [ ] C) $a_5 = 18$ <!-- feedback: Incorrecto. Restó una diferencia. -->
 - [ ] D) $a_5 = 24$ <!-- feedback: Incorrecto. Multiplicó los parámetros. -->
 
@@ -99,8 +99,8 @@ La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 
 En una sucesión aritmética con primer término $a_1 = 8$ y diferencia $d = 5$, ¿cuál es el valor del quinto término ($a_5$)?
 
 ### Opciones
-- [x] A) $a_5 = 28$ <!-- feedback: Correcto. $a_5 = a_1 + 4d = 8 + 4(5) = 28$. -->
-- [ ] B) $a_5 = 33$ <!-- feedback: Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$. -->
+- [x] B) $a_5 = 28$ <!-- feedback: Correcto. $a_5 = a_1 + 4d = 8 + 4(5) = 28$. -->
+- [ ] A) $a_5 = 33$ <!-- feedback: Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$. -->
 - [ ] C) $a_5 = 23$ <!-- feedback: Incorrecto. Restó una diferencia. -->
 - [ ] D) $a_5 = 40$ <!-- feedback: Incorrecto. Multiplicó los parámetros. -->
 
@@ -120,10 +120,10 @@ La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 
 En una sucesión aritmética con primer término $a_1 = 10$ y diferencia $d = 6$, ¿cuál es el valor del quinto término ($a_5$)?
 
 ### Opciones
-- [x] A) $a_5 = 34$ <!-- feedback: Correcto. $a_5 = a_1 + 4d = 10 + 4(6) = 34$. -->
-- [ ] B) $a_5 = 40$ <!-- feedback: Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$. -->
-- [ ] C) $a_5 = 28$ <!-- feedback: Incorrecto. Restó una diferencia. -->
-- [ ] D) $a_5 = 60$ <!-- feedback: Incorrecto. Multiplicó los parámetros. -->
+- [x] D) $a_5 = 34$ <!-- feedback: Correcto. $a_5 = a_1 + 4d = 10 + 4(6) = 34$. -->
+- [ ] A) $a_5 = 40$ <!-- feedback: Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$. -->
+- [ ] B) $a_5 = 28$ <!-- feedback: Incorrecto. Restó una diferencia. -->
+- [ ] C) $a_5 = 60$ <!-- feedback: Incorrecto. Multiplicó los parámetros. -->
 
 ### Explicacion Pedagogica
 La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 10 + 4(6) = 34$.
@@ -141,9 +141,9 @@ La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 
 En una sucesión aritmética con primer término $a_1 = 12$ y diferencia $d = 7$, ¿cuál es el valor del quinto término ($a_5$)?
 
 ### Opciones
-- [x] A) $a_5 = 40$ <!-- feedback: Correcto. $a_5 = a_1 + 4d = 12 + 4(7) = 40$. -->
-- [ ] B) $a_5 = 47$ <!-- feedback: Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$. -->
-- [ ] C) $a_5 = 33$ <!-- feedback: Incorrecto. Restó una diferencia. -->
+- [x] C) $a_5 = 40$ <!-- feedback: Correcto. $a_5 = a_1 + 4d = 12 + 4(7) = 40$. -->
+- [ ] A) $a_5 = 47$ <!-- feedback: Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$. -->
+- [ ] B) $a_5 = 33$ <!-- feedback: Incorrecto. Restó una diferencia. -->
 - [ ] D) $a_5 = 84$ <!-- feedback: Incorrecto. Multiplicó los parámetros. -->
 
 ### Explicacion Pedagogica
@@ -183,10 +183,10 @@ La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 
 En una sucesión aritmética con primer término $a_1 = 16$ y diferencia $d = 9$, ¿cuál es el valor del quinto término ($a_5$)?
 
 ### Opciones
-- [x] A) $a_5 = 52$ <!-- feedback: Correcto. $a_5 = a_1 + 4d = 16 + 4(9) = 52$. -->
-- [ ] B) $a_5 = 61$ <!-- feedback: Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$. -->
-- [ ] C) $a_5 = 43$ <!-- feedback: Incorrecto. Restó una diferencia. -->
-- [ ] D) $a_5 = 144$ <!-- feedback: Incorrecto. Multiplicó los parámetros. -->
+- [x] D) $a_5 = 52$ <!-- feedback: Correcto. $a_5 = a_1 + 4d = 16 + 4(9) = 52$. -->
+- [ ] A) $a_5 = 61$ <!-- feedback: Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$. -->
+- [ ] B) $a_5 = 43$ <!-- feedback: Incorrecto. Restó una diferencia. -->
+- [ ] C) $a_5 = 144$ <!-- feedback: Incorrecto. Multiplicó los parámetros. -->
 
 ### Explicacion Pedagogica
 La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 16 + 4(9) = 52$.
@@ -204,10 +204,10 @@ La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 
 En una sucesión aritmética con primer término $a_1 = 18$ y diferencia $d = 10$, ¿cuál es el valor del quinto término ($a_5$)?
 
 ### Opciones
-- [x] A) $a_5 = 58$ <!-- feedback: Correcto. $a_5 = a_1 + 4d = 18 + 4(10) = 58$. -->
-- [ ] B) $a_5 = 68$ <!-- feedback: Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$. -->
-- [ ] C) $a_5 = 48$ <!-- feedback: Incorrecto. Restó una diferencia. -->
-- [ ] D) $a_5 = 180$ <!-- feedback: Incorrecto. Multiplicó los parámetros. -->
+- [x] D) $a_5 = 58$ <!-- feedback: Correcto. $a_5 = a_1 + 4d = 18 + 4(10) = 58$. -->
+- [ ] A) $a_5 = 68$ <!-- feedback: Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$. -->
+- [ ] B) $a_5 = 48$ <!-- feedback: Incorrecto. Restó una diferencia. -->
+- [ ] C) $a_5 = 180$ <!-- feedback: Incorrecto. Multiplicó los parámetros. -->
 
 ### Explicacion Pedagogica
 La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 18 + 4(10) = 58$.
@@ -225,8 +225,8 @@ La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 
 En una sucesión aritmética con primer término $a_1 = 20$ y diferencia $d = 11$, ¿cuál es el valor del quinto término ($a_5$)?
 
 ### Opciones
-- [x] A) $a_5 = 64$ <!-- feedback: Correcto. $a_5 = a_1 + 4d = 20 + 4(11) = 64$. -->
-- [ ] B) $a_5 = 75$ <!-- feedback: Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$. -->
+- [x] B) $a_5 = 64$ <!-- feedback: Correcto. $a_5 = a_1 + 4d = 20 + 4(11) = 64$. -->
+- [ ] A) $a_5 = 75$ <!-- feedback: Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$. -->
 - [ ] C) $a_5 = 53$ <!-- feedback: Incorrecto. Restó una diferencia. -->
 - [ ] D) $a_5 = 220$ <!-- feedback: Incorrecto. Multiplicó los parámetros. -->
 
@@ -288,8 +288,8 @@ La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 
 En una sucesión aritmética con primer término $a_1 = 26$ y diferencia $d = 14$, ¿cuál es el valor del quinto término ($a_5$)?
 
 ### Opciones
-- [x] A) $a_5 = 82$ <!-- feedback: Correcto. $a_5 = a_1 + 4d = 26 + 4(14) = 82$. -->
-- [ ] B) $a_5 = 96$ <!-- feedback: Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$. -->
+- [x] B) $a_5 = 82$ <!-- feedback: Correcto. $a_5 = a_1 + 4d = 26 + 4(14) = 82$. -->
+- [ ] A) $a_5 = 96$ <!-- feedback: Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$. -->
 - [ ] C) $a_5 = 68$ <!-- feedback: Incorrecto. Restó una diferencia. -->
 - [ ] D) $a_5 = 364$ <!-- feedback: Incorrecto. Multiplicó los parámetros. -->
 
@@ -309,8 +309,8 @@ La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 
 En una sucesión aritmética con primer término $a_1 = 28$ y diferencia $d = 15$, ¿cuál es el valor del quinto término ($a_5$)?
 
 ### Opciones
-- [x] A) $a_5 = 88$ <!-- feedback: Correcto. $a_5 = a_1 + 4d = 28 + 4(15) = 88$. -->
-- [ ] B) $a_5 = 103$ <!-- feedback: Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$. -->
+- [x] B) $a_5 = 88$ <!-- feedback: Correcto. $a_5 = a_1 + 4d = 28 + 4(15) = 88$. -->
+- [ ] A) $a_5 = 103$ <!-- feedback: Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$. -->
 - [ ] C) $a_5 = 73$ <!-- feedback: Incorrecto. Restó una diferencia. -->
 - [ ] D) $a_5 = 420$ <!-- feedback: Incorrecto. Multiplicó los parámetros. -->
 
@@ -330,10 +330,10 @@ La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 
 En una sucesión aritmética con primer término $a_1 = 30$ y diferencia $d = 16$, ¿cuál es el valor del quinto término ($a_5$)?
 
 ### Opciones
-- [x] A) $a_5 = 94$ <!-- feedback: Correcto. $a_5 = a_1 + 4d = 30 + 4(16) = 94$. -->
-- [ ] B) $a_5 = 110$ <!-- feedback: Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$. -->
-- [ ] C) $a_5 = 78$ <!-- feedback: Incorrecto. Restó una diferencia. -->
-- [ ] D) $a_5 = 480$ <!-- feedback: Incorrecto. Multiplicó los parámetros. -->
+- [x] D) $a_5 = 94$ <!-- feedback: Correcto. $a_5 = a_1 + 4d = 30 + 4(16) = 94$. -->
+- [ ] A) $a_5 = 110$ <!-- feedback: Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$. -->
+- [ ] B) $a_5 = 78$ <!-- feedback: Incorrecto. Restó una diferencia. -->
+- [ ] C) $a_5 = 480$ <!-- feedback: Incorrecto. Multiplicó los parámetros. -->
 
 ### Explicacion Pedagogica
 La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 30 + 4(16) = 94$.
@@ -393,9 +393,9 @@ La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 
 En una sucesión aritmética con primer término $a_1 = 36$ y diferencia $d = 19$, ¿cuál es el valor del quinto término ($a_5$)?
 
 ### Opciones
-- [x] A) $a_5 = 112$ <!-- feedback: Correcto. $a_5 = a_1 + 4d = 36 + 4(19) = 112$. -->
-- [ ] B) $a_5 = 131$ <!-- feedback: Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$. -->
-- [ ] C) $a_5 = 93$ <!-- feedback: Incorrecto. Restó una diferencia. -->
+- [x] C) $a_5 = 112$ <!-- feedback: Correcto. $a_5 = a_1 + 4d = 36 + 4(19) = 112$. -->
+- [ ] A) $a_5 = 131$ <!-- feedback: Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$. -->
+- [ ] B) $a_5 = 93$ <!-- feedback: Incorrecto. Restó una diferencia. -->
 - [ ] D) $a_5 = 684$ <!-- feedback: Incorrecto. Multiplicó los parámetros. -->
 
 ### Explicacion Pedagogica
@@ -435,9 +435,9 @@ La fórmula del término $n$-ésimo es $a_n = a_1 + (n-1)d$. Para $n=5$: $a_5 = 
 En una sucesión aritmética con primer término $a_1 = 40$ y diferencia $d = 21$, ¿cuál es el valor del quinto término ($a_5$)?
 
 ### Opciones
-- [x] A) $a_5 = 124$ <!-- feedback: Correcto. $a_5 = a_1 + 4d = 40 + 4(21) = 124$. -->
-- [ ] B) $a_5 = 145$ <!-- feedback: Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$. -->
-- [ ] C) $a_5 = 103$ <!-- feedback: Incorrecto. Restó una diferencia. -->
+- [x] C) $a_5 = 124$ <!-- feedback: Correcto. $a_5 = a_1 + 4d = 40 + 4(21) = 124$. -->
+- [ ] A) $a_5 = 145$ <!-- feedback: Incorrecto. Multiplicó por 5 en vez de $n-1 = 4$. -->
+- [ ] B) $a_5 = 103$ <!-- feedback: Incorrecto. Restó una diferencia. -->
 - [ ] D) $a_5 = 840$ <!-- feedback: Incorrecto. Multiplicó los parámetros. -->
 
 ### Explicacion Pedagogica

@@ -63,11 +63,11 @@ What is the Past Simple form of the verb "dance"?
 ### Opciones
 - [ ] A) danceed
   <!-- feedback: Incorrect. If the verb already ends in 'e', you only add 'd'. -->
-- [x] B) danced
+- [x] D) danced
   <!-- feedback: Correct! We just add 'd' to verbs ending in 'e'. -->
-- [ ] C) dancied
+- [ ] B) dancied
   <!-- feedback: Incorrect. This spelling change is for verbs ending in consonant + y. -->
-- [ ] D) dancen
+- [ ] C) dancen
   <!-- feedback: Incorrect. This is not a past tense form for this verb. -->
 
 ### Explicacion Pedagogica
@@ -88,9 +88,9 @@ Complete the sentence: "Last Saturday, I ________ soccer with my cousins." (Verb
 ### Opciones
 - [ ] A) play
   <!-- feedback: Incorrect. This is present tense. -->
-- [x] B) played
+- [x] C) played
   <!-- feedback: Correct! "Played" is the past simple of the regular verb "play". -->
-- [ ] C) plaied
+- [ ] B) plaied
   <!-- feedback: Incorrect. Since "play" ends in vowel + y, we don't change 'y' to 'i'. -->
 - [ ] D) playing
   <!-- feedback: Incorrect. This is the continuous form. -->
@@ -138,11 +138,11 @@ The student understands and distinguishes between temporal markers for past and 
 ### Opciones
 - [ ] A) watch
   <!-- feedback: Incorrect. Present tense. -->
-- [x] B) watched
+- [x] D) watched
   <!-- feedback: Correct! Past simple of the regular verb "watch". -->
-- [ ] C) watches
+- [ ] B) watches
   <!-- feedback: Incorrect. Present tense for third person singular. -->
-- [ ] D) watching
+- [ ] C) watching
   <!-- feedback: Incorrect. Present continuous. -->
 
 ### Explicacion Pedagogica
@@ -164,9 +164,9 @@ What did Elena do in the garden?
 ### Opciones
 - [ ] A) She visited her friends.
   <!-- feedback: Incorrect. She visited her grandparents. -->
-- [x] B) She helped her grandmother.
+- [x] C) She helped her grandmother.
   <!-- feedback: Correct! The text says "She helped her grandmother in the garden". -->
-- [ ] C) She studied for a test.
+- [ ] B) She studied for a test.
   <!-- feedback: Incorrect. This is not mentioned. -->
 - [ ] D) She played with her grandfather.
   <!-- feedback: Incorrect. She talked with him. -->
@@ -187,9 +187,9 @@ The student applies reading skills to identify specific actions expressed in the
 Complete: "I ________ for the exam all night." (Verb: study)
 
 ### Opciones
-- [ ] A) studyed
+- [ ] B) studyed
   <!-- feedback: Incorrect. Spelling error. -->
-- [x] B) studied
+- [x] A) studied
   <!-- feedback: Correct! Change 'y' to 'i' and add 'ed' for verbs ending in consonant + y. -->
 - [ ] C) studyied
   <!-- feedback: Incorrect. Incorrect spelling. -->
@@ -214,11 +214,11 @@ Which sentence is grammatically correct and makes sense?
 ### Opciones
 - [ ] A) Last night I wash my car and cleaned my house.
   <!-- feedback: Incorrect. "Wash" should be in the past: "washed". -->
-- [x] B) Last night I washed my car and cleaned my house.
+- [x] D) Last night I washed my car and cleaned my house.
   <!-- feedback: Correct! Both verbs are correctly conjugated in the past. -->
-- [ ] C) Last night I washed my car and clean my house.
+- [ ] B) Last night I washed my car and clean my house.
   <!-- feedback: Incorrect. Both verbs must be in the past tense to maintain consistency. -->
-- [ ] D) Last night I washing my car and cleaning my house.
+- [ ] C) Last night I washing my car and cleaning my house.
   <!-- feedback: Incorrect. Continuous forms without "was/were" are incomplete and don't fit a finished action. -->
 
 ### Explicacion Pedagogica
@@ -240,9 +240,9 @@ Which is the correct spelling?
 ### Opciones
 - [ ] A) stoped
   <!-- feedback: Incorrect. For CVC verbs, the last consonant must be doubled. -->
-- [x] B) stopped
+- [x] C) stopped
   <!-- feedback: Correct! Double the 'p' before adding -ed. -->
-- [ ] C) stopied
+- [ ] B) stopied
   <!-- feedback: Incorrect. This is only for 'y' endings. -->
 - [ ] D) stopping
   <!-- feedback: Incorrect. This is the present continuous. -->
@@ -268,9 +268,9 @@ Which of the following summaries accurately reflects the events of the story?
   <!-- feedback: Incorrect. They stayed for three days. -->
 - [ ] B) They only visited one museum.
   <!-- feedback: Incorrect. They visited "many museums". -->
-- [x] C) They arrived late, stayed for a few days, and explored the city.
+- [x] D) They arrived late, stayed for a few days, and explored the city.
   <!-- feedback: Correct! 10:00 PM is late, three days is a few days, and museums/walking are exploring. -->
-- [ ] D) They hated the trip.
+- [ ] C) They hated the trip.
   <!-- feedback: Incorrect. It says "the best trip ever". -->
 
 ### Explicacion Pedagogica

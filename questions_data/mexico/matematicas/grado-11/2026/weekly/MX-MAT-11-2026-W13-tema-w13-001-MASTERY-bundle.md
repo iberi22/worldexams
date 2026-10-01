@@ -30,11 +30,11 @@ creador: "Jules-Agent"
 En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 15 cm, ¿cuál es el perímetro del triángulo mayor?
 
 ### Opciones
-- [x] A) 20 cm
+- [x] C) 20 cm
   <!-- feedback: ¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3). -->
-- [ ] B) 26 cm
+- [ ] A) 26 cm
   <!-- feedback: Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro. -->
-- [ ] C) 30 cm
+- [ ] B) 30 cm
   <!-- feedback: Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4. -->
 - [ ] D) 22 cm
   <!-- feedback: Incorrecto. La relación es multiplicativa (proporcional), no una suma constante. -->
@@ -53,11 +53,11 @@ Dado que los triángulos son semejantes con una escala de lados correspondientes
 En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 18 cm, ¿cuál es el perímetro del triángulo mayor?
 
 ### Opciones
-- [x] A) 24 cm
+- [x] C) 24 cm
   <!-- feedback: ¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3). -->
-- [ ] B) 32 cm
+- [ ] A) 32 cm
   <!-- feedback: Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro. -->
-- [ ] C) 36 cm
+- [ ] B) 36 cm
   <!-- feedback: Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4. -->
 - [ ] D) 27 cm
   <!-- feedback: Incorrecto. La relación es multiplicativa (proporcional), no una suma constante. -->
@@ -76,11 +76,11 @@ Dado que los triángulos son semejantes con una escala de lados correspondientes
 En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 21 cm, ¿cuál es el perímetro del triángulo mayor?
 
 ### Opciones
-- [x] A) 28 cm
+- [x] C) 28 cm
   <!-- feedback: ¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3). -->
-- [ ] B) 37 cm
+- [ ] A) 37 cm
   <!-- feedback: Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro. -->
-- [ ] C) 42 cm
+- [ ] B) 42 cm
   <!-- feedback: Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4. -->
 - [ ] D) 31 cm
   <!-- feedback: Incorrecto. La relación es multiplicativa (proporcional), no una suma constante. -->
@@ -99,9 +99,9 @@ Dado que los triángulos son semejantes con una escala de lados correspondientes
 En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 24 cm, ¿cuál es el perímetro del triángulo mayor?
 
 ### Opciones
-- [x] A) 32 cm
+- [x] B) 32 cm
   <!-- feedback: ¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3). -->
-- [ ] B) 42 cm
+- [ ] A) 42 cm
   <!-- feedback: Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro. -->
 - [ ] C) 48 cm
   <!-- feedback: Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4. -->
@@ -122,11 +122,11 @@ Dado que los triángulos son semejantes con una escala de lados correspondientes
 En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 27 cm, ¿cuál es el perímetro del triángulo mayor?
 
 ### Opciones
-- [x] A) 36 cm
+- [x] C) 36 cm
   <!-- feedback: ¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3). -->
-- [ ] B) 48 cm
+- [ ] A) 48 cm
   <!-- feedback: Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro. -->
-- [ ] C) 54 cm
+- [ ] B) 54 cm
   <!-- feedback: Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4. -->
 - [ ] D) 40 cm
   <!-- feedback: Incorrecto. La relación es multiplicativa (proporcional), no una suma constante. -->
@@ -145,11 +145,11 @@ Dado que los triángulos son semejantes con una escala de lados correspondientes
 En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 30 cm, ¿cuál es el perímetro del triángulo mayor?
 
 ### Opciones
-- [x] A) 40 cm
+- [x] C) 40 cm
   <!-- feedback: ¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3). -->
-- [ ] B) 53 cm
+- [ ] A) 53 cm
   <!-- feedback: Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro. -->
-- [ ] C) 60 cm
+- [ ] B) 60 cm
   <!-- feedback: Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4. -->
 - [ ] D) 45 cm
   <!-- feedback: Incorrecto. La relación es multiplicativa (proporcional), no una suma constante. -->
@@ -168,11 +168,11 @@ Dado que los triángulos son semejantes con una escala de lados correspondientes
 En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 33 cm, ¿cuál es el perímetro del triángulo mayor?
 
 ### Opciones
-- [x] A) 44 cm
+- [x] C) 44 cm
   <!-- feedback: ¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3). -->
-- [ ] B) 58 cm
+- [ ] A) 58 cm
   <!-- feedback: Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro. -->
-- [ ] C) 66 cm
+- [ ] B) 66 cm
   <!-- feedback: Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4. -->
 - [ ] D) 49 cm
   <!-- feedback: Incorrecto. La relación es multiplicativa (proporcional), no una suma constante. -->
@@ -237,13 +237,13 @@ Dado que los triángulos son semejantes con una escala de lados correspondientes
 En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 42 cm, ¿cuál es el perímetro del triángulo mayor?
 
 ### Opciones
-- [x] A) 56 cm
+- [x] D) 56 cm
   <!-- feedback: ¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3). -->
-- [ ] B) 74 cm
+- [ ] A) 74 cm
   <!-- feedback: Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro. -->
-- [ ] C) 84 cm
+- [ ] B) 84 cm
   <!-- feedback: Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4. -->
-- [ ] D) 63 cm
+- [ ] C) 63 cm
   <!-- feedback: Incorrecto. La relación es multiplicativa (proporcional), no una suma constante. -->
 
 ### Explicacion Pedagogica
@@ -306,9 +306,9 @@ Dado que los triángulos son semejantes con una escala de lados correspondientes
 En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 51 cm, ¿cuál es el perímetro del triángulo mayor?
 
 ### Opciones
-- [x] A) 68 cm
+- [x] B) 68 cm
   <!-- feedback: ¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3). -->
-- [ ] B) 90 cm
+- [ ] A) 90 cm
   <!-- feedback: Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro. -->
 - [ ] C) 102 cm
   <!-- feedback: Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4. -->
@@ -329,13 +329,13 @@ Dado que los triángulos son semejantes con una escala de lados correspondientes
 En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 54 cm, ¿cuál es el perímetro del triángulo mayor?
 
 ### Opciones
-- [x] A) 72 cm
+- [x] D) 72 cm
   <!-- feedback: ¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3). -->
-- [ ] B) 96 cm
+- [ ] A) 96 cm
   <!-- feedback: Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro. -->
-- [ ] C) 108 cm
+- [ ] B) 108 cm
   <!-- feedback: Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4. -->
-- [ ] D) 81 cm
+- [ ] C) 81 cm
   <!-- feedback: Incorrecto. La relación es multiplicativa (proporcional), no una suma constante. -->
 
 ### Explicacion Pedagogica
@@ -375,11 +375,11 @@ Dado que los triángulos son semejantes con una escala de lados correspondientes
 En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 60 cm, ¿cuál es el perímetro del triángulo mayor?
 
 ### Opciones
-- [x] A) 80 cm
+- [x] C) 80 cm
   <!-- feedback: ¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3). -->
-- [ ] B) 106 cm
+- [ ] A) 106 cm
   <!-- feedback: Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro. -->
-- [ ] C) 120 cm
+- [ ] B) 120 cm
   <!-- feedback: Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4. -->
 - [ ] D) 90 cm
   <!-- feedback: Incorrecto. La relación es multiplicativa (proporcional), no una suma constante. -->
@@ -398,9 +398,9 @@ Dado que los triángulos son semejantes con una escala de lados correspondientes
 En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 63 cm, ¿cuál es el perímetro del triángulo mayor?
 
 ### Opciones
-- [x] A) 84 cm
+- [x] B) 84 cm
   <!-- feedback: ¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3). -->
-- [ ] B) 112 cm
+- [ ] A) 112 cm
   <!-- feedback: Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro. -->
 - [ ] C) 126 cm
   <!-- feedback: Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4. -->
@@ -421,13 +421,13 @@ Dado que los triángulos son semejantes con una escala de lados correspondientes
 En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 66 cm, ¿cuál es el perímetro del triángulo mayor?
 
 ### Opciones
-- [x] A) 88 cm
+- [x] D) 88 cm
   <!-- feedback: ¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3). -->
-- [ ] B) 117 cm
+- [ ] A) 117 cm
   <!-- feedback: Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro. -->
-- [ ] C) 132 cm
+- [ ] B) 132 cm
   <!-- feedback: Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4. -->
-- [ ] D) 99 cm
+- [ ] C) 99 cm
   <!-- feedback: Incorrecto. La relación es multiplicativa (proporcional), no una suma constante. -->
 
 ### Explicacion Pedagogica
@@ -444,11 +444,11 @@ Dado que los triángulos son semejantes con una escala de lados correspondientes
 En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 69 cm, ¿cuál es el perímetro del triángulo mayor?
 
 ### Opciones
-- [x] A) 92 cm
+- [x] C) 92 cm
   <!-- feedback: ¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3). -->
-- [ ] B) 122 cm
+- [ ] A) 122 cm
   <!-- feedback: Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro. -->
-- [ ] C) 138 cm
+- [ ] B) 138 cm
   <!-- feedback: Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4. -->
 - [ ] D) 103 cm
   <!-- feedback: Incorrecto. La relación es multiplicativa (proporcional), no una suma constante. -->
@@ -467,13 +467,13 @@ Dado que los triángulos son semejantes con una escala de lados correspondientes
 En dos triángulos semejantes, sus lados correspondientes están en la razón 3:4. Si el perímetro del triángulo menor es de 72 cm, ¿cuál es el perímetro del triángulo mayor?
 
 ### Opciones
-- [x] A) 96 cm
+- [x] D) 96 cm
   <!-- feedback: ¡Correcto! En figuras semejantes, el perímetro varía en la misma razón lineal. Por tanto, el perímetro del triángulo mayor es Perímetro_menor * (4/3). -->
-- [ ] B) 128 cm
+- [ ] A) 128 cm
   <!-- feedback: Incorrecto. Esto corresponde a la razón de las áreas (que varía con el cuadrado de la semejanza), no al perímetro. -->
-- [ ] C) 144 cm
+- [ ] B) 144 cm
   <!-- feedback: Incorrecto. Esta sería una escala de duplicación (1:2), que no corresponde a la relación 3:4. -->
-- [ ] D) 108 cm
+- [ ] C) 108 cm
   <!-- feedback: Incorrecto. La relación es multiplicativa (proporcional), no una suma constante. -->
 
 ### Explicacion Pedagogica

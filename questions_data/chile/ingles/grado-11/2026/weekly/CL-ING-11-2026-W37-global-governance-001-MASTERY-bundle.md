@@ -36,8 +36,8 @@ Global governance refers to the way in which global affairs are managed through 
 
 ### Opciones
 - [ ] A) Anarchy <!-- feedback: Incorrect. Global governance aims to prevent anarchy. -->
-- [x] B) Global governance <!-- feedback: Correct. The term for managing global issues through cooperation. -->
-- [ ] C) Dictatorship <!-- feedback: Incorrect. This refers to absolute rule by one. -->
+- [x] C) Global governance <!-- feedback: Correct. The term for managing global issues through cooperation. -->
+- [ ] B) Dictatorship <!-- feedback: Incorrect. This refers to absolute rule by one. -->
 - [ ] D) Isolationism <!-- feedback: Incorrect. The opposite of cooperation. -->
 
 ### Explicacion Pedagogica
@@ -56,8 +56,8 @@ International laws are being developed to address emerging challenges like cyber
 
 ### Opciones
 - [ ] A) are developing <!-- feedback: Incorrect. Active voice. -->
-- [x] B) are being developed <!-- feedback: Correct. Present continuous passive for an ongoing legislative process. -->
-- [ ] C) developed <!-- feedback: Incorrect. Past simple. -->
+- [x] C) are being developed <!-- feedback: Correct. Present continuous passive for an ongoing legislative process. -->
+- [ ] B) developed <!-- feedback: Incorrect. Past simple. -->
 - [ ] D) have developed <!-- feedback: Incorrect. Active voice. -->
 
 ### Explicacion Pedagogica
@@ -75,8 +75,8 @@ The present continuous passive describes the current and active process of creat
 If the United Nations hadn't been founded, international cooperation might have been much more difficult to achieve.
 
 ### Opciones
-- [ ] A) wasn't founded <!-- feedback: Incorrect. Second conditional. -->
-- [x] B) hadn't been founded <!-- feedback: Correct. Third conditional for hypothetical past condition. -->
+- [ ] B) wasn't founded <!-- feedback: Incorrect. Second conditional. -->
+- [x] A) hadn't been founded <!-- feedback: Correct. Third conditional for hypothetical past condition. -->
 - [ ] C) isn't founded <!-- feedback: Incorrect. Present. -->
 - [ ] D) wouldn't be founded <!-- feedback: Incorrect. 'Would' not used in 'if' clause. -->
 
@@ -95,9 +95,9 @@ The third conditional is used to speculate about how the absence of a past histo
 The ICC has the jurisdiction to prosecute individuals for international crimes such as genocide and war crimes.
 
 ### Opciones
-- [x] A) prosecute <!-- feedback: Correct. To prosecute means to institute legal proceedings against a person. -->
-- [ ] B) ignore <!-- feedback: Incorrect. The ICC exists to take action. -->
-- [ ] C) support <!-- feedback: Incorrect. The ICC aims to punish crimes, not support perpetrators. -->
+- [x] C) prosecute <!-- feedback: Correct. To prosecute means to institute legal proceedings against a person. -->
+- [ ] A) ignore <!-- feedback: Incorrect. The ICC exists to take action. -->
+- [ ] B) support <!-- feedback: Incorrect. The ICC aims to punish crimes, not support perpetrators. -->
 - [ ] D) celebrate <!-- feedback: Incorrect. Unrelated to the legal function. -->
 
 ### Explicacion Pedagogica
@@ -115,8 +115,8 @@ The ICC has the jurisdiction to prosecute individuals for international crimes s
 Multilateralism involves multiple countries working together on a given issue, emphasizing collective action and mutual respect.
 
 ### Opciones
-- [ ] A) Unilateralism <!-- feedback: Incorrect. Unilateralism is one country acting alone. -->
-- [x] B) Multilateralism <!-- feedback: Correct. Specific term for multi-country cooperation. -->
+- [ ] B) Unilateralism <!-- feedback: Incorrect. Unilateralism is one country acting alone. -->
+- [x] A) Multilateralism <!-- feedback: Correct. Specific term for multi-country cooperation. -->
 - [ ] C) Bilateralism <!-- feedback: Incorrect. Bilateralism involves only two countries. -->
 - [ ] D) Isolationism <!-- feedback: Incorrect. Avoids international cooperation. -->
 
@@ -135,8 +135,8 @@ Multilateralism involves multiple countries working together on a given issue, e
 The WHO (World Health Organization) is responsible for international public health and coordinating global responses to pandemics.
 
 ### Opciones
-- [ ] A) trade <!-- feedback: Incorrect. This is the WTO. -->
-- [x] B) health <!-- feedback: Correct. The core focus of the WHO. -->
+- [ ] B) trade <!-- feedback: Incorrect. This is the WTO. -->
+- [x] A) health <!-- feedback: Correct. The core focus of the WHO. -->
 - [ ] C) climate <!-- feedback: Incorrect. While related, health is the primary mandate. -->
 - [ ] D) education <!-- feedback: Incorrect. This is usually UNESCO's role. -->
 
@@ -155,10 +155,10 @@ The WHO (World Health Organization) is responsible for international public heal
 It is suggested that the UN Security Council be reformed to better reflect the modern geopolitical reality.
 
 ### Opciones
-- [x] A) be reformed <!-- feedback: Correct. Subjunctive passive after 'suggested'. -->
-- [ ] B) is reformed <!-- feedback: Incorrect. Subjunctive uses base form 'be'. -->
-- [ ] C) to be reformed <!-- feedback: Incorrect. Doesn't fit 'that' clause. -->
-- [ ] D) being reformed <!-- feedback: Incorrect. -->
+- [x] D) be reformed <!-- feedback: Correct. Subjunctive passive after 'suggested'. -->
+- [ ] A) is reformed <!-- feedback: Incorrect. Subjunctive uses base form 'be'. -->
+- [ ] B) to be reformed <!-- feedback: Incorrect. Doesn't fit 'that' clause. -->
+- [ ] C) being reformed <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
 The subjunctive passive 'be + past participle' is used after verbs of suggestion like 'suggest'.
@@ -176,9 +176,9 @@ Reaching a consensus in international negotiations can be difficult, as it requi
 
 ### Opciones
 - [ ] A) conflict <!-- feedback: Incorrect. Negotiations aim to resolve conflict. -->
-- [x] B) consensus <!-- feedback: Correct. A general agreement. -->
-- [ ] C) division <!-- feedback: Incorrect. Consensus overcomes division. -->
-- [ ] D) rumor <!-- feedback: Incorrect. -->
+- [x] D) consensus <!-- feedback: Correct. A general agreement. -->
+- [ ] B) division <!-- feedback: Incorrect. Consensus overcomes division. -->
+- [ ] C) rumor <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
 'Consensus' is the term for a broad agreement that is sought in international diplomatic meetings.
@@ -196,9 +196,9 @@ Diplomats had been working on the treaty for months before they finally reached 
 
 ### Opciones
 - [ ] A) were working <!-- feedback: Incorrect. Past continuous. -->
-- [x] B) had been working <!-- feedback: Correct. Past perfect continuous for duration leading up to a past event. -->
-- [ ] C) have been working <!-- feedback: Incorrect. Present perfect continuous. -->
-- [ ] D) work <!-- feedback: Incorrect. Present simple. -->
+- [x] D) had been working <!-- feedback: Correct. Past perfect continuous for duration leading up to a past event. -->
+- [ ] B) have been working <!-- feedback: Incorrect. Present perfect continuous. -->
+- [ ] C) work <!-- feedback: Incorrect. Present simple. -->
 
 ### Explicacion Pedagogica
 The past perfect continuous highlights the extended and persistent effort preceding the final result.
@@ -216,8 +216,8 @@ Critics argue that international institutions are often slowed down by excessive
 
 ### Opciones
 - [ ] A) speed <!-- feedback: Incorrect. Bureaucracy usually slows things down. -->
-- [x] B) bureaucracy <!-- feedback: Correct. A system of government in which most decisions are made by state officials rather than by elected representatives. -->
-- [ ] C) efficiency <!-- feedback: Incorrect. Bureaucracy is often seen as the opposite of efficiency. -->
+- [x] C) bureaucracy <!-- feedback: Correct. A system of government in which most decisions are made by state officials rather than by elected representatives. -->
+- [ ] B) efficiency <!-- feedback: Incorrect. Bureaucracy is often seen as the opposite of efficiency. -->
 - [ ] D) creativity <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
@@ -235,8 +235,8 @@ Critics argue that international institutions are often slowed down by excessive
 Sanctions are commercial and financial penalties applied by one or more countries against a self-governing state, group, or individual.
 
 ### Opciones
-- [ ] A) Gifts <!-- feedback: Incorrect. -->
-- [x] B) Sanctions <!-- feedback: Correct. Specific term for international penalties. -->
+- [ ] B) Gifts <!-- feedback: Incorrect. -->
+- [x] A) Sanctions <!-- feedback: Correct. Specific term for international penalties. -->
 - [ ] C) Awards <!-- feedback: Incorrect. Sanctions are punishments. -->
 - [ ] D) Subsidies <!-- feedback: Incorrect. Financial support. -->
 
@@ -255,8 +255,8 @@ Sanctions are commercial and financial penalties applied by one or more countrie
 By 2040, a more integrated system of global environmental governance will have been established.
 
 ### Opciones
-- [ ] A) will establish <!-- feedback: Incorrect. Active voice. -->
-- [x] B) will have been established <!-- feedback: Correct. Future perfect passive for a completed state in the future. -->
+- [ ] B) will establish <!-- feedback: Incorrect. Active voice. -->
+- [x] A) will have been established <!-- feedback: Correct. Future perfect passive for a completed state in the future. -->
 - [ ] C) is established <!-- feedback: Incorrect. Present simple. -->
 - [ ] D) establishing <!-- feedback: Incorrect. Gerund. -->
 
@@ -296,8 +296,8 @@ If the pandemic hadn't been handled through international cooperation, the death
 
 ### Opciones
 - [ ] A) wasn't handled <!-- feedback: Incorrect. Second conditional. -->
-- [x] B) hadn't been handled <!-- feedback: Correct. Third conditional passive for hypothetical past. -->
-- [ ] C) hasn't been handled <!-- feedback: Incorrect. Present perfect. -->
+- [x] C) hadn't been handled <!-- feedback: Correct. Third conditional passive for hypothetical past. -->
+- [ ] B) hasn't been handled <!-- feedback: Incorrect. Present perfect. -->
 - [ ] D) isn't handled <!-- feedback: Incorrect. Present. -->
 
 ### Explicacion Pedagogica
@@ -315,8 +315,8 @@ The third conditional passive allows for the evaluation of the effectiveness of 
 The author concludes that international norms can be as powerful as formal laws in influencing state behavior.
 
 ### Opciones
-- [ ] A) unimportant <!-- feedback: Incorrect. -->
-- [x] B) norms <!-- feedback: Correct. International norms are informal standard of behavior. -->
+- [ ] B) unimportant <!-- feedback: Incorrect. -->
+- [x] A) norms <!-- feedback: Correct. International norms are informal standard of behavior. -->
 - [ ] C) rumors <!-- feedback: Incorrect. Informal but not standard. -->
 - [ ] D) slogans <!-- feedback: Incorrect. Marketing. -->
 
@@ -335,8 +335,8 @@ The author concludes that international norms can be as powerful as formal laws 
 A special envoy is a diplomatic representative who is sent by a government or organization on a specific mission.
 
 ### Opciones
-- [ ] A) tourist <!-- feedback: Incorrect. -->
-- [x] B) envoy <!-- feedback: Correct. Formal term for a mission-specific representative. -->
+- [ ] B) tourist <!-- feedback: Incorrect. -->
+- [x] A) envoy <!-- feedback: Correct. Formal term for a mission-specific representative. -->
 - [ ] C) spy <!-- feedback: Incorrect. Secret. -->
 - [ ] D) refugee <!-- feedback: Incorrect. -->
 
@@ -356,8 +356,8 @@ I wish that the world's major powers would cooperate more on climate issues.
 
 ### Opciones
 - [ ] A) cooperate <!-- feedback: Incorrect. 'Wish' for future change needs 'would'. -->
-- [x] B) would cooperate <!-- feedback: Correct. 'Wish + would' for a desired change in others' behavior. -->
-- [ ] C) cooperated <!-- feedback: Incorrect. Present state desire. -->
+- [x] C) would cooperate <!-- feedback: Correct. 'Wish + would' for a desired change in others' behavior. -->
+- [ ] B) cooperated <!-- feedback: Incorrect. Present state desire. -->
 - [ ] D) have cooperated <!-- feedback: Incorrect. Past regret. -->
 
 ### Explicacion Pedagogica
@@ -395,8 +395,8 @@ Global public goods, such as clean air and scientific knowledge, benefit all of 
 The Secretary-General announced that the organization would be doubling its efforts to combat poverty.
 
 ### Opciones
-- [ ] A) will <!-- feedback: Incorrect. Backshifted in reported speech. -->
-- [x] B) would be <!-- feedback: Correct. Backshifted from 'will be' to 'would be' in reported speech. -->
+- [ ] B) will <!-- feedback: Incorrect. Backshifted in reported speech. -->
+- [x] A) would be <!-- feedback: Correct. Backshifted from 'will be' to 'would be' in reported speech. -->
 - [ ] C) is <!-- feedback: Incorrect. Present. -->
 - [ ] D) have been <!-- feedback: Incorrect. -->
 
@@ -415,9 +415,9 @@ In reported speech, we change 'will' to 'would' when reporting a future intentio
 Ultimately, global governance is a necessary framework for maintaining international order and fostering human progress.
 
 ### Opciones
-- [x] A) framework <!-- feedback: Correct. A framework is a basic structure underlying a system. -->
-- [ ] B) distraction <!-- feedback: Incorrect. Necessary implies it's essential, not a distraction. -->
-- [ ] C) source of conflict <!-- feedback: Incorrect. It aims to reduce conflict. -->
+- [x] C) framework <!-- feedback: Correct. A framework is a basic structure underlying a system. -->
+- [ ] A) distraction <!-- feedback: Incorrect. Necessary implies it's essential, not a distraction. -->
+- [ ] B) source of conflict <!-- feedback: Incorrect. It aims to reduce conflict. -->
 - [ ] D) barrier to trade <!-- feedback: Incorrect. It often facilitates trade. -->
 
 ### Explicacion Pedagogica

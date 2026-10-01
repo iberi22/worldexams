@@ -37,9 +37,9 @@ bundle_index: 1
 ### Opciones
 - [ ] A) Dos ángulos de dirección.
   <!-- feedback: Incorrecto. Los ángulos solo dan la dirección, pero no la posición en el espacio. -->
-- [x] B) Un punto por el que pasa y un vector director (o dos puntos distintos).
+- [x] C) Un punto por el que pasa y un vector director (o dos puntos distintos).
   <!-- feedback: Correcto. El punto establece la posición y el vector director establece la inclinación y orientación. -->
-- [ ] C) Tres puntos cualesquiera.
+- [ ] B) Tres puntos cualesquiera.
   <!-- feedback: Incorrecto. Si no son colineales, tres puntos definen un plano, no una recta. -->
 - [ ] D) Una ecuación de primer grado con tres variables $ax + by + cz = d$.
   <!-- feedback: Incorrecto. Esta ecuación representa un plano, no una recta en R³. -->
@@ -60,9 +60,9 @@ Definición geométrica de la recta en R³ basada en la traslación de un punto 
 ¿Cuál es la forma de la ecuación paramétrica de una recta que pasa por $P(x_0, y_0, z_0)$ con vector director $\vec{v} = (a, b, c)$?
 
 ### Opciones
-- [ ] A) $ax + by + cz = d$
+- [ ] B) $ax + by + cz = d$
   <!-- feedback: Incorrecto. Esta es la forma general de un plano. -->
-- [x] B) $x = x_0 + at, y = y_0 + bt, z = z_0 + ct$
+- [x] A) $x = x_0 + at, y = y_0 + bt, z = z_0 + ct$
   <!-- feedback: Correcto. Cada coordenada se expresa en función de un parámetro real $t$. -->
 - [ ] C) $\frac{x-x_0}{a} = \frac{y-y_0}{b} = \frac{z-z_0}{c}$
   <!-- feedback: Incorrecto. Esta es la forma simétrica o continua, no la paramétrica. -->
@@ -85,9 +85,9 @@ Identificación de las diferentes representaciones analíticas de una recta en e
 ¿Cuál es un vector director de esta trayectoria?
 
 ### Opciones
-- [ ] A) $(5, 4, 8)$
+- [ ] B) $(5, 4, 8)$
   <!-- feedback: Incorrecto. Sumó las coordenadas en lugar de restarlas. -->
-- [x] B) $(3, 0, 2)$
+- [x] A) $(3, 0, 2)$
   <!-- feedback: Correcto. Se obtiene restando las coordenadas de los puntos: $(4-1, 2-2, 5-3) = (3, 0, 2)$. -->
 - [ ] C) $(1, 2, 3)$
   <!-- feedback: Incorrecto. Este es un punto de posición, no un vector de dirección. -->
@@ -141,9 +141,9 @@ Validación de puntos en una recta mediante la resolución del sistema de ecuaci
 ### Opciones
 - [ ] A) Un vector contenido en el plano.
   <!-- feedback: Incorrecto. Los vectores contenidos son perpendiculares a este vector. -->
-- [x] B) Un vector normal (perpendicular) al plano.
+- [x] C) Un vector normal (perpendicular) al plano.
   <!-- feedback: Correcto. Los coeficientes de las variables definen la orientación del plano mediante su normal. -->
-- [ ] C) El punto de intersección con el origen.
+- [ ] B) El punto de intersección con el origen.
   <!-- feedback: Incorrecto. El origen solo pertenece al plano si $d=0$. -->
 - [ ] D) La pendiente del plano respecto al eje x.
   <!-- feedback: Incorrecto. Los planos en el espacio no se describen con una única pendiente. -->
@@ -166,9 +166,9 @@ Halle la ecuación del plano que pasa por $P(1, 2, 3)$ y tiene como vector norma
 ### Opciones
 - [ ] A) $x + 2y + 3z = 32$
   <!-- feedback: Incorrecto. Usó el punto como normal. -->
-- [ ] B) $4x + 5y + 6z = 0$
+- [ ] C) $4x + 5y + 6z = 0$
   <!-- feedback: Incorrecto. Este plano pasa por el origen, no por el punto P. -->
-- [x] C) $4x + 5y + 6z = 32$
+- [x] B) $4x + 5y + 6z = 32$
   <!-- feedback: Correcto. $4(1) + 5(2) + 6(3) = 4 + 10 + 18 = 32$. -->
 - [ ] D) $4x + 5y + 6z = 15$
   <!-- feedback: Incorrecto. Error en la suma de los productos punto. -->
@@ -193,9 +193,9 @@ Construcción de la ecuación general del plano aplicando el producto escalar en
   <!-- feedback: Incorrecto. No consideró el coeficiente de z. -->
 - [ ] B) $(6, 0, 0)$
   <!-- feedback: Incorrecto. Este es el corte con el eje x. -->
-- [x] C) $(0, 0, 3)$
+- [x] D) $(0, 0, 3)$
   <!-- feedback: Correcto. En el eje z, $x=0$ e $y=0$. Entonces $4z = 12 \Rightarrow z = 3$. -->
-- [ ] D) $(0, 0, -4)$
+- [ ] C) $(0, 0, -4)$
   <!-- feedback: Incorrecto. Error en la división o en el signo. -->
 
 ### Explicacion Pedagogica
@@ -214,11 +214,11 @@ Determinación de las intersecciones de un plano con los ejes coordenados median
 ¿Cuál es el vector director de la viga de soporte?
 
 ### Opciones
-- [x] A) $(1, 1, 1)$
+- [x] C) $(1, 1, 1)$
   <!-- feedback: Correcto. Si la recta es perpendicular al plano, su vector director debe ser paralelo (o igual) al vector normal del plano. -->
-- [ ] B) $(10, 10, 10)$
+- [ ] A) $(10, 10, 10)$
   <!-- feedback: Incorrecto. Aunque tiene la misma dirección, no es la forma simplificada del normal. -->
-- [ ] C) $(-1, -1, -1)$
+- [ ] B) $(-1, -1, -1)$
   <!-- feedback: Incorrecto. Aunque también es perpendicular, el normal estándar se toma de los coeficientes positivos. -->
 - [ ] D) $(1, 0, 0)$
   <!-- feedback: Incorrecto. Este vector no es normal al plano dado. -->
@@ -266,9 +266,9 @@ Cálculo de ángulos entre superficies planas mediante el análisis del producto
 ### Opciones
 - [ ] A) 10
   <!-- feedback: Incorrecto. Olvidó dividir por la magnitud de la normal. -->
-- [x] B) 2
+- [x] C) 2
   <!-- feedback: Correcto. Distancia = $\frac{|3(0) + 4(0) - 10|}{\sqrt{3^2 + 4^2}} = \frac{10}{5} = 2$. -->
-- [ ] C) 2.5
+- [ ] B) 2.5
   <!-- feedback: Incorrecto. Error en el cálculo de la raíz cuadrada. -->
 - [ ] D) 0
   <!-- feedback: Incorrecto. El origen no pertenece al plano ($0 \neq 10$). -->
@@ -295,9 +295,9 @@ Aplicación de la fórmula de distancia punto-plano para calcular la separación
 ### Opciones
 - [ ] A) Rectas secantes.
   <!-- feedback: Incorrecto. Las secantes se cortan en un punto. -->
-- [ ] B) Rectas coincidentes.
+- [ ] C) Rectas coincidentes.
   <!-- feedback: Incorrecto. Estas son la misma recta. -->
-- [x] C) Rectas que se cruzan (o alabeadas).
+- [x] B) Rectas que se cruzan (o alabeadas).
   <!-- feedback: Correcto. Esta es una situación exclusiva del espacio R³ donde las rectas están en planos diferentes. -->
 - [ ] D) Rectas ortogonales.
   <!-- feedback: Incorrecto. La ortogonalidad no excluye que las rectas sean secantes. -->
@@ -320,9 +320,9 @@ Diferenciación entre las posiciones relativas de rectas en el espacio, introduc
 ### Opciones
 - [ ] A) (1, 1, 1)
   <!-- feedback: Incorrecto. La suma $1+2+3=6 \neq 12$. -->
-- [x] B) (2, 2, 2)
+- [x] C) (2, 2, 2)
   <!-- feedback: Correcto. Sustituyendo en el plano: $t + 2t + 3t = 12 \Rightarrow 6t = 12 \Rightarrow t = 2$. Punto $(2, 2, 2)$. -->
-- [ ] C) (3, 3, 3)
+- [ ] B) (3, 3, 3)
   <!-- feedback: Incorrecto. La suma $3+6+9=18 \neq 12$. -->
 - [ ] D) No hay intersección.
   <!-- feedback: Incorrecto. La recta no es paralela al plano. -->
@@ -345,9 +345,9 @@ Resolución de sistemas mixtos (recta-plano) mediante la sustitución de las exp
 ### Opciones
 - [ ] A) $2x + y + 3z = 4$
   <!-- feedback: Incorrecto. El cambio de signo en y cambia la dirección de la normal. -->
-- [x] B) $4x - 2y + 6z = 10$
+- [x] C) $4x - 2y + 6z = 10$
   <!-- feedback: Correcto. La normal $(4, -2, 6)$ es exactamente el doble de $(2, -1, 3)$. -->
-- [ ] C) $x - y + z = 4$
+- [ ] B) $x - y + z = 4$
   <!-- feedback: Incorrecto. Normales no proporcionales. -->
 - [ ] D) $2x + y + 3z = 0$
   <!-- feedback: Incorrecto. Al cambiar el signo de la componente y, el vector normal deja de ser paralelo al original. -->
@@ -370,11 +370,11 @@ Identificación de paralelismo entre superficies mediante la comparación de sus
 ### Opciones
 - [ ] A) $x + y + z = 0$
   <!-- feedback: Incorrecto. No pasa por ninguno de los puntos dados. -->
-- [x] B) $x + y + z = 1$
+- [x] D) $x + y + z = 1$
   <!-- feedback: Correcto. Al sustituir cada punto $(1,0,0), (0,1,0), (0,0,1)$ se cumple la igualdad $1=1$. -->
-- [ ] C) $x + y + z = 3$
+- [ ] B) $x + y + z = 3$
   <!-- feedback: Incorrecto. Suma de coordenadas incorrecta para los puntos dados. -->
-- [ ] D) $xyz = 1$
+- [ ] C) $xyz = 1$
   <!-- feedback: Incorrecto. Esta no es una ecuación lineal y no representa un plano. -->
 
 ### Explicacion Pedagogica
@@ -395,9 +395,9 @@ Uso de la forma segmentaria del plano para determinar superficies que cortan a l
 ### Opciones
 - [ ] A) Un punto.
   <!-- feedback: Incorrecto. Eso ocurre en la intersección de tres planos o recta-plano. -->
-- [x] B) Una recta.
+- [x] C) Una recta.
   <!-- feedback: Correcto. La solución de un sistema de dos ecuaciones con tres incógnitas suele tener un grado de libertad (parámetro). -->
-- [ ] C) Otro plano.
+- [ ] B) Otro plano.
   <!-- feedback: Incorrecto. Solo si los planos son coincidentes. -->
 - [ ] D) Un segmento de curva.
   <!-- feedback: Incorrecto. La intersección de superficies lineales siempre es lineal. -->
@@ -420,11 +420,11 @@ Interpretación de los sistemas de ecuaciones lineales desde una perspectiva geo
 ### Opciones
 - [ ] A) Solo el producto escalar.
   <!-- feedback: Incorrecto. El producto escalar ayuda a hallar la proyección, pero la distancia requiere más pasos. -->
-- [x] B) La magnitud del producto vectorial entre el vector director y el vector $P_0P$.
+- [x] D) La magnitud del producto vectorial entre el vector director y el vector $P_0P$.
   <!-- feedback: Correcto. La fórmula $d = \frac{|\vec{v} \times \vec{P_0P}|}{|\vec{v}|}$ da la distancia perpendicular. -->
-- [ ] C) La suma de las distancias a los ejes.
+- [ ] B) La suma de las distancias a los ejes.
   <!-- feedback: Incorrecto. No considera la orientación de la recta. -->
-- [ ] D) El determinante de la matriz de posición.
+- [ ] C) El determinante de la matriz de posición.
   <!-- feedback: Incorrecto. El determinante por sí solo no da una distancia lineal. -->
 
 ### Explicacion Pedagogica
@@ -449,9 +449,9 @@ Si dos rectas $r_1$ y $r_2$ en el espacio tienen vectores directores no paralelo
 ### Opciones
 - [ ] A) Que sus vectores directores sean perpendiculares.
   <!-- feedback: Incorrecto. Pueden ser perpendiculares y estar a diferentes alturas (alabeadas). -->
-- [x] B) Que el determinante formado por sus vectores directores y el vector entre sus puntos de paso sea cero.
+- [x] C) Que el determinante formado por sus vectores directores y el vector entre sus puntos de paso sea cero.
   <!-- feedback: Correcto. Esto indica que los tres vectores son coplanares, obligando a las rectas a estar en el mismo plano y cortarse. -->
-- [ ] C) Que pasen por el origen.
+- [ ] B) Que pasen por el origen.
   <!-- feedback: Incorrecto. Esta es una condición suficiente pero no necesaria. -->
 - [ ] D) Que tengan la misma magnitud.
   <!-- feedback: Incorrecto. La magnitud de los vectores directores no afecta la intersección. -->
@@ -497,9 +497,9 @@ Cálculo de la dirección de una recta de intersección utilizando la ortogonali
 ¿Cuál es la fórmula para la distancia mínima entre estas dos rectas?
 
 ### Opciones
-- [x] A) $d = \frac{|(\vec{v_1} \times \vec{v_2}) \cdot \vec{P_1P_2}|}{|\vec{v_1} \times \vec{v_2}|}$
+- [x] B) $d = \frac{|(\vec{v_1} \times \vec{v_2}) \cdot \vec{P_1P_2}|}{|\vec{v_1} \times \vec{v_2}|}$
   <!-- feedback: Correcto. Es la proyección del vector entre puntos sobre la normal común a ambas rectas. -->
-- [ ] B) $d = |\vec{P_1P_2}|$
+- [ ] A) $d = |\vec{P_1P_2}|$
   <!-- feedback: Incorrecto. Esta es la distancia entre dos puntos específicos, no el mínimo entre las rectas. -->
 - [ ] C) $d = \frac{|\vec{v_1} \cdot \vec{v_2}|}{|\vec{v_1}| |\vec{v_2}|}$
   <!-- feedback: Incorrecto. Esto se relaciona con el coseno del ángulo, no con una distancia. -->
@@ -524,9 +524,9 @@ Uso del triple producto escalar y el producto vectorial para determinar la separ
 ### Opciones
 - [ ] A) $z = 0$
   <!-- feedback: Incorrecto. El plano debe contener la recta y no puede ser el mismo plano XY si debe ser perpendicular a él. -->
-- [x] B) $x - y = 0$
+- [x] C) $x - y = 0$
   <!-- feedback: Correcto. Contiene a la recta (si $x=y=t, z=0$, entonces $t-t=0$). Su normal $(1, -1, 0)$ es perpendicular a la normal de $z=0$ (que es $(0,0,1)$), ya que $(1,-1,0) \cdot (0,0,1) = 0$. -->
-- [ ] C) $x + y = 0$
+- [ ] B) $x + y = 0$
   <!-- feedback: Incorrecto. No contiene a la recta para valores positivos de $t$. -->
 - [ ] D) $x + z = 0$
   <!-- feedback: Incorrecto. No contiene a la componente y de la recta. -->

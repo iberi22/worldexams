@@ -50,13 +50,13 @@ El adjetivo calificativo es la palabra que dice cómo son o cómo están los sus
 ### Enunciado
 ¿Qué hace la palabra "juguetón" en la oración?
 ### Opciones
-- [x] A) Describe una cualidad del perro.
+- [x] D) Describe una cualidad del perro.
   <!-- feedback: Es correcta porque "juguetón" dice cómo es el perro y califica al sustantivo. -->
-- [ ] B) Nombra una acción del perro.
+- [ ] A) Nombra una acción del perro.
   <!-- feedback: Es incorrecta porque la acción es "corre", que es el verbo de la oración. -->
-- [ ] C) Nombra el lugar donde juega el perro.
+- [ ] B) Nombra el lugar donde juega el perro.
   <!-- feedback: Es incorrecta porque el lugar es "la playa", que es un sustantivo. -->
-- [ ] D) Indica la cantidad de perros que hay.
+- [ ] C) Indica la cantidad de perros que hay.
   <!-- feedback: Es incorrecta porque no expresa cantidad y la oración habla de un solo perro. -->
 ### Explicacion Pedagogica
 La función del adjetivo calificativo es describir al sustantivo, no nombrar acciones ni lugares. Preguntar "¿cómo es?" al sustantivo ayuda a encontrar el adjetivo. En este caso, "¿cómo es el perro?" se responde con "juguetón".
@@ -70,9 +70,9 @@ La función del adjetivo calificativo es describir al sustantivo, no nombrar acc
 ### Enunciado
 Completa la oración: "Las montañas ______ rodean la ciudad". ¿Qué adjetivo concuerda correctamente?
 ### Opciones
-- [x] A) Altas
+- [x] B) Altas
   <!-- feedback: Es correcta porque "altas" es femenino plural y concuerda con "montañas". -->
-- [ ] B) Alto
+- [ ] A) Alto
   <!-- feedback: Es incorrecta porque es masculino singular y no concuerda con el sustantivo femenino plural. -->
 - [ ] C) Alta
   <!-- feedback: Es incorrecta porque es singular y el sustantivo "montañas" está en plural. -->
@@ -90,9 +90,9 @@ El adjetivo debe concordar con el sustantivo en género y número. Si el sustant
 ### Enunciado
 ¿Cuál oración usa correctamente el adjetivo calificativo?
 ### Opciones
-- [x] A) Compré unas telas rojas para el telón.
+- [x] B) Compré unas telas rojas para el telón.
   <!-- feedback: Es correcta porque "rojas" concuerda en femenino plural con "telas". -->
-- [ ] B) Compré unas telas rojo para el telón.
+- [ ] A) Compré unas telas rojo para el telón.
   <!-- feedback: Es incorrecta porque "rojo" es masculino singular y no concuerda con "telas". -->
 - [ ] C) Compré unas telas rojos para el telón.
   <!-- feedback: Es incorrecta porque "rojos" es masculino y el sustantivo es femenino. -->
@@ -130,11 +130,11 @@ Muchos adjetivos terminados en "o" forman el femenino con "a": ordenado-ordenada
 ### Enunciado
 Al analizar la cartelera, ¿qué error hay en el uso del adjetivo?
 ### Opciones
-- [x] A) El adjetivo "nuevo" no concuerda en género ni en número con "bicicletas".
+- [x] C) El adjetivo "nuevo" no concuerda en género ni en número con "bicicletas".
   <!-- feedback: Es correcta porque "bicicletas" es femenino plural y exige la forma "nuevas". -->
-- [ ] B) El adjetivo "buen" no concuerda con la palabra "precio".
+- [ ] A) El adjetivo "buen" no concuerda con la palabra "precio".
   <!-- feedback: Es incorrecta porque "buen precio" es una concordancia correcta en masculino singular. -->
-- [ ] C) La palabra "bicicletas" no es un sustantivo y no puede llevar adjetivo.
+- [ ] B) La palabra "bicicletas" no es un sustantivo y no puede llevar adjetivo.
   <!-- feedback: Es incorrecta porque "bicicletas" sí es un sustantivo plural. -->
 - [ ] D) No hay ningún error, la cartelera está bien escrita.
   <!-- feedback: Es incorrecta porque sí existe un error claro de concordancia en "nuevo". -->
@@ -150,9 +150,9 @@ Analizar un aviso implica separar el sustantivo de sus modificadores y comprobar
 ### Enunciado
 ¿Cuál frase es correcta y por qué?
 ### Opciones
-- [x] A) La frase 1, porque "cristalino" es masculino singular como el sustantivo "río".
+- [x] B) La frase 1, porque "cristalino" es masculino singular como el sustantivo "río".
   <!-- feedback: Es correcta porque muestra la concordancia completa entre sustantivo y adjetivo. -->
-- [ ] B) La frase 2, porque los ríos siempre se describen en femenino.
+- [ ] A) La frase 2, porque los ríos siempre se describen en femenino.
   <!-- feedback: Es incorrecta porque el sustantivo "río" es masculino y pide adjetivo masculino. -->
 - [ ] C) La frase 1, porque "cristalino" es un verbo que indica acción.
   <!-- feedback: Es incorrecta porque "cristalino" describe una cualidad y es un adjetivo. -->

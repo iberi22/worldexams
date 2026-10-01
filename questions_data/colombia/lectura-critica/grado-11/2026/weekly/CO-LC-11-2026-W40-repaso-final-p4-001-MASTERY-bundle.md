@@ -35,13 +35,13 @@ teatro colombiano, crónica periodística, novela gráfica, novela histórica, e
 ¿Cuál es la función de la tesis en un ensayo argumentativo?
 
 ### Opciones
-- [x] A) Anunciar la postura central que el autor defenderá con razones y evidencias.
+- [x] D) Anunciar la postura central que el autor defenderá con razones y evidencias.
   <!-- feedback: Es correcta porque la tesis orienta todo el desarrollo del texto argumentativo. -->
-- [ ] B) Narrar una anécdota sin relación con el tema.
+- [ ] A) Narrar una anécdota sin relación con el tema.
   <!-- feedback: Es incorrecta porque una anécdota suelta no cumple la función de sostener una postura. -->
-- [ ] C) Listar definiciones sin ningún orden lógico.
+- [ ] B) Listar definiciones sin ningún orden lógico.
   <!-- feedback: Es incorrecta porque el ensayo exige una organización argumentativa coherente. -->
-- [ ] D) Cerrar el texto sin ninguna conclusión.
+- [ ] C) Cerrar el texto sin ninguna conclusión.
   <!-- feedback: Es incorrecta porque el cierre debe recapitular y reforzar la tesis, no suprimirla. -->
 
 ### Explicacion Pedagogica
@@ -58,9 +58,9 @@ La tesis es la afirmación que el ensayo se compromete a demostrar. Funciona com
 En poesía contemporánea, la metáfora consiste en:
 
 ### Opciones
-- [ ] A) Medir el número exacto de sílabas de un verso.
+- [ ] B) Medir el número exacto de sílabas de un verso.
   <!-- feedback: Es incorrecta porque la métrica es un procedimiento rítmico, no un tropo. -->
-- [x] B) Identificar dos términos distintos para sugerir una semejanza nueva y significativa.
+- [x] A) Identificar dos términos distintos para sugerir una semejanza nueva y significativa.
   <!-- feedback: Es correcta porque la metáfora acerca dos realidades y crea un sentido inesperado. -->
 - [ ] C) Repetir literalmente una palabra al final de cada línea.
   <!-- feedback: Es incorrecta porque la repetición es un recurso fónico distinto de la metáfora. -->
@@ -106,11 +106,11 @@ El teatro se escribe para ser representado y su materia principal es el diálogo
 ### Opciones
 - [ ] A) Inventar sucesos sin ninguna base en la realidad.
   <!-- feedback: Es incorrecta porque la crónica parte de hechos reales y verificables. -->
-- [x] B) Narrar hechos reales con recursos literarios y la voz del cronista.
+- [x] D) Narrar hechos reales con recursos literarios y la voz del cronista.
   <!-- feedback: Es correcta porque la crónica combina el reporte de la realidad con la elaboración literaria y la perspectiva del autor. -->
-- [ ] C) Presentar solo cifras sin ningún tipo de narración.
+- [ ] B) Presentar solo cifras sin ningún tipo de narración.
   <!-- feedback: Es incorrecta porque la crónica se distingue por su dimensión narrativa. -->
-- [ ] D) Evitar por completo la presencia del autor.
+- [ ] C) Evitar por completo la presencia del autor.
   <!-- feedback: Es incorrecta porque la voz del cronista es una marca característica del género. -->
 
 ### Explicacion Pedagogica
@@ -127,11 +127,11 @@ La crónica es un género híbrido: informa sobre hechos reales, pero los cuenta
 En la novela gráfica, ¿qué función cumple la secuencia de viñetas?
 
 ### Opciones
-- [x] A) Construir el relato articulando imagen y texto en el orden de lectura.
+- [x] C) Construir el relato articulando imagen y texto en el orden de lectura.
   <!-- feedback: Es correcta porque las viñetas encadenan los momentos de la historia mediante el montaje visual y verbal. -->
-- [ ] B) Decorar exclusivamente la portada del libro.
+- [ ] A) Decorar exclusivamente la portada del libro.
   <!-- feedback: Es incorrecta porque las viñetas estructuran todo el relato, no solo la cubierta. -->
-- [ ] C) Sustituir por completo al autor de la obra.
+- [ ] B) Sustituir por completo al autor de la obra.
   <!-- feedback: Es incorrecta porque el autor concibe la secuencia; la estructura no lo reemplaza. -->
 - [ ] D) Indicar el precio de venta del ejemplar.
   <!-- feedback: Es incorrecta porque el precio es un dato comercial, ajeno a la narración. -->
@@ -154,9 +154,9 @@ En la novela gráfica, el relato surge del montaje: cada viñeta es una unidad d
   <!-- feedback: Es incorrecta porque no se aporta ningún dato ni método de verificación. -->
 - [ ] B) Una cita de autoridad verificada.
   <!-- feedback: Es incorrecta porque no se identifica ninguna fuente experta. -->
-- [x] C) Un argumento de falsa mayoría que no aporta evidencia válida.
+- [x] D) Un argumento de falsa mayoría que no aporta evidencia válida.
   <!-- feedback: Es correcta porque la cantidad de personas que repiten algo no demuestra su verdad. -->
-- [ ] D) Una estadística rigurosa.
+- [ ] C) Una estadística rigurosa.
   <!-- feedback: Es incorrecta porque "todos" no es una medida ni una muestra comprobable. -->
 
 ### Explicacion Pedagogica
@@ -173,9 +173,9 @@ El argumento de falsa mayoría apela al número de quienes sostienen algo como p
 Un poema que repite imágenes de lluvia y silencio sugiere:
 
 ### Opciones
-- [ ] A) Un tono humorístico y festivo.
+- [ ] B) Un tono humorístico y festivo.
   <!-- feedback: Es incorrecta porque la lluvia y el silencio no sugieren regocijo. -->
-- [x] B) Un tono melancólico o de introspección.
+- [x] A) Un tono melancólico o de introspección.
   <!-- feedback: Es correcta porque la insistencia en esas imágenes configura una atmósfera de recogimiento y nostalgia. -->
 - [ ] C) Una instrucción técnica para reparar un aparato.
   <!-- feedback: Es incorrecta porque el poema no persigue una finalidad práctica de ese tipo. -->
@@ -196,11 +196,11 @@ El tono de un poema se construye con las imágenes, el ritmo y la selección lé
 ¿Por qué el conflicto es fundamental en el teatro?
 
 ### Opciones
-- [x] A) Porque impulsa la acción y enfrenta fuerzas o voluntades que generan la tensión dramática.
+- [x] C) Porque impulsa la acción y enfrenta fuerzas o voluntades que generan la tensión dramática.
   <!-- feedback: Es correcta porque sin conflicto no hay avance de la acción ni interés dramático. -->
-- [ ] B) Porque decora el escenario con objetos llamativos.
+- [ ] A) Porque decora el escenario con objetos llamativos.
   <!-- feedback: Es incorrecta porque la escenografía es un recurso de puesta en escena, no el conflicto. -->
-- [ ] C) Porque evita que los personajes hablen entre sí.
+- [ ] B) Porque evita que los personajes hablen entre sí.
   <!-- feedback: Es incorrecta porque el conflicto se expresa justamente a través del diálogo y la acción. -->
 - [ ] D) Porque reemplaza por completo el diálogo.
   <!-- feedback: Es incorrecta porque el conflicto no sustituye el diálogo: se desarrolla mediante él. -->
@@ -221,11 +221,11 @@ El cronista que narra en primera persona y a la vez reporta hechos busca:
 ### Opciones
 - [ ] A) Inventar los hechos sin comprobarlos.
   <!-- feedback: Es incorrecta porque la crónica requiere verificación de lo narrado. -->
-- [x] B) Combinar la cercanía testimonial con la verificación de lo ocurrido.
+- [x] D) Combinar la cercanía testimonial con la verificación de lo ocurrido.
   <!-- feedback: Es correcta porque la voz personal aporta cercanía sin renunciar al reporte de los hechos. -->
-- [ ] C) Ocultar por completo su presencia en el texto.
+- [ ] B) Ocultar por completo su presencia en el texto.
   <!-- feedback: Es incorrecta porque la primera persona hace explícita su presencia. -->
-- [ ] D) Escribir un tratado teórico sin contacto con la realidad.
+- [ ] C) Escribir un tratado teórico sin contacto con la realidad.
   <!-- feedback: Es incorrecta porque la crónica parte de la experiencia y del reporte de hechos concretos. -->
 
 ### Explicacion Pedagogica
@@ -242,11 +242,11 @@ La primera persona en la crónica cumple una doble función: por un lado, crea c
 ¿Cuál afirmación se apoya en evidencia verificable?
 
 ### Opciones
-- [ ] A) "Ese químico es aburrido."
+- [ ] B) "Ese químico es aburrido."
   <!-- feedback: Es incorrecta porque es un juicio personal sin relación con datos. -->
-- [ ] B) "Siempre lo hemos hecho así."
+- [ ] C) "Siempre lo hemos hecho así."
   <!-- feedback: Es incorrecta porque la tradición no es una prueba científica. -->
-- [x] C) "El estudio midió 500 muestras y halló una concentración promedio de 3 mg/L."
+- [x] A) "El estudio midió 500 muestras y halló una concentración promedio de 3 mg/L."
   <!-- feedback: Es correcta porque describe una medición concreta y comprobable. -->
 - [ ] D) "Me parece que el agua está rara."
   <!-- feedback: Es incorrecta porque expresa una impresión subjetiva sin medición. -->
@@ -265,9 +265,9 @@ La evidencia verificable se expresa en datos medibles y reproductibles. Las opin
 ¿Qué procedimiento permite distinguir hechos históricos de invenciones en una novela histórica?
 
 ### Opciones
-- [ ] A) Creer todo lo que dice el narrador.
+- [ ] B) Creer todo lo que dice el narrador.
   <!-- feedback: Es incorrecta porque el narrador puede ser parcial o poco fiable. -->
-- [x] B) Contrastar los sucesos con fuentes historiográficas y reconocer los elementos ficcionales.
+- [x] A) Contrastar los sucesos con fuentes historiográficas y reconocer los elementos ficcionales.
   <!-- feedback: Es correcta porque la comparación permite separar lo documentado de lo inventado. -->
 - [ ] C) Descartar la obra por el simple hecho de ser ficción.
   <!-- feedback: Es incorrecta porque la ficción puede aportar una lectura valiosa del pasado. -->
@@ -288,11 +288,11 @@ Leer críticamente una novela histórica implica reconocer su doble naturaleza: 
 Cuando el texto de una viñeta dice una cosa y la imagen sugiere la contraria, se produce:
 
 ### Opciones
-- [x] A) Una ironía o contrapunto que exige interpretar la tensión entre ambos códigos.
+- [x] C) Una ironía o contrapunto que exige interpretar la tensión entre ambos códigos.
   <!-- feedback: Es correcta porque el contraste entre palabra e imagen genera un sentido que ninguno expresa por separado. -->
-- [ ] B) Un error de imprenta inevitable.
+- [ ] A) Un error de imprenta inevitable.
   <!-- feedback: Es incorrecta porque la tensión suele ser deliberada y significativa. -->
-- [ ] C) Una repetición inútil de la misma idea.
+- [ ] B) Una repetición inútil de la misma idea.
   <!-- feedback: Es incorrecta porque, si se contradicen, no hay repetición, sino contraste. -->
 - [ ] D) La ausencia total de significado.
   <!-- feedback: Es incorrecta porque el contraste produce precisamente un nuevo sentido. -->
@@ -334,9 +334,9 @@ Un editorial sólido reconoce los datos que no favorecen su tesis y los responde
 ¿Qué evidencia un ensayo cuya conclusión contradice su tesis inicial?
 
 ### Opciones
-- [x] A) Una falla de coherencia argumentativa entre las partes del texto.
+- [x] B) Una falla de coherencia argumentativa entre las partes del texto.
   <!-- feedback: Es correcta porque el cierre debe guardar relación lógica con la postura anunciada al comienzo. -->
-- [ ] B) Una muestra de gran rigor lógico.
+- [ ] A) Una muestra de gran rigor lógico.
   <!-- feedback: Es incorrecta porque la contradicción interna es un defecto, no una virtud. -->
 - [ ] C) Un uso correcto de los conectores argumentativos.
   <!-- feedback: Es incorrecta porque los conectores no corrigen una contradicción de fondo. -->
@@ -380,9 +380,9 @@ No todas las fuentes tienen el mismo peso: un documento verificable y un testimo
 ¿Qué efecto produce el encabalgamiento en un poema?
 
 ### Opciones
-- [ ] A) Terminar siempre la idea al final de la misma línea.
+- [ ] B) Terminar siempre la idea al final de la misma línea.
   <!-- feedback: Es incorrecta porque el encabalgamiento consiste precisamente en no terminar ahí. -->
-- [x] B) Tensar el ritmo al continuar la idea en el verso siguiente, creando suspenso o énfasis.
+- [x] A) Tensar el ritmo al continuar la idea en el verso siguiente, creando suspenso o énfasis.
   <!-- feedback: Es correcta porque el corte inesperado obliga a leer con atención y subraya el sentido. -->
 - [ ] C) Eliminar por completo la rima y el ritmo.
   <!-- feedback: Es incorrecta porque el encabalgamiento es un recurso rítmico, no su anulación. -->
@@ -428,11 +428,11 @@ El final abierto es un recurso de la dramaturgia moderna: en lugar de clausurar 
 ### Opciones
 - [ ] A) Debe sustituir por completo a la historiografía.
   <!-- feedback: Es incorrecta porque la ficción no reemplaza el trabajo de la disciplina histórica. -->
-- [x] B) Ofrece una dimensión simbólica y humana que complementa, sin reemplazar, el rigor del relato histórico.
+- [x] D) Ofrece una dimensión simbólica y humana que complementa, sin reemplazar, el rigor del relato histórico.
   <!-- feedback: Es correcta porque articula el valor de la ficción con el respeto por el conocimiento histórico. -->
-- [ ] C) Carece de cualquier valor para comprender el pasado.
+- [ ] B) Carece de cualquier valor para comprender el pasado.
   <!-- feedback: Es incorrecta porque la ficción histórica ha contribuido a la reflexión sobre la memoria colectiva. -->
-- [ ] D) Solo sirve como entretenimiento sin consecuencias.
+- [ ] C) Solo sirve como entretenimiento sin consecuencias.
   <!-- feedback: Es incorrecta porque muchas novelas históricas han intervenido en debates públicos sobre el pasado. -->
 
 ### Explicacion Pedagogica
@@ -474,9 +474,9 @@ La lectura crítica de la opinión periodística combina varias operaciones: loc
 ### Opciones
 - [ ] A) Es un conjunto de verdades absolutas e inmutables.
   <!-- feedback: Es incorrecta porque la ciencia revisa y corrige sus conclusiones a la luz de nueva evidencia. -->
-- [x] B) Es un saber provisional y autocorrectivo que avanza mediante evidencias, revisión y reconocimiento de sus límites.
+- [x] C) Es un saber provisional y autocorrectivo que avanza mediante evidencias, revisión y reconocimiento de sus límites.
   <!-- feedback: Es correcta porque la ciencia se define por su método y su apertura a la revisión, no por certezas definitivas. -->
-- [ ] C) Es una opinión personal sin ningún método.
+- [ ] B) Es una opinión personal sin ningún método.
   <!-- feedback: Es incorrecta porque la ciencia se apoya en procedimientos sistemáticos y verificables. -->
 - [ ] D) Es un saber que no admite ninguna crítica.
   <!-- feedback: Es incorrecta porque la crítica y la revisión son condiciones del conocimiento científico. -->

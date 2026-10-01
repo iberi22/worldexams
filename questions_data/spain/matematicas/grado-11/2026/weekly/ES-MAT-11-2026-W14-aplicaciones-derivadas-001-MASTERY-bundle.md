@@ -29,8 +29,8 @@ bundle_index: 1
 Si en un intervalo la derivada de una función es estrictamente positiva ($f'(x) > 0$), ¿qué podemos afirmar sobre la monotonía de la función en dicho intervalo?
 
 ### Opciones
-- [x] A) La función es estrictamente creciente. <!-- feedback: Correcto. Una derivada positiva indica que la pendiente de la tangente es positiva, por lo que la función sube. -->
-- [ ] B) La función es estrictamente decreciente. <!-- feedback: Esto ocurriría si la derivada fuera negativa. -->
+- [x] B) La función es estrictamente creciente. <!-- feedback: Correcto. Una derivada positiva indica que la pendiente de la tangente es positiva, por lo que la función sube. -->
+- [ ] A) La función es estrictamente decreciente. <!-- feedback: Esto ocurriría si la derivada fuera negativa. -->
 - [ ] C) La función tiene un máximo relativo. <!-- feedback: Para un máximo, la derivada debería anularse y cambiar de signo. -->
 - [ ] D) La función es constante. <!-- feedback: Para ser constante, la derivada debe ser cero. -->
 
@@ -50,8 +50,8 @@ El signo de la primera derivada determina si una función crece o decrece. Es la
 ¿Cuál es la condición necesaria para que una función derivable $f(x)$ presente un extremo relativo (máximo o mínimo) en el punto $x = a$?
 
 ### Opciones
-- [ ] A) $f(a) = 0$ <!-- feedback: El valor de la función no determina el extremo. -->
-- [x] B) $f'(a) = 0$ <!-- feedback: Correcto. En los extremos relativos de funciones derivables, la recta tangente es horizontal. -->
+- [ ] B) $f(a) = 0$ <!-- feedback: El valor de la función no determina el extremo. -->
+- [x] A) $f'(a) = 0$ <!-- feedback: Correcto. En los extremos relativos de funciones derivables, la recta tangente es horizontal. -->
 - [ ] C) $f''(a) = 0$ <!-- feedback: Esto suele indicar un punto de inflexión, no un extremo. -->
 - [ ] D) $f(a) = f'(a)$ <!-- feedback: No existe tal condición para los extremos. -->
 
@@ -72,9 +72,9 @@ Si en un punto $x=a$ se cumple que $f'(a) = 0$ y $f''(a) < 0$, ¿qué tipo de pu
 
 ### Opciones
 - [ ] A) Un mínimo relativo. <!-- feedback: Para un mínimo, la derivada segunda debe ser positiva. -->
-- [x] B) Un máximo relativo. <!-- feedback: Correcto. Una derivada segunda negativa indica concavidad hacia abajo en un punto crítico, lo que define un máximo. -->
-- [ ] C) Un punto de inflexión. <!-- feedback: Para ser de inflexión, la derivada segunda debería ser cero o no existir. -->
-- [ ] D) Un punto de discontinuidad. <!-- feedback: La existencia de derivadas implica que la función es continua. -->
+- [x] D) Un máximo relativo. <!-- feedback: Correcto. Una derivada segunda negativa indica concavidad hacia abajo en un punto crítico, lo que define un máximo. -->
+- [ ] B) Un punto de inflexión. <!-- feedback: Para ser de inflexión, la derivada segunda debería ser cero o no existir. -->
+- [ ] C) Un punto de discontinuidad. <!-- feedback: La existencia de derivadas implica que la función es continua. -->
 
 ### Explicacion Pedagogica
 La derivada segunda informa sobre la curvatura. Si la curva es cóncava (hacia abajo) en un punto de tangente horizontal, estamos ante la "cima" de una montaña, es decir, un máximo.
@@ -92,9 +92,9 @@ La derivada segunda informa sobre la curvatura. Si la curva es cóncava (hacia a
 ¿Qué cambio se produce en la gráfica de una función al atravesar un punto de inflexión?
 
 ### Opciones
-- [ ] A) La función pasa de crecer a decrecer. <!-- feedback: Esto ocurre en los extremos relativos. -->
-- [ ] B) La función se corta con el eje de abscisas. <!-- feedback: Esto es una raíz o cero de la función. -->
-- [x] C) La función cambia su tipo de curvatura (de cóncava a convexa o viceversa). <!-- feedback: Correcto. Es la definición geométrica de punto de inflexión. -->
+- [ ] B) La función pasa de crecer a decrecer. <!-- feedback: Esto ocurre en los extremos relativos. -->
+- [ ] C) La función se corta con el eje de abscisas. <!-- feedback: Esto es una raíz o cero de la función. -->
+- [x] A) La función cambia su tipo de curvatura (de cóncava a convexa o viceversa). <!-- feedback: Correcto. Es la definición geométrica de punto de inflexión. -->
 - [ ] D) La función presenta una asíntota vertical. <!-- feedback: Las asíntotas implican discontinuidad, no puntos de inflexión. -->
 
 ### Explicacion Pedagogica
@@ -114,9 +114,9 @@ Si la función de coste es $C(x) = 2x^2 - 8x + 10$, ¿para qué valor de $x$ se 
 
 ### Opciones
 - [ ] A) $x = 4$ <!-- feedback: Error al derivar o despejar. -->
-- [x] B) $x = 2$ <!-- feedback: Correcto. $C'(x) = 4x - 8$. Igualando a 0: $4x = 8 \Rightarrow x = 2$. -->
-- [ ] C) $x = 8$ <!-- feedback: Valor incorrecto. -->
-- [ ] D) $x = 10$ <!-- feedback: Este es el término independiente, no el mínimo. -->
+- [x] D) $x = 2$ <!-- feedback: Correcto. $C'(x) = 4x - 8$. Igualando a 0: $4x = 8 \Rightarrow x = 2$. -->
+- [ ] B) $x = 8$ <!-- feedback: Valor incorrecto. -->
+- [ ] C) $x = 10$ <!-- feedback: Este es el término independiente, no el mínimo. -->
 
 ### Explicacion Pedagogica
 Para hallar el mínimo de una función cuadrática (parábola), buscamos el punto donde la derivada es cero, lo cual coincide con el eje de simetría de la parábola.
@@ -135,9 +135,9 @@ Para hallar el mínimo de una función cuadrática (parábola), buscamos el punt
 
 ### Opciones
 - [ ] A) 2 metros <!-- feedback: Este es el tiempo para alcanzar la altura máxima, no la altura. -->
-- [x] B) 20 metros <!-- feedback: Correcto. $h'(t) = 20 - 10t = 0 \Rightarrow t = 2$. Sustituyendo: $h(2) = 20(2) - 5(4) = 40 - 20 = 20$ m. -->
-- [ ] C) 40 metros <!-- feedback: Error de cálculo al sustituir el tiempo. -->
-- [ ] D) 10 metros <!-- feedback: Valor incorrecto. -->
+- [x] D) 20 metros <!-- feedback: Correcto. $h'(t) = 20 - 10t = 0 \Rightarrow t = 2$. Sustituyendo: $h(2) = 20(2) - 5(4) = 40 - 20 = 20$ m. -->
+- [ ] B) 40 metros <!-- feedback: Error de cálculo al sustituir el tiempo. -->
+- [ ] C) 10 metros <!-- feedback: Valor incorrecto. -->
 
 ### Explicacion Pedagogica
 La altura máxima se alcanza cuando la velocidad vertical ($h'(t)$) es cero. Una vez hallado el instante, debemos calcular el valor de la función original en ese tiempo.
@@ -176,10 +176,10 @@ Para hallar los puntos de inflexión, calculamos la segunda derivada e igualamos
 A partir de la derivada $f'(x) = -2x e^{-x^2}$, ¿cuál es el intervalo de crecimiento de la función?
 
 ### Opciones
-- [x] A) $(-\infty, 0)$ <!-- feedback: Correcto. Si $x < 0$, la derivada es positiva (producto de -2, un número negativo y el exponencial positivo). -->
-- [ ] B) $(0, +\infty)$ <!-- feedback: En este intervalo la derivada es negativa, la función decrece. -->
-- [ ] C) Todo $\mathbb{R}$ <!-- feedback: La función tiene un máximo en x=0. -->
-- [ ] D) No crece en ningún punto. <!-- feedback: Crece para valores negativos de x. -->
+- [x] D) $(-\infty, 0)$ <!-- feedback: Correcto. Si $x < 0$, la derivada es positiva (producto de -2, un número negativo y el exponencial positivo). -->
+- [ ] A) $(0, +\infty)$ <!-- feedback: En este intervalo la derivada es negativa, la función decrece. -->
+- [ ] B) Todo $\mathbb{R}$ <!-- feedback: La función tiene un máximo en x=0. -->
+- [ ] C) No crece en ningún punto. <!-- feedback: Crece para valores negativos de x. -->
 
 ### Explicacion Pedagogica
 El crecimiento se determina estudiando el signo de la primera derivada. En funciones exponenciales, el signo lo dicta el factor polinómico que acompaña a la exponencial.
@@ -219,9 +219,9 @@ Este es un problema clásico de optimización. Se debe plantear una función ár
 
 ### Opciones
 - [ ] A) $t = 2$ s <!-- feedback: Este es el instante de aceleración mínima. -->
-- [x] B) $t = 5$ s <!-- feedback: Correcto. Aceleración $a(t) = v'(t) = 2t - 4$. Igualando a 6: $2t - 4 = 6 \Rightarrow 2t = 10 \Rightarrow t = 5$. -->
-- [ ] C) $t = 6$ s <!-- feedback: Error de cálculo al despejar t. -->
-- [ ] D) $t = 10$ s <!-- feedback: Valor incorrecto. -->
+- [x] D) $t = 5$ s <!-- feedback: Correcto. Aceleración $a(t) = v'(t) = 2t - 4$. Igualando a 6: $2t - 4 = 6 \Rightarrow 2t = 10 \Rightarrow t = 5$. -->
+- [ ] B) $t = 6$ s <!-- feedback: Error de cálculo al despejar t. -->
+- [ ] C) $t = 10$ s <!-- feedback: Valor incorrecto. -->
 
 ### Explicacion Pedagogica
 La aceleración es la derivada de la velocidad. Para hallar cuándo se alcanza un valor específico de aceleración, derivamos la función de velocidad e igualamos al valor dado.
@@ -324,9 +324,9 @@ Al plantear el área en función del ángulo o de una de las coordenadas, la der
 
 ### Opciones
 - [ ] A) $c = 1,5$ <!-- feedback: Valor incorrecto. -->
-- [x] B) $c = 2$ <!-- feedback: Correcto. Pendiente secante: $(9-1)/(3-1) = 8/2 = 4$. Derivada: $f'(c) = 2c$. Igualando: $2c = 4 \Rightarrow c = 2$. -->
-- [ ] C) $c = 2,5$ <!-- feedback: Valor incorrecto. -->
-- [ ] D) $c = \sqrt{3}$ <!-- feedback: Este valor corresponde a otros teoremas de promedios. -->
+- [x] D) $c = 2$ <!-- feedback: Correcto. Pendiente secante: $(9-1)/(3-1) = 8/2 = 4$. Derivada: $f'(c) = 2c$. Igualando: $2c = 4 \Rightarrow c = 2$. -->
+- [ ] B) $c = 2,5$ <!-- feedback: Valor incorrecto. -->
+- [ ] C) $c = \sqrt{3}$ <!-- feedback: Este valor corresponde a otros teoremas de promedios. -->
 
 ### Explicacion Pedagogica
 El Teorema del Valor Medio garantiza que en una función "suave", hay al menos un punto donde la velocidad instantánea iguala a la velocidad media del intervalo.
@@ -367,8 +367,8 @@ En funciones racionales de este tipo, el máximo se encuentra resolviendo la ecu
 ### Opciones
 - [ ] A) $30^{\circ}$ <!-- feedback: Ángulo insuficiente. -->
 - [ ] B) $45^{\circ}$ <!-- feedback: Ángulo común pero no óptimo para esta configuración. -->
-- [x] C) $60^{\circ}$ <!-- feedback: Correcto. El área se maximiza cuando el trapecio es la mitad de un hexágono regular, lo que implica ángulos de 60 grados. -->
-- [ ] D) $90^{\circ}$ (Sección rectangular) <!-- feedback: La sección trapezoidal permite mayor área que la rectangular para el mismo perímetro mojado. -->
+- [x] D) $60^{\circ}$ <!-- feedback: Correcto. El área se maximiza cuando el trapecio es la mitad de un hexágono regular, lo que implica ángulos de 60 grados. -->
+- [ ] C) $90^{\circ}$ (Sección rectangular) <!-- feedback: La sección trapezoidal permite mayor área que la rectangular para el mismo perímetro mojado. -->
 
 ### Explicacion Pedagogica
 Este problema requiere expresar el área en función del ángulo $\theta$, derivar la expresión trigonométrica resultante y hallar el valor que anula la derivada en el intervalo $(0, 90)$.
@@ -407,8 +407,8 @@ Este ejemplo demuestra que una derivada nula es condición necesaria pero no suf
 ¿Qué ley física se puede demostrar utilizando la optimización por derivadas aplicada al tiempo de viaje de la luz?
 
 ### Opciones
-- [ ] A) Ley de la Gravitación Universal. <!-- feedback: No depende de trayectorias óptimas de tiempo. -->
-- [x] B) Ley de Snell de la refracción. <!-- feedback: Correcto. La minimización del tiempo de viaje entre dos puntos en medios distintos conduce a la relación de los senos de los ángulos y las velocidades. -->
+- [ ] B) Ley de la Gravitación Universal. <!-- feedback: No depende de trayectorias óptimas de tiempo. -->
+- [x] A) Ley de Snell de la refracción. <!-- feedback: Correcto. La minimización del tiempo de viaje entre dos puntos en medios distintos conduce a la relación de los senos de los ángulos y las velocidades. -->
 - [ ] C) Ley de Ohm. <!-- feedback: Relaciona variables eléctricas, no trayectorias. -->
 - [ ] D) Ley de inercia de Newton. <!-- feedback: Principio básico de la dinámica, no de la óptica. -->
 
@@ -428,9 +428,9 @@ La Ley de Snell es un ejemplo fundamental de cómo la naturaleza "optimiza". El 
 ¿Qué información de la función $f(x)$ preserva exactamente el polinomio de Taylor de grado 2 en el punto $a$?
 
 ### Opciones
-- [ ] A) Solo el valor de la función en el punto. <!-- feedback: Esto sería el grado 0. -->
-- [ ] B) El valor de la función y su primera derivada. <!-- feedback: Esto sería el grado 1 (recta tangente). -->
-- [x] C) El valor de la función, su primera derivada y su segunda derivada. <!-- feedback: Correcto. El polinomio de Taylor de grado $n$ coincide con la función y sus primeras $n$ derivadas en el punto. -->
+- [ ] B) Solo el valor de la función en el punto. <!-- feedback: Esto sería el grado 0. -->
+- [ ] C) El valor de la función y su primera derivada. <!-- feedback: Esto sería el grado 1 (recta tangente). -->
+- [x] A) El valor de la función, su primera derivada y su segunda derivada. <!-- feedback: Correcto. El polinomio de Taylor de grado $n$ coincide con la función y sus primeras $n$ derivadas en el punto. -->
 - [ ] D) Todas las derivadas de la función. <!-- feedback: Esto solo ocurriría si el grado fuera infinito. -->
 
 ### Explicacion Pedagogica

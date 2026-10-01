@@ -32,9 +32,9 @@ Este bundle contiene 10 preguntas sobre **notacion-cientifica-magnitudes** para 
 ### Enunciado
 ¿Qué forma tiene un número escrito en notación científica?
 ### Opciones
-- [ ] A) Un número entero cualquiera seguido de la palabra millones
+- [ ] B) Un número entero cualquiera seguido de la palabra millones
   <!-- feedback: Incorrecto. Eso es una expresión verbal, no la notación científica matemática. -->
-- [x] B) Un coeficiente entre 1 y 10 (sin llegar a 10) multiplicado por una potencia de 10
+- [x] A) Un coeficiente entre 1 y 10 (sin llegar a 10) multiplicado por una potencia de 10
   <!-- feedback: Correcto. La forma es a × 10ⁿ con 1 ≤ a < 10 y n entero. -->
 - [ ] C) Una fracción con denominador 100
   <!-- feedback: Incorrecto. Eso describe un porcentaje, no la notación científica. -->
@@ -52,13 +52,13 @@ La notación científica escribe cualquier cantidad como a × 10ⁿ, donde el co
 ### Enunciado
 En 3,4 × 10⁶, ¿qué indica el exponente 6?
 ### Opciones
-- [x] A) Que la coma decimal se corrió 6 lugares hacia la izquierda para obtener 3,4
+- [x] D) Que la coma decimal se corrió 6 lugares hacia la izquierda para obtener 3,4
   <!-- feedback: Correcto. El exponente positivo cuenta los lugares que se movió la coma desde el número original hasta el coeficiente. -->
-- [ ] B) Que el número 3,4 se multiplica 6 veces por sí mismo
+- [ ] A) Que el número 3,4 se multiplica 6 veces por sí mismo
   <!-- feedback: Incorrecto. El exponente afecta al 10, no al coeficiente 3,4. -->
-- [ ] C) Que el número tiene 6 cifras decimales
+- [ ] B) Que el número tiene 6 cifras decimales
   <!-- feedback: Incorrecto. El 6 cuenta posiciones de la coma, no cifras decimales del resultado. -->
-- [ ] D) Que hay que sumarle 6 al número 3,4
+- [ ] C) Que hay que sumarle 6 al número 3,4
   <!-- feedback: Incorrecto. El exponente es una potencia de 10, no un sumando. -->
 ### Explicacion Pedagogica
 10⁶ = 1 000 000 y 3,4 × 1 000 000 = 3 400 000. El exponente 6 indica que la coma se desplazó 6 posiciones desde 3 400 000 hasta 3,4.
@@ -92,11 +92,11 @@ Con números menores que 1 la coma se corre a la derecha y el exponente es negat
 ### Enunciado
 ¿A cuántas toneladas equivale 7,1 × 10⁵?
 ### Opciones
-- [x] A) 710 000 toneladas
+- [x] C) 710 000 toneladas
   <!-- feedback: Correcto. 10⁵ = 100 000 y 7,1 × 100 000 = 710 000. -->
-- [ ] B) 71 000 toneladas
+- [ ] A) 71 000 toneladas
   <!-- feedback: Incorrecto. Ese valor usa 10⁴ en vez de 10⁵. -->
-- [ ] C) 7 100 000 toneladas
+- [ ] B) 7 100 000 toneladas
   <!-- feedback: Incorrecto. Ese valor usa 10⁶ en vez de 10⁵. -->
 - [ ] D) 75 toneladas
   <!-- feedback: Incorrecto. Ese valor confunde el exponente con un sumando. -->
@@ -114,11 +114,11 @@ Para desarrollar la notación se multiplica el coeficiente por la potencia: 7,1 
 ### Opciones
 - [ ] A) 52 × 10⁶
   <!-- feedback: Incorrecto. El coeficiente 52 es mayor que 10 y no cumple la norma. -->
-- [x] B) 5,2 × 10⁷
+- [x] D) 5,2 × 10⁷
   <!-- feedback: Correcto. La coma se corre 7 lugares: 52 000 000 = 5,2 × 10 000 000 = 5,2 × 10⁷. -->
-- [ ] C) 5,2 × 10⁶
+- [ ] B) 5,2 × 10⁶
   <!-- feedback: Incorrecto. Con exponente 6 se obtiene 5 200 000, diez veces menos. -->
-- [ ] D) 0,52 × 10⁸
+- [ ] C) 0,52 × 10⁸
   <!-- feedback: Incorrecto. El coeficiente 0,52 es menor que 1 y no cumple la norma. -->
 ### Explicacion Pedagogica
 De 52 000 000 a 5,2 la coma se desplaza 7 posiciones a la izquierda, así que el exponente es 7: 5,2 × 10⁷.
@@ -132,11 +132,11 @@ De 52 000 000 a 5,2 la coma se desplaza 7 posiciones a la izquierda, así que el
 ### Enunciado
 ¿Cuál embalse almacena más agua?
 ### Opciones
-- [x] A) El Norte, porque 10⁶ es diez veces mayor que 10⁵ y 2,5 × 10⁶ = 2 500 000 supera a 380 000
+- [x] C) El Norte, porque 10⁶ es diez veces mayor que 10⁵ y 2,5 × 10⁶ = 2 500 000 supera a 380 000
   <!-- feedback: Correcto. El exponente mayor domina: 2 500 000 m³ > 380 000 m³. -->
-- [ ] B) El Sur, porque 3,8 es mayor que 2,5
+- [ ] A) El Sur, porque 3,8 es mayor que 2,5
   <!-- feedback: Incorrecto. Los coeficientes solo se comparan cuando los exponentes son iguales. -->
-- [ ] C) Almacenan lo mismo porque ambos usan potencias de 10
+- [ ] B) Almacenan lo mismo porque ambos usan potencias de 10
   <!-- feedback: Incorrecto. Las potencias son distintas (10⁶ frente a 10⁵) y los valores difieren. -->
 - [ ] D) El Sur, porque el exponente menor significa un número más concentrado
   <!-- feedback: Incorrecto. Un exponente menor con base 10 significa un número más pequeño, no más concentrado. -->
@@ -172,9 +172,9 @@ En la multiplicación de potencias de igual base se suman los exponentes: (2 × 
 ### Enunciado
 ¿Cuál de las dos medidas es mayor?
 ### Opciones
-- [ ] A) La bacteria, porque 3 es menor que 8 y lo pequeño domina
+- [ ] B) La bacteria, porque 3 es menor que 8 y lo pequeño domina
   <!-- feedback: Incorrecto. Con exponentes negativos, el número mayor es el de exponente menos negativo. -->
-- [x] B) El cabello, porque 10⁻⁵ es diez veces mayor que 10⁻⁶
+- [x] A) El cabello, porque 10⁻⁵ es diez veces mayor que 10⁻⁶
   <!-- feedback: Correcto. -5 > -6, así que 8 × 10⁻⁵ m (0,00008 m) supera a 3 × 10⁻⁶ m (0,000003 m). -->
 - [ ] C) Son iguales porque ambas usan potencias negativas
   <!-- feedback: Incorrecto. Las potencias negativas difieren y también los coeficientes. -->

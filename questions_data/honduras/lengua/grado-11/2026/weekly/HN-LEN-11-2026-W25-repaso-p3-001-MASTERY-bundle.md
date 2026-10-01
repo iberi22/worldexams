@@ -41,9 +41,9 @@ En la oración: "El sudor amargo de los campeños regaba la tierra de la compañ
 ### Opciones
 - [ ] A) Símil
   <!-- feedback: Incorrecto. Un símil requiere una comparación explícita usando "como" o "parece". -->
-- [x] B) Metáfora
+- [x] C) Metáfora
   <!-- feedback: ¡Correcto! Se identifica el sudor con un "riego" amargo, trasladando el sentido del esfuerzo físico al de un sacrificio casi ritual. -->
-- [ ] C) Hipérbole
+- [ ] B) Hipérbole
   <!-- feedback: Incorrecto. Aunque hay una exageración implícita, la estructura es una identificación directa de términos (metáfora). -->
 - [ ] D) Onomatopeya
   <!-- feedback: Incorrecto. No se imitan sonidos de la naturaleza. -->
@@ -66,11 +66,11 @@ La metáfora es un recurso esencial en la literatura de denuncia social hondure�
 ### Opciones
 - [ ] A) El examen de español sera en el salón principal.
   <!-- feedback: Incorrecto. "sera" es aguda terminada en vocal, por lo que debe llevar tilde (será). -->
-- [x] B) Mañana viajaré a Comayagua para visitar la catedral.
+- [x] D) Mañana viajaré a Comayagua para visitar la catedral.
   <!-- feedback: ¡Correcto! "viajaré" es aguda terminada en vocal y lleva tilde; "catedral" es aguda terminada en consonante distinta de 'n' o 's' y no la lleva. -->
-- [ ] C) El café de Olancho tiene un sabor muy especial.
+- [ ] B) El café de Olancho tiene un sabor muy especial.
   <!-- feedback: Correcto en su mayoría, pero "café" es la que cumple la regla. Sin embargo, revisa si hay otra mejor. No, esta es correcta también. Vamos a elegir una opción con error para los distractores. -->
-- [ ] D) Sofia compró un reloj nuevo en el mercado.
+- [ ] C) Sofia compró un reloj nuevo en el mercado.
   <!-- feedback: Incorrecto. "compró" está bien, pero "Sofia" es hiato y debe tildarse (Sofía). Además "reloj" no lleva tilde por ser aguda terminada en 'j'. -->
 
 ### Explicacion Pedagogica
@@ -91,9 +91,9 @@ Las palabras agudas se tildan cuando terminan en n, s o vocal. Es fundamental do
 ### Opciones
 - [ ] A) Romanticismo
   <!-- feedback: Incorrecto. El romanticismo es un movimiento del siglo XIX, previo a la época de Clementina. -->
-- [ ] B) Neoclasicismo
+- [ ] C) Neoclasicismo
   <!-- feedback: Incorrecto. El neoclasicismo se enfoca en la razón y las formas clásicas grecorromanas. -->
-- [x] C) Vanguardismo
+- [x] B) Vanguardismo
   <!-- feedback: ¡Correcto! Su obra rompió esquemas estéticos y sociales, siendo pionera de la vanguardia en Honduras. -->
 - [ ] D) Modernismo
   <!-- feedback: Incorrecto. Aunque influenciada por su época, su voz es más propia de la ruptura vanguardista posterior al modernismo rubendariano. -->
@@ -114,9 +114,9 @@ Clementina Suárez es una figura central que introdujo temas de liberación feme
 En la oración: "Aunque el precio del combustible subió, los transportistas no aumentaron el pasaje", ¿cuál es la función del conector subrayado (Aunque)?
 
 ### Opciones
-- [ ] A) Causal (indica la causa de un hecho).
+- [ ] B) Causal (indica la causa de un hecho).
   <!-- feedback: Incorrecto. El conector causal sería "porque" o "ya que". -->
-- [x] B) Concesivo (expresa una objeción que no impide la acción principal).
+- [x] A) Concesivo (expresa una objeción que no impide la acción principal).
   <!-- feedback: ¡Correcto! Indica un obstáculo (subida de precio) que no evitó el resultado (no subir el pasaje). -->
 - [ ] C) Consecutivo (indica la consecuencia de lo anterior).
   <!-- feedback: Incorrecto. El conector consecutivo sería "por lo tanto" o "así que". -->
@@ -141,9 +141,9 @@ Los conectores lógicos son herramientas que dan cohesión y coherencia al discu
 ### Opciones
 - [ ] A) El gererente ordenó la corrección del mensage.
   <!-- feedback: Incorrecto. Se escribe "gerente" y "mensaje". -->
-- [x] B) Es urgente proteger el equipaje de los viajeros.
+- [x] C) Es urgente proteger el equipaje de los viajeros.
   <!-- feedback: ¡Correcto! Las palabras terminadas en -aje se escriben con 'j' y las terminadas en -gente con 'g' (excepto majo/rajo). -->
-- [ ] C) El vijilante revisó el carage de la planta.
+- [ ] B) El vijilante revisó el carage de la planta.
   <!-- feedback: Incorrecto. Se escribe "vigilante" y "garaje". -->
 - [ ] D) Debemos elejir el mejor trayecto para el viaje.
   <!-- feedback: Incorrecto. Se escribe "elegir" (verbos terminados en -ger/-gir con 'g'). -->
@@ -166,9 +166,9 @@ Roberto Sosa escribe: "Los pobres son muchos y por eso es imposible olvidarlos".
 ### Opciones
 - [ ] A) Poética y estética pura, sin mensaje social.
   <!-- feedback: Incorrecto. Sosa es conocido precisamente por su profunda carga social. -->
-- [x] B) Denuncia y visibilización de la realidad social hondureña.
+- [x] C) Denuncia y visibilización de la realidad social hondureña.
   <!-- feedback: ¡Correcto! El poema busca confrontar al lector con la magnitud y la persistencia de la pobreza. -->
-- [ ] C) Narrativa, contando la historia de un personaje pobre específico.
+- [ ] B) Narrativa, contando la historia de un personaje pobre específico.
   <!-- feedback: Incorrecto. No narra una historia, expresa una condición colectiva. -->
 - [ ] D) Informativa, dando datos estadísticos exactos.
   <!-- feedback: Incorrecto. Aunque usa la palabra "muchos", su propósito es literario y reivindicativo, no estadístico. -->
@@ -214,9 +214,9 @@ El voseo es una característica dialectal de Honduras que forma parte de la iden
 ¿Cuál es la forma correcta de redactar el saludo inicial y el cuerpo en un lenguaje formal y respetuoso?
 
 ### Opciones
-- [ ] A) Hola, te escribo para ver si me dan la beca que ví en el anuncio.
+- [ ] B) Hola, te escribo para ver si me dan la beca que ví en el anuncio.
   <!-- feedback: Incorrecto. Demasiado informal ("Hola", "te escribo") y falta de tildes ("ví"). -->
-- [x] B) Estimado comité evaluador: Me dirijo a ustedes con el propósito de postularme a la beca de excelencia académica.
+- [x] A) Estimado comité evaluador: Me dirijo a ustedes con el propósito de postularme a la beca de excelencia académica.
   <!-- feedback: ¡Correcto! Usa un saludo apropiado, lenguaje indirecto y estructura clara. -->
 - [ ] C) ¿Qué onda? Quiero la beca para poder seguir estudiando en la U.
   <!-- feedback: Incorrecto. Uso de jerga coloquial inapropiada para un contexto formal. -->
@@ -266,11 +266,11 @@ En los textos de opinión, las definiciones cargadas de simbolismo ayudan a pers
 ### Opciones
 - [ ] A) Noticia o Nota informativa
   <!-- feedback: Incorrecto. La noticia debe ser objetiva y centrada en los hechos, no en opiniones. -->
-- [x] B) Artículo de Opinión
+- [x] D) Artículo de Opinión
   <!-- feedback: ¡Correcto! Es el género subjetivo por excelencia donde se interpreta la realidad desde una perspectiva personal. -->
-- [ ] C) Crónica
+- [ ] B) Crónica
   <!-- feedback: Incorrecto. La crónica combina información con estilo narrativo, pero el enfoque es el relato de sucesos. -->
-- [ ] D) Reportaje
+- [ ] C) Reportaje
   <!-- feedback: Incorrecto. El reportaje es una investigación profunda y exhaustiva, predominantemente informativa. -->
 
 ### Explicacion Pedagogica
@@ -289,9 +289,9 @@ Diferenciar los géneros periodísticos permite al ciudadano hondureño ser un c
 ¿Cuál es la forma correcta de citar un libro de un solo autor siguiendo las normas básicas de redacción académica?
 
 ### Opciones
-- [ ] A) (Ramón Amaya Amador, 1950, Prisión Verde)
+- [ ] B) (Ramón Amaya Amador, 1950, Prisión Verde)
   <!-- feedback: Incorrecto. El título no suele ir dentro del paréntesis de cita textual corta. -->
-- [x] B) (Amaya Amador, 1950, p. 45)
+- [x] A) (Amaya Amador, 1950, p. 45)
   <!-- feedback: ¡Correcto! Se usa Apellido, Año y número de página si es cita directa. -->
 - [ ] C) El libro Prisión Verde escrito por Ramón Amaya Amador en 1950.
   <!-- feedback: Incorrecto. Esta es una mención en el texto, no una cita técnica normalizada. -->
@@ -314,13 +314,13 @@ El manejo de normas de citación es esencial para garantizar la honestidad acad�
 "El espejo de agua duerme bajo el poncho de la niebla." ¿Qué dos figuras literarias se combinan en este verso?
 
 ### Opciones
-- [x] A) Metáfora y Personificación
+- [x] D) Metáfora y Personificación
   <!-- feedback: ¡Correcto! "Espejo de agua" es metáfora; "duerme" otorga cualidades humanas al lago (personificación). -->
-- [ ] B) Símil e Hipérbole
+- [ ] A) Símil e Hipérbole
   <!-- feedback: Incorrecto. No hay comparación con "como" ni exageración desmedida. -->
-- [ ] C) Aliteración y Retruécano
+- [ ] B) Aliteración y Retruécano
   <!-- feedback: Incorrecto. No se repiten sonidos para imitar ruidos ni se juegan con palabras en orden inverso. -->
-- [ ] D) Metonimia y Epíteto
+- [ ] C) Metonimia y Epíteto
   <!-- feedback: Incorrecto. Aunque hay adjetivación, la personificación es la figura dominante junto a la metáfora. -->
 
 ### Explicacion Pedagogica
@@ -366,9 +366,9 @@ Si el texto menciona que "el colapso de las ciudades mayas sigue siendo un enigm
 ### Opciones
 - [ ] A) Los arqueólogos no saben nada sobre la cultura maya.
   <!-- feedback: Incorrecto. El texto solo dice que el colapso es un enigma, no toda su cultura. -->
-- [x] B) Existen múltiples teorías pero ninguna certeza definitiva sobre por qué abandonaron las ciudades.
+- [x] C) Existen múltiples teorías pero ninguna certeza definitiva sobre por qué abandonaron las ciudades.
   <!-- feedback: ¡Correcto! La palabra "enigma" sugiere la falta de una respuesta única y probada. -->
-- [ ] C) Los mayas desaparecieron de la noche a la mañana sin dejar rastro.
+- [ ] B) Los mayas desaparecieron de la noche a la mañana sin dejar rastro.
   <!-- feedback: Incorrecto. Dejaron las ciudades y sus descendientes (como los Chortís) persisten. -->
 - [ ] D) El colapso fue causado exclusivamente por una guerra sangrienta.
   <!-- feedback: Incorrecto. El texto dice que es un enigma; afirmar una sola causa contradice esa idea. -->
@@ -414,11 +414,11 @@ La coma del vocativo es esencial para distinguir a quién se dirige el mensaje y
 ¿Cómo se denomina al tipo de narrador que conoce todos los hechos, los pensamientos y los sentimientos de los personajes, hablando en tercera persona?
 
 ### Opciones
-- [ ] A) Narrador Protagonista
+- [ ] B) Narrador Protagonista
   <!-- feedback: Incorrecto. El protagonista cuenta su propia historia en primera persona. -->
-- [ ] B) Narrador Testigo
+- [ ] C) Narrador Testigo
   <!-- feedback: Incorrecto. Solo cuenta lo que ve o escucha, no los pensamientos internos ajenos. -->
-- [x] C) Narrador Omnisciente
+- [x] A) Narrador Omnisciente
   <!-- feedback: ¡Correcto! Es el narrador que "todo lo sabe" y actúa como una deidad en el relato. -->
 - [ ] D) Narrador en segunda persona
   <!-- feedback: Incorrecto. Este tipo de narrador se dirige al lector o a sí mismo como "tú" o "vos". -->
@@ -439,11 +439,11 @@ Identificar el tipo de narrador es clave para entender la perspectiva desde la c
 El editorial concluye: "No proteger nuestro pulmón verde es una sentencia de muerte para nuestra biodiversidad". ¿Qué función del lenguaje predomina en esta frase de cierre?
 
 ### Opciones
-- [ ] A) Función Metalingüística
+- [ ] B) Función Metalingüística
   <!-- feedback: Incorrecto. No se habla sobre el lenguaje mismo. -->
-- [ ] B) Función Fática
+- [ ] C) Función Fática
   <!-- feedback: Incorrecto. No busca comprobar si el canal de comunicación funciona. -->
-- [x] C) Función Apelativa o Conativa
+- [x] A) Función Apelativa o Conativa
   <!-- feedback: ¡Correcto! Aunque no es una orden directa, busca influir en la conducta o conciencia del receptor para que actúe. -->
 - [ ] D) Función Referencial
   <!-- feedback: Incorrecto. Aunque informa, la carga de juicio ("sentencia de muerte") busca una reacción más allá del dato. -->
@@ -491,9 +491,9 @@ El dequeísmo es un vicio del lenguaje muy extendido. Una forma de verificar es 
 ### Opciones
 - [ ] A) No hay diferencia, ambas hablan exclusivamente de la belleza natural del país.
   <!-- feedback: Incorrecto. Los enfoques son radicalmente distintos. -->
-- [x] B) La crónica colonial buscaba describir el "descubrimiento" y conquista; la novela del 50 busca denunciar las injusticias sociales y políticas.
+- [x] C) La crónica colonial buscaba describir el "descubrimiento" y conquista; la novela del 50 busca denunciar las injusticias sociales y políticas.
   <!-- feedback: ¡Correcto! Se pasa de una visión eurocéntrica de registro a una visión nacionalista de crítica social. -->
-- [ ] C) Las crónicas coloniales eran poemas, mientras que las del 50 son solo noticias de periódicos.
+- [ ] B) Las crónicas coloniales eran poemas, mientras que las del 50 son solo noticias de periódicos.
   <!-- feedback: Incorrecto. La crónica es un género narrativo-histórico, y la generación del 50 produjo principalmente narrativa de ficción. -->
 - [ ] D) En la colonia se escribía en latín y en el 50 se empezó a usar el español.
   <!-- feedback: Incorrecto. Ambas épocas usaron el español como lengua principal de escritura. -->
@@ -516,11 +516,11 @@ En un texto académico, se lee: "El lenguaje no es un espejo de la realidad, sin
 ### Opciones
 - [ ] A) Que el lenguaje es exactamente igual a lo que vemos en el mundo.
   <!-- feedback: Incorrecto. Esta sería la visión de "espejo", la cual el autor niega. -->
-- [x] B) Que nuestra percepción del mundo está mediada y transformada por el lenguaje y la cultura que poseemos.
+- [x] D) Que nuestra percepción del mundo está mediada y transformada por el lenguaje y la cultura que poseemos.
   <!-- feedback: ¡Correcto! El lenguaje no solo muestra, sino que interpreta y da forma a nuestra realidad. -->
-- [ ] C) Que las palabras son como cristales que pueden romperse fácilmente.
+- [ ] B) Que las palabras son como cristales que pueden romperse fácilmente.
   <!-- feedback: Incorrecto. Es una interpretación literal y superficial de la metáfora del prisma. -->
-- [ ] D) Que no se puede hablar de la realidad si no tenemos un prisma físico a mano.
+- [ ] C) Que no se puede hablar de la realidad si no tenemos un prisma físico a mano.
   <!-- feedback: Incorrecto. Interpretación absurda de la metáfora. -->
 
 ### Explicacion Pedagogica

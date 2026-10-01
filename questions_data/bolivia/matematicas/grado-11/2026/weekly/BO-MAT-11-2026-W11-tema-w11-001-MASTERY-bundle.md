@@ -34,11 +34,11 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Cuál es el grado absoluto de la función polinómica f(x)?
 
 ### Opciones
-- [x] A) Grado 5
+- [x] C) Grado 5
   <!-- feedback: ¡Correcto! El grado absoluto es el mayor exponente de la variable en el polinomio con coeficiente no nulo. -->
-- [ ] B) Grado 3
+- [ ] A) Grado 3
   <!-- feedback: Incorrecto. 3 es el exponente del término cúbico, no el grado máximo del polinomio. -->
-- [ ] C) Grado 4
+- [ ] B) Grado 4
   <!-- feedback: Incorrecto. 4 es el coeficiente principal del término cuadrático/quíntico. -->
 - [ ] D) Grado 1
   <!-- feedback: Incorrecto. 1 es el exponente del término lineal 7x. -->
@@ -58,13 +58,13 @@ El grado de un polinomio de una sola variable equivale al exponente más alto de
 ¿Cuáles son las coordenadas del punto de corte con el eje y de P(x)?
 
 ### Opciones
-- [x] A) (0, 6)
+- [x] D) (0, 6)
   <!-- feedback: ¡Correcto! P(0) = 0 - 0 - 0 + 6 = 6. Por tanto, el punto es (0, 6). -->
-- [ ] B) (0, -6)
+- [ ] A) (0, -6)
   <!-- feedback: Incorrecto. Erraste en el signo del término independiente c = 6. -->
-- [ ] C) (6, 0)
+- [ ] B) (6, 0)
   <!-- feedback: Incorrecto. Intercambiaste la abscisa y la ordenada en el par ordenado. -->
-- [ ] D) (0, 0)
+- [ ] C) (0, 0)
   <!-- feedback: Incorrecto. El corte con el eje y solo sería el origen si el término independiente fuera nulo. -->
 
 ### Explicacion Pedagogica
@@ -82,13 +82,13 @@ El punto de corte con el eje de las ordenadas (eje y) se calcula evaluando la fu
 ¿Cuál es el valor numérico de P(-2)?
 
 ### Opciones
-- [x] A) -31
+- [x] D) -31
   <!-- feedback: ¡Correcto! P(-2) = 2(-8) - 4 + 3(-2) - 5 = -16 - 4 - 6 - 5 = -31. -->
-- [ ] B) -21
+- [ ] A) -21
   <!-- feedback: Incorrecto. Elevaste (-2)² dando -4 de forma errónea sin respetar el signo exterior. -->
-- [ ] C) 15
+- [ ] B) 15
   <!-- feedback: Incorrecto. Consideraste (-2)³ como 8 positivo. -->
-- [ ] D) -11
+- [ ] C) -11
   <!-- feedback: Incorrecto. Omitiste multiplicar por 2 el término cúbico. -->
 
 ### Explicacion Pedagogica
@@ -106,13 +106,13 @@ Sustituyendo x = -2 en P(x): P(-2) = 2(-2)³ - (-2)² + 3(-2) - 5 = 2(-8) - 4 - 
 ¿Cuál es la coordenada x del vértice de la parábola f(x)?
 
 ### Opciones
-- [x] A) x = 3
+- [x] D) x = 3
   <!-- feedback: ¡Correcto! x_v = -b/(2a) = -(-12)/(2*2) = 12/4 = 3. -->
-- [ ] B) x = -3
+- [ ] A) x = -3
   <!-- feedback: Incorrecto. Erraste en el signo de la fórmula del vértice. -->
-- [ ] C) x = 6
+- [ ] B) x = 6
   <!-- feedback: Incorrecto. Olvidaste multiplicar por a = 2 el denominador. -->
-- [ ] D) x = 12
+- [ ] C) x = 12
   <!-- feedback: Incorrecto. No dividiste entre 2a. -->
 
 ### Explicacion Pedagogica
@@ -154,13 +154,13 @@ Para hallar los ceros igualamos la función a 0: x² - 5x + 6 = 0 ⇒ (x - 2)(x 
 ¿Cuál es el cociente Q(x) resultante de la división sintética?
 
 ### Opciones
-- [x] A) Q(x) = x² - 5x + 6
+- [x] D) Q(x) = x² - 5x + 6
   <!-- feedback: ¡Correcto! Dividiendo sintéticamente por r = 1, los coeficientes resultantes son 1, -5, 6 con residuo 0. -->
-- [ ] B) Q(x) = x² - 7x + 18
+- [ ] A) Q(x) = x² - 7x + 18
   <!-- feedback: Incorrecto. Sumaste el valor de la raíz en lugar de operar sintéticamente. -->
-- [ ] C) Q(x) = x² + 5x + 6
+- [ ] B) Q(x) = x² + 5x + 6
   <!-- feedback: Incorrecto. Erraste en los signos de los términos del cociente. -->
-- [ ] D) Q(x) = x² - 6x + 11
+- [ ] C) Q(x) = x² - 6x + 11
   <!-- feedback: Incorrecto. Copiaste los coeficientes originales del dividendo. -->
 
 ### Explicacion Pedagogica
@@ -202,13 +202,13 @@ El dominio de una función racional excluye los valores que anulan el denominado
 ¿Cuál es la expresión simplificada de la función compuesta f(g(x))?
 
 ### Opciones
-- [x] A) f(g(x)) = 6x + 10
+- [x] D) f(g(x)) = 6x + 10
   <!-- feedback: ¡Correcto! f(g(x)) = 3(2x + 4) - 2 = 6x + 12 - 2 = 6x + 10. -->
-- [ ] B) f(g(x)) = 6x + 12
+- [ ] A) f(g(x)) = 6x + 12
   <!-- feedback: Incorrecto. Olvidaste restar la constante 2 de la función f(x). -->
-- [ ] C) f(g(x)) = 5x + 2
+- [ ] B) f(g(x)) = 5x + 2
   <!-- feedback: Incorrecto. Sumaste las funciones en lugar de componerlas. -->
-- [ ] D) f(g(x)) = 6x² + 8x - 8
+- [ ] C) f(g(x)) = 6x² + 8x - 8
   <!-- feedback: Incorrecto. Multiplicaste f(x) por g(x) en lugar de realizar la composición. -->
 
 ### Explicacion Pedagogica
@@ -226,9 +226,9 @@ La función compuesta f(g(x)) se obtiene sustituyendo g(x) en la variable x de f
 ¿Cuál es la función inversa f⁻¹(x)?
 
 ### Opciones
-- [x] A) f⁻¹(x) = (x - 8) / 4
+- [x] B) f⁻¹(x) = (x - 8) / 4
   <!-- feedback: ¡Correcto! y = 4x + 8 ⇒ y - 8 = 4x ⇒ x = (y - 8)/4. Intercambiando variables: f⁻¹(x) = (x - 8)/4. -->
-- [ ] B) f⁻¹(x) = (x + 8) / 4
+- [ ] A) f⁻¹(x) = (x + 8) / 4
   <!-- feedback: Incorrecto. Erraste en el signo al trasponer la constante 8. -->
 - [ ] C) f⁻¹(x) = 4x - 8
   <!-- feedback: Incorrecto. No invertiste la multiplicación por 4. -->
@@ -250,11 +250,11 @@ Para hallar la función inversa, igualamos y = 4x + 8 y despejamos x: x = (y - 8
 ¿Cuál es la expresión simplificada equivalente para x ≠ 4 y x ≠ -2?
 
 ### Opciones
-- [x] A) (x + 4) / (x + 2)
+- [x] C) (x + 4) / (x + 2)
   <!-- feedback: ¡Correcto! (x - 4)(x + 4) / [(x - 4)(x + 2)] = (x + 4) / (x + 2). -->
-- [ ] B) (x - 4) / (x - 2)
+- [ ] A) (x - 4) / (x - 2)
   <!-- feedback: Incorrecto. Cancelaste el factor incorrecto en el numerador. -->
-- [ ] C) 2
+- [ ] B) 2
   <!-- feedback: Incorrecto. Cancelaste erróneamente los términos cuadráticos y lineales. -->
 - [ ] D) (x + 4) / (x - 2)
   <!-- feedback: Incorrecto. Erraste en el signo del término independiente del denominador. -->
@@ -274,11 +274,11 @@ Factorizamos el numerador: x² - 16 = (x - 4)(x + 4). Factorizamos el denominado
 ¿Cuál es el valor constante de k para que el residuo sea cero?
 
 ### Opciones
-- [x] A) k = 2
+- [x] C) k = 2
   <!-- feedback: ¡Correcto! P(2) = 2(8) - 3(4) + 2k - 8 = 16 - 12 + 2k - 8 = 2k - 4 = 0 ⇒ 2k = 4 ⇒ k = 2. -->
-- [ ] B) k = -2
+- [ ] A) k = -2
   <!-- feedback: Incorrecto. Erraste en el signo al despejar 2k = 4. -->
-- [ ] C) k = 4
+- [ ] B) k = 4
   <!-- feedback: Incorrecto. Olvidaste dividir entre el coeficiente 2 de k. -->
 - [ ] D) k = -4
   <!-- feedback: Incorrecto. Cometiste un error de signos acumulado. -->
@@ -298,11 +298,11 @@ Por el Teorema del Factor, P(x) es divisible por (x - 2) si P(2) = 0. P(2) = 16 
 ¿Cuáles son las tres raíces reales de la ecuación?
 
 ### Opciones
-- [x] A) x = 3, x = 2, x = -2
+- [x] C) x = 3, x = 2, x = -2
   <!-- feedback: ¡Correcto! x²(x - 3) - 4(x - 3) = (x - 3)(x² - 4) = (x - 3)(x - 2)(x + 2) = 0 ⇒ x = 3, 2, -2. -->
-- [ ] B) x = -3, x = 1, x = -1
+- [ ] A) x = -3, x = 1, x = -1
   <!-- feedback: Incorrecto. Factorizaste de forma errónea la diferencia de cuadrados. -->
-- [ ] C) x = 3, x = 4, x = -4
+- [ ] B) x = 3, x = 4, x = -4
   <!-- feedback: Incorrecto. Tomaste la raíz cuadrada de 16 en lugar de 4. -->
 - [ ] D) x = 0, x = 3, x = 2
   <!-- feedback: Incorrecto. Asumiste que x = 0 era raíz sin ser término independiente nulo. -->
@@ -322,13 +322,13 @@ Agrupamos los términos: x²(x - 3) - 4(x - 3) = 0 ⇒ (x - 3)(x² - 4) = 0 ⇒ 
 ¿Cuál es la función de volumen V(x) de la caja abierta resultante?
 
 ### Opciones
-- [x] A) V(x) = x(12 - 2x)²
+- [x] D) V(x) = x(12 - 2x)²
   <!-- feedback: ¡Correcto! Los lados de la base miden (12 - 2x) cm y la altura es x cm. El volumen es base × altura: V(x) = x(12 - 2x)². -->
-- [ ] B) V(x) = x(12 - x)²
+- [ ] A) V(x) = x(12 - x)²
   <!-- feedback: Incorrecto. Descontaste solo un cuadrado x en lugar de dos por cada dimensión. -->
-- [ ] C) V(x) = 144x - 4x²
+- [ ] B) V(x) = 144x - 4x²
   <!-- feedback: Incorrecto. Corresponde al área de la lámina, no al volumen tridimensional. -->
-- [ ] D) V(x) = (12 - 2x)³
+- [ ] C) V(x) = (12 - 2x)³
   <!-- feedback: Incorrecto. Asumiste que la altura también medía (12 - 2x). -->
 
 ### Explicacion Pedagogica
@@ -346,13 +346,13 @@ Al cortar cuadrados de esquina de lado x, el largo y el ancho de la base se redu
 ¿Cuál es el conjunto solución exacto expresado en notación de intervalos?
 
 ### Opciones
-- [x] A) El intervalo semihabierto (-3, 1]
+- [x] D) El intervalo semihabierto (-3, 1]
   <!-- feedback: ¡Correcto! Puntos críticos x = -3 (abierto) y x = 1 (cerrado). El cociente es ≤ 0 en (-3, 1]. -->
-- [ ] B) El intervalo cerrado [-3, 1]
+- [ ] A) El intervalo cerrado [-3, 1]
   <!-- feedback: Incorrecto. Incluiste x = -3, pero este valor anula el denominador produciendo indeterminación. -->
-- [ ] C) La unión (-∞, -3) ∪ [1, ∞)
+- [ ] B) La unión (-∞, -3) ∪ [1, ∞)
   <!-- feedback: Incorrecto. Seleccionaste los intervalos donde la expresión es positiva. -->
-- [ ] D) El intervalo semihabierto [-3, 1)
+- [ ] C) El intervalo semihabierto [-3, 1)
   <!-- feedback: Incorrecto. Invertiste la apertura y cierre de los extremos. -->
 
 ### Explicacion Pedagogica
@@ -370,9 +370,9 @@ Los puntos críticos son x = -3 y x = 1. Evaluando signos en los intervalos, la 
 ¿Cuáles son las dos soluciones reales de la ecuación?
 
 ### Opciones
-- [x] A) x = 7 y x = -2
+- [x] B) x = 7 y x = -2
   <!-- feedback: ¡Correcto! 2x - 5 = 9 ⇒ 2x = 14 ⇒ x = 7; o 2x - 5 = -9 ⇒ 2x = -4 ⇒ x = -2. -->
-- [ ] B) x = 7 y x = 2
+- [ ] A) x = 7 y x = 2
   <!-- feedback: Incorrecto. Erraste en el signo de la segunda solución al despejar. -->
 - [ ] C) x = 14 y x = -4
   <!-- feedback: Incorrecto. Olvidaste dividir entre el coeficiente 2 ambos resultados. -->
@@ -418,11 +418,11 @@ Para una función racional donde el grado del numerador es 1 unidad mayor que el
 ¿En qué intervalo de x la función es cóncava hacia arriba (f''(x) > 0)?
 
 ### Opciones
-- [x] A) El intervalo abierto (1, ∞)
+- [x] C) El intervalo abierto (1, ∞)
   <!-- feedback: ¡Correcto! f'(x) = 3x² - 6x - 9, f''(x) = 6x - 6. Igualando a cero 6x - 6 > 0 ⇒ x > 1. -->
-- [ ] B) El intervalo abierto (-∞, 1)
+- [ ] A) El intervalo abierto (-∞, 1)
   <!-- feedback: Incorrecto. En este intervalo f''(x) < 0, lo que representa concavidad hacia abajo. -->
-- [ ] C) El intervalo abierto (-1, 3)
+- [ ] B) El intervalo abierto (-1, 3)
   <!-- feedback: Incorrecto. Este representa el intervalo de decrecimiento de la función. -->
 - [ ] D) El intervalo abierto (3, ∞)
   <!-- feedback: Incorrecto. Confundiste el punto crítico x = 3 con el punto de inflexión x = 1. -->
@@ -442,11 +442,11 @@ Primera derivada: f'(x) = 3x² - 6x - 9. Segunda derivada: f''(x) = 6x - 6. Para
 ¿Cuáles son los dos puntos pares ordenados (x, y) de solución real?
 
 ### Opciones
-- [x] A) (4, 3) y (-3, -4)
+- [x] C) (4, 3) y (-3, -4)
   <!-- feedback: ¡Correcto! De y = x - 1: x² + (x - 1)² = 25 ⇒ 2x² - 2x - 24 = 0 ⇒ x² - x - 12 = 0 ⇒ (x - 4)(x + 3) = 0 ⇒ (4, 3) y (-3, -4). -->
-- [ ] B) (5, 0) y (0, -5)
+- [ ] A) (5, 0) y (0, -5)
   <!-- feedback: Incorrecto. Estos puntos no cumplen la ecuación lineal x - y = 1. -->
-- [ ] C) (3, 4) y (-4, -3)
+- [ ] B) (3, 4) y (-4, -3)
   <!-- feedback: Incorrecto. Intercambiaste las coordenadas de x e y en los puntos. -->
 - [ ] D) (4, -3) y (-3, 4)
   <!-- feedback: Incorrecto. Erraste en los signos de la ordenada y. -->
@@ -490,11 +490,11 @@ La función de área del rectángulo de base 2x y altura y = 12 - x² es A(x) = 
 ¿Cuáles son los valores numéricos de las constantes A y B?
 
 ### Opciones
-- [x] A) A = 2 y B = 3
+- [x] C) A = 2 y B = 3
   <!-- feedback: ¡Correcto! 5x - 1 = A(x + 1) + B(x - 1). Para x = 1: 4 = 2A ⇒ A = 2. Para x = -1: -6 = -2B ⇒ B = 3. -->
-- [ ] B) A = 3 y B = 2
+- [ ] A) A = 3 y B = 2
   <!-- feedback: Incorrecto. Intercambiaste los valores numéricos de A y B. -->
-- [ ] C) A = 5 y B = -1
+- [ ] B) A = 5 y B = -1
   <!-- feedback: Incorrecto. Tomaste los coeficientes del numerador directamente. -->
 - [ ] D) A = 1 y B = 4
   <!-- feedback: Incorrecto. Evaluaste con errores los puntos críticos x = 1 y x = -1. -->

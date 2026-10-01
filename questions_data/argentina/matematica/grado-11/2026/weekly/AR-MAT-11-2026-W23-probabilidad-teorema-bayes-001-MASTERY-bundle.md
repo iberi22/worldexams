@@ -39,9 +39,9 @@ Este bundle profundiza en el Teorema de Bayes y la probabilidad total, herramien
 
 ### Opciones
 - [ ] A) P(A|B) = P(A ∩ B) / P(A) <!-- feedback: Incorrecto. El denominador debe ser la probabilidad del evento condicionante (B). -->
-- [x] B) P(A|B) = [P(B|A) * P(A)] / P(B) <!-- feedback: Correcto. Esta es la expresión clásica del Teorema de Bayes. -->
-- [ ] C) P(A|B) = P(A) + P(B) - P(A ∩ B) <!-- feedback: Incorrecto. Esta es la fórmula para la probabilidad de la unión. -->
-- [ ] D) P(A|B) = P(B|A) * P(B) <!-- feedback: Incorrecto. No respeta la relación de proporcionalidad correcta. -->
+- [x] D) P(A|B) = [P(B|A) * P(A)] / P(B) <!-- feedback: Correcto. Esta es la expresión clásica del Teorema de Bayes. -->
+- [ ] B) P(A|B) = P(A) + P(B) - P(A ∩ B) <!-- feedback: Incorrecto. Esta es la fórmula para la probabilidad de la unión. -->
+- [ ] C) P(A|B) = P(B|A) * P(B) <!-- feedback: Incorrecto. No respeta la relación de proporcionalidad correcta. -->
 
 ### Explicacion Pedagogica
 El Teorema de Bayes permite calcular la probabilidad de un evento A dado que ocurrió B, a partir de la probabilidad de B dado A y las probabilidades marginales de cada evento. Es fundamental para actualizar probabilidades a medida que aparece nueva información.
@@ -62,9 +62,9 @@ En el Teorema de Bayes, ¿qué representa el término P(A)?
 
 ### Opciones
 - [ ] A) Probabilidad condicional <!-- feedback: Incorrecto. La condicional se escribe con una barra vertical. -->
-- [x] B) Probabilidad a priori <!-- feedback: Correcto. Representa la creencia o probabilidad inicial antes de conocer nueva evidencia. -->
-- [ ] C) Probabilidad a posteriori <!-- feedback: Incorrecto. Esa es la probabilidad calculada después de aplicar el teorema. -->
-- [ ] D) Verosimilitud <!-- feedback: Incorrecto. La verosimilitud suele asociarse al término P(B|A). -->
+- [x] D) Probabilidad a priori <!-- feedback: Correcto. Representa la creencia o probabilidad inicial antes de conocer nueva evidencia. -->
+- [ ] B) Probabilidad a posteriori <!-- feedback: Incorrecto. Esa es la probabilidad calculada después de aplicar el teorema. -->
+- [ ] C) Verosimilitud <!-- feedback: Incorrecto. La verosimilitud suele asociarse al término P(B|A). -->
 
 ### Explicacion Pedagogica
 P(A) se denomina probabilidad "a priori" porque es la probabilidad asignada al evento antes de recolectar nuevos datos o evidencias (como el resultado de un test).
@@ -85,8 +85,8 @@ P(A) se denomina probabilidad "a priori" porque es la probabilidad asignada al e
 
 ### Opciones
 - [ ] A) Teorema de Pitágoras <!-- feedback: Incorrecto. Ese teorema es para triángulos rectángulos. -->
-- [x] B) Teorema de la Probabilidad Total <!-- feedback: Correcto. Este teorema suma las probabilidades de B a través de una partición del espacio muestral. -->
-- [ ] C) Ley de Laplace <!-- feedback: Incorrecto. Esta ley es para casos equiprobables. -->
+- [x] C) Teorema de la Probabilidad Total <!-- feedback: Correcto. Este teorema suma las probabilidades de B a través de una partición del espacio muestral. -->
+- [ ] B) Ley de Laplace <!-- feedback: Incorrecto. Esta ley es para casos equiprobables. -->
 - [ ] D) Teorema Central del Límite <!-- feedback: Incorrecto. Este teorema describe la distribución de promedios de muestras. -->
 
 ### Explicacion Pedagogica
@@ -108,8 +108,8 @@ Si P(Voto | Jóvenes) = 0,6 y P(Voto | Adultos) = 0,8, ¿es posible que la proba
 
 ### Opciones
 - [ ] A) Sí, si hay más adultos que jóvenes. <!-- feedback: Incorrecto. El valor total debe estar en el rango de los valores condicionales. -->
-- [x] B) No, porque P(Voto) debe ser un promedio ponderado entre 0,6 y 0,8. <!-- feedback: Correcto. El valor total nunca puede ser mayor al máximo ni menor al mínimo de las probabilidades condicionadas. -->
-- [ ] C) Sí, si la mayoría de la población no vota. <!-- feedback: Incorrecto. No tiene sentido con los datos dados. -->
+- [x] C) No, porque P(Voto) debe ser un promedio ponderado entre 0,6 y 0,8. <!-- feedback: Correcto. El valor total nunca puede ser mayor al máximo ni menor al mínimo de las probabilidades condicionadas. -->
+- [ ] B) Sí, si la mayoría de la población no vota. <!-- feedback: Incorrecto. No tiene sentido con los datos dados. -->
 - [ ] D) Depende de cuántas personas fueron encuestadas. <!-- feedback: Incorrecto. La proporción es independiente del tamaño de muestra para este concepto teórico. -->
 
 ### Explicacion Pedagogica
@@ -133,8 +133,8 @@ La probabilidad total es una suma ponderada: P(B) = Σ P(B|Ai)P(Ai). Matemática
 
 ### Opciones
 - [ ] A) 0,07 <!-- feedback: Incorrecto. No se pueden sumar las tasas de falla directamente. -->
-- [x] B) 0,032 <!-- feedback: Correcto. P(F) = (0,60 * 0,02) + (0,40 * 0,05) = 0,012 + 0,020 = 0,032. -->
-- [ ] C) 0,035 <!-- feedback: Incorrecto. Este sería el promedio simple, no el ponderado. -->
+- [x] C) 0,032 <!-- feedback: Correcto. P(F) = (0,60 * 0,02) + (0,40 * 0,05) = 0,012 + 0,020 = 0,032. -->
+- [ ] B) 0,035 <!-- feedback: Incorrecto. Este sería el promedio simple, no el ponderado. -->
 - [ ] D) 0,012 <!-- feedback: Incorrecto. Esta es solo la probabilidad de falla en la línea 1. -->
 
 ### Explicacion Pedagogica
@@ -157,8 +157,8 @@ Aplicamos la probabilidad total: P(Falla) = P(Falla|L1)P(L1) + P(Falla|L2)P(L2).
 ### Opciones
 - [ ] A) 0,40 <!-- feedback: Incorrecto. Esta es la probabilidad a priori de ser de la línea 2. -->
 - [ ] B) 0,05 <!-- feedback: Incorrecto. Esta es la probabilidad de falla dado que es de la línea 2. -->
-- [x] C) 0,625 <!-- feedback: Correcto. P(L2|F) = P(F|L2)P(L2) / P(F) = 0,020 / 0,032 = 0,625. -->
-- [ ] D) 0,375 <!-- feedback: Incorrecto. Esta es la probabilidad de que provenga de la línea 1. -->
+- [x] D) 0,625 <!-- feedback: Correcto. P(L2|F) = P(F|L2)P(L2) / P(F) = 0,020 / 0,032 = 0,625. -->
+- [ ] C) 0,375 <!-- feedback: Incorrecto. Esta es la probabilidad de que provenga de la línea 1. -->
 
 ### Explicacion Pedagogica
 Aplicamos el Teorema de Bayes: P(L2|Falla) = P(Falla ∩ L2) / P(Falla). El numerador es 0,05 * 0,40 = 0,020. El denominador es 0,032. 0,020 / 0,032 = 20/32 = 5/8 = 0,625.
@@ -180,8 +180,8 @@ Aplicamos el Teorema de Bayes: P(L2|Falla) = P(Falla ∩ L2) / P(Falla). El nume
 ¿Cuál es la probabilidad total de que el test dé positivo en un paciente elegido al azar?
 
 ### Opciones
-- [ ] A) 0,90 <!-- feedback: Incorrecto. Esa es la tasa de verdaderos positivos. -->
-- [x] B) 0,18 <!-- feedback: Correcto. P(+) = P(+|A)P(A) + P(+|NA)P(NA) = 0,90*0,10 + 0,10*0,90 = 0,09 + 0,09 = 0,18. -->
+- [ ] B) 0,90 <!-- feedback: Incorrecto. Esa es la tasa de verdaderos positivos. -->
+- [x] A) 0,18 <!-- feedback: Correcto. P(+) = P(+|A)P(A) + P(+|NA)P(NA) = 0,90*0,10 + 0,10*0,90 = 0,09 + 0,09 = 0,18. -->
 - [ ] C) 0,10 <!-- feedback: Incorrecto. Esta es solo la tasa de falsos positivos o la prevalencia. -->
 - [ ] D) 0,20 <!-- feedback: Incorrecto. Error en los cálculos ponderados. -->
 
@@ -249,8 +249,8 @@ Para la intersección de eventos dependientes: P(A ∩ B) = P(A|B) * P(B). La pr
 ¿Cuál es la probabilidad de que un graduado haya realizado una pasantía?
 
 ### Opciones
-- [ ] A) 0,80 <!-- feedback: Incorrecto. Esta es una probabilidad condicional. -->
-- [x] B) 0,56 <!-- feedback: Correcto. P(Pas) = 0,80*0,60 + 0,20*0,40 = 0,48 + 0,08 = 0,56. -->
+- [ ] B) 0,80 <!-- feedback: Incorrecto. Esta es una probabilidad condicional. -->
+- [x] A) 0,56 <!-- feedback: Correcto. P(Pas) = 0,80*0,60 + 0,20*0,40 = 0,48 + 0,08 = 0,56. -->
 - [ ] C) 0,50 <!-- feedback: Incorrecto. Error en la suma ponderada. -->
 - [ ] D) 0,60 <!-- feedback: Incorrecto. Esta es la probabilidad de conseguir empleo rápido. -->
 
@@ -274,8 +274,8 @@ Si una queja NO se resolvió en la primera llamada, ¿cuál es la probabilidad d
 ### Opciones
 - [ ] A) 0,60 <!-- feedback: Incorrecto. Esta es la probabilidad previa. -->
 - [ ] B) 0,18 <!-- feedback: Incorrecto. Esta es la probabilidad de que sea nuevo y no resuelva. -->
-- [x] C) 0,90 <!-- feedback: Correcto. P(NoR) = 0,05*0,4 + 0,3*0,6 = 0,02 + 0,18 = 0,20. P(Nuevo|NoR) = 0,18 / 0,20 = 0,9. -->
-- [ ] D) 0,70 <!-- feedback: Incorrecto. No corresponde al cálculo de Bayes inverso. -->
+- [x] D) 0,90 <!-- feedback: Correcto. P(NoR) = 0,05*0,4 + 0,3*0,6 = 0,02 + 0,18 = 0,20. P(Nuevo|NoR) = 0,18 / 0,20 = 0,9. -->
+- [ ] C) 0,70 <!-- feedback: Incorrecto. No corresponde al cálculo de Bayes inverso. -->
 
 ### Explicacion Pedagogica
 Calculamos P(No Resuelto) = 0,20. De ese 20%, la parte que corresponde a los agentes nuevos es 0,18 (60% de 30% de fallas). P = 0,18 / 0,20 = 0,9. Es muy probable que si no se resolvió, el agente fuera nuevo.
@@ -295,8 +295,8 @@ Calculamos P(No Resuelto) = 0,20. De ese 20%, la parte que corresponde a los age
 Si un cliente tuvo un accidente este año, ¿cuál es la probabilidad de que sea un conductor de bajo riesgo?
 
 ### Opciones
-- [x] A) 0,50 <!-- feedback: Correcto. P(Acc) = 0,4*0,2 + 0,1*0,8 = 0,08 + 0,08 = 0,16. P(BR|Acc) = 0,08 / 0,16 = 0,5. -->
-- [ ] B) 0,80 <!-- feedback: Incorrecto. Esta es la probabilidad de ser de bajo riesgo antes de saber del accidente. -->
+- [x] B) 0,50 <!-- feedback: Correcto. P(Acc) = 0,4*0,2 + 0,1*0,8 = 0,08 + 0,08 = 0,16. P(BR|Acc) = 0,08 / 0,16 = 0,5. -->
+- [ ] A) 0,80 <!-- feedback: Incorrecto. Esta es la probabilidad de ser de bajo riesgo antes de saber del accidente. -->
 - [ ] C) 0,10 <!-- feedback: Incorrecto. Esta es la probabilidad de accidente dado que es bajo riesgo. -->
 - [ ] D) 0,25 <!-- feedback: Incorrecto. Error en la aplicación de la fórmula de Bayes. -->
 
@@ -391,8 +391,8 @@ Si un empleado llegó temprano, ¿cuál es la probabilidad de que NO use bicicle
 
 ### Opciones
 - [ ] A) 0,70 <!-- feedback: Incorrecto. Esta es la probabilidad a priori de no usar bicicleta. -->
-- [ ] B) 0,28 <!-- feedback: Incorrecto. Esta es la intersección P(No Bici y Temprano). -->
-- [x] C) 0,609 <!-- feedback: Correcto. P(T) = 0,6*0,3 + 0,4*0,7 = 0,18 + 0,28 = 0,46. P(NoB|T) = 0,28 / 0,46 ≈ 0,609. -->
+- [ ] C) 0,28 <!-- feedback: Incorrecto. Esta es la intersección P(No Bici y Temprano). -->
+- [x] B) 0,609 <!-- feedback: Correcto. P(T) = 0,6*0,3 + 0,4*0,7 = 0,18 + 0,28 = 0,46. P(NoB|T) = 0,28 / 0,46 ≈ 0,609. -->
 - [ ] D) 0,391 <!-- feedback: Incorrecto. Esta es la probabilidad de que sí use bicicleta dado que llegó temprano. -->
 
 ### Explicacion Pedagogica
@@ -413,8 +413,8 @@ P(Temprano) = 0,46. El grupo de los que no usan bicicleta aporta más a los "lle
 ¿Cuál es la probabilidad de que la segunda bola sea blanca?
 
 ### Opciones
-- [ ] A) 4/7 <!-- feedback: Incorrecto. Este es el promedio simple de blancas en ambas urnas. -->
-- [x] B) 17/28 <!-- feedback: Correcto. P(U1|B1) = (5/7 * 1/2) / (5/7 * 1/2 + 3/7 * 1/2) = 5/8. P(U2|B1) = 3/8. P(B2) = P(B2|U1)P(U1|B1) + P(B2|U2)P(U2|B1) = (5/7 * 5/8) + (3/7 * 3/8) = (25+9)/56 = 34/56 = 17/28. -->
+- [ ] B) 4/7 <!-- feedback: Incorrecto. Este es el promedio simple de blancas en ambas urnas. -->
+- [x] A) 17/28 <!-- feedback: Correcto. P(U1|B1) = (5/7 * 1/2) / (5/7 * 1/2 + 3/7 * 1/2) = 5/8. P(U2|B1) = 3/8. P(B2) = P(B2|U1)P(U1|B1) + P(B2|U2)P(U2|B1) = (5/7 * 5/8) + (3/7 * 3/8) = (25+9)/56 = 34/56 = 17/28. -->
 - [ ] C) 1/2 <!-- feedback: Incorrecto. No refleja la mayor probabilidad de estar en la urna 1. -->
 - [ ] D) 5/7 <!-- feedback: Incorrecto. Esto supone que estamos seguro en la urna 1. -->
 
@@ -436,8 +436,8 @@ Al sacar una blanca primero, la probabilidad de estar en la Urna 1 (que tiene m�
 Si el sistema ACEPTA un acceso, ¿cuál es la probabilidad de que se trate de un impostor?
 
 ### Opciones
-- [x] A) 0,0000001 <!-- feedback: Correcto. P(Acept) = 0,99 * 0,999 + 0,0001 * 0,001 ≈ 0,989. P(Imp|Ace) = (0,0001 * 0,001) / 0,989 ≈ 0,0000001. Es extremadamente baja debido a la baja tasa de impostores y baja falsa aceptación. -->
-- [ ] B) 0,01 <!-- feedback: Incorrecto. No considera la proporción de base de clientes legítimos. -->
+- [x] B) 0,0000001 <!-- feedback: Correcto. P(Acept) = 0,99 * 0,999 + 0,0001 * 0,001 ≈ 0,989. P(Imp|Ace) = (0,0001 * 0,001) / 0,989 ≈ 0,0000001. Es extremadamente baja debido a la baja tasa de impostores y baja falsa aceptación. -->
+- [ ] A) 0,01 <!-- feedback: Incorrecto. No considera la proporción de base de clientes legítimos. -->
 - [ ] C) 0,001 <!-- feedback: Incorrecto. Esta es la tasa de impostores previa. -->
 - [ ] D) 0,10 <!-- feedback: Incorrecto. No corresponde a la alta precisión del sistema. -->
 
@@ -461,8 +461,8 @@ La probabilidad de que un acceso aceptado sea de un impostor es bajísima porque
 ### Opciones
 - [ ] A) 1/3 <!-- feedback: Incorrecto. Esta era la probabilidad inicial. -->
 - [ ] B) 1/2 <!-- feedback: Incorrecto. La apertura de la caja vacía por alguien que sabe no reparte las chances 50/50. -->
-- [x] C) 2/3 <!-- feedback: Correcto. Al cambiar, ganás siempre que tu elección inicial haya sido incorrecta, lo cual ocurre el 66,6% de las veces. -->
-- [ ] D) 1/4 <!-- feedback: Incorrecto. El espacio se redujo, la probabilidad debe aumentar. -->
+- [x] D) 2/3 <!-- feedback: Correcto. Al cambiar, ganás siempre que tu elección inicial haya sido incorrecta, lo cual ocurre el 66,6% de las veces. -->
+- [ ] C) 1/4 <!-- feedback: Incorrecto. El espacio se redujo, la probabilidad debe aumentar. -->
 
 ### Explicacion Pedagogica
 Este es un clásico de Bayes. P(Premio en C | Conductor abre B) = [P(Conductor abre B | C) * P(C)] / P(Cond abre B). Al calcularlo, resulta que la probabilidad de la caja no elegida inicialmente se duplica al abrirse una de las otras.
@@ -483,8 +483,8 @@ Si tiró el dado y salió un 6, ¿cuál es la probabilidad de que haya sacado un
 
 ### Opciones
 - [ ] A) 3/13 <!-- feedback: Incorrecto. Esta es la probabilidad de sacar figura del mazo. -->
-- [ ] B) 0,50 <!-- feedback: Incorrecto. El dado normal también puede sacar un 6. -->
-- [x] C) 0,473 <!-- feedback: Correcto. P(Fig) = 12/52 = 3/13. P(NoFig) = 10/13. P(6) = (0,5 * 3/13) + (1/6 * 10/13) ≈ 0,1154 + 0,1282 = 0,2436. P(Fig|6) = 0,1154 / 0,2436 ≈ 0,473. -->
+- [ ] C) 0,50 <!-- feedback: Incorrecto. El dado normal también puede sacar un 6. -->
+- [x] B) 0,473 <!-- feedback: Correcto. P(Fig) = 12/52 = 3/13. P(NoFig) = 10/13. P(6) = (0,5 * 3/13) + (1/6 * 10/13) ≈ 0,1154 + 0,1282 = 0,2436. P(Fig|6) = 0,1154 / 0,2436 ≈ 0,473. -->
 - [ ] D) 0,11 <!-- feedback: Incorrecto. Esta es la intersección de sacar figura y sacar 6. -->
 
 ### Explicacion Pedagogica

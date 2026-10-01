@@ -31,8 +31,8 @@ bundle_index: 1
 ¿A cuál de los siguientes conjuntos pertenece el número $-\sqrt{49}$?
 
 ### Opciones
-- [x] A) Enteros negativos <!-- feedback: Correcto. $-\sqrt{49} = -7$, que es un número entero negativo. -->
-- [ ] B) Irracionales <!-- feedback: Incorrecto. $-\sqrt{49}$ es $-7$, que es racional y entero. -->
+- [x] B) Enteros negativos <!-- feedback: Correcto. $-\sqrt{49} = -7$, que es un número entero negativo. -->
+- [ ] A) Irracionales <!-- feedback: Incorrecto. $-\sqrt{49}$ es $-7$, que es racional y entero. -->
 - [ ] C) Imaginarios <!-- feedback: Incorrecto. El radicando es positivo, por lo que es un número real. -->
 - [ ] D) Fraccionarios propios <!-- feedback: Incorrecto. Es un número entero, no una fracción propia. -->
 
@@ -53,8 +53,8 @@ El número $-\sqrt{49}$ se simplifica directamente como $-7$. Dado que $-7$ no p
 
 ### Opciones
 - [ ] A) $0$ <!-- feedback: Incorrecto. El cero es la identidad de la suma (aditivo). -->
-- [x] B) $1$ <!-- feedback: Correcto. Multiplicar cualquier número real por $1$ mantiene el valor original. -->
-- [ ] C) $-1$ <!-- feedback: Incorrecto. Multiplicar por $-1$ cambia el signo del número. -->
+- [x] C) $1$ <!-- feedback: Correcto. Multiplicar cualquier número real por $1$ mantiene el valor original. -->
+- [ ] B) $-1$ <!-- feedback: Incorrecto. Multiplicar por $-1$ cambia el signo del número. -->
 - [ ] D) Inexistente <!-- feedback: Incorrecto. El conjunto de los números reales es un cuerpo y tiene neutro multiplicativo. -->
 
 ### Explicacion Pedagogica
@@ -118,9 +118,9 @@ El decimal $0.121212...$ es periódico puro con periodo $12$. Su fracción gener
 Si la temperatura inicial es de $-3.4^\circ\text{C}$ y desciende $5.8^\circ\text{C}$ adicionales, ¿cuál es la temperatura final?
 
 ### Opciones
-- [ ] A) $2.4^\circ\text{C}$ <!-- feedback: Incorrecto. Se restó incorrectamente sin considerar los signos negativos. -->
-- [ ] B) $-2.4^\circ\text{C}$ <!-- feedback: Incorrecto. Al descender, la temperatura debe ser más fría. -->
-- [x] C) $-9.2^\circ\text{C}$ <!-- feedback: Correcto. $-3.4 - 5.8 = -9.2$. -->
+- [ ] B) $2.4^\circ\text{C}$ <!-- feedback: Incorrecto. Se restó incorrectamente sin considerar los signos negativos. -->
+- [ ] C) $-2.4^\circ\text{C}$ <!-- feedback: Incorrecto. Al descender, la temperatura debe ser más fría. -->
+- [x] A) $-9.2^\circ\text{C}$ <!-- feedback: Correcto. $-3.4 - 5.8 = -9.2$. -->
 - [ ] D) $-8.2^\circ\text{C}$ <!-- feedback: Incorrecto. Error de cálculo en la suma de los valores absolutos. -->
 
 ### Explicacion Pedagogica
@@ -140,8 +140,8 @@ Dado que la temperatura desciende, realizamos una resta sobre un valor negativo:
 
 ### Opciones
 - [ ] A) Representa la suma de las distancias desde el origen. <!-- feedback: Incorrecto. Eso sería $|x| + |y|$. -->
-- [x] B) Representa la distancia absoluta entre los puntos $x$ e $y$ en la recta numérica. <!-- feedback: Correcto. La distancia entre dos puntos siempre es el valor absoluto de su diferencia. -->
-- [ ] C) Es siempre igual a $x - y$. <!-- feedback: Incorrecto. Si $x < y$, $x - y$ es negativo, pero el valor absoluto es positivo. -->
+- [x] C) Representa la distancia absoluta entre los puntos $x$ e $y$ en la recta numérica. <!-- feedback: Correcto. La distancia entre dos puntos siempre es el valor absoluto de su diferencia. -->
+- [ ] B) Es siempre igual a $x - y$. <!-- feedback: Incorrecto. Si $x < y$, $x - y$ es negativo, pero el valor absoluto es positivo. -->
 - [ ] D) Puede ser un valor negativo si $y$ es mayor que $x$. <!-- feedback: Incorrecto. El valor absoluto por definición es siempre mayor o igual a cero. -->
 
 ### Explicacion Pedagogica
@@ -182,9 +182,9 @@ Se tienen $\frac{3}{5}$ litros de una solución ácida y se le agregan $0.45$ li
 
 ### Opciones
 - [ ] A) $\frac{1}{2}$ litros <!-- feedback: Incorrecto. La suma debe ser mayor que cada componente de forma individual. -->
-- [x] B) $\frac{21}{20}$ litros <!-- feedback: Correcto. $\frac{3}{5} + 0.45 = 0.60 + 0.45 = 1.05 = \frac{105}{100} = \frac{21}{20}$. -->
-- [ ] C) $\frac{39}{20}$ litros <!-- feedback: Incorrecto. Error al sumar las fracciones. -->
-- [ ] D) $\frac{7}{10}$ litros <!-- feedback: Incorrecto. Este volumen es menor que la suma de los componentes. -->
+- [x] D) $\frac{21}{20}$ litros <!-- feedback: Correcto. $\frac{3}{5} + 0.45 = 0.60 + 0.45 = 1.05 = \frac{105}{100} = \frac{21}{20}$. -->
+- [ ] B) $\frac{39}{20}$ litros <!-- feedback: Incorrecto. Error al sumar las fracciones. -->
+- [ ] C) $\frac{7}{10}$ litros <!-- feedback: Incorrecto. Este volumen es menor que la suma de los componentes. -->
 
 ### Explicacion Pedagogica
 Convertimos la fracción a decimal o el decimal a fracción. $0.45 = \frac{45}{100} = \frac{9}{20}$. Sumando las fracciones: $\frac{3}{5} + \frac{9}{20} = \frac{12}{20} + \frac{9}{20} = \frac{21}{20}$ litros (o $1.05$ litros).
@@ -202,9 +202,9 @@ Convertimos la fracción a decimal o el decimal a fracción. $0.45 = \frac{45}{1
 La finca tiene una extensión de $120$ cuerdas. Si destina $\frac{1}{3}$ al café, $0.25$ al plátano y el resto a cítricos, ¿cuántas cuerdas corresponden a cítricos?
 
 ### Opciones
-- [ ] A) 30 cuerdas <!-- feedback: Incorrecto. Esta cantidad corresponde al plátano ($0.25 \times 120 = 30$). -->
-- [ ] B) 40 cuerdas <!-- feedback: Incorrecto. Esta cantidad corresponde al café ($\frac{1}{3} \times 120 = 40$). -->
-- [x] C) 50 cuerdas <!-- feedback: Correcto. Café: $40$, Plátano: $30$. Suma: $70$. Resto para cítricos: $120 - 70 = 50$ cuerdas. -->
+- [ ] B) 30 cuerdas <!-- feedback: Incorrecto. Esta cantidad corresponde al plátano ($0.25 \times 120 = 30$). -->
+- [ ] C) 40 cuerdas <!-- feedback: Incorrecto. Esta cantidad corresponde al café ($\frac{1}{3} \times 120 = 40$). -->
+- [x] A) 50 cuerdas <!-- feedback: Correcto. Café: $40$, Plátano: $30$. Suma: $70$. Resto para cítricos: $120 - 70 = 50$ cuerdas. -->
 - [ ] D) 70 cuerdas <!-- feedback: Incorrecto. Este es el total destinado a café y plátano combinados. -->
 
 ### Explicacion Pedagogica
@@ -223,8 +223,8 @@ Primero calculamos el espacio asignado: Café $= 120 \times \frac{1}{3} = 40$ cu
 El punto $A$ se encuentra a $14.5$ metros sobre el nivel del mar y el punto $B$ a $-3.2$ metros. ¿Cuál es la distancia vertical absoluta entre ambos puntos?
 
 ### Opciones
-- [ ] A) 11.3 metros <!-- feedback: Incorrecto. Esto se obtuvo restando de forma simple sin valor absoluto de la diferencia. -->
-- [x] B) 17.7 metros <!-- feedback: Correcto. $|14.5 - (-3.2)| = |14.5 + 3.2| = 17.7$ metros. -->
+- [ ] B) 11.3 metros <!-- feedback: Incorrecto. Esto se obtuvo restando de forma simple sin valor absoluto de la diferencia. -->
+- [x] A) 17.7 metros <!-- feedback: Correcto. $|14.5 - (-3.2)| = |14.5 + 3.2| = 17.7$ metros. -->
 - [ ] C) -17.7 metros <!-- feedback: Incorrecto. Las distancias no pueden ser negativas. -->
 - [ ] D) 17.3 metros <!-- feedback: Incorrecto. Error de cálculo en la adición decimal. -->
 
@@ -247,8 +247,8 @@ La distancia vertical absoluta entre los puntos $A$ y $B$ se halla mediante el v
 ¿Cuál es el valor simplificado de la expresión $\left(\frac{2}{3} - \frac{1}{4}\right) \div \left(\frac{5}{12} + \frac{1}{2}\right)$?
 
 ### Opciones
-- [ ] A) $\frac{1}{3}$ <!-- feedback: Incorrecto. Error en la suma o resta intermedia. -->
-- [x] B) $\frac{5}{11}$ <!-- feedback: Correcto. Numerador: $\frac{8-3}{12} = \frac{5}{12}$. Denominador: $\frac{5+6}{12} = \frac{11}{12}$. División: $\frac{5}{12} \cdot \frac{12}{11} = \frac{5}{11}$. -->
+- [ ] B) $\frac{1}{3}$ <!-- feedback: Incorrecto. Error en la suma o resta intermedia. -->
+- [x] A) $\frac{5}{11}$ <!-- feedback: Correcto. Numerador: $\frac{8-3}{12} = \frac{5}{12}$. Denominador: $\frac{5+6}{12} = \frac{11}{12}$. División: $\frac{5}{12} \cdot \frac{12}{11} = \frac{5}{11}$. -->
 - [ ] C) $\frac{11}{5}$ <!-- feedback: Incorrecto. Se invirtió el orden de la división. -->
 - [ ] D) $\frac{5}{12}$ <!-- feedback: Incorrecto. Error al realizar la división de fracciones. -->
 
@@ -269,9 +269,9 @@ Si un abrigo cuesta originalmente $\$80.00$, ¿cuál es su precio final de venta
 
 ### Opciones
 - [ ] A) $\$56.00$ <!-- feedback: Incorrecto. Se asumió una rebaja del $30\%$ directa de forma incorrecta. -->
-- [x] B) $\$57.60$ <!-- feedback: Correcto. Primer descuento: $80 \times 0.80 = 64$. Segundo descuento: $64 \times 0.90 = 57.60$. -->
-- [ ] C) $\$64.00$ <!-- feedback: Incorrecto. Este es solo el precio tras el primer descuento de $20\%$. -->
-- [ ] D) $\$60.00$ <!-- feedback: Incorrecto. Error de cálculo matemático en el descuento sucesivo. -->
+- [x] D) $\$57.60$ <!-- feedback: Correcto. Primer descuento: $80 \times 0.80 = 64$. Segundo descuento: $64 \times 0.90 = 57.60$. -->
+- [ ] B) $\$64.00$ <!-- feedback: Incorrecto. Este es solo el precio tras el primer descuento de $20\%$. -->
+- [ ] C) $\$60.00$ <!-- feedback: Incorrecto. Error de cálculo matemático en el descuento sucesivo. -->
 
 ### Explicacion Pedagogica
 El primer descuento del $20\%$ deja el precio en el $80\%$ del original: $80 \times 0.80 = 64.00$ dólares. El segundo descuento del $10\%$ se aplica sobre $64.00$, dejando el precio en el $90\%$: $64 \times 0.90 = 57.60$ dólares.
@@ -310,9 +310,9 @@ El conjunto de los números irracionales no cumple la propiedad de clausura en l
 Si un sensor tiene una lectura de $25.42^\circ\text{C}$ con un error absoluto de $|x - 25.42| \le 0.05$, ¿cuál es el intervalo que contiene los valores reales posibles de temperatura?
 
 ### Opciones
-- [x] A) $[25.37, 25.47]$ <!-- feedback: Correcto. $25.42 - 0.05 = 25.37$ y $25.42 + 0.05 = 25.47$. -->
-- [ ] B) $[25.30, 25.50]$ <!-- feedback: Incorrecto. El rango de error es más amplio que el permitido por la desigualdad. -->
-- [ ] C) $[-25.37, 25.47]$ <!-- feedback: Incorrecto. La temperatura real debe ser cercana a $25.42$, no negativa. -->
+- [x] C) $[25.37, 25.47]$ <!-- feedback: Correcto. $25.42 - 0.05 = 25.37$ y $25.42 + 0.05 = 25.47$. -->
+- [ ] A) $[25.30, 25.50]$ <!-- feedback: Incorrecto. El rango de error es más amplio que el permitido por la desigualdad. -->
+- [ ] B) $[-25.37, 25.47]$ <!-- feedback: Incorrecto. La temperatura real debe ser cercana a $25.42$, no negativa. -->
 - [ ] D) $[25.42, 25.47]$ <!-- feedback: Incorrecto. Esto excluye los valores menores al centro del intervalo. -->
 
 ### Explicacion Pedagogica
@@ -352,8 +352,8 @@ Una propiedad fundamental de las desigualdades reales establece que al multiplic
 ¿Cuál es el valor promedio que se encuentra exactamente en el punto medio entre los racionales $\frac{1}{3}$ y $\frac{4}{5}$?
 
 ### Opciones
-- [ ] A) $\frac{5}{8}$ <!-- feedback: Incorrecto. No corresponde al promedio exacto. -->
-- [x] B) $\frac{17}{30}$ <!-- feedback: Correcto. Promedio: $\frac{1}{2}\left(\frac{1}{3} + \frac{4}{5}\right) = \frac{1}{2}\left(\frac{5 + 12}{15}
+- [ ] B) $\frac{5}{8}$ <!-- feedback: Incorrecto. No corresponde al promedio exacto. -->
+- [x] A) $\frac{17}{30}$ <!-- feedback: Correcto. Promedio: $\frac{1}{2}\left(\frac{1}{3} + \frac{4}{5}\right) = \frac{1}{2}\left(\frac{5 + 12}{15}
 ight) = \frac{1}{2}\left(\frac{17}{15}\right) = \frac{17}{30}$. -->
 - [ ] C) $\frac{5}{15}$ <!-- feedback: Incorrecto. Error al sumar de forma directa numeradores y denominadores. -->
 - [ ] D) $\frac{17}{15}$ <!-- feedback: Incorrecto. Se calculó la suma de los extremos pero se olvidó dividir por $2$. -->
@@ -378,8 +378,8 @@ Se determina que la humedad $h$ satisface la desigualdad real $|2h - 5| \ge 3$. 
 
 ### Opciones
 - [ ] A) $[1, 4]$ <!-- feedback: Incorrecto. Este intervalo corresponde a la desigualdad menor o igual que ($|2h-5| \le 3$). -->
-- [x] B) $(-\infty, 1] \cup [4, \infty)$ <!-- feedback: Correcto. $2h - 5 \ge 3 \Rightarrow 2h \ge 8 \Rightarrow h \ge 4$. O bien $2h - 5 \le -3 \Rightarrow 2h \le 2 \Rightarrow h \le 1$. -->
-- [ ] C) $[4, \infty)$ <!-- feedback: Incorrecto. Se omitió la parte negativa del valor absoluto. -->
+- [x] C) $(-\infty, 1] \cup [4, \infty)$ <!-- feedback: Correcto. $2h - 5 \ge 3 \Rightarrow 2h \ge 8 \Rightarrow h \ge 4$. O bien $2h - 5 \le -3 \Rightarrow 2h \le 2 \Rightarrow h \le 1$. -->
+- [ ] B) $[4, \infty)$ <!-- feedback: Incorrecto. Se omitió la parte negativa del valor absoluto. -->
 - [ ] D) $(-\infty, 1]$ <!-- feedback: Incorrecto. Se omitió la parte positiva de la desigualdad. -->
 
 ### Explicacion Pedagogica
@@ -400,8 +400,8 @@ La desigualdad absoluta de tipo mayor o igual se divide en dos casos: Caso 1: $2
 ### Opciones
 - [ ] A) $x = 5$ <!-- feedback: Incorrecto. Para $5$ positivo, $\sqrt{5^2} = 5$, lo cual es verdadero. -->
 - [ ] B) $x = 0$ <!-- feedback: Incorrecto. Para $0$, $\sqrt{0^2} = 0$, que es correcto. -->
-- [x] C) $x = -3$ <!-- feedback: Correcto. Si $x = -3$, $\sqrt{(-3)^2} = \sqrt{9} = 3$. Como $3 \ne -3$, la afirmación falla. -->
-- [ ] D) $x = \frac{1}{2}$ <!-- feedback: Incorrecto. Es un valor positivo, por lo que cumple la obtención de la igualdad. -->
+- [x] D) $x = -3$ <!-- feedback: Correcto. Si $x = -3$, $\sqrt{(-3)^2} = \sqrt{9} = 3$. Como $3 \ne -3$, la afirmación falla. -->
+- [ ] C) $x = \frac{1}{2}$ <!-- feedback: Incorrecto. Es un valor positivo, por lo que cumple la obtención de la igualdad. -->
 
 ### Explicacion Pedagogica
 La definición formal de $\sqrt{x^2}$ en los números reales es el valor absoluto de $x$, es decir, $|x|$. Si elegimos un número negativo, como $x = -3$, tenemos $\sqrt{(-3)^2} = \sqrt{9} = 3$, que no es igual a $-3$. Esto sirve de contraejemplo.
@@ -440,8 +440,8 @@ Resolvemos la ecuación de valor absoluto $|G - 10| = 2G - 5$. Debemos requerir 
 ¿Cuál de las siguientes afirmaciones sobre las propiedades del sistema de números reales es CORRECTA?
 
 ### Opciones
-- [ ] A) Entre dos números reales siempre hay un número finito de números racionales. <!-- feedback: Incorrecto. Hay infinitos números racionales. -->
-- [x] B) Entre cualquier pareja de números reales distintos existen infinitos números racionales e infinitos irracionales. <!-- feedback: Correcto. El conjunto de los racionales y el de los irracionales son ambos densos en la recta real. -->
+- [ ] B) Entre dos números reales siempre hay un número finito de números racionales. <!-- feedback: Incorrecto. Hay infinitos números racionales. -->
+- [x] A) Entre cualquier pareja de números reales distintos existen infinitos números racionales e infinitos irracionales. <!-- feedback: Correcto. El conjunto de los racionales y el de los irracionales son ambos densos en la recta real. -->
 - [ ] C) Todo número irracional tiene una representación fraccionaria exacta. <!-- feedback: Incorrecto. Por definición, los irracionales no se pueden escribir como fracción de enteros. -->
 - [ ] D) La suma de cualquier número irracional con un racional produce siempre un número racional. <!-- feedback: Incorrecto. Produce siempre un número irracional. -->
 

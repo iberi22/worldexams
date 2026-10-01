@@ -34,9 +34,9 @@ Este bundle contiene 20 preguntas sobre **Estructura Argumentativa y Ensayístic
 ¿Cuál es la tesis central que defiende el autor en la oración?
 
 ### Opciones
-- [x] A) Es imperativo descentralizar la inversión en infraestructura educativa en Colombia.
+- [x] B) Es imperativo descentralizar la inversión en infraestructura educativa en Colombia.
   <!-- feedback: Correcto. La tesis es la postura o afirmación principal que el autor busca sostener mediante la evidencia posterior. -->
-- [ ] B) El 70% de las aulas rurales en los departamentos periféricos presentan deterioros graves.
+- [ ] A) El 70% de las aulas rurales en los departamentos periféricos presentan deterioros graves.
   <!-- feedback: Incorrecto. Este dato es la premisa o evidencia estadística que apoya la tesis, no la tesis misma. -->
 - [ ] C) Los estudiantes de las ciudades no requieren mantenimiento en sus colegios.
   <!-- feedback: Incorrecto. El texto no afirma nada sobre la infraestructura urbana ni niega su necesidad. -->
@@ -57,11 +57,11 @@ Identificar la tesis en un texto argumentativo implica aislar la proposición pr
 ¿Qué conector marca el paso hacia la conclusión del argumento del autor?
 
 ### Opciones
-- [x] A) "Por lo tanto"
+- [x] C) "Por lo tanto"
   <!-- feedback: Correcto. El conector ilativo/conclusivo "Por lo tanto" sintética la postura final derivada de las premisas previas. -->
-- [ ] B) "Por un lado"
+- [ ] A) "Por un lado"
   <!-- feedback: Incorrecto. Es un organizador discursivo para presentar la primera postura o premisa. -->
-- [ ] C) "Por otro lado"
+- [ ] B) "Por otro lado"
   <!-- feedback: Incorrecto. Es un marcador de contraste para introducir la postura opuesta. -->
 - [ ] D) "los defensores del petróleo"
   <!-- feedback: Incorrecto. Es un sintagma nominal sujeto y no un conector lógico discursivo. -->
@@ -126,9 +126,9 @@ La analogía argumentativa establece una relación de semejanza entre dos estruc
 ¿Cuál es la forma de razonamiento empleada en la construcción de este argumento?
 
 ### Opciones
-- [x] A) Un razonamiento deductivo hipotético que deriva una consecuencia a partir de una regla general y una premisa empírica.
+- [x] B) Un razonamiento deductivo hipotético que deriva una consecuencia a partir de una regla general y una premisa empírica.
   <!-- feedback: Correcto. Aplica el principio general del impacto de la inversión a la situación particular de Colombia para inferir el resultado. -->
-- [ ] B) Una falacia ad hominem basada en el insulto personal contra los científicos colombianos.
+- [ ] A) Una falacia ad hominem basada en el insulto personal contra los científicos colombianos.
   <!-- feedback: Incorrecto. El argumento se estructura sobre porcentajes de inversión y no sobre ataques personales. -->
 - [ ] C) Una narración lírica de recuerdos de infancia en el laboratorio.
   <!-- feedback: Incorrecto. La estructura es un silogismo/deducción lógica sobre políticas de ciencia. -->
@@ -149,11 +149,11 @@ El razonamiento deductivo aplica enunciados generales verificados a casos espec�
 En este fragmento, la frase "Algunos sostienen que el voto obligatorio viola la libertad individual" cumple la función de:
 
 ### Opciones
-- [x] A) Presentar un contraargumento (antítesis) para luego refutarlo y consolidar su propia postura.
+- [x] C) Presentar un contraargumento (antítesis) para luego refutarlo y consolidar su propia postura.
   <!-- feedback: Correcto. La técnica de refutación exige exponer la objeción adversa para luego desarmarla mediante argumentos superiores. -->
-- [ ] B) La conclusión definitiva de todo el ensayo escrito por el autor.
+- [ ] A) La conclusión definitiva de todo el ensayo escrito por el autor.
   <!-- feedback: Incorrecto. Esta frase es la postura contraria que el autor busca combatir en las líneas siguientes. -->
-- [ ] C) Un dato bibliográfico sobre la historia de la Constitución de 1991.
+- [ ] B) Un dato bibliográfico sobre la historia de la Constitución de 1991.
   <!-- feedback: Incorrecto. No se aporta una cita constitucional sino la mención a una tesis adversa. -->
 - [ ] D) Una disculpa formal del autor por no tener una opinión clara sobre el tema.
   <!-- feedback: Incorrecto. El autor demuestra una postura firme al refutar tajantemente la antítesis. -->
@@ -195,11 +195,11 @@ Los argumentos basados en modelos internacionales exitosos combinan la analogía
 La falla argumentativa (falacia de la pista falsa o ignorancia del asunto) cometa por el conferencista consiste en:
 
 ### Opciones
-- [x] A) Desviar la atención del debate (bolsas de plástico) hacia un uso médico distinto y no cuestionado (jeringas).
+- [x] C) Desviar la atención del debate (bolsas de plástico) hacia un uso médico distinto y no cuestionado (jeringas).
   <!-- feedback: Correcto. Introducir el uso médico de los plásticos distrae de la discusión específica sobre empaques desechables contaminantes. -->
-- [ ] B) Probar científicamente que las bolsas de plástico son biodegradables en un día.
+- [ ] A) Probar científicamente que las bolsas de plástico son biodegradables en un día.
   <!-- feedback: Incorrecto. El conferencista no prueba nada sobre bolsas, sino que desvía el tema hacia las jeringas. -->
-- [ ] C) Demostrar que el siglo XX fue el siglo de mayor progreso biológico.
+- [ ] B) Demostrar que el siglo XX fue el siglo de mayor progreso biológico.
   <!-- feedback: Incorrecto. La falla radica en la irrelevancia del ejemplo médico para justificar las bolsas comerciales. -->
 - [ ] D) Apoyar sin reservas la eliminación inmediata de todos los plásticos en los hospitales.
   <!-- feedback: Incorrecto. El hablante busca evitar la prohibición mediante un recurso de distracción. -->
@@ -218,11 +218,11 @@ La falacia de la pista falsa (red herring) desvía el foco de la discusión intr
 ¿Cuál es la relación de causalidad que articula el párrafo?
 
 ### Opciones
-- [x] A) El riego excesivo sin drenaje (causa) provoca la salinización y esterilidad del suelo (efecto).
+- [x] C) El riego excesivo sin drenaje (causa) provoca la salinización y esterilidad del suelo (efecto).
   <!-- feedback: Correcto. El conector "Debido a" introduce la causa técnica y "En consecuencia" señala el impacto degradante. -->
-- [ ] B) La esterilidad del suelo (causa) obligó a los agricultores a inventar el riego excesivo (efecto).
+- [ ] A) La esterilidad del suelo (causa) obligó a los agricultores a inventar el riego excesivo (efecto).
   <!-- feedback: Incorrecto. Invierte erróneamente el orden causal real expuesto en el fragmento. -->
-- [ ] C) La siembra de papa en Boyacá provocó la salinización del río Cauca.
+- [ ] B) La siembra de papa en Boyacá provocó la salinización del río Cauca.
   <!-- feedback: Incorrecto. El texto no menciona cultivos de Boyacá ni esa relación geográfica. -->
 - [ ] D) El uso de tractores eléctricos erradicó todas las sales minerales del suelo.
   <!-- feedback: Incorrecto. El fragmento no habla de maquinarias eléctricas ni de soluciones implementadas. -->
@@ -241,9 +241,9 @@ La estructura causa-efecto en textos argumentativos e informativos exige identif
 La intención del ensayista al mencionar a Zapata Olivella y Albalucía Ángel es:
 
 ### Opciones
-- [x] A) Cuestionar el monopolio canónico de un solo autor para reivindicar la diversidad del patrimonio literario nacional.
+- [x] B) Cuestionar el monopolio canónico de un solo autor para reivindicar la diversidad del patrimonio literario nacional.
   <!-- feedback: Correcto. El autor busca ampliar el canon literario cuestionando la reducción de las letras colombianas a una sola figura. -->
-- [ ] B) Demostrar que García Márquez no escribió ninguna novela de valor artístico.
+- [ ] A) Demostrar que García Márquez no escribió ninguna novela de valor artístico.
   <!-- feedback: Incorrecto. El texto llama a García Márquez "gran escritor", pero objeta que se le considere el "único". -->
 - [ ] C) Exigir que se prohíba la venta de *Cien años de soledad* en las librerías de Colombia.
   <!-- feedback: Incorrecto. No busca la censura del Nobel sino la inclusión y valoración de otros autores fundamentales. -->
@@ -264,13 +264,13 @@ El uso de contraejemplos o adiciones en el ensayo de crítica cultural sirve par
 ¿En qué falacia de exageración lógica incurre el argumento del ensayo?
 
 ### Opciones
-- [x] A) Falacia de la pendiente resbaladiza (*slippery slope*), al asumir sin justificación una cadena inevitable de eventos catastróficos.
+- [x] D) Falacia de la pendiente resbaladiza (*slippery slope*), al asumir sin justificación una cadena inevitable de eventos catastróficos.
   <!-- feedback: Correcto. Encadenar la prohibición de calculadoras con el regreso a las cavernas es una extrapolación extrema infundada. -->
-- [ ] B) Argumento por el absurdo basado en ecuaciones de física cuántica.
+- [ ] A) Argumento por el absurdo basado en ecuaciones de física cuántica.
   <!-- feedback: Incorrecto. No hay desarrollo de ecuaciones físicas; hay un encadenamiento falaz de miedos hipotéticos. -->
-- [ ] C) Apelación legítima a las leyes del código educativo colombiano.
+- [ ] B) Apelación legítima a las leyes del código educativo colombiano.
   <!-- feedback: Incorrecto. El argumento no cita normas legales sino que inventa una escala de prohibiciones absurda. -->
-- [ ] D) Definición rigurosa del arte rupestre de las sociedades prehistóricas.
+- [ ] C) Definición rigurosa del arte rupestre de las sociedades prehistóricas.
   <!-- feedback: Incorrecto. La mención de las cavernas es un recurso hiperbólico falaz y no un estudio de arqueología. -->
 
 ### Explicacion Pedagogica
@@ -287,9 +287,9 @@ La falacia de la pendiente resbaladiza sostiene que un primer paso pequeño cond
 ¿De qué manera la metáfora final ("un faro para navegar, no un ancla que inmovilice") aclara la postura del autor sobre la memoria?
 
 ### Opciones
-- [x] A) Define la memoria como una guía orientadora para el progreso y no como una carga obsesiva que paralice la sociedad.
+- [x] B) Define la memoria como una guía orientadora para el progreso y no como una carga obsesiva que paralice la sociedad.
   <!-- feedback: Correcto. El faro guía la navegación futura, mientras el ancla fija al fondo; la metáfora equilibra el aprendizaje histórico con el avance. -->
-- [ ] B) Afirma que Colombia debe construir barcos y faros en todos los puertos pesqueros del Océano Pacífico.
+- [ ] A) Afirma que Colombia debe construir barcos y faros en todos los puertos pesqueros del Océano Pacífico.
   <!-- feedback: Incorrecto. El autor utiliza términos marítimos como metáfora conceptual de la historia y no de ingeniería naval. -->
 - [ ] C) Exige la erradicación total de los archivos históricos y museos de la nación.
   <!-- feedback: Incorrecto. El autor valida la memoria como "faro" (guía), rechazando únicamente su uso paralizante. -->
@@ -310,9 +310,9 @@ El análisis de metáforas en textos ensayísticos permite comprender cómo el a
 El razonamiento del columnista es un ejemplo clásico de la falacia:
 
 ### Opciones
-- [x] A) *Ad hominem* ofensivo, pues descalifica el contenido de una propuesta atacando los antecedentes morales del proponente.
+- [x] B) *Ad hominem* ofensivo, pues descalifica el contenido de una propuesta atacando los antecedentes morales del proponente.
   <!-- feedback: Correcto. Las faltas del senador no invalidan automáticamente el contenido técnico de un texto legal; se debe examinar la ley misma. -->
-- [ ] B) *Ad populum*, al apelar a lo que piensa la mayoría de los votantes en una encuesta.
+- [ ] A) *Ad populum*, al apelar a lo que piensa la mayoría de los votantes en una encuesta.
   <!-- feedback: Incorrecto. La falacia ad populum recurre a la masa o mayoría, mientras aquí se ataca a un individuo específico. -->
 - [ ] C) Generalización apresurada sobre los cultivos de alimentos en el país.
   <!-- feedback: Incorrecto. No aborda datos agronómicos sino la conducta del senador. -->
@@ -379,11 +379,11 @@ Identificar premisas implícitas o presupuestos teóricos en un ensayo permite c
 ¿De qué manera funciona la analogía del "incendio y la gasolina" dentro de la estructura discursiva?
 
 ### Opciones
-- [x] A) Ilustra la absoluta contraproducencia de una medida que, en lugar de solucionar el problema, lo agrava.
+- [x] C) Ilustra la absoluta contraproducencia de una medida que, en lugar de solucionar el problema, lo agrava.
   <!-- feedback: Correcto. La analogía demuestra de forma visual que endurecer penas en contextos desiguales multiplica la delincuencia. -->
-- [ ] B) Enseña a los bomberos a apagar fuegos producidos por derivados del petróleo.
+- [ ] A) Enseña a los bomberos a apagar fuegos producidos por derivados del petróleo.
   <!-- feedback: Incorrecto. El texto trata sobre política criminal y penal, no sobre técnicas de extinción de incendios. -->
-- [ ] C) Demuestra que la construcción de carceles reduce los incendios forestales en verano.
+- [ ] B) Demuestra que la construcción de carceles reduce los incendios forestales en verano.
   <!-- feedback: Incorrecto. No hay relación literal entre la construcción de penales y la prevención de incendios ambientales. -->
 - [ ] D) Exige que los prisioneros trabajen como bomberos forestales.
   <!-- feedback: Incorrecto. Es un recurso figurativo de la retórica argumentativa y no un plan laboral penitenciario. -->
@@ -402,9 +402,9 @@ Las analogías hiperbólicas en la argumentación política enfatizan la ilogici
 Al evaluar la validez generalizadora de la tesis del ensayista, se evidencia que comete la falacia de:
 
 ### Opciones
-- [x] A) Sesgo de confirmación y prueba incompleta (*cherry picking*), al seleccionar solo los datos favorables que respaldan su dogma.
+- [x] B) Sesgo de confirmación y prueba incompleta (*cherry picking*), al seleccionar solo los datos favorables que respaldan su dogma.
   <!-- feedback: Correcto. Omitir sistemáticamente la evidencia masiva en contrario para presentar un escenario idealizado invalida el rigor del ensayo. -->
-- [ ] B) Falacia de apelación al miedo desmedido a las fuerzas de la naturaleza.
+- [ ] A) Falacia de apelación al miedo desmedido a las fuerzas de la naturaleza.
   <!-- feedback: Incorrecto. El autor no apela al miedo ambiental sino que selecciona sesgadamente datos de prosperidad económica. -->
 - [ ] C) Demostración matemática irrefutable basada en el consenso de todos los economistas.
   <!-- feedback: Incorrecto. Ignorar las crisis y desigualdades destruye el consenso y demuestra la falta de rigor del escrito. -->
@@ -425,9 +425,9 @@ El sesgo de confirmación o *cherry picking* en ensayos de opinión consiste en 
 ¿Por qué esta conclusión incurre en un falso dilema (falsa dicotomía)?
 
 ### Opciones
-- [x] A) Porque reduce arbitrariamente un abanico complejo de justicia transicional a dos opciones extremas e incompatibles.
+- [x] B) Porque reduce arbitrariamente un abanico complejo de justicia transicional a dos opciones extremas e incompatibles.
   <!-- feedback: Correcto. Ignora alternativas intermedias como la justicia restaurativa, la verdad y la reparación con penas alternativas. -->
-- [ ] B) Porque demuestra que las guerras en Colombia solo pueden durar una semana.
+- [ ] A) Porque demuestra que las guerras en Colombia solo pueden durar una semana.
   <!-- feedback: Incorrecto. La falla no es la duración temporal sino obligar al lector a elegir entre dos extremos falsos. -->
 - [ ] C) Porque apoya incondicionalmente las doctrinas de la diplomacia internacional.
   <!-- feedback: Incorrecto. El falso dilema es un defecto de la estructura lógica del argumento y no un aval diplomático. -->

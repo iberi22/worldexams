@@ -57,11 +57,11 @@ Reconocer las partes que componen la reseña de un libro infantil.
 ¿Cuál es el propósito principal de una reseña de un libro?
 
 ### Opciones
-- [x] A) Informar sobre el libro y recomendar o desaconsejar su lectura con razones.
+- [x] C) Informar sobre el libro y recomendar o desaconsejar su lectura con razones.
   <!-- feedback: La reseña orienta al lector combinando información y opinión argumentada. -->
-- [ ] B) Contar toda la historia y revelar el final.
+- [ ] A) Contar toda la historia y revelar el final.
   <!-- feedback: Revelar el final quita el interés y no es la función de una reseña. -->
-- [ ] C) Vender el libro a cualquier precio.
+- [ ] B) Vender el libro a cualquier precio.
   <!-- feedback: La reseña no es un anuncio comercial; ofrece una valoración honesta. -->
 - [ ] D) Copiar el texto completo del libro.
   <!-- feedback: Una reseña es breve y original, no una copia de la obra. -->
@@ -80,11 +80,11 @@ Comprender el propósito comunicativo de la reseña como texto de opinión infor
 ¿Cuál oración expresa una opinión?
 
 ### Opciones
-- [x] A) "Me pareció una historia conmovedora que enseña sobre la amistad."
+- [x] C) "Me pareció una historia conmovedora que enseña sobre la amistad."
   <!-- feedback: Es una valoración personal, por eso expresa una opinión. -->
-- [ ] B) "El libro fue escrito por E. B. White."
+- [ ] A) "El libro fue escrito por E. B. White."
   <!-- feedback: Es un dato verificable sobre el autor, no una opinión. -->
-- [ ] C) "La primera edición se publicó en 1952."
+- [ ] B) "La primera edición se publicó en 1952."
   <!-- feedback: Es un hecho comprobable sobre la publicación, no una opinión. -->
 - [ ] D) "El libro tiene veintidós capítulos."
   <!-- feedback: Es un dato contable y verificable, no una opinión. -->
@@ -126,9 +126,9 @@ Aplicar la formulación de recomendaciones con razones dentro de una reseña.
 ¿Qué debe hacer un estudiante para escribir una buena reseña?
 
 ### Opciones
-- [x] A) Incluir un resumen breve, hechos del libro y su opinión con razones claras.
+- [x] B) Incluir un resumen breve, hechos del libro y su opinión con razones claras.
   <!-- feedback: La combinación de resumen, datos y opinión argumentada caracteriza la buena reseña. -->
-- [ ] B) Escribir solo su opinión sin mencionar el libro.
+- [ ] A) Escribir solo su opinión sin mencionar el libro.
   <!-- feedback: Sin presentar el libro, el lector no entiende qué se está valorando. -->
 - [ ] C) Inventar datos falsos sobre el autor.
   <!-- feedback: Inventar datos rompe la honestidad y la veracidad de la reseña. -->
@@ -149,13 +149,13 @@ Aplicar los criterios para redactar una reseña completa y confiable.
 ¿Cuál es la diferencia entre las dos oraciones?
 
 ### Opciones
-- [x] A) La primera es un hecho verificable; la segunda es una opinión personal.
+- [x] D) La primera es un hecho verificable; la segunda es una opinión personal.
   <!-- feedback: El número de páginas se comprueba; el aburrimiento es una valoración subjetiva. -->
-- [ ] B) Las dos son hechos verificables.
+- [ ] A) Las dos son hechos verificables.
   <!-- feedback: El aburrimiento no se puede verificar objetivamente. -->
-- [ ] C) Las dos son opiniones personales.
+- [ ] B) Las dos son opiniones personales.
   <!-- feedback: El número de páginas es un dato objetivo, no una opinión. -->
-- [ ] D) La primera es una opinión y la segunda es un hecho.
+- [ ] C) La primera es una opinión y la segunda es un hecho.
   <!-- feedback: Es al revés: la primera es un hecho y la segunda una opinión. -->
 
 ### Explicacion Pedagogica
@@ -172,13 +172,13 @@ Analizar y distinguir hechos verificables de opiniones personales en una reseña
 ¿Por qué una reseña no debe revelar el final del libro?
 
 ### Opciones
-- [x] A) Porque quita el interés del lector y no ayuda a que decida por sí mismo.
+- [x] D) Porque quita el interés del lector y no ayuda a que decida por sí mismo.
   <!-- feedback: Revelar el final elimina la sorpresa y reduce las ganas de leer la obra. -->
-- [ ] B) Porque el final nunca existe en los libros.
+- [ ] A) Porque el final nunca existe en los libros.
   <!-- feedback: Todos los libros narrativos tienen un desenlace. -->
-- [ ] C) Porque así la reseña queda más larga.
+- [ ] B) Porque así la reseña queda más larga.
   <!-- feedback: La extensión no es la razón; se trata de no dañar la experiencia lectora. -->
-- [ ] D) Porque nadie puede leer el final de un libro.
+- [ ] C) Porque nadie puede leer el final de un libro.
   <!-- feedback: El final está disponible para quien lee la obra completa. -->
 
 ### Explicacion Pedagogica
@@ -195,9 +195,9 @@ Analizar por qué la reseña debe orientar sin arruinar la experiencia de la lec
 ¿Por qué es valioso aprender a escribir reseñas de libros en la escuela?
 
 ### Opciones
-- [x] A) Porque ayuda a distinguir hechos de opiniones, argumentar con razones y recomendar lecturas.
+- [x] B) Porque ayuda a distinguir hechos de opiniones, argumentar con razones y recomendar lecturas.
   <!-- feedback: La reseña entrena el pensamiento crítico y la expresión argumentada. -->
-- [ ] B) Porque solo sirve para llenar páginas sin aprender.
+- [ ] A) Porque solo sirve para llenar páginas sin aprender.
   <!-- feedback: La reseña desarrolla habilidades concretas de análisis y escritura. -->
 - [ ] C) Porque evita que los estudiantes lean otros libros.
   <!-- feedback: Al contrario, las reseñas motivan la lectura de nuevas obras. -->

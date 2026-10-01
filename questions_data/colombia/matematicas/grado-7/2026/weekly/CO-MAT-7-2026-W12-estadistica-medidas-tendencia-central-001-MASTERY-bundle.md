@@ -32,9 +32,9 @@ Este bundle contiene 10 preguntas sobre **estadistica-medidas-tendencia-central*
 ### Enunciado
 ¿Cómo se calcula la media aritmética de un conjunto de datos?
 ### Opciones
-- [x] A) Sumando todos los datos y dividiendo entre la cantidad de datos
+- [x] B) Sumando todos los datos y dividiendo entre la cantidad de datos
   <!-- feedback: Correcto. Esa es la definición de la media aritmética. -->
-- [ ] B) Tomando el dato que más se repite
+- [ ] A) Tomando el dato que más se repite
   <!-- feedback: Incorrecto. Eso describe la moda, no la media. -->
 - [ ] C) Tomando el dato que está en la mitad al ordenarlos
   <!-- feedback: Incorrecto. Eso describe la mediana, no la media. -->
@@ -72,9 +72,9 @@ Con un número impar de datos ordenados, la mediana es el valor del centro. Aqu�
 ### Enunciado
 ¿Cuál es su nota promedio?
 ### Opciones
-- [x] A) $7$
+- [x] B) $7$
   <!-- feedback: Correcto. $\frac{4 + 6 + 8 + 10}{4} = \frac{28}{4} = 7$. -->
-- [ ] B) $6$
+- [ ] A) $6$
   <!-- feedback: Incorrecto. Error al sumar las cuatro notas. -->
 - [ ] C) $8$
   <!-- feedback: Incorrecto. Tomaste una de las notas en lugar del promedio. -->
@@ -92,11 +92,11 @@ Se suman los datos ($28$) y se dividen entre la cantidad de datos ($4$): media $
 ### Enunciado
 ¿Cuál es la moda de estos datos?
 ### Opciones
-- [x] A) $5$
+- [x] C) $5$
   <!-- feedback: Correcto. El $5$ aparece $3$ veces, más que cualquier otro valor. -->
-- [ ] B) $3$
+- [ ] A) $3$
   <!-- feedback: Incorrecto. Aparece $2$ veces, menos que el $5$. -->
-- [ ] C) $2$
+- [ ] B) $2$
   <!-- feedback: Incorrecto. Aparece una sola vez. -->
 - [ ] D) $7$
   <!-- feedback: Incorrecto. Aparece una sola vez. -->
@@ -152,13 +152,13 @@ La media es $\frac{1000}{5} = 200$, pero el dato $490$ la eleva. La mediana ($14
 ### Enunciado
 ¿Cuál es el promedio combinado de los $25$ estudiantes?
 ### Opciones
-- [x] A) $4.04$
+- [x] D) $4.04$
   <!-- feedback: Correcto. $\frac{10 \times 3.8 + 15 \times 4.2}{25} = \frac{38 + 63}{25} = 4.04$. -->
-- [ ] B) $4.0$
+- [ ] A) $4.0$
   <!-- feedback: Incorrecto. Promediaste $3.8$ y $4.2$ sin ponderar por el tamaño de cada grupo. -->
-- [ ] C) $4.2$
+- [ ] B) $4.2$
   <!-- feedback: Incorrecto. Tomaste solo el promedio del grupo B. -->
-- [ ] D) $3.9$
+- [ ] C) $3.9$
   <!-- feedback: Incorrecto. Error al ponderar las sumas de cada grupo. -->
 ### Explicacion Pedagogica
 Es un promedio ponderado: suma total $38 + 63 = 101$ entre $25$ estudiantes: $4.04$.
@@ -212,11 +212,11 @@ Si el promedio de $4$ datos es $4.0$, la suma es $16$. El dato faltante es $16 -
 ### Enunciado
 ¿Es correcta la afirmación del gerente?
 ### Opciones
-- [x] A) No, la mediana de $1300000\text{ COP}$ es más representativa
+- [x] C) No, la mediana de $1300000\text{ COP}$ es más representativa
   <!-- feedback: Correcto. La media está inflada por el salario del gerente; la mayoría gana $1300000$. -->
-- [ ] B) Sí, la media sí representa bien a todos
+- [ ] A) Sí, la media sí representa bien a todos
   <!-- feedback: Incorrecto. Ningún empleado gana cerca de $1908333\text{ COP}$. -->
-- [ ] C) No, la moda es $1500000\text{ COP}$
+- [ ] B) No, la moda es $1500000\text{ COP}$
   <!-- feedback: Incorrecto. La moda es $1300000$, con $8$ trabajadores. -->
 - [ ] D) No, la media real es $1500000\text{ COP}$
   <!-- feedback: Incorrecto. La media real es $\frac{22900000}{12} \approx 1908333$. -->

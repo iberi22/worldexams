@@ -35,10 +35,10 @@ Este bundle aborda contenidos curriculares prioritarios de Cinemática y Movimie
 Un vehículo circula por una avenida céntrica de Mendoza a una velocidad constante de $15\text{ m/s}$ durante $10\text{ segundos}$. ¿Qué distancia recorre en este intervalo?
 
 ### Opciones
-- [x] A) 150 metros. <!-- feedback: Correcto. En MRU, $d = v \cdot t = 15\text{ m/s} \cdot 10\text{ s} = 150\text{ m}$. -->
-- [ ] B) 15 metros. <!-- feedback: Incorrecto. Se dividió la velocidad por el tiempo. -->
-- [ ] C) 1500 metros. <!-- feedback: Incorrecto. Se multiplicó por un factor de 100. -->
-- [ ] D) 25 metros. <!-- feedback: Incorrecto. Se sumaron velocidad y tiempo. -->
+- [x] D) 150 metros. <!-- feedback: Correcto. En MRU, $d = v \cdot t = 15\text{ m/s} \cdot 10\text{ s} = 150\text{ m}$. -->
+- [ ] A) 15 metros. <!-- feedback: Incorrecto. Se dividió la velocidad por el tiempo. -->
+- [ ] B) 1500 metros. <!-- feedback: Incorrecto. Se multiplicó por un factor de 100. -->
+- [ ] C) 25 metros. <!-- feedback: Incorrecto. Se sumaron velocidad y tiempo. -->
 
 ### Explicacion Pedagogica
 En un movimiento rectilíneo uniforme (MRU), la velocidad constante permite calcular el desplazamiento mediante la fórmula $d = v \cdot t$.
@@ -56,8 +56,8 @@ En un movimiento rectilíneo uniforme (MRU), la velocidad constante permite calc
 ¿Cuál de las siguientes magnitudes físicas en cinemática posee carácter vectorial?
 
 ### Opciones
-- [x] A) Velocidad. <!-- feedback: Correcto. La velocidad es una magnitud vectorial pues requiere módulo, dirección y sentido. -->
-- [ ] B) Masa. <!-- feedback: Incorrecto. La masa es una magnitud escalar. -->
+- [x] B) Velocidad. <!-- feedback: Correcto. La velocidad es una magnitud vectorial pues requiere módulo, dirección y sentido. -->
+- [ ] A) Masa. <!-- feedback: Incorrecto. La masa es una magnitud escalar. -->
 - [ ] C) Tiempo. <!-- feedback: Incorrecto. El tiempo es una magnitud escalar. -->
 - [ ] D) Temperatura. <!-- feedback: Incorrecto. La temperatura es escalar. -->
 
@@ -77,10 +77,10 @@ Las magnitudes vectoriales quedan completamente definidas mediante módulo, dire
 Un tren que parte del reposo desde Retiro acelera uniformemente a $2\text{ m/s}^2$. ¿Cuál será su velocidad al cabo de $5\text{ segundos}$?
 
 ### Opciones
-- [x] A) 10 m/s. <!-- feedback: Correcto. En MRUV, $v = v_0 + a \cdot t = 0 + 2 \cdot 5 = 10\text{ m/s}$. -->
-- [ ] B) 2,5 m/s. <!-- feedback: Incorrecto. Se dividió el tiempo por la aceleración. -->
-- [ ] C) 20 m/s. <!-- feedback: Incorrecto. Se multiplicó por el cuadrado del tiempo. -->
-- [ ] D) 7 m/s. <!-- feedback: Incorrecto. Se sumaron la aceleración y el tiempo. -->
+- [x] D) 10 m/s. <!-- feedback: Correcto. En MRUV, $v = v_0 + a \cdot t = 0 + 2 \cdot 5 = 10\text{ m/s}$. -->
+- [ ] A) 2,5 m/s. <!-- feedback: Incorrecto. Se dividió el tiempo por la aceleración. -->
+- [ ] B) 20 m/s. <!-- feedback: Incorrecto. Se multiplicó por el cuadrado del tiempo. -->
+- [ ] C) 7 m/s. <!-- feedback: Incorrecto. Se sumaron la aceleración y el tiempo. -->
 
 ### Explicacion Pedagogica
 En el movimiento rectilíneo uniformemente variado (MRUV), la velocidad varía de forma lineal respecto al tiempo según $v = v_0 + a \cdot t$.
@@ -119,10 +119,10 @@ La caída libre es un caso de MRUV donde la aceleración constante es la graveda
 Un auto frena uniformemente desde $30\text{ m/s}$ hasta detenerse por completo en $6\text{ segundos}$. ¿Cuál es el módulo de su aceleración?
 
 ### Opciones
-- [x] A) 5 m/s². <!-- feedback: Correcto. $a = \frac{|v_f - v_0|}{t} = \frac{30}{6} = 5\text{ m/s}^2$. -->
-- [ ] B) 180 m/s². <!-- feedback: Incorrecto. Se multiplicó la velocidad por el tiempo. -->
-- [ ] C) 0,2 m/s². <!-- feedback: Incorrecto. Se dividió el tiempo por la velocidad. -->
-- [ ] D) 36 m/s². <!-- feedback: Incorrecto. Se elevó el tiempo al cuadrado. -->
+- [x] D) 5 m/s². <!-- feedback: Correcto. $a = \frac{|v_f - v_0|}{t} = \frac{30}{6} = 5\text{ m/s}^2$. -->
+- [ ] A) 180 m/s². <!-- feedback: Incorrecto. Se multiplicó la velocidad por el tiempo. -->
+- [ ] B) 0,2 m/s². <!-- feedback: Incorrecto. Se dividió el tiempo por la velocidad. -->
+- [ ] C) 36 m/s². <!-- feedback: Incorrecto. Se elevó el tiempo al cuadrado. -->
 
 ### Explicacion Pedagogica
 La aceleración mide la tasa de cambio de la velocidad en el tiempo: $a = \Delta v / \Delta t$.
@@ -140,10 +140,10 @@ La aceleración mide la tasa de cambio de la velocidad en el tiempo: $a = \Delta
 Facundo viaja en bicicleta a $6\text{ m/s}$ constantes. ¿Cuánto tarda en recorrer una distancia de $180\text{ metros}$?
 
 ### Opciones
-- [x] A) 30 segundos. <!-- feedback: Correcto. $t = \frac{d}{v} = \frac{180}{6} = 30\text{ s}$. -->
-- [ ] B) 1080 segundos. <!-- feedback: Incorrecto. Se multiplicó la distancia por la velocidad. -->
-- [ ] C) 18 segundos. <!-- feedback: Incorrecto. Se omitió la relación exacta dividiendo por 10. -->
-- [ ] D) 300 segundos. <!-- feedback: Incorrecto. Se cometió un error de orden decimal. -->
+- [x] D) 30 segundos. <!-- feedback: Correcto. $t = \frac{d}{v} = \frac{180}{6} = 30\text{ s}$. -->
+- [ ] A) 1080 segundos. <!-- feedback: Incorrecto. Se multiplicó la distancia por la velocidad. -->
+- [ ] B) 18 segundos. <!-- feedback: Incorrecto. Se omitió la relación exacta dividiendo por 10. -->
+- [ ] C) 300 segundos. <!-- feedback: Incorrecto. Se cometió un error de orden decimal. -->
 
 ### Explicacion Pedagogica
 Despejando el tiempo en la ecuación del MRU ($d = v \cdot t$), resulta $t = d / v$.
@@ -224,10 +224,10 @@ La distancia recorrida en caída libre partiendo del reposo se calcula como $h =
 Un colectivo acelera uniformemente de $10\text{ m/s}$ a $25\text{ m/s}$ en $5\text{ segundos}$. ¿Qué distancia recorre en este tramo?
 
 ### Opciones
-- [x] A) 87,5 metros. <!-- feedback: Correcto. $d = v_{\text{prom}} \cdot t = \left(\frac{10 + 25}{2}\right) \cdot 5 = 17,5 \cdot 5 = 87,5\text{ m}$. -->
-- [ ] B) 125 metros. <!-- feedback: Incorrecto. Se usó únicamente la velocidad final. -->
-- [ ] C) 50 metros. <!-- feedback: Incorrecto. Se usó únicamente la velocidad inicial. -->
-- [ ] D) 175 metros. <!-- feedback: Incorrecto. Se sumaron las velocidades sin promediarlas. -->
+- [x] D) 87,5 metros. <!-- feedback: Correcto. $d = v_{\text{prom}} \cdot t = \left(\frac{10 + 25}{2}\right) \cdot 5 = 17,5 \cdot 5 = 87,5\text{ m}$. -->
+- [ ] A) 125 metros. <!-- feedback: Incorrecto. Se usó únicamente la velocidad final. -->
+- [ ] B) 50 metros. <!-- feedback: Incorrecto. Se usó únicamente la velocidad inicial. -->
+- [ ] C) 175 metros. <!-- feedback: Incorrecto. Se sumaron las velocidades sin promediarlas. -->
 
 ### Explicacion Pedagogica
 En el MRUV, el desplazamiento también se calcula como el producto entre la velocidad media y el intervalo de tiempo.
@@ -266,8 +266,8 @@ Al comparar con la fórmula estándar $x(t) = x_0 + v_0 t + \frac{1}{2} a t^2$, 
 En un gráfico de velocidad vs tiempo ($v$ vs $t$), la curva es una recta horizontal a $20\text{ m/s}$ durante $8\text{ s}$. ¿Qué representa el área bajo la recta?
 
 ### Opciones
-- [x] A) El desplazamiento total (160 metros). <!-- feedback: Correcto. El área bajo la curva $v(t)$ equivale numéricamente al desplazamiento recorrido. -->
-- [ ] B) La aceleración del vehículo. <!-- feedback: Incorrecto. La pendiente de la recta representa la aceleración. -->
+- [x] B) El desplazamiento total (160 metros). <!-- feedback: Correcto. El área bajo la curva $v(t)$ equivale numéricamente al desplazamiento recorrido. -->
+- [ ] A) La aceleración del vehículo. <!-- feedback: Incorrecto. La pendiente de la recta representa la aceleración. -->
 - [ ] C) La fuerza aplicada sobre el móvil. <!-- feedback: Incorrecto. La fuerza no se lee directamente como área en un gráfico $v(t)$. -->
 - [ ] D) El tiempo total de viaje. <!-- feedback: Incorrecto. El tiempo está representado en el eje horizontal. -->
 
@@ -287,9 +287,9 @@ El área geométrica comprendida entre la curva de velocidad y el eje del tiempo
 Un dron acelera verticalmente hacia arriba a $4\text{ m/s}^2$ partiendo del reposo durante $5\text{ segundos}$. ¿Qué velocidad alcanza?
 
 ### Opciones
-- [x] A) 20 m/s. <!-- feedback: Correcto. $v = a \cdot t = 4 \cdot 5 = 20\text{ m/s}$. -->
-- [ ] B) 50 m/s. <!-- feedback: Incorrecto. Se calculó la altura recorrida ($50\text{ m}$) en lugar de la velocidad. -->
-- [ ] C) 0 m/s. <!-- feedback: Incorrecto. El dron se encuentra en movimiento ascendente. -->
+- [x] C) 20 m/s. <!-- feedback: Correcto. $v = a \cdot t = 4 \cdot 5 = 20\text{ m/s}$. -->
+- [ ] A) 50 m/s. <!-- feedback: Incorrecto. Se calculó la altura recorrida ($50\text{ m}$) en lugar de la velocidad. -->
+- [ ] B) 0 m/s. <!-- feedback: Incorrecto. El dron se encuentra en movimiento ascendente. -->
 - [ ] D) 9,8 m/s. <!-- feedback: Incorrecto. Se confundió con la aceleración gravitatoria. -->
 
 ### Explicacion Pedagogica
@@ -329,8 +329,8 @@ El punto de encuentro se determina igualando las ecuaciones horarias de posició
 Un proyectil se lanza verticalmente hacia arriba y tarda $3\text{ segundos}$ en alcanzar su altura máxima ($g = 10\text{ m/s}^2$). ¿Con qué velocidad inicial se lanzó?
 
 ### Opciones
-- [x] A) 30 m/s. <!-- feedback: Correcto. En la cima $v = 0 \Rightarrow 0 = v_0 - gt \Rightarrow v_0 = 10 \cdot 3 = 30\text{ m/s}$. -->
-- [ ] B) 15 m/s. <!-- feedback: Incorrecto. Se dividió la velocidad por 2. -->
+- [x] B) 30 m/s. <!-- feedback: Correcto. En la cima $v = 0 \Rightarrow 0 = v_0 - gt \Rightarrow v_0 = 10 \cdot 3 = 30\text{ m/s}$. -->
+- [ ] A) 15 m/s. <!-- feedback: Incorrecto. Se dividió la velocidad por 2. -->
 - [ ] C) 45 m/s. <!-- feedback: Incorrecto. Se calculó la altura máxima alcanzada. -->
 - [ ] D) 3 m/s. <!-- feedback: Incorrecto. Se igualó la velocidad al tiempo. -->
 
@@ -350,8 +350,8 @@ En el tiro vertical, la velocidad en el punto más alto se anula, permitiendo de
 Un objeto acelera uniformemente desde el reposo recorriendo $5\text{ m}$ dentro de un tubo y sale a $100\text{ m/s}$. ¿Cuál fue su aceleración?
 
 ### Opciones
-- [x] A) 1000 m/s². <!-- feedback: Correcto. $v^2 = 2ad \Rightarrow 100^2 = 2a(5) \Rightarrow 10000 = 10a \Rightarrow a = 1000\text{ m/s}^2$. -->
-- [ ] B) 500 m/s². <!-- feedback: Incorrecto. Se olvidó multiplicar la distancia por 2. -->
+- [x] B) 1000 m/s². <!-- feedback: Correcto. $v^2 = 2ad \Rightarrow 100^2 = 2a(5) \Rightarrow 10000 = 10a \Rightarrow a = 1000\text{ m/s}^2$. -->
+- [ ] A) 500 m/s². <!-- feedback: Incorrecto. Se olvidó multiplicar la distancia por 2. -->
 - [ ] C) 2000 m/s². <!-- feedback: Incorrecto. Se multiplicó por 2 en lugar de dividir. -->
 - [ ] D) 100 m/s². <!-- feedback: Incorrecto. Se dividió la velocidad al cuadrado por 100. -->
 
@@ -371,10 +371,10 @@ Utilizando Torricelli sin tiempo: $a = \frac{v^2 - v_0^2}{2d}$.
 Un auto circula a $20\text{ m/s}$ y ve un obstáculo a $40\text{ m}$. El conductor tarda $0,5\text{ s}$ en reaccionar y los frenos desaceleran a $8\text{ m/s}^2$. Evaluá si logra detenerse.
 
 ### Opciones
-- [x] A) Sí, se detiene a los 35 metros (10 m de reacción + 25 m de frenado), antes del obstáculo. <!-- feedback: Correcto. Reacción: $d_r = 20 \cdot 0,5 = 10\text{ m}$. Frenado: $d_f = \frac{20^2}{2(8)} = 25\text{ m}$. Total $= 35\text{ m} < 40\text{ m}$. -->
-- [ ] B) No, choca porque la distancia requerida es de 50 metros. <!-- feedback: Incorrecto. La distancia total requerida es 35 m, menor a 40 m. -->
-- [ ] C) Choca a los 40 m porque no frena a tiempo. <!-- feedback: Incorrecto. El cálculo demuestra que frena a los 35 m. -->
-- [ ] D) Se detiene a los 10 metros en la fase de reacción. <!-- feedback: Incorrecto. En la fase de reacción no hay frenado todavía. -->
+- [x] D) Sí, se detiene a los 35 metros (10 m de reacción + 25 m de frenado), antes del obstáculo. <!-- feedback: Correcto. Reacción: $d_r = 20 \cdot 0,5 = 10\text{ m}$. Frenado: $d_f = \frac{20^2}{2(8)} = 25\text{ m}$. Total $= 35\text{ m} < 40\text{ m}$. -->
+- [ ] A) No, choca porque la distancia requerida es de 50 metros. <!-- feedback: Incorrecto. La distancia total requerida es 35 m, menor a 40 m. -->
+- [ ] B) Choca a los 40 m porque no frena a tiempo. <!-- feedback: Incorrecto. El cálculo demuestra que frena a los 35 m. -->
+- [ ] C) Se detiene a los 10 metros en la fase de reacción. <!-- feedback: Incorrecto. En la fase de reacción no hay frenado todavía. -->
 
 ### Explicacion Pedagogica
 La distancia total de detención es la suma de la distancia recorrida a velocidad constante durante el tiempo de reacción más la distancia de frenado.
@@ -392,9 +392,9 @@ La distancia total de detención es la suma de la distancia recorrida a velocida
 Un objeto en caída libre recorre $2\text{ m}$ al pasar por una ventana en $0,2\text{ s}$ ($g = 10\text{ m/s}^2$). Evaluá la velocidad al entrar a la ventana.
 
 ### Opciones
-- [x] A) 9 m/s. <!-- feedback: Correcto. $h = v_1 t + \frac{1}{2}gt^2 \Rightarrow 2 = 0,2 v_1 + 5(0,04) \Rightarrow 2 = 0,2 v_1 + 0,2 \Rightarrow v_1 = 9\text{ m/s}$. -->
-- [ ] B) 10 m/s. <!-- feedback: Incorrecto. Se omitió restar la contribución de la gravedad. -->
-- [ ] C) 5 m/s. <!-- feedback: Incorrecto. Se dividió la altura por el tiempo sin considerar la aceleración. -->
+- [x] C) 9 m/s. <!-- feedback: Correcto. $h = v_1 t + \frac{1}{2}gt^2 \Rightarrow 2 = 0,2 v_1 + 5(0,04) \Rightarrow 2 = 0,2 v_1 + 0,2 \Rightarrow v_1 = 9\text{ m/s}$. -->
+- [ ] A) 10 m/s. <!-- feedback: Incorrecto. Se omitió restar la contribución de la gravedad. -->
+- [ ] B) 5 m/s. <!-- feedback: Incorrecto. Se dividió la altura por el tiempo sin considerar la aceleración. -->
 - [ ] D) 12 m/s. <!-- feedback: Incorrecto. Se cometió un error algebraico de suma. -->
 
 ### Explicacion Pedagogica
@@ -413,9 +413,9 @@ Despejando la velocidad inicial en la fórmula de posición $h = v_1 t + \frac{1
 Dos móviles se dirigen uno al encuentro del otro en una pista de $300\text{ m}$ desde el reposo. M1 acelera a $2\text{ m/s}^2$ y M2 a $4\text{ m/s}^2$. Evaluá la posición de cruce respecto a M1.
 
 ### Opciones
-- [x] A) A 100 metros del punto de partida de M1. <!-- feedback: Correcto. $x_1 = t^2$, $x_2 = 300 - 2t^2 \Rightarrow t^2 = 300 - 2t^2 \Rightarrow 3t^2 = 300 \Rightarrow t = 10\text{ s}$. $x_1 = 100\text{ m}$. -->
-- [ ] B) A 150 metros, justo en la mitad de la pista. <!-- feedback: Incorrecto. Tienen distintas aceleraciones, no se cruzan al medio. -->
-- [ ] C) A 200 metros de M1. <!-- feedback: Incorrecto. Esa es la distancia recorrida por M2. -->
+- [x] C) A 100 metros del punto de partida de M1. <!-- feedback: Correcto. $x_1 = t^2$, $x_2 = 300 - 2t^2 \Rightarrow t^2 = 300 - 2t^2 \Rightarrow 3t^2 = 300 \Rightarrow t = 10\text{ s}$. $x_1 = 100\text{ m}$. -->
+- [ ] A) A 150 metros, justo en la mitad de la pista. <!-- feedback: Incorrecto. Tienen distintas aceleraciones, no se cruzan al medio. -->
+- [ ] B) A 200 metros de M1. <!-- feedback: Incorrecto. Esa es la distancia recorrida por M2. -->
 - [ ] D) A 50 metros de M1. <!-- feedback: Incorrecto. Se cometió un error al plantear la suma de aceleraciones. -->
 
 ### Explicacion Pedagogica
@@ -434,8 +434,8 @@ El tiempo de encuentro se obtiene igualando las posiciones relativas: $x_1(t) = 
 Un proyectil en tiro vertical recorre una distancia $h$ en su último segundo de subida antes de detenerse. Evaluá el valor de $h$ ($g = 10\text{ m/s}^2$).
 
 ### Opciones
-- [x] A) 5 metros. <!-- feedback: Correcto. Por simetría, la distancia recorrida en el último segundo de subida es igual a la del primer segundo de caída partiendo del reposo: $h = \frac{1}{2}(10)(1)^2 = 5\text{ m}$. -->
-- [ ] B) 10 metros. <!-- feedback: Incorrecto. Se omitió multiplicar por 1/2. -->
+- [x] B) 5 metros. <!-- feedback: Correcto. Por simetría, la distancia recorrida en el último segundo de subida es igual a la del primer segundo de caída partiendo del reposo: $h = \frac{1}{2}(10)(1)^2 = 5\text{ m}$. -->
+- [ ] A) 10 metros. <!-- feedback: Incorrecto. Se omitió multiplicar por 1/2. -->
 - [ ] C) 2,5 metros. <!-- feedback: Incorrecto. Se dividió adicionalmente por 2. -->
 - [ ] D) Depende de la velocidad de lanzamiento. <!-- feedback: Incorrecto. Es una propiedad independiente de la velocidad inicial de disparo. -->
 

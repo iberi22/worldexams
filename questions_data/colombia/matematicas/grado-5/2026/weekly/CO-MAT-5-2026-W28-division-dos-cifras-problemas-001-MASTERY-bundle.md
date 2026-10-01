@@ -34,13 +34,13 @@ Algoritmo de la división con divisores de dos cifras, cálculo de cocientes y r
 ¿Cuántos paquetes completos de 24 cuadernos se obtienen al dividir los 720 cuadernos?
 
 ### Opciones
-- [x] A) 30 paquetes.
+- [x] D) 30 paquetes.
   <!-- feedback: Al dividir 720 entre 24: $72 \div 24 = 3$, y agregando el cero obtenemos 30 paquetes exactos. -->
-- [ ] B) 25 paquetes.
+- [ ] A) 25 paquetes.
   <!-- feedback: 25 paquetes de 24 cuadernos contienen solo 600 cuadernos ($25 \times 24 = 600$). -->
-- [ ] C) 35 paquetes.
+- [ ] B) 35 paquetes.
   <!-- feedback: 35 paquetes de 24 cuadernos requerirían 840 cuadernos ($35 \times 24 = 840$). -->
-- [ ] D) 40 paquetes.
+- [ ] C) 40 paquetes.
   <!-- feedback: 40 paquetes de 24 cuadernos totalizan 960 cuadernos ($40 \times 24 = 960$). -->
 
 ### Explicacion Pedagogica
@@ -57,9 +57,9 @@ Para hallar la cantidad de grupos iguales se divide el total entre el tamaño de
 ¿Qué operación matemática permite determinar con certeza la cantidad exacta de cajas necesarias y cuál es su resultado?
 
 ### Opciones
-- [x] A) División: $864 \div 36 = 24$ cajas.
+- [x] B) División: $864 \div 36 = 24$ cajas.
   <!-- feedback: La división reparte equitativamente las 864 naranjas en grupos de 36, dando exactamente 24 cajas. -->
-- [ ] B) Multiplicación: $864 \times 36 = 31.104$ cajas.
+- [ ] A) Multiplicación: $864 \times 36 = 31.104$ cajas.
   <!-- feedback: La multiplicación aumentaría la cantidad en lugar de agrupar el total cosechado. -->
 - [ ] C) Sustracción: $864 - 36 = 828$ cajas.
   <!-- feedback: Restar solo descuenta una caja, no calcula la cantidad de cajas requeridas. -->
@@ -80,9 +80,9 @@ El reparto equitativo de una cantidad en grupos iguales se modela mediante una d
 ¿Cuántas cajas completas de galletas logra empacar el panadero?
 
 ### Opciones
-- [x] A) 63 cajas.
+- [x] B) 63 cajas.
   <!-- feedback: $1.575 \div 25 = 63$. Comprobación: $63 \times 25 = 1.575$. -->
-- [ ] B) 53 cajas.
+- [ ] A) 53 cajas.
   <!-- feedback: $53 \times 25 = 1.325$ galletas, quedando 250 galletas sin empacar. -->
 - [ ] C) 73 cajas.
   <!-- feedback: $73 \times 25 = 1.825$ galletas, lo cual supera las 1.575 galletas horneadas. -->
@@ -126,13 +126,13 @@ En problemas de contexto real con residuo no nulo, se debe redondear hacia el si
 ¿Cuál fue el precio pagado por cada kilogramo de carne?
 
 ### Opciones
-- [x] A) $18.000 COP.
+- [x] D) $18.000 COP.
   <!-- feedback: $684.000 \div 38 = 18.000$ COP por kilogramo. Comprobación: $18.000 \times 38 = 684.000$. -->
-- [ ] B) $16.000 COP.
+- [ ] A) $16.000 COP.
   <!-- feedback: $16.000 \times 38 = 608.000$ COP, valor menor al total pagado. -->
-- [ ] C) $22.000 COP.
+- [ ] B) $22.000 COP.
   <!-- feedback: $22.000 \times 38 = 836.000$ COP, superando el costo registrado. -->
-- [ ] D) $20.000 COP.
+- [ ] C) $20.000 COP.
   <!-- feedback: $20.000 \times 38 = 760.000$ COP, valor incorrecto. -->
 
 ### Explicacion Pedagogica
@@ -149,13 +149,13 @@ Para hallar el valor unitario se divide el valor total entre el número de unida
 Al realizar la división inexacta $2.850 \div 35$, ¿cuál es el cociente y cuántos caramelos sobran (residuo)?
 
 ### Opciones
-- [x] A) Cociente 81 y sobran 15 caramelos.
+- [x] D) Cociente 81 y sobran 15 caramelos.
   <!-- feedback: $2.850 = 35 \times 81 + 15$. El residuo (15) es menor que el divisor (35). -->
-- [ ] B) Cociente 80 y sobran 50 caramelos.
+- [ ] A) Cociente 80 y sobran 50 caramelos.
   <!-- feedback: El residuo no puede ser mayor que el divisor (50 > 35), lo que indica que se podía formar un paquete más. -->
-- [ ] C) Cociente 82 y sobran 10 caramelos.
+- [ ] B) Cociente 82 y sobran 10 caramelos.
   <!-- feedback: $35 \times 82 = 2.870$, lo cual excede el total de caramelos disponibles. -->
-- [ ] D) Cociente 75 y sobran 25 caramelos.
+- [ ] C) Cociente 75 y sobran 25 caramelos.
   <!-- feedback: $35 \times 75 + 25 = 2.650$, cálculo que no corresponde a 2.850 caramelos. -->
 
 ### Explicacion Pedagogica

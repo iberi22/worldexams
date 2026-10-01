@@ -34,9 +34,9 @@ Uso de adjetivos superlativos regulares e irregulares en inglés para describir 
 Which is the correct superlative form of the short adjective "tall"?
 
 ### Opciones
-- [x] A) The tallest.
+- [x] B) The tallest.
   <!-- feedback: For short one-syllable adjectives like "tall", we add "-est" to form the superlative: "the tallest". -->
-- [ ] B) The more tall.
+- [ ] A) The more tall.
   <!-- feedback: "More" is used for comparative forms of long adjectives, not superlatives of short adjectives. -->
 - [ ] C) The most tall.
   <!-- feedback: "Most" is used with adjectives of two or more syllables, not one-syllable adjectives. -->
@@ -80,9 +80,9 @@ El superlativo "the largest" expresa que un elemento posee la cualidad en el gra
 Choose the correct sentence to complete the description: "Mount Everest is ________ mountain in the world."
 
 ### Opciones
-- [x] A) the highest
+- [x] B) the highest
   <!-- feedback: "The highest" correctly applies the superlative rule with "the" + adjective + "-est". -->
-- [ ] B) higher than
+- [ ] A) higher than
   <!-- feedback: "Higher than" is comparative and needs two specific elements being compared. -->
 - [ ] C) the most high
   <!-- feedback: "Most high" is incorrect because "high" is a one-syllable adjective requiring "-est". -->
@@ -103,13 +103,13 @@ Se utiliza "the highest" porque "high" es un adjetivo corto monosilábico y se e
 Which sentence correctly uses the superlative form of the adjective "old"?
 
 ### Opciones
-- [x] A) Santa Marta is the oldest city in Colombia.
+- [x] D) Santa Marta is the oldest city in Colombia.
   <!-- feedback: "The oldest" correctly uses the superlative form to state that Santa Marta was founded before any other city in Colombia. -->
-- [ ] B) Santa Marta is the older city in Colombia.
+- [ ] A) Santa Marta is the older city in Colombia.
   <!-- feedback: "Older" is a comparative adjective and requires "than" when comparing two cities. -->
-- [ ] C) Santa Marta is most old city in Colombia.
+- [ ] B) Santa Marta is most old city in Colombia.
   <!-- feedback: The definite article "the" and the "-est" suffix are necessary for the superlative of "old". -->
-- [ ] D) Santa Marta is the more old city in Colombia.
+- [ ] C) Santa Marta is the more old city in Colombia.
   <!-- feedback: "More old" is grammatically incorrect in standard English. -->
 
 ### Explicacion Pedagogica
@@ -126,11 +126,11 @@ El adjetivo "old" forma su superlativo como "the oldest", indicando la mayor ant
 Complete the sentence using the superlative form of "beautiful".
 
 ### Opciones
-- [x] A) the most beautiful
+- [x] C) the most beautiful
   <!-- feedback: For long adjectives like "beautiful" (three syllables), we use "the most" before the adjective. -->
-- [ ] B) the beautifulest
+- [ ] A) the beautifulest
   <!-- feedback: "-est" is not added to multi-syllable adjectives such as "beautiful". -->
-- [ ] C) more beautiful than
+- [ ] B) more beautiful than
   <!-- feedback: "More beautiful than" is the comparative form, not the superlative. -->
 - [ ] D) the most beautifulest
   <!-- feedback: Double superlatives ("most" + "-est") are incorrect in English. -->
@@ -152,9 +152,9 @@ Con adjetivos largos de tres o más sílabas como "beautiful", se antepone "the 
 Based on the chart, which statement is true?
 
 ### Opciones
-- [x] A) The Magdalena River is the longest river in the group, and the Atrato River is the shortest.
+- [x] B) The Magdalena River is the longest river in the group, and the Atrato River is the shortest.
   <!-- feedback: 1,528 km is the maximum length (longest) and 750 km is the minimum length (shortest). -->
-- [ ] B) The Cauca River is the longest river among the three.
+- [ ] A) The Cauca River is the longest river among the three.
   <!-- feedback: The Cauca River (1,350 km) is shorter than the Magdalena River (1,528 km). -->
 - [ ] C) The Atrato River is longer than the Magdalena River.
   <!-- feedback: 750 km is less than 1,528 km, so the Atrato is shorter, not longer. -->
@@ -176,11 +176,11 @@ Al analizar datos numéricos en inglés, "the longest" identifica el valor mayor
 Why is Pico Cristóbal Colón called "the highest peak" and not La Chorrera?
 
 ### Opciones
-- [x] A) Because Pico Cristóbal Colón has the greatest altitude above sea level among all Colombian mountains.
+- [x] C) Because Pico Cristóbal Colón has the greatest altitude above sea level among all Colombian mountains.
   <!-- feedback: "Highest peak" refers to mountain elevation above sea level, where Pico Cristóbal Colón reaches 5,775 m. -->
-- [ ] B) Because La Chorrera is a mountain higher than Pico Cristóbal Colón.
+- [ ] A) Because La Chorrera is a mountain higher than Pico Cristóbal Colón.
   <!-- feedback: La Chorrera is a waterfall, not a mountain peak. -->
-- [ ] C) Because Nevado del Ruiz is taller than both of them.
+- [ ] B) Because Nevado del Ruiz is taller than both of them.
   <!-- feedback: Nevado del Ruiz (5,321 m) is lower than Pico Cristóbal Colón (5,775 m). -->
 - [ ] D) Because waterfalls are always called peaks in English geography.
   <!-- feedback: "Peak" refers specifically to the top of a mountain, not a waterfall. -->
@@ -199,11 +199,11 @@ El análisis textual demuestra que "highest peak" se refiere a la mayor altitud 
 Which student wrote a completely correct sentence in English?
 
 ### Opciones
-- [x] A) Camilo: "The Tatacoa Desert is one of the hottest places in Colombia, and Tayrona Park has some of the most famous beaches."
+- [x] C) Camilo: "The Tatacoa Desert is one of the hottest places in Colombia, and Tayrona Park has some of the most famous beaches."
   <!-- feedback: Camilo correctly uses "the hottest" (consonant doubling with one-syllable CVC adjective "hot") and "the most famous" (multi-syllable adjective). -->
-- [ ] B) Sara: "The Tatacoa Desert is the most hot place in Colombia, and Tayrona is the famousest park."
+- [ ] A) Sara: "The Tatacoa Desert is the most hot place in Colombia, and Tayrona is the famousest park."
   <!-- feedback: "Most hot" and "famousest" are grammatical errors; the correct forms are "hottest" and "most famous". -->
-- [ ] C) David: "The Tatacoa Desert is hotter than all places, but Tayrona is more famousest."
+- [ ] B) David: "The Tatacoa Desert is hotter than all places, but Tayrona is more famousest."
   <!-- feedback: "More famousest" is an incorrect double form combining comparative and superlative markers. -->
 - [ ] D) Laura: "The Tatacoa Desert is the hotest place in Colombia, with the most beautifullest sand."
   <!-- feedback: "Hotest" lacks double 't', and "most beautifullest" is a double superlative error. -->

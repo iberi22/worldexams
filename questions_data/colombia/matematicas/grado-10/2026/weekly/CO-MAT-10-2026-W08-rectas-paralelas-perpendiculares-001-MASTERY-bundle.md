@@ -32,11 +32,11 @@ Este bundle contiene 12 preguntas sobre **rectas-paralelas-perpendiculares** par
 ### Enunciado
 ¿Qué relación tienen las pendientes de dos rectas paralelas?
 ### Opciones
-- [x] A) Son iguales.
+- [x] C) Son iguales.
   <!-- feedback: Correcto. Las rectas paralelas tienen la misma inclinación y por tanto la misma pendiente. -->
-- [ ] B) Su producto es $-1$.
+- [ ] A) Su producto es $-1$.
   <!-- feedback: Incorrecto. Esa es la condición de rectas perpendiculares. -->
-- [ ] C) Son opuestas.
+- [ ] B) Son opuestas.
   <!-- feedback: Incorrecto. Pendientes opuestas indican inclinaciones simétricas, no paralelismo. -->
 - [ ] D) Son recíprocas.
   <!-- feedback: Incorrecto. Las pendientes recíprocas no describen el paralelismo. -->
@@ -52,11 +52,11 @@ Dos rectas no verticales son paralelas si y solo si tienen pendientes iguales: $
 ### Enunciado
 ¿Qué relación cumplen las pendientes $m_1$ y $m_2$ de dos rectas perpendiculares (no verticales)?
 ### Opciones
-- [x] A) $m_1 \cdot m_2 = -1$
+- [x] C) $m_1 \cdot m_2 = -1$
   <!-- feedback: Correcto. Las pendientes son recíprocas y de signo opuesto. -->
-- [ ] B) $m_1 = m_2$
+- [ ] A) $m_1 = m_2$
   <!-- feedback: Incorrecto. Eso corresponde a rectas paralelas. -->
-- [ ] C) $m_1 + m_2 = 0$
+- [ ] B) $m_1 + m_2 = 0$
   <!-- feedback: Incorrecto. Solo indica pendientes opuestas, no perpendicularidad. -->
 - [ ] D) $m_1 \cdot m_2 = 1$
   <!-- feedback: Incorrecto. Eso corresponde a pendientes recíprocas sin cambio de signo. -->
@@ -72,11 +72,11 @@ Dos rectas son perpendiculares si el producto de sus pendientes es $-1$, es deci
 ### Enunciado
 ¿Cuál es la relación entre las dos rectas?
 ### Opciones
-- [x] A) Son paralelas.
+- [x] C) Son paralelas.
   <!-- feedback: Correcto. Ambas tienen pendiente $2$, por lo que son paralelas. -->
-- [ ] B) Son perpendiculares.
+- [ ] A) Son perpendiculares.
   <!-- feedback: Incorrecto. Para ser perpendiculares el producto de pendientes sería $-1$. -->
-- [ ] C) Son coincidentes.
+- [ ] B) Son coincidentes.
   <!-- feedback: Incorrecto. Tienen distintos interceptos, no son la misma recta. -->
 - [ ] D) Se cortan en un solo punto.
   <!-- feedback: Incorrecto. Al ser paralelas no se cortan. -->
@@ -132,13 +132,13 @@ Si $m_1 = 4$, entonces $m_2 = -\frac{1}{m_1} = -\frac{1}{4}$, pues $4 \cdot \lef
 ### Enunciado
 ¿Cuál es la ecuación de la recta perpendicular?
 ### Opciones
-- [x] A) $y = -\frac{1}{2}x + 5$
+- [x] D) $y = -\frac{1}{2}x + 5$
   <!-- feedback: Correcto. Pendiente $-\frac{1}{2}$ e intercepto $5$ (pasa por $(0, 5)$). -->
-- [ ] B) $y = -\frac{1}{2}x + 3$
+- [ ] A) $y = -\frac{1}{2}x + 3$
   <!-- feedback: Incorrecto. El intercepto debe ser $5$, no $3$. -->
-- [ ] C) $y = 2x + 5$
+- [ ] B) $y = 2x + 5$
   <!-- feedback: Incorrecto. Esa es paralela, no perpendicular. -->
-- [ ] D) $y = \frac{1}{2}x + 5$
+- [ ] C) $y = \frac{1}{2}x + 5$
   <!-- feedback: Incorrecto. La pendiente perpendicular lleva signo negativo. -->
 ### Explicacion Pedagogica
 La pendiente perpendicular a $2$ es $-\frac{1}{2}$. Como pasa por $(0, 5)$, el intercepto es $5$: $y = -\frac{1}{2}x + 5$.
@@ -152,11 +152,11 @@ La pendiente perpendicular a $2$ es $-\frac{1}{2}$. Como pasa por $(0, 5)$, el i
 ### Enunciado
 ¿Cuál es la relación entre las dos rectas?
 ### Opciones
-- [x] A) Son perpendiculares.
+- [x] C) Son perpendiculares.
   <!-- feedback: Correcto. Sus pendientes son $\frac{3}{2}$ y $-\frac{2}{3}$; el producto es $-1$. -->
-- [ ] B) Son paralelas.
+- [ ] A) Son paralelas.
   <!-- feedback: Incorrecto. Las pendientes no son iguales. -->
-- [ ] C) Son coincidentes.
+- [ ] B) Son coincidentes.
   <!-- feedback: Incorrecto. No representan la misma recta. -->
 - [ ] D) Son secantes no perpendiculares.
   <!-- feedback: Incorrecto. El producto de las pendientes es exactamente $-1$. -->
@@ -172,13 +172,13 @@ De $3x - 2y = 8$: $m_1 = \frac{3}{2}$. De $2x + 3y = 5$: $m_2 = -\frac{2}{3}$. C
 ### Enunciado
 ¿Cuál debe ser el valor de $k$?
 ### Opciones
-- [x] A) $k = 3$
+- [x] D) $k = 3$
   <!-- feedback: Correcto. Para que sean paralelas, las pendientes deben ser iguales: $k = 3$. -->
-- [ ] B) $k = -\frac{1}{3}$
+- [ ] A) $k = -\frac{1}{3}$
   <!-- feedback: Incorrecto. Ese valor las haría perpendiculares. -->
-- [ ] C) $k = -3$
+- [ ] B) $k = -3$
   <!-- feedback: Incorrecto. Eso las haría con pendientes opuestas. -->
-- [ ] D) $k = 2$
+- [ ] C) $k = 2$
   <!-- feedback: Incorrecto. Ese es el intercepto de la primera recta. -->
 ### Explicacion Pedagogica
 Dos rectas en forma $y = mx + b$ son paralelas si tienen la misma pendiente. La segunda tiene $m = 3$, por lo que $k = 3$.
@@ -192,11 +192,11 @@ Dos rectas en forma $y = mx + b$ son paralelas si tienen la misma pendiente. La 
 ### Enunciado
 Usando pendientes, ¿qué se concluye?
 ### Opciones
-- [x] A) No es rectángulo, porque ningún par de lados tiene pendientes cuyo producto sea $-1$.
+- [x] C) No es rectángulo, porque ningún par de lados tiene pendientes cuyo producto sea $-1$.
   <!-- feedback: Correcto. $m_{AB} = \frac{1}{3}$, $m_{AC} = 4$ y $m_{BC} = -\frac{3}{2}$; ningún producto da $-1$. -->
-- [ ] B) Es rectángulo en $A$, pues los lados $AB$ y $AC$ son perpendiculares.
+- [ ] A) Es rectángulo en $A$, pues los lados $AB$ y $AC$ son perpendiculares.
   <!-- feedback: Incorrecto. $m_{AB} \cdot m_{AC} = \frac{1}{3} \cdot 4 = \frac{4}{3} \neq -1$. -->
-- [ ] C) Es equilátero.
+- [ ] B) Es equilátero.
   <!-- feedback: Incorrecto. Las longitudes de los lados son $\sqrt{10}$, $\sqrt{17}$ y $\sqrt{13}$, distintas. -->
 - [ ] D) Es isósceles.
   <!-- feedback: Incorrecto. No hay dos lados de igual longitud. -->
@@ -212,11 +212,11 @@ Las pendientes son $m_{AB} = \frac{1}{3}$, $m_{AC} = 4$ y $m_{BC} = -\frac{3}{2}
 ### Enunciado
 ¿Cuál es la ecuación de la recta paralela?
 ### Opciones
-- [x] A) $y = 2x - 5$
+- [x] C) $y = 2x - 5$
   <!-- feedback: Correcto. La pendiente de la recta dada es $2$; con el punto $(3, 1)$: $b = 1 - 2(3) = -5$. -->
-- [ ] B) $y = 2x + 1$
+- [ ] A) $y = 2x + 1$
   <!-- feedback: Incorrecto. El intercepto calculado con el punto es $-5$. -->
-- [ ] C) $y = -\frac{1}{2}x + \frac{5}{2}$
+- [ ] B) $y = -\frac{1}{2}x + \frac{5}{2}$
   <!-- feedback: Incorrecto. Esa sería la recta perpendicular. -->
 - [ ] D) $y = -2x + 7$
   <!-- feedback: Incorrecto. La pendiente de la paralela es $2$, no $-2$. -->

@@ -34,9 +34,9 @@ Tipos de medios de comunicación (tradicionales y digitales), su función inform
 ¿Cuál de los siguientes es un medio de comunicación masivo tradicional?
 
 ### Opciones
-- [x] A) La televisión.
+- [x] B) La televisión.
   <!-- feedback: La televisión es un medio masivo tradicional que llega a millones de personas. -->
-- [ ] B) Un mensaje hablado entre dos amigos en el patio.
+- [ ] A) Un mensaje hablado entre dos amigos en el patio.
   <!-- feedback: La conversación entre dos personas es comunicación interpersonal, no masiva. -->
 - [ ] C) Una carta personal escrita a mano.
   <!-- feedback: Una carta personal es comunicación privada, no un medio masivo. -->
@@ -80,13 +80,13 @@ Comprender la función social de los medios comunitarios en los territorios colo
 ¿Cuál combinación de medios sería más adecuada para llegar a personas de todas las edades?
 
 ### Opciones
-- [x] A) Radio local, carteleras en la plaza y mensajes por redes sociales del colegio.
+- [x] D) Radio local, carteleras en la plaza y mensajes por redes sociales del colegio.
   <!-- feedback: Combinar radio, carteleras y redes sociales amplía el alcance a distintas edades. -->
-- [ ] B) Solo mensajes en una lengua extranjera desconocida para la comunidad.
+- [ ] A) Solo mensajes en una lengua extranjera desconocida para la comunidad.
   <!-- feedback: Usar una lengua desconocida limita la comprensión del mensaje. -->
-- [ ] C) Solo susurros entre los padres en el parque.
+- [ ] B) Solo susurros entre los padres en el parque.
   <!-- feedback: Los susurros no alcanzan a toda la comunidad. -->
-- [ ] D) Solo correos físicos enviados al extranjero.
+- [ ] C) Solo correos físicos enviados al extranjero.
   <!-- feedback: Los correos al extranjero no llegan a la comunidad local. -->
 
 ### Explicacion Pedagogica
@@ -103,13 +103,13 @@ Seleccionar medios de comunicación adecuados para informar a una comunidad dive
 ¿Cuál es una actitud responsable frente a la información encontrada en internet?
 
 ### Opciones
-- [x] A) Verificar la fuente, comparar con otros medios y comprobar la fecha de la información.
+- [x] D) Verificar la fuente, comparar con otros medios y comprobar la fecha de la información.
   <!-- feedback: Comprobar fuentes y fechas ayuda a distinguir información confiable de noticias falsas. -->
-- [ ] B) Compartir la primera noticia que aparezca sin revisarla.
+- [ ] A) Compartir la primera noticia que aparezca sin revisarla.
   <!-- feedback: Compartir sin verificar contribuye a difundir información falsa. -->
-- [ ] C) Creer todo lo que dice una sola página web sin importar su origen.
+- [ ] B) Creer todo lo que dice una sola página web sin importar su origen.
   <!-- feedback: Una sola página no garantiza veracidad; hay que comparar fuentes. -->
-- [ ] D) Ignorar toda la información sin leerla.
+- [ ] C) Ignorar toda la información sin leerla.
   <!-- feedback: Ignorar todo no permite tomar decisiones informadas. -->
 
 ### Explicacion Pedagogica
@@ -126,11 +126,11 @@ Aplicar criterios de verificación de información en medios digitales para evit
 ¿Qué características debe tener una noticia para informar correctamente a la comunidad escolar?
 
 ### Opciones
-- [x] A) Información veraz, clara, con datos comprobables y sin lenguaje ofensivo.
+- [x] C) Información veraz, clara, con datos comprobables y sin lenguaje ofensivo.
   <!-- feedback: Una buena noticia es veraz, clara y respetuosa con las personas. -->
-- [ ] B) Rumores inventados para llamar la atención.
+- [ ] A) Rumores inventados para llamar la atención.
   <!-- feedback: Los rumores sin base desinforman a la comunidad escolar. -->
-- [ ] C) Datos falsos exagerados para hacer reír.
+- [ ] B) Datos falsos exagerados para hacer reír.
   <!-- feedback: La exageración y la mentira no son características de una buena noticia. -->
 - [ ] D) Solo chismes sobre compañeros del salón.
   <!-- feedback: Los chismes no son información confiable y pueden dañar a las personas. -->
@@ -172,13 +172,13 @@ Comparar medios tradicionales y digitales según su periodicidad y soporte.
 ¿Qué consecuencia puede tener consumir información de un solo medio con sesgo político?
 
 ### Opciones
-- [x] A) Formarse una visión incompleta o distorsionada de la realidad.
+- [x] D) Formarse una visión incompleta o distorsionada de la realidad.
   <!-- feedback: Recibir información sesgada limita la mirada crítica sobre los hechos. -->
-- [ ] B) Conocer siempre la verdad absoluta de los hechos.
+- [ ] A) Conocer siempre la verdad absoluta de los hechos.
   <!-- feedback: Ningún medio, y menos uno sesgado, garantiza la verdad absoluta. -->
-- [ ] C) Mejorar automáticamente el pensamiento crítico.
+- [ ] B) Mejorar automáticamente el pensamiento crítico.
   <!-- feedback: Un solo medio sesgado no favorece el pensamiento crítico, sino que lo reduce. -->
-- [ ] D) Eliminar la posibilidad de informarse por otros medios.
+- [ ] C) Eliminar la posibilidad de informarse por otros medios.
   <!-- feedback: Las personas siempre pueden consultar otras fuentes para ampliar su visión. -->
 
 ### Explicacion Pedagogica
@@ -195,9 +195,9 @@ Analizar la influencia de los medios sesgados en la opinión pública y la impor
 ¿Cuál es la mejor forma de aprovechar los medios de comunicación como ciudadano responsable?
 
 ### Opciones
-- [x] A) Informarse en distintas fuentes, verificar datos y compartir información respetuosa y veraz.
+- [x] B) Informarse en distintas fuentes, verificar datos y compartir información respetuosa y veraz.
   <!-- feedback: Diversificar fuentes y verificar datos fortalece la participación ciudadana informada. -->
-- [ ] B) Consumir solo lo que diga un único medio favorito sin cuestionar.
+- [ ] A) Consumir solo lo que diga un único medio favorito sin cuestionar.
   <!-- feedback: Depender de un solo medio limita la visión de la realidad. -->
 - [ ] C) Compartir únicamente contenido ofensivo para llamar la atención.
   <!-- feedback: Difundir contenido ofensivo no es responsable ni respetuoso. -->

@@ -31,9 +31,9 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) La metáfora visual. <!-- feedback: La metáfora usa un objeto para representar una idea, no solo deforma rasgos. -->
-- [x] B) La exageración o hipérbole. <!-- feedback: La caricatura se basa en exagerar rasgos distintivos para enfatizar la identidad y el carácter del personaje. -->
-- [ ] C) El realismo fotográfico. <!-- feedback: La caricatura es lo opuesto al realismo; busca la distorsión. -->
-- [ ] D) El pie de foto informativo. <!-- feedback: Este es un elemento textual externo, no un recurso gráfico de dibujo. -->
+- [x] D) La exageración o hipérbole. <!-- feedback: La caricatura se basa en exagerar rasgos distintivos para enfatizar la identidad y el carácter del personaje. -->
+- [ ] B) El realismo fotográfico. <!-- feedback: La caricatura es lo opuesto al realismo; busca la distorsión. -->
+- [ ] C) El pie de foto informativo. <!-- feedback: Este es un elemento textual externo, no un recurso gráfico de dibujo. -->
 
 ### Explicacion Pedagogica
 La caricatura periodística utiliza la exageración de rasgos físicos (prosopografía) como una herramienta comunicativa para crear un retrato psicológico o satírico de figuras públicas.
@@ -50,9 +50,9 @@ La caricatura periodística utiliza la exageración de rasgos físicos (prosopog
 
 ### Opciones
 - [ ] A) Género informativo. <!-- feedback: Las noticias informan hechos; las caricaturas expresan visiones subjetivas. -->
-- [x] B) Género de opinión. <!-- feedback: La caricatura es un editorial gráfico; refleja la posición del autor o del medio sobre un tema. -->
-- [ ] C) Género narrativo de ficción. <!-- feedback: Aunque usa el dibujo, se basa en hechos y personajes reales de la actualidad. -->
-- [ ] D) Género deportivo. <!-- feedback: Aunque puede haber caricaturas deportivas, el género general de crítica es el de opinión. -->
+- [x] D) Género de opinión. <!-- feedback: La caricatura es un editorial gráfico; refleja la posición del autor o del medio sobre un tema. -->
+- [ ] B) Género narrativo de ficción. <!-- feedback: Aunque usa el dibujo, se basa en hechos y personajes reales de la actualidad. -->
+- [ ] C) Género deportivo. <!-- feedback: Aunque puede haber caricaturas deportivas, el género general de crítica es el de opinión. -->
 
 ### Explicacion Pedagogica
 La caricatura periodística es considerada una pieza de opinión gráfica. Su función no es reportar un suceso de forma neutral, sino comentarlo mediante la sátira y el humor crítico.
@@ -69,8 +69,8 @@ La caricatura periodística es considerada una pieza de opinión gráfica. Su fu
 
 ### Opciones
 - [ ] A) Una hipérbole de tamaño. <!-- feedback: No se está exagerando el tamaño, sino cambiando un objeto por otro. -->
-- [x] B) Una metáfora visual. <!-- feedback: Los billetes representan la corrupción o el poder del dinero que reemplaza al equilibrio de la justicia. -->
-- [ ] C) Una onomatopeya. <!-- feedback: Las onomatopeyas son representaciones de sonidos, no cambios de objetos. -->
+- [x] C) Una metáfora visual. <!-- feedback: Los billetes representan la corrupción o el poder del dinero que reemplaza al equilibrio de la justicia. -->
+- [ ] B) Una onomatopeya. <!-- feedback: Las onomatopeyas son representaciones de sonidos, no cambios de objetos. -->
 - [ ] D) Un retrato literal de la realidad. <!-- feedback: Es una representación simbólica, no una escena captada de la realidad física. -->
 
 ### Explicacion Pedagogica
@@ -89,8 +89,8 @@ La metáfora visual permite comunicar conceptos abstractos complejos (como la co
 ### Opciones
 - [ ] A) Que a los colombianos les gusta practicar senderismo en las montañas. <!-- feedback: Esta es una interpretación literal que ignora las etiquetas y el contexto social. -->
 - [ ] B) Que el salario mínimo es suficiente para comprar equipos de montaña. <!-- feedback: La desproporción entre la montaña y la maleta sugiere lo contrario. -->
-- [x] C) La desproporción y dificultad económica que enfrentan los trabajadores ante la inflación. <!-- feedback: La montaña representa un obstáculo casi insuperable comparado con los recursos del trabajador. -->
-- [ ] D) Que el gobierno va a regalar maletas nuevas a todos los ciudadanos. <!-- feedback: El texto no ofrece pistas para esta interpretación; la caricatura es una crítica de la situación actual. -->
+- [x] D) La desproporción y dificultad económica que enfrentan los trabajadores ante la inflación. <!-- feedback: La montaña representa un obstáculo casi insuperable comparado con los recursos del trabajador. -->
+- [ ] C) Que el gobierno va a regalar maletas nuevas a todos los ciudadanos. <!-- feedback: El texto no ofrece pistas para esta interpretación; la caricatura es una crítica de la situación actual. -->
 
 ### Explicacion Pedagogica
 La interpretación de caricaturas requiere decodificar los símbolos y las etiquetas (palabras dentro del dibujo) para entender la relación de fuerzas o la situación denunciada por el autor.
@@ -109,9 +109,9 @@ La interpretación de caricaturas requiere decodificar los símbolos y las etiqu
 
 ### Opciones
 - [ ] A) La opción 1, porque es más honesta y muestra la realidad sin inventos. <!-- feedback: Eso sería una fotografía informativa, no una caricatura que requiere interpretación. -->
-- [x] B) La opción 2, porque usa la personificación para generar empatía y denunciar el estado del río. <!-- feedback: Darle características humanas al río permite expresar visualmente su "enfermedad" o degradación de forma creativa. -->
-- [ ] C) Ambas son iguales, lo importante es que el dibujo sea bonito y tenga muchos colores. <!-- feedback: La caricatura prioriza el mensaje crítico y el uso de recursos retóricos sobre la estética pura. -->
-- [ ] D) Ninguna de las dos, porque los ríos no pueden estar en camillas en la vida real. <!-- feedback: El lenguaje de la caricatura permite situaciones fantásticas para comunicar verdades sociales. -->
+- [x] D) La opción 2, porque usa la personificación para generar empatía y denunciar el estado del río. <!-- feedback: Darle características humanas al río permite expresar visualmente su "enfermedad" o degradación de forma creativa. -->
+- [ ] B) Ambas son iguales, lo importante es que el dibujo sea bonito y tenga muchos colores. <!-- feedback: La caricatura prioriza el mensaje crítico y el uso de recursos retóricos sobre la estética pura. -->
+- [ ] C) Ninguna de las dos, porque los ríos no pueden estar en camillas en la vida real. <!-- feedback: El lenguaje de la caricatura permite situaciones fantásticas para comunicar verdades sociales. -->
 
 ### Explicacion Pedagogica
 La personificación es un recurso común en la caricatura. Al tratar a objetos o elementos de la naturaleza como seres humanos, el caricaturista logra que el lector se conecte emocionalmente con el problema denunciado.
@@ -128,9 +128,9 @@ La personificación es un recurso común en la caricatura. Al tratar a objetos o
 
 ### Opciones
 - [ ] A) El insulto directo al político. <!-- feedback: No hay insultos, hay una situación absurda construida mediante el diálogo. -->
-- [x] B) La ironía y el absurdo. <!-- feedback: El absurdo de prometer un río evidencia la falta de realismo y la falsedad de las promesas electorales. -->
-- [ ] C) El uso de palabras técnicas de ingeniería civil. <!-- feedback: El lenguaje es sencillo, el efecto viene de la situación planteada. -->
-- [ ] D) La descripción detallada del paisaje rural. <!-- feedback: El foco es el intercambio comunicativo que revela la intención del político. -->
+- [x] D) La ironía y el absurdo. <!-- feedback: El absurdo de prometer un río evidencia la falta de realismo y la falsedad de las promesas electorales. -->
+- [ ] B) El uso de palabras técnicas de ingeniería civil. <!-- feedback: El lenguaje es sencillo, el efecto viene de la situación planteada. -->
+- [ ] C) La descripción detallada del paisaje rural. <!-- feedback: El foco es el intercambio comunicativo que revela la intención del político. -->
 
 ### Explicacion Pedagogica
 El humor en la caricatura no busca solo la risa, sino la reflexión. La ironía permite decir una cosa para significar lo contrario o para mostrar lo ridículo de una conducta o discurso.
@@ -146,9 +146,9 @@ El humor en la caricatura no busca solo la risa, sino la reflexión. La ironía 
 ¿Cuál es la función comunicativa de los elementos no verbales (las manos que salen de la pantalla) en este texto multimodal?
 
 ### Opciones
-- [ ] A) Mostrar que los computadores del futuro tendrán manos mecánicas. <!-- feedback: Es una interpretación literal de ciencia ficción, ajena al mensaje crítico. -->
-- [ ] B) Decorar la escena para que no parezca solo un niño estudiando. <!-- feedback: Las manos tienen una carga semántica clara: la acción de quitar o robar. -->
-- [x] C) Representar visualmente cómo la tecnología puede invadir y arrebatar espacios propios de la infancia. <!-- feedback: Las manos simbolizan la intrusión de lo digital en lo personal y recreativo. -->
+- [ ] B) Mostrar que los computadores del futuro tendrán manos mecánicas. <!-- feedback: Es una interpretación literal de ciencia ficción, ajena al mensaje crítico. -->
+- [ ] C) Decorar la escena para que no parezca solo un niño estudiando. <!-- feedback: Las manos tienen una carga semántica clara: la acción de quitar o robar. -->
+- [x] A) Representar visualmente cómo la tecnología puede invadir y arrebatar espacios propios de la infancia. <!-- feedback: Las manos simbolizan la intrusión de lo digital en lo personal y recreativo. -->
 - [ ] D) Indicar que el niño necesita ayuda para manejar el computador. <!-- feedback: La expresión de cansancio del niño y la acción de las manos sugieren una crítica, no una necesidad de apoyo técnico. -->
 
 ### Explicacion Pedagogica
@@ -166,8 +166,8 @@ En la caricatura, los elementos fantásticos o imposibles (como manos saliendo d
 
 ### Opciones
 - [ ] A) La caricatura es el género más objetivo porque el dibujo no miente. <!-- feedback: El dibujo es una interpretación subjetiva del artista; puede ser muy sesgado. -->
-- [ ] B) Los caricaturistas están obligados por ley a dibujar a todos los políticos igual. <!-- feedback: No existe tal ley; la libertad de expresión permite diversas interpretaciones. -->
-- [x] C) La caricatura es inherentemente subjetiva y refleja la línea editorial y la opinión del autor. <!-- feedback: Como género de opinión, la caricatura toma partido y utiliza símbolos para orientar la percepción del lector. -->
+- [ ] C) Los caricaturistas están obligados por ley a dibujar a todos los políticos igual. <!-- feedback: No existe tal ley; la libertad de expresión permite diversas interpretaciones. -->
+- [x] B) La caricatura es inherentemente subjetiva y refleja la línea editorial y la opinión del autor. <!-- feedback: Como género de opinión, la caricatura toma partido y utiliza símbolos para orientar la percepción del lector. -->
 - [ ] D) Una de las dos caricaturas debe estar mal dibujada técnicamente. <!-- feedback: La diferencia no es técnica, sino de intención comunicativa e ideológica. -->
 
 ### Explicacion Pedagogica
@@ -185,8 +185,8 @@ La caricatura no busca la verdad objetiva, sino la "verdad" desde un punto de vi
 
 ### Opciones
 - [ ] A) Que la gente necesita reírse de las tragedias para olvidarlas rápidamente. <!-- feedback: La caricatura no busca olvidar, busca que se reflexione y se cuestione. -->
-- [x] B) Que el humor es una herramienta poderosa para denunciar injusticias que el lenguaje serio a veces no logra impactar. <!-- feedback: La sátira puede romper la indiferencia y señalar verdades incómodas de manera directa y memorable. -->
-- [ ] C) Que los caricaturistas no tienen sentimientos y solo buscan ganar dinero. <!-- feedback: Es un prejuicio que ignora la función social y valiente que muchos caricaturistas cumplen. -->
+- [x] C) Que el humor es una herramienta poderosa para denunciar injusticias que el lenguaje serio a veces no logra impactar. <!-- feedback: La sátira puede romper la indiferencia y señalar verdades incómodas de manera directa y memorable. -->
+- [ ] B) Que los caricaturistas no tienen sentimientos y solo buscan ganar dinero. <!-- feedback: Es un prejuicio que ignora la función social y valiente que muchos caricaturistas cumplen. -->
 - [ ] D) Que es mejor dibujar que escribir porque así no se pueden presentar demandas legales. <!-- feedback: Las caricaturas también pueden ser objeto de procesos legales si se considera que vulneran derechos. -->
 
 ### Explicacion Pedagogica
@@ -203,8 +203,8 @@ La caricatura periodística cumple una función catártica y crítica. Su valor 
 ¿Cuál es la crítica central que el autor plantea sobre la sociedad contemporánea en esta pieza?
 
 ### Opciones
-- [ ] A) Que las inundaciones son cada vez más frecuentes en las ciudades. <!-- feedback: Este es el escenario, pero la crítica no es meteorológica. -->
-- [x] B) La desconexión con la realidad física y la prioridad que se le da a la vida digital sobre la seguridad real. <!-- feedback: El contraste entre el peligro inminente y la obsesión por los "likes" evidencia una pérdida de sentido de la realidad. -->
+- [ ] B) Que las inundaciones son cada vez más frecuentes en las ciudades. <!-- feedback: Este es el escenario, pero la crítica no es meteorológica. -->
+- [x] A) La desconexión con la realidad física y la prioridad que se le da a la vida digital sobre la seguridad real. <!-- feedback: El contraste entre el peligro inminente y la obsesión por los "likes" evidencia una pérdida de sentido de la realidad. -->
 - [ ] C) Que los teléfonos modernos funcionan incluso debajo del agua. <!-- feedback: Es una observación técnica irrelevante para el mensaje social del autor. -->
 - [ ] D) Que es necesario que el gobierno invierta más en redes sociales para emergencias. <!-- feedback: El autor no está pidiendo más redes, sino criticando la actitud de los usuarios ante ellas. -->
 

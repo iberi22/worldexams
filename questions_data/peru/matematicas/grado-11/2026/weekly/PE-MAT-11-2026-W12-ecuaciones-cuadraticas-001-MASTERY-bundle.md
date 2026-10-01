@@ -30,9 +30,9 @@ creador: "Jules-Agent"
 Dada la ecuación cuadrática $ax^2 + bx + c = 0$, ¿cuál es la condición necesaria para que se considere una ecuación de segundo grado en una variable?
 
 ### Opciones
-- [ ] A) $c \ne 0$
+- [ ] B) $c \ne 0$
   <!-- feedback: Incorrecto. El término independiente $c$ puede ser cero (ecuación incompleta). -->
-- [x] B) $a \ne 0$
+- [x] A) $a \ne 0$
   <!-- feedback: Correcto. Si $a = 0$, el término cuadrático desaparece y la ecuación se convierte en una de primer grado (lineal). -->
 - [ ] C) $b^2 - 4ac > 0$
   <!-- feedback: Incorrecto. Esta es la condición para que las raíces sean reales y diferentes, no para la definición de la ecuación. -->
@@ -57,9 +57,9 @@ Si el área de la base cuadrada es de 144 cm², ¿cuál es la longitud de cada l
 ### Opciones
 - [ ] A) 10 cm
   <!-- feedback: Incorrecto. $10^2 = 100$, no llega al área requerida. -->
-- [x] B) 12 cm
+- [x] C) 12 cm
   <!-- feedback: Correcto. La ecuación es $x^2 = 144$. Al extraer la raíz cuadrada positiva, $x = 12$. -->
-- [ ] C) 14 cm
+- [ ] B) 14 cm
   <!-- feedback: Incorrecto. $14^2 = 196$, excede el área dada. -->
 - [ ] D) 72 cm
   <!-- feedback: Incorrecto. Dividió el área por 2 en lugar de extraer la raíz cuadrada. -->
@@ -105,9 +105,9 @@ Para resolver $ax^2 + bx = 0$, factorizamos $x$: $x(ax + b) = 0$. De aquí se de
 ¿Cuál es la descomposición correcta en factores de la expresión $x^2 - 5x + 6$?
 
 ### Opciones
-- [ ] A) $(x - 6)(x + 1)$
+- [ ] B) $(x - 6)(x + 1)$
   <!-- feedback: Incorrecto. El producto es $-6$ y la suma es $-5$. El término independiente debe ser $+6$. -->
-- [x] B) $(x - 3)(x - 2)$
+- [x] A) $(x - 3)(x - 2)$
   <!-- feedback: Correcto. $(-3) \times (-2) = 6$ y $(-3) + (-2) = -5$. Cumple con los coeficientes de la expresión. -->
 - [ ] C) $(x + 3)(x + 2)$
   <!-- feedback: Incorrecto. La suma sería $+5$, no $-5$. -->
@@ -130,11 +130,11 @@ El método de aspa simple busca dos números que multiplicados den el término i
 El largo de un terreno es 5 metros mayor que su ancho. Si el área total es de 150 m², determine la longitud del ancho.
 
 ### Opciones
-- [x] B) 10 metros
+- [x] C) 10 metros
   <!-- feedback: Correcto. Sea $x$ el ancho. Largo = $x+5$. Ecuación: $x(x+5) = 150 \Rightarrow x^2 + 5x - 150 = 0$. Factorizando: $(x+15)(x-10)=0$. Como el ancho es positivo, $x = 10$. -->
-- [ ] A) 15 metros
+- [ ] B) 15 metros
   <!-- feedback: Incorrecto. Si el ancho es 15, el largo sería 20 y el área 300. -->
-- [ ] C) 12 metros
+- [ ] A) 12 metros
   <!-- feedback: Incorrecto. No satisface la ecuación del área. -->
 - [ ] D) 8 metros
   <!-- feedback: Incorrecto. El área sería $8 \times 13 = 104$. -->
@@ -157,9 +157,9 @@ Resuelva la ecuación $x^2 - 4x + 1 = 0$ usando la fórmula cuadrática. Indique
 ### Opciones
 - [ ] A) $x = 2 + \sqrt{5}$
   <!-- feedback: Incorrecto. El discriminante es $16 - 4 = 12$. La raíz de 12 es $2\sqrt{3}$. -->
-- [x] B) $x = 2 + \sqrt{3}$
+- [x] C) $x = 2 + \sqrt{3}$
   <!-- feedback: Correcto. $x = \frac{-(-4) \pm \sqrt{(-4)^2 - 4(1)(1)}}{2(1)} = \frac{4 \pm \sqrt{12}}{2} = \frac{4 \pm 2\sqrt{3}}{2} = 2 \pm \sqrt{3}$. -->
-- [ ] C) $x = 4 + \sqrt{3}$
+- [ ] B) $x = 4 + \sqrt{3}$
   <!-- feedback: Incorrecto. Olvidó dividir el primer término por el denominador 2. -->
 - [ ] D) $x = 2 - \sqrt{2}$
   <!-- feedback: Incorrecto. Error en el cálculo del discriminante. -->
@@ -234,9 +234,9 @@ Si las raíces de la ecuación $3x^2 + kx + 12 = 0$ son iguales, halle los posib
   <!-- feedback: Incorrecto. Falta considerar el valor negativo. -->
 - [ ] B) $\{144\}$
   <!-- feedback: Incorrecto. Este es el valor de $k^2$, no de $k$. -->
-- [x] C) $\{-12, 12\}$
+- [x] D) $\{-12, 12\}$
   <!-- feedback: Correcto. Para raíces iguales, el discriminante $\Delta = 0$. $k^2 - 4(3)(12) = 0 \Rightarrow k^2 - 144 = 0 \Rightarrow k^2 = 144 \Rightarrow k = \pm 12$. -->
-- [ ] D) $\{-6, 6\}$
+- [ ] C) $\{-6, 6\}$
   <!-- feedback: Incorrecto. Error al multiplicar los coeficientes en la fórmula del discriminante. -->
 
 ### Explicacion Pedagogica
@@ -257,11 +257,11 @@ La utilidad mensual $U$ de una empresa (en miles de soles) está dada por $U(x) 
 ### Opciones
 - [ ] A) S/ 20 y S/ 40
   <!-- feedback: Incorrecto. Revise el despeje. -->
-- [x] B) S/ 10 y S/ 30
+- [x] D) S/ 10 y S/ 30
   <!-- feedback: Correcto. Resolvemos $-2x^2 + 80x - 600 = 0 \Rightarrow x^2 - 40x + 300 = 0$. Factorizando: $(x-30)(x-10)=0$. Precios: 10 y 30. -->
-- [ ] C) S/ 5 y S/ 15
+- [ ] B) S/ 5 y S/ 15
   <!-- feedback: Incorrecto. No son raíces de la función dada. -->
-- [ ] D) S/ 15 y S/ 40
+- [ ] C) S/ 15 y S/ 40
   <!-- feedback: Incorrecto. Error en el proceso de factorización. -->
 
 ### Explicacion Pedagogica
@@ -355,11 +355,11 @@ La suma de las inversas de las raíces de una cuadrática $ax^2 + bx + c = 0$ se
 ¿Cuál debe ser el valor del parámetro $m$ en la ecuación $(m-3)x^2 + (m^2 - 16)x + 10 = 0$ para que sus raíces sean simétricas (opuestas)?
 
 ### Opciones
-- [ ] A) $m = 3$
+- [ ] B) $m = 3$
   <!-- feedback: Incorrecto. Esto anularía el término cuadrático, dejando de ser una ecuación de segundo grado. -->
-- [ ] B) $m = 16$
+- [ ] C) $m = 16$
   <!-- feedback: Incorrecto. La condición es que el coeficiente lineal sea cero. -->
-- [x] C) $m = -4$
+- [x] A) $m = -4$
   <!-- feedback: Correcto. Raíces simétricas significan $x_1 + x_2 = 0$, lo que implica que el coeficiente $b = 0$. $m^2 - 16 = 0 \Rightarrow m = \pm 4$. Si $m=4$, el coeficiente $a=1$. Si $m=-4$, el coeficiente $a=-7$. Ambos sirven. No, un momento, revisemos las opciones. -->
 - [ ] D) $m = 4$
   <!-- feedback: Incorrecto. Ambas soluciones para $m^2 - 16 = 0$ son válidas si no anulan el término cuadrático. -->
@@ -380,9 +380,9 @@ Dos raíces son simétricas si su suma es cero: $x_1 + x_2 = 0$. Por Vieta, $-b/
 Si las raíces de $x^2 - 4x + 2 = 0$ son $\alpha$ y $\beta$, halle la ecuación cuadrática cuyas raíces sean $2\alpha$ y $2\beta$.
 
 ### Opciones
-- [ ] A) $x^2 - 8x + 4 = 0$
+- [ ] B) $x^2 - 8x + 4 = 0$
   <!-- feedback: Incorrecto. Olvidó que el producto de las raíces se ve afectado por el cuadrado del factor de escala. -->
-- [x] B) $x^2 - 8x + 8 = 0$
+- [x] A) $x^2 - 8x + 8 = 0$
   <!-- feedback: Correcto. Nueva suma $S' = 2(\alpha+\beta) = 2(4) = 8$. Nuevo producto $P' = (2\alpha)(2\beta) = 4(\alpha\beta) = 4(2) = 8$. Ecuación: $x^2 - 8x + 8 = 0$. -->
 - [ ] C) $x^2 - 4x + 8 = 0$
   <!-- feedback: Incorrecto. La suma también cambia. -->
@@ -409,9 +409,9 @@ Dadas las raíces originales, $\alpha+\beta = 4$ y $\alpha\beta = 2$. Para la nu
   <!-- feedback: Incorrecto. Simplifique bien los términos cuadrados. -->
 - [ ] B) $4k + 1$
   <!-- feedback: Incorrecto. Error en la expansión del binomio. -->
-- [x] C) 1
+- [x] D) 1
   <!-- feedback: Correcto. $\Delta = [-(2k+1)]^2 - 4(1)(k^2+k) = 4k^2 + 4k + 1 - 4k^2 - 4k = 1$. -->
-- [ ] D) 0
+- [ ] C) 0
   <!-- feedback: Incorrecto. Queda un término constante tras la simplificación. -->
 
 ### Explicacion Pedagogica
@@ -432,9 +432,9 @@ Determine el valor de $k$ para que las raíces de la ecuación $(3k-2)x^2 + 10x 
 ### Opciones
 - [ ] A) $k = 3$
   <!-- feedback: Incorrecto. Verifique la igualdad de coeficientes. -->
-- [x] B) $k = 5$
+- [x] C) $k = 5$
   <!-- feedback: Correcto. Raíces recíprocas implican $x_1x_2 = 1 \Rightarrow c/a = 1 \Rightarrow c = a$. Planteamos $k+8 = 3k-2 \Rightarrow 10 = 2k \Rightarrow k = 5$. -->
-- [ ] C) $k = -3$
+- [ ] B) $k = -3$
   <!-- feedback: Incorrecto. Error al resolver la ecuación lineal para $k$. -->
 - [ ] D) $k = 2$
   <!-- feedback: Incorrecto. Esto anularía el coeficiente $a$ de forma parcial pero no cumpliría la condición de producto 1. -->
@@ -508,9 +508,9 @@ Si comparten una raíz $r$, esta satisface ambas ecuaciones. Al igualar las expr
 Determine el valor de $k$ para que la suma de los cuadrados de las raíces de la ecuación $x^2 - (k-2)x + (k-3) = 0$ sea mínima.
 
 ### Opciones
-- [ ] A) $k = 2$
+- [ ] B) $k = 2$
   <!-- feedback: Incorrecto. Evaluó el vértice de la suma de raíces, no de la suma de sus cuadrados. -->
-- [x] B) $k = 3$
+- [x] A) $k = 3$
   <!-- feedback: Correcto. Sea $x_1^2+x_2^2 = (x_1+x_2)^2 - 2x_1x_2 = (k-2)^2 - 2(k-3) = k^2-4k+4-2k+6 = k^2-6k+10$. Esta función cuadrática en $k$ tiene su mínimo en el vértice $k = -(-6)/2(1) = 3$. -->
 - [ ] C) $k = 1$
   <!-- feedback: Incorrecto. Error en la expansión algebraica de la suma de cuadrados. -->

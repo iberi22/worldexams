@@ -38,10 +38,10 @@ Este bundle aborda los conceptos fundamentales de probabilidad, incluyendo exper
 ¿Cuál es el espacio muestral (S) del experimento "extraer una bolilla y observar su número"?
 
 ### Opciones
-- [x] A) S = {1, 2, 3, ..., 20} <!-- feedback: Correcto. El espacio muestral incluye todos los resultados posibles del experimento. -->
-- [ ] B) S = {1, 20} <!-- feedback: Incorrecto. Estos son solo los valores extremos, no todos los posibles. -->
-- [ ] C) S = {2, 4, 6, ..., 20} <!-- feedback: Incorrecto. Este sería el evento de obtener un número par, no el espacio muestral completo. -->
-- [ ] D) S = {x / x es un número real entre 1 y 20} <!-- feedback: Incorrecto. Las bolillas tienen números enteros, no son valores continuos. -->
+- [x] D) S = {1, 2, 3, ..., 20} <!-- feedback: Correcto. El espacio muestral incluye todos los resultados posibles del experimento. -->
+- [ ] A) S = {1, 20} <!-- feedback: Incorrecto. Estos son solo los valores extremos, no todos los posibles. -->
+- [ ] B) S = {2, 4, 6, ..., 20} <!-- feedback: Incorrecto. Este sería el evento de obtener un número par, no el espacio muestral completo. -->
+- [ ] C) S = {x / x es un número real entre 1 y 20} <!-- feedback: Incorrecto. Las bolillas tienen números enteros, no son valores continuos. -->
 
 ### Explicacion Pedagogica
 El espacio muestral es el conjunto de todos los resultados posibles de un experimento aleatorio. En este caso, como hay 20 bolillas numeradas del 1 al 20, el conjunto contiene cada uno de esos números enteros.
@@ -62,9 +62,9 @@ Según la Ley de Laplace, ¿cuál es la probabilidad de extraer el 1 de espadas 
 
 ### Opciones
 - [ ] A) 1/4 <!-- feedback: Incorrecto. Hay 4 palos, pero la pregunta es sobre una carta específica, no sobre cualquier espada. -->
-- [x] B) 1/40 <!-- feedback: Correcto. Hay un solo ancho de espadas en un total de 40 casos posibles. -->
-- [ ] C) 1/10 <!-- feedback: Incorrecto. Hay 10 cartas de espadas, pero solo una es el ancho de espadas. -->
-- [ ] D) 4/40 <!-- feedback: Incorrecto. Esto representaría la probabilidad de sacar cualquier "as" o "1", no solo el de espadas. -->
+- [x] D) 1/40 <!-- feedback: Correcto. Hay un solo ancho de espadas en un total de 40 casos posibles. -->
+- [ ] B) 1/10 <!-- feedback: Incorrecto. Hay 10 cartas de espadas, pero solo una es el ancho de espadas. -->
+- [ ] C) 4/40 <!-- feedback: Incorrecto. Esto representaría la probabilidad de sacar cualquier "as" o "1", no solo el de espadas. -->
 
 ### Explicacion Pedagogica
 La Ley de Laplace establece que la probabilidad de un evento es el cociente entre el número de casos favorables y el número de casos posibles, siempre que estos sean equiprobables. Aquí, hay 1 caso favorable (el 1 de espadas) sobre 40 posibles.
@@ -177,8 +177,8 @@ Si se extrae una carta al azar, ¿cuál es la probabilidad de que sea un "As" O 
 
 ### Opciones
 - [ ] A) 17/52 <!-- feedback: Incorrecto. Se está contando dos veces el As de corazones. -->
-- [x] B) 16/52 <!-- feedback: Correcto. Hay 4 Ases y 13 Corazones, pero el As de corazones está en ambos grupos. Entonces 4 + 13 - 1 = 16. -->
-- [ ] C) 13/52 <!-- feedback: Incorrecto. Esta es solo la probabilidad de sacar corazones. -->
+- [x] C) 16/52 <!-- feedback: Correcto. Hay 4 Ases y 13 Corazones, pero el As de corazones está en ambos grupos. Entonces 4 + 13 - 1 = 16. -->
+- [ ] B) 13/52 <!-- feedback: Incorrecto. Esta es solo la probabilidad de sacar corazones. -->
 - [ ] D) 4/52 <!-- feedback: Incorrecto. Esta es solo la probabilidad de sacar un As. -->
 
 ### Explicacion Pedagogica
@@ -223,8 +223,8 @@ El término "al menos uno" se refiere a la unión de los eventos. Como los event
 
 ### Opciones
 - [ ] A) 0,25 <!-- feedback: Incorrecto. Esto representa solo un tipo de moneda (por ejemplo, solo las de $100). -->
-- [x] B) 0,50 <!-- feedback: Correcto. Hay 8 monedas favorables ($50 y $100) sobre un total de 16 (4 de cada uno de los 4 valores). -->
-- [ ] C) 0,75 <!-- feedback: Incorrecto. Incluiría también las de $25, que no son mayores o iguales a $50. -->
+- [x] C) 0,50 <!-- feedback: Correcto. Hay 8 monedas favorables ($50 y $100) sobre un total de 16 (4 de cada uno de los 4 valores). -->
+- [ ] B) 0,75 <!-- feedback: Incorrecto. Incluiría también las de $25, que no son mayores o iguales a $50. -->
 - [ ] D) 0,40 <!-- feedback: Incorrecto. El cálculo es 8/16, lo cual simplifica a 0,5. -->
 
 ### Explicacion Pedagogica
@@ -245,8 +245,8 @@ Identificamos los casos totales: 4 valores x 4 monedas = 16 monedas. Los casos f
 Si lanzamos la moneda 100 veces y obtenemos 55 caras, ¿a qué concepto nos referimos cuando decimos que la probabilidad de cara es 0,55?
 
 ### Opciones
-- [ ] A) Probabilidad teórica <!-- feedback: Incorrecto. La teórica se basa en el modelo ideal (Laplace), que sería 0,5. -->
-- [x] B) Probabilidad frecuencial o empírica <!-- feedback: Correcto. Se basa en la observación de resultados tras repetir el experimento. -->
+- [ ] B) Probabilidad teórica <!-- feedback: Incorrecto. La teórica se basa en el modelo ideal (Laplace), que sería 0,5. -->
+- [x] A) Probabilidad frecuencial o empírica <!-- feedback: Correcto. Se basa en la observación de resultados tras repetir el experimento. -->
 - [ ] C) Probabilidad subjetiva <!-- feedback: Incorrecto. Esta se basa en opiniones o creencias, no en datos experimentales. -->
 - [ ] D) Ley de los grandes números <!-- feedback: Incorrecto. Esta ley dice que la frecuencia relativa tiende a la probabilidad teórica al aumentar los ensayos. -->
 
@@ -268,8 +268,8 @@ La probabilidad frecuencial se obtiene dividiendo la cantidad de veces que ocurr
 Si elegimos un auto al azar con el nuevo formato de patente, ¿cuál es la probabilidad de que la última letra sea una vocal (A, E, I, O, U), asumiendo un alfabeto de 26 letras?
 
 ### Opciones
-- [ ] A) 1/26 <!-- feedback: Incorrecto. Hay 5 vocales, no una sola. -->
-- [x] B) 5/26 <!-- feedback: Correcto. Hay 5 casos favorables (las 5 vocales) sobre 26 posibles. -->
+- [ ] B) 1/26 <!-- feedback: Incorrecto. Hay 5 vocales, no una sola. -->
+- [x] A) 5/26 <!-- feedback: Correcto. Hay 5 casos favorables (las 5 vocales) sobre 26 posibles. -->
 - [ ] C) 5/27 <!-- feedback: Incorrecto. El alfabeto estándar usado para estas probabilidades suele considerarse de 26 letras (sin la Ñ). -->
 - [ ] D) 21/26 <!-- feedback: Incorrecto. Esta es la probabilidad de que sea una consonante. -->
 
@@ -293,8 +293,8 @@ Si se seleccionan dos piezas al azar con reposición, ¿cuál es la probabilidad
 ### Opciones
 - [ ] A) 0,10 <!-- feedback: Incorrecto. No se suman las probabilidades de eventos independientes para la intersección. -->
 - [ ] B) 0,05 <!-- feedback: Incorrecto. Esta es la probabilidad de que una lo sea. -->
-- [x] C) 0,0025 <!-- feedback: Correcto. Para eventos independientes, P(A ∩ B) = P(A) * P(B). 0,05 * 0,05 = 0,0025. -->
-- [ ] D) 0,25 <!-- feedback: Incorrecto. Error en la ubicación de la coma decimal. -->
+- [x] D) 0,0025 <!-- feedback: Correcto. Para eventos independientes, P(A ∩ B) = P(A) * P(B). 0,05 * 0,05 = 0,0025. -->
+- [ ] C) 0,25 <!-- feedback: Incorrecto. Error en la ubicación de la coma decimal. -->
 
 ### Explicacion Pedagogica
 Como la selección es con reposición, los eventos son independientes. La probabilidad de que ocurran ambos es el producto de sus probabilidades individuales: 0,05 x 0,05 = 0,0025 (o 0,25%).
@@ -315,8 +315,8 @@ Como la selección es con reposición, los eventos son independientes. La probab
 
 ### Opciones
 - [ ] A) 1/12 <!-- feedback: Incorrecto. No se multiplican las opciones totales por la cantidad de preguntas en el denominador. -->
-- [ ] B) 4/3 <!-- feedback: Incorrecto. La probabilidad no puede ser mayor a 1. -->
-- [x] C) 1/81 <!-- feedback: Correcto. En cada pregunta la probabilidad es 1/3. Al ser 4 preguntas independientes: (1/3)^4 = 1/81. -->
+- [ ] C) 4/3 <!-- feedback: Incorrecto. La probabilidad no puede ser mayor a 1. -->
+- [x] B) 1/81 <!-- feedback: Correcto. En cada pregunta la probabilidad es 1/3. Al ser 4 preguntas independientes: (1/3)^4 = 1/81. -->
 - [ ] D) 1/64 <!-- feedback: Incorrecto. Esto sería si hubiera 4 opciones por pregunta. -->
 
 ### Explicacion Pedagogica
@@ -338,9 +338,9 @@ Cada pregunta es un evento independiente con P(Éxito) = 1/3. La probabilidad de
 
 ### Opciones
 - [ ] A) 1/8 <!-- feedback: Incorrecto. Solo hay 1 forma de obtener tres caras, pero hay más de una forma de obtener dos caras y una cruz. -->
-- [x] B) 3/8 <!-- feedback: Correcto. Los casos favorables son (C,C,X), (C,X,C) y (X,C,C). El total de casos es 2^3 = 8. -->
-- [ ] C) 2/8 <!-- feedback: Incorrecto. Olvidaste uno de los arreglos posibles. -->
-- [ ] D) 1/2 <!-- feedback: Incorrecto. No es una probabilidad del 50%. -->
+- [x] D) 3/8 <!-- feedback: Correcto. Los casos favorables son (C,C,X), (C,X,C) y (X,C,C). El total de casos es 2^3 = 8. -->
+- [ ] B) 2/8 <!-- feedback: Incorrecto. Olvidaste uno de los arreglos posibles. -->
+- [ ] C) 1/2 <!-- feedback: Incorrecto. No es una probabilidad del 50%. -->
 
 ### Explicacion Pedagogica
 El espacio muestral tiene 8 elementos. Los arreglos que cumplen "2 caras y 1 cruz" son 3. Por lo tanto, P = 3/8 = 0,375.
@@ -362,8 +362,8 @@ El espacio muestral tiene 8 elementos. Los arreglos que cumplen "2 caras y 1 cru
 ### Opciones
 - [ ] A) 5/200 <!-- feedback: Incorrecto. Solo cuenta tu probabilidad. -->
 - [ ] B) 10/200 <!-- feedback: Incorrecto. Solo cuenta la probabilidad de tu primo. -->
-- [x] C) 0,075 <!-- feedback: Correcto. Al ser eventos mutuamente excluyentes (un solo ganador), sumamos las probabilidades: 5/200 + 10/200 = 15/200 = 0,075. -->
-- [ ] D) 0,15 <!-- feedback: Incorrecto. Error en la división 15/200. -->
+- [x] D) 0,075 <!-- feedback: Correcto. Al ser eventos mutuamente excluyentes (un solo ganador), sumamos las probabilidades: 5/200 + 10/200 = 15/200 = 0,075. -->
+- [ ] C) 0,15 <!-- feedback: Incorrecto. Error en la división 15/200. -->
 
 ### Explicacion Pedagogica
 Como solo hay un premio, no pueden ganar ambos al mismo tiempo. Son eventos disjuntos. La probabilidad de la unión es la suma de las probabilidades: 0,025 + 0,05 = 0,075.
@@ -406,8 +406,8 @@ Los números primos menores o iguales a 6 son 2, 3 y 5. Son 3 casos favorables d
 ¿Cuál es la probabilidad de que el sistema falle (es decir, que al menos uno de los dos códigos falle)?
 
 ### Opciones
-- [ ] A) 0,3 <!-- feedback: Incorrecto. No se suman las probabilidades directamente sin restar la intersección. -->
-- [x] B) 0,28 <!-- feedback: Correcto. P(A U B) = P(A) + P(B) - P(A ∩ B) = 0,1 + 0,2 - (0,1 * 0,2) = 0,3 - 0,02 = 0,28. -->
+- [ ] B) 0,3 <!-- feedback: Incorrecto. No se suman las probabilidades directamente sin restar la intersección. -->
+- [x] A) 0,28 <!-- feedback: Correcto. P(A U B) = P(A) + P(B) - P(A ∩ B) = 0,1 + 0,2 - (0,1 * 0,2) = 0,3 - 0,02 = 0,28. -->
 - [ ] C) 0,02 <!-- feedback: Incorrecto. Esta es la probabilidad de que ambos fallen. -->
 - [ ] D) 0,72 <!-- feedback: Incorrecto. Esta es la probabilidad de que ninguno falle. -->
 
@@ -430,8 +430,8 @@ Si el dardo impacta siempre dentro del blanco, ¿cuál es la probabilidad de que
 
 ### Opciones
 - [ ] A) 1/2 <!-- feedback: Incorrecto. La probabilidad depende del área, no del radio linealmente. -->
-- [x] B) 1/4 <!-- feedback: Correcto. El área del blanco es πR² y la del centro es π(R/2)² = πR²/4. La relación de áreas es 1/4. -->
-- [ ] C) 1/8 <!-- feedback: Incorrecto. No se eleva al cubo, ya que estamos en dos dimensiones (área). -->
+- [x] C) 1/4 <!-- feedback: Correcto. El área del blanco es πR² y la del centro es π(R/2)² = πR²/4. La relación de áreas es 1/4. -->
+- [ ] B) 1/8 <!-- feedback: Incorrecto. No se eleva al cubo, ya que estamos en dos dimensiones (área). -->
 - [ ] D) 1/π <!-- feedback: Incorrecto. El valor de π se cancela en la división. -->
 
 ### Explicacion Pedagogica
@@ -453,9 +453,9 @@ En probabilidad geométrica, la probabilidad es el cociente de las áreas. Área
 
 ### Opciones
 - [ ] A) 0,36 <!-- feedback: Incorrecto. Esto sería si hubiera reposición (6/10 * 6/10). -->
-- [x] B) 1/3 <!-- feedback: Correcto. P(1ra grasa) = 6/10. Al no haber reposición, P(2da grasa | 1ra grasa) = 5/9. Total: 6/10 * 5/9 = 30/90 = 1/3. -->
-- [ ] C) 12/100 <!-- feedback: Incorrecto. No corresponde al cálculo sin reposición. -->
-- [ ] D) 0,6 <!-- feedback: Incorrecto. Esta es la probabilidad de sacar solo una factura de grasa en el primer intento. -->
+- [x] D) 1/3 <!-- feedback: Correcto. P(1ra grasa) = 6/10. Al no haber reposición, P(2da grasa | 1ra grasa) = 5/9. Total: 6/10 * 5/9 = 30/90 = 1/3. -->
+- [ ] B) 12/100 <!-- feedback: Incorrecto. No corresponde al cálculo sin reposición. -->
+- [ ] C) 0,6 <!-- feedback: Incorrecto. Esta es la probabilidad de sacar solo una factura de grasa en el primer intento. -->
 
 ### Explicacion Pedagogica
 Al no haber reposición, los eventos son dependientes. La probabilidad conjunta es P(A) * P(B|A). 6/10 * 5/9 = 30/90 = 1/3 (aprox 0,333).
@@ -475,10 +475,10 @@ Al no haber reposición, los eventos son dependientes. La probabilidad conjunta 
 Comparando las dos situaciones anteriores, ¿cuál afirmación es correcta?
 
 ### Opciones
-- [x] A) Es ligeramente más probable obtener al menos un 6 en 4 lanzamientos. <!-- feedback: Correcto. P1 = 1 - (5/6)^4 ≈ 0,5177. P2 = 1 - (35/36)^24 ≈ 0,4914. -->
-- [ ] B) Es ligeramente más probable obtener al menos un doble 6 en 24 lanzamientos. <!-- feedback: Incorrecto. El cálculo muestra que es menor a 0,5. -->
-- [ ] C) Ambas situaciones tienen exactamente la misma probabilidad. <!-- feedback: Incorrecto. Aunque están cerca de 0,5, no son iguales. -->
-- [ ] D) Ambas probabilidades son menores a 0,4. <!-- feedback: Incorrecto. Ambas están cerca del 50%. -->
+- [x] D) Es ligeramente más probable obtener al menos un 6 en 4 lanzamientos. <!-- feedback: Correcto. P1 = 1 - (5/6)^4 ≈ 0,5177. P2 = 1 - (35/36)^24 ≈ 0,4914. -->
+- [ ] A) Es ligeramente más probable obtener al menos un doble 6 en 24 lanzamientos. <!-- feedback: Incorrecto. El cálculo muestra que es menor a 0,5. -->
+- [ ] B) Ambas situaciones tienen exactamente la misma probabilidad. <!-- feedback: Incorrecto. Aunque están cerca de 0,5, no son iguales. -->
+- [ ] C) Ambas probabilidades son menores a 0,4. <!-- feedback: Incorrecto. Ambas están cerca del 50%. -->
 
 ### Explicacion Pedagogica
 Usamos el complemento: P(Al menos uno) = 1 - P(Ninguno). Para un dado: 1 - (5/6)^4 = 0,5177. Para dos dados: 1 - (35/36)^24 = 0,4914. Por lo tanto, el primer caso es más probable.

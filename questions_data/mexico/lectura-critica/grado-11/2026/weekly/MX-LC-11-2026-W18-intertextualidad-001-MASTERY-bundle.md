@@ -31,8 +31,8 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) La reproducción literal y completa de un texto anterior entre comillas. <!-- feedback: Incorrecto: eso es una cita directa, no una alusión. -->
-- [x] B) Una referencia breve a otro texto, persona o suceso que el lector debe reconocer. <!-- feedback: Correcto: la alusión evoca sin copiar literalmente. -->
-- [ ] C) Un error de atribución de una obra a su autor. <!-- feedback: Incorrecto: eso es un problema bibliográfico, no un recurso. -->
+- [x] C) Una referencia breve a otro texto, persona o suceso que el lector debe reconocer. <!-- feedback: Correcto: la alusión evoca sin copiar literalmente. -->
+- [ ] B) Un error de atribución de una obra a su autor. <!-- feedback: Incorrecto: eso es un problema bibliográfico, no un recurso. -->
 - [ ] D) La lista de fuentes consultadas al final del texto. <!-- feedback: Incorrecto: eso es una bibliografía. -->
 
 ### Explicacion Pedagogica
@@ -50,8 +50,8 @@ La alusión es una mención indirecta que activa en el lector el recuerdo de otr
 
 ### Opciones
 - [ ] A) "La autora defendió el derecho de las mujeres al conocimiento." <!-- feedback: Incorrecto: expresa la idea con otras palabras; es una paráfrasis. -->
-- [ ] B) "Sor Juana cuestionó los prejuicios de su época." <!-- feedback: Incorrecto: es un resumen de la postura, no sus palabras. -->
-- [x] C) "Hombres necios que acusáis / a la mujer sin razón". <!-- feedback: Correcto: reproduce literalmente los versos de la autora. -->
+- [ ] C) "Sor Juana cuestionó los prejuicios de su época." <!-- feedback: Incorrecto: es un resumen de la postura, no sus palabras. -->
+- [x] B) "Hombres necios que acusáis / a la mujer sin razón". <!-- feedback: Correcto: reproduce literalmente los versos de la autora. -->
 - [ ] D) "El poema critica la doble moral de su tiempo." <!-- feedback: Incorrecto: es una interpretación del lector, no una cita. -->
 
 ### Explicacion Pedagogica
@@ -69,8 +69,8 @@ El ensayista cita los versos "Hombres necios que acusáis / a la mujer sin razó
 
 ### Opciones
 - [ ] A) Demostrar que Sor Juana escribía mejor que las autoras actuales. <!-- feedback: Incorrecto: la cita no busca competencia literaria. -->
-- [ ] B) Rellenar el ensayo con material decorativo. <!-- feedback: Incorrecto: la cita tiene una función argumentativa, no ornamental. -->
-- [x] C) Mostrar que la crítica a la doble moral tiene una tradición en la literatura mexicana. <!-- feedback: Correcto: la cita ancla la tesis en una voz histórica reconocible. -->
+- [ ] C) Rellenar el ensayo con material decorativo. <!-- feedback: Incorrecto: la cita tiene una función argumentativa, no ornamental. -->
+- [x] B) Mostrar que la crítica a la doble moral tiene una tradición en la literatura mexicana. <!-- feedback: Correcto: la cita ancla la tesis en una voz histórica reconocible. -->
 - [ ] D) Probar que la desigualdad de género dejó de existir. <!-- feedback: Incorrecto: la cita hace lo contrario al recordar una crítica vigente. -->
 
 ### Explicacion Pedagogica
@@ -88,8 +88,8 @@ Una crónica sobre los pescadores de Yucatán cierra con el refrán "camarón qu
 
 ### Opciones
 - [ ] A) Los camarones duermen en el fondo del mar. <!-- feedback: Incorrecto: el refrán no debe leerse de manera literal. -->
-- [ ] B) La pesca es una actividad peligrosa durante la noche. <!-- feedback: Incorrecto: el peligro nocturno no está en el refrán. -->
-- [x] C) Quien se descuida pierde su oportunidad. <!-- feedback: Correcto: el refrán advierte que la falta de atención tiene consecuencias. -->
+- [ ] C) La pesca es una actividad peligrosa durante la noche. <!-- feedback: Incorrecto: el peligro nocturno no está en el refrán. -->
+- [x] B) Quien se descuida pierde su oportunidad. <!-- feedback: Correcto: el refrán advierte que la falta de atención tiene consecuencias. -->
 - [ ] D) La corriente marina arrastra todo lo que flota. <!-- feedback: Incorrecto: es una lectura literal del refrán, no su sentido figurado. -->
 
 ### Explicacion Pedagogica
@@ -125,9 +125,9 @@ La alusión parafraseada evoca un texto conocido sin reproducirlo: el lector que
 Un ensayista actual retoma la crítica de Sor Juana contra la doble moral y la aplica a los discursos de las redes sociales. ¿Qué tipo de relación intertextual establece?
 
 ### Opciones
-- [ ] A) Parodia: se burla del poema original. <!-- feedback: Incorrecto: no hay burla ni deformación cómica. -->
-- [ ] B) Traducción: vierte el poema a otro idioma. <!-- feedback: Incorrecto: no hay traslación lingüística. -->
-- [x] C) Dialogo: actualiza una crítica del pasado en un contexto nuevo. <!-- feedback: Correcto: el ensayista conversa con la tradición y la proyecta al presente. -->
+- [ ] B) Parodia: se burla del poema original. <!-- feedback: Incorrecto: no hay burla ni deformación cómica. -->
+- [ ] C) Traducción: vierte el poema a otro idioma. <!-- feedback: Incorrecto: no hay traslación lingüística. -->
+- [x] A) Dialogo: actualiza una crítica del pasado en un contexto nuevo. <!-- feedback: Correcto: el ensayista conversa con la tradición y la proyecta al presente. -->
 - [ ] D) Refutación: demuestra que Sor Juana estaba equivocada. <!-- feedback: Incorrecto: el ensayista coincide con la crítica, no la rechaza. -->
 
 ### Explicacion Pedagogica
@@ -146,8 +146,8 @@ Un orador escolar dice: "Al que a buen árbol se arrima, buena sombra lo cobija"
 ### Opciones
 - [ ] A) Demostrar conocimientos botánicos. <!-- feedback: Incorrecto: el refrán no se usa en sentido literal. -->
 - [ ] B) Ocultar la verdadera intención del discurso. <!-- feedback: Incorrecto: el refrán refuerza el mensaje, no lo oculta. -->
-- [x] C) Conectar con la sabiduría popular compartida por la audiencia. <!-- feedback: Correcto: el refrán crea complicidad y hace cercano el elogio. -->
-- [ ] D) Impresionar con una cita literaria culta. <!-- feedback: Incorrecto: el refrán es popular, no erudito. -->
+- [x] D) Conectar con la sabiduría popular compartida por la audiencia. <!-- feedback: Correcto: el refrán crea complicidad y hace cercano el elogio. -->
+- [ ] C) Impresionar con una cita literaria culta. <!-- feedback: Incorrecto: el refrán es popular, no erudito. -->
 
 ### Explicacion Pedagogica
 El refrán funciona como un intertexto de la tradición oral que la comunidad reconoce al instante. Usarlo acerca al orador con su audiencia y envuelve el mensaje en una autoridad compartida.
@@ -163,9 +163,9 @@ El refrán funciona como un intertexto de la tradición oral que la comunidad re
 Un grupo de estudiantes reescribe el eslogan "Hazte un favor, hazlo por México" como "Hazte un favor, haz la tarea" para su campaña de estudios. ¿Qué recurso utilizan?
 
 ### Opciones
-- [ ] A) Cita académica formal. <!-- feedback: Incorrecto: no hay formalidad académica en la reescritura. -->
-- [ ] B) Traducción de un texto extranjero. <!-- feedback: Incorrecto: no se cambia de idioma. -->
-- [x] C) Parodia de un eslogan publicitario conocido. <!-- feedback: Correcto: la reescritura burlona y lúdica de un texto famoso es parodia. -->
+- [ ] B) Cita académica formal. <!-- feedback: Incorrecto: no hay formalidad académica en la reescritura. -->
+- [ ] C) Traducción de un texto extranjero. <!-- feedback: Incorrecto: no se cambia de idioma. -->
+- [x] A) Parodia de un eslogan publicitario conocido. <!-- feedback: Correcto: la reescritura burlona y lúdica de un texto famoso es parodia. -->
 - [ ] D) Refutación científica del eslogan original. <!-- feedback: Incorrecto: no hay argumentación científica. -->
 
 ### Explicacion Pedagogica
@@ -184,8 +184,8 @@ El ensayo retoma la imagen de la patria "como superficie de maíz" y la discute.
 ### Opciones
 - [ ] A) Copiar la idea del poeta sin aportar nada nuevo. <!-- feedback: Incorrecto: la discusión implica una reelaboración. -->
 - [ ] B) Demostrar que el verso es objetivamente falso. <!-- feedback: Incorrecto: el ensayo discute la imagen, no su verdad fáctica. -->
-- [x] C) Pensar críticamente una imagen fundadora de la identidad mexicana. <!-- feedback: Correcto: el intertexto se convierte en objeto de análisis. -->
-- [ ] D) Sustituir la poesía por datos estadísticos. <!-- feedback: Incorrecto: la poesía sigue siendo el centro de la reflexión. -->
+- [x] D) Pensar críticamente una imagen fundadora de la identidad mexicana. <!-- feedback: Correcto: el intertexto se convierte en objeto de análisis. -->
+- [ ] C) Sustituir la poesía por datos estadísticos. <!-- feedback: Incorrecto: la poesía sigue siendo el centro de la reflexión. -->
 
 ### Explicacion Pedagogica
 Cuando un texto toma otro como objeto de reflexión, la intertextualidad se vuelve crítica: el ensayista no repite la imagen del maíz, sino que la examina, la matiza y la interroga como símbolo nacional.
@@ -203,8 +203,8 @@ Cuando un texto toma otro como objeto de reflexión, la intertextualidad se vuel
 ### Opciones
 - [ ] A) El homenaje siempre es más largo que la parodia. <!-- feedback: Incorrecto: la extensión no distingue ambos recursos. -->
 - [ ] B) La parodia siempre cita textualmente y el homenaje nunca lo hace. <!-- feedback: Incorrecto: ambos pueden citar, aludir o reformular. -->
-- [x] C) El homenaje celebra al texto original; la parodia lo deforma con intención cómica o crítica. <!-- feedback: Correcto: la actitud ante el original es lo que los distingue. -->
-- [ ] D) El homenaje pertenece a la literatura y la parodia al periodismo. <!-- feedback: Incorrecto: ambos recursos aparecen en todos los géneros. -->
+- [x] D) El homenaje celebra al texto original; la parodia lo deforma con intención cómica o crítica. <!-- feedback: Correcto: la actitud ante el original es lo que los distingue. -->
+- [ ] C) El homenaje pertenece a la literatura y la parodia al periodismo. <!-- feedback: Incorrecto: ambos recursos aparecen en todos los géneros. -->
 
 ### Explicacion Pedagogica
 La diferencia es de actitud: el homenaje reconoce y celebra la obra referida, mientras que la parodia la transforma, generalmente con humor o ironía, para producir un sentido nuevo.
@@ -240,8 +240,8 @@ Reescribir un intertexto conocido produce un desvío que el lector detecta: al p
 
 ### Opciones
 - [ ] A) Prueba matemáticamente la tesis del ensayista. <!-- feedback: Incorrecto: la autoridad literaria no opera como una demostración matemática. -->
-- [ ] B) Elimina la necesidad de argumentar con razones propias. <!-- feedback: Incorrecto: el diálogo acompaña, no reemplaza, la argumentación. -->
-- [x] C) Inscribe al autor en una tradición y refuerza la legitimidad de su postura. <!-- feedback: Correcto: dialogar con voces reconocidas sitúa al ensayista en la conversación culta. -->
+- [ ] C) Elimina la necesidad de argumentar con razones propias. <!-- feedback: Incorrecto: el diálogo acompaña, no reemplaza, la argumentación. -->
+- [x] B) Inscribe al autor en una tradición y refuerza la legitimidad de su postura. <!-- feedback: Correcto: dialogar con voces reconocidas sitúa al ensayista en la conversación culta. -->
 - [ ] D) Convierte el ensayo en una obra de ficción. <!-- feedback: Incorrecto: la referencia erudita no ficcionaliza el texto. -->
 
 ### Explicacion Pedagogica
@@ -258,9 +258,9 @@ La intertextualidad erudita construye ethos: al citar, aludir y discutir con aut
 Un guion ambientado en la Nueva España muestra a un personaje diciendo "esto se va a volver viral". ¿Qué problema presenta esa frase?
 
 ### Opciones
-- [ ] A) Es una cita literal de un autor del siglo XVII. <!-- feedback: Incorrecto: la frase no pertenece a ningún texto colonial. -->
-- [ ] B) Es un refrán mexicano antiguo. <!-- feedback: Incorrecto: "viral" es un concepto de la era digital. -->
-- [x] C) Es un anacronismo: introduce una referencia de otra época en el contexto histórico. <!-- feedback: Correcto: ningún personaje novohispano podía hablar de difusión viral. -->
+- [ ] B) Es una cita literal de un autor del siglo XVII. <!-- feedback: Incorrecto: la frase no pertenece a ningún texto colonial. -->
+- [ ] C) Es un refrán mexicano antiguo. <!-- feedback: Incorrecto: "viral" es un concepto de la era digital. -->
+- [x] A) Es un anacronismo: introduce una referencia de otra época en el contexto histórico. <!-- feedback: Correcto: ningún personaje novohispano podía hablar de difusión viral. -->
 - [ ] D) Es una alusión correcta a la poesía barroca. <!-- feedback: Incorrecto: no guarda relación con la poesía barroca. -->
 
 ### Explicacion Pedagogica
@@ -298,8 +298,8 @@ Una campaña universitaria imita el formato de un anuncio de refresco y termina 
 ### Opciones
 - [ ] A) Elogiar sinceramente a la marca de refresco. <!-- feedback: Incorrecto: la imitación no celebra a la marca. -->
 - [ ] B) Confundir al público entre el producto y la universidad. <!-- feedback: Incorrecto: el público reconoce el guiño, no se confunde. -->
-- [x] C) Aprovechar la memoria del eslogan para criticar los excesos de velocidad. <!-- feedback: Correcto: la deformación del mensaje conocido redirige su fuerza persuasiva. -->
-- [ ] D) Copiar la publicidad sin permiso con fines comerciales. <!-- feedback: Incorrecto: es una campaña educativa con intención crítica. -->
+- [x] D) Aprovechar la memoria del eslogan para criticar los excesos de velocidad. <!-- feedback: Correcto: la deformación del mensaje conocido redirige su fuerza persuasiva. -->
+- [ ] C) Copiar la publicidad sin permiso con fines comerciales. <!-- feedback: Incorrecto: es una campaña educativa con intención crítica. -->
 
 ### Explicacion Pedagogica
 La parodia publicitaria reutiliza la familiaridad del eslogan: al modificarlo, transfiere su fuerza memorable a un mensaje distinto, a menudo crítico. El efecto depende de que el público reconozca el original.
@@ -317,8 +317,8 @@ Un estudiante copia un párrafo de un ensayo famoso y lo presenta como propio, s
 ### Opciones
 - [ ] A) Nada: copiar es la forma más pura de intertextualidad. <!-- feedback: Incorrecto: la intertextualidad no exige ocultar la fuente. -->
 - [ ] B) La extensión: si el párrafo es corto, no es plagio. <!-- feedback: Incorrecto: el plagio no depende de la longitud. -->
-- [x] C) La ausencia de reconocimiento: el plagio oculta la fuente, la intertextualidad la declara o la transforma. <!-- feedback: Correcto: la clave es la transparencia y la reelaboración. -->
-- [ ] D) El tema: si el texto trata de literatura, nunca es plagio. <!-- feedback: Incorrecto: el tema no exime del plagio. -->
+- [x] D) La ausencia de reconocimiento: el plagio oculta la fuente, la intertextualidad la declara o la transforma. <!-- feedback: Correcto: la clave es la transparencia y la reelaboración. -->
+- [ ] C) El tema: si el texto trata de literatura, nunca es plagio. <!-- feedback: Incorrecto: el tema no exime del plagio. -->
 
 ### Explicacion Pedagogica
 La intertextualidad legítima cita, alude o transforma la fuente reconociéndola; el plagio la oculta para atribuirse el mérito. La diferencia no está en el contacto con otros textos, sino en la honestidad de la relación.
@@ -335,8 +335,8 @@ Un político justifica un recorte de becas diciendo "el que nace pa' maceta, del
 
 ### Opciones
 - [ ] A) Es un uso legítimo porque el refrán expresa una verdad universal. <!-- feedback: Incorrecto: ningún refrán expresa una verdad universal verificable. -->
-- [ ] B) Es un recurso literario que embellece el discurso sin efectos. <!-- feedback: Incorrecto: el refrán tiene efectos prácticos: naturaliza la desigualdad. -->
-- [x] C) Es un uso manipulador: presenta la desigualdad de oportunidades como destino inevitable. <!-- feedback: Correcto: el refrán convierte una decisión política en una ley natural incuestionable. -->
+- [ ] C) Es un recurso literario que embellece el discurso sin efectos. <!-- feedback: Incorrecto: el refrán tiene efectos prácticos: naturaliza la desigualdad. -->
+- [x] B) Es un uso manipulador: presenta la desigualdad de oportunidades como destino inevitable. <!-- feedback: Correcto: el refrán convierte una decisión política en una ley natural incuestionable. -->
 - [ ] D) Es una cita erudita que fortalece la argumentación técnica. <!-- feedback: Incorrecto: el refrán es popular, no técnico, y su función aquí es cerrar el debate. -->
 
 ### Explicacion Pedagogica
@@ -374,8 +374,8 @@ Un escritor publica un cuento que imita el estilo de un autor famoso sin mencion
 ### Opciones
 - [ ] A) Es un delito equivalente al robo de un auto. <!-- feedback: Incorrecto: la imitación de estilo no es equiparable a un delito patrimonial. -->
 - [ ] B) Es completamente irrelevante, pues los estilos son de todos. <!-- feedback: Incorrecto: aunque los estilos circulan, el ocultamiento deliberado plantea cuestiones éticas. -->
-- [x] C) Es un pastiche que puede ser legítimo si la imitación se reconoce como ejercicio creativo; ocultarla deliberadamente engaña al lector. <!-- feedback: Correcto: la clave está en la transparencia del juego intertextual. -->
-- [ ] D) Es válido siempre que el cuento sea bueno. <!-- feedback: Incorrecto: la calidad no justifica el engaño sobre la deuda creativa. -->
+- [x] D) Es un pastiche que puede ser legítimo si la imitación se reconoce como ejercicio creativo; ocultarla deliberadamente engaña al lector. <!-- feedback: Correcto: la clave está en la transparencia del juego intertextual. -->
+- [ ] C) Es válido siempre que el cuento sea bueno. <!-- feedback: Incorrecto: la calidad no justifica el engaño sobre la deuda creativa. -->
 
 ### Explicacion Pedagogica
 El pastiche (imitación de estilo) es un recurso intertextual legítimo cuando se reconoce como tal: el problema ético aparece cuando el autor oculta la imitación para atribuirse una originalidad que no tiene.
@@ -392,8 +392,8 @@ Para defender que la lengua es un territorio en disputa, un autor cita un artíc
 
 ### Opciones
 - [ ] A) La cita constitucional, porque es la única fuente válida. <!-- feedback: Incorrecto: la validez jurídica no garantiza el efecto persuasivo en todos los públicos. -->
-- [ ] B) La parodia, porque siempre es más rigurosa que la cita. <!-- feedback: Incorrecto: la parodia conecta, pero no sustituye el rigor. -->
-- [x] C) La parodia, porque moviliza la memoria cultural del público juvenil, aunque conviene apoyarla con datos. <!-- feedback: Correcto: la eficacia depende de la audiencia; el humor y el guiño acercan el tema, y los datos lo sostienen. -->
+- [ ] C) La parodia, porque siempre es más rigurosa que la cita. <!-- feedback: Incorrecto: la parodia conecta, pero no sustituye el rigor. -->
+- [x] B) La parodia, porque moviliza la memoria cultural del público juvenil, aunque conviene apoyarla con datos. <!-- feedback: Correcto: la eficacia depende de la audiencia; el humor y el guiño acercan el tema, y los datos lo sostienen. -->
 - [ ] D) Ambas son ineficaces porque no citan a un experto internacional. <!-- feedback: Incorrecto: la eficacia persuasiva no depende de la autoridad extranjera. -->
 
 ### Explicacion Pedagogica

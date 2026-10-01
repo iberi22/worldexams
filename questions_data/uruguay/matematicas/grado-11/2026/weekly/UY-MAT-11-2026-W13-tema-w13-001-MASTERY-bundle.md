@@ -52,8 +52,8 @@ La distancia euclidiana viene dada por $d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
 
 ### Opciones
 - [ ] A) $(4, 12)$ <!-- feedback: Incorrecto. Sumaste las coordenadas pero olvidaste dividirlas entre 2. -->
-- [x] B) $(2, 6)$ <!-- feedback: ¡Correcto! $M = \left(\frac{-2+6}{2}, \frac{4+8}{2}\right) = \left(\frac{4}{2}, \frac{12}{2}\right) = (2, 6)$. -->
-- [ ] C) $(8, 4)$ <!-- feedback: Incorrecto. Restaste las coordenadas en lugar de promediarlas. -->
+- [x] C) $(2, 6)$ <!-- feedback: ¡Correcto! $M = \left(\frac{-2+6}{2}, \frac{4+8}{2}\right) = \left(\frac{4}{2}, \frac{12}{2}\right) = (2, 6)$. -->
+- [ ] B) $(8, 4)$ <!-- feedback: Incorrecto. Restaste las coordenadas en lugar de promediarlas. -->
 - [ ] D) $(4, 6)$ <!-- feedback: Incorrecto. Error en la división de la abscisa $-2+6 = 4 \Rightarrow 4/2 = 2$. -->
 
 ### Explicación Pedagógica
@@ -108,8 +108,8 @@ La ecuación canónica es $(x - h)^2 + (y - k)^2 = r^2$. Comparando término a t
 Si la recta $L_1$ tiene pendiente $m_1 = 3$, ¿cuál debe ser la pendiente $m_2$ de una recta $L_2$ perpendicular a $L_1$?
 
 ### Opciones
-- [ ] A) $m_2 = 3$ <!-- feedback: Incorrecto. Rectas con la misma pendiente son paralelas, no perpendiculares. -->
-- [x] B) $m_2 = -\frac{1}{3}$ <!-- feedback: ¡Correcto! Dos rectas son perpendiculares si y solo si $m_1 \cdot m_2 = -1 \Rightarrow m_2 = -\frac{1}{3}$. -->
+- [ ] B) $m_2 = 3$ <!-- feedback: Incorrecto. Rectas con la misma pendiente son paralelas, no perpendiculares. -->
+- [x] A) $m_2 = -\frac{1}{3}$ <!-- feedback: ¡Correcto! Dos rectas son perpendiculares si y solo si $m_1 \cdot m_2 = -1 \Rightarrow m_2 = -\frac{1}{3}$. -->
 - [ ] C) $m_2 = -3$ <!-- feedback: Incorrecto. Cambiaste el signo pero olvidaste invertir el valor. -->
 - [ ] D) $m_2 = \frac{1}{3}$ <!-- feedback: Incorrecto. Invertiste el valor pero olvidaste cambiar el signo. -->
 
@@ -128,8 +128,8 @@ La condición de perpendicularidad exige que el producto de sus pendientes sea $
 
 ### Opciones
 - [ ] A) $2x + 3y - 12 = 0$ <!-- feedback: Incorrecto. Al pasar $y$ restando queda $2x - 3y - 12 = 0$. -->
-- [x] B) $2x - 3y - 12 = 0$ <!-- feedback: ¡Correcto! Multiplicando por 3: $3y = 2x - 12 \Rightarrow 2x - 3y - 12 = 0$. -->
-- [ ] C) $2x - 3y + 4 = 0$ <!-- feedback: Incorrecto. Olvidaste multiplicar el término independiente $-4$ por 3. -->
+- [x] C) $2x - 3y - 12 = 0$ <!-- feedback: ¡Correcto! Multiplicando por 3: $3y = 2x - 12 \Rightarrow 2x - 3y - 12 = 0$. -->
+- [ ] B) $2x - 3y + 4 = 0$ <!-- feedback: Incorrecto. Olvidaste multiplicar el término independiente $-4$ por 3. -->
 - [ ] D) $3x - 2y - 12 = 0$ <!-- feedback: Incorrecto. Intercambiaste los coeficientes de $x$ e $y$. -->
 
 ### Explicación Pedagógica
@@ -167,9 +167,9 @@ Dada la elipse de ecuación $\frac{x^2}{25} + \frac{y^2}{9} = 1$, ¿cuáles son 
 
 ### Opciones
 - [ ] A) $(0, \pm 5)$ <!-- feedback: Incorrecto. Los vértices están sobre el eje $x$ porque $a^2 = 25$ está bajo $x^2$. -->
-- [x] B) $(\pm 5, 0)$ <!-- feedback: ¡Correcto! Como $a^2 = 25 \Rightarrow a = 5$, los vértices mayores están en $(\pm 5, 0)$. -->
-- [ ] C) $(\pm 3, 0)$ <!-- feedback: Incorrecto. $b = 3$ corresponde a los vértices sobre el eje menor. -->
-- [ ] D) $(\pm 25, 0)$ <!-- feedback: Incorrecto. No extrajiste la raíz cuadrada de $a^2 = 25$. -->
+- [x] D) $(\pm 5, 0)$ <!-- feedback: ¡Correcto! Como $a^2 = 25 \Rightarrow a = 5$, los vértices mayores están en $(\pm 5, 0)$. -->
+- [ ] B) $(\pm 3, 0)$ <!-- feedback: Incorrecto. $b = 3$ corresponde a los vértices sobre el eje menor. -->
+- [ ] C) $(\pm 25, 0)$ <!-- feedback: Incorrecto. No extrajiste la raíz cuadrada de $a^2 = 25$. -->
 
 ### Explicación Pedagógica
 Como el mayor denominador está bajo $x^2$, el eje semimayor es horizontal con $a^2 = 25 \Rightarrow a = 5$. Por lo tanto, los vértices principales se ubican en los puntos $(\pm a, 0) = (\pm 5, 0)$.
@@ -185,8 +185,8 @@ Como el mayor denominador está bajo $x^2$, el eje semimayor es horizontal con $
 Para la elipse $\frac{x^2}{25} + \frac{y^2}{9} = 1$, ¿cuáles son las coordenadas de sus focos?
 
 ### Opciones
-- [ ] A) $(\pm 16, 0)$ <!-- feedback: Incorrecto. $c^2 = a^2 - b^2 = 16$, pero olvidaste calcular $c = \sqrt{16} = 4$. -->
-- [x] B) $(\pm 4, 0)$ <!-- feedback: ¡Correcto! En la elipse $c^2 = a^2 - b^2 = 25 - 9 = 16 \Rightarrow c = 4$. Focos en $(\pm 4, 0)$. -->
+- [ ] B) $(\pm 16, 0)$ <!-- feedback: Incorrecto. $c^2 = a^2 - b^2 = 16$, pero olvidaste calcular $c = \sqrt{16} = 4$. -->
+- [x] A) $(\pm 4, 0)$ <!-- feedback: ¡Correcto! En la elipse $c^2 = a^2 - b^2 = 25 - 9 = 16 \Rightarrow c = 4$. Focos en $(\pm 4, 0)$. -->
 - [ ] C) $(0, \pm 4)$ <!-- feedback: Incorrecto. El eje focal es horizontal, por lo que la coordenada $y$ de los focos es 0. -->
 - [ ] D) $(\pm 34, 0)$ <!-- feedback: Incorrecto. Sumaste $a^2 + b^2$ (propio de la hipérbola) en lugar de restar. -->
 
@@ -245,9 +245,9 @@ Dada la ecuación general $x^2 + y^2 - 6x + 4y - 3 = 0$, ¿cuál es el radio $r$
 
 ### Opciones
 - [ ] A) $r = 3$ <!-- feedback: Incorrecto. $r^2 = 16 \Rightarrow r = 4$, no 3. -->
-- [x] B) $r = 4$ <!-- feedback: ¡Correcto! Completando cuadrados: $(x-3)^2 - 9 + (y+2)^2 - 4 - 3 = 0 \Rightarrow (x-3)^2 + (y+2)^2 = 16 \Rightarrow r = 4$. -->
-- [ ] C) $r = 16$ <!-- feedback: Incorrecto. 16 es $r^2$, debes extraer la raíz cuadrada. -->
-- [ ] D) $r = \sqrt{13}$ <!-- feedback: Incorrecto. Olvidaste sumar el término $-3$ al pasar al lado derecho. -->
+- [x] D) $r = 4$ <!-- feedback: ¡Correcto! Completando cuadrados: $(x-3)^2 - 9 + (y+2)^2 - 4 - 3 = 0 \Rightarrow (x-3)^2 + (y+2)^2 = 16 \Rightarrow r = 4$. -->
+- [ ] B) $r = 16$ <!-- feedback: Incorrecto. 16 es $r^2$, debes extraer la raíz cuadrada. -->
+- [ ] C) $r = \sqrt{13}$ <!-- feedback: Incorrecto. Olvidaste sumar el término $-3$ al pasar al lado derecho. -->
 
 ### Explicación Pedagógica
 Agrupamos y completamos cuadrados:
@@ -266,9 +266,9 @@ Como $r^2 = 16$, el radio es $r = \sqrt{16} = 4$.
 ¿Cuántos puntos de intersección existen entre la recta $y = x + 5$ y la circunferencia $x^2 + y^2 = 9$?
 
 ### Opciones
-- [x] A) Ningún punto (recta exterior) <!-- feedback: ¡Correcto! La distancia del centro $(0,0)$ a $x - y + 5 = 0$ es $d = \frac{5}{\sqrt{2}} \approx 3.535$. Como $d > r = 3$, la recta es exterior. -->
-- [ ] B) Exactamente 1 punto (recta tangente) <!-- feedback: Incorrecto. Para ser tangente la distancia del centro al radio debería ser exactamente $r = 3$. -->
-- [ ] C) 2 puntos (recta secante) <!-- feedback: Incorrecto. Al sustituir $y = x+5$ en $x^2+y^2=9$, el discriminante es negativo ($\Delta < 0$). -->
+- [x] C) Ningún punto (recta exterior) <!-- feedback: ¡Correcto! La distancia del centro $(0,0)$ a $x - y + 5 = 0$ es $d = \frac{5}{\sqrt{2}} \approx 3.535$. Como $d > r = 3$, la recta es exterior. -->
+- [ ] A) Exactamente 1 punto (recta tangente) <!-- feedback: Incorrecto. Para ser tangente la distancia del centro al radio debería ser exactamente $r = 3$. -->
+- [ ] B) 2 puntos (recta secante) <!-- feedback: Incorrecto. Al sustituir $y = x+5$ en $x^2+y^2=9$, el discriminante es negativo ($\Delta < 0$). -->
 - [ ] D) Infinitos puntos <!-- feedback: Incorrecto. Una circunferencia y una recta no pueden coincidir en infinitos puntos. -->
 
 ### Explicación Pedagógica
@@ -329,9 +329,9 @@ Nota: para toda elipse, $0 < e < 1$.
 Dada la ecuación $Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0$, si $B = 0$, ¿qué tipo de cónica representa cuando $A \cdot C < 0$?
 
 ### Opciones
-- [ ] A) Circunferencia <!-- feedback: Incorrecto. Requiere $A = C \neq 0$ con el mismo signo. -->
-- [ ] B) Elipse <!-- feedback: Incorrecto. La elipse requiere que $A \cdot C > 0$ (mismo signo). -->
-- [x] C) Hipérbola <!-- feedback: ¡Correcto! Cuando $A$ y $C$ tienen signos opuestos ($A \cdot C < 0$), la cónica no degenerada es una hipérbola. -->
+- [ ] B) Circunferencia <!-- feedback: Incorrecto. Requiere $A = C \neq 0$ con el mismo signo. -->
+- [ ] C) Elipse <!-- feedback: Incorrecto. La elipse requiere que $A \cdot C > 0$ (mismo signo). -->
+- [x] A) Hipérbola <!-- feedback: ¡Correcto! Cuando $A$ y $C$ tienen signos opuestos ($A \cdot C < 0$), la cónica no degenerada es una hipérbola. -->
 - [ ] D) Parábola <!-- feedback: Incorrecto. La parábola requiere que $A = 0$ o $C = 0$ (es decir, $A \cdot C = 0$). -->
 
 ### Explicación Pedagógica
@@ -351,9 +351,9 @@ Cuando el término mixto $Bxy$ no está presente ($B = 0$):
 Colocando el origen $(0,0)$ en el vértice del arco en el punto más alto, ¿cuál es la ecuación de la parábola?
 
 ### Opciones
-- [x] A) $x^2 = -4y$ <!-- feedback: ¡Correcto! Vértice en $(0,0)$, puntos de la base en $(\pm 6, -9)$. Sustituyendo: $6^2 = 4p(-9) \Rightarrow 36 = -36p \Rightarrow p = -1$. Ecuación: $x^2 = -4y$. -->
-- [ ] B) $x^2 = -9y$ <!-- feedback: Incorrecto. Usaste el valor entero de la altura sin relacionar la luz de base $6^2 = 36$. -->
-- [ ] C) $y^2 = -4x$ <!-- feedback: Incorrecto. Esta parábola se abre hacia la izquierda, no hacia abajo. -->
+- [x] C) $x^2 = -4y$ <!-- feedback: ¡Correcto! Vértice en $(0,0)$, puntos de la base en $(\pm 6, -9)$. Sustituyendo: $6^2 = 4p(-9) \Rightarrow 36 = -36p \Rightarrow p = -1$. Ecuación: $x^2 = -4y$. -->
+- [ ] A) $x^2 = -9y$ <!-- feedback: Incorrecto. Usaste el valor entero de la altura sin relacionar la luz de base $6^2 = 36$. -->
+- [ ] B) $y^2 = -4x$ <!-- feedback: Incorrecto. Esta parábola se abre hacia la izquierda, no hacia abajo. -->
 - [ ] D) $x^2 = 4y$ <!-- feedback: Incorrecto. Esta parábola se abre hacia arriba ($y > 0$). -->
 
 ### Explicación Pedagógica
@@ -374,9 +374,9 @@ Un punto $P(x, y)$ se mueve de modo que la suma de sus distancias a $F_1(-3, 0)$
 
 ### Opciones
 - [ ] A) $\frac{x^2}{9} + \frac{y^2}{16} = 1$ <!-- feedback: Incorrecto. Invertiste los semiejes $a$ y $b$. -->
-- [x] B) $\frac{x^2}{25} + \frac{y^2}{16} = 1$ <!-- feedback: ¡Correcto! Por definición de elipse $2a = 10 \Rightarrow a = 5$, $c = 3$. $b^2 = a^2 - c^2 = 25 - 9 = 16$. Ecuación: $\frac{x^2}{25} + \frac{y^2}{16} = 1$. -->
-- [ ] C) $\frac{x^2}{100} + \frac{y^2}{9} = 1$ <!-- feedback: Incorrecto. Usaste $2a = 10 \Rightarrow 2a^2 = 100$ en lugar de $a = 5 \Rightarrow a^2 = 25$. -->
-- [ ] D) $\frac{x^2}{25} - \frac{y^2}{16} = 1$ <!-- feedback: Incorrecto. La suma constante de distancias define una elipse (+), no una hipérbola (-). -->
+- [x] D) $\frac{x^2}{25} + \frac{y^2}{16} = 1$ <!-- feedback: ¡Correcto! Por definición de elipse $2a = 10 \Rightarrow a = 5$, $c = 3$. $b^2 = a^2 - c^2 = 25 - 9 = 16$. Ecuación: $\frac{x^2}{25} + \frac{y^2}{16} = 1$. -->
+- [ ] B) $\frac{x^2}{100} + \frac{y^2}{9} = 1$ <!-- feedback: Incorrecto. Usaste $2a = 10 \Rightarrow 2a^2 = 100$ en lugar de $a = 5 \Rightarrow a^2 = 25$. -->
+- [ ] C) $\frac{x^2}{25} - \frac{y^2}{16} = 1$ <!-- feedback: Incorrecto. La suma constante de distancias define una elipse (+), no una hipérbola (-). -->
 
 ### Explicación Pedagógica
 1) Por definición, la suma constante de distancias a dos focos define una elipse con $2a = 10 \Rightarrow a = 5$.
@@ -416,10 +416,10 @@ La propiedad óptica de la parábola hace que todos los rayos entrantes paralelo
 Dadas las circunferencias $C_1: x^2 + y^2 = 25$ y $C_2: (x - 6)^2 + y^2 = 25$, ¿en qué puntos se intersecan?
 
 ### Opciones
-- [x] A) $(3, 4)$ y $(3, -4)$ <!-- feedback: ¡Correcto! De $C_1$: $y^2 = 25 - x^2$. Sustituyendo en $C_2$: $(x-6)^2 + 25 - x^2 = 25 \Rightarrow -12x + 36 = 0 \Rightarrow x = 3$. Luego $y^2 = 16 \Rightarrow y = \pm 4$. -->
-- [ ] B) $(3, 0)$ únicamente <!-- feedback: Incorrecto. $(3,0)$ está a distancia 3 del origen, no sobre la circunferencia de radio 5. -->
-- [ ] C) $(0, 5)$ y $(6, 5)$ <!-- feedback: Incorrecto. Estos puntos no pertenecen simultáneamente a ambas circunferencias. -->
-- [ ] D) No se intersecan <!-- feedback: Incorrecto. La distancia entre centros es $d = 6 < r_1 + r_2 = 10$, de modo que sí se intersecan en dos puntos. -->
+- [x] D) $(3, 4)$ y $(3, -4)$ <!-- feedback: ¡Correcto! De $C_1$: $y^2 = 25 - x^2$. Sustituyendo en $C_2$: $(x-6)^2 + 25 - x^2 = 25 \Rightarrow -12x + 36 = 0 \Rightarrow x = 3$. Luego $y^2 = 16 \Rightarrow y = \pm 4$. -->
+- [ ] A) $(3, 0)$ únicamente <!-- feedback: Incorrecto. $(3,0)$ está a distancia 3 del origen, no sobre la circunferencia de radio 5. -->
+- [ ] B) $(0, 5)$ y $(6, 5)$ <!-- feedback: Incorrecto. Estos puntos no pertenecen simultáneamente a ambas circunferencias. -->
+- [ ] C) No se intersecan <!-- feedback: Incorrecto. La distancia entre centros es $d = 6 < r_1 + r_2 = 10$, de modo que sí se intersecan en dos puntos. -->
 
 ### Explicación Pedagógica
 1) Restamos las dos ecuaciones para hallar el eje radical:

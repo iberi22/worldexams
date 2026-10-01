@@ -99,9 +99,9 @@ El valor de $b$ en $y = mx + b$ es la ordenada al origen. Representa el valor de
 ¿Cuál es el valor de la pendiente ($m$) de una recta que es paralela al eje de las abscisas (eje $x$)?
 
 ### Opciones
-- [x] A) $m = 0$ <!-- feedback: ¡Correcto! Una recta horizontal no tiene inclinación respecto al eje x, por lo que su razón de cambio es cero. -->
-- [ ] B) $m = 1$ <!-- feedback: Una pendiente de 1 corresponde a una recta con una inclinación de 45 grados. -->
-- [ ] C) La pendiente es infinita o no está definida. <!-- feedback: Esto ocurre con las rectas verticales, que son perpendiculares al eje x. -->
+- [x] C) $m = 0$ <!-- feedback: ¡Correcto! Una recta horizontal no tiene inclinación respecto al eje x, por lo que su razón de cambio es cero. -->
+- [ ] A) $m = 1$ <!-- feedback: Una pendiente de 1 corresponde a una recta con una inclinación de 45 grados. -->
+- [ ] B) La pendiente es infinita o no está definida. <!-- feedback: Esto ocurre con las rectas verticales, que son perpendiculares al eje x. -->
 - [ ] D) $m = -1$ <!-- feedback: Esta pendiente indicaría un decrecimiento constante a 45 grados hacia abajo. -->
 
 ### Explicacion Pedagogica
@@ -121,9 +121,9 @@ Una recta horizontal tiene una ecuación de la forma $y = b$. Como el valor de $
 
 ### Opciones
 - [ ] A) $m = 2$ <!-- feedback: Revisa el cálculo: (12 - 3) / (5 - 2) = 9 / 3 = 3. -->
-- [x] B) $m = 3$ <!-- feedback: ¡Correcto! Aplicando la fórmula m = (y2 - y1) / (x2 - x1) obtenemos (12 - 3) / (5 - 2) = 9 / 3 = 3. -->
-- [ ] C) $m = 4.5$ <!-- feedback: Posiblemente dividiste entre 2 en lugar de la diferencia de las x (5 - 2 = 3). -->
-- [ ] D) $m = 9$ <!-- feedback: Este es el valor de la diferencia de las y, pero falta dividirlo entre la diferencia de las x. -->
+- [x] D) $m = 3$ <!-- feedback: ¡Correcto! Aplicando la fórmula m = (y2 - y1) / (x2 - x1) obtenemos (12 - 3) / (5 - 2) = 9 / 3 = 3. -->
+- [ ] B) $m = 4.5$ <!-- feedback: Posiblemente dividiste entre 2 en lugar de la diferencia de las x (5 - 2 = 3). -->
+- [ ] C) $m = 9$ <!-- feedback: Este es el valor de la diferencia de las y, pero falta dividirlo entre la diferencia de las x. -->
 
 ### Explicacion Pedagogica
 La pendiente se calcula como la razón entre el cambio vertical y el cambio horizontal: $m = \frac{y_2 - y_1}{x_2 - x_1}$. En este caso, $m = \frac{12 - 3}{5 - 2} = \frac{9}{3} = 3$.
@@ -142,8 +142,8 @@ La pendiente se calcula como la razón entre el cambio vertical y el cambio hori
 
 ### Opciones
 - [ ] A) $C(k) = 15k + 8$ <!-- feedback: Estás multiplicando la tarifa fija por los kilómetros, cuando debería ser el costo por km. -->
-- [x] B) $C(k) = 8k + 15$ <!-- feedback: ¡Correcto! El costo por kilómetro (8) es la pendiente y el banderazo (15) es la ordenada al origen. -->
-- [ ] C) $C(k) = 23k$ <!-- feedback: Esto asume que no hay cuota fija y que el costo total por km es la suma de ambos valores, lo cual es incorrecto. -->
+- [x] C) $C(k) = 8k + 15$ <!-- feedback: ¡Correcto! El costo por kilómetro (8) es la pendiente y el banderazo (15) es la ordenada al origen. -->
+- [ ] B) $C(k) = 23k$ <!-- feedback: Esto asume que no hay cuota fija y que el costo total por km es la suma de ambos valores, lo cual es incorrecto. -->
 - [ ] D) $C(k) = 8k - 15$ <!-- feedback: La tarifa base es un costo inicial positivo que se suma, no se resta. -->
 
 ### Explicacion Pedagogica
@@ -163,8 +163,8 @@ En problemas de costos, el valor variable (por unidad) es la pendiente ($m$) y e
 
 ### Opciones
 - [ ] A) $x = 12$ <!-- feedback: Este es el punto de corte con el eje y, no con el eje x. -->
-- [x] B) $x = 3$ <!-- feedback: ¡Correcto! Para hallar la intersección con x igualamos y a cero: 0 = -4x + 12 => 4x = 12 => x = 3. -->
-- [ ] C) $x = -3$ <!-- feedback: Al trasponer los términos, el signo de x resulta positivo: 4x = 12 implica x = 3. -->
+- [x] C) $x = 3$ <!-- feedback: ¡Correcto! Para hallar la intersección con x igualamos y a cero: 0 = -4x + 12 => 4x = 12 => x = 3. -->
+- [ ] B) $x = -3$ <!-- feedback: Al trasponer los términos, el signo de x resulta positivo: 4x = 12 implica x = 3. -->
 - [ ] D) $x = 0$ <!-- feedback: Cuando x = 0 obtenemos la intersección con el eje y, que es 12. -->
 
 ### Explicacion Pedagogica
@@ -205,9 +205,9 @@ La pendiente ($m$) representa la velocidad o tasa de crecimiento. La ordenada al
 
 ### Opciones
 - [ ] A) 1,180 litros <!-- feedback: Media hora son 30 minutos, no 0.5 minutos. 1200 - 40(0.5) = 1180. -->
-- [x] B) 0 litros <!-- feedback: ¡Correcto! 30 minutos * 40 l/min = 1200 litros vaciados. 1200 - 1200 = 0. -->
-- [ ] C) 600 litros <!-- feedback: Revisa el cálculo: 40 * 30 = 1200. No 600. -->
-- [ ] D) 400 litros <!-- feedback: 1200 - (40 * 30) = 0. -->
+- [x] D) 0 litros <!-- feedback: ¡Correcto! 30 minutos * 40 l/min = 1200 litros vaciados. 1200 - 1200 = 0. -->
+- [ ] B) 600 litros <!-- feedback: Revisa el cálculo: 40 * 30 = 1200. No 600. -->
+- [ ] C) 400 litros <!-- feedback: 1200 - (40 * 30) = 0. -->
 
 ### Explicacion Pedagogica
 Primero se convierten las unidades de tiempo a las del modelo (minutos). Media hora = 30 min. Luego se evalúa la función: $V(30) = 1200 - 40(30) = 1200 - 1200 = 0$.
@@ -247,8 +247,8 @@ Dos rectas son paralelas si y solo si sus pendientes son iguales ($m_1 = m_2$). 
 
 ### Opciones
 - [ ] A) $m = \frac{3}{4}$ <!-- feedback: Esta es la misma pendiente, lo que resultaría en una recta paralela. -->
-- [ ] B) $m = -\frac{3}{4}$ <!-- feedback: Solo cambiaste el signo, pero para perpendicularidad se requiere el recíproco negativo. -->
-- [x] C) $m = -\frac{4}{3}$ <!-- feedback: ¡Correcto! Dos rectas son perpendiculares si m1 * m2 = -1. El recíproco negativo de 3/4 es -4/3. -->
+- [ ] C) $m = -\frac{3}{4}$ <!-- feedback: Solo cambiaste el signo, pero para perpendicularidad se requiere el recíproco negativo. -->
+- [x] B) $m = -\frac{4}{3}$ <!-- feedback: ¡Correcto! Dos rectas son perpendiculares si m1 * m2 = -1. El recíproco negativo de 3/4 es -4/3. -->
 - [ ] D) $m = \frac{4}{3}$ <!-- feedback: Este es el recíproco, pero falta el cambio de signo para que el producto sea -1. -->
 
 ### Explicacion Pedagogica
@@ -268,9 +268,9 @@ La condición de perpendicularidad entre dos rectas con pendientes $m_1$ y $m_2$
 
 ### Opciones
 - [ ] A) $y = -2x + 5$ <!-- feedback: El 5 es la coordenada y, pero no es necesariamente la ordenada al origen b. -->
-- [x] B) $y = -2x + 3$ <!-- feedback: ¡Correcto! Usando y - y1 = m(x - x1): y - 5 = -2(x + 1) => y - 5 = -2x - 2 => y = -2x + 3. -->
-- [ ] C) $y = -2x + 7$ <!-- feedback: Probablemente sumaste 2 al 5 en lugar de restarlo al trasponer. -->
-- [ ] D) $y = 2x + 3$ <!-- feedback: La pendiente debe ser negativa según el enunciado. -->
+- [x] D) $y = -2x + 3$ <!-- feedback: ¡Correcto! Usando y - y1 = m(x - x1): y - 5 = -2(x + 1) => y - 5 = -2x - 2 => y = -2x + 3. -->
+- [ ] B) $y = -2x + 7$ <!-- feedback: Probablemente sumaste 2 al 5 en lugar de restarlo al trasponer. -->
+- [ ] C) $y = 2x + 3$ <!-- feedback: La pendiente debe ser negativa según el enunciado. -->
 
 ### Explicacion Pedagogica
 Se utiliza la forma punto-pendiente: $y - y_1 = m(x - x_1)$. Sustituyendo: $y - 5 = -2(x - (-1))$, que simplifica a $y = -2x + 3$.
@@ -288,8 +288,8 @@ Se utiliza la forma punto-pendiente: $y - y_1 = m(x - x_1)$. Sustituyendo: $y - 
 ¿Cuál es la razón de cambio (litros por hora) de este sistema de riego?
 
 ### Opciones
-- [ ] A) 15 l/h <!-- feedback: 15 litros es el total a las 2 horas, no la tasa por hora. -->
-- [x] B) 7.5 l/h <!-- feedback: ¡Correcto! m = (37.5 - 15) / (5 - 2) = 22.5 / 3 = 7.5. -->
+- [ ] B) 15 l/h <!-- feedback: 15 litros es el total a las 2 horas, no la tasa por hora. -->
+- [x] A) 7.5 l/h <!-- feedback: ¡Correcto! m = (37.5 - 15) / (5 - 2) = 22.5 / 3 = 7.5. -->
 - [ ] C) 5 l/h <!-- feedback: Revisa la división: 22.5 entre 3 es 7.5. -->
 - [ ] D) 22.5 l/h <!-- feedback: Esta es la diferencia total de litros entre los dos tiempos, no la tasa horaria. -->
 
@@ -310,9 +310,9 @@ La razón de cambio es la pendiente entre los puntos $(2, 15)$ y $(5, 37.5)$. Se
 
 ### Opciones
 - [ ] A) $m = 3, b = 8$ <!-- feedback: No has despejado la variable y para llevar la ecuación a la forma y = mx + b. -->
-- [x] B) $m = 1.5, b = 4$ <!-- feedback: ¡Correcto! -2y = -3x - 8 => y = (-3/-2)x + (-8/-2) => y = 1.5x + 4. -->
-- [ ] C) $m = -1.5, b = -4$ <!-- feedback: Cuidado con los signos al dividir entre -2. -->
-- [ ] D) $m = 0.66, b = 2.66$ <!-- feedback: Despejaste x en lugar de y o dividiste los coeficientes al revés. -->
+- [x] D) $m = 1.5, b = 4$ <!-- feedback: ¡Correcto! -2y = -3x - 8 => y = (-3/-2)x + (-8/-2) => y = 1.5x + 4. -->
+- [ ] B) $m = -1.5, b = -4$ <!-- feedback: Cuidado con los signos al dividir entre -2. -->
+- [ ] C) $m = 0.66, b = 2.66$ <!-- feedback: Despejaste x en lugar de y o dividiste los coeficientes al revés. -->
 
 ### Explicacion Pedagogica
 Para identificar $m$ y $b$ en la forma general $Ax + By + C = 0$, se despeja $y$: $y = -\frac{A}{B}x - \frac{C}{B}$. Aquí, $y = -\frac{3}{-2}x - \frac{8}{-2} = 1.5x + 4$.
@@ -331,8 +331,8 @@ Si el viento cambia y la velocidad de ascenso se duplica mientras la altura inic
 
 ### Opciones
 - [ ] A) $H(t) = 1.2t + 40$ <!-- feedback: Aquí duplicaste la altura inicial (b), no la velocidad (m). -->
-- [x] B) $H(t) = 2.4t + 20$ <!-- feedback: ¡Correcto! La velocidad de ascenso es la pendiente (1.2). Al duplicarla obtenemos 2.4. -->
-- [ ] C) $H(t) = 2.4t + 40$ <!-- feedback: Duplicaste ambos valores, pero el enunciado dice que la altura inicial permanece igual. -->
+- [x] C) $H(t) = 2.4t + 20$ <!-- feedback: ¡Correcto! La velocidad de ascenso es la pendiente (1.2). Al duplicarla obtenemos 2.4. -->
+- [ ] B) $H(t) = 2.4t + 40$ <!-- feedback: Duplicaste ambos valores, pero el enunciado dice que la altura inicial permanece igual. -->
 - [ ] D) $H(t) = 0.6t + 20$ <!-- feedback: Esto sería reducir la velocidad a la mitad. -->
 
 ### Explicacion Pedagogica
@@ -351,8 +351,8 @@ Modificar la velocidad de cambio implica cambiar el valor de la pendiente ($m$).
 ¿En qué punto $(x, y)$ se cruzan las trayectorias de ambos proyectiles?
 
 ### Opciones
-- [ ] A) $(2, 4)$ <!-- feedback: Si x = 2, la primera da y = 4 pero la segunda da y = 7. No es el punto de cruce. -->
-- [x] B) $(3, 5)$ <!-- feedback: ¡Correcto! Igualando x + 2 = -2x + 11 => 3x = 9 => x = 3. Sustituyendo, y = 3 + 2 = 5. -->
+- [ ] B) $(2, 4)$ <!-- feedback: Si x = 2, la primera da y = 4 pero la segunda da y = 7. No es el punto de cruce. -->
+- [x] A) $(3, 5)$ <!-- feedback: ¡Correcto! Igualando x + 2 = -2x + 11 => 3x = 9 => x = 3. Sustituyendo, y = 3 + 2 = 5. -->
 - [ ] C) $(5, 3)$ <!-- feedback: Revisa el despeje de x: x + 2x = 11 - 2, por lo tanto 3x = 9. -->
 - [ ] D) $(3, 1)$ <!-- feedback: x=3 es correcto, pero y debe ser 5. -->
 
@@ -373,9 +373,9 @@ El punto de intersección se halla igualando las dos funciones ($f(x) = g(x)$) p
 
 ### Opciones
 - [ ] A) 60 pares <!-- feedback: 400 * 60 = 24,000. C(60) = 250(60) + 15,000 = 15,000 + 15,000 = 30,000. Los costos superan ingresos. -->
-- [x] B) 100 pares <!-- feedback: ¡Correcto! Ingreso I(x) = 400x. Igualando: 400x = 250x + 15000 => 150x = 15000 => x = 100. -->
-- [ ] C) 150 pares <!-- feedback: Este número de pares generaría una ganancia, no es el punto mínimo de equilibrio. -->
-- [ ] D) 38 pares <!-- feedback: Este cálculo es erróneo; se requiere igualar las funciones de costo e ingreso. -->
+- [x] D) 100 pares <!-- feedback: ¡Correcto! Ingreso I(x) = 400x. Igualando: 400x = 250x + 15000 => 150x = 15000 => x = 100. -->
+- [ ] B) 150 pares <!-- feedback: Este número de pares generaría una ganancia, no es el punto mínimo de equilibrio. -->
+- [ ] C) 38 pares <!-- feedback: Este cálculo es erróneo; se requiere igualar las funciones de costo e ingreso. -->
 
 ### Explicacion Pedagogica
 El punto de equilibrio se alcanza cuando la función de ingresos $I(x) = P \cdot x$ es igual a la función de costos $C(x) = m \cdot x + b$. La solución indica la cantidad necesaria para no tener pérdidas ni ganancias.
@@ -394,8 +394,8 @@ El punto de equilibrio se alcanza cuando la función de ingresos $I(x) = P \cdot
 
 ### Opciones
 - [ ] A) Depreciación: \$80,000/año; $V(t) = 800000 - 80000t$ <!-- feedback: Si m = 80,000, a los 10 años valdría 0. El valor final debe ser 200,000. -->
-- [x] B) Depreciación: \$60,000/año; $V(t) = 800000 - 60000t$ <!-- feedback: ¡Correcto! m = (200,000 - 800,000) / 10 = -60,000. El valor baja 60 mil por año. -->
-- [ ] C) Depreciación: \$20,000/año; $V(t) = 800000 - 20000t$ <!-- feedback: Esta depreciación es muy baja para llegar a 200,000 en 10 años. -->
+- [x] C) Depreciación: \$60,000/año; $V(t) = 800000 - 60000t$ <!-- feedback: ¡Correcto! m = (200,000 - 800,000) / 10 = -60,000. El valor baja 60 mil por año. -->
+- [ ] B) Depreciación: \$20,000/año; $V(t) = 800000 - 20000t$ <!-- feedback: Esta depreciación es muy baja para llegar a 200,000 en 10 años. -->
 - [ ] D) Depreciación: \$60,000/año; $V(t) = 60000t + 200000$ <!-- feedback: Esta función describe un aumento de valor, no una depreciación (pérdida de valor). -->
 
 ### Explicacion Pedagogica
@@ -416,8 +416,8 @@ Según este modelo, ¿cuál es la interpretación correcta del valor "1200" y qu
 ### Opciones
 - [ ] A) 1200 es el salario total y el base es 0. <!-- feedback: 1200 es el incremento por cada año de estudio. -->
 - [ ] B) 1200 es el salario base y 5000 es el aumento por año. <!-- feedback: El valor constante b (5000) es el base, y el coeficiente m (1200) es el aumento por año. -->
-- [x] C) Por cada año adicional de estudio, el salario aumenta \$1,200; el salario base es \$5,000. <!-- feedback: ¡Correcto! La pendiente m=1200 indica el cambio en y por cada unidad de x, y b=5000 es el valor inicial. -->
-- [ ] D) El salario máximo es 5000 y disminuye 1200 por año. <!-- feedback: La pendiente es positiva, lo que indica un aumento, no una disminución. -->
+- [x] D) Por cada año adicional de estudio, el salario aumenta \$1,200; el salario base es \$5,000. <!-- feedback: ¡Correcto! La pendiente m=1200 indica el cambio en y por cada unidad de x, y b=5000 es el valor inicial. -->
+- [ ] C) El salario máximo es 5000 y disminuye 1200 por año. <!-- feedback: La pendiente es positiva, lo que indica un aumento, no una disminución. -->
 
 ### Explicacion Pedagogica
 En modelos lineales aplicados, la pendiente $m$ representa la tasa de variación unitaria (cuánto cambia $y$ por cada unidad de $x$), mientras que la ordenada al origen $b$ representa el valor de la variable dependiente cuando la independiente es cero.
@@ -437,8 +437,8 @@ En modelos lineales aplicados, la pendiente $m$ representa la tasa de variación
 ### Opciones
 - [ ] A) $(2, 5)$ <!-- feedback: 2(2)+5 = 9 (no es >= 10). Falla la primera condición. -->
 - [ ] B) $(5, 4)$ <!-- feedback: 5+4 = 9 (no es <= 8). Falla la segunda condición. -->
-- [x] C) $(4, 3)$ <!-- feedback: ¡Correcto! 2(4)+3 = 11 (>= 10) y 4+3 = 7 (<= 8). Satisface ambas. -->
-- [ ] D) $(1, 9)$ <!-- feedback: 1+9 = 10 (no es <= 8). Falla la segunda condición. -->
+- [x] D) $(4, 3)$ <!-- feedback: ¡Correcto! 2(4)+3 = 11 (>= 10) y 4+3 = 7 (<= 8). Satisface ambas. -->
+- [ ] C) $(1, 9)$ <!-- feedback: 1+9 = 10 (no es <= 8). Falla la segunda condición. -->
 
 ### Explicacion Pedagogica
 Resolver un sistema de desigualdades implica encontrar la región del plano (o puntos específicos) que cumplan todas las restricciones al mismo tiempo. Se verifica sustituyendo los valores de $x$ e $y$ en cada inecuación.

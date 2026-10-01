@@ -34,13 +34,13 @@ Resolución de problemas multiplicativos, aditivos y combinados con números nat
 Si el comerciante tiene 144 manzanas y las empaca en cajas de 12 unidades, ¿cuántas cajas completa en total?
 
 ### Opciones
-- [x] A) 12 cajas.
+- [x] D) 12 cajas.
   <!-- feedback: Al dividir 144 entre 12, el cociente exacto es 12. -->
-- [ ] B) 10 cajas.
+- [ ] A) 10 cajas.
   <!-- feedback: 10 cajas equivalen a 120 manzanas, quedando 24 manzanas sin empacar. -->
-- [ ] C) 14 cajas.
+- [ ] B) 14 cajas.
   <!-- feedback: 14 cajas requerirían 168 manzanas. -->
-- [ ] D) 144 cajas.
+- [ ] C) 144 cajas.
   <!-- feedback: 144 es la cantidad total de manzanas, no el número de cajas. -->
 
 ### Explicacion Pedagogica
@@ -80,9 +80,9 @@ La adición de números naturales permite consolidar cantidades discretas para h
 Si el bus realiza 6 viajes completos al día a capacidad máxima, ¿cuántos pasajeros transporta en total durante un día?
 
 ### Opciones
-- [x] A) 228 pasajeros.
+- [x] B) 228 pasajeros.
   <!-- feedback: Multiplicando 38 pasajeros por 6 viajes se obtiene 228. -->
-- [ ] B) 218 pasajeros.
+- [ ] A) 218 pasajeros.
   <!-- feedback: Error al multiplicar 8 por 6 (se usó 42 en lugar de 48). -->
 - [ ] C) 238 pasajeros.
   <!-- feedback: Se sumaron 10 unidades indebidamente al resultado de la multiplicación. -->
@@ -103,11 +103,11 @@ La multiplicación permite calcular el resultado de sumar un mismo grupo repetid
 ¿Cuánto pagó Don Mateo por un solo bulto de café?
 
 ### Opciones
-- [x] A) $90.000 COP.
+- [x] C) $90.000 COP.
   <!-- feedback: Dividiendo $450.000 entre 5 se obtiene $90.000 por bulto. -->
-- [ ] B) $80.000 COP.
+- [ ] A) $80.000 COP.
   <!-- feedback: 5 bultos a $80.000 darían un total de $400.000 COP, faltando $50.000 COP. -->
-- [ ] C) $95.000 COP.
+- [ ] B) $95.000 COP.
   <!-- feedback: 5 bultos a $95.000 darían un total de $475.000 COP. -->
 - [ ] D) $100.000 COP.
   <!-- feedback: 5 bultos a $100.000 darían un total de $500.000 COP. -->
@@ -149,11 +149,11 @@ La resolución de problemas combinados requiere jerarquizar las operaciones: pri
 ¿Cuántos libros tiene la biblioteca comunitaria al finalizar estas dos operaciones?
 
 ### Opciones
-- [x] A) 1.380 libros.
+- [x] C) 1.380 libros.
   <!-- feedback: Restando los donados: 1.250 - 320 = 930. Sumando los nuevos: 930 + 450 = 1.380 libros. -->
-- [ ] B) 1.120 libros.
+- [ ] A) 1.120 libros.
   <!-- feedback: Se restaron los dos valores (1.250 - 320 - 450) en lugar de sumar la donación recibida. -->
-- [ ] C) 2.020 libros.
+- [ ] B) 2.020 libros.
   <!-- feedback: Se sumaron todos los valores sin considerar la salida de los libros donados. -->
 - [ ] D) 1.480 libros.
   <!-- feedback: Error en la adición final de 930 + 450 (se sumaron 100 unidades extra). -->
@@ -172,11 +172,11 @@ El análisis del flujo de cantidades requiere identificar las entradas (adición
 ¿Cuántas galletas sueltas se necesitan en total para completar 15 cajas grandes de cartón?
 
 ### Opciones
-- [x] A) 1.800 galletas.
+- [x] C) 1.800 galletas.
   <!-- feedback: Cada caja contiene 6 x 20 = 120 galletas. En 15 cajas hay 120 x 15 = 1.800 galletas. -->
-- [ ] B) 1.200 galletas.
+- [ ] A) 1.200 galletas.
   <!-- feedback: Se calculó para 10 cajas en lugar de 15 cajas. -->
-- [ ] C) 900 galletas.
+- [ ] B) 900 galletas.
   <!-- feedback: Se multiplicó 6 x 15 x 10 omitiendo la duplicación por 20 paquetes. -->
 - [ ] D) 2.400 galletas.
   <!-- feedback: Se calculó para 20 cajas grandes en vez de 15 cajas. -->

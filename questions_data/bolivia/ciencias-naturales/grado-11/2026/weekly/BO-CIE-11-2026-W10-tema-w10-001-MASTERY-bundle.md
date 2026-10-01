@@ -30,13 +30,13 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar tipo de reacción donde dos o más reactivos se combinan químicamente para formar un único producto, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Reacción de síntesis o adición
+- [x] D) Reacción de síntesis o adición
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a tipo de reacción donde dos o más reactivos se combinan químicamente para formar un único producto. -->
-- [ ] B) Reacción de descomposición
+- [ ] A) Reacción de descomposición
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Reacción de sustitución simple
+- [ ] B) Reacción de sustitución simple
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría. -->
-- [ ] D) Reacción de doble sustitución
+- [ ] C) Reacción de doble sustitución
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -55,13 +55,13 @@ La respuesta correcta es Reacción de síntesis o adición. Científicamente, es
 Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar reacción química donde un solo reactivo complejo se rompe para dar lugar a dos o más productos sencillos, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Reacción de descomposición
+- [x] D) Reacción de descomposición
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a reacción química donde un solo reactivo complejo se rompe para dar lugar a dos o más productos sencillos. -->
-- [ ] B) Reacción de adición
+- [ ] A) Reacción de adición
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Reacción de sustitución simple
+- [ ] B) Reacción de sustitución simple
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría. -->
-- [ ] D) Reacción de óxido-reducción
+- [ ] C) Reacción de óxido-reducción
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -155,11 +155,11 @@ La respuesta correcta es La ley de conservación de la masa (lavoisier). Cientí
 Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar método de ajuste de ecuaciones que consiste en modificar solo los coeficientes estequiométricos, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Balanceo por tanteo (inspección)
+- [x] C) Balanceo por tanteo (inspección)
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a método de ajuste de ecuaciones que consiste en modificar solo los coeficientes estequiométricos. -->
-- [ ] B) Balanceo algebraico
+- [ ] A) Balanceo algebraico
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Balanceo por ion-electrón
+- [ ] B) Balanceo por ion-electrón
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría. -->
 - [ ] D) Balanceo redox indirecto
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -180,11 +180,11 @@ La respuesta correcta es Balanceo por tanteo (inspección). Científicamente, es
 Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar unidad fundamental del SI que contiene exactamente 6.022 x 10^23 entidades elementales de materia, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El mol
+- [x] C) El mol
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a unidad fundamental del SI que contiene exactamente 6.022 x 10^23 entidades elementales de materia. -->
-- [ ] B) El átomo-gramo
+- [ ] A) El átomo-gramo
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) El número de avogadro
+- [ ] B) El número de avogadro
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría. -->
 - [ ] D) La masa molar
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -205,11 +205,11 @@ La respuesta correcta es El mol. Científicamente, esto se explica por la cantid
 Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar número de entidades químicas individuales presentes exactamente en un mol de cualquier sustancia pura, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) 6.022 x 10^23 moléculas
+- [x] C) 6.022 x 10^23 moléculas
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a número de entidades químicas individuales presentes exactamente en un mol de cualquier sustancia pura. -->
-- [ ] B) 3.011 x 10^23 moléculas
+- [ ] A) 3.011 x 10^23 moléculas
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) 1.204 x 10^24 moléculas
+- [ ] B) 1.204 x 10^24 moléculas
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría. -->
 - [ ] D) 6.022 x 10^22 moléculas
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -230,13 +230,13 @@ La respuesta correcta es 6.022 x 10^23 moléculas. Científicamente, esto se exp
 Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar masa de un mol de sustancia expresada en gramos por mol (g/mol) equivalente a su peso molecular, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La masa molar
+- [x] D) La masa molar
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a masa de un mol de sustancia expresada en gramos por mol (g/mol) equivalente a su peso molecular. -->
-- [ ] B) La masa atómica media
+- [ ] A) La masa atómica media
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) El peso molecular relativo
+- [ ] B) El peso molecular relativo
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría. -->
-- [ ] D) El volumen molar estándar
+- [ ] C) El volumen molar estándar
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -255,11 +255,11 @@ La respuesta correcta es La masa molar. Científicamente, esto se explica por la
 Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar proporción de moles de reactivos y productos definida por los coeficientes de la ecuación balanceada, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Relación molar estequiométrica
+- [x] C) Relación molar estequiométrica
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a proporción de moles de reactivos y productos definida por los coeficientes de la ecuación balanceada. -->
-- [ ] B) Relación de masa ponderada
+- [ ] A) Relación de masa ponderada
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Relación volumétrica gaseosa
+- [ ] B) Relación volumétrica gaseosa
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría. -->
 - [ ] D) Coeficiente limitante
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -280,11 +280,11 @@ La respuesta correcta es Relación molar estequiométrica. Científicamente, est
 Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar reacción de un hidrocarburo con oxígeno que produce exclusivamente dióxido de carbono, agua y calor energético, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Reacción de combustión completa
+- [x] C) Reacción de combustión completa
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a reacción de un hidrocarburo con oxígeno que produce exclusivamente dióxido de carbono, agua y calor energético. -->
-- [ ] B) Reacción de combustión incompleta
+- [ ] A) Reacción de combustión incompleta
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Reacción de pirólisis simple
+- [ ] B) Reacción de pirólisis simple
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría. -->
 - [ ] D) Reacción de descomposición
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -305,9 +305,9 @@ La respuesta correcta es Reacción de combustión completa. Científicamente, es
 Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar reacción con aporte deficiente de oxígeno que produce monóxido de carbono tóxico y hollín negro, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Reacción de combustión incompleta
+- [x] B) Reacción de combustión incompleta
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a reacción con aporte deficiente de oxígeno que produce monóxido de carbono tóxico y hollín negro. -->
-- [ ] B) Reacción de combustión completa
+- [ ] A) Reacción de combustión completa
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) Neutralización ácida
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría. -->
@@ -330,13 +330,13 @@ La respuesta correcta es Reacción de combustión incompleta. Científicamente, 
 Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar reacción entre un ácido y una base que produce una sal mineral neutra soluble y agua líquida, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Neutralización ácido-base
+- [x] D) Neutralización ácido-base
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a reacción entre un ácido y una base que produce una sal mineral neutra soluble y agua líquida. -->
-- [ ] B) Reacción de precipitación
+- [ ] A) Reacción de precipitación
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Reacción de óxido-reducción
+- [ ] B) Reacción de óxido-reducción
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría. -->
-- [ ] D) Reacción de adición
+- [ ] C) Reacción de adición
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -380,9 +380,9 @@ La respuesta correcta es Reacción de óxido-reducción (redox). Científicament
 Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar carga aparente que adquiere un átomo en un compuesto al asignarle todos los electrones de enlace, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El número de oxidación
+- [x] B) El número de oxidación
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a carga aparente que adquiere un átomo en un compuesto al asignarle todos los electrones de enlace. -->
-- [ ] B) La carga formal molecular
+- [ ] A) La carga formal molecular
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) La valencia química
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría. -->
@@ -405,13 +405,13 @@ La respuesta correcta es El número de oxidación. Científicamente, esto se exp
 Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar proceso químico caracterizado por la pérdida de electrones y el aumento en el número de oxidación, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La oxidación
+- [x] D) La oxidación
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a proceso químico caracterizado por la pérdida de electrones y el aumento en el número de oxidación. -->
-- [ ] B) La reducción
+- [ ] A) La reducción
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) La neutralización
+- [ ] B) La neutralización
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría. -->
-- [ ] D) La estequiometría
+- [ ] C) La estequiometría
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -430,9 +430,9 @@ La respuesta correcta es La oxidación. Científicamente, esto se explica por el
 Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar proceso químico caracterizado por la ganancia de electrones y la disminución en el número de oxidación, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La reducción
+- [x] B) La reducción
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a proceso químico caracterizado por la ganancia de electrones y la disminución en el número de oxidación. -->
-- [ ] B) La oxidación
+- [ ] A) La oxidación
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) La precipitación
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría. -->
@@ -455,13 +455,13 @@ La respuesta correcta es La reducción. Científicamente, esto se explica por la
 Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar reactivo que se consume por completo en primer lugar, deteniendo la reacción química y limitando el producto, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Reactivo limitante
+- [x] D) Reactivo limitante
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a reactivo que se consume por completo en primer lugar, deteniendo la reacción química y limitando el producto. -->
-- [ ] B) Reactivo en exceso
+- [ ] A) Reactivo en exceso
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Catalizador inorgánico
+- [ ] B) Catalizador inorgánico
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría. -->
-- [ ] D) Producto estequiométrico
+- [ ] C) Producto estequiométrico
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -480,11 +480,11 @@ La respuesta correcta es Reactivo limitante. Científicamente, esto se explica p
 Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar relación matemática entre el rendimiento real obtenido en el laboratorio y el rendimiento teórico calculado, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Rendimiento porcentual
+- [x] C) Rendimiento porcentual
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a relación matemática entre el rendimiento real obtenido en el laboratorio y el rendimiento teórico calculado. -->
-- [ ] B) Rendimiento teórico
+- [ ] A) Rendimiento teórico
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Rendimiento real
+- [ ] B) Rendimiento real
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría. -->
 - [ ] D) Pureza química
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -505,11 +505,11 @@ La respuesta correcta es Rendimiento porcentual. Científicamente, esto se expli
 Al realizar experimentos sobre reacciones químicas y estequiometría y estudiar volumen ocupado por un mol de cualquier gas ideal en condiciones normales de presión y temperatura (CNPT), ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) 22.4 litros por mol
+- [x] C) 22.4 litros por mol
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a volumen ocupado por un mol de cualquier gas ideal en condiciones normales de presión y temperatura (CNPT). -->
-- [ ] B) 11.2 litros por mol
+- [ ] A) 11.2 litros por mol
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) 44.8 litros por mol
+- [ ] B) 44.8 litros por mol
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de reacciones químicas y estequiometría. -->
 - [ ] D) 24.5 litros por mol
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->

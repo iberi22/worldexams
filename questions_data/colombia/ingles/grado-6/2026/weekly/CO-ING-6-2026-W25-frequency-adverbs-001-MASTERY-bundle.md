@@ -58,10 +58,10 @@ This question evaluates the student's ability to remember the topic of Adverbs o
 Select the correct A2 level use for frequency-adverbs.
 
 ### Opciones
-- [x] A) Structure 1 (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] B) Structure 3 <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) Structure 4 <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Structure 2 <!-- feedback: Incorrect. Please review the topic. -->
+- [x] D) Structure 1 (Correct) <!-- feedback: Correct! Well done. -->
+- [ ] A) Structure 3 <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] B) Structure 4 <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] C) Structure 2 <!-- feedback: Incorrect. Please review the topic. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to remember the topic of Adverbs of Frequency at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -81,9 +81,9 @@ Identify the appropriate vocabulary for frequency-adverbs.
 
 ### Opciones
 - [ ] A) Word 2 <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Word 3 <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) Word 4 <!-- feedback: Incorrect. Please review the topic. -->
-- [x] D) Word 1 (Correct) <!-- feedback: Correct! Well done. -->
+- [ ] C) Word 3 <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] D) Word 4 <!-- feedback: Incorrect. Please review the topic. -->
+- [x] B) Word 1 (Correct) <!-- feedback: Correct! Well done. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to understand the topic of Adverbs of Frequency at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -102,9 +102,9 @@ This question evaluates the student's ability to understand the topic of Adverbs
 Complete the sentence about frequency-adverbs.
 
 ### Opciones
-- [x] A) Phrase A (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] B) Phrase C <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) Phrase D <!-- feedback: Incorrect. Please review the topic. -->
+- [x] C) Phrase A (Correct) <!-- feedback: Correct! Well done. -->
+- [ ] A) Phrase C <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] B) Phrase D <!-- feedback: Incorrect. Please review the topic. -->
 - [ ] D) Phrase B <!-- feedback: Incorrect. Please review the topic. -->
 
 ### Explicación Pedagógica
@@ -126,8 +126,8 @@ What is the best way to express frequency-adverbs?
 ### Opciones
 - [ ] A) Incorrect way <!-- feedback: Incorrect. Please review the topic. -->
 - [ ] B) That way <!-- feedback: Incorrect. Please review the topic. -->
-- [x] C) This way (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] D) Other way <!-- feedback: Incorrect. Please review the topic. -->
+- [x] D) This way (Correct) <!-- feedback: Correct! Well done. -->
+- [ ] C) Other way <!-- feedback: Incorrect. Please review the topic. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Adverbs of Frequency at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -168,8 +168,8 @@ This question evaluates the student's ability to apply the topic of Adverbs of F
 Match the term with the definition of frequency-adverbs.
 
 ### Opciones
-- [x] A) Matching term (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] B) Opposite <!-- feedback: Incorrect. Please review the topic. -->
+- [x] B) Matching term (Correct) <!-- feedback: Correct! Well done. -->
+- [ ] A) Opposite <!-- feedback: Incorrect. Please review the topic. -->
 - [ ] C) Non-matching <!-- feedback: Incorrect. Please review the topic. -->
 - [ ] D) Irrelevant <!-- feedback: Incorrect. Please review the topic. -->
 
@@ -190,8 +190,8 @@ This question evaluates the student's ability to apply the topic of Adverbs of F
 Choose the synonym for a word related to frequency-adverbs.
 
 ### Opciones
-- [x] A) Synonym (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] B) Unrelated <!-- feedback: Incorrect. Please review the topic. -->
+- [x] B) Synonym (Correct) <!-- feedback: Correct! Well done. -->
+- [ ] A) Unrelated <!-- feedback: Incorrect. Please review the topic. -->
 - [ ] C) Homonym <!-- feedback: Incorrect. Please review the topic. -->
 - [ ] D) Antonym <!-- feedback: Incorrect. Please review the topic. -->
 
@@ -214,8 +214,8 @@ Which of these belongs to frequency-adverbs?
 ### Opciones
 - [ ] A) Neither <!-- feedback: Incorrect. Please review the topic. -->
 - [ ] B) Not this one <!-- feedback: Incorrect. Please review the topic. -->
-- [x] C) This one (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] D) Both <!-- feedback: Incorrect. Please review the topic. -->
+- [x] D) This one (Correct) <!-- feedback: Correct! Well done. -->
+- [ ] C) Both <!-- feedback: Incorrect. Please review the topic. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to analyze the topic of Adverbs of Frequency at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -234,8 +234,8 @@ This question evaluates the student's ability to analyze the topic of Adverbs of
 Predict the next word in the frequency-adverbs context.
 
 ### Opciones
-- [x] A) Correct prediction <!-- feedback: Correct! Well done. -->
-- [ ] B) Wrong prediction <!-- feedback: Incorrect. Please review the topic. -->
+- [x] B) Correct prediction <!-- feedback: Correct! Well done. -->
+- [ ] A) Wrong prediction <!-- feedback: Incorrect. Please review the topic. -->
 - [ ] C) Maybe <!-- feedback: Incorrect. Please review the topic. -->
 - [ ] D) Impossible <!-- feedback: Incorrect. Please review the topic. -->
 

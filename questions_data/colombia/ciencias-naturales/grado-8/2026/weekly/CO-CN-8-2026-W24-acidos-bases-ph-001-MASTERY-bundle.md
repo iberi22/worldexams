@@ -34,11 +34,11 @@ Esta semana identificamos sustancias ácidas y básicas presentes en la vida cot
 ¿Qué valor de pH es característico de un suelo adecuado para el cultivo del café arábigo en el eje cafetero colombiano?
 
 ### Opciones
-- [x] A) Un pH entre 5,0 y 6,0, ligeramente ácido.
+- [x] C) Un pH entre 5,0 y 6,0, ligeramente ácido.
   <!-- feedback: Correcto. El café arábigo prospera en suelos ligeramente ácidos con pH entre 5,0 y 6,0, lo que favorece la absorción de nutrientes. -->
-- [ ] B) Un pH exactamente igual a 7,0, completamente neutro.
+- [ ] A) Un pH exactamente igual a 7,0, completamente neutro.
   <!-- feedback: Incorrecto. Un pH neutro no es el óptimo para el café; este cultivo requiere condiciones ligeramente ácidas. -->
-- [ ] C) Un pH entre 9,0 y 10,0, fuertemente básico.
+- [ ] B) Un pH entre 9,0 y 10,0, fuertemente básico.
   <!-- feedback: Incorrecto. Un suelo básico no es adecuado para el café; bloquearía la absorción de hierro y otros micronutrientes. -->
 - [ ] D) Un pH entre 1,0 y 2,0, extremadamente ácido.
   <!-- feedback: Incorrecto. Un pH tan bajo sería tóxico para las raíces del cafeto y quemaría la planta en pocas semanas. -->
@@ -57,9 +57,9 @@ El pH es una escala logarítmica que mide la concentración de iones hidrógeno 
 ¿Por qué el jugo de limón tiene un sabor más ácido y un pH más bajo que el jugo de naranja?
 
 ### Opciones
-- [x] A) Porque el limón contiene mayor concentración de ácido cítrico y otros ácidos orgánicos que liberan más iones H+ en disolución.
+- [x] B) Porque el limón contiene mayor concentración de ácido cítrico y otros ácidos orgánicos que liberan más iones H+ en disolución.
   <!-- feedback: Correcto. El limón tiene ácidos orgánicos más concentrados, principalmente ácido cítrico, lo que le da un pH cercano a 2,0 a 2,5. -->
-- [ ] B) Porque el limón es una base que libera iones OH- mientras que la naranja es un ácido.
+- [ ] A) Porque el limón es una base que libera iones OH- mientras que la naranja es un ácido.
   <!-- feedback: Incorrecto. El limón es claramente ácido con pH bajo, no una base; tanto el limón como la naranja son sustancias ácidas, pero en distinta medida. -->
 - [ ] C) Porque la naranja tiene un pH neutro de 7,0 mientras que el limón tiene pH 0.
   <!-- feedback: Incorrecto. La naranja no es neutra sino ligeramente ácida (pH 3,0 a 4,0); el limón tiene pH entre 2 y 3, no 0. -->
@@ -80,13 +80,13 @@ El sabor ácido de los cítricos se debe a los ácidos orgánicos presentes en e
 ¿Cuál de las siguientes sustancias presenta un carácter básico en la escala de pH?
 
 ### Opciones
-- [x] A) El jabón líquido para manos, con pH aproximado de 10.
+- [x] D) El jabón líquido para manos, con pH aproximado de 10.
   <!-- feedback: Correcto. El jabón es una sal básica con pH entre 9 y 11; en la escala, valores por encima de 7 indican sustancias básicas. -->
-- [ ] B) El vinagre comercial, con pH aproximado de 3.
+- [ ] A) El vinagre comercial, con pH aproximado de 3.
   <!-- feedback: Incorrecto. El vinagre tiene pH ácido porque contiene ácido acético; valores por debajo de 7 son ácidos. -->
-- [ ] C) El jugo gástrico del estómago, con pH aproximado de 1,5.
+- [ ] B) El jugo gástrico del estómago, con pH aproximado de 1,5.
   <!-- feedback: Incorrecto. El jugo gástrico es fuertemente ácido por el ácido clorhídrico que contiene, no básico. -->
-- [ ] D) El agua pura destilada, con pH aproximado de 7.
+- [ ] C) El agua pura destilada, con pH aproximado de 7.
   <!-- feedback: Incorrecto. El agua pura es neutra, ni ácida ni básica; tiene pH exactamente 7 a 25 °C. -->
 
 ### Explicacion Pedagogica
@@ -103,11 +103,11 @@ La escala de pH mide la acidez o basicidad de una disolución acuosa. Los valore
 ¿Por qué la aplicación de carbonato de calcio eleva el pH del suelo ácido en una plantación de café?
 
 ### Opciones
-- [x] A) Porque el CaCO₃ reacciona con los ácidos del suelo formando sales neutras y agua, reduciendo la concentración de iones H+ y aumentando el pH.
+- [x] C) Porque el CaCO₃ reacciona con los ácidos del suelo formando sales neutras y agua, reduciendo la concentración de iones H+ y aumentando el pH.
   <!-- feedback: Correcto. La cal agrícola neutraliza la acidez del suelo mediante una reacción ácido-base que consume H+. -->
-- [ ] B) Porque el carbonato de calcio añade iones H+ al suelo aumentando su concentración y bajando el pH.
+- [ ] A) Porque el carbonato de calcio añade iones H+ al suelo aumentando su concentración y bajando el pH.
   <!-- feedback: Incorrecto. La cal no añade H+ sino que los consume; por eso el pH sube, no baja. -->
-- [ ] C) Porque el CaCO₃ se transforma en un ácido orgánico que reacciona con el aluminio del suelo.
+- [ ] B) Porque el CaCO₃ se transforma en un ácido orgánico que reacciona con el aluminio del suelo.
   <!-- feedback: Incorrecto. El carbonato de calcio no se transforma en un ácido orgánico; es una sal inorgánica básica. -->
 - [ ] D) Porque la cal agrícola es un fertilizante ácido que disuelve los nutrientes bloqueados en el suelo.
   <!-- feedback: Incorrecto. La cal es una sustancia básica, no ácida; su función es neutralizar la acidez, no acidificar más. -->
@@ -149,9 +149,9 @@ El bicarbonato de sodio (NaHCO₃) es una sal básica que reacciona con los áci
 ¿Por qué el jugo de limón puede limpiar manchas de óxido (óxido de hierro) en superficies metálicas?
 
 ### Opciones
-- [x] A) Porque el ácido cítrico del limón reacciona con el óxido de hierro formando citrato de hierro soluble, que se elimina con el agua.
+- [x] B) Porque el ácido cítrico del limón reacciona con el óxido de hierro formando citrato de hierro soluble, que se elimina con el agua.
   <!-- feedback: Correcto. La reacción ácido-base entre el ácido cítrico y el óxido de hierro produce una sal soluble que se lava fácilmente. -->
-- [ ] B) Porque el limón disuelve físicamente el óxido como si fuera un detergente sin reaccionar.
+- [ ] A) Porque el limón disuelve físicamente el óxido como si fuera un detergente sin reaccionar.
   <!-- feedback: Incorrecto. El limón no solo disuelve sino que reacciona químicamente con el óxido; por eso es efectivo incluso en superficies verticales. -->
 - [ ] C) Porque el óxido de hierro es una sustancia básica que reacciona con el limón produciendo una sustancia ácida.
   <!-- feedback: Incorrecto. El óxido de hierro es un óxido metálico básico que reacciona con ácidos, no con bases. -->
@@ -172,11 +172,11 @@ Los óxidos metálicos como el óxido de hierro (Fe₂O₃) son sustancias bási
 Si el agua del acueducto tiene pH 6,2, ¿qué sustancia básica deberían añadir los ingenieros para elevarlo hasta un valor cercano a 7,0?
 
 ### Opciones
-- [x] A) Hidróxido de calcio (cal hidratada), porque neutraliza parcialmente la acidez del agua.
+- [x] C) Hidróxido de calcio (cal hidratada), porque neutraliza parcialmente la acidez del agua.
   <!-- feedback: Correcto. El hidróxido de calcio es una base fuerte usada en el tratamiento de aguas para ajustar el pH a valores neutros. -->
-- [ ] B) Ácido clorhídrico concentrado, porque es necesario para bajar más el pH.
+- [ ] A) Ácido clorhídrico concentrado, porque es necesario para bajar más el pH.
   <!-- feedback: Incorrecto. El ácido clorhídrico haría más ácida el agua, alejándola del pH neutro deseado. -->
-- [ ] C) Vinagre comercial, porque al ser un ácido orgánico no afecta el agua tratada.
+- [ ] B) Vinagre comercial, porque al ser un ácido orgánico no afecta el agua tratada.
   <!-- feedback: Incorrecto. El vinagre es ácido y bajaría aún más el pH en lugar de elevarlo. -->
 - [ ] D) Etanol puro, porque al ser un alcohol neutro no modifica el pH del agua.
   <!-- feedback: Incorrecto. Aunque el etanol no es ni ácido ni base, no tiene efecto neutralizante para elevar el pH. -->
@@ -195,9 +195,9 @@ En el tratamiento de aguas potables, ajustar el pH es esencial para evitar corro
 Durante la fermentación del café, los granos despulpan y se sumergen en agua donde microorganismos producen ácidos orgánicos. ¿Cómo cambia el pH del agua durante las primeras 24 horas de fermentación y por qué?
 
 ### Opciones
-- [x] A) El pH disminuye progresivamente porque se liberan ácidos orgánicos que incrementan la concentración de iones H+ en el agua.
+- [x] B) El pH disminuye progresivamente porque se liberan ácidos orgánicos que incrementan la concentración de iones H+ en el agua.
   <!-- feedback: Correcto. La fermentación produce ácidos láctico, acético y cítrico que acidifican el agua, bajando el pH de 6,5 a valores cercanos a 4,0. -->
-- [ ] B) El pH aumenta porque los microorganismos producen sustancias básicas como el amoníaco.
+- [ ] A) El pH aumenta porque los microorganismos producen sustancias básicas como el amoníaco.
   <!-- feedback: Incorrecto. Durante la fermentación alcohólica y láctica predominan los ácidos; el pH baja, no sube. -->
 - [ ] C) El pH permanece constante en 7,0 porque el agua neutraliza todos los ácidos producidos.
   <!-- feedback: Incorrecto. El agua no puede neutralizar completamente los ácidos producidos; el pH cambia notablemente. -->
@@ -241,13 +241,13 @@ La escala de pH es logarítmica porque se define como pH = -log[H+]. Cada unidad
 Si comparan los dos suelos de la altillanura para siembra de arroz, ¿cuál requiere encalado inmediato y por qué?
 
 ### Opciones
-- [x] A) El suelo A con pH 4,8 requiere encalado porque su acidez elevada limita la disponibilidad de nutrientes para el arroz.
+- [x] D) El suelo A con pH 4,8 requiere encalado porque su acidez elevada limita la disponibilidad de nutrientes para el arroz.
   <!-- feedback: Correcto. Un pH 4,8 es demasiado ácido para el arroz, que prefiere pH entre 5,5 y 6,5; se debe aplicar cal para corregirlo. -->
-- [ ] B) El suelo B con pH 6,8 requiere encalado porque es demasiado básico para el cultivo.
+- [ ] A) El suelo B con pH 6,8 requiere encalado porque es demasiado básico para el cultivo.
   <!-- feedback: Incorrecto. El pH 6,8 está dentro del rango aceptable para arroz; no requiere encalado sino quizás un ligero ajuste acidificante. -->
-- [ ] C) Ambos suelos requieren encalado porque todos los suelos colombianos son ácidos por naturaleza.
+- [ ] B) Ambos suelos requieren encalado porque todos los suelos colombianos son ácidos por naturaleza.
   <!-- feedback: Incorrecto. Los suelos colombianos varían en pH; algunos son ácidos pero otros son neutros o alcalinos, especialmente los de zonas áridas. -->
-- [ ] D) Ninguno requiere encalado porque el arroz crece bien en cualquier valor de pH del suelo.
+- [ ] C) Ninguno requiere encalado porque el arroz crece bien en cualquier valor de pH del suelo.
   <!-- feedback: Incorrecto. El arroz tiene un rango óptimo de pH; fuera de él la producción disminuye y aparecen problemas de toxicidad. -->
 
 ### Explicacion Pedagogica
@@ -264,9 +264,9 @@ El arroz es un cultivo que tolera suelos ligeramente ácidos pero no extremadame
 Evalúe si conviene autorizar el fertilizante considerando el impacto sobre el pH del suelo y la producción cafetera a largo plazo.
 
 ### Opciones
-- [x] A) No debería autorizarse sin un plan de manejo del pH, porque la acidificación progresiva puede agotar el suelo y reducir la producción futura, a pesar del beneficio inmediato.
+- [x] B) No debería autorizarse sin un plan de manejo del pH, porque la acidificación progresiva puede agotar el suelo y reducir la producción futura, a pesar del beneficio inmediato.
   <!-- feedback: Correcto. La acidificación acumulada degrada el suelo; el aumento inmediato de producción no compensa la pérdida de fertilidad a largo plazo. -->
-- [ ] B) Debería autorizarse sin restricciones porque duplicar la producción es siempre positivo para la economía.
+- [ ] A) Debería autorizarse sin restricciones porque duplicar la producción es siempre positivo para la economía.
   <!-- feedback: Incorrecto. Ignorar el impacto sobre el pH produce degradación del suelo, contradiciendo los principios de sostenibilidad agrícola. -->
 - [ ] C) Debería autorizarse únicamente si el fertilizante reduce también las emisiones de CO₂ a la atmósfera.
   <!-- feedback: Incorrecto. Aunque reducir emisiones es importante, la pregunta se centra en el efecto sobre el pH y la fertilidad del suelo. -->
@@ -287,11 +287,11 @@ El pH del suelo es un indicador clave de su fertilidad. Una reducción constante
 Evalúe las ventajas y limitaciones de los indicadores naturales de pH obtenidos de la col morada en comparación con los indicadores sintéticos usados en laboratorios escolares colombianos.
 
 ### Opciones
-- [x] A) Los indicadores naturales son biodegradables, de bajo costo y permiten observar cambios visibles, pero su escala de color es limitada y menos precisa que los sintéticos.
+- [x] C) Los indicadores naturales son biodegradables, de bajo costo y permiten observar cambios visibles, pero su escala de color es limitada y menos precisa que los sintéticos.
   <!-- feedback: Correcto. La evaluación combina correctamente las ventajas ambientales y económicas con las limitaciones técnicas de los indicadores naturales. -->
-- [ ] B) Los indicadores naturales son siempre superiores a los sintéticos porque son completamente inorgánicos.
+- [ ] A) Los indicadores naturales son siempre superiores a los sintéticos porque son completamente inorgánicos.
   <!-- feedback: Incorrecto. Los indicadores naturales como la col morada contienen antocianinas, que son compuestos orgánicos; no son inorgánicos. -->
-- [ ] C) Los indicadores sintéticos deben prohibirse porque todos son cancerígenos y dañinos para los estudiantes.
+- [ ] B) Los indicadores sintéticos deben prohibirse porque todos son cancerígenos y dañinos para los estudiantes.
   <!-- feedback: Incorrecto. Indicadores sintéticos como la fenolftaleína son seguros en las concentraciones usadas en laboratorios escolares. -->
 - [ ] D) Los indicadores naturales no cambian de color con el pH, así que no sirven para identificar sustancias ácidas o básicas.
   <!-- feedback: Incorrecto. Las antocianinas de la col morada cambian claramente de color según el pH, de rojo en ácidos a verde en básicos. -->

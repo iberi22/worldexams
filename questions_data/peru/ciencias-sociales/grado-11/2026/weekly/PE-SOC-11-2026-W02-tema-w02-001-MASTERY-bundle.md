@@ -30,9 +30,9 @@ creador: "Jules-Agent"
 ¿Cuál era la máxima autoridad política, militar y religiosa en el Tahuantinsuyo?
 
 ### Opciones
-- [x] A) El Sapa Inca
+- [x] B) El Sapa Inca
   <!-- feedback: Correcto. El Sapa Inca era considerado el soberano absoluto e hijo del Sol (Intip Churin). -->
-- [ ] B) El Tucuy Ricuy
+- [ ] A) El Tucuy Ricuy
   <!-- feedback: Incorrecto. El Tucuy Ricuy era el inspector real ('el que todo lo ve'). -->
 - [ ] C) El Curaca
   <!-- feedback: Incorrecto. El Curaca era el jefe del ayllu local. -->
@@ -80,13 +80,13 @@ La mita constituyó la fuerza laboral clave con la cual el Estado incaico constr
 El jefe del ayllu encatgado de organizar el trabajo comunitario y servir de nexo con el poder central del Inca era el:
 
 ### Opciones
-- [x] A) Curaca
+- [x] D) Curaca
   <!-- feedback: Correcto. El curaca mediaba entre los comuneros y el Estado incaico organizando la reciprocidad. -->
-- [ ] B) Suyuyuc Apu
+- [ ] A) Suyuyuc Apu
   <!-- feedback: Incorrecto. El Suyuyuc Apu gobernaba uno de los cuatro suyos. -->
-- [ ] C) Quipucamayoc
+- [ ] B) Quipucamayoc
   <!-- feedback: Incorrecto. El quipucamayoc administraba la contabilidad y los registros del quipu. -->
-- [ ] D) Auki
+- [ ] C) Auki
   <!-- feedback: Incorrecto. El Auki era el príncipe heredero del Sapa Inca. -->
 
 ### Explicacion Pedagogica
@@ -105,9 +105,9 @@ El curaca era la autoridad etnica tradicional que garantizaba la mano de obra pa
 ¿Qué inca es considerado el gran organizador del imperio tras vencer a los chancas en la batalla de Yahuarpampa?
 
 ### Opciones
-- [x] A) Pachacútec
+- [x] B) Pachacútec
   <!-- feedback: Correcto. Pachacútec (Cusi Yupanqui) transformó el curacazgo del Cusco en un imperio expansivo. -->
-- [ ] B) Túpac Yupanqui
+- [ ] A) Túpac Yupanqui
   <!-- feedback: Incorrecto. Túpac Yupanqui fue el gran conquistador que extendió los límites hasta Chile y Ecuador. -->
 - [ ] C) Huayna Cápac
   <!-- feedback: Incorrecto. Huayna Cápac consolidó las fronteras del norte en el actual Ecuador. -->
@@ -130,11 +130,11 @@ Pachacútec inició la fase imperial reconstruyendo el Cusco y dividiendo el ter
 La red vial monumental que conectaba todos los suyos del imperio incaico se denominaba:
 
 ### Opciones
-- [x] A) Qhapaq Ñan
+- [x] C) Qhapaq Ñan
   <!-- feedback: Correcto. El Qhapaq Ñan recorría más de 30,000 km de caminos con tambos y chasquis. -->
-- [ ] B) Chala
+- [ ] A) Chala
   <!-- feedback: Incorrecto. Chala es la región geográfica litoral. -->
-- [ ] C) Intihuatana
+- [ ] B) Intihuatana
   <!-- feedback: Incorrecto. El Intihuatana era un reloj solar ritual de piedra. -->
 - [ ] D) Yachayhuasi
   <!-- feedback: Incorrecto. El Yachayhuasi era la casa del saber o escuela para los jóvenes de la nobleza. -->
@@ -155,9 +155,9 @@ El Qhapaq Ñan articuló el transporte de tropas, mensajeros y recursos a lo lar
 Las escuelas destinadas a la educación de la nobleza incaica Cuzqueña recibían el nombre de:
 
 ### Opciones
-- [x] A) Yachayhuasi
+- [x] B) Yachayhuasi
   <!-- feedback: Correcto. El Yachayhuasi era dirigido por los amautas para instruir a los futuros gobernantes. -->
-- [ ] B) Acllahuasi
+- [ ] A) Acllahuasi
   <!-- feedback: Incorrecto. El Acllahuasi abrigaba a las escogidas (acllas) para labores textiles y religiosas. -->
 - [ ] C) Pukara
   <!-- feedback: Incorrecto. Pukara hace referencia a fortalezas de piedra defensivas. -->
@@ -205,13 +205,13 @@ Los quipus eran administrados por los quipucamayoc para mantener el control esta
 En la cosmovisión incaica, el mundo subterráneo o del interior habitado por los muertos y germen de la vida se denominaba:
 
 ### Opciones
-- [x] A) Uku Pacha
+- [x] D) Uku Pacha
   <!-- feedback: Correcto. El Uku Pacha representaba el mundo de abajo o interior. -->
-- [ ] B) Hanan Pacha
+- [ ] A) Hanan Pacha
   <!-- feedback: Incorrecto. El Hanan Pacha era el mundo de arriba o celestial habitado por el Sol y la Luna. -->
-- [ ] C) Kay Pacha
+- [ ] B) Kay Pacha
   <!-- feedback: Incorrecto. El Kay Pacha era el mundo terrenal presente donde habitaban los seres humanos. -->
-- [ ] D) Pacarina
+- [ ] C) Pacarina
   <!-- feedback: Incorrecto. La pacarina era el lugar místico de origen de un ayllu (cueva, lago, nevado). -->
 
 ### Explicacion Pedagogica
@@ -230,11 +230,11 @@ La división tripartita del espacio sagrado andino comprendía Hanan Pacha, Kay 
 Los mensajeros veloces que se desplazaban por relevos a lo largo del Qhapaq Ñan para transmitir órdenes e informaciones eran los:
 
 ### Opciones
-- [x] A) Chasquis
+- [x] C) Chasquis
   <!-- feedback: Correcto. Los chasquis se albergaban en los tambos y corrían por tramos llevando quipus y encargos. -->
-- [ ] B) Mitimaes
+- [ ] A) Mitimaes
   <!-- feedback: Incorrecto. Los mitimaes eran poblaciones trasladadas a otras provincias. -->
-- [ ] C) Yanaconas
+- [ ] B) Yanaconas
   <!-- feedback: Incorrecto. Los yanaconas eran servidores perpetuos del Inca o del Estado. -->
 - [ ] D) Piñas
   <!-- feedback: Incorrecto. Los piñas eran prisioneros de guerra destinados a los cocales insalubres. -->
@@ -255,11 +255,11 @@ El sistema de chasquis permitía una comunicación veloz entre la capital imperi
 ¿Cuál era la deidad incaica vinculada al Rayo, el Trueno y la Lluvia indispensable para las cosechas agrícolas?
 
 ### Opciones
-- [x] A) Illapa
+- [x] C) Illapa
   <!-- feedback: Correcto. Illapa era muy venerado en la sierra por ser el regulador del clima y las lluvias. -->
-- [ ] B) Pachacámac
+- [ ] A) Pachacámac
   <!-- feedback: Incorrecto. Pachacámac era el dios costeño de los terremotos. -->
-- [ ] C) Inti
+- [ ] B) Inti
   <!-- feedback: Incorrecto. Inti era el dios Sol, divinidad oficial de la panaca real. -->
 - [ ] D) Wiracocha
   <!-- feedback: Incorrecto. Wiracocha era considerado el dios ordenador del cosmos. -->
@@ -280,9 +280,9 @@ Illapa personificaba las fuerzas atmosféricas protectoras de la agricultura and
 Los depósitos estatales situados a lo largo de los caminos para almacenar excedentes agrícolas y pertrechos militares se llamaban:
 
 ### Opciones
-- [x] A) Colcas
+- [x] B) Colcas
   <!-- feedback: Correcto. Las colcas aseguraban la redistribución estatal en épocas de sequía o campañas militares. -->
-- [ ] B) Tambos
+- [ ] A) Tambos
   <!-- feedback: Incorrecto. Los tambos eran alojamientos y posadas para viajeros y chasquis. -->
 - [ ] C) Andenes
   <!-- feedback: Incorrecto. Los andenes eran terrazas de cultivo en las laderas. -->
@@ -305,11 +305,11 @@ Las colcas mantenían secos y preservados granos como el maíz y la chuño graci
 ¿Qué categoría social incaica estaba formada por prisioneros de guerra sometidos a trabajos forzados en los cocales de la selva?
 
 ### Opciones
-- [x] A) Piñas
+- [x] C) Piñas
   <!-- feedback: Correcto. Los piñas constituían el escalafón más bajo y servil de la estructura social incaica. -->
-- [ ] B) Mitimaes
+- [ ] A) Mitimaes
   <!-- feedback: Incorrecto. Los mitimaes conservaban la cohesión comunal de su ayllu desplazado. -->
-- [ ] C) Yanaconas
+- [ ] B) Yanaconas
   <!-- feedback: Incorrecto. Los yanaconas servían directamente a la nobleza sin carácter de esclavitud total de guerra. -->
 - [ ] D) Hatunrunas
   <!-- feedback: Incorrecto. Los hatunrunas eran los hombres libres del pueblo. -->
@@ -330,9 +330,9 @@ Los piñas representaban una fuerza laboral en condición de servidumbre forzada
 El principio ético y económico incaico basado en la prestación mutua de servicios dentro de un mismo ayllu ('hoy por ti, mañana por mí') era el:
 
 ### Opciones
-- [x] A) Ayni
+- [x] B) Ayni
   <!-- feedback: Correcto. El ayni era la norma de reciprocidad directa y simétrica entre las familias del ayllu. -->
-- [ ] B) Mita
+- [ ] A) Mita
   <!-- feedback: Incorrecto. La mita era la prestación laboral asimétrica hacia el Estado. -->
 - [ ] C) Minca
   <!-- feedback: Incorrecto. La minca era el trabajo colectivo para la comunidad. -->
@@ -355,9 +355,9 @@ El ayni vertebraba la solidaridad familiar y comunitaria en la sociedad andina.
 La esposa principal del Sapa Inca, perteneciente a la alta nobleza imperial, ostentaba el título de:
 
 ### Opciones
-- [x] A) Coya
+- [x] B) Coya
   <!-- feedback: Correcto. La Coya acompañaba al Sapa Inca y presidía los rituales femeninos sagrados. -->
-- [ ] B) Ñusta
+- [ ] A) Ñusta
   <!-- feedback: Incorrecto. La Ñusta era la princesa soltera de la familia real. -->
 - [ ] C) Palla
   <!-- feedback: Incorrecto. La Palla era la mujer noble casada. -->
@@ -380,9 +380,9 @@ La Coya gozaba de gran prestigio político y religioso en la corte imperial cuzq
 Las terrazas agrícolas construidas en las laderas de los cerros para ampliar la frontera agrícola y evitar la erosión se conocen como:
 
 ### Opciones
-- [x] A) Andenes
+- [x] B) Andenes
   <!-- feedback: Correcto. Los andenes permitían optimizar el riego y el uso del suelo en la accidentada topografía andina. -->
-- [ ] B) Camellones (Waru Waru)
+- [ ] A) Camellones (Waru Waru)
   <!-- feedback: Incorrecto. Los waru waru eran plataformas de tierra rodeadas de agua en el altiplano. -->
 - [ ] C) Puquios
   <!-- feedback: Incorrecto. Los puquios eran canales o pozos de captación acuífera. -->
@@ -405,13 +405,13 @@ La construcción masiva de andenes por los incas transformó las pendientes en v
 El gobernador político y militar de una provincia o Wamani en el Tahuantinsuyo era el:
 
 ### Opciones
-- [x] A) Apunchic o Tocricut
+- [x] D) Apunchic o Tocricut
   <!-- feedback: Correcto. El Apunchic mantenía el orden provincial y dependía directamente del Consejo Imperial. -->
-- [ ] B) Tucuy Ricuy
+- [ ] A) Tucuy Ricuy
   <!-- feedback: Incorrecto. El Tucuy Ricuy era el fiscalizador ambulante confidencial del Inca. -->
-- [ ] C) Curaca
+- [ ] B) Curaca
   <!-- feedback: Incorrecto. El Curaca gobernaba el ayllu local. -->
-- [ ] D) Chasqui
+- [ ] C) Chasqui
   <!-- feedback: Incorrecto. El Chasqui era el correo imperial. -->
 
 ### Explicacion Pedagogica
@@ -430,11 +430,11 @@ El Apunchic ostentaba atribuciones administrativas, judiciales y militares en su
 ¿En cuántos suyos o regiones estaba dividido el imperio del Tahuantinsuyo?
 
 ### Opciones
-- [x] A) Cuatro
+- [x] C) Cuatro
   <!-- feedback: Correcto. El Tahuantinsuyo significa 'las cuatro regiones unidas' (Chinchaysuyo, Antisuyo, Contisuyo, Collasuyo). -->
-- [ ] B) Tres
+- [ ] A) Tres
   <!-- feedback: Incorrecto. Tres corresponde a una división geográfica básica no administrativa. -->
-- [ ] C) Dos
+- [ ] B) Dos
   <!-- feedback: Incorrecto. Dos corresponde a la dualidad Hanan y Hurin Cuzco. -->
 - [ ] D) Ocho
   <!-- feedback: Incorrecto. Ocho corresponde a la división regional natural de Pulgar Vidal. -->
@@ -455,11 +455,11 @@ El Tahuantinsuyo se dividió en cuatro suyos que convergían en la ciudad sagrad
 El consejo asesor integrado por los jefes de cada uno de los cuatro suyos que asesoraba al Inca se denominaba:
 
 ### Opciones
-- [x] A) Suyuyuc Apu (Consejo Imperial)
+- [x] C) Suyuyuc Apu (Consejo Imperial)
   <!-- feedback: Correcto. El Consejo Imperial representaba la alta instancia consultiva de la administración incaica. -->
-- [ ] B) Tribunal de la Inquisición
+- [ ] A) Tribunal de la Inquisición
   <!-- feedback: Incorrecto. La Inquisición fue una institución del virreinato español. -->
-- [ ] C) Cabildo de Regidores
+- [ ] B) Cabildo de Regidores
   <!-- feedback: Incorrecto. El Cabildo fue el municipio colonial hispano. -->
 - [ ] D) Asamblea de Curacas
   <!-- feedback: Incorrecto. Los curacas se reunían localmente pero no formaban el consejo central del Cusco. -->
@@ -480,11 +480,11 @@ El Suyuyuc Apu aconsejaba al soberano en decisiones de paz, guerra y administrac
 ¿Cuál era el cultivo sagrado y base de la alimentación incaica junto con la papa?
 
 ### Opciones
-- [x] A) Maíz (Sara)
+- [x] C) Maíz (Sara)
   <!-- feedback: Correcto. El maíz poseía un alto valor ritual, económico y ceremonial en el Tahuantinsuyo. -->
-- [ ] B) Trigo
+- [ ] A) Trigo
   <!-- feedback: Incorrecto. El trigo fue introducido posteriormente por los europeos. -->
-- [ ] C) Arroz
+- [ ] B) Arroz
   <!-- feedback: Incorrecto. El arroz se trajo de Asia a la costa peruana en la época colonial. -->
 - [ ] D) Cebada
   <!-- feedback: Incorrecto. La cebada es un cereal europeo del Viejo Mundo. -->

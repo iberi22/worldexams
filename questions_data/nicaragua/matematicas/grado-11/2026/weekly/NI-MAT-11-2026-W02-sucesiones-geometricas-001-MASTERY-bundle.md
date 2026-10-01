@@ -30,8 +30,8 @@ bundle_index: 1
 
 ### Opciones
 - [ ] A) La diferencia entre dos términos consecutivos es constante. <!-- feedback: Incorrecto. Esta es la definición de una sucesión aritmética. -->
-- [x] B) Cada término se obtiene multiplicando el anterior por una constante llamada razón común. <!-- feedback: Correcto. En una sucesión geométrica, el cociente entre términos sucesivos es constante (r). -->
-- [ ] C) Los términos siempre son números enteros positivos. <!-- feedback: Incorrecto. Los términos pueden ser fraccionarios, negativos o incluso cero en ciertos contextos. -->
+- [x] C) Cada término se obtiene multiplicando el anterior por una constante llamada razón común. <!-- feedback: Correcto. En una sucesión geométrica, el cociente entre términos sucesivos es constante (r). -->
+- [ ] B) Los términos siempre son números enteros positivos. <!-- feedback: Incorrecto. Los términos pueden ser fraccionarios, negativos o incluso cero en ciertos contextos. -->
 - [ ] D) La suma de dos términos consecutivos es siempre igual a la razón. <!-- feedback: Incorrecto. La relación es multiplicativa, no aditiva. -->
 
 ### Explicacion Pedagogica
@@ -49,9 +49,9 @@ Una sucesión geométrica se define por la relación recurrente $a_n = a_{n-1} \
 
 ### Opciones
 - [ ] A) $a_n = a_1 + (n - 1)r$ <!-- feedback: Incorrecto. Esta fórmula corresponde a una progresión aritmética. -->
-- [x] B) $a_n = a_1 \cdot r^{n-1}$ <!-- feedback: Correcto. Esta expresión permite calcular cualquier término basándose en el crecimiento exponencial de la razón. -->
-- [ ] C) $a_n = a_1 \cdot r^n$ <!-- feedback: Incorrecto. Esta fórmula daría $a_1 \cdot r$ para el primer término ($n=1$), lo cual es incorrecto. -->
-- [ ] D) $a_n = \frac{a_1}{r^{n-1}}$ <!-- feedback: Incorrecto. Esta fórmula representaría un decrecimiento inverso, no la forma estándar de la sucesión. -->
+- [x] D) $a_n = a_1 \cdot r^{n-1}$ <!-- feedback: Correcto. Esta expresión permite calcular cualquier término basándose en el crecimiento exponencial de la razón. -->
+- [ ] B) $a_n = a_1 \cdot r^n$ <!-- feedback: Incorrecto. Esta fórmula daría $a_1 \cdot r$ para el primer término ($n=1$), lo cual es incorrecto. -->
+- [ ] C) $a_n = \frac{a_1}{r^{n-1}}$ <!-- feedback: Incorrecto. Esta fórmula representaría un decrecimiento inverso, no la forma estándar de la sucesión. -->
 
 ### Explicacion Pedagogica
 El término enésimo se obtiene multiplicando el primer término por la razón elevada a la potencia $(n-1)$, lo que representa el número de saltos realizados.
@@ -68,8 +68,8 @@ Si la razón común ($r$) de una sucesión geométrica está entre 0 y 1 ($0 < r
 
 ### Opciones
 - [ ] A) Los términos crecen indefinidamente. <!-- feedback: Incorrecto. Esto sucedería si $r > 1$. -->
-- [x] B) Los términos decrecen hacia cero. <!-- feedback: Correcto. Al multiplicar repetidamente por un valor menor a la unidad, el producto se hace cada vez más pequeño. -->
-- [ ] C) Los términos permanecen constantes. <!-- feedback: Incorrecto. Solo serían constantes si $r = 1$. -->
+- [x] C) Los términos decrecen hacia cero. <!-- feedback: Correcto. Al multiplicar repetidamente por un valor menor a la unidad, el producto se hace cada vez más pequeño. -->
+- [ ] B) Los términos permanecen constantes. <!-- feedback: Incorrecto. Solo serían constantes si $r = 1$. -->
 - [ ] D) Los términos alternan entre positivos y negativos. <!-- feedback: Incorrecto. Esto sucedería si la razón fuera negativa ($r < 0$). -->
 
 ### Explicacion Pedagogica
@@ -87,9 +87,9 @@ Dada la sucesión geométrica: 3, 6, 12, 24, ..., ¿cuál es el valor de la raz�
 
 ### Opciones
 - [ ] A) 3 <!-- feedback: Incorrecto. 3 es el primer término, no la razón. -->
-- [x] B) 2 <!-- feedback: Correcto. Dividiendo cualquier término entre el anterior ($6/3=2, 12/6=2$) obtenemos la razón constante 2. -->
-- [ ] C) 4 <!-- feedback: Incorrecto. El salto entre 3 y 6 no es por factor 4. -->
-- [ ] D) 1.5 <!-- feedback: Incorrecto. Al multiplicar 3 por 1.5 no obtenemos 6. -->
+- [x] D) 2 <!-- feedback: Correcto. Dividiendo cualquier término entre el anterior ($6/3=2, 12/6=2$) obtenemos la razón constante 2. -->
+- [ ] B) 4 <!-- feedback: Incorrecto. El salto entre 3 y 6 no es por factor 4. -->
+- [ ] C) 1.5 <!-- feedback: Incorrecto. Al multiplicar 3 por 1.5 no obtenemos 6. -->
 
 ### Explicacion Pedagogica
 La razón común se halla dividiendo un término entre su antecesor: $r = a_n / a_{n-1}$. Aquí, $6 / 3 = 2$.
@@ -106,8 +106,8 @@ Si el primer término de una sucesión geométrica es 5 y la razón es 3, ¿cuá
 
 ### Opciones
 - [ ] A) 45 <!-- feedback: Incorrecto. Este es el tercer término ($5 \times 3^2$). -->
-- [x] B) 135 <!-- feedback: Correcto. $a_4 = 5 \times 3^{4-1} = 5 \times 3^3 = 5 \times 27 = 135$. -->
-- [ ] C) 405 <!-- feedback: Incorrecto. Este es el quinto término ($5 \times 3^4$). -->
+- [x] C) 135 <!-- feedback: Correcto. $a_4 = 5 \times 3^{4-1} = 5 \times 3^3 = 5 \times 27 = 135$. -->
+- [ ] B) 405 <!-- feedback: Incorrecto. Este es el quinto término ($5 \times 3^4$). -->
 - [ ] D) 20 <!-- feedback: Incorrecto. Se sumó $5 + 3 \times 5$, error de concepto. -->
 
 ### Explicacion Pedagogica
@@ -124,8 +124,8 @@ Aplicando $a_n = a_1 \cdot r^{n-1}$ con $a_1=5, r=3, n=4$, resulta en 135.
 Si el valor inicial de una máquina es C$ 10,000 y cada año vale el 80% del año anterior, ¿cuál es el término general que representa su valor en el año $n$?
 
 ### Opciones
-- [ ] A) $a_n = 10,000 \cdot (0.2)^{n-1}$ <!-- feedback: Incorrecto. 0.2 es la pérdida, no el valor remanente. -->
-- [x] B) $a_n = 10,000 \cdot (0.8)^{n-1}$ <!-- feedback: Correcto. La razón es 0.8, representando el valor que se conserva cada periodo. -->
+- [ ] B) $a_n = 10,000 \cdot (0.2)^{n-1}$ <!-- feedback: Incorrecto. 0.2 es la pérdida, no el valor remanente. -->
+- [x] A) $a_n = 10,000 \cdot (0.8)^{n-1}$ <!-- feedback: Correcto. La razón es 0.8, representando el valor que se conserva cada periodo. -->
 - [ ] C) $a_n = 10,000 - 800(n-1)$ <!-- feedback: Incorrecto. Esto representaría una depreciación lineal (aritmética). -->
 - [ ] D) $a_n = 10,000 \cdot (1.8)^{n-1}$ <!-- feedback: Incorrecto. Esto representaría un crecimiento del 80%, no una depreciación. -->
 
@@ -144,8 +144,8 @@ Una pelota rebota hasta las 3/4 partes de la altura desde la que se suelta. Si s
 
 ### Opciones
 - [ ] A) 12 metros <!-- feedback: Incorrecto. Esta es la altura del primer rebote. -->
-- [ ] B) 9 metros <!-- feedback: Incorrecto. Esta es la altura del segundo rebote. -->
-- [x] C) 6.75 metros <!-- feedback: Correcto. $a_1=16 \times 0.75 = 12$. Luego $a_3 = 12 \times (0.75)^{3-1} = 12 \times 0.5625 = 6.75$. (O $16 \times (0.75)^3 = 6.75$). -->
+- [ ] C) 9 metros <!-- feedback: Incorrecto. Esta es la altura del segundo rebote. -->
+- [x] B) 6.75 metros <!-- feedback: Correcto. $a_1=16 \times 0.75 = 12$. Luego $a_3 = 12 \times (0.75)^{3-1} = 12 \times 0.5625 = 6.75$. (O $16 \times (0.75)^3 = 6.75$). -->
 - [ ] D) 5.06 metros <!-- feedback: Incorrecto. Esta sería la altura del cuarto rebote. -->
 
 ### Explicacion Pedagogica
@@ -162,8 +162,8 @@ Cada rebote es un término de una sucesión geométrica. La altura después del 
 En una sucesión geométrica, el segundo término es 10 y el quinto término es 80. ¿Cuál es el valor de la razón común?
 
 ### Opciones
-- [ ] A) 4 <!-- feedback: Incorrecto. Si r=4, $a_5$ sería mucho mayor. -->
-- [x] B) 2 <!-- feedback: Correcto. $a_5 = a_2 \cdot r^3 \Rightarrow 80 = 10 \cdot r^3 \Rightarrow 8 = r^3 \Rightarrow r = 2$. -->
+- [ ] B) 4 <!-- feedback: Incorrecto. Si r=4, $a_5$ sería mucho mayor. -->
+- [x] A) 2 <!-- feedback: Correcto. $a_5 = a_2 \cdot r^3 \Rightarrow 80 = 10 \cdot r^3 \Rightarrow 8 = r^3 \Rightarrow r = 2$. -->
 - [ ] C) 3 <!-- feedback: Incorrecto. $3^3 = 27$, no coincide con el factor de crecimiento 8. -->
 - [ ] D) 8 <!-- feedback: Incorrecto. Este es el factor total entre $a_5$ y $a_2$, no la razón individual por paso. -->
 
@@ -181,8 +181,8 @@ Usamos la relación $a_j = a_i \cdot r^{j-i}$. Despejando: $r = \sqrt[j-i]{a_j/a
 Si una sucesión geométrica tiene razón $r = -1$, ¿cómo se comportan sus términos partiendo de $a_1 = 5$?
 
 ### Opciones
-- [ ] A) Todos los términos son 5. <!-- feedback: Incorrecto. Eso sería si r fuera 1. -->
-- [x] B) Los términos alternan entre 5 y -5. <!-- feedback: Correcto. Multiplicar por -1 cambia el signo de cada término sucesivo. -->
+- [ ] B) Todos los términos son 5. <!-- feedback: Incorrecto. Eso sería si r fuera 1. -->
+- [x] A) Los términos alternan entre 5 y -5. <!-- feedback: Correcto. Multiplicar por -1 cambia el signo de cada término sucesivo. -->
 - [ ] C) Los términos decrecen hacia el infinito negativo. <!-- feedback: Incorrecto. La magnitud se mantiene constante en 5. -->
 - [ ] D) Los términos se vuelven cero eventualmente. <!-- feedback: Incorrecto. El cero solo se alcanza si r=0 o si partimos de cero. -->
 
@@ -201,9 +201,9 @@ Una razón negativa produce una sucesión alternante. Si $r = -1$, la sucesión 
 
 ### Opciones
 - [ ] A) 6 <!-- feedback: Incorrecto. $2^6 = 64$. -->
-- [x] B) 7 <!-- feedback: Correcto. $128 = 2 \cdot 2^{n-1} \Rightarrow 64 = 2^{n-1} \Rightarrow 2^6 = 2^{n-1} \Rightarrow 6 = n-1 \Rightarrow n = 7$. -->
-- [ ] C) 8 <!-- feedback: Incorrecto. $2^8 = 256$. -->
-- [ ] D) 64 <!-- feedback: Incorrecto. Se dividió el último término entre el primero sin usar logaritmos o potencias. -->
+- [x] D) 7 <!-- feedback: Correcto. $128 = 2 \cdot 2^{n-1} \Rightarrow 64 = 2^{n-1} \Rightarrow 2^6 = 2^{n-1} \Rightarrow 6 = n-1 \Rightarrow n = 7$. -->
+- [ ] B) 8 <!-- feedback: Incorrecto. $2^8 = 256$. -->
+- [ ] C) 64 <!-- feedback: Incorrecto. Se dividió el último término entre el primero sin usar logaritmos o potencias. -->
 
 ### Explicacion Pedagogica
 Para hallar n, resolvemos la ecuación exponencial $a_n = a_1 \cdot r^{n-1}$. Aquí, $128 = 2^7$, por lo tanto $n = 7$.
@@ -219,8 +219,8 @@ Para hallar n, resolvemos la ecuación exponencial $a_n = a_1 \cdot r^{n-1}$. Aq
 ¿Cuál es la fórmula para calcular la suma de los primeros $n$ términos ($S_n$) de una sucesión geométrica con razón $r \neq 1$?
 
 ### Opciones
-- [x] A) $S_n = \frac{a_1(r^n - 1)}{r - 1}$ <!-- feedback: Correcto. Esta es la expresión cerrada para la sumatoria de una progresión geométrica. -->
-- [ ] B) $S_n = \frac{n(a_1 + a_n)}{2}$ <!-- feedback: Incorrecto. Esta fórmula es exclusiva para sucesiones aritméticas. -->
+- [x] B) $S_n = \frac{a_1(r^n - 1)}{r - 1}$ <!-- feedback: Correcto. Esta es la expresión cerrada para la sumatoria de una progresión geométrica. -->
+- [ ] A) $S_n = \frac{n(a_1 + a_n)}{2}$ <!-- feedback: Incorrecto. Esta fórmula es exclusiva para sucesiones aritméticas. -->
 - [ ] C) $S_n = a_1 \cdot r^n$ <!-- feedback: Incorrecto. Esta expresión solo calcula el término siguiente, no la suma acumulada. -->
 - [ ] D) $S_n = \frac{a_1}{1 - r}$ <!-- feedback: Incorrecto. Esta es la fórmula para la suma infinita de una serie convergente. -->
 
@@ -239,8 +239,8 @@ La suma de una sucesión geométrica finita depende del primer término, la raz�
 
 ### Opciones
 - [ ] A) C$ 3,200 <!-- feedback: Incorrecto. Este es solo el valor del sexto depósito ($a_6$). -->
-- [x] B) C$ 6,300 <!-- feedback: Correcto. $a_1=100, r=2, n=6$. $S_6 = \frac{100(2^6 - 1)}{2 - 1} = 100(64 - 1) = 6,300$. -->
-- [ ] C) C$ 6,400 <!-- feedback: Incorrecto. Olvidó restar 1 en el numerador de la fórmula. -->
+- [x] C) C$ 6,300 <!-- feedback: Correcto. $a_1=100, r=2, n=6$. $S_6 = \frac{100(2^6 - 1)}{2 - 1} = 100(64 - 1) = 6,300$. -->
+- [ ] B) C$ 6,400 <!-- feedback: Incorrecto. Olvidó restar 1 en el numerador de la fórmula. -->
 - [ ] D) C$ 12,700 <!-- feedback: Incorrecto. Se calculó para 7 meses en lugar de 6. -->
 
 ### Explicacion Pedagogica
@@ -296,8 +296,8 @@ Si se interpolan dos medios geométricos entre 2 y 54, ¿cuáles son los términ
 
 ### Opciones
 - [ ] A) 4 y 8 <!-- feedback: Incorrecto. La razón no se mantiene constante para llegar a 54. -->
-- [x] B) 6 y 18 <!-- feedback: Correcto. Al insertar 2 términos, 54 es el cuarto término. $54 = 2 \cdot r^3 \Rightarrow 27 = r^3 \Rightarrow r = 3$. Los términos son $2, 6, 18, 54$. -->
-- [ ] C) 10 y 30 <!-- feedback: Incorrecto. Multiplicar por 5 y luego por 3 no es una sucesión geométrica válida. -->
+- [x] C) 6 y 18 <!-- feedback: Correcto. Al insertar 2 términos, 54 es el cuarto término. $54 = 2 \cdot r^3 \Rightarrow 27 = r^3 \Rightarrow r = 3$. Los términos son $2, 6, 18, 54$. -->
+- [ ] B) 10 y 30 <!-- feedback: Incorrecto. Multiplicar por 5 y luego por 3 no es una sucesión geométrica válida. -->
 - [ ] D) 8 y 32 <!-- feedback: Incorrecto. La razón 4 no lleva de 32 a 54. -->
 
 ### Explicacion Pedagogica
@@ -315,9 +315,9 @@ En una sucesión geométrica de términos positivos $a, b, c$, ¿cuál es la rel
 
 ### Opciones
 - [ ] A) $b = \frac{a + c}{2}$ <!-- feedback: Incorrecto. Esta es la media aritmética para sucesiones aritméticas. -->
-- [x] B) $b = \sqrt{a \cdot c}$ <!-- feedback: Correcto. En una sucesión geométrica, cada término es la media geométrica de sus términos adyacentes ($b/a = c/b \Rightarrow b^2 = ac$). -->
-- [ ] C) $b = c - a$ <!-- feedback: Incorrecto. Esta relación no define un crecimiento proporcional. -->
-- [ ] D) $b = a^2 \cdot c^2$ <!-- feedback: Incorrecto. Relación inconsistente con el factor de razón común. -->
+- [x] D) $b = \sqrt{a \cdot c}$ <!-- feedback: Correcto. En una sucesión geométrica, cada término es la media geométrica de sus términos adyacentes ($b/a = c/b \Rightarrow b^2 = ac$). -->
+- [ ] B) $b = c - a$ <!-- feedback: Incorrecto. Esta relación no define un crecimiento proporcional. -->
+- [ ] C) $b = a^2 \cdot c^2$ <!-- feedback: Incorrecto. Relación inconsistente con el factor de razón común. -->
 
 ### Explicacion Pedagogica
 El término central de tres términos consecutivos en una progresión geométrica es igual a la raíz cuadrada del producto de los extremos.
@@ -353,9 +353,9 @@ Calcula la suma de la serie infinita: $\frac{2}{3} + \frac{2}{9} + \frac{2}{27} 
 
 ### Opciones
 - [ ] A) 2 <!-- feedback: Incorrecto. La suma no alcanza el valor de 2 unidades. -->
-- [x] B) 1 <!-- feedback: Correcto. $a_1 = 2/3, r = 1/3$. $S = \frac{2/3}{1 - 1/3} = \frac{2/3}{2/3} = 1$. -->
-- [ ] C) 1.5 <!-- feedback: Incorrecto. Error en la resta de fracciones del denominador. -->
-- [ ] D) 0.5 <!-- feedback: Incorrecto. Resultado insuficiente basado en la suma de los primeros términos. -->
+- [x] D) 1 <!-- feedback: Correcto. $a_1 = 2/3, r = 1/3$. $S = \frac{2/3}{1 - 1/3} = \frac{2/3}{2/3} = 1$. -->
+- [ ] B) 1.5 <!-- feedback: Incorrecto. Error en la resta de fracciones del denominador. -->
+- [ ] C) 0.5 <!-- feedback: Incorrecto. Resultado insuficiente basado en la suma de los primeros términos. -->
 
 ### Explicacion Pedagogica
 La serie converge a 1, demostrando cómo una suma infinita de partes cada vez más pequeñas puede resultar en una unidad entera.
@@ -372,8 +372,8 @@ Si los números $x, x+3, x+9$ forman una sucesión geométrica en ese orden, ¿c
 
 ### Opciones
 - [ ] A) 6 <!-- feedback: Incorrecto. Daría 6, 9, 15, cuya razón no es constante (1.5 vs 1.66). -->
-- [x] B) 3 <!-- feedback: Correcto. $\frac{x+3}{x} = \frac{x+9}{x+3} \Rightarrow (x+3)^2 = x(x+9) \Rightarrow x^2 + 6x + 9 = x^2 + 9x \Rightarrow 9 = 3x \Rightarrow x = 3$. -->
-- [ ] C) 9 <!-- feedback: Incorrecto. Daría 9, 12, 18, razón no constante. -->
+- [x] C) 3 <!-- feedback: Correcto. $\frac{x+3}{x} = \frac{x+9}{x+3} \Rightarrow (x+3)^2 = x(x+9) \Rightarrow x^2 + 6x + 9 = x^2 + 9x \Rightarrow 9 = 3x \Rightarrow x = 3$. -->
+- [ ] B) 9 <!-- feedback: Incorrecto. Daría 9, 12, 18, razón no constante. -->
 - [ ] D) 0 <!-- feedback: Incorrecto. La división por cero no está definida para la razón. -->
 
 ### Explicacion Pedagogica

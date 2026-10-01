@@ -80,11 +80,11 @@ Comprender que la diversidad de recursos y climas de las regiones determina sus 
 ¿A qué actividad económica pertenece el trabajo de esta familia?
 
 ### Opciones
-- [x] A) A la pesca, porque obtienen su sustento de los recursos del mar.
+- [x] C) A la pesca, porque obtienen su sustento de los recursos del mar.
   <!-- feedback: La familia extrae peces del mar y los comercializa, lo que corresponde a la pesca. -->
-- [ ] B) A la minería, porque extraen minerales del subsuelo marino.
+- [ ] A) A la minería, porque extraen minerales del subsuelo marino.
   <!-- feedback: La familia no extrae minerales, sino peces, así que no es minería. -->
-- [ ] C) A la ganadería, porque crían animales en tierra firme.
+- [ ] B) A la ganadería, porque crían animales en tierra firme.
   <!-- feedback: La ganadería cría animales terrestres, no captura peces en el mar. -->
 - [ ] D) Al turismo, porque reciben visitantes en su bote.
   <!-- feedback: La familia no presta servicios turísticos; vende el producto de su pesca. -->
@@ -103,11 +103,11 @@ Aplicar el concepto de pesca a una situación cotidiana de la región Pacífica 
 ¿Cuál decisión es la más responsable frente a la actividad minera del municipio?
 
 ### Opciones
-- [x] A) Extraer el carbón con permisos, cuidando el agua y reforestando las zonas afectadas.
+- [x] C) Extraer el carbón con permisos, cuidando el agua y reforestando las zonas afectadas.
   <!-- feedback: Una minería responsable cumple las normas y protege los recursos naturales de la comunidad. -->
-- [ ] B) Extraer todo el carbón sin permiso y abandonar los huecos abiertos.
+- [ ] A) Extraer todo el carbón sin permiso y abandonar los huecos abiertos.
   <!-- feedback: La explotación sin permiso ni control causa daños graves al ambiente y a las personas. -->
-- [ ] C) Contaminar los ríos con los desechos que salen de la mina.
+- [ ] B) Contaminar los ríos con los desechos que salen de la mina.
   <!-- feedback: Arrojar desechos a los ríos afecta el agua que usa toda la comunidad. -->
 - [ ] D) Impedir que cualquier autoridad vigile la explotación.
   <!-- feedback: La vigilancia de las autoridades ayuda a prevenir daños ambientales y sociales. -->
@@ -126,11 +126,11 @@ Aplicar principios de convivencia y cuidado ambiental a la explotación de los r
 ¿Qué actividad económica se fortalece con estos empleos en Santa Marta?
 
 ### Opciones
-- [x] A) El turismo, porque las personas viajan y usan servicios de hospedaje y recreación.
+- [x] C) El turismo, porque las personas viajan y usan servicios de hospedaje y recreación.
   <!-- feedback: El hotel ofrece servicios a los viajeros, lo que caracteriza a la actividad turística. -->
-- [ ] B) La pesca, porque se venden productos del mar al por mayor.
+- [ ] A) La pesca, porque se venden productos del mar al por mayor.
   <!-- feedback: El hotel no se dedica a la pesca, aunque sirva pescado a sus huéspedes. -->
-- [ ] C) La minería, porque se extraen piedras preciosas de la playa.
+- [ ] B) La minería, porque se extraen piedras preciosas de la playa.
   <!-- feedback: En el hotel no se extraen minerales, sino que se atiende a visitantes. -->
 - [ ] D) La agricultura, porque se cultivan flores para exportar.
   <!-- feedback: La agricultura siembra y cosecha productos, algo distinto a la hotelería. -->
@@ -172,13 +172,13 @@ Analizar cómo las condiciones geográficas explican las diferencias entre las a
 ¿Qué conflicto se presenta entre el turismo y el bienestar de los habitantes de una región?
 
 ### Opciones
-- [x] A) El turismo genera ingresos, pero también puede afectar los recursos y la vida cotidiana de la comunidad.
+- [x] D) El turismo genera ingresos, pero también puede afectar los recursos y la vida cotidiana de la comunidad.
   <!-- feedback: Existe un equilibrio entre los beneficios económicos y los costos ambientales y sociales. -->
-- [ ] B) El turismo nunca produce ningún efecto negativo en las regiones.
+- [ ] A) El turismo nunca produce ningún efecto negativo en las regiones.
   <!-- feedback: El texto menciona basura, precios y consumo de agua como efectos a considerar. -->
-- [ ] C) Los habitantes de la región no participan en la economía local.
+- [ ] B) Los habitantes de la región no participan en la economía local.
   <!-- feedback: Los habitantes trabajan y ofrecen servicios dentro de la actividad turística. -->
-- [ ] D) El turismo elimina la necesidad de cuidar el agua y los paisajes.
+- [ ] C) El turismo elimina la necesidad de cuidar el agua y los paisajes.
   <!-- feedback: Al contrario, el turismo sostenible depende del cuidado del agua y del entorno. -->
 
 ### Explicacion Pedagogica

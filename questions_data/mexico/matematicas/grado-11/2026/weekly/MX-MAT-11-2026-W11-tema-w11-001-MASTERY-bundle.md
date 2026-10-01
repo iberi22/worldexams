@@ -30,13 +30,13 @@ creador: "Jules-Agent"
 Si dos de los ángulos agudos formados en la base de un plano de construcción son complementarios y uno mide 35°, ¿cuánto mide el otro ángulo?
 
 ### Opciones
-- [x] A) 55°
+- [x] D) 55°
   <!-- feedback: ¡Correcto! Los ángulos complementarios suman exactamente 90°. Por lo tanto, 90° - 35° = 55°. -->
-- [ ] B) 145°
+- [ ] A) 145°
   <!-- feedback: Incorrecto. 145° es el ángulo suplementario (suman 180°), no el complementario. -->
-- [ ] C) 65°
+- [ ] B) 65°
   <!-- feedback: Incorrecto. 65° y 35° suman 100°, no 90°. -->
-- [ ] D) 45°
+- [ ] C) 45°
   <!-- feedback: Incorrecto. 45° y 35° suman 80°, no 90°. -->
 
 ### Explicacion Pedagogica
@@ -53,13 +53,13 @@ Por definición, dos ángulos son complementarios si la suma de sus medidas es i
 ¿Cuál de las siguientes afirmaciones describe una propiedad fundamental de un triángulo isósceles?
 
 ### Opciones
-- [x] A) Tiene exactamente dos lados de igual longitud y dos ángulos opuestos iguales.
+- [x] D) Tiene exactamente dos lados de igual longitud y dos ángulos opuestos iguales.
   <!-- feedback: ¡Correcto! Por definición, un triángulo isósceles posee dos lados congruentes (de igual longitud) y los ángulos opuestos a estos lados también son congruentes. -->
-- [ ] B) Tiene tres lados de diferentes longitudes y ángulos agudos.
+- [ ] A) Tiene tres lados de diferentes longitudes y ángulos agudos.
   <!-- feedback: Incorrecto. Un triángulo con tres lados diferentes es un triángulo escaleno. -->
-- [ ] C) Tiene un ángulo recto de 90° y dos lados iguales.
+- [ ] B) Tiene un ángulo recto de 90° y dos lados iguales.
   <!-- feedback: Incorrecto. Esta es una subclase específica (triángulo rectángulo isósceles), pero no es la definición general de un isósceles. -->
-- [ ] D) Todos sus lados y ángulos internos son de igual medida.
+- [ ] C) Todos sus lados y ángulos internos son de igual medida.
   <!-- feedback: Incorrecto. Un triángulo con todos sus lados y ángulos iguales es equilátero. -->
 
 ### Explicacion Pedagogica
@@ -76,9 +76,9 @@ Un triángulo isósceles es aquel que tiene dos lados de igual longitud (congrue
 Si uno de los ángulos alternos internos formados mide 110°, ¿cuánto mide el ángulo colateral interno correspondiente en el mismo lado de la ciclovía?
 
 ### Opciones
-- [x] A) 70°
+- [x] B) 70°
   <!-- feedback: ¡Correcto! Los ángulos colaterales internos entre paralelas son suplementarios, por lo que suman 180°. Así, 180° - 110° = 70°. -->
-- [ ] B) 110°
+- [ ] A) 110°
   <!-- feedback: Incorrecto. Los ángulos colaterales internos en rectas paralelas son suplementarios, no congruentes. -->
 - [ ] C) 80°
   <!-- feedback: Incorrecto. 80° y 110° suman 190°, no 180°. -->
@@ -99,9 +99,9 @@ Cuando una recta transversal corta a dos paralelas, los ángulos colaterales int
 Si dos de los ángulos internos del triángulo miden 48° y 72° respectivamente, ¿cuál es la medida del tercer ángulo interno?
 
 ### Opciones
-- [x] A) 60°
+- [x] B) 60°
   <!-- feedback: ¡Correcto! La suma de los de cualquier triángulo es 180°. Sumamos 48° + 72° = 120°. El tercero es 180° - 120° = 60°. -->
-- [ ] B) 70°
+- [ ] A) 70°
   <!-- feedback: Incorrecto. Con 70° la suma total de los ángulos internos sería de 190°, lo cual contradice el teorema geométrico. -->
 - [ ] C) 50°
   <!-- feedback: Incorrecto. Con 50° la suma total de los de 170°. -->
@@ -122,13 +122,13 @@ De acuerdo con el teorema de la suma de los de un triángulo, estos siempre suma
 Si la vela tiene forma de triángulo y sus ángulos internos están en la relación 2:3:4, ¿cuál es la medida del ángulo más grande?
 
 ### Opciones
-- [x] A) 80°
+- [x] D) 80°
   <!-- feedback: ¡Correcto! La suma de las partes de la relación es 2 + 3 + 4 = 9. Cada parte equivale a 180° / 9 = 20°. El ángulo mayor mide 4 * 20° = 80°. -->
-- [ ] B) 60°
+- [ ] A) 60°
   <!-- feedback: Incorrecto. Este corresponde al ángulo intermedio de la relación (3 * 20° = 60°). -->
-- [ ] C) 40°
+- [ ] B) 40°
   <!-- feedback: Incorrecto. Este corresponde al ángulo menor de la relación (2 * 20° = 40°). -->
-- [ ] D) 100°
+- [ ] C) 100°
   <!-- feedback: Incorrecto. Si el mayor fuera 100°, la suma de los tres ángulos excedería los 180° proporcionales. -->
 
 ### Explicacion Pedagogica
@@ -145,9 +145,9 @@ Representamos las medidas de los ángulos como 2x, 3x y 4x. Dado que la suma de 
 Si uno de los ángulos interiores no adyacentes a este ángulo exterior mide 60°, ¿cuánto mide el otro ángulo interior no adyacente?
 
 ### Opciones
-- [x] A) 75°
+- [x] B) 75°
   <!-- feedback: ¡Correcto! Por el teorema del ángulo exterior, la medida de un ángulo exterior de un triángulo es igual a la suma de las medidas de los dos ángulos interiores no adyacentes. Así, 135° - 60° = 75°. -->
-- [ ] B) 45°
+- [ ] A) 45°
   <!-- feedback: Incorrecto. 45° es el ángulo adyacente suplementario al ángulo exterior (180° - 135° = 45°), no el no adyacente. -->
 - [ ] C) 115°
   <!-- feedback: Incorrecto. Con 115° se superaría la suma establecida por el teorema del ángulo exterior. -->
@@ -168,13 +168,13 @@ El teorema del ángulo exterior establece que cualquier ángulo exterior de un t
 Si cada arete es un triángulo equilátero, ¿cuánto mide la suma de sus tres ángulos exteriores (uno en cada vértice)?
 
 ### Opciones
-- [x] A) 360°
+- [x] D) 360°
   <!-- feedback: ¡Correcto! En cualquier polígono convexo (incluyendo cualquier triángulo), la suma de los de es siempre igual a 360°. -->
-- [ ] B) 180°
+- [ ] A) 180°
   <!-- feedback: Incorrecto. 180° es la suma de los ángulos interiores del triángulo, no de los exteriores. -->
-- [ ] C) 270°
+- [ ] B) 270°
   <!-- feedback: Incorrecto. 270° no corresponde a la suma de los ángulos exteriores de un triángulo convexos. -->
-- [ ] D) 540°
+- [ ] C) 540°
   <!-- feedback: Incorrecto. La suma de los de siempre está fija en 360°. -->
 
 ### Explicacion Pedagogica
@@ -214,13 +214,13 @@ La desigualdad triangular establece que en todo triángulo la longitud de cada l
 Si uno de los ángulos agudos del triángulo mide el doble que el otro ángulo agudo, ¿cuál es la medida del ángulo agudo menor?
 
 ### Opciones
-- [x] A) 30°
+- [x] D) 30°
   <!-- feedback: ¡Correcto! En un triángulo rectángulo, los dos ángulos agudos suman 90°. Si uno es x y el otro 2x, planteamos x + 2x = 90° -> 3x = 90° -> x = 30°. -->
-- [ ] B) 45°
+- [ ] A) 45°
   <!-- feedback: Incorrecto. Si el menor fuera 45°, el mayor sería 90°, lo cual no daría un triángulo rectángulo válido. -->
-- [ ] C) 60°
+- [ ] B) 60°
   <!-- feedback: Incorrecto. 60° es el ángulo agudo mayor, no el menor. -->
-- [ ] D) 20°
+- [ ] C) 20°
   <!-- feedback: Incorrecto. Si el menor fuera 20°, el mayor sería 40°, y sumarían 60° en lugar de los 90° requeridos. -->
 
 ### Explicacion Pedagogica
@@ -260,9 +260,9 @@ Los ángulos alternos externos entre líneas paralelas son congruentes. Por lo t
 En un triángulo ABC, el ángulo en el vértice B mide 80° y el ángulo en el vértice C mide 40°. Si se traza la bisectriz del ángulo A que intersecta al lado BC en el punto D, ¿cuál es la medida del ángulo ADC?
 
 ### Opciones
-- [x] A) 110°
+- [x] B) 110°
   <!-- feedback: ¡Correcto! El ángulo A mide 180° - 80° - 40° = 60°. La bisectriz divide el ángulo A en dos de 30°. En el triángulo ADC, el ángulo ADC es 180° - 30° - 40° = 110°. -->
-- [ ] B) 70°
+- [ ] A) 70°
   <!-- feedback: Incorrecto. 70° es el ángulo ADB (180° - 30° - 80° = 70°), no el ADC. -->
 - [ ] C) 90°
   <!-- feedback: Incorrecto. El triángulo ADC no es un triángulo rectángulo. -->
@@ -283,13 +283,13 @@ Primero, determinamos la medida del ángulo A: A = 180° - B - C = 180° - 80° 
 Los ángulos internos de un triángulo miden (x + 10)°, (2x - 20)° y (3x - 50)°. ¿De qué tipo de triángulo se trata de acuerdo con la medida de sus ángulos?
 
 ### Opciones
-- [x] A) Triángulo acutángulo
+- [x] D) Triángulo acutángulo
   <!-- feedback: ¡Correcto! Al resolver la ecuación se obtiene x = 40, lo que da de 50°, 60° y 70°. Como todos los ángulos son menores de 90°, el triángulo es acutángulo. -->
-- [ ] B) Triángulo obtusángulo
+- [ ] A) Triángulo obtusángulo
   <!-- feedback: Incorrecto. Ninguno de los de resultantes mide más de 90°. -->
-- [ ] C) Triángulo rectángulo
+- [ ] B) Triángulo rectángulo
   <!-- feedback: Incorrecto. Ninguno de los de resultantes mide exactamente 90°. -->
-- [ ] D) Triángulo equilátero
+- [ ] C) Triángulo equilátero
   <!-- feedback: Incorrecto. Los tres ángulos internos son diferentes (50°, 60° y 70°), por lo que es escaleno. -->
 
 ### Explicacion Pedagogica
@@ -329,9 +329,9 @@ En un pentágono regular, la suma de los es (5-2)*180 = 540°, por lo que cada �
 En un triángulo rectángulo, si la altura correspondiente a la hipotenusa divide a esta en dos segmentos de 4 m y 9 m, ¿cuál es la longitud de dicha altura?
 
 ### Opciones
-- [x] A) 6 m
+- [x] B) 6 m
   <!-- feedback: ¡Correcto! Por el teorema de la altura en un triángulo rectángulo, la altura es la media geométrica de los segmentos en que divide a la hipotenusa: h² = m * n = 4 * 9 = 36. Por lo tanto, h = 6 m. -->
-- [ ] B) 6.5 m
+- [ ] A) 6.5 m
   <!-- feedback: Incorrecto. Se calculó la media aritmética ((4 + 9) / 2 = 6.5) en lugar de la media geométrica. -->
 - [ ] C) 5 m
   <!-- feedback: Incorrecto. Valor que no satisface la proporcionalidad geométrica de la altura. -->
@@ -375,9 +375,9 @@ Las medianas de un triángulo son los segmentos de recta que unen cada vértice 
 Si AB = 12 m, AD = 4 m y AC = 15 m, ¿cuál es la longitud del segmento AE de acuerdo con el Teorema de Tales?
 
 ### Opciones
-- [x] A) 5 m
+- [x] B) 5 m
   <!-- feedback: ¡Correcto! Por el Teorema de Tales, la proporción es AD / AB = AE / AC. Sustituyendo: 4 / 12 = AE / 15 -> 1 / 3 = AE / 15 -> AE = 5 m. -->
-- [ ] B) 6 m
+- [ ] A) 6 m
   <!-- feedback: Incorrecto. La proporción matemática correcta daría 5 m, no 6 m. -->
 - [ ] C) 4.5 m
   <!-- feedback: Incorrecto. Este valor no respeta la proporción lineal de los segmentos paralelos. -->
@@ -398,13 +398,13 @@ El Teorema de Tales establece que si en un triángulo se traza una línea parale
 En un triángulo cuyos lados miden a = 7 cm, b = 8 cm y c = 13 cm, ¿cuál es el tipo de triángulo según la clasificación de sus ángulos internos?
 
 ### Opciones
-- [x] A) Triángulo obtusángulo
+- [x] D) Triángulo obtusángulo
   <!-- feedback: ¡Correcto! Por la ley de cosenos, c² = a² + b² - 2ab cos(C). Sustituyendo: 169 = 49 + 64 - 112 cos(C) -> 169 = 113 - 112 cos(C) -> cos(C) = -56 / 112 = -0.5. Como el coseno es negativo, el ángulo C es obtuso (120°). -->
-- [ ] B) Triángulo acutángulo
+- [ ] A) Triángulo acutángulo
   <!-- feedback: Incorrecto. El ángulo mayor mide exactamente 120°, por lo tanto el triángulo posee un ángulo obtuso. -->
-- [ ] C) Triángulo rectángulo
+- [ ] B) Triángulo rectángulo
   <!-- feedback: Incorrecto. No se cumple el teorema de Pitágoras puesto que 13² = 169 y 7² + 8² = 113 (169 != 113). -->
-- [ ] D) Triángulo equilátero
+- [ ] C) Triángulo equilátero
   <!-- feedback: Incorrecto. Los tres lados tienen longitudes muy distintas. -->
 
 ### Explicacion Pedagogica
@@ -421,11 +421,11 @@ Para determinar el tipo de triángulo comparamos el cuadrado del lado mayor con 
 Si en un triángulo cualquiera trazamos la recta de Euler, ¿cuáles son los tres puntos notables que obligatoriamente pertenecen a esta recta?
 
 ### Opciones
-- [x] A) Baricentro, Ortocentro y Circuncentro
+- [x] C) Baricentro, Ortocentro y Circuncentro
   <!-- feedback: ¡Correcto! La recta de Euler pasa siempre por el baricentro, el ortocentro y el circuncentro de cualquier triángulo no equilátero. -->
-- [ ] B) Incentro, Ortocentro y Circuncentro
+- [ ] A) Incentro, Ortocentro y Circuncentro
   <!-- feedback: Incorrecto. El incentro solo pertenece a la recta de Euler en triángulos isósceles, no en general. -->
-- [ ] C) Baricentro, Incentro y Ortocentro
+- [ ] B) Baricentro, Incentro y Ortocentro
   <!-- feedback: Incorrecto. El incentro no está colineal con el baricentro y el ortocentro de forma general. -->
 - [ ] D) Circuncentro, Incentro y Baricentro
   <!-- feedback: Incorrecto. El circuncentro y baricentro están en la recta, pero el incentro no. -->
@@ -444,9 +444,9 @@ En la geometría del triángulo, la recta de Euler es una línea recta que pasa 
 Si en un triángulo cualquiera se traza una de sus medianas, ¿cuál de las siguientes afirmaciones sobre las áreas de los dos triángulos resultantes es correcta?
 
 ### Opciones
-- [x] A) Las dos áreas son exactamente iguales.
+- [x] B) Las dos áreas son exactamente iguales.
   <!-- feedback: ¡Correcto! La mediana divide al triángulo original en dos triángulos que tienen bases de igual longitud (la mitad del lado original) y comparten la misma altura. Por ende, sus áreas son idénticas (equiactivas). -->
-- [ ] B) El área del triángulo izquierdo es siempre mayor que la del derecho.
+- [ ] A) El área del triángulo izquierdo es siempre mayor que la del derecho.
   <!-- feedback: Incorrecto. Esta afirmación es falsa, las áreas son siempre iguales independientemente de la forma del triángulo. -->
 - [ ] C) La relación de sus áreas depende del tipo de triángulo analizado.
   <!-- feedback: Incorrecto. La propiedad de igual área de los triángulos subdivididos por la mediana es un teorema universal aplicable a todo triángulo. -->
@@ -467,9 +467,9 @@ Una mediana de un triángulo va desde un vértice hasta el punto medio del lado 
 En un triángulo ABC con lados a = 5 cm, b = 6 cm y c = 7 cm, se traza la bisectriz del ángulo A que corta al lado opuesto BC en el punto D. ¿Cuál es la longitud exacta del segmento BD?
 
 ### Opciones
-- [x] A) 2.69 cm
+- [x] B) 2.69 cm
   <!-- feedback: ¡Correcto! Por el teorema de la bisectriz interna, BD / DC = c / b = 7 / 6. Como BD + DC = a = 5, entonces BD = 5 * (7 / (7 + 6)) = 35 / 13 ≈ 2.69 cm. -->
-- [ ] B) 2.50 cm
+- [ ] A) 2.50 cm
   <!-- feedback: Incorrecto. Esto asumiría que la bisectriz corta el lado exactamente a la mitad, lo cual ocurre únicamente si el triángulo es isósceles con b = c. -->
 - [ ] C) 2.31 cm
   <!-- feedback: Incorrecto. Corresponde al segmento DC (5 * 6 / 13 ≈ 2.31 cm), no al BD. -->

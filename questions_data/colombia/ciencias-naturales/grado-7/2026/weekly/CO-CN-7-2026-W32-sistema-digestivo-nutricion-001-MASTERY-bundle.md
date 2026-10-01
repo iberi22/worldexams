@@ -29,13 +29,13 @@ Este bundle desarrolla el recorrido de los alimentos, la función de cada órgan
 ### Enunciado
 ¿Dónde se inicia la digestión de los alimentos en el ser humano?
 ### Opciones
-- [x] A) En la boca, donde los dientes trituran y la saliva humedece el alimento.
+- [x] D) En la boca, donde los dientes trituran y la saliva humedece el alimento.
   <!-- feedback: Correcta, porque la digestión mecánica y parte de la química empiezan en la boca. -->
-- [ ] B) En el estómago, que es el único lugar donde ocurre toda la digestión.
+- [ ] A) En el estómago, que es el único lugar donde ocurre toda la digestión.
   <!-- feedback: Incorrecta, porque el estómago es importante pero el proceso ya empezó antes en la boca. -->
-- [ ] C) En el intestino grueso, donde entra primero todo lo que se come.
+- [ ] B) En el intestino grueso, donde entra primero todo lo que se come.
   <!-- feedback: Incorrecta, porque al intestino grueso solo llegan los restos al final del recorrido. -->
-- [ ] D) En los pulmones, que muelen el alimento con el aire que respiran.
+- [ ] C) En los pulmones, que muelen el alimento con el aire que respiran.
   <!-- feedback: Incorrecta, porque los pulmones sirven para respirar y no reciben alimentos. -->
 ### Explicacion Pedagogica
 El sistema digestivo es un tubo largo donde cada parte cumple una tarea. En la boca los dientes cortan y muelen, y la saliva ablanda el bolo alimenticio. Luego pasa por el esófago hasta el estómago y los intestinos. Recordar este orden ayuda a entender dónde ocurre cada transformación.
@@ -48,9 +48,9 @@ El sistema digestivo es un tubo largo donde cada parte cumple una tarea. En la b
 ### Enunciado
 ¿Cuál es la función principal de los carbohidratos y de las proteínas en la nutrición humana?
 ### Opciones
-- [ ] A) Los carbohidratos forman los huesos y las proteínas sirven solo para dar sed.
+- [ ] B) Los carbohidratos forman los huesos y las proteínas sirven solo para dar sed.
   <!-- feedback: Incorrecta, porque los huesos se forman sobre todo con calcio y las proteínas construyen tejidos. -->
-- [x] B) Los carbohidratos aportan energía rápida y las proteínas sirven para crecer y reparar tejidos.
+- [x] A) Los carbohidratos aportan energía rápida y las proteínas sirven para crecer y reparar tejidos.
   <!-- feedback: Correcta, porque distingue la función energética de los carbohidratos y la estructural de las proteínas. -->
 - [ ] C) Ambos sirven únicamente para dar sabor y color a las comidas del recreo.
   <!-- feedback: Incorrecta, porque el sabor no es la función nutritiva de estos componentes. -->
@@ -67,9 +67,9 @@ Los carbohidratos como el arroz, la papa y el plátano dan energía para estudia
 ### Enunciado
 ¿Cómo se explica que el pan sepa más dulce después de masticarlo un buen rato?
 ### Opciones
-- [ ] A) Porque los dientes agregan azúcar al pan mientras lo muelen con fuerza.
+- [ ] B) Porque los dientes agregan azúcar al pan mientras lo muelen con fuerza.
   <!-- feedback: Incorrecta, porque los dientes solo trituran y no producen azúcar. -->
-- [x] B) Porque la saliva contiene una sustancia que empieza a transformar el almidón del pan en azúcares simples.
+- [x] A) Porque la saliva contiene una sustancia que empieza a transformar el almidón del pan en azúcares simples.
   <!-- feedback: Correcta, porque aplica la acción de la digestión química que ocurre en la boca. -->
 - [ ] C) Porque el pan absorbe el sabor dulce de la lengua sin ningún cambio químico.
   <!-- feedback: Incorrecta, porque sí hay una transformación química real del almidón. -->
@@ -105,9 +105,9 @@ El intestino delgado es muy largo y por dentro tiene millones de vellosidades qu
 ### Enunciado
 ¿Por qué el mercado variado de la familia nutre mejor que una dieta de solo paquetes y gaseosa?
 ### Opciones
-- [ ] A) Porque los paquetes son más caros y lo caro siempre nutre menos que lo barato.
+- [ ] B) Porque los paquetes son más caros y lo caro siempre nutre menos que lo barato.
   <!-- feedback: Incorrecta, porque el precio no define el valor nutritivo de un alimento. -->
-- [x] B) Porque combina energía, proteínas, vitaminas y fibra, mientras los paquetes aportan exceso de grasa, sal y azúcar sin nutrientes variados.
+- [x] A) Porque combina energía, proteínas, vitaminas y fibra, mientras los paquetes aportan exceso de grasa, sal y azúcar sin nutrientes variados.
   <!-- feedback: Correcta, porque compara la variedad nutritiva con el exceso de productos ultraprocesados. -->
 - [ ] C) Porque la gaseosa reemplaza al agua y a las frutas en todas sus funciones.
   <!-- feedback: Incorrecta, porque la gaseosa no hidrata igual ni aporta las vitaminas de la fruta. -->
@@ -124,9 +124,9 @@ Una alimentación balanceada reúne cereales, leguminosas, proteínas animales o
 ### Enunciado
 ¿Qué análisis del experimento con la leche es correcto?
 ### Opciones
-- [ ] A) El agua es el mejor digestivo porque el tubo Z se ve igual que al inicio.
+- [ ] B) El agua es el mejor digestivo porque el tubo Z se ve igual que al inicio.
   <!-- feedback: Incorrecta, porque no mostrar cambios indica que el agua no digirió la leche. -->
-- [x] B) El jugo gástrico simulado produjo la digestión, y los tubos X y Z sirven como comparación que lo confirma.
+- [x] A) El jugo gástrico simulado produjo la digestión, y los tubos X y Z sirven como comparación que lo confirma.
   <!-- feedback: Correcta, porque interpreta el control y el efecto del tratamiento ácido sobre las proteínas. -->
 - [ ] C) Los tres tubos digieren igual porque todos contienen leche desde el inicio.
   <!-- feedback: Incorrecta, porque solo el tubo con jugo gástrico cambió de forma visible. -->
@@ -143,9 +143,9 @@ El estómago produce un líquido ácido que deshace las proteínas y activa su d
 ### Enunciado
 ¿Qué relación hay entre sus hábitos al comer y los síntomas que presenta?
 ### Opciones
-- [ ] A) No hay relación, porque masticar y la fibra nunca afectan la digestión de nadie.
+- [ ] B) No hay relación, porque masticar y la fibra nunca afectan la digestión de nadie.
   <!-- feedback: Incorrecta, porque la masticación y la fibra sí facilitan el tránsito intestinal. -->
-- [x] B) Comer sin masticar sobrecarga al estómago y la falta de fibra y agua endurece las heces y dificulta su salida.
+- [x] A) Comer sin masticar sobrecarga al estómago y la falta de fibra y agua endurece las heces y dificulta su salida.
   <!-- feedback: Correcta, porque conecta cada hábito con su efecto digestivo correspondiente. -->
 - [ ] C) El dolor ocurre porque el agua y las verduras dañan el estómago de los niños.
   <!-- feedback: Incorrecta, porque el agua y la fibra protegen la digestión en vez de dañarla. -->
@@ -164,11 +164,11 @@ Masticar bien reduce el tamaño del bolo y mezcla la saliva, lo que alivia el tr
 ### Opciones
 - [ ] A) La lonchera X es mejor porque el azúcar da energía infinita sin ningún efecto negativo.
   <!-- feedback: Incorrecta, porque el exceso de azúcar se asocia con caries, sobrepeso y bajones de energía. -->
-- [x] B) La lonchera Y es mejor porque combina agua, energía, calcio, proteínas y vitaminas en porciones adecuadas.
+- [x] D) La lonchera Y es mejor porque combina agua, energía, calcio, proteínas y vitaminas en porciones adecuadas.
   <!-- feedback: Correcta, porque analiza el aporte equilibrado frente al exceso de azúcar y grasa. -->
-- [ ] C) Ambas son idénticas porque todo lo que viene en paquete nutre exactamente igual.
+- [ ] B) Ambas son idénticas porque todo lo que viene en paquete nutre exactamente igual.
   <!-- feedback: Incorrecta, porque la composición de cada lonchera es muy distinta en nutrientes. -->
-- [ ] D) Ninguna sirve porque en el colegio está prohibido comer a cualquier hora.
+- [ ] C) Ninguna sirve porque en el colegio está prohibido comer a cualquier hora.
   <!-- feedback: Incorrecta, porque el refrigerio escolar es necesario y lo que importa es su calidad. -->
 ### Explicacion Pedagogica
 Analizar una lonchera es revisar sus grupos de alimentos: bebida, fruta, proteína y energía. La lonchera Y hidrata con agua y aporta nutrientes para huesos y músculos. La lonchera X concentra azúcar, sal y grasa, que en exceso enferman. Elegir bien el refrigerio diario marca la diferencia en el crecimiento.
@@ -183,9 +183,9 @@ Campaña 1: cambiar el entorno para comer mejor cada día. Campaña 2: compensar
 ### Opciones
 - [ ] A) Ambas son iguales porque una pastilla reemplaza por completo una alimentación variada.
   <!-- feedback: Incorrecta, porque ningún suplemento reproduce la fibra y la variedad de una dieta real. -->
-- [x] B) La campaña 1 es mejor porque crea un hábito diario saludable, y la campaña 2 falla porque mantiene el exceso de azúcar y grasa.
+- [x] C) La campaña 1 es mejor porque crea un hábito diario saludable, y la campaña 2 falla porque mantiene el exceso de azúcar y grasa.
   <!-- feedback: Correcta, porque evalúa el cambio de hábito sostenido frente al atajo sin efecto real. -->
-- [ ] C) La campaña 2 es mejor porque las pastillas eliminan la necesidad de tomar agua.
+- [ ] B) La campaña 2 es mejor porque las pastillas eliminan la necesidad de tomar agua.
   <!-- feedback: Incorrecta, porque el agua es insustituible para la digestión y la hidratación. -->
 - [ ] D) Ninguna sirve porque la alimentación de los estudiantes ya no puede mejorar.
   <!-- feedback: Incorrecta, porque cambiar la oferta de la tienda sí mejora lo que comen cada día. -->
@@ -202,9 +202,9 @@ Afirmación 1: el intestino delgado es innecesario. Afirmación 2: sin absorció
 ### Opciones
 - [ ] A) La primera es verdadera porque la digestión termina en el estómago y nada más se necesita.
   <!-- feedback: Incorrecta, porque en el estómago la digestión queda incompleta y la absorción principal falta. -->
-- [ ] B) Ambas son falsas porque el cuerpo fabrica alimentos solo con respirar aire puro.
+- [ ] C) Ambas son falsas porque el cuerpo fabrica alimentos solo con respirar aire puro.
   <!-- feedback: Incorrecta, porque respirar aporta oxígeno pero no los nutrientes que vienen de la comida. -->
-- [x] C) La primera es falsa y la segunda es verdadera, porque los nutrientes deben pasar a la sangre para alimentar cada célula.
+- [x] B) La primera es falsa y la segunda es verdadera, porque los nutrientes deben pasar a la sangre para alimentar cada célula.
   <!-- feedback: Correcta, porque juzga cada afirmación con la función real de la absorción intestinal. -->
 - [ ] D) Ambas son verdaderas porque el cuerpo puede elegir cualquiera de las dos opciones cada día.
   <!-- feedback: Incorrecta, porque dos afirmaciones opuestas no pueden ser verdaderas al mismo tiempo. -->

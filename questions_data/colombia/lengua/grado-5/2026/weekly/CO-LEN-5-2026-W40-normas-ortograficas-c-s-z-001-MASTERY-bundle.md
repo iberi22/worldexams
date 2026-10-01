@@ -30,13 +30,13 @@ Aprende cuándo se escribe c, s o z y mejora la ortografía de tus textos.
 ### Enunciado
 ¿Cuál de estas palabras está escrita correctamente con c?
 ### Opciones
-- [x] A) canción
+- [x] D) canción
   <!-- feedback: Es correcta porque las palabras terminadas en "-ción" se escriben con c. -->
-- [ ] B) cansión
+- [ ] A) cansión
   <!-- feedback: Es incorrecta porque la terminación "-sión" no corresponde a esta palabra. -->
-- [ ] C) canzión
+- [ ] B) canzión
   <!-- feedback: Es incorrecta porque la terminación "-zión" no existe en español. -->
-- [ ] D) cansiónn
+- [ ] C) cansiónn
   <!-- feedback: Es incorrecta porque duplica la letra final innecesariamente. -->
 ### Explicacion Pedagogica
 Una de las reglas básicas de ortografía indica que muchas palabras terminadas en "-ción" se escriben con c, como canción, lección o educación. Recordar esta terminación evita confusiones frecuentes al escribir.
@@ -50,13 +50,13 @@ Una de las reglas básicas de ortografía indica que muchas palabras terminadas 
 ### Enunciado
 ¿Cuál es el plural correcto de la palabra "pez"?
 ### Opciones
-- [x] A) peces
+- [x] D) peces
   <!-- feedback: Es correcta porque las palabras terminadas en z forman el plural en "-ces". -->
-- [ ] B) pezes
+- [ ] A) pezes
   <!-- feedback: Es incorrecta porque la z final cambia a c en el plural, no se conserva. -->
-- [ ] C) pezs
+- [ ] B) pezs
   <!-- feedback: Es incorrecta porque no se agrega s directamente después de la z. -->
-- [ ] D) pecs
+- [ ] C) pecs
   <!-- feedback: Es incorrecta porque falta la vocal e antes de la c del plural. -->
 ### Explicacion Pedagogica
 Las palabras que terminan en z cambian esa letra por c al formar el plural: pez y peces, lápiz y lápices, luz y luces. Comprender esta regla permite escribir correctamente el número de los sustantivos.
@@ -70,11 +70,11 @@ Las palabras que terminan en z cambian esa letra por c al formar el plural: pez 
 ### Enunciado
 ¿Cuál palabra está escrita correctamente?
 ### Opciones
-- [x] A) educación
+- [x] C) educación
   <!-- feedback: Es correcta porque la terminación "-ción" se escribe con c. -->
-- [ ] B) educasión
+- [ ] A) educasión
   <!-- feedback: Es incorrecta porque esta terminación se escribe con c y no con s. -->
-- [ ] C) educazión
+- [ ] B) educazión
   <!-- feedback: Es incorrecta porque la terminación "-zión" no existe en español. -->
 - [ ] D) educacción
   <!-- feedback: Es incorrecta porque duplica la c antes de la terminación. -->
@@ -90,11 +90,11 @@ Aplicar la regla de la terminación "-ción" permite escribir bien palabras como
 ### Enunciado
 ¿Cuál palabra terminada en "-oso" está bien escrita?
 ### Opciones
-- [x] A) cariñoso
+- [x] C) cariñoso
   <!-- feedback: Es correcta porque la terminación "-oso" se escribe con s. -->
-- [ ] B) cariñozo
+- [ ] A) cariñozo
   <!-- feedback: Es incorrecta porque la terminación "-oso" nunca se escribe con z. -->
-- [ ] C) cariñoco
+- [ ] B) cariñoco
   <!-- feedback: Es incorrecta porque la terminación "-oso" no se escribe con c. -->
 - [ ] D) cariñosso
   <!-- feedback: Es incorrecta porque no debe duplicarse la s en la terminación. -->
@@ -130,13 +130,13 @@ Los sustantivos abstractos terminados en "-eza" se escriben con z, como tristeza
 ### Enunciado
 Al analizar las opciones, ¿cuál oración está escrita correctamente?
 ### Opciones
-- [x] A) La actuación del grupo fue una gran sorpresa.
+- [x] D) La actuación del grupo fue una gran sorpresa.
   <!-- feedback: Es correcta porque "actuación" va con c y "sorpresa" con s. -->
-- [ ] B) La actuasión del grupo fue una gran sorpresa.
+- [ ] A) La actuasión del grupo fue una gran sorpresa.
   <!-- feedback: Es incorrecta porque "actuación" se escribe con c, no con s. -->
-- [ ] C) La actuazión del grupo fue una gran sorpreza.
+- [ ] B) La actuazión del grupo fue una gran sorpreza.
   <!-- feedback: Es incorrecta porque cambia dos terminaciones que se escriben con c y con s. -->
-- [ ] D) La actuaccion del grupo fue una gran sorpreza.
+- [ ] C) La actuaccion del grupo fue una gran sorpreza.
   <!-- feedback: Es incorrecta porque duplica la c y cambia la s de "sorpresa". -->
 ### Explicacion Pedagogica
 Analizar la ortografía de una oración exige revisar sus terminaciones: "-ción" con c y "-esa" con s. Este repaso final asegura que un texto público, como un aviso, se entienda y se lea con seriedad.
@@ -150,9 +150,9 @@ Analizar la ortografía de una oración exige revisar sus terminaciones: "-ción
 ### Enunciado
 ¿Por qué se corrigió la palabra "roza" en esa oración?
 ### Opciones
-- [x] A) Porque la flor se escribe "rosa" con s.
+- [x] B) Porque la flor se escribe "rosa" con s.
   <!-- feedback: Es correcta porque "rosa" con s nombra la flor y no la acción de rozar. -->
-- [ ] B) Porque toda palabra con z es incorrecta.
+- [ ] A) Porque toda palabra con z es incorrecta.
   <!-- feedback: Es incorrecta porque muchas palabras se escriben con z, como tristeza o pez. -->
 - [ ] C) Porque "roza" no existe en español.
   <!-- feedback: Es incorrecta porque "roza" existe, pero nombra otra cosa distinta de la flor. -->
@@ -170,9 +170,9 @@ Analizar el contexto permite elegir entre palabras que suenan igual pero se escr
 ### Enunciado
 ¿Cuál texto está mejor escrito?
 ### Opciones
-- [x] A) La belleza del mar nos da alegría y nos invita a cuidar el agua con educación.
+- [x] B) La belleza del mar nos da alegría y nos invita a cuidar el agua con educación.
   <!-- feedback: Es correcta porque "belleza" va con z, "alegría" con g y "educación" con c, según las normas. -->
-- [ ] B) La belleza del mar nos da alegria y nos invita a cuidar el agua con educasión.
+- [ ] A) La belleza del mar nos da alegria y nos invita a cuidar el agua con educasión.
   <!-- feedback: Es incorrecta porque le falta la tilde a "alegría" y cambia la c de "educación". -->
 - [ ] C) La belleza del mar nos da alegría y nos invita a cuidar el agua con educazión.
   <!-- feedback: Es incorrecta porque la terminación de "educación" se escribe con c. -->

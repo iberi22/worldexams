@@ -57,9 +57,9 @@ Identifying basic school subjects by their main content in English (math, art, s
 Why does Sofia like science class?
 
 ### Opciones
-- [x] A) Because she learns about plants and animals.
+- [x] B) Because she learns about plants and animals.
   <!-- feedback: The text directly says she learns about plants and animals in science. -->
-- [ ] B) Because she draws pictures with colors.
+- [ ] A) Because she draws pictures with colors.
   <!-- feedback: Drawing pictures is part of art class, not science. -->
 - [ ] C) Because she plays soccer with her friends.
   <!-- feedback: Playing soccer is part of physical education, not science. -->
@@ -80,11 +80,11 @@ Understanding the reason a student likes a subject from a short text in English.
 Which sentence correctly uses a preposition of time with days of the week?
 
 ### Opciones
-- [x] A) We have math class on Wednesday.
+- [x] C) We have math class on Wednesday.
   <!-- feedback: The preposition "on" is used before days of the week in English. -->
-- [ ] B) We have math class in Wednesday.
+- [ ] A) We have math class in Wednesday.
   <!-- feedback: "In" is used with months and years, not with days of the week. -->
-- [ ] C) We have math class at Wednesday.
+- [ ] B) We have math class at Wednesday.
   <!-- feedback: "At" is used with clock times, not with days of the week. -->
 - [ ] D) We have math class to Wednesday.
   <!-- feedback: "To" is not a preposition of time for days of the week. -->
@@ -103,11 +103,11 @@ Using the correct preposition of time with days of the week in English. / Usar l
 Which question correctly matches this answer about school subjects?
 
 ### Opciones
-- [x] A) What is your favorite subject?
+- [x] C) What is your favorite subject?
   <!-- feedback: The answer names a favorite subject, so this question fits perfectly. -->
-- [ ] B) What time do you have lunch?
+- [ ] A) What time do you have lunch?
   <!-- feedback: The answer does not talk about lunch or any time of day. -->
-- [ ] C) How many brothers do you have?
+- [ ] B) How many brothers do you have?
   <!-- feedback: The answer does not talk about family members. -->
 - [ ] D) Where do you live?
   <!-- feedback: The answer does not mention a home or an address. -->
@@ -126,11 +126,11 @@ Matching questions with answers about school subjects in English. / Relacionar p
 Which sentence correctly describes the schedule?
 
 ### Opciones
-- [x] A) She has science class on Tuesday at 8:00.
+- [x] C) She has science class on Tuesday at 8:00.
   <!-- feedback: The schedule shows science on Tuesday at 8:00. -->
-- [ ] B) She has art class on Monday at 7:00.
+- [ ] A) She has art class on Monday at 7:00.
   <!-- feedback: The schedule shows math on Monday at 7:00, not art. -->
-- [ ] C) She has math class on Wednesday at 9:00.
+- [ ] B) She has math class on Wednesday at 9:00.
   <!-- feedback: The schedule shows art on Wednesday at 9:00, not math. -->
 - [ ] D) She has science class on Friday at 10:00.
   <!-- feedback: Friday is not in the schedule, and science is on Tuesday. -->
@@ -149,11 +149,11 @@ Reading a simple class schedule and using days and times correctly in English. /
 On which day does Andres have both math and science class?
 
 ### Opciones
-- [x] A) On Monday.
+- [x] C) On Monday.
   <!-- feedback: Math is every day, and science is on Monday, so both happen on Monday. -->
-- [ ] B) On Tuesday.
+- [ ] A) On Tuesday.
   <!-- feedback: Science is not on Tuesday; Andres has art class that day. -->
-- [ ] C) On Thursday.
+- [ ] B) On Thursday.
   <!-- feedback: Science is not on Thursday, so he only has math that day. -->
 - [ ] D) On Sunday.
   <!-- feedback: There is no class on Sunday, so no subject is scheduled. -->
@@ -172,13 +172,13 @@ Analyzing schedule information to find when two subjects happen on the same day.
 Which comparison correctly explains why Valentina practices more English than Mateo?
 
 ### Opciones
-- [x] A) Valentina has more English classes and practices at home.
+- [x] D) Valentina has more English classes and practices at home.
   <!-- feedback: Her extra classes and home practice explain her greater practice. -->
-- [ ] B) Mateo has five English classes and practices at home.
+- [ ] A) Mateo has five English classes and practices at home.
   <!-- feedback: The text says Mateo has only two classes, not five. -->
-- [ ] C) Valentina has fewer English classes than Mateo.
+- [ ] B) Valentina has fewer English classes than Mateo.
   <!-- feedback: The text says Valentina has more classes than Mateo. -->
-- [ ] D) Neither Valentina nor Mateo studies English.
+- [ ] C) Neither Valentina nor Mateo studies English.
   <!-- feedback: Both students have English classes, according to the text. -->
 
 ### Explicacion Pedagogica

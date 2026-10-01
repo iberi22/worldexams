@@ -34,13 +34,13 @@ Trabalenguas y juegos de palabras colombianos: ritmo, rima y significado.
 ¿Qué es un trabalenguas?
 
 ### Opciones
-- [x] A) Un texto breve con sonidos parecidos que se repiten y dificultan la pronunciación.
+- [x] D) Un texto breve con sonidos parecidos que se repiten y dificultan la pronunciación.
   <!-- feedback: El trabalenguas repite sonidos similares para poner a prueba la dicción. -->
-- [ ] B) Un cuento largo con muchos personajes y capítulos.
+- [ ] A) Un cuento largo con muchos personajes y capítulos.
   <!-- feedback: Un cuento largo no es un trabalenguas; su extensión y estructura son distintas. -->
-- [ ] C) Una noticia sobre deportes internacionales.
+- [ ] B) Una noticia sobre deportes internacionales.
   <!-- feedback: La noticia informa hechos reales y no busca dificultar la pronunciación. -->
-- [ ] D) Una receta de cocina con ingredientes y pasos.
+- [ ] C) Una receta de cocina con ingredientes y pasos.
   <!-- feedback: La receta indica cómo preparar un plato, no juega con los sonidos. -->
 
 ### Explicacion Pedagogica
@@ -57,11 +57,11 @@ Reconocer las características básicas de un trabalenguas y su función con los
 ¿Cuál es el propósito principal de los juegos de palabras?
 
 ### Opciones
-- [x] A) Entretener y explorar los sonidos y significados del lenguaje.
+- [x] C) Entretener y explorar los sonidos y significados del lenguaje.
   <!-- feedback: Los juegos de palabras combinan diversión con exploración del lenguaje. -->
-- [ ] B) Informar sobre el clima de una región.
+- [ ] A) Informar sobre el clima de una región.
   <!-- feedback: El pronóstico del clima no es un juego de palabras. -->
-- [ ] C) Ordenar pasos para armar un mueble.
+- [ ] B) Ordenar pasos para armar un mueble.
   <!-- feedback: Las instrucciones de armado no buscan el doble sentido ni el ritmo. -->
 - [ ] D) Registrar datos de un experimento científico.
   <!-- feedback: Un registro científico usa lenguaje preciso, no juegos de palabras. -->
@@ -103,11 +103,11 @@ Aplicar el reconocimiento de la repetición de sonidos como recurso del trabalen
 ¿Cuál oración funciona mejor como trabalenguas?
 
 ### Opciones
-- [x] A) "El perro de Ramón corre rápido por el río y rodó."
+- [x] C) "El perro de Ramón corre rápido por el río y rodó."
   <!-- feedback: Repite el sonido de la "r" en varias palabras seguidas, como pide un trabalenguas. -->
-- [ ] B) "El gato duerme tranquilo sobre el sofá."
+- [ ] A) "El gato duerme tranquilo sobre el sofá."
   <!-- feedback: No hay repetición de sonidos que dificulte la pronunciación. -->
-- [ ] C) "La suma de tres más cuatro es igual a siete."
+- [ ] B) "La suma de tres más cuatro es igual a siete."
   <!-- feedback: Es una operación matemática, no un juego con sonidos. -->
 - [ ] D) "Mañana iremos al parque con nuestros abuelos."
   <!-- feedback: La oración es clara y sin sonidos repetidos que la vuelvan difícil. -->
@@ -126,13 +126,13 @@ Aplicar la repetición de sonidos al crear un trabalenguas propio.
 ¿Cómo se puede mejorar la pronunciación de un trabalenguas?
 
 ### Opciones
-- [x] A) Practicando lentamente y aumentando la velocidad poco a poco.
+- [x] D) Practicando lentamente y aumentando la velocidad poco a poco.
   <!-- feedback: La práctica gradual permite dominar los sonidos difíciles antes de acelerar. -->
-- [ ] B) Leyéndolo una sola vez muy rápido sin revisar.
+- [ ] A) Leyéndolo una sola vez muy rápido sin revisar.
   <!-- feedback: Leer rápido sin práctica aumenta los errores de pronunciación. -->
-- [ ] C) Cambiando todas las palabras por números.
+- [ ] B) Cambiando todas las palabras por números.
   <!-- feedback: Sustituir palabras por números elimina los sonidos que se quieren practicar. -->
-- [ ] D) Evitando repetir cualquier sonido parecido.
+- [ ] C) Evitando repetir cualquier sonido parecido.
   <!-- feedback: Evitar la repetición quita lo esencial del trabalenguas. -->
 
 ### Explicacion Pedagogica
@@ -195,11 +195,11 @@ Analizar el doble sentido como recurso central de los juegos de palabras.
 ¿Por qué es valioso practicar trabalenguas y juegos de palabras en la escuela?
 
 ### Opciones
-- [x] A) Porque mejoran la dicción, la conciencia de los sonidos y la creatividad con el lenguaje.
+- [x] C) Porque mejoran la dicción, la conciencia de los sonidos y la creatividad con el lenguaje.
   <!-- feedback: Estas prácticas fortalecen la expresión oral y la relación con los sonidos. -->
-- [ ] B) Porque no aportan ningún beneficio al desarrollo del lenguaje.
+- [ ] A) Porque no aportan ningún beneficio al desarrollo del lenguaje.
   <!-- feedback: Sí aportan beneficios claros a la dicción y a la creatividad. -->
-- [ ] C) Porque reemplazan por completo la lectura de libros.
+- [ ] B) Porque reemplazan por completo la lectura de libros.
   <!-- feedback: Complementan la lectura, pero no la reemplazan. -->
 - [ ] D) Porque solo sirven para competir sin aprender nada.
   <!-- feedback: La competencia es una excusa lúdica; siempre hay aprendizaje. -->

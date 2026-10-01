@@ -34,9 +34,9 @@ Este bundle contiene 20 preguntas sobre **Coordenadas Polares** para grado 11, a
 ¿Cuáles son las coordenadas rectangulares $(x, y)$?
 
 ### Opciones
-- [x] A) $(2, 2\sqrt{3})$
+- [x] B) $(2, 2\sqrt{3})$
   <!-- feedback: Correcto. $x = 4 \cos(\pi/3) = 4(1/2) = 2$, $y = 4 \sin(\pi/3) = 4(\sqrt{3}/2) = 2\sqrt{3}$. -->
-- [ ] B) $(2\sqrt{3}, 2)$
+- [ ] A) $(2\sqrt{3}, 2)$
   <!-- feedback: Incorrecto. Se invirtieron las funciones coseno y seno. -->
 - [ ] C) $(4, 4\sqrt{3})$
   <!-- feedback: Incorrecto. Se omitió dividir entre 2 los valores trigonométricos. -->
@@ -57,9 +57,9 @@ $x = r \cos(\theta) = 4 \cos(60^\circ) = 2$. $y = r \sin(\theta) = 4 \sin(60^\ci
 ¿Cuáles son sus coordenadas polares $(r, \theta)$?
 
 ### Opciones
-- [x] A) $(3\sqrt{2}, \frac{3\pi}{4})$
+- [x] B) $(3\sqrt{2}, \frac{3\pi}{4})$
   <!-- feedback: Correcto. $r = \sqrt{(-3)^2 + 3^2} = \sqrt{18} = 3\sqrt{2}$. En el cuadrante II, $\theta = \pi - \arctan(1) = \frac{3\pi}{4}$. -->
-- [ ] B) $(18, \frac{\pi}{4})$
+- [ ] A) $(18, \frac{\pi}{4})$
   <!-- feedback: Incorrecto. No se sacó raíz a $r^2=18$ y se usó el cuadrante I. -->
 - [ ] C) $(3\sqrt{2}, \frac{\pi}{4})$
   <!-- feedback: Incorrecto. Se ubicó el ángulo en el primer cuadrante. -->
@@ -80,9 +80,9 @@ $r = \sqrt{9+9} = 3\sqrt{2}$. Como $x < 0$ y $y > 0$, el punto está en el segun
 ¿Qué figura geométrica representa en el plano cartesiano y cuál es su ecuación rectangular?
 
 ### Opciones
-- [x] A) Una circunferencia centrada en el origen de ecuación $x^2 + y^2 = 25$
+- [x] B) Una circunferencia centrada en el origen de ecuación $x^2 + y^2 = 25$
   <!-- feedback: Correcto. $r = 5 \implies r^2 = 25 \implies x^2 + y^2 = 25$. -->
-- [ ] B) Una recta vertical de ecuación $x = 5$
+- [ ] A) Una recta vertical de ecuación $x = 5$
   <!-- feedback: Incorrecto. Una recta vertical es $r = 5\sec(\theta)$. -->
 - [ ] C) Una recta horizontal de ecuación $y = 5$
   <!-- feedback: Incorrecto. Una recta horizontal es $r = 5\csc(\theta)$. -->
@@ -103,13 +103,13 @@ Como $r = \sqrt{x^2+y^2}$, elevar al cuadrado la constante $r=5$ da $x^2+y^2=25$
 ¿Cuál es la ecuación polar de esta recta?
 
 ### Opciones
-- [x] A) $\tan(\theta) = 2$ (o $\theta = \arctan(2)$)
+- [x] D) $\tan(\theta) = 2$ (o $\theta = \arctan(2)$)
   <!-- feedback: Correcto. Sustituyendo $y = r\sin\theta$ y $x = r\cos\theta$: $r\sin\theta = 2r\cos\theta \implies \frac{\sin\theta}{\cos\theta} = 2 \implies \tan\theta = 2$. -->
-- [ ] B) $r = 2\cos(\theta)$
+- [ ] A) $r = 2\cos(\theta)$
   <!-- feedback: Incorrecto. Esta ecuación representa una circunferencia. -->
-- [ ] C) $r = 2\tan(\theta)$
+- [ ] B) $r = 2\tan(\theta)$
   <!-- feedback: Incorrecto. No se simplificó el radio $r$. -->
-- [ ] D) $\theta = 2r$
+- [ ] C) $\theta = 2r$
   <!-- feedback: Incorrecto. La recta que pasa por el origen tiene ángulo constante, independiente de $r$. -->
 
 ### Explicacion Pedagogica
@@ -126,9 +126,9 @@ Para rectas que pasan por el origen $y = mx$, en polares la expresión es $\tan(
 ¿Cuál es el valor máximo del radio $r$ y en qué ángulo $\theta$ ocurre?
 
 ### Opciones
-- [x] A) $r_{máx} = 4$ en $\theta = 0$
+- [x] B) $r_{máx} = 4$ en $\theta = 0$
   <!-- feedback: Correcto. El máximo de $\cos(\theta)$ es $1$ en $\theta = 0$. $r = 2(1 + 1) = 4$. -->
-- [ ] B) $r_{máx} = 2$ en $\theta = \pi/2$
+- [ ] A) $r_{máx} = 2$ en $\theta = \pi/2$
   <!-- feedback: Incorrecto. En $\pi/2$, $\cos(\pi/2)=0 \implies r=2$. -->
 - [ ] C) $r_{máx} = 0$ en $\theta = \pi$
   <!-- feedback: Incorrecto. En $\pi$, $\cos(\pi)=-1 \implies r=0$, que es el valor mínimo. -->
@@ -149,13 +149,13 @@ $r(\theta) = 2(1 + \cos\theta)$ alcanza su valor máximo cuando $\cos\theta = 1 
 Para el círculo de radio $R$, $r = R$ en $[0, 2\pi]$, ¿se verifica el área del círculo?
 
 ### Opciones
-- [x] A) Sí, $A = \frac{1}{2} \int_0^{2\pi} R^2 d\theta = \frac{R^2}{2} (2\pi) = \pi R^2$.
+- [x] D) Sí, $A = \frac{1}{2} \int_0^{2\pi} R^2 d\theta = \frac{R^2}{2} (2\pi) = \pi R^2$.
   <!-- feedback: Correcto. Aplica la fórmula integral polar confirmando la conocida superficie $\pi R^2$. -->
-- [ ] B) No, da $2\pi R^2$ por falta de dividir entre 2.
+- [ ] A) No, da $2\pi R^2$ por falta de dividir entre 2.
   <!-- feedback: Incorrecto. La fórmula polar incluye el factor $1/2$. -->
-- [ ] C) No, da $\frac{1}{2}\pi R^2$.
+- [ ] B) No, da $\frac{1}{2}\pi R^2$.
   <!-- feedback: Incorrecto. Se integró en $[0, \pi]$ en lugar de $[0, 2\pi]$. -->
-- [ ] D) No se puede aplicar a circunferencias.
+- [ ] C) No se puede aplicar a circunferencias.
   <!-- feedback: Incorrecto. La fórmula de área en polares aplica a cualquier región de contorno $r(\theta)$. -->
 
 ### Explicacion Pedagogica
@@ -218,9 +218,9 @@ Regla de las rosas polares $r = a \cos(n\theta)$: si $n$ es par, la rosa tiene $
 ¿Cuál es el área de un pétalo?
 
 ### Opciones
-- [x] A) $\frac{\pi}{2}$
+- [x] B) $\frac{\pi}{2}$
   <!-- feedback: Correcto. $A = \frac{1}{2} \int_{-\pi/4}^{\pi/4} 4\cos^2(2\theta) d\theta = 2 \int_{-\pi/4}^{\pi/4} \frac{1+\cos(4\theta)}{2} d\theta = \int_{-\pi/4}^{\pi/4} (1+\cos(4\theta)) d\theta = \frac{\pi}{2}$. -->
-- [ ] B) $\pi$
+- [ ] A) $\pi$
   <!-- feedback: Incorrecto. Se omitió dividir entre 2 al integrar la identidad. -->
 - [ ] C) $2\pi$
   <!-- feedback: Incorrecto. Corresponde al área total de los 4 pétalos juntos. -->
@@ -241,13 +241,13 @@ Regla de las rosas polares $r = a \cos(n\theta)$: si $n$ es par, la rosa tiene $
 ¿Qué sucede con el radio $r$ a medida que $\theta$ aumenta infinitamente?
 
 ### Opciones
-- [x] A) El radio $r$ crece de forma lineal ilimitadamente a medida que se dan vueltas.
+- [x] D) El radio $r$ crece de forma lineal ilimitadamente a medida que se dan vueltas.
   <!-- feedback: Correcto. $r = \theta$, por ende crece de manera directamente proporcional al ángulo girado. -->
-- [ ] B) El radio $r$ oscila entre $-1$ y $1$.
+- [ ] A) El radio $r$ oscila entre $-1$ y $1$.
   <!-- feedback: Incorrecto. $r = \theta$ no es una función trigonométrica oscilante. -->
-- [ ] C) El radio $r$ se aproxima asintóticamente a 1.
+- [ ] B) El radio $r$ se aproxima asintóticamente a 1.
   <!-- feedback: Incorrecto. No se estabiliza. -->
-- [ ] D) El gráfico colapsa en el origen.
+- [ ] C) El gráfico colapsa en el origen.
   <!-- feedback: Incorrecto. Al crecer $\theta$, la curva se aleja del polo. -->
 
 ### Explicacion Pedagogica
@@ -264,11 +264,11 @@ En la Espiral de Arquímedes $r = a\theta$, la distancia al origen $r$ es propor
 ¿Para qué ángulos $\theta \in [0, 2\pi)$ se cruzan ambas curvas?
 
 ### Opciones
-- [x] A) $\theta = \frac{\pi}{3}$ y $\theta = \frac{5\pi}{3}$
+- [x] C) $\theta = \frac{\pi}{3}$ y $\theta = \frac{5\pi}{3}$
   <!-- feedback: Correcto. $4\cos\theta = 2 \implies \cos\theta = 1/2 \implies \theta = \pi/3, 5\pi/3$. -->
-- [ ] B) $\theta = \frac{\pi}{6}$ y $\theta = \frac{11\pi}{6}$
+- [ ] A) $\theta = \frac{\pi}{6}$ y $\theta = \frac{11\pi}{6}$
   <!-- feedback: Incorrecto. $\cos(\pi/6) = \sqrt{3}/2 \neq 1/2$. -->
-- [ ] C) $\theta = \frac{\pi}{2}$ y $\theta = \frac{3\pi}{2}$
+- [ ] B) $\theta = \frac{\pi}{2}$ y $\theta = \frac{3\pi}{2}$
   <!-- feedback: Incorrecto. $\cos(\pi/2) = 0 \implies r=0 \neq 2$. -->
 - [ ] D) $\theta = 0$ y $\theta = \pi$
   <!-- feedback: Incorrecto. $\cos(0)=1 \implies r=4 \neq 2$. -->
@@ -287,9 +287,9 @@ Igualando los radios: $4\cos\theta = 2 \implies \cos\theta = 1/2$. En $[0, 2\pi)
 Usando $x = r\cos\theta$ y $y = r\sin\theta$, ¿cuál es la fórmula de $\frac{dy}{dx}$ en función de $\theta$?
 
 ### Opciones
-- [x] A) $\frac{dy}{dx} = \frac{r'(\theta)\sin\theta + r(\theta)\cos\theta}{r'(\theta)\cos\theta - r(\theta)\sin\theta}$
+- [x] B) $\frac{dy}{dx} = \frac{r'(\theta)\sin\theta + r(\theta)\cos\theta}{r'(\theta)\cos\theta - r(\theta)\sin\theta}$
   <!-- feedback: Correcto. Por la regla de la cadena $\frac{dy/d\theta}{dx/d\theta}$ derivando los productos $x(\theta)$ y $y(\theta)$. -->
-- [ ] B) $\frac{dy}{dx} = \frac{r'(\theta)}{r(\theta)}$
+- [ ] A) $\frac{dy}{dx} = \frac{r'(\theta)}{r(\theta)}$
   <!-- feedback: Incorrecto. Omite la dependencia trigonométrica de los ejes rectangulares. -->
 - [ ] C) $\frac{dy}{dx} = \tan(\theta)$
   <!-- feedback: Incorrecto. Válido únicamente si $r'(\theta) = 0$ y en casos particulares. -->
@@ -310,9 +310,9 @@ Derivando $y = r(\theta)\sin\theta$ y $x = r(\theta)\cos\theta$ respecto a $\the
 ¿Cuál es la fórmula integral correcta para la longitud de arco en coordenadas polares?
 
 ### Opciones
-- [x] A) $L = \int_a^b \sqrt{r^2 + \left(\frac{dr}{d\theta}\right)^2} d\theta$
+- [x] B) $L = \int_a^b \sqrt{r^2 + \left(\frac{dr}{d\theta}\right)^2} d\theta$
   <!-- feedback: Correcto. Derivada de $(dx)^2 + (dy)^2 = (dr)^2 + r^2(d\theta)^2$. -->
-- [ ] B) $L = \int_a^b \sqrt{1 + r^2} d\theta$
+- [ ] A) $L = \int_a^b \sqrt{1 + r^2} d\theta$
   <!-- feedback: Incorrecto. Esta no toma en cuenta la tasa de cambio $dr/d\theta$. -->
 - [ ] C) $L = \int_a^b r d\theta$
   <!-- feedback: Incorrecto. Es únicamente la longitud de arco para un círculo de radio constante. -->
@@ -333,13 +333,13 @@ En polares, el elemento diferencial de arco es $ds = \sqrt{r^2 + (r')^2} d\theta
 ¿Cuál es la representación polar con $r > 0$?
 
 ### Opciones
-- [x] A) $(5, \frac{3\pi}{2})$
+- [x] D) $(5, \frac{3\pi}{2})$
   <!-- feedback: Correcto. $r = \sqrt{0^2 + (-5)^2} = 5$. El eje $-y$ corresponde al ángulo $\theta = \frac{3\pi}{2}$. -->
-- [ ] B) $(5, \frac{\pi}{2})$
+- [ ] A) $(5, \frac{\pi}{2})$
   <!-- feedback: Incorrecto. Corresponde al punto $(0, 5)$ en el eje $+y$. -->
-- [ ] C) $(-5, \frac{3\pi}{2})$
+- [ ] B) $(-5, \frac{3\pi}{2})$
   <!-- feedback: Incorrecto. Usar $r=-5$ apuntaría hacia el eje $+y$. -->
-- [ ] D) $(5, \pi)$
+- [ ] C) $(5, \pi)$
   <!-- feedback: Incorrecto. Corresponde al punto $(-5, 0)$ en el eje $-x$. -->
 
 ### Explicacion Pedagogica
@@ -379,11 +379,11 @@ La longitud total de la cardioide estándar $r = a(1+\cos\theta)$ es $8a$. Para 
 ¿Qué figura representa esta ecuación y a qué distancia mínima pasa del origen?
 
 ### Opciones
-- [x] A) Una recta cuya distancia perpendicular mínima al origen es 2.
+- [x] C) Una recta cuya distancia perpendicular mínima al origen es 2.
   <!-- feedback: Correcto. La forma $r \cos(\theta - \theta_0) = p$ es la ecuación polar de una recta a distancia $p$ del polo. -->
-- [ ] B) Una circunferencia de radio 2.
+- [ ] A) Una circunferencia de radio 2.
   <!-- feedback: Incorrecto. Corresponde a la ecuación de una recta, no un círculo. -->
-- [ ] C) Una elipse de excentricidad $1/2$.
+- [ ] B) Una elipse de excentricidad $1/2$.
   <!-- feedback: Incorrecto. No incluye el término $e\cos\theta$ en el denominador. -->
 - [ ] D) Una espiral que pasa por el origen.
   <!-- feedback: Incorrecto. El gráfico no pasa por el origen. -->
@@ -425,9 +425,9 @@ En coordenadas polares, $(-r, \theta)$ se define como el punto a distancia $|r|$
 Usando $A = \frac{1}{2} \int_0^{2\pi} 4(1+\cos\theta)^2 d\theta$, ¿cuál es el área total encerrada?
 
 ### Opciones
-- [x] A) $6\pi$
+- [x] B) $6\pi$
   <!-- feedback: Correcto. $A = 2 \int_0^{2\pi} (1 + 2\cos\theta + \cos^2\theta) d\theta = 2 (2\pi + 0 + \pi) = 6\pi$. -->
-- [ ] B) $4\pi$
+- [ ] A) $4\pi$
   <!-- feedback: Incorrecto. Se omitió el término $\cos^2\theta$ al integrar. -->
 - [ ] C) $8\pi$
   <!-- feedback: Incorrecto. Se multiplicó por 2 erróneamente. -->
@@ -448,11 +448,11 @@ La fórmula general del área de una cardioide $r = a(1+\cos\theta)$ es $A = \fr
 ¿Qué cónica representa esta ecuación polar cuando la excentricidad $e = 1$?
 
 ### Opciones
-- [x] A) Una parábola
+- [x] C) Una parábola
   <!-- feedback: Correcto. $e=1$ define por propiedad universal una parábola en coordenadas polares. -->
-- [ ] B) Una elipse
+- [ ] A) Una elipse
   <!-- feedback: Incorrecto. Requiere $0 < e < 1$. -->
-- [ ] C) Una hipérbola
+- [ ] B) Una hipérbola
   <!-- feedback: Incorrecto. Requiere $e > 1$. -->
 - [ ] D) Una circunferencia
   <!-- feedback: Incorrecto. Requiere $e = 0$. -->
@@ -471,11 +471,11 @@ Ecuación polar unificada de cónicas con foco en el polo: $r = \frac{ed}{1 \pm 
 Sabiendo que reemplazar $\theta \to -\theta$ da $r = -3\sin(2\theta)$, ¿qué tipo de simetría posee?
 
 ### Opciones
-- [x] A) Es simétrica respecto al origen (polo) y a las rectas bisectrices.
+- [x] C) Es simétrica respecto al origen (polo) y a las rectas bisectrices.
   <!-- feedback: Correcto. Al cambiar $\theta \to -\theta$, el radio cambia de signo, lo que indica simetría respecto al eje vertical $y$ y al origen. -->
-- [ ] B) Es simétrica exclusivamente respecto al eje polar ($x$).
+- [ ] A) Es simétrica exclusivamente respecto al eje polar ($x$).
   <!-- feedback: Incorrecto. La función seno impar altera el signo. -->
-- [ ] C) No presenta ningún tipo de simetría.
+- [ ] B) No presenta ningún tipo de simetría.
   <!-- feedback: Incorrecto. Las rosas de $n$ par poseen múltiples ejes de simetría. -->
 - [ ] D) Es una función asimétrica no graficable.
   <!-- feedback: Incorrecto. Es una rosa regular de 4 pétalos totalmente simétrica. -->

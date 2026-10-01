@@ -80,13 +80,13 @@ Comprensión del valor de los ríos navegables como corredores de transporte y c
 ¿Cuál de los siguientes puertos colombianos sobre el Pacífico es el más adecuado para embarcar esa exportación?
 
 ### Opciones
-- [x] A) Puerto de Buenaventura.
+- [x] D) Puerto de Buenaventura.
   <!-- feedback: Buenaventura es el principal puerto colombiano sobre el Pacífico y mueve gran parte de las exportaciones. -->
-- [ ] B) Puerto de Cartagena.
+- [ ] A) Puerto de Cartagena.
   <!-- feedback: Cartagena es un gran puerto, pero está sobre el mar Caribe, no sobre el Pacífico. -->
-- [ ] C) Puerto de Barranquilla.
+- [ ] B) Puerto de Barranquilla.
   <!-- feedback: Barranquilla se ubica sobre el Caribe, en la desembocadura del río Magdalena. -->
-- [ ] D) Puerto de Leticia.
+- [ ] C) Puerto de Leticia.
   <!-- feedback: Leticia es un puerto fluvial sobre el Amazonas, en la frontera sur. -->
 
 ### Explicacion Pedagogica
@@ -103,9 +103,9 @@ Aplicación del conocimiento de la ubicación de los puertos colombianos para el
 ¿Qué medio de transporte resulta más apropiado para cumplir ese envío en el menor tiempo posible?
 
 ### Opciones
-- [x] A) El transporte aéreo.
+- [x] B) El transporte aéreo.
   <!-- feedback: El avión es el medio más rápido para largas distancias y productos perecederos como las flores. -->
-- [ ] B) El transporte por carretera internacional.
+- [ ] A) El transporte por carretera internacional.
   <!-- feedback: La carretera hacia otro continente no existe y el viaje sería demasiado lento. -->
 - [ ] C) El transporte fluvial por el río Magdalena.
   <!-- feedback: El río Magdalena recorre el interior del país y no llega a Estados Unidos. -->
@@ -126,11 +126,11 @@ Selección del modo de transporte según criterios de tiempo, distancia y natura
 ¿Qué combinación de vías y medios debe usar para cumplir su recorrido entre esas tres ciudades?
 
 ### Opciones
-- [x] A) Viajar en avión de Bogotá a Santa Marta y luego tomar un bus por la carretera de la Costa hacia Cartagena.
+- [x] C) Viajar en avión de Bogotá a Santa Marta y luego tomar un bus por la carretera de la Costa hacia Cartagena.
   <!-- feedback: El avión cubre la larga distancia desde el interior y la carretera de la Costa une Santa Marta con Cartagena. -->
-- [ ] B) Navegar en barco desde Bogotá por el mar Caribe hasta Santa Marta.
+- [ ] A) Navegar en barco desde Bogotá por el mar Caribe hasta Santa Marta.
   <!-- feedback: Bogotá está en el interior andino y no tiene salida directa al mar. -->
-- [ ] C) Ir en tren directo desde Bogotá hasta Cartagena sin escalas.
+- [ ] B) Ir en tren directo desde Bogotá hasta Cartagena sin escalas.
   <!-- feedback: No existe una línea de tren de pasajeros que conecte esas ciudades. -->
 - [ ] D) Caminar por senderos de montaña hasta llegar al puerto de Buenaventura.
   <!-- feedback: Buenaventura está en el Pacífico, en el sentido opuesto al recorrido deseado. -->
@@ -172,11 +172,11 @@ Análisis de las consecuencias sociales y económicas que genera la interrupció
 ¿Qué ventaja representa para Colombia tener puertos en dos océanos?
 
 ### Opciones
-- [x] A) Puede comerciar con más mercados del mundo y elegir la ruta marítima más conveniente para sus exportaciones.
+- [x] C) Puede comerciar con más mercados del mundo y elegir la ruta marítima más conveniente para sus exportaciones.
   <!-- feedback: Tener costas en el Atlántico y el Pacífico amplía las opciones de comercio internacional del país. -->
-- [ ] B) Puede dejar de producir alimentos porque ya no los necesita.
+- [ ] A) Puede dejar de producir alimentos porque ya no los necesita.
   <!-- feedback: Los puertos facilitan el comercio pero no reemplazan la producción nacional de alimentos. -->
-- [ ] C) Puede cerrar sus fronteras terrestres con todos los países vecinos.
+- [ ] B) Puede cerrar sus fronteras terrestres con todos los países vecinos.
   <!-- feedback: La salida al mar por dos océanos no elimina la importancia del comercio terrestre fronterizo. -->
 - [ ] D) Puede evitar pagar impuestos en cualquier actividad económica.
   <!-- feedback: El comercio portuario está sujeto a impuestos y normas aduaneras colombianas. -->
@@ -195,11 +195,11 @@ Análisis del valor estratégico de la posición bioceánica de Colombia en el c
 ¿Cuál decisión es más conveniente para el desarrollo de la región y por qué?
 
 ### Opciones
-- [x] A) Ampliar la vía terciaria, porque beneficia directamente a más comunidades y mejora su acceso a salud, educación y mercados.
+- [x] C) Ampliar la vía terciaria, porque beneficia directamente a más comunidades y mejora su acceso a salud, educación y mercados.
   <!-- feedback: La obra vial rural tiene mayor impacto social al conectar poblaciones apartadas y mejorar sus condiciones de vida. -->
-- [ ] B) Construir la segunda pista sin consultar a los habitantes del departamento.
+- [ ] A) Construir la segunda pista sin consultar a los habitantes del departamento.
   <!-- feedback: Las decisiones públicas deben considerar las necesidades de la comunidad y ser transparentes. -->
-- [ ] C) No invertir en ninguna obra y guardar todo el dinero sin explicación.
+- [ ] B) No invertir en ninguna obra y guardar todo el dinero sin explicación.
   <!-- feedback: Los recursos públicos deben destinarse al bienestar común y no dejarse sin uso. -->
 - [ ] D) Ampliar la vía solo hasta las fincas de las familias más adineradas.
   <!-- feedback: Beneficiar a unos pocos con recursos públicos vulnera la equidad y el interés general. -->

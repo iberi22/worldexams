@@ -36,9 +36,9 @@ This bundle focuses on adjectives and structures used to describe physical appea
 What is the opposite of "tall"?
 
 ### Opciones
-- [ ] A) Thin
+- [ ] B) Thin
   <!-- feedback: Incorrect. "Thin" is the opposite of "fat" or "heavy". -->
-- [x] B) Short
+- [x] A) Short
   <!-- feedback: Correct! "Short" refers to someone with little height. -->
 - [ ] C) Young
   <!-- feedback: Incorrect. "Young" is the opposite of "old". -->
@@ -63,11 +63,11 @@ Which adjective describes hair that is not straight?
 ### Opciones
 - [ ] A) Long
   <!-- feedback: Incorrect. This refers to length, not shape. -->
-- [x] B) Curly
+- [x] D) Curly
   <!-- feedback: Correct! "Curly" describes hair with curves or spirals. -->
-- [ ] C) Blond
+- [ ] B) Blond
   <!-- feedback: Incorrect. This refers to color. -->
-- [ ] D) Dark
+- [ ] C) Dark
   <!-- feedback: Incorrect. This refers to color. -->
 
 ### Explicacion Pedagogica
@@ -111,9 +111,9 @@ The student understands the relationship between an action (helping) and a perso
 What is the correct way to describe your eyes?
 
 ### Opciones
-- [ ] A) I am green eyes.
+- [ ] B) I am green eyes.
   <!-- feedback: Incorrect. You don't "be" a color of eyes; you "have" them. -->
-- [x] B) I have green eyes.
+- [x] A) I have green eyes.
   <!-- feedback: Correct! We use the verb "have" for body features like eyes and hair. -->
 - [ ] C) My eyes is green.
   <!-- feedback: Incorrect. "Eyes" is plural, so it should be "are". -->
@@ -136,13 +136,13 @@ The student understands the grammatical structure for describing physical featur
 "My grandmother ________ short grey hair and she ________ very friendly."
 
 ### Opciones
-- [x] A) has / is
+- [x] D) has / is
   <!-- feedback: Correct! "Has" for hair (possession) and "is" for personality (state). -->
-- [ ] B) is / has
+- [ ] A) is / has
   <!-- feedback: Incorrect. The verbs are in the wrong places. -->
-- [ ] C) has / has
+- [ ] B) has / has
   <!-- feedback: Incorrect. You "are" friendly, you don't "have" friendly. -->
-- [ ] D) is / is
+- [ ] C) is / is
   <!-- feedback: Incorrect. You "have" hair, you don't "be" hair. -->
 
 ### Explicacion Pedagogica
@@ -162,11 +162,11 @@ The student applies the correct usage of "be" and "have" in descriptions.
 What personality trait is mentioned in the text?
 
 ### Opciones
-- [ ] A) He has blond hair.
+- [ ] B) He has blond hair.
   <!-- feedback: Incorrect. This is a physical description, not a personality trait. -->
-- [ ] B) He is wearing a red t-shirt.
+- [ ] C) He is wearing a red t-shirt.
   <!-- feedback: Incorrect. This is about his clothes. -->
-- [x] C) He is shy.
+- [x] A) He is shy.
   <!-- feedback: Correct! Being "shy" is a personality trait. -->
 - [ ] D) He is 12 years old.
   <!-- feedback: Incorrect. This is his age. -->
@@ -187,9 +187,9 @@ The student applies the distinction between physical description, clothing, and 
 "Andrés always makes us laugh with his jokes. He is very ________."
 
 ### Opciones
-- [ ] A) serious
+- [ ] B) serious
   <!-- feedback: Incorrect. Serious is the opposite of funny. -->
-- [x] B) funny
+- [x] A) funny
   <!-- feedback: Correct! Making people laugh is the definition of being funny. -->
 - [ ] C) smart
   <!-- feedback: Incorrect. Smart refers to intelligence, not humor. -->
@@ -214,11 +214,11 @@ Which sentence follows the correct order of adjectives?
 ### Opciones
 - [ ] A) She has curly long black hair.
   <!-- feedback: Incorrect. Size (long) usually comes before shape (curly). -->
-- [x] B) She has long curly black hair.
+- [x] D) She has long curly black hair.
   <!-- feedback: Correct! The order is usually Size -> Shape -> Color. -->
-- [ ] C) She has black long curly hair.
+- [ ] B) She has black long curly hair.
   <!-- feedback: Incorrect. Color usually comes last among these three. -->
-- [ ] D) She has curly black long hair.
+- [ ] C) She has curly black long hair.
   <!-- feedback: Incorrect. Size should be at the beginning. -->
 
 ### Explicacion Pedagogica
@@ -242,9 +242,9 @@ How are Lucas and Mateo different in their personality?
   <!-- feedback: Incorrect. This is a physical difference, not personality. -->
 - [ ] B) They both like playing sports.
   <!-- feedback: Incorrect. Only Mateo loves sports. -->
-- [x] C) Lucas is quiet while Mateo is talkative.
+- [x] D) Lucas is quiet while Mateo is talkative.
   <!-- feedback: Correct! These are the personality traits mentioned for each. -->
-- [ ] D) Lucas is strong and Mateo is thin.
+- [ ] C) Lucas is strong and Mateo is thin.
   <!-- feedback: Incorrect. The physical descriptions are reversed. -->
 
 ### Explicacion Pedagogica
@@ -266,9 +266,9 @@ What is the main message of this text?
 ### Opciones
 - [ ] A) Friends should be tall and handsome.
   <!-- feedback: Incorrect. The text says they "don't need to be". -->
-- [x] B) Personality traits are more valuable than physical appearance in a friendship.
+- [x] C) Personality traits are more valuable than physical appearance in a friendship.
   <!-- feedback: Correct! The text emphasizes honesty, loyalty, and humor over height or looks. -->
-- [ ] C) Loyal friends are always funny.
+- [ ] B) Loyal friends are always funny.
   <!-- feedback: Incorrect. The text lists these as separate qualities, not dependent on each other. -->
 - [ ] D) Physical appearance never changes.
   <!-- feedback: Incorrect. The text says physical appearance "changes". -->

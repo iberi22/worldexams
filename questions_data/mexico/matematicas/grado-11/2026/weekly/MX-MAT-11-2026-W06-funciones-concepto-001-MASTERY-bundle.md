@@ -59,8 +59,8 @@ Si se tiene la gráfica de una relación en el plano cartesiano, ¿qué método 
 ### Opciones
 - [ ] A) La prueba de la recta horizontal. <!-- feedback: La prueba de la recta horizontal se usa para determinar si una función es inyectiva (uno a uno), no si es función. -->
 - [ ] B) Verificar si la gráfica cruza el eje de las abscisas en más de un punto. <!-- feedback: Esto determinaría la cantidad de raíces o ceros, pero no define si es función o no. -->
-- [x] C) La prueba de la recta vertical. <!-- feedback: ¡Exacto! Si cualquier recta vertical corta a la gráfica en más de un punto, significa que un valor de x tiene más de una imagen, por lo que no es función. -->
-- [ ] D) Comprobar si la gráfica es simétrica respecto al eje de las ordenadas. <!-- feedback: La simetría respecto al eje y define si una función es par, pero no es criterio de existencia de la función. -->
+- [x] D) La prueba de la recta vertical. <!-- feedback: ¡Exacto! Si cualquier recta vertical corta a la gráfica en más de un punto, significa que un valor de x tiene más de una imagen, por lo que no es función. -->
+- [ ] C) Comprobar si la gráfica es simétrica respecto al eje de las ordenadas. <!-- feedback: La simetría respecto al eje y define si una función es par, pero no es criterio de existencia de la función. -->
 
 ### Explicacion Pedagogica
 La prueba de la recta vertical establece que si es posible trazar una línea vertical que toque la gráfica en dos o más puntos, la relación no es una función, ya que violaría el principio de unicidad (un valor de entrada con múltiples salidas).
@@ -79,9 +79,9 @@ Dada la expresión $f(x) = 2x^2 - 5$, ¿cuál de las siguientes opciones describ
 
 ### Opciones
 - [ ] A) Representa el valor de la función o variable dependiente. <!-- feedback: El valor de la función está representado por f(x) o y, no por la x aislada. -->
-- [x] B) Representa la variable independiente o elemento del dominio. <!-- feedback: Correcto. x es el argumento de la función, el valor que ingresa al proceso para obtener un resultado. -->
-- [ ] C) Es una constante que determina la pendiente de la función. <!-- feedback: x es una variable, no una constante. Las constantes son valores fijos como el 2 o el -5. -->
-- [ ] D) Indica que la función es siempre positiva para cualquier valor real. <!-- feedback: La variable x por sí sola no indica el signo de la salida de la función. -->
+- [x] D) Representa la variable independiente o elemento del dominio. <!-- feedback: Correcto. x es el argumento de la función, el valor que ingresa al proceso para obtener un resultado. -->
+- [ ] B) Es una constante que determina la pendiente de la función. <!-- feedback: x es una variable, no una constante. Las constantes son valores fijos como el 2 o el -5. -->
+- [ ] C) Indica que la función es siempre positiva para cualquier valor real. <!-- feedback: La variable x por sí sola no indica el signo de la salida de la función. -->
 
 ### Explicacion Pedagogica
 En la notación $f(x)$, $x$ es la variable independiente (entrada), mientras que $f(x)$ representa la variable dependiente (salida) que resulta de aplicar la regla $f$ sobre $x$.
@@ -142,8 +142,8 @@ Evaluar una función consiste en sustituir la variable independiente por el valo
 
 ### Opciones
 - [ ] A) Todos los números reales. <!-- feedback: No puede ser todo R porque hay un valor que causa una división entre cero. -->
-- [ ] B) $\{x \in \mathbb{R} \mid x > 4\}$. <!-- feedback: Los valores menores a 4 también son válidos; el único problema es el 4 exacto. -->
-- [x] C) $\{x \in \mathbb{R} \mid x \neq 4\}$. <!-- feedback: ¡Correcto! En una función racional, el denominador no puede ser cero. x-4=0 cuando x=4, por lo que este valor debe excluirse. -->
+- [ ] C) $\{x \in \mathbb{R} \mid x > 4\}$. <!-- feedback: Los valores menores a 4 también son válidos; el único problema es el 4 exacto. -->
+- [x] B) $\{x \in \mathbb{R} \mid x \neq 4\}$. <!-- feedback: ¡Correcto! En una función racional, el denominador no puede ser cero. x-4=0 cuando x=4, por lo que este valor debe excluirse. -->
 - [ ] D) $\{x \in \mathbb{R} \mid x \neq 0\}$. <!-- feedback: El cero es un valor válido (g(0) = 5/-4). El problema ocurre cuando el denominador completo se hace cero. -->
 
 ### Explicacion Pedagogica
@@ -163,9 +163,9 @@ Para funciones racionales (fracciones), el dominio consiste en todos los número
 
 ### Opciones
 - [ ] A) 14 <!-- feedback: Calculaste g(f(4)): f(4)=7, g(7)=14. Se pidió f(g(4)). -->
-- [x] B) 11 <!-- feedback: ¡Correcto! Primero calculamos g(4) = 2(4) = 8. Luego evaluamos f(8) = 8 + 3 = 11. -->
-- [ ] C) 10 <!-- feedback: Revisa los pasos. g(4)=8, f(8)=11. -->
-- [ ] D) 7 <!-- feedback: 7 es el resultado de f(4), pero falta aplicar g o el orden es inverso. -->
+- [x] D) 11 <!-- feedback: ¡Correcto! Primero calculamos g(4) = 2(4) = 8. Luego evaluamos f(8) = 8 + 3 = 11. -->
+- [ ] B) 10 <!-- feedback: Revisa los pasos. g(4)=8, f(8)=11. -->
+- [ ] C) 7 <!-- feedback: 7 es el resultado de f(4), pero falta aplicar g o el orden es inverso. -->
 
 ### Explicacion Pedagogica
 En la evaluación de funciones compuestas $f(g(x))$, se resuelve de adentro hacia afuera: primero se obtiene el valor de la función interna $g(4)$ y ese resultado se usa como entrada para la función externa $f$.
@@ -230,8 +230,8 @@ La función valor absoluto transforma cualquier entrada en su magnitud positiva.
 ### Opciones
 - [ ] A) $[0, \infty)$ <!-- feedback: Este sería el rango de f(x)=x^2. Al sumar 5, toda la gráfica se desplaza hacia arriba. -->
 - [ ] B) $(-\infty, \infty)$ <!-- feedback: Las funciones cuadráticas con coeficiente principal positivo tienen un valor mínimo, por lo que el rango no es todo R. -->
-- [x] C) $[5, \infty)$ <!-- feedback: ¡Correcto! Como x^2 es mínimo 0, el valor más pequeño de h(x) es 0 + 5 = 5. -->
-- [ ] D) $(-\infty, 5]$ <!-- feedback: Esto sería si el coeficiente de x^2 fuera negativo (parábola abriendo hacia abajo). -->
+- [x] D) $[5, \infty)$ <!-- feedback: ¡Correcto! Como x^2 es mínimo 0, el valor más pequeño de h(x) es 0 + 5 = 5. -->
+- [ ] C) $(-\infty, 5]$ <!-- feedback: Esto sería si el coeficiente de x^2 fuera negativo (parábola abriendo hacia abajo). -->
 
 ### Explicacion Pedagogica
 El rango se determina analizando los valores posibles de salida. Dado que $x^2 \geq 0$ para todo $x$ real, entonces $x^2 + 5 \geq 5$. El valor mínimo es 5.
@@ -250,9 +250,9 @@ Determine el dominio de la función real $f(x) = \sqrt{2x - 6}$.
 
 ### Opciones
 - [ ] A) $x \neq 3$ <!-- feedback: Esto aplica para denominadores, no para raíces cuadradas en el numerador. -->
-- [x] B) $x \geq 3$ <!-- feedback: ¡Correcto! Para que la raíz sea real, el radicando debe ser no negativo: 2x - 6 >= 0 => 2x >= 6 => x >= 3. -->
-- [ ] C) $x > 3$ <!-- feedback: El valor 3 es permitido, ya que la raíz de cero es cero (un número real válido). -->
-- [ ] D) $x \leq 3$ <!-- feedback: Si x < 3, por ejemplo x=0, el radicando sería negativo (-6), lo cual no da un resultado real. -->
+- [x] D) $x \geq 3$ <!-- feedback: ¡Correcto! Para que la raíz sea real, el radicando debe ser no negativo: 2x - 6 >= 0 => 2x >= 6 => x >= 3. -->
+- [ ] B) $x > 3$ <!-- feedback: El valor 3 es permitido, ya que la raíz de cero es cero (un número real válido). -->
+- [ ] C) $x \leq 3$ <!-- feedback: Si x < 3, por ejemplo x=0, el radicando sería negativo (-6), lo cual no da un resultado real. -->
 
 ### Explicacion Pedagogica
 En funciones con raíces de índice par (como la raíz cuadrada), el dominio está restringido a los valores que hacen que el contenido de la raíz (radicando) sea mayor o igual a cero.
@@ -271,9 +271,9 @@ A partir de la expresión $y = \sqrt{4 - x^2}$, identifique correctamente el dom
 
 ### Opciones
 - [ ] A) Dominio: $[-4, 4]$, Rango: $[0, 4]$ <!-- feedback: El radio es 2, por lo que el dominio es [-2, 2]. -->
-- [x] B) Dominio: $[-2, 2]$, Rango: $[0, 2]$ <!-- feedback: ¡Correcto! x^2 no puede exceder a 4, por lo que x está entre -2 y 2. El valor máximo de y es sqrt(4)=2 y el mínimo sqrt(0)=0. -->
-- [ ] C) Dominio: $(-\infty, \infty)$, Rango: $[0, \infty)$ <!-- feedback: La función solo está definida donde 4-x^2 >= 0. No es todo R. -->
-- [ ] D) Dominio: $[0, 2]$, Rango: $[-2, 2]$ <!-- feedback: Los conceptos de dominio y rango están invertidos o mal calculados. -->
+- [x] D) Dominio: $[-2, 2]$, Rango: $[0, 2]$ <!-- feedback: ¡Correcto! x^2 no puede exceder a 4, por lo que x está entre -2 y 2. El valor máximo de y es sqrt(4)=2 y el mínimo sqrt(0)=0. -->
+- [ ] B) Dominio: $(-\infty, \infty)$, Rango: $[0, \infty)$ <!-- feedback: La función solo está definida donde 4-x^2 >= 0. No es todo R. -->
+- [ ] C) Dominio: $[0, 2]$, Rango: $[-2, 2]$ <!-- feedback: Los conceptos de dominio y rango están invertidos o mal calculados. -->
 
 ### Explicacion Pedagogica
 Para el dominio: \$4 - x^2 \geq 0 \Rightarrow x^2 \leq 4 \Rightarrow |x| \leq 2 \Rightarrow -2 \leq x \leq 2$. Para el rango: el valor mínimo ocurre en los extremos del dominio ($y=0$) y el máximo en $x=0$ ($y=2$).
@@ -334,8 +334,8 @@ Dada la función $f(x) = -x^2 + 6x$, ¿en qué intervalo de su dominio la funci�
 
 ### Opciones
 - [ ] A) $(-\infty, \infty)$ <!-- feedback: Las parábolas cambian de dirección en su vértice; no pueden ser siempre crecientes. -->
-- [ ] B) $(3, \infty)$ <!-- feedback: En este intervalo, al ser el coeficiente de x^2 negativo, la función está bajando (decreciente). -->
-- [x] C) $(-\infty, 3)$ <!-- feedback: ¡Correcto! El vértice está en x = -b/(2a) = -6/(-2) = 3. Antes del 3, la parábola sube. -->
+- [ ] C) $(3, \infty)$ <!-- feedback: En este intervalo, al ser el coeficiente de x^2 negativo, la función está bajando (decreciente). -->
+- [x] B) $(-\infty, 3)$ <!-- feedback: ¡Correcto! El vértice está en x = -b/(2a) = -6/(-2) = 3. Antes del 3, la parábola sube. -->
 - [ ] D) $[0, 6]$ <!-- feedback: En este intervalo la función sube y luego baja (cruza el vértice). -->
 
 ### Explicacion Pedagogica
@@ -354,9 +354,9 @@ Para una parábola que abre hacia abajo ($a < 0$), la función es creciente desd
 Si $f(x) = x^2 + 2x$, ¿cuál es la expresión simplificada para $f(x+h)$?
 
 ### Opciones
-- [ ] A) $x^2 + 2x + h$ <!-- feedback: Solo sumaste h al final, no sustituiste x por (x+h) en todos los términos. -->
-- [ ] B) $x^2 + h^2 + 2x + 2h$ <!-- feedback: Olvidaste el término cruzado 2xh que surge al desarrollar el binomio al cuadrado. -->
-- [x] C) $x^2 + 2xh + h^2 + 2x + 2h$ <!-- feedback: ¡Correcto! f(x+h) = (x+h)^2 + 2(x+h) = x^2 + 2xh + h^2 + 2x + 2h. -->
+- [ ] B) $x^2 + 2x + h$ <!-- feedback: Solo sumaste h al final, no sustituiste x por (x+h) en todos los términos. -->
+- [ ] C) $x^2 + h^2 + 2x + 2h$ <!-- feedback: Olvidaste el término cruzado 2xh que surge al desarrollar el binomio al cuadrado. -->
+- [x] A) $x^2 + 2xh + h^2 + 2x + 2h$ <!-- feedback: ¡Correcto! f(x+h) = (x+h)^2 + 2(x+h) = x^2 + 2xh + h^2 + 2x + 2h. -->
 - [ ] D) $x^2 + 2x + 2h$ <!-- feedback: Desarrollo incompleto de la función. -->
 
 ### Explicacion Pedagogica
@@ -397,9 +397,9 @@ Dada la función $f(x) = \frac{3x - 1}{x + 2}$ con $x \neq -2$, ¿cuál es su fu
 
 ### Opciones
 - [ ] A) $f^{-1}(x) = \frac{x + 2}{3x - 1}$ <!-- feedback: Esto es el recíproco, no la inversa. La inversa requiere despejar x. -->
-- [x] B) $f^{-1}(x) = \frac{2x + 1}{3 - x}$ <!-- feedback: ¡Correcto! Si y = (3x-1)/(x+2), entonces y(x+2) = 3x-1 => yx + 2y = 3x - 1 => 2y + 1 = 3x - yx => x = (2y+1)/(3-y). -->
-- [ ] C) $f^{-1}(x) = \frac{3x + 1}{x - 2}$ <!-- feedback: Error en el manejo de signos durante el despeje algebraico. -->
-- [ ] D) $f^{-1}(x) = \frac{2x - 1}{3 + x}$ <!-- feedback: Revisa los signos al trasponer términos de un lado a otro de la igualdad. -->
+- [x] D) $f^{-1}(x) = \frac{2x + 1}{3 - x}$ <!-- feedback: ¡Correcto! Si y = (3x-1)/(x+2), entonces y(x+2) = 3x-1 => yx + 2y = 3x - 1 => 2y + 1 = 3x - yx => x = (2y+1)/(3-y). -->
+- [ ] B) $f^{-1}(x) = \frac{3x + 1}{x - 2}$ <!-- feedback: Error en el manejo de signos durante el despeje algebraico. -->
+- [ ] C) $f^{-1}(x) = \frac{2x - 1}{3 + x}$ <!-- feedback: Revisa los signos al trasponer términos de un lado a otro de la igualdad. -->
 
 ### Explicacion Pedagogica
 Para hallar la inversa: 1) Escribir $y = f(x)$. 2) Intercambiar $x$ e $y$. 3) Despejar la nueva $y$. Este proceso deshace la operación original de la función.

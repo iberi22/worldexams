@@ -36,8 +36,8 @@ creador: "Jules-Agent"
 ¿Cuál de las siguientes palabras es un **sustantivo abstracto**?
 
 ### Opciones
-- [ ] A) Árbol. <!-- feedback: Incorrecto. El árbol es un sustantivo común y concreto (se puede tocar y ver). -->
-- [x] B) Amistad. <!-- feedback: Correcto. La amistad es un sentimiento o concepto que no tiene presencia física material. -->
+- [ ] B) Árbol. <!-- feedback: Incorrecto. El árbol es un sustantivo común y concreto (se puede tocar y ver). -->
+- [x] A) Amistad. <!-- feedback: Correcto. La amistad es un sentimiento o concepto que no tiene presencia física material. -->
 - [ ] C) Manzana. <!-- feedback: Incorrecto. Es un sustantivo común y concreto. -->
 - [ ] D) Bogotá. <!-- feedback: Incorrecto. Es un sustantivo propio y concreto (un lugar específico). -->
 
@@ -58,8 +58,8 @@ Si un estudiante escribe: "Ayer **leía** tranquilamente cuando sonó el teléfo
 
 ### Opciones
 - [ ] A) Una acción que ocurrirá mañana. <!-- feedback: Incorrecto. El verbo está en pasado. -->
-- [x] B) Una acción en desarrollo o habitual en el pasado (pretérito imperfecto). <!-- feedback: Correcto. Indica una acción duradera que servía de fondo para otro hecho puntual. -->
-- [ ] C) Una orden que debe cumplirse de inmediato. <!-- feedback: Incorrecto. No es modo imperativo. -->
+- [x] C) Una acción en desarrollo o habitual en el pasado (pretérito imperfecto). <!-- feedback: Correcto. Indica una acción duradera que servía de fondo para otro hecho puntual. -->
+- [ ] B) Una orden que debe cumplirse de inmediato. <!-- feedback: Incorrecto. No es modo imperativo. -->
 - [ ] D) Una acción que ha terminado justo ahora. <!-- feedback: Incorrecto. Es un tiempo de pasado durativo. -->
 
 ### Explicacion Pedagogica
@@ -100,9 +100,9 @@ Los pronombres relativos permiten unir oraciones evitando repeticiones y dando u
 
 ### Opciones
 - [ ] A) Para que el periódico se vea más bonito visualmente. <!-- feedback: Incorrecto. Es una razón estructural y de lectura, no solo estética. -->
-- [x] B) Para que el lector conozca lo más importante al principio, por si no tiene tiempo de leer todo el texto. <!-- feedback: Correcto. Responde a la necesidad de inmediatez y jerarquía informativa. -->
-- [ ] C) Para que las noticias de deportes siempre vayan al final. <!-- feedback: Incorrecto. La pirámide invertida se aplica a cada noticia individualmente. -->
-- [ ] D) Para gastar menos tinta al momento de imprimir. <!-- feedback: Incorrecto. No afecta el consumo de tinta. -->
+- [x] D) Para que el lector conozca lo más importante al principio, por si no tiene tiempo de leer todo el texto. <!-- feedback: Correcto. Responde a la necesidad de inmediatez y jerarquía informativa. -->
+- [ ] B) Para que las noticias de deportes siempre vayan al final. <!-- feedback: Incorrecto. La pirámide invertida se aplica a cada noticia individualmente. -->
+- [ ] C) Para gastar menos tinta al momento de imprimir. <!-- feedback: Incorrecto. No afecta el consumo de tinta. -->
 
 ### Explicacion Pedagogica
 La jerarquización de la información de mayor a menor relevancia es la base del estilo periodístico informativo moderno.
@@ -141,8 +141,8 @@ Un texto coherente es aquel que desarrolla un tema de forma lógica, donde cada 
 Si el autor escribe: "Es inaceptable que sigamos arrojando plásticos al mar", la palabra "inaceptable" cumple la función de:
 
 ### Opciones
-- [ ] A) Dar un dato científico sobre el peso del plástico. <!-- feedback: Incorrecto. Es un adjetivo valorativo, no un dato numérico. -->
-- [x] B) Expresar un juicio de valor o postura subjetiva del autor frente al hecho. <!-- feedback: Correcto. Los adjetivos valorativos son marcas de subjetividad. -->
+- [ ] B) Dar un dato científico sobre el peso del plástico. <!-- feedback: Incorrecto. Es un adjetivo valorativo, no un dato numérico. -->
+- [x] A) Expresar un juicio de valor o postura subjetiva del autor frente al hecho. <!-- feedback: Correcto. Los adjetivos valorativos son marcas de subjetividad. -->
 - [ ] C) Indicar el nombre de la playa contaminada. <!-- feedback: Incorrecto. No es un nombre propio. -->
 - [ ] D) Servir como conector de tiempo. <!-- feedback: Incorrecto. No indica cuándo suceden las cosas. -->
 
@@ -162,8 +162,8 @@ El lenguaje en los géneros de opinión se caracteriza por la presencia de marca
 ¿En qué caso se deben usar las comillas (" ") de forma obligatoria?
 
 ### Opciones
-- [ ] A) Al final de cada oración para que sepa que terminó. <!-- feedback: Incorrecto. Para eso se usa el punto. -->
-- [x] B) Para encerrar una cita textual (palabras exactas dichas por otra persona). <!-- feedback: Correcto. Indican que el pensamiento no es del autor del texto. -->
+- [ ] B) Al final de cada oración para que sepa que terminó. <!-- feedback: Incorrecto. Para eso se usa el punto. -->
+- [x] A) Para encerrar una cita textual (palabras exactas dichas por otra persona). <!-- feedback: Correcto. Indican que el pensamiento no es del autor del texto. -->
 - [ ] C) Para escribir nombres de ciudades como Pereira. <!-- feedback: Incorrecto. Los nombres propios solo llevan mayúscula inicial. -->
 - [ ] D) Solo cuando escribimos con lápiz rojo. <!-- feedback: Incorrecto. La ortografía es independiente del color del útil. -->
 
@@ -204,8 +204,8 @@ La educación en lengua castellana hoy incluye la competencia mediática, permit
 ¿Qué conector lógico cambia totalmente el sentido de la oración si lo sustituimos por "porque"? "Iré al parque **aunque** llueva".
 
 ### Opciones
-- [ ] A) "Si". <!-- feedback: Incorrecto. También plantea una condición. -->
-- [x] B) "Porque". <!-- feedback: Correcto. "Aunque" indica concesión; "porque" indicaría causa, lo cual cambia el sentido lógico. -->
+- [ ] B) "Si". <!-- feedback: Incorrecto. También plantea una condición. -->
+- [x] A) "Porque". <!-- feedback: Correcto. "Aunque" indica concesión; "porque" indicaría causa, lo cual cambia el sentido lógico. -->
 - [ ] C) "A pesar de que". <!-- feedback: Incorrecto. Es un sinónimo de "aunque". -->
 - [ ] D) "Pese a que". <!-- feedback: Incorrecto. También es un sinónimo de "aunque". -->
 
@@ -225,9 +225,9 @@ La cohesión textual no es solo poner palabras de enlace, sino elegir aquella qu
 ¿Cuál es el mejor consejo para un escritor que repite la palabra "luego" en cada oración de su cuento?
 
 ### Opciones
-- [ ] A) Que quite todos los "luego" y deje las oraciones sin conexión. <!-- feedback: Incorrecto. Perdería la cohesión del texto. -->
-- [ ] B) Que escriba el cuento en inglés para que no se note la repetición. <!-- feedback: Incorrecto. No soluciona el problema de redacción. -->
-- [x] C) Que use mecanismos de cohesión como la sinonimia o conectores variados (después, más tarde, a continuación). <!-- feedback: Correcto. La variedad léxica hace que el texto sea más rico. -->
+- [ ] B) Que quite todos los "luego" y deje las oraciones sin conexión. <!-- feedback: Incorrecto. Perdería la cohesión del texto. -->
+- [ ] C) Que escriba el cuento en inglés para que no se note la repetición. <!-- feedback: Incorrecto. No soluciona el problema de redacción. -->
+- [x] A) Que use mecanismos de cohesión como la sinonimia o conectores variados (después, más tarde, a continuación). <!-- feedback: Correcto. La variedad léxica hace que el texto sea más rico. -->
 - [ ] D) Que no vuelva a escribir nunca más. <!-- feedback: Incorrecto. El error es una oportunidad de aprendizaje. -->
 
 ### Explicacion Pedagogica

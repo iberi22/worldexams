@@ -34,9 +34,9 @@ creador: "Jules-Agent"
   <!-- feedback: Incorrecto. La cantidad de adjetivos no determina la estructura simple o compuesta de la oración. -->
 - [ ] B) La extensión del sujeto, que debe superar las diez palabras escritas
   <!-- feedback: Incorrecto. El sujeto puede ser muy extenso en una oración simple si tiene modificadores, sin que sea compuesta. -->
-- [x] C) La presencia de dos o más proposiciones, cada una estructurada en torno a un verbo conjugado (o frase verbal)
+- [x] D) La presencia de dos o más proposiciones, cada una estructurada en torno a un verbo conjugado (o frase verbal)
   <!-- feedback: Correcto. La oración compuesta se caracteriza por poseer múltiples proposiciones, lo que implica la presencia de más de un verbo conjugado o estructura verbal. -->
-- [ ] D) El uso de signos de exclamación al inicio y al final del enunciado
+- [ ] C) El uso de signos de exclamación al inicio y al final del enunciado
   <!-- feedback: Incorrecto. Esto responde a la modalidad oracional (oración exclamativa), no a su complejidad sintáctica. -->
 
 ### Explicacion Pedagogica
@@ -107,9 +107,9 @@ El Objeto Directo es el argumento verbal que sufre o recibe directamente la acci
 Identifique la oración que contiene una proposición subordinada adjetiva explicativa (o de relativo explicativo):
 
 ### Opciones
-- [ ] A) Los estudiantes que estudiaron a conciencia aprobaron el riguroso examen de San Marcos.
+- [ ] B) Los estudiantes que estudiaron a conciencia aprobaron el riguroso examen de San Marcos.
   <!-- feedback: Incorrecto. Es especificativa: delimita el universo de estudiantes (solo aprobaron los que estudiaron). No lleva comas. -->
-- [x] B) Los agricultores de Piura, que perdieron sus cultivos por las intensas lluvias, solicitaron ayuda estatal.
+- [x] A) Los agricultores de Piura, que perdieron sus cultivos por las intensas lluvias, solicitaron ayuda estatal.
   <!-- feedback: Correcto. Es adjetiva explicativa: va entre comas y añade una cualidad o información complementaria sobre todo el conjunto de agricultores de Piura sin restringir el sujeto. -->
 - [ ] C) Quien mal anda mal acaba en los callejones del viejo centro de Lima.
   <!-- feedback: Incorrecto. Es una proposición subordinada sustantiva en función de sujeto, no adjetiva. -->
@@ -136,11 +136,11 @@ Lea la oración:
 ### Opciones
 - [ ] A) quien
   <!-- feedback: Incorrecto. El pronombre 'quien' sin preposición no puede introducir relativas especificativas con antecedente de persona cuando cumple función de sujeto en la redacción formal estándar. -->
-- [x] B) que (o el que / el cual)
+- [x] D) que (o el que / el cual)
   <!-- feedback: Correcto. El pronombre relativo 'que' es idóneo y correcto para introducir relativas especificativas de persona o cosa en función de sujeto ('El arqueólogo que descubrió...'). -->
-- [ ] C) cuyo
+- [ ] B) cuyo
   <!-- feedback: Incorrecto. 'Cuyo' es posesivo y requeriría concordar con un sustantivo poseído inmediatamente después, lo cual no ocurre aquí. -->
-- [ ] D) donde
+- [ ] C) donde
   <!-- feedback: Incorrecto. 'Donde' es un relativo de lugar e inadecuado para referirse a un arqueólogo (persona). -->
 
 ### Explicacion Pedagogica
@@ -161,11 +161,11 @@ Lea la oración compuesta:
 ¿Cuál es el sujeto gramatical de los dos verbos coordinados en esta oración?
 
 ### Opciones
-- [ ] A) Vacaciones (sujeto expreso plural)
+- [ ] B) Vacaciones (sujeto expreso plural)
   <!-- feedback: Incorrecto. 'Vacaciones' está precedido por preposición ('Durante') formando un sintagma preposicional circunstancial de tiempo. -->
-- [ ] B) El Valle Sagrado de los Incas (sujeto compuesto pasivo)
+- [ ] C) El Valle Sagrado de los Incas (sujeto compuesto pasivo)
   <!-- feedback: Incorrecto. Es el objeto directo del verbo 'recorrimos' (recorrimos eso; lo recorrimos). -->
-- [x] C) Nosotros / Nosotras (sujeto tácito o elíptico en primera persona del plural)
+- [x] A) Nosotros / Nosotras (sujeto tácito o elíptico en primera persona del plural)
   <!-- feedback: Correcto. La desinencia verbal de 'recorrimos' y 'compramos' (-mos) indica de forma inequívoca que el sujeto es de primera persona plural, omitido por elisión lógica del discurso. -->
 - [ ] D) Las artesanías de Pisac (sujeto expreso inanimado)
   <!-- feedback: Incorrecto. Es el objeto directo del verbo 'compramos' (las compramos). -->
@@ -186,9 +186,9 @@ El sujeto tácito o elíptico se reconoce a través de la morfología flexiva de
 Señale la oración compuesta coordinada que expresa una relación de exclusión mutua u opción alternativa entre las proposiciones vinculadas:
 
 ### Opciones
-- [ ] A) El tren macho sale temprano hacia Huancavelica e inicia su largo recorrido andino.
+- [ ] B) El tren macho sale temprano hacia Huancavelica e inicia su largo recorrido andino.
   <!-- feedback: Incorrecto. Esta es una oración coordinada copulativa (relación de suma o adición). -->
-- [x] B) O bien nos inscribimos en el taller intensivo de oratoria, o bien matriculamos el curso de redacción científica.
+- [x] A) O bien nos inscribimos en el taller intensivo de oratoria, o bien matriculamos el curso de redacción científica.
   <!-- feedback: Correcto. Es una oración coordinada disyuntiva distributiva que plantea una alternativa de opción excluyente mediante los nexos disyuntivos 'o bien... o bien...'. -->
 - [ ] C) El estudiante tiene talento para la poesía, pero le falta disciplina de lectura de vanguardia.
   <!-- feedback: Incorrecto. Es coordinada adversativa (relación de contraposición o contraste). -->
@@ -215,11 +215,11 @@ Lea la oración:
 ### Opciones
 - [ ] A) Objeto Directo (OD) del verbo entusiasmar
   <!-- feedback: Incorrecto. No se puede sustituir por 'lo': no se dice 'Me lo entusiasma'. El verbo entusiasmar opera de otra manera sintáctica aquí. -->
-- [x] B) Sujeto de la oración principal
+- [x] D) Sujeto de la oración principal
   <!-- feedback: Correcto. La proposición sustantiva es el sujeto de 'entusiasma' (equivale a 'Esa actitud me entusiasma', pluralizando: 'Esas actitudes me entusiasman'). El sujeto concuerda en número con el verbo principal. -->
-- [ ] C) Objeto Indirecto (OI) con clítico duplicado
+- [ ] B) Objeto Indirecto (OI) con clítico duplicado
   <!-- feedback: Incorrecto. El OI es el pronombre átono 'Me' que recibe el entusiasmo. -->
-- [ ] D) Circunstancial de Causa del entusiasmo
+- [ ] C) Circunstancial de Causa del entusiasmo
   <!-- feedback: Incorrecto. Aunque semánticamente indique el motivo, sintácticamente cumple la función indispensable de sujeto oracional. -->
 
 ### Explicacion Pedagogica
@@ -294,9 +294,9 @@ Identifique la oración que contiene una proposición subordinada adverbial conc
 ### Opciones
 - [ ] A) Trabajamos arduamente para que el proyecto vial de la región sea aprobado pronto.
   <!-- feedback: Incorrecto. Es subordinada adverbial final (indica propósito o fin: 'para que'). -->
-- [x] B) Aunque las heladas afectaron los campos de cultivo de Puno, los comuneros lograron rescatar parte de la cosecha de quinua.
+- [x] C) Aunque las heladas afectaron los campos de cultivo de Puno, los comuneros lograron rescatar parte de la cosecha de quinua.
   <!-- feedback: Correcto. Contiene la proposición adverbial concesiva introducida por 'Aunque', la cual plantea un obstáculo real que no impide que se cumpla la acción principal. -->
-- [ ] C) Si viajas a Iquitos este fin de semana, debes traer frutos tropicales para la feria.
+- [ ] B) Si viajas a Iquitos este fin de semana, debes traer frutos tropicales para la feria.
   <!-- feedback: Incorrecto. Es subordinada adverbial condicional (indica hipótesis o condición: 'Si'). -->
 - [ ] D) La carretera central colapsó debido a que se produjo un huayco de grandes proporciones en Chosica.
   <!-- feedback: Incorrecto. Es subordinada adverbial causal (explica la causa de la caída de la carretera: 'debido a que'). -->
@@ -321,9 +321,9 @@ Lea la oración con un error común en el registro oral peruano:
 ### Opciones
 - [ ] A) Fueron los directivos de la empresa de los cuales que tomaron la decisión.
   <!-- feedback: Incorrecto. 'De los cuales que' es una estructura agramatical redundante que empeora la frase. -->
-- [ ] B) Fueron los directivos de la empresa quienes tomaron la decisión de suspender los trabajos de exploración.
+- [ ] C) Fueron los directivos de la empresa quienes tomaron la decisión de suspender los trabajos de exploración.
   <!-- feedback: Incorrecto. Aunque comprensible, en oraciones copulativas enfáticas de este tipo, la concordancia con el relativo exige mayor precisión estilística o la elisión del 'fueron' inicial. -->
-- [x] C) Los directivos de la empresa fueron quienes tomaron la decisión de suspender los trabajos de exploración.
+- [x] B) Los directivos de la empresa fueron quienes tomaron la decisión de suspender los trabajos de exploración.
   <!-- feedback: Correcto. Reordena la sintaxis oracional de forma natural, eliminando la pesadez de la cópula inicial trunca y empleando correctamente el pronombre relativo plural 'quienes' en función de sujeto. -->
 - [ ] D) Fue los directivos de la empresa el que tomó la decisión de suspender los trabajos.
   <!-- feedback: Incorrecto. Presenta graves discordancias de número entre el verbo ('Fue' singular) y el sujeto ('directivos' plural) y el relativo ('el que'). -->
@@ -348,9 +348,9 @@ Identifique el enunciado que incurre en el error sintáctico conocido como 'dequ
   <!-- feedback: Incorrecto. Uso correcto de sustantiva OD: 'sugirió eso' (sugirió *que*). No lleva de. -->
 - [ ] B) Los arqueólogos tienen la certeza de que el sitio prehispánico perteneció a la cultura Lima.
   <!-- feedback: Incorrecto. Uso correcto de complemento de nombre: 'certeza de eso' (certeza *de que*). Exige la preposición de. -->
-- [x] C) El rector de la universidad consideró de que era urgente reestructurar el examen de admisión.
+- [x] D) El rector de la universidad consideró de que era urgente reestructurar el examen de admisión.
   <!-- feedback: Correcto. Incurre en dequeísmo. El verbo 'considerar' es transitivo y exige un OD directo sin preposición: 'consideró *que era urgente...*' (consideró *eso*, no *de eso*). -->
-- [ ] D) No cabe duda de que los estudiantes peruanos poseen un alto potencial de innovación tecnológica.
+- [ ] C) No cabe duda de que los estudiantes peruanos poseen un alto potencial de innovación tecnológica.
   <!-- feedback: Incorrecto. Uso correcto de locución: 'no cabe duda de eso' (duda *de que*). -->
 
 ### Explicacion Pedagogica
@@ -375,9 +375,9 @@ Lea detenidamente la siguiente oración:
   <!-- feedback: Incorrecto. 'A los postulantes...' es un sintagma preposicional (marcado por la preposición 'A') que cumple la función sintáctica de objeto indirecto, por lo que no puede ser sujeto. -->
 - [ ] B) Facultad
   <!-- feedback: Incorrecto. Forma parte de un modificador indirecto dentro del objeto indirecto. -->
-- [x] C) resolver (verbo infinitivo como núcleo de la proposición sustantiva sujeto)
+- [x] D) resolver (verbo infinitivo como núcleo de la proposición sustantiva sujeto)
   <!-- feedback: Correcto. El sujeto de 'pareció' es la proposición subordinada sustantiva infinitiva 'resolver el último problema...'. El núcleo de dicha proposición sujeto es el infinitivo 'resolver' (sustituyendo: 'Eso les pareció complejo' -> 'Esas cosas les parecieron complejas'). -->
-- [ ] D) problema
+- [ ] C) problema
   <!-- feedback: Incorrecto. Es el objeto directo del verbo infinitivo 'resolver' (resolver *eso*), no el sujeto de la oración principal. -->
 
 ### Explicacion Pedagogica
@@ -426,11 +426,11 @@ Lea el enunciado:
 ¿Qué valor sintáctico o gramatical asume el pronombre 'Se' en esta oración?
 
 ### Opciones
-- [ ] A) Signo de reflexividad pura (el calzado se repara a sí mismo)
+- [ ] B) Signo de reflexividad pura (el calzado se repara a sí mismo)
   <!-- feedback: Incorrecto. El calzado es inanimado y no posee agencia para realizar acciones reflejas sobre sí mismo. -->
-- [ ] B) Signo de impersonalidad sintáctica sin sujeto gramatical plural
+- [ ] C) Signo de impersonalidad sintáctica sin sujeto gramatical plural
   <!-- feedback: Incorrecto. No es impersonal pura, ya que el verbo concuerda en plural con el sujeto 'calzados' ('Se reparan calzados' / 'Se repara el calzado'). -->
-- [x] C) Signo de pasiva refleja (marca de pasividad con sujeto expreso inanimado)
+- [x] A) Signo de pasiva refleja (marca de pasividad con sujeto expreso inanimado)
   <!-- feedback: Correcto. En este caso 'Se' es un morfema de pasiva refleja, donde 'calzados de cuero' funciona sintácticamente como el sujeto pasivo que concuerda en plural con el verbo 'reparan' ('Los calzados son reparados'). -->
 - [ ] D) Pronombre personal en función de objeto indirecto con clítico duplicado
   <!-- feedback: Incorrecto. No equivale a 'a él' o 'a ella' ni cumple funciones de beneficiario indirecto de la acción. -->
@@ -453,9 +453,9 @@ Lea el fragmento de un comunicado oficial:
 ¿Cómo evalúa la concordancia sintáctica de este enunciado y cuál es su corrección?
 
 ### Opciones
-- [ ] A) Es correcto porque 'medicamentos y vacunas' es un sujeto compuesto plural que rige el verbo en plural
+- [ ] B) Es correcto porque 'medicamentos y vacunas' es un sujeto compuesto plural que rige el verbo en plural
   <!-- feedback: Incorrecto. El núcleo del sujeto es el sustantivo singular 'dotación', por lo que el verbo debe concordar con este núcleo, no con sus modificadores indirectos. -->
-- [x] B) Incurre en solecismo por discordancia entre el núcleo del sujeto singular ('La dotación') y el verbo plural ('fueron distribuidas'), debiendo decirse 'fue distribuida'
+- [x] A) Incurre en solecismo por discordancia entre el núcleo del sujeto singular ('La dotación') y el verbo plural ('fueron distribuidas'), debiendo decirse 'fue distribuida'
   <!-- feedback: Correcto. El redactor sufrió un error de atracción sintáctica por la cercanía de los sustantivos plurales 'medicamentos y vacunas'. Sin embargo, al ser el núcleo 'dotación' (singular femenino), el predicado pasivo debe ser 'fue distribuida oportunamente'. -->
 - [ ] C) Debería decirse 'fueron distribuidos' para concordar con el género masculino de 'salud andinos'
   <!-- feedback: Incorrecto. 'Salud andinos' es parte de un circunstancial de destino y no tiene relación de concordancia con el verbo o sujeto. -->
@@ -480,9 +480,9 @@ Sintácticamente, el abuso de la voz pasiva analítica ('fue resuelto por este t
 ### Opciones
 - [ ] A) Prohíbe de forma terminante el uso de adjetivos de origen quechua o aimara
   <!-- feedback: Incorrecto. La pasiva no afecta al inventario léxico o uso de adjetivos indígenas. -->
-- [ ] B) Obliga a que todas las oraciones tengan que ser exclamativas y de bajo registro culterano
+- [ ] C) Obliga a que todas las oraciones tengan que ser exclamativas y de bajo registro culterano
   <!-- feedback: Incorrecto. La pasiva analítica es declarativa y de registro formal-culto tradicional. -->
-- [x] C) Dilata innecesariamente el procesamiento sintáctico de la oración y difumina la agencia directa del actor responsable del acto
+- [x] B) Dilata innecesariamente el procesamiento sintáctico de la oración y difumina la agencia directa del actor responsable del acto
   <!-- feedback: Correcto. La pasiva analítica pospone o invisibiliza al sujeto agente de la acción, sobrecargando la frase con verbos auxiliares ('fue', 'sido') que restan dinamismo y claridad expositiva en comparación con la voz activa directa ('este tribunal resolvió', 'la gerencia decidió'). -->
 - [ ] D) Exige de forma obligatoria duplicar los objetos directos en la conclusión del párrafo
   <!-- feedback: Incorrecto. No produce duplicación de objetos directos de forma obligatoria. -->

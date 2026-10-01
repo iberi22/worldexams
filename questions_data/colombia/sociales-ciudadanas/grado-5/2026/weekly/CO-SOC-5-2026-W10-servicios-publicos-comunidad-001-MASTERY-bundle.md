@@ -34,11 +34,11 @@ Los servicios públicos de la comunidad como el agua, la energía, el aseo, el t
 ¿Cuál de los siguientes es un servicio público?
 
 ### Opciones
-- [x] A) El agua potable que llega a las casas.
+- [x] C) El agua potable que llega a las casas.
   <!-- feedback: El agua potable es un servicio público que llega a los hogares de la comunidad. -->
-- [ ] B) El cuaderno que compra un estudiante en una papelería.
+- [ ] A) El cuaderno que compra un estudiante en una papelería.
   <!-- feedback: El cuaderno es un producto que se compra, no un servicio público. -->
-- [ ] C) Un juguete de una tienda del centro comercial.
+- [ ] B) Un juguete de una tienda del centro comercial.
   <!-- feedback: El juguete es un artículo de venta, no un servicio público. -->
 - [ ] D) Una película en el cine del barrio.
   <!-- feedback: Ir al cine es una actividad privada de entretenimiento, no un servicio público básico. -->
@@ -57,11 +57,11 @@ Reconocer ejemplos de servicios públicos básicos que la comunidad recibe para 
 ¿Por qué es necesario pagar los recibos de los servicios públicos?
 
 ### Opciones
-- [x] A) Porque con ese dinero se mantienen las redes que llevan el agua y la energía a las casas.
+- [x] C) Porque con ese dinero se mantienen las redes que llevan el agua y la energía a las casas.
   <!-- feedback: El pago de los recibos permite sostener y mejorar la infraestructura de los servicios. -->
-- [ ] B) Porque el agua y la energía se producen sin ningún costo ni trabajo.
+- [ ] A) Porque el agua y la energía se producen sin ningún costo ni trabajo.
   <!-- feedback: Llevar el agua y la energía a los hogares implica costos y trabajo que se deben cubrir. -->
-- [ ] C) Porque el pago hace que el agua deje de ser un recurso natural.
+- [ ] B) Porque el pago hace que el agua deje de ser un recurso natural.
   <!-- feedback: El agua sigue siendo un recurso natural; el pago cubre el servicio de llevarla. -->
 - [ ] D) Porque solo las familias ricas deben pagar por estos servicios.
   <!-- feedback: En general, todas las familias que usan el servicio contribuyen a su sostenimiento. -->
@@ -80,13 +80,13 @@ Comprender la relación entre el pago de los servicios públicos y el mantenimie
 ¿Cuál es la mejor forma de que la comunidad actúe para resolver el problema?
 
 ### Opciones
-- [x] A) Organizarse para presentar una petición respetuosa ante la empresa y las autoridades del municipio.
+- [x] D) Organizarse para presentar una petición respetuosa ante la empresa y las autoridades del municipio.
   <!-- feedback: En una democracia, los ciudadanos pueden pedir a las autoridades que atiendan sus necesidades. -->
-- [ ] B) Dejar de pagar los recibos sin avisar a nadie.
+- [ ] A) Dejar de pagar los recibos sin avisar a nadie.
   <!-- feedback: Dejar de pagar sin diálogo no resuelve el problema y puede afectar a más personas. -->
-- [ ] C) Bloquear las calles y dañar las tuberías del barrio.
+- [ ] B) Bloquear las calles y dañar las tuberías del barrio.
   <!-- feedback: Dañar bienes o bloquear no es una forma adecuada de resolver el problema. -->
-- [ ] D) Esperar en silencio a que el problema se arregle solo.
+- [ ] C) Esperar en silencio a que el problema se arregle solo.
   <!-- feedback: Organizarse y comunicar la necesidad ayuda más que esperar sin hacer nada. -->
 
 ### Explicacion Pedagogica
@@ -103,9 +103,9 @@ Aplicar formas de participación ciudadana para reclamar servicios públicos de 
 ¿Cuál acción ayuda a cuidar el agua y a mantener una buena convivencia?
 
 ### Opciones
-- [x] A) Acordar entre todos horarios y formas de ahorrar agua, y cumplirlos.
+- [x] B) Acordar entre todos horarios y formas de ahorrar agua, y cumplirlos.
   <!-- feedback: Los acuerdos colectivos permiten cuidar el recurso y evitar conflictos entre vecinos. -->
-- [ ] B) Usar toda el agua posible antes de que se acabe.
+- [ ] A) Usar toda el agua posible antes de que se acabe.
   <!-- feedback: Usar el agua sin control empeora la escasez y los problemas entre vecinos. -->
 - [ ] C) Culpar a un solo vecino por la falta de agua.
   <!-- feedback: Culpar sin pruebas genera conflictos y no ayuda a solucionar la escasez. -->
@@ -126,13 +126,13 @@ Aplicar acuerdos de convivencia para el uso responsable de un servicio público 
 ¿Qué situación refleja esta comparación?
 
 ### Opciones
-- [x] A) Que no todas las comunidades reciben los servicios públicos en las mismas condiciones.
+- [x] D) Que no todas las comunidades reciben los servicios públicos en las mismas condiciones.
   <!-- feedback: La comparación muestra una desigualdad en el acceso a un servicio básico. -->
-- [ ] B) Que el agua llega igual a todas las zonas de la ciudad.
+- [ ] A) Que el agua llega igual a todas las zonas de la ciudad.
   <!-- feedback: El caso muestra lo contrario: hay diferencias entre las zonas. -->
-- [ ] C) Que la falta de agua se debe a que una zona no paga los recibos.
+- [ ] B) Que la falta de agua se debe a que una zona no paga los recibos.
   <!-- feedback: El texto no indica esa causa; la diferencia puede deberse a varias razones. -->
-- [ ] D) Que los servicios públicos no tienen ninguna relación con la igualdad.
+- [ ] C) Que los servicios públicos no tienen ninguna relación con la igualdad.
   <!-- feedback: El acceso a los servicios públicos es una cuestión relacionada con la igualdad. -->
 
 ### Explicacion Pedagogica
@@ -149,11 +149,11 @@ Analizar desigualdades en el acceso a los servicios públicos y reconocer su rel
 ¿Cuál es el efecto principal de estas acciones para la familia y el ambiente?
 
 ### Opciones
-- [x] A) Reducen el consumo de recursos naturales y el valor del recibo de los servicios.
+- [x] C) Reducen el consumo de recursos naturales y el valor del recibo de los servicios.
   <!-- feedback: Ahorrar energía y agua disminuye el uso de recursos y el costo del servicio. -->
-- [ ] B) Aumentan el gasto de energía y el valor del recibo.
+- [ ] A) Aumentan el gasto de energía y el valor del recibo.
   <!-- feedback: Las acciones de ahorro hacen lo contrario: reducen el consumo y el gasto. -->
-- [ ] C) No tienen ningún efecto sobre el ambiente ni sobre el recibo.
+- [ ] B) No tienen ningún efecto sobre el ambiente ni sobre el recibo.
   <!-- feedback: Estas acciones sí reducen el consumo y, por lo tanto, el impacto ambiental y el costo. -->
 - [ ] D) Contaminan el agua y el aire de la ciudad.
   <!-- feedback: El ahorro de agua y energía ayuda a evitar la contaminación, no la produce. -->
@@ -172,13 +172,13 @@ Analizar cómo el uso responsable de los servicios públicos contribuye al cuida
 ¿Cuál es la mejor valoración de esta propuesta?
 
 ### Opciones
-- [x] A) Es buena, porque forma en el cuidado del agua y en el cumplimiento del deber de cuidar lo público.
+- [x] D) Es buena, porque forma en el cuidado del agua y en el cumplimiento del deber de cuidar lo público.
   <!-- feedback: Cuidar los recursos de todos es un deber ciudadano que la propuesta fomenta. -->
-- [ ] B) Es mala, porque el agua del colegio no le importa a nadie.
+- [ ] A) Es mala, porque el agua del colegio no le importa a nadie.
   <!-- feedback: Los recursos del colegio son bienes comunes que conviene cuidar entre todos. -->
-- [ ] C) Es inútil, porque avisar de las fugas no sirve para ahorrar agua.
+- [ ] B) Es inútil, porque avisar de las fugas no sirve para ahorrar agua.
   <!-- feedback: Avisar de las fugas permite repararlas y evita el desperdicio de agua. -->
-- [ ] D) Es peligrosa, porque cerrar las llaves daña las tuberías.
+- [ ] C) Es peligrosa, porque cerrar las llaves daña las tuberías.
   <!-- feedback: Cerrar bien las llaves no daña las tuberías; ayuda a evitar el desperdicio. -->
 
 ### Explicacion Pedagogica
@@ -195,9 +195,9 @@ Evaluar acciones ciudadanas de cuidado de los recursos públicos y reconocer el 
 ¿Cuál es la mejor valoración de la propuesta del vecino?
 
 ### Opciones
-- [x] A) No es adecuada, porque sacar la basura antes de tiempo ensucia las calles y afecta a todos.
+- [x] B) No es adecuada, porque sacar la basura antes de tiempo ensucia las calles y afecta a todos.
   <!-- feedback: Sacar la basura fuera del horario genera desorden y problemas de convivencia y salud. -->
-- [ ] B) Es adecuada, porque cada vecino puede sacar la basura cuando quiera.
+- [ ] A) Es adecuada, porque cada vecino puede sacar la basura cuando quiera.
   <!-- feedback: La basura debe sacarse en el horario del servicio para mantener limpia la comunidad. -->
 - [ ] C) Es adecuada, porque así se recoge más rápido.
   <!-- feedback: Dejarla antes no acelera la recolección y sí genera suciedad. -->

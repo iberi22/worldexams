@@ -54,9 +54,9 @@ En una matriz $A = [a_{ij}]$, ¿qué representan los subíndices $i$ y $j$?
 
 ### Opciones
 - [ ] A) $i$ es la columna y $j$ es la fila. <!-- feedback: Incorrecto. El orden estándar es fila primero, luego columna. -->
-- [x] B) $i$ es la fila (renglón) y $j$ es la columna. <!-- feedback: Correcto. El primer subíndice indica la posición horizontal y el segundo la vertical. -->
-- [ ] C) Son los valores que se deben multiplicar. <!-- feedback: Incorrecto. Son índices de posición, no valores numéricos de los elementos. -->
-- [ ] D) Representan el exponente de la matriz. <!-- feedback: Incorrecto. La posición no indica potencias. -->
+- [x] D) $i$ es la fila (renglón) y $j$ es la columna. <!-- feedback: Correcto. El primer subíndice indica la posición horizontal y el segundo la vertical. -->
+- [ ] B) Son los valores que se deben multiplicar. <!-- feedback: Incorrecto. Son índices de posición, no valores numéricos de los elementos. -->
+- [ ] C) Representan el exponente de la matriz. <!-- feedback: Incorrecto. La posición no indica potencias. -->
 
 ### Explicacion Pedagogica
 La notación universal $a_{ij}$ permite localizar cualquier elemento dentro de la matriz. Por ejemplo, $a_{23}$ es el elemento ubicado en la segunda fila y la tercera columna.
@@ -76,9 +76,9 @@ La notación universal $a_{ij}$ permite localizar cualquier elemento dentro de l
 
 ### Opciones
 - [ ] A) Que ambas sean matrices cuadradas. <!-- feedback: Incorrecto. Pueden ser rectangulares siempre que tengan el mismo orden. -->
-- [x] B) Que tengan el mismo orden (mismas dimensiones). <!-- feedback: Correcto. Para sumar elemento con elemento, la estructura de ambas matrices debe ser idéntica. -->
-- [ ] C) Que el número de columnas de la primera sea igual a las filas de la segunda. <!-- feedback: Incorrecto. Esta es la condición para la multiplicación, no para la suma. -->
-- [ ] D) Que todos sus elementos sean números positivos. <!-- feedback: Incorrecto. Se pueden sumar matrices con cualquier tipo de número real. -->
+- [x] D) Que tengan el mismo orden (mismas dimensiones). <!-- feedback: Correcto. Para sumar elemento con elemento, la estructura de ambas matrices debe ser idéntica. -->
+- [ ] B) Que el número de columnas de la primera sea igual a las filas de la segunda. <!-- feedback: Incorrecto. Esta es la condición para la multiplicación, no para la suma. -->
+- [ ] C) Que todos sus elementos sean números positivos. <!-- feedback: Incorrecto. Se pueden sumar matrices con cualquier tipo de número real. -->
 
 ### Explicacion Pedagogica
 La suma de matrices se realiza sumando los elementos que ocupan la misma posición. Si las matrices no tienen el mismo número de filas y columnas, habrá elementos que no tengan "pareja" para sumarse, por lo que la operación no está definida.
@@ -98,9 +98,9 @@ La suma de matrices se realiza sumando los elementos que ocupan la misma posici�
 
 ### Opciones
 - [ ] A) Todos sus elementos son iguales a 1. <!-- feedback: Incorrecto. Esa sería una matriz de unos. -->
-- [x] B) Es una matriz cuadrada con 1 en la diagonal principal y 0 en los demás lugares. <!-- feedback: Correcto. Funciona como el elemento neutro multiplicativo en las matrices. -->
-- [ ] C) Todos sus elementos son iguales a 0. <!-- feedback: Incorrecto. Esa es la matriz nula. -->
-- [ ] D) Es una matriz que solo tiene una fila y una columna. <!-- feedback: Incorrecto. Puede ser de cualquier orden n x n. -->
+- [x] D) Es una matriz cuadrada con 1 en la diagonal principal y 0 en los demás lugares. <!-- feedback: Correcto. Funciona como el elemento neutro multiplicativo en las matrices. -->
+- [ ] B) Todos sus elementos son iguales a 0. <!-- feedback: Incorrecto. Esa es la matriz nula. -->
+- [ ] C) Es una matriz que solo tiene una fila y una columna. <!-- feedback: Incorrecto. Puede ser de cualquier orden n x n. -->
 
 ### Explicacion Pedagogica
 La matriz identidad es fundamental porque al multiplicarla por cualquier matriz $A$ del mismo orden, el resultado es la misma matriz $A$. Es el equivalente al número 1 en los números reales.
@@ -142,8 +142,8 @@ Si la matriz $C = \begin{pmatrix} 5 & -3 \\ 2 & 0 \end{pmatrix}$, determine el r
 
 ### Opciones
 - [ ] A) $\begin{pmatrix} 10 & -3 \\ 2 & 0 \end{pmatrix}$ <!-- feedback: Incorrecto. Solo multiplicó el primer elemento por el escalar. -->
-- [x] B) $\begin{pmatrix} 10 & -6 \\ 4 & 0 \end{pmatrix}$ <!-- feedback: Correcto. El escalar 2 multiplica a todos y cada uno de los elementos de la matriz. -->
-- [ ] C) $\begin{pmatrix} 7 & -1 \\ 4 & 2 \end{pmatrix}$ <!-- feedback: Incorrecto. Sumó el escalar 2 a cada elemento en lugar de multiplicar. -->
+- [x] C) $\begin{pmatrix} 10 & -6 \\ 4 & 0 \end{pmatrix}$ <!-- feedback: Correcto. El escalar 2 multiplica a todos y cada uno de los elementos de la matriz. -->
+- [ ] B) $\begin{pmatrix} 7 & -1 \\ 4 & 2 \end{pmatrix}$ <!-- feedback: Incorrecto. Sumó el escalar 2 a cada elemento en lugar de multiplicar. -->
 - [ ] D) $\begin{pmatrix} 25 & 9 \\ 4 & 0 \end{pmatrix}$ <!-- feedback: Incorrecto. Elevó los elementos al cuadrado en lugar de multiplicar por 2. -->
 
 ### Explicacion Pedagogica
@@ -164,9 +164,9 @@ Dadas $X = \begin{pmatrix} 8 \\ 5 \end{pmatrix}$ y $Y = \begin{pmatrix} 3 \\ -2 
 
 ### Opciones
 - [ ] A) $\begin{pmatrix} 5 \\ 3 \end{pmatrix}$ <!-- feedback: Incorrecto. Error de signos: 5 - (-2) es igual a 7, no a 3. -->
-- [x] B) $\begin{pmatrix} 5 \\ 7 \end{pmatrix}$ <!-- feedback: Correcto. Restando componentes: (8-3) = 5, (5 - (-2)) = 7. -->
-- [ ] C) $\begin{pmatrix} 11 \\ 3 \end{pmatrix}$ <!-- feedback: Incorrecto. Sumó los elementos en lugar de restarlos. -->
-- [ ] D) $\begin{pmatrix} 5 \\ -7 \end{pmatrix}$ <!-- feedback: Incorrecto. Error en la aplicación de la ley de los signos. -->
+- [x] D) $\begin{pmatrix} 5 \\ 7 \end{pmatrix}$ <!-- feedback: Correcto. Restando componentes: (8-3) = 5, (5 - (-2)) = 7. -->
+- [ ] B) $\begin{pmatrix} 11 \\ 3 \end{pmatrix}$ <!-- feedback: Incorrecto. Sumó los elementos en lugar de restarlos. -->
+- [ ] C) $\begin{pmatrix} 5 \\ -7 \end{pmatrix}$ <!-- feedback: Incorrecto. Error en la aplicación de la ley de los signos. -->
 
 ### Explicacion Pedagogica
 La resta de matrices $X - Y$ es equivalente a sumar a $X$ la matriz opuesta de $Y$. Debemos tener especial cuidado al restar números negativos, ya que se convierten en una suma: $5 - (-2) = 5 + 2 = 7$.
@@ -208,8 +208,8 @@ Calcule el elemento $c_{11}$ del producto $C = A \cdot B$, donde $A = \begin{pma
 
 ### Opciones
 - [ ] A) 5 <!-- feedback: Incorrecto. Solo multiplicó los primeros elementos de cada matriz. -->
-- [ ] B) 14 <!-- feedback: Incorrecto. Multiplicó 2 por 7 pero olvidó sumar el producto del otro par de elementos. -->
-- [x] C) 19 <!-- feedback: Correcto. c11 = (fila 1 de A) * (columna 1 de B) = (1*5) + (2*7) = 5 + 14 = 19. -->
+- [ ] C) 14 <!-- feedback: Incorrecto. Multiplicó 2 por 7 pero olvidó sumar el producto del otro par de elementos. -->
+- [x] B) 19 <!-- feedback: Correcto. c11 = (fila 1 de A) * (columna 1 de B) = (1*5) + (2*7) = 5 + 14 = 19. -->
 - [ ] D) 11 <!-- feedback: Incorrecto. Sumó los elementos en lugar de realizar el producto punto de fila por columna. -->
 
 ### Explicacion Pedagogica
@@ -229,8 +229,8 @@ Para obtener un elemento en la posición $ij$ del producto, multiplicamos la fil
 Dadas dos matrices cuadradas $A$ y $B$ del mismo orden, ¿cuál de las siguientes afirmaciones sobre la multiplicación es generalmente cierta?
 
 ### Opciones
-- [ ] A) $A \cdot B = B \cdot A$ <!-- feedback: Incorrecto. La multiplicación de matrices NO es conmutativa en la mayoría de los casos. -->
-- [x] B) $A \cdot B \neq B \cdot A$ <!-- feedback: Correcto. A diferencia de los números reales, el orden de los factores sí altera el producto en las matrices. -->
+- [ ] B) $A \cdot B = B \cdot A$ <!-- feedback: Incorrecto. La multiplicación de matrices NO es conmutativa en la mayoría de los casos. -->
+- [x] A) $A \cdot B \neq B \cdot A$ <!-- feedback: Correcto. A diferencia de los números reales, el orden de los factores sí altera el producto en las matrices. -->
 - [ ] C) El producto siempre da una matriz identidad. <!-- feedback: Incorrecto. Solo si B es la inversa de A. -->
 - [ ] D) El producto siempre es una matriz nula. <!-- feedback: Incorrecto. Solo si una de las matrices es nula. -->
 
@@ -251,8 +251,8 @@ La multiplicación de matrices es una de las primeras operaciones matemáticas q
 Calcule el producto $A \cdot B$ de las matrices $A = \begin{pmatrix} 1 & 0 \\ 0 & 2 \end{pmatrix}$ y $B = \begin{pmatrix} 3 & 4 \\ 5 & 6 \end{pmatrix}$.
 
 ### Opciones
-- [ ] A) $\begin{pmatrix} 3 & 4 \\ 5 & 6 \end{pmatrix}$ <!-- feedback: Incorrecto. No consideró el efecto del valor 2 en la matriz diagonal. -->
-- [x] B) $\begin{pmatrix} 3 & 4 \\ 10 & 12 \end{pmatrix}$ <!-- feedback: Correcto. (1*3 + 0*5, 1*4 + 0*6) = (3, 4); (0*3 + 2*5, 0*4 + 2*6) = (10, 12). -->
+- [ ] B) $\begin{pmatrix} 3 & 4 \\ 5 & 6 \end{pmatrix}$ <!-- feedback: Incorrecto. No consideró el efecto del valor 2 en la matriz diagonal. -->
+- [x] A) $\begin{pmatrix} 3 & 4 \\ 10 & 12 \end{pmatrix}$ <!-- feedback: Correcto. (1*3 + 0*5, 1*4 + 0*6) = (3, 4); (0*3 + 2*5, 0*4 + 2*6) = (10, 12). -->
 - [ ] C) $\begin{pmatrix} 3 & 8 \\ 5 & 12 \end{pmatrix}$ <!-- feedback: Incorrecto. Multiplicó elementos correspondientes en lugar de fila por columna. -->
 - [ ] D) $\begin{pmatrix} 3 & 0 \\ 0 & 12 \end{pmatrix}$ <!-- feedback: Incorrecto. Trató la segunda matriz como si fuera diagonal también. -->
 
@@ -274,8 +274,8 @@ Dada $I = \begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix}$ y $A = \begin{pmatrix} 0
 
 ### Opciones
 - [ ] A) $\begin{pmatrix} 1.2 & 0.1 \\ 0.4 & 1.3 \end{pmatrix}$ <!-- feedback: Incorrecto. Realizó una suma en lugar de una resta. -->
-- [x] B) $\begin{pmatrix} 0.8 & -0.1 \\ -0.4 & 0.7 \end{pmatrix}$ <!-- feedback: Correcto. (1-0.2, 0-0.1) = (0.8, -0.1); (0-0.4, 1-0.3) = (-0.4, 0.7). -->
-- [ ] C) $\begin{pmatrix} -0.2 & -0.1 \\ -0.4 & -0.3 \end{pmatrix}$ <!-- feedback: Incorrecto. Olvidó restar de los elementos de la matriz identidad. -->
+- [x] C) $\begin{pmatrix} 0.8 & -0.1 \\ -0.4 & 0.7 \end{pmatrix}$ <!-- feedback: Correcto. (1-0.2, 0-0.1) = (0.8, -0.1); (0-0.4, 1-0.3) = (-0.4, 0.7). -->
+- [ ] B) $\begin{pmatrix} -0.2 & -0.1 \\ -0.4 & -0.3 \end{pmatrix}$ <!-- feedback: Incorrecto. Olvidó restar de los elementos de la matriz identidad. -->
 - [ ] D) $\begin{pmatrix} 0.8 & 0.9 \\ 0.6 & 0.7 \end{pmatrix}$ <!-- feedback: Incorrecto. No aplicó correctamente los signos negativos al restar de cero. -->
 
 ### Explicacion Pedagogica
@@ -339,8 +339,8 @@ La operación de transposición "voltea" la matriz sobre su diagonal principal. 
 Dada la ecuación $2X + A = B$, donde $A = \begin{pmatrix} 1 & 2 \\ 3 & 4 \end{pmatrix}$ y $B = \begin{pmatrix} 5 & 10 \\ 7 & 12 \end{pmatrix}$, determine la matriz $X$.
 
 ### Opciones
-- [ ] A) $\begin{pmatrix} 4 & 8 \\ 4 & 8 \end{pmatrix}$ <!-- feedback: Incorrecto. Olvidó dividir por el escalar 2 tras restar las matrices. -->
-- [x] B) $\begin{pmatrix} 2 & 4 \\ 2 & 4 \end{pmatrix}$ <!-- feedback: Correcto. B - A = (4, 8), (4, 8). Luego dividiendo entre 2: (2, 4), (2, 4). -->
+- [ ] B) $\begin{pmatrix} 4 & 8 \\ 4 & 8 \end{pmatrix}$ <!-- feedback: Incorrecto. Olvidó dividir por el escalar 2 tras restar las matrices. -->
+- [x] A) $\begin{pmatrix} 2 & 4 \\ 2 & 4 \end{pmatrix}$ <!-- feedback: Correcto. B - A = (4, 8), (4, 8). Luego dividiendo entre 2: (2, 4), (2, 4). -->
 - [ ] C) $\begin{pmatrix} 3 & 6 \\ 5 & 8 \end{pmatrix}$ <!-- feedback: Incorrecto. Realizó la suma A + B y luego dividió entre 2. -->
 - [ ] D) $\begin{pmatrix} 6 & 12 \\ 10 & 16 \end{pmatrix}$ <!-- feedback: Incorrecto. Sumó las matrices sin despejar correctamente la ecuación. -->
 
@@ -406,8 +406,8 @@ Para elevar una matriz al cuadrado, multiplicamos la matriz por sí misma ($A \c
 
 ### Opciones
 - [ ] A) $A^T \cdot B^T$ <!-- feedback: Incorrecto. Al transponer un producto, el orden de los factores debe invertirse. -->
-- [x] B) $B^T \cdot A^T$ <!-- feedback: Correcto. Es una propiedad fundamental: la transpuesta del producto es el producto de las transpuestas en orden inverso. -->
-- [ ] C) $(B \cdot A)^T$ <!-- feedback: Incorrecto. Esto no simplifica la expresión según las leyes del álgebra matricial. -->
+- [x] C) $B^T \cdot A^T$ <!-- feedback: Correcto. Es una propiedad fundamental: la transpuesta del producto es el producto de las transpuestas en orden inverso. -->
+- [ ] B) $(B \cdot A)^T$ <!-- feedback: Incorrecto. Esto no simplifica la expresión según las leyes del álgebra matricial. -->
 - [ ] D) $A \cdot B$ <!-- feedback: Incorrecto. La transposición generalmente cambia la matriz original. -->
 
 ### Explicacion Pedagogica
@@ -427,9 +427,9 @@ Esta propiedad es crucial en demostraciones de álgebra lineal. Al transponer, n
 ¿Qué condición debe cumplir una matriz cuadrada para ser considerada "Simétrica"?
 
 ### Opciones
-- [ ] A) Todos sus elementos deben ser iguales. <!-- feedback: Incorrecto. Esta sería una matriz constante. -->
-- [ ] B) Su determinante debe ser cero. <!-- feedback: Incorrecto. Una matriz simétrica puede tener cualquier determinante. -->
-- [x] C) Debe ser igual a su propia transpuesta ($A = A^T$). <!-- feedback: Correcto. Los elementos a_ij deben ser iguales a los elementos a_ji. -->
+- [ ] B) Todos sus elementos deben ser iguales. <!-- feedback: Incorrecto. Esta sería una matriz constante. -->
+- [ ] C) Su determinante debe ser cero. <!-- feedback: Incorrecto. Una matriz simétrica puede tener cualquier determinante. -->
+- [x] A) Debe ser igual a su propia transpuesta ($A = A^T$). <!-- feedback: Correcto. Los elementos a_ij deben ser iguales a los elementos a_ji. -->
 - [ ] D) Su diagonal principal debe ser de puros ceros. <!-- feedback: Incorrecto. Esto describe a una matriz antisimétrica si además los otros elementos cambian de signo. -->
 
 ### Explicacion Pedagogica
@@ -450,8 +450,8 @@ Dada la expresión $A(B + C) - AB$, ¿a qué es equivalente simplificando median
 
 ### Opciones
 - [ ] A) $AC - AB$ <!-- feedback: Incorrecto. Error al aplicar la propiedad distributiva. -->
-- [x] B) $AC$ <!-- feedback: Correcto. Aplicando distributividad: AB + AC - AB. Los términos AB y -AB se cancelan, quedando solo AC. -->
-- [ ] C) $A(B + C)$ <!-- feedback: Incorrecto. No consideró la resta del término final. -->
+- [x] C) $AC$ <!-- feedback: Correcto. Aplicando distributividad: AB + AC - AB. Los términos AB y -AB se cancelan, quedando solo AC. -->
+- [ ] B) $A(B + C)$ <!-- feedback: Incorrecto. No consideró la resta del término final. -->
 - [ ] D) $C$ <!-- feedback: Incorrecto. Olvidó que la matriz A sigue multiplicando al resultado. -->
 
 ### Explicacion Pedagogica

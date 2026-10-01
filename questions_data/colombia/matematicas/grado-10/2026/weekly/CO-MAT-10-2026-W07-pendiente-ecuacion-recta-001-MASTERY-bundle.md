@@ -32,9 +32,9 @@ Este bundle contiene 12 preguntas sobre **pendiente-ecuacion-recta** para grado 
 ### Enunciado
 ¿Cuál es la fórmula de la pendiente de la recta que pasa por $(x_1, y_1)$ y $(x_2, y_2)$?
 ### Opciones
-- [x] A) $m = \frac{y_2 - y_1}{x_2 - x_1}$
+- [x] B) $m = \frac{y_2 - y_1}{x_2 - x_1}$
   <!-- feedback: Correcto. La pendiente es el cociente entre el cambio vertical y el cambio horizontal. -->
-- [ ] B) $m = \frac{x_2 - x_1}{y_2 - y_1}$
+- [ ] A) $m = \frac{x_2 - x_1}{y_2 - y_1}$
   <!-- feedback: Incorrecto. Invertiste el orden de las diferencias. -->
 - [ ] C) $m = (y_2 - y_1)(x_2 - x_1)$
   <!-- feedback: Incorrecto. La pendiente es un cociente, no un producto. -->
@@ -52,13 +52,13 @@ La pendiente $m = \frac{y_2 - y_1}{x_2 - x_1}$ mide la inclinación de la recta 
 ### Enunciado
 ¿Cuál es la pendiente de una recta horizontal?
 ### Opciones
-- [x] A) $0$
+- [x] D) $0$
   <!-- feedback: Correcto. No hay cambio vertical, por lo que el numerador es cero. -->
-- [ ] B) $1$
+- [ ] A) $1$
   <!-- feedback: Incorrecto. Pendiente $1$ corresponde a una recta a $45^\circ$. -->
-- [ ] C) Indefinida
+- [ ] B) Indefinida
   <!-- feedback: Incorrecto. La pendiente indefinida corresponde a una recta vertical. -->
-- [ ] D) Negativa
+- [ ] C) Negativa
   <!-- feedback: Incorrecto. La pendiente negativa indica que la recta desciende. -->
 ### Explicacion Pedagogica
 En una recta horizontal, $y_2 = y_1$, así que $m = \frac{0}{x_2 - x_1} = 0$.
@@ -72,9 +72,9 @@ En una recta horizontal, $y_2 = y_1$, así que $m = \frac{0}{x_2 - x_1} = 0$.
 ### Enunciado
 ¿Cuál es la pendiente de una recta vertical?
 ### Opciones
-- [x] A) Indefinida
+- [x] B) Indefinida
   <!-- feedback: Correcto. No hay cambio horizontal, por lo que el denominador es cero. -->
-- [ ] B) $0$
+- [ ] A) $0$
   <!-- feedback: Incorrecto. $0$ es la pendiente de una recta horizontal. -->
 - [ ] C) $1$
   <!-- feedback: Incorrecto. No corresponde a una recta vertical. -->
@@ -92,11 +92,11 @@ En una recta vertical, $x_2 = x_1$, por lo que el denominador es cero y la pendi
 ### Enunciado
 ¿Cuál es la pendiente de la recta que pasa por esos puntos?
 ### Opciones
-- [x] A) $2$
+- [x] C) $2$
   <!-- feedback: Correcto. $m = \frac{8 - 2}{4 - 1} = \frac{6}{3} = 2$. -->
-- [ ] B) $\frac{1}{2}$
+- [ ] A) $\frac{1}{2}$
   <!-- feedback: Incorrecto. Invertiste la fracción de las diferencias. -->
-- [ ] C) $3$
+- [ ] B) $3$
   <!-- feedback: Incorrecto. Usaste las coordenadas en vez de las diferencias. -->
 - [ ] D) $6$
   <!-- feedback: Incorrecto. Ese es el cambio vertical sin dividir entre el horizontal. -->
@@ -112,11 +112,11 @@ $m = \frac{y_2 - y_1}{x_2 - x_1} = \frac{8 - 2}{4 - 1} = \frac{6}{3} = 2$.
 ### Enunciado
 Usando la forma punto-pendiente, ¿cuál es la ecuación de la recta?
 ### Opciones
-- [x] A) $y - 5 = 3(x - 2)$
+- [x] C) $y - 5 = 3(x - 2)$
   <!-- feedback: Correcto. La forma punto-pendiente es $y - y_1 = m(x - x_1)$. -->
-- [ ] B) $y + 5 = 3(x + 2)$
+- [ ] A) $y + 5 = 3(x + 2)$
   <!-- feedback: Incorrecto. Los signos del punto deben restarse. -->
-- [ ] C) $y - 5 = 3(x + 2)$
+- [ ] B) $y - 5 = 3(x + 2)$
   <!-- feedback: Incorrecto. Se resta la abscisa del punto. -->
 - [ ] D) $y = 3x + 5$
   <!-- feedback: Incorrecto. El punto $(2, 5)$ no pertenece a esa recta. -->
@@ -172,11 +172,11 @@ Con $y = 0$, $3x = 6$, luego $x = 2$. Con $x = 0$, $-2y = 6$, luego $y = -3$.
 ### Enunciado
 ¿Cuál es la pendiente de la recta?
 ### Opciones
-- [x] A) $2$
+- [x] C) $2$
   <!-- feedback: Correcto. Despejando: $2y = 4x + 8$, luego $y = 2x + 4$; la pendiente es $2$. -->
-- [ ] B) $-2$
+- [ ] A) $-2$
   <!-- feedback: Incorrecto. Al despejar, el signo del coeficiente de $x$ cambia. -->
-- [ ] C) $\frac{1}{2}$
+- [ ] B) $\frac{1}{2}$
   <!-- feedback: Incorrecto. No dividiste correctamente. -->
 - [ ] D) $4$
   <!-- feedback: Incorrecto. Ese es el intercepto, no la pendiente. -->
@@ -192,9 +192,9 @@ Despejando $y$: $2y = 4x + 8$, es decir $y = 2x + 4$. La pendiente es $m = 2$.
 ### Enunciado
 ¿Cuál es la conclusión correcta?
 ### Opciones
-- [x] A) Sí son colineales, pues la pendiente entre $A$ y $B$ es igual a la de $B$ y $C$.
+- [x] B) Sí son colineales, pues la pendiente entre $A$ y $B$ es igual a la de $B$ y $C$.
   <!-- feedback: Correcto. $m_{AB} = \frac{5-1}{3-1} = 2$ y $m_{BC} = \frac{9-5}{5-3} = 2$; pendientes iguales. -->
-- [ ] B) No son colineales.
+- [ ] A) No son colineales.
   <!-- feedback: Incorrecto. Las pendientes calculadas son iguales. -->
 - [ ] C) Forman un triángulo rectángulo.
   <!-- feedback: Incorrecto. Los tres puntos están sobre una misma recta. -->
@@ -232,9 +232,9 @@ $m = 3$. De $y - 2 = 3(x - 1)$ se obtiene $y = 3x - 1$, y llevando a forma gener
 ### Enunciado
 ¿Cuál es el ángulo de inclinación de la recta respecto al eje $x$ positivo?
 ### Opciones
-- [x] A) $60^\circ$
+- [x] B) $60^\circ$
   <!-- feedback: Correcto. $\tan \theta = \sqrt{3}$, por lo que $\theta = 60^\circ$. -->
-- [ ] B) $30^\circ$
+- [ ] A) $30^\circ$
   <!-- feedback: Incorrecto. $\tan 30^\circ = \frac{\sqrt{3}}{3}$, no $\sqrt{3}$. -->
 - [ ] C) $45^\circ$
   <!-- feedback: Incorrecto. $\tan 45^\circ = 1$. -->
@@ -252,11 +252,11 @@ El ángulo de inclinación cumple $\tan \theta = m$. Como $\tan 60^\circ = \sqrt
 ### Enunciado
 Modelando con una recta, ¿cuántos litros habrá a los $10$ minutos?
 ### Opciones
-- [x] A) $100$ litros
+- [x] C) $100$ litros
   <!-- feedback: Correcto. La recta es $V = 10t$ (pendiente $\frac{60-20}{6-2} = 10$); a $t = 10$, $V = 100$. -->
-- [ ] B) $80$ litros
+- [ ] A) $80$ litros
   <!-- feedback: Incorrecto. Subestimaste el ritmo de llenado. -->
-- [ ] C) $90$ litros
+- [ ] B) $90$ litros
   <!-- feedback: Incorrecto. La pendiente es $10$ litros por minuto, no $9$. -->
 - [ ] D) $120$ litros
   <!-- feedback: Incorrecto. Sobrestimaste el ritmo de llenado. -->

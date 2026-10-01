@@ -72,9 +72,9 @@ El elemento neutro multiplicativo garantiza que para cualquier real $a$, $a \cdo
 
 ### Opciones
 - [ ] A) Elemento Neutro <!-- feedback: Incorrecto. El neutro es el resultado, no la propiedad del número operado. -->
-- [x] B) Inverso Multiplicativo <!-- feedback: Correcto. Todo número real distinto de cero tiene un recíproco que al multiplicarse por él da la unidad. -->
-- [ ] C) Propiedad Conmutativa <!-- feedback: Incorrecto. No se refiere al orden. -->
-- [ ] D) Propiedad Clausurativa <!-- feedback: Incorrecto. Indica que el resultado permanece en los reales. -->
+- [x] D) Inverso Multiplicativo <!-- feedback: Correcto. Todo número real distinto de cero tiene un recíproco que al multiplicarse por él da la unidad. -->
+- [ ] B) Propiedad Conmutativa <!-- feedback: Incorrecto. No se refiere al orden. -->
+- [ ] C) Propiedad Clausurativa <!-- feedback: Incorrecto. Indica que el resultado permanece en los reales. -->
 
 ### Explicacion Pedagogica
 La existencia del inverso multiplicativo (recíproco) es una propiedad de campo de los números reales para todo $a \neq 0$.
@@ -92,8 +92,8 @@ La existencia del inverso multiplicativo (recíproco) es una propiedad de campo 
 Al transformar $2(x + 3)$ en $2x + 6$, ¿qué propiedad se ha utilizado?
 
 ### Opciones
-- [x] A) Propiedad Distributiva <!-- feedback: Correcto. La multiplicación se distribuyó sobre cada término de la suma. -->
-- [ ] B) Propiedad Asociativa <!-- feedback: Incorrecto. No hubo cambios en el agrupamiento de operaciones iguales. -->
+- [x] B) Propiedad Distributiva <!-- feedback: Correcto. La multiplicación se distribuyó sobre cada término de la suma. -->
+- [ ] A) Propiedad Asociativa <!-- feedback: Incorrecto. No hubo cambios en el agrupamiento de operaciones iguales. -->
 - [ ] C) Propiedad Conmutativa <!-- feedback: Incorrecto. Los términos mantienen su orden relativo. -->
 - [ ] D) Propiedad de Identidad <!-- feedback: Incorrecto. No se operó con el elemento neutro. -->
 
@@ -113,8 +113,8 @@ La propiedad distributiva vincula la multiplicación con la suma: $a(b+c) = ab +
 ¿Cuál es la distancia total en grados entre ambas mediciones en la recta numérica?
 
 ### Opciones
-- [ ] A) 6.8 <!-- feedback: Incorrecto. Has restado los valores absolutos en lugar de sumarlos. -->
-- [x] B) 37.8 <!-- feedback: Correcto. $|22.3 - (-15.5)| = 22.3 + 15.5 = 37.8$. -->
+- [ ] B) 6.8 <!-- feedback: Incorrecto. Has restado los valores absolutos en lugar de sumarlos. -->
+- [x] A) 37.8 <!-- feedback: Correcto. $|22.3 - (-15.5)| = 22.3 + 15.5 = 37.8$. -->
 - [ ] C) -37.8 <!-- feedback: Incorrecto. La distancia siempre es una magnitud positiva. -->
 - [ ] D) 7.2 <!-- feedback: Incorrecto. Error en la suma decimal. -->
 
@@ -135,8 +135,8 @@ Si el radio es de 10 metros, ¿cuál es el área aproximada ($A = \pi r^2$)?
 
 ### Opciones
 - [ ] A) 31.4 m2 <!-- feedback: Incorrecto. Olvidaste elevar el radio al cuadrado. -->
-- [x] B) 314 m2 <!-- feedback: Correcto. $3.14 \cdot 10^2 = 3.14 \cdot 100 = 314$. -->
-- [ ] C) 628 m2 <!-- feedback: Incorrecto. Has multiplicado por 2 en lugar de elevar al cuadrado. -->
+- [x] C) 314 m2 <!-- feedback: Correcto. $3.14 \cdot 10^2 = 3.14 \cdot 100 = 314$. -->
+- [ ] B) 628 m2 <!-- feedback: Incorrecto. Has multiplicado por 2 en lugar de elevar al cuadrado. -->
 - [ ] D) 3,140 m2 <!-- feedback: Incorrecto. Error en el desplazamiento del punto decimal. -->
 
 ### Explicacion Pedagogica
@@ -156,8 +156,8 @@ Se aplica la jerarquía de operaciones: primero la potencia ($10^2 = 100$) y lue
 
 ### Opciones
 - [ ] A) 0.45 <!-- feedback: Incorrecto. Es menor que 0.5 (1/2). -->
-- [x] B) 0.60 <!-- feedback: Correcto. 0.60 está entre 0.50 y 0.75. -->
-- [ ] C) 0.80 <!-- feedback: Incorrecto. Es mayor que 0.75 (3/4). -->
+- [x] C) 0.60 <!-- feedback: Correcto. 0.60 está entre 0.50 y 0.75. -->
+- [ ] B) 0.80 <!-- feedback: Incorrecto. Es mayor que 0.75 (3/4). -->
 - [ ] D) 0.25 <!-- feedback: Incorrecto. Es mucho menor que el rango solicitado. -->
 
 ### Explicacion Pedagogica
@@ -197,9 +197,9 @@ Usamos factores multiplicativos: $0.9 \cdot 0.9 = 0.81$. El descuento es $1 - 0.
 ¿Qué propiedad de los números reales garantiza que no hay "espacios vacíos" en la recta numérica?
 
 ### Opciones
-- [ ] A) Propiedad Conmutativa <!-- feedback: Incorrecto. Se refiere al orden de operaciones. -->
-- [ ] B) Propiedad de Densidad <!-- feedback: Incorrecto. La densidad dice que hay infinitos entre dos, pero los racionales son densos y tienen "huecos". -->
-- [x] C) Propiedad de Completitud <!-- feedback: Correcto. Los reales completan la recta al incluir todos los puntos posibles (racionales e irracionales). -->
+- [ ] B) Propiedad Conmutativa <!-- feedback: Incorrecto. Se refiere al orden de operaciones. -->
+- [ ] C) Propiedad de Densidad <!-- feedback: Incorrecto. La densidad dice que hay infinitos entre dos, pero los racionales son densos y tienen "huecos". -->
+- [x] A) Propiedad de Completitud <!-- feedback: Correcto. Los reales completan la recta al incluir todos los puntos posibles (racionales e irracionales). -->
 - [ ] D) Propiedad Clausurativa <!-- feedback: Incorrecto. Se refiere a la permanencia en el conjunto. -->
 
 ### Explicacion Pedagogica
@@ -218,8 +218,8 @@ La completitud es lo que diferencia a los reales de los racionales.
 ¿Cuál es la longitud de la diagonal ($d = \sqrt{a^2 + b^2}$)?
 
 ### Opciones
-- [ ] A) 7 m <!-- feedback: Incorrecto. Has sumado los lados sin elevar al cuadrado. -->
-- [x] B) 5 m <!-- feedback: Correcto. $\sqrt{3^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5$. -->
+- [ ] B) 7 m <!-- feedback: Incorrecto. Has sumado los lados sin elevar al cuadrado. -->
+- [x] A) 5 m <!-- feedback: Correcto. $\sqrt{3^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5$. -->
 - [ ] C) 25 m <!-- feedback: Incorrecto. Olvidaste extraer la raíz cuadrada final. -->
 - [ ] D) 4.5 m <!-- feedback: Incorrecto. Error de cálculo en las potencias. -->
 
@@ -241,8 +241,8 @@ Se aplica el teorema de Pitágoras sobre números reales enteros.
 ### Opciones
 - [ ] A) Para todos los reales. <!-- feedback: Incorrecto. Para positivos, |x| = x. -->
 - [ ] B) Para ningún real. <!-- feedback: Incorrecto. Para negativos sí se cumple. -->
-- [x] C) Para los números reales negativos y el cero. <!-- feedback: Correcto. Si x es negativo, -x es positivo, igualando al valor absoluto. -->
-- [ ] D) Solo para x = 0. <!-- feedback: Incorrecto. También se cumple para -1, -2, etc. -->
+- [x] D) Para los números reales negativos y el cero. <!-- feedback: Correcto. Si x es negativo, -x es positivo, igualando al valor absoluto. -->
+- [ ] C) Solo para x = 0. <!-- feedback: Incorrecto. También se cumple para -1, -2, etc. -->
 
 ### Explicacion Pedagogica
 Por definición, $|x| = -x$ si $x \leq 0$.
@@ -260,8 +260,8 @@ Por definición, $|x| = -x$ si $x \leq 0$.
 ¿Cuál es el resultado simplificado?
 
 ### Opciones
-- [ ] A) 1 <!-- feedback: Incorrecto. Los radicales no se cancelan, se suman. -->
-- [x] B) $1 + 2\sqrt{2}$ <!-- feedback: Correcto. $2 - 1 = 1$ y $\sqrt{2} - (-\sqrt{2}) = 2\sqrt{2}$. -->
+- [ ] B) 1 <!-- feedback: Incorrecto. Los radicales no se cancelan, se suman. -->
+- [x] A) $1 + 2\sqrt{2}$ <!-- feedback: Correcto. $2 - 1 = 1$ y $\sqrt{2} - (-\sqrt{2}) = 2\sqrt{2}$. -->
 - [ ] C) $3 + 2\sqrt{2}$ <!-- feedback: Incorrecto. Error en la resta de los enteros. -->
 - [ ] D) $1 - 2\sqrt{2}$ <!-- feedback: Incorrecto. Error de signo en la operación con radicales. -->
 
@@ -344,9 +344,9 @@ Se resuelve primero lo interno al corchete (multiplicación antes que suma) y lu
 ¿Qué conjunto es una extensión de los reales para incluir raíces de negativos?
 
 ### Opciones
-- [ ] A) Enteros <!-- feedback: Incorrecto. Subconjunto de reales. -->
-- [ ] B) Racionales <!-- feedback: Incorrecto. Subconjunto de reales. -->
-- [x] C) Complejos <!-- feedback: Correcto. Incluyen la unidad imaginaria. -->
+- [ ] B) Enteros <!-- feedback: Incorrecto. Subconjunto de reales. -->
+- [ ] C) Racionales <!-- feedback: Incorrecto. Subconjunto de reales. -->
+- [x] A) Complejos <!-- feedback: Correcto. Incluyen la unidad imaginaria. -->
 - [ ] D) Naturales <!-- feedback: Incorrecto. Subconjunto muy pequeño. -->
 
 ### Explicacion Pedagogica
@@ -365,8 +365,8 @@ Los complejos permiten resolver $x^2 + 1 = 0$, imposible en los reales.
 ¿Qué afirma la propiedad arquimediana de los reales?
 
 ### Opciones
-- [ ] A) Que todo real tiene raíz cuadrada. <!-- feedback: Incorrecto. Solo los no negativos. -->
-- [x] B) Que dado cualquier real, existe un natural mayor. <!-- feedback: Correcto. El conjunto de los naturales no está acotado en los reales. -->
+- [ ] B) Que todo real tiene raíz cuadrada. <!-- feedback: Incorrecto. Solo los no negativos. -->
+- [x] A) Que dado cualquier real, existe un natural mayor. <!-- feedback: Correcto. El conjunto de los naturales no está acotado en los reales. -->
 - [ ] C) Que los reales son finitos. <!-- feedback: Incorrecto. Son infinitos. -->
 - [ ] D) Que no existen los irracionales. <!-- feedback: Incorrecto. Afirmación falsa. -->
 
@@ -386,8 +386,8 @@ Garantiza que no hay números reales "infinitamente grandes" comparados con los 
 Si $a \cdot b = 0$, ¿qué propiedad de los reales nos permite concluir algo sobre $a$ o $b$?
 
 ### Opciones
-- [ ] A) Propiedad Conmutativa <!-- feedback: Incorrecto. Se refiere al orden. -->
-- [x] B) Propiedad del Producto Cero <!-- feedback: Correcto. Indica que al menos uno de los factores debe ser cero. -->
+- [ ] B) Propiedad Conmutativa <!-- feedback: Incorrecto. Se refiere al orden. -->
+- [x] A) Propiedad del Producto Cero <!-- feedback: Correcto. Indica que al menos uno de los factores debe ser cero. -->
 - [ ] C) Propiedad Asociativa <!-- feedback: Incorrecto. Se refiere a grupos. -->
 - [ ] D) Propiedad Clausurativa <!-- feedback: Incorrecto. Se refiere al conjunto resultado. -->
 
@@ -408,8 +408,8 @@ Es fundamental para resolver ecuaciones factorizadas.
 
 ### Opciones
 - [ ] A) 1 <!-- feedback: Incorrecto. Los valores están disminuyendo. -->
-- [x] B) 0 <!-- feedback: Correcto. Los términos se hacen infinitamente pequeños. -->
-- [ ] C) Infinito <!-- feedback: Incorrecto. Se están acercando a un valor central. -->
+- [x] C) 0 <!-- feedback: Correcto. Los términos se hacen infinitamente pequeños. -->
+- [ ] B) Infinito <!-- feedback: Incorrecto. Se están acercando a un valor central. -->
 - [ ] D) -1 <!-- feedback: Incorrecto. Todos los términos son positivos. -->
 
 ### Explicacion Pedagogica
@@ -429,9 +429,9 @@ Concepto de límite fundamental en el análisis de los números reales.
 
 ### Opciones
 - [ ] A) No es real, es imaginario. <!-- feedback: Incorrecto. Su cuadrado es positivo (2). -->
-- [x] B) Porque pertenece al conjunto de los irracionales, y los reales incluyen a estos. <!-- feedback: Correcto. Los reales son la unión de racionales e irracionales. -->
-- [ ] C) Porque se puede redondear a 1.41. <!-- feedback: Incorrecto. El redondeo no define la pertenencia al conjunto. -->
-- [ ] D) Porque es un número entero. <!-- feedback: Incorrecto. Tiene decimales infinitos. -->
+- [x] D) Porque pertenece al conjunto de los irracionales, y los reales incluyen a estos. <!-- feedback: Correcto. Los reales son la unión de racionales e irracionales. -->
+- [ ] B) Porque se puede redondear a 1.41. <!-- feedback: Incorrecto. El redondeo no define la pertenencia al conjunto. -->
+- [ ] C) Porque es un número entero. <!-- feedback: Incorrecto. Tiene decimales infinitos. -->
 
 ### Explicacion Pedagogica
 La estructura de los reales engloba a todos los números de la recta continua.

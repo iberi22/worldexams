@@ -34,9 +34,9 @@ Este bundle contiene 20 preguntas sobre **Equilibrio Químico y Principio de Le 
 ¿Qué condición define que una reacción reversible ha alcanzado el estado de equilibrio químico?
 
 ### Opciones
-- [x] A) Las velocidades de la reacción directa e inversa son exactamente iguales.
+- [x] B) Las velocidades de la reacción directa e inversa son exactamente iguales.
   <!-- feedback: Correcto. El equilibrio es dinámico y ocurre cuando $v_{directa} = v_{inversa}$. -->
-- [ ] B) La concentración de los reactivos se vuelve cero.
+- [ ] A) La concentración de los reactivos se vuelve cero.
   <!-- feedback: Incorrecto. Eso ocurre en reacciones irreversibles completas. -->
 - [ ] C) Se detiene todo movimiento a nivel molecular.
   <!-- feedback: Incorrecto. El equilibrio es dinámico, no estático. -->
@@ -57,11 +57,11 @@ El equilibrio químico es dinámico y se caracteriza por la igualdad de velocida
 ¿Cuál es la ley de acción de masas que define $K_c$?
 
 ### Opciones
-- [x] A) $K_c = \frac{[C]^c [D]^d}{[A]^a [B]^b}$.
+- [x] C) $K_c = \frac{[C]^c [D]^d}{[A]^a [B]^b}$.
   <!-- feedback: Correcto. Es el cociente entre productos y reactivos elevados a sus coeficientes. -->
-- [ ] B) $K_c = \frac{[A]^a [B]^b}{[C]^c [D]^d}$.
+- [ ] A) $K_c = \frac{[A]^a [B]^b}{[C]^c [D]^d}$.
   <!-- feedback: Incorrecto. Colocó reactivos en el numerador. -->
-- [ ] C) $K_c = [A] + [B] - [C] - [D]$.
+- [ ] B) $K_c = [A] + [B] - [C] - [D]$.
   <!-- feedback: Incorrecto. No se suman concentraciones. -->
 - [ ] D) $K_c = \frac{a[A] \cdot b[B]}{c[C] \cdot d[D]}$.
   <!-- feedback: Incorrecto. Los coeficientes son exponentes, no factores. -->
@@ -80,13 +80,13 @@ La constante $K_c$ relaciona concentraciones de productos sobre reactivos elevad
 ¿Qué establece el Principio de Le Chatelier cuando un sistema en equilibrio es perturbado?
 
 ### Opciones
-- [x] A) El sistema se desplaza en el sentido que contrarreste la perturbación aplicada.
+- [x] D) El sistema se desplaza en el sentido que contrarreste la perturbación aplicada.
   <!-- feedback: Correcto. Se reajusta para aliviar la tensión impuesta (concentración, T o P). -->
-- [ ] B) El sistema precipita inmediatamente todos los gases.
+- [ ] A) El sistema precipita inmediatamente todos los gases.
   <!-- feedback: Incorrecto. Depende del tipo de modificación aplicada. -->
-- [ ] C) La constante de equilibrio $K_c$ cambia ante variaciones de presión.
+- [ ] B) La constante de equilibrio $K_c$ cambia ante variaciones de presión.
   <!-- feedback: Incorrecto. $K_c$ solo varía con la temperatura. -->
-- [ ] D) Se destruye la reversibilidad del sistema.
+- [ ] C) Se destruye la reversibilidad del sistema.
   <!-- feedback: Incorrecto. El sistema busca alcanzar un nuevo estado de equilibrio. -->
 
 ### Explicacion Pedagogica
@@ -103,13 +103,13 @@ Le Chatelier predice la dirección del desplazamiento frente a cambios en variab
 ¿De qué manera afecta un catalizador a la constante de equilibrio $K_c$ y a la posición del equilibrio?
 
 ### Opciones
-- [x] A) No altera $K_c$ ni desplaza la posición del equilibrio; solo acelera el tiempo para alcanzarlo.
+- [x] D) No altera $K_c$ ni desplaza la posición del equilibrio; solo acelera el tiempo para alcanzarlo.
   <!-- feedback: Correcto. Aumenta por igual las velocidades directa e inversa al bajar la energía de activación. -->
-- [ ] B) Aumenta $K_c$ favoreciendo la formación de productos.
+- [ ] A) Aumenta $K_c$ favoreciendo la formación de productos.
   <!-- feedback: Incorrecto. Los catalizadores no modifican las constantes termodinámicas. -->
-- [ ] C) Desplaza el equilibrio hacia la izquierda.
+- [ ] B) Desplaza el equilibrio hacia la izquierda.
   <!-- feedback: Incorrecto. No altera la proporción de reactivos y productos. -->
-- [ ] D) Inactiva los reactivos permanentemente.
+- [ ] C) Inactiva los reactivos permanentemente.
   <!-- feedback: Incorrecto. El catalizador se recupera inalterado. -->
 
 ### Explicacion Pedagogica
@@ -126,11 +126,11 @@ Un catalizador acorta el tiempo para llegar al equilibrio pero no modifica las c
 ¿Hacia dónde se desplaza el equilibrio si se aumenta la temperatura del reactor?
 
 ### Opciones
-- [x] A) Hacia la izquierda (favorece reactivos $N_2$ y $H_2$).
+- [x] C) Hacia la izquierda (favorece reactivos $N_2$ y $H_2$).
   <!-- feedback: Correcto. En reacciones exotérmicas, el calor actúa como producto; añadir calor desplaza a reactivos. -->
-- [ ] B) Hacia la derecha (favorece producto $NH_3$).
+- [ ] A) Hacia la derecha (favorece producto $NH_3$).
   <!-- feedback: Incorrecto. Eso ocurriría en una reacción endotérmica. -->
-- [ ] C) No sufre ningún cambio.
+- [ ] B) No sufre ningún cambio.
   <!-- feedback: Incorrecto. Cambios de temperatura alteran siempre el equilibrio. -->
 - [ ] D) Se detienen las reacciones molecularmente.
   <!-- feedback: Incorrecto. Las moléculas aumentan su energía cinética. -->
@@ -149,13 +149,13 @@ Al elevar la temperatura en un sistema exotérmico, el sistema consume calor des
 ¿Qué ocurre con la producción de $SO_3$ si se incrementa la presión total reduciendo el volumen del recipiente?
 
 ### Opciones
-- [x] A) Aumenta la producción de $SO_3$ porque el sistema se desplaza hacia el menor número de moles gaseosos (2 moles vs 3 moles).
+- [x] D) Aumenta la producción de $SO_3$ porque el sistema se desplaza hacia el menor número de moles gaseosos (2 moles vs 3 moles).
   <!-- feedback: Correcto. Pasar de 3 moles a 2 moles de gas reduce la presión. -->
-- [ ] B) Disminuye la producción de $SO_3$.
+- [ ] A) Disminuye la producción de $SO_3$.
   <!-- feedback: Incorrecto. El desplazamiento favorece el lado con menos moles de gas. -->
-- [ ] C) El gas $SO_3$ se convierte en agua pura.
+- [ ] B) El gas $SO_3$ se convierte en agua pura.
   <!-- feedback: Incorrecto. No se altera la naturaleza elemental. -->
-- [ ] D) La presión no influye sobre balances gaseosos.
+- [ ] C) La presión no influye sobre balances gaseosos.
   <!-- feedback: Incorrecto. Afecta si hay diferencia en moles de gas. -->
 
 ### Explicacion Pedagogica
@@ -172,9 +172,9 @@ El aumento de presión favorece la dirección con menor número de moles de gas 
 Si la constante $K_c = 4.0 \text{ M}$ y las concentraciones actuales son $[N_2O_4] = 1.0 \text{ M}$ y $[NO_2] = 1.0 \text{ M}$, ¿hacia dónde evolucionará el sistema?
 
 ### Opciones
-- [x] A) Hacia la derecha (producirá más $NO_2$), porque $Q_c = 1.0 < K_c$.
+- [x] B) Hacia la derecha (producirá más $NO_2$), porque $Q_c = 1.0 < K_c$.
   <!-- feedback: Correcto. $Q_c = [1.0]^2 / 1.0 = 1.0$. Como $Q_c < K_c$, se forman más productos. -->
-- [ ] B) Hacia la izquierda, porque $Q_c > K_c$.
+- [ ] A) Hacia la izquierda, porque $Q_c > K_c$.
   <!-- feedback: Incorrecto. $Q_c$ es 1.0, menor que $K_c = 4.0$. -->
 - [ ] C) Ya está en equilibrio perfecto.
   <!-- feedback: Incorrecto. $Q_c
@@ -242,13 +242,13 @@ De $K_p = K_c (RT)^{\Delta n}$, al ser $\Delta n = 0$, se cumple $K_p = K_c$.
 Durante la hiperventilación, se elimina $CO_2$ bajando el $H_2CO_3$. ¿Cómo responde el equilibrio y el pH sanguíneo?
 
 ### Opciones
-- [x] A) El equilibrio se desplaza a la izquierda consumiendo $H^+$, lo que aumenta el pH (alcalosis respiratoria).
+- [x] D) El equilibrio se desplaza a la izquierda consumiendo $H^+$, lo que aumenta el pH (alcalosis respiratoria).
   <!-- feedback: Correcto. Al bajar $H_2CO_3$, se consumen protones para reponerlo, aumentando el pH. -->
-- [ ] B) Disminuye el pH produciendo acidosis.
+- [ ] A) Disminuye el pH produciendo acidosis.
   <!-- feedback: Incorrecto. La hiperventilación eleva el pH. -->
-- [ ] C) Aumenta la concentración de $H^+$.
+- [ ] B) Aumenta la concentración de $H^+$.
   <!-- feedback: Incorrecto. Los protones disminuyen. -->
-- [ ] D) Precipitan las proteínas plasmáticas.
+- [ ] C) Precipitan las proteínas plasmáticas.
   <!-- feedback: Incorrecto. Es una respuesta de amortiguación ácida. -->
 
 ### Explicacion Pedagogica
@@ -265,11 +265,11 @@ La remoción de $CO_2/H_2CO_3$ consume $H^+$, elevando el pH sanguíneo (alcalos
 ¿Cuál es la concentración de B en el equilibrio?
 
 ### Opciones
-- [x] A) $0.75 \text{ M}$.
+- [x] C) $0.75 \text{ M}$.
   <!-- feedback: Correcto. $K_c = [4x^2]/(2-x) = 0.5 Rightarrow 4x^2 + 0.5x - 1 = 0 Rightarrow x \approx 0.44 \text{ M} Rightarrow [B] = 2x \approx 0.75 \text{ M}$. -->
-- [ ] B) $2.00 \text{ M}$.
+- [ ] A) $2.00 \text{ M}$.
   <!-- feedback: Incorrecto. Asumió conversión completa. -->
-- [ ] C) $1.00 \text{ M}$.
+- [ ] B) $1.00 \text{ M}$.
   <!-- feedback: Incorrecto. Error en la resolución de la ecuación cuadrática. -->
 - [ ] D) $0.25 \text{ M}$.
   <!-- feedback: Incorrecto. Olvidó multiplicar $x$ por 2 para el compuesto B. -->
@@ -288,13 +288,13 @@ Resolviendo $K_c = (2x)^2 / (2-x) = 0.5$, la concentración de B es $2x \approx 
 ¿Cuál es la solubilidad molar ($s$) del $AgCl$ en agua pura?
 
 ### Opciones
-- [x] A) $1.34 \times 10^{-5} \text{ M}$.
+- [x] D) $1.34 \times 10^{-5} \text{ M}$.
   <!-- feedback: Correcto. $K_{sp} = s^2 Rightarrow s = \sqrt{1.8 \times 10^{-10}} = 1.34 \times 10^{-5} \text{ M}$. -->
-- [ ] B) $1.8 \times 10^{-10} \text{ M}$.
+- [ ] A) $1.8 \times 10^{-10} \text{ M}$.
   <!-- feedback: Incorrecto. Es el valor del $K_{sp}$, no de la solubilidad $s$. -->
-- [ ] C) $3.24 \times 10^{-20} \text{ M}$.
+- [ ] B) $3.24 \times 10^{-20} \text{ M}$.
   <!-- feedback: Incorrecto. Elevó $K_{sp}$ al cuadrado en lugar de extraer raíz. -->
-- [ ] D) $0.9 \times 10^{-5} \text{ M}$.
+- [ ] C) $0.9 \times 10^{-5} \text{ M}$.
   <!-- feedback: Incorrecto. Dividió $K_{sp}$ entre 2. -->
 
 ### Explicacion Pedagogica
@@ -334,13 +334,13 @@ Las concentraciones de sólidos puros se consideran constantes y no forman parte
 Si a $298 \text{ K}$ una reacción presenta $K_c = 1.0 \times 10^5$, ¿qué se concluye sobre $\Delta G^\circ$ y la composición en equilibrio?
 
 ### Opciones
-- [x] A) $\Delta G^\circ < 0$ (negativo) y el equilibrio está fuertemente desplazado hacia productos.
+- [x] D) $\Delta G^\circ < 0$ (negativo) y el equilibrio está fuertemente desplazado hacia productos.
   <!-- feedback: Correcto. Como $K > 1$, $ln K > 0 Rightarrow \Delta G^\circ < 0$, favoreciendo productos. -->
-- [ ] B) $\Delta G^\circ > 0$ y predominan reactivos.
+- [ ] A) $\Delta G^\circ > 0$ y predominan reactivos.
   <!-- feedback: Incorrecto. $K > 1$ implica $\Delta G^\circ < 0$. -->
-- [ ] C) $\Delta G^\circ = 0$ y no hay productos.
+- [ ] B) $\Delta G^\circ = 0$ y no hay productos.
   <!-- feedback: Incorrecto. $\Delta G^\circ = 0$ ocurre solo cuando $K = 1$. -->
-- [ ] D) La reacción no puede ocurrir.
+- [ ] C) La reacción no puede ocurrir.
   <!-- feedback: Incorrecto. Es altamente espontánea en estado estándar. -->
 
 ### Explicacion Pedagogica
@@ -357,9 +357,9 @@ Un valor $K gg 1$ genera $\Delta G^\circ < 0$, indicando un equilibrio que favor
 ¿Por qué en el recipiente abierto nunca se alcanza el equilibrio líquido-vapor?
 
 ### Opciones
-- [x] A) Porque las moléculas de vapor se escapan al entorno impidiendo que la velocidad de condensación iguale a la de evaporación.
+- [x] B) Porque las moléculas de vapor se escapan al entorno impidiendo que la velocidad de condensación iguale a la de evaporación.
   <!-- feedback: Correcto. Es un sistema abierto que pierde materia continuamente. -->
-- [ ] B) Porque el agua en recipiente abierto no se evapora.
+- [ ] A) Porque el agua en recipiente abierto no se evapora.
   <!-- feedback: Incorrecto. Se evapora de forma continua. -->
 - [ ] C) Porque el aire destruye las moléculas de agua.
   <!-- feedback: Incorrecto. El agua no se destruye químicamente. -->
@@ -380,9 +380,9 @@ El equilibrio químico/físico requiere un sistema cerrado para evitar la pérdi
 ¿Cuál es la constante de disociación ácida ($K_a$) de este ácido?
 
 ### Opciones
-- [x] A) $1.0 \times 10^{-5}$.
+- [x] B) $1.0 \times 10^{-5}$.
   <!-- feedback: Correcto. $[H^+] = 10^{-3} \text{ M}$. $K_a = [H^+]^2 / [HA] = (10^{-3})^2 / 0.1 = 10^{-6} / 10^{-1} = 10^{-5}$. -->
-- [ ] B) $1.0 \times 10^{-3}$.
+- [ ] A) $1.0 \times 10^{-3}$.
   <!-- feedback: Incorrecto. Olvidó elevar $[H^+]$ al cuadrado. -->
 - [ ] C) $1.0 \times 10^{-6}$.
   <!-- feedback: Incorrecto. No dividió entre la concentración del ácido 0.1 M. -->
@@ -403,13 +403,13 @@ $[H^+] = 10^{-3} \text{ M}$. $K_a = (10^{-3})^2 / 0.1 = 10^{-5}$.
 ¿Qué combinación de presión y temperatura maximiza el rendimiento termodinámico en el equilibrio?
 
 ### Opciones
-- [x] A) Alta presión y baja temperatura.
+- [x] D) Alta presión y baja temperatura.
   <!-- feedback: Correcto. Alta presión desplaza a menor moles de gas (1 mol vs 3 moles); baja temperatura favorece la reacción exotérmica. -->
-- [ ] B) Baja presión y alta temperatura.
+- [ ] A) Baja presión y alta temperatura.
   <!-- feedback: Incorrecto. Desplazaría el equilibrio hacia los reactivos. -->
-- [ ] C) Baja presión y baja temperatura.
+- [ ] B) Baja presión y baja temperatura.
   <!-- feedback: Incorrecto. La baja presión reduce el rendimiento. -->
-- [ ] D) Alta presión y alta temperatura.
+- [ ] C) Alta presión y alta temperatura.
   <!-- feedback: Incorrecto. La alta temperatura disminuye el rendimiento exotérmico. -->
 
 ### Explicacion Pedagogica
@@ -426,9 +426,9 @@ Le Chatelier: Alta presión favorece el lado con 1 mol de gas; baja temperatura 
 ¿Por qué el tratamiento con oxígeno puro al 100% en cámara hiperbárica es la medida médica más efectiva?
 
 ### Opciones
-- [x] A) Aumenta drásticamente la concentración de $O_2$, desplazando el equilibrio a la izquierda para liberar la hemoglobina del $CO$.
+- [x] B) Aumenta drásticamente la concentración de $O_2$, desplazando el equilibrio a la izquierda para liberar la hemoglobina del $CO$.
   <!-- feedback: Correcto. Un exceso masivo de $O_2$ desplaza el equilibrio por Le Chatelier forzando la expulsión del $CO$. -->
-- [ ] B) Destruye los eritrocitos para formar células nuevas.
+- [ ] A) Destruye los eritrocitos para formar células nuevas.
   <!-- feedback: Incorrecto. No destruye los glóbulos rojos. -->
 - [ ] C) Convierte el $CO$ en glucosa.
   <!-- feedback: Incorrecto. No hay conversión metabólica a azúcares. -->
@@ -449,9 +449,9 @@ Al aumentar masivamente la $[O_2]$, Le Chatelier desplaza la reacción reversibl
 ¿Por qué la presencia de oxidantes como el ozono ($O_3$) atmosférico empeora el impacto de la lluvia ácida?
 
 ### Opciones
-- [x] A) Oxida el $SO_2$ a $SO_3$, generando ácido sulfúrico ($H_2SO_4$) totalmente disociado e irreversible.
+- [x] B) Oxida el $SO_2$ a $SO_3$, generando ácido sulfúrico ($H_2SO_4$) totalmente disociado e irreversible.
   <!-- feedback: Correcto. La oxidación convierte un ácido débil en uno fuerte e irreversible ($H_2SO_4$). -->
-- [ ] B) Neutraliza la acidez convirtiéndola en sal de cocina.
+- [ ] A) Neutraliza la acidez convirtiéndola en sal de cocina.
   <!-- feedback: Incorrecto. La oxidación aumenta la fuerza ácida. -->
 - [ ] C) Evapora toda la lluvia antes de tocar tierra.
   <!-- feedback: Incorrecto. El ozono no evapora el agua. -->
@@ -472,13 +472,13 @@ La conversión de $SO_2$ en $SO_3$ produce ácido sulfúrico, un ácido fuerte q
 ¿Cómo se logra la elución (recuperación) de la proteína unida a la matriz sin destruirla?
 
 ### Opciones
-- [x] A) Modificando el pH o la fuerza iónica del tampón para desplazar la constante de asociación del equilibrio.
+- [x] D) Modificando el pH o la fuerza iónica del tampón para desplazar la constante de asociación del equilibrio.
   <!-- feedback: Correcto. Alterar el pH o sales debilita la unión reversible liberando la proteína intacta. -->
-- [ ] B) Calentando a 200 °C para incinerar la matriz.
+- [ ] A) Calentando a 200 °C para incinerar la matriz.
   <!-- feedback: Incorrecto. La temperatura destruiría la proteína. -->
-- [ ] C) Adicionando ácido clorhídrico concentrado.
+- [ ] B) Adicionando ácido clorhídrico concentrado.
   <!-- feedback: Incorrecto. El ácido fuerte desnaturalizaría la proteína. -->
-- [ ] D) Aplicando corriente eléctrica de alto voltaje.
+- [ ] C) Aplicando corriente eléctrica de alto voltaje.
   <!-- feedback: Incorrecto. La elución se logra por desplazamiento iónico suave. -->
 
 ### Explicacion Pedagogica

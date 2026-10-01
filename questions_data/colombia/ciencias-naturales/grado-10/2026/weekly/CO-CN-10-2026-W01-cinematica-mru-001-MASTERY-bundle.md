@@ -32,11 +32,11 @@ Este bundle contiene 12 preguntas sobre **cinematica-mru** para grado 10, alinea
 ### Enunciado
 ¿Cuál es la velocidad del autobús expresada en metros por segundo (m/s)?
 ### Opciones
-- [x] A) $20\text{ m/s}$
+- [x] C) $20\text{ m/s}$
   <!-- feedback: Correcto. $72 \times \frac{1000}{3600} = \frac{72}{3.6} = 20\text{ m/s}$. -->
-- [ ] B) $25\text{ m/s}$
+- [ ] A) $25\text{ m/s}$
   <!-- feedback: Incorrecto. Se obtiene de $90\text{ km/h}$. -->
-- [ ] C) $15\text{ m/s}$
+- [ ] B) $15\text{ m/s}$
   <!-- feedback: Incorrecto. Se obtiene de $54\text{ km/h}$. -->
 - [ ] D) $36\text{ m/s}$
   <!-- feedback: Incorrecto. Dividiste por 2 en vez de 3.6. -->
@@ -52,9 +52,9 @@ Para convertir km/h a m/s se divide la magnitud entre $3.6$: $72 / 3.6 = 20\text
 ### Enunciado
 ¿Cuál es el valor de la aceleración del vehículo en este tipo de movimiento?
 ### Opciones
-- [x] A) $0\text{ m/s}^2$
+- [x] B) $0\text{ m/s}^2$
   <!-- feedback: Correcto. En el MRU la velocidad es constante, por lo que la aceleración es nula. -->
-- [ ] B) $9.8\text{ m/s}^2$
+- [ ] A) $9.8\text{ m/s}^2$
   <!-- feedback: Incorrecto. $9.8\text{ m/s}^2$ es la aceleración de la gravedad. -->
 - [ ] C) $1\text{ m/s}^2$
   <!-- feedback: Incorrecto. Si fuera $1\text{ m/s}^2$ la velocidad cambiaría continuamente. -->
@@ -72,11 +72,11 @@ Aceleración es la variación de la velocidad en el tiempo ($a = \Delta v / \Del
 ### Enunciado
 ¿Qué distancia total en metros recorre el ciclista?
 ### Opciones
-- [x] A) $7.200\text{ m}$
+- [x] C) $7.200\text{ m}$
   <!-- feedback: Correcto. $t = 15 \times 60 = 900\text{ s}$. Distancia $d = v \cdot t = 8 \cdot 900 = 7.200\text{ m}$. -->
-- [ ] B) $120\text{ m}$
+- [ ] A) $120\text{ m}$
   <!-- feedback: Incorrecto. Multiplicaste por $15$ minutos sin convertir el tiempo a segundos. -->
-- [ ] C) $3.600\text{ m}$
+- [ ] B) $3.600\text{ m}$
   <!-- feedback: Incorrecto. Multiplicaste por 450 segundos. -->
 - [ ] D) $1.200\text{ m}$
   <!-- feedback: Incorrecto. Dividiste erróneamente entre el tiempo. -->
@@ -92,11 +92,11 @@ Tiempo en segundos $t = 15 \times 60 = 900\text{ s}$. $d = v \cdot t = 8\text{ m
 ### Enunciado
 ¿Cuál es la velocidad final alcanzada por el automóvil?
 ### Opciones
-- [x] A) $18\text{ m/s}$
+- [x] C) $18\text{ m/s}$
   <!-- feedback: Correcto. $v_f = v_0 + a \cdot t = 0 + 3 \cdot 6 = 18\text{ m/s}$. -->
-- [ ] B) $9\text{ m/s}$
+- [ ] A) $9\text{ m/s}$
   <!-- feedback: Incorrecto. Sumaste $3 + 6$ en vez de multiplicar. -->
-- [ ] C) $54\text{ m/s}$
+- [ ] B) $54\text{ m/s}$
   <!-- feedback: Incorrecto. Multiplicaste por la posición acumulada. -->
 - [ ] D) $2\text{ m/s}$
   <!-- feedback: Incorrecto. Dividiste $6 / 3$. -->
@@ -132,9 +132,9 @@ La pendiente de la curva $x$ vs $t$ es la velocidad ($v = dx/dt$). Una línea re
 ### Enunciado
 ¿Cuál es la velocidad del objeto tras transcurrir $3\text{ segundos}$ de caída libre?
 ### Opciones
-- [x] A) $30\text{ m/s}$
+- [x] B) $30\text{ m/s}$
   <!-- feedback: Correcto. $v = g \cdot t = 10 \cdot 3 = 30\text{ m/s}$. -->
-- [ ] B) $45\text{ m/s}$
+- [ ] A) $45\text{ m/s}$
   <!-- feedback: Incorrecto. $45\text{ m}$ es la distancia caída, no la velocidad. -->
 - [ ] C) $15\text{ m/s}$
   <!-- feedback: Incorrecto. Dividiste la aceleración entre el tiempo. -->
@@ -152,13 +152,13 @@ En caída libre partiendo del reposo: $v = g \cdot t = 10\text{ m/s}^2 \times 3\
 ### Enunciado
 ¿Qué distancia recorre el camión durante la maniobra de frenado?
 ### Opciones
-- [x] A) $50\text{ m}$
+- [x] D) $50\text{ m}$
   <!-- feedback: Correcto. $v_f^2 = v_i^2 + 2a d \implies 0 = 20^2 + 2(-4)d \implies 8d = 400 \implies d = 50\text{ m}$. -->
-- [ ] B) $100\text{ m}$
+- [ ] A) $100\text{ m}$
   <!-- feedback: Incorrecto. Olvidaste el factor $2$ en el denominador. -->
-- [ ] C) $25\text{ m}$
+- [ ] B) $25\text{ m}$
   <!-- feedback: Incorrecto. Dividiste $400$ entre $16$. -->
-- [ ] D) $80\text{ m}$
+- [ ] C) $80\text{ m}$
   <!-- feedback: Incorrecto. Multiplicaste $20 \times 4$. -->
 ### Explicacion Pedagogica
 Uso de $v_f^2 = v_0^2 + 2ad \implies 0 = 400 - 8d \implies d = 400 / 8 = 50\text{ m}$.
@@ -172,9 +172,9 @@ Uso de $v_f^2 = v_0^2 + 2ad \implies 0 = 400 - 8d \implies d = 400 / 8 = 50\text
 ### Enunciado
 ¿En qué instante de tiempo $t$ el automóvil $B$ alcanza al automóvil $A$?
 ### Opciones
-- [x] A) $15\text{ segundos}$
+- [x] B) $15\text{ segundos}$
   <!-- feedback: Correcto. Posiciones iguales: $x_A = 30t$; $x_B = \frac{1}{2}(4)t^2 = 2t^2$. Igualando $30t = 2t^2 \implies t = 15\text{ s}$. -->
-- [ ] B) $7.5\text{ segundos}$
+- [ ] A) $7.5\text{ segundos}$
   <!-- feedback: Incorrecto. Olvidaste el factor $1/2$ en la posición del auto B. -->
 - [ ] C) $30\text{ segundos}$
   <!-- feedback: Incorrecto. Duplicaste el tiempo correcto. -->
@@ -192,11 +192,11 @@ Igualando posiciones: $x_A(t) = x_B(t) \implies 30t = 2t^2 \implies 2t(t - 15) =
 ### Enunciado
 ¿Qué representa el área bajo la curva de la gráfica $v$ vs $t$ y cuál es su valor?
 ### Opciones
-- [x] A) Representa el desplazamiento total y es igual a $120\text{ metros}$.
+- [x] C) Representa el desplazamiento total y es igual a $120\text{ metros}$.
   <!-- feedback: Correcto. Área $= \frac{(B+b) \cdot h}{2} = \frac{(14 + 6) \cdot 12}{2} = 120\text{ m}$. -->
-- [ ] B) Representa la aceleración promedio y es igual a $12\text{ m/s}^2$.
+- [ ] A) Representa la aceleración promedio y es igual a $12\text{ m/s}^2$.
   <!-- feedback: Incorrecto. La pendiente representa la aceleración. -->
-- [ ] C) Representa la velocidad final y es igual a $168\text{ m/s}$.
+- [ ] B) Representa la velocidad final y es igual a $168\text{ m/s}$.
   <!-- feedback: Incorrecto. El área tiene unidades de distancia. -->
 - [ ] D) Representa el tiempo de parada de $14\text{ s}$.
   <!-- feedback: Incorrecto. El tiempo es una variable del eje horizontal. -->
@@ -232,9 +232,9 @@ $t = \frac{v_f - v_0}{a} = \frac{0 - 24}{-6} = 4\text{ segundos}$.
 ### Enunciado
 ¿Cuál es la velocidad de la piedra $4\text{ segundos}$ después del lanzamiento?
 ### Opciones
-- [x] A) $-10\text{ m/s}$ (dirigida hacia abajo)
+- [x] B) $-10\text{ m/s}$ (dirigida hacia abajo)
   <!-- feedback: Correcto. $v(t) = v_0 - gt = 30 - 10(4) = 30 - 40 = -10\text{ m/s}$. -->
-- [ ] B) $10\text{ m/s}$ (dirigida hacia arriba)
+- [ ] A) $10\text{ m/s}$ (dirigida hacia arriba)
   <!-- feedback: Incorrecto. Confundiste el signo; a los $4\text{ s}$ la piedra ya está cayendo. -->
 - [ ] C) $0\text{ m/s}$
   <!-- feedback: Incorrecto. La velocidad nula ocurre en la altura máxima a los $t = 3\text{ s}$. -->
@@ -252,13 +252,13 @@ $v(t) = v_0 - gt = 30 - 10(4) = -10\text{ m/s}$. El signo negativo indica movimi
 ### Enunciado
 ¿En qué instantes de tiempo $t$ la velocidad instantánea de la partícula se anula ($v = 0$)?
 ### Opciones
-- [x] A) $t = 1\text{ s}$ y $t = 3\text{ s}$
+- [x] D) $t = 1\text{ s}$ y $t = 3\text{ s}$
   <!-- feedback: Correcto. Derivada de posición: $v(t) = 3t^2 - 12t + 9 = 0 \implies 3(t^2 - 4t + 3) = 0 \implies (t-1)(t-3) = 0 \implies t = 1, 3$. -->
-- [ ] B) $t = 2\text{ s}$ únicamente
+- [ ] A) $t = 2\text{ s}$ únicamente
   <!-- feedback: Incorrecto. En $t=2$ la aceleración se anula, no la velocidad. -->
-- [ ] C) $t = 0\text{ s}$ y $t = 4\text{ s}$
+- [ ] B) $t = 0\text{ s}$ y $t = 4\text{ s}$
   <!-- feedback: Incorrecto. En $t=0$, $v(0) = 9\text{ m/s}$. -->
-- [ ] D) La velocidad nunca se anula.
+- [ ] C) La velocidad nunca se anula.
   <!-- feedback: Incorrecto. La función cuadrática derivada posee dos raíces reales. -->
 ### Explicacion Pedagogica
 Velocidad $v(t) = \frac{dx}{dt} = 3t^2 - 12t + 9 = 0 \implies 3(t-1)(t-3) = 0 \implies t = 1\text{ s}$ y $t = 3\text{ s}$.

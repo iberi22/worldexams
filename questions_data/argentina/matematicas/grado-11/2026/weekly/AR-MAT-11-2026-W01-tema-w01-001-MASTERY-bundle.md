@@ -31,9 +31,9 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) Está compuesto únicamente por los números enteros y los decimales exactos. <!-- feedback: Incorrecto. Los irracionales como $\pi$ también son reales. -->
-- [x] B) Es la unión de los números racionales ($\mathbb{Q}$) y los irracionales ($\mathbb{I}$). <!-- feedback: Correcto. Todo número real o bien se puede escribir como fracción (racional) o bien tiene infinitas cifras decimales no periódicas (irracional). -->
-- [ ] C) Excluye a los números naturales porque estos solo sirven para contar elementos. <!-- feedback: Incorrecto. Los números naturales están incluidos en los enteros, racionales y reales. -->
-- [ ] D) Incluye a los números complejos con parte imaginaria distinta de cero. <!-- feedback: Incorrecto. Los números con parte imaginaria no nula no pertenecen al conjunto de los reales. -->
+- [x] D) Es la unión de los números racionales ($\mathbb{Q}$) y los irracionales ($\mathbb{I}$). <!-- feedback: Correcto. Todo número real o bien se puede escribir como fracción (racional) o bien tiene infinitas cifras decimales no periódicas (irracional). -->
+- [ ] B) Excluye a los números naturales porque estos solo sirven para contar elementos. <!-- feedback: Incorrecto. Los números naturales están incluidos en los enteros, racionales y reales. -->
+- [ ] C) Incluye a los números complejos con parte imaginaria distinta de cero. <!-- feedback: Incorrecto. Los números con parte imaginaria no nula no pertenecen al conjunto de los reales. -->
 
 ### Explicacion Pedagogica
 El conjunto de los reales se define formalmente como la unión de los números racionales e irracionales. Cualquier número real pertenece a uno de estos dos subconjuntos disjuntos.
@@ -93,8 +93,8 @@ Para que una raíz de índice par esté definida en los reales, el radicando deb
 La temperatura ideal de almacenamiento de un medicamento es de $20^\circ\text{C}$, aceptándose un margen de error máximo de $3^\circ\text{C}$. ¿Cuál de las siguientes expresiones con valor absoluto modela correctamente este rango de temperaturas permitidas $T$?
 
 ### Opciones
-- [ ] A) $|T - 3| \le 20$ <!-- feedback: Incorrecto. Esta expresión describe temperaturas entre $-17$ y $23$ grados. -->
-- [x] B) $|T - 20| \le 3$ <!-- feedback: Correcto. La distancia entre la temperatura $T$ y el valor ideal de $20^\circ\text{C}$ debe ser menor o igual a $3^\circ\text{C}$. -->
+- [ ] B) $|T - 3| \le 20$ <!-- feedback: Incorrecto. Esta expresión describe temperaturas entre $-17$ y $23$ grados. -->
+- [x] A) $|T - 20| \le 3$ <!-- feedback: Correcto. La distancia entre la temperatura $T$ y el valor ideal de $20^\circ\text{C}$ debe ser menor o igual a $3^\circ\text{C}$. -->
 - [ ] C) $|T - 20| \ge 3$ <!-- feedback: Incorrecto. Esto indicaría que la temperatura debe alejarse por lo menos $3$ grados del valor ideal. -->
 - [ ] D) $|T + 20| \le 3$ <!-- feedback: Incorrecto. La suma dentro del valor absoluto desplaza el centro del intervalo a $-20$ grados. -->
 
@@ -135,10 +135,10 @@ La intersección de intervalos requiere encontrar los valores reales de $x$ que 
 Si la primera sucursal abre en el rango horario (en horas) dado por el intervalo $I_1 = (8, 14]$ y la segunda abre en $I_2 = [12, 20)$, ¿cuál es la unión $I_1 \cup I_2$?
 
 ### Opciones
-- [x] A) $(8, 20)$ <!-- feedback: Correcto. La unión agrupa todos los elementos que están en al menos uno de los intervalos. Comienza justo después de 8 y termina antes de 20, sin interrupciones. -->
-- [ ] B) $[8, 20]$ <!-- feedback: Incorrecto. Los extremos 8 y 20 no están incluidos en los intervalos originales. -->
-- [ ] C) $[12, 14]$ <!-- feedback: Incorrecto. Esto representa la intersección de los intervalos, no su unión. -->
-- [ ] D) $(8, 12]$ <!-- feedback: Incorrecto. Excluye la mayor parte del horario de atención conjunto. -->
+- [x] D) $(8, 20)$ <!-- feedback: Correcto. La unión agrupa todos los elementos que están en al menos uno de los intervalos. Comienza justo después de 8 y termina antes de 20, sin interrupciones. -->
+- [ ] A) $[8, 20]$ <!-- feedback: Incorrecto. Los extremos 8 y 20 no están incluidos en los intervalos originales. -->
+- [ ] B) $[12, 14]$ <!-- feedback: Incorrecto. Esto representa la intersección de los intervalos, no su unión. -->
+- [ ] C) $(8, 12]$ <!-- feedback: Incorrecto. Excluye la mayor parte del horario de atención conjunto. -->
 
 ### Explicacion Pedagogica
 La unión de $I_1$ e $I_2$ junta todos los valores de ambos conjuntos. Como se solapan entre 12 y 14, la unión cubre todo el rango continuo desde más de 8 hasta menos de 20, es decir, el intervalo abierto $(8, 20)$.
@@ -157,9 +157,9 @@ El plan A cuesta $\$2000$ fijos al mes más $\$150$ por cada gigabyte (GB) consu
 
 ### Opciones
 - [ ] A) Como máximo 20 GB. <!-- feedback: Incorrecto. 20 GB costarían $2000 + 150(20) = 5000$ pesos, excediendo el presupuesto. -->
-- [x] B) Como máximo 15 GB. <!-- feedback: Correcto. Planteamos la inecuación: $2000 + 150x \le 4250$. Restando $2000$ se obtiene $150x \le 2250$. Dividiendo por $150$, resulta $x \le 15$. -->
-- [ ] C) Como máximo 28 GB. <!-- feedback: Incorrecto. Este valor no tiene en cuenta el cargo fijo mensual de 2000 pesos. -->
-- [ ] D) Como máximo 10 GB. <!-- feedback: Incorrecto. Con 10 GB gastaría 3500 pesos, lo cual está por debajo pero no es el valor máximo posible. -->
+- [x] D) Como máximo 15 GB. <!-- feedback: Correcto. Planteamos la inecuación: $2000 + 150x \le 4250$. Restando $2000$ se obtiene $150x \le 2250$. Dividiendo por $150$, resulta $x \le 15$. -->
+- [ ] B) Como máximo 28 GB. <!-- feedback: Incorrecto. Este valor no tiene en cuenta el cargo fijo mensual de 2000 pesos. -->
+- [ ] C) Como máximo 10 GB. <!-- feedback: Incorrecto. Con 10 GB gastaría 3500 pesos, lo cual está por debajo pero no es el valor máximo posible. -->
 
 ### Explicacion Pedagogica
 Planteamos la inecuación $2000 + 150x \le 4250$, donde $x$ es la cantidad de gigabytes. Al resolver obtenemos $150x \le 2250$, de donde $x \le 15$. Por lo tanto, el consumo máximo permitido es de $15$ GB.
@@ -177,8 +177,8 @@ Planteamos la inecuación $2000 + 150x \le 4250$, donde $x$ es la cantidad de gi
 La temperatura diaria $t$ en grados Celsius cumplió la inecuación doble: $-8 < 2t + 4 \le 12$. ¿Cuál es el intervalo real que contiene todas las posibles temperaturas registradas?
 
 ### Opciones
-- [ ] A) $[-6, 4)$ <!-- feedback: Incorrecto. Los extremos e inclusiones están al revés. -->
-- [x] B) $(-6, 4]$ <!-- feedback: Correcto. Restamos $4$ en todos los miembros: $-12 < 2t \le 8$. Luego dividimos todo por $2$: $-6 < t \le 4$. Esto equivale al intervalo $(-6, 4]$. -->
+- [ ] B) $[-6, 4)$ <!-- feedback: Incorrecto. Los extremos e inclusiones están al revés. -->
+- [x] A) $(-6, 4]$ <!-- feedback: Correcto. Restamos $4$ en todos los miembros: $-12 < 2t \le 8$. Luego dividimos todo por $2$: $-6 < t \le 4$. Esto equivale al intervalo $(-6, 4]$. -->
 - [ ] C) $(-8, 12]$ <!-- feedback: Incorrecto. Esto no resuelve la inecuación para la variable $t$. -->
 - [ ] D) $(-2, 8]$ <!-- feedback: Incorrecto. Se cometió un error algebraico al restar y dividir los términos. -->
 
@@ -199,9 +199,9 @@ El diámetro nominal de un perno debe ser de $12\text{ mm}$, admitiéndose un ma
 
 ### Opciones
 - [ ] A) $[11,05; 12,05]$ <!-- feedback: Incorrecto. El extremo inferior está mal calculado ($12 - 0,05 = 11,95$). -->
-- [x] B) $[11,95; 12,05]$ <!-- feedback: Correcto. La inecuación $|d - 12| \le 0,05$ equivale a $-0,05 \le d - 12 \le 0,05$. Sumando $12$, obtenemos $11,95 \le d \le 12,05$. -->
-- [ ] C) $[11,95; 12,50]$ <!-- feedback: Incorrecto. El límite superior excede con creces la tolerancia máxima admisible. -->
-- [ ] D) $(11,95; 12,05)$ <!-- feedback: Incorrecto. Como la tolerancia incluye los límites extremos, el intervalo debe ser cerrado. -->
+- [x] D) $[11,95; 12,05]$ <!-- feedback: Correcto. La inecuación $|d - 12| \le 0,05$ equivale a $-0,05 \le d - 12 \le 0,05$. Sumando $12$, obtenemos $11,95 \le d \le 12,05$. -->
+- [ ] B) $[11,95; 12,50]$ <!-- feedback: Incorrecto. El límite superior excede con creces la tolerancia máxima admisible. -->
+- [ ] C) $(11,95; 12,05)$ <!-- feedback: Incorrecto. Como la tolerancia incluye los límites extremos, el intervalo debe ser cerrado. -->
 
 ### Explicacion Pedagogica
 La inecuación con valor absoluto $|d - 12| \le 0,05$ se traduce en $-0,05 \le d - 12 \le 0,05$. Al sumar $12$ a cada miembro, se obtiene $11,95 \le d \le 12,05$, lo cual se escribe como el intervalo cerrado $[11,95; 12,05]$.
@@ -241,8 +241,8 @@ Determiná el conjunto solución en los números reales para la inecuación raci
 
 ### Opciones
 - [ ] A) $[-3, 2]$ <!-- feedback: Incorrecto. Para $x = -3$ el denominador se hace cero, lo cual está prohibido, y para valores en este intervalo la fracción es menor o igual a cero. -->
-- [x] B) $(-\infty, -3) \cup [2, +\infty)$ <!-- feedback: Correcto. La fracción es mayor o igual a cero si el numerador y el denominador tienen el mismo signo. El numerador se anula en $x=2$ (incluido) y el denominador en $x=-3$ (excluido para evitar la división por cero). Analizando los signos, resulta este conjunto. -->
-- [ ] C) $(-\infty, -3] \cup [2, +\infty)$ <!-- feedback: Incorrecto. El valor $-3$ no puede estar en el conjunto solución ya que anula al denominador. -->
+- [x] C) $(-\infty, -3) \cup [2, +\infty)$ <!-- feedback: Correcto. La fracción es mayor o igual a cero si el numerador y el denominador tienen el mismo signo. El numerador se anula en $x=2$ (incluido) y el denominador en $x=-3$ (excluido para evitar la división por cero). Analizando los signos, resulta este conjunto. -->
+- [ ] B) $(-\infty, -3] \cup [2, +\infty)$ <!-- feedback: Incorrecto. El valor $-3$ no puede estar en el conjunto solución ya que anula al denominador. -->
 - [ ] D) $(2, +\infty)$ <!-- feedback: Incorrecto. Se omite el intervalo donde tanto el numerador como el denominador son negativos. -->
 
 ### Explicacion Pedagogica
@@ -268,8 +268,8 @@ $$
 
 ### Opciones
 - [ ] A) $[-2, 4]$ <!-- feedback: Incorrecto. El número $4$ no está incluido debido a que la primera inecuación es estricta ($x < 4$). -->
-- [x] B) $[-2, 4)$ <!-- feedback: Correcto. De la primera inecuación: $3x < 12 \Rightarrow x < 4$. De la segunda inecuación: $2x \ge -4 \Rightarrow x \ge -2$. Al intersectar ambas condiciones se obtiene $-2 \le x < 4$, es decir, el intervalo $[-2, 4)$. -->
-- [ ] C) $(-2, 4)$ <!-- feedback: Incorrecto. El valor $-2$ sí debe ser incluido porque la segunda desigualdad es mayor o igual. -->
+- [x] C) $[-2, 4)$ <!-- feedback: Correcto. De la primera inecuación: $3x < 12 \Rightarrow x < 4$. De la segunda inecuación: $2x \ge -4 \Rightarrow x \ge -2$. Al intersectar ambas condiciones se obtiene $-2 \le x < 4$, es decir, el intervalo $[-2, 4)$. -->
+- [ ] B) $(-2, 4)$ <!-- feedback: Incorrecto. El valor $-2$ sí debe ser incluido porque la segunda desigualdad es mayor o igual. -->
 - [ ] D) $(-\infty, -2] \cup (4, +\infty)$ <!-- feedback: Incorrecto. Se realizó la unión en lugar de la intersección. -->
 
 ### Explicacion Pedagogica
@@ -288,9 +288,9 @@ Resolvemos cada inecuación de forma independiente. Para $3x - 5 < 7$, sumamos $
 Si se sabe que el número real $x$ pertenece al intervalo abierto $(0, 1)$, ¿en qué intervalo se encuentra necesariamente su recíproco $\frac{1}{x}$?
 
 ### Opciones
-- [ ] A) $(0, 1)$ <!-- feedback: Incorrecto. El recíproco de un número entre 0 y 1 siempre es mayor que 1. -->
-- [ ] B) $(-1, 0)$ <!-- feedback: Incorrecto. Dado que $x$ es positivo, su recíproco también debe ser positivo. -->
-- [x] C) $(1, +\infty)$ <!-- feedback: Correcto. Para cualquier $x$ tal que $0 < x < 1$, se cumple que $\frac{1}{x} > 1$, por lo tanto, pertenece al intervalo $(1, +\infty)$. -->
+- [ ] B) $(0, 1)$ <!-- feedback: Incorrecto. El recíproco de un número entre 0 y 1 siempre es mayor que 1. -->
+- [ ] C) $(-1, 0)$ <!-- feedback: Incorrecto. Dado que $x$ es positivo, su recíproco también debe ser positivo. -->
+- [x] A) $(1, +\infty)$ <!-- feedback: Correcto. Para cualquier $x$ tal que $0 < x < 1$, se cumple que $\frac{1}{x} > 1$, por lo tanto, pertenece al intervalo $(1, +\infty)$. -->
 - [ ] D) $[1, +\infty)$ <!-- feedback: Incorrecto. Como $x < 1$ (estrictamente), su recíproco debe ser estrictamente mayor que $1$. -->
 
 ### Explicacion Pedagogica
@@ -331,9 +331,9 @@ Considerá la inecuación $|2x - 5| > 9$. ¿Cuál es el conjunto de todos los n�
 
 ### Opciones
 - [ ] A) $(-2, 7)$ <!-- feedback: Incorrecto. Excluye a los extremos $-2$ y $7$, que tampoco satisfacen la desigualdad estricta. -->
-- [x] B) $[-2, 7]$ <!-- feedback: Correcto. Los números que NO satisfacen $|2x - 5| > 9$ son aquellos que cumplen la desigualdad complementaria $|2x - 5| \le 9$. Al resolverla obtenemos $-9 \le 2x - 5 \le 9 \Rightarrow -4 \le 2x \le 14 \Rightarrow -2 \le x \le 7$, lo cual corresponde al intervalo cerrado $[-2, 7]$. -->
-- [ ] C) $(-\infty, -2] \cup [7, +\infty)$ <!-- feedback: Incorrecto. Este conjunto es precisamente el conjunto solución de la inecuación original, no su complemento. -->
-- [ ] D) $[-7, 2]$ <!-- feedback: Incorrecto. Se cometió un error en los signos al resolver la desigualdad. -->
+- [x] D) $[-2, 7]$ <!-- feedback: Correcto. Los números que NO satisfacen $|2x - 5| > 9$ son aquellos que cumplen la desigualdad complementaria $|2x - 5| \le 9$. Al resolverla obtenemos $-9 \le 2x - 5 \le 9 \Rightarrow -4 \le 2x \le 14 \Rightarrow -2 \le x \le 7$, lo cual corresponde al intervalo cerrado $[-2, 7]$. -->
+- [ ] B) $(-\infty, -2] \cup [7, +\infty)$ <!-- feedback: Incorrecto. Este conjunto es precisamente el conjunto solución de la inecuación original, no su complemento. -->
+- [ ] C) $[-7, 2]$ <!-- feedback: Incorrecto. Se cometió un error en los signos al resolver la desigualdad. -->
 
 ### Explicacion Pedagogica
 El conjunto de números que no satisfacen una desigualdad es su conjunto complementario. Para $|2x - 5| > 9$, el complemento es $|2x - 5| \le 9$. Resolviendo, se obtiene el intervalo cerrado $[-2, 7]$.
@@ -352,8 +352,8 @@ Dada la ecuación cuadrática $x^2 - kx + 9 = 0$, ¿para qué valores del parám
 
 ### Opciones
 - [ ] A) $k < 6$ <!-- feedback: Incorrecto. Si $k = -10$, el discriminante es positivo y habría soluciones reales. -->
-- [x] B) $(-6, 6)$ <!-- feedback: Correcto. Para que no tenga soluciones reales, el discriminante debe ser estrictamente menor que cero: $\Delta = b^2 - 4ac = k^2 - 36 < 0$. Esto equivale a $k^2 < 36$, cuya solución es $-6 < k < 6$. -->
-- [ ] C) $(-\infty, -6) \cup (6, +\infty)$ <!-- feedback: Incorrecto. En este rango el discriminante es positivo. -->
+- [x] C) $(-6, 6)$ <!-- feedback: Correcto. Para que no tenga soluciones reales, el discriminante debe ser estrictamente menor que cero: $\Delta = b^2 - 4ac = k^2 - 36 < 0$. Esto equivale a $k^2 < 36$, cuya solución es $-6 < k < 6$. -->
+- [ ] B) $(-\infty, -6) \cup (6, +\infty)$ <!-- feedback: Incorrecto. En este rango el discriminante es positivo. -->
 - [ ] D) $[-6, 6]$ <!-- feedback: Incorrecto. Si $k = \pm 6$, el discriminante es exactamente cero, por lo que la ecuación tendría una solución real doble. -->
 
 ### Explicacion Pedagogica
@@ -372,8 +372,8 @@ El discriminante de la ecuación cuadrática es $\Delta = k^2 - 36$. No hay solu
 Considerá el conjunto de números reales $S = \left\{ 2 - \frac{1}{n} \colon n \in \mathbb{N} \right\}$. ¿Cuáles son el extremo inferior (ínfimo) y el extremo superior (supremo) de este conjunto $S$?
 
 ### Opciones
-- [ ] A) Ínfimo = 1, Supremo = 1.99 <!-- feedback: Incorrecto. El supremo debe ser el límite exacto de la secuencia a medida que $n$ tiende a infinito, el cual es exactamente 2. -->
-- [x] B) Ínfimo = 1, Supremo = 2 <!-- feedback: Correcto. El menor valor del conjunto ocurre cuando $n = 1$, dando $2 - 1 = 1$. A medida que $n$ crece, el término $\frac{1}{n}$ disminuye, acercándose a 0, por lo que los elementos se aproximan a 2. El supremo es 2. -->
+- [ ] B) Ínfimo = 1, Supremo = 1.99 <!-- feedback: Incorrecto. El supremo debe ser el límite exacto de la secuencia a medida que $n$ tiende a infinito, el cual es exactamente 2. -->
+- [x] A) Ínfimo = 1, Supremo = 2 <!-- feedback: Correcto. El menor valor del conjunto ocurre cuando $n = 1$, dando $2 - 1 = 1$. A medida que $n$ crece, el término $\frac{1}{n}$ disminuye, acercándose a 0, por lo que los elementos se aproximan a 2. El supremo es 2. -->
 - [ ] C) Ínfimo = 0, Supremo = 2 <!-- feedback: Incorrecto. Dado que $n \ge 1$, el menor valor posible en el conjunto es $1$. -->
 - [ ] D) No está acotado superiormente ya que $n$ puede ser tan grande como queramos. <!-- feedback: Incorrecto. Aunque $n$ crece indefinidamente, los elementos del conjunto nunca pueden superar el valor de 2. -->
 
@@ -394,9 +394,9 @@ Para dos números reales positivos cualesquiera $a$ y $b$, se propone la inecuac
 
 ### Opciones
 - [ ] A) Nunca se cumple la igualdad exacta en números reales positivos. <!-- feedback: Incorrecto. Sí hay una condición simple para la cual ambos lados son exactamente iguales. -->
-- [x] B) Únicamente cuando $a = b$. <!-- feedback: Correcto. Esta es la relación de las medias aritmética y geométrica (AM-GM). Al elevar ambos miembros al cuadrado y simplificar, se obtiene $(a-b)^2 \ge 0$. La igualdad se da si y solo si $a - b = 0 \Rightarrow a = b$. -->
-- [ ] C) Cuando uno de los dos números es el doble del otro. <!-- feedback: Incorrecto. Si por ejemplo $a = 2$ y $b = 1$, las medias no son iguales. -->
-- [ ] D) Únicamente cuando $a = 1$ o $b = 1$. <!-- feedback: Incorrecto. Si $a = 1$ y $b = 4$, la media aritmética es $2,5$ y la geométrica es $2$. -->
+- [x] D) Únicamente cuando $a = b$. <!-- feedback: Correcto. Esta es la relación de las medias aritmética y geométrica (AM-GM). Al elevar ambos miembros al cuadrado y simplificar, se obtiene $(a-b)^2 \ge 0$. La igualdad se da si y solo si $a - b = 0 \Rightarrow a = b$. -->
+- [ ] B) Cuando uno de los dos números es el doble del otro. <!-- feedback: Incorrecto. Si por ejemplo $a = 2$ y $b = 1$, las medias no son iguales. -->
+- [ ] C) Únicamente cuando $a = 1$ o $b = 1$. <!-- feedback: Incorrecto. Si $a = 1$ y $b = 4$, la media aritmética es $2,5$ y la geométrica es $2$. -->
 
 ### Explicacion Pedagogica
 La desigualdad de las medias aritmética y geométrica se demuestra a partir de la inecuación $(a-b)^2 \ge 0$, la cual es una identidad en los reales. La igualdad se cumple únicamente cuando el binomio es cero, es decir, cuando $a = b$.
@@ -414,9 +414,9 @@ La desigualdad de las medias aritmética y geométrica se demuestra a partir de 
 Un estudiante resolvió la inecuación $x^2 > 4x$ dividiendo ambos lados de la desigualdad por $x$, concluyendo que la solución es simplemente $x > 4$. ¿Cuál es la evaluación matemática correcta de este procedimiento?
 
 ### Opciones
-- [ ] A) El procedimiento es completamente correcto y la solución es $x > 4$. <!-- feedback: Incorrecto. Se omitió una parte de las soluciones debido a la división por una variable sin analizar su signo. -->
-- [ ] B) El procedimiento es incorrecto porque el sentido de la desigualdad debería haberse invertido siempre. <!-- feedback: Incorrecto. Solo se invierte si la variable por la que se divide es negativa. -->
-- [x] C) Es incorrecto porque al dividir por $x$ se asume implícitamente que $x > 0$. Si $x < 0$, la división invierte la desigualdad dando $x < 4$, lo que sumado al supuesto $x < 0$ añade el intervalo $(-\infty, 0)$ a la solución. <!-- feedback: Correcto. Dividir por una variable cuyo signo se desconoce es un error grave. Si $x < 0$, al dividir por $x$ se invierte el sentido de la desigualdad, resultando en $x < 4$, lo que da todo el intervalo de números negativos. -->
+- [ ] B) El procedimiento es completamente correcto y la solución es $x > 4$. <!-- feedback: Incorrecto. Se omitió una parte de las soluciones debido a la división por una variable sin analizar su signo. -->
+- [ ] C) El procedimiento es incorrecto porque el sentido de la desigualdad debería haberse invertido siempre. <!-- feedback: Incorrecto. Solo se invierte si la variable por la que se divide es negativa. -->
+- [x] A) Es incorrecto porque al dividir por $x$ se asume implícitamente que $x > 0$. Si $x < 0$, la división invierte la desigualdad dando $x < 4$, lo que sumado al supuesto $x < 0$ añade el intervalo $(-\infty, 0)$ a la solución. <!-- feedback: Correcto. Dividir por una variable cuyo signo se desconoce es un error grave. Si $x < 0$, al dividir por $x$ se invierte el sentido de la desigualdad, resultando en $x < 4$, lo que da todo el intervalo de números negativos. -->
 - [ ] D) El procedimiento es incorrecto porque nunca está permitido dividir una inecuación por ninguna variable. <!-- feedback: Incorrecto. Sí está permitido siempre que se analicen los casos según el signo de la variable. -->
 
 ### Explicacion Pedagogica
@@ -436,8 +436,8 @@ Evaluá la veracidad de la siguiente proposición: 'Entre dos números irraciona
 
 ### Opciones
 - [ ] A) Falsa, porque los números irracionales y racionales están en conjuntos totalmente separados y no se mezclan. <!-- feedback: Incorrecto. Aunque son conjuntos disjuntos, sus elementos están infinitamente entrelazados en la recta real. -->
-- [x] B) Verdadera, debido a la propiedad de densidad de los números racionales en el conjunto de los números reales ($\mathbb{R}$). <!-- feedback: Correcto. El conjunto de los números racionales es denso en los reales. Esto garantiza que en cualquier intervalo abierto de la recta real, siempre existe al menos un número racional. -->
-- [ ] C) Falsa, ya que si los dos irracionales están sumamente juntos, solo puede haber otros números irracionales entre ellos. <!-- feedback: Incorrecto. Sin importar la distancia microscópica, la propiedad de densidad garantiza la existencia de racionales. -->
+- [x] C) Verdadera, debido a la propiedad de densidad de los números racionales en el conjunto de los números reales ($\mathbb{R}$). <!-- feedback: Correcto. El conjunto de los números racionales es denso en los reales. Esto garantiza que en cualquier intervalo abierto de la recta real, siempre existe al menos un número racional. -->
+- [ ] B) Falsa, ya que si los dos irracionales están sumamente juntos, solo puede haber otros números irracionales entre ellos. <!-- feedback: Incorrecto. Sin importar la distancia microscópica, la propiedad de densidad garantiza la existencia de racionales. -->
 - [ ] D) Verdadera, pero solo si al menos uno de los dos extremos irracionales es un múltiplo entero de $\pi$. <!-- feedback: Incorrecto. Se cumple para cualquier par de números reales distintos. -->
 
 ### Explicacion Pedagogica

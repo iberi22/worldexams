@@ -34,13 +34,13 @@ El concepto de porcentaje, su equivalencia con fracciones y el cálculo de descu
 ¿Qué significa el 50% de una cantidad?
 
 ### Opciones
-- [x] A) La mitad de esa cantidad.
+- [x] D) La mitad de esa cantidad.
   <!-- feedback: El 50% equivale a dividir la cantidad en dos partes iguales. -->
-- [ ] B) El doble de esa cantidad.
+- [ ] A) El doble de esa cantidad.
   <!-- feedback: El doble corresponde al 200%, no al 50%. -->
-- [ ] C) La cantidad completa.
+- [ ] B) La cantidad completa.
   <!-- feedback: La cantidad completa corresponde al 100%, no al 50%. -->
-- [ ] D) Una cuarta parte de esa cantidad.
+- [ ] C) Una cuarta parte de esa cantidad.
   <!-- feedback: Una cuarta parte corresponde al 25%, no al 50%. -->
 
 ### Explicacion Pedagogica
@@ -80,11 +80,11 @@ Comprender la equivalencia entre el 25% y la cuarta parte de una cantidad.
 ¿Cuánto dinero corresponde al descuento del 10% del cuaderno?
 
 ### Opciones
-- [x] A) 5.000 COP.
+- [x] C) 5.000 COP.
   <!-- feedback: El 10% de 50.000 COP es 50.000 ÷ 10 = 5.000 COP. -->
-- [ ] B) 10.000 COP.
+- [ ] A) 10.000 COP.
   <!-- feedback: 10.000 COP correspondería al 20% de 50.000 COP. -->
-- [ ] C) 500 COP.
+- [ ] B) 500 COP.
   <!-- feedback: 500 COP correspondería al 1% de 50.000 COP. -->
 - [ ] D) 50.000 COP.
   <!-- feedback: 50.000 COP es el precio total, no el valor del descuento. -->
@@ -103,11 +103,11 @@ Aplicar el cálculo del 10% de una cantidad para hallar el valor del descuento.
 ¿Cuánto debe pagar la clienta por la camiseta?
 
 ### Opciones
-- [x] A) 40.000 COP.
+- [x] C) 40.000 COP.
   <!-- feedback: El 50% de 80.000 COP es 40.000 COP, la mitad del precio. -->
-- [ ] B) 80.000 COP.
+- [ ] A) 80.000 COP.
   <!-- feedback: 80.000 COP es el precio sin descuento. -->
-- [ ] C) 20.000 COP.
+- [ ] B) 20.000 COP.
   <!-- feedback: 20.000 COP correspondería al 25% de 80.000 COP. -->
 - [ ] D) 60.000 COP.
   <!-- feedback: 60.000 COP no corresponde al 50% de descuento. -->
@@ -126,9 +126,9 @@ Aplicar el 50% de descuento para calcular el precio final de un producto.
 ¿Cuánto dinero le descuentan a la piña?
 
 ### Opciones
-- [x] A) 10.000 COP.
+- [x] B) 10.000 COP.
   <!-- feedback: El 25% de 40.000 COP es 40.000 ÷ 4 = 10.000 COP. -->
-- [ ] B) 4.000 COP.
+- [ ] A) 4.000 COP.
   <!-- feedback: 4.000 COP correspondería al 10% de 40.000 COP. -->
 - [ ] C) 25.000 COP.
   <!-- feedback: 25.000 COP es un descuento mayor al 25%. -->
@@ -172,13 +172,13 @@ Analizar el descuento y restarlo del precio original para hallar el precio final
 ¿Qué análisis es correcto al comparar las dos ofertas?
 
 ### Opciones
-- [x] A) El descuento del 50% es mayor, por lo que conviene comprar en la primera tienda.
+- [x] D) El descuento del 50% es mayor, por lo que conviene comprar en la primera tienda.
   <!-- feedback: A mayor porcentaje de descuento, menor es el precio final. -->
-- [ ] B) El descuento del 20% es mayor que el del 50%.
+- [ ] A) El descuento del 20% es mayor que el del 50%.
   <!-- feedback: El 20% es menor que el 50%. -->
-- [ ] C) Las dos ofertas descuentan la misma cantidad de dinero.
+- [ ] B) Las dos ofertas descuentan la misma cantidad de dinero.
   <!-- feedback: El 50% descuenta 50.000 COP y el 20% solo 20.000 COP. -->
-- [ ] D) Conviene comprar donde el descuento es del 20%.
+- [ ] C) Conviene comprar donde el descuento es del 20%.
   <!-- feedback: El descuento del 20% deja el morral más caro que el del 50%. -->
 
 ### Explicacion Pedagogica
@@ -195,11 +195,11 @@ Analizar y comparar distintos porcentajes de descuento para decidir la mejor ofe
 ¿Por qué es importante comprender los porcentajes al comprar con descuentos?
 
 ### Opciones
-- [x] A) Porque permite calcular y comparar los precios finales para tomar la mejor decisión de compra.
+- [x] C) Porque permite calcular y comparar los precios finales para tomar la mejor decisión de compra.
   <!-- feedback: Comprender los porcentajes ayuda a elegir la oferta que más conviene. -->
-- [ ] B) Porque los porcentajes solo se usan en los exámenes de matemáticas.
+- [ ] A) Porque los porcentajes solo se usan en los exámenes de matemáticas.
   <!-- feedback: Los porcentajes se usan constantemente en las compras de la vida diaria. -->
-- [ ] C) Porque los descuentos no cambian el precio de los productos.
+- [ ] B) Porque los descuentos no cambian el precio de los productos.
   <!-- feedback: Los descuentos reducen el precio final de los productos. -->
 - [ ] D) Porque todos los descuentos son iguales entre sí.
   <!-- feedback: Cada porcentaje descuenta una cantidad distinta de dinero. -->

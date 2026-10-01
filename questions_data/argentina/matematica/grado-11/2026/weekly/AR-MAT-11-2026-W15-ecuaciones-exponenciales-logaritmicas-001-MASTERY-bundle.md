@@ -78,9 +78,9 @@ Por la propiedad de inyectividad de la base $3$: $x - 2 = 2 \Rightarrow x = 4$.
 Resolvé la ecuación $3^{x - 3} = 27$ en el conjunto de los números reales.
 
 ### Opciones
-- [x] A) $x = 6$ <!-- feedback: Correcto. Igualando exponentes: $x - 3 = 3 \Rightarrow x = 6$. -->
-- [ ] B) $x = 3$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
-- [ ] C) $x = 0$ <!-- feedback: Incorrecto. $x=0$ no satisface la igualdad. -->
+- [x] C) $x = 6$ <!-- feedback: Correcto. Igualando exponentes: $x - 3 = 3 \Rightarrow x = 6$. -->
+- [ ] A) $x = 3$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
+- [ ] B) $x = 0$ <!-- feedback: Incorrecto. $x=0$ no satisface la igualdad. -->
 - [ ] D) $x = 4$ <!-- feedback: Incorrecto. Error algebraico en el despeje. -->
 
 ### Explicacion Pedagogica
@@ -99,8 +99,8 @@ Por la propiedad de inyectividad de la base $3$: $x - 3 = 3 \Rightarrow x = 6$.
 Resolvé la ecuación $3^{x - 4} = 81$ en el conjunto de los números reales.
 
 ### Opciones
-- [x] A) $x = 8$ <!-- feedback: Correcto. Igualando exponentes: $x - 4 = 4 \Rightarrow x = 8$. -->
-- [ ] B) $x = 4$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
+- [x] B) $x = 8$ <!-- feedback: Correcto. Igualando exponentes: $x - 4 = 4 \Rightarrow x = 8$. -->
+- [ ] A) $x = 4$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
 - [ ] C) $x = 0$ <!-- feedback: Incorrecto. $x=0$ no satisface la igualdad. -->
 - [ ] D) $x = 5$ <!-- feedback: Incorrecto. Error algebraico en el despeje. -->
 
@@ -120,8 +120,8 @@ Por la propiedad de inyectividad de la base $3$: $x - 4 = 4 \Rightarrow x = 8$.
 Resolvé la ecuación $3^{x - 5} = 243$ en el conjunto de los números reales.
 
 ### Opciones
-- [x] A) $x = 10$ <!-- feedback: Correcto. Igualando exponentes: $x - 5 = 5 \Rightarrow x = 10$. -->
-- [ ] B) $x = 5$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
+- [x] B) $x = 10$ <!-- feedback: Correcto. Igualando exponentes: $x - 5 = 5 \Rightarrow x = 10$. -->
+- [ ] A) $x = 5$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
 - [ ] C) $x = 0$ <!-- feedback: Incorrecto. $x=0$ no satisface la igualdad. -->
 - [ ] D) $x = 6$ <!-- feedback: Incorrecto. Error algebraico en el despeje. -->
 
@@ -141,9 +141,9 @@ Por la propiedad de inyectividad de la base $3$: $x - 5 = 5 \Rightarrow x = 10$.
 Resolvé la ecuación $3^{x - 6} = 729$ en el conjunto de los números reales.
 
 ### Opciones
-- [x] A) $x = 12$ <!-- feedback: Correcto. Igualando exponentes: $x - 6 = 6 \Rightarrow x = 12$. -->
-- [ ] B) $x = 6$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
-- [ ] C) $x = 0$ <!-- feedback: Incorrecto. $x=0$ no satisface la igualdad. -->
+- [x] C) $x = 12$ <!-- feedback: Correcto. Igualando exponentes: $x - 6 = 6 \Rightarrow x = 12$. -->
+- [ ] A) $x = 6$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
+- [ ] B) $x = 0$ <!-- feedback: Incorrecto. $x=0$ no satisface la igualdad. -->
 - [ ] D) $x = 7$ <!-- feedback: Incorrecto. Error algebraico en el despeje. -->
 
 ### Explicacion Pedagogica
@@ -183,10 +183,10 @@ Por la propiedad de inyectividad de la base $3$: $x - 7 = 7 \Rightarrow x = 14$.
 Resolvé la ecuación $3^{x - 8} = 6561$ en el conjunto de los números reales.
 
 ### Opciones
-- [x] A) $x = 16$ <!-- feedback: Correcto. Igualando exponentes: $x - 8 = 8 \Rightarrow x = 16$. -->
-- [ ] B) $x = 8$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
-- [ ] C) $x = 0$ <!-- feedback: Incorrecto. $x=0$ no satisface la igualdad. -->
-- [ ] D) $x = 9$ <!-- feedback: Incorrecto. Error algebraico en el despeje. -->
+- [x] D) $x = 16$ <!-- feedback: Correcto. Igualando exponentes: $x - 8 = 8 \Rightarrow x = 16$. -->
+- [ ] A) $x = 8$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
+- [ ] B) $x = 0$ <!-- feedback: Incorrecto. $x=0$ no satisface la igualdad. -->
+- [ ] C) $x = 9$ <!-- feedback: Incorrecto. Error algebraico en el despeje. -->
 
 ### Explicacion Pedagogica
 Por la propiedad de inyectividad de la base $3$: $x - 8 = 8 \Rightarrow x = 16$.
@@ -225,8 +225,8 @@ Por la propiedad de inyectividad de la base $3$: $x - 9 = 9 \Rightarrow x = 18$.
 Resolvé la ecuación $3^{x - 10} = 59049$ en el conjunto de los números reales.
 
 ### Opciones
-- [x] A) $x = 20$ <!-- feedback: Correcto. Igualando exponentes: $x - 10 = 10 \Rightarrow x = 20$. -->
-- [ ] B) $x = 10$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
+- [x] B) $x = 20$ <!-- feedback: Correcto. Igualando exponentes: $x - 10 = 10 \Rightarrow x = 20$. -->
+- [ ] A) $x = 10$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
 - [ ] C) $x = 0$ <!-- feedback: Incorrecto. $x=0$ no satisface la igualdad. -->
 - [ ] D) $x = 11$ <!-- feedback: Incorrecto. Error algebraico en el despeje. -->
 
@@ -246,8 +246,8 @@ Por la propiedad de inyectividad de la base $3$: $x - 10 = 10 \Rightarrow x = 20
 Resolvé la ecuación $3^{x - 11} = 177147$ en el conjunto de los números reales.
 
 ### Opciones
-- [x] A) $x = 22$ <!-- feedback: Correcto. Igualando exponentes: $x - 11 = 11 \Rightarrow x = 22$. -->
-- [ ] B) $x = 11$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
+- [x] B) $x = 22$ <!-- feedback: Correcto. Igualando exponentes: $x - 11 = 11 \Rightarrow x = 22$. -->
+- [ ] A) $x = 11$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
 - [ ] C) $x = 0$ <!-- feedback: Incorrecto. $x=0$ no satisface la igualdad. -->
 - [ ] D) $x = 12$ <!-- feedback: Incorrecto. Error algebraico en el despeje. -->
 
@@ -267,9 +267,9 @@ Por la propiedad de inyectividad de la base $3$: $x - 11 = 11 \Rightarrow x = 22
 Resolvé la ecuación $3^{x - 12} = 531441$ en el conjunto de los números reales.
 
 ### Opciones
-- [x] A) $x = 24$ <!-- feedback: Correcto. Igualando exponentes: $x - 12 = 12 \Rightarrow x = 24$. -->
-- [ ] B) $x = 12$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
-- [ ] C) $x = 0$ <!-- feedback: Incorrecto. $x=0$ no satisface la igualdad. -->
+- [x] C) $x = 24$ <!-- feedback: Correcto. Igualando exponentes: $x - 12 = 12 \Rightarrow x = 24$. -->
+- [ ] A) $x = 12$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
+- [ ] B) $x = 0$ <!-- feedback: Incorrecto. $x=0$ no satisface la igualdad. -->
 - [ ] D) $x = 13$ <!-- feedback: Incorrecto. Error algebraico en el despeje. -->
 
 ### Explicacion Pedagogica
@@ -288,10 +288,10 @@ Por la propiedad de inyectividad de la base $3$: $x - 12 = 12 \Rightarrow x = 24
 Resolvé la ecuación $3^{x - 13} = 1594323$ en el conjunto de los números reales.
 
 ### Opciones
-- [x] A) $x = 26$ <!-- feedback: Correcto. Igualando exponentes: $x - 13 = 13 \Rightarrow x = 26$. -->
-- [ ] B) $x = 13$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
-- [ ] C) $x = 0$ <!-- feedback: Incorrecto. $x=0$ no satisface la igualdad. -->
-- [ ] D) $x = 14$ <!-- feedback: Incorrecto. Error algebraico en el despeje. -->
+- [x] D) $x = 26$ <!-- feedback: Correcto. Igualando exponentes: $x - 13 = 13 \Rightarrow x = 26$. -->
+- [ ] A) $x = 13$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
+- [ ] B) $x = 0$ <!-- feedback: Incorrecto. $x=0$ no satisface la igualdad. -->
+- [ ] C) $x = 14$ <!-- feedback: Incorrecto. Error algebraico en el despeje. -->
 
 ### Explicacion Pedagogica
 Por la propiedad de inyectividad de la base $3$: $x - 13 = 13 \Rightarrow x = 26$.
@@ -309,10 +309,10 @@ Por la propiedad de inyectividad de la base $3$: $x - 13 = 13 \Rightarrow x = 26
 Resolvé la ecuación $3^{x - 14} = 4782969$ en el conjunto de los números reales.
 
 ### Opciones
-- [x] A) $x = 28$ <!-- feedback: Correcto. Igualando exponentes: $x - 14 = 14 \Rightarrow x = 28$. -->
-- [ ] B) $x = 14$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
-- [ ] C) $x = 0$ <!-- feedback: Incorrecto. $x=0$ no satisface la igualdad. -->
-- [ ] D) $x = 15$ <!-- feedback: Incorrecto. Error algebraico en el despeje. -->
+- [x] D) $x = 28$ <!-- feedback: Correcto. Igualando exponentes: $x - 14 = 14 \Rightarrow x = 28$. -->
+- [ ] A) $x = 14$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
+- [ ] B) $x = 0$ <!-- feedback: Incorrecto. $x=0$ no satisface la igualdad. -->
+- [ ] C) $x = 15$ <!-- feedback: Incorrecto. Error algebraico en el despeje. -->
 
 ### Explicacion Pedagogica
 Por la propiedad de inyectividad de la base $3$: $x - 14 = 14 \Rightarrow x = 28$.
@@ -330,8 +330,8 @@ Por la propiedad de inyectividad de la base $3$: $x - 14 = 14 \Rightarrow x = 28
 Resolvé la ecuación $3^{x - 15} = 14348907$ en el conjunto de los números reales.
 
 ### Opciones
-- [x] A) $x = 30$ <!-- feedback: Correcto. Igualando exponentes: $x - 15 = 15 \Rightarrow x = 30$. -->
-- [ ] B) $x = 15$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
+- [x] B) $x = 30$ <!-- feedback: Correcto. Igualando exponentes: $x - 15 = 15 \Rightarrow x = 30$. -->
+- [ ] A) $x = 15$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
 - [ ] C) $x = 0$ <!-- feedback: Incorrecto. $x=0$ no satisface la igualdad. -->
 - [ ] D) $x = 16$ <!-- feedback: Incorrecto. Error algebraico en el despeje. -->
 
@@ -351,8 +351,8 @@ Por la propiedad de inyectividad de la base $3$: $x - 15 = 15 \Rightarrow x = 30
 Resolvé la ecuación $3^{x - 16} = 43046721$ en el conjunto de los números reales.
 
 ### Opciones
-- [x] A) $x = 32$ <!-- feedback: Correcto. Igualando exponentes: $x - 16 = 16 \Rightarrow x = 32$. -->
-- [ ] B) $x = 16$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
+- [x] B) $x = 32$ <!-- feedback: Correcto. Igualando exponentes: $x - 16 = 16 \Rightarrow x = 32$. -->
+- [ ] A) $x = 16$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
 - [ ] C) $x = 0$ <!-- feedback: Incorrecto. $x=0$ no satisface la igualdad. -->
 - [ ] D) $x = 17$ <!-- feedback: Incorrecto. Error algebraico en el despeje. -->
 
@@ -372,8 +372,8 @@ Por la propiedad de inyectividad de la base $3$: $x - 16 = 16 \Rightarrow x = 32
 Resolvé la ecuación $3^{x - 17} = 129140163$ en el conjunto de los números reales.
 
 ### Opciones
-- [x] A) $x = 34$ <!-- feedback: Correcto. Igualando exponentes: $x - 17 = 17 \Rightarrow x = 34$. -->
-- [ ] B) $x = 17$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
+- [x] B) $x = 34$ <!-- feedback: Correcto. Igualando exponentes: $x - 17 = 17 \Rightarrow x = 34$. -->
+- [ ] A) $x = 17$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
 - [ ] C) $x = 0$ <!-- feedback: Incorrecto. $x=0$ no satisface la igualdad. -->
 - [ ] D) $x = 18$ <!-- feedback: Incorrecto. Error algebraico en el despeje. -->
 
@@ -393,8 +393,8 @@ Por la propiedad de inyectividad de la base $3$: $x - 17 = 17 \Rightarrow x = 34
 Resolvé la ecuación $3^{x - 18} = 387420489$ en el conjunto de los números reales.
 
 ### Opciones
-- [x] A) $x = 36$ <!-- feedback: Correcto. Igualando exponentes: $x - 18 = 18 \Rightarrow x = 36$. -->
-- [ ] B) $x = 18$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
+- [x] B) $x = 36$ <!-- feedback: Correcto. Igualando exponentes: $x - 18 = 18 \Rightarrow x = 36$. -->
+- [ ] A) $x = 18$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
 - [ ] C) $x = 0$ <!-- feedback: Incorrecto. $x=0$ no satisface la igualdad. -->
 - [ ] D) $x = 19$ <!-- feedback: Incorrecto. Error algebraico en el despeje. -->
 
@@ -414,8 +414,8 @@ Por la propiedad de inyectividad de la base $3$: $x - 18 = 18 \Rightarrow x = 36
 Resolvé la ecuación $3^{x - 19} = 1162261467$ en el conjunto de los números reales.
 
 ### Opciones
-- [x] A) $x = 38$ <!-- feedback: Correcto. Igualando exponentes: $x - 19 = 19 \Rightarrow x = 38$. -->
-- [ ] B) $x = 19$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
+- [x] B) $x = 38$ <!-- feedback: Correcto. Igualando exponentes: $x - 19 = 19 \Rightarrow x = 38$. -->
+- [ ] A) $x = 19$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
 - [ ] C) $x = 0$ <!-- feedback: Incorrecto. $x=0$ no satisface la igualdad. -->
 - [ ] D) $x = 20$ <!-- feedback: Incorrecto. Error algebraico en el despeje. -->
 
@@ -435,8 +435,8 @@ Por la propiedad de inyectividad de la base $3$: $x - 19 = 19 \Rightarrow x = 38
 Resolvé la ecuación $3^{x - 20} = 3486784401$ en el conjunto de los números reales.
 
 ### Opciones
-- [x] A) $x = 40$ <!-- feedback: Correcto. Igualando exponentes: $x - 20 = 20 \Rightarrow x = 40$. -->
-- [ ] B) $x = 20$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
+- [x] B) $x = 40$ <!-- feedback: Correcto. Igualando exponentes: $x - 20 = 20 \Rightarrow x = 40$. -->
+- [ ] A) $x = 20$ <!-- feedback: Incorrecto. Olvidó sumar la constante del exponente. -->
 - [ ] C) $x = 0$ <!-- feedback: Incorrecto. $x=0$ no satisface la igualdad. -->
 - [ ] D) $x = 21$ <!-- feedback: Incorrecto. Error algebraico en el despeje. -->
 

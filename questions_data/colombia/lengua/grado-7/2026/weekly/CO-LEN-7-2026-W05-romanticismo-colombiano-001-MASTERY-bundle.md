@@ -75,8 +75,8 @@ El Romanticismo llegó a Colombia como reflejo del movimiento europeo, pero adqu
 
 ### Opciones
 - [ ] A) El optimismo por el futuro de la nación. <!-- feedback: Incorrecto. El romanticismo tardío era profundamente pesimista y triste. -->
-- [x] B) El culto al sentimiento y la fascinación por lo trágico y lo fúnebre. <!-- feedback: ¡Correcto! La muerte y el dolor son temas recurrentes de la sensibilidad romántica. -->
-- [ ] C) El interés por los avances tecnológicos del siglo XIX. <!-- feedback: Incorrecto. Los románticos solían rechazar el frío racionalismo del progreso técnico. -->
+- [x] C) El culto al sentimiento y la fascinación por lo trágico y lo fúnebre. <!-- feedback: ¡Correcto! La muerte y el dolor son temas recurrentes de la sensibilidad romántica. -->
+- [ ] B) El interés por los avances tecnológicos del siglo XIX. <!-- feedback: Incorrecto. Los románticos solían rechazar el frío racionalismo del progreso técnico. -->
 - [ ] D) La descripción objetiva de la economía colombiana. <!-- feedback: Incorrecto. La subjetividad del autor está por encima de cualquier descripción objetiva. -->
 
 ### Explicacion Pedagogica
@@ -97,8 +97,8 @@ Julio Flórez representa el romanticismo tardío en Colombia. Su obra conecta co
 ### Opciones
 - [ ] A) Es un lugar peligroso que los personajes siempre quieren evitar. <!-- feedback: Incorrecto. Al contrario, los personajes aman y se refugian en la naturaleza. -->
 - [ ] B) Es una fuente de recursos económicos para los protagonistas. <!-- feedback: Incorrecto. La visión romántica es estética y emocional, no comercial. -->
-- [x] C) Es un espejo de las emociones: si el personaje está triste, el paisaje suele ser sombrío o lluvioso. <!-- feedback: ¡Correcto! El paisaje se "humaniza" y acompaña el sentimiento del héroe. -->
-- [ ] D) El paisaje no tiene ninguna importancia en las obras románticas. <!-- feedback: Incorrecto. El paisaje (especialmente el local) es fundamental para la identidad romántica. -->
+- [x] D) Es un espejo de las emociones: si el personaje está triste, el paisaje suele ser sombrío o lluvioso. <!-- feedback: ¡Correcto! El paisaje se "humaniza" y acompaña el sentimiento del héroe. -->
+- [ ] C) El paisaje no tiene ninguna importancia en las obras románticas. <!-- feedback: Incorrecto. El paisaje (especialmente el local) es fundamental para la identidad romántica. -->
 
 ### Explicacion Pedagogica
 Este recurso se llama "falacia patética" o paisaje sentimental. En "María", por ejemplo, el río y la vegetación de la hacienda El Paraíso cambian de tono según el estado de salud y la felicidad de María y Efraín.
@@ -179,8 +179,8 @@ Aunque Pombo es famoso por "Rinrín Renacuajo", su obra para adultos es profunda
 ¿Por qué se dice que el romanticismo contribuyó a la identidad nacional colombiana?
 
 ### Opciones
-- [ ] A) Porque todos los autores románticos fueron presidentes de la república. <!-- feedback: Incorrecto. Algunos participaron en política, pero no todos fueron presidentes. -->
-- [x] B) Porque al describir con amor nuestros paisajes, costumbres e historia, los autores hicieron que los colombianos se sintieran orgullosos de su tierra. <!-- feedback: ¡Correcto! El nacionalismo literario es una rama del romanticismo. -->
+- [ ] B) Porque todos los autores románticos fueron presidentes de la república. <!-- feedback: Incorrecto. Algunos participaron en política, pero no todos fueron presidentes. -->
+- [x] A) Porque al describir con amor nuestros paisajes, costumbres e historia, los autores hicieron que los colombianos se sintieran orgullosos de su tierra. <!-- feedback: ¡Correcto! El nacionalismo literario es una rama del romanticismo. -->
 - [ ] C) Porque el romanticismo prohibía leer libros que vinieran de otros países. <!-- feedback: Incorrecto. Al contrario, se nutría mucho de las lecturas europeas. -->
 - [ ] D) Porque obligó a todos los ciudadanos a escribir poemas de amor. <!-- feedback: Incorrecto. Es una afirmación sin sentido histórico. -->
 
@@ -201,8 +201,8 @@ Al centrarse en lo local (el color local), el romanticismo permitió que los col
 
 ### Opciones
 - [ ] A) El conflicto económico por no tener un trabajo estable. <!-- feedback: Incorrecto. El autor habla de autenticidad emocional, no de dinero. -->
-- [ ] B) La falta de educación en los jóvenes de la época. <!-- feedback: Incorrecto. No se menciona la educación, sino la vivencia de los sentimientos. -->
-- [x] C) El choque entre la sinceridad emocional del individuo y las normas hipócritas de la sociedad. <!-- feedback: ¡Correcto! El romántico se siente un incomprendido por un mundo materialista. -->
+- [ ] C) La falta de educación en los jóvenes de la época. <!-- feedback: Incorrecto. No se menciona la educación, sino la vivencia de los sentimientos. -->
+- [x] B) El choque entre la sinceridad emocional del individuo y las normas hipócritas de la sociedad. <!-- feedback: ¡Correcto! El romántico se siente un incomprendido por un mundo materialista. -->
 - [ ] D) El deseo de viajar a Europa para escapar de la familia. <!-- feedback: Incorrecto. Aunque viajaban, el centro del fragmento es la autenticidad del "yo". -->
 
 ### Explicacion Pedagogica
@@ -221,9 +221,9 @@ El "mal del siglo" (la melancolía y el desajuste con el mundo) es la marca de a
 Desde un punto de vista literario, ¿cómo debemos interpretar la exageración de los sentimientos en las obras románticas?
 
 ### Opciones
-- [ ] A) Como una señal de que los personajes del siglo XIX eran más débiles que los actuales. <!-- feedback: Incorrecto. No es debilidad, es una estética literaria diferente. -->
-- [ ] B) Como errores del autor que no sabía controlar sus emociones al escribir. <!-- feedback: Incorrecto. Es una técnica deliberada para impactar al lector. -->
-- [x] C) Como una convención estética de la época que buscaba resaltar la nobleza y profundidad del alma humana. <!-- feedback: ¡Correcto! La intensidad es lo que da valor a la experiencia romántica. -->
+- [ ] B) Como una señal de que los personajes del siglo XIX eran más débiles que los actuales. <!-- feedback: Incorrecto. No es debilidad, es una estética literaria diferente. -->
+- [ ] C) Como errores del autor que no sabía controlar sus emociones al escribir. <!-- feedback: Incorrecto. Es una técnica deliberada para impactar al lector. -->
+- [x] A) Como una convención estética de la época que buscaba resaltar la nobleza y profundidad del alma humana. <!-- feedback: ¡Correcto! La intensidad es lo que da valor a la experiencia romántica. -->
 - [ ] D) Como una forma de hacer que los libros fueran más largos y tristes. <!-- feedback: Incorrecto. La tristeza no busca la extensión, sino la belleza de la melancolía. -->
 
 ### Explicacion Pedagogica

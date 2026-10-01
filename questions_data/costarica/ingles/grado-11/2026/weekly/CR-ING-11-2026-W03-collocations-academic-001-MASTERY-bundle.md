@@ -32,13 +32,13 @@ bundle_index: 1
 What is the English word for: "A place where you live or stay on holiday."
 
 ### Opciones
-- [x] A) accommodation
+- [x] D) accommodation
   <!-- feedback: Correct! 'accommodation' matches the definition. -->
-- [ ] B) transportation
+- [ ] A) transportation
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) entertainment
+- [ ] B) entertainment
   <!-- feedback: Incorrect. Try again. -->
-- [ ] D) currency
+- [ ] C) currency
   <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica
@@ -55,9 +55,9 @@ The word 'accommodation' is used to describe a place where you live or stay on h
 What is the English word for: "A detailed plan or route of a journey."
 
 ### Opciones
-- [x] A) itinerary
+- [x] B) itinerary
   <!-- feedback: Correct! 'itinerary' matches the definition. -->
-- [ ] B) baggage
+- [ ] A) baggage
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) destination
   <!-- feedback: Incorrect. Try again. -->
@@ -78,9 +78,9 @@ The word 'itinerary' is used to describe a detailed plan or route of a journey. 
 What is the English word for: "The place to which someone or something is going or being sent."
 
 ### Opciones
-- [x] A) destination
+- [x] B) destination
   <!-- feedback: Correct! 'destination' matches the definition. -->
-- [ ] B) departure
+- [ ] A) departure
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) arrival
   <!-- feedback: Incorrect. Try again. -->
@@ -124,9 +124,9 @@ The word 'luggage' is used to describe suitcases or other bags in which to pack 
 What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
 
 ### Opciones
-- [x] A) passenger
+- [x] B) passenger
   <!-- feedback: Correct! 'passenger' matches the definition. -->
-- [ ] B) pedestrian
+- [ ] A) pedestrian
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) commuter
   <!-- feedback: Incorrect. Try again. -->
@@ -147,11 +147,11 @@ The word 'passenger' is used to describe a traveler on a public or private conve
 What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
 
 ### Opciones
-- [x] A) customs
+- [x] C) customs
   <!-- feedback: Correct! 'customs' matches the definition. -->
-- [ ] B) security
+- [ ] A) security
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) terminal
+- [ ] B) terminal
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) gate
   <!-- feedback: Incorrect. Try again. -->
@@ -170,13 +170,13 @@ The word 'customs' is used to describe the place at a port, airport, or frontier
 What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
 
 ### Opciones
-- [x] A) boarding pass
+- [x] D) boarding pass
   <!-- feedback: Correct! 'boarding pass' matches the definition. -->
-- [ ] B) visa
+- [ ] A) visa
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) receipt
+- [ ] B) receipt
   <!-- feedback: Incorrect. Try again. -->
-- [ ] D) brochure
+- [ ] C) brochure
   <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica
@@ -193,13 +193,13 @@ The word 'boarding pass' is used to describe a document provided by an airline d
 What is the English word for: "The activity of visiting places of interest in a particular location."
 
 ### Opciones
-- [x] A) sightseeing
+- [x] D) sightseeing
   <!-- feedback: Correct! 'sightseeing' matches the definition. -->
-- [ ] B) shopping
+- [ ] A) shopping
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) hiking
+- [ ] B) hiking
   <!-- feedback: Incorrect. Try again. -->
-- [ ] D) camping
+- [ ] C) camping
   <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica
@@ -239,11 +239,11 @@ The word 'souvenir' is used to describe a thing that is kept as a reminder of a 
 What is the English word for: "A period of time by which something is late or postponed."
 
 ### Opciones
-- [x] A) delay
+- [x] C) delay
   <!-- feedback: Correct! 'delay' matches the definition. -->
-- [ ] B) cancellation
+- [ ] A) cancellation
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) departure
+- [ ] B) departure
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) arrival
   <!-- feedback: Incorrect. Try again. -->
@@ -262,11 +262,11 @@ The word 'delay' is used to describe a period of time by which something is late
 What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
 
 ### Opciones
-- [x] A) check-in
+- [x] C) check-in
   <!-- feedback: Correct! 'check-in' matches the definition. -->
-- [ ] B) check-out
+- [ ] A) check-out
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) booking
+- [ ] B) booking
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) reservation
   <!-- feedback: Incorrect. Try again. -->
@@ -285,9 +285,9 @@ The word 'check-in' is used to describe the act of reporting one's presence and 
 What is the English word for: "A period of rest or waiting before a further stage in a journey."
 
 ### Opciones
-- [x] A) layover
+- [x] B) layover
   <!-- feedback: Correct! 'layover' matches the definition. -->
-- [ ] B) stopover
+- [ ] A) stopover
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) transfer
   <!-- feedback: Incorrect. Try again. -->
@@ -308,11 +308,11 @@ The word 'layover' is used to describe a period of rest or waiting before a furt
 What is the English word for: "A system of money in general use in a particular country."
 
 ### Opciones
-- [x] A) currency
+- [x] C) currency
   <!-- feedback: Correct! 'currency' matches the definition. -->
-- [ ] B) coin
+- [ ] A) coin
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) banknote
+- [ ] B) banknote
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) cash
   <!-- feedback: Incorrect. Try again. -->
@@ -331,11 +331,11 @@ The word 'currency' is used to describe a system of money in general use in a pa
 What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
 
 ### Opciones
-- [x] A) guidebook
+- [x] C) guidebook
   <!-- feedback: Correct! 'guidebook' matches the definition. -->
-- [ ] B) map
+- [ ] A) map
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) dictionary
+- [ ] B) dictionary
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) encyclopedia
   <!-- feedback: Incorrect. Try again. -->
@@ -377,11 +377,11 @@ The word 'backpack' is used to describe a bag with shoulder straps that allow it
 What is the English word for: "In or to a foreign country, especially one across the sea."
 
 ### Opciones
-- [x] A) overseas
+- [x] C) overseas
   <!-- feedback: Correct! 'overseas' matches the definition. -->
-- [ ] B) domestic
+- [ ] A) domestic
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) local
+- [ ] B) local
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) national
   <!-- feedback: Incorrect. Try again. -->
@@ -423,13 +423,13 @@ The word 'budget' is used to describe an estimate of income and expenditure for 
 What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
 
 ### Opciones
-- [x] A) insurance
+- [x] D) insurance
   <!-- feedback: Correct! 'insurance' matches the definition. -->
-- [ ] B) warranty
+- [ ] A) warranty
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) guarantee
+- [ ] B) guarantee
   <!-- feedback: Incorrect. Try again. -->
-- [ ] D) policy
+- [ ] C) policy
   <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica
@@ -446,9 +446,9 @@ The word 'insurance' is used to describe a practice or arrangement by which a co
 What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
 
 ### Opciones
-- [x] A) vaccination
+- [x] B) vaccination
   <!-- feedback: Correct! 'vaccination' matches the definition. -->
-- [ ] B) medication
+- [ ] A) medication
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) prescription
   <!-- feedback: Incorrect. Try again. -->
@@ -469,13 +469,13 @@ The word 'vaccination' is used to describe treatment with a vaccine to produce i
 What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
 
 ### Opciones
-- [x] A) jet lag
+- [x] D) jet lag
   <!-- feedback: Correct! 'jet lag' matches the definition. -->
-- [ ] B) fatigue
+- [ ] A) fatigue
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) exhaustion
+- [ ] B) exhaustion
   <!-- feedback: Incorrect. Try again. -->
-- [ ] D) insomnia
+- [ ] C) insomnia
   <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica

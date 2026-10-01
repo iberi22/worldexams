@@ -74,11 +74,11 @@ En y = m × x + b, m es la pendiente o tasa de cambio (lo que aporta cada unidad
 ### Opciones
 - [ ] A) $50 000
   <!-- feedback: Incorrecto. Ese valor resulta de multiplicar mal o de omitir parte del cargo fijo. -->
-- [x] B) $65 000
+- [x] D) $65 000
   <!-- feedback: Correcto. C = 15 000 × 3 + 20 000 = 45 000 + 20 000 = $65 000. -->
-- [ ] C) $35 000
+- [ ] B) $35 000
   <!-- feedback: Incorrecto. Ese valor solo suma una hora de trabajo al cargo fijo. -->
-- [ ] D) $105 000
+- [ ] C) $105 000
   <!-- feedback: Incorrecto. Ese valor multiplica el total por 3 en vez de solo las horas. -->
 ### Explicacion Pedagogica
 Se reemplaza h = 3 en la función: C = 15 000 × 3 + 20 000 = 45 000 + 20 000 = 65 000. El cliente paga $65 000.
@@ -94,9 +94,9 @@ Se reemplaza h = 3 en la función: C = 15 000 × 3 + 20 000 = 45 000 + 20 000 = 
 ### Opciones
 - [ ] A) C = 500 × m
   <!-- feedback: Incorrecto. Con esa regla 2 minutos costarían $1 000, pero la tabla dice $800. -->
-- [x] B) C = 300 × m + 200
+- [x] C) C = 300 × m + 200
   <!-- feedback: Correcto. Cada minuto suma $300 y hay un cargo inicial de $200: 300 × 1 + 200 = 500; 300 × 2 + 200 = 800; 300 × 3 + 200 = 1 100. -->
-- [ ] C) C = 300 × m + 500
+- [ ] B) C = 300 × m + 500
   <!-- feedback: Incorrecto. Con esa regla 1 minuto costaría $800, no $500. -->
 - [ ] D) C = 200 × m + 300
   <!-- feedback: Incorrecto. Con esa regla 2 minutos costarían $700, no $800. -->
@@ -116,9 +116,9 @@ La diferencia entre valores consecutivos es 300 (tasa de cambio) y el valor inic
   <!-- feedback: Incorrecto. Ese punto indica 50 litros a los 10 minutos, no 100 litros. -->
 - [ ] B) (100, 5)
   <!-- feedback: Incorrecto. Ese punto invierte los ejes: el tiempo va en x y el volumen en y. -->
-- [x] C) (5, 100)
+- [x] D) (5, 100)
   <!-- feedback: Correcto. Resolviendo 100 = 10 × t + 50 se obtiene t = 5; el punto es (5, 100). -->
-- [ ] D) (50, 10)
+- [ ] C) (50, 10)
   <!-- feedback: Incorrecto. Ese punto confunde el valor inicial con el tiempo. -->
 ### Explicacion Pedagogica
 Se iguala V = 100: 100 = 10 × t + 50, de donde 10 × t = 50 y t = 5. En la gráfica (tiempo en x, volumen en y) el punto es (5, 100).
@@ -134,9 +134,9 @@ Al comparar las gráficas de ambos costos frente a los GB consumidos, ¿qué se 
 ### Opciones
 - [ ] A) La gráfica de A es creciente y la de B es horizontal
   <!-- feedback: Incorrecto. Es al revés: A no depende de los GB y B sí crece con ellos. -->
-- [x] B) La gráfica de A es una recta horizontal y la de B es una recta creciente que empieza en 40 000
+- [x] C) La gráfica de A es una recta horizontal y la de B es una recta creciente que empieza en 40 000
   <!-- feedback: Correcto. A es constante (y = 60 000) y B es y = 5 000 × x + 40 000, creciente desde 40 000. -->
-- [ ] C) Ambas gráficas son rectas crecientes con la misma pendiente
+- [ ] B) Ambas gráficas son rectas crecientes con la misma pendiente
   <!-- feedback: Incorrecto. Solo B crece; A se mantiene constante. -->
 - [ ] D) La gráfica de B empieza en 60 000 y decrece con el consumo
   <!-- feedback: Incorrecto. B empieza en 40 000 y crece, nunca decrece. -->
@@ -152,13 +152,13 @@ El plan A es una función constante (recta horizontal en y = 60 000). El plan B 
 ### Enunciado
 ¿Cuál es la ganancia que aporta cada almuerzo adicional?
 ### Opciones
-- [x] A) $10 000
+- [x] D) $10 000
   <!-- feedback: Correcto. La pendiente es (130 000 - 30 000) ÷ (10 - 0) = 100 000 ÷ 10 = $10 000 por almuerzo. -->
-- [ ] B) $13 000
+- [ ] A) $13 000
   <!-- feedback: Incorrecto. Ese valor divide 130 000 entre 10 sin restar la ganancia inicial de 30 000. -->
-- [ ] C) $30 000
+- [ ] B) $30 000
   <!-- feedback: Incorrecto. Ese es el valor inicial (intercepto), no el aporte de cada almuerzo. -->
-- [ ] D) $100 000
+- [ ] C) $100 000
   <!-- feedback: Incorrecto. Ese es el aumento total por 10 almuerzos, no el de cada uno. -->
 ### Explicacion Pedagogica
 La pendiente de la recta es el cambio en y dividido entre el cambio en x: (130 000 - 30 000) / 10 = 10 000. Cada almuerzo adicional aporta $10 000 a la ganancia.
@@ -174,9 +174,9 @@ Si la tendencia lineal continúa, ¿qué temperatura marcará a la 1:00 p. m.?
 ### Opciones
 - [ ] A) 28 °C
   <!-- feedback: Incorrecto. Ese valor supone que sube 1 °C por hora, pero la tasa real es mayor. -->
-- [ ] B) 29 °C
+- [ ] C) 29 °C
   <!-- feedback: Incorrecto. Ese valor usa una tasa de 1,5 °C por hora que no corresponde a los datos. -->
-- [x] C) 30 °C
+- [x] B) 30 °C
   <!-- feedback: Correcto. Sube 6 °C en 3 horas (2 °C/h); dos horas después de las 11:00 suma 4 °C: 26 + 4 = 30. -->
 - [ ] D) 32 °C
   <!-- feedback: Incorrecto. Ese valor supone 3 °C por hora, el doble de la tasa real. -->
@@ -192,9 +192,9 @@ La tasa de cambio es (26 - 20) / 3 = 2 °C por hora. De 11:00 a. m. a 1:00 p. m.
 ### Enunciado
 ¿A partir de cuántos kilos conviene más vender al mercado local? Evalúe la mejor conclusión.
 ### Opciones
-- [ ] A) Siempre conviene el distribuidor porque paga un bono inicial de $100 000
+- [ ] B) Siempre conviene el distribuidor porque paga un bono inicial de $100 000
   <!-- feedback: Incorrecto. El bono solo ayuda con pocos kilos; con muchos kilos la mayor tasa del mercado local lo supera. -->
-- [x] B) Conviene el mercado local cuando se venden más de 200 kilos, pues allí se igualan: 2 000 × 200 = 1 500 × 200 + 100 000
+- [x] A) Conviene el mercado local cuando se venden más de 200 kilos, pues allí se igualan: 2 000 × 200 = 1 500 × 200 + 100 000
   <!-- feedback: Correcto. Igualando 2 000k = 1 500k + 100 000 se obtiene 500k = 100 000, o sea k = 200; por encima de 200 gana el mercado local. -->
 - [ ] C) Conviene el mercado local desde el primer kilo porque 2 000 es mayor que 1 500
   <!-- feedback: Incorrecto. Con pocos kilos el bono de $100 000 del distribuidor compensa su menor tasa. -->
@@ -214,11 +214,11 @@ El punto de equilibrio se halla igualando: 2 000k = 1 500k + 100 000, de donde k
 ### Opciones
 - [ ] A) Sí, es lineal y corta el eje y en 7 porque ese es el primer valor de la tabla
   <!-- feedback: Incorrecto. El primer valor de la tabla corresponde a x = 1, no al corte con el eje y (x = 0). -->
-- [x] B) Sí, es lineal con regla y = 3x + 4 y por eso corta el eje y en 4
+- [x] D) Sí, es lineal con regla y = 3x + 4 y por eso corta el eje y en 4
   <!-- feedback: Correcto. Las diferencias son constantes (3) y la regla y = 3x + 4 reproduce la tabla; con x = 0 se obtiene y = 4. -->
-- [ ] C) No, porque las diferencias entre valores consecutivos no son constantes
+- [ ] B) No, porque las diferencias entre valores consecutivos no son constantes
   <!-- feedback: Incorrecto. Las diferencias son 3, 3 y 3: perfectamente constantes, sí es lineal. -->
-- [ ] D) Sí, es lineal pero corta el eje y en 3 porque 3 es la diferencia constante
+- [ ] C) Sí, es lineal pero corta el eje y en 3 porque 3 es la diferencia constante
   <!-- feedback: Incorrecto. La diferencia constante es la pendiente, no el punto de corte con el eje y. -->
 ### Explicacion Pedagogica
 Las diferencias 10-7, 13-10 y 16-13 son todas 3, así que es lineal con pendiente 3. La regla y = 3x + 4 genera la tabla (3×1+4=7, etc.) y evaluando en x = 0 da el intercepto y = 4. La afirmación es correcta.

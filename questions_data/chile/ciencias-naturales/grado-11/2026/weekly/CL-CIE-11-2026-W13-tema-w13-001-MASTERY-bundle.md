@@ -30,9 +30,9 @@ creador: "Jules-Agent"
 Un cuerpo de masa $2 \text{ kg}$ se encuentra a una altura de $4 \text{ m}$ sobre el suelo en Valdivia (usando $g = 9,8 \text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?
 
 ### Opciones
-- [x] A) $78.4 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 2*9,8*4 = 78.4 J. -->
-- [ ] B) $39.2 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
-- [ ] C) $156.8 \text{ J}$ <!-- feedback: Incorrecto. Duplicaste la energía potencial. -->
+- [x] C) $78.4 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 2*9,8*4 = 78.4 J. -->
+- [ ] A) $39.2 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
+- [ ] B) $156.8 \text{ J}$ <!-- feedback: Incorrecto. Duplicaste la energía potencial. -->
 - [ ] D) $8.0 \text{ J}$ <!-- feedback: Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g. -->
 
 ### Explicacion Pedagogica
@@ -49,8 +49,8 @@ La energía potencial gravitatoria viene dada por Ep = m*g*h = 2*9,8*4 = 78.4 J.
 Un cuerpo de masa $3 \text{ kg}$ se encuentra a una altura de $4 \text{ m}$ sobre el suelo en Santiago (usando $g = 9,8 \text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?
 
 ### Opciones
-- [x] A) $117.6 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 3*9,8*4 = 117.6 J. -->
-- [ ] B) $58.8 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
+- [x] B) $117.6 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 3*9,8*4 = 117.6 J. -->
+- [ ] A) $58.8 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
 - [ ] C) $235.2 \text{ J}$ <!-- feedback: Incorrecto. Duplicaste la energía potencial. -->
 - [ ] D) $12.0 \text{ J}$ <!-- feedback: Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g. -->
 
@@ -68,9 +68,9 @@ La energía potencial gravitatoria viene dada por Ep = m*g*h = 3*9,8*4 = 117.6 J
 Un cuerpo de masa $4 \text{ kg}$ se encuentra a una altura de $4 \text{ m}$ sobre el suelo en Valparaíso (usando $g = 9,8 \text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?
 
 ### Opciones
-- [x] A) $156.8 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 4*9,8*4 = 156.8 J. -->
-- [ ] B) $78.4 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
-- [ ] C) $313.6 \text{ J}$ <!-- feedback: Incorrecto. Duplicaste la energía potencial. -->
+- [x] C) $156.8 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 4*9,8*4 = 156.8 J. -->
+- [ ] A) $78.4 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
+- [ ] B) $313.6 \text{ J}$ <!-- feedback: Incorrecto. Duplicaste la energía potencial. -->
 - [ ] D) $16.0 \text{ J}$ <!-- feedback: Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g. -->
 
 ### Explicacion Pedagogica
@@ -87,9 +87,9 @@ La energía potencial gravitatoria viene dada por Ep = m*g*h = 4*9,8*4 = 156.8 J
 Un cuerpo de masa $5 \text{ kg}$ se encuentra a una altura de $4 \text{ m}$ sobre el suelo en Concepción (usando $g = 9,8 \text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?
 
 ### Opciones
-- [x] A) $196.0 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 5*9,8*4 = 196.0 J. -->
-- [ ] B) $98.0 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
-- [ ] C) $392.0 \text{ J}$ <!-- feedback: Incorrecto. Duplicaste la energía potencial. -->
+- [x] C) $196.0 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 5*9,8*4 = 196.0 J. -->
+- [ ] A) $98.0 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
+- [ ] B) $392.0 \text{ J}$ <!-- feedback: Incorrecto. Duplicaste la energía potencial. -->
 - [ ] D) $20.0 \text{ J}$ <!-- feedback: Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g. -->
 
 ### Explicacion Pedagogica
@@ -106,8 +106,8 @@ La energía potencial gravitatoria viene dada por Ep = m*g*h = 5*9,8*4 = 196.0 J
 Un cuerpo de masa $6 \text{ kg}$ se encuentra a una altura de $4 \text{ m}$ sobre el suelo en Antofagasta (usando $g = 9,8 \text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?
 
 ### Opciones
-- [x] A) $235.2 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 6*9,8*4 = 235.2 J. -->
-- [ ] B) $117.6 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
+- [x] B) $235.2 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 6*9,8*4 = 235.2 J. -->
+- [ ] A) $117.6 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
 - [ ] C) $470.4 \text{ J}$ <!-- feedback: Incorrecto. Duplicaste la energía potencial. -->
 - [ ] D) $24.0 \text{ J}$ <!-- feedback: Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g. -->
 
@@ -125,9 +125,9 @@ La energía potencial gravitatoria viene dada por Ep = m*g*h = 6*9,8*4 = 235.2 J
 Un cuerpo de masa $7 \text{ kg}$ se encuentra a una altura de $4 \text{ m}$ sobre el suelo en Temuco (usando $g = 9,8 \text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?
 
 ### Opciones
-- [x] A) $274.4 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 7*9,8*4 = 274.4 J. -->
-- [ ] B) $137.2 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
-- [ ] C) $548.8 \text{ J}$ <!-- feedback: Incorrecto. Duplicaste la energía potencial. -->
+- [x] C) $274.4 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 7*9,8*4 = 274.4 J. -->
+- [ ] A) $137.2 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
+- [ ] B) $548.8 \text{ J}$ <!-- feedback: Incorrecto. Duplicaste la energía potencial. -->
 - [ ] D) $28.0 \text{ J}$ <!-- feedback: Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g. -->
 
 ### Explicacion Pedagogica
@@ -144,9 +144,9 @@ La energía potencial gravitatoria viene dada por Ep = m*g*h = 7*9,8*4 = 274.4 J
 Un cuerpo de masa $8 \text{ kg}$ se encuentra a una altura de $4 \text{ m}$ sobre el suelo en La Serena (usando $g = 9,8 \text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?
 
 ### Opciones
-- [x] A) $313.6 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 8*9,8*4 = 313.6 J. -->
-- [ ] B) $156.8 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
-- [ ] C) $627.2 \text{ J}$ <!-- feedback: Incorrecto. Duplicaste la energía potencial. -->
+- [x] C) $313.6 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 8*9,8*4 = 313.6 J. -->
+- [ ] A) $156.8 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
+- [ ] B) $627.2 \text{ J}$ <!-- feedback: Incorrecto. Duplicaste la energía potencial. -->
 - [ ] D) $32.0 \text{ J}$ <!-- feedback: Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g. -->
 
 ### Explicacion Pedagogica
@@ -163,8 +163,8 @@ La energía potencial gravitatoria viene dada por Ep = m*g*h = 8*9,8*4 = 313.6 J
 Un cuerpo de masa $9 \text{ kg}$ se encuentra a una altura de $4 \text{ m}$ sobre el suelo en Viña del Mar (usando $g = 9,8 \text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?
 
 ### Opciones
-- [x] A) $352.8 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 9*9,8*4 = 352.8 J. -->
-- [ ] B) $176.4 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
+- [x] B) $352.8 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 9*9,8*4 = 352.8 J. -->
+- [ ] A) $176.4 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
 - [ ] C) $705.6 \text{ J}$ <!-- feedback: Incorrecto. Duplicaste la energía potencial. -->
 - [ ] D) $36.0 \text{ J}$ <!-- feedback: Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g. -->
 
@@ -182,9 +182,9 @@ La energía potencial gravitatoria viene dada por Ep = m*g*h = 9*9,8*4 = 352.8 J
 Un cuerpo de masa $10 \text{ kg}$ se encuentra a una altura de $4 \text{ m}$ sobre el suelo en Iquique (usando $g = 9,8 \text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?
 
 ### Opciones
-- [x] A) $392.0 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 10*9,8*4 = 392.0 J. -->
-- [ ] B) $196.0 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
-- [ ] C) $784.0 \text{ J}$ <!-- feedback: Incorrecto. Duplicaste la energía potencial. -->
+- [x] C) $392.0 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 10*9,8*4 = 392.0 J. -->
+- [ ] A) $196.0 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
+- [ ] B) $784.0 \text{ J}$ <!-- feedback: Incorrecto. Duplicaste la energía potencial. -->
 - [ ] D) $40.0 \text{ J}$ <!-- feedback: Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g. -->
 
 ### Explicacion Pedagogica
@@ -220,8 +220,8 @@ La energía potencial gravitatoria viene dada por Ep = m*g*h = 11*9,8*4 = 431.2 
 Un cuerpo de masa $12 \text{ kg}$ se encuentra a una altura de $4 \text{ m}$ sobre el suelo en Talca (usando $g = 9,8 \text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?
 
 ### Opciones
-- [x] A) $470.4 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 12*9,8*4 = 470.4 J. -->
-- [ ] B) $235.2 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
+- [x] B) $470.4 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 12*9,8*4 = 470.4 J. -->
+- [ ] A) $235.2 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
 - [ ] C) $940.8 \text{ J}$ <!-- feedback: Incorrecto. Duplicaste la energía potencial. -->
 - [ ] D) $48.0 \text{ J}$ <!-- feedback: Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g. -->
 
@@ -258,9 +258,9 @@ La energía potencial gravitatoria viene dada por Ep = m*g*h = 13*9,8*4 = 509.6 
 Un cuerpo de masa $14 \text{ kg}$ se encuentra a una altura de $4 \text{ m}$ sobre el suelo en Puerto Montt (usando $g = 9,8 \text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?
 
 ### Opciones
-- [x] A) $548.8 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 14*9,8*4 = 548.8 J. -->
-- [ ] B) $274.4 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
-- [ ] C) $1097.6 \text{ J}$ <!-- feedback: Incorrecto. Duplicaste la energía potencial. -->
+- [x] C) $548.8 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 14*9,8*4 = 548.8 J. -->
+- [ ] A) $274.4 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
+- [ ] B) $1097.6 \text{ J}$ <!-- feedback: Incorrecto. Duplicaste la energía potencial. -->
 - [ ] D) $56.0 \text{ J}$ <!-- feedback: Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g. -->
 
 ### Explicacion Pedagogica
@@ -277,9 +277,9 @@ La energía potencial gravitatoria viene dada por Ep = m*g*h = 14*9,8*4 = 548.8 
 Un cuerpo de masa $15 \text{ kg}$ se encuentra a una altura de $4 \text{ m}$ sobre el suelo en Chillán (usando $g = 9,8 \text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?
 
 ### Opciones
-- [x] A) $588.0 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 15*9,8*4 = 588.0 J. -->
-- [ ] B) $294.0 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
-- [ ] C) $1176.0 \text{ J}$ <!-- feedback: Incorrecto. Duplicaste la energía potencial. -->
+- [x] C) $588.0 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 15*9,8*4 = 588.0 J. -->
+- [ ] A) $294.0 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
+- [ ] B) $1176.0 \text{ J}$ <!-- feedback: Incorrecto. Duplicaste la energía potencial. -->
 - [ ] D) $60.0 \text{ J}$ <!-- feedback: Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g. -->
 
 ### Explicacion Pedagogica
@@ -296,9 +296,9 @@ La energía potencial gravitatoria viene dada por Ep = m*g*h = 15*9,8*4 = 588.0 
 Un cuerpo de masa $16 \text{ kg}$ se encuentra a una altura de $4 \text{ m}$ sobre el suelo en Calama (usando $g = 9,8 \text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?
 
 ### Opciones
-- [x] A) $627.2 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 16*9,8*4 = 627.2 J. -->
-- [ ] B) $313.6 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
-- [ ] C) $1254.4 \text{ J}$ <!-- feedback: Incorrecto. Duplicaste la energía potencial. -->
+- [x] C) $627.2 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 16*9,8*4 = 627.2 J. -->
+- [ ] A) $313.6 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
+- [ ] B) $1254.4 \text{ J}$ <!-- feedback: Incorrecto. Duplicaste la energía potencial. -->
 - [ ] D) $64.0 \text{ J}$ <!-- feedback: Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g. -->
 
 ### Explicacion Pedagogica
@@ -315,8 +315,8 @@ La energía potencial gravitatoria viene dada por Ep = m*g*h = 16*9,8*4 = 627.2 
 Un cuerpo de masa $17 \text{ kg}$ se encuentra a una altura de $4 \text{ m}$ sobre el suelo en Valdivia (usando $g = 9,8 \text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?
 
 ### Opciones
-- [x] A) $666.4 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 17*9,8*4 = 666.4 J. -->
-- [ ] B) $333.2 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
+- [x] B) $666.4 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 17*9,8*4 = 666.4 J. -->
+- [ ] A) $333.2 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
 - [ ] C) $1332.8 \text{ J}$ <!-- feedback: Incorrecto. Duplicaste la energía potencial. -->
 - [ ] D) $68.0 \text{ J}$ <!-- feedback: Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g. -->
 
@@ -334,8 +334,8 @@ La energía potencial gravitatoria viene dada por Ep = m*g*h = 17*9,8*4 = 666.4 
 Un cuerpo de masa $18 \text{ kg}$ se encuentra a una altura de $4 \text{ m}$ sobre el suelo en Santiago (usando $g = 9,8 \text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?
 
 ### Opciones
-- [x] A) $705.6 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 18*9,8*4 = 705.6 J. -->
-- [ ] B) $352.8 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
+- [x] B) $705.6 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 18*9,8*4 = 705.6 J. -->
+- [ ] A) $352.8 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
 - [ ] C) $1411.2 \text{ J}$ <!-- feedback: Incorrecto. Duplicaste la energía potencial. -->
 - [ ] D) $72.0 \text{ J}$ <!-- feedback: Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g. -->
 
@@ -353,8 +353,8 @@ La energía potencial gravitatoria viene dada por Ep = m*g*h = 18*9,8*4 = 705.6 
 Un cuerpo de masa $19 \text{ kg}$ se encuentra a una altura de $4 \text{ m}$ sobre el suelo en Valparaíso (usando $g = 9,8 \text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?
 
 ### Opciones
-- [x] A) $744.8 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 19*9,8*4 = 744.8 J. -->
-- [ ] B) $372.4 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
+- [x] B) $744.8 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 19*9,8*4 = 744.8 J. -->
+- [ ] A) $372.4 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
 - [ ] C) $1489.6 \text{ J}$ <!-- feedback: Incorrecto. Duplicaste la energía potencial. -->
 - [ ] D) $76.0 \text{ J}$ <!-- feedback: Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g. -->
 
@@ -372,8 +372,8 @@ La energía potencial gravitatoria viene dada por Ep = m*g*h = 19*9,8*4 = 744.8 
 Un cuerpo de masa $20 \text{ kg}$ se encuentra a una altura de $4 \text{ m}$ sobre el suelo en Concepción (usando $g = 9,8 \text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?
 
 ### Opciones
-- [x] A) $784.0 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 20*9,8*4 = 784.0 J. -->
-- [ ] B) $392.0 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
+- [x] B) $784.0 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 20*9,8*4 = 784.0 J. -->
+- [ ] A) $392.0 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
 - [ ] C) $1568.0 \text{ J}$ <!-- feedback: Incorrecto. Duplicaste la energía potencial. -->
 - [ ] D) $80.0 \text{ J}$ <!-- feedback: Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g. -->
 
@@ -391,8 +391,8 @@ La energía potencial gravitatoria viene dada por Ep = m*g*h = 20*9,8*4 = 784.0 
 Un cuerpo de masa $21 \text{ kg}$ se encuentra a una altura de $4 \text{ m}$ sobre el suelo en Antofagasta (usando $g = 9,8 \text{ m/s}^2$). ¿Cuál es su energía potencial gravitatoria?
 
 ### Opciones
-- [x] A) $823.2 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 21*9,8*4 = 823.2 J. -->
-- [ ] B) $411.6 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
+- [x] B) $823.2 \text{ J}$ <!-- feedback: ¡Correcto! Ep = m*g*h = 21*9,8*4 = 823.2 J. -->
+- [ ] A) $411.6 \text{ J}$ <!-- feedback: Incorrecto. Dividiste la energía potencial por dos. -->
 - [ ] C) $1646.4 \text{ J}$ <!-- feedback: Incorrecto. Duplicaste la energía potencial. -->
 - [ ] D) $84.0 \text{ J}$ <!-- feedback: Incorrecto. Olvidaste multiplicar por la aceleración de gravedad g. -->
 

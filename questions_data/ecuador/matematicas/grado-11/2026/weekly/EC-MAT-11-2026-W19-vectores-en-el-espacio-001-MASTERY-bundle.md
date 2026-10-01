@@ -35,9 +35,9 @@ bundle_index: 1
 ¿Cuáles son las coordenadas estándar que representan la posición de un punto en el espacio R³?
 
 ### Opciones
-- [ ] A) $(x, y)$
+- [ ] B) $(x, y)$
   <!-- feedback: Incorrecto. Estas son coordenadas para el plano bidimensional (R²). -->
-- [x] B) $(x, y, z)$
+- [x] A) $(x, y, z)$
   <!-- feedback: Correcto. En el espacio, se requiere una tercera coordenada para la profundidad o altura (eje z). -->
 - [ ] C) $(r, \theta)$
   <!-- feedback: Incorrecto. Estas son coordenadas polares en el plano. -->
@@ -60,9 +60,9 @@ El espacio tridimensional (R³) se describe mediante una terna ordenada de núme
 Dados los vectores $\vec{u} = (1, 2, 3)$ y $\vec{v} = (4, -1, 0)$, calcule $\vec{u} + \vec{v}$.
 
 ### Opciones
-- [ ] A) $(5, 1, 0)$
+- [ ] B) $(5, 1, 0)$
   <!-- feedback: Incorrecto. Error en la suma de la tercera componente. -->
-- [x] B) $(5, 1, 3)$
+- [x] A) $(5, 1, 3)$
   <!-- feedback: Correcto. Sumando componente a componente: $(1+4, 2-1, 3+0) = (5, 1, 3)$. -->
 - [ ] C) $(3, 3, 3)$
   <!-- feedback: Incorrecto. Restó los valores en lugar de sumarlos. -->
@@ -112,9 +112,9 @@ El módulo de un vector en R³ se calcula mediante la generalización del teorem
 ### Opciones
 - [ ] A) 19 m
   <!-- feedback: Incorrecto. Simple suma de desplazamientos en los ejes. -->
-- [ ] B) 12 m
+- [ ] C) 12 m
   <!-- feedback: Incorrecto. Valor de la componente más grande, no de la distancia total. -->
-- [x] C) 13 m
+- [x] B) 13 m
   <!-- feedback: Correcto. Distancia = $\sqrt{3^2 + 4^2 + 12^2} = \sqrt{9 + 16 + 144} = \sqrt{169} = 13$. -->
 - [ ] D) 15 m
   <!-- feedback: Incorrecto. Error en el cálculo aritmético. -->
@@ -141,9 +141,9 @@ Calcule el producto escalar de $\vec{a} = (2, -3, 1)$ y $\vec{b} = (4, 1, -2)$.
 ### Opciones
 - [ ] A) 7
   <!-- feedback: Incorrecto. Error en el manejo de signos. -->
-- [x] B) 3
+- [x] C) 3
   <!-- feedback: Correcto. $\vec{a} \cdot \vec{b} = (2)(4) + (-3)(1) + (1)(-2) = 8 - 3 - 2 = 3$. -->
-- [ ] C) $(8, -3, -2)$
+- [ ] B) $(8, -3, -2)$
   <!-- feedback: Incorrecto. El producto escalar da como resultado un número (escalar), no un vector. -->
 - [ ] D) 13
   <!-- feedback: Incorrecto. Sumó todos los valores absolutos de los productos. -->
@@ -189,11 +189,11 @@ El producto escalar es la herramienta principal para verificar la perpendiculari
 Si el producto escalar de dos vectores unitarios es $0.5$, ¿cuál es el ángulo entre ellos?
 
 ### Opciones
-- [ ] A) $30^\circ$
+- [ ] B) $30^\circ$
   <!-- feedback: Incorrecto. $\cos(30^\circ) = \sqrt{3}/2 \approx 0.866$. -->
-- [ ] B) $45^\circ$
+- [ ] C) $45^\circ$
   <!-- feedback: Incorrecto. $\cos(45^\circ) = \sqrt{2}/2 \approx 0.707$. -->
-- [x] C) $60^\circ$
+- [x] A) $60^\circ$
   <!-- feedback: Correcto. $\cos \theta = \frac{\vec{u} \cdot \vec{v}}{|\vec{u}| |\vec{v}|} = \frac{0.5}{1 \cdot 1} = 0.5 \Rightarrow \theta = 60^\circ$. -->
 - [ ] D) $90^\circ$
   <!-- feedback: Incorrecto. El producto escalar debería ser 0. -->
@@ -264,9 +264,9 @@ Interpretación física del producto escalar como el trabajo realizado por una f
 ¿Cuál es el vector unitario que tiene la misma dirección que $\vec{v} = (1, 1, 1)$?
 
 ### Opciones
-- [ ] A) $(1, 1, 1)$
+- [ ] B) $(1, 1, 1)$
   <!-- feedback: Incorrecto. Su magnitud es $\sqrt{3} \neq 1$. -->
-- [x] B) $(\frac{1}{\sqrt{3}}, \frac{1}{\sqrt{3}}, \frac{1}{\sqrt{3}})$
+- [x] A) $(\frac{1}{\sqrt{3}}, \frac{1}{\sqrt{3}}, \frac{1}{\sqrt{3}})$
   <!-- feedback: Correcto. Se obtiene dividiendo cada componente por la magnitud del vector original. -->
 - [ ] C) $(\frac{1}{3}, \frac{1}{3}, \frac{1}{3})$
   <!-- feedback: Incorrecto. Dividió por el cuadrado de la magnitud. -->
@@ -293,9 +293,9 @@ La normalización de un vector permite obtener un vector de magnitud uno conserv
 ¿Cuál es el resultado de realizar el producto vectorial $\vec{u} \times \vec{v}$ de dos vectores en R³?
 
 ### Opciones
-- [ ] A) Un número real escalar.
+- [ ] B) Un número real escalar.
   <!-- feedback: Incorrecto. Ese es el resultado del producto escalar. -->
-- [x] B) Un vector que es perpendicular a ambos vectores originales.
+- [x] A) Un vector que es perpendicular a ambos vectores originales.
   <!-- feedback: Correcto. El producto vectorial genera un nuevo vector siguiendo la regla de la mano derecha. -->
 - [ ] C) El ángulo entre los dos vectores.
   <!-- feedback: Incorrecto. El ángulo es un escalar derivado de la magnitud del producto. -->
@@ -320,11 +320,11 @@ Calcule $\vec{i} \times \vec{j}$ (donde $\vec{i}$ y $\vec{j}$ son los vectores u
 ### Opciones
 - [ ] A) $0$
   <!-- feedback: Incorrecto. Ese sería el producto escalar. -->
-- [x] B) $\vec{k}$
+- [x] D) $\vec{k}$
   <!-- feedback: Correcto. Por la regla de la mano derecha o el ciclo de vectores unitarios, el producto de $x$ con $y$ da el eje $z$ positivo. -->
-- [ ] C) $-\vec{k}$
+- [ ] B) $-\vec{k}$
   <!-- feedback: Incorrecto. Este sería el resultado de $\vec{j} \times \vec{i}$. -->
-- [ ] D) $1$
+- [ ] C) $1$
   <!-- feedback: Incorrecto. El resultado debe ser un vector. -->
 
 ### Explicacion Pedagogica
@@ -343,9 +343,9 @@ Conocimiento de la base ortonormal de R³ y el comportamiento cíclico del produ
 Determine el área del paralelogramo formado por los vectores $\vec{u} = (2, 0, 0)$ y $\vec{v} = (0, 3, 0)$.
 
 ### Opciones
-- [ ] A) 5 unidades²
+- [ ] B) 5 unidades²
   <!-- feedback: Incorrecto. Sumó las magnitudes en lugar de multiplicarlas. -->
-- [x] B) 6 unidades²
+- [x] A) 6 unidades²
   <!-- feedback: Correcto. El área es la magnitud del producto vectorial. $\vec{u} \times \vec{v} = (0, 0, 6)$. Magnitud = 6. -->
 - [ ] C) 3 unidades²
   <!-- feedback: Incorrecto. Dividió por dos, obteniendo el área de un triángulo. -->
@@ -370,11 +370,11 @@ Interpretación geométrica de la magnitud del producto vectorial como el área 
 ### Opciones
 - [ ] A) El área de la base formada por $\vec{b}$ y $\vec{c}$.
   <!-- feedback: Incorrecto. Esto solo sería la magnitud del producto vectorial. -->
-- [x] B) El volumen del paralelepípedo formado por los tres vectores.
+- [x] D) El volumen del paralelepípedo formado por los tres vectores.
   <!-- feedback: Correcto. El triple producto escalar combina el área de la base con la altura proyectada del tercer vector. -->
-- [ ] C) El perímetro de la figura espacial.
+- [ ] B) El perímetro de la figura espacial.
   <!-- feedback: Incorrecto. El perímetro no se calcula con productos de este tipo. -->
-- [ ] D) La suma de los volúmenes de las pirámides internas.
+- [ ] C) La suma de los volúmenes de las pirámides internas.
   <!-- feedback: Incorrecto. No es una representación estándar del triple producto. -->
 
 ### Explicacion Pedagogica
@@ -395,9 +395,9 @@ Relación entre operaciones vectoriales y el cálculo de volúmenes de sólidos 
 ### Opciones
 - [ ] A) 1 unidad²
   <!-- feedback: Incorrecto. Error en el cálculo de la magnitud del producto vectorial. -->
-- [x] B) $\sqrt{3}/2$ unidades²
+- [x] C) $\sqrt{3}/2$ unidades²
   <!-- feedback: Correcto. Vectores: $\vec{AB} = (-1, 1, 0)$, $\vec{AC} = (-1, 0, 1)$. Producto cruz: $(1, 1, 1)$. Magnitud: $\sqrt{3}$. Área triángulo = Magnitud / 2. -->
-- [ ] C) $\sqrt{3}$ unidades²
+- [ ] B) $\sqrt{3}$ unidades²
   <!-- feedback: Incorrecto. Olvidó dividir por 2 para el área del triángulo. -->
 - [ ] D) $1/2$ unidades²
   <!-- feedback: Incorrecto. No consideró la componente en el eje z resultante del producto. -->
@@ -447,9 +447,9 @@ Identificación de la coplanaridad como condición de degeneración volumétrica
 ¿Cuál de las siguientes igualdades es CORRECTA respecto al producto vectorial?
 
 ### Opciones
-- [ ] A) $\vec{u} \times \vec{v} = \vec{v} \times \vec{u}$
+- [ ] B) $\vec{u} \times \vec{v} = \vec{v} \times \vec{u}$
   <!-- feedback: Incorrecto. El producto vectorial es anticonmutativo. -->
-- [x] B) $\vec{u} \times \vec{v} = -(\vec{v} \times \vec{u})$
+- [x] A) $\vec{u} \times \vec{v} = -(\vec{v} \times \vec{u})$
   <!-- feedback: Correcto. Al cambiar el orden, la dirección del vector resultante se invierte según la regla de la mano derecha. -->
 - [ ] C) $\vec{u} \times \vec{u} = |\vec{u}|^2$
   <!-- feedback: Incorrecto. El producto de un vector por sí mismo es el vector nulo (ángulo $0^\circ$, seno $0$). -->
@@ -499,9 +499,9 @@ Calcule el vector proyección de $\vec{a} = (1, 2, 3)$ sobre $\vec{b} = (0, 0, 1
 ### Opciones
 - [ ] A) $(1, 2, 0)$
   <!-- feedback: Incorrecto. Esta es la componente ortogonal al eje z. -->
-- [x] B) $(0, 0, 3)$
+- [x] C) $(0, 0, 3)$
   <!-- feedback: Correcto. $\text{proj}_b a = \frac{\vec{a} \cdot \vec{b}}{|\vec{b}|^2} \vec{b} = \frac{3}{1^2} (0, 0, 1) = (0, 0, 3)$. -->
-- [ ] C) 3
+- [ ] B) 3
   <!-- feedback: Incorrecto. La proyección vectorial debe ser un vector, no un escalar. -->
 - [ ] D) $(0, 0, 1)$
   <!-- feedback: Incorrecto. Esta es la dirección unitaria, pero no considera la magnitud de la proyección. -->

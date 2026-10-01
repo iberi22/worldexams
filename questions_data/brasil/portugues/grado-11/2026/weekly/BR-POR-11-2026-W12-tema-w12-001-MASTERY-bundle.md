@@ -34,10 +34,10 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Anáfora e Catáfora, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de retomada anafórica e antecipação catafórica?
 
 ### Opciones
-- [x] A) A aplicação adequada de retomada anafórica permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Anáfora e Catáfora. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de retomada anafórica limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Anáfora e Catáfora. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de antecipação catafórica impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. antecipação catafórica é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
-- [ ] D) A análise de Anáfora e Catáfora aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
+- [x] D) A aplicação adequada de retomada anafórica permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Anáfora e Catáfora. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de retomada anafórica limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Anáfora e Catáfora. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de antecipação catafórica impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. antecipação catafórica é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [ ] C) A análise de Anáfora e Catáfora aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
 A compreensão de Anáfora e Catáfora no contexto de Coesão Textual e Elementos de Referenciação exige identificar como retomada anafórica e antecipação catafórica articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.
@@ -53,10 +53,10 @@ A compreensão de Anáfora e Catáfora no contexto de Coesão Textual e Elemento
 No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Coesão Lexical e Sinonímia, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de recorrência lexical e uso de sinônimos?
 
 ### Opciones
-- [x] A) A aplicação adequada de recorrência lexical permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Coesão Lexical e Sinonímia. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de recorrência lexical limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Coesão Lexical e Sinonímia. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de uso de sinônimos impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. uso de sinônimos é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
-- [ ] D) A análise de Coesão Lexical e Sinonímia aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
+- [x] D) A aplicação adequada de recorrência lexical permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Coesão Lexical e Sinonímia. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de recorrência lexical limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Coesão Lexical e Sinonímia. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de uso de sinônimos impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. uso de sinônimos é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [ ] C) A análise de Coesão Lexical e Sinonímia aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
 A compreensão de Coesão Lexical e Sinonímia no contexto de Coesão Textual e Elementos de Referenciação exige identificar como recorrência lexical e uso de sinônimos articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.
@@ -72,10 +72,10 @@ A compreensão de Coesão Lexical e Sinonímia no contexto de Coesão Textual e 
 No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Coesão por Elipse Verbal, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de elipse do verbo e subentendido sintático?
 
 ### Opciones
-- [x] A) A aplicação adequada de elipse do verbo permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Coesão por Elipse Verbal. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de elipse do verbo limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Coesão por Elipse Verbal. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de subentendido sintático impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. subentendido sintático é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
-- [ ] D) A análise de Coesão por Elipse Verbal aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
+- [x] D) A aplicação adequada de elipse do verbo permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Coesão por Elipse Verbal. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de elipse do verbo limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Coesão por Elipse Verbal. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de subentendido sintático impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. subentendido sintático é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [ ] C) A análise de Coesão por Elipse Verbal aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
 A compreensão de Coesão por Elipse Verbal no contexto de Coesão Textual e Elementos de Referenciação exige identificar como elipse do verbo e subentendido sintático articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.
@@ -110,9 +110,9 @@ A compreensão de Hiperônimos e Hipônimos no contexto de Coesão Textual e Ele
 No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Pronomes Demonstrativos este/esse, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de referência espacial e temporal e referência textual?
 
 ### Opciones
-- [x] A) A aplicação adequada de referência espacial e temporal permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Pronomes Demonstrativos este/esse. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de referência espacial e temporal limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Pronomes Demonstrativos este/esse. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de referência textual impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. referência textual é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [x] C) A aplicação adequada de referência espacial e temporal permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Pronomes Demonstrativos este/esse. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de referência espacial e temporal limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Pronomes Demonstrativos este/esse. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de referência textual impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. referência textual é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Pronomes Demonstrativos este/esse aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
@@ -129,8 +129,8 @@ A compreensão de Pronomes Demonstrativos este/esse no contexto de Coesão Textu
 No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Retomada por Pronomes Relativos, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de pronome relativo e coesão sequencial?
 
 ### Opciones
-- [x] A) A aplicação adequada de pronome relativo permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Retomada por Pronomes Relativos. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de pronome relativo limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Retomada por Pronomes Relativos. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [x] B) A aplicação adequada de pronome relativo permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Retomada por Pronomes Relativos. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de pronome relativo limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Retomada por Pronomes Relativos. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
 - [ ] C) O fenômeno de coesão sequencial impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. coesão sequencial é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Retomada por Pronomes Relativos aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
@@ -148,10 +148,10 @@ A compreensão de Retomada por Pronomes Relativos no contexto de Coesão Textual
 No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Substituição Nominal e Dicionário, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de substantivação e parafraseamento?
 
 ### Opciones
-- [x] A) A aplicação adequada de substantivação permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Substituição Nominal e Dicionário. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de substantivação limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Substituição Nominal e Dicionário. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de parafraseamento impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. parafraseamento é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
-- [ ] D) A análise de Substituição Nominal e Dicionário aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
+- [x] D) A aplicação adequada de substantivação permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Substituição Nominal e Dicionário. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de substantivação limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Substituição Nominal e Dicionário. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de parafraseamento impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. parafraseamento é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [ ] C) A análise de Substituição Nominal e Dicionário aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
 A compreensão de Substituição Nominal e Dicionário no contexto de Coesão Textual e Elementos de Referenciação exige identificar como substantivação e parafraseamento articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.
@@ -167,9 +167,9 @@ A compreensão de Substituição Nominal e Dicionário no contexto de Coesão Te
 No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Coesão Referencial por Artigos, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de artigo definido e artigo indefinido?
 
 ### Opciones
-- [x] A) A aplicação adequada de artigo definido permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Coesão Referencial por Artigos. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de artigo definido limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Coesão Referencial por Artigos. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de artigo indefinido impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. artigo indefinido é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [x] C) A aplicação adequada de artigo definido permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Coesão Referencial por Artigos. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de artigo definido limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Coesão Referencial por Artigos. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de artigo indefinido impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. artigo indefinido é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Coesão Referencial por Artigos aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
@@ -205,9 +205,9 @@ A compreensão de Encadeamento de Parágrafos no contexto de Coesão Textual e E
 No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Coesão Recorrente e Repetição, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de reiteração expressiva e repetição enfática?
 
 ### Opciones
-- [x] A) A aplicação adequada de reiteração expressiva permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Coesão Recorrente e Repetição. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de reiteração expressiva limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Coesão Recorrente e Repetição. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de repetição enfática impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. repetição enfática é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [x] C) A aplicação adequada de reiteração expressiva permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Coesão Recorrente e Repetição. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de reiteração expressiva limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Coesão Recorrente e Repetição. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de repetição enfática impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. repetição enfática é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Coesão Recorrente e Repetição aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
@@ -224,9 +224,9 @@ A compreensão de Coesão Recorrente e Repetição no contexto de Coesão Textua
 No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Paráfrase Coesiva em Redação, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de reformulação textual e paráfrase sintética?
 
 ### Opciones
-- [x] A) A aplicação adequada de reformulação textual permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Paráfrase Coesiva em Redação. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de reformulação textual limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Paráfrase Coesiva em Redação. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de paráfrase sintética impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. paráfrase sintética é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [x] C) A aplicação adequada de reformulação textual permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Paráfrase Coesiva em Redação. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de reformulação textual limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Paráfrase Coesiva em Redação. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de paráfrase sintética impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. paráfrase sintética é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Paráfrase Coesiva em Redação aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
@@ -243,10 +243,10 @@ A compreensão de Paráfrase Coesiva em Redação no contexto de Coesão Textual
 No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Pronomes Possessivos Ambiguidade, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de duplo sentido e desambiguação possessiva?
 
 ### Opciones
-- [x] A) A aplicação adequada de duplo sentido permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Pronomes Possessivos Ambiguidade. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de duplo sentido limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Pronomes Possessivos Ambiguidade. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de desambiguação possessiva impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. desambiguação possessiva é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
-- [ ] D) A análise de Pronomes Possessivos Ambiguidade aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
+- [x] D) A aplicação adequada de duplo sentido permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Pronomes Possessivos Ambiguidade. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de duplo sentido limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Pronomes Possessivos Ambiguidade. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de desambiguação possessiva impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. desambiguação possessiva é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [ ] C) A análise de Pronomes Possessivos Ambiguidade aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
 A compreensão de Pronomes Possessivos Ambiguidade no contexto de Coesão Textual e Elementos de Referenciação exige identificar como duplo sentido e desambiguação possessiva articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.
@@ -262,8 +262,8 @@ A compreensão de Pronomes Possessivos Ambiguidade no contexto de Coesão Textua
 No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Coesão em Artigos Acadêmicos, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de encadeamento lógico e marcadores formais?
 
 ### Opciones
-- [x] A) A aplicação adequada de encadeamento lógico permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Coesão em Artigos Acadêmicos. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de encadeamento lógico limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Coesão em Artigos Acadêmicos. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [x] B) A aplicação adequada de encadeamento lógico permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Coesão em Artigos Acadêmicos. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de encadeamento lógico limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Coesão em Artigos Acadêmicos. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
 - [ ] C) O fenômeno de marcadores formais impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. marcadores formais é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Coesão em Artigos Acadêmicos aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
@@ -281,10 +281,10 @@ A compreensão de Coesão em Artigos Acadêmicos no contexto de Coesão Textual 
 No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Retomada Proposicional Complexa, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de resumo anafórico e rótulos discursivos?
 
 ### Opciones
-- [x] A) A aplicação adequada de resumo anafórico permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Retomada Proposicional Complexa. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de resumo anafórico limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Retomada Proposicional Complexa. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de rótulos discursivos impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. rótulos discursivos é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
-- [ ] D) A análise de Retomada Proposicional Complexa aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
+- [x] D) A aplicação adequada de resumo anafórico permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Retomada Proposicional Complexa. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de resumo anafórico limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Retomada Proposicional Complexa. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de rótulos discursivos impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. rótulos discursivos é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [ ] C) A análise de Retomada Proposicional Complexa aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
 A compreensão de Retomada Proposicional Complexa no contexto de Coesão Textual e Elementos de Referenciação exige identificar como resumo anafórico e rótulos discursivos articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.
@@ -319,10 +319,10 @@ A compreensão de Desvios de Coesão no ENEM no contexto de Coesão Textual e El
 No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Progressão Temática Contínua, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de tópico discursivo e manutenção do tema?
 
 ### Opciones
-- [x] A) A aplicação adequada de tópico discursivo permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Progressão Temática Contínua. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de tópico discursivo limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Progressão Temática Contínua. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de manutenção do tema impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. manutenção do tema é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
-- [ ] D) A análise de Progressão Temática Contínua aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
+- [x] D) A aplicação adequada de tópico discursivo permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Progressão Temática Contínua. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de tópico discursivo limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Progressão Temática Contínua. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de manutenção do tema impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. manutenção do tema é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [ ] C) A análise de Progressão Temática Contínua aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
 A compreensão de Progressão Temática Contínua no contexto de Coesão Textual e Elementos de Referenciação exige identificar como tópico discursivo e manutenção do tema articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.
@@ -357,9 +357,9 @@ A compreensão de Análise da Coesão Catafórica no contexto de Coesão Textual
 No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Cadeias Referenciais Extensas, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de redes anafóricas e coesão em grandes textos?
 
 ### Opciones
-- [x] A) A aplicação adequada de redes anafóricas permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Cadeias Referenciais Extensas. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de redes anafóricas limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Cadeias Referenciais Extensas. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de coesão em grandes textos impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. coesão em grandes textos é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [x] C) A aplicação adequada de redes anafóricas permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Cadeias Referenciais Extensas. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de redes anafóricas limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Cadeias Referenciais Extensas. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de coesão em grandes textos impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. coesão em grandes textos é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Cadeias Referenciais Extensas aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
@@ -376,9 +376,9 @@ A compreensão de Cadeias Referenciais Extensas no contexto de Coesão Textual e
 No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Incoerência por Quebra Coesiva, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de ruptura de cadeia e referência nula?
 
 ### Opciones
-- [x] A) A aplicação adequada de ruptura de cadeia permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Incoerência por Quebra Coesiva. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de ruptura de cadeia limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Incoerência por Quebra Coesiva. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de referência nula impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. referência nula é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [x] C) A aplicação adequada de ruptura de cadeia permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Incoerência por Quebra Coesiva. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de ruptura de cadeia limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Incoerência por Quebra Coesiva. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de referência nula impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. referência nula é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Incoerência por Quebra Coesiva aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
@@ -395,8 +395,8 @@ A compreensão de Incoerência por Quebra Coesiva no contexto de Coesão Textual
 No estudo de Coesão Textual e Elementos de Referenciação, especificamente sobre Coesão e Eficiência Pragmática, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de pragmática da referência e economia linguística?
 
 ### Opciones
-- [x] A) A aplicação adequada de pragmática da referência permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Coesão e Eficiência Pragmática. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de pragmática da referência limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Coesão e Eficiência Pragmática. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [x] B) A aplicação adequada de pragmática da referência permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Coesão e Eficiência Pragmática. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de pragmática da referência limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Coesão e Eficiência Pragmática. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
 - [ ] C) O fenômeno de economia linguística impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. economia linguística é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Coesão e Eficiência Pragmática aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 

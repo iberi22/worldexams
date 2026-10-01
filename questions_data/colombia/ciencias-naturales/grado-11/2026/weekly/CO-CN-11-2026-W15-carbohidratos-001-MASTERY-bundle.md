@@ -34,13 +34,13 @@ Este bundle contiene 20 preguntas sobre **Carbohidratos y Estructura Molecular**
 ¿Cuál de los siguientes compuestos es un monosacárido de tipo hexosa y principal fuente de energía celular?
 
 ### Opciones
-- [x] A) Glucosa.
+- [x] D) Glucosa.
   <!-- feedback: Correcto. La glucosa es una aldohexosa ($C_6H_{12}O_6$) indispensable en el metabolismo energético. -->
-- [ ] B) Sacarosa.
+- [ ] A) Sacarosa.
   <!-- feedback: Incorrecto. La sacarosa es un disacárido formado por glucosa y fructosa. -->
-- [ ] C) Almidón.
+- [ ] B) Almidón.
   <!-- feedback: Incorrecto. El almidón es un polisacárido de reserva vegetal. -->
-- [ ] D) Glucógeno.
+- [ ] C) Glucógeno.
   <!-- feedback: Incorrecto. El glucógeno es un polisacárido de reserva animal ramificado. -->
 
 ### Explicacion Pedagogica
@@ -80,11 +80,11 @@ Los monosacáridos se unen mediante enlaces O-glucosídicos mediante la pérdida
 ¿Qué polisacárido estructural insoluble constituye el componente principal de la pared celular vegetal?
 
 ### Opciones
-- [x] A) Celulosa.
+- [x] C) Celulosa.
   <!-- feedback: Correcto. La celulosa es un polímero lineal de glucosas unidas por enlaces $\beta(1\rightarrow 4)$. -->
-- [ ] B) Quitina.
+- [ ] A) Quitina.
   <!-- feedback: Incorrecto. La quitina forma el exoesqueleto de artrópodos y pared celular de hongos. -->
-- [ ] C) Maltosa.
+- [ ] B) Maltosa.
   <!-- feedback: Incorrecto. La maltosa es un disacárido de glucosa. -->
 - [ ] D) Insulina.
   <!-- feedback: Incorrecto. La insulina es una hormona proteica reguladora de glucemia. -->
@@ -103,11 +103,11 @@ La celulosa es el biopolímero estructural más abundante en la naturaleza, cons
 ¿Qué disacárido formado por glucosa y galactosa es degradado por la enzima lactasa?
 
 ### Opciones
-- [x] A) Lactosa.
+- [x] C) Lactosa.
   <!-- feedback: Correcto. La lactosa es el azúcar característico de la leche. -->
-- [ ] B) Fructosa.
+- [ ] A) Fructosa.
   <!-- feedback: Incorrecto. La fructosa es un monosacárido presente en frutas y miel. -->
-- [ ] C) Celobiosa.
+- [ ] B) Celobiosa.
   <!-- feedback: Incorrecto. Proviene de la hidrólisis parcial de la celulosa. -->
 - [ ] D) Ribosa.
   <!-- feedback: Incorrecto. La ribosa es una pentosa del ARN. -->
@@ -126,9 +126,9 @@ La lactosa es el disacárido compuesto por galactosa y glucosa unidas por enlace
 ¿Qué cambio químico explica la precipitación del óxido de cobre (I) de color rojo ladrillo?
 
 ### Opciones
-- [x] A) La glucosa es un azúcar reductor con grupo carbonilo libre que reduce el $Cu^{2+}$ a $Cu^+$.
+- [x] B) La glucosa es un azúcar reductor con grupo carbonilo libre que reduce el $Cu^{2+}$ a $Cu^+$.
   <!-- feedback: Correcto. El grupo aldehído hemiacetálico libre de la glucosa se oxida a ácido carboxílico reduciendo el cobre. -->
-- [ ] B) La sacarosa precipita por evaporación del solvente acuoso.
+- [ ] A) La sacarosa precipita por evaporación del solvente acuoso.
   <!-- feedback: Incorrecto. La reacción ocurre por reducción iónica, no por evaporación. -->
 - [ ] C) El reactivo de Fehling desnaturaliza los azúcares convirtiéndolos en lípidos.
   <!-- feedback: Incorrecto. Los carbohidratos no se transforman en lípidos por Fehling. -->
@@ -149,13 +149,13 @@ Los monosacáridos reductores poseen carbonilos libres que reducen los cationes 
 ¿Por qué los humanos no podemos obtener energía de la celulosa a pesar de estar formada sólo por glucosas?
 
 ### Opciones
-- [x] A) Porque carecemos de la enzima celulasa capaz de hidrolizar los enlaces $\beta(1\rightarrow 4)$.
+- [x] D) Porque carecemos de la enzima celulasa capaz de hidrolizar los enlaces $\beta(1\rightarrow 4)$.
   <!-- feedback: Correcto. El sistema digestivo humano sólo sintetiza enzimas para enlaces $\alpha$-glucosídicos del almidón. -->
-- [ ] B) Porque la celulosa está compuesta por aminoácidos hidrofóbicos tóxicos.
+- [ ] A) Porque la celulosa está compuesta por aminoácidos hidrofóbicos tóxicos.
   <!-- feedback: Incorrecto. La celulosa es un polisacárido puro de glucosa. -->
-- [ ] C) Porque el estómago destruye las glucosas por exceso de sodio.
+- [ ] B) Porque el estómago destruye las glucosas por exceso de sodio.
   <!-- feedback: Incorrecto. El sodio no destruye los anillos de glucosa. -->
-- [ ] D) Porque los puentes disulfuro de la celulosa son indestructibles.
+- [ ] C) Porque los puentes disulfuro de la celulosa son indestructibles.
   <!-- feedback: Incorrecto. La celulosa no contiene azufre ni puentes disulfuro. -->
 
 ### Explicacion Pedagogica
@@ -172,13 +172,13 @@ La especificidad enzimática impide a las amilasas humanas romper el enlace $\be
 ¿Qué resultado experimental confirma la presencia de la estructura helicoidal del almidón?
 
 ### Opciones
-- [x] A) Coloración azul-violeta intensa únicamente en el tubo 1 con almidón.
+- [x] D) Coloración azul-violeta intensa únicamente en el tubo 1 con almidón.
   <!-- feedback: Correcto. Las moléculas de yodo ($I_3^-$) se alojan en el interior de las hélices de amilosa del almidón dando color azul. -->
-- [ ] B) Coloración roja en los tres tubos por igual.
+- [ ] A) Coloración roja en los tres tubos por igual.
   <!-- feedback: Incorrecto. La prueba de Lugol es específica para almidón. -->
-- [ ] C) Precipitado blanco en el tubo 2 con glucosa.
+- [ ] B) Precipitado blanco en el tubo 2 con glucosa.
   <!-- feedback: Incorrecto. La glucosa libre no atrapa al yodo en hélices. -->
-- [ ] D) Efervescencia de gas dióxido de carbono en el tubo 3.
+- [ ] C) Efervescencia de gas dióxido de carbono en el tubo 3.
   <!-- feedback: Incorrecto. El agua con Lugol no produce efervescencia. -->
 
 ### Explicacion Pedagogica
@@ -241,11 +241,11 @@ La fibra alimentaria retrasa la digestión y difusión iónica de carbohidratos,
 ¿En qué consiste el fenómeno físico-químico de mutarrotación?
 
 ### Opciones
-- [x] A) El cambio gradual en la rotación óptica hasta alcanzar un equilibrio entre los anómeros $\alpha$ y $\beta$ a través de la forma abierta.
+- [x] C) El cambio gradual en la rotación óptica hasta alcanzar un equilibrio entre los anómeros $\alpha$ y $\beta$ a través de la forma abierta.
   <!-- feedback: Correcto. En solución acuosa las formas cíclicas hemiacetálicas se abren y cierran interconvirtiéndose. -->
-- [ ] B) La evaporación del agua con emisión de fotones de luz visible.
+- [ ] A) La evaporación del agua con emisión de fotones de luz visible.
   <!-- feedback: Incorrecto. No hay emisión fotónica en la mutarrotación. -->
-- [ ] C) La inversión completa de la configuración D a enantiómero L.
+- [ ] B) La inversión completa de la configuración D a enantiómero L.
   <!-- feedback: Incorrecto. Los enantiómeros D y L no se interconvierten por mutarrotación. -->
 - [ ] D) La pérdida de tres átomos de carbono por descarboxilación.
   <!-- feedback: Incorrecto. La mutarrotación no altera la fórmula molecular. -->
@@ -264,11 +264,11 @@ La mutarrotación refleja el equilibrio entre anómeros $\alpha$ y $\beta$ de la
 ¿Qué ventaja adaptativa ofrece esta elevada densidad de ramificaciones en el glucógeno animal?
 
 ### Opciones
-- [x] A) Multiplica los extremos no reductores donde la glucógeno fosforilasa libera glucosa-1-fosfato rápidamente durante la contracción.
+- [x] C) Multiplica los extremos no reductores donde la glucógeno fosforilasa libera glucosa-1-fosfato rápidamente durante la contracción.
   <!-- feedback: Correcto. Múltiples extremos permiten la degradación enzimática simultánea en situaciones de alta demanda de ATP. -->
-- [ ] B) Hace que el glucógeno sea 100% insoluble e inerte al agua.
+- [ ] A) Hace que el glucógeno sea 100% insoluble e inerte al agua.
   <!-- feedback: Incorrecto. Las ramificaciones aumentan la interacción con agua comparado con agregados lineales. -->
-- [ ] C) Evita que el páncreas reconozca los niveles de glucosa en sangre.
+- [ ] B) Evita que el páncreas reconozca los niveles de glucosa en sangre.
   <!-- feedback: Incorrecto. La regulación hormonal pancreática actúa independientemente de la ramificación. -->
 - [ ] D) Transforma la glucosa en ácidos grasos sin consumir oxígeno.
   <!-- feedback: Incorrecto. La glucogenólisis libera glucosas foforiladas para la glucólisis. -->
@@ -287,11 +287,11 @@ Las ramificaciones proveen numerosos extremos no reductores atacables simultáne
 Si estos pacientes ingieren sacarosa, ¿qué metabolito intermediario tóxico se acumula en las células hepáticas atrapando el fosfato inorgánico?
 
 ### Opciones
-- [x] A) Fructosa-1-fosfato.
+- [x] C) Fructosa-1-fosfato.
   <!-- feedback: Correcto. La fructoquinasa fosforila la fructosa a fructosa-1-fosfato; al fallar la aldolasa B esta se acumula depletando el ATP y $P_i$. -->
-- [ ] B) Glucosa-6-fosfato.
+- [ ] A) Glucosa-6-fosfato.
   <!-- feedback: Incorrecto. La glucosa-6-fosfato es intermediario de la glucólisis normal de glucosa. -->
-- [ ] C) Piruvato.
+- [ ] B) Piruvato.
   <!-- feedback: Incorrecto. El piruvato es el producto final de la vía glucolítica. -->
 - [ ] D) Lactato.
   <!-- feedback: Incorrecto. El lactato resulta de la fermentación anaeróbica. -->
@@ -333,9 +333,9 @@ Maillard inicia por adición nucleofílica del amino proteico sobre el carbonilo
 ¿A qué mecanismo competitivo responde el efecto protector de estos glicosaminoglicanos sulfatados?
 
 ### Opciones
-- [x] A) Bloquean electrostáticamente las proteínas de la envoltura viral impidiendo su unión a los heparán sulfatos de la membrana celular.
+- [x] B) Bloquean electrostáticamente las proteínas de la envoltura viral impidiendo su unión a los heparán sulfatos de la membrana celular.
   <!-- feedback: Correcto. Las cargas negativas de los sulfatos compiten por los sitios de acoplamiento de la espícula viral. -->
-- [ ] B) Degradan las mitocondrias de la célula hospedera.
+- [ ] A) Degradan las mitocondrias de la célula hospedera.
   <!-- feedback: Incorrecto. No destruyen la maquinaria energética de la célula. -->
 - [ ] C) Impiden la replicación bacteriana por falta de pared.
   <!-- feedback: Incorrecto. Los virus carecen de pared bacteriana peptidoglicana. -->
@@ -356,11 +356,11 @@ Los polímeros sulfatados mimetizan receptores membranales bloqueando el acoplam
 ¿Cómo varía el equivalente de dextrosa (DE) y el número de extremos reductores a medida que avanza la hidrólisis?
 
 ### Opciones
-- [x] A) El equivalente de dextrosa aumenta al incrementarse el número de grupos anoméricos libres.
+- [x] C) El equivalente de dextrosa aumenta al incrementarse el número de grupos anoméricos libres.
   <!-- feedback: Correcto. Romper enlaces glucosídicos genera fragmentos más cortos, cada uno con un extremo reductor libre nuevo. -->
-- [ ] B) El poder reductor disminuye a cero al romperse los polímeros.
+- [ ] A) El poder reductor disminuye a cero al romperse los polímeros.
   <!-- feedback: Incorrecto. La hidrólisis incrementa los extremos reductores expuestos. -->
-- [ ] C) La solución se convierte en proteína sin alterar su masa.
+- [ ] B) La solución se convierte en proteína sin alterar su masa.
   <!-- feedback: Incorrecto. Los carbohidratos no mutan a proteínas. -->
 - [ ] D) El número de extremos reductores permanece invariable.
   <!-- feedback: Incorrecto. Cada corte químico genera un nuevo extremo reductor. -->
@@ -379,13 +379,13 @@ La hidrólisis rompe los enlaces glucosídicos liberando carbonilos anoméricos 
 ¿Por qué la inulina se utiliza clínicamente en pruebas de filtración glomerular renal en humanos?
 
 ### Opciones
-- [x] A) Porque se filtra libremente en el glomérulo sin ser reabsorbida ni secretada en los túbulos renales.
+- [x] D) Porque se filtra libremente en el glomérulo sin ser reabsorbida ni secretada en los túbulos renales.
   <!-- feedback: Correcto. La inulina es el marcador de referencia estándar para evaluar la tasa de filtración glomerular (TFG). -->
-- [ ] B) Porque se metaboliza rápidamente en el túbulo proximal generando glucosa.
+- [ ] A) Porque se metaboliza rápidamente en el túbulo proximal generando glucosa.
   <!-- feedback: Incorrecto. Si se reabsorbiera o metabolizara no serviría para medir filtración neta. -->
-- [ ] C) Porque se une irreversiblemente a la albúmina del plasma.
+- [ ] B) Porque se une irreversiblemente a la albúmina del plasma.
   <!-- feedback: Incorrecto. Debe estar libre en plasma para filtrarse por los fenestras glomerulares. -->
-- [ ] D) Porque tiñe la orina de verde fluorescente espontáneamente.
+- [ ] C) Porque tiñe la orina de verde fluorescente espontáneamente.
   <!-- feedback: Incorrecto. La inulina es incolora y requiere cuantificación química. -->
 
 ### Explicacion Pedagogica
@@ -402,13 +402,13 @@ La inulina se filtra totalmente en el glomérulo renal y no sufre transporte tub
 ¿Qué adición glucosídica terminal diferencia inmunológicamente al antígeno del grupo A del antígeno del grupo O?
 
 ### Opciones
-- [x] A) La adición de una N-acetilgalactosamina al antígeno H básico.
+- [x] D) La adición de una N-acetilgalactosamina al antígeno H básico.
   <!-- feedback: Correcto. La enzima transferasa A añade N-acetilgalactosamina terminal al antígeno H del grupo O. -->
-- [ ] B) La adición de tres moléculas de celulosa cristalina.
+- [ ] A) La adición de tres moléculas de celulosa cristalina.
   <!-- feedback: Incorrecto. Los antígenos de grupo sanguíneo no contienen celulosa. -->
-- [ ] C) La eliminación de todas las glucosas de la membrana.
+- [ ] B) La eliminación de todas las glucosas de la membrana.
   <!-- feedback: Incorrecto. Los antígenos ABO se basan en ramificaciones específicas de oligosacáridos. -->
-- [ ] D) La sustitución de monosacáridos por cadenas polipeptídicas de hemoglobina.
+- [ ] C) La sustitución de monosacáridos por cadenas polipeptídicas de hemoglobina.
   <!-- feedback: Incorrecto. La especificidad del grupo ABO es de naturaleza glucosídica. -->
 
 ### Explicacion Pedagogica
@@ -425,9 +425,9 @@ El antígeno A se forma al añadir N-acetilgalactosamina al residuo H; el grupo 
 ¿Por qué la sustitución de tres grupos hidroxilo por átomos de cloro en la sucralosa evita que aporte calorías al organismo?
 
 ### Opciones
-- [x] A) Impide el reconocimiento estérico por las enzimas glucosidasas digestivas, pasando sin absorberse ni metabolizarse.
+- [x] B) Impide el reconocimiento estérico por las enzimas glucosidasas digestivas, pasando sin absorberse ni metabolizarse.
   <!-- feedback: Correcto. Las modificacione estéricas por cloro hacen que las amilasas y disacaridasas no puedan hidrolizar la molécula. -->
-- [ ] B) Destruye las células pancreáticas bloqueando la digestión de grasas.
+- [ ] A) Destruye las células pancreáticas bloqueando la digestión de grasas.
   <!-- feedback: Incorrecto. La sucralosa es segura e inerte digestivamente. -->
 - [ ] C) Genera gas cloro libre que desinfecta el tracto gastrointestinal.
   <!-- feedback: Incorrecto. Los átomos de cloro permanecen covalentemente unidos sin liberar gas tóxico. -->
@@ -471,9 +471,9 @@ El direccionamiento lisosómico mediado por manosa-6-fosfato es clave para inter
 ¿Qué propiedad estructural del quitosano (polímero de glucosamina cargado positivamente) favorece la adhesión celular y actividad antimicrobiana?
 
 ### Opciones
-- [x] A) Sus grupos amina protonados ($-NH_3^+$) interactúan electrostáticamente con las membranas bacterianas cargadas negativamente, lisándolas.
+- [x] B) Sus grupos amina protonados ($-NH_3^+$) interactúan electrostáticamente con las membranas bacterianas cargadas negativamente, lisándolas.
   <!-- feedback: Correcto. La naturaleza policatiónica del quitosano altera el potencial de membrana de las bacterias deteniendo infecciones. -->
-- [ ] B) Es un polisacárido que evapora instantáneamente el agua de las heridas.
+- [ ] A) Es un polisacárido que evapora instantáneamente el agua de las heridas.
   <!-- feedback: Incorrecto. Los hidrogeles mantienen ambiente húmedo óptimo para cicatrización. -->
 - [ ] C) Sustituye la síntesis de colágeno por depósitos de silicio.
   <!-- feedback: Incorrecto. El quitosano estimula la regeneración tisular sin depositar silicio. -->

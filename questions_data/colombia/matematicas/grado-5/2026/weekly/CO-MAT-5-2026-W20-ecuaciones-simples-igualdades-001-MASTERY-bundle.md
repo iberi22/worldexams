@@ -34,9 +34,9 @@ Igualdades, idea de equilibrio y resolución de ecuaciones simples con una incó
 ¿Qué es una igualdad en matemáticas?
 
 ### Opciones
-- [x] A) Una relación donde dos expresiones tienen el mismo valor.
+- [x] B) Una relación donde dos expresiones tienen el mismo valor.
   <!-- feedback: En una igualdad, el valor de un lado es exactamente igual al valor del otro lado. -->
-- [ ] B) Una operación que siempre da un resultado mayor que sus términos.
+- [ ] A) Una operación que siempre da un resultado mayor que sus términos.
   <!-- feedback: El resultado de una igualdad no tiene que ser mayor; solo debe ser equivalente. -->
 - [ ] C) Un dibujo que representa figuras geométricas.
   <!-- feedback: Una igualdad es una relación numérica, no un dibujo de figuras. -->
@@ -80,9 +80,9 @@ Interpretar el equilibrio de una balanza como una igualdad con un valor desconoc
 Si se escribe la ecuación x + 5.000 = 12.000, ¿cuál es el valor de x?
 
 ### Opciones
-- [x] A) 7.000 COP.
+- [x] B) 7.000 COP.
   <!-- feedback: 12.000 - 5.000 = 7.000 COP, y al sumar 7.000 + 5.000 se obtiene 12.000. -->
-- [ ] B) 5.000 COP.
+- [ ] A) 5.000 COP.
   <!-- feedback: 5.000 COP es lo que ya tiene, no lo que le falta. -->
 - [ ] C) 17.000 COP.
   <!-- feedback: 17.000 COP resultaría de sumar 12.000 + 5.000, operación que no despeja la incógnita. -->
@@ -103,11 +103,11 @@ Resolver una ecuación simple de suma restando el término conocido al total.
 Si la ecuación es x - 4 = 9, ¿cuántos lápices tenía al inicio?
 
 ### Opciones
-- [x] A) 13 lápices.
+- [x] C) 13 lápices.
   <!-- feedback: 9 + 4 = 13, y al restar 13 - 4 se obtiene 9. -->
-- [ ] B) 5 lápices.
+- [ ] A) 5 lápices.
   <!-- feedback: 5 lápices resultarían de restar 9 - 4, operación que no corresponde a esta ecuación. -->
-- [ ] C) 9 lápices.
+- [ ] B) 9 lápices.
   <!-- feedback: 9 es la cantidad que le quedó después de regalar los lápices. -->
 - [ ] D) 36 lápices.
   <!-- feedback: 36 lápices resultarían de multiplicar 9 por 4, no de despejar una resta. -->
@@ -126,13 +126,13 @@ Resolver una ecuación simple de resta sumando el término conocido al resultado
 Si la ecuación es 3x = 21.000, ¿cuánto cuesta cada bolsa de naranjas?
 
 ### Opciones
-- [x] A) 7.000 COP.
+- [x] D) 7.000 COP.
   <!-- feedback: 21.000 ÷ 3 = 7.000 COP, y 3 × 7.000 = 21.000. -->
-- [ ] B) 18.000 COP.
+- [ ] A) 18.000 COP.
   <!-- feedback: 18.000 COP resultaría de restar 21.000 - 3.000, no de repartir el total en 3 bolsas. -->
-- [ ] C) 21.000 COP.
+- [ ] B) 21.000 COP.
   <!-- feedback: 21.000 COP es el costo de las 3 bolsas juntas, no de una sola. -->
-- [ ] D) 63.000 COP.
+- [ ] C) 63.000 COP.
   <!-- feedback: 63.000 COP resultaría de multiplicar 21.000 por 3, lo cual aumenta el total. -->
 
 ### Explicacion Pedagogica
@@ -149,13 +149,13 @@ Resolver una ecuación simple de multiplicación dividiendo el total entre el n�
 Si la ecuación es 2x + 3 = 11, ¿qué valor debe tener x para mantener el equilibrio?
 
 ### Opciones
-- [x] A) 4.
+- [x] D) 4.
   <!-- feedback: 11 - 3 = 8 y 8 ÷ 2 = 4; además 2 × 4 + 3 = 11. -->
-- [ ] B) 5.
+- [ ] A) 5.
   <!-- feedback: Con x = 5 se tendría 2 × 5 + 3 = 13, que no equilibra las 11 pesas. -->
-- [ ] C) 7.
+- [ ] B) 7.
   <!-- feedback: Con x = 7 se tendría 2 × 7 + 3 = 17, mayor que 11. -->
-- [ ] D) 8.
+- [ ] C) 8.
   <!-- feedback: 8 es el resultado de 11 - 3, pero aún falta repartirlo entre las 2 cajas. -->
 
 ### Explicacion Pedagogica
@@ -172,11 +172,11 @@ Analizar una ecuación de dos pasos separando primero el término constante y lu
 ¿Cuál ecuación representa correctamente el problema y cuál es el precio de la cartulina?
 
 ### Opciones
-- [x] A) x + 2.000 = 6.500, entonces la cartulina costó 4.500 COP.
+- [x] C) x + 2.000 = 6.500, entonces la cartulina costó 4.500 COP.
   <!-- feedback: 6.500 - 2.000 = 4.500 COP, y 4.500 + 2.000 = 6.500. -->
-- [ ] B) x - 2.000 = 6.500, entonces la cartulina costó 8.500 COP.
+- [ ] A) x - 2.000 = 6.500, entonces la cartulina costó 8.500 COP.
   <!-- feedback: La ecuación de resta no corresponde, porque el marcador se suma al total. -->
-- [ ] C) x + 2.000 = 6.500, entonces la cartulina costó 6.500 COP.
+- [ ] B) x + 2.000 = 6.500, entonces la cartulina costó 6.500 COP.
   <!-- feedback: 6.500 COP es el total pagado, no el precio de la cartulina. -->
 - [ ] D) 2x = 6.500, entonces la cartulina costó 3.250 COP.
   <!-- feedback: Solo hay una cartulina, por lo que no se debe duplicar ni dividir el total entre dos. -->

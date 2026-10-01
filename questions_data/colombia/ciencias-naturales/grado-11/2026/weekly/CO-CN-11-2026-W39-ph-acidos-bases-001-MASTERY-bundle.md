@@ -35,13 +35,13 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia.
 Según la teoría de Brønsted-Lowry, un ácido es una sustancia que:
 
 ### Opciones
-- [x] A) Dona protones (H⁺) en una reacción química.
+- [x] D) Dona protones (H⁺) en una reacción química.
   <!-- feedback: Ácido = dador de protones. -->
-- [ ] B) Acepta protones.
+- [ ] A) Acepta protones.
   <!-- feedback: Esa es la definición de base. -->
-- [ ] C) Libera electrones en solución.
+- [ ] B) Libera electrones en solución.
   <!-- feedback: No es el criterio Brønsted-Lowry. -->
-- [ ] D) Produce iones OH⁻.
+- [ ] C) Produce iones OH⁻.
   <!-- feedback: Eso corresponde a una base de Arrhenius. -->
 
 ### Explicacion Pedagogica
@@ -58,9 +58,9 @@ La definición de Brønsted-Lowry se centra en la transferencia de protones en s
 El pH es una escala que mide:
 
 ### Opciones
-- [ ] A) La temperatura de la solución.
+- [ ] B) La temperatura de la solución.
   <!-- feedback: La temperatura es otra propiedad. -->
-- [x] B) La concentración de iones hidrógeno (H⁺) en solución acuosa.
+- [x] A) La concentración de iones hidrógeno (H⁺) en solución acuosa.
   <!-- feedback: pH = -log[H⁺]. -->
 - [ ] C) La cantidad de oxígeno disuelto.
   <!-- feedback: El pH no mide oxígeno. -->
@@ -81,9 +81,9 @@ La escala de pH va de 0 a 14: pH < 7 es ácido, pH = 7 neutro y pH > 7 básico.
 El jugo gástrico del estómago humano tiene un pH aproximado de 1.5 a 3.5. Esto significa que es:
 
 ### Opciones
-- [x] A) Muy ácido, con alta concentración de H⁺.
+- [x] B) Muy ácido, con alta concentración de H⁺.
   <!-- feedback: pH bajo indica alta concentración de protones. -->
-- [ ] B) Neutro.
+- [ ] A) Neutro.
   <!-- feedback: Neutro corresponde a pH 7. -->
 - [ ] C) Ligeramente básico.
   <!-- feedback: pH < 7 es ácido, no básico. -->
@@ -150,9 +150,9 @@ Para un ácido fuerte monoprótico, [H⁺] = C, y el pH se calcula como -log[H�
 Si 25 mL de HCl 0.1 M se neutralizan con NaOH 0.1 M, ¿cuál es el volumen de NaOH requerido?
 
 ### Opciones
-- [ ] A) 50 mL.
+- [ ] B) 50 mL.
   <!-- feedback: No es necesario duplicar el volumen. -->
-- [x] B) 25 mL.
+- [x] A) 25 mL.
   <!-- feedback: Relación 1:1 en neutralización HCl + NaOH → NaCl + H₂O. -->
 - [ ] C) 10 mL.
   <!-- feedback: Subestimaste el volumen. -->
@@ -173,13 +173,13 @@ En una neutralización ácido-base fuerte, moles de H⁺ = moles de OH⁻.
 Una solución tampón (buffer) se caracteriza por:
 
 ### Opciones
-- [x] A) Resistir cambios de pH al añadir pequeñas cantidades de ácido o base.
+- [x] D) Resistir cambios de pH al añadir pequeñas cantidades de ácido o base.
   <!-- feedback: Está formada por un ácido débil y su base conjugada. -->
-- [ ] B) Cambiar drásticamente el pH.
+- [ ] A) Cambiar drásticamente el pH.
   <!-- feedback: Un tampón mantiene el pH estable. -->
-- [ ] C) Ser siempre neutra (pH 7).
+- [ ] B) Ser siempre neutra (pH 7).
   <!-- feedback: Su pH depende del par conjugado. -->
-- [ ] D) Contener solo sales fuertes.
+- [ ] C) Contener solo sales fuertes.
   <!-- feedback: Requiere un par ácido/base conjugado. -->
 
 ### Explicacion Pedagogica
@@ -219,9 +219,9 @@ La quema de combustibles fósiles y emisiones industriales son las mayores fuent
 La ecuación de Henderson-Hasselbalch permite calcular:
 
 ### Opciones
-- [ ] A) La densidad de una solución.
+- [ ] B) La densidad de una solución.
   <!-- feedback: No aplica a densidad. -->
-- [x] B) El pH de una solución tampón a partir del pKa y la relación de concentraciones.
+- [x] A) El pH de una solución tampón a partir del pKa y la relación de concentraciones.
   <!-- feedback: pH = pKa + log([A⁻]/[HA]). -->
 - [ ] C) La masa molar de un ácido.
   <!-- feedback: Se obtiene por otros métodos. -->
@@ -244,11 +244,11 @@ Una solución de NaOH 0.001 M tiene pOH aproximadamente igual a:
 ### Opciones
 - [ ] A) 1.
   <!-- feedback: pOH = -log(0.001) = 3. -->
-- [x] B) 3.
+- [x] D) 3.
   <!-- feedback: pOH = -log(10⁻³) = 3. -->
-- [ ] C) 11.
+- [ ] B) 11.
   <!-- feedback: Sería el pH correspondiente, no el pOH. -->
-- [ ] D) 14.
+- [ ] C) 14.
   <!-- feedback: Solo si la concentración fuera 1 M. -->
 
 ### Explicacion Pedagogica
@@ -311,9 +311,9 @@ El comportamiento anfótero es fundamental para la neutralización y para las re
 A 25 °C, el producto iónico del agua Kw = [H⁺][OH⁻] es:
 
 ### Opciones
-- [ ] A) 1.0 × 10⁻⁷.
+- [ ] B) 1.0 × 10⁻⁷.
   <!-- feedback: Es solo la concentración de H⁺ en agua pura. -->
-- [x] B) 1.0 × 10⁻¹⁴.
+- [x] A) 1.0 × 10⁻¹⁴.
   <!-- feedback: Kw = 10⁻¹⁴ a 25 °C. -->
 - [ ] C) 1.0 × 10⁻¹.
   <!-- feedback: Es un valor demasiado alto. -->
@@ -380,9 +380,9 @@ El ataque ácido a carbonatos es responsable del deterioro de edificios históri
 En una titulación de un ácido fuerte con una base fuerte, el punto de equivalencia se ubica en:
 
 ### Opciones
-- [ ] A) pH menor que 3.
+- [ ] B) pH menor que 3.
   <!-- feedback: Es típico de ácidos débiles titulados con base fuerte. -->
-- [x] B) pH = 7, donde moles de ácido igualan a moles de base.
+- [x] A) pH = 7, donde moles de ácido igualan a moles de base.
   <!-- feedback: El salto de pH cruza por 7. -->
 - [ ] C) pH mayor que 11.
   <!-- feedback: Ocurre en titulaciones de base débil con ácido fuerte. -->
@@ -426,9 +426,9 @@ El par HCO₃⁻/H₂CO₃ regula el pH sanguíneo y se usa en medicina para cor
 La acidificación oceánica es consecuencia principalmente de:
 
 ### Opciones
-- [x] A) La absorción de CO₂ atmosférico por el agua de mar formando ácido carbónico.
+- [x] B) La absorción de CO₂ atmosférico por el agua de mar formando ácido carbónico.
   <!-- feedback: El CO₂ baja el pH del océano al formar H₂CO₃. -->
-- [ ] B) Aumento de la salinidad.
+- [ ] A) Aumento de la salinidad.
   <!-- feedback: La salinidad no es responsable directa. -->
 - [ ] C) Vertimiento de ácidos industriales.
   <!-- feedback: Contribuye localmente, pero no es la causa global. -->
@@ -449,9 +449,9 @@ La acidificación oceánica afecta arrecifes de coral y organismos con conchas d
 La aplicación de cal agrícola (CaCO₃ o Ca(OH)₂) a suelos ácidos busca:
 
 ### Opciones
-- [x] A) Neutralizar la acidez del suelo, elevando el pH y mejorando la disponibilidad de nutrientes.
+- [x] B) Neutralizar la acidez del suelo, elevando el pH y mejorando la disponibilidad de nutrientes.
   <!-- feedback: La cal agrícola corrige el pH para cultivos. -->
-- [ ] B) Incrementar la acidez del suelo.
+- [ ] A) Incrementar la acidez del suelo.
   <!-- feedback: Contrario al propósito. -->
 - [ ] C) Disminuir la fertilidad.
   <!-- feedback: Mejora la fertilidad al ajustar el pH. -->
@@ -474,9 +474,9 @@ El carbonato de calcio presente en antiácidos estomacales actúa porque:
 ### Opciones
 - [ ] A) Genera más ácido clorhídrico.
   <!-- feedback: Es lo opuesto a su función. -->
-- [x] B) Reacciona con el HCl gástrico formando CaCl₂, agua y CO₂, aliviando la acidez.
+- [x] C) Reacciona con el HCl gástrico formando CaCl₂, agua y CO₂, aliviando la acidez.
   <!-- feedback: Reacción típica de neutralización. -->
-- [ ] C) Disminuye la producción de mucina gástrica.
+- [ ] B) Disminuye la producción de mucina gástrica.
   <!-- feedback: No afecta la mucina directamente. -->
 - [ ] D) Bloquea la bomba de protones de forma inmediata.
   <!-- feedback: Los inhibidores de bomba son otra clase de fármacos. -->

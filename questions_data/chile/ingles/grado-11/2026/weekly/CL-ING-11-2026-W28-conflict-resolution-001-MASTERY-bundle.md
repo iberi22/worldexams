@@ -35,8 +35,8 @@ creador: "Jules-Agent"
 Mediation is a process in which a neutral third party helps two or more groups reach an agreement.
 
 ### Opciones
-- [ ] A) Combat <!-- feedback: Incorrect. Combat is fighting. -->
-- [x] B) Mediation <!-- feedback: Correct. Process involving a neutral third party. -->
+- [ ] B) Combat <!-- feedback: Incorrect. Combat is fighting. -->
+- [x] A) Mediation <!-- feedback: Correct. Process involving a neutral third party. -->
 - [ ] C) Argument <!-- feedback: Incorrect. Arguments often cause the need for mediation. -->
 - [ ] D) Silence <!-- feedback: Incorrect. Mediation involves communication. -->
 
@@ -55,8 +55,8 @@ Mediation is a process in which a neutral third party helps two or more groups r
 The peace talks have been ongoing for months, with both sides seeking a sustainable solution.
 
 ### Opciones
-- [ ] A) are ongoing <!-- feedback: Incorrect. Present continuous. -->
-- [x] B) have been ongoing <!-- feedback: Correct. Present perfect continuous for an action starting in the past and continuing. -->
+- [ ] B) are ongoing <!-- feedback: Incorrect. Present continuous. -->
+- [x] A) have been ongoing <!-- feedback: Correct. Present perfect continuous for an action starting in the past and continuing. -->
 - [ ] C) were ongoing <!-- feedback: Incorrect. Past continuous. -->
 - [ ] D) will be ongoing <!-- feedback: Incorrect. Future. -->
 
@@ -136,9 +136,9 @@ A treaty is a formally concluded and ratified agreement between countries.
 
 ### Opciones
 - [ ] A) fight <!-- feedback: Incorrect. Conflict. -->
-- [x] B) treaty <!-- feedback: Correct. Formal international agreement. -->
-- [ ] C) rumor <!-- feedback: Incorrect. Informal. -->
-- [ ] D) protest <!-- feedback: Incorrect. Expression of objection. -->
+- [x] D) treaty <!-- feedback: Correct. Formal international agreement. -->
+- [ ] B) rumor <!-- feedback: Incorrect. Informal. -->
+- [ ] C) protest <!-- feedback: Incorrect. Expression of objection. -->
 
 ### Explicacion Pedagogica
 'Treaty' is the standard term for a formal agreement that ends or prevents conflict between nations.
@@ -155,8 +155,8 @@ A treaty is a formally concluded and ratified agreement between countries.
 New terms for the agreement are being discussed by the legal teams this week.
 
 ### Opciones
-- [ ] A) are discussing <!-- feedback: Incorrect. Active voice. -->
-- [x] B) are being discussed <!-- feedback: Correct. Present continuous passive for an ongoing process. -->
+- [ ] B) are discussing <!-- feedback: Incorrect. Active voice. -->
+- [x] A) are being discussed <!-- feedback: Correct. Present continuous passive for an ongoing process. -->
 - [ ] C) discussed <!-- feedback: Incorrect. Past simple. -->
 - [ ] D) have discussed <!-- feedback: Incorrect. Active voice. -->
 
@@ -215,8 +215,8 @@ In reported speech, we backshift the tense of the original statement to show it 
 Zero-sum thinking is the belief that one side can only gain if the other side loses, which can hinder effective conflict resolution.
 
 ### Opciones
-- [ ] A) promote <!-- feedback: Incorrect. It makes it harder. -->
-- [x] B) hinder <!-- feedback: Correct. To hinder means to create difficulties for someone or something. -->
+- [ ] B) promote <!-- feedback: Incorrect. It makes it harder. -->
+- [x] A) hinder <!-- feedback: Correct. To hinder means to create difficulties for someone or something. -->
 - [ ] C) accelerate <!-- feedback: Incorrect. It slows things down. -->
 - [ ] D) ignore <!-- feedback: Incorrect. It active prevents progress. -->
 
@@ -255,8 +255,8 @@ Empathy is a vital skill for mediators, as it allows them to understand the pers
 By next year, it is hoped that a lasting peace will have been established in the region.
 
 ### Opciones
-- [ ] A) will establish <!-- feedback: Incorrect. Active voice. -->
-- [x] B) will have been established <!-- feedback: Correct. Future perfect passive for a completed state in the future. -->
+- [ ] B) will establish <!-- feedback: Incorrect. Active voice. -->
+- [x] A) will have been established <!-- feedback: Correct. Future perfect passive for a completed state in the future. -->
 - [ ] C) establishes <!-- feedback: Incorrect. Present tense. -->
 - [ ] D) establishing <!-- feedback: Incorrect. Gerund. -->
 
@@ -275,8 +275,8 @@ The future perfect passive describes a desired goal as a finished fact at a spec
 Reconciliation is the restoration of friendly relations after a conflict.
 
 ### Opciones
-- [ ] A) Aggression <!-- feedback: Incorrect. -->
-- [x] B) Reconciliation <!-- feedback: Correct. The process of healing relationships. -->
+- [ ] B) Aggression <!-- feedback: Incorrect. -->
+- [x] A) Reconciliation <!-- feedback: Correct. The process of healing relationships. -->
 - [ ] C) Separation <!-- feedback: Incorrect. Often the opposite of reconciliation. -->
 - [ ] D) Competition <!-- feedback: Incorrect. -->
 
@@ -296,9 +296,9 @@ If they had communicated more openly from the start, the conflict might have bee
 
 ### Opciones
 - [ ] A) didn't communicate <!-- feedback: Incorrect. Second conditional. -->
-- [x] B) had communicated <!-- feedback: Correct. Third conditional for hypothetical past. -->
-- [ ] C) communicate <!-- feedback: Incorrect. Present. -->
-- [ ] D) were communicating <!-- feedback: Incorrect. Past continuous. -->
+- [x] D) had communicated <!-- feedback: Correct. Third conditional for hypothetical past. -->
+- [ ] B) communicate <!-- feedback: Incorrect. Present. -->
+- [ ] C) were communicating <!-- feedback: Incorrect. Past continuous. -->
 
 ### Explicacion Pedagogica
 The third conditional allows for the analysis of how past mistakes contributed to an outcome.
@@ -315,8 +315,8 @@ The third conditional allows for the analysis of how past mistakes contributed t
 The author concludes that forgiveness is often a necessary step for achieving true and lasting reconciliation.
 
 ### Opciones
-- [ ] A) unnecessary <!-- feedback: Incorrect. The author says it's necessary. -->
-- [x] B) necessary <!-- feedback: Correct. Essential for the result. -->
+- [ ] B) unnecessary <!-- feedback: Incorrect. The author says it's necessary. -->
+- [x] A) necessary <!-- feedback: Correct. Essential for the result. -->
 - [ ] C) secondary <!-- feedback: Incorrect. It's a primary requirement. -->
 - [ ] D) accidental <!-- feedback: Incorrect. It's a deliberate act. -->
 
@@ -336,9 +336,9 @@ A neutral person is one who does not take sides in an argument or conflict.
 
 ### Opciones
 - [ ] A) biased <!-- feedback: Incorrect. Taking a side. -->
-- [x] B) neutral <!-- feedback: Correct. Impartial. -->
-- [ ] C) hostile <!-- feedback: Incorrect. Unfriendly. -->
-- [ ] D) active <!-- feedback: Incorrect. While they can be active in the process, 'neutral' refers specifically to side-taking. -->
+- [x] D) neutral <!-- feedback: Correct. Impartial. -->
+- [ ] B) hostile <!-- feedback: Incorrect. Unfriendly. -->
+- [ ] C) active <!-- feedback: Incorrect. While they can be active in the process, 'neutral' refers specifically to side-taking. -->
 
 ### Explicacion Pedagogica
 'Neutral' is the defining characteristic of an effective mediator or arbitrator.
@@ -356,9 +356,9 @@ I wish the two countries would stop fighting and start talking.
 
 ### Opciones
 - [ ] A) stop <!-- feedback: Incorrect. Need 'would' for a desired change in others' behavior. -->
-- [x] B) would stop <!-- feedback: Correct. 'Wish + would' for a change in a situation or behavior. -->
-- [ ] C) stopped <!-- feedback: Incorrect. 'Wish + past' is for present state desires. -->
-- [ ] D) have stopped <!-- feedback: Incorrect. Past regret. -->
+- [x] D) would stop <!-- feedback: Correct. 'Wish + would' for a change in a situation or behavior. -->
+- [ ] B) stopped <!-- feedback: Incorrect. 'Wish + past' is for present state desires. -->
+- [ ] C) have stopped <!-- feedback: Incorrect. Past regret. -->
 
 ### Explicacion Pedagogica
 'Wish + would' is used to express a desire for an annoying or harmful situation to change.
@@ -376,9 +376,9 @@ Arbitration is the use of an arbitrator to settle a dispute, and their decision 
 
 ### Opciones
 - [ ] A) optional <!-- feedback: Incorrect. Binding is the opposite of optional. -->
-- [x] B) binding <!-- feedback: Correct. Binding means that it must be obeyed. -->
-- [ ] C) secret <!-- feedback: Incorrect. Usually formal and recorded. -->
-- [ ] D) ignored <!-- feedback: Incorrect. If it's binding, it can't be ignored without consequences. -->
+- [x] D) binding <!-- feedback: Correct. Binding means that it must be obeyed. -->
+- [ ] B) secret <!-- feedback: Incorrect. Usually formal and recorded. -->
+- [ ] C) ignored <!-- feedback: Incorrect. If it's binding, it can't be ignored without consequences. -->
 
 ### Explicacion Pedagogica
 'Binding' is the legal term for a decision that carries the force of law and must be followed.
@@ -396,9 +396,9 @@ The tension had been building for months before the final confrontation occurred
 
 ### Opciones
 - [ ] A) was building <!-- feedback: Incorrect. Past continuous. -->
-- [x] B) had been building <!-- feedback: Correct. Past perfect continuous for duration before a past event. -->
-- [ ] C) has been building <!-- feedback: Incorrect. Present perfect continuous. -->
-- [ ] D) builds <!-- feedback: Incorrect. Present simple. -->
+- [x] D) had been building <!-- feedback: Correct. Past perfect continuous for duration before a past event. -->
+- [ ] B) has been building <!-- feedback: Incorrect. Present perfect continuous. -->
+- [ ] C) builds <!-- feedback: Incorrect. Present simple. -->
 
 ### Explicacion Pedagogica
 The past perfect continuous describes a situation (tension) that was intensifying over time leading up to a specific past point.
@@ -415,10 +415,10 @@ The past perfect continuous describes a situation (tension) that was intensifyin
 Dialogue is the most powerful tool we have for bridging divides and fostering lasting peace.
 
 ### Opciones
-- [x] A) bridging <!-- feedback: Correct. To bridge a divide means to connect two different groups. -->
-- [ ] B) creating <!-- feedback: Incorrect. We want to solve divides, not create them. -->
-- [ ] C) ignoring <!-- feedback: Incorrect. Dialogue requires engagement. -->
-- [ ] D) reinforcing <!-- feedback: Incorrect. Reinforcing a divide makes it worse. -->
+- [x] D) bridging <!-- feedback: Correct. To bridge a divide means to connect two different groups. -->
+- [ ] A) creating <!-- feedback: Incorrect. We want to solve divides, not create them. -->
+- [ ] B) ignoring <!-- feedback: Incorrect. Dialogue requires engagement. -->
+- [ ] C) reinforcing <!-- feedback: Incorrect. Reinforcing a divide makes it worse. -->
 
 ### Explicacion Pedagogica
 'Bridging' is a common metaphorical verb for the act of bringing two conflicting sides together.
