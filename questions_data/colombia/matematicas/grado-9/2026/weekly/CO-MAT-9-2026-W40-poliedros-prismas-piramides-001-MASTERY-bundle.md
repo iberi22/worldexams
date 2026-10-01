@@ -72,9 +72,9 @@ El prisma se caracteriza por tener dos bases congruentes y paralelas, conectadas
 ### Enunciado
 Un poliedro cumple la relacion de Euler $V - A + C = 2$. Si el solido tiene $6$ caras y $12$ aristas, ¿cuantos vertices tiene?
 ### Opciones
-- [x] A) $8$ vertices
+- [x] B) $8$ vertices
   <!-- feedback: Correcto. Al despejar $V$ en $V - A + C = 2$ se obtiene $V = 2 - 6 + 12 = 8$ vertices, que corresponde a un prisma rectangular o cubo. -->
-- [ ] B) $6$ vertices
+- [ ] A) $6$ vertices
   <!-- feedback: Incorrecto. Con $6$ vertices se obtiene $V - A + C = 6 - 12 + 6 = 0$, que no satisface la relacion de Euler para un poliedro convexo. -->
 - [ ] C) $10$ vertices
   <!-- feedback: Incorrecto. Con $10$ vertices se obtiene $V - A + C = 10 - 12 + 6 = 4$, que no cumple la relacion de Euler. -->
@@ -132,9 +132,9 @@ Para una piramide regular, el area lateral se calcula como $(\text{perimetro de 
 ### Enunciado
 Una piscina con forma de prisma rectangular tiene $25$ m de largo, $10$ m de ancho y $2$ m de profundidad. ¿Cuantos metros cubicos de agua caben en la piscina?
 ### Opciones
-- [x] A) $500$ m$^3$
+- [x] B) $500$ m$^3$
   <!-- feedback: Correcto. El volumen de un prisma rectangular es largo por ancho por alto: $25 \times 10 \times 2 = 500$ m$^3$. -->
-- [ ] B) $250$ m$^3$
+- [ ] A) $250$ m$^3$
   <!-- feedback: Incorrecto. Ese valor es la mitad del volumen real; se omitio multiplicar por la profundidad completa. -->
 - [ ] C) $100$ m$^3$
   <!-- feedback: Incorrecto. Ese valor es el producto de ancho por profundidad, ignorando el largo de la piscina. -->
@@ -152,13 +152,13 @@ El volumen de un prisma recto se calcula multiplicando el area de la base por la
 ### Enunciado
 Observa el siguiente desarrollo plano: una region cuadrada central con cuatro triangulos congruentes unidos a cada uno de sus lados. Al doblar y pegar las piezas, ¿que solido se forma?
 ### Opciones
-- [x] A) Una piramide cuadrangular regular.
+- [x] D) Una piramide cuadrangular regular.
   <!-- feedback: Correcto. Una base cuadrada con cuatro triangulos laterales congruentes corresponde al desarrollo plano de una piramide cuadrangular regular. -->
-- [ ] B) Un prisma cuadrangular.
+- [ ] A) Un prisma cuadrangular.
   <!-- feedback: Incorrecto. El prisma cuadrangular requiere dos bases cuadradas conectadas por cuatro rectangulos, no por triangulos. -->
-- [ ] C) Una piramide triangular.
+- [ ] B) Una piramide triangular.
   <!-- feedback: Incorrecto. La piramide triangular tendria una base triangular y tres triangulos laterales, no una base cuadrada con cuatro. -->
-- [ ] D) Un prisma triangular.
+- [ ] C) Un prisma triangular.
   <!-- feedback: Incorrecto. El prisma triangular se forma con dos triangulos y tres rectangulos, no con un cuadrado y triangulos. -->
 ### Explicacion Pedagogica
 El desarrollo plano (o red) de un solido es la figura que se obtiene al desarmar el solido extendiendolo sobre un plano. Una piramide cuadrangular regular se descompone en una base cuadrada y cuatro caras laterales triangulares congruentes. Reconocer estos patrones permite anticipar la forma tridimensional a partir de la representacion bidimensional, habilidad fundamental en pruebas Saber 11 y en el trabajo con maquetas y empaques en contextos colombianos.
@@ -192,11 +192,11 @@ Un principio fundamental de la geometria es que el volumen de una piramide equiv
 ### Enunciado
 Al revisar el reporte, ¿cual es el error del estudiante?
 ### Opciones
-- [x] A) El numero de caras es incorrecto, deberian ser $4$ (una cara triangular como base y tres caras laterales tambien triangulares).
+- [x] C) El numero de caras es incorrecto, deberian ser $4$ (una cara triangular como base y tres caras laterales tambien triangulares).
   <!-- feedback: Correcto. Una piramide triangular tiene $1$ base $+ 3$ laterales $= 4$ caras, $6$ aristas y $4$ vertices. El estudiante olvido contar las caras laterales. -->
-- [ ] B) El numero de aristas es incorrecto, deberian ser $9$.
+- [ ] A) El numero de aristas es incorrecto, deberian ser $9$.
   <!-- feedback: Incorrecto. Una piramide triangular tiene exactamente $6$ aristas ($3$ de la base y $3$ laterales), no $9$. -->
-- [ ] C) El numero de vertices es incorrecto, deberian ser $6$.
+- [ ] B) El numero de vertices es incorrecto, deberian ser $6$.
   <!-- feedback: Incorrecto. Una piramide triangular tiene $4$ vertices ($3$ en la base y $1$ en el apice), no $6$. -->
 - [ ] D) No hay error, los tres datos son correctos.
   <!-- feedback: Incorrecto. El conteo de caras es erroneo; la piramide triangular es un tetraedro con $4$ caras triangulares. -->
@@ -232,11 +232,11 @@ Un prisma hexagonal regular tiene dos bases hexagonales (con $6$ vertices y $6$ 
 ### Enunciado
 Diseño A: prisma rectangular de $40$ cm por $20$ cm por $10$ cm. Diseño B: cubo de $20$ cm por $20$ cm por $20$ cm. ¿Cual diseño utiliza menos material (menor area total)?
 ### Opciones
-- [x] A) El diseño B (cubo) utiliza menos material porque para un volumen fijo minimiza el area superficial.
+- [x] C) El diseño B (cubo) utiliza menos material porque para un volumen fijo minimiza el area superficial.
   <!-- feedback: Correcto. $AT_A = 2(800 + 400 + 200) = 2\,800$ cm$^2$, mientras que $AT_B = 6 \times 20^2 = 2\,400$ cm$^2$. El cubo minimiza el area superficial. -->
-- [ ] B) El diseño A utiliza menos material porque es mas plano.
+- [ ] A) El diseño A utiliza menos material porque es mas plano.
   <!-- feedback: Incorrecto. Una caja mas alargada y plana usa mas carton para el mismo volumen, no menos. -->
-- [ ] C) Los dos diseños usan exactamente la misma cantidad de material.
+- [ ] B) Los dos diseños usan exactamente la misma cantidad de material.
   <!-- feedback: Incorrecto. Las areas totales son distintas: $2\,800$ cm$^2$ para A y $2\,400$ cm$^2$ para B. -->
 - [ ] D) No se puede decidir sin informacion adicional sobre el grosor del carton.
   <!-- feedback: Incorrecto. Para comparar material basta con el area superficial de cada caja, independientemente del grosor de la lamina. -->
@@ -252,11 +252,11 @@ Cuando se fija un volumen, el solido que minimiza el area superficial es el cubo
 ### Enunciado
 Para exhibir la pieza en una vitrina con forma de prisma rectangular que la contenga de forma ajustada, ¿cuales son las dimensiones minimas del prisma?
 ### Opciones
-- [x] A) $30$ cm por $30$ cm por $20$ cm.
+- [x] C) $30$ cm por $30$ cm por $20$ cm.
   <!-- feedback: Correcto. El prisma minimo debe cubrir la base mayor de $30$ cm por $30$ cm y la altura completa de $20$ cm, asi la pieza queda contenida sin holgura en planta. -->
-- [ ] B) $10$ cm por $10$ cm por $20$ cm.
+- [ ] A) $10$ cm por $10$ cm por $20$ cm.
   <!-- feedback: Incorrecto. Este prisma tiene la base menor y no podria contener la base mayor de $30$ cm por $30$ cm. -->
-- [ ] C) $30$ cm por $30$ cm por $40$ cm.
+- [ ] B) $30$ cm por $30$ cm por $40$ cm.
   <!-- feedback: Incorrecto. Duplicar la altura es innecesario: la pieza solo mide $20$ cm de alto y la vitrina gastaria material extra sin necesidad. -->
 - [ ] D) $60$ cm por $60$ cm por $40$ cm.
   <!-- feedback: Incorrecto. Multiplicar todas las dimensiones por dos duplica la base y la altura sin justificacion geometrica; el prisma minimo es mucho mas compacto. -->

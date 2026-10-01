@@ -34,9 +34,9 @@ Este bundle de 10 preguntas introduce la estructura del atomo, los elementos qui
 Que es un atomo?
 
 ### Opciones
-- [x] A) La particula mas pequena de un elemento que conserva sus propiedades quimicas
+- [x] B) La particula mas pequena de un elemento que conserva sus propiedades quimicas
   <!-- feedback: Correcto. El atomo es la unidad basica de un elemento quimico. -->
-- [ ] B) Un ser vivo microscopico que se mueve en el aire
+- [ ] A) Un ser vivo microscopico que se mueve en el aire
   <!-- feedback: Incorrecto. El atomo no es un ser vivo, es una particula de materia. -->
 - [ ] C) Una mezcla de varias sustancias visibles a simple vista
   <!-- feedback: Incorrecto. El atomo es una unidad fundamental, no una mezcla. -->
@@ -57,9 +57,9 @@ El atomo es la unidad fundamental de la materia: cada elemento quimico esta form
 Que representa un elemento quimico?
 
 ### Opciones
-- [x] A) Una sustancia formada por atomos del mismo tipo, que no puede descomponerse en sustancias mas simples por medios quimicos
+- [x] B) Una sustancia formada por atomos del mismo tipo, que no puede descomponerse en sustancias mas simples por medios quimicos
   <!-- feedback: Correcto. Un elemento esta formado por atomos identicos. -->
-- [ ] B) Una mezcla de varios elementos que se puede separar con un iman
+- [ ] A) Una mezcla de varios elementos que se puede separar con un iman
   <!-- feedback: Incorrecto. Un elemento es una sustancia pura, no una mezcla. -->
 - [ ] C) Cualquier objeto que se ve en el laboratorio
   <!-- feedback: Incorrecto. Un objeto puede ser una mezcla de varias sustancias. -->
@@ -80,9 +80,9 @@ Un elemento quimico es una sustancia pura formada por atomos del mismo tipo, ide
 Como pueden ubicar y describir estos elementos usando la tabla periodica?
 
 ### Opciones
-- [x] A) Buscar su simbolo y su numero atomico en la tabla; el numero atomico indica cuantos protones tiene el atomo del elemento
+- [x] B) Buscar su simbolo y su numero atomico en la tabla; el numero atomico indica cuantos protones tiene el atomo del elemento
   <!-- feedback: Correcto. El simbolo y el numero atomico permiten ubicar y describir cada elemento. -->
-- [ ] B) Elegir el elemento que tenga el nombre mas largo
+- [ ] A) Elegir el elemento que tenga el nombre mas largo
   <!-- feedback: Incorrecto. La tabla no se organiza por la longitud del nombre. -->
 - [ ] C) Contar las letras del simbolo para saber su masa
   <!-- feedback: Incorrecto. El numero de letras del simbolo no indica la masa. -->
@@ -103,9 +103,9 @@ La tabla periodica organiza los elementos segun su numero atomico creciente; cad
 Que aplicacion del conocimiento de los elementos sobre la salud corresponde a esta situación?
 
 ### Opciones
-- [x] A) Ambos son elementos quimicos que el cuerpo necesita en pequenas cantidades; el hierro forma parte de la hemoglobina y el calcio de los huesos y dientes
+- [x] B) Ambos son elementos quimicos que el cuerpo necesita en pequenas cantidades; el hierro forma parte de la hemoglobina y el calcio de los huesos y dientes
   <!-- feedback: Correcto. Relaciona elementos quimicos con funciones vitales del cuerpo. -->
-- [ ] B) El hierro y el calcio son vitaminas que se disuelven en el agua
+- [ ] A) El hierro y el calcio son vitaminas que se disuelven en el agua
   <!-- feedback: Incorrecto. Son elementos quimicos, no vitaminas. -->
 - [ ] C) El cuerpo produce hierro y calcio por si mismo sin necesidad de alimentos
   <!-- feedback: Incorrecto. Estos elementos deben obtenerse de los alimentos. -->
@@ -126,13 +126,13 @@ El cuerpo humano necesita diversos elementos quimicos: el hierro forma parte de 
 Que concluye correctamente sobre la composicion del agua?
 
 ### Opciones
-- [x] A) El agua es un compuesto formado por atomos de dos elementos, hidrogeno y oxigeno, unidos en una proporcion fija
+- [x] D) El agua es un compuesto formado por atomos de dos elementos, hidrogeno y oxigeno, unidos en una proporcion fija
   <!-- feedback: Correcto. El agua es un compuesto de hidrogeno y oxigeno. -->
-- [ ] B) El agua es un elemento porque aparece en la tabla periodica
+- [ ] A) El agua es un elemento porque aparece en la tabla periodica
   <!-- feedback: Incorrecto. El agua es un compuesto, no un elemento. -->
-- [ ] C) El agua contiene solo oxigeno porque se puede respirar
+- [ ] B) El agua contiene solo oxigeno porque se puede respirar
   <!-- feedback: Incorrecto. El agua contiene hidrogeno y oxigeno; no se respira como el aire. -->
-- [ ] D) El agua es una mezcla que se separa a simple vista
+- [ ] C) El agua es una mezcla que se separa a simple vista
   <!-- feedback: Incorrecto. El agua es un compuesto con proporcion fija de sus elementos. -->
 
 ### Explicacion Pedagogica
@@ -149,13 +149,13 @@ Una sustancia compuesta, como el agua, esta formada por atomos de dos o mas elem
 Que analisis clasifica correctamente las tres sustancias?
 
 ### Opciones
-- [x] A) El oxigeno es un elemento, el agua es un compuesto y el agua con sal es una mezcla, porque la sal se puede separar del agua sin cambiar su composicion
+- [x] D) El oxigeno es un elemento, el agua es un compuesto y el agua con sal es una mezcla, porque la sal se puede separar del agua sin cambiar su composicion
   <!-- feedback: Correcto. Distingue elemento, compuesto y mezcla segun su composicion. -->
-- [ ] B) Las tres son elementos porque se pueden ver
+- [ ] A) Las tres son elementos porque se pueden ver
   <!-- feedback: Incorrecto. El agua y la mezcla no son elementos. -->
-- [ ] C) Las tres son mezclas porque contienen varios ingredientes
+- [ ] B) Las tres son mezclas porque contienen varios ingredientes
   <!-- feedback: Incorrecto. El oxigeno y el agua son sustancias puras. -->
-- [ ] D) El oxigeno es un compuesto y el agua es un elemento
+- [ ] C) El oxigeno es un compuesto y el agua es un elemento
   <!-- feedback: Incorrecto. Oxigeno es elemento y agua es compuesto. -->
 
 ### Explicacion Pedagogica
@@ -195,13 +195,13 @@ Cada elemento quimico posee propiedades caracteristicas, como la densidad, la re
 Que analisis explica por que los elementos de una misma columna tienen comportamiento similar?
 
 ### Opciones
-- [x] A) Porque comparten propiedades quimicas semejantes, ya que se agrupan segun caracteristicas comunes, como su tendencia a reaccionar de forma parecida
+- [x] D) Porque comparten propiedades quimicas semejantes, ya que se agrupan segun caracteristicas comunes, como su tendencia a reaccionar de forma parecida
   <!-- feedback: Correcto. Los elementos de un grupo comparten propiedades quimicas similares. -->
-- [ ] B) Porque tienen el mismo nombre y el mismo color
+- [ ] A) Porque tienen el mismo nombre y el mismo color
   <!-- feedback: Incorrecto. Cada elemento tiene su propio nombre y simbolo. -->
-- [ ] C) Porque la tabla los ordena por el numero de letras de su nombre
+- [ ] B) Porque la tabla los ordena por el numero de letras de su nombre
   <!-- feedback: Incorrecto. La tabla se ordena por numero atomico y propiedades. -->
-- [ ] D) Porque todos pesan exactamente lo mismo
+- [ ] C) Porque todos pesan exactamente lo mismo
   <!-- feedback: Incorrecto. Los elementos de un grupo tienen masas diferentes. -->
 
 ### Explicacion Pedagogica
@@ -241,11 +241,11 @@ Evaluar estas afirmaciones exige reconocer la diversidad de la materia: el atomo
 Que eleccion conviene y por que?
 
 ### Opciones
-- [x] A) Elegir el aluminio porque, por ser un elemento ligero y con una capa protectora natural, ofrece envases livianos y resistentes a la corrosion
+- [x] C) Elegir el aluminio porque, por ser un elemento ligero y con una capa protectora natural, ofrece envases livianos y resistentes a la corrosion
   <!-- feedback: Correcto. La eleccion se sustenta en las propiedades del elemento. -->
-- [ ] B) Elegir el hierro sin proteccion porque es el mas barato
+- [ ] A) Elegir el hierro sin proteccion porque es el mas barato
   <!-- feedback: Incorrecto. El hierro sin proteccion se oxida y afecta el producto. -->
-- [ ] C) Elegir cualquier material sin revisar sus propiedades
+- [ ] B) Elegir cualquier material sin revisar sus propiedades
   <!-- feedback: Incorrecto. La eleccion debe basarse en las propiedades del material. -->
 - [ ] D) Elegir un material que reaccione con la bebida
   <!-- feedback: Incorrecto. Un material reactivo contaminaria la bebida. -->

@@ -29,8 +29,8 @@ bundle_index: 1
 ¿Cómo se denomina técnicamente a una sucesión en la que la diferencia entre dos términos consecutivos es constante?
 
 ### Opciones
-- [x] A) Progresión aritmética <!-- feedback: Correcto. En una progresión aritmética, cada término es igual al anterior más una constante llamada diferencia. -->
-- [ ] B) Progresión geométrica <!-- feedback: En la geométrica, cada término se obtiene multiplicando el anterior por una razón constante. -->
+- [x] B) Progresión aritmética <!-- feedback: Correcto. En una progresión aritmética, cada término es igual al anterior más una constante llamada diferencia. -->
+- [ ] A) Progresión geométrica <!-- feedback: En la geométrica, cada término se obtiene multiplicando el anterior por una razón constante. -->
 - [ ] C) Sucesión recurrente de segundo orden <!-- feedback: Estas dependen de los dos términos anteriores, no necesariamente de una diferencia constante. -->
 - [ ] D) Serie armónica <!-- feedback: La serie armónica es la suma de los recíprocos de los números naturales, no tiene diferencia constante. -->
 
@@ -51,8 +51,8 @@ Si una sucesión geométrica tiene como primer término $a_1$ y razón $r$, ¿cu
 
 ### Opciones
 - [ ] A) $a_n = a_1 + (n-1) \cdot r$ <!-- feedback: Esta es la fórmula de una progresión aritmética, no geométrica. -->
-- [x] B) $a_n = a_1 \cdot r^{n-1}$ <!-- feedback: Correcto. Cada término se obtiene multiplicando el primero por la razón elevada a $n-1$. -->
-- [ ] C) $a_n = a_1 \cdot r^n$ <!-- feedback: Esta fórmula daría el término $a_{n+1}$ si empezamos en $a_1$. -->
+- [x] C) $a_n = a_1 \cdot r^{n-1}$ <!-- feedback: Correcto. Cada término se obtiene multiplicando el primero por la razón elevada a $n-1$. -->
+- [ ] B) $a_n = a_1 \cdot r^n$ <!-- feedback: Esta fórmula daría el término $a_{n+1}$ si empezamos en $a_1$. -->
 - [ ] D) $a_n = (a_1 \cdot r)^{n-1}$ <!-- feedback: El exponente solo debe afectar a la razón $r$. -->
 
 ### Explicacion Pedagogica
@@ -71,8 +71,8 @@ En las progresiones geométricas, el crecimiento es exponencial. El término $n$
 ¿Cuál es la condición necesaria para que una progresión geométrica de términos positivos sea decreciente?
 
 ### Opciones
-- [ ] A) Que la razón sea mayor que 1. <!-- feedback: Si la razón es mayor que 1, la progresión es creciente. -->
-- [x] B) Que la razón esté comprendida entre 0 y 1. <!-- feedback: Correcto. Multiplicar repetidamente por un valor entre 0 y 1 reduce el valor del término. -->
+- [ ] B) Que la razón sea mayor que 1. <!-- feedback: Si la razón es mayor que 1, la progresión es creciente. -->
+- [x] A) Que la razón esté comprendida entre 0 y 1. <!-- feedback: Correcto. Multiplicar repetidamente por un valor entre 0 y 1 reduce el valor del término. -->
 - [ ] C) Que la razón sea negativa. <!-- feedback: Si la razón es negativa, los términos alternan de signo, no es estrictamente decreciente. -->
 - [ ] D) Que el primer término sea negativo. <!-- feedback: El enunciado especifica términos positivos. -->
 
@@ -92,8 +92,8 @@ Para sucesiones de términos positivos, el comportamiento depende de la razón $
 Si inicialmente hay 100 bacterias, ¿qué tipo de sucesión representa la cantidad de bacterias al cabo de $n$ horas?
 
 ### Opciones
-- [ ] A) Progresión aritmética con $d = 2$. <!-- feedback: La duplicación es un proceso multiplicativo, no aditivo. -->
-- [x] B) Progresión geométrica con $r = 2$. <!-- feedback: Correcto. "Duplicar" implica multiplicar por 2 en cada paso. -->
+- [ ] B) Progresión aritmética con $d = 2$. <!-- feedback: La duplicación es un proceso multiplicativo, no aditivo. -->
+- [x] A) Progresión geométrica con $r = 2$. <!-- feedback: Correcto. "Duplicar" implica multiplicar por 2 en cada paso. -->
 - [ ] C) Sucesión constante. <!-- feedback: La población cambia, por lo que no es constante. -->
 - [ ] D) Progresión aritmética con $d = 100$. <!-- feedback: Esto significaría que nacen 100 bacterias fijas cada hora, independientemente de cuántas haya. -->
 
@@ -135,8 +135,8 @@ Usamos la fórmula del término general de la progresión aritmética: $a_n = a_
 
 ### Opciones
 - [ ] A) Nivel 9 <!-- feedback: Cálculo erróneo de la posición. -->
-- [x] B) Nivel 10 <!-- feedback: Correcto. $2 = 20 + (n-1)(-2) \Rightarrow -18 = -2(n-1) \Rightarrow 9 = n-1 \Rightarrow n = 10$. -->
-- [ ] C) Nivel 11 <!-- feedback: Error al despejar $n$. -->
+- [x] C) Nivel 10 <!-- feedback: Correcto. $2 = 20 + (n-1)(-2) \Rightarrow -18 = -2(n-1) \Rightarrow 9 = n-1 \Rightarrow n = 10$. -->
+- [ ] B) Nivel 11 <!-- feedback: Error al despejar $n$. -->
 - [ ] D) Nivel 18 <!-- feedback: Resultado incoherente con la tasa de descenso. -->
 
 ### Explicacion Pedagogica
@@ -155,8 +155,8 @@ Planteamos la ecuación $a_n = a_1 + (n-1)d$ con $a_1=20$, $d=-2$ y $a_n=2$, y d
 ¿Qué distancia correrá el tercer día de entrenamiento?
 
 ### Opciones
-- [ ] A) 12 km <!-- feedback: Esto sería una progresión aritmética sumando 1 km cada día. -->
-- [x] B) 12,1 km <!-- feedback: Correcto. Día 1: 10. Día 2: $10 \cdot 1,1 = 11$. Día 3: $11 \cdot 1,1 = 12,1$. -->
+- [ ] B) 12 km <!-- feedback: Esto sería una progresión aritmética sumando 1 km cada día. -->
+- [x] A) 12,1 km <!-- feedback: Correcto. Día 1: 10. Día 2: $10 \cdot 1,1 = 11$. Día 3: $11 \cdot 1,1 = 12,1$. -->
 - [ ] C) 13,31 km <!-- feedback: Este es el resultado para el cuarto día. -->
 - [ ] D) 11 km <!-- feedback: Este es el resultado para el segundo día. -->
 
@@ -198,8 +198,8 @@ El límite de un cociente de polinomios del mismo grado es el cociente de sus co
 
 ### Opciones
 - [ ] A) 220 € <!-- feedback: Esto ignora el interés compuesto sobre el primer aumento. -->
-- [x] B) 220,50 € <!-- feedback: Correcto. $200 \cdot (1,05)^2 = 200 \cdot 1,1025 = 220,5$. -->
-- [ ] C) 210 € <!-- feedback: Este es el valor tras el primer año únicamente. -->
+- [x] C) 220,50 € <!-- feedback: Correcto. $200 \cdot (1,05)^2 = 200 \cdot 1,1025 = 220,5$. -->
+- [ ] B) 210 € <!-- feedback: Este es el valor tras el primer año únicamente. -->
 - [ ] D) 231,52 € <!-- feedback: Este es el valor tras 3 años. -->
 
 ### Explicacion Pedagogica
@@ -219,8 +219,8 @@ Utilizando la fórmula de la suma de una progresión aritmética, ¿cuál es el 
 
 ### Opciones
 - [ ] A) 100 <!-- feedback: Esta es la suma de los 10 primeros impares. -->
-- [x] B) 110 <!-- feedback: Correcto. $S_{10} = \frac{a_1 + a_{10}}{2} \cdot 10 = \frac{2 + 20}{2} \cdot 10 = 11 \cdot 10 = 110$. -->
-- [ ] C) 55 <!-- feedback: Esta es la suma de los números del 1 al 10. -->
+- [x] C) 110 <!-- feedback: Correcto. $S_{10} = \frac{a_1 + a_{10}}{2} \cdot 10 = \frac{2 + 20}{2} \cdot 10 = 11 \cdot 10 = 110$. -->
+- [ ] B) 55 <!-- feedback: Esta es la suma de los números del 1 al 10. -->
 - [ ] D) 210 <!-- feedback: Cálculo erróneo de los términos. -->
 
 ### Explicacion Pedagogica
@@ -240,9 +240,9 @@ La suma de los $n$ primeros términos de una progresión aritmética es $S_n = \
 
 ### Opciones
 - [ ] A) 13 <!-- feedback: Este es el séptimo término. -->
-- [x] B) 21 <!-- feedback: Correcto. La serie es 1, 1, 2, 3, 5, 8, 13, 21. -->
-- [ ] C) 34 <!-- feedback: Este es el noveno término. -->
-- [ ] D) 15 <!-- feedback: Fibonacci no es una progresión aritmética. -->
+- [x] D) 21 <!-- feedback: Correcto. La serie es 1, 1, 2, 3, 5, 8, 13, 21. -->
+- [ ] B) 34 <!-- feedback: Este es el noveno término. -->
+- [ ] C) 15 <!-- feedback: Fibonacci no es una progresión aritmética. -->
 
 ### Explicacion Pedagogica
 En la sucesión de Fibonacci, cada término es la suma de los dos anteriores ($a_n = a_{n-1} + a_{n-2}$). Es un ejemplo clásico de sucesión recurrente.
@@ -282,9 +282,9 @@ La suma de los términos de una progresión geométrica infinita con $-1 < r < 1
 
 ### Opciones
 - [ ] A) 5,33 <!-- feedback: Error al contar el número total de términos (debe haber 5 en total). -->
-- [x] B) 4 <!-- feedback: Correcto. Con 3 medios, hay $n=5$ términos. $20 = 4 + (5-1)d \Rightarrow 16 = 4d \Rightarrow d = 4$. -->
-- [ ] C) 5 <!-- feedback: Se dividió 20-4 entre 3 en lugar de 4. -->
-- [ ] D) 3 <!-- feedback: Cálculo erróneo de la diferencia. -->
+- [x] D) 4 <!-- feedback: Correcto. Con 3 medios, hay $n=5$ términos. $20 = 4 + (5-1)d \Rightarrow 16 = 4d \Rightarrow d = 4$. -->
+- [ ] B) 5 <!-- feedback: Se dividió 20-4 entre 3 en lugar de 4. -->
+- [ ] C) 3 <!-- feedback: Cálculo erróneo de la diferencia. -->
 
 ### Explicacion Pedagogica
 Interpolar $k$ medios entre $a$ y $b$ significa crear una progresión de $k+2$ términos. La diferencia se halla con $d = \frac{b-a}{k+1}$.
@@ -302,8 +302,8 @@ Interpolar $k$ medios entre $a$ y $b$ significa crear una progresión de $k+2$ t
 ¿Qué expresión representa el capital acumulado tras $t$ años?
 
 ### Opciones
-- [ ] A) $1000 \cdot 0,04^t$ <!-- feedback: La base debe ser $1 + i$, no solo el interés. -->
-- [x] B) $1000 \cdot (1,04)^t$ <!-- feedback: Correcto. Es una progresión geométrica donde la razón es $1 + \text{rédito}$. -->
+- [ ] B) $1000 \cdot 0,04^t$ <!-- feedback: La base debe ser $1 + i$, no solo el interés. -->
+- [x] A) $1000 \cdot (1,04)^t$ <!-- feedback: Correcto. Es una progresión geométrica donde la razón es $1 + \text{rédito}$. -->
 - [ ] C) $1000 + 40t$ <!-- feedback: Esto representaría interés simple, no compuesto. -->
 - [ ] D) $1000 \cdot (0,96)^t$ <!-- feedback: Esto representaría una pérdida de valor del 4% anual. -->
 
@@ -325,8 +325,8 @@ El interés compuesto es la aplicación práctica más directa de las progresion
 ### Opciones
 - [ ] A) Convergente y creciente. <!-- feedback: Los términos alternan y crecen en valor absoluto, no converge. -->
 - [ ] B) Divergente y monótona. <!-- feedback: Al alternar signos, no es monótona. -->
-- [x] C) Oscilante y divergente. <!-- feedback: Correcto. Al cambiar de signo y aumentar en valor absoluto, no tiende a un único valor ni a un único infinito. -->
-- [ ] D) Acotada y convergente a 0. <!-- feedback: El valor absoluto tiende a infinito, no está acotada. -->
+- [x] D) Oscilante y divergente. <!-- feedback: Correcto. Al cambiar de signo y aumentar en valor absoluto, no tiende a un único valor ni a un único infinito. -->
+- [ ] C) Acotada y convergente a 0. <!-- feedback: El valor absoluto tiende a infinito, no está acotada. -->
 
 ### Explicacion Pedagogica
 Una sucesión es oscilante si no es convergente ni tiende a $+\infty$ o $-\infty$. La presencia del factor $(-1)^n$ suele generar comportamientos alternantes.
@@ -366,8 +366,8 @@ Halla el primer término ($a_1$) de dicha progresión.
 
 ### Opciones
 - [ ] A) 2 <!-- feedback: Error al despejar la razón o el primer término. -->
-- [x] B) 3 <!-- feedback: Correcto. $a_6 = a_3 \cdot r^3 \Rightarrow 96 = 12 \cdot r^3 \Rightarrow 8 = r^3 \Rightarrow r = 2$. Entonces $12 = a_1 \cdot 2^2 \Rightarrow a_1 = 3$. -->
-- [ ] C) 4 <!-- feedback: Error en el cálculo de la razón. -->
+- [x] C) 3 <!-- feedback: Correcto. $a_6 = a_3 \cdot r^3 \Rightarrow 96 = 12 \cdot r^3 \Rightarrow 8 = r^3 \Rightarrow r = 2$. Entonces $12 = a_1 \cdot 2^2 \Rightarrow a_1 = 3$. -->
+- [ ] B) 4 <!-- feedback: Error en el cálculo de la razón. -->
 - [ ] D) 6 <!-- feedback: Valor incoherente con los datos. -->
 
 ### Explicacion Pedagogica
@@ -387,8 +387,8 @@ Utilizamos la relación entre términos de una progresión geométrica: $a_n = a
 
 ### Opciones
 - [ ] A) 1 <!-- feedback: Aunque 1/n tiende a 0, el exponente crece a infinito; es una indeterminación $1^\infty$. -->
-- [x] B) El número $e$ <!-- feedback: Correcto. Esta es una de las definiciones fundamentales del número de Euler ($e \approx 2,71828$). -->
-- [ ] C) $\pi$ <!-- feedback: No tiene relación directa con esta estructura de sucesión. -->
+- [x] C) El número $e$ <!-- feedback: Correcto. Esta es una de las definiciones fundamentales del número de Euler ($e \approx 2,71828$). -->
+- [ ] B) $\pi$ <!-- feedback: No tiene relación directa con esta estructura de sucesión. -->
 - [ ] D) Infinito <!-- feedback: La sucesión está acotada superiormente por 3. -->
 
 ### Explicacion Pedagogica
@@ -430,8 +430,8 @@ Modelamos el problema como una progresión geométrica donde $a_0 = 10$ (altura 
 ### Opciones
 - [ ] A) La suma tiende a 0. <!-- feedback: Solo es 0 si $n$ es par. -->
 - [ ] B) La suma tiende a 1. <!-- feedback: Solo es 1 si $n$ es impar. -->
-- [x] C) La suma oscila entre 0 y 1. <!-- feedback: Correcto. $S_1=1, S_2=0, S_3=1, S_4=0...$ La serie no tiene un límite único. -->
-- [ ] D) La suma diverge a infinito. <!-- feedback: Los términos se compensan, impidiendo que la suma crezca sin límite. -->
+- [x] D) La suma oscila entre 0 y 1. <!-- feedback: Correcto. $S_1=1, S_2=0, S_3=1, S_4=0...$ La serie no tiene un límite único. -->
+- [ ] C) La suma diverge a infinito. <!-- feedback: Los términos se compensan, impidiendo que la suma crezca sin límite. -->
 
 ### Explicacion Pedagogica
 Este es un ejemplo de serie divergente por oscilación. Muestra que para que una serie geométrica tenga suma infinita, es indispensable que $|r| < 1$.

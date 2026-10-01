@@ -31,9 +31,9 @@ Bundle de 12 preguntas sobre el ciclo del agua urbana, el tratamiento de agua po
 ### Enunciado
 Cuál es el río principal que atraviesa la ciudad de Bogotá y desemboca en el río Magdalena por el municipio de Girardot?
 ### Opciones
-- [x] A) Río Bogotá.
+- [x] B) Río Bogotá.
   <!-- feedback: Correcto. El río Bogotá nace en el Páramo de Guacheneque y recorre la Sabana antes de entregar sus aguas al río Magdalena. -->
-- [ ] B) Río Cauca.
+- [ ] A) Río Cauca.
   <!-- feedback: Incorrecto. El río Cauca recorre el occidente colombiano y no pasa por Bogotá. -->
 - [ ] C) Río Amazonas.
   <!-- feedback: Incorrecto. El Amazonas es la principal arteria fluvial del sur del continente, no de la Sabana. -->
@@ -51,13 +51,13 @@ El río Bogotá recorre unos 380 km desde el Páramo de Guacheneque hasta su des
 ### Enunciado
 Qué se entiende por potabilización del agua en el contexto de un acueducto como el de Bogotá, Cali o Medellín?
 ### Opciones
-- [x] A) El conjunto de procesos físicos y químicos para volver el agua cruda apta para el consumo humano.
+- [x] D) El conjunto de procesos físicos y químicos para volver el agua cruda apta para el consumo humano.
   <!-- feedback: Correcto. La potabilización incluye captación, coagulación, sedimentación, filtración, desinfección y distribución. -->
-- [ ] B) El proceso industrial para embotellar agua mineral en botella de plástico.
+- [ ] A) El proceso industrial para embotellar agua mineral en botella de plástico.
   <!-- feedback: Incorrecto. El embotellado es una forma de comercialización, no el significado de potabilización. -->
-- [ ] C) La técnica para eliminar por completo todos los minerales del agua.
+- [ ] B) La técnica para eliminar por completo todos los minerales del agua.
   <!-- feedback: Incorrecto. La potabilización no requiere eliminar todos los minerales, solo los contaminantes peligrosos. -->
-- [ ] D) La forma de ahorrar agua cerrando las llaves del acueducto.
+- [ ] C) La forma de ahorrar agua cerrando las llaves del acueducto.
   <!-- feedback: Incorrecto. Ahorrar agua es una práctica cultural; la potabilización es un proceso técnico. -->
 ### Explicacion Pedagogica
 La potabilización convierte agua cruda de ríos, embalses o pozos en agua segura para consumo humano. Comprende varias etapas que retiran sólidos, regulan pH, eliminan microorganismos y ajustan la calidad físico-química del recurso hídrico.
@@ -71,13 +71,13 @@ La potabilización convierte agua cruda de ríos, embalses o pozos en agua segur
 ### Enunciado
 Cuál de los siguientes NO es un contaminante típico del agua del río Bogotá y por tanto no reduce la calidad del recurso hídrico que llega al acueducto?
 ### Opciones
-- [x] A) El oxígeno disuelto en concentraciones altas y estables.
+- [x] D) El oxígeno disuelto en concentraciones altas y estables.
   <!-- feedback: Correcto. El oxígeno disuelto alto es indicador de agua sana; no es un contaminante sino un signo de buena calidad. -->
-- [ ] B) Las aguas residuales industriales sin tratamiento.
+- [ ] A) Las aguas residuales industriales sin tratamiento.
   <!-- feedback: Incorrecto. Los vertimientos industriales aportan metales pesados y compuestos orgánicos tóxicos. -->
-- [ ] C) Las aguas negras y grises de origen doméstico.
+- [ ] B) Las aguas negras y grises de origen doméstico.
   <!-- feedback: Incorrecto. Las aguas negras aportan microorganismos patógenos y alta carga orgánica. -->
-- [ ] D) Los lixiviados de botaderos a cielo abierto.
+- [ ] C) Los lixiviados de botaderos a cielo abierto.
   <!-- feedback: Incorrecto. Los lixiviados contienen metales pesados y compuestos químicos que contaminan el agua. -->
 ### Explicacion Pedagogica
 La calidad del agua depende de variables como oxígeno disuelto, turbidez, pH y presencia de microorganismos. El oxígeno disuelto alto es un indicador positivo: a mayor oxígeno, mejor aireación y menor probabilidad de contaminación orgánica.
@@ -91,11 +91,11 @@ La calidad del agua depende de variables como oxígeno disuelto, turbidez, pH y 
 ### Enunciado
 Si una familia de 4 personas en Medellín consume 24.000 litros de agua al mes y se distribuye de manera uniforme entre sus integrantes, cuánto corresponde aproximadamente a cada persona por día?
 ### Opciones
-- [x] A) Aproximadamente 200 litros diarios.
+- [x] C) Aproximadamente 200 litros diarios.
   <!-- feedback: Correcto. 24.000 L / 4 personas / 30 días = 200 L/persona/día, valor cercano a la recomendación de la OMS para entornos urbanos. -->
-- [ ] B) Aproximadamente 6.000 litros diarios.
+- [ ] A) Aproximadamente 6.000 litros diarios.
   <!-- feedback: Incorrecto. Resultaría de dividir el consumo mensual entre 4 y no dividir entre los 30 días. -->
-- [ ] C) Aproximadamente 24 litros diarios.
+- [ ] B) Aproximadamente 24 litros diarios.
   <!-- feedback: Incorrecto. Es el valor mensual dividido por 1.000, no aplica al consumo diario real por persona. -->
 - [ ] D) Aproximadamente 800 litros diarios.
   <!-- feedback: Incorrecto. Resultaría de multiplicar de manera incorrecta las cifras del problema. -->
@@ -151,11 +151,11 @@ La desinfección es la barrera microbiológica final antes de la distribución. 
 ### Enunciado
 Por qué se considera al ecosistema de páramo como una fuente estratégica de agua dulce para los acueductos de ciudades colombianas como Bogotá?
 ### Opciones
-- [x] A) Porque actúa como regulador hídrico natural, almacenando agua en sus suelos y liberándola lentamente durante todo el año.
+- [x] C) Porque actúa como regulador hídrico natural, almacenando agua en sus suelos y liberándola lentamente durante todo el año.
   <!-- feedback: Correcto. La vegetación y los suelos de páramo retienen agua y la entregan poco a poco a las quebradas que surten los acueductos. -->
-- [ ] B) Porque el páramo produce agua mediante reacciones químicas con la atmósfera.
+- [ ] A) Porque el páramo produce agua mediante reacciones químicas con la atmósfera.
   <!-- feedback: Incorrecto. El agua del páramo proviene de la lluvia y la condensación, no de reacciones atmosféricas nuevas. -->
-- [ ] C) Porque el agua del páramo se congela en invierno y se derrite en verano.
+- [ ] B) Porque el agua del páramo se congela en invierno y se derrite en verano.
   <!-- feedback: Incorrecto. En los páramos colombianos la nieve es permanente solo en pequeños glaciares que ya casi han desaparecido. -->
 - [ ] D) Porque el agua del páramo se purifica pasando por arena gruesa solamente.
   <!-- feedback: Incorrecto. La calidad del agua de páramo se debe a su ecosistema completo y a su capacidad reguladora. -->
@@ -171,13 +171,13 @@ Los páramos son humedales altoandinos con suelos orgánicos esponjosos que alma
 ### Enunciado
 Por qué el tramo bajo del río Bogotá, cerca a su desembocadura en el río Magdalena, presenta niveles de contaminación más altos que el tramo alto cercano a su nacimiento en el páramo?
 ### Opciones
-- [x] A) Porque a lo largo del recorrido recibe vertimientos urbanos, industriales y agrícolas que se van acumulando en el cauce.
+- [x] D) Porque a lo largo del recorrido recibe vertimientos urbanos, industriales y agrícolas que se van acumulando en el cauce.
   <!-- feedback: Correcto. Aguas abajo se concentran las descargas de municipios, industrias y cultivos; la capacidad de dilución se reduce. -->
-- [ ] B) Porque el agua se evapora totalmente antes de llegar al Magdalena.
+- [ ] A) Porque el agua se evapora totalmente antes de llegar al Magdalena.
   <!-- feedback: Incorrecto. La evaporación reduce caudal, pero no explica el aumento de contaminantes puntuales. -->
-- [ ] C) Porque el agua cambia completamente de composición al cruzar la sabana.
+- [ ] B) Porque el agua cambia completamente de composición al cruzar la sabana.
   <!-- feedback: Incorrecto. La composición cambia por las descargas, no por un fenómeno espontáneo en la sabana. -->
-- [ ] D) Porque el río cambia de nombre al llegar al Magdalena.
+- [ ] C) Porque el río cambia de nombre al llegar al Magdalena.
   <!-- feedback: Incorrecto. El río Bogotá mantiene su nombre hasta unirse con el Magdalena, no por ello "se limpia". -->
 ### Explicacion Pedagogica
 En la mayoría de los ríos urbanos, la calidad del agua empeora aguas abajo porque reciben más descargas que las que la capacidad de dilución natural puede asimilar. Recuperar la calidad requiere tratar tanto los vertimientos puntuales como los difusos (escorrentía agrícola y urbana).
@@ -191,9 +191,9 @@ En la mayoría de los ríos urbanos, la calidad del agua empeora aguas abajo por
 ### Enunciado
 Cuál es la relación más importante entre la conservación del Páramo de Sumapaz y la disponibilidad de agua potable en los hogares del sur de Bogotá?
 ### Opciones
-- [x] A) El Páramo de Sumapaz alimenta quebradas y ríos como el Tunjuelo, que luego son captados y tratados para distribuir a la ciudad.
+- [x] B) El Páramo de Sumapaz alimenta quebradas y ríos como el Tunjuelo, que luego son captados y tratados para distribuir a la ciudad.
   <!-- feedback: Correcto. Sin páramos saludables, las fuentes que surten los acueductos se agotan en verano o se contaminan con sedimentos. -->
-- [ ] B) No hay relación porque el agua de Bogotá proviene únicamente del Magdalena.
+- [ ] A) No hay relación porque el agua de Bogotá proviene únicamente del Magdalena.
   <!-- feedback: Incorrecto. El agua de Bogotá se capta del Páramo de Chingaza y del sistema Chingaza-Sumapaz, principalmente. -->
 - [ ] C) El páramo produce electricidad para las plantas de tratamiento.
   <!-- feedback: Incorrecto. La función eléctrica del páramo es nula; su papel es hidrológico y ecológico. -->
@@ -211,13 +211,13 @@ Los páramos son fábricas de agua: sus suelos retienen humedad y la liberan len
 ### Enunciado
 Por qué generalmente el costo de tratamiento del agua captada en un nacimiento de páramo es menor que el de un río que recibe aguas residuales municipales?
 ### Opciones
-- [x] A) Porque el agua de páramo llega con baja turbidez, baja carga orgánica y pocos microorganismos, reduciendo reactivos y etapas de proceso.
+- [x] D) Porque el agua de páramo llega con baja turbidez, baja carga orgánica y pocos microorganismos, reduciendo reactivos y etapas de proceso.
   <!-- feedback: Correcto. Un agua más limpia de origen requiere menos coagulante, menos limpieza de filtros y menor dosis de cloro. -->
-- [ ] B) Porque el agua del río contaminado es más barata de captar físicamente.
+- [ ] A) Porque el agua del río contaminado es más barata de captar físicamente.
   <!-- feedback: Incorrecto. La captación no difiere tanto; el costo mayor está en el tratamiento adicional necesario. -->
-- [ ] C) Porque el agua del páramo se evapora antes de llegar a la planta.
+- [ ] B) Porque el agua del páramo se evapora antes de llegar a la planta.
   <!-- feedback: Incorrecto. La evaporación reduciría caudal, no haría el agua "más limpia" en el tratamiento. -->
-- [ ] D) Porque el color verde del agua de río es señal de calidad y reduce costos.
+- [ ] C) Porque el color verde del agua de río es señal de calidad y reduce costos.
   <!-- feedback: Incorrecto. El agua verde suele indicar algas y exceso de nutrientes, no calidad. -->
 ### Explicacion Pedagogica
 El principio "más vale prevenir que potabilizar" se cumple con creces al cuidar las fuentes. El agua de páramo tiene baja turbidez y bajo contenido orgánico, por lo que requiere menos reactivos y menos energía que un agua de río contaminada con descargas urbanas.
@@ -231,11 +231,11 @@ El principio "más vale prevenir que potabilizar" se cumple con creces al cuidar
 ### Enunciado
 Evalúe la propuesta de talar el bosque de galería del río que abastece el acueducto veredal para extender la frontera agrícola, considerando la calidad futura del agua potable.
 ### Opciones
-- [x] A) Es inadecuada: la deforestación de la ribera aumentaría la erosión, la turbidez del agua y la entrada de agroquímicos al cauce.
+- [x] C) Es inadecuada: la deforestación de la ribera aumentaría la erosión, la turbidez del agua y la entrada de agroquímicos al cauce.
   <!-- feedback: Correcto. El bosque de galería protege el cauce: lo sombrea, filtra contaminantes y reduce el arrastre de sedimentos a la quebrada. -->
-- [ ] B) Es excelente porque ampliar la frontera agrícola no afecta la calidad del agua.
+- [ ] A) Es excelente porque ampliar la frontera agrícola no afecta la calidad del agua.
   <!-- feedback: Incorrecto. Toda intervención en la ribera modifica sedimentos, nutrientes y químicos al agua. -->
-- [ ] C) Solo afecta a la fauna silvestre del sector.
+- [ ] B) Solo afecta a la fauna silvestre del sector.
   <!-- feedback: Incorrecto. El impacto va mucho más allá de la fauna: toca el suelo, el agua y el aire locales. -->
 - [ ] D) No tiene ninguna relación con el agua del acueducto.
   <!-- feedback: Incorrecto. El bosque ribereño es el primer filtro natural del agua que luego será potabilizada. -->

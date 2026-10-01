@@ -32,11 +32,11 @@ Este bundle contiene 12 preguntas sobre **elipse-elementos-ecuacion** para grado
 ### Enunciado
 ¿Cuál es la ecuación canónica de una elipse con centro en el origen y semiejes $a$ y $b$, con $a > b$?
 ### Opciones
-- [x] A) $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$
+- [x] C) $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$
   <!-- feedback: Correcto. Con $a > b$, el eje mayor es horizontal. -->
-- [ ] B) $\frac{x^2}{b^2} + \frac{y^2}{a^2} = 1$
+- [ ] A) $\frac{x^2}{b^2} + \frac{y^2}{a^2} = 1$
   <!-- feedback: Incorrecto. Eso corresponde a un eje mayor vertical. -->
-- [ ] C) $\frac{x^2}{a^2} - \frac{y^2}{b^2} = 1$
+- [ ] B) $\frac{x^2}{a^2} - \frac{y^2}{b^2} = 1$
   <!-- feedback: Incorrecto. Esa es la ecuación de una hipérbola. -->
 - [ ] D) $x^2 + y^2 = a^2$
   <!-- feedback: Incorrecto. Esa es una circunferencia, no una elipse. -->
@@ -52,9 +52,9 @@ La elipse canónica con eje mayor horizontal tiene ecuación $\frac{x^2}{a^2} + 
 ### Enunciado
 ¿Cuál es el valor de $a$ y de $b$ en la elipse?
 ### Opciones
-- [x] A) $a = 5$ y $b = 4$
+- [x] B) $a = 5$ y $b = 4$
   <!-- feedback: Correcto. $a^2 = 25$ y $b^2 = 16$, por lo que $a = 5$ y $b = 4$. -->
-- [ ] B) $a = 25$ y $b = 16$
+- [ ] A) $a = 25$ y $b = 16$
   <!-- feedback: Incorrecto. Esos son los cuadrados de los semiejes. -->
 - [ ] C) $a = 4$ y $b = 5$
   <!-- feedback: Incorrecto. El semieje mayor es $5$, asociado a $x^2$. -->
@@ -72,13 +72,13 @@ En $\frac{x^2}{25} + \frac{y^2}{16} = 1$, $a^2 = 25$ y $b^2 = 16$, luego $a = 5$
 ### Enunciado
 ¿Cuál es la relación entre $a$, $b$ y $c$ (distancia del centro al foco) en una elipse?
 ### Opciones
-- [x] A) $c^2 = a^2 - b^2$
+- [x] D) $c^2 = a^2 - b^2$
   <!-- feedback: Correcto. La distancia focal cumple $c^2 = a^2 - b^2$. -->
-- [ ] B) $c^2 = a^2 + b^2$
+- [ ] A) $c^2 = a^2 + b^2$
   <!-- feedback: Incorrecto. Eso corresponde a una hipérbola. -->
-- [ ] C) $c = a + b$
+- [ ] B) $c = a + b$
   <!-- feedback: Incorrecto. La relación no es aditiva. -->
-- [ ] D) $c = \frac{a}{b}$
+- [ ] C) $c = \frac{a}{b}$
   <!-- feedback: Incorrecto. Esa no es la relación correcta. -->
 ### Explicacion Pedagogica
 En una elipse, $c^2 = a^2 - b^2$, donde $c$ es la distancia del centro a cada foco.
@@ -92,11 +92,11 @@ En una elipse, $c^2 = a^2 - b^2$, donde $c$ es la distancia del centro a cada fo
 ### Enunciado
 ¿Cuáles son los focos de la elipse?
 ### Opciones
-- [x] A) $(\pm 4, 0)$
+- [x] C) $(\pm 4, 0)$
   <!-- feedback: Correcto. $c^2 = 25 - 9 = 16$, luego $c = 4$; focos en $(\pm 4, 0)$. -->
-- [ ] B) $(0, \pm 4)$
+- [ ] A) $(0, \pm 4)$
   <!-- feedback: Incorrecto. El eje mayor es horizontal, los focos están sobre el eje $x$. -->
-- [ ] C) $(\pm 5, 0)$
+- [ ] B) $(\pm 5, 0)$
   <!-- feedback: Incorrecto. Esos son los vértices, no los focos. -->
 - [ ] D) $(\pm 3, 0)$
   <!-- feedback: Incorrecto. $3$ es el semieje menor. -->
@@ -132,11 +132,11 @@ Con $a = 6$ y $b = 4$: $a^2 = 36$ y $b^2 = 16$. La ecuación es $\frac{x^2}{36} 
 ### Enunciado
 ¿Cuál es la excentricidad de la elipse?
 ### Opciones
-- [x] A) $0.8$
+- [x] C) $0.8$
   <!-- feedback: Correcto. $c^2 = 100 - 36 = 64$, $c = 8$; $e = \frac{c}{a} = \frac{8}{10} = 0.8$. -->
-- [ ] B) $0.6$
+- [ ] A) $0.6$
   <!-- feedback: Incorrecto. $0.6$ sería $\frac{b}{a}$ o el cálculo con datos erróneos. -->
-- [ ] C) $0.36$
+- [ ] B) $0.36$
   <!-- feedback: Incorrecto. Confundiste con $b^2$. -->
 - [ ] D) $0.64$
   <!-- feedback: Incorrecto. Es el valor de $c^2/a^2$, no de $e$. -->
@@ -152,9 +152,9 @@ $c = \sqrt{a^2 - b^2} = \sqrt{100 - 36} = 8$. La excentricidad es $e = \frac{c}{
 ### Enunciado
 ¿Cuál es el centro de la elipse?
 ### Opciones
-- [x] A) $(2, -3)$
+- [x] B) $(2, -3)$
   <!-- feedback: Correcto. El centro es $(h, k) = (2, -3)$. -->
-- [ ] B) $(-2, 3)$
+- [ ] A) $(-2, 3)$
   <!-- feedback: Incorrecto. Los signos están invertidos. -->
 - [ ] C) $(2, 3)$
   <!-- feedback: Incorrecto. La ordenada del centro es $-3$. -->
@@ -172,13 +172,13 @@ La forma $(x - h)^2/a^2 + (y - k)^2/b^2 = 1$ tiene centro en $(h, k)$. Aquí es 
 ### Enunciado
 ¿Cuál es la ecuación de la elipse?
 ### Opciones
-- [x] A) $\frac{x^2}{169} + \frac{y^2}{144} = 1$
+- [x] D) $\frac{x^2}{169} + \frac{y^2}{144} = 1$
   <!-- feedback: Correcto. $a = 13$ y $b^2 = a^2 - c^2 = 169 - 25 = 144$. -->
-- [ ] B) $\frac{x^2}{144} + \frac{y^2}{169} = 1$
+- [ ] A) $\frac{x^2}{144} + \frac{y^2}{169} = 1$
   <!-- feedback: Incorrecto. El eje mayor es horizontal, asociado a $x^2$. -->
-- [ ] C) $\frac{x^2}{169} + \frac{y^2}{25} = 1$
+- [ ] B) $\frac{x^2}{169} + \frac{y^2}{25} = 1$
   <!-- feedback: Incorrecto. $b^2$ no es $c^2$; usa $b^2 = a^2 - c^2$. -->
-- [ ] D) $\frac{x^2}{25} + \frac{y^2}{169} = 1$
+- [ ] C) $\frac{x^2}{25} + \frac{y^2}{169} = 1$
   <!-- feedback: Incorrecto. Confundiste los ejes. -->
 ### Explicacion Pedagogica
 Con $c = 5$ y $a = 13$: $b^2 = a^2 - c^2 = 169 - 25 = 144$. Ecuación: $\frac{x^2}{169} + \frac{y^2}{144} = 1$.
@@ -192,13 +192,13 @@ Con $c = 5$ y $a = 13$: $b^2 = a^2 - c^2 = 169 - 25 = 144$. Ecuación: $\frac{x^
 ### Enunciado
 ¿Cuál es el semieje menor $b$?
 ### Opciones
-- [x] A) $8$
+- [x] D) $8$
   <!-- feedback: Correcto. $c = 0.6 \cdot 10 = 6$; $b = \sqrt{100 - 36} = 8$. -->
-- [ ] B) $6$
+- [ ] A) $6$
   <!-- feedback: Incorrecto. $6$ es la distancia focal $c$. -->
-- [ ] C) $4$
+- [ ] B) $4$
   <!-- feedback: Incorrecto. Subestimaste el valor de $b$. -->
-- [ ] D) $10$
+- [ ] C) $10$
   <!-- feedback: Incorrecto. Ese es el semieje mayor. -->
 ### Explicacion Pedagogica
 $c = ea = 0.6 \cdot 10 = 6$. Luego $b^2 = a^2 - c^2 = 100 - 36 = 64$, por lo que $b = 8$.
@@ -212,11 +212,11 @@ $c = ea = 0.6 \cdot 10 = 6$. Luego $b^2 = a^2 - c^2 = 100 - 36 = 64$, por lo que
 ### Enunciado
 ¿Cuál es el eje mayor de la elipse?
 ### Opciones
-- [x] A) Vertical, con longitud $6$.
+- [x] C) Vertical, con longitud $6$.
   <!-- feedback: Correcto. Dividiendo entre $36$: $\frac{x^2}{4} + \frac{y^2}{9} = 1$; el semieje mayor es $3$, longitud $6$. -->
-- [ ] B) Horizontal, con longitud $6$.
+- [ ] A) Horizontal, con longitud $6$.
   <!-- feedback: Incorrecto. $9 > 4$ en el denominador, el eje mayor es vertical. -->
-- [ ] C) Horizontal, con longitud $4$.
+- [ ] B) Horizontal, con longitud $4$.
   <!-- feedback: Incorrecto. El eje mayor mide $2a = 6$. -->
 - [ ] D) Vertical, con longitud $4$.
   <!-- feedback: Incorrecto. El semieje mayor es $3$, no $2$. -->
@@ -232,9 +232,9 @@ Dividiendo entre $36$: $\frac{x^2}{4} + \frac{y^2}{9} = 1$. Como $9 > 4$, el sem
 ### Enunciado
 ¿Cuál de las dos elipses es más redonda?
 ### Opciones
-- [x] A) $E_1$, porque su excentricidad es menor.
+- [x] B) $E_1$, porque su excentricidad es menor.
   <!-- feedback: Correcto. $e_1 = \sqrt{1 - 24/25} = 0.2$ y $e_2 = \sqrt{1 - 9/25} = 0.8$; menor excentricidad es más redonda. -->
-- [ ] B) $E_2$, porque su excentricidad es mayor.
+- [ ] A) $E_2$, porque su excentricidad es mayor.
   <!-- feedback: Incorrecto. Mayor excentricidad implica elipse más achatada. -->
 - [ ] C) Ambas tienen la misma forma.
   <!-- feedback: Incorrecto. Sus excentricidades son distintas. -->
@@ -252,13 +252,13 @@ $e_1 = \sqrt{1 - \frac{24}{25}} = 0.2$ y $e_2 = \sqrt{1 - \frac{9}{25}} = 0.8$. 
 ### Enunciado
 Si se modela el arco como una elipse con centro en el origen y eje mayor horizontal, ¿cuál es su ecuación?
 ### Opciones
-- [x] A) $\frac{x^2}{100} + \frac{y^2}{9} = 1$
+- [x] D) $\frac{x^2}{100} + \frac{y^2}{9} = 1$
   <!-- feedback: Correcto. $a = 10$ y $b = 3$: $a^2 = 100$ y $b^2 = 9$. -->
-- [ ] B) $\frac{x^2}{400} + \frac{y^2}{36} = 1$
+- [ ] A) $\frac{x^2}{400} + \frac{y^2}{36} = 1$
   <!-- feedback: Incorrecto. $20$ es el eje mayor, no el semieje; $a = 10$. -->
-- [ ] C) $\frac{x^2}{100} + \frac{y^2}{36} = 1$
+- [ ] B) $\frac{x^2}{100} + \frac{y^2}{36} = 1$
   <!-- feedback: Incorrecto. $b = 3$, por lo que $b^2 = 9$, no $36$. -->
-- [ ] D) $\frac{x^2}{20} + \frac{y^2}{6} = 1$
+- [ ] C) $\frac{x^2}{20} + \frac{y^2}{6} = 1$
   <!-- feedback: Incorrecto. Los semiejes van al cuadrado. -->
 ### Explicacion Pedagogica
 El eje mayor mide $20$ m, así que $a = 10$. La altura máxima es $6$ m, es decir $b = 3$. Ecuación: $\frac{x^2}{100} + \frac{y^2}{9} = 1$.

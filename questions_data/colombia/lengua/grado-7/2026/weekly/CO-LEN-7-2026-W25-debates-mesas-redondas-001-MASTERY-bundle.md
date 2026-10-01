@@ -33,8 +33,8 @@ creador: "Jules-Agent"
 ¿Cuál es la característica principal que define a un **debate**?
 
 ### Opciones
-- [ ] A) Que todos los participantes deben estar de acuerdo desde el principio. <!-- feedback: Incorrecto. Si todos están de acuerdo, no hay debate, sino una charla amistosa o consenso. -->
-- [x] B) Que existen posturas opuestas o contradictorias sobre un tema determinado. <!-- feedback: ¡Correcto! El debate se basa en la confrontación respetuosa de argumentos diferentes. -->
+- [ ] B) Que todos los participantes deben estar de acuerdo desde el principio. <!-- feedback: Incorrecto. Si todos están de acuerdo, no hay debate, sino una charla amistosa o consenso. -->
+- [x] A) Que existen posturas opuestas o contradictorias sobre un tema determinado. <!-- feedback: ¡Correcto! El debate se basa en la confrontación respetuosa de argumentos diferentes. -->
 - [ ] C) Que solo una persona tiene permiso para hablar durante toda la sesión. <!-- feedback: Incorrecto. Esto sería un monólogo o una conferencia. -->
 - [ ] D) Que se debe elegir al ganador mediante una pelea física. <!-- feedback: Incorrecto. El debate es un ejercicio intelectual y verbal, nunca físico. -->
 
@@ -53,8 +53,8 @@ El debate fomenta el pensamiento crítico al obligar a los participantes a defen
 ¿Por qué se llama **mesa redonda** a esta técnica de comunicación?
 
 ### Opciones
-- [ ] A) Porque la mesa utilizada debe ser obligatoriamente de madera de roble. <!-- feedback: Incorrecto. El material de la mesa no es lo importante. -->
-- [x] B) Porque simboliza que todos los participantes tienen el mismo nivel de importancia y derecho a hablar. <!-- feedback: ¡Correcto! No hay una presidencia o jerarquía marcada, todos están en igualdad de condiciones. -->
+- [ ] B) Porque la mesa utilizada debe ser obligatoriamente de madera de roble. <!-- feedback: Incorrecto. El material de la mesa no es lo importante. -->
+- [x] A) Porque simboliza que todos los participantes tienen el mismo nivel de importancia y derecho a hablar. <!-- feedback: ¡Correcto! No hay una presidencia o jerarquía marcada, todos están en igualdad de condiciones. -->
 - [ ] C) Porque los participantes deben dar vueltas alrededor de la mesa mientras hablan. <!-- feedback: Incorrecto. Los participantes permanecen sentados para dialogar con calma. -->
 - [ ] D) Porque solo se pueden tratar temas relacionados con la geometría y los círculos. <!-- feedback: Incorrecto. Se puede tratar cualquier tema de interés general o científico. -->
 
@@ -74,8 +74,8 @@ A diferencia del debate, donde se busca "ganar" o demostrar que una postura es m
 
 ### Opciones
 - [ ] A) Dar su propia opinión y convencer a los demás de que él tiene la razón. <!-- feedback: Incorrecto. El moderador debe ser neutral y no tomar partido. -->
-- [x] B) Asignar los turnos de palabra, controlar el tiempo y mantener el respeto entre los participantes. <!-- feedback: ¡Correcto! Su labor es asegurar que la dinámica fluya correctamente y se cumplan las reglas. -->
-- [ ] C) Elegir la música de fondo y preparar los refrigerios para el público. <!-- feedback: Incorrecto. Estas son tareas de logística o producción, no de moderación del diálogo. -->
+- [x] C) Asignar los turnos de palabra, controlar el tiempo y mantener el respeto entre los participantes. <!-- feedback: ¡Correcto! Su labor es asegurar que la dinámica fluya correctamente y se cumplan las reglas. -->
+- [ ] B) Elegir la música de fondo y preparar los refrigerios para el público. <!-- feedback: Incorrecto. Estas son tareas de logística o producción, no de moderación del diálogo. -->
 - [ ] D) Expulsar a cualquier participante que no esté de acuerdo con lo que dice la mayoría. <!-- feedback: Incorrecto. El moderador debe proteger el derecho a la discrepancia respetuosa. -->
 
 ### Explicacion Pedagogica
@@ -114,8 +114,8 @@ Un buen debitiente no es quien más grita, sino quien mejor informado está y sa
 
 ### Opciones
 - [ ] A) Para poder interrumpir al otro apenas cometa un error gramatical. <!-- feedback: Incorrecto. Interrumpir es una falta de respeto y no ayuda a la comprensión. -->
-- [x] B) Para comprender realmente el argumento del otro y poder responder de manera coherente y respetuosa. <!-- feedback: ¡Correcto! Solo si escuchamos podemos dialogar; de lo contrario, son dos monólogos cruzados. -->
-- [ ] C) Para hacer dibujos en el cuaderno mientras los demás hablan. <!-- feedback: Incorrecto. Esto demuestra desinterés y falta de compromiso con la actividad. -->
+- [x] C) Para comprender realmente el argumento del otro y poder responder de manera coherente y respetuosa. <!-- feedback: ¡Correcto! Solo si escuchamos podemos dialogar; de lo contrario, son dos monólogos cruzados. -->
+- [ ] B) Para hacer dibujos en el cuaderno mientras los demás hablan. <!-- feedback: Incorrecto. Esto demuestra desinterés y falta de compromiso con la actividad. -->
 - [ ] D) Para saber cuándo es el momento de gritar más fuerte que el compañero. <!-- feedback: Incorrecto. El volumen de voz no añade validez a los argumentos. -->
 
 ### Explicacion Pedagogica
@@ -155,9 +155,9 @@ La técnica de "conceder para vencer" es muy efectiva porque demuestra que el or
 Al finalizar una mesa redonda sobre el uso de redes sociales en jóvenes colombianos, ¿cuál de estos cierres es el más apropiado?
 
 ### Opciones
-- [ ] A) "Y así queda demostrado que yo tenía la razón y los demás estaban equivocados". <!-- feedback: Incorrecto. Este cierre es prepotente y no encaja con el espíritu de la mesa redonda. -->
-- [ ] B) "Como nadie se puso de acuerdo, esta reunión fue una pérdida de tiempo total". <!-- feedback: Incorrecto. El intercambio de ideas siempre es valioso, aunque no se llegue a una única conclusión. -->
-- [x] C) "En conclusión, hemos visto que las redes ofrecen grandes oportunidades de aprendizaje, pero también riesgos de seguridad que debemos vigilar". <!-- feedback: ¡Correcto! Resume las diferentes perspectivas presentadas sin ignorar la complejidad del tema. -->
+- [ ] B) "Y así queda demostrado que yo tenía la razón y los demás estaban equivocados". <!-- feedback: Incorrecto. Este cierre es prepotente y no encaja con el espíritu de la mesa redonda. -->
+- [ ] C) "Como nadie se puso de acuerdo, esta reunión fue una pérdida de tiempo total". <!-- feedback: Incorrecto. El intercambio de ideas siempre es valioso, aunque no se llegue a una única conclusión. -->
+- [x] A) "En conclusión, hemos visto que las redes ofrecen grandes oportunidades de aprendizaje, pero también riesgos de seguridad que debemos vigilar". <!-- feedback: ¡Correcto! Resume las diferentes perspectivas presentadas sin ignorar la complejidad del tema. -->
 - [ ] D) "Ahora vamos a votar para ver quién de los participantes nos cayó mejor". <!-- feedback: Incorrecto. La mesa redonda no es un concurso de popularidad personal. -->
 
 ### Explicacion Pedagogica
@@ -217,8 +217,8 @@ Imagina una mesa redonda sobre la construcción de una carretera que atravesará
 ### Opciones
 - [ ] A) Tres ingenieros de caminos que trabajan para la empresa constructora. <!-- feedback: Incorrecto. Habría un sesgo total hacia la construcción sin considerar otros impactos. -->
 - [ ] B) Tres líderes indígenas de la zona que se oponen a cualquier tipo de cambio. <!-- feedback: Incorrecto. Habría un sesgo total hacia la conservación sin considerar las necesidades de conexión del país. -->
-- [x] C) Un ingeniero civil, un biólogo experto en ecosistemas y un representante de las comunidades locales. <!-- feedback: ¡Correcto! Esta combinación permite ver el problema desde la técnica, la ciencia ambiental y la realidad social. -->
-- [ ] D) Tres cantantes famosos que quieren hacer un concierto en la selva. <!-- feedback: Incorrecto. No son especialistas en los temas críticos del dilema (infraestructura y ecología). -->
+- [x] D) Un ingeniero civil, un biólogo experto en ecosistemas y un representante de las comunidades locales. <!-- feedback: ¡Correcto! Esta combinación permite ver el problema desde la técnica, la ciencia ambiental y la realidad social. -->
+- [ ] C) Tres cantantes famosos que quieren hacer un concierto en la selva. <!-- feedback: Incorrecto. No son especialistas en los temas críticos del dilema (infraestructura y ecología). -->
 
 ### Explicacion Pedagogica
 La riqueza de la mesa redonda radica en la multidisciplinariedad. Escuchar voces con intereses y conocimientos distintos permite llegar a soluciones más integrales y justas.

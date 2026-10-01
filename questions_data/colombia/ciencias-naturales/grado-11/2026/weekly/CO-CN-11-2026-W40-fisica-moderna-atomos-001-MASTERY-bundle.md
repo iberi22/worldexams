@@ -37,11 +37,11 @@ El modelo atómico de Thomson (1904) proponía que el átomo era:
 ### Opciones
 - [ ] A) Un sistema planetario con electrones orbitando un núcleo denso.
   <!-- feedback: Esa descripción corresponde a Rutherford-Bohr. -->
-- [x] B) Una esfera positiva uniforme con electrones incrustados (modelo del pudín).
+- [x] D) Una esfera positiva uniforme con electrones incrustados (modelo del pudín).
   <!-- feedback: Thomson imaginó una "masa positiva" con electrones inmersos. -->
-- [ ] C) Una nube difusa de protones solamente.
+- [ ] B) Una nube difusa de protones solamente.
   <!-- feedback: No incluía electrones en su esquema. -->
-- [ ] D) Un conglomerado de quarks aislados.
+- [ ] C) Un conglomerado de quarks aislados.
   <!-- feedback: Los quarks son partículas aún más fundamentales. -->
 
 ### Explicacion Pedagogica
@@ -81,9 +81,9 @@ Rutherford concluyó que el átomo es principalmente espacio vacío con un núcl
 En el modelo atómico de Bohr, los electrones solo pueden ocupar:
 
 ### Opciones
-- [ ] A) Cualquier órbita continua permitida.
+- [ ] B) Cualquier órbita continua permitida.
   <!-- feedback: Bohr postuló que las órbitas son discretas. -->
-- [x] B) Órbitas estacionarias con niveles de energía cuantizados.
+- [x] A) Órbitas estacionarias con niveles de energía cuantizados.
   <!-- feedback: Los saltos entre niveles emiten o absorben fotones. -->
 - [ ] C) Posiciones aleatorias dentro del núcleo.
   <!-- feedback: Los electrones orbitan fuera del núcleo. -->
@@ -104,11 +104,11 @@ El modelo de Bohr introduce la cuantización de la energía electrónica.
 El número cuántico principal n indica:
 
 ### Opciones
-- [x] A) El nivel de energía o capa principal del electrón.
+- [x] C) El nivel de energía o capa principal del electrón.
   <!-- feedback: n = 1, 2, 3... define la capa. -->
-- [ ] B) La forma del orbital.
+- [ ] A) La forma del orbital.
   <!-- feedback: La forma la determina l. -->
-- [ ] C) La orientación espacial.
+- [ ] B) La orientación espacial.
   <!-- feedback: Eso es m_l. -->
 - [ ] D) El espín del electrón.
   <!-- feedback: El espín lo determina m_s. -->
@@ -129,11 +129,11 @@ Calcula la longitud de onda de un electrón que viaja a 1.0 × 10⁶ m/s (m_e = 
 ### Opciones
 - [ ] A) 7.28 × 10⁻⁹ m.
   <!-- feedback: Cálculo con orden de magnitud errado. -->
-- [x] B) 7.28 × 10⁻¹⁰ m.
+- [x] D) 7.28 × 10⁻¹⁰ m.
   <!-- feedback: λ = h/(m·v) = 6.63e-34/(9.11e-31·1e6) ≈ 7.28 × 10⁻¹⁰ m. -->
-- [ ] C) 7.28 × 10⁻⁷ m.
+- [ ] B) 7.28 × 10⁻⁷ m.
   <!-- feedback: Excediste tres órdenes de magnitud. -->
-- [ ] D) 7.28 × 10⁻¹³ m.
+- [ ] C) 7.28 × 10⁻¹³ m.
   <!-- feedback: Subestimaste tres órdenes de magnitud. -->
 
 ### Explicacion Pedagogica
@@ -152,9 +152,9 @@ Si la incertidumbre en la posición de un electrón es Δx = 1.0 × 10⁻¹⁰ m
 ### Opciones
 - [ ] A) Cero.
   <!-- feedback: Heisenberg prohíbe incertidumbre nula. -->
-- [x] B) ≈ 5.27 × 10⁻²⁵ kg·m/s (usando Δx·Δp ≥ ℏ/2).
+- [x] C) ≈ 5.27 × 10⁻²⁵ kg·m/s (usando Δx·Δp ≥ ℏ/2).
   <!-- feedback: Δp ≥ ℏ/(2·Δx) ≈ 5.27 × 10⁻²⁵ kg·m/s. -->
-- [ ] C) 5.27 × 10⁻²⁵ m/s.
+- [ ] B) 5.27 × 10⁻²⁵ m/s.
   <!-- feedback: La unidad debe ser kg·m/s, no m/s. -->
 - [ ] D) 5.27 × 10⁻⁵ kg·m/s.
   <!-- feedback: Exceso de orden de magnitud. -->
@@ -196,9 +196,9 @@ El defecto de masa se convierte en energía de enlace según E = Δm·c².
 La diferencia entre fisión y fusión nuclear es:
 
 ### Opciones
-- [x] A) La fisión divide núcleos pesados; la fusión une núcleos ligeros.
+- [x] B) La fisión divide núcleos pesados; la fusión une núcleos ligeros.
   <!-- feedback: Procesos opuestos pero ambos liberan energía. -->
-- [ ] B) La fisión ocurre en el Sol; la fusión en reactores terrestres.
+- [ ] A) La fisión ocurre en el Sol; la fusión en reactores terrestres.
   <!-- feedback: Es al revés en general. -->
 - [ ] C) La fusión produce elementos más pesados; la fisión los produce más ligeros.
   <!-- feedback: La fusión también puede producir elementos más pesados. -->
@@ -221,9 +221,9 @@ Si la vida media del carbono-14 es ≈ 5730 años, ¿qué fracción de la muestr
 ### Opciones
 - [ ] A) 1/2.
   <!-- feedback: Equivale a 1 vida media. -->
-- [ ] B) 1/4.
+- [ ] C) 1/4.
   <!-- feedback: Equivale a 2 vidas medias. -->
-- [x] C) 1/8.
+- [x] B) 1/8.
   <!-- feedback: 17 190/5730 ≈ 3; queda (1/2)³ = 1/8. -->
 - [ ] D) 1/16.
   <!-- feedback: Sería 4 vidas medias. -->
@@ -267,9 +267,9 @@ El experimento de Franck-Hertz confirmó:
 ### Opciones
 - [ ] A) La existencia de monopolos magnéticos.
   <!-- feedback: El experimento trata cuantización energética. -->
-- [x] B) La cuantización de los niveles de energía en los átomos de mercurio.
+- [x] C) La cuantización de los niveles de energía en los átomos de mercurio.
   <!-- feedback: Los electrones pierden energía solo en paquetes discretos. -->
-- [ ] C) La relatividad general.
+- [ ] B) La relatividad general.
   <!-- feedback: No es el ámbito del experimento. -->
 - [ ] D) La masa del neutrino.
   <!-- feedback: No se relaciona con el experimento. -->
@@ -288,9 +288,9 @@ El experimento demostró que los átomos absorben energía solo en cantidades di
 Cuando un núcleo emite una partícula alfa, su número atómico Z y másico A cambian así:
 
 ### Opciones
-- [x] A) Z disminuye en 2 y A en 4.
+- [x] B) Z disminuye en 2 y A en 4.
   <!-- feedback: La partícula alfa es ⁴He²⁺. -->
-- [ ] B) Z aumenta en 2 y A en 4.
+- [ ] A) Z aumenta en 2 y A en 4.
   <!-- feedback: La emisión alfa reduce Z. -->
 - [ ] C) Z se mantiene igual, A disminuye en 2.
   <!-- feedback: Ambos cambian. -->
@@ -311,9 +311,9 @@ La emisión alfa reduce simultáneamente Z en 2 unidades y A en 4 unidades.
 Según el modelo estándar, los quarks son partículas fundamentales que:
 
 ### Opciones
-- [ ] A) Forman parte de los electrones.
+- [ ] B) Forman parte de los electrones.
   <!-- feedback: Los electrones son leptones, no quarks. -->
-- [x] B) Se combinan en grupos de dos o tres para formar hadrones como protones y neutrones.
+- [x] A) Se combinan en grupos de dos o tres para formar hadrones como protones y neutrones.
   <!-- feedback: Los hadrones incluyen bariones (3 quarks) y mesones (par quark-antiquark). -->
 - [ ] C) Tienen carga eléctrica siempre negativa.
   <!-- feedback: Los quarks tienen cargas fraccionarias ±1/3 o ±2/3. -->
@@ -359,11 +359,11 @@ El principio de exclusión de Pauli establece que:
 ### Opciones
 - [ ] A) Dos electrones pueden compartir todos sus números cuánticos.
   <!-- feedback: Pauli prohíbe eso. -->
-- [x] B) Dos electrones en el mismo átomo no pueden tener idénticos los cuatro números cuánticos.
+- [x] D) Dos electrones en el mismo átomo no pueden tener idénticos los cuatro números cuánticos.
   <!-- feedback: Cada electrón debe tener un conjunto único. -->
-- [ ] C) Los protones se repelen mutuamente.
+- [ ] B) Los protones se repelen mutuamente.
   <!-- feedback: Es otra interacción. -->
-- [ ] D) Los fotones carecen de momento.
+- [ ] C) Los fotones carecen de momento.
   <!-- feedback: Los fotones sí tienen momento p = h/λ. -->
 
 ### Explicacion Pedagogica
@@ -382,9 +382,9 @@ El bosón de Higgs está asociado con:
 ### Opciones
 - [ ] A) La fuerza nuclear fuerte exclusivamente.
   <!-- feedback: Es una partícula del modelo estándar, no exclusiva de una interacción. -->
-- [x] B) El mecanismo que otorga masa a las partículas fundamentales mediante su interacción con el campo de Higgs.
+- [x] C) El mecanismo que otorga masa a las partículas fundamentales mediante su interacción con el campo de Higgs.
   <!-- feedback: El campo de Higgs llena el espacio y genera masa por interacción. -->
-- [ ] C) La ausencia total de masa.
+- [ ] B) La ausencia total de masa.
   <!-- feedback: Su rol es conferir masa. -->
 - [ ] D) La aniquilación materia-antimateria.
   <!-- feedback: No es su función principal. -->
@@ -428,9 +428,9 @@ La tomografía por emisión de positrones (PET) utiliza:
 ### Opciones
 - [ ] A) Rayos X tradicionales.
   <!-- feedback: La PET usa positrones, no rayos X clásicos. -->
-- [x] B) Trazadores radiactivos emisores de positrones que al aniquilarse emiten rayos gamma detectados.
+- [x] C) Trazadores radiactivos emisores de positrones que al aniquilarse emiten rayos gamma detectados.
   <!-- feedback: La aniquilación positrón-electrón produce dos fotones gamma. -->
-- [ ] C) Campos magnéticos intensos como la resonancia magnética.
+- [ ] B) Campos magnéticos intensos como la resonancia magnética.
   <!-- feedback: La MRI usa campos magnéticos; la PET es diferente. -->
 - [ ] D) Ultrasonido de alta frecuencia.
   <!-- feedback: No utiliza ultrasonido. -->
@@ -451,11 +451,11 @@ La radioterapia con haz externo busca dañar principalmente:
 ### Opciones
 - [ ] A) El tejido sano circundante.
   <!-- feedback: El objetivo es minimizar el daño colateral. -->
-- [x] B) El ADN de las células tumorales, impidiendo su división.
+- [x] D) El ADN de las células tumorales, impidiendo su división.
   <!-- feedback: La radiación ionizante rompe enlaces y bloquea la mitosis. -->
-- [ ] C) El sistema nervioso periférico.
+- [ ] B) El sistema nervioso periférico.
   <!-- feedback: No es el blanco. -->
-- [ ] D) Los glóbulos rojos exclusivamente.
+- [ ] C) Los glóbulos rojos exclusivamente.
   <!-- feedback: La radioterapia no es selectiva hacia eritrocitos. -->
 
 ### Explicacion Pedagogica
@@ -474,11 +474,11 @@ Una contribución fundamental de la física moderna al conocimiento humano es:
 ### Opciones
 - [ ] A) Demostrar que las leyes clásicas resuelven todos los problemas.
   <!-- feedback: La física moderna surgió donde la clásica fallaba. -->
-- [x] B) Establecer que la energía y la materia están cuantizadas y son interconvertibles.
+- [x] D) Establecer que la energía y la materia están cuantizadas y son interconvertibles.
   <!-- feedback: La dualidad onda-partícula y E = mc² redefinen la realidad. -->
-- [ ] C) Eliminar el concepto de partícula.
+- [ ] B) Eliminar el concepto de partícula.
   <!-- feedback: Las partículas siguen siendo centrales. -->
-- [ ] D) Negar la existencia del átomo.
+- [ ] C) Negar la existencia del átomo.
   <!-- feedback: El átomo es ahora mejor comprendido. -->
 
 ### Explicacion Pedagogica

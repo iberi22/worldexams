@@ -33,9 +33,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿En qué fecha y bajo qué nombre inicial se fundó oficialmente la República de Bolivia?
 
 ### Opciones
-- [x] A) El 6 de agosto de 1825 bajo el nombre inicial de República Bolívar, en homenaje al Libertador.
+- [x] B) El 6 de agosto de 1825 bajo el nombre inicial de República Bolívar, en homenaje al Libertador.
   <!-- feedback: Correcto. La Asamblea Deliberante proclamó la independencia el 6 de agosto de 1825, rindiendo honor a la Batalla de Junín, y bautizó al país inicialmente como República Bolívar. -->
-- [ ] B) El 12 de octubre de 1492 bajo el nombre oficial de Imperio del Collasuyo de Tiwanaku.
+- [ ] A) El 12 de octubre de 1492 bajo el nombre oficial de Imperio del Collasuyo de Tiwanaku.
   <!-- feedback: Incorrecto. 1492 corresponde a la llegada de Cristóbal Colón y el Collasuyo era una región prehispánica del Tahuantinsuyo, no el Estado de 1825. -->
 - [ ] C) El 16 de julio de 1809 bajo la denominación oficial de Junta Tuitiva de La Paz.
   <!-- feedback: Incorrecto. 1809 fue el grito revolucionario paceño precursor, no la fundación jurídica del Estado soberano. -->
@@ -56,11 +56,11 @@ La fundación de Bolivia el 6 de agosto de 1825 puso fin a siglos de dominio col
 ¿Qué rol institucional le asignó la Asamblea Deliberante a Simón Bolívar al fundar el nuevo Estado en 1825?
 
 ### Opciones
-- [x] A) Lo declaró el primer presidente y protector del nuevo Estado soberano, con plenas facultades del poder ejecutivo.
+- [x] C) Lo declaró el primer presidente y protector del nuevo Estado soberano, con plenas facultades del poder ejecutivo.
   <!-- feedback: Correcto. Bolívar asumió la primera magistratura provisoria y el título honorífico de Padre de la Patria, gobernando el país por unos meses antes de delegar el mando en el Mariscal Antonio José de Sucre. -->
-- [ ] B) Lo nombró embajador plenipotenciario vitalicio ante la reina de España.
+- [ ] A) Lo nombró embajador plenipotenciario vitalicio ante la reina de España.
   <!-- feedback: Incorrecto. Bolívar luchaba contra el imperio español y nunca aceptaría ser embajador ante la corona de España. -->
-- [ ] C) Lo designó rector supremo de la Universidad de San Francisco Xavier de Chuquisaca de por vida.
+- [ ] B) Lo designó rector supremo de la Universidad de San Francisco Xavier de Chuquisaca de por vida.
   <!-- feedback: Incorrecto. Aunque valoraba la educación, Bolívar asumió la conducción ejecutiva estatal y no la administración de la universidad chuquisaqueña. -->
 - [ ] D) Le otorgó la propiedad privada personal exclusiva de todas las minas del Cerro Rico de Potosí.
   <!-- feedback: Incorrecto. El Cerro Rico se declaró propiedad pública del Estado de Bolivia, no propiedad privada personal de Bolívar. -->
@@ -79,9 +79,9 @@ Simón Bolívar redactó además la primera Constitución del país (Constituci�
 ¿Cuál fue una de las principales reformas económicas orientadas a la modernización del Estado que ejecutó Antonio José de Sucre?
 
 ### Opciones
-- [x] A) La secularización de los bienes eclesiásticos y el cierre de conventos con pocos frailes para destinar sus rentas a la educación pública.
+- [x] B) La secularización de los bienes eclesiásticos y el cierre de conventos con pocos frailes para destinar sus rentas a la educación pública.
   <!-- feedback: Correcto. Sucre aplicó reformas de corte liberal ilustrado, expropiando propiedades ociosas de la Iglesia católica para financiar los primeros colegios de artes y ciencias. -->
-- [ ] B) La privatización total de las aduanas andinas en favor de banqueros británicos asentados en Buenos Aires.
+- [ ] A) La privatización total de las aduanas andinas en favor de banqueros británicos asentados en Buenos Aires.
   <!-- feedback: Incorrecto. Sucre defendía la soberanía aduanera fiscal del nuevo Estado de Bolivia, no su privatización a favor de británicos. -->
 - [ ] C) La reposición perpetua de los privilegios económicos de los españoles peninsulares en Charcas.
   <!-- feedback: Incorrecto. El gobierno patriota expulsó a muchos funcionarios y militares realistas españoles refractarios a la república. -->
@@ -125,11 +125,11 @@ La contradicción del tributo indígena evidenció los límites del ideal republ
 ¿Qué característica peculiar definía al poder ejecutivo en la Constitución Vitalicia redactada por Simón Bolívar para Bolivia?
 
 ### Opciones
-- [x] A) Establecía la presidencia de carácter vitalicio y con la facultad del presidente de nombrar a su sucesor de forma directa.
+- [x] C) Establecía la presidencia de carácter vitalicio y con la facultad del presidente de nombrar a su sucesor de forma directa.
   <!-- feedback: Correcto. El modelo de Constitución Vitalicia propuesto por el Libertador buscaba asegurar la estabilidad política andina frente al fantasma de la anarquía militar, consagrando una presidencia perpetua. -->
-- [ ] B) Establecía que el presidente debía ser elegido semanalmente mediante un cabildo abierto campesino.
+- [ ] A) Establecía que el presidente debía ser elegido semanalmente mediante un cabildo abierto campesino.
   <!-- feedback: Incorrecto. Bolívar recelaba del desborde popular asambleario constante y buscaba un ejecutivo fuerte y estable. -->
-- [ ] C) Declaraba al rey de España como jefe de Estado con derecho a veto absoluto sobre el parlamento boliviano.
+- [ ] B) Declaraba al rey de España como jefe de Estado con derecho a veto absoluto sobre el parlamento boliviano.
   <!-- feedback: Incorrecto. La Constitución consagraba la separación absoluta y soberana de Bolivia frente a la monarquía española. -->
 - [ ] D) Prohibía la existencia de ministros de Estado para delegar las funciones ejecutivas en los caciques comunales.
   <!-- feedback: Incorrecto. Se estructuraba una burocracia ministerial centralizada de tipo republicana moderna. -->
@@ -148,13 +148,13 @@ La Constitución Vitalicia fue aprobada en 1826 pero tuvo una vigencia efímera.
 ¿Qué principio de derecho internacional se aplicó para delimitar las fronteras de Bolivia en 1825 y en qué consistía?
 
 ### Opciones
-- [x] A) El 'Uti possidetis juris', que establecía que las fronteras de la nueva República correspondían a los límites administrativos de la Real Audiencia de Charcas en 1810.
+- [x] D) El 'Uti possidetis juris', que establecía que las fronteras de la nueva República correspondían a los límites administrativos de la Real Audiencia de Charcas en 1810.
   <!-- feedback: Correcto. El uti possidetis juris ('como poseías de acuerdo al derecho, poseerás') sirvió de base jurídica para heredar los contornos administrativos territoriales coloniales de Charcas de 1810. -->
-- [ ] B) La ley de la selva del Chaco Boreal, que determinaba que el territorio pertenecía al país que invadiera con tanques primero.
+- [ ] A) La ley de la selva del Chaco Boreal, que determinaba que el territorio pertenecía al país que invadiera con tanques primero.
   <!-- feedback: Incorrecto. No existían tanques de guerra en 1825 y la delimitación se basó en el derecho colonial, no en invasiones mecánicas del Chaco. -->
-- [ ] C) El Tratado de Tordesillas de 1494 que dividía el mundo entre España e Inglaterra de manera equitativa por mar.
+- [ ] B) El Tratado de Tordesillas de 1494 que dividía el mundo entre España e Inglaterra de manera equitativa por mar.
   <!-- feedback: Incorrecto. El Tratado de Tordesillas dividió tierras entre España y Portugal en el siglo XV, inaplicable para fundar Bolivia en 1825. -->
-- [ ] D) El libre tránsito comercial absoluto sin aduanas terrestres ni fronteras con los países vecinos de América del Sur.
+- [ ] C) El libre tránsito comercial absoluto sin aduanas terrestres ni fronteras con los países vecinos de América del Sur.
   <!-- feedback: Incorrecto. Se establecieron de inmediato aduanas y puestos de frontera soberanos para asegurar la recaudación fiscal del nuevo Estado. -->
 
 ### Explicacion Pedagogica
@@ -171,11 +171,11 @@ La herencia territorial de la Real Audiencia de Charcas otorgó a Bolivia una in
 ¿Cuál era la situación productiva y de infraestructura de las minas de plata de Potosí al momento de nacer la República de Bolivia en 1825?
 
 ### Opciones
-- [x] A) Se encontraban sumidas en una profunda quiebra, con galerías inundadas por falta de mantenimiento y escasez de capitales de inversión debido a la prolongada guerra.
+- [x] C) Se encontraban sumidas en una profunda quiebra, con galerías inundadas por falta de mantenimiento y escasez de capitales de inversión debido a la prolongada guerra.
   <!-- feedback: Correcto. Los quince años de guerra destruyeron las haciendas de beneficio, inundaron los socavones mineros del Cerro Rico y provocaron la fuga masiva de capitales de los azogueros españoles. -->
-- [ ] B) Se hallaban en su máximo apogeo industrial histórico, exportando plata masivamente en trenes eléctricos.
+- [ ] A) Se hallaban en su máximo apogeo industrial histórico, exportando plata masivamente en trenes eléctricos.
   <!-- feedback: Incorrecto. No existían trenes eléctricos en 1825 y la minería estaba paralizada y desmantelada por las hostilidades bélicas. -->
-- [ ] C) Habían sido vendidas legalmente a la corona del Japón para financiar el presupuesto escolar rural de Sucre.
+- [ ] B) Habían sido vendidas legalmente a la corona del Japón para financiar el presupuesto escolar rural de Sucre.
   <!-- feedback: Incorrecto. No hubo transacciones comerciales mineras con Japón y la minería se mantuvo en manos de empresarios nacionales e inversionistas locales. -->
 - [ ] D) Se prohibió por completo la extracción de plata para preservar el agua de las lagunas del altiplano potosino.
   <!-- feedback: Incorrecto. Al contrario, el sueño de todos los gobernantes republicanos del siglo XIX era reactivar la minería de plata para sostener al Estado de Bolivia. -->
@@ -194,11 +194,11 @@ La parálisis minera en 1825 configuró una crisis económica asfixiante para la
 Si aplicamos la cronología de los presidentes de Bolivia tras la salida forzada de Antonio José de Sucre en 1828, ¿qué papel asumió el Mariscal Andrés de Santa Cruz a partir de 1829?
 
 ### Opciones
-- [x] A) Asumió la presidencia de Bolivia, logrando la pacificación del país, la consolidación fiscal, la promulgación de códigos legales modernos y la posterior creación de la Confederación Perú-Boliviana.
+- [x] C) Asumió la presidencia de Bolivia, logrando la pacificación del país, la consolidación fiscal, la promulgación de códigos legales modernos y la posterior creación de la Confederación Perú-Boliviana.
   <!-- feedback: Correcto. Andrés de Santa Cruz (gobernó de 1829 a 1839) es considerado el gran organizador del Estado boliviano, estructurando las finanzas, los códigos civil y mercantil, e impulsando un gran proyecto geopolítico confederado. -->
-- [ ] B) Declaró la disolución de la República de Bolivia para anexar voluntariamente todo el territorio al Imperio del Brasil.
+- [ ] A) Declaró la disolución de la República de Bolivia para anexar voluntariamente todo el territorio al Imperio del Brasil.
   <!-- feedback: Incorrecto. Santa Cruz defendió ardientemente la independencia de Bolivia y buscó expandir su influencia sobre el Perú, no someterse a Brasil. -->
-- [ ] C) Clausuró todas las escuelas rurales de Sucre para obligar a los jóvenes a trabajar de forma perpetua en el Cerro Rico.
+- [ ] B) Clausuró todas las escuelas rurales de Sucre para obligar a los jóvenes a trabajar de forma perpetua en el Cerro Rico.
   <!-- feedback: Incorrecto. Al contrario, potenció las universidades de La Paz y Cochabamba y reguló la administración escolar de forma soberana. -->
 - [ ] D) Inició de inmediato la Guerra del Chaco contra Paraguay utilizando buques de guerra a vapor en el río Pilcomayo.
   <!-- feedback: Incorrecto. La Guerra del Chaco ocurrió un siglo después (1932); Santa Cruz se enfocó en consolidar la administración interna de Bolivia y la geopolítica andina. -->
@@ -217,13 +217,13 @@ Bajo la presidencia de Santa Cruz, Bolivia gozó de su mayor estabilidad y prest
 Si aplicamos el concepto de oportunismo y pragmatismo de las élites criollas coloniales en 1825, ¿cómo se manifestó en el accionar político de Casimiro Olañeta?
 
 ### Opciones
-- [x] A) Olañeta sirvió a la corona española en el bando realista hasta el último momento, para luego aliarse ágilmente con el bando patriota y presidir la Asamblea que declaró la independencia de Bolivia.
+- [x] D) Olañeta sirvió a la corona española en el bando realista hasta el último momento, para luego aliarse ágilmente con el bando patriota y presidir la Asamblea que declaró la independencia de Bolivia.
   <!-- feedback: Correcto. Casimiro Olañeta representó al 'doctor de Charcas' oportunista y pragmático de las élites terratenientes locales, asegurando su permanencia en los cargos de poder de la nueva República tras el colapso del orden español. -->
-- [ ] B) Se inmoló de forma heroica luchando en las trincheras de las republiquetas junto a Juana Azurduy de Padilla.
+- [ ] A) Se inmoló de forma heroica luchando en las trincheras de las republiquetas junto a Juana Azurduy de Padilla.
   <!-- feedback: Incorrecto. Olañeta no luchó en las republiquetas; operó como oidor y consejero del general realista Pedro Antonio de Olañeta (su tío). -->
-- [ ] C) Renunció a todas sus propiedades agrícolas cruceñas para vivir de forma humilde en un ayllu andino.
+- [ ] B) Renunció a todas sus propiedades agrícolas cruceñas para vivir de forma humilde en un ayllu andino.
   <!-- feedback: Incorrecto. Conservó y expandió sus haciendas y propiedades, consolidándose como un terrateniente adinerado e influyente de la era republicana. -->
-- [ ] D) Fue expulsado inmediatamente de Bolivia por Simón Bolívar debido a su nacionalidad francesa.
+- [ ] C) Fue expulsado inmediatamente de Bolivia por Simón Bolívar debido a su nacionalidad francesa.
   <!-- feedback: Incorrecto. Olañeta era criollo altoperuano, no francés, y Bolívar lo incorporó inicialmente como ministro de Estado por sus conocimientos legales locales. -->
 
 ### Explicacion Pedagogica
@@ -240,11 +240,11 @@ Casimiro Olañeta simboliza la transición pactada del poder colonial al republi
 ¿Qué tensión socio-política detonó la renuncia y salida del Mariscal Antonio José de Sucre de Bolivia en 1828?
 
 ### Opciones
-- [x] A) El motín militar en Chuquisaca de abril de 1828 y la invasión de tropas peruanas al mando del general Agustín Gamarra, azuzados por criollos opositores.
+- [x] C) El motín militar en Chuquisaca de abril de 1828 y la invasión de tropas peruanas al mando del general Agustín Gamarra, azuzados por criollos opositores.
   <!-- feedback: Correcto. Los terratenientes y clérigos locales de Charcas resentían las reformas secularizadoras de Sucre; se aliaron con intereses militares peruanos, desatando una revuelta que hirió de bala a Sucre y forzó su salida mediante el Tratado de Piquiza. -->
-- [ ] B) La sublevación pacífica de los jesuitas del Beni que exigían el retorno inmediato de la corona española de Madrid.
+- [ ] A) La sublevación pacífica de los jesuitas del Beni que exigían el retorno inmediato de la corona española de Madrid.
   <!-- feedback: Incorrecto. Los jesuitas habían sido expulsados en 1767; no participaron de las tensiones militares de 1828 en Chuquisaca. -->
-- [ ] C) El rechazo absoluto de los indígenas de Potosí a seguir recibiendo salarios mensuales en pesos de oro del presupuesto nacional.
+- [ ] B) El rechazo absoluto de los indígenas de Potosí a seguir recibiendo salarios mensuales en pesos de oro del presupuesto nacional.
   <!-- feedback: Incorrecto. El tributo indígena se había reestablecido; los indígenas no rechazaban salarios de oro ya que sufrían de explotación servil agraria. -->
 - [ ] D) La declaración de guerra de los Estados Unidos de América por el control del litio de Uyuni.
   <!-- feedback: Incorrecto. En 1828 no existía uso industrial del litio ni intervenciones militares de los Estados Unidos en territorio boliviano altiplánico. -->
@@ -309,11 +309,11 @@ La reposición del tributo indígena por Sucre evidenció las hondas tensiones f
 ¿Qué contradicción social dividió a las élites terratenientes de Charcas de los libertadores Simón Bolívar y Sucre?
 
 ### Opciones
-- [x] A) Las élites defendían la continuidad de las haciendas de servidumbre indígena y el tributo, mientras que los libertadores promovían la abolición del latifundio feudal.
+- [x] C) Las élites defendían la continuidad de las haciendas de servidumbre indígena y el tributo, mientras que los libertadores promovían la abolición del latifundio feudal.
   <!-- feedback: Correcto. El ideario liberal de Bolívar y Sucre chocó frontalmente con el deseo de la élite de hacendados de mantener la mano de obra servil gratuita (pongueaje) para asegurar sus fortunas agrícolas. -->
-- [ ] B) La disputa por ver cuál de los dos sectores producía más cantidad de castaña amazónica de exportación.
+- [ ] A) La disputa por ver cuál de los dos sectores producía más cantidad de castaña amazónica de exportación.
   <!-- feedback: Incorrecto. Las castañas crecen en el norte amazónico del país (Beni y Pando), no en las alturas mineras de Potosí. -->
-- [ ] C) La exigencia de los mineros de que los agricultores utilicen de manera obligatoria tractores importados del Japón.
+- [ ] B) La exigencia de los mineros de que los agricultores utilicen de manera obligatoria tractores importados del Japón.
   <!-- feedback: Incorrecto. No existía tal exigencia tecnológica; las tensiones son hidrológicas reales por contaminación. -->
 - [ ] D) La abolición del catolicismo que pretenden imponer las cooperativas mineras para forzar la fe budista.
   <!-- feedback: Incorrecto. Los cooperativistas mineros rinden culto sincrético al Tío de la mina y son católicos, sin relación con el budismo. -->
@@ -332,11 +332,11 @@ A pesar de fundar un Estado republicano liberal, las élites terratenientes crio
 Al analizar críticamente la Constitución Vitalicia redactada por Bolívar, ¿qué contradicción teórica asomaba respecto de la soberanía popular?
 
 ### Opciones
-- [x] A) Consagraba la soberanía teórica del pueblo pero concentraba el poder real en una presidencia vitalicia libre de escrutinio electoral continuo.
+- [x] C) Consagraba la soberanía teórica del pueblo pero concentraba el poder real en una presidencia vitalicia libre de escrutinio electoral continuo.
   <!-- feedback: Correcto. El modelo vitalicio de Bolívar reflejaba su desconfianza en la madurez democrática de las sociedades andinas, intentando asegurar orden mediante un ejecutivo perpetuo que limitaba el ejercicio de la soberanía popular. -->
-- [ ] B) Declaraba oficial la lengua aymara para forzar la abolición del castellano en las aduanas nacionales.
+- [ ] A) Declaraba oficial la lengua aymara para forzar la abolición del castellano en las aduanas nacionales.
   <!-- feedback: Incorrecto. El castellano se mantuvo como el idioma oficial administrativo de todo el territorio nacional de Bolivia. -->
-- [ ] C) Hizo que España cediera la propiedad del Cerro Rico al Imperio británico a cambio de carbón vegetal.
+- [ ] B) Hizo que España cediera la propiedad del Cerro Rico al Imperio británico a cambio de carbón vegetal.
   <!-- feedback: Incorrecto. Potosí se mantuvo bajo estricto control exclusivo del Estado de Bolivia y nunca se cedió al Imperio británico. -->
 - [ ] D) Prohibía de manera absoluta la propiedad privada sobre las estancias de vicuñas de altura.
   <!-- feedback: Incorrecto. Las estancias y haciendas continuaron bajo propiedad agraria terrateniente, marginando a los indígenas de las tierras de origen. -->
@@ -378,11 +378,11 @@ La parálisis minera tras la independencia asfixió las finanzas públicas de la
 Al analizar los requisitos de ciudadanía en la primera Constitución de Bolivia, ¿qué contradicción sociopolítica dividía al ideal republicano de la realidad andina?
 
 ### Opciones
-- [x] A) Se exigía saber leer y escribir y poseer propiedad privada para votar, excluyendo de facto a la gran mayoría indígena de la ciudadanía real.
+- [x] C) Se exigía saber leer y escribir y poseer propiedad privada para votar, excluyendo de facto a la gran mayoría indígena de la ciudadanía real.
   <!-- feedback: Correcto. Aunque el discurso fundacional de la república ensalzaba la igualdad ciudadana de todos los bolivianos, se impuso el sufragio censitario restringido que marginó del poder político al campesinado indígena analfabeto. -->
-- [ ] B) Se obligaba a todos los ciudadanos andinos a hablar portugués de manera obligatoria bajo penas de prisión.
+- [ ] A) Se obligaba a todos los ciudadanos andinos a hablar portugués de manera obligatoria bajo penas de prisión.
   <!-- feedback: Incorrecto. El idioma administrativo oficial era el castellano; no se impuso el portugués ni se forzó el voto en ese idioma. -->
-- [ ] C) Se prohibió la existencia de cualquier religión que no fuera de origen andino ancestral de Tiwanaku.
+- [ ] B) Se prohibió la existencia de cualquier religión que no fuera de origen andino ancestral de Tiwanaku.
   <!-- feedback: Incorrecto. Se consagró constitucionalmente a la religión católica romana como la oficial de la patria de forma exclusiva. -->
 - [ ] D) Se exigía haber luchado físicamente en los ejércitos revolucionarios del norte de México para postular al parlamento.
   <!-- feedback: Incorrecto. Los requisitos de postulación legislativa eran patrimoniales y de residencia local en Bolivia, sin relación con México. -->
@@ -401,13 +401,13 @@ El sufragio censitario restringido consagró el carácter excluyente del nuevo E
 Al juzgar históricamente el final de la administración presidencial de Antonio José de Sucre en 1828, ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?
 
 ### Opciones
-- [x] A) Su salida representó el triunfo de las fuerzas conservadoras y locales terratenientes de Charcas refractarias a las reformas liberales ilustradas de los libertadores.
+- [x] D) Su salida representó el triunfo de las fuerzas conservadoras y locales terratenientes de Charcas refractarias a las reformas liberales ilustradas de los libertadores.
   <!-- feedback: Correcto. Las reformas modernizadoras, tributarias y fiscales del Mariscal Sucre (incluyendo la secularización de templos) asustaron a la aristocracia agraria tradicional de Chuquisaca, que azuzó el motín militar y la invasión peruana para forzar su renuncia. -->
-- [ ] B) Su renuncia se debió al total desinterés del Libertador Simón Bolívar por defender la independencia de Bolivia.
+- [ ] A) Su renuncia se debió al total desinterés del Libertador Simón Bolívar por defender la independencia de Bolivia.
   <!-- feedback: Incorrecto. Bolívar apoyaba decididamente la gestión de Sucre; su salida se debió a conspiraciones internas aliadas al general peruano Agustín Gamarra. -->
-- [ ] C) Representó un retroceso absoluto porque toda la población de Bolivia exigía el retorno voluntario e incondicional a España.
+- [ ] B) Representó un retroceso absoluto porque toda la población de Bolivia exigía el retorno voluntario e incondicional a España.
   <!-- feedback: Incorrecto. Las transformaciones republicanas contaban con amplio arraigo andino y de valles; no se buscaba retornar al yugo colonial real de Madrid. -->
-- [ ] D) Fue de poca trascendencia práctica debido a que Sucre se trasladó a gobernar de forma perpetua el Chaco paraguayo.
+- [ ] C) Fue de poca trascendencia práctica debido a que Sucre se trasladó a gobernar de forma perpetua el Chaco paraguayo.
   <!-- feedback: Incorrecto. Sucre retornó a la Gran Colombia y su salida de Bolivia abrió un periodo de honda inestabilidad que duraría hasta el ascenso de Santa Cruz. -->
 
 ### Explicacion Pedagogica
@@ -424,11 +424,11 @@ La expulsión del Mariscal Sucre marcó la victoria de la élite terrateniente l
 Al evaluar críticamente las decisiones tomadas por la Asamblea Deliberante de Chuquisaca en la fundación del Estado de Bolivia, ¿cuál de las siguientes conclusiones cuenta con mayor validez socio-histórica?
 
 ### Opciones
-- [x] A) Fundaron una república liberal formal que mantuvo intactas las estructuras coloniales de exclusión racial y servidumbre agraria indígena.
+- [x] C) Fundaron una república liberal formal que mantuvo intactas las estructuras coloniales de exclusión racial y servidumbre agraria indígena.
   <!-- feedback: Correcto. El Acta de Independencia de 1825 puso fin al dominio político de España, pero preservó de forma intacta la explotación servil andina del pongueaje, beneficiando de manera exclusiva a la minoría criolla terrateniente. -->
-- [ ] B) Abolieron pacíficamente toda forma de propiedad de haciendas para repartir la tierra de manera equitativa a los indígenas.
+- [ ] A) Abolieron pacíficamente toda forma de propiedad de haciendas para repartir la tierra de manera equitativa a los indígenas.
   <!-- feedback: Incorrecto. Se neutralizaron las reformas agrarias radicales de Bolívar y se reestableció el latifundio feudal terrateniente excluyente. -->
-- [ ] C) Decretaron que las 36 naciones y lenguas indígenas de tierras bajas de Bolivia fueran las únicas oficiales de las aduanas.
+- [ ] B) Decretaron que las 36 naciones y lenguas indígenas de tierras bajas de Bolivia fueran las únicas oficiales de las aduanas.
   <!-- feedback: Incorrecto. El castellano se mantuvo como el idioma exclusivo y las lenguas de tierras bajas fueron marginadas de la burocracia por décadas. -->
 - [ ] D) Obligaron a Simón Bolívar a casarse con la reina de España para sellar la paz comercial definitiva de la patria.
   <!-- feedback: Incorrecto. Es un planteamiento descabellado y ajeno a los rigores de la historia diplomática independentista de 1825. -->
@@ -470,13 +470,13 @@ La viabilidad inicial de Bolivia fue cuestionada por geógrafos y diplomáticos 
 Al juzgar críticamente la Constitución Vitalicia redactada por Simón Bolívar para Bolivia en 1826 como modelo constitucional de época, ¿cuál de las siguientes valoraciones posee mayor sustento?
 
 ### Opciones
-- [x] A) Fue un audaz ensayo de constitucionalismo autoritario ilustrado que fracasó en su intento de pacificar la región andina al concentrar demasiado poder en una presidencia vitalicia ajena a las dinámicas locales de partidos.
+- [x] D) Fue un audaz ensayo de constitucionalismo autoritario ilustrado que fracasó en su intento de pacificar la región andina al concentrar demasiado poder en una presidencia vitalicia ajena a las dinámicas locales de partidos.
   <!-- feedback: Correcto. El modelo vitalicio bolivariano de 1826 intentó importar la estabilidad institucional de la constitución napoleónica a los Andes bolivianos; sin embargo, no fue acatado por las élites locales criollas y militares, abriendo paso a décadas de caudillismo armado caudillista. -->
-- [ ] B) Fue un modelo pacífico de desarrollo ecológico sostenible que consagró los derechos constitucionales de la Madre Tierra.
+- [ ] A) Fue un modelo pacífico de desarrollo ecológico sostenible que consagró los derechos constitucionales de la Madre Tierra.
   <!-- feedback: Incorrecto. Los derechos de la Madre Tierra (Pachamama) fueron introducidos por primera vez en la Constitución de 2009 del siglo XXI. -->
-- [ ] C) Consagró al idioma portugués como el único idioma oficial del parlamento andino para mermar el centralismo de Sucre.
+- [ ] B) Consagró al idioma portugués como el único idioma oficial del parlamento andino para mermar el centralismo de Sucre.
   <!-- feedback: Incorrecto. El portugués nunca fue idioma de mando oficial de la república bolivariana; el castellano continuó como idioma exclusivo administrativo de la patria. -->
-- [ ] D) Establecía que Simón Bolívar debía ser coronado rey absoluto y hereditario de la corona del Brasil de forma voluntaria.
+- [ ] C) Establecía que Simón Bolívar debía ser coronado rey absoluto y hereditario de la corona del Brasil de forma voluntaria.
   <!-- feedback: Incorrecto. Bolívar rechazaba ardientemente la corona monárquica europea o brasileña y defendía la soberanía republicana de la patria boliviana. -->
 
 ### Explicacion Pedagogica

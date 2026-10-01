@@ -72,9 +72,9 @@ When making a prediction based on what we see (evidence), which structure is pre
 
 ### Opciones
 - [ ] A) will <!-- feedback: 'Will' se usa para predicciones basadas en opinión o conocimiento general, no necesariamente en evidencia visual inmediata. -->
-- [x] B) is going to <!-- feedback: ¡Exacto! Usamos 'be going to' para predicciones cuando vemos señales claras de que algo va a pasar. -->
-- [ ] C) is raining <!-- feedback: Esto diría que ya está lloviendo, pero las nubes indican que va a pasar en breves. -->
-- [ ] D) rains <!-- feedback: El presente simple no se usa para predicciones climáticas inmediatas. -->
+- [x] D) is going to <!-- feedback: ¡Exacto! Usamos 'be going to' para predicciones cuando vemos señales claras de que algo va a pasar. -->
+- [ ] B) is raining <!-- feedback: Esto diría que ya está lloviendo, pero las nubes indican que va a pasar en breves. -->
+- [ ] C) rains <!-- feedback: El presente simple no se usa para predicciones climáticas inmediatas. -->
 
 ### Explicacion Pedagogica
 Si ves las nubes negras sobre el Obelisco, tenés evidencia de que va a llover. En ese caso, la regla dice que debés usar "is going to rain". Guardá el "will" para cuando creas que va a llover pero no tengas la prueba frente a tus ojos.
@@ -93,8 +93,8 @@ Choose the best option for an intention (something you want to do but haven't or
 
 ### Opciones
 - [ ] A) will <!-- feedback: Suena más a una promesa o decisión del momento que a una meta planeada. -->
-- [x] B) am going to <!-- feedback: ¡Correcto! 'Be going to' es la forma ideal para hablar de intenciones y proyectos personales. -->
-- [ ] C) study <!-- feedback: Falta la marca de futuro; esto suena a una rutina presente. -->
+- [x] C) am going to <!-- feedback: ¡Correcto! 'Be going to' es la forma ideal para hablar de intenciones y proyectos personales. -->
+- [ ] B) study <!-- feedback: Falta la marca de futuro; esto suena a una rutina presente. -->
 - [ ] D) am studying <!-- feedback: Esto sugeriría que ya tiene todo el cronograma y la inscripción cerrada como un arreglo fijo. -->
 
 ### Explicacion Pedagogica
@@ -116,8 +116,8 @@ Waiter: "Excellent choice. I _______ them to you in a minute."
 
 ### Opciones
 - [ ] A) am bringing <!-- feedback: No es un plan organizado previamente, es una respuesta a un pedido. -->
-- [x] B) will bring <!-- feedback: ¡Muy bien! 'Will' se usa para ofrecerse a hacer algo o para promesas inmediatas. -->
-- [ ] C) bring <!-- feedback: El presente simple no suena natural para una promesa de acción futura en este contexto. -->
+- [x] C) will bring <!-- feedback: ¡Muy bien! 'Will' se usa para ofrecerse a hacer algo o para promesas inmediatas. -->
+- [ ] B) bring <!-- feedback: El presente simple no suena natural para una promesa de acción futura en este contexto. -->
 - [ ] D) am going to bring <!-- feedback: Aunque se entiende, 'will' es más común para este tipo de ofrecimientos de servicio. -->
 
 ### Explicacion Pedagogica
@@ -136,8 +136,8 @@ En un restaurante, los ofrecimientos de los mozos y los pedidos de los clientes 
 Fill in the blanks with the correct future forms: "We _______ (have) an asado on Sunday. I _______ (buy) the meat on Friday, I already talked to the butcher."
 
 ### Opciones
-- [ ] A) will have / will buy <!-- feedback: Suena muy incierto para algo que ya están organizando y hasta hablaron con el carnicero. -->
-- [x] B) are having / am going to buy <!-- feedback: ¡Exacto! El asado es un evento social organizado (present continuous) y comprar la carne es la intención planeada. -->
+- [ ] B) will have / will buy <!-- feedback: Suena muy incierto para algo que ya están organizando y hasta hablaron con el carnicero. -->
+- [x] A) are having / am going to buy <!-- feedback: ¡Exacto! El asado es un evento social organizado (present continuous) y comprar la carne es la intención planeada. -->
 - [ ] C) have / buy <!-- feedback: Esto describe rutinas, no un evento específico para este domingo. -->
 - [ ] D) are going to have / will buy <!-- feedback: Podría ser, pero la segunda parte es más una intención firme que una decisión espontánea. -->
 
@@ -157,8 +157,8 @@ Para organizar una salida o reunión (como un asado), lo más común es el prese
 For predictions about the distant future based on opinion, which is more appropriate? "I think that in 2050, most cars in Argentina _______ electric."
 
 ### Opciones
-- [x] A) will be <!-- feedback: ¡Correcto! Usamos 'will' con verbos de opinión como 'I think' para predicciones a largo plazo. -->
-- [ ] B) are going to be <!-- feedback: 'Going to' se prefiere para el futuro cercano o con evidencia, no para opiniones abstractas. -->
+- [x] B) will be <!-- feedback: ¡Correcto! Usamos 'will' con verbos de opinión como 'I think' para predicciones a largo plazo. -->
+- [ ] A) are going to be <!-- feedback: 'Going to' se prefiere para el futuro cercano o con evidencia, no para opiniones abstractas. -->
 - [ ] C) are being <!-- feedback: Esto es presente continuo y no tiene sentido para una predicción de 2050. -->
 - [ ] D) be <!-- feedback: Gramaticalmente incorrecto; le falta el auxiliar de futuro. -->
 
@@ -179,8 +179,8 @@ Select the sentence that correctly uses the Present Simple for a future timetabl
 
 ### Opciones
 - [ ] A) I am leaving for Mendoza tomorrow morning. <!-- feedback: Es un plan personal, por lo que usa presente continuo. -->
-- [x] B) The train to Tigre leaves in ten minutes from Retiro station. <!-- feedback: ¡Muy bien! Los horarios de transporte público (trenes, colectivos) usan presente simple. -->
-- [ ] C) I think it leaves later. <!-- feedback: Aunque usa presente simple, la frase 'I think' sugiere una opinión más que un dato de horario oficial. -->
+- [x] C) The train to Tigre leaves in ten minutes from Retiro station. <!-- feedback: ¡Muy bien! Los horarios de transporte público (trenes, colectivos) usan presente simple. -->
+- [ ] B) I think it leaves later. <!-- feedback: Aunque usa presente simple, la frase 'I think' sugiere una opinión más que un dato de horario oficial. -->
 - [ ] D) The train will leave soon. <!-- feedback: Esto es una predicción general, no el uso específico de horarios fijos. -->
 
 ### Explicacion Pedagogica
@@ -223,8 +223,8 @@ Si querés quedar bien y prometerle algo a alguien en el momento ("Te prometo qu
 Identify the correct use of future for an immediate danger: "Careful! You _______ fall into that hole!"
 
 ### Opciones
-- [ ] A) will <!-- feedback: No es una predicción lejana u opinión; es algo que está a punto de pasar por lo que ves. -->
-- [x] B) are going to <!-- feedback: ¡Exacto! Para peligros inmediatos que estamos viendo, usamos 'be going to'. -->
+- [ ] B) will <!-- feedback: No es una predicción lejana u opinión; es algo que está a punto de pasar por lo que ves. -->
+- [x] A) are going to <!-- feedback: ¡Exacto! Para peligros inmediatos que estamos viendo, usamos 'be going to'. -->
 - [ ] C) falling <!-- feedback: Gramaticalmente incompleto. -->
 - [ ] D) are falling <!-- feedback: Esto significaría que ya estás en el aire cayendo. -->
 
@@ -244,8 +244,8 @@ Si ves que alguien está por pisar mal o tropezarse, la advertencia es con "goin
 What is wrong with this question? "When you will travel to Ushuaia?"
 
 ### Opciones
-- [ ] A) The verb should be 'traveling'. <!-- feedback: No es necesario si se quiere usar 'will'. -->
-- [x] B) The word order is wrong; it should be 'When will you travel...?'. <!-- feedback: ¡Exacto! En las preguntas con 'will', el auxiliar debe ir antes del sujeto. -->
+- [ ] B) The verb should be 'traveling'. <!-- feedback: No es necesario si se quiere usar 'will'. -->
+- [x] A) The word order is wrong; it should be 'When will you travel...?'. <!-- feedback: ¡Exacto! En las preguntas con 'will', el auxiliar debe ir antes del sujeto. -->
 - [ ] C) You cannot use 'will' with 'travel'. <!-- feedback: Por supuesto que se puede; es un uso muy común. -->
 - [ ] D) It needs the auxiliary 'do'. <!-- feedback: 'Will' ya es el auxiliar de futuro, no necesita a 'do'. -->
 
@@ -266,9 +266,9 @@ Complete the complex sentence correctly: "As soon as I _______ (arrive) in Salta
 
 ### Opciones
 - [ ] A) will arrive / will call <!-- feedback: Después de conectores de tiempo como 'as soon as' o 'when', no se usa 'will' para el futuro. -->
-- [x] B) arrive / will call <!-- feedback: ¡Excelente! Usamos presente simple en la cláusula de tiempo y 'will' en la cláusula principal. -->
-- [ ] C) will arrive / call <!-- feedback: La regla es al revés; el presente va con el conector de tiempo. -->
-- [ ] D) am arriving / am going to call <!-- feedback: Aunque se entiende, la estructura estándar para estas condiciones de tiempo es Presente/Futuro. -->
+- [x] D) arrive / will call <!-- feedback: ¡Excelente! Usamos presente simple en la cláusula de tiempo y 'will' en la cláusula principal. -->
+- [ ] B) will arrive / call <!-- feedback: La regla es al revés; el presente va con el conector de tiempo. -->
+- [ ] C) am arriving / am going to call <!-- feedback: Aunque se entiende, la estructura estándar para estas condiciones de tiempo es Presente/Futuro. -->
 
 ### Explicacion Pedagogica
 Esta es una regla difícil: cuando usás palabras como "when", "as soon as" o "until" para hablar del futuro, el verbo que viene inmediatamente después va en presente simple. Es "As soon as I arrive" (apenas llegue). La segunda parte de la frase sí lleva el "will". ¡Acordate de esto para sonar como un experto!

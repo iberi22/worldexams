@@ -32,11 +32,11 @@ Este bundle contiene 10 preguntas sobre **numeros-racionales-multiplicacion-divi
 ### Enunciado
 ¿Cuál es el producto de las dos fracciones?
 ### Opciones
-- [x] A) $\frac{6}{35}$
+- [x] C) $\frac{6}{35}$
   <!-- feedback: Correcto. Se multiplican numeradores y denominadores: $\frac{3 \times 2}{5 \times 7} = \frac{6}{35}$. -->
-- [ ] B) $\frac{5}{12}$
+- [ ] A) $\frac{5}{12}$
   <!-- feedback: Incorrecto. Sumaste numeradores y denominadores en lugar de multiplicarlos. -->
-- [ ] C) $\frac{6}{12}$
+- [ ] B) $\frac{6}{12}$
   <!-- feedback: Incorrecto. Multiplicaste los numeradores pero sumaste los denominadores. -->
 - [ ] D) $\frac{5}{35}$
   <!-- feedback: Incorrecto. El producto de los numeradores no es $5$. -->
@@ -52,11 +52,11 @@ Para multiplicar fracciones se opera en línea: $\frac{3}{5} \times \frac{2}{7} 
 ### Enunciado
 ¿Qué fracción de galón contiene cada envase?
 ### Opciones
-- [x] A) $\frac{2}{5}$ de galón
+- [x] C) $\frac{2}{5}$ de galón
   <!-- feedback: Correcto. Dividir entre $2$ equivale a multiplicar por $\frac{1}{2}$: $\frac{4}{5} \times \frac{1}{2} = \frac{2}{5}$. -->
-- [ ] B) $\frac{8}{5}$ de galón
+- [ ] A) $\frac{8}{5}$ de galón
   <!-- feedback: Incorrecto. Multiplicaste por $2$ en lugar de dividir entre $2$. -->
-- [ ] C) $\frac{1}{5}$ de galón
+- [ ] B) $\frac{1}{5}$ de galón
   <!-- feedback: Incorrecto. Dividiste también el denominador entre $2$ de forma incorrecta. -->
 - [ ] D) $\frac{5}{8}$ de galón
   <!-- feedback: Incorrecto. Invertiste la fracción original. -->
@@ -72,13 +72,13 @@ Repartir en dos partes iguales es dividir entre $2$: $\frac{4}{5} \div 2 = \frac
 ### Enunciado
 ¿Cuál es el resultado de dividir $\frac{3}{4}$ entre $\frac{2}{5}$?
 ### Opciones
-- [x] A) $\frac{15}{8}$
+- [x] D) $\frac{15}{8}$
   <!-- feedback: Correcto. $\frac{3}{4} \div \frac{2}{5} = \frac{3}{4} \times \frac{5}{2} = \frac{15}{8}$. -->
-- [ ] B) $\frac{3}{10}$
+- [ ] A) $\frac{3}{10}$
   <!-- feedback: Incorrecto. Multiplicaste directamente las dos fracciones sin invertir la segunda. -->
-- [ ] C) $\frac{8}{15}$
+- [ ] B) $\frac{8}{15}$
   <!-- feedback: Incorrecto. Invertiste la fracción equivocada. -->
-- [ ] D) $\frac{5}{6}$
+- [ ] C) $\frac{5}{6}$
   <!-- feedback: Incorrecto. Invertiste la primera fracción en lugar de la segunda. -->
 ### Explicacion Pedagogica
 Dividir fracciones es multiplicar por el recíproco: $\frac{3}{4} \div \frac{2}{5} = \frac{3}{4} \times \frac{5}{2} = \frac{15}{8}$.
@@ -112,11 +112,11 @@ La fracción del rollo usada es $\frac{5}{6} \times \frac{2}{3} = \frac{10}{18} 
 ### Enunciado
 ¿Cuántos vasos se pueden llenar completamente?
 ### Opciones
-- [x] A) $6$ vasos
+- [x] C) $6$ vasos
   <!-- feedback: Correcto. $\frac{3}{2} \div \frac{1}{4} = \frac{3}{2} \times 4 = 6$. -->
-- [ ] B) $\frac{3}{8}$ de vaso
+- [ ] A) $\frac{3}{8}$ de vaso
   <!-- feedback: Incorrecto. Multiplicaste las fracciones cuando se pedía una división. -->
-- [ ] C) $\frac{8}{3}$ de vaso
+- [ ] B) $\frac{8}{3}$ de vaso
   <!-- feedback: Incorrecto. Invertiste el orden de la división. -->
 - [ ] D) $4$ vasos
   <!-- feedback: Incorrecto. Ignoraste la fracción $\frac{3}{2}$ del contenido total. -->
@@ -132,13 +132,13 @@ Número de vasos $= \frac{3}{2} \div \frac{1}{4} = \frac{3}{2} \times \frac{4}{1
 ### Enunciado
 ¿Cuál es el resultado correcto y simplificado?
 ### Opciones
-- [x] A) $\frac{3}{2}$
+- [x] D) $\frac{3}{2}$
   <!-- feedback: Correcto. $\frac{2}{3} \times \frac{9}{4} = \frac{18}{12} = \frac{3}{2}$. -->
-- [ ] B) $\frac{11}{12}$
+- [ ] A) $\frac{11}{12}$
   <!-- feedback: Incorrecto. Sumaste los términos en lugar de multiplicarlos. -->
-- [ ] C) $\frac{2}{9}$
+- [ ] B) $\frac{2}{9}$
   <!-- feedback: Incorrecto. Simplificaste de forma incorrecta el producto. -->
-- [ ] D) $\frac{27}{8}$
+- [ ] C) $\frac{27}{8}$
   <!-- feedback: Incorrecto. Multiplicaste mal uno de los factores. -->
 ### Explicacion Pedagogica
 Se multiplica en línea y se simplifica: $\frac{2}{3} \times \frac{9}{4} = \frac{18}{12} = \frac{3}{2}$.
@@ -152,13 +152,13 @@ Se multiplica en línea y se simplifica: $\frac{2}{3} \times \frac{9}{4} = \frac
 ### Enunciado
 ¿Cuál es el resultado simplificado de esa división?
 ### Opciones
-- [x] A) $\frac{3}{4}$
+- [x] D) $\frac{3}{4}$
   <!-- feedback: Correcto. $\frac{5}{6} \times \frac{9}{10} = \frac{45}{60} = \frac{3}{4}$. -->
-- [ ] B) $\frac{4}{3}$
+- [ ] A) $\frac{4}{3}$
   <!-- feedback: Incorrecto. Invertiste la fracción que se dividía. -->
-- [ ] C) $\frac{25}{27}$
+- [ ] B) $\frac{25}{27}$
   <!-- feedback: Incorrecto. Ese es el producto directo sin invertir el divisor. -->
-- [ ] D) $\frac{5}{18}$
+- [ ] C) $\frac{5}{18}$
   <!-- feedback: Incorrecto. Error al simplificar el producto. -->
 ### Explicacion Pedagogica
 $\frac{5}{6} \div \frac{10}{9} = \frac{5}{6} \times \frac{9}{10} = \frac{45}{60} = \frac{3}{4}$.
@@ -192,11 +192,11 @@ El área es base por altura: $\frac{7}{8} \times \frac{4}{7} = \frac{28}{56} = \
 ### Enunciado
 ¿Cuántos segundos se requieren para llenar la reserva?
 ### Opciones
-- [x] A) $6$ segundos
+- [x] C) $6$ segundos
   <!-- feedback: Correcto. $\frac{9}{4} \div \frac{3}{8} = \frac{9}{4} \times \frac{8}{3} = \frac{72}{12} = 6$. -->
-- [ ] B) $\frac{27}{32}$ de segundo
+- [ ] A) $\frac{27}{32}$ de segundo
   <!-- feedback: Incorrecto. Multiplicaste las fracciones en lugar de dividirlas. -->
-- [ ] C) $\frac{32}{27}$ de segundo
+- [ ] B) $\frac{32}{27}$ de segundo
   <!-- feedback: Incorrecto. Invertiste la razón entre volumen y caudal. -->
 - [ ] D) $\frac{3}{2}$ segundos
   <!-- feedback: Incorrecto. Dividiste de forma incompleta. -->
@@ -212,9 +212,9 @@ Tiempo $= \frac{9}{4} \div \frac{3}{8} = \frac{9}{4} \times \frac{8}{3} = \frac{
 ### Enunciado
 ¿Cuánto dinero destinó a lácteos?
 ### Opciones
-- [x] A) $72000\text{ COP}$
+- [x] B) $72000\text{ COP}$
   <!-- feedback: Correcto. Mercancía: $\frac{3}{4}$ de $240000 = 180000$; lácteos: $\frac{2}{5}$ de $180000 = 72000$. -->
-- [ ] B) $108000\text{ COP}$
+- [ ] A) $108000\text{ COP}$
   <!-- feedback: Incorrecto. Multiplicaste por $\frac{3}{5}$ en lugar de $\frac{2}{5}$. -->
 - [ ] C) $144000\text{ COP}$
   <!-- feedback: Incorrecto. Aplicaste $\frac{3}{5}$ sobre el monto inicial. -->

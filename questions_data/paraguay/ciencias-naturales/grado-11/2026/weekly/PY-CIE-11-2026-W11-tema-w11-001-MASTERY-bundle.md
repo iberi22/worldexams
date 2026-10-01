@@ -36,8 +36,8 @@ Este bundle cubre de manera exhaustiva la ecología de poblaciones, la dinámica
 ¿Qué término ecológico define al grupo de individuos de la misma especie de yaguareté (Panthera onca) que habita una misma área geográfica en un momento determinado?
 
 ### Opciones
-- [x] A) Población <!-- feedback: ¡Correcto! Una población es el conjunto de individuos de una misma especie que coexisten en el mismo espacio y tiempo interactuando entre sí. -->
-- [ ] B) Bioma <!-- feedback: Incorrecto. Un bioma representa una gran unidad comunitaria biogeográfica definida por clima y vegetación a escala global. -->
+- [x] B) Población <!-- feedback: ¡Correcto! Una población es el conjunto de individuos de una misma especie que coexisten en el mismo espacio y tiempo interactuando entre sí. -->
+- [ ] A) Bioma <!-- feedback: Incorrecto. Un bioma representa una gran unidad comunitaria biogeográfica definida por clima y vegetación a escala global. -->
 - [ ] C) Biosfera <!-- feedback: Incorrecto. La biosfera abarca la totalidad de las zonas de la Tierra donde se desarrolla la vida. -->
 - [ ] D) Nicho ecológico <!-- feedback: Incorrecto. El nicho ecológico describe la función u oficio ecológico de la especie, no al grupo de individuos. -->
 
@@ -99,10 +99,10 @@ El potencial biótico contrasta con la resistencia ambiental real, mostrando la 
 ¿Qué tipo de gráfico de crecimiento poblacional presenta una forma de curva en "J" cuando los recursos son ilimitados y no hay resistencia ambiental?
 
 ### Opciones
-- [x] A) Crecimiento exponencial <!-- feedback: ¡Correcto! El crecimiento exponencial genera una curva en J representativa de poblaciones en fase de expansión sin restricciones de recursos. -->
-- [ ] B) Crecimiento logístico <!-- feedback: Incorrecto. El crecimiento logístico describe una curva en S con estabilización en la capacidad de carga (K). -->
-- [ ] C) Curva de oscilación caótica <!-- feedback: Incorrecto. Las oscilaciones caóticas reflejan variaciones impredecibles sin un patrón geométrico continuo. -->
-- [ ] D) Crecimiento regresivo lineal <!-- feedback: Incorrecto. El crecimiento regresivo implica disminución progresiva de la población en pendiente constante. -->
+- [x] D) Crecimiento exponencial <!-- feedback: ¡Correcto! El crecimiento exponencial genera una curva en J representativa de poblaciones en fase de expansión sin restricciones de recursos. -->
+- [ ] A) Crecimiento logístico <!-- feedback: Incorrecto. El crecimiento logístico describe una curva en S con estabilización en la capacidad de carga (K). -->
+- [ ] B) Curva de oscilación caótica <!-- feedback: Incorrecto. Las oscilaciones caóticas reflejan variaciones impredecibles sin un patrón geométrico continuo. -->
+- [ ] C) Crecimiento regresivo lineal <!-- feedback: Incorrecto. El crecimiento regresivo implica disminución progresiva de la población en pendiente constante. -->
 
 ### Explicacion Pedagogica
 El crecimiento exponencial es característico de especies colonizadoras o plagas introducidas en ausencia de depredadores o límites de recursos en ecosistemas acuáticos.
@@ -141,8 +141,8 @@ La capacidad de carga determina la estabilidad a largo plazo en modelos logísti
 ¿Cuál de los siguientes factores reguladores del crecimiento poblacional actúa como un factor dependiente de la densidad?
 
 ### Opciones
-- [x] A) La competencia intraespecífica por alimento <!-- feedback: ¡Correcto! La competencia por alimento se intensifica a medida que aumenta la densidad poblacional, reduciendo la natalidad o supervivencia. -->
-- [ ] B) Una helada extrema e inesperada en invierno <!-- feedback: Incorrecto. Los eventos climáticos extremos son factores independientes de la densidad ya que afectan a los individuos sin importar su número. -->
+- [x] B) La competencia intraespecífica por alimento <!-- feedback: ¡Correcto! La competencia por alimento se intensifica a medida que aumenta la densidad poblacional, reduciendo la natalidad o supervivencia. -->
+- [ ] A) Una helada extrema e inesperada en invierno <!-- feedback: Incorrecto. Los eventos climáticos extremos son factores independientes de la densidad ya que afectan a los individuos sin importar su número. -->
 - [ ] C) Una erupción volcánica lejana <!-- feedback: Incorrecto. Las catástrofes físicas son factores densoindependientes. -->
 - [ ] D) Un incendio forestal catastrófico accidental <!-- feedback: Incorrecto. Los incendios causan mortalidad sin depender de la densidad previa de la población. -->
 
@@ -162,8 +162,8 @@ Los factores dependientes de la densidad (competencia, depredación, parasitismo
 Las especies catalogadas como estrategas "k" (como el tapir o el yaguareté) se caracterizan por presentar:
 
 ### Opciones
-- [x] A) Maduración lenta, pocos descendientes por camada y alta inversión de cuidado parental <!-- feedback: ¡Correcto! Los estrategas k invierten mucha energía en pocas crías asegurando alta supervivencia en ambientes estables. -->
-- [ ] B) Maduración veloz, alta fecundidad y nulo cuidado de las crías <!-- feedback: Incorrecto. Este patrón describe a los estrategas r (como insectos o peces pequeños). -->
+- [x] B) Maduración lenta, pocos descendientes por camada y alta inversión de cuidado parental <!-- feedback: ¡Correcto! Los estrategas k invierten mucha energía en pocas crías asegurando alta supervivencia en ambientes estables. -->
+- [ ] A) Maduración veloz, alta fecundidad y nulo cuidado de las crías <!-- feedback: Incorrecto. Este patrón describe a los estrategas r (como insectos o peces pequeños). -->
 - [ ] C) Alta tasa de mortalidad de los adultos y vida muy corta <!-- feedback: Incorrecto. Los estrategas k suelen tener larga esperanza de vida y baja mortalidad adulta. -->
 - [ ] D) Crecimiento exponencial ilimitado tipo J continuo <!-- feedback: Incorrecto. Los estrategas k mantienen sus poblaciones cerca de la capacidad de carga K del ecosistema. -->
 
@@ -183,8 +183,8 @@ Comprender las estrategias r/k permite planificar la conservación: los estrateg
 ¿Qué patrón de distribución espacial presentan los árboles de una especie cuando los recursos están repartidos uniformemente y existe competencia territorial entre ellos?
 
 ### Opciones
-- [x] A) Distribución uniforme (o regular) <!-- feedback: ¡Correcto! La distribución uniforme surge por interacciones antagónicas o competencia directa que genera distancias regulares entre individuos. -->
-- [ ] B) Distribución agrupada (o en parches) <!-- feedback: Incorrecto. La distribución agrupada es la más común y se debe a recursos heterogéneos o comportamiento social. -->
+- [x] B) Distribución uniforme (o regular) <!-- feedback: ¡Correcto! La distribución uniforme surge por interacciones antagónicas o competencia directa que genera distancias regulares entre individuos. -->
+- [ ] A) Distribución agrupada (o en parches) <!-- feedback: Incorrecto. La distribución agrupada es la más común y se debe a recursos heterogéneos o comportamiento social. -->
 - [ ] C) Distribución aleatoria (o al azar) <!-- feedback: Incorrecto. La distribución aleatoria ocurre en ambientes homogéneos sin atracciones ni repulsiones entre individuos. -->
 - [ ] D) Distribución estocástica asimétrica <!-- feedback: Incorrecto. Término genérico no estandarizado para los tres patrones espaciales ecológicos clásicos. -->
 
@@ -204,8 +204,8 @@ Los patrones espaciales (agrupado, uniforme, aleatorio) entregan pistas clave so
 ¿Qué fenómeno ecológico ocurre cuando un hábitat continuo se divide en fragmentos pequeños y desconectados, aumentando los efectos de borde y reduciendo la variabilidad genética?
 
 ### Opciones
-- [x] A) Fragmentación del hábitat <!-- feedback: ¡Correcto! La fragmentación del hábitat aisla poblaciones pequeñas reduciendo el flujo génico y aumentando el riesgo de extirpación local. -->
-- [ ] B) Especiación simpátrica inmediata <!-- feedback: Incorrecto. La especiación simpátrica ocurre sin barreras geográficas ni fragmentación en la misma área. -->
+- [x] B) Fragmentación del hábitat <!-- feedback: ¡Correcto! La fragmentación del hábitat aisla poblaciones pequeñas reduciendo el flujo génico y aumentando el riesgo de extirpación local. -->
+- [ ] A) Especiación simpátrica inmediata <!-- feedback: Incorrecto. La especiación simpátrica ocurre sin barreras geográficas ni fragmentación en la misma área. -->
 - [ ] C) Sucesión ecológica primaria <!-- feedback: Incorrecto. La sucesión primaria se inicia en sustratos vírgenes sin suelo previo como lavas volcánicas. -->
 - [ ] D) Biomagnificación trófica <!-- feedback: Incorrecto. La biomagnificación es el aumento concentrado de contaminantes en niveles tróficos superiores. -->
 
@@ -225,9 +225,9 @@ La fragmentación del hábitat es la principal causa de pérdida de biodiversida
 ¿Cuál es la función ecológica principal de los "corredores biológicos" en las estrategias de conservación de la naturaleza?
 
 ### Opciones
-- [x] A) Permitir el desplazamiento de fauna entre fragmentos aislados para mantener el flujo génico <!-- feedback: ¡Correcto! Los corredores biológicos conectan parches forestales reduciendo los impactos del aislamiento genético y la endogamia. -->
-- [ ] B) Fomentar la agricultura intensiva de cereales dentro de las reservas <!-- feedback: Incorrecto. Los corredores buscan proteger la conectividad natural, no intensificar el uso agropecuario. -->
-- [ ] C) Eliminar la totalidad de depredadores tope de la cadena trófica <!-- feedback: Incorrecto. La eliminación de depredadores altera drásticamente el equilibrio de los ecosistemas. -->
+- [x] C) Permitir el desplazamiento de fauna entre fragmentos aislados para mantener el flujo génico <!-- feedback: ¡Correcto! Los corredores biológicos conectan parches forestales reduciendo los impactos del aislamiento genético y la endogamia. -->
+- [ ] A) Fomentar la agricultura intensiva de cereales dentro de las reservas <!-- feedback: Incorrecto. Los corredores buscan proteger la conectividad natural, no intensificar el uso agropecuario. -->
+- [ ] B) Eliminar la totalidad de depredadores tope de la cadena trófica <!-- feedback: Incorrecto. La eliminación de depredadores altera drásticamente el equilibrio de los ecosistemas. -->
 - [ ] D) Aumentar la tasa de deforestación legal en la zona de amortiguamiento <!-- feedback: Incorrecto. Los corredores biológicos reducen la vulnerabilidad de las especies frente al cambio de uso de suelo. -->
 
 ### Explicacion Pedagogica
@@ -246,9 +246,9 @@ Los corredores biológicos restablecen la conectividad paisajística y sostienen
 Al analizar el impacto de una especie exótica invasora en un ecosistema dulceacuícola, ¿por qué motivo suele multiplicarse rápidamente afectando a las especies nativas?
 
 ### Opciones
-- [x] A) Carece de depredadores naturales, parásitos y competidores adaptados en el nuevo ambiente <!-- feedback: ¡Correcto! La ausencia de controles biológicos en el nuevo ecosistema permite a las especies invasoras aprovechar recursos sin la resistencia ambiental nativa. -->
-- [ ] B) Reduce su potencial biótico a cero al ingresar a un nuevo cuerpo de agua <!-- feedback: Incorrecto. Las invasoras exitosas suelen poseer alto potencial biótico y rápida reproducción. -->
-- [ ] C) Su masa corporal disminuye drásticamente evitando ser consumida <!-- feedback: Incorrecto. El tamaño corporal no es la causa principal de su éxito colonizador frente a competidores nativos. -->
+- [x] C) Carece de depredadores naturales, parásitos y competidores adaptados en el nuevo ambiente <!-- feedback: ¡Correcto! La ausencia de controles biológicos en el nuevo ecosistema permite a las especies invasoras aprovechar recursos sin la resistencia ambiental nativa. -->
+- [ ] A) Reduce su potencial biótico a cero al ingresar a un nuevo cuerpo de agua <!-- feedback: Incorrecto. Las invasoras exitosas suelen poseer alto potencial biótico y rápida reproducción. -->
+- [ ] B) Su masa corporal disminuye drásticamente evitando ser consumida <!-- feedback: Incorrecto. El tamaño corporal no es la causa principal de su éxito colonizador frente a competidores nativos. -->
 - [ ] D) Induce la especiación instantánea de todas las especies autóctonas <!-- feedback: Incorrecto. Las especies invasoras causan desplazamiento o extinción local, no especiación inmediata de las especies nativas. -->
 
 ### Explicacion Pedagogica
@@ -309,9 +309,9 @@ La complejidad estructural y florística del bosque nativo soporta una vasta red
 Si una enfermedad viral eliminara al 90% de la población de carpinchos en un humedal, ¿cuál sería la consecuencia ecológica inmediata en el nivel trófico superior?
 
 ### Opciones
-- [x] A) Intensa competencia y declive poblacional entre depredadores superiores por escasez de presas <!-- feedback: ¡Correcto! La reducción drástica de una presa clave disminuye la energía disponible para los carnívoros del nivel superior. -->
-- [ ] B) Incremento instantáneo en la población de yaguaretés por mayor espacio libre <!-- feedback: Incorrecto. Sin alimento, los depredadores sufren desnutrición y caída en la tasa natal. -->
-- [ ] C) Transformación de los depredadores en consumidores primarios fotosintéticos <!-- feedback: Incorrecto. Las adaptaciones tróficas carnívoras no cambian a autótrofas por falta de alimento. -->
+- [x] C) Intensa competencia y declive poblacional entre depredadores superiores por escasez de presas <!-- feedback: ¡Correcto! La reducción drástica de una presa clave disminuye la energía disponible para los carnívoros del nivel superior. -->
+- [ ] A) Incremento instantáneo en la población de yaguaretés por mayor espacio libre <!-- feedback: Incorrecto. Sin alimento, los depredadores sufren desnutrición y caída en la tasa natal. -->
+- [ ] B) Transformación de los depredadores en consumidores primarios fotosintéticos <!-- feedback: Incorrecto. Las adaptaciones tróficas carnívoras no cambian a autótrofas por falta de alimento. -->
 - [ ] D) Extinción total e inmediata de la vegetación acuática del humedal <!-- feedback: Incorrecto. La disminución de herbívoros tiende a aumentar temporalmente la biomasa vegetal. -->
 
 ### Explicacion Pedagogica
@@ -351,9 +351,9 @@ Las curvas de supervivencia (Tipos I, II y III) resumen las estrategias de histo
 ¿Cuál es la consecuencia genética directa que sufren las poblaciones pequeñas aisladas debido a la endogamia sostenida en fragmentos forestales?
 
 ### Opciones
-- [x] A) Aumento de la homocigosis y manifestación de alelos recesivos deletéreos <!-- feedback: ¡Correcto! La endogamia en poblaciones reducidas eleva la homocigosis, exponiendo mutaciones dañinas y reduciendo la aptitud (depresión endogámica). -->
-- [ ] B) Incremento sostenido de la heterocigosis y vigor híbrido natural <!-- feedback: Incorrecto. La variabilidad genética y la heterocigosis disminuyen con la endogamia. -->
-- [ ] C) Mutación espontánea defensiva que triplica el ADN en una generación <!-- feedback: Incorrecto. Las mutaciones son eventos aleatorios y no se inducen como respuesta adaptativa intencional. -->
+- [x] C) Aumento de la homocigosis y manifestación de alelos recesivos deletéreos <!-- feedback: ¡Correcto! La endogamia en poblaciones reducidas eleva la homocigosis, exponiendo mutaciones dañinas y reduciendo la aptitud (depresión endogámica). -->
+- [ ] A) Incremento sostenido de la heterocigosis y vigor híbrido natural <!-- feedback: Incorrecto. La variabilidad genética y la heterocigosis disminuyen con la endogamia. -->
+- [ ] B) Mutación espontánea defensiva que triplica el ADN en una generación <!-- feedback: Incorrecto. Las mutaciones son eventos aleatorios y no se inducen como respuesta adaptativa intencional. -->
 - [ ] D) Resistencia instantánea contra todas las enfermedades infecciosas <!-- feedback: Incorrecto. La baja diversidad genética incrementa la susceptibilidad colectiva a epidemias. -->
 
 ### Explicacion Pedagogica
@@ -393,10 +393,10 @@ La conservación de los biomas nativos de Paraguay es vital para el balance del 
 ¿Qué proceso de alteración hídrica, derivado del vertido de efluentes urbanos y agrícolas ricos en fósforo y nitrógeno, desencadena esta proliferación nociva?
 
 ### Opciones
-- [x] A) Eutrofización cultural <!-- feedback: ¡Correcto! El exceso de nutrientes (N y P) provoca un crecimiento desmedido de algas, reduciendo el oxígeno disuelto y colapsando la vida acuática. -->
-- [ ] B) Salinización secundaria por evaporación <!-- feedback: Incorrecto. La salinización implica acumulación de sales minerales soluble no de amonio o fosfatos orgánicos. -->
-- [ ] C) Acidificación mineral pura <!-- feedback: Incorrecto. La acidificación se debe a lluvia ácida o drenaje minero, no a enriquecimiento de nutrientes orgánicos. -->
-- [ ] D) Bioacumulación pesada de mercurio <!-- feedback: Incorrecto. La bioacumulación se refiere a tóxicos no biodegradables en tejidos organísmicos. -->
+- [x] D) Eutrofización cultural <!-- feedback: ¡Correcto! El exceso de nutrientes (N y P) provoca un crecimiento desmedido de algas, reduciendo el oxígeno disuelto y colapsando la vida acuática. -->
+- [ ] A) Salinización secundaria por evaporación <!-- feedback: Incorrecto. La salinización implica acumulación de sales minerales soluble no de amonio o fosfatos orgánicos. -->
+- [ ] B) Acidificación mineral pura <!-- feedback: Incorrecto. La acidificación se debe a lluvia ácida o drenaje minero, no a enriquecimiento de nutrientes orgánicos. -->
+- [ ] C) Bioacumulación pesada de mercurio <!-- feedback: Incorrecto. La bioacumulación se refiere a tóxicos no biodegradables en tejidos organísmicos. -->
 
 ### Explicacion Pedagogica
 La eutrofización cultural evidencia cómo el manejo inadecuado de cuencas hidrográficas degrada la calidad de los recursos hídricos fundamentales.
@@ -435,10 +435,10 @@ Las Reservas de Biosfera demuestran que la conservación de la naturaleza requie
 ¿Qué principio ecológico explica por qué los peces carnívoros y las aves rapaces acumulan mayores concentraciones del toxina en sus tejidos que el fitoplancton base?
 
 ### Opciones
-- [x] A) Biomagnificación (o amplificación trófica) <!-- feedback: ¡Correcto! Las sustancias liposolubles y persientes se concentran progresivamente en niveles tróficos superiores a lo largo de la cadena alimentaria. -->
-- [ ] B) Bioasimilación nitrogenada fotosintética <!-- feedback: Incorrecto. La asimilación de nitrógeno es un proceso metabólico nutricional normal en plantas. -->
-- [ ] C) Decaimiento radiactivo estocástico <!-- feedback: Incorrecto. La disminución de isótopos no describe la acumulación de contaminantes orgánicos. -->
-- [ ] D) Transpiración foliar compensatoria <!-- feedback: Incorrecto. La transpiración vegetal regula la temperatura y flujo hídrico en traqueofitas. -->
+- [x] D) Biomagnificación (o amplificación trófica) <!-- feedback: ¡Correcto! Las sustancias liposolubles y persientes se concentran progresivamente en niveles tróficos superiores a lo largo de la cadena alimentaria. -->
+- [ ] A) Bioasimilación nitrogenada fotosintética <!-- feedback: Incorrecto. La asimilación de nitrógeno es un proceso metabólico nutricional normal en plantas. -->
+- [ ] B) Decaimiento radiactivo estocástico <!-- feedback: Incorrecto. La disminución de isótopos no describe la acumulación de contaminantes orgánicos. -->
+- [ ] C) Transpiración foliar compensatoria <!-- feedback: Incorrecto. La transpiración vegetal regula la temperatura y flujo hídrico en traqueofitas. -->
 
 ### Explicacion Pedagogica
 La biomagnificación trófica demuestra que los contaminantes persistentes amenazan especialmente a los depredadores tope y a la salud humana.

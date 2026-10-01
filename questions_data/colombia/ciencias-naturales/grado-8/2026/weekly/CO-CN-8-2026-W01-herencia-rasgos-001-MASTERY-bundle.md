@@ -32,13 +32,13 @@ Este bundle contiene 12 preguntas sobre **herencia-rasgos** para grado 8, alinea
 ### Enunciado
 ¿Cuál es el genotipo de toda la descendencia en la primera generación filial ($F_1$)?
 ### Opciones
-- [x] A) Heterocigoto ($Aa$)
+- [x] D) Heterocigoto ($Aa$)
   <!-- feedback: Correcto. $AA \times aa \implies 100\%$ $Aa$ (Leyes de Mendel). -->
-- [ ] B) Homocigoto dominante ($AA$)
+- [ ] A) Homocigoto dominante ($AA$)
   <!-- feedback: Incorrecto. Se requiere que ambos progenitores aporten el alelo $A$. -->
-- [ ] C) Homocigoto recesivo ($aa$)
+- [ ] B) Homocigoto recesivo ($aa$)
   <!-- feedback: Incorrecto. El progenitor dominante siempre aporta un alelo $A$. -->
-- [ ] D) Mitad $AA$ y mitad $aa$
+- [ ] C) Mitad $AA$ y mitad $aa$
   <!-- feedback: Incorrecto. Esto no ocurre en el cruce de razas puras distintas. -->
 ### Explicacion Pedagogica
 Cruce monohíbrido de razas puras $AA \times aa$: la totalidad de la descendencia $F_1$ hereda el genotipo heterocigoto $Aa$.
@@ -52,11 +52,11 @@ Cruce monohíbrido de razas puras $AA \times aa$: la totalidad de la descendenci
 ### Enunciado
 ¿Qué término define el conjunto de características físicas y observables de un organismo resultantes de la interacción entre sus genes y el ambiente?
 ### Opciones
-- [x] A) Fenotipo
+- [x] C) Fenotipo
   <!-- feedback: Correcto. El fenotipo es la manifestación física y observable de la información genética. -->
-- [ ] B) Genotipo
+- [ ] A) Genotipo
   <!-- feedback: Incorrecto. El genotipo es la composición de alelos no visible directamente. -->
-- [ ] C) Cariotipo
+- [ ] B) Cariotipo
   <!-- feedback: Incorrecto. El cariotipo es el mapa ordenado de cromosomas celulares. -->
 - [ ] D) Genoma
   <!-- feedback: Incorrecto. El genoma es la totalidad del material genético de la especie. -->
@@ -72,9 +72,9 @@ Fenotipo $=$ Genotipo $+$ Ambiente (manifestación observable de los rasgos).
 ### Enunciado
 ¿Cuál es la proporción fenotípica esperada en la generación $F_2$?
 ### Opciones
-- [x] A) $3$ plantas altas por cada $1$ planta baja ($3:1$)
+- [x] B) $3$ plantas altas por cada $1$ planta baja ($3:1$)
   <!-- feedback: Correcto. $1TT : 2Tt : 1tt \implies 3$ fenotipos altos : $1$ fenotipo bajo. -->
-- [ ] B) $1$ planta alta por cada $1$ planta baja ($1:1$)
+- [ ] A) $1$ planta alta por cada $1$ planta baja ($1:1$)
   <!-- feedback: Incorrecto. Corresponde al cruce de prueba $Tt \times tt$. -->
 - [ ] C) Todas las plantas serán de tallo bajo ($0:4$)
   <!-- feedback: Incorrecto. El alelo recesivo solo se expresa en el homocigoto $tt$. -->
@@ -152,11 +152,11 @@ $ii \times I^A I^B \implies 50\% I^A i$ (Grupo A) y $50\% I^B i$ (Grupo B).
 ### Enunciado
 ¿Cuál es la proporción fenotípica mendeliana clásica esperada en la descendencia?
 ### Opciones
-- [x] A) $9:3:3:1$
+- [x] C) $9:3:3:1$
   <!-- feedback: Correcto. $9$ Lisas-Amarillas : $3$ Lisas-Verdes : $3$ Rugosas-Amarillas : $1$ Rugosa-Verde. -->
-- [ ] B) $3:1$
+- [ ] A) $3:1$
   <!-- feedback: Incorrecto. Es la proporción de un cruce monohíbrido. -->
-- [ ] C) $1:2:1$
+- [ ] B) $1:2:1$
   <!-- feedback: Incorrecto. Es la proporción genotípica monohíbrida. -->
 - [ ] D) $1:1:1:1$
   <!-- feedback: Incorrecto. Corresponde a un cruce de prueba dihíbrido $RrYy \times rryy$. -->
@@ -172,13 +172,13 @@ Tercera Ley de Mendel (segregación independiente en dihíbridos): Proporción f
 ### Enunciado
 ¿Qué riesgo existe de que cada uno de sus hijos nazca con la enfermedad?
 ### Opciones
-- [x] A) $50\%$ de probabilidad para cada hijo, independientemente del sexo.
+- [x] D) $50\%$ de probabilidad para cada hijo, independientemente del sexo.
   <!-- feedback: Correcto. Cruce $Aa \times aa \implies 50\% Aa$ (afectado) y $50\% aa$ (sano). -->
-- [ ] B) $25\%$ de probabilidad para las hijas únicamente.
+- [ ] A) $25\%$ de probabilidad para las hijas únicamente.
   <!-- feedback: Incorrecto. Las enfermedades autosómicas afectan por igual a hombres y mujeres. -->
-- [ ] C) $100\%$ de probabilidad si son varones.
+- [ ] B) $100\%$ de probabilidad si son varones.
   <!-- feedback: Incorrecto. No está ligada al sexo. -->
-- [ ] D) $0\%$ de probabilidad si la madre es sana.
+- [ ] C) $0\%$ de probabilidad si la madre es sana.
   <!-- feedback: Incorrecto. Al ser dominante, basta un solo alelo $A$ heredado del padre. -->
 ### Explicacion Pedagogica
 Estar en autosoma significa sin sesgo de sexo. $Aa \times aa \implies 50\% Aa$ (enfermo) y $50\% aa$ (sano).
@@ -192,9 +192,9 @@ Estar en autosoma significa sin sesgo de sexo. $Aa \times aa \implies 50\% Aa$ (
 ### Enunciado
 ¿Qué mecanismo de herencia no mendeliana explica este patrón?
 ### Opciones
-- [x] A) Dominancia incompleta (herencia intermedia)
+- [x] B) Dominancia incompleta (herencia intermedia)
   <!-- feedback: Correcto. Ningún alelo domina por completo, resultando un fenotipo heterocigoto intermedio. -->
-- [ ] B) Codominancia pura
+- [ ] A) Codominancia pura
   <!-- feedback: Incorrecto. En codominancia se observan manchas de ambos colores simultáneamente, no una mezcla uniforme. -->
 - [ ] C) Alelos múltiples
   <!-- feedback: Incorrecto. Involucra más de dos alelos alternativos en la población. -->
@@ -212,11 +212,11 @@ La dominancia incompleta produce un fenotipo intermedio mezcladivo en los hetero
 ### Enunciado
 ¿Cuál es el significado evolutivo e biológico fundamental del sobrecruzamiento?
 ### Opciones
-- [x] A) Generar variabilidad genética recombinando alelos maternos y paternos.
+- [x] C) Generar variabilidad genética recombinando alelos maternos y paternos.
   <!-- feedback: Correcto. El crossing-over mezcla combinaciones de alelos creando gametos únicos. -->
-- [ ] B) Duplicar la cantidad de cromosomas celulares de diploide a tetraploide.
+- [ ] A) Duplicar la cantidad de cromosomas celulares de diploide a tetraploide.
   <!-- feedback: Incorrecto. La meiosis reduce el número de cromosomas a haploide ($n$). -->
-- [ ] C) Impedir las mutaciones espontáneas durante la replicación del ADN.
+- [ ] B) Impedir las mutaciones espontáneas durante la replicación del ADN.
   <!-- feedback: Incorrecto. El sobrecruzamiento no es un mecanismo de reparación de mutaciones. -->
 - [ ] D) Asegurar que todas las células hijas sean genéticamente idénticas.
   <!-- feedback: Incorrecto. La clonación idéntica es propia de la mitosis. -->
@@ -252,11 +252,11 @@ A menor frecuencia de sobrecruzamiento/recombinación entre dos genes, menor es 
 ### Enunciado
 ¿Qué falla durante el proceso de división meiótica celular origina este evento de aneuploidía?
 ### Opciones
-- [x] A) No disyunción meiótica de los cromosomas homólogos o cromátidas hermanas durante la anafase.
+- [x] C) No disyunción meiótica de los cromosomas homólogos o cromátidas hermanas durante la anafase.
   <!-- feedback: Correcto. La falta de separación adecuada provoca que un gameto reciba dos copias del cromosoma 21. -->
-- [ ] B) Duplicación del ADN sin división citoplasmática en mitosis.
+- [ ] A) Duplicación del ADN sin división citoplasmática en mitosis.
   <!-- feedback: Incorrecto. Originaría poliploidía total ($4n$), no aneuploidía focalizada en un par. -->
-- [ ] C) Perdida completa del huso acromático durante la telofase.
+- [ ] B) Perdida completa del huso acromático durante la telofase.
   <!-- feedback: Incorrecto. La no disyunción ocurre en Anafase I o II. -->
 - [ ] D) Entrecruzamiento desigual en la profase mitótica.
   <!-- feedback: Incorrecto. El crossing-over no altera el número cromosómico. -->

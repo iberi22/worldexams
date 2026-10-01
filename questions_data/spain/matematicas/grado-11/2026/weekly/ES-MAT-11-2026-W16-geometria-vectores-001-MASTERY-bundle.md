@@ -29,8 +29,8 @@ bundle_index: 1
 ¿Cuáles son las tres características fundamentales que definen a un vector?
 
 ### Opciones
-- [ ] A) Masa, volumen y densidad. <!-- feedback: Estas son propiedades de la materia, no de los vectores. -->
-- [x] B) Módulo, dirección y sentido. <!-- feedback: Correcto. Un vector queda definido por su longitud (módulo), la recta que lo contiene (dirección) y hacia dónde apunta (sentido). -->
+- [ ] B) Masa, volumen y densidad. <!-- feedback: Estas son propiedades de la materia, no de los vectores. -->
+- [x] A) Módulo, dirección y sentido. <!-- feedback: Correcto. Un vector queda definido por su longitud (módulo), la recta que lo contiene (dirección) y hacia dónde apunta (sentido). -->
 - [ ] C) Origen, extremo y coordenadas. <!-- feedback: Estas sirven para representar un vector, pero no son sus propiedades intrínsecas definitorias. -->
 - [ ] D) Eje X, eje Y y eje Z. <!-- feedback: Estos son los ejes de un sistema de coordenadas. -->
 
@@ -72,8 +72,8 @@ Si un vector $\vec{v}$ tiene coordenadas $(v_x, v_y)$, ¿cuál es la fórmula pa
 
 ### Opciones
 - [ ] A) $|\vec{v}| = v_x + v_y$ <!-- feedback: La suma simple de coordenadas no da la longitud del vector. -->
-- [x] B) $|\vec{v}| = \sqrt{v_x^2 + v_y^2}$ <!-- feedback: Correcto. Se deriva directamente del teorema de Pitágoras aplicado al triángulo formado por las componentes. -->
-- [ ] C) $|\vec{v}| = v_x^2 + v_y^2$ <!-- feedback: Falta realizar la raíz cuadrada final. -->
+- [x] C) $|\vec{v}| = \sqrt{v_x^2 + v_y^2}$ <!-- feedback: Correcto. Se deriva directamente del teorema de Pitágoras aplicado al triángulo formado por las componentes. -->
+- [ ] B) $|\vec{v}| = v_x^2 + v_y^2$ <!-- feedback: Falta realizar la raíz cuadrada final. -->
 - [ ] D) $|\vec{v}| = |v_x \cdot v_y|$ <!-- feedback: El producto de coordenadas no está relacionado con el módulo. -->
 
 ### Explicacion Pedagogica
@@ -92,8 +92,8 @@ El módulo representa la longitud del segmento orientado. En un sistema de ejes 
 ¿Cuál es la característica principal de un vector unitario?
 
 ### Opciones
-- [ ] A) Que sus coordenadas son siempre (1, 1). <!-- feedback: El vector (1,1) tiene módulo raíz de 2. -->
-- [x] B) Que su módulo es exactamente igual a 1. <!-- feedback: Correcto. Los vectores unitarios se usan para indicar dirección y sentido sin afectar a la magnitud. -->
+- [ ] B) Que sus coordenadas son siempre (1, 1). <!-- feedback: El vector (1,1) tiene módulo raíz de 2. -->
+- [x] A) Que su módulo es exactamente igual a 1. <!-- feedback: Correcto. Los vectores unitarios se usan para indicar dirección y sentido sin afectar a la magnitud. -->
 - [ ] C) Que siempre apunta hacia el origen de coordenadas. <!-- feedback: Eso sería un vector de posición nulo. -->
 - [ ] D) Que no tiene dirección. <!-- feedback: Todos los vectores (salvo el nulo) tienen dirección. -->
 
@@ -114,9 +114,9 @@ Halla las coordenadas del vector $\vec{AB}$ que une el punto $A$ con el punto $B
 
 ### Opciones
 - [ ] A) $(5, 8)$ <!-- feedback: Se han sumado las coordenadas en lugar de restarlas. -->
-- [x] B) $(3, 4)$ <!-- feedback: Correcto. Coordenadas de $B$ menos coordenadas de $A$: $(4-1, 6-2) = (3, 4)$. -->
-- [ ] C) $(-3, -4)$ <!-- feedback: Este sería el vector $\vec{BA}$. -->
-- [ ] D) $(4, 3)$ <!-- feedback: Error en el orden de las coordenadas. -->
+- [x] D) $(3, 4)$ <!-- feedback: Correcto. Coordenadas de $B$ menos coordenadas de $A$: $(4-1, 6-2) = (3, 4)$. -->
+- [ ] B) $(-3, -4)$ <!-- feedback: Este sería el vector $\vec{BA}$. -->
+- [ ] C) $(4, 3)$ <!-- feedback: Error en el orden de las coordenadas. -->
 
 ### Explicacion Pedagogica
 Un vector libre definido por dos puntos se obtiene restando las coordenadas del extremo (punto final) menos las del origen (punto inicial).
@@ -156,8 +156,8 @@ El producto escalar de dos vectores en coordenadas cartesianas es la suma de los
 
 ### Opciones
 - [ ] A) Que sus módulos sean iguales. <!-- feedback: Los módulos no afectan a la perpendicularidad. -->
-- [ ] B) Que sean paralelos. <!-- feedback: Serían paralelos si formaran 0 o 180 grados. -->
-- [x] C) Que su producto escalar sea igual a cero. <!-- feedback: Correcto. $\vec{u} \cdot \vec{v} = |\vec{u}| |\vec{v}| \cos(90^{\circ}) = 0$. -->
+- [ ] C) Que sean paralelos. <!-- feedback: Serían paralelos si formaran 0 o 180 grados. -->
+- [x] B) Que su producto escalar sea igual a cero. <!-- feedback: Correcto. $\vec{u} \cdot \vec{v} = |\vec{u}| |\vec{v}| \cos(90^{\circ}) = 0$. -->
 - [ ] D) Que la suma de sus coordenadas sea 1. <!-- feedback: Condición sin fundamento geométrico para la ortogonalidad. -->
 
 ### Explicacion Pedagogica
@@ -177,8 +177,8 @@ Si multiplicamos el vector $\vec{w} = (4, -2)$ por el escalar $k = -3$, ¿qué o
 
 ### Opciones
 - [ ] A) $(1, -5)$ <!-- feedback: Se ha sumado el escalar a las coordenadas. -->
-- [x] B) $(-12, 6)$ <!-- feedback: Correcto. Multiplicamos cada componente por -3: $(-3 \cdot 4, -3 \cdot -2) = (-12, 6)$. -->
-- [ ] C) $(12, -6)$ <!-- feedback: Error de signos en la multiplicación. -->
+- [x] C) $(-12, 6)$ <!-- feedback: Correcto. Multiplicamos cada componente por -3: $(-3 \cdot 4, -3 \cdot -2) = (-12, 6)$. -->
+- [ ] B) $(12, -6)$ <!-- feedback: Error de signos en la multiplicación. -->
 - [ ] D) Un vector con la misma dirección y sentido. <!-- feedback: Al ser k negativo, el sentido del vector se invierte. -->
 
 ### Explicacion Pedagogica
@@ -198,9 +198,9 @@ Halla las coordenadas del punto medio $M$ del segmento $PQ$.
 
 ### Opciones
 - [ ] A) $(6, 6)$ <!-- feedback: Error en el cálculo de las medias aritméticas. -->
-- [x] B) $(5, 8)$ <!-- feedback: Correcto. $M = ((2+8)/2, (5+11)/2) = (10/2, 16/2) = (5, 8)$. -->
-- [ ] C) $(10, 16)$ <!-- feedback: Se han sumado las coordenadas sin dividir por 2. -->
-- [ ] D) $(3, 3)$ <!-- feedback: Se han restado las coordenadas en lugar de sumarlas. -->
+- [x] D) $(5, 8)$ <!-- feedback: Correcto. $M = ((2+8)/2, (5+11)/2) = (10/2, 16/2) = (5, 8)$. -->
+- [ ] B) $(10, 16)$ <!-- feedback: Se han sumado las coordenadas sin dividir por 2. -->
+- [ ] C) $(3, 3)$ <!-- feedback: Se han restado las coordenadas en lugar de sumarlas. -->
 
 ### Explicacion Pedagogica
 El punto medio es el promedio aritmético de las coordenadas de los extremos. Geométricamente, es el punto que divide al segmento en dos partes iguales.
@@ -303,9 +303,9 @@ El producto escalar permite calcular ángulos. El coseno del ángulo es el cocie
 
 ### Opciones
 - [ ] A) 3 <!-- feedback: Esta es la proyección sobre el eje Y. -->
-- [x] B) 4 <!-- feedback: Correcto. La proyección sobre el eje X es simplemente la magnitud de su componente horizontal $u_x$. -->
-- [ ] C) 5 <!-- feedback: Este es el módulo del vector, no su proyección. -->
-- [ ] D) 7 <!-- feedback: Suma de componentes, sin sentido geométrico aquí. -->
+- [x] D) 4 <!-- feedback: Correcto. La proyección sobre el eje X es simplemente la magnitud de su componente horizontal $u_x$. -->
+- [ ] B) 5 <!-- feedback: Este es el módulo del vector, no su proyección. -->
+- [ ] C) 7 <!-- feedback: Suma de componentes, sin sentido geométrico aquí. -->
 
 ### Explicacion Pedagogica
 La proyección ortogonal de un vector sobre un eje coordenado coincide con el valor absoluto de la coordenada correspondiente a dicho eje.
@@ -324,9 +324,9 @@ La proyección ortogonal de un vector sobre un eje coordenado coincide con el va
 
 ### Opciones
 - [ ] A) Que sean paralelos y tengan módulo 1. <!-- feedback: Si son paralelos no forman base. -->
-- [x] B) Que sean perpendiculares entre sí y ambos tengan módulo igual a 1. <!-- feedback: Correcto. "Orto" (perpendiculares) y "normal" (módulo 1). -->
-- [ ] C) Que sumen el vector nulo y sean distintos. <!-- feedback: No define una base ortonormal. -->
-- [ ] D) Que sus coordenadas sean todas positivas. <!-- feedback: Las coordenadas pueden ser negativas en una base ortonormal. -->
+- [x] D) Que sean perpendiculares entre sí y ambos tengan módulo igual a 1. <!-- feedback: Correcto. "Orto" (perpendiculares) y "normal" (módulo 1). -->
+- [ ] B) Que sumen el vector nulo y sean distintos. <!-- feedback: No define una base ortonormal. -->
+- [ ] C) Que sus coordenadas sean todas positivas. <!-- feedback: Las coordenadas pueden ser negativas en una base ortonormal. -->
 
 ### Explicacion Pedagogica
 Las bases ortonormales son las más cómodas para trabajar en geometría, ya que simplifican el cálculo de distancias y productos escalares (como la base canónica $\{\vec{i}, \vec{j}\}$).
@@ -344,9 +344,9 @@ Las bases ortonormales son las más cómodas para trabajar en geometría, ya que
 ¿Qué se puede afirmar sobre la dirección y el sentido del vector nulo?
 
 ### Opciones
-- [ ] A) Su dirección es el eje X. <!-- feedback: No tiene una dirección privilegiada. -->
-- [ ] B) Apunta hacia todas partes. <!-- feedback: Expresión no matemática. -->
-- [x] C) Carece de dirección y sentido definidos. <!-- feedback: Correcto. Al ser su módulo cero, no define una recta ni una orientación. -->
+- [ ] B) Su dirección es el eje X. <!-- feedback: No tiene una dirección privilegiada. -->
+- [ ] C) Apunta hacia todas partes. <!-- feedback: Expresión no matemática. -->
+- [x] A) Carece de dirección y sentido definidos. <!-- feedback: Correcto. Al ser su módulo cero, no define una recta ni una orientación. -->
 - [ ] D) Su dirección es perpendicular a cualquier otro vector. <!-- feedback: Conceptualmente no tiene dirección. -->
 
 ### Explicacion Pedagogica
@@ -387,9 +387,9 @@ Normalizar un vector es un proceso común en física y computación gráfica par
 
 ### Opciones
 - [ ] A) $|\vec{u} + \vec{v}| = |\vec{u}| + |\vec{v}|$ <!-- feedback: Solo es cierto si son paralelos y del mismo sentido. -->
-- [x] B) $|\vec{u} + \vec{v}| \leq |\vec{u}| + |\vec{v}|$ <!-- feedback: Correcto. La longitud de un lado de un triángulo siempre es menor o igual a la suma de las longitudes de los otros dos lados. -->
-- [ ] C) $|\vec{u} + \vec{v}| \geq |\vec{u}| + |\vec{v}|$ <!-- feedback: Físicamente imposible en un espacio euclídeo. -->
-- [ ] D) $|\vec{u} + \vec{v}| = \sqrt{|\vec{u}|^2 + |\vec{v}|^2}$ <!-- feedback: Solo es cierto si son perpendiculares. -->
+- [x] D) $|\vec{u} + \vec{v}| \leq |\vec{u}| + |\vec{v}|$ <!-- feedback: Correcto. La longitud de un lado de un triángulo siempre es menor o igual a la suma de las longitudes de los otros dos lados. -->
+- [ ] B) $|\vec{u} + \vec{v}| \geq |\vec{u}| + |\vec{v}|$ <!-- feedback: Físicamente imposible en un espacio euclídeo. -->
+- [ ] C) $|\vec{u} + \vec{v}| = \sqrt{|\vec{u}|^2 + |\vec{v}|^2}$ <!-- feedback: Solo es cierto si son perpendiculares. -->
 
 ### Explicacion Pedagogica
 La desigualdad triangular es una propiedad métrica fundamental. Indica que el camino más corto entre dos puntos es la línea recta; cualquier desvío (suma de dos vectores no paralelos) incrementa la distancia total.
@@ -408,9 +408,9 @@ Si el producto escalar $\vec{L} \cdot \vec{n}$ es negativo, ¿qué indica sobre 
 
 ### Opciones
 - [ ] A) Que la luz es paralela a la superficie. <!-- feedback: El producto escalar sería cero. -->
-- [x] B) Que la luz incide "de frente" contra la superficie (ángulo mayor de 90 grados entre el vector de rayo y la normal). <!-- feedback: Correcto. Un producto escalar negativo implica un ángulo obtuso entre los vectores. -->
-- [ ] C) Que la luz está detrás de la superficie. <!-- feedback: Depende de la convención de la normal, pero generalmente indica incidencia frontal. -->
-- [ ] D) Que la luz se ha absorbido completamente. <!-- feedback: El producto escalar es una medida geométrica, no física de absorción. -->
+- [x] D) Que la luz incide "de frente" contra la superficie (ángulo mayor de 90 grados entre el vector de rayo y la normal). <!-- feedback: Correcto. Un producto escalar negativo implica un ángulo obtuso entre los vectores. -->
+- [ ] B) Que la luz está detrás de la superficie. <!-- feedback: Depende de la convención de la normal, pero generalmente indica incidencia frontal. -->
+- [ ] C) Que la luz se ha absorbido completamente. <!-- feedback: El producto escalar es una medida geométrica, no física de absorción. -->
 
 ### Explicacion Pedagogica
 El signo del producto escalar es un test de visibilidad u orientación rápido en programación: positivo (ángulo agudo), cero (perpendicular), negativo (ángulo obtuso).
@@ -429,8 +429,8 @@ El signo del producto escalar es un test de visibilidad u orientación rápido e
 
 ### Opciones
 - [ ] A) Es un cuerpo conmutativo. <!-- feedback: No se define una división de vectores general que lo convierta en cuerpo. -->
-- [x] B) Es un espacio vectorial sobre el cuerpo de los números reales. <!-- feedback: Correcto. Cumple las 8 propiedades fundamentales de la suma de vectores y el producto por escalares. -->
-- [ ] C) Es un conjunto finito de puntos. <!-- feedback: Hay infinitos vectores en el plano. -->
+- [x] C) Es un espacio vectorial sobre el cuerpo de los números reales. <!-- feedback: Correcto. Cumple las 8 propiedades fundamentales de la suma de vectores y el producto por escalares. -->
+- [ ] B) Es un conjunto finito de puntos. <!-- feedback: Hay infinitos vectores en el plano. -->
 - [ ] D) Es una estructura sin propiedades de clausura. <!-- feedback: La suma de vectores y el producto por escalar son operaciones cerradas. -->
 
 ### Explicacion Pedagogica

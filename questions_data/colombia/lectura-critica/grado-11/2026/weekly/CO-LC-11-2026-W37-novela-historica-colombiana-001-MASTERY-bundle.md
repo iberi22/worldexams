@@ -60,11 +60,11 @@ La vorágine, de José Eustasio Rivera, denuncia principalmente:
 ### Opciones
 - [ ] A) La vida tranquila de los hacendados de la sabana bogotana.
   <!-- feedback: Es incorrecta porque la obra se interna en la selva y no describe la vida de la sabana. -->
-- [x] B) La explotación de los caucheros en la selva amazónica y la violencia del sistema extractivo del caucho.
+- [x] D) La explotación de los caucheros en la selva amazónica y la violencia del sistema extractivo del caucho.
   <!-- feedback: Es correcta porque la novela retrata las condiciones inhumanas del trabajo cauchero y la brutalidad del sistema. -->
-- [ ] C) La fundación de la industria petrolera en Barrancabermeja.
+- [ ] B) La fundación de la industria petrolera en Barrancabermeja.
   <!-- feedback: Es incorrecta porque el tema de la obra es el caucho y la selva, no la industria petrolera. -->
-- [ ] D) El auge del turismo ecológico en la Amazonía.
+- [ ] C) El auge del turismo ecológico en la Amazonía.
   <!-- feedback: Es incorrecta porque el proyecto turístico es ajeno al contexto y la intención de la novela. -->
 
 ### Explicacion Pedagogica
@@ -106,11 +106,11 @@ En El general en su laberinto, la figura de Bolívar se construye:
 ### Opciones
 - [ ] A) Como un héroe invulnerable sin dudas ni enfermedades.
   <!-- feedback: Es incorrecta porque la novela se aleja justamente de la imagen idealizada del héroe. -->
-- [x] B) Como un hombre enfermo y humano, lejos de la estatua épica, mediante la ficción.
+- [x] D) Como un hombre enfermo y humano, lejos de la estatua épica, mediante la ficción.
   <!-- feedback: Es correcta porque la obra humaniza al personaje y lo muestra frágil, con contradicciones y dolencias. -->
-- [ ] C) Como un personaje secundario sin relevancia en la trama.
+- [ ] B) Como un personaje secundario sin relevancia en la trama.
   <!-- feedback: Es incorrecta porque el general es el eje del relato y no un personaje secundario. -->
-- [ ] D) Como un científico que descubre la vacuna contra la malaria.
+- [ ] C) Como un científico que descubre la vacuna contra la malaria.
   <!-- feedback: Es incorrecta porque atribuye al personaje acciones ajenas a su papel histórico y a la novela. -->
 
 ### Explicacion Pedagogica
@@ -127,11 +127,11 @@ Gabriel García Márquez retrata el último viaje de Bolívar por el río Magdal
 ¿Qué procedimiento permite distinguir el hecho histórico de la ficción en ese fragmento?
 
 ### Opciones
-- [ ] A) Asumir que todo lo narrado es falso porque hay un personaje inventado.
+- [ ] B) Asumir que todo lo narrado es falso porque hay un personaje inventado.
   <!-- feedback: Es incorrecta porque la presencia de un personaje ficticio no invalida los hechos históricos que lo rodean. -->
-- [ ] B) Creer que todo lo narrado es verdadero porque la batalla existió.
+- [ ] C) Creer que todo lo narrado es verdadero porque la batalla existió.
   <!-- feedback: Es incorrecta porque la existencia del hecho real no convierte en históricos los episodios inventados. -->
-- [x] C) Contrastar los sucesos verificables en fuentes historiográficas con los episodios inventados atribuidos al personaje ficticio.
+- [x] A) Contrastar los sucesos verificables en fuentes historiográficas con los episodios inventados atribuidos al personaje ficticio.
   <!-- feedback: Es correcta porque la comparación con fuentes permite separar lo documentado de lo creado por el autor. -->
 - [ ] D) Cambiar los nombres de los personajes para confundir al lector.
   <!-- feedback: Es incorrecta porque alterar nombres no es un criterio de análisis, sino una manipulación del texto. -->
@@ -150,9 +150,9 @@ Distinguir historia y ficción exige un ejercicio de contraste: se identifican l
 ¿Qué criterio hace verosímil una novela histórica?
 
 ### Opciones
-- [x] A) La coherencia entre las costumbres, el lenguaje y las tensiones del periodo retratado y la libertad creadora del autor.
+- [x] B) La coherencia entre las costumbres, el lenguaje y las tensiones del periodo retratado y la libertad creadora del autor.
   <!-- feedback: Es correcta porque la verosimilitud surge del equilibrio entre el respeto por el contexto y la invención artística. -->
-- [ ] B) La ausencia total de personajes ficticios en la trama.
+- [ ] A) La ausencia total de personajes ficticios en la trama.
   <!-- feedback: Es incorrecta porque la ficción puede incluir personajes inventados sin perder verosimilitud. -->
 - [ ] C) El uso exclusivo de citas académicas dentro de los diálogos.
   <!-- feedback: Es incorrecta porque los personajes no hablan como ensayos académicos; eso rompería la ilusión narrativa. -->
@@ -173,9 +173,9 @@ La verosimilitud de una novela histórica no depende de la exactitud absoluta, s
 En el contexto de la novela histórica, ¿qué significa "memoria histórica"?
 
 ### Opciones
-- [ ] A) La lista de fechas conmemorativas del calendario oficial.
+- [ ] B) La lista de fechas conmemorativas del calendario oficial.
   <!-- feedback: Es incorrecta porque la memoria histórica es un proceso de elaboración del pasado, no un listado de efemérides. -->
-- [x] B) El modo en que una comunidad elabora y transmite simbólicamente su pasado, incluidas sus violencias y silencios.
+- [x] A) El modo en que una comunidad elabora y transmite simbólicamente su pasado, incluidas sus violencias y silencios.
   <!-- feedback: Es correcta porque la memoria histórica implica interpretación, transmisión y elaboración colectiva del pasado. -->
 - [ ] C) El archivo privado de documentos sin ninguna interpretación.
   <!-- feedback: Es incorrecta porque el archivo es una fuente, mientras que la memoria supone su lectura y significación. -->
@@ -198,9 +198,9 @@ La memoria histórica designa la elaboración colectiva del pasado: qué se recu
 ### Opciones
 - [ ] A) Garantizar la verdad absoluta de todo lo narrado.
   <!-- feedback: Es incorrecta porque ningún narrador garantiza por sí mismo la verdad de los hechos; su mirada es parcial. -->
-- [ ] B) Eliminar la necesidad de documentación histórica.
+- [ ] C) Eliminar la necesidad de documentación histórica.
   <!-- feedback: Es incorrecta porque el trabajo documental del autor es independiente del tipo de narrador elegido. -->
-- [x] C) Presentar los hechos desde una mirada parcial y situada que cuestiona la versión oficial.
+- [x] B) Presentar los hechos desde una mirada parcial y situada que cuestiona la versión oficial.
   <!-- feedback: Es correcta porque el testigo ofrece una perspectiva limitada que relativiza los relatos totalizantes. -->
 - [ ] D) Convertir la novela en un libro de texto escolar.
   <!-- feedback: Es incorrecta porque la voz del testigo pertenece a la ficción narrativa y no a un manual didáctico. -->
@@ -221,11 +221,11 @@ El narrador testigo no lo sabe todo: observa desde un lugar concreto y su mirada
 ### Opciones
 - [ ] A) Sustituir a los historiadores profesionales en la academia.
   <!-- feedback: Es incorrecta porque la literatura no reemplaza el trabajo de la historiografía, sino que dialoga con él. -->
-- [x] B) Permitir que los lectores revisiten el pasado y reflexionen sobre sus consecuencias en el presente.
+- [x] D) Permitir que los lectores revisiten el pasado y reflexionen sobre sus consecuencias en el presente.
   <!-- feedback: Es correcta porque la novela acerca el pasado al lector y lo invita a pensar cómo este incide en el presente. -->
-- [ ] C) Impedir que se publiquen libros de historia.
+- [ ] B) Impedir que se publiquen libros de historia.
   <!-- feedback: Es incorrecta porque la novela histórica no persigue censurar la historiografía. -->
-- [ ] D) Vender exclusivamente guías de turismo.
+- [ ] C) Vender exclusivamente guías de turismo.
   <!-- feedback: Es incorrecta porque su función es literaria y reflexiva, no comercial ni turística. -->
 
 ### Explicacion Pedagogica
@@ -242,13 +242,13 @@ La novela histórica cumple una función social cuando acerca el pasado a públi
 ¿Qué es un anacronismo en una novela histórica?
 
 ### Opciones
-- [x] A) Incluir elementos, expresiones o tecnologías que no corresponden al periodo retratado.
+- [x] D) Incluir elementos, expresiones o tecnologías que no corresponden al periodo retratado.
   <!-- feedback: Es correcta porque el anacronismo ubica fuera de su época un objeto, una idea o una palabra. -->
-- [ ] B) Describir con precisión las costumbres de la época.
+- [ ] A) Describir con precisión las costumbres de la época.
   <!-- feedback: Es incorrecta porque la fidelidad al contexto es lo contrario de un anacronismo. -->
-- [ ] C) Citar fuentes historiográficas confiables.
+- [ ] B) Citar fuentes historiográficas confiables.
   <!-- feedback: Es incorrecta porque las fuentes verificables fortalecen el rigor, no constituyen un anacronismo. -->
-- [ ] D) Usar un narrador en primera persona.
+- [ ] C) Usar un narrador en primera persona.
   <!-- feedback: Es incorrecta porque la persona del narrador es una elección técnica independiente de la época retratada. -->
 
 ### Explicacion Pedagogica
@@ -267,11 +267,11 @@ Una novela presenta la Conquista desde la voz de los pueblos originarios y otra 
 ### Opciones
 - [ ] A) Que ambas novelas interpretan el pasado de manera idéntica.
   <!-- feedback: Es incorrecta porque los puntos de vista opuestos producen interpretaciones distintas del mismo proceso. -->
-- [x] B) Que la selección del punto de vista implica una postura ideológica y ética sobre el pasado.
+- [x] D) Que la selección del punto de vista implica una postura ideológica y ética sobre el pasado.
   <!-- feedback: Es correcta porque quien narra decide qué voces se escuchan y qué responsabilidades se atribuyen. -->
-- [ ] C) Que el autor no puede elegir libremente el narrador.
+- [ ] B) Que el autor no puede elegir libremente el narrador.
   <!-- feedback: Es incorrecta porque la elección del narrador es una decisión central de la creación literaria. -->
-- [ ] D) Que la historiografía carece por completo de fuentes.
+- [ ] C) Que la historiografía carece por completo de fuentes.
   <!-- feedback: Es incorrecta porque la existencia de fuentes es independiente del punto de vista que adopte la novela. -->
 
 ### Explicacion Pedagogica
@@ -290,11 +290,11 @@ Cuando una novela reinventa un documento histórico, ¿qué relación se estable
 ### Opciones
 - [ ] A) Una relación de copia literal sin ninguna transformación.
   <!-- feedback: Es incorrecta porque reinventar implica transformar, no reproducir mecánicamente el documento. -->
-- [x] B) Una relación dialógica en la que la ficción interpreta, completa o cuestiona los silencios del archivo.
+- [x] D) Una relación dialógica en la que la ficción interpreta, completa o cuestiona los silencios del archivo.
   <!-- feedback: Es correcta porque la ficción dialoga con la historia y puede llenar vacíos o poner en duda sus versiones. -->
-- [ ] C) Una relación de oposición total, pues la ficción niega toda historia.
+- [ ] B) Una relación de oposición total, pues la ficción niega toda historia.
   <!-- feedback: Es incorrecta porque la novela histórica parte de la historia y se apoya en ella, aunque la transforme. -->
-- [ ] D) Una relación inexistente, porque son ámbitos incomunicados.
+- [ ] C) Una relación inexistente, porque son ámbitos incomunicados.
   <!-- feedback: Es incorrecta porque la novela histórica se construye precisamente en el cruce de ambos ámbitos. -->
 
 ### Explicacion Pedagogica
@@ -311,13 +311,13 @@ La ficción histórica establece un diálogo con el archivo: lo interpreta, comp
 Al presentar a Bolívar enfermo y errante, El general en su laberinto busca:
 
 ### Opciones
-- [x] A) Humanizar y problematizar el mito, mostrando la distancia entre la estatua y el hombre.
+- [x] D) Humanizar y problematizar el mito, mostrando la distancia entre la estatua y el hombre.
   <!-- feedback: Es correcta porque la novela desmonta la idealización heroica y expone la fragilidad del personaje. -->
-- [ ] B) Demostrar que Bolívar nunca existió.
+- [ ] A) Demostrar que Bolívar nunca existió.
   <!-- feedback: Es incorrecta porque la novela parte de su existencia histórica, aunque la reinterprete. -->
-- [ ] C) Afirmar que la independencia fue un invento extranjero.
+- [ ] B) Afirmar que la independencia fue un invento extranjero.
   <!-- feedback: Es incorrecta porque la obra no niega el proceso independentista, sino que revisa a su principal figura. -->
-- [ ] D) Ridiculizar a los historiadores colombianos.
+- [ ] C) Ridiculizar a los historiadores colombianos.
   <!-- feedback: Es incorrecta porque la intención de la novela es literaria y reflexiva, no una burla gremial. -->
 
 ### Explicacion Pedagogica
@@ -336,9 +336,9 @@ Si una novela histórica alterna capítulos del presente y del pasado, ¿qué ef
 ### Opciones
 - [ ] A) Confunde al lector sin ninguna intención estética.
   <!-- feedback: Es incorrecta porque la alternancia suele ser una decisión significativa y no un simple desorden. -->
-- [x] B) Contrapone dos épocas para iluminar cómo el pasado explica y resignifica el presente.
+- [x] C) Contrapone dos épocas para iluminar cómo el pasado explica y resignifica el presente.
   <!-- feedback: Es correcta porque el cruce temporal produce un diálogo de sentidos entre ambos momentos históricos. -->
-- [ ] C) Obliga a leer únicamente los capítulos del pasado.
+- [ ] B) Obliga a leer únicamente los capítulos del pasado.
   <!-- feedback: Es incorrecta porque ambas líneas temporales se necesitan mutuamente para construir el sentido. -->
 - [ ] D) Elimina la trama principal de la obra.
   <!-- feedback: Es incorrecta porque la alternancia organiza la trama; no la suprime. -->
@@ -359,9 +359,9 @@ La estructura temporal de una novela es un recurso de sentido. Al alternar prese
 ### Opciones
 - [ ] A) Promover la inversión extranjera en la selva.
   <!-- feedback: Es incorrecta porque la novela condena el sistema extractivo y no lo promueve. -->
-- [x] B) Visibilizar una realidad social ignorada y despertar una conciencia crítica que impulse reformas.
+- [x] C) Visibilizar una realidad social ignorada y despertar una conciencia crítica que impulse reformas.
   <!-- feedback: Es correcta porque la denuncia busca sacar a la luz el abuso y mover a la sociedad a actuar. -->
-- [ ] C) Describir un viaje turístico idealizado por la Amazonía.
+- [ ] B) Describir un viaje turístico idealizado por la Amazonía.
   <!-- feedback: Es incorrecta porque el relato muestra la selva como un espacio hostil y opresivo, no idílico. -->
 - [ ] D) Defender la esclavitud como sistema económico eficiente.
   <!-- feedback: Es incorrecta porque la obra denuncia precisamente la esclavitud de los caucheros. -->
@@ -380,9 +380,9 @@ La denuncia social en La vorágine tiene un propósito ético y político: visib
 Al usar una novela histórica como fuente, ¿qué precaución es válida?
 
 ### Opciones
-- [x] A) Reconocer que la obra es una interpretación ficcional y contrastarla con fuentes historiográficas.
+- [x] B) Reconocer que la obra es una interpretación ficcional y contrastarla con fuentes historiográficas.
   <!-- feedback: Es correcta porque la novela ofrece una lectura del pasado que debe verificarse con la historiografía. -->
-- [ ] B) Tomar todos sus datos como verdades documentales.
+- [ ] A) Tomar todos sus datos como verdades documentales.
   <!-- feedback: Es incorrecta porque la ficción transforma los hechos y no garantiza exactitud documental. -->
 - [ ] C) Descartarla por completo por ser ficción.
   <!-- feedback: Es incorrecta porque la novela puede aportar una comprensión valiosa, aunque no sea fuente histórica primaria. -->
@@ -428,11 +428,11 @@ Evaluar una afirmación supone matizar sus extremos. La novela histórica no ree
 ### Opciones
 - [ ] A) La literatura debe reemplazar por completo a la historia oficial.
   <!-- feedback: Es incorrecta porque la literatura complementa la historia, no la sustituye. -->
-- [x] B) La literatura aporta una dimensión simbólica y humana que complementa, sin reemplazar, el rigor del relato histórico.
+- [x] D) La literatura aporta una dimensión simbólica y humana que complementa, sin reemplazar, el rigor del relato histórico.
   <!-- feedback: Es correcta porque reconoce el aporte propio de la ficción y respeta el valor de la disciplina histórica. -->
-- [ ] C) La memoria histórica solo compete a los tribunales.
+- [ ] B) La memoria histórica solo compete a los tribunales.
   <!-- feedback: Es incorrecta porque la memoria es un asunto social y cultural que excede el ámbito judicial. -->
-- [ ] D) La ficción no tiene ninguna relación con el pasado colectivo.
+- [ ] C) La ficción no tiene ninguna relación con el pasado colectivo.
   <!-- feedback: Es incorrecta porque la ficción reelabora constantemente experiencias históricas colectivas. -->
 
 ### Explicacion Pedagogica
@@ -449,9 +449,9 @@ La literatura y la historia son formas distintas de relacionarse con el pasado. 
 Un narrador que afirma recordar hechos en los que no pudo estar presente genera:
 
 ### Opciones
-- [x] A) Una tensión sobre la fiabilidad del relato que invita al lector a cuestionar la construcción de la memoria.
+- [x] B) Una tensión sobre la fiabilidad del relato que invita al lector a cuestionar la construcción de la memoria.
   <!-- feedback: Es correcta porque el exceso de la voz narrativa pone en duda la veracidad de lo contado y problematiza la memoria. -->
-- [ ] B) Una prueba irrefutable de que los hechos ocurrieron tal como se narran.
+- [ ] A) Una prueba irrefutable de que los hechos ocurrieron tal como se narran.
   <!-- feedback: Es incorrecta porque, al contrario, ese recurso vuelve sospechosa la fiabilidad del relato. -->
 - [ ] C) Un error de edición sin ninguna importancia.
   <!-- feedback: Es incorrecta porque la elección del narrador es significativa y produce efectos de sentido. -->

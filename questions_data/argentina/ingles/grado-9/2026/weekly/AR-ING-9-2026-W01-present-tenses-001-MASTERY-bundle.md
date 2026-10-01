@@ -30,8 +30,8 @@ Choose the correct form of the verb to complete the sentence: "Every morning, I 
 
 ### Opciones
 - [ ] A) eating <!-- feedback: Esta opción usa el gerundio, que requiere un verbo auxiliar (como 'am') y no se usa para rutinas generales en presente simple. -->
-- [x] B) eat <!-- feedback: ¡Correcto! Usamos el presente simple en infinitivo (sin 's') para la primera persona del singular (I) al hablar de rutinas. -->
-- [ ] C) eats <!-- feedback: Esta forma se usa para la tercera persona del singular (he, she, it), no para 'I'. -->
+- [x] C) eat <!-- feedback: ¡Correcto! Usamos el presente simple en infinitivo (sin 's') para la primera persona del singular (I) al hablar de rutinas. -->
+- [ ] B) eats <!-- feedback: Esta forma se usa para la tercera persona del singular (he, she, it), no para 'I'. -->
 - [ ] D) ate <!-- feedback: Este es el pasado simple del verbo 'eat', pero la oración describe una rutina presente ("Every morning"). -->
 
 ### Explicacion Pedagogica
@@ -50,9 +50,9 @@ Para expresar rutinas y hábitos en presente simple con el pronombre "I", debés
 Complete the sentence using the Present Continuous: "Wait a second, Facundo can't talk right now. He _______ a shower."
 
 ### Opciones
-- [ ] A) has <!-- feedback: El presente simple indica hábito, pero la frase "right now" requiere una acción en progreso. -->
-- [ ] B) having <!-- feedback: Falta el verbo auxiliar 'is' para formar el presente continuo correctamente. -->
-- [x] C) is having <!-- feedback: ¡Excelente! El presente continuo se forma con 'is' + verbo con '-ing' para acciones que ocurren en el momento. -->
+- [ ] B) has <!-- feedback: El presente simple indica hábito, pero la frase "right now" requiere una acción en progreso. -->
+- [ ] C) having <!-- feedback: Falta el verbo auxiliar 'is' para formar el presente continuo correctamente. -->
+- [x] A) is having <!-- feedback: ¡Excelente! El presente continuo se forma con 'is' + verbo con '-ing' para acciones que ocurren en el momento. -->
 - [ ] D) are having <!-- feedback: 'Are' se usa con you, we y they, pero no con 'he'. -->
 
 ### Explicacion Pedagogica
@@ -72,9 +72,9 @@ Which sentence is grammatically correct for a permanent truth or a natural fact?
 
 ### Opciones
 - [ ] A) The water is falling very fast today. <!-- feedback: Aunque es gramaticalmente correcta, describe una situación específica de hoy, no necesariamente una verdad permanente. -->
-- [x] B) Iguazu Falls attracts thousands of tourists every year. <!-- feedback: ¡Muy bien! El presente simple se usa para hechos permanentes o verdades generales. -->
-- [ ] C) The sun is shining in Misiones every day. <!-- feedback: El presente continuo no se usa para acciones que ocurren "todos los días" como una regla general. -->
-- [ ] D) Tourists visiting the park right now. <!-- feedback: A esta oración le falta el verbo auxiliar 'are' para ser un presente continuo correcto. -->
+- [x] D) Iguazu Falls attracts thousands of tourists every year. <!-- feedback: ¡Muy bien! El presente simple se usa para hechos permanentes o verdades generales. -->
+- [ ] B) The sun is shining in Misiones every day. <!-- feedback: El presente continuo no se usa para acciones que ocurren "todos los días" como una regla general. -->
+- [ ] C) Tourists visiting the park right now. <!-- feedback: A esta oración le falta el verbo auxiliar 'are' para ser un presente continuo correcto. -->
 
 ### Explicacion Pedagogica
 El presente simple es el tiempo verbal que usamos para hablar de hechos que no cambian o situaciones permanentes. En este ejemplo, el hecho de que las Cataratas atraen turistas es una constante, por lo que usamos "attracts" (con 's' porque Iguazu Falls funciona como un sujeto singular en este contexto de lugar).
@@ -113,8 +113,8 @@ En inglés, es fundamental distinguir entre lo que hacés siempre (rutina) y lo 
 In sports commentaries, we often use the Present Simple for quick actions. Choose the correct option: "Messi _______ the ball, _______ the defender, and scores!"
 
 ### Opciones
-- [ ] A) is taking / is passing <!-- feedback: El presente continuo haría que el relato suene muy lento para una acción rápida de fútbol. -->
-- [x] B) takes / passes <!-- feedback: ¡Exacto! El presente simple se usa en relatos deportivos para dar dinamismo a las acciones sucesivas. -->
+- [ ] B) is taking / is passing <!-- feedback: El presente continuo haría que el relato suene muy lento para una acción rápida de fútbol. -->
+- [x] A) takes / passes <!-- feedback: ¡Exacto! El presente simple se usa en relatos deportivos para dar dinamismo a las acciones sucesivas. -->
 - [ ] C) take / pass <!-- feedback: Falta la 's' de la tercera persona del singular para el sujeto 'Messi'. -->
 - [ ] D) taking / passing <!-- feedback: Estas formas solas no funcionan como verbos principales conjugados en la oración. -->
 
@@ -134,9 +134,9 @@ Cuando relatás un partido, como uno en la cancha de River, usás el presente si
 Which question is correctly formed to ask about an action happening now?
 
 ### Opciones
-- [ ] A) Do you listen to music now? <!-- feedback: "Do you listen" se usa para hábitos, no para preguntar qué está haciendo alguien en este momento. -->
-- [ ] B) Are you listen to music? <!-- feedback: En el presente continuo, el verbo principal debe terminar en -ing. -->
-- [x] C) Are you listening to music? <!-- feedback: ¡Perfecto! La estructura para preguntas en presente continuo es: Am/Is/Are + sujeto + verbo-ing? -->
+- [ ] B) Do you listen to music now? <!-- feedback: "Do you listen" se usa para hábitos, no para preguntar qué está haciendo alguien en este momento. -->
+- [ ] C) Are you listen to music? <!-- feedback: En el presente continuo, el verbo principal debe terminar en -ing. -->
+- [x] A) Are you listening to music? <!-- feedback: ¡Perfecto! La estructura para preguntas en presente continuo es: Am/Is/Are + sujeto + verbo-ing? -->
 - [ ] D) Is you listening to music? <!-- feedback: El auxiliar 'Is' no concuerda con el pronombre 'you'. -->
 
 ### Explicacion Pedagogica
@@ -156,9 +156,9 @@ Some verbs are usually NOT used in the continuous form. Choose the correct sente
 
 ### Opciones
 - [ ] A) I am knowing the history of La Plata very well. <!-- feedback: El verbo 'know' es estático; describe un estado mental y no suele usarse en continuo. -->
-- [x] B) I know the history of La Plata very well. <!-- feedback: ¡Muy bien! Los verbos de pensamiento o estado como 'know' se usan preferentemente en presente simple. -->
-- [ ] C) I am having a big house in the city center. (meaning possession) <!-- feedback: Cuando 'have' significa poseer, no se usa en la forma continua. -->
-- [ ] D) This coffee is tasting great. <!-- feedback: Aunque se escucha a veces, 'taste' como percepción de estado suele ir en presente simple: "tastes great". -->
+- [x] D) I know the history of La Plata very well. <!-- feedback: ¡Muy bien! Los verbos de pensamiento o estado como 'know' se usan preferentemente en presente simple. -->
+- [ ] B) I am having a big house in the city center. (meaning possession) <!-- feedback: Cuando 'have' significa poseer, no se usa en la forma continua. -->
+- [ ] C) This coffee is tasting great. <!-- feedback: Aunque se escucha a veces, 'taste' como percepción de estado suele ir en presente simple: "tastes great". -->
 
 ### Explicacion Pedagogica
 Hay verbos que expresan estados, no acciones físicas, como "know", "love" o "understand". Estos verbos casi nunca llevan -ing. Por eso, aunque estés pensando en algo ahora, decís "I know" y no "I am knowing".
@@ -200,8 +200,8 @@ What is the difference between these two sentences?
 
 ### Opciones
 - [ ] A) There is no difference; both are about the present. <!-- feedback: Sí hay diferencia; el tiempo verbal cambia el sentido del verbo 'think'. -->
-- [x] B) Sentence 1 is an opinion (state); sentence 2 is a mental process (action). <!-- feedback: ¡Excelente análisis! 'Think' como opinión es estático, como proceso mental es una acción. -->
-- [ ] C) Sentence 1 is a habit; sentence 2 is a permanent truth. <!-- feedback: Ninguna de las dos describe un hábito o una verdad universal en ese sentido. -->
+- [x] C) Sentence 1 is an opinion (state); sentence 2 is a mental process (action). <!-- feedback: ¡Excelente análisis! 'Think' como opinión es estático, como proceso mental es una acción. -->
+- [ ] B) Sentence 1 is a habit; sentence 2 is a permanent truth. <!-- feedback: Ninguna de las dos describe un hábito o una verdad universal en ese sentido. -->
 - [ ] D) Sentence 1 is incorrect because 'think' should always be in continuous. <!-- feedback: Al contrario, 'think' como opinión suele ser simple. -->
 
 ### Explicacion Pedagogica
@@ -220,8 +220,8 @@ El verbo "think" es especial. Si lo usás para dar tu opinión (lo que creés), 
 Evaluate the use of "always" in this sentence: "You are always losing your SUBE card!" What does the speaker want to express?
 
 ### Opciones
-- [ ] A) A regular habit that happens every day. <!-- feedback: Si fuera un hábito neutral, se usaría presente simple: "You always lose...". -->
-- [x] B) Annoyance or irritation about a repeated action. <!-- feedback: ¡Correcto! El presente continuo con 'always' se usa para quejarse de algo que pasa con demasiada frecuencia. -->
+- [ ] B) A regular habit that happens every day. <!-- feedback: Si fuera un hábito neutral, se usaría presente simple: "You always lose...". -->
+- [x] A) Annoyance or irritation about a repeated action. <!-- feedback: ¡Correcto! El presente continuo con 'always' se usa para quejarse de algo que pasa con demasiada frecuencia. -->
 - [ ] C) A scheduled event in the future. <!-- feedback: No tiene nada que ver con horarios o calendarios. -->
 - [ ] D) A compliment about the person's memory. <!-- feedback: Claramente es una crítica por perder la tarjeta de transporte. -->
 
@@ -242,9 +242,9 @@ Find the error in this paragraph: "The tourism industry in Salta grows every yea
 
 ### Opciones
 - [ ] A) 'grows' should be 'is growing' because it's happening now. <!-- feedback: 'Grows' es correcto para una tendencia anual general. -->
-- [x] B) 'are visit' should be 'are visiting'. <!-- feedback: ¡Exacto! El presente continuo para tendencias actuales requiere el gerundio (-ing). -->
-- [ ] C) 'every year' cannot be used with the Present Simple. <!-- feedback: Al revés, es una de las expresiones de tiempo más comunes para el presente simple. -->
-- [ ] D) There are no errors in the paragraph. <!-- feedback: El error gramatical en 'are visit' es claro. -->
+- [x] D) 'are visit' should be 'are visiting'. <!-- feedback: ¡Exacto! El presente continuo para tendencias actuales requiere el gerundio (-ing). -->
+- [ ] B) 'every year' cannot be used with the Present Simple. <!-- feedback: Al revés, es una de las expresiones de tiempo más comunes para el presente simple. -->
+- [ ] C) There are no errors in the paragraph. <!-- feedback: El error gramatical en 'are visit' es claro. -->
 
 ### Explicacion Pedagogica
 Cuando describís tendencias que están cambiando (como el aumento de turistas en Salta), usás el presente continuo. El error acá es que faltó el "-ing" en el verbo principal después del "are". Debe ser "are visiting".
@@ -262,9 +262,9 @@ Cuando describís tendencias que están cambiando (como el aumento de turistas e
 In many novels, authors use the "Narrative Present" to describe past events as if they were happening now. Why would an author choose this?
 
 ### Opciones
-- [ ] A) Because they forgot the past tense rules. <!-- feedback: Es una elección estilística deliberada, no un error gramatical. -->
-- [ ] B) To make the story feel distant and old. <!-- feedback: El presente suele acercar la acción al lector, no alejarla. -->
-- [x] C) To create a sense of immediacy and make the reader feel part of the scene. <!-- feedback: ¡Excelente! El presente narrativo hace que la historia se sienta más viva y urgente. -->
+- [ ] B) Because they forgot the past tense rules. <!-- feedback: Es una elección estilística deliberada, no un error gramatical. -->
+- [ ] C) To make the story feel distant and old. <!-- feedback: El presente suele acercar la acción al lector, no alejarla. -->
+- [x] A) To create a sense of immediacy and make the reader feel part of the scene. <!-- feedback: ¡Excelente! El presente narrativo hace que la historia se sienta más viva y urgente. -->
 - [ ] D) Because English doesn't have enough past tenses. <!-- feedback: El inglés tiene muchos tiempos de pasado; el presente se usa por estilo. -->
 
 ### Explicacion Pedagogica

@@ -58,11 +58,11 @@ La crónica combina rigor informativo y estética literaria para contar la reali
 ¿Cuál es la diferencia principal entre una noticia y una crónica?
 
 ### Opciones
-- [x] A) La noticia informa de forma breve y objetiva; la crónica narra con estilo y contexto.
+- [x] C) La noticia informa de forma breve y objetiva; la crónica narra con estilo y contexto.
   <!-- feedback: La crónica aporta profundidad narrativa. -->
-- [ ] B) La crónica nunca es real.
+- [ ] A) La crónica nunca es real.
   <!-- feedback: Sí lo es. -->
-- [ ] C) La noticia es más larga.
+- [ ] B) La noticia es más larga.
   <!-- feedback: La noticia suele ser breve. -->
 - [ ] D) No existen diferencias.
   <!-- feedback: Sí hay diferencias de género. -->
@@ -81,13 +81,13 @@ La crónica periodística recupera la tradición narrativa en el periodismo.
 ¿Qué papel juega la voz del cronista en el texto?
 
 ### Opciones
-- [x] A) Es una voz narrativa que interpreta los hechos desde una mirada personal.
+- [x] D) Es una voz narrativa que interpreta los hechos desde una mirada personal.
   <!-- feedback: Aporta subjetividad controlada. -->
-- [ ] B) Solo narra sin opinar.
+- [ ] A) Solo narra sin opinar.
   <!-- feedback: Opina y contextualiza. -->
-- [ ] C) Sustituye al editor.
+- [ ] B) Sustituye al editor.
   <!-- feedback: Son roles distintos. -->
-- [ ] D) No aparece en la crónica.
+- [ ] C) No aparece en la crónica.
   <!-- feedback: Es central. -->
 
 ### Explicacion Pedagogica
@@ -104,13 +104,13 @@ La voz del cronista marca el tono y la perspectiva de la crónica.
 La estructura típica de una crónica periodística incluye:
 
 ### Opciones
-- [x] A) Entrada atractiva, desarrollo contextual, cierre reflexivo y datos verificables.
+- [x] D) Entrada atractiva, desarrollo contextual, cierre reflexivo y datos verificables.
   <!-- feedback: Equilibra información y narrativa. -->
-- [ ] B) Solo un listado de datos sin orden.
+- [ ] A) Solo un listado de datos sin orden.
   <!-- feedback: Necesita coherencia. -->
-- [ ] C) Exclusivamente citas textuales.
+- [ ] B) Exclusivamente citas textuales.
   <!-- feedback: Falta narración. -->
-- [ ] D) Un resumen final obligatorio.
+- [ ] C) Un resumen final obligatorio.
   <!-- feedback: No siempre hay resumen. -->
 
 ### Explicacion Pedagogica
@@ -127,11 +127,11 @@ La crónica mantiene estructura flexible pero conserva rigor informativo.
 Para escribir una crónica sobre el festival de la cosecha en tu pueblo, lo primero que debes hacer es:
 
 ### Opciones
-- [x] A) Recopilar información, entrevistar protagonistas y observar el ambiente.
+- [x] C) Recopilar información, entrevistar protagonistas y observar el ambiente.
   <!-- feedback: La investigación previa asegura rigor. -->
-- [ ] B) Inventar datos sin verificar.
+- [ ] A) Inventar datos sin verificar.
   <!-- feedback: Compromete la veracidad. -->
-- [ ] C) Copiar otra crónica.
+- [ ] B) Copiar otra crónica.
   <!-- feedback: Es plagio. -->
 - [ ] D) Esperar al último día para escribir.
   <!-- feedback: Reduce tiempo de documentación. -->
@@ -173,11 +173,11 @@ La descripción detallada permite al lector "ver" la escena relatada.
 ¿Qué fuentes son apropiadas para sustentar una crónica?
 
 ### Opciones
-- [x] A) Testimonios directos, documentos oficiales, estadísticas y expertos.
+- [x] C) Testimonios directos, documentos oficiales, estadísticas y expertos.
   <!-- feedback: La triangulación de fuentes da credibilidad. -->
-- [ ] B) Solo rumores de redes sociales.
+- [ ] A) Solo rumores de redes sociales.
   <!-- feedback: No son verificables. -->
-- [ ] C) Únicamente la opinión del cronista.
+- [ ] B) Únicamente la opinión del cronista.
   <!-- feedback: Se requieren fuentes externas. -->
 - [ ] D) Datos inventados.
   <!-- feedback: Compromete la ética periodística. -->
@@ -196,13 +196,13 @@ La ética periodística exige verificar y contrastar fuentes.
 En una crónica, el uso de figuras literarias debe:
 
 ### Opciones
-- [x] A) Reforzar la fuerza narrativa sin distorsionar los hechos.
+- [x] D) Reforzar la fuerza narrativa sin distorsionar los hechos.
   <!-- feedback: La estética sirve al periodismo. -->
-- [ ] B) Sustituir completamente la información.
+- [ ] A) Sustituir completamente la información.
   <!-- feedback: Pierde rigor. -->
-- [ ] C) Confundir al lector con exceso.
+- [ ] B) Confundir al lector con exceso.
   <!-- feedback: Debe ser claro. -->
-- [ ] D) Eliminarse por completo.
+- [ ] C) Eliminarse por completo.
   <!-- feedback: Es parte del género. -->
 
 ### Explicacion Pedagogica
@@ -219,11 +219,11 @@ La crónica usa la literatura como herramienta para profundizar la realidad.
 Un rasgo distintivo de la crónica latinoamericana es:
 
 ### Opciones
-- [x] A) Su compromiso social, su registro de la vida cotidiana y su calidad literaria.
+- [x] C) Su compromiso social, su registro de la vida cotidiana y su calidad literaria.
   <!-- feedback: Autores como García Márquez, Caparrós o Monsiváis. -->
-- [ ] B) Evitar temas políticos.
+- [ ] A) Evitar temas políticos.
   <!-- feedback: Los aborda con frecuencia. -->
-- [ ] C) Limitarse a la capital.
+- [ ] B) Limitarse a la capital.
   <!-- feedback: Recorre todo el continente. -->
 - [ ] D) Ser exclusivamente urbana.
   <!-- feedback: Incluye lo rural. -->
@@ -242,13 +242,13 @@ La crónica latinoamericana combina estética, denuncia y memoria cultural.
 Una buena "entradilla" o inicio de crónica debe:
 
 ### Opciones
-- [x] A) Captar la atención del lector con una escena, dato sorprendente o frase impactante.
+- [x] D) Captar la atención del lector con una escena, dato sorprendente o frase impactante.
   <!-- feedback: Invita a seguir leyendo. -->
-- [ ] B) Ser completamente neutra y fría.
+- [ ] A) Ser completamente neutra y fría.
   <!-- feedback: Pierde fuerza narrativa. -->
-- [ ] C) Repetir el título.
+- [ ] B) Repetir el título.
   <!-- feedback: Es redundante. -->
-- [ ] D) Evitar datos concretos.
+- [ ] C) Evitar datos concretos.
   <!-- feedback: El dato ancla la atención. -->
 
 ### Explicacion Pedagogica
@@ -265,9 +265,9 @@ La entradilla es una promesa temática que engancha al lector.
 La subjetividad del cronista debe expresarse mediante:
 
 ### Opciones
-- [x] A) Una mirada interpretativa que contextualice los hechos sin alterar la veracidad.
+- [x] B) Una mirada interpretativa que contextualice los hechos sin alterar la veracidad.
   <!-- feedback: Subjetividad responsable y transparente. -->
-- [ ] B) Datos falsos para dramatizar.
+- [ ] A) Datos falsos para dramatizar.
   <!-- feedback: Compromete la ética. -->
 - [ ] C) Eliminación de toda perspectiva.
   <!-- feedback: La crónica admite la mirada. -->
@@ -288,13 +288,13 @@ La objetividad total es imposible; lo ético es declarar la perspectiva.
 El tiempo en una crónica se organiza generalmente:
 
 ### Opciones
-- [x] A) Mezclando orden cronológico con flashbacks y pausas reflexivas.
+- [x] D) Mezclando orden cronológico con flashbacks y pausas reflexivas.
   <!-- feedback: El cronista controla el ritmo narrativo. -->
-- [ ] B) Solo en orden inverso.
+- [ ] A) Solo en orden inverso.
   <!-- feedback: Puede organizar según el interés. -->
-- [ ] C) Exclusivamente en futuro.
+- [ ] B) Exclusivamente en futuro.
   <!-- feedback: Es reconstrucción del pasado. -->
-- [ ] D) Eliminando toda referencia temporal.
+- [ ] C) Eliminando toda referencia temporal.
   <!-- feedback: El tiempo es esencial. -->
 
 ### Explicacion Pedagogica
@@ -311,13 +311,13 @@ El manejo del tiempo enriquece la tensión narrativa de la crónica.
 Una diferencia entre crónica y reportaje es:
 
 ### Opciones
-- [x] A) La crónica privilegia la voz narrativa; el reportaje prioriza la multiplicidad de voces y datos.
+- [x] D) La crónica privilegia la voz narrativa; el reportaje prioriza la multiplicidad de voces y datos.
   <!-- feedback: Son géneros complementarios. -->
-- [ ] B) El reportaje es ficción.
+- [ ] A) El reportaje es ficción.
   <!-- feedback: Ambos son no ficción. -->
-- [ ] C) La crónica carece de datos.
+- [ ] B) La crónica carece de datos.
   <!-- feedback: Los integra, pero con estilo. -->
-- [ ] D) No existen diferencias.
+- [ ] C) No existen diferencias.
   <!-- feedback: Hay diferencias claras. -->
 
 ### Explicacion Pedagogica
@@ -357,13 +357,13 @@ El cierre consolida el sentido de la crónica y deja huella en el lector.
 ¿Qué riesgo ético enfrenta una crónica sobre el conflicto armado?
 
 ### Opciones
-- [x] A) Revictimizar a las personas afectadas y difundir información sin consentimiento.
+- [x] D) Revictimizar a las personas afectadas y difundir información sin consentimiento.
   <!-- feedback: La ética periodística exige cuidado. -->
-- [ ] B) No relatar nada de lo sucedido.
+- [ ] A) No relatar nada de lo sucedido.
   <!-- feedback: La memoria es importante. -->
-- [ ] C) Usar únicamente datos oficiales.
+- [ ] B) Usar únicamente datos oficiales.
   <!-- feedback: Se pueden contrastar fuentes. -->
-- [ ] D) Evitar nombres propios.
+- [ ] C) Evitar nombres propios.
   <!-- feedback: A veces son necesarios. -->
 
 ### Explicacion Pedagogica
@@ -380,13 +380,13 @@ El periodismo ético protege la dignidad de las víctimas y verifica informació
 El lenguaje de la crónica debe ser:
 
 ### Opciones
-- [x] A) Claro, preciso y con ritmo, combinando registro coloquial y estándar según el contexto.
+- [x] D) Claro, preciso y con ritmo, combinando registro coloquial y estándar según el contexto.
   <!-- feedback: La lengua se adapta a los sujetos. -->
-- [ ] B) Siempre técnico y abstracto.
+- [ ] A) Siempre técnico y abstracto.
   <!-- feedback: Pierde cercanía con el lector. -->
-- [ ] C) Exclusivamente poético.
+- [ ] B) Exclusivamente poético.
   <!-- feedback: Compromete la información. -->
-- [ ] D) Ininteligible para mostrar erudición.
+- [ ] C) Ininteligible para mostrar erudición.
   <!-- feedback: Frena la comunicación. -->
 
 ### Explicacion Pedagogica
@@ -403,13 +403,13 @@ La crónica es un género híbrido que combina precisión y belleza expresiva.
 Al evaluar una crónica, ¿qué criterio pondera la originalidad narrativa?
 
 ### Opciones
-- [x] A) La capacidad de recrear la realidad con voz propia y estructura creativa.
+- [x] D) La capacidad de recrear la realidad con voz propia y estructura creativa.
   <!-- feedback: Valora el estilo del cronista. -->
-- [ ] B) La extensión del texto.
+- [ ] A) La extensión del texto.
   <!-- feedback: La extensión no define originalidad. -->
-- [ ] C) La cantidad de cifras estadísticas.
+- [ ] B) La cantidad de cifras estadísticas.
   <!-- feedback: No garantiza originalidad. -->
-- [ ] D) La ausencia de citas.
+- [ ] C) La ausencia de citas.
   <!-- feedback: Las citas pueden enriquecer. -->
 
 ### Explicacion Pedagogica
@@ -426,13 +426,13 @@ La originalidad narrativa distingue al cronista con voz propia.
 ¿Cuál es la relevancia de la crónica periodística en la era digital?
 
 ### Opciones
-- [x] A) Profundiza la información frente a la inmediatez, ofreciendo contexto y reflexión.
+- [x] D) Profundiza la información frente a la inmediatez, ofreciendo contexto y reflexión.
   <!-- feedback: Contrarresta la superficialidad informativa. -->
-- [ ] B) Sustituye al periodismo digital por completo.
+- [ ] A) Sustituye al periodismo digital por completo.
   <!-- feedback: Convive con otros formatos. -->
-- [ ] C) Solo se publica en impreso.
+- [ ] B) Solo se publica en impreso.
   <!-- feedback: Se adapta a plataformas digitales. -->
-- [ ] D) Pierde toda vigencia.
+- [ ] C) Pierde toda vigencia.
   <!-- feedback: Sigue vigente. -->
 
 ### Explicacion Pedagogica
@@ -472,9 +472,9 @@ La crónica preserva la memoria cultural con sensibilidad narrativa.
 ¿Qué responsabilidad ética principal asume el cronista?
 
 ### Opciones
-- [x] A) Respetar la verdad, proteger a las fuentes vulnerables y ofrecer contexto.
+- [x] B) Respetar la verdad, proteger a las fuentes vulnerables y ofrecer contexto.
   <!-- feedback: La ética guía todo el proceso. -->
-- [ ] B) Inventar historias para atraer lectores.
+- [ ] A) Inventar historias para atraer lectores.
   <!-- feedback: Viola la ética periodística. -->
 - [ ] C) Publicar sin verificar.
   <!-- feedback: Es irresponsable. -->

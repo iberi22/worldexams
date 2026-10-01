@@ -57,8 +57,8 @@ El concepto de El modelo de mosaico fluido constituye un fundamento esencial par
 ¿Qué lípido de la membrana celular de plantas y hongos cumple una función análoga a la del colesterol en animales?
 
 ### Opciones
-- [x] A) El ergosterol <!-- feedback: ¡Correcto! El ergosterol responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) La bomba sodio-potasio ATPasa <!-- feedback: Incorrecto. La bomba sodio-potasio ATPasa no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) El ergosterol <!-- feedback: ¡Correcto! El ergosterol responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) La bomba sodio-potasio ATPasa <!-- feedback: Incorrecto. La bomba sodio-potasio ATPasa no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) La proteína integral o transmembrana <!-- feedback: Incorrecto. La proteína integral o transmembrana es un concepto diferente de la unidad temática. -->
 - [ ] D) El modelo de mosaico fluido <!-- feedback: Incorrecto. El modelo de mosaico fluido describe un proceso o componente distinto. -->
 
@@ -78,10 +78,10 @@ El concepto de El ergosterol constituye un fundamento esencial para comprender l
 ¿Qué tipo de transporte pasivo permite el paso libre de moléculas pequeñas no polares directamente a través de la bicapa?
 
 ### Opciones
-- [x] A) La difusión simple <!-- feedback: ¡Correcto! La difusión simple responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) La difusión facilitada <!-- feedback: Incorrecto. La difusión facilitada no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) El ergosterol <!-- feedback: Incorrecto. El ergosterol es un concepto diferente de la unidad temática. -->
-- [ ] D) Las glicoproteínas y glicolípidos <!-- feedback: Incorrecto. Las glicoproteínas y glicolípidos describe un proceso o componente distinto. -->
+- [x] D) La difusión simple <!-- feedback: ¡Correcto! La difusión simple responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) La difusión facilitada <!-- feedback: Incorrecto. La difusión facilitada no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) El ergosterol <!-- feedback: Incorrecto. El ergosterol es un concepto diferente de la unidad temática. -->
+- [ ] C) Las glicoproteínas y glicolípidos <!-- feedback: Incorrecto. Las glicoproteínas y glicolípidos describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de La difusión simple constituye un fundamento esencial para comprender los procesos analizados en la unidad de Membrana y transporte celular.
@@ -99,9 +99,9 @@ El concepto de La difusión simple constituye un fundamento esencial para compre
 ¿Qué tipo de transporte pasivo utiliza proteínas de canal o carriers para mover solutos polares a favor de su gradiente?
 
 ### Opciones
-- [x] A) La difusión facilitada <!-- feedback: ¡Correcto! La difusión facilitada responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) El modelo de mosaico fluido <!-- feedback: Incorrecto. El modelo de mosaico fluido no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) La proteína extrínseca <!-- feedback: Incorrecto. La proteína extrínseca es un concepto diferente de la unidad temática. -->
+- [x] C) La difusión facilitada <!-- feedback: ¡Correcto! La difusión facilitada responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) El modelo de mosaico fluido <!-- feedback: Incorrecto. El modelo de mosaico fluido no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) La proteína extrínseca <!-- feedback: Incorrecto. La proteína extrínseca es un concepto diferente de la unidad temática. -->
 - [ ] D) El fosfolípido <!-- feedback: Incorrecto. El fosfolípido describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
@@ -162,8 +162,8 @@ El concepto de La citólisis (o lisis osmótica) constituye un fundamento esenci
 ¿Qué proceso describe el movimiento del agua a través de una membrana semipermeable a favor de su propio gradiente?
 
 ### Opciones
-- [x] A) La ósmosis <!-- feedback: ¡Correcto! La ósmosis responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) La bomba sodio-potasio ATPasa <!-- feedback: Incorrecto. La bomba sodio-potasio ATPasa no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) La ósmosis <!-- feedback: ¡Correcto! La ósmosis responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) La bomba sodio-potasio ATPasa <!-- feedback: Incorrecto. La bomba sodio-potasio ATPasa no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) La acuaporina <!-- feedback: Incorrecto. La acuaporina es un concepto diferente de la unidad temática. -->
 - [ ] D) Su carácter no polar o hidrofóbico <!-- feedback: Incorrecto. Su carácter no polar o hidrofóbico describe un proceso o componente distinto. -->
 
@@ -183,8 +183,8 @@ El concepto de La ósmosis constituye un fundamento esencial para comprender los
 ¿Qué proteína transmembrana bombea activamente tres iones de sodio al exterior y dos de potasio al interior de la célula?
 
 ### Opciones
-- [x] A) La bomba sodio-potasio ATPasa <!-- feedback: ¡Correcto! La bomba sodio-potasio ATPasa responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) El simportador de sodio-glucosa <!-- feedback: Incorrecto. El simportador de sodio-glucosa no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) La bomba sodio-potasio ATPasa <!-- feedback: ¡Correcto! La bomba sodio-potasio ATPasa responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) El simportador de sodio-glucosa <!-- feedback: Incorrecto. El simportador de sodio-glucosa no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) La difusión simple <!-- feedback: Incorrecto. La difusión simple es un concepto diferente de la unidad temática. -->
 - [ ] D) La proteína integral o transmembrana <!-- feedback: Incorrecto. La proteína integral o transmembrana describe un proceso o componente distinto. -->
 
@@ -204,9 +204,9 @@ El concepto de La bomba sodio-potasio ATPasa constituye un fundamento esencial p
 ¿Qué mecanismo de transporte celular utiliza el gradiente de sodio preestablecido para ingresar glucosa en contra de su gradiente?
 
 ### Opciones
-- [x] A) El simportador de sodio-glucosa <!-- feedback: ¡Correcto! El simportador de sodio-glucosa responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) La citólisis (o lisis osmótica) <!-- feedback: Incorrecto. La citólisis (o lisis osmótica) no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) El ergosterol <!-- feedback: Incorrecto. El ergosterol es un concepto diferente de la unidad temática. -->
+- [x] C) El simportador de sodio-glucosa <!-- feedback: ¡Correcto! El simportador de sodio-glucosa responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) La citólisis (o lisis osmótica) <!-- feedback: Incorrecto. La citólisis (o lisis osmótica) no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) El ergosterol <!-- feedback: Incorrecto. El ergosterol es un concepto diferente de la unidad temática. -->
 - [ ] D) Los plasmodesmos <!-- feedback: Incorrecto. Los plasmodesmos describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
@@ -225,10 +225,10 @@ El concepto de El simportador de sodio-glucosa constituye un fundamento esencial
 ¿Qué tipo de endocitosis permite a la célula incorporar selectivamente solutos específicos del exterior usando receptores?
 
 ### Opciones
-- [x] A) La endocitosis mediada por receptor <!-- feedback: ¡Correcto! La endocitosis mediada por receptor responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) La ósmosis <!-- feedback: Incorrecto. La ósmosis no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) La difusión facilitada y transporte activo <!-- feedback: Incorrecto. La difusión facilitada y transporte activo es un concepto diferente de la unidad temática. -->
-- [ ] D) El modelo de mosaico fluido <!-- feedback: Incorrecto. El modelo de mosaico fluido describe un proceso o componente distinto. -->
+- [x] D) La endocitosis mediada por receptor <!-- feedback: ¡Correcto! La endocitosis mediada por receptor responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) La ósmosis <!-- feedback: Incorrecto. La ósmosis no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) La difusión facilitada y transporte activo <!-- feedback: Incorrecto. La difusión facilitada y transporte activo es un concepto diferente de la unidad temática. -->
+- [ ] C) El modelo de mosaico fluido <!-- feedback: Incorrecto. El modelo de mosaico fluido describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de La endocitosis mediada por receptor constituye un fundamento esencial para comprender los procesos analizados en la unidad de Membrana y transporte celular.
@@ -288,10 +288,10 @@ El concepto de Su carácter no polar o hidrofóbico constituye un fundamento ese
 ¿Qué carbohidratos externos de la membrana de células animales forman el glucocálix encargado del reconocimiento?
 
 ### Opciones
-- [x] A) Las glicoproteínas y glicolípidos <!-- feedback: ¡Correcto! Las glicoproteínas y glicolípidos responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) La acuaporina <!-- feedback: Incorrecto. La acuaporina no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) La difusión simple <!-- feedback: Incorrecto. La difusión simple es un concepto diferente de la unidad temática. -->
-- [ ] D) La proteína integral o transmembrana <!-- feedback: Incorrecto. La proteína integral o transmembrana describe un proceso o componente distinto. -->
+- [x] D) Las glicoproteínas y glicolípidos <!-- feedback: ¡Correcto! Las glicoproteínas y glicolípidos responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) La acuaporina <!-- feedback: Incorrecto. La acuaporina no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) La difusión simple <!-- feedback: Incorrecto. La difusión simple es un concepto diferente de la unidad temática. -->
+- [ ] C) La proteína integral o transmembrana <!-- feedback: Incorrecto. La proteína integral o transmembrana describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de Las glicoproteínas y glicolípidos constituye un fundamento esencial para comprender los procesos analizados en la unidad de Membrana y transporte celular.
@@ -309,8 +309,8 @@ El concepto de Las glicoproteínas y glicolípidos constituye un fundamento esen
 ¿Qué tipo de proteína de membrana atraviesa completamente la bicapa lipídica de un extremo a otro?
 
 ### Opciones
-- [x] A) La proteína integral o transmembrana <!-- feedback: ¡Correcto! La proteína integral o transmembrana responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Su carácter no polar o hidrofóbico <!-- feedback: Incorrecto. Su carácter no polar o hidrofóbico no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) La proteína integral o transmembrana <!-- feedback: ¡Correcto! La proteína integral o transmembrana responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Su carácter no polar o hidrofóbico <!-- feedback: Incorrecto. Su carácter no polar o hidrofóbico no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) La citólisis (o lisis osmótica) <!-- feedback: Incorrecto. La citólisis (o lisis osmótica) es un concepto diferente de la unidad temática. -->
 - [ ] D) El simportador de sodio-glucosa <!-- feedback: Incorrecto. El simportador de sodio-glucosa describe un proceso o componente distinto. -->
 
@@ -372,10 +372,10 @@ El concepto de La plasmólisis celular constituye un fundamento esencial para co
 ¿Qué tipo de transporte transmembrana se satura cuando todos los sitios de unión de las proteínas transportadoras están ocupados?
 
 ### Opciones
-- [x] A) La difusión facilitada y transporte activo <!-- feedback: ¡Correcto! La difusión facilitada y transporte activo responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) El fosfolípido <!-- feedback: Incorrecto. El fosfolípido no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) El simportador de sodio-glucosa <!-- feedback: Incorrecto. El simportador de sodio-glucosa es un concepto diferente de la unidad temática. -->
-- [ ] D) La difusión facilitada <!-- feedback: Incorrecto. La difusión facilitada describe un proceso o componente distinto. -->
+- [x] D) La difusión facilitada y transporte activo <!-- feedback: ¡Correcto! La difusión facilitada y transporte activo responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) El fosfolípido <!-- feedback: Incorrecto. El fosfolípido no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) El simportador de sodio-glucosa <!-- feedback: Incorrecto. El simportador de sodio-glucosa es un concepto diferente de la unidad temática. -->
+- [ ] C) La difusión facilitada <!-- feedback: Incorrecto. La difusión facilitada describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de La difusión facilitada y transporte activo constituye un fundamento esencial para comprender los procesos analizados en la unidad de Membrana y transporte celular.
@@ -393,8 +393,8 @@ El concepto de La difusión facilitada y transporte activo constituye un fundame
 ¿Qué compuesto lipídico de la bicapa posee un extremo hidrofílico soluble en agua y dos colas hidrofóbicas?
 
 ### Opciones
-- [x] A) El fosfolípido <!-- feedback: ¡Correcto! El fosfolípido responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) El modelo de mosaico fluido <!-- feedback: Incorrecto. El modelo de mosaico fluido no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) El fosfolípido <!-- feedback: ¡Correcto! El fosfolípido responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) El modelo de mosaico fluido <!-- feedback: Incorrecto. El modelo de mosaico fluido no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) La difusión simple <!-- feedback: Incorrecto. La difusión simple es un concepto diferente de la unidad temática. -->
 - [ ] D) La acuaporina <!-- feedback: Incorrecto. La acuaporina describe un proceso o componente distinto. -->
 
@@ -414,8 +414,8 @@ El concepto de El fosfolípido constituye un fundamento esencial para comprender
 ¿Qué tipo de unión intercelular en plantas atraviesa la pared celular facilitando el paso directo de agua y metabolitos?
 
 ### Opciones
-- [x] A) Los plasmodesmos <!-- feedback: ¡Correcto! Los plasmodesmos responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) El fosfolípido <!-- feedback: Incorrecto. El fosfolípido no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) Los plasmodesmos <!-- feedback: ¡Correcto! Los plasmodesmos responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) El fosfolípido <!-- feedback: Incorrecto. El fosfolípido no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) La citólisis (o lisis osmótica) <!-- feedback: Incorrecto. La citólisis (o lisis osmótica) es un concepto diferente de la unidad temática. -->
 - [ ] D) El modelo de mosaico fluido <!-- feedback: Incorrecto. El modelo de mosaico fluido describe un proceso o componente distinto. -->
 

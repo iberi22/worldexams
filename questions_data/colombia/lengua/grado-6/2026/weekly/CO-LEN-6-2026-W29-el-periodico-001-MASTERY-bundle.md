@@ -34,9 +34,9 @@ creador: "Jules-Agent"
 ¿Cuál es la finalidad principal de un periódico?
 
 ### Opciones
-- [x] A) Difundir información actual sobre hechos y personajes de interés público.
+- [x] B) Difundir información actual sobre hechos y personajes de interés público.
   <!-- feedback: Correcto. El periódico informa de manera permanente y actualizada sobre la realidad. -->
-- [ ] B) Crear una obra de ficción con personajes imaginarios y un final feliz.
+- [ ] A) Crear una obra de ficción con personajes imaginarios y un final feliz.
   <!-- feedback: Incorrecto. Un diario de debates o una novela no tienen la finalidad informativa del periódico. -->
 - [ ] C) Enseñar una disciplina mediante ejercicios y respuestas a cada actividad.
   <!-- feedback: Incorrecto. El libro de texto organiza actividades; el periódico solo difunde noticias. -->
@@ -80,9 +80,9 @@ En el género periodístico, la firma del autor es un elemento clave: permite at
 ¿Qué diseño es el más adecuado para la primera página de un periódico escolar?
 
 ### Opciones
-- [x] A) Un encabezado con el nombre y la fecha, un título destacado y varias noticias breves sobre hechos reales del barrio.
+- [x] B) Un encabezado con el nombre y la fecha, un título destacado y varias noticias breves sobre hechos reales del barrio.
   <!-- feedback: Correcto. Reúne los elementos propios de una portada: identificación, título principal y noticias. -->
-- [ ] B) Un solo párrafo con la autobiografía del director del periódico, porque toda portada es personal.
+- [ ] A) Un solo párrafo con la autobiografía del director del periódico, porque toda portada es personal.
   <!-- feedback: Incorrecto. La autobiografía del director no es el contenido informativo de una portada. -->
 - [ ] C) Un aviso publicitario de una tienda del barrio, porque la publicidad es lo más leído.
   <!-- feedback: Incorrecto. El aviso publicitario corresponde a otra sección, no a la información principal. -->
@@ -103,9 +103,9 @@ La portada de un periódico debe identificar el medio, indicar la fecha y adelan
 ¿Qué titular es más propio de una nota periodística local y verificable?
 
 ### Opciones
-- [x] A) "Vecinos de la calle del Carmen reclaman más buses en la mañana".
+- [x] B) "Vecinos de la calle del Carmen reclaman más buses en la mañana".
   <!-- feedback: Correcto. Ubica el lugar, la acción y las personas involucradas en el hecho notificado. -->
-- [ ] B) "El transporte de todas las ciudades del mundo es un problema terrible".
+- [ ] A) "El transporte de todas las ciudades del mundo es un problema terrible".
   <!-- feedback: Incorrecto. Es una generalización sin lugar ni datos, propia de la opinión, no de la noticia. -->
 - [ ] C) "Los buses de Cartagena deberían ser más bonitos y lujosos".
   <!-- feedback: Incorrecto. Expresa un deseo sin evidencia verificable y no informa de un hecho ocurrido. -->
@@ -126,9 +126,9 @@ Un titular periodístico informativo debe señalar quién, qué y dónde ocurri�
 ¿Cuál de los siguientes elementos corresponde a la estructura básica de una noticia?
 
 ### Opciones
-- [x] A) Titular, bajada, cuerpo de la noticia y fuente consultada.
+- [x] B) Titular, bajada, cuerpo de la noticia y fuente consultada.
   <!-- feedback: Correcto. Reúne los elementos del género, desde el título hasta la mención de la fuente consultada. -->
-- [ ] B) Una portada a color, un precio de venta, el código postal y el número de edición.
+- [ ] A) Una portada a color, un precio de venta, el código postal y el número de edición.
   <!-- feedback: Incorrecto. Son datos de la edición impresa, no elementos del texto de la noticia. -->
 - [ ] C) Una biografía completa del periodista y una lista de sus premios a lo largo de toda su vida.
   <!-- feedback: Incorrecto. Es un dato sobre el redactor, no una parte de la estructura de la noticia. -->
@@ -149,9 +149,9 @@ La noticia periodística tiene una estructura reconocible: el titular anuncia el
 ¿Qué se puede inferir de esa situación sobre el carácter del texto publicado?
 
 ### Opciones
-- [x] A) Se trata de una opinión sin sustento verificable, porque no aporta datos ni identifica a un autor responsable.
+- [x] B) Se trata de una opinión sin sustento verificable, porque no aporta datos ni identifica a un autor responsable.
   <!-- feedback: Correcto. Sin datos ni firma, el texto expresa un criterio personal que no puede comprobarse. -->
-- [ ] B) Se trata de una noticia verificada, porque aparece en la primera página del periódico.
+- [ ] A) Se trata de una noticia verificada, porque aparece en la primera página del periódico.
   <!-- feedback: Incorrecto. La ubicación en portada no convierte una opinión en información verificada. -->
 - [ ] C) Se trata de un anuncio publicitario, porque no hay datos ni autor que lo respalde.
   <!-- feedback: Incorrecto. La falta de datos no convierte el texto en publicidad; sigue siendo una opinión. -->
@@ -172,9 +172,9 @@ Inferir el carácter de un texto publicado exige revisar sus marcas: la firma de
 ¿Qué problema se puede identificar con mayor claridad en ese caso?
 
 ### Opciones
-- [x] A) La falta de crédito a la fuente original, que impide al lector rastrear el origen de la información.
+- [x] B) La falta de crédito a la fuente original, que impide al lector rastrear el origen de la información.
   <!-- feedback: Correcto. Sin crédito de fuente, el lector no puede verificar de dónde proviene el contenido. -->
-- [ ] B) La extensión excesiva de la nota, porque las noticias de portada siempre son muy largas.
+- [ ] A) La extensión excesiva de la nota, porque las noticias de portada siempre son muy largas.
   <!-- feedback: Incorrecto. El problema descrito es la ausencia de crédito, no la extensión del texto. -->
 - [ ] C) El mal estado de las fotografías, porque la copia de textos no incluye imágenes propias.
   <!-- feedback: Incorrecto. El caso no aporta ningún dato sobre el estado de las fotografías. -->
@@ -195,11 +195,11 @@ Criticar un medio exige apoyarse en la evidencia disponible y señalar la falla 
 ¿Qué estrategia de lectura es la más adecuada para ese tiempo limitado?
 
 ### Opciones
-- [x] A) Revisar portada y titulares, elegir las secciones de interés y leer primero los subtítulos para seleccionar los textos relevantes.
+- [x] C) Revisar portada y titulares, elegir las secciones de interés y leer primero los subtítulos para seleccionar los textos relevantes.
   <!-- feedback: Correcto. El barrido por estructura permite localizar la información clave dentro del poco tiempo. -->
-- [ ] B) Leer palabra por palabra toda la edición, empezando por la primera página y terminando por la última.
+- [ ] A) Leer palabra por palabra toda la edición, empezando por la primera página y terminando por la última.
   <!-- feedback: Incorrecto. En cuarenta minutos no alcanza para leer todo, y así se pierden los textos importantes. -->
-- [ ] C) Leer únicamente la sección de deportes, porque es la más extensa de cualquier periódico.
+- [ ] B) Leer únicamente la sección de deportes, porque es la más extensa de cualquier periódico.
   <!-- feedback: Incorrecto. La sección de deportes no siempre es la más extensa ni la más relevante para todos. -->
 - [ ] D) Buscar primero las palabras de mayor longitud, porque así se identifica el tema central de la edición.
   <!-- feedback: Incorrecto. La longitud de las palabras no revela el tema ni la importancia de un artículo. -->
@@ -218,13 +218,13 @@ La lectura de un periódico exige una estrategia de barrido: primero se observa 
 ¿Qué evaluación de las dos formas de conocer la opinión pública es más fundamentada?
 
 ### Opciones
-- [x] A) La encuesta refleja la opinión de quienes responden, y el estudio explica cómo se obtuvo el dato; ambos requieren leer sus límites.
+- [x] D) La encuesta refleja la opinión de quienes responden, y el estudio explica cómo se obtuvo el dato; ambos requieren leer sus límites.
   <!-- feedback: Correcto: explica qué mide cada fuente y señala que ninguna sustituye a la otra. -->
-- [ ] B) La encuesta es mejor porque qualquer persona puede opinar, y el estudio no representa a nadie.
+- [ ] A) La encuesta es mejor porque qualquer persona puede opinar, y el estudio no representa a nadie.
   <!-- feedback: Incorrecto. Toda encuesta tiene una muestra definida y todo estudio representa lo que mide. -->
-- [ ] C) El estudio es mejor porque sus datos son numéricos, y la encuesta no produce ningún dato.
+- [ ] B) El estudio es mejor porque sus datos son numéricos, y la encuesta no produce ningún dato.
   <!-- feedback: Incorrecto. Una encuesta produce datos cuantitativos y cualitativos, aunque no se expresen con cifras. -->
-- [ ] D) Ambas fuentes son iguales porque cualquier forma de conocer la opinión es igualmente confiable.
+- [ ] C) Ambas fuentes son iguales porque cualquier forma de conocer la opinión es igualmente confiable.
   <!-- feedback: Incorrecto. La confiabilidad depende del método, la muestra y la transparencia de cada fuente. -->
 
 ### Explicacion Pedagogica

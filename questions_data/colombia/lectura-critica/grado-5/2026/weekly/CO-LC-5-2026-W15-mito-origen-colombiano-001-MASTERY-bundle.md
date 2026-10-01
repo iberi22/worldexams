@@ -34,9 +34,9 @@ Comprensión lectora de un mito muisca de origen y reconocimiento de sus element
 ¿De qué lugar salió Bachué al inicio del relato según el texto?
 
 ### Opciones
-- [x] A) De la laguna de Iguaque.
+- [x] B) De la laguna de Iguaque.
   <!-- feedback: El texto indica expresamente que Bachué salió de la laguna de Iguaque llevando de la mano a un niño. -->
-- [ ] B) De una cueva en la sierra nevada.
+- [ ] A) De una cueva en la sierra nevada.
   <!-- feedback: El relato menciona la laguna de Iguaque, no una cueva. -->
 - [ ] C) De un pozo en el centro de un valle.
   <!-- feedback: El lugar de origen señalado en el texto es la laguna, no un pozo. -->
@@ -57,11 +57,11 @@ La comprensión literal exige ubicar datos explícitos como el lugar de origen d
 ¿Qué representa principalmente este relato para el pueblo muisca?
 
 ### Opciones
-- [x] A) Una explicación sagrada del origen de los seres humanos y del poblamiento de su territorio.
+- [x] C) Una explicación sagrada del origen de los seres humanos y del poblamiento de su territorio.
   <!-- feedback: Los mitos de origen explican cómo surgieron la humanidad y las comunidades, y otorgan sentido a su mundo. -->
-- [ ] B) Una noticia histórica sobre un viaje de turismo a la laguna.
+- [ ] A) Una noticia histórica sobre un viaje de turismo a la laguna.
   <!-- feedback: El relato posee un sentido sagrado y simbólico, no informativo ni turístico. -->
-- [ ] C) Un manual de instrucciones para navegar por los ríos.
+- [ ] B) Un manual de instrucciones para navegar por los ríos.
   <!-- feedback: El texto no enseña técnicas de navegación; narra el origen mítico de un pueblo. -->
 - [ ] D) Un cuento cómico para entretener a los niños con animales.
   <!-- feedback: Aunque se narra a los niños, su función es explicar sagradamente el origen, no hacer reír. -->
@@ -80,11 +80,11 @@ Comprensión de la función del mito de origen como relato sagrado que explica l
 ¿Cuál es la intención del abuelo al contar este mito a sus nietos?
 
 ### Opciones
-- [x] A) Transmitir la memoria y la identidad de su pueblo, y enseñar el respeto por la naturaleza sagrada.
+- [x] C) Transmitir la memoria y la identidad de su pueblo, y enseñar el respeto por la naturaleza sagrada.
   <!-- feedback: Contar el mito busca conservar la tradición oral, la identidad cultural y el cuidado de los lugares sagrados. -->
-- [ ] B) Demostrar que las lagunas son peligrosas y deben evitarse por completo.
+- [ ] A) Demostrar que las lagunas son peligrosas y deben evitarse por completo.
   <!-- feedback: El respeto por la laguna no implica prohibir su existencia, sino valorarla como lugar sagrado. -->
-- [ ] C) Convencer a los niños de que viajen lejos de su comunidad.
+- [ ] B) Convencer a los niños de que viajen lejos de su comunidad.
   <!-- feedback: El relato fortalece el vínculo con el territorio, no la idea de abandonarlo. -->
 - [ ] D) Enseñar una receta de cocina tradicional con productos del valle.
   <!-- feedback: El propósito es cultural y espiritual; no se menciona ninguna preparación culinaria. -->
@@ -103,9 +103,9 @@ Reconocimiento de la intención comunicativa de la tradición oral: conservar la
 ¿Qué recurso del lenguaje mítico se emplea al transformar a los personajes en serpientes?
 
 ### Opciones
-- [x] A) La metamorfosis simbólica, que expresa el vínculo sagrado entre los seres humanos y la naturaleza.
+- [x] B) La metamorfosis simbólica, que expresa el vínculo sagrado entre los seres humanos y la naturaleza.
   <!-- feedback: La transformación en animales es un símbolo frecuente en los mitos para mostrar la unión con la naturaleza y lo sagrado. -->
-- [ ] B) La rima consonante, que repite sonidos al final de cada verso.
+- [ ] A) La rima consonante, que repite sonidos al final de cada verso.
   <!-- feedback: El texto está escrito en prosa narrativa y no se organiza en versos con rima. -->
 - [ ] C) El diálogo teatral, con acotaciones para los actores.
   <!-- feedback: El relato es narrativo y no presenta la estructura de una obra de teatro. -->
@@ -126,9 +126,9 @@ Identificación de recursos simbólicos propios del lenguaje mítico, como la me
 ¿Qué significado tiene el agua de la laguna dentro del mito?
 
 ### Opciones
-- [x] A) Es un símbolo de origen y de retorno, fuente de vida y de renovación para el pueblo muisca.
+- [x] B) Es un símbolo de origen y de retorno, fuente de vida y de renovación para el pueblo muisca.
   <!-- feedback: En muchos mitos el agua representa el principio de la vida, y su aparición al inicio y al final refuerza ese sentido. -->
-- [ ] B) Es un simple obstáculo que los personajes deben rodear.
+- [ ] A) Es un simple obstáculo que los personajes deben rodear.
   <!-- feedback: La laguna no es un estorbo; es el espacio sagrado del que brota y al que vuelve la vida. -->
 - [ ] C) Es un lugar prohibido que causa enfermedades a quien lo visita.
   <!-- feedback: El texto no atribuye males a la laguna; la presenta como origen sagrado. -->
@@ -149,13 +149,13 @@ Interpretación del valor simbólico del agua en los mitos de origen de las cult
 ¿Cuál es la diferencia esencial entre el mito y la explicación científica?
 
 ### Opciones
-- [x] A) El mito explica el origen desde lo sagrado y simbólico, mientras la ciencia lo hace desde evidencias y datos comprobables.
+- [x] D) El mito explica el origen desde lo sagrado y simbólico, mientras la ciencia lo hace desde evidencias y datos comprobables.
   <!-- feedback: El mito responde a preguntas existenciales con relatos sagrados; la ciencia busca explicaciones verificables. -->
-- [ ] B) El mito es falso y la ciencia es verdadera, por lo que el mito no tiene ningún valor.
+- [ ] A) El mito es falso y la ciencia es verdadera, por lo que el mito no tiene ningún valor.
   <!-- feedback: Ambos cumplen funciones distintas; el mito aporta identidad y sentido, la ciencia aporta conocimiento verificable. -->
-- [ ] C) La ciencia también recurre a serpientes y lagunas mágicas para explicar el pasado.
+- [ ] B) La ciencia también recurre a serpientes y lagunas mágicas para explicar el pasado.
   <!-- feedback: La ciencia se basa en pruebas; no emplea elementos mágicos en sus explicaciones. -->
-- [ ] D) El mito y la ciencia dicen exactamente lo mismo con las mismas palabras.
+- [ ] C) El mito y la ciencia dicen exactamente lo mismo con las mismas palabras.
   <!-- feedback: Sus propósitos y métodos son diferentes, aunque puedan referirse al mismo tema. -->
 
 ### Explicacion Pedagogica
@@ -172,13 +172,13 @@ Análisis comparativo entre el discurso mítico y el discurso científico como f
 ¿Qué papel cumple Bachué a lo largo de la narración?
 
 ### Opciones
-- [x] A) Es la figura materna y fundadora que da origen al pueblo y luego se transforma en un ser sagrado.
+- [x] D) Es la figura materna y fundadora que da origen al pueblo y luego se transforma en un ser sagrado.
   <!-- feedback: Bachué encarna la madre primordial, guía, fundadora y finalmente deidad vinculada al agua. -->
-- [ ] B) Es una enemiga que destruye a los habitantes del valle.
+- [ ] A) Es una enemiga que destruye a los habitantes del valle.
   <!-- feedback: Bachué no destruye; engendra y puebla el territorio con sus descendientes. -->
-- [ ] C) Es una viajera que nunca se detiene en ningún lugar.
+- [ ] B) Es una viajera que nunca se detiene en ningún lugar.
   <!-- feedback: Se establece en el valle, forma familia y funda el poblamiento. -->
-- [ ] D) Es un personaje secundario que solo aparece al final del relato.
+- [ ] C) Es un personaje secundario que solo aparece al final del relato.
   <!-- feedback: Bachué es la protagonista y aparece desde el comienzo hasta el desenlace del mito. -->
 
 ### Explicacion Pedagogica
@@ -195,13 +195,13 @@ Análisis de la evolución y el papel del personaje principal a lo largo de la n
 ¿Qué argumento valora de forma más justa el sentido de los mitos de origen?
 
 ### Opciones
-- [x] A) Los mitos no buscan comprobarse como la ciencia, sino transmitir identidad, valores y una forma de entender el mundo.
+- [x] D) Los mitos no buscan comprobarse como la ciencia, sino transmitir identidad, valores y una forma de entender el mundo.
   <!-- feedback: Los mitos cumplen una función cultural y espiritual; su valor no depende de la comprobación experimental. -->
-- [ ] B) El estudiante tiene razón porque solo lo comprobable merece ser contado.
+- [ ] A) El estudiante tiene razón porque solo lo comprobable merece ser contado.
   <!-- feedback: Reducir el valor de un relato a su comprobación desconoce las funciones culturales de la tradición oral. -->
-- [ ] C) Los mitos deben reemplazarse por noticias periodísticas actuales.
+- [ ] B) Los mitos deben reemplazarse por noticias periodísticas actuales.
   <!-- feedback: La noticia informa hechos recientes; el mito conserva la memoria y la cosmovisión de un pueblo. -->
-- [ ] D) Los mitos solo sirven como adorno decorativo en los libros escolares.
+- [ ] C) Los mitos solo sirven como adorno decorativo en los libros escolares.
   <!-- feedback: Los mitos son patrimonio cultural vivo que forma identidad y transmite saberes ancestrales. -->
 
 ### Explicacion Pedagogica

@@ -36,8 +36,8 @@ Este bundle cubre de manera exhaustiva el tema de Organelos celulares para el Gr
 ¿Qué organelo se compone de una serie de sacos aplanados llamados dictiosomas encargados del empaquetamiento proteico?
 
 ### Opciones
-- [x] A) El aparato de Golgi <!-- feedback: ¡Correcto! El aparato de Golgi responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) La mitocondria <!-- feedback: Incorrecto. La mitocondria no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) El aparato de Golgi <!-- feedback: ¡Correcto! El aparato de Golgi responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) La mitocondria <!-- feedback: Incorrecto. La mitocondria no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) La subunidad menor 40S <!-- feedback: Incorrecto. La subunidad menor 40S es un concepto diferente de la unidad temática. -->
 - [ ] D) La vacuola central <!-- feedback: Incorrecto. La vacuola central describe un proceso o componente distinto. -->
 
@@ -57,9 +57,9 @@ El concepto de El aparato de Golgi constituye un fundamento esencial para compre
 ¿Qué estructura membranosa de doble membrana plegada en crestas sintetiza la mayor parte del ATP celular?
 
 ### Opciones
-- [x] A) La mitocondria <!-- feedback: ¡Correcto! La mitocondria responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) La membrana plasmática y proteínas de anclaje <!-- feedback: Incorrecto. La membrana plasmática y proteínas de anclaje no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) El retículo endoplasmático liso <!-- feedback: Incorrecto. El retículo endoplasmático liso es un concepto diferente de la unidad temática. -->
+- [x] C) La mitocondria <!-- feedback: ¡Correcto! La mitocondria responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) La membrana plasmática y proteínas de anclaje <!-- feedback: Incorrecto. La membrana plasmática y proteínas de anclaje no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) El retículo endoplasmático liso <!-- feedback: Incorrecto. El retículo endoplasmático liso es un concepto diferente de la unidad temática. -->
 - [ ] D) Los filamentos intermedios <!-- feedback: Incorrecto. Los filamentos intermedios describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
@@ -78,8 +78,8 @@ El concepto de La mitocondria constituye un fundamento esencial para comprender 
 ¿Qué organelo vesicular contiene hidrolasas ácidas activas a pH de 5.0 para la digestión celular?
 
 ### Opciones
-- [x] A) El lisosoma <!-- feedback: ¡Correcto! El lisosoma responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Los pseudópodos de actina <!-- feedback: Incorrecto. Los pseudópodos de actina no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) El lisosoma <!-- feedback: ¡Correcto! El lisosoma responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Los pseudópodos de actina <!-- feedback: Incorrecto. Los pseudópodos de actina no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) La subunidad menor 40S <!-- feedback: Incorrecto. La subunidad menor 40S es un concepto diferente de la unidad temática. -->
 - [ ] D) El retículo endoplasmático liso <!-- feedback: Incorrecto. El retículo endoplasmático liso describe un proceso o componente distinto. -->
 
@@ -99,9 +99,9 @@ El concepto de El lisosoma constituye un fundamento esencial para comprender los
 ¿Qué organelo citoplasmático contiene catalasa para descomponer el peróxido de hidrógeno en agua y oxígeno?
 
 ### Opciones
-- [x] A) El peroxisoma <!-- feedback: ¡Correcto! El peroxisoma responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Los pseudópodos de actina <!-- feedback: Incorrecto. Los pseudópodos de actina no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) El complejo TIM/TOM <!-- feedback: Incorrecto. El complejo TIM/TOM es un concepto diferente de la unidad temática. -->
+- [x] C) El peroxisoma <!-- feedback: ¡Correcto! El peroxisoma responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Los pseudópodos de actina <!-- feedback: Incorrecto. Los pseudópodos de actina no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) El complejo TIM/TOM <!-- feedback: Incorrecto. El complejo TIM/TOM es un concepto diferente de la unidad temática. -->
 - [ ] D) El cloroplasto <!-- feedback: Incorrecto. El cloroplasto describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
@@ -120,8 +120,8 @@ El concepto de El peroxisoma constituye un fundamento esencial para comprender l
 ¿Qué organelo celular membranoso carece de ribosomas y se encarga de la síntesis de lípidos y detoxificación?
 
 ### Opciones
-- [x] A) El retículo endoplasmático liso <!-- feedback: ¡Correcto! El retículo endoplasmático liso responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Los microfilamentos de actina <!-- feedback: Incorrecto. Los microfilamentos de actina no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) El retículo endoplasmático liso <!-- feedback: ¡Correcto! El retículo endoplasmático liso responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Los microfilamentos de actina <!-- feedback: Incorrecto. Los microfilamentos de actina no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) El complejo TIM/TOM <!-- feedback: Incorrecto. El complejo TIM/TOM es un concepto diferente de la unidad temática. -->
 - [ ] D) La membrana plasmática y proteínas de anclaje <!-- feedback: Incorrecto. La membrana plasmática y proteínas de anclaje describe un proceso o componente distinto. -->
 
@@ -141,8 +141,8 @@ El concepto de El retículo endoplasmático liso constituye un fundamento esenci
 ¿Qué organelo eucariota almacena agua, sales y aminoácidos, regulando la presión de turgencia en plantas?
 
 ### Opciones
-- [x] A) La vacuola central <!-- feedback: ¡Correcto! La vacuola central responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) El oxígeno molecular <!-- feedback: Incorrecto. El oxígeno molecular no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) La vacuola central <!-- feedback: ¡Correcto! La vacuola central responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) El oxígeno molecular <!-- feedback: Incorrecto. El oxígeno molecular no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) Los filamentos intermedios <!-- feedback: Incorrecto. Los filamentos intermedios es un concepto diferente de la unidad temática. -->
 - [ ] D) Los centriolos <!-- feedback: Incorrecto. Los centriolos describe un proceso o componente distinto. -->
 
@@ -162,10 +162,10 @@ El concepto de La vacuola central constituye un fundamento esencial para compren
 ¿Qué filamentos del citoesqueleto compuestos por dímeros de tubulina guían el transporte de vesículas celulares?
 
 ### Opciones
-- [x] A) Los microtúbulos <!-- feedback: ¡Correcto! Los microtúbulos responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) El cloroplasto <!-- feedback: Incorrecto. El cloroplasto no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) El aparato de Golgi <!-- feedback: Incorrecto. El aparato de Golgi es un concepto diferente de la unidad temática. -->
-- [ ] D) La mitocondria <!-- feedback: Incorrecto. La mitocondria describe un proceso o componente distinto. -->
+- [x] D) Los microtúbulos <!-- feedback: ¡Correcto! Los microtúbulos responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) El cloroplasto <!-- feedback: Incorrecto. El cloroplasto no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) El aparato de Golgi <!-- feedback: Incorrecto. El aparato de Golgi es un concepto diferente de la unidad temática. -->
+- [ ] C) La mitocondria <!-- feedback: Incorrecto. La mitocondria describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de Los microtúbulos constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.
@@ -183,8 +183,8 @@ El concepto de Los microtúbulos constituye un fundamento esencial para comprend
 ¿Qué estructura compuesta de microtúbulos en arreglo triple se asocia con el centrosoma animal?
 
 ### Opciones
-- [x] A) Los centriolos <!-- feedback: ¡Correcto! Los centriolos responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) El retículo endoplasmático rugoso <!-- feedback: Incorrecto. El retículo endoplasmático rugoso no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) Los centriolos <!-- feedback: ¡Correcto! Los centriolos responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) El retículo endoplasmático rugoso <!-- feedback: Incorrecto. El retículo endoplasmático rugoso no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) La membrana plasmática y proteínas de anclaje <!-- feedback: Incorrecto. La membrana plasmática y proteínas de anclaje es un concepto diferente de la unidad temática. -->
 - [ ] D) Los pseudópodos de actina <!-- feedback: Incorrecto. Los pseudópodos de actina describe un proceso o componente distinto. -->
 
@@ -204,10 +204,10 @@ El concepto de Los centriolos constituye un fundamento esencial para comprender 
 ¿Qué subunidad del ribosoma eucariota de 80S se encarga de leer el ARN mensajero?
 
 ### Opciones
-- [x] A) La subunidad menor 40S <!-- feedback: ¡Correcto! La subunidad menor 40S responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Los microtúbulos <!-- feedback: Incorrecto. Los microtúbulos no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) El cloroplasto <!-- feedback: Incorrecto. El cloroplasto es un concepto diferente de la unidad temática. -->
-- [ ] D) Los pseudópodos de actina <!-- feedback: Incorrecto. Los pseudópodos de actina describe un proceso o componente distinto. -->
+- [x] D) La subunidad menor 40S <!-- feedback: ¡Correcto! La subunidad menor 40S responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Los microtúbulos <!-- feedback: Incorrecto. Los microtúbulos no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) El cloroplasto <!-- feedback: Incorrecto. El cloroplasto es un concepto diferente de la unidad temática. -->
+- [ ] C) Los pseudópodos de actina <!-- feedback: Incorrecto. Los pseudópodos de actina describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de La subunidad menor 40S constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.
@@ -246,8 +246,8 @@ El concepto de El cloroplasto constituye un fundamento esencial para comprender 
 ¿Qué filamento contráctil de actina participa en la formación del anillo de división celular?
 
 ### Opciones
-- [x] A) Los microfilamentos de actina <!-- feedback: ¡Correcto! Los microfilamentos de actina responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) El retículo endoplasmático rugoso <!-- feedback: Incorrecto. El retículo endoplasmático rugoso no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) Los microfilamentos de actina <!-- feedback: ¡Correcto! Los microfilamentos de actina responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) El retículo endoplasmático rugoso <!-- feedback: Incorrecto. El retículo endoplasmático rugoso no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) El peroxisoma <!-- feedback: Incorrecto. El peroxisoma es un concepto diferente de la unidad temática. -->
 - [ ] D) La desoxirribonucleasa ácida <!-- feedback: Incorrecto. La desoxirribonucleasa ácida describe un proceso o componente distinto. -->
 
@@ -267,10 +267,10 @@ El concepto de Los microfilamentos de actina constituye un fundamento esencial p
 ¿Qué orgánulo almacena calcio intracelular y está altamente desarrollado en el tejido muscular estriado?
 
 ### Opciones
-- [x] A) El retículo sarcoplásmico <!-- feedback: ¡Correcto! El retículo sarcoplásmico responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) El retículo endoplasmático rugoso <!-- feedback: Incorrecto. El retículo endoplasmático rugoso no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) La vacuola central <!-- feedback: Incorrecto. La vacuola central es un concepto diferente de la unidad temática. -->
-- [ ] D) Los filamentos intermedios <!-- feedback: Incorrecto. Los filamentos intermedios describe un proceso o componente distinto. -->
+- [x] D) El retículo sarcoplásmico <!-- feedback: ¡Correcto! El retículo sarcoplásmico responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) El retículo endoplasmático rugoso <!-- feedback: Incorrecto. El retículo endoplasmático rugoso no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) La vacuola central <!-- feedback: Incorrecto. La vacuola central es un concepto diferente de la unidad temática. -->
+- [ ] C) Los filamentos intermedios <!-- feedback: Incorrecto. Los filamentos intermedios describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de El retículo sarcoplásmico constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.
@@ -288,10 +288,10 @@ El concepto de El retículo sarcoplásmico constituye un fundamento esencial par
 ¿Qué región del cloroplasto contiene las enzimas solubles encargadas del ciclo de Calvin?
 
 ### Opciones
-- [x] A) El estroma <!-- feedback: ¡Correcto! El estroma responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) La subunidad menor 40S <!-- feedback: Incorrecto. La subunidad menor 40S no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) Los pseudópodos de actina <!-- feedback: Incorrecto. Los pseudópodos de actina es un concepto diferente de la unidad temática. -->
-- [ ] D) El retículo sarcoplásmico <!-- feedback: Incorrecto. El retículo sarcoplásmico describe un proceso o componente distinto. -->
+- [x] D) El estroma <!-- feedback: ¡Correcto! El estroma responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) La subunidad menor 40S <!-- feedback: Incorrecto. La subunidad menor 40S no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) Los pseudópodos de actina <!-- feedback: Incorrecto. Los pseudópodos de actina es un concepto diferente de la unidad temática. -->
+- [ ] C) El retículo sarcoplásmico <!-- feedback: Incorrecto. El retículo sarcoplásmico describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de El estroma constituye un fundamento esencial para comprender los procesos analizados en la unidad de Organelos celulares.
@@ -309,9 +309,9 @@ El concepto de El estroma constituye un fundamento esencial para comprender los 
 ¿Qué compuesto de la matriz mitocondrial acepta electrones al final de la cadena respiratoria?
 
 ### Opciones
-- [x] A) El oxígeno molecular <!-- feedback: ¡Correcto! El oxígeno molecular responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Los filamentos intermedios <!-- feedback: Incorrecto. Los filamentos intermedios no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) El retículo endoplasmático liso <!-- feedback: Incorrecto. El retículo endoplasmático liso es un concepto diferente de la unidad temática. -->
+- [x] C) El oxígeno molecular <!-- feedback: ¡Correcto! El oxígeno molecular responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Los filamentos intermedios <!-- feedback: Incorrecto. Los filamentos intermedios no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) El retículo endoplasmático liso <!-- feedback: Incorrecto. El retículo endoplasmático liso es un concepto diferente de la unidad temática. -->
 - [ ] D) El retículo endoplasmático rugoso <!-- feedback: Incorrecto. El retículo endoplasmático rugoso describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
@@ -330,8 +330,8 @@ El concepto de El oxígeno molecular constituye un fundamento esencial para comp
 ¿Qué tipo de filamentos del citoesqueleto compuesto por queratina da resistencia contra esfuerzos mecánicos?
 
 ### Opciones
-- [x] A) Los filamentos intermedios <!-- feedback: ¡Correcto! Los filamentos intermedios responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) El aparato de Golgi <!-- feedback: Incorrecto. El aparato de Golgi no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) Los filamentos intermedios <!-- feedback: ¡Correcto! Los filamentos intermedios responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) El aparato de Golgi <!-- feedback: Incorrecto. El aparato de Golgi no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) El retículo endoplasmático rugoso <!-- feedback: Incorrecto. El retículo endoplasmático rugoso es un concepto diferente de la unidad temática. -->
 - [ ] D) El lisosoma <!-- feedback: Incorrecto. El lisosoma describe un proceso o componente distinto. -->
 
@@ -351,9 +351,9 @@ El concepto de Los filamentos intermedios constituye un fundamento esencial para
 ¿Qué organelo se encarga de la síntesis de proteínas de exportación y tiene ribosomas adheridos en su membrana?
 
 ### Opciones
-- [x] A) El retículo endoplasmático rugoso <!-- feedback: ¡Correcto! El retículo endoplasmático rugoso responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Los microtúbulos <!-- feedback: Incorrecto. Los microtúbulos no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) Los centriolos <!-- feedback: Incorrecto. Los centriolos es un concepto diferente de la unidad temática. -->
+- [x] C) El retículo endoplasmático rugoso <!-- feedback: ¡Correcto! El retículo endoplasmático rugoso responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Los microtúbulos <!-- feedback: Incorrecto. Los microtúbulos no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) Los centriolos <!-- feedback: Incorrecto. Los centriolos es un concepto diferente de la unidad temática. -->
 - [ ] D) El peroxisoma <!-- feedback: Incorrecto. El peroxisoma describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
@@ -372,9 +372,9 @@ El concepto de El retículo endoplasmático rugoso constituye un fundamento esen
 ¿Qué estructura microscópica del citoesqueleto se proyecta al exterior de la célula facilitando el movimiento ameboide?
 
 ### Opciones
-- [x] A) Los pseudópodos de actina <!-- feedback: ¡Correcto! Los pseudópodos de actina responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) El complejo TIM/TOM <!-- feedback: Incorrecto. El complejo TIM/TOM no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) La subunidad menor 40S <!-- feedback: Incorrecto. La subunidad menor 40S es un concepto diferente de la unidad temática. -->
+- [x] C) Los pseudópodos de actina <!-- feedback: ¡Correcto! Los pseudópodos de actina responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) El complejo TIM/TOM <!-- feedback: Incorrecto. El complejo TIM/TOM no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) La subunidad menor 40S <!-- feedback: Incorrecto. La subunidad menor 40S es un concepto diferente de la unidad temática. -->
 - [ ] D) El retículo sarcoplásmico <!-- feedback: Incorrecto. El retículo sarcoplásmico describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
@@ -393,8 +393,8 @@ El concepto de Los pseudópodos de actina constituye un fundamento esencial para
 ¿Qué componente celular eucariota interactúa directamente con el citoesqueleto para mantener la forma geométrica celular?
 
 ### Opciones
-- [x] A) La membrana plasmática y proteínas de anclaje <!-- feedback: ¡Correcto! La membrana plasmática y proteínas de anclaje responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Los microfilamentos de actina <!-- feedback: Incorrecto. Los microfilamentos de actina no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) La membrana plasmática y proteínas de anclaje <!-- feedback: ¡Correcto! La membrana plasmática y proteínas de anclaje responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Los microfilamentos de actina <!-- feedback: Incorrecto. Los microfilamentos de actina no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) El retículo endoplasmático rugoso <!-- feedback: Incorrecto. El retículo endoplasmático rugoso es un concepto diferente de la unidad temática. -->
 - [ ] D) El retículo endoplasmático liso <!-- feedback: Incorrecto. El retículo endoplasmático liso describe un proceso o componente distinto. -->
 
@@ -414,8 +414,8 @@ El concepto de La membrana plasmática y proteínas de anclaje constituye un fun
 ¿Qué complejo macromolecular transfiere proteínas plegadas desde el citoplasma al interior de la mitocondria?
 
 ### Opciones
-- [x] A) El complejo TIM/TOM <!-- feedback: ¡Correcto! El complejo TIM/TOM responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) El retículo endoplasmático rugoso <!-- feedback: Incorrecto. El retículo endoplasmático rugoso no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) El complejo TIM/TOM <!-- feedback: ¡Correcto! El complejo TIM/TOM responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) El retículo endoplasmático rugoso <!-- feedback: Incorrecto. El retículo endoplasmático rugoso no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) El retículo endoplasmático liso <!-- feedback: Incorrecto. El retículo endoplasmático liso es un concepto diferente de la unidad temática. -->
 - [ ] D) Los pseudópodos de actina <!-- feedback: Incorrecto. Los pseudópodos de actina describe un proceso o componente distinto. -->
 
@@ -435,9 +435,9 @@ El concepto de El complejo TIM/TOM constituye un fundamento esencial para compre
 ¿Qué enzima de los lisosomas cataliza la ruptura hidrolítica de los enlaces fosfodiéster del ADN?
 
 ### Opciones
-- [x] A) La desoxirribonucleasa ácida <!-- feedback: ¡Correcto! La desoxirribonucleasa ácida responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) El oxígeno molecular <!-- feedback: Incorrecto. El oxígeno molecular no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) La vacuola central <!-- feedback: Incorrecto. La vacuola central es un concepto diferente de la unidad temática. -->
+- [x] C) La desoxirribonucleasa ácida <!-- feedback: ¡Correcto! La desoxirribonucleasa ácida responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) El oxígeno molecular <!-- feedback: Incorrecto. El oxígeno molecular no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) La vacuola central <!-- feedback: Incorrecto. La vacuola central es un concepto diferente de la unidad temática. -->
 - [ ] D) El retículo endoplasmático liso <!-- feedback: Incorrecto. El retículo endoplasmático liso describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica

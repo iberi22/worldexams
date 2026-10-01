@@ -77,10 +77,10 @@ Los artículos editoriales son textos argumentativos porque exponen una tesis ce
 En un texto argumentativo, ¿qué elemento constituye la idea central o postura que defiende el autor?
 
 ### Opciones
-- [x] A) La tesis <!-- feedback: ¡Correcto! La tesis es la idea u opinión principal que el autor sostiene y demuestra a lo largo del texto. -->
-- [ ] B) La conclusión <!-- feedback: Incorrecto. La conclusión sintetiza los puntos clave y reafirma la tesis al final del escrito. -->
-- [ ] C) El contraargumento <!-- feedback: Incorrecto. El contraargumento sirve para refutar posturas opuestas. -->
-- [ ] D) El marco expositivo <!-- feedback: Incorrecto. Es la introducción del contexto donde se presenta el problema. -->
+- [x] D) La tesis <!-- feedback: ¡Correcto! La tesis es la idea u opinión principal que el autor sostiene y demuestra a lo largo del texto. -->
+- [ ] A) La conclusión <!-- feedback: Incorrecto. La conclusión sintetiza los puntos clave y reafirma la tesis al final del escrito. -->
+- [ ] B) El contraargumento <!-- feedback: Incorrecto. El contraargumento sirve para refutar posturas opuestas. -->
+- [ ] C) El marco expositivo <!-- feedback: Incorrecto. Es la introducción del contexto donde se presenta el problema. -->
 
 ### Explicacion Pedagogica
 La tesis es la afirmación o propuesta fundamentada que expresa la posición del autor frente al tema tratado y que es sustentada mediante argumentos.
@@ -98,10 +98,10 @@ La tesis es la afirmación o propuesta fundamentada que expresa la posición del
 Lea el siguiente fragmento: "El viejo reloj de la estación de trenes marcaba las doce de la noche. Una densa neblina cubría la plaza central mientras los faroles titilaban en la penumbra." ¿Qué tipo de secuencia textual predomina en el fragmento?
 
 ### Opciones
-- [x] A) Secuencia descriptiva <!-- feedback: ¡Correcto! El fragmento detalla los elementos del ambiente y las características del espacio (el reloj, la neblina, los faroles). -->
-- [ ] B) Secuencia dialogada <!-- feedback: Incorrecto. No hay intervención directa ni conversación entre personajes. -->
-- [ ] C) Secuencia argumentativa <!-- feedback: Incorrecto. No contiene argumentos ni defiende ninguna tesis. -->
-- [ ] D) Secuencia expositiva <!-- feedback: Incorrecto. No explica un concepto ni transmite información teórica. -->
+- [x] D) Secuencia descriptiva <!-- feedback: ¡Correcto! El fragmento detalla los elementos del ambiente y las características del espacio (el reloj, la neblina, los faroles). -->
+- [ ] A) Secuencia dialogada <!-- feedback: Incorrecto. No hay intervención directa ni conversación entre personajes. -->
+- [ ] B) Secuencia argumentativa <!-- feedback: Incorrecto. No contiene argumentos ni defiende ninguna tesis. -->
+- [ ] C) Secuencia expositiva <!-- feedback: Incorrecto. No explica un concepto ni transmite información teórica. -->
 
 ### Explicacion Pedagogica
 Las secuencias descriptivas caracterizan lugares, objetos o ambientes detallando sus propiedades visuales y atmósfera.
@@ -119,9 +119,9 @@ Las secuencias descriptivas caracterizan lugares, objetos o ambientes detallando
 ¿Cuál es la intención comunicativa dominante en un artículo de divulgación científica?
 
 ### Opciones
-- [x] A) Informar al público general sobre avances o conocimientos científicos de forma comprensible. <!-- feedback: ¡Correcto! Su meta es hacer accesible el saber especializado a una audiencia no experta. -->
-- [ ] B) Crear un mundo ficcional con lenguaje poético y subjetivo. <!-- feedback: Incorrecto. Corresponde a los textos literarios. -->
-- [ ] C) Establecer decretos de cumplimiento obligatorio. <!-- feedback: Incorrecto. Pertenece a la esfera de los textos normativos o legislativos. -->
+- [x] C) Informar al público general sobre avances o conocimientos científicos de forma comprensible. <!-- feedback: ¡Correcto! Su meta es hacer accesible el saber especializado a una audiencia no experta. -->
+- [ ] A) Crear un mundo ficcional con lenguaje poético y subjetivo. <!-- feedback: Incorrecto. Corresponde a los textos literarios. -->
+- [ ] B) Establecer decretos de cumplimiento obligatorio. <!-- feedback: Incorrecto. Pertenece a la esfera de los textos normativos o legislativos. -->
 - [ ] D) Expresar emociones personales y líricas del autor. <!-- feedback: Incorrecto. Corresponde a la poesía lírica. -->
 
 ### Explicacion Pedagogica
@@ -140,10 +140,10 @@ El artículo de divulgación científica busca adaptar explicaciones complejas m
 Lea el texto: "El agua dulce es un recurso cada vez más escaso en el planeta. Aunque el acuífero Guaraní ofrece reservas extraordinarias a nuestro país, el consumo irresponsable y la contaminación industrial amenazan con agotar su calidad en pocas décadas. Por consiguiente, es imperativo establecer políticas estrictas de conservación." ¿Cuál es la idea principal implícita en la conclusión?
 
 ### Opciones
-- [x] A) Es urgente implementar políticas de conservación para proteger el agua dulce de la contaminación y el derroche. <!-- feedback: ¡Correcto! Expresa sintéticamente la tesis y propuesta central del autor. -->
-- [ ] B) El acuífero Guaraní es una fuente inagotable de agua potable que no requiere regulación. <!-- feedback: Incorrecto. Contradice lo expuesto en el texto. -->
-- [ ] C) El agua dulce es abundante en todo el mundo y no sufrirá escasez. <!-- feedback: Incorrecto. Afirmación opuesta a la primera frase del texto. -->
-- [ ] D) La industria no tiene ningún impacto en la contaminación hídrica. <!-- feedback: Incorrecto. El texto señala expresamente a la contaminación industrial como una amenaza. -->
+- [x] D) Es urgente implementar políticas de conservación para proteger el agua dulce de la contaminación y el derroche. <!-- feedback: ¡Correcto! Expresa sintéticamente la tesis y propuesta central del autor. -->
+- [ ] A) El acuífero Guaraní es una fuente inagotable de agua potable que no requiere regulación. <!-- feedback: Incorrecto. Contradice lo expuesto en el texto. -->
+- [ ] B) El agua dulce es abundante en todo el mundo y no sufrirá escasez. <!-- feedback: Incorrecto. Afirmación opuesta a la primera frase del texto. -->
+- [ ] C) La industria no tiene ningún impacto en la contaminación hídrica. <!-- feedback: Incorrecto. El texto señala expresamente a la contaminación industrial como una amenaza. -->
 
 ### Explicacion Pedagogica
 La idea principal integra el diagnóstico (escasez y amenaza de contaminación) con la propuesta indispensable exigida por el autor (políticas de conservación).
@@ -161,9 +161,9 @@ La idea principal integra el diagnóstico (escasez y amenaza de contaminación) 
 ¿Cuál de las siguientes declaraciones representa una opinión y no un hecho verificado?
 
 ### Opciones
-- [x] A) La gesta patriótica de mayo de 1811 fue el acontecimiento más apasionante de toda la historia de América del Sur. <!-- feedback: ¡Correcto! El término "más apasionante" expresa una valoración subjetiva u opinión del emisor. -->
-- [ ] B) El Paraguay declaró su independencia en mayo del año 1811 en Asunción. <!-- feedback: Incorrecto. Es un hecho histórico documentado y comprobable. -->
-- [ ] C) Fulgencio Yegros y Pedro Juan Caballero formaron parte del gobierno provisorio tras la gesta. <!-- feedback: Incorrecto. Es un dato histórico objetivo. -->
+- [x] C) La gesta patriótica de mayo de 1811 fue el acontecimiento más apasionante de toda la historia de América del Sur. <!-- feedback: ¡Correcto! El término "más apasionante" expresa una valoración subjetiva u opinión del emisor. -->
+- [ ] A) El Paraguay declaró su independencia en mayo del año 1811 en Asunción. <!-- feedback: Incorrecto. Es un hecho histórico documentado y comprobable. -->
+- [ ] B) Fulgencio Yegros y Pedro Juan Caballero formaron parte del gobierno provisorio tras la gesta. <!-- feedback: Incorrecto. Es un dato histórico objetivo. -->
 - [ ] D) El doctor José Gaspar Rodríguez de Francia asumió como Dictador Temporal en 1814. <!-- feedback: Incorrecto. Constituye un hecho histórico irrefutable. -->
 
 ### Explicacion Pedagogica
@@ -182,8 +182,8 @@ Los hechos son datos objetivos verificables empírica o históricamente, mientra
 ¿Qué efecto busca lograr un orador al emplear preguntas retóricas durante un discurso argumentativo?
 
 ### Opciones
-- [x] A) Invitar a la reflexión de la audiencia sobre un punto sin esperar una respuesta oral inmediata. <!-- feedback: ¡Correcto! La pregunta retórica no busca una respuesta verbal, sino enfatizar un pensamiento en el oyente. -->
-- [ ] B) Solicitar información técnica a los oyentes que el orador desconoce. <!-- feedback: Incorrecto. El orador no busca obtener datos de la audiencia. -->
+- [x] B) Invitar a la reflexión de la audiencia sobre un punto sin esperar una respuesta oral inmediata. <!-- feedback: ¡Correcto! La pregunta retórica no busca una respuesta verbal, sino enfatizar un pensamiento en el oyente. -->
+- [ ] A) Solicitar información técnica a los oyentes que el orador desconoce. <!-- feedback: Incorrecto. El orador no busca obtener datos de la audiencia. -->
 - [ ] C) Evaluar los conocimientos matemáticos del público. <!-- feedback: Incorrecto. La intención es persuasiva o reflexiva, no evaluativa. -->
 - [ ] D) Interrumpir el flujo del discurso por falta de argumentos. <!-- feedback: Incorrecto. Es un recurso estilístico deliberado, no una falla del orador. -->
 
@@ -203,8 +203,8 @@ La pregunta retórica es una figura persuasiva que incita a la reflexión implí
 ¿En qué apartado de una carta formal se incluye habitualmente la fórmula de saludo institucional y el cargo de la autoridad destinataria?
 
 ### Opciones
-- [x] A) En el encabezado o datos del destinatario <!-- feedback: ¡Correcto! El encabezado sitúa la fecha, la fórmula de tratamiento e identificación formal del destinatario. -->
-- [ ] B) En la despedida o cierre <!-- feedback: Incorrecto. El cierre contiene las frases de cortesía finales antes de la firma. -->
+- [x] B) En el encabezado o datos del destinatario <!-- feedback: ¡Correcto! El encabezado sitúa la fecha, la fórmula de tratamiento e identificación formal del destinatario. -->
+- [ ] A) En la despedida o cierre <!-- feedback: Incorrecto. El cierre contiene las frases de cortesía finales antes de la firma. -->
 - [ ] C) En el cuerpo o exposición de motivos <!-- feedback: Incorrecto. En el cuerpo se desarrollan los argumentos y la solicitud específica. -->
 - [ ] D) En el posdata <!-- feedback: Incorrecto. La posdata añade información secundaria posterior a la firma. -->
 
@@ -224,9 +224,9 @@ Las cartas formales requieren en su encabezamiento la especificación precisa de
 ¿Qué caracteriza al narrador omnisciente en una novela o cuento?
 
 ### Opciones
-- [x] A) Conoce totalmente la historia, los pensamientos y sentimientos más íntimos de todos los personajes. <!-- feedback: ¡Correcto! El narrador omnisciente habla en 3.ª persona y posee una visión absoluta de los acontecimientos y la mente de los personajes. -->
-- [ ] B) Narra únicamente lo que puede observar desde afuera sin conocer el mundo interior de los personajes. <!-- feedback: Incorrecto. Ese es el narrador testigo u observador externo. -->
-- [ ] C) Es el personaje principal que relata sus vivencias en 1.ª persona. <!-- feedback: Incorrecto. Corresponde al narrador protagonista. -->
+- [x] C) Conoce totalmente la historia, los pensamientos y sentimientos más íntimos de todos los personajes. <!-- feedback: ¡Correcto! El narrador omnisciente habla en 3.ª persona y posee una visión absoluta de los acontecimientos y la mente de los personajes. -->
+- [ ] A) Narra únicamente lo que puede observar desde afuera sin conocer el mundo interior de los personajes. <!-- feedback: Incorrecto. Ese es el narrador testigo u observador externo. -->
+- [ ] B) Es el personaje principal que relata sus vivencias en 1.ª persona. <!-- feedback: Incorrecto. Corresponde al narrador protagonista. -->
 - [ ] D) Relata la historia dirigiéndose directamente a un "tú" en 2.ª persona. <!-- feedback: Incorrecto. Corresponde al narrador en segunda persona. -->
 
 ### Explicacion Pedagogica
@@ -245,8 +245,8 @@ El narrador omnisciente (del latín *omnis*, todo, y *scire*, saber) no particip
 ¿A qué propiedad del texto corresponde la correcta relación lógica y organización de las ideas principales y secundarias a lo largo de los párrafos?
 
 ### Opciones
-- [x] A) Coherencia textual <!-- feedback: ¡Correcto! La coherencia es la propiedad que asegura la unidad de sentido global y la estructuración lógica temática del texto. -->
-- [ ] B) Cohesión léxica <!-- feedback: Incorrecto. La cohesión se refiere a los mecanismos lingüísticos formales (conectores, pronombres) que unen las frases. -->
+- [x] B) Coherencia textual <!-- feedback: ¡Correcto! La coherencia es la propiedad que asegura la unidad de sentido global y la estructuración lógica temática del texto. -->
+- [ ] A) Cohesión léxica <!-- feedback: Incorrecto. La cohesión se refiere a los mecanismos lingüísticos formales (conectores, pronombres) que unen las frases. -->
 - [ ] C) Adecuación pragmática <!-- feedback: Incorrecto. La adecuación es la adaptación del texto al registro y situación comunicativa. -->
 - [ ] D) Corrección ortográfica <!-- feedback: Incorrecto. Atiende las normas gramaticales y de tildación. -->
 
@@ -266,8 +266,8 @@ La coherencia textual garantiza que el texto mantenga una unidad temática compr
 Cuando un articulista selecciona únicamente las cifras que favorecen su postura e ignora deliberadamente las evidencias contrarias, ¿qué falacia o sesgo comete?
 
 ### Opciones
-- [x] A) Sesgo de confirmación o falacia de evidencia incompleta <!-- feedback: ¡Correcto! Consiste en priorizar o exhibir solo los datos que respaldan la hipótesis propia, descartando la evidencia refractaria. -->
-- [ ] B) Falacia ad hominem <!-- feedback: Incorrecto. La falacia ad hominem ataca al oponente en lugar de discutir los argumentos. -->
+- [x] B) Sesgo de confirmación o falacia de evidencia incompleta <!-- feedback: ¡Correcto! Consiste en priorizar o exhibir solo los datos que respaldan la hipótesis propia, descartando la evidencia refractaria. -->
+- [ ] A) Falacia ad hominem <!-- feedback: Incorrecto. La falacia ad hominem ataca al oponente en lugar de discutir los argumentos. -->
 - [ ] C) Falacia ad baculum <!-- feedback: Incorrecto. Apela a la amenaza o la fuerza. -->
 - [ ] D) Argumento de autoridad <!-- feedback: Incorrecto. Cita a un especialista respetado para avalar una tesis. -->
 
@@ -308,9 +308,9 @@ La metáfora sustituye o traslada el sentido literal a uno figurado al asociar d
 Si en un informe formal dirigido a las autoridades del MEC se incluye la frase: "La onda es meterle ganas para no aplazarse en el examen", ¿qué falla de adecuación textual se detecta?
 
 ### Opciones
-- [x] A) Empleo de un registro informal o coloquial inadecuado para un texto de carácter formal. <!-- feedback: ¡Correcto! Expresiones como "la onda" o "meterle ganas" rompen con el registro formal exigido. -->
-- [ ] B) Falta de concordancia entre sujeto y predicado. <!-- feedback: Incorrecto. La gramática es correcta, pero el registro comunicativo no se adecúa a la situación. -->
-- [ ] C) Error grave de ortografía en la acentuación de las palabras. <!-- feedback: Incorrecto. Las palabras están bien escritas ortográficamente. -->
+- [x] C) Empleo de un registro informal o coloquial inadecuado para un texto de carácter formal. <!-- feedback: ¡Correcto! Expresiones como "la onda" o "meterle ganas" rompen con el registro formal exigido. -->
+- [ ] A) Falta de concordancia entre sujeto y predicado. <!-- feedback: Incorrecto. La gramática es correcta, pero el registro comunicativo no se adecúa a la situación. -->
+- [ ] B) Error grave de ortografía en la acentuación de las palabras. <!-- feedback: Incorrecto. Las palabras están bien escritas ortográficamente. -->
 - [ ] D) Presencia de tecnicismos excesivamente complejos. <!-- feedback: Incorrecto. Al contrario, se usó jerga coloquial cotidiana. -->
 
 ### Explicacion Pedagogica
@@ -329,8 +329,8 @@ La adecuación exige que el emisor elija el registro lingüístico (formal, cult
 ¿Qué función del lenguaje predomina en el anuncio publicitario: "¡Compre hoy mismo el mejor mate paraguayo y disfrute de un sabor inigualable!"?
 
 ### Opciones
-- [x] A) Función apelativa o conativa <!-- feedback: ¡Correcto! La función apelativa busca influir en el comportamiento del receptor mediante imperativos ("compre", "disfrute"). -->
-- [ ] B) Función metalingüística <!-- feedback: Incorrecto. Se usa cuando se habla del propio código o de la gramática. -->
+- [x] B) Función apelativa o conativa <!-- feedback: ¡Correcto! La función apelativa busca influir en el comportamiento del receptor mediante imperativos ("compre", "disfrute"). -->
+- [ ] A) Función metalingüística <!-- feedback: Incorrecto. Se usa cuando se habla del propio código o de la gramática. -->
 - [ ] C) Función fática <!-- feedback: Incorrecto. Se orienta a abrir, mantener o cerrar el canal de comunicación. -->
 - [ ] D) Función referencial <!-- feedback: Incorrecto. Aunque transmite un dato, la meta primordial es la incitación al consumo. -->
 
@@ -350,8 +350,8 @@ La función apelativa o conativa se centra en el receptor. Utiliza modos imperat
 En un relato breve, un personaje ahorra durante cuarenta años para comprar la casa de sus sueños, y el día que firma las escrituras la vivienda es destruida por un terremoto inesperado. ¿Qué recurso narrativo genera el impacto en la historia?
 
 ### Opciones
-- [x] A) Ironía situacional o giro dramático <!-- feedback: ¡Correcto! Ocurre cuando el resultado final de una acción es diametralmente opuesto a lo esperado razonablemente por el personaje y el lector. -->
-- [ ] B) Exposición técnica <!-- feedback: Incorrecto. No es una explicación conceptual. -->
+- [x] B) Ironía situacional o giro dramático <!-- feedback: ¡Correcto! Ocurre cuando el resultado final de una acción es diametralmente opuesto a lo esperado razonablemente por el personaje y el lector. -->
+- [ ] A) Exposición técnica <!-- feedback: Incorrecto. No es una explicación conceptual. -->
 - [ ] C) Alegoría religiosa <!-- feedback: Incorrecto. No constituye una representación figurada de dogmas espirituales. -->
 - [ ] D) Pleonasmo estilístico <!-- feedback: Incorrecto. El pleonasmo es la repetición superflua de términos. -->
 
@@ -392,8 +392,8 @@ La polifonía textual es el fenómeno mediante el cual en un enunciado conviven 
 Cuando una obra literaria contemporánea paraguaya reescribe o alude explícitamente al mito del "Luisón" o al "Jasy Jatere", ¿qué relación intertextual o folclórica se establece?
 
 ### Opciones
-- [x] A) Recontextualización del mito tradicional en el marco del relato literario moderno. <!-- feedback: ¡Correcto! Integra motivos míticos de la oralidad guaraní adaptándolos a la estética y problemática narrativa actual. -->
-- [ ] B) Plagio involuntario de autores clásicos del siglo XIX. <!-- feedback: Incorrecto. Los mitos orales pertenecen al acervo cultural popular y su recreación es un recurso literario válido. -->
+- [x] B) Recontextualización del mito tradicional en el marco del relato literario moderno. <!-- feedback: ¡Correcto! Integra motivos míticos de la oralidad guaraní adaptándolos a la estética y problemática narrativa actual. -->
+- [ ] A) Plagio involuntario de autores clásicos del siglo XIX. <!-- feedback: Incorrecto. Los mitos orales pertenecen al acervo cultural popular y su recreación es un recurso literario válido. -->
 - [ ] C) Transgresión gramática de la estructura de las frases. <!-- feedback: Incorrecto. No atañe al ámbito de la sintaxis. -->
 - [ ] D) Incompatibilidad temática con la prosa narrativa. <!-- feedback: Incorrecto. La tradición mítica ha alimentado prolíficamente la narrativa nacional. -->
 
@@ -413,10 +413,10 @@ La intertextualidad mítica permite resignificar los relatos orales ancestrales,
 ¿Cuál es la característica lógica que garantiza la validez formal de un argumento deductivo?
 
 ### Opciones
-- [x] A) Si las premisas son verdaderas, la conclusión se deriva necesariamente de ellas de forma irrefutable. <!-- feedback: ¡Correcto! La deducción va de lo general a lo particular; la verdad de las premisas garantiza por estructura la verdad de la conclusión. -->
-- [ ] B) Apoya la conclusión en la observación parcial de casos particulares sin dar certeza absoluta. <!-- feedback: Incorrecto. Esa es la definición del razonamiento inductivo. -->
-- [ ] C) Se fundamenta en la emoción del público sin importar las evidencias. <!-- feedback: Incorrecto. Corresponde a la persuasión sofística o emotiva. -->
-- [ ] D) Utiliza fábulas inventadas para entretener al lector. <!-- feedback: Incorrecto. No corresponde a la lógica de la argumentación formal. -->
+- [x] D) Si las premisas son verdaderas, la conclusión se deriva necesariamente de ellas de forma irrefutable. <!-- feedback: ¡Correcto! La deducción va de lo general a lo particular; la verdad de las premisas garantiza por estructura la verdad de la conclusión. -->
+- [ ] A) Apoya la conclusión en la observación parcial de casos particulares sin dar certeza absoluta. <!-- feedback: Incorrecto. Esa es la definición del razonamiento inductivo. -->
+- [ ] B) Se fundamenta en la emoción del público sin importar las evidencias. <!-- feedback: Incorrecto. Corresponde a la persuasión sofística o emotiva. -->
+- [ ] C) Utiliza fábulas inventadas para entretener al lector. <!-- feedback: Incorrecto. No corresponde a la lógica de la argumentación formal. -->
 
 ### Explicacion Pedagogica
 En la lógica formal, un argumento deductivo es válido cuando es imposible que sus premisas sean verdaderas y su conclusión sea falsa al mismo tiempo.
@@ -434,9 +434,9 @@ En la lógica formal, un argumento deductivo es válido cuando es imposible que 
 Al analizar críticamente un discurso político, ¿qué revela el examen de los presupuestos y sobreentendidos implícitos?
 
 ### Opciones
-- [x] A) La ideología, valores no dichos y supuestos socioculturales que el emisor da por aceptados en el receptor. <!-- feedback: ¡Correcto! Lo implícito en el discurso revela los marcos ideológicos y concepciones no expuestas abiertamente. -->
-- [ ] B) El número exacto de sustantivos propios usados en el texto. <!-- feedback: Incorrecto. Corresponde a un mero conteo léxico superficial. -->
-- [ ] C) El tiempo exacto que tardó el autor en redactar el documento. <!-- feedback: Incorrecto. Es una circunstancia externa ajena a la estructura discursiva. -->
+- [x] C) La ideología, valores no dichos y supuestos socioculturales que el emisor da por aceptados en el receptor. <!-- feedback: ¡Correcto! Lo implícito en el discurso revela los marcos ideológicos y concepciones no expuestas abiertamente. -->
+- [ ] A) El número exacto de sustantivos propios usados en el texto. <!-- feedback: Incorrecto. Corresponde a un mero conteo léxico superficial. -->
+- [ ] B) El tiempo exacto que tardó el autor en redactar el documento. <!-- feedback: Incorrecto. Es una circunstancia externa ajena a la estructura discursiva. -->
 - [ ] D) La tipografía y el tamaño de letra elegidos para la impresión. <!-- feedback: Incorrecto. Corresponde al diseño gráfico, no al análisis crítico del discurso. -->
 
 ### Explicacion Pedagogica

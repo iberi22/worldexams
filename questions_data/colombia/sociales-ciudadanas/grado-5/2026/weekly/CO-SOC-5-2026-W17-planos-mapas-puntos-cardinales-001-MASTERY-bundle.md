@@ -34,11 +34,11 @@ Los puntos cardinales, la rosa de los vientos, los símbolos cartográficos y la
 ¿Cuáles son los cuatro puntos cardinales?
 
 ### Opciones
-- [x] A) Norte, sur, este y oeste.
+- [x] C) Norte, sur, este y oeste.
   <!-- feedback: Los cuatro puntos cardinales son norte, sur, este y oeste. -->
-- [ ] B) Arriba, abajo, derecha e izquierda.
+- [ ] A) Arriba, abajo, derecha e izquierda.
   <!-- feedback: Arriba y abajo indican posición vertical, no son puntos cardinales. -->
-- [ ] C) Frío, calor, lluvia y viento.
+- [ ] B) Frío, calor, lluvia y viento.
   <!-- feedback: Esos son fenómenos del clima, no puntos cardinales. -->
 - [ ] D) Mañana, tarde, noche y mediodía.
   <!-- feedback: Esos son momentos del día, no puntos cardinales. -->
@@ -57,13 +57,13 @@ Recordar los cuatro puntos cardinales como referencia básica de orientación.
 ¿Para qué sirve la rosa de los vientos en un mapa o en un plano?
 
 ### Opciones
-- [x] A) Para indicar la orientación de los puntos cardinales.
+- [x] D) Para indicar la orientación de los puntos cardinales.
   <!-- feedback: La rosa de los vientos muestra dónde quedan el norte, el sur, el este y el oeste. -->
-- [ ] B) Para señalar dónde están los ríos más grandes.
+- [ ] A) Para señalar dónde están los ríos más grandes.
   <!-- feedback: Los ríos se muestran con su propio símbolo, no con la rosa de los vientos. -->
-- [ ] C) Para medir la temperatura de una ciudad.
+- [ ] B) Para medir la temperatura de una ciudad.
   <!-- feedback: La rosa de los vientos no mide temperatura. -->
-- [ ] D) Para contar el número de habitantes.
+- [ ] C) Para contar el número de habitantes.
   <!-- feedback: La rosa de los vientos no contiene datos de población. -->
 
 ### Explicacion Pedagogica
@@ -126,11 +126,11 @@ Aplicar la interpretación de símbolos cartográficos en un plano del barrio.
 Si el parque principal está al occidente del colegio, ¿cómo se ubica el colegio con respecto al parque?
 
 ### Opciones
-- [x] A) El colegio está al oriente del parque.
+- [x] C) El colegio está al oriente del parque.
   <!-- feedback: Si el parque está al occidente, el colegio queda al lado contrario, el oriente. -->
-- [ ] B) El colegio está al occidente del parque.
+- [ ] A) El colegio está al occidente del parque.
   <!-- feedback: El occidente es la posición del parque, no la del colegio. -->
-- [ ] C) El colegio está al sur del parque.
+- [ ] B) El colegio está al sur del parque.
   <!-- feedback: La ubicación descrita corresponde al oriente, no al sur. -->
 - [ ] D) El colegio está en el mismo lugar del parque.
   <!-- feedback: El colegio y el parque están en lugares diferentes. -->
@@ -172,11 +172,11 @@ Analizar la ubicación de un elemento del plano usando la orientación de los pu
 Si la Orinoquía se ubica al este de la cordillera Oriental, ¿hacia qué lado del mapa debe mirar la estudiante?
 
 ### Opciones
-- [x] A) Hacia el oriente del mapa.
+- [x] C) Hacia el oriente del mapa.
   <!-- feedback: El este es el oriente; allí se ubica la región de la Orinoquía. -->
-- [ ] B) Hacia el occidente del mapa.
+- [ ] A) Hacia el occidente del mapa.
   <!-- feedback: El occidente queda al lado contrario de la Orinoquía. -->
-- [ ] C) Hacia el norte del mapa.
+- [ ] B) Hacia el norte del mapa.
   <!-- feedback: La Orinoquía se ubica al este, no al norte. -->
 - [ ] D) Hacia el sur del mapa.
   <!-- feedback: La Orinoquía se ubica al este, no al sur. -->
@@ -195,11 +195,11 @@ Analizar la ubicación de una región colombiana usando los puntos cardinales.
 ¿Por qué es importante saber leer planos y mapas para desenvolverse en la ciudad?
 
 ### Opciones
-- [x] A) Porque permite ubicarse, orientarse y llegar a los lugares sin perderse.
+- [x] C) Porque permite ubicarse, orientarse y llegar a los lugares sin perderse.
   <!-- feedback: Leer planos y mapas facilita la movilidad y la orientación en el territorio. -->
-- [ ] B) Porque sirve únicamente para decorar las paredes de la casa.
+- [ ] A) Porque sirve únicamente para decorar las paredes de la casa.
   <!-- feedback: Los planos y mapas son herramientas útiles de orientación, no solo decoración. -->
-- [ ] C) Porque solo los turistas extranjeros necesitan mapas.
+- [ ] B) Porque solo los turistas extranjeros necesitan mapas.
   <!-- feedback: Cualquier persona se beneficia al saber ubicarse en su ciudad. -->
 - [ ] D) Porque los mapas muestran el clima de todos los días.
   <!-- feedback: Los mapas no muestran el clima diario; muestran la ubicación de lugares. -->

@@ -33,11 +33,11 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Qué enzima es la encargada de catalizar la síntesis de ARNm a partir de una hebra de ADN molde durante la transcripción?
 
 ### Opciones
-- [x] A) ARN polimerasa.
+- [x] C) ARN polimerasa.
   <!-- feedback: Correcto. La ARN polimerasa lee la hebra molde de ADN en dirección 3' a 5' y sintetiza la hebra complementaria de ARN en dirección 5' a 3'. -->
-- [ ] B) ADN polimerasa III.
+- [ ] A) ADN polimerasa III.
   <!-- feedback: Incorrecto. La ADN polimerasa participa en la replicación celular del material genético, no en la transcripción de genes. -->
-- [ ] C) Retrotranscriptasa reversa.
+- [ ] B) Retrotranscriptasa reversa.
   <!-- feedback: Incorrecto. La retrotranscriptasa copia ARN a ADN, proceso típico de retrovirus pero ajeno a la transcripción normal. -->
 - [ ] D) Peptidil transferasa ribosomal.
   <!-- feedback: Incorrecto. La peptidil transferasa es un ARN ribosómico que cataliza el enlace peptídico en la traducción proteica. -->
@@ -56,11 +56,11 @@ La transcripción requiere de regiones promotoras específicas del ADN para recl
 En las células eucariotas, ¿en qué consiste el procesamiento postranscripcional conocido como splicing (empalme) de ARN?
 
 ### Opciones
-- [x] A) En la remoción de intrones no codificantes y el empalme correlativo de exones codificantes para generar un ARNm maduro.
+- [x] C) En la remoción de intrones no codificantes y el empalme correlativo de exones codificantes para generar un ARNm maduro.
   <!-- feedback: Correcto. El splicing elimina los intrones antes de que el ARNm maduro sea exportado del núcleo al citoplasma. -->
-- [ ] B) En la unión covalente de azúcares desoxirribosas en los extremos del transcrito.
+- [ ] A) En la unión covalente de azúcares desoxirribosas en los extremos del transcrito.
   <!-- feedback: Incorrecto. El ARN contiene azúcares ribosa de forma natural; no se agregan desoxirribosas. -->
-- [ ] C) En la degradación de los ribosomas libres para evitar la síntesis defectuosa de proteínas.
+- [ ] B) En la degradación de los ribosomas libres para evitar la síntesis defectuosa de proteínas.
   <!-- feedback: Incorrecto. Los ribosomas no se degradan durante la transcripción; participan posteriormente en la traducción. -->
 - [ ] D) En la sustitución de todos los nucleótidos de uracilo por timina en el citoplasma celular.
   <!-- feedback: Incorrecto. El ARN conserva la base uracilo de manera permanente en su estructura monocatenaria. -->
@@ -125,11 +125,11 @@ La enzima aminoacil-ARNt sintetasa une covalentemente el aminoácido correcto al
 ¿Qué enzima es la encargada de catalizar la síntesis de ARNm a partir de una hebra de ADN molde durante la transcripción?
 
 ### Opciones
-- [x] A) ARN polimerasa.
+- [x] C) ARN polimerasa.
   <!-- feedback: Correcto. La ARN polimerasa lee la hebra molde de ADN en dirección 3' a 5' y sintetiza la hebra complementaria de ARN en dirección 5' a 3'. -->
-- [ ] B) ADN polimerasa III.
+- [ ] A) ADN polimerasa III.
   <!-- feedback: Incorrecto. La ADN polimerasa participa en la replicación celular del material genético, no en la transcripción de genes. -->
-- [ ] C) Retrotranscriptasa reversa.
+- [ ] B) Retrotranscriptasa reversa.
   <!-- feedback: Incorrecto. La retrotranscriptasa copia ARN a ADN, proceso típico de retrovirus pero ajeno a la transcripción normal. -->
 - [ ] D) Peptidil transferasa ribosomal.
   <!-- feedback: Incorrecto. La peptidil transferasa es un ARN ribosómico que cataliza el enlace peptídico en la traducción proteica. -->
@@ -148,11 +148,11 @@ La transcripción requiere de regiones promotoras específicas del ADN para recl
 En las células eucariotas, ¿en qué consiste el procesamiento postranscripcional conocido como splicing (empalme) de ARN?
 
 ### Opciones
-- [x] A) En la remoción de intrones no codificantes y el empalme correlativo de exones codificantes para generar un ARNm maduro.
+- [x] C) En la remoción de intrones no codificantes y el empalme correlativo de exones codificantes para generar un ARNm maduro.
   <!-- feedback: Correcto. El splicing elimina los intrones antes de que el ARNm maduro sea exportado del núcleo al citoplasma. -->
-- [ ] B) En la unión covalente de azúcares desoxirribosas en los extremos del transcrito.
+- [ ] A) En la unión covalente de azúcares desoxirribosas en los extremos del transcrito.
   <!-- feedback: Incorrecto. El ARN contiene azúcares ribosa de forma natural; no se agregan desoxirribosas. -->
-- [ ] C) En la degradación de los ribosomas libres para evitar la síntesis defectuosa de proteínas.
+- [ ] B) En la degradación de los ribosomas libres para evitar la síntesis defectuosa de proteínas.
   <!-- feedback: Incorrecto. Los ribosomas no se degradan durante la transcripción; participan posteriormente en la traducción. -->
 - [ ] D) En la sustitución de todos los nucleótidos de uracilo por timina en el citoplasma celular.
   <!-- feedback: Incorrecto. El ARN conserva la base uracilo de manera permanente en su estructura monocatenaria. -->
@@ -171,9 +171,9 @@ El splicing alternativo permite que un solo gen codifique para múltiples varian
 ¿Qué significa que el código genético sea degenerado o redundante en la biología molecular?
 
 ### Opciones
-- [x] A) Que existen múltiples codones diferentes que codifican para un mismo aminoácido.
+- [x] B) Que existen múltiples codones diferentes que codifican para un mismo aminoácido.
   <!-- feedback: Correcto. Hay 64 codones posibles para especificar solo 20 aminoácidos estándar, por lo que varios codones corresponden al mismo aminoácido. -->
-- [ ] B) Que se altera con facilidad perdiendo nucleótidos esenciales de forma espontánea.
+- [ ] A) Que se altera con facilidad perdiendo nucleótidos esenciales de forma espontánea.
   <!-- feedback: Incorrecto. Degeneración en código genético no es sinónimo de inestabilidad mutacional o daño físico. -->
 - [ ] C) Que un solo codón puede codificar para muchos tipos de aminoácidos diferentes.
   <!-- feedback: Incorrecto. El código no es ambiguo: cada codón especifica únicamente un único aminoácido. -->
@@ -217,11 +217,11 @@ La enzima aminoacil-ARNt sintetasa une covalentemente el aminoácido correcto al
 ¿Qué enzima es la encargada de catalizar la síntesis de ARNm a partir de una hebra de ADN molde durante la transcripción?
 
 ### Opciones
-- [x] A) ARN polimerasa.
+- [x] C) ARN polimerasa.
   <!-- feedback: Correcto. La ARN polimerasa lee la hebra molde de ADN en dirección 3' a 5' y sintetiza la hebra complementaria de ARN en dirección 5' a 3'. -->
-- [ ] B) ADN polimerasa III.
+- [ ] A) ADN polimerasa III.
   <!-- feedback: Incorrecto. La ADN polimerasa participa en la replicación celular del material genético, no en la transcripción de genes. -->
-- [ ] C) Retrotranscriptasa reversa.
+- [ ] B) Retrotranscriptasa reversa.
   <!-- feedback: Incorrecto. La retrotranscriptasa copia ARN a ADN, proceso típico de retrovirus pero ajeno a la transcripción normal. -->
 - [ ] D) Peptidil transferasa ribosomal.
   <!-- feedback: Incorrecto. La peptidil transferasa es un ARN ribosómico que cataliza el enlace peptídico en la traducción proteica. -->
@@ -240,13 +240,13 @@ La transcripción requiere de regiones promotoras específicas del ADN para recl
 En las células eucariotas, ¿en qué consiste el procesamiento postranscripcional conocido como splicing (empalme) de ARN?
 
 ### Opciones
-- [x] A) En la remoción de intrones no codificantes y el empalme correlativo de exones codificantes para generar un ARNm maduro.
+- [x] D) En la remoción de intrones no codificantes y el empalme correlativo de exones codificantes para generar un ARNm maduro.
   <!-- feedback: Correcto. El splicing elimina los intrones antes de que el ARNm maduro sea exportado del núcleo al citoplasma. -->
-- [ ] B) En la unión covalente de azúcares desoxirribosas en los extremos del transcrito.
+- [ ] A) En la unión covalente de azúcares desoxirribosas en los extremos del transcrito.
   <!-- feedback: Incorrecto. El ARN contiene azúcares ribosa de forma natural; no se agregan desoxirribosas. -->
-- [ ] C) En la degradación de los ribosomas libres para evitar la síntesis defectuosa de proteínas.
+- [ ] B) En la degradación de los ribosomas libres para evitar la síntesis defectuosa de proteínas.
   <!-- feedback: Incorrecto. Los ribosomas no se degradan durante la transcripción; participan posteriormente en la traducción. -->
-- [ ] D) En la sustitución de todos los nucleótidos de uracilo por timina en el citoplasma celular.
+- [ ] C) En la sustitución de todos los nucleótidos de uracilo por timina en el citoplasma celular.
   <!-- feedback: Incorrecto. El ARN conserva la base uracilo de manera permanente en su estructura monocatenaria. -->
 
 ### Explicación Pedagógica
@@ -263,11 +263,11 @@ El splicing alternativo permite que un solo gen codifique para múltiples varian
 ¿Qué significa que el código genético sea degenerado o redundante en la biología molecular?
 
 ### Opciones
-- [x] A) Que existen múltiples codones diferentes que codifican para un mismo aminoácido.
+- [x] C) Que existen múltiples codones diferentes que codifican para un mismo aminoácido.
   <!-- feedback: Correcto. Hay 64 codones posibles para especificar solo 20 aminoácidos estándar, por lo que varios codones corresponden al mismo aminoácido. -->
-- [ ] B) Que se altera con facilidad perdiendo nucleótidos esenciales de forma espontánea.
+- [ ] A) Que se altera con facilidad perdiendo nucleótidos esenciales de forma espontánea.
   <!-- feedback: Incorrecto. Degeneración en código genético no es sinónimo de inestabilidad mutacional o daño físico. -->
-- [ ] C) Que un solo codón puede codificar para muchos tipos de aminoácidos diferentes.
+- [ ] B) Que un solo codón puede codificar para muchos tipos de aminoácidos diferentes.
   <!-- feedback: Incorrecto. El código no es ambiguo: cada codón especifica únicamente un único aminoácido. -->
 - [ ] D) Que varía de forma aleatoria entre las diferentes especies de un mismo ecosistema.
   <!-- feedback: Incorrecto. El código genético es prácticamente universal, compartiendo los mismos codones todos los seres vivos. -->
@@ -286,13 +286,13 @@ La degeneración del código genético otorga tolerancia a ciertas mutaciones pu
 ¿Qué papel clave desempeña el ARN de transferencia (ARNt) durante la fase de traducción en el ribosoma?
 
 ### Opciones
-- [x] A) Alinear su anticodón complementario con el codón del ARNm para entregar el aminoácido específico asociado.
+- [x] D) Alinear su anticodón complementario con el codón del ARNm para entregar el aminoácido específico asociado.
   <!-- feedback: Correcto. El ARNt actúa como adaptador acoplando el código de nucleótidos del ARNm con el aminoácido correspondiente. -->
-- [ ] B) Copiar el mensaje genético desde el núcleo celular de manera transitoria.
+- [ ] A) Copiar el mensaje genético desde el núcleo celular de manera transitoria.
   <!-- feedback: Incorrecto. Esta es la función exclusiva del ARN mensajero (ARNm). -->
-- [ ] C) Formar la estructura física y catalítica de las dos subunidades del ribosoma.
+- [ ] B) Formar la estructura física y catalítica de las dos subunidades del ribosoma.
   <!-- feedback: Incorrecto. El ARN ribosómico (ARNr) es el que conforma la estructura del ribosoma celular. -->
-- [ ] D) Cortar los enlaces peptídicos de proteínas anómalas marcadas para destrucción.
+- [ ] C) Cortar los enlaces peptídicos de proteínas anómalas marcadas para destrucción.
   <!-- feedback: Incorrecto. La degradación proteica ocurre en proteasomas y no depende del ARN de transferencia. -->
 
 ### Explicación Pedagógica
@@ -309,9 +309,9 @@ La enzima aminoacil-ARNt sintetasa une covalentemente el aminoácido correcto al
 ¿Qué enzima es la encargada de catalizar la síntesis de ARNm a partir de una hebra de ADN molde durante la transcripción?
 
 ### Opciones
-- [x] A) ARN polimerasa.
+- [x] B) ARN polimerasa.
   <!-- feedback: Correcto. La ARN polimerasa lee la hebra molde de ADN en dirección 3' a 5' y sintetiza la hebra complementaria de ARN en dirección 5' a 3'. -->
-- [ ] B) ADN polimerasa III.
+- [ ] A) ADN polimerasa III.
   <!-- feedback: Incorrecto. La ADN polimerasa participa en la replicación celular del material genético, no en la transcripción de genes. -->
 - [ ] C) Retrotranscriptasa reversa.
   <!-- feedback: Incorrecto. La retrotranscriptasa copia ARN a ADN, proceso típico de retrovirus pero ajeno a la transcripción normal. -->
@@ -332,9 +332,9 @@ La transcripción requiere de regiones promotoras específicas del ADN para recl
 En las células eucariotas, ¿en qué consiste el procesamiento postranscripcional conocido como splicing (empalme) de ARN?
 
 ### Opciones
-- [x] A) En la remoción de intrones no codificantes y el empalme correlativo de exones codificantes para generar un ARNm maduro.
+- [x] B) En la remoción de intrones no codificantes y el empalme correlativo de exones codificantes para generar un ARNm maduro.
   <!-- feedback: Correcto. El splicing elimina los intrones antes de que el ARNm maduro sea exportado del núcleo al citoplasma. -->
-- [ ] B) En la unión covalente de azúcares desoxirribosas en los extremos del transcrito.
+- [ ] A) En la unión covalente de azúcares desoxirribosas en los extremos del transcrito.
   <!-- feedback: Incorrecto. El ARN contiene azúcares ribosa de forma natural; no se agregan desoxirribosas. -->
 - [ ] C) En la degradación de los ribosomas libres para evitar la síntesis defectuosa de proteínas.
   <!-- feedback: Incorrecto. Los ribosomas no se degradan durante la transcripción; participan posteriormente en la traducción. -->
@@ -355,13 +355,13 @@ El splicing alternativo permite que un solo gen codifique para múltiples varian
 ¿Qué significa que el código genético sea degenerado o redundante en la biología molecular?
 
 ### Opciones
-- [x] A) Que existen múltiples codones diferentes que codifican para un mismo aminoácido.
+- [x] D) Que existen múltiples codones diferentes que codifican para un mismo aminoácido.
   <!-- feedback: Correcto. Hay 64 codones posibles para especificar solo 20 aminoácidos estándar, por lo que varios codones corresponden al mismo aminoácido. -->
-- [ ] B) Que se altera con facilidad perdiendo nucleótidos esenciales de forma espontánea.
+- [ ] A) Que se altera con facilidad perdiendo nucleótidos esenciales de forma espontánea.
   <!-- feedback: Incorrecto. Degeneración en código genético no es sinónimo de inestabilidad mutacional o daño físico. -->
-- [ ] C) Que un solo codón puede codificar para muchos tipos de aminoácidos diferentes.
+- [ ] B) Que un solo codón puede codificar para muchos tipos de aminoácidos diferentes.
   <!-- feedback: Incorrecto. El código no es ambiguo: cada codón especifica únicamente un único aminoácido. -->
-- [ ] D) Que varía de forma aleatoria entre las diferentes especies de un mismo ecosistema.
+- [ ] C) Que varía de forma aleatoria entre las diferentes especies de un mismo ecosistema.
   <!-- feedback: Incorrecto. El código genético es prácticamente universal, compartiendo los mismos codones todos los seres vivos. -->
 
 ### Explicación Pedagógica
@@ -378,9 +378,9 @@ La degeneración del código genético otorga tolerancia a ciertas mutaciones pu
 ¿Qué papel clave desempeña el ARN de transferencia (ARNt) durante la fase de traducción en el ribosoma?
 
 ### Opciones
-- [x] A) Alinear su anticodón complementario con el codón del ARNm para entregar el aminoácido específico asociado.
+- [x] B) Alinear su anticodón complementario con el codón del ARNm para entregar el aminoácido específico asociado.
   <!-- feedback: Correcto. El ARNt actúa como adaptador acoplando el código de nucleótidos del ARNm con el aminoácido correspondiente. -->
-- [ ] B) Copiar el mensaje genético desde el núcleo celular de manera transitoria.
+- [ ] A) Copiar el mensaje genético desde el núcleo celular de manera transitoria.
   <!-- feedback: Incorrecto. Esta es la función exclusiva del ARN mensajero (ARNm). -->
 - [ ] C) Formar la estructura física y catalítica de las dos subunidades del ribosoma.
   <!-- feedback: Incorrecto. El ARN ribosómico (ARNr) es el que conforma la estructura del ribosoma celular. -->
@@ -401,11 +401,11 @@ La enzima aminoacil-ARNt sintetasa une covalentemente el aminoácido correcto al
 ¿Qué enzima es la encargada de catalizar la síntesis de ARNm a partir de una hebra de ADN molde durante la transcripción?
 
 ### Opciones
-- [x] A) ARN polimerasa.
+- [x] C) ARN polimerasa.
   <!-- feedback: Correcto. La ARN polimerasa lee la hebra molde de ADN en dirección 3' a 5' y sintetiza la hebra complementaria de ARN en dirección 5' a 3'. -->
-- [ ] B) ADN polimerasa III.
+- [ ] A) ADN polimerasa III.
   <!-- feedback: Incorrecto. La ADN polimerasa participa en la replicación celular del material genético, no en la transcripción de genes. -->
-- [ ] C) Retrotranscriptasa reversa.
+- [ ] B) Retrotranscriptasa reversa.
   <!-- feedback: Incorrecto. La retrotranscriptasa copia ARN a ADN, proceso típico de retrovirus pero ajeno a la transcripción normal. -->
 - [ ] D) Peptidil transferasa ribosomal.
   <!-- feedback: Incorrecto. La peptidil transferasa es un ARN ribosómico que cataliza el enlace peptídico en la traducción proteica. -->
@@ -424,13 +424,13 @@ La transcripción requiere de regiones promotoras específicas del ADN para recl
 En las células eucariotas, ¿en qué consiste el procesamiento postranscripcional conocido como splicing (empalme) de ARN?
 
 ### Opciones
-- [x] A) En la remoción de intrones no codificantes y el empalme correlativo de exones codificantes para generar un ARNm maduro.
+- [x] D) En la remoción de intrones no codificantes y el empalme correlativo de exones codificantes para generar un ARNm maduro.
   <!-- feedback: Correcto. El splicing elimina los intrones antes de que el ARNm maduro sea exportado del núcleo al citoplasma. -->
-- [ ] B) En la unión covalente de azúcares desoxirribosas en los extremos del transcrito.
+- [ ] A) En la unión covalente de azúcares desoxirribosas en los extremos del transcrito.
   <!-- feedback: Incorrecto. El ARN contiene azúcares ribosa de forma natural; no se agregan desoxirribosas. -->
-- [ ] C) En la degradación de los ribosomas libres para evitar la síntesis defectuosa de proteínas.
+- [ ] B) En la degradación de los ribosomas libres para evitar la síntesis defectuosa de proteínas.
   <!-- feedback: Incorrecto. Los ribosomas no se degradan durante la transcripción; participan posteriormente en la traducción. -->
-- [ ] D) En la sustitución de todos los nucleótidos de uracilo por timina en el citoplasma celular.
+- [ ] C) En la sustitución de todos los nucleótidos de uracilo por timina en el citoplasma celular.
   <!-- feedback: Incorrecto. El ARN conserva la base uracilo de manera permanente en su estructura monocatenaria. -->
 
 ### Explicación Pedagógica
@@ -447,13 +447,13 @@ El splicing alternativo permite que un solo gen codifique para múltiples varian
 ¿Qué significa que el código genético sea degenerado o redundante en la biología molecular?
 
 ### Opciones
-- [x] A) Que existen múltiples codones diferentes que codifican para un mismo aminoácido.
+- [x] D) Que existen múltiples codones diferentes que codifican para un mismo aminoácido.
   <!-- feedback: Correcto. Hay 64 codones posibles para especificar solo 20 aminoácidos estándar, por lo que varios codones corresponden al mismo aminoácido. -->
-- [ ] B) Que se altera con facilidad perdiendo nucleótidos esenciales de forma espontánea.
+- [ ] A) Que se altera con facilidad perdiendo nucleótidos esenciales de forma espontánea.
   <!-- feedback: Incorrecto. Degeneración en código genético no es sinónimo de inestabilidad mutacional o daño físico. -->
-- [ ] C) Que un solo codón puede codificar para muchos tipos de aminoácidos diferentes.
+- [ ] B) Que un solo codón puede codificar para muchos tipos de aminoácidos diferentes.
   <!-- feedback: Incorrecto. El código no es ambiguo: cada codón especifica únicamente un único aminoácido. -->
-- [ ] D) Que varía de forma aleatoria entre las diferentes especies de un mismo ecosistema.
+- [ ] C) Que varía de forma aleatoria entre las diferentes especies de un mismo ecosistema.
   <!-- feedback: Incorrecto. El código genético es prácticamente universal, compartiendo los mismos codones todos los seres vivos. -->
 
 ### Explicación Pedagógica
@@ -470,9 +470,9 @@ La degeneración del código genético otorga tolerancia a ciertas mutaciones pu
 ¿Qué papel clave desempeña el ARN de transferencia (ARNt) durante la fase de traducción en el ribosoma?
 
 ### Opciones
-- [x] A) Alinear su anticodón complementario con el codón del ARNm para entregar el aminoácido específico asociado.
+- [x] B) Alinear su anticodón complementario con el codón del ARNm para entregar el aminoácido específico asociado.
   <!-- feedback: Correcto. El ARNt actúa como adaptador acoplando el código de nucleótidos del ARNm con el aminoácido correspondiente. -->
-- [ ] B) Copiar el mensaje genético desde el núcleo celular de manera transitoria.
+- [ ] A) Copiar el mensaje genético desde el núcleo celular de manera transitoria.
   <!-- feedback: Incorrecto. Esta es la función exclusiva del ARN mensajero (ARNm). -->
 - [ ] C) Formar la estructura física y catalítica de las dos subunidades del ribosoma.
   <!-- feedback: Incorrecto. El ARN ribosómico (ARNr) es el que conforma la estructura del ribosoma celular. -->

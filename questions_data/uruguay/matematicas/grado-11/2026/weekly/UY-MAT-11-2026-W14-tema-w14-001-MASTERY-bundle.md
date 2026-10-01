@@ -32,8 +32,8 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Cuál es el recorrido (o imagen) de la función exponencial $f(x) = 2^x$ en el conjunto de los números reales?
 
 ### Opciones
-- [ ] A) Todos los números reales ($\mathbb{R}$) <!-- feedback: Incorrecto. Las potencias de base positiva nunca dan resultados negativos ni cero. -->
-- [x] B) Los reales estrictamente positivos ($(0, +\infty)$) <!-- feedback: ¡Correcto! Para todo $x \in \mathbb{R}$, $2^x > 0$. -->
+- [ ] B) Todos los números reales ($\mathbb{R}$) <!-- feedback: Incorrecto. Las potencias de base positiva nunca dan resultados negativos ni cero. -->
+- [x] A) Los reales estrictamente positivos ($(0, +\infty)$) <!-- feedback: ¡Correcto! Para todo $x \in \mathbb{R}$, $2^x > 0$. -->
 - [ ] C) Los reales no negativos ($[0, +\infty)$) <!-- feedback: Incorrecto. El valor $0$ es una asíntota horizontal, nunca se alcanza. -->
 - [ ] D) El intervalo $[1, +\infty)$ <!-- feedback: Incorrecto. Para $x < 0$, $2^x$ toma valores entre $0$ y $1$. -->
 
@@ -52,9 +52,9 @@ Si $\log_3(x) = 4$, ¿cuál es el valor de $x$?
 
 ### Opciones
 - [ ] A) $12$ <!-- feedback: Incorrecto. Multiplicaste $3 \times 4$ en lugar de elevar $3^4$. -->
-- [x] B) $81$ <!-- feedback: ¡Correcto! Por definición de logaritmo, $\log_b(x) = y \Leftrightarrow b^y = x$. Aquí $x = 3^4 = 81$. -->
-- [ ] C) $64$ <!-- feedback: Incorrecto. $64 = 4^3$, elevaste la base al revés. -->
-- [ ] D) $7$ <!-- feedback: Incorrecto. Sumaste $3 + 4$. -->
+- [x] D) $81$ <!-- feedback: ¡Correcto! Por definición de logaritmo, $\log_b(x) = y \Leftrightarrow b^y = x$. Aquí $x = 3^4 = 81$. -->
+- [ ] B) $64$ <!-- feedback: Incorrecto. $64 = 4^3$, elevaste la base al revés. -->
+- [ ] C) $7$ <!-- feedback: Incorrecto. Sumaste $3 + 4$. -->
 
 ### Explicación Pedagógica
 La definición de logaritmo establece que $\log_b(a) = c \Leftrightarrow b^c = a$. En este caso, la base es 3 y el exponente es 4, por lo que $x = 3^4 = 81$.
@@ -70,8 +70,8 @@ La definición de logaritmo establece que $\log_b(a) = c \Leftrightarrow b^c = a
 ¿A qué expresión equivale $\log_b(M \cdot N)$ para $M, N > 0$ y $b > 0, b \neq 1$?
 
 ### Opciones
-- [ ] A) $\log_b(M) \cdot \log_b(N)$ <!-- feedback: Incorrecto. El logaritmo convierte productos en sumas, no en productos. -->
-- [x] B) $\log_b(M) + \log_b(N)$ <!-- feedback: ¡Correcto! El logaritmo de un producto es la suma de los logaritmos de los factores. -->
+- [ ] B) $\log_b(M) \cdot \log_b(N)$ <!-- feedback: Incorrecto. El logaritmo convierte productos en sumas, no en productos. -->
+- [x] A) $\log_b(M) + \log_b(N)$ <!-- feedback: ¡Correcto! El logaritmo de un producto es la suma de los logaritmos de los factores. -->
 - [ ] C) $\log_b(M + N)$ <!-- feedback: Incorrecto. La suma dentro del argumento no equivale a la suma de logaritmos. -->
 - [ ] D) $\frac{\log_b(M)}{\log_b(N)}$ <!-- feedback: Incorrecto. Ese cociente proviene del logaritmo de una división o de un cambio de base. -->
 
@@ -89,8 +89,8 @@ Una propiedad fundamental de los logaritmos es que transforman la multiplicació
 ¿Cuál es el dominio de existencia de la función $f(x) = \ln(x - 2)$?
 
 ### Opciones
-- [ ] A) $\mathbb{R}$ <!-- feedback: Incorrecto. El logaritmo solo admite argumentos estrictamente positivos. -->
-- [x] B) $(2, +\infty)$ <!-- feedback: ¡Correcto! Se requiere que $x - 2 > 0 \Rightarrow x > 2$. -->
+- [ ] B) $\mathbb{R}$ <!-- feedback: Incorrecto. El logaritmo solo admite argumentos estrictamente positivos. -->
+- [x] A) $(2, +\infty)$ <!-- feedback: ¡Correcto! Se requiere que $x - 2 > 0 \Rightarrow x > 2$. -->
 - [ ] C) $[2, +\infty)$ <!-- feedback: Incorrecto. El valor $x = 2$ hace $x - 2 = 0$, y $\ln(0)$ no está definido. -->
 - [ ] D) $(-\infty, 2)$ <!-- feedback: Incorrecto. Para $x < 2$, $x - 2 < 0$, lo que da argumentos negativos no válidos. -->
 
@@ -109,9 +109,9 @@ La población de bacterias sigue la fórmula $N(t) = 500 \cdot 2^t$, donde $t$ e
 
 ### Opciones
 - [ ] A) 3000 <!-- feedback: Incorrecto. Calculaste $500 \times 2 \times 3$. -->
-- [x] B) 4000 <!-- feedback: ¡Correcto! $N(3) = 500 \cdot 2^3 = 500 \cdot 8 = 4000$. -->
-- [ ] C) 1500 <!-- feedback: Incorrecto. Calculaste $500 \times 3$. -->
-- [ ] D) 8000 <!-- feedback: Incorrecto. Evaluaste $t = 4$ en lugar de $t = 3$. -->
+- [x] D) 4000 <!-- feedback: ¡Correcto! $N(3) = 500 \cdot 2^3 = 500 \cdot 8 = 4000$. -->
+- [ ] B) 1500 <!-- feedback: Incorrecto. Calculaste $500 \times 3$. -->
+- [ ] C) 8000 <!-- feedback: Incorrecto. Evaluaste $t = 4$ en lugar de $t = 3$. -->
 
 ### Explicación Pedagógica
 Sustituimos $t = 3$ en la función de crecimiento exponencial: $N(3) = 500 \cdot 2^3 = 500 \cdot 8 = 4000$ bacterias.
@@ -127,8 +127,8 @@ Sustituimos $t = 3$ en la función de crecimiento exponencial: $N(3) = 500 \cdot
 ¿Cuál es la solución de la ecuación $5^{2x - 1} = 125$?
 
 ### Opciones
-- [ ] A) $x = 1$ <!-- feedback: Incorrecto. $5^{2(1)-1} = 5^1 = 5 \neq 125$. -->
-- [x] B) $x = 2$ <!-- feedback: ¡Correcto! Como $125 = 5^3$, tenemos $2x - 1 = 3 \Rightarrow 2x = 4 \Rightarrow x = 2$. -->
+- [ ] B) $x = 1$ <!-- feedback: Incorrecto. $5^{2(1)-1} = 5^1 = 5 \neq 125$. -->
+- [x] A) $x = 2$ <!-- feedback: ¡Correcto! Como $125 = 5^3$, tenemos $2x - 1 = 3 \Rightarrow 2x = 4 \Rightarrow x = 2$. -->
 - [ ] C) $x = 3$ <!-- feedback: Incorrecto. Igualaste el exponente $2x-1$ a $125$ o no despejaste $x$. -->
 - [ ] D) $x = \frac{3}{2}$ <!-- feedback: Incorrecto. Olvidaste sumar 1 antes de dividir por 2. -->
 
@@ -147,8 +147,8 @@ Como las bases son iguales: $2x - 1 = 3 \Rightarrow 2x = 4 \Rightarrow x = 2$.
 Si $\log_2(x) = 5$, ¿cuál es el valor de $\log_2(x^3)$?
 
 ### Opciones
-- [ ] A) 8 <!-- feedback: Incorrecto. Sumaste $5 + 3$. -->
-- [x] B) 15 <!-- feedback: ¡Correcto! Por la propiedad de la potencia $\log_b(x^k) = k \cdot \log_b(x)$, se tiene $3 \cdot 5 = 15$. -->
+- [ ] B) 8 <!-- feedback: Incorrecto. Sumaste $5 + 3$. -->
+- [x] A) 15 <!-- feedback: ¡Correcto! Por la propiedad de la potencia $\log_b(x^k) = k \cdot \log_b(x)$, se tiene $3 \cdot 5 = 15$. -->
 - [ ] C) 125 <!-- feedback: Incorrecto. Elevarás $5^3$, pero la propiedad multiplica la constante por el logaritmo. -->
 - [ ] D) 25 <!-- feedback: Incorrecto. Multiplicaste $5 \times 5$. -->
 
@@ -167,8 +167,8 @@ Por lo tanto, $\log_2(x^3) = 3 \cdot \log_2(x) = 3 \cdot 5 = 15$.
 ¿A qué expresión equivale el logaritmo $\log_3(7)$ expresado en términos de logaritmos naturales ($\ln$)?
 
 ### Opciones
-- [ ] A) $\ln(7) \cdot \ln(3)$ <!-- feedback: Incorrecto. La fórmula del cambio de base implica un cociente, no un producto. -->
-- [x] B) $\frac{\ln(7)}{\ln(3)}$ <!-- feedback: ¡Correcto! La fórmula de cambio de base establece que $\log_b(a) = \frac{\log_c(a)}{\log_c(b)} = \frac{\ln(7)}{\ln(3)}$. -->
+- [ ] B) $\ln(7) \cdot \ln(3)$ <!-- feedback: Incorrecto. La fórmula del cambio de base implica un cociente, no un producto. -->
+- [x] A) $\frac{\ln(7)}{\ln(3)}$ <!-- feedback: ¡Correcto! La fórmula de cambio de base establece que $\log_b(a) = \frac{\log_c(a)}{\log_c(b)} = \frac{\ln(7)}{\ln(3)}$. -->
 - [ ] C) $\frac{\ln(3)}{\ln(7)}$ <!-- feedback: Incorrecto. Invertiste el argumento y la base en la fracción. -->
 - [ ] D) $\ln(7 - 3)$ <!-- feedback: Incorrecto. El cambio de base no resta los argumentos. -->
 
@@ -187,9 +187,9 @@ La fórmula general para cambio de base es $\log_b(a) = \frac{\log_c(a)}{\log_c(
 
 ### Opciones
 - [ ] A) $f'(x) = e^{4x}$ <!-- feedback: Incorrecto. Olvidaste multiplicar por la derivada del exponente (regla de la cadena). -->
-- [x] B) $f'(x) = 4e^{4x}$ <!-- feedback: ¡Correcto! Por la regla de la cadena $\frac{d}{dx}[e^{u(x)}] = u'(x)e^{u(x)}$. Como $u'(x) = 4$, resulta $4e^{4x}$. -->
-- [ ] C) $f'(x) = 4x e^{4x-1}$ <!-- feedback: Incorrecto. Aplicaste erróneamente la regla de la potencia a la base exponencial. -->
-- [ ] D) $f'(x) = \frac{1}{4}e^{4x}$ <!-- feedback: Incorrecto. Dividiste por 4 en lugar de multiplicar. -->
+- [x] D) $f'(x) = 4e^{4x}$ <!-- feedback: ¡Correcto! Por la regla de la cadena $\frac{d}{dx}[e^{u(x)}] = u'(x)e^{u(x)}$. Como $u'(x) = 4$, resulta $4e^{4x}$. -->
+- [ ] B) $f'(x) = 4x e^{4x-1}$ <!-- feedback: Incorrecto. Aplicaste erróneamente la regla de la potencia a la base exponencial. -->
+- [ ] C) $f'(x) = \frac{1}{4}e^{4x}$ <!-- feedback: Incorrecto. Dividiste por 4 en lugar de multiplicar. -->
 
 ### Explicación Pedagógica
 Por la regla de la cadena para la exponencial natural, $\frac{d}{dx}[e^{g(x)}] = g'(x) e^{g(x)}$.
@@ -207,9 +207,9 @@ Para $g(x) = 4x$, se tiene $g'(x) = 4$, dando como resultado $f'(x) = 4e^{4x}$.
 
 ### Opciones
 - [ ] A) $g'(x) = \frac{1}{x^2 + 3}$ <!-- feedback: Incorrecto. Olvidaste multiplicar por la derivada interna del argumento $2x$. -->
-- [x] B) $g'(x) = \frac{2x}{x^2 + 3}$ <!-- feedback: ¡Correcto! Por regla de la cadena $\frac{d}{dx}[\ln(u)] = \frac{u'}{u} = \frac{2x}{x^2 + 3}$. -->
-- [ ] C) $g'(x) = \frac{2x}{x}$ <!-- feedback: Incorrecto. Colocaste solo $x$ en el denominador. -->
-- [ ] D) $g'(x) = 2x \ln(x^2 + 3)$ <!-- feedback: Incorrecto. La derivada de $\ln(u)$ involucra dividir por $u$, no multiplicarlo. -->
+- [x] D) $g'(x) = \frac{2x}{x^2 + 3}$ <!-- feedback: ¡Correcto! Por regla de la cadena $\frac{d}{dx}[\ln(u)] = \frac{u'}{u} = \frac{2x}{x^2 + 3}$. -->
+- [ ] B) $g'(x) = \frac{2x}{x}$ <!-- feedback: Incorrecto. Colocaste solo $x$ en el denominador. -->
+- [ ] C) $g'(x) = 2x \ln(x^2 + 3)$ <!-- feedback: Incorrecto. La derivada de $\ln(u)$ involucra dividir por $u$, no multiplicarlo. -->
 
 ### Explicación Pedagógica
 La derivada del logaritmo natural compuesto viene dada por $\frac{d}{dx}[\ln(u(x))] = \frac{u'(x)}{u(x)}$.
@@ -227,8 +227,8 @@ Aquí $u(x) = x^2 + 3$, cuya derivada es $u'(x) = 2x$. Así, $g'(x) = \frac{2x}{
 
 ### Opciones
 - [ ] A) $x = -2$ y $x = 4$ <!-- feedback: Incorrecto. $x = -2$ no pertenece al dominio porque $\log_2(-2)$ no existe. -->
-- [x] B) $x = 4$ <!-- feedback: ¡Correcto! Agrupando: $\log_2(x(x-2)) = 3 \Rightarrow x^2 - 2x = 2^3 = 8 \Rightarrow x^2 - 2x - 8 = 0$. Raíces: $x = 4$ y $x = -2$. Se descarta $x = -2$. -->
-- [ ] C) $x = 3$ <!-- feedback: Incorrecto. $3(3-2) = 3 \neq 2^3 = 8$. -->
+- [x] C) $x = 4$ <!-- feedback: ¡Correcto! Agrupando: $\log_2(x(x-2)) = 3 \Rightarrow x^2 - 2x = 2^3 = 8 \Rightarrow x^2 - 2x - 8 = 0$. Raíces: $x = 4$ y $x = -2$. Se descarta $x = -2$. -->
+- [ ] B) $x = 3$ <!-- feedback: Incorrecto. $3(3-2) = 3 \neq 2^3 = 8$. -->
 - [ ] D) $x = 8$ <!-- feedback: Incorrecto. $8(8-2) = 48 \neq 8$. -->
 
 ### Explicación Pedagógica
@@ -249,8 +249,8 @@ Aquí $u(x) = x^2 + 3$, cuya derivada es $u'(x) = 2x$. Así, $g'(x) = \frac{2x}{
 
 ### Opciones
 - [ ] A) $f^{-1}(x) = \log_3(x - 2) + 1$ <!-- feedback: Incorrecto. Signos de los desplazamientos erróneos al despejar $x$. -->
-- [x] B) $f^{-1}(x) = \log_3(x + 2) - 1$ <!-- feedback: ¡Correcto! $y = 3^{x+1} - 2 \Rightarrow y + 2 = 3^{x+1} \Rightarrow \log_3(y+2) = x + 1 \Rightarrow x = \log_3(y+2) - 1$. -->
-- [ ] C) $f^{-1}(x) = \log_3(x - 1) + 2$ <!-- feedback: Incorrecto. Confundiste las constantes de suma y resta. -->
+- [x] C) $f^{-1}(x) = \log_3(x + 2) - 1$ <!-- feedback: ¡Correcto! $y = 3^{x+1} - 2 \Rightarrow y + 2 = 3^{x+1} \Rightarrow \log_3(y+2) = x + 1 \Rightarrow x = \log_3(y+2) - 1$. -->
+- [ ] B) $f^{-1}(x) = \log_3(x - 1) + 2$ <!-- feedback: Incorrecto. Confundiste las constantes de suma y resta. -->
 - [ ] D) $f^{-1}(x) = 3^{x - 2} + 1$ <!-- feedback: Incorrecto. La inversa de una exponencial es una logarítmica, no otra exponencial. -->
 
 ### Explicación Pedagógica
@@ -290,9 +290,9 @@ Para $k = 2$, el límite es exactamente $e^2$.
 El capital acumulado en un fondo de inversión crece según $A(t) = A_0 e^{0.05 t}$ ($t$ en años). ¿En cuánto tiempo exacto se triplicará la inversión inicial ($A(t) = 3 A_0$)?
 
 ### Opciones
-- [x] A) $t = 20 \ln(3)$ años <!-- feedback: ¡Correcto! $3 A_0 = A_0 e^{0.05 t} \Rightarrow 3 = e^{0.05 t} \Rightarrow \ln(3) = 0.05 t = \frac{t}{20} \Rightarrow t = 20 \ln(3)$. -->
-- [ ] B) $t = \frac{\ln(3)}{0.5}$ años <!-- feedback: Incorrecto. $0.05 = \frac{1}{20}$, no $0.5$. -->
-- [ ] C) $t = 3 \ln(20)$ años <!-- feedback: Incorrecto. Invertiste los valores de los argumentos en el producto. -->
+- [x] C) $t = 20 \ln(3)$ años <!-- feedback: ¡Correcto! $3 A_0 = A_0 e^{0.05 t} \Rightarrow 3 = e^{0.05 t} \Rightarrow \ln(3) = 0.05 t = \frac{t}{20} \Rightarrow t = 20 \ln(3)$. -->
+- [ ] A) $t = \frac{\ln(3)}{0.5}$ años <!-- feedback: Incorrecto. $0.05 = \frac{1}{20}$, no $0.5$. -->
+- [ ] B) $t = 3 \ln(20)$ años <!-- feedback: Incorrecto. Invertiste los valores de los argumentos en el producto. -->
 - [ ] D) $t = 60$ años <!-- feedback: Incorrecto. Olvidaste aplicar el logaritmo natural para despejar el exponente. -->
 
 ### Explicación Pedagógica
@@ -312,8 +312,8 @@ Dada la función logística $f(x) = \frac{1}{1 + e^{-x}}$, ¿en qué punto $x$ a
 
 ### Opciones
 - [ ] A) $x = 1$ <!-- feedback: Incorrecto. En $x=1$ la función no está en el centro de simetría de la S. -->
-- [x] B) $x = 0$ <!-- feedback: ¡Correcto! $f''(x) = 0$ cuando $e^{-x} = 1 \Rightarrow x = 0$. Es el punto de inflexión donde $f(0) = 0.5$. -->
-- [ ] C) $x = -1$ <!-- feedback: Incorrecto. En $x=-1$ la pendiente es menor que en $0$. -->
+- [x] C) $x = 0$ <!-- feedback: ¡Correcto! $f''(x) = 0$ cuando $e^{-x} = 1 \Rightarrow x = 0$. Es el punto de inflexión donde $f(0) = 0.5$. -->
+- [ ] B) $x = -1$ <!-- feedback: Incorrecto. En $x=-1$ la pendiente es menor que en $0$. -->
 - [ ] D) No tiene punto de máxima velocidad <!-- feedback: Incorrecto. La función sigmoidea posee un único punto de inflexión claro. -->
 
 ### Explicación Pedagógica
@@ -332,9 +332,9 @@ La masa de una muestra radiactiva decrece según $M(t) = M_0 \cdot 2^{-t / 10}$,
 
 ### Opciones
 - [ ] A) 5 años <!-- feedback: Incorrecto. Para $t = 5$, $M(5) = M_0 \cdot 2^{-0.5} = \frac{M_0}{\sqrt{2}}$. -->
-- [x] B) 10 años <!-- feedback: ¡Correcto! Buscamos $t$ tal que $M(t) = \frac{M_0}{2} = M_0 \cdot 2^{-1}$. Igualando exponente: $-t/10 = -1 \Rightarrow t = 10$. -->
-- [ ] C) 20 años <!-- feedback: Incorrecto. En $t = 20$ la masa disminuye a un cuarto ($\frac{M_0}{4}$). -->
-- [ ] D) 2 años <!-- feedback: Incorrecto. Confundiste la base de desintegración con el tiempo. -->
+- [x] D) 10 años <!-- feedback: ¡Correcto! Buscamos $t$ tal que $M(t) = \frac{M_0}{2} = M_0 \cdot 2^{-1}$. Igualando exponente: $-t/10 = -1 \Rightarrow t = 10$. -->
+- [ ] B) 20 años <!-- feedback: Incorrecto. En $t = 20$ la masa disminuye a un cuarto ($\frac{M_0}{4}$). -->
+- [ ] C) 2 años <!-- feedback: Incorrecto. Confundiste la base de desintegración con el tiempo. -->
 
 ### Explicación Pedagógica
 Buscamos el tiempo $t$ tal que $M(t) = \frac{1}{2} M_0$:
@@ -351,9 +351,9 @@ $M_0 \cdot 2^{-t/10} = M_0 \cdot 2^{-1} \Rightarrow -\frac{t}{10} = -1 \Rightarr
 Para demostrar que $e^x \ge 1 + x$ para todo $x \in \mathbb{R}$, se define $h(x) = e^x - x - 1$. ¿Cuál es el valor mínimo de la función $h(x)$?
 
 ### Opciones
-- [x] A) $0$, alcanzado en $x = 0$ <!-- feedback: ¡Correcto! $h'(x) = e^x - 1 = 0 \Rightarrow x = 0$. Como $h''(0) = e^0 = 1 > 0$, $x=0$ es un mínimo absoluto con $h(0) = e^0 - 0 - 1 = 0$. -->
-- [ ] B) $1$, alcanzado en $x = 1$ <!-- feedback: Incorrecto. $h(1) = e - 2 \approx 0.718 \neq 1$. -->
-- [ ] C) $-1$, alcanzado en $x = 0$ <!-- feedback: Incorrecto. $h(0) = 1 - 0 - 1 = 0$, no -1. -->
+- [x] C) $0$, alcanzado en $x = 0$ <!-- feedback: ¡Correcto! $h'(x) = e^x - 1 = 0 \Rightarrow x = 0$. Como $h''(0) = e^0 = 1 > 0$, $x=0$ es un mínimo absoluto con $h(0) = e^0 - 0 - 1 = 0$. -->
+- [ ] A) $1$, alcanzado en $x = 1$ <!-- feedback: Incorrecto. $h(1) = e - 2 \approx 0.718 \neq 1$. -->
+- [ ] B) $-1$, alcanzado en $x = 0$ <!-- feedback: Incorrecto. $h(0) = 1 - 0 - 1 = 0$, no -1. -->
 - [ ] D) La función no está acotada inferiormente <!-- feedback: Incorrecto. La función $h(x) \to +\infty$ tanto cuando $x \to +\infty$ como cuando $x \to -\infty$. -->
 
 ### Explicación Pedagógica
@@ -373,8 +373,8 @@ Para demostrar que $e^x \ge 1 + x$ para todo $x \in \mathbb{R}$, se define $h(x)
 ¿Cuál es la solución del sistema $\begin{cases} 2^x \cdot 4^y = 32 \\ \log_3(x) + \log_3(y) = 1 \end{cases}$ para $x, y > 0$?
 
 ### Opciones
-- [ ] A) $(x = 1, y = 3)$ <!-- feedback: Incorrecto. Para $(1, 3)$: $2^1 \cdot 4^3 = 2 \cdot 64 = 128 \neq 32$. -->
-- [x] B) $(x = 3, y = 1)$ <!-- feedback: ¡Correcto! Ecuación 1: $2^x \cdot 2^{2y} = 2^{x+2y} = 2^5 \Rightarrow x + 2y = 5$. Ecuación 2: $\log_3(xy) = 1 \Rightarrow xy = 3$. De $x + 2y = 5 \Rightarrow x = 5 - 2y$. Sustituyendo: $(5-2y)y = 3 \Rightarrow 2y^2 - 5y + 3 = 0 \Rightarrow y = 1$ o $y = 1.5$. Para $y=1 \Rightarrow x=3$. -->
+- [ ] B) $(x = 1, y = 3)$ <!-- feedback: Incorrecto. Para $(1, 3)$: $2^1 \cdot 4^3 = 2 \cdot 64 = 128 \neq 32$. -->
+- [x] A) $(x = 3, y = 1)$ <!-- feedback: ¡Correcto! Ecuación 1: $2^x \cdot 2^{2y} = 2^{x+2y} = 2^5 \Rightarrow x + 2y = 5$. Ecuación 2: $\log_3(xy) = 1 \Rightarrow xy = 3$. De $x + 2y = 5 \Rightarrow x = 5 - 2y$. Sustituyendo: $(5-2y)y = 3 \Rightarrow 2y^2 - 5y + 3 = 0 \Rightarrow y = 1$ o $y = 1.5$. Para $y=1 \Rightarrow x=3$. -->
 - [ ] C) $(x = 2, y = 2)$ <!-- feedback: Incorrecto. $2 \times 2 = 4 \neq 3$ en la segunda ecuación. -->
 - [ ] D) $(x = 5, y = 0)$ <!-- feedback: Incorrecto. $y=0$ no pertenece al dominio del logaritmo. -->
 

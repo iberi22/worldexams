@@ -31,8 +31,8 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) $f(x) = x^2$ <!-- feedback: Esta es una función potencia (cuadrática). -->
-- [x] B) $f(x) = a^x$ <!-- feedback: Correcto, donde la variable independiente se encuentra en el exponente. -->
-- [ ] C) $f(x) = \log_a(x)$ <!-- feedback: Esta es una función logarítmica. -->
+- [x] C) $f(x) = a^x$ <!-- feedback: Correcto, donde la variable independiente se encuentra en el exponente. -->
+- [ ] B) $f(x) = \log_a(x)$ <!-- feedback: Esta es una función logarítmica. -->
 - [ ] D) $f(x) = mx + n$ <!-- feedback: Esta es una función afín. -->
 
 ### Explicacion Pedagogica
@@ -49,9 +49,9 @@ Una función exponencial es aquella en la que la variable independiente $x$ apar
 ¿En qué punto intersecta al eje Y la función $f(x) = a^x$ (con $a > 0$)?
 
 ### Opciones
-- [ ] A) $(a, 0)$ <!-- feedback: Este no es el intercepto estándar. -->
-- [ ] B) $(0, a)$ <!-- feedback: El intercepto no depende directamente del valor de la base sino de la potencia cero. -->
-- [x] C) $(0, 1)$ <!-- feedback: Correcto, ya que cualquier número (distinto de cero) elevado a 0 es 1. -->
+- [ ] B) $(a, 0)$ <!-- feedback: Este no es el intercepto estándar. -->
+- [ ] C) $(0, a)$ <!-- feedback: El intercepto no depende directamente del valor de la base sino de la potencia cero. -->
+- [x] A) $(0, 1)$ <!-- feedback: Correcto, ya que cualquier número (distinto de cero) elevado a 0 es 1. -->
 - [ ] D) $(1, 0)$ <!-- feedback: Este es un punto por el que pasan las funciones logarítmicas. -->
 
 ### Explicacion Pedagogica
@@ -106,9 +106,9 @@ Si la base $a$ está entre 0 y 1 (por ejemplo $1/2$), cada vez que $x$ aumenta, 
 Si $f(x) = 2^x$, ¿cuál es el valor de $f(-3)$?
 
 ### Opciones
-- [ ] A) -8 <!-- feedback: Las potencias de base positiva nunca resultan en valores negativos. -->
-- [ ] B) -6 <!-- feedback: Multiplicaste base por exponente y mantuviste el signo. -->
-- [x] C) 1/8 <!-- feedback: $2^{-3} = 1 / 2^3 = 1/8$. -->
+- [ ] B) -8 <!-- feedback: Las potencias de base positiva nunca resultan en valores negativos. -->
+- [ ] C) -6 <!-- feedback: Multiplicaste base por exponente y mantuviste el signo. -->
+- [x] A) 1/8 <!-- feedback: $2^{-3} = 1 / 2^3 = 1/8$. -->
 - [ ] D) 1/6 <!-- feedback: Error al calcular la potencia en el denominador. -->
 
 ### Explicacion Pedagogica
@@ -125,8 +125,8 @@ Un exponente negativo indica el recíproco de la potencia con exponente positivo
 ¿Cuál es la asíntota horizontal de la función $f(x) = 5^x$?
 
 ### Opciones
-- [ ] A) El eje Y ($x = 0$). <!-- feedback: Las funciones exponenciales básicas tienen asíntotas horizontales, no verticales. -->
-- [x] B) El eje X ($y = 0$). <!-- feedback: Correcto, la función se acerca a 0 cuando $x$ tiende a $-\infty$, pero nunca lo toca. -->
+- [ ] B) El eje Y ($x = 0$). <!-- feedback: Las funciones exponenciales básicas tienen asíntotas horizontales, no verticales. -->
+- [x] A) El eje X ($y = 0$). <!-- feedback: Correcto, la función se acerca a 0 cuando $x$ tiende a $-\infty$, pero nunca lo toca. -->
 - [ ] C) La recta $y = 5$. <!-- feedback: Este es solo un valor que la función alcanza cuando $x=1$. -->
 - [ ] D) No tiene asíntotas. <!-- feedback: Las funciones exponenciales siempre tienen una dirección en la que se estabilizan cerca de una recta. -->
 
@@ -145,8 +145,8 @@ Si inicialmente hay 100 bacterias, ¿cuál es la función $N(t)$ que representa 
 
 ### Opciones
 - [ ] A) $N(t) = 100 + 2^t$ <!-- feedback: El crecimiento poblacional es multiplicativo, no aditivo. -->
-- [x] B) $N(t) = 100 \cdot 2^t$ <!-- feedback: Correcto. 100 es el valor inicial y 2 es el factor de crecimiento (duplicación). -->
-- [ ] C) $N(t) = 2 \cdot 100^t$ <!-- feedback: Invertiste la base y el coeficiente inicial. -->
+- [x] C) $N(t) = 100 \cdot 2^t$ <!-- feedback: Correcto. 100 es el valor inicial y 2 es el factor de crecimiento (duplicación). -->
+- [ ] B) $N(t) = 2 \cdot 100^t$ <!-- feedback: Invertiste la base y el coeficiente inicial. -->
 - [ ] D) $N(t) = (100 \cdot 2)^t$ <!-- feedback: El exponente solo debe afectar al factor de crecimiento. -->
 
 ### Explicacion Pedagogica
@@ -164,8 +164,8 @@ Si el computador costó \$800.000, ¿cuál es su valor después de $t$ años?
 
 ### Opciones
 - [ ] A) $V(t) = 800.000 \cdot (0,20)^t$ <!-- feedback: Esto significaría que queda solo el 20% del valor cada año. -->
-- [x] B) $V(t) = 800.000 \cdot (0,80)^t$ <!-- feedback: Si pierde 20%, conserva el 80% ($1 - 0,2 = 0,8$). -->
-- [ ] C) $V(t) = 800.000 - (0,20)^t$ <!-- feedback: La depreciación porcentual es una relación multiplicativa. -->
+- [x] C) $V(t) = 800.000 \cdot (0,80)^t$ <!-- feedback: Si pierde 20%, conserva el 80% ($1 - 0,2 = 0,8$). -->
+- [ ] B) $V(t) = 800.000 - (0,20)^t$ <!-- feedback: La depreciación porcentual es una relación multiplicativa. -->
 - [ ] D) $V(t) = 800.000 \cdot (1,20)^t$ <!-- feedback: Esto representaría un aumento de valor del 20% anual. -->
 
 ### Explicacion Pedagogica
@@ -220,9 +220,9 @@ La función básica $3^x$ tiene recorrido $(0, \infty)$. Al sumarle 4, toda la g
 ¿Cuál será el monto total después de 2 años?
 
 ### Opciones
-- [ ] A) \$1.100.000 <!-- feedback: Solo calculaste el interés del primer año. -->
-- [ ] B) \$1.200.000 <!-- feedback: Esto sería interés simple ($100.000 \cdot 2$). -->
-- [x] C) \$1.210.000 <!-- feedback: $1.000.000 \cdot (1,10)^2 = 1.000.000 \cdot 1,21 = 1.210.000$. -->
+- [ ] B) \$1.100.000 <!-- feedback: Solo calculaste el interés del primer año. -->
+- [ ] C) \$1.200.000 <!-- feedback: Esto sería interés simple ($100.000 \cdot 2$). -->
+- [x] A) \$1.210.000 <!-- feedback: $1.000.000 \cdot (1,10)^2 = 1.000.000 \cdot 1,21 = 1.210.000$. -->
 - [ ] D) \$1.331.000 <!-- feedback: Este es el valor para 3 años. -->
 
 ### Explicacion Pedagogica
@@ -278,9 +278,9 @@ Comparamos: para $x=4$, $2^4=16$ y $4^2=16$. Para $x=5$, $2^5=32$ y $5^2=25$. A 
 
 ### Opciones
 - [ ] A) Mediante una traslación horizontal. <!-- feedback: Las traslaciones cambian la posición, no el sentido de crecimiento. -->
-- [x] B) Mediante una reflexión respecto al eje Y. <!-- feedback: $(1/2)^x = 2^{-x}$, lo cual es una reflexión en el eje vertical. -->
-- [ ] C) Mediante una reflexión respecto al eje X. <!-- feedback: Eso daría $-2^x$. -->
-- [ ] D) No tienen ninguna relación geométrica simple. <!-- feedback: Sí la tienen a través del cambio de signo en el exponente. -->
+- [x] D) Mediante una reflexión respecto al eje Y. <!-- feedback: $(1/2)^x = 2^{-x}$, lo cual es una reflexión en el eje vertical. -->
+- [ ] B) Mediante una reflexión respecto al eje X. <!-- feedback: Eso daría $-2^x$. -->
+- [ ] C) No tienen ninguna relación geométrica simple. <!-- feedback: Sí la tienen a través del cambio de signo en el exponente. -->
 
 ### Explicacion Pedagogica
 Notamos que $(1/2)^x = (2^{-1})^x = 2^{-x}$. Reemplazar $x$ por $-x$ en una función $f(x)$ produce geométricamente una reflexión de su gráfica con respecto al eje de las ordenadas (Eje Y).
@@ -315,9 +315,9 @@ Buscamos $f(x) = a^x$. Usamos el punto $(2, 25)$: $25 = a^2$. Aplicando raíz cu
 ¿Cuál es la tasa de interés anual aplicada a esta inversión?
 
 ### Opciones
-- [ ] A) 1,05% <!-- feedback: El factor es $1 + r$, no $r$. -->
-- [ ] B) 50% <!-- feedback: Eso requeriría un factor de 1,50. -->
-- [x] C) 5% <!-- feedback: $1 + r = 1,05 \Rightarrow r = 0,05$, que equivale al 5%. -->
+- [ ] B) 1,05% <!-- feedback: El factor es $1 + r$, no $r$. -->
+- [ ] C) 50% <!-- feedback: Eso requeriría un factor de 1,50. -->
+- [x] A) 5% <!-- feedback: $1 + r = 1,05 \Rightarrow r = 0,05$, que equivale al 5%. -->
 - [ ] D) 0,05% <!-- feedback: Olvidaste multiplicar por 100 para obtener el porcentaje. -->
 
 ### Explicacion Pedagogica
@@ -335,9 +335,9 @@ Resuelva la ecuación $9^x = 27^{x-1}$.
 
 ### Opciones
 - [ ] A) $x = 1$ <!-- feedback: Sustituir da $9 = 1$, falso. -->
-- [x] B) $x = 3$ <!-- feedback: $(3^2)^x = (3^3)^{x-1} \Rightarrow 2x = 3x - 3 \Rightarrow x = 3$. -->
-- [ ] C) $x = 2$ <!-- feedback: $81 \neq 27$. -->
-- [ ] D) $x = 1,5$ <!-- feedback: Error en el despeje de la ecuación lineal resultante. -->
+- [x] D) $x = 3$ <!-- feedback: $(3^2)^x = (3^3)^{x-1} \Rightarrow 2x = 3x - 3 \Rightarrow x = 3$. -->
+- [ ] B) $x = 2$ <!-- feedback: $81 \neq 27$. -->
+- [ ] C) $x = 1,5$ <!-- feedback: Error en el despeje de la ecuación lineal resultante. -->
 
 ### Explicacion Pedagogica
 Igualamos bases usando la base común 3: $(3^2)^x = (3^3)^{x-1}$. Aplicamos potencia de una potencia: $3^{2x} = 3^{3x-3}$. Igualamos exponentes: $2x = 3x - 3$. Despejamos: $x = 3$.
@@ -355,8 +355,8 @@ Igualamos bases usando la base común 3: $(3^2)^x = (3^3)^{x-1}$. Aplicamos pote
 ### Opciones
 - [ ] A) 1/2 <!-- feedback: Esto daría $\sqrt{2}$. -->
 - [ ] B) -2 <!-- feedback: Esto daría 1/4. -->
-- [x] C) -1/2 <!-- feedback: $2^{-1/2} = 1 / 2^{1/2} = 1 / \sqrt{2}$. -->
-- [ ] D) -1 <!-- feedback: Esto daría 1/2. -->
+- [x] D) -1/2 <!-- feedback: $2^{-1/2} = 1 / 2^{1/2} = 1 / \sqrt{2}$. -->
+- [ ] C) -1 <!-- feedback: Esto daría 1/2. -->
 
 ### Explicacion Pedagogica
 Expresamos el lado derecho como potencia de 2: $\frac{1}{\sqrt{2}} = \frac{1}{2^{1/2}} = 2^{-1/2}$. Al igualar con $2^x$, obtenemos directamente que $x = -1/2$.
@@ -373,8 +373,8 @@ Si $x$ es un número positivo muy pequeño (cercano a 0), ¿cuál es el comporta
 
 ### Opciones
 - [ ] A) El resultado es cercano a 0. <!-- feedback: Toda función $a^x$ tiende a 1 cuando $x$ se acerca a 0. -->
-- [x] B) El resultado es cercano a 1. <!-- feedback: Correcto, $a^0 = 1$ para cualquier $a > 0$. -->
-- [ ] C) El resultado es cercano a 1000. <!-- feedback: Eso sería si $x$ fuera cercano a 1. -->
+- [x] C) El resultado es cercano a 1. <!-- feedback: Correcto, $a^0 = 1$ para cualquier $a > 0$. -->
+- [ ] B) El resultado es cercano a 1000. <!-- feedback: Eso sería si $x$ fuera cercano a 1. -->
 - [ ] D) El resultado es infinitamente grande. <!-- feedback: Esto ocurre si $x$ crece mucho, no si se acerca a 0. -->
 
 ### Explicacion Pedagogica
@@ -391,9 +391,9 @@ Sin importar qué tan grande sea la base $a$, la función exponencial siempre pa
 ¿Cuál es la función inversa de $f(x) = e^x$?
 
 ### Opciones
-- [ ] A) $g(x) = e^{-x}$ <!-- feedback: Esta es una reflexión, no la inversa. -->
-- [ ] B) $g(x) = 1/e^x$ <!-- feedback: Este es el recíproco. -->
-- [x] C) $g(x) = \ln(x)$ <!-- feedback: Correcto, el logaritmo natural es la función inversa de la exponencial de base $e$. -->
+- [ ] B) $g(x) = e^{-x}$ <!-- feedback: Esta es una reflexión, no la inversa. -->
+- [ ] C) $g(x) = 1/e^x$ <!-- feedback: Este es el recíproco. -->
+- [x] A) $g(x) = \ln(x)$ <!-- feedback: Correcto, el logaritmo natural es la función inversa de la exponencial de base $e$. -->
 - [ ] D) $g(x) = x^e$ <!-- feedback: Esta es una función potencia. -->
 
 ### Explicacion Pedagogica

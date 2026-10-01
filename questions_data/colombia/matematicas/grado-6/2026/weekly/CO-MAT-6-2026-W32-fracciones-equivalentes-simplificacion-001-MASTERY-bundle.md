@@ -48,11 +48,11 @@ Una fracción se escribe con el número de partes tomadas sobre el total de part
 ### Enunciado
 ¿Qué relación existe entre las fracciones 3/6 y 1/2?
 ### Opciones
-- [x] A) Son equivalentes porque representan la misma parte del entero
+- [x] C) Son equivalentes porque representan la misma parte del entero
   <!-- feedback: Es correcta porque 3/6 simplificado es 1/2, así que cubren la misma porción del entero. -->
-- [ ] B) 3/6 es mayor que 1/2
+- [ ] A) 3/6 es mayor que 1/2
   <!-- feedback: Error conceptual: cree que un numerador mayor siempre implica más cantidad, sin comparar el valor real. -->
-- [ ] C) 1/2 es mayor que 3/6
+- [ ] B) 1/2 es mayor que 3/6
   <!-- feedback: Error conceptual: supone que la fracción con números menores vale más, pero ambas valen lo mismo. -->
 - [ ] D) No se pueden comparar por tener denominadores distintos
   <!-- feedback: Error conceptual: las fracciones con distinto denominador sí se comparan, por ejemplo simplificando. -->
@@ -67,11 +67,11 @@ Dos fracciones son equivalentes cuando representan la misma cantidad del entero.
 ### Enunciado
 ¿Cuál fracción es equivalente a 4/8?
 ### Opciones
-- [x] A) 1/2
+- [x] C) 1/2
   <!-- feedback: Es correcta porque al dividir numerador y denominador entre 4 se obtiene 1/2. -->
-- [ ] B) 2/8
+- [ ] A) 2/8
   <!-- feedback: Error conceptual: divide solo el numerador entre 2 y deja el denominador igual. -->
-- [ ] C) 4/4
+- [ ] B) 4/4
   <!-- feedback: Error conceptual: iguala numerador y denominador, lo que representa el entero completo. -->
 - [ ] D) 8/4
   <!-- feedback: Error conceptual: invierte la fracción y obtiene un valor mayor que el entero. -->
@@ -86,13 +86,13 @@ Simplificar consiste en dividir numerador y denominador por un mismo número. En
 ### Enunciado
 ¿Qué fracción equivalente obtiene el estudiante?
 ### Opciones
-- [x] A) 8/12
+- [x] D) 8/12
   <!-- feedback: Es correcta porque 2 × 4 = 8 y 3 × 4 = 12; ambas fracciones valen lo mismo. -->
-- [ ] B) 6/7
+- [ ] A) 6/7
   <!-- feedback: Error conceptual: suma 4 a cada término en vez de multiplicar por 4. -->
-- [ ] C) 2/12
+- [ ] B) 2/12
   <!-- feedback: Error conceptual: multiplica solo el denominador y deja el numerador sin cambio. -->
-- [ ] D) 8/3
+- [ ] C) 8/3
   <!-- feedback: Error conceptual: multiplica solo el numerador y deja el denominador igual. -->
 ### Explicacion Pedagogica
 Amplificar una fracción es multiplicar numerador y denominador por el mismo número distinto de cero. Así 2/3 = 8/12; la parte del entero representada no cambia.
@@ -124,9 +124,9 @@ Para simplificar se divide numerador y denominador entre su máximo común divis
 ### Enunciado
 ¿Qué se puede concluir sobre las fracciones 9/12 y 3/4?
 ### Opciones
-- [x] A) Son equivalentes, por lo que cubren la misma área de la pared
+- [x] B) Son equivalentes, por lo que cubren la misma área de la pared
   <!-- feedback: Es correcta porque 9/12 simplificado entre 3 es 3/4; representan la misma extensión. -->
-- [ ] B) 9/12 cubre más área porque tiene números mayores
+- [ ] A) 9/12 cubre más área porque tiene números mayores
   <!-- feedback: Error conceptual: confunde el tamaño de los números con el valor de la fracción. -->
 - [ ] C) 3/4 cubre más área porque tiene menos partes
   <!-- feedback: Error conceptual: cree que menos partes implican más pintura, cuando los valores son iguales. -->
@@ -143,9 +143,9 @@ Comparar o igualar fracciones exige atender su valor y no el tamaño de sus tér
 ### Enunciado
 ¿Cuál fracción es mayor y por qué?
 ### Opciones
-- [x] A) 6/8, porque al simplificar queda 3/4 y 4/6 queda 2/3, y 3/4 es mayor que 2/3
+- [x] B) 6/8, porque al simplificar queda 3/4 y 4/6 queda 2/3, y 3/4 es mayor que 2/3
   <!-- feedback: Es correcta porque simplificar permite comparar: 3/4 equivale a 0,75 y 2/3 a 0,666. -->
-- [ ] B) 4/6, porque tiene el denominador más pequeño
+- [ ] A) 4/6, porque tiene el denominador más pequeño
   <!-- feedback: Error conceptual: cree que un denominador menor siempre da una fracción mayor. -->
 - [ ] C) Son iguales porque ambas tienen números pares
   <!-- feedback: Error conceptual: la paridad de los términos no determina la equivalencia. -->
@@ -162,13 +162,13 @@ Para comparar fracciones conviene simplificarlas primero: 6/8 = 3/4 y 4/6 = 2/3.
 ### Enunciado
 ¿Cuál afirmación es correcta sobre 12/30 y 2/5?
 ### Opciones
-- [x] A) 12/30 y 2/5 son equivalentes porque 12/30 se simplifica a 2/5
+- [x] D) 12/30 y 2/5 son equivalentes porque 12/30 se simplifica a 2/5
   <!-- feedback: Es correcta porque dividir 12 y 30 entre 6 da 2/5; representan la misma parte del grupo. -->
-- [ ] B) 12/30 es mayor porque el grupo tiene más estudiantes
+- [ ] A) 12/30 es mayor porque el grupo tiene más estudiantes
   <!-- feedback: Error conceptual: mezcla el tamaño del grupo con el valor de la fracción que lo describe. -->
-- [ ] C) 2/5 es mayor porque usa números más pequeños
+- [ ] B) 2/5 es mayor porque usa números más pequeños
   <!-- feedback: Error conceptual: confunde números pequeños con mayor cantidad representada. -->
-- [ ] D) No son equivalentes porque 12 no es múltiplo de 5
+- [ ] C) No son equivalentes porque 12 no es múltiplo de 5
   <!-- feedback: Error conceptual: la equivalencia depende del valor, no de que un numerador sea múltiplo del denominador de la otra. -->
 ### Explicacion Pedagogica
 Simplificar 12/30 entre su máximo común divisor, que es 6, da 2/5. Así se comprueba que ambos registros describen la misma proporción de estudiantes.
@@ -181,11 +181,11 @@ Simplificar 12/30 entre su máximo común divisor, que es 6, da 2/5. Así se com
 ### Enunciado
 ¿Es correcta la afirmación del estudiante? Justifica tu respuesta.
 ### Opciones
-- [x] A) No, porque sumar el mismo número no garantiza equivalencia; se debe multiplicar o dividir por el mismo número
+- [x] C) No, porque sumar el mismo número no garantiza equivalencia; se debe multiplicar o dividir por el mismo número
   <!-- feedback: Es correcta porque solo la multiplicación o división por un mismo factor conserva el valor de la fracción. -->
-- [ ] B) Sí, siempre que se sume el mismo número en ambos términos
+- [ ] A) Sí, siempre que se sume el mismo número en ambos términos
   <!-- feedback: Error conceptual: generaliza una regla falsa; por ejemplo 1/2 y 2/3 no son equivalentes. -->
-- [ ] C) Sí, pero solo cuando el número que se suma es par
+- [ ] B) Sí, pero solo cuando el número que se suma es par
   <!-- feedback: Error conceptual: inventa una condición de paridad que no tiene fundamento matemático. -->
 - [ ] D) No, porque nunca se puede cambiar el numerador ni el denominador
   <!-- feedback: Error conceptual: sí se pueden cambiar si se multiplican o dividen por el mismo número. -->
@@ -200,11 +200,11 @@ Una fracción conserva su valor solo cuando numerador y denominador se multiplic
 ### Enunciado
 ¿Cuál opción es la más adecuada y por qué?
 ### Opciones
-- [x] A) Cualquiera de las dos, porque son equivalentes y representan el mismo reparto
+- [x] C) Cualquiera de las dos, porque son equivalentes y representan el mismo reparto
   <!-- feedback: Es correcta porque 3/4 y 6/8 valen lo mismo, así que describen porciones idénticas. -->
-- [ ] B) 6/8, porque al tener números mayores es más exacta
+- [ ] A) 6/8, porque al tener números mayores es más exacta
   <!-- feedback: Error conceptual: el tamaño de los números no aumenta la exactitud del valor. -->
-- [ ] C) 3/4, porque toda fracción con números grandes es incorrecta
+- [ ] B) 3/4, porque toda fracción con números grandes es incorrecta
   <!-- feedback: Error conceptual: rechaza fracciones amplificadas aunque sean correctas y equivalentes. -->
 - [ ] D) Ninguna, porque los repartos de pizza no se pueden escribir con fracciones
   <!-- feedback: Error conceptual: los repartos equitativos se representan naturalmente con fracciones. -->

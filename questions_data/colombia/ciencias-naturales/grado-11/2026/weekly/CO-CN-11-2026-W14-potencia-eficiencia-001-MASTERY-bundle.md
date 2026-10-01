@@ -34,13 +34,13 @@ Este bundle contiene 20 preguntas sobre **Potencia y Eficiencia Energética** pa
 ¿Cómo se define la potencia mecánica ($P$) en términos de trabajo ($W$) y tiempo ($t$)?
 
 ### Opciones
-- [x] A) $P = \frac{W}{t}$, medida en Vatios (Watts, $1 \text{ W} = 1 \text{ J/s}$).
+- [x] D) $P = \frac{W}{t}$, medida en Vatios (Watts, $1 \text{ W} = 1 \text{ J/s}$).
   <!-- feedback: Correcto. La potencia es la rapidez con la que se realiza trabajo o se transfiere energía por unidad de tiempo. -->
-- [ ] B) $P = W \cdot t$, medida en Julios por segundo.
+- [ ] A) $P = W \cdot t$, medida en Julios por segundo.
   <!-- feedback: Incorrecto. Multiplicar trabajo por tiempo no da potencia. -->
-- [ ] C) $P = F \cdot t$, medida en Newtons segundo.
+- [ ] B) $P = F \cdot t$, medida en Newtons segundo.
   <!-- feedback: Incorrecto. Fuerza por tiempo es el impulso mecánico. -->
-- [ ] D) $P = \frac{m \cdot v}{t}$, medida en Pascales.
+- [ ] C) $P = \frac{m \cdot v}{t}$, medida en Pascales.
   <!-- feedback: Incorrecto. Esa relación no corresponde a la definición de potencia. -->
 
 ### Explicacion Pedagogica
@@ -58,11 +58,11 @@ e$) de una bomba hidráulica.
 ¿Cuál es la fórmula para calcular la eficiencia porcentual de una máquina térmica o mecánica?
 
 ### Opciones
-- [x] A) $\eta = \left(\frac{P_{\text{útil}}}{P_{\text{total ent.}}}\right) \times 100\%$.
+- [x] C) $\eta = \left(\frac{P_{\text{útil}}}{P_{\text{total ent.}}}\right) \times 100\%$.
   <!-- feedback: Correcto. La eficiencia es el cociente entre la potencia o energía útil obtenida y la potencia o energía total suministrada. -->
-- [ ] B) $\eta = \left(\frac{P_{\text{perdid.}}}{P_{\text{útil}}}\right) \times 100\%$.
+- [ ] A) $\eta = \left(\frac{P_{\text{perdid.}}}{P_{\text{útil}}}\right) \times 100\%$.
   <!-- feedback: Incorrecto. Relaciona la pérdida con lo útil sin expresar el rendimiento total. -->
-- [ ] C) $\eta = P_{\text{total}} \cdot P_{\text{útil}}$.
+- [ ] B) $\eta = P_{\text{total}} \cdot P_{\text{útil}}$.
   <!-- feedback: Incorrecto. Multiplicar potencias no genera un número adimensional porcentual. -->
 - [ ] D) $\eta = 100\% - P_{\text{útil}}$.
   <!-- feedback: Incorrecto. No corresponde a la definición adimensional de rendimiento. -->
@@ -81,9 +81,9 @@ La eficiencia energética es el porcentaje de energía o potencia suministrada q
 ¿Qué fórmula alternativa expresa la potencia instantánea entregada por el motor?
 
 ### Opciones
-- [x] A) $P = F \cdot v \cdot \cos(\theta)$.
+- [x] B) $P = F \cdot v \cdot \cos(\theta)$.
   <!-- feedback: Correcto. Puesto que $W = F \cdot d$, sustituyendo en $P = W/t$ resulta $P = F \cdot (d/t) = F \cdot v$. -->
-- [ ] B) $P = F / v$.
+- [ ] A) $P = F / v$.
   <!-- feedback: Incorrecto. Dividir fuerza entre velocidad no produce vatios. -->
 - [ ] C) $P = m \cdot a \cdot t$.
   <!-- feedback: Incorrecto. No refleja la potencia instantánea a velocidad constante. -->
@@ -104,13 +104,13 @@ Dado que $v = d/t$, la potencia mecánica puede expresarse como $P = F \cdot v$.
 ¿Cuál es el ciclo termodinámico ideal que establece el límite superior de eficiencia para cualquier máquina térmica?
 
 ### Opciones
-- [x] A) Ciclo de Carnot.
+- [x] D) Ciclo de Carnot.
   <!-- feedback: Correcto. El ciclo de Carnot opera entre dos fuentes térmicas de forma reversible, marcando la máxima eficiencia teórica posible ($eta = 1 - T_C/T_H$). -->
-- [ ] B) Ciclo Krebs.
+- [ ] A) Ciclo Krebs.
   <!-- feedback: Incorrecto. El ciclo de Krebs es una ruta metabólica bioquímica celular. -->
-- [ ] C) Ciclo Otto.
+- [ ] B) Ciclo Otto.
   <!-- feedback: Incorrecto. Es el ciclo de motores de combustión interna a gasolina, pero no es el ciclo ideal máximo. -->
-- [ ] D) Ciclo de Calvin.
+- [ ] C) Ciclo de Calvin.
   <!-- feedback: Incorrecto. Es la fase oscura de la fotosíntesis en plantas. -->
 
 ### Explicacion Pedagogica
@@ -127,9 +127,9 @@ El teorema de Carnot demuestra que ninguna máquina térmica puede ser más efic
 ¿Cuál es la potencia útil desarrollada por el motor del elevador? (Considere $g = 9.8 \text{ m/s}^2$).
 
 ### Opciones
-- [x] A) $5880 \text{ Vatios} (5.88 \text{ kW})$.
+- [x] B) $5880 \text{ Vatios} (5.88 \text{ kW})$.
   <!-- feedback: Correcto. $W = mgh = 500 \times 9.8 \times 12 = 58,800 \text{ J}$. $P = 58,800 / 10 = 5880 \text{ W}$. -->
-- [ ] B) $600 \text{ Vatios}$.
+- [ ] A) $600 \text{ Vatios}$.
   <!-- feedback: Incorrecto. Olvidó multiplicar la masa por la aceleración de la gravedad $g$. -->
 - [ ] C) $58,800 \text{ Vatios}$.
   <!-- feedback: Incorrecto. Olvidó dividir el trabajo entre el tiempo de 10 segundos. -->
@@ -150,9 +150,9 @@ $P = mgh / t = (500 \times 9.8 \times 12) / 10 = 5880 \text{ W}$.
 ¿Cuál es el porcentaje de eficiencia energética de este motor y cuánta potencia disipa en forma de calor?
 
 ### Opciones
-- [x] A) Eficiencia del 75% y disipa $2.5 \text{ kW}$.
+- [x] B) Eficiencia del 75% y disipa $2.5 \text{ kW}$.
   <!-- feedback: Correcto. $eta = (7.5 / 10) \times 100\% = 75\%$. La potencia perdida es $10 - 7.5 = 2.5 \text{ kW}$. -->
-- [ ] B) Eficiencia del 25% y disipa $7.5 \text{ kW}$.
+- [ ] A) Eficiencia del 25% y disipa $7.5 \text{ kW}$.
   <!-- feedback: Incorrecto. Invirtió la potencia útil con la disipada. -->
 - [ ] C) Eficiencia del 100% sin disipación térmica.
   <!-- feedback: Incorrecto. Ninguna máquina real carece de pérdidas térmicas. -->
@@ -196,11 +196,11 @@ $P = F \cdot v = 4000 \times 15 = 60,000 \text{ W} = 60 \text{ kW}$.
 ¿Qué conclusión sobre la eficiencia energética justifica reemplazar el bombillo incandescente por el LED?
 
 ### Opciones
-- [x] A) El LED transforma una proporción mucho mayor de energía eléctrica en luz visible, reduciendo el desperdicio en calor.
+- [x] C) El LED transforma una proporción mucho mayor de energía eléctrica en luz visible, reduciendo el desperdicio en calor.
   <!-- feedback: Correcto. Los bombillos incandescentes disipan >90% de la energía como calor, mientras los LED tienen alta eficiencia lumínica. -->
-- [ ] B) El bombillo incandescente produce luz fría sin disipar calor al ambiente.
+- [ ] A) El bombillo incandescente produce luz fría sin disipar calor al ambiente.
   <!-- feedback: Incorrecto. Los incandescentes se calientan fuertemente debido al filamento de tungsteno. -->
-- [ ] C) Ambos bombillos consumen la misma energía por hora.
+- [ ] B) Ambos bombillos consumen la misma energía por hora.
   <!-- feedback: Incorrecto. El LED consume 10 W frente a los 60 W del incandescente. -->
 - [ ] D) El LED requiere un transformador nuclear para encender.
   <!-- feedback: Incorrecto. Opera con corriente eléctrica estándar. -->
@@ -242,9 +242,9 @@ Potencia $= (m/t) \cdot g \cdot h = 50 \times 10 \times 20 = 10,000 \text{ W} = 
 ¿Cuál es la eficiencia de conversión fotovoltaica del panel solar?
 
 ### Opciones
-- [x] A) 20%.
+- [x] B) 20%.
   <!-- feedback: Correcto. Potencia incidente total $= 1000 \text{ W/m}^2 \times 2 \text{ m}^2 = 2000 \text{ W}$. Eficiencia $= (400 / 2000) \times 100\% = 20\%$. -->
-- [ ] B) 40%.
+- [ ] A) 40%.
   <!-- feedback: Incorrecto. No multiplicó la radiación solar por el área total de 2 m². -->
 - [ ] C) 50%.
   <!-- feedback: Incorrecto. Calculó $400 / 800$. -->
@@ -266,9 +266,9 @@ Potencia recibida $= 2000 \text{ W}$. Eficiencia $= 400 / 2000 = 0.20 = 20\%$.
 e_{Carnot}$) que puede alcanzar esta máquina?
 
 ### Opciones
-- [x] A) 40%.
+- [x] B) 40%.
   <!-- feedback: Correcto. $eta_{Carnot} = 1 - \frac{T_C}{T_H} = 1 - \frac{300}{500} = 1 - 0.6 = 0.4 = 40\%$. -->
-- [ ] B) 60%.
+- [ ] A) 60%.
   <!-- feedback: Incorrecto. Calculó $T_C / T_H$ en lugar de $1 - T_C / T_H$. -->
 - [ ] C) 88.1%.
   <!-- feedback: Incorrecto. Usó las temperaturas en grados Celsius ($27/227$) en lugar de la escala absoluta en Kelvin. -->
@@ -289,11 +289,11 @@ En el ciclo de Carnot $eta = 1 - T_C/T_H = 1 - 300/500 = 0.40 = 40\%$. Las tempe
 ¿Cuál es la eficiencia mecánica del plano inclinado?
 
 ### Opciones
-- [x] A) 66.7%.
+- [x] C) 66.7%.
   <!-- feedback: Correcto. Trabajo útil $= mgh = 100 \text{ N} \times 1 \text{ m} = 100 \text{ J}$. Trabajo invertido $= F \cdot d = 30 \text{ N} \times 5 \text{ m} = 150 \text{ J}$. Eficiencia $= (100/150) \times 100\% = 66.7\%$. -->
-- [ ] B) 100%.
+- [ ] A) 100%.
   <!-- feedback: Incorrecto. No consideró la pérdida energética producida por la fricción sobre el plano. -->
-- [ ] C) 30%.
+- [ ] B) 30%.
   <!-- feedback: Incorrecto. Calculó $30 / 100$. -->
 - [ ] D) 50%.
   <!-- feedback: Incorrecto. Errores en la relación entre trabajo útil y trabajo suministrado. -->
@@ -312,9 +312,9 @@ Trabajo útil $= 100 \text{ J}$. Trabajo aplicado $= 150 \text{ J}$. Eficiencia 
 ¿Qué motor realiza más trabajo útil por unidad de combustible y cuál es su eficiencia?
 
 ### Opciones
-- [x] A) El motor A es más eficiente con un 40% de rendimiento útil.
+- [x] B) El motor A es más eficiente con un 40% de rendimiento útil.
   <!-- feedback: Correcto. Trabajo útil A $= 100 - 60 = 40 \text{ kJ} \Rightarrow 40\%$. Trabajo útil B $= 100 - 75 = 25 \text{ kJ} \Rightarrow 25\%$. -->
-- [ ] B) El motor B es más eficiente con un 75% de rendimiento útil.
+- [ ] A) El motor B es más eficiente con un 75% de rendimiento útil.
   <!-- feedback: Incorrecto. Confundió la energía disipada con la energía útil. -->
 - [ ] C) Ambos motores entregan exactamente la misma potencia útil.
   <!-- feedback: Incorrecto. El motor A disipa menos calor recuperando mayor trabajo. -->
@@ -335,9 +335,9 @@ Motor A: Trabajo útil $= 100 - 60 = 40 \text{ kJ} Rightarrow 40\%$. Motor B: $2
 ¿Cuál es la potencia eléctrica final neta disponible entregada a la red de alta tensión?
 
 ### Opciones
-- [x] A) $42.75 \text{ Megavatios} (42.75 \text{ MW})$.
+- [x] B) $42.75 \text{ Megavatios} (42.75 \text{ MW})$.
   <!-- feedback: Correcto. Eficiencia global $\eta_{total} = \eta_1 \times \eta_2 = 0.90 \times 0.95 = 0.855 (85.5\%)$. Potencia $= 50 \text{ MW} \times 0.855 = 42.75 \text{ MW}$. -->
-- [ ] B) $47.5 \text{ MW}$.
+- [ ] A) $47.5 \text{ MW}$.
   <!-- feedback: Incorrecto. No incluyó las pérdidas mecánicas de la turbina hidráulica. -->
 - [ ] C) $45.0 \text{ MW}$.
   <!-- feedback: Incorrecto. No incluyó las pérdidas magnéticas/eléctricas del generador. -->
@@ -358,9 +358,9 @@ En sistemas en serie las eficiencias se multiplican: $eta_{total} = 0.90 \times 
 ¿Qué cantidad total de trabajo mecánico realizó el ciclista en ese intervalo de tiempo?
 
 ### Opciones
-- [x] A) $420,000 \text{ Julios} (420 \text{ kJ})$.
+- [x] B) $420,000 \text{ Julios} (420 \text{ kJ})$.
   <!-- feedback: Correcto. $W = P \cdot t = 350 \text{ W} \times (20 \times 60 \text{ s}) = 350 \times 1200 \text{ s} = 420,000 \text{ J}$. -->
-- [ ] B) $7000 \text{ Julios}$.
+- [ ] A) $7000 \text{ Julios}$.
   <!-- feedback: Incorrecto. Multiplicó 350 por 20 minutos sin convertir el tiempo a segundos. -->
 - [ ] C) $17.5 \text{ Julios}$.
   <!-- feedback: Incorrecto. Dividió la potencia entre el tiempo. -->
@@ -381,13 +381,13 @@ $W = P \cdot t = 350 \text{ W} \times 1200 \text{ s} = 420,000 \text{ J} = 420 \
 ¿Qué porcentaje de la eficiencia máxima teórica de Carnot está logrando la planta geotérmica real?
 
 ### Opciones
-- [x] A) 65.7% de la eficiencia de Carnot.
+- [x] D) 65.7% de la eficiencia de Carnot.
   <!-- feedback: Correcto. $\eta_{Carnot} = 1 - (293/473) = 1 - 0.6195 = 0.3805 (38.05\%)$. Fracción alcanzada $= 25\% / 38.05\% = 65.7\%$. -->
-- [ ] B) 25.0% de la eficiencia de Carnot.
+- [ ] A) 25.0% de la eficiencia de Carnot.
   <!-- feedback: Incorrecto. Confundió la eficiencia neta absoluta con la relación respecto al límite de Carnot. -->
-- [ ] C) 90.0% de la eficiencia de Carnot.
+- [ ] B) 90.0% de la eficiencia de Carnot.
   <!-- feedback: Incorrecto. Usó temperaturas en Celsius ($20/200$) para Carnot. -->
-- [ ] D) 100% de la eficiencia de Carnot.
+- [ ] C) 100% de la eficiencia de Carnot.
   <!-- feedback: Incorrecto. Ninguna planta real opera al 100% del límite de Carnot. -->
 
 ### Explicacion Pedagogica
@@ -404,9 +404,9 @@ $eta_{Carnot} = 38.05\%$. La relación real/teórica $= 25 / 38.05 = 65.7\%$.
 Al evaluar la eficiencia global del ciclo de vida (desde la extracción del recurso hasta la entrega en red), ¿por qué los aerogeneradores presentan una ventaja de sostenibilidad decisiva?
 
 ### Opciones
-- [x] A) Porque la fuente eólica no requiere combustión, evitando pérdidas por entalpía irrecoverable de escape y emisiones de $CO_2$.
+- [x] B) Porque la fuente eólica no requiere combustión, evitando pérdidas por entalpía irrecoverable de escape y emisiones de $CO_2$.
   <!-- feedback: Correcto. Las plantas térmicas están limitadas por el rendimiento de Carnot y la pérdida por gases de combustión, mientras que la energía eólica convierte directamente energía cinética en eléctrica sin degradación térmica. -->
-- [ ] B) Porque los aerogeneradores violan la Ley de Conservación de la Energía al no disipar calor.
+- [ ] A) Porque los aerogeneradores violan la Ley de Conservación de la Energía al no disipar calor.
   <!-- feedback: Incorrecto. Ningún dispositivo violará la primera ley de la termodinámica. -->
 - [ ] C) Porque la combustión del carbón produce un 99% de rendimiento eléctrico sin residuos.
   <!-- feedback: Incorrecto. La eficiencia de plantas de carbón raras veces supera el 35-40%. -->
@@ -427,11 +427,11 @@ La conversión directa cinético-eléctrica de los aerogeneradores evita los lí
 Si el cuerpo humano convierte la energía química de los alimentos en trabajo muscular útil con una eficiencia media de sólo 20-25%, ¿qué ocurre con el 75-80% restante de la energía metabólica?
 
 ### Opciones
-- [x] A) Se disipa como energía térmica (calor corporal), requiriendo mecanismos de sudoración y vasodilatación para mantener la homeostasis.
+- [x] C) Se disipa como energía térmica (calor corporal), requiriendo mecanismos de sudoración y vasodilatación para mantener la homeostasis.
   <!-- feedback: Correcto. La respiración celular y la contracción muscular disipan la mayor parte de la energía como calor no aprovechable mecánicamente. -->
-- [ ] B) Se almacena indefinidamente en forma de uranio radioactivo en los huesos.
+- [ ] A) Se almacena indefinidamente en forma de uranio radioactivo en los huesos.
   <!-- feedback: Incorrecto. Afirmación absurda sobre el metabolismo biológico. -->
-- [ ] C) Se destruye por completo sin manifestación física.
+- [ ] B) Se destruye por completo sin manifestación física.
   <!-- feedback: Incorrecto. La energía no se destruye, se transforma en energía térmica. -->
 - [ ] D) Se convierte íntegramente en masa adiposa instantánea.
   <!-- feedback: Incorrecto. La energía gastada durante el ejercicio no se convierte en grasa, se disipa como calor. -->
@@ -473,11 +473,11 @@ Al anular la resistencia $R$, el calentamiento $I^2 R$ desaparece y la eficienci
 Debido a la resistencia interna de la batería, parte de la energía se convierte en calor durante la recarga rápida. ¿Qué estrategia tecnológica minimiza este deterioro de eficiencia?
 
 ### Opciones
-- [x] A) Implementar un sistema de gestión térmica activa (chillers) y regular la tasa de corriente según la temperatura del paquete.
+- [x] C) Implementar un sistema de gestión térmica activa (chillers) y regular la tasa de corriente según la temperatura del paquete.
   <!-- feedback: Correcto. Mantener la batería en su rango óptimo de temperatura evita el aumento excesivo de resistencia interna y previene la degradación. -->
-- [ ] B) Aumentar el voltaje a valores infinitos sin limitar la corriente.
+- [ ] A) Aumentar el voltaje a valores infinitos sin limitar la corriente.
   <!-- feedback: Incorrecto. Eso provocaría una explosión térmica o daño catastrófico. -->
-- [ ] C) Remover los electrolitos líquidos dejando las celdas al vacío absoluto.
+- [ ] B) Remover los electrolitos líquidos dejando las celdas al vacío absoluto.
   <!-- feedback: Incorrecto. Sin electrolito no hay conducción iónica entre ánodo y cátodo. -->
 - [ ] D) Reemplazar las celdas de litio por láminas de madera tratada.
   <!-- feedback: Incorrecto. La madera es un aislante no electroquímico. -->

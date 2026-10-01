@@ -35,11 +35,11 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia.
 ¿Qué caracteriza a la poesía contemporánea frente a la poesía tradicional?
 
 ### Opciones
-- [x] A) Experimentación formal, temas cotidianos y ruptura de estructuras rígidas.
+- [x] C) Experimentación formal, temas cotidianos y ruptura de estructuras rígidas.
   <!-- feedback: La poesía contemporánea rompe la métrica clásica y explora nuevos temas. -->
-- [ ] B) Uso exclusivo de rima consonante.
+- [ ] A) Uso exclusivo de rima consonante.
   <!-- feedback: La rima no es obligatoria en la poesía contemporánea. -->
-- [ ] C) Temas exclusivamente religiosos.
+- [ ] B) Temas exclusivamente religiosos.
   <!-- feedback: Aborda temas variados. -->
 - [ ] D) Rechazo total del lenguaje figurado.
   <!-- feedback: Aún se usan metáforas y símbolos. -->
@@ -60,11 +60,11 @@ El verso libre se caracteriza por:
 ### Opciones
 - [ ] A) Mantener una métrica fija y regular.
   <!-- feedback: Justamente se opone a la métrica fija. -->
-- [x] B) No sujetarse a un patrón regular de sílabas ni rima.
+- [x] D) No sujetarse a un patrón regular de sílabas ni rima.
   <!-- feedback: Predomina la cadencia del habla. -->
-- [ ] C) Seguir las reglas del soneto clásico.
+- [ ] B) Seguir las reglas del soneto clásico.
   <!-- feedback: El soneto es una forma fija. -->
-- [ ] D) Tener siempre 14 versos.
+- [ ] C) Tener siempre 14 versos.
   <!-- feedback: El número de versos es libre. -->
 
 ### Explicacion Pedagogica
@@ -81,9 +81,9 @@ El verso libre es una de las formas más usadas en la poesía del siglo XX y XXI
 Las imágenes en la poesía contemporánea suelen ser:
 
 ### Opciones
-- [x] A) Sorprendentes, a veces urbanas o tecnológicas, alejándose de lo bucólico.
+- [x] B) Sorprendentes, a veces urbanas o tecnológicas, alejándose de lo bucólico.
   <!-- feedback: Se incorporan objetos y situaciones modernas. -->
-- [ ] B) Siempre rurales y pastoriles.
+- [ ] A) Siempre rurales y pastoriles.
   <!-- feedback: La poesía contemporánea trasciende lo rural. -->
 - [ ] C) Únicamente de la naturaleza.
   <!-- feedback: Hay variedad temática. -->
@@ -106,11 +106,11 @@ El tono predominante en la poesía urbana contemporánea es:
 ### Opciones
 - [ ] A) Siempre optimista.
   <!-- feedback: La realidad urbana se aborda con crudeza a menudo. -->
-- [x] B) Reflexivo, crítico y a veces melancólico.
+- [x] D) Reflexivo, crítico y a veces melancólico.
   <!-- feedback: Refleja las tensiones de la ciudad. -->
-- [ ] C) Festivo y humorístico exclusivamente.
+- [ ] B) Festivo y humorístico exclusivamente.
   <!-- feedback: Hay humor, pero no domina. -->
-- [ ] D) Religioso sin matices.
+- [ ] C) Religioso sin matices.
   <!-- feedback: No es el único tono. -->
 
 ### Explicacion Pedagogica
@@ -150,13 +150,13 @@ La voz lírica es un artificio retórico que permite explorar emociones con libe
 ¿Qué figura literaria consiste en atribuir cualidades humanas a objetos o conceptos abstractos?
 
 ### Opciones
-- [x] A) Personificación.
+- [x] D) Personificación.
   <!-- feedback: Humaniza lo no humano. -->
-- [ ] B) Hipérbole.
+- [ ] A) Hipérbole.
   <!-- feedback: Exagera cantidades o cualidades. -->
-- [ ] C) Metonimia.
+- [ ] B) Metonimia.
   <!-- feedback: Sustituye por relación de contigüidad. -->
-- [ ] D) Aliteración.
+- [ ] C) Aliteración.
   <!-- feedback: Repite sonidos consonánticos. -->
 
 ### Explicacion Pedagogica
@@ -196,9 +196,9 @@ La poeticidad reside en el trabajo cuidadoso con ritmo, imágenes y connotacione
 El ritmo en la poesía contemporánea depende principalmente de:
 
 ### Opciones
-- [x] A) La cadencia natural del habla, las pausas y la disposición tipográfica.
+- [x] B) La cadencia natural del habla, las pausas y la disposición tipográfica.
   <!-- feedback: El ritmo se construye con nuevos recursos. -->
-- [ ] B) Una métrica silábica estricta.
+- [ ] A) Una métrica silábica estricta.
   <!-- feedback: Ya no se exige métrica regular. -->
 - [ ] C) Solo la rima.
   <!-- feedback: La rima no es indispensable. -->
@@ -219,13 +219,13 @@ El verso libre recupera el ritmo del lenguaje oral y de la respiración.
 Una constante en la poesía femenina latinoamericana contemporánea es:
 
 ### Opciones
-- [x] A) La exploración del cuerpo, la identidad y la memoria histórica.
+- [x] D) La exploración del cuerpo, la identidad y la memoria histórica.
   <!-- feedback: Temas recurrentes en autoras como Idea Vilariño o Piedad Bonnett. -->
-- [ ] B) La celebración exclusiva de la naturaleza.
+- [ ] A) La celebración exclusiva de la naturaleza.
   <!-- feedback: Hay múltiples enfoques. -->
-- [ ] C) El rechazo de la primera persona.
+- [ ] B) El rechazo de la primera persona.
   <!-- feedback: Muchas usan el "yo". -->
-- [ ] D) La prohibición de símbolos.
+- [ ] C) La prohibición de símbolos.
   <!-- feedback: Usan símbolos libremente. -->
 
 ### Explicacion Pedagogica
@@ -242,13 +242,13 @@ La poesía femenina ha enriquecido la lírica contemporánea con voces y perspec
 ¿Qué función cumple el título en un poema contemporáneo?
 
 ### Opciones
-- [x] A) Orientar la lectura, sugerir un tono o generar expectativa.
+- [x] D) Orientar la lectura, sugerir un tono o generar expectativa.
   <!-- feedback: El título es parte esencial de la significación. -->
-- [ ] B) Ser siempre neutro y descriptivo.
+- [ ] A) Ser siempre neutro y descriptivo.
   <!-- feedback: Puede ser sugerente o simbólico. -->
-- [ ] C) Repetir el primer verso.
+- [ ] B) Repetir el primer verso.
   <!-- feedback: Es redundante. -->
-- [ ] D) Anular el contenido del poema.
+- [ ] C) Anular el contenido del poema.
   <!-- feedback: El título no anula el contenido. -->
 
 ### Explicacion Pedagogica
@@ -313,9 +313,9 @@ La llamada "poesía de la experiencia" contemporánea se caracteriza por:
 ### Opciones
 - [ ] A) Evitar toda referencia autobiográfica.
   <!-- feedback: Justamente recupera lo autobiográfico. -->
-- [x] B) Retomar lo cotidiano, lo autobiográfico y lo confesional desde un tono realista.
+- [x] C) Retomar lo cotidiano, lo autobiográfico y lo confesional desde un tono realista.
   <!-- feedback: Esta corriente dialoga con lo vivido. -->
-- [ ] C) Usar solo lenguaje abstracto.
+- [ ] B) Usar solo lenguaje abstracto.
   <!-- feedback: Prefiere imágenes concretas. -->
 - [ ] D) Ser exclusivamente rural.
   <!-- feedback: Abarca lo urbano y rural. -->
@@ -334,9 +334,9 @@ La poesía de la experiencia conecta lo íntimo con lo social, en un lenguaje ac
 Una diferencia clave entre la poesía colombiana del siglo XIX y la contemporánea es:
 
 ### Opciones
-- [x] A) La contemporánea incorpora voces marginadas y temáticas de género, memoria y conflicto.
+- [x] B) La contemporánea incorpora voces marginadas y temáticas de género, memoria y conflicto.
   <!-- feedback: Hay mayor diversidad de voces y temas. -->
-- [ ] B) La del XIX tenía más métrica libre.
+- [ ] A) La del XIX tenía más métrica libre.
   <!-- feedback: Era más rígida en métrica. -->
 - [ ] C) La contemporánea rechaza el castellano.
   <!-- feedback: Se escribe en castellano. -->
@@ -380,9 +380,9 @@ El intertexto es una herramienta clave para leer poesía actual.
 La "performance" poética contemporánea se caracteriza por:
 
 ### Opciones
-- [ ] A) Limitarse a la lectura en voz baja.
+- [ ] B) Limitarse a la lectura en voz baja.
   <!-- feedback: La performance busca impacto escénico. -->
-- [x] B) Integrar voz, cuerpo, música y elementos visuales en la presentación del poema.
+- [x] A) Integrar voz, cuerpo, música y elementos visuales en la presentación del poema.
   <!-- feedback: Combina artes escénicas y poesía. -->
 - [ ] C) Eliminar la presencia del público.
   <!-- feedback: El público es esencial. -->
@@ -405,9 +405,9 @@ La poesía performática amplía los límites del género lírico.
 ### Opciones
 - [ ] A) Porque ya no tiene público.
   <!-- feedback: Tiene nuevos públicos en redes y recitales. -->
-- [x] B) Porque ofrece una experiencia estética pausada, contraria a la inmediatez digital.
+- [x] C) Porque ofrece una experiencia estética pausada, contraria a la inmediatez digital.
   <!-- feedback: La pausa y la contemplación son valores poéticos. -->
-- [ ] C) Porque sus temas son irrelevantes.
+- [ ] B) Porque sus temas son irrelevantes.
   <!-- feedback: Abordan temas vigentes. -->
 - [ ] D) Porque prohíbe la tecnología.
   <!-- feedback: La integra con frecuencia. -->
@@ -426,11 +426,11 @@ La poesía resignifica la experiencia humana en tiempos de sobreinformación.
 Una diferencia entre la poesía intimista y la poesía de protesta social es:
 
 ### Opciones
-- [x] A) La intimista explora el mundo interior del yo; la de protesta denuncia injusticias colectivas.
+- [x] C) La intimista explora el mundo interior del yo; la de protesta denuncia injusticias colectivas.
   <!-- feedback: Son orientaciones complementarias. -->
-- [ ] B) La protesta nunca usa imágenes.
+- [ ] A) La protesta nunca usa imágenes.
   <!-- feedback: Usa imágenes poderosas. -->
-- [ ] C) La intimista evita la emoción.
+- [ ] B) La intimista evita la emoción.
   <!-- feedback: Es profundamente emocional. -->
 - [ ] D) No existen diferencias.
   <!-- feedback: Sí existen enfoques distintos. -->
@@ -472,11 +472,11 @@ La traducción poética es una forma de reescritura que busca recrear la experie
 ¿Qué papel juegan las redes sociales en la difusión de la poesía contemporánea?
 
 ### Opciones
-- [x] A) Amplían el público y permiten nuevas formas de circulación y diálogo.
+- [x] C) Amplían el público y permiten nuevas formas de circulación y diálogo.
   <!-- feedback: Twitter, Instagram y TikTok son nuevas tribunas. -->
-- [ ] B) Eliminan la lectura pausada.
+- [ ] A) Eliminan la lectura pausada.
   <!-- feedback: Pueden promover micropoemas. -->
-- [ ] C) Prohíben la publicación de poemas.
+- [ ] B) Prohíben la publicación de poemas.
   <!-- feedback: Facilitan la publicación. -->
 - [ ] D) Solo sirven para memes.
   <!-- feedback: Abarcan contenidos variados. -->

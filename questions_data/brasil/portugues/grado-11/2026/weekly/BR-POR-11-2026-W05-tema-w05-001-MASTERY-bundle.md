@@ -38,9 +38,9 @@ Qual tipologia textual caracteriza-se por apresentar instruções, ordens, presc
   <!-- feedback: Incorreto. A tipologia narrativa foca no relato de ações de personagens em uma sequência temporal de acontecimentos. -->
 - [ ] B) Tipologia Argumentativa.
   <!-- feedback: Incorreto. A tipologia argumentativa foca na defesa de teses, ideias e pontos de vista lógicos. -->
-- [x] C) Tipologia Injuntiva (ou Instrucional).
+- [x] D) Tipologia Injuntiva (ou Instrucional).
   <!-- feedback: Correto! A tipologia injuntiva instrui, ensina e orienta passos práticos a serem seguidos. -->
-- [ ] D) Tipologia Expositiva.
+- [ ] C) Tipologia Expositiva.
   <!-- feedback: Incorreto. A tipologia expositiva apresenta informações, dados e explicações conceituais de forma neutra, sem ditar ordens. -->
 
 ### Explicacion Pedagogica
@@ -103,9 +103,9 @@ A tipologia narrativa estrutura-se em torno de uma linha temporal de desenvolvim
 O verbete de enciclopédia é regido prioritariamente pela tipologia textual:
 
 ### Opciones
-- [ ] A) Narrativa de suspense, buscando contar histórias de ficção de fantasmas assustadores nas trilhas paulistas da mata.
+- [ ] B) Narrativa de suspense, buscando contar histórias de ficção de fantasmas assustadores nas trilhas paulistas da mata.
   <!-- feedback: Incorreto. Enciclopédias de referência trazem fatos reais de ciência, longe de focar em suspense ou histórias de ficção. -->
-- [x] B) Expositiva, pois apresenta informações conceituais, dados geográficos e explicações objetivas sobre a mata sem debater opiniões pessoais.
+- [x] A) Expositiva, pois apresenta informações conceituais, dados geográficos e explicações objetivas sobre a mata sem debater opiniões pessoais.
   <!-- feedback: Correto! Apresentar um conceito e explicá-lo cientificamente de forma neutra caracteriza a tipologia expositiva. -->
 - [ ] C) Injuntiva, com o intuito de dar ordens imperativas punindo o leitor que não plantar árvores tropicais na hora paulista.
   <!-- feedback: Incorreto. O verbete é puramente informativo e conceitual, livre de comandos diretivos imperativos de leis penais. -->
@@ -176,11 +176,11 @@ O trecho de relatório ambiental acima emprega de forma integrada quais sequênc
 ### Opciones
 - [ ] A) Sequência Narrativa, com o intuito de narrar a lenda mística dos deuses indígenas das lagoas de Santa Catarina de forma teatral.
   <!-- feedback: Incorreto. O texto é factual, científico e descritivo de medição física real, longe de mitologias lúdicas indígenas de ficção. -->
-- [x] B) Sequência Descritiva (retrato estático físico do estado atual da água) a serviço da Exposição (fornecer dados científicos neutros ao governo).
+- [x] D) Sequência Descritiva (retrato estático físico do estado atual da água) a serviço da Exposição (fornecer dados científicos neutros ao governo).
   <!-- feedback: Correto! A descrição das qualidades da água ("turva", "odor forte") dá suporte à exposição de dados factuais do diagnóstico técnico. -->
-- [ ] C) Sequência Injuntiva de debate partidário, ordenando que o leitor mude de partido político imediatamente no Paraná de forma irônica.
+- [ ] B) Sequência Injuntiva de debate partidário, ordenando que o leitor mude de partido político imediatamente no Paraná de forma irônica.
   <!-- feedback: Incorreto. Não há discussões partidárias de deboche nem ordens diretivas civis penais de imperativo no trecho de relatório. -->
-- [ ] D) Sequência de Ficção Científica pura, relatando as viagens de peixes falantes mecânicos em rios de mercúrio de florestas rústicas do sul.
+- [ ] C) Sequência de Ficção Científica pura, relatando as viagens de peixes falantes mecânicos em rios de mercúrio de florestas rústicas do sul.
   <!-- feedback: Incorreto. O texto lida com ecologia real mensurável de poluição urbana, sem peixes falantes mecânicos ou fantasia literária de robôs. -->
 
 ### Explicacion Pedagogica
@@ -199,9 +199,9 @@ Sob a ótica dos estudos tipológicos de redação, o edital de vestibular utili
 ### Opciones
 - [ ] A) Tipologia Poética barroca de sonetos, para comover e consolar docemente os jovens que perderam as provas gaúchas de vestibular.
   <!-- feedback: Incorreto. Editais são secos, formais, burocráticos e impessoais, distanciando-se de consolações de poesias líricas barrocas de vestibular. -->
-- [ ] B) Tipologia Narrativa de ficção policial, para contar histórias divertidas de detetives particulares correndo atrás de alunos atrasados de Porto Alegre.
+- [ ] C) Tipologia Narrativa de ficção policial, para contar histórias divertidas de detetives particulares correndo atrás de alunos atrasados de Porto Alegre.
   <!-- feedback: Incorreto. O foco de regulamentos de vestibulares não é ficção policial recreativa, mas sim estipular termos civis e regras formais de seleção. -->
-- [x] C) Tipologia Injuntiva (ou Prescritiva), pois estabelece normas legais obrigatórias, ordens formais e procedimentos que os candidatos devem seguir.
+- [x] B) Tipologia Injuntiva (ou Prescritiva), pois estabelece normas legais obrigatórias, ordens formais e procedimentos que os candidatos devem seguir.
   <!-- feedback: Correto! Regulamentos oficiais, leis estatais e editais públicos operam com tipologia prescritiva injuntiva para padronizar comportamentos. -->
 - [ ] D) Tipologia Descritiva de luxo, com o objetivo de elogiar de forma poética a beleza física dos portões de metal das escolas gaúchas.
   <!-- feedback: Incorreto. Não há adjetivação lírica de beleza dos portões, mas sim estipulação formal e rígida de horários e regras civis de fechamento. -->
@@ -222,9 +222,9 @@ O produtor do texto de divulgação científica de Recife equilibra as tipologia
 ### Opciones
 - [ ] A) Narre histórias de suspense medievais de heróis lendários que lutavam contra dragões cuspidores de fogo nas serras de Pernambuco de forma poética.
   <!-- feedback: Incorreto. Divulgação de novas energias limpas de grafeno lida com ciência de ponta real e física moderna, livre de lendas de dragões medievais. -->
-- [x] B) Combinar a Exposição (definir o grafeno e explicar cientificamente o painel solar) com a Descrição técnica (detalhar a flexibilidade e cor física dos painéis).
+- [x] C) Combinar a Exposição (definir o grafeno e explicar cientificamente o painel solar) com a Descrição técnica (detalhar a flexibilidade e cor física dos painéis).
   <!-- feedback: Correto! Apresentar dados explicativos neutros amparados em retratos detalhados físicos de materiais científicos de ponta é a espinha do gênero. -->
-- [ ] C) Usar a Injuntiva penal punitiva, com ordens judiciais de prisão imediata para os moradores de Recife que não instalarem grafeno nas lajes das casas.
+- [ ] B) Usar a Injuntiva penal punitiva, com ordens judiciais de prisão imediata para os moradores de Recife que não instalarem grafeno nas lajes das casas.
   <!-- feedback: Incorreto. Divulgação científica informa e conscientiza de forma didática amigável, sem poder jurídico penal de prisões e multas fiscais de prefeitura. -->
 - [ ] D) Expor poesias líricas clássicas com rimas de Bossa Nova nas mídias sociais para cantar de forma romântica o sol nordestino.
   <!-- feedback: Incorreto. É um texto informativo e técnico de engenharia aplicada e inovação física, sem metas de canções românticas de Bossa Nova de praia. -->
@@ -247,9 +247,9 @@ No anúncio de moda corporativa paulistano, as escolhas linguísticas de qualifi
   <!-- feedback: Incorreto. O texto promocional de terno de grife de loja visa vendas corporativas rápidas de roupas de luxo, longe de teses de sociologia agrária. -->
 - [ ] B) Tipologia Narrativa de suspense, relatando o romance fictício de amor de dois alfaiates medievais na Itália quinhentista paulista.
   <!-- feedback: Incorreto. Não há relatos temporais cronológicos de dramas românticos de ficção medieval, apenas descrição promocional moderna de tecido de roupa. -->
-- [x] C) Tipologia Descritiva (retrato estático de propriedades luxuosas e qualidades do terno) com o intuito conativo de seduzir e convencer o comprador.
+- [x] D) Tipologia Descritiva (retrato estático de propriedades luxuosas e qualidades do terno) com o intuito conativo de seduzir e convencer o comprador.
   <!-- feedback: Correto! Apresentar os traços físicos positivos de requinte do produto apoia o apelo conativo publicitário de venda corporativa. -->
-- [ ] D) Tipologia Injuntiva de leis federais, prescrevendo instruções obrigatórias e passos punitivos para o uso do terno na prefeitura de São Paulo.
+- [ ] C) Tipologia Injuntiva de leis federais, prescrevendo instruções obrigatórias e passos punitivos para o uso do terno na prefeitura de São Paulo.
   <!-- feedback: Incorreto. Anúncios sugerem de forma comercial atraente o produto, livre de coerções penais obrigatórias de textos de leis de editais. -->
 
 ### Explicacion Pedagogica
@@ -267,9 +267,9 @@ A descrição publicitária (tipologia descritiva) atua a serviço da persuasão
 Sob a análise científica das sequências tipológicas desse texto biológico, conclui-se que o autor de Letras emprega:
 
 ### Opciones
-- [ ] A) A tipologia narrativa romântica, com diálogos de amor bucólicos fictícios de ninfas aquáticas nos rios tropicais em silêncio.
+- [ ] B) A tipologia narrativa romântica, com diálogos de amor bucólicos fictícios de ninfas aquáticas nos rios tropicais em silêncio.
   <!-- feedback: Incorreto. O agrônomo descreve anatomia biológica real de flutuação vegetal, livre de mitologias gregas infantis românticas de ninfas. -->
-- [x] B) A tipologia expositiva (explicar processos de fotossíntese de energia) amparada na tipologia descritiva (detalhar os canais internos físicos de flutuação vegetal).
+- [x] A) A tipologia expositiva (explicar processos de fotossíntese de energia) amparada na tipologia descritiva (detalhar os canais internos físicos de flutuação vegetal).
   <!-- feedback: Correto! A exposição conceitual de botânica de longo prazo assenta-se perfeitamente sobre retratos estruturais de folhas reais de flutuação. -->
 - [ ] C) A tipologia argumentativa partidária de debates, visando atacar as prefeituras paulistas de forma irônica nas mídias sociais do Paraná.
   <!-- feedback: Incorreto. Não há debates partidários de deboche contra prefeituras ou censuras políticas estaduais no trecho do agrônomo de Manaus. -->
@@ -292,11 +292,11 @@ Qual tipologia textual rege prioritariamente a leitura da notícia do crime no r
 ### Opciones
 - [ ] A) Tipologia Poética barroca de rimas ricas religiosas, para converter a mente do quadrilheiro à fé católica lusa medieval em silêncio.
   <!-- feedback: Incorreto. O locutor lê notícia de crime policial de asfalto de forma factual denotativa rápida, livre de sermões de poesias líricas barrocas medievais. -->
-- [x] B) Tipologia Narrativa (relatar as ações do crime e a subsequente prisão pela polícia de forma rápida no tempo cronológico de ontem).
+- [x] D) Tipologia Narrativa (relatar as ações do crime e a subsequente prisão pela polícia de forma rápida no tempo cronológico de ontem).
   <!-- feedback: Correto! O relato cronológico de fatos policiais sucessivos reais quentes caracteriza a narração jornalística diária rápida. -->
-- [ ] C) Tipologia Injuntiva técnica de receitas culinárias, prescrevendo temperos de comida de forma de bulas farmacêuticas na hora paulista.
+- [ ] B) Tipologia Injuntiva técnica de receitas culinárias, prescrevendo temperos de comida de forma de bulas farmacêuticas na hora paulista.
   <!-- feedback: Incorreto. Não se trazem receitas culinárias ou temperos de jantares no boletim de crime de fraudes de cartórios paulistanos. -->
-- [ ] D) Tipologia Argumentativa de tese de doutorado de linguística lusa, para analisar a acentuação ortográfica oficial das palavras usadas no boletim.
+- [ ] C) Tipologia Argumentativa de tese de doutorado de linguística lusa, para analisar a acentuação ortográfica oficial das palavras usadas no boletim.
   <!-- feedback: Incorreto. Notícias policiais de rádio são ágeis e directas para o público pedestre do trânsito, livres de pedantismos ou teses acadêmicas de filologia. -->
 
 ### Explicacion Pedagogica
@@ -314,9 +314,9 @@ O boletim de rádio de notícias quentes policiais estrutura-se sobre a tipologi
 Assinale a opção que indica corretamente a função retórica de inserir sequências narrativas em textos argumentativos de sermões:
 
 ### Opciones
-- [ ] A) Proibir que fiéis participem de pescarias e multar os marinheiros portugueses de Salvador com base em leis do trânsito marinho.
+- [ ] B) Proibir que fiéis participem de pescarias e multar os marinheiros portugueses de Salvador com base em leis do trânsito marinho.
   <!-- feedback: Incorreto. O padre prega teologia moral e ética bíblica nas igrejas coloniais baianas, sem poder fiscal de aplicação de multas de trânsito marinhas. -->
-- [x] B) Servir de alegoria didática ilustrativa de grande impacto visual para prender a atenção do ouvinte e legitimar a tese teológica defendida.
+- [x] A) Servir de alegoria didática ilustrativa de grande impacto visual para prender a atenção do ouvinte e legitimar a tese teológica defendida.
   <!-- feedback: Correto! Histórias ilustrativas ou parábolas narrativas rápidas atuam para clarificar e reforçar o raciocínio lógico argumentativo do orador barroco. -->
 - [ ] C) Oferecer um manual de computação abstrato para os engenheiros civis jesuítas programarem robôs industriais em silêncio de florestas.
   <!-- feedback: Incorreto. Vieira escreve literatura sacra colonial barroca de 1650, séculos antes de computadores ou linguagens de robôs eletrônicos de rede. -->
@@ -342,9 +342,9 @@ Analisando a estrutura linguística do regulamento de emergência de refinaria p
   <!-- feedback: Incorreto. Situações de vazamento de gases industriais exigem instruções secas diretas de vida ou morte, livre de consolações românticas de poesias de amor. -->
 - [ ] B) Tipologia Narrativa de suspense, relatando a história fictícia de heróis de informática que lutam contra fantasmas nas salas de computação.
   <!-- feedback: Incorreto. Regulamentos operam de forma diretiva preventiva de engenharia de segurança, sem suspense ou heróis de romances de ficção. -->
-- [x] C) Tipologia Prescritiva (injuntiva de alta obrigatoriedade legal de procedimentos), ditando condutas físicas obrigatórias rígidas de segurança por meio de verbos no imperativo.
+- [x] D) Tipologia Prescritiva (injuntiva de alta obrigatoriedade legal de procedimentos), ditando condutas físicas obrigatórias rígidas de segurança por meio de verbos no imperativo.
   <!-- feedback: Correto! "Ao soar o alarme... interrompa, dirija-se" estabelece de forma rígida a conduta salvadora sob riscos reais de explosões paulistas. -->
-- [ ] D) Tipologia Descritiva de luxo, qualificando com requinte e adjetivos de cores a beleza física das chamas de fogo nos tanques de petróleo.
+- [ ] C) Tipologia Descritiva de luxo, qualificando com requinte e adjetivos de cores a beleza física das chamas de fogo nos tanques de petróleo.
   <!-- feedback: Incorreto. O regulamento visa salvar vidas humanas de trabalhadores da fábrica paulistana de refinaria, sem elogiar esteticamente cores de incêndios. -->
 
 ### Explicacion Pedagogica
@@ -388,9 +388,9 @@ Assinale a opção que indica de forma correta o papel da sequência descritiva 
 ### Opciones
 - [ ] A) Invalidar a redação paulista de vez, haja vista que redações do ENEM proíbem o uso de adjetivos ou qualificações físicas no asfalto em silêncio.
   <!-- feedback: Incorreto. Adjetivos qualificativos e descrições técnicas de dados de saneamento enriquecem a tese de debate argumentativo (Competência 3). -->
-- [x] B) Funcionar como forte sustentação factual ilustrativa, dando concretude física do asfalto à tese abstrata de debate contra o descaso das prefeituras paulistas.
+- [x] C) Funcionar como forte sustentação factual ilustrativa, dando concretude física do asfalto à tese abstrata de debate contra o descaso das prefeituras paulistas.
   <!-- feedback: Correto! Descrever as condições reais da favela de São Paulo de forma cirúrgica legitima a cobrança ética e política da tese do candidato. -->
-- [ ] C) Mudar o gênero da redação dissertativa para romance de ficção policial e forçar a banca do ENEM a pontuar o texto como poesia lírica barroca de rimas.
+- [ ] B) Mudar o gênero da redação dissertativa para romance de ficção policial e forçar a banca do ENEM a pontuar o texto como poesia lírica barroca de rimas.
   <!-- feedback: Incorreto. Inserir pequenas descrições não altera o gênero dissertativo estrutural para romance de ficção policial, nem transforma redação em sonetos de rimas. -->
 - [ ] D) Obrigar os corretores de redação do ENEM a visitarem fisicamente as obras públicas da prefeitura de São Paulo de metrô na hora da correção de notas.
   <!-- feedback: Incorreto. Corretores corrigem as redações com base no texto padrão escrito entregue de forma virtual, sem viagens obrigatórias ao asfalto. -->
@@ -410,11 +410,11 @@ Nas redações formais do ENEM (Competência 3), sequências descritivas precisa
 Avalie criticamente o impacto dessa escolha tipológica na formação da consciência social dos internautas brasileiros leitores:
 
 ### Opciones
-- [ ] A) A narrativização é inquestionavelmente positiva de verdade porque proíbe o debate de teorias científicas difíceis e educa o cérebro das pessoas em Porto Alegre de forma mecânica.
+- [ ] B) A narrativização é inquestionavelmente positiva de verdade porque proíbe o debate de teorias científicas difíceis e educa o cérebro das pessoas em Porto Alegre de forma mecânica.
   <!-- feedback: Incorreto. A narrativização dramática isolada enfraquece a compreensão conceitual macroscópica das falhas de engenharia do asfalto e de canais estaduais. -->
-- [ ] B) Os portais gaúchos deveriam ser punidos judicialmente por crime de lesa-pátria contra as regras de notícias de Portugal de 1500 por usarem histórias humanas reais de celular.
+- [ ] C) Os portais gaúchos deveriam ser punidos judicialmente por crime de lesa-pátria contra as regras de notícias de Portugal de 1500 por usarem histórias humanas reais de celular.
   <!-- feedback: Incorreto. Contar histórias humanas reais de resgates não constitui crime civil de trânsito; a queixa é de balanço tipológico investigativo jornalístico. -->
-- [x] C) A ênfase na narrativa dramática individual apela ao melodrama sensorial rápido (comove o leitor receptor), mas desvia a atenção pública das causas estruturais de descaso de saneamento básico governamental de longo prazo.
+- [x] A) A ênfase na narrativa dramática individual apela ao melodrama sensorial rápido (comove o leitor receptor), mas desvia a atenção pública das causas estruturais de descaso de saneamento básico governamental de longo prazo.
   <!-- feedback: Correto! Focar apenas em dramas de suspense individuais esvazia a crítica expositiva racional e científica sobre obras públicas de asfalto e canais de escoamento. -->
 - [ ] D) O uso de narrativas de suspense de enchentes foi inventado por robôs de informática paulistas em 2026 para humilhar os professores de Letras gaúchos de forma lúdica.
   <!-- feedback: Incorreto. Trata-se de uma estratégia mercadológica humana de cliques rápidos corporativos na web eletrônica contemporânea de rede de mídias. -->
@@ -460,11 +460,11 @@ Considerando essa fundamentação científica de Letras, avalie qual diagnóstic
 ### Opciones
 - [ ] A) O romance de Machado falha por completo se houver inserção de diálogos em meio a trechos de descrição física das carruagens do Rio de Janeiro.
   <!-- feedback: Incorreto. O hibridismo machadiano de alternar reflexões críticas com descrições irônicas cariocas é exatamente o ápice de sua genialidade literária. -->
-- [x] B) O romance possui tipologia narrativa como dominante (linha temporal de ações do Rio imperial), valendo-se de longas sequências descritivas e argumentações irônicas do narrador de forma integrada.
+- [x] D) O romance possui tipologia narrativa como dominante (linha temporal de ações do Rio imperial), valendo-se de longas sequências descritivas e argumentações irônicas do narrador de forma integrada.
   <!-- feedback: Correto! As sequências heterogêneas se apoiam e se alternam dinamicamente sob a regência dramática da narrativa machadiana carioca de prestígio. -->
-- [ ] C) As tipologias machadianas entram em colapso total impossibilitando que os alunos de Letras da USP compreendam a língua portuguesa escrita de Machado de Assis.
+- [ ] B) As tipologias machadianas entram em colapso total impossibilitando que os alunos de Letras da USP compreendam a língua portuguesa escrita de Machado de Assis.
   <!-- feedback: Incorreto. A prosa machadiana é modelo de elegância e fluidez sintática culta literária, amplamente estudada em vestibular de Letras de todas as universidades paulistas. -->
-- [ ] D) A única tipologia que rege de verdade os livros de Machado de Assis é a injutiva de receitas culinárias de doces baianos do século dezoito de forma de bulas de remédio.
+- [ ] C) A única tipologia que rege de verdade os livros de Machado de Assis é a injutiva de receitas culinárias de doces baianos do século dezoito de forma de bulas de remédio.
   <!-- feedback: Incorreto. Machado de Assis escreve literatura clássica de ficção realista de alta costura humana psicológica e não manuais instrucionais agrários ou de temperos de cozinha de colônia. -->
 
 ### Explicacion Pedagogica
@@ -481,11 +481,11 @@ A teoria das sequências textuais de Jean-Michel Adam explica que os textos reai
 Considerando os riscos físicos reais de queimaduras na pele e paradas cardíacas graves, avalie qual design de texto e escolha de sequências tipológicas garante a maior eficácia pragmática de primeiros socorros de vida ou morte no asfalto:
 
 ### Opciones
-- [ ] A) Soneto lírico clássico em versos alexandrinos repletos de rimas ricas e declarações de amor românticas dedicadas aos deuses da eletricidade romana antiga em silêncio.
+- [ ] B) Soneto lírico clássico em versos alexandrinos repletos de rimas ricas e declarações de amor românticas dedicadas aos deuses da eletricidade romana antiga em silêncio.
   <!-- feedback: Incorreto. Situações de emergência médica de choque elétrico demandam instruções visuais e passos práticos imediatos, livre de sonetos barrocos de amor. -->
-- [ ] B) Dissertação acadêmica de doutorado de cem páginas debatendo o orçamento estatal de asfalto e as leis financeiras do mercado de cobre de forma de tese abstrata de economia.
+- [ ] C) Dissertação acadêmica de doutorado de cem páginas debatendo o orçamento estatal de asfalto e as leis financeiras do mercado de cobre de forma de tese abstrata de economia.
   <!-- feedback: Incorreto. O morador leigo desesperado diante de um acidente elétrico doméstico imediato não lerá teses econômicas de longo prazo de Brasília de forma acadêmica. -->
-- [x] C) O infográfico visual misto (sequência injutiva instrucional de passos diretos numerados de primeiros socorros) com verbos no imperativo associados a desenhos claros de segurança de celular.
+- [x] A) O infográfico visual misto (sequência injutiva instrucional de passos diretos numerados de primeiros socorros) com verbos no imperativo associados a desenhos claros de segurança de celular.
   <!-- feedback: Correto! Desenhos de passos numerados associados a comandos simples ("Desligue o disjuntor na hora, Afaste a vítima com madeira") salvam vidas em segundos. -->
 - [ ] D) Certidão de casamento civil burocrática padrão de cartório municipal de Brasília assinada em papel de pergaminho oficial sem desenhos ou instruções.
   <!-- feedback: Incorreto. Certidões públicas são registros formais burocráticos de estado civil de cartórios federais, sem utilidade médica para choques elétricos de emergência de asfalto. -->

@@ -36,8 +36,8 @@ Cultural identity is the sense of belonging to a particular group, often defined
 
 ### Opciones
 - [ ] A) isolation <!-- feedback: Incorrect. Identity usually involves belonging to a group. -->
-- [x] B) belonging <!-- feedback: Correct. Belonging is the feeling of being part of something. -->
-- [ ] C) confusion <!-- feedback: Incorrect. While some feel identity confusion, the basic definition is about belonging. -->
+- [x] C) belonging <!-- feedback: Correct. Belonging is the feeling of being part of something. -->
+- [ ] B) confusion <!-- feedback: Incorrect. While some feel identity confusion, the basic definition is about belonging. -->
 - [ ] D) distance <!-- feedback: Incorrect. Identity implies closeness to a culture. -->
 
 ### Explicacion Pedagogica
@@ -56,9 +56,9 @@ Many immigrants are pressured into assimilating into the dominant culture of the
 
 ### Opciones
 - [ ] A) assimilate <!-- feedback: Incorrect. Passive voice needs 'assimilating' or 'assimilated'. -->
-- [x] B) assimilating into <!-- feedback: Correct. 'Pressure into + -ing' is a standard structure. -->
-- [ ] C) assimilate in <!-- feedback: Incorrect preposition. -->
-- [ ] D) assimilated <!-- feedback: Incorrect. -->
+- [x] D) assimilating into <!-- feedback: Correct. 'Pressure into + -ing' is a standard structure. -->
+- [ ] B) assimilate in <!-- feedback: Incorrect preposition. -->
+- [ ] C) assimilated <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
 The structure 'pressure (someone) into + gerund' is used to describe forced or strongly encouraged behavior.
@@ -76,9 +76,9 @@ If we didn't document these oral traditions, they would eventually be lost forev
 
 ### Opciones
 - [ ] A) don't document <!-- feedback: Incorrect. First conditional. -->
-- [x] B) didn't document <!-- feedback: Correct. Second conditional for a hypothetical present change. -->
-- [ ] C) hadn't documented <!-- feedback: Incorrect. Third conditional. -->
-- [ ] D) wouldn't document <!-- feedback: Incorrect. 'Would' not in 'if' clause. -->
+- [x] D) didn't document <!-- feedback: Correct. Second conditional for a hypothetical present change. -->
+- [ ] B) hadn't documented <!-- feedback: Incorrect. Third conditional. -->
+- [ ] C) wouldn't document <!-- feedback: Incorrect. 'Would' not in 'if' clause. -->
 
 ### Explicacion Pedagogica
 The second conditional 'if + past simple' describes the imaginary result of failing to preserve traditions.
@@ -95,8 +95,8 @@ The second conditional 'if + past simple' describes the imaginary result of fail
 Heritage refers to the traditions, achievements, and beliefs that are part of the history of a group or nation.
 
 ### Opciones
-- [x] A) Heritage <!-- feedback: Correct. Heritage is what is inherited from past generations. -->
-- [ ] B) Future <!-- feedback: Incorrect. Heritage focuses on the past. -->
+- [x] B) Heritage <!-- feedback: Correct. Heritage is what is inherited from past generations. -->
+- [ ] A) Future <!-- feedback: Incorrect. Heritage focuses on the past. -->
 - [ ] C) Fashion <!-- feedback: Incorrect. Fashion is short-term and often changing. -->
 - [ ] D) Budget <!-- feedback: Incorrect. Financial plan. -->
 
@@ -116,8 +116,8 @@ Multiculturalism is a policy that recognizes and supports the presence of multip
 
 ### Opciones
 - [ ] A) rejects <!-- feedback: Incorrect. Multiculturalism supports diversity. -->
-- [x] B) recognizes <!-- feedback: Correct. To recognize means to acknowledge the existence or validity of. -->
-- [ ] C) ignores <!-- feedback: Incorrect. Multiculturalism actively acknowledges groups. -->
+- [x] C) recognizes <!-- feedback: Correct. To recognize means to acknowledge the existence or validity of. -->
+- [ ] B) ignores <!-- feedback: Incorrect. Multiculturalism actively acknowledges groups. -->
 - [ ] D) forbids <!-- feedback: Incorrect. Opposite of support. -->
 
 ### Explicacion Pedagogica
@@ -136,9 +136,9 @@ A person who is bilingual is able to speak two languages fluently.
 
 ### Opciones
 - [ ] A) monolingual <!-- feedback: Incorrect. Speaks one language. -->
-- [x] B) bilingual <!-- feedback: Correct. 'Bi-' means two. -->
-- [ ] C) illiterate <!-- feedback: Incorrect. Unable to read or write. -->
-- [ ] D) mute <!-- feedback: Incorrect. Unable to speak. -->
+- [x] D) bilingual <!-- feedback: Correct. 'Bi-' means two. -->
+- [ ] B) illiterate <!-- feedback: Incorrect. Unable to read or write. -->
+- [ ] C) mute <!-- feedback: Incorrect. Unable to speak. -->
 
 ### Explicacion Pedagogica
 'Bilingual' is the standard term for proficiency in two languages.
@@ -156,9 +156,9 @@ Indigenous languages are being revitalized through new educational programs and 
 
 ### Opciones
 - [ ] A) are revitalizing <!-- feedback: Incorrect. Active voice. -->
-- [x] B) are being revitalized <!-- feedback: Correct. Present continuous passive for an ongoing positive process. -->
-- [ ] C) revitalized <!-- feedback: Incorrect. Past simple. -->
-- [ ] D) have revitalized <!-- feedback: Incorrect. Active voice. -->
+- [x] D) are being revitalized <!-- feedback: Correct. Present continuous passive for an ongoing positive process. -->
+- [ ] B) revitalized <!-- feedback: Incorrect. Past simple. -->
+- [ ] C) have revitalized <!-- feedback: Incorrect. Active voice. -->
 
 ### Explicacion Pedagogica
 The present continuous passive describes the current and active process of bringing languages back to use.
@@ -176,9 +176,9 @@ A diaspora is a scattered population whose origin lies in a separate geographic 
 
 ### Opciones
 - [ ] A) community <!-- feedback: Incorrect. Too broad. -->
-- [x] B) diaspora <!-- feedback: Correct. Specific term for a group dispersed from its homeland. -->
-- [ ] C) colony <!-- feedback: Incorrect. A colony is usually established by a state. -->
-- [ ] D) crowd <!-- feedback: Incorrect. A casual gathering. -->
+- [x] D) diaspora <!-- feedback: Correct. Specific term for a group dispersed from its homeland. -->
+- [ ] B) colony <!-- feedback: Incorrect. A colony is usually established by a state. -->
+- [ ] C) crowd <!-- feedback: Incorrect. A casual gathering. -->
 
 ### Explicacion Pedagogica
 'Diaspora' is the technical term for a community that has moved from its original homeland to various other places.
@@ -196,9 +196,9 @@ She had been living in the city for years before she decided to reconnect with h
 
 ### Opciones
 - [ ] A) was living <!-- feedback: Incorrect. Past continuous. -->
-- [x] B) had been living <!-- feedback: Correct. Past perfect continuous for duration before a past decision. -->
-- [ ] C) has been living <!-- feedback: Incorrect. Present perfect continuous. -->
-- [ ] D) lived <!-- feedback: Incorrect. Past simple. -->
+- [x] D) had been living <!-- feedback: Correct. Past perfect continuous for duration before a past decision. -->
+- [ ] B) has been living <!-- feedback: Incorrect. Present perfect continuous. -->
+- [ ] C) lived <!-- feedback: Incorrect. Past simple. -->
 
 ### Explicacion Pedagogica
 The past perfect continuous highlights the long duration of her urban life preceding her change in perspective.
@@ -216,8 +216,8 @@ Cultural homogenization refers to the process by which local cultures are reduce
 
 ### Opciones
 - [ ] A) diversity <!-- feedback: Incorrect. Homogenization reduces diversity. -->
-- [x] B) homogenization <!-- feedback: Correct. The process of making things uniform or similar. -->
-- [ ] C) appreciation <!-- feedback: Incorrect. Homogenization is usually seen as a negative loss. -->
+- [x] C) homogenization <!-- feedback: Correct. The process of making things uniform or similar. -->
+- [ ] B) appreciation <!-- feedback: Incorrect. Homogenization is usually seen as a negative loss. -->
 - [ ] D) celebration <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
@@ -236,9 +236,9 @@ Social norms are the unwritten rules of behavior that are considered acceptable 
 
 ### Opciones
 - [ ] A) Laws <!-- feedback: Incorrect. Laws are written. -->
-- [x] B) Norms <!-- feedback: Correct. Unwritten social expectations. -->
-- [ ] C) Crimes <!-- feedback: Incorrect. Violations of laws. -->
-- [ ] D) Jokes <!-- feedback: Incorrect. Humor. -->
+- [x] D) Norms <!-- feedback: Correct. Unwritten social expectations. -->
+- [ ] B) Crimes <!-- feedback: Incorrect. Violations of laws. -->
+- [ ] C) Jokes <!-- feedback: Incorrect. Humor. -->
 
 ### Explicacion Pedagogica
 'Norms' is the sociological term for the informal rules that guide social interaction.
@@ -276,9 +276,9 @@ Acculturation is the process of social, psychological, and cultural change that 
 
 ### Opciones
 - [ ] A) Isolation <!-- feedback: Incorrect. Acculturation requires contact. -->
-- [x] B) Acculturation <!-- feedback: Correct. Specific term for the meeting of cultures. -->
-- [ ] C) Ignorance <!-- feedback: Incorrect. -->
-- [ ] D) Conflict <!-- feedback: Incorrect. While conflict may occur, acculturation is the broader process of change. -->
+- [x] D) Acculturation <!-- feedback: Correct. Specific term for the meeting of cultures. -->
+- [ ] B) Ignorance <!-- feedback: Incorrect. -->
+- [ ] C) Conflict <!-- feedback: Incorrect. While conflict may occur, acculturation is the broader process of change. -->
 
 ### Explicacion Pedagogica
 'Acculturation' describes the complex process of adapting to a new culture while maintaining some of one's own.
@@ -296,9 +296,9 @@ If you had traveled more, you would have a better understanding of different cul
 
 ### Opciones
 - [ ] A) traveled <!-- feedback: Incorrect. Second conditional. -->
-- [x] B) had traveled <!-- feedback: Correct. Mixed conditional (past action, present result). -->
-- [ ] C) have traveled <!-- feedback: Incorrect. Present perfect. -->
-- [ ] D) would travel <!-- feedback: Incorrect. 'Would' not in 'if' clause. -->
+- [x] D) had traveled <!-- feedback: Correct. Mixed conditional (past action, present result). -->
+- [ ] B) have traveled <!-- feedback: Incorrect. Present perfect. -->
+- [ ] C) would travel <!-- feedback: Incorrect. 'Would' not in 'if' clause. -->
 
 ### Explicacion Pedagogica
 The mixed conditional connects a past hypothetical experience (traveling) with a present state of knowledge.
@@ -316,8 +316,8 @@ The author concludes that cultural hybridity is a creative force that leads to t
 
 ### Opciones
 - [ ] A) destructive <!-- feedback: Incorrect. The author sees it as creative and vibrant. -->
-- [x] B) hybridity <!-- feedback: Correct. Hybridity is the quality of being made of different parts. -->
-- [ ] C) isolation <!-- feedback: Incorrect. Hybridity involves mixing. -->
+- [x] C) hybridity <!-- feedback: Correct. Hybridity is the quality of being made of different parts. -->
+- [ ] B) isolation <!-- feedback: Incorrect. Hybridity involves mixing. -->
 - [ ] D) stagnation <!-- feedback: Incorrect. Leads to new forms. -->
 
 ### Explicacion Pedagogica
@@ -356,9 +356,9 @@ I am looking forward to visiting my ancestral home for the first time.
 
 ### Opciones
 - [ ] A) to visit <!-- feedback: Incorrect. 'Looking forward to' is followed by -ing. -->
-- [x] B) to visiting <!-- feedback: Correct. 'Look forward to + gerund'. -->
-- [ ] C) visit <!-- feedback: Incorrect. -->
-- [ ] D) for visiting <!-- feedback: Incorrect preposition. -->
+- [x] D) to visiting <!-- feedback: Correct. 'Look forward to + gerund'. -->
+- [ ] B) visit <!-- feedback: Incorrect. -->
+- [ ] C) for visiting <!-- feedback: Incorrect preposition. -->
 
 ### Explicacion Pedagogica
 The phrasal verb 'look forward to' requires the following verb to be in the gerund form.
@@ -376,9 +376,9 @@ Cultural appropriation often involves the adoption of elements of one culture by
 
 ### Opciones
 - [ ] A) appreciation <!-- feedback: Incorrect. Appreciation is positive. -->
-- [x] B) appropriation <!-- feedback: Correct. Specific term for the controversial adoption of elements. -->
-- [ ] C) documentation <!-- feedback: Incorrect. Recording. -->
-- [ ] D) silence <!-- feedback: Incorrect. -->
+- [x] D) appropriation <!-- feedback: Correct. Specific term for the controversial adoption of elements. -->
+- [ ] B) documentation <!-- feedback: Incorrect. Recording. -->
+- [ ] C) silence <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
 'Appropriation' is the term for taking cultural elements, often from a marginalized group, for one's own use.
@@ -396,8 +396,8 @@ The sociologist argued that identity was a dynamic and constantly evolving const
 
 ### Opciones
 - [ ] A) is <!-- feedback: Incorrect. Backshifted in reported speech. -->
-- [x] B) was <!-- feedback: Correct. Backshifted from 'is' to 'was' to match the past tense 'argued'. -->
-- [ ] C) will be <!-- feedback: Incorrect. Future. -->
+- [x] C) was <!-- feedback: Correct. Backshifted from 'is' to 'was' to match the past tense 'argued'. -->
+- [ ] B) will be <!-- feedback: Incorrect. Future. -->
 - [ ] D) have been <!-- feedback: Incorrect. Present perfect. -->
 
 ### Explicacion Pedagogica
@@ -415,8 +415,8 @@ In reported speech, we backshift the tense of the original statement to show it 
 Respect for cultural differences is essential for maintaining social harmony in a diverse world.
 
 ### Opciones
-- [x] A) harmony <!-- feedback: Correct. Agreement or concord. -->
-- [ ] B) conflict <!-- feedback: Incorrect. Respect reduces conflict. -->
+- [x] B) harmony <!-- feedback: Correct. Agreement or concord. -->
+- [ ] A) conflict <!-- feedback: Incorrect. Respect reduces conflict. -->
 - [ ] C) isolation <!-- feedback: Incorrect. Respect fosters connection. -->
 - [ ] D) ignorance <!-- feedback: Incorrect. Respect requires awareness. -->
 

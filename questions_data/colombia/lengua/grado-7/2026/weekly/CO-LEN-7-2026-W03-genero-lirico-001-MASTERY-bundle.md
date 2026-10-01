@@ -53,8 +53,8 @@ El poema tiene una estructura visual y rítmica distinta a la prosa. Se organiza
 ¿Cómo se denomina la repetición de sonidos a partir de la última vocal acentuada en dos o más versos?
 
 ### Opciones
-- [ ] A) Métrica <!-- feedback: Incorrecto. La métrica es la medida o número de sílabas de un verso. -->
-- [x] B) Rima <!-- feedback: ¡Correcto! La rima es la igualdad o semejanza de sonidos finales entre versos. -->
+- [ ] B) Métrica <!-- feedback: Incorrecto. La métrica es la medida o número de sílabas de un verso. -->
+- [x] A) Rima <!-- feedback: ¡Correcto! La rima es la igualdad o semejanza de sonidos finales entre versos. -->
 - [ ] C) Estrofa <!-- feedback: Incorrecto. La estrofa es el conjunto de versos. -->
 - [ ] D) Sinalefa <!-- feedback: Incorrecto. La sinalefa es la unión de vocales entre palabras para contar sílabas. -->
 
@@ -95,8 +95,8 @@ La metáfora es la figura literaria más importante de la lírica. Permite enriq
 ¿A quién nos referimos cuando hablamos del "yo poético" o "hablante lírico"?
 
 ### Opciones
-- [ ] A) Al poeta real que escribió el libro. <!-- feedback: Incorrecto. El poeta es la persona real; el hablante lírico es la voz ficticia dentro del poema. -->
-- [x] B) A la voz ficticia que expresa sus sentimientos y emociones en el poema. <!-- feedback: ¡Correcto! Es el personaje creado por el autor para transmitir el contenido emocional. -->
+- [ ] B) Al poeta real que escribió el libro. <!-- feedback: Incorrecto. El poeta es la persona real; el hablante lírico es la voz ficticia dentro del poema. -->
+- [x] A) A la voz ficticia que expresa sus sentimientos y emociones en el poema. <!-- feedback: ¡Correcto! Es el personaje creado por el autor para transmitir el contenido emocional. -->
 - [ ] C) Al lector que recita el poema en voz alta. <!-- feedback: Incorrecto. El lector es el receptor del mensaje lírico. -->
 - [ ] D) Al personaje protagonista de una novela. <!-- feedback: Incorrecto. El protagonista es un concepto narrativo, no lírico. -->
 
@@ -117,8 +117,8 @@ Así como en la narrativa existe el narrador, en la lírica existe el hablante l
 
 ### Opciones
 - [ ] A) Metáfora <!-- feedback: Incorrecto. No se está identificando a la luna con otra cosa, sino dándole una acción. -->
-- [ ] B) Epíteto <!-- feedback: Incorrecto. El epíteto es un adjetivo innecesario que resalta una cualidad obvia. -->
-- [x] C) Personificación <!-- feedback: ¡Correcto! Se le atribuye una cualidad humana (sonreír) a un objeto inanimado (la luna). -->
+- [ ] C) Epíteto <!-- feedback: Incorrecto. El epíteto es un adjetivo innecesario que resalta una cualidad obvia. -->
+- [x] B) Personificación <!-- feedback: ¡Correcto! Se le atribuye una cualidad humana (sonreír) a un objeto inanimado (la luna). -->
 - [ ] D) Hipérbaton <!-- feedback: Incorrecto. El hipérbaton es alterar el orden lógico de las palabras en la oración. -->
 
 ### Explicacion Pedagogica
@@ -137,8 +137,8 @@ La personificación o prosopopeya es muy común en la poesía y en las fábulas.
 Si un verso termina en una palabra AGUDA (como "corazón" o "Bogotá"), ¿qué debe hacerse al contar las sílabas métricas?
 
 ### Opciones
-- [ ] A) Se resta una sílaba al total. <!-- feedback: Incorrecto. Se resta una sílaba si la palabra final es esdrújula. -->
-- [x] B) Se suma una sílaba al total. <!-- feedback: ¡Correcto! Según la ley del acento final, las agudas añaden una sílaba por la intensidad de la voz. -->
+- [ ] B) Se resta una sílaba al total. <!-- feedback: Incorrecto. Se resta una sílaba si la palabra final es esdrújula. -->
+- [x] A) Se suma una sílaba al total. <!-- feedback: ¡Correcto! Según la ley del acento final, las agudas añaden una sílaba por la intensidad de la voz. -->
 - [ ] C) El conteo queda exactamente igual. <!-- feedback: Incorrecto. Solo queda igual si la palabra final es grave. -->
 - [ ] D) Se deben eliminar todas las vocales de la última palabra. <!-- feedback: Incorrecto. Eso no existe en las reglas de la métrica española. -->
 
@@ -159,8 +159,8 @@ La métrica española se basa en el ritmo acentual. Las palabras agudas alargan 
 
 ### Opciones
 - [ ] A) Motivo lírico <!-- feedback: Incorrecto. El motivo es el concepto o idea (ej. el amor, la muerte). -->
-- [x] B) Temple de ánimo <!-- feedback: ¡Correcto! Es la emoción predominante (tristeza, alegría, nostalgia, ira) que siente el hablante. -->
-- [ ] C) Objeto lírico <!-- feedback: Incorrecto. El objeto es aquello que inspira el poema (ej. una flor, la amada). -->
+- [x] C) Temple de ánimo <!-- feedback: ¡Correcto! Es la emoción predominante (tristeza, alegría, nostalgia, ira) que siente el hablante. -->
+- [ ] B) Objeto lírico <!-- feedback: Incorrecto. El objeto es aquello que inspira el poema (ej. una flor, la amada). -->
 - [ ] D) Hablante lírico <!-- feedback: Incorrecto. Ese es el nombre de la voz, no del sentimiento. -->
 
 ### Explicacion Pedagogica
@@ -180,8 +180,8 @@ Identificar el temple de ánimo es fundamental para interpretar un poema. Nos ay
 
 ### Opciones
 - [ ] A) Verso clásico <!-- feedback: Incorrecto. El verso clásico sigue reglas estrictas de rima y métrica. -->
-- [ ] B) Poesía rimada <!-- feedback: Incorrecto. Esta es la que usa rima asonante o consonante. -->
-- [x] C) Verso libre <!-- feedback: ¡Correcto! Es una forma moderna donde el autor decide la estructura sin seguir moldes tradicionales. -->
+- [ ] C) Poesía rimada <!-- feedback: Incorrecto. Esta es la que usa rima asonante o consonante. -->
+- [x] B) Verso libre <!-- feedback: ¡Correcto! Es una forma moderna donde el autor decide la estructura sin seguir moldes tradicionales. -->
 - [ ] D) Prosa informativa <!-- feedback: Incorrecto. La prosa informativa no busca el ritmo ni la belleza estética de la lírica. -->
 
 ### Explicacion Pedagogica
@@ -201,8 +201,8 @@ Analiza la expresión "desierto de hielo". ¿Por qué es una imagen poética pot
 
 ### Opciones
 - [ ] A) Es una hipérbole porque exagera el frío que hace en el desierto. <!-- feedback: Incorrecto. El desierto no suele ser de hielo; es una contradicción deliberada. -->
-- [x] B) Es una metáfora o incluso una antítesis que sugiere soledad y falta de calidez humana. <!-- feedback: ¡Correcto! Une dos conceptos opuestos para crear un significado nuevo sobre la vida. -->
-- [ ] C) Es una descripción literal de los polos de la Tierra. <!-- feedback: Incorrecto. En el contexto de "Vivir es...", tiene un significado simbólico, no geográfico. -->
+- [x] C) Es una metáfora o incluso una antítesis que sugiere soledad y falta de calidez humana. <!-- feedback: ¡Correcto! Une dos conceptos opuestos para crear un significado nuevo sobre la vida. -->
+- [ ] B) Es una descripción literal de los polos de la Tierra. <!-- feedback: Incorrecto. En el contexto de "Vivir es...", tiene un significado simbólico, no geográfico. -->
 - [ ] D) Es un epíteto porque el hielo siempre está en los desiertos fríos. <!-- feedback: Incorrecto. El epíteto resalta una cualidad obvia (hielo frío), no una oposición. -->
 
 ### Explicacion Pedagogica
@@ -221,9 +221,9 @@ La lírica utiliza la paradoja y la antítesis para expresar sentimientos comple
 ¿Cuál es la función principal de las figuras retóricas en el género lírico?
 
 ### Opciones
-- [ ] A) Hacer que el poema sea más difícil de entender para los niños. <!-- feedback: Incorrecto. La dificultad no es el objetivo, sino la profundidad estética. -->
-- [ ] B) Cumplir con las leyes gramaticales de la lengua española. <!-- feedback: Incorrecto. A veces las figuras retóricas incluso rompen el orden gramatical lógico. -->
-- [x] C) Embellecer el lenguaje y cargar las palabras de nuevos significados y emociones. <!-- feedback: ¡Correcto! Transforman el lenguaje común en un objeto de arte. -->
+- [ ] B) Hacer que el poema sea más difícil de entender para los niños. <!-- feedback: Incorrecto. La dificultad no es el objetivo, sino la profundidad estética. -->
+- [ ] C) Cumplir con las leyes gramaticales de la lengua española. <!-- feedback: Incorrecto. A veces las figuras retóricas incluso rompen el orden gramatical lógico. -->
+- [x] A) Embellecer el lenguaje y cargar las palabras de nuevos significados y emociones. <!-- feedback: ¡Correcto! Transforman el lenguaje común en un objeto de arte. -->
 - [ ] D) Ahorrar palabras para que el poema ocupe menos espacio en el papel. <!-- feedback: Incorrecto. A veces el uso de figuras literarias alarga el texto para lograr el efecto deseado. -->
 
 ### Explicacion Pedagogica

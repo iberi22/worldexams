@@ -32,13 +32,13 @@ Este bundle contiene 10 preguntas sobre **razones-proporciones** para grado 6, a
 ### Enunciado
 ¿Cuál es la razón simplificada de niños a niñas?
 ### Opciones
-- [x] A) $2:3$
+- [x] D) $2:3$
   <!-- feedback: Correcto. Dividiendo ambos entre 6: $12/18 = 2/3$. -->
-- [ ] B) $3:2$
+- [ ] A) $3:2$
   <!-- feedback: Incorrecto. Invertiste la razón (niñas a niños). -->
-- [ ] C) $1:2$
+- [ ] B) $1:2$
   <!-- feedback: Incorrecto. Dividiste de forma desigual. -->
-- [ ] D) $2:5$
+- [ ] C) $2:5$
   <!-- feedback: Incorrecto. Comparaste niños con el total de estudiantes. -->
 ### Explicacion Pedagogica
 La razón es $\frac{12}{18}$. Al simplificar dividiendo por $6$, se obtiene $\frac{2}{3}$, o $2:3$.
@@ -92,9 +92,9 @@ $\frac{2}{10} = \frac{7}{x} \implies 2x = 70 \implies x = 35\text{ km}$.
 ### Enunciado
 ¿Cuántos mililitros de leche se necesitan para $1.250\text{ g}$ de harina?
 ### Opciones
-- [x] A) $500\text{ ml}$
+- [x] B) $500\text{ ml}$
   <!-- feedback: Correcto. $1.250 / 500 = 2.5$; $2.5 \times 200 = 500\text{ ml}$. -->
-- [ ] B) $400\text{ ml}$
+- [ ] A) $400\text{ ml}$
   <!-- feedback: Incorrecto. Consideraste solo $1.000\text{ g}$ de harina. -->
 - [ ] C) $600\text{ ml}$
   <!-- feedback: Incorrecto. Error en la multiplicación del factor proporcional. -->
@@ -112,13 +112,13 @@ $\frac{500}{200} = \frac{1250}{x} \implies 500x = 250.000 \implies x = 500\text{
 ### Enunciado
 ¿Cuántos pares producirán $5$ máquinas con el mismo rendimiento?
 ### Opciones
-- [x] A) $250$ pares
+- [x] D) $250$ pares
   <!-- feedback: Correcto. Cada máquina produce $50$ pares. $5 \times 50 = 250$. -->
-- [ ] B) $200$ pares
+- [ ] A) $200$ pares
   <!-- feedback: Incorrecto. Sumaste solo 50 pares más por 2 máquinas. -->
-- [ ] C) $300$ pares
+- [ ] B) $300$ pares
   <!-- feedback: Incorrecto. Duplicaste la producción total. -->
-- [ ] D) $225$ pares
+- [ ] C) $225$ pares
   <!-- feedback: Incorrecto. Error en la tasa unitaria. -->
 ### Explicacion Pedagogica
 Producción por máquina = $150/3 = 50$ pares. Para $5$ máquinas: $5 \times 50 = 250$ pares.
@@ -132,11 +132,11 @@ Producción por máquina = $150/3 = 50$ pares. Para $5$ máquinas: $5 \times 50 
 ### Enunciado
 ¿Cuánto dinero recibe el atleta que obtiene la mayor parte?
 ### Opciones
-- [x] A) $500.000$ COP
+- [x] C) $500.000$ COP
   <!-- feedback: Correcto. Total partes = $9$. Parte mayor = $\frac{5}{9} \times 900.000 = 500.000$ COP. -->
-- [ ] B) $400.000$ COP
+- [ ] A) $400.000$ COP
   <!-- feedback: Incorrecto. Corresponde a la parte menor. -->
-- [ ] C) $450.000$ COP
+- [ ] B) $450.000$ COP
   <!-- feedback: Incorrecto. Dividiste el premio en partes iguales. -->
 - [ ] D) $550.000$ COP
   <!-- feedback: Incorrecto. Cálculo incorrecto de las fracciones relativas. -->
@@ -172,9 +172,9 @@ En proporción inversa $A \cdot B = k$. $k = 6 \cdot 12 = 72$. Para $A = 9$, $B 
 ### Enunciado
 ¿Cuál es el área real del salón en metros cuadrados?
 ### Opciones
-- [x] A) $225\text{ m}^2$
+- [x] B) $225\text{ m}^2$
   <!-- feedback: Correcto. $3\text{ cm} = 15\text{ m} \implies 1\text{ cm} = 5\text{ m}$. Lado real = $3 \times 5 = 15\text{ m}$. Área = $15^2 = 225\text{ m}^2$. -->
-- [ ] B) $45\text{ m}^2$
+- [ ] A) $45\text{ m}^2$
   <!-- feedback: Incorrecto. Multiplicaste el área del plano por la escala lineal. -->
 - [ ] C) $135\text{ m}^2$
   <!-- feedback: Incorrecto. Multiplicaste por $15$ en lugar de elevar la escala lineal al cuadrado. -->
@@ -212,13 +212,13 @@ $\frac{2Y}{Z/2} = 2 \times 2 \frac{Y}{Z} = 4 \frac{Y}{Z}$. Por lo tanto, $X$ se 
 ### Enunciado
 ¿Cuántos días menos tardarán en construir el mismo muro?
 ### Opciones
-- [x] A) $4$ días menos
+- [x] D) $4$ días menos
   <!-- feedback: Correcto. $4 \times 12 = 48$ trabajador-días. Con $6$ trabajadores: $48/6 = 8$ días. Tardarán $12 - 8 = 4$ días menos. -->
-- [ ] B) $8$ días menos
+- [ ] A) $8$ días menos
   <!-- feedback: Incorrecto. $8$ es el número total de días que tardan, no los días ahorrados. -->
-- [ ] C) $6$ días menos
+- [ ] B) $6$ días menos
   <!-- feedback: Incorrecto. Asumiste una relación lineal directa. -->
-- [ ] D) $2$ días menos
+- [ ] C) $2$ días menos
   <!-- feedback: Incorrecto. Restaste directamente la cantidad de trabajadores adicionales. -->
 ### Explicacion Pedagogica
 Proporción inversa: $4 \times 12 = 6 \times t \implies t = 8$ días. Reducción = $12 - 8 = 4$ días menos.

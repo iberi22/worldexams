@@ -34,9 +34,9 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) El Cantar de Roldán <!-- feedback: Esta es la obra cumbre de la épica francesa, no castellana. -->
-- [x] B) El Cantar de Mio Cid <!-- feedback: Es el poema épico más antiguo y mejor conservado de la literatura española. -->
-- [ ] C) El Cantar de los Nibelungos <!-- feedback: Es la obra principal de la épica germánica. -->
-- [ ] D) La Eneida <!-- feedback: Es una epopeya latina escrita por Virgilio en la época romana. -->
+- [x] D) El Cantar de Mio Cid <!-- feedback: Es el poema épico más antiguo y mejor conservado de la literatura española. -->
+- [ ] B) El Cantar de los Nibelungos <!-- feedback: Es la obra principal de la épica germánica. -->
+- [ ] C) La Eneida <!-- feedback: Es una epopeya latina escrita por Virgilio en la época romana. -->
 
 ### Explicacion Pedagogica
 El Cantar de Mio Cid es la piedra angular de la literatura en lengua castellana, narrando el proceso de recuperación del honor del héroe Rodrigo Díaz de Vivar.
@@ -77,8 +77,8 @@ El Cantar del Destierro establece la situación inicial de conflicto y pérdida 
 ### Opciones
 - [ ] A) Cuaderna vía <!-- feedback: La cuaderna vía tiene versos alejandrinos (14 sílabas) fijos, propia del mester de clerecía. -->
 - [ ] B) Soneto <!-- feedback: El soneto es una forma culta de 14 versos endecasílabos que se popularizó en el Renacimiento. -->
-- [x] C) Serie o tirada monorrima asonante <!-- feedback: Los versos se agrupan en tiradas de extensión variable con la misma rima asonante. -->
-- [ ] D) Octavilla real <!-- feedback: Es una estrofa de ocho versos de arte menor, no usada en la épica medieval. -->
+- [x] D) Serie o tirada monorrima asonante <!-- feedback: Los versos se agrupan en tiradas de extensión variable con la misma rima asonante. -->
+- [ ] C) Octavilla real <!-- feedback: Es una estrofa de ocho versos de arte menor, no usada en la épica medieval. -->
 
 ### Explicacion Pedagogica
 La métrica irregular (anisosilabismo) y la rima asonante facilitaban la improvisación y la memorización del juglar durante las sesiones de recitación pública.
@@ -96,9 +96,9 @@ La métrica irregular (anisosilabismo) y la rima asonante facilitaban la improvi
 ¿Qué acción del Cid demuestra su "mesura" tras descubrir que las arcas de arena que entregó a los judíos Raquel y Vidas eran un engaño necesario para financiar su ejército?
 
 ### Opciones
-- [ ] A) Burlarse públicamente de ellos para demostrar su ingenio. <!-- feedback: El Cid no busca la humillación, sino la supervivencia en una situación desesperada. -->
-- [ ] B) Matarlos para que no pudieran reclamar su dinero de vuelta. <!-- feedback: Esto iría en contra del código de honor del Cid. -->
-- [x] C) Prometer devolverles el dinero con intereses una vez que logre sus conquistas. <!-- feedback: La mesura implica responsabilidad y la intención de reparar los males causados por la necesidad. -->
+- [ ] B) Burlarse públicamente de ellos para demostrar su ingenio. <!-- feedback: El Cid no busca la humillación, sino la supervivencia en una situación desesperada. -->
+- [ ] C) Matarlos para que no pudieran reclamar su dinero de vuelta. <!-- feedback: Esto iría en contra del código de honor del Cid. -->
+- [x] A) Prometer devolverles el dinero con intereses una vez que logre sus conquistas. <!-- feedback: La mesura implica responsabilidad y la intención de reparar los males causados por la necesidad. -->
 - [ ] D) Negar haberlos conocido nunca ante el rey Alfonso. <!-- feedback: El Cid es honesto con sus acciones, aunque sean astutas por necesidad. -->
 
 ### Explicacion Pedagogica
@@ -117,9 +117,9 @@ La mesura es la cualidad que diferencia al Cid de otros héroes épicos más imp
 ¿Cuál es la función del epíteto épico "el que en buena hora ciñó espada" en el contexto de la recitación oral del poema?
 
 ### Opciones
-- [ ] A) Indicar que el Cid era un caballero joven que acababa de recibir sus armas. <!-- feedback: El Cid ya era un guerrero experimentado; la frase alude a su destino heroico. -->
-- [ ] B) Informar al público sobre la hora exacta en la que se realizaban las batallas. <!-- feedback: "Buena hora" es una expresión simbólica de buena suerte o destino favorable. -->
-- [x] C) Mantener el ritmo del verso y reforzar la imagen positiva y predestinada del héroe. <!-- feedback: Estos recursos ayudaban a la sonoridad y a la caracterización constante del personaje. -->
+- [ ] B) Indicar que el Cid era un caballero joven que acababa de recibir sus armas. <!-- feedback: El Cid ya era un guerrero experimentado; la frase alude a su destino heroico. -->
+- [ ] C) Informar al público sobre la hora exacta en la que se realizaban las batallas. <!-- feedback: "Buena hora" es una expresión simbólica de buena suerte o destino favorable. -->
+- [x] A) Mantener el ritmo del verso y reforzar la imagen positiva y predestinada del héroe. <!-- feedback: Estos recursos ayudaban a la sonoridad y a la caracterización constante del personaje. -->
 - [ ] D) Diferenciar al Cid de los moros, quienes no usaban espadas sino lanzas. <!-- feedback: Ambos bandos usaban espadas; el epíteto es exclusivo para honrar al protagonista. -->
 
 ### Explicacion Pedagogica
@@ -201,9 +201,9 @@ El desenlace del poema confirma el triunfo total del mérito personal sobre la n
 ¿Qué nos revela la comparación "como la uña de la carne" sobre la sensibilidad del héroe épico castellano?
 
 ### Opciones
-- [ ] A) Que el Cid tenía problemas de salud en las manos por las batallas. <!-- feedback: Es una metáfora, no una descripción médica. -->
-- [ ] B) Que era un hombre rudo que no sabía expresar sus sentimientos con delicadeza. <!-- feedback: La metáfora es profundamente expresiva y dolorosa. -->
-- [x] C) La profundidad del vínculo afectivo y el dolor físico que le produce la separación familiar. <!-- feedback: Muestra el lado humano y tierno del guerrero, reforzando la empatía del público. -->
+- [ ] B) Que el Cid tenía problemas de salud en las manos por las batallas. <!-- feedback: Es una metáfora, no una descripción médica. -->
+- [ ] C) Que era un hombre rudo que no sabía expresar sus sentimientos con delicadeza. <!-- feedback: La metáfora es profundamente expresiva y dolorosa. -->
+- [x] A) La profundidad del vínculo afectivo y el dolor físico que le produce la separación familiar. <!-- feedback: Muestra el lado humano y tierno del guerrero, reforzando la empatía del público. -->
 - [ ] D) Que para el Cid, su familia era una herramienta de trabajo similar a sus manos. <!-- feedback: La metáfora indica unión vital, no utilidad laboral. -->
 
 ### Explicacion Pedagogica
@@ -223,8 +223,8 @@ La ternura familiar es otra faceta del realismo del Cantar, humanizando al héro
 
 ### Opciones
 - [ ] A) Que todos los poemas épicos eran idénticos en todas las regiones de Europa. <!-- feedback: La oralidad permitía variantes locales y adaptaciones según el público. -->
-- [ ] B) Que no se utilizaban figuras retóricas para no confundir a los oyentes. <!-- feedback: La oralidad tiene sus propias figuras retóricas (paralelismos, epítetos). -->
-- [x] C) La existencia de múltiples versiones de un mismo hecho y la pérdida de muchos textos tras el fin del oficio de juglaría. <!-- feedback: Sin el soporte escrito, la supervivencia dependía de la memoria y la continuidad de los juglares. -->
+- [ ] C) Que no se utilizaban figuras retóricas para no confundir a los oyentes. <!-- feedback: La oralidad tiene sus propias figuras retóricas (paralelismos, epítetos). -->
+- [x] B) La existencia de múltiples versiones de un mismo hecho y la pérdida de muchos textos tras el fin del oficio de juglaría. <!-- feedback: Sin el soporte escrito, la supervivencia dependía de la memoria y la continuidad de los juglares. -->
 - [ ] D) Que la literatura medieval era solo para personas ricas que podían pagar a un juglar. <!-- feedback: Al contrario, la recitación en plazas hacía la literatura accesible a todo el pueblo. -->
 
 ### Explicacion Pedagogica
@@ -265,8 +265,8 @@ El Cantar refleja una "sociedad de frontera" donde las relaciones personales y e
 
 ### Opciones
 - [ ] A) Para llenar espacio porque el poema era demasiado corto. <!-- feedback: El poema ya es extenso; cada episodio cumple una función estructural. -->
-- [ ] B) Porque le gustaba la violencia gratuita para atraer a más público. <!-- feedback: La violencia tiene una justificación moral y legal en la trama. -->
-- [x] C) Para trasladar el conflicto del ámbito bélico al ámbito familiar y legal, permitiendo la apoteosis final del héroe en las Cortes. <!-- feedback: La deshonra familiar es necesaria para que el Cid demuestre su valor como hombre de leyes, no solo como guerrero. -->
+- [ ] C) Porque le gustaba la violencia gratuita para atraer a más público. <!-- feedback: La violencia tiene una justificación moral y legal en la trama. -->
+- [x] B) Para trasladar el conflicto del ámbito bélico al ámbito familiar y legal, permitiendo la apoteosis final del héroe en las Cortes. <!-- feedback: La deshonra familiar es necesaria para que el Cid demuestre su valor como hombre de leyes, no solo como guerrero. -->
 - [ ] D) Para demostrar que viajar por los bosques de Soria era muy peligroso en el siglo XII. <!-- feedback: No es una advertencia de viaje, sino un conflicto de honor entre linajes. -->
 
 ### Explicacion Pedagogica

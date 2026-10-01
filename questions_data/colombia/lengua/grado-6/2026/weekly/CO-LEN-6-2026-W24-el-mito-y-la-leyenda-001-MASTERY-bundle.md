@@ -54,8 +54,8 @@ El mito es un relato tradicional que explica el origen del universo, de los dios
 ¿Qué personajes suelen protagonizar los mitos?
 
 ### Opciones
-- [ ] A) Principalmente astronautas y científicos modernos. <!-- feedback: Incorrecto. Los mitos son relatos tradicionales antiguos. -->
-- [x] B) Dioses, semidioses, héroes y seres sobrenaturales. <!-- feedback: Correcto. Los personajes míticos tienen poderes extraordinarios. -->
+- [ ] B) Principalmente astronautas y científicos modernos. <!-- feedback: Incorrecto. Los mitos son relatos tradicionales antiguos. -->
+- [x] A) Dioses, semidioses, héroes y seres sobrenaturales. <!-- feedback: Correcto. Los personajes míticos tienen poderes extraordinarios. -->
 - [ ] C) Animales de granja sin ninguna cualidad humana. <!-- feedback: Incorrecto. Los animales de los mitos suelen estar personificados. -->
 - [ ] D) Solo los antepasados más ancianos de cada pueblo. <!-- feedback: Incorrecto. Los protagonistas son figuras míticas. -->
 
@@ -97,9 +97,9 @@ La leyenda es un relato tradicional que mezcla hechos reales con elementos fant�
 
 ### Opciones
 - [ ] A) Un mito, porque narra la creación del mundo. <!-- feedback: Incorrecto. No explica el origen del universo, solo un fenómeno local. -->
-- [x] B) Una leyenda, porque sitúa un hecho misterioso en un lugar real de Colombia. <!-- feedback: Correcto. Guatavita existe y la historia mezcla realidad con misterio. -->
-- [ ] C) Un cuento infantil, porque aparece un personaje fantástico. <!-- feedback: Incorrecto. No es un cuento inventado por un autor moderno. -->
-- [ ] D) Una noticia, porque informa algo que ocurrió. <!-- feedback: Incorrecto. La noticia exige verificación periodística. -->
+- [x] D) Una leyenda, porque sitúa un hecho misterioso en un lugar real de Colombia. <!-- feedback: Correcto. Guatavita existe y la historia mezcla realidad con misterio. -->
+- [ ] B) Un cuento infantil, porque aparece un personaje fantástico. <!-- feedback: Incorrecto. No es un cuento inventado por un autor moderno. -->
+- [ ] C) Una noticia, porque informa algo que ocurrió. <!-- feedback: Incorrecto. La noticia exige verificación periodística. -->
 
 ### Explicacion Pedagogica
 Este fragmento es una leyenda porque combina un lugar real (la laguna de Guatavita) con un elemento misterioso (la figura dorada). Esa mezcla entre lo cotidiano y lo sobrenatural es propia de la leyenda.
@@ -117,8 +117,8 @@ Este fragmento es una leyenda porque combina un lugar real (la laguna de Guatavi
 ¿Qué explica el mito muisca de Bachué?
 
 ### Opciones
-- [ ] A) La derrota militar de los muiscas frente a los españoles. <!-- feedback: Incorrecto. El mito de Bachué no se refiere a la conquista. -->
-- [x] B) El origen del pueblo muisca a partir de una pareja sagrada. <!-- feedback: Correcto. Bachué emerge de la laguna y da inicio a la comunidad. -->
+- [ ] B) La derrota militar de los muiscas frente a los españoles. <!-- feedback: Incorrecto. El mito de Bachué no se refiere a la conquista. -->
+- [x] A) El origen del pueblo muisca a partir de una pareja sagrada. <!-- feedback: Correcto. Bachué emerge de la laguna y da inicio a la comunidad. -->
 - [ ] C) La fundación de la ciudad de Bogotá en 1538. <!-- feedback: Incorrecto. La fundación de Bogotá es un hecho histórico posterior. -->
 - [ ] D) La llegada de los animales a la cordillera Oriental. <!-- feedback: Incorrecto. El mito se centra en la humanidad, no en la fauna. -->
 
@@ -139,8 +139,8 @@ Bachué es la madre mítica de los muiscas. El relato cuenta cómo salió de una
 
 ### Opciones
 - [ ] A) Ambos explican cómo se inventó la escritura. <!-- feedback: Incorrecto. Ninguno se refiere a la escritura. -->
-- [x] B) Ambos explican el cambio de las estaciones con un rapto sagrado. <!-- feedback: Correcto. Las dos historias explican el ciclo de la naturaleza. -->
-- [ ] C) Ambos ocurren en la antigua Roma. <!-- feedback: Incorrecto. Grecia y la Guajira son lugares diferentes. -->
+- [x] C) Ambos explican el cambio de las estaciones con un rapto sagrado. <!-- feedback: Correcto. Las dos historias explican el ciclo de la naturaleza. -->
+- [ ] B) Ambos ocurren en la antigua Roma. <!-- feedback: Incorrecto. Grecia y la Guajira son lugares diferentes. -->
 - [ ] D) Ambos presentan a Perséfone como protagonista. <!-- feedback: Incorrecto. Majayura es la protagonista en la versión wayúu. -->
 
 ### Explicacion Pedagogica
@@ -159,8 +159,8 @@ Perséfone y Majayura comparten el tema del descenso al mundo subterráneo y el 
 ¿Qué función cultural cumple esta leyenda en la región?
 
 ### Opciones
-- [ ] A) Enseñar a silbar en diferentes tonos musicales. <!-- feedback: Incorrecto. La leyenda no es un manual de técnica vocal. -->
-- [x] B) Advertir a los viajeros sobre los peligros de la carretera llanera. <!-- feedback: Correcto. El relato funciona como advertencia cultural. -->
+- [ ] B) Enseñar a silbar en diferentes tonos musicales. <!-- feedback: Incorrecto. La leyenda no es un manual de técnica vocal. -->
+- [x] A) Advertir a los viajeros sobre los peligros de la carretera llanera. <!-- feedback: Correcto. El relato funciona como advertencia cultural. -->
 - [ ] C) Promover el turismo internacional en los llanos. <!-- feedback: Incorrecto. La leyenda es anterior al turismo moderno. -->
 - [ ] D) Enseñar a cazar animales en la sabana. <!-- feedback: Incorrecto. El relato no describe técnicas de caza. -->
 
@@ -181,9 +181,9 @@ La leyenda del Silbón transmite un mensaje de prudencia: recorrer de noche la c
 
 ### Opciones
 - [ ] A) Porque los mitos son inventados cada vez que se cuentan. <!-- feedback: Incorrecto. Los mitos conservan un núcleo estable. -->
-- [x] B) Porque la voz del narrador mantiene vivos los símbolos y la memoria del pueblo. <!-- feedback: Correcto. La oralidad preserva lengua, ritmo y tradición. -->
-- [ ] C) Porque escribir un mito lo convierte automáticamente en leyenda. <!-- feedback: Incorrecto. Un mito sigue siendo mito al ser escrito. -->
-- [ ] D) Porque la escritura indígena no existía antes del siglo XX. <!-- feedback: Incorrecto. Varias civilizaciones indígenas tuvieron sistemas de escritura. -->
+- [x] D) Porque la voz del narrador mantiene vivos los símbolos y la memoria del pueblo. <!-- feedback: Correcto. La oralidad preserva lengua, ritmo y tradición. -->
+- [ ] B) Porque escribir un mito lo convierte automáticamente en leyenda. <!-- feedback: Incorrecto. Un mito sigue siendo mito al ser escrito. -->
+- [ ] C) Porque la escritura indígena no existía antes del siglo XX. <!-- feedback: Incorrecto. Varias civilizaciones indígenas tuvieron sistemas de escritura. -->
 
 ### Explicacion Pedagogica
 La tradición oral permite adaptar el relato al oyente sin perder su esencia. Gracias a los mayores, los mitos viajan de generación en generación junto con su música, su lengua y su cosmovisión.
@@ -202,8 +202,8 @@ La tradición oral permite adaptar el relato al oyente sin perder su esencia. Gr
 
 ### Opciones
 - [ ] A) Tiene razón, los mitos ya no se cuentan en ninguna parte. <!-- feedback: Incorrecto. Los mitos siguen vivos en muchas culturas. -->
-- [x] B) Los mitos siguen vigentes porque transmiten valores, identidad y explicaciones culturales. <!-- feedback: Correcto. Aportan sentido y cohesionan comunidades. -->
-- [ ] C) Solo interesan a los científicos de la NASA. <!-- feedback: Incorrecto. Su importancia es cultural, no tecnológica. -->
+- [x] C) Los mitos siguen vigentes porque transmiten valores, identidad y explicaciones culturales. <!-- feedback: Correcto. Aportan sentido y cohesionan comunidades. -->
+- [ ] B) Solo interesan a los científicos de la NASA. <!-- feedback: Incorrecto. Su importancia es cultural, no tecnológica. -->
 - [ ] D) Únicamente se usan en la publicidad comercial. <!-- feedback: Incorrecto. Su función original es simbólica y social. -->
 
 ### Explicacion Pedagogica

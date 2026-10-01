@@ -31,9 +31,9 @@ Qual é a fórmula do termo geral ($a_n$) de uma Progressão Aritmética (PA) em
 
 ### Opciones
 - [ ] A) $a_n = a_1 + nr$ <!-- feedback: Incorreto. O termo n deve ser subtraído de 1, pois o primeiro termo não recebe a razão. -->
-- [x] B) $a_n = a_1 + (n - 1)r$ <!-- feedback: Correto. Esta fórmula permite encontrar qualquer termo da PA conhecendo o primeiro e a razão. -->
-- [ ] C) $a_n = a_1 \cdot r^{n-1}$ <!-- feedback: Esta é a fórmula do termo geral de uma Progressão Geométrica. -->
-- [ ] D) $a_n = \frac{a_1 + a_{n-1}}{2}$ <!-- feedback: Esta é uma propriedade do termo médio, não a fórmula do termo geral. -->
+- [x] D) $a_n = a_1 + (n - 1)r$ <!-- feedback: Correto. Esta fórmula permite encontrar qualquer termo da PA conhecendo o primeiro e a razão. -->
+- [ ] B) $a_n = a_1 \cdot r^{n-1}$ <!-- feedback: Esta é a fórmula do termo geral de uma Progressão Geométrica. -->
+- [ ] C) $a_n = \frac{a_1 + a_{n-1}}{2}$ <!-- feedback: Esta é uma propriedade do termo médio, não a fórmula do termo geral. -->
 
 ### Explicacion Pedagogica
 Em uma PA, cada termo a partir do segundo é igual ao anterior somado a uma constante $r$. Para chegar ao termo de posição $n$, partimos de $a_1$ e somamos a razão $n-1$ vezes.
@@ -68,8 +68,8 @@ O comportamento de crescimento da PA depende exclusivamente da razão. Se somamo
 Dada a PA $(-5, -2, 1, 4, ...)$, qual é o valor da razão $r$?
 
 ### Opciones
-- [ ] A) -3 <!-- feedback: A sequência está aumentando, logo a razão deve ser positiva. -->
-- [x] B) 3 <!-- feedback: r = -2 - (-5) = -2 + 5 = 3. -->
+- [ ] B) -3 <!-- feedback: A sequência está aumentando, logo a razão deve ser positiva. -->
+- [x] A) 3 <!-- feedback: r = -2 - (-5) = -2 + 5 = 3. -->
 - [ ] C) 2 <!-- feedback: Cálculo incorreto da diferença entre os termos. -->
 - [ ] D) -7 <!-- feedback: Erro de operação aritmética. -->
 
@@ -107,8 +107,8 @@ Se o primeiro termo de uma PA é $a_1 = 12$ e a razão é $r = 5$, qual é o val
 
 ### Opciones
 - [ ] A) 67 <!-- feedback: a11 = 12 + 11*5 = 67. Erro: usou n em vez de n-1. -->
-- [x] B) 62 <!-- feedback: a11 = 12 + (11-1)*5 = 12 + 50 = 62. -->
-- [ ] C) 57 <!-- feedback: Este é o valor de a10. -->
+- [x] C) 62 <!-- feedback: a11 = 12 + (11-1)*5 = 12 + 50 = 62. -->
+- [ ] B) 57 <!-- feedback: Este é o valor de a10. -->
 - [ ] D) 72 <!-- feedback: Cálculo incorreto. -->
 
 ### Explicacion Pedagogica
@@ -126,9 +126,9 @@ Quantos termos existem na PA finita $(10, 14, 18, ..., 90)$?
 
 ### Opciones
 - [ ] A) 20 <!-- feedback: Cálculo incorreto. -->
-- [x] B) 21 <!-- feedback: 90 = 10 + (n-1)4 => 80 = 4(n-1) => 20 = n-1 => n = 21. -->
-- [ ] C) 22 <!-- feedback: Erro ao finalizar a resolução da equação. -->
-- [ ] D) 80 <!-- feedback: Este é o deslocamento total, não o número de termos. -->
+- [x] D) 21 <!-- feedback: 90 = 10 + (n-1)4 => 80 = 4(n-1) => 20 = n-1 => n = 21. -->
+- [ ] B) 22 <!-- feedback: Erro ao finalizar a resolução da equação. -->
+- [ ] C) 80 <!-- feedback: Este é o deslocamento total, não o número de termos. -->
 
 ### Explicacion Pedagogica
 Usamos o termo geral para isolar $n$: $a_n = a_1 + (n-1)r \Rightarrow 90 = 10 + (n-1) \cdot 4$. Subtraindo 10 de ambos os lados: $80 = 4(n-1)$. Dividindo por 4: $20 = n - 1$. Logo, $n = 21$.
@@ -145,8 +145,8 @@ Qual é a posição do termo que vale 20 nesta PA?
 
 ### Opciones
 - [ ] A) 10ª <!-- feedback: a10 = 50 + 9*(-3) = 50 - 27 = 23. Quase lá. -->
-- [x] B) 11ª <!-- feedback: 20 = 50 + (n-1)(-3) => -30 = -3(n-1) => 10 = n-1 => n = 11. -->
-- [ ] C) 12ª <!-- feedback: a12 = 50 - 33 = 17. -->
+- [x] C) 11ª <!-- feedback: 20 = 50 + (n-1)(-3) => -30 = -3(n-1) => 10 = n-1 => n = 11. -->
+- [ ] B) 12ª <!-- feedback: a12 = 50 - 33 = 17. -->
 - [ ] D) 9ª <!-- feedback: a9 = 50 - 24 = 26. -->
 
 ### Explicacion Pedagogica
@@ -183,9 +183,9 @@ Numa PA, sabe-se que $a_3 = 10$ e $a_6 = 19$. Qual é o valor da razão $r$?
 
 ### Opciones
 - [ ] A) 9 <!-- feedback: 9 é a diferença entre os termos, mas eles estão separados por 3 posições. -->
-- [x] B) 3 <!-- feedback: a6 = a3 + 3r => 19 = 10 + 3r => 9 = 3r => r = 3. -->
-- [ ] C) 4 <!-- feedback: Se r=4, a6 seria 10 + 12 = 22. -->
-- [ ] D) 2 <!-- feedback: Se r=2, a6 seria 10 + 6 = 16. -->
+- [x] D) 3 <!-- feedback: a6 = a3 + 3r => 19 = 10 + 3r => 9 = 3r => r = 3. -->
+- [ ] B) 4 <!-- feedback: Se r=4, a6 seria 10 + 12 = 22. -->
+- [ ] C) 2 <!-- feedback: Se r=2, a6 seria 10 + 6 = 16. -->
 
 ### Explicacion Pedagogica
 Usamos a relação entre dois termos quaisquer: $a_k = a_j + (k-j)r$. Logo, $a_6 = a_3 + (6-3)r \Rightarrow 19 = 10 + 3r$. Resolvendo para $r$, temos $3r = 9$, então $r = 3$.
@@ -202,8 +202,8 @@ Insira 3 meios aritméticos entre os números 5 e 21. Qual é a razão da PA for
 
 ### Opciones
 - [ ] A) 5 <!-- feedback: Se r=5, a sequência seria 5, 10, 15, 20, 25. O último seria 25, não 21. -->
-- [x] B) 4 <!-- feedback: Com 3 meios, temos 5 termos no total. 21 = 5 + 4r => 16 = 4r => r = 4. PA: (5, 9, 13, 17, 21). -->
-- [ ] C) 3 <!-- feedback: Se r=3, o 5º termo seria 17. -->
+- [x] C) 4 <!-- feedback: Com 3 meios, temos 5 termos no total. 21 = 5 + 4r => 16 = 4r => r = 4. PA: (5, 9, 13, 17, 21). -->
+- [ ] B) 3 <!-- feedback: Se r=3, o 5º termo seria 17. -->
 - [ ] D) 2 <!-- feedback: Incorreto. -->
 
 ### Explicacion Pedagogica
@@ -221,8 +221,8 @@ Em uma PA, a soma dos $n$ primeiros termos é dada por $S_n = n^2 + 2n$. Qual é
 
 ### Opciones
 - [ ] A) $a_1 = 3, r = 3$ <!-- feedback: Incorreto. -->
-- [x] B) $a_1 = 3, r = 2$ <!-- feedback: S1 = a1 = 1² + 2(1) = 3. S2 = a1 + a2 = 2² + 2(2) = 8. Logo a2 = 5 e r = 5-3 = 2. -->
-- [ ] C) $a_1 = 1, r = 2$ <!-- feedback: S1 daria 3, não 1. -->
+- [x] C) $a_1 = 3, r = 2$ <!-- feedback: S1 = a1 = 1² + 2(1) = 3. S2 = a1 + a2 = 2² + 2(2) = 8. Logo a2 = 5 e r = 5-3 = 2. -->
+- [ ] B) $a_1 = 1, r = 2$ <!-- feedback: S1 daria 3, não 1. -->
 - [ ] D) $a_1 = 3, r = 1$ <!-- feedback: Se r=1, a2 seria 4 e S2 seria 7, mas S2 pela fórmula é 8. -->
 
 ### Explicacion Pedagogica
@@ -243,8 +243,8 @@ Determine a soma de todos os números naturais múltiplos de 7 entre 10 e 100.
 
 ### Opciones
 - [ ] A) 700 <!-- feedback: Valor aproximado, mas não exato. -->
-- [x] B) 728 <!-- feedback: PA: (14, 21, ..., 98). n=13. Soma = (14+98)*13/2 = 112*6,5 = 728. -->
-- [ ] C) 735 <!-- feedback: Erro no cálculo da soma dos termos. -->
+- [x] C) 728 <!-- feedback: PA: (14, 21, ..., 98). n=13. Soma = (14+98)*13/2 = 112*6,5 = 728. -->
+- [ ] B) 735 <!-- feedback: Erro no cálculo da soma dos termos. -->
 - [ ] D) 630 <!-- feedback: Valor muito baixo. -->
 
 ### Explicacion Pedagogica
@@ -263,8 +263,8 @@ Determine a soma de todos os números naturais múltiplos de 7 entre 10 e 100.
 Três números estão em PA. A soma deles é 15 e o produto é 80. Quais são esses números?
 
 ### Opciones
-- [ ] A) 1, 5, 9 <!-- feedback: Soma = 15, mas produto = 45. -->
-- [x] B) 2, 5, 8 <!-- feedback: Soma = 2+5+8 = 15. Produto = 2*5*8 = 80. Razão r=3. -->
+- [ ] B) 1, 5, 9 <!-- feedback: Soma = 15, mas produto = 45. -->
+- [x] A) 2, 5, 8 <!-- feedback: Soma = 2+5+8 = 15. Produto = 2*5*8 = 80. Razão r=3. -->
 - [ ] C) 3, 5, 7 <!-- feedback: Soma = 15, mas produto = 105. -->
 - [ ] D) 4, 5, 6 <!-- feedback: Soma = 15, mas produto = 120. -->
 
@@ -282,8 +282,8 @@ Representamos os termos como $(x-r, x, x+r)$. A soma é $(x-r) + x + (x+r) = 3x 
 Em uma PA, $a_1 + a_9 = 20$. Qual é o valor de $a_5$?
 
 ### Opciones
-- [ ] A) 5 <!-- feedback: Incorreto. -->
-- [x] B) 10 <!-- feedback: Pela propriedade dos termos equidistantes, a1+a9 = a5+a5 = 2*a5. Logo a5 = 20/2 = 10. -->
+- [ ] B) 5 <!-- feedback: Incorreto. -->
+- [x] A) 10 <!-- feedback: Pela propriedade dos termos equidistantes, a1+a9 = a5+a5 = 2*a5. Logo a5 = 20/2 = 10. -->
 - [ ] C) 20 <!-- feedback: Este é o valor da soma dos extremos. -->
 - [ ] D) Não é possível determinar sem a razão. <!-- feedback: É possível sim, pois a5 é o termo médio exato entre a1 e a9. -->
 
@@ -302,8 +302,8 @@ Ao intercalar 6 meios aritméticos entre 10 e 45, qual é o valor do quarto term
 
 ### Opciones
 - [ ] A) 20 <!-- feedback: Este é o terceiro termo. -->
-- [x] B) 25 <!-- feedback: Total de termos n=8. 45 = 10 + 7r => 35 = 7r => r = 5. PA: (10, 15, 20, 25, 30, 35, 40, 45). a4 = 25. -->
-- [ ] C) 30 <!-- feedback: Este é o quinto termo. -->
+- [x] C) 25 <!-- feedback: Total de termos n=8. 45 = 10 + 7r => 35 = 7r => r = 5. PA: (10, 15, 20, 25, 30, 35, 40, 45). a4 = 25. -->
+- [ ] B) 30 <!-- feedback: Este é o quinto termo. -->
 - [ ] D) 15 <!-- feedback: Este é o segundo termo. -->
 
 ### Explicacion Pedagogica
@@ -323,9 +323,9 @@ Toda PA pode ser vista como uma função discreta. Se $a_n = 4n - 1$, qual é a 
 
 ### Opciones
 - [ ] A) 780 <!-- feedback: Cálculo incorreto da soma. -->
-- [x] B) 820 <!-- feedback: a1 = 3. a20 = 79. S20 = (3 + 79) * 20 / 2 = 82 * 10 = 820. -->
-- [ ] C) 800 <!-- feedback: Cálculo incorreto. -->
-- [ ] D) 1.640 <!-- feedback: Esqueceu de dividir por 2. -->
+- [x] D) 820 <!-- feedback: a1 = 3. a20 = 79. S20 = (3 + 79) * 20 / 2 = 82 * 10 = 820. -->
+- [ ] B) 800 <!-- feedback: Cálculo incorreto. -->
+- [ ] C) 1.640 <!-- feedback: Esqueceu de dividir por 2. -->
 
 ### Explicacion Pedagogica
 1) Calculamos os extremos: $a_1 = 4(1)-1 = 3$; $a_{20} = 4(20)-1 = 79$.
@@ -343,9 +343,9 @@ Para quais valores de $x$ a sequência $(\log x, \log 2x, \log 4x)$ forma uma PA
 
 ### Opciones
 - [ ] A) Somente para $x = 1$. <!-- feedback: Na verdade, qualquer x positivo satisfaz a condição. -->
-- [x] B) Para todo $x > 0$. <!-- feedback: Razão r = log(2x) - log(x) = log(2x/x) = log 2. Como a razão é constante independente de x, é sempre PA. -->
-- [ ] C) Para nenhum valor de $x$. <!-- feedback: A sequência sempre possui uma diferença constante. -->
-- [ ] D) Somente para $x = 2$. <!-- feedback: Incorreto. -->
+- [x] D) Para todo $x > 0$. <!-- feedback: Razão r = log(2x) - log(x) = log(2x/x) = log 2. Como a razão é constante independente de x, é sempre PA. -->
+- [ ] B) Para nenhum valor de $x$. <!-- feedback: A sequência sempre possui uma diferença constante. -->
+- [ ] C) Somente para $x = 2$. <!-- feedback: Incorreto. -->
 
 ### Explicacion Pedagogica
 Verificamos a diferença entre os termos:
@@ -365,8 +365,8 @@ Numa PA de 100 termos, a soma dos termos de ordem ímpar é 500. Se a razão é 
 
 ### Opciones
 - [ ] A) 500 <!-- feedback: Os termos pares são sempre maiores que os ímpares anteriores se r > 0. -->
-- [x] B) 600 <!-- feedback: Cada termo par a_2k é igual ao ímpar anterior a_{2k-1} + r. Como são 50 pares, Spar = Simpar + 50*r = 500 + 50*2 = 600. -->
-- [ ] C) 700 <!-- feedback: Cálculo incorreto do acréscimo. -->
+- [x] C) 600 <!-- feedback: Cada termo par a_2k é igual ao ímpar anterior a_{2k-1} + r. Como são 50 pares, Spar = Simpar + 50*r = 500 + 50*2 = 600. -->
+- [ ] B) 700 <!-- feedback: Cálculo incorreto do acréscimo. -->
 - [ ] D) 550 <!-- feedback: Cálculo incorreto. -->
 
 ### Explicacion Pedagogica
@@ -384,8 +384,8 @@ As medidas dos lados de um triângulo retângulo estão em PA. Se a área do tri
 
 ### Opciones
 - [ ] A) 6 <!-- feedback: Este seria o cateto menor. -->
-- [ ] B) 8 <!-- feedback: Este seria o cateto maior. -->
-- [x] C) 10 <!-- feedback: Lados: (x-r, x, x+r). Pelo teorema de Pitágoras: (x-r)² + x² = (x+r)² => x = 4r. Lados: 3r, 4r, 5r. Área = (3r*4r)/2 = 6r² = 24 => r=2. Hipotenusa = 5r = 10. -->
+- [ ] C) 8 <!-- feedback: Este seria o cateto maior. -->
+- [x] B) 10 <!-- feedback: Lados: (x-r, x, x+r). Pelo teorema de Pitágoras: (x-r)² + x² = (x+r)² => x = 4r. Lados: 3r, 4r, 5r. Área = (3r*4r)/2 = 6r² = 24 => r=2. Hipotenusa = 5r = 10. -->
 - [ ] D) 12 <!-- feedback: Incorreto. -->
 
 ### Explicacion Pedagogica

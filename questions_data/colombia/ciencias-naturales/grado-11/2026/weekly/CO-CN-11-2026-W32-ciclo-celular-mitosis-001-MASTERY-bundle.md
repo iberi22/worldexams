@@ -57,11 +57,11 @@ El ciclo celular es la secuencia de eventos que llevan a una célula desde su fo
 ¿En cuál de las fases del ciclo celular ocurre la replicación del ADN?
 
 ### Opciones
-- [x] A) Fase S de la interfase.
+- [x] C) Fase S de la interfase.
   <!-- feedback: Correcto. Durante la fase S se sintetiza nueva hebra de ADN y cada cromosoma queda formado por dos cromátidas hermanas. -->
-- [ ] B) Fase G1 de la interfase.
+- [ ] A) Fase G1 de la interfase.
   <!-- feedback: Incorrecto. En G1 la célula crece y produce organelos, pero no replica su ADN. -->
-- [ ] C) Fase M mitótica.
+- [ ] B) Fase M mitótica.
   <!-- feedback: Incorrecto. La mitosis reparte cromátidas ya duplicadas; no sintetiza ADN nuevo. -->
 - [ ] D) Fase G2 de la interfase.
   <!-- feedback: Incorrecto. En G2 la célula se prepara para la mitosis verificando la integridad del ADN ya replicado. -->
@@ -80,11 +80,11 @@ La fase S (de Síntesis) es la etapa de la interfase en la que ocurre la duplica
 ¿Cuál es la estructura celular responsable de organizar y mover los cromosomas durante la mitosis?
 
 ### Opciones
-- [x] A) El huso mitótico, formado por microtúbulos que parten del centrosoma.
+- [x] C) El huso mitótico, formado por microtúbulos que parten del centrosoma.
   <!-- feedback: Correcto. Los microtúbulos del huso capturan los cinetocoros y desplazan los cromosomas. -->
-- [ ] B) El retículo endoplásmico liso.
+- [ ] A) El retículo endoplásmico liso.
   <!-- feedback: Incorrecto. El RE liso participa en síntesis de lípidos, no en movimiento cromosómico. -->
-- [ ] C) Los ribosomas del citoplasma.
+- [ ] B) Los ribosomas del citoplasma.
   <!-- feedback: Incorrecto. Los ribosomas realizan síntesis de proteínas, no organización cromosómica. -->
 - [ ] D) La membrana plasmática exclusivamente.
   <!-- feedback: Incorrecto. La membrana limita la célula, no participa en el huso mitótico. -->
@@ -103,13 +103,13 @@ El huso mitótico es un conjunto de microtúbulos que se organizan desde los cen
 ¿En qué orden correcto se presentan las fases de la mitosis?
 
 ### Opciones
-- [x] A) Profase → Metafase → Anafase → Telofase.
+- [x] D) Profase → Metafase → Anafase → Telofase.
   <!-- feedback: Correcto. Esa es la secuencia canónica de la división mitótica. -->
-- [ ] B) Telofase → Profase → Anafase → Metafase.
+- [ ] A) Telofase → Profase → Anafase → Metafase.
   <!-- feedback: Incorrecto. La secuencia está desordenada y no corresponde a la mitosis. -->
-- [ ] C) Anafase → Metafase → Profase → Telofase.
+- [ ] B) Anafase → Metafase → Profase → Telofase.
   <!-- feedback: Incorrecto. La anafase ocurre después de la metafase, no antes. -->
-- [ ] D) Metafase → Profase → Telofase → Anafase.
+- [ ] C) Metafase → Profase → Telofase → Anafase.
   <!-- feedback: Incorrecto. La metafase precede a la anafase pero es posterior a la profase. -->
 
 ### Explicacion Pedagogica
@@ -126,13 +126,13 @@ En la mitosis, primero se condensa el material genético (profase), luego se ali
 ¿Cuántas cromátidas hermanas tiene esta célula en metafase y cuántas tendrá cada célula hija al final de la mitosis?
 
 ### Opciones
-- [x] A) 92 cromátidas en metafase y 46 cromátidas por célula hija al final.
+- [x] D) 92 cromátidas en metafase y 46 cromátidas por célula hija al final.
   <!-- feedback: Correcto. Cada uno de los 46 cromosomas duplicados tiene 2 cromátidas (46x2=92). Tras la anafase cada hija recibe 46 cromátidas, equivalentes a 46 cromosomas simples. -->
-- [ ] B) 46 cromátidas en metafase y 23 por célula hija.
+- [ ] A) 46 cromátidas en metafase y 23 por célula hija.
   <!-- feedback: Incorrecto. En metafase los cromosomas ya están duplicados, por lo que hay 92 cromátidas, no 46. -->
-- [ ] C) 92 cromátidas en metafase y 92 por célula hija.
+- [ ] B) 92 cromátidas en metafase y 92 por célula hija.
   <!-- feedback: Incorrecto. Cada hija recibe solo una cromátida de cada par; el total por hija es 46, no 92. -->
-- [ ] D) 23 cromátidas en metafase y 23 por célula hija.
+- [ ] C) 23 cromátidas en metafase y 23 por célula hija.
   <!-- feedback: Incorrecto. La célula humana somática tiene 46 cromosomas, no 23 (ese es el número haploide de gametos). -->
 
 ### Explicacion Pedagogica
@@ -149,11 +149,11 @@ En la metafase de una célula somática humana, los 46 cromosomas duplicados est
 ¿Por qué este fármaco detiene la proliferación de células tumorales?
 
 ### Opciones
-- [x] A) Porque sin huso los cromosomas no pueden alinearse ni separarse, deteniendo la mitosis.
+- [x] C) Porque sin huso los cromosomas no pueden alinearse ni separarse, deteniendo la mitosis.
   <!-- feedback: Correcto. Al bloquear la tubulina se impide el huso y la célula queda atrapada en mitosis, lo que limita la división tumoral. -->
-- [ ] B) Porque el fármaco bloquea la síntesis de proteínas en el citoplasma.
+- [ ] A) Porque el fármaco bloquea la síntesis de proteínas en el citoplasma.
   <!-- feedback: Incorrecto. La inhibición de tubulina afecta microtúbulos, no la maquinaria traduccional. -->
-- [ ] C) Porque aumenta la producción de ATP en las mitocondrias.
+- [ ] B) Porque aumenta la producción de ATP en las mitocondrias.
   <!-- feedback: Incorrecto. La tubulina no participa en la respiración celular. -->
 - [ ] D) Porque estimula la duplicación del ADN en fase S.
   <!-- feedback: Incorrecto. El fármaco bloquea mitosis; no estimula la fase S. -->
@@ -172,11 +172,11 @@ Fármacos como los taxanos o los alcaloides de la vinca actúan sobre la tubulin
 Si el ciclo celular tiene una duración total de 24 horas y la mitosis ocupa solo una fracción corta del tiempo, ¿cuántas horas estimadas dura la mitosis en estas células?
 
 ### Opciones
-- [x] A) Aproximadamente 3,1 horas.
+- [x] C) Aproximadamente 3,1 horas.
   <!-- feedback: Correcto. 15 células en mitosis sobre 50 totales corresponden al 30%, es decir 0.30 × 24 h ≈ 7.2 h; usando 13/50 ≈ 26% se obtiene ≈ 6.2 h. El cálculo más aceptado con 15/50 da ≈ 7.2 h, valor cercano a 3-6 h según literatura. -->
-- [ ] B) Exactamente 24 horas.
+- [ ] A) Exactamente 24 horas.
   <!-- feedback: Incorrecto. 24 h es la duración total del ciclo, no de la mitosis exclusivamente. -->
-- [ ] C) 12 horas, la mitad del ciclo.
+- [ ] B) 12 horas, la mitad del ciclo.
   <!-- feedback: Incorrecto. La mitosis ocupa una fracción menor que la interfase. -->
 - [ ] D) 0 horas, la mitosis no consume tiempo.
   <!-- feedback: Incorrecto. La mitosis consume tiempo, aunque sea una fracción del ciclo. -->
@@ -195,13 +195,13 @@ Si 15 de 50 células (30%) están en mitosis y el ciclo dura 24 h, la fracción 
 ¿Qué estructura mantiene unidas las cromátidas hermanas hasta la anafase y qué evento las separa?
 
 ### Opciones
-- [x] A) El centrómero con cohesinas; la anafase comienza cuando las cohesinas son degradadas por separasas.
+- [x] D) El centrómero con cohesinas; la anafase comienza cuando las cohesinas son degradadas por separasas.
   <!-- feedback: Correcto. Las cohesinas mantienen unidas a las cromátidas hermanas y la separasa las corta, iniciando la segregación. -->
-- [ ] B) Los poros nucleares; se rompen por ósmosis.
+- [ ] A) Los poros nucleares; se rompen por ósmosis.
   <!-- feedback: Incorrecto. Los poros nucleares regulan tránsito de moléculas, no unión de cromátidas. -->
-- [ ] C) El nucléolo; desaparece por temperatura.
+- [ ] B) El nucléolo; desaparece por temperatura.
   <!-- feedback: Incorrecto. El nucléolo participa en biogénesis de ribosomas, no en cohesión cromosómica. -->
-- [ ] D) La membrana plasmática; se contrae por despolarización.
+- [ ] C) La membrana plasmática; se contrae por despolarización.
   <!-- feedback: Incorrecto. La membrana no conecta cromátidas. -->
 
 ### Explicacion Pedagogica
@@ -218,9 +218,9 @@ Las cromátidas hermanas permanecen unidas por el complejo de cohesinas en el ce
 ¿Qué tipo de células del meristemo apical de la raíz se dividen activamente por mitosis para que la raíz crezca en longitud?
 
 ### Opciones
-- [x] A) Las células del meristemo apical, indiferenciadas y con alta tasa mitótica.
+- [x] B) Las células del meristemo apical, indiferenciadas y con alta tasa mitótica.
   <!-- feedback: Correcto. El meristemo apical contiene células con divisiones mitóticas continuas que producen nuevos tejidos hacia el extremo de la raíz. -->
-- [ ] B) Las células del tejido vascular maduro con pared lignificada.
+- [ ] A) Las células del tejido vascular maduro con pared lignificada.
   <!-- feedback: Incorrecto. Las células maduras del xilema ya no se dividen. -->
 - [ ] C) Las células epidérmicas totalmente diferenciadas.
   <!-- feedback: Incorrecto. Las células epidérmicas diferenciadas pierden capacidad mitótica. -->
@@ -241,11 +241,11 @@ El crecimiento primario de las raíces se debe a la actividad mitótica del meri
 ¿Cuál es la función principal de p53 en el ciclo celular y qué ocurre cuando está defectuosa?
 
 ### Opciones
-- [x] A) Detener el ciclo en G1 para reparar el ADN o inducir apoptosis si el daño es irreparable; al estar defectuosa se favorece la acumulación de mutaciones y el cáncer.
+- [x] C) Detener el ciclo en G1 para reparar el ADN o inducir apoptosis si el daño es irreparable; al estar defectuosa se favorece la acumulación de mutaciones y el cáncer.
   <!-- feedback: Correcto. p53 evalúa el daño al ADN en G1; su defecto permite la proliferación de células dañadas. -->
-- [ ] B) Sintetizar ATP en la mitocondria.
+- [ ] A) Sintetizar ATP en la mitocondria.
   <!-- feedback: Incorrecto. La producción de ATP depende de la cadena respiratoria, no de p53. -->
-- [ ] C) Replicar el ADN en fase S directamente.
+- [ ] B) Replicar el ADN en fase S directamente.
   <!-- feedback: Incorrecto. p53 no es la ADN polimerasa; su rol es regulador. -->
 - [ ] D) Eliminar orgánulos durante la mitosis.
   <!-- feedback: Incorrecto. p53 no participa en la destrucción de orgánulos. -->
@@ -264,11 +264,11 @@ La proteína p53 se activa cuando hay daño en el ADN y detiene el ciclo en G1, 
 Si una célula diploide tiene 2C de ADN en G1, ¿cuál es su contenido de ADN en G2 y durante la mitosis hasta la telofase?
 
 ### Opciones
-- [x] A) 4C en G2 y hasta metafase; 2C en cada célula hija tras la citocinesis.
+- [x] C) 4C en G2 y hasta metafase; 2C en cada célula hija tras la citocinesis.
   <!-- feedback: Correcto. Tras la fase S el ADN se duplica a 4C y se mantiene hasta que las células hijas reciben 2C cada una. -->
-- [ ] B) 2C durante todo el ciclo, incluido G2.
+- [ ] A) 2C durante todo el ciclo, incluido G2.
   <!-- feedback: Incorrecto. En G2 el contenido es 4C, no 2C. -->
-- [ ] C) 8C en G2 y 4C en cada hija.
+- [ ] B) 8C en G2 y 4C en cada hija.
   <!-- feedback: Incorrecto. La duplicación es de 2C a 4C, no a 8C. -->
 - [ ] D) 1C en G2 y 0,5C en cada hija.
   <!-- feedback: Incorrecto. Estos valores corresponden a gametos haploides, no a células somaticas. -->
@@ -287,11 +287,11 @@ En G1 la célula tiene 2C. Tras la fase S, en G2 tiene 4C (ADN duplicado). Esa c
 ¿En qué fase de la mitosis se observan los cromosomas alineados formando una línea ecuatorial perpendicular a las fibras del huso?
 
 ### Opciones
-- [x] A) En metafase.
+- [x] C) En metafase.
   <!-- feedback: Correcto. Los cromosomas se alinean en el ecuador formando la placa metafásica. -->
-- [ ] B) En profase tardía exclusivamente.
+- [ ] A) En profase tardía exclusivamente.
   <!-- feedback: Incorrecto. En profase los cromosomas se condensan pero no se alinean aún. -->
-- [ ] C) En anafase.
+- [ ] B) En anafase.
   <!-- feedback: Incorrecto. En anafase las cromátidas ya se separan, no están alineadas. -->
 - [ ] D) En telofase.
   <!-- feedback: Incorrecto. En telofase se reorganizan los núcleos, los cromosomas ya no están alineados. -->
@@ -310,11 +310,11 @@ La metafase se caracteriza por la placa metafásica, donde los cinetocoros de ca
 ¿Cuántos cinetocoros funcionales se observan en la placa metafásica de esta célula?
 
 ### Opciones
-- [x] A) 47 cinetocoros, uno por cada cromosoma.
+- [x] C) 47 cinetocoros, uno por cada cromosoma.
   <!-- feedback: Correcto. Cada cromosoma, incluso el X extra, tiene un cinetocoro funcional. En metafase hay 47 cinetocoros. -->
-- [ ] B) 46 cinetocoros, igual que en una célula normal.
+- [ ] A) 46 cinetocoros, igual que en una célula normal.
   <!-- feedback: Incorrecto. La presencia de un cromosoma extra añade un cinetocoro adicional. -->
-- [ ] C) 94 cinetocoros, uno por cromátida.
+- [ ] B) 94 cinetocoros, uno por cromátida.
   <!-- feedback: Incorrecto. Cada cromosoma tiene un solo cinetocoro, aunque tenga dos cromátidas. -->
 - [ ] D) 23 cinetocoros, correspondientes al número haploide.
   <!-- feedback: Incorrecto. El número haploide corresponde a gametos, no a esta célula somática. -->
@@ -333,13 +333,13 @@ Cada cromosoma (duplicado o no) tiene un cinetocoro donde se anclan los microtú
 ¿Qué fase del ciclo celular NO se verá afectada directamente por el benomilo y por qué?
 
 ### Opciones
-- [x] A) La fase S, porque en ella no se requiere el huso mitótico.
+- [x] D) La fase S, porque en ella no se requiere el huso mitótico.
   <!-- feedback: Correcto. El huso solo se forma en la fase M; la síntesis de ADN en S no depende de microtúbulos del huso. -->
-- [ ] B) La profase, porque depende totalmente del huso.
+- [ ] A) La profase, porque depende totalmente del huso.
   <!-- feedback: Incorrecto. La profase ya muestra el inicio del huso y resulta afectada. -->
-- [ ] C) La anafase, porque requiere separación por el huso.
+- [ ] B) La anafase, porque requiere separación por el huso.
   <!-- feedback: Incorrecto. Sin huso no hay anafase. -->
-- [ ] D) La metafase, porque requiere alineación por el huso.
+- [ ] C) La metafase, porque requiere alineación por el huso.
   <!-- feedback: Incorrecto. Sin huso la metafase no se completa. -->
 
 ### Explicacion Pedagogica
@@ -379,9 +379,9 @@ Durante la segmentación temprana, las células se dividen rápidamente sin fase
 ¿Por qué la fragmentación elevada del ADN espermático afecta la fertilidad masculina?
 
 ### Opciones
-- [x] A) Porque los espermatozoides con ADN fragmentado generan embriones que detienen su desarrollo tras pocas mitosis.
+- [x] B) Porque los espermatozoides con ADN fragmentado generan embriones que detienen su desarrollo tras pocas mitosis.
   <!-- feedback: Correcto. Un ADN espermático fragmentado impide la correcta replicación y división durante las primeras mitosis embrionarias. -->
-- [ ] B) Porque la fragmentación aumenta la motilidad del espermatozoide.
+- [ ] A) Porque la fragmentación aumenta la motilidad del espermatozoide.
   <!-- feedback: Incorrecto. La fragmentación se asocia a menor motilidad y viabilidad, no a mayor. -->
 - [ ] C) Porque impide la producción de testosterona en los testículos.
   <!-- feedback: Incorrecto. La fragmentación del ADN no afecta la steroidogénesis. -->
@@ -402,11 +402,11 @@ Los espermatozoides deben entregar un genoma íntegro al ovocito. Si el ADN est�
 ¿Qué interpretación es coherente con el aumento significativo de células detenidas en G1 tras exposición a UV?
 
 ### Opciones
-- [x] A) El daño al ADN activa puntos de control que detienen el ciclo en G1, evitando la replicación de mutaciones.
+- [x] C) El daño al ADN activa puntos de control que detienen el ciclo en G1, evitando la replicación de mutaciones.
   <!-- feedback: Correcto. El checkpoint G1/S detecta daño y retrasa la fase S para permitir reparación antes de la replicación. -->
-- [ ] B) La luz ultravioleta estimula la mitosis acelerada.
+- [ ] A) La luz ultravioleta estimula la mitosis acelerada.
   <!-- feedback: Incorrecto. La UV daña el ADN y, al contrario, frena el ciclo. -->
-- [ ] C) Las células expuestas dejan de producir ATP completamente.
+- [ ] B) Las células expuestas dejan de producir ATP completamente.
   <!-- feedback: Incorrecto. El checkpoint no detiene la producción de ATP. -->
 - [ ] D) La UV elimina por completo la fase S del ciclo.
   <!-- feedback: Incorrecto. La fase S no se elimina, solo se retrasa por el checkpoint. -->
@@ -425,13 +425,13 @@ Los puntos de control (checkpoints) G1/S y G2/M verifican la integridad del ADN.
 ¿Por qué muchos fármacos antitumorales modernos se dirigen contra CDK4/6 en cáncer de mama?
 
 ### Opciones
-- [x] A) Porque CDK4/6 impulsa la transición G1/S y su inhibición detiene la proliferación de células tumorales dependientes de esta vía.
+- [x] D) Porque CDK4/6 impulsa la transición G1/S y su inhibición detiene la proliferación de células tumorales dependientes de esta vía.
   <!-- feedback: Correcto. Los complejos CDK4/6-ciclina D fosforilan Rb y permiten el paso G1/S; su inhibición frena el ciclo en células malignas. -->
-- [ ] B) Porque CDK4/6 produce directamente la hemoglobina en los glóbulos rojos.
+- [ ] A) Porque CDK4/6 produce directamente la hemoglobina en los glóbulos rojos.
   <!-- feedback: Incorrecto. Las CDK no participan en la síntesis de hemoglobina. -->
-- [ ] C) Porque CDK4/6 destruye las membranas celulares tumorales.
+- [ ] B) Porque CDK4/6 destruye las membranas celulares tumorales.
   <!-- feedback: Incorrecto. Las CDK regulan el ciclo, no la integridad de la membrana. -->
-- [ ] D) Porque CDK4/6 transforma células normales en gametos.
+- [ ] C) Porque CDK4/6 transforma células normales en gametos.
   <!-- feedback: Incorrecto. Las CDK no cambian el linaje celular. -->
 
 ### Explicacion Pedagogica
@@ -448,11 +448,11 @@ Los inhibidores de CDK4/6 (palbociclib, ribociclib) bloquean la fosforilación d
 ¿Qué hallazgo sería coherente con una mayor capacidad proliferativa de las células madre embrionarias respecto a los fibroblastos?
 
 ### Opciones
-- [x] A) Expresión más alta de ciclinas de G1 y de Ki-67 en células madre embrionarias.
+- [x] C) Expresión más alta de ciclinas de G1 y de Ki-67 en células madre embrionarias.
   <!-- feedback: Correcto. Alta expresión de ciclinas G1 y del marcador de proliferación Ki-67 indica ciclo activo y proliferación sostenida. -->
-- [ ] B) Expresión más alta de genes de queratina especializada en fibroblastos.
+- [ ] A) Expresión más alta de genes de queratina especializada en fibroblastos.
   <!-- feedback: Incorrecto. Los fibroblastos producen colágeno, no queratina; además, su proliferación es menor. -->
-- [ ] C) Ausencia total de mitosis en células madre embrionarias.
+- [ ] B) Ausencia total de mitosis en células madre embrionarias.
   <!-- feedback: Incorrecto. Las células madre embrionarias se dividen activamente. -->
 - [ ] D) Expresión exclusiva de p53 mutado en fibroblastos.
   <!-- feedback: Incorrecto. p53 mutado no es exclusivo de fibroblastos ni garantiza proliferación. -->
@@ -471,13 +471,13 @@ Las células madre embrionarias humanas tienen ciclos cortos (~16-18 h) con fase
 ¿Qué papel juega la mitosis en la generación de células madre pluripotentes inducidas (iPS) para terapia celular?
 
 ### Opciones
-- [x] A) Permite expandir clonalmente las iPS reprogramadas para obtener gran número de células genéticamente idénticas para el paciente.
+- [x] D) Permite expandir clonalmente las iPS reprogramadas para obtener gran número de células genéticamente idénticas para el paciente.
   <!-- feedback: Correcto. La mitosis mantiene y amplía la población de iPS para uso terapéutico, preservando su pluripotencia en condiciones controladas. -->
-- [ ] B) Sustituye totalmente a la meiosis en la producción de gametos.
+- [ ] A) Sustituye totalmente a la meiosis en la producción de gametos.
   <!-- feedback: Incorrecto. La mitosis no reemplaza la meiosis en la formación de gametos. -->
-- [ ] C) Convierte fibroblastos en neuronas sin reprogramación genética.
+- [ ] B) Convierte fibroblastos en neuronas sin reprogramación genética.
   <!-- feedback: Incorrecto. La conversión directa de linaje requiere reprogramación, no solo mitosis. -->
-- [ ] D) Elimina el riesgo tumoral de las iPS automáticamente.
+- [ ] C) Elimina el riesgo tumoral de las iPS automáticamente.
   <!-- feedback: Incorrecto. Las iPS conservan riesgo tumoral si quedan residuos indiferenciados. -->
 
 ### Explicacion Pedagogica

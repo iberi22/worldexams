@@ -35,8 +35,8 @@ creador: "Jules-Agent"
 Climate change refers to long-term shifts in temperatures and weather patterns.
 
 ### Opciones
-- [ ] A) Weather <!-- feedback: Incorrect. Weather is short-term. -->
-- [x] B) Climate change <!-- feedback: Correct. Refers to long-term global shifts. -->
+- [ ] B) Weather <!-- feedback: Incorrect. Weather is short-term. -->
+- [x] A) Climate change <!-- feedback: Correct. Refers to long-term global shifts. -->
 - [ ] C) Season <!-- feedback: Incorrect. A season is a part of the year. -->
 - [ ] D) Forecast <!-- feedback: Incorrect. A forecast is a prediction. -->
 
@@ -55,8 +55,8 @@ Climate change refers to long-term shifts in temperatures and weather patterns.
 By 2040, many experts believe that most vehicles will have been automated.
 
 ### Opciones
-- [ ] A) will automate <!-- feedback: Incorrect. Active voice. -->
-- [x] B) will have been automated <!-- feedback: Correct. Future perfect passive for a completed state. -->
+- [ ] B) will automate <!-- feedback: Incorrect. Active voice. -->
+- [x] A) will have been automated <!-- feedback: Correct. Future perfect passive for a completed state. -->
 - [ ] C) automated <!-- feedback: Incorrect. Past tense. -->
 - [ ] D) have automated <!-- feedback: Incorrect. Present perfect. -->
 
@@ -75,8 +75,8 @@ The future perfect passive indicates that the automation process will be a finis
 If she hadn't started exercising regularly, she wouldn't feel so energetic today.
 
 ### Opciones
-- [ ] A) didn't start <!-- feedback: Incorrect. Second conditional. -->
-- [x] B) hadn't started <!-- feedback: Correct. Mixed conditional (past action, present result). -->
+- [ ] B) didn't start <!-- feedback: Incorrect. Second conditional. -->
+- [x] A) hadn't started <!-- feedback: Correct. Mixed conditional (past action, present result). -->
 - [ ] C) wouldn't start <!-- feedback: Incorrect grammar in 'if' clause. -->
 - [ ] D) hasn't started <!-- feedback: Incorrect. Present perfect. -->
 
@@ -116,8 +116,8 @@ The text suggests that lifelong learning is essential for professional survival 
 
 ### Opciones
 - [ ] A) optional <!-- feedback: Incorrect. Modern markets make it necessary. -->
-- [x] B) essential <!-- feedback: Correct. Essential means absolutely necessary. -->
-- [ ] C) redundant <!-- feedback: Incorrect. Unnecessary. -->
+- [x] C) essential <!-- feedback: Correct. Essential means absolutely necessary. -->
+- [ ] B) redundant <!-- feedback: Incorrect. Unnecessary. -->
 - [ ] D) academic <!-- feedback: Incorrect. It refers to learning in all areas of life. -->
 
 ### Explicacion Pedagogica
@@ -175,8 +175,8 @@ The present continuous passive describes the current and ongoing effect of these
 Sustainable tourism seeks to minimize the environmental footprint of travelers.
 
 ### Opciones
-- [ ] A) track <!-- feedback: Incorrect. -->
-- [x] B) footprint <!-- feedback: Correct. Footprint refers to the impact left behind. -->
+- [ ] B) track <!-- feedback: Incorrect. -->
+- [x] A) footprint <!-- feedback: Correct. Footprint refers to the impact left behind. -->
 - [ ] C) shadow <!-- feedback: Incorrect. -->
 - [ ] D) path <!-- feedback: Incorrect. -->
 
@@ -195,8 +195,8 @@ Sustainable tourism seeks to minimize the environmental footprint of travelers.
 Never had I seen such an impressive collection of modern art before visiting this museum.
 
 ### Opciones
-- [ ] A) I had seen <!-- feedback: Incorrect. After 'Never', we need inversion. -->
-- [x] B) had I seen <!-- feedback: Correct. Inversion after the negative adverbial 'Never'. -->
+- [ ] B) I had seen <!-- feedback: Incorrect. After 'Never', we need inversion. -->
+- [x] A) had I seen <!-- feedback: Correct. Inversion after the negative adverbial 'Never'. -->
 - [ ] C) I saw <!-- feedback: Incorrect. -->
 - [ ] D) saw I <!-- feedback: Incorrect. -->
 
@@ -215,8 +215,8 @@ Inversion (verb before subject) is required when a sentence starts with a negati
 The paradox of modern technology is that it can foster connection while also increasing feelings of isolation.
 
 ### Opciones
-- [x] A) connection <!-- feedback: Correct. Positive side of technology. -->
-- [ ] B) wealth <!-- feedback: Incorrect. Unrelated to the social point. -->
+- [x] B) connection <!-- feedback: Correct. Positive side of technology. -->
+- [ ] A) wealth <!-- feedback: Incorrect. Unrelated to the social point. -->
 - [ ] C) speed <!-- feedback: Incorrect. While true, connection is the direct contrast to isolation. -->
 - [ ] D) safety <!-- feedback: Incorrect. Unrelated to the paradox described. -->
 
@@ -235,8 +235,8 @@ The paradox of modern technology is that it can foster connection while also inc
 An entrepreneur is someone who starts a new business and takes on financial risk.
 
 ### Opciones
-- [ ] A) employee <!-- feedback: Incorrect. -->
-- [x] B) entrepreneur <!-- feedback: Correct. Starts and manages their own business. -->
+- [ ] B) employee <!-- feedback: Incorrect. -->
+- [x] A) entrepreneur <!-- feedback: Correct. Starts and manages their own business. -->
 - [ ] C) consumer <!-- feedback: Incorrect. -->
 - [ ] D) intern <!-- feedback: Incorrect. -->
 
@@ -256,8 +256,8 @@ He ought to have confessed the truth before the situation got out of hand.
 
 ### Opciones
 - [ ] A) ought confess <!-- feedback: Incorrect grammar. -->
-- [x] B) ought to have confessed <!-- feedback: Correct. Past moral obligation that wasn't met. -->
-- [ ] C) should confess <!-- feedback: Incorrect. Present/future obligation. -->
+- [x] C) ought to have confessed <!-- feedback: Correct. Past moral obligation that wasn't met. -->
+- [ ] B) should confess <!-- feedback: Incorrect. Present/future obligation. -->
 - [ ] D) must confess <!-- feedback: Incorrect. Present/future. -->
 
 ### Explicacion Pedagogica
@@ -276,9 +276,9 @@ Scientific research must be subject to peer review to ensure its validity and ac
 
 ### Opciones
 - [ ] A) gossip <!-- feedback: Incorrect. -->
-- [x] B) peer review <!-- feedback: Correct. Professional evaluation system. -->
-- [ ] C) censorship <!-- feedback: Incorrect. -->
-- [ ] D) promotion <!-- feedback: Incorrect. -->
+- [x] D) peer review <!-- feedback: Correct. Professional evaluation system. -->
+- [ ] B) censorship <!-- feedback: Incorrect. -->
+- [ ] C) promotion <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
 'Peer review' is the critical quality control process in the scientific community.
@@ -316,9 +316,9 @@ Resilience is the capacity to recover quickly from difficulties; toughness.
 
 ### Opciones
 - [ ] A) Fragility <!-- feedback: Incorrect. Opposite of resilience. -->
-- [x] B) Resilience <!-- feedback: Correct. Definition provided. -->
-- [ ] C) Apathy <!-- feedback: Incorrect. Lack of interest. -->
-- [ ] D) Greed <!-- feedback: Incorrect. Selfish desire. -->
+- [x] D) Resilience <!-- feedback: Correct. Definition provided. -->
+- [ ] B) Apathy <!-- feedback: Incorrect. Lack of interest. -->
+- [ ] C) Greed <!-- feedback: Incorrect. Selfish desire. -->
 
 ### Explicacion Pedagogica
 'Resilience' is the recognized term for psychological and emotional strength in the face of adversity.
@@ -336,9 +336,9 @@ Empathy is the ability to understand and share the feelings of another.
 
 ### Opciones
 - [ ] A) Sympathy <!-- feedback: Incorrect. Sympathy is feeling for; empathy is feeling with. -->
-- [x] B) Empathy <!-- feedback: Correct. Core communication skill. -->
-- [ ] C) Apathy <!-- feedback: Incorrect. -->
-- [ ] D) Hostility <!-- feedback: Incorrect. -->
+- [x] D) Empathy <!-- feedback: Correct. Core communication skill. -->
+- [ ] B) Apathy <!-- feedback: Incorrect. -->
+- [ ] C) Hostility <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
 'Empathy' is fundamental for effective and compassionate human communication.
@@ -375,8 +375,8 @@ The city is getting used to the new sustainable energy regulations.
 A digital footprint is the record of your activities on the internet.
 
 ### Opciones
-- [ ] A) path <!-- feedback: Incorrect. -->
-- [x] B) footprint <!-- feedback: Correct. Standard term. -->
+- [ ] B) path <!-- feedback: Incorrect. -->
+- [x] A) footprint <!-- feedback: Correct. Standard term. -->
 - [ ] C) shadow <!-- feedback: Incorrect. -->
 - [ ] D) ID <!-- feedback: Incorrect. -->
 
@@ -415,8 +415,8 @@ In reported speech, we backshift tenses: 'My book has been...' becomes '...said 
 The most important lesson from Period 1 is the interconnectedness of global issues and personal responsibility.
 
 ### Opciones
-- [x] A) interconnectedness <!-- feedback: Correct. The state of being connected with each other. -->
-- [ ] B) isolation <!-- feedback: Incorrect. Themes showed how everything is linked. -->
+- [x] B) interconnectedness <!-- feedback: Correct. The state of being connected with each other. -->
+- [ ] A) isolation <!-- feedback: Incorrect. Themes showed how everything is linked. -->
 - [ ] C) simplicity <!-- feedback: Incorrect. Most themes were complex. -->
 - [ ] D) irrelevance <!-- feedback: Incorrect. These issues are highly relevant. -->
 

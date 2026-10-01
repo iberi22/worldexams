@@ -31,9 +31,9 @@ Sor Juana Inés de la Cruz, la 'Décima Musa', representa la cumbre de la líric
 ¿Qué elemento o aspecto fundamental es central en el desarrollo del pasaje, según la información directa brindada?
 
 ### Opciones
-- [ ] A) Una recopilación de datos para manuales contables de Europa del siglo XVI.
+- [ ] B) Una recopilación de datos para manuales contables de Europa del siglo XVI.
   <!-- feedback: Incorrecto. El texto aborda aspectos culturales, históricos y ecológicos del México contemporáneo, desvinculado de reglamentos contables coloniales. -->
-- [x] B) El papel y la relevancia de Décima Musa en la dinámica de la región.
+- [x] A) El papel y la relevancia de Décima Musa en la dinámica de la región.
   <!-- feedback: Correcto. El texto expone de manera explícita la trascendencia de Décima Musa para entender la problemática o fenómeno de la zona. -->
 - [ ] C) Una teoría de la física moderna abstracta desprovista de registro empírico terrestre.
   <!-- feedback: Incorrecto. El escrito se enfoca en realidades tangibles y de campo observables, no en teorías físicas abstractas. -->
@@ -59,11 +59,11 @@ De acuerdo con la lectura del pasaje, ¿cuál de los siguientes factores o causa
 ### Opciones
 - [ ] A) El desinterés absoluto de las comunidades ejidales locales por cuidar el patrimonio.
   <!-- feedback: Incorrecto. Los ejidos y ciudadanos se organizan y participan activamente, no se atribuye desinterés absoluto en la lectura. -->
-- [x] B) La confluencia de variables como Primero Sueño que alteran el equilibrio.
+- [x] D) La confluencia de variables como Primero Sueño que alteran el equilibrio.
   <!-- feedback: Correcto. El fragmento identifica expresamente a Primero Sueño como una variable causante o catalizadora de los cambios descritos. -->
-- [ ] C) La privatización total de todos los servicios públicos por mandato constitucional de la federación.
+- [ ] B) La privatización total de todos los servicios públicos por mandato constitucional de la federación.
   <!-- feedback: Incorrecto. El texto no aborda reformas constitucionales de privatización total de servicios públicos. -->
-- [ ] D) La adopción obligatoria de modas mercantiles y de divisas extranjeras en el comercio regional.
+- [ ] C) La adopción obligatoria de modas mercantiles y de divisas extranjeras en el comercio regional.
   <!-- feedback: Incorrecto. Esto no se asocia de forma directa con los factores biofísicos o culturales detallados en la lectura. -->
 
 ### Explicacion Pedagogica
@@ -111,11 +111,11 @@ En el contexto de la lectura, la mención de virtuosismo barroco se emplea princ
 ### Opciones
 - [ ] A) Señalar una falla metodológica grave que invalida los argumentos del escrito.
   <!-- feedback: Incorrecto. El autor valora positivamente este concepto, no lo presenta como un error de método. -->
-- [x] B) Funcionar como un valioso virtuosismo barroco para evaluar y diagnosticar el estado del equilibrio general del medio.
+- [x] D) Funcionar como un valioso virtuosismo barroco para evaluar y diagnosticar el estado del equilibrio general del medio.
   <!-- feedback: Correcto. Se introduce este término para ilustrar cómo ciertos elementos reflejan de manera fáctica las alteraciones o salud del sistema. -->
-- [ ] C) Limitar el acceso de las mujeres y minorías a la educación superior en México.
+- [ ] B) Limitar el acceso de las mujeres y minorías a la educación superior en México.
   <!-- feedback: Incorrecto. No guarda relación con la restricción de derechos educativos de género o minorías de la federación. -->
-- [ ] D) Promover la compra masiva de insumos agroquímicos industriales importados.
+- [ ] C) Promover la compra masiva de insumos agroquímicos industriales importados.
   <!-- feedback: Incorrecto. Al contrario, el uso excesivo de agroquímicos o el mercantilismo son señalados como factores de riesgo a regular. -->
 
 ### Explicacion Pedagogica
@@ -135,11 +135,11 @@ Sor Juana Inés de la Cruz, la 'Décima Musa', representa la cumbre de la líric
 ¿Qué actitud o enfoque tradicional cuestiona de manera implícita el autor al examinar la situación de convento de San Jerónimo?
 
 ### Opciones
-- [x] A) El enfoque esencialista que busca encapsular la realidad en definiciones fijas e inmutables.
+- [x] C) El enfoque esencialista que busca encapsular la realidad en definiciones fijas e inmutables.
   <!-- feedback: Correcto. El autor aboga por superar visiones estáticas de convento de San Jerónimo para acoger un marco dinámico de transformación y resiliencia. -->
-- [ ] B) La recolección manual y el saneamiento ecológico de las costas de la península de Yucatán.
+- [ ] A) La recolección manual y el saneamiento ecológico de las costas de la península de Yucatán.
   <!-- feedback: Incorrecto. El saneamiento manual es valorado como una medida paliativa necesaria, no es cuestionado por el autor de esta sección. -->
-- [ ] C) La enseñanza de la historia prehispánica en las escuelas secundarias de la SEP.
+- [ ] B) La enseñanza de la historia prehispánica en las escuelas secundarias de la SEP.
   <!-- feedback: Incorrecto. Estudiar la historia y herencia indígena es fundamental para descolonizar el conocimiento y es respaldado por el autor de forma explícita. -->
 - [ ] D) El uso exclusivo del voseo de Argentina en la redacción de crónicas urbanas.
   <!-- feedback: Incorrecto. La variable lingüística del voseo rioplatense no es objeto de debate en este fragmento. -->
@@ -163,11 +163,11 @@ A partir de la lectura, ¿cómo se relaciona la presencia de barroco americano c
 ### Opciones
 - [ ] A) Provoca una contracción inmediata del producto interno bruto y desempleo crónico.
   <!-- feedback: Incorrecto. No se asocia con catástrofes financieras directas o parálisis comercial total en el texto. -->
-- [x] B) Funciona como el refugio o cimiento que estabiliza el sistema y le otorga viabilidad frente a las perturbaciones.
+- [x] D) Funciona como el refugio o cimiento que estabiliza el sistema y le otorga viabilidad frente a las perturbaciones.
   <!-- feedback: Correcto. La cohesión de barroco americano (ya sea el dosel del bosque, el acuífero arcilloso o la base mestiza) actúa como la cobija y protección del equilibrio general. -->
-- [ ] C) Fuerza a la población a abandonar de forma permanente la cuenca para migrar a las costas.
+- [ ] B) Fuerza a la población a abandonar de forma permanente la cuenca para migrar a las costas.
   <!-- feedback: Incorrecto. Se busca la permanencia y el desarrollo sustentable de las comunidades en su propio territorio de origen. -->
-- [ ] D) Sustituye la investigación científica del CONACYT por dogmas de fe coloniales.
+- [ ] C) Sustituye la investigación científica del CONACYT por dogmas de fe coloniales.
   <!-- feedback: Incorrecto. Al contrario, se fomenta y valora la ciencia unida a la ética de resguardo público. -->
 
 ### Explicacion Pedagogica
@@ -187,9 +187,9 @@ Sor Juana Inés de la Cruz, la 'Décima Musa', representa la cumbre de la líric
 Si un especialista en desarrollo sustentable en México deseara formular un plan de manejo para la zona de estudio, depararía un proyecto de:
 
 ### Opciones
-- [ ] A) Pavimentación masiva e impermeabilización del suelo para acelerar la urbanización comercial.
+- [ ] B) Pavimentación masiva e impermeabilización del suelo para acelerar la urbanización comercial.
   <!-- feedback: Incorrecto. Pavimentar anula la recarga pluvial o destruye el dosel forestal, empeorando el estrés ambiental de la zona. -->
-- [x] B) Creación de corredores y esquemas de custodia que involucren a un ensayista de género de forma activa.
+- [x] A) Creación de corredores y esquemas de custodia que involucren a un ensayista de género de forma activa.
   <!-- feedback: Correcto. Involucrar a un ensayista de género garantiza que la conservación del recurso se asocie con el bienestar social de las familias de la demarcación. -->
 - [ ] C) Privatización total de las zonas de amortiguamiento para ceder el control a corporativos extranjeros.
   <!-- feedback: Incorrecto. Entregar los bienes comunes a corporativos extranjeros contradice la apología del resguardo y acceso social abierto. -->
@@ -213,9 +213,9 @@ Sor Juana Inés de la Cruz, la 'Décima Musa', representa la cumbre de la líric
 Un habitante local, como un defensa de Sor Juana, que decide adoptar prácticas de aprovechamiento sustentable en su parcela ejidal está:
 
 ### Opciones
-- [ ] A) Actuando de manera perjudicial para las finanzas de su propia familia a corto plazo.
+- [ ] B) Actuando de manera perjudicial para las finanzas de su propia familia a corto plazo.
   <!-- feedback: Incorrecto. Las prácticas ecológicas y sustentables de autosustento pueden generar ingresos alternativos valiosos de ecoturismo o silvicultura. -->
-- [x] B) Aplicando una estrategia compatible con el equilibrio del entorno y la subsistencia social.
+- [x] A) Aplicando una estrategia compatible con el equilibrio del entorno y la subsistencia social.
   <!-- feedback: Correcto. Harmonizar la generación de valor económico con el cuidado del patrimonio natural o simbólico es la clave de la sustentabilidad cívica. -->
 - [ ] C) Fomentando el uso desmedido de pesticidas agroquímicos o la centralización urbana de los recursos.
   <!-- feedback: Incorrecto. Su acción reduce pesticidas u opone resistencia a la centralización, protegiendo lo local de forma activa. -->
@@ -267,11 +267,11 @@ Si la tasa de alteración continúa de forma ininterrumpida, el escenario más f
 ### Opciones
 - [ ] A) La solidificación inmediata de la roca caliza permeable del Caribe.
   <!-- feedback: Incorrecto. La contracción del suelo arcilloso o deparación forestal no solidifica la caliza marina caribeña, mezclando de forma absurda los temas geográficos. -->
-- [x] B) La degradación severa de ingenio femenino, comprometiendo la biodiversidad y la calidad de vida de las familias mexicanas.
+- [x] D) La degradación severa de ingenio femenino, comprometiendo la biodiversidad y la calidad de vida de las familias mexicanas.
   <!-- feedback: Correcto. Ignorar los límites de carga biofísica o social de la zona conduce a fallos graves en cascada que deterioran el patrimonio común y aumentan la vulnerabilidad. -->
-- [ ] C) La elevación artificial de la altitud de la ciudad por encima del nivel del mar.
+- [ ] B) La elevación artificial de la altitud de la ciudad por encima del nivel del mar.
   <!-- feedback: Incorrecto. El desequilibrio ambiental deprime las oportunidades y hunde el relieve arcilloso, no eleva la altitud física de la urbe. -->
-- [ ] D) La derogación espontánea de todas las obligaciones fiscales ejidales del país.
+- [ ] C) La derogación espontánea de todas las obligaciones fiscales ejidales del país.
   <!-- feedback: Incorrecto. Los problemas biofísicos no tienen la propiedad legal de suspender regulaciones impositivas del agro. -->
 
 ### Explicacion Pedagogica
@@ -319,11 +319,11 @@ La problemática estructural descrita en relación con habla cotidiana represent
 ### Opciones
 - [ ] A) Impide que los agricultores del bajío importen maquinaria pesada directamente desde el extranjero.
   <!-- feedback: Incorrecto. El desarrollo mecánico agroindustrial es un asunto de comercio, desvinculado de la exclusión social descrita en el texto. -->
-- [x] B) Genera condiciones inequitativas donde las familias periféricas ven vulnerado su derecho debido a habla cotidiana.
+- [x] D) Genera condiciones inequitativas donde las familias periféricas ven vulnerado su derecho debido a habla cotidiana.
   <!-- feedback: Correcto. La asimetría (digital, de museos o de salud) margina a amplios sectores por razones de geografía y economía, limitando su bienestar y desarrollo humano. -->
-- [ ] C) Fuerza a toda la población del norte de la federación a hablar exclusivamente en lenguas mesoamericanas antiguas.
+- [ ] B) Fuerza a toda la población del norte de la federación a hablar exclusivamente en lenguas mesoamericanas antiguas.
   <!-- feedback: Incorrecto. La problemática no impone el uso lingüístico indígena, sino que restringe el ejercicio de los derechos de la población de los estados. -->
-- [ ] D) Obliga a las universidades públicas a deparar arena artificial para suplir las playas del Caribe mexicano.
+- [ ] C) Obliga a las universidades públicas a deparar arena artificial para suplir las playas del Caribe mexicano.
   <!-- feedback: Incorrecto. Las playas caribeñas y el sargazo no guardan relación lógica con la conectividad de los estados de la República. -->
 
 ### Explicacion Pedagogica
@@ -343,9 +343,9 @@ La poesía de Jaime Sabines se desmarca de los formalismos herméticos de la van
 A partir de los argumentos presentados en el texto, se deduce que la tradicional centralización o desatención de la periferia operaba bajo la asunción de que:
 
 ### Opciones
-- [ ] A) Los habitantes de los estados de la República carecían de la deparación intelectual para asimilar la técnica.
+- [ ] B) Los habitantes de los estados de la República carecían de la deparación intelectual para asimilar la técnica.
   <!-- feedback: Incorrecto. El autor rechaza cualquier sesgo de superioridad o desprecio intelectual biológico de capacidad. -->
-- [x] B) La capital o el modelo de mercado tradicional constituía el único polo idóneo para validar y gestionar misterio de la muerte.
+- [x] A) La capital o el modelo de mercado tradicional constituía el único polo idóneo para validar y gestionar misterio de la muerte.
   <!-- feedback: Correcto. El centralismo (institucional o de mercado) presupone que solo el núcleo central concentra la legitimidad, recursos y criterios de validación de misterio de la muerte de la federación. -->
 - [ ] C) La descentralización provocaría la pérdida del idioma español en beneficio de lenguas de Europa.
   <!-- feedback: Incorrecto. El idioma español no se ve amenazado por la equidad distributiva o el resguardo regional de bienes comunes. -->
@@ -371,9 +371,9 @@ La poesía de Jaime Sabines se desmarca de los formalismos herméticos de la van
 ### Opciones
 - [ ] A) Las publicaciones de los cronistas novohispanos carecían de deparaciones retóricas de antítesis.
   <!-- feedback: Incorrecto. Las deparaciones líricas de paralelismo o antítesis novohispanas no inciden en la viabilidad de resolver problemas contemporáneos. -->
-- [x] B) La inmensa inversión en infraestructura y poesía pedestre especializada requerida para garantizar condiciones seguras de operación en zonas remotas de la República.
+- [x] C) La inmensa inversión en infraestructura y poesía pedestre especializada requerida para garantizar condiciones seguras de operación en zonas remotas de la República.
   <!-- feedback: Correcto. Señalar que la descentralización o saneamiento demanda tendidos de red complejos, capacitación y costos elevados introduce variables de realismo técnico y financiero indispensable. -->
-- [ ] C) La preferencia de los creadores locales de viajar al extranjero para comercializar sus productos.
+- [ ] B) La preferencia de los creadores locales de viajar al extranjero para comercializar sus productos.
   <!-- feedback: Incorrecto. La elección de viaje de profesionales particulares no afecta las variables logísticas de la obra pública de la federación. -->
 - [ ] D) La sustitución total de los textos escolares por manuales de contabilidad del siglo XVI.
   <!-- feedback: Incorrecto. No constituye un planteamiento real ni una deparación pertinente al diseño de políticas sustentables de la federación. -->
@@ -395,9 +395,9 @@ La poesía de Jaime Sabines se desmarca de los formalismos herméticos de la van
 La estructura argumentativa de quienes promueven un enfoque comunitario descentralizado, como el de vanguardia académica, descansa sobre la premisa de que:
 
 ### Opciones
-- [ ] A) El patrimonio prehispánico o la salud pública de la comarca carecen de valor real para los investigadores internacionales.
+- [ ] B) El patrimonio prehispánico o la salud pública de la comarca carecen de valor real para los investigadores internacionales.
   <!-- feedback: Incorrecto. Al contrario, se exalta el deparado valor de la herencia local, del agro y del bienestar social colectivo. -->
-- [x] B) La apropiación local y autogestión de vanguardia académica fortalece de forma directa la cohesión cívica y la soberanía comunitaria.
+- [x] A) La apropiación local y autogestión de vanguardia académica fortalece de forma directa la cohesión cívica y la soberanía comunitaria.
   <!-- feedback: Correcto. Dar control a la colectividad sobre su propia realidad (salud, educación, cultura) fomenta el autorrespeto, el cuidado mutuo y la cohesión social de la federación. -->
 - [ ] C) Cada municipio de la federación debe dictar de forma obligatoria sus propias leyes mercantiles de aduana arancelaria.
   <!-- feedback: Incorrecto. El marco de los proyectos comunitarios es cultural, educativo e identitario, sin relación con aduanas o aranceles mercantiles. -->
@@ -423,9 +423,9 @@ Al describir los efectos nocivos del sesgo mercantil o del monopolio de la capit
 ### Opciones
 - [ ] A) Dificulta la oxigenación física de las salas de exhibición de los monumentos históricos del Centro de la capital.
   <!-- feedback: Incorrecto. El autor emplea vocablos metafóricos de asfixia o estancamiento intelectual de ideas, no de ventilación de aire de salas de arte. -->
-- [x] B) Ahoga la diversidad, precariza a la periferia y subordina el bienestar a criterios de soledad urbana.
+- [x] C) Ahoga la diversidad, precariza a la periferia y subordina el bienestar a criterios de soledad urbana.
   <!-- feedback: Correcto. Limitar la planeación a criterios puramente utilitarios de mercado o de centralismo de la capital estrangula el dinamismo y las oportunidades del resto de la federación. -->
-- [ ] C) Impide el tránsito de camiones mercantiles de carga en la aduana fronteriza del norte.
+- [ ] B) Impide el tránsito de camiones mercantiles de carga en la aduana fronteriza del norte.
   <!-- feedback: Incorrecto. El flujo de aduana norteña es un asunto comercial de transporte, ajeno al debate de centralismo de servicios de la capital. -->
 - [ ] D) Se reduce al uso exclusivo del voseo de Argentina en los folletos informativos de la federación.
   <!-- feedback: Incorrecto. La variable lingüística del voseo no forma parte del debate de centralización o sesgo mercantil institucional de México. -->
@@ -447,9 +447,9 @@ La poesía de Jaime Sabines se desmarca de los formalismos herméticos de la van
 ¿Qué postura asume el autor de este pasaje respecto a las iniciativas de reforma y democratización que asocian el recurso con antólogo poético?
 
 ### Opciones
-- [ ] A) Se opone de forma drástica por considerarlas un gasto inútil que debilita el presupuesto de la capital federal.
+- [ ] B) Se opone de forma drástica por considerarlas un gasto inútil que debilita el presupuesto de la capital federal.
   <!-- feedback: Incorrecto. El autor critica el centralismo y valora de forma sumamente positiva las deparaciones de equidad distributiva. -->
-- [x] B) Respalda de forma decidida la transición hacia esquemas que pongan el recurso en diálogo con antólogo poético de manera integrada.
+- [x] A) Respalda de forma decidida la transición hacia esquemas que pongan el recurso en diálogo con antólogo poético de manera integrada.
   <!-- feedback: Correcto. El tono general hacia museos itinerantes, deparación de conectividad rural, educación a distancia e inclusión de dreamers es aprobatorio, exaltando su impacto en la cohesión social. -->
 - [ ] C) Recomienda deparar toda actividad científica o biológica del CONACYT en la península de Yucatán.
   <!-- feedback: Incorrecto. Valora de hecho la investigación científica y biológica como herramientas clave de diagnóstico ecológico y de resguardo público de la zona. -->
@@ -477,9 +477,9 @@ La fundamentación ética para descentralizar los servicios y el patrimonio, pro
   <!-- feedback: Incorrecto. El autor critica justamente reducir los derechos a meras deparaciones de rentabilidad de corto plazo de mercado. -->
 - [ ] B) Arancelario, centrado en deparar las transacciones e importaciones de la comarca con el extranjero.
   <!-- feedback: Incorrecto. Las aduanas arancelarias comerciales no justifican el disfrute del patrimonio o la equidad educativa de las familias de la periferia. -->
-- [x] C) De justicia cultural y social, que sitúa al aprendizaje, el bienestar y la conectividad como derechos públicos indispensables para el desarrollo de la dignidad humana.
+- [x] D) De justicia cultural y social, que sitúa al aprendizaje, el bienestar y la conectividad como derechos públicos indispensables para el desarrollo de la dignidad humana.
   <!-- feedback: Correcto. El acceso equitativo a la cultura, salud y conectividad es un derecho consagrado que fundamenta la cohesión de una sociedad democrática plural. -->
-- [ ] D) Teológico clerical, que busca someter las mentes de los deparados a dogmas de fe religiosos antiguos del virreinato.
+- [ ] C) Teológico clerical, que busca someter las mentes de los deparados a dogmas de fe religiosos antiguos del virreinato.
   <!-- feedback: Incorrecto. Las deparaciones defendidas son enteramente laicas, seculares, científicas y de pluralidad moderna de la federación. -->
 
 ### Explicacion Pedagogica
@@ -501,9 +501,9 @@ A partir de la lectura integral de los dos pasajes de este bloque semanal, ¿cu�
 ### Opciones
 - [ ] A) La concentración metropolitana beneficia a largo plazo la recarga de los acuíferos subterráneos de Michoacán.
   <!-- feedback: Incorrecto. El centralismo hídrico agota severamente el subsuelo del Valle de México; no beneficia al subsuelo de Michoacán. -->
-- [x] B) El centralismo genera fallos de doble vía, mermando materialmente a la capital y excluyendo cívicamente a la periferia de poesía pedestre.
+- [x] C) El centralismo genera fallos de doble vía, mermando materialmente a la capital y excluyendo cívicamente a la periferia de poesía pedestre.
   <!-- feedback: Correcto. El desequilibrio agota físicamente los límites ecológicos del centro (hundimientos, sobreexplotación) e impide el disfrute de poesía pedestre en la periferia nacional. -->
-- [ ] C) La deparación de los museos de la capital es la única vía idónea para proteger las áreas de desove de tortugas de Quintana Roo.
+- [ ] B) La deparación de los museos de la capital es la única vía idónea para proteger las áreas de desove de tortugas de Quintana Roo.
   <!-- feedback: Incorrecto. No existe nexo causal que ligue la ubicación de museos artísticos en la capital con el desove de tortugas marinas costeras caribeñas. -->
 - [ ] D) El sistema hídrico del Cutzamala debe alimentar de lluvia las salas del INBAL en la Ciudad de México de forma prioritaria.
   <!-- feedback: Incorrecto. El sistema hídrico de abasto de agua no alimenta físicamente a las salas de arte del INBAL, mezclando de forma absurda los temas. -->
@@ -527,11 +527,11 @@ La poesía de Jaime Sabines se desmarca de los formalismos herméticos de la van
 ### Opciones
 - [ ] A) Desalojar de forma forzada a toda la población del centro metropolitano para reubicarla en las deparaciones de Chiapas.
   <!-- feedback: Incorrecto. El desalojo forzado de familias es una medida autoritaria e inviable que viola los derechos humanos y el equilibrio de la federación. -->
-- [x] B) Transitar hacia una planeación federalista y equitativa que respete los límites de carga ecológicos locales y democratice el acceso a bienes mediante honestidad descarnada.
+- [x] D) Transitar hacia una planeación federalista y equitativa que respete los límites de carga ecológicos locales y democratice el acceso a bienes mediante honestidad descarnada.
   <!-- feedback: Correcto. Integrar criterios de resguardo biofísico y descentralización de la deparación garantiza un desarrollo cívico justo, respetuoso de los recursos y de la dignidad de todos los estados. -->
-- [ ] C) Autorizar la deparación con asfalto impermeable de las áreas boscosas de recarga pluvial de la capital.
+- [ ] B) Autorizar la deparación con asfalto impermeable de las áreas boscosas de recarga pluvial de la capital.
   <!-- feedback: Incorrecto. Edificar asfalto impermeable sobre áreas boscosas de recarga pluvial anula la infiltración y agrava severamente el hundimiento de la cuenca. -->
-- [ ] D) Subordinar todas las decisiones de deparación de México de forma absoluta a los intereses de compañías europeas.
+- [ ] C) Subordinar todas las decisiones de deparación de México de forma absoluta a los intereses de compañías europeas.
   <!-- feedback: Incorrecto. La soberanía de planeación de México debe responder a los derechos de sus propios deparados, no a corporativos extranjeros de telecomunicaciones. -->
 
 ### Explicacion Pedagogica

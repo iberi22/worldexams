@@ -33,9 +33,9 @@ La migración de la mariposa monarca desde los bosques de Canadá y Estados Unid
 ### Opciones
 - [ ] A) Una recopilación de datos para manuales contables de Europa del siglo XVI.
   <!-- feedback: Incorrecto. El texto aborda aspectos culturales, históricos y ecológicos del México contemporáneo, desvinculado de reglamentos contables coloniales. -->
-- [x] B) El papel y la relevancia de bosque de oyamel en la dinámica de la región.
+- [x] C) El papel y la relevancia de bosque de oyamel en la dinámica de la región.
   <!-- feedback: Correcto. El texto expone de manera explícita la trascendencia de bosque de oyamel para entender la problemática o fenómeno de la zona. -->
-- [ ] C) Una teoría de la física moderna abstracta desprovista de registro empírico terrestre.
+- [ ] B) Una teoría de la física moderna abstracta desprovista de registro empírico terrestre.
   <!-- feedback: Incorrecto. El escrito se enfoca en realidades tangibles y de campo observables, no en teorías físicas abstractas. -->
 - [ ] D) La prohibición de toda actividad de artes clásicas en las universidades públicas de la federación.
   <!-- feedback: Incorrecto. No se menciona ninguna prohibición de índole académica artística en las facultades. -->
@@ -59,11 +59,11 @@ De acuerdo con la lectura del pasaje, ¿cuál de los siguientes factores o causa
 ### Opciones
 - [ ] A) El desinterés absoluto de las comunidades ejidales locales por cuidar el patrimonio.
   <!-- feedback: Incorrecto. Los ejidos y ciudadanos se organizan y participan activamente, no se atribuye desinterés absoluto en la lectura. -->
-- [x] B) La confluencia de variables como cambio climático que alteran el equilibrio.
+- [x] D) La confluencia de variables como cambio climático que alteran el equilibrio.
   <!-- feedback: Correcto. El fragmento identifica expresamente a cambio climático como una variable causante o catalizadora de los cambios descritos. -->
-- [ ] C) La privatización total de todos los servicios públicos por mandato constitucional de la federación.
+- [ ] B) La privatización total de todos los servicios públicos por mandato constitucional de la federación.
   <!-- feedback: Incorrecto. El texto no aborda reformas constitucionales de privatización total de servicios públicos. -->
-- [ ] D) La adopción obligatoria de modas mercantiles y de divisas extranjeras en el comercio regional.
+- [ ] C) La adopción obligatoria de modas mercantiles y de divisas extranjeras en el comercio regional.
   <!-- feedback: Incorrecto. Esto no se asocia de forma directa con los factores biofísicos o culturales detallados en la lectura. -->
 
 ### Explicacion Pedagogica
@@ -85,9 +85,9 @@ A partir de la exposición del autor, se comprende que el fenómeno estudiado ex
 ### Opciones
 - [ ] A) Un proceso aislado y estático que rechaza toda interacción o intercambio con el exterior.
   <!-- feedback: Incorrecto. Concebir el sistema como cerrado contradice la interconexión dinámica de flujos descrita. -->
-- [x] B) Un flujo dinámico e interconectado, ejemplificado por el papel de polinizador.
+- [x] C) Un flujo dinámico e interconectado, ejemplificado por el papel de polinizador.
   <!-- feedback: Correcto. El autor argumenta que polinizador representa la interdependencia y dinamismo del sistema, que no puede entenderse de forma aislada. -->
-- [ ] C) Un inventario de catálogos administrativos inalterable dictado por las aduanas arancelarias.
+- [ ] B) Un inventario de catálogos administrativos inalterable dictado por las aduanas arancelarias.
   <!-- feedback: Incorrecto. El enfoque del autor es de ecología o sociocultural, no arancelario o fiscal de aduanas comerciales. -->
 - [ ] D) Una imitación dócil de los modelos de planeación de las ciudades del viejo mundo.
   <!-- feedback: Incorrecto. El texto exalta el desarrollo autónomo o la asimilación creativa de la realidad local de la federación. -->
@@ -161,9 +161,9 @@ La migración de la mariposa monarca desde los bosques de Canadá y Estados Unid
 A partir de la lectura, ¿cómo se relaciona la presencia de fragmentación con el bienestar general del entorno social o natural?
 
 ### Opciones
-- [ ] A) Provoca una contracción inmediata del producto interno bruto y desempleo crónico.
+- [ ] B) Provoca una contracción inmediata del producto interno bruto y desempleo crónico.
   <!-- feedback: Incorrecto. No se asocia con catástrofes financieras directas o parálisis comercial total en el texto. -->
-- [x] B) Funciona como el refugio o cimiento que estabiliza el sistema y le otorga viabilidad frente a las perturbaciones.
+- [x] A) Funciona como el refugio o cimiento que estabiliza el sistema y le otorga viabilidad frente a las perturbaciones.
   <!-- feedback: Correcto. La cohesión de fragmentación (ya sea el dosel del bosque, el acuífero arcilloso o la base mestiza) actúa como la cobija y protección del equilibrio general. -->
 - [ ] C) Fuerza a la población a abandonar de forma permanente la cuenca para migrar a las costas.
   <!-- feedback: Incorrecto. Se busca la permanencia y el desarrollo sustentable de las comunidades en su propio territorio de origen. -->
@@ -189,11 +189,11 @@ Si un especialista en desarrollo sustentable en México deseara formular un plan
 ### Opciones
 - [ ] A) Pavimentación masiva e impermeabilización del suelo para acelerar la urbanización comercial.
   <!-- feedback: Incorrecto. Pavimentar anula la recarga pluvial o destruye el dosel forestal, empeorando el estrés ambiental de la zona. -->
-- [x] B) Creación de corredores y esquemas de custodia que involucren a un biólogo de la UNAM de forma activa.
+- [x] D) Creación de corredores y esquemas de custodia que involucren a un biólogo de la UNAM de forma activa.
   <!-- feedback: Correcto. Involucrar a un biólogo de la UNAM garantiza que la conservación del recurso se asocie con el bienestar social de las familias de la demarcación. -->
-- [ ] C) Privatización total de las zonas de amortiguamiento para ceder el control a corporativos extranjeros.
+- [ ] B) Privatización total de las zonas de amortiguamiento para ceder el control a corporativos extranjeros.
   <!-- feedback: Incorrecto. Entregar los bienes comunes a corporativos extranjeros contradice la apología del resguardo y acceso social abierto. -->
-- [ ] D) Suspensión de las clases de educación superior de la SEP de manera permanente.
+- [ ] C) Suspensión de las clases de educación superior de la SEP de manera permanente.
   <!-- feedback: Incorrecto. No se asocia con el cierre permanente de facultades o cese de clases escolares de la federación. -->
 
 ### Explicacion Pedagogica
@@ -215,9 +215,9 @@ Un habitante local, como un ejidatario, que decide adoptar prácticas de aprovec
 ### Opciones
 - [ ] A) Actuando de manera perjudicial para las finanzas de su propia familia a corto plazo.
   <!-- feedback: Incorrecto. Las prácticas ecológicas y sustentables de autosustento pueden generar ingresos alternativos valiosos de ecoturismo o silvicultura. -->
-- [x] B) Aplicando una estrategia compatible con el equilibrio del entorno y la subsistencia social.
+- [x] C) Aplicando una estrategia compatible con el equilibrio del entorno y la subsistencia social.
   <!-- feedback: Correcto. Harmonizar la generación de valor económico con el cuidado del patrimonio natural o simbólico es la clave de la sustentabilidad cívica. -->
-- [ ] C) Fomentando el uso desmedido de pesticidas agroquímicos o la centralización urbana de los recursos.
+- [ ] B) Fomentando el uso desmedido de pesticidas agroquímicos o la centralización urbana de los recursos.
   <!-- feedback: Incorrecto. Su acción reduce pesticidas u opone resistencia a la centralización, protegiendo lo local de forma activa. -->
 - [ ] D) Violando las directrices federales de la Secretaría de Educación Pública.
   <!-- feedback: Incorrecto. El aprovechamiento ejidal sustentable es legal y respaldado por la normatividad federal de la federación vigente. -->
@@ -267,11 +267,11 @@ Si la tasa de alteración continúa de forma ininterrumpida, el escenario más f
 ### Opciones
 - [ ] A) La solidificación inmediata de la roca caliza permeable del Caribe.
   <!-- feedback: Incorrecto. La contracción del suelo arcilloso o deparación forestal no solidifica la caliza marina caribeña, mezclando de forma absurda los temas geográficos. -->
-- [x] B) La degradación severa de biodiversidad vegetal, comprometiendo la biodiversidad y la calidad de vida de las familias mexicanas.
+- [x] D) La degradación severa de biodiversidad vegetal, comprometiendo la biodiversidad y la calidad de vida de las familias mexicanas.
   <!-- feedback: Correcto. Ignorar los límites de carga biofísica o social de la zona conduce a fallos graves en cascada que deterioran el patrimonio común y aumentan la vulnerabilidad. -->
-- [ ] C) La elevación artificial de la altitud de la ciudad por encima del nivel del mar.
+- [ ] B) La elevación artificial de la altitud de la ciudad por encima del nivel del mar.
   <!-- feedback: Incorrecto. El desequilibrio ambiental deprime las oportunidades y hunde el relieve arcilloso, no eleva la altitud física de la urbe. -->
-- [ ] D) La derogación espontánea de todas las obligaciones fiscales ejidales del país.
+- [ ] C) La derogación espontánea de todas las obligaciones fiscales ejidales del país.
   <!-- feedback: Incorrecto. Los problemas biofísicos no tienen la propiedad legal de suspender regulaciones impositivas del agro. -->
 
 ### Explicacion Pedagogica
@@ -293,11 +293,11 @@ Si una autoridad pública de México deseara diseñar una iniciativa gubernament
 ### Opciones
 - [ ] A) Suspender de forma definitiva todo presupuesto para investigación científica o cultural en las entidades de la República.
   <!-- feedback: Incorrecto. Limitar la investigación debilita la toma de decisiones de la federación y el desarrollo integral de las regiones. -->
-- [x] B) Garantizar esquemas de inclusión orientados a solventar el problema de nutrientes del Amazonas de forma viable.
+- [x] D) Garantizar esquemas de inclusión orientados a solventar el problema de nutrientes del Amazonas de forma viable.
   <!-- feedback: Correcto. Aplicar la tesis crítica exige que hotelero de Cancún actúe de manera directa para corregir exclusiones, democratizando los recursos o el arte. -->
-- [ ] C) Privatizar completamente el patrimonio arqueológico e histórico para depararlo a la explotación hotelera comercial.
+- [ ] B) Privatizar completamente el patrimonio arqueológico e histórico para depararlo a la explotación hotelera comercial.
   <!-- feedback: Incorrecto. El pasaje se opone a la mercantilización excluyente y defiende el carácter público de los bienes comunes. -->
-- [ ] D) Adoptar de forma obligatoria el voseo de Argentina en la redacción de los folletos turísticos nacionales de la federación.
+- [ ] C) Adoptar de forma obligatoria el voseo de Argentina en la redacción de los folletos turísticos nacionales de la federación.
   <!-- feedback: Incorrecto. Las variables lingüísticas de la península o de Argentina carecen de pertinencia cívica para resolver el centralismo o desabasto local. -->
 
 ### Explicacion Pedagogica
@@ -345,11 +345,11 @@ A partir de los argumentos presentados en el texto, se deduce que la tradicional
 ### Opciones
 - [ ] A) Los habitantes de los estados de la República carecían de la deparación intelectual para asimilar la técnica.
   <!-- feedback: Incorrecto. El autor rechaza cualquier sesgo de superioridad o desprecio intelectual biológico de capacidad. -->
-- [x] B) La capital o el modelo de mercado tradicional constituía el único polo idóneo para validar y gestionar paradoja ecológica.
+- [x] D) La capital o el modelo de mercado tradicional constituía el único polo idóneo para validar y gestionar paradoja ecológica.
   <!-- feedback: Correcto. El centralismo (institucional o de mercado) presupone que solo el núcleo central concentra la legitimidad, recursos y criterios de validación de paradoja ecológica de la federación. -->
-- [ ] C) La descentralización provocaría la pérdida del idioma español en beneficio de lenguas de Europa.
+- [ ] B) La descentralización provocaría la pérdida del idioma español en beneficio de lenguas de Europa.
   <!-- feedback: Incorrecto. El idioma español no se ve amenazado por la equidad distributiva o el resguardo regional de bienes comunes. -->
-- [ ] D) Los restos de los cenotes sagrados debían ser trasladados a oficinas burocráticas comerciales para subasta.
+- [ ] C) Los restos de los cenotes sagrados debían ser trasladados a oficinas burocráticas comerciales para subasta.
   <!-- feedback: Incorrecto. Las exploraciones subacuáticas de cenotes no forman parte del debate de este fragmento educativo o de servicios. -->
 
 ### Explicacion Pedagogica
@@ -371,9 +371,9 @@ La afluencia masiva de sargazo a las playas del Caribe mexicano ha dejado de ser
 ### Opciones
 - [ ] A) Las publicaciones de los cronistas novohispanos carecían de deparaciones retóricas de antítesis.
   <!-- feedback: Incorrecto. Las deparaciones líricas de paralelismo o antítesis novohispanas no inciden en la viabilidad de resolver problemas contemporáneos. -->
-- [x] B) La inmensa inversión en infraestructura y falta de oxígeno especializada requerida para garantizar condiciones seguras de operación en zonas remotas de la República.
+- [x] C) La inmensa inversión en infraestructura y falta de oxígeno especializada requerida para garantizar condiciones seguras de operación en zonas remotas de la República.
   <!-- feedback: Correcto. Señalar que la descentralización o saneamiento demanda tendidos de red complejos, capacitación y costos elevados introduce variables de realismo técnico y financiero indispensable. -->
-- [ ] C) La preferencia de los creadores locales de viajar al extranjero para comercializar sus productos.
+- [ ] B) La preferencia de los creadores locales de viajar al extranjero para comercializar sus productos.
   <!-- feedback: Incorrecto. La elección de viaje de profesionales particulares no afecta las variables logísticas de la obra pública de la federación. -->
 - [ ] D) La sustitución total de los textos escolares por manuales de contabilidad del siglo XVI.
   <!-- feedback: Incorrecto. No constituye un planteamiento real ni una deparación pertinente al diseño de políticas sustentables de la federación. -->
@@ -395,9 +395,9 @@ La afluencia masiva de sargazo a las playas del Caribe mexicano ha dejado de ser
 La estructura argumentativa de quienes promueven un enfoque comunitario descentralizado, como el de medidas paliativas, descansa sobre la premisa de que:
 
 ### Opciones
-- [ ] A) El patrimonio prehispánico o la salud pública de la comarca carecen de valor real para los investigadores internacionales.
+- [ ] B) El patrimonio prehispánico o la salud pública de la comarca carecen de valor real para los investigadores internacionales.
   <!-- feedback: Incorrecto. Al contrario, se exalta el deparado valor de la herencia local, del agro y del bienestar social colectivo. -->
-- [x] B) La apropiación local y autogestión de medidas paliativas fortalece de forma directa la cohesión cívica y la soberanía comunitaria.
+- [x] A) La apropiación local y autogestión de medidas paliativas fortalece de forma directa la cohesión cívica y la soberanía comunitaria.
   <!-- feedback: Correcto. Dar control a la colectividad sobre su propia realidad (salud, educación, cultura) fomenta el autorrespeto, el cuidado mutuo y la cohesión social de la federación. -->
 - [ ] C) Cada municipio de la federación debe dictar de forma obligatoria sus propias leyes mercantiles de aduana arancelaria.
   <!-- feedback: Incorrecto. El marco de los proyectos comunitarios es cultural, educativo e identitario, sin relación con aduanas o aranceles mercantiles. -->
@@ -423,9 +423,9 @@ Al describir los efectos nocivos del sesgo mercantil o del monopolio de la capit
 ### Opciones
 - [ ] A) Dificulta la oxigenación física de las salas de exhibición de los monumentos históricos del Centro de la capital.
   <!-- feedback: Incorrecto. El autor emplea vocablos metafóricos de asfixia o estancamiento intelectual de ideas, no de ventilación de aire de salas de arte. -->
-- [x] B) Ahoga la diversidad, precariza a la periferia y subordina el bienestar a criterios de turismo de playa.
+- [x] C) Ahoga la diversidad, precariza a la periferia y subordina el bienestar a criterios de turismo de playa.
   <!-- feedback: Correcto. Limitar la planeación a criterios puramente utilitarios de mercado o de centralismo de la capital estrangula el dinamismo y las oportunidades del resto de la federación. -->
-- [ ] C) Impide el tránsito de camiones mercantiles de carga en la aduana fronteriza del norte.
+- [ ] B) Impide el tránsito de camiones mercantiles de carga en la aduana fronteriza del norte.
   <!-- feedback: Incorrecto. El flujo de aduana norteña es un asunto comercial de transporte, ajeno al debate de centralismo de servicios de la capital. -->
 - [ ] D) Se reduce al uso exclusivo del voseo de Argentina en los folletos informativos de la federación.
   <!-- feedback: Incorrecto. La variable lingüística del voseo no forma parte del debate de centralización o sesgo mercantil institucional de México. -->
@@ -449,11 +449,11 @@ La afluencia masiva de sargazo a las playas del Caribe mexicano ha dejado de ser
 ### Opciones
 - [ ] A) Se opone de forma drástica por considerarlas un gasto inútil que debilita el presupuesto de la capital federal.
   <!-- feedback: Incorrecto. El autor critica el centralismo y valora de forma sumamente positiva las deparaciones de equidad distributiva. -->
-- [x] B) Respalda de forma decidida la transición hacia esquemas que pongan el recurso en diálogo con escorrentía agrícola de manera integrada.
+- [x] D) Respalda de forma decidida la transición hacia esquemas que pongan el recurso en diálogo con escorrentía agrícola de manera integrada.
   <!-- feedback: Correcto. El tono general hacia museos itinerantes, deparación de conectividad rural, educación a distancia e inclusión de dreamers es aprobatorio, exaltando su impacto en la cohesión social. -->
-- [ ] C) Recomienda deparar toda actividad científica o biológica del CONACYT en la península de Yucatán.
+- [ ] B) Recomienda deparar toda actividad científica o biológica del CONACYT en la península de Yucatán.
   <!-- feedback: Incorrecto. Valora de hecho la investigación científica y biológica como herramientas clave de diagnóstico ecológico y de resguardo público de la zona. -->
-- [ ] D) Propone la fusión de todas las universidades públicas de la federación en corporaciones de negocios de Monterrey.
+- [ ] C) Propone la fusión de todas las universidades públicas de la federación en corporaciones de negocios de Monterrey.
   <!-- feedback: Incorrecto. Esta propuesta privatizadora contradice la apología del bien común y resguardo social de la federación. -->
 
 ### Explicacion Pedagogica
@@ -475,9 +475,9 @@ La fundamentación ética para descentralizar los servicios y el patrimonio, pro
 ### Opciones
 - [ ] A) Puramente analítica y pragmático, que mide el éxito educativo o cultural únicamente por el retorno de inversión comercial cuantificable.
   <!-- feedback: Incorrecto. El autor critica justamente reducir los derechos a meras deparaciones de rentabilidad de corto plazo de mercado. -->
-- [ ] B) Arancelario, centrado en deparar las transacciones e importaciones de la comarca con el extranjero.
+- [ ] C) Arancelario, centrado en deparar las transacciones e importaciones de la comarca con el extranjero.
   <!-- feedback: Incorrecto. Las aduanas arancelarias comerciales no justifican el disfrute del patrimonio o la equidad educativa de las familias de la periferia. -->
-- [x] C) De justicia cultural y social, que sitúa al aprendizaje, el bienestar y la conectividad como derechos públicos indispensables para el desarrollo de la dignidad humana.
+- [x] B) De justicia cultural y social, que sitúa al aprendizaje, el bienestar y la conectividad como derechos públicos indispensables para el desarrollo de la dignidad humana.
   <!-- feedback: Correcto. El acceso equitativo a la cultura, salud y conectividad es un derecho consagrado que fundamenta la cohesión de una sociedad democrática plural. -->
 - [ ] D) Teológico clerical, que busca someter las mentes de los deparados a dogmas de fe religiosos antiguos del virreinato.
   <!-- feedback: Incorrecto. Las deparaciones defendidas son enteramente laicas, seculares, científicas y de pluralidad moderna de la federación. -->
@@ -499,9 +499,9 @@ La afluencia masiva de sargazo a las playas del Caribe mexicano ha dejado de ser
 A partir de la lectura integral de los dos pasajes de este bloque semanal, ¿cuál de las siguientes deparaciones sobre el centralismo y el desequilibrio en México es válida?
 
 ### Opciones
-- [ ] A) La concentración metropolitana beneficia a largo plazo la recarga de los acuíferos subterráneos de Michoacán.
+- [ ] B) La concentración metropolitana beneficia a largo plazo la recarga de los acuíferos subterráneos de Michoacán.
   <!-- feedback: Incorrecto. El centralismo hídrico agota severamente el subsuelo del Valle de México; no beneficia al subsuelo de Michoacán. -->
-- [x] B) El centralismo genera fallos de doble vía, mermando materialmente a la capital y excluyendo cívicamente a la periferia de conservación ecológica.
+- [x] A) El centralismo genera fallos de doble vía, mermando materialmente a la capital y excluyendo cívicamente a la periferia de conservación ecológica.
   <!-- feedback: Correcto. El desequilibrio agota físicamente los límites ecológicos del centro (hundimientos, sobreexplotación) e impide el disfrute de conservación ecológica en la periferia nacional. -->
 - [ ] C) La deparación de los museos de la capital es la única vía idónea para proteger las áreas de desove de tortugas de Quintana Roo.
   <!-- feedback: Incorrecto. No existe nexo causal que ligue la ubicación de museos artísticos en la capital con el desove de tortugas marinas costeras caribeñas. -->
@@ -527,9 +527,9 @@ La afluencia masiva de sargazo a las playas del Caribe mexicano ha dejado de ser
 ### Opciones
 - [ ] A) Desalojar de forma forzada a toda la población del centro metropolitano para reubicarla en las deparaciones de Chiapas.
   <!-- feedback: Incorrecto. El desalojo forzado de familias es una medida autoritaria e inviable que viola los derechos humanos y el equilibrio de la federación. -->
-- [x] B) Transitar hacia una planeación federalista y equitativa que respete los límites de carga ecológicos locales y democratice el acceso a bienes mediante responsabilidad ecológica.
+- [x] C) Transitar hacia una planeación federalista y equitativa que respete los límites de carga ecológicos locales y democratice el acceso a bienes mediante responsabilidad ecológica.
   <!-- feedback: Correcto. Integrar criterios de resguardo biofísico y descentralización de la deparación garantiza un desarrollo cívico justo, respetuoso de los recursos y de la dignidad de todos los estados. -->
-- [ ] C) Autorizar la deparación con asfalto impermeable de las áreas boscosas de recarga pluvial de la capital.
+- [ ] B) Autorizar la deparación con asfalto impermeable de las áreas boscosas de recarga pluvial de la capital.
   <!-- feedback: Incorrecto. Edificar asfalto impermeable sobre áreas boscosas de recarga pluvial anula la infiltración y agrava severamente el hundimiento de la cuenca. -->
 - [ ] D) Subordinar todas las decisiones de deparación de México de forma absoluta a los intereses de compañías europeas.
   <!-- feedback: Incorrecto. La soberanía de planeación de México debe responder a los derechos de sus propios deparados, no a corporativos extranjeros de telecomunicaciones. -->

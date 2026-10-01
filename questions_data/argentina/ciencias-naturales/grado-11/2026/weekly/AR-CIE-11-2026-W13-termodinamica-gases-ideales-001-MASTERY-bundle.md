@@ -57,8 +57,8 @@ Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \Rightarrow V_2 = \frac{1 \cdot
 Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 20\text{ L}$ a $P_1 = 1\text{ atm}$. Si la presión sube a $P_2 = 4\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?
 
 ### Opciones
-- [x] A) Volumen final = $5,00\text{ L}$ <!-- feedback: Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \Rightarrow 1 \cdot 20 = 4 \cdot V_2 \Rightarrow V_2 = 5,00\text{ L}$. -->
-- [ ] B) Volumen final = $80,00\text{ L}$ <!-- feedback: Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional. -->
+- [x] B) Volumen final = $5,00\text{ L}$ <!-- feedback: Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \Rightarrow 1 \cdot 20 = 4 \cdot V_2 \Rightarrow V_2 = 5,00\text{ L}$. -->
+- [ ] A) Volumen final = $80,00\text{ L}$ <!-- feedback: Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional. -->
 - [ ] C) Volumen final = $24,00\text{ L}$ <!-- feedback: Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional. -->
 - [ ] D) Volumen final = $0,1\text{ L}$ <!-- feedback: Incorrecto. Valor fijo arbitrario fuera de cálculo. -->
 
@@ -78,8 +78,8 @@ Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \Rightarrow V_2 = \frac{1 \cdot
 Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 30\text{ L}$ a $P_1 = 1\text{ atm}$. Si la presión sube a $P_2 = 6\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?
 
 ### Opciones
-- [x] A) Volumen final = $5,00\text{ L}$ <!-- feedback: Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \Rightarrow 1 \cdot 30 = 6 \cdot V_2 \Rightarrow V_2 = 5,00\text{ L}$. -->
-- [ ] B) Volumen final = $180,00\text{ L}$ <!-- feedback: Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional. -->
+- [x] B) Volumen final = $5,00\text{ L}$ <!-- feedback: Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \Rightarrow 1 \cdot 30 = 6 \cdot V_2 \Rightarrow V_2 = 5,00\text{ L}$. -->
+- [ ] A) Volumen final = $180,00\text{ L}$ <!-- feedback: Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional. -->
 - [ ] C) Volumen final = $36,00\text{ L}$ <!-- feedback: Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional. -->
 - [ ] D) Volumen final = $0,1\text{ L}$ <!-- feedback: Incorrecto. Valor fijo arbitrario fuera de cálculo. -->
 
@@ -99,9 +99,9 @@ Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \Rightarrow V_2 = \frac{1 \cdot
 Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 40\text{ L}$ a $P_1 = 1\text{ atm}$. Si la presión sube a $P_2 = 8\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?
 
 ### Opciones
-- [x] A) Volumen final = $5,00\text{ L}$ <!-- feedback: Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \Rightarrow 1 \cdot 40 = 8 \cdot V_2 \Rightarrow V_2 = 5,00\text{ L}$. -->
-- [ ] B) Volumen final = $320,00\text{ L}$ <!-- feedback: Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional. -->
-- [ ] C) Volumen final = $48,00\text{ L}$ <!-- feedback: Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional. -->
+- [x] C) Volumen final = $5,00\text{ L}$ <!-- feedback: Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \Rightarrow 1 \cdot 40 = 8 \cdot V_2 \Rightarrow V_2 = 5,00\text{ L}$. -->
+- [ ] A) Volumen final = $320,00\text{ L}$ <!-- feedback: Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional. -->
+- [ ] B) Volumen final = $48,00\text{ L}$ <!-- feedback: Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional. -->
 - [ ] D) Volumen final = $0,1\text{ L}$ <!-- feedback: Incorrecto. Valor fijo arbitrario fuera de cálculo. -->
 
 ### Explicacion Pedagogica
@@ -120,10 +120,10 @@ Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \Rightarrow V_2 = \frac{1 \cdot
 Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 50\text{ L}$ a $P_1 = 1\text{ atm}$. Si la presión sube a $P_2 = 10\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?
 
 ### Opciones
-- [x] A) Volumen final = $5,00\text{ L}$ <!-- feedback: Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \Rightarrow 1 \cdot 50 = 10 \cdot V_2 \Rightarrow V_2 = 5,00\text{ L}$. -->
-- [ ] B) Volumen final = $500,00\text{ L}$ <!-- feedback: Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional. -->
-- [ ] C) Volumen final = $60,00\text{ L}$ <!-- feedback: Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional. -->
-- [ ] D) Volumen final = $0,1\text{ L}$ <!-- feedback: Incorrecto. Valor fijo arbitrario fuera de cálculo. -->
+- [x] D) Volumen final = $5,00\text{ L}$ <!-- feedback: Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \Rightarrow 1 \cdot 50 = 10 \cdot V_2 \Rightarrow V_2 = 5,00\text{ L}$. -->
+- [ ] A) Volumen final = $500,00\text{ L}$ <!-- feedback: Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional. -->
+- [ ] B) Volumen final = $60,00\text{ L}$ <!-- feedback: Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional. -->
+- [ ] C) Volumen final = $0,1\text{ L}$ <!-- feedback: Incorrecto. Valor fijo arbitrario fuera de cálculo. -->
 
 ### Explicacion Pedagogica
 Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \Rightarrow V_2 = \frac{1 \cdot 50}{10} = 5,00\text{ L}$.
@@ -162,10 +162,10 @@ Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \Rightarrow V_2 = \frac{1 \cdot
 Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 70\text{ L}$ a $P_1 = 1\text{ atm}$. Si la presión sube a $P_2 = 14\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?
 
 ### Opciones
-- [x] A) Volumen final = $5,00\text{ L}$ <!-- feedback: Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \Rightarrow 1 \cdot 70 = 14 \cdot V_2 \Rightarrow V_2 = 5,00\text{ L}$. -->
-- [ ] B) Volumen final = $980,00\text{ L}$ <!-- feedback: Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional. -->
-- [ ] C) Volumen final = $84,00\text{ L}$ <!-- feedback: Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional. -->
-- [ ] D) Volumen final = $0,1\text{ L}$ <!-- feedback: Incorrecto. Valor fijo arbitrario fuera de cálculo. -->
+- [x] D) Volumen final = $5,00\text{ L}$ <!-- feedback: Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \Rightarrow 1 \cdot 70 = 14 \cdot V_2 \Rightarrow V_2 = 5,00\text{ L}$. -->
+- [ ] A) Volumen final = $980,00\text{ L}$ <!-- feedback: Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional. -->
+- [ ] B) Volumen final = $84,00\text{ L}$ <!-- feedback: Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional. -->
+- [ ] C) Volumen final = $0,1\text{ L}$ <!-- feedback: Incorrecto. Valor fijo arbitrario fuera de cálculo. -->
 
 ### Explicacion Pedagogica
 Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \Rightarrow V_2 = \frac{1 \cdot 70}{14} = 5,00\text{ L}$.
@@ -288,9 +288,9 @@ Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \Rightarrow V_2 = \frac{1 \cdot
 Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 130\text{ L}$ a $P_1 = 1\text{ atm}$. Si la presión sube a $P_2 = 26\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?
 
 ### Opciones
-- [x] A) Volumen final = $5,00\text{ L}$ <!-- feedback: Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \Rightarrow 1 \cdot 130 = 26 \cdot V_2 \Rightarrow V_2 = 5,00\text{ L}$. -->
-- [ ] B) Volumen final = $3380,00\text{ L}$ <!-- feedback: Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional. -->
-- [ ] C) Volumen final = $156,00\text{ L}$ <!-- feedback: Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional. -->
+- [x] C) Volumen final = $5,00\text{ L}$ <!-- feedback: Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \Rightarrow 1 \cdot 130 = 26 \cdot V_2 \Rightarrow V_2 = 5,00\text{ L}$. -->
+- [ ] A) Volumen final = $3380,00\text{ L}$ <!-- feedback: Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional. -->
+- [ ] B) Volumen final = $156,00\text{ L}$ <!-- feedback: Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional. -->
 - [ ] D) Volumen final = $0,1\text{ L}$ <!-- feedback: Incorrecto. Valor fijo arbitrario fuera de cálculo. -->
 
 ### Explicacion Pedagogica
@@ -330,9 +330,9 @@ Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \Rightarrow V_2 = \frac{1 \cdot
 Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 150\text{ L}$ a $P_1 = 1\text{ atm}$. Si la presión sube a $P_2 = 30\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?
 
 ### Opciones
-- [x] A) Volumen final = $5,00\text{ L}$ <!-- feedback: Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \Rightarrow 1 \cdot 150 = 30 \cdot V_2 \Rightarrow V_2 = 5,00\text{ L}$. -->
-- [ ] B) Volumen final = $4500,00\text{ L}$ <!-- feedback: Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional. -->
-- [ ] C) Volumen final = $180,00\text{ L}$ <!-- feedback: Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional. -->
+- [x] C) Volumen final = $5,00\text{ L}$ <!-- feedback: Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \Rightarrow 1 \cdot 150 = 30 \cdot V_2 \Rightarrow V_2 = 5,00\text{ L}$. -->
+- [ ] A) Volumen final = $4500,00\text{ L}$ <!-- feedback: Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional. -->
+- [ ] B) Volumen final = $180,00\text{ L}$ <!-- feedback: Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional. -->
 - [ ] D) Volumen final = $0,1\text{ L}$ <!-- feedback: Incorrecto. Valor fijo arbitrario fuera de cálculo. -->
 
 ### Explicacion Pedagogica
@@ -351,10 +351,10 @@ Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \Rightarrow V_2 = \frac{1 \cdot
 Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 160\text{ L}$ a $P_1 = 1\text{ atm}$. Si la presión sube a $P_2 = 32\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?
 
 ### Opciones
-- [x] A) Volumen final = $5,00\text{ L}$ <!-- feedback: Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \Rightarrow 1 \cdot 160 = 32 \cdot V_2 \Rightarrow V_2 = 5,00\text{ L}$. -->
-- [ ] B) Volumen final = $5120,00\text{ L}$ <!-- feedback: Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional. -->
-- [ ] C) Volumen final = $192,00\text{ L}$ <!-- feedback: Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional. -->
-- [ ] D) Volumen final = $0,1\text{ L}$ <!-- feedback: Incorrecto. Valor fijo arbitrario fuera de cálculo. -->
+- [x] D) Volumen final = $5,00\text{ L}$ <!-- feedback: Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \Rightarrow 1 \cdot 160 = 32 \cdot V_2 \Rightarrow V_2 = 5,00\text{ L}$. -->
+- [ ] A) Volumen final = $5120,00\text{ L}$ <!-- feedback: Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional. -->
+- [ ] B) Volumen final = $192,00\text{ L}$ <!-- feedback: Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional. -->
+- [ ] C) Volumen final = $0,1\text{ L}$ <!-- feedback: Incorrecto. Valor fijo arbitrario fuera de cálculo. -->
 
 ### Explicacion Pedagogica
 Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \Rightarrow V_2 = \frac{1 \cdot 160}{32} = 5,00\text{ L}$.
@@ -372,8 +372,8 @@ Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \Rightarrow V_2 = \frac{1 \cdot
 Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 170\text{ L}$ a $P_1 = 1\text{ atm}$. Si la presión sube a $P_2 = 34\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?
 
 ### Opciones
-- [x] A) Volumen final = $5,00\text{ L}$ <!-- feedback: Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \Rightarrow 1 \cdot 170 = 34 \cdot V_2 \Rightarrow V_2 = 5,00\text{ L}$. -->
-- [ ] B) Volumen final = $5780,00\text{ L}$ <!-- feedback: Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional. -->
+- [x] B) Volumen final = $5,00\text{ L}$ <!-- feedback: Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \Rightarrow 1 \cdot 170 = 34 \cdot V_2 \Rightarrow V_2 = 5,00\text{ L}$. -->
+- [ ] A) Volumen final = $5780,00\text{ L}$ <!-- feedback: Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional. -->
 - [ ] C) Volumen final = $204,00\text{ L}$ <!-- feedback: Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional. -->
 - [ ] D) Volumen final = $0,1\text{ L}$ <!-- feedback: Incorrecto. Valor fijo arbitrario fuera de cálculo. -->
 
@@ -393,10 +393,10 @@ Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \Rightarrow V_2 = \frac{1 \cdot
 Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 180\text{ L}$ a $P_1 = 1\text{ atm}$. Si la presión sube a $P_2 = 36\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?
 
 ### Opciones
-- [x] A) Volumen final = $5,00\text{ L}$ <!-- feedback: Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \Rightarrow 1 \cdot 180 = 36 \cdot V_2 \Rightarrow V_2 = 5,00\text{ L}$. -->
-- [ ] B) Volumen final = $6480,00\text{ L}$ <!-- feedback: Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional. -->
-- [ ] C) Volumen final = $216,00\text{ L}$ <!-- feedback: Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional. -->
-- [ ] D) Volumen final = $0,1\text{ L}$ <!-- feedback: Incorrecto. Valor fijo arbitrario fuera de cálculo. -->
+- [x] D) Volumen final = $5,00\text{ L}$ <!-- feedback: Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \Rightarrow 1 \cdot 180 = 36 \cdot V_2 \Rightarrow V_2 = 5,00\text{ L}$. -->
+- [ ] A) Volumen final = $6480,00\text{ L}$ <!-- feedback: Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional. -->
+- [ ] B) Volumen final = $216,00\text{ L}$ <!-- feedback: Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional. -->
+- [ ] C) Volumen final = $0,1\text{ L}$ <!-- feedback: Incorrecto. Valor fijo arbitrario fuera de cálculo. -->
 
 ### Explicacion Pedagogica
 Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \Rightarrow V_2 = \frac{1 \cdot 180}{36} = 5,00\text{ L}$.
@@ -414,8 +414,8 @@ Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \Rightarrow V_2 = \frac{1 \cdot
 Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 190\text{ L}$ a $P_1 = 1\text{ atm}$. Si la presión sube a $P_2 = 38\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?
 
 ### Opciones
-- [x] A) Volumen final = $5,00\text{ L}$ <!-- feedback: Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \Rightarrow 1 \cdot 190 = 38 \cdot V_2 \Rightarrow V_2 = 5,00\text{ L}$. -->
-- [ ] B) Volumen final = $7220,00\text{ L}$ <!-- feedback: Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional. -->
+- [x] B) Volumen final = $5,00\text{ L}$ <!-- feedback: Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \Rightarrow 1 \cdot 190 = 38 \cdot V_2 \Rightarrow V_2 = 5,00\text{ L}$. -->
+- [ ] A) Volumen final = $7220,00\text{ L}$ <!-- feedback: Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional. -->
 - [ ] C) Volumen final = $228,00\text{ L}$ <!-- feedback: Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional. -->
 - [ ] D) Volumen final = $0,1\text{ L}$ <!-- feedback: Incorrecto. Valor fijo arbitrario fuera de cálculo. -->
 
@@ -435,8 +435,8 @@ Por la Ley de Boyle-Mariotte, $P_1 V_1 = P_2 V_2 \Rightarrow V_2 = \frac{1 \cdot
 Un gas comprimido a temperatura constante ocupa un volumen $V_1 = 200\text{ L}$ a $P_1 = 1\text{ atm}$. Si la presión sube a $P_2 = 40\text{ atm}$, ¿cuál es el nuevo volumen $V_2$?
 
 ### Opciones
-- [x] A) Volumen final = $5,00\text{ L}$ <!-- feedback: Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \Rightarrow 1 \cdot 200 = 40 \cdot V_2 \Rightarrow V_2 = 5,00\text{ L}$. -->
-- [ ] B) Volumen final = $8000,00\text{ L}$ <!-- feedback: Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional. -->
+- [x] B) Volumen final = $5,00\text{ L}$ <!-- feedback: Correcto. Ley de Boyle: $P_1 V_1 = P_2 V_2 \Rightarrow 1 \cdot 200 = 40 \cdot V_2 \Rightarrow V_2 = 5,00\text{ L}$. -->
+- [ ] A) Volumen final = $8000,00\text{ L}$ <!-- feedback: Incorrecto. Multiplicó en vez de dividir la relación inversamente proporcional. -->
 - [ ] C) Volumen final = $240,00\text{ L}$ <!-- feedback: Incorrecto. Sumó los parámetros en vez de aplicar la regla proporcional. -->
 - [ ] D) Volumen final = $0,1\text{ L}$ <!-- feedback: Incorrecto. Valor fijo arbitrario fuera de cálculo. -->
 

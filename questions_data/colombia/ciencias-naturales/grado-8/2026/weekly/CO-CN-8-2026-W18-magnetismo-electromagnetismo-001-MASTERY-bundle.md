@@ -55,13 +55,13 @@ Todo imán posee dos polos llamados norte y sur magnético. Estos no se pueden s
 ¿Por qué la aguja imantada de la brújula siempre se orienta hacia una dirección particular cuando el guía se detiene y la sostiene en reposo?
 
 ### Opciones
-- [x] A) Porque la Tierra actúa como un gran imán y la aguja se alinea con sus líneas de campo
+- [x] D) Porque la Tierra actúa como un gran imán y la aguja se alinea con sus líneas de campo
   <!-- feedback: El campo magnético terrestre alinea la aguja, indicando la dirección del norte magnético. -->
-- [ ] B) Porque el viento de la Sierra Nevada empuja la aguja hacia el norte
+- [ ] A) Porque el viento de la Sierra Nevada empuja la aguja hacia el norte
   <!-- feedback: El aire no tiene las propiedades magnéticas necesarias para orientar la aguja de forma fija. -->
-- [ ] C) Porque la gravedad jala con más fuerza el extremo norte de la aguja
+- [ ] B) Porque la gravedad jala con más fuerza el extremo norte de la aguja
   <!-- feedback: La gravedad no distingue entre norte y sur; tira igual de ambos extremos. -->
-- [ ] D) Por la rotación de la Tierra sobre su propio eje
+- [ ] C) Por la rotación de la Tierra sobre su propio eje
   <!-- feedback: La rotación terrestre produce el día y la noche, pero no orienta una brújula por sí sola. -->
 
 ### Explicacion Pedagogica
@@ -77,11 +77,11 @@ La Tierra se comporta como un inmenso imán con un polo norte magnético cercano
 ¿Qué indica una línea de campo magnético dibujada alrededor de un imán?
 
 ### Opciones
-- [x] A) La dirección que seguiría el polo norte de una brújula ubicada en ese punto del espacio
+- [x] C) La dirección que seguiría el polo norte de una brújula ubicada en ese punto del espacio
   <!-- feedback: La dirección de la línea muestra cómo se orientaría el polo norte de una pequeña brújula situada allí. -->
-- [ ] B) La temperatura exacta que tiene el imán en cada zona
+- [ ] A) La temperatura exacta que tiene el imán en cada zona
   <!-- feedback: Las líneas de campo no representan temperatura, sino la dirección de la fuerza magnética. -->
-- [ ] C) La cantidad de metal que compone al imán
+- [ ] B) La cantidad de metal que compone al imán
   <!-- feedback: Las líneas no cuantifican el material del imán; solo su distribución espacial de fuerza. -->
 - [ ] D) La distancia máxima a la que llega el efecto del imán
   <!-- feedback: No marcan un límite claro; la influencia magnética disminuye gradualmente con la distancia. -->
@@ -99,9 +99,9 @@ Las líneas de campo magnético son una representación gráfica creada por Mich
 Aplicando la regla de la mano derecha, ¿cómo debe circular la corriente por el cable enrollado para que la punta libre del clavo se convierta en el polo norte del electroimán?
 
 ### Opciones
-- [x] A) Los dedos de la mano derecha deben curvarse en el sentido de la corriente y el pulgar señalar la punta norte
+- [x] B) Los dedos de la mano derecha deben curvarse en el sentido de la corriente y el pulgar señalar la punta norte
   <!-- feedback: Esa es la regla de la mano derecha para solenoides: el pulgar apunta al polo norte del campo resultante. -->
-- [ ] B) La corriente debe ir en línea recta sin enrollar el cable en el clavo
+- [ ] A) La corriente debe ir en línea recta sin enrollar el cable en el clavo
   <!-- feedback: Si el cable no se enrolla, no se forma un campo magnético concentrado en el clavo. -->
 - [ ] C) La corriente debe fluir siempre del sur al norte geográfico de la Tierra
   <!-- feedback: La orientación geográfica del laboratorio no determina el polo magnético del electroimán. -->
@@ -121,11 +121,11 @@ La regla de la mano derecha permite conocer la polaridad de un solenoide: si los
 Para que dos imanes se atraigan con la mayor fuerza posible, ¿qué condición deben cumplir los polos que quedan enfrentados?
 
 ### Opciones
-- [x] A) Los polos enfrentados deben ser opuestos: un norte frente a un sur
+- [x] C) Los polos enfrentados deben ser opuestos: un norte frente a un sur
   <!-- feedback: Polos opuestos siempre se atraen, produciendo la fuerza de adhesión magnética. -->
-- [ ] B) Los dos polos deben ser iguales: norte frente a norte
+- [ ] A) Los dos polos deben ser iguales: norte frente a norte
   <!-- feedback: Polos iguales se repelen, no se atraen. -->
-- [ ] C) Los imanes deben estar a temperatura muy alta
+- [ ] B) Los imanes deben estar a temperatura muy alta
   <!-- feedback: Calentar un imán puede incluso desmagnetizarlo; no aumenta su fuerza de atracción. -->
 - [ ] D) Los imanes deben pintarse con colores opuestos
   <!-- feedback: El color es una propiedad óptica y no guarda relación con el magnetismo. -->
@@ -165,9 +165,9 @@ La fuerza de un electroimán depende del número de espiras del solenoide, de la
 ¿Qué principio físico se aprovecha principalmente para que un tren maglev levite sin tocar los rieles?
 
 ### Opciones
-- [x] A) La repulsión entre polos magnéticos iguales generados por campos controlados en el tren y la vía
+- [x] B) La repulsión entre polos magnéticos iguales generados por campos controlados en el tren y la vía
   <!-- feedback: Polos iguales se repelen; esa fuerza vertical equilibra el peso del tren y lo hace levitar. -->
-- [ ] B) La atracción gravitacional entre el tren y el suelo
+- [ ] A) La atracción gravitacional entre el tren y el suelo
   <!-- feedback: La gravedad atrae hacia el centro de la Tierra; no produce levitación. -->
 - [ ] C) La fricción estática con el aire
   <!-- feedback: La fricción con el aire se opone al movimiento; nunca eleva al vehículo. -->
@@ -187,13 +187,13 @@ Los trenes maglev generan campos magnéticos intensos y controlados para produci
 Al cerrar el circuito, la aguja de la brújula se desvía de forma sistemática. ¿Qué conclusión es válida a partir de este resultado?
 
 ### Opciones
-- [x] A) La corriente eléctrica genera un campo magnético alrededor del cable, el cual actúa sobre la aguja
+- [x] D) La corriente eléctrica genera un campo magnético alrededor del cable, el cual actúa sobre la aguja
   <!-- feedback: Oersted demostró que toda corriente produce un campo magnético circular a su alrededor. -->
-- [ ] B) La brújula estaba descalibrada y debe repararse antes de usarla
+- [ ] A) La brújula estaba descalibrada y debe repararse antes de usarla
   <!-- feedback: La desviación es sistemática y predecible, no un defecto del instrumento. -->
-- [ ] C) El cable se calienta y mueve el aire cercano a la brújula
+- [ ] B) El cable se calienta y mueve el aire cercano a la brújula
   <!-- feedback: Aunque el cable se caliente, eso no explica la orientación específica de la aguja. -->
-- [ ] D) La gravedad local cambió por la presencia de la pila
+- [ ] C) La gravedad local cambió por la presencia de la pila
   <!-- feedback: Una pila no tiene la capacidad de alterar el campo gravitatorio terrestre. -->
 
 ### Explicacion Pedagogica
@@ -209,9 +209,9 @@ En 1820, Hans Christian Oersted descubrió que una corriente eléctrica genera u
 ¿Cuál es la función principal del conmutador o colector de delgas dentro de un motor eléctrico de corriente continua?
 
 ### Opciones
-- [x] A) Invertir el sentido de la corriente en la bobina cada medio giro para mantener el movimiento rotatorio
+- [x] B) Invertir el sentido de la corriente en la bobina cada medio giro para mantener el movimiento rotatorio
   <!-- feedback: Sin el conmutador, la bobina se frenaría al alinearse con el campo; él asegura la rotación continua. -->
-- [ ] B) Aumentar la temperatura del motor para mejorar la conducción eléctrica
+- [ ] A) Aumentar la temperatura del motor para mejorar la conducción eléctrica
   <!-- feedback: Calentar el motor no es deseable; reduce la eficiencia y daña los aislamientos. -->
 - [ ] C) Pintar el motor para protegerlo de la corrosión ambiental
   <!-- feedback: La protección contra corrosión la da el aislamiento eléctrico externo, no el conmutador. -->
@@ -231,11 +231,11 @@ El conmutador es un anillo partido que invierte la dirección de la corriente en
 ¿Por qué resulta más útil un electroimán que un imán permanente en esta operación diaria de la chatarrería?
 
 ### Opciones
-- [x] A) Porque el campo magnético se puede encender y apagar a voluntad, soltando la carga cuando se requiera
+- [x] C) Porque el campo magnético se puede encender y apagar a voluntad, soltando la carga cuando se requiera
   <!-- feedback: Al cortar la corriente, el electroimán deja de atraer el metal, lo que facilita soltar la chatarra exactamente donde se necesita. -->
-- [ ] B) Porque el electroimán siempre es más barato de fabricar que un imán permanente
+- [ ] A) Porque el electroimán siempre es más barato de fabricar que un imán permanente
   <!-- feedback: Un electroimán requiere cable, fuente de energía y mantenimiento, por lo que puede ser más costoso. -->
-- [ ] C) Porque el electroimán no consume energía eléctrica en su funcionamiento
+- [ ] B) Porque el electroimán no consume energía eléctrica en su funcionamiento
   <!-- feedback: Por definición, un electroimán necesita corriente eléctrica para generar su campo magnético. -->
 - [ ] D) Porque el electroimán pesa mucho menos que cualquier imán permanente del mismo tamaño
   <!-- feedback: El peso depende del tamaño y del diseño, no del tipo de imán utilizado. -->
@@ -253,13 +253,13 @@ La gran ventaja del electroimán es que su magnetismo es controlable: se activa 
 ¿Cuál de los siguientes procedimientos experimentales brinda la evidencia más confiable para demostrar que la corriente crea un campo magnético?
 
 ### Opciones
-- [x] A) Comparar la desviación de una brújula con el circuito abierto y con el circuito cerrado, manteniendo constantes distancia, orientación y tipo de cable
+- [x] D) Comparar la desviación de una brújula con el circuito abierto y con el circuito cerrado, manteniendo constantes distancia, orientación y tipo de cable
   <!-- feedback: Comparar con y sin corriente, controlando variables, es el método experimental más riguroso. -->
-- [ ] B) Acercar la brújula una sola vez al cable encendido y registrar la observación obtenida
+- [ ] A) Acercar la brújula una sola vez al cable encendido y registrar la observación obtenida
   <!-- feedback: Una sola medición sin repetición ni control no permite afirmar causalidad. -->
-- [ ] C) Cambiar el material del cable sin repetir mediciones y observar lo que ocurre
+- [ ] B) Cambiar el material del cable sin repetir mediciones y observar lo que ocurre
   <!-- feedback: Sin repeticiones y sin variar únicamente la corriente, no se puede aislar el efecto buscado. -->
-- [ ] D) Usar solo observaciones visuales del cable sin brújula ni instrumentos de medición
+- [ ] C) Usar solo observaciones visuales del cable sin brújula ni instrumentos de medición
   <!-- feedback: Sin un sensor magnético como la brújula no se detecta el débil campo del cable. -->
 
 ### Explicacion Pedagogica

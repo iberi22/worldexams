@@ -55,8 +55,8 @@ A metaphor is a figure of speech in which a word or phrase is applied to an obje
 By next year, the new trade regulations will have been implemented in all major ports.
 
 ### Opciones
-- [ ] A) will implement <!-- feedback: Incorrect. Active voice. -->
-- [x] B) will have been implemented <!-- feedback: Correct. Future perfect passive for a completed state. -->
+- [ ] B) will implement <!-- feedback: Incorrect. Active voice. -->
+- [x] A) will have been implemented <!-- feedback: Correct. Future perfect passive for a completed state. -->
 - [ ] C) implemented <!-- feedback: Incorrect. Past. -->
 - [ ] D) have been implemented <!-- feedback: Incorrect. Present perfect. -->
 
@@ -76,9 +76,9 @@ If she hadn't moved to another country, she wouldn't have understood the challen
 
 ### Opciones
 - [ ] A) didn't move <!-- feedback: Incorrect. Second conditional. -->
-- [x] B) hadn't moved <!-- feedback: Correct. Third conditional for hypothetical past. -->
-- [ ] C) hasn't moved <!-- feedback: Incorrect. Present perfect. -->
-- [ ] D) wouldn't move <!-- feedback: Incorrect. 'Would' not in 'if' clause. -->
+- [x] D) hadn't moved <!-- feedback: Correct. Third conditional for hypothetical past. -->
+- [ ] B) hasn't moved <!-- feedback: Incorrect. Present perfect. -->
+- [ ] C) wouldn't move <!-- feedback: Incorrect. 'Would' not in 'if' clause. -->
 
 ### Explicacion Pedagogica
 The third conditional is used to speculate about how a past experience led to a present or past understanding.
@@ -95,9 +95,9 @@ The third conditional is used to speculate about how a past experience led to a 
 Fact-checking is the process of verifying the accuracy of information before it is published.
 
 ### Opciones
-- [x] A) Fact-checking <!-- feedback: Correct. Essential journalistic process. -->
-- [ ] B) Sensationalism <!-- feedback: Incorrect. Focuses on shock value. -->
-- [ ] C) Plagiarism <!-- feedback: Incorrect. Theft of work. -->
+- [x] C) Fact-checking <!-- feedback: Correct. Essential journalistic process. -->
+- [ ] A) Sensationalism <!-- feedback: Incorrect. Focuses on shock value. -->
+- [ ] B) Plagiarism <!-- feedback: Incorrect. Theft of work. -->
 - [ ] D) Slander <!-- feedback: Incorrect. Spoken defamation. -->
 
 ### Explicacion Pedagogica
@@ -116,8 +116,8 @@ The text implies that grassroots movements are powerful because they are rooted 
 
 ### Opciones
 - [ ] A) top-down <!-- feedback: Incorrect. Grassroots is bottom-up. -->
-- [x] B) grassroots <!-- feedback: Correct. Community-based movements. -->
-- [ ] C) corporate <!-- feedback: Incorrect. Run by businesses. -->
+- [x] C) grassroots <!-- feedback: Correct. Community-based movements. -->
+- [ ] B) corporate <!-- feedback: Incorrect. Run by businesses. -->
 - [ ] D) elitist <!-- feedback: Incorrect. Run by a powerful few. -->
 
 ### Explicacion Pedagogica
@@ -136,9 +136,9 @@ Legislation refers to a law or a set of laws that are officially passed by a gov
 
 ### Opciones
 - [ ] A) Suggestion <!-- feedback: Incorrect. -->
-- [x] B) Legislation <!-- feedback: Correct. Formal term for laws. -->
-- [ ] C) Rumor <!-- feedback: Incorrect. -->
-- [ ] D) Tradition <!-- feedback: Incorrect. -->
+- [x] D) Legislation <!-- feedback: Correct. Formal term for laws. -->
+- [ ] B) Rumor <!-- feedback: Incorrect. -->
+- [ ] C) Tradition <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
 'Legislation' is the comprehensive term for the formal laws of a country.
@@ -175,8 +175,8 @@ The present continuous passive describes the current and active creation of glob
 Pluralism is a condition or system in which two or more states, groups, or principles coexist.
 
 ### Opciones
-- [ ] A) Isolation <!-- feedback: Incorrect. -->
-- [x] B) Pluralism <!-- feedback: Correct. Coexistence of diverse groups. -->
+- [ ] B) Isolation <!-- feedback: Incorrect. -->
+- [x] A) Pluralism <!-- feedback: Correct. Coexistence of diverse groups. -->
 - [ ] C) Uniformity <!-- feedback: Incorrect. Being the same. -->
 - [ ] D) Stagnation <!-- feedback: Incorrect. -->
 
@@ -195,8 +195,8 @@ Pluralism is a condition or system in which two or more states, groups, or princ
 The leader argued that empathy was the most important quality for modern global governance.
 
 ### Opciones
-- [ ] A) is <!-- feedback: Incorrect. Backshifted in reported speech. -->
-- [x] B) was <!-- feedback: Correct. Backshifted from 'is' to 'was' after 'argued'. -->
+- [ ] B) is <!-- feedback: Incorrect. Backshifted in reported speech. -->
+- [x] A) was <!-- feedback: Correct. Backshifted from 'is' to 'was' after 'argued'. -->
 - [ ] C) will be <!-- feedback: Incorrect. Future. -->
 - [ ] D) have been <!-- feedback: Incorrect. -->
 
@@ -215,8 +215,8 @@ In reported speech, we backshift the tense of the original statement to show it 
 The overarching goal of the Grade 11 curriculum is to foster critical thinking and global awareness in students.
 
 ### Opciones
-- [x] A) critical thinking <!-- feedback: Correct. The objective analysis and evaluation of an issue. -->
-- [ ] B) rote memorization <!-- feedback: Incorrect. CURRICULUM focuses on higher skills. -->
+- [x] B) critical thinking <!-- feedback: Correct. The objective analysis and evaluation of an issue. -->
+- [ ] A) rote memorization <!-- feedback: Incorrect. CURRICULUM focuses on higher skills. -->
 - [ ] C) total isolation <!-- feedback: Incorrect. Curriculum focuses on global connection. -->
 - [ ] D) simple answers <!-- feedback: Incorrect. The themes were complex. -->
 
@@ -256,9 +256,9 @@ I wish people would take sustainable development more seriously to protect the f
 
 ### Opciones
 - [ ] A) take <!-- feedback: Incorrect. 'Wish' for situation change needs 'would'. -->
-- [x] B) would take <!-- feedback: Correct. 'Wish + would' for a desired change in behavior. -->
-- [ ] C) took <!-- feedback: Incorrect. Present state desire. -->
-- [ ] D) have taken <!-- feedback: Incorrect. Past regret. -->
+- [x] D) would take <!-- feedback: Correct. 'Wish + would' for a desired change in behavior. -->
+- [ ] B) took <!-- feedback: Incorrect. Present state desire. -->
+- [ ] C) have taken <!-- feedback: Incorrect. Past regret. -->
 
 ### Explicacion Pedagogica
 'Wish + would' expresses a desire for a positive change in a current or future situation.
@@ -296,8 +296,8 @@ The empire had been declining for centuries before it finally collapsed.
 
 ### Opciones
 - [ ] A) was declining <!-- feedback: Incorrect. Past continuous. -->
-- [x] B) had been declining <!-- feedback: Correct. Past perfect continuous for duration leading to a past point. -->
-- [ ] C) has been declining <!-- feedback: Incorrect. Present perfect continuous. -->
+- [x] C) had been declining <!-- feedback: Correct. Past perfect continuous for duration leading to a past point. -->
+- [ ] B) has been declining <!-- feedback: Incorrect. Present perfect continuous. -->
 - [ ] D) declines <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
@@ -316,9 +316,9 @@ Global citizenship requires us to transcend our local biases and act for the ben
 
 ### Opciones
 - [ ] A) follow <!-- feedback: Incorrect. We want to go beyond them. -->
-- [x] B) transcend <!-- feedback: Correct. To go beyond or rise above. -->
-- [ ] C) ignore <!-- feedback: Incorrect. We must recognize them to transcend them. -->
-- [ ] D) create <!-- feedback: Incorrect. -->
+- [x] D) transcend <!-- feedback: Correct. To go beyond or rise above. -->
+- [ ] B) ignore <!-- feedback: Incorrect. We must recognize them to transcend them. -->
+- [ ] C) create <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
 'Transcends' is the appropriate verb for describing how an ethical perspective rises above narrow local interests.
@@ -336,8 +336,8 @@ Resilience is the ability to bounce back from setbacks and adapt to challenging 
 
 ### Opciones
 - [ ] A) Fragility <!-- feedback: Incorrect. -->
-- [x] B) Resilience <!-- feedback: Correct. Psychological strength. -->
-- [ ] C) Apathy <!-- feedback: Incorrect. -->
+- [x] C) Resilience <!-- feedback: Correct. Psychological strength. -->
+- [ ] B) Apathy <!-- feedback: Incorrect. -->
 - [ ] D) Envy <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
@@ -355,8 +355,8 @@ Resilience is the ability to bounce back from setbacks and adapt to challenging 
 It is vital that all parties listen actively during the mediation process.
 
 ### Opciones
-- [x] A) listen <!-- feedback: Correct. Subjunctive base form after 'vital'. -->
-- [ ] B) listens <!-- feedback: Incorrect. -->
+- [x] B) listen <!-- feedback: Correct. Subjunctive base form after 'vital'. -->
+- [ ] A) listens <!-- feedback: Incorrect. -->
 - [ ] C) to listen <!-- feedback: Incorrect. -->
 - [ ] D) listening <!-- feedback: Incorrect. -->
 
@@ -396,8 +396,8 @@ He is getting used to his new career path after several years of retraining.
 
 ### Opciones
 - [ ] A) used to <!-- feedback: Incorrect. Past habit. -->
-- [x] B) is getting used to <!-- feedback: Correct. Ongoing process of adaptation. -->
-- [ ] C) uses to <!-- feedback: Incorrect grammar. -->
+- [x] C) is getting used to <!-- feedback: Correct. Ongoing process of adaptation. -->
+- [ ] B) uses to <!-- feedback: Incorrect grammar. -->
 - [ ] D) get used to <!-- feedback: Incorrect grammar. -->
 
 ### Explicacion Pedagogica

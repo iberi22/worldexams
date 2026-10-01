@@ -51,13 +51,13 @@ El Sol es la estrella central del sistema solar. Por la ley de gravitación univ
 ### Enunciado
 Por qué la masa de un cuerpo no cambia cuando se traslada de un lugar a otro en la Tierra, mientras que su peso puede variar levemente con la altitud y la latitud?
 ### Opciones
-- [x] A) Porque la masa es la cantidad de materia y permanece constante; el peso depende de la aceleración gravitacional local.
+- [x] D) Porque la masa es la cantidad de materia y permanece constante; el peso depende de la aceleración gravitacional local.
   <!-- feedback: Correcto. La masa es una propiedad intrínseca del cuerpo y no depende del lugar; el peso es una fuerza y varía con la gravedad local. -->
-- [ ] B) Porque la balanza corrige automáticamente las diferencias de gravedad.
+- [ ] A) Porque la balanza corrige automáticamente las diferencias de gravedad.
   <!-- feedback: Incorrecto. La balanza solo mide; no modifica las propiedades del objeto. -->
-- [ ] C) Porque la materia se evapora a distintas temperaturas.
+- [ ] B) Porque la materia se evapora a distintas temperaturas.
   <!-- feedback: Incorrecto. La pérdida de materia por evaporación es despreciable y no explica la constancia de la masa. -->
-- [ ] D) Porque el peso solo se mide en otros planetas.
+- [ ] C) Porque el peso solo se mide en otros planetas.
   <!-- feedback: Incorrecto. El peso se mide en cualquier lugar donde exista un campo gravitacional, incluyendo la Tierra. -->
 ### Explicacion Pedagogica
 La masa mide la cantidad de materia de un cuerpo y es invariante en cualquier punto del universo. El peso es la fuerza con que la gravedad atrae a ese cuerpo: P = m · g. Como g varía ligeramente con la altitud y la latitud, también varía el peso.
@@ -71,11 +71,11 @@ La masa mide la cantidad de materia de un cuerpo y es invariante en cualquier pu
 ### Enunciado
 Cuál de los siguientes planetas del sistema solar es conocido como el "planeta rojo" por el óxido de hierro presente en su superficie?
 ### Opciones
-- [x] A) Marte.
+- [x] C) Marte.
   <!-- feedback: Correcto. Marte debe su color rojizo al óxido de hierro (Fe₂O₃) que cubre gran parte de su superficie. -->
-- [ ] B) Venus.
+- [ ] A) Venus.
   <!-- feedback: Incorrecto. Venus tiene una atmósfera densa de CO₂ con nubes de ácido sulfúrico que le dan un color amarillento. -->
-- [ ] C) Mercurio.
+- [ ] B) Mercurio.
   <!-- feedback: Incorrecto. Mercurio tiene una superficie gris similar a la Luna, sin óxidos rojos notables. -->
 - [ ] D) Saturno.
   <!-- feedback: Incorrecto. Saturno es un gigante gaseoso con tonos dorados y anillos, no una superficie oxidada. -->
@@ -111,9 +111,9 @@ El peso se calcula con la expresión P = m · g. Para 80 kg en Marte (g = 3,71 m
 ### Enunciado
 Aproximadamente cuánto tarda la luz del Sol en recorrer la distancia hasta la Tierra, considerando que la velocidad de la luz en el vacío es 3 · 10⁵ km/s y la distancia promedio es 1,5 · 10⁸ km?
 ### Opciones
-- [x] A) Unos 8 minutos.
+- [x] B) Unos 8 minutos.
   <!-- feedback: Correcto. t = d / v = 1,5 · 10⁸ km / 3 · 10⁵ km/s ≈ 500 s ≈ 8,3 minutos. -->
-- [ ] B) Un segundo.
+- [ ] A) Un segundo.
   <!-- feedback: Incorrecto. A esa velocidad, un segundo apenas recorrería 300.000 km, mucho menos de la distancia Sol-Tierra. -->
 - [ ] C) Una hora.
   <!-- feedback: Incorrecto. En una hora la luz recorre cerca de 1.080 millones de km, más de siete veces la distancia. -->
@@ -151,9 +151,9 @@ La expresión T = 2π · √(L/g) muestra que el período depende de la longitud
 ### Enunciado
 Qué condición orbital debe cumplir un satélite para permanecer aparentemente inmóvil sobre un punto fijo del ecuador terrestre, como ocurre con los satélites geoestacionarios que usan los canales de televisión?
 ### Opciones
-- [x] A) Orbitar con un período igual al de rotación de la Tierra (≈ 24 h) y en el plano ecuatorial.
+- [x] B) Orbitar con un período igual al de rotación de la Tierra (≈ 24 h) y en el plano ecuatorial.
   <!-- feedback: Correcto. A unos 35.786 km de altitud, en órbita ecuatorial directa, el satélite gira a la misma velocidad angular que la Tierra. -->
-- [ ] B) Permanecer estático fuera de la atmósfera sin moverse.
+- [ ] A) Permanecer estático fuera de la atmósfera sin moverse.
   <!-- feedback: Incorrecto. Un satélite en órbita nunca está detenido; se mueve por inercia y es atraído por la gravedad. -->
 - [ ] C) Orbitar a una altura fija de 100 km sobre el ecuador.
   <!-- feedback: Incorrecto. A 100 km no se mantiene órbita estable y no coincide con la rotación terrestre. -->
@@ -191,13 +191,13 @@ La atmósfera terrestre es el "lente" natural con el que observamos. Su calentam
 ### Enunciado
 Por qué las estaciones del año en la Tierra se deben principalmente a la inclinación del eje terrestre y no a los cambios en la distancia al Sol?
 ### Opciones
-- [x] A) La inclinación del eje (~23,5°) cambia el ángulo con que la radiación solar incide sobre cada hemisferio a lo largo del año.
+- [x] D) La inclinación del eje (~23,5°) cambia el ángulo con que la radiación solar incide sobre cada hemisferio a lo largo del año.
   <!-- feedback: Correcto. Cuando el hemisferio sur se inclina hacia el Sol recibe más energía por unidad de área; el opuesto experimenta invierno. -->
-- [ ] B) Porque la Tierra se aleja mucho del Sol en invierno y se acerca en verano.
+- [ ] A) Porque la Tierra se aleja mucho del Sol en invierno y se acerca en verano.
   <!-- feedback: Incorrecto. En el hemisferio norte el invierno coincide con el perihelio (mayor cercanía al Sol), no con el afelio. -->
-- [ ] C) Porque la Luna oculta parcialmente al Sol en cada estación.
+- [ ] B) Porque la Luna oculta parcialmente al Sol en cada estación.
   <!-- feedback: Incorrecto. Los eclipses lunares y solares son eventos puntuales y no causan las estaciones. -->
-- [ ] D) Porque la precipitación anual cambia la radiación absorbida.
+- [ ] C) Porque la precipitación anual cambia la radiación absorbida.
   <!-- feedback: Incorrecto. Aunque afecta el clima, no es el origen astronómico de las estaciones. -->
 ### Explicacion Pedagogica
 La inclinación axial de la Tierra (~23,5°) hace que en distintas épocas del año los rayos solares incidan más perpendicularmente sobre un hemisferio que sobre el otro, generando las estaciones. La distancia Sol-Tierra solo varía alrededor de un 3% y su efecto es secundario.
@@ -211,9 +211,9 @@ La inclinación axial de la Tierra (~23,5°) hace que en distintas épocas del a
 ### Enunciado
 Si un objeto con masa de 10 kg fuera trasladado primero a la superficie de la Luna y luego a la superficie de Júpiter, cuál es la relación de los pesos registrados en cada astro?
 ### Opciones
-- [x] A) El peso en Júpiter es aproximadamente 15 veces el peso en la Luna.
+- [x] B) El peso en Júpiter es aproximadamente 15 veces el peso en la Luna.
   <!-- feedback: Correcto. Peso en Luna = 10 · 1,62 ≈ 16,2 N; peso en Júpiter = 10 · 24,79 ≈ 247,9 N. La razón 247,9 / 16,2 ≈ 15,3. -->
-- [ ] B) El peso en Júpiter es igual al peso en la Luna.
+- [ ] A) El peso en Júpiter es igual al peso en la Luna.
   <!-- feedback: Incorrecto. La gravedad de Júpiter es más de quince veces mayor que la lunar. -->
 - [ ] C) El peso en la Luna es mayor que en Júpiter.
   <!-- feedback: Incorrecto. La gravedad lunar es la menor entre los cuerpos mencionados. -->
@@ -231,13 +231,13 @@ P = m · g. Para 10 kg, en la Luna el peso es ≈ 16,2 N y en Júpiter ≈ 247,9
 ### Enunciado
 Un visitante afirma que "los rayos del Sol atraen a los planetas como si fueran hilos luminosos". Evalúe esta idea a la luz de la gravitación universal.
 ### Opciones
-- [x] A) Es incorrecta; la gravedad no se propaga como un rayo luminoso, sino como una fuerza instantánea a distancia modelada por F = G · m₁ · m₂ / r².
+- [x] D) Es incorrecta; la gravedad no se propaga como un rayo luminoso, sino como una fuerza instantánea a distancia modelada por F = G · m₁ · m₂ / r².
   <!-- feedback: Correcto. La gravitación newtoniana es una interacción entre masas, no un haz de luz. Además, las ondas gravitacionales descritas por Einstein tardan en propagarse. -->
-- [ ] B) Es totalmente correcta y reproduce exactamente la física moderna.
+- [ ] A) Es totalmente correcta y reproduce exactamente la física moderna.
   <!-- feedback: Incorrecto. La física actual describe la gravedad como curvatura del espacio-tiempo, no como rayos. -->
-- [ ] C) Solo es válida para planetas cercanos al Sol, como Mercurio.
+- [ ] B) Solo es válida para planetas cercanos al Sol, como Mercurio.
   <!-- feedback: Incorrecto. La atracción gravitacional se aplica a todos los cuerpos del sistema solar por igual. -->
-- [ ] D) La afirmación es indemostrable y debe dejarse sin evaluar.
+- [ ] C) La afirmación es indemostrable y debe dejarse sin evaluar.
   <!-- feedback: Incorrecto. En ciencia las afirmaciones se contrastan con modelos y evidencia; siempre se pueden evaluar. -->
 ### Explicacion Pedagogica
 La fuerza de gravedad entre dos cuerpos se calcula con F = G · m₁ · m₂ / r². No depende de la luz. En relatividad general, además, la gravedad se interpreta como curvatura del espacio-tiempo, no como un "rayo" emitido por el astro central.

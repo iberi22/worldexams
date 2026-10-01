@@ -32,11 +32,11 @@ En la función exponencial $f(x) = a^x$, donde $a > 0$ y $a \ne 1$, ¿cuál es e
 ### Opciones
 - [ ] A) $(1, 0)$
   <!-- feedback: Incorrecto. Este es el intercepto común de las funciones logarítmicas. -->
-- [x] B) $(0, 1)$
+- [x] D) $(0, 1)$
   <!-- feedback: Correcto. Cualquier número real (distinto de cero) elevado a la potencia cero es igual a 1. -->
-- [ ] C) $(1, 1)$
+- [ ] B) $(1, 1)$
   <!-- feedback: Incorrecto. Solo pasaría por este punto si la base fuera 1, lo cual está excluido de la definición. -->
-- [ ] D) $(0, 0)$
+- [ ] C) $(0, 0)$
   <!-- feedback: Incorrecto. Una función exponencial básica de la forma $a^x$ nunca toca el origen. -->
 
 ### Explicacion Pedagogica
@@ -55,11 +55,11 @@ Para cualquier base $a$, al evaluar $f(0) = a^0 = 1$. Por lo tanto, el punto $(0
 Si la población de bacterias se duplica cada hora, ¿qué tipo de función modela mejor este crecimiento?
 
 ### Opciones
-- [ ] A) Función lineal
+- [ ] B) Función lineal
   <!-- feedback: Incorrecto. El crecimiento lineal implica un aumento constante, no proporcional. -->
-- [ ] B) Función cuadrática
+- [ ] C) Función cuadrática
   <!-- feedback: Incorrecto. El crecimiento cuadrático es acelerado pero no tan rápido como el duplicado sucesivo. -->
-- [x] C) Función exponencial
+- [x] A) Función exponencial
   <!-- feedback: Correcto. El duplicado implica un factor multiplicativo constante, característico de los modelos exponenciales. -->
 - [ ] D) Función constante
   <!-- feedback: Incorrecto. La población está cambiando en el tiempo. -->
@@ -80,9 +80,9 @@ Cuando una magnitud aumenta o disminuye mediante un factor constante por unidad 
 Determine el valor de $f(3)$ para la función $f(x) = 2 \cdot 3^x$.
 
 ### Opciones
-- [ ] A) 18
+- [ ] B) 18
   <!-- feedback: Incorrecto. Elevó 3 al cuadrado en lugar de al cubo. -->
-- [x] B) 54
+- [x] A) 54
   <!-- feedback: Correcto. $f(3) = 2 \cdot 3^3 = 2 \cdot 27 = 54$. -->
 - [ ] C) 216
   <!-- feedback: Incorrecto. Multiplicó 2 por 3 antes de elevar a la potencia. -->
@@ -107,11 +107,11 @@ Siguiendo la jerarquía de operaciones, primero resolvemos la potencia ($3^3 = 2
 ### Opciones
 - [ ] A) $a > 1$
   <!-- feedback: Incorrecto. Para $a > 1$ la función es estrictamente creciente. -->
-- [x] B) $0 < a < 1$
+- [x] D) $0 < a < 1$
   <!-- feedback: Correcto. Cuando la base es una fracción propia, al aumentar $x$, el valor de $a^x$ disminuye. -->
-- [ ] C) $a < 0$
+- [ ] B) $a < 0$
   <!-- feedback: Incorrecto. La base de una función exponencial real debe ser positiva. -->
-- [ ] D) $a = 1$
+- [ ] C) $a = 1$
   <!-- feedback: Incorrecto. Si $a = 1$, la función es constante ($f(x) = 1$). -->
 
 ### Explicacion Pedagogica
@@ -155,9 +155,9 @@ El interés compuesto se modela mediante la función $M = P(1 + r)^t$, donde $P$
 Determine el rango de la función $f(x) = 3^x - 4$.
 
 ### Opciones
-- [ ] A) $\langle 0, +\infty\rangle$
+- [ ] B) $\langle 0, +\infty\rangle$
   <!-- feedback: Incorrecto. Este es el rango de la función $3^x$ sin desplazar. -->
-- [x] B) $\langle -4, +\infty\rangle$
+- [x] A) $\langle -4, +\infty\rangle$
   <!-- feedback: Correcto. La función $3^x$ es siempre mayor que 0. Al restarle 4, todos los valores son mayores que -4. -->
 - [ ] C) $[-4, +\infty\rangle$
   <!-- feedback: Incorrecto. La función nunca llega a tocar el valor -4 (asíntota horizontal). -->
@@ -182,9 +182,9 @@ Resuelva la ecuación: $2^{x+1} = 32$.
 ### Opciones
 - [ ] A) $x = 5$
   <!-- feedback: Incorrecto. 5 es la potencia a la que debe elevarse 2, pero la expresión es $x+1$. -->
-- [x] B) $x = 4$
+- [x] C) $x = 4$
   <!-- feedback: Correcto. $32 = 2^5$. Entonces $2^{x+1} = 2^5 \Rightarrow x + 1 = 5 \Rightarrow x = 4$. -->
-- [ ] C) $x = 16$
+- [ ] B) $x = 16$
   <!-- feedback: Incorrecto. Dividió 32 entre 2 en lugar de trabajar con potencias. -->
 - [ ] D) $x = 3$
   <!-- feedback: Incorrecto. Error al igualar los exponentes. -->
@@ -207,11 +207,11 @@ La cantidad de una sustancia radiactiva disminuye a la mitad cada 10 años. Si i
 ### Opciones
 - [ ] A) $C(t) = 80(0.5)^{10t}$
   <!-- feedback: Incorrecto. Aquí se reduciría a la mitad 10 veces cada año. -->
-- [x] B) $C(t) = 80(0.5)^{t/10}$
+- [x] D) $C(t) = 80(0.5)^{t/10}$
   <!-- feedback: Correcto. El exponente $t/10$ asegura que la base 0.5 se aplique una vez cada 10 años. -->
-- [ ] C) $C(t) = 80(0.5)^{t-10}$
+- [ ] B) $C(t) = 80(0.5)^{t-10}$
   <!-- feedback: Incorrecto. No modela correctamente el periodo de vida media. -->
-- [ ] D) $C(t) = 80 - 40t$
+- [ ] C) $C(t) = 80 - 40t$
   <!-- feedback: Incorrecto. Este es un modelo lineal, no exponencial de desintegración. -->
 
 ### Explicacion Pedagogica
@@ -232,9 +232,9 @@ Halle el valor de $x$ que satisface: $9^x = 27^{x-1}$.
 ### Opciones
 - [ ] A) $x = 1$
   <!-- feedback: Incorrecto. Al sustituir, $9^1 = 9$ y $27^0 = 1$. -->
-- [ ] B) $x = 2$
+- [ ] C) $x = 2$
   <!-- feedback: Incorrecto. $9^2 = 81$ y $27^1 = 27$. -->
-- [x] C) $x = 3$
+- [x] B) $x = 3$
   <!-- feedback: Correcto. $(3^2)^x = (3^3)^{x-1} \Rightarrow 3^{2x} = 3^{3x-3} \Rightarrow 2x = 3x - 3 \Rightarrow x = 3$. -->
 - [ ] D) $x = 1.5$
   <!-- feedback: Incorrecto. Error en el manejo de las potencias de base 3. -->
@@ -257,11 +257,11 @@ Dada la función $f(x) = 2^x$. Si definimos $g(x) = -f(x+3)$, ¿cómo se obtiene
 ### Opciones
 - [ ] A) Desplazando 3 a la derecha y reflejando en el eje $X$.
   <!-- feedback: Incorrecto. El signo $+$ dentro del paréntesis indica desplazamiento a la izquierda. -->
-- [x] B) Desplazando 3 a la izquierda y reflejando en el eje $X$.
+- [x] D) Desplazando 3 a la izquierda y reflejando en el eje $X$.
   <!-- feedback: Correcto. $x+3$ desplaza a la izquierda y el signo negativo exterior refleja respecto al eje horizontal. -->
-- [ ] C) Desplazando 3 arriba y reflejando en el eje $Y$.
+- [ ] B) Desplazando 3 arriba y reflejando en el eje $Y$.
   <!-- feedback: Incorrecto. Las transformaciones indicadas son horizontal y de reflexión axial $X$. -->
-- [ ] D) Desplazando 3 a la izquierda y reflejando en el eje $Y$.
+- [ ] C) Desplazando 3 a la izquierda y reflejando en el eje $Y$.
   <!-- feedback: Incorrecto. El signo negativo está fuera de la función, por lo que afecta a las ordenadas ($y$). -->
 
 ### Explicacion Pedagogica
@@ -305,9 +305,9 @@ En la forma estándar de crecimiento exponencial continuo $P = P_0 e^{rt}$, el c
 Halle las soluciones reales de la ecuación: $4^x - 6 \cdot 2^x + 8 = 0$.
 
 ### Opciones
-- [ ] A) $x = 2$ solamente.
+- [ ] B) $x = 2$ solamente.
   <!-- feedback: Incorrecto. Olvidó la otra solución de la ecuación cuadrática auxiliar. -->
-- [x] B) $x = 1$ y $x = 2$.
+- [x] A) $x = 1$ y $x = 2$.
   <!-- feedback: Correcto. Sea $u = 2^x \Rightarrow u^2 - 6u + 8 = 0$. Factorizando: $(u-4)(u-2)=0$. Entonces $2^x = 4 \Rightarrow x=2$; $2^x = 2 \Rightarrow x=1$. -->
 - [ ] C) $x = 4$ y $x = 2$.
   <!-- feedback: Incorrecto. Estos son los valores de la variable auxiliar $u$, no de $x$. -->
@@ -330,13 +330,13 @@ Realizamos el cambio de variable $u = 2^x$, lo que transforma la ecuación expon
 Dadas las funciones $f(x) = 2^x$ y $g(x) = 3^x$. ¿Cuál de las siguientes afirmaciones es verdadera para $x < 0$?
 
 ### Opciones
-- [x] A) $f(x) > g(x)$
+- [x] D) $f(x) > g(x)$
   <!-- feedback: Correcto. Para $x$ negativo, $2^x$ es $1/2^{|x|}$ y $3^x$ es $1/3^{|x|}$. Como el denominador de $g$ crece más rápido, su valor es menor. Por ejemplo, $2^{-1} = 0.5 > 3^{-1} = 0.33$. -->
-- [ ] B) $g(x) > f(x)$
+- [ ] A) $g(x) > f(x)$
   <!-- feedback: Incorrecto. Esto solo es cierto para $x > 0$. -->
-- [ ] C) $f(x) = g(x)$
+- [ ] B) $f(x) = g(x)$
   <!-- feedback: Incorrecto. Solo son iguales en $x = 0$. -->
-- [ ] D) Ambas son negativas.
+- [ ] C) Ambas son negativas.
   <!-- feedback: Incorrecto. Las funciones exponenciales básicas son siempre positivas. -->
 
 ### Explicacion Pedagogica
@@ -355,9 +355,9 @@ Aunque $3^x$ crece más rápido que $2^x$ para valores positivos de $x$, para va
 Una maquinaria pesada cuesta S/ 200.000 y se deprecia anualmente un 15%. ¿Cuál será su valor aproximado después de 5 años? (Use $(0.85)^5 \approx 0.4437$).
 
 ### Opciones
-- [ ] A) S/ 50.000
+- [ ] B) S/ 50.000
   <!-- feedback: Incorrecto. Estimación demasiado baja. -->
-- [x] B) S/ 88.740
+- [x] A) S/ 88.740
   <!-- feedback: Correcto. $V = 200000 \cdot (0.85)^5 \approx 200000 \cdot 0.4437 = 88740$. -->
 - [ ] C) S/ 170.000
   <!-- feedback: Incorrecto. Este sería el valor después de solo un año. -->
@@ -382,9 +382,9 @@ Determine la función de la forma $f(x) = C \cdot a^x$ que pasa por los puntos $
 ### Opciones
 - [ ] A) $f(x) = 6 \cdot 2^x$
   <!-- feedback: Incorrecto. Para $x=1$ daría 12, no 6. -->
-- [x] B) $f(x) = 3 \cdot 2^x$
+- [x] C) $f(x) = 3 \cdot 2^x$
   <!-- feedback: Correcto. $6 = C \cdot a^1$ y $24 = C \cdot a^3$. Dividiendo: $4 = a^2 \Rightarrow a = 2$. Luego $6 = C \cdot 2 \Rightarrow C = 3$. -->
-- [ ] C) $f(x) = 2 \cdot 3^x$
+- [ ] B) $f(x) = 2 \cdot 3^x$
   <!-- feedback: Incorrecto. Los valores no satisfacen las coordenadas dadas. -->
 - [ ] D) $f(x) = 3 \cdot 4^x$
   <!-- feedback: Incorrecto. El factor de crecimiento entre los puntos es menor. -->
@@ -407,11 +407,11 @@ Si $f(x) = 5^x$, ¿cuál es el valor de $f^{-1}(125)$?
 ### Opciones
 - [ ] A) 5
   <!-- feedback: Incorrecto. $5^5 = 3125$. -->
-- [x] B) 3
+- [x] D) 3
   <!-- feedback: Correcto. La inversa es $\log_5(x)$. Entonces $f^{-1}(125) = \log_5(125) = 3$, ya que $5^3 = 125$. -->
-- [ ] C) 25
+- [ ] B) 25
   <!-- feedback: Incorrecto. Error de concepto sobre la función inversa. -->
-- [ ] D) 1/3
+- [ ] C) 1/3
   <!-- feedback: Incorrecto. Invirtió el resultado correcto. -->
 
 ### Explicacion Pedagogica
@@ -430,9 +430,9 @@ Evaluar la función inversa en un punto $y$ equivale a buscar qué valor de $x$ 
 Determine la ecuación de la asíntota horizontal de la función $f(x) = \frac{4^{x+1} + 12}{4^x - 2}$.
 
 ### Opciones
-- [ ] A) $y = 0$
+- [ ] B) $y = 0$
   <!-- feedback: Incorrecto. Los términos de mayor grado no se anulan al infinito. -->
-- [x] B) $y = 4$
+- [x] A) $y = 4$
   <!-- feedback: Correcto. Para $x$ muy grande, $f(x) \approx \frac{4 \cdot 4^x}{4^x} = 4$. -->
 - [ ] C) $y = -6$
   <!-- feedback: Incorrecto. Este es el valor al que se acercaría si la base fuera una fracción propia. -->
@@ -458,11 +458,11 @@ $\begin{cases} 2^x + 3^y = 17 \\ 2^{x+1} - 3^y = 7 \end{cases}$
 ### Opciones
 - [ ] A) 4
   <!-- feedback: Incorrecto. Error al resolver para $x$ o $y$. -->
-- [x] B) 5
+- [x] D) 5
   <!-- feedback: Correcto. Sumando: $3 \cdot 2^x = 24 \Rightarrow 2^x = 8 \Rightarrow x=3$. Sustituyendo: $8 + 3^y = 17 \Rightarrow 3^y = 9 \Rightarrow y=2$. Suma $3+2=5$. -->
-- [ ] C) 6
+- [ ] B) 6
   <!-- feedback: Incorrecto. No satisface las ecuaciones originales. -->
-- [ ] D) 3
+- [ ] C) 3
   <!-- feedback: Incorrecto. Los valores de $x$ e $y$ son mayores. -->
 
 ### Explicacion Pedagogica
@@ -508,9 +508,9 @@ Determine el número de soluciones reales de la ecuación: $2^x = x^2$.
 ### Opciones
 - [ ] A) 1 solución
   <!-- feedback: Incorrecto. Hay una solución evidente ($x=2$) y otra negativa. -->
-- [ ] B) 2 soluciones
+- [ ] C) 2 soluciones
   <!-- feedback: Incorrecto. Olvidó una solución adicional entre 2 y 4... no, revisemos. $2^2=4, 2^4=16=4^2$. Hay 3 soluciones. -->
-- [x] C) 3 soluciones
+- [x] B) 3 soluciones
   <!-- feedback: Correcto. Graficando: una solución negativa (cerca de -0.76), una en $x=2$ y otra en $x=4$. -->
 - [ ] D) Infinitas soluciones
   <!-- feedback: Incorrecto. Las curvas solo se cruzan en puntos específicos. -->

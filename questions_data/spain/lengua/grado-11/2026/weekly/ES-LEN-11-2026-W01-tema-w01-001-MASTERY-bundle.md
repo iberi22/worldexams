@@ -33,13 +33,13 @@ Este bundle contiene 20 preguntas sobre los elementos de la comunicación y las 
 ¿Qué elemento físico de la comunicación representa el cartel impreso que contiene el mensaje?
 
 ### Opciones
-- [x] A) El canal, ya que es el soporte físico por el cual se transmite la información.
+- [x] D) El canal, ya que es el soporte físico por el cual se transmite la información.
   <!-- feedback: Correcto. El cartel impreso actúa como el medio o soporte físico que transmite el mensaje visual al receptor. -->
-- [ ] B) El código, porque es el sistema de signos lingüísticos en castellano.
+- [ ] A) El código, porque es el sistema de signos lingüísticos en castellano.
   <!-- feedback: Incorrecto. El código es el sistema lingüístico (idioma español), no el soporte físico. -->
-- [ ] C) El emisor, puesto que es la entidad que diseña el anuncio municipal.
+- [ ] B) El emisor, puesto que es la entidad que diseña el anuncio municipal.
   <!-- feedback: Incorrecto. El emisor es el Ayuntamiento de Valencia, no el cartel físico. -->
-- [ ] D) El receptor, ya que es el usuario de autobús que lee el mensaje.
+- [ ] C) El receptor, ya que es el usuario de autobús que lee el mensaje.
   <!-- feedback: Incorrecto. El receptor es el usuario que lee la advertencia, no el soporte. -->
 
 ### Explicacion Pedagogica
@@ -57,11 +57,11 @@ El canal es el soporte físico o medio a través del cual se desplaza el mensaje
 Cuando el profesor dice: 'Se escriben con b los verbos terminados en -bir, excepto hervir, servir y vivir', ¿qué función del lenguaje predomina en su enunciado?
 
 ### Opciones
-- [x] A) Metalingüística, ya que se emplea el código para hablar del propio código lingüístico.
+- [x] C) Metalingüística, ya que se emplea el código para hablar del propio código lingüístico.
   <!-- feedback: Correcto. La función metalingüística se activa cuando usamos la lengua para explicar o analizar la propia lengua o sus reglas. -->
-- [ ] B) Referencial, porque describe una realidad externa objetiva sobre la naturaleza.
+- [ ] A) Referencial, porque describe una realidad externa objetiva sobre la naturaleza.
   <!-- feedback: Incorrecto. Aunque da información, su propósito directo es normativo y gramatical sobre el código. -->
-- [ ] C) Apelativa, porque busca llamar la atención directa e inmediata de la RAE.
+- [ ] B) Apelativa, porque busca llamar la atención directa e inmediata de la RAE.
   <!-- feedback: Incorrecto. La función apelativa busca influir en la conducta del receptor, no explicar las reglas del sistema. -->
 - [ ] D) Fática, ya que su objetivo principal es verificar si la línea telefónica funciona.
   <!-- feedback: Incorrecto. La función fática se centra en el canal de comunicación, no en las reglas ortográficas. -->
@@ -153,9 +153,9 @@ En la comunicación pública o institucional, el receptor suele ser colectivo, i
 ¿Qué función del lenguaje predomina en estos versos líricos de Machado?
 
 ### Opciones
-- [x] A) Poética o estética, ya que el mensaje llama la atención sobre su propia forma y belleza formal.
+- [x] B) Poética o estética, ya que el mensaje llama la atención sobre su propia forma y belleza formal.
   <!-- feedback: Correcto. La función poética predomina en la literatura porque el emisor busca crear un efecto estético cuidando la forma, el ritmo y el lenguaje. -->
-- [ ] B) Metalingüística, porque explica detalladamente la sintaxis del sustantivo 'camino'.
+- [ ] A) Metalingüística, porque explica detalladamente la sintaxis del sustantivo 'camino'.
   <!-- feedback: Incorrecto. No se está explicando ninguna norma ni concepto gramatical de la lengua española. -->
 - [ ] C) Fática, debido a que intenta cerciorarse de que el lector tiene buena vista.
   <!-- feedback: Incorrecto. El poema no busca testear el canal físico de lectura. -->
@@ -177,11 +177,11 @@ La función poética o estética se enfoca en el mensaje mismo, especialmente en
 ¿Cuál es la función del lenguaje predominante en esta guía de elaboración gastronómica?
 
 ### Opciones
-- [x] A) Representativa y conativa combinadas, pues informa objetivamente e instruye de forma directa sobre las acciones del lector.
+- [x] C) Representativa y conativa combinadas, pues informa objetivamente e instruye de forma directa sobre las acciones del lector.
   <!-- feedback: Correcto. Una receta es informativa (representativa) e instruccional (apelativa/conativa) ya que guía u ordena al receptor en su hacer. -->
-- [ ] B) Expresiva pura, porque muestra los anhelos melancólicos del repostero que escribió la receta.
+- [ ] A) Expresiva pura, porque muestra los anhelos melancólicos del repostero que escribió la receta.
   <!-- feedback: Incorrecto. Una receta debe ser de naturaleza práctica y objetiva, no un desahogo lírico de sentimientos. -->
-- [ ] C) Metalingüística, ya que se centra en reescribir los orígenes etimológicos árabes de la palabra 'mazapán'.
+- [ ] B) Metalingüística, ya que se centra en reescribir los orígenes etimológicos árabes de la palabra 'mazapán'.
   <!-- feedback: Incorrecto. No es su función principal, a menos que fuera un artículo de lexicografía de la RAE. -->
 - [ ] D) Fática, porque se escribe para rellenar espacio web y asegurar que internet funciona.
   <!-- feedback: Incorrecto. Su objetivo no es verificar el canal, sino enseñar a cocinar un plato. -->
@@ -201,9 +201,9 @@ Las recetas de cocina, manuales de instrucciones y guías de uso combinan la fun
 ¿Qué función del lenguaje se evidencia principalmente en la exclamación del aficionado?
 
 ### Opciones
-- [x] A) Expresiva o emotiva, ya que el emisor manifiesta de forma subjetiva sus sentimientos, pasiones y asombro.
+- [x] B) Expresiva o emotiva, ya que el emisor manifiesta de forma subjetiva sus sentimientos, pasiones y asombro.
   <!-- feedback: Correcto. La función expresiva o emotiva está centrada en el emisor y se proyecta a través de interjecciones, exclamaciones y adjetivación valorativa. -->
-- [ ] B) Metalingüística, porque busca definir los sinónimos académicos de la palabra 'gol' en euskera.
+- [ ] A) Metalingüística, porque busca definir los sinónimos académicos de la palabra 'gol' en euskera.
   <!-- feedback: Incorrecto. No reflexiona sobre el sistema lingüístico ni la gramática en ese momento. -->
 - [ ] C) Apelativa, porque intenta obligar al árbitro del partido a anular inmediatamente la jugada.
   <!-- feedback: Incorrecto. No es una orden dirigida al árbitro, sino una exteriorización de su propia emoción. -->
@@ -273,13 +273,13 @@ En pragmática y teoría de la comunicación se distingue el emisor aparente o f
 ¿Qué función del lenguaje es la que justifica la estructura sintáctica de este lema preventivo?
 
 ### Opciones
-- [x] A) Función apelativa o conativa, ya que se sirve de oraciones imperativas directas para modificar la conducta del receptor.
+- [x] D) Función apelativa o conativa, ya que se sirve de oraciones imperativas directas para modificar la conducta del receptor.
   <!-- feedback: Correcto. Los verbos imperativos ('protege', 'vacúnate') y los posesivos de segunda persona ('tu') evidencian un fin apelativo para guiar o persuadir al receptor. -->
-- [ ] B) Función metalingüística, porque aclara la conjugación irregular del verbo 'vacunar'.
+- [ ] A) Función metalingüística, porque aclara la conjugación irregular del verbo 'vacunar'.
   <!-- feedback: Incorrecto. No se hace mención sintáctica ni gramatical al verbo en sí, se usa pragmáticamente para pedir una acción. -->
-- [ ] C) Función expresiva, ya que el conselleiro de sanidad gallego describe sus propias pesadillas personales con la gripe.
+- [ ] B) Función expresiva, ya que el conselleiro de sanidad gallego describe sus propias pesadillas personales con la gripe.
   <!-- feedback: Incorrecto. No hay un desahogo emotivo de sentimientos; es una campaña persuasiva institucional. -->
-- [ ] D) Función poética, porque rima asonantemente en todos los fonemas átonos de las palabras.
+- [ ] C) Función poética, porque rima asonantemente en todos los fonemas átonos de las palabras.
   <!-- feedback: Incorrecto. La intención estética es accesoria frente a la finalidad persuasiva de salud pública. -->
 
 ### Explicacion Pedagogica
@@ -297,9 +297,9 @@ La función apelativa o conativa se manifiesta cuando el mensaje se dirige direc
 ¿Qué elemento del esquema de la comunicación se ve principalmente entorpecido por este suceso exterior y cómo repercute?
 
 ### Opciones
-- [x] A) El canal de comunicación aérea, debido a la introducción de ruido físico ambiental que distorsiona la audición de las ondas sonoras.
+- [x] B) El canal de comunicación aérea, debido a la introducción de ruido físico ambiental que distorsiona la audición de las ondas sonoras.
   <!-- feedback: Correcto. El estruendo exterior es un ruido físico que afecta directamente al canal acústico (el aire), dificultando la correcta recepción de la voz del docente. -->
-- [ ] B) El código lingüístico, puesto que las palabras en español pierden de golpe sus significados en el diccionario de la RAE.
+- [ ] A) El código lingüístico, puesto que las palabras en español pierden de golpe sus significados en el diccionario de la RAE.
   <!-- feedback: Incorrecto. Las palabras siguen significando lo mismo, el problema es que el receptor no las puede oír físicamente. -->
 - [ ] C) El emisor, ya que la taladradora sustituye la mente y la laringe del profesor de bachillerato.
   <!-- feedback: Incorrecto. El profesor sigue emitiendo el mensaje, el obstáculo es físico-ambiental en el medio de transmisión. -->
@@ -321,13 +321,13 @@ Se denomina ruido a cualquier interferencia de carácter físico que perturba, d
 ¿Qué función del lenguaje organiza prioritariamente este fragmento de carácter científico?
 
 ### Opciones
-- [x] A) Representativa o referencial, porque transmite información de forma objetiva, lógica y denotativa sobre la realidad exterior.
+- [x] D) Representativa o referencial, porque transmite información de forma objetiva, lógica y denotativa sobre la realidad exterior.
   <!-- feedback: Correcto. Los textos científicos y técnicos priorizan la función representativa al transmitir datos medibles y objetivos sin valoraciones personales. -->
-- [ ] B) Estética o poética, porque el autor emplea metáforas amorosas sobre el agua evaporada.
+- [ ] A) Estética o poética, porque el autor emplea metáforas amorosas sobre el agua evaporada.
   <!-- feedback: Incorrecto. No hay un fin literario ni de adorno estilístico en un informe de acuíferos peninsulares. -->
-- [ ] C) Apelativa, porque exige imperativamente al lector que beba menos agua del grifo.
+- [ ] B) Apelativa, porque exige imperativamente al lector que beba menos agua del grifo.
   <!-- feedback: Incorrecto. Es un texto meramente descriptivo e informativo, no contiene mandatos directos. -->
-- [ ] D) Fática, ya que el informe pretende comprobar la salud auditiva del lector del documento.
+- [ ] C) Fática, ya que el informe pretende comprobar la salud auditiva del lector del documento.
   <!-- feedback: Incorrecto. No verifica el canal de lectura, proporciona un análisis climático. -->
 
 ### Explicacion Pedagogica
@@ -345,11 +345,11 @@ La función de representación del lenguaje se orienta al referente o contexto, 
 Desde el punto de vista del proceso de la comunicación, ¿cómo influye el bilingüismo en la selección y descodificación del código?
 
 ### Opciones
-- [x] A) Requiere que ambos interlocutores compartan el mismo código bilingüe (gallego y castellano) para garantizar que la alternancia de código no cause ruido semántico.
+- [x] C) Requiere que ambos interlocutores compartan el mismo código bilingüe (gallego y castellano) para garantizar que la alternancia de código no cause ruido semántico.
   <!-- feedback: Correcto. El bilingüismo funciona de manera adecuada si ambos comparten el mismo sistema de signos (código), eliminando barreras de comprensión. -->
-- [ ] B) El gallego y el castellano actúan como canales físicos opuestos en el aire de Santiago.
+- [ ] A) El gallego y el castellano actúan como canales físicos opuestos en el aire de Santiago.
   <!-- feedback: Incorrecto. Son sistemas de signos (códigos), no soportes de transmisión acústicos. -->
-- [ ] C) Impide por completo la descodificación, ya que dos idiomas mezclados anulan las leyes universales del lenguaje.
+- [ ] B) Impide por completo la descodificación, ya que dos idiomas mezclados anulan las leyes universales del lenguaje.
   <!-- feedback: Incorrecto. El cerebro decodifica ambos códigos sin problemas si los conoce lingüísticamente. -->
 - [ ] D) Anula el referente real, convirtiendo la conversación en un mensaje sin contenido pragmático.
   <!-- feedback: Incorrecto. El tema real no se ve afectado por la forma bilingüe de la charla. -->
@@ -393,13 +393,13 @@ La función metalingüística se activa cuando el lenguaje se utiliza para refle
 ¿Por qué Martín experimenta serias dificultades para descodificar pragmáticamente la intención del mensaje?
 
 ### Opciones
-- [x] A) Porque el enunciado contiene deícticos de espacio ('allí') y de tiempo ('hoy') que solo adquieren sentido completo conociendo el contexto situacional original.
+- [x] D) Porque el enunciado contiene deícticos de espacio ('allí') y de tiempo ('hoy') que solo adquieren sentido completo conociendo el contexto situacional original.
   <!-- feedback: Correcto. Palabras como 'allí' u 'hoy' son deícticos espaciotemporales cuyo referente real depende del momento y lugar exacto de la emisión. -->
-- [ ] B) Porque el idioma en el que está escrito el papel no se corresponde con ningún código conocido en España.
+- [ ] A) Porque el idioma en el que está escrito el papel no se corresponde con ningún código conocido en España.
   <!-- feedback: Incorrecto. El escrito está en correcto español, lo que falla es la referencia situacional, no el código morfológico. -->
-- [ ] C) Debido a que el papel arrugado bloquea físicamente la luz que refleja las letras.
+- [ ] B) Debido a que el papel arrugado bloquea físicamente la luz que refleja las letras.
   <!-- feedback: Incorrecto. Las letras se leen, el problema radica en la interpretación de los deícticos pragmáticos. -->
-- [ ] D) Puesto que la palabra 'seis' es un término técnico que requiere un grado universitario en matemáticas puras.
+- [ ] C) Puesto que la palabra 'seis' es un término técnico que requiere un grado universitario en matemáticas puras.
   <!-- feedback: Incorrecto. El término 'seis' es de vocabulario común. -->
 
 ### Explicacion Pedagogica
@@ -489,13 +489,13 @@ La norma académica distingue entre la perífrasis modal de obligación ('deber 
 Evalúa críticamente la afirmación del alumno según los principios fundamentales del análisis de textos y las funciones del lenguaje.
 
 ### Opciones
-- [x] A) Es errónea, ya que en la lírica contemporánea el referente de la realidad se desvía o subjetiviza a través de la función poética, la cual dota al texto de un profundo valor estético y connotativo propio.
+- [x] D) Es errónea, ya que en la lírica contemporánea el referente de la realidad se desvía o subjetiviza a través de la función poética, la cual dota al texto de un profundo valor estético y connotativo propio.
   <!-- feedback: Correcto. El arte lírico no necesita una función representativa/referencial unívoca ni objetiva; su valor reside en la evocación lírica y en la creatividad morfosintáctica y semántica de la función poética. -->
-- [ ] B) Es correcta, pues cualquier texto de España que carezca de datos estadísticos exactos y fórmulas físicas debe considerarse basura gramatical.
+- [ ] A) Es correcta, pues cualquier texto de España que carezca de datos estadísticos exactos y fórmulas físicas debe considerarse basura gramatical.
   <!-- feedback: Incorrecto. El arte y la literatura tienen funciones estéticas legítimas independientes de los textos científico-técnicos. -->
-- [ ] C) Es errónea porque todos los poemas de la Generación del 27 tienen la única función de verificar si la tinta del bolígrafo funciona.
+- [ ] B) Es errónea porque todos los poemas de la Generación del 27 tienen la única función de verificar si la tinta del bolígrafo funciona.
   <!-- feedback: Incorrecto. Esa sería la función fática del material de escritura, lo cual carece de sentido analítico literario. -->
-- [ ] D) Es correcta porque la RAE prohíbe de forma terminante publicar textos que requieran interpretación o uso de figuras retóricas.
+- [ ] C) Es correcta porque la RAE prohíbe de forma terminante publicar textos que requieran interpretación o uso de figuras retóricas.
   <!-- feedback: Incorrecto. La RAE codifica la gramática y el léxico, pero no restringe la libertad de creación literaria y el uso de la retórica. -->
 
 ### Explicacion Pedagogica

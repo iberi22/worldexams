@@ -30,9 +30,9 @@ bundle_index: 1
 
 ### Opciones
 - [ ] A) $\pi$ radianes (180°) <!-- feedback: Incorrecto. Este es el periodo de la función tangente. -->
-- [x] B) $2\pi$ radianes (360°) <!-- feedback: Correcto. Los valores se repiten exactamente cada vuelta completa al círculo unitario. -->
-- [ ] C) $\pi/2$ radianes (90°) <!-- feedback: Incorrecto. La función no completa su ciclo en un cuarto de vuelta. -->
-- [ ] D) $4\pi$ radianes (720°) <!-- feedback: Incorrecto. Este sería el periodo si la función estuviera estirada horizontalmente al doble. -->
+- [x] D) $2\pi$ radianes (360°) <!-- feedback: Correcto. Los valores se repiten exactamente cada vuelta completa al círculo unitario. -->
+- [ ] B) $\pi/2$ radianes (90°) <!-- feedback: Incorrecto. La función no completa su ciclo en un cuarto de vuelta. -->
+- [ ] C) $4\pi$ radianes (720°) <!-- feedback: Incorrecto. Este sería el periodo si la función estuviera estirada horizontalmente al doble. -->
 
 ### Explicacion Pedagogica
 El periodo es la longitud del intervalo más pequeño en el que la función completa un ciclo y vuelve a empezar. Para $\sin(x)$ y $\cos(x)$, este intervalo es de $2\pi$.
@@ -48,9 +48,9 @@ El periodo es la longitud del intervalo más pequeño en el que la función comp
 ¿Cuál es la amplitud de la función trigonométrica $y = A \sin(Bx + C)$?
 
 ### Opciones
-- [x] A) $|A|$ <!-- feedback: Correcto. La amplitud es el valor absoluto del coeficiente que multiplica a la función, indicando el desplazamiento máximo desde el eje central. -->
-- [ ] B) $2\pi/B$ <!-- feedback: Incorrecto. Esta es la fórmula para calcular el periodo. -->
-- [ ] C) $-C/B$ <!-- feedback: Incorrecto. Esta es la fórmula para calcular el desfase o desplazamiento de fase. -->
+- [x] C) $|A|$ <!-- feedback: Correcto. La amplitud es el valor absoluto del coeficiente que multiplica a la función, indicando el desplazamiento máximo desde el eje central. -->
+- [ ] A) $2\pi/B$ <!-- feedback: Incorrecto. Esta es la fórmula para calcular el periodo. -->
+- [ ] B) $-C/B$ <!-- feedback: Incorrecto. Esta es la fórmula para calcular el desfase o desplazamiento de fase. -->
 - [ ] D) $B$ <!-- feedback: Incorrecto. B representa la frecuencia angular, relacionada con el periodo. -->
 
 ### Explicacion Pedagogica
@@ -67,8 +67,8 @@ La amplitud representa la "altura" de la onda. En términos de rango, es la mita
 ¿Cuál es el rango de las funciones básicas $f(x) = \sin(x)$ y $g(x) = \cos(x)$?
 
 ### Opciones
-- [ ] A) $(-\infty, \infty)$ <!-- feedback: Incorrecto. Las funciones están acotadas, no crecen indefinidamente. -->
-- [x] B) $[-1, 1]$ <!-- feedback: Correcto. Los valores de seno y coseno en el círculo unitario nunca exceden 1 ni son menores que -1. -->
+- [ ] B) $(-\infty, \infty)$ <!-- feedback: Incorrecto. Las funciones están acotadas, no crecen indefinidamente. -->
+- [x] A) $[-1, 1]$ <!-- feedback: Correcto. Los valores de seno y coseno en el círculo unitario nunca exceden 1 ni son menores que -1. -->
 - [ ] C) $[0, 1]$ <!-- feedback: Incorrecto. Esto ignoraría los valores negativos que toman en los cuadrantes inferiores. -->
 - [ ] D) $(-1, 1)$ <!-- feedback: Incorrecto. El rango incluye los valores extremos -1 y 1. -->
 
@@ -88,8 +88,8 @@ Tanto el seno como el coseno representan coordenadas en el círculo unitario de 
 ### Opciones
 - [ ] A) Seno <!-- feedback: Incorrecto. Es una función continua y suave para todo el dominio real. -->
 - [ ] B) Coseno <!-- feedback: Incorrecto. Es una función continua y suave para todo el dominio real. -->
-- [x] C) Tangente <!-- feedback: Correcto. La tangente no está definida donde el coseno es cero (ej. 90°, 270°), generando asíntotas. -->
-- [ ] D) Todas las funciones armónicas. <!-- feedback: Incorrecto. El seno y el coseno no tienen asíntotas. -->
+- [x] D) Tangente <!-- feedback: Correcto. La tangente no está definida donde el coseno es cero (ej. 90°, 270°), generando asíntotas. -->
+- [ ] C) Todas las funciones armónicas. <!-- feedback: Incorrecto. El seno y el coseno no tienen asíntotas. -->
 
 ### Explicacion Pedagogica
 La tangente se define como $\sin(x) / \cos(x)$. Cuando $\cos(x) = 0$, la división no está definida, lo que resulta en una asíntota vertical en la gráfica.
@@ -106,8 +106,8 @@ Dada la función $y = \cos(x - \pi/2)$, ¿hacia dónde se desplaza la gráfica r
 
 ### Opciones
 - [ ] A) $\pi/2$ unidades hacia la izquierda. <!-- feedback: Incorrecto. Un signo negativo dentro del argumento indica un desplazamiento hacia la derecha. -->
-- [x] B) $\pi/2$ unidades hacia la derecha. <!-- feedback: Correcto. El desplazamiento de fase es positivo (hacia la derecha) cuando se resta una constante al argumento. -->
-- [ ] C) $\pi/2$ unidades hacia arriba. <!-- feedback: Incorrecto. Los desplazamientos verticales ocurren fuera del paréntesis de la función. -->
+- [x] C) $\pi/2$ unidades hacia la derecha. <!-- feedback: Correcto. El desplazamiento de fase es positivo (hacia la derecha) cuando se resta una constante al argumento. -->
+- [ ] B) $\pi/2$ unidades hacia arriba. <!-- feedback: Incorrecto. Los desplazamientos verticales ocurren fuera del paréntesis de la función. -->
 - [ ] D) $\pi/2$ unidades hacia abajo. <!-- feedback: Incorrecto. El desplazamiento vertical requiere sumar o restar una constante a toda la función. -->
 
 ### Explicacion Pedagogica
@@ -125,8 +125,8 @@ En $f(x-h)$, si $h > 0$, la gráfica se mueve hacia la derecha. Interesantemente
 
 ### Opciones
 - [ ] A) $2\pi$ <!-- feedback: Incorrecto. Este es el periodo si el coeficiente de x fuera 1. -->
-- [x] B) $\pi$ <!-- feedback: Correcto. El periodo se calcula como $2\pi / B$. Aquí $2\pi / 2 = \pi$. -->
-- [ ] C) $4\pi$ <!-- feedback: Incorrecto. Esto ocurriría si la función fuera $\sin(0.5x)$. -->
+- [x] C) $\pi$ <!-- feedback: Correcto. El periodo se calcula como $2\pi / B$. Aquí $2\pi / 2 = \pi$. -->
+- [ ] B) $4\pi$ <!-- feedback: Incorrecto. Esto ocurriría si la función fuera $\sin(0.5x)$. -->
 - [ ] D) $\pi/2$ <!-- feedback: Incorrecto. Error en la aplicación de la fórmula del periodo. -->
 
 ### Explicacion Pedagogica
@@ -143,9 +143,9 @@ Al multiplicar $x$ por un factor $B > 1$, la función se "comprime" horizontalme
 El nivel del agua en metros sigue la función $h(t) = 3 \sin(\pi t / 6) + 5$, donde $t$ son las horas. ¿Cuál es el nivel máximo que alcanza el agua?
 
 ### Opciones
-- [ ] A) 3 metros <!-- feedback: Incorrecto. Esta es solo la amplitud. -->
-- [ ] B) 5 metros <!-- feedback: Incorrecto. Este es el nivel medio o línea de equilibrio. -->
-- [x] C) 8 metros <!-- feedback: Correcto. El máximo ocurre cuando el seno es 1. $3(1) + 5 = 8$. -->
+- [ ] B) 3 metros <!-- feedback: Incorrecto. Esta es solo la amplitud. -->
+- [ ] C) 5 metros <!-- feedback: Incorrecto. Este es el nivel medio o línea de equilibrio. -->
+- [x] A) 8 metros <!-- feedback: Correcto. El máximo ocurre cuando el seno es 1. $3(1) + 5 = 8$. -->
 - [ ] D) 11 metros <!-- feedback: Incorrecto. Error al sumar la amplitud y el desplazamiento. -->
 
 ### Explicacion Pedagogica
@@ -183,8 +183,8 @@ Una función par es simétrica respecto al eje $y$. El coseno tiene esta propied
 ### Opciones
 - [ ] A) 0 <!-- feedback: Incorrecto. En 0 el coseno es máximo (1). -->
 - [ ] B) $\pi/2$ <!-- feedback: Incorrecto. En $\pi/2$ el coseno es cero. -->
-- [x] C) $\pi$ <!-- feedback: Correcto. En $\pi$ (180°) el coseno alcanza su valor mínimo de -1. -->
-- [ ] D) $3\pi/2$ <!-- feedback: Incorrecto. En $3\pi/2$ el coseno vuelve a ser cero. -->
+- [x] D) $\pi$ <!-- feedback: Correcto. En $\pi$ (180°) el coseno alcanza su valor mínimo de -1. -->
+- [ ] C) $3\pi/2$ <!-- feedback: Incorrecto. En $3\pi/2$ el coseno vuelve a ser cero. -->
 
 ### Explicacion Pedagogica
 El ciclo del coseno comienza en 1, baja a 0 en $\pi/2$, llega al mínimo de -1 en $\pi$, sube a 0 en $3\pi/2$ y termina en 1 en $2\pi$.
@@ -201,8 +201,8 @@ El ciclo del coseno comienza en 1, baja a 0 en $\pi/2$, llega al mínimo de -1 e
 
 ### Opciones
 - [ ] A) $[-1, 1]$ <!-- feedback: Incorrecto. El rango está desplazado y ampliado. -->
-- [ ] B) $[-1, 5]$ <!-- feedback: Incorrecto. El valor mínimo es 1, no -1. -->
-- [x] C) $[1, 5]$ <!-- feedback: Correcto. El coseno oscila entre -1 y 1. Al multiplicar por -2 y sumar 3, los valores extremos resultan en 1 y 5. -->
+- [ ] C) $[-1, 5]$ <!-- feedback: Incorrecto. El valor mínimo es 1, no -1. -->
+- [x] B) $[1, 5]$ <!-- feedback: Correcto. El coseno oscila entre -1 y 1. Al multiplicar por -2 y sumar 3, los valores extremos resultan en 1 y 5. -->
 - [ ] D) $[-2, 2]$ <!-- feedback: Incorrecto. Faltó considerar el desplazamiento vertical de +3. -->
 
 ### Explicacion Pedagogica
@@ -220,9 +220,9 @@ Para hallar el rango de $A \cos(x) + k$, calculamos $k - |A|$ para el valor mín
 
 ### Opciones
 - [ ] A) $\pi/4$ <!-- feedback: Incorrecto. $\sin(\pi/4) = \sqrt{2}/2$. -->
-- [x] B) $\pi/6$ <!-- feedback: Correcto. Como $\sin(30^\circ) = 1/2$, entonces el arcoseno es $30^\circ$ o $\pi/6$. -->
-- [ ] C) $\pi/3$ <!-- feedback: Incorrecto. $\sin(\pi/3) = \sqrt{3}/2$. -->
-- [ ] D) $\pi/2$ <!-- feedback: Incorrecto. $\sin(\pi/2) = 1$. -->
+- [x] D) $\pi/6$ <!-- feedback: Correcto. Como $\sin(30^\circ) = 1/2$, entonces el arcoseno es $30^\circ$ o $\pi/6$. -->
+- [ ] B) $\pi/3$ <!-- feedback: Incorrecto. $\sin(\pi/3) = \sqrt{3}/2$. -->
+- [ ] C) $\pi/2$ <!-- feedback: Incorrecto. $\sin(\pi/2) = 1$. -->
 
 ### Explicacion Pedagogica
 La función inversa (arcoseno) nos da el ángulo cuyo seno es el valor dado. Por definición de función, se toma el valor en el intervalo principal $[-\pi/2, \pi/2]$.
@@ -258,8 +258,8 @@ Primero hallamos el ángulo cuya tangente es 1 ($45^\circ$ o $\pi/4$). Luego eva
 
 ### Opciones
 - [ ] A) Todos los reales ($\mathbb{R}$). <!-- feedback: Incorrecto. La secante tiene discontinuidades infinitas. -->
-- [x] B) Todos los reales excepto los múltiplos impares de $\pi/2$. <!-- feedback: Correcto. $\sec(x) = 1/\cos(x)$. Como el coseno se anula en $\pi/2, 3\pi/2$, etc., la secante no existe allí. -->
-- [ ] C) Todos los reales excepto los múltiplos de $\pi$. <!-- feedback: Incorrecto. Este es el dominio de la cosecante y la cotangente. -->
+- [x] C) Todos los reales excepto los múltiplos impares de $\pi/2$. <!-- feedback: Correcto. $\sec(x) = 1/\cos(x)$. Como el coseno se anula en $\pi/2, 3\pi/2$, etc., la secante no existe allí. -->
+- [ ] B) Todos los reales excepto los múltiplos de $\pi$. <!-- feedback: Incorrecto. Este es el dominio de la cosecante y la cotangente. -->
 - [ ] D) El intervalo $[-1, 1]$. <!-- feedback: Incorrecto. Este es el rango del seno y coseno, no el dominio de la secante. -->
 
 ### Explicacion Pedagogica
@@ -295,8 +295,8 @@ La cosecante tiende al infinito positivo o negativo cuando el ángulo se acerca 
 ¿Cuál de las siguientes funciones crece más rápido a medida que $x$ se acerca a $\pi/2$ por la izquierda?
 
 ### Opciones
-- [ ] A) $f(x) = \sin(x)$ <!-- feedback: Incorrecto. El seno se estabiliza hacia 1. -->
-- [x] B) $f(x) = \tan(x)$ <!-- feedback: Correcto. La tangente tiende a infinito positivo en $\pi/2$. -->
+- [ ] B) $f(x) = \sin(x)$ <!-- feedback: Incorrecto. El seno se estabiliza hacia 1. -->
+- [x] A) $f(x) = \tan(x)$ <!-- feedback: Correcto. La tangente tiende a infinito positivo en $\pi/2$. -->
 - [ ] C) $f(x) = \cos(x)$ <!-- feedback: Incorrecto. El coseno decrece hacia cero. -->
 - [ ] D) $f(x) = \cot(x)$ <!-- feedback: Incorrecto. La cotangente decrece hacia cero en $\pi/2$. -->
 
@@ -315,9 +315,9 @@ La tangente tiene una tasa de crecimiento explosiva cerca de sus asíntotas vert
 
 ### Opciones
 - [ ] A) $2\pi$ <!-- feedback: Incorrecto. El coeficiente 3 cambia el periodo. -->
-- [x] B) $2\pi/3$ <!-- feedback: Correcto. El periodo depende únicamente del coeficiente que multiplica a la x: $2\pi / |B|$. -->
-- [ ] C) $\pi$ <!-- feedback: Incorrecto. Esto ocurriría si $B=2$. -->
-- [ ] D) $6\pi$ <!-- feedback: Incorrecto. Esto ocurriría si se dividiera x entre 3. -->
+- [x] D) $2\pi/3$ <!-- feedback: Correcto. El periodo depende únicamente del coeficiente que multiplica a la x: $2\pi / |B|$. -->
+- [ ] B) $\pi$ <!-- feedback: Incorrecto. Esto ocurriría si $B=2$. -->
+- [ ] C) $6\pi$ <!-- feedback: Incorrecto. Esto ocurriría si se dividiera x entre 3. -->
 
 ### Explicacion Pedagogica
 Ni la amplitud (5) ni el desplazamiento de fase ($-\pi$) afectan la duración de un ciclo completo de la función. Solo la frecuencia angular (3) lo hace.
@@ -334,8 +334,8 @@ Dada la función $f(x) = x \sin(x)$. ¿Qué sucede con la amplitud de las oscila
 
 ### Opciones
 - [ ] A) La amplitud permanece constante en 1. <!-- feedback: Incorrecto. Esto solo pasaría si la función fuera $\sin(x)$. -->
-- [x] B) La amplitud aumenta linealmente con $x$. <!-- feedback: Correcto. El factor $x$ actúa como una envolvente, haciendo que cada pico sea más alto que el anterior. -->
-- [ ] C) La amplitud disminuye hacia cero. <!-- feedback: Incorrecto. Esto pasaría si el factor fuera $1/x$. -->
+- [x] C) La amplitud aumenta linealmente con $x$. <!-- feedback: Correcto. El factor $x$ actúa como una envolvente, haciendo que cada pico sea más alto que el anterior. -->
+- [ ] B) La amplitud disminuye hacia cero. <!-- feedback: Incorrecto. Esto pasaría si el factor fuera $1/x$. -->
 - [ ] D) La función deja de ser periódica. <!-- feedback: Incorrecto. Sigue teniendo cruces por cero en intervalos regulares, aunque su amplitud cambie. -->
 
 ### Explicacion Pedagogica
@@ -353,8 +353,8 @@ Al multiplicar una función trigonométrica por un monomio, creamos una oscilaci
 
 ### Opciones
 - [ ] A) $y = 4 \sin(x) + 2$ <!-- feedback: Incorrecto. El periodo de esta función es $2\pi$. -->
-- [x] B) $y = 4 \sin(2x) + 2$ <!-- feedback: Correcto. Amplitud=4, periodo = $2\pi/2 = \pi$, y desplazamiento vertical = +2. -->
-- [ ] C) $y = 2 \sin(4x) + \pi$ <!-- feedback: Incorrecto. Los valores de los parámetros están mezclados. -->
+- [x] C) $y = 4 \sin(2x) + 2$ <!-- feedback: Correcto. Amplitud=4, periodo = $2\pi/2 = \pi$, y desplazamiento vertical = +2. -->
+- [ ] B) $y = 2 \sin(4x) + \pi$ <!-- feedback: Incorrecto. Los valores de los parámetros están mezclados. -->
 - [ ] D) $y = 4 \sin(\pi x) + 2$ <!-- feedback: Incorrecto. El periodo de esta función sería 2. -->
 
 ### Explicacion Pedagogica
@@ -372,9 +372,9 @@ Construimos la función paso a paso: $y = A \sin(Bx) + k$. Con $A=4, B = 2\pi/T 
 
 ### Opciones
 - [ ] A) Una línea recta. <!-- feedback: Incorrecto. La suma de funciones periódicas no lineales suele ser otra función periódica. -->
-- [x] B) Otra función sinusoidal con amplitud $\sqrt{2}$. <!-- feedback: Correcto. Mediante identidades de suma, se puede demostrar que equivale a $\sqrt{2} \sin(x + \pi/4)$. -->
-- [ ] C) Una función con el doble de frecuencia. <!-- feedback: Incorrecto. La suma de igual frecuencia mantiene la frecuencia original. -->
-- [ ] D) Una función constante igual a 1. <!-- feedback: Incorrecto. Se está confundiendo con la identidad de los cuadrados ($\sin^2 + \cos^2$). -->
+- [x] D) Otra función sinusoidal con amplitud $\sqrt{2}$. <!-- feedback: Correcto. Mediante identidades de suma, se puede demostrar que equivale a $\sqrt{2} \sin(x + \pi/4)$. -->
+- [ ] B) Una función con el doble de frecuencia. <!-- feedback: Incorrecto. La suma de igual frecuencia mantiene la frecuencia original. -->
+- [ ] C) Una función constante igual a 1. <!-- feedback: Incorrecto. Se está confundiendo con la identidad de los cuadrados ($\sin^2 + \cos^2$). -->
 
 ### Explicacion Pedagogica
 La superposición de dos ondas de la misma frecuencia resulta en una nueva onda de la misma frecuencia, pero con una amplitud y fase combinadas.
@@ -391,8 +391,8 @@ La superposición de dos ondas de la misma frecuencia resulta en una nueva onda 
 
 ### Opciones
 - [ ] A) $(-\infty, \infty)$ <!-- feedback: Incorrecto. Como el coseno solo devuelve valores entre -1 y 1, su inversa solo puede aceptar esos valores. -->
-- [x] B) $[-1, 1]$ <!-- feedback: Correcto. El rango de la función original se convierte en el dominio de la inversa. -->
-- [ ] C) $[0, \pi]$ <!-- feedback: Incorrecto. Este es el rango de la función arcocoseno, no su dominio. -->
+- [x] C) $[-1, 1]$ <!-- feedback: Correcto. El rango de la función original se convierte en el dominio de la inversa. -->
+- [ ] B) $[0, \pi]$ <!-- feedback: Incorrecto. Este es el rango de la función arcocoseno, no su dominio. -->
 - [ ] D) $(0, \infty)$ <!-- feedback: Incorrecto. La función también está definida para valores negativos. -->
 
 ### Explicacion Pedagogica

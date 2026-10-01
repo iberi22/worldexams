@@ -57,9 +57,9 @@ Recordar que el presupuesto es la planeación de los ingresos y los gastos de un
 ¿Por qué en Colombia se usan monedas y billetes de diferentes valores?
 
 ### Opciones
-- [x] A) Porque permiten pagar cantidades muy distintas, desde unos pocos pesos hasta miles de pesos.
+- [x] B) Porque permiten pagar cantidades muy distintas, desde unos pocos pesos hasta miles de pesos.
   <!-- feedback: Tener monedas y billetes de varios valores facilita pagar precios pequeños y grandes. -->
-- [ ] B) Porque cada familia elige el valor que quiere usar al pagar.
+- [ ] A) Porque cada familia elige el valor que quiere usar al pagar.
   <!-- feedback: Los valores del dinero los define el Banco de la República, no cada familia. -->
 - [ ] C) Porque el valor de las monedas y los billetes cambia según el día de la semana.
   <!-- feedback: El valor del dinero es fijo; no cambia según el día. -->
@@ -80,13 +80,13 @@ Comprender que el dinero en pesos colombianos tiene monedas y billetes de distin
 ¿Cuánto dinero debe pagar Felipe en total por la compra?
 
 ### Opciones
-- [x] A) 10.000 COP.
+- [x] D) 10.000 COP.
   <!-- feedback: 4.000 + 3.500 + 2.500 = 10.000 COP. -->
-- [ ] B) 9.000 COP.
+- [ ] A) 9.000 COP.
   <!-- feedback: 9.000 COP resulta de sumar mal; la suma correcta es 10.000 COP. -->
-- [ ] C) 11.000 COP.
+- [ ] B) 11.000 COP.
   <!-- feedback: 11.000 COP es mayor que el total real de la compra. -->
-- [ ] D) 12.000 COP.
+- [ ] C) 12.000 COP.
   <!-- feedback: 12.000 COP correspondería a sumar 2.000 COP de más. -->
 
 ### Explicacion Pedagogica
@@ -126,13 +126,13 @@ Aplicar la resta entre el dinero entregado y el precio de la compra para hallar 
 ¿Cuánto dinero gastará Felipe en las 4 bolsas de leche?
 
 ### Opciones
-- [x] A) 12.800 COP.
+- [x] D) 12.800 COP.
   <!-- feedback: 3.200 × 4 = 12.800 COP. -->
-- [ ] B) 9.600 COP.
+- [ ] A) 9.600 COP.
   <!-- feedback: 9.600 COP equivale al precio de 3 bolsas, no de 4. -->
-- [ ] C) 12.000 COP.
+- [ ] B) 12.000 COP.
   <!-- feedback: 12.000 COP resultaría si cada bolsa costara 3.000 COP. -->
-- [ ] D) 6.400 COP.
+- [ ] C) 6.400 COP.
   <!-- feedback: 6.400 COP corresponde al precio de 2 bolsas, no de 4. -->
 
 ### Explicacion Pedagogica
@@ -149,11 +149,11 @@ Aplicar la multiplicación del precio unitario por la cantidad de productos para
 ¿En cuál puesto le conviene comprar a Daniela y por qué?
 
 ### Opciones
-- [x] A) En el puesto A, porque el total es 9.800 COP y es menor que los 9.900 COP del puesto B.
+- [x] C) En el puesto A, porque el total es 9.800 COP y es menor que los 9.900 COP del puesto B.
   <!-- feedback: Puesto A: 2 × 3.500 + 2.800 = 9.800 COP; puesto B: 2 × 3.200 + 3.500 = 9.900 COP. Conviene el A. -->
-- [ ] B) En el puesto B, porque tiene el tomate más barato, que es lo que más compra.
+- [ ] A) En el puesto B, porque tiene el tomate más barato, que es lo que más compra.
   <!-- feedback: El tomate es más barato en B, pero la cebolla es más cara y el total del B sigue siendo mayor. -->
-- [ ] C) En el puesto B, porque el total es 9.900 COP y solo gasta 100 COP más.
+- [ ] B) En el puesto B, porque el total es 9.900 COP y solo gasta 100 COP más.
   <!-- feedback: Pagar 100 COP más no es lo que conviene cuando existe una opción de menor total. -->
 - [ ] D) En cualquiera de los dos, porque los totales son exactamente iguales.
   <!-- feedback: Los totales no son iguales: 9.800 COP y 9.900 COP. -->
@@ -195,11 +195,11 @@ Analizar una meta de ahorro restando lo ya guardado y dividiendo lo que falta en
 ¿Cuál decisión es la más adecuada para la familia y por qué?
 
 ### Opciones
-- [x] A) Destinar una parte al ahorro y otra a gastos personales, porque así puede atender una emergencia sin dejar de cubrir sus necesidades.
+- [x] C) Destinar una parte al ahorro y otra a gastos personales, porque así puede atender una emergencia sin dejar de cubrir sus necesidades.
   <!-- feedback: Combinar ahorro y gasto permite estar preparados para imprevistos sin descuidar el bienestar. -->
-- [ ] B) Gastar los 120.000 COP completos en salidas, porque el ahorro solo sirve cuando sobra mucho dinero.
+- [ ] A) Gastar los 120.000 COP completos en salidas, porque el ahorro solo sirve cuando sobra mucho dinero.
   <!-- feedback: El ahorro protege ante emergencias aunque el sobrante sea pequeño. -->
-- [ ] C) Guardar los 120.000 COP y no gastar nada, porque ahorrar es lo único importante.
+- [ ] B) Guardar los 120.000 COP y no gastar nada, porque ahorrar es lo único importante.
   <!-- feedback: Un ahorro equilibrado debe convivir con las necesidades y el bienestar de la familia. -->
 - [ ] D) Pedir un préstamo para las salidas, porque el ahorro no ayuda a resolver imprevistos.
   <!-- feedback: El ahorro sí ayuda a resolver imprevistos sin endeudarse. -->

@@ -33,9 +33,9 @@ creador: "Jules-Agent"
 What is the English word for: "A place where you live or stay on holiday."
 
 ### Opciones
-- [x] A) accommodation
+- [x] B) accommodation
   <!-- feedback: Correct! 'accommodation' matches the definition. -->
-- [ ] B) transportation
+- [ ] A) transportation
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) entertainment
   <!-- feedback: Incorrect. Try again. -->
@@ -56,13 +56,13 @@ The word 'accommodation' is used to describe a place where you live or stay on h
 What is the English word for: "A detailed plan or route of a journey."
 
 ### Opciones
-- [x] A) itinerary
+- [x] D) itinerary
   <!-- feedback: Correct! 'itinerary' matches the definition. -->
-- [ ] B) baggage
+- [ ] A) baggage
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) destination
+- [ ] B) destination
   <!-- feedback: Incorrect. Try again. -->
-- [ ] D) passport
+- [ ] C) passport
   <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica
@@ -102,9 +102,9 @@ The word 'destination' is used to describe the place to which someone or somethi
 What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
 
 ### Opciones
-- [x] A) luggage
+- [x] B) luggage
   <!-- feedback: Correct! 'luggage' matches the definition. -->
-- [ ] B) ticket
+- [ ] A) ticket
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) flight
   <!-- feedback: Incorrect. Try again. -->
@@ -240,13 +240,13 @@ The word 'souvenir' is used to describe a thing that is kept as a reminder of a 
 What is the English word for: "A period of time by which something is late or postponed."
 
 ### Opciones
-- [x] A) delay
+- [x] D) delay
   <!-- feedback: Correct! 'delay' matches the definition. -->
-- [ ] B) cancellation
+- [ ] A) cancellation
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) departure
+- [ ] B) departure
   <!-- feedback: Incorrect. Try again. -->
-- [ ] D) arrival
+- [ ] C) arrival
   <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica
@@ -286,9 +286,9 @@ The word 'check-in' is used to describe the act of reporting one's presence and 
 What is the English word for: "A period of rest or waiting before a further stage in a journey."
 
 ### Opciones
-- [x] A) layover
+- [x] B) layover
   <!-- feedback: Correct! 'layover' matches the definition. -->
-- [ ] B) stopover
+- [ ] A) stopover
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) transfer
   <!-- feedback: Incorrect. Try again. -->
@@ -309,13 +309,13 @@ The word 'layover' is used to describe a period of rest or waiting before a furt
 What is the English word for: "A system of money in general use in a particular country."
 
 ### Opciones
-- [x] A) currency
+- [x] D) currency
   <!-- feedback: Correct! 'currency' matches the definition. -->
-- [ ] B) coin
+- [ ] A) coin
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) banknote
+- [ ] B) banknote
   <!-- feedback: Incorrect. Try again. -->
-- [ ] D) cash
+- [ ] C) cash
   <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica
@@ -332,11 +332,11 @@ The word 'currency' is used to describe a system of money in general use in a pa
 What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
 
 ### Opciones
-- [x] A) guidebook
+- [x] C) guidebook
   <!-- feedback: Correct! 'guidebook' matches the definition. -->
-- [ ] B) map
+- [ ] A) map
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) dictionary
+- [ ] B) dictionary
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) encyclopedia
   <!-- feedback: Incorrect. Try again. -->
@@ -355,9 +355,9 @@ The word 'guidebook' is used to describe a book of information about a place des
 What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
 
 ### Opciones
-- [x] A) backpack
+- [x] B) backpack
   <!-- feedback: Correct! 'backpack' matches the definition. -->
-- [ ] B) suitcase
+- [ ] A) suitcase
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) briefcase
   <!-- feedback: Incorrect. Try again. -->
@@ -378,13 +378,13 @@ The word 'backpack' is used to describe a bag with shoulder straps that allow it
 What is the English word for: "In or to a foreign country, especially one across the sea."
 
 ### Opciones
-- [x] A) overseas
+- [x] D) overseas
   <!-- feedback: Correct! 'overseas' matches the definition. -->
-- [ ] B) domestic
+- [ ] A) domestic
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) local
+- [ ] B) local
   <!-- feedback: Incorrect. Try again. -->
-- [ ] D) national
+- [ ] C) national
   <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica
@@ -401,11 +401,11 @@ The word 'overseas' is used to describe in or to a foreign country, especially o
 What is the English word for: "An estimate of income and expenditure for a set period of time."
 
 ### Opciones
-- [x] A) budget
+- [x] C) budget
   <!-- feedback: Correct! 'budget' matches the definition. -->
-- [ ] B) expense
+- [ ] A) expense
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) cost
+- [ ] B) cost
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) price
   <!-- feedback: Incorrect. Try again. -->
@@ -424,11 +424,11 @@ The word 'budget' is used to describe an estimate of income and expenditure for 
 What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
 
 ### Opciones
-- [x] A) insurance
+- [x] C) insurance
   <!-- feedback: Correct! 'insurance' matches the definition. -->
-- [ ] B) warranty
+- [ ] A) warranty
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) guarantee
+- [ ] B) guarantee
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) policy
   <!-- feedback: Incorrect. Try again. -->
@@ -447,13 +447,13 @@ The word 'insurance' is used to describe a practice or arrangement by which a co
 What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
 
 ### Opciones
-- [x] A) vaccination
+- [x] D) vaccination
   <!-- feedback: Correct! 'vaccination' matches the definition. -->
-- [ ] B) medication
+- [ ] A) medication
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) prescription
+- [ ] B) prescription
   <!-- feedback: Incorrect. Try again. -->
-- [ ] D) infection
+- [ ] C) infection
   <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica

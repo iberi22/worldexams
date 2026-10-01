@@ -35,13 +35,13 @@ alineadas con los DBA del MEN Colombia y el marco de evaluación Saber 11 del IC
 Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $1\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?
 
 ### Opciones
-- [x] A) $x = 1\text{ m}, y = 1\text{ m}$ (un cuadrado)
+- [x] D) $x = 1\text{ m}, y = 1\text{ m}$ (un cuadrado)
   <!-- feedback: Correcto: el cuadrado siempre minimiza el perímetro para un área fija. -->
-- [ ] B) $x = 6\text{ m}, y = 1\text{ m}$
+- [ ] A) $x = 6\text{ m}, y = 1\text{ m}$
   <!-- feedback: Incorrecto: esa configuración incrementa significativamente el perímetro. -->
-- [ ] C) $x = 12\text{ m}, y = 3\text{ m}$
+- [ ] B) $x = 12\text{ m}, y = 3\text{ m}$
   <!-- feedback: Incorrecto: no satisface la condición de mínimo perímetro. -->
-- [ ] D) $x = 5\text{ m}, y = 9\text{ m}$
+- [ ] C) $x = 5\text{ m}, y = 9\text{ m}$
   <!-- feedback: Incorrecto: las dimensiones no derivan del valor crítico óptimo. -->
 
 ### Explicacion Pedagogica
@@ -58,13 +58,13 @@ Para un área fija $A = x \cdot y$, el perímetro $P = 2x + 2y = 2x + \frac{2A}{
 Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $4\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?
 
 ### Opciones
-- [x] A) $x = 2\text{ m}, y = 2\text{ m}$ (un cuadrado)
+- [x] D) $x = 2\text{ m}, y = 2\text{ m}$ (un cuadrado)
   <!-- feedback: Correcto: el cuadrado siempre minimiza el perímetro para un área fija. -->
-- [ ] B) $x = 9\text{ m}, y = 1\text{ m}$
+- [ ] A) $x = 9\text{ m}, y = 1\text{ m}$
   <!-- feedback: Incorrecto: esa configuración incrementa significativamente el perímetro. -->
-- [ ] C) $x = 14\text{ m}, y = 4\text{ m}$
+- [ ] B) $x = 14\text{ m}, y = 4\text{ m}$
   <!-- feedback: Incorrecto: no satisface la condición de mínimo perímetro. -->
-- [ ] D) $x = 6\text{ m}, y = 10\text{ m}$
+- [ ] C) $x = 6\text{ m}, y = 10\text{ m}$
   <!-- feedback: Incorrecto: las dimensiones no derivan del valor crítico óptimo. -->
 
 ### Explicacion Pedagogica
@@ -81,9 +81,9 @@ Para un área fija $A = x \cdot y$, el perímetro $P = 2x + 2y = 2x + \frac{2A}{
 Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $9\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?
 
 ### Opciones
-- [x] A) $x = 3\text{ m}, y = 3\text{ m}$ (un cuadrado)
+- [x] B) $x = 3\text{ m}, y = 3\text{ m}$ (un cuadrado)
   <!-- feedback: Correcto: el cuadrado siempre minimiza el perímetro para un área fija. -->
-- [ ] B) $x = 14\text{ m}, y = 1\text{ m}$
+- [ ] A) $x = 14\text{ m}, y = 1\text{ m}$
   <!-- feedback: Incorrecto: esa configuración incrementa significativamente el perímetro. -->
 - [ ] C) $x = 16\text{ m}, y = 5\text{ m}$
   <!-- feedback: Incorrecto: no satisface la condición de mínimo perímetro. -->
@@ -127,9 +127,9 @@ Para un área fija $A = x \cdot y$, el perímetro $P = 2x + 2y = 2x + \frac{2A}{
 Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $25\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?
 
 ### Opciones
-- [x] A) $x = 5\text{ m}, y = 5\text{ m}$ (un cuadrado)
+- [x] B) $x = 5\text{ m}, y = 5\text{ m}$ (un cuadrado)
   <!-- feedback: Correcto: el cuadrado siempre minimiza el perímetro para un área fija. -->
-- [ ] B) $x = 30\text{ m}, y = 1\text{ m}$
+- [ ] A) $x = 30\text{ m}, y = 1\text{ m}$
   <!-- feedback: Incorrecto: esa configuración incrementa significativamente el perímetro. -->
 - [ ] C) $x = 20\text{ m}, y = 7\text{ m}$
   <!-- feedback: Incorrecto: no satisface la condición de mínimo perímetro. -->
@@ -150,11 +150,11 @@ Para un área fija $A = x \cdot y$, el perímetro $P = 2x + 2y = 2x + \frac{2A}{
 Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $36\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?
 
 ### Opciones
-- [x] A) $x = 6\text{ m}, y = 6\text{ m}$ (un cuadrado)
+- [x] C) $x = 6\text{ m}, y = 6\text{ m}$ (un cuadrado)
   <!-- feedback: Correcto: el cuadrado siempre minimiza el perímetro para un área fija. -->
-- [ ] B) $x = 41\text{ m}, y = 1\text{ m}$
+- [ ] A) $x = 41\text{ m}, y = 1\text{ m}$
   <!-- feedback: Incorrecto: esa configuración incrementa significativamente el perímetro. -->
-- [ ] C) $x = 22\text{ m}, y = 8\text{ m}$
+- [ ] B) $x = 22\text{ m}, y = 8\text{ m}$
   <!-- feedback: Incorrecto: no satisface la condición de mínimo perímetro. -->
 - [ ] D) $x = 10\text{ m}, y = 14\text{ m}$
   <!-- feedback: Incorrecto: las dimensiones no derivan del valor crítico óptimo. -->
@@ -196,9 +196,9 @@ Para un área fija $A = x \cdot y$, el perímetro $P = 2x + 2y = 2x + \frac{2A}{
 Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $64\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?
 
 ### Opciones
-- [x] A) $x = 8\text{ m}, y = 8\text{ m}$ (un cuadrado)
+- [x] B) $x = 8\text{ m}, y = 8\text{ m}$ (un cuadrado)
   <!-- feedback: Correcto: el cuadrado siempre minimiza el perímetro para un área fija. -->
-- [ ] B) $x = 69\text{ m}, y = 1\text{ m}$
+- [ ] A) $x = 69\text{ m}, y = 1\text{ m}$
   <!-- feedback: Incorrecto: esa configuración incrementa significativamente el perímetro. -->
 - [ ] C) $x = 26\text{ m}, y = 10\text{ m}$
   <!-- feedback: Incorrecto: no satisface la condición de mínimo perímetro. -->
@@ -219,9 +219,9 @@ Para un área fija $A = x \cdot y$, el perímetro $P = 2x + 2y = 2x + \frac{2A}{
 Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $81\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?
 
 ### Opciones
-- [x] A) $x = 9\text{ m}, y = 9\text{ m}$ (un cuadrado)
+- [x] B) $x = 9\text{ m}, y = 9\text{ m}$ (un cuadrado)
   <!-- feedback: Correcto: el cuadrado siempre minimiza el perímetro para un área fija. -->
-- [ ] B) $x = 86\text{ m}, y = 1\text{ m}$
+- [ ] A) $x = 86\text{ m}, y = 1\text{ m}$
   <!-- feedback: Incorrecto: esa configuración incrementa significativamente el perímetro. -->
 - [ ] C) $x = 28\text{ m}, y = 11\text{ m}$
   <!-- feedback: Incorrecto: no satisface la condición de mínimo perímetro. -->
@@ -242,11 +242,11 @@ Para un área fija $A = x \cdot y$, el perímetro $P = 2x + 2y = 2x + \frac{2A}{
 Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $100\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?
 
 ### Opciones
-- [x] A) $x = 10\text{ m}, y = 10\text{ m}$ (un cuadrado)
+- [x] C) $x = 10\text{ m}, y = 10\text{ m}$ (un cuadrado)
   <!-- feedback: Correcto: el cuadrado siempre minimiza el perímetro para un área fija. -->
-- [ ] B) $x = 105\text{ m}, y = 1\text{ m}$
+- [ ] A) $x = 105\text{ m}, y = 1\text{ m}$
   <!-- feedback: Incorrecto: esa configuración incrementa significativamente el perímetro. -->
-- [ ] C) $x = 30\text{ m}, y = 12\text{ m}$
+- [ ] B) $x = 30\text{ m}, y = 12\text{ m}$
   <!-- feedback: Incorrecto: no satisface la condición de mínimo perímetro. -->
 - [ ] D) $x = 14\text{ m}, y = 18\text{ m}$
   <!-- feedback: Incorrecto: las dimensiones no derivan del valor crítico óptimo. -->
@@ -288,13 +288,13 @@ Para un área fija $A = x \cdot y$, el perímetro $P = 2x + 2y = 2x + \frac{2A}{
 Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $144\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?
 
 ### Opciones
-- [x] A) $x = 12\text{ m}, y = 12\text{ m}$ (un cuadrado)
+- [x] D) $x = 12\text{ m}, y = 12\text{ m}$ (un cuadrado)
   <!-- feedback: Correcto: el cuadrado siempre minimiza el perímetro para un área fija. -->
-- [ ] B) $x = 149\text{ m}, y = 1\text{ m}$
+- [ ] A) $x = 149\text{ m}, y = 1\text{ m}$
   <!-- feedback: Incorrecto: esa configuración incrementa significativamente el perímetro. -->
-- [ ] C) $x = 34\text{ m}, y = 14\text{ m}$
+- [ ] B) $x = 34\text{ m}, y = 14\text{ m}$
   <!-- feedback: Incorrecto: no satisface la condición de mínimo perímetro. -->
-- [ ] D) $x = 16\text{ m}, y = 20\text{ m}$
+- [ ] C) $x = 16\text{ m}, y = 20\text{ m}$
   <!-- feedback: Incorrecto: las dimensiones no derivan del valor crítico óptimo. -->
 
 ### Explicacion Pedagogica
@@ -311,13 +311,13 @@ Para un área fija $A = x \cdot y$, el perímetro $P = 2x + 2y = 2x + \frac{2A}{
 Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $169\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?
 
 ### Opciones
-- [x] A) $x = 13\text{ m}, y = 13\text{ m}$ (un cuadrado)
+- [x] D) $x = 13\text{ m}, y = 13\text{ m}$ (un cuadrado)
   <!-- feedback: Correcto: el cuadrado siempre minimiza el perímetro para un área fija. -->
-- [ ] B) $x = 174\text{ m}, y = 1\text{ m}$
+- [ ] A) $x = 174\text{ m}, y = 1\text{ m}$
   <!-- feedback: Incorrecto: esa configuración incrementa significativamente el perímetro. -->
-- [ ] C) $x = 36\text{ m}, y = 15\text{ m}$
+- [ ] B) $x = 36\text{ m}, y = 15\text{ m}$
   <!-- feedback: Incorrecto: no satisface la condición de mínimo perímetro. -->
-- [ ] D) $x = 17\text{ m}, y = 21\text{ m}$
+- [ ] C) $x = 17\text{ m}, y = 21\text{ m}$
   <!-- feedback: Incorrecto: las dimensiones no derivan del valor crítico óptimo. -->
 
 ### Explicacion Pedagogica
@@ -334,13 +334,13 @@ Para un área fija $A = x \cdot y$, el perímetro $P = 2x + 2y = 2x + \frac{2A}{
 Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $196\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?
 
 ### Opciones
-- [x] A) $x = 14\text{ m}, y = 14\text{ m}$ (un cuadrado)
+- [x] D) $x = 14\text{ m}, y = 14\text{ m}$ (un cuadrado)
   <!-- feedback: Correcto: el cuadrado siempre minimiza el perímetro para un área fija. -->
-- [ ] B) $x = 201\text{ m}, y = 1\text{ m}$
+- [ ] A) $x = 201\text{ m}, y = 1\text{ m}$
   <!-- feedback: Incorrecto: esa configuración incrementa significativamente el perímetro. -->
-- [ ] C) $x = 38\text{ m}, y = 16\text{ m}$
+- [ ] B) $x = 38\text{ m}, y = 16\text{ m}$
   <!-- feedback: Incorrecto: no satisface la condición de mínimo perímetro. -->
-- [ ] D) $x = 18\text{ m}, y = 22\text{ m}$
+- [ ] C) $x = 18\text{ m}, y = 22\text{ m}$
   <!-- feedback: Incorrecto: las dimensiones no derivan del valor crítico óptimo. -->
 
 ### Explicacion Pedagogica
@@ -357,9 +357,9 @@ Para un área fija $A = x \cdot y$, el perímetro $P = 2x + 2y = 2x + \frac{2A}{
 Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $225\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?
 
 ### Opciones
-- [x] A) $x = 15\text{ m}, y = 15\text{ m}$ (un cuadrado)
+- [x] B) $x = 15\text{ m}, y = 15\text{ m}$ (un cuadrado)
   <!-- feedback: Correcto: el cuadrado siempre minimiza el perímetro para un área fija. -->
-- [ ] B) $x = 230\text{ m}, y = 1\text{ m}$
+- [ ] A) $x = 230\text{ m}, y = 1\text{ m}$
   <!-- feedback: Incorrecto: esa configuración incrementa significativamente el perímetro. -->
 - [ ] C) $x = 40\text{ m}, y = 17\text{ m}$
   <!-- feedback: Incorrecto: no satisface la condición de mínimo perímetro. -->
@@ -380,13 +380,13 @@ Para un área fija $A = x \cdot y$, el perímetro $P = 2x + 2y = 2x + \frac{2A}{
 Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $256\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?
 
 ### Opciones
-- [x] A) $x = 16\text{ m}, y = 16\text{ m}$ (un cuadrado)
+- [x] D) $x = 16\text{ m}, y = 16\text{ m}$ (un cuadrado)
   <!-- feedback: Correcto: el cuadrado siempre minimiza el perímetro para un área fija. -->
-- [ ] B) $x = 261\text{ m}, y = 1\text{ m}$
+- [ ] A) $x = 261\text{ m}, y = 1\text{ m}$
   <!-- feedback: Incorrecto: esa configuración incrementa significativamente el perímetro. -->
-- [ ] C) $x = 42\text{ m}, y = 18\text{ m}$
+- [ ] B) $x = 42\text{ m}, y = 18\text{ m}$
   <!-- feedback: Incorrecto: no satisface la condición de mínimo perímetro. -->
-- [ ] D) $x = 20\text{ m}, y = 24\text{ m}$
+- [ ] C) $x = 20\text{ m}, y = 24\text{ m}$
   <!-- feedback: Incorrecto: las dimensiones no derivan del valor crítico óptimo. -->
 
 ### Explicacion Pedagogica
@@ -403,11 +403,11 @@ Para un área fija $A = x \cdot y$, el perímetro $P = 2x + 2y = 2x + \frac{2A}{
 Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $289\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?
 
 ### Opciones
-- [x] A) $x = 17\text{ m}, y = 17\text{ m}$ (un cuadrado)
+- [x] C) $x = 17\text{ m}, y = 17\text{ m}$ (un cuadrado)
   <!-- feedback: Correcto: el cuadrado siempre minimiza el perímetro para un área fija. -->
-- [ ] B) $x = 294\text{ m}, y = 1\text{ m}$
+- [ ] A) $x = 294\text{ m}, y = 1\text{ m}$
   <!-- feedback: Incorrecto: esa configuración incrementa significativamente el perímetro. -->
-- [ ] C) $x = 44\text{ m}, y = 19\text{ m}$
+- [ ] B) $x = 44\text{ m}, y = 19\text{ m}$
   <!-- feedback: Incorrecto: no satisface la condición de mínimo perímetro. -->
 - [ ] D) $x = 21\text{ m}, y = 25\text{ m}$
   <!-- feedback: Incorrecto: las dimensiones no derivan del valor crítico óptimo. -->
@@ -426,13 +426,13 @@ Para un área fija $A = x \cdot y$, el perímetro $P = 2x + 2y = 2x + \frac{2A}{
 Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $324\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?
 
 ### Opciones
-- [x] A) $x = 18\text{ m}, y = 18\text{ m}$ (un cuadrado)
+- [x] D) $x = 18\text{ m}, y = 18\text{ m}$ (un cuadrado)
   <!-- feedback: Correcto: el cuadrado siempre minimiza el perímetro para un área fija. -->
-- [ ] B) $x = 329\text{ m}, y = 1\text{ m}$
+- [ ] A) $x = 329\text{ m}, y = 1\text{ m}$
   <!-- feedback: Incorrecto: esa configuración incrementa significativamente el perímetro. -->
-- [ ] C) $x = 46\text{ m}, y = 20\text{ m}$
+- [ ] B) $x = 46\text{ m}, y = 20\text{ m}$
   <!-- feedback: Incorrecto: no satisface la condición de mínimo perímetro. -->
-- [ ] D) $x = 22\text{ m}, y = 26\text{ m}$
+- [ ] C) $x = 22\text{ m}, y = 26\text{ m}$
   <!-- feedback: Incorrecto: las dimensiones no derivan del valor crítico óptimo. -->
 
 ### Explicacion Pedagogica
@@ -449,9 +449,9 @@ Para un área fija $A = x \cdot y$, el perímetro $P = 2x + 2y = 2x + \frac{2A}{
 Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $361\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?
 
 ### Opciones
-- [x] A) $x = 19\text{ m}, y = 19\text{ m}$ (un cuadrado)
+- [x] B) $x = 19\text{ m}, y = 19\text{ m}$ (un cuadrado)
   <!-- feedback: Correcto: el cuadrado siempre minimiza el perímetro para un área fija. -->
-- [ ] B) $x = 366\text{ m}, y = 1\text{ m}$
+- [ ] A) $x = 366\text{ m}, y = 1\text{ m}$
   <!-- feedback: Incorrecto: esa configuración incrementa significativamente el perímetro. -->
 - [ ] C) $x = 48\text{ m}, y = 21\text{ m}$
   <!-- feedback: Incorrecto: no satisface la condición de mínimo perímetro. -->
@@ -472,11 +472,11 @@ Para un área fija $A = x \cdot y$, el perímetro $P = 2x + 2y = 2x + \frac{2A}{
 Un terreno rectangular en una finca de Cundinamarca debe encerrar un área fija de $400\text{ m}^2$. ¿Cuáles son las dimensiones $x$ e $y$ que minimizan el perímetro de la cerca?
 
 ### Opciones
-- [x] A) $x = 20\text{ m}, y = 20\text{ m}$ (un cuadrado)
+- [x] C) $x = 20\text{ m}, y = 20\text{ m}$ (un cuadrado)
   <!-- feedback: Correcto: el cuadrado siempre minimiza el perímetro para un área fija. -->
-- [ ] B) $x = 405\text{ m}, y = 1\text{ m}$
+- [ ] A) $x = 405\text{ m}, y = 1\text{ m}$
   <!-- feedback: Incorrecto: esa configuración incrementa significativamente el perímetro. -->
-- [ ] C) $x = 50\text{ m}, y = 22\text{ m}$
+- [ ] B) $x = 50\text{ m}, y = 22\text{ m}$
   <!-- feedback: Incorrecto: no satisface la condición de mínimo perímetro. -->
 - [ ] D) $x = 24\text{ m}, y = 28\text{ m}$
   <!-- feedback: Incorrecto: las dimensiones no derivan del valor crítico óptimo. -->

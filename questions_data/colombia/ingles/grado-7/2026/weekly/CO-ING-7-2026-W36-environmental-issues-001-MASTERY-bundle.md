@@ -38,9 +38,9 @@ What word describes the presence of dirty or harmful substances in the air, wate
 ### Opciones
 - [ ] A) Nature
   <!-- feedback: Incorrect. This is the general natural world. -->
-- [x] B) Pollution
+- [x] C) Pollution
   <!-- feedback: Correct! Pollution refers to contamination of the environment. -->
-- [ ] C) Weather
+- [ ] B) Weather
   <!-- feedback: Incorrect. This refers to atmospheric conditions. -->
 - [ ] D) Energy
   <!-- feedback: Incorrect. This is a physical capacity to work. -->
@@ -63,9 +63,9 @@ Which of these is a major cause of air pollution in big cities like Bogotá?
 ### Opciones
 - [ ] A) Planting trees
   <!-- feedback: Incorrect. This helps clean the air. -->
-- [x] B) Car exhaust and smoke
+- [x] C) Car exhaust and smoke
   <!-- feedback: Correct! Fumes from vehicles and factories are major air pollutants. -->
-- [ ] C) Recycling plastic
+- [ ] B) Recycling plastic
   <!-- feedback: Incorrect. This helps the environment. -->
 - [ ] D) Using solar energy
   <!-- feedback: Incorrect. This is a clean energy source. -->
@@ -136,13 +136,13 @@ The student understands the relationship between an environmental problem and it
 "Governments ________ pass laws to protect the endangered animals in the Amazon."
 
 ### Opciones
-- [x] A) should
+- [x] D) should
   <!-- feedback: Correct! Suggests a necessary and positive action for the environment. -->
-- [ ] B) shouldn't
+- [ ] A) shouldn't
   <!-- feedback: Incorrect. This would be bad advice. -->
-- [ ] C) can't
+- [ ] B) can't
   <!-- feedback: Incorrect. They are able to do it, and they should. -->
-- [ ] D) won't
+- [ ] C) won't
   <!-- feedback: Incorrect. This is a negative future prediction, not advice. -->
 
 ### Explicacion Pedagogica
@@ -164,11 +164,11 @@ What is one consequence of cutting down trees according to the text?
 ### Opciones
 - [ ] A) The trees produce more oxygen.
   <!-- feedback: Incorrect. We lose the oxygen. -->
-- [x] B) Animals lose their natural habitats.
+- [x] D) Animals lose their natural habitats.
   <!-- feedback: Correct! The text says it's "destroying the homes" of species. -->
-- [ ] C) The rainforest becomes colder.
+- [ ] B) The rainforest becomes colder.
   <!-- feedback: Incorrect. Usually, it contributes to warming. -->
-- [ ] D) More species appear.
+- [ ] C) More species appear.
   <!-- feedback: Incorrect. They are being affected negatively. -->
 
 ### Explicacion Pedagogica
@@ -215,9 +215,9 @@ Why is global warming a threat to coastal cities?
 ### Opciones
 - [ ] A) Because there will be more fish.
   <!-- feedback: Incorrect. -->
-- [x] B) Because rising sea levels can cause flooding of homes.
+- [x] C) Because rising sea levels can cause flooding of homes.
   <!-- feedback: Correct! "Sea levels rise" and "houses might go under water" explain the threat. -->
-- [ ] C) Because the water will be too hot for swimming.
+- [ ] B) Because the water will be too hot for swimming.
   <!-- feedback: Incorrect. Not the main threat mentioned. -->
 - [ ] D) Because it won't rain anymore.
   <!-- feedback: Incorrect. Not mentioned. -->

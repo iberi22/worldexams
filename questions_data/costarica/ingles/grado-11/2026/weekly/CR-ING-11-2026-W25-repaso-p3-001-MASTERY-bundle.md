@@ -37,9 +37,9 @@ Carlos said, "I have never seen such a beautiful quetzal before." What is the co
 ### Opciones
 - [ ] A) Carlos said he has never seen such a beautiful quetzal before.
   <!-- feedback: Incorrect. 'Have seen' (Present Perfect) must shift to 'had seen' (Past Perfect) in reported speech. -->
-- [x] B) Carlos said he had never seen such a beautiful quetzal before.
+- [x] C) Carlos said he had never seen such a beautiful quetzal before.
   <!-- feedback: Correct! Present Perfect changes to Past Perfect when the reporting verb is in the past. -->
-- [ ] C) Carlos said he never saw such a beautiful quetzal before.
+- [ ] B) Carlos said he never saw such a beautiful quetzal before.
   <!-- feedback: Incorrect. While common in informal speech, the formal rule requires the past perfect. -->
 - [ ] D) Carlos said he would never see such a beautiful quetzal before.
   <!-- feedback: Incorrect. 'Would' is used for future intentions, not past experiences. -->
@@ -62,9 +62,9 @@ In reported speech, we shift tenses back. Present Perfect (have seen) becomes Pa
 ### Opciones
 - [ ] A) is led
   <!-- feedback: Incorrect. 'Since 2015' indicates an action that started in the past and continues to the present. -->
-- [ ] B) was led
+- [ ] C) was led
   <!-- feedback: Incorrect. This would mean the project ended. -->
-- [x] C) has been led
+- [x] B) has been led
   <!-- feedback: Correct! Present Perfect Passive is used for actions starting in the past and continuing now. -->
 - [ ] D) had been led
   <!-- feedback: Incorrect. Past Perfect is used for actions completed before another past event. -->
@@ -85,9 +85,9 @@ The Present Perfect Passive (has/have been + past participle) is used to describ
 "If the government ______ more in sustainable infrastructure last decade, the city ______ fewer traffic problems today."
 
 ### Opciones
-- [ ] A) invested / would have
+- [ ] B) invested / would have
   <!-- feedback: Incorrect. The first part is about the past, so it needs the Past Perfect. -->
-- [x] B) had invested / would have
+- [x] A) had invested / would have
   <!-- feedback: Correct! This is a mixed conditional: a past hypothesis (Had invested) with a present result (would have). -->
 - [ ] C) had invested / would have had
   <!-- feedback: Incorrect. This is a 3rd conditional, which refers only to the past. The sentence mentions 'today'. -->
@@ -110,9 +110,9 @@ Mixed conditionals are used to show how past actions or omissions (represented b
 "Not only ______ provide faster speeds, but it also enables new industrial applications."
 
 ### Opciones
-- [x] A) does 5G technology
+- [x] B) does 5G technology
   <!-- feedback: Correct! 'Not only' at the start of a sentence requires subject-verb inversion (auxiliary before subject). -->
-- [ ] B) 5G technology does
+- [ ] A) 5G technology does
   <!-- feedback: Incorrect. This is normal word order, which is wrong after an initial negative/restrictive adverbial. -->
 - [ ] C) will 5G technology
   <!-- feedback: Incorrect. While possible for future, the context uses 'enables' (present), so the auxiliary should be 'does'. -->
@@ -135,9 +135,9 @@ Negative inversion is a C1-level structure used for emphasis. When a sentence st
 "It is imperative that the educational system ______ to the rapid changes in digital technology."
 
 ### Opciones
-- [ ] A) adapts
+- [ ] B) adapts
   <!-- feedback: Incorrect. While common in informal speech, formal English after 'imperative' requires the subjunctive. -->
-- [x] B) adapt
+- [x] A) adapt
   <!-- feedback: Correct! The subjunctive mood (base form of the verb) is used after words expressing necessity or urgency. -->
 - [ ] C) will adapt
   <!-- feedback: Incorrect. Subjunctive structures do not use 'will'. -->
@@ -162,9 +162,9 @@ The subjunctive mood is used in formal English after adjectives like 'imperative
 ### Opciones
 - [ ] A) head off
   <!-- feedback: Incorrect. 'Head off' means to leave or prevent something, not specifically changing destination. -->
-- [x] B) head over
+- [x] C) head over
   <!-- feedback: Correct! 'Head over' means to go to a place, often implying a change of location. -->
-- [ ] C) head up
+- [ ] B) head up
   <!-- feedback: Incorrect. 'Head up' means to lead or be in charge of something. -->
 - [ ] D) head on
   <!-- feedback: Incorrect. 'Head on' is usually an adjective meaning direct/frontal. -->
@@ -212,9 +212,9 @@ Inversion with 'Hardly... when' or 'No sooner... than' is a sophisticated way to
 ### Opciones
 - [ ] A) that
   <!-- feedback: Incorrect. 'That' cannot be used in non-defining relative clauses (separated by commas). -->
-- [x] B) which
+- [x] C) which
   <!-- feedback: Correct! 'Which' is the appropriate relative pronoun for non-defining clauses referring to things or languages. -->
-- [ ] C) what
+- [ ] B) what
   <!-- feedback: Incorrect. 'What' cannot be used as a relative pronoun after a noun. -->
 - [ ] D) who
   <!-- feedback: Incorrect. 'Who' is used for people. -->
@@ -264,9 +264,9 @@ Formal conditionals using 'Were to' emphasize the hypothetical nature of a futur
   <!-- feedback: Incorrect. This would refer to a present or future preference. -->
 - [ ] B) spent
   <!-- feedback: Incorrect. 'Would rather' followed by a verb (no new subject) takes the infinitive. -->
-- [x] C) have spent
+- [x] D) have spent
   <!-- feedback: Correct! 'Would rather + perfect infinitive' is used to express a preference about a past action that didn't happen. -->
-- [ ] D) had spent
+- [ ] C) had spent
   <!-- feedback: Incorrect. This structure is only used when there is a different subject (e.g., I'd rather you had spent). -->
 
 ### Explicacion Pedagogica
@@ -285,11 +285,11 @@ To express a preference or regret about the past when the subject is the same, w
 "The historical murals ______ carefully restored by the end of the next fiscal year."
 
 ### Opciones
-- [ ] A) are being
+- [ ] B) are being
   <!-- feedback: Incorrect. This implies a current action, not a future completion. -->
-- [ ] B) will restore
+- [ ] C) will restore
   <!-- feedback: Incorrect. The murals cannot restore themselves. -->
-- [x] C) will have been
+- [x] A) will have been
   <!-- feedback: Correct! Future Perfect Passive shows that an action will be finished before a specific future time. -->
 - [ ] D) have been
   <!-- feedback: Incorrect. This is present perfect. -->
@@ -310,9 +310,9 @@ The Future Perfect Passive (will have been + past participle) is used to indicat
 "Under no circumstances ______ share your login credentials with anyone outside the department."
 
 ### Opciones
-- [ ] A) you should
+- [ ] B) you should
   <!-- feedback: Incorrect. An initial negative phrase like 'Under no circumstances' requires inversion. -->
-- [x] B) should you
+- [x] A) should you
   <!-- feedback: Correct! This is another example of negative inversion for strong emphasis or formal rules. -->
 - [ ] C) you must
   <!-- feedback: Incorrect word order for this structure. -->
@@ -337,9 +337,9 @@ Negative inversion using 'Under no circumstances' is used to give very strong an
 ### Opciones
 - [ ] A) furthermore
   <!-- feedback: Incorrect. This would add a similar idea, but here we are showing a contrast. -->
-- [x] B) nevertheless
+- [x] C) nevertheless
   <!-- feedback: Correct! This connector is used to introduce a contrasting or surprising point. -->
-- [ ] C) consequently
+- [ ] B) consequently
   <!-- feedback: Incorrect. This shows a result, not a contrast. -->
 - [ ] D) because
   <!-- feedback: Incorrect. This shows a reason. -->
@@ -360,9 +360,9 @@ Connectors of contrast like 'nevertheless', 'however', or 'nonetheless' are vita
 "The success of the energy model is ______ to the significant investment in hydroelectric and wind power."
 
 ### Opciones
-- [ ] A) due
+- [ ] B) due
   <!-- feedback: Incorrect. 'Due' is usually followed by 'to', but the phrase 'is due' functions differently than 'is attributed'. -->
-- [x] B) attributed
+- [x] A) attributed
   <!-- feedback: Correct! 'Is attributed to' is a formal way to show the cause or credit for a result. -->
 - [ ] C) because
   <!-- feedback: Incorrect grammar. You cannot say 'is because to'. -->
@@ -412,11 +412,11 @@ This complex structure combines inversion (to omit 'if') with a mixed conditiona
 ### Opciones
 - [ ] A) last
   <!-- feedback: Incorrect. 'Last' is an adjective or verb, not an adverb for this context. -->
-- [x] B) lastly
+- [x] D) lastly
   <!-- feedback: Incorrect. 'Lastly' means 'finally' in a list of points. The correct word should be 'at last' or 'finally'. Wait, let's re-evaluate options. -->
-- [ ] C) final
+- [ ] B) final
   <!-- feedback: Incorrect. This is an adjective. -->
-- [ ] D) finally
+- [ ] C) finally
   <!-- feedback: Correct! 'Finally' is the adverb indicating that something happened after a long time. -->
 
 ### Explicacion Pedagogica
@@ -437,9 +437,9 @@ Using adverbs correctly to modify verbs is essential. 'Finally' indicates a long
 ### Opciones
 - [ ] A) purchases
   <!-- feedback: Incorrect. Formal English after 'suggest' requires the subjunctive. -->
-- [x] B) purchase
+- [x] C) purchase
   <!-- feedback: Correct! The subjunctive (base form) is used here regardless of the subject being third person singular. -->
-- [ ] C) will purchase
+- [ ] B) will purchase
   <!-- feedback: Incorrect. Subjunctive does not use 'will'. -->
 - [ ] D) purchased
   <!-- feedback: Incorrect. Past tense is not used for this type of suggestion. -->

@@ -30,13 +30,13 @@ Aprende a reconocer y usar los verbos que cambian su forma cuando hablamos de la
 ### Enunciado
 ¿Cuál de estos verbos cambia su forma al conjugarse y por eso es irregular?
 ### Opciones
-- [x] A) Ir
+- [x] D) Ir
   <!-- feedback: Es correcta porque sus formas voy, vas, va no conservan la raíz del infinitivo. -->
-- [ ] B) Cantar
+- [ ] A) Cantar
   <!-- feedback: Es incorrecta porque cantar mantiene su raíz: canto, cantas, canta. -->
-- [ ] C) Correr
+- [ ] B) Correr
   <!-- feedback: Es incorrecta porque correr es regular: corro, corres, corre. -->
-- [ ] D) Saltar
+- [ ] C) Saltar
   <!-- feedback: Es incorrecta porque saltar es regular: salto, saltas, salta. -->
 ### Explicacion Pedagogica
 Los verbos regulares conservan su raíz al conjugarse, como cantar (canto) o saltar (salto). Los irregulares la cambian o toman formas especiales, como ir (voy) o saber (sé). Reconocerlos ayuda a escribir y hablar con más seguridad.
@@ -50,9 +50,9 @@ Los verbos regulares conservan su raíz al conjugarse, como cantar (canto) o sal
 ### Enunciado
 ¿Por qué la forma "voy" pertenece a un verbo irregular?
 ### Opciones
-- [x] A) Porque no conserva la raíz del infinitivo "ir".
+- [x] B) Porque no conserva la raíz del infinitivo "ir".
   <!-- feedback: Es correcta porque de "ir" se esperaría algo como "iro", pero la forma real es "voy". -->
-- [ ] B) Porque se escribe con mayúscula al inicio.
+- [ ] A) Porque se escribe con mayúscula al inicio.
   <!-- feedback: Es incorrecta porque las mayúsculas dependen de la escritura, no de la conjugación. -->
 - [ ] C) Porque termina en vocal.
   <!-- feedback: Es incorrecta porque muchos verbos regulares también terminan en vocal, como "canto". -->
@@ -70,13 +70,13 @@ Un verbo es irregular cuando su conjugación no sigue el modelo regular y cambia
 ### Enunciado
 Completa con la forma correcta del verbo ir en pasado: "Ayer yo ______ al parque con mi familia".
 ### Opciones
-- [x] A) fui
+- [x] D) fui
   <!-- feedback: Es correcta porque "fui" es la forma del pasado que corresponde al sujeto "yo". -->
-- [ ] B) fuiste
+- [ ] A) fuiste
   <!-- feedback: Es incorrecta porque "fuiste" corresponde a "tú", no a "yo". -->
-- [ ] C) fue
+- [ ] B) fue
   <!-- feedback: Es incorrecta porque "fue" corresponde a "él", "ella" o "usted". -->
-- [ ] D) fuimos
+- [ ] C) fuimos
   <!-- feedback: Es incorrecta porque "fuimos" corresponde a "nosotros", no a "yo". -->
 ### Explicacion Pedagogica
 El verbo ir en pasado cambia según la persona: yo fui, tú fuiste, él fue, nosotros fuimos. Aplicar la forma correcta exige mirar quién realiza la acción. Esta concordancia mantiene claro el relato escrito.
@@ -90,11 +90,11 @@ El verbo ir en pasado cambia según la persona: yo fui, tú fuiste, él fue, nos
 ### Enunciado
 Completa con la forma correcta del verbo hacer en presente: "Yo ______ la tarea antes de salir a jugar".
 ### Opciones
-- [x] A) hago
+- [x] C) hago
   <!-- feedback: Es correcta porque "hago" es la forma irregular que corresponde al sujeto "yo". -->
-- [ ] B) hace
+- [ ] A) hace
   <!-- feedback: Es incorrecta porque "hace" corresponde a "él", "ella" o "usted". -->
-- [ ] C) haces
+- [ ] B) haces
   <!-- feedback: Es incorrecta porque "haces" corresponde a "tú", no a "yo". -->
 - [ ] D) hacemos
   <!-- feedback: Es incorrecta porque "hacemos" corresponde a "nosotros", no a "yo". -->
@@ -110,11 +110,11 @@ El verbo hacer es irregular: en presente la primera persona es "hago" con g, y n
 ### Enunciado
 Completa con la forma correcta del verbo decir en presente: "Los estudiantes ______ la verdad ante el profesor".
 ### Opciones
-- [x] A) dicen
+- [x] C) dicen
   <!-- feedback: Es correcta porque "dicen" corresponde al sujeto plural "los estudiantes". -->
-- [ ] B) decimos
+- [ ] A) decimos
   <!-- feedback: Es incorrecta porque "decimos" corresponde a "nosotros". -->
-- [ ] C) digo
+- [ ] B) digo
   <!-- feedback: Es incorrecta porque "digo" corresponde a "yo", no al sujeto plural. -->
 - [ ] D) dices
   <!-- feedback: Es incorrecta porque "dices" corresponde a "tú", no al sujeto plural. -->
@@ -130,11 +130,11 @@ El verbo decir es irregular: yo digo, tú dices, él dice, ellos dicen. La raíz
 ### Enunciado
 Al analizar la oración de Juan, ¿qué error hay en el uso del verbo?
 ### Opciones
-- [x] A) Usó "sabo", que no existe; la forma correcta del verbo saber es "sé".
+- [x] C) Usó "sabo", que no existe; la forma correcta del verbo saber es "sé".
   <!-- feedback: Es correcta porque identifica la forma verbal inventada y propone la correcta. -->
-- [ ] B) La oración está bien porque "sabo" viene del verbo saber.
+- [ ] A) La oración está bien porque "sabo" viene del verbo saber.
   <!-- feedback: Es incorrecta porque no todas las formas que suenan posibles existen en español. -->
-- [ ] C) El error está en "respuesta", que no es una palabra válida.
+- [ ] B) El error está en "respuesta", que no es una palabra válida.
   <!-- feedback: Es incorrecta porque "respuesta" es un sustantivo correcto. -->
 - [ ] D) El error está en "yo", que no puede ir con ningún verbo.
   <!-- feedback: Es incorrecta porque "yo" es un pronombre válido para el sujeto. -->
@@ -150,13 +150,13 @@ Analizar un error verbal exige comprobar si la forma existe en español. El verb
 ### Enunciado
 ¿Cuál texto usa correctamente el verbo poner en pasado?
 ### Opciones
-- [x] A) El texto 2, porque "puso" es la forma correcta del verbo poner en pasado.
+- [x] D) El texto 2, porque "puso" es la forma correcta del verbo poner en pasado.
   <!-- feedback: Es correcta porque identifica la forma irregular real del verbo poner. -->
-- [ ] B) El texto 1, porque "ponió" es la forma correcta.
+- [ ] A) El texto 1, porque "ponió" es la forma correcta.
   <!-- feedback: Es incorrecta porque "ponió" no existe; el verbo poner no se conjuga así. -->
-- [ ] C) El texto 1, porque la sopa siempre va sobre la mesa.
+- [ ] B) El texto 1, porque la sopa siempre va sobre la mesa.
   <!-- feedback: Es incorrecta porque dónde se pone la sopa no cambia la conjugación del verbo. -->
-- [ ] D) Los dos, porque ambas formas existen en español.
+- [ ] C) Los dos, porque ambas formas existen en español.
   <!-- feedback: Es incorrecta porque solo "puso" es la forma válida para ese tiempo. -->
 ### Explicacion Pedagogica
 Muchos verbos irregulares forman el pasado sin seguir el modelo regular: poner hace "puse" o "puso", no "poní" ni "ponió". Analizar estas formas ayuda a comparar versiones y elegir la que respeta las normas del idioma.
@@ -170,9 +170,9 @@ Muchos verbos irregulares forman el pasado sin seguir el modelo regular: poner h
 ### Enunciado
 ¿Cuál oración usa mejor los verbos irregulares?
 ### Opciones
-- [x] A) Mi familia fue al mercado y trajo frutas frescas por cinco mil pesos.
+- [x] B) Mi familia fue al mercado y trajo frutas frescas por cinco mil pesos.
   <!-- feedback: Es correcta porque "fue" y "trajo" son las formas irregulares correctas del pasado. -->
-- [ ] B) Mi familia fuimos al mercado y trajo frutas frescas por cinco mil pesos.
+- [ ] A) Mi familia fuimos al mercado y trajo frutas frescas por cinco mil pesos.
   <!-- feedback: Es incorrecta porque "fuimos" no concuerda con el sujeto "mi familia". -->
 - [ ] C) Mi familia va al mercado y traer frutas frescas por cinco mil pesos.
   <!-- feedback: Es incorrecta porque mezcla presente con infinitivo y rompe el tiempo del relato. -->

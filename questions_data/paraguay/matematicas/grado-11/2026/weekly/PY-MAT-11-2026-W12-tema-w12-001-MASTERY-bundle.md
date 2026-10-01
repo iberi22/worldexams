@@ -56,9 +56,9 @@ La razón trigonométrica seno de un ángulo agudo $\alpha$ en un triángulo rec
 ¿Cuál es el valor exacto de $\sin(30^\circ)$?
 
 ### Opciones
-- [x] A) $\frac{1}{2}$ <!-- feedback: ¡Correcto! El valor exacto de $\sin(30^\circ)$ en la tabla de ángulos notables es $1/2$ o $0,5$. -->
-- [ ] B) $\frac{\sqrt{3}}{2}$ <!-- feedback: Incorrecto. $\frac{\sqrt{3}}{2}$ corresponde al $\cos(30^\circ)$ o $\sin(60^\circ)$. -->
-- [ ] C) $\frac{\sqrt{2}}{2}$ <!-- feedback: Incorrecto. $\frac{\sqrt{2}}{2}$ es el valor para $45^\circ$. -->
+- [x] C) $\frac{1}{2}$ <!-- feedback: ¡Correcto! El valor exacto de $\sin(30^\circ)$ en la tabla de ángulos notables es $1/2$ o $0,5$. -->
+- [ ] A) $\frac{\sqrt{3}}{2}$ <!-- feedback: Incorrecto. $\frac{\sqrt{3}}{2}$ corresponde al $\cos(30^\circ)$ o $\sin(60^\circ)$. -->
+- [ ] B) $\frac{\sqrt{2}}{2}$ <!-- feedback: Incorrecto. $\frac{\sqrt{2}}{2}$ es el valor para $45^\circ$. -->
 - [ ] D) $1$ <!-- feedback: Incorrecto. 1 es el valor del seno para $90^\circ$. -->
 
 ### Explicacion Pedagogica
@@ -77,8 +77,8 @@ En un triángulo rectángulo notable de $30^\circ - 60^\circ$, el cateto opuesto
 ¿Cuál es la identidad pitagórica fundamental para cualquier ángulo $\theta$?
 
 ### Opciones
-- [x] A) $\sin^2(\theta) + \cos^2(\theta) = 1$ <!-- feedback: ¡Correcto! Es la identidad trigonométrica fundamental derivada del teorema de Pitágoras. -->
-- [ ] B) $\sin^2(\theta) - \cos^2(\theta) = 1$ <!-- feedback: Incorrecto. La suma de los cuadrados debe ser 1, no la resta. -->
+- [x] B) $\sin^2(\theta) + \cos^2(\theta) = 1$ <!-- feedback: ¡Correcto! Es la identidad trigonométrica fundamental derivada del teorema de Pitágoras. -->
+- [ ] A) $\sin^2(\theta) - \cos^2(\theta) = 1$ <!-- feedback: Incorrecto. La suma de los cuadrados debe ser 1, no la resta. -->
 - [ ] C) $\tan^2(\theta) + 1 = \sin^2(\theta)$ <!-- feedback: Incorrecto. La identidad correcta con tangente es $\tan^2(\theta) + 1 = \sec^2(\theta)$. -->
 - [ ] D) $\sin(\theta) + \cos(\theta) = 1$ <!-- feedback: Incorrecto. La relación aplica a los cuadrados de las funciones trigonométricas. -->
 
@@ -98,9 +98,9 @@ Aplicando el teorema de Pitágoras en la circunferencia unitaria ($x^2 + y^2 = 1
 En un triángulo rectángulo, un cateto opuesto mide $6\text{ m}$ y el cateto adyacente mide $8\text{ m}$. ¿Cuál es la tangente del ángulo agudo correspondiente?
 
 ### Opciones
-- [x] A) $\frac{3}{4}$ (o $0,75$) <!-- feedback: ¡Correcto! $\tan(\alpha) = \frac{\text{opuesto}}{\text{adyacente}} = \frac{6}{8} = \frac{3}{4}$. -->
-- [ ] B) $\frac{4}{3}$ (o $1,33$) <!-- feedback: Incorrecto. Dividió el adyacente entre el opuesto (cotangente). -->
-- [ ] C) $\frac{3}{5}$ (o $0,60$) <!-- feedback: Incorrecto. Dividió el opuesto entre la hipotenusa ($10\text{ m}$), que es el seno. -->
+- [x] C) $\frac{3}{4}$ (o $0,75$) <!-- feedback: ¡Correcto! $\tan(\alpha) = \frac{\text{opuesto}}{\text{adyacente}} = \frac{6}{8} = \frac{3}{4}$. -->
+- [ ] A) $\frac{4}{3}$ (o $1,33$) <!-- feedback: Incorrecto. Dividió el adyacente entre el opuesto (cotangente). -->
+- [ ] B) $\frac{3}{5}$ (o $0,60$) <!-- feedback: Incorrecto. Dividió el opuesto entre la hipotenusa ($10\text{ m}$), que es el seno. -->
 - [ ] D) $\frac{4}{5}$ (o $0,80$) <!-- feedback: Incorrecto. Dividió el adyacente entre la hipotenusa, que es el coseno. -->
 
 ### Explicacion Pedagogica
@@ -119,10 +119,10 @@ Por definición, $\tan(\alpha) = \frac{\text{Cateto opuesto}}{\text{Cateto adyac
 ¿Cuál es la altura vertical que alcanza la rampa?
 
 ### Opciones
-- [x] A) $5\text{ m}$ <!-- feedback: ¡Correcto! $\text{Altura} = \text{Hipotenusa} \cdot \sin(30^\circ) = 10 \cdot 0,5 = 5\text{ m}$. -->
-- [ ] B) $5\sqrt{3}\text{ m}$ (aprox. $8,66\text{ m}$) <!-- feedback: Incorrecto. Calculó la distancia horizontal utilizando el coseno. -->
-- [ ] C) $10\text{ m}$ <!-- feedback: Incorrecto. Es la longitud de la rampa (hipotenusa), no su altura. -->
-- [ ] D) $2,5\text{ m}$ <!-- feedback: Incorrecto. Dividió por 4 en lugar de multiplicar por $\sin(30^\circ) = 0,5$. -->
+- [x] D) $5\text{ m}$ <!-- feedback: ¡Correcto! $\text{Altura} = \text{Hipotenusa} \cdot \sin(30^\circ) = 10 \cdot 0,5 = 5\text{ m}$. -->
+- [ ] A) $5\sqrt{3}\text{ m}$ (aprox. $8,66\text{ m}$) <!-- feedback: Incorrecto. Calculó la distancia horizontal utilizando el coseno. -->
+- [ ] B) $10\text{ m}$ <!-- feedback: Incorrecto. Es la longitud de la rampa (hipotenusa), no su altura. -->
+- [ ] C) $2,5\text{ m}$ <!-- feedback: Incorrecto. Dividió por 4 en lugar de multiplicar por $\sin(30^\circ) = 0,5$. -->
 
 ### Explicacion Pedagogica
 La altura $h$ se relaciona con la hipotenusa $L = 10\text{ m}$ mediante $\sin(30^\circ) = \frac{h}{L} \Rightarrow h = 10 \cdot \sin(30^\circ) = 10 \cdot 0,5 = 5\text{ m}$.
@@ -140,8 +140,8 @@ La altura $h$ se relaciona con la hipotenusa $L = 10\text{ m}$ mediante $\sin(30
 En un triángulo $ABC$, el lado $a = 12\text{ cm}$, el ángulo $A = 45^\circ$ y el ángulo $B = 30^\circ$. ¿Cuál es la longitud del lado $b$?
 
 ### Opciones
-- [x] A) $6\sqrt{2}\text{ cm}$ (aprox. $8,49\text{ cm}$) <!-- feedback: ¡Correcto! Por Ley de Senos: $\frac{b}{\sin(30^\circ)} = \frac{12}{\sin(45^\circ)} \Rightarrow b = \frac{12 \cdot 1/2}{\sqrt{2}/2} = \frac{12}{\sqrt{2}} = 6\sqrt{2}$. -->
-- [ ] B) $12\sqrt{2}\text{ cm}$ <!-- feedback: Incorrecto. Olvidó multiplicar por $\sin(30^\circ) = 1/2$. -->
+- [x] B) $6\sqrt{2}\text{ cm}$ (aprox. $8,49\text{ cm}$) <!-- feedback: ¡Correcto! Por Ley de Senos: $\frac{b}{\sin(30^\circ)} = \frac{12}{\sin(45^\circ)} \Rightarrow b = \frac{12 \cdot 1/2}{\sqrt{2}/2} = \frac{12}{\sqrt{2}} = 6\sqrt{2}$. -->
+- [ ] A) $12\sqrt{2}\text{ cm}$ <!-- feedback: Incorrecto. Olvidó multiplicar por $\sin(30^\circ) = 1/2$. -->
 - [ ] C) $6\text{ cm}$ <!-- feedback: Incorrecto. Olvidó el factor $\sqrt{2}$ al simplificar la fracción. -->
 - [ ] D) $8\text{ cm}$ <!-- feedback: Incorrecto. Calculó una proporción directa de ángulos en lugar de senos. -->
 
@@ -161,8 +161,8 @@ Por la Ley de Senos: $\frac{a}{\sin(A)} = \frac{b}{\sin(B)}$. Sustituyendo valor
 En un triángulo $ABC$, los lados miden $b = 5\text{ m}$, $c = 8\text{ m}$ y el ángulo comprendido entre ellos es $A = 60^\circ$. ¿Cuál es la longitud del lado $a$?
 
 ### Opciones
-- [x] A) $7\text{ m}$ <!-- feedback: ¡Correcto! Por Ley de Cosenos: $a^2 = 5^2 + 8^2 - 2(5)(8)\cos(60^\circ) = 25 + 64 - 80(0,5) = 89 - 40 = 49 \Rightarrow a = \sqrt{49} = 7$. -->
-- [ ] B) $\sqrt{89}\text{ m}$ (aprox. $9,43\text{ m}$) <!-- feedback: Incorrecto. Olvidó restar el término del doble producto con el coseno. -->
+- [x] B) $7\text{ m}$ <!-- feedback: ¡Correcto! Por Ley de Cosenos: $a^2 = 5^2 + 8^2 - 2(5)(8)\cos(60^\circ) = 25 + 64 - 80(0,5) = 89 - 40 = 49 \Rightarrow a = \sqrt{49} = 7$. -->
+- [ ] A) $\sqrt{89}\text{ m}$ (aprox. $9,43\text{ m}$) <!-- feedback: Incorrecto. Olvidó restar el término del doble producto con el coseno. -->
 - [ ] C) $9\text{ m}$ <!-- feedback: Incorrecto. Sumó $5 + 8 - 4 = 9$ en lugar de aplicar la raíz cuadrada a $a^2 = 49$. -->
 - [ ] D) $\sqrt{129}\text{ m}$ <!-- feedback: Incorrecto. Sumó el producto $2bc\cos(A)$ en lugar de restarlo. -->
 
@@ -182,9 +182,9 @@ Por la Ley de Cosenos: $a^2 = b^2 + c^2 - 2bc \cos(A)$. Al sustituir $b=5$, $c=8
 Si un ángulo $\theta$ pertenece al segundo cuadrante ($90^\circ < \theta < 180^\circ$), ¿cuáles son los signos del seno y del coseno de $\theta$, respectivamente?
 
 ### Opciones
-- [x] A) Seno positivo ($+$), Coseno negativo ($-$) <!-- feedback: ¡Correcto! En el II cuadrante la ordenada $y > 0$ (seno positivo) y la abscisa $x < 0$ (coseno negativo). -->
-- [ ] B) Seno negativo ($-$), Coseno positivo ($+$) <!-- feedback: Incorrecto. Corresponde al IV cuadrante. -->
-- [ ] C) Ambos negativos ($-,-$) <!-- feedback: Incorrecto. Corresponde al III cuadrante. -->
+- [x] C) Seno positivo ($+$), Coseno negativo ($-$) <!-- feedback: ¡Correcto! En el II cuadrante la ordenada $y > 0$ (seno positivo) y la abscisa $x < 0$ (coseno negativo). -->
+- [ ] A) Seno negativo ($-$), Coseno positivo ($+$) <!-- feedback: Incorrecto. Corresponde al IV cuadrante. -->
+- [ ] B) Ambos negativos ($-,-$) <!-- feedback: Incorrecto. Corresponde al III cuadrante. -->
 - [ ] D) Ambos positivos ($+,+$) <!-- feedback: Incorrecto. Corresponde al I cuadrante. -->
 
 ### Explicacion Pedagogica
@@ -203,10 +203,10 @@ En la circunferencia trigonométrica, el seno corresponde a la coordenada $y$ (p
 ¿A qué expresión reducida al primer cuadrante equivale $\sin(150^\circ)$?
 
 ### Opciones
-- [x] A) $\sin(30^\circ) = \frac{1}{2}$ <!-- feedback: ¡Correcto! Por reducción al I cuadrante: $\sin(150^\circ) = \sin(180^\circ - 30^\circ) = \sin(30^\circ) = 1/2$. -->
-- [ ] B) $-\sin(30^\circ) = -\frac{1}{2}$ <!-- feedback: Incorrecto. El seno es positivo en el segundo cuadrante. -->
-- [ ] C) $\cos(30^\circ) = \frac{\sqrt{3}}{2}$ <!-- feedback: Incorrecto. $\sin(150^\circ)$ no cambia de función a coseno salvo que se use $90^\circ + 60^\circ$, en cuyo caso es $+\cos(60^\circ) = 1/2$. -->
-- [ ] D) $-\cos(30^\circ) = -\frac{\sqrt{3}}{2}$ <!-- feedback: Incorrecto. Asignó signo negativo a una razón positiva en el II cuadrante. -->
+- [x] D) $\sin(30^\circ) = \frac{1}{2}$ <!-- feedback: ¡Correcto! Por reducción al I cuadrante: $\sin(150^\circ) = \sin(180^\circ - 30^\circ) = \sin(30^\circ) = 1/2$. -->
+- [ ] A) $-\sin(30^\circ) = -\frac{1}{2}$ <!-- feedback: Incorrecto. El seno es positivo en el segundo cuadrante. -->
+- [ ] B) $\cos(30^\circ) = \frac{\sqrt{3}}{2}$ <!-- feedback: Incorrecto. $\sin(150^\circ)$ no cambia de función a coseno salvo que se use $90^\circ + 60^\circ$, en cuyo caso es $+\cos(60^\circ) = 1/2$. -->
+- [ ] C) $-\cos(30^\circ) = -\frac{\sqrt{3}}{2}$ <!-- feedback: Incorrecto. Asignó signo negativo a una razón positiva en el II cuadrante. -->
 
 ### Explicacion Pedagogica
 El ángulo $150^\circ$ está en el II cuadrante. La reducción mediante el ángulo suplementario es $\sin(180^\circ - 30^\circ) = \sin(30^\circ) = 0,5$.
@@ -224,10 +224,10 @@ El ángulo $150^\circ$ está en el II cuadrante. La reducción mediante el ángu
 ¿A qué es igual la identidad trigonométrica $\sin(2\theta)$?
 
 ### Opciones
-- [x] A) $2 \sin(\theta) \cos(\theta)$ <!-- feedback: ¡Correcto! La identidad del seno del ángulo doble es $\sin(2\theta) = 2 \sin(\theta) \cos(\theta)$. -->
-- [ ] B) $\sin^2(\theta) - \cos^2(\theta)$ <!-- feedback: Incorrecto. Esa expresión corresponde a $-\cos(2\theta)$. -->
-- [ ] C) $\cos^2(\theta) - \sin^2(\theta)$ <!-- feedback: Incorrecto. Corresponde a la identidad de $\cos(2\theta)$. -->
-- [ ] D) $2 \sin(\theta)$ <!-- feedback: Incorrecto. Falta multiplicar por el coseno del ángulo. -->
+- [x] D) $2 \sin(\theta) \cos(\theta)$ <!-- feedback: ¡Correcto! La identidad del seno del ángulo doble es $\sin(2\theta) = 2 \sin(\theta) \cos(\theta)$. -->
+- [ ] A) $\sin^2(\theta) - \cos^2(\theta)$ <!-- feedback: Incorrecto. Esa expresión corresponde a $-\cos(2\theta)$. -->
+- [ ] B) $\cos^2(\theta) - \sin^2(\theta)$ <!-- feedback: Incorrecto. Corresponde a la identidad de $\cos(2\theta)$. -->
+- [ ] C) $2 \sin(\theta)$ <!-- feedback: Incorrecto. Falta multiplicar por el coseno del ángulo. -->
 
 ### Explicacion Pedagogica
 La fórmula de adición para el seno $\sin(\alpha + \beta) = \sin\alpha\cos\beta + \cos\alpha\sin\beta$, haciendo $\alpha = \beta = \theta$, da $\sin(2\theta) = 2\sin\theta\cos\theta$.
@@ -266,8 +266,8 @@ Por la identidad pitagórica, $1 - \cos^2(x) = \sin^2(x)$. Al dividir entre $\si
 ¿Cuáles son todas las soluciones de la ecuación $2 \sin(x) - 1 = 0$ en el intervalo $[0^\circ, 360^\circ)$?
 
 ### Opciones
-- [x] A) $x_1 = 30^\circ$ y $x_2 = 150^\circ$ <!-- feedback: ¡Correcto! $\sin(x) = 1/2$, lo cual ocurre en el I cuadrante ($30^\circ$) y II cuadrante ($180^\circ - 30^\circ = 150^\circ$). -->
-- [ ] B) $x_1 = 30^\circ$ y $x_2 = 210^\circ$ <!-- feedback: Incorrecto. $210^\circ$ está en el III cuadrante donde el seno es $-1/2$. -->
+- [x] B) $x_1 = 30^\circ$ y $x_2 = 150^\circ$ <!-- feedback: ¡Correcto! $\sin(x) = 1/2$, lo cual ocurre en el I cuadrante ($30^\circ$) y II cuadrante ($180^\circ - 30^\circ = 150^\circ$). -->
+- [ ] A) $x_1 = 30^\circ$ y $x_2 = 210^\circ$ <!-- feedback: Incorrecto. $210^\circ$ está en el III cuadrante donde el seno es $-1/2$. -->
 - [ ] C) $x_1 = 60^\circ$ y $x_2 = 120^\circ$ <!-- feedback: Incorrecto. Para $60^\circ$, $\sin(60^\circ) = \sqrt{3}/2$. -->
 - [ ] D) $x_1 = 30^\circ$ únicamente <!-- feedback: Incorrecto. Olvidó incluir la solución del segundo cuadrante. -->
 
@@ -308,8 +308,8 @@ Aplicando la Ley de Cosenos con $\cos(120^\circ) = -0,5$: $d^2 = 10^2 + 6^2 - 2(
 Simplifique la expresión $\tan(x) \cdot \csc(x)$.
 
 ### Opciones
-- [x] A) $\sec(x)$ <!-- feedback: ¡Correcto! $\tan(x) \cdot \csc(x) = \frac{\sin(x)}{\cos(x)} \cdot \frac{1}{\sin(x)} = \frac{1}{\cos(x)} = \sec(x)$. -->
-- [ ] B) $\cos(x)$ <!-- feedback: Incorrecto. Invirtió la relación recíproca final. -->
+- [x] B) $\sec(x)$ <!-- feedback: ¡Correcto! $\tan(x) \cdot \csc(x) = \frac{\sin(x)}{\cos(x)} \cdot \frac{1}{\sin(x)} = \frac{1}{\cos(x)} = \sec(x)$. -->
+- [ ] A) $\cos(x)$ <!-- feedback: Incorrecto. Invirtió la relación recíproca final. -->
 - [ ] C) $\cot(x)$ <!-- feedback: Incorrecto. Confundió secante con cotangente. -->
 - [ ] D) $\sin(x)$ <!-- feedback: Incorrecto. Canceló incorrectamente el coseno en lugar del seno. -->
 
@@ -329,9 +329,9 @@ Reemplazando por senos y cosenos: $\tan(x) = \frac{\sin(x)}{\cos(x)}$ y $\csc(x)
 ¿Cuál es el área de un triángulo con lados $a = 8\text{ m}$, $b = 10\text{ m}$ y un ángulo comprendido entre ellos $C = 30^\circ$?
 
 ### Opciones
-- [x] A) $20\text{ m}^2$ <!-- feedback: ¡Correcto! $\text{Área} = \frac{1}{2} a b \sin(C) = \frac{1}{2} (8) (10) \sin(30^\circ) = 40 \cdot 0,5 = 20\text{ m}^2$. -->
-- [ ] B) $40\text{ m}^2$ <!-- feedback: Incorrecto. Olvidó multiplicar por el factor $1/2$. -->
-- [ ] C) $20\sqrt{3}\text{ m}^2$ <!-- feedback: Incorrecto. Usó $\cos(30^\circ) = \sqrt{3}/2$ en lugar de $\sin(30^\circ) = 1/2$. -->
+- [x] C) $20\text{ m}^2$ <!-- feedback: ¡Correcto! $\text{Área} = \frac{1}{2} a b \sin(C) = \frac{1}{2} (8) (10) \sin(30^\circ) = 40 \cdot 0,5 = 20\text{ m}^2$. -->
+- [ ] A) $40\text{ m}^2$ <!-- feedback: Incorrecto. Olvidó multiplicar por el factor $1/2$. -->
+- [ ] B) $20\sqrt{3}\text{ m}^2$ <!-- feedback: Incorrecto. Usó $\cos(30^\circ) = \sqrt{3}/2$ en lugar de $\sin(30^\circ) = 1/2$. -->
 - [ ] D) $10\text{ m}^2$ <!-- feedback: Incorrecto. Dividió adicionalmente por 2 sin necesidad. -->
 
 ### Explicacion Pedagogica
@@ -371,9 +371,9 @@ Sustituyendo $\sin(2x) = 2\sin(x)\cos(x)$ y $1 + \cos(2x) = 2\cos^2(x)$: obtenem
 ¿Cuáles son las soluciones de la ecuación $2 \cos^2(x) + \cos(x) - 1 = 0$ en el intervalo $[0, 2\pi)$?
 
 ### Opciones
-- [x] A) $\frac{\pi}{3}$, $\pi$, $\frac{5\pi}{3}$ <!-- feedback: ¡Correcto! Factorizando $(2\cos(x) - 1)(\cos(x) + 1) = 0 \Rightarrow \cos(x) = 1/2 \Rightarrow x = \pi/3, 5\pi/3$; o $\cos(x) = -1 \Rightarrow x = \pi$. -->
-- [ ] B) $\frac{\pi}{6}$, $\pi$, $\frac{11\pi}{6}$ <!-- feedback: Incorrecto. $\cos(\pi/6) = \sqrt{3}/2$, no $1/2$. -->
-- [ ] C) $\frac{\pi}{3}$, $\frac{2\pi}{3}$, $\pi$ <!-- feedback: Incorrecto. $\cos(2\pi/3) = -1/2$, que no satisface $2\cos(x)-1=0$. -->
+- [x] C) $\frac{\pi}{3}$, $\pi$, $\frac{5\pi}{3}$ <!-- feedback: ¡Correcto! Factorizando $(2\cos(x) - 1)(\cos(x) + 1) = 0 \Rightarrow \cos(x) = 1/2 \Rightarrow x = \pi/3, 5\pi/3$; o $\cos(x) = -1 \Rightarrow x = \pi$. -->
+- [ ] A) $\frac{\pi}{6}$, $\pi$, $\frac{11\pi}{6}$ <!-- feedback: Incorrecto. $\cos(\pi/6) = \sqrt{3}/2$, no $1/2$. -->
+- [ ] B) $\frac{\pi}{3}$, $\frac{2\pi}{3}$, $\pi$ <!-- feedback: Incorrecto. $\cos(2\pi/3) = -1/2$, que no satisface $2\cos(x)-1=0$. -->
 - [ ] D) $0$, $\frac{\pi}{3}$, $\frac{5\pi}{3}$ <!-- feedback: Incorrecto. $\cos(0) = 1$, que no satisface la ecuación. -->
 
 ### Explicacion Pedagogica
@@ -395,9 +395,9 @@ Las soluciones en el intervalo son $\frac{\pi}{3}, \pi, \frac{5\pi}{3}$.
 ¿A qué expresión equivale la suma $\cos(75^\circ) + \cos(15^\circ)$ utilizando las fórmulas de transformación de suma a producto?
 
 ### Opciones
-- [x] A) $\frac{\sqrt{6}}{2}$ <!-- feedback: ¡Correcto! $\cos(A) + \cos(B) = 2 \cos\left(\frac{A+B}{2}\right) \cos\left(\frac{A-B}{2}\right) = 2 \cos(45^\circ) \cos(30^\circ) = 2 \left(\frac{\sqrt{2}}{2}\right) \left(\frac{\sqrt{3}}{2}\right) = \frac{\sqrt{6}}{2}$. -->
-- [ ] B) $\frac{\sqrt{2}}{2}$ <!-- feedback: Incorrecto. Olvidó el factor $\cos(30^\circ) = \sqrt{3}/2$. -->
-- [ ] C) $\sqrt{3}$ <!-- feedback: Incorrecto. Multiplicó en lugar de simplificar adecuadamente. -->
+- [x] C) $\frac{\sqrt{6}}{2}$ <!-- feedback: ¡Correcto! $\cos(A) + \cos(B) = 2 \cos\left(\frac{A+B}{2}\right) \cos\left(\frac{A-B}{2}\right) = 2 \cos(45^\circ) \cos(30^\circ) = 2 \left(\frac{\sqrt{2}}{2}\right) \left(\frac{\sqrt{3}}{2}\right) = \frac{\sqrt{6}}{2}$. -->
+- [ ] A) $\frac{\sqrt{2}}{2}$ <!-- feedback: Incorrecto. Olvidó el factor $\cos(30^\circ) = \sqrt{3}/2$. -->
+- [ ] B) $\sqrt{3}$ <!-- feedback: Incorrecto. Multiplicó en lugar de simplificar adecuadamente. -->
 - [ ] D) $\frac{\sqrt{3}}{2}$ <!-- feedback: Incorrecto. Olvidó el factor $\cos(45^\circ) = \sqrt{2}/2$. -->
 
 ### Explicacion Pedagogica
@@ -416,9 +416,9 @@ Usando la identidad de suma a producto: $\cos(A) + \cos(B) = 2 \cos\left(\frac{A
 ¿Cuál es el valor exacto del coseno del ángulo $C$ (opuesto al lado $c = 9$)?
 
 ### Opciones
-- [x] A) $\frac{2}{7}$ <!-- feedback: ¡Correcto! Por Ley de Cosenos: $c^2 = a^2 + b^2 - 2ab \cos(C) \Rightarrow 81 = 49 + 64 - 2(7)(8) \cos(C) \Rightarrow 81 = 113 - 112 \cos(C) \Rightarrow 112 \cos(C) = 32 \Rightarrow \cos(C) = 32/112 = 2/7$. -->
-- [ ] B) $\frac{5}{7}$ <!-- feedback: Incorrecto. Restó de forma errónea $113 - 81$. -->
-- [ ] C) $\frac{1}{4}$ <!-- feedback: Incorrecto. Cometió un error en el denominador al simplificar $32/112$. -->
+- [x] C) $\frac{2}{7}$ <!-- feedback: ¡Correcto! Por Ley de Cosenos: $c^2 = a^2 + b^2 - 2ab \cos(C) \Rightarrow 81 = 49 + 64 - 2(7)(8) \cos(C) \Rightarrow 81 = 113 - 112 \cos(C) \Rightarrow 112 \cos(C) = 32 \Rightarrow \cos(C) = 32/112 = 2/7$. -->
+- [ ] A) $\frac{5}{7}$ <!-- feedback: Incorrecto. Restó de forma errónea $113 - 81$. -->
+- [ ] B) $\frac{1}{4}$ <!-- feedback: Incorrecto. Cometió un error en el denominador al simplificar $32/112$. -->
 - [ ] D) $\frac{3}{7}$ <!-- feedback: Incorrecto. Confundió los lados al aplicar la fórmula. -->
 
 ### Explicacion Pedagogica

@@ -34,13 +34,13 @@ Hechos básicos de la independencia de Colombia: el Grito del 20 de julio de 181
 ¿Qué hecho se recuerda en Colombia cada 20 de julio?
 
 ### Opciones
-- [x] A) El Grito de Independencia de 1810 en Santa Fe de Bogotá.
+- [x] D) El Grito de Independencia de 1810 en Santa Fe de Bogotá.
   <!-- feedback: El 20 de julio de 1810 se dio el Grito de Independencia que inició el proceso de libertad. -->
-- [ ] B) La llegada de los españoles a Cartagena.
+- [ ] A) La llegada de los españoles a Cartagena.
   <!-- feedback: La llegada de los españoles ocurrió siglos antes, en la época de la conquista. -->
-- [ ] C) La fundación de la ciudad de Medellín.
+- [ ] B) La fundación de la ciudad de Medellín.
   <!-- feedback: Medellín fue fundada en otra época y no se celebra el 20 de julio. -->
-- [ ] D) El nacimiento de Simón Bolívar.
+- [ ] C) El nacimiento de Simón Bolívar.
   <!-- feedback: Simón Bolívar nació un 24 de julio, no el 20 de julio. -->
 
 ### Explicacion Pedagogica
@@ -57,11 +57,11 @@ Reconocer el 20 de julio de 1810 como la fecha del Grito de Independencia de Col
 ¿Por qué Simón Bolívar es conocido como el Libertador?
 
 ### Opciones
-- [x] A) Porque lideró la lucha por la libertad de Colombia y de otros países americanos.
+- [x] C) Porque lideró la lucha por la libertad de Colombia y de otros países americanos.
   <!-- feedback: Bolívar comandó las campañas que lograron la libertad frente al dominio español. -->
-- [ ] B) Porque escribió la Constitución de 1991.
+- [ ] A) Porque escribió la Constitución de 1991.
   <!-- feedback: La Constitución de 1991 fue escrita mucho después de la época de Bolívar. -->
-- [ ] C) Porque descubrió el río Magdalena.
+- [ ] B) Porque descubrió el río Magdalena.
   <!-- feedback: El río Magdalena ya era conocido por las comunidades indígenas antes de Bolívar. -->
 - [ ] D) Porque fue el primer presidente elegido por voto popular en el siglo XX.
   <!-- feedback: Bolívar vivió en el siglo XIX y lideró la independencia, no las elecciones del siglo XX. -->
@@ -80,11 +80,11 @@ Comprender el papel de Simón Bolívar como líder de la independencia americana
 ¿Cuál fue la batalla decisiva del 7 de agosto de 1819 para la independencia de Colombia?
 
 ### Opciones
-- [x] A) La batalla de Boyacá.
+- [x] C) La batalla de Boyacá.
   <!-- feedback: La batalla de Boyacá, el 7 de agosto de 1819, aseguró la libertad de la Nueva Granada. -->
-- [ ] B) La batalla de Cartagena en 1810.
+- [ ] A) La batalla de Cartagena en 1810.
   <!-- feedback: En Cartagena hubo hechos importantes en 1810 y 1811, pero la batalla decisiva de 1819 fue Boyacá. -->
-- [ ] C) La batalla de Cúcuta en 1821.
+- [ ] B) La batalla de Cúcuta en 1821.
   <!-- feedback: En Cúcuta se reunió el congreso de 1821, pero la batalla decisiva fue Boyacá. -->
 - [ ] D) La batalla de Santa Marta en 1809.
   <!-- feedback: No hubo una batalla decisiva de independencia en Santa Marta en 1809. -->
@@ -103,9 +103,9 @@ Identificar la batalla de Boyacá del 7 de agosto de 1819 como el triunfo decisi
 ¿Quién fue Policarpa Salavarrieta en la historia de la independencia?
 
 ### Opciones
-- [x] A) Una heroína que apoyó a los patriotas y dio su vida por la libertad.
+- [x] B) Una heroína que apoyó a los patriotas y dio su vida por la libertad.
   <!-- feedback: La Pola es recordada como heroína por su valor y su sacrificio por la causa patriota. -->
-- [ ] B) Una reina española que gobernó Bogotá.
+- [ ] A) Una reina española que gobernó Bogotá.
   <!-- feedback: La Pola no fue reina; fue una joven patriota que enfrentó al gobierno español. -->
 - [ ] C) Una pintora de la época colonial sin relación con la independencia.
   <!-- feedback: La Pola participó activamente en la lucha patriota, no solo en el arte. -->
@@ -172,11 +172,11 @@ Analizar el paso del dominio español al gobierno propio como resultado central 
 ¿Qué nos enseña la participación de tantas personas diferentes en la independencia?
 
 ### Opciones
-- [x] A) Que la libertad se logró con el esfuerzo unido de hombres y mujeres de distintos orígenes.
+- [x] C) Que la libertad se logró con el esfuerzo unido de hombres y mujeres de distintos orígenes.
   <!-- feedback: La independencia fue una obra colectiva donde muchos grupos aportaron su valor y trabajo. -->
-- [ ] B) Que solo una persona logró la libertad sin ayuda de nadie.
+- [ ] A) Que solo una persona logró la libertad sin ayuda de nadie.
   <!-- feedback: Aunque Bolívar fue el líder, miles de personas colaboraron en la lucha. -->
-- [ ] C) Que las mujeres y los pueblos no participaron en la historia.
+- [ ] B) Que las mujeres y los pueblos no participaron en la historia.
   <!-- feedback: Las mujeres y las comunidades participaron con tareas clave para los patriotas. -->
 - [ ] D) Que la independencia se logró sin batallas ni sacrificios.
   <!-- feedback: La libertad costó batallas, sacrificios y la vida de muchos héroes. -->
@@ -195,9 +195,9 @@ Analizar la independencia como un logro colectivo de diversos grupos de la socie
 ¿Por qué es importante que los niños celebren el 20 de julio y el 7 de agosto?
 
 ### Opciones
-- [x] A) Porque recordar la historia fortalece la identidad, valora la libertad y enseña a cuidar el país.
+- [x] B) Porque recordar la historia fortalece la identidad, valora la libertad y enseña a cuidar el país.
   <!-- feedback: Celebrar estas fechas une a los colombianos y forma ciudadanos responsables con su historia. -->
-- [ ] B) Porque son días para olvidar la historia y no aprender nada de ella.
+- [ ] A) Porque son días para olvidar la historia y no aprender nada de ella.
   <!-- feedback: Estas fechas existen justamente para recordar y aprender de la historia. -->
 - [ ] C) Porque solo sirven para no asistir al colegio.
   <!-- feedback: El descanso es secundario; lo importante es el homenaje a la libertad. -->

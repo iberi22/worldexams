@@ -34,9 +34,9 @@ Este bundle de 10 preguntas estudia los cambios quimicos, en especial la oxidaci
 Que tipo de cambio ocurre cuando el hierro se oxida formando oxido rojizo?
 
 ### Opciones
-- [x] A) Un cambio quimico, porque se forma una sustancia nueva con propiedades distintas a las del hierro
+- [x] B) Un cambio quimico, porque se forma una sustancia nueva con propiedades distintas a las del hierro
   <!-- feedback: Correcto. La formacion de oxido es un cambio quimico, llamado oxidacion. -->
-- [ ] B) Un cambio fisico, porque el hierro solo se ensucio
+- [ ] A) Un cambio fisico, porque el hierro solo se ensucio
   <!-- feedback: Incorrecto. Al oxidarse se forma una sustancia nueva; no es simple suciedad. -->
 - [ ] C) Un cambio de estado, porque el hierro se derritio
   <!-- feedback: Incorrecto. El hierro no se derritio; su composicion cambio al oxidarse. -->
@@ -103,13 +103,13 @@ La oxidacion del hierro requiere la presencia de oxigeno y agua; comparar condic
 Que explicacion cientifica corresponde a la llama amarilla y al hollin?
 
 ### Opciones
-- [x] A) La combustion es incompleta por falta de oxigeno, lo que produce particulas de carbono u hollin y una llama amarillenta, senal de que debe revisarse la entrada de aire
+- [x] D) La combustion es incompleta por falta de oxigeno, lo que produce particulas de carbono u hollin y una llama amarillenta, senal de que debe revisarse la entrada de aire
   <!-- feedback: Correcto. La falta de oxigeno genera combustion incompleta y hollin. -->
-- [ ] B) La llama amarilla indica que el gas es de mejor calidad
+- [ ] A) La llama amarilla indica que el gas es de mejor calidad
   <!-- feedback: Incorrecto. La llama azul indica mejor combustion; la amarilla sugiere combustion incompleta. -->
-- [ ] C) El hollin proviene del agua que hierve en la olla
+- [ ] B) El hollin proviene del agua que hierve en la olla
   <!-- feedback: Incorrecto. El hollin es carbono no quemado, no proviene del agua. -->
-- [ ] D) La llama cambia de color porque el gas cambia de olor
+- [ ] C) La llama cambia de color porque el gas cambia de olor
   <!-- feedback: Incorrecto. El color depende de la combustion, no del olor del gas. -->
 
 ### Explicacion Pedagogica
@@ -126,13 +126,13 @@ La combustion completa produce llama azul y libera dioxido de carbono y agua; cu
 Que explicacion corresponde al oscurecimiento de la fruta cortada?
 
 ### Opciones
-- [x] A) Es una oxidacion: al contacto con el oxigeno del aire, sustancias de la fruta reaccionan y forman compuestos oscuros
+- [x] D) Es una oxidacion: al contacto con el oxigeno del aire, sustancias de la fruta reaccionan y forman compuestos oscuros
   <!-- feedback: Correcto. El pardeamiento de la fruta expuesta al aire es una oxidacion. -->
-- [ ] B) La fruta se pudre porque pierde color por si sola
+- [ ] A) La fruta se pudre porque pierde color por si sola
   <!-- feedback: Incorrecto. El oscurecimiento inicial se debe al contacto con el oxigeno. -->
-- [ ] C) Es un cambio fisico reversible al enfriar la fruta
+- [ ] B) Es un cambio fisico reversible al enfriar la fruta
   <!-- feedback: Incorrecto. La formacion de compuestos oscuros es un cambio quimico. -->
-- [ ] D) La fruta se oxida porque el cuchillo le transmite color
+- [ ] C) La fruta se oxida porque el cuchillo le transmite color
   <!-- feedback: Incorrecto. La causa es el oxigeno del aire, no el color del cuchillo. -->
 
 ### Explicacion Pedagogica
@@ -149,11 +149,11 @@ Muchas frutas contienen compuestos que se oxidan al contacto con el oxigeno del 
 Que analisis explica por que se apaga la llama?
 
 ### Opciones
-- [x] A) La llama consume el oxigeno disponible en el frasco cerrado; al agotarse ese gas, la combustion ya no puede continuar y se apaga
+- [x] C) La llama consume el oxigeno disponible en el frasco cerrado; al agotarse ese gas, la combustion ya no puede continuar y se apaga
   <!-- feedback: Correcto. La combustion necesita oxigeno, que se consume dentro del frasco. -->
-- [ ] B) La llama se apaga porque el vidrio la aplasta
+- [ ] A) La llama se apaga porque el vidrio la aplasta
   <!-- feedback: Incorrecto. El vidrio no aplasta la llama; el frasco solo la encierra. -->
-- [ ] C) La llama se apaga porque la vela se enfria por el vidrio
+- [ ] B) La llama se apaga porque la vela se enfria por el vidrio
   <!-- feedback: Incorrecto. La causa principal es el agotamiento del oxigeno. -->
 - [ ] D) La llama se apaga porque el frasco produce agua
   <!-- feedback: Incorrecto. El agua es un producto de la combustion, no la causa del apagon. -->
@@ -172,13 +172,13 @@ La combustion es una reaccion que requiere combustible, oxigeno y calor; al ence
 Que analisis explica la diferencia entre las partes oxidadas y las protegidas?
 
 ### Opciones
-- [x] A) La pintura y el aceite forman una barrera que impide el contacto del hierro con el oxigeno y el agua, mientras las partes descubiertas quedan expuestas y se oxidan
+- [x] D) La pintura y el aceite forman una barrera que impide el contacto del hierro con el oxigeno y el agua, mientras las partes descubiertas quedan expuestas y se oxidan
   <!-- feedback: Correcto. Explica el papel protector de la pintura y el engrase. -->
-- [ ] B) Las partes pintadas se oxidan mas porque la pintura atrae el oxigeno
+- [ ] A) Las partes pintadas se oxidan mas porque la pintura atrae el oxigeno
   <!-- feedback: Incorrecto. La pintura protege el metal del contacto con el oxigeno y el agua. -->
-- [ ] C) El oxido aparece solo en las partes nuevas de la moto
+- [ ] B) El oxido aparece solo en las partes nuevas de la moto
   <!-- feedback: Incorrecto. La oxidation depende de la proteccion superficial, no de la antiguedad. -->
-- [ ] D) El acero no se oxida nunca si esta en movimiento
+- [ ] C) El acero no se oxida nunca si esta en movimiento
   <!-- feedback: Incorrecto. El movimiento no impide la oxidacion. -->
 
 ### Explicacion Pedagogica
@@ -195,9 +195,9 @@ La oxidacion del hierro ocurre cuando el metal entra en contacto con oxigeno y a
 Que analisis explica la diferencia entre la madera seca y la humeda?
 
 ### Opciones
-- [x] A) La madera humeda contiene agua que debe evaporarse antes de arder, por lo que consume parte del calor y produce combustion incompleta con mucho humo; la seca arde mejor
+- [x] B) La madera humeda contiene agua que debe evaporarse antes de arder, por lo que consume parte del calor y produce combustion incompleta con mucho humo; la seca arde mejor
   <!-- feedback: Correcto. Relaciona la humedad con la energia necesaria y la combustion incompleta. -->
-- [ ] B) La madera humeda arde mejor porque el agua alimenta el fuego
+- [ ] A) La madera humeda arde mejor porque el agua alimenta el fuego
   <!-- feedback: Incorrecto. El agua no es combustible; dificulta la combustion. -->
 - [ ] C) La madera seca no se quema, solo se calienta
   <!-- feedback: Incorrecto. La madera seca es combustible y arde con facilidad. -->
@@ -218,9 +218,9 @@ Para que la madera arda, el calor debe primero evaporar el agua que contiene; la
 Que evaluacion conjunta de las tres afirmaciones es correcta?
 
 ### Opciones
-- [x] A) La 1 es verdadera, la 2 es falsa porque la oxidacion puede ocurrir lentamente sin fuego, como cuando el hierro se oxida, y la 3 es verdadera porque la combustion requiere oxigeno
+- [x] B) La 1 es verdadera, la 2 es falsa porque la oxidacion puede ocurrir lentamente sin fuego, como cuando el hierro se oxida, y la 3 es verdadera porque la combustion requiere oxigeno
   <!-- feedback: Correcto. Distingue oxidacion lenta de combustion y reconoce el papel del oxigeno. -->
-- [ ] B) Las tres son verdaderas porque la oxidacion siempre produce llama
+- [ ] A) Las tres son verdaderas porque la oxidacion siempre produce llama
   <!-- feedback: Incorrecto. La oxidacion lenta, como la del hierro, no produce llama. -->
 - [ ] C) Solo la 2 es verdadera y las demas son falsas
   <!-- feedback: Incorrecto. La 2 es falsa; hay oxidacion sin fuego. -->
@@ -241,9 +241,9 @@ Evaluar estas afirmaciones exige distinguir tipos de oxidacion: la oxidacion len
 Que conjunto de medidas conviene priorizar y por que?
 
 ### Opciones
-- [x] A) Instalar extintores y senalizacion, evitar fuentes de ignicion cerca de materiales inflamables y proteger el metal con pintura o anticorrosivo, porque atacan tanto el riesgo de combustion como el de oxidacion de forma preventiva
+- [x] B) Instalar extintores y senalizacion, evitar fuentes de ignicion cerca de materiales inflamables y proteger el metal con pintura o anticorrosivo, porque atacan tanto el riesgo de combustion como el de oxidacion de forma preventiva
   <!-- feedback: Correcto. La prevencion reduce riesgos de incendio y corrosion a bajo costo. -->
-- [ ] B) Guardar gasolina cerca de las aulas para tener combustible a mano
+- [ ] A) Guardar gasolina cerca de las aulas para tener combustible a mano
   <!-- feedback: Incorrecto. Almacenar combustible cerca de personas aumenta el riesgo de incendio. -->
 - [ ] C) Dejar las estructuras metalicas sin proteccion para ahorrar dinero
   <!-- feedback: Incorrecto. Sin proteccion, el metal se oxida y pierde resistencia. -->

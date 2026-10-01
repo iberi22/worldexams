@@ -30,8 +30,8 @@ creador: "Jules-Agent"
 En una muestra probabilística en La Serena, se sabe que $P(B) = 0.22$ y $P(A \cap B) = 0.09$. ¿Cuál es el valor de $P(A|B)$?
 
 ### Opciones
-- [x] A) $0.409$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.09 / 0.22 ~= 0.409. -->
-- [ ] B) $0.0198$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
+- [x] B) $0.409$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.09 / 0.22 ~= 0.409. -->
+- [ ] A) $0.0198$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
 - [ ] C) $2.444$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B). -->
 - [ ] D) $0.31$ <!-- feedback: Incorrecto. Sumaste las probabilidades. -->
 
@@ -49,9 +49,9 @@ Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.0
 En una muestra probabilística en Viña del Mar, se sabe que $P(B) = 0.24$ y $P(A \cap B) = 0.1$. ¿Cuál es el valor de $P(A|B)$?
 
 ### Opciones
-- [x] A) $0.417$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.1 / 0.24 ~= 0.417. -->
-- [ ] B) $0.0240$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
-- [ ] C) $2.400$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B). -->
+- [x] C) $0.417$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.1 / 0.24 ~= 0.417. -->
+- [ ] A) $0.0240$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
+- [ ] B) $2.400$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B). -->
 - [ ] D) $0.34$ <!-- feedback: Incorrecto. Sumaste las probabilidades. -->
 
 ### Explicacion Pedagogica
@@ -68,9 +68,9 @@ Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.1
 En una muestra probabilística en Iquique, se sabe que $P(B) = 0.26$ y $P(A \cap B) = 0.11$. ¿Cuál es el valor de $P(A|B)$?
 
 ### Opciones
-- [x] A) $0.423$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.11 / 0.26 ~= 0.423. -->
-- [ ] B) $0.0286$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
-- [ ] C) $2.364$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B). -->
+- [x] C) $0.423$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.11 / 0.26 ~= 0.423. -->
+- [ ] A) $0.0286$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
+- [ ] B) $2.364$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B). -->
 - [ ] D) $0.37$ <!-- feedback: Incorrecto. Sumaste las probabilidades. -->
 
 ### Explicacion Pedagogica
@@ -87,8 +87,8 @@ Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.1
 En una muestra probabilística en Rancagua, se sabe que $P(B) = 0.28$ y $P(A \cap B) = 0.12$. ¿Cuál es el valor de $P(A|B)$?
 
 ### Opciones
-- [x] A) $0.429$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.12 / 0.28 ~= 0.429. -->
-- [ ] B) $0.0336$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
+- [x] B) $0.429$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.12 / 0.28 ~= 0.429. -->
+- [ ] A) $0.0336$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
 - [ ] C) $2.333$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B). -->
 - [ ] D) $0.40$ <!-- feedback: Incorrecto. Sumaste las probabilidades. -->
 
@@ -106,10 +106,10 @@ Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.1
 En una muestra probabilística en Talca, se sabe que $P(B) = 0.3$ y $P(A \cap B) = 0.13$. ¿Cuál es el valor de $P(A|B)$?
 
 ### Opciones
-- [x] A) $0.433$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.13 / 0.3 ~= 0.433. -->
-- [ ] B) $0.0390$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
-- [ ] C) $2.308$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B). -->
-- [ ] D) $0.43$ <!-- feedback: Incorrecto. Sumaste las probabilidades. -->
+- [x] D) $0.433$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.13 / 0.3 ~= 0.433. -->
+- [ ] A) $0.0390$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
+- [ ] B) $2.308$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B). -->
+- [ ] C) $0.43$ <!-- feedback: Incorrecto. Sumaste las probabilidades. -->
 
 ### Explicacion Pedagogica
 Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.13 / 0.3 ~= 0.433.
@@ -125,9 +125,9 @@ Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.1
 En una muestra probabilística en Arica, se sabe que $P(B) = 0.32$ y $P(A \cap B) = 0.14$. ¿Cuál es el valor de $P(A|B)$?
 
 ### Opciones
-- [x] A) $0.438$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.14 / 0.32 ~= 0.438. -->
-- [ ] B) $0.0448$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
-- [ ] C) $2.286$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B). -->
+- [x] C) $0.438$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.14 / 0.32 ~= 0.438. -->
+- [ ] A) $0.0448$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
+- [ ] B) $2.286$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B). -->
 - [ ] D) $0.46$ <!-- feedback: Incorrecto. Sumaste las probabilidades. -->
 
 ### Explicacion Pedagogica
@@ -144,9 +144,9 @@ Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.1
 En una muestra probabilística en Puerto Montt, se sabe que $P(B) = 0.34$ y $P(A \cap B) = 0.15$. ¿Cuál es el valor de $P(A|B)$?
 
 ### Opciones
-- [x] A) $0.441$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.15 / 0.34 ~= 0.441. -->
-- [ ] B) $0.0510$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
-- [ ] C) $2.267$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B). -->
+- [x] C) $0.441$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.15 / 0.34 ~= 0.441. -->
+- [ ] A) $0.0510$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
+- [ ] B) $2.267$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B). -->
 - [ ] D) $0.49$ <!-- feedback: Incorrecto. Sumaste las probabilidades. -->
 
 ### Explicacion Pedagogica
@@ -163,8 +163,8 @@ Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.1
 En una muestra probabilística en Chillán, se sabe que $P(B) = 0.36$ y $P(A \cap B) = 0.16$. ¿Cuál es el valor de $P(A|B)$?
 
 ### Opciones
-- [x] A) $0.444$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.16 / 0.36 ~= 0.444. -->
-- [ ] B) $0.0576$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
+- [x] B) $0.444$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.16 / 0.36 ~= 0.444. -->
+- [ ] A) $0.0576$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
 - [ ] C) $2.250$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B). -->
 - [ ] D) $0.52$ <!-- feedback: Incorrecto. Sumaste las probabilidades. -->
 
@@ -258,9 +258,9 @@ Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.2
 En una muestra probabilística en Concepción, se sabe que $P(B) = 0.46$ y $P(A \cap B) = 0.21$. ¿Cuál es el valor de $P(A|B)$?
 
 ### Opciones
-- [x] A) $0.457$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.21 / 0.46 ~= 0.457. -->
-- [ ] B) $0.0966$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
-- [ ] C) $2.190$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B). -->
+- [x] C) $0.457$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.21 / 0.46 ~= 0.457. -->
+- [ ] A) $0.0966$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
+- [ ] B) $2.190$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B). -->
 - [ ] D) $0.67$ <!-- feedback: Incorrecto. Sumaste las probabilidades. -->
 
 ### Explicacion Pedagogica
@@ -277,10 +277,10 @@ Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.2
 En una muestra probabilística en Antofagasta, se sabe que $P(B) = 0.48$ y $P(A \cap B) = 0.22$. ¿Cuál es el valor de $P(A|B)$?
 
 ### Opciones
-- [x] A) $0.458$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.22 / 0.48 ~= 0.458. -->
-- [ ] B) $0.1056$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
-- [ ] C) $2.182$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B). -->
-- [ ] D) $0.70$ <!-- feedback: Incorrecto. Sumaste las probabilidades. -->
+- [x] D) $0.458$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.22 / 0.48 ~= 0.458. -->
+- [ ] A) $0.1056$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
+- [ ] B) $2.182$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B). -->
+- [ ] C) $0.70$ <!-- feedback: Incorrecto. Sumaste las probabilidades. -->
 
 ### Explicacion Pedagogica
 Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.22 / 0.48 ~= 0.458.
@@ -296,8 +296,8 @@ Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.2
 En una muestra probabilística en Temuco, se sabe que $P(B) = 0.5$ y $P(A \cap B) = 0.23$. ¿Cuál es el valor de $P(A|B)$?
 
 ### Opciones
-- [x] A) $0.460$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.23 / 0.5 ~= 0.460. -->
-- [ ] B) $0.1150$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
+- [x] B) $0.460$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.23 / 0.5 ~= 0.460. -->
+- [ ] A) $0.1150$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
 - [ ] C) $2.174$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B). -->
 - [ ] D) $0.73$ <!-- feedback: Incorrecto. Sumaste las probabilidades. -->
 
@@ -315,8 +315,8 @@ Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.2
 En una muestra probabilística en La Serena, se sabe que $P(B) = 0.52$ y $P(A \cap B) = 0.24$. ¿Cuál es el valor de $P(A|B)$?
 
 ### Opciones
-- [x] A) $0.462$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.24 / 0.52 ~= 0.462. -->
-- [ ] B) $0.1248$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
+- [x] B) $0.462$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.24 / 0.52 ~= 0.462. -->
+- [ ] A) $0.1248$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
 - [ ] C) $2.167$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B). -->
 - [ ] D) $0.76$ <!-- feedback: Incorrecto. Sumaste las probabilidades. -->
 
@@ -334,8 +334,8 @@ Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.2
 En una muestra probabilística en Viña del Mar, se sabe que $P(B) = 0.54$ y $P(A \cap B) = 0.25$. ¿Cuál es el valor de $P(A|B)$?
 
 ### Opciones
-- [x] A) $0.463$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.25 / 0.54 ~= 0.463. -->
-- [ ] B) $0.1350$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
+- [x] B) $0.463$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.25 / 0.54 ~= 0.463. -->
+- [ ] A) $0.1350$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
 - [ ] C) $2.160$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B). -->
 - [ ] D) $0.79$ <!-- feedback: Incorrecto. Sumaste las probabilidades. -->
 
@@ -353,9 +353,9 @@ Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.2
 En una muestra probabilística en Iquique, se sabe que $P(B) = 0.56$ y $P(A \cap B) = 0.26$. ¿Cuál es el valor de $P(A|B)$?
 
 ### Opciones
-- [x] A) $0.464$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.26 / 0.56 ~= 0.464. -->
-- [ ] B) $0.1456$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
-- [ ] C) $2.154$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B). -->
+- [x] C) $0.464$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.26 / 0.56 ~= 0.464. -->
+- [ ] A) $0.1456$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
+- [ ] B) $2.154$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B). -->
 - [ ] D) $0.82$ <!-- feedback: Incorrecto. Sumaste las probabilidades. -->
 
 ### Explicacion Pedagogica
@@ -372,8 +372,8 @@ Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.2
 En una muestra probabilística en Rancagua, se sabe que $P(B) = 0.58$ y $P(A \cap B) = 0.27$. ¿Cuál es el valor de $P(A|B)$?
 
 ### Opciones
-- [x] A) $0.466$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.27 / 0.58 ~= 0.466. -->
-- [ ] B) $0.1566$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
+- [x] B) $0.466$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.27 / 0.58 ~= 0.466. -->
+- [ ] A) $0.1566$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
 - [ ] C) $2.148$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B). -->
 - [ ] D) $0.85$ <!-- feedback: Incorrecto. Sumaste las probabilidades. -->
 
@@ -391,8 +391,8 @@ Por definición de probabilidad condicionada: P(A|B) = P(A inter B) / P(B) = 0.2
 En una muestra probabilística en Talca, se sabe que $P(B) = 0.6$ y $P(A \cap B) = 0.28$. ¿Cuál es el valor de $P(A|B)$?
 
 ### Opciones
-- [x] A) $0.467$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.28 / 0.6 ~= 0.467. -->
-- [ ] B) $0.1680$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
+- [x] B) $0.467$ <!-- feedback: ¡Correcto! P(A|B) = P(A inter B) / P(B) = 0.28 / 0.6 ~= 0.467. -->
+- [ ] A) $0.1680$ <!-- feedback: Incorrecto. Multiplicaste las probabilidades en vez de dividirlas. -->
 - [ ] C) $2.143$ <!-- feedback: Incorrecto. Invertiste la relación dividiendo P(B) / P(A inter B). -->
 - [ ] D) $0.88$ <!-- feedback: Incorrecto. Sumaste las probabilidades. -->
 

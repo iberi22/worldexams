@@ -42,9 +42,9 @@ alineadas con el CNB Honduras (Curriculo Nacional Basico) para Bachillerato 2026
 ### Opciones
 - [ ] A) Realizar la síntesis de proteínas.
   <!-- feedback: Incorrecto. Esa es la función de los ribosomas. -->
-- [x] B) Producir energía mediante la respiración celular.
+- [x] C) Producir energía mediante la respiración celular.
   <!-- feedback: ¡Correcto! Las mitocondrias transforman la energía química de los alimentos en ATP. -->
-- [ ] C) Almacenar la información genética.
+- [ ] B) Almacenar la información genética.
   <!-- feedback: Incorrecto. Esa es la función del núcleo. -->
 - [ ] D) Regular el paso de sustancias hacia el exterior.
   <!-- feedback: Incorrecto. Esa es la función de la membrana plasmática. -->
@@ -67,9 +67,9 @@ Las mitocondrias son conocidas como las centrales energéticas de la célula. En
 ### Opciones
 - [ ] A) Comensalismo
   <!-- feedback: Incorrecto. En el comensalismo, uno se beneficia y el otro es indiferente. -->
-- [ ] B) Parasitismo
+- [ ] C) Parasitismo
   <!-- feedback: Incorrecto. En el parasitismo, uno se beneficia a costa del daño del otro. -->
-- [x] C) Mutualismo
+- [x] B) Mutualismo
   <!-- feedback: ¡Correcto! Ambos organismos cooperan y se benefician mutuamente. -->
 - [ ] D) Competencia
   <!-- feedback: Incorrecto. En la competencia, ambos luchan por un recurso limitado. -->
@@ -92,9 +92,9 @@ Si una planta de maíz con semillas amarillas dominantes (AA) se cruza con una d
 ### Opciones
 - [ ] A) 50% amarillas y 50% blancas.
   <!-- feedback: Incorrecto. Según la ley de uniformidad, el rasgo dominante prevalece en F1. -->
-- [x] B) 100% amarillas.
+- [x] C) 100% amarillas.
   <!-- feedback: ¡Correcto! Todos los descendientes serán heterocigotos (Aa) expresando el color dominante. -->
-- [ ] C) 100% blancas.
+- [ ] B) 100% blancas.
   <!-- feedback: Incorrecto. El blanco es el rasgo recesivo y queda enmascarado. -->
 - [ ] D) 25% amarillas y 75% blancas.
   <!-- feedback: Incorrecto. No sigue las proporciones mendelianas para este cruce. -->
@@ -167,9 +167,9 @@ La acidificación oceánica dificulta que los organismos marinos, como los coral
 ### Opciones
 - [ ] A) Placa de Nazca
   <!-- feedback: Incorrecto. Esta placa afecta principalmente a Suramérica. -->
-- [x] B) Placa de Cocos
+- [x] C) Placa de Cocos
   <!-- feedback: ¡Correcto! Es la responsable de la actividad volcánica y sísmica en el Pacífico de Honduras. -->
-- [ ] C) Placa Norteamericana
+- [ ] B) Placa Norteamericana
   <!-- feedback: Incorrecto. El límite con esta placa se encuentra más al norte. -->
 - [ ] D) Placa de Scotia
   <!-- feedback: Incorrecto. Se encuentra en el extremo sur del continente. -->
@@ -190,11 +190,11 @@ La interacción entre la Placa de Cocos y la Placa del Caribe es un proceso din�
 ¿Cuál es el elemento químico fundamental que define a todos los compuestos orgánicos y permite la formación de cadenas largas?
 
 ### Opciones
-- [ ] A) Oxígeno
+- [ ] B) Oxígeno
   <!-- feedback: Incorrecto. El oxígeno es común pero no es la base de las cadenas orgánicas. -->
-- [ ] B) Hidrógeno
+- [ ] C) Hidrógeno
   <!-- feedback: Incorrecto. Aunque acompaña al carbono, no es el elemento central estructurador. -->
-- [x] C) Carbono
+- [x] A) Carbono
   <!-- feedback: ¡Correcto! Su capacidad de tetravalencia le permite formar estructuras complejas. -->
 - [ ] D) Nitrógeno
   <!-- feedback: Incorrecto. Se encuentra en proteínas, pero el esqueleto es de carbono. -->
@@ -219,9 +219,9 @@ Según la Segunda Ley de Newton, si un camión de 5000 kg desea acelerar a 2 m/s
   <!-- feedback: Incorrecto. Dividiste la masa entre la aceleración. -->
 - [ ] B) 5002 N
   <!-- feedback: Incorrecto. Sumaste los valores en lugar de multiplicarlos. -->
-- [x] C) 10000 N
+- [x] D) 10000 N
   <!-- feedback: ¡Correcto! F = m * a. 5000 kg * 2 m/s² = 10000 N. -->
-- [ ] D) 1000 N
+- [ ] C) 1000 N
   <!-- feedback: Incorrecto. Error en la operación aritmética. -->
 
 ### Explicacion Pedagogica
@@ -242,11 +242,11 @@ La fuerza es directamente proporcional al producto de la masa por la aceleració
 ### Opciones
 - [ ] A) Energía química a energía lumínica.
   <!-- feedback: Incorrecto. No hay reacciones químicas involucradas en la caída del agua. -->
-- [x] B) Energía potencial gravitatoria a energía cinética y luego eléctrica.
+- [x] D) Energía potencial gravitatoria a energía cinética y luego eléctrica.
   <!-- feedback: ¡Correcto! La altura (potencial) se convierte en movimiento (cinética) y luego en electricidad. -->
-- [ ] C) Energía nuclear a energía térmica.
+- [ ] B) Energía nuclear a energía térmica.
   <!-- feedback: Incorrecto. La hidroelectricidad no usa fisión nuclear. -->
-- [ ] D) Energía sonora a energía mecánica.
+- [ ] C) Energía sonora a energía mecánica.
   <!-- feedback: Incorrecto. El sonido es una consecuencia, no la fuente de energía. -->
 
 ### Explicacion Pedagogica
@@ -265,9 +265,9 @@ Las plantas hidroeléctricas aprovechan el ciclo hidrológico y la gravedad para
 ¿Qué tipo de células sanguíneas son las responsables de producir anticuerpos para combatir infecciones virales o bacterianas?
 
 ### Opciones
-- [ ] A) Eritrocitos (Glóbulos rojos)
+- [ ] B) Eritrocitos (Glóbulos rojos)
   <!-- feedback: Incorrecto. Su función es transportar oxígeno. -->
-- [x] B) Linfocitos B
+- [x] A) Linfocitos B
   <!-- feedback: ¡Correcto! Son los glóbulos blancos especializados en la producción de anticuerpos específicos. -->
 - [ ] C) Trombocitos (Plaquetas)
   <!-- feedback: Incorrecto. Su función es la coagulación sanguínea. -->
@@ -290,9 +290,9 @@ Los linfocitos B forman parte de la inmunidad adaptativa. Cuando detectan un ant
 Si una estufa eléctrica funciona con un voltaje de 220 V y circula una corriente de 10 A, ¿cuál es su potencia eléctrica consumida?
 
 ### Opciones
-- [ ] A) 22 W
+- [ ] B) 22 W
   <!-- feedback: Incorrecto. Dividiste los valores en lugar de multiplicarlos. -->
-- [x] B) 2200 W
+- [x] A) 2200 W
   <!-- feedback: ¡Correcto! P = V * I. 220 V * 10 A = 2200 W. -->
 - [ ] C) 210 W
   <!-- feedback: Incorrecto. Restaste los valores. -->
@@ -315,9 +315,9 @@ La potencia eléctrica es el ritmo al que se consume energía y se calcula multi
 ¿Qué gas es el principal responsable de la lluvia ácida cuando reacciona con el agua en la atmósfera, dañando monumentos y bosques?
 
 ### Opciones
-- [ ] A) Metano (CH4)
+- [ ] B) Metano (CH4)
   <!-- feedback: Incorrecto. El metano es un gas de efecto invernadero pero no causa lluvia ácida directamente. -->
-- [x] B) Dióxido de azufre (SO2)
+- [x] A) Dióxido de azufre (SO2)
   <!-- feedback: ¡Correcto! Forma ácido sulfúrico al entrar en contacto con el vapor de agua. -->
 - [ ] C) Vapor de agua
   <!-- feedback: Incorrecto. El agua es el medio, no la causa de la acidez dañina. -->
@@ -365,13 +365,13 @@ La ósmosis es un proceso pasivo crucial para mantener el equilibrio hídrico ce
 ¿Cuál es el factor principal que genera las corrientes superficiales en los océanos?
 
 ### Opciones
-- [x] A) Los vientos predominantes (alisios).
+- [x] D) Los vientos predominantes (alisios).
   <!-- feedback: ¡Correcto! El viento arrastra las capas superiores de agua debido a la fricción. -->
-- [ ] B) Las mareas causadas por la luna.
+- [ ] A) Las mareas causadas por la luna.
   <!-- feedback: Incorrecto. Las mareas son movimientos verticales y rítmicos, no corrientes constantes. -->
-- [ ] C) El movimiento de los barcos comerciales.
+- [ ] B) El movimiento de los barcos comerciales.
   <!-- feedback: Incorrecto. La escala es insignificante comparada con los procesos oceánicos. -->
-- [ ] D) La pesca excesiva.
+- [ ] C) La pesca excesiva.
   <!-- feedback: Incorrecto. No afecta los patrones de circulación física del agua. -->
 
 ### Explicacion Pedagogica
@@ -394,9 +394,9 @@ La circulación oceánica superficial es impulsada por la atmósfera, mientras q
   <!-- feedback: Incorrecto. El ozono no absorbe CO2. -->
 - [ ] B) Producir oxígeno para que podamos respirar.
   <!-- feedback: Incorrecto. El O3 no es la fuente primaria de oxígeno respirable. -->
-- [x] C) Filtrar la mayor parte de la radiación ultravioleta B y C del sol.
+- [x] D) Filtrar la mayor parte de la radiación ultravioleta B y C del sol.
   <!-- feedback: ¡Correcto! Protege el ADN de daños que causan cáncer y mutaciones. -->
-- [ ] D) Reflejar la luz visible para iluminar la noche.
+- [ ] C) Reflejar la luz visible para iluminar la noche.
   <!-- feedback: Incorrecto. El ozono no tiene esta propiedad óptica. -->
 
 ### Explicacion Pedagogica
@@ -415,9 +415,9 @@ Sin la capa de ozono, la vida terrestre sería imposible debido al daño letal d
 ¿Cómo se denominan los átomos de un mismo elemento que tienen el mismo número de protones pero diferente número de neutrones?
 
 ### Opciones
-- [ ] A) Iones
+- [ ] B) Iones
   <!-- feedback: Incorrecto. Los iones tienen diferente número de electrones. -->
-- [x] B) Isótopos
+- [x] A) Isótopos
   <!-- feedback: ¡Correcto! Tienen diferentes masas atómicas pero las mismas propiedades químicas. -->
 - [ ] C) Isóbaros
   <!-- feedback: Incorrecto. Tienen la misma masa pero diferentes protones. -->
@@ -465,9 +465,9 @@ Los bosques actúan como esponjas naturales. Al talarlos, el agua de lluvia lleg
 Si se disuelven 5 gramos de cloro en 1000 ml (1 litro) de agua, ¿cuál es el porcentaje masa/volumen (% m/v) de la solución resultante?
 
 ### Opciones
-- [ ] A) 5%
+- [ ] B) 5%
   <!-- feedback: Incorrecto. Olvidaste que el volumen es 1000 ml. -->
-- [x] B) 0.5%
+- [x] A) 0.5%
   <!-- feedback: ¡Correcto! (5g / 1000ml) * 100 = 0.5%. -->
 - [ ] C) 0.05%
   <!-- feedback: Incorrecto. Error en la división por 10. -->
@@ -492,11 +492,11 @@ Si una estrella presenta un "corrimiento al rojo" en su espectro de luz, ¿qué 
 ### Opciones
 - [ ] A) Que la estrella se está acercando a nosotros rápidamente.
   <!-- feedback: Incorrecto. Esto causaría un corrimiento al azul. -->
-- [x] B) Que la estrella se está alejando de nosotros.
+- [x] D) Que la estrella se está alejando de nosotros.
   <!-- feedback: ¡Correcto! El Efecto Doppler estira las ondas de luz hacia frecuencias más bajas (rojo). -->
-- [ ] C) Que la estrella va a explotar pronto.
+- [ ] B) Que la estrella va a explotar pronto.
   <!-- feedback: Incorrecto. El corrimiento al rojo indica movimiento, no destino final estelar. -->
-- [ ] D) Que la estrella es más fría que el Sol.
+- [ ] C) Que la estrella es más fría que el Sol.
   <!-- feedback: Incorrecto. El color de la estrella indica temperatura, pero el "corrimiento" indica movimiento. -->
 
 ### Explicacion Pedagogica

@@ -32,8 +32,8 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Cuál es la forma general de una ecuación cuadrática con una incógnita?
 
 ### Opciones
-- [x] A) $ax^2 + bx + c = 0$, con $a \ne 0$ <!-- feedback: ¡Correcto! El coeficiente principal debe ser no nulo para que sea de grado 2. -->
-- [ ] B) $ax + b = 0$, con $a \ne 0$ <!-- feedback: Incorrecto. Esa es la forma general de la ecuación lineal, de grado 1. -->
+- [x] B) $ax^2 + bx + c = 0$, con $a \ne 0$ <!-- feedback: ¡Correcto! El coeficiente principal debe ser no nulo para que sea de grado 2. -->
+- [ ] A) $ax + b = 0$, con $a \ne 0$ <!-- feedback: Incorrecto. Esa es la forma general de la ecuación lineal, de grado 1. -->
 - [ ] C) $ax^2 + bx + c = 0$, con cualquier valor de $a$ <!-- feedback: Incorrecto. Si $a = 0$ la ecuación degenera a lineal. -->
 - [ ] D) $ax^3 + bx^2 + cx + d = 0$ <!-- feedback: Incorrecto. Esa es una ecuación cúbica, de grado 3. -->
 
@@ -52,9 +52,9 @@ Si el discriminante $\Delta = b^2 - 4ac$ de una ecuación cuadrática es positiv
 
 ### Opciones
 - [ ] A) Una única solución real doble. <!-- feedback: Incorrecto. Eso ocurre cuando $\Delta = 0$. -->
-- [x] B) Dos soluciones reales distintas. <!-- feedback: ¡Correcto! $\Delta > 0$ garantiza dos raíces reales diferentes. -->
-- [ ] C) Ninguna solución real. <!-- feedback: Incorrecto. Eso sucede con $\Delta < 0$. -->
-- [ ] D) Infinitas soluciones. <!-- feedback: Incorrecto. Una ecuación de grado 2 tiene a lo sumo dos raíces. -->
+- [x] D) Dos soluciones reales distintas. <!-- feedback: ¡Correcto! $\Delta > 0$ garantiza dos raíces reales diferentes. -->
+- [ ] B) Ninguna solución real. <!-- feedback: Incorrecto. Eso sucede con $\Delta < 0$. -->
+- [ ] C) Infinitas soluciones. <!-- feedback: Incorrecto. Una ecuación de grado 2 tiene a lo sumo dos raíces. -->
 
 ### Explicación Pedagógica
 El discriminante decide la naturaleza de las soluciones: $\Delta > 0$ dos reales distintas, $\Delta = 0$ una doble, $\Delta < 0$ ninguna real.
@@ -70,8 +70,8 @@ El discriminante decide la naturaleza de las soluciones: $\Delta > 0$ dos reales
 ¿Cuáles son las soluciones de $x^2 = 49$?
 
 ### Opciones
-- [ ] A) Solo $x = 7$ <!-- feedback: Incorrecto. Falta la raíz negativa; al elevar al cuadrado, $(-7)^2$ también da 49. -->
-- [x] B) $x = 7$ y $x = -7$ <!-- feedback: ¡Correcto! Ambas raíces cuadradas de 49 verifican la ecuación. -->
+- [ ] B) Solo $x = 7$ <!-- feedback: Incorrecto. Falta la raíz negativa; al elevar al cuadrado, $(-7)^2$ también da 49. -->
+- [x] A) $x = 7$ y $x = -7$ <!-- feedback: ¡Correcto! Ambas raíces cuadradas de 49 verifican la ecuación. -->
 - [ ] C) $x = 24.5$ <!-- feedback: Incorrecto. Dividiste 49 entre 2; la operación inversa del cuadrado es la raíz. -->
 - [ ] D) No tiene soluciones reales. <!-- feedback: Incorrecto. Los cuadrados de 7 y $-7$ existen y valen 49. -->
 
@@ -89,9 +89,9 @@ Despejar $x^2 = k$ con $k > 0$ produce dos soluciones: $x = \pm\sqrt{k}$. Omitir
 ¿Cuáles son las soluciones de la ecuación $(x - 2)(x - 5) = 0$?
 
 ### Opciones
-- [x] A) $x = 2$ y $x = 5$ <!-- feedback: ¡Correcto! Un producto es cero cuando alguno de sus factores es cero. -->
-- [ ] B) $x = -2$ y $x = -5$ <!-- feedback: Incorrecto. Invertiste los signos; cada factor se anula con el valor positivo. -->
-- [ ] C) $x = 2$ únicamente <!-- feedback: Incorrecto. El segundo factor también aporta una solución. -->
+- [x] C) $x = 2$ y $x = 5$ <!-- feedback: ¡Correcto! Un producto es cero cuando alguno de sus factores es cero. -->
+- [ ] A) $x = -2$ y $x = -5$ <!-- feedback: Incorrecto. Invertiste los signos; cada factor se anula con el valor positivo. -->
+- [ ] B) $x = 2$ únicamente <!-- feedback: Incorrecto. El segundo factor también aporta una solución. -->
 - [ ] D) $x = 10$ <!-- feedback: Incorrecto. Multiplicaste $2 \times 5$; la propiedad del producto nulo se aplica a cada factor. -->
 
 ### Explicación Pedagógica
@@ -108,8 +108,8 @@ Por la propiedad del producto nulo, $ab = 0$ implica $a = 0$ o $b = 0$. Así $x 
 ¿Cuál es el valor del discriminante de $x^2 + 4x + 3 = 0$?
 
 ### Opciones
-- [ ] A) $\Delta = 28$ <!-- feedback: Incorrecto. Sumaste $16 + 12$ en lugar de restar $4ac$. -->
-- [x] B) $\Delta = 4$ <!-- feedback: ¡Correcto! $4^2 - 4(1)(3) = 16 - 12 = 4$. -->
+- [ ] B) $\Delta = 28$ <!-- feedback: Incorrecto. Sumaste $16 + 12$ en lugar de restar $4ac$. -->
+- [x] A) $\Delta = 4$ <!-- feedback: ¡Correcto! $4^2 - 4(1)(3) = 16 - 12 = 4$. -->
 - [ ] C) $\Delta = -4$ <!-- feedback: Incorrecto. Revisá los signos: $16 - 12$ es positivo. -->
 - [ ] D) $\Delta = 16$ <!-- feedback: Incorrecto. Ese es solo $b^2$; falta restar $4ac$. -->
 
@@ -146,8 +146,8 @@ Se buscan dos números con suma 5 y producto 6: 2 y 3. La factorización $(x-2)(
 Resuelve la ecuación $x^2 - 9x = 0$.
 
 ### Opciones
-- [ ] A) Solo $x = 9$ <!-- feedback: Incorrecto. Perdés la solución $x = 0$ al dividir entre $x$ sin cuidado. -->
-- [x] B) $x = 0$ y $x = 9$ <!-- feedback: ¡Correcto! $x(x - 9) = 0$ da ambas soluciones. -->
+- [ ] B) Solo $x = 9$ <!-- feedback: Incorrecto. Perdés la solución $x = 0$ al dividir entre $x$ sin cuidado. -->
+- [x] A) $x = 0$ y $x = 9$ <!-- feedback: ¡Correcto! $x(x - 9) = 0$ da ambas soluciones. -->
 - [ ] C) $x = -9$ y $x = 9$ <!-- feedback: Incorrecto. Con $x = -9$ queda $81 + 81 \ne 0$. -->
 - [ ] D) No tiene solución. <!-- feedback: Incorrecto. La factorización $x(x-9)$ muestra dos soluciones reales. -->
 
@@ -165,8 +165,8 @@ Conviene factorizar el factor común: $x(x - 9) = 0$, que da $x = 0$ o $x = 9$. 
 Aplicando la fórmula general a $x^2 + 2x - 8 = 0$, ¿cuál es la mayor de las soluciones?
 
 ### Opciones
-- [ ] A) $x = 4$ <!-- feedback: Incorrecto. Con $x = 4$ queda $16 + 8 - 8 \ne 0$; revisá el signo en la fórmula. -->
-- [x] B) $x = 2$ <!-- feedback: ¡Correcto! $x = \frac{-2 \pm 6}{2}$ da $2$ y $-4$; la mayor es 2. -->
+- [ ] B) $x = 4$ <!-- feedback: Incorrecto. Con $x = 4$ queda $16 + 8 - 8 \ne 0$; revisá el signo en la fórmula. -->
+- [x] A) $x = 2$ <!-- feedback: ¡Correcto! $x = \frac{-2 \pm 6}{2}$ da $2$ y $-4$; la mayor es 2. -->
 - [ ] C) $x = -2$ <!-- feedback: Incorrecto. Es un valor intermedio del cálculo, no una raíz. -->
 - [ ] D) $x = 8$ <!-- feedback: Incorrecto. Confunde el término independiente con la solución. -->
 
@@ -205,8 +205,8 @@ Las inecuaciones se operan como las ecuaciones, salvo al multiplicar o dividir p
 ### Opciones
 - [ ] A) $x \ge 3$ <!-- feedback: Incorrecto. Trasponer el 4 no cambia el sentido de la desigualdad. -->
 - [ ] B) $x \le 7$ <!-- feedback: Incorrecto. Dividiste $10 + 4$ entre 2; primero se resta el 4. -->
-- [x] C) $x \le 3$ <!-- feedback: ¡Correcto! $2x \le 6$ y dividiendo entre 2 (positivo): $x \le 3$. -->
-- [ ] D) $x < 3$ <!-- feedback: Incorrecto. La desigualdad es no estricta; el 3 pertenece a la solución. -->
+- [x] D) $x \le 3$ <!-- feedback: ¡Correcto! $2x \le 6$ y dividiendo entre 2 (positivo): $x \le 3$. -->
+- [ ] C) $x < 3$ <!-- feedback: Incorrecto. La desigualdad es no estricta; el 3 pertenece a la solución. -->
 
 ### Explicación Pedagógica
 $2x + 4 \le 10$ implica $2x \le 6$ y $x \le 3$. Dividir entre un número positivo conserva el sentido, y el símbolo $\le$ incluye al extremo.
@@ -224,8 +224,8 @@ $2x + 4 \le 10$ implica $2x \le 6$ y $x \le 3$. Dividir entre un número positiv
 ### Opciones
 - [ ] A) Tiene dos soluciones reales distintas. <!-- feedback: Incorrecto. El discriminante es $1 - 4 = -3 < 0$. -->
 - [ ] B) Tiene una solución real doble. <!-- feedback: Incorrecto. Eso requeriría $\Delta = 0$. -->
-- [x] C) No tiene soluciones reales porque $\Delta = -3 < 0$. <!-- feedback: ¡Correcto! Con discriminante negativo no hay raíces en los reales. -->
-- [ ] D) Tiene soluciones $x = 1$ y $x = -1$. <!-- feedback: Incorrecto. Ninguno de esos valores anula la expresión. -->
+- [x] D) No tiene soluciones reales porque $\Delta = -3 < 0$. <!-- feedback: ¡Correcto! Con discriminante negativo no hay raíces en los reales. -->
+- [ ] C) Tiene soluciones $x = 1$ y $x = -1$. <!-- feedback: Incorrecto. Ninguno de esos valores anula la expresión. -->
 
 ### Explicación Pedagógica
 El discriminante $\Delta = 1 - 4 = -3$ es negativo: la parábola $y = x^2 + x + 1$ queda siempre por encima del eje $x$ y la ecuación carece de raíces reales.
@@ -241,8 +241,8 @@ El discriminante $\Delta = 1 - 4 = -3$ es negativo: la parábola $y = x^2 + x + 
 Completando el cuadrado en $x^2 + 6x + 5 = 0$, la ecuación equivalente es:
 
 ### Opciones
-- [ ] A) $(x + 6)^2 = 31$ <!-- feedback: Incorrecto. El término que completa el cuadrado es $(6/2)^2 = 9$, no $6^2$. -->
-- [x] B) $(x + 3)^2 = 4$ <!-- feedback: ¡Correcto! $x^2 + 6x + 9 = 4$, es decir $(x+3)^2 = 4$, que da $x = -1$ o $x = -5$. -->
+- [ ] B) $(x + 6)^2 = 31$ <!-- feedback: Incorrecto. El término que completa el cuadrado es $(6/2)^2 = 9$, no $6^2$. -->
+- [x] A) $(x + 3)^2 = 4$ <!-- feedback: ¡Correcto! $x^2 + 6x + 9 = 4$, es decir $(x+3)^2 = 4$, que da $x = -1$ o $x = -5$. -->
 - [ ] C) $(x - 3)^2 = 14$ <!-- feedback: Incorrecto. El binomio debe llevar el signo del término lineal: $+3$. -->
 - [ ] D) $(x + 3)^2 = 14$ <!-- feedback: Incorrecto. Sumaste 9 sin restar el 5: $(x+3)^2 = -5 + 9 = 4$. -->
 
@@ -260,8 +260,8 @@ Completar el cuadrado: $x^2 + 6x = -5$; sumando 9 a ambos lados, $(x+3)^2 = 4$. 
 ¿Cuál es el vértice de la parábola $y = x^2 - 4x + 3$?
 
 ### Opciones
-- [x] A) $(2, -1)$ <!-- feedback: ¡Correcto! $x_v = \frac{4}{2} = 2$ e $y_v = 4 - 8 + 3 = -1$. -->
-- [ ] B) $(-2, 15)$ <!-- feedback: Incorrecto. La abscisa del vértice es $-\frac{b}{2a}$, positiva aquí. -->
+- [x] B) $(2, -1)$ <!-- feedback: ¡Correcto! $x_v = \frac{4}{2} = 2$ e $y_v = 4 - 8 + 3 = -1$. -->
+- [ ] A) $(-2, 15)$ <!-- feedback: Incorrecto. La abscisa del vértice es $-\frac{b}{2a}$, positiva aquí. -->
 - [ ] C) $(2, 3)$ <!-- feedback: Incorrecto. La ordenada no es el término independiente; hay que evaluar en $x = 2$. -->
 - [ ] D) $(4, 3)$ <!-- feedback: Incorrecto. Usaste $-b$ sin dividir entre $2a$. -->
 
@@ -298,8 +298,8 @@ Factorizando $h(t) = -5t(t - 4)$, las raíces son $0$ (lanzamiento) y $4$ (caíd
 ¿Cuál es el conjunto solución de $x^2 - 4 < 0$?
 
 ### Opciones
-- [ ] A) $x < -2$ o $x > 2$ <!-- feedback: Incorrecto. Esa es la solución de $x^2 - 4 > 0$; la parábola es negativa entre las raíces. -->
-- [x] B) $-2 < x < 2$ <!-- feedback: ¡Correcto! La parábola abre hacia arriba y es negativa entre sus raíces $-2$ y $2$. -->
+- [ ] B) $x < -2$ o $x > 2$ <!-- feedback: Incorrecto. Esa es la solución de $x^2 - 4 > 0$; la parábola es negativa entre las raíces. -->
+- [x] A) $-2 < x < 2$ <!-- feedback: ¡Correcto! La parábola abre hacia arriba y es negativa entre sus raíces $-2$ y $2$. -->
 - [ ] C) $x < 2$ <!-- feedback: Incorrecto. Falta la cota inferior; $x = -5$ no verifica la inecuación. -->
 - [ ] D) Todo número real. <!-- feedback: Incorrecto. Para $|x| > 2$ la expresión es positiva. -->
 
@@ -318,9 +318,9 @@ Las raíces de $x^2 - 4$ son $\pm 2$. Como la parábola abre hacia arriba, la ex
 
 ### Opciones
 - [ ] A) $c = 6$ <!-- feedback: Incorrecto. Con $c = 6$, $\Delta = 36 - 24 = 12 > 0$: dos soluciones. -->
-- [x] B) $c = 9$ <!-- feedback: ¡Correcto! $\Delta = 36 - 4c = 0$ exige $c = 9$, raíz doble en $x = -3$. -->
-- [ ] C) $c = 0$ <!-- feedback: Incorrecto. Con $c = 0$, $\Delta = 36$: dos soluciones distintas. -->
-- [ ] D) $c = 36$ <!-- feedback: Incorrecto. Con $c = 36$ el discriminante es negativo: sin soluciones reales. -->
+- [x] D) $c = 9$ <!-- feedback: ¡Correcto! $\Delta = 36 - 4c = 0$ exige $c = 9$, raíz doble en $x = -3$. -->
+- [ ] B) $c = 0$ <!-- feedback: Incorrecto. Con $c = 0$, $\Delta = 36$: dos soluciones distintas. -->
+- [ ] C) $c = 36$ <!-- feedback: Incorrecto. Con $c = 36$ el discriminante es negativo: sin soluciones reales. -->
 
 ### Explicación Pedagógica
 Solución única equivale a discriminante nulo: $36 - 4c = 0$, así $c = 9$. La ecuación queda $(x+3)^2 = 0$ con raíz doble $-3$.
@@ -355,8 +355,8 @@ La cantidad de soluciones reales la gobierna $\Delta = b^2 - 4ac$: positivo da d
 Sin resolverla, ¿qué se puede afirmar de las raíces de $x^2 - 7x + 10 = 0$?
 
 ### Opciones
-- [ ] A) Su suma es $-7$ y su producto $10$. <!-- feedback: Incorrecto. La suma es $-\frac{b}{a} = 7$, positiva. -->
-- [x] B) Su suma es $7$ y su producto $10$. <!-- feedback: ¡Correcto! Por las relaciones de Cardano: suma $-b/a = 7$, producto $c/a = 10$. -->
+- [ ] B) Su suma es $-7$ y su producto $10$. <!-- feedback: Incorrecto. La suma es $-\frac{b}{a} = 7$, positiva. -->
+- [x] A) Su suma es $7$ y su producto $10$. <!-- feedback: ¡Correcto! Por las relaciones de Cardano: suma $-b/a = 7$, producto $c/a = 10$. -->
 - [ ] C) Su suma es $10$ y su producto $7$. <!-- feedback: Incorrecto. Invertiste las relaciones de Cardano. -->
 - [ ] D) Ambas raíces son negativas. <!-- feedback: Incorrecto. Suma positiva y producto positivo implican raíces positivas. -->
 
@@ -393,9 +393,9 @@ Con lados $x$ y $10 - x$, el área exige $x(10-x) = 24$, es decir $x^2 - 10x + 2
 ¿En qué rango de producción la ganancia es estrictamente positiva?
 
 ### Opciones
-- [ ] A) Para cualquier cantidad producida. <!-- feedback: Incorrecto. Fuera de las raíces la parábola es negativa: hay pérdidas. -->
-- [ ] B) Solo para $x = 5$ toneladas. <!-- feedback: Incorrecto. Ese es el máximo, pero la ganancia es positiva en todo un intervalo. -->
-- [x] C) Entre 1 y 9 toneladas, sin incluir los extremos. <!-- feedback: ¡Correcto! Las raíces son 1 y 9; la parábola abre hacia abajo y es positiva entre ellas. -->
+- [ ] B) Para cualquier cantidad producida. <!-- feedback: Incorrecto. Fuera de las raíces la parábola es negativa: hay pérdidas. -->
+- [ ] C) Solo para $x = 5$ toneladas. <!-- feedback: Incorrecto. Ese es el máximo, pero la ganancia es positiva en todo un intervalo. -->
+- [x] A) Entre 1 y 9 toneladas, sin incluir los extremos. <!-- feedback: ¡Correcto! Las raíces son 1 y 9; la parábola abre hacia abajo y es positiva entre ellas. -->
 - [ ] D) Para producciones mayores a 9 toneladas. <!-- feedback: Incorrecto. Más allá de 9 la ganancia es negativa. -->
 
 ### Explicación Pedagógica

@@ -36,9 +36,9 @@ This bundle explores the impact of globalization using B2-level grammar, focusin
 
 ### Opciones
 - [ ] A) because <!-- feedback: Needs a full clause. -->
-- [x] B) due to <!-- feedback: Correct. Followed by a noun phrase to show cause. -->
-- [ ] C) as <!-- feedback: Needs a full clause. -->
-- [ ] D) so that <!-- feedback: Incorrect meaning (purpose). -->
+- [x] D) due to <!-- feedback: Correct. Followed by a noun phrase to show cause. -->
+- [ ] B) as <!-- feedback: Needs a full clause. -->
+- [ ] C) so that <!-- feedback: Incorrect meaning (purpose). -->
 
 ### Explicación Pedagógica
 'Due to' and 'because of' are followed by a noun phrase to express the reason for something.
@@ -56,8 +56,8 @@ This bundle explores the impact of globalization using B2-level grammar, focusin
 "Many people study foreign languages ____ they can work in global companies."
 
 ### Opciones
-- [ ] A) in order <!-- feedback: Needs 'to'. -->
-- [x] B) so that <!-- feedback: Correct purpose connector followed by a clause. -->
+- [ ] B) in order <!-- feedback: Needs 'to'. -->
+- [x] A) so that <!-- feedback: Correct purpose connector followed by a clause. -->
 - [ ] C) for <!-- feedback: Incorrect meaning. -->
 - [ ] D) because of <!-- feedback: Incorrect meaning. -->
 
@@ -120,8 +120,8 @@ This bundle explores the impact of globalization using B2-level grammar, focusin
 
 ### Opciones
 - [ ] A) so that <!-- feedback: Needs a full clause. -->
-- [x] B) in order to <!-- feedback: Correct purpose connector followed by an infinitive. -->
-- [ ] C) with a view to <!-- feedback: Needs a gerund. -->
+- [x] C) in order to <!-- feedback: Correct purpose connector followed by an infinitive. -->
+- [ ] B) with a view to <!-- feedback: Needs a gerund. -->
 - [ ] D) because <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
@@ -141,9 +141,9 @@ This bundle explores the impact of globalization using B2-level grammar, focusin
 
 ### Opciones
 - [ ] A) Furthermore <!-- feedback: Incorrect. -->
-- [x] B) Accordingly <!-- feedback: Correct formal result connector. -->
-- [ ] C) Nevertheless <!-- feedback: Incorrect (contrast). -->
-- [ ] D) Likewise <!-- feedback: Incorrect (similarity). -->
+- [x] D) Accordingly <!-- feedback: Correct formal result connector. -->
+- [ ] B) Nevertheless <!-- feedback: Incorrect (contrast). -->
+- [ ] C) Likewise <!-- feedback: Incorrect (similarity). -->
 
 ### Explicación Pedagógica
 'Accordingly' is a formal adverb used to show that an action is a logical response to a situation.
@@ -162,9 +162,9 @@ This bundle explores the impact of globalization using B2-level grammar, focusin
 
 ### Opciones
 - [ ] A) due <!-- feedback: Needs 'to'. -->
-- [x] B) on account of <!-- feedback: Correct formal reason connector followed by a noun phrase. -->
-- [ ] C) because <!-- feedback: Needs a full clause. -->
-- [ ] D) so as to <!-- feedback: Incorrect. -->
+- [x] D) on account of <!-- feedback: Correct formal reason connector followed by a noun phrase. -->
+- [ ] B) because <!-- feedback: Needs a full clause. -->
+- [ ] C) so as to <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
 'On account of' is a formal alternative to 'because of' or 'due to'.
@@ -182,8 +182,8 @@ This bundle explores the impact of globalization using B2-level grammar, focusin
 "Companies are adopting greener practices ____ improving their public image."
 
 ### Opciones
-- [ ] A) so as to <!-- feedback: Needs an infinitive. -->
-- [x] B) with a view to <!-- feedback: Correct formal purpose connector followed by a gerund. -->
+- [ ] B) so as to <!-- feedback: Needs an infinitive. -->
+- [x] A) with a view to <!-- feedback: Correct formal purpose connector followed by a gerund. -->
 - [ ] C) in order to <!-- feedback: Needs an infinitive. -->
 - [ ] D) since <!-- feedback: Incorrect. -->
 
@@ -204,9 +204,9 @@ This bundle explores the impact of globalization using B2-level grammar, focusin
 
 ### Opciones
 - [ ] A) However <!-- feedback: Correct contrast, but B is more specific for result. -->
-- [x] B) Thus <!-- feedback: Correct formal result connector. -->
-- [ ] C) Moreover <!-- feedback: Incorrect. -->
-- [ ] D) Provided <!-- feedback: Incorrect. -->
+- [x] D) Thus <!-- feedback: Correct formal result connector. -->
+- [ ] B) Moreover <!-- feedback: Incorrect. -->
+- [ ] C) Provided <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
 'Thus' is a very formal connector used to introduce a result or conclusion.
@@ -224,10 +224,10 @@ This bundle explores the impact of globalization using B2-level grammar, focusin
 "So ____ was the influence of Western media ____ local traditions began to fade in many regions."
 
 ### Opciones
-- [x] A) pervasive / that <!-- feedback: Correct 'So + adjective + that' structure for result. -->
-- [ ] B) much / that <!-- feedback: 'Much' is for quantity, 'pervasive' (adj) fits here. -->
-- [ ] C) pervasive / as <!-- feedback: Incorrect. -->
-- [ ] D) such / that <!-- feedback: 'Such' needs a noun phrase. -->
+- [x] D) pervasive / that <!-- feedback: Correct 'So + adjective + that' structure for result. -->
+- [ ] A) much / that <!-- feedback: 'Much' is for quantity, 'pervasive' (adj) fits here. -->
+- [ ] B) pervasive / as <!-- feedback: Incorrect. -->
+- [ ] C) such / that <!-- feedback: 'Such' needs a noun phrase. -->
 
 ### Explicación Pedagógica
 Advanced B2 structure: 'So + adjective + that' to express degree and result.
@@ -266,9 +266,9 @@ Advanced B2 structure: 'So + adjective + that' to express degree and result.
 "____ globalization has its critics, its benefits are so widespread ____ it is likely to continue."
 
 ### Opciones
-- [x] A) Much as / that <!-- feedback: Correct sophisticated concession + result structure. -->
-- [ ] B) Since / as <!-- feedback: Incorrect. -->
-- [ ] C) Even if / so <!-- feedback: Incorrect. -->
+- [x] C) Much as / that <!-- feedback: Correct sophisticated concession + result structure. -->
+- [ ] A) Since / as <!-- feedback: Incorrect. -->
+- [ ] B) Even if / so <!-- feedback: Incorrect. -->
 - [ ] D) Although / then <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica

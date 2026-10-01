@@ -56,13 +56,13 @@ La Guerra del Acre enfrentó a Bolivia con fuerzas separatistas aliadas al Brasi
 ¿Qué disputa territorial de límites y recursos desató la Guerra del Chaco en la remota región del Chaco Boreal?
 
 ### Opciones
-- [x] A) La falta de delimitación definitiva de fronteras heredada de la colonia y el falso rumor de la existencia de ricos yacimientos de petróleo en el subsuelo.
+- [x] D) La falta de delimitación definitiva de fronteras heredada de la colonia y el falso rumor de la existencia de ricos yacimientos de petróleo en el subsuelo.
   <!-- feedback: Correcto. Bolivia y Paraguay carecían de fronteras claras en el inhóspito Chaco Boreal. El expansionismo de compañías petroleras transnacionales (como la Standard Oil y la Royal Dutch Shell) alimentó el rumor de yacimientos de petróleo, agudizando la contienda militar armada. -->
-- [ ] B) La invasión de barcos de guerra paraguayos a las costas marítimas soberanas de Bolivia en Antofagasta.
+- [ ] A) La invasión de barcos de guerra paraguayos a las costas marítimas soberanas de Bolivia en Antofagasta.
   <!-- feedback: Incorrecto. El Chaco es una llanura continental semiárida; no cuenta con playas marítimas ni colinda con el océano Pacífico. -->
-- [ ] C) El cobro obligatorio de impuestos en pesos de oro a las cooperativas mineras que extraían estaño en Tarija.
+- [ ] B) El cobro obligatorio de impuestos en pesos de oro a las cooperativas mineras que extraían estaño en Tarija.
   <!-- feedback: Incorrecto. No se extraía estaño en Tarija ni el conflicto del Chaco se debió a impuestos en pesos de oro a cooperativas mineras. -->
-- [ ] D) La abolición del catolicismo que pretendían imponer las fuerzas armadas paraguayas en La Paz.
+- [ ] C) La abolición del catolicismo que pretendían imponer las fuerzas armadas paraguayas en La Paz.
   <!-- feedback: Incorrecto. Paraguay era de confesión católica devota al igual que Bolivia; el conflicto no tuvo causas religiosas o de prohibición del culto. -->
 
 ### Explicacion Pedagogica
@@ -79,9 +79,9 @@ La Guerra del Chaco fue el mayor conflicto bélico sudamericano del siglo XX. Mo
 ¿Qué hito militar de gran significación heroica y sacrificio protagonizó el coronel Manuel Marzana en la Batalla de Boquerón?
 
 ### Opciones
-- [x] A) La heroica resistencia de un reducido contingente de soldados bolivianos que resistió por más de veinte días el asedio de todo el ejército paraguayo.
+- [x] B) La heroica resistencia de un reducido contingente de soldados bolivianos que resistió por más de veinte días el asedio de todo el ejército paraguayo.
   <!-- feedback: Correcto. El destacamento boliviano al mando de Marzana (apenas 600 hombres) defendió tenazmente el fortín Boquerón contra más de 12,000 soldados paraguayos, ganándose la admiración y respeto de sus propios enemigos antes de capitular exhaustos por la falta de agua. -->
-- [ ] B) La invasión pacífica de la ciudad de Asunción en trenes eléctricos construidos por el barón del estaño Simón I. Patiño.
+- [ ] A) La invasión pacífica de la ciudad de Asunción en trenes eléctricos construidos por el barón del estaño Simón I. Patiño.
   <!-- feedback: Incorrecto. No existían trenes eléctricos en el Chaco Boreal en 1932 y las tropas de Marzana defendían un fortín asediado, sin invadir pacíficamente Asunción. -->
 - [ ] C) La nacionalización de las refinerías de petróleo de la Standard Oil Co. en favor de los campesinos aymaras.
   <!-- feedback: Incorrecto. La nacionalización de la Standard Oil ocurrió después de la guerra (1937), no durante el combate defensivo de Boquerón de 1932. -->
@@ -102,11 +102,11 @@ La Batalla de Boquerón marcó el inicio de la fase sangrienta de la guerra. Dem
 ¿Cuál fue el mayor enemigo invisible de carácter ecológico e higiénico que diezmó a las tropas bolivianas en el Chaco Boreal durante la contienda?
 
 ### Opciones
-- [x] A) La escasez crítica de agua potable, el calor sofocante en verano, el frío invernal y enfermedades tropicales como la malaria y el paludismo.
+- [x] C) La escasez crítica de agua potable, el calor sofocante en verano, el frío invernal y enfermedades tropicales como la malaria y el paludismo.
   <!-- feedback: Correcto. El Chaco es denominado el 'Infierno Verde' debido a su clima seco y hostil; la falta de fuentes de agua dulce potable mató a más soldados que las balas enemigas, sumado a epidemias de disentería, tifoidea y malaria. -->
-- [ ] B) El ataque constante de tiburones blancos gigantes procedentes del lago navegable de La Paz.
+- [ ] A) El ataque constante de tiburones blancos gigantes procedentes del lago navegable de La Paz.
   <!-- feedback: Incorrecto. No existen tiburones en lagos andinos ni en el desértico Chaco; representa una distracción biológica absurda. -->
-- [ ] C) La acumulación de ceniza volcánica ácida que congelaba la vegetación y quemaba las carpas de campaña.
+- [ ] B) La acumulación de ceniza volcánica ácida que congelaba la vegetación y quemaba las carpas de campaña.
   <!-- feedback: Incorrecto. No había erupciones volcánicas ni volcanes activos en la llanura aluvial chaqueña durante la contienda de 1932. -->
 - [ ] D) La prohibición del uso del castellano dictada de forma obligatoria por los coroneles de origen portugués.
   <!-- feedback: Incorrecto. El castellano se mantuvo como el idioma de mando militar y no se prohibió ni operaban coroneles de origen portugués. -->
@@ -125,9 +125,9 @@ La inexperiencia del soldado altiplánico andino con la geografía chaqueña inc
 ¿Qué transformación social de gran alcance generó la movilización de reclutas de diversas clases sociales y etnias al Chaco Boreal?
 
 ### Opciones
-- [x] A) Propició el surgimiento de una conciencia nacional de ciudadanía común y de hermandad entre indígenas andinos, mestizos urbanos y criollos ante la exclusión oligárquica.
+- [x] B) Propició el surgimiento de una conciencia nacional de ciudadanía común y de hermandad entre indígenas andinos, mestizos urbanos y criollos ante la exclusión oligárquica.
   <!-- feedback: Correcto. En las trincheras del Chaco convivieron por primera vez el campesino indígena aymara/quechua y el obrero o estudiante mestizo urbano, compartiendo la misma opresión de la oficialidad incompetente y descubriendo que pertenecían a una misma patria de mayorías excluidas. -->
-- [ ] B) Provocó el retorno voluntario e incondicional de todos los habitantes de Bolivia al régimen colonial español de Madrid.
+- [ ] A) Provocó el retorno voluntario e incondicional de todos los habitantes de Bolivia al régimen colonial español de Madrid.
   <!-- feedback: Incorrecto. Lejos de desear volver al imperio colonial español, la juventud del Chaco incubó un nacionalismo revolucionario radical opuesto al neocolonialismo. -->
 - [ ] C) Forzó la privatización total del Salar de Uyuni en favor del Paraguay a cambio de subsidios en pesos de oro.
   <!-- feedback: Incorrecto. No se privatizó el Salar de Uyuni ni se entregó soberanía al Paraguay; el salar continuó bajo control de Bolivia. -->
@@ -148,11 +148,11 @@ La Guerra del Chaco desmanteló los fundamentos morales de la oligarquía señor
 ¿Qué medida pionera de soberanía económica e hidrocarburífera adoptó el gobierno militar de David Toro en 1937 tras finalizar la Guerra del Chaco?
 
 ### Opciones
-- [x] A) La nacionalización de las concesiones y refinerías de la compañía petrolera estadounidense Standard Oil Co., creando la empresa pública YPFB.
+- [x] C) La nacionalización de las concesiones y refinerías de la compañía petrolera estadounidense Standard Oil Co., creando la empresa pública YPFB.
   <!-- feedback: Correcto. El presidente David Toro decretó en marzo de 1937 la confiscación y nacionalización de la Standard Oil Co. por contrabando y desacato al Estado, siendo la primera nacionalización de petróleo en la historia de América Latina, fundando Yacimientos Petrolíferos Fiscales Bolivianos (YPFB). -->
-- [ ] B) La entrega total de los yacimientos de estaño de Oruro a la corona del Brasil de forma voluntaria.
+- [ ] A) La entrega total de los yacimientos de estaño de Oruro a la corona del Brasil de forma voluntaria.
   <!-- feedback: Incorrecto. No se entregaron minas de estaño al Brasil; se creó YPFB para asegurar el monopolio petrolero del Estado de Bolivia. -->
-- [ ] C) La prohibición del cultivo de coca en los Yungas de La Paz bajo penas severas de trabajos forzados en Potosí.
+- [ ] B) La prohibición del cultivo de coca en los Yungas de La Paz bajo penas severas de trabajos forzados en Potosí.
   <!-- feedback: Incorrecto. El cultivo tradicional de la coca continuó regulado pero libre y no se prohibió con fines de forzar trabajos mineros. -->
 - [ ] D) La venta legal de la Casa de la Moneda de Potosí a empresarios de la Standard Oil Co. por pesos de oro.
   <!-- feedback: Incorrecto. La Standard Oil fue sancionada y expulsada de Bolivia por fraude y desacato tributario; no se le vendió patrimonio colonial alguno. -->
@@ -171,9 +171,9 @@ El Socialismo Militar de Toro y Germán Busch representó la irrupción de la jo
 ¿Qué estipulaba el Tratado de Paz, Amistad y Límites de 1938 firmado en Buenos Aires respecto del territorio en disputa del Chaco Boreal?
 
 ### Opciones
-- [x] A) Fijó los límites definitivos adjudicando al Paraguay la mayor parte del Chaco Boreal en disputa, pero garantizando a Bolivia el libre tránsito y acceso al río Paraguay vía Puerto Busch.
+- [x] B) Fijó los límites definitivos adjudicando al Paraguay la mayor parte del Chaco Boreal en disputa, pero garantizando a Bolivia el libre tránsito y acceso al río Paraguay vía Puerto Busch.
   <!-- feedback: Correcto. El tratado de límites de 1938 reconoció la soberanía de Paraguay sobre la zona bajo su control militar efectivo, otorgando sin embargo a Bolivia un enclave soberano fluvial en el río Paraguay (Puerto Busch) y consolidando su derecho al libre tránsito por la cuenca del Plata. -->
-- [ ] B) La entrega forzosa de la cordillera andina completa de Bolivia al Paraguay a cambio de barcos de guerra.
+- [ ] A) La entrega forzosa de la cordillera andina completa de Bolivia al Paraguay a cambio de barcos de guerra.
   <!-- feedback: Incorrecto. El territorio de la cordillera andina (Potosí, Oruro, La Paz) nunca estuvo en discusión ni se entregó al Paraguay. -->
 - [ ] C) La abolición del voto universal de las mujeres en el altiplano andino central.
   <!-- feedback: Incorrecto. El voto universal no guardaba relación con el trazado de límites del desierto del Chaco y fue aprobado décadas más tarde en 1952. -->
@@ -194,9 +194,9 @@ El Tratado de 1938 cerró de manera definitiva el conflicto limítrofe del Chaco
 Si analizamos el rol de los barones del estaño (Patiño, Aramayo, Hoschild) en el financiamiento de la Guerra del Chaco, ¿qué contradicción tributaria y de poder se devela?
 
 ### Opciones
-- [x] A) Los barones del estaño poseían fortunas inmensas insertas en el mercado internacional pero aportaron de forma mezquina y cobraron intereses al Estado por financiar la compra de armamento.
+- [x] B) Los barones del estaño poseían fortunas inmensas insertas en el mercado internacional pero aportaron de forma mezquina y cobraron intereses al Estado por financiar la compra de armamento.
   <!-- feedback: Correcto. Mientras miles de conscriptos de clase media e indígenas andinos derramaban su sangre en el Chaco, la oligarquía minera del estaño continuaba enviando sus fabulosas ganancias a cuentas bancarias de Suiza y Londres, eludiendo impuestos patrióticos del Estado. -->
-- [ ] B) Se inmolaron de forma voluntaria combatiendo en las trincheras del fortín Boquerón al mando de Manuel Marzana.
+- [ ] A) Se inmolaron de forma voluntaria combatiendo en las trincheras del fortín Boquerón al mando de Manuel Marzana.
   <!-- feedback: Incorrecto. Ninguno de los barones del estaño combatió físicamente en Boquerón o el Chaco; operaban desde residencias de lujo en Europa. -->
 - [ ] C) Entregaron la totalidad de sus minas de estaño al Paraguay para pacificar la región de Tarija de forma gratuita.
   <!-- feedback: Incorrecto. Defendían a ultranza sus posesiones mineras altiplánicas y no cedieron minas de estaño al Paraguay. -->
@@ -217,13 +217,13 @@ Esta contradicción fiscal y moral indignó a los veteranos de guerra de postgue
 Si aplicamos la historia de las reformas constitucionales de postguerra del Chaco, ¿qué hito legislativo de gran trascendencia social aprobó la convención nacional de Germán Busch en la Constitución de 1938?
 
 ### Opciones
-- [x] A) La incorporación constitucional del Constitucionalismo Social, consagrando por primera vez el derecho al trabajo, al salario justo y la función social de la propiedad privada.
+- [x] D) La incorporación constitucional del Constitucionalismo Social, consagrando por primera vez el derecho al trabajo, al salario justo y la función social de la propiedad privada.
   <!-- feedback: Correcto. La Constitución de 1938 de Germán Busch fue revolucionaria al consagrar derechos laborales modernos, subordinando la propiedad privada de la tierra al bienestar colectivo estatal, rompiendo el modelo de Estado liberal señorial tradicional. -->
-- [ ] B) La entrega voluntaria de los salares de litio de Uyuni a favor del Imperio del Brasil a cambio de locomotoras a vapor.
+- [ ] A) La entrega voluntaria de los salares de litio de Uyuni a favor del Imperio del Brasil a cambio de locomotoras a vapor.
   <!-- feedback: Incorrecto. No se cedió Uyuni a Brasil y Busch buscó precisamente centralizar las riquezas en manos del Estado de Bolivia de forma soberana. -->
-- [ ] C) La disolución completa de las fuerzas armadas de Bolivia y del voto universal de las mujeres indígenas.
+- [ ] B) La disolución completa de las fuerzas armadas de Bolivia y del voto universal de las mujeres indígenas.
   <!-- feedback: Incorrecto. Busch fortaleció y modernizó las fuerzas armadas y el voto universal de las mujeres indígenas andinas no existía en 1938. -->
-- [ ] D) La adopción del dólar estadounidense como única moneda circulante de curso legal de las aduanas bolivianas.
+- [ ] C) La adopción del dólar estadounidense como única moneda circulante de curso legal de las aduanas bolivianas.
   <!-- feedback: Incorrecto. Se mantuvo la moneda nacional (el boliviano o peso boliviano) y se decretó de hecho el control de cambios de divisas extranjeras. -->
 
 ### Explicacion Pedagogica
@@ -263,11 +263,11 @@ Las condiciones de sanidad y de aclimatación en el Chaco Boreal fueron desastro
 Al analizar críticamente las pérdidas territoriales de la Guerra del Acre frente al Brasil, ¿qué consecuencia geopolítica inmediata selló el Tratado de Petrópolis de 1903?
 
 ### Opciones
-- [x] A) La cesión definitiva del territorio del Acre a cambio de una compensación económica y el compromiso de Brasil de construir el ferrocarril Madeira-Mamoré.
+- [x] C) La cesión definitiva del territorio del Acre a cambio de una compensación económica y el compromiso de Brasil de construir el ferrocarril Madeira-Mamoré.
   <!-- feedback: Correcto. Firmado por Ismael Montes y José Manuel Pando, el tratado formalizó la entrega del Acre al Brasil, prometiendo éste construir un ferrocarril para otorgar salida de las exportaciones de goma boliviana por el Amazonas. -->
-- [ ] B) La entrega forzosa del departamento de Potosí de forma voluntaria al Brasil de manera perpetua.
+- [ ] A) La entrega forzosa del departamento de Potosí de forma voluntaria al Brasil de manera perpetua.
   <!-- feedback: Incorrecto. Potosí continuó bajo soberanía de Bolivia y no formaba parte del área en disputa en el Acre con Brasil. -->
-- [ ] C) La prohibición absoluta de comerciar utilizando cualquier idioma que no fuera el quechua cuzqueño de la antigua nobleza.
+- [ ] B) La prohibición absoluta de comerciar utilizando cualquier idioma que no fuera el quechua cuzqueño de la antigua nobleza.
   <!-- feedback: Incorrecto. El castellano se mantuvo como el idioma oficial de las aduanas y no se prohibió por causa del tratado con Brasil. -->
 - [ ] D) La expropiación pacífica de los salares de litio de Uyuni decretada por el presidente de origen brasileño.
   <!-- feedback: Incorrecto. El litio no era el recurso estratégico disputado en 1903 y no se entregó soberanía a Brasil ni a libras esterlinas de Madrid. -->
@@ -286,11 +286,11 @@ El Tratado de Petrópolis de 1903 puso fin al conflicto del Acre. Demostró la i
 Al analizar la crisis de gobernabilidad post-Guerra del Chaco en Bolivia, ¿por qué colapsó la legitimidad de los partidos tradicionales conservadores y liberales?
 
 ### Opciones
-- [x] A) Debido a su responsabilidad en la desastrosa conducción militar de la guerra, la quiebra financiera y la exclusión de los combatientes veteranos.
+- [x] C) Debido a su responsabilidad en la desastrosa conducción militar de la guerra, la quiebra financiera y la exclusión de los combatientes veteranos.
   <!-- feedback: Correcto. El desprestigio de los oficiales del alto mando militar y de los políticos de la rosca minera ('oligarcas') unificó la ira popular de los veteranos del Chaco, quienes regresaron para exigir justicia social, forzando la quiebra del sistema partidario oligárquico. -->
-- [ ] B) Debido a que ordenaron la quema de todas las iglesias católicas andinas para imponer de forma obligatoria el budismo.
+- [ ] A) Debido a que ordenaron la quema de todas las iglesias católicas andinas para imponer de forma obligatoria el budismo.
   <!-- feedback: Incorrecto. El culto católico continuó oficial; las causas del colapso político eran de descrédito militar, crisis y demandas sociales, no religiosas. -->
-- [ ] C) La inundación masiva de la Casa de la Moneda de Potosí por las mareas altas del océano Pacífico.
+- [ ] B) La inundación masiva de la Casa de la Moneda de Potosí por las mareas altas del océano Pacífico.
   <!-- feedback: Incorrecto. Potosí es mediterráneo andino terrestre elevado, sin relación física con mareas oceánicas altas del Pacífico. -->
 - [ ] D) La abolición del castellano administrativo decretada por el Ministerio de Educación de origen paraguayo.
   <!-- feedback: Incorrecto. El Ministerio de Educación continuó en manos de autoridades de Bolivia de habla hispana, sin participación de paraguayos. -->
@@ -309,11 +309,11 @@ La Guerra del Chaco desnudó la incompetencia del Estado oligárquico. Propició
 ¿Cómo explica el análisis sociopolítico que el Chaco Boreal haya funcionado como el catalizador social de la Revolución Nacional de 1952?
 
 ### Opciones
-- [x] A) Al unificar a indígenas andinos, mestizos y universitarios en un mismo frente defensivo, superando el racismo señorial y sembrando una demanda común de soberanía agraria y voto universal.
+- [x] C) Al unificar a indígenas andinos, mestizos y universitarios en un mismo frente defensivo, superando el racismo señorial y sembrando una demanda común de soberanía agraria y voto universal.
   <!-- feedback: Correcto. En el Chaco Boreal convivió el pongo andino de hacienda con el obrero fabril y el estudiante de leyes; el descubrimiento mutuo de que el indígena andino era la fuerza de infantería mayoritaria que moría por la patria desarmó moralmente el régimen de exclusión señorial, preparando las bases revolucionarias del 52. -->
-- [ ] B) Al forzar la compra de armas nucleares a la Unión Soviética para defender los megacampos de gas natural de Tarija.
+- [ ] A) Al forzar la compra de armas nucleares a la Unión Soviética para defender los megacampos de gas natural de Tarija.
   <!-- feedback: Incorrecto. No se compró armamento nuclear ni a la Unión Soviética en la contienda de 1932, inaplicable para esa fecha decimonónica. -->
-- [ ] C) Al decretar que el portugués del Brasil sería el único idioma oficial del parlamento andino para mermar el centralismo de Sucre.
+- [ ] B) Al decretar que el portugués del Brasil sería el único idioma oficial del parlamento andino para mermar el centralismo de Sucre.
   <!-- feedback: Incorrecto. El portugués nunca fue idioma de mando oficial de la república de Bolivia, manteniendo el castellano administrativo de la patria. -->
 - [ ] D) Al obligar a Simón Bolívar a casarse con la virreina indígena Bartolina Sisa de forma voluntaria en Potosí.
   <!-- feedback: Incorrecto. Bolívar y Sisa vivieron y fallecieron en periodos distintos del siglo XVIII y XIX, representando un desajuste cronológico absoluto. -->
@@ -332,11 +332,11 @@ La Guerra del Chaco funcionó como el gran unificador social de Bolivia. Develó
 Al analizar las fuerzas económicas de la Guerra del Chaco, ¿qué rol controvertido desempeñó la Standard Oil Co. de los Estados Unidos respecto del Estado de Bolivia?
 
 ### Opciones
-- [x] A) Retaceó la ayuda petrolera y la provisión de combustible a las fuerzas armadas de Bolivia, contrabandó petróleo a la Argentina y eludió pagar impuestos patrióticos.
+- [x] C) Retaceó la ayuda petrolera y la provisión de combustible a las fuerzas armadas de Bolivia, contrabandó petróleo a la Argentina y eludió pagar impuestos patrióticos.
   <!-- feedback: Correcto. La conducta desleal de la Standard Oil Co. durante el conflicto (retacear gasolina al ejército boliviano y contrabandear crudo por un ducto clandestino a la Argentina para mantener la neutralidad de su corporación) indignó a los oficiales de postguerra, gatillando su nacionalización en 1937. -->
-- [ ] B) Financió de forma heroica un ejército de millones de guerrilleros aymaras para invadir Asunción de forma pacífica.
+- [ ] A) Financió de forma heroica un ejército de millones de guerrilleros aymaras para invadir Asunción de forma pacífica.
   <!-- feedback: Incorrecto. No financió ejércitos indígenas patriotas y su comportamiento fue de fraude fiscal e insolvencia hacia el Estado de Bolivia. -->
-- [ ] C) Entregó la totalidad de sus acciones de litio al Paraguay a cambio de subsidios en pesos de oro potosino.
+- [ ] B) Entregó la totalidad de sus acciones de litio al Paraguay a cambio de subsidios en pesos de oro potosino.
   <!-- feedback: Incorrecto. No se extraía litio en 1932 y la Standard Oil no operaba concesiones de litio ni entregó soberanía al Paraguay. -->
 - [ ] D) Decretó la abolición del castellano para declarar el inglés único idioma oficial de las aduanas de la patria.
   <!-- feedback: Incorrecto. No tenía prerrogativas de mando civil o lingüístico administrativo en las oficinas públicas del Estado de Bolivia. -->
@@ -378,13 +378,13 @@ La defensa de Villamontes restableció el orgullo militar de Bolivia. Al estabil
 ¿Qué contradicción política e institucional devela la irrupción de presidentes jóvenes de uniforme militar como David Toro y Germán Busch tras 1935?
 
 ### Opciones
-- [x] A) Representaban el auge del nacionalismo revolucionario desde el ejército, desafiando a las viejas oligarquías terratenientes de la plata y el estaño.
+- [x] D) Representaban el auge del nacionalismo revolucionario desde el ejército, desafiando a las viejas oligarquías terratenientes de la plata y el estaño.
   <!-- feedback: Correcto. La oficialidad joven que combatió en el Chaco asaltó el poder ejecutivo, aliándose con sindicatos obreros y promulgando reformas de constitucionalismo social en franco desafío a los barones del estaño (la rosca minera). -->
-- [ ] B) Exigían que los indígenas andinos regresaran a trabajar gratis al Cerro Rico bajo las antiguas normas de la mita colonial española.
+- [ ] A) Exigían que los indígenas andinos regresaran a trabajar gratis al Cerro Rico bajo las antiguas normas de la mita colonial española.
   <!-- feedback: Incorrecto. Los militares revolucionarios de Toro y Busch buscaban descolonizar el agro y abolir el tributo, no reimponer la mita colonial española de Toledo. -->
-- [ ] C) Su decisión voluntaria de donar todas sus haciendas agrícolas cruceñas para construir escuelas rurales gratuitas en el Beni.
+- [ ] B) Su decisión voluntaria de donar todas sus haciendas agrícolas cruceñas para construir escuelas rurales gratuitas en el Beni.
   <!-- feedback: Incorrecto. Busch reguló la tenencia agraria pero no poseía haciendas privadas cruceñas ni las donó de esa manera al Beni. -->
-- [ ] D) Se dedicaban exclusivamente a traducir la Biblia al idioma portugués para consolidar la anexión a Portugal.
+- [ ] C) Se dedicaban exclusivamente a traducir la Biblia al idioma portugués para consolidar la anexión a Portugal.
   <!-- feedback: Incorrecto. Mantenían el catolicismo devoto de la patria y su accionar era nacionalista soberano boliviano, opuesto a anexarse a Portugal. -->
 
 ### Explicacion Pedagogica
@@ -424,13 +424,13 @@ La quiebra financiera post-Chaco debilitó la hegemonía de los barones del esta
 Al evaluar críticamente las decisiones diplomáticas del Tratado de Paz de 1938 firmado en Buenos Aires, ¿cuál es la valoración historiográfica más sólida?
 
 ### Opciones
-- [x] A) Bolivia resignó una enorme porción de llanura chaqueña bajo dominio militar efectivo paraguayo, pero resguardó los megacampos de gas natural y logró salida soberana al río Paraguay.
+- [x] D) Bolivia resignó una enorme porción de llanura chaqueña bajo dominio militar efectivo paraguayo, pero resguardó los megacampos de gas natural y logró salida soberana al río Paraguay.
   <!-- feedback: Correcto. El tratado de límites formalizó de forma realista la pérdida territorial chaqueña de Bolivia, logrando sin embargo evitar la pérdida de los yacimientos subandinos de petróleo de Tarija y de bofedales y asegurando un puerto navegable en el río Paraguay (Puerto Busch). -->
-- [ ] B) Fue una capitulación traidora debido a que los diplomáticos de Bolivia regalaron el Salar de Uyuni completo al Paraguay.
+- [ ] A) Fue una capitulación traidora debido a que los diplomáticos de Bolivia regalaron el Salar de Uyuni completo al Paraguay.
   <!-- feedback: Incorrecto. El Salar de Uyuni se sitúa en la altura andina de Potosí, muy alejado del Chaco, y continuó bajo control de Bolivia, sin relación con el tratado de límites. -->
-- [ ] C) La abolición del voto universal de las mujeres indígenas andinas de Cochabamba.
+- [ ] B) La abolición del voto universal de las mujeres indígenas andinas de Cochabamba.
   <!-- feedback: Incorrecto. El voto universal no guarda relación con las fronteras del Chaco Boreal de 1938 y fue aprobado décadas más tarde en 1952. -->
-- [ ] D) La cesión obligatoria del Salar de Uyuni al Brasil a cambio del ferrocarril bioceánico del Acre.
+- [ ] C) La cesión obligatoria del Salar de Uyuni al Brasil a cambio del ferrocarril bioceánico del Acre.
   <!-- feedback: Incorrecto. El Salar de Uyuni continuó bajo control exclusivo de Bolivia y el ferrocarril del Acre se acordó en el Tratado de Petrópolis de 1903. -->
 
 ### Explicacion Pedagogica
@@ -470,9 +470,9 @@ YPFB representa la institución civil más reverenciada de Bolivia. Su nacimient
 Al juzgar de manera integral la Guerra del Chaco como el catalizador social que posibilitó la Revolución Nacional de 1952, ¿cuál de las siguientes valoraciones posee mayor sustento?
 
 ### Opciones
-- [x] A) La contienda quebró de forma definitiva la legitimidad de la rosca minera y de los terratenientes feudales, dando nacimiento a la alianza obrera, campesina y militar que asaltó el poder en 1952.
+- [x] B) La contienda quebró de forma definitiva la legitimidad de la rosca minera y de los terratenientes feudales, dando nacimiento a la alianza obrera, campesina y militar que asaltó el poder en 1952.
   <!-- feedback: Correcto. Una evaluación de largo plazo devela que las trincheras del Chaco Boreal funcionaron como el crisol y escuela política de la mayoría nacional: al convivir bajo la misma opresión e incompetencia militar de los magnates, descubrieron que compartían una misma patria, fundando partidos populares y organizando milicias revolucionarias. -->
-- [ ] B) Demuestra que los combatientes indígenas prefirieron renunciar de forma voluntaria a la propiedad de sus tierras de origen.
+- [ ] A) Demuestra que los combatientes indígenas prefirieron renunciar de forma voluntaria a la propiedad de sus tierras de origen.
   <!-- feedback: Incorrecto. Los indígenas andinos del Chaco regresaron con armas de fuego y adiestramiento militar, liderando de hecho sublevaciones campesinas andinas contra los despojos de haciendas terratenientes. -->
 - [ ] C) Establecía que las 36 naciones indígenas debían ser devueltas de forma incondicional al yugo de los reyes borbones de España.
   <!-- feedback: Incorrecto. Se rechazaba ardientemente el yugo de la corona de España de Madrid y el deseo era de autodeterminación y soberanía republicana de la patria. -->

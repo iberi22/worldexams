@@ -32,9 +32,9 @@ Si se sabe que $a < b$ y $c < 0$, ¿cuál de las siguientes relaciones es siempr
 ### Opciones
 - [ ] A) $a + c > b + c$
   <!-- feedback: Incorrecto. Al sumar una misma cantidad a ambos lados de una desigualdad, el sentido de la misma se mantiene: $a + c < b + c$. -->
-- [ ] B) $ac < bc$
+- [ ] C) $ac < bc$
   <!-- feedback: Incorrecto. Al multiplicar por un número negativo ($c < 0$), el sentido de la desigualdad debe invertirse por propiedad fundamental. -->
-- [x] C) $ac > bc$
+- [x] B) $ac > bc$
   <!-- feedback: Correcto. Una de las propiedades fundamentales de las desigualdades indica que si multiplicamos ambos miembros por un número negativo, el sentido de la desigualdad cambia. -->
 - [ ] D) $a/c < b/c$
   <!-- feedback: Incorrecto. Al dividir por un número negativo, el sentido de la desigualdad también debe invertirse. -->
@@ -57,11 +57,11 @@ Juan tiene S/ 200 y decide comprar exactamente un juego de destornilladores. ¿C
 ### Opciones
 - [ ] A) 5 martillos
   <!-- feedback: Incorrecto. Al comprar el juego de destornilladores le quedan S/ 160. Al dividir $160 / 25$ resulta $6.4$, por lo que puede comprar más de 5. -->
-- [x] B) 6 martillos
+- [x] D) 6 martillos
   <!-- feedback: Correcto. Juan gasta $200 - 40 = 160$. La inecuación es $25x \le 160$, lo cual da $x \le 6.4$. El máximo entero es 6. -->
-- [ ] C) 7 martillos
+- [ ] B) 7 martillos
   <!-- feedback: Incorrecto. 7 martillos costarían $25 \times 7 = 175$, lo cual excede el presupuesto restante de S/ 160. -->
-- [ ] D) 8 martillos
+- [ ] C) 8 martillos
   <!-- feedback: Incorrecto. Excede significativamente el presupuesto disponible. -->
 
 ### Explicacion Pedagogica
@@ -82,9 +82,9 @@ Determine el conjunto solución de la siguiente inecuación lineal: $3(x - 2) \g
 ### Opciones
 - [ ] A) $x \in [5, +\infty\rangle$
   <!-- feedback: Incorrecto. Error en la transposición de términos y en la dirección final del intervalo. -->
-- [ ] B) $x \in \langle-\infty, 5]$
+- [ ] C) $x \in \langle-\infty, 5]$
   <!-- feedback: Incorrecto. El valor numérico es correcto (5), pero el signo debería ser negativo (-5). -->
-- [x] C) $x \in \langle-\infty, -5]$
+- [x] B) $x \in \langle-\infty, -5]$
   <!-- feedback: Correcto. Resolviendo: $3x - 6 \ge 5x + 4 \Rightarrow -6 - 4 \ge 5x - 3x \Rightarrow -10 \ge 2x \Rightarrow -5 \ge x$. -->
 - [ ] D) $x \in [-5, +\infty\rangle$
   <!-- feedback: Incorrecto. Representa los números mayores que -5, cuando el despeje indica que deben ser menores. -->
@@ -107,9 +107,9 @@ Si el ingreso promedio por cada carrera realizada es de S/ 12, ¿cuántas carrer
 ### Opciones
 - [ ] A) Al menos 13 carreras
   <!-- feedback: Incorrecto. Con 13 carreras la ganancia es $12(13) - 60 = 96$, que no es mayor a 100. -->
-- [x] B) Al menos 14 carreras
+- [x] C) Al menos 14 carreras
   <!-- feedback: Correcto. Planteamos $12n - 60 > 100 \Rightarrow 12n > 160 \Rightarrow n > 13.33$. El mínimo entero superior es 14. -->
-- [ ] C) Al menos 15 carreras
+- [ ] B) Al menos 15 carreras
   <!-- feedback: Incorrecto. Aunque con 15 carreras cumple la condición, no es la cantidad mínima necesaria. -->
 - [ ] D) Al menos 12 carreras
   <!-- feedback: Incorrecto. Con 12 carreras la ganancia neta sería de apenas S/ 84. -->
@@ -130,11 +130,11 @@ Definimos $n$ como el número de carreras. La ganancia neta es Ingresos menos Ga
 Determine el conjunto solución de la inecuación: $\frac{2x - 3}{4} < \frac{x + 1}{2}$.
 
 ### Opciones
-- [ ] A) $x \in \langle-\infty, 5\rangle$
+- [ ] B) $x \in \langle-\infty, 5\rangle$
   <!-- feedback: Incorrecto. Revise el despeje, la variable $x$ se elimina en el proceso. -->
-- [ ] B) $x \in \langle 5, +\infty\rangle$
+- [ ] C) $x \in \langle 5, +\infty\rangle$
   <!-- feedback: Incorrecto. La inecuación no depende del valor de $x$ tras simplificarla. -->
-- [x] C) $x \in \mathbb{R}$
+- [x] A) $x \in \mathbb{R}$
   <!-- feedback: Correcto. Multiplicando por 4: $2x - 3 < 2(x + 1) \Rightarrow 2x - 3 < 2x + 2 \Rightarrow -3 < 2$. Como esto es siempre cierto, la solución es todo $\mathbb{R}$. -->
 - [ ] D) $\emptyset$ (Conjunto vacío)
   <!-- feedback: Incorrecto. La desigualdad resultante es verdadera, por lo que existen soluciones. -->
@@ -155,11 +155,11 @@ Al resolver la inecuación, multiplicamos ambos lados por el MCM (4): $2x - 3 < 
 El largo de la zona de juegos debe ser exactamente 10 metros más que el ancho. Si el presupuesto para la valla permite cubrir un perímetro máximo de 100 metros, ¿cuál es el rango de valores posibles para el ancho ($x$)?
 
 ### Opciones
-- [ ] A) $x \le 40$
+- [ ] B) $x \le 40$
   <!-- feedback: Incorrecto. No consideró que el perímetro involucra dos veces el largo y dos veces el ancho. -->
-- [ ] B) $x \le 25$
+- [ ] C) $x \le 25$
   <!-- feedback: Incorrecto. Con un ancho de 25, el largo sería 35 y el perímetro 120. -->
-- [x] C) $0 < x \le 20$
+- [x] A) $0 < x \le 20$
   <!-- feedback: Correcto. Perímetro: $2(x + x + 10) \le 100 \Rightarrow 4x + 20 \le 100 \Rightarrow 4x \le 80 \Rightarrow x \le 20$. Como es una medida, $x > 0$. -->
 - [ ] D) $10 \le x \le 20$
   <!-- feedback: Incorrecto. No hay restricción que obligue al ancho a ser mayor o igual a 10. -->
@@ -208,9 +208,9 @@ Se resuelven ambas inecuaciones independientemente. La primera da $x > 4$ y la s
 ### Opciones
 - [ ] A) Más de 15 GB
   <!-- feedback: Incorrecto. A los 15 GB el costo del Plan Básico es $30 + 0.5(15) = 37.5$, aún más barato que 45. -->
-- [ ] B) Más de 20 GB
+- [ ] C) Más de 20 GB
   <!-- feedback: Incorrecto. A los 20 GB el costo es $30 + 10 = 40$. -->
-- [x] C) Más de 30 GB
+- [x] B) Más de 30 GB
   <!-- feedback: Correcto. Planteamos $30 + 0.50x > 45 \Rightarrow 0.50x > 15 \Rightarrow x > 30$. -->
 - [ ] D) Más de 45 GB
   <!-- feedback: Incorrecto. El punto de ahorro se alcanza antes de este consumo. -->
@@ -233,9 +233,9 @@ Determine el conjunto solución de la inecuación con valor absoluto: $|x - 5| \
 ### Opciones
 - [ ] A) $x \in \langle 2, 8 \rangle$
   <!-- feedback: Incorrecto. La desigualdad es "menor o igual", por lo que el intervalo debe ser cerrado. -->
-- [x] B) $x \in [2, 8]$
+- [x] C) $x \in [2, 8]$
   <!-- feedback: Correcto. Por propiedad: $-3 \le x - 5 \le 3$. Sumando 5 en todos los lados obtenemos $2 \le x \le 8$. -->
-- [ ] C) $x \in [-8, -2]$
+- [ ] B) $x \in [-8, -2]$
   <!-- feedback: Incorrecto. Error en la aplicación de los signos al eliminar las barras de valor absoluto. -->
 - [ ] D) $x \in \langle-\infty, 2] \cup [8, +\infty\rangle$
   <!-- feedback: Incorrecto. Este sería el resultado si la desigualdad original fuera "mayor o igual". -->
@@ -256,9 +256,9 @@ La propiedad $|x - a| \le b$ equivale a la inecuación doble $-b \le x - a \le b
 Si se requiere que el volumen de agua en el tanque esté en el rango de 1400 a 2000 litros inclusive para realizar labores de riego, ¿durante cuántas horas ($h$) debe permanecer abierto el canal?
 
 ### Opciones
-- [ ] A) De 10 a 20 horas
+- [ ] B) De 10 a 20 horas
   <!-- feedback: Incorrecto. Error en la resta del volumen inicial. -->
-- [x] B) De 15 a 30 horas
+- [x] A) De 15 a 30 horas
   <!-- feedback: Correcto. Inecuación: $1400 \le 800 + 40h \le 2000$. Restando 800: $600 \le 40h \le 1200$. Dividiendo por 40: $15 \le h \le 30$. -->
 - [ ] C) De 20 a 45 horas
   <!-- feedback: Incorrecto. El límite superior excedería la capacidad deseada. -->
@@ -306,9 +306,9 @@ Identificamos los puntos críticos (donde el numerador o denominador son cero): 
 Si cada botella se vende a S/ 50, ¿cuál es el número mínimo de botellas que debe vender al mes para que su utilidad neta sea superior a S/ 5000?
 
 ### Opciones
-- [ ] A) 266 botellas
+- [ ] B) 266 botellas
   <!-- feedback: Incorrecto. Con este número la utilidad es exactamente 4980. -->
-- [x] B) 267 botellas
+- [x] A) 267 botellas
   <!-- feedback: Correcto. Utilidad = $50x - (20x + 3000) = 30x - 3000$. Planteamos $30x - 3000 > 5000 \Rightarrow 30x > 8000 \Rightarrow x > 266.66$. Mínimo 267. -->
 - [ ] C) 167 botellas
   <!-- feedback: Incorrecto. Olvidó sumar los costos fijos al calcular la meta de ingresos. -->
@@ -333,9 +333,9 @@ La edad de un estudiante de secundaria es tal que, si se le suma 8, el resultado
 ### Opciones
 - [ ] A) 14 años
   <!-- feedback: Incorrecto. Satisface la segunda condición pero hay que verificar la primera. $14+8=22$, $3(14)-20=22$. No es estrictamente mayor. -->
-- [x] B) 13 años
+- [x] C) 13 años
   <!-- feedback: Correcto. Inecuación: $x + 8 > 3x - 20 \Rightarrow 28 > 2x \Rightarrow 14 > x$. Como es menor que 14, la máxima edad entera es 13. -->
-- [ ] C) 12 años
+- [ ] B) 12 años
   <!-- feedback: Incorrecto. No es la máxima edad posible. -->
 - [ ] D) 15 años
   <!-- feedback: Incorrecto. Contradice la premisa de ser menor de 15 años y la inecuación resultante. -->
@@ -358,11 +358,11 @@ Resuelva la inecuación: $|x - 2| \le |2x + 1|$.
 ### Opciones
 - [ ] A) $x \in [-3, 1/3]$
   <!-- feedback: Incorrecto. Este es el intervalo donde la desigualdad no se cumple. -->
-- [x] B) $x \in \langle-\infty, -3] \cup [1/3, +\infty\rangle$
+- [x] D) $x \in \langle-\infty, -3] \cup [1/3, +\infty\rangle$
   <!-- feedback: Correcto. Elevando al cuadrado: $(x-2)^2 \le (2x+1)^2 \Rightarrow x^2-4x+4 \le 4x^2+4x+1 \Rightarrow 0 \le 3x^2+8x-3$. Raíces: -3 y 1/3. El intervalo es el exterior. -->
-- [ ] C) $x \in [-3, +\infty\rangle$
+- [ ] B) $x \in [-3, +\infty\rangle$
   <!-- feedback: Incorrecto. Falta la rama negativa de la solución. -->
-- [ ] D) $x \in [-1/3, 3]$
+- [ ] C) $x \in [-1/3, 3]$
   <!-- feedback: Incorrecto. Error en el cálculo de las raíces de la cuadrática auxiliar. -->
 
 ### Explicacion Pedagogica
@@ -408,9 +408,9 @@ Evaluamos sistemáticamente las posibilidades para enteros positivos. De $2x + y
 Se tienen dos soluciones de ácido: una al 20% y otra al 50%. Se desean mezclar para obtener 12 litros de una solución cuya concentración esté entre el 30% y el 40% inclusive. ¿En qué rango de litros debe estar la cantidad de solución al 50% ($x$)?
 
 ### Opciones
-- [ ] A) $[2, 6]$ litros
+- [ ] B) $[2, 6]$ litros
   <!-- feedback: Incorrecto. Error en el planteamiento de la concentración final. -->
-- [x] B) $[4, 8]$ litros
+- [x] A) $[4, 8]$ litros
   <!-- feedback: Correcto. Ácido total: $0.5x + 0.2(12-x) = 0.3x + 2.4$. Inecuación: $0.3(12) \le 0.3x + 2.4 \le 0.4(12) \Rightarrow 3.6 \le 0.3x + 2.4 \le 4.8 \Rightarrow 1.2 \le 0.3x \le 2.4 \Rightarrow 4 \le x \le 8$. -->
 - [ ] C) $[5, 7]$ litros
   <!-- feedback: Incorrecto. Intervalo demasiado estrecho. -->
@@ -433,9 +433,9 @@ Sea $x$ los litros al 50%. Los litros al 20% son $12-x$. La cantidad de ácido p
 Si el conjunto solución de la inecuación en $x$: $mx + 3 < 2x + n$ es el conjunto vacío ($\emptyset$), ¿qué relación debe cumplirse necesariamente entre los parámetros reales $m$ y $n$?
 
 ### Opciones
-- [ ] A) $m = 2$ y $n > 3$
+- [ ] B) $m = 2$ y $n > 3$
   <!-- feedback: Incorrecto. Si $n > 3$ y $m = 2$, la inecuación $3 < n$ es siempre cierta, por lo que la solución sería $\mathbb{R}$, no vacío. -->
-- [x] B) $m = 2$ y $n \le 3$
+- [x] A) $m = 2$ y $n \le 3$
   <!-- feedback: Correcto. Si $m=2$, la inecuación queda $2x + 3 < 2x + n$, lo cual simplifica a $3 < n$. Si $n \le 3$, esta desigualdad es falsa para todo $x$, por lo que la solución es vacía. -->
 - [ ] C) $m > 2$ y $n = 3$
   <!-- feedback: Incorrecto. Si $m \ne 2$, siempre habrá un intervalo de solución. -->
@@ -461,11 +461,11 @@ $\begin{cases} \frac{x+1}{3} - \frac{x-2}{2} > 1 \\ \frac{2x-3}{5} \le 1 \end{ca
 ### Opciones
 - [ ] A) 15
   <!-- feedback: Incorrecto. Al resolver el sistema se obtiene un intervalo que no está acotado por debajo. -->
-- [ ] B) 18
+- [ ] C) 18
   <!-- feedback: Incorrecto. No es posible determinar una suma finita de enteros. -->
-- [ ] C) 26
+- [ ] D) 26
   <!-- feedback: Incorrecto. El conjunto solución incluye infinitos números negativos. -->
-- [x] D) El conjunto solución no tiene cota inferior (suma divergente)
+- [x] B) El conjunto solución no tiene cota inferior (suma divergente)
   <!-- feedback: Correcto. Al resolver la primera inecuación obtenemos $x < 2$. La segunda da $x \le 4$. La intersección de ambas es $x < 2$, un intervalo abierto hacia el infinito negativo que contiene infinitos enteros. -->
 
 ### Explicacion Pedagogica
@@ -488,13 +488,13 @@ $x + y \ge 10$
 Si $x, y$ son enteros positivos, ¿cuántas parejas $(x, y)$ diferentes cumplen con todas las condiciones?
 
 ### Opciones
-- [x] A) Solo una pareja
+- [x] D) Solo una pareja
   <!-- feedback: Correcto. Probando valores enteros que satisfagan $x + y \ge 10$ y las restricciones de tiempo: el par $(4, 6)$ cumple ($12+12=24$ y $4+12=16$). Para $y=5$, $x \ge 5$ pero $3(5)+2(5)=25 > 24$. Para $y=7$, $x \ge 3$ pero $x \le 16-14=2$. La única solución es $(4, 6)$. -->
-- [ ] B) Dos parejas
+- [ ] A) Dos parejas
   <!-- feedback: Incorrecto. Solo existe una combinación de enteros positivos que satisface el sistema. -->
-- [ ] C) Tres parejas
+- [ ] B) Tres parejas
   <!-- feedback: Incorrecto. El área factible con coordenadas enteras es extremadamente reducida. -->
-- [ ] D) Ninguna pareja
+- [ ] C) Ninguna pareja
   <!-- feedback: Incorrecto. El par $(4, 6)$ es una solución válida para el sistema propuesto. -->
 
 ### Explicacion Pedagogica
@@ -513,9 +513,9 @@ Se trata de un problema de programación lineal entera. Al graficar las inecuaci
 Determine el valor máximo que puede tomar la expresión $f(x) = \frac{x^2 + 1}{x^2 + x + 1}$ para cualquier valor real de $x$.
 
 ### Opciones
-- [ ] A) 1
+- [ ] B) 1
   <!-- feedback: Incorrecto. Para $x=-1$, $f(-1) = 2/1 = 2$, por lo que el máximo es al menos 2. -->
-- [x] B) 2
+- [x] A) 2
   <!-- feedback: Correcto. Sea $y = \frac{x^2+1}{x^2+x+1} \Rightarrow (y-1)x^2 + yx + (y-1) = 0$. Para $x \in \mathbb{R}$, $\Delta = y^2 - 4(y-1)^2 \ge 0 \Rightarrow (y - 2y + 2)(y + 2y - 2) \ge 0 \Rightarrow (2-y)(3y-2) \ge 0$. Esto ocurre si $2/3 \le y \le 2$. El máximo es 2. -->
 - [ ] C) 4/3
   <!-- feedback: Incorrecto. Este es un valor dentro del rango, pero no es el valor máximo. -->

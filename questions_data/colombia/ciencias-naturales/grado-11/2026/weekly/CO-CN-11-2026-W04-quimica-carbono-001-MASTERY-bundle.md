@@ -57,11 +57,11 @@ El átomo de carbono tiene número atómico $Z=6$. Su configuración electrónic
 ¿Qué propiedad fundamental del átomo de carbono le permite formar cadenas largas y estables (lineales, ramificadas y cíclicas)?
 
 ### Opciones
-- [x] A) La concatenación derivada de su tetravalencia y la estabilidad del enlace covalente C-C.
+- [x] C) La concatenación derivada de su tetravalencia y la estabilidad del enlace covalente C-C.
   <!-- feedback: Correcto. La concatenación es la capacidad de combinarse consigo mismo mediante enlaces covalentes estables. -->
-- [ ] B) Su alta electronegatividad que le permite formar enlaces iónicos fuertes.
+- [ ] A) Su alta electronegatividad que le permite formar enlaces iónicos fuertes.
   <!-- feedback: Incorrecto. El carbono no forma preferentemente enlaces iónicos sino covalentes apolares o ligeramente polares. -->
-- [ ] C) La emisión espontánea de radiación gamma desde su núcleo.
+- [ ] B) La emisión espontánea de radiación gamma desde su núcleo.
   <!-- feedback: Incorrecto. La radiactividad es una propiedad nuclear (como en C-14), no responsable de la química orgánica estructural. -->
 - [ ] D) Su capacidad de actuar como gas noble en condiciones ambientales.
   <!-- feedback: Incorrecto. El carbono no es un gas noble; es un no metal reactivo tetravalente. -->
@@ -103,13 +103,13 @@ La hibridación $sp^3$ combina un orbital $s$ y tres orbitales $p$, originando 4
 ¿Qué tipo de hibridación presenta cada átomo de carbono en la molécula de eteno ($H_2C=CH_2$)?
 
 ### Opciones
-- [x] A) Hibridación $sp^2$.
+- [x] D) Hibridación $sp^2$.
   <!-- feedback: Correcto. Los carbonos con enlace doble presentan tres orbitales híbridos $sp^2$ y un orbital $p$ puro no hibridado. -->
-- [ ] B) Hibridación $sp^3$.
+- [ ] A) Hibridación $sp^3$.
   <!-- feedback: Incorrecto. $sp^3$ es propia de carbonos con 4 enlaces sencillos $\sigma$. -->
-- [ ] C) Hibridación $sp$.
+- [ ] B) Hibridación $sp$.
   <!-- feedback: Incorrecto. $sp$ es propia de carbonos con enlace triple o enlaces dobles acumulados. -->
-- [ ] D) Hibridación $d^2sp^3$.
+- [ ] C) Hibridación $d^2sp^3$.
   <!-- feedback: Incorrecto. El carbono no utiliza orbitales $d$ en su capa de valencia. -->
 
 ### Explicacion Pedagogica
@@ -126,9 +126,9 @@ En el eteno ($H_2C=CH_2$), cada carbono está unido a tres átomos (dos hidróge
 ¿Cuántos enlaces de tipo sigma ($\sigma$) y pi ($pi$) existen en la molécula de etino ($HC \equiv CH$)?
 
 ### Opciones
-- [x] A) 3 enlaces $\sigma$ y 2 enlaces $pi$.
+- [x] B) 3 enlaces $\sigma$ y 2 enlaces $pi$.
   <!-- feedback: Correcto. Cada enlace C-H es $1\sigma$ (total 2). El enlace triple C$equiv$C contiene $1\sigma$ y $2\pi$. Total: $3\sigma$ y $2\pi$. -->
-- [ ] B) 2 enlaces $\sigma$ y 3 enlaces $pi$.
+- [ ] A) 2 enlaces $\sigma$ y 3 enlaces $pi$.
   <!-- feedback: Incorrecto. Conteo invertido de la naturaleza de los enlaces en el triple enlace. -->
 - [ ] C) 5 enlaces $\sigma$ y 0 enlaces $pi$.
   <!-- feedback: Incorrecto. Corresponde a una molécula con solo enlaces sencillos. -->
@@ -172,9 +172,9 @@ En la fórmula $CH_3-C(CH_3)_2-CH_2-CH(CH_3)-CH_3$: Los 5 metilos son primarios 
 ¿Cuál es su fórmula molecular según la fórmula general de los alcanos ($C_n H_{2n+2}$)?
 
 ### Opciones
-- [x] A) $C_6 H_{14}$
+- [x] B) $C_6 H_{14}$
   <!-- feedback: Correcto. Para $n=6$, $2n+2 = 2(6)+2 = 14$. Su fórmula molecular es $C_6H_{14}$ (hexano). -->
-- [ ] B) $C_6 H_{12}$
+- [ ] A) $C_6 H_{12}$
   <!-- feedback: Incorrecto. $C_n H_{2n}$ corresponde a alquenos acíclicos o cicloalcanos. -->
 - [ ] C) $C_6 H_{10}$
   <!-- feedback: Incorrecto. $C_n H_{2n-2}$ corresponde a alquinos acíclicos o cicloalquenos. -->
@@ -218,13 +218,13 @@ En el grafito, el carbono presenta hibridación $sp^2$, dejando un orbital $p$ d
 ¿Qué tipo de relación de isomería existe entre el butane y el isobutano?
 
 ### Opciones
-- [x] A) Isomería estructural de cadena (o esqueleto).
+- [x] D) Isomería estructural de cadena (o esqueleto).
   <!-- feedback: Correcto. Tienen la misma fórmula molecular ($C_4H_{10}$) pero diferente conectividad en la cadena carbonada. -->
-- [ ] B) Isomería óptica (enantiómeros).
+- [ ] A) Isomería óptica (enantiómeros).
   <!-- feedback: Incorrecto. Ninguno posee centros quirales (carbonos asimétricos). -->
-- [ ] C) Isomería geométrica ($cis$-$trans$).
+- [ ] B) Isomería geométrica ($cis$-$trans$).
   <!-- feedback: Incorrecto. La isomería geométrica requiere enlaces dobles con restricción de rotación. -->
-- [ ] D) Isomería de posición de grupo funcional.
+- [ ] C) Isomería de posición de grupo funcional.
   <!-- feedback: Incorrecto. Son alcanos simples sin grupos funcionales. -->
 
 ### Explicacion Pedagogica
@@ -241,11 +241,11 @@ Los isómeros de cadena son compuestos con idéntica fórmula molecular ($C_4H_{
 ¿Qué condición estructural debe cumplir un átomo de carbono para ser considerado un centro quiral o asimétrico ($C^*$)?
 
 ### Opciones
-- [x] A) Estar unido mediante cuatro enlaces sencillos a cuatro sustituyentes totalmente diferentes entre sí.
+- [x] C) Estar unido mediante cuatro enlaces sencillos a cuatro sustituyentes totalmente diferentes entre sí.
   <!-- feedback: Correcto. Un carbono quiral ($sp^3$) unido a 4 grupos distintos carece de plano de simetría y presenta actividad óptica. -->
-- [ ] B) Presentar un enlace doble $C=C$ con sustituyentes iguales en cada carbono.
+- [ ] A) Presentar un enlace doble $C=C$ con sustituyentes iguales en cada carbono.
   <!-- feedback: Incorrecto. Los carbonos $sp^2$ de enlace doble son planos e insaturados, no quirales. -->
-- [ ] C) Tener hibridación $sp$ y estar unido a dos átomos de oxígeno.
+- [ ] B) Tener hibridación $sp$ y estar unido a dos átomos de oxígeno.
   <!-- feedback: Incorrecto. Corresponde a la molécula lineal de $CO_2$, altamente simétrica. -->
 - [ ] D) Estar unido a tres átomos de hidrógeno y un grupo metilo.
   <!-- feedback: Incorrecto. Tendría tres sustituyentes idénticos (hidrógenos), por lo que es aquiral. -->
@@ -264,14 +264,14 @@ Un carbono quiral (estereocentro) es un átomo de carbono con hibridación $sp^3
 Aunque los enlaces $C-H$ y $C-Cl$ son polares debido a diferencias de electronegatividad, ¿por qué el $CH_4$ es apolar y el $CH_3Cl$ es polar?
 
 ### Opciones
-- [x] A) Por la simetría tetraédrica regular del $CH_4$, donde la suma vectorial de los momentos dipolares se anula ($\mu = 0$), a diferencia del $CH_3Cl$ asimétrico ($mu
+- [x] D) Por la simetría tetraédrica regular del $CH_4$, donde la suma vectorial de los momentos dipolares se anula ($\mu = 0$), a diferencia del $CH_3Cl$ asimétrico ($mu
 eq 0$).
   <!-- feedback: Correcto. En el $CH_4$ la geometría tetraédrica perfecta cancela los dipolos. En el $CH_3Cl$ la presencia del cloro rompe la simetría vectorial. -->
-- [ ] B) Porque el $CH_4$ no posee electrones de valencia en sus enlaces.
+- [ ] A) Porque el $CH_4$ no posee electrones de valencia en sus enlaces.
   <!-- feedback: Incorrecto. El metano comparte 8 electrones de valencia en sus 4 enlaces covalentes. -->
-- [ ] C) Porque el cloro en el $CH_3Cl$ destruye los orbitales híbridos del carbono.
+- [ ] B) Porque el cloro en el $CH_3Cl$ destruye los orbitales híbridos del carbono.
   <!-- feedback: Incorrecto. El carbono conserva su hibridación $sp^3$ tetraédrica distorsionada. -->
-- [ ] D) Porque el $CH_4$ es un gas y el $CH_3Cl$ es un sólido iónico.
+- [ ] C) Porque el $CH_4$ es un gas y el $CH_3Cl$ es un sólido iónico.
   <!-- feedback: Incorrecto. Ambos son compuestos covalentes moleculares. -->
 
 ### Explicacion Pedagogica
@@ -288,9 +288,9 @@ La polaridad molecular depende de la geometría espacial de los vectores de mome
 ¿Cuál es la tendencia correcta de los ángulos de enlace al pasar de la hibridación $sp^3$ a $sp^2$ y luego a $sp$?
 
 ### Opciones
-- [x] A) Los ángulos aumentan progresivamente: $109.5^\circ \rightarrow 120^\circ \rightarrow 180^\circ$.
+- [x] B) Los ángulos aumentan progresivamente: $109.5^\circ \rightarrow 120^\circ \rightarrow 180^\circ$.
   <!-- feedback: Correcto. $sp^3$ (tetraédrico, $109.5^\circ$), $sp^2$ (trigonal plano, $120^\circ$) y $sp$ (lineal, $180^\circ$). -->
-- [ ] B) Los ángulos disminuyen: $180^\circ \rightarrow 120^\circ \rightarrow 109.5^\circ$.
+- [ ] A) Los ángulos disminuyen: $180^\circ \rightarrow 120^\circ \rightarrow 109.5^\circ$.
   <!-- feedback: Incorrecto. Secuencia invertida. -->
 - [ ] C) Permanece constante en $90^\circ$ en los tres compuestos.
   <!-- feedback: Incorrecto. Los orbitales híbridos repelen al máximo sus dominios electrónicos en 3D. -->
@@ -334,9 +334,9 @@ El enlace $pi$ se forma por el solapamiento lateral de dos orbitales $p$ paralel
 ¿Cuál de los tres isómeros presenta el menor punto de ebullición y cuál es la causa estructural?
 
 ### Opciones
-- [x] A) El 2,2-dimetilpropano, porque su estructura altamente ramificada es esférica, reduciendo el área de contacto y las fuerzas de Van der Waals (London).
+- [x] B) El 2,2-dimetilpropano, porque su estructura altamente ramificada es esférica, reduciendo el área de contacto y las fuerzas de Van der Waals (London).
   <!-- feedback: Correcto. A mayor ramificación, la molécula se vuelve más compacta y esférica, disminuyendo el área superficial de interacción intermolecular. -->
-- [ ] B) El pentano lineal, porque posee mayor masa molar que los demás.
+- [ ] A) El pentano lineal, porque posee mayor masa molar que los demás.
   <!-- feedback: Incorrecto. Los tres tienen idéntica masa molar ($72\text{ g/mol}$) por ser isómeros. -->
 - [ ] C) El 2-metilbutano, porque presenta enlaces iónicos intermoleculares.
   <!-- feedback: Incorrecto. Todos son alcanos apolares unidos solo por fuerzas de dispersión de London. -->
@@ -380,9 +380,9 @@ La tensión torsional en el etano eclipsado se debe a la repulsión electrostát
 ¿Cómo se denomina este tipo especial de isomería estructural?
 
 ### Opciones
-- [x] A) Isomería de función (o de grupo funcional).
+- [x] B) Isomería de función (o de grupo funcional).
   <!-- feedback: Correcto. Tienen igual fórmula molecular ($C_3H_6O$) pero pertenecen a familias químicas distintas (aldehído vs cetona). -->
-- [ ] B) Isomería de posición.
+- [ ] A) Isomería de posición.
   <!-- feedback: Incorrecto. Ocurre cuando el mismo grupo funcional cambia de posición en la misma cadena. -->
 - [ ] C) Isomería de cadena.
   <!-- feedback: Incorrecto. Ocurre cuando cambia la ramificación del esqueleto hidrocarbonado. -->
@@ -403,9 +403,9 @@ La isomería de función se presenta cuando compuestos con idéntica fórmula mo
 ¿Cuál es la fórmula molecular de la sustancia y a qué familia de biomoléculas pertenece?
 
 ### Opciones
-- [x] A) $C_6H_{12}O_6$, correspondiente a un monosacárido (carbohidrato como la glucosa).
+- [x] B) $C_6H_{12}O_6$, correspondiente a un monosacárido (carbohidrato como la glucosa).
   <!-- feedback: Correcto. Masa empírica de $CH_2O = 12 + 2 + 16 = 30\text{ g/mol}$. Factor $n = 180 / 30 = 6$. Fórmula molecular: $C_6H_{12}O_6$. -->
-- [ ] B) $C_3H_6O_3$, correspondiente a un ácido graso.
+- [ ] A) $C_3H_6O_3$, correspondiente a un ácido graso.
   <!-- feedback: Incorrecto. La masa molar de $C_3H_6O_3$ es $90\text{ g/mol}$, la mitad de la requerida. -->
 - [ ] C) $C_12H_{24}O_{12}$, correspondiente a un lípido complejo.
   <!-- feedback: Incorrecto. La masa molar sería de $360\text{ g/mol}$. -->
@@ -426,13 +426,13 @@ Masa de la fórmula empírica $CH_2O = 12(C) + 2(H) + 16(O) = 30\text{ g/mol}$. 
 ¿Por qué el benceno es excepcionalmente estable y aromático mientras que el ciclooctatetraeno es no aromático y reactivo?
 
 ### Opciones
-- [x] A) El benceno es plano con 6 electrones $pi$ ($n=1$ en $4n+2$), mientras el ciclooctatetraeno tiene 8 electrones $pi$ ($4n$ electrones), adoptando una conformación no plana de "tina" para evitar la antiaromaticidad.
+- [x] D) El benceno es plano con 6 electrones $pi$ ($n=1$ en $4n+2$), mientras el ciclooctatetraeno tiene 8 electrones $pi$ ($4n$ electrones), adoptando una conformación no plana de "tina" para evitar la antiaromaticidad.
   <!-- feedback: Correcto. El benceno cumple $4(1)+2 = 6$ electrones $\pi$ delocalizados. El ciclooctatetraeno tiene 8 electrones $\pi$, incumple la regla y se pliega para no ser antiaromático. -->
-- [ ] B) El benceno posee enlaces iónicos y el ciclooctatetraeno contiene átomos de nitrógeno.
+- [ ] A) El benceno posee enlaces iónicos y el ciclooctatetraeno contiene átomos de nitrógeno.
   <!-- feedback: Incorrecto. Ambos son hidrocarburos puramente covalentes de carbono e hidrógeno. -->
-- [ ] C) El ciclooctatetraeno presenta carbonos con hibridación $sp^3$ exclusivamente.
+- [ ] B) El ciclooctatetraeno presenta carbonos con hibridación $sp^3$ exclusivamente.
   <!-- feedback: Incorrecto. Posee 4 dobles enlaces alternados con carbonos $sp^2$. -->
-- [ ] D) Ambos compuestos son exactamente igual de estables por ser monocíclicos conjugados.
+- [ ] C) Ambos compuestos son exactamente igual de estables por ser monocíclicos conjugados.
   <!-- feedback: Incorrecto. La energía de resonancia del benceno le confiere una estabilidad química superior. -->
 
 ### Explicacion Pedagogica

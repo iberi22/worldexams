@@ -34,9 +34,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Cuál es la definición formal de logaritmo de un número positivo y en base b (b > 0, b != 1)?
 
 ### Opciones
-- [x] A) log_b(x) = y si y solo si b^y = x <!-- feedback: ¡Correcto! El logaritmo es el exponente al que se debe elevar la base b para obtener el número x. -->
-- [ ] B) log_b(x) = y si y solo si x^y = b <!-- feedback: Incorrecto. Invertiste los roles de la base y el exponente. -->
-- [ ] C) log_b(x) = y si y solo si b * y = x <!-- feedback: Incorrecto. Confundiste la potenciación con la multiplicación lineal. -->
+- [x] C) log_b(x) = y si y solo si b^y = x <!-- feedback: ¡Correcto! El logaritmo es el exponente al que se debe elevar la base b para obtener el número x. -->
+- [ ] A) log_b(x) = y si y solo si x^y = b <!-- feedback: Incorrecto. Invertiste los roles de la base y el exponente. -->
+- [ ] B) log_b(x) = y si y solo si b * y = x <!-- feedback: Incorrecto. Confundiste la potenciación con la multiplicación lineal. -->
 - [ ] D) log_b(x) = y si y solo si y^b = x <!-- feedback: Incorrecto. Invertiste la base de la potencia con la variable resultante. -->
 
 ### Explicacion Pedagogica
@@ -74,8 +74,8 @@ La propiedad del producto de los logaritmos enuncia que log_b(x * y) = log_b(x) 
 De acuerdo con las propiedades de los logaritmos, ¿a qué es equivalente el logaritmo de una potencia log_b(x^k)?
 
 ### Opciones
-- [x] A) k * log_b(x) <!-- feedback: ¡Correcto! El exponente de la potencia dentro del logaritmo pasa a multiplicar delante de la expresión. -->
-- [ ] B) log_b(x) / k <!-- feedback: Incorrecto. El exponente multiplica al logaritmo, no lo divide. -->
+- [x] B) k * log_b(x) <!-- feedback: ¡Correcto! El exponente de la potencia dentro del logaritmo pasa a multiplicar delante de la expresión. -->
+- [ ] A) log_b(x) / k <!-- feedback: Incorrecto. El exponente multiplica al logaritmo, no lo divide. -->
 - [ ] C) log_b(k * x) <!-- feedback: Incorrecto. El exponente no multiplica al argumento de forma directa dentro de la función logarítmica. -->
 - [ ] D) (log_b(x))^k <!-- feedback: Incorrecto. Elevar todo el logaritmo a la potencia k es una operación completamente distinta. -->
 
@@ -114,9 +114,9 @@ La fórmula universal para el cambio de base es log_a(b) = log_c(b) / log_c(a). 
 Si se sabe que log_10(2) es aproximadamente 0.301, ¿cuál es el valor aproximado de log_10(8)?
 
 ### Opciones
-- [x] A) 0.903 <!-- feedback: ¡Correcto! Como 8 = 2^3, entonces log_10(8) = log_10(2^3) = 3 * log_10(2) = 3 * 0.301 = 0.903. -->
-- [ ] B) 0.602 <!-- feedback: Incorrecto. Este sería el valor de log_10(4), es decir, multiplicando por 2 en lugar de por 3. -->
-- [ ] C) 1.204 <!-- feedback: Incorrecto. Esto representaría multiplicar por 4, lo cual no corresponde con 8 = 2^3. -->
+- [x] C) 0.903 <!-- feedback: ¡Correcto! Como 8 = 2^3, entonces log_10(8) = log_10(2^3) = 3 * log_10(2) = 3 * 0.301 = 0.903. -->
+- [ ] A) 0.602 <!-- feedback: Incorrecto. Este sería el valor de log_10(4), es decir, multiplicando por 2 en lugar de por 3. -->
+- [ ] B) 1.204 <!-- feedback: Incorrecto. Esto representaría multiplicar por 4, lo cual no corresponde con 8 = 2^3. -->
 - [ ] D) 0.100 <!-- feedback: Incorrecto. Dividiste en lugar de multiplicar por el exponente 3. -->
 
 ### Explicacion Pedagogica
@@ -134,10 +134,10 @@ Expresamos 8 como potencia de 2: 8 = 2^3. Aplicando la propiedad de la potencia:
 Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 3. ¿Cuál es la única solución real de x?
 
 ### Opciones
-- [x] A) 4 <!-- feedback: ¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos. -->
-- [ ] B) -2 <!-- feedback: Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida. -->
-- [ ] C) 2 <!-- feedback: Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales. -->
-- [ ] D) 8 <!-- feedback: Incorrecto. No satisface la igualdad al sustituirla en los logaritmos. -->
+- [x] D) 4 <!-- feedback: ¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos. -->
+- [ ] A) -2 <!-- feedback: Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida. -->
+- [ ] B) 2 <!-- feedback: Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales. -->
+- [ ] C) 8 <!-- feedback: Incorrecto. No satisface la igualdad al sustituirla en los logaritmos. -->
 
 ### Explicacion Pedagogica
 Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.
@@ -154,10 +154,10 @@ Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ec
 Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 4. ¿Cuál es la única solución real de x?
 
 ### Opciones
-- [x] A) 4.12 <!-- feedback: ¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos. -->
-- [ ] B) -2 <!-- feedback: Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida. -->
-- [ ] C) 2 <!-- feedback: Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales. -->
-- [ ] D) 8 <!-- feedback: Incorrecto. No satisface la igualdad al sustituirla en los logaritmos. -->
+- [x] D) 4.12 <!-- feedback: ¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos. -->
+- [ ] A) -2 <!-- feedback: Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida. -->
+- [ ] B) 2 <!-- feedback: Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales. -->
+- [ ] C) 8 <!-- feedback: Incorrecto. No satisface la igualdad al sustituirla en los logaritmos. -->
 
 ### Explicacion Pedagogica
 Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.
@@ -174,10 +174,10 @@ Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ec
 Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 3. ¿Cuál es la única solución real de x?
 
 ### Opciones
-- [x] A) 4 <!-- feedback: ¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos. -->
-- [ ] B) -2 <!-- feedback: Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida. -->
-- [ ] C) 2 <!-- feedback: Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales. -->
-- [ ] D) 8 <!-- feedback: Incorrecto. No satisface la igualdad al sustituirla en los logaritmos. -->
+- [x] D) 4 <!-- feedback: ¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos. -->
+- [ ] A) -2 <!-- feedback: Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida. -->
+- [ ] B) 2 <!-- feedback: Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales. -->
+- [ ] C) 8 <!-- feedback: Incorrecto. No satisface la igualdad al sustituirla en los logaritmos. -->
 
 ### Explicacion Pedagogica
 Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.
@@ -194,8 +194,8 @@ Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ec
 Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 4. ¿Cuál es la única solución real de x?
 
 ### Opciones
-- [x] A) 4.12 <!-- feedback: ¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos. -->
-- [ ] B) -2 <!-- feedback: Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida. -->
+- [x] B) 4.12 <!-- feedback: ¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos. -->
+- [ ] A) -2 <!-- feedback: Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida. -->
 - [ ] C) 2 <!-- feedback: Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales. -->
 - [ ] D) 8 <!-- feedback: Incorrecto. No satisface la igualdad al sustituirla en los logaritmos. -->
 
@@ -214,8 +214,8 @@ Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ec
 Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 3. ¿Cuál es la única solución real de x?
 
 ### Opciones
-- [x] A) 4 <!-- feedback: ¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos. -->
-- [ ] B) -2 <!-- feedback: Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida. -->
+- [x] B) 4 <!-- feedback: ¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos. -->
+- [ ] A) -2 <!-- feedback: Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida. -->
 - [ ] C) 2 <!-- feedback: Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales. -->
 - [ ] D) 8 <!-- feedback: Incorrecto. No satisface la igualdad al sustituirla en los logaritmos. -->
 
@@ -234,9 +234,9 @@ Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ec
 Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 4. ¿Cuál es la única solución real de x?
 
 ### Opciones
-- [x] A) 4.12 <!-- feedback: ¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos. -->
-- [ ] B) -2 <!-- feedback: Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida. -->
-- [ ] C) 2 <!-- feedback: Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales. -->
+- [x] C) 4.12 <!-- feedback: ¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos. -->
+- [ ] A) -2 <!-- feedback: Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida. -->
+- [ ] B) 2 <!-- feedback: Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales. -->
 - [ ] D) 8 <!-- feedback: Incorrecto. No satisface la igualdad al sustituirla en los logaritmos. -->
 
 ### Explicacion Pedagogica
@@ -254,9 +254,9 @@ Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ec
 Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 3. ¿Cuál es la única solución real de x?
 
 ### Opciones
-- [x] A) 4 <!-- feedback: ¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos. -->
-- [ ] B) -2 <!-- feedback: Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida. -->
-- [ ] C) 2 <!-- feedback: Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales. -->
+- [x] C) 4 <!-- feedback: ¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos. -->
+- [ ] A) -2 <!-- feedback: Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida. -->
+- [ ] B) 2 <!-- feedback: Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales. -->
 - [ ] D) 8 <!-- feedback: Incorrecto. No satisface la igualdad al sustituirla en los logaritmos. -->
 
 ### Explicacion Pedagogica
@@ -294,8 +294,8 @@ Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ec
 Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 3. ¿Cuál es la única solución real de x?
 
 ### Opciones
-- [x] A) 4 <!-- feedback: ¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos. -->
-- [ ] B) -2 <!-- feedback: Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida. -->
+- [x] B) 4 <!-- feedback: ¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos. -->
+- [ ] A) -2 <!-- feedback: Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida. -->
 - [ ] C) 2 <!-- feedback: Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales. -->
 - [ ] D) 8 <!-- feedback: Incorrecto. No satisface la igualdad al sustituirla en los logaritmos. -->
 
@@ -314,8 +314,8 @@ Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ec
 Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 4. ¿Cuál es la única solución real de x?
 
 ### Opciones
-- [x] A) 4.12 <!-- feedback: ¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos. -->
-- [ ] B) -2 <!-- feedback: Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida. -->
+- [x] B) 4.12 <!-- feedback: ¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos. -->
+- [ ] A) -2 <!-- feedback: Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida. -->
 - [ ] C) 2 <!-- feedback: Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales. -->
 - [ ] D) 8 <!-- feedback: Incorrecto. No satisface la igualdad al sustituirla en los logaritmos. -->
 
@@ -334,10 +334,10 @@ Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ec
 Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 3. ¿Cuál es la única solución real de x?
 
 ### Opciones
-- [x] A) 4 <!-- feedback: ¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos. -->
-- [ ] B) -2 <!-- feedback: Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida. -->
-- [ ] C) 2 <!-- feedback: Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales. -->
-- [ ] D) 8 <!-- feedback: Incorrecto. No satisface la igualdad al sustituirla en los logaritmos. -->
+- [x] D) 4 <!-- feedback: ¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos. -->
+- [ ] A) -2 <!-- feedback: Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida. -->
+- [ ] B) 2 <!-- feedback: Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales. -->
+- [ ] C) 8 <!-- feedback: Incorrecto. No satisface la igualdad al sustituirla en los logaritmos. -->
 
 ### Explicacion Pedagogica
 Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.
@@ -354,10 +354,10 @@ Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ec
 Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 4. ¿Cuál es la única solución real de x?
 
 ### Opciones
-- [x] A) 4.12 <!-- feedback: ¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos. -->
-- [ ] B) -2 <!-- feedback: Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida. -->
-- [ ] C) 2 <!-- feedback: Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales. -->
-- [ ] D) 8 <!-- feedback: Incorrecto. No satisface la igualdad al sustituirla en los logaritmos. -->
+- [x] D) 4.12 <!-- feedback: ¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos. -->
+- [ ] A) -2 <!-- feedback: Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida. -->
+- [ ] B) 2 <!-- feedback: Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales. -->
+- [ ] C) 8 <!-- feedback: Incorrecto. No satisface la igualdad al sustituirla en los logaritmos. -->
 
 ### Explicacion Pedagogica
 Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ecuación de segundo grado que resolvemos verificando que el dominio requiera x > 2.
@@ -374,8 +374,8 @@ Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ec
 Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 3. ¿Cuál es la única solución real de x?
 
 ### Opciones
-- [x] A) 4 <!-- feedback: ¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos. -->
-- [ ] B) -2 <!-- feedback: Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida. -->
+- [x] B) 4 <!-- feedback: ¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos. -->
+- [ ] A) -2 <!-- feedback: Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida. -->
 - [ ] C) 2 <!-- feedback: Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales. -->
 - [ ] D) 8 <!-- feedback: Incorrecto. No satisface la igualdad al sustituirla en los logaritmos. -->
 
@@ -394,8 +394,8 @@ Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 3. Esto da la ec
 Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 4. ¿Cuál es la única solución real de x?
 
 ### Opciones
-- [x] A) 4.12 <!-- feedback: ¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos. -->
-- [ ] B) -2 <!-- feedback: Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida. -->
+- [x] B) 4.12 <!-- feedback: ¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos. -->
+- [ ] A) -2 <!-- feedback: Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida. -->
 - [ ] C) 2 <!-- feedback: Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales. -->
 - [ ] D) 8 <!-- feedback: Incorrecto. No satisface la igualdad al sustituirla en los logaritmos. -->
 
@@ -414,8 +414,8 @@ Aplicamos la propiedad de la suma de logaritmos log_2(x(x-2)) = 4. Esto da la ec
 Resuelva la ecuación logarítmica: log_2(x) + log_2(x - 2) = 3. ¿Cuál es la única solución real de x?
 
 ### Opciones
-- [x] A) 4 <!-- feedback: ¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos. -->
-- [ ] B) -2 <!-- feedback: Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida. -->
+- [x] B) 4 <!-- feedback: ¡Correcto! Se resuelve aplicando propiedades y verificando argumentos positivos. -->
+- [ ] A) -2 <!-- feedback: Incorrecto. Produce argumentos negativos en el logaritmo original, por lo que es inválida. -->
 - [ ] C) 2 <!-- feedback: Incorrecto. Si x = 2, log_2(x-2) = log_2(0), que no está definido en reales. -->
 - [ ] D) 8 <!-- feedback: Incorrecto. No satisface la igualdad al sustituirla en los logaritmos. -->
 

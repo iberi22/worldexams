@@ -32,11 +32,11 @@ Este bundle de 10 preguntas trabaja los movimientos de rotación y traslación d
 ### Enunciado
 ¿Cuál es la causa principal del día y la noche en la Tierra?
 ### Opciones
-- [ ] A) Que la Tierra se mueve alrededor del Sol una vez al año
+- [ ] B) Que la Tierra se mueve alrededor del Sol una vez al año
   <!-- feedback: Incorrecto. El movimiento alrededor del Sol produce las estaciones, no el día y la noche. -->
-- [ ] B) Que el Sol gira alrededor de la Tierra por la mañana y por la tarde
+- [ ] C) Que el Sol gira alrededor de la Tierra por la mañana y por la tarde
   <!-- feedback: Incorrecto. El Sol no gira alrededor de la Tierra; este modelo geocéntrico está descartado. -->
-- [x] C) Que la Tierra gira sobre su propio eje, lo que llamamos rotación
+- [x] A) Que la Tierra gira sobre su propio eje, lo que llamamos rotación
   <!-- feedback: Correcto. El giro de la Tierra sobre su eje hace que las regiones entren y salgan de la zona iluminada por el Sol. -->
 - [ ] D) Que la Luna tapa periódicamente la luz del Sol
   <!-- feedback: Incorrecto. La Luna puede tapar al Sol en un eclipse solar, pero no cada día. -->
@@ -74,9 +74,9 @@ Si en Bogotá son las doce del mediodía porque el Sol ilumina directamente esa 
 ### Opciones
 - [ ] A) También son las doce del mediodía en Tokio
   <!-- feedback: Incorrecto. No puede ser mediodía en los dos extremos al mismo tiempo. -->
-- [ ] B) En Tokio también es de día porque siempre llega luz solar a algún lugar del planeta
+- [ ] C) En Tokio también es de día porque siempre llega luz solar a algún lugar del planeta
   <!-- feedback: Incorrecto. Lo que se pregunta es la hora local de Tokio, donde el Sol no ilumina de frente. -->
-- [x] C) En Tokio es aproximadamente medianoche, porque el Sol ilumina el lado opuesto de la Tierra
+- [x] B) En Tokio es aproximadamente medianoche, porque el Sol ilumina el lado opuesto de la Tierra
   <!-- feedback: Correcto. Al girar, el lado opuesto a Bogotá queda en sombra y allí es de noche. -->
 - [ ] D) En Tokio está oscuro porque la Tierra es plana
   <!-- feedback: Incorrecto. La Tierra es esférica y el comportamiento se explica por la rotación, no por su forma plana. -->
@@ -94,11 +94,11 @@ La rotación hace que cuando una región está iluminada por el Sol, la ubicada 
 ### Opciones
 - [ ] A) La rotación de la Tierra sobre su propio eje
   <!-- feedback: Incorrecto. La rotación explica el día y la noche, no las estaciones del año. -->
-- [x] B) La traslación de la Tierra alrededor del Sol durante un año
+- [x] D) La traslación de la Tierra alrededor del Sol durante un año
   <!-- feedback: Correcto. La traslación, combinada con la inclinación del eje, da lugar a las estaciones. -->
-- [ ] C) El movimiento de la Luna alrededor de la Tierra
+- [ ] B) El movimiento de la Luna alrededor de la Tierra
   <!-- feedback: Incorrecto. El movimiento lunar produce fases y mareas, no las estaciones. -->
-- [ ] D) La inclinación del eje de forma aislada, sin relación con el Sol
+- [ ] C) La inclinación del eje de forma aislada, sin relación con el Sol
   <!-- feedback: Incorrecto. La inclinación tiene relación directa con la posición relativa respecto al Sol durante la traslación. -->
 ### Explicacion Pedagogica
 La traslación es el recorrido de la Tierra alrededor del Sol, con una duración de aproximadamente 365 días; combinado con la inclinación del eje, hace que los rayos solares lleguen con distinto ángulo a cada hemisferio durante el año, generando las estaciones.
@@ -112,11 +112,11 @@ La traslación es el recorrido de la Tierra alrededor del Sol, con una duración
 ### Enunciado
 ¿Por qué el eje de la Tierra se encuentra inclinado?
 ### Opciones
-- [ ] A) Por pura casualidad, sin ninguna explicación
+- [ ] B) Por pura casualidad, sin ninguna explicación
   <!-- feedback: Incorrecto. La inclinación tiene un origen físico y astronómico. -->
-- [ ] B) Porque la Tierra se cayó sobre uno de sus lados
+- [ ] C) Porque la Tierra se cayó sobre uno de sus lados
   <!-- feedback: Incorrecto. Los planetas no se "caen" ni pierden el eje de manera aleatoria. -->
-- [x] C) Por la forma en que el planeta se formó a partir de polvo y gas, y por los grandes impactos que recibió al inicio de su historia
+- [x] A) Por la forma en que el planeta se formó a partir de polvo y gas, y por los grandes impactos que recibió al inicio de su historia
   <!-- feedback: Correcto. La inclinación surgió durante el proceso de formación y de grandes choques con otros cuerpos. -->
 - [ ] D) Porque la fuerza de gravedad de la Luna empuja el polo sur hacia abajo
   <!-- feedback: Incorrecto. La gravedad lunar no determina la inclinación del eje terrestre. -->
@@ -134,9 +134,9 @@ El eje de la Tierra está inclinado unos 23,5 grados respecto al plano de su ór
 ### Opciones
 - [ ] A) Cali está más lejos del Sol, así que recibe menos calor
   <!-- feedback: Incorrecto. Cali no está más lejos del Sol; está a igual distancia orbital que Bogotá. -->
-- [ ] B) Bogotá está más cerca de la Luna, por eso hace más frío
+- [ ] C) Bogotá está más cerca de la Luna, por eso hace más frío
   <!-- feedback: Incorrecto. La cercanía a la Luna no determina el clima de una ciudad. -->
-- [x] C) La altura sobre el nivel del mar y la latitud generan temperaturas distintas, porque el aire se enrarece con la altitud y calienta menos
+- [x] B) La altura sobre el nivel del mar y la latitud generan temperaturas distintas, porque el aire se enrarece con la altitud y calienta menos
   <!-- feedback: Correcto. Bogotá está a unos 2640 m sobre el nivel del mar, lo que reduce la temperatura promedio. -->
 - [ ] D) Cali tiene más agua y por eso siempre hace más calor
   <!-- feedback: Incorrecto. El agua puede moderar el clima, pero no es la causa principal de la diferencia entre estas ciudades. -->
@@ -156,9 +156,9 @@ Analizar el clima exige considerar varios factores: la altitud modifica la tempe
   <!-- feedback: Incorrecto. Eso ocurriría solo durante un eclipse solar, no todos los días. -->
 - [ ] B) Porque el palo se mueve solo por el calor
   <!-- feedback: Incorrecto. El palo está fijo en el suelo y no se mueve por sí mismo. -->
-- [x] C) Porque la posición aparente del Sol en el cielo cambia a lo largo del día por la rotación de la Tierra
+- [x] D) Porque la posición aparente del Sol en el cielo cambia a lo largo del día por la rotación de la Tierra
   <!-- feedback: Correcto. Al girar la Tierra, los rayos del Sol inciden desde distintos ángulos y la sombra cambia en longitud y orientación. -->
-- [ ] D) Porque el clima nuboso cambia el color de la sombra
+- [ ] C) Porque el clima nuboso cambia el color de la sombra
   <!-- feedback: Incorrecto. Las nubes pueden atenuar el brillo, pero la sombra cambia aunque el cielo esté despejado. -->
 ### Explicacion Pedagogica
 Durante la rotación de la Tierra, el ángulo entre el Sol y un objeto vertical varía a lo largo del día; por eso la sombra se proyecta más corta al mediodía (cuando el Sol está más alto) y se alarga hacia el amanecer y el atardecer.
@@ -172,11 +172,11 @@ Durante la rotación de la Tierra, el ángulo entre el Sol y un objeto vertical 
 ### Enunciado
 ¿Por qué vemos al Sol salir por el oriente y ponerse por el occidente si en realidad la Tierra es la que gira?
 ### Opciones
-- [ ] A) Porque el Sol da vueltas alrededor de la Tierra como en el antiguo modelo geocéntrico
+- [ ] B) Porque el Sol da vueltas alrededor de la Tierra como en el antiguo modelo geocéntrico
   <!-- feedback: Incorrecto. Hoy se sabe que el Sol no orbita la Tierra. -->
-- [ ] B) Porque el cielo gira con el Sol hacia nosotros en bloques completos
+- [ ] C) Porque el cielo gira con el Sol hacia nosotros en bloques completos
   <!-- feedback: Incorrecto. El cielo no es una bóveda sólida que arrastre al Sol. -->
-- [x] C) Por la rotación terrestre, vemos al Sol desplazarse en sentido contrario al giro del planeta, lo que llamamos movimiento aparente
+- [x] A) Por la rotación terrestre, vemos al Sol desplazarse en sentido contrario al giro del planeta, lo que llamamos movimiento aparente
   <!-- feedback: Correcto. Es un efecto de perspectiva: la Tierra gira hacia el oriente y el Sol parece moverse hacia el occidente. -->
 - [ ] D) Por la contaminación del aire que cambia la posición del Sol
   <!-- feedback: Incorrecto. La contaminación puede ocultar el Sol, pero no cambia su trayectoria aparente. -->
@@ -212,11 +212,11 @@ Evaluar exige considerar la latitud: en zonas cercanas al Ecuador la inclinació
 ### Enunciado
 ¿Qué evaluación es la más correcta si la Tierra no tuviera inclinación y su eje se mantuviera totalmente vertical?
 ### Opciones
-- [ ] A) Sería mejor, porque habría cambios muy marcados de estación para todos
+- [ ] B) Sería mejor, porque habría cambios muy marcados de estación para todos
   <!-- feedback: Incorrecto. Sin inclinación los cambios estacionales serían mínimos, no mayores. -->
-- [ ] B) Sería mejor, porque no habría estaciones y eso es siempre positivo
+- [ ] C) Sería mejor, porque no habría estaciones y eso es siempre positivo
   <!-- feedback: Incorrecto. Quitar las estaciones tendría efectos importantes sobre los climas y los seres vivos. -->
-- [x] C) Las estaciones marcadas desaparecerían en todo el planeta, aunque el día y la noche se mantendrían por la rotación
+- [x] A) Las estaciones marcadas desaparecerían en todo el planeta, aunque el día y la noche se mantendrían por la rotación
   <!-- feedback: Correcto. Sin inclinación, los rayos del Sol caerían de forma similar todo el año sobre cada latitud. -->
 - [ ] D) No cambiaría nada, porque la inclinación no afecta al planeta
   <!-- feedback: Incorrecto. La inclinación es justamente lo que produce las variaciones estacionales. -->

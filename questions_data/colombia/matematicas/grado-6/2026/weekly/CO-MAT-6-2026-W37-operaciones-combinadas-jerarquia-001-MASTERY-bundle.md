@@ -86,13 +86,13 @@ La expresión 8 + 2 × 5 se resuelve primero con la multiplicación: 2 × 5 = 10
 ### Enunciado
 ¿Cuál es el resultado de la expresión (6 + 4) × 3?
 ### Opciones
-- [x] A) 30
+- [x] D) 30
   <!-- feedback: Es correcta porque primero se resuelve el paréntesis 6 + 4 = 10 y luego 10 × 3 = 30. -->
-- [ ] B) 18
+- [ ] A) 18
   <!-- feedback: Error conceptual: multiplica 4 × 3 primero e ignora el paréntesis. -->
-- [ ] C) 13
+- [ ] B) 13
   <!-- feedback: Error conceptual: suma todos los números sin usar el paréntesis. -->
-- [ ] D) 24
+- [ ] C) 24
   <!-- feedback: Error conceptual: multiplica los términos del paréntesis entre sí en lugar de sumarlos. -->
 ### Explicacion Pedagogica
 Los signos de agrupación como el paréntesis obligan a resolver primero su contenido. Aquí 6 + 4 = 10 y luego 10 × 3 = 30; el paréntesis cambia el resultado respecto de 6 + 4 × 3.
@@ -105,13 +105,13 @@ Los signos de agrupación como el paréntesis obligan a resolver primero su cont
 ### Enunciado
 ¿Cuál es el resultado de la expresión 20 − 3 × 4 + 2?
 ### Opciones
-- [x] A) 10
+- [x] D) 10
   <!-- feedback: Es correcta porque primero 3 × 4 = 12 y luego 20 − 12 + 2 = 10. -->
-- [ ] B) 70
+- [ ] A) 70
   <!-- feedback: Error conceptual: resta primero 20 − 3, multiplica por 4 y suma 2. -->
-- [ ] C) 6
+- [ ] B) 6
   <!-- feedback: Error conceptual: agrupa la suma 12 + 2 y la resta completa, cambiando el signo de 2. -->
-- [ ] D) 24
+- [ ] C) 24
   <!-- feedback: Error conceptual: multiplica todos los términos y omite el orden correcto. -->
 ### Explicacion Pedagogica
 En 20 − 3 × 4 + 2 primero se multiplica: 3 × 4 = 12. Luego se resuelven sumas y restas de izquierda a derecha: 20 − 12 = 8 y 8 + 2 = 10.
@@ -124,9 +124,9 @@ En 20 − 3 × 4 + 2 primero se multiplica: 3 × 4 = 12. Luego se resuelven suma
 ### Enunciado
 ¿Cuál es el resultado de la expresión 2 × (5 + 3 × 2)?
 ### Opciones
-- [x] A) 22
+- [x] B) 22
   <!-- feedback: Es correcta porque dentro del paréntesis 3 × 2 = 6, 5 + 6 = 11 y 2 × 11 = 22. -->
-- [ ] B) 16
+- [ ] A) 16
   <!-- feedback: Error conceptual: omite la multiplicación 3 × 2 dentro del paréntesis. -->
 - [ ] C) 26
   <!-- feedback: Error conceptual: multiplica 2 × 5 primero y altera el orden interno. -->
@@ -143,9 +143,9 @@ Cuando hay paréntesis, primero se respeta su contenido aplicando la jerarquía 
 ### Enunciado
 ¿Cuál fue el error del estudiante?
 ### Opciones
-- [x] A) Multiplicó 2 por 4 y sumó 1 sin resolver primero el paréntesis
+- [x] B) Multiplicó 2 por 4 y sumó 1 sin resolver primero el paréntesis
   <!-- feedback: Es correcta porque debió hacer 4 + 1 = 5 y luego 10 + 2 × 5 = 20; obtuvo 19 al ignorar el paréntesis. -->
-- [ ] B) Sumó 10 y 2 antes de multiplicar
+- [ ] A) Sumó 10 y 2 antes de multiplicar
   <!-- feedback: Error conceptual: ese procedimiento daría otro valor y no describe el error que produjo 19. -->
 - [ ] C) Dividió en lugar de multiplicar
   <!-- feedback: Error conceptual: no hay divisiones en la expresión, así que no explica el resultado obtenido. -->
@@ -162,11 +162,11 @@ El error fue ignorar el paréntesis. Lo correcto es 4 + 1 = 5, luego 2 × 5 = 10
 ### Enunciado
 ¿Qué se puede concluir al comparar las dos expresiones?
 ### Opciones
-- [x] A) Los paréntesis cambian el resultado: la primera vale 14 y la segunda vale 18
+- [x] C) Los paréntesis cambian el resultado: la primera vale 14 y la segunda vale 18
   <!-- feedback: Es correcta porque 5 × 2 = 10 y 4 + 10 = 14, mientras que (4 + 5) = 9 y 9 × 2 = 18. -->
-- [ ] B) Las dos expresiones dan el mismo resultado
+- [ ] A) Las dos expresiones dan el mismo resultado
   <!-- feedback: Error conceptual: la posición del paréntesis altera el resultado de la operación. -->
-- [ ] C) Las dos expresiones valen 18
+- [ ] B) Las dos expresiones valen 18
   <!-- feedback: Error conceptual: solo la expresión con paréntesis vale 18; la otra vale 14. -->
 - [ ] D) Los paréntesis no influyen en el resultado
   <!-- feedback: Error conceptual: los signos de agrupación sí modifican qué operación se resuelve primero. -->
@@ -200,13 +200,13 @@ Una afirmación universal se refuta con un solo contraejemplo. Como 4 + 5 × 2 =
 ### Enunciado
 ¿Cuál estrategia es la más adecuada para obtener el total de la compra?
 ### Opciones
-- [x] A) Multiplicar el precio de los cuadernos por su cantidad y luego sumar el precio del borrador: 3 × 2.500 + 1.200
+- [x] D) Multiplicar el precio de los cuadernos por su cantidad y luego sumar el precio del borrador: 3 × 2.500 + 1.200
   <!-- feedback: Es correcta porque cada grupo de artículos se multiplica por su cantidad y luego se suman los subtotales. -->
-- [ ] B) Sumar todos los precios y multiplicar el resultado por 3
+- [ ] A) Sumar todos los precios y multiplicar el resultado por 3
   <!-- feedback: Error conceptual: multiplicar la suma completa cobra el borrador tres veces. -->
-- [ ] C) Multiplicar 3 por la suma de 2.500 y 1.200
+- [ ] B) Multiplicar 3 por la suma de 2.500 y 1.200
   <!-- feedback: Error conceptual: incluye el borrador dentro de la multiplicación, cobrándolo varias veces. -->
-- [ ] D) Dividir el total de los cuadernos entre 3
+- [ ] C) Dividir el total de los cuadernos entre 3
   <!-- feedback: Error conceptual: la división reduce el valor y no representa el total que se debe pagar. -->
 ### Explicacion Pedagogica
 Para totalizar una compra se multiplica el precio de cada artículo por su cantidad y se suman los subtotales: 3 × 2.500 = 7.500 y 7.500 + 1.200 = 8.700. Usar la jerarquía y los signos de agrupación correctos evita cobros erróneos.

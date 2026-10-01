@@ -34,11 +34,11 @@ Vocabulary of basic body parts and simple expressions to describe how people fee
 Which word in English names the part of the body where you think when you study?
 
 ### Opciones
-- [x] A) Head.
+- [x] C) Head.
   <!-- feedback: The head includes the brain, where you think and which controls the body. -->
-- [ ] B) Knee.
+- [ ] A) Knee.
   <!-- feedback: The knee is a joint in the leg used for walking, not for thinking. -->
-- [ ] C) Wrist.
+- [ ] B) Wrist.
   <!-- feedback: The wrist connects the hand to the arm, not used for thinking. -->
 - [ ] D) Ankle.
   <!-- feedback: The ankle is a joint in the leg, not used for thinking. -->
@@ -57,11 +57,11 @@ Identifying basic external body parts by their function in English (head, knee, 
 Why does Camila have a stomach ache?
 
 ### Opciones
-- [x] A) Because she ate too much candy yesterday.
+- [x] C) Because she ate too much candy yesterday.
   <!-- feedback: The text directly states that eating too much candy caused the stomach ache. -->
-- [ ] B) Because she drank too much water.
+- [ ] A) Because she drank too much water.
   <!-- feedback: Drinking water is not mentioned as a cause of her stomach ache. -->
-- [ ] C) Because she ran a lot in P.E. class.
+- [ ] B) Because she ran a lot in P.E. class.
   <!-- feedback: Physical activity is not mentioned in the passage. -->
 - [ ] D) Because she slept too many hours.
   <!-- feedback: Sleeping is not stated as the cause of her stomach ache. -->
@@ -80,9 +80,9 @@ Inferring the cause of a health problem from a short descriptive text in English
 Which sentence correctly reports how the boy feels using the verb "have"?
 
 ### Opciones
-- [x] A) He has a headache and a sore throat.
+- [x] B) He has a headache and a sore throat.
   <!-- feedback: "Has" agrees with the third person singular subject "he". -->
-- [ ] B) He have a headache and a sore throat.
+- [ ] A) He have a headache and a sore throat.
   <!-- feedback: "Have" without -s is incorrect with "he" in Simple Present. -->
 - [ ] C) He having a headache and a sore throat.
   <!-- feedback: "Having" is a gerund and needs an auxiliary verb in this construction. -->
@@ -103,11 +103,11 @@ Using the verb "have" with the third person singular to describe common health p
 Choose the correct imperative sentence that follows this advice.
 
 ### Opciones
-- [x] A) Wash your hands with soap and water.
+- [x] C) Wash your hands with soap and water.
   <!-- feedback: The imperative base form "wash" gives a direct instruction to the listener. -->
-- [ ] B) You washes your hands with soap and water.
+- [ ] A) You washes your hands with soap and water.
   <!-- feedback: The imperative does not use a subject or the -s form of the verb. -->
-- [ ] C) Washing your hands with soap and water.
+- [ ] B) Washing your hands with soap and water.
   <!-- feedback: "Washing" is a gerund; imperatives use the base form of the verb. -->
 - [ ] D) To wash your hands with soap and water.
   <!-- feedback: The infinitive form is not used as an imperative command. -->
@@ -126,13 +126,13 @@ Giving simple health-related instructions using the imperative form in English.
 Which sentence correctly expresses a reason using "because"?
 
 ### Opciones
-- [x] A) She feels tired because she did not sleep well last night.
+- [x] D) She feels tired because she did not sleep well last night.
   <!-- feedback: "Because" introduces a clear cause-effect relationship in the past simple. -->
-- [ ] B) She feels tired but she did not sleep well last night.
+- [ ] A) She feels tired but she did not sleep well last night.
   <!-- feedback: "But" expresses contrast, not the cause of feeling tired. -->
-- [ ] C) She feels tired so she did not sleep well last night.
+- [ ] B) She feels tired so she did not sleep well last night.
   <!-- feedback: The logic is reversed: not sleeping causes tiredness, not the other way around. -->
-- [ ] D) She feels tired because she sleep well last night.
+- [ ] C) She feels tired because she sleep well last night.
   <!-- feedback: "Sleep" should be in the past simple "slept" to match the past tense context. -->
 
 ### Explicacion Pedagogica
@@ -195,9 +195,9 @@ Comparing healthy and unhealthy habits described in English to draw conclusions 
 What is the most important message of this paragraph?
 
 ### Opciones
-- [x] A) Healthy daily habits prevent illnesses and help children feel well at school.
+- [x] B) Healthy daily habits prevent illnesses and help children feel well at school.
   <!-- feedback: The text links specific habits with staying healthy and preventing illnesses. -->
-- [ ] B) Children should not brush their teeth at all.
+- [ ] A) Children should not brush their teeth at all.
   <!-- feedback: Brushing teeth is listed as a positive habit, so the paragraph does not oppose it. -->
 - [ ] C) Sleeping less than four hours is the best way to be healthy.
   <!-- feedback: The text recommends eight hours of sleep, not less. -->

@@ -35,8 +35,8 @@ This bundle explores physical and mental health using B2-level grammar, focusing
 "To maintain a balanced diet, you ____ include more vegetables and fruits in every meal."
 
 ### Opciones
-- [ ] A) might <!-- feedback: Too weak for general advice. -->
-- [x] B) should <!-- feedback: Correct. Standard modal for giving advice. -->
+- [ ] B) might <!-- feedback: Too weak for general advice. -->
+- [x] A) should <!-- feedback: Correct. Standard modal for giving advice. -->
 - [ ] C) would <!-- feedback: Incorrect meaning. -->
 - [ ] D) had better <!-- feedback: Possible, but B is the standard neutral choice. -->
 
@@ -57,9 +57,9 @@ This bundle explores physical and mental health using B2-level grammar, focusing
 
 ### Opciones
 - [ ] A) should <!-- feedback: Incorrect syntax ('should to' is wrong). -->
-- [x] B) ought <!-- feedback: Correct. 'Ought to' is a synonym for 'should' and requires 'to'. -->
-- [ ] C) had better <!-- feedback: Does not take 'to'. -->
-- [ ] D) must <!-- feedback: Too strong, and doesn't take 'to'. -->
+- [x] D) ought <!-- feedback: Correct. 'Ought to' is a synonym for 'should' and requires 'to'. -->
+- [ ] B) had better <!-- feedback: Does not take 'to'. -->
+- [ ] C) must <!-- feedback: Too strong, and doesn't take 'to'. -->
 
 ### Explicación Pedagógica
 'Ought to' is a formal alternative to 'should' and is always followed by the full infinitive ('to' + verb).
@@ -98,8 +98,8 @@ This bundle explores physical and mental health using B2-level grammar, focusing
 "Experts suggest that people ____ prioritize sleep as much as they do their work."
 
 ### Opciones
-- [ ] A) must <!-- feedback: Too strong for a suggestion. -->
-- [x] B) should <!-- feedback: Correct. Common in suggestions. -->
+- [ ] B) must <!-- feedback: Too strong for a suggestion. -->
+- [x] A) should <!-- feedback: Correct. Common in suggestions. -->
 - [ ] C) had better <!-- feedback: Too informal/urgent for an expert summary. -->
 - [ ] D) will <!-- feedback: Incorrect. -->
 
@@ -119,9 +119,9 @@ Using 'should' to summarize professional recommendations in an informative text.
 "You ____ not to spend so much time on your phone right before going to bed."
 
 ### Opciones
-- [ ] A) should <!-- feedback: Incorrect syntax ('should not to' is wrong). -->
-- [ ] B) had better <!-- feedback: Incorrect syntax ('had better not to' is wrong). -->
-- [x] C) ought <!-- feedback: Correct. 'Ought not to' is the negative form. -->
+- [ ] B) should <!-- feedback: Incorrect syntax ('should not to' is wrong). -->
+- [ ] C) had better <!-- feedback: Incorrect syntax ('had better not to' is wrong). -->
+- [x] A) ought <!-- feedback: Correct. 'Ought not to' is the negative form. -->
 - [ ] D) might <!-- feedback: Too weak. -->
 
 ### Explicación Pedagógica
@@ -140,8 +140,8 @@ The negative form 'ought not to' is used for formal advice against an action.
 "We ____ avoid processed sugars if we are serious about reducing our risk of diabetes."
 
 ### Opciones
-- [ ] A) would <!-- feedback: Incorrect. -->
-- [x] B) had better <!-- feedback: Correct strong advice. -->
+- [ ] B) would <!-- feedback: Incorrect. -->
+- [x] A) had better <!-- feedback: Correct strong advice. -->
 - [ ] C) should to <!-- feedback: Incorrect. -->
 - [ ] D) ought <!-- feedback: Missing 'to'. -->
 
@@ -161,8 +161,8 @@ Using 'had better' for authoritative or urgent health advice in a blog or articl
 "I feel terrible today. I ____ so much junk food at the party last night."
 
 ### Opciones
-- [ ] A) shouldn't eat <!-- feedback: This is for present/future. -->
-- [x] B) shouldn't have eaten <!-- feedback: Correct. 'Shouldn't have' + past participle for past regret/advice. -->
+- [ ] B) shouldn't eat <!-- feedback: This is for present/future. -->
+- [x] A) shouldn't have eaten <!-- feedback: Correct. 'Shouldn't have' + past participle for past regret/advice. -->
 - [ ] C) ought not eat <!-- feedback: Incorrect tense. -->
 - [ ] D) didn't have to eat <!-- feedback: Incorrect meaning. -->
 
@@ -182,8 +182,8 @@ Using 'had better' for authoritative or urgent health advice in a blog or articl
 "It is often said that one ____ to drink eight glasses of water a day, though needs vary."
 
 ### Opciones
-- [ ] A) should <!-- feedback: Incorrect with 'to'. -->
-- [x] B) ought <!-- feedback: Correct formal advice structure. -->
+- [ ] B) should <!-- feedback: Incorrect with 'to'. -->
+- [x] A) ought <!-- feedback: Correct formal advice structure. -->
 - [ ] C) must <!-- feedback: Incorrect with 'to'. -->
 - [ ] D) had better <!-- feedback: Incorrect with 'to'. -->
 
@@ -224,9 +224,9 @@ B2 complexity: Using 'might as well' to suggest an alternative in a low-pressure
 "You ____ not ignore these symptoms, as they ____ indicative of a more serious condition."
 
 ### Opciones
-- [x] A) had better / could be <!-- feedback: Correct strong advice + possibility. -->
-- [ ] B) should / must be <!-- feedback: 'Should not' is possible but A is stronger. 'Must be' is too certain. -->
-- [ ] C) ought / might be <!-- feedback: Missing 'to'. -->
+- [x] C) had better / could be <!-- feedback: Correct strong advice + possibility. -->
+- [ ] A) should / must be <!-- feedback: 'Should not' is possible but A is stronger. 'Must be' is too certain. -->
+- [ ] B) ought / might be <!-- feedback: Missing 'to'. -->
 - [ ] D) would / can be <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
@@ -246,8 +246,8 @@ Advanced B2 structure: Combining 'had better' with modals of possibility to prov
 
 ### Opciones
 - [ ] A) should do <!-- feedback: Incorrect tense. -->
-- [ ] B) ought to do <!-- feedback: Incorrect tense. -->
-- [x] C) should have done <!-- feedback: Correct. Criticism of a past lack of action. -->
+- [ ] C) ought to do <!-- feedback: Incorrect tense. -->
+- [x] B) should have done <!-- feedback: Correct. Criticism of a past lack of action. -->
 - [ ] D) had better do <!-- feedback: Incorrect tense. -->
 
 ### Explicación Pedagógica

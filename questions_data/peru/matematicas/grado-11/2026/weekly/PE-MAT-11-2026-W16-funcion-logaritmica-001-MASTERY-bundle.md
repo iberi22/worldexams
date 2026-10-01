@@ -30,9 +30,9 @@ creador: "Jules-Agent"
 Dada la expresión $\log_b(a) = c$, ¿cuál es su representación equivalente en forma exponencial?
 
 ### Opciones
-- [ ] A) $c^b = a$
+- [ ] B) $c^b = a$
   <!-- feedback: Incorrecto. La base del logaritmo debe ser la base de la potencia. -->
-- [x] B) $b^c = a$
+- [x] A) $b^c = a$
   <!-- feedback: Correcto. Por definición de logaritmo, la base elevada al resultado es igual al argumento. -->
 - [ ] C) $a^c = b$
   <!-- feedback: Incorrecto. Confundió el argumento con la base. -->
@@ -107,9 +107,9 @@ Buscamos el exponente al que hay que elevar la base 2 para obtener 64. Realizand
 ### Opciones
 - [ ] A) $\log(A) \cdot \log(B)$
   <!-- feedback: Incorrecto. El logaritmo de un producto no es el producto de los logaritmos. -->
-- [x] B) $\log(A) + \log(B)$
+- [x] C) $\log(A) + \log(B)$
   <!-- feedback: Correcto. El logaritmo de un producto es igual a la suma de los logaritmos de los factores. -->
-- [ ] C) $\log(A) - \log(B)$
+- [ ] B) $\log(A) - \log(B)$
   <!-- feedback: Incorrecto. Esta propiedad corresponde al logaritmo de un cociente. -->
 - [ ] D) $B \cdot \log(A)$
   <!-- feedback: Incorrecto. Esta propiedad corresponde al logaritmo de una potencia ($A^B$). -->
@@ -130,11 +130,11 @@ Una de las propiedades fundamentales que simplifica cálculos es que el logaritm
 La magnitud $R$ se define como $R = \log(A/A_0)$, donde $A$ es la amplitud de la onda y $A_0$ una amplitud de referencia. Si un sismo tiene una amplitud $A = 10.000 A_0$, ¿cuál es su magnitud en la escala de Richter?
 
 ### Opciones
-- [ ] A) Magnitud 10.000
+- [ ] B) Magnitud 10.000
   <!-- feedback: Incorrecto. Confundió la amplitud relativa con la magnitud logarítmica. -->
-- [ ] B) Magnitud 2
+- [ ] C) Magnitud 2
   <!-- feedback: Incorrecto. El logaritmo de 10.000 en base 10 no es 2. -->
-- [x] C) Magnitud 4
+- [x] A) Magnitud 4
   <!-- feedback: Correcto. $R = \log(10000 A_0 / A_0) = \log(10000) = \log(10^4) = 4$. -->
 - [ ] D) Magnitud 5
   <!-- feedback: Incorrecto. $10^5 = 100.000$. -->
@@ -157,9 +157,9 @@ Determine el dominio de la función real $f(x) = \log(x + 8)$.
 ### Opciones
 - [ ] A) $x > 0$
   <!-- feedback: Incorrecto. Este es el dominio de $\log(x)$. -->
-- [ ] B) $x \ge -8$
+- [ ] C) $x \ge -8$
   <!-- feedback: Incorrecto. El argumento no puede ser cero. -->
-- [x] C) $x > -8$
+- [x] B) $x > -8$
   <!-- feedback: Correcto. El argumento $x+8$ debe ser mayor que cero: $x+8 > 0 \Rightarrow x > -8$. -->
 - [ ] D) $\mathbb{R}$
   <!-- feedback: Incorrecto. Las funciones logarítmicas siempre tienen restricciones en el dominio. -->
@@ -180,9 +180,9 @@ Para que la función esté definida en los reales, el argumento del logaritmo de
 Halle el valor aproximado de $\log_3(50)$ usando logaritmos decimales (considere $\log(3) \approx 0.477$ y $\log(50) \approx 1.699$).
 
 ### Opciones
-- [ ] A) 0.28
+- [ ] B) 0.28
   <!-- feedback: Incorrecto. Dividió los logaritmos en el orden inverso. -->
-- [x] B) 3.56
+- [x] A) 3.56
   <!-- feedback: Correcto. $\log_3(50) = \frac{\log(50)}{\log(3)} \approx \frac{1.699}{0.477} \approx 3.56$. -->
 - [ ] C) 1.22
   <!-- feedback: Incorrecto. Probablemente restó los logaritmos en lugar de dividirlos. -->
@@ -207,9 +207,9 @@ La fórmula de cambio de base establece que $\log_b(a) = \frac{\log_k(a)}{\log_k
 ### Opciones
 - [ ] A) $y = 0$
   <!-- feedback: Incorrecto. Las funciones logarítmicas de $x$ tienen asíntotas verticales, no horizontales. -->
-- [ ] B) $x = 0$
+- [ ] C) $x = 0$
   <!-- feedback: Incorrecto. Esta es la asíntota de la función básica $\log(x)$. -->
-- [x] C) $x = 5$
+- [x] B) $x = 5$
   <!-- feedback: Correcto. La asíntota vertical se encuentra donde el argumento se hace cero: $x - 5 = 0 \Rightarrow x = 5$. -->
 - [ ] D) $x = -5$
   <!-- feedback: Incorrecto. El desplazamiento es hacia la derecha, por lo que la asíntota está en el eje positivo. -->
@@ -232,9 +232,9 @@ Halle el valor de $x$ que satisface la ecuación: $\log_4(x) + \log_4(2) = 2$.
 ### Opciones
 - [ ] A) $x = 14$
   <!-- feedback: Incorrecto. Error al aplicar la definición de logaritmo tras usar la propiedad de suma. -->
-- [x] B) $x = 8$
+- [x] C) $x = 8$
   <!-- feedback: Correcto. $\log_4(2x) = 2 \Rightarrow 2x = 4^2 \Rightarrow 2x = 16 \Rightarrow x = 8$. -->
-- [ ] C) $x = 4$
+- [ ] B) $x = 4$
   <!-- feedback: Incorrecto. Al sustituir, $\log_4(4) + \log_4(2) = 1 + 0.5 = 1.5 \ne 2$. -->
 - [ ] D) $x = 16$
   <!-- feedback: Incorrecto. Olvidó el factor 2 proveniente de la propiedad de suma. -->
@@ -257,9 +257,9 @@ El pH se define como $pH = -\log[H^+]$, donde $[H^+]$ es la concentración de io
 ### Opciones
 - [ ] A) $10^5$ mol/L
   <!-- feedback: Incorrecto. Olvidó el signo negativo en la definición de pH. -->
-- [x] B) $10^{-5}$ mol/L
+- [x] C) $10^{-5}$ mol/L
   <!-- feedback: Correcto. $5 = -\log[H^+] \Rightarrow -5 = \log[H^+] \Rightarrow 10^{-5} = [H^+]$. -->
-- [ ] C) $5$ mol/L
+- [ ] B) $5$ mol/L
   <!-- feedback: Incorrecto. Confundió el valor logarítmico con la concentración directa. -->
 - [ ] D) $0.00005$ mol/L
   <!-- feedback: Incorrecto. Error al expresar la potencia de base 10. -->
@@ -307,11 +307,11 @@ Halle el conjunto solución de la ecuación: $\log_2(x) + \log_2(x - 2) = 3$.
 ### Opciones
 - [ ] A) $\{-2, 4\}$
   <!-- feedback: Incorrecto. El valor -2 no es válido como argumento de logaritmo en los reales. -->
-- [x] B) $\{4\}$
+- [x] D) $\{4\}$
   <!-- feedback: Correcto. $\log_2(x^2 - 2x) = 3 \Rightarrow x^2 - 2x = 8 \Rightarrow x^2 - 2x - 8 = 0$. Factores: $(x-4)(x+2)=0$. Como $x>2$, solo sirve el 4. -->
-- [ ] C) $\{8\}$
+- [ ] B) $\{8\}$
   <!-- feedback: Incorrecto. Error al resolver la ecuación cuadrática resultante. -->
-- [ ] D) $\{2, 4\}$
+- [ ] C) $\{2, 4\}$
   <!-- feedback: Incorrecto. El valor 2 anularía el segundo argumento ($\log_2(0)$ no existe). -->
 
 ### Explicacion Pedagogica
@@ -332,9 +332,9 @@ Si $f(x) = \log_2(x)$ y $g(x) = \log_{0.5}(x)$, ¿cuál es la relación entre am
 ### Opciones
 - [ ] A) Son idénticas.
   <!-- feedback: Incorrecto. Las bases son diferentes y producen comportamientos opuestos. -->
-- [x] B) $f(x) = -g(x)$
+- [x] C) $f(x) = -g(x)$
   <!-- feedback: Correcto. Por cambio de base: $\log_{0.5}(x) = \log(x) / \log(1/2) = \log(x) / -\log(2) = -\log_2(x)$. -->
-- [ ] C) $f(x) = g(x) + 2$
+- [ ] B) $f(x) = g(x) + 2$
   <!-- feedback: Incorrecto. La relación es multiplicativa por -1, no una traslación. -->
 - [ ] D) $f(x) = g(x^2)$
   <!-- feedback: Incorrecto. No corresponde a la propiedad de cambio de base. -->
@@ -407,9 +407,9 @@ Despeje $x$ en la ecuación: $e^{2x - 1} = 5$.
 ### Opciones
 - [ ] A) $x = \frac{\ln(5) - 1}{2}$
   <!-- feedback: Incorrecto. Error en la transposición del término constante. -->
-- [x] B) $x = \frac{\ln(5) + 1}{2}$
+- [x] C) $x = \frac{\ln(5) + 1}{2}$
   <!-- feedback: Correcto. Aplicando $\ln$: $2x - 1 = \ln(5) \Rightarrow 2x = \ln(5) + 1 \Rightarrow x = (\ln(5)+1)/2$. -->
-- [ ] C) $x = \ln(3)$
+- [ ] B) $x = \ln(3)$
   <!-- feedback: Incorrecto. No aplicó correctamente las propiedades algebraicas del logaritmo. -->
 - [ ] D) $x = \frac{5 + e}{2}$
   <!-- feedback: Incorrecto. Confundió la base $e$ con una variable lineal. -->
@@ -432,9 +432,9 @@ Halle el rango de la función $f(x) = \log_2(x^2 + 4)$.
 ### Opciones
 - [ ] A) $\mathbb{R}$
   <!-- feedback: Incorrecto. El argumento tiene un valor mínimo, por lo que el logaritmo también estará acotado. -->
-- [x] B) $[2, +\infty\rangle$
+- [x] C) $[2, +\infty\rangle$
   <!-- feedback: Correcto. La expresión $x^2 + 4$ tiene un valor mínimo de 4 (cuando $x=0$). Por lo tanto, el valor mínimo de la función es $\log_2(4) = 2$. -->
-- [ ] C) $\langle 2, +\infty\rangle$
+- [ ] B) $\langle 2, +\infty\rangle$
   <!-- feedback: Incorrecto. El valor 2 sí se alcanza cuando $x = 0$. -->
 - [ ] D) $\langle 0, +\infty\rangle$
   <!-- feedback: Incorrecto. El argumento nunca puede acercarse a cero. -->
@@ -457,9 +457,9 @@ Halle el conjunto solución de: $\log_x(10) + \log_x(0.1x^2) = 2$.
 ### Opciones
 - [ ] A) $\{1\}$
   <!-- feedback: Incorrecto. $x$ no puede ser 1 por ser la base del logaritmo. -->
-- [x] B) $\{x \in \mathbb{R} \mid x > 0 \text{ y } x \ne 1\}$
+- [x] C) $\{x \in \mathbb{R} \mid x > 0 \text{ y } x \ne 1\}$
   <!-- feedback: Correcto. Propiedad producto: $\log_x(10 \cdot 0.1x^2) = 2 \Rightarrow \log_x(x^2) = 2$. Esta igualdad $2 = 2$ es siempre cierta para cualquier $x$ que cumpla las condiciones de base. -->
-- [ ] C) $\emptyset$
+- [ ] B) $\emptyset$
   <!-- feedback: Incorrecto. Existen infinitos valores que cumplen la igualdad. -->
 - [ ] D) $\{10\}$
   <!-- feedback: Incorrecto. Este es solo un valor particular, no el conjunto completo. -->
@@ -482,11 +482,11 @@ La cantidad de C-14 remanente es $N = N_0 e^{-0.000121t}$. Si una muestra de mad
 ### Opciones
 - [ ] A) 3200 años
   <!-- feedback: Incorrecto. Error en la división decimal. -->
-- [x] B) 4215 años
+- [x] D) 4215 años
   <!-- feedback: Correcto. $0.6 = e^{-0.000121t} \Rightarrow \ln(0.6) = -0.000121t \Rightarrow -0.51 = -0.000121t \Rightarrow t \approx 4214.8$. -->
-- [ ] C) 5000 años
+- [ ] B) 5000 años
   <!-- feedback: Incorrecto. Sobreestima la antigüedad según los datos proporcionados. -->
-- [ ] D) 2500 años
+- [ ] C) 2500 años
   <!-- feedback: Incorrecto. Subestima la antigüedad; el decaimiento al 60% toma más tiempo. -->
 
 ### Explicacion Pedagogica
@@ -505,11 +505,11 @@ Igualamos la relación $N/N_0$ a 0.6. Aplicamos logaritmo natural para despejar 
 Si $\log_2(\log_3(\log_4(x))) = 0$, halle el valor de $\sqrt{x}$.
 
 ### Opciones
-- [ ] A) 4
+- [ ] B) 4
   <!-- feedback: Incorrecto. Halló el valor de $\log_4(x)$ pero no de $x$. -->
-- [ ] B) 16
+- [ ] C) 16
   <!-- feedback: Incorrecto. Error al aplicar las potencias sucesivas de las bases. -->
-- [x] C) 8
+- [x] A) 8
   <!-- feedback: Correcto. $\log_3(\log_4(x)) = 2^0 = 1 \Rightarrow \log_4(x) = 3^1 = 3 \Rightarrow x = 4^3 = 64$. Luego $\sqrt{64} = 8$. -->
 - [ ] D) 64
   <!-- feedback: Incorrecto. Este es el valor de $x$, no de su raíz cuadrada. -->

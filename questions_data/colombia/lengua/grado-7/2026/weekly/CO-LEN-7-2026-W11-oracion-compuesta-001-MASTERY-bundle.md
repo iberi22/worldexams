@@ -33,9 +33,9 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) La oración compuesta siempre tiene más de diez palabras. <!-- feedback: Incorrecto. La longitud no define el tipo de oración, sino la estructura verbal. -->
-- [x] B) La oración compuesta tiene dos o más verbos conjugados (predicados). <!-- feedback: ¡Correcto! Cada verbo forma una proposición dentro de la oración compuesta. -->
-- [ ] C) La oración compuesta solo se usa para escribir poesía. <!-- feedback: Incorrecto. Se usa en todos los tipos de textos, especialmente en los informativos y argumentativos. -->
-- [ ] D) La oración compuesta no tiene sujeto. <!-- feedback: Incorrecto. Al igual que la simple, la compuesta tiene sujetos (uno o varios). -->
+- [x] D) La oración compuesta tiene dos o más verbos conjugados (predicados). <!-- feedback: ¡Correcto! Cada verbo forma una proposición dentro de la oración compuesta. -->
+- [ ] B) La oración compuesta solo se usa para escribir poesía. <!-- feedback: Incorrecto. Se usa en todos los tipos de textos, especialmente en los informativos y argumentativos. -->
+- [ ] C) La oración compuesta no tiene sujeto. <!-- feedback: Incorrecto. Al igual que la simple, la compuesta tiene sujetos (uno o varios). -->
 
 ### Explicacion Pedagogica
 Una oración simple tiene un solo núcleo del predicado (un solo verbo). La oración compuesta permite unir varias ideas o acciones en una sola unidad de sentido mediante nexos o signos de puntuación, facilitando la expresión de pensamientos complejos.
@@ -75,8 +75,8 @@ En la oración: "Llegué a casa; me bañé; me acosté a dormir", ¿qué recurso
 
 ### Opciones
 - [ ] A) Nexos coordinantes como "y" o "pero". <!-- feedback: Incorrecto. No hay conjunciones uniendo las partes. -->
-- [ ] B) Nexos subordinantes como "que" o "porque". <!-- feedback: Incorrecto. No hay dependencia jerárquica entre las acciones. -->
-- [x] C) Yuxtaposición (uso de signos de puntuación como el punto y coma). <!-- feedback: ¡Correcto! Las ideas se unen directamente sin nexos, usando solo puntuación. -->
+- [ ] C) Nexos subordinantes como "que" o "porque". <!-- feedback: Incorrecto. No hay dependencia jerárquica entre las acciones. -->
+- [x] B) Yuxtaposición (uso de signos de puntuación como el punto y coma). <!-- feedback: ¡Correcto! Las ideas se unen directamente sin nexos, usando solo puntuación. -->
 - [ ] D) Uso de prefijos y sufijos. <!-- feedback: Incorrecto. Estos se usan para formar palabras, no oraciones compuestas. -->
 
 ### Explicacion Pedagogica
@@ -96,8 +96,8 @@ La yuxtaposición permite una escritura rápida y ágil. Las proposiciones está
 
 ### Opciones
 - [ ] A) El joven que vive en Cali es mi primo. <!-- feedback: Incorrecto. Es una subordinada (que vive en Cali depende de "El joven"). -->
-- [x] B) Fui al mercado de Tunja, pero no compré nada. <!-- feedback: ¡Correcto! Las dos partes son independientes y están unidas por el nexo "pero". -->
-- [ ] C) Juan sabe que mañana hay examen de Lengua. <!-- feedback: Incorrecto. Es una subordinada (que mañana hay examen depende del verbo "sabe"). -->
+- [x] C) Fui al mercado de Tunja, pero no compré nada. <!-- feedback: ¡Correcto! Las dos partes son independientes y están unidas por el nexo "pero". -->
+- [ ] B) Juan sabe que mañana hay examen de Lengua. <!-- feedback: Incorrecto. Es una subordinada (que mañana hay examen depende del verbo "sabe"). -->
 - [ ] D) Caminar bajo la lluvia es romántico. <!-- feedback: Incorrecto. Es una oración simple con sujeto paciente (el caminar). -->
 
 ### Explicacion Pedagogica
@@ -116,8 +116,8 @@ En la coordinación, las proposiciones son como "hermanas": tienen el mismo peso
 "¿Vienes conmigo al Nevado del Ruiz o prefieres quedarte en Manizales?". ¿Qué tipo de relación establece el nexo "o" en esta oración?
 
 ### Opciones
-- [ ] A) Relación de suma (copulativa). <!-- feedback: Incorrecto. No está sumando dos acciones, está ofreciendo elegir. -->
-- [x] B) Relación de opción o elección (disyuntiva). <!-- feedback: ¡Correcto! El nexo "o" presenta dos posibilidades que se excluyen entre sí. -->
+- [ ] B) Relación de suma (copulativa). <!-- feedback: Incorrecto. No está sumando dos acciones, está ofreciendo elegir. -->
+- [x] A) Relación de opción o elección (disyuntiva). <!-- feedback: ¡Correcto! El nexo "o" presenta dos posibilidades que se excluyen entre sí. -->
 - [ ] C) Relación de contradicción (adversativa). <!-- feedback: Incorrecto. No hay una idea que se oponga a la otra, sino una elección. -->
 - [ ] D) Relación de consecuencia (ilativa). <!-- feedback: Incorrecto. Una acción no es el resultado de la otra. -->
 
@@ -139,8 +139,8 @@ En la oración: "Deseo **que todos los niños de Colombia tengan acceso a intern
 ### Opciones
 - [ ] A) Porque es más larga que la oración principal "Deseo". <!-- feedback: Incorrecto. La longitud no define la subordinación. -->
 - [ ] B) Porque tiene un verbo en infinitivo. <!-- feedback: Incorrecto. El verbo "tengan" está conjugado en subjuntivo. -->
-- [x] C) Porque si la decimos sola, no tiene sentido completo y necesita del verbo "Deseo" para funcionar. <!-- feedback: ¡Correcto! Es el objeto directo del deseo, depende jerárquicamente de la principal. -->
-- [ ] D) Porque está escrita en letra negrilla. <!-- feedback: Incorrecto. El formato visual no tiene relación con la función sintáctica. -->
+- [x] D) Porque si la decimos sola, no tiene sentido completo y necesita del verbo "Deseo" para funcionar. <!-- feedback: ¡Correcto! Es el objeto directo del deseo, depende jerárquicamente de la principal. -->
+- [ ] C) Porque está escrita en letra negrilla. <!-- feedback: Incorrecto. El formato visual no tiene relación con la función sintáctica. -->
 
 ### Explicacion Pedagogica
 La subordinación crea una jerarquía. La proposición subordinada cumple una función (como si fuera un sustantivo o un adjetivo) dentro de la oración principal. Es la base para construir textos argumentativos y científicos sólidos.
@@ -180,9 +180,9 @@ La yuxtaposición es un recurso de economía lingüística. Al quitar los nexos,
 
 ### Opciones
 - [ ] A) Que el ensayo sea más difícil de leer para que el profesor piense que es muy bueno. <!-- feedback: Incorrecto. La dificultad no es una ventaja; la claridad y profundidad sí lo son. -->
-- [x] B) Permitir relacionar ideas de causa, consecuencia, condición y oposición de manera lógica y fluida. <!-- feedback: ¡Correcto! Las oraciones compuestas estructuran el pensamiento complejo. -->
-- [ ] C) Poder usar muchas comas para que el texto se vea más elegante. <!-- feedback: Incorrecto. El uso de comas debe responder a reglas gramaticales, no a la estética visual. -->
-- [ ] D) Evitar tener que poner un punto final hasta que se acabe la hoja. <!-- feedback: Incorrecto. El punto final es necesario para separar párrafos e ideas completas. -->
+- [x] D) Permitir relacionar ideas de causa, consecuencia, condición y oposición de manera lógica y fluida. <!-- feedback: ¡Correcto! Las oraciones compuestas estructuran el pensamiento complejo. -->
+- [ ] B) Poder usar muchas comas para que el texto se vea más elegante. <!-- feedback: Incorrecto. El uso de comas debe responder a reglas gramaticales, no a la estética visual. -->
+- [ ] C) Evitar tener que poner un punto final hasta que se acabe la hoja. <!-- feedback: Incorrecto. El punto final es necesario para separar párrafos e ideas completas. -->
 
 ### Explicacion Pedagogica
 La madurez en la escritura se nota cuando un estudiante es capaz de articular ideas. Las oraciones compuestas son los "puentes" que permiten pasar de simples datos sueltos a una argumentación coherente y persuasiva.
@@ -221,9 +221,9 @@ El nexo "aunque" es muy potente en la argumentación. Permite reconocer una real
 Identifica el error de concordancia en la siguiente oración compuesta: "El grupo de estudiantes ganaron el premio y ellos celebrará en la pizzería".
 
 ### Opciones
-- [ ] A) El error es usar la palabra "pizzería" porque no es colombiana. <!-- feedback: Incorrecto. Pizzería es una palabra correcta en español. -->
-- [ ] B) No hay ningún error, la oración está perfecta. <!-- feedback: Incorrecto. Hay errores de número y persona entre sujetos y verbos. -->
-- [x] C) "El grupo... ganaron" (el sujeto es singular: el grupo) y "ellos celebrará" (el verbo debe ser plural: celebrarán). <!-- feedback: ¡Correcto! La concordancia de número se ha roto en ambas proposiciones. -->
+- [ ] B) El error es usar la palabra "pizzería" porque no es colombiana. <!-- feedback: Incorrecto. Pizzería es una palabra correcta en español. -->
+- [ ] C) No hay ningún error, la oración está perfecta. <!-- feedback: Incorrecto. Hay errores de número y persona entre sujetos y verbos. -->
+- [x] A) "El grupo... ganaron" (el sujeto es singular: el grupo) y "ellos celebrará" (el verbo debe ser plural: celebrarán). <!-- feedback: ¡Correcto! La concordancia de número se ha roto en ambas proposiciones. -->
 - [ ] D) El error es unir las ideas con "y", debería ser con un punto y coma. <!-- feedback: Incorrecto. El nexo "y" es gramaticalmente correcto; el problema es la conjugación verbal. -->
 
 ### Explicacion Pedagogica

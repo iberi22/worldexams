@@ -35,8 +35,8 @@ Este bundle evalúa conceptos clave de Potenciación y Radicación alineados al 
 ¿Cuál de las siguientes es una ley de exponentes válida para cualquier base real positiva $x$ y exponentes reales $a, b$?
 
 ### Opciones
-- [x] A) $x^a \cdot x^b = x^{a+b}$ <!-- feedback: ¡Correcto! En el producto de potencias de igual base se suman los exponentes. -->
-- [ ] B) $x^a \cdot x^b = x^{a \cdot b}$ <!-- feedback: Incorrecto. Multiplicar los exponentes corresponde a la potencia de una potencia: $(x^a)^b$. -->
+- [x] B) $x^a \cdot x^b = x^{a+b}$ <!-- feedback: ¡Correcto! En el producto de potencias de igual base se suman los exponentes. -->
+- [ ] A) $x^a \cdot x^b = x^{a \cdot b}$ <!-- feedback: Incorrecto. Multiplicar los exponentes corresponde a la potencia de una potencia: $(x^a)^b$. -->
 - [ ] C) $x^a + x^b = x^{a+b}$ <!-- feedback: Incorrecto. No se puede simplificar la suma de potencias sumando los exponentes. -->
 - [ ] D) $x^a \cdot y^b = (xy)^{a+b}$ <!-- feedback: Incorrecto. Solo se pueden agrupar las bases si los exponentes son iguales. -->
 
@@ -56,9 +56,9 @@ La ley del producto de bases iguales establece que $x^a \cdot x^b = x^{a+b}$.
 ¿Cuál es la expresión equivalente en forma de radical de la potencia con exponente fraccionario $y^{\frac{2}{3}}$ para $y > 0$?
 
 ### Opciones
-- [x] A) $\sqrt[3]{y^2}$ <!-- feedback: ¡Correcto! El denominador del exponente es el índice de la raíz y el numerador es la potencia del radicando. -->
-- [ ] B) $\sqrt{y^3}$ <!-- feedback: Incorrecto. El índice de la raíz cuadrada es 2, pero aquí es 3. -->
-- [ ] C) $\sqrt[2]{y^3}$ <!-- feedback: Incorrecto. Intercambió numerador y denominador en la interpretación. -->
+- [x] C) $\sqrt[3]{y^2}$ <!-- feedback: ¡Correcto! El denominador del exponente es el índice de la raíz y el numerador es la potencia del radicando. -->
+- [ ] A) $\sqrt{y^3}$ <!-- feedback: Incorrecto. El índice de la raíz cuadrada es 2, pero aquí es 3. -->
+- [ ] B) $\sqrt[2]{y^3}$ <!-- feedback: Incorrecto. Intercambió numerador y denominador en la interpretación. -->
 - [ ] D) $y^3 \cdot \sqrt{y}$ <!-- feedback: Incorrecto. Esta expresión no corresponde a la definición de exponente fraccionario. -->
 
 ### Explicacion Pedagogica
@@ -77,10 +77,10 @@ Por definición de exponente racional, $y^{\frac{m}{n}} = \sqrt[n]{y^m}$.
 En Luque, un taller artesanal duplica su producción cada 2 meses. Si su producción inicial es de 30 artículos, ¿cuál será la producción final después de 2 meses?
 
 ### Opciones
-- [x] A) 60 artículos <!-- feedback: ¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2. -->
-- [ ] B) 120 artículos <!-- feedback: Incorrecto. Esto representaría cuadruplicar la producción. -->
-- [ ] C) 32 artículos <!-- feedback: Incorrecto. Duplicar es una multiplicación, no una simple suma de 2. -->
-- [ ] D) 240 artículos <!-- feedback: Incorrecto. Esto representaría multiplicar por 8. -->
+- [x] D) 60 artículos <!-- feedback: ¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2. -->
+- [ ] A) 120 artículos <!-- feedback: Incorrecto. Esto representaría cuadruplicar la producción. -->
+- [ ] B) 32 artículos <!-- feedback: Incorrecto. Duplicar es una multiplicación, no una simple suma de 2. -->
+- [ ] C) 240 artículos <!-- feedback: Incorrecto. Esto representaría multiplicar por 8. -->
 
 ### Explicacion Pedagogica
 Si se duplica la producción, multiplicamos el valor inicial 30 por 2, obteniendo 60 artículos.
@@ -119,8 +119,8 @@ Si se duplica la producción, multiplicamos el valor inicial 40 por 2, obteniend
 En Ciudad del Este, un taller artesanal duplica su producción cada 4 meses. Si su producción inicial es de 50 artículos, ¿cuál será la producción final después de 4 meses?
 
 ### Opciones
-- [x] A) 100 artículos <!-- feedback: ¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2. -->
-- [ ] B) 200 artículos <!-- feedback: Incorrecto. Esto representaría cuadruplicar la producción. -->
+- [x] B) 100 artículos <!-- feedback: ¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2. -->
+- [ ] A) 200 artículos <!-- feedback: Incorrecto. Esto representaría cuadruplicar la producción. -->
 - [ ] C) 52 artículos <!-- feedback: Incorrecto. Duplicar es una multiplicación, no una simple suma de 2. -->
 - [ ] D) 400 artículos <!-- feedback: Incorrecto. Esto representaría multiplicar por 8. -->
 
@@ -161,10 +161,10 @@ Si se duplica la producción, multiplicamos el valor inicial 60 por 2, obteniend
 En Pilar, un taller artesanal duplica su producción cada 3 meses. Si su producción inicial es de 70 artículos, ¿cuál será la producción final después de 3 meses?
 
 ### Opciones
-- [x] A) 140 artículos <!-- feedback: ¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2. -->
-- [ ] B) 280 artículos <!-- feedback: Incorrecto. Esto representaría cuadruplicar la producción. -->
-- [ ] C) 72 artículos <!-- feedback: Incorrecto. Duplicar es una multiplicación, no una simple suma de 2. -->
-- [ ] D) 560 artículos <!-- feedback: Incorrecto. Esto representaría multiplicar por 8. -->
+- [x] D) 140 artículos <!-- feedback: ¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2. -->
+- [ ] A) 280 artículos <!-- feedback: Incorrecto. Esto representaría cuadruplicar la producción. -->
+- [ ] B) 72 artículos <!-- feedback: Incorrecto. Duplicar es una multiplicación, no una simple suma de 2. -->
+- [ ] C) 560 artículos <!-- feedback: Incorrecto. Esto representaría multiplicar por 8. -->
 
 ### Explicacion Pedagogica
 Si se duplica la producción, multiplicamos el valor inicial 70 por 2, obteniendo 140 artículos.
@@ -203,9 +203,9 @@ Si se duplica la producción, multiplicamos el valor inicial 80 por 2, obteniend
 En Concepción, un taller artesanal duplica su producción cada 2 meses. Si su producción inicial es de 90 artículos, ¿cuál será la producción final después de 2 meses?
 
 ### Opciones
-- [x] A) 180 artículos <!-- feedback: ¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2. -->
-- [ ] B) 360 artículos <!-- feedback: Incorrecto. Esto representaría cuadruplicar la producción. -->
-- [ ] C) 92 artículos <!-- feedback: Incorrecto. Duplicar es una multiplicación, no una simple suma de 2. -->
+- [x] C) 180 artículos <!-- feedback: ¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2. -->
+- [ ] A) 360 artículos <!-- feedback: Incorrecto. Esto representaría cuadruplicar la producción. -->
+- [ ] B) 92 artículos <!-- feedback: Incorrecto. Duplicar es una multiplicación, no una simple suma de 2. -->
 - [ ] D) 720 artículos <!-- feedback: Incorrecto. Esto representaría multiplicar por 8. -->
 
 ### Explicacion Pedagogica
@@ -224,10 +224,10 @@ Si se duplica la producción, multiplicamos el valor inicial 90 por 2, obteniend
 En Villarrica, un taller artesanal duplica su producción cada 3 meses. Si su producción inicial es de 100 artículos, ¿cuál será la producción final después de 3 meses?
 
 ### Opciones
-- [x] A) 200 artículos <!-- feedback: ¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2. -->
-- [ ] B) 400 artículos <!-- feedback: Incorrecto. Esto representaría cuadruplicar la producción. -->
-- [ ] C) 102 artículos <!-- feedback: Incorrecto. Duplicar es una multiplicación, no una simple suma de 2. -->
-- [ ] D) 800 artículos <!-- feedback: Incorrecto. Esto representaría multiplicar por 8. -->
+- [x] D) 200 artículos <!-- feedback: ¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2. -->
+- [ ] A) 400 artículos <!-- feedback: Incorrecto. Esto representaría cuadruplicar la producción. -->
+- [ ] B) 102 artículos <!-- feedback: Incorrecto. Duplicar es una multiplicación, no una simple suma de 2. -->
+- [ ] C) 800 artículos <!-- feedback: Incorrecto. Esto representaría multiplicar por 8. -->
 
 ### Explicacion Pedagogica
 Si se duplica la producción, multiplicamos el valor inicial 100 por 2, obteniendo 200 artículos.
@@ -245,8 +245,8 @@ Si se duplica la producción, multiplicamos el valor inicial 100 por 2, obtenien
 En Asunción, un taller artesanal duplica su producción cada 4 meses. Si su producción inicial es de 110 artículos, ¿cuál será la producción final después de 4 meses?
 
 ### Opciones
-- [x] A) 220 artículos <!-- feedback: ¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2. -->
-- [ ] B) 440 artículos <!-- feedback: Incorrecto. Esto representaría cuadruplicar la producción. -->
+- [x] B) 220 artículos <!-- feedback: ¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2. -->
+- [ ] A) 440 artículos <!-- feedback: Incorrecto. Esto representaría cuadruplicar la producción. -->
 - [ ] C) 112 artículos <!-- feedback: Incorrecto. Duplicar es una multiplicación, no una simple suma de 2. -->
 - [ ] D) 880 artículos <!-- feedback: Incorrecto. Esto representaría multiplicar por 8. -->
 
@@ -266,9 +266,9 @@ Si se duplica la producción, multiplicamos el valor inicial 110 por 2, obtenien
 En San Lorenzo, un taller artesanal duplica su producción cada 2 meses. Si su producción inicial es de 120 artículos, ¿cuál será la producción final después de 2 meses?
 
 ### Opciones
-- [x] A) 240 artículos <!-- feedback: ¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2. -->
-- [ ] B) 480 artículos <!-- feedback: Incorrecto. Esto representaría cuadruplicar la producción. -->
-- [ ] C) 122 artículos <!-- feedback: Incorrecto. Duplicar es una multiplicación, no una simple suma de 2. -->
+- [x] C) 240 artículos <!-- feedback: ¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2. -->
+- [ ] A) 480 artículos <!-- feedback: Incorrecto. Esto representaría cuadruplicar la producción. -->
+- [ ] B) 122 artículos <!-- feedback: Incorrecto. Duplicar es una multiplicación, no una simple suma de 2. -->
 - [ ] D) 960 artículos <!-- feedback: Incorrecto. Esto representaría multiplicar por 8. -->
 
 ### Explicacion Pedagogica
@@ -287,10 +287,10 @@ Si se duplica la producción, multiplicamos el valor inicial 120 por 2, obtenien
 En Luque, un taller artesanal duplica su producción cada 3 meses. Si su producción inicial es de 130 artículos, ¿cuál será la producción final después de 3 meses?
 
 ### Opciones
-- [x] A) 260 artículos <!-- feedback: ¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2. -->
-- [ ] B) 520 artículos <!-- feedback: Incorrecto. Esto representaría cuadruplicar la producción. -->
-- [ ] C) 132 artículos <!-- feedback: Incorrecto. Duplicar es una multiplicación, no una simple suma de 2. -->
-- [ ] D) 1040 artículos <!-- feedback: Incorrecto. Esto representaría multiplicar por 8. -->
+- [x] D) 260 artículos <!-- feedback: ¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2. -->
+- [ ] A) 520 artículos <!-- feedback: Incorrecto. Esto representaría cuadruplicar la producción. -->
+- [ ] B) 132 artículos <!-- feedback: Incorrecto. Duplicar es una multiplicación, no una simple suma de 2. -->
+- [ ] C) 1040 artículos <!-- feedback: Incorrecto. Esto representaría multiplicar por 8. -->
 
 ### Explicacion Pedagogica
 Si se duplica la producción, multiplicamos el valor inicial 130 por 2, obteniendo 260 artículos.
@@ -308,9 +308,9 @@ Si se duplica la producción, multiplicamos el valor inicial 130 por 2, obtenien
 En Encarnación, un taller artesanal duplica su producción cada 4 meses. Si su producción inicial es de 140 artículos, ¿cuál será la producción final después de 4 meses?
 
 ### Opciones
-- [x] A) 280 artículos <!-- feedback: ¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2. -->
-- [ ] B) 560 artículos <!-- feedback: Incorrecto. Esto representaría cuadruplicar la producción. -->
-- [ ] C) 142 artículos <!-- feedback: Incorrecto. Duplicar es una multiplicación, no una simple suma de 2. -->
+- [x] C) 280 artículos <!-- feedback: ¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2. -->
+- [ ] A) 560 artículos <!-- feedback: Incorrecto. Esto representaría cuadruplicar la producción. -->
+- [ ] B) 142 artículos <!-- feedback: Incorrecto. Duplicar es una multiplicación, no una simple suma de 2. -->
 - [ ] D) 1120 artículos <!-- feedback: Incorrecto. Esto representaría multiplicar por 8. -->
 
 ### Explicacion Pedagogica
@@ -329,10 +329,10 @@ Si se duplica la producción, multiplicamos el valor inicial 140 por 2, obtenien
 En Ciudad del Este, un taller artesanal duplica su producción cada 2 meses. Si su producción inicial es de 150 artículos, ¿cuál será la producción final después de 2 meses?
 
 ### Opciones
-- [x] A) 300 artículos <!-- feedback: ¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2. -->
-- [ ] B) 600 artículos <!-- feedback: Incorrecto. Esto representaría cuadruplicar la producción. -->
-- [ ] C) 152 artículos <!-- feedback: Incorrecto. Duplicar es una multiplicación, no una simple suma de 2. -->
-- [ ] D) 1200 artículos <!-- feedback: Incorrecto. Esto representaría multiplicar por 8. -->
+- [x] D) 300 artículos <!-- feedback: ¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2. -->
+- [ ] A) 600 artículos <!-- feedback: Incorrecto. Esto representaría cuadruplicar la producción. -->
+- [ ] B) 152 artículos <!-- feedback: Incorrecto. Duplicar es una multiplicación, no una simple suma de 2. -->
+- [ ] C) 1200 artículos <!-- feedback: Incorrecto. Esto representaría multiplicar por 8. -->
 
 ### Explicacion Pedagogica
 Si se duplica la producción, multiplicamos el valor inicial 150 por 2, obteniendo 300 artículos.
@@ -350,9 +350,9 @@ Si se duplica la producción, multiplicamos el valor inicial 150 por 2, obtenien
 En Caacupé, un taller artesanal duplica su producción cada 3 meses. Si su producción inicial es de 160 artículos, ¿cuál será la producción final después de 3 meses?
 
 ### Opciones
-- [x] A) 320 artículos <!-- feedback: ¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2. -->
-- [ ] B) 640 artículos <!-- feedback: Incorrecto. Esto representaría cuadruplicar la producción. -->
-- [ ] C) 162 artículos <!-- feedback: Incorrecto. Duplicar es una multiplicación, no una simple suma de 2. -->
+- [x] C) 320 artículos <!-- feedback: ¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2. -->
+- [ ] A) 640 artículos <!-- feedback: Incorrecto. Esto representaría cuadruplicar la producción. -->
+- [ ] B) 162 artículos <!-- feedback: Incorrecto. Duplicar es una multiplicación, no una simple suma de 2. -->
 - [ ] D) 1280 artículos <!-- feedback: Incorrecto. Esto representaría multiplicar por 8. -->
 
 ### Explicacion Pedagogica
@@ -371,8 +371,8 @@ Si se duplica la producción, multiplicamos el valor inicial 160 por 2, obtenien
 En Pilar, un taller artesanal duplica su producción cada 4 meses. Si su producción inicial es de 170 artículos, ¿cuál será la producción final después de 4 meses?
 
 ### Opciones
-- [x] A) 340 artículos <!-- feedback: ¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2. -->
-- [ ] B) 680 artículos <!-- feedback: Incorrecto. Esto representaría cuadruplicar la producción. -->
+- [x] B) 340 artículos <!-- feedback: ¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2. -->
+- [ ] A) 680 artículos <!-- feedback: Incorrecto. Esto representaría cuadruplicar la producción. -->
 - [ ] C) 172 artículos <!-- feedback: Incorrecto. Duplicar es una multiplicación, no una simple suma de 2. -->
 - [ ] D) 1360 artículos <!-- feedback: Incorrecto. Esto representaría multiplicar por 8. -->
 
@@ -413,10 +413,10 @@ Si se duplica la producción, multiplicamos el valor inicial 180 por 2, obtenien
 En Concepción, un taller artesanal duplica su producción cada 3 meses. Si su producción inicial es de 190 artículos, ¿cuál será la producción final después de 3 meses?
 
 ### Opciones
-- [x] A) 380 artículos <!-- feedback: ¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2. -->
-- [ ] B) 760 artículos <!-- feedback: Incorrecto. Esto representaría cuadruplicar la producción. -->
-- [ ] C) 192 artículos <!-- feedback: Incorrecto. Duplicar es una multiplicación, no una simple suma de 2. -->
-- [ ] D) 1520 artículos <!-- feedback: Incorrecto. Esto representaría multiplicar por 8. -->
+- [x] D) 380 artículos <!-- feedback: ¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2. -->
+- [ ] A) 760 artículos <!-- feedback: Incorrecto. Esto representaría cuadruplicar la producción. -->
+- [ ] B) 192 artículos <!-- feedback: Incorrecto. Duplicar es una multiplicación, no una simple suma de 2. -->
+- [ ] C) 1520 artículos <!-- feedback: Incorrecto. Esto representaría multiplicar por 8. -->
 
 ### Explicacion Pedagogica
 Si se duplica la producción, multiplicamos el valor inicial 190 por 2, obteniendo 380 artículos.
@@ -434,8 +434,8 @@ Si se duplica la producción, multiplicamos el valor inicial 190 por 2, obtenien
 En Villarrica, un taller artesanal duplica su producción cada 4 meses. Si su producción inicial es de 200 artículos, ¿cuál será la producción final después de 4 meses?
 
 ### Opciones
-- [x] A) 400 artículos <!-- feedback: ¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2. -->
-- [ ] B) 800 artículos <!-- feedback: Incorrecto. Esto representaría cuadruplicar la producción. -->
+- [x] B) 400 artículos <!-- feedback: ¡Correcto! Duplicar la producción equivale a multiplicar la cantidad original por 2. -->
+- [ ] A) 800 artículos <!-- feedback: Incorrecto. Esto representaría cuadruplicar la producción. -->
 - [ ] C) 202 artículos <!-- feedback: Incorrecto. Duplicar es una multiplicación, no una simple suma de 2. -->
 - [ ] D) 1600 artículos <!-- feedback: Incorrecto. Esto representaría multiplicar por 8. -->
 

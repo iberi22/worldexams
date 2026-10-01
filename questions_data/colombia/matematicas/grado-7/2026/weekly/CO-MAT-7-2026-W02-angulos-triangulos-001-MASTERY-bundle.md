@@ -32,13 +32,13 @@ Este bundle contiene 10 preguntas sobre **angulos-triangulos** para grado 7, ali
 ### Enunciado
 ¿Cuánto mide el tercer ángulo interno del triángulo?
 ### Opciones
-- [x] A) $60^\circ$
+- [x] D) $60^\circ$
   <!-- feedback: Correcto. La suma de ángulos internos es $180^\circ$: $180 - (50 + 70) = 60^\circ$. -->
-- [ ] B) $70^\circ$
+- [ ] A) $70^\circ$
   <!-- feedback: Incorrecto. Sumaste sin restar de 180. -->
-- [ ] C) $50^\circ$
+- [ ] B) $50^\circ$
   <!-- feedback: Incorrecto. Repetiste uno de los ángulos dados. -->
-- [ ] D) $80^\circ$
+- [ ] C) $80^\circ$
   <!-- feedback: Incorrecto. Error en la resta $180 - 120$. -->
 ### Explicacion Pedagogica
 La suma de ángulos interiores de todo triángulo es $180^\circ$. $180^\circ - 120^\circ = 60^\circ$.
@@ -52,13 +52,13 @@ La suma de ángulos interiores de todo triángulo es $180^\circ$. $180^\circ - 1
 ### Enunciado
 ¿Qué tipo de triángulo es según la longitud de sus lados?
 ### Opciones
-- [x] A) Isósceles
+- [x] D) Isósceles
   <!-- feedback: Correcto. Tiene dos lados de igual medida. -->
-- [ ] B) Equilátero
+- [ ] A) Equilátero
   <!-- feedback: Incorrecto. Para ser equilátero el ángulo tendría que ser de $60^\circ$. -->
-- [ ] C) Escaleno
+- [ ] B) Escaleno
   <!-- feedback: Incorrecto. Escaleno tiene sus tres lados desiguales. -->
-- [ ] D) Rectángulo
+- [ ] C) Rectángulo
   <!-- feedback: Incorrecto. Ninguno de sus ángulos es de $90^\circ$. -->
 ### Explicacion Pedagogica
 Un triángulo con exactamente dos lados congruentes se clasifica como isósceles.
@@ -92,13 +92,13 @@ Como hay un ángulo recto ($90^\circ$), los otros dos deben sumar $90^\circ$: $9
 ### Enunciado
 ¿Cuánto mide dicho ángulo interno adyacente?
 ### Opciones
-- [x] A) $55^\circ$
+- [x] D) $55^\circ$
   <!-- feedback: Correcto. Son suplementarios: $180 - 125 = 55^\circ$. -->
-- [ ] B) $65^\circ$
+- [ ] A) $65^\circ$
   <!-- feedback: Incorrecto. Error en la resta $180 - 125$. -->
-- [ ] C) $35^\circ$
+- [ ] B) $35^\circ$
   <!-- feedback: Incorrecto. Restaste de $160^\circ$. -->
-- [ ] D) $125^\circ$
+- [ ] C) $125^\circ$
   <!-- feedback: Incorrecto. El ángulo externo no es igual al interno adyacente. -->
 ### Explicacion Pedagogica
 El ángulo interno y su externo correspondiente forman un par lineal ($180^\circ$): $180^\circ - 125^\circ = 55^\circ$.
@@ -112,9 +112,9 @@ El ángulo interno y su externo correspondiente forman un par lineal ($180^\circ
 ### Enunciado
 ¿Cuánto mide cada uno de los dos ángulos congruentes de la base?
 ### Opciones
-- [x] A) $70^\circ$
+- [x] B) $70^\circ$
   <!-- feedback: Correcto. $(180 - 40) / 2 = 140 / 2 = 70^\circ$. -->
-- [ ] B) $80^\circ$
+- [ ] A) $80^\circ$
   <!-- feedback: Incorrecto. $80 \times 2 + 40 = 200 \neq 180$. -->
 - [ ] C) $60^\circ$
   <!-- feedback: Incorrecto. $60 \times 2 + 40 = 160 \neq 180$. -->
@@ -132,9 +132,9 @@ Suma de ángulos base = $180^\circ - 40^\circ = 140^\circ$. Al ser congruentes, 
 ### Enunciado
 ¿Cuál es la medida exacta del ángulo $\angle C$?
 ### Opciones
-- [x] A) $80^\circ$
+- [x] B) $80^\circ$
   <!-- feedback: Correcto. $(x+10) + 2x + (3x-10) = 180 \implies 6x = 180 \implies x = 30^\circ$. Entonces $\angle C = 3(30) - 10 = 80^\circ$. -->
-- [ ] B) $60^\circ$
+- [ ] A) $60^\circ$
   <!-- feedback: Incorrecto. Corresponde a $\angle B$. -->
 - [ ] C) $40^\circ$
   <!-- feedback: Incorrecto. Corresponde a $\angle A$. -->
@@ -172,13 +172,13 @@ Desigualdad triangular: la medida del tercer lado debe ser mayor que la diferenc
 ### Enunciado
 ¿Cuál es la medida del mayor de estos dos ángulos internos no adyacentes?
 ### Opciones
-- [x] A) $60^\circ$
+- [x] D) $60^\circ$
   <!-- feedback: Correcto. Teorema del ángulo exterior: $x + (x + 10) = 110 \implies 2x = 100 \implies x = 50^\circ$. El ángulo mayor es $50 + 10 = 60^\circ$. -->
-- [ ] B) $50^\circ$
+- [ ] A) $50^\circ$
   <!-- feedback: Incorrecto. $50^\circ$ es la medida del menor. -->
-- [ ] C) $70^\circ$
+- [ ] B) $70^\circ$
   <!-- feedback: Incorrecto. Es el ángulo interno adyacente. -->
-- [ ] D) $55^\circ$
+- [ ] C) $55^\circ$
   <!-- feedback: Incorrecto. Dividiste $110$ entre $2$ sin restar $10$. -->
 ### Explicacion Pedagogica
 Ángulo exterior = suma de los internos no adyacentes: $x + x + 10 = 110 \implies 2x = 100 \implies x = 50^\circ$. El mayor mide $x+10 = 60^\circ$.
@@ -192,13 +192,13 @@ Desigualdad triangular: la medida del tercer lado debe ser mayor que la diferenc
 ### Enunciado
 ¿Cuál es la suma total de todos los ángulos internos del cuadrilátero original?
 ### Opciones
-- [x] A) $360^\circ$
+- [x] D) $360^\circ$
   <!-- feedback: Correcto. La suma de ángulos internos de cualquier cuadrilátero es la suma de 2 triángulos: $180^\circ + 180^\circ = 360^\circ$. -->
-- [ ] B) $315^\circ$
+- [ ] A) $315^\circ$
   <!-- feedback: Incorrecto. Omitiste el ángulo faltante del segundo triángulo. -->
-- [ ] C) $270^\circ$
+- [ ] B) $270^\circ$
   <!-- feedback: Incorrecto. Asumiste tres ángulos rectos. -->
-- [ ] D) $540^\circ$
+- [ ] C) $540^\circ$
   <!-- feedback: Incorrecto. Es la suma de un pentágono. -->
 ### Explicacion Pedagogica
 Todo cuadrilátero se compone de $2$ triángulos, por lo que la suma de sus ángulos internos es $2 \times 180^\circ = 360^\circ$.

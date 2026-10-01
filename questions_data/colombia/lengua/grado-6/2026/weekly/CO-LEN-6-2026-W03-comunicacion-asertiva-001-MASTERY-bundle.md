@@ -35,8 +35,8 @@ creador: "Jules-Agent"
 ### Opciones
 - [ ] A) Decir siempre lo que los demás quieren escuchar para evitar problemas. <!-- feedback: Incorrecto. Eso es comunicación pasiva. -->
 - [ ] B) Gritar más fuerte que los demás para imponer nuestro punto de vista. <!-- feedback: Incorrecto. Eso es comunicación agresiva. -->
-- [x] C) Expresar nuestros sentimientos, necesidades y opiniones de manera clara, honesta y respetuosa, sin agredir a los demás. <!-- feedback: Correcto. La asertividad es el equilibrio entre el respeto a uno mismo y el respeto a los demás. -->
-- [ ] D) Quedarse callado cuando algo nos molesta para no generar discusiones. <!-- feedback: Incorrecto. Eso es una conducta pasiva que no resuelve el conflicto. -->
+- [x] D) Expresar nuestros sentimientos, necesidades y opiniones de manera clara, honesta y respetuosa, sin agredir a los demás. <!-- feedback: Correcto. La asertividad es el equilibrio entre el respeto a uno mismo y el respeto a los demás. -->
+- [ ] C) Quedarse callado cuando algo nos molesta para no generar discusiones. <!-- feedback: Incorrecto. Eso es una conducta pasiva que no resuelve el conflicto. -->
 
 ### Explicacion Pedagogica
 La comunicación asertiva es una habilidad social que nos permite expresar nuestros pensamientos y emociones de forma directa y firme, pero siempre manteniendo el respeto hacia el interlocutor.
@@ -55,9 +55,9 @@ La comunicación asertiva es una habilidad social que nos permite expresar nuest
 
 ### Opciones
 - [ ] A) "¡Eres un flojo y siempre haces que yo trabaje solo! No te voy a poner en el grupo". <!-- feedback: Incorrecto. Es un mensaje agresivo que ataca a la persona. -->
-- [x] B) "Me siento un poco sobrecargado porque hice la cartelera solo. Me gustaría que nos dividiéramos mejor las tareas la próxima vez". <!-- feedback: Correcto. Usa el "yo" para expresar sentimientos y propone una solución sin insultar. -->
-- [ ] C) No decirle nada y hacer todo el trabajo con rabia, pero en silencio. <!-- feedback: Incorrecto. Es una respuesta pasiva que genera resentimiento. -->
-- [ ] D) Decirle al profesor que el compañero es una mala persona frente a todo el salón. <!-- feedback: Incorrecto. Es una conducta agresiva y poco constructiva. -->
+- [x] D) "Me siento un poco sobrecargado porque hice la cartelera solo. Me gustaría que nos dividiéramos mejor las tareas la próxima vez". <!-- feedback: Correcto. Usa el "yo" para expresar sentimientos y propone una solución sin insultar. -->
+- [ ] B) No decirle nada y hacer todo el trabajo con rabia, pero en silencio. <!-- feedback: Incorrecto. Es una respuesta pasiva que genera resentimiento. -->
+- [ ] C) Decirle al profesor que el compañero es una mala persona frente a todo el salón. <!-- feedback: Incorrecto. Es una conducta agresiva y poco constructiva. -->
 
 ### Explicacion Pedagogica
 Una técnica de la comunicación asertiva es hablar desde el "yo" (cómo me siento) en lugar de usar el "tú" acusador ("tú eres...", "tú hiciste..."), lo cual reduce la actitud defensiva del otro.
@@ -76,8 +76,8 @@ Una técnica de la comunicación asertiva es hablar desde el "yo" (cómo me sien
 
 ### Opciones
 - [ ] A) Tomarse la sopa fría sin quejarse para no incomodar al mesero. <!-- feedback: Incorrecto. Es una conducta pasiva. -->
-- [ ] B) Tirar la cuchara y gritar que el servicio en ese restaurante es pésimo. <!-- feedback: Incorrecto. Es una conducta agresiva. -->
-- [x] C) Llamar al mesero con respeto y explicarle que la sopa está fría, solicitando amablemente que la calienten. <!-- feedback: Correcto. Expresa una necesidad real de forma respetuosa y busca una solución. -->
+- [ ] C) Tirar la cuchara y gritar que el servicio en ese restaurante es pésimo. <!-- feedback: Incorrecto. Es una conducta agresiva. -->
+- [x] B) Llamar al mesero con respeto y explicarle que la sopa está fría, solicitando amablemente que la calienten. <!-- feedback: Correcto. Expresa una necesidad real de forma respetuosa y busca una solución. -->
 - [ ] D) Irse del restaurante sin pagar y dejar un comentario ofensivo en redes sociales. <!-- feedback: Incorrecto. Es una conducta agresiva y desproporcionada. -->
 
 ### Explicacion Pedagogica
@@ -96,9 +96,9 @@ Ser asertivo implica defender nuestros derechos como consumidores o ciudadanos s
 ¿Cuál es la mejor forma asertiva de iniciar su intervención para mostrar su desacuerdo?
 
 ### Opciones
-- [ ] A) "Lo que acabas de decir es una tontería y no tiene sentido". <!-- feedback: Incorrecto. Descalifica la opinión del otro. -->
-- [ ] B) "Yo tengo la razón porque he leído más sobre el tema que tú". <!-- feedback: Incorrecto. Es una actitud de superioridad agresiva. -->
-- [x] C) "Entiendo tu punto de vista, pero yo tengo una opinión diferente basada en estos motivos...". <!-- feedback: Correcto. Valida que escuchó al otro (empatía) antes de exponer su propia opinión con argumentos. -->
+- [ ] B) "Lo que acabas de decir es una tontería y no tiene sentido". <!-- feedback: Incorrecto. Descalifica la opinión del otro. -->
+- [ ] C) "Yo tengo la razón porque he leído más sobre el tema que tú". <!-- feedback: Incorrecto. Es una actitud de superioridad agresiva. -->
+- [x] A) "Entiendo tu punto de vista, pero yo tengo una opinión diferente basada en estos motivos...". <!-- feedback: Correcto. Valida que escuchó al otro (empatía) antes de exponer su propia opinión con argumentos. -->
 - [ ] D) Guardar silencio para que la compañera no se sienta mal. <!-- feedback: Incorrecto. El debate requiere exponer ideas; el silencio es pasivo. -->
 
 ### Explicacion Pedagogica
@@ -181,8 +181,8 @@ Frente a una comunicación agresiva, la respuesta asertiva no debe ser la misma 
 
 ### Opciones
 - [ ] A) "¡Ni loco te lo presto, tú siempre rompes todo lo que tocas!". <!-- feedback: Incorrecto. Es una respuesta agresiva que puede dañar la amistad. -->
-- [ ] B) Prestárselo aunque no quieras, por miedo a que se enoje contigo. <!-- feedback: Incorrecto. Es una respuesta pasiva que te genera malestar a ti. -->
-- [x] C) "Te aprecio mucho, pero prefiero no prestar mis videojuegos porque me gusta cuidarlos mucho. Podemos jugar juntos en mi casa si quieres". <!-- feedback: Correcto. Expresa el "no" con claridad, explica su motivo sin atacar y ofrece una alternativa. -->
+- [ ] C) Prestárselo aunque no quieras, por miedo a que se enoje contigo. <!-- feedback: Incorrecto. Es una respuesta pasiva que te genera malestar a ti. -->
+- [x] B) "Te aprecio mucho, pero prefiero no prestar mis videojuegos porque me gusta cuidarlos mucho. Podemos jugar juntos en mi casa si quieres". <!-- feedback: Correcto. Expresa el "no" con claridad, explica su motivo sin atacar y ofrece una alternativa. -->
 - [ ] D) Inventar una mentira diciendo que el videojuego se perdió. <!-- feedback: Incorrecto. La mentira no es honesta ni asertiva. -->
 
 ### Explicacion Pedagogica
@@ -201,8 +201,8 @@ Saber decir "no" es una de las pruebas de fuego de la asertividad. Se puede rech
 ¿Cuál es la acción asertiva que debería tomar un padre de familia al notar el error?
 
 ### Opciones
-- [ ] A) Insultar al padre que publicó la noticia por ser tan descuidado. <!-- feedback: Incorrecto. La agresión solo genera más caos en el grupo. -->
-- [x] B) Publicar de forma calmada la fuente oficial que desmiente la noticia, pidiendo verificar antes de compartir. <!-- feedback: Correcto. Corrige el error con datos objetivos y de manera educada para el bienestar del grupo. -->
+- [ ] B) Insultar al padre que publicó la noticia por ser tan descuidado. <!-- feedback: Incorrecto. La agresión solo genera más caos en el grupo. -->
+- [x] A) Publicar de forma calmada la fuente oficial que desmiente la noticia, pidiendo verificar antes de compartir. <!-- feedback: Correcto. Corrige el error con datos objetivos y de manera educada para el bienestar del grupo. -->
 - [ ] C) Salirse del grupo sin decir nada. <!-- feedback: Incorrecto. Es una respuesta pasiva que no ayuda a los demás padres a salir del error. -->
 - [ ] D) Compartir la noticia en otros grupos por si acaso es verdad. <!-- feedback: Incorrecto. Es una conducta irresponsable. -->
 
@@ -222,9 +222,9 @@ La asertividad en medios digitales requiere el mismo respeto que en persona. Cor
 ¿Qué significa esta afirmación en el contexto de la comunicación humana?
 
 ### Opciones
-- [ ] A) Que si soy asertivo, siempre voy a ganar todas las discusiones. <!-- feedback: Incorrecto. La asertividad no se trata de ganar o perder. -->
-- [ ] B) Que ser asertivo es inútil porque la gente no siempre nos hace caso. <!-- feedback: Incorrecto. La utilidad está en el autorespeto y la salud emocional. -->
-- [x] C) Que el éxito de la asertividad está en nuestra honestidad y tranquilidad al expresarnos, independientemente de la reacción del otro. <!-- feedback: Correcto. No podemos controlar a los demás, pero sí nuestra forma de tratarnos y tratar a otros. -->
+- [ ] B) Que si soy asertivo, siempre voy a ganar todas las discusiones. <!-- feedback: Incorrecto. La asertividad no se trata de ganar o perder. -->
+- [ ] C) Que ser asertivo es inútil porque la gente no siempre nos hace caso. <!-- feedback: Incorrecto. La utilidad está en el autorespeto y la salud emocional. -->
+- [x] A) Que el éxito de la asertividad está en nuestra honestidad y tranquilidad al expresarnos, independientemente de la reacción del otro. <!-- feedback: Correcto. No podemos controlar a los demás, pero sí nuestra forma de tratarnos y tratar a otros. -->
 - [ ] D) Que solo las personas que mandan mucho pueden ser asertivas. <!-- feedback: Incorrecto. La asertividad es para todos, especialmente para quienes les cuesta expresarse. -->
 
 ### Explicacion Pedagogica

@@ -30,9 +30,9 @@ Sigue las pistas de un buen misterio y aprende a resolverlo con razones.
 ### Enunciado
 ¿Qué caracteriza a un cuento de misterio?
 ### Opciones
-- [x] A) Presenta un enigma que se intenta resolver con pistas.
+- [x] B) Presenta un enigma que se intenta resolver con pistas.
   <!-- feedback: Es correcta porque el misterio gira en torno a una pregunta sin respuesta hasta el final. -->
-- [ ] B) Solo describe un partido de fútbol.
+- [ ] A) Solo describe un partido de fútbol.
   <!-- feedback: Es incorrecta porque un partido no plantea ningún enigma por resolver. -->
 - [ ] C) Explica una receta de cocina paso a paso.
   <!-- feedback: Es incorrecta porque la receta indica pasos y no guarda un secreto. -->
@@ -50,9 +50,9 @@ Un cuento de misterio plantea un enigma y deja pistas para que el lector partici
 ### Enunciado
 ¿Para qué sirve una pista dentro de un cuento de misterio?
 ### Opciones
-- [x] A) Para acercarnos a la respuesta del enigma.
+- [x] B) Para acercarnos a la respuesta del enigma.
   <!-- feedback: Es correcta porque cada pista reduce las posibilidades y guía al lector. -->
-- [ ] B) Para alargar el cuento con palabras muy difíciles.
+- [ ] A) Para alargar el cuento con palabras muy difíciles.
   <!-- feedback: Es incorrecta porque una pista aporta información, no dificultad de vocabulario. -->
 - [ ] C) Para cambiar el tema de la historia.
   <!-- feedback: Es incorrecta porque una pista mantiene el tema y ayuda a resolverlo. -->
@@ -90,13 +90,13 @@ Aplicar la lectura de pistas exige relacionar el detalle con el enigma. El barro
 ### Enunciado
 ¿Cuál es el orden correcto de los hechos del cuento?
 ### Opciones
-- [x] A) Desaparece la lonchera, Ana ve la huella y la lonchera aparece en el patio.
+- [x] D) Desaparece la lonchera, Ana ve la huella y la lonchera aparece en el patio.
   <!-- feedback: Es correcta porque respeta el orden en que el narrador presenta los hechos. -->
-- [ ] B) Aparece la lonchera, desaparece la lonchera y Ana ve la huella.
+- [ ] A) Aparece la lonchera, desaparece la lonchera y Ana ve la huella.
   <!-- feedback: Es incorrecta porque la lonchera primero desaparece y solo al final aparece. -->
-- [ ] C) Ana ve la huella, aparece la lonchera y luego desaparece.
+- [ ] B) Ana ve la huella, aparece la lonchera y luego desaparece.
   <!-- feedback: Es incorrecta porque invierte la desaparición y el hallazgo final. -->
-- [ ] D) Todos los hechos ocurren al mismo tiempo.
+- [ ] C) Todos los hechos ocurren al mismo tiempo.
   <!-- feedback: Es incorrecta porque el relato presenta una secuencia clara de inicio a fin. -->
 ### Explicacion Pedagogica
 Aplicar la secuencia narrativa permite reconstruir la historia en orden. En un misterio, el orden de las pistas también importa: primero el problema, luego las huellas y al final la solución.
@@ -110,11 +110,11 @@ Aplicar la secuencia narrativa permite reconstruir la historia en orden. En un m
 ### Enunciado
 ¿Qué pudo causar la caída del cuaderno?
 ### Opciones
-- [x] A) El viento que movió la cortina.
+- [x] C) El viento que movió la cortina.
   <!-- feedback: Es correcta porque el texto relaciona el viento con la caída del cuaderno. -->
-- [ ] B) El ruido del timbre de entrada.
+- [ ] A) El ruido del timbre de entrada.
   <!-- feedback: Es incorrecta porque un sonido no empuja los objetos sobre la mesa. -->
-- [ ] C) La mesa del profesor.
+- [ ] B) La mesa del profesor.
   <!-- feedback: Es incorrecta porque la mesa no se menciona como causa de la caída. -->
 - [ ] D) El color de la pared del salón.
   <!-- feedback: Es incorrecta porque el color no produce movimiento. -->
@@ -130,9 +130,9 @@ Inferir una causa es unir dos hechos del texto: el viento y la caída. Aplicar e
 ### Enunciado
 Al analizar los dos argumentos, ¿cuál es más confiable en un misterio?
 ### Opciones
-- [x] A) El de Andrés, porque se apoya en una prueba del caso.
+- [x] B) El de Andrés, porque se apoya en una prueba del caso.
   <!-- feedback: Es correcta porque el nombre firmado es un dato concreto y verificable. -->
-- [ ] B) El de Sofía, porque su corazonada basta para acusar.
+- [ ] A) El de Sofía, porque su corazonada basta para acusar.
   <!-- feedback: Es incorrecta porque una corazonada no es una prueba del hecho. -->
 - [ ] C) El de Sofía, porque vio a Pedro una vez.
   <!-- feedback: Es incorrecta porque ver a alguien no demuestra que haya hecho algo. -->
@@ -150,11 +150,11 @@ Analizar un misterio exige distinguir una prueba de una suposición. La prueba s
 ### Enunciado
 ¿Qué debes hacer al analizar esa contradicción?
 ### Opciones
-- [x] A) Buscar más pistas que aclaren cómo salió esa persona.
+- [x] C) Buscar más pistas que aclaren cómo salió esa persona.
   <!-- feedback: Es correcta porque la nueva información ayuda a resolver la contradicción. -->
-- [ ] B) Ignorar al testigo para no complicar el cuento.
+- [ ] A) Ignorar al testigo para no complicar el cuento.
   <!-- feedback: Es incorrecta porque descartar un dato debilita la investigación. -->
-- [ ] C) Decidir que todo el cuento es falso y cerrarlo.
+- [ ] B) Decidir que todo el cuento es falso y cerrarlo.
   <!-- feedback: Es incorrecta porque una contradicción es parte del reto, no una falla total. -->
 - [ ] D) Elegir a un culpable al azar.
   <!-- feedback: Es incorrecta porque acusar sin pruebas no resuelve el enigma. -->
@@ -170,9 +170,9 @@ Analizar contradicciones es comparar dos datos que no encajan y buscar una expli
 ### Enunciado
 ¿Cuál final resuelve mejor el enigma con las pistas dadas?
 ### Opciones
-- [x] A) La lonchera apareció en el patio y las huellas de barro guiaron hasta el jardín, donde un perro la había arrastrado.
+- [x] B) La lonchera apareció en el patio y las huellas de barro guiaron hasta el jardín, donde un perro la había arrastrado.
   <!-- feedback: Es correcta porque explica el hallazgo y usa la pista del barro para resolver el misterio. -->
-- [ ] B) De pronto llegó un dragón y se llevó todas las loncheras del colegio.
+- [ ] A) De pronto llegó un dragón y se llevó todas las loncheras del colegio.
   <!-- feedback: Es incorrecta porque un dragón no aparece en las pistas del cuento. -->
 - [ ] C) Nadie supo nunca qué pasó y el cuento terminó sin explicación.
   <!-- feedback: Es incorrecta porque un final de misterio debe aclarar el enigma. -->

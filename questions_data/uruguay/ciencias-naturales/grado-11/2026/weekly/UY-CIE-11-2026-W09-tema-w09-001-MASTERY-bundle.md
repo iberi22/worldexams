@@ -33,13 +33,13 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Cuál es la función de las enzimas de restricción (endonucleasas) en la tecnología del ADN recombinante?
 
 ### Opciones
-- [x] A) Cortar el ADN en secuencias de nucleótidos específicas y palindrómicas de manera precisa.
+- [x] D) Cortar el ADN en secuencias de nucleótidos específicas y palindrómicas de manera precisa.
   <!-- feedback: Correcto. Las enzimas de restricción cortan el ADN reconociendo secuencias diana de 4 a 8 pares de bases. -->
-- [ ] B) Unir de forma covalente azúcares desoxirribosas de diferentes plásmidos.
+- [ ] A) Unir de forma covalente azúcares desoxirribosas de diferentes plásmidos.
   <!-- feedback: Incorrecto. La unión covalente de fragmentos de ADN es catalizada por la enzima ligasa. -->
-- [ ] C) Duplicar de manera exponencial cadenas de ARN dentro de un termociclador.
+- [ ] B) Duplicar de manera exponencial cadenas de ARN dentro de un termociclador.
   <!-- feedback: Incorrecto. La duplicación in vitro es realizada por la polimerasa Taq en la PCR, no por endonucleasas. -->
-- [ ] D) Degradar las proteínas de la envoltura celular bacteriana antes de la inserción.
+- [ ] C) Degradar las proteínas de la envoltura celular bacteriana antes de la inserción.
   <!-- feedback: Incorrecto. Las membranas o paredes se disuelven mediante detergentes, lisozimas o electroporación. -->
 
 ### Explicación Pedagógica
@@ -79,13 +79,13 @@ La PCR utiliza una ADN polimerasa termoestable (Taq) para resistir ciclos repeti
 Al realizar una electroforesis en gel de agarosa para separar fragmentos de ADN de diferentes longitudes, ¿en qué dirección migran las muestras y por qué?
 
 ### Opciones
-- [x] A) Hacia el polo positivo (ánodo) debido a la carga eléctrica negativa neta de los grupos fosfato del ADN.
+- [x] D) Hacia el polo positivo (ánodo) debido a la carga eléctrica negativa neta de los grupos fosfato del ADN.
   <!-- feedback: Correcto. Los fosfatos le otorgan carga negativa constante al ADN, haciendo que migre hacia el ánodo en un campo eléctrico. -->
-- [ ] B) Hacia el polo negativo (cátodo) atraído por las cargas positivas de las bases nitrogenadas libres.
+- [ ] A) Hacia el polo negativo (cátodo) atraído por las cargas positivas de las bases nitrogenadas libres.
   <!-- feedback: Incorrecto. El ADN es atraído por el ánodo (+), no por el cátodo (-) debido a que es un polímero de carácter ácido negativo. -->
-- [ ] C) Hacia el fondo del gel por sedimentación gravitatoria dependiente de los azúcares pentosas.
+- [ ] B) Hacia el fondo del gel por sedimentación gravitatoria dependiente de los azúcares pentosas.
   <!-- feedback: Incorrecto. La gravedad no tiene relevancia en la separación molecular en geles de matriz estrecha. -->
-- [ ] D) Se desplazan de manera lateral en círculos concéntricos inducidos por un campo magnético alterno.
+- [ ] C) Se desplazan de manera lateral en círculos concéntricos inducidos por un campo magnético alterno.
   <!-- feedback: Incorrecto. La electroforesis utiliza corriente continua lineal unidireccional para forzar el avance de las muestras. -->
 
 ### Explicación Pedagógica
@@ -102,11 +102,11 @@ En la electroforesis, los fragmentos pequeños de ADN se desplazan más rápido 
 ¿Cuál es la definición correcta de un organismo transgénico en biotecnología moderna?
 
 ### Opciones
-- [x] A) Un organismo vivo que posee un gen exógeno de otra especie incorporado de forma estable en su genoma.
+- [x] C) Un organismo vivo que posee un gen exógeno de otra especie incorporado de forma estable en su genoma.
   <!-- feedback: Correcto. El transgén es integrado de manera artificial para conferir una característica fenotípica de interés comercial o medicinal. -->
-- [ ] B) Un espécimen sometido a radiación ionizante para eliminar selectivamente genes perjudiciales.
+- [ ] A) Un espécimen sometido a radiación ionizante para eliminar selectivamente genes perjudiciales.
   <!-- feedback: Incorrecto. La mutagénesis aleatoria por radiación no constituye transgenia, ya que no introduce genes de otras especies. -->
-- [ ] C) Un clon idéntico obtenido por transferencia nuclear de células germinales del mismo individuo.
+- [ ] B) Un clon idéntico obtenido por transferencia nuclear de células germinales del mismo individuo.
   <!-- feedback: Incorrecto. La clonación copia el genoma preexistente; no involucra recombinación interespecífica de genes. -->
 - [ ] D) Un híbrido resultante de la fecundación tradicional de dos variedades del mismo cultivo.
   <!-- feedback: Incorrecto. El mejoramiento clásico por cruce sexual es un proceso natural que opera dentro de barreras biológicas. -->
@@ -125,13 +125,13 @@ La biotecnología genera transgénicos mediante vectores de clonación como plá
 ¿Cuál es la función de las enzimas de restricción (endonucleasas) en la tecnología del ADN recombinante?
 
 ### Opciones
-- [x] A) Cortar el ADN en secuencias de nucleótidos específicas y palindrómicas de manera precisa.
+- [x] D) Cortar el ADN en secuencias de nucleótidos específicas y palindrómicas de manera precisa.
   <!-- feedback: Correcto. Las enzimas de restricción cortan el ADN reconociendo secuencias diana de 4 a 8 pares de bases. -->
-- [ ] B) Unir de forma covalente azúcares desoxirribosas de diferentes plásmidos.
+- [ ] A) Unir de forma covalente azúcares desoxirribosas de diferentes plásmidos.
   <!-- feedback: Incorrecto. La unión covalente de fragmentos de ADN es catalizada por la enzima ligasa. -->
-- [ ] C) Duplicar de manera exponencial cadenas de ARN dentro de un termociclador.
+- [ ] B) Duplicar de manera exponencial cadenas de ARN dentro de un termociclador.
   <!-- feedback: Incorrecto. La duplicación in vitro es realizada por la polimerasa Taq en la PCR, no por endonucleasas. -->
-- [ ] D) Degradar las proteínas de la envoltura celular bacteriana antes de la inserción.
+- [ ] C) Degradar las proteínas de la envoltura celular bacteriana antes de la inserción.
   <!-- feedback: Incorrecto. Las membranas o paredes se disuelven mediante detergentes, lisozimas o electroporación. -->
 
 ### Explicación Pedagógica
@@ -148,13 +148,13 @@ Las enzimas de restricción, descubiertas en bacterias como mecanismo de defensa
 ¿Qué propiedad física de las macromoléculas permite separar las dos hebras de la doble hélice de ADN durante el paso de desnaturalización en un ensayo de PCR?
 
 ### Opciones
-- [x] A) El calor: el incremento de temperatura a ~95 °C rompe los puentes de hidrógeno sin dañar los enlaces fosfodiéster covalentes.
+- [x] D) El calor: el incremento de temperatura a ~95 °C rompe los puentes de hidrógeno sin dañar los enlaces fosfodiéster covalentes.
   <!-- feedback: Correcto. La desnaturalización térmica separa las hebras de manera reversible en cada ciclo de la PCR. -->
-- [ ] B) La fuerza centrífuga a altas velocidades de rotación mecánica de sobremesa.
+- [ ] A) La fuerza centrífuga a altas velocidades de rotación mecánica de sobremesa.
   <!-- feedback: Incorrecto. La centrifugación separa componentes por densidad o masa molecular pero no desnaturaliza la doble hélice de ADN. -->
-- [ ] C) La acción catalítica de enzimas helicasas termoestables sintéticas.
+- [ ] B) La acción catalítica de enzimas helicasas termoestables sintéticas.
   <!-- feedback: Incorrecto. La PCR convencional prescinde de helicasas; la separación se logra mediante calor controlado. -->
-- [ ] D) El cambio brusco de pH alcalino por adición de hidróxido de sodio concentrado.
+- [ ] C) El cambio brusco de pH alcalino por adición de hidróxido de sodio concentrado.
   <!-- feedback: Incorrecto. El pH químico dañaría irreversiblemente las enzimas Taq polimerasa necesarias para la elongación. -->
 
 ### Explicación Pedagógica
@@ -171,13 +171,13 @@ La PCR utiliza una ADN polimerasa termoestable (Taq) para resistir ciclos repeti
 Al realizar una electroforesis en gel de agarosa para separar fragmentos de ADN de diferentes longitudes, ¿en qué dirección migran las muestras y por qué?
 
 ### Opciones
-- [x] A) Hacia el polo positivo (ánodo) debido a la carga eléctrica negativa neta de los grupos fosfato del ADN.
+- [x] D) Hacia el polo positivo (ánodo) debido a la carga eléctrica negativa neta de los grupos fosfato del ADN.
   <!-- feedback: Correcto. Los fosfatos le otorgan carga negativa constante al ADN, haciendo que migre hacia el ánodo en un campo eléctrico. -->
-- [ ] B) Hacia el polo negativo (cátodo) atraído por las cargas positivas de las bases nitrogenadas libres.
+- [ ] A) Hacia el polo negativo (cátodo) atraído por las cargas positivas de las bases nitrogenadas libres.
   <!-- feedback: Incorrecto. El ADN es atraído por el ánodo (+), no por el cátodo (-) debido a que es un polímero de carácter ácido negativo. -->
-- [ ] C) Hacia el fondo del gel por sedimentación gravitatoria dependiente de los azúcares pentosas.
+- [ ] B) Hacia el fondo del gel por sedimentación gravitatoria dependiente de los azúcares pentosas.
   <!-- feedback: Incorrecto. La gravedad no tiene relevancia en la separación molecular en geles de matriz estrecha. -->
-- [ ] D) Se desplazan de manera lateral en círculos concéntricos inducidos por un campo magnético alterno.
+- [ ] C) Se desplazan de manera lateral en círculos concéntricos inducidos por un campo magnético alterno.
   <!-- feedback: Incorrecto. La electroforesis utiliza corriente continua lineal unidireccional para forzar el avance de las muestras. -->
 
 ### Explicación Pedagógica
@@ -217,11 +217,11 @@ La biotecnología genera transgénicos mediante vectores de clonación como plá
 ¿Cuál es la función de las enzimas de restricción (endonucleasas) en la tecnología del ADN recombinante?
 
 ### Opciones
-- [x] A) Cortar el ADN en secuencias de nucleótidos específicas y palindrómicas de manera precisa.
+- [x] C) Cortar el ADN en secuencias de nucleótidos específicas y palindrómicas de manera precisa.
   <!-- feedback: Correcto. Las enzimas de restricción cortan el ADN reconociendo secuencias diana de 4 a 8 pares de bases. -->
-- [ ] B) Unir de forma covalente azúcares desoxirribosas de diferentes plásmidos.
+- [ ] A) Unir de forma covalente azúcares desoxirribosas de diferentes plásmidos.
   <!-- feedback: Incorrecto. La unión covalente de fragmentos de ADN es catalizada por la enzima ligasa. -->
-- [ ] C) Duplicar de manera exponencial cadenas de ARN dentro de un termociclador.
+- [ ] B) Duplicar de manera exponencial cadenas de ARN dentro de un termociclador.
   <!-- feedback: Incorrecto. La duplicación in vitro es realizada por la polimerasa Taq en la PCR, no por endonucleasas. -->
 - [ ] D) Degradar las proteínas de la envoltura celular bacteriana antes de la inserción.
   <!-- feedback: Incorrecto. Las membranas o paredes se disuelven mediante detergentes, lisozimas o electroporación. -->
@@ -240,11 +240,11 @@ Las enzimas de restricción, descubiertas en bacterias como mecanismo de defensa
 ¿Qué propiedad física de las macromoléculas permite separar las dos hebras de la doble hélice de ADN durante el paso de desnaturalización en un ensayo de PCR?
 
 ### Opciones
-- [x] A) El calor: el incremento de temperatura a ~95 °C rompe los puentes de hidrógeno sin dañar los enlaces fosfodiéster covalentes.
+- [x] C) El calor: el incremento de temperatura a ~95 °C rompe los puentes de hidrógeno sin dañar los enlaces fosfodiéster covalentes.
   <!-- feedback: Correcto. La desnaturalización térmica separa las hebras de manera reversible en cada ciclo de la PCR. -->
-- [ ] B) La fuerza centrífuga a altas velocidades de rotación mecánica de sobremesa.
+- [ ] A) La fuerza centrífuga a altas velocidades de rotación mecánica de sobremesa.
   <!-- feedback: Incorrecto. La centrifugación separa componentes por densidad o masa molecular pero no desnaturaliza la doble hélice de ADN. -->
-- [ ] C) La acción catalítica de enzimas helicasas termoestables sintéticas.
+- [ ] B) La acción catalítica de enzimas helicasas termoestables sintéticas.
   <!-- feedback: Incorrecto. La PCR convencional prescinde de helicasas; la separación se logra mediante calor controlado. -->
 - [ ] D) El cambio brusco de pH alcalino por adición de hidróxido de sodio concentrado.
   <!-- feedback: Incorrecto. El pH químico dañaría irreversiblemente las enzimas Taq polimerasa necesarias para la elongación. -->
@@ -263,11 +263,11 @@ La PCR utiliza una ADN polimerasa termoestable (Taq) para resistir ciclos repeti
 Al realizar una electroforesis en gel de agarosa para separar fragmentos de ADN de diferentes longitudes, ¿en qué dirección migran las muestras y por qué?
 
 ### Opciones
-- [x] A) Hacia el polo positivo (ánodo) debido a la carga eléctrica negativa neta de los grupos fosfato del ADN.
+- [x] C) Hacia el polo positivo (ánodo) debido a la carga eléctrica negativa neta de los grupos fosfato del ADN.
   <!-- feedback: Correcto. Los fosfatos le otorgan carga negativa constante al ADN, haciendo que migre hacia el ánodo en un campo eléctrico. -->
-- [ ] B) Hacia el polo negativo (cátodo) atraído por las cargas positivas de las bases nitrogenadas libres.
+- [ ] A) Hacia el polo negativo (cátodo) atraído por las cargas positivas de las bases nitrogenadas libres.
   <!-- feedback: Incorrecto. El ADN es atraído por el ánodo (+), no por el cátodo (-) debido a que es un polímero de carácter ácido negativo. -->
-- [ ] C) Hacia el fondo del gel por sedimentación gravitatoria dependiente de los azúcares pentosas.
+- [ ] B) Hacia el fondo del gel por sedimentación gravitatoria dependiente de los azúcares pentosas.
   <!-- feedback: Incorrecto. La gravedad no tiene relevancia en la separación molecular en geles de matriz estrecha. -->
 - [ ] D) Se desplazan de manera lateral en círculos concéntricos inducidos por un campo magnético alterno.
   <!-- feedback: Incorrecto. La electroforesis utiliza corriente continua lineal unidireccional para forzar el avance de las muestras. -->
@@ -309,11 +309,11 @@ La biotecnología genera transgénicos mediante vectores de clonación como plá
 ¿Cuál es la función de las enzimas de restricción (endonucleasas) en la tecnología del ADN recombinante?
 
 ### Opciones
-- [x] A) Cortar el ADN en secuencias de nucleótidos específicas y palindrómicas de manera precisa.
+- [x] C) Cortar el ADN en secuencias de nucleótidos específicas y palindrómicas de manera precisa.
   <!-- feedback: Correcto. Las enzimas de restricción cortan el ADN reconociendo secuencias diana de 4 a 8 pares de bases. -->
-- [ ] B) Unir de forma covalente azúcares desoxirribosas de diferentes plásmidos.
+- [ ] A) Unir de forma covalente azúcares desoxirribosas de diferentes plásmidos.
   <!-- feedback: Incorrecto. La unión covalente de fragmentos de ADN es catalizada por la enzima ligasa. -->
-- [ ] C) Duplicar de manera exponencial cadenas de ARN dentro de un termociclador.
+- [ ] B) Duplicar de manera exponencial cadenas de ARN dentro de un termociclador.
   <!-- feedback: Incorrecto. La duplicación in vitro es realizada por la polimerasa Taq en la PCR, no por endonucleasas. -->
 - [ ] D) Degradar las proteínas de la envoltura celular bacteriana antes de la inserción.
   <!-- feedback: Incorrecto. Las membranas o paredes se disuelven mediante detergentes, lisozimas o electroporación. -->
@@ -332,13 +332,13 @@ Las enzimas de restricción, descubiertas en bacterias como mecanismo de defensa
 ¿Qué propiedad física de las macromoléculas permite separar las dos hebras de la doble hélice de ADN durante el paso de desnaturalización en un ensayo de PCR?
 
 ### Opciones
-- [x] A) El calor: el incremento de temperatura a ~95 °C rompe los puentes de hidrógeno sin dañar los enlaces fosfodiéster covalentes.
+- [x] D) El calor: el incremento de temperatura a ~95 °C rompe los puentes de hidrógeno sin dañar los enlaces fosfodiéster covalentes.
   <!-- feedback: Correcto. La desnaturalización térmica separa las hebras de manera reversible en cada ciclo de la PCR. -->
-- [ ] B) La fuerza centrífuga a altas velocidades de rotación mecánica de sobremesa.
+- [ ] A) La fuerza centrífuga a altas velocidades de rotación mecánica de sobremesa.
   <!-- feedback: Incorrecto. La centrifugación separa componentes por densidad o masa molecular pero no desnaturaliza la doble hélice de ADN. -->
-- [ ] C) La acción catalítica de enzimas helicasas termoestables sintéticas.
+- [ ] B) La acción catalítica de enzimas helicasas termoestables sintéticas.
   <!-- feedback: Incorrecto. La PCR convencional prescinde de helicasas; la separación se logra mediante calor controlado. -->
-- [ ] D) El cambio brusco de pH alcalino por adición de hidróxido de sodio concentrado.
+- [ ] C) El cambio brusco de pH alcalino por adición de hidróxido de sodio concentrado.
   <!-- feedback: Incorrecto. El pH químico dañaría irreversiblemente las enzimas Taq polimerasa necesarias para la elongación. -->
 
 ### Explicación Pedagógica
@@ -355,13 +355,13 @@ La PCR utiliza una ADN polimerasa termoestable (Taq) para resistir ciclos repeti
 Al realizar una electroforesis en gel de agarosa para separar fragmentos de ADN de diferentes longitudes, ¿en qué dirección migran las muestras y por qué?
 
 ### Opciones
-- [x] A) Hacia el polo positivo (ánodo) debido a la carga eléctrica negativa neta de los grupos fosfato del ADN.
+- [x] D) Hacia el polo positivo (ánodo) debido a la carga eléctrica negativa neta de los grupos fosfato del ADN.
   <!-- feedback: Correcto. Los fosfatos le otorgan carga negativa constante al ADN, haciendo que migre hacia el ánodo en un campo eléctrico. -->
-- [ ] B) Hacia el polo negativo (cátodo) atraído por las cargas positivas de las bases nitrogenadas libres.
+- [ ] A) Hacia el polo negativo (cátodo) atraído por las cargas positivas de las bases nitrogenadas libres.
   <!-- feedback: Incorrecto. El ADN es atraído por el ánodo (+), no por el cátodo (-) debido a que es un polímero de carácter ácido negativo. -->
-- [ ] C) Hacia el fondo del gel por sedimentación gravitatoria dependiente de los azúcares pentosas.
+- [ ] B) Hacia el fondo del gel por sedimentación gravitatoria dependiente de los azúcares pentosas.
   <!-- feedback: Incorrecto. La gravedad no tiene relevancia en la separación molecular en geles de matriz estrecha. -->
-- [ ] D) Se desplazan de manera lateral en círculos concéntricos inducidos por un campo magnético alterno.
+- [ ] C) Se desplazan de manera lateral en círculos concéntricos inducidos por un campo magnético alterno.
   <!-- feedback: Incorrecto. La electroforesis utiliza corriente continua lineal unidireccional para forzar el avance de las muestras. -->
 
 ### Explicación Pedagógica
@@ -378,11 +378,11 @@ En la electroforesis, los fragmentos pequeños de ADN se desplazan más rápido 
 ¿Cuál es la definición correcta de un organismo transgénico en biotecnología moderna?
 
 ### Opciones
-- [x] A) Un organismo vivo que posee un gen exógeno de otra especie incorporado de forma estable en su genoma.
+- [x] C) Un organismo vivo que posee un gen exógeno de otra especie incorporado de forma estable en su genoma.
   <!-- feedback: Correcto. El transgén es integrado de manera artificial para conferir una característica fenotípica de interés comercial o medicinal. -->
-- [ ] B) Un espécimen sometido a radiación ionizante para eliminar selectivamente genes perjudiciales.
+- [ ] A) Un espécimen sometido a radiación ionizante para eliminar selectivamente genes perjudiciales.
   <!-- feedback: Incorrecto. La mutagénesis aleatoria por radiación no constituye transgenia, ya que no introduce genes de otras especies. -->
-- [ ] C) Un clon idéntico obtenido por transferencia nuclear de células germinales del mismo individuo.
+- [ ] B) Un clon idéntico obtenido por transferencia nuclear de células germinales del mismo individuo.
   <!-- feedback: Incorrecto. La clonación copia el genoma preexistente; no involucra recombinación interespecífica de genes. -->
 - [ ] D) Un híbrido resultante de la fecundación tradicional de dos variedades del mismo cultivo.
   <!-- feedback: Incorrecto. El mejoramiento clásico por cruce sexual es un proceso natural que opera dentro de barreras biológicas. -->
@@ -401,9 +401,9 @@ La biotecnología genera transgénicos mediante vectores de clonación como plá
 ¿Cuál es la función de las enzimas de restricción (endonucleasas) en la tecnología del ADN recombinante?
 
 ### Opciones
-- [x] A) Cortar el ADN en secuencias de nucleótidos específicas y palindrómicas de manera precisa.
+- [x] B) Cortar el ADN en secuencias de nucleótidos específicas y palindrómicas de manera precisa.
   <!-- feedback: Correcto. Las enzimas de restricción cortan el ADN reconociendo secuencias diana de 4 a 8 pares de bases. -->
-- [ ] B) Unir de forma covalente azúcares desoxirribosas de diferentes plásmidos.
+- [ ] A) Unir de forma covalente azúcares desoxirribosas de diferentes plásmidos.
   <!-- feedback: Incorrecto. La unión covalente de fragmentos de ADN es catalizada por la enzima ligasa. -->
 - [ ] C) Duplicar de manera exponencial cadenas de ARN dentro de un termociclador.
   <!-- feedback: Incorrecto. La duplicación in vitro es realizada por la polimerasa Taq en la PCR, no por endonucleasas. -->
@@ -424,9 +424,9 @@ Las enzimas de restricción, descubiertas en bacterias como mecanismo de defensa
 ¿Qué propiedad física de las macromoléculas permite separar las dos hebras de la doble hélice de ADN durante el paso de desnaturalización en un ensayo de PCR?
 
 ### Opciones
-- [x] A) El calor: el incremento de temperatura a ~95 °C rompe los puentes de hidrógeno sin dañar los enlaces fosfodiéster covalentes.
+- [x] B) El calor: el incremento de temperatura a ~95 °C rompe los puentes de hidrógeno sin dañar los enlaces fosfodiéster covalentes.
   <!-- feedback: Correcto. La desnaturalización térmica separa las hebras de manera reversible en cada ciclo de la PCR. -->
-- [ ] B) La fuerza centrífuga a altas velocidades de rotación mecánica de sobremesa.
+- [ ] A) La fuerza centrífuga a altas velocidades de rotación mecánica de sobremesa.
   <!-- feedback: Incorrecto. La centrifugación separa componentes por densidad o masa molecular pero no desnaturaliza la doble hélice de ADN. -->
 - [ ] C) La acción catalítica de enzimas helicasas termoestables sintéticas.
   <!-- feedback: Incorrecto. La PCR convencional prescinde de helicasas; la separación se logra mediante calor controlado. -->
@@ -447,13 +447,13 @@ La PCR utiliza una ADN polimerasa termoestable (Taq) para resistir ciclos repeti
 Al realizar una electroforesis en gel de agarosa para separar fragmentos de ADN de diferentes longitudes, ¿en qué dirección migran las muestras y por qué?
 
 ### Opciones
-- [x] A) Hacia el polo positivo (ánodo) debido a la carga eléctrica negativa neta de los grupos fosfato del ADN.
+- [x] D) Hacia el polo positivo (ánodo) debido a la carga eléctrica negativa neta de los grupos fosfato del ADN.
   <!-- feedback: Correcto. Los fosfatos le otorgan carga negativa constante al ADN, haciendo que migre hacia el ánodo en un campo eléctrico. -->
-- [ ] B) Hacia el polo negativo (cátodo) atraído por las cargas positivas de las bases nitrogenadas libres.
+- [ ] A) Hacia el polo negativo (cátodo) atraído por las cargas positivas de las bases nitrogenadas libres.
   <!-- feedback: Incorrecto. El ADN es atraído por el ánodo (+), no por el cátodo (-) debido a que es un polímero de carácter ácido negativo. -->
-- [ ] C) Hacia el fondo del gel por sedimentación gravitatoria dependiente de los azúcares pentosas.
+- [ ] B) Hacia el fondo del gel por sedimentación gravitatoria dependiente de los azúcares pentosas.
   <!-- feedback: Incorrecto. La gravedad no tiene relevancia en la separación molecular en geles de matriz estrecha. -->
-- [ ] D) Se desplazan de manera lateral en círculos concéntricos inducidos por un campo magnético alterno.
+- [ ] C) Se desplazan de manera lateral en círculos concéntricos inducidos por un campo magnético alterno.
   <!-- feedback: Incorrecto. La electroforesis utiliza corriente continua lineal unidireccional para forzar el avance de las muestras. -->
 
 ### Explicación Pedagógica

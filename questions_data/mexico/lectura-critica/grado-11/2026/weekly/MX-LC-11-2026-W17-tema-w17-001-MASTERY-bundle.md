@@ -33,9 +33,9 @@ La ciudad de Monterrey, históricamente consolidada como el polo industrial y de
 ### Opciones
 - [ ] A) Una recopilación de datos para manuales contables de Europa del siglo XVI.
   <!-- feedback: Incorrecto. El texto aborda aspectos culturales, históricos y ecológicos del México contemporáneo, desvinculado de reglamentos contables coloniales. -->
-- [x] B) El papel y la relevancia de polo de Monterrey en la dinámica de la región.
+- [x] C) El papel y la relevancia de polo de Monterrey en la dinámica de la región.
   <!-- feedback: Correcto. El texto expone de manera explícita la trascendencia de polo de Monterrey para entender la problemática o fenómeno de la zona. -->
-- [ ] C) Una teoría de la física moderna abstracta desprovista de registro empírico terrestre.
+- [ ] B) Una teoría de la física moderna abstracta desprovista de registro empírico terrestre.
   <!-- feedback: Incorrecto. El escrito se enfoca en realidades tangibles y de campo observables, no en teorías físicas abstractas. -->
 - [ ] D) La prohibición de toda actividad de artes clásicas en las universidades públicas de la federación.
   <!-- feedback: Incorrecto. No se menciona ninguna prohibición de índole académica artística en las facultades. -->
@@ -57,9 +57,9 @@ La ciudad de Monterrey, históricamente consolidada como el polo industrial y de
 De acuerdo con la lectura del pasaje, ¿cuál de los siguientes factores o causas se asocia directamente con la problemática o fenómeno de polo de Monterrey?
 
 ### Opciones
-- [ ] A) El desinterés absoluto de las comunidades ejidales locales por cuidar el patrimonio.
+- [ ] B) El desinterés absoluto de las comunidades ejidales locales por cuidar el patrimonio.
   <!-- feedback: Incorrecto. Los ejidos y ciudadanos se organizan y participan activamente, no se atribuye desinterés absoluto en la lectura. -->
-- [x] B) La confluencia de variables como servicios digitales que alteran el equilibrio.
+- [x] A) La confluencia de variables como servicios digitales que alteran el equilibrio.
   <!-- feedback: Correcto. El fragmento identifica expresamente a servicios digitales como una variable causante o catalizadora de los cambios descritos. -->
 - [ ] C) La privatización total de todos los servicios públicos por mandato constitucional de la federación.
   <!-- feedback: Incorrecto. El texto no aborda reformas constitucionales de privatización total de servicios públicos. -->
@@ -85,11 +85,11 @@ A partir de la exposición del autor, se comprende que el fenómeno estudiado ex
 ### Opciones
 - [ ] A) Un proceso aislado y estático que rechaza toda interacción o intercambio con el exterior.
   <!-- feedback: Incorrecto. Concebir el sistema como cerrado contradice la interconexión dinámica de flujos descrita. -->
-- [x] B) Un flujo dinámico e interconectado, ejemplificado por el papel de democratizar crédito.
+- [x] D) Un flujo dinámico e interconectado, ejemplificado por el papel de democratizar crédito.
   <!-- feedback: Correcto. El autor argumenta que democratizar crédito representa la interdependencia y dinamismo del sistema, que no puede entenderse de forma aislada. -->
-- [ ] C) Un inventario de catálogos administrativos inalterable dictado por las aduanas arancelarias.
+- [ ] B) Un inventario de catálogos administrativos inalterable dictado por las aduanas arancelarias.
   <!-- feedback: Incorrecto. El enfoque del autor es de ecología o sociocultural, no arancelario o fiscal de aduanas comerciales. -->
-- [ ] D) Una imitación dócil de los modelos de planeación de las ciudades del viejo mundo.
+- [ ] C) Una imitación dócil de los modelos de planeación de las ciudades del viejo mundo.
   <!-- feedback: Incorrecto. El texto exalta el desarrollo autónomo o la asimilación creativa de la realidad local de la federación. -->
 
 ### Explicacion Pedagogica
@@ -135,11 +135,11 @@ La ciudad de Monterrey, históricamente consolidada como el polo industrial y de
 ¿Qué actitud o enfoque tradicional cuestiona de manera implícita el autor al examinar la situación de banca convencional?
 
 ### Opciones
-- [x] A) El enfoque esencialista que busca encapsular la realidad en definiciones fijas e inmutables.
+- [x] C) El enfoque esencialista que busca encapsular la realidad en definiciones fijas e inmutables.
   <!-- feedback: Correcto. El autor aboga por superar visiones estáticas de banca convencional para acoger un marco dinámico de transformación y resiliencia. -->
-- [ ] B) La recolección manual y el saneamiento ecológico de las costas de la península de Yucatán.
+- [ ] A) La recolección manual y el saneamiento ecológico de las costas de la península de Yucatán.
   <!-- feedback: Incorrecto. El saneamiento manual es valorado como una medida paliativa necesaria, no es cuestionado por el autor de esta sección. -->
-- [ ] C) La enseñanza de la historia prehispánica en las escuelas secundarias de la SEP.
+- [ ] B) La enseñanza de la historia prehispánica en las escuelas secundarias de la SEP.
   <!-- feedback: Incorrecto. Estudiar la historia y herencia indígena es fundamental para descolonizar el conocimiento y es respaldado por el autor de forma explícita. -->
 - [ ] D) El uso exclusivo del voseo de Argentina en la redacción de crónicas urbanas.
   <!-- feedback: Incorrecto. La variable lingüística del voseo rioplatense no es objeto de debate en este fragmento. -->
@@ -163,11 +163,11 @@ A partir de la lectura, ¿cómo se relaciona la presencia de capital de riesgo c
 ### Opciones
 - [ ] A) Provoca una contracción inmediata del producto interno bruto y desempleo crónico.
   <!-- feedback: Incorrecto. No se asocia con catástrofes financieras directas o parálisis comercial total en el texto. -->
-- [x] B) Funciona como el refugio o cimiento que estabiliza el sistema y le otorga viabilidad frente a las perturbaciones.
+- [x] D) Funciona como el refugio o cimiento que estabiliza el sistema y le otorga viabilidad frente a las perturbaciones.
   <!-- feedback: Correcto. La cohesión de capital de riesgo (ya sea el dosel del bosque, el acuífero arcilloso o la base mestiza) actúa como la cobija y protección del equilibrio general. -->
-- [ ] C) Fuerza a la población a abandonar de forma permanente la cuenca para migrar a las costas.
+- [ ] B) Fuerza a la población a abandonar de forma permanente la cuenca para migrar a las costas.
   <!-- feedback: Incorrecto. Se busca la permanencia y el desarrollo sustentable de las comunidades en su propio territorio de origen. -->
-- [ ] D) Sustituye la investigación científica del CONACYT por dogmas de fe coloniales.
+- [ ] C) Sustituye la investigación científica del CONACYT por dogmas de fe coloniales.
   <!-- feedback: Incorrecto. Al contrario, se fomenta y valora la ciencia unida a la ética de resguardo público. -->
 
 ### Explicacion Pedagogica
@@ -187,9 +187,9 @@ La ciudad de Monterrey, históricamente consolidada como el polo industrial y de
 Si un especialista en desarrollo sustentable en México deseara formular un plan de manejo para la zona de estudio, depararía un proyecto de:
 
 ### Opciones
-- [ ] A) Pavimentación masiva e impermeabilización del suelo para acelerar la urbanización comercial.
+- [ ] B) Pavimentación masiva e impermeabilización del suelo para acelerar la urbanización comercial.
   <!-- feedback: Incorrecto. Pavimentar anula la recarga pluvial o destruye el dosel forestal, empeorando el estrés ambiental de la zona. -->
-- [x] B) Creación de corredores y esquemas de custodia que involucren a un emprendedor regio de forma activa.
+- [x] A) Creación de corredores y esquemas de custodia que involucren a un emprendedor regio de forma activa.
   <!-- feedback: Correcto. Involucrar a un emprendedor regio garantiza que la conservación del recurso se asocie con el bienestar social de las familias de la demarcación. -->
 - [ ] C) Privatización total de las zonas de amortiguamiento para ceder el control a corporativos extranjeros.
   <!-- feedback: Incorrecto. Entregar los bienes comunes a corporativos extranjeros contradice la apología del resguardo y acceso social abierto. -->
@@ -213,9 +213,9 @@ La ciudad de Monterrey, históricamente consolidada como el polo industrial y de
 Un habitante local, como un financiamiento digital, que decide adoptar prácticas de aprovechamiento sustentable en su parcela ejidal está:
 
 ### Opciones
-- [ ] A) Actuando de manera perjudicial para las finanzas de su propia familia a corto plazo.
+- [ ] B) Actuando de manera perjudicial para las finanzas de su propia familia a corto plazo.
   <!-- feedback: Incorrecto. Las prácticas ecológicas y sustentables de autosustento pueden generar ingresos alternativos valiosos de ecoturismo o silvicultura. -->
-- [x] B) Aplicando una estrategia compatible con el equilibrio del entorno y la subsistencia social.
+- [x] A) Aplicando una estrategia compatible con el equilibrio del entorno y la subsistencia social.
   <!-- feedback: Correcto. Harmonizar la generación de valor económico con el cuidado del patrimonio natural o simbólico es la clave de la sustentabilidad cívica. -->
 - [ ] C) Fomentando el uso desmedido de pesticidas agroquímicos o la centralización urbana de los recursos.
   <!-- feedback: Incorrecto. Su acción reduce pesticidas u opone resistencia a la centralización, protegiendo lo local de forma activa. -->
@@ -241,9 +241,9 @@ El colapso de un ecosistema o recurso adyacente, como el caso de regulación fin
 ### Opciones
 - [ ] A) La imitación dócil de las modas intelectuales dictadas desde el viejo mundo.
   <!-- feedback: Incorrecto. Se trata de procesos socioeconómicos extractivos físicos intensivos, ajenos a la imitación literaria de la academia. -->
-- [ ] B) La deparación espontánea de los monumentos históricos de la Nueva España.
+- [ ] C) La deparación espontánea de los monumentos históricos de la Nueva España.
   <!-- feedback: Incorrecto. No se asocia directamente con la deparación espontánea de monumentos de la época virreinal colonial de México. -->
-- [x] C) Un fallo sistémico común donde el ritmo de extracción o impacto supera la capacidad de asimilación del sistema.
+- [x] B) Un fallo sistémico común donde el ritmo de extracción o impacto supera la capacidad de asimilación del sistema.
   <!-- feedback: Correcto. Ambos casos demuestran que vulnerar las tasas de recarga o reposición desestabiliza y colapsa de forma acelerada la resiliencia del medio. -->
 - [ ] D) La abolición obligatoria de las materias de ética y humanidades en las universidades del país.
   <!-- feedback: Incorrecto. El colapso de polinizadores o acuíferos no se produce por revocar planes de estudio de filosofía. -->
@@ -267,11 +267,11 @@ Si la tasa de alteración continúa de forma ininterrumpida, el escenario más f
 ### Opciones
 - [ ] A) La solidificación inmediata de la roca caliza permeable del Caribe.
   <!-- feedback: Incorrecto. La contracción del suelo arcilloso o deparación forestal no solidifica la caliza marina caribeña, mezclando de forma absurda los temas geográficos. -->
-- [x] B) La degradación severa de fraudes cibernéticos, comprometiendo la biodiversidad y la calidad de vida de las familias mexicanas.
+- [x] D) La degradación severa de fraudes cibernéticos, comprometiendo la biodiversidad y la calidad de vida de las familias mexicanas.
   <!-- feedback: Correcto. Ignorar los límites de carga biofísica o social de la zona conduce a fallos graves en cascada que deterioran el patrimonio común y aumentan la vulnerabilidad. -->
-- [ ] C) La elevación artificial de la altitud de la ciudad por encima del nivel del mar.
+- [ ] B) La elevación artificial de la altitud de la ciudad por encima del nivel del mar.
   <!-- feedback: Incorrecto. El desequilibrio ambiental deprime las oportunidades y hunde el relieve arcilloso, no eleva la altitud física de la urbe. -->
-- [ ] D) La derogación espontánea de todas las obligaciones fiscales ejidales del país.
+- [ ] C) La derogación espontánea de todas las obligaciones fiscales ejidales del país.
   <!-- feedback: Incorrecto. Los problemas biofísicos no tienen la propiedad legal de suspender regulaciones impositivas del agro. -->
 
 ### Explicacion Pedagogica
@@ -293,11 +293,11 @@ Si una autoridad pública de México deseara diseñar una iniciativa gubernament
 ### Opciones
 - [ ] A) Suspender de forma definitiva todo presupuesto para investigación científica o cultural en las entidades de la República.
   <!-- feedback: Incorrecto. Limitar la investigación debilita la toma de decisiones de la federación y el desarrollo integral de las regiones. -->
-- [x] B) Garantizar esquemas de inclusión orientados a solventar el problema de conectividad digital de forma viable.
+- [x] D) Garantizar esquemas de inclusión orientados a solventar el problema de conectividad digital de forma viable.
   <!-- feedback: Correcto. Aplicar la tesis crítica exige que infraestructura rural actúe de manera directa para corregir exclusiones, democratizando los recursos o el arte. -->
-- [ ] C) Privatizar completamente el patrimonio arqueológico e histórico para depararlo a la explotación hotelera comercial.
+- [ ] B) Privatizar completamente el patrimonio arqueológico e histórico para depararlo a la explotación hotelera comercial.
   <!-- feedback: Incorrecto. El pasaje se opone a la mercantilización excluyente y defiende el carácter público de los bienes comunes. -->
-- [ ] D) Adoptar de forma obligatoria el voseo de Argentina en la redacción de los folletos turísticos nacionales de la federación.
+- [ ] C) Adoptar de forma obligatoria el voseo de Argentina en la redacción de los folletos turísticos nacionales de la federación.
   <!-- feedback: Incorrecto. Las variables lingüísticas de la península o de Argentina carecen de pertinencia cívica para resolver el centralismo o desabasto local. -->
 
 ### Explicacion Pedagogica
@@ -319,9 +319,9 @@ La problemática estructural descrita en relación con conectividad digital repr
 ### Opciones
 - [ ] A) Impide que los agricultores del bajío importen maquinaria pesada directamente desde el extranjero.
   <!-- feedback: Incorrecto. El desarrollo mecánico agroindustrial es un asunto de comercio, desvinculado de la exclusión social descrita en el texto. -->
-- [x] B) Genera condiciones inequitativas donde las familias periféricas ven vulnerado su derecho debido a conectividad digital.
+- [x] C) Genera condiciones inequitativas donde las familias periféricas ven vulnerado su derecho debido a conectividad digital.
   <!-- feedback: Correcto. La asimetría (digital, de museos o de salud) margina a amplios sectores por razones de geografía y economía, limitando su bienestar y desarrollo humano. -->
-- [ ] C) Fuerza a toda la población del norte de la federación a hablar exclusivamente en lenguas mesoamericanas antiguas.
+- [ ] B) Fuerza a toda la población del norte de la federación a hablar exclusivamente en lenguas mesoamericanas antiguas.
   <!-- feedback: Incorrecto. La problemática no impone el uso lingüístico indígena, sino que restringe el ejercicio de los derechos de la población de los estados. -->
 - [ ] D) Obliga a las universidades públicas a deparar arena artificial para suplir las playas del Caribe mexicano.
   <!-- feedback: Incorrecto. Las playas caribeñas y el sargazo no guardan relación lógica con la conectividad de los estados de la República. -->
@@ -369,9 +369,9 @@ La implementación de la educación a distancia en México, acelerada por la dig
 ¿Cuál de las siguientes observaciones introduce un matiz o dificultad técnica de relevancia al ideal de resolver de golpe el problema de brecha de desigualdad?
 
 ### Opciones
-- [ ] A) Las publicaciones de los cronistas novohispanos carecían de deparaciones retóricas de antítesis.
+- [ ] B) Las publicaciones de los cronistas novohispanos carecían de deparaciones retóricas de antítesis.
   <!-- feedback: Incorrecto. Las deparaciones líricas de paralelismo o antítesis novohispanas no inciden en la viabilidad de resolver problemas contemporáneos. -->
-- [x] B) La inmensa inversión en infraestructura y brecha de desigualdad especializada requerida para garantizar condiciones seguras de operación en zonas remotas de la República.
+- [x] A) La inmensa inversión en infraestructura y brecha de desigualdad especializada requerida para garantizar condiciones seguras de operación en zonas remotas de la República.
   <!-- feedback: Correcto. Señalar que la descentralización o saneamiento demanda tendidos de red complejos, capacitación y costos elevados introduce variables de realismo técnico y financiero indispensable. -->
 - [ ] C) La preferencia de los creadores locales de viajar al extranjero para comercializar sus productos.
   <!-- feedback: Incorrecto. La elección de viaje de profesionales particulares no afecta las variables logísticas de la obra pública de la federación. -->
@@ -421,9 +421,9 @@ La implementación de la educación a distancia en México, acelerada por la dig
 Al describir los efectos nocivos del sesgo mercantil o del monopolio de la capital, el autor sugiere de manera indirecta que este fenómeno:
 
 ### Opciones
-- [ ] A) Dificulta la oxigenación física de las salas de exhibición de los monumentos históricos del Centro de la capital.
+- [ ] B) Dificulta la oxigenación física de las salas de exhibición de los monumentos históricos del Centro de la capital.
   <!-- feedback: Incorrecto. El autor emplea vocablos metafóricos de asfixia o estancamiento intelectual de ideas, no de ventilación de aire de salas de arte. -->
-- [x] B) Ahoga la diversidad, precariza a la periferia y subordina el bienestar a criterios de conectividad urbana.
+- [x] A) Ahoga la diversidad, precariza a la periferia y subordina el bienestar a criterios de conectividad urbana.
   <!-- feedback: Correcto. Limitar la planeación a criterios puramente utilitarios de mercado o de centralismo de la capital estrangula el dinamismo y las oportunidades del resto de la federación. -->
 - [ ] C) Impide el tránsito de camiones mercantiles de carga en la aduana fronteriza del norte.
   <!-- feedback: Incorrecto. El flujo de aduana norteña es un asunto comercial de transporte, ajeno al debate de centralismo de servicios de la capital. -->
@@ -449,9 +449,9 @@ La implementación de la educación a distancia en México, acelerada por la dig
 ### Opciones
 - [ ] A) Se opone de forma drástica por considerarlas un gasto inútil que debilita el presupuesto de la capital federal.
   <!-- feedback: Incorrecto. El autor critica el centralismo y valora de forma sumamente positiva las deparaciones de equidad distributiva. -->
-- [x] B) Respalda de forma decidida la transición hacia esquemas que pongan el recurso en diálogo con diseñador educativo de manera integrada.
+- [x] C) Respalda de forma decidida la transición hacia esquemas que pongan el recurso en diálogo con diseñador educativo de manera integrada.
   <!-- feedback: Correcto. El tono general hacia museos itinerantes, deparación de conectividad rural, educación a distancia e inclusión de dreamers es aprobatorio, exaltando su impacto en la cohesión social. -->
-- [ ] C) Recomienda deparar toda actividad científica o biológica del CONACYT en la península de Yucatán.
+- [ ] B) Recomienda deparar toda actividad científica o biológica del CONACYT en la península de Yucatán.
   <!-- feedback: Incorrecto. Valora de hecho la investigación científica y biológica como herramientas clave de diagnóstico ecológico y de resguardo público de la zona. -->
 - [ ] D) Propone la fusión de todas las universidades públicas de la federación en corporaciones de negocios de Monterrey.
   <!-- feedback: Incorrecto. Esta propuesta privatizadora contradice la apología del bien común y resguardo social de la federación. -->
@@ -477,9 +477,9 @@ La fundamentación ética para descentralizar los servicios y el patrimonio, pro
   <!-- feedback: Incorrecto. El autor critica justamente reducir los derechos a meras deparaciones de rentabilidad de corto plazo de mercado. -->
 - [ ] B) Arancelario, centrado en deparar las transacciones e importaciones de la comarca con el extranjero.
   <!-- feedback: Incorrecto. Las aduanas arancelarias comerciales no justifican el disfrute del patrimonio o la equidad educativa de las familias de la periferia. -->
-- [x] C) De justicia cultural y social, que sitúa al aprendizaje, el bienestar y la conectividad como derechos públicos indispensables para el desarrollo de la dignidad humana.
+- [x] D) De justicia cultural y social, que sitúa al aprendizaje, el bienestar y la conectividad como derechos públicos indispensables para el desarrollo de la dignidad humana.
   <!-- feedback: Correcto. El acceso equitativo a la cultura, salud y conectividad es un derecho consagrado que fundamenta la cohesión de una sociedad democrática plural. -->
-- [ ] D) Teológico clerical, que busca someter las mentes de los deparados a dogmas de fe religiosos antiguos del virreinato.
+- [ ] C) Teológico clerical, que busca someter las mentes de los deparados a dogmas de fe religiosos antiguos del virreinato.
   <!-- feedback: Incorrecto. Las deparaciones defendidas son enteramente laicas, seculares, científicas y de pluralidad moderna de la federación. -->
 
 ### Explicacion Pedagogica
@@ -525,9 +525,9 @@ La implementación de la educación a distancia en México, acelerada por la dig
 ¿Qué compromiso de política pública federalista se deriva lógicamente de analizar los problemas hídricos, de conectividad y de centralización de museos?
 
 ### Opciones
-- [ ] A) Desalojar de forma forzada a toda la población del centro metropolitano para reubicarla en las deparaciones de Chiapas.
+- [ ] B) Desalojar de forma forzada a toda la población del centro metropolitano para reubicarla en las deparaciones de Chiapas.
   <!-- feedback: Incorrecto. El desalojo forzado de familias es una medida autoritaria e inviable que viola los derechos humanos y el equilibrio de la federación. -->
-- [x] B) Transitar hacia una planeación federalista y equitativa que respete los límites de carga ecológicos locales y democratice el acceso a bienes mediante desarrollo tecnológico.
+- [x] A) Transitar hacia una planeación federalista y equitativa que respete los límites de carga ecológicos locales y democratice el acceso a bienes mediante desarrollo tecnológico.
   <!-- feedback: Correcto. Integrar criterios de resguardo biofísico y descentralización de la deparación garantiza un desarrollo cívico justo, respetuoso de los recursos y de la dignidad de todos los estados. -->
 - [ ] C) Autorizar la deparación con asfalto impermeable de las áreas boscosas de recarga pluvial de la capital.
   <!-- feedback: Incorrecto. Edificar asfalto impermeable sobre áreas boscosas de recarga pluvial anula la infiltración y agrava severamente el hundimiento de la cuenca. -->

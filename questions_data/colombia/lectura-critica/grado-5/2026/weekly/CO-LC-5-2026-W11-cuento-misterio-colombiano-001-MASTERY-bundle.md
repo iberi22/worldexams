@@ -57,11 +57,11 @@ Reconocer a los personajes principales presentados al inicio de un cuento.
 ¿Cuál es la secuencia correcta de lo que hicieron Lucía y Tomás?
 
 ### Opciones
-- [x] A) Preguntaron a doña Elvia, revisaron el patio y encontraron un farol apagado.
+- [x] C) Preguntaron a doña Elvia, revisaron el patio y encontraron un farol apagado.
   <!-- feedback: Esa es la secuencia en que ocurren las acciones en el texto. -->
-- [ ] B) Encontraron el farol, viajaron a Mompox y regresaron a Barichara.
+- [ ] A) Encontraron el farol, viajaron a Mompox y regresaron a Barichara.
   <!-- feedback: No hay ningún viaje a Mompox en esta secuencia. -->
-- [ ] C) Revisaron el patio, se fueron a dormir y olvidaron el misterio.
+- [ ] B) Revisaron el patio, se fueron a dormir y olvidaron el misterio.
   <!-- feedback: Ellos no abandonan la investigación ni se van a dormir. -->
 - [ ] D) Hablaron con el alcalde, cerraron la capilla y terminó la historia.
   <!-- feedback: El alcalde no aparece y la capilla no se cierra en este fragmento. -->
@@ -80,13 +80,13 @@ Comprender la secuencia de eventos en un fragmento narrativo.
 En el fragmento, ¿qué significa la palabra "penumbra"?
 
 ### Opciones
-- [x] A) Una oscuridad parcial donde se ve poca luz.
+- [x] D) Una oscuridad parcial donde se ve poca luz.
   <!-- feedback: La penumbra es una sombra suave con poca luz, como la de la capilla. -->
-- [ ] B) Un ruido fuerte de campanas y tambores.
+- [ ] A) Un ruido fuerte de campanas y tambores.
   <!-- feedback: La penumbra se relaciona con la luz, no con el ruido. -->
-- [ ] C) Un camino largo de piedras amarillas.
+- [ ] B) Un camino largo de piedras amarillas.
   <!-- feedback: El texto no describe un camino, sino la poca luz dentro de la capilla. -->
-- [ ] D) Una fiesta con música y faroles encendidos.
+- [ ] C) Una fiesta con música y faroles encendidos.
   <!-- feedback: La escena es oscura y silenciosa, no una fiesta iluminada. -->
 
 ### Explicacion Pedagogica
@@ -103,9 +103,9 @@ Usar el contexto del cuento para inferir el significado de una palabra desconoci
 ¿Cuáles son las tres pistas que encontró Lucía en el patio?
 
 ### Opciones
-- [x] A) Huellas de barro hacia el campanario, un pañuelo azul en la reja y granos de maíz junto al farol.
+- [x] B) Huellas de barro hacia el campanario, un pañuelo azul en la reja y granos de maíz junto al farol.
   <!-- feedback: Esas son exactamente las tres pistas descritas en el texto. -->
-- [ ] B) Una carta antigua, una llave de oro y un mapa del tesoro.
+- [ ] A) Una carta antigua, una llave de oro y un mapa del tesoro.
   <!-- feedback: Ninguno de esos objetos aparece en el fragmento. -->
 - [ ] C) Tres campanas nuevas, velas encendidas y flores frescas.
   <!-- feedback: El texto menciona un farol apagado, no velas ni flores. -->
@@ -126,11 +126,11 @@ Identificar información explícita y enumerar pistas dentro de un texto narrati
 Según el fragmento, ¿cómo se resolvió el misterio de la campanita que sonaba sola?
 
 ### Opciones
-- [x] A) Descubrieron que un mico tití movía el cordel de la campana mientras comía maíz.
+- [x] C) Descubrieron que un mico tití movía el cordel de la campana mientras comía maíz.
   <!-- feedback: El mico tití explica tanto el sonido como los granos de maíz. -->
-- [ ] B) Descubrieron que el viento de Villa de Leyva movía las nubes del cielo.
+- [ ] A) Descubrieron que el viento de Villa de Leyva movía las nubes del cielo.
   <!-- feedback: El texto muestra un animal concreto, no el viento ni las nubes. -->
-- [ ] C) Descubrieron que doña Elvia tocaba la campana cada hora en punto.
+- [ ] B) Descubrieron que doña Elvia tocaba la campana cada hora en punto.
   <!-- feedback: Doña Elvia no tocaba la campana; el causante era el mico tití. -->
 - [ ] D) Descubrieron que la campana tenía un motor eléctrico programado.
   <!-- feedback: En el pueblo y en la época del cuento no hay ningún motor eléctrico. -->
@@ -149,9 +149,9 @@ Aplicar las pistas del relato para explicar la solución del misterio.
 ¿Qué relación existe entre el pañuelo azul, el maíz y el sonido de la campana?
 
 ### Opciones
-- [x] A) El maíz atrajo al mico al campanario y el pañuelo confirma que doña Elvia llevó ese maíz en la mañana.
+- [x] B) El maíz atrajo al mico al campanario y el pañuelo confirma que doña Elvia llevó ese maíz en la mañana.
   <!-- feedback: Las dos pistas se conectan: el maíz explica la presencia del mico y el pañuelo su origen. -->
-- [ ] B) El pañuelo azul ahuyentó al mico y el maíz silenció la campana.
+- [ ] A) El pañuelo azul ahuyentó al mico y el maíz silenció la campana.
   <!-- feedback: El pañuelo no ahuyentó al mico ni el maíz silenció la campana. -->
 - [ ] C) El maíz y el pañuelo no tienen ninguna relación con el sonido.
   <!-- feedback: Ambas pistas explican por qué el mico llegó hasta el cordel. -->
@@ -172,9 +172,9 @@ Analizar cómo distintas pistas se conectan para construir la explicación del m
 ¿Qué diferencia la actitud de Lucía de la actitud inicial de Tomás frente al misterio?
 
 ### Opciones
-- [x] A) Lucía observa con calma y busca pruebas; Tomás quiere concluir rápido por el susto.
+- [x] B) Lucía observa con calma y busca pruebas; Tomás quiere concluir rápido por el susto.
   <!-- feedback: Lucía propone observar y preguntar, mientras Tomás quiere gritar por miedo. -->
-- [ ] B) Lucía siente miedo y huye; Tomás se queda a investigar solo.
+- [ ] A) Lucía siente miedo y huye; Tomás se queda a investigar solo.
   <!-- feedback: Es al contrario: Lucía se queda a observar y detiene a Tomás. -->
 - [ ] C) Los dos deciden huir del pueblo y no volver a la capilla.
   <!-- feedback: Ninguno huye; ambos resuelven el misterio juntos. -->

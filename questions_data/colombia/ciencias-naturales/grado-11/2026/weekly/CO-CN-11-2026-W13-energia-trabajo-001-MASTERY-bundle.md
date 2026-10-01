@@ -57,13 +57,13 @@ El trabajo mecánico realizado por una fuerza constante paralela al movimiento e
 ¿Qué principio físico relaciona el trabajo neto realizado sobre la cabina con la variación de su energía cinética?
 
 ### Opciones
-- [x] A) Teorema del Trabajo y la Energía Cinética ($W_{neto} = \Delta E_k$).
+- [x] D) Teorema del Trabajo y la Energía Cinética ($W_{neto} = \Delta E_k$).
   <!-- feedback: Correcto. El teorema establece que el trabajo de la fuerza neta es igual al cambio en la energía cinética del objeto. -->
-- [ ] B) Ley de Gravitación Universal de Newton.
+- [ ] A) Ley de Gravitación Universal de Newton.
   <!-- feedback: Incorrecto. La ley de gravitación describe la fuerza de atracción entre dos masas. -->
-- [ ] C) Principio de Conservación de la Carga Eléctrica.
+- [ ] B) Principio de Conservación de la Carga Eléctrica.
   <!-- feedback: Incorrecto. Este principio aplica al electromagnetismo y cargas eléctricas. -->
-- [ ] D) Primera Ley de la Termodinámica para gases ideales.
+- [ ] C) Primera Ley de la Termodinámica para gases ideales.
   <!-- feedback: Incorrecto. Aplica a intercambios de calor y trabajo interno en sistemas termodinámicos. -->
 
 ### Explicacion Pedagogica
@@ -80,11 +80,11 @@ El Teorema del Trabajo y la Energía Cinética establece que $W_{neto} = E_{kf} 
 ¿Qué tipo de energía mecánica aumenta el contenedor debido a su nueva posición relativa?
 
 ### Opciones
-- [x] A) Energía potencial gravitacional ($E_p = m \cdot g \cdot h$).
+- [x] C) Energía potencial gravitacional ($E_p = m \cdot g \cdot h$).
   <!-- feedback: Correcto. La energía potencial gravitacional depende de la masa, la aceleración de la gravedad y la altura alcanzada. -->
-- [ ] B) Energía potencial elástica.
+- [ ] A) Energía potencial elástica.
   <!-- feedback: Incorrecto. La energía elástica se almacena en cuerpos deformables como resortes o bandas de caucho. -->
-- [ ] C) Energía térmica de fricción.
+- [ ] B) Energía térmica de fricción.
   <!-- feedback: Incorrecto. La energía térmica se disipa por rozamiento no conservativo. -->
 - [ ] D) Energía electromagnética radiante.
   <!-- feedback: Incorrecto. Es la energía asociada a ondas electromagnéticas como la luz. -->
@@ -103,11 +103,11 @@ Al elevar un objeto en presencia de un campo gravitacional, se realiza trabajo c
 ¿Cuánto trabajo mecánico efectúa el atleta sobre la barra durante esos 5 segundos estáticos?
 
 ### Opciones
-- [x] A) 0 Julios, porque el desplazamiento de la barra es nulo ($d = 0$).
+- [x] C) 0 Julios, porque el desplazamiento de la barra es nulo ($d = 0$).
   <!-- feedback: Correcto. Para que exista trabajo mecánico en física debe existir un desplazamiento en la dirección de la fuerza ($W = F \cdot 0 = 0$). -->
-- [ ] B) 400 Julios por el esfuerzo muscular desarrollado.
+- [ ] A) 400 Julios por el esfuerzo muscular desarrollado.
   <!-- feedback: Incorrecto. Aunque hay consumo de energía metabólica biológica, el trabajo mecánico sobre la barra es cero por ausencia de desplazamiento. -->
-- [ ] C) 3920 Julios equivalentes a su peso multiplicado por el tiempo.
+- [ ] B) 3920 Julios equivalentes a su peso multiplicado por el tiempo.
   <!-- feedback: Incorrecto. El producto fuerza por tiempo es el impulso, no el trabajo mecánico. -->
 - [ ] D) 80 Julios correspondientes a la masa del objeto.
   <!-- feedback: Incorrecto. La masa es una propiedad inercial, no una medida de trabajo en Julios. -->
@@ -149,13 +149,13 @@ Por el Teorema del Trabajo y la Energía Cinética: $W = 0 - \frac{1}{2} (1000)(
 ¿Cuál es la velocidad del vagón al llegar al punto más bajo de la pista ($h = 0$ m)? (Considere $g = 9.8 \text{ m/s}^2$).
 
 ### Opciones
-- [x] A) $19.8 \text{ m/s}$.
+- [x] D) $19.8 \text{ m/s}$.
   <!-- feedback: Correcto. $mgh = \frac{1}{2}mv^2 \Rightarrow v = \sqrt{2gh} = \sqrt{2 \cdot 9.8 \cdot 20} = \sqrt{392} \approx 19.8 \text{ m/s}$. -->
-- [ ] B) $9.8 \text{ m/s}$.
+- [ ] A) $9.8 \text{ m/s}$.
   <!-- feedback: Incorrecto. Equivocó la relación al no extraer la raíz cuadrada del producto $2gh$. -->
-- [ ] C) $196 \text{ m/s}$.
+- [ ] B) $196 \text{ m/s}$.
   <!-- feedback: Incorrecto. Olvidó sacar la raíz cuadrada del valor de $v^2 = 392$. -->
-- [ ] D) $39.2 \text{ m/s}$.
+- [ ] C) $39.2 \text{ m/s}$.
   <!-- feedback: Incorrecto. Multiplicó $g \cdot h$ sin multiplicar por 2 ni extraer raíz. -->
 
 ### Explicacion Pedagogica
@@ -195,11 +195,11 @@ La energía potencial elástica almacenada en un resorte ideal es $E_p = \frac{1
 ¿Qué trabajo realiza la fuerza de rozamiento sobre la caja a lo largo del plano?
 
 ### Opciones
-- [x] A) $-60 \text{ Julios}$.
+- [x] C) $-60 \text{ Julios}$.
   <!-- feedback: Correcto. $W_{friccion} = F_r \cdot d \cdot \cos(180^\circ) = 15 \cdot 4 \cdot (-1) = -60 \text{ J}$. -->
-- [ ] B) $+60 \text{ Julios}$.
+- [ ] A) $+60 \text{ Julios}$.
   <!-- feedback: Incorrecto. La fricción se opone al movimiento, produciendo un ángulo de $180^\circ$ y trabajo negativo. -->
-- [ ] C) $-120 \text{ Julios}$.
+- [ ] B) $-120 \text{ Julios}$.
   <!-- feedback: Incorrecto. Multiplicó erróneamente por el seno del ángulo de inclinación. -->
 - [ ] D) $0 \text{ Julios}$.
   <!-- feedback: Incorrecto. La fuerza de fricción no es perpendicular al movimiento. -->
@@ -218,11 +218,11 @@ El trabajo de la fricción es disipativo ($W = F_r \cdot d \cdot \cos 180^\circ 
 ¿Cuál es la energía cinética de la bala justo al abandonar el cañón?
 
 ### Opciones
-- [x] A) $2500 \text{ Julios}$.
+- [x] C) $2500 \text{ Julios}$.
   <!-- feedback: Correcto. $E_k = \frac{1}{2} m v^2 = \frac{1}{2} (0.02)(500)^2 = 0.01 \times 250,000 = 2500 \text{ J}$. -->
-- [ ] B) $5000 \text{ Julios}$.
+- [ ] A) $5000 \text{ Julios}$.
   <!-- feedback: Incorrecto. Olvidó multiplicar por el factor $\frac{1}{2}$. -->
-- [ ] C) $50 \text{ Julios}$.
+- [ ] B) $50 \text{ Julios}$.
   <!-- feedback: Incorrecto. Multiplicó masa por velocidad sin elevar la velocidad al cuadrado. -->
 - [ ] D) $250 \text{ Julios}$.
   <!-- feedback: Incorrecto. Error de orden de magnitud al elevar 500 al cuadrado. -->
@@ -241,13 +241,13 @@ $E_k = \frac{1}{2} m v^2 = \frac{1}{2}(0.02)(250,000) = 2500 \text{ J}$.
 En ausencia de rozamiento con el aire, ¿dónde la energía cinética del péndulo es máxima y dónde es nula?
 
 ### Opciones
-- [x] A) Máxima en B y nula en los puntos extremos A y C.
+- [x] D) Máxima en B y nula en los puntos extremos A y C.
   <!-- feedback: Correcto. En los extremos la velocidad es cero ($E_k=0$, $E_p$ máxima); en B la altura es mínima y la velocidad es máxima. -->
-- [ ] B) Máxima en A y C y nula en B.
+- [ ] A) Máxima en A y C y nula en B.
   <!-- feedback: Incorrecto. En los extremos la energía cinética se transforma totalmente en potencial. -->
-- [ ] C) Constante e igual a cero en todos los puntos.
+- [ ] B) Constante e igual a cero en todos los puntos.
   <!-- feedback: Incorrecto. La energía cinética varía con la velocidad instantánea del objeto. -->
-- [ ] D) Máxima únicamente cuando el péndulo se detiene.
+- [ ] C) Máxima únicamente cuando el péndulo se detiene.
   <!-- feedback: Incorrecto. Al detenerse la velocidad es cero y la energía cinética es nula. -->
 
 ### Explicacion Pedagogica
@@ -287,11 +287,11 @@ Energía final $mgh = E_{ki} - W_{disipado} = 900 - 100 = 800 \text{ J}$. Luego 
 ¿Cuál es el trabajo total realizado sobre la caja entre $x = 0$ m y $x = 6$ m?
 
 ### Opciones
-- [x] A) $60 \text{ Julios}$.
+- [x] C) $60 \text{ Julios}$.
   <!-- feedback: Correcto. El trabajo es el área bajo la curva $F$ vs $x$. Área del triángulo $= \frac{\text{base} \times \text{altura}}{2} = \frac{6 \times 20}{2} = 60 \text{ J}$. -->
-- [ ] B) $120 \text{ Julios}$.
+- [ ] A) $120 \text{ Julios}$.
   <!-- feedback: Incorrecto. Multiplicó base por altura sin dividir entre 2 para el área triangular. -->
-- [ ] C) $30 \text{ Julios}$.
+- [ ] B) $30 \text{ Julios}$.
   <!-- feedback: Incorrecto. Dividió erróneamente entre 4. -->
 - [ ] D) $3.33 \text{ Julios}$.
   <!-- feedback: Incorrecto. Dividió la altura entre la base. -->
@@ -310,11 +310,11 @@ El trabajo de una fuerza variable es el área bajo la curva $F(x)$. Para un tri�
 Si la energía cinética en A es de 150 J y la fuerza de fricción en la zona rugosa es de 40 N, ¿cuál es la energía cinética al salir de la zona rugosa en B?
 
 ### Opciones
-- [x] A) $70 \text{ Julios}$.
+- [x] C) $70 \text{ Julios}$.
   <!-- feedback: Correcto. $W_{friccion} = -40 \text{ N} \times 2 \text{ m} = -80 \text{ J}$. $E_{kB} = E_{kA} + W_{friccion} = 150 - 80 = 70 \text{ J}$. -->
-- [ ] B) $230 \text{ Julios}$.
+- [ ] A) $230 \text{ Julios}$.
   <!-- feedback: Incorrecto. Sumó el trabajo de fricción en lugar de restarlo. -->
-- [ ] C) $80 \text{ Julios}$.
+- [ ] B) $80 \text{ Julios}$.
   <!-- feedback: Incorrecto. Es únicamente el valor absoluto del trabajo disipado. -->
 - [ ] D) $110 \text{ Julios}$.
   <!-- feedback: Incorrecto. Restó únicamente la fuerza de 40 N a los 150 J. -->
@@ -356,11 +356,11 @@ Por conservación de energía: $E_p = E_k Rightarrow 4 = \frac{1}{2}(1)v^2 Right
 ¿Qué ocurre con la energía mecánica total del sistema $m_1 + m_2$ durante la caída de $m_1$?
 
 ### Opciones
-- [x] A) Permanece constante porque sólo actúan fuerzas conservativas (gravedad y tensión de cuerda ideal).
+- [x] C) Permanece constante porque sólo actúan fuerzas conservativas (gravedad y tensión de cuerda ideal).
   <!-- feedback: Correcto. La tensión es una fuerza interna del sistema ideal que no realiza trabajo neto; la energía mecánica total se conserva. -->
-- [ ] B) Aumenta continuamente por la aceleración de la masa pesada.
+- [ ] A) Aumenta continuamente por la aceleración de la masa pesada.
   <!-- feedback: Incorrecto. La aceleración se debe a la conversión de energía potencial en cinética, no a la creación de energía. -->
-- [ ] C) Disminuye a cero por la aceleración de la masa ligera.
+- [ ] B) Disminuye a cero por la aceleración de la masa ligera.
   <!-- feedback: Incorrecto. Sin fricción no hay disipación de energía en el sistema. -->
 - [ ] D) Se transforma completamente en energía térmica en las cuerdas.
   <!-- feedback: Incorrecto. La cuerda ideal se considera inelástica y sin masa ni fricción. -->
@@ -379,13 +379,13 @@ En ausencia de fricción o fuerzas no conservativas externas, la energía mecán
 ¿Cuánta energía mecánica se perdió debido a la fricción entre la cumbre A y el punto B?
 
 ### Opciones
-- [x] A) $5010 \text{ Julios}$. (usando $g = 9.8 \text{ m/s}^2$).
+- [x] D) $5010 \text{ Julios}$. (usando $g = 9.8 \text{ m/s}^2$).
   <!-- feedback: Correcto. $E_{mA} = 60(9.8)(30) = 17,640 \text{ J}$. $E_{mB} = 60(9.8)(10) + \frac{1}{2}(60)(15)^2 = 5880 + 6750 = 12,630 \text{ J}$. Pérdida $= 17,640 - 12,630 = 5010 \text{ J}$. -->
-- [ ] B) $11,760 \text{ Julios}$.
+- [ ] A) $11,760 \text{ Julios}$.
   <!-- feedback: Incorrecto. Equivocó la resta al no calcular la energía cinética en el punto B. -->
-- [ ] C) $6750 \text{ Julios}$.
+- [ ] B) $6750 \text{ Julios}$.
   <!-- feedback: Incorrecto. Es únicamente la energía cinética acumulada en B. -->
-- [ ] D) $0 \text{ Julios}$.
+- [ ] C) $0 \text{ Julios}$.
   <!-- feedback: Incorrecto. La velocidad real es menor a la teórica sin fricción, demostrando pérdida energética. -->
 
 ### Explicacion Pedagogica
@@ -402,11 +402,11 @@ Pérdida energética $= E_{mA} - E_{mB} = 17,640 - 12,630 = 5010 \text{ J}$.
 Si un tranvía de $20,000 \text{ kg}$ frena de $15 \text{ m/s}$ a $5 \text{ m/s}$, ¿cuánta energía eléctrica logra recargar el sistema?
 
 ### Opciones
-- [x] A) $1,400,000 \text{ Julios} (1.4 \text{ MJ})$.
+- [x] C) $1,400,000 \text{ Julios} (1.4 \text{ MJ})$.
   <!-- feedback: Correcto. $\Delta E_k = \frac{1}{2}(20,000)(15^2 - 5^2) = 10,000(225 - 25) = 2,000,000 \text{ J}$. Energía recuperada $= 0.70 \times 2.0 \text{ MJ} = 1.4 \text{ MJ}$. -->
-- [ ] B) $2,250,000 \text{ Julios}$.
+- [ ] A) $2,250,000 \text{ Julios}$.
   <!-- feedback: Incorrecto. No restó la energía cinética final a 5 m/s. -->
-- [ ] C) $2,000,000 \text{ Julios}$.
+- [ ] B) $2,000,000 \text{ Julios}$.
   <!-- feedback: Incorrecto. No aplicó la eficiencia del 70% del sistema regenerativo. -->
 - [ ] D) $700,000 \text{ Julios}$.
   <!-- feedback: Incorrecto. Calculó la energía basándose únicamente en la velocidad final. -->
@@ -425,9 +425,9 @@ Trabajo de frenado $= \Delta E_k = 2.0 \text{ MJ}$. Con 70% de eficiencia, se re
 Si el caudal es de $10 \text{ m}^3/\text{s}$ ($10,000 \text{ kg/s}$) y la turbina opera al 85% de rendimiento, ¿por qué es imposible alcanzar el 100% de eficiencia energética?
 
 ### Opciones
-- [x] A) Por la Segunda Ley de la Termodinámica y las pérdidas disipativas por fricción viscosa y calentamiento.
+- [x] B) Por la Segunda Ley de la Termodinámica y las pérdidas disipativas por fricción viscosa y calentamiento.
   <!-- feedback: Correcto. Todo proceso real convierte parte de la energía mecánica en energía térmica disipada e irrecuperable por fricción y turbulencia. -->
-- [ ] B) Porque el agua pierde su masa atómica al chocar contra los álabes.
+- [ ] A) Porque el agua pierde su masa atómica al chocar contra los álabes.
   <!-- feedback: Incorrecto. La masa del agua permanece constante. -->
 - [ ] C) Porque la aceleración de la gravedad disminuye a cero dentro de la turbina.
   <!-- feedback: Incorrecto. La aceleración gravitacional es constante en la superficie terrestre. -->
@@ -448,9 +448,9 @@ Las fuerzas no conservativas (fricción, turbulencia acuosa) disipan energía en
 Si los fotones no tienen masa en reposo, ¿cómo es posible que realicen trabajo mecánico sobre la vela espacial?
 
 ### Opciones
-- [x] A) Los fotones poseen momento lineal ($p = h/\lambda$) y al reflejarse transfieren impulso y realizan trabajo sobre la vela.
+- [x] B) Los fotones poseen momento lineal ($p = h/\lambda$) y al reflejarse transfieren impulso y realizan trabajo sobre la vela.
   <!-- feedback: Correcto. En física moderna la radiación electromagnética transporta energía y momento lineal, ejerciendo fuerza al ser reflejada o absorbida. -->
-- [ ] B) Los fotones ganan masa bariónica al chocar con el aluminio.
+- [ ] A) Los fotones ganan masa bariónica al chocar con el aluminio.
   <!-- feedback: Incorrecto. Los fotones son bosones sin masa en reposo. -->
 - [ ] C) La vela solar genera un campo gravitacional propio que atrae el Sol.
   <!-- feedback: Incorrecto. La aceleración se produce por empuje de radiación, no por gravitación de la vela. -->
@@ -471,11 +471,11 @@ La luz transporta momento lineal $p = E/c$. La reflexión fotónica genera una f
 ¿Qué porcentaje de la energía cinética inicial se disipa en forma de deformación y calor durante el choque?
 
 ### Opciones
-- [x] A) 50% de la energía cinética inicial.
+- [x] C) 50% de la energía cinética inicial.
   <!-- feedback: Correcto. $v_f = \frac{5000 \times 4}{10000} = 2 \text{ m/s}$. $E_{ki} = \frac{1}{2}(5000)(16) = 40,000 \text{ J}$. $E_{kf} = \frac{1}{2}(10000)(4) = 20,000 \text{ J}$. Se perdió el 50%. -->
-- [ ] B) 100% de la energía cinética inicial.
+- [ ] A) 100% de la energía cinética inicial.
   <!-- feedback: Incorrecto. El sistema combinado continúa en movimiento a 2 m/s conservando 20,000 J. -->
-- [ ] C) 25% de la energía cinética inicial.
+- [ ] B) 25% de la energía cinética inicial.
   <!-- feedback: Incorrecto. Calculó erróneamente la velocidad final. -->
 - [ ] D) 0% de la energía cinética inicial.
   <!-- feedback: Incorrecto. En choques perfectamente inelásticos la energía cinética no se conserva. -->

@@ -52,9 +52,9 @@ Un polígono es regular cuando todos sus lados tienen la misma longitud y todos 
 ### Enunciado
 ¿Qué información entrega el perímetro de una figura plana?
 ### Opciones
-- [x] A) La suma de las longitudes de todos sus lados
+- [x] B) La suma de las longitudes de todos sus lados
   <!-- feedback: Correcto. El perímetro es la suma de los lados de la figura. -->
-- [ ] B) El espacio o superficie encerrada por la figura
+- [ ] A) El espacio o superficie encerrada por la figura
   <!-- feedback: Incorrecto. Eso corresponde al área, no al perímetro. -->
 - [ ] C) El volumen que ocupa la figura en el espacio
   <!-- feedback: Incorrecto. El volumen aplica a cuerpos tridimensionales. -->
@@ -92,13 +92,13 @@ Para cercar un rectángulo se calcula el perímetro $P = 2(b + h)$ y se multipli
 ### Enunciado
 ¿Cuántos metros cuadrados de césped se necesitan?
 ### Opciones
-- [x] A) $1.800\text{ m}^2$
+- [x] D) $1.800\text{ m}^2$
   <!-- feedback: Correcto. Área $= 60 \times 30 = 1.800$ m². -->
-- [ ] B) $1.500\text{ m}^2$
+- [ ] A) $1.500\text{ m}^2$
   <!-- feedback: Incorrecto. Probablemente calculaste $50 \times 30$ o algo similar. -->
-- [ ] C) $1.200\text{ m}^2$
+- [ ] B) $1.200\text{ m}^2$
   <!-- feedback: Incorrecto. Subestimaste el largo de la cancha. -->
-- [ ] D) $90\text{ m}^2$
+- [ ] C) $90\text{ m}^2$
   <!-- feedback: Incorrecto. Multiplicaste largo y ancho sin sumarlos, distorsionando el cálculo. -->
 ### Explicacion Pedagogica
 El área de un rectángulo se obtiene multiplicando la base por la altura.
@@ -112,11 +112,11 @@ El área de un rectángulo se obtiene multiplicando la base por la altura.
 ### Enunciado
 ¿Cuál es el área de la glorieta triangular?
 ### Opciones
-- [x] A) $30\text{ m}^2$
+- [x] C) $30\text{ m}^2$
   <!-- feedback: Correcto. Área $= \frac{b \cdot h}{2} = \frac{12 \cdot 5}{2} = 30$ m². -->
-- [ ] B) $60\text{ m}^2$
+- [ ] A) $60\text{ m}^2$
   <!-- feedback: Incorrecto. Olvidaste dividir entre 2 el producto de base por altura. -->
-- [ ] C) $17\text{ m}^2$
+- [ ] B) $17\text{ m}^2$
   <!-- feedback: Incorrecto. Probablemente calculaste el perímetro dividido entre algo. -->
 - [ ] D) $24\text{ m}^2$
   <!-- feedback: Incorrecto. Multiplicaste base por altura sin dividir entre 2. -->
@@ -132,11 +132,11 @@ El área del triángulo es la mitad del producto entre la base y la altura corre
 ### Enunciado
 ¿Cuál es el área total del terreno en L?
 ### Opciones
-- [x] A) $175\text{ m}^2$
+- [x] C) $175\text{ m}^2$
   <!-- feedback: Correcto. $10 \times 15 + 5 \times 5 = 150 + 25 = 175$ m². -->
-- [ ] B) $200\text{ m}^2$
+- [ ] A) $200\text{ m}^2$
   <!-- feedback: Incorrecto. Sumaste dimensiones mixtas en lugar de multiplicar área por área. -->
-- [ ] C) $150\text{ m}^2$
+- [ ] B) $150\text{ m}^2$
   <!-- feedback: Incorrecto. Solo consideraste el rectángulo grande y olvidaste el pequeño. -->
 - [ ] D) $125\text{ m}^2$
   <!-- feedback: Incorrecto. Restaste el cuadrado pequeño en vez de sumarlo. -->
@@ -212,11 +212,11 @@ Para un rectángulo con perímetro fijo, el área es máxima cuando largo y anch
 ### Enunciado
 ¿Cuál opción de cerca se ajusta exactamente al presupuesto?
 ### Opciones
-- [x] A) Solo la Cerca A, con un costo total de $\$450.000$ COP
+- [x] C) Solo la Cerca A, con un costo total de $\$450.000$ COP
   <!-- feedback: Correcto. Perímetro $2(30+20)=100\text{ m}$; Cerca A: $100 \times 4.500 = 450.000$; Cerca B: $100 \times 9.500 = 950.000$ (excede). -->
-- [ ] B) Solo la Cerca B, con un costo total de $\$950.000$ COP
+- [ ] A) Solo la Cerca B, con un costo total de $\$950.000$ COP
   <!-- feedback: Incorrecto. La Cerca B supera el presupuesto de $\$850.000$ COP. -->
-- [ ] C) Cualquiera de las dos opciones cabe en el presupuesto
+- [ ] B) Cualquiera de las dos opciones cabe en el presupuesto
   <!-- feedback: Incorrecto. Solo la opción más económica cabe dentro del límite. -->
 - [ ] D) Faltan datos de largo y ancho para decidir
   <!-- feedback: Incorrecto. Con las dimensiones y precio por metro ya puedes calcular. -->

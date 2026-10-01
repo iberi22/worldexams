@@ -30,8 +30,8 @@ bundle_index: 1
 
 ### Opciones
 - [ ] A) Identidad <!-- feedback: Una identidad es verdadera para cualquier valor de las variables (ej. $x+x = 2x$). -->
-- [x] B) Ecuación <!-- feedback: Correcto. Una ecuación es una igualdad condicionada que se cumple solo para ciertos valores llamados soluciones. -->
-- [ ] C) Expresión <!-- feedback: Una expresión no contiene el signo de igualdad ($=$). -->
+- [x] C) Ecuación <!-- feedback: Correcto. Una ecuación es una igualdad condicionada que se cumple solo para ciertos valores llamados soluciones. -->
+- [ ] B) Expresión <!-- feedback: Una expresión no contiene el signo de igualdad ($=$). -->
 - [ ] D) Inecuación <!-- feedback: Una inecuación utiliza signos de desigualdad ($<, >, \le, \ge$). -->
 
 ### Explicacion Pedagogica
@@ -48,9 +48,9 @@ La ecuación es una igualdad entre dos expresiones algebraicas que se satisface 
 ¿Cuál es la propiedad que permite sumar o restar la misma cantidad en ambos miembros de una ecuación sin alterar su solución?
 
 ### Opciones
-- [ ] A) Propiedad Conmutativa <!-- feedback: La propiedad conmutativa se refiere al orden de los términos en una operación. -->
-- [ ] B) Propiedad Asociativa <!-- feedback: La propiedad asociativa se refiere al agrupamiento de términos. -->
-- [x] C) Propiedad de Uniformidad (o Aditiva de la Igualdad) <!-- feedback: Correcto. Establece que si se realiza la misma operación en ambos lados de una igualdad, esta se mantiene. -->
+- [ ] B) Propiedad Conmutativa <!-- feedback: La propiedad conmutativa se refiere al orden de los términos en una operación. -->
+- [ ] C) Propiedad Asociativa <!-- feedback: La propiedad asociativa se refiere al agrupamiento de términos. -->
+- [x] A) Propiedad de Uniformidad (o Aditiva de la Igualdad) <!-- feedback: Correcto. Establece que si se realiza la misma operación en ambos lados de una igualdad, esta se mantiene. -->
 - [ ] D) Propiedad Distributiva <!-- feedback: La propiedad distributiva relaciona la multiplicación con la suma. -->
 
 ### Explicacion Pedagogica
@@ -67,8 +67,8 @@ Las propiedades de la igualdad son la base del despeje de incógnitas, permitien
 Si el artesano vende cada pulsera a GTQ $15.00$ y quiere obtener GTQ $450.00$, ¿cuál es la ecuación lineal que modela esta situación donde $x$ es la cantidad de pulseras?
 
 ### Opciones
-- [x] A) $15x = 450$ <!-- feedback: Correcto. El precio por unidad multiplicado por la cantidad debe ser igual al total deseado. -->
-- [ ] B) $x + 15 = 450$ <!-- feedback: Esto representaría que a la cantidad se le suman 15 quetzales, lo cual no es coherente con el precio por unidad. -->
+- [x] B) $15x = 450$ <!-- feedback: Correcto. El precio por unidad multiplicado por la cantidad debe ser igual al total deseado. -->
+- [ ] A) $x + 15 = 450$ <!-- feedback: Esto representaría que a la cantidad se le suman 15 quetzales, lo cual no es coherente con el precio por unidad. -->
 - [ ] C) $x / 15 = 450$ <!-- feedback: Esto indicaría que la cantidad dividida entre 15 da 450, lo cual es incorrecto. -->
 - [ ] D) $450x = 15$ <!-- feedback: Esto sugeriría un precio de 450 por pulsera para un total de 15. -->
 
@@ -87,8 +87,8 @@ El modelado de problemas reales mediante ecuaciones lineales requiere identifica
 
 ### Opciones
 - [ ] A) Sistema Compatible Determinado <!-- feedback: Tiene una solución única (las rectas se cruzan). -->
-- [ ] B) Sistema Compatible Indeterminado <!-- feedback: Tiene infinitas soluciones (las rectas son la misma). -->
-- [x] C) Sistema Incompatible <!-- feedback: Correcto. No tiene solución porque las condiciones son contradictorias o las rectas nunca se tocan. -->
+- [ ] C) Sistema Compatible Indeterminado <!-- feedback: Tiene infinitas soluciones (las rectas son la misma). -->
+- [x] B) Sistema Incompatible <!-- feedback: Correcto. No tiene solución porque las condiciones son contradictorias o las rectas nunca se tocan. -->
 - [ ] D) Sistema Lineal Simple <!-- feedback: No es una clasificación estándar basada en el número de soluciones. -->
 
 ### Explicacion Pedagogica
@@ -106,8 +106,8 @@ Resuelve la siguiente ecuación para hallar el valor de $x$: $3x + 12 = 45$.
 
 ### Opciones
 - [ ] A) $x = 19$ <!-- feedback: Error al realizar la resta $45 - 12$. -->
-- [x] B) $x = 11$ <!-- feedback: Correcto. $3x = 45 - 12 \Rightarrow 3x = 33 \Rightarrow x = 11$. -->
-- [ ] C) $x = 15$ <!-- feedback: Error al dividir 45 entre 3 directamente sin restar el 12 primero. -->
+- [x] C) $x = 11$ <!-- feedback: Correcto. $3x = 45 - 12 \Rightarrow 3x = 33 \Rightarrow x = 11$. -->
+- [ ] B) $x = 15$ <!-- feedback: Error al dividir 45 entre 3 directamente sin restar el 12 primero. -->
 - [ ] D) $x = 21$ <!-- feedback: Error aritmético en el proceso de despeje. -->
 
 ### Explicacion Pedagogica
@@ -124,8 +124,8 @@ El proceso de despeje implica realizar las operaciones inversas en el orden adec
 El doble de un número más 5 es igual a 21. ¿De qué número se trata?
 
 ### Opciones
-- [ ] A) $13$ <!-- feedback: $2(13) + 5 = 26 + 5 = 31 \ne 21$. -->
-- [x] B) $8$ <!-- feedback: Correcto. $2x + 5 = 21 \Rightarrow 2x = 16 \Rightarrow x = 8$. -->
+- [ ] B) $13$ <!-- feedback: $2(13) + 5 = 26 + 5 = 31 \ne 21$. -->
+- [x] A) $8$ <!-- feedback: Correcto. $2x + 5 = 21 \Rightarrow 2x = 16 \Rightarrow x = 8$. -->
 - [ ] C) $10.5$ <!-- feedback: Error al plantear o resolver la ecuación. -->
 - [ ] D) $16$ <!-- feedback: Solo se restó 21 - 5, faltó dividir entre 2. -->
 
@@ -185,9 +185,9 @@ $x - y = 2$
 
 ### Opciones
 - [ ] A) $4$ <!-- feedback: Si $x=4$, entonces $y=6$ para la primera, pero $4-6 = -2 \ne 2$. -->
-- [x] B) $6$ <!-- feedback: Correcto. Sumando ambas: $2x = 12 \Rightarrow x = 6$. Entonces $y = 4$. -->
-- [ ] C) $8$ <!-- feedback: Incorrecto. No satisface ambas igualdades simultáneamente. -->
-- [ ] D) $5$ <!-- feedback: Incorrecto. Error en la aplicación del método de reducción. -->
+- [x] D) $6$ <!-- feedback: Correcto. Sumando ambas: $2x = 12 \Rightarrow x = 6$. Entonces $y = 4$. -->
+- [ ] B) $8$ <!-- feedback: Incorrecto. No satisface ambas igualdades simultáneamente. -->
+- [ ] C) $5$ <!-- feedback: Incorrecto. Error en la aplicación del método de reducción. -->
 
 ### Explicacion Pedagogica
 El método de reducción es ideal cuando los coeficientes de una variable son opuestos, permitiendo su eliminación inmediata al sumar las ecuaciones.
@@ -225,9 +225,9 @@ $y = -x + 4$
 ¿Cuál es el valor de la coordenada $x$ del punto de intersección?
 
 ### Opciones
-- [x] A) $x = 1$ <!-- feedback: Correcto. $2x + 1 = -x + 4 \Rightarrow 3x = 3 \Rightarrow x = 1$. -->
-- [ ] B) $x = 3$ <!-- feedback: Error al agrupar los términos con la variable $x$. -->
-- [ ] C) $x = 1.5$ <!-- feedback: Error aritmético durante la resolución de la igualdad. -->
+- [x] C) $x = 1$ <!-- feedback: Correcto. $2x + 1 = -x + 4 \Rightarrow 3x = 3 \Rightarrow x = 1$. -->
+- [ ] A) $x = 3$ <!-- feedback: Error al agrupar los términos con la variable $x$. -->
+- [ ] B) $x = 1.5$ <!-- feedback: Error aritmético durante la resolución de la igualdad. -->
 - [ ] D) $x = 0$ <!-- feedback: Incorrecto. No satisface la igualdad de las dos expresiones. -->
 
 ### Explicacion Pedagogica
@@ -244,8 +244,8 @@ El método de igualación es directo cuando ambas ecuaciones ya tienen despejada
 Resuelve la ecuación: $\frac{x}{2} + \frac{x}{3} = 5$.
 
 ### Opciones
-- [ ] A) $x = 3$ <!-- feedback: Error al operar con las fracciones. -->
-- [x] B) $x = 6$ <!-- feedback: Correcto. Multiplicando por 6: $3x + 2x = 30 \Rightarrow 5x = 30 \Rightarrow x = 6$. -->
+- [ ] B) $x = 3$ <!-- feedback: Error al operar con las fracciones. -->
+- [x] A) $x = 6$ <!-- feedback: Correcto. Multiplicando por 6: $3x + 2x = 30 \Rightarrow 5x = 30 \Rightarrow x = 6$. -->
 - [ ] C) $x = 10$ <!-- feedback: Error al buscar el mínimo común denominador. -->
 - [ ] D) $x = 1.2$ <!-- feedback: Error en el proceso de despeje final. -->
 
@@ -286,9 +286,9 @@ $x - y = -1$
 
 ### Opciones
 - [ ] A) $-1$ <!-- feedback: Error al calcular el producto cruzado. -->
-- [x] B) $-5$ <!-- feedback: Correcto. $\Delta = (2)(-1) - (1)(3) = -2 - 3 = -5$. -->
-- [ ] C) $5$ <!-- feedback: Error de signo en la resta del determinante. -->
-- [ ] D) $1$ <!-- feedback: Error en la identificación de los coeficientes. -->
+- [x] D) $-5$ <!-- feedback: Correcto. $\Delta = (2)(-1) - (1)(3) = -2 - 3 = -5$. -->
+- [ ] B) $5$ <!-- feedback: Error de signo en la resta del determinante. -->
+- [ ] C) $1$ <!-- feedback: Error en la identificación de los coeficientes. -->
 
 ### Explicacion Pedagogica
 El determinante principal de un sistema $2 \times 2$ se calcula restando el producto de la diagonal secundaria del producto de la diagonal principal de la matriz de coeficientes.
@@ -324,9 +324,9 @@ La suma de dos números es $30$ y su diferencia es $10$. ¿Cuáles son los núme
 
 ### Opciones
 - [ ] A) $15$ y $15$ <!-- feedback: La suma es 30, pero la diferencia es 0. -->
-- [x] B) $20$ y $10$ <!-- feedback: Correcto. $20 + 10 = 30$ y $20 - 10 = 10$. -->
-- [ ] C) $25$ y $5$ <!-- feedback: La suma es 30, pero la diferencia es 20. -->
-- [ ] D) $18$ y $12$ <!-- feedback: La suma es 30, pero la diferencia es 6. -->
+- [x] D) $20$ y $10$ <!-- feedback: Correcto. $20 + 10 = 30$ y $20 - 10 = 10$. -->
+- [ ] B) $25$ y $5$ <!-- feedback: La suma es 30, pero la diferencia es 20. -->
+- [ ] C) $18$ y $12$ <!-- feedback: La suma es 30, pero la diferencia es 6. -->
 
 ### Explicacion Pedagogica
 Este problema clásico se resuelve planteando un sistema de suma y resta: $x+y=30$ y $x-y=10$. Sumando ambas ecuaciones se obtiene $2x=40$.
@@ -343,9 +343,9 @@ Este problema clásico se resuelve planteando un sistema de suma y resta: $x+y=3
 
 ### Opciones
 - [ ] A) $P = 20$ <!-- feedback: $Q_d = 60, Q_s = 80$. No hay equilibrio. -->
-- [x] B) $P = 16$ <!-- feedback: Correcto. $100 - 2P = 20 + 3P \Rightarrow 80 = 5P \Rightarrow P = 16$. -->
-- [ ] C) $P = 24$ <!-- feedback: Error al despejar la variable $P$ de la igualdad. -->
-- [ ] D) $P = 12$ <!-- feedback: Error en el proceso de agrupación de términos semejantes. -->
+- [x] D) $P = 16$ <!-- feedback: Correcto. $100 - 2P = 20 + 3P \Rightarrow 80 = 5P \Rightarrow P = 16$. -->
+- [ ] B) $P = 24$ <!-- feedback: Error al despejar la variable $P$ de la igualdad. -->
+- [ ] C) $P = 12$ <!-- feedback: Error en el proceso de agrupación de términos semejantes. -->
 
 ### Explicacion Pedagogica
 El equilibrio se halla igualando las funciones de oferta y demanda, lo cual resulta en una ecuación lineal de una variable para el precio.
@@ -365,9 +365,9 @@ $0.3x - 0.4y = 0.0$
 
 ### Opciones
 - [ ] A) $(1, 4)$ <!-- feedback: $0.5(1) + 0.2(4) = 0.5 + 0.8 = 1.3$ (cumple), pero $0.3(1) - 0.4(4) = -1.3 \ne 0$. -->
-- [x] B) $(2, 1.5)$ <!-- feedback: Correcto. De la segunda: $0.3x = 0.4y \Rightarrow 3x = 4y \Rightarrow y = 0.75x$. Sustituyendo: $0.5x + 0.2(0.75x) = 1.3 \Rightarrow 0.5x + 0.15x = 1.3 \Rightarrow 0.65x = 1.3 \Rightarrow x = 2, y = 1.5$. -->
-- [ ] C) $(3, 2)$ <!-- feedback: Incorrecto. No satisface ambas igualdades simultáneamente. -->
-- [ ] D) $(2, 2.5)$ <!-- feedback: Error en el cálculo de la variable dependiente $y$. -->
+- [x] D) $(2, 1.5)$ <!-- feedback: Correcto. De la segunda: $0.3x = 0.4y \Rightarrow 3x = 4y \Rightarrow y = 0.75x$. Sustituyendo: $0.5x + 0.2(0.75x) = 1.3 \Rightarrow 0.5x + 0.15x = 1.3 \Rightarrow 0.65x = 1.3 \Rightarrow x = 2, y = 1.5$. -->
+- [ ] B) $(3, 2)$ <!-- feedback: Incorrecto. No satisface ambas igualdades simultáneamente. -->
+- [ ] C) $(2, 2.5)$ <!-- feedback: Error en el cálculo de la variable dependiente $y$. -->
 
 ### Explicacion Pedagogica
 Para simplificar sistemas con decimales, es útil multiplicar cada ecuación por una potencia de 10 antes de aplicar cualquier método de resolución.
@@ -384,8 +384,8 @@ Para simplificar sistemas con decimales, es útil multiplicar cada ecuación por
 
 ### Opciones
 - [ ] A) Solo si $k = 4$ <!-- feedback: Si $k=4$, las rectas son paralelas (incompatible), no tiene solución única. -->
-- [x] B) Para cualquier valor de $k$ excepto $k = 4$ <!-- feedback: Correcto. El determinante es $k(1) - 2(2) = k - 4$. Para solución única $\Delta \ne 0$, por lo que $k \ne 4$. -->
-- [ ] C) Solo si $k = 1$ <!-- feedback: Si $k=1$ hay solución única, pero no es el único valor posible. -->
+- [x] C) Para cualquier valor de $k$ excepto $k = 4$ <!-- feedback: Correcto. El determinante es $k(1) - 2(2) = k - 4$. Para solución única $\Delta \ne 0$, por lo que $k \ne 4$. -->
+- [ ] B) Solo si $k = 1$ <!-- feedback: Si $k=1$ hay solución única, pero no es el único valor posible. -->
 - [ ] D) Nunca puede tener solución única. <!-- feedback: Falso. Casi todos los valores de $k$ permiten una intersección. -->
 
 ### Explicacion Pedagogica

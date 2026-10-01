@@ -29,13 +29,13 @@ creador: "Jules-Agent"
 En el número $235.75, ¿qué representa el dígito 7?
 
 ### Opciones
-- [x] A) 7 décimas de peso
+- [x] D) 7 décimas de peso
   <!-- feedback: El 7 está en la primera posición después del punto decimal, que corresponde a las décimas. -->
-- [ ] B) 7 centésimas de peso
+- [ ] A) 7 centésimas de peso
   <!-- feedback: Las centésimas es la segunda posición después del punto; ahí está el 5. -->
-- [ ] C) 7 pesos
+- [ ] B) 7 pesos
   <!-- feedback: Los pesos completos son la parte entera (235); el 7 ya está después del punto. -->
-- [ ] D) 7 decenas
+- [ ] C) 7 decenas
   <!-- feedback: Las decenas del número son el 3 de 235; el 7 pertenece a la parte decimal. -->
 
 ### Explicacion Pedagogica
@@ -51,13 +51,13 @@ En el contexto del dinero, el punto separa pesos de centavos: $235.75 son 235 pe
 ¿Qué número decimal corresponde a esa lectura?
 
 ### Opciones
-- [x] A) 3.4
+- [x] D) 3.4
   <!-- feedback: La parte entera es 3 y las 4 décimas se escriben justo después del punto: 3.4. -->
-- [ ] B) 3.04
+- [ ] A) 3.04
   <!-- feedback: 3.04 son tres con cuatro centésimas; las décimas irían en la primera posición decimal. -->
-- [ ] C) 34
+- [ ] B) 34
   <!-- feedback: 34 es treinta y cuatro, un número entero sin parte decimal. -->
-- [ ] D) 0.34
+- [ ] C) 0.34
   <!-- feedback: 0.34 carece de unidades completas; el enunciado indica tres enteros. -->
 
 ### Explicacion Pedagogica
@@ -73,11 +73,11 @@ Escribir decimales a partir de su nombre exige ubicar cada cifra según su lugar
 ¿Cuál afirmación sobre estas dos medidas es correcta?
 
 ### Opciones
-- [x] A) Miden lo mismo, porque agregar ceros a la derecha del último decimal no cambia el valor
+- [x] C) Miden lo mismo, porque agregar ceros a la derecha del último decimal no cambia el valor
   <!-- feedback: 14.6 = 14.60 porque el cero en las centésimas no añade valor; ambos representan la misma longitud. -->
-- [ ] B) 14.60 es mayor, porque tiene más cifras
+- [ ] A) 14.60 es mayor, porque tiene más cifras
   <!-- feedback: Más cifras no implican mayor valor cuando los dígitos extra son ceros al final del decimal. -->
-- [ ] C) 14.6 es menor, porque 6 es menor que 60
+- [ ] B) 14.6 es menor, porque 6 es menor que 60
   <!-- feedback: Comparar "6 contra 60" ignora el lugar: en 14.60 el 6 está en las décimas y el 0 en las centésimas. -->
 - [ ] D) Son medidas incomparables porque una usa décimas y la otra centésimas
   <!-- feedback: Ambos números expresan la misma cantidad; basta escribirlos con el mismo número de cifras decimales. -->
@@ -117,13 +117,13 @@ Comparar decimales exige alinear el punto y recorrer las posiciones de izquierda
 ¿Cuánto pagó en total?
 
 ### Opciones
-- [x] A) $21.25
+- [x] D) $21.25
   <!-- feedback: 12.50 + 8.75 = 21.25; al alinear el punto, 50 + 75 centavos son 125 centavos, es decir 1 peso con 25 centavos que se acumulan a 12 + 8. -->
-- [ ] B) $20.25
+- [ ] A) $20.25
   <!-- feedback: Falta el peso generado por los 125 centavos; la parte entera es 21. -->
-- [ ] C) $21.75
+- [ ] B) $21.75
   <!-- feedback: 50 + 75 centavos dan 125, no 175; el excedente de 100 centavos pasa a los pesos. -->
-- [ ] D) $21.15
+- [ ] C) $21.15
   <!-- feedback: La suma de centavos 50 + 75 termina en 25; 15 proviene de un error en las centésimas. -->
 
 ### Explicacion Pedagogica
@@ -183,11 +183,11 @@ En carreras gana el tiempo menor, y comparar 14.08 con 14.1 exige igualar cifras
 ¿Cuál cambio es correcto?
 
 ### Opciones
-- [x] A) $2.10
+- [x] C) $2.10
   <!-- feedback: 50.00 − 47.90 = 2.10; al restar, 47.90 + 2.10 = 50.00, lo que confirma el cálculo. -->
-- [ ] B) $2.90
+- [ ] A) $2.90
   <!-- feedback: 47.90 + 2.90 = 50.80, más que el billete entregado. -->
-- [ ] C) $3.10
+- [ ] B) $3.10
   <!-- feedback: 47.90 + 3.10 = 51.00; excede los $50 pagados. -->
 - [ ] D) $2.01
   <!-- feedback: 47.90 + 2.01 = 49.91, que no llega a $50; es 2.10 escrito con las cifras decimales invertidas. -->

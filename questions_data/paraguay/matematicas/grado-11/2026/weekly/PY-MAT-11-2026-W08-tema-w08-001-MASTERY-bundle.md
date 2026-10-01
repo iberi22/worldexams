@@ -98,10 +98,10 @@ Dado que el presupuesto máximo es de ₲ 50000, el gasto total de los recuerdos
 En Encarnación. un grupo escolar tiene un presupuesto máximo de ₲ 60.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?
 
 ### Opciones
-- [x] A) $5.000x \le 60.000$ <!-- feedback: ¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 60,000 ₲. -->
-- [ ] B) $5.000x \ge 60.000$ <!-- feedback: Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo. -->
-- [ ] C) $5.000x < 60.000$ <!-- feedback: Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\le$). -->
-- [ ] D) $x \le 24$ <!-- feedback: Incorrecto. El número límite de artículos calculados es incorrecto. -->
+- [x] D) $5.000x \le 60.000$ <!-- feedback: ¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 60,000 ₲. -->
+- [ ] A) $5.000x \ge 60.000$ <!-- feedback: Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo. -->
+- [ ] B) $5.000x < 60.000$ <!-- feedback: Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\le$). -->
+- [ ] C) $x \le 24$ <!-- feedback: Incorrecto. El número límite de artículos calculados es incorrecto. -->
 
 ### Explicacion Pedagogica
 Dado que el presupuesto máximo es de ₲ 60000, el gasto total de los recuerdos ($5.000$ por cada una de las $x$ piezas) debe ser menor o igual a ese valor, lo cual se escribe como $5.000x \le 60000$.
@@ -119,10 +119,10 @@ Dado que el presupuesto máximo es de ₲ 60000, el gasto total de los recuerdos
 En Ciudad del Este. un grupo escolar tiene un presupuesto máximo de ₲ 70.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?
 
 ### Opciones
-- [x] A) $5.000x \le 70.000$ <!-- feedback: ¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 70,000 ₲. -->
-- [ ] B) $5.000x \ge 70.000$ <!-- feedback: Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo. -->
-- [ ] C) $5.000x < 70.000$ <!-- feedback: Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\le$). -->
-- [ ] D) $x \le 28$ <!-- feedback: Incorrecto. El número límite de artículos calculados es incorrecto. -->
+- [x] D) $5.000x \le 70.000$ <!-- feedback: ¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 70,000 ₲. -->
+- [ ] A) $5.000x \ge 70.000$ <!-- feedback: Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo. -->
+- [ ] B) $5.000x < 70.000$ <!-- feedback: Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\le$). -->
+- [ ] C) $x \le 28$ <!-- feedback: Incorrecto. El número límite de artículos calculados es incorrecto. -->
 
 ### Explicacion Pedagogica
 Dado que el presupuesto máximo es de ₲ 70000, el gasto total de los recuerdos ($5.000$ por cada una de las $x$ piezas) debe ser menor o igual a ese valor, lo cual se escribe como $5.000x \le 70000$.
@@ -140,8 +140,8 @@ Dado que el presupuesto máximo es de ₲ 70000, el gasto total de los recuerdos
 En Caacupé. un grupo escolar tiene un presupuesto máximo de ₲ 80.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?
 
 ### Opciones
-- [x] A) $5.000x \le 80.000$ <!-- feedback: ¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 80,000 ₲. -->
-- [ ] B) $5.000x \ge 80.000$ <!-- feedback: Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo. -->
+- [x] B) $5.000x \le 80.000$ <!-- feedback: ¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 80,000 ₲. -->
+- [ ] A) $5.000x \ge 80.000$ <!-- feedback: Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo. -->
 - [ ] C) $5.000x < 80.000$ <!-- feedback: Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\le$). -->
 - [ ] D) $x \le 32$ <!-- feedback: Incorrecto. El número límite de artículos calculados es incorrecto. -->
 
@@ -161,8 +161,8 @@ Dado que el presupuesto máximo es de ₲ 80000, el gasto total de los recuerdos
 En Pilar. un grupo escolar tiene un presupuesto máximo de ₲ 90.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?
 
 ### Opciones
-- [x] A) $5.000x \le 90.000$ <!-- feedback: ¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 90,000 ₲. -->
-- [ ] B) $5.000x \ge 90.000$ <!-- feedback: Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo. -->
+- [x] B) $5.000x \le 90.000$ <!-- feedback: ¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 90,000 ₲. -->
+- [ ] A) $5.000x \ge 90.000$ <!-- feedback: Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo. -->
 - [ ] C) $5.000x < 90.000$ <!-- feedback: Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\le$). -->
 - [ ] D) $x \le 36$ <!-- feedback: Incorrecto. El número límite de artículos calculados es incorrecto. -->
 
@@ -182,9 +182,9 @@ Dado que el presupuesto máximo es de ₲ 90000, el gasto total de los recuerdos
 En Coronel Oviedo. un grupo escolar tiene un presupuesto máximo de ₲ 100.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?
 
 ### Opciones
-- [x] A) $5.000x \le 100.000$ <!-- feedback: ¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 100,000 ₲. -->
-- [ ] B) $5.000x \ge 100.000$ <!-- feedback: Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo. -->
-- [ ] C) $5.000x < 100.000$ <!-- feedback: Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\le$). -->
+- [x] C) $5.000x \le 100.000$ <!-- feedback: ¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 100,000 ₲. -->
+- [ ] A) $5.000x \ge 100.000$ <!-- feedback: Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo. -->
+- [ ] B) $5.000x < 100.000$ <!-- feedback: Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\le$). -->
 - [ ] D) $x \le 40$ <!-- feedback: Incorrecto. El número límite de artículos calculados es incorrecto. -->
 
 ### Explicacion Pedagogica
@@ -203,8 +203,8 @@ Dado que el presupuesto máximo es de ₲ 100000, el gasto total de los recuerdo
 En Concepción. un grupo escolar tiene un presupuesto máximo de ₲ 110.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?
 
 ### Opciones
-- [x] A) $5.000x \le 110.000$ <!-- feedback: ¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 110,000 ₲. -->
-- [ ] B) $5.000x \ge 110.000$ <!-- feedback: Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo. -->
+- [x] B) $5.000x \le 110.000$ <!-- feedback: ¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 110,000 ₲. -->
+- [ ] A) $5.000x \ge 110.000$ <!-- feedback: Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo. -->
 - [ ] C) $5.000x < 110.000$ <!-- feedback: Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\le$). -->
 - [ ] D) $x \le 44$ <!-- feedback: Incorrecto. El número límite de artículos calculados es incorrecto. -->
 
@@ -224,9 +224,9 @@ Dado que el presupuesto máximo es de ₲ 110000, el gasto total de los recuerdo
 En Villarrica. un grupo escolar tiene un presupuesto máximo de ₲ 120.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?
 
 ### Opciones
-- [x] A) $5.000x \le 120.000$ <!-- feedback: ¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 120,000 ₲. -->
-- [ ] B) $5.000x \ge 120.000$ <!-- feedback: Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo. -->
-- [ ] C) $5.000x < 120.000$ <!-- feedback: Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\le$). -->
+- [x] C) $5.000x \le 120.000$ <!-- feedback: ¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 120,000 ₲. -->
+- [ ] A) $5.000x \ge 120.000$ <!-- feedback: Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo. -->
+- [ ] B) $5.000x < 120.000$ <!-- feedback: Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\le$). -->
 - [ ] D) $x \le 48$ <!-- feedback: Incorrecto. El número límite de artículos calculados es incorrecto. -->
 
 ### Explicacion Pedagogica
@@ -245,9 +245,9 @@ Dado que el presupuesto máximo es de ₲ 120000, el gasto total de los recuerdo
 En Asunción. un grupo escolar tiene un presupuesto máximo de ₲ 130.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?
 
 ### Opciones
-- [x] A) $5.000x \le 130.000$ <!-- feedback: ¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 130,000 ₲. -->
-- [ ] B) $5.000x \ge 130.000$ <!-- feedback: Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo. -->
-- [ ] C) $5.000x < 130.000$ <!-- feedback: Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\le$). -->
+- [x] C) $5.000x \le 130.000$ <!-- feedback: ¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 130,000 ₲. -->
+- [ ] A) $5.000x \ge 130.000$ <!-- feedback: Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo. -->
+- [ ] B) $5.000x < 130.000$ <!-- feedback: Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\le$). -->
 - [ ] D) $x \le 52$ <!-- feedback: Incorrecto. El número límite de artículos calculados es incorrecto. -->
 
 ### Explicacion Pedagogica
@@ -266,9 +266,9 @@ Dado que el presupuesto máximo es de ₲ 130000, el gasto total de los recuerdo
 En San Lorenzo. un grupo escolar tiene un presupuesto máximo de ₲ 140.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?
 
 ### Opciones
-- [x] A) $5.000x \le 140.000$ <!-- feedback: ¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 140,000 ₲. -->
-- [ ] B) $5.000x \ge 140.000$ <!-- feedback: Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo. -->
-- [ ] C) $5.000x < 140.000$ <!-- feedback: Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\le$). -->
+- [x] C) $5.000x \le 140.000$ <!-- feedback: ¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 140,000 ₲. -->
+- [ ] A) $5.000x \ge 140.000$ <!-- feedback: Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo. -->
+- [ ] B) $5.000x < 140.000$ <!-- feedback: Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\le$). -->
 - [ ] D) $x \le 56$ <!-- feedback: Incorrecto. El número límite de artículos calculados es incorrecto. -->
 
 ### Explicacion Pedagogica
@@ -287,8 +287,8 @@ Dado que el presupuesto máximo es de ₲ 140000, el gasto total de los recuerdo
 En Luque. un grupo escolar tiene un presupuesto máximo de ₲ 150.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?
 
 ### Opciones
-- [x] A) $5.000x \le 150.000$ <!-- feedback: ¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 150,000 ₲. -->
-- [ ] B) $5.000x \ge 150.000$ <!-- feedback: Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo. -->
+- [x] B) $5.000x \le 150.000$ <!-- feedback: ¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 150,000 ₲. -->
+- [ ] A) $5.000x \ge 150.000$ <!-- feedback: Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo. -->
 - [ ] C) $5.000x < 150.000$ <!-- feedback: Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\le$). -->
 - [ ] D) $x \le 60$ <!-- feedback: Incorrecto. El número límite de artículos calculados es incorrecto. -->
 
@@ -308,9 +308,9 @@ Dado que el presupuesto máximo es de ₲ 150000, el gasto total de los recuerdo
 En Encarnación. un grupo escolar tiene un presupuesto máximo de ₲ 160.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?
 
 ### Opciones
-- [x] A) $5.000x \le 160.000$ <!-- feedback: ¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 160,000 ₲. -->
-- [ ] B) $5.000x \ge 160.000$ <!-- feedback: Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo. -->
-- [ ] C) $5.000x < 160.000$ <!-- feedback: Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\le$). -->
+- [x] C) $5.000x \le 160.000$ <!-- feedback: ¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 160,000 ₲. -->
+- [ ] A) $5.000x \ge 160.000$ <!-- feedback: Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo. -->
+- [ ] B) $5.000x < 160.000$ <!-- feedback: Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\le$). -->
 - [ ] D) $x \le 64$ <!-- feedback: Incorrecto. El número límite de artículos calculados es incorrecto. -->
 
 ### Explicacion Pedagogica
@@ -350,9 +350,9 @@ Dado que el presupuesto máximo es de ₲ 170000, el gasto total de los recuerdo
 En Caacupé. un grupo escolar tiene un presupuesto máximo de ₲ 180.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?
 
 ### Opciones
-- [x] A) $5.000x \le 180.000$ <!-- feedback: ¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 180,000 ₲. -->
-- [ ] B) $5.000x \ge 180.000$ <!-- feedback: Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo. -->
-- [ ] C) $5.000x < 180.000$ <!-- feedback: Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\le$). -->
+- [x] C) $5.000x \le 180.000$ <!-- feedback: ¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 180,000 ₲. -->
+- [ ] A) $5.000x \ge 180.000$ <!-- feedback: Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo. -->
+- [ ] B) $5.000x < 180.000$ <!-- feedback: Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\le$). -->
 - [ ] D) $x \le 72$ <!-- feedback: Incorrecto. El número límite de artículos calculados es incorrecto. -->
 
 ### Explicacion Pedagogica
@@ -371,9 +371,9 @@ Dado que el presupuesto máximo es de ₲ 180000, el gasto total de los recuerdo
 En Pilar. un grupo escolar tiene un presupuesto máximo de ₲ 190.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?
 
 ### Opciones
-- [x] A) $5.000x \le 190.000$ <!-- feedback: ¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 190,000 ₲. -->
-- [ ] B) $5.000x \ge 190.000$ <!-- feedback: Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo. -->
-- [ ] C) $5.000x < 190.000$ <!-- feedback: Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\le$). -->
+- [x] C) $5.000x \le 190.000$ <!-- feedback: ¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 190,000 ₲. -->
+- [ ] A) $5.000x \ge 190.000$ <!-- feedback: Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo. -->
+- [ ] B) $5.000x < 190.000$ <!-- feedback: Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\le$). -->
 - [ ] D) $x \le 76$ <!-- feedback: Incorrecto. El número límite de artículos calculados es incorrecto. -->
 
 ### Explicacion Pedagogica
@@ -413,10 +413,10 @@ Dado que el presupuesto máximo es de ₲ 200000, el gasto total de los recuerdo
 En Concepción. un grupo escolar tiene un presupuesto máximo de ₲ 210.000 para comprar recuerdos. Si cada recuerdo típico cuesta ₲ 5.000. ¿cuál inecuación representa la cantidad máxima de recuerdos ($x$) que pueden adquirir?
 
 ### Opciones
-- [x] A) $5.000x \le 210.000$ <!-- feedback: ¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 210,000 ₲. -->
-- [ ] B) $5.000x \ge 210.000$ <!-- feedback: Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo. -->
-- [ ] C) $5.000x < 210.000$ <!-- feedback: Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\le$). -->
-- [ ] D) $x \le 84$ <!-- feedback: Incorrecto. El número límite de artículos calculados es incorrecto. -->
+- [x] D) $5.000x \le 210.000$ <!-- feedback: ¡Correcto! El costo de los recuerdos $5.000x$ no debe superar el límite de presupuesto de 210,000 ₲. -->
+- [ ] A) $5.000x \ge 210.000$ <!-- feedback: Incorrecto. Esto obligaría a gastar al menos el presupuesto indicado, superándolo en lugar de respetarlo. -->
+- [ ] B) $5.000x < 210.000$ <!-- feedback: Incorrecto. Sí se puede gastar exactamente el presupuesto disponible ($\le$). -->
+- [ ] C) $x \le 84$ <!-- feedback: Incorrecto. El número límite de artículos calculados es incorrecto. -->
 
 ### Explicacion Pedagogica
 Dado que el presupuesto máximo es de ₲ 210000, el gasto total de los recuerdos ($5.000$ por cada una de las $x$ piezas) debe ser menor o igual a ese valor, lo cual se escribe como $5.000x \le 210000$.

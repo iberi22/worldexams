@@ -33,9 +33,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Qué era la 'mita potosina' y cuál fue su propósito principal bajo la administración del virrey Francisco de Toledo?
 
 ### Opciones
-- [x] A) Un sistema de trabajo obligatorio y rotativo impuesto a las comunidades indígenas para la extracción masiva de plata en las minas del Cerro Rico.
+- [x] B) Un sistema de trabajo obligatorio y rotativo impuesto a las comunidades indígenas para la extracción masiva de plata en las minas del Cerro Rico.
   <!-- feedback: Correcto. La mita potosina fue reestructurada por el virrey Toledo en 1572 como un servicio forzado obligatorio para asegurar mano de obra indígena en las minas de plata. -->
-- [ ] B) Un acuerdo voluntario de libre comercio entre estancieros criollos y tejedores de lana del altiplano.
+- [ ] A) Un acuerdo voluntario de libre comercio entre estancieros criollos y tejedores de lana del altiplano.
   <!-- feedback: Incorrecto. La mita era un trabajo forzoso obligatorio, no un acuerdo libre ni un comercio voluntario de lana. -->
 - [ ] C) Un subsidio fiscal otorgado por el rey de España para fomentar la educación técnica de los caciques locales.
   <!-- feedback: Incorrecto. La mita no era un subsidio ni un programa educativo, sino un mecanismo feudal de extracción laboral extrema. -->
@@ -56,11 +56,11 @@ La mita potosina fue la columna vertebral de la economía colonial en la Real Au
 ¿Qué función principal cumplía la Real Audiencia de Charcas, fundada en 1559 con sede en La Plata (hoy Sucre)?
 
 ### Opciones
-- [x] A) Actuaba como el máximo tribunal de justicia y órgano de administración política en la región del Alto Perú, con amplia autonomía jurídica.
+- [x] C) Actuaba como el máximo tribunal de justicia y órgano de administración política en la región del Alto Perú, con amplia autonomía jurídica.
   <!-- feedback: Correcto. La Real Audiencia de Charcas fue establecida como un alto tribunal de apelación con funciones ejecutivas y judiciales de gran importancia en el Virreinato. -->
-- [ ] B) Era una escuela militar exclusiva para entrenar marineros que navegaran el río Desaguadero.
+- [ ] A) Era una escuela militar exclusiva para entrenar marineros que navegaran el río Desaguadero.
   <!-- feedback: Incorrecto. Charcas no se ubicaba en la costa ni entrenaba marineros para el río Desaguadero. -->
-- [ ] C) Funcionaba como un banco central encargado de la emisión de billetes de papel moneda colonial.
+- [ ] B) Funcionaba como un banco central encargado de la emisión de billetes de papel moneda colonial.
   <!-- feedback: Incorrecto. No existían billetes de papel moneda en el periodo colonial; las transacciones se hacían con monedas metálicas acuñadas. -->
 - [ ] D) Era un templo sagrado incaico dedicado exclusivamente al culto del sol y el monolito Bennett.
   <!-- feedback: Incorrecto. La Real Audiencia era una institución burocrática y judicial del imperio español, no un templo incaico o tiahuanacota. -->
@@ -102,13 +102,13 @@ Las misiones de Chiquitos y Moxos en las tierras bajas bolivianas lograron un al
 ¿Cuál fue el impacto del descubrimiento e introducción del método de amalgamación con azogue (mercurio) en la minería de Potosí?
 
 ### Opciones
-- [x] A) Permitió purificar la plata de baja ley de forma masiva, multiplicando la producción de Potosí y la rentabilidad de la corona española.
+- [x] D) Permitió purificar la plata de baja ley de forma masiva, multiplicando la producción de Potosí y la rentabilidad de la corona española.
   <!-- feedback: Correcto. El método de amalgamación con azogue (proceso de Medina) introducido en Potosí a partir de 1570 revolucionó la minería al permitir procesar vetas de menor ley de manera muy rentable. -->
-- [ ] B) Provocó la quiebra inmediata de todas las minas al prohibir la exportación de metales preciosos.
+- [ ] A) Provocó la quiebra inmediata de todas las minas al prohibir la exportación de metales preciosos.
   <!-- feedback: Incorrecto. Lejos de quebrar las minas, el azogue disparó la producción argentífera y generó un enorme flujo de riqueza mundial. -->
-- [ ] C) Sustituyó el uso de la piedra por el uso exclusivo de acero inoxidable para construir las galerías subterráneas.
+- [ ] B) Sustituyó el uso de la piedra por el uso exclusivo de acero inoxidable para construir las galerías subterráneas.
   <!-- feedback: Incorrecto. El acero inoxidable no existía en la época colonial, y las galerías continuaron usando madera y piedra. -->
-- [ ] D) Hizo que España cediera la propiedad del Cerro Rico al Imperio británico a cambio de carbón vegetal.
+- [ ] C) Hizo que España cediera la propiedad del Cerro Rico al Imperio británico a cambio de carbón vegetal.
   <!-- feedback: Incorrecto. Potosí se mantuvo bajo estricto control exclusivo de la corona española y nunca se cedió al Imperio británico. -->
 
 ### Explicacion Pedagogica
@@ -148,11 +148,11 @@ La estructura social colonial de Charcas era altamente jerárquica y desigual. E
 ¿Qué papel fundamental desempeñaba la Casa de la Moneda de Potosí dentro del comercio y las finanzas del imperio español?
 
 ### Opciones
-- [x] A) Acuñaba las monedas de plata (reales de a ocho) que circulaban mundialmente y servían de patrón para el comercio transoceánico.
+- [x] C) Acuñaba las monedas de plata (reales de a ocho) que circulaban mundialmente y servían de patrón para el comercio transoceánico.
   <!-- feedback: Correcto. La Casa de la Moneda de Potosí, establecida para controlar la ley de los metales y cobrar el 'quinto real', acuñó monedas de plata de valor universal aceptadas en Europa y Asia. -->
-- [ ] B) Acuñaba monedas de oro importado exclusivamente de los yacimientos del Ártico canadiense.
+- [ ] A) Acuñaba monedas de oro importado exclusivamente de los yacimientos del Ártico canadiense.
   <!-- feedback: Incorrecto. El metal acuñado en Potosí era la plata local del Cerro Rico, no oro importado de Canadá. -->
-- [ ] C) Imprimía bonos de deuda pública en idiomas nativos como el quechua, aymara y guaraní.
+- [ ] B) Imprimía bonos de deuda pública en idiomas nativos como el quechua, aymara y guaraní.
   <!-- feedback: Incorrecto. Las transacciones monetarias eran puramente metálicas; no se imprimía papel moneda colonial en idiomas nativos. -->
 - [ ] D) Era un hospital militar destinado exclusivamente a curar a los marineros que peleaban en la Guerra del Chaco.
   <!-- feedback: Incorrecto. La Guerra del Chaco ocurrió en el siglo XX, siglos después de la época colonial, y la Casa de la Moneda tenía un fin puramente financiero. -->
@@ -171,9 +171,9 @@ La Casa de la Moneda de Potosí es uno de los edificios coloniales civiles más 
 ¿Qué diferencia existía entre el régimen de encomienda y el yanaconazgo en la estructura socioeconómica altoperuana?
 
 ### Opciones
-- [x] A) La encomienda otorgaba a un colonizador el derecho a recibir el tributo y trabajo de un grupo de indígenas a cambio de su evangelización, mientras que el yanaconazgo adscribía a los indígenas a la tierra de la hacienda de forma perpetua.
+- [x] B) La encomienda otorgaba a un colonizador el derecho a recibir el tributo y trabajo de un grupo de indígenas a cambio de su evangelización, mientras que el yanaconazgo adscribía a los indígenas a la tierra de la hacienda de forma perpetua.
   <!-- feedback: Correcto. La encomienda era una merced real de tributo de un ayllu, mientras que los yanaconas eran indígenas desarraigados de sus ayllus originales y adscritos de por vida al servicio de las haciendas terratenientes. -->
-- [ ] B) La encomienda permitía a los indígenas comprar acciones de las minas de plata y el yanaconazgo los obligaba a migrar a España.
+- [ ] A) La encomienda permitía a los indígenas comprar acciones de las minas de plata y el yanaconazgo los obligaba a migrar a España.
   <!-- feedback: Incorrecto. Ningún régimen colonial otorgaba compra de acciones mineras a indígenas ni los obligaba a migrar en masa a España. -->
 - [ ] C) El yanaconazgo era un salario pagado en dólares y la encomienda consistía en el pago de becas de estudio universitarias.
   <!-- feedback: Incorrecto. No existían los dólares ni becas de estudio modernas en el régimen servil colonial agrario del Alto Perú. -->
@@ -217,11 +217,11 @@ El Barroco Mestizo es la máxima expresión artística del encuentro colonial en
 ¿Qué efecto práctico tuvo la transferencia de la Real Audiencia de Charcas del Virreinato del Perú al Virreinato del Río de la Plata en 1776?
 
 ### Opciones
-- [x] A) Reorientó los flujos comerciales y fiscales del Alto Perú hacia el puerto de Buenos Aires, debilitando el monopolio de Lima.
+- [x] C) Reorientó los flujos comerciales y fiscales del Alto Perú hacia el puerto de Buenos Aires, debilitando el monopolio de Lima.
   <!-- feedback: Correcto. Al integrar Charcas al Virreinato del Río de la Plata, la corona española facilitó la salida de la plata potosina de forma legal directa por el océano Atlántico (vía Buenos Aires) en lugar del largo trayecto por Lima y el Pacífico. -->
-- [ ] B) Provocó la independencia inmediata de Bolivia bajo el mando del Mariscal Andrés de Santa Cruz.
+- [ ] A) Provocó la independencia inmediata de Bolivia bajo el mando del Mariscal Andrés de Santa Cruz.
   <!-- feedback: Incorrecto. La transferencia de virreinato en 1776 no independizó a Bolivia, y Andrés de Santa Cruz gobernó décadas más tarde. -->
-- [ ] C) Obligó a todos los habitantes de La Paz a hablar portugués de manera obligatoria bajo penas severas de prisión.
+- [ ] B) Obligó a todos los habitantes de La Paz a hablar portugués de manera obligatoria bajo penas severas de prisión.
   <!-- feedback: Incorrecto. El idioma oficial se mantuvo como el castellano y no se impuso el portugués, ya que dependía del imperio español. -->
 - [ ] D) Forzó la privatización total de las minas del Cerro Rico en favor de empresarios mineros franceses.
   <!-- feedback: Incorrecto. Las minas se mantuvieron bajo el estricto control y regulación impositiva de la corona de España, no se privatizaron a franceses. -->
@@ -240,13 +240,13 @@ Las Reformas Borbónicas buscaron centralizar el control imperial español y aum
 Si aplicamos el concepto de conflicto social al Potosí del siglo XVII, ¿qué tensiones socioeconómicas desencadenaron la guerra civil entre Vicuñas y Vascongados?
 
 ### Opciones
-- [x] A) El enfrentamiento entre los criollos andinos (vicuñas) y los peninsulares de origen vasco (vascongados) por el monopolio de las concesiones mineras y cargos públicos.
+- [x] D) El enfrentamiento entre los criollos andinos (vicuñas) y los peninsulares de origen vasco (vascongados) por el monopolio de las concesiones mineras y cargos públicos.
   <!-- feedback: Correcto. La guerra de los Vicuñas y Vascongados (1622-1625) reflejó las hondas tensiones internas de la oligarquía potosina por el control de la inmensa riqueza del Cerro Rico. -->
-- [ ] B) La disputa entre pescadores del lago Titicaca y agricultores de yuca de los llanos del Beni.
+- [ ] A) La disputa entre pescadores del lago Titicaca y agricultores de yuca de los llanos del Beni.
   <!-- feedback: Incorrecto. No fue una disputa de pescadores y agricultores, sino un conflicto civil armado en la urbe minera de Potosí. -->
-- [ ] C) El rechazo de la corona de España a la importación de vicuñas vivas para repoblar los zoológicos de Madrid.
+- [ ] B) El rechazo de la corona de España a la importación de vicuñas vivas para repoblar los zoológicos de Madrid.
   <!-- feedback: Incorrecto. El término 'Vicuña' era el sobrenombre que adoptaron los milicianos criollos andinos, sin relación con el comercio de animales vivos. -->
-- [ ] D) El desacuerdo sobre el trazado del tren bioceánico que uniría Potosí con las costas del océano Pacífico.
+- [ ] C) El desacuerdo sobre el trazado del tren bioceánico que uniría Potosí con las costas del océano Pacífico.
   <!-- feedback: Incorrecto. El ferrocarril es una tecnología del siglo XIX; no existían trenes en el siglo XVII colonial. -->
 
 ### Explicacion Pedagogica
@@ -263,13 +263,13 @@ Este conflicto demostró que el Alto Perú no era un bloque monolítico. Los vic
 ¿Cómo influyó el ambiente intelectual de la Universidad de San Francisco Xavier de Chuquisaca en el cuestionamiento al dominio español a fines del siglo XVIII?
 
 ### Opciones
-- [x] A) Fue el centro de debate donde se asimilaron las ideas de la Ilustración y se formuló el Silogismo Altoperuano, que justificaba la rebelión ante la tiranía imperial.
+- [x] D) Fue el centro de debate donde se asimilaron las ideas de la Ilustración y se formuló el Silogismo Altoperuano, que justificaba la rebelión ante la tiranía imperial.
   <!-- feedback: Correcto. La Academia de Practicantes de Charcas y la Universidad de San Francisco Xavier formaron a los intelectuales revolucionarios (como Jaime de Zudáñez y Bernardo de Monteagudo) bajo el razonamiento crítico que impulsó las juntas revolucionarias de 1809. -->
-- [ ] B) Enseñaba que el rey de España era un enviado celestial absoluto que no podía cometer errores ni ser desobedecido.
+- [ ] A) Enseñaba que el rey de España era un enviado celestial absoluto que no podía cometer errores ni ser desobedecido.
   <!-- feedback: Incorrecto. Justamente los teólogos y juristas de la universidad desarrollaron argumentos teóricos para desafiar el absolutismo monárquico. -->
-- [ ] C) Se dedicaba exclusivamente a traducir la Biblia al aymara para abolir toda forma de enseñanza secular de las leyes.
+- [ ] B) Se dedicaba exclusivamente a traducir la Biblia al aymara para abolir toda forma de enseñanza secular de las leyes.
   <!-- feedback: Incorrecto. Chuquisaca era célebre por sus estudios jurídicos y de leyes (derecho civil y canónico), no por clausurar el debate legal secular. -->
-- [ ] D) Prohibía la lectura de libros impresos en España para obligar a leer únicamente manuscritos procedentes de China.
+- [ ] C) Prohibía la lectura de libros impresos en España para obligar a leer únicamente manuscritos procedentes de China.
   <!-- feedback: Incorrecto. Los libros de filosofía política europea ilustrada (Rousseau, Montesquieu) circulaban clandestinamente entre sus alumnos, no literatura de China. -->
 
 ### Explicacion Pedagogica
@@ -286,13 +286,13 @@ San Francisco Xavier de Chuquisaca (Sucre), fundada en 1624, fue la cuna de los 
 ¿Qué factores estructurales provocaron la decadencia de la minería de la plata en la Real Audiencia de Charcas a finales del siglo XVIII?
 
 ### Opciones
-- [x] A) El agotamiento de las vetas más ricas de plata superficiales, la falta de inversión tecnológica y la escasez crítica de azogue.
+- [x] D) El agotamiento de las vetas más ricas de plata superficiales, la falta de inversión tecnológica y la escasez crítica de azogue.
   <!-- feedback: Correcto. Con el paso de los siglos, la explotación minera del Cerro Rico se hizo más difícil y costosa, afectada además por inundaciones de las minas y la interrupción en el suministro de azogue. -->
-- [ ] B) La prohibición total de extraer plata decretada por la corona de España para proteger los bosques nativos.
+- [ ] A) La prohibición total de extraer plata decretada por la corona de España para proteger los bosques nativos.
   <!-- feedback: Incorrecto. España dependía vitalmente de los metales preciosos americanos y siempre buscó incentivar, no prohibir, la minería de plata. -->
-- [ ] C) La invasión de piratas británicos que robaron y hundieron el Cerro Rico en el océano Pacífico de forma física.
+- [ ] B) La invasión de piratas británicos que robaron y hundieron el Cerro Rico en el océano Pacífico de forma física.
   <!-- feedback: Incorrecto. El Cerro Rico es una montaña andina continental elevada en el altiplano; físicamente no se puede hundir en el océano. -->
-- [ ] D) La invención de la moneda digital que devaluó de manera instantánea el valor internacional de los metales finos.
+- [ ] C) La invención de la moneda digital que devaluó de manera instantánea el valor internacional de los metales finos.
   <!-- feedback: Incorrecto. Es un anacronismo total; la devaluación digital de metales finos no existía en el siglo XVIII colonial. -->
 
 ### Explicacion Pedagogica
@@ -355,11 +355,11 @@ La mita potosina fue calificada históricamente como una de las instituciones m�
 ¿Qué contradicción de intereses dividía a los estancieros criollos de Charcas de las autoridades eclesiásticas en relación con el cobro del diezmo?
 
 ### Opciones
-- [x] A) Los estancieros consideraban el diezmo eclesiástico como una carga fiscal excesiva que mermaba su capital agrícola, mientras que la Iglesia exigía su cobro estricto para financiar sus parroquias y misiones.
+- [x] C) Los estancieros consideraban el diezmo eclesiástico como una carga fiscal excesiva que mermaba su capital agrícola, mientras que la Iglesia exigía su cobro estricto para financiar sus parroquias y misiones.
   <!-- feedback: Correcto. El diezmo (impuesto del 10% sobre la producción agropecuaria para el sustento de la Iglesia) generaba agudos pleitos judiciales entre hacendados terratenientes y obispados de la Real Audiencia. -->
-- [ ] B) La disputa sobre si los caballos andinos debían pagar impuestos en pepitas de oro puro importado.
+- [ ] A) La disputa sobre si los caballos andinos debían pagar impuestos en pepitas de oro puro importado.
   <!-- feedback: Incorrecto. Los caballos no pagaban impuestos en pepitas de oro; las tensiones eran tributarias reales sobre la producción de granos, coca y ganado. -->
-- [ ] C) La total abolición del catolicismo que propugnaban los estancieros criollos para imponer el luteranismo alemán.
+- [ ] B) La total abolición del catolicismo que propugnaban los estancieros criollos para imponer el luteranismo alemán.
   <!-- feedback: Incorrecto. Los estancieros criollos eran católicos devotos pero cuestionaban los abusos tributarios de la estructura eclesiástica, no buscaban el luteranismo. -->
 - [ ] D) El rechazo de la Iglesia a que los estancieros utilizaran maquinaria agrícola moderna a vapor.
   <!-- feedback: Incorrecto. No existía la maquinaria agrícola a vapor en la era colonial; la agricultura dependía puramente de tracción animal y humana. -->
@@ -401,13 +401,13 @@ La plata de Potosí no solo enriqueció de forma efímera a España, sino que tr
 Al juzgar éticamente el impacto histórico de la mita potosina de la época colonial, ¿cuál de las siguientes valoraciones cuenta con mayor respaldo historiográfico?
 
 ### Opciones
-- [x] A) Constituyó un subsidio laboral forzoso de la población indígena que enriqueció al imperio español a costa de la desestructuración social y el quebranto demográfico del altiplano.
+- [x] D) Constituyó un subsidio laboral forzoso de la población indígena que enriqueció al imperio español a costa de la desestructuración social y el quebranto demográfico del altiplano.
   <!-- feedback: Correcto. Los análisis historiográficos coinciden en que la mita funcionó como un mecanismo despiadado de transferencia de valor humano y económico andino a Europa, dejando secuelas demográficas duraderas en Charcas. -->
-- [ ] B) Fue un programa de empleo voluntario que permitió a los indígenas andinos enriquecerse rápidamente y jubilarse en España.
+- [ ] A) Fue un programa de empleo voluntario que permitió a los indígenas andinos enriquecerse rápidamente y jubilarse en España.
   <!-- feedback: Incorrecto. Los mitayos sufrían explotación extrema, salarios miserables e insolvencia; la enorme mayoría moría o quedaba lisiada. -->
-- [ ] C) Representó un modelo de desarrollo ecológico sostenible que impidió la contaminación del río Desaguadero.
+- [ ] B) Representó un modelo de desarrollo ecológico sostenible que impidió la contaminación del río Desaguadero.
   <!-- feedback: Incorrecto. La minería colonial no tenía políticas de sostenibilidad ecológica y contaminó de manera grave los valles fluviales de Potosí con mercurio. -->
-- [ ] D) Careció de importancia económica real debido a que las minas de Potosí nunca produjeron suficiente plata para exportación.
+- [ ] C) Careció de importancia económica real debido a que las minas de Potosí nunca produjeron suficiente plata para exportación.
   <!-- feedback: Incorrecto. Potosí produjo la mayor porción de la plata que circuló globalmente en los siglos XVI y XVII, siendo de enorme trascendencia financiera mundial. -->
 
 ### Explicacion Pedagogica
@@ -424,11 +424,11 @@ La evaluación de la mita potosina desde la perspectiva de la historia crítica 
 Al juzgar integralmente el rol de las Leyes de Indias y la Real Audiencia de Charcas frente al maltrato de los mitayos, ¿cuál de las siguientes conclusiones cuenta con mayor sustento documental?
 
 ### Opciones
-- [x] A) Existía una honda contradicción entre el marco jurídico protector de las Leyes de Indias en teoría y su inaplicación sistemática en la realidad debido a los intereses económicos de los azogueros potosinos.
+- [x] C) Existía una honda contradicción entre el marco jurídico protector de las Leyes de Indias en teoría y su inaplicación sistemática en la realidad debido a los intereses económicos de los azogueros potosinos.
   <!-- feedback: Correcto. Aunque la corona promulgó normas para moderar el maltrato a indígenas (como la prohibición de cargas excesivas), en Charcas regía el principio de 'obedezco pero no cumplo', priorizando la extracción de plata sobre la vida indígena. -->
-- [ ] B) Las Leyes de Indias promovían activamente el exterminio sistemático de toda la población indígena de Charcas de forma intencional escrita.
+- [ ] A) Las Leyes de Indias promovían activamente el exterminio sistemático de toda la población indígena de Charcas de forma intencional escrita.
   <!-- feedback: Incorrecto. La corona deseaba conservar a la población indígena como tributaria y mano de obra productiva católica, por lo que su legislación formal era protectora, no de exterminio. -->
-- [ ] C) La Real Audiencia encarcelaba inmediatamente a cualquier español que cobrara el impuesto de la mita.
+- [ ] B) La Real Audiencia encarcelaba inmediatamente a cualquier español que cobrara el impuesto de la mita.
   <!-- feedback: Incorrecto. La Audiencia validaba y regulaba el sistema de la mita potosina, sancionando judicialmente a los indígenas que huían del servicio. -->
 - [ ] D) La legislación colonial fue redactada directamente por los sabios andinos de Tiwanaku mediante debates democráticos.
   <!-- feedback: Incorrecto. La legislación provenía del Consejo de Indias en España, bajo la autoridad absoluta del rey de España, sin participación democrática nativa. -->
@@ -447,13 +447,13 @@ La contradicción jurídica colonial se sintetiza en la famosa frase de época: 
 Al evaluar las raíces de la identidad nacional de Bolivia en la época colonial de Charcas, ¿qué valoración historiográfica posee mayor sustento?
 
 ### Opciones
-- [x] A) La Real Audiencia de Charcas forjó una identidad regional diferenciada y un sentimiento de pertenencia en las élites criollas y mestizas, sustentado en la autonomía del territorio altoperuano.
+- [x] D) La Real Audiencia de Charcas forjó una identidad regional diferenciada y un sentimiento de pertenencia en las élites criollas y mestizas, sustentado en la autonomía del territorio altoperuano.
   <!-- feedback: Correcto. La prolongada existencia de la Audiencia de Charcas como unidad administrativa autónoma por más de dos siglos generó una cohesión regional y administrativa que facilitaría su posterior independencia como Estado soberano. -->
-- [ ] B) La identidad de Charcas era idéntica a la de Madrid y no existía ninguna distinción cultural entre criollos andinos y peninsulares.
+- [ ] A) La identidad de Charcas era idéntica a la de Madrid y no existía ninguna distinción cultural entre criollos andinos y peninsulares.
   <!-- feedback: Incorrecto. Existían agudas distinciones de vestimenta, alimentación, acentos y, sobre todo, una rivalidad de intereses económicos y políticos entre criollos y chapetones. -->
-- [ ] C) La identidad boliviana surgió de forma espontánea a partir de la firma de tratados de libre comercio con el Imperio del Japón.
+- [ ] B) La identidad boliviana surgió de forma espontánea a partir de la firma de tratados de libre comercio con el Imperio del Japón.
   <!-- feedback: Incorrecto. No existían tratados de libre comercio de Charcas con Japón y la identidad nacional se forjó a través de la convivencia histórica y guerras. -->
-- [ ] D) Los habitantes de Charcas preferían pertenecer incondicionalmente al Virreinato de Nueva España (México) para compartir su sistema agrario.
+- [ ] C) Los habitantes de Charcas preferían pertenecer incondicionalmente al Virreinato de Nueva España (México) para compartir su sistema agrario.
   <!-- feedback: Incorrecto. Geográfica e históricamente la identidad se vinculaba con la autonomía local altoperuana frente a las capitales virreinales de Lima y Buenos Aires. -->
 
 ### Explicacion Pedagogica
@@ -470,13 +470,13 @@ La gestación de Bolivia no fue un accidente fortuito de 1825. Los siglos de adm
 Al juzgar críticamente el impacto histórico de las misiones jesuíticas de Chiquitos y Moxos en la supervivencia de las lenguas y culturas indígenas de tierras bajas, ¿cuál de las siguientes conclusiones posee mayor validez?
 
 ### Opciones
-- [x] A) Actuaron como un refugio defensivo que preservó aspectos lingüísticos y comunitarios locales mediante el sincretismo, pero bajo una estricta tutela religiosa paternalista europea.
+- [x] D) Actuaron como un refugio defensivo que preservó aspectos lingüísticos y comunitarios locales mediante el sincretismo, pero bajo una estricta tutela religiosa paternalista europea.
   <!-- feedback: Correcto. Las reducciones jesuíticas aislaron a las etnias de tierras bajas de las destructivas encomiendas y de las expediciones de caza de esclavos de los bandeirantes portugueses, permitiendo la supervivencia lingüística bajo una estructura teocrática protectora. -->
-- [ ] B) Fueron campos de exterminio lingüístico donde se obligó a los chiquitanos a hablar exclusivamente latín eclesiástico.
+- [ ] A) Fueron campos de exterminio lingüístico donde se obligó a los chiquitanos a hablar exclusivamente latín eclesiástico.
   <!-- feedback: Incorrecto. Los jesuitas estudiaron e instrumentalizaron las lenguas originarias locales (como el chiquitano y el moxeño) para la catequesis, preservándolas de forma escrita. -->
-- [ ] C) Lograron la independencia republicana y democrática total de Santa Cruz frente a España en el siglo XVII.
+- [ ] B) Lograron la independencia republicana y democrática total de Santa Cruz frente a España en el siglo XVII.
   <!-- feedback: Incorrecto. Las misiones dependían políticamente de la corona española y nunca buscaron fundar una república independiente de corte democrático ilustrado. -->
-- [ ] D) Carecieron por completo de importancia en las tierras bajas de Bolivia, al no registrarse construcciones estables en el Beni.
+- [ ] C) Carecieron por completo de importancia en las tierras bajas de Bolivia, al no registrarse construcciones estables en el Beni.
   <!-- feedback: Incorrecto. Las iglesias de madera tallada de las misiones jesuitas del Beni y Chiquitos subsisten en pie y son catalogadas como Patrimonio de la Humanidad por la UNESCO. -->
 
 ### Explicacion Pedagogica

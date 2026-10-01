@@ -57,13 +57,13 @@ Un verso es cada línea de un poema. La rima consonante ocurre cuando coinciden 
 ¿Qué figura literaria se emplea al decir que "El río es una serpiente de plata"?
 
 ### Opciones
-- [x] A) Metáfora, al identificar directamente el río con una serpiente por su forma ondulante y su brillo.
+- [x] D) Metáfora, al identificar directamente el río con una serpiente por su forma ondulante y su brillo.
   <!-- feedback: Asocia dos elementos distintos (río y serpiente) sin usar conectores de comparación explícitos. -->
-- [ ] B) Símil o comparación, porque utiliza el conector explícito "como".
+- [ ] A) Símil o comparación, porque utiliza el conector explícito "como".
   <!-- feedback: No utiliza "como", "parece" o "cual"; por tanto es una metáfora directa y no un símil. -->
-- [ ] C) Hipérbole, al exagerar el tamaño de las montañas hasta el infinito.
+- [ ] B) Hipérbole, al exagerar el tamaño de las montañas hasta el infinito.
   <!-- feedback: La expresión identifica la forma del río, no exagera desmesuradamente una cantidad. -->
-- [ ] D) Onomatopeya, al imitar el sonido del agua al correr.
+- [ ] C) Onomatopeya, al imitar el sonido del agua al correr.
   <!-- feedback: No imita sonidos naturales con palabras como "gluglu" o "sish", sino que establece una equivalencia figurada. -->
 
 ### Explicacion Pedagogica
@@ -80,13 +80,13 @@ La metáfora establece una identidad intuitiva entre dos realidades que comparte
 ¿Qué sentido figurado transmite la expresión "Las gotas de lluvia bailan"?
 
 ### Opciones
-- [x] A) Transmite el movimiento rítmico y alegre con el que caen las gotas sobre el tejado.
+- [x] D) Transmite el movimiento rítmico y alegre con el que caen las gotas sobre el tejado.
   <!-- feedback: Atribuye la acción de bailar para describir visualmente el rebotar rítmico de la lluvia. -->
-- [ ] B) Indica que las gotas de lluvia tienen pies humanos e instrucción de danza.
+- [ ] A) Indica que las gotas de lluvia tienen pies humanos e instrucción de danza.
   <!-- feedback: Debe interpretarse en sentido figurado poético, no en sentido literal estricto. -->
-- [ ] C) Afirma que la lluvia destruyó los tejados de las viviendas campesinas.
+- [ ] B) Afirma que la lluvia destruyó los tejados de las viviendas campesinas.
   <!-- feedback: El tono es de calma y ritmo apacible ("canción de cuna"), no de catástrofe. -->
-- [ ] D) Explica el ciclo hidrográfico del agua desde las nubes hasta el mar.
+- [ ] C) Explica el ciclo hidrográfico del agua desde las nubes hasta el mar.
   <!-- feedback: Es una descripción lírica y evocadora, no una explicación científica de ciencias naturales. -->
 
 ### Explicacion Pedagogica
@@ -103,11 +103,11 @@ La interpretación del lenguaje figurado exige trascender el significado literal
 ¿Cuál es el esquema de rima (disposición de los finales de verso) que presenta esta estrofa?
 
 ### Opciones
-- [x] A) Rima cruzada o alternada (ABAB), pues rima el verso 1 con el 3 (rama/cama) y el 2 con el 4 (jilguero/lucero).
+- [x] C) Rima cruzada o alternada (ABAB), pues rima el verso 1 con el 3 (rama/cama) y el 2 con el 4 (jilguero/lucero).
   <!-- feedback: El verso 1 rima con el 3 y el verso 2 rima con el 4, formando el patrón alterno ABAB. -->
-- [ ] B) Rima pareada (AABB), pues riman los versos seguidos 1 con 2 y 3 con 4.
+- [ ] A) Rima pareada (AABB), pues riman los versos seguidos 1 con 2 y 3 con 4.
   <!-- feedback: "Rama" no rima con "jilguero", por lo que no es un esquema AABB. -->
-- [ ] C) Rima abrazada (ABBA), donde el primer verso rima con el cuarto.
+- [ ] B) Rima abrazada (ABBA), donde el primer verso rima con el cuarto.
   <!-- feedback: "Rama" (1) no rima con "lucero" (4), descartando la rima abrazada. -->
 - [ ] D) Versos libres sin ningún tipo de coincidencia fonética.
   <!-- feedback: Existen coincidencias consonantes claras entre los versos impares y pares. -->
@@ -126,9 +126,9 @@ El esquema de rima analizado (ABAB) demuestra la estructuración métrica tradic
 ¿Cuál es el estado de ánimo (tono afectivo) dominante que expresa el hablante lírico en el poema?
 
 ### Opciones
-- [x] A) Melancolía y tristeza contemplativa.
+- [x] B) Melancolía y tristeza contemplativa.
   <!-- feedback: Palabras como "tristeza", "tarde fría", "llora" y "suspira" construyen un clima de nostalgia y melancolía. -->
-- [ ] B) Euforia y entusiasmo festivo.
+- [ ] A) Euforia y entusiasmo festivo.
   <!-- feedback: El poema no contiene términos asociados al festejo o a la alegría desbordante. -->
 - [ ] C) Rabia e indignación violenta.
   <!-- feedback: No se expresan reclamos ni furia, sino una tristeza suave y pausada. -->
@@ -149,11 +149,11 @@ El tono poético o voz lírica refleja la emoción predominante que sostiene la 
 ¿Por qué se asocia en esta metáfora el sol con un "tambor de fuego"?
 
 ### Opciones
-- [x] A) Porque su luz y calor intensos marcan el ritmo del día soleado en el Caribe con la energía del tambor.
+- [x] C) Porque su luz y calor intensos marcan el ritmo del día soleado en el Caribe con la energía del tambor.
   <!-- feedback: Vincula el calor ardiente del sol con el ritmo festivo y la calidez del instrumento autóctono. -->
-- [ ] B) Porque el sol emite retumbos acústicos que se escuchan a miles de kilómetros.
+- [ ] A) Porque el sol emite retumbos acústicos que se escuchan a miles de kilómetros.
   <!-- feedback: El sol no emite un sonido de tambor audible; la relación es poética y sensorial. -->
-- [ ] C) Porque el sol está construido de madera de balsa y cuero de chivo.
+- [ ] B) Porque el sol está construido de madera de balsa y cuero de chivo.
   <!-- feedback: Es una interpretación literal disparatada que ignora el sentido figurado del poema. -->
 - [ ] D) Para denunciar la contaminación ambiental en las playas colombianas.
   <!-- feedback: La imagen celebra el paisaje y la cultura caribeña, no constituye una denuncia ecológica. -->
@@ -172,9 +172,9 @@ Las metáforas regionales integran elementos del entorno natural y cultural para
 ¿En qué se diferencian ambos pares de versos respecto a la musicalidad y la rima?
 
 ### Opciones
-- [x] A) El Par 1 posee rima consonante perfecta (-orra), mientras que el Par 2 no presenta rima (versos libres).
+- [x] B) El Par 1 posee rima consonante perfecta (-orra), mientras que el Par 2 no presenta rima (versos libres).
   <!-- feedback: Par 1 rima en "-orra" totalmente; Par 2 termina en palabras con sonidos completamente distintos (-orra / -inca). -->
-- [ ] B) El Par 1 es un texto en prosa y el Par 2 es un poema dramático.
+- [ ] A) El Par 1 es un texto en prosa y el Par 2 es un poema dramático.
   <!-- feedback: Ambos pares son estructuras en verso; la diferencia estriba únicamente en la presencia o ausencia de rima. -->
 - [ ] C) El Par 2 presenta rima consonante y el Par 1 rima asonante.
   <!-- feedback: Es al revés: el Par 1 es rima consonante perfecta y el Par 2 carece de rima. -->
@@ -195,13 +195,13 @@ La presencia de rima aporta musicalidad y ritmo cadencioso a la recitación de l
 ¿Cuál de las siguientes afirmaciones apoya de forma más sólida la postura del crítico literario?
 
 ### Opciones
-- [x] A) La rima ayuda a identificar patrones de sonido en las palabras y la metáfora ejercita el pensamiento abstracto y la creatividad.
+- [x] D) La rima ayuda a identificar patrones de sonido en las palabras y la metáfora ejercita el pensamiento abstracto y la creatividad.
   <!-- feedback: La discriminación de sonidos finales favorece la fonología y la metáfora estimula la imaginación interpretativa. -->
-- [ ] B) Los poemas sustituyen la necesidad de aprender a sumar y restar en las clases de matemáticas.
+- [ ] A) Los poemas sustituyen la necesidad de aprender a sumar y restar en las clases de matemáticas.
   <!-- feedback: La lírica promueve competencias del lenguaje, pero no reemplaza el pensamiento lógico-matemático. -->
-- [ ] C) La poesía obliga a los estudiantes a memorizar diccionarios completos de gramática.
+- [ ] B) La poesía obliga a los estudiantes a memorizar diccionarios completos de gramática.
   <!-- feedback: La poesía busca el disfrute estético y expresivo, no la memorización mecánica de tratados gramaticales. -->
-- [ ] D) Todos los textos de ciencias naturales deberían escribirse en verso con rima obligatoria.
+- [ ] C) Todos los textos de ciencias naturales deberían escribirse en verso con rima obligatoria.
   <!-- feedback: Los textos científicos requieren claridad expositiva y objetividad, no restricciones métricas líricas. -->
 
 ### Explicacion Pedagogica

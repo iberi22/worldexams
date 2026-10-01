@@ -31,8 +31,8 @@ bundle_index: 1
 ### Opciones
 - [ ] A) $>$ <!-- feedback: Este es el simbolo de "mayor que". -->
 - [ ] B) $<$ <!-- feedback: Este es el simbolo de "menor que". -->
-- [x] C) $\le$ <!-- feedback: ¡Correcto! Indica que el valor de la izquierda puede ser menor o exactamente igual al de la derecha. -->
-- [ ] D) $\neq$ <!-- feedback: Este es el simbolo de "distinto de". -->
+- [x] D) $\le$ <!-- feedback: ¡Correcto! Indica que el valor de la izquierda puede ser menor o exactamente igual al de la derecha. -->
+- [ ] C) $\neq$ <!-- feedback: Este es el simbolo de "distinto de". -->
 
 ### Explicacion Pedagogica
 Las inecuaciones expresan una relacion de orden entre dos expresiones algebraicas. El simbolo $\le$ incluye la posibilidad de igualdad, lo que afecta la representacion del intervalo (usando corchetes) y de la recta numerica (usando un punto cerrado).
@@ -48,8 +48,8 @@ Las inecuaciones expresan una relacion de orden entre dos expresiones algebraica
 ¿Que sucede con el sentido de la desigualdad en una inecuacion si multiplicamos ambos lados por un numero real negativo?
 
 ### Opciones
-- [ ] A) El sentido se mantiene igual. <!-- feedback: Esto solo ocurre si multiplicamos por un numero positivo. -->
-- [x] B) El sentido de la desigualdad se invierte (cambia). <!-- feedback: ¡Correcto! Multiplicar por un negativo cambia la orientacion de la relacion de orden. -->
+- [ ] B) El sentido se mantiene igual. <!-- feedback: Esto solo ocurre si multiplicamos por un numero positivo. -->
+- [x] A) El sentido de la desigualdad se invierte (cambia). <!-- feedback: ¡Correcto! Multiplicar por un negativo cambia la orientacion de la relacion de orden. -->
 - [ ] C) La inecuacion se convierte en una igualdad. <!-- feedback: La naturaleza de la desigualdad no cambia a igualdad por esta operacion. -->
 - [ ] D) El resultado siempre es cero. <!-- feedback: No tiene relacion con el signo del multiplicador. -->
 
@@ -87,8 +87,8 @@ Los intervalos abiertos (con parentesis) se utilizan para desigualdades estricta
 
 ### Opciones
 - [ ] A) $x < 7$ <!-- feedback: Error al sumar 2 en lugar de restarlo. -->
-- [x] B) $x < 3$ <!-- feedback: ¡Correcto! Al restar 2 en ambos lados obtenemos $x < 3$. -->
-- [ ] C) $x > 3$ <!-- feedback: El sentido de la desigualdad no cambia al restar un numero. -->
+- [x] C) $x < 3$ <!-- feedback: ¡Correcto! Al restar 2 en ambos lados obtenemos $x < 3$. -->
+- [ ] B) $x > 3$ <!-- feedback: El sentido de la desigualdad no cambia al restar un numero. -->
 - [ ] D) $x = 3$ <!-- feedback: Una inecuacion generalmente tiene un conjunto de soluciones, no un unico valor. -->
 
 ### Explicacion Pedagogica
@@ -105,8 +105,8 @@ Las inecuaciones lineales se resuelven de forma muy similar a las ecuaciones, ap
 Si $x$ representa el peso de la carga adicional que puede añadir, ¿que inecuacion describe correctamente el limite de su camion?
 
 ### Opciones
-- [ ] A) $x + 1200 > 3000$ <!-- feedback: Esto diria que la carga debe superar el limite, lo cual es peligroso. -->
-- [x] B) $x + 1200 \le 3000$ <!-- feedback: ¡Correcto! El peso total (actual mas adicional) no debe exceder el limite permitido. -->
+- [ ] B) $x + 1200 > 3000$ <!-- feedback: Esto diria que la carga debe superar el limite, lo cual es peligroso. -->
+- [x] A) $x + 1200 \le 3000$ <!-- feedback: ¡Correcto! El peso total (actual mas adicional) no debe exceder el limite permitido. -->
 - [ ] C) $x - 1200 < 3000$ <!-- feedback: No representa la acumulacion de carga. -->
 - [ ] D) $x \le 1200$ <!-- feedback: Esto limitaria la carga adicional a la que ya tiene, sin considerar el limite del camion. -->
 
@@ -124,8 +124,8 @@ El termino "capacidad maxima" implica un limite superior que incluye el valor li
 ¿Cual es el conjunto solucion de la inecuacion $-2x < 10$?
 
 ### Opciones
-- [ ] A) $x < -5$ <!-- feedback: Olvido invertir el sentido de la desigualdad al dividir por -2. -->
-- [x] B) $x > -5$ <!-- feedback: ¡Correcto! Al dividir por -2, el sentido de la desigualdad cambia de $<$ a $>$. -->
+- [ ] B) $x < -5$ <!-- feedback: Olvido invertir el sentido de la desigualdad al dividir por -2. -->
+- [x] A) $x > -5$ <!-- feedback: ¡Correcto! Al dividir por -2, el sentido de la desigualdad cambia de $<$ a $>$. -->
 - [ ] C) $x < 5$ <!-- feedback: Error en el signo del resultado final. -->
 - [ ] D) $x > 5$ <!-- feedback: Error en el signo del resultado final. -->
 
@@ -144,9 +144,9 @@ Al dividir ambos miembros por un numero negativo ($-2$), debemos recordar dos co
 
 ### Opciones
 - [ ] A) $x = 4$ <!-- feedback: $3(4-2) = 6$, que no es mayor o igual a 12. -->
-- [x] B) $x = 6$ <!-- feedback: ¡Correcto! $x - 2 \ge 4 \rightarrow x \ge 6$. El valor minimo es 6. -->
-- [ ] C) $x = 8$ <!-- feedback: 8 activa la alarma, pero no es el valor minimo. -->
-- [ ] D) $x = 2$ <!-- feedback: Con x=2 el resultado seria 0. -->
+- [x] D) $x = 6$ <!-- feedback: ¡Correcto! $x - 2 \ge 4 \rightarrow x \ge 6$. El valor minimo es 6. -->
+- [ ] B) $x = 8$ <!-- feedback: 8 activa la alarma, pero no es el valor minimo. -->
+- [ ] C) $x = 2$ <!-- feedback: Con x=2 el resultado seria 0. -->
 
 ### Explicacion Pedagogica
 Resolvemos la inecuacion: dividimos por 3 para obtener $x - 2 \ge 4$, y luego sumamos 2 para obtener $x \ge 6$. Como la desigualdad incluye el signo igual, 6 es el valor minimo aceptable.
@@ -201,8 +201,8 @@ Para resolver inecuaciones de tres partes, aplicamos la misma operacion en los t
 
 ### Opciones
 - [ ] A) $x \le -3$ <!-- feedback: Esto incluiria al -3, que ya pertenece al conjunto original. -->
-- [x] B) $x < -3$ <!-- feedback: ¡Correcto! El complemento de "mayor o igual" es estrictamente "menor que". -->
-- [ ] C) $x > -3$ <!-- feedback: Esto es casi lo mismo que el conjunto original. -->
+- [x] C) $x < -3$ <!-- feedback: ¡Correcto! El complemento de "mayor o igual" es estrictamente "menor que". -->
+- [ ] B) $x > -3$ <!-- feedback: Esto es casi lo mismo que el conjunto original. -->
 - [ ] D) $x = -3$ <!-- feedback: Un conjunto complemento suele ser un intervalo infinito, no un solo punto. -->
 
 ### Explicacion Pedagogica
@@ -219,8 +219,8 @@ El complemento de una desigualdad incluye todos los valores de la recta real que
 Si $x$ es la nota del tercer examen, ¿que inecuacion representa esta situacion?
 
 ### Opciones
-- [ ] A) $(4.5 + 5.5 + x) < 5$ <!-- feedback: Esto buscaria reprobar, no aprobar. -->
-- [x] B) $\frac{4.5 + 5.5 + x}{3} \ge 5$ <!-- feedback: ¡Correcto! El promedio debe ser mayor o igual al limite de aprobado. -->
+- [ ] B) $(4.5 + 5.5 + x) < 5$ <!-- feedback: Esto buscaria reprobar, no aprobar. -->
+- [x] A) $\frac{4.5 + 5.5 + x}{3} \ge 5$ <!-- feedback: ¡Correcto! El promedio debe ser mayor o igual al limite de aprobado. -->
 - [ ] C) $4.5 + 5.5 + x \ge 5$ <!-- feedback: Olvido dividir entre el numero total de examenes para obtener el promedio. -->
 - [ ] D) $x \ge 5$ <!-- feedback: Esto no considera las notas previas del estudiante. -->
 
@@ -238,8 +238,8 @@ El promedio se calcula sumando todos los valores y dividiendo por la cantidad de
 ¿Cual es el conjunto solucion de $5x - 3 > 2x + 9$?
 
 ### Opciones
-- [ ] A) $x > 2$ <!-- feedback: Error al agrupar los terminos independientes. -->
-- [x] B) $x > 4$ <!-- feedback: ¡Correcto! $3x > 12 \rightarrow x > 4$. -->
+- [ ] B) $x > 2$ <!-- feedback: Error al agrupar los terminos independientes. -->
+- [x] A) $x > 4$ <!-- feedback: ¡Correcto! $3x > 12 \rightarrow x > 4$. -->
 - [ ] C) $x < 4$ <!-- feedback: No hay razon para invertir el sentido de la desigualdad. -->
 - [ ] D) $x > 6$ <!-- feedback: Error al dividir 12 entre 3. -->
 
@@ -258,8 +258,8 @@ Agrupamos los terminos con $x$ en el lado izquierdo ($3x$) y los terminos indepe
 
 ### Opciones
 - [ ] A) $x < -10$ o $x > 40$ <!-- feedback: Esto representaria valores fuera del rango de operacion. -->
-- [x] B) $-10 \le x \le 40$ <!-- feedback: ¡Correcto! El valor debe estar simultaneamente por encima del minimo y por debajo del maximo. -->
-- [ ] C) $x = -10$ y $x = 40$ <!-- feedback: Esto solo permitiria dos temperaturas exactas, no un rango. -->
+- [x] C) $-10 \le x \le 40$ <!-- feedback: ¡Correcto! El valor debe estar simultaneamente por encima del minimo y por debajo del maximo. -->
+- [ ] B) $x = -10$ y $x = 40$ <!-- feedback: Esto solo permitiria dos temperaturas exactas, no un rango. -->
 - [ ] D) $x > 30$ <!-- feedback: No tiene relacion con los limites establecidos. -->
 
 ### Explicacion Pedagogica
@@ -276,8 +276,8 @@ Las inecuaciones compuestas del tipo "y" (conjuncion) representan un intervalo d
 ¿Como se representa $x \le -2$ en la recta numerica?
 
 ### Opciones
-- [ ] A) Una linea que comienza en -2 con un circulo abierto y va hacia la derecha. <!-- feedback: El circulo abierto es para < o >, y el sentido es incorrecto. -->
-- [x] B) Una linea que comienza en -2 con un circulo cerrado y va hacia la izquierda. <!-- feedback: ¡Correcto! El circulo cerrado incluye al -2, y los valores menores estan a la izquierda. -->
+- [ ] B) Una linea que comienza en -2 con un circulo abierto y va hacia la derecha. <!-- feedback: El circulo abierto es para < o >, y el sentido es incorrecto. -->
+- [x] A) Una linea que comienza en -2 con un circulo cerrado y va hacia la izquierda. <!-- feedback: ¡Correcto! El circulo cerrado incluye al -2, y los valores menores estan a la izquierda. -->
 - [ ] C) Un solo punto sobre el numero -2. <!-- feedback: Esto representaria la ecuacion x = -2. -->
 - [ ] D) Una linea que va desde -2 hasta el infinito positivo. <!-- feedback: Eso representaria x >= -2. -->
 
@@ -296,9 +296,9 @@ La representacion grafica es una herramienta visual para entender los conjuntos 
 
 ### Opciones
 - [ ] A) $x < 3$ <!-- feedback: Error de signo al agrupar los terminos. -->
-- [x] B) $x < 7$ <!-- feedback: ¡Correcto! $3(x-1) < 2(x+2) \rightarrow 3x-3 < 2x+4 \rightarrow x < 7$. -->
-- [ ] C) $x > 7$ <!-- feedback: No hay cambio de signo por multiplicacion negativa. -->
-- [ ] D) $x < -1$ <!-- feedback: Error en el calculo de los productos cruzados. -->
+- [x] D) $x < 7$ <!-- feedback: ¡Correcto! $3(x-1) < 2(x+2) \rightarrow 3x-3 < 2x+4 \rightarrow x < 7$. -->
+- [ ] B) $x > 7$ <!-- feedback: No hay cambio de signo por multiplicacion negativa. -->
+- [ ] C) $x < -1$ <!-- feedback: Error en el calculo de los productos cruzados. -->
 
 ### Explicacion Pedagogica
 Al tener fracciones con denominadores positivos, multiplicamos toda la inecuacion por el mcm (6) o realizamos el producto cruzado. El sentido de la desigualdad se mantiene porque los multiplicadores son positivos.
@@ -314,8 +314,8 @@ Al tener fracciones con denominadores positivos, multiplicamos toda la inecuacio
 ¿Cual es el numero maximo de unidades $x$ (entero) que se pueden producir?
 
 ### Opciones
-- [ ] A) 100 unidades <!-- feedback: $1500$, cumple pero no es el maximo absoluto. -->
-- [x] B) 149 unidades <!-- feedback: ¡Correcto! $10x < 1500 \rightarrow x < 150$. El mayor entero menor que 150 es 149. -->
+- [ ] B) 100 unidades <!-- feedback: $1500$, cumple pero no es el maximo absoluto. -->
+- [x] A) 149 unidades <!-- feedback: ¡Correcto! $10x < 1500 \rightarrow x < 150$. El mayor entero menor que 150 es 149. -->
 - [ ] C) 150 unidades <!-- feedback: En 150 el coste es exactamente 2000, no menor a 2000. -->
 - [ ] D) 200 unidades <!-- feedback: Supera ampliamente el presupuesto. -->
 
@@ -333,8 +333,8 @@ Resolvemos la inecuacion $10x + 500 < 2000$. Obtenemos $x < 150$. Dado que la pr
 ¿Cual es el conjunto solucion de la inecuacion $2x + 5 < 2x - 1$?
 
 ### Opciones
-- [ ] A) Todos los numeros reales. <!-- feedback: Ningun numero puede satisfacer esta condicion. -->
-- [x] B) Conjunto vacio ($\emptyset$). <!-- feedback: ¡Correcto! Al simplificar queda $5 < -1$, lo cual es una falsedad absoluta. -->
+- [ ] B) Todos los numeros reales. <!-- feedback: Ningun numero puede satisfacer esta condicion. -->
+- [x] A) Conjunto vacio ($\emptyset$). <!-- feedback: ¡Correcto! Al simplificar queda $5 < -1$, lo cual es una falsedad absoluta. -->
 - [ ] C) $x = 0$ <!-- feedback: $5 < -1$ es falso para x=0. -->
 - [ ] D) $x < -6$ <!-- feedback: No hay valores de x que salven la contradiccion numerica. -->
 
@@ -353,8 +353,8 @@ Al igual que las ecuaciones, las inecuaciones pueden no tener solucion si conduc
 
 ### Opciones
 - [ ] A) $x \le 8$ <!-- feedback: Falta el limite inferior. -->
-- [x] B) $[-2, 8]$ <!-- feedback: ¡Correcto! Se traduce como $-5 \le x - 3 \le 5$, lo que resulta en $-2 \le x \le 8$. -->
-- [ ] C) $(-2, 8)$ <!-- feedback: Los extremos deben estar incluidos debido al simbolo $\le$. -->
+- [x] C) $[-2, 8]$ <!-- feedback: ¡Correcto! Se traduce como $-5 \le x - 3 \le 5$, lo que resulta en $-2 \le x \le 8$. -->
+- [ ] B) $(-2, 8)$ <!-- feedback: Los extremos deben estar incluidos debido al simbolo $\le$. -->
 - [ ] D) $x \ge -2$ <!-- feedback: Falta el limite superior. -->
 
 ### Explicacion Pedagogica
@@ -391,9 +391,9 @@ Traducimos el enunciado a lenguaje algebraico: $2x - 10 > x + 5$. Al resolver es
 
 ### Opciones
 - [ ] A) Un cuadrado de lado 4. <!-- feedback: La primera inecuacion define una linea diagonal, no un cuadrado. -->
-- [x] B) Un triangulo con vertices en $(0,0), (4,0)$ y $(0,4)$. <!-- feedback: ¡Correcto! Es la region en el primer cuadrante por debajo de la recta $x+y=4$. -->
-- [ ] C) Todo el primer cuadrante. <!-- feedback: La condicion $x+y \le 4$ limita la region. -->
-- [ ] D) Una linea recta infinita. <!-- feedback: Las desigualdades definen regiones o areas, no solo lineas. -->
+- [x] D) Un triangulo con vertices en $(0,0), (4,0)$ y $(0,4)$. <!-- feedback: ¡Correcto! Es la region en el primer cuadrante por debajo de la recta $x+y=4$. -->
+- [ ] B) Todo el primer cuadrante. <!-- feedback: La condicion $x+y \le 4$ limita la region. -->
+- [ ] C) Una linea recta infinita. <!-- feedback: Las desigualdades definen regiones o areas, no solo lineas. -->
 
 ### Explicacion Pedagogica
 Este es el fundamento de la Programacion Lineal. Cada inecuacion lineal define un semiplano. La interseccion de varios semiplanos genera una region factible, que en este caso es un triangulo rectangulo en el origen.

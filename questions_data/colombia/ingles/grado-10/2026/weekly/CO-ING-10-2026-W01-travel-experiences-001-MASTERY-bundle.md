@@ -36,9 +36,9 @@ This bundle explores travel experiences using B2-level grammar, specifically foc
 
 ### Opciones
 - [ ] A) went / have been <!-- feedback: Incorrect. The first part refers to unspecified time (Present Perfect), the second to a specific past time (Past Simple). -->
-- [x] B) have been / went <!-- feedback: Correct. 'Have been' covers the experience up to now, and 'went' specifies a finished time (last year). -->
-- [ ] C) was / have gone <!-- feedback: Incorrect. 'Was' is Past Simple and 'have gone' implies they haven't returned yet. -->
-- [ ] D) have gone / was going <!-- feedback: Incorrect. The second part requires Past Simple, not Past Continuous. -->
+- [x] D) have been / went <!-- feedback: Correct. 'Have been' covers the experience up to now, and 'went' specifies a finished time (last year). -->
+- [ ] B) was / have gone <!-- feedback: Incorrect. 'Was' is Past Simple and 'have gone' implies they haven't returned yet. -->
+- [ ] C) have gone / was going <!-- feedback: Incorrect. The second part requires Past Simple, not Past Continuous. -->
 
 ### Explicación Pedagógica
 Present Perfect is used for experiences at an unspecified time in the past. Past Simple is used for actions completed at a specific time (e.g., last year).
@@ -56,9 +56,9 @@ Present Perfect is used for experiences at an unspecified time in the past. Past
 "My brother ____ from London. He ____ at El Dorado airport two hours ago."
 
 ### Opciones
-- [x] A) has just arrived / landed <!-- feedback: Correct. 'Has just arrived' shows recent completion; 'landed' is used with a specific time expression (two hours ago). -->
-- [ ] B) just arrived / has landed <!-- feedback: Incorrect. 'Has landed' cannot be used with 'two hours ago'. -->
-- [ ] C) arrived / lands <!-- feedback: Incorrect. 'Lands' is Present Simple and doesn't fit the past context. -->
+- [x] C) has just arrived / landed <!-- feedback: Correct. 'Has just arrived' shows recent completion; 'landed' is used with a specific time expression (two hours ago). -->
+- [ ] A) just arrived / has landed <!-- feedback: Incorrect. 'Has landed' cannot be used with 'two hours ago'. -->
+- [ ] B) arrived / lands <!-- feedback: Incorrect. 'Lands' is Present Simple and doesn't fit the past context. -->
 - [ ] D) is arriving / landed <!-- feedback: Incorrect. 'Is arriving' implies current action, but the brother is already there. -->
 
 ### Explicación Pedagógica
@@ -99,8 +99,8 @@ Use of Present Perfect with 'since' to describe states or habits that began in t
 
 ### Opciones
 - [ ] A) have trekked / reached <!-- feedback: Incorrect. Present Perfect doesn't fit a sequence of completed past events well here. -->
-- [x] B) had been trekking / reached <!-- feedback: Correct. Past Perfect Continuous describes the ongoing action before a specific point in the past. -->
-- [ ] C) were trekking / have reached <!-- feedback: Incorrect. 'Have reached' is Present Perfect and doesn't fit the past narrative. -->
+- [x] C) had been trekking / reached <!-- feedback: Correct. Past Perfect Continuous describes the ongoing action before a specific point in the past. -->
+- [ ] B) were trekking / have reached <!-- feedback: Incorrect. 'Have reached' is Present Perfect and doesn't fit the past narrative. -->
 - [ ] D) trekked / were reaching <!-- feedback: Incorrect. The sequence of events is better described by B. -->
 
 ### Explicación Pedagógica
@@ -120,9 +120,9 @@ Grammatical complexity: Past Perfect Continuous vs Past Simple in a travel narra
 
 ### Opciones
 - [ ] A) visited / have increased <!-- feedback: Incorrect. 'Last month' requires Past Simple. -->
-- [x] B) had visited / increased <!-- feedback: Correct. Past Perfect shows the action happened before another action in the past (increased). -->
-- [ ] C) have visited / increased <!-- feedback: Incorrect. Using Present Perfect with a sequence of past events is less precise here. -->
-- [ ] D) visit / increased <!-- feedback: Incorrect. Tense mismatch. -->
+- [x] D) had visited / increased <!-- feedback: Correct. Past Perfect shows the action happened before another action in the past (increased). -->
+- [ ] B) have visited / increased <!-- feedback: Incorrect. Using Present Perfect with a sequence of past events is less precise here. -->
+- [ ] C) visit / increased <!-- feedback: Incorrect. Tense mismatch. -->
 
 ### Explicación Pedagógica
 Past Perfect to show the order of two past events.
@@ -162,9 +162,9 @@ B2 complexity: Reporting verbs and the use of the Past Perfect for backshifting 
 
 ### Opciones
 - [ ] A) has / seen / boarded <!-- feedback: Incorrect. 'Up until that moment' implies a past timeframe. -->
-- [x] B) had / seen / boarded <!-- feedback: Correct. Past Perfect is used to describe experiences (or lack thereof) up to a point in the past. -->
-- [ ] C) was / seeing / boarding <!-- feedback: Incorrect. Past Continuous doesn't fit the 'never' experience context. -->
-- [ ] D) did / see / board <!-- feedback: Incorrect. Past Simple is less precise for experiences before a past point. -->
+- [x] D) had / seen / boarded <!-- feedback: Correct. Past Perfect is used to describe experiences (or lack thereof) up to a point in the past. -->
+- [ ] B) was / seeing / boarding <!-- feedback: Incorrect. Past Continuous doesn't fit the 'never' experience context. -->
+- [ ] C) did / see / board <!-- feedback: Incorrect. Past Simple is less precise for experiences before a past point. -->
 
 ### Explicación Pedagógica
 Past Perfect for life experiences relative to a specific time in the past.
@@ -182,10 +182,10 @@ Past Perfect for life experiences relative to a specific time in the past.
 "Since the 1990s, the government ____ to promote eco-tourism, though they ____ many hurdles early on."
 
 ### Opciones
-- [x] A) has worked / encountered <!-- feedback: Correct. 'Since the 1990s' requires Present Perfect; 'early on' refers to a specific past period. -->
-- [ ] B) worked / have encountered <!-- feedback: Incorrect. Tenses are swapped incorrectly. -->
-- [ ] C) is working / encountered <!-- feedback: Incorrect. 'Since' requires a perfect tense. -->
-- [ ] D) had worked / encountered <!-- feedback: Incorrect. Past Perfect would imply they stopped working on it. -->
+- [x] D) has worked / encountered <!-- feedback: Correct. 'Since the 1990s' requires Present Perfect; 'early on' refers to a specific past period. -->
+- [ ] A) worked / have encountered <!-- feedback: Incorrect. Tenses are swapped incorrectly. -->
+- [ ] B) is working / encountered <!-- feedback: Incorrect. 'Since' requires a perfect tense. -->
+- [ ] C) had worked / encountered <!-- feedback: Incorrect. Past Perfect would imply they stopped working on it. -->
 
 ### Explicación Pedagógica
 Contrast between long-term ongoing action (Present Perfect) and specific past challenges (Past Simple).
@@ -203,8 +203,8 @@ Contrast between long-term ongoing action (Present Perfect) and specific past ch
 "By the time the new regulation was passed, the company ____ thousands of passengers ____ cheaper flights for over a decade."
 
 ### Opciones
-- [ ] A) helped / offer <!-- feedback: Incorrect. Needs perfect tenses for the duration. -->
-- [x] B) had helped / to access <!-- feedback: Correct. 'Had helped' for the past-before-past and 'to access' as the infinitive complement. -->
+- [ ] B) helped / offer <!-- feedback: Incorrect. Needs perfect tenses for the duration. -->
+- [x] A) had helped / to access <!-- feedback: Correct. 'Had helped' for the past-before-past and 'to access' as the infinitive complement. -->
 - [ ] C) has helped / accessing <!-- feedback: Incorrect. Cannot use Present Perfect with 'was passed'. -->
 - [ ] D) was helping / access <!-- feedback: Incorrect. Does not emphasize the duration and completion before the regulation. -->
 
@@ -224,10 +224,10 @@ Complexity: Past Perfect and infinitive complements in a formal context.
 "Scarcely ____ we ____ our destination when we realized that our expectations ____ entirely based on old brochures."
 
 ### Opciones
-- [x] A) had / reached / were <!-- feedback: Correct. Inversion with 'Scarcely' requires Past Perfect. -->
-- [ ] B) did / reach / had been <!-- feedback: Incorrect. Inversion with 'Scarcely' usually takes Past Perfect. -->
-- [ ] C) have / reached / are <!-- feedback: Incorrect. Tense mismatch for a past narrative. -->
-- [ ] D) were / reaching / been <!-- feedback: Incorrect. Grammatically incorrect. -->
+- [x] D) had / reached / were <!-- feedback: Correct. Inversion with 'Scarcely' requires Past Perfect. -->
+- [ ] A) did / reach / had been <!-- feedback: Incorrect. Inversion with 'Scarcely' usually takes Past Perfect. -->
+- [ ] B) have / reached / are <!-- feedback: Incorrect. Tense mismatch for a past narrative. -->
+- [ ] C) were / reaching / been <!-- feedback: Incorrect. Grammatically incorrect. -->
 
 ### Explicación Pedagógica
 Advanced B2 structure: Inversion with negative/restrictive adverbials (Scarcely/Hardly... when).
@@ -245,9 +245,9 @@ Advanced B2 structure: Inversion with negative/restrictive adverbials (Scarcely/
 "The director ____ his previous failures ____ him more cautious when filming in remote areas last year."
 
 ### Opciones
-- [ ] A) admits / had made <!-- feedback: Incorrect. The first verb should be in the past for the context. -->
-- [ ] B) admitted / have made <!-- feedback: Incorrect. Tense backshifting required. -->
-- [x] C) admitted / had made <!-- feedback: Correct. Both actions are in the past, but the failures happened before the caution. -->
+- [ ] B) admits / had made <!-- feedback: Incorrect. The first verb should be in the past for the context. -->
+- [ ] C) admitted / have made <!-- feedback: Incorrect. Tense backshifting required. -->
+- [x] A) admitted / had made <!-- feedback: Correct. Both actions are in the past, but the failures happened before the caution. -->
 - [ ] D) has admitted / made <!-- feedback: Incorrect. Less precise for the narrative of last year. -->
 
 ### Explicación Pedagógica

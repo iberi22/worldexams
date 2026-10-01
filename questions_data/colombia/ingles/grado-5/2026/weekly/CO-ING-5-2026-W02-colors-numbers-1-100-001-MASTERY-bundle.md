@@ -34,9 +34,9 @@ Basic color vocabulary combined with cardinal numbers from one to one hundred in
 Which color in English corresponds to the color of ripe Colombian bananas?
 
 ### Opciones
-- [x] A) Yellow.
+- [x] B) Yellow.
   <!-- feedback: Ripe bananas are yellow, and "yellow" is the English word for that color. -->
-- [ ] B) Purple.
+- [ ] A) Purple.
   <!-- feedback: Purple is the color of eggplants, not ripe bananas. -->
 - [ ] C) Gray.
   <!-- feedback: Gray is the color of clouds or elephant skin, not bananas. -->
@@ -80,13 +80,13 @@ Understanding basic color theory associations using the English color vocabulary
 How do you write the number "ten" in digits?
 
 ### Opciones
-- [x] A) 10.
+- [x] D) 10.
   <!-- feedback: The cardinal number ten is written with the digits 1 and 0. -->
-- [ ] B) 100.
+- [ ] A) 100.
   <!-- feedback: 100 is "one hundred", not "ten". -->
-- [ ] C) 12.
+- [ ] B) 12.
   <!-- feedback: 12 is "twelve", not "ten". -->
-- [ ] D) 1.
+- [ ] C) 1.
   <!-- feedback: 1 is "one", not "ten". -->
 
 ### Explicacion Pedagogica
@@ -103,13 +103,13 @@ Connecting spoken cardinal numbers from one to ten with their numerical symbols 
 Which number corresponds to the word "fifty"?
 
 ### Opciones
-- [x] A) 50.
+- [x] D) 50.
   <!-- feedback: Fifty equals five times ten and is written as the two-digit number 50. -->
-- [ ] B) 15.
+- [ ] A) 15.
   <!-- feedback: 15 is "fifteen", not "fifty". -->
-- [ ] C) 5.
+- [ ] B) 5.
   <!-- feedback: 5 is "five", not "fifty". -->
-- [ ] D) 500.
+- [ ] C) 500.
   <!-- feedback: 500 is "five hundred", not "fifty". -->
 
 ### Explicacion Pedagogica
@@ -126,11 +126,11 @@ Recognizing tens (twenty, thirty, forty, fifty, sixty...) by linking the spoken 
 How do you say the number 75 in English?
 
 ### Opciones
-- [x] A) Seventy-five.
+- [x] C) Seventy-five.
   <!-- feedback: 75 is read as "seventy-five" following the tens + ones structure. -->
-- [ ] B) Sixty-five.
+- [ ] A) Sixty-five.
   <!-- feedback: 65 is "sixty-five", not "seventy-five". -->
-- [ ] C) Fifty-seven.
+- [ ] B) Fifty-seven.
   <!-- feedback: 57 is "fifty-seven", not 75. -->
 - [ ] D) Seven hundred five.
   <!-- feedback: 705 would be "seven hundred five", a different number. -->
@@ -149,11 +149,11 @@ Forming compound numbers between twenty-one and ninety-nine in English (tens + h
 How many pieces of fruit in total are on the table, and what color are most of them?
 
 ### Opciones
-- [x] A) 18 pieces of fruit in total, and most are green grapes.
+- [x] C) 18 pieces of fruit in total, and most are green grapes.
   <!-- feedback: 3 + 5 + 10 = 18 fruits, and grapes (10) are the most numerous. -->
-- [ ] B) 8 pieces of fruit, all of them yellow.
+- [ ] A) 8 pieces of fruit, all of them yellow.
   <!-- feedback: The total is 18, not 8, and the fruits have different colors. -->
-- [ ] C) 18 pieces of fruit, all of them red.
+- [ ] B) 18 pieces of fruit, all of them red.
   <!-- feedback: The fruits are red, yellow, and green, not all red. -->
 - [ ] D) 15 pieces of fruit, mostly yellow bananas.
   <!-- feedback: The total is 18 (3 + 5 + 10), not 15, and grapes are the most numerous. -->
@@ -172,13 +172,13 @@ Analyzing numerical and color information from a short descriptive English text.
 Which statement is true based on the information?
 
 ### Opciones
-- [x] A) The student has 10 blue, 8 red, and 7 green pencils, totaling 25.
+- [x] D) The student has 10 blue, 8 red, and 7 green pencils, totaling 25.
   <!-- feedback: 10 + 8 + 7 = 25 pencils distributed in three colors, which matches the text. -->
-- [ ] B) The student has 7 blue, 8 red, and 10 green pencils, totaling 25.
+- [ ] A) The student has 7 blue, 8 red, and 10 green pencils, totaling 25.
   <!-- feedback: The text states 10 blue and 7 green, so this swaps the quantities incorrectly. -->
-- [ ] C) The student has 25 pencils, all of them red.
+- [ ] B) The student has 25 pencils, all of them red.
   <!-- feedback: The pencils are blue, red, and green, not only red. -->
-- [ ] D) The student has 25 pencils with no green ones.
+- [ ] C) The student has 25 pencils with no green ones.
   <!-- feedback: The text clearly says seven green pencils are included. -->
 
 ### Explicacion Pedagogica

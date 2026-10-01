@@ -34,13 +34,13 @@ Family vocabulary, possessive adjectives, and simple descriptions of family memb
 Which word refers to the mother of your mother or the father of your father?
 
 ### Opciones
-- [x] A) Grandmother / Grandfather.
+- [x] D) Grandmother / Grandfather.
   <!-- feedback: The parents of your parents are your grandparents. -->
-- [ ] B) Cousin.
+- [ ] A) Cousin.
   <!-- feedback: A cousin is the child of your aunt or uncle. -->
-- [ ] C) Sister.
+- [ ] B) Sister.
   <!-- feedback: A sister is a female sibling of the same parents. -->
-- [ ] D) Niece.
+- [ ] C) Niece.
   <!-- feedback: A niece is the daughter of your brother or sister. -->
 
 ### Explicacion Pedagogica
@@ -80,11 +80,11 @@ Inferring family relationships from short descriptive sentences in English.
 Choose the correct possessive adjective to complete: "I love _____ parents very much."
 
 ### Opciones
-- [x] A) my.
+- [x] C) my.
   <!-- feedback: "My" is the possessive adjective for the first person singular (I). -->
-- [ ] B) your.
+- [ ] A) your.
   <!-- feedback: "Your" is used with the second person (you). -->
-- [ ] C) his.
+- [ ] B) his.
   <!-- feedback: "His" is used with third person singular masculine (he). -->
 - [ ] D) their.
   <!-- feedback: "Their" is used with third person plural (they). -->
@@ -126,11 +126,11 @@ Conjugating "to be" (am, is, are) according to the subject in simple English sen
 Complete with the correct Present Simple form: "My mother _____ dinner every evening."
 
 ### Opciones
-- [x] A) cooks.
+- [x] C) cooks.
   <!-- feedback: With third person singular (my mother), the verb adds -s: cooks. -->
-- [ ] B) cook.
+- [ ] A) cook.
   <!-- feedback: "Cook" without -s is used with plural subjects (we, they) or I/you. -->
-- [ ] C) cooking.
+- [ ] B) cooking.
   <!-- feedback: "Cooking" requires the auxiliary verb to be for the present continuous. -->
 - [ ] D) cooked.
   <!-- feedback: "Cooked" is the past simple form, not used for daily routines in present. -->
@@ -149,13 +149,13 @@ Applying the third-person singular -s rule in the Simple Present tense in Englis
 What can you infer about Laura's family from the text?
 
 ### Opciones
-- [x] A) Laura has two sisters named Ana and Paula, and they live in Cali.
+- [x] D) Laura has two sisters named Ana and Paula, and they live in Cali.
   <!-- feedback: The text states Laura has two sisters and that they all live in Cali. -->
-- [ ] B) Laura has no siblings and lives in Bogota.
+- [ ] A) Laura has no siblings and lives in Bogota.
   <!-- feedback: The text says she has two sisters, so this contradicts the passage. -->
-- [ ] C) Ana and Paula are Laura's cousins from another city.
+- [ ] B) Ana and Paula are Laura's cousins from another city.
   <!-- feedback: The text clearly identifies Ana and Paula as Laura's sisters. -->
-- [ ] D) Laura is an only child who lives alone in Cali.
+- [ ] C) Laura is an only child who lives alone in Cali.
   <!-- feedback: The text says she has two sisters, so she is not an only child. -->
 
 ### Explicacion Pedagogica
@@ -172,13 +172,13 @@ Synthesizing explicit details (names, number, city) to draw a correct inference 
 Which sentence correctly uses the possessive form to relate Mateo and Pedro?
 
 ### Opciones
-- [x] A) Mateo is Pedro's son.
+- [x] D) Mateo is Pedro's son.
   <!-- feedback: The possessive "'s" with Pedro indicates the relationship of father to son. -->
-- [ ] B) Mateo are Pedro's son.
+- [ ] A) Mateo are Pedro's son.
   <!-- feedback: "Mateo" is singular and requires the verb "is", not "are". -->
-- [ ] C) Pedro's is Mateo son.
+- [ ] B) Pedro's is Mateo son.
   <!-- feedback: The structure "Pedro's is" is ungrammatical in English. -->
-- [ ] D) Mateo's Pedro is son.
+- [ ] C) Mateo's Pedro is son.
   <!-- feedback: The structure reverses the relationship and is not grammatical. -->
 
 ### Explicacion Pedagogica
@@ -195,13 +195,13 @@ Analyzing the use of the Saxon genitive ('s) to express family relationships in 
 What is the main idea of this paragraph about family?
 
 ### Opciones
-- [x] A) Family members support each other and share important daily activities.
+- [x] D) Family members support each other and share important daily activities.
   <!-- feedback: The paragraph emphasizes mutual support and shared activities within the family. -->
-- [ ] B) Only grandparents are important in a Colombian family.
+- [ ] A) Only grandparents are important in a Colombian family.
   <!-- feedback: The paragraph mentions grandparents, parents, and children, not only grandparents. -->
-- [ ] C) Family members should never spend time together.
+- [ ] B) Family members should never spend time together.
   <!-- feedback: The paragraph promotes shared activities, the opposite of never spending time together. -->
-- [ ] D) Studying and cooking are unimportant in family life.
+- [ ] C) Studying and cooking are unimportant in family life.
   <!-- feedback: The paragraph lists studying and cooking as examples of shared family activities. -->
 
 ### Explicacion Pedagogica

@@ -35,11 +35,11 @@ desde la crónica de Indias hasta las voces testimoniales colombianas contempor�
 ¿Qué es la "crónica de Indias" como género testimonial?
 
 ### Opciones
-- [x] A) Un relato escrito por conquistadores, misioneros o funcionarios sobre el encuentro con América.
+- [x] C) Un relato escrito por conquistadores, misioneros o funcionarios sobre el encuentro con América.
   <!-- feedback: Incluye textos como los de Colón, Bernal Díaz del Castillo y fray Bartolomé de las Casas. -->
-- [ ] B) Una novela de ficción ambientada en el Caribe.
+- [ ] A) Una novela de ficción ambientada en el Caribe.
   <!-- feedback: Aunque ambientada allí, la crónica es documental. -->
-- [ ] C) Un poema épico sobre conquistas europeas.
+- [ ] B) Un poema épico sobre conquistas europeas.
   <!-- feedback: Predomina la prosa. -->
 - [ ] D) Un manual administrativo colonial sin valor literario.
   <!-- feedback: Posee valor literario reconocido. -->
@@ -58,13 +58,13 @@ La crónica de Indias establece las bases del testimonio americano al combinar o
 ¿Cuál es el propósito central de la Brevísima relación de la destrucción de las Indias (1552)?
 
 ### Opciones
-- [x] A) Denunciar los abusos contra los pueblos indígenas ante la Corona española.
+- [x] D) Denunciar los abusos contra los pueblos indígenas ante la Corona española.
   <!-- feedback: Es un texto ético-político con fines de denuncia. -->
-- [ ] B) Celebrar las victorias militares españolas.
+- [ ] A) Celebrar las victorias militares españolas.
   <!-- feedback: Es crítico, no laudatorio. -->
-- [ ] C) Describir la flora y fauna americanas.
+- [ ] B) Describir la flora y fauna americanas.
   <!-- feedback: No es una historia natural. -->
-- [ ] D) Enseñar la lengua náhuatl.
+- [ ] C) Enseñar la lengua náhuatl.
   <!-- feedback: Es una obra en español dirigida a europeos. -->
 
 ### Explicacion Pedagogica
@@ -104,9 +104,9 @@ El testimonio convierte la experiencia personal en memoria colectiva con valor p
 ¿Qué significa que un texto testimonial tenga "función ética"?
 
 ### Opciones
-- [x] A) Que compromete al lector con una reflexión sobre justicia, dignidad y memoria.
+- [x] B) Que compromete al lector con una reflexión sobre justicia, dignidad y memoria.
   <!-- feedback: Apela a la responsabilidad del lector. -->
-- [ ] B) Que se limita a entretener sin consecuencias.
+- [ ] A) Que se limita a entretener sin consecuencias.
   <!-- feedback: Esa es la función estética desligada. -->
 - [ ] C) Que evita hablar de víctimas.
   <!-- feedback: Las sitúa en el centro. -->
@@ -150,11 +150,11 @@ La sintaxis acumulativa es característica del estilo denunciativo de Las Casas.
 ¿Qué estrategia discursiva usa un testimonio del conflicto armado colombiano al incluir nombres propios de víctimas?
 
 ### Opciones
-- [x] A) Anclaje en lo concreto: cada nombre restablece la dignidad individual.
+- [x] C) Anclaje en lo concreto: cada nombre restablece la dignidad individual.
   <!-- feedback: Evita la abstracción estadística. -->
-- [ ] B) Relleno decorativo sin efecto.
+- [ ] A) Relleno decorativo sin efecto.
   <!-- feedback: Tiene un propósito ético claro. -->
-- [ ] C) Confusión deliberada del lector.
+- [ ] B) Confusión deliberada del lector.
   <!-- feedback: Busca claridad. -->
 - [ ] D) Aleatoriedad estilística.
   <!-- feedback: Responde a un principio de memoria. -->
@@ -173,13 +173,13 @@ Nombrar a las víctimas es un gesto político y ético fundamental en el testimo
 ¿Cuál es la diferencia entre un testimonio recogido por una comisión de la verdad y una novela testimonial?
 
 ### Opciones
-- [x] A) El primero se ciñe a fuentes orales verificables; la segunda ficcionaliza respetando la verdad histórica.
+- [x] D) El primero se ciñe a fuentes orales verificables; la segunda ficcionaliza respetando la verdad histórica.
   <!-- feedback: La Comisión recoge voces; la novela reelabora narrativamente. -->
-- [ ] B) Son idénticos en forma y propósito.
+- [ ] A) Son idénticos en forma y propósito.
   <!-- feedback: Diferen en método y forma. -->
-- [ ] C) El informe es invención novelesca.
+- [ ] B) El informe es invención novelesca.
   <!-- feedback: Es trabajo documental. -->
-- [ ] D) La novela testimonial es exclusivamente periodística.
+- [ ] C) La novela testimonial es exclusivamente periodística.
   <!-- feedback: Es obra literaria. -->
 
 ### Explicacion Pedagogica
@@ -196,11 +196,11 @@ Ambas formas conviven: la documentación oficial aporta pruebas y la novela expa
 Un escritor colombiano actual que recoge la memoria del desplazamiento puede usar como recurso:
 
 ### Opciones
-- [x] A) Testimonios orales integrados a la ficción con marcas tipográficas y referencias.
+- [x] C) Testimonios orales integrados a la ficción con marcas tipográficas y referencias.
   <!-- feedback: Es un recurso común en la narrativa contemporánea. -->
-- [ ] B) Únicamente estadísticas sin contexto humano.
+- [ ] A) Únicamente estadísticas sin contexto humano.
   <!-- feedback: Pierde dimensión humana. -->
-- [ ] C) Solo datos técnicos sin nombres.
+- [ ] B) Solo datos técnicos sin nombres.
   <!-- feedback: Es deshumanizante. -->
 - [ ] D) Exclusivamente documentos oficiales sin mediación.
   <!-- feedback: La mediación narrativa es clave. -->
@@ -219,13 +219,13 @@ La hibridación de fuentes orales y ficción enriquece la representación del de
 En un testimonio, la palabra "memoria" suele designar:
 
 ### Opciones
-- [x] A) La reconstrucción narrativa de hechos vividos, compartida y transmitida para evitar el olvido.
+- [x] D) La reconstrucción narrativa de hechos vividos, compartida y transmitida para evitar el olvido.
   <!-- feedback: Memoria como práctica social y narrativa. -->
-- [ ] B) La repetición exacta de datos sin interpretación.
+- [ ] A) La repetición exacta de datos sin interpretación.
   <!-- feedback: Siempre hay interpretación. -->
-- [ ] C) Una facultad exclusivamente individual sin vínculo social.
+- [ ] B) Una facultad exclusivamente individual sin vínculo social.
   <!-- feedback: El testimonio es colectivo. -->
-- [ ] D) Un listado cronológico neutro.
+- [ ] C) Un listado cronológico neutro.
   <!-- feedback: Está cargado de sentido. -->
 
 ### Explicacion Pedagogica
@@ -242,13 +242,13 @@ La memoria en el testimonio es activa, ética y socialmente compartida.
 ¿Qué criterio fortalece la credibilidad de un testimonio oral colombiano recogido en campo?
 
 ### Opciones
-- [x] A) La coherencia interna del relato, su anclaje en lugares verificables y la convergencia con otras voces.
+- [x] D) La coherencia interna del relato, su anclaje en lugares verificables y la convergencia con otras voces.
   <!-- feedback: Triangulación y consistencia. -->
-- [ ] B) La cantidad de adjetivos emocionales sin datos.
+- [ ] A) La cantidad de adjetivos emocionales sin datos.
   <!-- feedback: No basta la emotividad. -->
-- [ ] C) La opinión única del compilador sin contraste.
+- [ ] B) La opinión única del compilador sin contraste.
   <!-- feedback: Falta rigor. -->
-- [ ] D) La ausencia total de marcas temporales.
+- [ ] C) La ausencia total de marcas temporales.
   <!-- feedback: La referencia temporal es clave. -->
 
 ### Explicacion Pedagogica
@@ -265,13 +265,13 @@ El trabajo testimonial combina intimidad narrativa y rigor documental.
 ¿Qué rasgo discursivo comparten la crónica de Indias y el testimonio moderno colombiano?
 
 ### Opciones
-- [x] A) La presencia de un yo narrador que media entre experiencia vivida y lector distante.
+- [x] D) La presencia de un yo narrador que media entre experiencia vivida y lector distante.
   <!-- feedback: Es el eje pragmático común. -->
-- [ ] B) La neutralidad absoluta del narrador.
+- [ ] A) La neutralidad absoluta del narrador.
   <!-- feedback: Ambos son subjetivos. -->
-- [ ] C) La exclusión de la voz indígena.
+- [ ] B) La exclusión de la voz indígena.
   <!-- feedback: En algunos casos se la incluye. -->
-- [ ] D) El rechazo a la dimensión ética.
+- [ ] C) El rechazo a la dimensión ética.
   <!-- feedback: Ambos comprometen éticamente. -->
 
 ### Explicacion Pedagogica
@@ -288,9 +288,9 @@ La tradición testimonial latinoamericana conserva la figura de un yo mediador e
 ¿Qué implica para el lector la lectura de un testimonio del conflicto armado colombiano?
 
 ### Opciones
-- [x] A) Una invitación ética a comprender, no a consumir la experiencia ajena como espectáculo.
+- [x] B) Una invitación ética a comprender, no a consumir la experiencia ajena como espectáculo.
   <!-- feedback: La ética de la lectura es central. -->
-- [ ] B) Un deber de imitar literalmente las experiencias narradas.
+- [ ] A) Un deber de imitar literalmente las experiencias narradas.
   <!-- feedback: Es una comprensión reflexiva. -->
 - [ ] C) Un ejercicio de distancia absoluta sin empatía.
   <!-- feedback: Se busca implicación. -->
@@ -311,9 +311,9 @@ La pragmática del testimonio convoca al lector como testigo secundario del dolo
 En un texto testimonial, los apartados titulados como "Capítulo I. Antes de la violencia", "Capítulo II. La ruptura" y "Capítulo III. Reconstrucción" responden a:
 
 ### Opciones
-- [x] A) Una estructura narrativa con función organizadora que marca etapas del proceso vivido.
+- [x] B) Una estructura narrativa con función organizadora que marca etapas del proceso vivido.
   <!-- feedback: Permite secuenciar el trauma. -->
-- [ ] B) Una división arbitraria sin efecto.
+- [ ] A) Una división arbitraria sin efecto.
   <!-- feedback: Posee intención clara. -->
 - [ ] C) Una copia del esquema científico.
   <!-- feedback: Es narrativa, no científica. -->
@@ -380,13 +380,13 @@ La sintaxis fragmentada del testimonio oral refleja la complejidad emocional del
 Cuando un mismo hecho violento tiene versiones divergentes en testimonios distintos, el análisis crítico debe:
 
 ### Opciones
-- [x] A) Ponderar las diferencias, identificar silencios compartidos y reconocer la naturaleza subjetiva del recuerdo.
+- [x] D) Ponderar las diferencias, identificar silencios compartidos y reconocer la naturaleza subjetiva del recuerdo.
   <!-- feedback: La memoria es fragmentaria y múltiple. -->
-- [ ] B) Elegir la versión más dramática como verdadera.
+- [ ] A) Elegir la versión más dramática como verdadera.
   <!-- feedback: El dramatismo no garantiza verdad. -->
-- [ ] C) Descartar toda versión divergente.
+- [ ] B) Descartar toda versión divergente.
   <!-- feedback: Reduce el análisis. -->
-- [ ] D) Asumir que solo una es correcta sin diálogo.
+- [ ] C) Asumir que solo una es correcta sin diálogo.
   <!-- feedback: Faltaría rigor. -->
 
 ### Explicacion Pedagogica
@@ -426,9 +426,9 @@ El testimonio colombiano es pieza clave en la construcción de paz y en la digni
 ¿Qué riesgo ético enfrenta un escritor que narra una historia ajena sin el consentimiento de la víctima?
 
 ### Opciones
-- [x] A) Convertir el sufrimiento en espectáculo y usurpar la voz del otro, vulnerando su dignidad.
+- [x] B) Convertir el sufrimiento en espectáculo y usurpar la voz del otro, vulnerando su dignidad.
   <!-- feedback: La ética del cuidado es central. -->
-- [ ] B) Obtener un beneficio editorial legítimo sin consecuencias.
+- [ ] A) Obtener un beneficio editorial legítimo sin consecuencias.
   <!-- feedback: Hay consecuencias morales. -->
 - [ ] C) Favorecer automáticamente la reconciliación.
   <!-- feedback: Puede producir daño. -->
@@ -449,11 +449,11 @@ La representación de la experiencia ajena requiere consentimiento, contextualiz
 ¿Cuál de estos criterios es más pertinente para juzgar una novela testimonial colombiana?
 
 ### Opciones
-- [x] A) La calidad literaria, el respeto ético por los testigos y su aporte a la memoria histórica.
+- [x] C) La calidad literaria, el respeto ético por los testigos y su aporte a la memoria histórica.
   <!-- feedback: Integra estética, ética e historia. -->
-- [ ] B) Solo la aceptación comercial del libro.
+- [ ] A) Solo la aceptación comercial del libro.
   <!-- feedback: Es insuficiente. -->
-- [ ] C) Únicamente el número de páginas.
+- [ ] B) Únicamente el número de páginas.
   <!-- feedback: Es dato formal. -->
 - [ ] D) La cantidad de premios internacionales.
   <!-- feedback: No garantiza calidad. -->
@@ -472,9 +472,9 @@ El juicio crítico sobre testimonio integra dimensiones estéticas, éticas y so
 ¿Cuál es el principal desafío actual de la literatura testimonial en Colombia?
 
 ### Opciones
-- [x] A) Equilibrar la dignificación de las víctimas con la necesidad de justicia, sin convertir el dolor en producto cultural.
+- [x] B) Equilibrar la dignificación de las víctimas con la necesidad de justicia, sin convertir el dolor en producto cultural.
   <!-- feedback: Es un dilema vivo. -->
-- [ ] B) Eliminar toda referencia a las víctimas para evitar traumas.
+- [ ] A) Eliminar toda referencia a las víctimas para evitar traumas.
   <!-- feedback: Borra la memoria. -->
 - [ ] C) Convertir cada relato en una pieza propagandística.
   <!-- feedback: Pierde rigor. -->

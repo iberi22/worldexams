@@ -33,9 +33,9 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) Rafael Pombo <!-- feedback: Incorrecto. Pombo es principalmente poeta y fabulista. -->
-- [x] B) Jorge Isaacs <!-- feedback: ¡Correcto! Jorge Isaacs es el autor de esta obra cumbre del romanticismo hispanoamericano. -->
-- [ ] C) Tomás Carrasquilla <!-- feedback: Incorrecto. Carrasquilla es un autor realista y costumbrista antioqueño. -->
-- [ ] D) José Asunción Silva <!-- feedback: Incorrecto. Silva es un poeta modernista de finales del siglo XIX. -->
+- [x] D) Jorge Isaacs <!-- feedback: ¡Correcto! Jorge Isaacs es el autor de esta obra cumbre del romanticismo hispanoamericano. -->
+- [ ] B) Tomás Carrasquilla <!-- feedback: Incorrecto. Carrasquilla es un autor realista y costumbrista antioqueño. -->
+- [ ] C) José Asunción Silva <!-- feedback: Incorrecto. Silva es un poeta modernista de finales del siglo XIX. -->
 
 ### Explicacion Pedagogica
 Jorge Isaacs logró en "María" una perfecta combinación entre la sensibilidad romántica europea y la descripción del paisaje y las costumbres colombianas. Su obra es lectura obligatoria para entender la sensibilidad del siglo XIX.
@@ -54,8 +54,8 @@ Jorge Isaacs logró en "María" una perfecta combinación entre la sensibilidad 
 
 ### Opciones
 - [ ] A) Julio Flórez <!-- feedback: Incorrecto. Julio Flórez es un poeta romántico de temas oscuros y sentimentales. -->
-- [x] B) Rafael Pombo <!-- feedback: ¡Correcto! Pombo adaptó fábulas y creó historias infantiles que son parte del patrimonio cultural colombiano. -->
-- [ ] C) Gabriel García Márquez <!-- feedback: Incorrecto. García Márquez es un autor del siglo XX, famoso por el realismo mágico. -->
+- [x] C) Rafael Pombo <!-- feedback: ¡Correcto! Pombo adaptó fábulas y creó historias infantiles que son parte del patrimonio cultural colombiano. -->
+- [ ] B) Gabriel García Márquez <!-- feedback: Incorrecto. García Márquez es un autor del siglo XX, famoso por el realismo mágico. -->
 - [ ] D) Soledad Acosta de Samper <!-- feedback: Incorrecto. Fue una importante escritora e historiadora, pero no se destaca por fábulas infantiles. -->
 
 ### Explicacion Pedagogica
@@ -74,8 +74,8 @@ Rafael Pombo fue un diplomático y escritor que vivió mucho tiempo en Estados U
 ¿A qué autor costumbrista, fundador del grupo literario "El Mosaico", pertenece este estilo de retratar la vida diaria de la capital?
 
 ### Opciones
-- [ ] A) Jorge Isaacs <!-- feedback: Incorrecto. Isaacs se centró más en la novela sentimental de ambiente rural. -->
-- [x] B) José Eugenio Díaz Castro <!-- feedback: ¡Correcto! Es el autor de "Manuela" y uno de los grandes retratistas de las costumbres locales. -->
+- [ ] B) Jorge Isaacs <!-- feedback: Incorrecto. Isaacs se centró más en la novela sentimental de ambiente rural. -->
+- [x] A) José Eugenio Díaz Castro <!-- feedback: ¡Correcto! Es el autor de "Manuela" y uno de los grandes retratistas de las costumbres locales. -->
 - [ ] C) José María Vergara y Vergara <!-- feedback: ¡Casi! También fue fundador, pero Díaz Castro es más reconocido por el retrato de tipos sociales. Se acepta Díaz Castro por su obra "Manuela". -->
 - [ ] D) León de Greiff <!-- feedback: Incorrecto. De Greiff es un poeta vanguardista del siglo XX. -->
 
@@ -95,8 +95,8 @@ José Eugenio Díaz Castro, con su novela "Manuela", logró pintar la realidad p
 ¿Quién fue la escritora colombiana más prolífica del siglo XIX, autora de novelas, biografías y cuadros de costumbres, como "La mujer en la sociedad moderna"?
 
 ### Opciones
-- [ ] A) Josefa Acevedo de Gómez <!-- feedback: Incorrecto. Fue una importante escritora de cuadros de costumbres, pero no la más prolífica en diversos géneros. -->
-- [x] B) Soledad Acosta de Samper <!-- feedback: ¡Correcto! Escribió más de 20 novelas y fundó la revista "La Mujer", siendo una pionera de las letras femeninas. -->
+- [ ] B) Josefa Acevedo de Gómez <!-- feedback: Incorrecto. Fue una importante escritora de cuadros de costumbres, pero no la más prolífica en diversos géneros. -->
+- [x] A) Soledad Acosta de Samper <!-- feedback: ¡Correcto! Escribió más de 20 novelas y fundó la revista "La Mujer", siendo una pionera de las letras femeninas. -->
 - [ ] C) Piedad Bonnett <!-- feedback: Incorrecto. Es una destacada poeta y novelista colombiana contemporánea (siglos XX-XXI). -->
 - [ ] D) Virginia Gutiérrez de Pineda <!-- feedback: Incorrecto. Fue una importante antropóloga del siglo XX. -->
 
@@ -138,9 +138,9 @@ Tomás Carrasquilla rompió con la idea de que para hacer gran literatura había
 
 ### Opciones
 - [ ] A) Gregorio Gutiérrez González <!-- feedback: Incorrecto. Es un poeta romántico famoso por su poema "Memoria sobre el cultivo del maíz". -->
-- [x] B) José Asunción Silva <!-- feedback: ¡Correcto! Silva renovó la métrica y el lenguaje poético, influyendo en toda la literatura en español. -->
-- [ ] C) Luis Carlos López <!-- feedback: Incorrecto. Conocido como "El Tuerto López", es un poeta posterior, famoso por su ironía. -->
-- [ ] D) Guillermo Valencia <!-- feedback: Incorrecto. Fue un importante poeta modernista, pero posterior a la renovación iniciada por Silva. -->
+- [x] D) José Asunción Silva <!-- feedback: ¡Correcto! Silva renovó la métrica y el lenguaje poético, influyendo en toda la literatura en español. -->
+- [ ] B) Luis Carlos López <!-- feedback: Incorrecto. Conocido como "El Tuerto López", es un poeta posterior, famoso por su ironía. -->
+- [ ] C) Guillermo Valencia <!-- feedback: Incorrecto. Fue un importante poeta modernista, pero posterior a la renovación iniciada por Silva. -->
 
 ### Explicacion Pedagogica
 José Asunción Silva vivió una vida corta y trágica, pero su obra es inmensa. En su poesía se siente el paso del romanticismo sentimental hacia una búsqueda de la belleza pura, la musicalidad y la melancolía existencial del hombre moderno.
@@ -180,8 +180,8 @@ Gutiérrez González logró algo único: hacer un manual de agricultura en verso
 
 ### Opciones
 - [ ] A) Manuel Zapata Olivella <!-- feedback: Incorrecto. Es el gran representante de la cultura afrocolombiana, pero en el siglo XX. -->
-- [x] B) Candelario Obeso <!-- feedback: ¡Correcto! Obeso, nacido en Mompox, fue el primer gran poeta en darle voz al pueblo negro de Colombia. -->
-- [ ] C) Gabriel García Márquez <!-- feedback: Incorrecto. Aunque es del Caribe, su obra principal es narrativa del siglo XX. -->
+- [x] C) Candelario Obeso <!-- feedback: ¡Correcto! Obeso, nacido en Mompox, fue el primer gran poeta en darle voz al pueblo negro de Colombia. -->
+- [ ] B) Gabriel García Márquez <!-- feedback: Incorrecto. Aunque es del Caribe, su obra principal es narrativa del siglo XX. -->
 - [ ] D) Meira Delmar <!-- feedback: Incorrecto. Destacada poeta barranquillera del siglo XX. -->
 
 ### Explicacion Pedagogica
@@ -201,8 +201,8 @@ Candelario Obeso rompió barreras sociales y culturales. Al escribir poemas como
 
 ### Opciones
 - [ ] A) Que era una literatura que solo le importaba a la gente de Bogotá. <!-- feedback: Incorrecto. Los autores venían de todas las regiones: Valle, Antioquia, Caribe, etc. -->
-- [ ] B) Que todos los escritores estaban de acuerdo en cómo debía ser el país. <!-- feedback: Incorrecto. Había grandes disputas políticas y literarias entre ellos. -->
-- [x] C) Que fue un siglo de exploración donde se sentaron las bases para la diversidad de temas y voces que caracterizan a Colombia hoy. <!-- feedback: ¡Correcto! Se pasó de lo sentimental a lo social, de lo culto a lo popular. -->
+- [ ] C) Que todos los escritores estaban de acuerdo en cómo debía ser el país. <!-- feedback: Incorrecto. Había grandes disputas políticas y literarias entre ellos. -->
+- [x] B) Que fue un siglo de exploración donde se sentaron las bases para la diversidad de temas y voces que caracterizan a Colombia hoy. <!-- feedback: ¡Correcto! Se pasó de lo sentimental a lo social, de lo culto a lo popular. -->
 - [ ] D) Que no hubo obras originales y todo fue una copia de España. <!-- feedback: Incorrecto. Obras como "María" o "Cantos populares de mi tierra" son profundamente originales. -->
 
 ### Explicacion Pedagogica
@@ -222,8 +222,8 @@ El siglo XIX no fue un periodo estático. Los autores colombianos se atrevieron 
 
 ### Opciones
 - [ ] A) Escribir las mejores novelas de terror de la época. <!-- feedback: Incorrecto. No se dedicó al género de terror. -->
-- [ ] B) Prohibir que los autores publicaran en periódicos. <!-- feedback: Incorrecto. Al contrario, fomentó la publicación periódica. -->
-- [x] C) Ser el primer gran historiador y crítico de la literatura colombiana, organizando y valorando la producción nacional. <!-- feedback: ¡Correcto! Escribió la "Historia de la literatura en Nueva Granada". -->
+- [ ] C) Prohibir que los autores publicaran en periódicos. <!-- feedback: Incorrecto. Al contrario, fomentó la publicación periódica. -->
+- [x] B) Ser el primer gran historiador y crítico de la literatura colombiana, organizando y valorando la producción nacional. <!-- feedback: ¡Correcto! Escribió la "Historia de la literatura en Nueva Granada". -->
 - [ ] D) Inventar el sistema de imprenta que se usaba en todo el país. <!-- feedback: Incorrecto. La imprenta ya existía; él fue un líder intelectual. -->
 
 ### Explicacion Pedagogica

@@ -34,9 +34,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Conectores Adversativos, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de oposição de ideias e mas e porém?
 
 ### Opciones
-- [x] A) A aplicação adequada de oposição de ideias permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Adversativos. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de oposição de ideias limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Adversativos. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de mas e porém impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. mas e porém é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [x] C) A aplicação adequada de oposição de ideias permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Adversativos. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de oposição de ideias limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Adversativos. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de mas e porém impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. mas e porém é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Conectores Adversativos aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
@@ -53,8 +53,8 @@ A compreensão de Conectores Adversativos no contexto de Coerência Textual e Co
 No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Conectores Conclusivos, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de fechamento de raciocínio e portanto e logo?
 
 ### Opciones
-- [x] A) A aplicação adequada de fechamento de raciocínio permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Conclusivos. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de fechamento de raciocínio limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Conclusivos. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [x] B) A aplicação adequada de fechamento de raciocínio permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Conclusivos. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de fechamento de raciocínio limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Conclusivos. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
 - [ ] C) O fenômeno de portanto e logo impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. portanto e logo é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Conectores Conclusivos aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
@@ -72,8 +72,8 @@ A compreensão de Conectores Conclusivos no contexto de Coerência Textual e Con
 No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Conectores Cautelares / Concessivos, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de ressalva lógica e embora e posto que?
 
 ### Opciones
-- [x] A) A aplicação adequada de ressalva lógica permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Cautelares / Concessivos. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de ressalva lógica limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Cautelares / Concessivos. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [x] B) A aplicação adequada de ressalva lógica permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Cautelares / Concessivos. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de ressalva lógica limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Cautelares / Concessivos. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
 - [ ] C) O fenômeno de embora e posto que impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. embora e posto que é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Conectores Cautelares / Concessivos aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
@@ -110,10 +110,10 @@ A compreensão de Conectores Explicativos e Causais no contexto de Coerência Te
 No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Conectores Aditivos, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de soma de argumentos e além disso e também?
 
 ### Opciones
-- [x] A) A aplicação adequada de soma de argumentos permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Aditivos. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de soma de argumentos limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Aditivos. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de além disso e também impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. além disso e também é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
-- [ ] D) A análise de Conectores Aditivos aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
+- [x] D) A aplicação adequada de soma de argumentos permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Aditivos. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de soma de argumentos limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Aditivos. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de além disso e também impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. além disso e também é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [ ] C) A análise de Conectores Aditivos aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
 A compreensão de Conectores Aditivos no contexto de Coerência Textual e Conectores Argumentativos exige identificar como soma de argumentos e além disso e também articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.
@@ -129,9 +129,9 @@ A compreensão de Conectores Aditivos no contexto de Coerência Textual e Conect
 No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Conectores Condicionais, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de hipótese ou requisito e se e caso?
 
 ### Opciones
-- [x] A) A aplicação adequada de hipótese ou requisito permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Condicionais. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de hipótese ou requisito limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Condicionais. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de se e caso impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. se e caso é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [x] C) A aplicação adequada de hipótese ou requisito permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Condicionais. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de hipótese ou requisito limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Condicionais. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de se e caso impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. se e caso é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Conectores Condicionais aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
@@ -148,8 +148,8 @@ A compreensão de Conectores Condicionais no contexto de Coerência Textual e Co
 No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Conectores Consecutivos, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de consequência direta e de modo que?
 
 ### Opciones
-- [x] A) A aplicação adequada de consequência direta permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Consecutivos. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de consequência direta limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Consecutivos. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [x] B) A aplicação adequada de consequência direta permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Consecutivos. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de consequência direta limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Consecutivos. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
 - [ ] C) O fenômeno de de modo que impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. de modo que é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Conectores Consecutivos aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
@@ -186,9 +186,9 @@ A compreensão de Conectores Comparativos no contexto de Coerência Textual e Co
 No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Conectores Temporais, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de sucessão de fatos e quando e enquanto?
 
 ### Opciones
-- [x] A) A aplicação adequada de sucessão de fatos permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Temporais. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de sucessão de fatos limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Temporais. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de quando e enquanto impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. quando e enquanto é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [x] C) A aplicação adequada de sucessão de fatos permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Temporais. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de sucessão de fatos limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Temporais. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de quando e enquanto impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. quando e enquanto é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Conectores Temporais aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
@@ -205,10 +205,10 @@ A compreensão de Conectores Temporais no contexto de Coerência Textual e Conec
 No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Conectores Conformes, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de citação de fontes e segundo e conforme?
 
 ### Opciones
-- [x] A) A aplicação adequada de citação de fontes permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Conformes. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de citação de fontes limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Conformes. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de segundo e conforme impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. segundo e conforme é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
-- [ ] D) A análise de Conectores Conformes aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
+- [x] D) A aplicação adequada de citação de fontes permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Conformes. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de citação de fontes limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Conformes. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de segundo e conforme impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. segundo e conforme é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [ ] C) A análise de Conectores Conformes aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
 A compreensão de Conectores Conformes no contexto de Coerência Textual e Conectores Argumentativos exige identificar como citação de fontes e segundo e conforme articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.
@@ -224,10 +224,10 @@ A compreensão de Conectores Conformes no contexto de Coerência Textual e Conec
 No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Conectores Finais / De Finalidade, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de objetivo pretendido e para que e a fim de?
 
 ### Opciones
-- [x] A) A aplicação adequada de objetivo pretendido permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Finais / De Finalidade. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de objetivo pretendido limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Finais / De Finalidade. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de para que e a fim de impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. para que e a fim de é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
-- [ ] D) A análise de Conectores Finais / De Finalidade aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
+- [x] D) A aplicação adequada de objetivo pretendido permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Conectores Finais / De Finalidade. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de objetivo pretendido limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Conectores Finais / De Finalidade. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de para que e a fim de impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. para que e a fim de é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [ ] C) A análise de Conectores Finais / De Finalidade aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
 A compreensão de Conectores Finais / De Finalidade no contexto de Coerência Textual e Conectores Argumentativos exige identificar como objetivo pretendido e para que e a fim de articulam sentidos e conferem expressividade ao discurso conforme a BNCC e a Matriz do ENEM.
@@ -243,9 +243,9 @@ A compreensão de Conectores Finais / De Finalidade no contexto de Coerência Te
 No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Contradição Lógica Interna, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de quebra de coerência e incompatibilidade?
 
 ### Opciones
-- [x] A) A aplicação adequada de quebra de coerência permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Contradição Lógica Interna. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de quebra de coerência limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Contradição Lógica Interna. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de incompatibilidade impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. incompatibilidade é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [x] C) A aplicação adequada de quebra de coerência permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Contradição Lógica Interna. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de quebra de coerência limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Contradição Lógica Interna. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de incompatibilidade impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. incompatibilidade é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Contradição Lógica Interna aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica
@@ -281,8 +281,8 @@ A compreensão de Articulação de Teses em Redação no contexto de Coerência 
 No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Polifonia e Operadores Argumentativos, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de marcas de autoria e escala argumentativa?
 
 ### Opciones
-- [x] A) A aplicação adequada de marcas de autoria permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Polifonia e Operadores Argumentativos. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de marcas de autoria limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Polifonia e Operadores Argumentativos. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [x] B) A aplicação adequada de marcas de autoria permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Polifonia e Operadores Argumentativos. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de marcas de autoria limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Polifonia e Operadores Argumentativos. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
 - [ ] C) O fenômeno de escala argumentativa impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. escala argumentativa é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Polifonia e Operadores Argumentativos aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
@@ -300,8 +300,8 @@ A compreensão de Polifonia e Operadores Argumentativos no contexto de Coerênci
 No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Mudança de Ponto de Vista, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de transição de foco e contra-argumentação?
 
 ### Opciones
-- [x] A) A aplicação adequada de transição de foco permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Mudança de Ponto de Vista. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de transição de foco limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Mudança de Ponto de Vista. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [x] B) A aplicação adequada de transição de foco permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Mudança de Ponto de Vista. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de transição de foco limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Mudança de Ponto de Vista. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
 - [ ] C) O fenômeno de contra-argumentação impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. contra-argumentação é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Mudança de Ponto de Vista aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
@@ -319,8 +319,8 @@ A compreensão de Mudança de Ponto de Vista no contexto de Coerência Textual e
 No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Subentendido e Implicitude, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de pressupostos e subentendidos morais?
 
 ### Opciones
-- [x] A) A aplicação adequada de pressupostos permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Subentendido e Implicitude. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de pressupostos limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Subentendido e Implicitude. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [x] B) A aplicação adequada de pressupostos permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Subentendido e Implicitude. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de pressupostos limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Subentendido e Implicitude. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
 - [ ] C) O fenômeno de subentendidos morais impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. subentendidos morais é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Subentendido e Implicitude aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
@@ -338,8 +338,8 @@ A compreensão de Subentendido e Implicitude no contexto de Coerência Textual e
 No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Avaliação Crítica da Argumentação, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de solidez lógica e validade de premissas?
 
 ### Opciones
-- [x] A) A aplicação adequada de solidez lógica permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Avaliação Crítica da Argumentação. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de solidez lógica limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Avaliação Crítica da Argumentação. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [x] B) A aplicação adequada de solidez lógica permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Avaliação Crítica da Argumentação. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de solidez lógica limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Avaliação Crítica da Argumentação. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
 - [ ] C) O fenômeno de validade de premissas impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. validade de premissas é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Avaliação Crítica da Argumentação aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
@@ -376,8 +376,8 @@ A compreensão de Operadores de Força Argumentativa no contexto de Coerência T
 No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Coerência Global vs Local, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de microcoerência e macrocoerência?
 
 ### Opciones
-- [x] A) A aplicação adequada de microcoerência permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Coerência Global vs Local. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de microcoerência limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Coerência Global vs Local. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [x] B) A aplicação adequada de microcoerência permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Coerência Global vs Local. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de microcoerência limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Coerência Global vs Local. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
 - [ ] C) O fenômeno de macrocoerência impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. macrocoerência é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Coerência Global vs Local aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
@@ -395,9 +395,9 @@ A compreensão de Coerência Global vs Local no contexto de Coerência Textual e
 No estudo de Coerência Textual e Conectores Argumentativos, especificamente sobre Ruídos e Paradoxo Argumentativo, qual das alternativas apresenta a análise teórica e prática correta considerando os conceitos de contradição pragmática e falácia lógica?
 
 ### Opciones
-- [x] A) A aplicação adequada de contradição pragmática permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Ruídos e Paradoxo Argumentativo. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
-- [ ] B) O conceito de contradição pragmática limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Ruídos e Paradoxo Argumentativo. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
-- [ ] C) O fenômeno de falácia lógica impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. falácia lógica é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
+- [x] C) A aplicação adequada de contradição pragmática permite compreender a estrutura do texto e os efeitos de sentido pretendidos pelo autor no contexto de Ruídos e Paradoxo Argumentativo. <!-- feedback: Correto! Essa opção descreve exatamente o papel analítico e funcional do conceito na interpretação textual. -->
+- [ ] A) O conceito de contradição pragmática limita-se a uma regra ortográfica isolada sem qualquer impacto nos efeitos de sentido de Ruídos e Paradoxo Argumentativo. <!-- feedback: Incorreto. O conceito estuda aspectos semânticos e discursivos mais amplos do que a mera convenção de escrita ortográfica. -->
+- [ ] B) O fenômeno de falácia lógica impede a construção da coerência textual por contrariar as normas rígidas da gramática normativa arcaica. <!-- feedback: Incorreto. falácia lógica é um recurso expressivo legítimo que enriquece a linguagem e a interpretação. -->
 - [ ] D) A análise de Ruídos e Paradoxo Argumentativo aplica-se exclusivamente a textos técnicos de física experimental sem relação com a linguagem verbal. <!-- feedback: Incorreto. O tema trata da Língua Portuguesa e dos estudos linguísticos e literários para o ENEM. -->
 
 ### Explicacion Pedagogica

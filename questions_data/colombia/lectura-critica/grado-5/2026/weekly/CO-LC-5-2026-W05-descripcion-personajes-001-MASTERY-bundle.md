@@ -34,9 +34,9 @@ Identificación de rasgos físicos, psicológicos y sociales de personajes en cu
 ¿Qué tipo de rasgos del personaje se mencionan en la descripción anterior?
 
 ### Opciones
-- [x] A) Rasgos físicos (manos encallecidas, ojos claros) y sociales (campesino que cuida cafetal).
+- [x] B) Rasgos físicos (manos encallecidas, ojos claros) y sociales (campesino que cuida cafetal).
   <!-- feedback: Las manos y los ojos son rasgos físicos; la ocupación y el habla son rasgos sociales. -->
-- [ ] B) Únicamente rasgos psicológicos porque se habla de paciencia.
+- [ ] A) Únicamente rasgos psicológicos porque se habla de paciencia.
   <!-- feedback: No se mencionan emociones ni pensamientos, sino apariencia y ocupación. -->
 - [ ] C) Solo el nombre del personaje.
   <!-- feedback: El texto no nombra al personaje, solo lo describe. -->
@@ -57,11 +57,11 @@ La descripción de personajes combina rasgos físicos (apariencia), psicológico
 ¿Qué se puede inferir sobre el personaje a partir de sus acciones?
 
 ### Opciones
-- [x] A) Que es una persona dedicada, responsable y amante del café.
+- [x] C) Que es una persona dedicada, responsable y amante del café.
   <!-- feedback: Corregir hasta la medianoche demuestra dedicación; el termo sugiere un hábito. -->
-- [ ] B) Que es indiferente a su trabajo porque no descansa nunca.
+- [ ] A) Que es indiferente a su trabajo porque no descansa nunca.
   <!-- feedback: Corregir mucho no implica indiferencia sino compromiso. -->
-- [ ] C) Que no le gusta enseñar porque prefiere los cuadernos.
+- [ ] B) Que no le gusta enseñar porque prefiere los cuadernos.
   <!-- feedback: La acción de corregir forma parte de su labor docente. -->
 - [ ] D) Que solo le importa el café.
   <!-- feedback: El café es un detalle, no el centro de sus acciones. -->
@@ -80,13 +80,13 @@ Inferir características a partir de acciones es una habilidad central de lectur
 ¿Qué rasgos del personaje se deducen de la escena descrita?
 
 ### Opciones
-- [x] A) Ordenada, puntual, estudiosa y segura de sí misma.
+- [x] D) Ordenada, puntual, estudiosa y segura de sí misma.
   <!-- feedback: El uniforme doblado, la entrega anticipada y la lectura complementaria muestran orden, responsabilidad y confianza. -->
-- [ ] B) Perezosa y desinteresada por el examen.
+- [ ] A) Perezosa y desinteresada por el examen.
   <!-- feedback: Quien entrega primero y luego lee no es perezosa. -->
-- [ ] C) Nerviosa e insegura porque terminó antes.
+- [ ] B) Nerviosa e insegura porque terminó antes.
   <!-- feedback: Su actitud posterior (leer) muestra calma, no nerviosismo. -->
-- [ ] D) Agresiva con sus compañeros porque termina primero.
+- [ ] C) Agresiva con sus compañeros porque termina primero.
   <!-- feedback: La escena no describe interacciones negativas con los demás. -->
 
 ### Explicacion Pedagogica
@@ -126,11 +126,11 @@ Los personajes pueden combinar múltiples rasgos, incluso contradictorios. Ident
 ¿Qué atmósfera emocional genera el personaje de la abuela Berta en el relato?
 
 ### Opciones
-- [x] A) Cálida, hogareña y cercana, con un toque de misterio por las historias de espantos.
+- [x] C) Cálida, hogareña y cercana, con un toque de misterio por las historias de espantos.
   <!-- feedback: El olor a arepa y la hamaca transmiten hogar; los espantos añaden tensión narrativa. -->
-- [ ] B) Fría y distante porque solo huele a comida.
+- [ ] A) Fría y distante porque solo huele a comida.
   <!-- feedback: El olor a arepa despierta ternura, no frialdad. -->
-- [ ] C) Aterradora porque habla de espantos.
+- [ ] B) Aterradora porque habla de espantos.
   <!-- feedback: Los espantos en voz de la abuela se vuelven cuentos, no amenazas reales. -->
 - [ ] D) Indiferente porque solo aparece en la cocina.
   <!-- feedback: Su presencia aporta calor humano al relato. -->
@@ -149,9 +149,9 @@ La atmósfera emocional de un personaje depende de los estímulos sensoriales (o
 ¿Qué papel narrativo cumplen Daniela y Tomás al inicio del relato?
 
 ### Opciones
-- [x] A) Son protagonistas con motivaciones distintas que se convertirán en aliados o rivales.
+- [x] B) Son protagonistas con motivaciones distintas que se convertirán en aliados o rivales.
   <!-- feedback: Las descripciones sugieren dos protagonistas complementarios en tensión. -->
-- [ ] B) Son personajes secundarios porque no aparecen descritos en detalle.
+- [ ] A) Son personajes secundarios porque no aparecen descritos en detalle.
   <!-- feedback: Sí aparecen descritos con detalle físico y psicológico. -->
 - [ ] C) Son antagonistas puros sin matices.
   <!-- feedback: Ambos son descritos con rasgos positivos, no como villanos. -->
@@ -172,11 +172,11 @@ Los protagonistas no son necesariamente "buenos"; pueden tener defectos y contra
 ¿Qué simboliza la Llorona en la tradición oral colombiana?
 
 ### Opciones
-- [x] A) El duelo materno, el arrepentimiento y el aviso sobre los peligros del río.
+- [x] C) El duelo materno, el arrepentimiento y el aviso sobre los peligros del río.
   <!-- feedback: La Llorona encarna el dolor de una madre y el aprendizaje de respetar el agua. -->
-- [ ] B) La riqueza y la prosperidad.
+- [ ] A) La riqueza y la prosperidad.
   <!-- feedback: No hay elementos materiales en su descripción. -->
-- [ ] C) La llegada de la cosecha.
+- [ ] B) La llegada de la cosecha.
   <!-- feedback: Su presencia es nocturna y asociada al agua, no a la agricultura. -->
 - [ ] D) La celebración de una fiesta patronal.
   <!-- feedback: La Llorona se asocia al miedo y al respeto, no a la fiesta. -->
@@ -195,13 +195,13 @@ Los personajes de la tradición oral suelen condensar valores, miedos y enseñan
 ¿Qué argumento respalda mejor la postura del crítico literario?
 
 ### Opciones
-- [x] A) Un personaje redondo cambia de opinión, comete errores y madura, mientras que uno plano mantiene una sola característica toda la obra.
+- [x] D) Un personaje redondo cambia de opinión, comete errores y madura, mientras que uno plano mantiene una sola característica toda la obra.
   <!-- feedback: La evolución es la marca de los personajes redondos según la teoría narrativa. -->
-- [ ] B) Los personajes redondos son aquellos que solo se describen físicamente.
+- [ ] A) Los personajes redondos son aquellos que solo se describen físicamente.
   <!-- feedback: La descripción física no define redondez; importa la complejidad psicológica. -->
-- [ ] C) Los personajes planos son superiores porque resultan más fáciles de recordar.
+- [ ] B) Los personajes planos son superiores porque resultan más fáciles de recordar.
   <!-- feedback: La memoria del lector se activa con la complejidad, no con la simpleza. -->
-- [ ] D) Los personajes redondos solo aparecen en la literatura infantil.
+- [ ] C) Los personajes redondos solo aparecen en la literatura infantil.
   <!-- feedback: Personajes redondos y planos aparecen en todo tipo de literatura. -->
 
 ### Explicacion Pedagogica

@@ -30,13 +30,13 @@ creador: "Jules-Agent"
 Si se cumple que $x + 2 = 6$, ¿cuál es el valor correspondiente del número real $x$?
 
 ### Opciones
-- [x] A) $4$
+- [x] D) $4$
   <!-- feedback: Correcto. Despejando obtenemos la diferencia exacta. -->
-- [ ] B) $8$
+- [ ] A) $8$
   <!-- feedback: Incorrecto. Se sumaron las constantes en lugar de restar. -->
-- [ ] C) $6$
+- [ ] B) $6$
   <!-- feedback: Incorrecto. Error de cálculo aritmético. -->
-- [ ] D) $2$
+- [ ] C) $2$
   <!-- feedback: Incorrecto. Error de signo al transponer términos. -->
 
 ### Explicacion Pedagogica
@@ -55,13 +55,13 @@ Para hallar el valor de $x$, restamos 2 a ambos lados de la ecuación: $x = 6 - 
 ¿Cuál es el elemento neutro de la multiplicación en el conjunto de los números reales?
 
 ### Opciones
-- [x] A) $1$
+- [x] D) $1$
   <!-- feedback: Correcto. El número 1 es el elemento neutro multiplicativo porque para cualquier real $a$, $a \cdot 1 = a$. -->
-- [ ] B) $0$
+- [ ] A) $0$
   <!-- feedback: Incorrecto. Cero es el elemento neutro de la adición, no de la multiplicación. -->
-- [ ] C) $-1$
+- [ ] B) $-1$
   <!-- feedback: Incorrecto. Al multiplicar por -1 cambia el signo del número. -->
-- [ ] D) No existe
+- [ ] C) No existe
   <!-- feedback: Incorrecto. Sí existe y es único en el conjunto real. -->
 
 ### Explicacion Pedagogica
@@ -105,9 +105,9 @@ Para resolver la ecuación, primero eliminamos la constante sumada aplicando la 
 Si un artículo que cuesta S/ 200 se vende con un descuento del 50\%, ¿cuánto se paga finalmente en soles por el artículo?
 
 ### Opciones
-- [x] A) S/ 100.00
+- [x] B) S/ 100.00
   <!-- feedback: Correcto. Se calculó el descuento restando el porcentaje correspondiente de la base. -->
-- [ ] B) S/ 195.00
+- [ ] A) S/ 195.00
   <!-- feedback: Incorrecto. Descuento calculado de forma fija sin usar el porcentaje. -->
 - [ ] C) S/ 300.00
   <!-- feedback: Incorrecto. Se sumó el descuento en lugar de restarlo de la base original. -->
@@ -130,9 +130,9 @@ El descuento es de 50\% de S/ 200, lo cual equivale a S/ 100.00. Restando esto d
 Halle el valor de la expresión con potencias de base común: $E = \frac{3^{b+2}}{3^{b}}$.
 
 ### Opciones
-- [x] A) $9$
+- [x] B) $9$
   <!-- feedback: Correcto. Restando exponentes obtenemos la potencia al cuadrado de la base. -->
-- [ ] B) $3$
+- [ ] A) $3$
   <!-- feedback: Incorrecto. Error de simplificación al restar exponentes. -->
 - [ ] C) $18$
   <!-- feedback: Incorrecto. Se multiplicaron base y exponente de forma equivocada. -->
@@ -155,13 +155,13 @@ Por leyes de exponentes de la división de bases iguales, restamos el exponente 
 Si se sabe que $4x < 12$, determine el conjunto solución expresado como intervalo real de la variable $x$.
 
 ### Opciones
-- [x] A) $\langle -\infty, 3 \rangle$
+- [x] D) $\langle -\infty, 3 \rangle$
   <!-- feedback: Correcto. Al dividir entre el número positivo 4 se mantiene el sentido, resultando $x < 3$. -->
-- [ ] B) $\langle 3, +\infty \rangle$
+- [ ] A) $\langle 3, +\infty \rangle$
   <!-- feedback: Incorrecto. Se invirtió erróneamente el sentido de la inecuación lineal. -->
-- [ ] C) $[ -\infty, 3 ]$
+- [ ] B) $[ -\infty, 3 ]$
   <!-- feedback: Incorrecto. El extremo infinito nunca es cerrado y la inecuación es estricta. -->
-- [ ] D) $\langle -\infty, 3 ]$
+- [ ] C) $\langle -\infty, 3 ]$
   <!-- feedback: Incorrecto. Al ser menor estricto ($<$), el extremo superior debe ser abierto. -->
 
 ### Explicacion Pedagogica
@@ -180,9 +180,9 @@ Dividimos ambos miembros de la inecuación lineal entre el número positivo 4: $
 Una persona en el mercado gasta S/ 10 en frutas y S/ 20 en verduras. Si pagó con un billete de S/ 100, ¿cuánto dinero recibe de vuelto en soles?
 
 ### Opciones
-- [x] A) S/ 70
+- [x] B) S/ 70
   <!-- feedback: Correcto. Restamos el gasto total de la denominación del billete de pago. -->
-- [ ] B) S/ 75
+- [ ] A) S/ 75
   <!-- feedback: Incorrecto. Error en la suma de los consumos realizados. -->
 - [ ] C) S/ 90
   <!-- feedback: Incorrecto. No se restó el gasto de las verduras. -->
@@ -205,11 +205,11 @@ El gasto total es la suma de ambos rubros: 10 + 20 = 30 soles. El vuelto es la d
 Determine la solución de la inecuación lineal: $3x - 5 \ge 13$.
 
 ### Opciones
-- [x] A) $x \ge 6$
+- [x] C) $x \ge 6$
   <!-- feedback: Correcto. Al sumar 5 a ambos lados y luego dividir por el número positivo 3, el sentido se mantiene. -->
-- [ ] B) $x \le 6$
+- [ ] A) $x \le 6$
   <!-- feedback: Incorrecto. Se invirtió incorrectamente el sentido de la desigualdad. -->
-- [ ] C) $x > 6$
+- [ ] B) $x > 6$
   <!-- feedback: Incorrecto. Se cambió la desigualdad de no estricta a estricta. -->
 - [ ] D) $x \ge 7$
   <!-- feedback: Incorrecto. Error en la división o en la simplificación numérica. -->
@@ -230,9 +230,9 @@ Sumamos 5 a ambos miembros de la inecuación lineal: $3x \ge 18$. Dividimos entr
 ¿Cuál es el valor absoluto de la diferencia de los números reales $4$ y $10$?
 
 ### Opciones
-- [x] A) $6$
+- [x] B) $6$
   <!-- feedback: Correcto. El valor absoluto de la diferencia es el módulo de 4 menos la suma 4 más 6, que resulta en el valor absoluto de menos 6, es decir, 6. -->
-- [ ] B) $-6$
+- [ ] A) $-6$
   <!-- feedback: Incorrecto. El valor absoluto de cualquier expresión real es siempre un número no negativo. -->
 - [ ] C) $14$
   <!-- feedback: Incorrecto. Se sumaron las cantidades en lugar de restarlas. -->
@@ -255,13 +255,13 @@ La diferencia es $4 - (10) = -6$. El valor absoluto de este resultado negativo e
 Encuentre el valor de la variable $y$ si se sabe que cumple con la proporción lineal: $\frac{y}{2} = \frac{3}{5}$.
 
 ### Opciones
-- [x] A) $1.20$
+- [x] D) $1.20$
   <!-- feedback: Correcto. Multiplicamos de forma cruzada para despejar la variable del numerador. -->
-- [ ] B) $2.20$
+- [ ] A) $2.20$
   <!-- feedback: Incorrecto. Error en la multiplicación de los factores cruzados. -->
-- [ ] C) $0.20$
+- [ ] B) $0.20$
   <!-- feedback: Incorrecto. Error en la división de los coeficientes. -->
-- [ ] D) $10.00$
+- [ ] C) $10.00$
   <!-- feedback: Incorrecto. Se multiplicaron denominadores incorrectos. -->
 
 ### Explicacion Pedagogica
@@ -280,11 +280,11 @@ Multiplicamos por 2 en ambos lados de la ecuación de proporcionalidad para desp
 Calcule la suma de los coeficientes del polinomio lineal: $P(x) = 3x + 4$.
 
 ### Opciones
-- [x] A) $7$
+- [x] C) $7$
   <!-- feedback: Correcto. La suma de coeficientes de un polinomio es equivalente a evaluarlo en $x = 1$, dando 3 más 4 igual a 7. -->
-- [ ] B) $12$
+- [ ] A) $12$
   <!-- feedback: Incorrecto. Se multiplicaron los coeficientes en lugar de sumarlos. -->
-- [ ] C) $-1$
+- [ ] B) $-1$
   <!-- feedback: Incorrecto. Se restaron los coeficientes. -->
 - [ ] D) $9$
   <!-- feedback: Incorrecto. Suma aritmética errónea. -->
@@ -330,9 +330,9 @@ El perímetro de un triángulo equilátero de lado $L$ es $3L$. Sabiendo que el 
 Halle el dominio de la función real: $f(x) = \frac{1}{x - 6}$.
 
 ### Opciones
-- [x] A) $\mathbb{R} - \{6\}$
+- [x] B) $\mathbb{R} - \{6\}$
   <!-- feedback: Correcto. El denominador no puede ser cero, por lo que se debe excluir el valor de x = 6. -->
-- [ ] B) $\mathbb{R}$
+- [ ] A) $\mathbb{R}$
   <!-- feedback: Incorrecto. El valor de x causa una división indeterminada por cero. -->
 - [ ] C) $\langle 6, +\infty \rangle$
   <!-- feedback: Incorrecto. La función también está perfectamente definida para valores reales menores que 6. -->
@@ -355,11 +355,11 @@ Para que la función racional esté definida en el campo real, el denominador de
 Determine el valor numérico del polinomio cuadrático $P(y) = y^2 - 6y + 9$ cuando $y = 3$.
 
 ### Opciones
-- [x] A) $0$
+- [x] C) $0$
   <!-- feedback: Correcto. Evaluando el polinomio para y = a resulta cero. -->
-- [ ] B) $2$
+- [ ] A) $2$
   <!-- feedback: Incorrecto. Error de cálculo en los productos parciales. -->
-- [ ] C) $18$
+- [ ] B) $18$
   <!-- feedback: Incorrecto. Error al evaluar o transponer los términos del trinomio. -->
 - [ ] D) $3$
   <!-- feedback: Incorrecto. Error aritmético en las adiciones. -->
@@ -382,13 +382,13 @@ $\begin{cases} x + y = 8 \\ x - y = 0 \end{cases}$
 Indique el valor obtenido para la variable $x$.
 
 ### Opciones
-- [x] A) $4$
+- [x] D) $4$
   <!-- feedback: Correcto. Sumando ambas ecuaciones para eliminar la variable y. -->
-- [ ] B) $7.0$
+- [ ] A) $7.0$
   <!-- feedback: Incorrecto. Este corresponde al valor de la variable y, no de x. -->
-- [ ] C) $8$
+- [ ] B) $8$
   <!-- feedback: Incorrecto. Error de resolución al sustituir o sumar los miembros. -->
-- [ ] D) $0$
+- [ ] C) $0$
   <!-- feedback: Incorrecto. Corresponde a la diferencia de las variables, no al valor de x. -->
 
 ### Explicacion Pedagogica
@@ -457,11 +457,11 @@ Por definición del inverso multiplicativo, el producto de un número no nulo y 
 Halle el valor de la suma de las raíces de la ecuación cuadrática de coeficientes reales: $x^2 - 7x + 12 = 0$ utilizando las relaciones de Cardano-Vieta.
 
 ### Opciones
-- [x] A) $7$
+- [x] C) $7$
   <!-- feedback: Correcto. Por Cardano-Vieta, la suma de raíces es -b/a. -->
-- [ ] B) $-7$
+- [ ] A) $-7$
   <!-- feedback: Incorrecto. Olvidó cambiar el signo del término lineal. -->
-- [ ] C) $12$
+- [ ] B) $12$
   <!-- feedback: Incorrecto. Este corresponde al producto de las raíces. -->
 - [ ] D) $8$
   <!-- feedback: Incorrecto. Error aritmético al aplicar la fórmula. -->
@@ -482,13 +482,13 @@ Las relaciones de Cardano-Vieta establecen que para una ecuación cuadrática ax
 Determine el área máxima que puede encerrar un terreno rectangular de perímetro constante e igual a $24$ metros.
 
 ### Opciones
-- [x] A) $36$ metros cuadrados
+- [x] D) $36$ metros cuadrados
   <!-- feedback: Correcto. El área máxima para un perímetro dado se logra cuando la figura es un cuadrado. -->
-- [ ] B) $32$ metros cuadrados
+- [ ] A) $32$ metros cuadrados
   <!-- feedback: Incorrecto. Corresponde a una configuración rectangular desigual subóptima. -->
-- [ ] C) $40$ metros cuadrados
+- [ ] B) $40$ metros cuadrados
   <!-- feedback: Incorrecto. Un perímetro de la magnitud dada no puede encerrar un área rectangular de valor superior al máximo. -->
-- [ ] D) $18.0$ metros cuadrados
+- [ ] C) $18.0$ metros cuadrados
   <!-- feedback: Incorrecto. Subestimación del área máxima. -->
 
 ### Explicacion Pedagogica
@@ -507,11 +507,11 @@ Sean los lados x e y. El perímetro es 2(x+y) = 24 \Rightarrow x+y = 12. El áre
 Si se define la función real $f(x) = x^2 - 6x + 14$, determine las coordenadas del vértice $(h, k)$ de su representación gráfica parabólica.
 
 ### Opciones
-- [x] A) $(3, 5)$
+- [x] C) $(3, 5)$
   <!-- feedback: Correcto. Completando cuadrados: f(x) = (x - a)^2 + b. -->
-- [ ] B) $(-3, 5)$
+- [ ] A) $(-3, 5)$
   <!-- feedback: Incorrecto. Error de signo al despejar la coordenada horizontal h. -->
-- [ ] C) $(3, -5)$
+- [ ] B) $(3, -5)$
   <!-- feedback: Incorrecto. Error de signo al determinar la coordenada vertical k. -->
 - [ ] D) $(6, 5)$
   <!-- feedback: Incorrecto. Coordenadas mal identificadas. -->

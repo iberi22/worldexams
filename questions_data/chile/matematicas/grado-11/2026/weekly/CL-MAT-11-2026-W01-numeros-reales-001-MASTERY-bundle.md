@@ -30,10 +30,10 @@ creador: "Jules-Agent"
 ¿A qué conjunto numérico pertenece el número $\sqrt{2}$?
 
 ### Opciones
-- [ ] A) Números Naturales ($\mathbb{N}$) <!-- feedback: Los números naturales son enteros positivos sin parte decimal. -->
-- [ ] B) Números Enteros ($\mathbb{Z}$) <!-- feedback: Los números enteros no incluyen raíces inexactas como $\sqrt{2}$. -->
-- [ ] C) Números Racionales ($\mathbb{Q}$) <!-- feedback: Los racionales pueden escribirse como fracción de enteros; $\sqrt{2}$ no. -->
-- [x] D) Números Irracionales ($\mathbb{I}$) <!-- feedback: $\sqrt{2}$ tiene infinitos decimales no periódicos, por lo que es irracional. -->
+- [ ] B) Números Naturales ($\mathbb{N}$) <!-- feedback: Los números naturales son enteros positivos sin parte decimal. -->
+- [ ] C) Números Enteros ($\mathbb{Z}$) <!-- feedback: Los números enteros no incluyen raíces inexactas como $\sqrt{2}$. -->
+- [ ] D) Números Racionales ($\mathbb{Q}$) <!-- feedback: Los racionales pueden escribirse como fracción de enteros; $\sqrt{2}$ no. -->
+- [x] A) Números Irracionales ($\mathbb{I}$) <!-- feedback: $\sqrt{2}$ tiene infinitos decimales no periódicos, por lo que es irracional. -->
 
 ### Explicacion Pedagogica
 El número $\sqrt{2}$ es un número irracional porque no se puede expresar como la razón entre dos números enteros. Su representación decimal es infinita y no presenta un patrón repetitivo o período.
@@ -68,8 +68,8 @@ El conjunto de los números reales ($\mathbb{R}$) se define como la unión del c
 ¿Cuál es el valor de $|-5| - |3 - 8|$?
 
 ### Opciones
-- [x] A) 0 <!-- feedback: $|-5| = 5$ y $|3 - 8| = |-5| = 5$. Entonces $5 - 5 = 0$. -->
-- [ ] B) 10 <!-- feedback: Has sumado los valores en lugar de restarlos. -->
+- [x] B) 0 <!-- feedback: $|-5| = 5$ y $|3 - 8| = |-5| = 5$. Entonces $5 - 5 = 0$. -->
+- [ ] A) 10 <!-- feedback: Has sumado los valores en lugar de restarlos. -->
 - [ ] C) -10 <!-- feedback: El valor absoluto siempre es no negativo. Revisa la operación. -->
 - [ ] D) 5 <!-- feedback: Revisa el cálculo de la resta de los valores absolutos. -->
 
@@ -88,9 +88,9 @@ El valor absoluto de un número es su distancia al origen, siempre positiva o ce
 
 ### Opciones
 - [ ] A) $1/8$ <!-- feedback: $1/8$ es menor que $1/4$. -->
-- [x] B) $3/8$ <!-- feedback: $1/4 = 2/8$ y $1/2 = 4/8$. Por lo tanto, $3/8$ está entre ellos. -->
-- [ ] C) $5/8$ <!-- feedback: $5/8$ es mayor que $4/8$ (o $1/2$). -->
-- [ ] D) $0,2$ <!-- feedback: $0,2 = 1/5$, que es menor que $1/4$. -->
+- [x] D) $3/8$ <!-- feedback: $1/4 = 2/8$ y $1/2 = 4/8$. Por lo tanto, $3/8$ está entre ellos. -->
+- [ ] B) $5/8$ <!-- feedback: $5/8$ es mayor que $4/8$ (o $1/2$). -->
+- [ ] C) $0,2$ <!-- feedback: $0,2 = 1/5$, que es menor que $1/4$. -->
 
 ### Explicacion Pedagogica
 Para comparar fracciones, es útil igualar denominadores. $1/4$ equivale a $2/8$ y $1/2$ equivale a $4/8$. Claramente, $3/8$ se encuentra entre $2/8$ y $4/8$.
@@ -107,9 +107,9 @@ Si $a = \sqrt{3}$ y $b = \sqrt{2}$, ¿cuál es el valor aproximado de $a + b$? (
 
 ### Opciones
 - [ ] A) 3,00 <!-- feedback: Has redondeado demasiado pronto o de forma incorrecta. -->
-- [x] B) 3,14 <!-- feedback: $1,73 + 1,41 = 3,14$. -->
-- [ ] C) 2,14 <!-- feedback: Error en la suma de las partes enteras. -->
-- [ ] D) 3,24 <!-- feedback: Error en la suma de las partes decimales. -->
+- [x] D) 3,14 <!-- feedback: $1,73 + 1,41 = 3,14$. -->
+- [ ] B) 2,14 <!-- feedback: Error en la suma de las partes enteras. -->
+- [ ] C) 3,24 <!-- feedback: Error en la suma de las partes decimales. -->
 
 ### Explicacion Pedagogica
 Al sumar aproximaciones de números irracionales, sumamos los valores decimales dados: $1,73$ (aproximación de $\sqrt{3}$) más $1,41$ (aproximación de $\sqrt{2}$), resultando en $3,14$.
@@ -126,9 +126,9 @@ Al sumar aproximaciones de números irracionales, sumamos los valores decimales 
 
 ### Opciones
 - [ ] A) $4,5 \times 10^{-4}$ <!-- feedback: Contaste mal los espacios hacia la derecha. -->
-- [x] B) $4,5 \times 10^{-5}$ <!-- feedback: Correcto, se mueve la coma 5 lugares a la derecha. -->
-- [ ] C) $45 \times 10^{-6}$ <!-- feedback: En notación científica, el coeficiente debe estar entre 1 y 10. -->
-- [ ] D) $4,5 \times 10^{5}$ <!-- feedback: El exponente debe ser negativo para números menores que 1. -->
+- [x] D) $4,5 \times 10^{-5}$ <!-- feedback: Correcto, se mueve la coma 5 lugares a la derecha. -->
+- [ ] B) $45 \times 10^{-6}$ <!-- feedback: En notación científica, el coeficiente debe estar entre 1 y 10. -->
+- [ ] C) $4,5 \times 10^{5}$ <!-- feedback: El exponente debe ser negativo para números menores que 1. -->
 
 ### Explicacion Pedagogica
 La notación científica requiere un número entre 1 (inclusive) y 10, multiplicado por una potencia de 10. Para $0,000045$, desplazamos la coma 5 posiciones hacia la derecha para obtener $4,5$, por lo que el exponente es $-5$.
@@ -164,8 +164,8 @@ Si Valentina ahorra \$200.000 con un interés simple anual del 5%, ¿cuánto din
 
 ### Opciones
 - [ ] A) \$210.000 <!-- feedback: Solo calculaste el interés de un año. -->
-- [ ] B) \$220.000 <!-- feedback: Calculaste el interés para 2 años en lugar de 3. -->
-- [x] C) \$230.000 <!-- feedback: Correcto. Interés = $200.000 \times 0,05 \times 3 = 30.000$. Total = $230.000. -->
+- [ ] C) \$220.000 <!-- feedback: Calculaste el interés para 2 años en lugar de 3. -->
+- [x] B) \$230.000 <!-- feedback: Correcto. Interés = $200.000 \times 0,05 \times 3 = 30.000$. Total = $230.000. -->
 - [ ] D) \$231.525 <!-- feedback: Ese sería el cálculo para interés compuesto, no simple. -->
 
 ### Explicacion Pedagogica
@@ -183,8 +183,8 @@ Si el precio original de la polera es \$12.000, ¿cuánto pagará Nicolás final
 
 ### Opciones
 - [ ] A) \$1.800 <!-- feedback: Ese es el valor del descuento, no el precio final. -->
-- [x] B) \$10.200 <!-- feedback: $12.000 - (12.000 \times 0,15) = 10.200$. -->
-- [ ] C) \$10.800 <!-- feedback: Calculaste el 10% de descuento en lugar del 15%. -->
+- [x] C) \$10.200 <!-- feedback: $12.000 - (12.000 \times 0,15) = 10.200$. -->
+- [ ] B) \$10.800 <!-- feedback: Calculaste el 10% de descuento en lugar del 15%. -->
 - [ ] D) \$9.500 <!-- feedback: Error en el cálculo de la resta del descuento. -->
 
 ### Explicacion Pedagogica
@@ -201,10 +201,10 @@ Para obtener el precio final con descuento, calculamos el 15% de \$12.000 ($12.0
 ¿Cuál es el resultado de la operación $0 \times \pi$?
 
 ### Opciones
-- [x] A) 0 <!-- feedback: Cualquier número real multiplicado por cero es siempre cero. -->
-- [ ] B) $\pi$ <!-- feedback: Multiplicar por cero no mantiene el valor del otro número. -->
-- [ ] C) Un número irracional distinto de cero. <!-- feedback: El resultado es racional (cero). -->
-- [ ] D) 1 <!-- feedback: La multiplicación por cero resulta en cero, no en uno. -->
+- [x] D) 0 <!-- feedback: Cualquier número real multiplicado por cero es siempre cero. -->
+- [ ] A) $\pi$ <!-- feedback: Multiplicar por cero no mantiene el valor del otro número. -->
+- [ ] B) Un número irracional distinto de cero. <!-- feedback: El resultado es racional (cero). -->
+- [ ] C) 1 <!-- feedback: La multiplicación por cero resulta en cero, no en uno. -->
 
 ### Explicacion Pedagogica
 Una propiedad fundamental de los números reales es el elemento absorbente de la multiplicación, que es el cero. Sin importar si el otro número es racional o irracional (como $\pi$), el producto siempre será 0.
@@ -221,8 +221,8 @@ Si el volumen de una esfera es $V = \frac{4}{3}\pi r^3$, ¿cuál es el volumen e
 
 ### Opciones
 - [ ] A) $12\pi$ <!-- feedback: Olvidaste elevar el radio al cubo. -->
-- [x] B) $36\pi$ <!-- feedback: $r^3 = 27$. Luego $\frac{4}{3} \cdot 27 = 4 \cdot 9 = 36$. -->
-- [ ] C) $108\pi$ <!-- feedback: Multiplicaste por $r^3$ pero no aplicaste la fracción $\frac{4}{3}$. -->
+- [x] C) $36\pi$ <!-- feedback: $r^3 = 27$. Luego $\frac{4}{3} \cdot 27 = 4 \cdot 9 = 36$. -->
+- [ ] B) $108\pi$ <!-- feedback: Multiplicaste por $r^3$ pero no aplicaste la fracción $\frac{4}{3}$. -->
 - [ ] D) $27\pi$ <!-- feedback: Elevaste al cubo pero no multiplicaste por $\frac{4}{3}$. -->
 
 ### Explicacion Pedagogica
@@ -240,8 +240,8 @@ Simplifique la expresión $\sqrt{18} + \sqrt{50}$.
 
 ### Opciones
 - [ ] A) $\sqrt{68}$ <!-- feedback: Las raíces no se pueden sumar directamente sumando sus argumentos. -->
-- [ ] B) $4\sqrt{2}$ <!-- feedback: Solo calculaste una parte de la suma. -->
-- [x] C) $8\sqrt{2}$ <!-- feedback: $\sqrt{18} = 3\sqrt{2}$ y $\sqrt{50} = 5\sqrt{2}$. Sumados dan $8\sqrt{2}$. -->
+- [ ] C) $4\sqrt{2}$ <!-- feedback: Solo calculaste una parte de la suma. -->
+- [x] B) $8\sqrt{2}$ <!-- feedback: $\sqrt{18} = 3\sqrt{2}$ y $\sqrt{50} = 5\sqrt{2}$. Sumados dan $8\sqrt{2}$. -->
 - [ ] D) $15\sqrt{2}$ <!-- feedback: Multiplicaste los coeficientes en lugar de sumarlos. -->
 
 ### Explicacion Pedagogica
@@ -259,8 +259,8 @@ Si inicialmente hay $2^5$ bacterias, ¿cuántas habrá después de 4 horas? Expr
 
 ### Opciones
 - [ ] A) $2^4$ <!-- feedback: Esa es la cantidad de horas, no el total acumulado. -->
-- [ ] B) $2^{20}$ <!-- feedback: Has multiplicado los exponentes, lo cual es incorrecto en este caso. -->
-- [x] C) $2^9$ <!-- feedback: $2^5 \cdot 2^4 = 2^{5+4} = 2^9$. -->
+- [ ] C) $2^{20}$ <!-- feedback: Has multiplicado los exponentes, lo cual es incorrecto en este caso. -->
+- [x] B) $2^9$ <!-- feedback: $2^5 \cdot 2^4 = 2^{5+4} = 2^9$. -->
 - [ ] D) $2^5 + 2^4$ <!-- feedback: La población crece de forma multiplicativa, no aditiva. -->
 
 ### Explicacion Pedagogica
@@ -278,8 +278,8 @@ Al racionalizar la expresión $\frac{2}{\sqrt{6}}$, ¿cuál es el resultado simp
 
 ### Opciones
 - [ ] A) $\frac{\sqrt{6}}{6}$ <!-- feedback: Olvidaste el factor 2 del numerador. -->
-- [x] B) $\frac{\sqrt{6}}{3}$ <!-- feedback: $\frac{2\sqrt{6}}{6} = \frac{\sqrt{6}}{3}$. -->
-- [ ] C) $\frac{2\sqrt{6}}{3}$ <!-- feedback: Error al simplificar la fracción final. -->
+- [x] C) $\frac{\sqrt{6}}{3}$ <!-- feedback: $\frac{2\sqrt{6}}{6} = \frac{\sqrt{6}}{3}$. -->
+- [ ] B) $\frac{2\sqrt{6}}{3}$ <!-- feedback: Error al simplificar la fracción final. -->
 - [ ] D) $\sqrt{6}$ <!-- feedback: El denominador no desaparece sin dejar rastro. -->
 
 ### Explicacion Pedagogica
@@ -334,8 +334,8 @@ Primero el precio sube: $10.000 + 1.000 = 11.000$. Luego, baja el 10% de ese nue
 Considere los números $A = 0,33$ y $B = 1/3$. ¿Cuál de las siguientes afirmaciones es correcta?
 
 ### Opciones
-- [ ] A) $A$ y $B$ representan el mismo número real. <!-- feedback: Falso. $1/3$ es $0,333...$ (infinito), mientras $0,33$ es finito. -->
-- [x] B) $B > A$ <!-- feedback: $1/3 \approx 0,3333$, lo cual es mayor que $0,3300$. -->
+- [ ] B) $A$ y $B$ representan el mismo número real. <!-- feedback: Falso. $1/3$ es $0,333...$ (infinito), mientras $0,33$ es finito. -->
+- [x] A) $B > A$ <!-- feedback: $1/3 \approx 0,3333$, lo cual es mayor que $0,3300$. -->
 - [ ] C) No existen números reales entre $A$ y $B$. <!-- feedback: Entre dos números reales siempre existen infinitos números. -->
 - [ ] D) $A$ es un número irracional. <!-- feedback: $0,33$ es racional porque se puede escribir como $33/100$. -->
 
@@ -354,9 +354,9 @@ $B = 1/3$ es un número decimal periódico $0,333...$. Al comparar con $A = 0,33
 
 ### Opciones
 - [ ] A) 12 <!-- feedback: Error en el cálculo de las potencias. -->
-- [x] B) 17 <!-- feedback: $2^3 + 3^2 = 8 + 9 = 17$. -->
-- [ ] C) 13 <!-- feedback: Calculaste mal una de las potencias. -->
-- [ ] D) 31 <!-- feedback: Error aritmético mayor. -->
+- [x] D) 17 <!-- feedback: $2^3 + 3^2 = 8 + 9 = 17$. -->
+- [ ] B) 13 <!-- feedback: Calculaste mal una de las potencias. -->
+- [ ] C) 31 <!-- feedback: Error aritmético mayor. -->
 
 ### Explicacion Pedagogica
 Aplicamos la definición de la operación: sustituimos $x=2$ e $y=3$. Entonces $2 \star 3 = 2^3 + 3^2$. Calculamos cada potencia: $2^3 = 8$ y $3^2 = 9$. Sumamos los resultados: $8 + 9 = 17$.
@@ -374,8 +374,8 @@ Aplicamos la definición de la operación: sustituimos $x=2$ e $y=3$. Entonces $
 ### Opciones
 - [ ] A) -4 <!-- feedback: Multiplicaste por 2 en lugar de elevar al cubo. -->
 - [ ] B) No existe en los reales. <!-- feedback: Las raíces cúbicas de números negativos sí existen en $\mathbb{R}$. -->
-- [x] C) -8 <!-- feedback: $(-2)^3 = -8$. -->
-- [ ] D) 8 <!-- feedback: Olvidaste mantener el signo al elevar a una potencia impar. -->
+- [x] D) -8 <!-- feedback: $(-2)^3 = -8$. -->
+- [ ] C) 8 <!-- feedback: Olvidaste mantener el signo al elevar a una potencia impar. -->
 
 ### Explicacion Pedagogica
 Para despejar $x$, elevamos ambos lados de la ecuación al cubo: $(\sqrt[3]{x})^3 = (-2)^3$. Esto nos da $x = -2 \cdot -2 \cdot -2 = -8$. Las raíces de índice impar conservan el signo de la base.
@@ -392,8 +392,8 @@ Para despejar $x$, elevamos ambos lados de la ecuación al cubo: $(\sqrt[3]{x})^
 
 ### Opciones
 - [ ] A) $\sqrt{2} + \sqrt{3}$ <!-- feedback: La suma de estas raíces no exactas es irracional. -->
-- [x] B) $(\sqrt{3} + \sqrt{2})(\sqrt{3} - \sqrt{2})$ <!-- feedback: Es una suma por su diferencia: $3 - 2 = 1$, que es racional. -->
-- [ ] C) $\pi / 2$ <!-- feedback: Un irracional dividido por un racional no nulo es irracional. -->
+- [x] C) $(\sqrt{3} + \sqrt{2})(\sqrt{3} - \sqrt{2})$ <!-- feedback: Es una suma por su diferencia: $3 - 2 = 1$, que es racional. -->
+- [ ] B) $\pi / 2$ <!-- feedback: Un irracional dividido por un racional no nulo es irracional. -->
 - [ ] D) $\sqrt{8} / 2$ <!-- feedback: $\sqrt{8} = 2\sqrt{2}$, al dividir por 2 queda $\sqrt{2}$, que es irracional. -->
 
 ### Explicacion Pedagogica

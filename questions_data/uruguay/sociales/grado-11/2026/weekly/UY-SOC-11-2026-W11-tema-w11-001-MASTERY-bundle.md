@@ -33,9 +33,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Cuál era el objetivo central estipulado en el Tratado de Asunción para los países firmantes?
 
 ### Opciones
-- [x] A) Constituir un mercado común con libre circulación de bienes, servicios y factores productivos.
+- [x] B) Constituir un mercado común con libre circulación de bienes, servicios y factores productivos.
   <!-- feedback: Correcto. El Tratado de Asunción fijó como meta la conformación de un mercado común entre los cuatro Estados partes. -->
-- [ ] B) Crear una moneda única obligatoria para erradicar las monedas nacionales.
+- [ ] A) Crear una moneda única obligatoria para erradicar las monedas nacionales.
   <!-- feedback: Incorrecto. El MERCOSUR no estableció una adopción inmediata de moneda única. -->
 - [ ] C) Unificar las constituciones nacionales en un solo texto legal supranacional.
   <!-- feedback: Incorrecto. Los Estados miembros conservan sus respectivas constituciones nacionales y soberanía. -->
@@ -58,11 +58,11 @@ El Tratado de Asunción (1991) sentó las bases del MERCOSUR orientado a la inte
 ### Opciones
 - [ ] A) La Corte Interamericana de Derechos Humanos.
   <!-- feedback: Incorrecto. La Corte IDH tiene su sede en San José de Costa Rica. -->
-- [x] B) La Secretaría Permanente del MERCOSUR (ubicada en el Edificio MERCOSUR).
+- [x] D) La Secretaría Permanente del MERCOSUR (ubicada en el Edificio MERCOSUR).
   <!-- feedback: Correcto. La Secretaría del MERCOSUR funciona operativamente en la Rambla de Montevideo. -->
-- [ ] C) El Fondo Monetario Internacional para América Latina.
+- [ ] B) El Fondo Monetario Internacional para América Latina.
   <!-- feedback: Incorrecto. El FMI es un organismo multilateral de la ONU con sede en Washington. -->
-- [ ] D) El Consejo de Seguridad del Cono Sur.
+- [ ] C) El Consejo de Seguridad del Cono Sur.
   <!-- feedback: Incorrecto. No existe un organismo militar denominado Consejo de Seguridad del Cono Sur. -->
 
 ### Explicacion Pedagogica
@@ -81,9 +81,9 @@ Montevideo es la capital administrativa del MERCOSUR al albergar la Secretaría 
 ### Opciones
 - [ ] A) La eliminación total de los impuestos a la renta interna.
   <!-- feedback: Incorrecto. Los impuestos internos sobre la renta son potestad soberana de cada país. -->
-- [x] B) La adopción de un Arancel Externo Común (AEC) frente a las importaciones de terceros países.
+- [x] C) La adopción de un Arancel Externo Común (AEC) frente a las importaciones de terceros países.
   <!-- feedback: Correcto. Una unión aduanera fija un arancel externo unificado para comerciar con países ajenos al bloque. -->
-- [ ] C) La prohibición de emitir pasaportes nacionales a los ciudadanos.
+- [ ] B) La prohibición de emitir pasaportes nacionales a los ciudadanos.
   <!-- feedback: Incorrecto. Las uniones aduaneras no eliminan la documentación de identidad o pasaportes nacionales. -->
 - [ ] D) La fijación del mismo salario mínimo legal en todos los municipios.
   <!-- feedback: Incorrecto. Las políticas laborales y salariales siguen regidas por legislaciones locales. -->
@@ -102,9 +102,9 @@ La unión aduanera exige no sólo eliminar aranceles internos entre los socios, 
 ¿Qué norma establece el Protocolo de Ushuaia frente a la ruptura del orden democrático en uno de los Estados miembros?
 
 ### Opciones
-- [ ] A) La intervención militar automática de los países vecinos sin consulta previa.
+- [ ] B) La intervención militar automática de los países vecinos sin consulta previa.
   <!-- feedback: Incorrecto. El protocolo no autoriza intervenciones armadas unilaterales o automáticas. -->
-- [x] B) La suspensión del derecho a participar en los distintos órganos del bloque al país donde se alteró la democracia.
+- [x] A) La suspensión del derecho a participar en los distintos órganos del bloque al país donde se alteró la democracia.
   <!-- feedback: Correcto. El Protocolo de Ushuaia establece la 'cláusula democrática', suspendiendo al país miembro que sufra un quiebre institucional. -->
 - [ ] C) La expulsión definitiva de todos los ciudadanos del país afectado.
   <!-- feedback: Incorrecto. La sanción aplica sobre la representación estatal en el bloque, no sobre los ciudadanos. -->
@@ -148,9 +148,9 @@ La Decisión 32/00 establece la negociación conjunta de acuerdos comerciales, l
 ¿Qué mecanismo intra-bloque se creó mediante el FOCEM para reducir las asimetrías de infraestructura y desarrollo entre los países miembros?
 
 ### Opciones
-- [ ] A) Un fondo de subsidios directos para el consumo de combustible en capitales.
+- [ ] B) Un fondo de subsidios directos para el consumo de combustible en capitales.
   <!-- feedback: Incorrecto. El FOCEM financia proyectos de infraestructura y cohesión social, no consumo individual. -->
-- [x] B) El Fondo para la Convergencia Estructural del MERCOSUR (FOCEM), donde los socios mayores aportan más recursos y los menores reciben mayor financiamiento.
+- [x] A) El Fondo para la Convergencia Estructural del MERCOSUR (FOCEM), donde los socios mayores aportan más recursos y los menores reciben mayor financiamiento.
   <!-- feedback: Correcto. El FOCEM redistribuye fondos para financiar obras de infraestructura, carreteras y redes eléctricas en economías menores como Uruguay y Paraguay. -->
 - [ ] C) La privatización de todos los puertos fluviales de la Cuenca del Plata.
   <!-- feedback: Incorrecto. El FOCEM es un fondo público solidario del bloque regional. -->
@@ -173,9 +173,9 @@ El FOCEM es el instrumento financiero redistributivo del MERCOSUR diseñado para
 ### Opciones
 - [ ] A) La Asamblea General de las Naciones Unidas.
   <!-- feedback: Incorrecto. La ONU es un organismo global de alcance universal, no el tribunal arbitral regional del MERCOSUR. -->
-- [x] B) El Tribunal Permanente de Revisión (TPR) del MERCOSUR.
+- [x] C) El Tribunal Permanente de Revisión (TPR) del MERCOSUR.
   <!-- feedback: Correcto. El TPR, creado por el Protocolo de Olivos, actúa como última instancia arbitral para resolver disputas comerciales intra-bloque. -->
-- [ ] C) La Corte Internacional de Justicia de La Haya.
+- [ ] B) La Corte Internacional de Justicia de La Haya.
   <!-- feedback: Incorrecto. La Haya juzga diferendos entre Estados a nivel global, pero las controversias comerciales específicas del bloque se rigen por el TPR. -->
 - [ ] D) El Consejo Nacional de Economía de Montevideo.
   <!-- feedback: Incorrecto. Es un órgano consultivo nacional uruguayo, no un tribunal de arbitraje regional del MERCOSUR. -->
@@ -240,9 +240,9 @@ El Puerto de Montevideo se consolida como puerto hub logístico regional de la C
 ¿Cuál es una de las limitaciones institucionales actuales del Parlasur respecto a las normas aprobadas por sus parlamentarios?
 
 ### Opciones
-- [ ] A) Que sus resoluciones son leyes obligatorias que derogan las constituciones nacionales.
+- [ ] B) Que sus resoluciones son leyes obligatorias que derogan las constituciones nacionales.
   <!-- feedback: Incorrecto. El Parlasur carece de facultades legislativas supranacionales de efecto directo. -->
-- [x] B) Que sus decisiones y recomendaciones no tienen carácter vinculante o supranacional directo sobre los Estados partes.
+- [x] A) Que sus decisiones y recomendaciones no tienen carácter vinculante o supranacional directo sobre los Estados partes.
   <!-- feedback: Correcto. Las resoluciones del Parlasur requieren ser ratificadas e incorporadas por los parlamentos nacionales de cada país miembro. -->
 - [ ] C) Que sólo pueden integrar el Parlamento ciudadanos nacidos fuera del bloque.
   <!-- feedback: Incorrecto. Es integrado por representantes electos de los Estados partes del MERCOSUR. -->
@@ -265,11 +265,11 @@ El MERCOSUR posee un esquema de integración intergubernamental (no supranaciona
 ### Opciones
 - [ ] A) Porque impide que Uruguay exporte carne y granos hacia los socios del MERCOSUR.
   <!-- feedback: Incorrecto. El AEC grava importaciones extra-bloque, no las exportaciones internas intra-bloque. -->
-- [x] B) Encarece la importación de maquinaria y tecnología avanzada de fuera del bloque, elevando los costos de producción nacional.
+- [x] D) Encarece la importación de maquinaria y tecnología avanzada de fuera del bloque, elevando los costos de producción nacional.
   <!-- feedback: Correcto. Al no producir ciertos bienes de capital avanzados, el arancel alto encarece la adopción de tecnología externa, restando competitividad sistémica. -->
-- [ ] C) Porque obliga a las empresas uruguayas a regalar su producción a terceros países.
+- [ ] B) Porque obliga a las empresas uruguayas a regalar su producción a terceros países.
   <!-- feedback: Incorrecto. No establece donaciones forzosas de bienes industriales. -->
-- [ ] D) Porque incrementa automáticamente la tasa de natalidad en las zonas fronterizas.
+- [ ] C) Porque incrementa automáticamente la tasa de natalidad en las zonas fronterizas.
   <!-- feedback: Incorrecto. No guarda relación directa con parámetros demográficos de natalidad. -->
 
 ### Explicacion Pedagogica
@@ -286,9 +286,9 @@ Para una economía de escala reducida como la de Uruguay, aranceles externos ele
 ¿Qué diferencia la integración de carácter supranacional (como la Unión Europea) del modelo intergubernamental adoptado por el MERCOSUR?
 
 ### Opciones
-- [ ] A) En el modelo intergubernamental las decisiones son adoptadas por un monarca hereditario.
+- [ ] B) En el modelo intergubernamental las decisiones son adoptadas por un monarca hereditario.
   <!-- feedback: Incorrecto. Los gobiernos miembros son democráticos representativos. -->
-- [x] B) En la supranacionalidad los Estados ceden competencias a órganos independientes que dictan normas obligatorias; en el intergubernamentalismo se requiere consenso entre los gobiernos nacionales.
+- [x] A) En la supranacionalidad los Estados ceden competencias a órganos independientes que dictan normas obligatorias; en el intergubernamentalismo se requiere consenso entre los gobiernos nacionales.
   <!-- feedback: Correcto. El MERCOSUR opera por consenso intergubernamental (órganos compuestos por ministros/cancilleres) sin delegación de soberanía a instituciones autónomas con poder vinculante directo. -->
 - [ ] C) En la supranacionalidad se prohíbe el comercio de alimentos entre los países miembros.
   <!-- feedback: Incorrecto. La Unión Europea posee un mercado único agrícola altamente regulado. -->
@@ -334,11 +334,11 @@ Para los países de menor escala geopolítica, el apego al marco normativo inter
 ### Opciones
 - [ ] A) Un retorno al aislamiento comercial de la época colonial del Imperio Español.
   <!-- feedback: Incorrecto. El comercio con China refleja una globalización multipolar contemporánea. -->
-- [x] B) Una reorientación del comercio exterior hacia la cuenca del Pacífico y el Sudeste Asiático, diversificando destinos pero acentuando la demanda de materias primas.
+- [x] D) Una reorientación del comercio exterior hacia la cuenca del Pacífico y el Sudeste Asiático, diversificando destinos pero acentuando la demanda de materias primas.
   <!-- feedback: Correcto. Muestra la multipolaridad global y el peso determinante de Asia en la demanda de alimentos, atando las exportaciones a la dinámica económica china. -->
-- [ ] C) La obligación legal de adoptar el yuan como moneda de curso legal en las escuelas uruguayas.
+- [ ] B) La obligación legal de adoptar el yuan como moneda de curso legal en las escuelas uruguayas.
   <!-- feedback: Incorrecto. La moneda oficial uruguaya es el peso uruguayo y las transacciones internacionales usan divisas acordadas. -->
-- [ ] D) La ruptura completa de todas las relaciones diplomáticas con el resto de América Latina.
+- [ ] C) La ruptura completa de todas las relaciones diplomáticas con el resto de América Latina.
   <!-- feedback: Incorrecto. Uruguay mantiene plenas relaciones diplomáticas e integración regional con América Latina. -->
 
 ### Explicacion Pedagogica
@@ -380,11 +380,11 @@ La integración energética física optimiza la seguridad del abastecimiento, pe
 ### Opciones
 - [ ] A) Comprobar que los productos hayan sido transportados exclusivamente en aeronaves militares.
   <!-- feedback: Incorrecto. El certificado de origen aplica a cualquier medio de transporte comercial. -->
-- [x] B) Garantizar que los productos hayan sido elaborados o transformados sustancialmente dentro del bloque, evitando la triangulación de insumos de terceros países.
+- [x] D) Garantizar que los productos hayan sido elaborados o transformados sustancialmente dentro del bloque, evitando la triangulación de insumos de terceros países.
   <!-- feedback: Correcto. Impide que un producto importado de un país fuera del bloque entre por un socio con arancel bajo y se reexporte sin transformación al resto de los socios (triangulación). -->
-- [ ] C) Determinar el color de la etiqueta exterior en las tiendas de venta al por menor.
+- [ ] B) Determinar el color de la etiqueta exterior en las tiendas de venta al por menor.
   <!-- feedback: Incorrecto. Es un instrumento aduanero de verificación del valor agregado regional. -->
-- [ ] D) Eximir a las grandes corporaciones del pago de salarios a sus trabajadores.
+- [ ] C) Eximir a las grandes corporaciones del pago de salarios a sus trabajadores.
   <!-- feedback: Incorrecto. No regula las relaciones laborales internas de las empresas. -->
 
 ### Explicacion Pedagogica
@@ -401,9 +401,9 @@ Las reglas de origen certifican el porcentaje de insumos y transformación regio
 ¿Qué evidencia estructural sustentada en la política comercial interna fundamenta esta calificación de 'imperfección' en el proceso de integración regional?
 
 ### Opciones
-- [x] A) La persistencia de perforaciones al Arancel Externo Común (listas de excepciones), la falta de libre circulación total de bienes y la ausencia de un código aduanero unificado de aplicación directa.
+- [x] B) La persistencia de perforaciones al Arancel Externo Común (listas de excepciones), la falta de libre circulación total de bienes y la ausencia de un código aduanero unificado de aplicación directa.
   <!-- feedback: Correcto. La existencia de múltiples excepciones arancelarias nacionales, aranceles perforados y controles fronterizos persistentes impide consolidar una unión aduanera pura. -->
-- [ ] B) La prohibición absoluta de que los ciudadanos de los países miembros crucen las fronteras terrestres.
+- [ ] A) La prohibición absoluta de que los ciudadanos de los países miembros crucen las fronteras terrestres.
   <!-- feedback: Incorrecto. Existe libre residencia y tránsito de personas bajo el Acuerdo de Residencia del MERCOSUR. -->
 - [ ] C) El uso exclusivo del dólar estadounidense en el comercio minorista de las ciudades fronterizas.
   <!-- feedback: Incorrecto. El comercio de frontera usa monedas locales o divisas según acuerdo libre de partes. -->
@@ -426,9 +426,9 @@ La presencia de listas de excepciones arancelarias, regímenes especiales y cont
 ### Opciones
 - [ ] A) Accede a mercados con arancel cero pero pierde por completo la capacidad de emitir moneda nacional.
   <!-- feedback: Incorrecto. Los acuerdos comerciales de última generación no imponen unión monetaria. -->
-- [x] B) Gana acceso preferencial a grandes mercados de consumo pero acota su margen de maniobra autónomo (*policy space*) en regulación estatal, patentes y compras públicas.
+- [x] C) Gana acceso preferencial a grandes mercados de consumo pero acota su margen de maniobra autónomo (*policy space*) en regulación estatal, patentes y compras públicas.
   <!-- feedback: Correcto. Los acuerdos modernos reducen aranceles pero imponen disciplinas estrictas que limitan el espacio de políticas públicas para subsidios o compras preferenciales del Estado. -->
-- [ ] C) Obtiene financiamiento ilimitado a tasa cero a cambio de ceder sus reservas de agua dulce.
+- [ ] B) Obtiene financiamiento ilimitado a tasa cero a cambio de ceder sus reservas de agua dulce.
   <!-- feedback: Incorrecto. No son tratados de crédito financiero por soberanía de recursos hídricos. -->
 - [ ] D) Logra la eliminación de todas las enfermedades infecciosas en su territorio inmediatamente.
   <!-- feedback: Incorrecto. Son instrumentos normativos de comercio e inversiones, no tratados sanitarios milagrosos. -->
@@ -449,9 +449,9 @@ Los acuerdos megaregionales de nueva generación amplían mercados exportadores 
 ### Opciones
 - [ ] A) La dependencia de los vientos alisios para la generación de energía eólica costera.
   <!-- feedback: Incorrecto. Los vientos alisios corresponden a latitudes tropicales; Uruguay está en zona templada. -->
-- [x] B) La exposición extrema a la volatilidad de los precios internacionales de las *commodities* agrícolas y los shocks climáticos sobre el sector primario.
+- [x] C) La exposición extrema a la volatilidad de los precios internacionales de las *commodities* agrícolas y los shocks climáticos sobre el sector primario.
   <!-- feedback: Correcto. Exportar servicios basados en el conocimiento reduce la vulnerabilidad macroeconómica frente a los ciclos descendentes de precios de bienes primarios e intemperies climáticas. -->
-- [ ] C) La necesidad de contar con profesionales universitarios formados en la educación pública.
+- [ ] B) La necesidad de contar con profesionales universitarios formados en la educación pública.
   <!-- feedback: Incorrecto. Las industrias del conocimiento requieren precisamente un capital humano altamente capacitado. -->
 - [ ] D) El riesgo de que el Océano Atlántico pierda salinidad de forma irreversible.
   <!-- feedback: Incorrecto. La diversificación productiva busca estabilidad macroeconómica y resiliencia externa. -->
@@ -472,11 +472,11 @@ Exportar servicios intensivos en conocimiento desacopla parcialmente los ingreso
 ### Opciones
 - [ ] A) Generan empleo altamente calificado pero prohíben el ingreso de tecnología digital a las empresas.
   <!-- feedback: Incorrecto. Las zonas francas son polos de alta adopción y desarrollo tecnológico. -->
-- [x] B) Generan empleo, inversiones y divisas por exportación, pero eximen de impuestos nacionales a grandes corporaciones reduciendo la base de recaudación del Estado.
+- [x] D) Generan empleo, inversiones y divisas por exportación, pero eximen de impuestos nacionales a grandes corporaciones reduciendo la base de recaudación del Estado.
   <!-- feedback: Correcto. Las zonas francas exoneran tributos (IRAE, IVA) para atraer grandes inversiones, generando un debate sobre la renuncia fiscal frente al beneficio en empleos y encadenamientos. -->
-- [ ] C) Aumentan la recaudación del IVA pero prohíben la contratación de trabajadores uruguayos.
+- [ ] B) Aumentan la recaudación del IVA pero prohíben la contratación de trabajadores uruguayos.
   <!-- feedback: Incorrecto. Exigen por ley un mínimo de 75% de mano de obra uruguaya. -->
-- [ ] D) Eliminan las exportaciones del país al concentrar la venta únicamente en el mercado interno.
+- [ ] C) Eliminan las exportaciones del país al concentrar la venta únicamente en el mercado interno.
   <!-- feedback: Incorrecto. Las zonas francas producen bienes y servicios destinados primordialmente a la exportación externa. -->
 
 ### Explicacion Pedagogica

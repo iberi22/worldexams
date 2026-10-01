@@ -37,9 +37,9 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) Cuando terminan en cualquier consonante menos la n o la s. <!-- feedback: Incorrecto. Esa es la regla de las palabras graves. -->
-- [x] B) Cuando terminan en n, s o vocal. <!-- feedback: Correcto. Ejemplos: camión, compás, café. -->
-- [ ] C) Siempre llevan tilde, sin importar en qué letra terminen. <!-- feedback: Incorrecto. Esa es la regla de las esdrújulas. -->
-- [ ] D) Solo cuando se escriben con mayúscula inicial. <!-- feedback: Incorrecto. Las mayúsculas también siguen las reglas generales de acentuación. -->
+- [x] D) Cuando terminan en n, s o vocal. <!-- feedback: Correcto. Ejemplos: camión, compás, café. -->
+- [ ] B) Siempre llevan tilde, sin importar en qué letra terminen. <!-- feedback: Incorrecto. Esa es la regla de las esdrújulas. -->
+- [ ] C) Solo cuando se escriben con mayúscula inicial. <!-- feedback: Incorrecto. Las mayúsculas también siguen las reglas generales de acentuación. -->
 
 ### Explicacion Pedagogica
 Las palabras agudas se tildan si terminan en las consonantes n o s, o en cualquiera de las cinco vocales. Esta regla ayuda a identificar la pronunciación correcta de miles de palabras en español.
@@ -57,9 +57,9 @@ Las palabras agudas se tildan si terminan en las consonantes n o s, o en cualqui
 ¿Cuál de las siguientes opciones contiene solo palabras **esdrújulas**?
 
 ### Opciones
-- [ ] A) Balón, café, canción. <!-- feedback: Incorrecto. Son palabras agudas con tilde. -->
-- [ ] B) Mesa, silla, puerta. <!-- feedback: Incorrecto. Son palabras graves sin tilde. -->
-- [x] C) Música, teléfono, pájaro. <!-- feedback: Correcto. Son palabras cuya sílaba tónica es la antepenúltima y siempre se tildan. -->
+- [ ] B) Balón, café, canción. <!-- feedback: Incorrecto. Son palabras agudas con tilde. -->
+- [ ] C) Mesa, silla, puerta. <!-- feedback: Incorrecto. Son palabras graves sin tilde. -->
+- [x] A) Música, teléfono, pájaro. <!-- feedback: Correcto. Son palabras cuya sílaba tónica es la antepenúltima y siempre se tildan. -->
 - [ ] D) Computador, pared, reloj. <!-- feedback: Incorrecto. Son palabras agudas sin tilde. -->
 
 ### Explicacion Pedagogica
@@ -101,8 +101,8 @@ Existe una regla ortográfica clara: los verbos que terminan en -bir se escriben
 ### Opciones
 - [ ] A) Hielo. <!-- feedback: Correcto. Se escribe con "h" inicial antes del diptongo "ie". -->
 - [ ] B) Hueco. <!-- feedback: Correcto. Se escribe con "h" inicial antes del diptongo "ue". -->
-- [x] C) Erbol. <!-- feedback: Incorrecto. La palabra correcta es "Árbol" (con tilde y sin h). -->
-- [ ] D) Zanahoria. <!-- feedback: Correcto. Lleva una "h" intermedia. -->
+- [x] D) Erbol. <!-- feedback: Incorrecto. La palabra correcta es "Árbol" (con tilde y sin h). -->
+- [ ] C) Zanahoria. <!-- feedback: Correcto. Lleva una "h" intermedia. -->
 
 ### Explicacion Pedagogica
 La letra "h" es muda en español, pero su uso responde a la etimología y a reglas específicas, como preceder a los diptongos ia, ie, ue, ui al inicio de palabra.
@@ -120,9 +120,9 @@ La letra "h" es muda en español, pero su uso responde a la etimología y a regl
 En la oración: "Compré manzanas, peras, bananos y uvas", ¿qué función cumple la **coma**?
 
 ### Opciones
-- [ ] A) Indicar que el autor está muy cansado de escribir. <!-- feedback: Incorrecto. La puntuación no mide el cansancio del autor. -->
-- [ ] B) Separar el sujeto del predicado. <!-- feedback: Incorrecto. Nunca se debe poner coma entre el sujeto y el verbo. -->
-- [x] C) Separar los elementos de una enumeración sencilla. <!-- feedback: Correcto. Es uno de los usos más básicos y frecuentes de la coma. -->
+- [ ] B) Indicar que el autor está muy cansado de escribir. <!-- feedback: Incorrecto. La puntuación no mide el cansancio del autor. -->
+- [ ] C) Separar el sujeto del predicado. <!-- feedback: Incorrecto. Nunca se debe poner coma entre el sujeto y el verbo. -->
+- [x] A) Separar los elementos de una enumeración sencilla. <!-- feedback: Correcto. Es uno de los usos más básicos y frecuentes de la coma. -->
 - [ ] D) Indicar que la oración ha terminado definitivamente. <!-- feedback: Incorrecto. Esa es la función del punto final. -->
 
 ### Explicacion Pedagogica
@@ -142,9 +142,9 @@ La coma enumerativa permite organizar los elementos de una serie, facilitando la
 
 ### Opciones
 - [ ] A) Al final de cada párrafo para que se vea más elegante. <!-- feedback: Incorrecto. Los dos puntos tienen funciones conectivas específicas. -->
-- [x] B) Antes de empezar una cita textual o una enumeración anunciada. <!-- feedback: Correcto. Ejemplo: El profesor dijo: "Saquen sus cuadernos". -->
-- [ ] C) Entre el artículo y el sustantivo. <!-- feedback: Incorrecto. Rompe la unidad de la frase sin sentido. -->
-- [ ] D) Después de un signo de interrogación. <!-- feedback: Incorrecto. No es un uso normativo de los dos puntos. -->
+- [x] D) Antes de empezar una cita textual o una enumeración anunciada. <!-- feedback: Correcto. Ejemplo: El profesor dijo: "Saquen sus cuadernos". -->
+- [ ] B) Entre el artículo y el sustantivo. <!-- feedback: Incorrecto. Rompe la unidad de la frase sin sentido. -->
+- [ ] C) Después de un signo de interrogación. <!-- feedback: Incorrecto. No es un uso normativo de los dos puntos. -->
 
 ### Explicacion Pedagogica
 Los dos puntos detienen el discurso para llamar la atención sobre lo que sigue, que generalmente es una explicación, una enumeración o una cita literal.
@@ -162,8 +162,8 @@ Los dos puntos detienen el discurso para llamar la atención sobre lo que sigue,
 Completa la oración correctamente: "¿___ no viniste a la fiesta? Es ___ no tenía permiso".
 
 ### Opciones
-- [ ] A) Porque / Por qué. <!-- feedback: Incorrecto. El orden y las formas están invertidos. -->
-- [x] B) Por qué / porque. <!-- feedback: Correcto. "Por qué" (separado y con tilde) se usa para preguntas; "porque" (pegado y sin tilde) se usa para responder dando una causa. -->
+- [ ] B) Porque / Por qué. <!-- feedback: Incorrecto. El orden y las formas están invertidos. -->
+- [x] A) Por qué / porque. <!-- feedback: Correcto. "Por qué" (separado y con tilde) se usa para preguntas; "porque" (pegado y sin tilde) se usa para responder dando una causa. -->
 - [ ] C) Porqué / por que. <!-- feedback: Incorrecto. "Porqué" es un sustantivo y "por que" tiene otros usos relativos. -->
 - [ ] D) Porque / porque. <!-- feedback: Incorrecto. La pregunta requiere la forma separada y tildada. -->
 
@@ -184,8 +184,8 @@ Estas cuatro formas son homófonas pero tienen funciones gramaticales distintas.
 
 ### Opciones
 - [ ] A) el río magdalena nace en el huila y llega al atlántico. <!-- feedback: Incorrecto. Los nombres propios de accidentes geográficos y departamentos deben iniciar con mayúscula. -->
-- [x] B) El río Magdalena atraviesa gran parte de Colombia. <!-- feedback: Correcto. Se usa mayúscula al inicio de la oración y en los nombres propios geográficos. -->
-- [ ] C) Colombia Tiene Muchos Ríos Importantes En Su Territorio. <!-- feedback: Incorrecto. No se debe poner mayúscula en cada palabra (como ríos o importantes). -->
+- [x] C) El río Magdalena atraviesa gran parte de Colombia. <!-- feedback: Correcto. Se usa mayúscula al inicio de la oración y en los nombres propios geográficos. -->
+- [ ] B) Colombia Tiene Muchos Ríos Importantes En Su Territorio. <!-- feedback: Incorrecto. No se debe poner mayúscula en cada palabra (como ríos o importantes). -->
 - [ ] D) EN EL COLEGIO ESTUDIAMOS LA GEOGRAFÍA NACIONAL. <!-- feedback: Incorrecto. El uso de mayúsculas sostenidas no es adecuado para este tipo de enunciados. -->
 
 ### Explicacion Pedagogica
@@ -205,8 +205,8 @@ Las mayúsculas sirven para jerarquizar la información y distinguir los nombres
 
 ### Opciones
 - [ ] A) Cuando funciona como pronombre personal. <!-- feedback: Incorrecto. Como pronombre es "te" (sin tilde). -->
-- [x] B) Cuando se refiere a la planta o a la infusión (bebida). <!-- feedback: Correcto. Es una tilde diacrítica para diferenciar el sustantivo del pronombre. -->
-- [ ] C) Siempre que aparezca al final de una pregunta. <!-- feedback: Incorrecto. La posición no determina la tilde en este caso. -->
+- [x] C) Cuando se refiere a la planta o a la infusión (bebida). <!-- feedback: Correcto. Es una tilde diacrítica para diferenciar el sustantivo del pronombre. -->
+- [ ] B) Siempre que aparezca al final de una pregunta. <!-- feedback: Incorrecto. La posición no determina la tilde en este caso. -->
 - [ ] D) Solo si la palabra se escribe en una taza de porcelana. <!-- feedback: Incorrecto. La ortografía no depende del soporte físico. -->
 
 ### Explicacion Pedagogica
@@ -226,8 +226,8 @@ Lee el párrafo: "ayer valla a la kalle i vi un pajaro azul". ¿Cuál es la corr
 
 ### Opciones
 - [ ] A) Ayer vaya a la calle y vi un pájaro azul. <!-- feedback: Incorrecto. El verbo "vaya" está mal conjugado para el pasado. -->
-- [x] B) Ayer fui a la calle y vi un pájaro azul. <!-- feedback: Correcto. Corrige la mayúscula inicial, el verbo en pasado, la letra "c", la conjunción "y" y la tilde en "pájaro". -->
-- [ ] C) Ayer fuy a la calle y bi un pajaro azul. <!-- feedback: Incorrecto. "Fuy" y "bi" son errores ortográficos graves. -->
+- [x] C) Ayer fui a la calle y vi un pájaro azul. <!-- feedback: Correcto. Corrige la mayúscula inicial, el verbo en pasado, la letra "c", la conjunción "y" y la tilde en "pájaro". -->
+- [ ] B) Ayer fuy a la calle y bi un pajaro azul. <!-- feedback: Incorrecto. "Fuy" y "bi" son errores ortográficos graves. -->
 - [ ] D) Ayer fui a la calle y vi un pajaro azul. <!-- feedback: Incorrecto. Falta la tilde en la palabra esdrújula "pájaro". -->
 
 ### Explicacion Pedagogica

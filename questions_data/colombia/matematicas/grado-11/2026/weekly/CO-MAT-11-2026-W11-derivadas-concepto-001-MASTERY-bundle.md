@@ -32,9 +32,9 @@ Este bundle contiene 20 preguntas sobre **derivadas-concepto** para grado 11, al
 ### Enunciado
 ¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?
 ### Opciones
-- [x] A) $2t + 3$
+- [x] B) $2t + 3$
   <!-- feedback: Correcto. Aplicando la regla de la potencia: $\frac{d}{dt}(1t^2) = 2(1)t = 2t$ y $\frac{d}{dt}(3t) = 3$. -->
-- [ ] B) $1t + 3$
+- [ ] A) $1t + 3$
   <!-- feedback: Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2. -->
 - [ ] C) $2t$
   <!-- feedback: Incorrecto. Omitiste derivar el término lineal 3t. -->
@@ -92,13 +92,13 @@ Por la regla de la potencia $\frac{d}{dt}(a t^n) = a \cdot n t^{n-1}$, la deriva
 ### Enunciado
 ¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?
 ### Opciones
-- [x] A) $8t + 3$
+- [x] D) $8t + 3$
   <!-- feedback: Correcto. Aplicando la regla de la potencia: $\frac{d}{dt}(4t^2) = 2(4)t = 8t$ y $\frac{d}{dt}(3t) = 3$. -->
-- [ ] B) $4t + 3$
+- [ ] A) $4t + 3$
   <!-- feedback: Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2. -->
-- [ ] C) $8t$
+- [ ] B) $8t$
   <!-- feedback: Incorrecto. Omitiste derivar el término lineal 3t. -->
-- [ ] D) $4t^2 + 3$
+- [ ] C) $4t^2 + 3$
   <!-- feedback: Incorrecto. No aplicaste la regla de derivación a t^2. -->
 ### Explicacion Pedagogica
 Por la regla de la potencia $\frac{d}{dt}(a t^n) = a \cdot n t^{n-1}$, la derivada de $4t^2$ es $8t$ y la de $3t$ es $3$. Así, $s'(t) = 8t + 3$.
@@ -112,11 +112,11 @@ Por la regla de la potencia $\frac{d}{dt}(a t^n) = a \cdot n t^{n-1}$, la deriva
 ### Enunciado
 ¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?
 ### Opciones
-- [x] A) $10t + 3$
+- [x] C) $10t + 3$
   <!-- feedback: Correcto. Aplicando la regla de la potencia: $\frac{d}{dt}(5t^2) = 2(5)t = 10t$ y $\frac{d}{dt}(3t) = 3$. -->
-- [ ] B) $5t + 3$
+- [ ] A) $5t + 3$
   <!-- feedback: Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2. -->
-- [ ] C) $10t$
+- [ ] B) $10t$
   <!-- feedback: Incorrecto. Omitiste derivar el término lineal 3t. -->
 - [ ] D) $5t^2 + 3$
   <!-- feedback: Incorrecto. No aplicaste la regla de derivación a t^2. -->
@@ -152,13 +152,13 @@ Por la regla de la potencia $\frac{d}{dt}(a t^n) = a \cdot n t^{n-1}$, la deriva
 ### Enunciado
 ¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?
 ### Opciones
-- [x] A) $14t + 3$
+- [x] D) $14t + 3$
   <!-- feedback: Correcto. Aplicando la regla de la potencia: $\frac{d}{dt}(7t^2) = 2(7)t = 14t$ y $\frac{d}{dt}(3t) = 3$. -->
-- [ ] B) $7t + 3$
+- [ ] A) $7t + 3$
   <!-- feedback: Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2. -->
-- [ ] C) $14t$
+- [ ] B) $14t$
   <!-- feedback: Incorrecto. Omitiste derivar el término lineal 3t. -->
-- [ ] D) $7t^2 + 3$
+- [ ] C) $7t^2 + 3$
   <!-- feedback: Incorrecto. No aplicaste la regla de derivación a t^2. -->
 ### Explicacion Pedagogica
 Por la regla de la potencia $\frac{d}{dt}(a t^n) = a \cdot n t^{n-1}$, la derivada de $7t^2$ es $14t$ y la de $3t$ es $3$. Así, $s'(t) = 14t + 3$.
@@ -172,13 +172,13 @@ Por la regla de la potencia $\frac{d}{dt}(a t^n) = a \cdot n t^{n-1}$, la deriva
 ### Enunciado
 ¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?
 ### Opciones
-- [x] A) $16t + 3$
+- [x] D) $16t + 3$
   <!-- feedback: Correcto. Aplicando la regla de la potencia: $\frac{d}{dt}(8t^2) = 2(8)t = 16t$ y $\frac{d}{dt}(3t) = 3$. -->
-- [ ] B) $8t + 3$
+- [ ] A) $8t + 3$
   <!-- feedback: Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2. -->
-- [ ] C) $16t$
+- [ ] B) $16t$
   <!-- feedback: Incorrecto. Omitiste derivar el término lineal 3t. -->
-- [ ] D) $8t^2 + 3$
+- [ ] C) $8t^2 + 3$
   <!-- feedback: Incorrecto. No aplicaste la regla de derivación a t^2. -->
 ### Explicacion Pedagogica
 Por la regla de la potencia $\frac{d}{dt}(a t^n) = a \cdot n t^{n-1}$, la derivada de $8t^2$ es $16t$ y la de $3t$ es $3$. Así, $s'(t) = 16t + 3$.
@@ -192,13 +192,13 @@ Por la regla de la potencia $\frac{d}{dt}(a t^n) = a \cdot n t^{n-1}$, la deriva
 ### Enunciado
 ¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?
 ### Opciones
-- [x] A) $18t + 3$
+- [x] D) $18t + 3$
   <!-- feedback: Correcto. Aplicando la regla de la potencia: $\frac{d}{dt}(9t^2) = 2(9)t = 18t$ y $\frac{d}{dt}(3t) = 3$. -->
-- [ ] B) $9t + 3$
+- [ ] A) $9t + 3$
   <!-- feedback: Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2. -->
-- [ ] C) $18t$
+- [ ] B) $18t$
   <!-- feedback: Incorrecto. Omitiste derivar el término lineal 3t. -->
-- [ ] D) $9t^2 + 3$
+- [ ] C) $9t^2 + 3$
   <!-- feedback: Incorrecto. No aplicaste la regla de derivación a t^2. -->
 ### Explicacion Pedagogica
 Por la regla de la potencia $\frac{d}{dt}(a t^n) = a \cdot n t^{n-1}$, la derivada de $9t^2$ es $18t$ y la de $3t$ es $3$. Así, $s'(t) = 18t + 3$.
@@ -212,13 +212,13 @@ Por la regla de la potencia $\frac{d}{dt}(a t^n) = a \cdot n t^{n-1}$, la deriva
 ### Enunciado
 ¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?
 ### Opciones
-- [x] A) $20t + 3$
+- [x] D) $20t + 3$
   <!-- feedback: Correcto. Aplicando la regla de la potencia: $\frac{d}{dt}(10t^2) = 2(10)t = 20t$ y $\frac{d}{dt}(3t) = 3$. -->
-- [ ] B) $10t + 3$
+- [ ] A) $10t + 3$
   <!-- feedback: Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2. -->
-- [ ] C) $20t$
+- [ ] B) $20t$
   <!-- feedback: Incorrecto. Omitiste derivar el término lineal 3t. -->
-- [ ] D) $10t^2 + 3$
+- [ ] C) $10t^2 + 3$
   <!-- feedback: Incorrecto. No aplicaste la regla de derivación a t^2. -->
 ### Explicacion Pedagogica
 Por la regla de la potencia $\frac{d}{dt}(a t^n) = a \cdot n t^{n-1}$, la derivada de $10t^2$ es $20t$ y la de $3t$ es $3$. Así, $s'(t) = 20t + 3$.
@@ -252,9 +252,9 @@ Por la regla de la potencia $\frac{d}{dt}(a t^n) = a \cdot n t^{n-1}$, la deriva
 ### Enunciado
 ¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?
 ### Opciones
-- [x] A) $24t + 3$
+- [x] B) $24t + 3$
   <!-- feedback: Correcto. Aplicando la regla de la potencia: $\frac{d}{dt}(12t^2) = 2(12)t = 24t$ y $\frac{d}{dt}(3t) = 3$. -->
-- [ ] B) $12t + 3$
+- [ ] A) $12t + 3$
   <!-- feedback: Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2. -->
 - [ ] C) $24t$
   <!-- feedback: Incorrecto. Omitiste derivar el término lineal 3t. -->
@@ -272,9 +272,9 @@ Por la regla de la potencia $\frac{d}{dt}(a t^n) = a \cdot n t^{n-1}$, la deriva
 ### Enunciado
 ¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?
 ### Opciones
-- [x] A) $26t + 3$
+- [x] B) $26t + 3$
   <!-- feedback: Correcto. Aplicando la regla de la potencia: $\frac{d}{dt}(13t^2) = 2(13)t = 26t$ y $\frac{d}{dt}(3t) = 3$. -->
-- [ ] B) $13t + 3$
+- [ ] A) $13t + 3$
   <!-- feedback: Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2. -->
 - [ ] C) $26t$
   <!-- feedback: Incorrecto. Omitiste derivar el término lineal 3t. -->
@@ -292,11 +292,11 @@ Por la regla de la potencia $\frac{d}{dt}(a t^n) = a \cdot n t^{n-1}$, la deriva
 ### Enunciado
 ¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?
 ### Opciones
-- [x] A) $28t + 3$
+- [x] C) $28t + 3$
   <!-- feedback: Correcto. Aplicando la regla de la potencia: $\frac{d}{dt}(14t^2) = 2(14)t = 28t$ y $\frac{d}{dt}(3t) = 3$. -->
-- [ ] B) $14t + 3$
+- [ ] A) $14t + 3$
   <!-- feedback: Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2. -->
-- [ ] C) $28t$
+- [ ] B) $28t$
   <!-- feedback: Incorrecto. Omitiste derivar el término lineal 3t. -->
 - [ ] D) $14t^2 + 3$
   <!-- feedback: Incorrecto. No aplicaste la regla de derivación a t^2. -->
@@ -312,9 +312,9 @@ Por la regla de la potencia $\frac{d}{dt}(a t^n) = a \cdot n t^{n-1}$, la deriva
 ### Enunciado
 ¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?
 ### Opciones
-- [x] A) $30t + 3$
+- [x] B) $30t + 3$
   <!-- feedback: Correcto. Aplicando la regla de la potencia: $\frac{d}{dt}(15t^2) = 2(15)t = 30t$ y $\frac{d}{dt}(3t) = 3$. -->
-- [ ] B) $15t + 3$
+- [ ] A) $15t + 3$
   <!-- feedback: Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2. -->
 - [ ] C) $30t$
   <!-- feedback: Incorrecto. Omitiste derivar el término lineal 3t. -->
@@ -352,9 +352,9 @@ Por la regla de la potencia $\frac{d}{dt}(a t^n) = a \cdot n t^{n-1}$, la deriva
 ### Enunciado
 ¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?
 ### Opciones
-- [x] A) $34t + 3$
+- [x] B) $34t + 3$
   <!-- feedback: Correcto. Aplicando la regla de la potencia: $\frac{d}{dt}(17t^2) = 2(17)t = 34t$ y $\frac{d}{dt}(3t) = 3$. -->
-- [ ] B) $17t + 3$
+- [ ] A) $17t + 3$
   <!-- feedback: Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2. -->
 - [ ] C) $34t$
   <!-- feedback: Incorrecto. Omitiste derivar el término lineal 3t. -->
@@ -372,9 +372,9 @@ Por la regla de la potencia $\frac{d}{dt}(a t^n) = a \cdot n t^{n-1}$, la deriva
 ### Enunciado
 ¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?
 ### Opciones
-- [x] A) $36t + 3$
+- [x] B) $36t + 3$
   <!-- feedback: Correcto. Aplicando la regla de la potencia: $\frac{d}{dt}(18t^2) = 2(18)t = 36t$ y $\frac{d}{dt}(3t) = 3$. -->
-- [ ] B) $18t + 3$
+- [ ] A) $18t + 3$
   <!-- feedback: Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2. -->
 - [ ] C) $36t$
   <!-- feedback: Incorrecto. Omitiste derivar el término lineal 3t. -->
@@ -392,9 +392,9 @@ Por la regla de la potencia $\frac{d}{dt}(a t^n) = a \cdot n t^{n-1}$, la deriva
 ### Enunciado
 ¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?
 ### Opciones
-- [x] A) $38t + 3$
+- [x] B) $38t + 3$
   <!-- feedback: Correcto. Aplicando la regla de la potencia: $\frac{d}{dt}(19t^2) = 2(19)t = 38t$ y $\frac{d}{dt}(3t) = 3$. -->
-- [ ] B) $19t + 3$
+- [ ] A) $19t + 3$
   <!-- feedback: Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2. -->
 - [ ] C) $38t$
   <!-- feedback: Incorrecto. Omitiste derivar el término lineal 3t. -->
@@ -412,13 +412,13 @@ Por la regla de la potencia $\frac{d}{dt}(a t^n) = a \cdot n t^{n-1}$, la deriva
 ### Enunciado
 ¿Cuál es la función derivada $s'(t)$ que representa la velocidad instantánea del vehículo?
 ### Opciones
-- [x] A) $40t + 3$
+- [x] D) $40t + 3$
   <!-- feedback: Correcto. Aplicando la regla de la potencia: $\frac{d}{dt}(20t^2) = 2(20)t = 40t$ y $\frac{d}{dt}(3t) = 3$. -->
-- [ ] B) $20t + 3$
+- [ ] A) $20t + 3$
   <!-- feedback: Incorrecto. Olvidaste multiplicar el coeficiente por el exponente 2. -->
-- [ ] C) $40t$
+- [ ] B) $40t$
   <!-- feedback: Incorrecto. Omitiste derivar el término lineal 3t. -->
-- [ ] D) $20t^2 + 3$
+- [ ] C) $20t^2 + 3$
   <!-- feedback: Incorrecto. No aplicaste la regla de derivación a t^2. -->
 ### Explicacion Pedagogica
 Por la regla de la potencia $\frac{d}{dt}(a t^n) = a \cdot n t^{n-1}$, la derivada de $20t^2$ es $40t$ y la de $3t$ es $3$. Así, $s'(t) = 40t + 3$.

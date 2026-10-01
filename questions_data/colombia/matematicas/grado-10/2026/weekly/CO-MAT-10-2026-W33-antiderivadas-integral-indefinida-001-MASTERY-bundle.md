@@ -54,11 +54,11 @@ Una antiderivada de $f$ es una función $F$ cuya derivada es $f$. Decimos que $F
 ### Opciones
 - [ ] A) Porque depende del sistema de coordenadas que se elija.
   <!-- feedback: Incorrecto. La elección de coordenadas no afecta la antiderivada. -->
-- [x] B) Porque si $F(x)$ es una antiderivada, entonces $F(x) + C$ también lo es, para cualquier constante $C$.
+- [x] D) Porque si $F(x)$ es una antiderivada, entonces $F(x) + C$ también lo es, para cualquier constante $C$.
   <!-- feedback: Correcto. La derivada de una constante es $0$, así que se mantiene la igualdad $F' = f$. -->
-- [ ] C) Porque solo existe cuando $f$ es lineal.
+- [ ] B) Porque solo existe cuando $f$ es lineal.
   <!-- feedback: Incorrecto. Existen antiderivadas para funciones no lineales también. -->
-- [ ] D) Porque la derivada solo se puede calcular una vez.
+- [ ] C) Porque la derivada solo se puede calcular una vez.
   <!-- feedback: Incorrecto. La derivada no limita el número de antiderivadas. -->
 ### Explicacion Pedagogica
 Si $F'(x) = f(x)$, entonces $(F(x) + C)' = F'(x) + 0 = f(x)$. Por eso toda familia $F(x) + C$ es el conjunto completo de antiderivadas de $f$.
@@ -76,9 +76,9 @@ Si $F'(x) = f(x)$, entonces $(F(x) + C)' = F'(x) + 0 = f(x)$. Por eso toda famil
   <!-- feedback: Incorrecto. Falta dividir por el nuevo exponente $2$, aplicando la regla de la potencia. -->
 - [ ] B) $x^2$
   <!-- feedback: Incorrecto. Aunque su derivada es $2x$, le falta la constante $+C$ de la integral indefinida. -->
-- [x] C) $x^2 + C$
+- [x] D) $x^2 + C$
   <!-- feedback: Correcto. La derivada de $x^2 + C$ es $2x$, por lo que es la integral indefinida correcta. -->
-- [ ] D) $x + C$
+- [ ] C) $x + C$
   <!-- feedback: Incorrecto. La derivada de $x + C$ es $1$, no $2x$. -->
 ### Explicacion Pedagogica
 La integral indefinida $\int 2x \, dx = x^2 + C$ incluye la constante $+C$ porque cualquier constante se anula al derivar, dando así todas las antiderivadas de $2x$.
@@ -94,11 +94,11 @@ La integral indefinida $\int 2x \, dx = x^2 + C$ incluye la constante $+C$ porqu
 ### Opciones
 - [ ] A) $5x^2 + C$
   <!-- feedback: Incorrecto. Multiplicaste $5$ por un $x$ inexistente y elevaste al cuadrado. -->
-- [x] B) $5x + C$
+- [x] D) $5x + C$
   <!-- feedback: Correcto. La antiderivada de una constante $k$ es $kx + C$, ya que la derivada de $5x$ es $5$. -->
-- [ ] C) $C$
+- [ ] B) $C$
   <!-- feedback: Incorrecto. La integral de una constante no es solo otra constante. -->
-- [ ] D) $5 + C$
+- [ ] C) $5 + C$
   <!-- feedback: Incorrecto. No se incluye la variable $x$ en la respuesta. -->
 ### Explicacion Pedagogica
 La integral indefinida de una constante $k$ es $kx + C$ porque la derivada de $kx$ es exactamente $k$.
@@ -112,11 +112,11 @@ La integral indefinida de una constante $k$ es $kx + C$ porque la derivada de $k
 ### Enunciado
 ¿Cuál es la antiderivada de $x^3$ usando la regla de la potencia para integrales?
 ### Opciones
-- [ ] A) $3x^2 + C$
+- [ ] B) $3x^2 + C$
   <!-- feedback: Incorrecto. Esa es la derivada de $x^3$, no su antiderivada. -->
-- [ ] B) $x^4 + C$
+- [ ] C) $x^4 + C$
   <!-- feedback: Incorrecto. Multiplicaste por $4$ en vez de dividir. -->
-- [x] C) $\frac{x^4}{4} + C$
+- [x] A) $\frac{x^4}{4} + C$
   <!-- feedback: Correcto. Por la regla: $\int x^n \, dx = \frac{x^{n+1}}{n+1} + C$, con $n = 3$. -->
 - [ ] D) $\frac{x^3}{3} + C$
   <!-- feedback: Incorrecto. Bajaste el exponente a 2 en lugar de subirlo a 4. -->
@@ -156,9 +156,9 @@ Si $f(x) = 3x^2$ y $F(x)$ es una antiderivada, ¿cuál de las siguientes afirmac
   <!-- feedback: Incorrecto. Esa sería la derivada, no la antiderivada. -->
 - [ ] B) $F(x)$ solo existe si $x > 0$.
   <!-- feedback: Incorrecto. La antiderivada existe en todo el dominio de $f$. -->
-- [x] C) $F(x) = x^3 + C$ cumple $F'(x) = 3x^2$.
+- [x] D) $F(x) = x^3 + C$ cumple $F'(x) = 3x^2$.
   <!-- feedback: Correcto. La derivada de $x^3$ es exactamente $3x^2$. -->
-- [ ] D) $F(x)$ no se puede determinar, porque la integral es imposible.
+- [ ] C) $F(x)$ no se puede determinar, porque la integral es imposible.
   <!-- feedback: Incorrecto. Es una integral polinómica elemental. -->
 ### Explicacion Pedagogica
 Como $f(x) = 3x^2$, su antiderivada es $F(x) = x^3 + C$, ya que al derivar $x^3$ se recupera $3x^2$, y se conserva $+C$ para toda la familia.
@@ -176,9 +176,9 @@ Si la aceleración de un objeto es $a(t) = 6t$ (en m/s$^2$), ¿cuál es la veloc
   <!-- feedback: Incorrecto. No aplicaste el valor inicial $v(0) = 0$. -->
 - [ ] B) $v(t) = 6t$.
   <!-- feedback: Incorrecto. Esa es la aceleración, no la velocidad. -->
-- [x] C) $v(t) = 3t^2$.
+- [x] D) $v(t) = 3t^2$.
   <!-- feedback: Correcto. Antiderivar $6t$ da $3t^2 + C$, y con $v(0)=0$ se obtiene $C=0$. -->
-- [ ] D) $v(t) = 3t^2 + 6t$.
+- [ ] C) $v(t) = 3t^2 + 6t$.
   <!-- feedback: Incorrecto. Sumaste la aceleración original, lo cual no aplica. -->
 ### Explicacion Pedagogica
 Como $v'(t) = a(t) = 6t$, se tiene $v(t) = \int 6t \, dt = 3t^2 + C$. Con $v(0)=0$ se obtiene $C = 0$, así que $v(t) = 3t^2$ m/s.
@@ -192,11 +192,11 @@ Como $v'(t) = a(t) = 6t$, se tiene $v(t) = \int 6t \, dt = 3t^2 + C$. Con $v(0)=
 ### Enunciado
 ¿Cuál es la posición $s(t)$ del objeto?
 ### Opciones
-- [ ] A) $s(t) = 12t^2 + 5$.
+- [ ] B) $s(t) = 12t^2 + 5$.
   <!-- feedback: Incorrecto. Dividiste solo una vez por 2, falta otra integración. -->
-- [ ] B) $s(t) = 6t^2 + 5t$.
+- [ ] C) $s(t) = 6t^2 + 5t$.
   <!-- feedback: Incorrecto. Olvidaste el segundo término $+C$ al integrar. -->
-- [x] C) $s(t) = 2t^3 + 5$.
+- [x] A) $s(t) = 2t^3 + 5$.
   <!-- feedback: Correcto. Antiderivas dos veces: $v(t) = 6t^2$, $s(t) = 2t^3 + C$, con $s(0)=5$ da $C=5$. -->
 - [ ] D) $s(t) = 12t + 5$.
   <!-- feedback: Incorrecto. No aplicaste la regla de la potencia correctamente. -->
@@ -212,11 +212,11 @@ Integrar $12t$ da $v(t) = 6t^2 + C_1$. Integrar de nuevo da $s(t) = 2t^3 + C_1 t
 ### Enunciado
 Un compañero afirma: "Como solo me piden una antiderivada, puedo omitir la constante $+C$." ¿Cuál es la valoración correcta?
 ### Opciones
-- [ ] A) Es correcta, porque cualquier constante sirve.
+- [ ] B) Es correcta, porque cualquier constante sirve.
   <!-- feedback: Incorrecto. La constante $+C$ no se elige arbitrariamente; representa toda la familia. -->
-- [ ] B) Es correcta solo si la pregunta dice "una" antiderivada.
+- [ ] C) Es correcta solo si la pregunta dice "una" antiderivada.
   <!-- feedback: Incorrecto. Aun así, una antiderivada específica debe escribirse con $C=0$ explícito. -->
-- [x] C) Es incorrecta; $+C$ indica la familia completa de antiderivadas, exigida por la integral indefinida.
+- [x] A) Es incorrecta; $+C$ indica la familia completa de antiderivadas, exigida por la integral indefinida.
   <!-- feedback: Correcto. La integral indefinida exige la constante $+C$ para representar todas las soluciones. -->
 - [ ] D) Es incorrecta, pero solo en exámenes internacionales.
   <!-- feedback: Incorrecto. La regla aplica universalmente, sin importar el contexto. -->

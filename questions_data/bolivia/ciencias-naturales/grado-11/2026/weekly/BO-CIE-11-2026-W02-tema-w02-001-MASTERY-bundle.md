@@ -30,11 +30,11 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 Al realizar experimentos sobre bioquímica y biomoléculas y estudiar biomoléculas compuestas de monosacáridos que sirven como fuente de energía rápida celular, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Los carbohidratos
+- [x] C) Los carbohidratos
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a biomoléculas compuestas de monosacáridos que sirven como fuente de energía rápida celular. -->
-- [ ] B) Las proteínas
+- [ ] A) Las proteínas
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Los lípidos
+- [ ] B) Los lípidos
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas. -->
 - [ ] D) Los ácidos nucleicos
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -55,13 +55,13 @@ La respuesta correcta es Los carbohidratos. Científicamente, esto se explica po
 Al realizar experimentos sobre bioquímica y biomoléculas y estudiar moléculas insolubles en agua destinadas al almacenamiento de energía a largo plazo y estructura de membranas, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Los lípidos
+- [x] D) Los lípidos
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a moléculas insolubles en agua destinadas al almacenamiento de energía a largo plazo y estructura de membranas. -->
-- [ ] B) Los glúcidos
+- [ ] A) Los glúcidos
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Las proteínas
+- [ ] B) Las proteínas
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas. -->
-- [ ] D) Los nucleótidos
+- [ ] C) Los nucleótidos
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -80,9 +80,9 @@ La respuesta correcta es Los lípidos. Científicamente, esto se explica por el 
 Al realizar experimentos sobre bioquímica y biomoléculas y estudiar monómeros formados por un grupo amino, un carboxilo y un grupo R lateral variable, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Los aminoácidos
+- [x] B) Los aminoácidos
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a monómeros formados por un grupo amino, un carboxilo y un grupo R lateral variable. -->
-- [ ] B) Los monosacáridos
+- [ ] A) Los monosacáridos
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) Los ácidos grasos
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas. -->
@@ -105,13 +105,13 @@ La respuesta correcta es Los aminoácidos. Científicamente, esto se explica por
 Al realizar experimentos sobre bioquímica y biomoléculas y estudiar enlace covalente amida que une el grupo carboxilo de un aminoácido con el amino de otro, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El enlace peptídico
+- [x] D) El enlace peptídico
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a enlace covalente amida que une el grupo carboxilo de un aminoácido con el amino de otro. -->
-- [ ] B) El enlace glucosídico
+- [ ] A) El enlace glucosídico
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) El enlace éster
+- [ ] B) El enlace éster
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas. -->
-- [ ] D) El enlace fosfodiéster
+- [ ] C) El enlace fosfodiéster
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -130,11 +130,11 @@ La respuesta correcta es El enlace peptídico. Científicamente, esto se explica
 Al realizar experimentos sobre bioquímica y biomoléculas y estudiar catalizadores biológicos proteicos que disminuyen la energía de activación de las reacciones, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Las enzimas
+- [x] C) Las enzimas
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a catalizadores biológicos proteicos que disminuyen la energía de activación de las reacciones. -->
-- [ ] B) Las hormonas
+- [ ] A) Las hormonas
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Las vitaminas
+- [ ] B) Las vitaminas
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas. -->
 - [ ] D) Los anticuerpos
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -155,11 +155,11 @@ La respuesta correcta es Las enzimas. Científicamente, esto se explica por la a
 Al realizar experimentos sobre bioquímica y biomoléculas y estudiar región de la enzima con forma tridimensional complementaria donde se une el sustrato específico, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El sitio activo
+- [x] C) El sitio activo
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a región de la enzima con forma tridimensional complementaria donde se une el sustrato específico. -->
-- [ ] B) El sitio alostérico
+- [ ] A) El sitio alostérico
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) El cofactor inorgánico
+- [ ] B) El cofactor inorgánico
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas. -->
 - [ ] D) El inhibidor enzimático
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -180,9 +180,9 @@ La respuesta correcta es El sitio activo. Científicamente, esto se explica por 
 Al realizar experimentos sobre bioquímica y biomoléculas y estudiar pérdida de la estructura nativa activa de una enzima debido al exceso de temperatura, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Desnaturalización térmica
+- [x] B) Desnaturalización térmica
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a pérdida de la estructura nativa activa de una enzima debido al exceso de temperatura. -->
-- [ ] B) Glicosilación proteica
+- [ ] A) Glicosilación proteica
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) Fosforilación catalítica
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas. -->
@@ -205,13 +205,13 @@ La respuesta correcta es Desnaturalización térmica. Científicamente, esto se 
 Al realizar experimentos sobre bioquímica y biomoléculas y estudiar polímeros de nucleótidos encargados del almacenamiento y transmisión de la información genética, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Los ácidos nucleicos
+- [x] D) Los ácidos nucleicos
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a polímeros de nucleótidos encargados del almacenamiento y transmisión de la información genética. -->
-- [ ] B) Los fosfolípidos
+- [ ] A) Los fosfolípidos
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Los polisacáridos
+- [ ] B) Los polisacáridos
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas. -->
-- [ ] D) Los polipéptidos
+- [ ] C) Los polipéptidos
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -230,9 +230,9 @@ La respuesta correcta es Los ácidos nucleicos. Científicamente, esto se explic
 Al realizar experimentos sobre bioquímica y biomoléculas y estudiar unidad monomérica constituida por una pentosa, una base nitrogenada y un grupo fosfato, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El nucleótido
+- [x] B) El nucleótido
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a unidad monomérica constituida por una pentosa, una base nitrogenada y un grupo fosfato. -->
-- [ ] B) El nucleósido
+- [ ] A) El nucleósido
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) El aminoácido
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas. -->
@@ -255,11 +255,11 @@ La respuesta correcta es El nucleótido. Científicamente, esto se explica por l
 Al realizar experimentos sobre bioquímica y biomoléculas y estudiar el ADN es bicatenario con desoxirribosa y timina, el ARN es monocatenario con ribosa y uracilo, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El adn y el arn
+- [x] C) El adn y el arn
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a el ADN es bicatenario con desoxirribosa y timina, el ARN es monocatenario con ribosa y uracilo. -->
-- [ ] B) Las proteínas y lípidos
+- [ ] A) Las proteínas y lípidos
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) El almidón y glucógeno
+- [ ] B) El almidón y glucógeno
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas. -->
 - [ ] D) La celulosa y quitina
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -280,11 +280,11 @@ La respuesta correcta es El adn y el arn. Científicamente, esto se explica por 
 Al realizar experimentos sobre bioquímica y biomoléculas y estudiar secuencia lineal ordenada de aminoácidos unidos por enlaces peptídicos covalentes en una proteína, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Estructura primaria
+- [x] C) Estructura primaria
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a secuencia lineal ordenada de aminoácidos unidos por enlaces peptídicos covalentes en una proteína. -->
-- [ ] B) Estructura secundaria
+- [ ] A) Estructura secundaria
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Estructura terciaria
+- [ ] B) Estructura terciaria
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas. -->
 - [ ] D) Estructura cuaternaria
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -305,11 +305,11 @@ La respuesta correcta es Estructura primaria. Científicamente, esto se explica 
 Al realizar experimentos sobre bioquímica y biomoléculas y estudiar plegamiento tridimensional global y definitivo de una única cadena polipeptídica en el espacio, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Estructura terciaria
+- [x] C) Estructura terciaria
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a plegamiento tridimensional global y definitivo de una única cadena polipeptídica en el espacio. -->
-- [ ] B) Estructura primaria
+- [ ] A) Estructura primaria
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Estructura secundaria
+- [ ] B) Estructura secundaria
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas. -->
 - [ ] D) Estructura cuaternaria
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -330,11 +330,11 @@ La respuesta correcta es Estructura terciaria. Científicamente, esto se explica
 Al realizar experimentos sobre bioquímica y biomoléculas y estudiar monómero nucleótido que actúa como la principal moneda de intercambio de energía química celular, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El atp (adenosín trifosfato)
+- [x] C) El atp (adenosín trifosfato)
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a monómero nucleótido que actúa como la principal moneda de intercambio de energía química celular. -->
-- [ ] B) El adp
+- [ ] A) El adp
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) El amp cíclico
+- [ ] B) El amp cíclico
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas. -->
 - [ ] D) El nadh
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -355,13 +355,13 @@ La respuesta correcta es El atp (adenosín trifosfato). Científicamente, esto s
 Al realizar experimentos sobre bioquímica y biomoléculas y estudiar amortiguador fisiológico que mantiene el pH de la sangre humana en un rango estrecho de 7.35 a 7.45, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Sistema amortiguador bicarbonato
+- [x] D) Sistema amortiguador bicarbonato
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a amortiguador fisiológico que mantiene el pH de la sangre humana en un rango estrecho de 7.35 a 7.45. -->
-- [ ] B) Sistema de fosfato
+- [ ] A) Sistema de fosfato
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Amortiguador de hemoglobina
+- [ ] B) Amortiguador de hemoglobina
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas. -->
-- [ ] D) Ácido láctico
+- [ ] C) Ácido láctico
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -380,13 +380,13 @@ La respuesta correcta es Sistema amortiguador bicarbonato. Científicamente, est
 Al realizar experimentos sobre bioquímica y biomoléculas y estudiar lípido esteroide que regula y mantiene la fluidez de las membranas animales según la temperatura, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El colesterol
+- [x] D) El colesterol
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a lípido esteroide que regula y mantiene la fluidez de las membranas animales según la temperatura. -->
-- [ ] B) Los triglicéridos
+- [ ] A) Los triglicéridos
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Las ceras vegetales
+- [ ] B) Las ceras vegetales
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas. -->
-- [ ] D) Los fosfolípidos
+- [ ] C) Los fosfolípidos
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -405,13 +405,13 @@ La respuesta correcta es El colesterol. Científicamente, esto se explica por su
 Al realizar experimentos sobre bioquímica y biomoléculas y estudiar polisacárido estructural rígido insoluble que compone la pared celular de las células de plantas andinas, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La celulosa
+- [x] D) La celulosa
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a polisacárido estructural rígido insoluble que compone la pared celular de las células de plantas andinas. -->
-- [ ] B) El almidón
+- [ ] A) El almidón
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) El glucógeno
+- [ ] B) El glucógeno
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas. -->
-- [ ] D) La quitina
+- [ ] C) La quitina
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -455,11 +455,11 @@ La respuesta correcta es Cinética de michaelis-menten. Científicamente, esto s
 Al realizar experimentos sobre bioquímica y biomoléculas y estudiar parámetro que representa la afinidad de la enzima por su sustrato; a menor valor, mayor afinidad, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Km (constante de michaelis)
+- [x] C) Km (constante de michaelis)
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a parámetro que representa la afinidad de la enzima por su sustrato; a menor valor, mayor afinidad. -->
-- [ ] B) Vmax (velocidad máxima)
+- [ ] A) Vmax (velocidad máxima)
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Kcat (número de recambio)
+- [ ] B) Kcat (número de recambio)
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de bioquímica y biomoléculas. -->
 - [ ] D) Ki (constante de inhibición)
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->

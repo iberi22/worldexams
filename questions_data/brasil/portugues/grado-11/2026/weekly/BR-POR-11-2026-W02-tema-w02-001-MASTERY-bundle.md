@@ -36,11 +36,11 @@ Como é denominada a variação linguística que ocorre ao longo do tempo, marca
 ### Opciones
 - [ ] A) Variação Diatópica (ou Regional).
   <!-- feedback: Incorreto. A variação diatópica diz respeito às diferenças de espaço geográfico, não de tempo histórico. -->
-- [x] B) Variação Diacrônica (ou Histórica).
+- [x] D) Variação Diacrônica (ou Histórica).
   <!-- feedback: Correto! A variação diacrônica estuda as mudanças linguísticas através do tempo e das gerações. -->
-- [ ] C) Variação Diastrática (ou Social).
+- [ ] B) Variação Diastrática (ou Social).
   <!-- feedback: Incorreto. A variação diastratica refere-se às diferenças entre grupos sociais, escolaridade ou idade. -->
-- [ ] D) Variação Diafásica (ou de Registro).
+- [ ] C) Variação Diafásica (ou de Registro).
   <!-- feedback: Incorreto. A variação diafásica refere-se à adequação do falar de acordo com a situação (formal ou informal). -->
 
 ### Explicacion Pedagogica
@@ -57,11 +57,11 @@ A variação diacrônica (ou histórica) é aquela que analisa a evolução de u
 A norma-padrão (ou variedade culta) da língua portuguesa deve ser compreendida de forma científica como:
 
 ### Opciones
-- [ ] A) A única forma correta e pura de comunicação, sendo as demais variações consideradas erros absurdos de gramática.
+- [ ] B) A única forma correta e pura de comunicação, sendo as demais variações consideradas erros absurdos de gramática.
   <!-- feedback: Incorreto. Cientificamente, todas as variedades são válidas e estruturadas; a norma-padrão é apenas uma convenção social de prestígio. -->
-- [ ] B) Uma variedade natural e espontânea falada por todos os cidadãos brasileiros de todas as regiões geográficas.
+- [ ] C) Uma variedade natural e espontânea falada por todos os cidadãos brasileiros de todas as regiões geográficas.
   <!-- feedback: Incorreto. A norma-padrão é uma variedade artificial de prestígio, aprendida na escola por meio da escrita formal. -->
-- [x] C) Um modelo de prestígio social e político associado à escrita formal, útil como referência comum para documentos oficiais e acadêmicos.
+- [x] A) Um modelo de prestígio social e político associado à escrita formal, útil como referência comum para documentos oficiais e acadêmicos.
   <!-- feedback: Correto! A norma-padrão funciona como convenção de prestígio para unificar a comunicação escrita formal do país. -->
 - [ ] D) Um dialeto extinto que não possui nenhuma relação prática com a vida contemporânea das cidades brasileiras.
   <!-- feedback: Incorreto. A norma-padrão é viva e rege a comunicação em documentos legais, jornais de referência e exames como o ENEM. -->
@@ -107,9 +107,9 @@ Identifique a variação linguística predominante na fala do skatista e os elem
   <!-- feedback: Incorreto. É uma linguagem juvenil e moderna do cotidiano, sem termos arcaicos formais de tratamento do passado. -->
 - [ ] B) Variação Diatópica exclusiva de Portugal, devido à ausência total de termos compreensíveis no território brasileiro.
   <!-- feedback: Incorreto. A gíria é plenamente compreensível no Brasil e usa o termo regional sulista "piá" (menino) e gírias do skate brasileiro. -->
-- [x] C) Variação Diastrática e Diatópica integradas, marcada pelo jargão juvenil do skate e pelo uso do vocábulo regional "piá".
+- [x] D) Variação Diastrática e Diatópica integradas, marcada pelo jargão juvenil do skate e pelo uso do vocábulo regional "piá".
   <!-- feedback: Correto! O termo "piá" é regional do Sul (diatópica) e as gírias do skate ("drop", "irado", "mandou benzão") caracterizam o grupo social (diastrática). -->
-- [ ] D) Variação de registro formal acadêmico, visto que obedece rigorosamente às regras da concordância nominal clássica de Portugal.
+- [ ] C) Variação de registro formal acadêmico, visto que obedece rigorosamente às regras da concordância nominal clássica de Portugal.
   <!-- feedback: Incorreto. O registro é coloquial espontâneo, repleto de gírias e desvios formais típicos da fala descontraída dos jovens. -->
 
 ### Explicacion Pedagogica
@@ -130,9 +130,9 @@ A diferença de linguagem utilizada pelo advogado nas duas situações caracteri
   <!-- feedback: Incorreto. Ele permaneceu na mesma cidade e região, mudando apenas o nível de formalidade da situação. -->
 - [ ] B) Variação Diacrônica, visto que a primeira fala pertence ao século dezoito e a segunda ao século vinte e um.
   <!-- feedback: Incorreto. Ambas as falas são contemporâneas e usadas pelo mesmo indivíduo em um mesmo dia. -->
-- [x] C) Variação Diafásica (ou de Registro), decorrente da adequação do nível de formalidade (formal técnico vs. coloquial informal) à situação de comunicação.
+- [x] D) Variação Diafásica (ou de Registro), decorrente da adequação do nível de formalidade (formal técnico vs. coloquial informal) à situação de comunicação.
   <!-- feedback: Correto! O falante adapta seu registro linguístico dependendo do ambiente e da intimidade com os interlocutores. -->
-- [ ] D) Preconceito linguístico estrutural, que impede o profissional do direito de falar de forma simples com seus familiares.
+- [ ] C) Preconceito linguístico estrutural, que impede o profissional do direito de falar de forma simples com seus familiares.
   <!-- feedback: Incorreto. O uso de registro informal no churrasco demonstra adequação linguística saudável e não preconceito. -->
 
 ### Explicacion Pedagogica
@@ -153,9 +153,9 @@ Sobre essa ocorrência linguística coloquial do Sul, é correto afirmar cientif
   <!-- feedback: Incorreto. O uso é comum a falantes de todas as classes sociais e níveis de escolaridade no Sul, sendo um fenômeno linguístico estruturado. -->
 - [ ] B) É um erro gravíssimo de português que deve ser banido sumariamente das conversas familiares diárias.
   <!-- feedback: Incorreto. Do ponto de vista científico e descritivo, não há "erros" na fala coloquial, mas sim variações de registro. -->
-- [x] C) É um fenômeno de variação linguística de base regional (diatópica) e social, comum na fala coloquial e perfeitamente inteligível.
+- [x] D) É um fenômeno de variação linguística de base regional (diatópica) e social, comum na fala coloquial e perfeitamente inteligível.
   <!-- feedback: Correto! A concordância de "tu" com terceira pessoa é uma variação viva, com estrutura própria e ampla aceitação na oralidade rioplatense brasileira. -->
-- [ ] D) Mostra que a língua portuguesa falada no Brasil está em processo rápido de extinção e esquecimento total de suas palavras.
+- [ ] C) Mostra que a língua portuguesa falada no Brasil está em processo rápido de extinção e esquecimento total de suas palavras.
   <!-- feedback: Incorreto. A língua brasileira é rica e está em constante evolução criativa, não em extinção ou colapso estrutural. -->
 
 ### Explicacion Pedagogica
@@ -174,11 +174,11 @@ Do ponto de vista da eficácia comunicativa e da adequação linguística, a esc
 ### Opciones
 - [ ] A) Inadequada, pois um órgão público deve utilizar exclusivamente a norma-padrão literária para evitar o desprestígio social da saúde.
   <!-- feedback: Incorreto. O uso de termos locais gera identificação e aproximação, garantindo a eficácia da campanha popular. -->
-- [x] B) Adequada, pois aproxima a mensagem institucional do cotidiano dos moradores locais, fortalecendo a identificação cultural e o engajamento comunitário.
+- [x] D) Adequada, pois aproxima a mensagem institucional do cotidiano dos moradores locais, fortalecendo a identificação cultural e o engajamento comunitário.
   <!-- feedback: Correto! A adaptação linguística regional ao público-alvo (moradores locais) torna a comunicação mais humana e eficiente. -->
-- [ ] C) Errada, porque "oxente" é um termo gramaticalmente proibido de ser impresso em campanhas públicas no território nacional brasileiro.
+- [ ] B) Errada, porque "oxente" é um termo gramaticalmente proibido de ser impresso em campanhas públicas no território nacional brasileiro.
   <!-- feedback: Incorreto. Não há leis que proíbam termos regionais em campanhas institucionais; a prefeitura tem autonomia de comunicação. -->
-- [ ] D) Neutra, dado que a população do interior não lê anúncios e se guia apenas pela linguagem de sinais de trânsito.
+- [ ] C) Neutra, dado que a população do interior não lê anúncios e se guia apenas pela linguagem de sinais de trânsito.
   <!-- feedback: Incorreto. A população lê as mensagens e se sente representada pela valorização de seu falar regional típico. -->
 
 ### Explicacion Pedagogica
@@ -220,9 +220,9 @@ Para solucionar as queixas, a equipe de desenvolvimento deve atualizar o algorit
 ### Opciones
 - [ ] A) Exija que o cliente digite suas dúvidas obedecendo à risca a sintaxe do português clássico europeu.
   <!-- feedback: Incorreto. Isso afastaria os usuários e geraria ainda mais reclamações e frustração de atendimento. -->
-- [ ] B) Bloqueie automaticamente qualquer usuário que utilize gírias ou expressões regionais nordestinas ou sulistas.
+- [ ] C) Bloqueie automaticamente qualquer usuário que utilize gírias ou expressões regionais nordestinas ou sulistas.
   <!-- feedback: Incorreto. Bloquear clientes seria um desastre comercial e financeiro para a empresa de software. -->
-- [x] C) Seja capaz de reconhecer sinônimos regionais (como mandioca, aipim e macaxeira) e adaptar o nível de formalidade ao tom do cliente.
+- [x] B) Seja capaz de reconhecer sinônimos regionais (como mandioca, aipim e macaxeira) e adaptar o nível de formalidade ao tom do cliente.
   <!-- feedback: Correto! O reconhecimento das variações diatópicas e diafásicas melhora a experiência e aproxima o cliente da plataforma. -->
 - [ ] D) Fale de forma idêntica a um robô de fábrica de carros dos anos 1970, sem qualquer flexibilidade de vocabulário ou diálogos humanos.
   <!-- feedback: Incorreto. A rigidez mecânica tornaria o atendimento desagradável, afastando o público de novas tecnologias. -->
@@ -243,9 +243,9 @@ Sob a ótica sociolinguística, o uso desse vocabulário estrangeiro corporativo
 ### Opciones
 - [ ] A) Um dialeto regional típico exclusivo dos moradores do interior das montanhas de Minas Gerais.
   <!-- feedback: Incorreto. Esses termos são de origem inglesa e corporativa global, não regionais rústicos mineiros. -->
-- [x] B) Uma variação diastrática (gíria profissional / jargão do mercado corporativo de tecnologia), que ajuda a demarcar o perfil do grupo social da empresa.
+- [x] C) Uma variação diastrática (gíria profissional / jargão do mercado corporativo de tecnologia), que ajuda a demarcar o perfil do grupo social da empresa.
   <!-- feedback: Correto! O uso de anglicismos no meio corporativo e de startups de tecnologia funciona como um jargão ou gíria de grupo profissional (variação diastrática). -->
-- [ ] C) Um arcaísmo diacrônico herdado diretamente das cartas jesuíticas de catequização do Quinhentismo colonial.
+- [ ] B) Um arcaísmo diacrônico herdado diretamente das cartas jesuíticas de catequização do Quinhentismo colonial.
   <!-- feedback: Incorreto. Os jargões corporativos em inglês são modernos e tecnológicos, sem relação com textos coloniais portugueses. -->
 - [ ] D) Uma violação grave do código penal brasileiro que pune quem fala termos em inglês no ambiente de trabalho brasileiro.
   <!-- feedback: Incorreto. Não há crime no uso de palavras estrangeiras no ambiente corporativo privado no Brasil. -->
@@ -267,9 +267,9 @@ Em relação às regras exigidas pela banca corretora do ENEM, a linguagem adota
 ### Opciones
 - [ ] A) Inadequada, pois ele deveria usar gírias de Manaus (como "curumim" e "telezar") para demonstrar patriotismo regional extremo.
   <!-- feedback: Incorreto. Redações do ENEM exigem a norma-padrão culta escrita formal, sem gírias locais ou regionalismos na estrutura formal de tese. -->
-- [x] B) Adequada, pois utiliza a norma-padrão formal escrita exigida na redação do ENEM para debater cientificamente a importância da inclusão social linguística.
+- [x] C) Adequada, pois utiliza a norma-padrão formal escrita exigida na redação do ENEM para debater cientificamente a importância da inclusão social linguística.
   <!-- feedback: Correto! O candidato expressa ideias inclusivas respeitando perfeitamente o registro culto formal escrito exigido pela prova (Competência 1). -->
-- [ ] C) Errada, porque a redação do ENEM proíbe falar de assuntos polêmicos como variação cultural e preconceitos de classe social no Brasil.
+- [ ] B) Errada, porque a redação do ENEM proíbe falar de assuntos polêmicos como variação cultural e preconceitos de classe social no Brasil.
   <!-- feedback: Incorreto. Temas sociais de direitos humanos e diversidade cultural são recorrentes e altamente valorizados no exame nacional. -->
 - [ ] D) Incorreta, haja vista o uso do termo formal "suma", que pertence exclusivamente ao idioma italiano arcaico medieval clássico.
   <!-- feedback: Incorreto. O termo "suma" é um adjetivo formal plenamente aceito e comum no português padrão escrito de alta qualidade. -->
@@ -288,9 +288,9 @@ As redações oficiais de exames como o ENEM exigem que o candidato domine a mod
 Qual variedade linguística caracteriza a fala do apresentador de telejornal e por que ela é empregada nessa situação comunicativa?
 
 ### Opciones
-- [ ] A) Variação Diatópica caipira do interior paulista, para prestigiar as raízes rústicas da agricultura cafeeira.
+- [ ] B) Variação Diatópica caipira do interior paulista, para prestigiar as raízes rústicas da agricultura cafeeira.
   <!-- feedback: Incorreto. A linguagem do telejornal de rede nacional busca neutralidade regional e segue o padrão formal escrito comum. -->
-- [x] B) Variedade de prestígio formal (norma culta), adotada para garantir a clareza e a solenidade exigidas pela veiculação de notícias de interesse público nacional.
+- [x] A) Variedade de prestígio formal (norma culta), adotada para garantir a clareza e a solenidade exigidas pela veiculação de notícias de interesse público nacional.
   <!-- feedback: Correto! O registro formal culto é o padrão esperado para veículos de comunicação jornalística de grande alcance nacional. -->
 - [ ] C) Gíria profissional restrita aos advogados criminais baianos, por se referir a uma notícia ligada a tribunais judiciais.
   <!-- feedback: Incorreto. Embora o assunto seja jurídico, o texto da notícia é em português padrão acessível e não em jargão de nicho. -->
@@ -313,11 +313,11 @@ Nessa célebre frase do herói sem nenhum caráter, Mário de Andrade constrói 
 ### Opciones
 - [ ] A) O português clássico de Portugal medieval de Camões e as línguas indígenas mortas faladas no continente asiático.
   <!-- feedback: Incorreto. O debate foca na identidade linguística do Brasil contemporâneo e não em dialetos medievais da Ásia ou de Camões. -->
-- [x] B) A fala natural, livre e autêntica do povo brasileiro (associada à floresta) e o formalismo rígido da norma culta acadêmica paulista ("regras dos doutores").
+- [x] D) A fala natural, livre e autêntica do povo brasileiro (associada à floresta) e o formalismo rígido da norma culta acadêmica paulista ("regras dos doutores").
   <!-- feedback: Correto! Mário de Andrade contesta o formalismo parnasiano e a gramática lusitana artificial, defendendo a riqueza da oralidade popular brasileira. -->
-- [ ] C) O dialeto exclusivo dos fazendeiros cafeeiros do Paraná e a linguagem técnica dos médicos de Recife na colônia.
+- [ ] B) O dialeto exclusivo dos fazendeiros cafeeiros do Paraná e a linguagem técnica dos médicos de Recife na colônia.
   <!-- feedback: Incorreto. A oposição é simbólica e nacional entre a liberdade linguística espontânea do povo e o academicismo elitista. -->
-- [ ] D) Duas línguas estrangeiras europeias trazidas pela imigração alemã e italiana para o sul do território nacional brasileiro.
+- [ ] C) Duas línguas estrangeiras europeias trazidas pela imigração alemã e italiana para o sul do território nacional brasileiro.
   <!-- feedback: Incorreto. Trata-se do debate interno da língua portuguesa falada no Brasil e a busca por uma literatura genuinamente brasileira. -->
 
 ### Explicacion Pedagogica
@@ -337,9 +337,9 @@ A comparação entre as duas amostras documentais comprova a ação contínua de
 ### Opciones
 - [ ] A) Variação Diatópica, causada pela separação de bairros ricos e periferias distantes na geografia atual de São Paulo.
   <!-- feedback: Incorreto. Os documentos mostram mudanças de hábitos através do tempo (épocas históricas diferentes) e não de localização geográfica. -->
-- [x] B) Variação Diacrônica, evidenciada pela evolução da ortografia oficial ("hontem" para "ontem") e pela mudança histórica nos rituais de cortesia escrita.
+- [x] C) Variação Diacrônica, evidenciada pela evolução da ortografia oficial ("hontem" para "ontem") e pela mudança histórica nos rituais de cortesia escrita.
   <!-- feedback: Correto! A evolução da língua ao longo de quase dois séculos revela profundas mudanças lexicais, ortográficas e pragmáticas nas convenções sociais da escrita. -->
-- [ ] C) Variação Diastrática profissional rústica, restrita às corporações de ferreiros paulistas da época imperial.
+- [ ] B) Variação Diastrática profissional rústica, restrita às corporações de ferreiros paulistas da época imperial.
   <!-- feedback: Incorreto. O fenômeno não é restrito a uma profissão medieval paulista, mas sim geral de toda a língua brasileira ao longo das gerações. -->
 - [ ] D) Colapso total da inteligibilidade mútua, mostrando que os paulistas de hoje não conseguem mais ler documentos em português escrito.
   <!-- feedback: Incorreto. Os textos antigos continuam legíveis após pequenos estudos e a língua evoluiu de forma organizada e estruturada. -->
@@ -360,11 +360,11 @@ Analisando os avanços da sociolinguística moderna no Brasil, a principal crít
 ### Opciones
 - [ ] A) Impede que a indústria de tecnologia paulista fabrique computadores rápidos para as salas de aula mineiras.
   <!-- feedback: Incorreto. O preconceito linguístico afeta a inclusão social e educacional das pessoas, não a produção de hardware ou computadores de informática. -->
-- [x] B) Desconsidera a coerência interna e as regras próprias das variantes populares, reforçando desigualdades sociais e gerando exclusão educacional.
+- [x] D) Desconsidera a coerência interna e as regras próprias das variantes populares, reforçando desigualdades sociais e gerando exclusão educacional.
   <!-- feedback: Correto! As variedades populares não são erradas de forma aleatória, mas possuem estruturas e lógicas gramaticais sistemáticas próprias. A marginalização dessas variedades gera barreiras sociais e escolares de exclusão. -->
-- [ ] C) Mostra que a norma-padrão foi inventada no início do século vinte e um apenas para humilhar os escritores de poesia modernos.
+- [ ] B) Mostra que a norma-padrão foi inventada no início do século vinte e um apenas para humilhar os escritores de poesia modernos.
   <!-- feedback: Incorreto. A norma-padrão possui raízes históricas antigas de unificação e serve como modelo formal de grande prestígio internacional. -->
-- [ ] D) Obriga os estudantes a usarem dialetos medievais europeus em todas as conversas informais cotidianas do recreio escolar.
+- [ ] C) Obriga os estudantes a usarem dialetos medievais europeus em todas as conversas informais cotidianas do recreio escolar.
   <!-- feedback: Incorreto. A escola busca ensinar a norma-padrão escrita formal para uso adequado, sem proibir a fala coloquial saudável no pátio. -->
 
 ### Explicacion Pedagogica
@@ -407,9 +407,9 @@ Com base na análise desse trecho crítico, avalie a postura correta que a escol
 ### Opciones
 - [ ] A) Proibir totalmente o uso da norma-padrão nas redações escolares para livrar os estudantes do "imperialismo gramatical paulista" de vez.
   <!-- feedback: Incorreto. A norma-padrão é um patrimônio formal e político de prestígio, essencial para o acesso ao ensino superior, exames e carreiras públicas. -->
-- [ ] B) Exigir que a fala diária e as conversas do recreio das crianças imitem perfeitamente a escrita formal dos clássicos portugueses do século dezenove em silêncio.
+- [ ] C) Exigir que a fala diária e as conversas do recreio das crianças imitem perfeitamente a escrita formal dos clássicos portugueses do século dezenove em silêncio.
   <!-- feedback: Incorreto. Obrigar o uso oral rígido da norma padrão no recreio seria inadequado, gerando silenciamento e fobia social escolar desnecessária. -->
-- [x] C) Praticar a pedagogia da variação linguística: ensinar a norma-padrão escrita formal para situações formais, desenvolvendo no aluno a capacidade de transitar adequadamente entre diferentes registros.
+- [x] B) Praticar a pedagogia da variação linguística: ensinar a norma-padrão escrita formal para situações formais, desenvolvendo no aluno a capacidade de transitar adequadamente entre diferentes registros.
   <!-- feedback: Correto! O objetivo da escola é ampliar as competências linguísticas do aluno (plurilinguismo), ensinando-o a escolher a variedade adequada a cada contexto de uso social. -->
 - [ ] D) Banir o estudo da gramática descritiva dos livros, substituindo-a exclusivamente pelo aprendizado prático de gírias eletrônicas de fóruns virtuais corporativos.
   <!-- feedback: Incorreto. O estudo sistemático da gramática é importante para compreender os mecanismos formais da escrita de alto nível e as estruturas complexas do idioma. -->
@@ -433,9 +433,9 @@ Sob a ótica da sociolinguística, a violenta condenação pública ao uso de "m
   <!-- feedback: Incorreto. O português do Brasil está vivo e dinâmico; o termo "menas", embora condenado socialmente na norma escrita padrão, segue regras morfológicas populares analógicas de gênero. -->
 - [ ] B) A necessidade urgente de prender judicialmente os diretores criativos da startup de publicidade paulista por crime de lesa-pátria contra as regras de Portugal.
   <!-- feedback: Incorreto. Erros gramaticais em publicidade não constituem crime penal no país; geram apenas críticas e debates de recepção de público. -->
-- [x] C) A força social do estigma linguístico associado a variantes não-padrão na esfera pública, em que o erro de concordância em marcas de luxo é interpretado como falta de requinte e de prestígio sociocultural.
+- [x] D) A força social do estigma linguístico associado a variantes não-padrão na esfera pública, em que o erro de concordância em marcas de luxo é interpretado como falta de requinte e de prestígio sociocultural.
   <!-- feedback: Correto! A reação negativa do público reflete a barreira de prestígio em que desvios da norma oficial geram punições sociais severas na imagem da marca. -->
-- [ ] D) Que o uso de neologismos inovadores na publicidade de calçados paulista é inteiramente incompreensível para 99% da população leitora do país.
+- [ ] C) Que o uso de neologismos inovadores na publicidade de calçados paulista é inteiramente incompreensível para 99% da população leitora do país.
   <!-- feedback: Incorreto. O termo "menas" é plenamente compreensível pelo público nacional, mas carrega forte estigma social em contextos escritos formais corporativos. -->
 
 ### Explicacion Pedagogica
@@ -455,11 +455,11 @@ Com base nesse estudo sociolinguístico, avalie a natureza da variação linguí
 ### Opciones
 - [ ] A) A migração interna provoca o empobrecimento absoluto da língua, gerando dialetos incompreensíveis que dividem o país de forma violenta.
   <!-- feedback: Incorreto. A migração enriquece o idioma, gerando hibridismos criativos de vocabulário e sotaques que enriquecem a cultura nacional. -->
-- [x] B) O dinamismo linguístico das metrópoles é fruto de complexos contatos socioculturais, onde a variação diatópica e diastrática coexistem, criando ricas identidades híbridas de fala.
+- [x] D) O dinamismo linguístico das metrópoles é fruto de complexos contatos socioculturais, onde a variação diatópica e diastrática coexistem, criando ricas identidades híbridas de fala.
   <!-- feedback: Correto! O contato de falantes de origens e classes diferentes gera misturas linguísticas ricas e dinâmicas nos grandes centros urbanos. -->
-- [ ] C) Os falantes de origem nordestina perdem totalmente sua capacidade de falar o português formal em menos de seis meses de vivência paulista.
+- [ ] B) Os falantes de origem nordestina perdem totalmente sua capacidade de falar o português formal em menos de seis meses de vivência paulista.
   <!-- feedback: Incorreto. Os falantes continuam perfeitamente aptos a dominar o português formal e o aprendizado se dá por convivência e escolaridade. -->
-- [ ] D) A única variedade válida e aceitável cientificamente no Rio de Janeiro e em São Paulo é a norma linguística dos poetas portugueses medievais quinhentistas.
+- [ ] C) A única variedade válida e aceitável cientificamente no Rio de Janeiro e em São Paulo é a norma linguística dos poetas portugueses medievais quinhentistas.
   <!-- feedback: Incorreto. A norma medieval jesuítica é um registro histórico inativo e as grandes cidades brasileiras de hoje pulsam com falas modernas dinâmicas e vivas. -->
 
 ### Explicacion Pedagogica
@@ -479,11 +479,11 @@ Considerando essa perspectiva constitucional e científica, avalie as implicaç�
 ### Opciones
 - [ ] A) A lei deve punir o docente, porque ensinar menções a dialetos populares impede que os alunos de Brasília aprendam a ler jornais de prestígio de forma mecânica em silêncio.
   <!-- feedback: Incorreto. Conhecer variação não prejudica o aprendizado da norma padrão; pelo contrário, o respeito às variantes facilita o acolhimento do estudante na escola. -->
-- [x] B) A criminalização das variantes de fala populares é cientificamente infundada e socialmente excludente, violando direitos fundamentais à educação inclusiva e à pluralidade cultural identitária.
+- [x] D) A criminalização das variantes de fala populares é cientificamente infundada e socialmente excludente, violando direitos fundamentais à educação inclusiva e à pluralidade cultural identitária.
   <!-- feedback: Correto! Punir a variação linguística viola a liberdade acadêmica e marginaliza culturalmente grupos sociais vulneráveis por seus hábitos espontâneos de fala. -->
-- [ ] C) O banimento legal das gírias escolares de recreio garante que o Brasil lidere os rankings científicos de ortografia e escrita literária do continente.
+- [ ] B) O banimento legal das gírias escolares de recreio garante que o Brasil lidere os rankings científicos de ortografia e escrita literária do continente.
   <!-- feedback: Incorreto. rankings acadêmicos dependem de infraestrutura escolar sólida e investimentos em educação de base de qualidade, e não de repressão legal a coloquialismos de recreio. -->
-- [ ] D) O uso oral exclusivo da linguagem padrão acadêmica estrita em conversas de refeitório de escolas de Brasília é indispensável para a digestão saudável dos alunos de Letras.
+- [ ] C) O uso oral exclusivo da linguagem padrão acadêmica estrita em conversas de refeitório de escolas de Brasília é indispensável para a digestão saudável dos alunos de Letras.
   <!-- feedback: Incorreto. Essa afirmação é absurda e sem fundamento científico médico ou pedagógico básico. -->
 
 ### Explicacion Pedagogica

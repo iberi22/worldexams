@@ -30,8 +30,8 @@ creador: "Jules-Agent"
 ¿Cuál es la estructura característica de la copla popular colombiana que se observa en este ejemplo?
 
 ### Opciones
-- [ ] A) Diez versos que riman todos entre sí. <!-- feedback: Esto sería una décima, no una copla. -->
-- [x] B) Cuatro versos de arte menor que suelen rimar el segundo con el cuarto. <!-- feedback: La copla se basa en la sencillez de la cuarteta, facilitando la improvisación y el canto. -->
+- [ ] B) Diez versos que riman todos entre sí. <!-- feedback: Esto sería una décima, no una copla. -->
+- [x] A) Cuatro versos de arte menor que suelen rimar el segundo con el cuarto. <!-- feedback: La copla se basa en la sencillez de la cuarteta, facilitando la improvisación y el canto. -->
 - [ ] C) Un solo párrafo largo de texto sin rima ni ritmo. <!-- feedback: La copla es una forma poética, requiere ritmo y rima. -->
 - [ ] D) Cincuenta palabras que empiezan todas con la misma letra. <!-- feedback: Esto sería una aliteración extrema o un juego de palabras, no una estructura de copla. -->
 
@@ -68,8 +68,8 @@ Los refranes (o paremias) son herramientas pedagógicas de la tradición oral. U
 ¿Cuál es la función principal del humor y la picardía en este tipo de coplas populares?
 
 ### Opciones
-- [ ] A) Enseñar zoología sobre la anatomía de las dantas. <!-- feedback: La danta es solo una excusa para el chiste y el juego de palabras. -->
-- [x] B) Generar risa y complicidad entre los asistentes a una reunión social. <!-- feedback: La copla popular a menudo usa el doble sentido y el humor para entretener y relajar el ambiente. -->
+- [ ] B) Enseñar zoología sobre la anatomía de las dantas. <!-- feedback: La danta es solo una excusa para el chiste y el juego de palabras. -->
+- [x] A) Generar risa y complicidad entre los asistentes a una reunión social. <!-- feedback: La copla popular a menudo usa el doble sentido y el humor para entretener y relajar el ambiente. -->
 - [ ] C) Denunciar el maltrato animal en las selvas colombianas. <!-- feedback: El tono no es de denuncia, sino de burla y picardía. -->
 - [ ] D) Demostrar que el coplero es una persona muy seria y estudiosa. <!-- feedback: Este tipo de coplas demuestran ingenio y chispa, no necesariamente seriedad académica. -->
 
@@ -87,9 +87,9 @@ La picardía es una característica central del folclor colombiano. La copla per
 ¿En qué situación de la vida real sería más adecuado aplicar este refrán colombiano?
 
 ### Opciones
-- [ ] A) Cuando un heladero tiene muchas paletas para vender y hace mucho ruido. <!-- feedback: Es una interpretación literal que no capta el sentido figurado del refrán. -->
-- [ ] B) Cuando alguien regala paletas a todos sus amigos sin hacer ruido. <!-- feedback: El refrán critica precisamente la falta de resultados frente a mucha bulla. -->
-- [x] C) Cuando una persona promete hacer muchas cosas importantes pero al final no cumple ninguna. <!-- feedback: El "tilín tilín" es el ruido (promesa) y la "paleta" es el resultado real que falta. -->
+- [ ] B) Cuando un heladero tiene muchas paletas para vender y hace mucho ruido. <!-- feedback: Es una interpretación literal que no capta el sentido figurado del refrán. -->
+- [ ] C) Cuando alguien regala paletas a todos sus amigos sin hacer ruido. <!-- feedback: El refrán critica precisamente la falta de resultados frente a mucha bulla. -->
+- [x] A) Cuando una persona promete hacer muchas cosas importantes pero al final no cumple ninguna. <!-- feedback: El "tilín tilín" es el ruido (promesa) y la "paleta" es el resultado real que falta. -->
 - [ ] D) Cuando un estudiante saca una excelente nota en un examen difícil. <!-- feedback: Aquí sí hubo "paleta" (resultado), por lo que el refrán no aplica. -->
 
 ### Explicacion Pedagogica
@@ -108,8 +108,8 @@ Entender un refrán implica realizar una operation mental de traslación: llevar
 
 ### Opciones
 - [ ] A) "...mañana paso otra vez / para pedirte un favor". <!-- feedback: Aunque rima, la opción B es la respuesta tradicional más conocida y pícara. -->
-- [x] B) "...la próxima vez que pase / sin maceta, por favor". <!-- feedback: Introduce un giro humorístico (la flor venía con todo y maceta) que es típico del ingenio popular. -->
-- [ ] C) "...las flores son muy bonitas / y de muy lindo color". <!-- feedback: Es una frase plana que no tiene el remate ingenioso propio de la copla. -->
+- [x] C) "...la próxima vez que pase / sin maceta, por favor". <!-- feedback: Introduce un giro humorístico (la flor venía con todo y maceta) que es típico del ingenio popular. -->
+- [ ] B) "...las flores son muy bonitas / y de muy lindo color". <!-- feedback: Es una frase plana que no tiene el remate ingenioso propio de la copla. -->
 - [ ] D) "...yo me puse muy feliz / y sentí mucho calor". <!-- feedback: Aunque rima con "flor", no tiene la estructura rítmica adecuada ni la chispa tradicional. -->
 
 ### Explicacion Pedagogica
@@ -166,9 +166,9 @@ La copla regional (llanera, antioqueña, boyacense) exalta los valores del hombr
 ¿Cuál es la conclusión más lógica sobre el uso de los refranes a partir de esta aparente contradicción?
 
 ### Opciones
-- [ ] A) Que los refranes son mentiras porque se contradicen entre sí. <!-- feedback: Los refranes son verdades relativas que dependen de la situación. -->
-- [ ] B) Que uno de los dos refranes está mal escrito y debe ser borrado. <!-- feedback: Ambos son válidos y forman parte del patrimonio cultural. -->
-- [x] C) Que cada refrán se aplica a una situación diferente: uno premia la diligencia y el otro advierte sobre la impaciencia. <!-- feedback: La sabiduría popular reconoce que la realidad es compleja y que un consejo no sirve para todos los momentos. -->
+- [ ] B) Que los refranes son mentiras porque se contradicen entre sí. <!-- feedback: Los refranes son verdades relativas que dependen de la situación. -->
+- [ ] C) Que uno de los dos refranes está mal escrito y debe ser borrado. <!-- feedback: Ambos son válidos y forman parte del patrimonio cultural. -->
+- [x] A) Que cada refrán se aplica a una situación diferente: uno premia la diligencia y el otro advierte sobre la impaciencia. <!-- feedback: La sabiduría popular reconoce que la realidad es compleja y que un consejo no sirve para todos los momentos. -->
 - [ ] D) Que es mejor no madrugar nunca para no tener que elegir entre los dos. <!-- feedback: Es una conclusión que evita el análisis de la profundidad del consejo. -->
 
 ### Explicacion Pedagogica
@@ -204,9 +204,9 @@ El análisis crítico de refranes permite identificar cómo el lenguaje conserva
 ¿Cuál es la evaluación más crítica sobre esta estrategia de comunicación política?
 
 ### Opciones
-- [ ] A) Es excelente porque demuestra que el político sabe mucho sobre literatura oral. <!-- feedback: Puede ser una pose aprendida, no necesariamente conocimiento real. -->
-- [ ] B) Es mala porque los políticos no deberían hablar como la gente del campo. <!-- feedback: El problema no es el lenguaje, sino la intención detrás de su uso. -->
-- [x] C) Puede ser una forma de manipulación para generar una falsa cercanía y confianza emocional sin dar propuestas reales. <!-- feedback: El uso instrumental de la cultura popular puede servir para ocultar la falta de planes concretos de gobierno. -->
+- [ ] B) Es excelente porque demuestra que el político sabe mucho sobre literatura oral. <!-- feedback: Puede ser una pose aprendida, no necesariamente conocimiento real. -->
+- [ ] C) Es mala porque los políticos no deberían hablar como la gente del campo. <!-- feedback: El problema no es el lenguaje, sino la intención detrás de su uso. -->
+- [x] A) Puede ser una forma de manipulación para generar una falsa cercanía y confianza emocional sin dar propuestas reales. <!-- feedback: El uso instrumental de la cultura popular puede servir para ocultar la falta de planes concretos de gobierno. -->
 - [ ] D) Es necesario que los refranes sean incluidos en las leyes para que sean más fáciles de leer. <!-- feedback: Los refranes tienen su espacio en la oralidad y la cultura, no en la técnica jurídica. -->
 
 ### Explicacion Pedagogica

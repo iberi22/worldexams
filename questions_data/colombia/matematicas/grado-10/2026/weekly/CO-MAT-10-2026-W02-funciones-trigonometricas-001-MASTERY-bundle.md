@@ -32,13 +32,13 @@ Este bundle contiene 12 preguntas sobre **funciones-trigonometricas** para grado
 ### Enunciado
 ¿Cuál es el periodo fundamental de $f(x)$?
 ### Opciones
-- [x] A) $2\pi$ radianes
+- [x] D) $2\pi$ radianes
   <!-- feedback: Correcto. La función seno completa un ciclo en $2\pi$ rad ($360^\circ$). -->
-- [ ] B) $\pi$ radianes
+- [ ] A) $\pi$ radianes
   <!-- feedback: Incorrecto. $\pi$ es el periodo de la función tangente. -->
-- [ ] C) $\frac{\pi}{2}$ radianes
+- [ ] B) $\frac{\pi}{2}$ radianes
   <!-- feedback: Incorrecto. Corresponde a un cuarto de ciclo. -->
-- [ ] D) $4\pi$ radianes
+- [ ] C) $4\pi$ radianes
   <!-- feedback: Incorrecto. Duplicaste el periodo real. -->
 ### Explicacion Pedagogica
 El periodo estándar de las funciones seno y coseno es $2\pi$ radianes.
@@ -52,9 +52,9 @@ El periodo estándar de las funciones seno y coseno es $2\pi$ radianes.
 ### Enunciado
 ¿Cuál es la amplitud de la función $g(x)$?
 ### Opciones
-- [x] A) $3$
+- [x] B) $3$
   <!-- feedback: Correcto. La amplitud es el valor absoluto del coeficiente del coseno: $|-3| = 3$. -->
-- [ ] B) $-3$
+- [ ] A) $-3$
   <!-- feedback: Incorrecto. La amplitud es siempre una cantidad positiva (distancia). -->
 - [ ] C) $2$
   <!-- feedback: Incorrecto. $2$ es el desplazamiento vertical. -->
@@ -72,13 +72,13 @@ La amplitud es $|A| = |-3| = 3$.
 ### Enunciado
 ¿Cuál es el periodo de la función $f(x)$?
 ### Opciones
-- [x] A) $\pi$ radianes
+- [x] D) $\pi$ radianes
   <!-- feedback: Correcto. Periodo $T = \frac{2\pi}{B} = \frac{2\pi}{2} = \pi$ radianes. -->
-- [ ] B) $2\pi$ radianes
+- [ ] A) $2\pi$ radianes
   <!-- feedback: Incorrecto. No dividiste entre la frecuencia angular $B=2$. -->
-- [ ] C) $\frac{\pi}{2}$ radianes
+- [ ] B) $\frac{\pi}{2}$ radianes
   <!-- feedback: Incorrecto. Dividiste entre la amplitud $4$. -->
-- [ ] D) $4\pi$ radianes
+- [ ] C) $4\pi$ radianes
   <!-- feedback: Incorrecto. Multiplicaste por $2$ en vez de dividir. -->
 ### Explicacion Pedagogica
 Fórmula del periodo $T = \frac{2\pi}{|B|}$. Para $B = 2$, $T = \frac{2\pi}{2} = \pi$ rad.
@@ -92,9 +92,9 @@ Fórmula del periodo $T = \frac{2\pi}{|B|}$. Para $B = 2$, $T = \frac{2\pi}{2} =
 ### Enunciado
 ¿En qué puntos del intervalo $[0, 2\pi]$ la función $h(x)$ presenta asíntotas verticales?
 ### Opciones
-- [x] A) $x = \frac{\pi}{2}$ y $x = \frac{3\pi}{2}$
+- [x] B) $x = \frac{\pi}{2}$ y $x = \frac{3\pi}{2}$
   <!-- feedback: Correcto. Donde $\cos(x) = 0$, la tangente se indetermina. -->
-- [ ] B) $x = 0$, $x = \pi$ y $x = 2\pi$
+- [ ] A) $x = 0$, $x = \pi$ y $x = 2\pi$
   <!-- feedback: Incorrecto. En estos puntos $\tan(x) = 0$ (interceptos con el eje x). -->
 - [ ] C) Solo en $x = \pi$
   <!-- feedback: Incorrecto. En $\pi$ la tangente es cero. -->
@@ -112,9 +112,9 @@ $\tan(x) = \frac{\operatorname{sen}x}{\cos x}$. Se indetermina cuando $\cos x = 
 ### Enunciado
 ¿Cuál es el rango de la función?
 ### Opciones
-- [x] A) $[-3, 1]$
+- [x] B) $[-3, 1]$
   <!-- feedback: Correcto. Como $-1 \le \cos(x) \le 1 \implies -2 \le 2\cos(x) \le 2 \implies -3 \le 2\cos(x)-1 \le 1$. -->
-- [ ] B) [-2, 2]
+- [ ] A) [-2, 2]
   <!-- feedback: Incorrecto. No aplicaste el desplazamiento vertical de $-1$. -->
 - [ ] C) [-1, 1]
   <!-- feedback: Incorrecto. Es el rango de la función coseno estándar. -->
@@ -132,9 +132,9 @@ Valor mínimo: $2(-1) - 1 = -3$. Valor máximo: $2(1) - 1 = 1$. Rango: $[-3, 1]$
 ### Enunciado
 ¿Hacia dónde y cuánto se desplaza la gráfica respecto a $\operatorname{sen}(x)$?
 ### Opciones
-- [x] A) Desplazamiento a la derecha de $\frac{\pi}{4}$ unidades
+- [x] B) Desplazamiento a la derecha de $\frac{\pi}{4}$ unidades
   <!-- feedback: Correcto. $x - C/B = 0 \implies x = \pi/4$ (desplazamiento a la derecha). -->
-- [ ] B) Desplazamiento a la izquierda de $\frac{\pi}{4}$ unidades
+- [ ] A) Desplazamiento a la izquierda de $\frac{\pi}{4}$ unidades
   <!-- feedback: Incorrecto. El signo menos dentro del argumento desplaza hacia la derecha. -->
 - [ ] C) Desplazamiento vertical hacia abajo de $\frac{\pi}{4}$ unidades
   <!-- feedback: Incorrecto. El desfase es horizontal, no vertical. -->
@@ -152,9 +152,9 @@ En $f(x-c)$, un signo negativo representa una traslación horizontal a la derech
 ### Enunciado
 ¿Cada cuántas horas se repite exactamente el ciclo de la marea (periodo del modelo)?
 ### Opciones
-- [x] A) $12$ horas
+- [x] B) $12$ horas
   <!-- feedback: Correcto. $T = \frac{2\pi}{B} = \frac{2\pi}{\pi/6} = 12$ horas. -->
-- [ ] B) $6$ horas
+- [ ] A) $6$ horas
   <!-- feedback: Incorrecto. $6$ horas es la mitad del ciclo (de marea baja a alta). -->
 - [ ] C) $24$ horas
   <!-- feedback: Incorrecto. Duplicaste el periodo calculado. -->
@@ -212,11 +212,11 @@ $\cos(\theta) = 0 \implies \theta = \frac{\pi}{2}, \frac{3\pi}{2}$. Como $\theta
 ### Enunciado
 ¿Cuál es la frecuencia de la corriente en Hertz (ciclos por segundo)?
 ### Opciones
-- [x] A) $50\text{ Hz}$
+- [x] C) $50\text{ Hz}$
   <!-- feedback: Correcto. Periodo $T = \frac{2\pi}{100\pi} = \frac{1}{50}\text{ s}$. Frecuencia $f = 1/T = 50\text{ Hz}$. -->
-- [ ] B) $100\text{ Hz}$
+- [ ] A) $100\text{ Hz}$
   <!-- feedback: Incorrecto. Confundiste la frecuencia angular $\omega$ con la frecuencia $f$. -->
-- [ ] C) $60\text{ Hz}$
+- [ ] B) $60\text{ Hz}$
   <!-- feedback: Incorrecto. Frecuencia estándar comercial pero no de este modelo. -->
 - [ ] D) $10\text{ Hz}$
   <!-- feedback: Incorrecto. Es el valor de la amplitud de la corriente. -->
@@ -252,9 +252,9 @@ $(2\cos x - 1)(\cos x + 1) = 0 \implies \cos x = 1/2 \implies x = \pi/3, 5\pi/3$
 ### Enunciado
 ¿Cuál es el valor máximo absoluto que alcanza la función $f(x)$?
 ### Opciones
-- [x] A) $\sqrt{2}$
+- [x] B) $\sqrt{2}$
   <!-- feedback: Correcto. $f(x) = \sqrt{2}\operatorname{sen}(x + \pi/4)$, con amplitud $\sqrt{2} \approx 1.414$. -->
-- [ ] B) $2$
+- [ ] A) $2$
   <!-- feedback: Incorrecto. Seno y Coseno no alcanzan $1$ simultáneamente en el mismo ángulo. -->
 - [ ] C) $1$
   <!-- feedback: Incorrecto. Para $x = \pi/4$, $\operatorname{sen}(\pi/4)+\cos(\pi/4) = \sqrt{2}/2 + \sqrt{2}/2 = \sqrt{2} > 1$. -->

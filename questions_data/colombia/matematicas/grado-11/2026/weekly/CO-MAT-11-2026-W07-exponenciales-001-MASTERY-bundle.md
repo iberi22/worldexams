@@ -32,11 +32,11 @@ Este bundle contiene 20 preguntas sobre **exponenciales** para grado 11, alinead
 ### Enunciado
 ¿Para qué valor de $t$ se cumple la ecuación $5^{t - 1} = 25$?
 ### Opciones
-- [x] A) 3
+- [x] C) 3
   <!-- feedback: Correcto. Como $25 = 5^{2}$, igualamos exponentes: $t - 1 = 2 \implies t = 3$. -->
-- [ ] B) 2
+- [ ] A) 2
   <!-- feedback: Incorrecto. Olvidaste sumar 1 al exponente. -->
-- [ ] C) 5
+- [ ] B) 5
   <!-- feedback: Incorrecto. Sumaste incorrectamente las bases. -->
 - [ ] D) 1
   <!-- feedback: Incorrecto. Ese valor hace que la potencia sea igual a 1. -->
@@ -52,11 +52,11 @@ Expresando ambos lados en la misma base: $5^{t - 1} = 5^{2}$. Al igualar exponen
 ### Enunciado
 ¿Para qué valor de $t$ se cumple la ecuación $2^{t - 2} = 8$?
 ### Opciones
-- [x] A) 5
+- [x] C) 5
   <!-- feedback: Correcto. Como $8 = 2^{3}$, igualamos exponentes: $t - 2 = 3 \implies t = 5$. -->
-- [ ] B) 3
+- [ ] A) 3
   <!-- feedback: Incorrecto. Olvidaste sumar 2 al exponente. -->
-- [ ] C) 7
+- [ ] B) 7
   <!-- feedback: Incorrecto. Sumaste incorrectamente las bases. -->
 - [ ] D) 2
   <!-- feedback: Incorrecto. Ese valor hace que la potencia sea igual a 1. -->
@@ -72,13 +72,13 @@ Expresando ambos lados en la misma base: $2^{t - 2} = 2^{3}$. Al igualar exponen
 ### Enunciado
 ¿Para qué valor de $t$ se cumple la ecuación $5^{t - 3} = 5$?
 ### Opciones
-- [x] A) 4
+- [x] D) 4
   <!-- feedback: Correcto. Como $5 = 5^{1}$, igualamos exponentes: $t - 3 = 1 \implies t = 4$. -->
-- [ ] B) 1
+- [ ] A) 1
   <!-- feedback: Incorrecto. Olvidaste sumar 3 al exponente. -->
-- [ ] C) 6
+- [ ] B) 6
   <!-- feedback: Incorrecto. Sumaste incorrectamente las bases. -->
-- [ ] D) 3
+- [ ] C) 3
   <!-- feedback: Incorrecto. Ese valor hace que la potencia sea igual a 1. -->
 ### Explicacion Pedagogica
 Expresando ambos lados en la misma base: $5^{t - 3} = 5^{1}$. Al igualar exponentes, $t - 3 = 1 \implies t = 1 + 3 = 4$.
@@ -112,11 +112,11 @@ Expresando ambos lados en la misma base: $2^{t - 4} = 2^{2}$. Al igualar exponen
 ### Enunciado
 ¿Para qué valor de $t$ se cumple la ecuación $5^{t - 5} = 125$?
 ### Opciones
-- [x] A) 8
+- [x] C) 8
   <!-- feedback: Correcto. Como $125 = 5^{3}$, igualamos exponentes: $t - 5 = 3 \implies t = 8$. -->
-- [ ] B) 3
+- [ ] A) 3
   <!-- feedback: Incorrecto. Olvidaste sumar 5 al exponente. -->
-- [ ] C) 10
+- [ ] B) 10
   <!-- feedback: Incorrecto. Sumaste incorrectamente las bases. -->
 - [ ] D) 5
   <!-- feedback: Incorrecto. Ese valor hace que la potencia sea igual a 1. -->
@@ -132,9 +132,9 @@ Expresando ambos lados en la misma base: $5^{t - 5} = 5^{3}$. Al igualar exponen
 ### Enunciado
 ¿Para qué valor de $t$ se cumple la ecuación $2^{t - 6} = 2$?
 ### Opciones
-- [x] A) 7
+- [x] B) 7
   <!-- feedback: Correcto. Como $2 = 2^{1}$, igualamos exponentes: $t - 6 = 1 \implies t = 7$. -->
-- [ ] B) 1
+- [ ] A) 1
   <!-- feedback: Incorrecto. Olvidaste sumar 6 al exponente. -->
 - [ ] C) 9
   <!-- feedback: Incorrecto. Sumaste incorrectamente las bases. -->
@@ -152,11 +152,11 @@ Expresando ambos lados en la misma base: $2^{t - 6} = 2^{1}$. Al igualar exponen
 ### Enunciado
 ¿Para qué valor de $t$ se cumple la ecuación $5^{t - 7} = 25$?
 ### Opciones
-- [x] A) 9
+- [x] C) 9
   <!-- feedback: Correcto. Como $25 = 5^{2}$, igualamos exponentes: $t - 7 = 2 \implies t = 9$. -->
-- [ ] B) 2
+- [ ] A) 2
   <!-- feedback: Incorrecto. Olvidaste sumar 7 al exponente. -->
-- [ ] C) 11
+- [ ] B) 11
   <!-- feedback: Incorrecto. Sumaste incorrectamente las bases. -->
 - [ ] D) 7
   <!-- feedback: Incorrecto. Ese valor hace que la potencia sea igual a 1. -->
@@ -172,9 +172,9 @@ Expresando ambos lados en la misma base: $5^{t - 7} = 5^{2}$. Al igualar exponen
 ### Enunciado
 ¿Para qué valor de $t$ se cumple la ecuación $2^{t - 8} = 8$?
 ### Opciones
-- [x] A) 11
+- [x] B) 11
   <!-- feedback: Correcto. Como $8 = 2^{3}$, igualamos exponentes: $t - 8 = 3 \implies t = 11$. -->
-- [ ] B) 3
+- [ ] A) 3
   <!-- feedback: Incorrecto. Olvidaste sumar 8 al exponente. -->
 - [ ] C) 13
   <!-- feedback: Incorrecto. Sumaste incorrectamente las bases. -->
@@ -212,13 +212,13 @@ Expresando ambos lados en la misma base: $5^{t - 9} = 5^{1}$. Al igualar exponen
 ### Enunciado
 ¿Para qué valor de $t$ se cumple la ecuación $2^{t - 10} = 4$?
 ### Opciones
-- [x] A) 12
+- [x] D) 12
   <!-- feedback: Correcto. Como $4 = 2^{2}$, igualamos exponentes: $t - 10 = 2 \implies t = 12$. -->
-- [ ] B) 2
+- [ ] A) 2
   <!-- feedback: Incorrecto. Olvidaste sumar 10 al exponente. -->
-- [ ] C) 14
+- [ ] B) 14
   <!-- feedback: Incorrecto. Sumaste incorrectamente las bases. -->
-- [ ] D) 10
+- [ ] C) 10
   <!-- feedback: Incorrecto. Ese valor hace que la potencia sea igual a 1. -->
 ### Explicacion Pedagogica
 Expresando ambos lados en la misma base: $2^{t - 10} = 2^{2}$. Al igualar exponentes, $t - 10 = 2 \implies t = 2 + 10 = 12$.
@@ -232,13 +232,13 @@ Expresando ambos lados en la misma base: $2^{t - 10} = 2^{2}$. Al igualar expone
 ### Enunciado
 ¿Para qué valor de $t$ se cumple la ecuación $5^{t - 11} = 125$?
 ### Opciones
-- [x] A) 14
+- [x] D) 14
   <!-- feedback: Correcto. Como $125 = 5^{3}$, igualamos exponentes: $t - 11 = 3 \implies t = 14$. -->
-- [ ] B) 3
+- [ ] A) 3
   <!-- feedback: Incorrecto. Olvidaste sumar 11 al exponente. -->
-- [ ] C) 16
+- [ ] B) 16
   <!-- feedback: Incorrecto. Sumaste incorrectamente las bases. -->
-- [ ] D) 11
+- [ ] C) 11
   <!-- feedback: Incorrecto. Ese valor hace que la potencia sea igual a 1. -->
 ### Explicacion Pedagogica
 Expresando ambos lados en la misma base: $5^{t - 11} = 5^{3}$. Al igualar exponentes, $t - 11 = 3 \implies t = 3 + 11 = 14$.
@@ -272,9 +272,9 @@ Expresando ambos lados en la misma base: $2^{t - 12} = 2^{1}$. Al igualar expone
 ### Enunciado
 ¿Para qué valor de $t$ se cumple la ecuación $5^{t - 13} = 25$?
 ### Opciones
-- [x] A) 15
+- [x] B) 15
   <!-- feedback: Correcto. Como $25 = 5^{2}$, igualamos exponentes: $t - 13 = 2 \implies t = 15$. -->
-- [ ] B) 2
+- [ ] A) 2
   <!-- feedback: Incorrecto. Olvidaste sumar 13 al exponente. -->
 - [ ] C) 17
   <!-- feedback: Incorrecto. Sumaste incorrectamente las bases. -->
@@ -292,11 +292,11 @@ Expresando ambos lados en la misma base: $5^{t - 13} = 5^{2}$. Al igualar expone
 ### Enunciado
 ¿Para qué valor de $t$ se cumple la ecuación $2^{t - 14} = 8$?
 ### Opciones
-- [x] A) 17
+- [x] C) 17
   <!-- feedback: Correcto. Como $8 = 2^{3}$, igualamos exponentes: $t - 14 = 3 \implies t = 17$. -->
-- [ ] B) 3
+- [ ] A) 3
   <!-- feedback: Incorrecto. Olvidaste sumar 14 al exponente. -->
-- [ ] C) 19
+- [ ] B) 19
   <!-- feedback: Incorrecto. Sumaste incorrectamente las bases. -->
 - [ ] D) 14
   <!-- feedback: Incorrecto. Ese valor hace que la potencia sea igual a 1. -->
@@ -312,13 +312,13 @@ Expresando ambos lados en la misma base: $2^{t - 14} = 2^{3}$. Al igualar expone
 ### Enunciado
 ¿Para qué valor de $t$ se cumple la ecuación $5^{t - 15} = 5$?
 ### Opciones
-- [x] A) 16
+- [x] D) 16
   <!-- feedback: Correcto. Como $5 = 5^{1}$, igualamos exponentes: $t - 15 = 1 \implies t = 16$. -->
-- [ ] B) 1
+- [ ] A) 1
   <!-- feedback: Incorrecto. Olvidaste sumar 15 al exponente. -->
-- [ ] C) 18
+- [ ] B) 18
   <!-- feedback: Incorrecto. Sumaste incorrectamente las bases. -->
-- [ ] D) 15
+- [ ] C) 15
   <!-- feedback: Incorrecto. Ese valor hace que la potencia sea igual a 1. -->
 ### Explicacion Pedagogica
 Expresando ambos lados en la misma base: $5^{t - 15} = 5^{1}$. Al igualar exponentes, $t - 15 = 1 \implies t = 1 + 15 = 16$.
@@ -332,9 +332,9 @@ Expresando ambos lados en la misma base: $5^{t - 15} = 5^{1}$. Al igualar expone
 ### Enunciado
 ¿Para qué valor de $t$ se cumple la ecuación $2^{t - 16} = 4$?
 ### Opciones
-- [x] A) 18
+- [x] B) 18
   <!-- feedback: Correcto. Como $4 = 2^{2}$, igualamos exponentes: $t - 16 = 2 \implies t = 18$. -->
-- [ ] B) 2
+- [ ] A) 2
   <!-- feedback: Incorrecto. Olvidaste sumar 16 al exponente. -->
 - [ ] C) 20
   <!-- feedback: Incorrecto. Sumaste incorrectamente las bases. -->
@@ -352,13 +352,13 @@ Expresando ambos lados en la misma base: $2^{t - 16} = 2^{2}$. Al igualar expone
 ### Enunciado
 ¿Para qué valor de $t$ se cumple la ecuación $5^{t - 17} = 125$?
 ### Opciones
-- [x] A) 20
+- [x] D) 20
   <!-- feedback: Correcto. Como $125 = 5^{3}$, igualamos exponentes: $t - 17 = 3 \implies t = 20$. -->
-- [ ] B) 3
+- [ ] A) 3
   <!-- feedback: Incorrecto. Olvidaste sumar 17 al exponente. -->
-- [ ] C) 22
+- [ ] B) 22
   <!-- feedback: Incorrecto. Sumaste incorrectamente las bases. -->
-- [ ] D) 17
+- [ ] C) 17
   <!-- feedback: Incorrecto. Ese valor hace que la potencia sea igual a 1. -->
 ### Explicacion Pedagogica
 Expresando ambos lados en la misma base: $5^{t - 17} = 5^{3}$. Al igualar exponentes, $t - 17 = 3 \implies t = 3 + 17 = 20$.
@@ -392,11 +392,11 @@ Expresando ambos lados en la misma base: $2^{t - 18} = 2^{1}$. Al igualar expone
 ### Enunciado
 ¿Para qué valor de $t$ se cumple la ecuación $5^{t - 19} = 25$?
 ### Opciones
-- [x] A) 21
+- [x] C) 21
   <!-- feedback: Correcto. Como $25 = 5^{2}$, igualamos exponentes: $t - 19 = 2 \implies t = 21$. -->
-- [ ] B) 2
+- [ ] A) 2
   <!-- feedback: Incorrecto. Olvidaste sumar 19 al exponente. -->
-- [ ] C) 23
+- [ ] B) 23
   <!-- feedback: Incorrecto. Sumaste incorrectamente las bases. -->
 - [ ] D) 19
   <!-- feedback: Incorrecto. Ese valor hace que la potencia sea igual a 1. -->

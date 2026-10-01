@@ -35,11 +35,11 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ¿Cuál de las siguientes características define formalmente a la narrativa frente al género lírico?
 
 ### Opciones
-- [x] A) La presencia indispensable de un narrador que relata acontecimientos ocurridos a unos personajes en un espacio y tiempo determinados.
+- [x] C) La presencia indispensable de un narrador que relata acontecimientos ocurridos a unos personajes en un espacio y tiempo determinados.
   <!-- feedback: Correcto. El narrador y la secuencia de acciones temporales definen formalmente a la narrativa. -->
-- [ ] B) La expresión directa del yo lírico mediante versos rimados sin trama de acontecimientos.
+- [ ] A) La expresión directa del yo lírico mediante versos rimados sin trama de acontecimientos.
   <!-- feedback: Incorrecto. Esto constituye la definición formal del género lírico poético. -->
-- [ ] C) La escritura exclusiva en forma de diálogos destinados a la representación escénica por actores.
+- [ ] B) La escritura exclusiva en forma de diálogos destinados a la representación escénica por actores.
   <!-- feedback: Incorrecto. Esto define formalmente al género dramático o teatral. -->
 - [ ] D) La abolición total de todo tipo de figuras literarias y recursos de embellecimiento estético de la provincia.
   <!-- feedback: Incorrecto. La narrativa literaria artística utiliza abundantes recursos estéticos y tropos. -->
@@ -62,11 +62,11 @@ El género narrativo se constituye a partir de la mediación de la voz del narra
 ### Opciones
 - [ ] A) La presencia de viajes espaciales y de tecnologías futuristas en Alajuela.
   <!-- feedback: Incorrecto. El costumbrismo retrata la realidad rural de la época, libre de ciencia ficción futurista. -->
-- [x] B) El retrato fiel de la vida rural campesina, el uso de regionalismos costarricenses en los diálogos y la denuncia de las convenciones sociales de la época.
+- [x] D) El retrato fiel de la vida rural campesina, el uso de regionalismos costarricenses en los diálogos y la denuncia de las convenciones sociales de la época.
   <!-- feedback: Correcto. El costumbrismo y realismo rural costarricense se enfocaban en plasmar con fidelidad lingüística y social la cotidianidad del campo. -->
-- [ ] C) La escritura de toda la novela utilizando versos alejandrinos con rima.
+- [ ] B) La escritura de toda la novela utilizando versos alejandrinos con rima.
   <!-- feedback: Incorrecto. Las novelas costumbristas se escriben en prosa, no en estructuras poéticas rimadas. -->
-- [ ] D) La ambientación exclusiva de la trama en cortes de la edad media.
+- [ ] C) La ambientación exclusiva de la trama en cortes de la edad media.
   <!-- feedback: Incorrecto. Se ambientaban de forma realista en pueblos y cantones rurales del Valle Central de Costa Rica. -->
 
 ### Explicacion Pedagogica
@@ -112,11 +112,11 @@ La incorporación de la variante dialectal campesina o rústica en el costumbris
 ### Opciones
 - [ ] A) Los bueyes volaban sobre las plantaciones de caña de la provincia.
   <!-- feedback: Incorrecto. Esto pertenece al género de la fantasía o el realismo mágico, alejado del realismo social puro. -->
-- [x] B) El jornalero limpiaba el sudor de su frente mientras el sol de las doce calentaba la tierra agrietada. Su salario de tres colones apenas alcanzaba para el sustento diario de su familia.
+- [x] D) El jornalero limpiaba el sudor de su frente mientras el sol de las doce calentaba la tierra agrietada. Su salario de tres colones apenas alcanzaba para el sustento diario de su familia.
   <!-- feedback: Correcto. Describe con crudeza las condiciones socioeconómicas reales y duras del peón del campo. -->
-- [ ] C) Un dragón de fuego bajó del Volcán Arenal destruyendo todos los trapiches.
+- [ ] B) Un dragón de fuego bajó del Volcán Arenal destruyendo todos los trapiches.
   <!-- feedback: Incorrecto. Introduce de fantasía mítica ajenos al propósito del retrato de realismo social. -->
-- [ ] D) La caña de azúcar es una planta gramínea que posee un tallo macizo lleno de jugo rico en sacarosa.
+- [ ] C) La caña de azúcar es una planta gramínea que posee un tallo macizo lleno de jugo rico en sacarosa.
   <!-- feedback: Incorrecto. Es un texto explicativo puramente expositivo botánico, no un relato literario realista. -->
 
 ### Explicacion Pedagogica
@@ -137,9 +137,9 @@ La narrativa de realismo social se caracteriza por el retrato objetivo y crític
 ### Opciones
 - [ ] A) La descripción de tecnologías del siglo XXI en contextos de la provincia.
   <!-- feedback: Incorrecto. Esto constituye un anacronismo de ciencia ficción, no realismo mágico. -->
-- [x] B) La inserción de sucesos fantásticos o maravillosos dentro de la cotidianidad de forma natural, sin causar extrañeza en los personajes.
+- [x] C) La inserción de sucesos fantásticos o maravillosos dentro de la cotidianidad de forma natural, sin causar extrañeza en los personajes.
   <!-- feedback: Correcto. El realismo mágico integra lo irreal o insólito como parte de la realidad normal cotidiana. -->
-- [ ] C) La ausencia absoluta de diálogos e intervenciones de personajes en la novela.
+- [ ] B) La ausencia absoluta de diálogos e intervenciones de personajes en la novela.
   <!-- feedback: Incorrecto. El realismo mágico utiliza diálogos y una gran profusión de personajes humanos. -->
 - [ ] D) El uso de oraciones explicativas técnicas de carácter meteorológico.
   <!-- feedback: Incorrecto. Pertenece al género de ficción literaria y utiliza un lenguaje estético evocador. -->
@@ -162,9 +162,9 @@ El realismo mágico difumina las fronteras entre lo real y lo fantástico, asimi
 ### Opciones
 - [ ] A) Las vacaciones de un grupo de jóvenes adinerados de San José por las playas de Limón.
   <!-- feedback: Incorrecto. La obra aborda la cruda realidad obrera, no el turismo de ocio josefino. -->
-- [x] B) La explotación laboral de los trabajadores bananeros por parte de las multinacionales extranjeras y las precarias condiciones de salud en el Caribe costarricense.
+- [x] C) La explotación laboral de los trabajadores bananeros por parte de las multinacionales extranjeras y las precarias condiciones de salud en el Caribe costarricense.
   <!-- feedback: Correcto. 'Mamita Yunai' retrata con fidelidad de denuncia las duras condiciones de la United Fruit Company y el desamparo de los peones. -->
-- [ ] C) La descripción de las enfermedades de la planta de banano emitida por el Ministerio.
+- [ ] B) La descripción de las enfermedades de la planta de banano emitida por el Ministerio.
   <!-- feedback: Incorrecto. Es una novela literaria con enfoque de realismo social humano, no un informe agronómico. -->
 - [ ] D) La coronación de un monarca europeo en el puerto de Limón durante el siglo dieciocho.
   <!-- feedback: Incorrecto. Se ambienta en el siglo veinte en Costa Rica y trata sobre obreros agrícolas, no sobre realeza europea. -->
@@ -187,9 +187,9 @@ La novela de Carlos Luis Fallas es una denuncia militante del imperialismo econ�
 ### Opciones
 - [ ] A) Revelar la identidad del culpable de forma explícita en la primera línea del cuento.
   <!-- feedback: Incorrecto. Destruye el suspenso de manera inmediata, eliminando la intriga del relato. -->
-- [x] B) Dosificar la información de manera estratégica, empleando elipsis temporales e indicios misteriosos antes de la revelación final.
+- [x] C) Dosificar la información de manera estratégica, empleando elipsis temporales e indicios misteriosos antes de la revelación final.
   <!-- feedback: Correcto. Retener información de forma calculada estimula la curiosidad del lector. -->
-- [ ] C) Introducir tablas con el censo de la provincia de Puntarenas.
+- [ ] B) Introducir tablas con el censo de la provincia de Puntarenas.
   <!-- feedback: Incorrecto. Es un dato estadístico que corta el ritmo narrativo de suspenso. -->
 - [ ] D) Escribir todo el cuento utilizando únicamente oraciones cortas de la provincia.
   <!-- feedback: Incorrecto. Atenta contra la coherencia expresiva elemental y dificulta el desarrollo de tramas. -->
@@ -235,9 +235,9 @@ Los cuentos de Carmen Lyra adaptan el folclore popular costarricense, elevando a
 ¿Cuál de las problemática socioecológica costarricense que denuncia de forma magistral esta novela contemporánea?
 
 ### Opciones
-- [ ] A) La falta de infraestructura turística en las playas de la provincia.
+- [ ] B) La falta de infraestructura turística en las playas de la provincia.
   <!-- feedback: Incorrecto. No aborda el turismo hotelero de Guanacaste, se enfoca en problemas marginales urbanos. -->
-- [x] B) La marginación social de los buceadores de basura en el botadero de Río Azul y la problemática del manejo de desechos en el Área Metropolitana.
+- [x] A) La marginación social de los buceadores de basura en el botadero de Río Azul y la problemática del manejo de desechos en el Área Metropolitana.
   <!-- feedback: Correcto. La novela expone con ternura y crudeza de realismo social contemporáneo la vida de quienes sobreviven de la basura en el basurero de Río Azul. -->
 - [ ] C) La historia de la construcción del ferrocarril de la provincia.
   <!-- feedback: Incorrecto. Esto corresponde a novelas de temática histórica caribeña, no al contexto urbano marginal de Río Azul. -->
@@ -286,11 +286,11 @@ El cuento destaca por la concentración de sus recursos estéticos en un único 
 ¿Qué oposición simbólica fundamental estructura el sentido de este fragmento?
 
 ### Opciones
-- [x] A) La contraposición entre el mundo marginal, miserable e insalubre del basurero de Río Azul (miseria inmediata) frente al mundo opulento, indiferente y lejano de la ciudad capital (estrellas inalcanzables).
+- [x] C) La contraposición entre el mundo marginal, miserable e insalubre del basurero de Río Azul (miseria inmediata) frente al mundo opulento, indiferente y lejano de la ciudad capital (estrellas inalcanzables).
   <!-- feedback: Correcto. El fragmento utiliza el espacio de Río Azul y las luces lejanas de San José para metaforizar la exclusión social de los personajes de la novela. -->
-- [ ] B) La lucha de los buceadores contra la invasión de naves de la provincia.
+- [ ] A) La lucha de los buceadores contra la invasión de naves de la provincia.
   <!-- feedback: Incorrecto. Las estrellas inalcanzables son una metáfora de las luces de la ciudad capital, no naves reales fantásticas. -->
-- [ ] C) La descripción de las ventajas de vivir en el centro de San José.
+- [ ] B) La descripción de las ventajas de vivir en el centro de San José.
   <!-- feedback: Incorrecto. Es un de realismo crítico y denuncia de la exclusión social, no una apología residencial urbana capitalina. -->
 - [ ] D) La narración de una excursión turística nocturna al botadero.
   <!-- feedback: Incorrecto. Describe las condiciones duras de vida cotidiana, no paseos de escuela. -->
@@ -314,9 +314,9 @@ La geografía literaria en la novela social contemporánea de Costa Rica plasma 
 ### Opciones
 - [ ] A) A través del uso de latinismos para elevar la dignidad de la provincia.
   <!-- feedback: Incorrecto. No utiliza latín, emplea el habla popular campesina local. -->
-- [x] B) A través de la recreación del idiolecto campesino con interjecciones típicas ('diay') y referencias geográficas reales, reafirmando la identidad.
+- [x] C) A través de la recreación del idiolecto campesino con interjecciones típicas ('diay') y referencias geográficas reales, reafirmando la identidad.
   <!-- feedback: Correcto. El costumbrismo persigue capturar la esencia popular agraria recreando el habla y las dinámicas cotidianas con un sentido de pertenencia nacional. -->
-- [ ] C) Mediante una crítica a la falta de escuelas públicas rurales.
+- [ ] B) Mediante una crítica a la falta de escuelas públicas rurales.
   <!-- feedback: Incorrecto. No hay denuncia educativa en este pasaje afectivo de saludo. -->
 - [ ] D) A través de la exclusión de toda raya de diálogo (—) para acelerar de forma drástica la lectura.
   <!-- feedback: Incorrecto. Utiliza rayas de diálogo formales, respetando las normas editoriales de la época. -->
@@ -339,9 +339,9 @@ El costumbrismo costarricense valida la identidad campesina dándole espacio lit
 ### Opciones
 - [ ] A) La falta de inversión en tecnologías de transporte de San José hacia Cartago.
   <!-- feedback: Incorrecto. No aborda problemas de transporte, se enfoca en el drama de los matrimonios de conveniencia. -->
-- [x] B) La preeminencia de las alianzas económicas de clase basadas en el poder patrimonial sobre el libre albedrío afectivo de los jóvenes del campo.
+- [x] C) La preeminencia de las alianzas económicas de clase basadas en el poder patrimonial sobre el libre albedrío afectivo de los jóvenes del campo.
   <!-- feedback: Correcto. El matrimonio arreglado de Cundila con don Sebastián refleja el predominio del interés de clase sobre los afectos de los desposeídos. -->
-- [ ] C) La abolición del cultivo de café debido a plagas en la provincia.
+- [ ] B) La abolición del cultivo de café debido a plagas en la provincia.
   <!-- feedback: Incorrecto. No trata sobre crisis fitosanitarias cafetaleras, expone el drama social del campesinado. -->
 - [ ] D) La exigencia del MEP de exigir certificados de bachillerato para casarse.
   <!-- feedback: Incorrecto. Se sitúa en el año 1900, mucho antes de las pruebas de bachillerato modernas del país. -->
@@ -363,9 +363,9 @@ El desenlace de 'El Moto' rompe con el idilio costumbrista bucólico y denuncia 
 ¿Cómo opera el mecanismo de la ironía en este fragmento?
 
 ### Opciones
-- [x] A) Asocia una lentitud extrema (la velocidad de un glaciar) con la parsimonia de la oficina, logrando un efecto satírico mediante comparaciones hiperbólicas.
+- [x] B) Asocia una lentitud extrema (la velocidad de un glaciar) con la parsimonia de la oficina, logrando un efecto satírico mediante comparaciones hiperbólicas.
   <!-- feedback: Correcto. Utiliza la ironía y la hipérbole ('velocidad de un glaciar', 'firmar cada tres horas') para satirizar la ineficiencia laboral en la oficina capitalina. -->
-- [ ] B) Describe científicamente el fenómeno de la cordillera volcánica de Costa Rica.
+- [ ] A) Describe científicamente el fenómeno de la cordillera volcánica de Costa Rica.
   <!-- feedback: Incorrecto. Costa Rica es tropical y no tiene glaciares físicos activos; es un tropo irónico del autor. -->
 - [ ] C) Alaba la velocidad sobrehumana del empleado de la provincia.
   <!-- feedback: Incorrecto. Critica de forma satírica la lentitud, no alaba la velocidad. -->
@@ -390,11 +390,11 @@ La ironía consiste en dar a entender lo contrario de lo que se dice explícitam
 ### Opciones
 - [ ] A) Promueve la discriminación y la segregación social de las poblaciones extranjeras de la capital.
   <!-- feedback: Incorrecto. El propósito educativo es diametralmente opuesto: busca fomentar la inclusión, no el prejuicio. -->
-- [x] B) Fomenta la empatía, la sensibilidad social y la comprensión de los fenómenos migratorios contemporáneos, reconociendo la dignidad de las personas en la sociedad.
+- [x] D) Fomenta la empatía, la sensibilidad social y la comprensión de los fenómenos migratorios contemporáneos, reconociendo la dignidad de las personas en la sociedad.
   <!-- feedback: Correcto. La literatura contemporánea es un vehículo idóneo para educar en valores humanos, derechos y respeto intercultural. -->
-- [ ] C) Instruye en los procedimientos legales que realiza la policía.
+- [ ] B) Instruye en los procedimientos legales que realiza la policía.
   <!-- feedback: Incorrecto. Es un análisis estético y humanista literario, no un manual de procedimientos de patrullas policiales o derecho. -->
-- [ ] D) Exige la abolición del uso de la moneda de colones para realizar intercambios comerciales.
+- [ ] C) Exige la abolición del uso de la moneda de colones para realizar intercambios comerciales.
   <!-- feedback: Incorrecto. Las novelas literarias no tienen la finalidad económica de reformar el sistema de moneda nacional. -->
 
 ### Explicacion Pedagogica
@@ -439,9 +439,9 @@ La coherencia de género literario exige respetar el marco de verosimilitud cons
 ¿Qué criterio metodológico valida el rigor de esta construcción narrativa de ciencia ficción?
 
 ### Opciones
-- [ ] A) La inclusión de recetas tradicionales de Cartago.
+- [ ] B) La inclusión de recetas tradicionales de Cartago.
   <!-- feedback: Incorrecto. Las recetas aportan valor costumbrista, no rigor al género especulativo de ciencia ficción futurista. -->
-- [x] B) La extrapolación coherente de tendencias contemporáneas aplicadas a un marco geográfico real del país.
+- [x] A) La extrapolación coherente de tendencias contemporáneas aplicadas a un marco geográfico real del país.
   <!-- feedback: Correcto. La ciencia ficción sólida proyecta hipótesis lógicas y coherentes sobre la sociedad o el territorio. -->
 - [ ] C) Sostener que el Volcán Irazú fue construido artificialmente en el siglo pasado.
   <!-- feedback: Incorrecto. Inventar datos falsos absurdos del pasado destruye la verosimilitud de fondo. -->
@@ -467,11 +467,11 @@ La verosimilitud de la ciencia ficción especulativa reposa en la coherencia de 
 ### Opciones
 - [ ] A) Demuestra que la población de Guanacaste posee un odio contra San José.
   <!-- feedback: Incorrecto. No hay odio en el pasaje, expresa una queja de supervivencia frente a visiones urbanas de la capital. -->
-- [x] B) Contrapone de forma dramática las preocupaciones de la sequía del campo frente a las inquietudes de la vida de la capital.
+- [x] D) Contrapone de forma dramática las preocupaciones de la sequía del campo frente a las inquietudes de la vida de la capital.
   <!-- feedback: Correcto. Ilustra el abismo existencial entre la dureza agraria realista y las preocupaciones ociosas o fantásticas de la urbe. -->
-- [ ] C) Instruye sobre la geología de los pozos de la provincia.
+- [ ] B) Instruye sobre la geología de los pozos de la provincia.
   <!-- feedback: Incorrecto. No provee datos técnicos de ingeniería hídrica del AyA; es una queja de supervivencia humana de ficción. -->
-- [ ] D) Exige que se autorice la siembra de café de la provincia.
+- [ ] C) Exige que se autorice la siembra de café de la provincia.
   <!-- feedback: Incorrecto. Guanacaste es de clima seco inadecuado para café; la novela no propone absurdos agronómicos. -->
 
 ### Explicacion Pedagogica

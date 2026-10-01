@@ -34,9 +34,9 @@ Este bundle contiene 20 preguntas sobre **Repaso Integral Periodo 2 de Ciencias 
 ¿Qué principio de conservación físico-químico establece que en todo sistema aislado la masa y la energía total permanecen constantes?
 
 ### Opciones
-- [x] A) Primera Ley de la Termodinámica (Conservación de la Energía).
+- [x] B) Primera Ley de la Termodinámica (Conservación de la Energía).
   <!-- feedback: Correcto. La energía no se crea ni se destruye, solo se transforma entre trabajo, calor y energía interna. -->
-- [ ] B) Tercera Ley de Newton del movimiento.
+- [ ] A) Tercera Ley de Newton del movimiento.
   <!-- feedback: Incorrecto. La tercera ley de Newton trata sobre fuerzas de acción y reacción. -->
 - [ ] C) Principio de exclusión de Pauli.
   <!-- feedback: Incorrecto. Trata sobre los números cuánticos de los electrones. -->
@@ -80,11 +80,11 @@ Los monosacáridos son polihidroxialdehídos o polihidroxicetonas que contienen 
 Si la velocidad de un objeto en movimiento se duplica ($v \rightarrow 2v$), ¿por qué factor se multiplica su energía cinética?
 
 ### Opciones
-- [x] A) Se quadruplica (factor 4).
+- [x] C) Se quadruplica (factor 4).
   <!-- feedback: Correcto. Como $E_k = \frac{1}{2}m v^2$, duplicar la velocidad resulta en $(2v)^2 = 4 v^2$. -->
-- [ ] B) Se duplica (factor 2).
+- [ ] A) Se duplica (factor 2).
   <!-- feedback: Incorrecto. La energía cinética varía con el cuadrado de la velocidad. -->
-- [ ] C) Se triplica (factor 3).
+- [ ] B) Se triplica (factor 3).
   <!-- feedback: Incorrecto. La dependencia es cuadrática. -->
 - [ ] D) Permanece igual.
   <!-- feedback: Incorrecto. La energía cinética aumenta con la velocidad. -->
@@ -103,9 +103,9 @@ Dado que $E_k propto v^2$, duplicar la velocidad incrementa la energía cinétic
 ¿Qué nivel de estructura proteica se conserva intacto tras la desnaturalización térmica de una enzima?
 
 ### Opciones
-- [x] A) Estructura primaria.
+- [x] B) Estructura primaria.
   <!-- feedback: Correcto. Los enlaces peptídicos covalentes resisten el calor no hidrolizándose la secuencia lineal. -->
-- [ ] B) Estructura secundaria.
+- [ ] A) Estructura secundaria.
   <!-- feedback: Incorrecto. Los puentes de hidrógeno de las hélices y láminas se rompen con el calor. -->
 - [ ] C) Estructura terciaria.
   <!-- feedback: Incorrecto. El plegamiento tridimensional nativo se pierde completamente. -->
@@ -126,11 +126,11 @@ La desnaturalización desorganiza las estructuras superior mantenidas por fuerza
 ¿Qué afirmación expresa el principio de equivalencia de la energía en ambos experimentos?
 
 ### Opciones
-- [x] A) Ambos procesos involucran la misma cantidad de energía ($100 \text{ J}$), manifestada en forma de trabajo mecánico en el lanzamiento y calor en el agua.
+- [x] C) Ambos procesos involucran la misma cantidad de energía ($100 \text{ J}$), manifestada en forma de trabajo mecánico en el lanzamiento y calor en el agua.
   <!-- feedback: Correcto. El Joule es la unidad SI para cualquier forma de energía (mecánica, térmica, química). -->
-- [ ] B) El lanzamiento consume energía atómica y el agua energía magnética.
+- [ ] A) El lanzamiento consume energía atómica y el agua energía magnética.
   <!-- feedback: Incorrecto. Son manifestaciones de energía mecánica y térmica estándar. -->
-- [ ] C) El calor del agua no se puede medir en Julios.
+- [ ] B) El calor del agua no se puede medir en Julios.
   <!-- feedback: Incorrecto. El experimento de Joule demostró la equivalencia mecánica del calor ($1 \text{ cal} = 4.184 \text{ J}$). -->
 - [ ] D) La masa del agua se destruyó al absorber calor.
   <!-- feedback: Incorrecto. El calentamiento modifica la energía térmica sin alterar la masa. -->
@@ -149,9 +149,9 @@ La energía mecánica (Julios) y el calor (Calorías) son formas interconvertibl
 ¿Qué diferencia en el grado de ionización justifica la menor acidez del vaso B?
 
 ### Opciones
-- [x] A) El $HCl$ es un ácido fuerte totalmente ionizado ($[H^+] = 0.1 \text{ M}$); el acético es un ácido débil parcialmente ionizado ($[H^+] = 0.001 \text{ M}$).
+- [x] B) El $HCl$ es un ácido fuerte totalmente ionizado ($[H^+] = 0.1 \text{ M}$); el acético es un ácido débil parcialmente ionizado ($[H^+] = 0.001 \text{ M}$).
   <!-- feedback: Correcto. La fuerza del ácido determina su constante de disociación $K_a$ y el pH resultante. -->
-- [ ] B) El ácido acético destruye las moléculas de agua.
+- [ ] A) El ácido acético destruye las moléculas de agua.
   <!-- feedback: Incorrecto. Ocurre un equilibrio de transferencia de protones. -->
 - [ ] C) El $HCl$ no contiene protones en solución.
   <!-- feedback: Incorrecto. El $HCl$ disocia 100% sus protones. -->
@@ -172,13 +172,13 @@ El pH mide la $[H^+]$ libre. $pH = 1 Rightarrow [H^+] = 10^{-1} \text{ M}$; $pH 
 ¿A qué velocidad vertical constante se eleva el cuerpo? (Considere $g = 10 \text{ m/s}^2$).
 
 ### Opciones
-- [x] A) $1.0 \text{ m/s}$.
+- [x] D) $1.0 \text{ m/s}$.
   <!-- feedback: Correcto. $F = mg = 100 \times 10 = 1000 \text{ N}$. $P = F \cdot v \Rightarrow 1000 = 1000 \cdot v \Rightarrow v = 1.0 \text{ m/s}$. -->
-- [ ] B) $10.0 \text{ m/s}$.
+- [ ] A) $10.0 \text{ m/s}$.
   <!-- feedback: Incorrecto. Olvidó multiplicar la masa por la aceleración de la gravedad $g$. -->
-- [ ] C) $0.1 \text{ m/s}$.
+- [ ] B) $0.1 \text{ m/s}$.
   <!-- feedback: Incorrecto. Dividió la velocidad entre 10. -->
-- [ ] D) $100.0 \text{ m/s}$.
+- [ ] C) $100.0 \text{ m/s}$.
   <!-- feedback: Incorrecto. Dividió potencia entre masa sin usar el peso. -->
 
 ### Explicacion Pedagogica
@@ -241,11 +241,11 @@ En reacciones exotérmicas, bajar T desplaza a productos. Como $\Delta n_{gases}
 ¿Qué se concluye sobre el signo del cambio de entalpía de disolución ($\Delta H_{disolucion}$)?
 
 ### Opciones
-- [x] A) Es un proceso exotérmico ($\Delta H < 0$), porque libera calor al entorno incrementando la temperatura.
+- [x] C) Es un proceso exotérmico ($\Delta H < 0$), porque libera calor al entorno incrementando la temperatura.
   <!-- feedback: Correcto. La liberación de energía reticular y de hidratación incrementa la temperatura de la solución. -->
-- [ ] B) Es un proceso endotérmico ($\Delta H > 0$).
+- [ ] A) Es un proceso endotérmico ($\Delta H > 0$).
   <!-- feedback: Incorrecto. Los procesos endotérmicos absorben calor y enfrían el medio. -->
-- [ ] C) La entalpía de disolución es exactamente cero.
+- [ ] B) La entalpía de disolución es exactamente cero.
   <!-- feedback: Incorrecto. Si fuera cero, la temperatura no cambiaría. -->
 - [ ] D) La masa del recipiente se convirtió en gas.
   <!-- feedback: Incorrecto. La masa del vaso y solución se mantiene. -->
@@ -264,13 +264,13 @@ El aumento de temperatura del medio indica que la reacción o proceso fisicoquí
 Si la reacción sin enzima tarda 10 años y con enzima tarda 2 segundos, ¿qué parámetro del perfil de reacción alteró la lipasa?
 
 ### Opciones
-- [x] A) Disminuyó la energía de activación ($E_a$) ofreciendo una ruta alternativa más rápida sin modificar $\Delta G$.
+- [x] D) Disminuyó la energía de activación ($E_a$) ofreciendo una ruta alternativa más rápida sin modificar $\Delta G$.
   <!-- feedback: Correcto. Las enzimas aceleran la velocidad de reacción reduciendo la barrera de energía de activación. -->
-- [ ] B) Hizo que la reacción pasara de endotérmica a exotérmica.
+- [ ] A) Hizo que la reacción pasara de endotérmica a exotérmica.
   <!-- feedback: Incorrecto. Las enzimas no alteran la entalpía inicial ni final ($\Delta H$). -->
-- [ ] C) Aumentó la constante de equilibrio $K_c$ en un millón de veces.
+- [ ] B) Aumentó la constante de equilibrio $K_c$ en un millón de veces.
   <!-- feedback: Incorrecto. Las enzimas no alteran el equilibrio termodinámico final. -->
-- [ ] D) Aumentó la energía libre de los reactivos.
+- [ ] C) Aumentó la energía libre de los reactivos.
   <!-- feedback: Incorrecto. No modifica la energía libre del estado fundamental de reactivos. -->
 
 ### Explicacion Pedagogica
@@ -310,9 +310,9 @@ $\Delta E_k = \frac{1}{2}(4)(100) = 200 \text{ J}$. Potencia $= 200 \text{ J} / 
 ¿Cuál es la masa molar aproximada de la proteína? (Considere $R = 0.0821 \text{ L atm / (mol K)}$).
 
 ### Opciones
-- [x] A) $20,000 \text{ g/mol}$.
+- [x] B) $20,000 \text{ g/mol}$.
   <!-- feedback: Correcto. $M = \Pi / (RT) = 0.0246 / (0.0821 \times 298) = 0.0246 / 24.46 = 0.001 \text{ M}$. Moles en $0.1 \text{ L} = 0.0001 \text{ mol}$. Masa molar $= 2 \text{ g} / 0.0001 \text{ mol} = 20,000 \text{ g/mol}$. -->
-- [ ] B) $2000 \text{ g/mol}$.
+- [ ] A) $2000 \text{ g/mol}$.
   <!-- feedback: Incorrecto. Error de un orden de magnitud en el volumen. -->
 - [ ] C) $500 \text{ g/mol}$.
   <!-- feedback: Incorrecto. Calculó la masa molar como si fuera un monosacárido. -->
@@ -356,9 +356,9 @@ La disolución de un gas libera calor ($\Delta H_{sol} < 0$). Bajar la temperatu
 ¿Qué cantidad de trabajo realiza la fuerza sobre el bloque? (Considere $\cos 60^\circ = 0.5$).
 
 ### Opciones
-- [x] A) $250 \text{ Julios}$.
+- [x] B) $250 \text{ Julios}$.
   <!-- feedback: Correcto. $W = F \cdot d \cdot \cos(\theta) = 50 \text{ N} \times 10 \text{ m} \times 0.5 = 250 \text{ J}$. -->
-- [ ] B) $500 \text{ Julios}$.
+- [ ] A) $500 \text{ Julios}$.
   <!-- feedback: Incorrecto. Olvidó multiplicar por el coseno del ángulo de $60^\circ$. -->
 - [ ] C) $433 \text{ Julios}$.
   <!-- feedback: Incorrecto. Usó el seno de $60^\circ$ en lugar del coseno. -->
@@ -379,9 +379,9 @@ $W = F \cdot d \cdot \cos 60^\circ = 50 \times 10 \times 0.5 = 250 \text{ J}$.
 ¿Qué técnica analítica basada en el plano de la luz polarizada permite seguir cuantitativamente la mutarrotación de la glucosa?
 
 ### Opciones
-- [x] A) Polarimetría (medición de la rotación óptica especifica $[\alpha]_D$).
+- [x] B) Polarimetría (medición de la rotación óptica especifica $[\alpha]_D$).
   <!-- feedback: Correcto. El polarímetro mide el ángulo de desviación del plano de luz polarizada producido por isómeros ópticos. -->
-- [ ] B) Cromatografía de gases con helio.
+- [ ] A) Cromatografía de gases con helio.
   <!-- feedback: Incorrecto. La glucosa en solución acuosa no es volátil para cromatografía de gases directa. -->
 - [ ] C) Titulación de precipitados con nitrato de plata.
   <!-- feedback: Incorrecto. No mide la actividad óptica de los anómeros. -->
@@ -425,9 +425,9 @@ El recurso hídrico continuo genera potencia base las 24 horas sin depender de c
 ¿Cómo restablece el bicarbonato el pH plasmático a su rango normal ($7.35 - 7.45$) en el sistema tampón?
 
 ### Opciones
-- [x] A) Aumenta la concentración de $HCO_3^-$, desplazando el equilibrio $HCO_3^- + H^+ \rightleftharpoons H_2CO_3$ a la derecha para neutralizar el exceso de $H^+$.
+- [x] B) Aumenta la concentración de $HCO_3^-$, desplazando el equilibrio $HCO_3^- + H^+ \rightleftharpoons H_2CO_3$ a la derecha para neutralizar el exceso de $H^+$.
   <!-- feedback: Correcto. El bicarbonato adicionado reacciona con los protones libres para formar ácido carbónico, reduciendo la acidez. -->
-- [ ] B) Destruye todos los glóbulos rojos para eliminar los protones.
+- [ ] A) Destruye todos los glóbulos rojos para eliminar los protones.
   <!-- feedback: Incorrecto. El bicarbonato es un tampón plasmático fisiológico seguro. -->
 - [ ] C) Inactiva el dióxido de carbono exhalado en los pulmones.
   <!-- feedback: Incorrecto. El ácido carbónico se convierte en $CO_2$ y se exhala. -->
@@ -448,9 +448,9 @@ El $HCO_3^-$ captura el exceso de protones $H^+$ formando $H_2CO_3$, el cual se 
 ¿Qué ventaja técnico-económica aporta el uso de celulasas en el pretratamiento de la biomasa lignocelulósica?
 
 ### Opciones
-- [x] A) Hidroliza los enlaces $\beta(1\rightarrow 4)$ de la celulosa liberando monómeros de glucosa fermentables por levaduras a etanol.
+- [x] B) Hidroliza los enlaces $\beta(1\rightarrow 4)$ de la celulosa liberando monómeros de glucosa fermentables por levaduras a etanol.
   <!-- feedback: Correcto. Permite convertir el polímero estructural insoluble en azúcares fermentables aprovechables. -->
-- [ ] B) Convierte el etanol directamente en metales pesados.
+- [ ] A) Convierte el etanol directamente en metales pesados.
   <!-- feedback: Incorrecto. Las enzimas catalizan reacciones bioquímicas específicas sin transmutación atómica. -->
 - [ ] C) Elimina la necesidad de utilizar agua en el fermentador.
   <!-- feedback: Incorrecto. La hidrólisis enzimática requiere un medio acuoso. -->

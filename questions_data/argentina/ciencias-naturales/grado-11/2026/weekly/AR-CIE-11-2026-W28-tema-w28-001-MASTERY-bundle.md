@@ -36,10 +36,10 @@ Este bundle aborda contenidos curriculares prioritarios de Ondas, Sonido, Luz y 
 ¿Cuál de las siguientes definiciones describe correctamente el concepto de $Ondas Transversales y Longitudinales$ en el marco de Física - Ondas?
 
 ### Opciones
-- [x] A) Constituye un principio fundamental de Física - Ondas que explica el comportamiento del sistema según las leyes de la naturaleza. <!-- feedback: Correcto. La definición de $Ondas Transversales y Longitudinales$ corresponde con los principios teóricos de Física - Ondas. -->
-- [ ] B) Representa un fenómeno aislado sin relación con las leyes de conservación en Física. <!-- feedback: Incorrecto. El concepto de $Ondas Transversales y Longitudinales$ está íntimamente ligado a las leyes de Física. -->
-- [ ] C) Es una magnitud exclusivamente teórica que no se puede medir experimentalmente en el laboratorio. <!-- feedback: Incorrecto. Es una propiedad medible y verificable. -->
-- [ ] D) Corresponde únicamente a procesos ocurridos a altas temperaturas fuera del MKS. <!-- feedback: Incorrecto. Se aplica de forma general bajo condiciones estándar MKS. -->
+- [x] D) Constituye un principio fundamental de Física - Ondas que explica el comportamiento del sistema según las leyes de la naturaleza. <!-- feedback: Correcto. La definición de $Ondas Transversales y Longitudinales$ corresponde con los principios teóricos de Física - Ondas. -->
+- [ ] A) Representa un fenómeno aislado sin relación con las leyes de conservación en Física. <!-- feedback: Incorrecto. El concepto de $Ondas Transversales y Longitudinales$ está íntimamente ligado a las leyes de Física. -->
+- [ ] B) Es una magnitud exclusivamente teórica que no se puede medir experimentalmente en el laboratorio. <!-- feedback: Incorrecto. Es una propiedad medible y verificable. -->
+- [ ] C) Corresponde únicamente a procesos ocurridos a altas temperaturas fuera del MKS. <!-- feedback: Incorrecto. Se aplica de forma general bajo condiciones estándar MKS. -->
 
 ### Explicacion Pedagogica
 El estudio de Ondas Transversales y Longitudinales es clave para comprender los fundamentos teóricos y prácticos de Física - Ondas.
@@ -57,8 +57,8 @@ El estudio de Ondas Transversales y Longitudinales es clave para comprender los 
 ¿Cuál de las siguientes definiciones describe correctamente el concepto de $Frecuencia y Período$ en el marco de Física - Ondas?
 
 ### Opciones
-- [x] A) Constituye un principio fundamental de Física - Ondas que explica el comportamiento del sistema según las leyes de la naturaleza. <!-- feedback: Correcto. La definición de $Frecuencia y Período$ corresponde con los principios teóricos de Física - Ondas. -->
-- [ ] B) Representa un fenómeno aislado sin relación con las leyes de conservación en Física. <!-- feedback: Incorrecto. El concepto de $Frecuencia y Período$ está íntimamente ligado a las leyes de Física. -->
+- [x] B) Constituye un principio fundamental de Física - Ondas que explica el comportamiento del sistema según las leyes de la naturaleza. <!-- feedback: Correcto. La definición de $Frecuencia y Período$ corresponde con los principios teóricos de Física - Ondas. -->
+- [ ] A) Representa un fenómeno aislado sin relación con las leyes de conservación en Física. <!-- feedback: Incorrecto. El concepto de $Frecuencia y Período$ está íntimamente ligado a las leyes de Física. -->
 - [ ] C) Es una magnitud exclusivamente teórica que no se puede medir experimentalmente en el laboratorio. <!-- feedback: Incorrecto. Es una propiedad medible y verificable. -->
 - [ ] D) Corresponde únicamente a procesos ocurridos a altas temperaturas fuera del MKS. <!-- feedback: Incorrecto. Se aplica de forma general bajo condiciones estándar MKS. -->
 
@@ -78,8 +78,8 @@ El estudio de Frecuencia y Período es clave para comprender los fundamentos te�
 En una experiencia de laboratorio en Buenos Aires, un estudiante analiza el fenómeno de $Velocidad de Propagación$. ¿Qué comportamiento se espera observar?
 
 ### Opciones
-- [x] A) El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Velocidad de Propagación$. <!-- feedback: Correcto. La respuesta del sistema refleja la ley física/química de $Velocidad de Propagación$. -->
-- [ ] B) El sistema permanece completamente inerte sin registrar variación alguna. <!-- feedback: Incorrecto. Las variables se modifican según las ecuaciones del modelo. -->
+- [x] B) El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Velocidad de Propagación$. <!-- feedback: Correcto. La respuesta del sistema refleja la ley física/química de $Velocidad de Propagación$. -->
+- [ ] A) El sistema permanece completamente inerte sin registrar variación alguna. <!-- feedback: Incorrecto. Las variables se modifican según las ecuaciones del modelo. -->
 - [ ] C) Se produce una pérdida total de masa violando las leyes de conservación. <!-- feedback: Incorrecto. Las leyes de conservación se cumplen siempre. -->
 - [ ] D) La magnitud medida oscila aleatoriamente sin patrón definido. <!-- feedback: Incorrecto. El fenómeno sigue un patrón determinista bien definido. -->
 
@@ -99,10 +99,10 @@ Las observaciones experimentales confirman las predicciones del modelo teórico 
 En una experiencia de laboratorio en Buenos Aires, un estudiante analiza el fenómeno de $Reflexión y Refracción$. ¿Qué comportamiento se espera observar?
 
 ### Opciones
-- [x] A) El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Reflexión y Refracción$. <!-- feedback: Correcto. La respuesta del sistema refleja la ley física/química de $Reflexión y Refracción$. -->
-- [ ] B) El sistema permanece completamente inerte sin registrar variación alguna. <!-- feedback: Incorrecto. Las variables se modifican según las ecuaciones del modelo. -->
-- [ ] C) Se produce una pérdida total de masa violando las leyes de conservación. <!-- feedback: Incorrecto. Las leyes de conservación se cumplen siempre. -->
-- [ ] D) La magnitud medida oscila aleatoriamente sin patrón definido. <!-- feedback: Incorrecto. El fenómeno sigue un patrón determinista bien definido. -->
+- [x] D) El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Reflexión y Refracción$. <!-- feedback: Correcto. La respuesta del sistema refleja la ley física/química de $Reflexión y Refracción$. -->
+- [ ] A) El sistema permanece completamente inerte sin registrar variación alguna. <!-- feedback: Incorrecto. Las variables se modifican según las ecuaciones del modelo. -->
+- [ ] B) Se produce una pérdida total de masa violando las leyes de conservación. <!-- feedback: Incorrecto. Las leyes de conservación se cumplen siempre. -->
+- [ ] C) La magnitud medida oscila aleatoriamente sin patrón definido. <!-- feedback: Incorrecto. El fenómeno sigue un patrón determinista bien definido. -->
 
 ### Explicacion Pedagogica
 Las observaciones experimentales confirman las predicciones del modelo teórico de Reflexión y Refracción.
@@ -120,9 +120,9 @@ Las observaciones experimentales confirman las predicciones del modelo teórico 
 Un equipo de investigación en Córdoba aplica el concepto de $Espectro Electromagnético$ para resolver un problema práctico de Física - Ondas. ¿Cuál es la relación matemática o lógica correcta?
 
 ### Opciones
-- [x] A) Se aplica la ecuación correspondiente a $Espectro Electromagnético$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física. <!-- feedback: Correcto. Refleja la formulación correcta para $Espectro Electromagnético$. -->
-- [ ] B) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
-- [ ] C) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
+- [x] C) Se aplica la ecuación correspondiente a $Espectro Electromagnético$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física. <!-- feedback: Correcto. Refleja la formulación correcta para $Espectro Electromagnético$. -->
+- [ ] A) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
+- [ ] B) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
 - [ ] D) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
 
 ### Explicacion Pedagogica
@@ -141,10 +141,10 @@ La aplicación cuantitativa de Espectro Electromagnético requiere el uso riguro
 Un equipo de investigación en Córdoba aplica el concepto de $Ondas Transversales y Longitudinales$ para resolver un problema práctico de Física - Ondas. ¿Cuál es la relación matemática o lógica correcta?
 
 ### Opciones
-- [x] A) Se aplica la ecuación correspondiente a $Ondas Transversales y Longitudinales$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física. <!-- feedback: Correcto. Refleja la formulación correcta para $Ondas Transversales y Longitudinales$. -->
-- [ ] B) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
-- [ ] C) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
-- [ ] D) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
+- [x] D) Se aplica la ecuación correspondiente a $Ondas Transversales y Longitudinales$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física. <!-- feedback: Correcto. Refleja la formulación correcta para $Ondas Transversales y Longitudinales$. -->
+- [ ] A) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
+- [ ] B) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
+- [ ] C) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
 
 ### Explicacion Pedagogica
 La aplicación cuantitativa de Ondas Transversales y Longitudinales requiere el uso riguroso de las ecuaciones de Física - Ondas.
@@ -162,8 +162,8 @@ La aplicación cuantitativa de Ondas Transversales y Longitudinales requiere el 
 Un equipo de investigación en Córdoba aplica el concepto de $Frecuencia y Período$ para resolver un problema práctico de Física - Ondas. ¿Cuál es la relación matemática o lógica correcta?
 
 ### Opciones
-- [x] A) Se aplica la ecuación correspondiente a $Frecuencia y Período$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física. <!-- feedback: Correcto. Refleja la formulación correcta para $Frecuencia y Período$. -->
-- [ ] B) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
+- [x] B) Se aplica la ecuación correspondiente a $Frecuencia y Período$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física. <!-- feedback: Correcto. Refleja la formulación correcta para $Frecuencia y Período$. -->
+- [ ] A) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
 - [ ] C) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
 - [ ] D) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
 
@@ -183,8 +183,8 @@ La aplicación cuantitativa de Frecuencia y Período requiere el uso riguroso de
 Un equipo de investigación en Córdoba aplica el concepto de $Velocidad de Propagación$ para resolver un problema práctico de Física - Ondas. ¿Cuál es la relación matemática o lógica correcta?
 
 ### Opciones
-- [x] A) Se aplica la ecuación correspondiente a $Velocidad de Propagación$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física. <!-- feedback: Correcto. Refleja la formulación correcta para $Velocidad de Propagación$. -->
-- [ ] B) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
+- [x] B) Se aplica la ecuación correspondiente a $Velocidad de Propagación$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física. <!-- feedback: Correcto. Refleja la formulación correcta para $Velocidad de Propagación$. -->
+- [ ] A) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
 - [ ] C) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
 - [ ] D) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
 
@@ -204,8 +204,8 @@ La aplicación cuantitativa de Velocidad de Propagación requiere el uso riguros
 Un equipo de investigación en Córdoba aplica el concepto de $Reflexión y Refracción$ para resolver un problema práctico de Física - Ondas. ¿Cuál es la relación matemática o lógica correcta?
 
 ### Opciones
-- [x] A) Se aplica la ecuación correspondiente a $Reflexión y Refracción$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física. <!-- feedback: Correcto. Refleja la formulación correcta para $Reflexión y Refracción$. -->
-- [ ] B) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
+- [x] B) Se aplica la ecuación correspondiente a $Reflexión y Refracción$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física. <!-- feedback: Correcto. Refleja la formulación correcta para $Reflexión y Refracción$. -->
+- [ ] A) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
 - [ ] C) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
 - [ ] D) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
 
@@ -225,8 +225,8 @@ La aplicación cuantitativa de Reflexión y Refracción requiere el uso riguroso
 Un equipo de investigación en Córdoba aplica el concepto de $Espectro Electromagnético$ para resolver un problema práctico de Física - Ondas. ¿Cuál es la relación matemática o lógica correcta?
 
 ### Opciones
-- [x] A) Se aplica la ecuación correspondiente a $Espectro Electromagnético$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física. <!-- feedback: Correcto. Refleja la formulación correcta para $Espectro Electromagnético$. -->
-- [ ] B) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
+- [x] B) Se aplica la ecuación correspondiente a $Espectro Electromagnético$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física. <!-- feedback: Correcto. Refleja la formulación correcta para $Espectro Electromagnético$. -->
+- [ ] A) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
 - [ ] C) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
 - [ ] D) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
 
@@ -246,10 +246,10 @@ La aplicación cuantitativa de Espectro Electromagnético requiere el uso riguro
 Al analizar detalladamente las variables que intervienen en $Ondas Transversales y Longitudinales$ dentro de Física - Ondas, se observa una variación en el estado inicial. ¿Cuál es la deducción analítica correcta?
 
 ### Opciones
-- [x] A) El cambio en las variables modifica el estado final según las restricciones impuestas por $Ondas Transversales y Longitudinales$ y las leyes de Física. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
-- [ ] B) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
-- [ ] C) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
-- [ ] D) La energía o materia total aumenta exponencialmente sin fuente externa. <!-- feedback: Incorrecto. No se puede crear masa ni energía de la nada. -->
+- [x] D) El cambio en las variables modifica el estado final según las restricciones impuestas por $Ondas Transversales y Longitudinales$ y las leyes de Física. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
+- [ ] A) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
+- [ ] B) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
+- [ ] C) La energía o materia total aumenta exponencialmente sin fuente externa. <!-- feedback: Incorrecto. No se puede crear masa ni energía de la nada. -->
 
 ### Explicacion Pedagogica
 El análisis analítico de Ondas Transversales y Longitudinales demuestra la coherencia interna de los modelos en Física - Ondas.
@@ -267,9 +267,9 @@ El análisis analítico de Ondas Transversales y Longitudinales demuestra la coh
 Al analizar detalladamente las variables que intervienen en $Frecuencia y Período$ dentro de Física - Ondas, se observa una variación en el estado inicial. ¿Cuál es la deducción analítica correcta?
 
 ### Opciones
-- [x] A) El cambio en las variables modifica el estado final según las restricciones impuestas por $Frecuencia y Período$ y las leyes de Física. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
-- [ ] B) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
-- [ ] C) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
+- [x] C) El cambio en las variables modifica el estado final según las restricciones impuestas por $Frecuencia y Período$ y las leyes de Física. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
+- [ ] A) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
+- [ ] B) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
 - [ ] D) La energía o materia total aumenta exponencialmente sin fuente externa. <!-- feedback: Incorrecto. No se puede crear masa ni energía de la nada. -->
 
 ### Explicacion Pedagogica
@@ -309,9 +309,9 @@ El análisis analítico de Velocidad de Propagación demuestra la coherencia int
 Al analizar detalladamente las variables que intervienen en $Reflexión y Refracción$ dentro de Física - Ondas, se observa una variación en el estado inicial. ¿Cuál es la deducción analítica correcta?
 
 ### Opciones
-- [x] A) El cambio en las variables modifica el estado final según las restricciones impuestas por $Reflexión y Refracción$ y las leyes de Física. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
-- [ ] B) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
-- [ ] C) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
+- [x] C) El cambio en las variables modifica el estado final según las restricciones impuestas por $Reflexión y Refracción$ y las leyes de Física. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
+- [ ] A) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
+- [ ] B) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
 - [ ] D) La energía o materia total aumenta exponencialmente sin fuente externa. <!-- feedback: Incorrecto. No se puede crear masa ni energía de la nada. -->
 
 ### Explicacion Pedagogica
@@ -330,8 +330,8 @@ El análisis analítico de Reflexión y Refracción demuestra la coherencia inte
 Al analizar detalladamente las variables que intervienen en $Espectro Electromagnético$ dentro de Física - Ondas, se observa una variación en el estado inicial. ¿Cuál es la deducción analítica correcta?
 
 ### Opciones
-- [x] A) El cambio en las variables modifica el estado final según las restricciones impuestas por $Espectro Electromagnético$ y las leyes de Física. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
-- [ ] B) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
+- [x] B) El cambio en las variables modifica el estado final según las restricciones impuestas por $Espectro Electromagnético$ y las leyes de Física. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
+- [ ] A) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
 - [ ] C) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
 - [ ] D) La energía o materia total aumenta exponencialmente sin fuente externa. <!-- feedback: Incorrecto. No se puede crear masa ni energía de la nada. -->
 
@@ -351,8 +351,8 @@ El análisis analítico de Espectro Electromagnético demuestra la coherencia in
 Al analizar detalladamente las variables que intervienen en $Ondas Transversales y Longitudinales$ dentro de Física - Ondas, se observa una variación en el estado inicial. ¿Cuál es la deducción analítica correcta?
 
 ### Opciones
-- [x] A) El cambio en las variables modifica el estado final según las restricciones impuestas por $Ondas Transversales y Longitudinales$ y las leyes de Física. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
-- [ ] B) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
+- [x] B) El cambio en las variables modifica el estado final según las restricciones impuestas por $Ondas Transversales y Longitudinales$ y las leyes de Física. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
+- [ ] A) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
 - [ ] C) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
 - [ ] D) La energía o materia total aumenta exponencialmente sin fuente externa. <!-- feedback: Incorrecto. No se puede crear masa ni energía de la nada. -->
 
@@ -372,10 +372,10 @@ El análisis analítico de Ondas Transversales y Longitudinales demuestra la coh
 Se propone un modelo avanzado para evaluar la eficiencia de un proceso basado en $Frecuencia y Período$ en Física - Ondas. Evaluá cuál de las siguientes afirmaciones juzga correctamente la validez del modelo.
 
 ### Opciones
-- [x] A) El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Frecuencia y Período$. <!-- feedback: Correcto. La evaluación fundamentada confirma la solidez del modelo para $Frecuencia y Período$. -->
-- [ ] B) El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa. <!-- feedback: Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia. -->
-- [ ] C) El modelo sólo funciona si se desestiman las unidades del Sistema Internacional. <!-- feedback: Incorrecto. Debe operar de forma consistente en el Sistema Internacional. -->
-- [ ] D) El modelo presenta inconsistencias graves al asumir que el rendimiento puede superar el 100%. <!-- feedback: Incorrecto. El modelo respeta el límite físico del 100% de eficiencia. -->
+- [x] D) El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Frecuencia y Período$. <!-- feedback: Correcto. La evaluación fundamentada confirma la solidez del modelo para $Frecuencia y Período$. -->
+- [ ] A) El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa. <!-- feedback: Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia. -->
+- [ ] B) El modelo sólo funciona si se desestiman las unidades del Sistema Internacional. <!-- feedback: Incorrecto. Debe operar de forma consistente en el Sistema Internacional. -->
+- [ ] C) El modelo presenta inconsistencias graves al asumir que el rendimiento puede superar el 100%. <!-- feedback: Incorrecto. El modelo respeta el límite físico del 100% de eficiencia. -->
 
 ### Explicacion Pedagogica
 La evaluación crítica de modelos en Física - Ondas exige verificar el cumplimiento de los límites teóricos de Frecuencia y Período.
@@ -414,10 +414,10 @@ La evaluación crítica de modelos en Física - Ondas exige verificar el cumplim
 Se propone un modelo avanzado para evaluar la eficiencia de un proceso basado en $Reflexión y Refracción$ en Física - Ondas. Evaluá cuál de las siguientes afirmaciones juzga correctamente la validez del modelo.
 
 ### Opciones
-- [x] A) El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Reflexión y Refracción$. <!-- feedback: Correcto. La evaluación fundamentada confirma la solidez del modelo para $Reflexión y Refracción$. -->
-- [ ] B) El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa. <!-- feedback: Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia. -->
-- [ ] C) El modelo sólo funciona si se desestiman las unidades del Sistema Internacional. <!-- feedback: Incorrecto. Debe operar de forma consistente en el Sistema Internacional. -->
-- [ ] D) El modelo presenta inconsistencias graves al asumir que el rendimiento puede superar el 100%. <!-- feedback: Incorrecto. El modelo respeta el límite físico del 100% de eficiencia. -->
+- [x] D) El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Reflexión y Refracción$. <!-- feedback: Correcto. La evaluación fundamentada confirma la solidez del modelo para $Reflexión y Refracción$. -->
+- [ ] A) El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa. <!-- feedback: Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia. -->
+- [ ] B) El modelo sólo funciona si se desestiman las unidades del Sistema Internacional. <!-- feedback: Incorrecto. Debe operar de forma consistente en el Sistema Internacional. -->
+- [ ] C) El modelo presenta inconsistencias graves al asumir que el rendimiento puede superar el 100%. <!-- feedback: Incorrecto. El modelo respeta el límite físico del 100% de eficiencia. -->
 
 ### Explicacion Pedagogica
 La evaluación crítica de modelos en Física - Ondas exige verificar el cumplimiento de los límites teóricos de Reflexión y Refracción.

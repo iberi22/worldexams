@@ -57,11 +57,11 @@ Los pares acción-reacción actúan sobre cuerpos distintos y son de la misma na
 Si la fuerza neta resultante sobre el sistema es nula ($\sum F = 0$), ¿cuál es el estado de movimiento del camión?
 
 ### Opciones
-- [x] A) Permanece en reposo o se mueve en línea recta a velocidad constante.
+- [x] C) Permanece en reposo o se mueve en línea recta a velocidad constante.
   <!-- feedback: Correcto. Según la primera ley de Newton (inercia), si la fuerza neta es cero, la aceleración es nula. -->
-- [ ] B) Se acelera uniformemente hacia adelante.
+- [ ] A) Se acelera uniformemente hacia adelante.
   <!-- feedback: Incorrecto. Para acelerarse se requiere una fuerza neta no nula. -->
-- [ ] C) Se frena paulatinamente hasta detenerse.
+- [ ] B) Se frena paulatinamente hasta detenerse.
   <!-- feedback: Incorrecto. Frenar requiere una fuerza neta de fricción o frenado opuesta al movimiento. -->
 - [ ] D) Comienza a girar en una trayectoria circular.
   <!-- feedback: Incorrecto. Girar requiere una fuerza centrípeta neta diferente de cero. -->
@@ -80,13 +80,13 @@ La primera ley de Newton establece que un cuerpo permanece en estado de reposo o
 ¿En cuál superficie la fuerza de fricción opuesta al movimiento es mayor y por qué?
 
 ### Opciones
-- [x] A) En el concreto rugoso, porque presenta un mayor coeficiente de rozamiento $\mu$.
+- [x] D) En el concreto rugoso, porque presenta un mayor coeficiente de rozamiento $\mu$.
   <!-- feedback: Correcto. La fuerza de fricción $f_k = \mu_k N$ aumenta con la rugosidad del contacto (mayor $\mu$). -->
-- [ ] B) En el hielo liso, porque el frío aumenta la fricción intermolecular.
+- [ ] A) En el hielo liso, porque el frío aumenta la fricción intermolecular.
   <!-- feedback: Incorrecto. El hielo reduce drásticamente el coeficiente de fricción. -->
-- [ ] C) La fricción es idéntica en ambas superficies porque la fuerza aplicada es constante.
+- [ ] B) La fricción es idéntica en ambas superficies porque la fuerza aplicada es constante.
   <!-- feedback: Incorrecto. La fricción depende de las propiedades de las superficies en contacto. -->
-- [ ] D) En el hielo liso, porque la fuerza normal es mayor sobre el hielo.
+- [ ] C) En el hielo liso, porque la fuerza normal es mayor sobre el hielo.
   <!-- feedback: Incorrecto. La normal depende de la masa y la gravedad, no del material de la superficie. -->
 
 ### Explicacion Pedagogica
@@ -126,11 +126,11 @@ Aplicando la segunda ley de Newton al pasajero: $N - mg = ma$. Al acelerar hacia
 ¿Cuál es la aceleración producida sobre el bloque?
 
 ### Opciones
-- [x] A) $3\text{ m/s}^2$
+- [x] C) $3\text{ m/s}^2$
   <!-- feedback: Correcto. Según la segunda ley de Newton $a = \frac{F}{m} = \frac{12\text{ N}}{4\text{ kg}} = 3\text{ m/s}^2$. -->
-- [ ] B) $48\text{ m/s}^2$
+- [ ] A) $48\text{ m/s}^2$
   <!-- feedback: Incorrecto. Corresponde a multiplicar fuerza por masa ($12 \times 4$). -->
-- [ ] C) $0.33\text{ m/s}^2$
+- [ ] B) $0.33\text{ m/s}^2$
   <!-- feedback: Incorrecto. Resulta de dividir masa entre fuerza ($4 / 12$). -->
 - [ ] D) $8\text{ m/s}^2$
   <!-- feedback: Incorrecto. Resta errónea de fuerza menos masa. -->
@@ -149,13 +149,13 @@ De la segunda ley de Newton $F_{neta} = m \cdot a$, despejamos $a = \frac{F}{m}$
 ¿Cuál es la tensión en la cuerda si la masa se mantiene estacionaria?
 
 ### Opciones
-- [x] A) $20\text{ N}$
+- [x] D) $20\text{ N}$
   <!-- feedback: Correcto. En equilibrio estático vertical, $T - mg = 0 \implies T = mg = 2 \times 10 = 20\text{ N}$. -->
-- [ ] B) $2\text{ N}$
+- [ ] A) $2\text{ N}$
   <!-- feedback: Incorrecto. Se omitió multiplicar por la aceleración de la gravedad. -->
-- [ ] C) $5\text{ N}$
+- [ ] B) $5\text{ N}$
   <!-- feedback: Incorrecto. Corresponde a dividir la gravedad entre la masa. -->
-- [ ] D) $0\text{ N}$
+- [ ] C) $0\text{ N}$
   <!-- feedback: Incorrecto. Si la tensión fuera cero, el objeto caería libremente. -->
 
 ### Explicacion Pedagogica
@@ -172,9 +172,9 @@ Para un cuerpo sostenido en equilibrio por una cuerda vertical, la tensión sopo
 ¿Cuál es la fuerza de fricción que frena al cajón durante su movimiento?
 
 ### Opciones
-- [x] A) $20\text{ N}$
+- [x] B) $20\text{ N}$
   <!-- feedback: Correcto. $N = mg = 10 \times 10 = 100\text{ N}$. La fricción es $f_k = \mu_k N = 0.2 \times 100 = 20\text{ N}$. -->
-- [ ] B) $2\text{ N}$
+- [ ] A) $2\text{ N}$
   <!-- feedback: Incorrecto. Se omitió la masa o la gravedad en la fuerza normal. -->
 - [ ] C) $50\text{ N}$
   <!-- feedback: Incorrecto. Corresponde a dividir la normal entre el coeficiente de fricción. -->
@@ -195,11 +195,11 @@ La normal en un plano horizontal es $N = m \cdot g = 10 \times 10 = 100\text{ N}
 ¿Cuál es la componente de la fuerza del peso paralela a la rampa que acelera al bloque colina abajo?
 
 ### Opciones
-- [x] A) $25\text{ N}$
+- [x] C) $25\text{ N}$
   <!-- feedback: Correcto. La componente del peso paralela al plano inclinado es $F_{\parallel} = mg \sin\theta = 5 \times 10 \times 0.5 = 25\text{ N}$. -->
-- [ ] B) $50\text{ N}$
+- [ ] A) $50\text{ N}$
   <!-- feedback: Incorrecto. $50\text{ N}$ es el peso total del bloque ($mg$). -->
-- [ ] C) $43.3\text{ N}$
+- [ ] B) $43.3\text{ N}$
   <!-- feedback: Incorrecto. Corresponde a la componente perpendicular al plano ($mg \cos\theta$). -->
 - [ ] D) $10\text{ N}$
   <!-- feedback: Incorrecto. Valor arbitrario derivado únicamente de la aceleración de la gravedad. -->
@@ -218,13 +218,13 @@ Al descomponer el vector peso en un plano inclinado de ángulo $\theta$, la comp
 ¿Cuál es la fuerza centrípeta requerida para mantener el automóvil dentro de la curva?
 
 ### Opciones
-- [x] A) $2000\text{ N}$
+- [x] D) $2000\text{ N}$
   <!-- feedback: Correcto. $F_c = \frac{m v^2}{r} = \frac{1000 \times 10^2}{50} = \frac{100000}{50} = 2000\text{ N}$. -->
-- [ ] B) $200\text{ N}$
+- [ ] A) $200\text{ N}$
   <!-- feedback: Incorrecto. Se omitió elevar al cuadrado la velocidad. -->
-- [ ] C) $10000\text{ N}$
+- [ ] B) $10000\text{ N}$
   <!-- feedback: Incorrecto. Cálculo erróneo sin dividir entre el radio. -->
-- [ ] D) $500\text{ N}$
+- [ ] C) $500\text{ N}$
   <!-- feedback: Incorrecto. Corresponde a dividir la masa entre el radio sin considerar la velocidad. -->
 
 ### Explicacion Pedagogica
@@ -264,13 +264,13 @@ En la máquina de Atwood ideal, aplicando la segunda ley de Newton al sistema ac
 ¿Cuál es el significado físico de los valores de $30\text{ N}$ y $24\text{ N}$ respectivamente?
 
 ### Opciones
-- [x] A) $30\text{ N}$ es la fricción estática máxima y $24\text{ N}$ es la fricción cinemática.
+- [x] D) $30\text{ N}$ es la fricción estática máxima y $24\text{ N}$ es la fricción cinemática.
   <!-- feedback: Correcto. Para iniciar el movimiento se debe superar la fricción estática máxima ($f_{s,max}=30\text{ N}$); una vez en movimiento, actúa la fricción cinemática ($f_k=24\text{ N} < f_{s,max}$). -->
-- [ ] B) $30\text{ N}$ es la fricción cinemática y $24\text{ N}$ es la fuerza peso del bloque.
+- [ ] A) $30\text{ N}$ es la fricción cinemática y $24\text{ N}$ es la fuerza peso del bloque.
   <!-- feedback: Incorrecto. La fricción cinemática es menor que la estática máxima. -->
-- [ ] C) $30\text{ N}$ es la fuerza normal y $24\text{ N}$ es la fricción estática promedio.
+- [ ] B) $30\text{ N}$ es la fuerza normal y $24\text{ N}$ es la fricción estática promedio.
   <!-- feedback: Incorrecto. La fricción estática no tiene un valor fijo sino que equilibra a la fuerza aplicada hasta alcanzar su pico. -->
-- [ ] D) Ambos valores corresponden a la fricción viscosa del aire.
+- [ ] C) Ambos valores corresponden a la fricción viscosa del aire.
   <!-- feedback: Incorrecto. El gráfico describe el rozamiento entre dos sólidos secos. -->
 
 ### Explicacion Pedagogica
@@ -287,13 +287,13 @@ El coeficiente de fricción estático es mayor que el cinético ($\mu_s > \mu_k$
 Al liberar el resorte, ¿cuál es la aceleración instantánea inicial que experimenta el bloque en el momento del desenganche?
 
 ### Opciones
-- [x] A) $40\text{ m/s}^2$
+- [x] D) $40\text{ m/s}^2$
   <!-- feedback: Correcto. La fuerza elástica es $F = k x = 400 \times 0.1 = 40\text{ N}$. La aceleración es $a = \frac{F}{m} = \frac{40}{1} = 40\text{ m/s}^2$. -->
-- [ ] B) $4\text{ m/s}^2$
+- [ ] A) $4\text{ m/s}^2$
   <!-- feedback: Incorrecto. Ocurre por un error de coma en la compresión del resorte. -->
-- [ ] C) $400\text{ m/s}^2$
+- [ ] B) $400\text{ m/s}^2$
   <!-- feedback: Incorrecto. Se ignoró la distancia de compresión $x$. -->
-- [ ] D) $10\text{ m/s}^2$
+- [ ] C) $10\text{ m/s}^2$
   <!-- feedback: Incorrecto. Se confundió con la constante gravitacional $g$. -->
 
 ### Explicacion Pedagogica
@@ -310,9 +310,9 @@ Según la ley de Hooke, la fuerza ejercida por el resorte comprimido es $F_e = k
 ¿Cuál es la tensión en la cuerda en ese punto más bajo?
 
 ### Opciones
-- [x] A) $13\text{ N}$
+- [x] B) $13\text{ N}$
   <!-- feedback: Correcto. En el punto inferior $T - mg = \frac{m v^2}{r} \implies T = mg + \frac{m v^2}{r} = 0.5(10) + \frac{0.5(16)}{1} = 5 + 8 = 13\text{ N}$. -->
-- [ ] B) $8\text{ N}$
+- [ ] A) $8\text{ N}$
   <!-- feedback: Incorrecto. $8\text{ N}$ es únicamente la fuerza centrípeta sin incluir la fuerza del peso. -->
 - [ ] C) $5\text{ N}$
   <!-- feedback: Incorrecto. $5\text{ N}$ es únicamente el peso del cuerpo ($mg$). -->
@@ -333,11 +333,11 @@ En el punto más bajo del movimiento circular vertical, la tensión soporta el p
 ¿Cuál es la fuerza de contacto de interacción entre el bloque $A$ y el bloque $B$?
 
 ### Opciones
-- [x] A) $9\text{ N}$
+- [x] C) $9\text{ N}$
   <!-- feedback: Correcto. Aceleración del conjunto $a = \frac{15}{2+3} = 3\text{ m/s}^2$. La fuerza sobre $B$ transmitida por $A$ es $F_{AB} = m_B \cdot a = 3 \times 3 = 9\text{ N}$. -->
-- [ ] B) $15\text{ N}$
+- [ ] A) $15\text{ N}$
   <!-- feedback: Incorrecto. $15\text{ N}$ es la fuerza externa total ejercida sobre el bloque $A$. -->
-- [ ] C) $6\text{ N}$
+- [ ] B) $6\text{ N}$
   <!-- feedback: Incorrecto. $6\text{ N}$ es la fuerza neta consumida para acelerar al bloque $A$. -->
 - [ ] D) $3\text{ N}$
   <!-- feedback: Incorrecto. Corresponde únicamente al valor numérico de la aceleración del sistema. -->
@@ -356,13 +356,13 @@ La aceleración global del sistema es $a = \frac{F}{m_A + m_B} = \frac{15}{5} = 
 ¿Cómo cambia la rapidez máxima de derrape seguro $v_{max}$ en la curva sin peralte?
 
 ### Opciones
-- [x] A) La rapidez máxima se reduce por un factor de $\frac{1}{\sqrt{2}}$ (aproximadamente al 71% de su valor inicial).
+- [x] D) La rapidez máxima se reduce por un factor de $\frac{1}{\sqrt{2}}$ (aproximadamente al 71% de su valor inicial).
   <!-- feedback: Correcto. Como $v_{max} = \sqrt{\mu_s g r}$, si $\mu_s' = \frac{\mu_s}{2}$, entonces $v_{max}' = \sqrt{\frac{\mu_s g r}{2}} = \frac{v_{max}}{\sqrt{2}}$. -->
-- [ ] B) La rapidez máxima se reduce a la mitad.
+- [ ] A) La rapidez máxima se reduce a la mitad.
   <!-- feedback: Incorrecto. Asume erróneamente una relación lineal entre rapidez y coeficiente de fricción. -->
-- [ ] C) La rapidez máxima disminuye a la cuarta parte.
+- [ ] B) La rapidez máxima disminuye a la cuarta parte.
   <!-- feedback: Incorrecto. Se aplicó el factor cuadrático de forma inversa. -->
-- [ ] D) La rapidez permanece constante porque la masa del vehículo no varió.
+- [ ] C) La rapidez permanece constante porque la masa del vehículo no varió.
   <!-- feedback: Incorrecto. La fuerza centrípeta máxima disponible depende directamente de la fricción. -->
 
 ### Explicacion Pedagogica
@@ -402,9 +402,9 @@ La velocidad terminal se define cuando la fuerza de resistencia del aire iguala 
 Al liberar el sistema desde el reposo, ¿qué ocurre con el centro de masa del sistema combinado (bloque + cuña) en la dirección horizontal?
 
 ### Opciones
-- [x] A) El centro de masa no se acelera horizontalmente ($\sum F_{x,ext} = 0$), por lo que su posición horizontal permanece constante.
+- [x] B) El centro de masa no se acelera horizontalmente ($\sum F_{x,ext} = 0$), por lo que su posición horizontal permanece constante.
   <!-- feedback: Correcto. Al no existir fuerzas externas horizontales actuando sobre el conjunto, el momento lineal horizontal se conserva. -->
-- [ ] B) El centro de masa acelera horizontalmente hacia la derecha con fuerza $m g \sin\theta$.
+- [ ] A) El centro de masa acelera horizontalmente hacia la derecha con fuerza $m g \sin\theta$.
   <!-- feedback: Incorrecto. No hay fuerzas externas horizontales; las fuerzas entre el bloque y la cuña son internas. -->
 - [ ] C) El centro de masa desciende verticalmente en caída libre pura.
   <!-- feedback: Incorrecto. El movimiento vertical del centro de masa está influenciado por las reacciones normales internas. -->
@@ -448,13 +448,13 @@ Igualando la atracción gravitacional $F_g = \frac{G M m}{r^2}$ a la fuerza cent
 Si el carro inicia con velocidad $v_0$ en $x=0$, ¿cuál es la velocidad del carro $v(x)$ en función de la posición $x$?
 
 ### Opciones
-- [x] A) $v(x) = \sqrt{v_0^2 - c x^2}$
+- [x] D) $v(x) = \sqrt{v_0^2 - c x^2}$
   <!-- feedback: Correcto. $a = v \frac{dv}{dx} = -c x \implies v dv = -c x dx \implies \frac{v^2 - v_0^2}{2} = -\frac{c x^2}{2} \implies v(x) = \sqrt{v_0^2 - c x^2}$. -->
-- [ ] B) $v(x) = v_0 - c x$
+- [ ] A) $v(x) = v_0 - c x$
   <!-- feedback: Incorrecto. Es la solución para aceleración constante respecto al tiempo, no respecto a la posición $x$. -->
-- [ ] C) $v(x) = v_0 e^{-cx}$
+- [ ] B) $v(x) = v_0 e^{-cx}$
   <!-- feedback: Incorrecto. Solución de una aceleración proporcional a la velocidad $a(v) = -cv$. -->
-- [ ] D) $v(x) = \sqrt{v_0^2 - 2cx}$
+- [ ] C) $v(x) = \sqrt{v_0^2 - 2cx}$
   <!-- feedback: Incorrecto. Corresponde a desaceleración constante $a = -c$. -->
 
 ### Explicacion Pedagogica

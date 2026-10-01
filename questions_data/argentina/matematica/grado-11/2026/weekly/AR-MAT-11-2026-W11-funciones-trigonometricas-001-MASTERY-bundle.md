@@ -36,10 +36,10 @@ Este bundle aborda contenidos curriculares prioritarios de Funciones Trigonomét
 Dada la función $h(t) = 3 \sin\left(\frac{\pi}{6} t\right) + 4$, ¿cuál es el valor máximo que alcanza la marea?
 
 ### Opciones
-- [x] A) $7\text{ metros}$ <!-- feedback: Correcto. El máximo es la amplitud más el desplazamiento vertical: $3 + 4 = 7\text{ m}$. -->
-- [ ] B) $3\text{ metros}$ <!-- feedback: Incorrecto. $3\text{ m}$ es la amplitud, no el valor máximo. -->
-- [ ] C) $4\text{ metros}$ <!-- feedback: Incorrecto. $4\text{ m}$ es la línea media o altura promedio. -->
-- [ ] D) $12\text{ metros}$ <!-- feedback: Incorrecto. $12$ es el período de la función en horas. -->
+- [x] D) $7\text{ metros}$ <!-- feedback: Correcto. El máximo es la amplitud más el desplazamiento vertical: $3 + 4 = 7\text{ m}$. -->
+- [ ] A) $3\text{ metros}$ <!-- feedback: Incorrecto. $3\text{ m}$ es la amplitud, no el valor máximo. -->
+- [ ] B) $4\text{ metros}$ <!-- feedback: Incorrecto. $4\text{ m}$ es la línea media o altura promedio. -->
+- [ ] C) $12\text{ metros}$ <!-- feedback: Incorrecto. $12$ es el período de la función en horas. -->
 
 ### Explicacion Pedagogica
 Para $h(t) = A \sin(\omega t) + C$, la imagen de la función es $[C - A, C + A]$. El máximo es $4 + 3 = 7\text{ m}$.
@@ -57,8 +57,8 @@ Para $h(t) = A \sin(\omega t) + C$, la imagen de la función es $[C - A, C + A]$
 ¿Cuál es el período fundamental $T$ de la función $V(t) = 311 \cos(100\pi t)$?
 
 ### Opciones
-- [x] A) $0,02\text{ segundos}$ <!-- feedback: Correcto. $T = \frac{2\pi}{\omega} = \frac{2\pi}{100\pi} = 0,02\text{ s}$. -->
-- [ ] B) $50\text{ segundos}$ <!-- feedback: Incorrecto. $50\text{ Hz}$ es la frecuencia, no el período en segundos. -->
+- [x] B) $0,02\text{ segundos}$ <!-- feedback: Correcto. $T = \frac{2\pi}{\omega} = \frac{2\pi}{100\pi} = 0,02\text{ s}$. -->
+- [ ] A) $50\text{ segundos}$ <!-- feedback: Incorrecto. $50\text{ Hz}$ es la frecuencia, no el período en segundos. -->
 - [ ] C) $100\text{ segundos}$ <!-- feedback: Incorrecto. Confundió la velocidad angular con el período. -->
 - [ ] D) $0,01\text{ segundos}$ <!-- feedback: Incorrecto. Se dividió por $200\pi$ en lugar de por $100\pi$. -->
 
@@ -78,10 +78,10 @@ El período $T$ se determina como $T = \frac{2\pi}{\omega}$. Con $\omega = 100\p
 ¿Cuál es la imagen (rango) de la función $f(x) = -2 \cos(x) + 5$?
 
 ### Opciones
-- [x] A) $[3, 7]$ <!-- feedback: Correcto. El coseno oscila entre $-1$ y $1$. La función varía entre $-2(1)+5 = 3$ y $-2(-1)+5 = 7$. -->
-- [ ] B) $[-2, 2]$ <!-- feedback: Incorrecto. No consideró el desplazamiento vertical $+5$. -->
-- [ ] C) $[5, 7]$ <!-- feedback: Incorrecto. El mínimo no ocurre en $5$, sino cuando $\cos(x) = 1$. -->
-- [ ] D) $[-7, -3]$ <!-- feedback: Incorrecto. Invirtió los signos del rango. -->
+- [x] D) $[3, 7]$ <!-- feedback: Correcto. El coseno oscila entre $-1$ y $1$. La función varía entre $-2(1)+5 = 3$ y $-2(-1)+5 = 7$. -->
+- [ ] A) $[-2, 2]$ <!-- feedback: Incorrecto. No consideró el desplazamiento vertical $+5$. -->
+- [ ] B) $[5, 7]$ <!-- feedback: Incorrecto. El mínimo no ocurre en $5$, sino cuando $\cos(x) = 1$. -->
+- [ ] C) $[-7, -3]$ <!-- feedback: Incorrecto. Invirtió los signos del rango. -->
 
 ### Explicacion Pedagogica
 Como $-1 \le \cos(x) \le 1$, al multiplicar por $-2$ se obtiene $-2 \le -2\cos(x) \le 2$. Sumando $5$, la imagen resulta $[3, 7]$.
@@ -99,10 +99,10 @@ Como $-1 \le \cos(x) \le 1$, al multiplicar por $-2$ se obtiene $-2 \le -2\cos(x
 ¿Cuál es la frecuencia angular $\omega$ de la función sinusoidal $y(t) = 5 \sin(4\pi t + \pi)$?
 
 ### Opciones
-- [x] A) $4\pi\text{ rad/s}$ <!-- feedback: Correcto. La frecuencia angular es el coeficiente de la variable temporal $t$, que vale $4\pi$. -->
-- [ ] B) $5\text{ rad/s}$ <!-- feedback: Incorrecto. $5$ es la amplitud de la onda. -->
-- [ ] C) $\pi\text{ rad/s}$ <!-- feedback: Incorrecto. $\pi$ es el desfase de fase inicial. -->
-- [ ] D) $2\text{ rad/s}$ <!-- feedback: Incorrecto. $2\text{ Hz}$ es la frecuencia en Hz, no la angular en rad/s. -->
+- [x] D) $4\pi\text{ rad/s}$ <!-- feedback: Correcto. La frecuencia angular es el coeficiente de la variable temporal $t$, que vale $4\pi$. -->
+- [ ] A) $5\text{ rad/s}$ <!-- feedback: Incorrecto. $5$ es la amplitud de la onda. -->
+- [ ] B) $\pi\text{ rad/s}$ <!-- feedback: Incorrecto. $\pi$ es el desfase de fase inicial. -->
+- [ ] C) $2\text{ rad/s}$ <!-- feedback: Incorrecto. $2\text{ Hz}$ es la frecuencia en Hz, no la angular en rad/s. -->
 
 ### Explicacion Pedagogica
 En la expresión general $A \sin(\omega t + \phi)$, la frecuencia angular $\omega$ es la constante multiplicativa de $t$, es decir, $4\pi\text{ rad/s}$.
@@ -120,9 +120,9 @@ En la expresión general $A \sin(\omega t + \phi)$, la frecuencia angular $\omeg
 ¿En cuáles de los siguientes valores de $x$ la función $f(x) = \tan(x)$ NO está definida?
 
 ### Opciones
-- [x] A) $x = \frac{\pi}{2} + k\pi$ con $k \in \mathbb{Z}$ <!-- feedback: Correcto. La tangente es $\frac{\sin(x)}{\cos(x)}$, la cual no está definida donde $\cos(x) = 0$. -->
-- [ ] B) $x = k\pi$ con $k \in \mathbb{Z}$ <!-- feedback: Incorrecto. En los múltiplos de $\pi$ la tangente vale $0$. -->
-- [ ] C) $x = 2k\pi$ con $k \in \mathbb{Z}$ <!-- feedback: Incorrecto. En esos puntos la tangente está perfectamente definida y vale $0$. -->
+- [x] C) $x = \frac{\pi}{2} + k\pi$ con $k \in \mathbb{Z}$ <!-- feedback: Correcto. La tangente es $\frac{\sin(x)}{\cos(x)}$, la cual no está definida donde $\cos(x) = 0$. -->
+- [ ] A) $x = k\pi$ con $k \in \mathbb{Z}$ <!-- feedback: Incorrecto. En los múltiplos de $\pi$ la tangente vale $0$. -->
+- [ ] B) $x = 2k\pi$ con $k \in \mathbb{Z}$ <!-- feedback: Incorrecto. En esos puntos la tangente está perfectamente definida y vale $0$. -->
 - [ ] D) $x = \frac{\pi}{4} + k\pi$ con $k \in \mathbb{Z}$ <!-- feedback: Incorrecto. En esos puntos la tangente vale $1$ o $-1$. -->
 
 ### Explicacion Pedagogica
@@ -141,10 +141,10 @@ Por definición $\tan(x) = \frac{\sin(x)}{\cos(x)}$. No está definida cuando el
 La temperatura en $^{\circ}\text{C}$ viene dada por $T(m) = 18 + 10 \cos\left(\frac{\pi}{6} (m - 1)\right)$, donde $m=1$ es enero. ¿Qué temperatura se registra en el mes de julio ($m=7$)?
 
 ### Opciones
-- [x] A) $8^{\circ}\text{C}$ <!-- feedback: Correcto. $T(7) = 18 + 10 \cos(\pi) = 18 + 10(-1) = 8^{\circ}\text{C}$. -->
-- [ ] B) $28^{\circ}\text{C}$ <!-- feedback: Incorrecto. $28^{\circ}\text{C}$ ocurre en enero, cuando el coseno vale $1$. -->
-- [ ] C) $18^{\circ}\text{C}$ <!-- feedback: Incorrecto. $18^{\circ}\text{C}$ es la temperatura media anual. -->
-- [ ] D) $10^{\circ}\text{C}$ <!-- feedback: Incorrecto. Confundió la amplitud con la temperatura mínima. -->
+- [x] D) $8^{\circ}\text{C}$ <!-- feedback: Correcto. $T(7) = 18 + 10 \cos(\pi) = 18 + 10(-1) = 8^{\circ}\text{C}$. -->
+- [ ] A) $28^{\circ}\text{C}$ <!-- feedback: Incorrecto. $28^{\circ}\text{C}$ ocurre en enero, cuando el coseno vale $1$. -->
+- [ ] B) $18^{\circ}\text{C}$ <!-- feedback: Incorrecto. $18^{\circ}\text{C}$ es la temperatura media anual. -->
+- [ ] C) $10^{\circ}\text{C}$ <!-- feedback: Incorrecto. Confundió la amplitud con la temperatura mínima. -->
 
 ### Explicacion Pedagogica
 Para $m = 7$: $\frac{\pi}{6}(7 - 1) = \frac{6\pi}{6} = \pi$. Como $\cos(\pi) = -1$, calculamos $T(7) = 18 + 10(-1) = 8^{\circ}\text{C}$.
@@ -162,8 +162,8 @@ Para $m = 7$: $\frac{\pi}{6}(7 - 1) = \frac{6\pi}{6} = \pi$. Como $\cos(\pi) = -
 Dada la función $y = \sin\left(2x - \frac{\pi}{2}\right)$, ¿cuál es su desfase de fase horizontal?
 
 ### Opciones
-- [x] A) Desplazamiento de $\frac{\pi}{4}$ hacia la derecha <!-- feedback: Correcto. Factorizando: $\sin\left(2\left(x - \frac{\pi}{4}\right)\right)$. El desfase es $\frac{\pi}{4}$ a la derecha. -->
-- [ ] B) Desplazamiento de $\frac{\pi}{2}$ hacia la derecha <!-- feedback: Incorrecto. No dividió el término constante por el coeficiente $\omega = 2$. -->
+- [x] B) Desplazamiento de $\frac{\pi}{4}$ hacia la derecha <!-- feedback: Correcto. Factorizando: $\sin\left(2\left(x - \frac{\pi}{4}\right)\right)$. El desfase es $\frac{\pi}{4}$ a la derecha. -->
+- [ ] A) Desplazamiento de $\frac{\pi}{2}$ hacia la derecha <!-- feedback: Incorrecto. No dividió el término constante por el coeficiente $\omega = 2$. -->
 - [ ] C) Desplazamiento de $\frac{\pi}{4}$ hacia la izquierda <!-- feedback: Incorrecto. El signo negativo indica desplazamiento a la derecha. -->
 - [ ] D) Desplazamiento de $\pi$ hacia la izquierda <!-- feedback: Incorrecto. Error en la factorización del argumento. -->
 
@@ -183,9 +183,9 @@ Igualando el argumento a cero: $2x - \frac{\pi}{2} = 0 \Rightarrow 2x = \frac{\p
 ¿Cuál es la amplitud equivalente $R$ de la combinación armónica $y = 6 \sin(\theta) + 8 \cos(\theta)$?
 
 ### Opciones
-- [x] A) $10$ <!-- feedback: Correcto. $R = \sqrt{6^2 + 8^2} = \sqrt{36 + 64} = \sqrt{100} = 10$. -->
-- [ ] B) $14$ <!-- feedback: Incorrecto. Sumó directamente los coeficientes $6 + 8$. -->
-- [ ] C) $48$ <!-- feedback: Incorrecto. Multiplicó los dos coeficientes. -->
+- [x] C) $10$ <!-- feedback: Correcto. $R = \sqrt{6^2 + 8^2} = \sqrt{36 + 64} = \sqrt{100} = 10$. -->
+- [ ] A) $14$ <!-- feedback: Incorrecto. Sumó directamente los coeficientes $6 + 8$. -->
+- [ ] B) $48$ <!-- feedback: Incorrecto. Multiplicó los dos coeficientes. -->
 - [ ] D) $2$ <!-- feedback: Incorrecto. Restó los coeficientes. -->
 
 ### Explicacion Pedagogica
@@ -225,8 +225,8 @@ $\frac{5\pi}{4} = \pi + \frac{\pi}{4}$ pertenece al III cuadrante. $\sin\left(\f
 Si $\cos(x) = -\frac{3}{5}$ y $x \in \left(\pi, \frac{3\pi}{2}\right)$, ¿cuál es el valor de $\tan(x)$?
 
 ### Opciones
-- [x] A) $\frac{4}{3}$ <!-- feedback: Correcto. En el III cuadrante $\sin(x) = -\frac{4}{5}$, por lo que $\tan(x) = \frac{-4/5}{-3/5} = \frac{4}{3}$. -->
-- [ ] B) $-\frac{4}{3}$ <!-- feedback: Incorrecto. En el III cuadrante la tangente es positiva. -->
+- [x] B) $\frac{4}{3}$ <!-- feedback: Correcto. En el III cuadrante $\sin(x) = -\frac{4}{5}$, por lo que $\tan(x) = \frac{-4/5}{-3/5} = \frac{4}{3}$. -->
+- [ ] A) $-\frac{4}{3}$ <!-- feedback: Incorrecto. En el III cuadrante la tangente es positiva. -->
 - [ ] C) $\frac{3}{4}$ <!-- feedback: Incorrecto. Invertió el orden de la relación tangente (cotangente). -->
 - [ ] D) $-\frac{3}{4}$ <!-- feedback: Incorrecto. Confundió el signo y la relación entre lados. -->
 
@@ -246,9 +246,9 @@ $\sin^2(x) = 1 - \cos^2(x) = 1 - \frac{9}{25} = \frac{16}{25}$. En el III cuadra
 En la función $f(x) = 3 \sin(2x) + 4 \cos(2x)$, ¿cuál es el valor máximo de $f(x)$?
 
 ### Opciones
-- [x] A) $5$ <!-- feedback: Correcto. La amplitud máxima resultante es $\sqrt{3^2 + 4^2} = 5$. -->
-- [ ] B) $7$ <!-- feedback: Incorrecto. Sumó los coeficientes directamente. -->
-- [ ] C) $1$ <!-- feedback: Incorrecto. Restó los coeficientes. -->
+- [x] C) $5$ <!-- feedback: Correcto. La amplitud máxima resultante es $\sqrt{3^2 + 4^2} = 5$. -->
+- [ ] A) $7$ <!-- feedback: Incorrecto. Sumó los coeficientes directamente. -->
+- [ ] B) $1$ <!-- feedback: Incorrecto. Restó los coeficientes. -->
 - [ ] D) $25$ <!-- feedback: Incorrecto. Olvidó la raíz cuadrada en la suma de cuadrados. -->
 
 ### Explicacion Pedagogica
@@ -267,9 +267,9 @@ Expresando $a \sin(2x) + b \cos(2x)$ como $R \sin(2x + \phi)$, el valor máximo 
 ¿Cuál es el período de la función $g(x) = \sin(3x) + \sin(5x)$?
 
 ### Opciones
-- [x] A) $2\pi$ <!-- feedback: Correcto. El período de $\sin(3x)$ es $2\pi/3$ y de $\sin(5x)$ es $2\pi/5$. El MCM de ambos períodos es $2\pi$. -->
-- [ ] B) $\frac{2\pi}{15}$ <!-- feedback: Incorrecto. Dividió $2\pi$ por el producto de las frecuencias. -->
-- [ ] C) $\frac{2\pi}{8}$ <!-- feedback: Incorrecto. Sumó las frecuencias en el denominador. -->
+- [x] C) $2\pi$ <!-- feedback: Correcto. El período de $\sin(3x)$ es $2\pi/3$ y de $\sin(5x)$ es $2\pi/5$. El MCM de ambos períodos es $2\pi$. -->
+- [ ] A) $\frac{2\pi}{15}$ <!-- feedback: Incorrecto. Dividió $2\pi$ por el producto de las frecuencias. -->
+- [ ] B) $\frac{2\pi}{8}$ <!-- feedback: Incorrecto. Sumó las frecuencias en el denominador. -->
 - [ ] D) $\pi$ <!-- feedback: Incorrecto. $2\pi$ es el menor período común múltiplo. -->
 
 ### Explicacion Pedagogica
@@ -309,9 +309,9 @@ $\tan(2x)$ no está definida cuando $2x = \frac{\pi}{2} + k\pi \Rightarrow x = \
 ¿Cómo se clasifica la función $h(x) = x \cdot \sin(x)$ según su simetría?
 
 ### Opciones
-- [x] A) Es una función par <!-- feedback: Correcto. $h(-x) = (-x) \cdot \sin(-x) = (-x) \cdot (-\sin(x)) = x \sin(x) = h(x)$. -->
-- [ ] B) Es una función impar <!-- feedback: Incorrecto. El producto de dos funciones impares resulta en una función par. -->
-- [ ] C) No es par ni impar <!-- feedback: Incorrecto. Cumple la condición de paridad $h(-x) = h(x)$. -->
+- [x] C) Es una función par <!-- feedback: Correcto. $h(-x) = (-x) \cdot \sin(-x) = (-x) \cdot (-\sin(x)) = x \sin(x) = h(x)$. -->
+- [ ] A) Es una función impar <!-- feedback: Incorrecto. El producto de dos funciones impares resulta en una función par. -->
+- [ ] B) No es par ni impar <!-- feedback: Incorrecto. Cumple la condición de paridad $h(-x) = h(x)$. -->
 - [ ] D) Es periódica con período $\pi$ <!-- feedback: Incorrecto. $x \sin(x)$ no es periódica debido al factor lineal $x$. -->
 
 ### Explicacion Pedagogica
@@ -330,10 +330,10 @@ Evaluando $h(-x) = (-x) \sin(-x)$. Como $\sin(-x) = -\sin(x)$, tenemos $h(-x) = 
 ¿Para qué valor de $x \in [0, 2\pi]$ la función $f(x) = \cos\left(x - \frac{\pi}{3}\right)$ alcanza su valor máximo?
 
 ### Opciones
-- [x] A) $x = \frac{\pi}{3}$ <!-- feedback: Correcto. El coseno alcanza su máximo $1$ cuando el argumento es cero: $x - \frac{\pi}{3} = 0 \Rightarrow x = \frac{\pi}{3}$. -->
-- [ ] B) $x = 0$ <!-- feedback: Incorrecto. Para $x=0$, $\cos(-\pi/3) = 1/2$. -->
-- [ ] C) $x = \frac{2\pi}{3}$ <!-- feedback: Incorrecto. Para $x=2\pi/3$, $\cos(\pi/3) = 1/2$. -->
-- [ ] D) $x = \pi$ <!-- feedback: Incorrecto. Para $x=\pi$, $\cos(2\pi/3) = -1/2$. -->
+- [x] D) $x = \frac{\pi}{3}$ <!-- feedback: Correcto. El coseno alcanza su máximo $1$ cuando el argumento es cero: $x - \frac{\pi}{3} = 0 \Rightarrow x = \frac{\pi}{3}$. -->
+- [ ] A) $x = 0$ <!-- feedback: Incorrecto. Para $x=0$, $\cos(-\pi/3) = 1/2$. -->
+- [ ] B) $x = \frac{2\pi}{3}$ <!-- feedback: Incorrecto. Para $x=2\pi/3$, $\cos(\pi/3) = 1/2$. -->
+- [ ] C) $x = \pi$ <!-- feedback: Incorrecto. Para $x=\pi$, $\cos(2\pi/3) = -1/2$. -->
 
 ### Explicacion Pedagogica
 La función $A \cos(\theta)$ es máxima cuando $\theta = 0$ (o múltiplo de $2\pi$). Igualando $x - \frac{\pi}{3} = 0$, resulta $x = \frac{\pi}{3}$.
@@ -351,10 +351,10 @@ La función $A \cos(\theta)$ es máxima cuando $\theta = 0$ (o múltiplo de $2\p
 Si $f(x) = 2 \sin^2(x) + 3$, ¿cuáles son los valores mínimo y máximo de la función?
 
 ### Opciones
-- [x] A) Mínimo = $3$, Máximo = $5$ <!-- feedback: Correcto. Como $0 \le \sin^2(x) \le 1$, la función varía entre $2(0)+3 = 3$ y $2(1)+3 = 5$. -->
-- [ ] B) Mínimo = $1$, Máximo = $5$ <!-- feedback: Incorrecto. Confundió $\sin(x)$ con $\sin^2(x)$ asumiendo que toma valores negativos. -->
-- [ ] C) Mínimo = $3$, Máximo = $7$ <!-- feedback: Incorrecto. Calculó $2(2)+3 = 7$ en lugar de usar el rango del seno cuadrado. -->
-- [ ] D) Mínimo = $0$, Máximo = $5$ <!-- feedback: Incorrecto. Olvidó sumar el término constante $+3$. -->
+- [x] D) Mínimo = $3$, Máximo = $5$ <!-- feedback: Correcto. Como $0 \le \sin^2(x) \le 1$, la función varía entre $2(0)+3 = 3$ y $2(1)+3 = 5$. -->
+- [ ] A) Mínimo = $1$, Máximo = $5$ <!-- feedback: Incorrecto. Confundió $\sin(x)$ con $\sin^2(x)$ asumiendo que toma valores negativos. -->
+- [ ] B) Mínimo = $3$, Máximo = $7$ <!-- feedback: Incorrecto. Calculó $2(2)+3 = 7$ en lugar de usar el rango del seno cuadrado. -->
+- [ ] C) Mínimo = $0$, Máximo = $5$ <!-- feedback: Incorrecto. Olvidó sumar el término constante $+3$. -->
 
 ### Explicacion Pedagogica
 El cuadrado del seno satisface $0 \le \sin^2(x) \le 1$. Multiplicando por $2$: $0 \le 2\sin^2(x) \le 2$. Sumando $3$: $3 \le 2\sin^2(x)+3 \le 5$.
@@ -372,9 +372,9 @@ El cuadrado del seno satisface $0 \le \sin^2(x) \le 1$. Multiplicando por $2$: $
 ¿Cuántas soluciones reales tiene la ecuación $\sin(2x) = \cos(x)$ en el intervalo $[0, 2\pi)$?
 
 ### Opciones
-- [x] A) $4$ soluciones <!-- feedback: Correcto. $2\sin(x)\cos(x) = \cos(x) \Rightarrow \cos(x)(2\sin(x) - 1) = 0$. $\cos(x)=0 \Rightarrow \pi/2, 3\pi/2$. $\sin(x)=1/2 \Rightarrow \pi/6, 5\pi/6$. Total = 4. -->
-- [ ] B) $2$ soluciones <!-- feedback: Incorrecto. Omitió las soluciones provenientes del factor $\sin(x) = 1/2$. -->
-- [ ] C) $3$ soluciones <!-- feedback: Incorrecto. Omitió una de las soluciones del círculo trigonométrico. -->
+- [x] C) $4$ soluciones <!-- feedback: Correcto. $2\sin(x)\cos(x) = \cos(x) \Rightarrow \cos(x)(2\sin(x) - 1) = 0$. $\cos(x)=0 \Rightarrow \pi/2, 3\pi/2$. $\sin(x)=1/2 \Rightarrow \pi/6, 5\pi/6$. Total = 4. -->
+- [ ] A) $2$ soluciones <!-- feedback: Incorrecto. Omitió las soluciones provenientes del factor $\sin(x) = 1/2$. -->
+- [ ] B) $3$ soluciones <!-- feedback: Incorrecto. Omitió una de las soluciones del círculo trigonométrico. -->
 - [ ] D) $1$ solución <!-- feedback: Incorrecto. Canceló $\cos(x)$ sin considerar que puede ser igual a cero. -->
 
 ### Explicacion Pedagogica
@@ -393,8 +393,8 @@ $\sin(2x) = 2\sin(x)\cos(x)$. La ecuación es $2\sin(x)\cos(x) - \cos(x) = 0 \Ri
 ¿Cuál es la forma simplificada equivalente de $f(x) = \frac{1 + \cos(2x)}{\sin(2x)}$ para $x \neq \frac{k\pi}{2}$?
 
 ### Opciones
-- [x] A) $\cot(x)$ <!-- feedback: Correcto. $1 + \cos(2x) = 2\cos^2(x)$ y $\sin(2x) = 2\sin(x)\cos(x)$. El cociente es $\frac{2\cos^2(x)}{2\sin(x)\cos(x)} = \cot(x)$. -->
-- [ ] B) $\tan(x)$ <!-- feedback: Incorrecto. Invirtió la relación seno/coseno. -->
+- [x] B) $\cot(x)$ <!-- feedback: Correcto. $1 + \cos(2x) = 2\cos^2(x)$ y $\sin(2x) = 2\sin(x)\cos(x)$. El cociente es $\frac{2\cos^2(x)}{2\sin(x)\cos(x)} = \cot(x)$. -->
+- [ ] A) $\tan(x)$ <!-- feedback: Incorrecto. Invirtió la relación seno/coseno. -->
 - [ ] C) $\sin(x)$ <!-- feedback: Incorrecto. Error en la aplicación de las identidades del ángulo doble. -->
 - [ ] D) $\csc(x)$ <!-- feedback: Incorrecto. Se omitió la simplificación del coseno. -->
 
@@ -414,8 +414,8 @@ Usando ángulo doble: $1 + \cos(2x) = 2\cos^2(x)$ y $\sin(2x) = 2\sin(x)\cos(x)$
 Dada la suma de ondas $f(t) = \sin(10t) + \sin(12t)$, exprésela como producto de funciones trigonométricas.
 
 ### Opciones
-- [x] A) $2 \sin(11t) \cos(t)$ <!-- feedback: Correcto. Identidad de suma a producto: $\sin(A) + \sin(B) = 2 \sin\left(\frac{A+B}{2}\right) \cos\left(\frac{A-B}{2}\right) = 2 \sin(11t) \cos(-t) = 2 \sin(11t) \cos(t)$. -->
-- [ ] B) $2 \cos(11t) \sin(t)$ <!-- feedback: Incorrecto. Invirtió las funciones seno y coseno en los promedios. -->
+- [x] B) $2 \sin(11t) \cos(t)$ <!-- feedback: Correcto. Identidad de suma a producto: $\sin(A) + \sin(B) = 2 \sin\left(\frac{A+B}{2}\right) \cos\left(\frac{A-B}{2}\right) = 2 \sin(11t) \cos(-t) = 2 \sin(11t) \cos(t)$. -->
+- [ ] A) $2 \cos(11t) \sin(t)$ <!-- feedback: Incorrecto. Invirtió las funciones seno y coseno en los promedios. -->
 - [ ] C) $\sin(22t) \cos(2t)$ <!-- feedback: Incorrecto. No dividió la suma ni la diferencia de ángulos por 2. -->
 - [ ] D) $2 \sin(22t)$ <!-- feedback: Incorrecto. No corresponde a la transformación de suma a producto. -->
 
@@ -435,9 +435,9 @@ La identidad de suma a producto es $\sin(A) + \sin(B) = 2 \sin\left(\frac{A+B}{2
 ¿Cuál es el valor medio de la función $f(x) = \sin^2(x)$ a lo largo de un período completo $[0, 2\pi]$?
 
 ### Opciones
-- [x] A) $\frac{1}{2}$ <!-- feedback: Correcto. Usando $\sin^2(x) = \frac{1 - \cos(2x)}{2}$, la integral del coseno en un período es $0$, resultando un promedio de $1/2$. -->
-- [ ] B) $1$ <!-- feedback: Incorrecto. $1$ es el valor máximo, no el promedio. -->
-- [ ] C) $0$ <!-- feedback: Incorrecto. $0$ sería el promedio de $\sin(x)$, pero $\sin^2(x)$ es siempre no negativa. -->
+- [x] C) $\frac{1}{2}$ <!-- feedback: Correcto. Usando $\sin^2(x) = \frac{1 - \cos(2x)}{2}$, la integral del coseno en un período es $0$, resultando un promedio de $1/2$. -->
+- [ ] A) $1$ <!-- feedback: Incorrecto. $1$ es el valor máximo, no el promedio. -->
+- [ ] B) $0$ <!-- feedback: Incorrecto. $0$ sería el promedio de $\sin(x)$, pero $\sin^2(x)$ es siempre no negativa. -->
 - [ ] D) $\frac{\pi}{2}$ <!-- feedback: Incorrecto. Confundió el valor de la integral con el promedio. -->
 
 ### Explicacion Pedagogica

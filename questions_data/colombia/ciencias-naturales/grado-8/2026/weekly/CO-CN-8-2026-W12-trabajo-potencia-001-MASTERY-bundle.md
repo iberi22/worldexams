@@ -52,13 +52,13 @@ El trabajo mecánico se aplica por una fuerza neta que produce desplazamiento en
 ### Enunciado
 ¿Cuál es el trabajo mecánico que el ebanista realiza sobre la viga?
 ### Opciones
-- [x] A) $400\text{ J}$
+- [x] D) $400\text{ J}$
   <!-- feedback: Correcto. $W = F \cdot d = 80\text{ N} \times 5\text{ m} = 400\text{ J}$. -->
-- [ ] B) $16\text{ J}$
+- [ ] A) $16\text{ J}$
   <!-- feedback: Incorrecto. Dividiste erróneamente la fuerza entre el desplazamiento ($80/5$). -->
-- [ ] C) $85\text{ J}$
+- [ ] B) $85\text{ J}$
   <!-- feedback: Incorrecto. Sumaste fuerza y desplazamiento; el trabajo se obtiene multiplicando. -->
-- [ ] D) $75\text{ J}$
+- [ ] C) $75\text{ J}$
   <!-- feedback: Incorrecto. Restaste desplazamiento a la fuerza, operación sin sentido físico. -->
 ### Explicacion Pedagogica
 $W = F \cdot d \cdot \cos\theta$. Con fuerza y desplazamiento paralelos ($\theta = 0^\circ$), $W = 80\text{ N} \times 5\text{ m} = 400\text{ J}$.
@@ -72,9 +72,9 @@ $W = F \cdot d \cdot \cos\theta$. Con fuerza y desplazamiento paralelos ($\theta
 ### Enunciado
 ¿Cuál es la unidad de medida de la potencia mecánica en el Sistema Internacional (SI)?
 ### Opciones
-- [x] A) Watt (W)
+- [x] B) Watt (W)
   <!-- feedback: Correcto. $1\text{ W} = 1\text{ J/s}$; el watt es la unidad SI de potencia en homenaje a James Watt. -->
-- [ ] B) Joule (J)
+- [ ] A) Joule (J)
   <!-- feedback: Incorrecto. El joule mide energía o trabajo, no potencia. -->
 - [ ] C) Newton (N)
   <!-- feedback: Incorrecto. El newton es la unidad de fuerza. -->
@@ -92,11 +92,11 @@ La potencia relaciona trabajo y tiempo: $P = W/t$. Su unidad SI es el watt ($1\t
 ### Enunciado
 ¿Cuál es la potencia media desarrollada por el motor del ascensor durante el ascenso?
 ### Opciones
-- [x] A) $800\text{ W}$
+- [x] C) $800\text{ W}$
   <!-- feedback: Correcto. $W = 1200 \times 8 = 9600\text{ J}$ y $P = 9600/12 = 800\text{ W}$. -->
-- [ ] B) $14400\text{ W}$
+- [ ] A) $14400\text{ W}$
   <!-- feedback: Incorrecto. Multiplicaste peso por altura pero olvidaste dividir por el tiempo. -->
-- [ ] C) $9600\text{ W}$
+- [ ] B) $9600\text{ W}$
   <!-- feedback: Incorrecto. Obtuviste el trabajo pero no lo dividiste entre el tiempo. -->
 - [ ] D) $150\text{ W}$
   <!-- feedback: Incorrecto. Dividiste la altura entre el tiempo sin considerar la fuerza aplicada. -->
@@ -112,9 +112,9 @@ $P_{\text{media}} = W/t = (F \cdot d)/t = (1200 \cdot 8)/12 = 800\text{ W}$.
 ### Enunciado
 ¿Cuál es la fuerza mínima que debe aplicarse en el otro extremo para equilibrar la roca?
 ### Opciones
-- [x] A) $\approx 66{,}7\text{ N}$
+- [x] B) $\approx 66{,}7\text{ N}$
   <!-- feedback: Correcto. Por equilibrio de momentos $F_1 \cdot d_1 = F_2 \cdot d_2$, entonces $F_1 = (200 \cdot 0{,}5)/1{,}5 = 66{,}67\text{ N}$. -->
-- [ ] B) $200\text{ N}$
+- [ ] A) $200\text{ N}$
   <!-- feedback: Incorrecto. Solo si las distancias fueran iguales la fuerza aplicada igualaría a la carga. -->
 - [ ] C) $600\text{ N}$
   <!-- feedback: Incorrecto. Multiplicaste carga por distancia del lado contrario sin dividir. -->
@@ -152,9 +152,9 @@ En un plano inclinado ideal, $F_{\text{paralela}} = P \cdot (h/L)$. Con $h = 1\t
 ### Enunciado
 ¿Cuál es la eficiencia (rendimiento) del montacargas durante la operación?
 ### Opciones
-- [x] A) $80\%$
+- [x] B) $80\%$
   <!-- feedback: Correcto. $\eta = (W_{\text{útil}}/W_{\text{total}}) \cdot 100 = (800 \cdot 2/2000) \cdot 100 = 80\%$. -->
-- [ ] B) $25\%$
+- [ ] A) $25\%$
   <!-- feedback: Incorrecto. Obtuviste la fracción inversa o confundiste trabajo total con trabajo útil. -->
 - [ ] C) $100\%$
   <!-- feedback: Incorrecto. Solo se logra $100\%$ de eficiencia en sistemas ideales sin fricción, lo cual no ocurre en máquinas reales. -->
@@ -172,13 +172,13 @@ La eficiencia compara el trabajo útil con el trabajo total invertido: $\eta = (
 ### Enunciado
 ¿Cuál es la potencia total (de entrada) que debe entregar el motor eléctrico al sistema?
 ### Opciones
-- [x] A) $\approx 77\,778\text{ W}$
+- [x] D) $\approx 77\,778\text{ W}$
   <!-- feedback: Correcto. $W_{\text{útil}} = 20 \cdot 700 \cdot 400 = 5\,600\,000\text{ J}$; $P_{\text{útil}} = 5\,600\,000/120 \approx 46\,667\text{ W}$; $P_{\text{total}} = P_{\text{útil}}/\eta \approx 77\,778\text{ W}$. -->
-- [ ] B) $\approx 46\,667\text{ W}$
+- [ ] A) $\approx 46\,667\text{ W}$
   <!-- feedback: Incorrecto. Obtuviste la potencia útil, pero olvidaste considerar la eficiencia menor a $100\%$. -->
-- [ ] C) $\approx 28\,000\text{ W}$
+- [ ] B) $\approx 28\,000\text{ W}$
   <!-- feedback: Incorrecto. Multiplicaste peso total por tiempo y dividiste por la altura, sin coherencia dimensional. -->
-- [ ] D) $\approx 9\,333\text{ W}$
+- [ ] C) $\approx 9\,333\text{ W}$
   <!-- feedback: Incorrecto. Dividiste trabajo total entre $600\text{ s}$, pero no calculaste correctamente $W_{\text{total}}$. -->
 ### Explicacion Pedagogica
 $W_{\text{útil}} = mgh$ para subir las personas, $P_{\text{útil}} = W/t$, y la potencia de entrada es $P_{\text{entrada}} = P_{\text{útil}}/\eta$. Con $\eta = 0{,}6$, se obtiene $\approx 77\,778\text{ W}$.
@@ -192,11 +192,11 @@ $W_{\text{útil}} = mgh$ para subir las personas, $P_{\text{útil}} = W/t$, y la
 ### Enunciado
 ¿Cuál de las siguientes afirmaciones describe correctamente la ventaja mecánica (VM) teórica de cada sistema y la fuerza necesaria para subir el tronco?
 ### Opciones
-- [x] A) Plano: VM $= 2{,}5$ y fuerza ≈ $480\text{ N}$; Aparejo: VM $= 4$ y fuerza $= 300\text{ N}$.
+- [x] C) Plano: VM $= 2{,}5$ y fuerza ≈ $480\text{ N}$; Aparejo: VM $= 4$ y fuerza $= 300\text{ N}$.
   <!-- feedback: Correcto. Plano: $F = P \cdot h/L = 1200 \cdot 1{,}2/3 = 480\text{ N}$, VM $= 3/1{,}2 = 2{,}5$. Aparejo con $2$ poleas móviles: VM $= 2^2 = 4$, $F = 1200/4 = 300\text{ N}$. -->
-- [ ] B) Plano: VM $= 3$ y fuerza $= 400\text{ N}$; Aparejo: VM $= 2$ y fuerza $= 600\text{ N}$.
+- [ ] A) Plano: VM $= 3$ y fuerza $= 400\text{ N}$; Aparejo: VM $= 2$ y fuerza $= 600\text{ N}$.
   <!-- feedback: Incorrecto. Usaste la longitud como denominador sin considerar la altura. -->
-- [ ] C) Plano: VM $= 2{,}5$ y fuerza $= 480\text{ N}$; Aparejo: VM $= 2$ y fuerza $= 600\text{ N}$.
+- [ ] B) Plano: VM $= 2{,}5$ y fuerza $= 480\text{ N}$; Aparejo: VM $= 2$ y fuerza $= 600\text{ N}$.
   <!-- feedback: Incorrecto. Solo una polea móvil tendría VM $= 2$; con dos, la VM teórica es $4$. -->
 - [ ] D) Plano: VM $= 1{,}2$ y fuerza $= 1000\text{ N}$; Aparejo: VM $= 4$ y fuerza $= 300\text{ N}$.
   <!-- feedback: Incorrecto. Confundiste la altura con la longitud al calcular VM del plano. -->
@@ -232,9 +232,9 @@ $P_{\text{media}} = W/t = (P \cdot h)/t$. Aunque A sube más rápido, B realiza 
 ### Enunciado
 ¿Cuál de las siguientes afirmaciones evalúa correctamente la opción más eficiente para reducir el esfuerzo del trabajador?
 ### Opciones
-- [x] A) El plano de $6\text{ m}$ (VM $= 5$) es la mejor opción porque minimiza la fuerza necesaria a $120\text{ N}$, aunque implique mayor distancia recorrida.
+- [x] B) El plano de $6\text{ m}$ (VM $= 5$) es la mejor opción porque minimiza la fuerza necesaria a $120\text{ N}$, aunque implique mayor distancia recorrida.
   <!-- feedback: Correcto. VM del plano de $6\text{ m}$ $= 6/1{,}2 = 5$; fuerza $= 600/5 = 120\text{ N}$. La polea móvil da VM $= 2$ y el plano de $3\text{ m}$ da VM $= 2{,}5$. -->
-- [ ] B) La polea móvil simple es la mejor opción porque tiene VM fija de $2$ y siempre será mejor que cualquier plano.
+- [ ] A) La polea móvil simple es la mejor opción porque tiene VM fija de $2$ y siempre será mejor que cualquier plano.
   <!-- feedback: Incorrecto. La polea tiene VM $= 2$, menor que la VM $= 5$ del plano de $6\text{ m}$. -->
 - [ ] C) El plano de $3\text{ m}$ es la mejor opción porque requiere menos desplazamiento total.
   <!-- feedback: Incorrecto. Menor recorrido no implica mayor VM ni menor fuerza aplicada. -->

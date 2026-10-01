@@ -54,11 +54,11 @@ Las transformaciones rígidas o isometrías son las traslaciones, rotaciones y r
 ### Opciones
 - [ ] A) $(1, 5)$
   <!-- feedback: Incorrecto. Restaste el vector en lugar de sumarlo. -->
-- [x] B) $(5, 3)$
+- [x] D) $(5, 3)$
   <!-- feedback: Correcto. $(3 + 2, 4 + (-1)) = (5, 3)$. -->
-- [ ] C) $(6, 4)$
+- [ ] B) $(6, 4)$
   <!-- feedback: Incorrecto. Solo trasladaste la primera componente. -->
-- [ ] D) $(3, 4)$
+- [ ] C) $(3, 4)$
   <!-- feedback: Incorrecto. El punto no cambió; no se aplicó la traslación. -->
 ### Explicacion Pedagogica
 Una traslación con vector $\vec{v} = (a, b)$ mapea el punto $(x, y)$ a $(x + a, y + b)$. Aquí, $(3, 4) + (2, -1) = (5, 3)$.
@@ -76,9 +76,9 @@ Una traslación con vector $\vec{v} = (a, b)$ mapea el punto $(x, y)$ a $(x + a,
   <!-- feedback: Incorrecto. El punto no cambió; la reflexión no se aplicó. -->
 - [ ] B) $(-2, 5)$
   <!-- feedback: Incorrecto. Reflejaste respecto al eje $y$ en lugar del eje $x$. -->
-- [x] C) $(2, -5)$
+- [x] D) $(2, -5)$
   <!-- feedback: Correcto. Reflejar respecto al eje $x$ cambia el signo de la coordenada $y$: $(x, y) \to (x, -y)$. -->
-- [ ] D) $(5, 2)$
+- [ ] C) $(5, 2)$
   <!-- feedback: Incorrecto. Intercambiaste las coordenadas como si fuera una reflexión sobre la recta $y = x$. -->
 ### Explicacion Pedagogica
 La reflexión respecto al eje $x$ conserva la coordenada $x$ y cambia el signo de la coordenada $y$: $(x, y) \to (x, -y)$. Aquí $(2, 5) \to (2, -5)$.
@@ -92,11 +92,11 @@ La reflexión respecto al eje $x$ conserva la coordenada $x$ y cambia el signo d
 ### Enunciado
 ¿Cuáles son las coordenadas del punto rotado $P'$?
 ### Opciones
-- [ ] A) $(1, 0)$
+- [ ] B) $(1, 0)$
   <!-- feedback: Incorrecto. El punto no cambió; no se aplicó la rotación. -->
-- [ ] B) $(-1, 0)$
+- [ ] C) $(-1, 0)$
   <!-- feedback: Incorrecto. Es una rotación de $180°$ alrededor del origen. -->
-- [x] C) $(0, 1)$
+- [x] A) $(0, 1)$
   <!-- feedback: Correcto. Una rotación de $90°$ antihoraria lleva $(x, y)$ a $(-y, x)$, así que $(1, 0) \to (0, 1)$. -->
 - [ ] D) $(0, -1)$
   <!-- feedback: Incorrecto. Obtuviste el resultado de una rotación horaria, no antihoraria. -->
@@ -134,9 +134,9 @@ La homotecia con centro en el origen y factor $k$ mapea $(x, y)$ a $(kx, ky)$. A
 ### Opciones
 - [ ] A) $(1, 1)$
   <!-- feedback: Incorrecto. No se aplicó la reflexión; el punto no cambió. -->
-- [ ] B) $(-1, 1)$
+- [ ] C) $(-1, 1)$
   <!-- feedback: Incorrecto. Reflejaste respecto al eje $y$ en lugar de la recta $y = x$. -->
-- [x] C) $(1, 1)$ con componentes intercambiadas, es decir, sigue siendo $(1, 1)$.
+- [x] B) $(1, 1)$ con componentes intercambiadas, es decir, sigue siendo $(1, 1)$.
   <!-- feedback: Correcto. La reflexión sobre $y = x$ intercambia las coordenadas: $(x, y) \to (y, x)$. Aquí $(1, 1) \to (1, 1)$. -->
 - [ ] D) $(-1, -1)$
   <!-- feedback: Incorrecto. Reflejaste respecto al origen, no respecto a $y = x$. -->
@@ -174,9 +174,9 @@ Componer una traslación $T(a, b)$ con una reflexión $R_x$ sobre el eje $x$ da 
 ### Opciones
 - [ ] A) La posición de cada vértice individual.
   <!-- feedback: Incorrecto. Los vértices se mueven a nuevas posiciones; eso no se conserva. -->
-- [ ] B) El color del cuadrado, si es que tenía uno.
+- [ ] C) El color del cuadrado, si es que tenía uno.
   <!-- feedback: Incorrecto. La pregunta es sobre propiedades geométricas, no de color. -->
-- [x] C) La forma y el tamaño del cuadrado, además de las longitudes de sus lados y la igualdad de sus ángulos.
+- [x] B) La forma y el tamaño del cuadrado, además de las longitudes de sus lados y la igualdad de sus ángulos.
   <!-- feedback: Correcto. Las rotaciones son isometrías: conservan distancias, ángulos y, por tanto, la forma y el tamaño. -->
 - [ ] D) El área exacta del cuadrado, aunque cambie su posición.
   <!-- feedback: Incorrecto. Sí se conserva el área, pero la afirmación es incompleta porque hay otras propiedades que también se conservan. -->
@@ -192,11 +192,11 @@ Las rotaciones son movimientos rígidos: conservan distancias entre puntos, medi
 ### Enunciado
 Si primero aplica la homotecia y luego la reflexión, ¿cuál es el punto final $Q''$?
 ### Opciones
-- [ ] A) $(6, 2)$
+- [ ] B) $(6, 2)$
   <!-- feedback: Incorrecto. Solo aplicaste la homotecia, te faltó la reflexión sobre el eje $y$. -->
-- [ ] B) $(3, 1)$
+- [ ] C) $(3, 1)$
   <!-- feedback: Incorrecto. No se aplicaron las transformaciones. -->
-- [x] C) $(-6, 2)$
+- [x] A) $(-6, 2)$
   <!-- feedback: Correcto. Primero la homotecia: $(3, 1) \to (6, 2)$; luego la reflexión sobre el eje $y$: $(6, 2) \to (-6, 2)$. -->
 - [ ] D) $(6, -2)$
   <!-- feedback: Incorrecto. Reflejaste sobre el eje $x$ en lugar del eje $y$. -->
@@ -214,9 +214,9 @@ Componer $H_2$ (homotecia de factor $2$) con $R_y$ (reflexión sobre el eje $y$)
 ### Opciones
 - [ ] A) Es falsa porque dos reflexiones nunca se cancelan.
   <!-- feedback: Incorrecto. Sí se cancelan cuando se hacen sobre el mismo eje. -->
-- [ ] B) Es verdadera solo si las reflexiones son sobre ejes distintos.
+- [ ] C) Es verdadera solo si las reflexiones son sobre ejes distintos.
   <!-- feedback: Incorrecto. Sobre ejes distintos no se cancelan, sino que producen una rotación o traslación. -->
-- [x] C) Es verdadera si se trata de la misma reflexión sobre el mismo eje, porque aplicarla dos veces regresa cada punto a su posición original.
+- [x] B) Es verdadera si se trata de la misma reflexión sobre el mismo eje, porque aplicarla dos veces regresa cada punto a su posición original.
   <!-- feedback: Correcto. La composición de una reflexión consigo misma sobre el mismo eje equivale a la identidad. -->
 - [ ] D) Es verdadera únicamente en geometría plana, no en el espacio.
   <!-- feedback: Incorrecto. La afirmación es válida tanto en el plano como en el espacio. -->

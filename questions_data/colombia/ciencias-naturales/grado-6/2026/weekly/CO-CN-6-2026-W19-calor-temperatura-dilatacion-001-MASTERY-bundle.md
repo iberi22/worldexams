@@ -57,9 +57,9 @@ El termómetro mide temperatura, es decir, el estado térmico del aire en ese in
 ¿Por qué la masa cambia de fría y cruda a caliente y cocida dentro del horno?
 
 ### Opciones
-- [x] A) Porque el calor del horno pasa a la masa hasta que su temperatura se iguala con la del aire del horno
+- [x] B) Porque el calor del horno pasa a la masa hasta que su temperatura se iguala con la del aire del horno
   <!-- feedback: Correcto. El calor fluye del cuerpo más caliente al más frío hasta equilibrar temperaturas. -->
-- [ ] B) Porque el horno genera nueva materia dentro de la masa
+- [ ] A) Porque el horno genera nueva materia dentro de la masa
   <!-- feedback: Incorrecto. El horno no crea masa, solo transfiere energía calorífica. -->
 - [ ] C) Porque la masa pierde agua y por eso se calienta
   <!-- feedback: Incorrecto. La pérdida de agua es una consecuencia, no la causa principal del calentamiento. -->
@@ -80,9 +80,9 @@ El calor siempre pasa del cuerpo caliente al frío. Cuando dos cuerpos se tocan 
 ¿Qué le sucede al anillo de cobre cuando se calienta mucho?
 
 ### Opciones
-- [x] A) Se dilata y su diámetro aumenta ligeramente
+- [x] B) Se dilata y su diámetro aumenta ligeramente
   <!-- feedback: Correcto. Los metales sólidos se dilatan al subir la temperatura. -->
-- [ ] B) Se contrae para resistir mejor el calor del horno
+- [ ] A) Se contrae para resistir mejor el calor del horno
   <!-- feedback: Incorrecto. Los sólidos se dilatan al calentarse, no se contraen. -->
 - [ ] C) Mantiene su tamaño porque el cobre es resistente
   <!-- feedback: Incorrecto. La resistencia mecánica no evita la dilatación térmica. -->
@@ -103,13 +103,13 @@ La dilatación térmica es el aumento de volumen de un cuerpo cuando su temperat
 ¿Por qué se rajan las tuberías cuando el agua interior se congela durante una helada?
 
 ### Opciones
-- [x] A) Porque el agua al congelarse se dilata y empuja las paredes del tubo hasta romperlo
+- [x] D) Porque el agua al congelarse se dilata y empuja las paredes del tubo hasta romperlo
   <!-- feedback: Correcto. El hielo ocupa más volumen que el agua líquida y rompe el tubo. -->
-- [ ] B) Porque el PVC se encoge con el frío y aparecen grietas
+- [ ] A) Porque el PVC se encoge con el frío y aparecen grietas
   <!-- feedback: Incorrecto. El PVC se contrae muy poco; el problema principal es la dilatación del agua al congelarse. -->
-- [ ] C) Porque el hielo dentro del tubo se vuelve más liviano y raspa las paredes
+- [ ] B) Porque el hielo dentro del tubo se vuelve más liviano y raspa las paredes
   <!-- feedback: Incorrecto. El hielo es más duro, pero el daño ocurre por presión, no por roce. -->
-- [ ] D) Porque el suelo helado succiona las tuberías
+- [ ] C) Porque el suelo helado succiona las tuberías
   <!-- feedback: Incorrecto. La tierra no succiona las tuberías; la presión la hace el agua al congelarse. -->
 
 ### Explicacion Pedagogica
@@ -126,9 +126,9 @@ El agua es una excepción: al congelarse ocupa más volumen, no menos. Esa dilat
 ¿Qué forma de transferencia de calor permite que el extremo lejano de la barra se sienta caliente sin tocarse con la llama?
 
 ### Opciones
-- [x] A) La conducción, porque el calor viaja por dentro del metal de un extremo al otro
+- [x] B) La conducción, porque el calor viaja por dentro del metal de un extremo al otro
   <!-- feedback: Correcto. La conducción transmite calor por contacto interno entre partículas del sólido. -->
-- [ ] B) La convección, porque el aire caliente sube y calienta la barra
+- [ ] A) La convección, porque el aire caliente sube y calienta la barra
   <!-- feedback: Incorrecto. La convección ocurre en líquidos y gases, no dentro del metal sólido. -->
 - [ ] C) La radiación, porque la llama emite luz invisible que calienta
   <!-- feedback: Incorrecto. La radiación atraviesa el aire, pero dentro del metal sólido el calor va por conducción. -->
@@ -149,11 +149,11 @@ La conducción transmite calor entre partículas en contacto dentro de un sólid
 ¿Qué análisis explica mejor la conservación del queso?
 
 ### Opciones
-- [x] A) Las hojas de fique son mejores aislantes térmicos que el plástico, así el calor del ambiente entra más despacio al queso
+- [x] C) Las hojas de fique son mejores aislantes térmicos que el plástico, así el calor del ambiente entra más despacio al queso
   <!-- feedback: Correcto. Un buen aislante térmico deja pasar poco calor por conducción. -->
-- [ ] B) El plástico genera frío dentro del queso por contacto
+- [ ] A) El plástico genera frío dentro del queso por contacto
   <!-- feedback: Incorrecto. El plástico no produce frío; solo es peor aislante. -->
-- [ ] C) Las hojas de fique enfrían el ambiente exterior
+- [ ] B) Las hojas de fique enfrían el ambiente exterior
   <!-- feedback: Incorrecto. Las hojas no enfrían el ambiente, solo retrasan la entrada del calor. -->
 - [ ] D) El queso no se afecta por la temperatura dentro de la plaza
   <!-- feedback: Incorrecto. El queso se daña con calor y humedad, por eso importa el envase. -->
@@ -195,13 +195,13 @@ La radiación solar llega en línea recta; lo que está expuesto al sol recibe m
 ¿Qué análisis explica que el pocillo de barro se pueda tocar más rápido que la olla de aluminio después de servir el chocolate?
 
 ### Opciones
-- [x] A) El barro es peor conductor térmico que el aluminio, así que transmite menos calor a la mano
+- [x] D) El barro es peor conductor térmico que el aluminio, así que transmite menos calor a la mano
   <!-- feedback: Correcto. El barro tradicional es aislante térmico; el aluminio es conductor rápido. -->
-- [ ] B) El barro está más frío que el aluminio porque absorbió menos calor
+- [ ] A) El barro está más frío que el aluminio porque absorbió menos calor
   <!-- feedback: Incorrecto. Ambos pocillos están a la misma temperatura del chocolate al inicio. -->
-- [ ] C) El aluminio se enfría más rápido y por eso la olla está fría
+- [ ] B) El aluminio se enfría más rápido y por eso la olla está fría
   <!-- feedback: Incorrecto. El aluminio pierde calor más rápido que el barro, justamente por ser conductor. -->
-- [ ] D) La diferencia se debe al color de los materiales
+- [ ] C) La diferencia se debe al color de los materiales
   <!-- feedback: Incorrecto. Lo importante es la conductividad, no el color. -->
 
 ### Explicacion Pedagogica
@@ -218,9 +218,9 @@ Analizar materiales obliga a separar conductividad y color: el aluminio conduce 
 ¿Qué juicio científico se debe dar al aviso del vendedor?
 
 ### Opciones
-- [x] A) El aviso exagera, porque todo termo real pierde algo de calor por conducción, convección y radiación con el paso de las horas
+- [x] B) El aviso exagera, porque todo termo real pierde algo de calor por conducción, convección y radiación con el paso de las horas
   <!-- feedback: Correcto. Ningún aislamiento es perfecto y siempre hay pérdida gradual de calor. -->
-- [ ] B) El aviso es cierto porque los termos usan magia para anular el calor
+- [ ] A) El aviso es cierto porque los termos usan magia para anular el calor
   <!-- feedback: Incorrecto. No hay magia; todos los materiales reales intercambian energía. -->
 - [ ] C) El termo solo sirve para bebidas frías porque el calor exterior es muy fuerte
   <!-- feedback: Incorrecto. Un buen termo también retrasa el calentamiento de bebidas frías. -->

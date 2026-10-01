@@ -34,8 +34,8 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) Argumento de autoridad. <!-- feedback: Incorrecto. Este se basa en la opinión de expertos, no necesariamente en cifras. -->
-- [x] B) Argumento de datos y estadísticas. <!-- feedback: ¡Correcto! Se basa en información cuantitativa que da rigor y objetividad a la argumentación. -->
-- [ ] C) Argumento afectivo. <!-- feedback: Incorrecto. Este apela a los sentimientos, no a la razón matemática. -->
+- [x] C) Argumento de datos y estadísticas. <!-- feedback: ¡Correcto! Se basa en información cuantitativa que da rigor y objetividad a la argumentación. -->
+- [ ] B) Argumento afectivo. <!-- feedback: Incorrecto. Este apela a los sentimientos, no a la razón matemática. -->
 - [ ] D) Argumento de ejemplificación. <!-- feedback: Incorrecto. Este usa casos concretos, no necesariamente estadísticas globales. -->
 
 ### Explicacion Pedagogica
@@ -54,8 +54,8 @@ Los datos y estadísticas son muy valorados en la argumentación científica y p
 
 ### Opciones
 - [ ] A) Según el censo, el 40% de la población vive en zonas rurales. <!-- feedback: Incorrecto. Es un argumento de datos. -->
-- [x] B) Al igual que un edificio necesita cimientos fuertes, un estudiante requiere bases sólidas de lectura. <!-- feedback: ¡Correcto! Compara la estructura de un edificio con la formación de un estudiante para explicar una idea. -->
-- [ ] C) El médico me recomendó hacer ejercicio tres veces por semana. <!-- feedback: Incorrecto. Es un argumento de autoridad (médico). -->
+- [x] C) Al igual que un edificio necesita cimientos fuertes, un estudiante requiere bases sólidas de lectura. <!-- feedback: ¡Correcto! Compara la estructura de un edificio con la formación de un estudiante para explicar una idea. -->
+- [ ] B) El médico me recomendó hacer ejercicio tres veces por semana. <!-- feedback: Incorrecto. Es un argumento de autoridad (médico). -->
 - [ ] D) El año pasado llovió mucho más que este año en la región Andina. <!-- feedback: Incorrecto. Es una comparación directa de hechos, no una analogía sobre conceptos diferentes. -->
 
 ### Explicacion Pedagogica
@@ -75,8 +75,8 @@ La analogía ayuda a comprender conceptos abstractos o complejos comparándolos 
 
 ### Opciones
 - [ ] A) Argumento de autoridad. <!-- feedback: Incorrecto. No cita a ningún experto o institución. -->
-- [x] B) Argumento de causa-efecto. <!-- feedback: ¡Correcto! Establece una relación donde la falta de protección (causa) produce la sequía (efecto). -->
-- [ ] C) Argumento de ejemplificación. <!-- feedback: Incorrecto. No menciona un caso concreto ocurrido, sino una posibilidad lógica. -->
+- [x] C) Argumento de causa-efecto. <!-- feedback: ¡Correcto! Establece una relación donde la falta de protección (causa) produce la sequía (efecto). -->
+- [ ] B) Argumento de ejemplificación. <!-- feedback: Incorrecto. No menciona un caso concreto ocurrido, sino una posibilidad lógica. -->
 - [ ] D) Argumento de datos estadísticos. <!-- feedback: Incorrecto. No ofrece cifras ni porcentajes. -->
 
 ### Explicacion Pedagogica
@@ -95,8 +95,8 @@ Este tipo de argumento es muy común para realizar advertencias o proponer soluc
 
 ### Opciones
 - [ ] A) En un informe técnico sobre la resistencia del concreto. <!-- feedback: Incorrecto. Los informes técnicos deben ser objetivos y basarse en datos. -->
-- [x] B) En una campaña publicitaria para adoptar perros de la calle. <!-- feedback: ¡Correcto! Se busca tocar los sentimientos de las personas para que sientan compasión y actúen. -->
-- [ ] C) En un libro de texto de matemáticas sobre geometría. <!-- feedback: Incorrecto. Las matemáticas se basan en la lógica pura, no en las emociones. -->
+- [x] C) En una campaña publicitaria para adoptar perros de la calle. <!-- feedback: ¡Correcto! Se busca tocar los sentimientos de las personas para que sientan compasión y actúen. -->
+- [ ] B) En un libro de texto de matemáticas sobre geometría. <!-- feedback: Incorrecto. Las matemáticas se basan en la lógica pura, no en las emociones. -->
 - [ ] D) En un contrato de arrendamiento de un local comercial. <!-- feedback: Incorrecto. Los contratos son documentos legales y fríos basados en normas. -->
 
 ### Explicacion Pedagogica
@@ -114,8 +114,8 @@ Aunque son menos rigurosos que los lógicos, los argumentos afectivos son muy po
 ¿Cuál de las siguientes es una idea basada en el **sentido común** o conocimiento general que sirve como argumento?
 
 ### Opciones
-- [ ] A) La relatividad del tiempo fue propuesta por Albert Einstein en 1905. <!-- feedback: Incorrecto. Es un dato histórico y científico específico de autoridad. -->
-- [x] B) Dos cabezas piensan mejor que una cuando se trata de resolver un problema difícil. <!-- feedback: ¡Correcto! Es un principio aceptado popularmente sobre la importancia del trabajo en equipo. -->
+- [ ] B) La relatividad del tiempo fue propuesta por Albert Einstein en 1905. <!-- feedback: Incorrecto. Es un dato histórico y científico específico de autoridad. -->
+- [x] A) Dos cabezas piensan mejor que una cuando se trata de resolver un problema difícil. <!-- feedback: ¡Correcto! Es un principio aceptado popularmente sobre la importancia del trabajo en equipo. -->
 - [ ] C) El 70% de la superficie de la Tierra está cubierta por agua. <!-- feedback: Incorrecto. Es un dato estadístico/científico. -->
 - [ ] D) El presupuesto nacional para educación aumentó un 5% este año. <!-- feedback: Incorrecto. Es una cifra específica de un informe económico. -->
 
@@ -154,9 +154,9 @@ La generalización debe hacerse con cuidado; si se basa en muy pocos casos, pued
 ¿En cuál de los siguientes casos el **argumento de autoridad** es **inapropiado**?
 
 ### Opciones
-- [ ] A) Un biólogo explicando los efectos del cambio climático en los corales. <!-- feedback: Incorrecto. Es un experto hablando de su área de estudio. -->
-- [ ] B) Un economista analizando las causas de la inflación en Colombia. <!-- feedback: Incorrecto. Es un profesional hablando de su especialidad. -->
-- [x] C) Un famoso actor de cine recomendando un medicamento para una enfermedad grave. <!-- feedback: ¡Correcto! Ser famoso no te hace experto en medicina; su autoridad no es válida en este campo. -->
+- [ ] B) Un biólogo explicando los efectos del cambio climático en los corales. <!-- feedback: Incorrecto. Es un experto hablando de su área de estudio. -->
+- [ ] C) Un economista analizando las causas de la inflación en Colombia. <!-- feedback: Incorrecto. Es un profesional hablando de su especialidad. -->
+- [x] A) Un famoso actor de cine recomendando un medicamento para una enfermedad grave. <!-- feedback: ¡Correcto! Ser famoso no te hace experto en medicina; su autoridad no es válida en este campo. -->
 - [ ] D) La Corte Constitucional interpretando el significado de un artículo de la ley. <!-- feedback: Incorrecto. Es la máxima autoridad en interpretación de leyes. -->
 
 ### Explicacion Pedagogica
@@ -175,9 +175,9 @@ En un foro sobre transporte público, un ciudadano dice: "Yo uso el Transmilenio
 
 ### Opciones
 - [ ] A) Es un argumento científico irrefutable porque pasaron diez años. <!-- feedback: Incorrecto. No es científico, es subjetivo y basado en una sola persona. -->
-- [x] B) Es un argumento de experiencia personal que aporta un testimonio real, aunque no representa a toda la población. <!-- feedback: ¡Correcto! Da veracidad desde la vivencia, pero requiere ser apoyado por otros datos para ser generalizable. -->
-- [ ] C) No tiene ningún valor porque el ciudadano no es ingeniero de transportes. <!-- feedback: Incorrecto. La experiencia del usuario es valiosa en el análisis de servicios públicos. -->
-- [ ] D) Es una falacia de generalización porque a él le fue mal hoy. <!-- feedback: Incorrecto. No habla de un solo día, sino de una trayectoria de diez años. -->
+- [x] D) Es un argumento de experiencia personal que aporta un testimonio real, aunque no representa a toda la población. <!-- feedback: ¡Correcto! Da veracidad desde la vivencia, pero requiere ser apoyado por otros datos para ser generalizable. -->
+- [ ] B) No tiene ningún valor porque el ciudadano no es ingeniero de transportes. <!-- feedback: Incorrecto. La experiencia del usuario es valiosa en el análisis de servicios públicos. -->
+- [ ] C) Es una falacia de generalización porque a él le fue mal hoy. <!-- feedback: Incorrecto. No habla de un solo día, sino de una trayectoria de diez años. -->
 
 ### Explicacion Pedagogica
 La experiencia personal humaniza el texto y da cercanía, pero en un ensayo académico debe usarse con moderación y preferiblemente junto a datos objetivos.
@@ -197,9 +197,9 @@ Lee el siguiente fragmento: "El 80% de los jóvenes prefiere las redes sociales 
 
 ### Opciones
 - [ ] A) Causa-efecto, Autoridad, Analogía, Datos. <!-- feedback: Incorrecto. El orden de las frases no coincide con esta secuencia. -->
-- [x] B) Datos estadísticos, Autoridad, Causa-efecto, Analogía. <!-- feedback: ¡Correcto! 80% (Datos), Castells (Autoridad), "Si no integran... se quedarán" (Causa-efecto), "Tal como ocurrió..." (Analogía). -->
-- [ ] C) Analogía, Datos, Causa-efecto, Autoridad. <!-- feedback: Incorrecto. El texto empieza con un dato estadístico, no con una analogía. -->
-- [ ] D) Autoridad, Causa-efecto, Datos, Sentido común. <!-- feedback: Incorrecto. Los datos aparecen al principio y no hay argumentos de sentido común claros. -->
+- [x] D) Datos estadísticos, Autoridad, Causa-efecto, Analogía. <!-- feedback: ¡Correcto! 80% (Datos), Castells (Autoridad), "Si no integran... se quedarán" (Causa-efecto), "Tal como ocurrió..." (Analogía). -->
+- [ ] B) Analogía, Datos, Causa-efecto, Autoridad. <!-- feedback: Incorrecto. El texto empieza con un dato estadístico, no con una analogía. -->
+- [ ] C) Autoridad, Causa-efecto, Datos, Sentido común. <!-- feedback: Incorrecto. Los datos aparecen al principio y no hay argumentos de sentido común claros. -->
 
 ### Explicacion Pedagogica
 La combinación de diferentes tipos de argumentos hace que un texto sea mucho más persuasivo y difícil de rebatir, ya que apela tanto a la razón como a los hechos y al prestigio de expertos.
@@ -217,8 +217,8 @@ Analiza el siguiente argumento: "Debes comprar esta marca de celular porque es l
 
 ### Opciones
 - [ ] A) Argumento de autoridad científica. <!-- feedback: Incorrecto. El volumen de ventas no es autoridad científica. -->
-- [ ] B) Argumento de causa-efecto bien fundamentado. <!-- feedback: Incorrecto. Que algo se venda mucho no es la causa de que sea el mejor en calidad (puede ser solo moda o precio). -->
-- [x] C) Argumento ad populum (apelar a la mayoría). <!-- feedback: ¡Correcto! Se asume que algo es bueno o verdadero solo porque mucha gente lo cree o lo compra, lo cual es una falla lógica común. -->
+- [ ] C) Argumento de causa-efecto bien fundamentado. <!-- feedback: Incorrecto. Que algo se venda mucho no es la causa de que sea el mejor en calidad (puede ser solo moda o precio). -->
+- [x] B) Argumento ad populum (apelar a la mayoría). <!-- feedback: ¡Correcto! Se asume que algo es bueno o verdadero solo porque mucha gente lo cree o lo compra, lo cual es una falla lógica común. -->
 - [ ] D) Argumento de experiencia personal del vendedor. <!-- feedback: Incorrecto. No habla de la vivencia del vendedor, sino del comportamiento de la masa. -->
 
 ### Explicacion Pedagogica

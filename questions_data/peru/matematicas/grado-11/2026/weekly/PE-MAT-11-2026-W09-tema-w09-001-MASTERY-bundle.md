@@ -30,13 +30,13 @@ creador: "Jules-Agent"
 Si la suma de dos ángulos complementarios en un plano de construcción es de $90^\circ$ y uno de ellos mide $30^\circ$, ¿cuánto mide el otro ángulo?
 
 ### Opciones
-- [x] A) $60^\circ$
+- [x] D) $60^\circ$
   <!-- feedback: Correcto. Restando el ángulo conocido de 90 grados para hallar su complemento. -->
-- [ ] B) $150^\circ$
+- [ ] A) $150^\circ$
   <!-- feedback: Incorrecto. Este cálculo correspondería al suplemento del ángulo. -->
-- [ ] C) $70^\circ$
+- [ ] B) $70^\circ$
   <!-- feedback: Incorrecto. Error aritmético en la sustracción. -->
-- [ ] D) $50^\circ$
+- [ ] C) $50^\circ$
   <!-- feedback: Incorrecto. Error de cálculo en el despeje. -->
 
 ### Explicacion Pedagogica
@@ -55,13 +55,13 @@ Dos ángulos son complementarios si su suma es exactamente $90^\circ$. Por lo ta
 ¿Cuál es la suma de los ángulos internos de cualquier triángulo plano en geometría euclidiana?
 
 ### Opciones
-- [x] A) $180^\circ$
+- [x] D) $180^\circ$
   <!-- feedback: Correcto. La suma de los ángulos interiores de cualquier triángulo es siempre $180^\circ$. -->
-- [ ] B) $90^\circ$
+- [ ] A) $90^\circ$
   <!-- feedback: Incorrecto. Dos ángulos rectos ya suman 180 grados, ningún triángulo tiene suma 90. -->
-- [ ] C) $360^\circ$
+- [ ] B) $360^\circ$
   <!-- feedback: Incorrecto. 360 grados es la suma de los ángulos internos de un cuadrilátero. -->
-- [ ] D) $270^\circ$
+- [ ] C) $270^\circ$
   <!-- feedback: Incorrecto. Valor que contradice el teorema de la geometría plana euclidiana. -->
 
 ### Explicacion Pedagogica
@@ -155,11 +155,11 @@ El área de un sector circular es $A = \frac{\theta}{360^\circ} \pi r^2$. Con $\
 Un trapecio tiene bases de longitud $10$ m and $6$ m, con una altura de $6$ m. Determine la superficie del trapecio en metros cuadrados.
 
 ### Opciones
-- [x] A) $48.0$
+- [x] C) $48.0$
   <!-- feedback: Correcto. Calculando la semisuma de las bases multiplicada por la altura. -->
-- [ ] B) $58.0$
+- [ ] A) $58.0$
   <!-- feedback: Incorrecto. Error al sumar las longitudes de las bases. -->
-- [ ] C) $43.0$
+- [ ] B) $43.0$
   <!-- feedback: Incorrecto. Error de cálculo en la multiplicación de los factores del trapecio. -->
 - [ ] D) $60$
   <!-- feedback: Incorrecto. Se calculó como si fuera un rectángulo con una sola base. -->
@@ -180,9 +180,9 @@ La superficie de un trapecio es $S = \frac{B + b}{2} \cdot h$. Sustituyendo los 
 Determine el perímetro en metros de un paralelogramo cuyos lados adyacentes miden $6$ m y $12$ m.
 
 ### Opciones
-- [x] A) $36$ m
+- [x] B) $36$ m
   <!-- feedback: Correcto. El perímetro de un paralelogramo es la suma de sus cuatro lados, es decir, dos veces la suma de sus lados adyacentes. -->
-- [ ] B) $18.0$ m
+- [ ] A) $18.0$ m
   <!-- feedback: Incorrecto. Solo se sumó la longitud de dos lados adyacentes. -->
 - [ ] C) $40$ m
   <!-- feedback: Incorrecto. Error de suma de los términos adyacentes. -->
@@ -205,11 +205,11 @@ El perímetro se calcula sumando el duplo de la longitud de cada uno de sus lado
 Si un polígono convexo regular tiene $8$ lados, determine la suma de sus ángulos internos en grados sexagesimales.
 
 ### Opciones
-- [x] A) $1080^\circ$
+- [x] C) $1080^\circ$
   <!-- feedback: Correcto. La suma de los ángulos interiores de un polígono de n lados cumple la relación estándar. -->
-- [ ] B) $1260^\circ$
+- [ ] A) $1260^\circ$
   <!-- feedback: Incorrecto. Se sumó un factor de lado adicional en la fórmula. -->
-- [ ] C) $900^\circ$
+- [ ] B) $900^\circ$
   <!-- feedback: Incorrecto. Se restó un factor de lado de la expresión de polígonos regulares. -->
 - [ ] D) $1440^\circ$
   <!-- feedback: Incorrecto. No se aplicó el descuento de los dos lados iniciales. -->
@@ -230,13 +230,13 @@ La fórmula para la suma de ángulos internos es $S = (n - 2) \cdot 180^\circ$. 
 Si un poste vertical de $6$ metros de altura proyecta una sombra de $8$ metros en el suelo, ¿cuál es la longitud en metros de la sombra que proyectará en ese mismo instante un edificio cercano de $18$ metros de altura?
 
 ### Opciones
-- [x] A) $24$ metros
+- [x] D) $24$ metros
   <!-- feedback: Correcto. Por semejanza de triángulos, la relación altura/sombra se mantiene constante. -->
-- [ ] B) $29$ metros
+- [ ] A) $29$ metros
   <!-- feedback: Incorrecto. Proporcionalidad incorrecta. -->
-- [ ] C) $19$ metros
+- [ ] B) $19$ metros
   <!-- feedback: Incorrecto. Error al aplicar la razón de semejanza entre los cuerpos. -->
-- [ ] D) $18$ metros
+- [ ] C) $18$ metros
   <!-- feedback: Incorrecto. Se confundió la longitud de la sombra con la altura del edificio. -->
 
 ### Explicacion Pedagogica
@@ -280,9 +280,9 @@ Multiplicamos la medida del plano por el factor de escala: $40 \text{ cm} \times
 Dos segmentos de recta $AB$ y $CD$ son paralelos. Una secante cruza a ambos de manera que un ángulo alterno interno mide $60^\circ$. ¿Cuánto mide su correspondiente ángulo conjugado interno en grados?
 
 ### Opciones
-- [x] A) $120^\circ$
+- [x] B) $120^\circ$
   <!-- feedback: Correcto. Los ángulos conjugados internos entre paralelas son suplementarios, por lo que su suma es 180 grados. -->
-- [ ] B) $60^\circ$
+- [ ] A) $60^\circ$
   <!-- feedback: Incorrecto. Ese valor correspondería al ángulo alterno interno o correspondiente. -->
 - [ ] C) $30^\circ$
   <!-- feedback: Incorrecto. Se calculó como si fueran complementarios en lugar de suplementarios. -->
@@ -305,11 +305,11 @@ Los ángulos conjugados internos formados por rectas paralelas cortadas por una 
 Un triángulo semejante a otro tiene sus lados multiplicados por un factor de escala $k = 2$. ¿Por qué factor se multiplicará el área del nuevo triángulo?
 
 ### Opciones
-- [x] A) $4$
+- [x] C) $4$
   <!-- feedback: Correcto. La razón de las áreas de dos figuras semejantes es igual al cuadrado de la razón de semejanza, es decir, 4. -->
-- [ ] B) $2$
+- [ ] A) $2$
   <!-- feedback: Incorrecto. La razón de las áreas no es lineal respecto al factor de escala de los lados. -->
-- [ ] C) $7.0$
+- [ ] B) $7.0$
   <!-- feedback: Incorrecto. No se multiplica por el doble del factor de escala. -->
 - [ ] D) $8$
   <!-- feedback: Incorrecto. Este factor de escala cúbico correspondería al volumen de sólidos tridimensionales semejantes. -->
@@ -355,13 +355,13 @@ Al trazar la perpendicular desde el centro, esta corta a la cuerda en su punto m
 Un rombo tiene diagonales que miden $24$ m y $32$ m. Determine la longitud del lado del rombo en metros.
 
 ### Opciones
-- [x] A) $20$ m
+- [x] D) $20$ m
   <!-- feedback: Correcto. Las diagonales se cruzan perpendicularmente en sus puntos medios, formándose un triángulo rectángulo de catetos 3a y 4a, dando un lado de 5a. -->
-- [ ] B) $24$ m
+- [ ] A) $24$ m
   <!-- feedback: Incorrecto. Una dimensión del lado no puede ser igual a una de las diagonales en este caso. -->
-- [ ] C) $32$ m
+- [ ] B) $32$ m
   <!-- feedback: Incorrecto. Excede la longitud teórica permitida para el lado. -->
-- [ ] D) $28$ m
+- [ ] C) $28$ m
   <!-- feedback: Incorrecto. Error de cálculo en la hipotenusa. -->
 
 ### Explicacion Pedagogica
@@ -380,13 +380,13 @@ Las diagonales de un rombo se cortan perpendicularmente en sus puntos medios, di
 Resuelva para la longitud $x$ en el teorema de Tales sabiendo que dos paralelas cortan a dos secantes determinando segmentos de longitud $3$ cm y $5$ cm en una, y $2$ cm y $x$ cm en la otra secante respectiva.
 
 ### Opciones
-- [x] A) $3.33$ cm
+- [x] D) $3.33$ cm
   <!-- feedback: Correcto. Planteamos la proporción de Tales: 3/5 = a/x y despejamos x. -->
-- [ ] B) $4.33$ cm
+- [ ] A) $4.33$ cm
   <!-- feedback: Incorrecto. Error al plantear la igualdad de las fracciones. -->
-- [ ] C) $2.33$ cm
+- [ ] B) $2.33$ cm
   <!-- feedback: Incorrecto. Error de cálculo aritmético. -->
-- [ ] D) $1.20$ cm
+- [ ] C) $1.20$ cm
   <!-- feedback: Incorrecto. Se invirtió la relación de proporcionalidad. -->
 
 ### Explicacion Pedagogica
@@ -405,13 +405,13 @@ Por el teorema de Tales de Mileto, los segmentos correspondientes son proporcion
 Halle la distancia entre dos puntos $P_1(1, 2)$ y $P_2(10, 14)$ en el plano cartesiano $R^2$.
 
 ### Opciones
-- [x] A) $15$ unidades
+- [x] D) $15$ unidades
   <!-- feedback: Correcto. Calculamos la raíz de la suma de diferencias de coordenadas al cuadrado. -->
-- [ ] B) $21$ unidades
+- [ ] A) $21$ unidades
   <!-- feedback: Incorrecto. Se sumaron directamente las diferencias de coordenadas de los ejes. -->
-- [ ] C) $17$ unidades
+- [ ] B) $17$ unidades
   <!-- feedback: Incorrecto. Error al evaluar los cuadrados parciales. -->
-- [ ] D) $14$ unidades
+- [ ] C) $14$ unidades
   <!-- feedback: Incorrecto. Error de cálculo de la distancia. -->
 
 ### Explicacion Pedagogica
@@ -455,13 +455,13 @@ La hipotenusa mide 7.21 m. Por relaciones métricas en el triángulo rectángulo
 Halle las coordenadas del punto medio del segmento de recta cuyos extremos son $A(2, 3)$ y $B(6, 15)$.
 
 ### Opciones
-- [x] A) $(4.0, 9.0)$
+- [x] D) $(4.0, 9.0)$
   <!-- feedback: Correcto. Las coordenadas del punto medio son la semisuma de las coordenadas de los extremos. -->
-- [ ] B) $(5.0, 9.0)$
+- [ ] A) $(5.0, 9.0)$
   <!-- feedback: Incorrecto. Error de cálculo en la semisuma del eje horizontal. -->
-- [ ] C) $(4.0, 8.0)$
+- [ ] B) $(4.0, 8.0)$
   <!-- feedback: Incorrecto. Error de cálculo en el promedio del eje vertical. -->
-- [ ] D) $(6, 15)$
+- [ ] C) $(6, 15)$
   <!-- feedback: Incorrecto. Corresponde al punto extremo B, no al punto medio. -->
 
 ### Explicacion Pedagogica
@@ -480,13 +480,13 @@ El punto medio es (4.0, 9.0) por promedio directo de las coordenadas de los extr
 Un triángulo tiene lados que miden $9$ m, $12$ m y $15$ m. Determine el radio de la circunferencia inscrita en dicho triángulo (inradio).
 
 ### Opciones
-- [x] A) $3$ m
+- [x] D) $3$ m
   <!-- feedback: Correcto. Por el teorema de Poncelet para triángulos rectángulos, la suma de los catetos es igual a la hipotenusa más dos veces el inradio. -->
-- [ ] B) $4$ m
+- [ ] A) $4$ m
   <!-- feedback: Incorrecto. Error al aplicar la relación de Poncelet. -->
-- [ ] C) $6$ m
+- [ ] B) $6$ m
   <!-- feedback: Incorrecto. Este valor corresponde al diámetro del inradio, no al inradio. -->
-- [ ] D) $1.5$ m
+- [ ] C) $1.5$ m
   <!-- feedback: Incorrecto. Subestimación por mala división de la constante. -->
 
 ### Explicacion Pedagogica
@@ -505,9 +505,9 @@ El triángulo de lados es rectángulo. Por el Teorema de Poncelet el inradio mid
 Si un triángulo equilátero tiene un lado que mide $8$ m, calcule la longitud de su altura en metros.
 
 ### Opciones
-- [x] A) $4\sqrt{3}$ m
+- [x] B) $4\sqrt{3}$ m
   <!-- feedback: Correcto. La altura de un triángulo equilátero de lado L es la mitad del lado por la raíz de 3, dando el valor exacto. -->
-- [ ] B) $4$ m
+- [ ] A) $4$ m
   <!-- feedback: Incorrecto. Corresponde a la mitad del lado, no a la altura vertical. -->
 - [ ] C) $8\sqrt{3}$ m
   <!-- feedback: Incorrecto. Error al duplicar el factor de proporcionalidad geométrico. -->

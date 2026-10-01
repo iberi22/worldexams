@@ -33,13 +33,13 @@ creador: "Jules-Agent"
 ¿Cuál es la principal fuente de energía renovable que posee el Paraguay y que le permite ser uno de los mayores exportadores de electricidad limpia del mundo?
 
 ### Opciones
-- [x] A) La energía hidroeléctrica
+- [x] D) La energía hidroeléctrica
   <!-- feedback: Correcto. Paraguay aprovecha el gran caudal de sus ríos fronterizos (especialmente el Paraná) para generar abundante energía hidroeléctrica limpia. -->
-- [ ] B) La energía geotérmica
+- [ ] A) La energía geotérmica
   <!-- feedback: Incorrecto. Paraguay no posee actividad volcánica o tectónica que le permita generar energía geotérmica comercial. -->
-- [ ] C) La energía nuclear
+- [ ] B) La energía nuclear
   <!-- feedback: Incorrecto. Paraguay no cuenta con centrales nucleares de generación de electricidad en su territorio. -->
-- [ ] D) La energía mareomotriz
+- [ ] C) La energía mareomotriz
   <!-- feedback: Incorrecto. Al ser Paraguay un país mediterráneo sin costas oceánicas, la energía mareomotriz es inviable. -->
 
 ### Explicacion Pedagogica
@@ -56,13 +56,13 @@ La principal fuente de energía limpia del Paraguay es la hidroeléctrica, produ
 ¿Cuál es el parque nacional más extenso del Paraguay, ubicado en el norte del departamento de Alto Paraguay, que resguarda el ecosistema del Chaco Seco?
 
 ### Opciones
-- [x] A) El Parque Nacional Defensores del Chaco
+- [x] D) El Parque Nacional Defensores del Chaco
   <!-- feedback: Correcto. Con más de 720.000 hectáreas, el Parque Nacional Defensores del Chaco es el área silvestre protegida más grande del país. -->
-- [ ] B) El Parque Nacional Ybycuí
+- [ ] A) El Parque Nacional Ybycuí
   <!-- feedback: Incorrecto. El Parque Nacional Ybycuí es famoso por sus saltos de agua y se sitúa en la Región Oriental, no en el Chaco Seco. -->
-- [ ] C) El Parque Nacional Ñacunday
+- [ ] B) El Parque Nacional Ñacunday
   <!-- feedback: Incorrecto. El Parque Nacional Ñacunday protege saltos de agua y bosques en la Región Oriental del país (Alto Paraná). -->
-- [ ] D) El Parque Nacional Cerro Corá
+- [ ] C) El Parque Nacional Cerro Corá
   <!-- feedback: Incorrecto. Cerro Corá está en el departamento de Amambay y resguarda un importante patrimonio histórico y natural oriental. -->
 
 ### Explicacion Pedagogica
@@ -79,13 +79,13 @@ El Parque Nacional Defensores del Chaco protege el Chaco Seco y alberga al cerro
 ¿Qué ecosistema del Paraguay, considerado uno de los más amenazados a nivel mundial, ha perdido más del 90% de su cobertura forestal original en la Región Oriental?
 
 ### Opciones
-- [x] A) El Bosque Atlántico del Alto Paraná
+- [x] D) El Bosque Atlántico del Alto Paraná
   <!-- feedback: Correcto. El Bosque Atlántico del Alto Paraná (BAAPA) ha sufrido una deforestación masiva por la expansión de la agricultura de exportación y la ganadería. -->
-- [ ] B) La estepa fría de la Patagonia paraguaya
+- [ ] A) La estepa fría de la Patagonia paraguaya
   <!-- feedback: Incorrecto. La Patagonia se encuentra en el sur del continente (Argentina y Chile); Paraguay no posee estepas frías de ese tipo. -->
-- [ ] C) El manglar costero del océano Atlántico
+- [ ] B) El manglar costero del océano Atlántico
   <!-- feedback: Incorrecto. Al ser un país mediterráneo, Paraguay carece de manglares costeros oceánicos de clima marino. -->
-- [ ] D) La selva valdiviana lluviosa de montaña
+- [ ] C) La selva valdiviana lluviosa de montaña
   <!-- feedback: Incorrecto. La selva valdiviana es templada lluviosa y se sitúa en la vertiente occidental de los Andes del sur, ajena al territorio paraguayo. -->
 
 ### Explicacion Pedagogica
@@ -102,13 +102,13 @@ El Bosque Atlántico del Alto Paraná (BAAPA) es un hotspot de biodiversidad sum
 ¿En qué consiste el principio fundamental de la ley conocida como 'Deforestación Cero' en la Región Oriental del Paraguay?
 
 ### Opciones
-- [x] A) En prohibir la conversión de bosques nativos en tierras destinadas a la agricultura o ganadería en la Región Oriental
+- [x] D) En prohibir la conversión de bosques nativos en tierras destinadas a la agricultura o ganadería en la Región Oriental
   <!-- feedback: Correcto. La Ley de Deforestación Cero busca frenar la pérdida de los últimos remanentes de bosques nativos en la Región Oriental del país. -->
-- [ ] B) En obligar a la clausura inmediata de todas las centrales hidroeléctricas del río Paraná
+- [ ] A) En obligar a la clausura inmediata de todas las centrales hidroeléctricas del río Paraná
   <!-- feedback: Incorrecto. La ley regula el uso de los recursos forestales terrestres, no la generación de energía limpia en las centrales fluviales. -->
-- [ ] C) En prohibir el consumo y comercialización de agua potable en los departamentos del sur
+- [ ] B) En prohibir el consumo y comercialización de agua potable en los departamentos del sur
   <!-- feedback: Incorrecto. El agua potable no es objeto de prohibición; la ley regula exclusivamente la deforestación de bosques nativos. -->
-- [ ] D) En prohibir de forma absoluta el uso de cualquier herramienta metálica en las huertas escolares
+- [ ] C) En prohibir de forma absoluta el uso de cualquier herramienta metálica en las huertas escolares
   <!-- feedback: Incorrecto. No tiene ninguna relación con las herramientas de las huertas, centrándose exclusivamente en preservar los bosques nativos de la tala masiva. -->
 
 ### Explicacion Pedagogica
@@ -125,11 +125,11 @@ La Ley N° 2524/04 'De prohibición en la Región Oriental de las actividades de
 ¿De qué manera la deforestación masiva de la Región Oriental altera el régimen hidrológico local?
 
 ### Opciones
-- [x] A) Disminuye la infiltración de agua en el suelo, aumentando la escorrentía superficial y provocando inundaciones severas seguidas de sequías
+- [x] C) Disminuye la infiltración de agua en el suelo, aumentando la escorrentía superficial y provocando inundaciones severas seguidas de sequías
   <!-- feedback: Correcto. Al removerse la cobertura boscosa, los suelos pierden la capacidad de retener el agua de lluvia, incrementando la escorrentía rápida y la erosión. -->
-- [ ] B) Provoca que los ríos fluyan hacia el norte cruzando el altiplano andino
+- [ ] A) Provoca que los ríos fluyan hacia el norte cruzando el altiplano andino
   <!-- feedback: Incorrecto. La deforestación no altera el relieve montañoso continental ni cambia el sentido físico de los cauces de agua. -->
-- [ ] C) Genera el congelamiento de las aguas del lago Ypacaraí en los meses de verano
+- [ ] B) Genera el congelamiento de las aguas del lago Ypacaraí en los meses de verano
   <!-- feedback: Incorrecto. La pérdida de bosques no produce congelamientos glaciales en un ecosistema de clima subtropical. -->
 - [ ] D) Incrementa de forma absoluta las nevadas invernales en los departamentos de Itapúa y Misiones
   <!-- feedback: Incorrecto. Paraguay posee un clima subtropical y la deforestación no provoca nevadas de tipo polar o ártico. -->
@@ -148,11 +148,11 @@ Los bosques actúan como esponjas naturales que regulan el flujo de agua dulce. 
 ¿Por qué la contaminación de ríos y arroyos con agroquímicos de uso agrícola extensivo representa una grave problemática ambiental en Paraguay?
 
 ### Opciones
-- [x] A) Porque altera gravemente los ecosistemas acuáticos, afecta la salud de las poblaciones rurales e incrementa el costo de potabilización del agua dulce
+- [x] C) Porque altera gravemente los ecosistemas acuáticos, afecta la salud de las poblaciones rurales e incrementa el costo de potabilización del agua dulce
   <!-- feedback: Correcto. El arrastre de pesticidas y fertilizantes por las lluvias contamina los cauces superficiales de los que dependen comunidades humanas y fauna acuática. -->
-- [ ] B) Porque transforma el agua dulce de los ríos en petróleo pesado apto para combustible directo
+- [ ] A) Porque transforma el agua dulce de los ríos en petróleo pesado apto para combustible directo
   <!-- feedback: Incorrecto. Los agroquímicos dañan y contaminan el agua dulce; de ninguna manera la transforman de forma mágica en petróleo. -->
-- [ ] C) Porque provoca la desaparición inmediata de todas las dunas de arena del Chaco paraguayo
+- [ ] B) Porque provoca la desaparición inmediata de todas las dunas de arena del Chaco paraguayo
   <!-- feedback: Incorrecto. La contaminación hídrica no influye en las dunas de arena geológicas del Chaco Seco de manera física. -->
 - [ ] D) Porque congela de forma permanente los puertos pesqueros fluviales sobre el río Paraná
   <!-- feedback: Incorrecto. No se producen congelamientos a causa de la contaminación química agrícola en climas cálidos subtropicales. -->
@@ -171,13 +171,13 @@ El uso inadecuado de agroquímicos genera la contaminación de arroyos y napas f
 ¿Cuál de las siguientes problemáticas ambientales está directamente vinculada al crecimiento urbano desordenado de la Gran Asunción?
 
 ### Opciones
-- [x] A) La alarmante contaminación del lago Ypacaraí por efluentes cloacales sin tratamiento e industriales no controlados
+- [x] D) La alarmante contaminación del lago Ypacaraí por efluentes cloacales sin tratamiento e industriales no controlados
   <!-- feedback: Correcto. El lago Ypacaraí sufre crisis periódicas de proliferación de cianobacterias por la falta de saneamiento básico de las ciudades vecinas de su cuenca. -->
-- [ ] B) La erupción ininterrumpida de volcanes de lodo hirviente cerca de la basílica mariana de Caacupé
+- [ ] A) La erupción ininterrumpida de volcanes de lodo hirviente cerca de la basílica mariana de Caacupé
   <!-- feedback: Incorrecto. Paraguay no posee actividad volcánica o tectónica activa que genere erupciones de lodo o magma. -->
-- [ ] C) La invasión de glaciares móviles que destruyen los caminos viales del departamento Central
+- [ ] B) La invasión de glaciares móviles que destruyen los caminos viales del departamento Central
   <!-- feedback: Incorrecto. Al poseer un clima cálido subtropical, no existen glaciares terrestres móviles en el Paraguay. -->
-- [ ] D) La desaparición absoluta del oxígeno atmosférico en la bahía de Asunción por el viento norte
+- [ ] C) La desaparición absoluta del oxígeno atmosférico en la bahía de Asunción por el viento norte
   <!-- feedback: Incorrecto. El viento norte es un fenómeno meteorológico común que aporta aire cálido, no provoca la pérdida de oxígeno atmosférico. -->
 
 ### Explicacion Pedagogica
@@ -194,13 +194,13 @@ El lago Ypacaraí es un símbolo nacional que experimenta un grave proceso de eu
 La erosión del suelo en las fincas de la agricultura familiar paraguaya suele agravarse principalmente por:
 
 ### Opciones
-- [x] A) El laboreo excesivo o arado constante del suelo desnudo expuesto a las lluvias copiosas y la falta de curvas de nivel en terrenos ondulados
+- [x] D) El laboreo excesivo o arado constante del suelo desnudo expuesto a las lluvias copiosas y la falta de curvas de nivel en terrenos ondulados
   <!-- feedback: Correcto. La remoción constante y la falta de prácticas de conservación facilitan el arrastre de la capa fértil superficial por la lluvia torrencial paraguaya. -->
-- [ ] B) La construcción masiva de murallas de piedra andesita alrededor de cada parcela de cultivo
+- [ ] A) La construcción masiva de murallas de piedra andesita alrededor de cada parcela de cultivo
   <!-- feedback: Incorrecto. Los pequeños productores agrícolas no edifican murallas de andesita, y esto no erosionaría el suelo de esa forma destructiva. -->
-- [ ] C) El riego tecnificado exclusivo con agua marina purificada importada del Pacífico chileno
+- [ ] B) El riego tecnificado exclusivo con agua marina purificada importada del Pacífico chileno
   <!-- feedback: Incorrecto. No se importa agua de mar chilena para riego agrario en Paraguay debido a la abundancia local de recursos hídricos dulces fluviales. -->
-- [ ] D) La prohibición gubernamental de sembrar mandioca y maíz para proteger los bosques de eucalipto
+- [ ] C) La prohibición gubernamental de sembrar mandioca y maíz para proteger los bosques de eucalipto
   <!-- feedback: Incorrecto. La mandioca y el maíz son cultivos alimenticios básicos tradicionales y no están prohibidos por el Estado paraguayo. -->
 
 ### Explicacion Pedagogica
@@ -217,11 +217,11 @@ La escorrentía hídrica es el principal agente de erosión en las laderas ondul
 ¿Qué fenómeno climático extremo afecta cíclicamente la producción de carne y leche en las colonias menonitas del Chaco paraguayo?
 
 ### Opciones
-- [x] A) Las severas sequías prolongadas que secan los tajamares y agotan las pasturas de los establecimientos ganaderos
+- [x] C) Las severas sequías prolongadas que secan los tajamares y agotan las pasturas de los establecimientos ganaderos
   <!-- feedback: Correcto. El Chaco experimenta sequías prolongadas periódicas que reducen de forma crítica la disponibilidad de agua superficial en tajamares para el ganado ganadero. -->
-- [ ] B) La llegada de devastadoras nevadas polares que congelan la vegetación xerófila durante el verano
+- [ ] A) La llegada de devastadoras nevadas polares que congelan la vegetación xerófila durante el verano
   <!-- feedback: Incorrecto. Las nevadas polares son inexistentes en el Chaco paraguayo, especialmente durante la calurosa estación de verano. -->
-- [ ] C) La erupción de ceniza volcánica que cubre los campos del departamento de Boquerón
+- [ ] B) La erupción de ceniza volcánica que cubre los campos del departamento de Boquerón
   <!-- feedback: Incorrecto. No hay volcanes activos en Paraguay ni en las zonas adyacentes que expulsen cenizas sobre el suelo chaqueño. -->
 - [ ] D) El aumento incontrolado del nivel del mar que inunda de agua salada los campos de pastoreo
   <!-- feedback: Incorrecto. Paraguay no posee costas marítimas ni puede verse afectado por inundaciones marinas oceánicas directas. -->
@@ -240,9 +240,9 @@ La ganadería chaqueña depende del almacenamiento de agua de lluvia en tajamare
 ¿Cuál es el principal acuerdo de alcance global ratificado por Paraguay orientado a mitigar el cambio climático mediante la reducción de emisiones de gases de efecto invernadero?
 
 ### Opciones
-- [x] A) El Acuerdo de París
+- [x] B) El Acuerdo de París
   <!-- feedback: Correcto. El Acuerdo de París, adoptado en 2015, es el tratado global sobre el cambio climático del cual Paraguay es signatario activo. -->
-- [ ] B) El Tratado de la Triple Alianza de 1865
+- [ ] A) El Tratado de la Triple Alianza de 1865
   <!-- feedback: Incorrecto. El Tratado de la Triple Alianza fue un acuerdo militar histórico de la guerra del siglo XIX, no un acuerdo ambiental moderno. -->
 - [ ] C) La Convención de Ginebra sobre el desarme nuclear
   <!-- feedback: Incorrecto. Las Convenciones de Ginebra regulan el derecho internacional humanitario en conflictos de guerra, no el cambio climático ambiental. -->
@@ -263,11 +263,11 @@ El Acuerdo de París busca mantener el aumento de la temperatura global por deba
 Al analizar la fragmentación de los bosques nativos xerófilos del Chaco paraguayo por la expansión de la frontera ganadera, ¿cuál es la consecuencia más grave para los grandes mamíferos como el yaguareté?
 
 ### Opciones
-- [x] A) La pérdida y fragmentación de sus hábitats naturales, lo que reduce sus áreas de caza, aumenta los conflictos con ganaderos y disminuye la variabilidad genética
+- [x] C) La pérdida y fragmentación de sus hábitats naturales, lo que reduce sus áreas de caza, aumenta los conflictos con ganaderos y disminuye la variabilidad genética
   <!-- feedback: Correcto. El yaguareté (jaguar) requiere extensos territorios continuos para sobrevivir. La fragmentación aísla poblaciones y eleva la caza de control por ataques a ganado. -->
-- [ ] B) La migración masiva e inmediata de los yaguaretés hacia los glaciares polares de la Antártida
+- [ ] A) La migración masiva e inmediata de los yaguaretés hacia los glaciares polares de la Antártida
   <!-- feedback: Incorrecto. Los jaguares son mamíferos adaptados a selvas y bosques cálidos, y no podrían migrar ni sobrevivir en el frío extremo antártico. -->
-- [ ] C) La transformación biológica de los yaguaretés chaqueños en pacíficos animales domésticos herbívoros
+- [ ] B) La transformación biológica de los yaguaretés chaqueños en pacíficos animales domésticos herbívoros
   <!-- feedback: Incorrecto. La fragmentación de bosques destruye su hábitat pero de ninguna manera altera su naturaleza carnívora de cazador depredador tope. -->
 - [ ] D) El aumento inusitado de la temperatura corporal del jaguar que le impide reproducirse en la sombra
   <!-- feedback: Incorrecto. Los jaguares chaqueños están perfectamente adaptados al calor extremo de la región, el problema es la pérdida directa de su bosque nativo. -->
@@ -309,11 +309,11 @@ La paradoja energética del Paraguay estriba en generar abundante electricidad h
 ¿Qué impacto ambiental significativo generó la creación del embalse de la central hidroeléctrica de Yacyretá sobre el curso del río Paraná?
 
 ### Opciones
-- [x] A) La inundación de miles de hectáreas de ecosistemas costeros y humedales, requiriendo el reasentamiento de poblaciones ribereñas y el rescate de fauna silvestre
+- [x] C) La inundación de miles de hectáreas de ecosistemas costeros y humedales, requiriendo el reasentamiento de poblaciones ribereñas y el rescate de fauna silvestre
   <!-- feedback: Correcto. El llenado del inmenso embalse de Yacyretá inundó islas y riberas bajas del Paraná, transformando el paisaje fluvial e impactando a las comunidades y la biodiversidad local. -->
-- [ ] B) La transformación de las aguas dulces del río Paraná en un desierto de arena movediza completamente seco
+- [ ] A) La transformación de las aguas dulces del río Paraná en un desierto de arena movediza completamente seco
   <!-- feedback: Incorrecto. El caudal del Paraná sigue fluyendo con abundancia constante, de ninguna manera se secó para convertirse en dunas de arena. -->
-- [ ] C) La aparición inusitada de icebergs de hielo en las cercanías de la ciudad de Encarnación
+- [ ] B) La aparición inusitada de icebergs de hielo en las cercanías de la ciudad de Encarnación
   <!-- feedback: Incorrecto. El Paraná corre por una región de clima subtropical donde es físicamente imposible la formación o supervivencia de icebergs. -->
 - [ ] D) La salinización radical del río Paraná impidiendo toda navegación comercial fluvial hacia Buenos Aires
   <!-- feedback: Incorrecto. El embalse es de agua dulce permanente y no causa la salinización marina del Paraná, manteniendo la hidrovía navegable abierta. -->
@@ -332,11 +332,11 @@ La construcción de colosales embalses modifica los biomas riparios, inundando h
 Al analizar la desecación y relleno de humedales periféricos a la Gran Asunción para el desarrollo de proyectos inmobiliarios, ¿cuál es el principal riesgo natural para las comunidades urbanas adyacentes?
 
 ### Opciones
-- [x] A) El incremento severo de las inundaciones urbanas durante lluvias intensas, debido a la pérdida de las zonas naturales de amortiguación y absorción hídrica
+- [x] C) El incremento severo de las inundaciones urbanas durante lluvias intensas, debido a la pérdida de las zonas naturales de amortiguación y absorción hídrica
   <!-- feedback: Correcto. Los humedales absorben el excedente de lluvia. Al ser impermeabilizados con asfalto y cemento, el agua escurre libremente inundando los barrios bajos habitados. -->
-- [ ] B) La erupción inminente de volcanes de cenizas ácidas sepultando la bahía de Asunción
+- [ ] A) La erupción inminente de volcanes de cenizas ácidas sepultando la bahía de Asunción
   <!-- feedback: Incorrecto. No existe ninguna vinculación entre la desecación de humedales locales y la generación de erupciones volcánicas inexistentes en el subsuelo. -->
-- [ ] C) La desaparición absoluta de la fuerza de gravedad terrestre en los departamentos del área metropolitana
+- [ ] B) La desaparición absoluta de la fuerza de gravedad terrestre en los departamentos del área metropolitana
   <!-- feedback: Incorrecto. Es un planteamiento físicamente imposible y absurdo que no tiene relación con el manejo de suelos o humedales. -->
 - [ ] D) El congelamiento de las calles del centro histórico de la capital durante la estación veraniega
   <!-- feedback: Incorrecto. El verano asunceno destaca por sus altísimas temperaturas y la desecación de humedales no genera olas de frío glacial. -->
@@ -378,9 +378,9 @@ La degradación del suelo por monocultivo es uno de los mayores desafíos de sos
 ¿Qué riesgo ambiental directo amenaza la sustentabilidad a largo plazo del Acuífero Guaraní en sus zonas de recarga del este y norte del Paraguay?
 
 ### Opciones
-- [x] A) La contaminación por agroquímicos y efluentes urbanos mal gestionados que se filtran a través de los suelos arenosos permeables de las zonas de recarga
+- [x] B) La contaminación por agroquímicos y efluentes urbanos mal gestionados que se filtran a través de los suelos arenosos permeables de las zonas de recarga
   <!-- feedback: Correcto. Las zonas de recarga poseen suelos muy permeables que permiten que el agua de lluvia filtre rápidamente hacia el acuífero, arrastrando contaminantes químicos. -->
-- [ ] B) La evaporación de las reservas subterráneas por la luz solar directa que penetra los túneles basálticos
+- [ ] A) La evaporación de las reservas subterráneas por la luz solar directa que penetra los túneles basálticos
   <!-- feedback: Incorrecto. Las aguas subterráneas profundas están selladas bajo rocas y no reciben radiación solar que pueda evaporarlas. -->
 - [ ] C) La congelación masiva de las aguas del acuífero por las corrientes de aire polar del hemisferio norte
   <!-- feedback: Incorrecto. El acuífero se ubica a gran profundidad con temperaturas estables y cálidas, ajenas a las corrientes atmosféricas superficiales. -->
@@ -401,13 +401,13 @@ El Acuífero Guaraní requiere una protección internacional coordinada, con esp
 Al juzgar los factores que limitan la aplicación efectiva de las leyes ambientales en el Paraguay (como la Ley de Deforestación Cero o la de Evaluación de Impacto Ambiental), ¿cuál de los siguientes diagnósticos posee mayor validez socio-institucional?
 
 ### Opciones
-- [x] A) El limitado presupuesto y cantidad de inspectores fiscales del MADES para controlar vastos territorios, sumado a la laxitud en las sanciones judiciales y presiones del sector agroexportador
+- [x] D) El limitado presupuesto y cantidad de inspectores fiscales del MADES para controlar vastos territorios, sumado a la laxitud en las sanciones judiciales y presiones del sector agroexportador
   <!-- feedback: Correcto. La debilidad institucional y la falta de recursos técnicos y financieros dificultan la fiscalización constante de delitos ambientales en áreas boscosas extensas. -->
-- [ ] B) El hecho de que la constitución paraguaya considere a los delitos ambientales como derechos humanos sagrados no sancionables
+- [ ] A) El hecho de que la constitución paraguaya considere a los delitos ambientales como derechos humanos sagrados no sancionables
   <!-- feedback: Incorrecto. La Constitución de 1992 establece claramente el derecho a un ambiente saludable y obliga al Estado a sancionar judicialmente los delitos ecológicos. -->
-- [ ] C) La falta total de leyes de protección ambiental escritas o promulgadas desde la independencia de 1811
+- [ ] B) La falta total de leyes de protección ambiental escritas o promulgadas desde la independencia de 1811
   <!-- feedback: Incorrecto. Paraguay posee un marco legal ambiental muy completo y moderno, el gran desafío radica en su control institucional y efectiva aplicación real en el campo. -->
-- [ ] D) La prohibición papal de sancionar penalmente a quienes talen bosques para proteger iglesias de madera
+- [ ] C) La prohibición papal de sancionar penalmente a quienes talen bosques para proteger iglesias de madera
   <!-- feedback: Incorrecto. La Iglesia católica promueve activamente el cuidado del medio ambiente y de la creación, sin dictar prohibiciones penales de ese tipo. -->
 
 ### Explicacion Pedagogica
@@ -447,9 +447,9 @@ La ganadería sustentable en el Chaco paraguayo requiere el cumplimiento de las 
 Al evaluar críticamente los impactos ecológicos de la deficiente gestión de residuos sólidos urbanos en el Paraguay, ¿cuál es el reflejo ambiental más severo visible en los cursos fluviales y lagos del país?
 
 ### Opciones
-- [x] A) La colmatación de arroyos con basuras plásticas, la proliferación nociva de vectores de enfermedades como el dengue y la bioacumulación de microplásticos en la fauna de los ríos
+- [x] B) La colmatación de arroyos con basuras plásticas, la proliferación nociva de vectores de enfermedades como el dengue y la bioacumulación de microplásticos en la fauna de los ríos
   <!-- feedback: Correcto. La disposición final inadecuada de basuras obstruye los cauces de agua dulce superficial y promueve criaderos de mosquitos transmisores de arbovirosis (dengue, chikungunya) que afectan severamente la salud pública paraguaya. -->
-- [ ] B) La transformación biológica inmediata de los peces de río en organismos cibernéticos de plástico rígido
+- [ ] A) La transformación biológica inmediata de los peces de río en organismos cibernéticos de plástico rígido
   <!-- feedback: Incorrecto. Los animales sufren intoxicaciones e ingieren microplásticos que los dañan químicamente, pero de ninguna manera se vuelven cibernéticos. -->
 - [ ] C) La desaparición absoluta de la fuerza de las corrientes fluviales sobre las turbinas de las centrales hidroeléctricas binacionales
   <!-- feedback: Incorrecto. Los caudos fluviales continúan fluyendo por gravedad y moviendo las turbinas de generación hidroeléctrica de forma física constante. -->

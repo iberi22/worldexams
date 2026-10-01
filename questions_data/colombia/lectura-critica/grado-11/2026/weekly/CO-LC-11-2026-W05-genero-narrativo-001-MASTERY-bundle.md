@@ -34,9 +34,9 @@ Elementos constitutivos de la narrativa: voz, perspectiva, pacto ficcional y di�
 ¿Qué efecto produce el uso de un narrador testigo colectivo que habla desde la memoria de la comunidad?
 
 ### Opciones
-- [x] A) Descentra la autoridad del héroe individual y muestra el peso de los prejuicios y la presión social sobre el sujeto.
+- [x] B) Descentra la autoridad del héroe individual y muestra el peso de los prejuicios y la presión social sobre el sujeto.
   <!-- feedback: El narrador colectivo de Moreno capta la mirada escrutadora de la clase social que juzga y condena las libertades individuales. -->
-- [ ] B) Garantiza que la historia sea una crónica judicial aprobada por la Notaría Primera de la ciudad.
+- [ ] A) Garantiza que la historia sea una crónica judicial aprobada por la Notaría Primera de la ciudad.
   <!-- feedback: No es un informe jurídico sino una construcción estética sobre la convención social y la memoria. -->
 - [ ] C) Impide que los personajes femeninos tengan voz o deseos propios dentro de la trama.
   <!-- feedback: La voz colectiva expone precisamente las tensiones entre los mandatos sociales y el deseo reprimido. -->
@@ -57,11 +57,11 @@ La voz narrativa colectiva en Marvel Moreno visibiliza cómo la mirada social mo
 ¿Cómo se articula la relación entre el espacio geográfico del Pacífico y la interioridad de la protagonista?
 
 ### Opciones
-- [x] A) La selva hostil y el mar embravecido actúan como una extensión física de la violencia silenciada y la soledad de Damaris.
+- [x] C) La selva hostil y el mar embravecido actúan como una extensión física de la violencia silenciada y la soledad de Damaris.
   <!-- feedback: En Quintana, la naturaleza no es un adorno exótico sino una fuerza indómita que espejea la trágica opresión de la protagonista. -->
-- [ ] B) Se presenta una descripción turística idílica recomendada por las agencias de viajes de Cali.
+- [ ] A) Se presenta una descripción turística idílica recomendada por las agencias de viajes de Cali.
   <!-- feedback: La obra muestra la crudeza, la intemperie y la precariedad de la vida en la costa pacífica. -->
-- [ ] C) Demuestra que la fauna de la región debe ser clasificada según criterios de biología marina pura.
+- [ ] B) Demuestra que la fauna de la región debe ser clasificada según criterios de biología marina pura.
   <!-- feedback: La perra y la selva cumplen una función simbólica y narrativa profunda, no taxonómica. -->
 - [ ] D) Sostiene que la protagonista no tenía ninguna relación con el entorno natural que la rodeaba.
   <!-- feedback: Existe una conexión indisoluble entre el clima, el aislamiento y la tormenta interior del personaje. -->
@@ -80,9 +80,9 @@ La narrativa de Pilar Quintana utiliza el paisaje hostil del Pacífico como reso
 ¿Qué rasgo característico de la novela urbana colombiana de finales del siglo XX encarna Ignacio Escobar?
 
 ### Opciones
-- [x] A) El desencanto existencial, la apatía burguesa y el cinismo frente a los discursos de progreso y la política tradicional.
+- [x] B) El desencanto existencial, la apatía burguesa y el cinismo frente a los discursos de progreso y la política tradicional.
   <!-- feedback: Escobar simboliza al antiinmortal refinado y escéptico que observa la decadencia de la capital con ironía. -->
-- [ ] B) El fervor revolucionario de un líder campesino que encabeza marchas en la Sabana de Bogotá.
+- [ ] A) El fervor revolucionario de un líder campesino que encabeza marchas en la Sabana de Bogotá.
   <!-- feedback: El personaje es un poeta urbano acomodado y escéptico, lejano al liderazgo de masas. -->
 - [ ] C) La fe ciega en que la poesía resolverá los problemas de movilidad del transporte público.
   <!-- feedback: Escobar ironiza sobre la inutilidad social de su propia poesía en una ciudad caótica. -->
@@ -103,11 +103,11 @@ La narrativa de Pilar Quintana utiliza el paisaje hostil del Pacífico como reso
 ¿Cómo influye la perspectiva de un anciano contemplativo en la representación del horror de la guerra?
 
 ### Opciones
-- [x] A) Aporta una mirada de fragilidad y desconcierto que contrasta la cotidianidad pacífica perdida con la absurda irrupción de la violencia.
+- [x] C) Aporta una mirada de fragilidad y desconcierto que contrasta la cotidianidad pacífica perdida con la absurda irrupción de la violencia.
   <!-- feedback: Rosero utiliza la mirada ingenua e inerme de Ismail para volver más desgarradora la pérdida de la normalidad en el pueblo. -->
-- [ ] B) Demuestra que el protagonista era el comandante estratégico de uno de los grupos armados.
+- [ ] A) Demuestra que el protagonista era el comandante estratégico de uno de los grupos armados.
   <!-- feedback: Ismail es una víctima civil inerme que contempla desolado la desintegración de su comunidad. -->
-- [ ] C) Afirma que los habitantes de San José no notaron la llegada de los hombres armados.
+- [ ] B) Afirma que los habitantes de San José no notaron la llegada de los hombres armados.
   <!-- feedback: La narración registra con dolor los secuestros, la huida y el pavor de los vecinos. -->
 - [ ] D) Transforma la historia en un folleto de propaganda de guerra gubernamental.
   <!-- feedback: Es una novela de honda sensibilidad humana que denuncia el pánico y la desolación de las víctimas. -->
@@ -126,13 +126,13 @@ En *Los ejércitos*, la focalización en un anciano indefenso desnuda la vulnera
 ¿Qué función cumple la convergencia entre el drama personal del forastero y el conflicto colectivo del pueblo?
 
 ### Opciones
-- [x] A) Muestra cómo el ciclo del odio personal se entrelaza y nutre de la violencia colectiva que devora a la sociedad.
+- [x] D) Muestra cómo el ciclo del odio personal se entrelaza y nutre de la violencia colectiva que devora a la sociedad.
   <!-- feedback: Mejía Vallejo conecta el drama de la bastardía y la venganza con el contexto mayor de La Violencia bipartidista. -->
-- [ ] B) Demuestra que las venganzas personales nunca ocurren en zonas rurales de Colombia.
+- [ ] A) Demuestra que las venganzas personales nunca ocurren en zonas rurales de Colombia.
   <!-- feedback: El drama rural expone precisamente las heridas de la afrenta y el desamparo. -->
-- [ ] C) Señala que el forastero llegó a la población para abrir una sucursal bancaria.
+- [ ] B) Señala que el forastero llegó a la población para abrir una sucursal bancaria.
   <!-- feedback: El móvil del personaje es estrictamente de justicia de sangre y memoria. -->
-- [ ] D) Elimina la tensión narrativa convirtiendo la novela en una comedia de costumbres.
+- [ ] C) Elimina la tensión narrativa convirtiendo la novela en una comedia de costumbres.
   <!-- feedback: La obra mantiene un clima denso, trágico y de constante inminencia de la muerte. -->
 
 ### Explicacion Pedagogica
@@ -149,9 +149,9 @@ La novela de Mejía Vallejo entrelaza el conflicto edípico individual con la tr
 ¿De qué manera el lenguaje barroco y musical del autor rescata la identidad afrocaribeña?
 
 ### Opciones
-- [x] A) Revitaliza la oralidad, los ritmos populares y la dignidad histórica de las comunidades negras frente a la amnesia oficial.
+- [x] B) Revitaliza la oralidad, los ritmos populares y la dignidad histórica de las comunidades negras frente a la amnesia oficial.
   <!-- feedback: Burgos Cantor utiliza una prosa rítmica y poética para celebrar la resistencia y la memoria viva del Caribe heroico y popular. -->
-- [ ] B) Prohíbe la presencia de modismos locales para adaptar el texto al español neutro de España.
+- [ ] A) Prohíbe la presencia de modismos locales para adaptar el texto al español neutro de España.
   <!-- feedback: El autor celebra precisamente el léxico, el sabor y la cadencia del habla afrocaribeña. -->
 - [ ] C) Afirma que la historia de Cartagena comenzó con la construcción de los grandes hoteles modernos.
   <!-- feedback: El relato indaga en las raíces coloniales, la muralla, el puerto y la gesta libertaria. -->
@@ -172,11 +172,11 @@ La narrativa de Burgos Cantor reivindica la memoria afrodescendiente del Caribe 
 ¿Qué visión de la urbe contemporánea articula la estructura de relatos entrelazados en *Satanás*?
 
 ### Opciones
-- [x] A) Representa a Bogotá como un laberinto de soledades e incomprensión donde el mal y la violencia acechan a cualquier ciudadano.
+- [x] C) Representa a Bogotá como un laberinto de soledades e incomprensión donde el mal y la violencia acechan a cualquier ciudadano.
   <!-- feedback: Mendoza conecta a personajes de distintas clases sociales cuya alienación común estalla en el fatídico evento real. -->
-- [ ] B) Muestra una ciudad utópica donde todos los habitantes viven en perfecta armonía y fraternidad.
+- [ ] A) Muestra una ciudad utópica donde todos los habitantes viven en perfecta armonía y fraternidad.
   <!-- feedback: La novela retrata el lado oscuro, la marginalidad, la neurosis y el dolor urbano. -->
-- [ ] C) Demuestra que los crímenes de la ciudad son causados por la invasión de seres extraterrestres.
+- [ ] B) Demuestra que los crímenes de la ciudad son causados por la invasión de seres extraterrestres.
   <!-- feedback: El mal en *Satanás* nace de las fracturas psicológicas, la exclusión y la fragilidad humana. -->
 - [ ] D) Informa sobre los precios de la carta del restaurante donde ocurren los hechos.
   <!-- feedback: El espacio restaurante es el escenario dramático del clímax, no un folleto gastronómico. -->
@@ -218,9 +218,9 @@ Carrasquilla fusiona la picaresca española con el folclore antioqueño en una p
 ¿Qué innovación estética introdujo esta novela en la narrativa colombiana de los años noventa?
 
 ### Opciones
-- [x] A) El uso de una prosa poética rítmica impregnada de rock, psicodelia y subjetividades no humanas que rompió con el realismo tradicional.
+- [x] B) El uso de una prosa poética rítmica impregnada de rock, psicodelia y subjetividades no humanas que rompió con el realismo tradicional.
   <!-- feedback: Chaparro inventó un lenguaje musical y fragmentario que dio voz a la nocturnidad, las drogas y la juventud bohemia de la capital. -->
-- [ ] B) El retorno a la novela de caballerías medieval con caballeros andantes y torneos de lanza.
+- [ ] A) El retorno a la novela de caballerías medieval con caballeros andantes y torneos de lanza.
   <!-- feedback: Es una obra vanguardista y punk de estética abiertamente urbana y marginal. -->
 - [ ] C) Un análisis numérico sobre la importación de alimentos procesados en Colombia.
   <!-- feedback: La novela es una experiencia poética, visceral y sensorial sobre la juventud descarriada. -->
@@ -241,11 +241,11 @@ Carrasquilla fusiona la picaresca española con el folclore antioqueño en una p
 ¿Qué efecto produce la metaficción cuando el texto reflexiona sobre su propio proceso de escritura?
 
 ### Opciones
-- [x] A) Rompe la ilusión de la cuarta pared e invita al lector a dudar de las certezas de la ficción y asumir un rol de coautor.
+- [x] C) Rompe la ilusión de la cuarta pared e invita al lector a dudar de las certezas de la ficción y asumir un rol de coautor.
   <!-- feedback: La metaficción revela los andamios de la invención literaria, mostrando que todo relato es una construcción deliberada. -->
-- [ ] B) Demuestra que la escritora olvidó la trama principal y busca excusas para rellenar la página.
+- [ ] A) Demuestra que la escritora olvidó la trama principal y busca excusas para rellenar la página.
   <!-- feedback: Es una estrategia narrativa de autoconciencia crítica muy valorada en la literatura contemporánea. -->
-- [ ] C) Obliga al lector a cerrar el libro y presentar un examen en la universidad.
+- [ ] B) Obliga al lector a cerrar el libro y presentar un examen en la universidad.
   <!-- feedback: Estimula el pensamiento crítico sobre la naturaleza de la literatura sin salir del espacio de lectura. -->
 - [ ] D) Garantiza que la boda descrita ocurrió realmente en una parroquia de la capital.
   <!-- feedback: La metaficción enfatiza el carácter artificioso y creado del mundo de papel. -->
@@ -264,13 +264,13 @@ La técnica metaficcional alienta la distancia crítica del lector al exponer lo
 ¿Cómo funciona la estructura de historias cruzadas en la narrativa de la intimidad femenina?
 
 ### Opciones
-- [x] A) Permite tejer un mapa de la condición femenina donde el dolor individual se transforma en sororidad y memoria colectiva.
+- [x] D) Permite tejer un mapa de la condición femenina donde el dolor individual se transforma en sororidad y memoria colectiva.
   <!-- feedback: La novela contrapone diversos testimonios para revelar las opresiones de género y la posibilidad de sanación comunitaria. -->
-- [ ] B) Demuestra que las mujeres no deben viajar solas sin autorización familiar.
+- [ ] A) Demuestra que las mujeres no deben viajar solas sin autorización familiar.
   <!-- feedback: La obra reivindica la autonomía, la libertad y el viaje interior de la mujer contemporánea. -->
-- [ ] C) Establece que los problemas emocionales se resuelven mediante decretos gubernamentales.
+- [ ] B) Establece que los problemas emocionales se resuelven mediante decretos gubernamentales.
   <!-- feedback: Aborda la dimensión afectiva, psicológica y social desde la introspección y el diálogo. -->
-- [ ] D) Sustituye la literatura por un manual de primeros auxilios médicos.
+- [ ] C) Sustituye la literatura por un manual de primeros auxilios médicos.
   <!-- feedback: Es una profunda indagación narrativa sobre los afectos, las pérdidas y la identidad. -->
 
 ### Explicacion Pedagogica
@@ -287,13 +287,13 @@ La polifonía de voces femeninas en la novela contemporánea construye una memor
 ¿Qué busca la narrativa no lineal basada en la forma del diccionario o enciclopedia?
 
 ### Opciones
-- [x] A) Ofrecer una estructura de lectura fragmentaria y combinatoria que desafía el orden cronológico tradicional.
+- [x] D) Ofrecer una estructura de lectura fragmentaria y combinatoria que desafía el orden cronológico tradicional.
   <!-- feedback: Al usar la forma de diccionario, la obra permite al lector navegar libremente entre entradas que componen un tapiz ficcional. -->
-- [ ] B) Obligar a las escuelas a sustituir todos los diccionarios académicos por libros de cuentos.
+- [ ] A) Obligar a las escuelas a sustituir todos los diccionarios académicos por libros de cuentos.
   <!-- feedback: Es una propuesta de diseño literario que parodia o asimila las formas del saber enciclopédico. -->
-- [ ] C) Demostrar que el autor era incapaz de escribir un capítulo largo de corrido.
+- [ ] B) Demostrar que el autor era incapaz de escribir un capítulo largo de corrido.
   <!-- feedback: Exige una rigurosa arquitectura de síntesis y relaciones cruzadas entre los vocablos. -->
-- [ ] D) Prohibir el uso de palabras que empiecen por consonantes compuestas.
+- [ ] C) Prohibir el uso de palabras que empiecen por consonantes compuestas.
   <!-- feedback: Usa las letras del alfabeto como principio organizador de ficciones independientes. -->
 
 ### Explicacion Pedagogica
@@ -333,9 +333,9 @@ Manuel Zapata Olivella consagró la epopeya de la afrodiaspórica en una novela 
 ¿De qué manera el espacio fronterizo intensifica las tensiones del género negro?
 
 ### Opciones
-- [x] A) Funciona como un territorio de porosidad moral y legal donde las identidades se desdibujan y la autoridad se fragmenta.
+- [x] B) Funciona como un territorio de porosidad moral y legal donde las identidades se desdibujan y la autoridad se fragmenta.
   <!-- feedback: La frontera ofrece el escenario perfecto para el género negro: violencia soterrada, lealtades dobles y la búsqueda de justicia en la sombra. -->
-- [ ] B) Demuestra la perfección de los controles aduaneros en todas las carreteras del país.
+- [ ] A) Demuestra la perfección de los controles aduaneros en todas las carreteras del país.
   <!-- feedback: El género negro explora precisamente las fisuras, la corrupción y los pasajes clandestinos. -->
 - [ ] C) Señala que los detectives en la frontera solo consumen comida vegetariana.
   <!-- feedback: Los rasgos del personaje atienden al desencanto y el riesgo del entorno hostil. -->
@@ -356,11 +356,11 @@ El espacio de frontera en la literatura negra contemporánea complejiza la inves
 ¿Qué mecanismo causa la extrañeza en el cuento fantástico urbano de Fuentes?
 
 ### Opciones
-- [x] A) La quiebra de la lógica cotidiana burguesa por la irrupción inmotivada de fantasmas, espejos y obsesiones del pasado.
+- [x] C) La quiebra de la lógica cotidiana burguesa por la irrupción inmotivada de fantasmas, espejos y obsesiones del pasado.
   <!-- feedback: Fuentes desestabiliza la seguridad de la vida acomodada introduciendo lo sobrenatural como metáfora de culpas reprimidas. -->
-- [ ] B) La explicación médica detallada de las alucinaciones por contagio de virus.
+- [ ] A) La explicación médica detallada de las alucinaciones por contagio de virus.
   <!-- feedback: El cuento fantástico sostiene la duda sobre lo maravilloso sin reducirlo a diagnóstico clínico. -->
-- [ ] C) La presencia de un narrador que afirma ser un inspector de hacienda pública.
+- [ ] B) La presencia de un narrador que afirma ser un inspector de hacienda pública.
   <!-- feedback: La voz narrativa construye climas de suspenso y ambigüedad estética. -->
 - [ ] D) La prohibición de encender luces durante las noches en la capital.
   <!-- feedback: El elemento insólito se manifiesta en medio de la vida ordinaria y elegante. -->
@@ -379,9 +379,9 @@ El cuento fantástico urbano cuestiona las certezas del mundo burgués revelando
 ¿Qué valor cultural posee la picaresca y la repentización verbal en la literatura de tradición oral?
 
 ### Opciones
-- [x] A) Preserva el ingenio popular, la agilidad mental y la memoria de las comunidades como forma de resistencia e identidad.
+- [x] B) Preserva el ingenio popular, la agilidad mental y la memoria de las comunidades como forma de resistencia e identidad.
   <!-- feedback: La trova y la picaresca oral son manifestaciones vivas de la cultura donde la comunidad celebra el talento y el humor colectivo. -->
-- [ ] B) Demuestra la incapacidad de los campesinos para escribir textos en papel impreso.
+- [ ] A) Demuestra la incapacidad de los campesinos para escribir textos en papel impreso.
   <!-- feedback: La oralidad es una forma culta y compleja de creación poética con reglas propias. -->
 - [ ] C) Exige que todos los duelos verbales concluyan en combates con machete.
   <!-- feedback: El duelo de trova es una contienda de inteligencia, rima e ingenio sin violencia física. -->
@@ -402,11 +402,11 @@ La literatura oral de trovas y contrapunteos expresa la vitalidad del pensamient
 ¿Qué visión de la existencia humana encarna el personaje desesperanzado de Maqroll el Gaviero?
 
 ### Opciones
-- [x] A) El viajero lúcido y fatalista que asume la quiebra de sus empresas sin perder la dignidad ni la fascinación por el camino.
+- [x] C) El viajero lúcido y fatalista que asume la quiebra de sus empresas sin perder la dignidad ni la fascinación por el camino.
   <!-- feedback: Maqroll es el arquetipo del nómada moderno que sabe que la meta es ilusoria pero encuentra belleza en la travesía y la derrota. -->
-- [ ] B) Un empresario de éxito que logra construir un imperio hotelero en la cuenca del Amazonas.
+- [ ] A) Un empresario de éxito que logra construir un imperio hotelero en la cuenca del Amazonas.
   <!-- feedback: La esencia de Maqroll es la ruina constante de sus proyectos y su vagabundeo sin fortuna. -->
-- [ ] C) Un almirante naval que nunca ha salido de la bahía de Cartagena de Indias.
+- [ ] B) Un almirante naval que nunca ha salido de la bahía de Cartagena de Indias.
   <!-- feedback: Maqroll ha recorrido todos los puertos del mundo acumulando nostalgias y naufragios. -->
 - [ ] D) Un funcionario público que redacta informes sobre la navegación fluvial.
   <!-- feedback: Es un aventurero poético, margínal y de honda lucidez existencial. -->
@@ -448,13 +448,13 @@ La narrativa distópica contemporánea utiliza la tecnología sintética como ad
 ¿Qué función cumple la imaginación fabuladora en la vejez y la marginalidad según el relato?
 
 ### Opciones
-- [x] A) Actúa como una estrategia de dignidad y juego que devuelve el sentido a la existencia frente al abandono y el olvido.
+- [x] D) Actúa como una estrategia de dignidad y juego que devuelve el sentido a la existencia frente al abandono y el olvido.
   <!-- feedback: La fabulación les permite volver a sentirse actores de la historia, derrotando la monotonía de la institución mediante la ficción compartida. -->
-- [ ] B) Demuestra que los ancianos padecían demencia senil irreversible comprobada por los médicos.
+- [ ] A) Demuestra que los ancianos padecían demencia senil irreversible comprobada por los médicos.
   <!-- feedback: La invención de la revolución es un juego lúcido y deliberado de resistencia afable. -->
-- [ ] C) Provoca la intervención de las fuerzas armadas para desalojar el albergue.
+- [ ] B) Provoca la intervención de las fuerzas armadas para desalojar el albergue.
   <!-- feedback: Se trata de un pacto de ficción inocente dentro de los muros del asilo. -->
-- [ ] D) Prohíbe a los mendigos hablar entre sí durante las horas de la tarde.
+- [ ] C) Prohíbe a los mendigos hablar entre sí durante las horas de la tarde.
   <!-- feedback: La fabulación se nutre del diálogo apasionado y la complicidad del grupo. -->
 
 ### Explicacion Pedagogica

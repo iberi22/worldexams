@@ -33,9 +33,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Cuál es la característica principal de una hipótesis científica bien planteada?
 
 ### Opciones
-- [x] A) Debe ser falsable y permitir la formulación de predicciones empíricas testeables.
+- [x] B) Debe ser falsable y permitir la formulación de predicciones empíricas testeables.
   <!-- feedback: Correcto. Una hipótesis científica debe poder someterse a prueba mediante experimentación u observación, siendo susceptible de ser falsa. -->
-- [ ] B) Debe ser una verdad absoluta que no requiera verificación posterior.
+- [ ] A) Debe ser una verdad absoluta que no requiera verificación posterior.
   <!-- feedback: Incorrecto. Una hipótesis nunca se asume como verdad absoluta, siempre se contrasta. -->
 - [ ] C) Debe basarse únicamente en la opinión personal u opiniones de expertos.
   <!-- feedback: Incorrecto. Las opiniones personales no constituyen una base científica válida si no hay evidencia empírica. -->
@@ -56,13 +56,13 @@ El diseño metodológico exige hipótesis claras, operacionales y falsables para
 Si diseñás un experimento para medir el efecto de la temperatura sobre la velocidad de una reacción enzimática, ¿cuál es la variable independiente?
 
 ### Opciones
-- [x] A) La temperatura establecida para cada ensayo experimental.
+- [x] D) La temperatura establecida para cada ensayo experimental.
   <!-- feedback: Correcto. La variable independiente es la que manipula activamente el investigador, en este caso la temperatura. -->
-- [ ] B) La velocidad de la reacción medida por el consumo de sustrato.
+- [ ] A) La velocidad de la reacción medida por el consumo de sustrato.
   <!-- feedback: Incorrecto. Esta es la variable dependiente, ya que responde a los cambios de temperatura. -->
-- [ ] C) La concentración fija de enzima utilizada en todos los tubos.
+- [ ] B) La concentración fija de enzima utilizada en todos los tubos.
   <!-- feedback: Incorrecto. Esto corresponde a una variable controlada para asegurar homogeneidad. -->
-- [ ] D) El volumen total de la solución de amortiguación (buffer).
+- [ ] C) El volumen total de la solución de amortiguación (buffer).
   <!-- feedback: Incorrecto. Es otra variable controlada o constante en el diseño. -->
 
 ### Explicación Pedagógica
@@ -79,9 +79,9 @@ La variable independiente se modifica deliberadamente para evaluar su efecto cau
 ¿Por qué es indispensable incluir un grupo de control en un diseño experimental biológico?
 
 ### Opciones
-- [x] A) Permite aislar el efecto de la variable independiente descartando factores externos o azarosos.
+- [x] B) Permite aislar el efecto de la variable independiente descartando factores externos o azarosos.
   <!-- feedback: Correcto. El control provee una línea de base comparativa para asegurar que los cambios se deben solo a la variable experimental. -->
-- [ ] B) Garantiza que todos los datos obtenidos sean exactamente iguales a los esperados.
+- [ ] A) Garantiza que todos los datos obtenidos sean exactamente iguales a los esperados.
   <!-- feedback: Incorrecto. La ciencia no busca forzar datos esperados, sino observar la realidad objetiva. -->
 - [ ] C) Sirve para duplicar el tamaño de la muestra sin modificar el procedimiento.
   <!-- feedback: Incorrecto. El grupo de control tiene propósitos comparativos, no meramente cuantitativos. -->
@@ -102,11 +102,11 @@ El grupo de control se mantiene en idénticas condiciones que el grupo experimen
 Al registrar una gran dispersión en los datos obtenidos, ¿qué medida estadística es más adecuada para reportar la variabilidad en el informe?
 
 ### Opciones
-- [x] A) La desviación estándar de las muestras analizadas.
+- [x] C) La desviación estándar de las muestras analizadas.
   <!-- feedback: Correcto. La desviación estándar cuantifica el grado de dispersión de los datos alrededor de la media aritmética. -->
-- [ ] B) La suma total de todas las mediciones realizadas.
+- [ ] A) La suma total de todas las mediciones realizadas.
   <!-- feedback: Incorrecto. La suma total no describe cómo varían o se dispersan los datos individuales. -->
-- [ ] C) El promedio simple o media aritmética de los ensayos.
+- [ ] B) El promedio simple o media aritmética de los ensayos.
   <!-- feedback: Incorrecto. El promedio da una tendencia central pero no informa sobre la variabilidad. -->
 - [ ] D) El valor mínimo absoluto registrado en la serie de datos.
   <!-- feedback: Incorrecto. Un solo valor extremo no representa la dispersión global del set de datos. -->
@@ -125,11 +125,11 @@ La variabilidad se analiza con herramientas de estadística descriptiva como la 
 ¿Cuál es la característica principal de una hipótesis científica bien planteada?
 
 ### Opciones
-- [x] A) Debe ser falsable y permitir la formulación de predicciones empíricas testeables.
+- [x] C) Debe ser falsable y permitir la formulación de predicciones empíricas testeables.
   <!-- feedback: Correcto. Una hipótesis científica debe poder someterse a prueba mediante experimentación u observación, siendo susceptible de ser falsa. -->
-- [ ] B) Debe ser una verdad absoluta que no requiera verificación posterior.
+- [ ] A) Debe ser una verdad absoluta que no requiera verificación posterior.
   <!-- feedback: Incorrecto. Una hipótesis nunca se asume como verdad absoluta, siempre se contrasta. -->
-- [ ] C) Debe basarse únicamente en la opinión personal u opiniones de expertos.
+- [ ] B) Debe basarse únicamente en la opinión personal u opiniones de expertos.
   <!-- feedback: Incorrecto. Las opiniones personales no constituyen una base científica válida si no hay evidencia empírica. -->
 - [ ] D) Debe formularse de manera ambigua para evitar que pueda ser refutada.
   <!-- feedback: Incorrecto. La ambigüedad impide la contrastación empírica directa. -->
@@ -148,13 +148,13 @@ El diseño metodológico exige hipótesis claras, operacionales y falsables para
 Si diseñás un experimento para medir el efecto de la temperatura sobre la velocidad de una reacción enzimática, ¿cuál es la variable independiente?
 
 ### Opciones
-- [x] A) La temperatura establecida para cada ensayo experimental.
+- [x] D) La temperatura establecida para cada ensayo experimental.
   <!-- feedback: Correcto. La variable independiente es la que manipula activamente el investigador, en este caso la temperatura. -->
-- [ ] B) La velocidad de la reacción medida por el consumo de sustrato.
+- [ ] A) La velocidad de la reacción medida por el consumo de sustrato.
   <!-- feedback: Incorrecto. Esta es la variable dependiente, ya que responde a los cambios de temperatura. -->
-- [ ] C) La concentración fija de enzima utilizada en todos los tubos.
+- [ ] B) La concentración fija de enzima utilizada en todos los tubos.
   <!-- feedback: Incorrecto. Esto corresponde a una variable controlada para asegurar homogeneidad. -->
-- [ ] D) El volumen total de la solución de amortiguación (buffer).
+- [ ] C) El volumen total de la solución de amortiguación (buffer).
   <!-- feedback: Incorrecto. Es otra variable controlada o constante en el diseño. -->
 
 ### Explicación Pedagógica
@@ -171,9 +171,9 @@ La variable independiente se modifica deliberadamente para evaluar su efecto cau
 ¿Por qué es indispensable incluir un grupo de control en un diseño experimental biológico?
 
 ### Opciones
-- [x] A) Permite aislar el efecto de la variable independiente descartando factores externos o azarosos.
+- [x] B) Permite aislar el efecto de la variable independiente descartando factores externos o azarosos.
   <!-- feedback: Correcto. El control provee una línea de base comparativa para asegurar que los cambios se deben solo a la variable experimental. -->
-- [ ] B) Garantiza que todos los datos obtenidos sean exactamente iguales a los esperados.
+- [ ] A) Garantiza que todos los datos obtenidos sean exactamente iguales a los esperados.
   <!-- feedback: Incorrecto. La ciencia no busca forzar datos esperados, sino observar la realidad objetiva. -->
 - [ ] C) Sirve para duplicar el tamaño de la muestra sin modificar el procedimiento.
   <!-- feedback: Incorrecto. El grupo de control tiene propósitos comparativos, no meramente cuantitativos. -->
@@ -217,9 +217,9 @@ La variabilidad se analiza con herramientas de estadística descriptiva como la 
 ¿Cuál es la característica principal de una hipótesis científica bien planteada?
 
 ### Opciones
-- [x] A) Debe ser falsable y permitir la formulación de predicciones empíricas testeables.
+- [x] B) Debe ser falsable y permitir la formulación de predicciones empíricas testeables.
   <!-- feedback: Correcto. Una hipótesis científica debe poder someterse a prueba mediante experimentación u observación, siendo susceptible de ser falsa. -->
-- [ ] B) Debe ser una verdad absoluta que no requiera verificación posterior.
+- [ ] A) Debe ser una verdad absoluta que no requiera verificación posterior.
   <!-- feedback: Incorrecto. Una hipótesis nunca se asume como verdad absoluta, siempre se contrasta. -->
 - [ ] C) Debe basarse únicamente en la opinión personal u opiniones de expertos.
   <!-- feedback: Incorrecto. Las opiniones personales no constituyen una base científica válida si no hay evidencia empírica. -->
@@ -240,9 +240,9 @@ El diseño metodológico exige hipótesis claras, operacionales y falsables para
 Si diseñás un experimento para medir el efecto de la temperatura sobre la velocidad de una reacción enzimática, ¿cuál es la variable independiente?
 
 ### Opciones
-- [x] A) La temperatura establecida para cada ensayo experimental.
+- [x] B) La temperatura establecida para cada ensayo experimental.
   <!-- feedback: Correcto. La variable independiente es la que manipula activamente el investigador, en este caso la temperatura. -->
-- [ ] B) La velocidad de la reacción medida por el consumo de sustrato.
+- [ ] A) La velocidad de la reacción medida por el consumo de sustrato.
   <!-- feedback: Incorrecto. Esta es la variable dependiente, ya que responde a los cambios de temperatura. -->
 - [ ] C) La concentración fija de enzima utilizada en todos los tubos.
   <!-- feedback: Incorrecto. Esto corresponde a una variable controlada para asegurar homogeneidad. -->
@@ -263,11 +263,11 @@ La variable independiente se modifica deliberadamente para evaluar su efecto cau
 ¿Por qué es indispensable incluir un grupo de control en un diseño experimental biológico?
 
 ### Opciones
-- [x] A) Permite aislar el efecto de la variable independiente descartando factores externos o azarosos.
+- [x] C) Permite aislar el efecto de la variable independiente descartando factores externos o azarosos.
   <!-- feedback: Correcto. El control provee una línea de base comparativa para asegurar que los cambios se deben solo a la variable experimental. -->
-- [ ] B) Garantiza que todos los datos obtenidos sean exactamente iguales a los esperados.
+- [ ] A) Garantiza que todos los datos obtenidos sean exactamente iguales a los esperados.
   <!-- feedback: Incorrecto. La ciencia no busca forzar datos esperados, sino observar la realidad objetiva. -->
-- [ ] C) Sirve para duplicar el tamaño de la muestra sin modificar el procedimiento.
+- [ ] B) Sirve para duplicar el tamaño de la muestra sin modificar el procedimiento.
   <!-- feedback: Incorrecto. El grupo de control tiene propósitos comparativos, no meramente cuantitativos. -->
 - [ ] D) Elimina la necesidad de realizar réplicas o mediciones repetidas en el ensayo.
   <!-- feedback: Incorrecto. Las réplicas siguen siendo obligatorias para reducir el error experimental estadístico. -->
@@ -286,11 +286,11 @@ El grupo de control se mantiene en idénticas condiciones que el grupo experimen
 Al registrar una gran dispersión en los datos obtenidos, ¿qué medida estadística es más adecuada para reportar la variabilidad en el informe?
 
 ### Opciones
-- [x] A) La desviación estándar de las muestras analizadas.
+- [x] C) La desviación estándar de las muestras analizadas.
   <!-- feedback: Correcto. La desviación estándar cuantifica el grado de dispersión de los datos alrededor de la media aritmética. -->
-- [ ] B) La suma total de todas las mediciones realizadas.
+- [ ] A) La suma total de todas las mediciones realizadas.
   <!-- feedback: Incorrecto. La suma total no describe cómo varían o se dispersan los datos individuales. -->
-- [ ] C) El promedio simple o media aritmética de los ensayos.
+- [ ] B) El promedio simple o media aritmética de los ensayos.
   <!-- feedback: Incorrecto. El promedio da una tendencia central pero no informa sobre la variabilidad. -->
 - [ ] D) El valor mínimo absoluto registrado en la serie de datos.
   <!-- feedback: Incorrecto. Un solo valor extremo no representa la dispersión global del set de datos. -->
@@ -309,13 +309,13 @@ La variabilidad se analiza con herramientas de estadística descriptiva como la 
 ¿Cuál es la característica principal de una hipótesis científica bien planteada?
 
 ### Opciones
-- [x] A) Debe ser falsable y permitir la formulación de predicciones empíricas testeables.
+- [x] D) Debe ser falsable y permitir la formulación de predicciones empíricas testeables.
   <!-- feedback: Correcto. Una hipótesis científica debe poder someterse a prueba mediante experimentación u observación, siendo susceptible de ser falsa. -->
-- [ ] B) Debe ser una verdad absoluta que no requiera verificación posterior.
+- [ ] A) Debe ser una verdad absoluta que no requiera verificación posterior.
   <!-- feedback: Incorrecto. Una hipótesis nunca se asume como verdad absoluta, siempre se contrasta. -->
-- [ ] C) Debe basarse únicamente en la opinión personal u opiniones de expertos.
+- [ ] B) Debe basarse únicamente en la opinión personal u opiniones de expertos.
   <!-- feedback: Incorrecto. Las opiniones personales no constituyen una base científica válida si no hay evidencia empírica. -->
-- [ ] D) Debe formularse de manera ambigua para evitar que pueda ser refutada.
+- [ ] C) Debe formularse de manera ambigua para evitar que pueda ser refutada.
   <!-- feedback: Incorrecto. La ambigüedad impide la contrastación empírica directa. -->
 
 ### Explicación Pedagógica
@@ -355,13 +355,13 @@ La variable independiente se modifica deliberadamente para evaluar su efecto cau
 ¿Por qué es indispensable incluir un grupo de control en un diseño experimental biológico?
 
 ### Opciones
-- [x] A) Permite aislar el efecto de la variable independiente descartando factores externos o azarosos.
+- [x] D) Permite aislar el efecto de la variable independiente descartando factores externos o azarosos.
   <!-- feedback: Correcto. El control provee una línea de base comparativa para asegurar que los cambios se deben solo a la variable experimental. -->
-- [ ] B) Garantiza que todos los datos obtenidos sean exactamente iguales a los esperados.
+- [ ] A) Garantiza que todos los datos obtenidos sean exactamente iguales a los esperados.
   <!-- feedback: Incorrecto. La ciencia no busca forzar datos esperados, sino observar la realidad objetiva. -->
-- [ ] C) Sirve para duplicar el tamaño de la muestra sin modificar el procedimiento.
+- [ ] B) Sirve para duplicar el tamaño de la muestra sin modificar el procedimiento.
   <!-- feedback: Incorrecto. El grupo de control tiene propósitos comparativos, no meramente cuantitativos. -->
-- [ ] D) Elimina la necesidad de realizar réplicas o mediciones repetidas en el ensayo.
+- [ ] C) Elimina la necesidad de realizar réplicas o mediciones repetidas en el ensayo.
   <!-- feedback: Incorrecto. Las réplicas siguen siendo obligatorias para reducir el error experimental estadístico. -->
 
 ### Explicación Pedagógica
@@ -378,11 +378,11 @@ El grupo de control se mantiene en idénticas condiciones que el grupo experimen
 Al registrar una gran dispersión en los datos obtenidos, ¿qué medida estadística es más adecuada para reportar la variabilidad en el informe?
 
 ### Opciones
-- [x] A) La desviación estándar de las muestras analizadas.
+- [x] C) La desviación estándar de las muestras analizadas.
   <!-- feedback: Correcto. La desviación estándar cuantifica el grado de dispersión de los datos alrededor de la media aritmética. -->
-- [ ] B) La suma total de todas las mediciones realizadas.
+- [ ] A) La suma total de todas las mediciones realizadas.
   <!-- feedback: Incorrecto. La suma total no describe cómo varían o se dispersan los datos individuales. -->
-- [ ] C) El promedio simple o media aritmética de los ensayos.
+- [ ] B) El promedio simple o media aritmética de los ensayos.
   <!-- feedback: Incorrecto. El promedio da una tendencia central pero no informa sobre la variabilidad. -->
 - [ ] D) El valor mínimo absoluto registrado en la serie de datos.
   <!-- feedback: Incorrecto. Un solo valor extremo no representa la dispersión global del set de datos. -->
@@ -401,13 +401,13 @@ La variabilidad se analiza con herramientas de estadística descriptiva como la 
 ¿Cuál es la característica principal de una hipótesis científica bien planteada?
 
 ### Opciones
-- [x] A) Debe ser falsable y permitir la formulación de predicciones empíricas testeables.
+- [x] D) Debe ser falsable y permitir la formulación de predicciones empíricas testeables.
   <!-- feedback: Correcto. Una hipótesis científica debe poder someterse a prueba mediante experimentación u observación, siendo susceptible de ser falsa. -->
-- [ ] B) Debe ser una verdad absoluta que no requiera verificación posterior.
+- [ ] A) Debe ser una verdad absoluta que no requiera verificación posterior.
   <!-- feedback: Incorrecto. Una hipótesis nunca se asume como verdad absoluta, siempre se contrasta. -->
-- [ ] C) Debe basarse únicamente en la opinión personal u opiniones de expertos.
+- [ ] B) Debe basarse únicamente en la opinión personal u opiniones de expertos.
   <!-- feedback: Incorrecto. Las opiniones personales no constituyen una base científica válida si no hay evidencia empírica. -->
-- [ ] D) Debe formularse de manera ambigua para evitar que pueda ser refutada.
+- [ ] C) Debe formularse de manera ambigua para evitar que pueda ser refutada.
   <!-- feedback: Incorrecto. La ambigüedad impide la contrastación empírica directa. -->
 
 ### Explicación Pedagógica
@@ -447,11 +447,11 @@ La variable independiente se modifica deliberadamente para evaluar su efecto cau
 ¿Por qué es indispensable incluir un grupo de control en un diseño experimental biológico?
 
 ### Opciones
-- [x] A) Permite aislar el efecto de la variable independiente descartando factores externos o azarosos.
+- [x] C) Permite aislar el efecto de la variable independiente descartando factores externos o azarosos.
   <!-- feedback: Correcto. El control provee una línea de base comparativa para asegurar que los cambios se deben solo a la variable experimental. -->
-- [ ] B) Garantiza que todos los datos obtenidos sean exactamente iguales a los esperados.
+- [ ] A) Garantiza que todos los datos obtenidos sean exactamente iguales a los esperados.
   <!-- feedback: Incorrecto. La ciencia no busca forzar datos esperados, sino observar la realidad objetiva. -->
-- [ ] C) Sirve para duplicar el tamaño de la muestra sin modificar el procedimiento.
+- [ ] B) Sirve para duplicar el tamaño de la muestra sin modificar el procedimiento.
   <!-- feedback: Incorrecto. El grupo de control tiene propósitos comparativos, no meramente cuantitativos. -->
 - [ ] D) Elimina la necesidad de realizar réplicas o mediciones repetidas en el ensayo.
   <!-- feedback: Incorrecto. Las réplicas siguen siendo obligatorias para reducir el error experimental estadístico. -->
@@ -470,13 +470,13 @@ El grupo de control se mantiene en idénticas condiciones que el grupo experimen
 Al registrar una gran dispersión en los datos obtenidos, ¿qué medida estadística es más adecuada para reportar la variabilidad en el informe?
 
 ### Opciones
-- [x] A) La desviación estándar de las muestras analizadas.
+- [x] D) La desviación estándar de las muestras analizadas.
   <!-- feedback: Correcto. La desviación estándar cuantifica el grado de dispersión de los datos alrededor de la media aritmética. -->
-- [ ] B) La suma total de todas las mediciones realizadas.
+- [ ] A) La suma total de todas las mediciones realizadas.
   <!-- feedback: Incorrecto. La suma total no describe cómo varían o se dispersan los datos individuales. -->
-- [ ] C) El promedio simple o media aritmética de los ensayos.
+- [ ] B) El promedio simple o media aritmética de los ensayos.
   <!-- feedback: Incorrecto. El promedio da una tendencia central pero no informa sobre la variabilidad. -->
-- [ ] D) El valor mínimo absoluto registrado en la serie de datos.
+- [ ] C) El valor mínimo absoluto registrado en la serie de datos.
   <!-- feedback: Incorrecto. Un solo valor extremo no representa la dispersión global del set de datos. -->
 
 ### Explicación Pedagógica

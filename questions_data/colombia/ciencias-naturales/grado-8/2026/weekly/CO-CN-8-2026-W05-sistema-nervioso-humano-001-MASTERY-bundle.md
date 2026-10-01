@@ -32,13 +32,13 @@ Este bundle contiene 12 preguntas sobre **sistema-nervioso-humano** para grado 8
 ### Enunciado
 Cuales órganos forman parte del sistema nervioso central (SNC) humano?
 ### Opciones
-- [x] A) El encefalo y la médula espinal.
+- [x] D) El encefalo y la médula espinal.
   <!-- feedback: Correcto. El SNC esta constituido por el encefalo y la médula espinal, protegidos por meninges y hueso. -->
-- [ ] B) El cerebro y los nervios perifericos.
+- [ ] A) El cerebro y los nervios perifericos.
   <!-- feedback: Incorrecto. Los nervios perifericos pertenecen al sistema nervioso periferico (SNP). -->
-- [ ] C) El cerebelo y los ganglios raquideos.
+- [ ] B) El cerebelo y los ganglios raquideos.
   <!-- feedback: Incorrecto. Los ganglios raquideos forman parte del SNP, no del SNC. -->
-- [ ] D) El bulbo raquideo y los musculos esqueleticos.
+- [ ] C) El bulbo raquideo y los musculos esqueleticos.
   <!-- feedback: Incorrecto. Los musculos son efectores, no parte del SNC. -->
 ### Explicacion Pedagogica
 Sistema nervioso central (SNC) $=$ encefalo (cerebro, cerebelo, tronco encefalico) $+$ médula espinal.
@@ -52,13 +52,13 @@ Sistema nervioso central (SNC) $=$ encefalo (cerebro, cerebelo, tronco encefalic
 ### Enunciado
 Cuál es la funcion principal del sistema nervioso periferico (SNP) en el cuerpo humano?
 ### Opciones
-- [x] A) Conectar el SNC con los órganos, musculos y receptores sensoriales del resto del cuerpo.
+- [x] D) Conectar el SNC con los órganos, musculos y receptores sensoriales del resto del cuerpo.
   <!-- feedback: Correcto. El SNP comunica receptores y efectores con el SNC, permitiendo respuestas integradas. -->
-- [ ] B) Producir las neuronas que forman el cerebro.
+- [ ] A) Producir las neuronas que forman el cerebro.
   <!-- feedback: Incorrecto. La produccion de neuronas se realiza en etapas embrionarias y se localiza en el SNC. -->
-- [ ] C) Bombear sangre al cerebro.
+- [ ] B) Bombear sangre al cerebro.
   <!-- feedback: Incorrecto. Esa funcion corresponde al sistema cardiovascular. -->
-- [ ] D) Secretar hormonas al torrente sanguineo.
+- [ ] C) Secretar hormonas al torrente sanguineo.
   <!-- feedback: Incorrecto. Las hormonas son secretadas por el sistema endocrino, no por el SNP. -->
 ### Explicacion Pedagogica
 El SNP esta formado por nervios y ganglios que llevan informacion sensorial al SNC y llevan ordenes motoras a los efectores.
@@ -72,13 +72,13 @@ El SNP esta formado por nervios y ganglios que llevan informacion sensorial al S
 ### Enunciado
 Cuál es el orden correcto de las estructuras que participan en el acto reflejo de retirar la mano?
 ### Opciones
-- [x] A) Receptor sensorial $\to$ neurona aferente $\to$ médula espinal $\to$ neurona eferente $\to$ musculo efector.
+- [x] D) Receptor sensorial $\to$ neurona aferente $\to$ médula espinal $\to$ neurona eferente $\to$ musculo efector.
   <!-- feedback: Correcto. El arco reflejo sigue esta secuencia y permite respuestas rapidas sin pasar por el cerebro. -->
-- [ ] B) Musculo efector $\to$ médula espinal $\to$ receptor sensorial $\to$ neurona eferente $\to$ cerebro.
+- [ ] A) Musculo efector $\to$ médula espinal $\to$ receptor sensorial $\to$ neurona eferente $\to$ cerebro.
   <!-- feedback: Incorrecto. La secuencia inicia en el receptor y termina en el efector, no al reves. -->
-- [ ] C) Cerebro $\to$ ganglio raquideo $\to$ musculo $\to$ piel $\to$ médula espinal.
+- [ ] B) Cerebro $\to$ ganglio raquideo $\to$ musculo $\to$ piel $\to$ médula espinal.
   <!-- feedback: Incorrecto. El reflejo espinal no requiere procesamiento cerebral consciente. -->
-- [ ] D) Glándula endocrina $\to$ sangre $\to$ musculo $\to$ piel $\to$ receptor sensorial.
+- [ ] C) Glándula endocrina $\to$ sangre $\to$ musculo $\to$ piel $\to$ receptor sensorial.
   <!-- feedback: Incorrecto. Esta secuencia corresponde a respuestas hormonales, no a un acto reflejo. -->
 ### Explicacion Pedagogica
 Arco reflejo: receptor $\to$ via aferente $\to$ centro integrador (médula) $\to$ via eferente $\to$ efector (musculo).
@@ -132,13 +132,13 @@ La mielina es esencial para la conduccion rapida del impulso. Su perdida causa l
 ### Enunciado
 Cuál es el análisis correcto de la relacion entre la corteza motora y el movimiento del brazo derecho?
 ### Opciones
-- [x] A) La corteza motora del hemisferio izquierdo controla principalmente los movimientos voluntarios del lado derecho del cuerpo.
+- [x] D) La corteza motora del hemisferio izquierdo controla principalmente los movimientos voluntarios del lado derecho del cuerpo.
   <!-- feedback: Correcto. La motricidad voluntaria sigue un control cruzado: hemisferio izquierdo para el lado derecho. -->
-- [ ] B) La corteza motora del hemisferio derecho controla los movimientos del lado derecho.
+- [ ] A) La corteza motora del hemisferio derecho controla los movimientos del lado derecho.
   <!-- feedback: Incorrecto. La corteza motora derecha controla el lado izquierdo del cuerpo. -->
-- [ ] C) La corteza motora controla funciones del sistema endocrino, no del movimiento.
+- [ ] B) La corteza motora controla funciones del sistema endocrino, no del movimiento.
   <!-- feedback: Incorrecto. La corteza motora comanda movimientos volontaires, no secreciones hormonales. -->
-- [ ] D) La corteza motora del cerebro solo interviene en funciones vegetativas.
+- [ ] C) La corteza motora del cerebro solo interviene en funciones vegetativas.
   <!-- feedback: Incorrecto. Las funciones vegetativas se regulan en el tronco encefalico. -->
 ### Explicacion Pedagogica
 Control motor cruzado: cada hemisferio cerebral comanda los movimientos del lado opuesto del cuerpo.
@@ -152,11 +152,11 @@ Control motor cruzado: cada hemisferio cerebral comanda los movimientos del lado
 ### Enunciado
 Cuál es el análisis del efecto del estres cronico sobre la transmision sinaptica en el sistema nervioso?
 ### Opciones
-- [x] A) Puede alterar el equilibrio de neurotransmisores como serotonina y dopamina, afectando el estado de animo y la memoria.
+- [x] C) Puede alterar el equilibrio de neurotransmisores como serotonina y dopamina, afectando el estado de animo y la memoria.
   <!-- feedback: Correcto. El estres cronico desregula neurotransmisores clave, impactando animo, memoria y comportamiento. -->
-- [ ] B) El estres cronico aumenta la produccion de mielina en todo el sistema nervioso.
+- [ ] A) El estres cronico aumenta la produccion de mielina en todo el sistema nervioso.
   <!-- feedback: Incorrecto. El estres cronico no incrementa la mielinizacion, sino que puede reducirla. -->
-- [ ] C) Los neurotransmisores son independientes del estado emocional del individuo.
+- [ ] B) Los neurotransmisores son independientes del estado emocional del individuo.
   <!-- feedback: Incorrecto. Los neurotransmisores estan estrechamente ligados a las emociones. -->
 - [ ] D) El estres cronico elimina por completo todas las sinapsis del cerebro.
   <!-- feedback: Incorrecto. No las elimina por completo, pero modifica su eficiencia. -->
@@ -172,11 +172,11 @@ El estres cronico altera la liberacion y recaptacion de neurotransmisores, modif
 ### Enunciado
 Cuál es el análisis correcto del efecto del sueno insuficiente sobre el sistema nervioso de los estudiantes?
 ### Opciones
-- [x] A) El sueno insuficiente afecta la consolidacion de la memoria, la atencion y el aprendizaje en el sistema nervioso.
+- [x] C) El sueno insuficiente afecta la consolidacion de la memoria, la atencion y el aprendizaje en el sistema nervioso.
   <!-- feedback: Correcto. Dormir es esencial para consolidar memorias y mantener funciones cognitivas optimas. -->
-- [ ] B) El sueno insuficiente mejora la capacidad de concentracion del estudiante.
+- [ ] A) El sueno insuficiente mejora la capacidad de concentracion del estudiante.
   <!-- feedback: Incorrecto. La falta de sueno disminuye la concentracion y el rendimiento cognitivo. -->
-- [ ] C) El sistema nervioso no se ve afectado por la cantidad de sueno.
+- [ ] B) El sistema nervioso no se ve afectado por la cantidad de sueno.
   <!-- feedback: Incorrecto. El sistema nervioso requiere sueno para su recuperacion y plasticidad. -->
 - [ ] D) Solo los musculos esqueleticos se recuperan durante el sueno.
   <!-- feedback: Incorrecto. El sueno es vital también para el cerebro y el sistema nervioso. -->
@@ -192,9 +192,9 @@ Durante el sueno se consolidan memorias, se eliminan desechos metabolicos cerebr
 ### Enunciado
 Cuál es el análisis del efecto del alcohol sobre areas especificas del sistema nervioso?
 ### Opciones
-- [x] A) El alcohol deprime principalmente el cerebelo y la corteza cerebral, alterando coordinacion, equilibrio y lenguaje.
+- [x] B) El alcohol deprime principalmente el cerebelo y la corteza cerebral, alterando coordinacion, equilibrio y lenguaje.
   <!-- feedback: Correcto. El cerebelo controla coordinacion; la corteza cerebral participa en el lenguaje y juicio. -->
-- [ ] B) El alcohol estimula la médula espinal, aumentando los reflejos.
+- [ ] A) El alcohol estimula la médula espinal, aumentando los reflejos.
   <!-- feedback: Incorrecto. El alcohol es depresor del SNC, no estimulante de la médula. -->
 - [ ] C) El alcohol no afecta el sistema nervioso, solo el hígado.
   <!-- feedback: Incorrecto. El alcohol atraviesa la barrera hematoencefalica y actua directamente sobre neuronas. -->
@@ -212,9 +212,9 @@ El alcohol es un depresor del SNC que afecta primero corteza (juicio) y luego ce
 ### Enunciado
 Cual de los siguientes argumentos científicos justifica con mayor solidez evitar el consumo de sustancias psicoactivas durante la adolescencia?
 ### Opciones
-- [x] A) Durante la adolescencia el cerebro aun esta en desarrollo y las sustancias psicoactivas pueden alterar la plasticidad neuronal.
+- [x] B) Durante la adolescencia el cerebro aun esta en desarrollo y las sustancias psicoactivas pueden alterar la plasticidad neuronal.
   <!-- feedback: Correcto. El cerebro adolescente es vulnerable a sustancias que modifican la conectividad neuronal. -->
-- [ ] B) Las sustancias psicoactivas fortalecen la memoria de manera permanente.
+- [ ] A) Las sustancias psicoactivas fortalecen la memoria de manera permanente.
   <!-- feedback: Incorrecto. Las sustancias psicoactivas suelen deteriorar, no fortalecer, la memoria. -->
 - [ ] C) Las sustancias psicoactivas no tienen efecto alguno sobre el sistema nervioso en adolescentes.
   <!-- feedback: Incorrecto. El efecto en adolescentes es particularmente marcado por la maduracion cerebral. -->
@@ -232,11 +232,11 @@ La adolescencia es una ventana critica de maduracion cerebral; las sustancias ps
 ### Enunciado
 Cuál es la evaluacion correcta de la relacion entre el sistema nervioso, los traumatismos craneoencefalicos y la importancia del casco?
 ### Opciones
-- [x] A) El casco reduce el riesgo de lesiones cerebrales al amortiguar golpes que podrian danar irreversiblemente las neuronas.
+- [x] C) El casco reduce el riesgo de lesiones cerebrales al amortiguar golpes que podrian danar irreversiblemente las neuronas.
   <!-- feedback: Correcto. Las neuronas del SNC tienen capacidad de regeneracion muy limitada. -->
-- [ ] B) El casco solo protege la cara, no el cerebro.
+- [ ] A) El casco solo protege la cara, no el cerebro.
   <!-- feedback: Incorrecto. El casco protege principalmente el cráneo y el cerebro subyacente. -->
-- [ ] C) Las neuronas cerebrales se regeneran rapidamente, por lo que el casco es innecesario.
+- [ ] B) Las neuronas cerebrales se regeneran rapidamente, por lo que el casco es innecesario.
   <!-- feedback: Incorrecto. La capacidad de regeneracion neuronal del SNC adulto es muy limitada. -->
 - [ ] D) Los golpes en la cabeza no afectan el funcionamiento del sistema nervioso.
   <!-- feedback: Incorrecto. Los traumatismos craneoencefalicos pueden producir danos neurologicos graves. -->
@@ -252,13 +252,13 @@ El sistema nervioso central tiene capacidad limitada de regeneracion. Prevenir t
 ### Enunciado
 Cual de los siguientes argumentos científicos justifica mejor la inversion en actividad física regular para proteger el sistema nervioso?
 ### Opciones
-- [x] A) El ejercicio estimula la neuroplasticidad, mejora el flujo sanguineo cerebral y reduce el deterioro cognitivo.
+- [x] D) El ejercicio estimula la neuroplasticidad, mejora el flujo sanguineo cerebral y reduce el deterioro cognitivo.
   <!-- feedback: Correcto. La actividad física promueve plasticidad sinaptica y salud cerebrovascular. -->
-- [ ] B) El ejercicio físico solo beneficia al sistema muscular, no al nervioso.
+- [ ] A) El ejercicio físico solo beneficia al sistema muscular, no al nervioso.
   <!-- feedback: Incorrecto. El ejercicio tiene efectos directos sobre el cerebro y la cognicion. -->
-- [ ] C) El deterioro cognitivo es inevitable y el ejercicio no aporta beneficio alguno.
+- [ ] B) El deterioro cognitivo es inevitable y el ejercicio no aporta beneficio alguno.
   <!-- feedback: Incorrecto. La evidencia muestra que el ejercicio puede retrasar el deterioro cognitivo. -->
-- [ ] D) La actividad física acelera el envejecimiento cerebral.
+- [ ] C) La actividad física acelera el envejecimiento cerebral.
   <!-- feedback: Incorrecto. La evidencia indica que el ejercicio regular protege al cerebro del envejecimiento. -->
 ### Explicacion Pedagogica
 La actividad física regular estimula factores neurotroficos, mejora la perfusion cerebral y favorece la plasticidad sinaptica, protegiendo la funcion cognitiva.

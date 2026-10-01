@@ -30,9 +30,9 @@ Bundle semanal para reconocer palabras de significado parecido y contrario en te
 ### Enunciado
 La palabra es "contento". ¿Cuál es un sinónimo de "contento"?
 ### Opciones
-- [x] A) Alegre.
+- [x] B) Alegre.
   <!-- feedback: Es correcta porque alegre también expresa felicidad. -->
-- [ ] B) Triste.
+- [ ] A) Triste.
   <!-- feedback: Es incorrecta porque triste es lo contrario de contento. -->
 - [ ] C) Enojado.
   <!-- feedback: Es incorrecta porque enojado expresa rabia, no alegría. -->
@@ -50,11 +50,11 @@ Los sinónimos son palabras con significado parecido. Reconocer que contento y a
 ### Enunciado
 La palabra es "grande". ¿Cuál es un antónimo de "grande"?
 ### Opciones
-- [x] A) Pequeño.
+- [x] C) Pequeño.
   <!-- feedback: Es correcta porque pequeño expresa lo contrario de grande. -->
-- [ ] B) Enorme.
+- [ ] A) Enorme.
   <!-- feedback: Es incorrecta porque enorme es un sinónimo de grande. -->
-- [ ] C) Gigante.
+- [ ] B) Gigante.
   <!-- feedback: Es incorrecta porque gigante también significa muy grande. -->
 - [ ] D) Amplio.
   <!-- feedback: Es incorrecta porque amplio también indica tamaño grande. -->
@@ -70,9 +70,9 @@ Los antónimos expresan significados contrarios. Comprender que grande y pequeñ
 ### Enunciado
 Lee la frase: "El parque es bonito y también es hermoso por sus flores". ¿Qué palabra puede reemplazar a "bonito" sin cambiar el sentido?
 ### Opciones
-- [x] A) Hermoso.
+- [x] B) Hermoso.
   <!-- feedback: Es correcta porque hermoso mantiene la idea de belleza del parque. -->
-- [ ] B) Feo.
+- [ ] A) Feo.
   <!-- feedback: Es incorrecta porque feo cambia el sentido a lo contrario. -->
 - [ ] C) Sucio.
   <!-- feedback: Es incorrecta porque sucio habla de aseo, no de belleza. -->
@@ -90,11 +90,11 @@ Aplicar sinónimos permite evitar repeticiones sin perder el sentido. Aquí herm
 ### Enunciado
 Lee la frase: "El mar estaba tranquilo, sin olas fuertes". ¿Cuál es un antónimo adecuado para "tranquilo" en este contexto?
 ### Opciones
-- [x] A) Agitado.
+- [x] C) Agitado.
   <!-- feedback: Es correcta porque agitado describe un mar con olas fuertes. -->
-- [ ] B) Calmado.
+- [ ] A) Calmado.
   <!-- feedback: Es incorrecta porque calmado es sinónimo de tranquilo. -->
-- [ ] C) Sereno.
+- [ ] B) Sereno.
   <!-- feedback: Es incorrecta porque sereno también indica calma. -->
 - [ ] D) Manso.
   <!-- feedback: Es incorrecta porque manso también expresa suavidad. -->
@@ -110,13 +110,13 @@ Elegir el antónimo exige mirar el contexto: en el mar, lo contrario de tranquil
 ### Enunciado
 Lee la frase: "Mariana compró dos lápices baratos y recibió 1000 pesos de devuelta". ¿Qué palabra es sinónima de "baratos" en la frase?
 ### Opciones
-- [x] A) Económicos.
+- [x] D) Económicos.
   <!-- feedback: Es correcta porque económicos también indica precio bajo, como muestran los 2000 pesos. -->
-- [ ] B) Costosos.
+- [ ] A) Costosos.
   <!-- feedback: Es incorrecta porque costosos indica precio alto. -->
-- [ ] C) Caros.
+- [ ] B) Caros.
   <!-- feedback: Es incorrecta porque caros es lo contrario de baratos. -->
-- [ ] D) Dañados.
+- [ ] C) Dañados.
   <!-- feedback: Es incorrecta porque dañados habla de estado, no de precio. -->
 ### Explicacion Pedagogica
 El contexto de precios confirma el significado: dos lápices de 2000 suman 4000 y dejan 1000 de devuelta de 5000, por eso son baratos o económicos. Usar sinónimos precisos también facilita la comunicación en compras diarias.
@@ -130,9 +130,9 @@ El contexto de precios confirma el significado: dos lápices de 2000 suman 4000 
 ### Enunciado
 Frase 1: "El niño es delgado". Frase 2: "El niño es flaco y se ve enfermo". ¿Qué diferencia hay entre "delgado" y "flaco" aquí?
 ### Opciones
-- [x] A) Que delgado es neutral y flaco aquí tiene un matiz negativo de enfermedad.
+- [x] B) Que delgado es neutral y flaco aquí tiene un matiz negativo de enfermedad.
   <!-- feedback: Es correcta porque distingue el tono de cada palabra en contexto. -->
-- [ ] B) Que las dos palabras significan exactamente lo mismo siempre.
+- [ ] A) Que las dos palabras significan exactamente lo mismo siempre.
   <!-- feedback: Es incorrecta porque el contexto le da a flaco un tono negativo. -->
 - [ ] C) Que flaco es lo contrario de delgado.
   <!-- feedback: Es incorrecta porque ambas hablan de poco peso, cambia el matiz, no el sentido base. -->
@@ -150,11 +150,11 @@ Los sinónimos no siempre son idénticos: cambian según el tono y la situación
 ### Enunciado
 Lee el texto: "La profesora nos ___ que también debemos cuidar la ortografía". ¿Qué sinónimo completa mejor la frase?
 ### Opciones
-- [x] A) Explicó.
+- [x] C) Explicó.
   <!-- feedback: Es correcta porque explicó mantiene la idea de comunicar una enseñanza. -->
-- [ ] B) Calló.
+- [ ] A) Calló.
   <!-- feedback: Es incorrecta porque callar es lo contrario de decir. -->
-- [ ] C) Ocultó.
+- [ ] B) Ocultó.
   <!-- feedback: Es incorrecta porque ocultar es esconder, no comunicar. -->
 - [ ] D) Negó.
   <!-- feedback: Es incorrecta porque negar contradice la enseñanza dada. -->
@@ -170,13 +170,13 @@ Analizar el contexto permite elegir el sinónimo preciso: la profesora comunica 
 ### Enunciado
 El cartel dice: "Cuida el agua hoy para tener un mañana mejor". ¿Qué par de antónimos resume mejor el mensaje del cartel?
 ### Opciones
-- [x] A) Desperdiciar - ahorrar.
+- [x] D) Desperdiciar - ahorrar.
   <!-- feedback: Es correcta porque resume la oposición entre malgastar y cuidar el agua. -->
-- [ ] B) Agua - agua.
+- [ ] A) Agua - agua.
   <!-- feedback: Es incorrecta porque repite la misma palabra, no hay oposición. -->
-- [ ] C) Hoy - hoy.
+- [ ] B) Hoy - hoy.
   <!-- feedback: Es incorrecta porque no presenta ningún contraste. -->
-- [ ] D) Grande - enorme.
+- [ ] C) Grande - enorme.
   <!-- feedback: Es incorrecta porque son sinónimos, no antónimos, y no hablan del agua. -->
 ### Explicacion Pedagogica
 Evaluar el mejor par exige comprobar que exprese la oposición central del mensaje. Desperdiciar y ahorrar resumen la decisión entre dañar o cuidar. Elegir bien las palabras también demuestra dominio del vocabulario y de la comunicación persuasiva.

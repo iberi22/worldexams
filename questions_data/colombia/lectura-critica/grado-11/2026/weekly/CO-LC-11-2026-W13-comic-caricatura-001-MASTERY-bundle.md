@@ -34,13 +34,13 @@ Este bundle contiene 20 preguntas sobre **Cómics y Caricatura de Opinión** par
 ¿Qué elemento visual de la viñeta representa explícitamente la carga financiera que soporta el ciudadano?
 
 ### Opciones
-- [x] A) El bulto pesado etiquetado con la palabra "IMPUESTOS".
+- [x] D) El bulto pesado etiquetado con la palabra "IMPUESTOS".
   <!-- feedback: Correcto. El bulto rotulado es la representación figurativa directa de las obligaciones tributarias del ciudadano. -->
-- [ ] B) La forma circular de la alcancía en la cima de la montaña.
+- [ ] A) La forma circular de la alcancía en la cima de la montaña.
   <!-- feedback: Incorrecto. La alcancía rota simboliza el destino o mal manejo de los recursos, no la carga misma. -->
-- [ ] C) El cielo despejado dibujado al fondo de la imagen.
+- [ ] B) El cielo despejado dibujado al fondo de la imagen.
   <!-- feedback: Incorrecto. El fondo es un elemento decorativo neutro y no representa la carga económica. -->
-- [ ] D) El calzado deportivo que viste el personaje principal.
+- [ ] C) El calzado deportivo que viste el personaje principal.
   <!-- feedback: Incorrecto. La vestimenta es indumentaria secundaria del personaje. -->
 
 ### Explicacion Pedagogica
@@ -57,9 +57,9 @@ En la caricatura política, las etiquetas de texto introducidas dentro de los ob
 Según las convenciones del lenguaje del cómic, un globo con contorno punteado significa que el personaje está:
 
 ### Opciones
-- [x] A) Hablando en voz muy baja o susurrando para no ser escuchado.
+- [x] B) Hablando en voz muy baja o susurrando para no ser escuchado.
   <!-- feedback: Correcto. La convención gráfica de la línea punteada denota susurro, secreto o volumen de voz bajo. -->
-- [ ] B) Gritando con rabia hacia su interlocutor en la escena.
+- [ ] A) Gritando con rabia hacia su interlocutor en la escena.
   <!-- feedback: Incorrecto. El grito se representa convencionalmente con globos de bordes estrellados u ostentosos. -->
 - [ ] C) Pensando en silencio sin emitir ningún sonido articulado.
   <!-- feedback: Incorrecto. El pensamiento se representa con globos en forma de nube y pequeñas burbujas dirigidas al personaje. -->
@@ -80,9 +80,9 @@ El reconocimiento de la semiología del cómic (tipos de globos, líneas, onomat
 La transformación visual de las palabras en un "chorro de agua" busca transmitir que el discurso del político es:
 
 ### Opciones
-- [x] A) Pura demagogia y palabrería vacía (un "chorro de babas" en la jerga popular).
+- [x] B) Pura demagogia y palabrería vacía (un "chorro de babas" en la jerga popular).
   <!-- feedback: Correcto. La caricatura traduce visualmente una metáfora popular para criticar la vacuidad del discurso político. -->
-- [ ] B) Un aporte fundamental para solucionar la sequía de los ríos del país.
+- [ ] A) Un aporte fundamental para solucionar la sequía de los ríos del país.
   <!-- feedback: Incorrecto. El agua no se representa como recurso hídrico valioso, sino como inundación molesta de palabras. -->
 - [ ] C) Una propuesta técnica para construir un nuevo acueducto municipal.
   <!-- feedback: Incorrecto. La viñeta no alude a proyectos de infraestructura real, sino a la retórica del personaje. -->
@@ -103,13 +103,13 @@ Las caricaturas frecuentemente convierten expresiones modismos o metáforas del 
 El signo de interrogación cubierto de telarañas en el globo de pensamiento simboliza que el estudiante:
 
 ### Opciones
-- [x] A) Experimenta un vacío total de conocimientos por falta de estudio prolongado.
+- [x] D) Experimenta un vacío total de conocimientos por falta de estudio prolongado.
   <!-- feedback: Correcto. Las telarañas asociadas al signo de interrogación representan inactividad cognitiva o ignorancia sobre el tema. -->
-- [ ] B) Descubrió una respuesta brillante e innovadora para la pregunta de la prueba.
+- [ ] A) Descubrió una respuesta brillante e innovadora para la pregunta de la prueba.
   <!-- feedback: Incorrecto. La telaraña connota olvido y falta de uso, no genialidad ni conocimiento fresco. -->
-- [ ] C) Quiere convertirse en un experto biólogo especializado en aracnología.
+- [ ] B) Quiere convertirse en un experto biólogo especializado en aracnología.
   <!-- feedback: Incorrecto. La presencia de telarañas es un recurso metafórico y no un interés temático académico. -->
-- [ ] D) Protesta airadamente contra las condiciones físicas del salón de clase.
+- [ ] C) Protesta airadamente contra las condiciones físicas del salón de clase.
   <!-- feedback: Incorrecto. El elemento gráfico se ubica dentro del globo de pensamiento reflexivo, no en el entorno físico. -->
 
 ### Explicacion Pedagogica
@@ -126,11 +126,11 @@ Los símbolos icónicos abstractos dentro de los globos de pensamiento comunican
 ¿Cuál es la ironía central que articula la crítica en esta caricatura?
 
 ### Opciones
-- [x] A) El contraste entre la celebración oficial del funcionario y el fracaso estructural real de la obra.
+- [x] C) El contraste entre la celebración oficial del funcionario y el fracaso estructural real de la obra.
   <!-- feedback: Correcto. La ironía surge de la oposición visual entre el orgullo festivo del político y la ruina física inmediata de la infraestructura. -->
-- [ ] B) El uso de tijeras de tamaño desproporcionado en eventos protocolares del gobierno.
+- [ ] A) El uso de tijeras de tamaño desproporcionado en eventos protocolares del gobierno.
   <!-- feedback: Incorrecto. Las tijeras son un detalle de utilería y no el núcleo de la contradicción irónica de la escena. -->
-- [ ] C) La falta de agua suficiente en el río para amortiguar la caída del puente.
+- [ ] B) La falta de agua suficiente en el río para amortiguar la caída del puente.
   <!-- feedback: Incorrecto. El problema denunciado es la corrupción e ingeniería deficiente, no el caudal del río. -->
 - [ ] D) La habilidad del dibujante para ilustrar puentes en zonas montañosas del país.
   <!-- feedback: Incorrecto. La maestría del dibujo es el soporte técnico, no la estructura argumentativa de la sátira. -->
@@ -149,11 +149,11 @@ La ironía visual en la caricatura de opinión radica en la contraposición deli
 La pregunta de Mafalda a su padre cumple la función discursiva de:
 
 ### Opciones
-- [x] A) Cuestionar de manera mordaz la reducción de la vida adulta a la mera rutina de obligaciones financieras.
+- [x] C) Cuestionar de manera mordaz la reducción de la vida adulta a la mera rutina de obligaciones financieras.
   <!-- feedback: Correcto. La mirada infantil de Mafalda problematiza la pérdida de ideales adultos frente al consumismo y las deudas. -->
-- [ ] B) Pedirle orientación profesional a su padre para elegir una carrera universitaria.
+- [ ] A) Pedirle orientación profesional a su padre para elegir una carrera universitaria.
   <!-- feedback: Incorrecto. Mafalda no busca consejo laboral, sino que ironiza sobre la condición económica de su padre. -->
-- [ ] C) Expresar su admiración por la eficiencia de su padre en la contabilidad del hogar.
+- [ ] B) Expresar su admiración por la eficiencia de su padre en la contabilidad del hogar.
   <!-- feedback: Incorrecto. El tono del personaje es crítico y compasivo, no de admiración contable. -->
 - [ ] D) Enseñar a los lectores de la tira cómica a elaborar un presupuesto mensual sin errores.
   <!-- feedback: Incorrecto. La tira busca reflexionar existencialmente, no dar lecciones de finanzas personales. -->
@@ -172,9 +172,9 @@ El análisis discursivo de tiras cómicas clásicas evalúa cómo el diálogo en
 ¿Qué juicio de valor emite el caricaturista sobre la naturaleza del debate político a partir de esta analogía visual?
 
 ### Opciones
-- [x] A) Que las contiendas electorales se han degradado en agresiones violentas e irracionales sin ideas de fondo.
+- [x] B) Que las contiendas electorales se han degradado en agresiones violentas e irracionales sin ideas de fondo.
   <!-- feedback: Correcto. Equiparar el debate democrático con una pelea de gallos denuncia la violencia verbal y la falta de propuestas maduras. -->
-- [ ] B) Que la avicultura es la principal actividad económica defendida por los candidatos.
+- [ ] A) Que la avicultura es la principal actividad económica defendida por los candidatos.
   <!-- feedback: Incorrecto. La metáfora animal es un recurso satírico de descalificación del debate, no un tema agropecuario. -->
 - [ ] C) Que los candidatos presidenciales demostraron un excelente nivel de preparación técnica.
   <!-- feedback: Incorrecto. La imagen de gallos peleando connota salvajismo y caos, distando de ser una felicitación. -->
@@ -195,11 +195,11 @@ Las metáforas animales en la caricatura política son recursos analógicos dest
 El uso del recurso publicitario ("Se vende...") en el letrero del oso constituye una técnica de:
 
 ### Opciones
-- [x] A) Sátira trágica que denuncia la destrucción irretornable del entorno natural.
+- [x] C) Sátira trágica que denuncia la destrucción irretornable del entorno natural.
   <!-- feedback: Correcto. Aplicar un lenguaje inmobiliario a una catástrofe ecológica subraya con sarcasmo la pérdida irremediable del bosque. -->
-- [ ] B) Oferta comercial legítima para atraer inversionistas turísticos a la selva.
+- [ ] A) Oferta comercial legítima para atraer inversionistas turísticos a la selva.
   <!-- feedback: Incorrecto. El letrero no busca vender propiedad finca raíz real, sino impactar éticamente al lector. -->
-- [ ] C) Instrucción técnica de conservación ambiental dictada por biólogos.
+- [ ] B) Instrucción técnica de conservación ambiental dictada por biólogos.
   <!-- feedback: Incorrecto. El texto es una expresión ficcional y satírica, no un manual científico. -->
 - [ ] D) Promoción del turismo ecológico en zonas protegidas de Colombia.
   <!-- feedback: Incorrecto. La imagen del desierto y el tronco seco representa destrucción y no atractivo turístico. -->
@@ -241,9 +241,9 @@ El análisis de la novela gráfica exige interpretar el valor expresivo de las s
 El impacto gráfico de las flechas saliendo de la pantalla hacia el espectador representa:
 
 ### Opciones
-- [x] A) El efecto abrumador y agresivo del exceso de información negativa en la salud mental del ciudadano.
+- [x] B) El efecto abrumador y agresivo del exceso de información negativa en la salud mental del ciudadano.
   <!-- feedback: Correcto. Las flechas simbolizan la agresión psicológica constante que ejercen las noticias trágicas sobre el público. -->
-- [ ] B) El funcionamiento técnico de la emisión de ondas electromagnéticas en la televisión digital.
+- [ ] A) El funcionamiento técnico de la emisión de ondas electromagnéticas en la televisión digital.
   <!-- feedback: Incorrecto. La intención gráfica no es física ni de telecomunicaciones, sino emocional y crítica. -->
 - [ ] C) El deseo del espectador de interactuar directamente con los presentadores de noticias.
   <!-- feedback: Incorrecto. El personaje aparece abrumado y agredido, no deseoso de participación activa. -->
@@ -264,13 +264,13 @@ Los vectores y líneas de acción en las viñetas comunican dinamismo y efectos 
 ¿De qué manera el contraste entre el letrero oficial y la escena representada cuestiona la eficacia de la propaganda estatal?
 
 ### Opciones
-- [x] A) Evidencia la profunda desconexión entre el discurso institucional motivador y el desinterés ciudadano real.
+- [x] D) Evidencia la profunda desconexión entre el discurso institucional motivador y el desinterés ciudadano real.
   <!-- feedback: Correcto. La frase pomposa del cartel choca frontalmente con la desolación y la apatía del recinto electoral. -->
-- [ ] B) Demuestra que las urnas de votación son el lugar preferido por los animales para descansar.
+- [ ] A) Demuestra que las urnas de votación son el lugar preferido por los animales para descansar.
   <!-- feedback: Incorrecto. La presencia del perro durmiendo es un indicador de abandono e inactividad, no un tema veterinario. -->
-- [ ] C) Felícita al gobierno por mantener la limpieza de los puestos de votación durante la jornada.
+- [ ] B) Felícita al gobierno por mantener la limpieza de los puestos de votación durante la jornada.
   <!-- feedback: Incorrecto. Las telarañas y la desolación representan descuido y falta de participación, no limpieza. -->
-- [ ] D) Exige que las campañas publicitarias del Estado se impriman en tipografías más grandes y coloridas.
+- [ ] C) Exige que las campañas publicitarias del Estado se impriman en tipografías más grandes y coloridas.
   <!-- feedback: Incorrecto. La crítica no es sobre el diseño tipográfico, sino sobre la ilegitimidad del mensaje frente a la realidad. -->
 
 ### Explicacion Pedagogica
@@ -287,11 +287,11 @@ El análisis crítico de caricaturas requiere confrontar el texto verbal explíc
 La transposición de elementos de la navegación web (cookies, anuncios pop-up) al formato en papel de un periódico cumple la función de:
 
 ### Opciones
-- [x] A) Satirizar la invasión agresiva de la publicidad digital que interrumpe la experiencia natural de lectura.
+- [x] C) Satirizar la invasión agresiva de la publicidad digital que interrumpe la experiencia natural de lectura.
   <!-- feedback: Correcto. Al llevar el estorbo de la publicidad digital al plano del papel impreso, el autor resalta lo absurdo y molesto de la saturación publicitaria. -->
-- [ ] B) Promover la sustitución definitiva de los periódicos de papel por portales de noticias digitales.
+- [ ] A) Promover la sustitución definitiva de los periódicos de papel por portales de noticias digitales.
   <!-- feedback: Incorrecto. La viñeta critica justamente la molestia provocada por las dinámicas digitales de anuncios. -->
-- [ ] C) Enseñar a los lectores de periódicos tradicionales a programar páginas de internet.
+- [ ] B) Enseñar a los lectores de periódicos tradicionales a programar páginas de internet.
   <!-- feedback: Incorrecto. No se ofrecen contenidos técnicos ni pedagógicos sobre código web. -->
 - [ ] D) Demostrar que los periódicos impresos de Colombia son más económicos que las suscripciones en línea.
   <!-- feedback: Incorrecto. La sátira no aborda temas de comparación de precios, sino de interferencia en la atención del lector. -->
@@ -310,11 +310,11 @@ La caricatura utiliza el anacronismo o el cruce de medios (digital vs. impreso) 
 La composición visual dividida por el cristal del ventana establece una relación sintáctica de:
 
 ### Opciones
-- [x] A) Segregación y abismo social entre el consumo vanidoso de la era digital y la pobreza extrema.
+- [x] C) Segregación y abismo social entre el consumo vanidoso de la era digital y la pobreza extrema.
   <!-- feedback: Correcto. El cristal actúa como barrera física y simbólica que separa el privilegio desconectado de la necesidad urgente. -->
-- [ ] B) Colaboración armónica entre los clientes del restaurante y los transeúntes de la ciudad.
+- [ ] A) Colaboración armónica entre los clientes del restaurante y los transeúntes de la ciudad.
   <!-- feedback: Incorrecto. No hay colaboración; hay una tajante frontera de desigualdad y exclusión visual. -->
-- [ ] C) Promoción gastronómica de los platos locales ofertados en las redes sociales.
+- [ ] B) Promoción gastronómica de los platos locales ofertados en las redes sociales.
   <!-- feedback: Incorrecto. El plato de comida es un pivote de contraste social y no un objeto publicitario gastronómico. -->
 - [ ] D) Explicación técnica sobre el correcto uso de la luz de flash en la fotografía en interiores.
   <!-- feedback: Incorrecto. La iluminación del teléfono contrasta con la sombra exterior para remarcar la superficialidad del acto. -->
@@ -333,11 +333,11 @@ El uso de divisores espaciales en la viñeta (ventanas, muros, rejas) estructura
 El gesto de la Dama de la Justicia al levantarse la venda altera el mito clásico de la equidad judicial para denunciar:
 
 ### Opciones
-- [x] A) La parcialidad y corrupción de los tribunales influenciados por el poder económico.
+- [x] C) La parcialidad y corrupción de los tribunales influenciados por el poder económico.
   <!-- feedback: Correcto. Romper la ceguera simbólica de la Justicia demuestra que la imparcialidad sucumbe ante el soborno y el dinero. -->
-- [ ] B) La necesidad de que los jueces mejoren su visión mediante exámenes médicos periódicos.
+- [ ] A) La necesidad de que los jueces mejoren su visión mediante exámenes médicos periódicos.
   <!-- feedback: Incorrecto. El gesto es un acto deliberado de venalidad y no un problema de salud visual. -->
-- [ ] C) El respeto absoluto de los magistrados por las leyes escritas en la Constitución.
+- [ ] B) El respeto absoluto de los magistrados por las leyes escritas en la Constitución.
   <!-- feedback: Incorrecto. Espiar el dinero viola la esencia misma del deber y el principio de equidad. -->
 - [ ] D) Una nueva tendencia en la escultura neoclásica para decorar los palacios de justicia.
   <!-- feedback: Incorrecto. La viñeta modifica el ícono alegórico clásico con fines de crítica discursiva y no artística. -->
@@ -356,9 +356,9 @@ Subvertir los atributos de un símbolo universal (la ceguera de la justicia) es 
 El cambio drástico en el ritmo y estilo de la última viñeta produce el efecto narrativo de:
 
 ### Opciones
-- [x] A) Crear una pausa dramática que enfatiza la desolación o las consecuencias trágicas del caos previo.
+- [x] B) Crear una pausa dramática que enfatiza la desolación o las consecuencias trágicas del caos previo.
   <!-- feedback: Correcto. El paso de la hiperactividad ruidosa al silencio panorámico en blanco y negro acentúa el vacío y la gravedad del desenlace. -->
-- [ ] B) Indicar que el impresor se quedó sin tinta de color al terminar la edición del ejemplar.
+- [ ] A) Indicar que el impresor se quedó sin tinta de color al terminar la edición del ejemplar.
   <!-- feedback: Incorrecto. El contraste de color y ausencia de sonido es un recurso expresivo intencional del autor. -->
 - [ ] C) Confundir al lector para que no entienda cómo terminó la batalla entre los personajes.
   <!-- feedback: Incorrecto. La viñeta panorámica aclara el resultado mostrando el escenario devastado. -->
@@ -402,13 +402,13 @@ Las metáforas de escala espacial y de poder militar/económico en la caricatura
 Al evaluar éticamente la validez discursiva de esta caricatura, se concluye que incurre en:
 
 ### Opciones
-- [x] A) Un ataque *ad hominem* y difamatorio que sustituye la crítica política legítima por la estigmatización personal.
+- [x] D) Un ataque *ad hominem* y difamatorio que sustituye la crítica política legítima por la estigmatización personal.
   <!-- feedback: Correcto. Descalificar mediante la mofa física e imputaciones falsas violenta el debate democrático y recurre a la falacia ad hominem. -->
-- [ ] B) Un ejercicio modélico de libertad de prensa fundamentado en la investigación periodística objetiva.
+- [ ] A) Un ejercicio modélico de libertad de prensa fundamentado en la investigación periodística objetiva.
   <!-- feedback: Incorrecto. La difamación y el insulto gráfico sin evidencia no constituyen periodismo riguroso ni ético. -->
-- [ ] C) Una valiosa lección de arte neofigurativo que enriquece el patrimonio cultural del país.
+- [ ] B) Una valiosa lección de arte neofigurativo que enriquece el patrimonio cultural del país.
   <!-- feedback: Incorrecto. El propósito estigmatizador anula el valor pedagógico o cultural legítimo en la esfera pública. -->
-- [ ] D) Una demostración imparcial de las debilidades metodológicas del movimiento social.
+- [ ] C) Una demostración imparcial de las debilidades metodológicas del movimiento social.
   <!-- feedback: Incorrecto. No hay análisis de ideas ni de métodos, sino ataques de tinte personal y prejuicioso. -->
 
 ### Explicacion Pedagogica
@@ -425,11 +425,11 @@ La evaluación crítica de la caricatura exige deslindar la libertad de sátira 
 Al comparar la eficacia comunicativa de ambos formatos para sensibilizar al público general, se deduce que:
 
 ### Opciones
-- [x] A) La caricatura ofrece una síntesis metafórica de impacto emocional inmediato, mientras que el texto continuo proporciona la sustentación empírica detallada.
+- [x] C) La caricatura ofrece una síntesis metafórica de impacto emocional inmediato, mientras que el texto continuo proporciona la sustentación empírica detallada.
   <!-- feedback: Correcto. Ambos formatos son complementarios: la imagen condensa el problema con fuerza persuasiva y el texto suministra la prueba científica. -->
-- [ ] B) El texto continuo es inútil porque la gente ya no lee contenidos que superen un párrafo de extensión.
+- [ ] A) El texto continuo es inútil porque la gente ya no lee contenidos que superen un párrafo de extensión.
   <!-- feedback: Incorrecto. El texto riguroso conserva su validez académica indispensable para la toma de decisiones fundadas. -->
-- [ ] C) La caricatura carece de todo valor porque las metáforas visuales son incapaces de transmitir mensajes serios.
+- [ ] B) La caricatura carece de todo valor porque las metáforas visuales son incapaces de transmitir mensajes serios.
   <!-- feedback: Incorrecto. La metáfora visual posee una notable efectividad pragmática para condensar ideas complejas y generar conciencia. -->
 - [ ] D) Ambos editoriales son idénticos en su estructura sintáctica y no presentan ninguna diferencia de recepción.
   <!-- feedback: Incorrecto. La recepción cognitiva de un texto continuo denotativo difiere sustancialmente de la de una imagen discontinuas conativa. -->
@@ -448,11 +448,11 @@ La evaluación crítica comparativa pondera los alcances persuasivos y la profun
 Desde una perspectiva crítica, el sesgo ideológico principal de esta historieta radica en:
 
 ### Opciones
-- [x] A) Ocultar los factores estructurales de la economía para promover una visión individualista e interesada del éxito financiero.
+- [x] C) Ocultar los factores estructurales de la economía para promover una visión individualista e interesada del éxito financiero.
   <!-- feedback: Correcto. La historieta invisibiliza el contexto macroeconómico con el fin comercial de promocionar los productos financieros del patrocinador. -->
-- [ ] B) Enseñar a los jóvenes a gastar todo su dinero en bienes de consumo innecesarios.
+- [ ] A) Enseñar a los jóvenes a gastar todo su dinero en bienes de consumo innecesarios.
   <!-- feedback: Incorrecto. El cómic promueve el ahorro en el banco patrocinador y no el gasto desmedido. -->
-- [ ] C) Explicar con absoluto rigor académico las causas históricas de la inflación en Latinoamérica.
+- [ ] B) Explicar con absoluto rigor académico las causas históricas de la inflación en Latinoamérica.
   <!-- feedback: Incorrecto. La historieta evade deliberadamente el análisis de la inflación para simplificar su relato comercial. -->
 - [ ] D) Cuestionar el papel de los bancos en la acumulación de riqueza en la sociedad contemporánea.
   <!-- feedback: Incorrecto. Al ser financiado por un gremio bancario, el cómic busca legitimar al sector y no cuestionarlo. -->

@@ -80,11 +80,11 @@ Understanding the cause of an emotion in a short descriptive text in English.
 Which sentence correctly uses the verb "be" to describe how the boy feels?
 
 ### Opciones
-- [x] A) He is scared.
+- [x] C) He is scared.
   <!-- feedback: "Is" is the correct form of "be" for the third person singular subject "he". -->
-- [ ] B) He are scared.
+- [ ] A) He are scared.
   <!-- feedback: "Are" is used with plural subjects like "they", not with "he". -->
-- [ ] C) He scared is.
+- [ ] B) He scared is.
   <!-- feedback: In English the verb "be" comes before the adjective, not after it. -->
 - [ ] D) He am scared.
   <!-- feedback: "Am" is used only with "I", not with "he". -->
@@ -126,9 +126,9 @@ Completing sentences with feeling adjectives that match the context of the situa
 Which word best describes how Daniela feels about the school trip?
 
 ### Opciones
-- [x] A) Excited.
+- [x] B) Excited.
   <!-- feedback: "I cannot wait" shows strong enthusiasm, which is the feeling of being excited. -->
-- [ ] B) Sad.
+- [ ] A) Sad.
   <!-- feedback: Sadness does not match the enthusiasm of waiting eagerly for a trip. -->
 - [ ] C) Scared.
   <!-- feedback: The diary text shows eagerness, not fear, about the trip. -->
@@ -149,13 +149,13 @@ Inferring a feeling from a short personal text using expressions of enthusiasm.
 Which option best explains the change in Miguel's feelings?
 
 ### Opciones
-- [x] A) Miguel's anger changes to happiness after his brother apologizes.
+- [x] D) Miguel's anger changes to happiness after his brother apologizes.
   <!-- feedback: The text shows anger at first and happiness again after the apology. -->
-- [ ] B) Miguel becomes angrier after his brother apologizes.
+- [ ] A) Miguel becomes angrier after his brother apologizes.
   <!-- feedback: The text says he feels calm and happy after the apology, not angrier. -->
-- [ ] C) Miguel was happy at first and then became angry forever.
+- [ ] B) Miguel was happy at first and then became angry forever.
   <!-- feedback: The text reverses this order and ends with Miguel happy again. -->
-- [ ] D) Miguel feels scared because his brother broke the toy.
+- [ ] C) Miguel feels scared because his brother broke the toy.
   <!-- feedback: The text describes Miguel as angry, not scared. -->
 
 ### Explicacion Pedagogica
@@ -195,13 +195,13 @@ Comparing two points of view to explain different emotional reactions to the sam
 What is the most important message of this paragraph?
 
 ### Opciones
-- [x] A) Feelings are normal, and we can manage them by talking, breathing, or asking for help.
+- [x] D) Feelings are normal, and we can manage them by talking, breathing, or asking for help.
   <!-- feedback: The paragraph states that feelings are normal and lists healthy ways to handle them. -->
-- [ ] B) People should never feel sad or angry.
+- [ ] A) People should never feel sad or angry.
   <!-- feedback: The text says feelings are normal, so it does not forbid them. -->
-- [ ] C) Children must hide their feelings from everyone.
+- [ ] B) Children must hide their feelings from everyone.
   <!-- feedback: The text suggests talking to a friend or an adult, not hiding feelings. -->
-- [ ] D) Talking to a friend always makes feelings worse.
+- [ ] C) Talking to a friend always makes feelings worse.
   <!-- feedback: The text presents talking as a helpful strategy, not a harmful one. -->
 
 ### Explicacion Pedagogica

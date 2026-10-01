@@ -33,9 +33,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 
 ### Opciones
 - [ ] A) Suministrar energía hidroeléctrica a las industrias del departamento de Canelones. <!-- feedback: Incorrecto. El texto no menciona generación de energía hidroeléctrica. -->
-- [x] B) Proveer de agua potable a más del $60\%$ de la población del Uruguay. <!-- feedback: ¡Correcto! El fragmento indica explícitamente que abastece de agua potable a más del $60\%$ de la población. -->
-- [ ] C) Servir como vía de navegación comercial para el transporte de granos hacia el puerto. <!-- feedback: Incorrecto. No se hace alusión al transporte ni a la navegación fluvial. -->
-- [ ] D) Proteger los bancos de pesca de agua dulce para la exportación. <!-- feedback: Incorrecto. El informe no aborda la pesca comercial. -->
+- [x] D) Proveer de agua potable a más del $60\%$ de la población del Uruguay. <!-- feedback: ¡Correcto! El fragmento indica explícitamente que abastece de agua potable a más del $60\%$ de la población. -->
+- [ ] B) Servir como vía de navegación comercial para el transporte de granos hacia el puerto. <!-- feedback: Incorrecto. No se hace alusión al transporte ni a la navegación fluvial. -->
+- [ ] C) Proteger los bancos de pesca de agua dulce para la exportación. <!-- feedback: Incorrecto. El informe no aborda la pesca comercial. -->
 
 ### Explicación Pedagógica
 La información se presenta de forma explícita en la primera oración del texto científico informativo.
@@ -51,9 +51,9 @@ La información se presenta de forma explícita en la primera oración del texto
 ¿Qué factor directo señala el informe como causa del incremento de nutrientes (fósforo y nitrógeno) en el agua?
 
 ### Opciones
-- [x] A) Las actividades agropecuarias intensivas en las márgenes del río. <!-- feedback: ¡Correcto! El texto señala directamente a las actividades agropecuarias intensivas como causa del incremento de nutrientes. -->
-- [ ] B) El aumento del turismo estival en las playas de Canelones. <!-- feedback: Incorrecto. No se menciona la actividad turística en el pasaje. -->
-- [ ] C) Las sequías prolongadas registradas durante el invierno. <!-- feedback: Incorrecto. No atribuye el fósforo y nitrógeno a sequías invernales. -->
+- [x] C) Las actividades agropecuarias intensivas en las márgenes del río. <!-- feedback: ¡Correcto! El texto señala directamente a las actividades agropecuarias intensivas como causa del incremento de nutrientes. -->
+- [ ] A) El aumento del turismo estival en las playas de Canelones. <!-- feedback: Incorrecto. No se menciona la actividad turística en el pasaje. -->
+- [ ] B) Las sequías prolongadas registradas durante el invierno. <!-- feedback: Incorrecto. No atribuye el fósforo y nitrógeno a sequías invernales. -->
 - [ ] D) Los vertidos industriales del puerto de Montevideo. <!-- feedback: Incorrecto. La cuenca del Santa Lucía se analiza en relación a sus márgenes agrícolas. -->
 
 ### Explicación Pedagógica
@@ -71,9 +71,9 @@ El texto establece una relación de causa-efecto explícita entre la agricultura
 
 ### Opciones
 - [ ] A) Sujeto de la oración. <!-- feedback: Incorrecto. El sujeto es "Los técnicos de OSE". -->
-- [x] B) Complemento Directo (se sustituye por *las*: "las inspeccionaron"). <!-- feedback: ¡Correcto! Recibe directamente la acción del verbo transitivo "inspeccionaron". -->
-- [ ] C) Complemento Indirecto. <!-- feedback: Incorrecto. No expresa el destinatario o beneficiario de la acción. -->
-- [ ] D) Complemento Circunstancial de lugar. <!-- feedback: Incorrecto. El complemento directo es el objeto examinado, no la localización abstracta. -->
+- [x] D) Complemento Directo (se sustituye por *las*: "las inspeccionaron"). <!-- feedback: ¡Correcto! Recibe directamente la acción del verbo transitivo "inspeccionaron". -->
+- [ ] B) Complemento Indirecto. <!-- feedback: Incorrecto. No expresa el destinatario o beneficiario de la acción. -->
+- [ ] C) Complemento Circunstancial de lugar. <!-- feedback: Incorrecto. El complemento directo es el objeto examinado, no la localización abstracta. -->
 
 ### Explicación Pedagógica
 El sintagma nominal que sigue al verbo transitivo "inspeccionar" y admite la pronominalización por el pronombre átono *las* funciona como complemento directo.
@@ -89,9 +89,9 @@ El sintagma nominal que sigue al verbo transitivo "inspeccionar" y admite la pro
 ¿Qué conector o locución conjuntiva introduce la relación temporal de inmediatez en el enunciado?
 
 ### Opciones
-- [x] A) No bien <!-- feedback: ¡Correcto! "No bien" es una locución conjuntiva temporal que denota inmediatez (*tan pronto como*). -->
-- [ ] B) Tras <!-- feedback: Incorrecto. "Tras" es una preposición de espacio/tiempo dentro del término subordinado. -->
-- [ ] C) A hacerse <!-- feedback: Incorrecto. Es parte de la perífrasis verbal de infinitivo. -->
+- [x] C) No bien <!-- feedback: ¡Correcto! "No bien" es una locución conjuntiva temporal que denota inmediatez (*tan pronto como*). -->
+- [ ] A) Tras <!-- feedback: Incorrecto. "Tras" es una preposición de espacio/tiempo dentro del término subordinado. -->
+- [ ] B) A hacerse <!-- feedback: Incorrecto. Es parte de la perífrasis verbal de infinitivo. -->
 - [ ] D) En la <!-- feedback: Incorrecto. Es la contracción preposicional con artículo. -->
 
 ### Explicación Pedagógica
@@ -109,8 +109,8 @@ La locución "No bien" actúa como nexo subordinante temporal que indica que la 
 
 ### Opciones
 - [ ] A) Hipérbaton. <!-- feedback: Incorrecto. No hay alteración del orden sintáctico habitual de la oración. -->
-- [x] B) Símil (o comparación explícita mediada por el verbo *parecer*). <!-- feedback: ¡Correcto! El verbo "parecían" actúa como nexo comparativo entre las calles y el laberinto. -->
-- [ ] C) Oxímoron. <!-- feedback: Incorrecto. No une dos términos contradictorios e incompatibles (*un fuego helado*). -->
+- [x] C) Símil (o comparación explícita mediada por el verbo *parecer*). <!-- feedback: ¡Correcto! El verbo "parecían" actúa como nexo comparativo entre las calles y el laberinto. -->
+- [ ] B) Oxímoron. <!-- feedback: Incorrecto. No une dos términos contradictorios e incompatibles (*un fuego helado*). -->
 - [ ] D) Metonimia. <!-- feedback: Incorrecto. La relación no es de causa-efecto o parte-todo sino analógica. -->
 
 ### Explicación Pedagógica
@@ -128,9 +128,9 @@ El símil o comparación establece una relación de semejanza entre dos elemento
 
 ### Opciones
 - [ ] A) El leísmo tradicional del español peninsular. <!-- feedback: Incorrecto. No hay leísmo; refleja contacto de lenguas en la frontera norte. -->
-- [x] B) El contacto de lenguas e interferencia portugués-español (portuñol o dialectos portugueses del Uruguay). <!-- feedback: ¡Correcto! La alternancia y convivencia gramatical entre el portugués y el español es típica de la frontera Rivera-Livramento. -->
-- [ ] C) El uso del lunfardo de los barrios de Montevideo. <!-- feedback: Incorrecto. El lunfardo es argot urbano rioplatense, no el habla híbrida fronteriza del norte. -->
-- [ ] D) La conservación del latín vulgar medieval. <!-- feedback: Incorrecto. No se trata de latín medieval sino de contacto lingüístico ibérico contemporáneo. -->
+- [x] D) El contacto de lenguas e interferencia portugués-español (portuñol o dialectos portugueses del Uruguay). <!-- feedback: ¡Correcto! La alternancia y convivencia gramatical entre el portugués y el español es típica de la frontera Rivera-Livramento. -->
+- [ ] B) El uso del lunfardo de los barrios de Montevideo. <!-- feedback: Incorrecto. El lunfardo es argot urbano rioplatense, no el habla híbrida fronteriza del norte. -->
+- [ ] C) La conservación del latín vulgar medieval. <!-- feedback: Incorrecto. No se trata de latín medieval sino de contacto lingüístico ibérico contemporáneo. -->
 
 ### Explicación Pedagógica
 En la frontera norte de Uruguay (Rivera, Rocha, Artigas, Cerro Largo), el contacto dinámico entre español y portugués genera variaciones sociolingüísticas y bilingüismo de frontera.
@@ -146,9 +146,9 @@ En la frontera norte de Uruguay (Rivera, Rocha, Artigas, Cerro Largo), el contac
 ¿Qué tipo de subordinada introduce la locución "A pesar de que"?
 
 ### Opciones
-- [x] A) Subordinada adverbial concesiva. <!-- feedback: ¡Correcto! Presenta un obstáculo que no impide el cumplimiento de la oración principal. -->
-- [ ] B) Subordinada adverbial causal. <!-- feedback: Incorrecto. No indica la razón por la que salieron a la mar. -->
-- [ ] C) Subordinada sustantiva en función de sujeto. <!-- feedback: Incorrecto. Es una subordinada oracional concesiva. -->
+- [x] C) Subordinada adverbial concesiva. <!-- feedback: ¡Correcto! Presenta un obstáculo que no impide el cumplimiento de la oración principal. -->
+- [ ] A) Subordinada adverbial causal. <!-- feedback: Incorrecto. No indica la razón por la que salieron a la mar. -->
+- [ ] B) Subordinada sustantiva en función de sujeto. <!-- feedback: Incorrecto. Es una subordinada oracional concesiva. -->
 - [ ] D) Subordinada adjetiva explicativa. <!-- feedback: Incorrecto. No modifica a ningún sustantivo antecedente. -->
 
 ### Explicación Pedagógica
@@ -166,8 +166,8 @@ Las oraciones concesivas introducidas por *a pesar de que*, *aun cuando*, *pese 
 
 ### Opciones
 - [ ] A) Un imperativo culto de la norma madrileña ("Venid"). <!-- feedback: Incorrecto. La forma "Vení" pertenece al voseo rioplatense. -->
-- [x] B) El imperativo voseante rioplatense ("Vení") con función apelativa para convocar al cliente. <!-- feedback: ¡Correcto! Utiliza la forma aguda del voseo local para lograr cercanía e interpelación persuasiva. -->
-- [ ] C) Un uso del pretérito subjuntivo despectivo. <!-- feedback: Incorrecto. "Vení" no es subjuntivo. -->
+- [x] C) El imperativo voseante rioplatense ("Vení") con función apelativa para convocar al cliente. <!-- feedback: ¡Correcto! Utiliza la forma aguda del voseo local para lograr cercanía e interpelación persuasiva. -->
+- [ ] B) Un uso del pretérito subjuntivo despectivo. <!-- feedback: Incorrecto. "Vení" no es subjuntivo. -->
 - [ ] D) Una forma impersonal pasiva sin sujeto destinatario. <!-- feedback: Incorrecto. Interpela directamente a la segunda persona (*vos*). -->
 
 ### Explicación Pedagógica
@@ -184,8 +184,8 @@ El imperativo del voseo rioplatense (*vení*, *mirá*, *comprá*) se caracteriza
 ¿Qué función lógico-discursiva cumple el conector "en su lugar"?
 
 ### Opciones
-- [ ] A) Introduce una consecuencia inevitable de la votación. <!-- feedback: Incorrecto. No es un conector consecutivo. -->
-- [x] B) Sustituye o reemplaza la opción previa por una alternativa propuesta. <!-- feedback: ¡Correcto! Es un conector sustitutivo/sustitutivo-rectificativo que reemplaza la primera acción negada por otra nueva. -->
+- [ ] B) Introduce una consecuencia inevitable de la votación. <!-- feedback: Incorrecto. No es un conector consecutivo. -->
+- [x] A) Sustituye o reemplaza la opción previa por una alternativa propuesta. <!-- feedback: ¡Correcto! Es un conector sustitutivo/sustitutivo-rectificativo que reemplaza la primera acción negada por otra nueva. -->
 - [ ] C) Agrega un argumento secundario de menor importancia. <!-- feedback: Incorrecto. No es un conector aditivo. -->
 - [ ] D) Señala el lugar geográfico exacto de la reunión. <!-- feedback: Incorrecto. Funciona como conector discursivo de reemplazo conceptual, no topográfico. -->
 
@@ -225,8 +225,8 @@ Las locuciones modales e idiomáticas poseen significados figurados consolidados
 
 ### Opciones
 - [ ] A) En la 1 solo algunos estudiantes leyeron la novela; en la 2 la leyeron todos. <!-- feedback: Incorrecto. Es exactamente al revés. -->
-- [x] B) En la 1 la cláusula es explicativa (todos los estudiantes leyeron la novela y todos aprobaron); en la 2 es especificativa (solo aprobaron aquellos estudiantes que leyeron la novela). <!-- feedback: ¡Correcto! La puntuación delimita entre una aclaración que abarca a la totalidad (explicativa) y una restricción del conjunto (especificativa). -->
-- [ ] C) La oración 1 es incorrecta según la normativa de la RAE. <!-- feedback: Incorrecto. Ambas oraciones son normativamente correctas pero expresan significados distintos. -->
+- [x] C) En la 1 la cláusula es explicativa (todos los estudiantes leyeron la novela y todos aprobaron); en la 2 es especificativa (solo aprobaron aquellos estudiantes que leyeron la novela). <!-- feedback: ¡Correcto! La puntuación delimita entre una aclaración que abarca a la totalidad (explicativa) y una restricción del conjunto (especificativa). -->
+- [ ] B) La oración 1 es incorrecta según la normativa de la RAE. <!-- feedback: Incorrecto. Ambas oraciones son normativamente correctas pero expresan significados distintos. -->
 - [ ] D) No existe ninguna diferencia de significado, es solo una preferencia estética. <!-- feedback: Incorrecto. Las comas cambian el valor restrictivo del adjetivo de relativo. -->
 
 ### Explicación Pedagógica
@@ -263,9 +263,9 @@ Los conectores causales *Dado que*, *Puesto que*, *Ya que* introducen causas dad
 
 ### Opciones
 - [ ] A) La segunda postura confirma y refuerza sin cambios la teoría del 'país modelo'. <!-- feedback: Incorrecto. "No obstante" introduce una objeción crítica. -->
-- [x] B) La segunda postura cuestiona la visión idealizada del 'país modelo' exponiendo evidencias históricas de exclusión social. <!-- feedback: ¡Correcto! Contrapone el relato mítico de homogeneidad frente a los hallazgos críticos de la historiografía contemporánea. -->
-- [ ] C) Ambas posturas demuestran que en Montevideo nunca existieron problemas sociales. <!-- feedback: Incorrecto. El texto habla expresamente de "índices de exclusión urbana". -->
-- [ ] D) Se compara la historia de Montevideo con la de otras capitales europeas. <!-- feedback: Incorrecto. No hay comparaciones internacionales en el pasaje. -->
+- [x] D) La segunda postura cuestiona la visión idealizada del 'país modelo' exponiendo evidencias históricas de exclusión social. <!-- feedback: ¡Correcto! Contrapone el relato mítico de homogeneidad frente a los hallazgos críticos de la historiografía contemporánea. -->
+- [ ] B) Ambas posturas demuestran que en Montevideo nunca existieron problemas sociales. <!-- feedback: Incorrecto. El texto habla expresamente de "índices de exclusión urbana". -->
+- [ ] C) Se compara la historia de Montevideo con la de otras capitales europeas. <!-- feedback: Incorrecto. No hay comparaciones internacionales en el pasaje. -->
 
 ### Explicación Pedagógica
 El análisis del discurso argumentativo evalúa cómo los conectores adversativos (*sin embargo*, *no obstante*) sirven para desarticular relatos o mitos consensuados confrontándolos con datos críticos.
@@ -281,9 +281,9 @@ El análisis del discurso argumentativo evalúa cómo los conectores adversativo
 ¿Qué modo verbal y qué modalidad oracional expresa el verbo "escuchen" introducido por la partícula "Ojalá"?
 
 ### Opciones
-- [x] A) Modo subjuntivo en modalidad desiderativa (expresión de deseo). <!-- feedback: ¡Correcto! La partícula "Ojalá" exige el modo subjuntivo para formular anhelos o deseos del emisor. -->
-- [ ] B) Modo indicativo en modalidad aseverativa fáctica. <!-- feedback: Incorrecto. El indicativo expresa hechos reales y seguros (*escuchan*). -->
-- [ ] C) Modo imperativo en modalidad de mandato directo. <!-- feedback: Incorrecto. "Escuchen" no funciona aquí como orden apelativa directa. -->
+- [x] C) Modo subjuntivo en modalidad desiderativa (expresión de deseo). <!-- feedback: ¡Correcto! La partícula "Ojalá" exige el modo subjuntivo para formular anhelos o deseos del emisor. -->
+- [ ] A) Modo indicativo en modalidad aseverativa fáctica. <!-- feedback: Incorrecto. El indicativo expresa hechos reales y seguros (*escuchan*). -->
+- [ ] B) Modo imperativo en modalidad de mandato directo. <!-- feedback: Incorrecto. "Escuchen" no funciona aquí como orden apelativa directa. -->
 - [ ] D) Formato condicional de posibilidad pasada. <!-- feedback: Incorrecto. No es una estructura condicional pasada. -->
 
 ### Explicación Pedagógica
@@ -319,9 +319,9 @@ El pretérito pluscuamperfecto de indicativo (*había + participio*) funciona en
 ¿Qué tipo de figura retórica se configura al nombrar el arroyo como "una serpiente de plata"?
 
 ### Opciones
-- [x] A) Metáfora pura/impura en forma atributiva (A es B), asociando el brillo y la sinuosidad del cauce con la serpiente. <!-- feedback: ¡Correcto! Transfiere las propiedades visuales y de forma del reptil plateado al arroyo. -->
-- [ ] B) Anáfora sintáctica. <!-- feedback: Incorrecto. No hay repeticiones al inicio de cláusulas. -->
-- [ ] C) Hipérbole cuantitativa. <!-- feedback: Incorrecto. No es una exageración descomunal de magnitud. -->
+- [x] C) Metáfora pura/impura en forma atributiva (A es B), asociando el brillo y la sinuosidad del cauce con la serpiente. <!-- feedback: ¡Correcto! Transfiere las propiedades visuales y de forma del reptil plateado al arroyo. -->
+- [ ] A) Anáfora sintáctica. <!-- feedback: Incorrecto. No hay repeticiones al inicio de cláusulas. -->
+- [ ] B) Hipérbole cuantitativa. <!-- feedback: Incorrecto. No es una exageración descomunal de magnitud. -->
 - [ ] D) Metonimia de causa por efecto. <!-- feedback: Incorrecto. Es una asociación por semejanza analógica (metáfora). -->
 
 ### Explicación Pedagógica
@@ -338,8 +338,8 @@ La metáfora proyecta las características de un dominio origen (la sinuosidad y
 Evaluá la tesis que defiende el autor del fragmento respecto al rol de la gramática en la educación media.
 
 ### Opciones
-- [ ] A) Sostiene que la lectura recreativa es el único método válido para aprender gramática. <!-- feedback: Incorrecto. El autor critica justamente la sustitución del análisis por la sola lectura recreativa. -->
-- [x] B) Defiende que el aprendizaje sistemático de la gramática es indispensable para el desarrollo de la escritura reflexiva y el pensamiento crítico frente a los discursos. <!-- feedback: ¡Correcto! Vincula el conocimiento gramatical consciente con la autonomía de redacción y la capacidad de resistencia crítica. -->
+- [ ] B) Sostiene que la lectura recreativa es el único método válido para aprender gramática. <!-- feedback: Incorrecto. El autor critica justamente la sustitución del análisis por la sola lectura recreativa. -->
+- [x] A) Defiende que el aprendizaje sistemático de la gramática es indispensable para el desarrollo de la escritura reflexiva y el pensamiento crítico frente a los discursos. <!-- feedback: ¡Correcto! Vincula el conocimiento gramatical consciente con la autonomía de redacción y la capacidad de resistencia crítica. -->
 - [ ] C) Afirma que los estudiantes de Secundaria no necesitan saber escribir ensayos académicos. <!-- feedback: Incorrecto. Sostiene que el dominio gramatical es clave para la redacción académica. -->
 - [ ] D) Propone eliminar la asignatura Lengua de los planes de estudio. <!-- feedback: Incorrecto. Aboga por fortalecer la enseñanza sintáctica consciente. -->
 
@@ -358,8 +358,8 @@ Evaluá la función del eufemismo en el discurso político según la perspectiva
 
 ### Opciones
 - [ ] A) El eufemismo se utiliza exclusivamente para embellecer poéticamente los discursos. <!-- feedback: Incorrecto. Su fin en la política no es poético sino de atenuación ideológica. -->
-- [x] B) Funciona como un recurso de manipulación o atenuación discursiva diseñado para suavizar realidades conflictivas y acondicionar la opinión pública. <!-- feedback: ¡Correcto! El texto devela que la sustitución léxica persigue mitigar el costo político y la reacción ciudadana. -->
-- [ ] C) Sirve para garantizar que el idioma español se mantenga puro y sin extranjerismos. <!-- feedback: Incorrecto. No aborda la pureza lingüística contra los extranjerismos. -->
+- [x] C) Funciona como un recurso de manipulación o atenuación discursiva diseñado para suavizar realidades conflictivas y acondicionar la opinión pública. <!-- feedback: ¡Correcto! El texto devela que la sustitución léxica persigue mitigar el costo político y la reacción ciudadana. -->
+- [ ] B) Sirve para garantizar que el idioma español se mantenga puro y sin extranjerismos. <!-- feedback: Incorrecto. No aborda la pureza lingüística contra los extranjerismos. -->
 - [ ] D) Demuestra que los políticos desconocen el significado real de las palabras. <!-- feedback: Incorrecto. Al contrario: muestra una selección deliberada y calculada del léxico. -->
 
 ### Explicación Pedagógica
@@ -395,10 +395,10 @@ La intertextualidad (concepto desarrollado por Julia Kristeva y Mijaíl Bajtín)
 Evaluá la evolución de la forma poética descrita en el análisis.
 
 ### Opciones
-- [x] A) Muestra la transición del formalismo métrico estricto hacia el verso libre, donde el ritmo se genera mediante recursos sintácticos y semánticos internos en lugar de esquemas fijos. <!-- feedback: ¡Correcto! Explica cómo el verso libre no es caos, sino una búsqueda de ritmo orgánico basado en la sintaxis y las imágenes. -->
-- [ ] B) Demuestra que la poesía moderna es de menor calidad por carecer de rima. <!-- feedback: Incorrecto. El análisis valora positivamente la construcción de la cadencia interna. -->
-- [ ] C) Afirma que los poetas contemporáneos deben regresar obligatoriamente al soneto clásico. <!-- feedback: Incorrecto. Defiende la legitimidad del verso libre. -->
-- [ ] D) Prueba que el ritmo es un elemento innecesario en la creación poética. <!-- feedback: Incorrecto. Sostiene que el poema "construye una cadencia interna", redefiniendo el ritmo. -->
+- [x] D) Muestra la transición del formalismo métrico estricto hacia el verso libre, donde el ritmo se genera mediante recursos sintácticos y semánticos internos en lugar de esquemas fijos. <!-- feedback: ¡Correcto! Explica cómo el verso libre no es caos, sino una búsqueda de ritmo orgánico basado en la sintaxis y las imágenes. -->
+- [ ] A) Demuestra que la poesía moderna es de menor calidad por carecer de rima. <!-- feedback: Incorrecto. El análisis valora positivamente la construcción de la cadencia interna. -->
+- [ ] B) Afirma que los poetas contemporáneos deben regresar obligatoriamente al soneto clásico. <!-- feedback: Incorrecto. Defiende la legitimidad del verso libre. -->
+- [ ] C) Prueba que el ritmo es un elemento innecesario en la creación poética. <!-- feedback: Incorrecto. Sostiene que el poema "construye una cadencia interna", redefiniendo el ritmo. -->
 
 ### Explicación Pedagógica
 El análisis del verso libre en la poesía moderna demuestra que la emancipación de la rima y la métrica fija da paso a un ritmo musical basado en la sintaxis, el encabalgamiento y las figuras de repetición.

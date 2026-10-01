@@ -33,11 +33,11 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿En qué zona de la mitocondria ocurre el ciclo de Krebs durante la respiración celular?
 
 ### Opciones
-- [x] A) En la matriz mitocondrial interna.
+- [x] C) En la matriz mitocondrial interna.
   <!-- feedback: Correcto. El ciclo de Krebs ocurre en la matriz mitocondrial gracias a enzimas solubles específicas. -->
-- [ ] B) En el espacio intermembrana que separa ambas bicapas.
+- [ ] A) En el espacio intermembrana que separa ambas bicapas.
   <!-- feedback: Incorrecto. En esta zona se acumulan protones transitoriamente para generar el gradiente quimiosmótico. -->
-- [ ] C) En las crestas formadas por la membrana mitocondrial interna.
+- [ ] B) En las crestas formadas por la membrana mitocondrial interna.
   <!-- feedback: Incorrecto. En las crestas se localizan las proteínas de la cadena transportadora de electrones y la ATP sintasa. -->
 - [ ] D) En la membrana mitocondrial externa permeable a iones libres.
   <!-- feedback: Incorrecto. La membrana externa es una barrera semipermeable de paso de metabolitos primarios. -->
@@ -56,9 +56,9 @@ La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en 
 ¿Cuál es la función del tilacoide en la ultraestructura del cloroplasto?
 
 ### Opciones
-- [x] A) Contener los fotosistemas y la cadena de transporte de electrones para la fase luminosa.
+- [x] B) Contener los fotosistemas y la cadena de transporte de electrones para la fase luminosa.
   <!-- feedback: Correcto. La membrana del tilacoide alberga la clorofila y proteínas necesarias para convertir energía solar en química. -->
-- [ ] B) Sintetizar la enzima Rubisco para iniciar el ciclo de Calvin fijador.
+- [ ] A) Sintetizar la enzima Rubisco para iniciar el ciclo de Calvin fijador.
   <!-- feedback: Incorrecto. El ciclo de Calvin y la síntesis de la enzima Rubisco ocurren en el estroma soluble. -->
 - [ ] C) Almacenar el almidón de reserva resultante del metabolismo celular nocturno.
   <!-- feedback: Incorrecto. Los granos de almidón se acumulan transitoriamente en el estroma, fuera de los tilacoides. -->
@@ -79,11 +79,11 @@ La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, 
 ¿Qué organelo celular es responsable directo de la síntesis de lípidos de membrana y detoxificación de fármacos?
 
 ### Opciones
-- [x] A) El retículo endoplasmático liso (REL).
+- [x] C) El retículo endoplasmático liso (REL).
   <!-- feedback: Correcto. El REL carece de ribosomas y se especializa en la biosíntesis de fosfolípidos, colesterol y hormonas esteroideas. -->
-- [ ] B) El retículo endoplasmático rugoso (RER).
+- [ ] A) El retículo endoplasmático rugoso (RER).
   <!-- feedback: Incorrecto. El RER se encarga principalmente de la síntesis y plegamiento de proteínas de exportación o membrana. -->
-- [ ] C) El aparato de Golgi con sus cisternas aplanadas.
+- [ ] B) El aparato de Golgi con sus cisternas aplanadas.
   <!-- feedback: Incorrecto. El Golgi empaqueta, clasifica y distribuye macromoléculas, modificándolas covalentemente. -->
 - [ ] D) Los ribosomas libres asociados a microtúbulos.
   <!-- feedback: Incorrecto. Los ribosomas se dedican exclusivamente a la síntesis de cadenas polipeptídicas de proteínas. -->
@@ -125,11 +125,11 @@ El bajo pH del lisosoma actúa como sistema de protección celular: si se rompe,
 ¿En qué zona de la mitocondria ocurre el ciclo de Krebs durante la respiración celular?
 
 ### Opciones
-- [x] A) En la matriz mitocondrial interna.
+- [x] C) En la matriz mitocondrial interna.
   <!-- feedback: Correcto. El ciclo de Krebs ocurre en la matriz mitocondrial gracias a enzimas solubles específicas. -->
-- [ ] B) En el espacio intermembrana que separa ambas bicapas.
+- [ ] A) En el espacio intermembrana que separa ambas bicapas.
   <!-- feedback: Incorrecto. En esta zona se acumulan protones transitoriamente para generar el gradiente quimiosmótico. -->
-- [ ] C) En las crestas formadas por la membrana mitocondrial interna.
+- [ ] B) En las crestas formadas por la membrana mitocondrial interna.
   <!-- feedback: Incorrecto. En las crestas se localizan las proteínas de la cadena transportadora de electrones y la ATP sintasa. -->
 - [ ] D) En la membrana mitocondrial externa permeable a iones libres.
   <!-- feedback: Incorrecto. La membrana externa es una barrera semipermeable de paso de metabolitos primarios. -->
@@ -171,11 +171,11 @@ La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, 
 ¿Qué organelo celular es responsable directo de la síntesis de lípidos de membrana y detoxificación de fármacos?
 
 ### Opciones
-- [x] A) El retículo endoplasmático liso (REL).
+- [x] C) El retículo endoplasmático liso (REL).
   <!-- feedback: Correcto. El REL carece de ribosomas y se especializa en la biosíntesis de fosfolípidos, colesterol y hormonas esteroideas. -->
-- [ ] B) El retículo endoplasmático rugoso (RER).
+- [ ] A) El retículo endoplasmático rugoso (RER).
   <!-- feedback: Incorrecto. El RER se encarga principalmente de la síntesis y plegamiento de proteínas de exportación o membrana. -->
-- [ ] C) El aparato de Golgi con sus cisternas aplanadas.
+- [ ] B) El aparato de Golgi con sus cisternas aplanadas.
   <!-- feedback: Incorrecto. El Golgi empaqueta, clasifica y distribuye macromoléculas, modificándolas covalentemente. -->
 - [ ] D) Los ribosomas libres asociados a microtúbulos.
   <!-- feedback: Incorrecto. Los ribosomas se dedican exclusivamente a la síntesis de cadenas polipeptídicas de proteínas. -->
@@ -194,11 +194,11 @@ El retículo endoplasmático liso detoxifica xenobióticos mediante enzimas de l
 ¿Qué tipo de ambiente químico interno caracteriza a los lisosomas para permitir su correcto funcionamiento digestivo?
 
 ### Opciones
-- [x] A) Un ambiente ácido mantenido por bombas de protones activas que introducen iones H+.
+- [x] C) Un ambiente ácido mantenido por bombas de protones activas que introducen iones H+.
   <!-- feedback: Correcto. Las hidrolasas ácidas de los lisosomas requieren un pH óptimo cercano a 5.0 mantenido por bombas de protones. -->
-- [ ] B) Un medio alcalino concentrado con alta saturación de cationes de sodio.
+- [ ] A) Un medio alcalino concentrado con alta saturación de cationes de sodio.
   <!-- feedback: Incorrecto. Un medio básico desnaturaliza y desactiva las enzimas hidrolíticas lisosomales. -->
-- [ ] C) Una solución neutra isotónica con nula actividad enzimática hidrolítica.
+- [ ] B) Una solución neutra isotónica con nula actividad enzimática hidrolítica.
   <!-- feedback: Incorrecto. A pH neutro celular (~7.2) las enzimas lisosomales pierden eficacia catalítica. -->
 - [ ] D) Un fluido anhidro sin presencia de moléculas de agua reactivas.
   <!-- feedback: Incorrecto. Las hidrolasas requieren agua para romper enlaces químicos covalentes mediante hidrólisis. -->
@@ -240,11 +240,11 @@ La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en 
 ¿Cuál es la función del tilacoide en la ultraestructura del cloroplasto?
 
 ### Opciones
-- [x] A) Contener los fotosistemas y la cadena de transporte de electrones para la fase luminosa.
+- [x] C) Contener los fotosistemas y la cadena de transporte de electrones para la fase luminosa.
   <!-- feedback: Correcto. La membrana del tilacoide alberga la clorofila y proteínas necesarias para convertir energía solar en química. -->
-- [ ] B) Sintetizar la enzima Rubisco para iniciar el ciclo de Calvin fijador.
+- [ ] A) Sintetizar la enzima Rubisco para iniciar el ciclo de Calvin fijador.
   <!-- feedback: Incorrecto. El ciclo de Calvin y la síntesis de la enzima Rubisco ocurren en el estroma soluble. -->
-- [ ] C) Almacenar el almidón de reserva resultante del metabolismo celular nocturno.
+- [ ] B) Almacenar el almidón de reserva resultante del metabolismo celular nocturno.
   <!-- feedback: Incorrecto. Los granos de almidón se acumulan transitoriamente en el estroma, fuera de los tilacoides. -->
 - [ ] D) Delimitar el paso de lípidos sintetizados en el retículo liso.
   <!-- feedback: Incorrecto. El cloroplasto no se encarga de regular la distribución de grasas del retículo. -->
@@ -263,13 +263,13 @@ La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, 
 ¿Qué organelo celular es responsable directo de la síntesis de lípidos de membrana y detoxificación de fármacos?
 
 ### Opciones
-- [x] A) El retículo endoplasmático liso (REL).
+- [x] D) El retículo endoplasmático liso (REL).
   <!-- feedback: Correcto. El REL carece de ribosomas y se especializa en la biosíntesis de fosfolípidos, colesterol y hormonas esteroideas. -->
-- [ ] B) El retículo endoplasmático rugoso (RER).
+- [ ] A) El retículo endoplasmático rugoso (RER).
   <!-- feedback: Incorrecto. El RER se encarga principalmente de la síntesis y plegamiento de proteínas de exportación o membrana. -->
-- [ ] C) El aparato de Golgi con sus cisternas aplanadas.
+- [ ] B) El aparato de Golgi con sus cisternas aplanadas.
   <!-- feedback: Incorrecto. El Golgi empaqueta, clasifica y distribuye macromoléculas, modificándolas covalentemente. -->
-- [ ] D) Los ribosomas libres asociados a microtúbulos.
+- [ ] C) Los ribosomas libres asociados a microtúbulos.
   <!-- feedback: Incorrecto. Los ribosomas se dedican exclusivamente a la síntesis de cadenas polipeptídicas de proteínas. -->
 
 ### Explicación Pedagógica
@@ -286,13 +286,13 @@ El retículo endoplasmático liso detoxifica xenobióticos mediante enzimas de l
 ¿Qué tipo de ambiente químico interno caracteriza a los lisosomas para permitir su correcto funcionamiento digestivo?
 
 ### Opciones
-- [x] A) Un ambiente ácido mantenido por bombas de protones activas que introducen iones H+.
+- [x] D) Un ambiente ácido mantenido por bombas de protones activas que introducen iones H+.
   <!-- feedback: Correcto. Las hidrolasas ácidas de los lisosomas requieren un pH óptimo cercano a 5.0 mantenido por bombas de protones. -->
-- [ ] B) Un medio alcalino concentrado con alta saturación de cationes de sodio.
+- [ ] A) Un medio alcalino concentrado con alta saturación de cationes de sodio.
   <!-- feedback: Incorrecto. Un medio básico desnaturaliza y desactiva las enzimas hidrolíticas lisosomales. -->
-- [ ] C) Una solución neutra isotónica con nula actividad enzimática hidrolítica.
+- [ ] B) Una solución neutra isotónica con nula actividad enzimática hidrolítica.
   <!-- feedback: Incorrecto. A pH neutro celular (~7.2) las enzimas lisosomales pierden eficacia catalítica. -->
-- [ ] D) Un fluido anhidro sin presencia de moléculas de agua reactivas.
+- [ ] C) Un fluido anhidro sin presencia de moléculas de agua reactivas.
   <!-- feedback: Incorrecto. Las hidrolasas requieren agua para romper enlaces químicos covalentes mediante hidrólisis. -->
 
 ### Explicación Pedagógica
@@ -309,9 +309,9 @@ El bajo pH del lisosoma actúa como sistema de protección celular: si se rompe,
 ¿En qué zona de la mitocondria ocurre el ciclo de Krebs durante la respiración celular?
 
 ### Opciones
-- [x] A) En la matriz mitocondrial interna.
+- [x] B) En la matriz mitocondrial interna.
   <!-- feedback: Correcto. El ciclo de Krebs ocurre en la matriz mitocondrial gracias a enzimas solubles específicas. -->
-- [ ] B) En el espacio intermembrana que separa ambas bicapas.
+- [ ] A) En el espacio intermembrana que separa ambas bicapas.
   <!-- feedback: Incorrecto. En esta zona se acumulan protones transitoriamente para generar el gradiente quimiosmótico. -->
 - [ ] C) En las crestas formadas por la membrana mitocondrial interna.
   <!-- feedback: Incorrecto. En las crestas se localizan las proteínas de la cadena transportadora de electrones y la ATP sintasa. -->
@@ -332,9 +332,9 @@ La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en 
 ¿Cuál es la función del tilacoide en la ultraestructura del cloroplasto?
 
 ### Opciones
-- [x] A) Contener los fotosistemas y la cadena de transporte de electrones para la fase luminosa.
+- [x] B) Contener los fotosistemas y la cadena de transporte de electrones para la fase luminosa.
   <!-- feedback: Correcto. La membrana del tilacoide alberga la clorofila y proteínas necesarias para convertir energía solar en química. -->
-- [ ] B) Sintetizar la enzima Rubisco para iniciar el ciclo de Calvin fijador.
+- [ ] A) Sintetizar la enzima Rubisco para iniciar el ciclo de Calvin fijador.
   <!-- feedback: Incorrecto. El ciclo de Calvin y la síntesis de la enzima Rubisco ocurren en el estroma soluble. -->
 - [ ] C) Almacenar el almidón de reserva resultante del metabolismo celular nocturno.
   <!-- feedback: Incorrecto. Los granos de almidón se acumulan transitoriamente en el estroma, fuera de los tilacoides. -->
@@ -355,13 +355,13 @@ La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, 
 ¿Qué organelo celular es responsable directo de la síntesis de lípidos de membrana y detoxificación de fármacos?
 
 ### Opciones
-- [x] A) El retículo endoplasmático liso (REL).
+- [x] D) El retículo endoplasmático liso (REL).
   <!-- feedback: Correcto. El REL carece de ribosomas y se especializa en la biosíntesis de fosfolípidos, colesterol y hormonas esteroideas. -->
-- [ ] B) El retículo endoplasmático rugoso (RER).
+- [ ] A) El retículo endoplasmático rugoso (RER).
   <!-- feedback: Incorrecto. El RER se encarga principalmente de la síntesis y plegamiento de proteínas de exportación o membrana. -->
-- [ ] C) El aparato de Golgi con sus cisternas aplanadas.
+- [ ] B) El aparato de Golgi con sus cisternas aplanadas.
   <!-- feedback: Incorrecto. El Golgi empaqueta, clasifica y distribuye macromoléculas, modificándolas covalentemente. -->
-- [ ] D) Los ribosomas libres asociados a microtúbulos.
+- [ ] C) Los ribosomas libres asociados a microtúbulos.
   <!-- feedback: Incorrecto. Los ribosomas se dedican exclusivamente a la síntesis de cadenas polipeptídicas de proteínas. -->
 
 ### Explicación Pedagógica
@@ -378,11 +378,11 @@ El retículo endoplasmático liso detoxifica xenobióticos mediante enzimas de l
 ¿Qué tipo de ambiente químico interno caracteriza a los lisosomas para permitir su correcto funcionamiento digestivo?
 
 ### Opciones
-- [x] A) Un ambiente ácido mantenido por bombas de protones activas que introducen iones H+.
+- [x] C) Un ambiente ácido mantenido por bombas de protones activas que introducen iones H+.
   <!-- feedback: Correcto. Las hidrolasas ácidas de los lisosomas requieren un pH óptimo cercano a 5.0 mantenido por bombas de protones. -->
-- [ ] B) Un medio alcalino concentrado con alta saturación de cationes de sodio.
+- [ ] A) Un medio alcalino concentrado con alta saturación de cationes de sodio.
   <!-- feedback: Incorrecto. Un medio básico desnaturaliza y desactiva las enzimas hidrolíticas lisosomales. -->
-- [ ] C) Una solución neutra isotónica con nula actividad enzimática hidrolítica.
+- [ ] B) Una solución neutra isotónica con nula actividad enzimática hidrolítica.
   <!-- feedback: Incorrecto. A pH neutro celular (~7.2) las enzimas lisosomales pierden eficacia catalítica. -->
 - [ ] D) Un fluido anhidro sin presencia de moléculas de agua reactivas.
   <!-- feedback: Incorrecto. Las hidrolasas requieren agua para romper enlaces químicos covalentes mediante hidrólisis. -->
@@ -401,9 +401,9 @@ El bajo pH del lisosoma actúa como sistema de protección celular: si se rompe,
 ¿En qué zona de la mitocondria ocurre el ciclo de Krebs durante la respiración celular?
 
 ### Opciones
-- [x] A) En la matriz mitocondrial interna.
+- [x] B) En la matriz mitocondrial interna.
   <!-- feedback: Correcto. El ciclo de Krebs ocurre en la matriz mitocondrial gracias a enzimas solubles específicas. -->
-- [ ] B) En el espacio intermembrana que separa ambas bicapas.
+- [ ] A) En el espacio intermembrana que separa ambas bicapas.
   <!-- feedback: Incorrecto. En esta zona se acumulan protones transitoriamente para generar el gradiente quimiosmótico. -->
 - [ ] C) En las crestas formadas por la membrana mitocondrial interna.
   <!-- feedback: Incorrecto. En las crestas se localizan las proteínas de la cadena transportadora de electrones y la ATP sintasa. -->
@@ -424,9 +424,9 @@ La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en 
 ¿Cuál es la función del tilacoide en la ultraestructura del cloroplasto?
 
 ### Opciones
-- [x] A) Contener los fotosistemas y la cadena de transporte de electrones para la fase luminosa.
+- [x] B) Contener los fotosistemas y la cadena de transporte de electrones para la fase luminosa.
   <!-- feedback: Correcto. La membrana del tilacoide alberga la clorofila y proteínas necesarias para convertir energía solar en química. -->
-- [ ] B) Sintetizar la enzima Rubisco para iniciar el ciclo de Calvin fijador.
+- [ ] A) Sintetizar la enzima Rubisco para iniciar el ciclo de Calvin fijador.
   <!-- feedback: Incorrecto. El ciclo de Calvin y la síntesis de la enzima Rubisco ocurren en el estroma soluble. -->
 - [ ] C) Almacenar el almidón de reserva resultante del metabolismo celular nocturno.
   <!-- feedback: Incorrecto. Los granos de almidón se acumulan transitoriamente en el estroma, fuera de los tilacoides. -->
@@ -470,11 +470,11 @@ El retículo endoplasmático liso detoxifica xenobióticos mediante enzimas de l
 ¿Qué tipo de ambiente químico interno caracteriza a los lisosomas para permitir su correcto funcionamiento digestivo?
 
 ### Opciones
-- [x] A) Un ambiente ácido mantenido por bombas de protones activas que introducen iones H+.
+- [x] C) Un ambiente ácido mantenido por bombas de protones activas que introducen iones H+.
   <!-- feedback: Correcto. Las hidrolasas ácidas de los lisosomas requieren un pH óptimo cercano a 5.0 mantenido por bombas de protones. -->
-- [ ] B) Un medio alcalino concentrado con alta saturación de cationes de sodio.
+- [ ] A) Un medio alcalino concentrado con alta saturación de cationes de sodio.
   <!-- feedback: Incorrecto. Un medio básico desnaturaliza y desactiva las enzimas hidrolíticas lisosomales. -->
-- [ ] C) Una solución neutra isotónica con nula actividad enzimática hidrolítica.
+- [ ] B) Una solución neutra isotónica con nula actividad enzimática hidrolítica.
   <!-- feedback: Incorrecto. A pH neutro celular (~7.2) las enzimas lisosomales pierden eficacia catalítica. -->
 - [ ] D) Un fluido anhidro sin presencia de moléculas de agua reactivas.
   <!-- feedback: Incorrecto. Las hidrolasas requieren agua para romper enlaces químicos covalentes mediante hidrólisis. -->

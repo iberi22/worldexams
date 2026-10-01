@@ -32,9 +32,9 @@ Este bundle contiene 12 preguntas sobre **ciclos-biogeoquimicos** para grado 8, 
 ### Enunciado
 Que nombre recibe el proceso por el cual el agua pasa del estado liquido a vapor en los ecosistemas terrestres?
 ### Opciones
-- [x] A) Evaporacion
+- [x] B) Evaporacion
   <!-- feedback: Correcto. La evaporacion transforma el agua liquida en vapor por aumento de temperatura. -->
-- [ ] B) Condensacion
+- [ ] A) Condensacion
   <!-- feedback: Incorrecto. La condensacion transforma vapor en liquido, no liquido en vapor. -->
 - [ ] C) Precipitacion
   <!-- feedback: Incorrecto. La precipitacion es la caida de agua desde la atmósfera hacia la superficie. -->
@@ -52,11 +52,11 @@ Ciclo del agua: evaporacion $\to$ condensacion $\to$ precipitacion $\to$ escorre
 ### Enunciado
 Que gas es capturado de la atmósfera por las plantas durante la fotosíntesis y luego incorporado a compuestos organicos como la glucosa?
 ### Opciones
-- [x] A) Dioxido de carbono ($CO_2$)
+- [x] C) Dioxido de carbono ($CO_2$)
   <!-- feedback: Correcto. Las plantas toman $CO_2$ atmosferico y lo fijan en carbohidratos durante la fotosíntesis. -->
-- [ ] B) Nitrógeno molecular ($N_2$)
+- [ ] A) Nitrógeno molecular ($N_2$)
   <!-- feedback: Incorrecto. El $N_2$ atmosferico no se usa directamente en la fotosíntesis. -->
-- [ ] C) Oxígeno ($O_2$)
+- [ ] B) Oxígeno ($O_2$)
   <!-- feedback: Incorrecto. El $O_2$ se libera durante la fotosíntesis, no se captura. -->
 - [ ] D) Hidrógeno molecular ($H_2$)
   <!-- feedback: Incorrecto. El $H_2$ no es el gas capturado por las plantas en la fotosíntesis. -->
@@ -72,9 +72,9 @@ Fotosíntesis: $6CO_2 + 6H_2O \to C_6H_{12}O_6 + 6O_2$. El carbono del $CO_2$ se
 ### Enunciado
 Cuál es el proceso ecologico que relaciona el vertimiento de nitrógeno con la proliferacion de algas y la disminucion del oxígeno disuelto?
 ### Opciones
-- [x] A) Eutrofizacion
+- [x] B) Eutrofizacion
   <!-- feedback: Correcto. El exceso de nutrientes nitrogenados provoca crecimiento algal, sombra y muerte del ecosistema acuatico. -->
-- [ ] B) Fotosíntesis
+- [ ] A) Fotosíntesis
   <!-- feedback: Incorrecto. La fotosíntesis es beneficiosa y no implica exceso de nutrientes. -->
 - [ ] C) Nitrificacion controlada
   <!-- feedback: Incorrecto. La nitrificacion controlada no genera proliferacion algal nociva. -->
@@ -92,11 +92,11 @@ Eutrofizacion: enriquecimiento excesivo de nutrientes en el agua, proliferacion 
 ### Enunciado
 Cuál es el mecanismo por el cual las leguminosas enriquecen el suelo en nitrógeno aprovechable por otras plantas?
 ### Opciones
-- [x] A) Las bacterias fijadoras de nitrógeno en sus raíces convierten $N_2$ atmosferico en nitrógeno aprovechable.
+- [x] C) Las bacterias fijadoras de nitrógeno en sus raíces convierten $N_2$ atmosferico en nitrógeno aprovechable.
   <!-- feedback: Correcto. Las bacterias del genero Rhizobium fijan $N_2$ y lo entregan a la planta, que lo libera al suelo. -->
-- [ ] B) Las leguminosas producen nitrógeno a partir de fotosíntesis directa.
+- [ ] A) Las leguminosas producen nitrógeno a partir de fotosíntesis directa.
   <!-- feedback: Incorrecto. Las plantas no producen nitrógeno; necesitan fuentes externas. -->
-- [ ] C) Las leguminosas absorben nitrógeno del aire por las hojas.
+- [ ] B) Las leguminosas absorben nitrógeno del aire por las hojas.
   <!-- feedback: Incorrecto. El nitrógeno atmosferico no se absorbe foliarmente de manera significativa. -->
 - [ ] D) Las leguminosas eliminan nitrógeno del suelo durante la cosecha.
   <!-- feedback: Incorrecto. Mas bien aportan nitrógeno al ecosistema, no lo eliminan. -->
@@ -112,11 +112,11 @@ La simbiosis leguminosa-bacteria fija $N_2$ atmosferico en amonio, que luego se 
 ### Enunciado
 Cuál es el efecto ambiental mas directo de la liberacion de $SO_2$ atmosferico sobre los ecosistemas terrestres cercanos?
 ### Opciones
-- [x] A) Formacion de lluvia acida que acidifica suelos y cuerpos de agua.
+- [x] C) Formacion de lluvia acida que acidifica suelos y cuerpos de agua.
   <!-- feedback: Correcto. El $SO_2$ se oxida a ácido sulfurico y cae como lluvia acida, alterando el pH. -->
-- [ ] B) Aumento inmediato del pH del suelo y de los ríos cercanos.
+- [ ] A) Aumento inmediato del pH del suelo y de los ríos cercanos.
   <!-- feedback: Incorrecto. El efecto es acidificante, no basificante. -->
-- [ ] C) Incremento de la produccion primaria por mayor disponibilidad de azufre.
+- [ ] B) Incremento de la produccion primaria por mayor disponibilidad de azufre.
   <!-- feedback: Incorrecto. El azufre en exceso da la productividad vegetal y acidifica los ecosistemas. -->
 - [ ] D) Neutralizacion completa del efecto invernadero.
   <!-- feedback: Incorrecto. El $SO_2$ es un contaminante ácido, no un mitigante del efecto invernadero. -->
@@ -132,13 +132,13 @@ Lluvia acida: $SO_2$ y $NO_x$ atmosfericos reaccionan con vapor de agua formando
 ### Enunciado
 Cuál es el análisis correcto del impacto de la deforestacion sobre el ciclo global del carbono?
 ### Opciones
-- [x] A) Disminuye la fijacion de carbono por fotosíntesis y libera el carbono almacenado, elevando el $CO_2$ atmosferico.
+- [x] D) Disminuye la fijacion de carbono por fotosíntesis y libera el carbono almacenado, elevando el $CO_2$ atmosferico.
   <!-- feedback: Correcto. La deforestacion reduce la captura y libera el carbono del suelo y biomasa. -->
-- [ ] B) Aumenta la fijacion de carbono porque quedan mas espacios libres para nuevas plantas.
+- [ ] A) Aumenta la fijacion de carbono porque quedan mas espacios libres para nuevas plantas.
   <!-- feedback: Incorrecto. La ganaderia extensiva reemplaza bosques con pasturas de menor capacidad de fijacion. -->
-- [ ] C) La deforestacion no tiene relacion con el ciclo del carbono.
+- [ ] B) La deforestacion no tiene relacion con el ciclo del carbono.
   <!-- feedback: Incorrecto. La vegetacion es el principal sumidero de carbono terrestre. -->
-- [ ] D) Solo afecta el ciclo del nitrógeno y no el del carbono.
+- [ ] C) Solo afecta el ciclo del nitrógeno y no el del carbono.
   <!-- feedback: Incorrecto. Impacta directamente el ciclo del carbono y otros ciclos asociados. -->
 ### Explicacion Pedagogica
 Los bosques son sumideros de carbono. Su deforestacion altera el ciclo global del carbono al liberar $CO_2$ previamente fijado.
@@ -152,11 +152,11 @@ Los bosques son sumideros de carbono. Su deforestacion altera el ciclo global de
 ### Enunciado
 Cuál es el análisis correcto del fenomeno de lixiviacion en los suelos del Choco y su efecto en los ciclos biogeoquimicos?
 ### Opciones
-- [x] A) El agua arrastra nutrientes solubles como nitratos y potasio, impoverenciendo el suelo y alterando los ciclos locales.
+- [x] C) El agua arrastra nutrientes solubles como nitratos y potasio, impoverenciendo el suelo y alterando los ciclos locales.
   <!-- feedback: Correcto. La lixiviacion remueve nutrientes disponibles, reduciendo fertilidad y modificando ciclos locales. -->
-- [ ] B) La lixiviacion enriquece el suelo al depositar nuevos minerales.
+- [ ] A) La lixiviacion enriquece el suelo al depositar nuevos minerales.
   <!-- feedback: Incorrecto. La lixiviacion arrastra nutrientes, no los repone. -->
-- [ ] C) La lluvia solo afecta el ciclo del agua, ningun otro ciclo biogeoquimico.
+- [ ] B) La lluvia solo afecta el ciclo del agua, ningun otro ciclo biogeoquimico.
   <!-- feedback: Incorrecto. Altera ciclos de nitrógeno, fosforo, potasio y carbono del suelo. -->
 - [ ] D) La lixiviacion ocurre solo en zonas deserticas.
   <!-- feedback: Incorrecto. Ocurre también en regiones con alta pluviosidad como el Choco. -->
@@ -172,9 +172,9 @@ Lixiviacion: lavado de nutrientes del suelo por el agua, disminuyendo su fertili
 ### Enunciado
 Cuál es el análisis correcto del efecto del aumento de $CO_2$ atmosferico sobre el ciclo del carbono y el clima global?
 ### Opciones
-- [x] A) Incremento del efecto invernadero por acumulacion de $CO_2$, con aumento de la temperatura media del planeta.
+- [x] B) Incremento del efecto invernadero por acumulacion de $CO_2$, con aumento de la temperatura media del planeta.
   <!-- feedback: Correcto. El $CO_2$ atrapa radiacion infrarroja y contribuye al calentamiento global. -->
-- [ ] B) Disminucion del efecto invernadero por acumulacion de $CO_2$.
+- [ ] A) Disminucion del efecto invernadero por acumulacion de $CO_2$.
   <!-- feedback: Incorrecto. El $CO_2$ aumenta, no disminuye, el efecto invernadero. -->
 - [ ] C) El $CO_2$ atmosferico no tiene relacion con el clima del planeta.
   <!-- feedback: Incorrecto. Es uno de los principales gases de efecto invernadero. -->
@@ -192,9 +192,9 @@ El ciclo del carbono esta alterado por emisiones antropogenicas de $CO_2$, lo qu
 ### Enunciado
 Cuál es el análisis ecologico mas completo del fenomeno observado en el golfo de Uraba?
 ### Opciones
-- [x] A) Eutrofizacion por exceso de nutrientes, proliferacion algal, hipoxia y muerte de fauna marina.
+- [x] B) Eutrofizacion por exceso de nutrientes, proliferacion algal, hipoxia y muerte de fauna marina.
   <!-- feedback: Correcto. Es la secuencia clasica de eutrofizacion antropogenica en sistemas costeros. -->
-- [ ] B) Mayor produccion pesquera por enriquecimiento del agua con nutrientes.
+- [ ] A) Mayor produccion pesquera por enriquecimiento del agua con nutrientes.
   <!-- feedback: Incorrecto. El exceso de nutrientes causa colapso pesquero, no aumento. -->
 - [ ] C) Disminucion de nutrientes en el agua marina cercana a la costa.
   <!-- feedback: Incorrecto. Hay aumento de nutrientes, lo que dispara la eutrofizacion. -->
@@ -212,9 +212,9 @@ Vertidos ricos en nitrógeno y fosforo generan eutrofizacion, que altera el oxí
 ### Enunciado
 Cual de las siguientes afirmaciones evalua mejor el impacto potencial de la fumigacion sobre el ciclo del agua y la biodiversidad del parque?
 ### Opciones
-- [x] A) Los agroquimicos pueden contaminar fuentes de agua y suelos, alterando los ciclos biogeoquimicos y la fauna del parque.
+- [x] B) Los agroquimicos pueden contaminar fuentes de agua y suelos, alterando los ciclos biogeoquimicos y la fauna del parque.
   <!-- feedback: Correcto. Los agroquimicos afectan ciclos locales y la biota del area protegida. -->
-- [ ] B) El glifosato se evapora completamente sin dejar rastro en el agua ni en el suelo.
+- [ ] A) El glifosato se evapora completamente sin dejar rastro en el agua ni en el suelo.
   <!-- feedback: Incorrecto. El glifosato deja residuos en suelo y agua, con efectos ecologicos documentados. -->
 - [ ] C) La fumigacion solo afecta a los cultivos ilicitos, sin ningun impacto sobre parques cercanos.
   <!-- feedback: Incorrecto. La deriva y la escorrentia llevan los agroquimicos a zonas vecinas. -->
@@ -252,13 +252,13 @@ La disponibilidad de agua y nutrientes del suelo determina la productividad agri
 ### Enunciado
 Cual de los siguientes argumentos científicos respalda mejor esta politica ambiental desde la perspectiva del ciclo del carbono?
 ### Opciones
-- [x] A) Reducir emisiones de $CO_2$ disminuye la acumulacion atmosferica, mitigando el efecto invernadero y el cambio climatico.
+- [x] D) Reducir emisiones de $CO_2$ disminuye la acumulacion atmosferica, mitigando el efecto invernadero y el cambio climatico.
   <!-- feedback: Correcto. Disminuir emisiones contribuye a estabilizar el ciclo del carbono antropogenico. -->
-- [ ] B) Sustituir vehiculos por bicicletas elimina totalmente el $CO_2$ atmosferico del planeta.
+- [ ] A) Sustituir vehiculos por bicicletas elimina totalmente el $CO_2$ atmosferico del planeta.
   <!-- feedback: Incorrecto. La medida reduce emisiones mas no elimina el $CO_2$ acumulado. -->
-- [ ] C) El transporte eléctrico no genera impacto alguno en el ciclo del carbono.
+- [ ] B) El transporte eléctrico no genera impacto alguno en el ciclo del carbono.
   <!-- feedback: Incorrecto. La generacion eléctrica también tiene huella de carbono, aunque menor. -->
-- [ ] D) El cambio climatico no esta relacionado con el ciclo del carbono.
+- [ ] C) El cambio climatico no esta relacionado con el ciclo del carbono.
   <!-- feedback: Incorrecto. El ciclo del carbono es el principal regulador del clima terrestre. -->
 ### Explicacion Pedagogica
 Politicas de movilidad limpia reducen emisiones antropogenicas de $CO_2$, contribuyendo a mitigar la alteracion del ciclo del carbono y el cambio climatico.

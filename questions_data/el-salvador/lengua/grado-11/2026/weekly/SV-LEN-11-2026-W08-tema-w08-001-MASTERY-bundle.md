@@ -58,13 +58,13 @@ Este aspecto del Modernismo literario de El Salvador destaca por enriquecer y co
 Durante el análisis del Modernismo y las figuras clave de Gavidia y Ambrogi, se explica sobre la crónica detallista y poética de 'El libro del trópico' que eleva estéticamente la vida del campo salvadoreño. ¿Qué rasgo estilístico o histórico de este movimiento se está examinando?
 
 ### Opciones
-- [x] A) La importancia de costumbrismo modernista de Ambrogi.
+- [x] D) La importancia de costumbrismo modernista de Ambrogi.
   <!-- feedback: ¡Correcto! Es costumbrismo modernista de Ambrogi como factor de renovación y consolidación estética del Modernismo salvadoreño. -->
-- [ ] B) La lírica medieval del cantar de gesta castellano.
+- [ ] A) La lírica medieval del cantar de gesta castellano.
   <!-- feedback: Incorrecto. Se analiza la poesía y crónica del Modernismo de fin de siglo, no la épica medieval española. -->
-- [ ] C) Las funciones fática y metalingüística de la comunicación.
+- [ ] B) Las funciones fática y metalingüística de la comunicación.
   <!-- feedback: Incorrecto. No es un análisis pragmático de las funciones de la lengua, sino un estudio literario e histórico. -->
-- [ ] D) La sintaxis oracional de la voz pasiva analítica.
+- [ ] C) La sintaxis oracional de la voz pasiva analítica.
   <!-- feedback: Incorrecto. No se estudia gramática estructural ni sintaxis de oraciones, sino la historia de la literatura nacional. -->
 
 ### Explicación Pedagógica
@@ -110,9 +110,9 @@ Este aspecto del Modernismo literario de El Salvador destaca por enriquecer y co
 Durante el análisis del Modernismo y las figuras clave de Gavidia y Ambrogi, se explica sobre la asimilación salvadoreña de la rigidez de forma de los parnasianos y la sugerencia de la música de los simbolistas franceses. ¿Qué rasgo estilístico o histórico de este movimiento se está examinando?
 
 ### Opciones
-- [x] A) La importancia de influencia de parnasianos y simbolistas.
+- [x] B) La importancia de influencia de parnasianos y simbolistas.
   <!-- feedback: ¡Correcto! Es influencia de parnasianos y simbolistas como factor de renovación y consolidación estética del Modernismo salvadoreño. -->
-- [ ] B) La lírica medieval del cantar de gesta castellano.
+- [ ] A) La lírica medieval del cantar de gesta castellano.
   <!-- feedback: Incorrecto. Se analiza la poesía y crónica del Modernismo de fin de siglo, no la épica medieval española. -->
 - [ ] C) Las funciones fática y metalingüística de la comunicación.
   <!-- feedback: Incorrecto. No es un análisis pragmático de las funciones de la lengua, sino un estudio literario e histórico. -->
@@ -136,9 +136,9 @@ Este aspecto del Modernismo literario de El Salvador destaca por enriquecer y co
 Durante el análisis del Modernismo y las figuras clave de Gavidia y Ambrogi, se explica sobre el trabajo del intelectual salvadoreño de traducir a grandes poetas franceses como Víctor Hugo para dinamizar la lírica. ¿Qué rasgo estilístico o histórico de este movimiento se está examinando?
 
 ### Opciones
-- [x] A) La importancia de traducciones modernistas de Gavidia.
+- [x] B) La importancia de traducciones modernistas de Gavidia.
   <!-- feedback: ¡Correcto! Es traducciones modernistas de Gavidia como factor de renovación y consolidación estética del Modernismo salvadoreño. -->
-- [ ] B) La lírica medieval del cantar de gesta castellano.
+- [ ] A) La lírica medieval del cantar de gesta castellano.
   <!-- feedback: Incorrecto. Se analiza la poesía y crónica del Modernismo de fin de siglo, no la épica medieval española. -->
 - [ ] C) Las funciones fática y metalingüística de la comunicación.
   <!-- feedback: Incorrecto. No es un análisis pragmático de las funciones de la lengua, sino un estudio literario e histórico. -->
@@ -162,13 +162,13 @@ Este aspecto del Modernismo literario de El Salvador destaca por enriquecer y co
 Durante el análisis del Modernismo y las figuras clave de Gavidia y Ambrogi, se explica sobre el retrato detallista de la molienda de caña, las carretas y los cafetales bajo un lenguaje sonoro y colorido. ¿Qué rasgo estilístico o histórico de este movimiento se está examinando?
 
 ### Opciones
-- [x] A) La importancia de descripción poética del campo.
+- [x] D) La importancia de descripción poética del campo.
   <!-- feedback: ¡Correcto! Es descripción poética del campo como factor de renovación y consolidación estética del Modernismo salvadoreño. -->
-- [ ] B) La lírica medieval del cantar de gesta castellano.
+- [ ] A) La lírica medieval del cantar de gesta castellano.
   <!-- feedback: Incorrecto. Se analiza la poesía y crónica del Modernismo de fin de siglo, no la épica medieval española. -->
-- [ ] C) Las funciones fática y metalingüística de la comunicación.
+- [ ] B) Las funciones fática y metalingüística de la comunicación.
   <!-- feedback: Incorrecto. No es un análisis pragmático de las funciones de la lengua, sino un estudio literario e histórico. -->
-- [ ] D) La sintaxis oracional de la voz pasiva analítica.
+- [ ] C) La sintaxis oracional de la voz pasiva analítica.
   <!-- feedback: Incorrecto. No se estudia gramática estructural ni sintaxis de oraciones, sino la historia de la literatura nacional. -->
 
 ### Explicación Pedagógica
@@ -188,13 +188,13 @@ Este aspecto del Modernismo literario de El Salvador destaca por enriquecer y co
 Durante el análisis del Modernismo y las figuras clave de Gavidia y Ambrogi, se explica sobre el uso recurrente de la figura del majestuoso cisne, el color azul y los palacios lejanos como ideales de arte puro. ¿Qué rasgo estilístico o histórico de este movimiento se está examinando?
 
 ### Opciones
-- [x] A) La importancia de símbolos estéticos modernistas.
+- [x] D) La importancia de símbolos estéticos modernistas.
   <!-- feedback: ¡Correcto! Es símbolos estéticos modernistas como factor de renovación y consolidación estética del Modernismo salvadoreño. -->
-- [ ] B) La lírica medieval del cantar de gesta castellano.
+- [ ] A) La lírica medieval del cantar de gesta castellano.
   <!-- feedback: Incorrecto. Se analiza la poesía y crónica del Modernismo de fin de siglo, no la épica medieval española. -->
-- [ ] C) Las funciones fática y metalingüística de la comunicación.
+- [ ] B) Las funciones fática y metalingüística de la comunicación.
   <!-- feedback: Incorrecto. No es un análisis pragmático de las funciones de la lengua, sino un estudio literario e histórico. -->
-- [ ] D) La sintaxis oracional de la voz pasiva analítica.
+- [ ] C) La sintaxis oracional de la voz pasiva analítica.
   <!-- feedback: Incorrecto. No se estudia gramática estructural ni sintaxis de oraciones, sino la historia de la literatura nacional. -->
 
 ### Explicación Pedagógica
@@ -214,9 +214,9 @@ Este aspecto del Modernismo literario de El Salvador destaca por enriquecer y co
 Durante el análisis del Modernismo y las figuras clave de Gavidia y Ambrogi, se explica sobre la flexibilización de las estrofas tradicionales que trajo el Modernismo para romper con el frío didactismo neoclásico. ¿Qué rasgo estilístico o histórico de este movimiento se está examinando?
 
 ### Opciones
-- [x] A) La importancia de renovación métrica del verso.
+- [x] B) La importancia de renovación métrica del verso.
   <!-- feedback: ¡Correcto! Es renovación métrica del verso como factor de renovación y consolidación estética del Modernismo salvadoreño. -->
-- [ ] B) La lírica medieval del cantar de gesta castellano.
+- [ ] A) La lírica medieval del cantar de gesta castellano.
   <!-- feedback: Incorrecto. Se analiza la poesía y crónica del Modernismo de fin de siglo, no la épica medieval española. -->
 - [ ] C) Las funciones fática y metalingüística de la comunicación.
   <!-- feedback: Incorrecto. No es un análisis pragmático de las funciones de la lengua, sino un estudio literario e histórico. -->
@@ -240,13 +240,13 @@ Este aspecto del Modernismo literario de El Salvador destaca por enriquecer y co
 Durante el análisis del Modernismo y las figuras clave de Gavidia y Ambrogi, se explica sobre la trayectoria del autor salvadoreño que cultivó con maestría el teatro, la poesía, el periodismo y la investigación histórica. ¿Qué rasgo estilístico o histórico de este movimiento se está examinando?
 
 ### Opciones
-- [x] A) La importancia de Gavidia como polímata humanista.
+- [x] D) La importancia de Gavidia como polímata humanista.
   <!-- feedback: ¡Correcto! Es Gavidia como polímata humanista como factor de renovación y consolidación estética del Modernismo salvadoreño. -->
-- [ ] B) La lírica medieval del cantar de gesta castellano.
+- [ ] A) La lírica medieval del cantar de gesta castellano.
   <!-- feedback: Incorrecto. Se analiza la poesía y crónica del Modernismo de fin de siglo, no la épica medieval española. -->
-- [ ] C) Las funciones fática y metalingüística de la comunicación.
+- [ ] B) Las funciones fática y metalingüística de la comunicación.
   <!-- feedback: Incorrecto. No es un análisis pragmático de las funciones de la lengua, sino un estudio literario e histórico. -->
-- [ ] D) La sintaxis oracional de la voz pasiva analítica.
+- [ ] C) La sintaxis oracional de la voz pasiva analítica.
   <!-- feedback: Incorrecto. No se estudia gramática estructural ni sintaxis de oraciones, sino la historia de la literatura nacional. -->
 
 ### Explicación Pedagógica
@@ -266,11 +266,11 @@ Este aspecto del Modernismo literario de El Salvador destaca por enriquecer y co
 Durante el análisis del Modernismo y las figuras clave de Gavidia y Ambrogi, se explica sobre el paisaje del trópico salvadoreño descrito por Ambrogi no con rudeza cruda, sino con elegancia expresiva y pinceladas líricas. ¿Qué rasgo estilístico o histórico de este movimiento se está examinando?
 
 ### Opciones
-- [x] A) La importancia de paisaje rural bajo el lente poético.
+- [x] C) La importancia de paisaje rural bajo el lente poético.
   <!-- feedback: ¡Correcto! Es paisaje rural bajo el lente poético como factor de renovación y consolidación estética del Modernismo salvadoreño. -->
-- [ ] B) La lírica medieval del cantar de gesta castellano.
+- [ ] A) La lírica medieval del cantar de gesta castellano.
   <!-- feedback: Incorrecto. Se analiza la poesía y crónica del Modernismo de fin de siglo, no la épica medieval española. -->
-- [ ] C) Las funciones fática y metalingüística de la comunicación.
+- [ ] B) Las funciones fática y metalingüística de la comunicación.
   <!-- feedback: Incorrecto. No es un análisis pragmático de las funciones de la lengua, sino un estudio literario e histórico. -->
 - [ ] D) La sintaxis oracional de la voz pasiva analítica.
   <!-- feedback: Incorrecto. No se estudia gramática estructural ni sintaxis de oraciones, sino la historia de la literatura nacional. -->
@@ -292,9 +292,9 @@ Este aspecto del Modernismo literario de El Salvador destaca por enriquecer y co
 Durante el análisis del Modernismo y las figuras clave de Gavidia y Ambrogi, se explica sobre el retrato literario digno del cortador de café, el arriero y la molienda como personajes representativos de la patria. ¿Qué rasgo estilístico o histórico de este movimiento se está examinando?
 
 ### Opciones
-- [x] A) La importancia de tipos humanos de la campiña.
+- [x] B) La importancia de tipos humanos de la campiña.
   <!-- feedback: ¡Correcto! Es tipos humanos de la campiña como factor de renovación y consolidación estética del Modernismo salvadoreño. -->
-- [ ] B) La lírica medieval del cantar de gesta castellano.
+- [ ] A) La lírica medieval del cantar de gesta castellano.
   <!-- feedback: Incorrecto. Se analiza la poesía y crónica del Modernismo de fin de siglo, no la épica medieval española. -->
 - [ ] C) Las funciones fática y metalingüística de la comunicación.
   <!-- feedback: Incorrecto. No es un análisis pragmático de las funciones de la lengua, sino un estudio literario e histórico. -->
@@ -318,11 +318,11 @@ Este aspecto del Modernismo literario de El Salvador destaca por enriquecer y co
 Durante el análisis del Modernismo y las figuras clave de Gavidia y Ambrogi, se explica sobre el histórico encuentro en San Salvador donde Gavidia le enseña a Darío el secreto del alejandrino francés. ¿Qué rasgo estilístico o histórico de este movimiento se está examinando?
 
 ### Opciones
-- [x] A) La importancia de amistad de Gavidia y Rubén Darío.
+- [x] C) La importancia de amistad de Gavidia y Rubén Darío.
   <!-- feedback: ¡Correcto! Es amistad de Gavidia y Rubén Darío como factor de renovación y consolidación estética del Modernismo salvadoreño. -->
-- [ ] B) La lírica medieval del cantar de gesta castellano.
+- [ ] A) La lírica medieval del cantar de gesta castellano.
   <!-- feedback: Incorrecto. Se analiza la poesía y crónica del Modernismo de fin de siglo, no la épica medieval española. -->
-- [ ] C) Las funciones fática y metalingüística de la comunicación.
+- [ ] B) Las funciones fática y metalingüística de la comunicación.
   <!-- feedback: Incorrecto. No es un análisis pragmático de las funciones de la lengua, sino un estudio literario e histórico. -->
 - [ ] D) La sintaxis oracional de la voz pasiva analítica.
   <!-- feedback: Incorrecto. No se estudia gramática estructural ni sintaxis de oraciones, sino la historia de la literatura nacional. -->
@@ -344,11 +344,11 @@ Este aspecto del Modernismo literario de El Salvador destaca por enriquecer y co
 Durante el análisis del Modernismo y las figuras clave de Gavidia y Ambrogi, se explica sobre la apertura de los escritores locales hacia las culturas de Europa y Oriente como una forma de internacionalizar el arte patrio. ¿Qué rasgo estilístico o histórico de este movimiento se está examinando?
 
 ### Opciones
-- [x] A) La importancia de cosmopolitismo modernista.
+- [x] C) La importancia de cosmopolitismo modernista.
   <!-- feedback: ¡Correcto! Es cosmopolitismo modernista como factor de renovación y consolidación estética del Modernismo salvadoreño. -->
-- [ ] B) La lírica medieval del cantar de gesta castellano.
+- [ ] A) La lírica medieval del cantar de gesta castellano.
   <!-- feedback: Incorrecto. Se analiza la poesía y crónica del Modernismo de fin de siglo, no la épica medieval española. -->
-- [ ] C) Las funciones fática y metalingüística de la comunicación.
+- [ ] B) Las funciones fática y metalingüística de la comunicación.
   <!-- feedback: Incorrecto. No es un análisis pragmático de las funciones de la lengua, sino un estudio literario e histórico. -->
 - [ ] D) La sintaxis oracional de la voz pasiva analítica.
   <!-- feedback: Incorrecto. No se estudia gramática estructural ni sintaxis de oraciones, sino la historia de la literatura nacional. -->
@@ -396,11 +396,11 @@ Este aspecto del Modernismo literario de El Salvador destaca por enriquecer y co
 Durante el análisis del Modernismo y las figuras clave de Gavidia y Ambrogi, se explica sobre la coexistencia poética de dioses griegos de la mitología clásica junto a los volcanes y cafetales de El Salvador. ¿Qué rasgo estilístico o histórico de este movimiento se está examinando?
 
 ### Opciones
-- [x] A) La importancia de sincretismo de mitos y realidad.
+- [x] C) La importancia de sincretismo de mitos y realidad.
   <!-- feedback: ¡Correcto! Es sincretismo de mitos y realidad como factor de renovación y consolidación estética del Modernismo salvadoreño. -->
-- [ ] B) La lírica medieval del cantar de gesta castellano.
+- [ ] A) La lírica medieval del cantar de gesta castellano.
   <!-- feedback: Incorrecto. Se analiza la poesía y crónica del Modernismo de fin de siglo, no la épica medieval española. -->
-- [ ] C) Las funciones fática y metalingüística de la comunicación.
+- [ ] B) Las funciones fática y metalingüística de la comunicación.
   <!-- feedback: Incorrecto. No es un análisis pragmático de las funciones de la lengua, sino un estudio literario e histórico. -->
 - [ ] D) La sintaxis oracional de la voz pasiva analítica.
   <!-- feedback: Incorrecto. No se estudia gramática estructural ni sintaxis de oraciones, sino la historia de la literatura nacional. -->
@@ -422,11 +422,11 @@ Este aspecto del Modernismo literario de El Salvador destaca por enriquecer y co
 Durante el análisis del Modernismo y las figuras clave de Gavidia y Ambrogi, se explica sobre la publicación periódica fundada por Francisco Gavidia en San Salvador para promover las ideas del Modernismo y la ciencia. ¿Qué rasgo estilístico o histórico de este movimiento se está examinando?
 
 ### Opciones
-- [x] A) La importancia de la revista literaria La Quincena.
+- [x] C) La importancia de la revista literaria La Quincena.
   <!-- feedback: ¡Correcto! Es la revista literaria La Quincena como factor de renovación y consolidación estética del Modernismo salvadoreño. -->
-- [ ] B) La lírica medieval del cantar de gesta castellano.
+- [ ] A) La lírica medieval del cantar de gesta castellano.
   <!-- feedback: Incorrecto. Se analiza la poesía y crónica del Modernismo de fin de siglo, no la épica medieval española. -->
-- [ ] C) Las funciones fática y metalingüística de la comunicación.
+- [ ] B) Las funciones fática y metalingüística de la comunicación.
   <!-- feedback: Incorrecto. No es un análisis pragmático de las funciones de la lengua, sino un estudio literario e histórico. -->
 - [ ] D) La sintaxis oracional de la voz pasiva analítica.
   <!-- feedback: Incorrecto. No se estudia gramática estructural ni sintaxis de oraciones, sino la historia de la literatura nacional. -->
@@ -448,13 +448,13 @@ Este aspecto del Modernismo literario de El Salvador destaca por enriquecer y co
 Durante el análisis del Modernismo y las figuras clave de Gavidia y Ambrogi, se explica sobre los relatos escritos por Ambrogi durante sus viajes por el lejano Oriente y Europa, que aportaron exotismo a la prosa nacional. ¿Qué rasgo estilístico o histórico de este movimiento se está examinando?
 
 ### Opciones
-- [x] A) La importancia de crónicas viajeras de Ambrogi.
+- [x] D) La importancia de crónicas viajeras de Ambrogi.
   <!-- feedback: ¡Correcto! Es crónicas viajeras de Ambrogi como factor de renovación y consolidación estética del Modernismo salvadoreño. -->
-- [ ] B) La lírica medieval del cantar de gesta castellano.
+- [ ] A) La lírica medieval del cantar de gesta castellano.
   <!-- feedback: Incorrecto. Se analiza la poesía y crónica del Modernismo de fin de siglo, no la épica medieval española. -->
-- [ ] C) Las funciones fática y metalingüística de la comunicación.
+- [ ] B) Las funciones fática y metalingüística de la comunicación.
   <!-- feedback: Incorrecto. No es un análisis pragmático de las funciones de la lengua, sino un estudio literario e histórico. -->
-- [ ] D) La sintaxis oracional de la voz pasiva analítica.
+- [ ] C) La sintaxis oracional de la voz pasiva analítica.
   <!-- feedback: Incorrecto. No se estudia gramática estructural ni sintaxis de oraciones, sino la historia de la literatura nacional. -->
 
 ### Explicación Pedagógica
@@ -474,11 +474,11 @@ Este aspecto del Modernismo literario de El Salvador destaca por enriquecer y co
 Durante el análisis del Modernismo y las figuras clave de Gavidia y Ambrogi, se explica sobre la postura modernista de que el arte debe buscar la belleza estética por sí misma y no la enseñanza moral o política directa. ¿Qué rasgo estilístico o histórico de este movimiento se está examinando?
 
 ### Opciones
-- [x] A) La importancia de rechazo al didactismo neoclásico.
+- [x] C) La importancia de rechazo al didactismo neoclásico.
   <!-- feedback: ¡Correcto! Es rechazo al didactismo neoclásico como factor de renovación y consolidación estética del Modernismo salvadoreño. -->
-- [ ] B) La lírica medieval del cantar de gesta castellano.
+- [ ] A) La lírica medieval del cantar de gesta castellano.
   <!-- feedback: Incorrecto. Se analiza la poesía y crónica del Modernismo de fin de siglo, no la épica medieval española. -->
-- [ ] C) Las funciones fática y metalingüística de la comunicación.
+- [ ] B) Las funciones fática y metalingüística de la comunicación.
   <!-- feedback: Incorrecto. No es un análisis pragmático de las funciones de la lengua, sino un estudio literario e histórico. -->
 - [ ] D) La sintaxis oracional de la voz pasiva analítica.
   <!-- feedback: Incorrecto. No se estudia gramática estructural ni sintaxis de oraciones, sino la historia de la literatura nacional. -->
@@ -500,13 +500,13 @@ Este aspecto del Modernismo literario de El Salvador destaca por enriquecer y co
 Durante el análisis del Modernismo y las figuras clave de Gavidia y Ambrogi, se explica sobre la estructura poética de catorce sílabas por verso que el Modernismo rescató y popularizó en América Latina. ¿Qué rasgo estilístico o histórico de este movimiento se está examinando?
 
 ### Opciones
-- [x] A) La importancia de soneto alejandrino modernista.
+- [x] D) La importancia de soneto alejandrino modernista.
   <!-- feedback: ¡Correcto! Es soneto alejandrino modernista como factor de renovación y consolidación estética del Modernismo salvadoreño. -->
-- [ ] B) La lírica medieval del cantar de gesta castellano.
+- [ ] A) La lírica medieval del cantar de gesta castellano.
   <!-- feedback: Incorrecto. Se analiza la poesía y crónica del Modernismo de fin de siglo, no la épica medieval española. -->
-- [ ] C) Las funciones fática y metalingüística de la comunicación.
+- [ ] B) Las funciones fática y metalingüística de la comunicación.
   <!-- feedback: Incorrecto. No es un análisis pragmático de las funciones de la lengua, sino un estudio literario e histórico. -->
-- [ ] D) La sintaxis oracional de la voz pasiva analítica.
+- [ ] C) La sintaxis oracional de la voz pasiva analítica.
   <!-- feedback: Incorrecto. No se estudia gramática estructural ni sintaxis de oraciones, sino la historia de la literatura nacional. -->
 
 ### Explicación Pedagógica

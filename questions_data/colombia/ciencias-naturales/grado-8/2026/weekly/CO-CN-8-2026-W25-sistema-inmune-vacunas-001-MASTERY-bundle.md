@@ -80,13 +80,13 @@ Las vacunas son preparados biológicos que contienen agentes infecciosos muertos
 ¿Cuál es la diferencia principal entre la inmunidad innata y la inmunidad adquirida en el cuerpo humano?
 
 ### Opciones
-- [x] A) La innata es general y está presente desde el nacimiento; la adquirida se desarrolla después del contacto con un antígeno específico o por vacunación.
+- [x] D) La innata es general y está presente desde el nacimiento; la adquirida se desarrolla después del contacto con un antígeno específico o por vacunación.
   <!-- feedback: Correcto. La inmunidad innata es inespecífica y heredada; la adquirida es específica y se genera tras la exposición a un patógeno o vacuna. -->
-- [ ] B) La innata solo se encuentra en adultos y la adquirida solo en niños pequeños.
+- [ ] A) La innata solo se encuentra en adultos y la adquirida solo en niños pequeños.
   <!-- feedback: Incorrecto. La inmunidad innata está presente durante toda la vida y la adquirida se desarrolla con el tiempo a partir del nacimiento. -->
-- [ ] C) La innata protege únicamente contra virus y la adquirida únicamente contra bacterias.
+- [ ] B) La innata protege únicamente contra virus y la adquirida únicamente contra bacterias.
   <!-- feedback: Incorrecto. Ambos tipos de inmunidad pueden actuar contra virus, bacterias y otros patógenos. -->
-- [ ] D) La innata requiere anticuerpos y la adquirida no requiere ninguna molécula del sistema inmune.
+- [ ] C) La innata requiere anticuerpos y la adquirida no requiere ninguna molécula del sistema inmune.
   <!-- feedback: Incorrecto. La inmunidad innata utiliza barreras, células fagocíticas y complemento, pero no anticuerpos específicos; la adquirida sí los produce. -->
 
 ### Explicacion Pedagogica
@@ -103,9 +103,9 @@ La inmunidad innata es la primera línea de defensa, presente desde el nacimient
 Si la vacuna BCG protege contra formas graves de tuberculosis, ¿por qué se aplica al recién nacido en sus primeros días de vida en lugar de esperar a que crezca?
 
 ### Opciones
-- [x] A) Porque el sistema inmune del recién nacido puede montar una respuesta protectora, y aplicarla temprano genera memoria inmunológica antes de la posible exposición.
+- [x] B) Porque el sistema inmune del recién nacido puede montar una respuesta protectora, y aplicarla temprano genera memoria inmunológica antes de la posible exposición.
   <!-- feedback: Correcto. Aplicar la BCG al nacer aprovecha la capacidad del sistema inmune neonatal y protege al bebé antes de cualquier contacto con la bacteria. -->
-- [ ] B) Porque los recién nacidos no tienen sistema inmune y la vacuna es la única forma de protegerlos de todas las enfermedades.
+- [ ] A) Porque los recién nacidos no tienen sistema inmune y la vacuna es la única forma de protegerlos de todas las enfermedades.
   <!-- feedback: Incorrecto. Los recién nacidos sí tienen un sistema inmune funcional, aunque inmaduro; la BCG estimula parte de esa defensa. -->
 - [ ] C) Porque la BCG solo funciona en las primeras 24 horas de vida y pierde efecto después.
   <!-- feedback: Incorrecto. La BCG puede aplicarse con éxito en otras etapas, pero el PAI recomienda hacerlo al nacer para máxima protección temprana. -->
@@ -126,11 +126,11 @@ La vacuna BCG (Bacilo de Calmette-Guérin) protege contra las formas graves de t
 ¿Por qué algunos compañeros se contagian del resfriado y otros no, aunque estén expuestos al mismo virus en el mismo salón?
 
 ### Opciones
-- [x] A) Porque el estado del sistema inmune de cada persona es diferente: algunos tienen anticuerpos previos por vacunaciones o resfriados anteriores, mientras que otros no.
+- [x] C) Porque el estado del sistema inmune de cada persona es diferente: algunos tienen anticuerpos previos por vacunaciones o resfriados anteriores, mientras que otros no.
   <!-- feedback: Correcto. La inmunidad varía según el historial de cada persona: vacunaciones, infecciones previas o estado de salud general determinan la susceptibilidad. -->
-- [ ] B) Porque todos los compañeros se contagian en realidad, pero algunos no presentan síntomas visibles durante la clase.
+- [ ] A) Porque todos los compañeros se contagian en realidad, pero algunos no presentan síntomas visibles durante la clase.
   <!-- feedback: Incorrecto. Los mecanismos inmunológicos individuales hacen que algunas personas eliminen el virus sin desarrollar síntomas clínicos evidentes. -->
-- [ ] C) Porque solo se contagian quienes están sentados más cerca del estudiante enfermo, sin importar su estado inmune.
+- [ ] B) Porque solo se contagian quienes están sentados más cerca del estudiante enfermo, sin importar su estado inmune.
   <!-- feedback: Incorrecto. La distancia influye pero no es el único factor; el estado inmune personal es determinante. -->
 - [ ] D) Porque el virus del resfriado cambia su forma cada hora y solo afecta a ciertos estudiantes al azar.
   <!-- feedback: Incorrecto. Los virus pueden mutar, pero no de manera tan rápida ni selectiva; la causa principal es la inmunidad individual. -->
@@ -149,11 +149,11 @@ La susceptibilidad a una infección varía entre individuos según su estado inm
 Si en algunas zonas de Bogotá la cobertura de la vacuna contra el VPH es del 30 % mientras en otras alcanza el 90 %, ¿qué factores explican esta diferencia?
 
 ### Opciones
-- [x] A) La desinformación, las creencias culturales, el acceso geográfico a los puntos de vacunación y la capacidad del sistema de salud local para convocar a los padres.
+- [x] C) La desinformación, las creencias culturales, el acceso geográfico a los puntos de vacunación y la capacidad del sistema de salud local para convocar a los padres.
   <!-- feedback: Correcto. La cobertura depende de múltiples factores socioculturales, geográficos y operativos que varían entre barrios y municipios. -->
-- [ ] B) El tipo de sangre de los estudiantes, que hace que algunos necesiten la vacuna y otros no.
+- [ ] A) El tipo de sangre de los estudiantes, que hace que algunos necesiten la vacuna y otros no.
   <!-- feedback: Incorrecto. El tipo de sangre no determina la necesidad de la vacuna contra el VPH; todos los adolescentes en edad de riesgo deben recibirla. -->
-- [ ] C) La diferencia de género, porque la vacuna solo se aplica a mujeres en el esquema colombiano.
+- [ ] B) La diferencia de género, porque la vacuna solo se aplica a mujeres en el esquema colombiano.
   <!-- feedback: Incorrecto. El esquema colombiano incluye a niños y niñas para prevenir cánceres asociados al VPH en ambos sexos. -->
 - [ ] D) La estación del año, porque la vacuna solo es efectiva cuando se aplica en verano austral.
   <!-- feedback: Incorrecto. La vacuna se puede aplicar en cualquier época del año; no depende de la estación climática. -->
@@ -172,13 +172,13 @@ La cobertura de vacunación varía entre regiones por múltiples factores. La de
 Si la nueva vacuna contra el dengue estimula la producción de anticuerpos específicos, ¿cómo actúan estos anticuerpos para proteger a la persona vacunada?
 
 ### Opciones
-- [x] A) Los anticuerpos se unen a las partículas del virus y las marcan para que otras células inmunes las destruyan o neutralicen su capacidad de infectar.
+- [x] D) Los anticuerpos se unen a las partículas del virus y las marcan para que otras células inmunes las destruyan o neutralicen su capacidad de infectar.
   <!-- feedback: Correcto. Los anticuerpos neutralizan virus marcándolos para destrucción por macrófagos y otras células inmunitarias. -->
-- [ ] B) Los anticuerpos destruyen directamente las células del hígado donde se reproduce el virus del dengue.
+- [ ] A) Los anticuerpos destruyen directamente las células del hígado donde se reproduce el virus del dengue.
   <!-- feedback: Incorrecto. Los anticuerpos no destruyen células hepáticas; marcan al virus para su eliminación por el sistema inmune. -->
-- [ ] C) Los anticuerpos son proteínas que se convierten en glóbulos rojos para mejorar la oxigenación durante la infección.
+- [ ] B) Los anticuerpos son proteínas que se convierten en glóbulos rojos para mejorar la oxigenación durante la infección.
   <!-- feedback: Incorrecto. Los anticuerpos son inmunoglobulinas, no glóbulos rojos; su función es reconocer antígenos específicos. -->
-- [ ] D) Los anticuerpos calientan la sangre del paciente para matar al virus del dengue por temperatura.
+- [ ] C) Los anticuerpos calientan la sangre del paciente para matar al virus del dengue por temperatura.
   <!-- feedback: Incorrecto. Los anticuerpos no calientan la sangre; la fiebre es una respuesta del cuerpo regulada por el hipotálamo, no por anticuerpos. -->
 
 ### Explicacion Pedagogica
@@ -264,13 +264,13 @@ Ante un caso de paperas, la respuesta de salud pública incluye: aislamiento del
 Evalúe los argumentos a favor y en contra de la obligatoriedad de la vacunación infantil en Colombia, considerando la ética, la salud pública y los derechos individuales.
 
 ### Opciones
-- [x] A) La obligatoriedad protege a los más vulnerables mediante la inmunidad colectiva, pero debe respetar excepciones médicas y contemplar educación para reducir la resistencia informada.
+- [x] D) La obligatoriedad protege a los más vulnerables mediante la inmunidad colectiva, pero debe respetar excepciones médicas y contemplar educación para reducir la resistencia informada.
   <!-- feedback: Correcto. El argumento pondera la protección comunitaria con el respeto a excepciones clínicas justificadas y la necesidad de diálogo educativo. -->
-- [ ] B) La obligatoriedad es siempre correcta y debe imponerse sin excepciones ni diálogo, porque las vacunas nunca tienen efectos adversos.
+- [ ] A) La obligatoriedad es siempre correcta y debe imponerse sin excepciones ni diálogo, porque las vacunas nunca tienen efectos adversos.
   <!-- feedback: Incorrecto. Las vacunas pueden tener efectos adversos leves y muy raramente graves; deben existir excepciones médicas justificadas. -->
-- [ ] C) La decisión de los padres debe respetarse totalmente, sin importar las consecuencias para la comunidad.
+- [ ] B) La decisión de los padres debe respetarse totalmente, sin importar las consecuencias para la comunidad.
   <!-- feedback: Incorrecto. Una decisión individual que pone en riesgo a la comunidad por falta de inmunidad colectiva no es éticamente aceptable en salud pública. -->
-- [ ] D) La obligatoriedad solo es válida si las vacunas fueran completamente gratuitas, lo cual no ocurre en Colombia.
+- [ ] C) La obligatoriedad solo es válida si las vacunas fueran completamente gratuitas, lo cual no ocurre en Colombia.
   <!-- feedback: Incorrecto. El PAI ofrece vacunas gratuitas en todo el país; el costo no es una barrera para la obligatoriedad en este caso. -->
 
 ### Explicacion Pedagogica

@@ -32,11 +32,11 @@ Este bundle contiene 12 preguntas sobre **teorema-seno-coseno** para grado 10, a
 ### Enunciado
 ¿Cuál es la forma general de la ley de los senos para un triángulo $ABC$ con lados $a$, $b$, $c$?
 ### Opciones
-- [x] A) $\frac{a}{\operatorname{sen} A} = \frac{b}{\operatorname{sen} B} = \frac{c}{\operatorname{sen} C}$
+- [x] C) $\frac{a}{\operatorname{sen} A} = \frac{b}{\operatorname{sen} B} = \frac{c}{\operatorname{sen} C}$
   <!-- feedback: Correcto. Cada lado es proporcional al seno de su ángulo opuesto. -->
-- [ ] B) $\frac{\operatorname{sen} A}{a} = \frac{b}{\operatorname{sen} B}$
+- [ ] A) $\frac{\operatorname{sen} A}{a} = \frac{b}{\operatorname{sen} B}$
   <!-- feedback: Incorrecto. La relación debe mantener el mismo orden lado-seno en todas las razones. -->
-- [ ] C) $a^2 = b^2 + c^2 - 2bc\cos A$
+- [ ] B) $a^2 = b^2 + c^2 - 2bc\cos A$
   <!-- feedback: Incorrecto. Esta es la ley del coseno, no la de los senos. -->
 - [ ] D) $\frac{a}{b} = \frac{A}{B}$
   <!-- feedback: Incorrecto. No se relacionan lados con ángulos directamente, sino con senos. -->
@@ -52,11 +52,11 @@ La ley de los senos establece que la razón entre cada lado y el seno de su áng
 ### Enunciado
 En un triángulo con lados $a$, $b$, $c$ y ángulo $C$ opuesto a $c$, ¿cuál es la forma correcta de la ley del coseno?
 ### Opciones
-- [x] A) $c^2 = a^2 + b^2 - 2ab\cos C$
+- [x] C) $c^2 = a^2 + b^2 - 2ab\cos C$
   <!-- feedback: Correcto. El cuadrado del lado buscado es la suma de cuadrados menos el doble producto por el coseno del ángulo opuesto. -->
-- [ ] B) $c^2 = a^2 + b^2 + 2ab\cos C$
+- [ ] A) $c^2 = a^2 + b^2 + 2ab\cos C$
   <!-- feedback: Incorrecto. El signo del término con coseno es negativo. -->
-- [ ] C) $c^2 = a^2 - b^2 - 2ab\cos C$
+- [ ] B) $c^2 = a^2 - b^2 - 2ab\cos C$
   <!-- feedback: Incorrecto. La suma de cuadrados es $a^2 + b^2$. -->
 - [ ] D) $c = a + b - 2ab\cos C$
   <!-- feedback: Incorrecto. La ley involucra cuadrados de los lados. -->
@@ -72,11 +72,11 @@ La ley del coseno generaliza el teorema de Pitágoras: $c^2 = a^2 + b^2 - 2ab\co
 ### Enunciado
 ¿Cuándo es más conveniente usar la ley de los senos?
 ### Opciones
-- [x] A) Cuando se conocen dos ángulos y un lado, o dos lados y un ángulo opuesto.
+- [x] C) Cuando se conocen dos ángulos y un lado, o dos lados y un ángulo opuesto.
   <!-- feedback: Correcto. La ley de los senos relaciona ángulos con lados opuestos. -->
-- [ ] B) Solo cuando el triángulo es rectángulo.
+- [ ] A) Solo cuando el triángulo es rectángulo.
   <!-- feedback: Incorrecto. Para triángulos rectángulos basta la trigonometría básica. -->
-- [ ] C) Cuando se conocen los tres lados.
+- [ ] B) Cuando se conocen los tres lados.
   <!-- feedback: Incorrecto. Con tres lados conviene la ley del coseno. -->
 - [ ] D) Cuando se conocen dos lados y el ángulo comprendido.
   <!-- feedback: Incorrecto. Ese caso (LAL) se resuelve con la ley del coseno. -->
@@ -112,13 +112,13 @@ $\frac{b}{\operatorname{sen} 45^\circ} = \frac{10}{\operatorname{sen} 30^\circ}$
 ### Enunciado
 Usando la ley del coseno, ¿cuál es la longitud del lado $c$?
 ### Opciones
-- [x] A) $\sqrt{67} \approx 8.19$ cm
+- [x] D) $\sqrt{67} \approx 8.19$ cm
   <!-- feedback: Correcto. $c^2 = 49 + 81 - 2(7)(9)\cos 60^\circ = 130 - 63 = 67$. -->
-- [ ] B) $\sqrt{130} \approx 11.40$ cm
+- [ ] A) $\sqrt{130} \approx 11.40$ cm
   <!-- feedback: Incorrecto. No restaste el término $2ab\cos C$. -->
-- [ ] C) $\sqrt{60} \approx 7.75$ cm
+- [ ] B) $\sqrt{60} \approx 7.75$ cm
   <!-- feedback: Incorrecto. Sumaste en vez de restar el término con coseno. -->
-- [ ] D) $\sqrt{73} \approx 8.54$ cm
+- [ ] C) $\sqrt{73} \approx 8.54$ cm
   <!-- feedback: Incorrecto. Aplicaste mal el producto de los lados. -->
 ### Explicacion Pedagogica
 $c^2 = 7^2 + 9^2 - 2(7)(9)\cos 60^\circ = 49 + 81 - 63 = 67$, por lo que $c = \sqrt{67} \approx 8.19$ cm.
@@ -132,9 +132,9 @@ $c^2 = 7^2 + 9^2 - 2(7)(9)\cos 60^\circ = 49 + 81 - 63 = 67$, por lo que $c = \s
 ### Enunciado
 Usando la ley de los senos, ¿cuál es el valor del lado $a$?
 ### Opciones
-- [x] A) $\frac{12\operatorname{sen} 50^\circ}{\operatorname{sen} 70^\circ} \approx 9.78$ cm
+- [x] B) $\frac{12\operatorname{sen} 50^\circ}{\operatorname{sen} 70^\circ} \approx 9.78$ cm
   <!-- feedback: Correcto. $C = 180^\circ - 50^\circ - 60^\circ = 70^\circ$ y $a = \frac{c\operatorname{sen} A}{\operatorname{sen} C}$. -->
-- [ ] B) $\frac{12\operatorname{sen} 60^\circ}{\operatorname{sen} 70^\circ} \approx 11.06$ cm
+- [ ] A) $\frac{12\operatorname{sen} 60^\circ}{\operatorname{sen} 70^\circ} \approx 11.06$ cm
   <!-- feedback: Incorrecto. Usaste el ángulo $B$ en vez de $A$. -->
 - [ ] C) $\frac{12\operatorname{sen} 50^\circ}{\operatorname{sen} 60^\circ} \approx 10.61$ cm
   <!-- feedback: Incorrecto. En el denominador va $\operatorname{sen} C = \operatorname{sen} 70^\circ$. -->
@@ -192,11 +192,11 @@ El tercer ángulo es $180^\circ - 45^\circ - 30^\circ = 105^\circ$. Por la ley d
 ### Enunciado
 Usando la ley del coseno, ¿cuál es el ángulo $C$ opuesto al lado mayor?
 ### Opciones
-- [x] A) Aproximadamente $103.1^\circ$
+- [x] C) Aproximadamente $103.1^\circ$
   <!-- feedback: Correcto. $\cos C = \frac{64 + 121 - 225}{2(8)(11)} = -\frac{40}{176} \approx -0.227$, luego $C \approx 103.1^\circ$. -->
-- [ ] B) Aproximadamente $76.9^\circ$
+- [ ] A) Aproximadamente $76.9^\circ$
   <!-- feedback: Incorrecto. Ese sería el ángulo complementario; aquí el coseno es negativo. -->
-- [ ] C) Aproximadamente $90^\circ$
+- [ ] B) Aproximadamente $90^\circ$
   <!-- feedback: Incorrecto. No cumple Pitágoras: $15^2 \neq 8^2 + 11^2$. -->
 - [ ] D) Aproximadamente $120^\circ$
   <!-- feedback: Incorrecto. El coseno calculado no corresponde a $120^\circ$. -->
@@ -212,9 +212,9 @@ $\cos C = \frac{8^2 + 11^2 - 15^2}{2(8)(11)} = \frac{64 + 121 - 225}{176} = -\fr
 ### Enunciado
 ¿Cuál es el área del lote en metros cuadrados?
 ### Opciones
-- [x] A) $45\sqrt{3} \approx 77.94$ m²
+- [x] B) $45\sqrt{3} \approx 77.94$ m²
   <!-- feedback: Correcto. Área $= \frac{1}{2}ab\operatorname{sen} C = \frac{1}{2}(12)(15)\operatorname{sen} 120^\circ = 90 \cdot \frac{\sqrt{3}}{2} = 45\sqrt{3}$. -->
-- [ ] B) $90\sqrt{3} \approx 155.88$ m²
+- [ ] A) $90\sqrt{3} \approx 155.88$ m²
   <!-- feedback: Incorrecto. Olvidaste el factor $\frac{1}{2}$. -->
 - [ ] C) $45$ m²
   <!-- feedback: Incorrecto. No incluiste el seno del ángulo. -->
@@ -232,9 +232,9 @@ El área de un triángulo es $\frac{1}{2}ab\operatorname{sen} C = \frac{1}{2}(12
 ### Enunciado
 Usando la ley del coseno, ¿cuál es el ángulo mayor del triángulo?
 ### Opciones
-- [x] A) Aproximadamente $78.5^\circ$
+- [x] B) Aproximadamente $78.5^\circ$
   <!-- feedback: Correcto. $\cos C = \frac{25 + 36 - 49}{2(5)(6)} = \frac{12}{60} = 0.2$, luego $C \approx 78.46^\circ$. -->
-- [ ] B) Aproximadamente $60^\circ$
+- [ ] A) Aproximadamente $60^\circ$
   <!-- feedback: Incorrecto. El triángulo no es equilátero. -->
 - [ ] C) Aproximadamente $90^\circ$
   <!-- feedback: Incorrecto. No cumple Pitágoras. -->
@@ -252,9 +252,9 @@ El ángulo mayor se opone al lado mayor ($7$ cm). $\cos C = \frac{5^2 + 6^2 - 7^
 ### Enunciado
 ¿Cuál de las siguientes afirmaciones es correcta sobre el terreno?
 ### Opciones
-- [x] A) Existen dos terrenos posibles con esos datos (caso ambiguo).
+- [x] B) Existen dos terrenos posibles con esos datos (caso ambiguo).
   <!-- feedback: Correcto. $b\operatorname{sen} A = 300\operatorname{sen} 40^\circ \approx 192.8 < 200 < 300$, por lo que hay dos triángulos. -->
-- [ ] B) Solo existe un terreno posible.
+- [ ] A) Solo existe un terreno posible.
   <!-- feedback: Incorrecto. Las condiciones generan el caso ambiguo con dos soluciones. -->
 - [ ] C) No existe ningún terreno con esos datos.
   <!-- feedback: Incorrecto. Los datos sí satisfacen las condiciones de existencia. -->

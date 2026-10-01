@@ -33,9 +33,9 @@ Este bundle contiene 20 preguntas sobre las variedades diatópicas, diastrática
 ¿Cómo se denominan las variedades de la lengua que dependen de la procedencia geográfica del hablante?
 
 ### Opciones
-- [x] A) Variedades diatópicas o dialectos, determinadas por el origen geográfico o territorial del emisor.
+- [x] B) Variedades diatópicas o dialectos, determinadas por el origen geográfico o territorial del emisor.
   <!-- feedback: Correcto. Las variedades diatópicas (o geográficas) son los dialectos e influencias territoriales de una lengua. -->
-- [ ] B) Variedades diastráticas, las cuales dependen únicamente del nivel cultural e ingresos económicos del hablante.
+- [ ] A) Variedades diastráticas, las cuales dependen únicamente del nivel cultural e ingresos económicos del hablante.
   <!-- feedback: Incorrecto. Las diastráticas son variedades sociales o niveles de lengua, no geográficas. -->
 - [ ] C) Variedades diafásicas o registros, determinadas por el grado de formalidad de la situación.
   <!-- feedback: Incorrecto. Las diafásicas se asocian con la situación o contexto de comunicación. -->
@@ -81,9 +81,9 @@ Las variedades diastráticas o sociolectos representan la variación social de l
 ¿Qué propiedad lingüística explica este cambio voluntario del candidato?
 
 ### Opciones
-- [x] A) Variedad diafásica o de registro, que le permite adaptar su nivel de lengua a la situación formal del contexto.
+- [x] B) Variedad diafásica o de registro, que le permite adaptar su nivel de lengua a la situación formal del contexto.
   <!-- feedback: Correcto. Las variedades diafásicas son los registros que escoge el hablante (formal, informal, coloquial) según la situación comunicativa. -->
-- [ ] B) Una mutabilidad del signo lingüístico motivada por el miedo a no ser contratado.
+- [ ] A) Una mutabilidad del signo lingüístico motivada por el miedo a no ser contratado.
   <!-- feedback: Incorrecto. La mutabilidad del signo es un proceso social e histórico diacrónico largo, no un cambio situacional inmediato. -->
 - [ ] C) Un leísmo de persona directo admitido por las leyes del Ministerio de Trabajo.
   <!-- feedback: Incorrecto. Es un cambio pragmático de registro y estilo, no una confusión pronominal sintáctica. -->
@@ -105,9 +105,9 @@ Las variedades diafásicas o registros lingüísticos se adecúan al contexto, l
 ¿Qué se entiende por 'diglosia' en sociolingüística?
 
 ### Opciones
-- [x] A) La coexistencia asimétrica de dos lenguas en un territorio, donde una goza de prestigio social y funciones oficiales y la otra queda relegada al ámbito familiar.
+- [x] B) La coexistencia asimétrica de dos lenguas en un territorio, donde una goza de prestigio social y funciones oficiales y la otra queda relegada al ámbito familiar.
   <!-- feedback: Correcto. La diglosia es el reparto desigual de funciones y prestigio entre dos idiomas coexistentes, a diferencia del bilingüismo equilibrado. -->
-- [ ] B) El bilingüismo perfecto donde todos los ciudadanos dominan ambos idiomas con idéntica fluidez científica.
+- [ ] A) El bilingüismo perfecto donde todos los ciudadanos dominan ambos idiomas con idéntica fluidez científica.
   <!-- feedback: Incorrecto. Eso describe un bilingüismo simétrico o individual equilibrado, no la diglosia asimétrica de funciones. -->
 - [ ] C) La incapacidad física de articular palabras debido a una inflamación de la lengua muscular.
   <!-- feedback: Incorrecto. Eso sería un trastorno o impedimento anatómico (glositis), no un concepto sociolingüístico. -->
@@ -153,13 +153,13 @@ El seseo es la neutralización de los fonemas sibilantes predorsal /s/ y dental 
 ¿A qué variedad de la lengua corresponden estas expresiones juveniles?
 
 ### Opciones
-- [x] A) Registro coloquial y jerga o argot juvenil, propio de un grupo de edad para estrechar lazos e identificarse frente a los adultos.
+- [x] D) Registro coloquial y jerga o argot juvenil, propio de un grupo de edad para estrechar lazos e identificarse frente a los adultos.
   <!-- feedback: Correcto. El argot juvenil es una variedad diastrática/diafásica informal que refuerza la identidad de grupo entre adolescentes mediante el uso de modismos dinámicos. -->
-- [ ] B) Tecnicismos especializados propios de un informe científico de la Real Academia.
+- [ ] A) Tecnicismos especializados propios de un informe científico de la Real Academia.
   <!-- feedback: Incorrecto. La RAE no emplea 'mola mazo' como tecnicismo formal en sus tratados de gramática descriptiva. -->
-- [ ] C) Dialecto andaluz oriental de la cuenca minera de Jaén.
+- [ ] B) Dialecto andaluz oriental de la cuenca minera de Jaén.
   <!-- feedback: Incorrecto. 'Rayado' o 'mola mazo' son expresiones del argot juvenil generalizado de España, nacidas en la zona centro peninsular. -->
-- [ ] D) Arcaísmos medievales rescatados de las glosas silenses del siglo XI.
+- [ ] C) Arcaísmos medievales rescatados de las glosas silenses del siglo XI.
   <!-- feedback: Incorrecto. Son creaciones léxicas coloquiales modernas y dinámicas, no arcaísmos de la Edad Media. -->
 
 ### Explicacion Pedagogica
@@ -177,13 +177,13 @@ El argot juvenil es una variedad de lengua informal y efímera que los jóvenes 
 ¿Qué valoración merece la pronunciación del locutor canario según la lingüística contemporánea?
 
 ### Opciones
-- [x] A) Es una realización dialectal plenamente correcta, normalizada y prestigiosa de la variedad canaria del español.
+- [x] D) Es una realización dialectal plenamente correcta, normalizada y prestigiosa de la variedad canaria del español.
   <!-- feedback: Correcto. La aspiración de la s implosiva ('loh niño') es una característica dialectal de Canarias y el sur de España plenamente aceptada por la norma panhispánica culta. -->
-- [ ] B) Constituye un vulgarismo inadmisible que denota una deficiente educación secundaria del periodista.
+- [ ] A) Constituye un vulgarismo inadmisible que denota una deficiente educación secundaria del periodista.
   <!-- feedback: Incorrecto. Es un rasgo dialectal prestigioso y normalizado en millones de hablantes, no un vulgarismo inculto. -->
-- [ ] C) Es un error sintáctico causado por confundir el género femenino y masculino.
+- [ ] B) Es un error sintáctico causado por confundir el género femenino y masculino.
   <!-- feedback: Incorrecto. Es una variante fonética de la s final de sílaba, carente de implicación sintáctica o de concordancia de género. -->
-- [ ] D) Se debe a una mala traducción del catalán oriental que la RAE sanciona de oficio.
+- [ ] C) Se debe a una mala traducción del catalán oriental que la RAE sanciona de oficio.
   <!-- feedback: Incorrecto. Es un rasgo fonético vernáculo de las hablas canarias e hispanoamericanas meridionales. -->
 
 ### Explicacion Pedagogica
@@ -201,11 +201,11 @@ El español de Canarias comparte rasgos fonéticos con el andaluz y el español 
 ¿Cómo se clasifican estas divergencias de vocabulario entre el español de América y el de España?
 
 ### Opciones
-- [x] A) Variaciones léxicas diatópicas (geográficas) del español, ambas correctas y normativas en sus respectivas áreas geográficas.
+- [x] C) Variaciones léxicas diatópicas (geográficas) del español, ambas correctas y normativas en sus respectivas áreas geográficas.
   <!-- feedback: Correcto. 'Celular' y 'móvil', u 'autobús' y 'camión', son sinónimos geográficos o variantes léxicas diatópicas legítimas de la lengua española. -->
-- [ ] B) Vulgarismos semánticos que causan de forma insalvable ruido semántico destructivo.
+- [ ] A) Vulgarismos semánticos que causan de forma insalvable ruido semántico destructivo.
   <!-- feedback: Incorrecto. Ambas palabras son correctas, académicas e inteligibles, sin suponer vulgarismo alguno. -->
-- [ ] C) Cambios de código bilingües regulados por la Constitución de 1978.
+- [ ] B) Cambios de código bilingües regulados por la Constitución de 1978.
   <!-- feedback: Incorrecto. Tanto 'celular' como 'móvil' son palabras del idioma español, no de idiomas distintos cooficiales en España. -->
 - [ ] D) Neologismos ilegales que la RAE castiga con penas de prisión ortográfica.
   <!-- feedback: Incorrecto. La RAE reconoce y documenta las variedades de América en su Diccionario de la Lengua Española. -->
@@ -225,13 +225,13 @@ La riqueza del español radica en su variedad diatópica. Diversas regiones del 
 ¿A qué tipo de variación lingüística responde la diferencia lingüística observada entre abuelo y nietos?
 
 ### Opciones
-- [x] A) Variación diacrónica o generacional, puesto que el idioma evoluciona y los hablantes de más edad conservan arcaísmos u formas tradicionales.
+- [x] D) Variación diacrónica o generacional, puesto que el idioma evoluciona y los hablantes de más edad conservan arcaísmos u formas tradicionales.
   <!-- feedback: Correcto. La variación diacrónica o generacional muestra la evolución temporal del idioma y cómo conviven diferentes estadios temporales de la lengua. -->
-- [ ] B) Una variedad diatópica causada por la diferencia de altitud entre las montañas de Aragón.
+- [ ] A) Una variedad diatópica causada por la diferencia de altitud entre las montañas de Aragón.
   <!-- feedback: Incorrecto. Es un cambio temporal y generacional entre jóvenes y mayores, no un cambio geográfico por altitud física. -->
-- [ ] C) Jerga profesional propia de los ingenieros agrónomos de Zaragoza.
+- [ ] B) Jerga profesional propia de los ingenieros agrónomos de Zaragoza.
   <!-- feedback: Incorrecto. 'Asín' es un vulgarismo o arcaísmo popular y no un tecnicismo agrario profesional. -->
-- [ ] D) Un leísmo de persona directo provocado por el desuso del complemento directo.
+- [ ] C) Un leísmo de persona directo provocado por el desuso del complemento directo.
   <!-- feedback: Incorrecto. No tiene ninguna relación con los pronombres personales de acusativo. -->
 
 ### Explicacion Pedagogica
@@ -249,11 +249,11 @@ La lengua experimenta cambios a lo largo del tiempo (variación diacrónica). Lo
 ¿Cómo se denomina este fenómeno gramatical y cuál es su estatus normativo según la ASALE?
 
 ### Opciones
-- [x] A) Voseo, un fenómeno diatópico morfosintáctico plenamente aceptado, correcto y con rango de norma culta en Argentina y Uruguay.
+- [x] C) Voseo, un fenómeno diatópico morfosintáctico plenamente aceptado, correcto y con rango de norma culta en Argentina y Uruguay.
   <!-- feedback: Correcto. El voseo consiste en usar el pronombre 'vos' en lugar de 'tú' con formas verbales específicas. Es aceptado por la RAE/ASALE como norma culta regional. -->
-- [ ] B) Es un dequeísmo verbal vulgar causado por la mala pronunciación de la letra s final.
+- [ ] A) Es un dequeísmo verbal vulgar causado por la mala pronunciación de la letra s final.
   <!-- feedback: Incorrecto. El voseo es un sistema pronominal y verbal legítimo y no una incorrección de tipo dequeísmo preposicional. -->
-- [ ] C) Se trata de un error sintáctico absoluto derivado de la influencia del francés medieval.
+- [ ] B) Se trata de un error sintáctico absoluto derivado de la influencia del francés medieval.
   <!-- feedback: Incorrecto. El voseo es de origen hispánico castellano (evolución del pronombre de cortesía 'vos') y carece de influencia francesa. -->
 - [ ] D) Representa un cambio de código bilingüe obligatorio regulado por el gobierno de Buenos Aires.
   <!-- feedback: Incorrecto. El voseo es español, no un idioma independiente ni una imposición de traducción bilingüe. -->
@@ -273,11 +273,11 @@ El voseo es el uso del pronombre 'vos' como segunda persona del singular, acompa
 Analiza la elisión de la consonante dental final d en la pronunciación meridional reflejada en el texto.
 
 ### Opciones
-- [x] A) Es un rasgo fonético dialectal del andaluz muy común en la oralidad coloquial y literaria, donde la d final de palabra se elide sistemáticamente.
+- [x] C) Es un rasgo fonético dialectal del andaluz muy común en la oralidad coloquial y literaria, donde la d final de palabra se elide sistemáticamente.
   <!-- feedback: Correcto. La elisión de la -d final de palabra ('caridá', 'verdá') es un rasgo fonético común y extendido en Andalucía y gran parte de España en el habla relajada. -->
-- [ ] B) Es un error ortográfico intolerable cometido por Federico García Lorca por no estudiar bachillerato.
+- [ ] A) Es un error ortográfico intolerable cometido por Federico García Lorca por no estudiar bachillerato.
   <!-- feedback: Incorrecto. Lorca reproduce de forma intencionada y artística el habla popular andaluza para dar realismo a sus personajes. -->
-- [ ] C) Constituye un laísmo pronominal involuntario provocado por el sustantivo 'cielo'.
+- [ ] B) Constituye un laísmo pronominal involuntario provocado por el sustantivo 'cielo'.
   <!-- feedback: Incorrecto. La elisión de una consonante final es un cambio fonético-fonológico, no un fenómeno sintáctico-pronominal de acusativo. -->
 - [ ] D) Se debe a una estricta directriz de la RAE que obliga a eliminar la letra d del alfabeto en el sur de España.
   <!-- feedback: Incorrecto. La RAE codifica la escritura correcta con d ('caridad'), pero la lingüística describe las hablas orales y la literatura libre. -->
@@ -297,9 +297,9 @@ La pérdida de la consonante /d/ final de palabra es una tendencia fonética sec
 ¿De qué código o lengua histórica provienen originalmente estos préstamos léxicos integrados en el registro coloquial español?
 
 ### Opciones
-- [x] A) Del caló (la variante lingüística del romaní hablada por la comunidad gitana española).
+- [x] B) Del caló (la variante lingüística del romaní hablada por la comunidad gitana española).
   <!-- feedback: Correcto. El caló ha aportado una gran cantidad de términos al registro coloquial y argot español ('parné', 'currar', 'molar', 'chaval', 'gachí'). -->
-- [ ] B) Del inglés de los negocios tecnológicos de Monterrey.
+- [ ] A) Del inglés de los negocios tecnológicos de Monterrey.
   <!-- feedback: Incorrecto. Son palabras castizas con siglos de arraigo popular hispánico, totalmente ajenas al inglés corporativo americano. -->
 - [ ] C) Del latín clásico escrito por Julio César en Roma.
   <!-- feedback: Incorrecto. Son préstamos de origen romaní-caló, no palabras patrimoniales de evolución directa del latín vulgar. -->
@@ -321,13 +321,13 @@ El caló es la lengua de la comunidad gitana española. A lo largo de la histori
 Analiza sintácticamente la oración redactada por los alumnos y su estatus en el marco normativo del español.
 
 ### Opciones
-- [x] A) Presenta condicional en la prótasis de la condicional ('Si tendría'), rasgo dialectal común en la zona norte peninsular, pero rechazado por la norma culta que exige subjuntivo ('Si tuviera/tuviese').
+- [x] D) Presenta condicional en la prótasis de la condicional ('Si tendría'), rasgo dialectal común en la zona norte peninsular, pero rechazado por la norma culta que exige subjuntivo ('Si tuviera/tuviese').
   <!-- feedback: Correcto. El uso de condicional por subjuntivo en la prótasis ('Si tendría') es un rasgo morfosintáctico de Cantabria, País Vasco y La Rioja, no admitido por la norma culta estándar. -->
-- [ ] B) Es plenamente correcta en toda España, puesto que el subjuntivo fue abolido por la RAE en 2010.
+- [ ] A) Es plenamente correcta en toda España, puesto que el subjuntivo fue abolido por la RAE en 2010.
   <!-- feedback: Incorrecto. El modo subjuntivo es obligatorio y vigente; usar condicional en la prótasis condicional se censura en la escritura culta. -->
-- [ ] C) Es un dequeísmo por omitir la preposición 'de' antes del pronombre 'dinero'.
+- [ ] B) Es un dequeísmo por omitir la preposición 'de' antes del pronombre 'dinero'.
   <!-- feedback: Incorrecto. No hay ninguna conjunción 'que' ni preposición omitida inapropiadamente; es una inadecuación del modo verbal. -->
-- [ ] D) Representa un caso de laísmo asturiano aceptado en el parlamento de Cantabria.
+- [ ] C) Representa un caso de laísmo asturiano aceptado en el parlamento de Cantabria.
   <!-- feedback: Incorrecto. El laísmo es la confusión de pronombres femeninos de complemento directo e indirecto; este fenómeno es de carácter puramente verbal modal. -->
 
 ### Explicacion Pedagogica
@@ -345,13 +345,13 @@ La norma académica estándar prescribe el uso del pretérito imperfecto de subj
 ¿Cómo se define este fenómeno fonológico y cuál es su realidad lingüística en la España contemporánea?
 
 ### Opciones
-- [x] A) Yeísmo, que neutraliza la distinción entre el fonema palatal lateral /ʎ/ ('pollo') y el palatal fricativo /ʝ/ ('poyo') en favor del segundo. Es el fenómeno mayoritario en casi toda España hoy día.
+- [x] D) Yeísmo, que neutraliza la distinción entre el fonema palatal lateral /ʎ/ ('pollo') y el palatal fricativo /ʝ/ ('poyo') en favor del segundo. Es el fenómeno mayoritario en casi toda España hoy día.
   <!-- feedback: Correcto. El yeísmo consiste en igualar la pronunciación de la 'll' y la 'y' en favor de la 'y'. Es un fenómeno extendido y plenamente aceptado en la norma culta. -->
-- [ ] B) Seseo madrileño, porque iguala la letra s con la letra z.
+- [ ] A) Seseo madrileño, porque iguala la letra s con la letra z.
   <!-- feedback: Incorrecto. El seseo atañe a las sibilantes s/z, mientras que el yeísmo atañe a las consonantes palatales ll/y. -->
-- [ ] C) Rotacismo andaluz, porque el actor sustituye el fonema lateral por la consonante r vibrante.
+- [ ] B) Rotacismo andaluz, porque el actor sustituye el fonema lateral por la consonante r vibrante.
   <!-- feedback: Incorrecto. No se pronuncia 'porro' sino 'poyo', no hay rotacismo de fonemas vibrantes. -->
-- [ ] D) Es una incorrección ortográfica absoluta que la RAE penaliza obligando a pronunciar la doble ll silbando muy fuerte.
+- [ ] C) Es una incorrección ortográfica absoluta que la RAE penaliza obligando a pronunciar la doble ll silbando muy fuerte.
   <!-- feedback: Incorrecto. El yeísmo está normalizado y admitido en la pronunciación estándar culta; la distinción lateral (/ʎ/) es hoy minoritaria y residual. -->
 
 ### Explicacion Pedagogica
@@ -369,13 +369,13 @@ El yeísmo es la neutralización fonológica de la oposición /ʎ/ (palatal late
 Analiza las palabras 'asín' y 'fizo' comparando su estatus lingüístico en el siglo XVII frente al español actual de España.
 
 ### Opciones
-- [x] A) En el siglo XVII, 'fizo' era una forma ortográfica viva común del verbo 'hacer' y 'asín' una variante coloquial. Hoy, 'fizo' es un arcaísmo absoluto y 'asín' un vulgarismo desaconsejado.
+- [x] D) En el siglo XVII, 'fizo' era una forma ortográfica viva común del verbo 'hacer' y 'asín' una variante coloquial. Hoy, 'fizo' es un arcaísmo absoluto y 'asín' un vulgarismo desaconsejado.
   <!-- feedback: Correcto. 'Fizo' (hizo) refleja la ortografía de transición histórica del castellano medio y hoy es un arcaísmo. 'Asín' ha quedado relegado a nivel vulgar desaconsejado por la norma estándar. -->
-- [ ] B) Ambas palabras son neologismos informáticos introducidos en Guadalajara en el año 2026.
+- [ ] A) Ambas palabras son neologismos informáticos introducidos en Guadalajara en el año 2026.
   <!-- feedback: Incorrecto. Tienen siglos de existencia histórica y son formas antiguas o tradicionales, no modernas de internet. -->
-- [ ] C) Se trata de un loísmo andaluz oriental que la RAE aconseja usar en textos científicos de medicina.
+- [ ] B) Se trata de un loísmo andaluz oriental que la RAE aconseja usar en textos científicos de medicina.
   <!-- feedback: Incorrecto. No guarda relación alguna con el uso pronominal de objeto directo masculino átono. -->
-- [ ] D) Son palabras exclusivas del catalán bilingüe que se introdujeron por error de la imprenta.
+- [ ] C) Son palabras exclusivas del catalán bilingüe que se introdujeron por error de la imprenta.
   <!-- feedback: Incorrecto. Son de etimología y desarrollo netamente castellano. -->
 
 ### Explicacion Pedagogica
@@ -417,13 +417,13 @@ El marco plurilingüe de España está definido en el artículo 3 de la Constitu
 Evalúa críticamente este prejuicio lingüístico a la luz de los principios de la lingüística moderna.
 
 ### Opciones
-- [x] A) Es un prejuicio carente de fundamento científico, puesto que el andaluz es una variedad dialectal plenamente estructurada, digna y con una norma culta prestigiosa propia que no resta rigor profesional a ningún discurso.
+- [x] D) Es un prejuicio carente de fundamento científico, puesto que el andaluz es una variedad dialectal plenamente estructurada, digna y con una norma culta prestigiosa propia que no resta rigor profesional a ningún discurso.
   <!-- feedback: Correcto. Ninguna variedad dialectal es intrínsecamente superior a otra. El andaluz culto es una variedad prestigiosa plenamente válida para discursos formales y académicos. -->
-- [ ] B) Es un prejuicio correcto, ya que el español septentrional de Madrid es el único que posee alma matemática pura e inteligencia cerebral.
+- [ ] A) Es un prejuicio correcto, ya que el español septentrional de Madrid es el único que posee alma matemática pura e inteligencia cerebral.
   <!-- feedback: Incorrecto. Científicamente, todas las variedades y dialectos de una lengua son lingüísticamente equivalentes y perfectamente capaces de expresar cualquier nivel de abstracción. -->
-- [ ] C) Es acertado porque la RAE prohíbe por ley sesear a través de la radio o la televisión pública de España.
+- [ ] B) Es acertado porque la RAE prohíbe por ley sesear a través de la radio o la televisión pública de España.
   <!-- feedback: Incorrecto. La RAE respeta la diversidad y el seseo es aceptado como pronunciación modélica culta en el sur peninsular, Canarias y América. -->
-- [ ] D) Se justifica porque disimular el acento es obligatorio para poder conjugar correctamente los verbos intransitivos.
+- [ ] C) Se justifica porque disimular el acento es obligatorio para poder conjugar correctamente los verbos intransitivos.
   <!-- feedback: Incorrecto. La conjugación verbal es idéntica en andaluz culto y castellano septentrional; el acento solo atañe a realizaciones fonéticas. -->
 
 ### Explicacion Pedagogica
@@ -441,13 +441,13 @@ La lingüística moderna rechaza toda jerarquización de lenguas o dialectos. El
 Evalúa la situación sociolingüística descrita en esta comarca según los conceptos de bilingüismo y diglosia.
 
 ### Opciones
-- [x] A) Revela un caso de diglosia latente, donde el gallego queda relegado a funciones de menor prestigio social (ámbito rural y familiar) y el castellano domina las funciones prestigiosas de la comunicación digital.
+- [x] D) Revela un caso de diglosia latente, donde el gallego queda relegado a funciones de menor prestigio social (ámbito rural y familiar) y el castellano domina las funciones prestigiosas de la comunicación digital.
   <!-- feedback: Correcto. El confinamiento de un idioma al ámbito doméstico e informal mientras el otro domina la comunicación formal y tecnológica es el síntoma característico de la diglosia asimétrica. -->
-- [ ] B) Demuestra un bilingüismo simétrico ejemplar que garantiza la salud eterna de ambos idiomas en Galicia.
+- [ ] A) Demuestra un bilingüismo simétrico ejemplar que garantiza la salud eterna de ambos idiomas en Galicia.
   <!-- feedback: Incorrecto. Si hay un reparto de funciones desigual y de asimetría de prestigio, se trata de diglosia o bilingüismo inestable, no de simetría equilibrada. -->
-- [ ] C) Es un problema físico de los teléfonos móviles que bloquean de forma automática la traducción del gallego.
+- [ ] B) Es un problema físico de los teléfonos móviles que bloquean de forma automática la traducción del gallego.
   <!-- feedback: Incorrecto. Es un suceso de índole puramente social y cultural, ajeno a fallos tecnológicos del canal del teléfono. -->
-- [ ] D) Demuestra que el gallego es un idioma extinguido que ya nadie entiende en Santiago de Compostela.
+- [ ] C) Demuestra que el gallego es un idioma extinguido que ya nadie entiende en Santiago de Compostela.
   <!-- feedback: Incorrecto. El gallego sigue vivo y hablado, pero sufre de distribución asimétrica en este contexto juvenil. -->
 
 ### Explicacion Pedagogica
@@ -465,9 +465,9 @@ La diglosia se produce cuando la coexistencia de dos lenguas en un territorio no
 Evalúa críticamente la afirmación del ensayista desde la perspectiva de la política lingüística panhispánica adoptada por la RAE y la ASALE.
 
 ### Opciones
-- [x] A) Es insostenible, puesto que la política panhispánica oficial defiende que el español es patrimonio común y no hay un único centro que dicte la pureza, validando las normas de cada región hispanohablante.
+- [x] B) Es insostenible, puesto que la política panhispánica oficial defiende que el español es patrimonio común y no hay un único centro que dicte la pureza, validando las normas de cada región hispanohablante.
   <!-- feedback: Correcto. El español es policéntrico. La RAE y la ASALE asumen que no hay un español superior u 'auténtico', sino una pluralidad de normas cultas coordinadas e igualmente válidas. -->
-- [ ] B) Es correcta, ya que la Constitución Española exige suspender los pasaportes de quienes usen palabras americanas.
+- [ ] A) Es correcta, ya que la Constitución Española exige suspender los pasaportes de quienes usen palabras americanas.
   <!-- feedback: Incorrecto. La legislación española carece de competencias normativas aduaneras de palabras; el español americano es plenamente legal y correcto. -->
 - [ ] C) Es sostenible, porque el español de Valladolid es el único que posee la tilde diacrítica obligatoria en todas las sílabas.
   <!-- feedback: Incorrecto. La tilde obedece a las mismas reglas acentuales generales en todo el mundo hispanohablante, sin privilegios para Valladolid. -->

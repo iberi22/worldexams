@@ -48,13 +48,13 @@ El ángulo recto se forma con dos rectas perpendiculares, como la esquina de un 
 ### Enunciado
 Un ángulo que mide 180 grados se llama:
 ### Opciones
-- [x] A) Llano
+- [x] D) Llano
   <!-- feedback: Es correcta porque el ángulo de 180 grados forma una línea recta. -->
-- [ ] B) Agudo
+- [ ] A) Agudo
   <!-- feedback: Es incorrecta porque el agudo mide menos de 90 grados. -->
-- [ ] C) Recto
+- [ ] B) Recto
   <!-- feedback: Es incorrecta porque el recto mide 90 grados. -->
-- [ ] D) Obtuso
+- [ ] C) Obtuso
   <!-- feedback: Es incorrecta porque el obtuso está entre 90 y 180, sin incluir 180. -->
 ### Explicacion Pedagogica
 El ángulo llano equivale a medio giro y sus lados apuntan en direcciones opuestas. Por eso a las 6 en punto las manecillas del reloj forman un ángulo llano.
@@ -86,13 +86,13 @@ Los ángulos agudos miden más de 0 y menos de 90 grados. Como 60 está en ese r
 ### Enunciado
 El ángulo final de 120 grados se clasifica como:
 ### Opciones
-- [x] A) Obtuso
+- [x] D) Obtuso
   <!-- feedback: Es correcta porque 120 está entre 90 y 180 grados. -->
-- [ ] B) Agudo
+- [ ] A) Agudo
   <!-- feedback: Es incorrecta porque el agudo es menor que 90 grados. -->
-- [ ] C) Recto
+- [ ] B) Recto
   <!-- feedback: Es incorrecta porque el recto es exactamente 90 grados. -->
-- [ ] D) Completo
+- [ ] C) Completo
   <!-- feedback: Es incorrecta porque el completo mide 360 grados. -->
 ### Explicacion Pedagogica
 Los ángulos obtusos miden más de 90 y menos de 180 grados. La puerta bien abierta en 120 grados muestra esa abertura amplia típica del ángulo obtuso.
@@ -124,11 +124,11 @@ Dos ángulos son suplementarios cuando suman 180 grados. Para hallar el compañe
 ### Enunciado
 Si dos ángulos opuestos por el vértice miden x y 70 grados, ¿cuánto vale x y por qué?
 ### Opciones
-- [x] A) 70 grados, porque los opuestos por el vértice son iguales
+- [x] C) 70 grados, porque los opuestos por el vértice son iguales
   <!-- feedback: Es correcta porque los ángulos enfrentados en un cruce miden lo mismo. -->
-- [ ] B) 110 grados, porque son suplementarios
+- [ ] A) 110 grados, porque son suplementarios
   <!-- feedback: Es incorrecta porque los suplementarios son los vecinos, no los opuestos. -->
-- [ ] C) 20 grados, porque complementan a 90
+- [ ] B) 20 grados, porque complementan a 90
   <!-- feedback: Es incorrecta porque no hay un ángulo recto que los relacione. -->
 - [ ] D) 35 grados, porque es la mitad
   <!-- feedback: Es incorrecta porque no existe una bisectriz que divida ese ángulo. -->
@@ -143,13 +143,13 @@ Cuando dos rectas se cruzan, los ángulos que quedan frente a frente comparten l
 ### Enunciado
 Según sus ángulos, ¿cómo se clasifica ese triángulo?
 ### Opciones
-- [x] A) Acutángulo
+- [x] D) Acutángulo
   <!-- feedback: Es correcta porque sus tres ángulos son agudos menores que 90. -->
-- [ ] B) Rectángulo
+- [ ] A) Rectángulo
   <!-- feedback: Es incorrecta porque no tiene ningún ángulo de 90 grados. -->
-- [ ] C) Obtusángulo
+- [ ] B) Obtusángulo
   <!-- feedback: Es incorrecta porque ningún ángulo supera los 90 grados. -->
-- [ ] D) Llano
+- [ ] C) Llano
   <!-- feedback: Es incorrecta porque llano describe un ángulo y no un triángulo. -->
 ### Explicacion Pedagogica
 Un triángulo acutángulo tiene sus tres ángulos agudos. Como 60 es menor que 90 y la suma da 180, el techo dibujado es un triángulo acutángulo y también equiángulo.
@@ -162,13 +162,13 @@ Un triángulo acutángulo tiene sus tres ángulos agudos. Como 60 es menor que 9
 ### Enunciado
 ¿Cuál es el ángulo complementario de la pendiente y qué significa?
 ### Opciones
-- [x] A) 65 grados, lo que falta para completar un ángulo recto
+- [x] D) 65 grados, lo que falta para completar un ángulo recto
   <!-- feedback: Es correcta porque 25 más 65 es igual a 90. -->
-- [ ] B) 155 grados, lo que falta para completar un llano
+- [ ] A) 155 grados, lo que falta para completar un llano
   <!-- feedback: Es incorrecta porque eso describe un suplemento y no un complemento. -->
-- [ ] C) 25 grados, porque son iguales
+- [ ] B) 25 grados, porque son iguales
   <!-- feedback: Es incorrecta porque dos ángulos de 25 suman 50 y no 90. -->
-- [ ] D) 90 grados, porque todo complemento es recto
+- [ ] C) 90 grados, porque todo complemento es recto
   <!-- feedback: Es incorrecta porque 90 es la suma y no el ángulo buscado. -->
 ### Explicacion Pedagogica
 Dos ángulos son complementarios cuando suman 90 grados. El complemento de 25 se halla con 90 menos 25, que da 65. Ese es el ángulo entre la pendiente y la vertical.
@@ -200,11 +200,11 @@ Con rectas paralelas cortadas por una transversal, los ángulos correspondientes
 ### Enunciado
 ¿Cuál es la evaluación correcta de esa afirmación?
 ### Opciones
-- [x] A) Es falsa, porque la suma superaría 180 grados
+- [x] C) Es falsa, porque la suma superaría 180 grados
   <!-- feedback: Es correcta porque 100 más 95 ya es 195 y excede el total permitido. -->
-- [ ] B) Es verdadera, porque los obtusos pueden sumarse libremente
+- [ ] A) Es verdadera, porque los obtusos pueden sumarse libremente
   <!-- feedback: Es incorrecta porque todo triángulo debe sumar exactamente 180 grados. -->
-- [ ] C) Es verdadera, si el tercer ángulo es 0 grados
+- [ ] B) Es verdadera, si el tercer ángulo es 0 grados
   <!-- feedback: Es incorrecta porque un ángulo de 0 grados no forma un triángulo. -->
 - [ ] D) Es falsa, porque ningún triángulo tiene obtusos
   <!-- feedback: Es incorrecta porque sí puede tener un obtuso, pero solo uno. -->

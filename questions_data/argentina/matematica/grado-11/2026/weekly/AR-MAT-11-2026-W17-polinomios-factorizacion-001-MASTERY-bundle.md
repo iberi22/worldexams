@@ -36,10 +36,10 @@ Este bundle aborda contenidos curriculares prioritarios de Polinomios y Factoriz
 ¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 1$?
 
 ### Opciones
-- [x] A) $x = 1$ y $x = -1$ <!-- feedback: Correcto. Aplicando diferencia de cuadrados: $(x - 1)(x + 1) = 0 \Rightarrow x = \pm 1$. -->
-- [ ] B) $x = 2$ y $x = -2$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a la constante. -->
-- [ ] C) $x = 0$ y $x = 2$ <!-- feedback: Incorrecto. $x=0$ no es raíz de este binomio. -->
-- [ ] D) $x = 1$ únicamente <!-- feedback: Incorrecto. Olvidó la raíz negativa. -->
+- [x] D) $x = 1$ y $x = -1$ <!-- feedback: Correcto. Aplicando diferencia de cuadrados: $(x - 1)(x + 1) = 0 \Rightarrow x = \pm 1$. -->
+- [ ] A) $x = 2$ y $x = -2$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a la constante. -->
+- [ ] B) $x = 0$ y $x = 2$ <!-- feedback: Incorrecto. $x=0$ no es raíz de este binomio. -->
+- [ ] C) $x = 1$ únicamente <!-- feedback: Incorrecto. Olvidó la raíz negativa. -->
 
 ### Explicacion Pedagogica
 Factorizando por diferencia de cuadrados $x^2 - 1 = (x - 1)(x + 1) = 0$, obtenemos $x = 1$ y $x = -1$.
@@ -57,9 +57,9 @@ Factorizando por diferencia de cuadrados $x^2 - 1 = (x - 1)(x + 1) = 0$, obtenem
 ¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 4$?
 
 ### Opciones
-- [x] A) $x = 2$ y $x = -2$ <!-- feedback: Correcto. Aplicando diferencia de cuadrados: $(x - 2)(x + 2) = 0 \Rightarrow x = \pm 2$. -->
-- [ ] B) $x = 4$ y $x = -4$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a la constante. -->
-- [ ] C) $x = 0$ y $x = 2$ <!-- feedback: Incorrecto. $x=0$ no es raíz de este binomio. -->
+- [x] C) $x = 2$ y $x = -2$ <!-- feedback: Correcto. Aplicando diferencia de cuadrados: $(x - 2)(x + 2) = 0 \Rightarrow x = \pm 2$. -->
+- [ ] A) $x = 4$ y $x = -4$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a la constante. -->
+- [ ] B) $x = 0$ y $x = 2$ <!-- feedback: Incorrecto. $x=0$ no es raíz de este binomio. -->
 - [ ] D) $x = 2$ únicamente <!-- feedback: Incorrecto. Olvidó la raíz negativa. -->
 
 ### Explicacion Pedagogica
@@ -78,10 +78,10 @@ Factorizando por diferencia de cuadrados $x^2 - 4 = (x - 2)(x + 2) = 0$, obtenem
 ¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 9$?
 
 ### Opciones
-- [x] A) $x = 3$ y $x = -3$ <!-- feedback: Correcto. Aplicando diferencia de cuadrados: $(x - 3)(x + 3) = 0 \Rightarrow x = \pm 3$. -->
-- [ ] B) $x = 9$ y $x = -9$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a la constante. -->
-- [ ] C) $x = 0$ y $x = 3$ <!-- feedback: Incorrecto. $x=0$ no es raíz de este binomio. -->
-- [ ] D) $x = 3$ únicamente <!-- feedback: Incorrecto. Olvidó la raíz negativa. -->
+- [x] D) $x = 3$ y $x = -3$ <!-- feedback: Correcto. Aplicando diferencia de cuadrados: $(x - 3)(x + 3) = 0 \Rightarrow x = \pm 3$. -->
+- [ ] A) $x = 9$ y $x = -9$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a la constante. -->
+- [ ] B) $x = 0$ y $x = 3$ <!-- feedback: Incorrecto. $x=0$ no es raíz de este binomio. -->
+- [ ] C) $x = 3$ únicamente <!-- feedback: Incorrecto. Olvidó la raíz negativa. -->
 
 ### Explicacion Pedagogica
 Factorizando por diferencia de cuadrados $x^2 - 9 = (x - 3)(x + 3) = 0$, obtenemos $x = 3$ y $x = -3$.
@@ -120,8 +120,8 @@ Factorizando por diferencia de cuadrados $x^2 - 16 = (x - 4)(x + 4) = 0$, obtene
 ¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 25$?
 
 ### Opciones
-- [x] A) $x = 5$ y $x = -5$ <!-- feedback: Correcto. Aplicando diferencia de cuadrados: $(x - 5)(x + 5) = 0 \Rightarrow x = \pm 5$. -->
-- [ ] B) $x = 25$ y $x = -25$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a la constante. -->
+- [x] B) $x = 5$ y $x = -5$ <!-- feedback: Correcto. Aplicando diferencia de cuadrados: $(x - 5)(x + 5) = 0 \Rightarrow x = \pm 5$. -->
+- [ ] A) $x = 25$ y $x = -25$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a la constante. -->
 - [ ] C) $x = 0$ y $x = 5$ <!-- feedback: Incorrecto. $x=0$ no es raíz de este binomio. -->
 - [ ] D) $x = 5$ únicamente <!-- feedback: Incorrecto. Olvidó la raíz negativa. -->
 
@@ -162,9 +162,9 @@ Factorizando por diferencia de cuadrados $x^2 - 36 = (x - 6)(x + 6) = 0$, obtene
 ¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 49$?
 
 ### Opciones
-- [x] A) $x = 7$ y $x = -7$ <!-- feedback: Correcto. Aplicando diferencia de cuadrados: $(x - 7)(x + 7) = 0 \Rightarrow x = \pm 7$. -->
-- [ ] B) $x = 49$ y $x = -49$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a la constante. -->
-- [ ] C) $x = 0$ y $x = 7$ <!-- feedback: Incorrecto. $x=0$ no es raíz de este binomio. -->
+- [x] C) $x = 7$ y $x = -7$ <!-- feedback: Correcto. Aplicando diferencia de cuadrados: $(x - 7)(x + 7) = 0 \Rightarrow x = \pm 7$. -->
+- [ ] A) $x = 49$ y $x = -49$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a la constante. -->
+- [ ] B) $x = 0$ y $x = 7$ <!-- feedback: Incorrecto. $x=0$ no es raíz de este binomio. -->
 - [ ] D) $x = 7$ únicamente <!-- feedback: Incorrecto. Olvidó la raíz negativa. -->
 
 ### Explicacion Pedagogica
@@ -183,9 +183,9 @@ Factorizando por diferencia de cuadrados $x^2 - 49 = (x - 7)(x + 7) = 0$, obtene
 ¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 64$?
 
 ### Opciones
-- [x] A) $x = 8$ y $x = -8$ <!-- feedback: Correcto. Aplicando diferencia de cuadrados: $(x - 8)(x + 8) = 0 \Rightarrow x = \pm 8$. -->
-- [ ] B) $x = 64$ y $x = -64$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a la constante. -->
-- [ ] C) $x = 0$ y $x = 8$ <!-- feedback: Incorrecto. $x=0$ no es raíz de este binomio. -->
+- [x] C) $x = 8$ y $x = -8$ <!-- feedback: Correcto. Aplicando diferencia de cuadrados: $(x - 8)(x + 8) = 0 \Rightarrow x = \pm 8$. -->
+- [ ] A) $x = 64$ y $x = -64$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a la constante. -->
+- [ ] B) $x = 0$ y $x = 8$ <!-- feedback: Incorrecto. $x=0$ no es raíz de este binomio. -->
 - [ ] D) $x = 8$ únicamente <!-- feedback: Incorrecto. Olvidó la raíz negativa. -->
 
 ### Explicacion Pedagogica
@@ -204,10 +204,10 @@ Factorizando por diferencia de cuadrados $x^2 - 64 = (x - 8)(x + 8) = 0$, obtene
 ¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 81$?
 
 ### Opciones
-- [x] A) $x = 9$ y $x = -9$ <!-- feedback: Correcto. Aplicando diferencia de cuadrados: $(x - 9)(x + 9) = 0 \Rightarrow x = \pm 9$. -->
-- [ ] B) $x = 81$ y $x = -81$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a la constante. -->
-- [ ] C) $x = 0$ y $x = 9$ <!-- feedback: Incorrecto. $x=0$ no es raíz de este binomio. -->
-- [ ] D) $x = 9$ únicamente <!-- feedback: Incorrecto. Olvidó la raíz negativa. -->
+- [x] D) $x = 9$ y $x = -9$ <!-- feedback: Correcto. Aplicando diferencia de cuadrados: $(x - 9)(x + 9) = 0 \Rightarrow x = \pm 9$. -->
+- [ ] A) $x = 81$ y $x = -81$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a la constante. -->
+- [ ] B) $x = 0$ y $x = 9$ <!-- feedback: Incorrecto. $x=0$ no es raíz de este binomio. -->
+- [ ] C) $x = 9$ únicamente <!-- feedback: Incorrecto. Olvidó la raíz negativa. -->
 
 ### Explicacion Pedagogica
 Factorizando por diferencia de cuadrados $x^2 - 81 = (x - 9)(x + 9) = 0$, obtenemos $x = 9$ y $x = -9$.
@@ -225,9 +225,9 @@ Factorizando por diferencia de cuadrados $x^2 - 81 = (x - 9)(x + 9) = 0$, obtene
 ¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 100$?
 
 ### Opciones
-- [x] A) $x = 10$ y $x = -10$ <!-- feedback: Correcto. Aplicando diferencia de cuadrados: $(x - 10)(x + 10) = 0 \Rightarrow x = \pm 10$. -->
-- [ ] B) $x = 100$ y $x = -100$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a la constante. -->
-- [ ] C) $x = 0$ y $x = 10$ <!-- feedback: Incorrecto. $x=0$ no es raíz de este binomio. -->
+- [x] C) $x = 10$ y $x = -10$ <!-- feedback: Correcto. Aplicando diferencia de cuadrados: $(x - 10)(x + 10) = 0 \Rightarrow x = \pm 10$. -->
+- [ ] A) $x = 100$ y $x = -100$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a la constante. -->
+- [ ] B) $x = 0$ y $x = 10$ <!-- feedback: Incorrecto. $x=0$ no es raíz de este binomio. -->
 - [ ] D) $x = 10$ únicamente <!-- feedback: Incorrecto. Olvidó la raíz negativa. -->
 
 ### Explicacion Pedagogica
@@ -246,10 +246,10 @@ Factorizando por diferencia de cuadrados $x^2 - 100 = (x - 10)(x + 10) = 0$, obt
 ¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 121$?
 
 ### Opciones
-- [x] A) $x = 11$ y $x = -11$ <!-- feedback: Correcto. Aplicando diferencia de cuadrados: $(x - 11)(x + 11) = 0 \Rightarrow x = \pm 11$. -->
-- [ ] B) $x = 121$ y $x = -121$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a la constante. -->
-- [ ] C) $x = 0$ y $x = 11$ <!-- feedback: Incorrecto. $x=0$ no es raíz de este binomio. -->
-- [ ] D) $x = 11$ únicamente <!-- feedback: Incorrecto. Olvidó la raíz negativa. -->
+- [x] D) $x = 11$ y $x = -11$ <!-- feedback: Correcto. Aplicando diferencia de cuadrados: $(x - 11)(x + 11) = 0 \Rightarrow x = \pm 11$. -->
+- [ ] A) $x = 121$ y $x = -121$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a la constante. -->
+- [ ] B) $x = 0$ y $x = 11$ <!-- feedback: Incorrecto. $x=0$ no es raíz de este binomio. -->
+- [ ] C) $x = 11$ únicamente <!-- feedback: Incorrecto. Olvidó la raíz negativa. -->
 
 ### Explicacion Pedagogica
 Factorizando por diferencia de cuadrados $x^2 - 121 = (x - 11)(x + 11) = 0$, obtenemos $x = 11$ y $x = -11$.
@@ -267,8 +267,8 @@ Factorizando por diferencia de cuadrados $x^2 - 121 = (x - 11)(x + 11) = 0$, obt
 ¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 144$?
 
 ### Opciones
-- [x] A) $x = 12$ y $x = -12$ <!-- feedback: Correcto. Aplicando diferencia de cuadrados: $(x - 12)(x + 12) = 0 \Rightarrow x = \pm 12$. -->
-- [ ] B) $x = 144$ y $x = -144$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a la constante. -->
+- [x] B) $x = 12$ y $x = -12$ <!-- feedback: Correcto. Aplicando diferencia de cuadrados: $(x - 12)(x + 12) = 0 \Rightarrow x = \pm 12$. -->
+- [ ] A) $x = 144$ y $x = -144$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a la constante. -->
 - [ ] C) $x = 0$ y $x = 12$ <!-- feedback: Incorrecto. $x=0$ no es raíz de este binomio. -->
 - [ ] D) $x = 12$ únicamente <!-- feedback: Incorrecto. Olvidó la raíz negativa. -->
 
@@ -309,10 +309,10 @@ Factorizando por diferencia de cuadrados $x^2 - 169 = (x - 13)(x + 13) = 0$, obt
 ¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 196$?
 
 ### Opciones
-- [x] A) $x = 14$ y $x = -14$ <!-- feedback: Correcto. Aplicando diferencia de cuadrados: $(x - 14)(x + 14) = 0 \Rightarrow x = \pm 14$. -->
-- [ ] B) $x = 196$ y $x = -196$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a la constante. -->
-- [ ] C) $x = 0$ y $x = 14$ <!-- feedback: Incorrecto. $x=0$ no es raíz de este binomio. -->
-- [ ] D) $x = 14$ únicamente <!-- feedback: Incorrecto. Olvidó la raíz negativa. -->
+- [x] D) $x = 14$ y $x = -14$ <!-- feedback: Correcto. Aplicando diferencia de cuadrados: $(x - 14)(x + 14) = 0 \Rightarrow x = \pm 14$. -->
+- [ ] A) $x = 196$ y $x = -196$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a la constante. -->
+- [ ] B) $x = 0$ y $x = 14$ <!-- feedback: Incorrecto. $x=0$ no es raíz de este binomio. -->
+- [ ] C) $x = 14$ únicamente <!-- feedback: Incorrecto. Olvidó la raíz negativa. -->
 
 ### Explicacion Pedagogica
 Factorizando por diferencia de cuadrados $x^2 - 196 = (x - 14)(x + 14) = 0$, obtenemos $x = 14$ y $x = -14$.
@@ -393,9 +393,9 @@ Factorizando por diferencia de cuadrados $x^2 - 289 = (x - 17)(x + 17) = 0$, obt
 ¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 324$?
 
 ### Opciones
-- [x] A) $x = 18$ y $x = -18$ <!-- feedback: Correcto. Aplicando diferencia de cuadrados: $(x - 18)(x + 18) = 0 \Rightarrow x = \pm 18$. -->
-- [ ] B) $x = 324$ y $x = -324$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a la constante. -->
-- [ ] C) $x = 0$ y $x = 18$ <!-- feedback: Incorrecto. $x=0$ no es raíz de este binomio. -->
+- [x] C) $x = 18$ y $x = -18$ <!-- feedback: Correcto. Aplicando diferencia de cuadrados: $(x - 18)(x + 18) = 0 \Rightarrow x = \pm 18$. -->
+- [ ] A) $x = 324$ y $x = -324$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a la constante. -->
+- [ ] B) $x = 0$ y $x = 18$ <!-- feedback: Incorrecto. $x=0$ no es raíz de este binomio. -->
 - [ ] D) $x = 18$ únicamente <!-- feedback: Incorrecto. Olvidó la raíz negativa. -->
 
 ### Explicacion Pedagogica
@@ -414,8 +414,8 @@ Factorizando por diferencia de cuadrados $x^2 - 324 = (x - 18)(x + 18) = 0$, obt
 ¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 361$?
 
 ### Opciones
-- [x] A) $x = 19$ y $x = -19$ <!-- feedback: Correcto. Aplicando diferencia de cuadrados: $(x - 19)(x + 19) = 0 \Rightarrow x = \pm 19$. -->
-- [ ] B) $x = 361$ y $x = -361$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a la constante. -->
+- [x] B) $x = 19$ y $x = -19$ <!-- feedback: Correcto. Aplicando diferencia de cuadrados: $(x - 19)(x + 19) = 0 \Rightarrow x = \pm 19$. -->
+- [ ] A) $x = 361$ y $x = -361$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a la constante. -->
 - [ ] C) $x = 0$ y $x = 19$ <!-- feedback: Incorrecto. $x=0$ no es raíz de este binomio. -->
 - [ ] D) $x = 19$ únicamente <!-- feedback: Incorrecto. Olvidó la raíz negativa. -->
 
@@ -435,9 +435,9 @@ Factorizando por diferencia de cuadrados $x^2 - 361 = (x - 19)(x + 19) = 0$, obt
 ¿Cuáles son las raíces reales del polinomio $P(x) = x^2 - 400$?
 
 ### Opciones
-- [x] A) $x = 20$ y $x = -20$ <!-- feedback: Correcto. Aplicando diferencia de cuadrados: $(x - 20)(x + 20) = 0 \Rightarrow x = \pm 20$. -->
-- [ ] B) $x = 400$ y $x = -400$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a la constante. -->
-- [ ] C) $x = 0$ y $x = 20$ <!-- feedback: Incorrecto. $x=0$ no es raíz de este binomio. -->
+- [x] C) $x = 20$ y $x = -20$ <!-- feedback: Correcto. Aplicando diferencia de cuadrados: $(x - 20)(x + 20) = 0 \Rightarrow x = \pm 20$. -->
+- [ ] A) $x = 400$ y $x = -400$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a la constante. -->
+- [ ] B) $x = 0$ y $x = 20$ <!-- feedback: Incorrecto. $x=0$ no es raíz de este binomio. -->
 - [ ] D) $x = 20$ únicamente <!-- feedback: Incorrecto. Olvidó la raíz negativa. -->
 
 ### Explicacion Pedagogica

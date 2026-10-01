@@ -35,13 +35,13 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ¿Cuál es el criterio fundamental que permite clasificar un texto dentro de la tipología descriptiva?
 
 ### Opciones
-- [x] A) La representación con palabras de las características de objetos, personas o ambientes, respondiendo al 'cómo es' algo.
+- [x] D) La representación con palabras de las características de objetos, personas o ambientes, respondiendo al 'cómo es' algo.
   <!-- feedback: Correcto. La descripción se enfoca en representar cualidades espaciales o de personalidad. -->
-- [ ] B) La defensa de un punto de vista subjetivo para persuadir al lector mediante argumentos de peso.
+- [ ] A) La defensa de un punto de vista subjetivo para persuadir al lector mediante argumentos de peso.
   <!-- feedback: Incorrecto. Esto define a los textos de carácter argumentativo. -->
-- [ ] C) El relato estructurado de acontecimientos cronológicos reales o ficticios.
+- [ ] B) El relato estructurado de acontecimientos cronológicos reales o ficticios.
   <!-- feedback: Incorrecto. Esto caracteriza a la tipología narrativa. -->
-- [ ] D) La presencia de directrices técnicas emitidas por el Ministerio de Obras Públicas.
+- [ ] C) La presencia de directrices técnicas emitidas por el Ministerio de Obras Públicas.
   <!-- feedback: Incorrecto. Esto define la tipología instructiva o normativa. -->
 
 ### Explicacion Pedagogica
@@ -62,9 +62,9 @@ La tipología descriptiva recrea la realidad fisonómica, espacial o moral media
 ### Opciones
 - [ ] A) El uso del registro culto formal en todas las oraciones del escrito.
   <!-- feedback: Incorrecto. Ambas tipologías pueden utilizar el registro culto formal de la lengua. -->
-- [x] B) La presencia de un narrador y el transcurrir de acciones en un tiempo y espacio que transforman el estado inicial de los personajes.
+- [x] C) La presencia de un narrador y el transcurrir de acciones en un tiempo y espacio que transforman el estado inicial de los personajes.
   <!-- feedback: Correcto. El dinamismo de la acción y la secuencia de cambios de estado son exclusivos del relato narrativo. -->
-- [ ] C) La explicación detallada y objetiva de conceptos científicos especializados.
+- [ ] B) La explicación detallada y objetiva de conceptos científicos especializados.
   <!-- feedback: Incorrecto. Esto caracteriza al texto expositivo, no al narrativo. -->
 - [ ] D) La división del escrito en párrafos coherentes con sangría inicial.
   <!-- feedback: Incorrecto. Es una característica formal de presentación común a casi todos los textos en prosa. -->
@@ -87,9 +87,9 @@ La narrativa se define por su dinamismo temporal y la presencia de agentes que e
 ### Opciones
 - [ ] A) La monografía persigue conmover los sentimientos líricos del lector costarricense.
   <!-- feedback: Incorrecto. La monografía científica es estrictamente denotativa y neutral. -->
-- [x] B) La monografía expone información objetiva y contrastada de manera imparcial, mientras que el ensayo defiende con argumentos una tesis de carácter personal.
+- [x] C) La monografía expone información objetiva y contrastada de manera imparcial, mientras que el ensayo defiende con argumentos una tesis de carácter personal.
   <!-- feedback: Correcto. Distingue con precisión los fines informativos expositivos de los fines suasorios argumentativos. -->
-- [ ] C) El ensayo de opinión carece de una introducción estructurada e inicia directamente en el nudo.
+- [ ] B) El ensayo de opinión carece de una introducción estructurada e inicia directamente en el nudo.
   <!-- feedback: Incorrecto. El ensayo tiene una estructura rigurosa de introducción, desarrollo y conclusión. -->
 - [ ] D) Ambos textos son de naturaleza ficticia y no tienen ninguna vinculación con la realidad del país.
   <!-- feedback: Incorrecto. Ambos textos abordan temáticas reales y fácticas de interés social y científico. -->
@@ -110,13 +110,13 @@ La exposición persigue la transmisión neutral del saber, mientras que la argum
 ¿Qué figura descriptiva está empleando al representar de forma exclusiva el relieve y paisaje geográfico?
 
 ### Opciones
-- [x] A) Topografía.
+- [x] D) Topografía.
   <!-- feedback: Correcto. La topografía se especializa en la representación lingüística de lugares, relieves y paisajes. -->
-- [ ] B) Etopeya.
+- [ ] A) Etopeya.
   <!-- feedback: Incorrecto. La etopeya retrata los rasgos éticos y morales de una persona, no accidentes geográficos. -->
-- [ ] C) Prosopografía.
+- [ ] B) Prosopografía.
   <!-- feedback: Incorrecto. Describe las características físicas exteriores de seres humanos o animales. -->
-- [ ] D) Cronografía.
+- [ ] C) Cronografía.
   <!-- feedback: Incorrecto. Representa épocas históricas o transcursos de tiempo, no relieves de montañas. -->
 
 ### Explicacion Pedagogica
@@ -135,9 +135,9 @@ La representación detallada de espacios naturales o urbanos inanimados constitu
 Si incorporan la opinión fundamentada del director regional del MEP para dar solidez a su escrito, ¿qué tipo de argumento emplean?
 
 ### Opciones
-- [ ] A) Argumento analógico de causa-efecto de carácter familiar.
+- [ ] B) Argumento analógico de causa-efecto de carácter familiar.
   <!-- feedback: Incorrecto. No establece un encadenamiento causal o comparativo de sucesos familiares. -->
-- [x] B) Argumento de autoridad.
+- [x] A) Argumento de autoridad.
   <!-- feedback: Correcto. Recurrir al testimonio de expertos o autoridades del sector dota de credibilidad la postura defendida. -->
 - [ ] C) Argumento ad populum fundamentado en las mayorías de Liberia.
   <!-- feedback: Incorrecto. No apela al sentimiento colectivo común o a lo que piensa la mayoría. -->
@@ -185,9 +185,9 @@ La descripción procesal científica se enmarca en la tipología expositiva, pue
 ¿Cuál de las siguientes opciones utiliza una construcción impersonal y pasiva refleja adecuada para el tono expositivo?
 
 ### Opciones
-- [ ] A) Nosotros fuimos a Tarrazú y recogimos mucho café de excelente calidad.
+- [ ] B) Nosotros fuimos a Tarrazú y recogimos mucho café de excelente calidad.
   <!-- feedback: Incorrecto. El uso de la primera persona plural introduce la subjetividad del relator. -->
-- [x] B) Se recolecta el café manualmente durante la estación seca para garantizar la selección óptima del grano.
+- [x] A) Se recolecta el café manualmente durante la estación seca para garantizar la selección óptima del grano.
   <!-- feedback: Correcto. El 'Se recolecta' despersonaliza la acción, centrando la atención en el proceso agrícola de forma objetiva. -->
 - [ ] C) Yo considero que el café de Tarrazú es el más delicioso de toda Costa Rica.
   <!-- feedback: Incorrecto. La primera persona singular 'yo' expresa una apreciación subjetiva de agrado. -->
@@ -212,9 +212,9 @@ Las estructuras impersonales con 'se' permiten ocultar al agente, logrando la ne
 ### Opciones
 - [ ] A) Por consiguiente, el suelo se erosiona rápidamente.
   <!-- feedback: Incorrecto. Es un conector conclusivo o consecutivo, señala el efecto, no introduce la causa. -->
-- [x] B) puesto que el pisoteo continuo de los bueyes compacta la capa superficial del terreno.
+- [x] C) puesto que el pisoteo continuo de los bueyes compacta la capa superficial del terreno.
   <!-- feedback: Correcto. 'Puesto que' es un conector causal que introduce la explicación física originaria del fenómeno. -->
-- [ ] C) En primer lugar, debemos reforestar las llanuras de Liberia.
+- [ ] B) En primer lugar, debemos reforestar las llanuras de Liberia.
   <!-- feedback: Incorrecto. Es un conector ordenador temporal del discurso. -->
 - [ ] D) No obstante, la ganadería genera ingresos económicos considerables.
   <!-- feedback: Incorrecto. Es un conector adversativo o de oposición restrictiva. -->
@@ -237,11 +237,11 @@ Los conectores causales (puesto que, ya que, porque, dado que) introducen la jus
 ### Opciones
 - [ ] A) Relación de adición de un nuevo dato de la provincia.
   <!-- feedback: Incorrecto. No suma información, contrapone dos opciones de política. -->
-- [x] B) Relación de oposición o contraste entre dos decisiones gubernamentales opuestas.
+- [x] D) Relación de oposición o contraste entre dos decisiones gubernamentales opuestas.
   <!-- feedback: Correcto. Confronta directamente la inversión frente al recorte presupuestario. -->
-- [ ] C) Relación temporal consecutiva de acciones históricas.
+- [ ] B) Relación temporal consecutiva de acciones históricas.
   <!-- feedback: Incorrecto. No marca una secuencia temporal de hechos cronológicos. -->
-- [ ] D) Relación de causa y efecto biológico en las aulas.
+- [ ] C) Relación de causa y efecto biológico en las aulas.
   <!-- feedback: Incorrecto. Expresa contraste ético y de gestión, no leyes físicas causales. -->
 
 ### Explicacion Pedagogica
@@ -340,9 +340,9 @@ En los textos de ciencias naturales, la descripción anatómica o conductual tie
 ### Opciones
 - [ ] A) El costo de producción del agua potable costarricense es bajo en Alajuela.
   <!-- feedback: Incorrecto. El argumento apela a derechos humanos y justicia moral, no a variables financieras o de costos. -->
-- [x] B) La preservación de la vida humana y la dignidad familiar de los costarricenses prevalecen sobre los intereses de recaudación económica de las empresas distribuidoras.
+- [x] C) La preservación de la vida humana y la dignidad familiar de los costarricenses prevalecen sobre los intereses de recaudación económica de las empresas distribuidoras.
   <!-- feedback: Correcto. Para sostener que prohibir el corte es justicia social basándose en que el agua es un derecho, se debe presuponer que la vida prevalece sobre el cobro comercial del servicio. -->
-- [ ] C) La municipalidad de San José posee suficientes fondos para pagar las deudas del país.
+- [ ] B) La municipalidad de San José posee suficientes fondos para pagar las deudas del país.
   <!-- feedback: Incorrecto. Es un supuesto de factibilidad administrativa externa que no determina la lógica moral del argumento central. -->
 - [ ] D) El ciclo del agua de lluvia en Cartago garantiza el abastecimiento ilimitado.
   <!-- feedback: Incorrecto. Es una variable física hidrológica que no aborda la premisa ética de justicia social descrita. -->
@@ -364,9 +364,9 @@ La premisa implícita constituye el fundamento moral sobre el cual se erige la c
 ¿Qué técnica descriptiva unificada emplea el autor para caracterizar a don Pedro en este fragmento?
 
 ### Opciones
-- [x] A) Un retrato literario, ya que amalgama la descripción física y conductual exterior del personaje con sugerencias de su mundo psicológico íntimo y emocional.
+- [x] B) Un retrato literario, ya que amalgama la descripción física y conductual exterior del personaje con sugerencias de su mundo psicológico íntimo y emocional.
   <!-- feedback: Correcto. Reúne rasgos externos (caballo, bastón, paso pausado, saludo) con rasgos internos (paciencia, nostalgia, recuerdos), configurando un retrato. -->
-- [ ] B) Una prosopografía pura exenta de cualquier rasgo anímico, emocional o ético del personaje costarricense.
+- [ ] A) Una prosopografía pura exenta de cualquier rasgo anímico, emocional o ético del personaje costarricense.
   <!-- feedback: Incorrecto. Menciona una 'sonrisa nostálgica' y el 'peso de sus recuerdos', que pertenecen al mundo interno afectivo. -->
 - [ ] C) Una topografía exhaustiva centrada en detallar la composición de adobes del viejo mercado.
   <!-- feedback: Incorrecto. El texto describe la fisonomía de la persona, no la arquitectura de la provincia. -->
@@ -392,11 +392,11 @@ El retrato literario asocia el físico y la conducta con la psicología, logrand
 ### Opciones
 - [ ] A) Altamente sólido, al fundarse en las leyes de tránsito vigentes en la provincia de San José.
   <!-- feedback: Incorrecto. No cita leyes y recurre a una descalificación grupal prejuiciosa irrelevante. -->
-- [x] B) Poco sólido e inválido, puesto que incurre en una falacia de generalización apresurada al atribuir una conducta negativa particular a todo un colectivo social sin pruebas científicas.
+- [x] D) Poco sólido e inválido, puesto que incurre en una falacia de generalización apresurada al atribuir una conducta negativa particular a todo un colectivo social sin pruebas científicas.
   <!-- feedback: Correcto. Calificar a 'todos los ciclistas' de irresponsables es una generalización falaz que destruye el rigor argumentativo académico. -->
-- [ ] C) Completamente verídico y riguroso, al proteger la integridad de los peatones del país.
+- [ ] B) Completamente verídico y riguroso, al proteger la integridad de los peatones del país.
   <!-- feedback: Incorrecto. Carece de rigor y veracidad fáctica al basarse en un prejuicio absoluto y no en datos oficiales. -->
-- [ ] D) Inválido debido a que el estudiante debió escribir el párrafo empleando rimas.
+- [ ] C) Inválido debido a que el estudiante debió escribir el párrafo empleando rimas.
   <!-- feedback: Incorrecto. Los escritos argumentativos académicos deben evitar rimas y lirismos poéticos. -->
 
 ### Explicacion Pedagogica
@@ -416,9 +416,9 @@ La generalización apresurada o prejuicio absoluto despoja al texto argumentativ
 Al evaluar la viabilidad de esta propuesta, ¿cuál es su principal debilidad de contenido?
 
 ### Opciones
-- [ ] A) La falta de uso de un vocabulario poético y figuras literarias como la metáfora.
+- [ ] B) La falta de uso de un vocabulario poético y figuras literarias como la metáfora.
   <!-- feedback: Incorrecto. Las propuestas formales o de ley deben ser claras y directas, evitando tropos poéticos ornamentales. -->
-- [x] B) La falta de pragmatismo y realismo técnico, al proponer una reforma curricular nacional radical inmediata sin transición institucional ni sustento de viabilidad presupuestaria.
+- [x] A) La falta de pragmatismo y realismo técnico, al proponer una reforma curricular nacional radical inmediata sin transición institucional ni sustento de viabilidad presupuestaria.
   <!-- feedback: Correcto. Proponer suspender exámenes en un mes sin plan de contingencia tecnológica o presupuestaria carece de realismo de la provincia. -->
 - [ ] C) Que el autor no especificó las marcas de consolas de videojuegos que comprarían las escuelas.
   <!-- feedback: Incorrecto. Detallar marcas comerciales de consolas no resuelve la utopía metodológica de fondo de la propuesta. -->
@@ -444,11 +444,11 @@ Una propuesta o argumento con fines prácticos debe estar respaldado por la viab
 ### Opciones
 - [ ] A) Falacia ad hominem directa al descalificar la moral de los recicladores locales.
   <!-- feedback: Incorrecto. Ataca el proyecto ecológico de la planta, no la vida privada o moral del vecino. -->
-- [x] B) Falacia de la pendiente resbaladiza, al postular una cadena catastrófica desmesurada sin demostrar la relación causa-efecto real de la actividad industrial.
+- [x] D) Falacia de la pendiente resbaladiza, al postular una cadena catastrófica desmesurada sin demostrar la relación causa-efecto real de la actividad industrial.
   <!-- feedback: Correcto. Sostiene que una sola planta convertirá a Liberia en basurero continental inmediato, incurriendo en una exageración causal falaz sin pruebas. -->
-- [ ] C) Falacia ad verecundiam al apoyarse en estudios del Estado de la Nación.
+- [ ] B) Falacia ad verecundiam al apoyarse en estudios del Estado de la Nación.
   <!-- feedback: Incorrecto. No se apoya en ninguna autoridad; emite un vaticinio apocalíptico personal. -->
-- [ ] D) Petición de principio al definir reciclaje como sinónimo exacto de salud ecológica.
+- [ ] C) Petición de principio al definir reciclaje como sinónimo exacto de salud ecológica.
   <!-- feedback: Incorrecto. La falacia que define la estructura del argumento es el encadenamiento de desastre. -->
 
 ### Explicacion Pedagogica
@@ -470,9 +470,9 @@ La pendiente resbaladiza busca infundir temor al postular que un acto desencaden
 ### Opciones
 - [ ] A) Contradicción flagrante entre los términos biológicos utilizados por el estudiante.
   <!-- feedback: Incorrecto. El texto es temáticamente coherente, no presenta contradicciones lógicas directas de términos. -->
-- [x] B) Razonamiento circular o tautología, al repetir la tesis de partida de forma redundante en las premisas sin aportar un desarrollo conceptual real.
+- [x] C) Razonamiento circular o tautología, al repetir la tesis de partida de forma redundante en las premisas sin aportar un desarrollo conceptual real.
   <!-- feedback: Correcto. El fragmento dice 'debemos cuidar bosques porque son árboles y sin árboles no hay vegetación y no hay bosques', repitiendo la misma idea circularmente. -->
-- [ ] C) La falta de inclusión de un registro informal con voseo para conectar con el campesino.
+- [ ] B) La falta de inclusión de un registro informal con voseo para conectar con el campesino.
   <!-- feedback: Incorrecto. La escritura académica formal de ensayos exige evitar variantes informales y voseos coloquiales. -->
 - [ ] D) Sesgo geográfico al no mencionar el Parque Nacional de la provincia.
   <!-- feedback: Incorrecto. No es obligatorio mencionar un parque específico para fundamentar la necesidad de cuidar los bosques. -->

@@ -32,11 +32,11 @@ En un texto de divulgación científica, ¿cuál es la función de la sección d
 ### Opciones
 - [ ] A) Ocultar la metodología experimental para que el lector no pueda replicar el estudio
   <!-- feedback: Incorrecto. El resumen busca clarificar y resumir, no ocultar la metodología científica. -->
-- [x] B) Ofrecer una síntesis concisa del objetivo, metodología, resultados principales y conclusiones del estudio
+- [x] D) Ofrecer una síntesis concisa del objetivo, metodología, resultados principales y conclusiones del estudio
   <!-- feedback: Correcto. El resumen científico provee una panorámica completa y estructurada del artículo, permitiendo al lector evaluar su relevancia de manera inmediata. -->
-- [ ] C) Presentar agradecimientos personales a los familiares de los investigadores del Cusco
+- [ ] B) Presentar agradecimientos personales a los familiares de los investigadores del Cusco
   <!-- feedback: Incorrecto. Los agradecimientos personales constituyen otra sección independiente al final del artículo académico. -->
-- [ ] D) Exaltar poéticamente la belleza de los nevados andinos con metáforas líricas
+- [ ] C) Exaltar poéticamente la belleza de los nevados andinos con metáforas líricas
   <!-- feedback: Incorrecto. El registro científico es denotativo y formal, por lo que el resumen evita la prosa poética o metáforas líricas. -->
 
 ### Explicacion Pedagogica
@@ -134,9 +134,9 @@ Lea el fragmento explicativo:
 De acuerdo con la lógica de este texto expositivo, ¿qué beneficio estratégico reporta la técnica de las amunas para las poblaciones de los valles bajos?
 
 ### Opciones
-- [ ] A) Provocar inundaciones artificiales en las zonas arqueológicas de la costa
+- [ ] B) Provocar inundaciones artificiales en las zonas arqueológicas de la costa
   <!-- feedback: Incorrecto. Las amunas regulan el agua en el subsuelo; no buscan causar inundaciones dañinas en sitios patrimoniales. -->
-- [x] B) Asegurar el abastecimiento de agua dulce en los valles bajos durante los meses de ausencia de lluvias en la costa
+- [x] A) Asegurar el abastecimiento de agua dulce en los valles bajos durante los meses de ausencia de lluvias en la costa
   <!-- feedback: Correcto. La recarga de acuíferos mediante infiltración en la montaña garantiza que los manantiales de los valles sigan activos durante la sequía, sirviendo como una represa natural subterránea. -->
 - [ ] C) Acelerar el derretimiento de los glaciares debido a la fricción física del agua de lluvia
   <!-- feedback: Incorrecto. Las amunas captan agua de lluvia en laderas de tierra o roca; su fin no es destruir glaciares de nieve. -->
@@ -190,11 +190,11 @@ El estudiante escribe:
 ### Opciones
 - [ ] A) Cita directa de autoridad científica de la Academia de Medicina
   <!-- feedback: Incorrecto. No se cita la declaración literal de un médico o estudio indexado. -->
-- [x] B) Analogía didáctica o metáfora explicativa
+- [x] D) Analogía didáctica o metáfora explicativa
   <!-- feedback: Correcto. El autor compara el funcionamiento complejo de un proceso biológico invisible (sistema inmune) con un marco histórico familiar y visible para la población (las murallas de Lima colonial y los soldados vigías), facilitando el aprendizaje dinámico. -->
-- [ ] C) Definición conceptual mediante fórmulas químicas de laboratorio
+- [ ] B) Definición conceptual mediante fórmulas químicas de laboratorio
   <!-- feedback: Incorrecto. No se utilizan fórmulas matemáticas, nomenclaturas o ecuaciones químicas en este pasaje descriptivo. -->
-- [ ] D) Falacia ad hominem contra los virus respiratorios de la costa
+- [ ] C) Falacia ad hominem contra los virus respiratorios de la costa
   <!-- feedback: Incorrecto. Los virus son entidades biológicas y no se les puede agredir mediante la falacia de ataque a la persona moral. -->
 
 ### Explicacion Pedagogica
@@ -246,9 +246,9 @@ En el artículo de divulgación, se lee:
   <!-- feedback: Incorrecto. Esto atribuye de forma anacrónica el conocimiento de la bioquímica moderna (omega-3, medicina coronaria) a una civilización precolombina. -->
 - [ ] B) El comercio de Caral fue destruido por la sobrepesca de barcos factoría extranjeros
   <!-- feedback: Incorrecto. La sobrepesca por barcos factoría industriales es un fenómeno moderno del siglo XX; no existía en el periodo arcaico de Caral. -->
-- [x] C) La dieta de la civilización Caral dependía en gran medida de los recursos marinos de la costa del Pacífico, demostrando una temprana integración económica costa-sierra
+- [x] D) La dieta de la civilización Caral dependía en gran medida de los recursos marinos de la costa del Pacífico, demostrando una temprana integración económica costa-sierra
   <!-- feedback: Correcto. El hallazgo empírico de restos de pescados azules en Caral (sitio arqueológico en el valle de Supe) prueba la presencia constante de recursos marinos en su alimentación y sugiere relaciones de intercambio o pesca activa con el litoral. -->
-- [ ] D) Caral es la única civilización del mundo prehispánico que consumía pescados grasos
+- [ ] C) Caral es la única civilización del mundo prehispánico que consumía pescados grasos
   <!-- feedback: Incorrecto. Esta es una generalización abusiva no respaldada por el texto ni por la arqueología andina general. -->
 
 ### Explicacion Pedagogica
@@ -269,11 +269,11 @@ En un texto sobre la medicina tradicional andina de la sierra norte, un curander
 ¿Cómo evalúa un divulgador de ciencia médica esta explicación tradicional desde la perspectiva del pensamiento crítico científico?
 
 ### Opciones
-- [ ] A) Es correcta científicamente porque el viento nocturno contiene microorganismos de plomo líquido
+- [ ] B) Es correcta científicamente porque el viento nocturno contiene microorganismos de plomo líquido
   <!-- feedback: Incorrecto. El viento no contiene plomo líquido de forma natural en un río rural andino; la explicación biológica del malestar es otra. -->
-- [ ] B) Debe ser censurada por ley penal del Estado peruano para proteger la venta de medicamentos importados
+- [ ] C) Debe ser censurada por ley penal del Estado peruano para proteger la venta de medicamentos importados
   <!-- feedback: Incorrecto. La legislación no penaliza las creencias tradicionales en el Perú; el papel del divulgador es la educación cívica racional, no el autoritarismo judicial. -->
-- [x] C) Representa una explicación basada en la tradición cultural que incurre en causa falsa o correlación ilusoria (asociar el frío del río con la infección gástrica), obviando la verdadera causa biológica (ingesta de agua o alimentos contaminados por bacterias)
+- [x] A) Representa una explicación basada en la tradición cultural que incurre en causa falsa o correlación ilusoria (asociar el frío del río con la infección gástrica), obviando la verdadera causa biológica (ingesta de agua o alimentos contaminados por bacterias)
   <!-- feedback: Correcto. La ciencia médica explica que el dolor estomacal (gastroenteritis) responde a la presencia de patógenos (bacterias, virus o parásitos) en el agua o comida, desmitificando la atribución mística del viento nocturno o 'aire de río' como causa física directa. -->
 - [ ] D) Demuestra que la medicina occidental no sirve para curar dolores estomacales en el norte del país
   <!-- feedback: Incorrecto. La medicina moderna cura la gastroenteritis mediante antibióticos y rehidratación con base científica contrastada. -->
@@ -300,9 +300,9 @@ Sustentado en este texto, ¿cuál es el verdadero dilema ético y jurídico que 
   <!-- feedback: Incorrecto. La biopiratería es un problema de propiedad intelectual global, no de capacidad de archivadores en las oficinas de Lima. -->
 - [ ] B) La incapacidad biológica de la maca para crecer en suelos de otros continentes
   <!-- feedback: Incorrecto. La maca sí puede cultivarse en invernaderos extranjeros; el problema es ético-jurídico por los derechos de patente de los saberes tradicionales. -->
-- [x] C) El despojo legal del conocimiento colectivo tradicional andino por parte del sistema de patentes mercantiles internacionales, privatizando un recurso de origen comunitario
+- [x] D) El despojo legal del conocimiento colectivo tradicional andino por parte del sistema de patentes mercantiles internacionales, privatizando un recurso de origen comunitario
   <!-- feedback: Correcto. El conflicto reside en que las patentes internacionales amparan la propiedad intelectual privada e individual de laboratorios farmacéuticos extranjeros sobre principios activos que en realidad fueron domesticados y seleccionados de forma colectiva y milenaria por las comunidades andinas, vulnerando los derechos colectivos indígenas. -->
-- [ ] D) La prohibición de consumir chicha de maca en las ferias agropecuarias del Cusco
+- [ ] C) La prohibición de consumir chicha de maca en las ferias agropecuarias del Cusco
   <!-- feedback: Incorrecto. Consumir chicha de maca no está prohibido; el debate es sobre las patentes farmacéuticas mundiales de exportación. -->
 
 ### Explicacion Pedagogica
@@ -321,11 +321,11 @@ La biopiratería es un tema de alta relevancia en los estudios sociales andinos.
 En debates sobre la antigüedad de la civilización andina, el arqueólogo peruano Julio C. Tello sostuvo la tesis autoctonista del origen de la cultura peruana frente a la tesis inmigracionista de Max Uhle. ¿Cuál era el postulado central de Tello que reconfiguró la identidad nacional?
 
 ### Opciones
-- [ ] A) Que la cultura peruana nació en las costas de México gracias a viajes en balsas de totora
+- [ ] B) Que la cultura peruana nació en las costas de México gracias a viajes en balsas de totora
   <!-- feedback: Incorrecto. Esta es una variante de la tesis inmigracionista o difusionista mesoamericana combatida por Tello. -->
-- [ ] B) Que los incas fueron instruidos en la ciencia de los andenes por monjes budistas de Asia
+- [ ] C) Que los incas fueron instruidos en la ciencia de los andenes por monjes budistas de Asia
   <!-- feedback: Incorrecto. Es una hipótesis fantástica falsa sin base arqueológica o científica real en los andes peruanos. -->
-- [x] C) Que la cultura peruana es un desarrollo autónomo e interno nacido en la sierra y selva (cultura Chavín), sin depender de influencias externas mesoamericanas
+- [x] A) Que la cultura peruana es un desarrollo autónomo e interno nacido en la sierra y selva (cultura Chavín), sin depender de influencias externas mesoamericanas
   <!-- feedback: Correcto. Tello defendió el autoctonismo: la civilización peruana se forjó de forma independiente en su propio suelo, teniendo como raíz original o 'cultura matriz' a Chavín de Huántar, cuyas deidades (jaguar, serpiente) revelan una procedencia de la selva amazónica, rebatiendo a Uhle que afirmaba la superioridad de influencias mexicanas. -->
 - [ ] D) Que la civilización Caral fue construida por extraterrestres debido a la perfección de sus pirámides
   <!-- feedback: Incorrecto. Julio C. Tello no conoció Caral (declarada patrimonio en el siglo XXI) ni formuló explicaciones pseudocientíficas extraterrestres. -->
@@ -377,9 +377,9 @@ En un estudio sobre el derretimiento de los glaciares de la cordillera Blanca, s
   <!-- feedback: Incorrecto. El CO2 es un gas contaminante de desecho e invernadero, no es gas respirable por humanos. -->
 - [ ] B) Declarar que el glaciar va a recuperar toda su masa de hielo de forma inmediata al prohibirse las chimeneas
   <!-- feedback: Incorrecto. El retroceso es un proceso acumulativo complejo de difícil reversión inmediata por una sola prohibición local. -->
-- [x] C) Confundir correlación estadística general (dos variables fluctúan de forma paralela en el tiempo) con causalidad directa y exclusiva, obviando el papel de factores locales (como la deposición de hollín de incendios de laderas o cambios microclimatológicos de la cuenca)
+- [x] D) Confundir correlación estadística general (dos variables fluctúan de forma paralela en el tiempo) con causalidad directa y exclusiva, obviando el papel de factores locales (como la deposición de hollín de incendios de laderas o cambios microclimatológicos de la cuenca)
   <!-- feedback: Correcto. Aunque hay una evidente correlación global entre calentamiento por CO2 y retroceso glaciar, en la escala local de una montaña específica intervienen otras variables críticas como el hollín urbano local que ennegrece la nieve (reduciendo el albedo o capacidad de reflejar el sol), acelerando la fusión. -->
-- [ ] D) Exigir que la población de la sierra peruana deje de sembrar quinua para no calentar la tierra
+- [ ] C) Exigir que la población de la sierra peruana deje de sembrar quinua para no calentar la tierra
   <!-- feedback: Incorrecto. El cultivo de quinua no contribuye al calentamiento global de los glaciares de forma significativa; es una actividad agrícola sostenible de la puna. -->
 
 ### Explicacion Pedagogica
@@ -404,9 +404,9 @@ Desde una perspectiva de análisis económico y social, ¿cuál es el postulado 
   <!-- feedback: Incorrecto. El ayni se basa en reciprocidad simétrica de fuerza de trabajo sin transacciones monetarias o usura. -->
 - [ ] B) La tradición del ayni impide el desarrollo de los mercados modernos en los pueblos de la sierra
   <!-- feedback: Incorrecto. No se presenta como un freno al desarrollo, sino como una institución solidaria protectora frente a riesgos. -->
-- [x] C) El ayni opera como un mecanismo de autogestión y seguridad social colectiva sin flujos financieros, protegiendo a los comuneros de la escasez
+- [x] D) El ayni opera como un mecanismo de autogestión y seguridad social colectiva sin flujos financieros, protegiendo a los comuneros de la escasez
   <!-- feedback: Correcto. El autor analiza el ayni no como folclore pintoresco, sino como una institución económica objetiva de autodefensa social, donde la fuerza de trabajo prestada de forma mutua e igualitaria suple la falta de cobertura de seguros del Estado en los Andes. -->
-- [ ] D) Se debe prohibir la ayuda mutua entre parientes para fomentar la competencia individual extrema
+- [ ] C) Se debe prohibir la ayuda mutua entre parientes para fomentar la competencia individual extrema
   <!-- feedback: Incorrecto. El texto exalta las bondades y la cohesión del ayni; no propone su abolición para implantar una competencia neoliberal destructiva. -->
 
 ### Explicacion Pedagogica
@@ -429,9 +429,9 @@ En un folleto escolar de ciencias, un estudiante escribe:
 ### Opciones
 - [ ] A) El texto es correcto porque la maca negra fue domesticada por los incas en la pampa de Junín
   <!-- feedback: Incorrecto. Aunque el origen geográfico sea correcto, esto no valida las afirmaciones pseudocientíficas de cura milagrosa e IQ del 50%. -->
-- [ ] B) Debería sugerir que la maca negra se consuma únicamente mezclada con gaseosa importada
+- [ ] C) Debería sugerir que la maca negra se consuma únicamente mezclada con gaseosa importada
   <!-- feedback: Incorrecto. Mezclarla con gaseosa azucarada deteriora su perfil saludable; la sugerencia de receta no resuelve la falta de rigor científico. -->
-- [x] C) Incurre en lenguaje pseudocientífico sensacionalista al usar términos absolutos ('cura inmediata', 'milagrosa') y datos estadísticos inverosímiles ('50% de IQ') sin sustento en ensayos clínicos controlados, comprometiendo la credibilidad de la divulgación
+- [x] B) Incurre en lenguaje pseudocientífico sensacionalista al usar términos absolutos ('cura inmediata', 'milagrosa') y datos estadísticos inverosímiles ('50% de IQ') sin sustento en ensayos clínicos controlados, comprometiendo la credibilidad de la divulgación
   <!-- feedback: Correcto. La divulgación de ciencias exige desterrar los adjetivos mágicos o hiperbólicos y las cifras de rendimiento intelectual fantásticas. Debe expresar los beneficios nutricionales o cognitivos de forma prudencial y respaldada en estudios médicos contrastables (ej. 'posee nutrientes que contribuyen a reducir el cansancio físico y mental'). -->
 - [ ] D) El término 'maca' debe escribirse obligatoriamente con la grafía K en el español estándar
   <!-- feedback: Incorrecto. Maca se escribe correctamente con C en castellano; la grafía K es un préstamo o asimilación etimológica opcional de uso minoritario. -->
@@ -458,9 +458,9 @@ Desde la perspectiva de la deconstrucción metodológica científica, ¿cuál es
   <!-- feedback: Incorrecto. No hay ninguna verificación científica de naves o extraterrestres en la arqueología de Sacsayhuamán; es pura ficción de entretenimiento. -->
 - [ ] B) Invalida el artículo por no definir el color exacto de los rayos láser utilizados por los extraterrestres
   <!-- feedback: Incorrecto. La crítica no debe debatir sobre la gama cromática de una fantasía tecnológica, sino sobre el sesgo del argumento de fondo. -->
-- [x] C) Incurre en un sesgo eurocentrista y de prejuicio racista implícito (falacia de incredulidad personal), al subestimar de forma sistemática la capacidad organizativa, la destreza de ingeniería y el uso de técnicas de desgaste de piedra y maquetas de la sociedad incaica
+- [x] D) Incurre en un sesgo eurocentrista y de prejuicio racista implícito (falacia de incredulidad personal), al subestimar de forma sistemática la capacidad organizativa, la destreza de ingeniería y el uso de técnicas de desgaste de piedra y maquetas de la sociedad incaica
   <!-- feedback: Correcto. El argumento comete una falacia lógica (petición de ignorancia) al asumir que como los incas no usaban hierro, entonces no podían tallar piedra. La arqueología científica ha demostrado que usaban martillos de hematita o piedras más duras, palancas de madera, fricción por arena y agua y, sobre todo, una formidable organización social y división del trabajo. Atribuir la obra a extraterrestres despoja de forma sistemática al indígena andino de su genio histórico e intelectual. -->
-- [ ] D) Se corrige señalando que el hierro usado por los incas era importado de las minas de carbón de Alemania colonial
+- [ ] C) Se corrige señalando que el hierro usado por los incas era importado de las minas de carbón de Alemania colonial
   <!-- feedback: Incorrecto. El Imperio de los Incas fue prehispánico y anterior a la existencia de Alemania colonial; la metalurgia andina fue autónoma y de cobre, bronce, oro y plata. -->
 
 ### Explicacion Pedagogica
@@ -482,11 +482,11 @@ Lea los siguientes dos argumentos en conflicto nacional:
 ¿Cuál es la hipótesis crítica que formula el analista de políticas públicas agrarias para sopesar este dilema científico nacional?
 
 ### Opciones
-- [ ] A) El Argumento A es el único científico porque la resistencia a las plagas es una mentira biológica de las comunidades
+- [ ] B) El Argumento A es el único científico porque la resistencia a las plagas es una mentira biológica de las comunidades
   <!-- feedback: Incorrecto. El beneficio de resistencia a plagas sí es un hecho biotecnológico real verificado en laboratorios; no es una mentira. -->
-- [ ] B) El Argumento B es puramente poético y carece de validez económica para la agricultura rural de la sierra
+- [ ] C) El Argumento B es puramente poético y carece de validez económica para la agricultura rural de la sierra
   <!-- feedback: Incorrecto. La conservación de la biodiversidad de papas tiene un enorme valor económico de mercado orgánico internacional y de seguridad alimentaria real frente al cambio climático. -->
-- [x] C) Se trata de un dilema complejo entre la rentabilidad agrícola inmediata de alta eficiencia y la preservación de la seguridad biológica y la megadiversidad nativa a largo plazo, donde cada opción defiende prioridades de desarrollo incompatibles entre sí
+- [x] A) Se trata de un dilema complejo entre la rentabilidad agrícola inmediata de alta eficiencia y la preservación de la seguridad biológica y la megadiversidad nativa a largo plazo, donde cada opción defiende prioridades de desarrollo incompatibles entre sí
   <!-- feedback: Correcto. El debate de los transgénicos en el Perú (país de origen de la papa) es un dilema de prioridades estratégicas: optar por el incremento volumétrico de corto plazo mediante monocultivos transgénicos patentados de empresas transnacionales, o proteger el patrimonio de biodiversidad nativa que dota al suelo andino de resistencia natural frente a crisis globales y consagra la soberanía de las comunidades locales. -->
 - [ ] D) La ciencia peruana exige prohibir el cultivo de todo tipo de papas nativas en la cordillera Blanca para enfriar el clima
   <!-- feedback: Incorrecto. Las papas nativas son el cultivo sostenible tradicional andino por excelencia y no contribuyen a alterar el albedo o derretir los glaciares de Huaraz. -->
@@ -513,9 +513,9 @@ Lea el fragmento de un artículo de neurociencia cognitiva de la Universidad de 
   <!-- feedback: Incorrecto. El estudio demuestra lo contrario: que el bilingüismo quechua-español enriquece la reserva cognitiva y el desarrollo neuronal del sujeto. -->
 - [ ] B) La obligación de que todos los científicos del país realicen sus tomografías de forma exclusiva en quechua imperial
   <!-- feedback: Incorrecto. El idioma de los aparatos médicos o del personal de salud es instrumental; la implicancia es de valoración cognitiva general. -->
-- [x] C) Desmitificar la falsa creencia de que el bilingüismo andino retrasa el aprendizaje escolar, probando que hablar quechua y español de forma paralela enriquece el desarrollo cerebral y las destrezas lógicas del estudiante
+- [x] D) Desmitificar la falsa creencia de que el bilingüismo andino retrasa el aprendizaje escolar, probando que hablar quechua y español de forma paralela enriquece el desarrollo cerebral y las destrezas lógicas del estudiante
   <!-- feedback: Correcto. El estudio provee evidencia científica dura contra el prejuicio lingüístico tradicional (que tildaba al quechua de ser un estorbo para el aprendizaje del castellano). Al demostrar que el bilingüismo temprano andino expande la reserva cognitiva y la agilidad de atención, la ciencia valida la necesidad de la educación intercultural bilingüe para potenciar el talento intelectual de los jóvenes peruanos. -->
-- [ ] D) La prohibición de usar computadoras en los colegios públicos donde se hable la lengua aimara
+- [ ] C) La prohibición de usar computadoras en los colegios públicos donde se hable la lengua aimara
   <!-- feedback: Incorrecto. El desarrollo cognitivo bilingüe es plenamente compatible con el uso de tecnologías digitales modernas en el aula rural o urbana. -->
 
 ### Explicacion Pedagogica
@@ -534,11 +534,11 @@ La divulgación de la neurociencia cumple un rol emancipador en el plano social 
 En la redacción de textos de divulgación científica dirigidos a las comunidades andinas y amazónicas del Perú, ¿cuál es el estándar metodológico supremo que garantiza el respeto ético e intercultural del conocimiento colectivo?
 
 ### Opciones
-- [ ] A) La traducción literal de las teorías físicas de Albert Einstein al quechua, ignorando los ritos locales de agricultura
+- [ ] B) La traducción literal de las teorías físicas de Albert Einstein al quechua, ignorando los ritos locales de agricultura
   <!-- feedback: Incorrecto. La traducción unilateral de teorías occidentales sin diálogo con las necesidades agrícolas locales no constituye un diálogo de saberes simétrico. -->
-- [ ] B) La prohibición de utilizar terminología técnica en español para aislar a los pobladores de la modernidad científica
+- [ ] C) La prohibición de utilizar terminología técnica en español para aislar a los pobladores de la modernidad científica
   <!-- feedback: Incorrecto. El aislamiento lingüístico o técnico impide el acceso soberano a la ciencia moderna universal; no es un estándar ético deseable. -->
-- [x] C) El diálogo de saberes o interculturalidad epistémica; que consiste en articular de forma simétrica e integradora el rigor empírico de la ciencia moderna con la cosmovisión y el conocimiento tradicional empírico andino y amazónico
+- [x] A) El diálogo de saberes o interculturalidad epistémica; que consiste en articular de forma simétrica e integradora el rigor empírico de la ciencia moderna con la cosmovisión y el conocimiento tradicional empírico andino y amazónico
   <!-- feedback: Correcto. La verdadera ética de la divulgación en un país pluricultural exige no subyugar el conocimiento local campesino. Reconoce que las comunidades poseen saberes ecológicos válidos fruto de milenios de observación empírica, promoviendo un diálogo de respeto mutuo donde la ciencia moderna y la sabiduría andina cooperan para resolver problemas materiales del agua, la siembra y el cambio climático. -->
 - [ ] D) La exigencia de que todas las patentes de plantas medicinales nativas sean propiedad exclusiva del Estado de Suiza
   <!-- feedback: Incorrecto. Entregar la propiedad exclusiva de los recursos endémicos peruanos a farmacéuticas de Suiza es la definición de biopiratería, atentando contra la soberanía nacional. -->

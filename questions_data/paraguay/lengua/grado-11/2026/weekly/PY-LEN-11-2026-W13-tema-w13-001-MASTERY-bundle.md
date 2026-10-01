@@ -56,10 +56,10 @@ Augusto Roa Bastos (1917-2005) es la figura cumbre de la literatura paraguaya, g
 ¿En qué ciudad paraguaya se desarrolla la trama de la novela 'La babosa' de Gabriel Casaccia?
 
 ### Opciones
-- [x] A) Areguá <!-- feedback: ¡Correcto! La novela transcurre en la villa veraniega de Areguá, retratando la vida pueblerina y sus conflictos. -->
-- [ ] B) Encarnación <!-- feedback: Incorrecto. No se sitúa en Encarnación. -->
-- [ ] C) Ciudad del Este <!-- feedback: Incorrecto. Ciudad del Este no existía en la época de ambientación de la obra. -->
-- [ ] D) Villarrica <!-- feedback: Incorrecto. Villarrica es cuna de poetas como Manuel Ortiz Guerrero, no el escenario de "La babosa". -->
+- [x] D) Areguá <!-- feedback: ¡Correcto! La novela transcurre en la villa veraniega de Areguá, retratando la vida pueblerina y sus conflictos. -->
+- [ ] A) Encarnación <!-- feedback: Incorrecto. No se sitúa en Encarnación. -->
+- [ ] B) Ciudad del Este <!-- feedback: Incorrecto. Ciudad del Este no existía en la época de ambientación de la obra. -->
+- [ ] C) Villarrica <!-- feedback: Incorrecto. Villarrica es cuna de poetas como Manuel Ortiz Guerrero, no el escenario de "La babosa". -->
 
 ### Explicacion Pedagogica
 'La babosa' (1952) de Gabriel Casaccia está ambientada en Areguá, reflejando de forma crítica la psicología y costumbres de la sociedad rural/pueblerina de la época.
@@ -98,8 +98,8 @@ Manuel Ortiz Guerrero creó las letras de memorables guaranias junto con el maes
 ¿Qué característica distingue fundamentalmente al Realismo Mágico hispanoamericano en obras de Roa Bastos o García Márquez?
 
 ### Opciones
-- [x] A) La integración natural de elementos fantásticos o míticos dentro de una realidad cotidiana asumida sin sorpresa. <!-- feedback: ¡Correcto! Lo irreal o maravilloso es percibido y narrado como parte natural de la realidad diaria. -->
-- [ ] B) La descripción puramente científica y objetiva de experimentos de laboratorio. <!-- feedback: Incorrecto. Corresponde a la ciencia ficción realista. -->
+- [x] B) La integración natural de elementos fantásticos o míticos dentro de una realidad cotidiana asumida sin sorpresa. <!-- feedback: ¡Correcto! Lo irreal o maravilloso es percibido y narrado como parte natural de la realidad diaria. -->
+- [ ] A) La descripción puramente científica y objetiva de experimentos de laboratorio. <!-- feedback: Incorrecto. Corresponde a la ciencia ficción realista. -->
 - [ ] C) El rechazo total de la historia y el folclore de los pueblos originarios. <!-- feedback: Incorrecto. Al contrario, se nutre de los mitos ancestrales de la región. -->
 - [ ] D) La presencia exclusiva de personajes extranjeros en escenarios europeos. <!-- feedback: Incorrecto. Se desarrolla primordialmente en espacios latinoamericanos. -->
 
@@ -119,9 +119,9 @@ El Realismo Mágico entrelaza lo fantástico, mítico y cotidiano sin ruptura l�
 ¿Quién fue el poeta nicaragüense considerado el máximo representante y fundador del Modernismo literario en Hispanoamérica con su obra 'Azul...' (1888)?
 
 ### Opciones
-- [x] A) Rubén Darío <!-- feedback: ¡Correcto! Rubén Darío impulsó la renovación estética del Modernismo hispanoamericano a partir de 1888. -->
-- [ ] B) Pablo Neruda <!-- feedback: Incorrecto. Neruda pertenece a la vanguardia poética chilena del siglo XX. -->
-- [ ] C) César Vallejo <!-- feedback: Incorrecto. Gran poeta vanguardista peruano. -->
+- [x] C) Rubén Darío <!-- feedback: ¡Correcto! Rubén Darío impulsó la renovación estética del Modernismo hispanoamericano a partir de 1888. -->
+- [ ] A) Pablo Neruda <!-- feedback: Incorrecto. Neruda pertenece a la vanguardia poética chilena del siglo XX. -->
+- [ ] B) César Vallejo <!-- feedback: Incorrecto. Gran poeta vanguardista peruano. -->
 - [ ] D) Octavio Paz <!-- feedback: Incorrecto. Ensayista y poeta mexicano del siglo XX, Premio Nobel 1990. -->
 
 ### Explicacion Pedagogica
@@ -140,10 +140,10 @@ Rubén Darío es el líder insigne del Modernismo hispanoamericano, movimiento q
 ¿Qué grupo literario paraguayo, integrado por Josefina Plá, Hérib Campos Cervera y Augusto Roa Bastos, renovó la poesía nacional e introdujo las vanguardias?
 
 ### Opciones
-- [x] A) La Generación del 40 (o Vy'a Raity) <!-- feedback: ¡Correcto! El grupo Vy'a Raity y la Generación del 40 modernizaron la poética paraguaya con conciencia social y técnica vanguardista. -->
-- [ ] B) El Ateneo de la Juventud de 1900 <!-- feedback: Incorrecto. Grupo del modernismo temprano de inicios del siglo XX. -->
-- [ ] C) La Generación del 900 <!-- feedback: Incorrecto. Integrada por Cecilio Báez, Manuel Gondra y otros ensayistas. -->
-- [ ] D) El Grupo Alcor del siglo XXI <!-- feedback: Incorrecto. Alcor fue una revista y grupo cultural de la década de 1950-60. -->
+- [x] D) La Generación del 40 (o Vy'a Raity) <!-- feedback: ¡Correcto! El grupo Vy'a Raity y la Generación del 40 modernizaron la poética paraguaya con conciencia social y técnica vanguardista. -->
+- [ ] A) El Ateneo de la Juventud de 1900 <!-- feedback: Incorrecto. Grupo del modernismo temprano de inicios del siglo XX. -->
+- [ ] B) La Generación del 900 <!-- feedback: Incorrecto. Integrada por Cecilio Báez, Manuel Gondra y otros ensayistas. -->
+- [ ] C) El Grupo Alcor del siglo XXI <!-- feedback: Incorrecto. Alcor fue una revista y grupo cultural de la década de 1950-60. -->
 
 ### Explicacion Pedagogica
 La Generación del 40 (reunida en torno al cenáculo 'Vy'a Raity') rompió con el posromanticismo tradicional, renovando las formas poéticas y la temática social en Paraguay.
@@ -161,9 +161,9 @@ La Generación del 40 (reunida en torno al cenáculo 'Vy'a Raity') rompió con e
 ¿Cuál es una de las temáticas históricas y sociales centrales abordadas en la novela 'Hijo de hombre'?
 
 ### Opciones
-- [x] A) La Guerra del Chaco y la lucha de la comunidad de Itapé por su dignidad frente a la opresión. <!-- feedback: ¡Correcto! Recrea el calvario del pueblo paraguayo en las huelgas ferroviarias y los frentes de la Guerra del Chaco (1932-1935). -->
-- [ ] B) La conquista de América por las carabelas de Cristóbal Colón. <!-- feedback: Incorrecto. Tema abordado en "El arpa y la sombra". -->
-- [ ] C) La revolución industrial en la Inglaterra del siglo XVIII. <!-- feedback: Incorrecto. Ajeno a la historia narrativa paraguaya. -->
+- [x] C) La Guerra del Chaco y la lucha de la comunidad de Itapé por su dignidad frente a la opresión. <!-- feedback: ¡Correcto! Recrea el calvario del pueblo paraguayo en las huelgas ferroviarias y los frentes de la Guerra del Chaco (1932-1935). -->
+- [ ] A) La conquista de América por las carabelas de Cristóbal Colón. <!-- feedback: Incorrecto. Tema abordado en "El arpa y la sombra". -->
+- [ ] B) La revolución industrial en la Inglaterra del siglo XVIII. <!-- feedback: Incorrecto. Ajeno a la historia narrativa paraguaya. -->
 - [ ] D) La vida de los inmigrantes europeos en la Asunción colonial del siglo XVI. <!-- feedback: Incorrecto. No corresponde a la trama histórica de la novela. -->
 
 ### Explicacion Pedagogica
@@ -182,9 +182,9 @@ La Generación del 40 (reunida en torno al cenáculo 'Vy'a Raity') rompió con e
 En la poesía de denuncia social de la escritora paraguaya Carmen Soler, ¿cuál es la actitud predominante del yo lírico?
 
 ### Opciones
-- [x] A) Combativa, solidaria con los desposeídos y crítica hacia las dictaduras. <!-- feedback: ¡Correcto! Su poesía se caracteriza por el compromiso político, la voz de protesta y la defensa de la libertad. -->
-- [ ] B) Evasiva, alejada de la realidad social y dedicada solo a la mitología griega. <!-- feedback: Incorrecto. Su poesía no busca la evasión esteticista. -->
-- [ ] C) Indiferente a los problemas campesinos y laborales. <!-- feedback: Incorrecto. Es una de las voces más comprometidas del país. -->
+- [x] C) Combativa, solidaria con los desposeídos y crítica hacia las dictaduras. <!-- feedback: ¡Correcto! Su poesía se caracteriza por el compromiso político, la voz de protesta y la defensa de la libertad. -->
+- [ ] A) Evasiva, alejada de la realidad social y dedicada solo a la mitología griega. <!-- feedback: Incorrecto. Su poesía no busca la evasión esteticista. -->
+- [ ] B) Indiferente a los problemas campesinos y laborales. <!-- feedback: Incorrecto. Es una de las voces más comprometidas del país. -->
 - [ ] D) Humorística y satírica sobre temas domésticos menores. <!-- feedback: Incorrecto. Sus temas son de profunda trascendencia política y humana. -->
 
 ### Explicacion Pedagogica
@@ -203,10 +203,10 @@ Carmen Soler representa la poesía comprometida y de combate en Paraguay, dando 
 ¿Qué poema épico de la literatura rioplatense (Argentina y Uruguay) exalta la figura del gaucho y su vida en las pampas?
 
 ### Opciones
-- [x] A) El gaucho Martín Fierro de José Hernández <!-- feedback: ¡Correcto! Obra cumbre de la literatura gauchesca rioplatense. -->
-- [ ] B) Facundo de Domingo Faustino Sarmiento <!-- feedback: Incorrecto. Ensayos sociopolíticos en prosa sobre civilización y barbarie. -->
-- [ ] C) La vorágine de José Eustasio Rivera <!-- feedback: Incorrecto. Novela del llano y la selva colombiana. -->
-- [ ] D) Doña Bárbara de Rómulo Gallegos <!-- feedback: Incorrecto. Novela de los llanos venezolanos. -->
+- [x] D) El gaucho Martín Fierro de José Hernández <!-- feedback: ¡Correcto! Obra cumbre de la literatura gauchesca rioplatense. -->
+- [ ] A) Facundo de Domingo Faustino Sarmiento <!-- feedback: Incorrecto. Ensayos sociopolíticos en prosa sobre civilización y barbarie. -->
+- [ ] B) La vorágine de José Eustasio Rivera <!-- feedback: Incorrecto. Novela del llano y la selva colombiana. -->
+- [ ] C) Doña Bárbara de Rómulo Gallegos <!-- feedback: Incorrecto. Novela de los llanos venezolanos. -->
 
 ### Explicacion Pedagogica
 'El gaucho Martín Fierro' (1872) de José Hernández representa el apogeo de la poesía gauchesca en el Río de la Plata.
@@ -224,9 +224,9 @@ Carmen Soler representa la poesía comprometida y de combate en Paraguay, dando 
 ¿Qué década marcó el auge internacional del denominado 'Boom Latinoamericano' de la narrativa?
 
 ### Opciones
-- [x] A) Década de 1960 <!-- feedback: ¡Correcto! En los años 60 se consagraron novelas como "Cien años de soledad", "Rayuela", "La ciudad y los perros" y "La muerte de Artemio Cruz". -->
-- [ ] B) Década de 1920 <!-- feedback: Incorrecto. Época del vanguardismo y el criollismo regionalista. -->
-- [ ] C) Década de 1990 <!-- feedback: Incorrecto. Época del posboom o narrativa contemporánea reciente. -->
+- [x] C) Década de 1960 <!-- feedback: ¡Correcto! En los años 60 se consagraron novelas como "Cien años de soledad", "Rayuela", "La ciudad y los perros" y "La muerte de Artemio Cruz". -->
+- [ ] A) Década de 1920 <!-- feedback: Incorrecto. Época del vanguardismo y el criollismo regionalista. -->
+- [ ] B) Década de 1990 <!-- feedback: Incorrecto. Época del posboom o narrativa contemporánea reciente. -->
 - [ ] D) Década de 1880 <!-- feedback: Incorrecto. Época de eclosión del Modernismo. -->
 
 ### Explicacion Pedagogica
@@ -245,8 +245,8 @@ El Boom Latinoamericano se expandió mundialmente en la década de 1960, transfo
 ¿Qué técnica narrativa polifónica e intertextual utiliza Augusto Roa Bastos en 'Yo el Supremo' para construir el dictador Francia?
 
 ### Opciones
-- [x] A) La técnica del compilador que reúne cuadernos privados, notas al pie, circulares oficiales y voces populares. <!-- feedback: ¡Correcto! Roa Bastos adopta la figura de un "compilador" que organiza múltiples documentos reales y ficticios. -->
-- [ ] B) Un relato puramente cronológico escrito por un historiador extranjero imparcial. <!-- feedback: Incorrecto. La novela desmonta el relato lineal mediante un laberinto documental polifónico. -->
+- [x] B) La técnica del compilador que reúne cuadernos privados, notas al pie, circulares oficiales y voces populares. <!-- feedback: ¡Correcto! Roa Bastos adopta la figura de un "compilador" que organiza múltiples documentos reales y ficticios. -->
+- [ ] A) Un relato puramente cronológico escrito por un historiador extranjero imparcial. <!-- feedback: Incorrecto. La novela desmonta el relato lineal mediante un laberinto documental polifónico. -->
 - [ ] C) Una sucesión de versos alejandrinos escritos en primera persona. <!-- feedback: Incorrecto. Es una novela monumental en prosa. -->
 - [ ] D) Un diálogo teatral en tres actos sin narrador. <!-- feedback: Incorrecto. No posee forma dramática tradicional. -->
 
@@ -266,9 +266,9 @@ En 'Yo el Supremo' (1974), Roa Bastos disuelve la voz de autor único asumiendo 
 ¿Cómo se manifiesta la presencia de la cosmovisión guaraní en la poesía paraguaya de autores bilingües?
 
 ### Opciones
-- [x] A) A través de la concepción del lenguaje como fuerza sagrada (Ayvu) y el profundo respeto por la naturaleza. <!-- feedback: ¡Correcto! En la mítica guaraní, la palabra (Ayvu) es el alma y esencia sagrada de la persona. -->
-- [ ] B) Mediante la imitación de la métrica grecolatina en latín clásico. <!-- feedback: Incorrecto. La poesía bilingüe no se inspira en el canon grecolatino. -->
-- [ ] C) Despreciando el idioma materno guaraní en favor del francés aristocrático. <!-- feedback: Incorrecto. Reivindica con orgullo la dignidad de la lengua materna. -->
+- [x] C) A través de la concepción del lenguaje como fuerza sagrada (Ayvu) y el profundo respeto por la naturaleza. <!-- feedback: ¡Correcto! En la mítica guaraní, la palabra (Ayvu) es el alma y esencia sagrada de la persona. -->
+- [ ] A) Mediante la imitación de la métrica grecolatina en latín clásico. <!-- feedback: Incorrecto. La poesía bilingüe no se inspira en el canon grecolatino. -->
+- [ ] B) Despreciando el idioma materno guaraní en favor del francés aristocrático. <!-- feedback: Incorrecto. Reivindica con orgullo la dignidad de la lengua materna. -->
 - [ ] D) Negando los mitos de creación de las tribus del Chaco y la Región Oriental. <!-- feedback: Incorrecto. La poesía rescata y honra las raíces míticas. -->
 
 ### Explicacion Pedagogica
@@ -287,10 +287,10 @@ En la cultura guaraní, la palabra ('Ayvu') es sagrada y constituye la esencia d
 ¿Cuál fue uno de los principales aportes de Josefina Plá al teatro paraguayo del siglo XX?
 
 ### Opciones
-- [x] A) La modernización dramática y la introducción de problemáticas sociales e identitarias con enfoque crítico. <!-- feedback: ¡Correcto! Josefina Plá impulsó la dramaturgia paraguaya con obras renovadoras e investigación teatral. -->
-- [ ] B) La traducción de comedias musicales hollywoodenses sin adaptación local. <!-- feedback: Incorrecto. Su obra estuvo profundamente enraizada en la realidad paraguaya. -->
-- [ ] C) La prohibición de la actuación de mujeres en los escenarios teatrales. <!-- feedback: Incorrecto. Al contrario, fue una pionera del feminismo cultural en el país. -->
-- [ ] D) La creación de guiones exclusivos para radionovelas extranjeras. <!-- feedback: Incorrecto. Escribió obras dramáticas de gran aliento para la escena nacional. -->
+- [x] D) La modernización dramática y la introducción de problemáticas sociales e identitarias con enfoque crítico. <!-- feedback: ¡Correcto! Josefina Plá impulsó la dramaturgia paraguaya con obras renovadoras e investigación teatral. -->
+- [ ] A) La traducción de comedias musicales hollywoodenses sin adaptación local. <!-- feedback: Incorrecto. Su obra estuvo profundamente enraizada en la realidad paraguaya. -->
+- [ ] B) La prohibición de la actuación de mujeres en los escenarios teatrales. <!-- feedback: Incorrecto. Al contrario, fue una pionera del feminismo cultural en el país. -->
+- [ ] C) La creación de guiones exclusivos para radionovelas extranjeras. <!-- feedback: Incorrecto. Escribió obras dramáticas de gran aliento para la escena nacional. -->
 
 ### Explicacion Pedagogica
 Josefina Plá (1903-1999) aportó una mirada vanguardista y crítica al teatro nacional, cofundando elencos y escribiendo piezas clave de la dramaturgia paraguaya.
@@ -308,10 +308,10 @@ Josefina Plá (1903-1999) aportó una mirada vanguardista y crítica al teatro n
 ¿Qué postulado estético caracterizó al Creacionismo fundado por el poeta chileno Vicente Huidobro?
 
 ### Opciones
-- [x] A) El poeta debe crear realidades propias e independientes en el poema, no imitar a la naturaleza ("Hacer un poema como la naturaleza hace un árbol"). <!-- feedback: ¡Correcto! Huidobro proclamó la autonomía absoluta de la creación poética frente a la copia mimética de la naturaleza. -->
-- [ ] B) La imitación servil y fotográfica de la realidad cotidiana. <!-- feedback: Incorrecto. El Creacionismo rechaza la imitación naturalista. -->
-- [ ] C) El retorno estricto a los sonetos de Garcilaso de la Vega. <!-- feedback: Incorrecto. Las vanguardias rompieron con las métricas tradicionales. -->
-- [ ] D) El uso obligatorio del verso rimado consonante. <!-- feedback: Incorrecto. Defendió el verso libre y las metáforas audaces. -->
+- [x] D) El poeta debe crear realidades propias e independientes en el poema, no imitar a la naturaleza ("Hacer un poema como la naturaleza hace un árbol"). <!-- feedback: ¡Correcto! Huidobro proclamó la autonomía absoluta de la creación poética frente a la copia mimética de la naturaleza. -->
+- [ ] A) La imitación servil y fotográfica de la realidad cotidiana. <!-- feedback: Incorrecto. El Creacionismo rechaza la imitación naturalista. -->
+- [ ] B) El retorno estricto a los sonetos de Garcilaso de la Vega. <!-- feedback: Incorrecto. Las vanguardias rompieron con las métricas tradicionales. -->
+- [ ] C) El uso obligatorio del verso rimado consonante. <!-- feedback: Incorrecto. Defendió el verso libre y las metáforas audaces. -->
 
 ### Explicacion Pedagogica
 El Creacionismo de Huidobro afirmaba que el poema no debe imitar la naturaleza, sino constituirse en una nueva realidad creada por la palabra del poeta.
@@ -329,10 +329,10 @@ El Creacionismo de Huidobro afirmaba que el poema no debe imitar la naturaleza, 
 ¿Cuál es el planteamiento emancipador central de José Martí en su célebre ensayo 'Nuestra América' (1891)?
 
 ### Opciones
-- [x] A) La unión de los pueblos latinoamericanos y la defensa de una identidad autóctona propia frente al imperialismo. <!-- feedback: ¡Correcto! Martí abogaba por gobernar con elementos propios y unir a Nuestra América ante las pretensiones hegemónicas. -->
-- [ ] B) La copia ciega de los modelos políticos e institucionales europeos. <!-- feedback: Incorrecto. Martí criticaba explícitamente la imitación de soluciones extranjeras. -->
-- [ ] C) El abandono de la educación pública en las zonas rurales. <!-- feedback: Incorrecto. Promovió la instrucción popular como base de la libertad. -->
-- [ ] D) La división y enemistad entre las naciones de América Latina. <!-- feedback: Incorrecto. Su proclama llamaba a la integración indisoluble de la región. -->
+- [x] D) La unión de los pueblos latinoamericanos y la defensa de una identidad autóctona propia frente al imperialismo. <!-- feedback: ¡Correcto! Martí abogaba por gobernar con elementos propios y unir a Nuestra América ante las pretensiones hegemónicas. -->
+- [ ] A) La copia ciega de los modelos políticos e institucionales europeos. <!-- feedback: Incorrecto. Martí criticaba explícitamente la imitación de soluciones extranjeras. -->
+- [ ] B) El abandono de la educación pública en las zonas rurales. <!-- feedback: Incorrecto. Promovió la instrucción popular como base de la libertad. -->
+- [ ] C) La división y enemistad entre las naciones de América Latina. <!-- feedback: Incorrecto. Su proclama llamaba a la integración indisoluble de la región. -->
 
 ### Explicacion Pedagogica
 En 'Nuestra América', José Martí propone un autoconocimiento profundo del hombre latinoamericano y la unión defensiva de nuestros pueblos frente al expansionismo extranjero.
@@ -392,8 +392,8 @@ La poesía en guaraní de Emiliano R. Fernández constituyó la voz del pueblo e
 ¿Cuál fue la contribución de Hugo Rodríguez-Alcalá a la historiografía literaria del Paraguay?
 
 ### Opciones
-- [x] A) La elaboración de la "Historia de la literatura paraguaya", obra clave de sistematización y crítica literaria. <!-- feedback: ¡Correcto! Su trabajo historiográfico y crítico estructuró la evolución de la literatura nacional para el ámbito académico internacional. -->
-- [ ] B) La invención del primer diccionario bilingüe castellano-inglés. <!-- feedback: Incorrecto. No fue su obra principal. -->
+- [x] B) La elaboración de la "Historia de la literatura paraguaya", obra clave de sistematización y crítica literaria. <!-- feedback: ¡Correcto! Su trabajo historiográfico y crítico estructuró la evolución de la literatura nacional para el ámbito académico internacional. -->
+- [ ] A) La invención del primer diccionario bilingüe castellano-inglés. <!-- feedback: Incorrecto. No fue su obra principal. -->
 - [ ] C) La redacción exclusiva de guiones cinematográficos de ciencia ficción. <!-- feedback: Incorrecto. Su labor se concentró en la crítica, el ensayo y la poesía. -->
 - [ ] D) La traducción de las obras de William Shakespeare al guaraní. <!-- feedback: Incorrecto. No corresponde a su producción historiográfica. -->
 

@@ -34,13 +34,13 @@ Propósito comunicativo del afiche publicitario, sus partes, público destinatar
 ¿Cuál es el propósito comunicativo de un afiche publicitario?
 
 ### Opciones
-- [x] A) Convencer e invitar al público a asistir a un evento, comprar un producto o apoyar una idea.
+- [x] D) Convencer e invitar al público a asistir a un evento, comprar un producto o apoyar una idea.
   <!-- feedback: El afiche busca convencer e invitar al público mediante un mensaje breve y llamativo. -->
-- [ ] B) Contar únicamente una historia de terror para asustar a los lectores.
+- [ ] A) Contar únicamente una historia de terror para asustar a los lectores.
   <!-- feedback: Un afiche no es un cuento de terror ni busca asustar. -->
-- [ ] C) Presentar solo una tabla de multiplicar para estudiar matemáticas.
+- [ ] B) Presentar solo una tabla de multiplicar para estudiar matemáticas.
   <!-- feedback: Las tablas de multiplicar no son el propósito de un afiche publicitario. -->
-- [ ] D) Escribir solamente la fecha del día sin ningún mensaje.
+- [ ] C) Escribir solamente la fecha del día sin ningún mensaje.
   <!-- feedback: La fecha sola no convence ni invita a nadie. -->
 
 ### Explicacion Pedagogica
@@ -57,13 +57,13 @@ Reconocer el propósito comunicativo del afiche publicitario como texto persuasi
 ¿Cuáles son las partes principales de un afiche publicitario?
 
 ### Opciones
-- [x] A) Imagen llamativa, eslogan corto y mensaje claro con datos del evento.
+- [x] D) Imagen llamativa, eslogan corto y mensaje claro con datos del evento.
   <!-- feedback: Estas tres partes trabajan juntas para atraer la mirada y comunicar la información. -->
-- [ ] B) Solo una firma del autor sin imagen ni mensaje.
+- [ ] A) Solo una firma del autor sin imagen ni mensaje.
   <!-- feedback: La firma sola no forma un afiche ni comunica el evento. -->
-- [ ] C) Únicamente una operación de suma sin dibujos.
+- [ ] B) Únicamente una operación de suma sin dibujos.
   <!-- feedback: Una operación matemática no es parte de un afiche publicitario. -->
-- [ ] D) Solo el nombre de una ciudad sin imagen ni invitación.
+- [ ] C) Solo el nombre de una ciudad sin imagen ni invitación.
   <!-- feedback: El nombre de la ciudad no basta para convencer o informar. -->
 
 ### Explicacion Pedagogica
@@ -80,11 +80,11 @@ Comprender las partes del afiche y la función de la imagen, el eslogan y el men
 ¿A quién va dirigido principalmente este afiche?
 
 ### Opciones
-- [x] A) A niños, jóvenes y familias que disfrutan leer y quieren visitar la feria.
+- [x] C) A niños, jóvenes y familias que disfrutan leer y quieren visitar la feria.
   <!-- feedback: La invitación abierta y la frase sobre historias muestran que busca lectores y familias. -->
-- [ ] B) A mecánicos que reparan buses en un taller.
+- [ ] A) A mecánicos que reparan buses en un taller.
   <!-- feedback: El afiche habla de libros y lectura, no de reparación de buses. -->
-- [ ] C) A pescadores que trabajan en altamar.
+- [ ] B) A pescadores que trabajan en altamar.
   <!-- feedback: El mensaje invita a una feria de libros, no a una faena de pesca. -->
 - [ ] D) A pilotos que vuelan aviones de carga.
   <!-- feedback: Los pilotos de carga no son el público de una feria de libros. -->
@@ -103,11 +103,11 @@ Aplicar la identificación del público destinatario a partir de la invitación 
 ¿Cuál es el mensaje explícito de este afiche?
 
 ### Opciones
-- [x] A) Habrá un festival con música y danza en el Malecón del Río, el sábado 7 de marzo a las 4:00 p. m., con entrada libre.
+- [x] C) Habrá un festival con música y danza en el Malecón del Río, el sábado 7 de marzo a las 4:00 p. m., con entrada libre.
   <!-- feedback: Esta opción recoge los datos escritos directamente en el afiche. -->
-- [ ] B) El río Magdalena se secó y ya no hay agua.
+- [ ] A) El río Magdalena se secó y ya no hay agua.
   <!-- feedback: El afiche no dice nada sobre el nivel del agua del río. -->
-- [ ] C) Se suspendió el festival por falta de músicos.
+- [ ] B) Se suspendió el festival por falta de músicos.
   <!-- feedback: El afiche invita al festival, no anuncia su suspensión. -->
 - [ ] D) Hay que pagar una multa para cruzar el puente.
   <!-- feedback: El afiche dice entrada libre y no menciona multas ni puentes. -->
@@ -126,9 +126,9 @@ Aplicar la lectura literal para recuperar el mensaje explícito escrito en el af
 ¿Cuál eslogan es más adecuado para un afiche de reciclaje en Cali?
 
 ### Opciones
-- [x] A) "Recicla en Cali: separa, reutiliza y cuida tu ciudad.".
+- [x] B) "Recicla en Cali: separa, reutiliza y cuida tu ciudad.".
   <!-- feedback: Es corto, invita a la acción y menciona el cuidado de la ciudad. -->
-- [ ] B) "Compra más bolsas plásticas y bótalas al río.".
+- [ ] A) "Compra más bolsas plásticas y bótalas al río.".
   <!-- feedback: Este mensaje contamina y contradice la campaña de reciclaje. -->
 - [ ] C) "Duerme todo el día y no salgas de casa.".
   <!-- feedback: Este mensaje no tiene relación con reciclar ni cuidar la ciudad. -->
@@ -149,13 +149,13 @@ Aplicar las características de un buen eslogan: breve, claro y motivador para l
 ¿Qué mensaje implícito transmite la imagen de la niña volando sobre libros abiertos?
 
 ### Opciones
-- [x] A) Que leer permite imaginar, viajar y soñar con otros mundos.
+- [x] D) Que leer permite imaginar, viajar y soñar con otros mundos.
   <!-- feedback: La imagen sugiere que los libros dan alas a la imaginación, aunque no lo diga con palabras. -->
-- [ ] B) Que los libros sirven únicamente para sostener una mesa rota.
+- [ ] A) Que los libros sirven únicamente para sostener una mesa rota.
   <!-- feedback: La imagen muestra vuelo e imaginación, no muebles rotos. -->
-- [ ] C) Que la niña tiene miedo de caerse de una escalera.
+- [ ] B) Que la niña tiene miedo de caerse de una escalera.
   <!-- feedback: La niña vuela feliz sobre libros, no muestra miedo ni escaleras. -->
-- [ ] D) Que en la feria está prohibido abrir los libros.
+- [ ] C) Que en la feria está prohibido abrir los libros.
   <!-- feedback: El afiche invita a leer y soñar, no prohíbe abrir libros. -->
 
 ### Explicacion Pedagogica
@@ -195,13 +195,13 @@ Analizar cómo la imagen, el eslogan y los datos determinan la eficacia comunica
 ¿Cuál es la opinión mejor fundamentada sobre este afiche?
 
 ### Opciones
-- [x] A) Es atractivo por su imagen y su eslogan, pero debe mejorar incluyendo fecha, hora y lugar para cumplir su propósito.
+- [x] D) Es atractivo por su imagen y su eslogan, pero debe mejorar incluyendo fecha, hora y lugar para cumplir su propósito.
   <!-- feedback: Valora lo positivo del diseño y señala con razones la información que falta para invitar bien. -->
-- [ ] B) Es perfecto aunque nadie entienda dónde ni cuándo es el festival.
+- [ ] A) Es perfecto aunque nadie entienda dónde ni cuándo es el festival.
   <!-- feedback: Sin fecha ni lugar el público no puede asistir, así que no es perfecto. -->
-- [ ] C) Es malo porque usa colores alegres y dibujos de tambores.
+- [ ] B) Es malo porque usa colores alegres y dibujos de tambores.
   <!-- feedback: Los colores y los tambores son acertados para un festival; el problema es la falta de datos. -->
-- [ ] D) Es bueno solo porque gastó mucho papel brillante en la impresión.
+- [ ] C) Es bueno solo porque gastó mucho papel brillante en la impresión.
   <!-- feedback: El valor del afiche está en su mensaje claro, no en el costo del papel. -->
 
 ### Explicacion Pedagogica

@@ -34,11 +34,11 @@ Este bundle contiene 20 preguntas sobre **Metabolismo Celular y Bioenergética**
 ¿Qué tipo de enlace químico de alta energía conecta los grupos fosfato en la molécula de ATP?
 
 ### Opciones
-- [x] A) Enlace fosfoanhídrido.
+- [x] C) Enlace fosfoanhídrido.
   <!-- feedback: Correcto. La hidrólisis de los enlaces fosfoanhídrido libera aproximadamente $-30.5 \text{ kJ/mol}$ de energía libre. -->
-- [ ] B) Enlace peptídico.
+- [ ] A) Enlace peptídico.
   <!-- feedback: Incorrecto. El enlace peptídico une aminoácidos en proteínas. -->
-- [ ] C) Enlace glucosídico.
+- [ ] B) Enlace glucosídico.
   <!-- feedback: Incorrecto. El enlace glucosídico une carbohidratos. -->
 - [ ] D) Enlace metálico.
   <!-- feedback: Incorrecto. Ocurre en la red de átomos de un metal. -->
@@ -57,11 +57,11 @@ Los dos enlaces anhídrido fosfórico del ATP son enlaces ricos en energía cuya
 ¿En qué compartimento de la célula eucariota ocurre la vía metabólica de la glucólisis (degradación de glucosa a piruvato)?
 
 ### Opciones
-- [x] A) En el citosol (citoplasma).
+- [x] C) En el citosol (citoplasma).
   <!-- feedback: Correcto. La glucólisis es una ruta soluble no unida a membranas que se realiza en el citosol celular. -->
-- [ ] B) En la matriz mitocondrial.
+- [ ] A) En la matriz mitocondrial.
   <!-- feedback: Incorrecto. En la matriz ocurre el Ciclo de Krebs y la descarboxilación del piruvato. -->
-- [ ] C) En la membrana tilacoidal del cloroplasto.
+- [ ] B) En la membrana tilacoidal del cloroplasto.
   <!-- feedback: Incorrecto. Allí se lleva a cabo la fase luminosa de la fotosíntesis. -->
 - [ ] D) En el lumen del aparato de Golgi.
   <!-- feedback: Incorrecto. El Golgi procesa y empaqueta proteínas. -->
@@ -80,11 +80,11 @@ La glucólisis es una vía anaeróbica citosólica compartida por casi todos los
 ¿Cuál es la molécula de dos carbonos derivada del piruvato que ingresa al Ciclo de Krebs condesándose con el oxaloacetato?
 
 ### Opciones
-- [x] A) Acetil-Coenzima A (Acetil-CoA).
+- [x] C) Acetil-Coenzima A (Acetil-CoA).
   <!-- feedback: Correcto. La descarboxilación oxidativa del piruvato genera Acetil-CoA ($2C$), el cual se une al oxaloacetato ($4C$) formando citrato ($6C$). -->
-- [ ] B) Lactato.
+- [ ] A) Lactato.
   <!-- feedback: Incorrecto. El lactato es producto de la fermentación homoláctica. -->
-- [ ] C) Ribulosa-1,5-bisfosfato.
+- [ ] B) Ribulosa-1,5-bisfosfato.
   <!-- feedback: Incorrecto. Es el aceptor de $CO_2$ en el ciclo de Calvin fotosintético. -->
 - [ ] D) Etanol.
   <!-- feedback: Incorrecto. Es el producto de la fermentación alcohólica en levaduras. -->
@@ -103,13 +103,13 @@ El Acetil-CoA es el punto de entrada común para los restos de 2 carbonos deriva
 ¿Qué complejo enzimático utiliza el gradiente electroquímico de protones ($H^+$) para sintetizar ATP a partir de ADP y fosfato inorgánico ($P_i$)?
 
 ### Opciones
-- [x] A) ATP sintasa (Complejo V).
+- [x] D) ATP sintasa (Complejo V).
   <!-- feedback: Correcto. El flujo quimiosmótico de protones a través de la ATP sintasa impulsa la rotación del motor molecular para formar ATP. -->
-- [ ] B) Rubisco (Ribulosa bisfosfato carboxilasa).
+- [ ] A) Rubisco (Ribulosa bisfosfato carboxilasa).
   <!-- feedback: Incorrecto. La Rubisco fija $CO_2$ en el estroma vegetal. -->
-- [ ] C) Hexoquinasa.
+- [ ] B) Hexoquinasa.
   <!-- feedback: Incorrecto. La hexoquinasa consume ATP para fosforilar glucosa en la glucólisis. -->
-- [ ] D) Catalasa.
+- [ ] C) Catalasa.
   <!-- feedback: Incorrecto. La catalasa degrada peróxido de hidrógeno en peroxisomas. -->
 
 ### Explicacion Pedagogica
@@ -126,11 +126,11 @@ La ATP sintasa canaliza el retorno de protones a la matriz mitocondrial acopland
 ¿Qué vía metabólica anaeróbica se activa en los miocitos para regenerar el $NAD^+$ necesario para mantener funcionando la glucólisis?
 
 ### Opciones
-- [x] A) Fermentación láctica (reducción de piruvato a lactato por la lactato deshidrogenasa).
+- [x] C) Fermentación láctica (reducción de piruvato a lactato por la lactato deshidrogenasa).
   <!-- feedback: Correcto. En hipoxia, el NADH reduce el piruvato a lactato regenerando $NAD^+$ libre para continuar la glucólisis. -->
-- [ ] B) Ciclo de Calvin-Benson.
+- [ ] A) Ciclo de Calvin-Benson.
   <!-- feedback: Incorrecto. El ciclo de Calvin ocurre en plantas fotosintéticas. -->
-- [ ] C) Fotólisis del agua en el Fotosistema II.
+- [ ] B) Fotólisis del agua en el Fotosistema II.
   <!-- feedback: Incorrecto. Es un proceso fototrófico vegetal. -->
 - [ ] D) Beta-oxidación peroxisómica.
   <!-- feedback: Incorrecto. La beta-oxidación degrada ácidos grasos en presencia de oxígeno. -->
@@ -172,9 +172,9 @@ La fermentación alcohólica descarboxila el piruvato liberando $CO_2$ y produci
 Si se añade cianuro de potasio ($KCN$), un potente inhibidor que se une al hierro de la citocromo c oxidasa (Complejo IV), ¿qué ocurre con el consumo de $O_2$ y la síntesis de ATP?
 
 ### Opciones
-- [x] A) Se detienen inmediatamente tanto el consumo de $O_2$ como la síntesis de ATP.
+- [x] B) Se detienen inmediatamente tanto el consumo de $O_2$ como la síntesis de ATP.
   <!-- feedback: Correcto. Al bloquear la transferencia final de electrones al $O_2$ en el Complejo IV, se colapsa la cadena y la quimiósmosis. -->
-- [ ] B) Se duplica la síntesis de ATP por aceleración del Complejo I.
+- [ ] A) Se duplica la síntesis de ATP por aceleración del Complejo I.
   <!-- feedback: Incorrecto. Si la cadena está bloqueada al final, los electrones no pueden fluir. -->
 - [ ] C) Aumenta el consumo de oxígeno sin producir calor.
   <!-- feedback: Incorrecto. El consumo de oxígeno cesa por completo. -->
@@ -195,13 +195,13 @@ El cianuro bloquea el Complejo IV (citocromo c oxidasa), deteniendo el flujo de 
 ¿Qué efecto produce el desacoplamiento con DNP sobre la temperatura corporal y la producción de ATP?
 
 ### Opciones
-- [x] A) Disminuye severamente la producción de ATP y la energía del gradiente se disipa como un calor descontrolado (hipertermia).
+- [x] D) Disminuye severamente la producción de ATP y la energía del gradiente se disipa como un calor descontrolado (hipertermia).
   <!-- feedback: Correcto. La energía del gradiente de protones no se atrapa como ATP y se libera íntegramente como calor térmico. -->
-- [ ] B) Aumenta la síntesis de ATP al 1000% congelando el cuerpo.
+- [ ] A) Aumenta la síntesis de ATP al 1000% congelando el cuerpo.
   <!-- feedback: Incorrecto. El desacoplador cortocircuita la síntesis de ATP. -->
-- [ ] C) Detiene la respiración celular sin liberar calor.
+- [ ] B) Detiene la respiración celular sin liberar calor.
   <!-- feedback: Incorrecto. La respiración continúa a tasa máxima consumiendo $O_2$ e hipergenerando calor. -->
-- [ ] D) Sintetiza almidón en la matriz mitocondrial.
+- [ ] C) Sintetiza almidón en la matriz mitocondrial.
   <!-- feedback: Incorrecto. Las mitocondrias animales no sintetizan almidón. -->
 
 ### Explicacion Pedagogica
@@ -218,9 +218,9 @@ Los desacopladores destruyen el gradiente quimiosmótico de protones; el transpo
 ¿Cuál es la molécula donadora primaria de electrones en la fase luminosa de la fotosíntesis y cuál es el aceptor final en la respiración aeróbica?
 
 ### Opciones
-- [x] A) Donador en fotosíntesis: Agua ($H_2O$); Aceptor en respiración: Oxígeno ($O_2$).
+- [x] B) Donador en fotosíntesis: Agua ($H_2O$); Aceptor en respiración: Oxígeno ($O_2$).
   <!-- feedback: Correcto. La fotólisis del $H_2O$ dona electrones al fotosistema II, mientras que el $O_2$ acepta electrones en el Complejo IV mitocondrial. -->
-- [ ] B) Donador en fotosíntesis: $CO_2$; Aceptor en respiración: Glucosa.
+- [ ] A) Donador en fotosíntesis: $CO_2$; Aceptor en respiración: Glucosa.
   <!-- feedback: Incorrecto. El $CO_2$ es fijado en fase oscura; la glucosa es el sustrato inicial oxidado. -->
 - [ ] C) Donador en fotosíntesis: ATP; Aceptor en respiración: $NAD^+$.
   <!-- feedback: Incorrecto. ATP es la moneda energética, no el donador de electrones de fotólisis. -->
@@ -241,9 +241,9 @@ Fotosíntesis: $H_2O \rightarrow O_2 + 2H^+ + 2e^-$. Respiración: $\frac{1}{2}O
 ¿Cuál es el equivalente reductor generado en esta vía indispensable para mantener el glutatión reducido y proteger contra el estrés oxidativo?
 
 ### Opciones
-- [x] A) NADPH (Nicotinamida adenina dinucleótido fosfato reducido).
+- [x] B) NADPH (Nicotinamida adenina dinucleótido fosfato reducido).
   <!-- feedback: Correcto. El NADPH provee poder reductor para biosíntesis anabólica y defensa antioxidante. -->
-- [ ] B) FADH2.
+- [ ] A) FADH2.
   <!-- feedback: Incorrecto. El FADH2 se genera en el Ciclo de Krebs para la cadena respiratoria. -->
 - [ ] C) Ácido láctico.
   <!-- feedback: Incorrecto. Es un producto final anaeróbico sin función coenzimática. -->
@@ -264,11 +264,11 @@ La vía de las pentosas fosfato es la principal fuente celular de NADPH para ana
 ¿Por qué la inhibición de PFK-1 por ATP es un mecanismo de retroalimentación negativa lógica para la célula?
 
 ### Opciones
-- [x] A) Evita la degradación innecesaria de glucosa cuando el estado energético de la célula es alto (abundancia de ATP).
+- [x] C) Evita la degradación innecesaria de glucosa cuando el estado energético de la célula es alto (abundancia de ATP).
   <!-- feedback: Correcto. Si la carga energética celular es elevada, inhibir la glucólisis ahorra combustible para almacenarlo como glucógeno o grasa. -->
-- [ ] B) Fuerza a la célula a consumir todo el ATP remanente en 1 segundo.
+- [ ] A) Fuerza a la célula a consumir todo el ATP remanente en 1 segundo.
   <!-- feedback: Incorrecto. El objetivo es preservar combustible, no gastar atp. -->
-- [ ] C) Acelera la respiración celular para producir toxinas.
+- [ ] B) Acelera la respiración celular para producir toxinas.
   <!-- feedback: Incorrecto. La inhibición alostérica es un ajuste fisiológico de eficiencia. -->
 - [ ] D) Destruye las mitocondrias de la célula.
   <!-- feedback: Incorrecto. La regulación enzimática es reversible y precisa. -->
@@ -287,9 +287,9 @@ Altos niveles de ATP señalan saciedad energética, inhibiendo la PFK-1 para evi
 ¿Cuál es el rendimiento teórico aproximado de ATP producido por mol de glucosa completamente oxidada a $CO_2$ y $H_2O$?
 
 ### Opciones
-- [x] A) 30 a 32 moles de ATP.
+- [x] B) 30 a 32 moles de ATP.
   <!-- feedback: Correcto. Glucólisis (2 ATP + 2 NADH), Piruvato a Acetil-CoA (2 NADH), Krebs (2 GTP + 6 NADH + 2 FADH2), acoplados a quimiósmosis. -->
-- [ ] B) 2 moles de ATP.
+- [ ] A) 2 moles de ATP.
   <!-- feedback: Incorrecto. Rendimiento exclusivo de la fermentación anaeróbica. -->
 - [ ] C) 100 moles de ATP.
   <!-- feedback: Incorrecto. Sobreestima la energía química atrapable por fosforilación. -->
@@ -310,13 +310,13 @@ La oxidación completa de glucosa genera ~30-32 ATP (considerando el costo de tr
 ¿Cuántos ciclos de beta-oxidación se requieren para degradar completamente el palmitato (16:0) a 8 moléculas de Acetil-CoA?
 
 ### Opciones
-- [x] A) 7 ciclos de beta-oxidación.
+- [x] D) 7 ciclos de beta-oxidación.
   <!-- feedback: Correcto. Cada ciclo retira un fragmento de 2 carbonos (Acetil-CoA); el séptimo ciclo corta un fragmento de 4C liberando 2 Acetil-CoA ($7 \text{ cortes} = 8 \text{ fragmentos}$). -->
-- [ ] B) 8 ciclos de beta-oxidación.
+- [ ] A) 8 ciclos de beta-oxidación.
   <!-- feedback: Incorrecto. El último corte de 4 carbonos genera dos Acetil-CoA simultáneamente. -->
-- [ ] C) 16 ciclos de beta-oxidación.
+- [ ] B) 16 ciclos de beta-oxidación.
   <!-- feedback: Incorrecto. Se remueven pares de carbonos, no carbonos individuales. -->
-- [ ] D) 4 ciclos de beta-oxidación.
+- [ ] C) 4 ciclos de beta-oxidación.
   <!-- feedback: Incorrecto. $4 \times 2 = 8$ carbonos, la mitad del palmitato. -->
 
 ### Explicacion Pedagogica
@@ -333,13 +333,13 @@ Número de ciclos $= (n/2) - 1 = (16/2) - 1 = 7$ ciclos. Genera 8 Acetil-CoA, 7 
 ¿Por qué la gluconeogénesis requiere el consumo neto de 6 enlaces de alta energía (4 ATP + 2 GTP) para sintetizar 1 glucosa a partir de 2 piruvatos, mientras la glucólisis sólo produce 2 ATP?
 
 ### Opciones
-- [x] A) Porque la gluconeogénesis debe superar tres pasos irreversibles exergónicos de la glucólisis mediante rodeos enzimáticos endergónicos.
+- [x] D) Porque la gluconeogénesis debe superar tres pasos irreversibles exergónicos de la glucólisis mediante rodeos enzimáticos endergónicos.
   <!-- feedback: Correcto. Las reacciones de la piruvato quinasa, PFK-1 y hexoquinasa son irreversibles y requieren acoplamiento energético para revertirse. -->
-- [ ] B) Porque la síntesis destruye las moléculas de glicerol.
+- [ ] A) Porque la síntesis destruye las moléculas de glicerol.
   <!-- feedback: Incorrecto. El glicerol es un sustrato precursor aprovechable. -->
-- [ ] C) Porque la gluconeogénesis ocurre dentro de los glóbulos rojos.
+- [ ] B) Porque la gluconeogénesis ocurre dentro de los glóbulos rojos.
   <!-- feedback: Incorrecto. Ocurre principalmente en el hígado y riñón. -->
-- [ ] D) Porque el ATP no puede utilizarse en el citoplasma.
+- [ ] C) Porque el ATP no puede utilizarse en el citoplasma.
   <!-- feedback: Incorrecto. El ATP se utiliza ampliamente en el citoplasma. -->
 
 ### Explicacion Pedagogica
@@ -379,9 +379,9 @@ La actividad oxigenasa de la Rubisco induce fotorrespiración, un proceso disipa
 ¿Qué cascada de señalización intracelular activa el glucagón en el hepatocito para estimular la glucogenólisis?
 
 ### Opciones
-- [x] A) Activación de la adenilato ciclasa $\rightarrow$ incremento de AMP cíclico (AMPc) $\rightarrow$ activación de Proteína Quinasa A (PKA) $\rightarrow$ fosforilación activa de la glucógeno fosforilasa.
+- [x] B) Activación de la adenilato ciclasa $\rightarrow$ incremento de AMP cíclico (AMPc) $\rightarrow$ activación de Proteína Quinasa A (PKA) $\rightarrow$ fosforilación activa de la glucógeno fosforilasa.
   <!-- feedback: Correcto. La cascada de fosforilaciones por AMPc/PKA activa la degradación de glucógeno para liberar glucosa al torrente sanguíneo. -->
-- [ ] B) Inhibición de la síntesis de ARN en el núcleo.
+- [ ] A) Inhibición de la síntesis de ARN en el núcleo.
   <!-- feedback: Incorrecto. La respuesta aguda es por modificación covalente enzimática. -->
 - [ ] C) Destrucción inmediata del receptor de insulina.
   <!-- feedback: Incorrecto. No destruye receptores membranales. -->
@@ -402,13 +402,13 @@ El glucagón actúa vía receptor acoplado a proteína Gs, elevando AMPc y PKA p
 ¿Qué condición físico-química debe mantenerse a través de la membrana liposómica interna para garantizar la síntesis continua de ATP?
 
 ### Opciones
-- [x] A) Un gradiente de concentración de protones ($\Delta pH$) y un potencial eléctrico ($\Delta \Psi$) con el espacio intermembrana más ácido y positivo que la matriz.
+- [x] D) Un gradiente de concentración de protones ($\Delta pH$) y un potencial eléctrico ($\Delta \Psi$) con el espacio intermembrana más ácido y positivo que la matriz.
   <!-- feedback: Correcto. La fuerza protón-motriz ($\Delta p = \Delta Psi - ZDelta pH$) es indispensable para mover la ATP sintasa. -->
-- [ ] B) Presión hidrostática de 100 atmósferas en el interior.
+- [ ] A) Presión hidrostática de 100 atmósferas en el interior.
   <!-- feedback: Incorrecto. Rompería la estructura vesicular liposómica. -->
-- [ ] C) Ausencia total de moléculas de agua en el lumen.
+- [ ] B) Ausencia total de moléculas de agua en el lumen.
   <!-- feedback: Incorrecto. La fosforilación oxidativa requiere fase acuosa. -->
-- [ ] D) Concentración de glucosa de 10 M dentro de la matriz.
+- [ ] C) Concentración de glucosa de 10 M dentro de la matriz.
   <!-- feedback: Incorrecto. La glucosa no ingresa a la mitocondria; se oxida a piruvato en citosol. -->
 
 ### Explicacion Pedagogica
@@ -425,11 +425,11 @@ La síntesis de ATP exige conservar la fuerza protón-motriz integrada por la di
 ¿Por qué la falta de insulina induce cetoacidosis grave a partir del metabolismo de ácidos grasos?
 
 ### Opciones
-- [x] A) La lipólisis descontrolada satura el hígado con Acetil-CoA; al agotarse el oxaloacetato (desviado a gluconeogénesis), el exceso de Acetil-CoA forma cuerpos cetónicos ácidos.
+- [x] C) La lipólisis descontrolada satura el hígado con Acetil-CoA; al agotarse el oxaloacetato (desviado a gluconeogénesis), el exceso de Acetil-CoA forma cuerpos cetónicos ácidos.
   <!-- feedback: Correcto. Sin oxaloacetato suficiente para condensar en el Ciclo de Krebs, los restos de Acetil-CoA se desvían a la cetogénesis. -->
-- [ ] B) Porque los ácidos grasos se convierten en ácido clorhídrico en la sangre.
+- [ ] A) Porque los ácidos grasos se convierten en ácido clorhídrico en la sangre.
   <!-- feedback: Incorrecto. Los cuerpos cetónicos son ácidos carboxílicos/cetonas orgánicas, no $HCl$. -->
-- [ ] C) Porque el páncreas secreta cianuro.
+- [ ] B) Porque el páncreas secreta cianuro.
   <!-- feedback: Incorrecto. La falta de insulina se debe a destrucción autoinmune de células beta. -->
 - [ ] D) Because the kidneys stop filtering water completely.
   <!-- feedback: Incorrecto. La glucosuria provoca diuresis osmótica. -->
@@ -448,13 +448,13 @@ El déficit de oxaloacetato desvía el excedente de Acetil-CoA hepático hacia l
 ¿Por qué la iluminación pulsada de alta frecuencia mejora el aprovechamiento fotónico reduciendo la saturación fotosintética?
 
 ### Opciones
-- [x] A) Permite acoplar la velocidad veloz de la fase luminosa con el tiempo más lento de renovación de acceptors en el ciclo de Calvin.
+- [x] D) Permite acoplar la velocidad veloz de la fase luminosa con el tiempo más lento de renovación de acceptors en el ciclo de Calvin.
   <!-- feedback: Correcto. La fase de fijación enzimática de carbono ($C_3$) es más lenta que la excitación fotónica; los pulsos evitan el desperdicio fotónico por disipación térmica. -->
-- [ ] B) Porque los pulsos de luz convierten el carbono en metales preciosos.
+- [ ] A) Porque los pulsos de luz convierten el carbono en metales preciosos.
   <!-- feedback: Incorrecto. No hay formación de metales. -->
-- [ ] C) Porque la microalga destruye el agua en ausencia de luz.
+- [ ] B) Porque la microalga destruye el agua en ausencia de luz.
   <!-- feedback: Incorrecto. La fotólisis requiere excitación luminosa. -->
-- [ ] D) Porque la luz continua quema la pared celular en 1 segundo.
+- [ ] C) Porque la luz continua quema la pared celular en 1 segundo.
   <!-- feedback: Incorrecto. La luz continua causa fotoinhibición por saturación del centro de reacción. -->
 
 ### Explicacion Pedagogica
@@ -471,11 +471,11 @@ Ajustar la frecuencia de pulsos sincroniza el flujo fotónico con la capacidad d
 ¿Qué impacto tiene esta inhibición moderada sobre la relación AMP/ATP celular y la tasa de gluconeogénesis hepática?
 
 ### Opciones
-- [x] A) Eleva la relación AMP/ATP activando la enzima AMP-quinasa (AMPK), lo que suprime la gluconeogénesis y reduce la glucemia plasmática.
+- [x] C) Eleva la relación AMP/ATP activando la enzima AMP-quinasa (AMPK), lo que suprime la gluconeogénesis y reduce la glucemia plasmática.
   <!-- feedback: Correcto. La reducción discreta de ATP activa la AMPK, la cual apaga vías anabólicas costosas como la gluconeogénesis hepática. -->
-- [ ] B) Aumenta la gluconeogénesis generando hiperglucemia severa.
+- [ ] A) Aumenta la gluconeogénesis generando hiperglucemia severa.
   <!-- feedback: Incorrecto. La metformina disminuye la producción hepática de glucosa. -->
-- [ ] C) Destruye todos los transportadores GLUT4 del músculo.
+- [ ] B) Destruye todos los transportadores GLUT4 del músculo.
   <!-- feedback: Incorrecto. La metformina mejora la sensibilidad insulínica. -->
 - [ ] D) Provoca la síntesis de almidón en el plasma.
   <!-- feedback: Incorrecto. El plasma no sintetiza almidón. -->

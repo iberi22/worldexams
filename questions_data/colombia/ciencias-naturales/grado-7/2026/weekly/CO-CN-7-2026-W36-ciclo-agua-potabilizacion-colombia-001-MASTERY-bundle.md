@@ -48,13 +48,13 @@ La evaporación mueve el agua de ríos, lagos, suelos y hojas hacia el cielo en 
 ### Enunciado
 ¿Cuál es la diferencia entre la escorrentía y la infiltración?
 ### Opciones
-- [x] A) La escorrentía corre sobre la superficie hacia quebradas y ríos, y la infiltración penetra en el suelo hacia aguas subterráneas.
+- [x] D) La escorrentía corre sobre la superficie hacia quebradas y ríos, y la infiltración penetra en el suelo hacia aguas subterráneas.
   <!-- feedback: Correcta, porque distingue el flujo superficial del flujo que entra al suelo. -->
-- [ ] B) Ambas son lo mismo y ocurren solo dentro de las tuberías del acueducto.
+- [ ] A) Ambas son lo mismo y ocurren solo dentro de las tuberías del acueducto.
   <!-- feedback: Incorrecta, porque son caminos distintos del agua en la naturaleza. -->
-- [ ] C) La infiltración sube a las nubes y la escorrentía se evapora bajo la tierra.
+- [ ] B) La infiltración sube a las nubes y la escorrentía se evapora bajo la tierra.
   <!-- feedback: Incorrecta, porque invierte y mezcla los dos caminos del agua. -->
-- [ ] D) Ninguna existe en Medellín porque toda la lluvia desaparece por arte de magia.
+- [ ] C) Ninguna existe en Medellín porque toda la lluvia desaparece por arte de magia.
   <!-- feedback: Incorrecta, porque el agua sigue caminos físicos observables y medibles. -->
 ### Explicacion Pedagogica
 Cuando llueve, el suelo absorbe una parte según qué tan suelto o compactado esté, y el resto escurre cuesta abajo. La infiltración recarga pozos y manantiales, mientras la escorrentía alimenta quebradas y puede causar inundaciones. Pavimentar todo aumenta la escorrentía y reduce la infiltración.
@@ -67,9 +67,9 @@ Cuando llueve, el suelo absorbe una parte según qué tan suelto o compactado es
 ### Enunciado
 ¿Por qué es correcto decir que cuidar el páramo cuida el agua de Bogotá?
 ### Opciones
-- [ ] A) Porque el páramo fabrica agua de la nada con sus piedras frías.
+- [ ] B) Porque el páramo fabrica agua de la nada con sus piedras frías.
   <!-- feedback: Incorrecta, porque el páramo regula y almacena el agua de la lluvia y la niebla, no la crea de la nada. -->
-- [x] B) Porque la vegetación y los suelos del páramo capturan, almacenan y liberan lentamente el agua hacia los ríos que abastecen la ciudad.
+- [x] A) Porque la vegetación y los suelos del páramo capturan, almacenan y liberan lentamente el agua hacia los ríos que abastecen la ciudad.
   <!-- feedback: Correcta, porque aplica la función reguladora del páramo en el ciclo del agua. -->
 - [ ] C) Porque en el páramo está prohibido que llueva y así nunca se gasta el agua.
   <!-- feedback: Incorrecta, porque en el páramo llueve y cae niebla con frecuencia. -->
@@ -86,11 +86,11 @@ Los páramos son fábricas y esponjas de agua: atrapan la humedad, la guardan en
 ### Enunciado
 ¿Cuál es el orden correcto del tratamiento y su función?
 ### Opciones
-- [x] A) Coagulación y sedimentación retiran partículas, filtración las atrapa en arena y desinfección elimina microbios con cloro.
+- [x] C) Coagulación y sedimentación retiran partículas, filtración las atrapa en arena y desinfección elimina microbios con cloro.
   <!-- feedback: Correcta, porque ordena las etapas y explica la función de cada una. -->
-- [ ] B) Primero se agrega cloro para ensuciar, luego se revuelve el barro y al final se reparte sin filtrar.
+- [ ] A) Primero se agrega cloro para ensuciar, luego se revuelve el barro y al final se reparte sin filtrar.
   <!-- feedback: Incorrecta, porque invierte el propósito y omite la filtración necesaria. -->
-- [ ] C) Basta con guardar el agua un rato porque el reposo solo mata todos los virus y químicos.
+- [ ] B) Basta con guardar el agua un rato porque el reposo solo mata todos los virus y químicos.
   <!-- feedback: Incorrecta, porque el reposo no elimina patógenos ni sustancias disueltas. -->
 - [ ] D) La filtración se hace con camisetas viejas y la desinfección con perfumes de la tienda.
   <!-- feedback: Incorrecta, porque propone materiales sin capacidad técnica ni control sanitario. -->
@@ -107,11 +107,11 @@ Potabilizar es una cadena: la coagulación agrupa la suciedad fina, la sedimenta
 ### Opciones
 - [ ] A) Porque el hervor convierte el barro en vitaminas que alimentan a los niños.
   <!-- feedback: Incorrecta, porque hervir no crea vitaminas ni transforma el barro en alimento. -->
-- [x] B) Porque el calor elimina la mayoría de microbios y el reposo deja que las partículas se asienten al fondo.
+- [x] D) Porque el calor elimina la mayoría de microbios y el reposo deja que las partículas se asienten al fondo.
   <!-- feedback: Correcta, porque aplica desinfección por calor y separación por sedimentación casera. -->
-- [ ] C) Porque el agua caliente ya no necesita taparse y se puede guardar destapada semanas.
+- [ ] B) Porque el agua caliente ya no necesita taparse y se puede guardar destapada semanas.
   <!-- feedback: Incorrecta, porque el agua tratada se puede recontaminar si se guarda destapada. -->
-- [ ] D) Porque hervir quita toda la sal del mar y vuelve dulce cualquier agua.
+- [ ] C) Porque hervir quita toda la sal del mar y vuelve dulce cualquier agua.
   <!-- feedback: Incorrecta, porque hervir no desaliniza el agua de mar. -->
 ### Explicacion Pedagogica
 Hervir es una desinfección casera efectiva contra bacterias, virus y parásitos comunes, y dejar reposar y trasvasar con cuidado separa parte del barro. No elimina químicos ni sal, por eso es medida de emergencia y no reemplaza la planta de tratamiento. Guardar en recipiente limpio y tapado evita que se contamine de nuevo.
@@ -164,11 +164,11 @@ El ciclo no tiene final: el mar se evapora con el sol, el vapor forma nubes, llu
 ### Opciones
 - [ ] A) Porque la lluvia lava los tubos y deja el agua estéril sin necesidad de tratarla.
   <!-- feedback: Incorrecta, porque la creciente arrastra más suciedad y microbios hacia la captación. -->
-- [x] B) Porque la creciente arrastra sedimentos y microbios que exigen más remoción de partículas y desinfección controlada.
+- [x] D) Porque la creciente arrastra sedimentos y microbios que exigen más remoción de partículas y desinfección controlada.
   <!-- feedback: Correcta, porque conecta lluvia, carga contaminante y ajuste del tratamiento. -->
-- [ ] C) Porque en Quibdó llueve agua destilada que daña las máquinas de la planta.
+- [ ] B) Porque en Quibdó llueve agua destilada que daña las máquinas de la planta.
   <!-- feedback: Incorrecta, porque la lluvia arrastra polvo, hojas y tierra a su paso. -->
-- [ ] D) Porque con lluvia conviene suspender el tratamiento y repartir el agua cruda del río.
+- [ ] C) Porque con lluvia conviene suspender el tratamiento y repartir el agua cruda del río.
   <!-- feedback: Incorrecta, porque repartir agua cruda expondría a la población a enfermar. -->
 ### Explicacion Pedagogica
 La escorrentía de un aguacero lava calles, potreros y orillas y sube la turbiedad y la carga microbiana. La planta responde dosificando mejor el coagulante, lavando filtros y vigilando el cloro. Analizar el fenómeno muestra que el clima y la calidad del agua están ligados y que el tratamiento debe adaptarse cada día.
@@ -200,11 +200,11 @@ Evaluar es comparar cada conclusión con la evidencia. Los datos respaldan que A
 ### Enunciado
 ¿Cuál es la mejor evaluación del plan para cuidar la salud del curso?
 ### Opciones
-- [ ] A) Probar con la boca todos los tanques porque el sabor detecta virus y químicos con precisión.
+- [ ] B) Probar con la boca todos los tanques porque el sabor detecta virus y químicos con precisión.
   <!-- feedback: Incorrecta, porque el sabor no detecta patógenos y exponerse así es riesgoso. -->
-- [ ] B) Oler y votar por el tanque favorito porque la simpatía del grupo purifica el agua.
+- [ ] C) Oler y votar por el tanque favorito porque la simpatía del grupo purifica el agua.
   <!-- feedback: Incorrecta, porque votar no mide calidad y ningún gusto colectivo potabiliza. -->
-- [x] C) Medir con tiras, repetir las pruebas, registrar en tablas y comparar con la norma antes de recomendar.
+- [x] A) Medir con tiras, repetir las pruebas, registrar en tablas y comparar con la norma antes de recomendar.
   <!-- feedback: Correcta, porque usa instrumentos, réplicas, registro y criterio externo de calidad. -->
 - [ ] D) No investigar nada porque el agua de cualquier tanque siempre es segura en todo lugar.
   <!-- feedback: Incorrecta, porque tanques y tuberías se contaminan y la calidad debe verificarse. -->

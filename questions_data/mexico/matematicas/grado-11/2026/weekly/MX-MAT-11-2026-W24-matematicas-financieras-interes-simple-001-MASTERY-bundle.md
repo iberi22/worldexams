@@ -32,9 +32,9 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) $I = C(1 + i)^t$ <!-- feedback: Incorrecto. Esta es la fórmula para el monto en interés compuesto. -->
-- [x] B) $I = C \cdot i \cdot t$ <!-- feedback: Correcto. El interés simple es el producto del capital (C) por la tasa (i) por el tiempo (t). -->
-- [ ] C) $I = C / (i \cdot t)$ <!-- feedback: Incorrecto. Los factores deben multiplicarse, no dividirse. -->
-- [ ] D) $I = M - i$ <!-- feedback: Incorrecto. El interés es el monto menos el capital, no menos la tasa. -->
+- [x] D) $I = C \cdot i \cdot t$ <!-- feedback: Correcto. El interés simple es el producto del capital (C) por la tasa (i) por el tiempo (t). -->
+- [ ] B) $I = C / (i \cdot t)$ <!-- feedback: Incorrecto. Los factores deben multiplicarse, no dividirse. -->
+- [ ] C) $I = M - i$ <!-- feedback: Incorrecto. El interés es el monto menos el capital, no menos la tasa. -->
 
 ### Explicacion Pedagogica
 En el interés simple, el rendimiento se calcula siempre sobre el capital original. La fórmula $I = C \cdot i \cdot t$ permite hallar la ganancia total multiplicando el monto invertido, la tasa expresada en decimal y el número de periodos.
@@ -55,8 +55,8 @@ En el contexto de las matemáticas financieras, ¿qué representa la variable $C
 ### Opciones
 - [ ] A) El dinero total pagado al final del préstamo. <!-- feedback: Incorrecto. Eso se conoce como Monto (M). -->
 - [ ] B) El porcentaje de ganancia anual. <!-- feedback: Incorrecto. Eso se conoce como Tasa de Interés (i). -->
-- [x] C) La cantidad de dinero inicial invertida o prestada. <!-- feedback: Correcto. El capital es la suma original sobre la cual se calculan los intereses. -->
-- [ ] D) El tiempo que dura la inversión. <!-- feedback: Incorrecto. Eso se representa con la letra t o n. -->
+- [x] D) La cantidad de dinero inicial invertida o prestada. <!-- feedback: Correcto. El capital es la suma original sobre la cual se calculan los intereses. -->
+- [ ] C) El tiempo que dura la inversión. <!-- feedback: Incorrecto. Eso se representa con la letra t o n. -->
 
 ### Explicacion Pedagogica
 El Capital, también llamado Principal, es la base monetaria sobre la cual se realiza la operación financiera. Es el valor presente o inicial de la transacción.
@@ -97,9 +97,9 @@ El Monto o Valor Futuro es la cantidad total que se recibe (o se paga) al conclu
 Para utilizar la tasa de interés ($i$) en la fórmula de interés simple, si el banco ofrece un 12% anual, ¿qué valor decimal debe emplearse?
 
 ### Opciones
-- [ ] A) 12 <!-- feedback: Incorrecto. No se debe usar el número entero, sino su equivalencia en proporción. -->
-- [ ] B) 1.2 <!-- feedback: Incorrecto. Esto representaría un 120%, no un 12%. -->
-- [x] C) 0.12 <!-- feedback: Correcto. Las tasas porcentuales se dividen entre 100 para obtener su valor decimal: 12 / 100 = 0.12. -->
+- [ ] B) 12 <!-- feedback: Incorrecto. No se debe usar el número entero, sino su equivalencia en proporción. -->
+- [ ] C) 1.2 <!-- feedback: Incorrecto. Esto representaría un 120%, no un 12%. -->
+- [x] A) 0.12 <!-- feedback: Correcto. Las tasas porcentuales se dividen entre 100 para obtener su valor decimal: 12 / 100 = 0.12. -->
 - [ ] D) 0.012 <!-- feedback: Incorrecto. Esto representa un 1.2%. -->
 
 ### Explicacion Pedagogica
@@ -120,8 +120,8 @@ Si se invierten $10,000 pesos a una tasa de interés simple del 5% anual durante
 
 ### Opciones
 - [ ] A) $500 pesos <!-- feedback: Incorrecto. Este es el interés de un solo año. -->
-- [x] B) $1,000 pesos <!-- feedback: Correcto. I = 10,000 * 0.05 * 2 = 1,000. -->
-- [ ] C) $11,000 pesos <!-- feedback: Incorrecto. Este es el Monto total, la pregunta pide solo el interés ganado. -->
+- [x] C) $1,000 pesos <!-- feedback: Correcto. I = 10,000 * 0.05 * 2 = 1,000. -->
+- [ ] B) $11,000 pesos <!-- feedback: Incorrecto. Este es el Monto total, la pregunta pide solo el interés ganado. -->
 - [ ] D) $2,000 pesos <!-- feedback: Incorrecto. Posible error al confundir la tasa o el periodo. -->
 
 ### Explicacion Pedagogica
@@ -142,9 +142,9 @@ Calcule el interés simple de un préstamo de $5,000 pesos con una tasa del 24% 
 
 ### Opciones
 - [ ] A) $1,200 pesos <!-- feedback: Incorrecto. Este sería el interés si el plazo fuera de un año completo. -->
-- [x] B) $600 pesos <!-- feedback: Correcto. I = 5,000 * 0.24 * (6/12) = 600. El tiempo debe estar en años. -->
-- [ ] C) $720 pesos <!-- feedback: Incorrecto. Posible error al no convertir los meses a años correctamente. -->
-- [ ] D) $5,600 pesos <!-- feedback: Incorrecto. Este es el monto total, no el interés. -->
+- [x] D) $600 pesos <!-- feedback: Correcto. I = 5,000 * 0.24 * (6/12) = 600. El tiempo debe estar en años. -->
+- [ ] B) $720 pesos <!-- feedback: Incorrecto. Posible error al no convertir los meses a años correctamente. -->
+- [ ] C) $5,600 pesos <!-- feedback: Incorrecto. Este es el monto total, no el interés. -->
 
 ### Explicacion Pedagogica
 Es crucial que la tasa y el tiempo estén en la misma unidad. Si la tasa es anual (0.24), los 6 meses deben expresarse como $6/12 = 0.5$ años. $I = 5,000 \cdot 0.24 \cdot 0.5 = 600$.
@@ -164,8 +164,8 @@ Determine el Monto ($M$) de una inversión de $8,000 pesos al 10% anual simple d
 
 ### Opciones
 - [ ] A) $2,400 pesos <!-- feedback: Incorrecto. Este es solo el interés ganado, falta sumar el capital inicial. -->
-- [ ] B) $8,800 pesos <!-- feedback: Incorrecto. Solo calculó el interés de un año. -->
-- [x] C) $10,400 pesos <!-- feedback: Correcto. I = 8,000 * 0.10 * 3 = 2,400. M = 8,000 + 2,400 = 10,400. -->
+- [ ] C) $8,800 pesos <!-- feedback: Incorrecto. Solo calculó el interés de un año. -->
+- [x] B) $10,400 pesos <!-- feedback: Correcto. I = 8,000 * 0.10 * 3 = 2,400. M = 8,000 + 2,400 = 10,400. -->
 - [ ] D) $11,200 pesos <!-- feedback: Incorrecto. Error en el cálculo del interés o de la suma. -->
 
 ### Explicacion Pedagogica
@@ -185,10 +185,10 @@ Primero calculamos el interés simple: $8,000 \cdot 0.10 \cdot 3 = 2,400$. Luego
 Si una cuenta paga una tasa de interés simple del 1% mensual, ¿cuál es la ganancia por $20,000 pesos después de un trimestre?
 
 ### Opciones
-- [x] A) $600 pesos <!-- feedback: Correcto. I = 20,000 * 0.01 * 3 = 600. Como la tasa es mensual, el tiempo debe estar en meses. -->
-- [ ] B) $200 pesos <!-- feedback: Incorrecto. Este es el interés de un solo mes. -->
-- [ ] C) $2,400 pesos <!-- feedback: Incorrecto. Aplicó la tasa mensual como si fuera anual para el cálculo de un año. -->
-- [ ] D) $1,200 pesos <!-- feedback: Incorrecto. Posible error al calcular los meses de un trimestre. -->
+- [x] D) $600 pesos <!-- feedback: Correcto. I = 20,000 * 0.01 * 3 = 600. Como la tasa es mensual, el tiempo debe estar en meses. -->
+- [ ] A) $200 pesos <!-- feedback: Incorrecto. Este es el interés de un solo mes. -->
+- [ ] B) $2,400 pesos <!-- feedback: Incorrecto. Aplicó la tasa mensual como si fuera anual para el cálculo de un año. -->
+- [ ] C) $1,200 pesos <!-- feedback: Incorrecto. Posible error al calcular los meses de un trimestre. -->
 
 ### Explicacion Pedagogica
 Un trimestre tiene 3 meses. Dado que la tasa ya es mensual (0.01), multiplicamos directamente: $20,000 \cdot 0.01 \cdot 3 = 600$. No fue necesario convertir la tasa a anual.
@@ -230,9 +230,9 @@ Un préstamo de $15,000 pesos generó un monto total de $18,600 pesos en 2 años
 
 ### Opciones
 - [ ] A) 10% <!-- feedback: Incorrecto. El interés total sería de $3,000, no concuerda con los $3,600 reales. -->
-- [x] B) 12% <!-- feedback: Correcto. I = 18,600 - 15,000 = 3,600. 3,600 = 15,000 * i * 2 => 3,600 = 30,000i => i = 0.12. -->
-- [ ] C) 24% <!-- feedback: Incorrecto. Esta es la tasa total por los dos años, la pregunta pide la tasa anual. -->
-- [ ] D) 6% <!-- feedback: Incorrecto. Dividió el interés total entre el capital sin considerar los dos años de plazo. -->
+- [x] D) 12% <!-- feedback: Correcto. I = 18,600 - 15,000 = 3,600. 3,600 = 15,000 * i * 2 => 3,600 = 30,000i => i = 0.12. -->
+- [ ] B) 24% <!-- feedback: Incorrecto. Esta es la tasa total por los dos años, la pregunta pide la tasa anual. -->
+- [ ] C) 6% <!-- feedback: Incorrecto. Dividió el interés total entre el capital sin considerar los dos años de plazo. -->
 
 ### Explicacion Pedagogica
 Primero restamos el capital del monto para hallar el interés: $18,600 - 15,000 = 3,600$. Luego despejamos $i$ de la fórmula: $i = I / (C \cdot t)$. Así, $i = 3,600 / (15,000 \cdot 2) = 3,600 / 30,000 = 0.12$.
@@ -252,8 +252,8 @@ Primero restamos el capital del monto para hallar el interés: $18,600 - 15,000 
 
 ### Opciones
 - [ ] A) 10 meses <!-- feedback: Incorrecto. El interés generado sería de $1,800. -->
-- [x] B) 15 meses <!-- feedback: Correcto. t = I / (C * i) = 2,700 / (12,000 * 0.015) = 2,700 / 180 = 15. -->
-- [ ] C) 18 meses <!-- feedback: Incorrecto. Posible error en la división o en la conversión de la tasa. -->
+- [x] C) 15 meses <!-- feedback: Correcto. t = I / (C * i) = 2,700 / (12,000 * 0.015) = 2,700 / 180 = 15. -->
+- [ ] B) 18 meses <!-- feedback: Incorrecto. Posible error en la división o en la conversión de la tasa. -->
 - [ ] D) 12 meses <!-- feedback: Incorrecto. El interés generado sería de $2,160. -->
 
 ### Explicacion Pedagogica
@@ -295,8 +295,8 @@ Para el interés ordinario, dividimos el número de días entre 360. $I = 45,000
 ¿Qué capital inicial se requiere para obtener un monto de $25,000 pesos tras 4 años a una tasa de interés simple del 6% anual?
 
 ### Opciones
-- [ ] A) $20,000 pesos <!-- feedback: Incorrecto. Un capital de $20,000 generaría $4,800 de interés, sumando $24,800. -->
-- [x] B) $20,161.29 pesos <!-- feedback: Correcto. C = M / (1 + i*t) = 25,000 / (1 + 0.06*4) = 25,000 / 1.24 = 20,161.29. -->
+- [ ] B) $20,000 pesos <!-- feedback: Incorrecto. Un capital de $20,000 generaría $4,800 de interés, sumando $24,800. -->
+- [x] A) $20,161.29 pesos <!-- feedback: Correcto. C = M / (1 + i*t) = 25,000 / (1 + 0.06*4) = 25,000 / 1.24 = 20,161.29. -->
 - [ ] C) $19,000 pesos <!-- feedback: Incorrecto. El capital es insuficiente para alcanzar los $25,000 con esa tasa. -->
 - [ ] D) $21,000 pesos <!-- feedback: Incorrecto. El capital es demasiado alto, superaría el monto objetivo. -->
 
@@ -319,8 +319,8 @@ Una factura de $30,000 pesos tiene un recargo del 0.1% diario por retraso. Si se
 ### Opciones
 - [ ] A) $30,030 pesos <!-- feedback: Incorrecto. Solo calculó el recargo de un día. -->
 - [ ] B) $30,300 pesos <!-- feedback: Incorrecto. Este sería el recargo si la tasa fuera del 1% diario. -->
-- [x] C) $30,600 pesos <!-- feedback: Correcto. I = 30,000 * 0.001 * 20 = 600. Monto = 30,000 + 600 = 30,600. -->
-- [ ] D) $36,000 pesos <!-- feedback: Incorrecto. Error en el posicionamiento del punto decimal de la tasa. -->
+- [x] D) $30,600 pesos <!-- feedback: Correcto. I = 30,000 * 0.001 * 20 = 600. Monto = 30,000 + 600 = 30,600. -->
+- [ ] C) $36,000 pesos <!-- feedback: Incorrecto. Error en el posicionamiento del punto decimal de la tasa. -->
 
 ### Explicacion Pedagogica
 La tasa diaria es 0.1%, que equivale a 0.001 en decimal. Multiplicamos por el capital y los días: $30,000 \cdot 0.001 \cdot 20 = 600$. Al sumarlo al valor original de la factura, obtenemos $30,600$.
@@ -361,9 +361,9 @@ Para encontrar tasas equivalentes en interés simple, basta con dividir la tasa 
 Se invierten $50,000 pesos a una tasa del 4% cuatrimestral simple. ¿Qué monto se tendrá después de 2 años?
 
 ### Opciones
-- [ ] A) $54,000 pesos <!-- feedback: Incorrecto. Solo consideró un año de inversión. -->
-- [ ] B) $60,000 pesos <!-- feedback: Incorrecto. Posible error al contar los cuatrimestres. -->
-- [x] C) $62,000 pesos <!-- feedback: Correcto. 2 años tienen 6 cuatrimestres. I = 50,000 * 0.04 * 6 = 12,000. M = 50,000 + 12,000 = 62,000. -->
+- [ ] B) $54,000 pesos <!-- feedback: Incorrecto. Solo consideró un año de inversión. -->
+- [ ] C) $60,000 pesos <!-- feedback: Incorrecto. Posible error al contar los cuatrimestres. -->
+- [x] A) $62,000 pesos <!-- feedback: Correcto. 2 años tienen 6 cuatrimestres. I = 50,000 * 0.04 * 6 = 12,000. M = 50,000 + 12,000 = 62,000. -->
 - [ ] D) $58,000 pesos <!-- feedback: Incorrecto. Error en la multiplicación de los periodos. -->
 
 ### Explicacion Pedagogica
@@ -384,8 +384,8 @@ Un año tiene 3 cuatrimestres, por lo que 2 años tienen 6. Multiplicamos el cap
 
 ### Opciones
 - [ ] A) $12,000 pesos <!-- feedback: Incorrecto. No consideró la equivalencia de los tiempos de ambas inversiones. -->
-- [ ] B) $9,000 pesos <!-- feedback: Incorrecto. Posible error en el cálculo de los trimestres. -->
-- [x] C) $6,000 pesos <!-- feedback: Correcto. Tiempo (t) = 2,000 / (10,000 * 0.04) = 5 semestres. Como un semestre son dos trimestres, 5 semestres = 10 trimestres. C = 3,000 / (0.05 * 10) = 6,000. -->
+- [ ] C) $9,000 pesos <!-- feedback: Incorrecto. Posible error en el cálculo de los trimestres. -->
+- [x] B) $6,000 pesos <!-- feedback: Correcto. Tiempo (t) = 2,000 / (10,000 * 0.04) = 5 semestres. Como un semestre son dos trimestres, 5 semestres = 10 trimestres. C = 3,000 / (0.05 * 10) = 6,000. -->
 - [ ] D) $15,000 pesos <!-- feedback: Incorrecto. Error en el despeje de las variables. -->
 
 ### Explicacion Pedagogica
@@ -406,8 +406,8 @@ Un capital de $100,000 pesos se divide en dos partes. La primera se invierte al 
 
 ### Opciones
 - [ ] A) $50,000 pesos <!-- feedback: Incorrecto. El interés total sería de $11,000. -->
-- [x] B) $40,000 pesos <!-- feedback: Correcto. 0.10x + 0.12(100,000 - x) = 10,800. 0.10x + 12,000 - 0.12x = 10,800. -0.02x = -1,200. x = 60,000 (al 10%). Por lo tanto, 40,000 al 12%. -->
-- [ ] C) $60,000 pesos <!-- feedback: Incorrecto. Este es el monto invertido al 10%. -->
+- [x] C) $40,000 pesos <!-- feedback: Correcto. 0.10x + 0.12(100,000 - x) = 10,800. 0.10x + 12,000 - 0.12x = 10,800. -0.02x = -1,200. x = 60,000 (al 10%). Por lo tanto, 40,000 al 12%. -->
+- [ ] B) $60,000 pesos <!-- feedback: Incorrecto. Este es el monto invertido al 10%. -->
 - [ ] D) $45,000 pesos <!-- feedback: Incorrecto. No satisface la ecuación de intereses totales. -->
 
 ### Explicacion Pedagogica
@@ -427,9 +427,9 @@ Planteamos un sistema de ecuaciones: $x + y = 100,000$ y $0.10x + 0.12y = 10,800
 Si una inversión rinde el 15% de interés simple anual, pero la inflación fue del 6% ese mismo año, ¿cuál fue el aumento real aproximado del poder adquisitivo del capital inicial?
 
 ### Opciones
-- [ ] A) 21% <!-- feedback: Incorrecto. Sumó las tasas en lugar de considerar el efecto erosivo de la inflación. -->
-- [ ] B) 9% <!-- feedback: Incorrecto. Aunque es la diferencia directa, financieramente se usa la tasa real (i - infla) / (1 + infla). -->
-- [x] C) 8.49% <!-- feedback: Correcto. Tasa real = (0.15 - 0.06) / (1 + 0.06) = 0.09 / 1.06 ≈ 0.0849. -->
+- [ ] B) 21% <!-- feedback: Incorrecto. Sumó las tasas en lugar de considerar el efecto erosivo de la inflación. -->
+- [ ] C) 9% <!-- feedback: Incorrecto. Aunque es la diferencia directa, financieramente se usa la tasa real (i - infla) / (1 + infla). -->
+- [x] A) 8.49% <!-- feedback: Correcto. Tasa real = (0.15 - 0.06) / (1 + 0.06) = 0.09 / 1.06 ≈ 0.0849. -->
 - [ ] D) 15% <!-- feedback: Incorrecto. Ignoró por completo el efecto de la inflación. -->
 
 ### Explicacion Pedagogica
@@ -450,8 +450,8 @@ La tasa de rendimiento real se calcula mediante la fórmula de Fisher: $r = (i -
 
 ### Opciones
 - [ ] A) 10% <!-- feedback: Incorrecto. En 20 años el interés sería igual al doble del capital. -->
-- [x] B) 15% <!-- feedback: Correcto. I = 3C. 3C = C * i * 20 => 3 = 20i => i = 3/20 = 0.15 (15%). -->
-- [ ] C) 5% <!-- feedback: Incorrecto. En 20 años el interés sería igual al capital inicial. -->
+- [x] C) 15% <!-- feedback: Correcto. I = 3C. 3C = C * i * 20 => 3 = 20i => i = 3/20 = 0.15 (15%). -->
+- [ ] B) 5% <!-- feedback: Incorrecto. En 20 años el interés sería igual al capital inicial. -->
 - [ ] D) 20% <!-- feedback: Incorrecto. En 20 años el interés sería igual a cuatro veces el capital. -->
 
 ### Explicacion Pedagogica

@@ -30,11 +30,11 @@ creador: "Jules-Agent"
 En un triángulo oblicuángulo, dos de sus lados miden a = 5 km y b = 8 km, y el ángulo formado entre ellos es C = 60°. ¿Cuál es la longitud del tercer lado c? (Usa cos(60°) = 0.5).
 
 ### Opciones
-- [x] A) 7.0 km
+- [x] C) 7.0 km
   <!-- feedback: ¡Correcto! Aplicamos la ley de cosenos: c² = a² + b² - 2ab cos(C). -->
-- [ ] B) 13 km
+- [ ] A) 13 km
   <!-- feedback: Incorrecto. Simple suma algebraica de los lados de un triángulo oblicuángulo. -->
-- [ ] C) 11.36 km
+- [ ] B) 11.36 km
   <!-- feedback: Incorrecto. Se cometió un error de signo positivo antes del término de multiplicación en la ley de cosenos. -->
 - [ ] D) 9.43 km
   <!-- feedback: Incorrecto. Se aplicó erróneamente el teorema de Pitágoras, que solo es válido para triángulos rectángulos (ángulo de 90°). -->
@@ -53,11 +53,11 @@ De acuerdo con la ley de cosenos: c² = a² + b² - 2ab * cos(C). Sustituyendo l
 En un triángulo oblicuángulo, dos de sus lados miden a = 6 km y b = 9 km, y el ángulo formado entre ellos es C = 60°. ¿Cuál es la longitud del tercer lado c? (Usa cos(60°) = 0.5).
 
 ### Opciones
-- [x] A) 7.94 km
+- [x] C) 7.94 km
   <!-- feedback: ¡Correcto! Aplicamos la ley de cosenos: c² = a² + b² - 2ab cos(C). -->
-- [ ] B) 15 km
+- [ ] A) 15 km
   <!-- feedback: Incorrecto. Simple suma algebraica de los lados de un triángulo oblicuángulo. -->
-- [ ] C) 13.08 km
+- [ ] B) 13.08 km
   <!-- feedback: Incorrecto. Se cometió un error de signo positivo antes del término de multiplicación en la ley de cosenos. -->
 - [ ] D) 10.82 km
   <!-- feedback: Incorrecto. Se aplicó erróneamente el teorema de Pitágoras, que solo es válido para triángulos rectángulos (ángulo de 90°). -->
@@ -76,11 +76,11 @@ De acuerdo con la ley de cosenos: c² = a² + b² - 2ab * cos(C). Sustituyendo l
 En un triángulo oblicuángulo, dos de sus lados miden a = 7 km y b = 10 km, y el ángulo formado entre ellos es C = 60°. ¿Cuál es la longitud del tercer lado c? (Usa cos(60°) = 0.5).
 
 ### Opciones
-- [x] A) 8.89 km
+- [x] C) 8.89 km
   <!-- feedback: ¡Correcto! Aplicamos la ley de cosenos: c² = a² + b² - 2ab cos(C). -->
-- [ ] B) 17 km
+- [ ] A) 17 km
   <!-- feedback: Incorrecto. Simple suma algebraica de los lados de un triángulo oblicuángulo. -->
-- [ ] C) 14.8 km
+- [ ] B) 14.8 km
   <!-- feedback: Incorrecto. Se cometió un error de signo positivo antes del término de multiplicación en la ley de cosenos. -->
 - [ ] D) 12.21 km
   <!-- feedback: Incorrecto. Se aplicó erróneamente el teorema de Pitágoras, que solo es válido para triángulos rectángulos (ángulo de 90°). -->
@@ -99,13 +99,13 @@ De acuerdo con la ley de cosenos: c² = a² + b² - 2ab * cos(C). Sustituyendo l
 En un triángulo oblicuángulo, dos de sus lados miden a = 8 km y b = 11 km, y el ángulo formado entre ellos es C = 60°. ¿Cuál es la longitud del tercer lado c? (Usa cos(60°) = 0.5).
 
 ### Opciones
-- [x] A) 9.85 km
+- [x] D) 9.85 km
   <!-- feedback: ¡Correcto! Aplicamos la ley de cosenos: c² = a² + b² - 2ab cos(C). -->
-- [ ] B) 19 km
+- [ ] A) 19 km
   <!-- feedback: Incorrecto. Simple suma algebraica de los lados de un triángulo oblicuángulo. -->
-- [ ] C) 16.52 km
+- [ ] B) 16.52 km
   <!-- feedback: Incorrecto. Se cometió un error de signo positivo antes del término de multiplicación en la ley de cosenos. -->
-- [ ] D) 13.6 km
+- [ ] C) 13.6 km
   <!-- feedback: Incorrecto. Se aplicó erróneamente el teorema de Pitágoras, que solo es válido para triángulos rectángulos (ángulo de 90°). -->
 
 ### Explicacion Pedagogica
@@ -122,9 +122,9 @@ De acuerdo con la ley de cosenos: c² = a² + b² - 2ab * cos(C). Sustituyendo l
 En un triángulo oblicuángulo, dos de sus lados miden a = 9 km y b = 12 km, y el ángulo formado entre ellos es C = 60°. ¿Cuál es la longitud del tercer lado c? (Usa cos(60°) = 0.5).
 
 ### Opciones
-- [x] A) 10.82 km
+- [x] B) 10.82 km
   <!-- feedback: ¡Correcto! Aplicamos la ley de cosenos: c² = a² + b² - 2ab cos(C). -->
-- [ ] B) 21 km
+- [ ] A) 21 km
   <!-- feedback: Incorrecto. Simple suma algebraica de los lados de un triángulo oblicuángulo. -->
 - [ ] C) 18.25 km
   <!-- feedback: Incorrecto. Se cometió un error de signo positivo antes del término de multiplicación en la ley de cosenos. -->
@@ -145,13 +145,13 @@ De acuerdo con la ley de cosenos: c² = a² + b² - 2ab * cos(C). Sustituyendo l
 En un triángulo oblicuángulo, dos de sus lados miden a = 10 km y b = 13 km, y el ángulo formado entre ellos es C = 60°. ¿Cuál es la longitud del tercer lado c? (Usa cos(60°) = 0.5).
 
 ### Opciones
-- [x] A) 11.79 km
+- [x] D) 11.79 km
   <!-- feedback: ¡Correcto! Aplicamos la ley de cosenos: c² = a² + b² - 2ab cos(C). -->
-- [ ] B) 23 km
+- [ ] A) 23 km
   <!-- feedback: Incorrecto. Simple suma algebraica de los lados de un triángulo oblicuángulo. -->
-- [ ] C) 19.97 km
+- [ ] B) 19.97 km
   <!-- feedback: Incorrecto. Se cometió un error de signo positivo antes del término de multiplicación en la ley de cosenos. -->
-- [ ] D) 16.4 km
+- [ ] C) 16.4 km
   <!-- feedback: Incorrecto. Se aplicó erróneamente el teorema de Pitágoras, que solo es válido para triángulos rectángulos (ángulo de 90°). -->
 
 ### Explicacion Pedagogica
@@ -168,13 +168,13 @@ De acuerdo con la ley de cosenos: c² = a² + b² - 2ab * cos(C). Sustituyendo l
 En un triángulo oblicuángulo, dos de sus lados miden a = 11 km y b = 14 km, y el ángulo formado entre ellos es C = 60°. ¿Cuál es la longitud del tercer lado c? (Usa cos(60°) = 0.5).
 
 ### Opciones
-- [x] A) 12.77 km
+- [x] D) 12.77 km
   <!-- feedback: ¡Correcto! Aplicamos la ley de cosenos: c² = a² + b² - 2ab cos(C). -->
-- [ ] B) 25 km
+- [ ] A) 25 km
   <!-- feedback: Incorrecto. Simple suma algebraica de los lados de un triángulo oblicuángulo. -->
-- [ ] C) 21.7 km
+- [ ] B) 21.7 km
   <!-- feedback: Incorrecto. Se cometió un error de signo positivo antes del término de multiplicación en la ley de cosenos. -->
-- [ ] D) 17.8 km
+- [ ] C) 17.8 km
   <!-- feedback: Incorrecto. Se aplicó erróneamente el teorema de Pitágoras, que solo es válido para triángulos rectángulos (ángulo de 90°). -->
 
 ### Explicacion Pedagogica
@@ -191,11 +191,11 @@ De acuerdo con la ley de cosenos: c² = a² + b² - 2ab * cos(C). Sustituyendo l
 En un triángulo oblicuángulo, dos de sus lados miden a = 12 km y b = 15 km, y el ángulo formado entre ellos es C = 60°. ¿Cuál es la longitud del tercer lado c? (Usa cos(60°) = 0.5).
 
 ### Opciones
-- [x] A) 13.75 km
+- [x] C) 13.75 km
   <!-- feedback: ¡Correcto! Aplicamos la ley de cosenos: c² = a² + b² - 2ab cos(C). -->
-- [ ] B) 27 km
+- [ ] A) 27 km
   <!-- feedback: Incorrecto. Simple suma algebraica de los lados de un triángulo oblicuángulo. -->
-- [ ] C) 23.43 km
+- [ ] B) 23.43 km
   <!-- feedback: Incorrecto. Se cometió un error de signo positivo antes del término de multiplicación en la ley de cosenos. -->
 - [ ] D) 19.21 km
   <!-- feedback: Incorrecto. Se aplicó erróneamente el teorema de Pitágoras, que solo es válido para triángulos rectángulos (ángulo de 90°). -->
@@ -214,11 +214,11 @@ De acuerdo con la ley de cosenos: c² = a² + b² - 2ab * cos(C). Sustituyendo l
 En un triángulo oblicuángulo, dos de sus lados miden a = 13 km y b = 16 km, y el ángulo formado entre ellos es C = 60°. ¿Cuál es la longitud del tercer lado c? (Usa cos(60°) = 0.5).
 
 ### Opciones
-- [x] A) 14.73 km
+- [x] C) 14.73 km
   <!-- feedback: ¡Correcto! Aplicamos la ley de cosenos: c² = a² + b² - 2ab cos(C). -->
-- [ ] B) 29 km
+- [ ] A) 29 km
   <!-- feedback: Incorrecto. Simple suma algebraica de los lados de un triángulo oblicuángulo. -->
-- [ ] C) 25.16 km
+- [ ] B) 25.16 km
   <!-- feedback: Incorrecto. Se cometió un error de signo positivo antes del término de multiplicación en la ley de cosenos. -->
 - [ ] D) 20.62 km
   <!-- feedback: Incorrecto. Se aplicó erróneamente el teorema de Pitágoras, que solo es válido para triángulos rectángulos (ángulo de 90°). -->
@@ -237,9 +237,9 @@ De acuerdo con la ley de cosenos: c² = a² + b² - 2ab * cos(C). Sustituyendo l
 En un triángulo oblicuángulo, dos de sus lados miden a = 14 km y b = 17 km, y el ángulo formado entre ellos es C = 60°. ¿Cuál es la longitud del tercer lado c? (Usa cos(60°) = 0.5).
 
 ### Opciones
-- [x] A) 15.72 km
+- [x] B) 15.72 km
   <!-- feedback: ¡Correcto! Aplicamos la ley de cosenos: c² = a² + b² - 2ab cos(C). -->
-- [ ] B) 31 km
+- [ ] A) 31 km
   <!-- feedback: Incorrecto. Simple suma algebraica de los lados de un triángulo oblicuángulo. -->
 - [ ] C) 26.89 km
   <!-- feedback: Incorrecto. Se cometió un error de signo positivo antes del término de multiplicación en la ley de cosenos. -->
@@ -283,9 +283,9 @@ De acuerdo con la ley de cosenos: c² = a² + b² - 2ab * cos(C). Sustituyendo l
 En un triángulo oblicuángulo, dos de sus lados miden a = 16 km y b = 19 km, y el ángulo formado entre ellos es C = 60°. ¿Cuál es la longitud del tercer lado c? (Usa cos(60°) = 0.5).
 
 ### Opciones
-- [x] A) 17.69 km
+- [x] B) 17.69 km
   <!-- feedback: ¡Correcto! Aplicamos la ley de cosenos: c² = a² + b² - 2ab cos(C). -->
-- [ ] B) 35 km
+- [ ] A) 35 km
   <!-- feedback: Incorrecto. Simple suma algebraica de los lados de un triángulo oblicuángulo. -->
 - [ ] C) 30.35 km
   <!-- feedback: Incorrecto. Se cometió un error de signo positivo antes del término de multiplicación en la ley de cosenos. -->
@@ -306,13 +306,13 @@ De acuerdo con la ley de cosenos: c² = a² + b² - 2ab * cos(C). Sustituyendo l
 En un triángulo oblicuángulo, dos de sus lados miden a = 17 km y b = 20 km, y el ángulo formado entre ellos es C = 60°. ¿Cuál es la longitud del tercer lado c? (Usa cos(60°) = 0.5).
 
 ### Opciones
-- [x] A) 18.68 km
+- [x] D) 18.68 km
   <!-- feedback: ¡Correcto! Aplicamos la ley de cosenos: c² = a² + b² - 2ab cos(C). -->
-- [ ] B) 37 km
+- [ ] A) 37 km
   <!-- feedback: Incorrecto. Simple suma algebraica de los lados de un triángulo oblicuángulo. -->
-- [ ] C) 32.08 km
+- [ ] B) 32.08 km
   <!-- feedback: Incorrecto. Se cometió un error de signo positivo antes del término de multiplicación en la ley de cosenos. -->
-- [ ] D) 26.25 km
+- [ ] C) 26.25 km
   <!-- feedback: Incorrecto. Se aplicó erróneamente el teorema de Pitágoras, que solo es válido para triángulos rectángulos (ángulo de 90°). -->
 
 ### Explicacion Pedagogica
@@ -352,13 +352,13 @@ De acuerdo con la ley de cosenos: c² = a² + b² - 2ab * cos(C). Sustituyendo l
 En un triángulo oblicuángulo, dos de sus lados miden a = 19 km y b = 22 km, y el ángulo formado entre ellos es C = 60°. ¿Cuál es la longitud del tercer lado c? (Usa cos(60°) = 0.5).
 
 ### Opciones
-- [x] A) 20.66 km
+- [x] D) 20.66 km
   <!-- feedback: ¡Correcto! Aplicamos la ley de cosenos: c² = a² + b² - 2ab cos(C). -->
-- [ ] B) 41 km
+- [ ] A) 41 km
   <!-- feedback: Incorrecto. Simple suma algebraica de los lados de un triángulo oblicuángulo. -->
-- [ ] C) 35.54 km
+- [ ] B) 35.54 km
   <!-- feedback: Incorrecto. Se cometió un error de signo positivo antes del término de multiplicación en la ley de cosenos. -->
-- [ ] D) 29.07 km
+- [ ] C) 29.07 km
   <!-- feedback: Incorrecto. Se aplicó erróneamente el teorema de Pitágoras, que solo es válido para triángulos rectángulos (ángulo de 90°). -->
 
 ### Explicacion Pedagogica
@@ -375,13 +375,13 @@ De acuerdo con la ley de cosenos: c² = a² + b² - 2ab * cos(C). Sustituyendo l
 En un triángulo oblicuángulo, dos de sus lados miden a = 20 km y b = 23 km, y el ángulo formado entre ellos es C = 60°. ¿Cuál es la longitud del tercer lado c? (Usa cos(60°) = 0.5).
 
 ### Opciones
-- [x] A) 21.66 km
+- [x] D) 21.66 km
   <!-- feedback: ¡Correcto! Aplicamos la ley de cosenos: c² = a² + b² - 2ab cos(C). -->
-- [ ] B) 43 km
+- [ ] A) 43 km
   <!-- feedback: Incorrecto. Simple suma algebraica de los lados de un triángulo oblicuángulo. -->
-- [ ] C) 37.27 km
+- [ ] B) 37.27 km
   <!-- feedback: Incorrecto. Se cometió un error de signo positivo antes del término de multiplicación en la ley de cosenos. -->
-- [ ] D) 30.48 km
+- [ ] C) 30.48 km
   <!-- feedback: Incorrecto. Se aplicó erróneamente el teorema de Pitágoras, que solo es válido para triángulos rectángulos (ángulo de 90°). -->
 
 ### Explicacion Pedagogica
@@ -398,13 +398,13 @@ De acuerdo con la ley de cosenos: c² = a² + b² - 2ab * cos(C). Sustituyendo l
 En un triángulo oblicuángulo, dos de sus lados miden a = 21 km y b = 24 km, y el ángulo formado entre ellos es C = 60°. ¿Cuál es la longitud del tercer lado c? (Usa cos(60°) = 0.5).
 
 ### Opciones
-- [x] A) 22.65 km
+- [x] D) 22.65 km
   <!-- feedback: ¡Correcto! Aplicamos la ley de cosenos: c² = a² + b² - 2ab cos(C). -->
-- [ ] B) 45 km
+- [ ] A) 45 km
   <!-- feedback: Incorrecto. Simple suma algebraica de los lados de un triángulo oblicuángulo. -->
-- [ ] C) 39.0 km
+- [ ] B) 39.0 km
   <!-- feedback: Incorrecto. Se cometió un error de signo positivo antes del término de multiplicación en la ley de cosenos. -->
-- [ ] D) 31.89 km
+- [ ] C) 31.89 km
   <!-- feedback: Incorrecto. Se aplicó erróneamente el teorema de Pitágoras, que solo es válido para triángulos rectángulos (ángulo de 90°). -->
 
 ### Explicacion Pedagogica

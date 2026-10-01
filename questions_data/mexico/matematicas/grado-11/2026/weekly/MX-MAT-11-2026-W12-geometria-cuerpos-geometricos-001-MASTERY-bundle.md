@@ -34,8 +34,8 @@ creador: "Jules-Agent"
 ### Opciones
 - [ ] A) Prisma regular <!-- feedback: Un prisma tiene bases congruentes pero las caras laterales son paralelogramos, no necesariamente polígonos regulares iguales a las bases. -->
 - [ ] B) Pirámide regular <!-- feedback: En una pirámide regular las caras laterales son triángulos isósceles, no necesariamente iguales a la base. -->
-- [x] C) Sólido platónico <!-- feedback: Correcto. Esta es la definición exacta de un sólido platónico o poliedro regular. Solo existen cinco. -->
-- [ ] D) Poliedro irregular <!-- feedback: Un poliedro irregular no cumple con la congruencia de todas sus caras y ángulos. -->
+- [x] D) Sólido platónico <!-- feedback: Correcto. Esta es la definición exacta de un sólido platónico o poliedro regular. Solo existen cinco. -->
+- [ ] C) Poliedro irregular <!-- feedback: Un poliedro irregular no cumple con la congruencia de todas sus caras y ángulos. -->
 
 ### Explicacion Pedagogica
 Los sólidos platónicos son los únicos poliedros convexos cuyas caras son polígonos regulares idénticos y tienen el mismo orden de simetría en cada vértice. Existen exactamente cinco: tetraedro, hexaedro (cubo), octaedro, dodecaedro e icosaedro.
@@ -55,8 +55,8 @@ Los sólidos platónicos son los únicos poliedros convexos cuyas caras son pol�
 ### Opciones
 - [ ] A) Radio <!-- feedback: El radio es la distancia del centro de la base a cualquier punto de su borde. -->
 - [ ] B) Diámetro <!-- feedback: El diámetro es la cuerda más larga de la base circular. -->
-- [ ] C) Generatriz <!-- feedback: La generatriz es el segmento que, al girar, forma la superficie lateral (en un cilindro recto coincide con la altura). -->
-- [x] D) Altura <!-- feedback: Correcto. La altura es la distancia perpendicular entre las dos bases paralelas. -->
+- [ ] D) Generatriz <!-- feedback: La generatriz es el segmento que, al girar, forma la superficie lateral (en un cilindro recto coincide con la altura). -->
+- [x] C) Altura <!-- feedback: Correcto. La altura es la distancia perpendicular entre las dos bases paralelas. -->
 
 ### Explicacion Pedagogica
 En geometría espacial, la altura de un cuerpo con bases paralelas (como el cilindro o el prisma) se define como la medida del segmento perpendicular trazado desde un punto de una base al plano de la otra.
@@ -75,8 +75,8 @@ Si un prisma y una pirámide tienen la misma base y la misma altura, ¿cuántas 
 
 ### Opciones
 - [ ] A) 2 veces <!-- feedback: Esta relación aplicaría si la pirámide fuera un prisma inclinado bajo ciertas condiciones, pero no es la regla general. -->
-- [x] B) 3 veces <!-- feedback: Correcto. El volumen del prisma es Bh y el de la pirámide es (1/3)Bh. Por lo tanto, el prisma tiene el triple de volumen. -->
-- [ ] C) 4 veces <!-- feedback: Esta proporción no corresponde a la relación fundamental entre estos dos cuerpos. -->
+- [x] C) 3 veces <!-- feedback: Correcto. El volumen del prisma es Bh y el de la pirámide es (1/3)Bh. Por lo tanto, el prisma tiene el triple de volumen. -->
+- [ ] B) 4 veces <!-- feedback: Esta proporción no corresponde a la relación fundamental entre estos dos cuerpos. -->
 - [ ] D) Depende de la forma de la base <!-- feedback: La relación 1/3 es constante para cualquier base, siempre que sea la misma para ambos cuerpos. -->
 
 ### Explicacion Pedagogica
@@ -95,9 +95,9 @@ La fórmula del volumen del prisma es $V = B \cdot h$, mientras que la de la pir
 ¿Cuál es la fórmula para calcular el área total de la superficie de un cubo de arista $a$?
 
 ### Opciones
-- [ ] A) $A = a^2$ <!-- feedback: Este es solo el área de una de las caras del cubo. -->
-- [ ] B) $A = 4a^2$ <!-- feedback: Este sería el área lateral si el cubo tuviera solo 4 caras laterales. -->
-- [x] C) $A = 6a^2$ <!-- feedback: Correcto. Un cubo tiene 6 caras cuadradas iguales, cada una con área a². -->
+- [ ] B) $A = a^2$ <!-- feedback: Este es solo el área de una de las caras del cubo. -->
+- [ ] C) $A = 4a^2$ <!-- feedback: Este sería el área lateral si el cubo tuviera solo 4 caras laterales. -->
+- [x] A) $A = 6a^2$ <!-- feedback: Correcto. Un cubo tiene 6 caras cuadradas iguales, cada una con área a². -->
 - [ ] D) $A = a^3$ <!-- feedback: Esta es la fórmula para el volumen, no para el área de la superficie. -->
 
 ### Explicacion Pedagogica
@@ -179,8 +179,8 @@ El volumen de un cono se obtiene mediante $V = \frac{\pi r^2 h}{3}$. Para $r=3$ 
 Si el radio de un balón es de 11 cm, ¿cuál es el área de su superficie exterior aproximada? (Usa $\pi \approx 3.14$)
 
 ### Opciones
-- [ ] A) $151.9\text{ cm}^2$ <!-- feedback: Usaste la fórmula de la circunferencia, no el área de la superficie esférica. -->
-- [x] B) $1,519.76\text{ cm}^2$ <!-- feedback: Correcto. A = 4πr² = 4 × 3.14 × (11)² = 12.56 × 121 = 1519.76. -->
+- [ ] B) $151.9\text{ cm}^2$ <!-- feedback: Usaste la fórmula de la circunferencia, no el área de la superficie esférica. -->
+- [x] A) $1,519.76\text{ cm}^2$ <!-- feedback: Correcto. A = 4πr² = 4 × 3.14 × (11)² = 12.56 × 121 = 1519.76. -->
 - [ ] C) $5,572.45\text{ cm}^2$ <!-- feedback: Usaste la fórmula del volumen en lugar de la del área superficial. -->
 - [ ] D) $379.94\text{ cm}^2$ <!-- feedback: Olvidaste multiplicar por 4 en la fórmula 4πr². -->
 
@@ -222,8 +222,8 @@ En un poliedro convexo que tiene 12 caras y 20 vértices (como el dodecaedro), �
 
 ### Opciones
 - [ ] A) 32 aristas <!-- feedback: Simplemente sumaste caras y vértices sin aplicar la constante del teorema. -->
-- [x] B) 30 aristas <!-- feedback: Correcto. V - A + C = 2. Entonces 20 - A + 12 = 2; 32 - A = 2; A = 30. -->
-- [ ] C) 28 aristas <!-- feedback: Valor incorrecto producto de un error en el despeje de la fórmula. -->
+- [x] C) 30 aristas <!-- feedback: Correcto. V - A + C = 2. Entonces 20 - A + 12 = 2; 32 - A = 2; A = 30. -->
+- [ ] B) 28 aristas <!-- feedback: Valor incorrecto producto de un error en el despeje de la fórmula. -->
 - [ ] D) 10 aristas <!-- feedback: Este número es insuficiente para conectar los vértices y caras dados. -->
 
 ### Explicacion Pedagogica
@@ -243,9 +243,9 @@ El radio de la base del cilindro y de la semiesfera es de 3 metros. La altura de
 
 ### Opciones
 - [ ] A) $188.4\text{ m}^2$ <!-- feedback: Solo calculaste el área lateral del cilindro. -->
-- [x] B) $244.92\text{ m}^2$ <!-- feedback: Correcto. Área lat cil = 2πrh = 2×3.14×3×10 = 188.4. Área semiesf = 2πr² = 2×3.14×3² = 56.52. Total = 188.4 + 56.52 = 244.92. -->
-- [ ] C) $301.44\text{ m}^2$ <!-- feedback: Incluiste el área de la base o usaste el área de una esfera completa. -->
-- [ ] D) $452.16\text{ m}^2$ <!-- feedback: Error grave en la aplicación de las fórmulas de superficie. -->
+- [x] D) $244.92\text{ m}^2$ <!-- feedback: Correcto. Área lat cil = 2πrh = 2×3.14×3×10 = 188.4. Área semiesf = 2πr² = 2×3.14×3² = 56.52. Total = 188.4 + 56.52 = 244.92. -->
+- [ ] B) $301.44\text{ m}^2$ <!-- feedback: Incluiste el área de la base o usaste el área de una esfera completa. -->
+- [ ] C) $452.16\text{ m}^2$ <!-- feedback: Error grave en la aplicación de las fórmulas de superficie. -->
 
 ### Explicacion Pedagogica
 La superficie exterior se compone del área lateral del cilindro ($2 \pi rh$) y el área de la semiesfera ($2 \pi r^2$). Entonces: $A = (2 \cdot 3.14 \cdot 3 \cdot 10) + (2 \cdot 3.14 \cdot 3^2) = 188.4 + 56.52 = 244.92\text{ m}^2$.
@@ -284,9 +284,9 @@ Volumen del cubo: $2^3 = 8\text{ cm}^3$. Volumen de una esfera: $\frac{4}{3} \pi
 El tanque tiene un radio superior de 4 m y una altura de 12 m. Si el agua alcanza una altura de 6 m, ¿qué fracción del volumen total del tanque está ocupada por el agua?
 
 ### Opciones
-- [ ] A) $1/2$ <!-- feedback: El volumen de un cono no es lineal respecto a la altura; depende del cubo de la razón de semejanza. -->
-- [ ] B) $1/4$ <!-- feedback: Esta sería la fracción del área de la sección transversal, no del volumen. -->
-- [x] C) $1/8$ <!-- feedback: Correcto. Por semejanza, si la altura es la mitad (1/2), el volumen es (1/2)³ = 1/8 del total. -->
+- [ ] B) $1/2$ <!-- feedback: El volumen de un cono no es lineal respecto a la altura; depende del cubo de la razón de semejanza. -->
+- [ ] C) $1/4$ <!-- feedback: Esta sería la fracción del área de la sección transversal, no del volumen. -->
+- [x] A) $1/8$ <!-- feedback: Correcto. Por semejanza, si la altura es la mitad (1/2), el volumen es (1/2)³ = 1/8 del total. -->
 - [ ] D) $1/3$ <!-- feedback: Esta relación no corresponde a la variación volumétrica por escala. -->
 
 ### Explicacion Pedagogica
@@ -305,8 +305,8 @@ Al llenar un cono, la forma del agua es un cono semejante al original. La razón
 ¿Qué porcentaje del volumen de la caja queda vacío al introducir la esfera? (Usa $\pi \approx 3.14$)
 
 ### Opciones
-- [ ] A) $33\%$ <!-- feedback: Esta es la diferencia entre un cilindro y un cono inscritos, no entre un cubo y una esfera. -->
-- [x] B) $47.7\%$ <!-- feedback: Correcto. V caja = (2R)³ = 8R³. V esf = (4/3)πR³. Proporción ocupada = (4.18/8) ≈ 0.523. Vacío = 1 - 0.523 = 0.477 o 47.7%. -->
+- [ ] B) $33\%$ <!-- feedback: Esta es la diferencia entre un cilindro y un cono inscritos, no entre un cubo y una esfera. -->
+- [x] A) $47.7\%$ <!-- feedback: Correcto. V caja = (2R)³ = 8R³. V esf = (4/3)πR³. Proporción ocupada = (4.18/8) ≈ 0.523. Vacío = 1 - 0.523 = 0.477 o 47.7%. -->
 - [ ] C) $52.3\%$ <!-- feedback: Este es el porcentaje ocupado por la esfera, no el volumen vacío. -->
 - [ ] D) $21.5\%$ <!-- feedback: Error en el cálculo de los volúmenes comparados. -->
 
@@ -326,8 +326,8 @@ La caja mínima es un cubo de lado $L = 2R$. Su volumen es $V_c = (2R)^3 = 8R^3$
 Si el radio del cilindro es $R$ y su altura es $H$, ¿cuál es el volumen del prisma hexagonal inscrito?
 
 ### Opciones
-- [ ] A) $3R^2H$ <!-- feedback: Esta expresión omite el factor raíz de 3 necesario para el área del hexágono. -->
-- [x] B) $\frac{3\sqrt{3}R^2H}{2}$ <!-- feedback: Correcto. El lado del hexágono inscrito es igual al radio R. El área base es (3√3R²)/2. El volumen es área base × H. -->
+- [ ] B) $3R^2H$ <!-- feedback: Esta expresión omite el factor raíz de 3 necesario para el área del hexágono. -->
+- [x] A) $\frac{3\sqrt{3}R^2H}{2}$ <!-- feedback: Correcto. El lado del hexágono inscrito es igual al radio R. El área base es (3√3R²)/2. El volumen es área base × H. -->
 - [ ] C) $\pi R^2H$ <!-- feedback: Este es el volumen del cilindro original, no del prisma inscrito. -->
 - [ ] D) $2\sqrt{3}R^2H$ <!-- feedback: Error en la fórmula del área del hexágono regular. -->
 
@@ -348,8 +348,8 @@ Las bases son cuadrados de 10 cm y 6 cm de lado, y la altura del tronco de pirá
 
 ### Opciones
 - [ ] A) $432\text{ cm}^3$ <!-- feedback: Calculaste el volumen promedio de dos prismas rectos, lo cual es incorrecto para una pirámide truncada. -->
-- [x] B) $588\text{ cm}^3$ <!-- feedback: Correcto. V = (h/3)(B1 + B2 + √(B1B2)) = (9/3)(100 + 36 + √(3600)) = 3(136 + 60) = 3(196) = 588. -->
-- [ ] C) $720\text{ cm}^3$ <!-- feedback: Error en la aplicación de la fórmula del tronco de pirámide. -->
+- [x] C) $588\text{ cm}^3$ <!-- feedback: Correcto. V = (h/3)(B1 + B2 + √(B1B2)) = (9/3)(100 + 36 + √(3600)) = 3(136 + 60) = 3(196) = 588. -->
+- [ ] B) $720\text{ cm}^3$ <!-- feedback: Error en la aplicación de la fórmula del tronco de pirámide. -->
 - [ ] D) $504\text{ cm}^3$ <!-- feedback: Error aritmético en la suma o el producto de la fórmula. -->
 
 ### Explicacion Pedagogica
@@ -389,8 +389,8 @@ Un octaedro regular puede dividirse en dos pirámides cuadrangulares iguales con
 Si el volumen de una esfera aumenta en un factor de 8, ¿en qué factor aumentó su área superficial?
 
 ### Opciones
-- [ ] A) 2 <!-- feedback: Este es el factor en el que aumentó el radio, no el área superficial. -->
-- [x] B) 4 <!-- feedback: Correcto. Si V aumenta por 8, r aumenta por ∛8 = 2. Como el área es proporcional a r², aumenta por 2² = 4. -->
+- [ ] B) 2 <!-- feedback: Este es el factor en el que aumentó el radio, no el área superficial. -->
+- [x] A) 4 <!-- feedback: Correcto. Si V aumenta por 8, r aumenta por ∛8 = 2. Como el área es proporcional a r², aumenta por 2² = 4. -->
 - [ ] C) 8 <!-- feedback: El área no aumenta en la misma proporción que el volumen. -->
 - [ ] D) 16 <!-- feedback: El factor de escala del área es el cuadrado del factor de escala lineal. -->
 
@@ -432,8 +432,8 @@ Se tiene un cilindro circunscrito a una esfera de radio $R$ (el cilindro tiene r
 
 ### Opciones
 - [ ] A) $1/2$ <!-- feedback: Esta relación no describe correctamente la proporción entre estos dos volúmenes. -->
-- [x] B) $2/3$ <!-- feedback: Correcto. V_esf = (4/3)πR³. V_cil = πR²(2R) = 2πR³. Relación = (4/3) / 2 = 2/3. -->
-- [ ] C) $3/4$ <!-- feedback: Esta proporción subestima la eficiencia del volumen de la esfera dentro del cilindro. -->
+- [x] C) $2/3$ <!-- feedback: Correcto. V_esf = (4/3)πR³. V_cil = πR²(2R) = 2πR³. Relación = (4/3) / 2 = 2/3. -->
+- [ ] B) $3/4$ <!-- feedback: Esta proporción subestima la eficiencia del volumen de la esfera dentro del cilindro. -->
 - [ ] D) $1/3$ <!-- feedback: Esta es la relación entre el volumen de un cono y un cilindro de igual base y altura. -->
 
 ### Explicacion Pedagogica

@@ -30,9 +30,9 @@ bundle_index: 1
 
 ### Opciones
 - [ ] A) Sustitución <!-- feedback: Es un método estándar donde se despeja una incógnita y se sustituye en la otra ecuación. -->
-- [ ] B) Igualación <!-- feedback: Método estándar donde se despeja la misma incógnita en ambas ecuaciones. -->
-- [ ] C) Reducción <!-- feedback: Método estándar que busca eliminar una incógnita mediante suma o resta de ecuaciones. -->
-- [x] D) Factorización por identidades notables <!-- feedback: Correcto. Este es un método para resolver ecuaciones polinómicas, no es un método general para sistemas lineales. -->
+- [ ] C) Igualación <!-- feedback: Método estándar donde se despeja la misma incógnita en ambas ecuaciones. -->
+- [ ] D) Reducción <!-- feedback: Método estándar que busca eliminar una incógnita mediante suma o resta de ecuaciones. -->
+- [x] B) Factorización por identidades notables <!-- feedback: Correcto. Este es un método para resolver ecuaciones polinómicas, no es un método general para sistemas lineales. -->
 
 ### Explicacion Pedagogica
 Los tres métodos algebraicos clásicos para sistemas lineales son sustitución, igualación y reducción. También existe el método gráfico, que permite visualizar la solución como el punto de corte de dos rectas.
@@ -50,8 +50,8 @@ Los tres métodos algebraicos clásicos para sistemas lineales son sustitución,
 ¿Cómo se denomina a un sistema de ecuaciones que tiene infinitas soluciones?
 
 ### Opciones
-- [ ] A) Sistema Compatible Determinado (SCD) <!-- feedback: Este sistema tiene una única solución. -->
-- [x] B) Sistema Compatible Indeterminado (SCI) <!-- feedback: Correcto. Ocurre cuando las ecuaciones representan la misma recta (son dependientes). -->
+- [ ] B) Sistema Compatible Determinado (SCD) <!-- feedback: Este sistema tiene una única solución. -->
+- [x] A) Sistema Compatible Indeterminado (SCI) <!-- feedback: Correcto. Ocurre cuando las ecuaciones representan la misma recta (son dependientes). -->
 - [ ] C) Sistema Incompatible (SI) <!-- feedback: Este sistema no tiene ninguna solución. -->
 - [ ] D) Sistema No Lineal <!-- feedback: La clasificación por número de soluciones es independiente de si es lineal o no. -->
 
@@ -73,9 +73,9 @@ $\begin{cases} x + y = 10 \\ x - y = 2 \end{cases}$
 
 ### Opciones
 - [ ] A) $x = 5, y = 5$ <!-- feedback: La resta daría 0, no 2. -->
-- [x] B) $x = 6, y = 4$ <!-- feedback: Correcto. Sumando ambas: $2x = 12 \Rightarrow x = 6$. Entonces $y = 10 - 6 = 4$. -->
-- [ ] C) $x = 4, y = 6$ <!-- feedback: La resta daría -2, no 2. -->
-- [ ] D) $x = 8, y = 2$ <!-- feedback: La suma es 10, pero la resta es 6. -->
+- [x] D) $x = 6, y = 4$ <!-- feedback: Correcto. Sumando ambas: $2x = 12 \Rightarrow x = 6$. Entonces $y = 10 - 6 = 4$. -->
+- [ ] B) $x = 4, y = 6$ <!-- feedback: La resta daría -2, no 2. -->
+- [ ] C) $x = 8, y = 2$ <!-- feedback: La suma es 10, pero la resta es 6. -->
 
 ### Explicacion Pedagogica
 Este sistema es ideal para el método de reducción. Al sumar las dos ecuaciones directamente, la incógnita $y$ se elimina, permitiendo hallar $x$ de forma inmediata.
@@ -94,8 +94,8 @@ Geométricamente, ¿qué representan las dos rectas de un sistema incompatible?
 
 ### Opciones
 - [ ] A) Dos rectas que se cortan en un punto. <!-- feedback: Esto corresponde a un sistema compatible determinado. -->
-- [x] B) Dos rectas paralelas. <!-- feedback: Correcto. Al no cortarse nunca, el sistema no tiene solución. -->
-- [ ] C) Dos rectas coincidentes (una encima de otra). <!-- feedback: Esto corresponde a un sistema compatible indeterminado. -->
+- [x] C) Dos rectas paralelas. <!-- feedback: Correcto. Al no cortarse nunca, el sistema no tiene solución. -->
+- [ ] B) Dos rectas coincidentes (una encima de otra). <!-- feedback: Esto corresponde a un sistema compatible indeterminado. -->
 - [ ] D) Una curva y una recta. <!-- feedback: Los sistemas de ecuaciones lineales solo implican rectas. -->
 
 ### Explicacion Pedagogica
@@ -138,9 +138,9 @@ $\begin{cases} x - 2y = 5 \\ 2x - 4y = 10 \end{cases}$
 
 ### Opciones
 - [ ] A) Sistema Compatible Determinado (solución única). <!-- feedback: Las ecuaciones no son independientes. -->
-- [x] B) Sistema Compatible Indeterminado (infinitas soluciones). <!-- feedback: Correcto. La segunda ecuación es el doble de la primera; representan la misma recta. -->
-- [ ] C) Sistema Incompatible (sin solución). <!-- feedback: Los términos independientes también guardan la misma proporción. -->
-- [ ] D) No es un sistema lineal. <!-- feedback: Ambas son ecuaciones lineales (grado 1). -->
+- [x] D) Sistema Compatible Indeterminado (infinitas soluciones). <!-- feedback: Correcto. La segunda ecuación es el doble de la primera; representan la misma recta. -->
+- [ ] B) Sistema Incompatible (sin solución). <!-- feedback: Los términos independientes también guardan la misma proporción. -->
+- [ ] C) No es un sistema lineal. <!-- feedback: Ambas son ecuaciones lineales (grado 1). -->
 
 ### Explicacion Pedagogica
 Si al multiplicar una ecuación por un número obtenemos exactamente la otra (incluyendo el término independiente), las ecuaciones son equivalentes. Esto significa que cualquier punto que satisfaga una, satisface la otra, resultando en infinitas soluciones.
@@ -159,8 +159,8 @@ Si al multiplicar una ecuación por un número obtenemos exactamente la otra (in
 
 ### Opciones
 - [ ] A) $\begin{cases} x + y = 2 \\ x + y = 2 \end{cases}$ <!-- feedback: Es compatible indeterminado (idénticas). -->
-- [x] B) $\begin{cases} x + y = 2 \\ x + y = 3 \end{cases}$ <!-- feedback: Correcto. La suma de los mismos valores no puede ser 2 y 3 a la vez. Las rectas son paralelas. -->
-- [ ] C) $\begin{cases} x + y = 2 \\ x - y = 2 \end{cases}$ <!-- feedback: Es compatible determinado (se cortan en x=2, y=0). -->
+- [x] C) $\begin{cases} x + y = 2 \\ x + y = 3 \end{cases}$ <!-- feedback: Correcto. La suma de los mismos valores no puede ser 2 y 3 a la vez. Las rectas son paralelas. -->
+- [ ] B) $\begin{cases} x + y = 2 \\ x - y = 2 \end{cases}$ <!-- feedback: Es compatible determinado (se cortan en x=2, y=0). -->
 - [ ] D) $\begin{cases} x + y = 2 \\ 2x + 2y = 4 \end{cases}$ <!-- feedback: Es compatible indeterminado (proporcionales). -->
 
 ### Explicacion Pedagogica
@@ -201,9 +201,9 @@ En problemas de mezclas, solemos tener una ecuación para la cantidad total ($x 
 
 ### Opciones
 - [ ] A) Hallar el valor de x directamente en el primer paso. <!-- feedback: Gauss requiere varios pasos de transformación. -->
-- [x] B) Transformar el sistema en uno equivalente escalonado (triangular). <!-- feedback: Correcto. Facilita la resolución mediante sustitución regresiva. -->
-- [ ] C) Dibujar las tres rectas en el espacio. <!-- feedback: Eso es interpretación geométrica, no el objetivo del método algebraico. -->
-- [ ] D) Eliminar los términos independientes de todas las ecuaciones. <!-- feedback: Los términos independientes suelen cambiar de valor pero no deben eliminarse todos. -->
+- [x] D) Transformar el sistema en uno equivalente escalonado (triangular). <!-- feedback: Correcto. Facilita la resolución mediante sustitución regresiva. -->
+- [ ] B) Dibujar las tres rectas en el espacio. <!-- feedback: Eso es interpretación geométrica, no el objetivo del método algebraico. -->
+- [ ] C) Eliminar los términos independientes de todas las ecuaciones. <!-- feedback: Los términos independientes suelen cambiar de valor pero no deben eliminarse todos. -->
 
 ### Explicacion Pedagogica
 El método de Gauss consiste en realizar operaciones elementales entre las filas (ecuaciones) para conseguir una matriz de coeficientes triangular superior. Una vez hecho, la última incógnita se despeja directamente y las demás por sustitución hacia arriba.
@@ -222,8 +222,8 @@ Halla los puntos de corte de $y = x^2$ y $y = x$.
 
 ### Opciones
 - [ ] A) Solo (1, 1) <!-- feedback: Falta el punto en el origen. -->
-- [x] B) (0, 0) y (1, 1) <!-- feedback: Correcto. $x^2 = x \Rightarrow x^2 - x = 0 \Rightarrow x(x-1)=0 \Rightarrow x=0, x=1$. -->
-- [ ] C) (0, 0) y (-1, 1) <!-- feedback: En x = -1, la recta da y = -1 y la parábola y = 1; no coinciden. -->
+- [x] C) (0, 0) y (1, 1) <!-- feedback: Correcto. $x^2 = x \Rightarrow x^2 - x = 0 \Rightarrow x(x-1)=0 \Rightarrow x=0, x=1$. -->
+- [ ] B) (0, 0) y (-1, 1) <!-- feedback: En x = -1, la recta da y = -1 y la parábola y = 1; no coinciden. -->
 - [ ] D) (1, 1) y (2, 4) <!-- feedback: El punto (2, 4) no está en la recta y=x. -->
 
 ### Explicacion Pedagogica
@@ -243,9 +243,9 @@ Para resolver sistemas no lineales donde una variable está despejada en ambas, 
 
 ### Opciones
 - [ ] A) Que el determinante de la matriz de coeficientes sea cero. <!-- feedback: Esto indicaría que el rango no es máximo. -->
-- [x] B) Que el rango de la matriz de coeficientes ($A$) sea igual al rango de la matriz ampliada ($A'$). <!-- feedback: Correcto. Esta es la condición fundamental de compatibilidad. -->
-- [ ] C) Que el número de ecuaciones sea igual al de incógnitas. <!-- feedback: Un sistema puede ser compatible con distinto número de ecuaciones e incógnitas. -->
-- [ ] D) Que todos los términos independientes sean nulos. <!-- feedback: Esto define un sistema homogéneo, que siempre es compatible, pero no es la condición general. -->
+- [x] D) Que el rango de la matriz de coeficientes ($A$) sea igual al rango de la matriz ampliada ($A'$). <!-- feedback: Correcto. Esta es la condición fundamental de compatibilidad. -->
+- [ ] B) Que el número de ecuaciones sea igual al de incógnitas. <!-- feedback: Un sistema puede ser compatible con distinto número de ecuaciones e incógnitas. -->
+- [ ] C) Que todos los términos independientes sean nulos. <!-- feedback: Esto define un sistema homogéneo, que siempre es compatible, pero no es la condición general. -->
 
 ### Explicacion Pedagogica
 El Teorema de Rouché-Frobenius es la herramienta definitiva para discutir sistemas. Si $Rg(A) = Rg(A')$, el sistema es compatible. Si además este rango coincide con el número de incógnitas, es determinado; si es menor, es indeterminado.
@@ -286,8 +286,8 @@ Este es un sistema ya escalonado (triangular superior). Se resuelve por sustituc
 
 ### Opciones
 - [ ] A) Nunca tiene solución. <!-- feedback: Siempre tiene al menos una. -->
-- [x] B) Siempre es compatible, ya que admite al menos la solución trivial ($0, 0, \dots, 0$). <!-- feedback: Correcto. El punto origen siempre satisface una ecuación sin término independiente. -->
-- [ ] C) Siempre tiene infinitas soluciones. <!-- feedback: Puede tener solo la solución trivial si el determinante es distinto de cero. -->
+- [x] C) Siempre es compatible, ya que admite al menos la solución trivial ($0, 0, \dots, 0$). <!-- feedback: Correcto. El punto origen siempre satisface una ecuación sin término independiente. -->
+- [ ] B) Siempre tiene infinitas soluciones. <!-- feedback: Puede tener solo la solución trivial si el determinante es distinto de cero. -->
 - [ ] D) Solo tiene soluciones reales negativas. <!-- feedback: Admite soluciones positivas, negativas o nulas. -->
 
 ### Explicacion Pedagogica
@@ -308,9 +308,9 @@ $\begin{cases} x^2 + y^2 = 25 \\ y = x + 1 \end{cases}$
 
 ### Opciones
 - [ ] A) (3, 4) solamente. <!-- feedback: Falta la segunda intersección. -->
-- [x] B) (3, 4) y (-4, -3) <!-- feedback: Correcto. $x^2 + (x+1)^2 = 25 \Rightarrow 2x^2 + 2x - 24 = 0 \Rightarrow x^2+x-12=0 \Rightarrow x=3, x=-4$. -->
-- [ ] C) (0, 5) y (5, 0) <!-- feedback: El punto (5, 0) no cumple la segunda ecuación ($0 \neq 5+1$). -->
-- [ ] D) No tiene soluciones reales. <!-- feedback: La recta corta al círculo en dos puntos. -->
+- [x] D) (3, 4) y (-4, -3) <!-- feedback: Correcto. $x^2 + (x+1)^2 = 25 \Rightarrow 2x^2 + 2x - 24 = 0 \Rightarrow x^2+x-12=0 \Rightarrow x=3, x=-4$. -->
+- [ ] B) (0, 5) y (5, 0) <!-- feedback: El punto (5, 0) no cumple la segunda ecuación ($0 \neq 5+1$). -->
+- [ ] C) No tiene soluciones reales. <!-- feedback: La recta corta al círculo en dos puntos. -->
 
 ### Explicacion Pedagogica
 Sustituimos la expresión de $y$ en la ecuación del círculo. Obtenemos una ecuación de segundo grado que nos da las dos posibles coordenadas $x$. Finalmente, hallamos las $y$ correspondientes usando la ecuación de la recta.
@@ -328,8 +328,8 @@ Sustituimos la expresión de $y$ en la ecuación del círculo. Obtenemos una ecu
 Si el determinante de la matriz de coeficientes de un sistema $3 \times 3$ es distinto de cero, ¿qué tipo de sistema es?
 
 ### Opciones
-- [ ] A) Compatible Indeterminado. <!-- feedback: El rango sería menor que 3 en ese caso. -->
-- [x] B) Compatible Determinado. <!-- feedback: Correcto. Si $|A| \neq 0$, el rango es 3 (igual al número de incógnitas), por lo que hay una solución única. -->
+- [ ] B) Compatible Indeterminado. <!-- feedback: El rango sería menor que 3 en ese caso. -->
+- [x] A) Compatible Determinado. <!-- feedback: Correcto. Si $|A| \neq 0$, el rango es 3 (igual al número de incógnitas), por lo que hay una solución única. -->
 - [ ] C) Incompatible. <!-- feedback: Con determinante no nulo, el sistema siempre tiene solución. -->
 - [ ] D) Sistema Homogéneo Indeterminado. <!-- feedback: Los homogéneos son determinados si el determinante es no nulo. -->
 
@@ -351,9 +351,9 @@ $\begin{cases} \log x + \log y = 1 \\ x + y = 7 \end{cases}$
 
 ### Opciones
 - [ ] A) $x=1, y=6$ <!-- feedback: $\log 1 + \log 6 = \log 6 \neq 1$. -->
-- [x] B) $x=2, y=5$ (y viceversa) <!-- feedback: Correcto. $\log(xy)=1 \Rightarrow xy=10$. Los números que suman 7 y multiplican 10 son 2 y 5. -->
-- [ ] C) $x=3, y=4$ <!-- feedback: El producto es 12, no 10. -->
-- [ ] D) $x=10, y=-3$ <!-- feedback: El logaritmo de -3 no existe. -->
+- [x] D) $x=2, y=5$ (y viceversa) <!-- feedback: Correcto. $\log(xy)=1 \Rightarrow xy=10$. Los números que suman 7 y multiplican 10 son 2 y 5. -->
+- [ ] B) $x=3, y=4$ <!-- feedback: El producto es 12, no 10. -->
+- [ ] C) $x=10, y=-3$ <!-- feedback: El logaritmo de -3 no existe. -->
 
 ### Explicacion Pedagogica
 Transformamos la ecuación logarítmica en una algebraica: $xy = 10^1 = 10$. El sistema se convierte en buscar dos números conocida su suma (7) y su producto (10), lo que lleva a una ecuación de segundo grado.
@@ -371,8 +371,8 @@ Transformamos la ecuación logarítmica en una algebraica: $xy = 10^1 = 10$. El 
 ¿Cuál es la limitación principal de la Regla de Cramer para resolver sistemas de ecuaciones?
 
 ### Opciones
-- [ ] A) Solo sirve para sistemas incompatibles. <!-- feedback: Solo sirve para sistemas compatibles determinados. -->
-- [x] B) Solo se puede aplicar a sistemas con el mismo número de ecuaciones que de incógnitas y determinante no nulo. <!-- feedback: Correcto. Requiere que la matriz de coeficientes sea cuadrada e inversible. -->
+- [ ] B) Solo sirve para sistemas incompatibles. <!-- feedback: Solo sirve para sistemas compatibles determinados. -->
+- [x] A) Solo se puede aplicar a sistemas con el mismo número de ecuaciones que de incógnitas y determinante no nulo. <!-- feedback: Correcto. Requiere que la matriz de coeficientes sea cuadrada e inversible. -->
 - [ ] C) Es un método gráfico muy impreciso. <!-- feedback: Es un método analítico exacto basado en determinantes. -->
 - [ ] D) Solo funciona si todas las soluciones son enteras. <!-- feedback: Funciona para cualquier solución real o compleja. -->
 
@@ -393,8 +393,8 @@ En un sistema con $Rg(A) = 2$ y $Rg(A') = 3$, ¿qué podemos afirmar sobre sus s
 
 ### Opciones
 - [ ] A) Tiene infinitas soluciones dependiendo de un parámetro. <!-- feedback: Eso ocurriría si los rangos fueran iguales a 2. -->
-- [ ] B) Tiene una solución única. <!-- feedback: Los rangos deberían ser iguales y coincidir con las incógnitas. -->
-- [x] C) Es un sistema incompatible (no tiene solución). <!-- feedback: Correcto. Al ser los rangos distintos, el sistema es inconsistente. -->
+- [ ] C) Tiene una solución única. <!-- feedback: Los rangos deberían ser iguales y coincidir con las incógnitas. -->
+- [x] B) Es un sistema incompatible (no tiene solución). <!-- feedback: Correcto. Al ser los rangos distintos, el sistema es inconsistente. -->
 - [ ] D) Es un sistema homogéneo determinado. <!-- feedback: Los sistemas homogéneos nunca tienen rangos distintos entre A y A'. -->
 
 ### Explicacion Pedagogica
@@ -413,9 +413,9 @@ La desigualdad de rangos ($Rg(A) < Rg(A')$) implica que el vector de términos i
 ¿De cuántos parámetros dependerá la solución de un sistema de 3 incógnitas con $Rg(A) = Rg(A') = 2$?
 
 ### Opciones
-- [x] A) 1 parámetro. <!-- feedback: Correcto. $n - Rg = 3 - 2 = 1$. -->
-- [ ] B) 2 parámetros. <!-- feedback: El rango tendría que ser 1. -->
-- [ ] C) Ningún parámetro (solución única). <!-- feedback: El rango tendría que ser 3. -->
+- [x] C) 1 parámetro. <!-- feedback: Correcto. $n - Rg = 3 - 2 = 1$. -->
+- [ ] A) 2 parámetros. <!-- feedback: El rango tendría que ser 1. -->
+- [ ] B) Ningún parámetro (solución única). <!-- feedback: El rango tendría que ser 3. -->
 - [ ] D) No tiene solución. <!-- feedback: Los rangos son iguales, por lo que es compatible. -->
 
 ### Explicacion Pedagogica
@@ -435,9 +435,9 @@ Determina el valor de $x$ e $y$ en:
 $\begin{cases} x + y = a \\ x - y = b \end{cases}$
 
 ### Opciones
-- [x] A) $x = (a+b)/2, y = (a-b)/2$ <!-- feedback: Correcto. Al sumar las ecuaciones $2x = a+b$; al restarlas $2y = a-b$. -->
-- [ ] B) $x = a+b, y = a-b$ <!-- feedback: Falta dividir por 2. -->
-- [ ] C) $x = ab, y = a/b$ <!-- feedback: Fórmulas incorrectas. -->
+- [x] C) $x = (a+b)/2, y = (a-b)/2$ <!-- feedback: Correcto. Al sumar las ecuaciones $2x = a+b$; al restarlas $2y = a-b$. -->
+- [ ] A) $x = a+b, y = a-b$ <!-- feedback: Falta dividir por 2. -->
+- [ ] B) $x = ab, y = a/b$ <!-- feedback: Fórmulas incorrectas. -->
 - [ ] D) $x = a, y = b$ <!-- feedback: No cumple el sistema original. -->
 
 ### Explicacion Pedagogica

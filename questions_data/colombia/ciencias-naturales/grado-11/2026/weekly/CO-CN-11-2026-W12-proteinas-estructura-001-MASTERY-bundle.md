@@ -57,9 +57,9 @@ La estructura primaria de las proteínas está determinada por la secuencia line
 ¿Qué tipo de interacción estabiliza principalmente la estructura secundaria de las proteínas, como la hélice alfa y la lámina beta?
 
 ### Opciones
-- [x] A) Puentes de hidrógeno entre los grupos C=O y N-H del esqueleto peptídico.
+- [x] B) Puentes de hidrógeno entre los grupos C=O y N-H del esqueleto peptídico.
   <!-- feedback: Correcto. La estructura secundaria se estabiliza por puentes de hidrógeno intracadena o intercadena del esqueleto peptídico. -->
-- [ ] B) Puentes disulfuro entre cadenas laterales de cisteína.
+- [ ] A) Puentes disulfuro entre cadenas laterales de cisteína.
   <!-- feedback: Incorrecto. Los puentes disulfuro estabilizan la estructura terciaria y cuaternaria. -->
 - [ ] C) Interacciones hidrofóbicas entre residuos apolares.
   <!-- feedback: Incorrecto. Las interacciones hidrofóbicas dirigen el colapso del núcleo de la estructura terciaria. -->
@@ -80,9 +80,9 @@ Las estructuras secundarias se mantienen por patrones repetitivos de puentes de 
 ¿Qué nivel de organización estructural presenta la hemoglobina al estar constituida por cuatro cadenas polipeptídicas?
 
 ### Opciones
-- [x] A) Estructura cuaternaria.
+- [x] B) Estructura cuaternaria.
   <!-- feedback: Correcto. La estructura cuaternaria consiste en la asociación funcional de dos o más cadenas polipeptídicas (subunidades). -->
-- [ ] B) Estructura primaria.
+- [ ] A) Estructura primaria.
   <!-- feedback: Incorrecto. La estructura primaria es únicamente la secuencia lineal de aminoácidos de una sola cadena. -->
 - [ ] C) Estructura secundaria.
   <!-- feedback: Incorrecto. La estructura secundaria describe arreglos locales como hélices y láminas. -->
@@ -126,11 +126,11 @@ Los aminoácidos esenciales no se sintetizan en el cuerpo a la velocidad necesar
 ¿Qué cambio físico-químico ocurre durante la desnaturalización térmica de la albúmina?
 
 ### Opciones
-- [x] A) Desorganización de las estructuras secundaria y terciaria sin ruptura de enlaces peptídicos.
+- [x] C) Desorganización de las estructuras secundaria y terciaria sin ruptura de enlaces peptídicos.
   <!-- feedback: Correcto. El calor altera las interacciones no covalentes débiles sin hidrolizar los enlaces peptídicos covalentes. -->
-- [ ] B) Hidrólisis completa de la cadena produciendo aminoácidos libres.
+- [ ] A) Hidrólisis completa de la cadena produciendo aminoácidos libres.
   <!-- feedback: Incorrecto. La hidrólisis requiere enzimas o tratamiento ácido/básico concentrado prolongado. -->
-- [ ] C) Aumento drástico de la solubilidad por hidratación del núcleo.
+- [ ] B) Aumento drástico de la solubilidad por hidratación del núcleo.
   <!-- feedback: Incorrecto. Al desnaturalizarse se exponen grupos hidrofóbicos causando insolubilidad y precipitación. -->
 - [ ] D) Isomerización óptica instantánea de aminoácidos L a D.
   <!-- feedback: Incorrecto. La racemización no ocurre por calentamiento moderado. -->
@@ -218,9 +218,9 @@ La pepsina es una proteasa ácida adaptada fisiológicamente a trabajar en el fl
 ¿Qué efecto origina esta modificación en la hemoglobina desoxigenada?
 
 ### Opciones
-- [x] A) Exposición de una zona hidrofóbica que induce la agregación en fibras insolubles.
+- [x] B) Exposición de una zona hidrofóbica que induce la agregación en fibras insolubles.
   <!-- feedback: Correcto. La valina apolar en la superficie interactúa hidrofóbicamente produciendo polimerización de hemoglobina falciforme. -->
-- [ ] B) Pérdida inmediata de los cuatro átomos de hierro hemo.
+- [ ] A) Pérdida inmediata de los cuatro átomos de hierro hemo.
   <!-- feedback: Incorrecto. El sitio de unión del hemo permanece intacto. -->
 - [ ] C) Incremento de la solubilidad proteica en agua.
   <!-- feedback: Incorrecto. Sustituir un aminoácido polar por uno apolar disminuye la solubilidad. -->
@@ -241,9 +241,9 @@ El reemplazo de glutamato por valina genera una interacción apolar anómala que
 ¿En qué principio físico se apoya la separación de las fracciones de albúmina y globulinas?
 
 ### Opciones
-- [x] A) Migración diferencial en un campo eléctrico según la carga neta y el tamaño molecular.
+- [x] B) Migración diferencial en un campo eléctrico según la carga neta y el tamaño molecular.
   <!-- feedback: Correcto. A pH 8.6 las proteínas con carga negativa migran al ánodo a velocidades dependientes de su carga y masa. -->
-- [ ] B) Diferencia en sus puntos de ebullición a presión constante.
+- [ ] A) Diferencia en sus puntos de ebullición a presión constante.
   <!-- feedback: Incorrecto. La electroforesis no involucra cambios de fase de ebullición. -->
 - [ ] C) Filtración por solubilidad en solventes orgánicos no polares.
   <!-- feedback: Incorrecto. La prueba ocurre en matriz acuosa bajo potencial eléctrico. -->
@@ -264,9 +264,9 @@ La electroforesis separa macromoléculas cargadas en un campo eléctrico en func
 ¿Qué rasgo de la estructura terciaria de la proteína termófila explica su resistencia al calor (85 °C)?
 
 ### Opciones
-- [x] A) Mayor cantidad de puentes disulfuro y densas redes de puentes salinos electrostáticos.
+- [x] B) Mayor cantidad de puentes disulfuro y densas redes de puentes salinos electrostáticos.
   <!-- feedback: Correcto. Las proteínas de extremófilos presentan empaquetamiento apolar superior y puentes salinos adicionales que evitan la desnaturalización. -->
-- [ ] B) Ausencia total de residuos de aminoácidos aromáticos.
+- [ ] A) Ausencia total de residuos de aminoácidos aromáticos.
   <!-- feedback: Incorrecto. Los residuos aromáticos estabilizan el núcleo apolar de la proteína. -->
 - [ ] C) Reemplazo del esqueleto peptídico por enlaces de silicio.
   <!-- feedback: Incorrecto. Las enzimas biológicas son polímeros de carbono y nitrógeno. -->
@@ -287,9 +287,9 @@ La termoestabilidad enzimática se logra mediante interacciones no covalentes op
 ¿Cómo cambian los parámetros cinéticos $V_{max}$ y $K_m$ de la reacción?
 
 ### Opciones
-- [x] A) $V_{max}$ se mantiene constante y la $K_m$ aparente aumenta.
+- [x] B) $V_{max}$ se mantiene constante y la $K_m$ aparente aumenta.
   <!-- feedback: Correcto. El inhibidor competitivo compite por el sitio activo; saturando con sustrato se alcanza $V_{max}$, pero se requiere mayor $[S]$ ($K_m$ mayor). -->
-- [ ] B) $V_{max}$ disminuye y $K_m$ no cambia.
+- [ ] A) $V_{max}$ disminuye y $K_m$ no cambia.
   <!-- feedback: Incorrecto. Eso caracteriza a la inhibición no competitiva pura. -->
 - [ ] C) Tanto $V_{max}$ como $K_m$ se reducen proporcionalmente.
   <!-- feedback: Incorrecto. Ese es el patrón de la inhibición acompetitiva. -->
@@ -310,9 +310,9 @@ La inhibición competitiva puede desplazarse con abundante sustrato, manteniendo
 ¿Qué función cumple cada compuesto durante la desnaturalización?
 
 ### Opciones
-- [x] A) La urea rompe los puentes de hidrógeno y el beta-mercaptoetanol reduce los puentes disulfuro.
+- [x] B) La urea rompe los puentes de hidrógeno y el beta-mercaptoetanol reduce los puentes disulfuro.
   <!-- feedback: Correcto. La urea perturba las interacciones no covalentes y el beta-mercaptoetanol reduce enlaces covalentes -S-S- a tioles. -->
-- [ ] B) La urea rompe enlaces peptídicos y el beta-mercaptoetanol deshidrata los azúcares.
+- [ ] A) La urea rompe enlaces peptídicos y el beta-mercaptoetanol deshidrata los azúcares.
   <!-- feedback: Incorrecto. Ninguno hidroliza el esqueleto peptídico a temperatura ambiente. -->
 - [ ] C) La urea oxida tirosinas y el beta-mercaptoetanol neutraliza carboxilos.
   <!-- feedback: Incorrecto. Son agentes desnaturalizantes y reductores de disulfuro respectivamente. -->
@@ -333,13 +333,13 @@ La urea destruye redes de puentes de hidrógeno y el beta-mercaptoetanol reduce 
 ¿Qué fenómeno alostérico causa la forma sigmoidea en la curva de la hemoglobina?
 
 ### Opciones
-- [x] A) Cooperatividad positiva: la unión del primer $O_2$ facilita la unión de las siguientes moléculas.
+- [x] D) Cooperatividad positiva: la unión del primer $O_2$ facilita la unión de las siguientes moléculas.
   <!-- feedback: Correcto. La transición del estado T al R al unir $O_2$ genera la curva sigmoidea por regulación alostérica positiva. -->
-- [ ] B) Inhibición irreversible mediada por $CO_2$.
+- [ ] A) Inhibición irreversible mediada por $CO_2$.
   <!-- feedback: Incorrecto. La curva sigmoide es intrínseca a la unión cooperativa de $O_2$. -->
-- [ ] C) Falta total de comunicación entre subunidades.
+- [ ] B) Falta total de comunicación entre subunidades.
   <!-- feedback: Incorrecto. Sin comunicación la curva sería hiperbólica como la de la mioglobina. -->
-- [ ] D) Desnaturalización reversible del grupo hemo.
+- [ ] C) Desnaturalización reversible del grupo hemo.
   <!-- feedback: Incorrecto. La fijación fisiológica no desnaturaliza la hemoglobina. -->
 
 ### Explicacion Pedagogica
@@ -379,13 +379,13 @@ El 2,3-BPG actúa como efector alostérico negativo que disminuye la afinidad po
 En una cromatografía de intercambio aniónico (resina positiva) a pH 7.0, ¿cuáles proteínas quedan retenidas?
 
 ### Opciones
-- [x] A) Albúmina y Pepsina, porque a pH 7.0 (mayor a su pI) tienen carga neta negativa.
+- [x] D) Albúmina y Pepsina, porque a pH 7.0 (mayor a su pI) tienen carga neta negativa.
   <!-- feedback: Correcto. A pH > pI la proteína pierde H+ adquiriendo carga negativa y uniéndose a la matriz cargada positivamente. -->
-- [ ] B) Únicamente el Citocromo c por su carga positiva.
+- [ ] A) Únicamente el Citocromo c por su carga positiva.
   <!-- feedback: Incorrecto. Cargas iguales (positiva con positiva) se repelen. -->
-- [ ] C) Las tres proteínas de forma idéntica.
+- [ ] B) Las tres proteínas de forma idéntica.
   <!-- feedback: Incorrecto. La retención iónica depende de la carga eléctrica neta. -->
-- [ ] D) Ninguna proteína porque a pH 7.0 son neutras.
+- [ ] C) Ninguna proteína porque a pH 7.0 son neutras.
   <!-- feedback: Incorrecto. Únicamente son neutras en su pI exacto. -->
 
 ### Explicacion Pedagogica
@@ -402,11 +402,11 @@ A pH superior a su punto isoeléctrico las proteínas poseen carga neta negativa
 El modelo A predice el 98% de la estructura de cristalografía. ¿Por qué el principio de minimización de $\Delta G$ es el más acertado?
 
 ### Opciones
-- [x] A) Porque la conformación nativa biológica corresponde al mínimo global de energía libre de Gibbs ($\Delta G$).
+- [x] C) Porque la conformación nativa biológica corresponde al mínimo global de energía libre de Gibbs ($\Delta G$).
   <!-- feedback: Correcto. Según el principio de Anfinsen, el estado nativo es termodinámicamente el de menor energía libre. -->
-- [ ] B) Porque los puentes salinos consumen ATP para formarse.
+- [ ] A) Porque los puentes salinos consumen ATP para formarse.
   <!-- feedback: Incorrecto. Los puentes salinos se forman espontáneamente por atracción electrostática. -->
-- [ ] C) Porque la entropía del agua disminuye al plegarse la proteína.
+- [ ] B) Porque la entropía del agua disminuye al plegarse la proteína.
   <!-- feedback: Incorrecto. La liberación del agua estructurada *aumenta* la entropía del solvente. -->
 - [ ] D) Porque las proteínas son moléculas completamente inmóviles.
   <!-- feedback: Incorrecto. Presentan flexibilidad dinámica necesaria para su función. -->
@@ -471,13 +471,13 @@ La constante $k_{cat}/K_m$ cuantifica la eficiencia catalítica. El descenso en 
 ¿Qué modificación química en el material justifica mayor resistencia a las proteasas endógenas?
 
 ### Opciones
-- [x] A) Inclusión de d-aminoácidos y reticulación con puentes disulfuro adicionales.
+- [x] D) Inclusión de d-aminoácidos y reticulación con puentes disulfuro adicionales.
   <!-- feedback: Correcto. Las proteasas son estereoselectivas para l-aminoácidos; usar d-aminoácidos y reticulaciones retrasa el corte proteolítico. -->
-- [ ] B) Sustitución de enlaces covalentes por atracciones dipolo-dipolo.
+- [ ] A) Sustitución de enlaces covalentes por atracciones dipolo-dipolo.
   <!-- feedback: Incorrecto. La sutura perdería toda cohesión mecánica. -->
-- [ ] C) Reemplazo de aminoácidos por unidades de fructosa.
+- [ ] B) Reemplazo de aminoácidos por unidades de fructosa.
   <!-- feedback: Incorrecto. Dejaría de ser proteica y se disolvería de inmediato. -->
-- [ ] D) Tratamiento previo con ácido clorhídrico concentrado.
+- [ ] C) Tratamiento previo con ácido clorhídrico concentrado.
   <!-- feedback: Incorrecto. Destruiría la fibra y causaría necrosis tisular. -->
 
 ### Explicacion Pedagogica

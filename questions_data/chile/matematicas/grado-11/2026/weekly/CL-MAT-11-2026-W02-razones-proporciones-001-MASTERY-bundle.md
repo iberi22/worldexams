@@ -31,9 +31,9 @@ Si la razón entre harina y azúcar es 5:2, ¿qué significa esto correctamente?
 
 ### Opciones
 - [ ] A) Por cada 5 gramos de mezcla, 2 son de azúcar. <!-- feedback: La razón 5:2 indica la relación entre los ingredientes, no con el total de la mezcla. -->
-- [x] B) Por cada 5 unidades de harina, se deben usar 2 unidades de azúcar. <!-- feedback: Correcto. La razón compara directamente las cantidades de los dos componentes. -->
-- [ ] C) Hay 3 unidades más de harina que de azúcar en cualquier preparación. <!-- feedback: La razón indica una relación multiplicativa, no una diferencia constante. -->
-- [ ] D) La harina representa el 50% de la mezcla total. <!-- feedback: Si la razón es 5:2, la harina representa 5/7 del total, que es más del 70%. -->
+- [x] D) Por cada 5 unidades de harina, se deben usar 2 unidades de azúcar. <!-- feedback: Correcto. La razón compara directamente las cantidades de los dos componentes. -->
+- [ ] B) Hay 3 unidades más de harina que de azúcar en cualquier preparación. <!-- feedback: La razón indica una relación multiplicativa, no una diferencia constante. -->
+- [ ] C) La harina representa el 50% de la mezcla total. <!-- feedback: Si la razón es 5:2, la harina representa 5/7 del total, que es más del 70%. -->
 
 ### Explicacion Pedagogica
 Una razón es una comparación por cociente entre dos magnitudes. En este caso, la razón 5:2 entre harina y azúcar establece que por cada 5 partes de la primera magnitud, corresponden 2 partes de la segunda.
@@ -49,9 +49,9 @@ Una razón es una comparación por cociente entre dos magnitudes. En este caso, 
 ¿A qué tipo de proporción corresponde la relación entre la distancia en el mapa y la distancia real?
 
 ### Opciones
-- [x] A) Proporcionalidad directa. <!-- feedback: A mayor distancia en el mapa, mayor es la distancia real; la razón se mantiene constante. -->
-- [ ] B) Proporcionalidad inversa. <!-- feedback: En la proporción inversa, si una magnitud aumenta, la otra disminuye. -->
-- [ ] C) Proporcionalidad compuesta. <!-- feedback: Solo intervienen dos magnitudes (mapa y realidad). -->
+- [x] C) Proporcionalidad directa. <!-- feedback: A mayor distancia en el mapa, mayor es la distancia real; la razón se mantiene constante. -->
+- [ ] A) Proporcionalidad inversa. <!-- feedback: En la proporción inversa, si una magnitud aumenta, la otra disminuye. -->
+- [ ] B) Proporcionalidad compuesta. <!-- feedback: Solo intervienen dos magnitudes (mapa y realidad). -->
 - [ ] D) No existe proporcionalidad. <!-- feedback: Las escalas son ejemplos fundamentales de proporcionalidad. -->
 
 ### Explicacion Pedagogica
@@ -68,8 +68,8 @@ La relación entre las medidas de un mapa (o maqueta) y las reales es de proporc
 ¿Cuántos litros consumirá en un viaje de 250 kilómetros?
 
 ### Opciones
-- [ ] A) 16 litros <!-- feedback: Eso sería para 200 km. Falta el consumo de los 50 km restantes. -->
-- [x] B) 20 litros <!-- feedback: $\frac{8}{100} = \frac{x}{250} \Rightarrow x = \frac{8 \cdot 250}{100} = 20$. -->
+- [ ] B) 16 litros <!-- feedback: Eso sería para 200 km. Falta el consumo de los 50 km restantes. -->
+- [x] A) 20 litros <!-- feedback: $\frac{8}{100} = \frac{x}{250} \Rightarrow x = \frac{8 \cdot 250}{100} = 20$. -->
 - [ ] C) 24 litros <!-- feedback: Has calculado para 300 km en lugar de 250 km. -->
 - [ ] D) 18 litros <!-- feedback: Error en el cálculo de la proporción directa. -->
 
@@ -125,9 +125,9 @@ Establecemos la proporción $\frac{A}{B} = \frac{7}{3}$. Sustituimos $B = 150$: 
 ¿Cuánto dinero le corresponde al hermano que recibe la parte mayor?
 
 ### Opciones
-- [ ] A) \$20.000 <!-- feedback: Ese es el valor de una "parte", pero la mayor recibe 3 partes. -->
-- [ ] B) \$24.000 <!-- feedback: Esa es la parte del hermano que recibe menos (2 partes). -->
-- [x] C) \$36.000 <!-- feedback: El total son 5 partes. $60.000/5 = 12.000$. La mayor es $12.000 \cdot 3 = 36.000$. -->
+- [ ] B) \$20.000 <!-- feedback: Ese es el valor de una "parte", pero la mayor recibe 3 partes. -->
+- [ ] C) \$24.000 <!-- feedback: Esa es la parte del hermano que recibe menos (2 partes). -->
+- [x] A) \$36.000 <!-- feedback: El total son 5 partes. $60.000/5 = 12.000$. La mayor es $12.000 \cdot 3 = 36.000$. -->
 - [ ] D) \$40.000 <!-- feedback: Dividiste el total en 3 partes en lugar de 5. -->
 
 ### Explicacion Pedagogica
@@ -165,8 +165,8 @@ Es una relación de proporcionalidad inversa: a más llaves, menos tiempo. La co
 ### Opciones
 - [ ] A) 100 minutos <!-- feedback: Aplicaste proporción directa, pero a más máquinas, menos tiempo. -->
 - [ ] B) 20 minutos <!-- feedback: Error en el cálculo aritmético. -->
-- [x] C) 16 minutos <!-- feedback: $40 \cdot 2 = x \cdot 5 \Rightarrow 80 = 5x \Rightarrow x = 16$. -->
-- [ ] D) 8 minutos <!-- feedback: Has dividido por un factor extra de 2. -->
+- [x] D) 16 minutos <!-- feedback: $40 \cdot 2 = x \cdot 5 \Rightarrow 80 = 5x \Rightarrow x = 16$. -->
+- [ ] C) 8 minutos <!-- feedback: Has dividido por un factor extra de 2. -->
 
 ### Explicacion Pedagogica
 Como la cantidad de folletos es constante, la relación entre máquinas y tiempo es inversamente proporcional. Multiplicamos los valores iniciales: $40 \text{ min} \cdot 2 \text{ máquinas} = 80$. Con 5 máquinas: $x \cdot 5 = 80 \Rightarrow x = 16$ minutos.
@@ -183,9 +183,9 @@ Como la cantidad de folletos es constante, la relación entre máquinas y tiempo
 
 ### Opciones
 - [ ] A) 84 <!-- feedback: Error en la determinación de los lados. -->
-- [x] B) 96 <!-- feedback: Semi-perímetro = 20. Partes: 3+2=5. $20/5 = 4$. Largo=12, Ancho=8. Área = $12 \cdot 8 = 96$. -->
-- [ ] C) 24 <!-- feedback: Has calculado mal las dimensiones a partir de la razón. -->
-- [ ] D) 150 <!-- feedback: Has excedido las dimensiones posibles según el perímetro dado. -->
+- [x] D) 96 <!-- feedback: Semi-perímetro = 20. Partes: 3+2=5. $20/5 = 4$. Largo=12, Ancho=8. Área = $12 \cdot 8 = 96$. -->
+- [ ] B) 24 <!-- feedback: Has calculado mal las dimensiones a partir de la razón. -->
+- [ ] C) 150 <!-- feedback: Has excedido las dimensiones posibles según el perímetro dado. -->
 
 ### Explicacion Pedagogica
 El semiperímetro ($largo + ancho$) es $20 \text{ cm}$. La razón $3:2$ suma 5 partes. Cada parte mide $20/5 = 4 \text{ cm}$. Entonces, $largo = 3 \cdot 4 = 12 \text{ cm}$ y $ancho = 2 \cdot 4 = 8 \text{ cm}$. El área es $12 \cdot 8 = 96 \text{ cm}^2$.
@@ -202,9 +202,9 @@ El semiperímetro ($largo + ancho$) es $20 \text{ cm}$. La razón $3:2$ suma 5 p
 
 ### Opciones
 - [ ] A) 2 <!-- feedback: Eso sería si la proporción fuera directa. -->
-- [x] B) 8 <!-- feedback: En proporción inversa, si $x$ se reduce a la mitad, $y$ se duplica. $10 \cdot 4 = 5 \cdot y \Rightarrow 40 = 5y \Rightarrow y=8$. -->
-- [ ] C) 20 <!-- feedback: Multiplicaste por un factor incorrecto. -->
-- [ ] D) 10 <!-- feedback: La constante de producto es 40, no 50. -->
+- [x] D) 8 <!-- feedback: En proporción inversa, si $x$ se reduce a la mitad, $y$ se duplica. $10 \cdot 4 = 5 \cdot y \Rightarrow 40 = 5y \Rightarrow y=8$. -->
+- [ ] B) 20 <!-- feedback: Multiplicaste por un factor incorrecto. -->
+- [ ] C) 10 <!-- feedback: La constante de producto es 40, no 50. -->
 
 ### Explicacion Pedagogica
 En la proporcionalidad inversa, el producto de las variables es constante ($x \cdot y = k$). Aquí, $k = 10 \cdot 4 = 40$. Si $x = 5$, entonces $5 \cdot y = 40$, despejando $y = 40 / 5 = 8$.
@@ -240,8 +240,8 @@ Si para una obra se utilizan $400 \text{ kg}$ del componente C, ¿cuál es la ma
 
 ### Opciones
 - [ ] A) $800 \text{ kg}$ <!-- feedback: Solo sumaste una parte de los componentes. -->
-- [x] B) $640 \text{ kg}$ <!-- feedback: $5k = 400 \Rightarrow k = 80$. Total = $(1+2+5) \cdot 80 = 8 \cdot 80 = 640$. -->
-- [ ] C) $1.000 \text{ kg}$ <!-- feedback: Calculaste el total basándote en una razón distinta. -->
+- [x] C) $640 \text{ kg}$ <!-- feedback: $5k = 400 \Rightarrow k = 80$. Total = $(1+2+5) \cdot 80 = 8 \cdot 80 = 640$. -->
+- [ ] B) $1.000 \text{ kg}$ <!-- feedback: Calculaste el total basándote en una razón distinta. -->
 - [ ] D) $500 \text{ kg}$ <!-- feedback: Error al determinar el valor de la constante $k$. -->
 
 ### Explicacion Pedagogica
@@ -278,8 +278,8 @@ La razón es $2 \text{ cm} / 50 \text{ km} = 0,04 \text{ cm/km}$. Multiplicamos 
 
 ### Opciones
 - [ ] A) 3:4 <!-- feedback: La razón de las áreas es el cuadrado de la razón de los lados. -->
-- [ ] B) $\sqrt{3}:\sqrt{4}$ <!-- feedback: Esa sería la relación inversa si conociéramos las áreas. -->
-- [x] C) 9:16 <!-- feedback: $(3/4)^2 = 9/16$. -->
+- [ ] C) $\sqrt{3}:\sqrt{4}$ <!-- feedback: Esa sería la relación inversa si conociéramos las áreas. -->
+- [x] B) 9:16 <!-- feedback: $(3/4)^2 = 9/16$. -->
 - [ ] D) 6:8 <!-- feedback: Solo multiplicaste por 2, no elevaste al cuadrado. -->
 
 ### Explicacion Pedagogica
@@ -297,9 +297,9 @@ Si la razón entre los lados de dos figuras semejantes es $k$, entonces la razó
 
 ### Opciones
 - [ ] A) 4:2 <!-- feedback: No puedes comparar directamente sin igualar el término común (Juan). -->
-- [x] B) 6:5 <!-- feedback: $P/J = 4/5 = 12/15$ y $J/D = 3/2 = 15/10$. Entonces $P:D = 12:10 = 6:5$. -->
-- [ ] C) 2:1 <!-- feedback: Error al encadenar las razones. -->
-- [ ] D) 12:5 <!-- feedback: Error en la simplificación de la razón compuesta. -->
+- [x] D) 6:5 <!-- feedback: $P/J = 4/5 = 12/15$ y $J/D = 3/2 = 15/10$. Entonces $P:D = 12:10 = 6:5$. -->
+- [ ] B) 2:1 <!-- feedback: Error al encadenar las razones. -->
+- [ ] C) 12:5 <!-- feedback: Error en la simplificación de la razón compuesta. -->
 
 ### Explicacion Pedagogica
 Para comparar Pedro ($P$) con Diego ($D$), usamos a Juan ($J$) como puente. Igualamos la parte de Juan en ambas razones buscando el mínimo común múltiple entre 5 y 3, que es 15. $P:J = 12:15$ y $J:D = 15:10$. Así, $P:D = 12:10$, que simplificado por 2 es 6:5.
@@ -316,8 +316,8 @@ Si el pozo tiene 45.000 litros, ¿cuántas horas tardará la bomba en vaciarlo c
 
 ### Opciones
 - [ ] A) 300 horas <!-- feedback: Olvidaste convertir los minutos a horas. -->
-- [ ] B) 30 horas <!-- feedback: Error en la división por 60. -->
-- [x] C) 5 horas <!-- feedback: $45.000 / 150 = 300$ minutos. $300 / 60 = 5$ horas. -->
+- [ ] C) 30 horas <!-- feedback: Error en la división por 60. -->
+- [x] B) 5 horas <!-- feedback: $45.000 / 150 = 300$ minutos. $300 / 60 = 5$ horas. -->
 - [ ] D) 7,5 horas <!-- feedback: Error en el cálculo aritmético. -->
 
 ### Explicacion Pedagogica
@@ -353,8 +353,8 @@ Es proporción inversa. La cantidad de alimento total es $20 \cdot 15 = 300$ uni
 Si a una presión de 2 atmósferas el volumen es de 12 litros, ¿cuál será el volumen si la presión aumenta a 6 atmósferas?
 
 ### Opciones
-- [ ] A) 36 litros <!-- feedback: Proporción directa incorrecta; a más presión, menos volumen. -->
-- [x] B) 4 litros <!-- feedback: $2 \cdot 12 = 6 \cdot V \Rightarrow 24 = 6V \Rightarrow V = 4$. -->
+- [ ] B) 36 litros <!-- feedback: Proporción directa incorrecta; a más presión, menos volumen. -->
+- [x] A) 4 litros <!-- feedback: $2 \cdot 12 = 6 \cdot V \Rightarrow 24 = 6V \Rightarrow V = 4$. -->
 - [ ] C) 6 litros <!-- feedback: Error en el cálculo de la constante. -->
 - [ ] D) 8 litros <!-- feedback: Dividiste por el factor equivocado. -->
 
@@ -374,8 +374,8 @@ Si por llevar $100 \text{ kg}$ a $50 \text{ km}$ cobran \$10.000, ¿cuánto cobr
 ### Opciones
 - [ ] A) \$20.000 <!-- feedback: Solo consideraste el aumento de distancia. -->
 - [ ] B) \$25.000 <!-- feedback: Solo consideraste el aumento de peso. -->
-- [x] C) \$40.000 <!-- feedback: $\frac{10.000}{100 \cdot 50} = \frac{x}{250 \cdot 80} \Rightarrow \frac{10.000}{5.000} = \frac{x}{20.000} \Rightarrow 2 = \frac{x}{20.000} \Rightarrow x = 40.000$. -->
-- [ ] D) \$50.000 <!-- feedback: Error en el cálculo de la proporcionalidad compuesta. -->
+- [x] D) \$40.000 <!-- feedback: $\frac{10.000}{100 \cdot 50} = \frac{x}{250 \cdot 80} \Rightarrow \frac{10.000}{5.000} = \frac{x}{20.000} \Rightarrow 2 = \frac{x}{20.000} \Rightarrow x = 40.000$. -->
+- [ ] C) \$50.000 <!-- feedback: Error en el cálculo de la proporcionalidad compuesta. -->
 
 ### Explicacion Pedagogica
 Establecemos la relación: $\text{Tarifa} / (\text{Peso} \cdot \text{Distancia}) = \text{Constante}$. $\frac{10.000}{100 \cdot 50} = 2$. Para el nuevo caso: $\frac{x}{250 \cdot 80} = 2$. Entonces $x / 20.000 = 2$, lo que nos da $x = \$40.000$.
@@ -391,9 +391,9 @@ Establecemos la relación: $\text{Tarifa} / (\text{Peso} \cdot \text{Distancia})
 ¿Cuál es el área real de la reserva en kilómetros cuadrados ($\text{km}^2$)?
 
 ### Opciones
-- [ ] A) $6 \text{ km}^2$ <!-- feedback: Error al no elevar la escala al cuadrado para el área. -->
-- [ ] B) $12 \text{ km}^2$ <!-- feedback: Calculaste el perímetro real, no el área. -->
-- [x] C) $36 \text{ km}^2$ <!-- feedback: Lado real = $3 \text{ cm} \cdot 200.000 = 600.000 \text{ cm} = 6 \text{ km}$. Área = $6^2 = 36$. -->
+- [ ] B) $6 \text{ km}^2$ <!-- feedback: Error al no elevar la escala al cuadrado para el área. -->
+- [ ] C) $12 \text{ km}^2$ <!-- feedback: Calculaste el perímetro real, no el área. -->
+- [x] A) $36 \text{ km}^2$ <!-- feedback: Lado real = $3 \text{ cm} \cdot 200.000 = 600.000 \text{ cm} = 6 \text{ km}$. Área = $6^2 = 36$. -->
 - [ ] D) $144 \text{ km}^2$ <!-- feedback: Has multiplicado erróneamente por un factor de 4. -->
 
 ### Explicacion Pedagogica

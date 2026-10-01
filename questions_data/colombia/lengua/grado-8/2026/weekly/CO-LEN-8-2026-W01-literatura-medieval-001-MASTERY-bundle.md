@@ -76,9 +76,9 @@ El teocentrismo es la característica fundamental del pensamiento medieval, infl
 
 ### Opciones
 - [ ] A) Clérigos <!-- feedback: Los clérigos pertenecían a la Iglesia y escribían textos cultos con intención didáctica. -->
-- [x] B) Juglares <!-- feedback: Los juglares eran poetas y músicos populares que transmitían la literatura de forma oral en plazas y cortes. -->
-- [ ] C) Copistas <!-- feedback: Los copistas eran monjes encargados de transcribir libros a mano en los monasterios. -->
-- [ ] D) Trovadores <!-- feedback: Aunque similares, los trovadores eran poetas cultos, a menudo nobles, que componían sus propias obras. -->
+- [x] D) Juglares <!-- feedback: Los juglares eran poetas y músicos populares que transmitían la literatura de forma oral en plazas y cortes. -->
+- [ ] B) Copistas <!-- feedback: Los copistas eran monjes encargados de transcribir libros a mano en los monasterios. -->
+- [ ] C) Trovadores <!-- feedback: Aunque similares, los trovadores eran poetas cultos, a menudo nobles, que componían sus propias obras. -->
 
 ### Explicacion Pedagogica
 El oficio de los juglares se conoce como "mester de juglaría", caracterizado por la oralidad, la métrica irregular y la difusión de hazañas heroicas ante un público mayoritariamente analfabeto.
@@ -97,8 +97,8 @@ El oficio de los juglares se conoce como "mester de juglaría", caracterizado po
 
 ### Opciones
 - [ ] A) Entretener exclusivamente a la nobleza con historias de amor cortés. <!-- feedback: Esa función era más propia de la lírica trovadoresca. -->
-- [x] B) Instruir al pueblo en valores cristianos y morales mediante temas religiosos. <!-- feedback: El mester de clerecía tenía una intención didáctica y moralizante muy marcada. -->
-- [ ] C) Criticar de forma satírica las costumbres de la Iglesia y el sistema feudal. <!-- feedback: Aunque hubo sátira, no era la función primordial del mester de clerecía. -->
+- [x] C) Instruir al pueblo en valores cristianos y morales mediante temas religiosos. <!-- feedback: El mester de clerecía tenía una intención didáctica y moralizante muy marcada. -->
+- [ ] B) Criticar de forma satírica las costumbres de la Iglesia y el sistema feudal. <!-- feedback: Aunque hubo sátira, no era la función primordial del mester de clerecía. -->
 - [ ] D) Registrar de forma objetiva los hechos históricos de los reinados europeos. <!-- feedback: Los textos solían mezclar leyenda y religión, no buscaban una objetividad histórica moderna. -->
 
 ### Explicacion Pedagogica
@@ -117,9 +117,9 @@ El mester de clerecía utilizaba una forma métrica fija (cuaderna vía) y temas
 Si un autor medieval escribe una serie de cuentos donde un consejero ayuda a un joven noble dándole ejemplos morales, ¿a qué corriente literaria pertenece más probablemente?
 
 ### Opciones
-- [ ] A) Épica heroica <!-- feedback: La épica se centra en hazañas bélicas, no en consejos morales de un tutor. -->
-- [ ] B) Lírica tradicional <!-- feedback: La lírica tradicional suele ser breve y centrada en sentimientos, no en relatos didácticos en prosa. -->
-- [x] C) Prosa didáctica <!-- feedback: La prosa didáctica busca enseñar lecciones prácticas y morales mediante cuentos o ejemplos. -->
+- [ ] B) Épica heroica <!-- feedback: La épica se centra en hazañas bélicas, no en consejos morales de un tutor. -->
+- [ ] C) Lírica tradicional <!-- feedback: La lírica tradicional suele ser breve y centrada en sentimientos, no en relatos didácticos en prosa. -->
+- [x] A) Prosa didáctica <!-- feedback: La prosa didáctica busca enseñar lecciones prácticas y morales mediante cuentos o ejemplos. -->
 - [ ] D) Novela de caballería <!-- feedback: Aunque protagonizada por nobles, la novela de caballería busca la aventura fantástica más que la enseñanza moral directa. -->
 
 ### Explicacion Pedagogica
@@ -138,8 +138,8 @@ La prosa didáctica, como en "El Conde Lucanor", utiliza la estructura del "enxi
 ¿Qué característica de los cantares de gesta sugiere que estaban diseñados para ser recitados ante un público y no para ser leídos individualmente?
 
 ### Opciones
-- [ ] A) El uso exclusivo de la prosa para detallar las batallas. <!-- feedback: Los cantares de gesta estaban escritos en verso, no en prosa. -->
-- [x] B) El uso de epítetos épicos y constantes llamadas de atención al oyente. <!-- feedback: Estas fórmulas ayudaban al juglar a memorizar y a mantener el interés de la audiencia. -->
+- [ ] B) El uso exclusivo de la prosa para detallar las batallas. <!-- feedback: Los cantares de gesta estaban escritos en verso, no en prosa. -->
+- [x] A) El uso de epítetos épicos y constantes llamadas de atención al oyente. <!-- feedback: Estas fórmulas ayudaban al juglar a memorizar y a mantener el interés de la audiencia. -->
 - [ ] C) La ausencia completa de elementos fantásticos o religiosos. <!-- feedback: Los cantares solían incluir intervenciones divinas o elementos heroicos exagerados. -->
 - [ ] D) La división del texto en capítulos cortos con títulos explicativos. <!-- feedback: La división en capítulos es más común en la literatura escrita para lectura individual. -->
 
@@ -160,8 +160,8 @@ Considerando el origen de las jarchas, ¿qué se puede inferir sobre la cultura 
 
 ### Opciones
 - [ ] A) La lengua árabe fue la única utilizada para la creación poética durante siglos. <!-- feedback: Las jarchas demuestran la existencia de una lengua romance conviviendo con el árabe. -->
-- [ ] B) Los poetas cristianos rechazaban cualquier influencia estética de Al-Ándalus. <!-- feedback: El hecho de que las jarchas se incluyeran en poemas cultos árabes indica intercambio cultural. -->
-- [x] C) Existía una convivencia y mezcla cultural entre árabes, judíos y cristianos. <!-- feedback: Las jarchas son el testimonio literario de la convivencia de estas comunidades. -->
+- [ ] C) Los poetas cristianos rechazaban cualquier influencia estética de Al-Ándalus. <!-- feedback: El hecho de que las jarchas se incluyeran en poemas cultos árabes indica intercambio cultural. -->
+- [x] B) Existía una convivencia y mezcla cultural entre árabes, judíos y cristianos. <!-- feedback: Las jarchas son el testimonio literario de la convivencia de estas comunidades. -->
 - [ ] D) La literatura popular estaba prohibida por los gobernantes musulmanes. <!-- feedback: Las jarchas son precisamente una muestra de lírica popular que fue preservada. -->
 
 ### Explicacion Pedagogica
@@ -181,8 +181,8 @@ Las jarchas son fundamentales para entender el bilingüismo y la riqueza multicu
 
 ### Opciones
 - [ ] A) La intervención de ángeles para salvar a los protagonistas al final. <!-- feedback: En la obra no hay intervenciones divinas salvadoras, sino un desenlace trágico. -->
-- [x] B) El protagonismo de la pasión individual y el interés material por encima de la fe. <!-- feedback: Los personajes actúan movidos por el deseo y la codicia, reflejando un mundo menos teocéntrico. -->
-- [ ] C) El uso de un lenguaje exclusivamente culto y solemne en todos los personajes. <!-- feedback: La obra mezcla magistralmente el lenguaje culto con el habla popular de los criados. -->
+- [x] C) El protagonismo de la pasión individual y el interés material por encima de la fe. <!-- feedback: Los personajes actúan movidos por el deseo y la codicia, reflejando un mundo menos teocéntrico. -->
+- [ ] B) El uso de un lenguaje exclusivamente culto y solemne en todos los personajes. <!-- feedback: La obra mezcla magistralmente el lenguaje culto con el habla popular de los criados. -->
 - [ ] D) La idealización del amor como una fuerza puramente espiritual y platónica. <!-- feedback: El amor en la obra es presentado con un fuerte componente físico y destructivo. -->
 
 ### Explicacion Pedagogica
@@ -202,9 +202,9 @@ Las jarchas son fundamentales para entender el bilingüismo y la riqueza multicu
 
 ### Opciones
 - [ ] A) Desacreditar la autoridad de los sacerdotes en los pueblos. <!-- feedback: Berceo era clérigo y buscaba fortalecer la fe institucional, no debilitarla. -->
-- [x] B) Fomentar la devoción popular mediante una figura divina misericordiosa y accesible. <!-- feedback: Al humanizar a la Virgen, se facilitaba la identificación del pueblo con la doctrina. -->
-- [ ] C) Criticar de forma satírica las excesivas riquezas de las catedrales medievales. <!-- feedback: El texto se centra en la fe y los milagros, no en la crítica económica de la Iglesia. -->
-- [ ] D) Promover el uso de la magia y la hechicería entre los campesinos. <!-- feedback: Los milagros se presentan como obra divina, opuesta a la hechicería. -->
+- [x] D) Fomentar la devoción popular mediante una figura divina misericordiosa y accesible. <!-- feedback: Al humanizar a la Virgen, se facilitaba la identificación del pueblo con la doctrina. -->
+- [ ] B) Criticar de forma satírica las excesivas riquezas de las catedrales medievales. <!-- feedback: El texto se centra en la fe y los milagros, no en la crítica económica de la Iglesia. -->
+- [ ] C) Promover el uso de la magia y la hechicería entre los campesinos. <!-- feedback: Los milagros se presentan como obra divina, opuesta a la hechicería. -->
 
 ### Explicacion Pedagogica
 Berceo, como parte del mester de clerecía, utiliza un lenguaje sencillo y figuras amables para acercar la teología a un público iletrado.
@@ -223,8 +223,8 @@ Berceo, como parte del mester de clerecía, utiliza un lenguaje sencillo y figur
 
 ### Opciones
 - [ ] A) La necesidad de aumentar los impuestos para combatir las pestes. <!-- feedback: El tema es filosófico y moral, no una propuesta fiscal. -->
-- [x] B) La igualdad esencial de todos los seres humanos ante el destino final, sin importar su rango social. <!-- feedback: La muerte iguala a reyes, clérigos y campesinos, funcionando como una crítica a la vanidad social. -->
-- [ ] C) La superioridad de los guerreros sobre los monjes en tiempos de crisis. <!-- feedback: La muerte no distingue entre profesiones, a todos los alcanza por igual. -->
+- [x] C) La igualdad esencial de todos los seres humanos ante el destino final, sin importar su rango social. <!-- feedback: La muerte iguala a reyes, clérigos y campesinos, funcionando como una crítica a la vanidad social. -->
+- [ ] B) La superioridad de los guerreros sobre los monjes en tiempos de crisis. <!-- feedback: La muerte no distingue entre profesiones, a todos los alcanza por igual. -->
 - [ ] D) El anuncio del fin del mundo y el juicio final inminente para todos. <!-- feedback: Aunque relacionado, el foco de la danza es la igualdad ante el hecho de morir. -->
 
 ### Explicacion Pedagogica
@@ -243,8 +243,8 @@ Las Danzas de la Muerte reflejan el sentimiento de inseguridad de la Baja Edad M
 Desde una perspectiva crítica actual, ¿cómo se podría interpretar la relación entre el sistema feudal y la estructura del "amor cortés" en la literatura medieval?
 
 ### Opciones
-- [ ] A) El amor cortés era una rebelión contra el sistema de vasallaje feudal. <!-- feedback: No era una rebelión, sino una imitación de la estructura social en el ámbito afectivo. -->
-- [x] B) La literatura trasladó la jerarquía de poder del señor y el vasallo a la relación entre la dama y el poeta. <!-- feedback: El poeta utiliza terminología feudal (señora, vasallo) para expresar su sumisión amorosa. -->
+- [ ] B) El amor cortés era una rebelión contra el sistema de vasallaje feudal. <!-- feedback: No era una rebelión, sino una imitación de la estructura social en el ámbito afectivo. -->
+- [x] A) La literatura trasladó la jerarquía de poder del señor y el vasallo a la relación entre la dama y el poeta. <!-- feedback: El poeta utiliza terminología feudal (señora, vasallo) para expresar su sumisión amorosa. -->
 - [ ] C) El amor cortés eliminó las diferencias de clase social entre los amantes literarios. <!-- feedback: Por el contrario, enfatizaba la nobleza y la distancia social insuperable. -->
 - [ ] D) Fue un movimiento que buscaba la igualdad de derechos políticos para las mujeres. <!-- feedback: Aunque la dama era "soberana" en el poema, esto no se traducía en derechos políticos reales. -->
 

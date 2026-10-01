@@ -34,13 +34,13 @@ El círculo y la circunferencia: centro, radio, diámetro y cuerda; objetos circ
 ¿Cuál es el punto que está a la misma distancia de todos los puntos de una circunferencia?
 
 ### Opciones
-- [x] A) El centro.
+- [x] D) El centro.
   <!-- feedback: Todos los puntos de la circunferencia están a igual distancia del centro. -->
-- [ ] B) El radio.
+- [ ] A) El radio.
   <!-- feedback: El radio es la distancia del centro a la circunferencia, no un punto. -->
-- [ ] C) La cuerda.
+- [ ] B) La cuerda.
   <!-- feedback: La cuerda es un segmento que une dos puntos de la circunferencia. -->
-- [ ] D) El diámetro.
+- [ ] C) El diámetro.
   <!-- feedback: El diámetro es un segmento que pasa por el centro y une dos puntos de la circunferencia. -->
 
 ### Explicacion Pedagogica
@@ -57,13 +57,13 @@ Reconocer el centro como el punto equidistante de todos los puntos de la circunf
 ¿Qué relación existe entre el radio y el diámetro de una circunferencia?
 
 ### Opciones
-- [x] A) El diámetro mide el doble del radio.
+- [x] D) El diámetro mide el doble del radio.
   <!-- feedback: El diámetro equivale a dos radios porque une dos puntos pasando por el centro. -->
-- [ ] B) El radio mide el doble del diámetro.
+- [ ] A) El radio mide el doble del diámetro.
   <!-- feedback: Es al contrario: el diámetro es el doble del radio. -->
-- [ ] C) El radio y el diámetro siempre miden lo mismo.
+- [ ] B) El radio y el diámetro siempre miden lo mismo.
   <!-- feedback: El diámetro siempre es mayor: equivale a dos radios. -->
-- [ ] D) El radio no tiene ninguna relación con el diámetro.
+- [ ] C) El radio no tiene ninguna relación con el diámetro.
   <!-- feedback: Sí existe relación: el diámetro es dos veces el radio. -->
 
 ### Explicacion Pedagogica
@@ -126,11 +126,11 @@ Aplicar los pasos del trazo de una circunferencia con compás a partir del centr
 ¿Cómo se llama el segmento que trazó Tomás?
 
 ### Opciones
-- [x] A) Cuerda, porque une dos puntos de la circunferencia.
+- [x] C) Cuerda, porque une dos puntos de la circunferencia.
   <!-- feedback: La cuerda es cualquier segmento que une dos puntos de la circunferencia. -->
-- [ ] B) Radio, porque va del centro al borde.
+- [ ] A) Radio, porque va del centro al borde.
   <!-- feedback: El radio sale del centro; el segmento trazado une dos puntos del borde. -->
-- [ ] C) Diámetro, porque pasa por el centro.
+- [ ] B) Diámetro, porque pasa por el centro.
   <!-- feedback: El segmento no pasa por el centro, por eso no es un diámetro. -->
 - [ ] D) Centro, porque está dentro de la circunferencia.
   <!-- feedback: El centro es un punto, no un segmento que une dos puntos. -->
@@ -149,9 +149,9 @@ Analizar las diferencias entre cuerda, radio y diámetro según su posición res
 ¿Qué se puede concluir al comparar los diámetros de los dos platos?
 
 ### Opciones
-- [x] A) El diámetro del plato grande es el doble que el del plato pequeño.
+- [x] B) El diámetro del plato grande es el doble que el del plato pequeño.
   <!-- feedback: Si el radio es el doble, el diámetro también es el doble: 20 cm frente a 10 cm. -->
-- [ ] B) Los dos platos tienen el mismo diámetro.
+- [ ] A) Los dos platos tienen el mismo diámetro.
   <!-- feedback: Los radios son diferentes, por lo que sus diámetros también lo son. -->
 - [ ] C) El diámetro del plato pequeño es mayor que el del grande.
   <!-- feedback: El plato pequeño tiene menor radio, así que su diámetro es menor. -->
@@ -172,13 +172,13 @@ Analizar la relación proporcional entre el radio y el diámetro al comparar obj
 ¿Cuál es la mejor valoración de esta afirmación?
 
 ### Opciones
-- [x] A) Es falsa, porque si el radio se duplica, el diámetro también se duplica.
+- [x] D) Es falsa, porque si el radio se duplica, el diámetro también se duplica.
   <!-- feedback: Como el diámetro es el doble del radio, al duplicar el radio el diámetro crece en la misma proporción. -->
-- [ ] B) Es verdadera, porque el diámetro no depende del radio.
+- [ ] A) Es verdadera, porque el diámetro no depende del radio.
   <!-- feedback: El diámetro depende directamente del radio, que es la mitad de su medida. -->
-- [ ] C) Es verdadera, porque el radio y el diámetro son independientes.
+- [ ] B) Es verdadera, porque el radio y el diámetro son independientes.
   <!-- feedback: No son independientes: el diámetro siempre es dos veces el radio. -->
-- [ ] D) Es falsa, porque el diámetro se reduce a la mitad.
+- [ ] C) Es falsa, porque el diámetro se reduce a la mitad.
   <!-- feedback: Al aumentar el radio, el diámetro aumenta, no se reduce. -->
 
 ### Explicacion Pedagogica

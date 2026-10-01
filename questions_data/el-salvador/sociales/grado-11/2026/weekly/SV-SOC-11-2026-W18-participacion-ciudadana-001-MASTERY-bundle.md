@@ -34,13 +34,13 @@ creador: "Jules-Agent"
 ¿Qué documento establece la organización del Estado?
 
 ### Opciones
-- [x] A) La Constitución
+- [x] D) La Constitución
   <!-- feedback: ¡Correcto! -->
-- [ ] B) Una ley ordinaria
+- [ ] A) Una ley ordinaria
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) Un decreto presidencial
+- [ ] B) Un decreto presidencial
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) Un tratado internacional
+- [ ] C) Un tratado internacional
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 
 ### Explicacion Pedagogica
@@ -57,9 +57,9 @@ La Constitución es la norma suprema que organiza el Estado y garantiza derechos
 ¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?
 
 ### Opciones
-- [x] A) Urbanización masiva y nuevas clases sociales
+- [x] B) Urbanización masiva y nuevas clases sociales
   <!-- feedback: ¡Correcto! -->
-- [ ] B) Retorno a la vida agrícola
+- [ ] A) Retorno a la vida agrícola
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 - [ ] C) Disminución del comercio global
   <!-- feedback: Incorrecto. Revisa el concepto. -->
@@ -80,9 +80,9 @@ La Revolución Industrial causó migración a ciudades y creó nuevas clases soc
 ¿Qué derechos protegen la Constitución de un país democrático?
 
 ### Opciones
-- [x] A) Derechos humanos fundamentales
+- [x] B) Derechos humanos fundamentales
   <!-- feedback: ¡Correcto! -->
-- [ ] B) Solo derechos de propiedad
+- [ ] A) Solo derechos de propiedad
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 - [ ] C) Únicamente derechos políticos
   <!-- feedback: Incorrecto. Revisa el concepto. -->
@@ -103,9 +103,9 @@ Las constituciones democráticas protegen derechos humanos fundamentales.
 Si un país exporta más de lo que importa, ¿qué tiene?
 
 ### Opciones
-- [x] A) Superávit comercial
+- [x] B) Superávit comercial
   <!-- feedback: ¡Correcto! -->
-- [ ] B) Déficit comercial
+- [ ] A) Déficit comercial
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 - [ ] C) Balanza equilibrada
   <!-- feedback: Incorrecto. Revisa el concepto. -->
@@ -126,9 +126,9 @@ Exportar más que importar genera superávit comercial favorable.
 ¿Cuál fue una causa importante de la Primera Guerra Mundial?
 
 ### Opciones
-- [x] A) El asesinato del Archiduque Francisco Fernando
+- [x] B) El asesinato del Archiduque Francisco Fernando
   <!-- feedback: ¡Correcto! -->
-- [ ] B) El Tratado de Versalles
+- [ ] A) El Tratado de Versalles
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 - [ ] C) La Revolución Rusa
   <!-- feedback: Incorrecto. Revisa el concepto. -->
@@ -149,13 +149,13 @@ El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a
 ¿Qué documento establece la organización del Estado?
 
 ### Opciones
-- [x] A) La Constitución
+- [x] D) La Constitución
   <!-- feedback: ¡Correcto! -->
-- [ ] B) Una ley ordinaria
+- [ ] A) Una ley ordinaria
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) Un decreto presidencial
+- [ ] B) Un decreto presidencial
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) Un tratado internacional
+- [ ] C) Un tratado internacional
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 
 ### Explicacion Pedagogica
@@ -195,11 +195,11 @@ La Revolución Industrial causó migración a ciudades y creó nuevas clases soc
 ¿Qué derechos protegen la Constitución de un país democrático?
 
 ### Opciones
-- [x] A) Derechos humanos fundamentales
+- [x] C) Derechos humanos fundamentales
   <!-- feedback: ¡Correcto! -->
-- [ ] B) Solo derechos de propiedad
+- [ ] A) Solo derechos de propiedad
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) Únicamente derechos políticos
+- [ ] B) Únicamente derechos políticos
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 - [ ] D) Derechos exclusivos del gobierno
   <!-- feedback: Incorrecto. Revisa el concepto. -->
@@ -241,13 +241,13 @@ Exportar más que importar genera superávit comercial favorable.
 ¿Cuál fue una causa importante de la Primera Guerra Mundial?
 
 ### Opciones
-- [x] A) El asesinato del Archiduque Francisco Fernando
+- [x] D) El asesinato del Archiduque Francisco Fernando
   <!-- feedback: ¡Correcto! -->
-- [ ] B) El Tratado de Versalles
+- [ ] A) El Tratado de Versalles
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) La Revolución Rusa
+- [ ] B) La Revolución Rusa
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) La invención del avión
+- [ ] C) La invención del avión
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 
 ### Explicacion Pedagogica
@@ -264,11 +264,11 @@ El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a
 ¿Qué documento establece la organización del Estado?
 
 ### Opciones
-- [x] A) La Constitución
+- [x] C) La Constitución
   <!-- feedback: ¡Correcto! -->
-- [ ] B) Una ley ordinaria
+- [ ] A) Una ley ordinaria
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) Un decreto presidencial
+- [ ] B) Un decreto presidencial
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 - [ ] D) Un tratado internacional
   <!-- feedback: Incorrecto. Revisa el concepto. -->
@@ -287,9 +287,9 @@ La Constitución es la norma suprema que organiza el Estado y garantiza derechos
 ¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?
 
 ### Opciones
-- [x] A) Urbanización masiva y nuevas clases sociales
+- [x] B) Urbanización masiva y nuevas clases sociales
   <!-- feedback: ¡Correcto! -->
-- [ ] B) Retorno a la vida agrícola
+- [ ] A) Retorno a la vida agrícola
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 - [ ] C) Disminución del comercio global
   <!-- feedback: Incorrecto. Revisa el concepto. -->
@@ -310,9 +310,9 @@ La Revolución Industrial causó migración a ciudades y creó nuevas clases soc
 ¿Qué derechos protegen la Constitución de un país democrático?
 
 ### Opciones
-- [x] A) Derechos humanos fundamentales
+- [x] B) Derechos humanos fundamentales
   <!-- feedback: ¡Correcto! -->
-- [ ] B) Solo derechos de propiedad
+- [ ] A) Solo derechos de propiedad
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 - [ ] C) Únicamente derechos políticos
   <!-- feedback: Incorrecto. Revisa el concepto. -->
@@ -333,11 +333,11 @@ Las constituciones democráticas protegen derechos humanos fundamentales.
 Si un país exporta más de lo que importa, ¿qué tiene?
 
 ### Opciones
-- [x] A) Superávit comercial
+- [x] C) Superávit comercial
   <!-- feedback: ¡Correcto! -->
-- [ ] B) Déficit comercial
+- [ ] A) Déficit comercial
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) Balanza equilibrada
+- [ ] B) Balanza equilibrada
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 - [ ] D) Crisis económica
   <!-- feedback: Incorrecto. Revisa el concepto. -->
@@ -402,11 +402,11 @@ La Constitución es la norma suprema que organiza el Estado y garantiza derechos
 ¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?
 
 ### Opciones
-- [x] A) Urbanización masiva y nuevas clases sociales
+- [x] C) Urbanización masiva y nuevas clases sociales
   <!-- feedback: ¡Correcto! -->
-- [ ] B) Retorno a la vida agrícola
+- [ ] A) Retorno a la vida agrícola
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) Disminución del comercio global
+- [ ] B) Disminución del comercio global
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 - [ ] D) Eliminación del trabajo manual
   <!-- feedback: Incorrecto. Revisa el concepto. -->
@@ -425,11 +425,11 @@ La Revolución Industrial causó migración a ciudades y creó nuevas clases soc
 ¿Qué derechos protegen la Constitución de un país democrático?
 
 ### Opciones
-- [x] A) Derechos humanos fundamentales
+- [x] C) Derechos humanos fundamentales
   <!-- feedback: ¡Correcto! -->
-- [ ] B) Solo derechos de propiedad
+- [ ] A) Solo derechos de propiedad
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) Únicamente derechos políticos
+- [ ] B) Únicamente derechos políticos
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 - [ ] D) Derechos exclusivos del gobierno
   <!-- feedback: Incorrecto. Revisa el concepto. -->
@@ -448,9 +448,9 @@ Las constituciones democráticas protegen derechos humanos fundamentales.
 Si un país exporta más de lo que importa, ¿qué tiene?
 
 ### Opciones
-- [x] A) Superávit comercial
+- [x] B) Superávit comercial
   <!-- feedback: ¡Correcto! -->
-- [ ] B) Déficit comercial
+- [ ] A) Déficit comercial
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 - [ ] C) Balanza equilibrada
   <!-- feedback: Incorrecto. Revisa el concepto. -->
@@ -471,11 +471,11 @@ Exportar más que importar genera superávit comercial favorable.
 ¿Cuál fue una causa importante de la Primera Guerra Mundial?
 
 ### Opciones
-- [x] A) El asesinato del Archiduque Francisco Fernando
+- [x] C) El asesinato del Archiduque Francisco Fernando
   <!-- feedback: ¡Correcto! -->
-- [ ] B) El Tratado de Versalles
+- [ ] A) El Tratado de Versalles
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) La Revolución Rusa
+- [ ] B) La Revolución Rusa
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 - [ ] D) La invención del avión
   <!-- feedback: Incorrecto. Revisa el concepto. -->

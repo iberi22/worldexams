@@ -52,11 +52,11 @@ Colombia es uno de los países más megadiversos del mundo gracias a su variedad
 ### Enunciado
 Un bioma se diferencia de un ecosistema porque:
 ### Opciones
-- [x] A) El bioma agrupa ecosistemas con condiciones climáticas similares a gran escala.
+- [x] C) El bioma agrupa ecosistemas con condiciones climáticas similares a gran escala.
   <!-- feedback: Correcto. Ej.: bioma selva tropical. -->
-- [ ] B) El bioma es más pequeño que un ecosistema.
+- [ ] A) El bioma es más pequeño que un ecosistema.
   <!-- feedback: Incorrecto. Es más extenso. -->
-- [ ] C) El ecosistema se limita a zonas urbanas.
+- [ ] B) El ecosistema se limita a zonas urbanas.
   <!-- feedback: Incorrecto. Puede estar en cualquier lugar. -->
 - [ ] D) Son sinónimos exactos.
   <!-- feedback: Incorrecto. Tienen escalas distintas. -->
@@ -72,13 +72,13 @@ Los biomas se definen principalmente por el clima y la vegetación dominante.
 ### Enunciado
 La Amazonía colombiana se caracteriza por:
 ### Opciones
-- [x] A) Alta biodiversidad, clima cálido y húmedo, y ríos caudalosos.
+- [x] D) Alta biodiversidad, clima cálido y húmedo, y ríos caudalosos.
   <!-- feedback: Correcto. Es selva húmeda tropical. -->
-- [ ] B) Climas fríos y nevados permanentes.
+- [ ] A) Climas fríos y nevados permanentes.
   <!-- feedback: Incorrecto. Eso corresponde a los Andes altos. -->
-- [ ] C) Suelos desérticos.
+- [ ] B) Suelos desérticos.
   <!-- feedback: Incorrecto. Tiene alta humedad. -->
-- [ ] D) Escasa vegetación.
+- [ ] C) Escasa vegetación.
   <!-- feedback: Incorrecto. Es muy boscosa. -->
 ### Explicacion Pedagogica
 La Amazonía alberga cerca del 10 % de la biodiversidad mundial.
@@ -112,11 +112,11 @@ Los páramos almacenan y regulan el agua, por eso son fundamentales para el recu
 ### Enunciado
 En un ecosistema, los productores son aquellos organismos que:
 ### Opciones
-- [x] A) Fabrican su propio alimento mediante fotosíntesis o quimiosíntesis.
+- [x] C) Fabrican su propio alimento mediante fotosíntesis o quimiosíntesis.
   <!-- feedback: Correcto. Son las plantas, algas y algunas bacterias. -->
-- [ ] B) Se alimentan de otros seres vivos.
+- [ ] A) Se alimentan de otros seres vivos.
   <!-- feedback: Incorrecto. Son consumidores. -->
-- [ ] C) Descomponen materia orgánica muerta.
+- [ ] B) Descomponen materia orgánica muerta.
   <!-- feedback: Incorrecto. Son descomponedores. -->
 - [ ] D) Parasitan a otros organismos.
   <!-- feedback: Incorrecto. Son parásitos. -->
@@ -132,13 +132,13 @@ Las plantas son la base de las cadenas tróficas al transformar la energía sola
 ### Enunciado
 Un jaguar que caza un venado en la selva es considerado:
 ### Opciones
-- [x] A) Consumidor secundario (carnívoro).
+- [x] D) Consumidor secundario (carnívoro).
   <!-- feedback: Correcto. Se alimenta de herbívoros. -->
-- [ ] B) Productor primario.
+- [ ] A) Productor primario.
   <!-- feedback: Incorrecto. No fotosintetiza. -->
-- [ ] C) Descomponedor.
+- [ ] B) Descomponedor.
   <!-- feedback: Incorrecto. No descompone materia. -->
-- [ ] D) Consumidor primario (herbívoro).
+- [ ] C) Consumidor primario (herbívoro).
   <!-- feedback: Incorrecto. No come plantas. -->
 ### Explicacion Pedagogica
 Los consumidores secundarios se alimentan de consumidores primarios como el venado.
@@ -172,13 +172,13 @@ Los manglares son cruciales para la reproducción de especies marinas.
 ### Enunciado
 La deforestación afecta los ecosistemas porque:
 ### Opciones
-- [x] A) Reduce la biodiversidad, altera el ciclo del agua y aumenta el calentamiento global.
+- [x] D) Reduce la biodiversidad, altera el ciclo del agua y aumenta el calentamiento global.
   <!-- feedback: Correcto. Tiene múltiples consecuencias. -->
-- [ ] B) Aumenta la producción agrícola.
+- [ ] A) Aumenta la producción agrícola.
   <!-- feedback: Incorrecto. Puede empobrecer el suelo. -->
-- [ ] C) Disminuye el efecto invernadero.
+- [ ] B) Disminuye el efecto invernadero.
   <!-- feedback: Incorrecto. Lo aumenta. -->
-- [ ] D) Protege a las especies endémicas.
+- [ ] C) Protege a las especies endémicas.
   <!-- feedback: Incorrecto. Las pone en riesgo. -->
 ### Explicacion Pedagogica
 La deforestación es una de las principales amenazas a la biodiversidad colombiana.
@@ -192,9 +192,9 @@ La deforestación es una de las principales amenazas a la biodiversidad colombia
 ### Enunciado
 ¿Qué estrategia es más efectiva para conservar los ecosistemas colombianos?
 ### Opciones
-- [ ] A) Solo declarar parques sin gestionarlos.
+- [ ] B) Solo declarar parques sin gestionarlos.
   <!-- feedback: Incorrecto. La gestión es clave. -->
-- [x] B) Combinar áreas protegidas, educación ambiental y uso sostenible.
+- [x] A) Combinar áreas protegidas, educación ambiental y uso sostenible.
   <!-- feedback: Correcto. Requiere estrategias integrales. -->
 - [ ] C) Prohibir todo uso humano.
   <!-- feedback: Incorrecto. Las comunidades son parte del ecosistema. -->
@@ -212,9 +212,9 @@ La conservación efectiva combina ciencia, política y participación comunitari
 ### Enunciado
 ¿Por qué Colombia es considerada un país megadiverso?
 ### Opciones
-- [x] A) Por su variedad de ecosistemas, alta biodiversidad y posición geográfica.
+- [x] B) Por su variedad de ecosistemas, alta biodiversidad y posición geográfica.
   <!-- feedback: Correcto. Factores físicos y biológicos. -->
-- [ ] B) Por tener muchas ciudades.
+- [ ] A) Por tener muchas ciudades.
   <!-- feedback: Incorrecto. La diversidad no depende de ciudades. -->
 - [ ] C) Por su idioma oficial únicamente.
   <!-- feedback: Incorrecto. La diversidad es biológica y cultural. -->

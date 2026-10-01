@@ -35,11 +35,11 @@ alineadas con los DBA del MEN Colombia y el marco de evaluación Saber 11 del IC
 En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 4x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?
 
 ### Opciones
-- [x] A) $x = 2$
+- [x] C) $x = 2$
   <!-- feedback: Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima. -->
-- [ ] B) $x = 9$
+- [ ] A) $x = 9$
   <!-- feedback: Incorrecto: falta dividir entre 2 al despejar x. -->
-- [ ] C) $x = -2$
+- [ ] B) $x = -2$
   <!-- feedback: Incorrecto: error de signo en el nivel de producción. -->
 - [ ] D) $x = 102$
   <!-- feedback: Incorrecto: se tomó el término constante en vez de derivar. -->
@@ -58,9 +58,9 @@ La derivada del beneficio es $B'(x) = -2x + 4$. Igualando a cero para encontrar 
 En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 6x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?
 
 ### Opciones
-- [x] A) $x = 3$
+- [x] B) $x = 3$
   <!-- feedback: Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima. -->
-- [ ] B) $x = 11$
+- [ ] A) $x = 11$
   <!-- feedback: Incorrecto: falta dividir entre 2 al despejar x. -->
 - [ ] C) $x = -3$
   <!-- feedback: Incorrecto: error de signo en el nivel de producción. -->
@@ -81,13 +81,13 @@ La derivada del beneficio es $B'(x) = -2x + 6$. Igualando a cero para encontrar 
 En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 8x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?
 
 ### Opciones
-- [x] A) $x = 4$
+- [x] D) $x = 4$
   <!-- feedback: Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima. -->
-- [ ] B) $x = 13$
+- [ ] A) $x = 13$
   <!-- feedback: Incorrecto: falta dividir entre 2 al despejar x. -->
-- [ ] C) $x = -4$
+- [ ] B) $x = -4$
   <!-- feedback: Incorrecto: error de signo en el nivel de producción. -->
-- [ ] D) $x = 104$
+- [ ] C) $x = 104$
   <!-- feedback: Incorrecto: se tomó el término constante en vez de derivar. -->
 
 ### Explicacion Pedagogica
@@ -104,9 +104,9 @@ La derivada del beneficio es $B'(x) = -2x + 8$. Igualando a cero para encontrar 
 En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 10x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?
 
 ### Opciones
-- [x] A) $x = 5$
+- [x] B) $x = 5$
   <!-- feedback: Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima. -->
-- [ ] B) $x = 15$
+- [ ] A) $x = 15$
   <!-- feedback: Incorrecto: falta dividir entre 2 al despejar x. -->
 - [ ] C) $x = -5$
   <!-- feedback: Incorrecto: error de signo en el nivel de producción. -->
@@ -127,9 +127,9 @@ La derivada del beneficio es $B'(x) = -2x + 10$. Igualando a cero para encontrar
 En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 12x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?
 
 ### Opciones
-- [x] A) $x = 6$
+- [x] B) $x = 6$
   <!-- feedback: Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima. -->
-- [ ] B) $x = 17$
+- [ ] A) $x = 17$
   <!-- feedback: Incorrecto: falta dividir entre 2 al despejar x. -->
 - [ ] C) $x = -6$
   <!-- feedback: Incorrecto: error de signo en el nivel de producción. -->
@@ -150,11 +150,11 @@ La derivada del beneficio es $B'(x) = -2x + 12$. Igualando a cero para encontrar
 En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 14x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?
 
 ### Opciones
-- [x] A) $x = 7$
+- [x] C) $x = 7$
   <!-- feedback: Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima. -->
-- [ ] B) $x = 19$
+- [ ] A) $x = 19$
   <!-- feedback: Incorrecto: falta dividir entre 2 al despejar x. -->
-- [ ] C) $x = -7$
+- [ ] B) $x = -7$
   <!-- feedback: Incorrecto: error de signo en el nivel de producción. -->
 - [ ] D) $x = 107$
   <!-- feedback: Incorrecto: se tomó el término constante en vez de derivar. -->
@@ -219,9 +219,9 @@ La derivada del beneficio es $B'(x) = -2x + 18$. Igualando a cero para encontrar
 En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 20x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?
 
 ### Opciones
-- [x] A) $x = 10$
+- [x] B) $x = 10$
   <!-- feedback: Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima. -->
-- [ ] B) $x = 25$
+- [ ] A) $x = 25$
   <!-- feedback: Incorrecto: falta dividir entre 2 al despejar x. -->
 - [ ] C) $x = -10$
   <!-- feedback: Incorrecto: error de signo en el nivel de producción. -->
@@ -242,9 +242,9 @@ La derivada del beneficio es $B'(x) = -2x + 20$. Igualando a cero para encontrar
 En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 22x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?
 
 ### Opciones
-- [x] A) $x = 11$
+- [x] B) $x = 11$
   <!-- feedback: Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima. -->
-- [ ] B) $x = 27$
+- [ ] A) $x = 27$
   <!-- feedback: Incorrecto: falta dividir entre 2 al despejar x. -->
 - [ ] C) $x = -11$
   <!-- feedback: Incorrecto: error de signo en el nivel de producción. -->
@@ -265,13 +265,13 @@ La derivada del beneficio es $B'(x) = -2x + 22$. Igualando a cero para encontrar
 En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 24x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?
 
 ### Opciones
-- [x] A) $x = 12$
+- [x] D) $x = 12$
   <!-- feedback: Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima. -->
-- [ ] B) $x = 29$
+- [ ] A) $x = 29$
   <!-- feedback: Incorrecto: falta dividir entre 2 al despejar x. -->
-- [ ] C) $x = -12$
+- [ ] B) $x = -12$
   <!-- feedback: Incorrecto: error de signo en el nivel de producción. -->
-- [ ] D) $x = 112$
+- [ ] C) $x = 112$
   <!-- feedback: Incorrecto: se tomó el término constante en vez de derivar. -->
 
 ### Explicacion Pedagogica
@@ -288,13 +288,13 @@ La derivada del beneficio es $B'(x) = -2x + 24$. Igualando a cero para encontrar
 En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 26x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?
 
 ### Opciones
-- [x] A) $x = 13$
+- [x] D) $x = 13$
   <!-- feedback: Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima. -->
-- [ ] B) $x = 31$
+- [ ] A) $x = 31$
   <!-- feedback: Incorrecto: falta dividir entre 2 al despejar x. -->
-- [ ] C) $x = -13$
+- [ ] B) $x = -13$
   <!-- feedback: Incorrecto: error de signo en el nivel de producción. -->
-- [ ] D) $x = 113$
+- [ ] C) $x = 113$
   <!-- feedback: Incorrecto: se tomó el término constante en vez de derivar. -->
 
 ### Explicacion Pedagogica
@@ -311,13 +311,13 @@ La derivada del beneficio es $B'(x) = -2x + 26$. Igualando a cero para encontrar
 En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 28x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?
 
 ### Opciones
-- [x] A) $x = 14$
+- [x] D) $x = 14$
   <!-- feedback: Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima. -->
-- [ ] B) $x = 33$
+- [ ] A) $x = 33$
   <!-- feedback: Incorrecto: falta dividir entre 2 al despejar x. -->
-- [ ] C) $x = -14$
+- [ ] B) $x = -14$
   <!-- feedback: Incorrecto: error de signo en el nivel de producción. -->
-- [ ] D) $x = 114$
+- [ ] C) $x = 114$
   <!-- feedback: Incorrecto: se tomó el término constante en vez de derivar. -->
 
 ### Explicacion Pedagogica
@@ -334,13 +334,13 @@ La derivada del beneficio es $B'(x) = -2x + 28$. Igualando a cero para encontrar
 En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 30x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?
 
 ### Opciones
-- [x] A) $x = 15$
+- [x] D) $x = 15$
   <!-- feedback: Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima. -->
-- [ ] B) $x = 35$
+- [ ] A) $x = 35$
   <!-- feedback: Incorrecto: falta dividir entre 2 al despejar x. -->
-- [ ] C) $x = -15$
+- [ ] B) $x = -15$
   <!-- feedback: Incorrecto: error de signo en el nivel de producción. -->
-- [ ] D) $x = 115$
+- [ ] C) $x = 115$
   <!-- feedback: Incorrecto: se tomó el término constante en vez de derivar. -->
 
 ### Explicacion Pedagogica
@@ -357,13 +357,13 @@ La derivada del beneficio es $B'(x) = -2x + 30$. Igualando a cero para encontrar
 En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 32x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?
 
 ### Opciones
-- [x] A) $x = 16$
+- [x] D) $x = 16$
   <!-- feedback: Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima. -->
-- [ ] B) $x = 37$
+- [ ] A) $x = 37$
   <!-- feedback: Incorrecto: falta dividir entre 2 al despejar x. -->
-- [ ] C) $x = -16$
+- [ ] B) $x = -16$
   <!-- feedback: Incorrecto: error de signo en el nivel de producción. -->
-- [ ] D) $x = 116$
+- [ ] C) $x = 116$
   <!-- feedback: Incorrecto: se tomó el término constante en vez de derivar. -->
 
 ### Explicacion Pedagogica
@@ -380,13 +380,13 @@ La derivada del beneficio es $B'(x) = -2x + 32$. Igualando a cero para encontrar
 En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 34x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?
 
 ### Opciones
-- [x] A) $x = 17$
+- [x] D) $x = 17$
   <!-- feedback: Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima. -->
-- [ ] B) $x = 39$
+- [ ] A) $x = 39$
   <!-- feedback: Incorrecto: falta dividir entre 2 al despejar x. -->
-- [ ] C) $x = -17$
+- [ ] B) $x = -17$
   <!-- feedback: Incorrecto: error de signo en el nivel de producción. -->
-- [ ] D) $x = 117$
+- [ ] C) $x = 117$
   <!-- feedback: Incorrecto: se tomó el término constante en vez de derivar. -->
 
 ### Explicacion Pedagogica
@@ -449,13 +449,13 @@ La derivada del beneficio es $B'(x) = -2x + 38$. Igualando a cero para encontrar
 En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 40x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?
 
 ### Opciones
-- [x] A) $x = 20$
+- [x] D) $x = 20$
   <!-- feedback: Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima. -->
-- [ ] B) $x = 45$
+- [ ] A) $x = 45$
   <!-- feedback: Incorrecto: falta dividir entre 2 al despejar x. -->
-- [ ] C) $x = -20$
+- [ ] B) $x = -20$
   <!-- feedback: Incorrecto: error de signo en el nivel de producción. -->
-- [ ] D) $x = 120$
+- [ ] C) $x = 120$
   <!-- feedback: Incorrecto: se tomó el término constante en vez de derivar. -->
 
 ### Explicacion Pedagogica
@@ -472,9 +472,9 @@ La derivada del beneficio es $B'(x) = -2x + 40$. Igualando a cero para encontrar
 En la prueba Saber 11, se presenta la función de beneficio $B(x) = -x^2 + 42x - 10$. ¿En qué nivel de producción $x$ se maximiza el beneficio?
 
 ### Opciones
-- [x] A) $x = 21$
+- [x] B) $x = 21$
   <!-- feedback: Correcto: la condición de primer orden B'(x) = 0 determina la producción óptima. -->
-- [ ] B) $x = 47$
+- [ ] A) $x = 47$
   <!-- feedback: Incorrecto: falta dividir entre 2 al despejar x. -->
 - [ ] C) $x = -21$
   <!-- feedback: Incorrecto: error de signo en el nivel de producción. -->

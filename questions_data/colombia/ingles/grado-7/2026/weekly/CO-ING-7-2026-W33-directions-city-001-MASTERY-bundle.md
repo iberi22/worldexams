@@ -40,9 +40,9 @@ Where do you go to buy medicine?
   <!-- feedback: Incorrect. You buy bread here. -->
 - [ ] B) Library
   <!-- feedback: Incorrect. You read or borrow books here. -->
-- [x] C) Drugstore / Pharmacy
+- [x] D) Drugstore / Pharmacy
   <!-- feedback: Correct! This is where medicine is sold. -->
-- [ ] D) Museum
+- [ ] C) Museum
   <!-- feedback: Incorrect. You see historical objects here. -->
 
 ### Explicacion Pedagogica
@@ -63,9 +63,9 @@ What does "Turn left" mean?
 ### Opciones
 - [ ] A) Continue moving forward.
   <!-- feedback: Incorrect. That is "Go straight". -->
-- [x] B) Change direction to the left side.
+- [x] C) Change direction to the left side.
   <!-- feedback: Correct! This is the standard meaning of the command. -->
-- [ ] C) Stop moving.
+- [ ] B) Stop moving.
   <!-- feedback: Incorrect. This is "Stop". -->
 - [ ] D) Change direction to the right side.
   <!-- feedback: Incorrect. That is "Turn right". -->
@@ -88,9 +88,9 @@ The student identifies the meaning of basic imperative verbs used for giving dir
 ### Opciones
 - [ ] A) When
   <!-- feedback: Incorrect. Asks about time. -->
-- [x] B) Where
+- [x] C) Where
   <!-- feedback: Correct! "Where" asks for the location of a place. -->
-- [ ] C) Who
+- [ ] B) Who
   <!-- feedback: Incorrect. Asks about a person. -->
 - [ ] D) Why
   <!-- feedback: Incorrect. Asks for a reason. -->
@@ -113,9 +113,9 @@ The student understands the correct interrogative word to ask for directions.
 ### Opciones
 - [ ] A) on
   <!-- feedback: Incorrect. -->
-- [ ] B) in
+- [ ] C) in
   <!-- feedback: Incorrect. -->
-- [x] C) between
+- [x] B) between
   <!-- feedback: Correct! "Between" is used for a position between two other things. -->
 - [ ] D) next
   <!-- feedback: Incorrect. Requires "to" (next to). -->
@@ -136,9 +136,9 @@ The student understands the use of the preposition "between" to describe a relat
 "Go straight for two blocks, then ________ right at the hospital."
 
 ### Opciones
-- [ ] A) go
+- [ ] B) go
   <!-- feedback: Incorrect. "Go right" is possible but "turn" is the standard verb for changing direction. -->
-- [x] B) turn
+- [x] A) turn
   <!-- feedback: Correct! "Turn" is the specific verb for changing direction at a corner. -->
 - [ ] C) walk
   <!-- feedback: Incorrect. -->
@@ -162,9 +162,9 @@ The student applies the correct imperative verb for directional instructions.
 Where is the Library located?
 
 ### Opciones
-- [ ] A) Next to the Bank.
+- [ ] B) Next to the Bank.
   <!-- feedback: Incorrect. You have to walk and turn left first. -->
-- [x] B) On the corner, opposite the park.
+- [x] A) On the corner, opposite the park.
   <!-- feedback: Correct! "Across from" means on the opposite side. -->
 - [ ] C) Inside the park.
   <!-- feedback: Incorrect. It is across from it. -->
@@ -189,9 +189,9 @@ The student applies reading strategies to follow verbal directions and identify 
 ### Opciones
 - [ ] A) should
   <!-- feedback: Incorrect. Dangerous actions should be advised against. -->
-- [x] B) shouldn't
+- [x] C) shouldn't
   <!-- feedback: Correct! Modal for advice against a dangerous action. -->
-- [ ] C) must
+- [ ] B) must
   <!-- feedback: Incorrect. You shouldn't be obligated to do something dangerous. -->
 - [ ] D) can
   <!-- feedback: Incorrect. While possible, it is not safe. -->

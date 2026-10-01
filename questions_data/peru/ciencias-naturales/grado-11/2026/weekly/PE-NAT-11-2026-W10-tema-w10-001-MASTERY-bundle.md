@@ -30,11 +30,11 @@ creador: "Jules-Agent"
 Respecto a los principios y leyes fundamentales de tema-w10 en las ciencias naturales, evalúe el enunciado 1:
 
 ### Opciones
-- [x] A) La aplicación de los principios de conservación y las leyes naturales explica el fenómeno observatorio 1
+- [x] C) La aplicación de los principios de conservación y las leyes naturales explica el fenómeno observatorio 1
   <!-- feedback: Correcto. Los principios de conservación de masa, energía y momento rigen la dinámica de los sistemas físicos y biológicos. -->
-- [ ] B) La violación espontánea de las leyes de conservación de energía en el laboratorio 1
+- [ ] A) La violación espontánea de las leyes de conservación de energía en el laboratorio 1
   <!-- feedback: Incorrecto. Las leyes de la termodinámica y conservación son invariantes en todos los procesos naturales conocidos. -->
-- [ ] C) La creación de masa a partir de la nada sin conversión de energía en la muestra 1
+- [ ] B) La creación de masa a partir de la nada sin conversión de energía en la muestra 1
   <!-- feedback: Incorrecto. La masa y la energía se conservan o se transforman mutuamente según las leyes de la física. -->
 - [ ] D) La ausencia total de interacciones moleculares en el sistema experimental 1
   <!-- feedback: Incorrecto. Las fuerzas intermoleculares determinan las propiedades macroscópicas y el estado de agregación de la materia. -->
@@ -80,11 +80,11 @@ El análisis de tema-w10 permite predecir experimentalmente el comportamiento cu
 Respecto a los principios y leyes fundamentales de tema-w10 en las ciencias naturales, evalúe el enunciado 3:
 
 ### Opciones
-- [x] A) La aplicación de los principios de conservación y las leyes naturales explica el fenómeno observatorio 3
+- [x] C) La aplicación de los principios de conservación y las leyes naturales explica el fenómeno observatorio 3
   <!-- feedback: Correcto. Los principios de conservación de masa, energía y momento rigen la dinámica de los sistemas físicos y biológicos. -->
-- [ ] B) La violación espontánea de las leyes de conservación de energía en el laboratorio 3
+- [ ] A) La violación espontánea de las leyes de conservación de energía en el laboratorio 3
   <!-- feedback: Incorrecto. Las leyes de la termodinámica y conservación son invariantes en todos los procesos naturales conocidos. -->
-- [ ] C) La creación de masa a partir de la nada sin conversión de energía en la muestra 3
+- [ ] B) La creación de masa a partir de la nada sin conversión de energía en la muestra 3
   <!-- feedback: Incorrecto. La masa y la energía se conservan o se transforman mutuamente según las leyes de la física. -->
 - [ ] D) La ausencia total de interacciones moleculares en el sistema experimental 3
   <!-- feedback: Incorrecto. Las fuerzas intermoleculares determinan las propiedades macroscópicas y el estado de agregación de la materia. -->
@@ -130,13 +130,13 @@ El análisis de tema-w10 permite predecir experimentalmente el comportamiento cu
 Respecto a los principios y leyes fundamentales de tema-w10 en las ciencias naturales, evalúe el enunciado 5:
 
 ### Opciones
-- [x] A) La aplicación de los principios de conservación y las leyes naturales explica el fenómeno observatorio 5
+- [x] D) La aplicación de los principios de conservación y las leyes naturales explica el fenómeno observatorio 5
   <!-- feedback: Correcto. Los principios de conservación de masa, energía y momento rigen la dinámica de los sistemas físicos y biológicos. -->
-- [ ] B) La violación espontánea de las leyes de conservación de energía en el laboratorio 5
+- [ ] A) La violación espontánea de las leyes de conservación de energía en el laboratorio 5
   <!-- feedback: Incorrecto. Las leyes de la termodinámica y conservación son invariantes en todos los procesos naturales conocidos. -->
-- [ ] C) La creación de masa a partir de la nada sin conversión de energía en la muestra 5
+- [ ] B) La creación de masa a partir de la nada sin conversión de energía en la muestra 5
   <!-- feedback: Incorrecto. La masa y la energía se conservan o se transforman mutuamente según las leyes de la física. -->
-- [ ] D) La ausencia total de interacciones moleculares en el sistema experimental 5
+- [ ] C) La ausencia total de interacciones moleculares en el sistema experimental 5
   <!-- feedback: Incorrecto. Las fuerzas intermoleculares determinan las propiedades macroscópicas y el estado de agregación de la materia. -->
 
 ### Explicacion Pedagogica
@@ -180,11 +180,11 @@ El análisis de tema-w10 permite predecir experimentalmente el comportamiento cu
 Respecto a los principios y leyes fundamentales de tema-w10 en las ciencias naturales, evalúe el enunciado 7:
 
 ### Opciones
-- [x] A) La aplicación de los principios de conservación y las leyes naturales explica el fenómeno observatorio 7
+- [x] C) La aplicación de los principios de conservación y las leyes naturales explica el fenómeno observatorio 7
   <!-- feedback: Correcto. Los principios de conservación de masa, energía y momento rigen la dinámica de los sistemas físicos y biológicos. -->
-- [ ] B) La violación espontánea de las leyes de conservación de energía en el laboratorio 7
+- [ ] A) La violación espontánea de las leyes de conservación de energía en el laboratorio 7
   <!-- feedback: Incorrecto. Las leyes de la termodinámica y conservación son invariantes en todos los procesos naturales conocidos. -->
-- [ ] C) La creación de masa a partir de la nada sin conversión de energía en la muestra 7
+- [ ] B) La creación de masa a partir de la nada sin conversión de energía en la muestra 7
   <!-- feedback: Incorrecto. La masa y la energía se conservan o se transforman mutuamente según las leyes de la física. -->
 - [ ] D) La ausencia total de interacciones moleculares en el sistema experimental 7
   <!-- feedback: Incorrecto. Las fuerzas intermoleculares determinan las propiedades macroscópicas y el estado de agregación de la materia. -->
@@ -205,9 +205,9 @@ El análisis de tema-w10 permite predecir experimentalmente el comportamiento cu
 Respecto a los principios y leyes fundamentales de tema-w10 en las ciencias naturales, evalúe el enunciado 8:
 
 ### Opciones
-- [x] A) La aplicación de los principios de conservación y las leyes naturales explica el fenómeno observatorio 8
+- [x] B) La aplicación de los principios de conservación y las leyes naturales explica el fenómeno observatorio 8
   <!-- feedback: Correcto. Los principios de conservación de masa, energía y momento rigen la dinámica de los sistemas físicos y biológicos. -->
-- [ ] B) La violación espontánea de las leyes de conservación de energía en el laboratorio 8
+- [ ] A) La violación espontánea de las leyes de conservación de energía en el laboratorio 8
   <!-- feedback: Incorrecto. Las leyes de la termodinámica y conservación son invariantes en todos los procesos naturales conocidos. -->
 - [ ] C) La creación de masa a partir de la nada sin conversión de energía en la muestra 8
   <!-- feedback: Incorrecto. La masa y la energía se conservan o se transforman mutuamente según las leyes de la física. -->
@@ -230,11 +230,11 @@ El análisis de tema-w10 permite predecir experimentalmente el comportamiento cu
 Respecto a los principios y leyes fundamentales de tema-w10 en las ciencias naturales, evalúe el enunciado 9:
 
 ### Opciones
-- [x] A) La aplicación de los principios de conservación y las leyes naturales explica el fenómeno observatorio 9
+- [x] C) La aplicación de los principios de conservación y las leyes naturales explica el fenómeno observatorio 9
   <!-- feedback: Correcto. Los principios de conservación de masa, energía y momento rigen la dinámica de los sistemas físicos y biológicos. -->
-- [ ] B) La violación espontánea de las leyes de conservación de energía en el laboratorio 9
+- [ ] A) La violación espontánea de las leyes de conservación de energía en el laboratorio 9
   <!-- feedback: Incorrecto. Las leyes de la termodinámica y conservación son invariantes en todos los procesos naturales conocidos. -->
-- [ ] C) La creación de masa a partir de la nada sin conversión de energía en la muestra 9
+- [ ] B) La creación de masa a partir de la nada sin conversión de energía en la muestra 9
   <!-- feedback: Incorrecto. La masa y la energía se conservan o se transforman mutuamente según las leyes de la física. -->
 - [ ] D) La ausencia total de interacciones moleculares en el sistema experimental 9
   <!-- feedback: Incorrecto. Las fuerzas intermoleculares determinan las propiedades macroscópicas y el estado de agregación de la materia. -->
@@ -255,11 +255,11 @@ El análisis de tema-w10 permite predecir experimentalmente el comportamiento cu
 Respecto a los principios y leyes fundamentales de tema-w10 en las ciencias naturales, evalúe el enunciado 10:
 
 ### Opciones
-- [x] A) La aplicación de los principios de conservación y las leyes naturales explica el fenómeno observatorio 10
+- [x] C) La aplicación de los principios de conservación y las leyes naturales explica el fenómeno observatorio 10
   <!-- feedback: Correcto. Los principios de conservación de masa, energía y momento rigen la dinámica de los sistemas físicos y biológicos. -->
-- [ ] B) La violación espontánea de las leyes de conservación de energía en el laboratorio 10
+- [ ] A) La violación espontánea de las leyes de conservación de energía en el laboratorio 10
   <!-- feedback: Incorrecto. Las leyes de la termodinámica y conservación son invariantes en todos los procesos naturales conocidos. -->
-- [ ] C) La creación de masa a partir de la nada sin conversión de energía en la muestra 10
+- [ ] B) La creación de masa a partir de la nada sin conversión de energía en la muestra 10
   <!-- feedback: Incorrecto. La masa y la energía se conservan o se transforman mutuamente según las leyes de la física. -->
 - [ ] D) La ausencia total de interacciones moleculares en el sistema experimental 10
   <!-- feedback: Incorrecto. Las fuerzas intermoleculares determinan las propiedades macroscópicas y el estado de agregación de la materia. -->
@@ -280,13 +280,13 @@ El análisis de tema-w10 permite predecir experimentalmente el comportamiento cu
 Respecto a los principios y leyes fundamentales de tema-w10 en las ciencias naturales, evalúe el enunciado 11:
 
 ### Opciones
-- [x] A) La aplicación de los principios de conservación y las leyes naturales explica el fenómeno observatorio 11
+- [x] D) La aplicación de los principios de conservación y las leyes naturales explica el fenómeno observatorio 11
   <!-- feedback: Correcto. Los principios de conservación de masa, energía y momento rigen la dinámica de los sistemas físicos y biológicos. -->
-- [ ] B) La violación espontánea de las leyes de conservación de energía en el laboratorio 11
+- [ ] A) La violación espontánea de las leyes de conservación de energía en el laboratorio 11
   <!-- feedback: Incorrecto. Las leyes de la termodinámica y conservación son invariantes en todos los procesos naturales conocidos. -->
-- [ ] C) La creación de masa a partir de la nada sin conversión de energía en la muestra 11
+- [ ] B) La creación de masa a partir de la nada sin conversión de energía en la muestra 11
   <!-- feedback: Incorrecto. La masa y la energía se conservan o se transforman mutuamente según las leyes de la física. -->
-- [ ] D) La ausencia total de interacciones moleculares en el sistema experimental 11
+- [ ] C) La ausencia total de interacciones moleculares en el sistema experimental 11
   <!-- feedback: Incorrecto. Las fuerzas intermoleculares determinan las propiedades macroscópicas y el estado de agregación de la materia. -->
 
 ### Explicacion Pedagogica
@@ -305,13 +305,13 @@ El análisis de tema-w10 permite predecir experimentalmente el comportamiento cu
 Respecto a los principios y leyes fundamentales de tema-w10 en las ciencias naturales, evalúe el enunciado 12:
 
 ### Opciones
-- [x] A) La aplicación de los principios de conservación y las leyes naturales explica el fenómeno observatorio 12
+- [x] D) La aplicación de los principios de conservación y las leyes naturales explica el fenómeno observatorio 12
   <!-- feedback: Correcto. Los principios de conservación de masa, energía y momento rigen la dinámica de los sistemas físicos y biológicos. -->
-- [ ] B) La violación espontánea de las leyes de conservación de energía en el laboratorio 12
+- [ ] A) La violación espontánea de las leyes de conservación de energía en el laboratorio 12
   <!-- feedback: Incorrecto. Las leyes de la termodinámica y conservación son invariantes en todos los procesos naturales conocidos. -->
-- [ ] C) La creación de masa a partir de la nada sin conversión de energía en la muestra 12
+- [ ] B) La creación de masa a partir de la nada sin conversión de energía en la muestra 12
   <!-- feedback: Incorrecto. La masa y la energía se conservan o se transforman mutuamente según las leyes de la física. -->
-- [ ] D) La ausencia total de interacciones moleculares en el sistema experimental 12
+- [ ] C) La ausencia total de interacciones moleculares en el sistema experimental 12
   <!-- feedback: Incorrecto. Las fuerzas intermoleculares determinan las propiedades macroscópicas y el estado de agregación de la materia. -->
 
 ### Explicacion Pedagogica
@@ -330,9 +330,9 @@ El análisis de tema-w10 permite predecir experimentalmente el comportamiento cu
 Respecto a los principios y leyes fundamentales de tema-w10 en las ciencias naturales, evalúe el enunciado 13:
 
 ### Opciones
-- [x] A) La aplicación de los principios de conservación y las leyes naturales explica el fenómeno observatorio 13
+- [x] B) La aplicación de los principios de conservación y las leyes naturales explica el fenómeno observatorio 13
   <!-- feedback: Correcto. Los principios de conservación de masa, energía y momento rigen la dinámica de los sistemas físicos y biológicos. -->
-- [ ] B) La violación espontánea de las leyes de conservación de energía en el laboratorio 13
+- [ ] A) La violación espontánea de las leyes de conservación de energía en el laboratorio 13
   <!-- feedback: Incorrecto. Las leyes de la termodinámica y conservación son invariantes en todos los procesos naturales conocidos. -->
 - [ ] C) La creación de masa a partir de la nada sin conversión de energía en la muestra 13
   <!-- feedback: Incorrecto. La masa y la energía se conservan o se transforman mutuamente según las leyes de la física. -->
@@ -355,9 +355,9 @@ El análisis de tema-w10 permite predecir experimentalmente el comportamiento cu
 Respecto a los principios y leyes fundamentales de tema-w10 en las ciencias naturales, evalúe el enunciado 14:
 
 ### Opciones
-- [x] A) La aplicación de los principios de conservación y las leyes naturales explica el fenómeno observatorio 14
+- [x] B) La aplicación de los principios de conservación y las leyes naturales explica el fenómeno observatorio 14
   <!-- feedback: Correcto. Los principios de conservación de masa, energía y momento rigen la dinámica de los sistemas físicos y biológicos. -->
-- [ ] B) La violación espontánea de las leyes de conservación de energía en el laboratorio 14
+- [ ] A) La violación espontánea de las leyes de conservación de energía en el laboratorio 14
   <!-- feedback: Incorrecto. Las leyes de la termodinámica y conservación son invariantes en todos los procesos naturales conocidos. -->
 - [ ] C) La creación de masa a partir de la nada sin conversión de energía en la muestra 14
   <!-- feedback: Incorrecto. La masa y la energía se conservan o se transforman mutuamente según las leyes de la física. -->
@@ -380,9 +380,9 @@ El análisis de tema-w10 permite predecir experimentalmente el comportamiento cu
 Respecto a los principios y leyes fundamentales de tema-w10 en las ciencias naturales, evalúe el enunciado 15:
 
 ### Opciones
-- [x] A) La aplicación de los principios de conservación y las leyes naturales explica el fenómeno observatorio 15
+- [x] B) La aplicación de los principios de conservación y las leyes naturales explica el fenómeno observatorio 15
   <!-- feedback: Correcto. Los principios de conservación de masa, energía y momento rigen la dinámica de los sistemas físicos y biológicos. -->
-- [ ] B) La violación espontánea de las leyes de conservación de energía en el laboratorio 15
+- [ ] A) La violación espontánea de las leyes de conservación de energía en el laboratorio 15
   <!-- feedback: Incorrecto. Las leyes de la termodinámica y conservación son invariantes en todos los procesos naturales conocidos. -->
 - [ ] C) La creación de masa a partir de la nada sin conversión de energía en la muestra 15
   <!-- feedback: Incorrecto. La masa y la energía se conservan o se transforman mutuamente según las leyes de la física. -->
@@ -480,11 +480,11 @@ El análisis de tema-w10 permite predecir experimentalmente el comportamiento cu
 Respecto a los principios y leyes fundamentales de tema-w10 en las ciencias naturales, evalúe el enunciado 19:
 
 ### Opciones
-- [x] A) La aplicación de los principios de conservación y las leyes naturales explica el fenómeno observatorio 19
+- [x] C) La aplicación de los principios de conservación y las leyes naturales explica el fenómeno observatorio 19
   <!-- feedback: Correcto. Los principios de conservación de masa, energía y momento rigen la dinámica de los sistemas físicos y biológicos. -->
-- [ ] B) La violación espontánea de las leyes de conservación de energía en el laboratorio 19
+- [ ] A) La violación espontánea de las leyes de conservación de energía en el laboratorio 19
   <!-- feedback: Incorrecto. Las leyes de la termodinámica y conservación son invariantes en todos los procesos naturales conocidos. -->
-- [ ] C) La creación de masa a partir de la nada sin conversión de energía en la muestra 19
+- [ ] B) La creación de masa a partir de la nada sin conversión de energía en la muestra 19
   <!-- feedback: Incorrecto. La masa y la energía se conservan o se transforman mutuamente según las leyes de la física. -->
 - [ ] D) La ausencia total de interacciones moleculares en el sistema experimental 19
   <!-- feedback: Incorrecto. Las fuerzas intermoleculares determinan las propiedades macroscópicas y el estado de agregación de la materia. -->

@@ -55,11 +55,11 @@ La respuesta correcta es Población. Científicamente, esto se explica por la un
 Al realizar experimentos sobre ecología general y flujo de energía y estudiar conjunto de poblaciones de diferentes especies que interactúan y coexisten en un área geográfica, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Comunidad
+- [x] C) Comunidad
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a conjunto de poblaciones de diferentes especies que interactúan y coexisten en un área geográfica. -->
-- [ ] B) Población
+- [ ] A) Población
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Ecosistema
+- [ ] B) Ecosistema
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía. -->
 - [ ] D) Hábitat
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -80,9 +80,9 @@ La respuesta correcta es Comunidad. Científicamente, esto se explica por la red
 Al realizar experimentos sobre ecología general y flujo de energía y estudiar sistema biológico constituido por una comunidad de seres vivos y el medio físico donde se relacionan, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Un ecosistema
+- [x] B) Un ecosistema
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a sistema biológico constituido por una comunidad de seres vivos y el medio físico donde se relacionan. -->
-- [ ] B) La biósfera
+- [ ] A) La biósfera
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) La comunidad biótica
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía. -->
@@ -105,9 +105,9 @@ La respuesta correcta es Un ecosistema. Científicamente, esto se explica por la
 Al realizar experimentos sobre ecología general y flujo de energía y estudiar componentes físicos y químicos no vivos de un ecosistema que condicionan la vida, como temperatura y luz, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Factores abióticos
+- [x] B) Factores abióticos
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a componentes físicos y químicos no vivos de un ecosistema que condicionan la vida, como temperatura y luz. -->
-- [ ] B) Factores bióticos
+- [ ] A) Factores bióticos
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) Factores limitantes
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía. -->
@@ -130,9 +130,9 @@ La respuesta correcta es Factores abióticos. Científicamente, esto se explica 
 Al realizar experimentos sobre ecología general y flujo de energía y estudiar interacciones y relaciones establecidas entre los organismos vivos de un ecosistema determinado, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Factores bióticos
+- [x] B) Factores bióticos
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a interacciones y relaciones establecidas entre los organismos vivos de un ecosistema determinado. -->
-- [ ] B) Factores abióticos
+- [ ] A) Factores abióticos
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) Factores químicos
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía. -->
@@ -155,11 +155,11 @@ La respuesta correcta es Factores bióticos. Científicamente, esto se explica p
 Al realizar experimentos sobre ecología general y flujo de energía y estudiar organismos autótrofos que fijan la energía solar y producen materia orgánica mediante fotosíntesis, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Los productores
+- [x] C) Los productores
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a organismos autótrofos que fijan la energía solar y producen materia orgánica mediante fotosíntesis. -->
-- [ ] B) Los consumidores primarios
+- [ ] A) Los consumidores primarios
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Los descomponedores
+- [ ] B) Los descomponedores
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía. -->
 - [ ] D) Los detritívoros
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -180,13 +180,13 @@ La respuesta correcta es Los productores. Científicamente, esto se explica por 
 Al realizar experimentos sobre ecología general y flujo de energía y estudiar bacterias y hongos encargados de transformar la materia orgánica muerta en compuestos inorgánicos sencillos, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Los descomponedores
+- [x] D) Los descomponedores
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a bacterias y hongos encargados de transformar la materia orgánica muerta en compuestos inorgánicos sencillos. -->
-- [ ] B) Los herbívoros
+- [ ] A) Los herbívoros
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Los carnívoros
+- [ ] B) Los carnívoros
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía. -->
-- [ ] D) Los omnívoros
+- [ ] C) Los omnívoros
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -205,9 +205,9 @@ La respuesta correcta es Los descomponedores. Científicamente, esto se explica 
 Al realizar experimentos sobre ecología general y flujo de energía y estudiar solo el 10% de la energía utilizable se transfiere efectivamente de un nivel trófico al siguiente, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La regla del diez por ciento (10%)
+- [x] B) La regla del diez por ciento (10%)
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a solo el 10% de la energía utilizable se transfiere efectivamente de un nivel trófico al siguiente. -->
-- [ ] B) La ley de conservación de masa
+- [ ] A) La ley de conservación de masa
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) La regla de biomasa inversa
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía. -->
@@ -255,13 +255,13 @@ La respuesta correcta es Pirámides de energía. Científicamente, esto se expli
 Al realizar experimentos sobre ecología general y flujo de energía y estudiar pueden presentarse en ecosistemas marinos donde los productores (fitoplancton) se reproducen a gran velocidad, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Pirámides de biomasa invertidas
+- [x] D) Pirámides de biomasa invertidas
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a pueden presentarse en ecosistemas marinos donde los productores (fitoplancton) se reproducen a gran velocidad. -->
-- [ ] B) Pirámides de energía invertidas
+- [ ] A) Pirámides de energía invertidas
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Pirámides de números invertidas
+- [ ] B) Pirámides de números invertidas
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía. -->
-- [ ] D) Redes tróficas cerradas
+- [ ] C) Redes tróficas cerradas
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -305,9 +305,9 @@ La respuesta correcta es Mutualismo. Científicamente, esto se explica por la es
 Al realizar experimentos sobre ecología general y flujo de energía y estudiar interacción donde una especie se beneficia y la otra no experimenta beneficio ni perjuicio alguno, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Comensalismo
+- [x] B) Comensalismo
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a interacción donde una especie se beneficia y la otra no experimenta beneficio ni perjuicio alguno. -->
-- [ ] B) Mutualismo
+- [ ] A) Mutualismo
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) Parasitismo
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía. -->
@@ -330,11 +330,11 @@ La respuesta correcta es Comensalismo. Científicamente, esto se explica por el 
 Al realizar experimentos sobre ecología general y flujo de energía y estudiar relación interespecífica donde una especie se beneficia perjudicando directamente al hospedador sin matarlo de inmediato, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Parasitismo
+- [x] C) Parasitismo
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a relación interespecífica donde una especie se beneficia perjudicando directamente al hospedador sin matarlo de inmediato. -->
-- [ ] B) Mutualismo
+- [ ] A) Mutualismo
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Amensalismo
+- [ ] B) Amensalismo
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía. -->
 - [ ] D) Competencia por recursos
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -380,11 +380,11 @@ La respuesta correcta es Sucesión ecológica primaria. Científicamente, esto s
 Al realizar experimentos sobre ecología general y flujo de energía y estudiar recuperación de una comunidad vegetal y animal tras una perturbación que respetó el suelo orgánico, como un incendio, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Sucesión ecológica secundaria
+- [x] C) Sucesión ecológica secundaria
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a recuperación de una comunidad vegetal y animal tras una perturbación que respetó el suelo orgánico, como un incendio. -->
-- [ ] B) Sucesión ecológica primaria
+- [ ] A) Sucesión ecológica primaria
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Clímax forestal
+- [ ] B) Clímax forestal
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía. -->
 - [ ] D) Sucesión alostérica
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -430,13 +430,13 @@ La respuesta correcta es Capacidad de carga (k). Científicamente, esto se expli
 Al realizar experimentos sobre ecología general y flujo de energía y estudiar modelo de crecimiento poblacional que describe una curva en forma de S, estabilizándose al alcanzar la capacidad de carga, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Crecimiento logístico
+- [x] D) Crecimiento logístico
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a modelo de crecimiento poblacional que describe una curva en forma de S, estabilizándose al alcanzar la capacidad de carga. -->
-- [ ] B) Crecimiento exponencial
+- [ ] A) Crecimiento exponencial
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Crecimiento asintótico
+- [ ] B) Crecimiento asintótico
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía. -->
-- [ ] D) Crecimiento fluctuante
+- [ ] C) Crecimiento fluctuante
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -455,9 +455,9 @@ La respuesta correcta es Crecimiento logístico. Científicamente, esto se expli
 Al realizar experimentos sobre ecología general y flujo de energía y estudiar dos especies que compiten por el mismo recurso limitado no pueden coexistir indefinidamente si sus nichos coinciden, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El principio de exclusión competitiva
+- [x] B) El principio de exclusión competitiva
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a dos especies que compiten por el mismo recurso limitado no pueden coexistir indefinidamente si sus nichos coinciden. -->
-- [ ] B) La ley de tolerancia de shelford
+- [ ] A) La ley de tolerancia de shelford
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) La hipótesis de perturbación intermedia
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía. -->
@@ -480,9 +480,9 @@ La respuesta correcta es El principio de exclusión competitiva. Científicament
 Al realizar experimentos sobre ecología general y flujo de energía y estudiar estrategia evolutiva mediante la cual especies competidoras modifican sutilmente su nicho para coexistir, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Partición de recursos
+- [x] B) Partición de recursos
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a estrategia evolutiva mediante la cual especies competidoras modifican sutilmente su nicho para coexistir. -->
-- [ ] B) Exclusión competitiva
+- [ ] A) Exclusión competitiva
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) Extinción en masa
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía. -->
@@ -505,13 +505,13 @@ La respuesta correcta es Partición de recursos. Científicamente, esto se expli
 Al realizar experimentos sobre ecología general y flujo de energía y estudiar concentración creciente de toxinas liposolubles no degradables en los tejidos corporales a lo largo de los niveles tróficos, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Bioacumulación (biomagnificación)
+- [x] D) Bioacumulación (biomagnificación)
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a concentración creciente de toxinas liposolubles no degradables en los tejidos corporales a lo largo de los niveles tróficos. -->
-- [ ] B) Eutrofización acuática
+- [ ] A) Eutrofización acuática
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Sucesión degradativa
+- [ ] B) Sucesión degradativa
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de ecología general y flujo de energía. -->
-- [ ] D) Saturación metabólica
+- [ ] C) Saturación metabólica
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica

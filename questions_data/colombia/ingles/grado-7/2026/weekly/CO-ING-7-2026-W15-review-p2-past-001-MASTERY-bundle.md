@@ -36,13 +36,13 @@ This bundle reviews the key concepts of Period 2: Past Simple of "to be", regula
 Complete: "I ________ very tired after the trip to the Amazonas."
 
 ### Opciones
-- [x] A) was
+- [x] D) was
   <!-- feedback: Correct! "Was" is the past of "to be" for "I". -->
-- [ ] B) were
+- [ ] A) were
   <!-- feedback: Incorrect. "Were" is for plural subjects. -->
-- [ ] C) am
+- [ ] B) am
   <!-- feedback: Incorrect. "Am" is present tense. -->
-- [ ] D) did
+- [ ] C) did
   <!-- feedback: Incorrect. "Did" is an auxiliary for other verbs, not for states. -->
 
 ### Explicacion Pedagogica
@@ -63,9 +63,9 @@ Which of these verbs is irregular in the Past Simple?
 ### Opciones
 - [ ] A) Played
   <!-- feedback: Incorrect. "Play" is regular (+ed). -->
-- [ ] B) Watched
+- [ ] C) Watched
   <!-- feedback: Incorrect. "Watch" is regular (+ed). -->
-- [x] C) Bought
+- [x] B) Bought
   <!-- feedback: Correct! "Buy" is irregular; its past is "bought". -->
 - [ ] D) Visited
   <!-- feedback: Incorrect. "Visit" is regular (+ed). -->
@@ -90,9 +90,9 @@ The student distinguishes between regular and irregular past verb forms.
   <!-- feedback: Incorrect. These are present tense. -->
 - [ ] B) seed / eated
   <!-- feedback: Incorrect. Both verbs are irregular. -->
-- [x] C) saw / ate
+- [x] D) saw / ate
   <!-- feedback: Correct! Irregular past forms of "see" and "eat". -->
-- [ ] D) seen / eaten
+- [ ] C) seen / eaten
   <!-- feedback: Incorrect. These are past participles. -->
 
 ### Explicacion Pedagogica
@@ -112,11 +112,11 @@ Andrés: "________ did you eat for lunch?"
 Mateo: "I ate a delicious 'Ajiaco' with my family."
 
 ### Opciones
-- [ ] A) When
+- [ ] B) When
   <!-- feedback: Incorrect. This asks about time. -->
-- [ ] B) Where
+- [ ] C) Where
   <!-- feedback: Incorrect. This asks about place. -->
-- [x] C) What
+- [x] A) What
   <!-- feedback: Correct! "What" asks about the object or thing (the food). -->
 - [ ] D) Who
   <!-- feedback: Incorrect. This asks about people. -->
@@ -137,9 +137,9 @@ The student understands the use of Wh- question words in the context of past inf
 "I ________ (not / go) to school yesterday because it was a holiday."
 
 ### Opciones
-- [ ] A) not went
+- [ ] B) not went
   <!-- feedback: Incorrect. Missing the auxiliary "did". -->
-- [x] B) didn't go
+- [x] A) didn't go
   <!-- feedback: Correct! "Didn't" + base form. -->
 - [ ] C) didn't went
   <!-- feedback: Incorrect. Don't use the past form after "didn't". -->
@@ -188,9 +188,9 @@ The student applies reading strategies to identify a cause-and-effect relationsh
 "I ________ (finish) my book and ________ (give) it to my sister yesterday."
 
 ### Opciones
-- [x] A) finished / gave
+- [x] B) finished / gave
   <!-- feedback: Correct! "Finished" (regular) and "gave" (irregular). -->
-- [ ] B) finish / give
+- [ ] A) finish / give
   <!-- feedback: Incorrect. Present tense. -->
 - [ ] C) finished / gived
   <!-- feedback: Incorrect. "Give" is irregular. -->
@@ -215,9 +215,9 @@ Which question is grammatically correct?
 ### Opciones
 - [ ] A) Did you saw your teacher at the park?
   <!-- feedback: Incorrect. "Saw" should be "see". -->
-- [ ] B) Were you saw your teacher at the park?
+- [ ] C) Were you saw your teacher at the park?
   <!-- feedback: Incorrect. Use "Did" for actions. -->
-- [x] C) Did you see your teacher at the park?
+- [x] B) Did you see your teacher at the park?
   <!-- feedback: Correct! "Did" + subject + base form. -->
 - [ ] D) Did your teacher saw you at the park?
   <!-- feedback: Incorrect. Incorrect verb form after "did". -->
@@ -239,9 +239,9 @@ The student analyzes question structures to ensure the auxiliary and verb form a
 What has changed since 2020?
 
 ### Opciones
-- [ ] A) The person still lives in Bucaramanga.
+- [ ] B) The person still lives in Bucaramanga.
   <!-- feedback: Incorrect. They live in Bogotá now. -->
-- [x] B) The person's city and English skills.
+- [x] A) The person's city and English skills.
   <!-- feedback: Correct! Both the location and language ability have changed. -->
 - [ ] C) The person's age is the same.
   <!-- feedback: Incorrect. Age went from 11 to 13. -->
@@ -269,9 +269,9 @@ Which evaluation best describes the sequence of the project?
   <!-- feedback: Incorrect. Presentation was the final step. -->
 - [ ] B) They only read articles.
   <!-- feedback: Incorrect. They also drew and presented. -->
-- [x] C) The project involved research, creative work, and a final presentation.
+- [x] D) The project involved research, creative work, and a final presentation.
   <!-- feedback: Correct! Reading (research), drawing (creative), and presenting (final step). -->
-- [ ] D) The students were sad about the project.
+- [ ] C) The students were sad about the project.
   <!-- feedback: Incorrect. They were "very happy". -->
 
 ### Explicacion Pedagogica

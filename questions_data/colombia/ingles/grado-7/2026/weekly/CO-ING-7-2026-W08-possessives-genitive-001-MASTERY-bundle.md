@@ -88,11 +88,11 @@ The student remembers the basic rule for the Saxon Genitive to express possessio
 ### Opciones
 - [ ] A) Our's
   <!-- feedback: Incorrect. "Our" is the possessive adjective; it doesn't need an apostrophe. -->
-- [x] B) Our
+- [x] D) Our
   <!-- feedback: Correct! "Our" is the possessive adjective for "We". -->
-- [ ] C) Your
+- [ ] B) Your
   <!-- feedback: Incorrect. "Your" is for "You". -->
-- [ ] D) Their
+- [ ] C) Their
   <!-- feedback: Incorrect. "Their" is for "They". -->
 
 ### Explicacion Pedagogica
@@ -113,11 +113,11 @@ The student understands the use of the possessive adjective for the first person
 ### Opciones
 - [ ] A) it's
   <!-- feedback: Incorrect. "It's" means "It is". -->
-- [x] B) its
+- [x] D) its
   <!-- feedback: Correct! "Its" is the possessive adjective for animals or things. -->
-- [ ] C) his
+- [ ] B) his
   <!-- feedback: Incorrect. "His" is for male humans (though sometimes used for pets, "its" is the general rule). -->
-- [ ] D) her
+- [ ] C) her
   <!-- feedback: Incorrect. "Her" is for female humans. -->
 
 ### Explicacion Pedagogica
@@ -138,11 +138,11 @@ The student distinguishes between the contraction "it's" and the possessive adje
 ### Opciones
 - [ ] A) My
   <!-- feedback: Incorrect. "My" would refer to me, not the car's color. -->
-- [x] B) Its
+- [x] D) Its
   <!-- feedback: Correct! We use "Its" to refer to the color of the car (an object). -->
-- [ ] C) It's
+- [ ] B) It's
   <!-- feedback: Incorrect. "It's" is "It is". -->
-- [ ] D) His
+- [ ] C) His
   <!-- feedback: Incorrect. "His" is for a male person. -->
 
 ### Explicacion Pedagogica
@@ -187,9 +187,9 @@ The student applies knowledge of the Saxon Genitive to understand family relatio
 "The ________ toys are in the box." (The toys belong to the boys)
 
 ### Opciones
-- [ ] A) boy's
+- [ ] B) boy's
   <!-- feedback: Incorrect. This means only one boy. -->
-- [x] B) boys'
+- [x] A) boys'
   <!-- feedback: Correct! For plural nouns ending in -s, we just add an apostrophe. -->
 - [ ] C) boys's
   <!-- feedback: Incorrect. Plural nouns ending in -s do not need another 's'. -->
@@ -242,9 +242,9 @@ Whose car is red?
   <!-- feedback: Incorrect. Jorge is the father, Clara is the one with the red car. -->
 - [ ] B) My father's
   <!-- feedback: Incorrect. My father is Jorge. -->
-- [x] C) My aunt's
+- [x] D) My aunt's
   <!-- feedback: Correct! Clara is the aunt, and the text says "Clara's car is red". -->
-- [ ] D) My car
+- [ ] C) My car
   <!-- feedback: Incorrect. The car belongs to Clara. -->
 
 ### Explicacion Pedagogica
@@ -266,11 +266,11 @@ Why is the apostrophe after the 's' in "customers'"?
 ### Opciones
 - [ ] A) Because there is only one customer.
   <!-- feedback: Incorrect. That would be "customer's". -->
-- [x] B) Because it refers to the feedback of many customers.
+- [x] D) Because it refers to the feedback of many customers.
   <!-- feedback: Correct! The plural "customers" adds just an apostrophe for possession. -->
-- [ ] C) Because "feedback" is a plural noun.
+- [ ] B) Because "feedback" is a plural noun.
   <!-- feedback: Incorrect. The apostrophe location depends on the owner, not the object. -->
-- [ ] D) It is a spelling mistake.
+- [ ] C) It is a spelling mistake.
   <!-- feedback: Incorrect. It is a correct and standard grammatical rule. -->
 
 ### Explicacion Pedagogica

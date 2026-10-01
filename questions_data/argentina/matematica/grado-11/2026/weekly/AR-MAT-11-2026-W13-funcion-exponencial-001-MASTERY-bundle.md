@@ -57,8 +57,8 @@ En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 100$ representa el
 Una población inicial de $200$ individuos evoluciona según $P(t) = 200 \cdot (1,05)^t$, donde $t$ se mide en años. ¿Cuál es el valor inicial $P(0)$ y la tasa anual de crecimiento porcentual?
 
 ### Opciones
-- [x] A) Población inicial = $200$, Tasa anual = $5\%$ <!-- feedback: Correcto. $P(0) = 200 \cdot 1 = 200$. La tasa $r$ surge de la base $1 + r = 1,05 \Rightarrow r = 5\%$. -->
-- [ ] B) Población inicial = $0$, Tasa anual = $5\%$ <!-- feedback: Incorrecto. $P(0)$ no es cero sino la constante inicial. -->
+- [x] B) Población inicial = $200$, Tasa anual = $5\%$ <!-- feedback: Correcto. $P(0) = 200 \cdot 1 = 200$. La tasa $r$ surge de la base $1 + r = 1,05 \Rightarrow r = 5\%$. -->
+- [ ] A) Población inicial = $0$, Tasa anual = $5\%$ <!-- feedback: Incorrecto. $P(0)$ no es cero sino la constante inicial. -->
 - [ ] C) Población inicial = $200$, Tasa anual = $1,05\%$ <!-- feedback: Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1). -->
 - [ ] D) Población inicial = $400$, Tasa anual = $10\%$ <!-- feedback: Incorrecto. Valores alterados arbitrariamente. -->
 
@@ -78,9 +78,9 @@ En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 200$ representa el
 Una población inicial de $300$ individuos evoluciona según $P(t) = 300 \cdot (1,06)^t$, donde $t$ se mide en años. ¿Cuál es el valor inicial $P(0)$ y la tasa anual de crecimiento porcentual?
 
 ### Opciones
-- [x] A) Población inicial = $300$, Tasa anual = $6\%$ <!-- feedback: Correcto. $P(0) = 300 \cdot 1 = 300$. La tasa $r$ surge de la base $1 + r = 1,06 \Rightarrow r = 6\%$. -->
-- [ ] B) Población inicial = $0$, Tasa anual = $6\%$ <!-- feedback: Incorrecto. $P(0)$ no es cero sino la constante inicial. -->
-- [ ] C) Población inicial = $300$, Tasa anual = $1,06\%$ <!-- feedback: Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1). -->
+- [x] C) Población inicial = $300$, Tasa anual = $6\%$ <!-- feedback: Correcto. $P(0) = 300 \cdot 1 = 300$. La tasa $r$ surge de la base $1 + r = 1,06 \Rightarrow r = 6\%$. -->
+- [ ] A) Población inicial = $0$, Tasa anual = $6\%$ <!-- feedback: Incorrecto. $P(0)$ no es cero sino la constante inicial. -->
+- [ ] B) Población inicial = $300$, Tasa anual = $1,06\%$ <!-- feedback: Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1). -->
 - [ ] D) Población inicial = $600$, Tasa anual = $12\%$ <!-- feedback: Incorrecto. Valores alterados arbitrariamente. -->
 
 ### Explicacion Pedagogica
@@ -99,9 +99,9 @@ En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 300$ representa el
 Una población inicial de $400$ individuos evoluciona según $P(t) = 400 \cdot (1,07)^t$, donde $t$ se mide en años. ¿Cuál es el valor inicial $P(0)$ y la tasa anual de crecimiento porcentual?
 
 ### Opciones
-- [x] A) Población inicial = $400$, Tasa anual = $7\%$ <!-- feedback: Correcto. $P(0) = 400 \cdot 1 = 400$. La tasa $r$ surge de la base $1 + r = 1,07 \Rightarrow r = 7\%$. -->
-- [ ] B) Población inicial = $0$, Tasa anual = $7\%$ <!-- feedback: Incorrecto. $P(0)$ no es cero sino la constante inicial. -->
-- [ ] C) Población inicial = $400$, Tasa anual = $1,07\%$ <!-- feedback: Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1). -->
+- [x] C) Población inicial = $400$, Tasa anual = $7\%$ <!-- feedback: Correcto. $P(0) = 400 \cdot 1 = 400$. La tasa $r$ surge de la base $1 + r = 1,07 \Rightarrow r = 7\%$. -->
+- [ ] A) Población inicial = $0$, Tasa anual = $7\%$ <!-- feedback: Incorrecto. $P(0)$ no es cero sino la constante inicial. -->
+- [ ] B) Población inicial = $400$, Tasa anual = $1,07\%$ <!-- feedback: Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1). -->
 - [ ] D) Población inicial = $800$, Tasa anual = $14\%$ <!-- feedback: Incorrecto. Valores alterados arbitrariamente. -->
 
 ### Explicacion Pedagogica
@@ -120,10 +120,10 @@ En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 400$ representa el
 Una población inicial de $500$ individuos evoluciona según $P(t) = 500 \cdot (1,08)^t$, donde $t$ se mide en años. ¿Cuál es el valor inicial $P(0)$ y la tasa anual de crecimiento porcentual?
 
 ### Opciones
-- [x] A) Población inicial = $500$, Tasa anual = $8\%$ <!-- feedback: Correcto. $P(0) = 500 \cdot 1 = 500$. La tasa $r$ surge de la base $1 + r = 1,08 \Rightarrow r = 8\%$. -->
-- [ ] B) Población inicial = $0$, Tasa anual = $8\%$ <!-- feedback: Incorrecto. $P(0)$ no es cero sino la constante inicial. -->
-- [ ] C) Población inicial = $500$, Tasa anual = $1,08\%$ <!-- feedback: Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1). -->
-- [ ] D) Población inicial = $1000$, Tasa anual = $16\%$ <!-- feedback: Incorrecto. Valores alterados arbitrariamente. -->
+- [x] D) Población inicial = $500$, Tasa anual = $8\%$ <!-- feedback: Correcto. $P(0) = 500 \cdot 1 = 500$. La tasa $r$ surge de la base $1 + r = 1,08 \Rightarrow r = 8\%$. -->
+- [ ] A) Población inicial = $0$, Tasa anual = $8\%$ <!-- feedback: Incorrecto. $P(0)$ no es cero sino la constante inicial. -->
+- [ ] B) Población inicial = $500$, Tasa anual = $1,08\%$ <!-- feedback: Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1). -->
+- [ ] C) Población inicial = $1000$, Tasa anual = $16\%$ <!-- feedback: Incorrecto. Valores alterados arbitrariamente. -->
 
 ### Explicacion Pedagogica
 En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 500$ representa el valor en $t=0$. La base $1 + r = 1,08$ indica una tasa de aumento $r = 8\%$.
@@ -141,8 +141,8 @@ En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 500$ representa el
 Una población inicial de $600$ individuos evoluciona según $P(t) = 600 \cdot (1,09)^t$, donde $t$ se mide en años. ¿Cuál es el valor inicial $P(0)$ y la tasa anual de crecimiento porcentual?
 
 ### Opciones
-- [x] A) Población inicial = $600$, Tasa anual = $9\%$ <!-- feedback: Correcto. $P(0) = 600 \cdot 1 = 600$. La tasa $r$ surge de la base $1 + r = 1,09 \Rightarrow r = 9\%$. -->
-- [ ] B) Población inicial = $0$, Tasa anual = $9\%$ <!-- feedback: Incorrecto. $P(0)$ no es cero sino la constante inicial. -->
+- [x] B) Población inicial = $600$, Tasa anual = $9\%$ <!-- feedback: Correcto. $P(0) = 600 \cdot 1 = 600$. La tasa $r$ surge de la base $1 + r = 1,09 \Rightarrow r = 9\%$. -->
+- [ ] A) Población inicial = $0$, Tasa anual = $9\%$ <!-- feedback: Incorrecto. $P(0)$ no es cero sino la constante inicial. -->
 - [ ] C) Población inicial = $600$, Tasa anual = $1,09\%$ <!-- feedback: Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1). -->
 - [ ] D) Población inicial = $1200$, Tasa anual = $18\%$ <!-- feedback: Incorrecto. Valores alterados arbitrariamente. -->
 
@@ -183,8 +183,8 @@ En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 700$ representa el
 Una población inicial de $800$ individuos evoluciona según $P(t) = 800 \cdot (1,11)^t$, donde $t$ se mide en años. ¿Cuál es el valor inicial $P(0)$ y la tasa anual de crecimiento porcentual?
 
 ### Opciones
-- [x] A) Población inicial = $800$, Tasa anual = $11\%$ <!-- feedback: Correcto. $P(0) = 800 \cdot 1 = 800$. La tasa $r$ surge de la base $1 + r = 1,11 \Rightarrow r = 11\%$. -->
-- [ ] B) Población inicial = $0$, Tasa anual = $11\%$ <!-- feedback: Incorrecto. $P(0)$ no es cero sino la constante inicial. -->
+- [x] B) Población inicial = $800$, Tasa anual = $11\%$ <!-- feedback: Correcto. $P(0) = 800 \cdot 1 = 800$. La tasa $r$ surge de la base $1 + r = 1,11 \Rightarrow r = 11\%$. -->
+- [ ] A) Población inicial = $0$, Tasa anual = $11\%$ <!-- feedback: Incorrecto. $P(0)$ no es cero sino la constante inicial. -->
 - [ ] C) Población inicial = $800$, Tasa anual = $1,11\%$ <!-- feedback: Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1). -->
 - [ ] D) Población inicial = $1600$, Tasa anual = $22\%$ <!-- feedback: Incorrecto. Valores alterados arbitrariamente. -->
 
@@ -204,10 +204,10 @@ En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 800$ representa el
 Una población inicial de $900$ individuos evoluciona según $P(t) = 900 \cdot (1,12)^t$, donde $t$ se mide en años. ¿Cuál es el valor inicial $P(0)$ y la tasa anual de crecimiento porcentual?
 
 ### Opciones
-- [x] A) Población inicial = $900$, Tasa anual = $12\%$ <!-- feedback: Correcto. $P(0) = 900 \cdot 1 = 900$. La tasa $r$ surge de la base $1 + r = 1,12 \Rightarrow r = 12\%$. -->
-- [ ] B) Población inicial = $0$, Tasa anual = $12\%$ <!-- feedback: Incorrecto. $P(0)$ no es cero sino la constante inicial. -->
-- [ ] C) Población inicial = $900$, Tasa anual = $1,12\%$ <!-- feedback: Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1). -->
-- [ ] D) Población inicial = $1800$, Tasa anual = $24\%$ <!-- feedback: Incorrecto. Valores alterados arbitrariamente. -->
+- [x] D) Población inicial = $900$, Tasa anual = $12\%$ <!-- feedback: Correcto. $P(0) = 900 \cdot 1 = 900$. La tasa $r$ surge de la base $1 + r = 1,12 \Rightarrow r = 12\%$. -->
+- [ ] A) Población inicial = $0$, Tasa anual = $12\%$ <!-- feedback: Incorrecto. $P(0)$ no es cero sino la constante inicial. -->
+- [ ] B) Población inicial = $900$, Tasa anual = $1,12\%$ <!-- feedback: Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1). -->
+- [ ] C) Población inicial = $1800$, Tasa anual = $24\%$ <!-- feedback: Incorrecto. Valores alterados arbitrariamente. -->
 
 ### Explicacion Pedagogica
 En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 900$ representa el valor en $t=0$. La base $1 + r = 1,12$ indica una tasa de aumento $r = 12\%$.
@@ -225,10 +225,10 @@ En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 900$ representa el
 Una población inicial de $1000$ individuos evoluciona según $P(t) = 1000 \cdot (1,13)^t$, donde $t$ se mide en años. ¿Cuál es el valor inicial $P(0)$ y la tasa anual de crecimiento porcentual?
 
 ### Opciones
-- [x] A) Población inicial = $1000$, Tasa anual = $13\%$ <!-- feedback: Correcto. $P(0) = 1000 \cdot 1 = 1000$. La tasa $r$ surge de la base $1 + r = 1,13 \Rightarrow r = 13\%$. -->
-- [ ] B) Población inicial = $0$, Tasa anual = $13\%$ <!-- feedback: Incorrecto. $P(0)$ no es cero sino la constante inicial. -->
-- [ ] C) Población inicial = $1000$, Tasa anual = $1,13\%$ <!-- feedback: Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1). -->
-- [ ] D) Población inicial = $2000$, Tasa anual = $26\%$ <!-- feedback: Incorrecto. Valores alterados arbitrariamente. -->
+- [x] D) Población inicial = $1000$, Tasa anual = $13\%$ <!-- feedback: Correcto. $P(0) = 1000 \cdot 1 = 1000$. La tasa $r$ surge de la base $1 + r = 1,13 \Rightarrow r = 13\%$. -->
+- [ ] A) Población inicial = $0$, Tasa anual = $13\%$ <!-- feedback: Incorrecto. $P(0)$ no es cero sino la constante inicial. -->
+- [ ] B) Población inicial = $1000$, Tasa anual = $1,13\%$ <!-- feedback: Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1). -->
+- [ ] C) Población inicial = $2000$, Tasa anual = $26\%$ <!-- feedback: Incorrecto. Valores alterados arbitrariamente. -->
 
 ### Explicacion Pedagogica
 En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 1000$ representa el valor en $t=0$. La base $1 + r = 1,13$ indica una tasa de aumento $r = 13\%$.
@@ -267,10 +267,10 @@ En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 1100$ representa e
 Una población inicial de $1200$ individuos evoluciona según $P(t) = 1200 \cdot (1,15)^t$, donde $t$ se mide en años. ¿Cuál es el valor inicial $P(0)$ y la tasa anual de crecimiento porcentual?
 
 ### Opciones
-- [x] A) Población inicial = $1200$, Tasa anual = $15\%$ <!-- feedback: Correcto. $P(0) = 1200 \cdot 1 = 1200$. La tasa $r$ surge de la base $1 + r = 1,15 \Rightarrow r = 15\%$. -->
-- [ ] B) Población inicial = $0$, Tasa anual = $15\%$ <!-- feedback: Incorrecto. $P(0)$ no es cero sino la constante inicial. -->
-- [ ] C) Población inicial = $1200$, Tasa anual = $1,15\%$ <!-- feedback: Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1). -->
-- [ ] D) Población inicial = $2400$, Tasa anual = $30\%$ <!-- feedback: Incorrecto. Valores alterados arbitrariamente. -->
+- [x] D) Población inicial = $1200$, Tasa anual = $15\%$ <!-- feedback: Correcto. $P(0) = 1200 \cdot 1 = 1200$. La tasa $r$ surge de la base $1 + r = 1,15 \Rightarrow r = 15\%$. -->
+- [ ] A) Población inicial = $0$, Tasa anual = $15\%$ <!-- feedback: Incorrecto. $P(0)$ no es cero sino la constante inicial. -->
+- [ ] B) Población inicial = $1200$, Tasa anual = $1,15\%$ <!-- feedback: Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1). -->
+- [ ] C) Población inicial = $2400$, Tasa anual = $30\%$ <!-- feedback: Incorrecto. Valores alterados arbitrariamente. -->
 
 ### Explicacion Pedagogica
 En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 1200$ representa el valor en $t=0$. La base $1 + r = 1,15$ indica una tasa de aumento $r = 15\%$.
@@ -288,10 +288,10 @@ En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 1200$ representa e
 Una población inicial de $1300$ individuos evoluciona según $P(t) = 1300 \cdot (1,16)^t$, donde $t$ se mide en años. ¿Cuál es el valor inicial $P(0)$ y la tasa anual de crecimiento porcentual?
 
 ### Opciones
-- [x] A) Población inicial = $1300$, Tasa anual = $16\%$ <!-- feedback: Correcto. $P(0) = 1300 \cdot 1 = 1300$. La tasa $r$ surge de la base $1 + r = 1,16 \Rightarrow r = 16\%$. -->
-- [ ] B) Población inicial = $0$, Tasa anual = $16\%$ <!-- feedback: Incorrecto. $P(0)$ no es cero sino la constante inicial. -->
-- [ ] C) Población inicial = $1300$, Tasa anual = $1,16\%$ <!-- feedback: Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1). -->
-- [ ] D) Población inicial = $2600$, Tasa anual = $32\%$ <!-- feedback: Incorrecto. Valores alterados arbitrariamente. -->
+- [x] D) Población inicial = $1300$, Tasa anual = $16\%$ <!-- feedback: Correcto. $P(0) = 1300 \cdot 1 = 1300$. La tasa $r$ surge de la base $1 + r = 1,16 \Rightarrow r = 16\%$. -->
+- [ ] A) Población inicial = $0$, Tasa anual = $16\%$ <!-- feedback: Incorrecto. $P(0)$ no es cero sino la constante inicial. -->
+- [ ] B) Población inicial = $1300$, Tasa anual = $1,16\%$ <!-- feedback: Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1). -->
+- [ ] C) Población inicial = $2600$, Tasa anual = $32\%$ <!-- feedback: Incorrecto. Valores alterados arbitrariamente. -->
 
 ### Explicacion Pedagogica
 En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 1300$ representa el valor en $t=0$. La base $1 + r = 1,16$ indica una tasa de aumento $r = 16\%$.
@@ -309,8 +309,8 @@ En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 1300$ representa e
 Una población inicial de $1400$ individuos evoluciona según $P(t) = 1400 \cdot (1,17)^t$, donde $t$ se mide en años. ¿Cuál es el valor inicial $P(0)$ y la tasa anual de crecimiento porcentual?
 
 ### Opciones
-- [x] A) Población inicial = $1400$, Tasa anual = $17\%$ <!-- feedback: Correcto. $P(0) = 1400 \cdot 1 = 1400$. La tasa $r$ surge de la base $1 + r = 1,17 \Rightarrow r = 17\%$. -->
-- [ ] B) Población inicial = $0$, Tasa anual = $17\%$ <!-- feedback: Incorrecto. $P(0)$ no es cero sino la constante inicial. -->
+- [x] B) Población inicial = $1400$, Tasa anual = $17\%$ <!-- feedback: Correcto. $P(0) = 1400 \cdot 1 = 1400$. La tasa $r$ surge de la base $1 + r = 1,17 \Rightarrow r = 17\%$. -->
+- [ ] A) Población inicial = $0$, Tasa anual = $17\%$ <!-- feedback: Incorrecto. $P(0)$ no es cero sino la constante inicial. -->
 - [ ] C) Población inicial = $1400$, Tasa anual = $1,17\%$ <!-- feedback: Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1). -->
 - [ ] D) Población inicial = $2800$, Tasa anual = $34\%$ <!-- feedback: Incorrecto. Valores alterados arbitrariamente. -->
 
@@ -351,10 +351,10 @@ En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 1500$ representa e
 Una población inicial de $1600$ individuos evoluciona según $P(t) = 1600 \cdot (1,19)^t$, donde $t$ se mide en años. ¿Cuál es el valor inicial $P(0)$ y la tasa anual de crecimiento porcentual?
 
 ### Opciones
-- [x] A) Población inicial = $1600$, Tasa anual = $19\%$ <!-- feedback: Correcto. $P(0) = 1600 \cdot 1 = 1600$. La tasa $r$ surge de la base $1 + r = 1,19 \Rightarrow r = 19\%$. -->
-- [ ] B) Población inicial = $0$, Tasa anual = $19\%$ <!-- feedback: Incorrecto. $P(0)$ no es cero sino la constante inicial. -->
-- [ ] C) Población inicial = $1600$, Tasa anual = $1,19\%$ <!-- feedback: Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1). -->
-- [ ] D) Población inicial = $3200$, Tasa anual = $38\%$ <!-- feedback: Incorrecto. Valores alterados arbitrariamente. -->
+- [x] D) Población inicial = $1600$, Tasa anual = $19\%$ <!-- feedback: Correcto. $P(0) = 1600 \cdot 1 = 1600$. La tasa $r$ surge de la base $1 + r = 1,19 \Rightarrow r = 19\%$. -->
+- [ ] A) Población inicial = $0$, Tasa anual = $19\%$ <!-- feedback: Incorrecto. $P(0)$ no es cero sino la constante inicial. -->
+- [ ] B) Población inicial = $1600$, Tasa anual = $1,19\%$ <!-- feedback: Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1). -->
+- [ ] C) Población inicial = $3200$, Tasa anual = $38\%$ <!-- feedback: Incorrecto. Valores alterados arbitrariamente. -->
 
 ### Explicacion Pedagogica
 En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 1600$ representa el valor en $t=0$. La base $1 + r = 1,19$ indica una tasa de aumento $r = 19\%$.
@@ -372,10 +372,10 @@ En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 1600$ representa e
 Una población inicial de $1700$ individuos evoluciona según $P(t) = 1700 \cdot (1,20)^t$, donde $t$ se mide en años. ¿Cuál es el valor inicial $P(0)$ y la tasa anual de crecimiento porcentual?
 
 ### Opciones
-- [x] A) Población inicial = $1700$, Tasa anual = $20\%$ <!-- feedback: Correcto. $P(0) = 1700 \cdot 1 = 1700$. La tasa $r$ surge de la base $1 + r = 1,20 \Rightarrow r = 20\%$. -->
-- [ ] B) Población inicial = $0$, Tasa anual = $20\%$ <!-- feedback: Incorrecto. $P(0)$ no es cero sino la constante inicial. -->
-- [ ] C) Población inicial = $1700$, Tasa anual = $1,20\%$ <!-- feedback: Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1). -->
-- [ ] D) Población inicial = $3400$, Tasa anual = $40\%$ <!-- feedback: Incorrecto. Valores alterados arbitrariamente. -->
+- [x] D) Población inicial = $1700$, Tasa anual = $20\%$ <!-- feedback: Correcto. $P(0) = 1700 \cdot 1 = 1700$. La tasa $r$ surge de la base $1 + r = 1,20 \Rightarrow r = 20\%$. -->
+- [ ] A) Población inicial = $0$, Tasa anual = $20\%$ <!-- feedback: Incorrecto. $P(0)$ no es cero sino la constante inicial. -->
+- [ ] B) Población inicial = $1700$, Tasa anual = $1,20\%$ <!-- feedback: Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1). -->
+- [ ] C) Población inicial = $3400$, Tasa anual = $40\%$ <!-- feedback: Incorrecto. Valores alterados arbitrariamente. -->
 
 ### Explicacion Pedagogica
 En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 1700$ representa el valor en $t=0$. La base $1 + r = 1,20$ indica una tasa de aumento $r = 20\%$.
@@ -414,9 +414,9 @@ En la ecuación $P(t) = P_0 (1 + r)^t$, el coeficiente $P_0 = 1800$ representa e
 Una población inicial de $1900$ individuos evoluciona según $P(t) = 1900 \cdot (1,22)^t$, donde $t$ se mide en años. ¿Cuál es el valor inicial $P(0)$ y la tasa anual de crecimiento porcentual?
 
 ### Opciones
-- [x] A) Población inicial = $1900$, Tasa anual = $22\%$ <!-- feedback: Correcto. $P(0) = 1900 \cdot 1 = 1900$. La tasa $r$ surge de la base $1 + r = 1,22 \Rightarrow r = 22\%$. -->
-- [ ] B) Población inicial = $0$, Tasa anual = $22\%$ <!-- feedback: Incorrecto. $P(0)$ no es cero sino la constante inicial. -->
-- [ ] C) Población inicial = $1900$, Tasa anual = $1,22\%$ <!-- feedback: Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1). -->
+- [x] C) Población inicial = $1900$, Tasa anual = $22\%$ <!-- feedback: Correcto. $P(0) = 1900 \cdot 1 = 1900$. La tasa $r$ surge de la base $1 + r = 1,22 \Rightarrow r = 22\%$. -->
+- [ ] A) Población inicial = $0$, Tasa anual = $22\%$ <!-- feedback: Incorrecto. $P(0)$ no es cero sino la constante inicial. -->
+- [ ] B) Población inicial = $1900$, Tasa anual = $1,22\%$ <!-- feedback: Incorrecto. La tasa es el porcentaje de exceso sobre el 100% (es decir, sobre 1). -->
 - [ ] D) Población inicial = $3800$, Tasa anual = $44\%$ <!-- feedback: Incorrecto. Valores alterados arbitrariamente. -->
 
 ### Explicacion Pedagogica

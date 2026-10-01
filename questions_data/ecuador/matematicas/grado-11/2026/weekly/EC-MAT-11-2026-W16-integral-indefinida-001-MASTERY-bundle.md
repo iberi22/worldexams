@@ -37,11 +37,11 @@ bundle_index: 1
 ### Opciones
 - [ ] A) La tasa de cambio instantánea de la función.
   <!-- feedback: Incorrecto. Eso es la definición de derivada. -->
-- [x] B) El conjunto de todas las antiderivadas de la función.
+- [x] D) El conjunto de todas las antiderivadas de la función.
   <!-- feedback: Correcto. La integral indefinida busca la función original cuya derivada es $f(x)$. -->
-- [ ] C) El valor exacto del área bajo la curva en un intervalo.
+- [ ] B) El valor exacto del área bajo la curva en un intervalo.
   <!-- feedback: Incorrecto. El área exacta se calcula con la integral definida. -->
-- [ ] D) El límite de la función cuando $x$ tiende a infinito.
+- [ ] C) El límite de la función cuando $x$ tiende a infinito.
   <!-- feedback: Incorrecto. Esto es un concepto de análisis de comportamiento final. -->
 
 ### Explicacion Pedagogica
@@ -62,9 +62,9 @@ La integración indefinida es el proceso inverso a la derivación, permitiendo r
 ### Opciones
 - [ ] A) Porque el resultado siempre debe ser un número entero.
   <!-- feedback: Incorrecto. El resultado es una familia de funciones. -->
-- [x] B) Porque funciones que difieren en una constante tienen la misma derivada.
+- [x] C) Porque funciones que difieren en una constante tienen la misma derivada.
   <!-- feedback: Correcto. Como la derivada de una constante es cero, no podemos saber el valor original del término independiente sin información adicional. -->
-- [ ] C) Para indicar que la integral no ha terminado de calcularse.
+- [ ] B) Para indicar que la integral no ha terminado de calcularse.
   <!-- feedback: Incorrecto. La $C$ es parte integral del resultado final. -->
 - [ ] D) Solo se añade si la función original es un polinomio.
   <!-- feedback: Incorrecto. Se añade a todas las integrales indefinidas de cualquier tipo de función. -->
@@ -110,9 +110,9 @@ La regla de la potencia para integrales requiere sumar uno al exponente y dividi
 ¿Cuál es la función que representa el volumen total acumulado $V(t)$ si en $t=0$ el volumen es 0?
 
 ### Opciones
-- [ ] A) $V(t) = 5$
+- [ ] B) $V(t) = 5$
   <!-- feedback: Incorrecto. Esto representaría un volumen que no cambia con el tiempo. -->
-- [x] B) $V(t) = 5t$
+- [x] A) $V(t) = 5t$
   <!-- feedback: Correcto. La integral de una constante $k$ respecto a $t$ es $kt + C$. Como $V(0)=0$, $C=0$. -->
 - [ ] C) $V(t) = 2.5t^2$
   <!-- feedback: Incorrecto. Esta sería la integral si el flujo fuera lineal ($5t$), no constante. -->
@@ -141,9 +141,9 @@ Determine $\int (3x^2 - 2x + 1) \, dx$.
 ### Opciones
 - [ ] A) $6x - 2 + C$
   <!-- feedback: Incorrecto. Aplicó derivación en lugar de integración. -->
-- [x] B) $x^3 - x^2 + x + C$
+- [x] C) $x^3 - x^2 + x + C$
   <!-- feedback: Correcto. Integrando término a término: $\frac{3x^3}{3} - \frac{2x^2}{2} + 1x = x^3 - x^2 + x$. -->
-- [ ] C) $3x^3 - 2x^2 + x + C$
+- [ ] B) $3x^3 - 2x^2 + x + C$
   <!-- feedback: Incorrecto. Olvidó simplificar las fracciones resultantes. -->
 - [ ] D) $x^3 - x^2 + C$
   <!-- feedback: Incorrecto. Omitió la integral del término constante 1. -->
@@ -166,9 +166,9 @@ Uso de la propiedad de linealidad de la integral para resolver antiderivadas de 
 ### Opciones
 - [ ] A) $\frac{x^0}{0} + C$
   <!-- feedback: Incorrecto. La regla de la potencia no es aplicable cuando $n = -1$ debido a la división por cero. -->
-- [x] B) $\ln(x) + C$
+- [x] C) $\ln(x) + C$
   <!-- feedback: Correcto. Esta es la integral fundamental definida por la relación inversa del logaritmo natural. -->
-- [ ] C) $-\frac{1}{x^2} + C$
+- [ ] B) $-\frac{1}{x^2} + C$
   <!-- feedback: Incorrecto. Esta es la derivada de $1/x$. -->
 - [ ] D) $e^x + C$
   <!-- feedback: Incorrecto. La función exponencial no es la antiderivada de la recíproca. -->
@@ -295,11 +295,11 @@ Calcule $\int 2x(x^2 + 1)^3 \, dx$.
 ### Opciones
 - [ ] A) $\frac{(x^2 + 1)^3}{3} + C$
   <!-- feedback: Incorrecto. Olvidó incrementar el exponente externo. -->
-- [x] B) $\frac{(x^2 + 1)^4}{4} + C$
+- [x] D) $\frac{(x^2 + 1)^4}{4} + C$
   <!-- feedback: Correcto. Sea $u = x^2 + 1 \Rightarrow du = 2x \, dx$. La integral queda $\int u^3 \, du = u^4/4$. -->
-- [ ] C) $(x^2 + 1)^4 + C$
+- [ ] B) $(x^2 + 1)^4 + C$
   <!-- feedback: Incorrecto. Olvidó dividir por 4. -->
-- [ ] D) $\frac{x^2(x^2 + 1)^4}{4} + C$
+- [ ] C) $\frac{x^2(x^2 + 1)^4}{4} + C$
   <!-- feedback: Incorrecto. Trató de integrar ambos factores por separado de forma incorrecta. -->
 
 ### Explicacion Pedagogica
@@ -320,9 +320,9 @@ Halle $\int \frac{1}{2x + 5} \, dx$.
 ### Opciones
 - [ ] A) $\ln(2x + 5) + C$
   <!-- feedback: Incorrecto. Olvidó compensar la derivada interna de $2x$. -->
-- [x] B) $\frac{1}{2}\ln(2x + 5) + C$
+- [x] C) $\frac{1}{2}\ln(2x + 5) + C$
   <!-- feedback: Correcto. Sustitución $u = 2x+5 \Rightarrow du = 2 \, dx$. Entonces $dx = du/2$. -->
-- [ ] C) $\ln(x) + 5x + C$
+- [ ] B) $\ln(x) + 5x + C$
   <!-- feedback: Incorrecto. Trató de integrar los términos por separado, lo cual es inválido en el denominador. -->
 - [ ] D) $2\ln(2x + 5) + C$
   <!-- feedback: Incorrecto. Multiplicó por 2 en lugar de dividir. -->
@@ -370,11 +370,11 @@ Calcule $\int \frac{1}{1 + x^2} \, dx$.
 ### Opciones
 - [ ] A) $\ln(1 + x^2) + C$
   <!-- feedback: Incorrecto. Esta sería la integral de $2x/(1+x^2)$. -->
-- [x] B) $\arctan(x) + C$
+- [x] D) $\arctan(x) + C$
   <!-- feedback: Correcto. La derivada del arcotangente es exactamente el integrando dado. -->
-- [ ] C) $\arcsin(x) + C$
+- [ ] B) $\arcsin(x) + C$
   <!-- feedback: Incorrecto. La integral del arcoseno involucra una raíz cuadrada. -->
-- [ ] D) $-\frac{1}{(1 + x^2)^2} + C$
+- [ ] C) $-\frac{1}{(1 + x^2)^2} + C$
   <!-- feedback: Incorrecto. Trató de usar la regla de la potencia de forma inapropiada. -->
 
 ### Explicacion Pedagogica
@@ -447,11 +447,11 @@ Uso de la división algebraica previa para simplificar integrandos racionales an
 Calcule $\int \tan(x) \, dx$.
 
 ### Opciones
-- [ ] A) $\sec^2(x) + C$
+- [ ] B) $\sec^2(x) + C$
   <!-- feedback: Incorrecto. Esta es la derivada, no la integral. -->
-- [ ] B) $\sec(x) + C$
+- [ ] C) $\sec(x) + C$
   <!-- feedback: Incorrecto. No satisface la prueba de la derivada. -->
-- [x] C) $-\ln|\cos(x)| + C$
+- [x] A) $-\ln|\cos(x)| + C$
   <!-- feedback: Correcto. Escribiendo como $\int \frac{\sin x}{\cos x} \, dx$ y usando $u = \cos x$. También es igual a $\ln|\sec x| + C$. -->
 - [ ] D) $\ln|\sin(x)| + C$
   <!-- feedback: Incorrecto. Corresponde a la integral de la cotangente. -->
@@ -474,9 +474,9 @@ Deducción de integrales trigonométricas mediante la conversión a razones de s
 ### Opciones
 - [ ] A) Sustitución simple con $u = \sin(x)$.
   <!-- feedback: Incorrecto. Falta el factor $\cos(x)$ para el $du$. -->
-- [ ] B) Regla de la potencia directa: $\sin^3(x)/3$.
+- [ ] C) Regla de la potencia directa: $\sin^3(x)/3$.
   <!-- feedback: Incorrecto. Solo es válida si la base es la variable de integración simple. -->
-- [x] C) Uso de la identidad de ángulo doble: $\sin^2(x) = \frac{1 - \cos(2x)}{2}$.
+- [x] B) Uso de la identidad de ángulo doble: $\sin^2(x) = \frac{1 - \cos(2x)}{2}$.
   <!-- feedback: Correcto. Permite transformar una potencia en una suma de funciones lineales fáciles de integrar. -->
 - [ ] D) Integración por partes eligiendo $u = \sin(x)$.
   <!-- feedback: Incorrecto. Es posible pero mucho más complejo que usar identidades. -->
@@ -501,9 +501,9 @@ Determine la función de posición $s(t)$ de la partícula.
   <!-- feedback: Incorrecto. Error en la integración del coseno. -->
 - [ ] B) $s(t) = \sin(t) + 2$
   <!-- feedback: Incorrecto. Esta es la función de velocidad, no la de posición. -->
-- [x] C) $s(t) = -\cos(t) + 2t + 1$
+- [x] D) $s(t) = -\cos(t) + 2t + 1$
   <!-- feedback: Correcto. $v(t) = \sin t + 2$. $s(t) = \int (\sin t + 2) \, dt = -\cos t + 2t + C$. Como $s(0) = -1 + 0 + C = 0$, entonces $C=1$. -->
-- [ ] D) $s(t) = \cos(t) + 2t - 1$
+- [ ] C) $s(t) = \cos(t) + 2t - 1$
   <!-- feedback: Incorrecto. Error de signo al integrar la velocidad. -->
 
 ### Explicacion Pedagogica
@@ -522,11 +522,11 @@ Doble integración para obtener la posición a partir de la aceleración, maneja
 ¿Cuál es el resultado de esta integral?
 
 ### Opciones
-- [ ] A) $\ln(e^{2x} + 1) + C$
+- [ ] B) $\ln(e^{2x} + 1) + C$
   <!-- feedback: Incorrecto. No satisface el diferencial del numerador. -->
-- [ ] B) $\frac{1}{2} \ln(e^{2x} + 1) + C$
+- [ ] C) $\frac{1}{2} \ln(e^{2x} + 1) + C$
   <!-- feedback: Incorrecto. Trató de usar sustitución logarítmica sin considerar la estructura de cuadrado más uno. -->
-- [x] C) $\arctan(e^x) + C$
+- [x] A) $\arctan(e^x) + C$
   <!-- feedback: Correcto. Sea $u = e^x \Rightarrow du = e^x \, dx$. La integral queda $\int \frac{1}{u^2 + 1} \, du = \arctan(u)$. -->
 - [ ] D) $e^x \arctan(e^x) + C$
   <!-- feedback: Incorrecto. Error en la aplicación del método de sustitución. -->

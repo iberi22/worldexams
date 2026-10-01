@@ -33,9 +33,9 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) Surrealismo <!-- feedback: Incorrecto. El surrealismo busca explorar el inconsciente y los sueños, no la realidad cotidiana. -->
-- [x] B) Costumbrismo <!-- feedback: ¡Correcto! El costumbrismo se enfoca en el retrato fiel de la vida diaria y las tradiciones locales. -->
-- [ ] C) Vanguardismo <!-- feedback: Incorrecto. El vanguardismo busca romper con las tradiciones y experimentar con formas nuevas. -->
-- [ ] D) Neoclasicismo <!-- feedback: Incorrecto. El neoclasicismo se basa en la imitación de los clásicos griegos y romanos. -->
+- [x] D) Costumbrismo <!-- feedback: ¡Correcto! El costumbrismo se enfoca en el retrato fiel de la vida diaria y las tradiciones locales. -->
+- [ ] B) Vanguardismo <!-- feedback: Incorrecto. El vanguardismo busca romper con las tradiciones y experimentar con formas nuevas. -->
+- [ ] C) Neoclasicismo <!-- feedback: Incorrecto. El neoclasicismo se basa en la imitación de los clásicos griegos y romanos. -->
 
 ### Explicacion Pedagogica
 El costumbrismo es fundamental en la literatura colombiana porque sirvió para documentar cómo se vivía en las distintas regiones del país durante el siglo XIX. Se interesa por lo pintoresco, los tipos sociales (el arriero, el campesino) y las fiestas populares.
@@ -75,8 +75,8 @@ El cuadro de costumbres es una pieza breve, a medio camino entre el periodismo y
 
 ### Opciones
 - [ ] A) Lenguaje formal o culto <!-- feedback: Incorrecto. El lenguaje culto evita los modismos regionales. -->
-- [x] B) Lenguaje popular o dialectal <!-- feedback: ¡Correcto! El uso de regionalismos y modismos da verosimilitud y color local a la obra. -->
-- [ ] C) Lenguaje poético metafórico <!-- feedback: Incorrecto. Aunque puede haber poesía, el objetivo aquí es el realismo lingüístico. -->
+- [x] C) Lenguaje popular o dialectal <!-- feedback: ¡Correcto! El uso de regionalismos y modismos da verosimilitud y color local a la obra. -->
+- [ ] B) Lenguaje poético metafórico <!-- feedback: Incorrecto. Aunque puede haber poesía, el objetivo aquí es el realismo lingüístico. -->
 - [ ] D) Lenguaje técnico jurídico <!-- feedback: Incorrecto. No se están usando términos legales o de leyes. -->
 
 ### Explicacion Pedagogica
@@ -138,8 +138,8 @@ El "color local" es lo que permite que un lector identifique que una historia oc
 
 ### Opciones
 - [ ] A) Hacer que los personajes parezcan superhéroes perfectos. <!-- feedback: Incorrecto. La sátira busca resaltar los defectos, no las virtudes heroicas. -->
-- [x] B) Criticar los vicios, la hipocresía o las malas costumbres de la sociedad a través del humor. <!-- feedback: ¡Correcto! El autor busca corregir o denunciar algo mientras divierte. -->
-- [ ] C) Enseñar a los niños a leer más rápido mediante chistes. <!-- feedback: Incorrecto. La sátira tiene un propósito de crítica social adulta. -->
+- [x] C) Criticar los vicios, la hipocresía o las malas costumbres de la sociedad a través del humor. <!-- feedback: ¡Correcto! El autor busca corregir o denunciar algo mientras divierte. -->
+- [ ] B) Enseñar a los niños a leer más rápido mediante chistes. <!-- feedback: Incorrecto. La sátira tiene un propósito de crítica social adulta. -->
 - [ ] D) Evitar que el lector sepa qué es lo que piensa realmente el autor. <!-- feedback: Incorrecto. Al contrario, la sátira revela claramente la postura crítica del autor. -->
 
 ### Explicacion Pedagogica
@@ -202,8 +202,8 @@ Analiza el fragmento anterior. ¿Qué técnica costumbrista se utiliza para dar 
 ### Opciones
 - [ ] A) La hipérbole, para exagerar el tamaño de su sombrero de paja. <!-- feedback: Incorrecto. La descripción parece realista y proporcionada. -->
 - [ ] B) El uso de elementos mágicos para que la sal hable con Ño Remigio. <!-- feedback: Incorrecto. Es una escena totalmente realista y cotidiana. -->
-- [x] C) La caracterización externa a través de objetos simbólicos (carriel, sombrero) y una actitud social típica (el regateo). <!-- feedback: ¡Correcto! El personaje se define por su apariencia y su comportamiento social. -->
-- [ ] D) La personificación del carriel de nutria para que parezca un animal vivo. <!-- feedback: Incorrecto. El carriel es mencionado como una prenda de vestir del personaje. -->
+- [x] D) La caracterización externa a través de objetos simbólicos (carriel, sombrero) y una actitud social típica (el regateo). <!-- feedback: ¡Correcto! El personaje se define por su apariencia y su comportamiento social. -->
+- [ ] C) La personificación del carriel de nutria para que parezca un animal vivo. <!-- feedback: Incorrecto. El carriel es mencionado como una prenda de vestir del personaje. -->
 
 ### Explicacion Pedagogica
 La descripción física en el costumbrismo es un código social. El carriel de nutria identifica inmediatamente al personaje como alguien de la región antioqueña y sugiere su oficio o estatus. La actitud de discutir el precio muestra la psicología del tipo social campesino de la época.

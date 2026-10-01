@@ -38,11 +38,11 @@ Which form of the verb "to be" is used for the plural subjects "We", "You", and 
 ### Opciones
 - [ ] A) Was
   <!-- feedback: Incorrect. "Was" is for singular subjects like I, He, She, and It. -->
-- [x] B) Were
+- [x] D) Were
   <!-- feedback: Correct! "Were" is the past plural form of "to be". -->
-- [ ] C) Am
+- [ ] B) Am
   <!-- feedback: Incorrect. "Am" is a present form. -->
-- [ ] D) Is
+- [ ] C) Is
   <!-- feedback: Incorrect. "Is" is a present form. -->
 
 ### Explicacion Pedagogica
@@ -63,11 +63,11 @@ What is the negative contraction of "was not"?
 ### Opciones
 - [ ] A) Weren't
   <!-- feedback: Incorrect. "Weren't" is the contraction of "were not". -->
-- [x] B) Wasn't
+- [x] D) Wasn't
   <!-- feedback: Correct! "Wasn't" is the short form of "was not". -->
-- [ ] C) Don't
+- [ ] B) Don't
   <!-- feedback: Incorrect. "Don't" is used for the Present Simple. -->
-- [ ] D) Isn't
+- [ ] C) Isn't
   <!-- feedback: Incorrect. "Isn't" is used for the Present Simple. -->
 
 ### Explicacion Pedagogica
@@ -138,11 +138,11 @@ The student understands the inversion of subject and verb "to be" required for p
 ### Opciones
 - [ ] A) was
   <!-- feedback: Incorrect. "We" is plural and requires "were". -->
-- [x] B) were
+- [x] D) were
   <!-- feedback: Correct! "Were" is the past plural form for "We". -->
-- [ ] C) are
+- [ ] B) are
   <!-- feedback: Incorrect. "Are" is present, but the context is "last night". -->
-- [ ] D) was'nt
+- [ ] C) was'nt
   <!-- feedback: Incorrect. The context (winning) implies they WERE happy, not that they weren't. -->
 
 ### Explicacion Pedagogica
@@ -164,11 +164,11 @@ According to the text, how was the weather?
 ### Opciones
 - [ ] A) It were beautiful.
   <!-- feedback: Incorrect. "Weather" is singular and requires "was". -->
-- [x] B) It was very hot.
+- [x] D) It was very hot.
   <!-- feedback: Correct! The text explicitly says "The weather was very hot". -->
-- [ ] C) It wasn't hot.
+- [ ] B) It wasn't hot.
   <!-- feedback: Incorrect. The text says it was hot. -->
-- [ ] D) They were hot.
+- [ ] C) They were hot.
   <!-- feedback: Incorrect. "They" is for plural; weather is singular. -->
 
 ### Explicacion Pedagogica
@@ -216,9 +216,9 @@ Choose the correct sentence that compares the past and the present.
   <!-- feedback: Incorrect. "Now" requires the present "am". -->
 - [ ] B) Last year I am 11, now I was 12.
   <!-- feedback: Incorrect. The tenses are reversed. -->
-- [x] C) Last year I was 11, now I am 12.
+- [x] D) Last year I was 11, now I am 12.
   <!-- feedback: Correct! "Was" for the past and "am" for the present. -->
-- [ ] D) Last year I were 11, now I am 12.
+- [ ] C) Last year I were 11, now I am 12.
   <!-- feedback: Incorrect. "Were" is not used with "I". -->
 
 ### Explicacion Pedagogica
@@ -240,11 +240,11 @@ What can we analyze about the grandfather's childhood?
 ### Opciones
 - [ ] A) He was lazy.
   <!-- feedback: Incorrect. The text says he was "very active". -->
-- [x] B) Technology was different in his time.
+- [x] D) Technology was different in his time.
   <!-- feedback: Correct! The text says there were no cell phones. -->
-- [ ] C) There were many cell phones in the past.
+- [ ] B) There were many cell phones in the past.
   <!-- feedback: Incorrect. The text says there were NONE. -->
-- [ ] D) He were always at home.
+- [ ] C) He were always at home.
   <!-- feedback: Incorrect. His favorite place was the park. -->
 
 ### Explicacion Pedagogica
@@ -264,11 +264,11 @@ The student analyzes a text about the past to identify a logical deduction or fa
 Which of the following evaluations best describes the text?
 
 ### Opciones
-- [ ] A) It is a text about a person who is currently writing popular books.
+- [ ] B) It is a text about a person who is currently writing popular books.
   <!-- feedback: Incorrect. The use of "was" indicates he is a historical figure. -->
-- [ ] B) It is a text about a writer who was only famous in Aracataca.
+- [ ] C) It is a text about a writer who was only famous in Aracataca.
   <!-- feedback: Incorrect. It says his books were popular "all over the world". -->
-- [x] C) It is a biographical summary of a successful and globally recognized historical figure.
+- [x] A) It is a biographical summary of a successful and globally recognized historical figure.
   <!-- feedback: Correct! The past tense and the mention of the Nobel Prize and world popularity support this. -->
 - [ ] D) It is a text about why García Márquez was not a good writer.
   <!-- feedback: Incorrect. The text lists his successes. -->

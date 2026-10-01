@@ -36,8 +36,8 @@ Inflation refers to the general increase in prices and the fall in the purchasin
 
 ### Opciones
 - [ ] A) Recession <!-- feedback: Incorrect. A recession is a period of temporary economic decline. -->
-- [x] B) Inflation <!-- feedback: Correct. Inflation is the rise in prices over time. -->
-- [ ] C) Deflation <!-- feedback: Incorrect. Deflation is a decrease in prices. -->
+- [x] C) Inflation <!-- feedback: Correct. Inflation is the rise in prices over time. -->
+- [ ] B) Deflation <!-- feedback: Incorrect. Deflation is a decrease in prices. -->
 - [ ] D) Interest <!-- feedback: Incorrect. Interest is the cost of borrowing money. -->
 
 ### Explicacion Pedagogica
@@ -56,9 +56,9 @@ The stock market has been fluctuating significantly due to recent political inst
 
 ### Opciones
 - [ ] A) fluctuates <!-- feedback: Incorrect. Present simple. -->
-- [x] B) has been fluctuating <!-- feedback: Correct. Present perfect continuous for an action that started in the past and is still ongoing. -->
-- [ ] C) fluctuated <!-- feedback: Incorrect. Past simple. -->
-- [ ] D) will fluctuate <!-- feedback: Incorrect. Simple future. -->
+- [x] D) has been fluctuating <!-- feedback: Correct. Present perfect continuous for an action that started in the past and is still ongoing. -->
+- [ ] B) fluctuated <!-- feedback: Incorrect. Past simple. -->
+- [ ] C) will fluctuate <!-- feedback: Incorrect. Simple future. -->
 
 ### Explicacion Pedagogica
 The present perfect continuous 'has been fluctuating' emphasizes the ongoing nature of the market's volatility.
@@ -76,9 +76,9 @@ If the trade barriers were removed, the volume of international commerce would i
 
 ### Opciones
 - [ ] A) will remove <!-- feedback: Incorrect. Inconsistent with 'would'. -->
-- [x] B) were removed <!-- feedback: Correct. Second conditional passive for a hypothetical situation. -->
-- [ ] C) are removed <!-- feedback: Incorrect. First conditional. -->
-- [ ] D) had been removed <!-- feedback: Incorrect. Third conditional. -->
+- [x] D) were removed <!-- feedback: Correct. Second conditional passive for a hypothetical situation. -->
+- [ ] B) are removed <!-- feedback: Incorrect. First conditional. -->
+- [ ] C) had been removed <!-- feedback: Incorrect. Third conditional. -->
 
 ### Explicacion Pedagogica
 The second conditional passive 'if + were + past participle' is used to discuss a hypothetical change in policy.
@@ -96,9 +96,9 @@ Globalization has led to increased interdependence among nations, making local e
 
 ### Opciones
 - [ ] A) independence <!-- feedback: Incorrect. Interdependence is the opposite of independence. -->
-- [x] B) interdependence <!-- feedback: Correct. Interdependence means mutual reliance between countries. -->
-- [ ] C) isolation <!-- feedback: Incorrect. Globalization reduces isolation. -->
-- [ ] D) self-sufficiency <!-- feedback: Incorrect. Self-sufficiency means not needing others. -->
+- [x] D) interdependence <!-- feedback: Correct. Interdependence means mutual reliance between countries. -->
+- [ ] B) isolation <!-- feedback: Incorrect. Globalization reduces isolation. -->
+- [ ] C) self-sufficiency <!-- feedback: Incorrect. Self-sufficiency means not needing others. -->
 
 ### Explicacion Pedagogica
 'Interdependence' correctly identifies the mutual reliance that characterizes the modern global economy.
@@ -116,8 +116,8 @@ Critics of the current economic system argue that wealth is disproportionately c
 
 ### Opciones
 - [ ] A) equally <!-- feedback: Incorrect. The text says it's concentrated in a 'small percentage'. -->
-- [x] B) disproportionately <!-- feedback: Correct. Disproportionately means in a way that is out of proportion. -->
-- [ ] C) fairly <!-- feedback: Incorrect. 'Concentrated' implies it is not fair. -->
+- [x] C) disproportionately <!-- feedback: Correct. Disproportionately means in a way that is out of proportion. -->
+- [ ] B) fairly <!-- feedback: Incorrect. 'Concentrated' implies it is not fair. -->
 - [ ] D) minimally <!-- feedback: Incorrect. If it's concentrated, it's not minimal. -->
 
 ### Explicacion Pedagogica
@@ -135,8 +135,8 @@ Critics of the current economic system argue that wealth is disproportionately c
 The World Bank provides financial and technical assistance to developing countries for development programs.
 
 ### Opciones
-- [ ] A) tax <!-- feedback: Incorrect. Tax is money paid to the government. -->
-- [x] B) assistance <!-- feedback: Correct. Assistance means help or support. -->
+- [ ] B) tax <!-- feedback: Incorrect. Tax is money paid to the government. -->
+- [x] A) assistance <!-- feedback: Correct. Assistance means help or support. -->
 - [ ] C) competition <!-- feedback: Incorrect. Competition is not the primary role of the World Bank. -->
 - [ ] D) debt <!-- feedback: Incorrect. While it involves loans, the general term for the support is assistance. -->
 
@@ -197,8 +197,8 @@ The government had implemented several austerity measures before the economy beg
 ### Opciones
 - [ ] A) implements <!-- feedback: Incorrect. Present tense. -->
 - [ ] B) has implemented <!-- feedback: Incorrect. Present perfect. -->
-- [x] C) had implemented <!-- feedback: Correct. Past perfect for an action before another past action. -->
-- [ ] D) was implementing <!-- feedback: Incorrect. Past continuous. -->
+- [x] D) had implemented <!-- feedback: Correct. Past perfect for an action before another past action. -->
+- [ ] C) was implementing <!-- feedback: Incorrect. Past continuous. -->
 
 ### Explicacion Pedagogica
 The past perfect 'had implemented' establishes the sequence of events during the crisis.
@@ -216,8 +216,8 @@ The author suggests that the relentless pursuit of economic growth may be incomp
 
 ### Opciones
 - [ ] A) conducive <!-- feedback: Incorrect. Conducive means helping to bring about. -->
-- [x] B) incompatible <!-- feedback: Correct. Incompatible means not able to exist or work together. -->
-- [ ] C) essential <!-- feedback: Incorrect. Essential means absolutely necessary. -->
+- [x] C) incompatible <!-- feedback: Correct. Incompatible means not able to exist or work together. -->
+- [ ] B) essential <!-- feedback: Incorrect. Essential means absolutely necessary. -->
 - [ ] D) irrelevant <!-- feedback: Incorrect. Irrelevant means not connected. -->
 
 ### Explicacion Pedagogica
@@ -275,9 +275,9 @@ The present perfect passive 'have been lost' describes the impact on employment 
 Emerging markets often offer higher potential returns but also involve greater risk for investors.
 
 ### Opciones
-- [x] A) Emerging <!-- feedback: Correct. Emerging markets are those of developing countries. -->
-- [ ] B) Saturated <!-- feedback: Incorrect. Saturated markets are full. -->
-- [ ] C) Stagnant <!-- feedback: Incorrect. Stagnant markets are not growing. -->
+- [x] C) Emerging <!-- feedback: Correct. Emerging markets are those of developing countries. -->
+- [ ] A) Saturated <!-- feedback: Incorrect. Saturated markets are full. -->
+- [ ] B) Stagnant <!-- feedback: Incorrect. Stagnant markets are not growing. -->
 - [ ] D) Monopolized <!-- feedback: Incorrect. Monopolized means controlled by one. -->
 
 ### Explicacion Pedagogica
@@ -296,9 +296,9 @@ If the currency were devalued, exports would become cheaper for foreign buyers.
 
 ### Opciones
 - [ ] A) is <!-- feedback: Incorrect. First conditional. -->
-- [x] B) were <!-- feedback: Correct. Second conditional for a hypothetical situation. -->
-- [ ] C) has been <!-- feedback: Incorrect. Present perfect. -->
-- [ ] D) had been <!-- feedback: Incorrect. Third conditional. -->
+- [x] D) were <!-- feedback: Correct. Second conditional for a hypothetical situation. -->
+- [ ] B) has been <!-- feedback: Incorrect. Present perfect. -->
+- [ ] C) had been <!-- feedback: Incorrect. Third conditional. -->
 
 ### Explicacion Pedagogica
 The second conditional 'if + were' is used to discuss a hypothetical change in currency value.
@@ -336,8 +336,8 @@ A multinational corporation is a company that operates in several countries.
 
 ### Opciones
 - [ ] A) local <!-- feedback: Incorrect. Local companies work in one area. -->
-- [x] B) multinational <!-- feedback: Correct. Multinational means in many nations. -->
-- [ ] C) private <!-- feedback: Incorrect. Private refers to ownership. -->
+- [x] C) multinational <!-- feedback: Correct. Multinational means in many nations. -->
+- [ ] B) private <!-- feedback: Incorrect. Private refers to ownership. -->
 - [ ] D) nonprofit <!-- feedback: Incorrect. Nonprofit refers to the goal. -->
 
 ### Explicacion Pedagogica
@@ -375,8 +375,8 @@ The citizens wish the government would control inflation more effectively.
 The gig economy is characterized by the prevalence of short-term contracts or freelance work as opposed to permanent jobs.
 
 ### Opciones
-- [ ] A) stable <!-- feedback: Incorrect. Gig work is often unstable. -->
-- [x] B) gig <!-- feedback: Correct. Gig economy is the term for this type of labor market. -->
+- [ ] B) stable <!-- feedback: Incorrect. Gig work is often unstable. -->
+- [x] A) gig <!-- feedback: Correct. Gig economy is the term for this type of labor market. -->
 - [ ] C) traditional <!-- feedback: Incorrect. Traditional jobs are usually permanent. -->
 - [ ] D) industrial <!-- feedback: Incorrect. Industrial refers to factories. -->
 
@@ -396,8 +396,8 @@ The analyst reported that the company's revenue had exceeded expectations last q
 
 ### Opciones
 - [ ] A) exceeds <!-- feedback: Incorrect. Present simple. -->
-- [ ] B) has exceeded <!-- feedback: Incorrect. Present perfect. -->
-- [x] C) had exceeded <!-- feedback: Correct. Past perfect for backshifting in reported speech. -->
+- [ ] C) has exceeded <!-- feedback: Incorrect. Present perfect. -->
+- [x] B) had exceeded <!-- feedback: Correct. Past perfect for backshifting in reported speech. -->
 - [ ] D) will exceed <!-- feedback: Incorrect. Future tense. -->
 
 ### Explicacion Pedagogica
@@ -415,9 +415,9 @@ In reported speech, we backshift tenses: 'exceeded' (past simple) or 'has exceed
 A truly resilient economy must be built on the foundation of social justice and environmental stewardship.
 
 ### Opciones
-- [x] A) resilient <!-- feedback: Correct. Resilient means able to withstand or recover quickly from difficult conditions. -->
-- [ ] B) fragile <!-- feedback: Incorrect. Fragile is the opposite of resilient. -->
-- [ ] C) stagnant <!-- feedback: Incorrect. Stagnant means not growing. -->
+- [x] C) resilient <!-- feedback: Correct. Resilient means able to withstand or recover quickly from difficult conditions. -->
+- [ ] A) fragile <!-- feedback: Incorrect. Fragile is the opposite of resilient. -->
+- [ ] B) stagnant <!-- feedback: Incorrect. Stagnant means not growing. -->
 - [ ] D) volatile <!-- feedback: Incorrect. Volatile means liable to change rapidly and unpredictably. -->
 
 ### Explicacion Pedagogica

@@ -38,8 +38,8 @@ Este bundle introduce la distribución normal, el concepto de estandarización (
 ¿Cuál es el valor del área total bajo la curva de una distribución normal?
 
 ### Opciones
-- [ ] A) 0,5 <!-- feedback: Incorrecto. Este es el área a un solo lado de la media. -->
-- [x] B) 1 <!-- feedback: Correcto. Como representa la probabilidad total de todo el espacio muestral, el área es 1. -->
+- [ ] B) 0,5 <!-- feedback: Incorrecto. Este es el área a un solo lado de la media. -->
+- [x] A) 1 <!-- feedback: Correcto. Como representa la probabilidad total de todo el espacio muestral, el área es 1. -->
 - [ ] C) 100 <!-- feedback: Incorrecto. La probabilidad máxima es 1 (o 100%). -->
 - [ ] D) Depende de la desviación estándar. <!-- feedback: Incorrecto. Sin importar la forma, el área total siempre es la unidad. -->
 
@@ -62,8 +62,8 @@ La curva normal es una función de densidad de probabilidad. Por definición, la
 
 ### Opciones
 - [ ] A) 50% <!-- feedback: Incorrecto. Este es el porcentaje entre el primer y tercer cuartil en otras distribuciones, o a un lado de la media. -->
-- [x] B) 68% <!-- feedback: Correcto. Según la regla empírica, aproximadamente el 68,2% de los datos cae a una desviación estándar de la media. -->
-- [ ] C) 95% <!-- feedback: Incorrecto. Esto corresponde a dos desviaciones estándar. -->
+- [x] C) 68% <!-- feedback: Correcto. Según la regla empírica, aproximadamente el 68,2% de los datos cae a una desviación estándar de la media. -->
+- [ ] B) 95% <!-- feedback: Incorrecto. Esto corresponde a dos desviaciones estándar. -->
 - [ ] D) 99,7% <!-- feedback: Incorrecto. Esto corresponde a tres desviaciones estándar. -->
 
 ### Explicacion Pedagogica
@@ -85,9 +85,9 @@ La regla empírica o regla 68-95-99,7 describe los porcentajes de datos que caen
 
 ### Opciones
 - [ ] A) Z = (μ - x) / σ <!-- feedback: Incorrecto. El orden de la resta es importante. -->
-- [x] B) Z = (x - μ) / σ <!-- feedback: Correcto. Restamos la media para centrar en cero y dividimos por la desviación para ajustar la escala. -->
-- [ ] C) Z = x - μ / σ <!-- feedback: Incorrecto. Falta el paréntesis, el orden de operaciones sería erróneo. -->
-- [ ] D) Z = (x - σ) / μ <!-- feedback: Incorrecto. Se divide por la desviación, no por la media. -->
+- [x] D) Z = (x - μ) / σ <!-- feedback: Correcto. Restamos la media para centrar en cero y dividimos por la desviación para ajustar la escala. -->
+- [ ] B) Z = x - μ / σ <!-- feedback: Incorrecto. Falta el paréntesis, el orden de operaciones sería erróneo. -->
+- [ ] C) Z = (x - σ) / μ <!-- feedback: Incorrecto. Se divide por la desviación, no por la media. -->
 
 ### Explicacion Pedagogica
 Estandarizar permite comparar datos de distintas distribuciones normales. Z indica cuántas desviaciones estándar se encuentra un valor x por encima (positivo) o por debajo (negativo) de la media.
@@ -131,8 +131,8 @@ La distribución normal es perfectamente simétrica respecto a su media. En la n
 
 ### Opciones
 - [ ] A) 0,4 <!-- feedback: Incorrecto. Olvidó dividir por la desviación estándar. -->
-- [x] B) 2 <!-- feedback: Correcto. Z = (10,4 - 10) / 0,2 = 0,4 / 0,2 = 2. -->
-- [ ] C) -2 <!-- feedback: Incorrecto. El valor es mayor que la media, el puntaje debe ser positivo. -->
+- [x] C) 2 <!-- feedback: Correcto. Z = (10,4 - 10) / 0,2 = 0,4 / 0,2 = 2. -->
+- [ ] B) -2 <!-- feedback: Incorrecto. El valor es mayor que la media, el puntaje debe ser positivo. -->
 - [ ] D) 1 <!-- feedback: Incorrecto. No surge del cálculo. -->
 
 ### Explicacion Pedagogica
@@ -153,8 +153,8 @@ Aplicamos Z = (x - μ) / σ. El valor de 10,4 está a 0,4 cm de la media. Como c
 ¿Qué puntaje Z le corresponde a un alumno que sacó 50?
 
 ### Opciones
-- [ ] A) 1,5 <!-- feedback: Incorrecto. El valor es menor que la media, el puntaje debe ser negativo. -->
-- [x] B) -1,5 <!-- feedback: Correcto. Z = (50 - 65) / 10 = -15 / 10 = -1,5. -->
+- [ ] B) 1,5 <!-- feedback: Incorrecto. El valor es menor que la media, el puntaje debe ser negativo. -->
+- [x] A) -1,5 <!-- feedback: Correcto. Z = (50 - 65) / 10 = -15 / 10 = -1,5. -->
 - [ ] C) -15 <!-- feedback: Incorrecto. Olvidó dividir por la desviación estándar. -->
 - [ ] D) -0,5 <!-- feedback: Incorrecto. Error en la resta o división. -->
 
@@ -176,8 +176,8 @@ Z = (50 - 65) / 10 = -1,5. El signo negativo indica que el alumno obtuvo una cal
 ¿Cuál es la probabilidad P(Z > 1)?
 
 ### Opciones
-- [x] A) 0,1587 <!-- feedback: Correcto. P(Z > 1) = 1 - P(Z < 1) = 1 - 0,8413 = 0,1587. -->
-- [ ] B) 0,8413 <!-- feedback: Incorrecto. Esta es la probabilidad de ser menor. -->
+- [x] B) 0,1587 <!-- feedback: Correcto. P(Z > 1) = 1 - P(Z < 1) = 1 - 0,8413 = 0,1587. -->
+- [ ] A) 0,8413 <!-- feedback: Incorrecto. Esta es la probabilidad de ser menor. -->
 - [ ] C) -0,8413 <!-- feedback: Incorrecto. La probabilidad no es negativa. -->
 - [ ] D) 0,5 <!-- feedback: Incorrecto. No corresponde a este valor de Z. -->
 
@@ -200,8 +200,8 @@ Si una lámpara tiene un puntaje Z = 0, ¿cuántas horas duró?
 
 ### Opciones
 - [ ] A) 0 horas <!-- feedback: Incorrecto. Z=0 no significa valor cero de la variable. -->
-- [x] B) 1000 horas <!-- feedback: Correcto. Un puntaje Z de 0 corresponde exactamente al valor de la media aritmética. -->
-- [ ] C) 1100 horas <!-- feedback: Incorrecto. Esto sería Z = 1. -->
+- [x] C) 1000 horas <!-- feedback: Correcto. Un puntaje Z de 0 corresponde exactamente al valor de la media aritmética. -->
+- [ ] B) 1100 horas <!-- feedback: Incorrecto. Esto sería Z = 1. -->
 - [ ] D) 900 horas <!-- feedback: Incorrecto. Esto sería Z = -1. -->
 
 ### Explicacion Pedagogica
@@ -246,9 +246,9 @@ Visualmente, ¿cómo se diferencia la campana de la máquina A respecto a la de 
 
 ### Opciones
 - [ ] A) La campana de A está más a la derecha. <!-- feedback: Incorrecto. Tienen la misma media, están centradas igual. -->
-- [x] B) La campana de A es más alta y estrecha. <!-- feedback: Correcto. Menor desviación estándar significa que los datos están más concentrados cerca de la media. -->
-- [ ] C) La campana de A es más baja y ancha. <!-- feedback: Incorrecto. Eso sería si tuviera mayor desviación estándar. -->
-- [ ] D) No hay diferencia visual, todas las normales son iguales. <!-- feedback: Incorrecto. La forma depende críticamente de σ. -->
+- [x] D) La campana de A es más alta y estrecha. <!-- feedback: Correcto. Menor desviación estándar significa que los datos están más concentrados cerca de la media. -->
+- [ ] B) La campana de A es más baja y ancha. <!-- feedback: Incorrecto. Eso sería si tuviera mayor desviación estándar. -->
+- [ ] C) No hay diferencia visual, todas las normales son iguales. <!-- feedback: Incorrecto. La forma depende críticamente de σ. -->
 
 ### Explicacion Pedagogica
 La desviación estándar controla la "dispersión" o ancho de la campana. Una σ pequeña produce una campana leptocúrtica (picuda y estrecha), mientras que una σ grande produce una platicúrtica (achatada y ancha).
@@ -268,8 +268,8 @@ La desviación estándar controla la "dispersión" o ancho de la campana. Una σ
 Sabiendo que P(Z < 2) = 0,9772, ¿qué porcentaje de los aspirantes es "sobresaliente"?
 
 ### Opciones
-- [ ] A) 97,72% <!-- feedback: Incorrecto. Este es el porcentaje que NO es sobresaliente. -->
-- [x] B) 2,28% <!-- feedback: Correcto. 130 corresponde a Z = (130-100)/15 = 2. La prob. de ser mayor a Z=2 es 1 - 0,9772 = 0,0228 (2,28%). -->
+- [ ] B) 97,72% <!-- feedback: Incorrecto. Este es el porcentaje que NO es sobresaliente. -->
+- [x] A) 2,28% <!-- feedback: Correcto. 130 corresponde a Z = (130-100)/15 = 2. La prob. de ser mayor a Z=2 es 1 - 0,9772 = 0,0228 (2,28%). -->
 - [ ] C) 5% <!-- feedback: Incorrecto. Valor aproximado pero no exacto según la tabla. -->
 - [ ] D) 30% <!-- feedback: Incorrecto. No corresponde al cálculo de estandarización. -->
 
@@ -315,8 +315,8 @@ Para calcular P(a < Z < b) restamos F(b) - F(a). Por simetría, el área fuera d
 
 ### Opciones
 - [ ] A) 2 segundos <!-- feedback: Incorrecto. Esa es la diferencia absoluta (x - μ). -->
-- [x] B) 1,22 segundos <!-- feedback: Correcto. De Z = (x - μ) / σ despejamos σ = (x - μ) / Z = (10 - 8) / 1,64 ≈ 1,219. -->
-- [ ] C) 0,82 segundos <!-- feedback: Incorrecto. Error en el despeje de la fórmula. -->
+- [x] C) 1,22 segundos <!-- feedback: Correcto. De Z = (x - μ) / σ despejamos σ = (x - μ) / Z = (10 - 8) / 1,64 ≈ 1,219. -->
+- [ ] B) 0,82 segundos <!-- feedback: Incorrecto. Error en el despeje de la fórmula. -->
 - [ ] D) 3,28 segundos <!-- feedback: Incorrecto. Multiplicó en lugar de dividir. -->
 
 ### Explicacion Pedagogica
@@ -338,8 +338,8 @@ Usamos la fórmula de estandarización para hallar un parámetro desconocido. De
 
 ### Opciones
 - [ ] A) 0,0228 <!-- feedback: Incorrecto. Esta es solo la probabilidad de la cola derecha. -->
-- [x] B) 0,0456 <!-- feedback: Correcto. Z = 0,02 / 0,01 = 2. Buscamos las dos colas externas: 2 * (1 - 0,9772) = 2 * 0,0228 = 0,0456. -->
-- [ ] C) 0,9544 <!-- feedback: Incorrecto. Esta es la probabilidad de que el error sea menor a 0,02. -->
+- [x] C) 0,0456 <!-- feedback: Correcto. Z = 0,02 / 0,01 = 2. Buscamos las dos colas externas: 2 * (1 - 0,9772) = 2 * 0,0228 = 0,0456. -->
+- [ ] B) 0,9544 <!-- feedback: Incorrecto. Esta es la probabilidad de que el error sea menor a 0,02. -->
 - [ ] D) 0,05 <!-- feedback: Incorrecto. Valor aproximado pero no exacto según el dato. -->
 
 ### Explicacion Pedagogica
@@ -361,8 +361,8 @@ Buscamos P(|X| > 0,02), que equivale a las áreas externas a 2 desviaciones est�
 
 ### Opciones
 - [ ] A) 0,50 <!-- feedback: Incorrecto. La media es 2%, es más probable ganar que perder. -->
-- [x] B) 0,3085 <!-- feedback: Correcto. Z = (0 - 2) / 4 = -0,5. P(Z < -0,5) = 1 - P(Z < 0,5) = 1 - 0,6915 = 0,3085. -->
-- [ ] C) 0,6915 <!-- feedback: Incorrecto. Esta es la probabilidad de que el retorno sea menor a 4%. -->
+- [x] C) 0,3085 <!-- feedback: Correcto. Z = (0 - 2) / 4 = -0,5. P(Z < -0,5) = 1 - P(Z < 0,5) = 1 - 0,6915 = 0,3085. -->
+- [ ] B) 0,6915 <!-- feedback: Incorrecto. Esta es la probabilidad de que el retorno sea menor a 4%. -->
 - [ ] D) 0,1915 <!-- feedback: Incorrecto. No corresponde al cálculo de la cola. -->
 
 ### Explicacion Pedagogica
@@ -383,8 +383,8 @@ Perder dinero significa X < 0. Estandarizando: Z = (0 - 2) / 4 = -0,5. Por simet
 ¿A qué puntaje Z corresponde el percentil 10?
 
 ### Opciones
-- [ ] A) 1,28 <!-- feedback: Incorrecto. Ese es el P90. -->
-- [x] B) -1,28 <!-- feedback: Correcto. Debido a la simetría, si el 10% superior empieza en Z=1,28, el 10% inferior termina en Z=-1,28. -->
+- [ ] B) 1,28 <!-- feedback: Incorrecto. Ese es el P90. -->
+- [x] A) -1,28 <!-- feedback: Correcto. Debido a la simetría, si el 10% superior empieza en Z=1,28, el 10% inferior termina en Z=-1,28. -->
 - [ ] C) 0 <!-- feedback: Incorrecto. Este es el percentil 50. -->
 - [ ] D) -0,90 <!-- feedback: Incorrecto. El puntaje Z no es igual al porcentaje. -->
 
@@ -406,8 +406,8 @@ La simetría de la distribución normal implica que los percentiles complementar
 ¿Cuál es el valor de la media (μ) y la desviación estándar (σ)? Dato: Z para el 10% superior es 1,28.
 
 ### Opciones
-- [x] A) μ = 500, σ = 78,1 <!-- feedback: Correcto. Por simetría, la media está en el centro: (600+400)/2 = 500. Luego, 600 = 500 + 1,28*σ => 100 = 1,28*σ => σ = 100/1,28 = 78,125. -->
-- [ ] B) μ = 500, σ = 100 <!-- feedback: Incorrecto. Olvidó el factor Z de 1,28. -->
+- [x] B) μ = 500, σ = 78,1 <!-- feedback: Correcto. Por simetría, la media está en el centro: (600+400)/2 = 500. Luego, 600 = 500 + 1,28*σ => 100 = 1,28*σ => σ = 100/1,28 = 78,125. -->
+- [ ] A) μ = 500, σ = 100 <!-- feedback: Incorrecto. Olvidó el factor Z de 1,28. -->
 - [ ] C) μ = 450, σ = 50 <!-- feedback: Incorrecto. La media no es 450 debido a la simetría de los porcentajes extremos. -->
 - [ ] D) μ = 500, σ = 128 <!-- feedback: Incorrecto. Multiplicó mal los factores. -->
 
@@ -430,9 +430,9 @@ Si la empresa quiere que solo se rechace el 1% de las botellas (Z para 1% es -2,
 
 ### Opciones
 - [ ] A) 2010 ml <!-- feedback: Incorrecto. Con este valor se rechazaría más del 1%. -->
-- [x] B) 2008,3 ml <!-- feedback: Correcto. Queremos que 1985 corresponda a Z = -2,33. -2,33 = (1985 - μ) / 10 => -23,3 = 1985 - μ => μ = 1985 + 23,3 = 2008,3 ml. -->
-- [ ] C) 2000 ml <!-- feedback: Incorrecto. Este es el valor actual donde se rechaza más. -->
-- [ ] D) 1995,5 ml <!-- feedback: Incorrecto. Bajar la media aumentaría la cantidad de botellas vacías. -->
+- [x] D) 2008,3 ml <!-- feedback: Correcto. Queremos que 1985 corresponda a Z = -2,33. -2,33 = (1985 - μ) / 10 => -23,3 = 1985 - μ => μ = 1985 + 23,3 = 2008,3 ml. -->
+- [ ] B) 2000 ml <!-- feedback: Incorrecto. Este es el valor actual donde se rechaza más. -->
+- [ ] C) 1995,5 ml <!-- feedback: Incorrecto. Bajar la media aumentaría la cantidad de botellas vacías. -->
 
 ### Explicacion Pedagogica
 Para reducir el desperdicio (rechazos), la empresa debe "alejar" el promedio del límite crítico. Calculamos el nuevo promedio necesario para que el límite de 1985 quede a 2,33 desviaciones estándar de la media.
@@ -476,9 +476,9 @@ Para muestras grandes, la Binomial se aproxima a la Normal. Aquí μ=200 y σ=10
 
 ### Opciones
 - [ ] A) 50 <!-- feedback: Incorrecto. Verifique el cálculo de la desviación estándar primero. -->
-- [x] B) 55 <!-- feedback: Correcto. 70 = 40 + 2*σ => 30 = 2σ => σ = 15. Para el top 15,87% (Z=1): x = 40 + 1*15 = 55. -->
-- [ ] C) 60 <!-- feedback: Incorrecto. Esto correspondería a un valor intermedio. -->
-- [ ] D) 45 <!-- feedback: Incorrecto. Demasiado cerca de la media. -->
+- [x] D) 55 <!-- feedback: Correcto. 70 = 40 + 2*σ => 30 = 2σ => σ = 15. Para el top 15,87% (Z=1): x = 40 + 1*15 = 55. -->
+- [ ] B) 60 <!-- feedback: Incorrecto. Esto correspondería a un valor intermedio. -->
+- [ ] C) 45 <!-- feedback: Incorrecto. Demasiado cerca de la media. -->
 
 ### Explicacion Pedagogica
 Primero calculamos σ usando el dato del top 2,28% (Z=2), lo que nos da σ = 15. Luego aplicamos Z=1 para hallar el valor correspondiente al top 15,87%. x = 40 + 15 = 55.

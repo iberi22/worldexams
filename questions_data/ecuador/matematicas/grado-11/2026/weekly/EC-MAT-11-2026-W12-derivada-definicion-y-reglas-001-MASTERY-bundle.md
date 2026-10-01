@@ -35,9 +35,9 @@ bundle_index: 1
 ¿Cuál es la interpretación geométrica fundamental de la derivada de una función en un punto dado?
 
 ### Opciones
-- [ ] A) El área bajo la curva en ese punto.
+- [ ] B) El área bajo la curva en ese punto.
   <!-- feedback: Incorrecto. El área bajo la curva se asocia con la integral. -->
-- [x] B) La pendiente de la recta tangente a la curva en ese punto.
+- [x] A) La pendiente de la recta tangente a la curva en ese punto.
   <!-- feedback: Correcto. La derivada representa la tasa de cambio instantánea, que gráficamente es la pendiente de la tangente. -->
 - [ ] C) La intersección de la función con el eje de las ordenadas.
   <!-- feedback: Incorrecto. Eso es el valor de $f(0)$. -->
@@ -85,9 +85,9 @@ La derivada se define como el límite del cociente de la diferencia (cambio en $
 Dada la función $f(x) = x^5$, ¿cuál es su derivada $f'(x)$?
 
 ### Opciones
-- [ ] A) $5x^6$
+- [ ] B) $5x^6$
   <!-- feedback: Incorrecto. Sumó 1 al exponente en lugar de restarlo. -->
-- [x] B) $5x^4$
+- [x] A) $5x^4$
   <!-- feedback: Correcto. Según la regla de la potencia $\frac{d}{dx}x^n = nx^{n-1}$. -->
 - [ ] C) $x^4$
   <!-- feedback: Incorrecto. Olvidó multiplicar por el exponente original. -->
@@ -110,11 +110,11 @@ La regla de la potencia establece que para derivar $x^n$, se baja el exponente c
 Si $f(x) = \pi^2$, ¿cuál es el valor de $f'(x)$?
 
 ### Opciones
-- [x] A) 0
+- [x] C) 0
   <!-- feedback: Correcto. La derivada de cualquier constante es cero, ya que no hay cambio en su valor. -->
-- [ ] B) $2\pi$
+- [ ] A) $2\pi$
   <!-- feedback: Incorrecto. Aplicó la regla de la potencia a una constante como si fuera una variable. -->
-- [ ] C) $\pi$
+- [ ] B) $\pi$
   <!-- feedback: Incorrecto. La derivada no mantiene el valor de la base constante. -->
 - [ ] D) 1
   <!-- feedback: Incorrecto. Error conceptual sobre la tasa de cambio de las constantes. -->
@@ -139,9 +139,9 @@ Dado que una función constante representa una línea horizontal, su pendiente (
 ¿Cuál es la función que representa la pendiente de la tangente en cualquier punto del arco?
 
 ### Opciones
-- [ ] A) $h'(x) = -4x^2 + 8$
+- [ ] B) $h'(x) = -4x^2 + 8$
   <!-- feedback: Incorrecto. Olvidó restar 1 al exponente en el primer término. -->
-- [x] B) $h'(x) = -4x + 8$
+- [x] A) $h'(x) = -4x + 8$
   <!-- feedback: Correcto. Derivando término a término: $-2(2x^{2-1}) + 8(1x^{1-1}) = -4x + 8$. -->
 - [ ] C) $h'(x) = -2x + 8$
   <!-- feedback: Incorrecto. No multiplicó el coeficiente por el exponente original. -->
@@ -191,9 +191,9 @@ Si $f(x) = (x^2 + 1)(x - 3)$, calcule $f'(x)$.
 ### Opciones
 - [ ] A) $2x$
   <!-- feedback: Incorrecto. Solo derivó el primer factor. -->
-- [x] B) $3x^2 - 6x + 1$
+- [x] C) $3x^2 - 6x + 1$
   <!-- feedback: Correcto. Expandiendo: $x^3 - 3x^2 + x - 3$. Derivando: $3x^2 - 6x + 1$. También se obtiene por regla del producto: $(2x)(x-3) + (x^2+1)(1)$. -->
-- [ ] C) $2x^2 - 6x$
+- [ ] B) $2x^2 - 6x$
   <!-- feedback: Incorrecto. Error en la expansión o aplicación de la regla. -->
 - [ ] D) $3x^2 - 6x$
   <!-- feedback: Incorrecto. Olvidó la derivada del término lineal $x$. -->
@@ -216,11 +216,11 @@ Halle la derivada de $y = \frac{x}{x + 1}$.
 ### Opciones
 - [ ] A) 1
   <!-- feedback: Incorrecto. No se simplifican las derivadas del numerador y denominador. -->
-- [x] B) $\frac{1}{(x + 1)^2}$
+- [x] D) $\frac{1}{(x + 1)^2}$
   <!-- feedback: Correcto. Aplicando la regla del cociente: $\frac{(1)(x+1) - (x)(1)}{(x+1)^2} = \frac{x+1-x}{(x+1)^2} = \frac{1}{(x+1)^2}$. -->
-- [ ] C) $\frac{2x + 1}{(x + 1)^2}$
+- [ ] B) $\frac{2x + 1}{(x + 1)^2}$
   <!-- feedback: Incorrecto. Error de signo en la fórmula del numerador. -->
-- [ ] D) $\frac{1}{x^2 + 1}$
+- [ ] C) $\frac{1}{x^2 + 1}$
   <!-- feedback: Incorrecto. El denominador debe ser el cuadrado del original. -->
 
 ### Explicacion Pedagogica
@@ -241,9 +241,9 @@ La regla del cociente es esencial para funciones racionales: $(\frac{u}{v})' = \
 ### Opciones
 - [ ] A) $t = 2$ s
   <!-- feedback: Incorrecto. Valor donde la aceleración es cero, no la velocidad. -->
-- [x] B) $t = 1$ s y $t = 3$ s
+- [x] C) $t = 1$ s y $t = 3$ s
   <!-- feedback: Correcto. Velocidad $v(t) = s'(t) = 3t^2 - 12t + 9$. Igualando a cero: $3(t^2 - 4t + 3) = 0 \Rightarrow 3(t-1)(t-3) = 0$. -->
-- [ ] C) $t = 3$ s solamente
+- [ ] B) $t = 3$ s solamente
   <!-- feedback: Incorrecto. Omitió una de las raíces de la ecuación cuadrática. -->
 - [ ] D) $t = 0$ s
   <!-- feedback: Incorrecto. En $t=0$ la velocidad es 9 m/s. -->
@@ -293,9 +293,9 @@ Las raíces se tratan como potencias fraccionarias para aplicar la regla de la p
 Halle la ecuación de la recta tangente a $f(x) = x^2 + 3x$ en el punto donde $x = 1$.
 
 ### Opciones
-- [ ] A) $y = 5x + 4$
+- [ ] B) $y = 5x + 4$
   <!-- feedback: Incorrecto. Punto de intersección con el eje y calculado erróneamente. -->
-- [x] B) $y = 5x - 1$
+- [x] A) $y = 5x - 1$
   <!-- feedback: Correcto. $f(1) = 4$. Pendiente $f'(x) = 2x + 3 \Rightarrow f'(1) = 5$. Recta: $y - 4 = 5(x - 1) \Rightarrow y = 5x - 1$. -->
 - [ ] C) $y = 3x + 1$
   <!-- feedback: Incorrecto. Usó mal la derivada evaluada. -->
@@ -320,9 +320,9 @@ Dada la función de posición $s(t) = 2t^3 - 5t^2 + 4$, calcule la aceleración 
 ### Opciones
 - [ ] A) 4 m/s²
   <!-- feedback: Incorrecto. Valor de la velocidad, no de la aceleración. -->
-- [ ] B) 12 m/s²
+- [ ] C) 12 m/s²
   <!-- feedback: Incorrecto. Error en la evaluación de la segunda derivada. -->
-- [x] C) 14 m/s²
+- [x] B) 14 m/s²
   <!-- feedback: Correcto. $v(t) = 6t^2 - 10t$; $a(t) = 12t - 10$. En $t=2$: $12(2) - 10 = 14$. -->
 - [ ] D) 24 m/s²
   <!-- feedback: Incorrecto. Olvidó restar el término constante de la aceleración. -->
@@ -343,9 +343,9 @@ La aceleración instantánea es la segunda derivada de la posición con respecto
 ¿En qué valor de $x$ la función $f(x) = |x - 4|$ no es derivable?
 
 ### Opciones
-- [ ] A) $x = 0$
+- [ ] B) $x = 0$
   <!-- feedback: Incorrecto. La función es suave en 0. -->
-- [x] B) $x = 4$
+- [x] A) $x = 4$
   <!-- feedback: Correcto. En $x=4$ hay un "pico" o esquina donde los límites laterales de la pendiente no coinciden. -->
 - [ ] C) $x = -4$
   <!-- feedback: Incorrecto. La función es suave en -4. -->
@@ -368,9 +368,9 @@ La derivabilidad requiere que la curva sea suave. Los "puntos angulosos" o cúsp
 Halle $f'(x)$ si $f(x) = \frac{1}{\sqrt[3]{x}}$.
 
 ### Opciones
-- [ ] A) $-\frac{1}{3x^{2/3}}$
+- [ ] B) $-\frac{1}{3x^{2/3}}$
   <!-- feedback: Incorrecto. Error en el exponente resultante. -->
-- [x] B) $-\frac{1}{3x^{4/3}}$
+- [x] A) $-\frac{1}{3x^{4/3}}$
   <!-- feedback: Correcto. $x^{-1/3}$ derivado es $(-1/3)x^{-4/3}$. -->
 - [ ] C) $\frac{1}{3}x^{2/3}$
   <!-- feedback: Incorrecto. Error de signo y de operación con el exponente. -->
@@ -395,11 +395,11 @@ Si $f(x) = (3x + 2)^2$, calcule $f'(1)$ expandiendo primero el binomio.
 ### Opciones
 - [ ] A) 6
   <!-- feedback: Incorrecto. Solo derivó el interior. -->
-- [ ] B) 10
+- [ ] C) 10
   <!-- feedback: Incorrecto. Error en la evaluación. -->
-- [ ] C) 25
+- [ ] D) 25
   <!-- feedback: Incorrecto. Valor de la función, no de la derivada. -->
-- [x] D) 30
+- [x] B) 30
   <!-- feedback: Correcto. $f(x) = 9x^2 + 12x + 4$. Derivada $f'(x) = 18x + 12$. En $x=1$: $18+12 = 30$. -->
 
 ### Explicacion Pedagogica
@@ -449,9 +449,9 @@ Determine la tasa de cambio de la producción cuando se emplean $x = 1$ unidades
 ### Opciones
 - [ ] A) 100
   <!-- feedback: Incorrecto. No consideró la regla del cociente. -->
-- [x] B) 50
+- [x] C) 50
   <!-- feedback: Correcto. $P'(x) = \frac{200x(x^2+1) - 100x^2(2x)}{(x^2+1)^2} = \frac{200x^3+200x-200x^3}{(x^2+1)^2} = \frac{200x}{(x^2+1)^2}$. En $x=1$: $200/4 = 50$. -->
-- [ ] C) 0
+- [ ] B) 0
   <!-- feedback: Incorrecto. La producción sigue aumentando en ese punto. -->
 - [ ] D) 25
   <!-- feedback: Incorrecto. Error en la simplificación del numerador. -->
@@ -472,9 +472,9 @@ Aplicación de la regla del cociente para determinar la productividad marginal e
 Si en un instante dado la temperatura es de 15°C y la constante $k = 0.1$, ¿cuál es la tasa de cambio de la temperatura en ese momento?
 
 ### Opciones
-- [ ] A) 0.1 °C/unidad de tiempo
+- [ ] B) 0.1 °C/unidad de tiempo
   <!-- feedback: Incorrecto. No multiplicó por la diferencia de temperatura. -->
-- [x] B) 1.0 °C/unidad de tiempo
+- [x] A) 1.0 °C/unidad de tiempo
   <!-- feedback: Correcto. $T' = 0.1(25 - 15) = 0.1(10) = 1.0$. -->
 - [ ] C) 2.5 °C/unidad de tiempo
   <!-- feedback: Incorrecto. Usó mal los valores de la fórmula. -->
@@ -499,11 +499,11 @@ Dada $f(x) = \frac{1}{x}$, ¿cuál es la expresión general para la $n$-ésima d
 ### Opciones
 - [ ] A) $\frac{n!}{x^{n+1}}$
   <!-- feedback: Incorrecto. Olvidó la alternancia de signos. -->
-- [x] B) $\frac{(-1)^n n!}{x^{n+1}}$
+- [x] D) $\frac{(-1)^n n!}{x^{n+1}}$
   <!-- feedback: Correcto. $f' = -1/x^2$, $f'' = 2/x^3$, $f''' = -6/x^4$. El patrón es $(-1)^n n! x^{-(n+1)}$. -->
-- [ ] C) $(-1)^n \frac{1}{x^n}$
+- [ ] B) $(-1)^n \frac{1}{x^n}$
   <!-- feedback: Incorrecto. Omitió el factorial en el numerador. -->
-- [ ] D) $\frac{1}{x^{n+1}}$
+- [ ] C) $\frac{1}{x^{n+1}}$
   <!-- feedback: Incorrecto. No consideró ni los coeficientes ni los signos. -->
 
 ### Explicacion Pedagogica

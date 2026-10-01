@@ -33,8 +33,8 @@ creador: "Jules-Agent"
 ¿A qué se refiere el término "intención comunicativa" en un proceso de comunicación?
 
 ### Opciones
-- [ ] A) Al idioma o lengua que utilizan el emisor y el receptor. <!-- feedback: Incorrecto. Eso se refiere al código, no a la intención. -->
-- [x] B) Al propósito o meta que el emisor desea alcanzar con su mensaje. <!-- feedback: Correcto. La intención comunicativa es el objetivo que perseguimos cuando hablamos, escribimos o emitimos algún mensaje. -->
+- [ ] B) Al idioma o lengua que utilizan el emisor y el receptor. <!-- feedback: Incorrecto. Eso se refiere al código, no a la intención. -->
+- [x] A) Al propósito o meta que el emisor desea alcanzar con su mensaje. <!-- feedback: Correcto. La intención comunicativa es el objetivo que perseguimos cuando hablamos, escribimos o emitimos algún mensaje. -->
 - [ ] C) Al medio físico por el cual se transmite la información. <!-- feedback: Incorrecto. Eso se refiere al canal de comunicación. -->
 - [ ] D) A las interferencias que impiden que el mensaje llegue claramente. <!-- feedback: Incorrecto. Eso se refiere al ruido en la comunicación. -->
 
@@ -55,8 +55,8 @@ La intención comunicativa es el propósito, meta u objetivo que todo emisor tie
 
 ### Opciones
 - [ ] A) Narrar una historia sobre el parque. <!-- feedback: Incorrecto. El texto no cuenta sucesos ni tiene personajes. -->
-- [ ] B) Expresar los sentimientos del guardaparques. <!-- feedback: Incorrecto. No se centra en emociones personales, sino en una instrucción. -->
-- [x] C) Persuadir o dar una instrucción al ciudadano para que actúe de cierta forma. <!-- feedback: Correcto. La intención es apelativa o conativa, ya que busca influir en el comportamiento del receptor. -->
+- [ ] C) Expresar los sentimientos del guardaparques. <!-- feedback: Incorrecto. No se centra en emociones personales, sino en una instrucción. -->
+- [x] B) Persuadir o dar una instrucción al ciudadano para que actúe de cierta forma. <!-- feedback: Correcto. La intención es apelativa o conativa, ya que busca influir en el comportamiento del receptor. -->
 - [ ] D) Describir detalladamente los botes de basura del parque. <!-- feedback: Incorrecto. No se enfoca en las características físicas de los botes, sino en su uso. -->
 
 ### Explicacion Pedagogica
@@ -75,9 +75,9 @@ Cuando un mensaje busca que el receptor realice una acción o cambie una conduct
 Si el presentador dice: "Se esperan lluvias moderadas en el sur del Valle de Aburrá después de las 3:00 p.m.", ¿cuál es su intención comunicativa?
 
 ### Opciones
-- [x] A) Informativa, pues transmite datos objetivos sobre la realidad. <!-- feedback: Correcto. La intención es referencial o informativa, ya que su objetivo es dar a conocer un hecho o dato objetivo. -->
-- [ ] B) Literaria, ya que usa palabras bellas para hablar de la lluvia. <!-- feedback: Incorrecto. El lenguaje es directo y funcional, no busca crear belleza artística. -->
-- [ ] C) Emotiva, porque el presentador está muy triste por la lluvia. <!-- feedback: Incorrecto. El mensaje no se centra en los sentimientos del emisor. -->
+- [x] C) Informativa, pues transmite datos objetivos sobre la realidad. <!-- feedback: Correcto. La intención es referencial o informativa, ya que su objetivo es dar a conocer un hecho o dato objetivo. -->
+- [ ] A) Literaria, ya que usa palabras bellas para hablar de la lluvia. <!-- feedback: Incorrecto. El lenguaje es directo y funcional, no busca crear belleza artística. -->
+- [ ] B) Emotiva, porque el presentador está muy triste por la lluvia. <!-- feedback: Incorrecto. El mensaje no se centra en los sentimientos del emisor. -->
 - [ ] D) Metalingüística, porque explica el significado de la palabra "lluvia". <!-- feedback: Incorrecto. No se está hablando sobre el código o el lenguaje en sí. -->
 
 ### Explicacion Pedagogica
@@ -98,8 +98,8 @@ En esta situación, ¿cuál es la intención comunicativa del vendedor y qué fu
 ### Opciones
 - [ ] A) Informativa, porque nos dice el precio exacto de las mandarinas. <!-- feedback: Incorrecto. Aunque da información, su meta principal no es informar sino vender. -->
 - [ ] B) Poética, porque rima las palabras para que suenen como una canción. <!-- feedback: Incorrecto. No es la función predominante, aunque use recursos llamativos. -->
-- [x] C) Persuasiva, porque busca convencer a los clientes para que compren su producto. <!-- feedback: Correcto. La intención es convencer al receptor (persuadir) para realizar una compra. -->
-- [ ] D) Expresiva, porque el vendedor quiere que sepamos que está muy feliz vendiendo. <!-- feedback: Incorrecto. Su alegría es un medio, pero su meta final es la venta. -->
+- [x] D) Persuasiva, porque busca convencer a los clientes para que compren su producto. <!-- feedback: Correcto. La intención es convencer al receptor (persuadir) para realizar una compra. -->
+- [ ] C) Expresiva, porque el vendedor quiere que sepamos que está muy feliz vendiendo. <!-- feedback: Incorrecto. Su alegría es un medio, pero su meta final es la venta. -->
 
 ### Explicacion Pedagogica
 En contextos comerciales, como el de una plaza de mercado o galería, la intención predominante es la persuasiva. El emisor utiliza adjetivos positivos ("dulce", "fresquita") para influir en la decisión del comprador.
@@ -139,9 +139,9 @@ La intención expresiva o emotiva ocurre cuando el emisor exterioriza lo que sie
 
 ### Opciones
 - [ ] A) Informar sobre el tipo de luz que emiten los ojos humanos. <!-- feedback: Incorrecto. No es una descripción científica u objetiva. -->
-- [x] B) Estética o literaria, buscando crear belleza y sugerir sentimientos a través del lenguaje. <!-- feedback: Correcto. La función poética o estética se centra en el mensaje mismo, cuidando su forma para producir un efecto artístico. -->
-- [ ] C) Instructiva, para enseñar a las personas cómo caminar en la oscuridad. <!-- feedback: Incorrecto. El poema no da pasos a seguir ni reglas. -->
-- [ ] D) Referencial, para dar datos exactos sobre la ubicación de los luceros. <!-- feedback: Incorrecto. Los luceros son una metáfora, no datos astronómicos. -->
+- [x] D) Estética o literaria, buscando crear belleza y sugerir sentimientos a través del lenguaje. <!-- feedback: Correcto. La función poética o estética se centra en el mensaje mismo, cuidando su forma para producir un efecto artístico. -->
+- [ ] B) Instructiva, para enseñar a las personas cómo caminar en la oscuridad. <!-- feedback: Incorrecto. El poema no da pasos a seguir ni reglas. -->
+- [ ] C) Referencial, para dar datos exactos sobre la ubicación de los luceros. <!-- feedback: Incorrecto. Los luceros son una metáfora, no datos astronómicos. -->
 
 ### Explicacion Pedagogica
 La intención estética o literaria busca conmover o agradar al receptor a través de la forma del mensaje. No se limita a transmitir información, sino que utiliza figuras literarias (como la metáfora de los "luceros") para embellecer la expresión.
@@ -160,8 +160,8 @@ La intención estética o literaria busca conmover o agradar al receptor a trav�
 
 ### Opciones
 - [ ] A) Pedir perdón por llegar tarde a la reunión virtual. <!-- feedback: Incorrecto. Las frases no expresan disculpas. -->
-- [ ] B) Informar a sus amigos sobre un tema muy importante de la clase. <!-- feedback: Incorrecto. Aún no ha empezado a dar información. -->
-- [x] C) Fática o de contacto, para verificar que el canal de comunicación esté abierto y funcione. <!-- feedback: Correcto. La función fática se usa para iniciar, mantener, interrumpir o finalizar una conversación y comprobar el canal. -->
+- [ ] C) Informar a sus amigos sobre un tema muy importante de la clase. <!-- feedback: Incorrecto. Aún no ha empezado a dar información. -->
+- [x] B) Fática o de contacto, para verificar que el canal de comunicación esté abierto y funcione. <!-- feedback: Correcto. La función fática se usa para iniciar, mantener, interrumpir o finalizar una conversación y comprobar el canal. -->
 - [ ] D) Metalingüística, para explicar las reglas de la gramática española. <!-- feedback: Incorrecto. No está hablando sobre el idioma. -->
 
 ### Explicacion Pedagogica
@@ -180,9 +180,9 @@ La función fática se centra en el canal de comunicación. Su propósito no es 
 ¿Cuál es la intención comunicativa predominante en un diccionario al presentar este tipo de definiciones?
 
 ### Opciones
-- [ ] A) Persuadir al lector para que use más el diccionario. <!-- feedback: Incorrecto. Aunque el diseño ayude, la definición en sí no busca convencer. -->
-- [ ] B) Expresar los sentimientos del autor del diccionario. <!-- feedback: Incorrecto. Las definiciones deben ser objetivas, no personales. -->
-- [x] C) Metalingüística, ya que utiliza el lenguaje para explicar el lenguaje mismo. <!-- feedback: Correcto. La función metalingüística aparece cuando hablamos sobre el código (la lengua) para aclarar términos o reglas. -->
+- [ ] B) Persuadir al lector para que use más el diccionario. <!-- feedback: Incorrecto. Aunque el diseño ayude, la definición en sí no busca convencer. -->
+- [ ] C) Expresar los sentimientos del autor del diccionario. <!-- feedback: Incorrecto. Las definiciones deben ser objetivas, no personales. -->
+- [x] A) Metalingüística, ya que utiliza el lenguaje para explicar el lenguaje mismo. <!-- feedback: Correcto. La función metalingüística aparece cuando hablamos sobre el código (la lengua) para aclarar términos o reglas. -->
 - [ ] D) Estética, porque las palabras están ordenadas alfabéticamente. <!-- feedback: Incorrecto. El orden alfabético es funcional, no busca belleza artística. -->
 
 ### Explicacion Pedagogica
@@ -203,8 +203,8 @@ En este contexto, ¿por qué la intención comunicativa es compleja y mezcla dif
 ### Opciones
 - [ ] A) Porque solo quiere informar sobre el estado de las canchas actuales. <!-- feedback: Incorrecto. Informar es solo una parte mínima del mensaje. -->
 - [ ] B) Porque busca expresar su tristeza por la falta de arte en el colegio. <!-- feedback: Incorrecto. Su objetivo no es desahogarse, sino ganar votos. -->
-- [x] C) Porque utiliza una base informativa para lograr un fin persuasivo o apelativo (ganar el voto). <!-- feedback: Correcto. Muchos mensajes mezclan funciones. Aquí se da una "promesa" (información) con la intención final de influir en el receptor (voto). -->
-- [ ] D) Porque el candidato no sabe qué quiere decir realmente. <!-- feedback: Incorrecto. El candidato tiene una meta clara: ser elegido. -->
+- [x] D) Porque utiliza una base informativa para lograr un fin persuasivo o apelativo (ganar el voto). <!-- feedback: Correcto. Muchos mensajes mezclan funciones. Aquí se da una "promesa" (información) con la intención final de influir en el receptor (voto). -->
+- [ ] C) Porque el candidato no sabe qué quiere decir realmente. <!-- feedback: Incorrecto. El candidato tiene una meta clara: ser elegido. -->
 
 ### Explicacion Pedagogica
 Los actos comunicativos rara vez son puros. Un mensaje puede informar algo con el fin último de convencer. En la publicidad y la política, la información suele estar al servicio de la persuasión (intención apelativa).
@@ -223,8 +223,8 @@ Los actos comunicativos rara vez son puros. Un mensaje puede informar algo con e
 
 ### Opciones
 - [ ] A) Es totalmente informativa de principio a fin. <!-- feedback: Incorrecto. La petición de no tocar las estatuas rompe la pura información. -->
-- [ ] B) Es puramente apelativa porque solo le importa que no dañen las piedras. <!-- feedback: Incorrecto. El guía también explica historia, lo cual es informativo. -->
-- [x] C) Combina la intención informativa (historia de las estatuas) con la intención apelativa (instrucción de no tocar). <!-- feedback: Correcto. El guía cumple dos roles: educar (informar) y proteger el patrimonio (dar instrucciones/apelativo). -->
+- [ ] C) Es puramente apelativa porque solo le importa que no dañen las piedras. <!-- feedback: Incorrecto. El guía también explica historia, lo cual es informativo. -->
+- [x] B) Combina la intención informativa (historia de las estatuas) con la intención apelativa (instrucción de no tocar). <!-- feedback: Correcto. El guía cumple dos roles: educar (informar) y proteger el patrimonio (dar instrucciones/apelativo). -->
 - [ ] D) Es una intención fática porque solo quiere que los turistas lo miren a él. <!-- feedback: Incorrecto. El contenido es relevante, no es solo para mantener el contacto. -->
 
 ### Explicacion Pedagogica

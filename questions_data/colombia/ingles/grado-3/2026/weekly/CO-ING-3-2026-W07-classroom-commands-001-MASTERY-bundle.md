@@ -33,9 +33,9 @@ creador: "Jules-Agent"
 What is the English word for: "A place where you live or stay on holiday."
 
 ### Opciones
-- [x] A) accommodation
+- [x] B) accommodation
   <!-- feedback: Correct! 'accommodation' matches the definition. -->
-- [ ] B) transportation
+- [ ] A) transportation
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) entertainment
   <!-- feedback: Incorrect. Try again. -->
@@ -79,13 +79,13 @@ The word 'itinerary' is used to describe a detailed plan or route of a journey. 
 What is the English word for: "The place to which someone or something is going or being sent."
 
 ### Opciones
-- [x] A) destination
+- [x] D) destination
   <!-- feedback: Correct! 'destination' matches the definition. -->
-- [ ] B) departure
+- [ ] A) departure
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) arrival
+- [ ] B) arrival
   <!-- feedback: Incorrect. Try again. -->
-- [ ] D) journey
+- [ ] C) journey
   <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica
@@ -102,11 +102,11 @@ The word 'destination' is used to describe the place to which someone or somethi
 What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
 
 ### Opciones
-- [x] A) luggage
+- [x] C) luggage
   <!-- feedback: Correct! 'luggage' matches the definition. -->
-- [ ] B) ticket
+- [ ] A) ticket
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) flight
+- [ ] B) flight
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) reservation
   <!-- feedback: Incorrect. Try again. -->
@@ -148,9 +148,9 @@ The word 'passenger' is used to describe a traveler on a public or private conve
 What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
 
 ### Opciones
-- [x] A) customs
+- [x] B) customs
   <!-- feedback: Correct! 'customs' matches the definition. -->
-- [ ] B) security
+- [ ] A) security
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) terminal
   <!-- feedback: Incorrect. Try again. -->
@@ -194,9 +194,9 @@ The word 'boarding pass' is used to describe a document provided by an airline d
 What is the English word for: "The activity of visiting places of interest in a particular location."
 
 ### Opciones
-- [x] A) sightseeing
+- [x] B) sightseeing
   <!-- feedback: Correct! 'sightseeing' matches the definition. -->
-- [ ] B) shopping
+- [ ] A) shopping
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) hiking
   <!-- feedback: Incorrect. Try again. -->

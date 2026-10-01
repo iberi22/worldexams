@@ -34,9 +34,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Cuál es el resultado de expandir el producto notable conocido como binomio al cuadrado (a + b)^2?
 
 ### Opciones
-- [x] A) a^2 + 2ab + b^2 <!-- feedback: ¡Correcto! El cuadrado de un binomio es igual al cuadrado del primer término, más el doble producto del primero por el segundo, más el cuadrado del segundo. -->
-- [ ] B) a^2 + b^2 <!-- feedback: Incorrecto. Olvidaste el término del doble producto cruzado (2ab), un error algebraico clásico. -->
-- [ ] C) a^2 - 2ab + b^2 <!-- feedback: Incorrecto. Este es el desarrollo de (a - b)^2, no de (a + b)^2. -->
+- [x] C) a^2 + 2ab + b^2 <!-- feedback: ¡Correcto! El cuadrado de un binomio es igual al cuadrado del primer término, más el doble producto del primero por el segundo, más el cuadrado del segundo. -->
+- [ ] A) a^2 + b^2 <!-- feedback: Incorrecto. Olvidaste el término del doble producto cruzado (2ab), un error algebraico clásico. -->
+- [ ] B) a^2 - 2ab + b^2 <!-- feedback: Incorrecto. Este es el desarrollo de (a - b)^2, no de (a + b)^2. -->
 - [ ] D) a^2 + ab + b^2 <!-- feedback: Incorrecto. Olvidaste multiplicar por 2 el término cruzado de los factores. -->
 
 ### Explicacion Pedagogica
@@ -54,10 +54,10 @@ El desarrollo algebraico de (a + b)^2 se obtiene multiplicando (a + b)(a + b) = 
 ¿Cuál es el resultado de factorizar la diferencia de cuadrados perfectos x^2 - y^2?
 
 ### Opciones
-- [x] A) (x - y)(x + y) <!-- feedback: ¡Correcto! La diferencia de cuadrados de dos términos es igual al producto de la suma por la diferencia de dichos términos. -->
-- [ ] B) (x - y)^2 <!-- feedback: Incorrecto. Esto expande a x^2 - 2xy + y^2, no a x^2 - y^2. -->
-- [ ] C) (x + y)^2 <!-- feedback: Incorrecto. Esto expande a x^2 + 2xy + y^2, no a x^2 - y^2. -->
-- [ ] D) x^2 - 2xy + y^2 <!-- feedback: Incorrecto. Esta expresión es el trinomio de un binomio al cuadrado, no la forma factorizada. -->
+- [x] D) (x - y)(x + y) <!-- feedback: ¡Correcto! La diferencia de cuadrados de dos términos es igual al producto de la suma por la diferencia de dichos términos. -->
+- [ ] A) (x - y)^2 <!-- feedback: Incorrecto. Esto expande a x^2 - 2xy + y^2, no a x^2 - y^2. -->
+- [ ] B) (x + y)^2 <!-- feedback: Incorrecto. Esto expande a x^2 + 2xy + y^2, no a x^2 - y^2. -->
+- [ ] C) x^2 - 2xy + y^2 <!-- feedback: Incorrecto. Esta expresión es el trinomio de un binomio al cuadrado, no la forma factorizada. -->
 
 ### Explicacion Pedagogica
 Por la regla de productos notables, la diferencia de cuadrados se descompone en el producto de binomios conjugados: (x - y)(x + y).
@@ -174,9 +174,9 @@ Se descompone el numerador como diferencia de cuadrados (x - 7)(x + 7) y el deno
 Simplifique la fracción algebraica: (x^2 - 64) / (x^2 - 16x + 63)
 
 ### Opciones
-- [x] A) (x + 8) / (x - 7) <!-- feedback: ¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común. -->
-- [ ] B) x + 3 <!-- feedback: Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica. -->
-- [ ] C) 1 <!-- feedback: Incorrecto. La fracción no simplifica a una unidad constante. -->
+- [x] C) (x + 8) / (x - 7) <!-- feedback: ¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común. -->
+- [ ] A) x + 3 <!-- feedback: Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica. -->
+- [ ] B) 1 <!-- feedback: Incorrecto. La fracción no simplifica a una unidad constante. -->
 - [ ] D) (x - 8) / (x + 8) <!-- feedback: Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común. -->
 
 ### Explicacion Pedagogica
@@ -194,8 +194,8 @@ Se descompone el numerador como diferencia de cuadrados (x - 8)(x + 8) y el deno
 Simplifique la fracción algebraica: (x^2 - 81) / (x^2 - 18x + 79)
 
 ### Opciones
-- [x] A) (x + 9) / (x - 8) <!-- feedback: ¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común. -->
-- [ ] B) x + 3 <!-- feedback: Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica. -->
+- [x] B) (x + 9) / (x - 8) <!-- feedback: ¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común. -->
+- [ ] A) x + 3 <!-- feedback: Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica. -->
 - [ ] C) 1 <!-- feedback: Incorrecto. La fracción no simplifica a una unidad constante. -->
 - [ ] D) (x - 9) / (x + 9) <!-- feedback: Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común. -->
 
@@ -234,8 +234,8 @@ Se descompone el numerador como diferencia de cuadrados (x - 10)(x + 10) y el de
 Simplifique la fracción algebraica: (x^2 - 121) / (x^2 - 22x + 119)
 
 ### Opciones
-- [x] A) (x + 11) / (x - 10) <!-- feedback: ¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común. -->
-- [ ] B) x + 3 <!-- feedback: Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica. -->
+- [x] B) (x + 11) / (x - 10) <!-- feedback: ¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común. -->
+- [ ] A) x + 3 <!-- feedback: Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica. -->
 - [ ] C) 1 <!-- feedback: Incorrecto. La fracción no simplifica a una unidad constante. -->
 - [ ] D) (x - 11) / (x + 11) <!-- feedback: Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común. -->
 
@@ -254,8 +254,8 @@ Se descompone el numerador como diferencia de cuadrados (x - 11)(x + 11) y el de
 Simplifique la fracción algebraica: (x^2 - 144) / (x^2 - 24x + 143)
 
 ### Opciones
-- [x] A) (x + 12) / (x - 11) <!-- feedback: ¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común. -->
-- [ ] B) x + 3 <!-- feedback: Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica. -->
+- [x] B) (x + 12) / (x - 11) <!-- feedback: ¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común. -->
+- [ ] A) x + 3 <!-- feedback: Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica. -->
 - [ ] C) 1 <!-- feedback: Incorrecto. La fracción no simplifica a una unidad constante. -->
 - [ ] D) (x - 12) / (x + 12) <!-- feedback: Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común. -->
 
@@ -274,9 +274,9 @@ Se descompone el numerador como diferencia de cuadrados (x - 12)(x + 12) y el de
 Simplifique la fracción algebraica: (x^2 - 169) / (x^2 - 26x + 167)
 
 ### Opciones
-- [x] A) (x + 13) / (x - 12) <!-- feedback: ¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común. -->
-- [ ] B) x + 3 <!-- feedback: Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica. -->
-- [ ] C) 1 <!-- feedback: Incorrecto. La fracción no simplifica a una unidad constante. -->
+- [x] C) (x + 13) / (x - 12) <!-- feedback: ¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común. -->
+- [ ] A) x + 3 <!-- feedback: Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica. -->
+- [ ] B) 1 <!-- feedback: Incorrecto. La fracción no simplifica a una unidad constante. -->
 - [ ] D) (x - 13) / (x + 13) <!-- feedback: Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común. -->
 
 ### Explicacion Pedagogica
@@ -294,8 +294,8 @@ Se descompone el numerador como diferencia de cuadrados (x - 13)(x + 13) y el de
 Simplifique la fracción algebraica: (x^2 - 196) / (x^2 - 28x + 195)
 
 ### Opciones
-- [x] A) (x + 14) / (x - 13) <!-- feedback: ¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común. -->
-- [ ] B) x + 3 <!-- feedback: Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica. -->
+- [x] B) (x + 14) / (x - 13) <!-- feedback: ¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común. -->
+- [ ] A) x + 3 <!-- feedback: Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica. -->
 - [ ] C) 1 <!-- feedback: Incorrecto. La fracción no simplifica a una unidad constante. -->
 - [ ] D) (x - 14) / (x + 14) <!-- feedback: Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común. -->
 
@@ -314,8 +314,8 @@ Se descompone el numerador como diferencia de cuadrados (x - 14)(x + 14) y el de
 Simplifique la fracción algebraica: (x^2 - 225) / (x^2 - 30x + 223)
 
 ### Opciones
-- [x] A) (x + 15) / (x - 14) <!-- feedback: ¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común. -->
-- [ ] B) x + 3 <!-- feedback: Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica. -->
+- [x] B) (x + 15) / (x - 14) <!-- feedback: ¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común. -->
+- [ ] A) x + 3 <!-- feedback: Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica. -->
 - [ ] C) 1 <!-- feedback: Incorrecto. La fracción no simplifica a una unidad constante. -->
 - [ ] D) (x - 15) / (x + 15) <!-- feedback: Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común. -->
 
@@ -354,10 +354,10 @@ Se descompone el numerador como diferencia de cuadrados (x - 16)(x + 16) y el de
 Simplifique la fracción algebraica: (x^2 - 289) / (x^2 - 34x + 287)
 
 ### Opciones
-- [x] A) (x + 17) / (x - 16) <!-- feedback: ¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común. -->
-- [ ] B) x + 3 <!-- feedback: Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica. -->
-- [ ] C) 1 <!-- feedback: Incorrecto. La fracción no simplifica a una unidad constante. -->
-- [ ] D) (x - 17) / (x + 17) <!-- feedback: Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común. -->
+- [x] D) (x + 17) / (x - 16) <!-- feedback: ¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común. -->
+- [ ] A) x + 3 <!-- feedback: Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica. -->
+- [ ] B) 1 <!-- feedback: Incorrecto. La fracción no simplifica a una unidad constante. -->
+- [ ] C) (x - 17) / (x + 17) <!-- feedback: Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común. -->
 
 ### Explicacion Pedagogica
 Se descompone el numerador como diferencia de cuadrados (x - 17)(x + 17) y el denominador de manera equivalente, cancelando el término común no nulo.
@@ -414,9 +414,9 @@ Se descompone el numerador como diferencia de cuadrados (x - 19)(x + 19) y el de
 Simplifique la fracción algebraica: (x^2 - 400) / (x^2 - 40x + 399)
 
 ### Opciones
-- [x] A) (x + 20) / (x - 19) <!-- feedback: ¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común. -->
-- [ ] B) x + 3 <!-- feedback: Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica. -->
-- [ ] C) 1 <!-- feedback: Incorrecto. La fracción no simplifica a una unidad constante. -->
+- [x] C) (x + 20) / (x - 19) <!-- feedback: ¡Correcto! Al factorizar el numerador como diferencia de cuadrados y el denominador como un trinomio se cancela el factor común. -->
+- [ ] A) x + 3 <!-- feedback: Incorrecto. No simplificaste de forma correcta todos los factores de la fracción algebraica. -->
+- [ ] B) 1 <!-- feedback: Incorrecto. La fracción no simplifica a una unidad constante. -->
 - [ ] D) (x - 20) / (x + 20) <!-- feedback: Incorrecto. Invertiste el sentido de los signos al realizar la cancelación del factor común. -->
 
 ### Explicacion Pedagogica

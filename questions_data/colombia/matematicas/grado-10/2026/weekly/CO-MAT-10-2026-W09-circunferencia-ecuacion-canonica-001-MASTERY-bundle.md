@@ -32,13 +32,13 @@ Este bundle contiene 12 preguntas sobre **circunferencia-ecuacion-canonica** par
 ### Enunciado
 ¿Cuál es la ecuación canónica de una circunferencia con centro en $(h, k)$ y radio $r$?
 ### Opciones
-- [x] A) $(x - h)^2 + (y - k)^2 = r^2$
+- [x] D) $(x - h)^2 + (y - k)^2 = r^2$
   <!-- feedback: Correcto. Es la forma canónica: distancia constante $r$ al centro. -->
-- [ ] B) $(x + h)^2 + (y + k)^2 = r^2$
+- [ ] A) $(x + h)^2 + (y + k)^2 = r^2$
   <!-- feedback: Incorrecto. Los signos de los términos deben ser negativos. -->
-- [ ] C) $(x - h)^2 + (y - k)^2 = r$
+- [ ] B) $(x - h)^2 + (y - k)^2 = r$
   <!-- feedback: Incorrecto. El radio aparece elevado al cuadrado. -->
-- [ ] D) $x^2 + y^2 = r$
+- [ ] C) $x^2 + y^2 = r$
   <!-- feedback: Incorrecto. Solo es válida para centro en el origen y con $r^2$. -->
 ### Explicacion Pedagogica
 La ecuación canónica es $(x - h)^2 + (y - k)^2 = r^2$, que expresa que la distancia de cualquier punto al centro es $r$.
@@ -52,9 +52,9 @@ La ecuación canónica es $(x - h)^2 + (y - k)^2 = r^2$, que expresa que la dist
 ### Enunciado
 ¿Cuál es el centro y el radio de la circunferencia?
 ### Opciones
-- [x] A) Centro $(3, -2)$ y radio $4$.
+- [x] B) Centro $(3, -2)$ y radio $4$.
   <!-- feedback: Correcto. El centro es $(3, -2)$ porque $(y - (-2))^2$, y $r^2 = 16$, luego $r = 4$. -->
-- [ ] B) Centro $(-3, 2)$ y radio $4$.
+- [ ] A) Centro $(-3, 2)$ y radio $4$.
   <!-- feedback: Incorrecto. El signo del centro está invertido. -->
 - [ ] C) Centro $(3, -2)$ y radio $16$.
   <!-- feedback: Incorrecto. $16$ es $r^2$, el radio es $\sqrt{16} = 4$. -->
@@ -72,9 +72,9 @@ De $(x - 3)^2 + (y + 2)^2 = 16$, el centro es $(3, -2)$ y $r^2 = 16$, por lo que
 ### Enunciado
 ¿Cuál es su ecuación?
 ### Opciones
-- [x] A) $x^2 + y^2 = 25$
+- [x] B) $x^2 + y^2 = 25$
   <!-- feedback: Correcto. Con centro en el origen, $(x)^2 + (y)^2 = r^2 = 25$. -->
-- [ ] B) $x^2 + y^2 = 5$
+- [ ] A) $x^2 + y^2 = 5$
   <!-- feedback: Incorrecto. El radio va elevado al cuadrado. -->
 - [ ] C) $x^2 - y^2 = 25$
   <!-- feedback: Incorrecto. Ambos términos se suman. -->
@@ -92,11 +92,11 @@ Con centro en $(0, 0)$ y radio $5$: $x^2 + y^2 = 5^2 = 25$.
 ### Enunciado
 ¿Cuál es su ecuación canónica?
 ### Opciones
-- [x] A) $(x - 4)^2 + (y + 1)^2 = 9$
+- [x] C) $(x - 4)^2 + (y + 1)^2 = 9$
   <!-- feedback: Correcto. Centro $(4, -1)$ y $r^2 = 9$. -->
-- [ ] B) $(x + 4)^2 + (y - 1)^2 = 9$
+- [ ] A) $(x + 4)^2 + (y - 1)^2 = 9$
   <!-- feedback: Incorrecto. El signo del centro está invertido. -->
-- [ ] C) $(x - 4)^2 + (y + 1)^2 = 3$
+- [ ] B) $(x - 4)^2 + (y + 1)^2 = 3$
   <!-- feedback: Incorrecto. El radio debe estar al cuadrado. -->
 - [ ] D) $(x - 4)^2 + (y - 1)^2 = 9$
   <!-- feedback: Incorrecto. La ordenada del centro es $-1$, no $1$. -->
@@ -152,9 +152,9 @@ Evaluando: $4^2 + 3^2 = 16 + 9 = 25$. Como la igualdad se cumple, el punto está
 ### Enunciado
 ¿Cuáles son el centro y el radio de la circunferencia?
 ### Opciones
-- [x] A) Centro $(3, -2)$ y radio $5$.
+- [x] B) Centro $(3, -2)$ y radio $5$.
   <!-- feedback: Correcto. Completando cuadrados: $(x-3)^2 + (y+2)^2 = 25$. -->
-- [ ] B) Centro $(-3, 2)$ y radio $5$.
+- [ ] A) Centro $(-3, 2)$ y radio $5$.
   <!-- feedback: Incorrecto. Los signos del centro están invertidos. -->
 - [ ] C) Centro $(3, -2)$ y radio $\sqrt{12}$.
   <!-- feedback: Incorrecto. El término independiente se ajusta al completar cuadrados. -->
@@ -172,11 +172,11 @@ Completando cuadrados: $(x^2 - 6x + 9) + (y^2 + 4y + 4) = 12 + 9 + 4 = 25$, es d
 ### Enunciado
 ¿Cuál es la ecuación de la circunferencia?
 ### Opciones
-- [x] A) $(x - 3)^2 + (y - 5)^2 = 13$
+- [x] C) $(x - 3)^2 + (y - 5)^2 = 13$
   <!-- feedback: Correcto. Centro $(3, 5)$, radio $\frac{\sqrt{(5-1)^2 + (8-2)^2}}{2} = \frac{\sqrt{52}}{2} = \sqrt{13}$. -->
-- [ ] B) $(x - 3)^2 + (y - 5)^2 = 52$
+- [ ] A) $(x - 3)^2 + (y - 5)^2 = 52$
   <!-- feedback: Incorrecto. $52$ es el cuadrado del diámetro, no del radio. -->
-- [ ] C) $(x - 1)^2 + (y - 2)^2 = 13$
+- [ ] B) $(x - 1)^2 + (y - 2)^2 = 13$
   <!-- feedback: Incorrecto. Esos son los extremos, no el centro. -->
 - [ ] D) $(x + 3)^2 + (y + 5)^2 = 13$
   <!-- feedback: Incorrecto. Los signos del centro están invertidos. -->
@@ -192,11 +192,11 @@ El centro es el punto medio $M = (3, 5)$. El diámetro es $\sqrt{52}$, así que 
 ### Enunciado
 ¿Cuál es la ecuación de la circunferencia?
 ### Opciones
-- [x] A) $(x - 2)^2 + (y + 1)^2 = 25$
+- [x] C) $(x - 2)^2 + (y + 1)^2 = 25$
   <!-- feedback: Correcto. $r^2 = (5-2)^2 + (3+1)^2 = 9 + 16 = 25$. -->
-- [ ] B) $(x - 2)^2 + (y + 1)^2 = 7$
+- [ ] A) $(x - 2)^2 + (y + 1)^2 = 7$
   <!-- feedback: Incorrecto. $7$ es la suma de diferencias sin elevar al cuadrado. -->
-- [ ] C) $(x + 2)^2 + (y - 1)^2 = 25$
+- [ ] B) $(x + 2)^2 + (y - 1)^2 = 25$
   <!-- feedback: Incorrecto. Los signos del centro están invertidos. -->
 - [ ] D) $(x - 2)^2 + (y + 1)^2 = 9$
   <!-- feedback: Incorrecto. Faltó sumar el cuadrado de la otra diferencia. -->
@@ -232,13 +232,13 @@ Completando cuadrados: $(x^2 + 8x + 16) + (y^2 - 10y + 25) = -5 + 16 + 25 = 36$,
 ### Enunciado
 ¿Cuál es la distancia del centro de la circunferencia al punto $P(0, 0)$?
 ### Opciones
-- [x] A) $\sqrt{10}$
+- [x] D) $\sqrt{10}$
   <!-- feedback: Correcto. Centro $(3, -1)$; distancia al origen: $\sqrt{3^2 + (-1)^2} = \sqrt{10}$. -->
-- [ ] B) $4$
+- [ ] A) $4$
   <!-- feedback: Incorrecto. Confundiste la distancia con otra magnitud. -->
-- [ ] C) $\sqrt{8}$
+- [ ] B) $\sqrt{8}$
   <!-- feedback: Incorrecto. Calculaste mal la distancia al centro. -->
-- [ ] D) $10$
+- [ ] C) $10$
   <!-- feedback: Incorrecto. Es el cuadrado de la distancia, no la distancia. -->
 ### Explicacion Pedagogica
 Completando cuadrados: $(x-3)^2 + (y+1)^2 = 16$, centro $(3, -1)$. La distancia al origen es $\sqrt{(3-0)^2 + (-1-0)^2} = \sqrt{10}$.
@@ -252,9 +252,9 @@ Completando cuadrados: $(x-3)^2 + (y+1)^2 = 16$, centro $(3, -1)$. La distancia 
 ### Enunciado
 ¿Dónde se ubica el punto $Q$ respecto a la circunferencia?
 ### Opciones
-- [x] A) Está dentro de la circunferencia.
+- [x] B) Está dentro de la circunferencia.
   <!-- feedback: Correcto. $r^2 = 25$; la distancia de $Q$ al centro al cuadrado es $16 < 25$. -->
-- [ ] B) Está sobre la circunferencia.
+- [ ] A) Está sobre la circunferencia.
   <!-- feedback: Incorrecto. La distancia al cuadrado es $16$, no $25$. -->
 - [ ] C) Está fuera de la circunferencia.
   <!-- feedback: Incorrecto. Estar fuera implicaría distancia al cuadrado mayor que $25$. -->

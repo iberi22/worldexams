@@ -31,8 +31,8 @@ En un triángulo rectángulo, ¿cómo se define la razón trigonométrica del se
 
 ### Opciones
 - [ ] A) Como el cociente entre el cateto adyacente y la hipotenusa. <!-- feedback: Incorrecto. Esta es la definición de la función coseno. -->
-- [x] B) Como el cociente entre el cateto opuesto y la hipotenusa. <!-- feedback: Correcto. Por definición, $\sin(\alpha) = \frac{\text{cateto opuesto}}{\text{hipotenusa}}$. -->
-- [ ] C) Como el cociente entre el cateto opuesto y el cateto adyacente. <!-- feedback: Incorrecto. Esta es la definición de la función tangente. -->
+- [x] C) Como el cociente entre el cateto opuesto y la hipotenusa. <!-- feedback: Correcto. Por definición, $\sin(\alpha) = \frac{\text{cateto opuesto}}{\text{hipotenusa}}$. -->
+- [ ] B) Como el cociente entre el cateto opuesto y el cateto adyacente. <!-- feedback: Incorrecto. Esta es la definición de la función tangente. -->
 - [ ] D) Como la longitud de la hipotenusa al cuadrado. <!-- feedback: Incorrecto. Esto se asocia al teorema de Pitágoras. -->
 
 ### Explicacion Pedagogica
@@ -52,8 +52,8 @@ Las razones trigonométricas son las relaciones entre las longitudes de los lado
 
 ### Opciones
 - [ ] A) $\sin(\alpha) + \cos(\alpha) = 1$ <!-- feedback: Incorrecto. La suma lineal de los términos no es igual a 1 para todo ángulo. -->
-- [x] B) $\sin^2(\alpha) + \cos^2(\alpha) = 1$ <!-- feedback: Correcto. Esta es la identidad fundamental pitagórica, consecuencia directa del teorema de Pitágoras en la circunferencia unitaria. -->
-- [ ] C) $\sin^2(\alpha) - \cos^2(\alpha) = 1$ <!-- feedback: Incorrecto. El signo del término coseno debe ser positivo. -->
+- [x] C) $\sin^2(\alpha) + \cos^2(\alpha) = 1$ <!-- feedback: Correcto. Esta es la identidad fundamental pitagórica, consecuencia directa del teorema de Pitágoras en la circunferencia unitaria. -->
+- [ ] B) $\sin^2(\alpha) - \cos^2(\alpha) = 1$ <!-- feedback: Incorrecto. El signo del término coseno debe ser positivo. -->
 - [ ] D) $\tan^2(\alpha) + \cos^2(\alpha) = 1$ <!-- feedback: Incorrecto. No cumple con la identidad pitagórica elemental. -->
 
 ### Explicacion Pedagogica
@@ -73,8 +73,8 @@ Si querés expresar un ángulo de $180^\circ$ en el sistema circular (radianes),
 
 ### Opciones
 - [ ] A) $\frac{\pi}{2}\text{ rad}$ <!-- feedback: Incorrecto. Este valor equivale a $90^\circ$. -->
-- [ ] B) $2\pi\text{ rad}$ <!-- feedback: Incorrecto. Este valor representa un giro completo de $360^\circ$. -->
-- [x] C) $\pi\text{ rad}$ <!-- feedback: Correcto. Un giro completo de la circunferencia equivale a $2\pi$ radianes ($360^\circ$), por lo que media vuelta ($180^\circ$) equivale a $\pi$ radianes. -->
+- [ ] C) $2\pi\text{ rad}$ <!-- feedback: Incorrecto. Este valor representa un giro completo de $360^\circ$. -->
+- [x] B) $\pi\text{ rad}$ <!-- feedback: Correcto. Un giro completo de la circunferencia equivale a $2\pi$ radianes ($360^\circ$), por lo que media vuelta ($180^\circ$) equivale a $\pi$ radianes. -->
 - [ ] D) $\frac{3\pi}{2}\text{ rad}$ <!-- feedback: Incorrecto. Este valor equivale a $270^\circ$. -->
 
 ### Explicacion Pedagogica
@@ -93,9 +93,9 @@ La equivalencia básica entre ambos sistemas de medición angular es que $180^\c
 ¿En qué cuadrantes del plano cartesiano la función seno toma valores estrictamente menores que cero (negativos)?
 
 ### Opciones
-- [ ] A) Únicamente en el primer cuadrante. <!-- feedback: Incorrecto. En el primer cuadrante todas las razones básicas son positivas. -->
-- [ ] B) En el primer y segundo cuadrantes. <!-- feedback: Incorrecto. El seno es positivo allí porque las ordenadas son positivas. -->
-- [x] C) En el tercer y cuarto cuadrantes. <!-- feedback: Correcto. En la circunferencia trigonométrica, el seno se asocia al eje de las ordenadas ($y$). Dado que las ordenadas son negativas en el tercer y cuarto cuadrantes, el seno también lo es. -->
+- [ ] B) Únicamente en el primer cuadrante. <!-- feedback: Incorrecto. En el primer cuadrante todas las razones básicas son positivas. -->
+- [ ] C) En el primer y segundo cuadrantes. <!-- feedback: Incorrecto. El seno es positivo allí porque las ordenadas son positivas. -->
+- [x] A) En el tercer y cuarto cuadrantes. <!-- feedback: Correcto. En la circunferencia trigonométrica, el seno se asocia al eje de las ordenadas ($y$). Dado que las ordenadas son negativas en el tercer y cuarto cuadrantes, el seno también lo es. -->
 - [ ] D) Únicamente en el segundo cuadrante. <!-- feedback: Incorrecto. El seno de ángulos entre $90^\circ$ y $180^\circ$ es positivo. -->
 
 ### Explicacion Pedagogica
@@ -115,9 +115,9 @@ En el círculo unitario, un punto asociado a un ángulo $\alpha$ tiene coordenad
 
 ### Opciones
 - [ ] A) $\pi$ <!-- feedback: Incorrecto. La función seno se repite cada vuelta completa de la circunferencia, no cada media vuelta. -->
-- [x] B) $2\pi$ <!-- feedback: Correcto. El período de la función básica es de $2\pi$ radianes (o $360^\circ$), completando un ciclo completo antes de repetir su forma. -->
-- [ ] C) $\frac{\pi}{2}$ <!-- feedback: Incorrecto. Esto solo describe un cuarto de la trayectoria oscilatoria de la onda. -->
-- [ ] D) $4\pi$ <!-- feedback: Incorrecto. Este sería el período de una onda de menor frecuencia como $\sin(x/2)$. -->
+- [x] D) $2\pi$ <!-- feedback: Correcto. El período de la función básica es de $2\pi$ radianes (o $360^\circ$), completando un ciclo completo antes de repetir su forma. -->
+- [ ] B) $\frac{\pi}{2}$ <!-- feedback: Incorrecto. Esto solo describe un cuarto de la trayectoria oscilatoria de la onda. -->
+- [ ] C) $4\pi$ <!-- feedback: Incorrecto. Este sería el período de una onda de menor frecuencia como $\sin(x/2)$. -->
 
 ### Explicacion Pedagogica
 Las funciones trigonométricas son periódicas. El período fundamental de $y = \sin(x)$ e $y = \cos(x)$ es de $2\pi$, ya que los valores de las razones se repiten exactamente para cada vuelta entera del círculo unitario.
@@ -157,9 +157,9 @@ Desde un punto situado a una distancia de $30\\text{ metros}$ de la base de una 
 
 ### Opciones
 - [ ] A) $15\\text{ metros}$ <!-- feedback: Incorrecto. Esto resultaría si utilizáramos la función seno de forma incorrecta. -->
-- [x] B) $17,3\\text{ metros}$ <!-- feedback: Correcto. Planteamos la relación de la tangente: $\\tan(30^\circ) = \\frac{\\text{altura}}{30}$. Despejando: $\\text{altura} = 30 \\cdot \\tan(30^\circ) \\approx 30 \\cdot 0,577 = 17,31$ metros. -->
-- [ ] C) $25,9\\text{ metros}$ <!-- feedback: Incorrecto. Se cometió un error algebraico al aplicar el valor de la tangente. -->
-- [ ] D) $30\\text{ metros}$ <!-- feedback: Incorrecto. Esto ocurriría si el ángulo de elevación fuera de $45^\circ$. -->
+- [x] D) $17,3\\text{ metros}$ <!-- feedback: Correcto. Planteamos la relación de la tangente: $\\tan(30^\circ) = \\frac{\\text{altura}}{30}$. Despejando: $\\text{altura} = 30 \\cdot \\tan(30^\circ) \\approx 30 \\cdot 0,577 = 17,31$ metros. -->
+- [ ] B) $25,9\\text{ metros}$ <!-- feedback: Incorrecto. Se cometió un error algebraico al aplicar el valor de la tangente. -->
+- [ ] C) $30\\text{ metros}$ <!-- feedback: Incorrecto. Esto ocurriría si el ángulo de elevación fuera de $45^\circ$. -->
 
 ### Explicacion Pedagogica
 Modelamos la situación mediante un triángulo rectángulo donde el cateto adyacente es la distancia horizontal ($30\text{ m}$) y el cateto opuesto es la altura buscada. La razón que los vincula es la tangente: $\tan(30^\circ) = \text{altura}/30$.
@@ -178,8 +178,8 @@ Dos lanchas parten de un mismo muelle con un ángulo de separación de $60^\circ
 
 ### Opciones
 - [ ] A) $4,9\\text{ km}$ <!-- feedback: Incorrecto. Error al aplicar la raíz cuadrada. -->
-- [x] B) $4,36\\text{ km}$ <!-- feedback: Correcto. Por el teorema del coseno: $d^2 = 3^2 + 5^2 - 2(3)(5)\\cos(60^\circ) = 9 + 25 - 30(0,5) = 34 - 15 = 19$. Tomando raíz cuadrada: $d = \\sqrt{19} \\approx 4,36$ km. -->
-- [ ] C) $5,83\\text{ km}$ <!-- feedback: Incorrecto. Este valor resulta si se asume que las trayectorias forman un ángulo de $90^\circ$ (teorema de Pitágoras). -->
+- [x] C) $4,36\\text{ km}$ <!-- feedback: Correcto. Por el teorema del coseno: $d^2 = 3^2 + 5^2 - 2(3)(5)\\cos(60^\circ) = 9 + 25 - 30(0,5) = 34 - 15 = 19$. Tomando raíz cuadrada: $d = \\sqrt{19} \\approx 4,36$ km. -->
+- [ ] B) $5,83\\text{ km}$ <!-- feedback: Incorrecto. Este valor resulta si se asume que las trayectorias forman un ángulo de $90^\circ$ (teorema de Pitágoras). -->
 - [ ] D) $8\\text{ km}$ <!-- feedback: Incorrecto. Esto sería la suma lineal de las distancias recorridas, lo cual no es en línea recta. -->
 
 ### Explicacion Pedagogica
@@ -198,9 +198,9 @@ Aplicamos la ley de cosenos para el caso Lado-Ángulo-Lado (LAL) para calcular e
 En un triángulo oblicuángulo, se sabe que el lado $a = 10\\text{ m}$, el ángulo opuesto $A = 45^\circ$ y el lado $b = 10\\sqrt{2}\\text{ m}$. Utilizá la ley de senos para calcular la medida del ángulo opuesto $B$. (Dato: $\\sin(45^\circ) = \\frac{\\sqrt{2}}{2}$).
 
 ### Opciones
-- [ ] A) $30^\circ$ <!-- feedback: Incorrecto. Con este ángulo el valor del seno de $B$ daría menor que el calculado. -->
-- [ ] B) $60^\circ$ <!-- feedback: Incorrecto. No cumple con la relación proporcional de la ley de senos. -->
-- [x] C) $90^\circ$ <!-- feedback: Correcto. Por ley de senos: $\\frac{\\sin(A)}{a} = \\frac{\\sin(B)}{b} \\Rightarrow \\sin(B) = \\frac{10\\sqrt{2} \\cdot \\sin(45^\circ)}{10} = \\sqrt{2} \\cdot \\frac{\\sqrt{2}}{2} = 1$. Dado que el seno es 1, el ángulo $B = 90^\circ$. -->
+- [ ] B) $30^\circ$ <!-- feedback: Incorrecto. Con este ángulo el valor del seno de $B$ daría menor que el calculado. -->
+- [ ] C) $60^\circ$ <!-- feedback: Incorrecto. No cumple con la relación proporcional de la ley de senos. -->
+- [x] A) $90^\circ$ <!-- feedback: Correcto. Por ley de senos: $\\frac{\\sin(A)}{a} = \\frac{\\sin(B)}{b} \\Rightarrow \\sin(B) = \\frac{10\\sqrt{2} \\cdot \\sin(45^\circ)}{10} = \\sqrt{2} \\cdot \\frac{\\sqrt{2}}{2} = 1$. Dado que el seno es 1, el ángulo $B = 90^\circ$. -->
 - [ ] D) $45^\circ$ <!-- feedback: Incorrecto. Esto implicaría que el triángulo es isósceles, pero las longitudes de los lados difieren. -->
 
 ### Explicacion Pedagogica
@@ -220,8 +220,8 @@ Encontrá todas las soluciones de la ecuación trigonométrica $\sin(x) = \frac{
 
 ### Opciones
 - [ ] A) Únicamente $x = \frac{\pi}{6}$ <!-- feedback: Incorrecto. Se omitió la solución correspondiente al segundo cuadrante. -->
-- [x] B) $x_1 = \frac{\pi}{6}$ y $x_2 = \frac{5\pi}{6}$ <!-- feedback: Correcto. En el círculo unitario, la ordenada toma el valor $1/2$ positivo en el primer cuadrante para $30^\circ$ ($\pi/6$) y en el segundo cuadrante para $150^\circ$ ($5\pi/6$). -->
-- [ ] C) $x_1 = \frac{\pi}{6}$ y $x_2 = \frac{7\pi}{6}$ <!-- feedback: Incorrecto. En el tercer cuadrante el seno es negativo ($-1/2$). -->
+- [x] C) $x_1 = \frac{\pi}{6}$ y $x_2 = \frac{5\pi}{6}$ <!-- feedback: Correcto. En el círculo unitario, la ordenada toma el valor $1/2$ positivo en el primer cuadrante para $30^\circ$ ($\pi/6$) y en el segundo cuadrante para $150^\circ$ ($5\pi/6$). -->
+- [ ] B) $x_1 = \frac{\pi}{6}$ y $x_2 = \frac{7\pi}{6}$ <!-- feedback: Incorrecto. En el tercer cuadrante el seno es negativo ($-1/2$). -->
 - [ ] D) $x_1 = \frac{\pi}{3}$ y $x_2 = \frac{2\pi}{3}$ <!-- feedback: Incorrecto. Estos son los ángulos para los cuales el coseno es $1/2$. -->
 
 ### Explicacion Pedagogica
@@ -240,8 +240,8 @@ La función seno es positiva en los cuadrantes I y II. La ecuación cuadrática 
 Simplificá la siguiente expresión trigonométrica para obtener su forma más reducida posible: $E = \frac{1}{\cos^2(x)} - \tan^2(x)$.
 
 ### Opciones
-- [ ] A) $0$ <!-- feedback: Incorrecto. No se anulan de manera directa. -->
-- [x] B) $1$ <!-- feedback: Correcto. Sabemos que $\\tan^2(x) = \\frac{\\sin^2(x)}{\\cos^2(x)}$. Sustituyendo: $E = \\frac{1}{\\cos^2(x)} - \\frac{\\sin^2(x)}{\\cos^2(x)} = \\frac{1 - \\sin^2(x)}{\\cos^2(x)}$. Por la identidad fundamental, $1 - \\sin^2(x) = \\cos^2(x)$, resultando $E = \\frac{\\cos^2(x)}{\\cos^2(x)} = 1$. -->
+- [ ] B) $0$ <!-- feedback: Incorrecto. No se anulan de manera directa. -->
+- [x] A) $1$ <!-- feedback: Correcto. Sabemos que $\\tan^2(x) = \\frac{\\sin^2(x)}{\\cos^2(x)}$. Sustituyendo: $E = \\frac{1}{\\cos^2(x)} - \\frac{\\sin^2(x)}{\\cos^2(x)} = \\frac{1 - \\sin^2(x)}{\\cos^2(x)}$. Por la identidad fundamental, $1 - \\sin^2(x) = \\cos^2(x)$, resultando $E = \\frac{\\cos^2(x)}{\\cos^2(x)} = 1$. -->
 - [ ] C) $\cos^2(x)$ <!-- feedback: Incorrecto. La expresión no se reduce al término del denominador. -->
 - [ ] D) $\tan^2(x)$ <!-- feedback: Incorrecto. No se corresponde con la simplificación correcta. -->
 
@@ -261,8 +261,8 @@ Sustituimos la definición de la tangente en términos de seno y coseno, reducie
 Resolvé la ecuación trigonométrica de segundo grado $2\cos^2(x) + \sin(x) - 1 = 0$ para $x \in [0, 2\pi]$.
 
 ### Opciones
-- [x] A) $x = \frac{\pi}{2}, x = \frac{7\pi}{6}, x = \frac{11\pi}{6}$ <!-- feedback: Correcto. Usando $\\cos^2(x) = 1 - \\sin^2(x)$, transformamos a $2(1 - \\sin^2(x)) + \\sin(x) - 1 = 0 \\Rightarrow -2\\sin^2(x) + \\sin(x) + 1 = 0$. Resolviendo como cuadrática, obtenemos $\\sin(x) = 1 \\Rightarrow x = \\pi/2$, y $\\sin(x) = -1/2 \\Rightarrow x = 7\\pi/6, 11\\pi/6$. -->
-- [ ] B) $x = 0, x = \pi$ <!-- feedback: Incorrecto. Estos valores no anulan la expresión original. -->
+- [x] B) $x = \frac{\pi}{2}, x = \frac{7\pi}{6}, x = \frac{11\pi}{6}$ <!-- feedback: Correcto. Usando $\\cos^2(x) = 1 - \\sin^2(x)$, transformamos a $2(1 - \\sin^2(x)) + \\sin(x) - 1 = 0 \\Rightarrow -2\\sin^2(x) + \\sin(x) + 1 = 0$. Resolviendo como cuadrática, obtenemos $\\sin(x) = 1 \\Rightarrow x = \\pi/2$, y $\\sin(x) = -1/2 \\Rightarrow x = 7\\pi/6, 11\\pi/6$. -->
+- [ ] A) $x = 0, x = \pi$ <!-- feedback: Incorrecto. Estos valores no anulan la expresión original. -->
 - [ ] C) $x = \frac{\pi}{4}, x = \frac{3\pi}{4}$ <!-- feedback: Incorrecto. Daría un resultado que no es cero. -->
 - [ ] D) No tiene soluciones en este intervalo. <!-- feedback: Incorrecto. Sí posee exactamente tres soluciones reales. -->
 
@@ -324,8 +324,8 @@ Este es el caso ambiguo Lado-Lado-Ángulo (LLA) de la ley de senos. Dado que la 
 Dada la función sinusoidal $y = \cos\left(x - \frac{\pi}{4}\right)$, ¿qué tipo de transformación geométrica presenta su gráfica respecto de la función coseno elemental $y = \cos(x)$?
 
 ### Opciones
-- [ ] A) Un desplazamiento vertical hacia arriba de $\frac{\pi}{4}$ unidades. <!-- feedback: Incorrecto. La transformación ocurre dentro del argumento, afectando a la abscisa horizontal. -->
-- [x] B) Un desplazamiento horizontal (fase) de $\frac{\pi}{4}$ unidades hacia la derecha. <!-- feedback: Correcto. Restar una constante dentro del argumento del coseno produce un desplazamiento horizontal de la gráfica hacia los valores positivos (derecha). -->
+- [ ] B) Un desplazamiento vertical hacia arriba de $\frac{\pi}{4}$ unidades. <!-- feedback: Incorrecto. La transformación ocurre dentro del argumento, afectando a la abscisa horizontal. -->
+- [x] A) Un desplazamiento horizontal (fase) de $\frac{\pi}{4}$ unidades hacia la derecha. <!-- feedback: Correcto. Restar una constante dentro del argumento del coseno produce un desplazamiento horizontal de la gráfica hacia los valores positivos (derecha). -->
 - [ ] C) Un desplazamiento horizontal de $\frac{\pi}{4}$ unidades hacia la izquierda. <!-- feedback: Incorrecto. Desplazaría hacia la izquierda si el signo del argumento fuera positivo ($+$). -->
 - [ ] D) Un aumento en la frecuencia angular de la onda. <!-- feedback: Incorrecto. La frecuencia angular no ha sido multiplicada por constantes distintas de 1. -->
 
@@ -345,8 +345,8 @@ Un desfasaje de la forma $y = f(x - \phi)$ traslada la gráfica de la función h
 La altura de la marea $h$ (en metros) respecto al nivel medio en función del tiempo $t$ (en horas) está modelada mediante la función $h(t) = 2 \cdot \cos\left(\frac{\pi}{6}t\right)$. ¿Cuánto tiempo tarda en ocurrir una marea alta consecutiva (período de la marea)?
 
 ### Opciones
-- [ ] A) $6\text{ horas}$ <!-- feedback: Incorrecto. Este es el tiempo que tarda la marea en pasar de alta a baja (medio período). -->
-- [x] B) $12\text{ horas}$ <!-- feedback: Correcto. El período es $T = \frac{2\pi}{B}$. Con $B = \frac{\pi}{6}$, obtenemos $T = \frac{2\pi}{\pi/6} = 12$ horas. -->
+- [ ] B) $6\text{ horas}$ <!-- feedback: Incorrecto. Este es el tiempo que tarda la marea en pasar de alta a baja (medio período). -->
+- [x] A) $12\text{ horas}$ <!-- feedback: Correcto. El período es $T = \frac{2\pi}{B}$. Con $B = \frac{\pi}{6}$, obtenemos $T = \frac{2\pi}{\pi/6} = 12$ horas. -->
 - [ ] C) $24\text{ horas}$ <!-- feedback: Incorrecto. Representa un ciclo diario de dos oscilaciones completas. -->
 - [ ] D) $3\text{ horas}$ <!-- feedback: Incorrecto. Tiempo muy corto que no refleja el ciclo del modelo. -->
 
@@ -366,8 +366,8 @@ La marea alta consecutiva corresponde al período fundamental de la función cos
 Dada la fórmula para el coseno de la suma de dos ángulos, $\cos(\alpha + \beta) = \cos(\alpha)\cos(\beta) - \sin(\alpha)\sin(\beta)$, deducí la expresión correspondiente para el coseno de la diferencia, $\cos(\alpha - \beta)$.
 
 ### Opciones
-- [ ] A) $\cos(\alpha - \beta) = \cos(\alpha)\cos(\beta) - \sin(\alpha)\sin(\beta)$ <!-- feedback: Incorrecto. El signo del segundo término debe cambiar debido al signo negativo de la función seno. -->
-- [x] B) $\cos(\alpha - \beta) = \cos(\alpha)\cos(\beta) + \sin(\alpha)\sin(\beta)$ <!-- feedback: Correcto. Sustituimos $\beta$ por $-\beta$ en la suma: $\cos(\alpha - \beta) = \cos(\alpha)\cos(-\beta) - \sin(\alpha)\sin(-\beta)$. Dado que el coseno es par ($\cos(-\beta) = \cos\beta$) y el seno es impar ($\sin(-\beta) = -\sin\beta$), resulta esta suma. -->
+- [ ] B) $\cos(\alpha - \beta) = \cos(\alpha)\cos(\beta) - \sin(\alpha)\sin(\beta)$ <!-- feedback: Incorrecto. El signo del segundo término debe cambiar debido al signo negativo de la función seno. -->
+- [x] A) $\cos(\alpha - \beta) = \cos(\alpha)\cos(\beta) + \sin(\alpha)\sin(\beta)$ <!-- feedback: Correcto. Sustituimos $\beta$ por $-\beta$ en la suma: $\cos(\alpha - \beta) = \cos(\alpha)\cos(-\beta) - \sin(\alpha)\sin(-\beta)$. Dado que el coseno es par ($\cos(-\beta) = \cos\beta$) y el seno es impar ($\sin(-\beta) = -\sin\beta$), resulta esta suma. -->
 - [ ] C) $\cos(\alpha - \beta) = \sin(\alpha)\cos(\beta) - \cos(\alpha)\sin(\beta)$ <!-- feedback: Incorrecto. No se intercambian las funciones trigonométricas involucradas. -->
 - [ ] D) $\cos(\alpha - \beta) = -\cos(\alpha)\cos(\beta) - \sin(\alpha)\sin(\beta)$ <!-- feedback: Incorrecto. Se aplicaron mal las propiedades de paridad de las funciones básicas. -->
 
@@ -408,9 +408,9 @@ Al igualar $\sin(x) = \frac{x}{2}$, se observa que $x=0$ es una raíz obvia. Dad
 Dada la relación de lados en un triángulo cualquiera, un estudiante afirma que la Ley de Cosenos se reduce exactamente al teorema de Pitágoras únicamente si el ángulo interior opuesto al tercer lado es un ángulo recto ($90^\circ$). Evaluá la validez de esta afirmación.
 
 ### Opciones
-- [x] A) Es completamente correcta, ya que si $C = 90^\circ \Rightarrow \cos(90^\circ) = 0$, anulando el término de ajuste de la Ley de Cosenos y dando $c^2 = a^2 + b^2$. <!-- feedback: Correcto. La Ley de Cosenos se reduce a Pitágoras si el coseno del ángulo involucrado se anula, lo cual ocurre únicamente para un ángulo recto de $90^\circ$ en los triángulos comunes. -->
-- [ ] B) Es incorrecta porque la Ley de Cosenos solo se aplica a triángulos oblicuángulos y no puede usarse en rectángulos. <!-- feedback: Incorrecto. Se aplica a cualquier triángulo sin restricciones. -->
-- [ ] C) Es incorrecta porque el teorema de Pitágoras también se obtiene si el ángulo es de $0^\circ$. <!-- feedback: Incorrecto. Si el ángulo fuera de $0^\circ$, no existiría un triángulo real sino un segmento plano degenerado. -->
+- [x] C) Es completamente correcta, ya que si $C = 90^\circ \Rightarrow \cos(90^\circ) = 0$, anulando el término de ajuste de la Ley de Cosenos y dando $c^2 = a^2 + b^2$. <!-- feedback: Correcto. La Ley de Cosenos se reduce a Pitágoras si el coseno del ángulo involucrado se anula, lo cual ocurre únicamente para un ángulo recto de $90^\circ$ en los triángulos comunes. -->
+- [ ] A) Es incorrecta porque la Ley de Cosenos solo se aplica a triángulos oblicuángulos y no puede usarse en rectángulos. <!-- feedback: Incorrecto. Se aplica a cualquier triángulo sin restricciones. -->
+- [ ] B) Es incorrecta porque el teorema de Pitágoras también se obtiene si el ángulo es de $0^\circ$. <!-- feedback: Incorrecto. Si el ángulo fuera de $0^\circ$, no existiría un triángulo real sino un segmento plano degenerado. -->
 - [ ] D) Es correcta únicamente si el triángulo es equilátero. <!-- feedback: Incorrecto. Un triángulo equilátero tiene todos sus ángulos interiores iguales a $60^\circ$, nunca a $90^\circ$. -->
 
 ### Explicacion Pedagogica
@@ -429,8 +429,8 @@ La Ley de Cosenos $c^2 = a^2 + b^2 - 2ab \cos(C)$ es una generalización del teo
 Un instalador afirma que orientando los paneles con un ángulo fijo $\theta$ respecto al suelo se optimiza la captación solar anual. Al analizar los datos estacionales, se comprueba que el ángulo óptimo oscila sinusoidalmente a lo largo del año. Evaluá la pertinencia de utilizar un modelo trigonométrico para automatizar la inclinación dinámica de los paneles.
 
 ### Opciones
-- [ ] A) Es impertinente porque la trayectoria del sol a lo largo del año sigue un comportamiento lineal directo. <!-- feedback: Incorrecto. La inclinación de los rayos solares tiene un comportamiento cíclico estacional. -->
-- [x] B) Es altamente pertinente porque el movimiento aparente del sol y el ciclo estacional de la Tierra son fenómenos astronómicos periódicos, modelados con alta precisión mediante funciones trigonométricas. <!-- feedback: Correcto. Las funciones trigonométricas son las herramientas naturales ideales para modelar la periodicidad de las órbitas y la inclinación estacional, permitiendo automatizar de manera muy precisa la inclinación óptima de los paneles. -->
+- [ ] B) Es impertinente porque la trayectoria del sol a lo largo del año sigue un comportamiento lineal directo. <!-- feedback: Incorrecto. La inclinación de los rayos solares tiene un comportamiento cíclico estacional. -->
+- [x] A) Es altamente pertinente porque el movimiento aparente del sol y el ciclo estacional de la Tierra son fenómenos astronómicos periódicos, modelados con alta precisión mediante funciones trigonométricas. <!-- feedback: Correcto. Las funciones trigonométricas son las herramientas naturales ideales para modelar la periodicidad de las órbitas y la inclinación estacional, permitiendo automatizar de manera muy precisa la inclinación óptima de los paneles. -->
 - [ ] C) Es impertinente porque la luz solar no se desplaza mediante ondas de tipo sinusoidal. <!-- feedback: Incorrecto. El modelo no describe la naturaleza física de la luz, sino la periodicidad astronómica de la orientación angular. -->
 - [ ] D) Es pertinente pero solo si la instalación se realiza exactamente sobre la línea del ecuador geográfico. <!-- feedback: Incorrecto. La variación estacional de la inclinación solar es aún más pronunciada a latitudes como las del norte argentino. -->
 

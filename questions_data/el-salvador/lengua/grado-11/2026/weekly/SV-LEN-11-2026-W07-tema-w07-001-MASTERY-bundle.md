@@ -32,13 +32,13 @@ creador: "Jules-Agent"
 Durante el análisis de las obras fundamentales de Cervantes y Lope de Vega, el grupo expone sobre el objetivo expreso del Quijote de burlarse del estilo inverosímil de los héroes fantásticos de la época. ¿Qué innovación estética se describe aquí?
 
 ### Opciones
-- [x] A) El desarrollo de parodia de libros de caballerías.
+- [x] D) El desarrollo de parodia de libros de caballerías.
   <!-- feedback: ¡Correcto! Se refiere a parodia de libros de caballerías como una de las cumbres estéticas del Siglo de Oro. -->
-- [ ] B) Un regionalismo lingüístico del caliche salvadoreño actual.
+- [ ] A) Un regionalismo lingüístico del caliche salvadoreño actual.
   <!-- feedback: Incorrecto. Se analiza la literatura peninsular del Siglo de Oro, no variantes del habla salvadoreña moderna. -->
-- [ ] C) La barrera fisiológica en el canal acústico del receptor.
+- [ ] B) La barrera fisiológica en el canal acústico del receptor.
   <!-- feedback: Incorrecto. No hay un problema físico de comunicación, es una innovación artística. -->
-- [ ] D) La métrica lírica del verso alejandrino de Francisco Gavidia.
+- [ ] C) La métrica lírica del verso alejandrino de Francisco Gavidia.
   <!-- feedback: Incorrecto. El alejandrino modernista surgió a finales del siglo XIX, ajeno al Siglo de Oro. -->
 
 ### Explicación Pedagógica
@@ -58,13 +58,13 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 Durante el análisis de las obras fundamentales de Cervantes y Lope de Vega, el grupo expone sobre la estructura del Quijote donde confluyen múltiples voces, registros lingüísticos e interpretaciones de la realidad. ¿Qué innovación estética se describe aquí?
 
 ### Opciones
-- [x] A) El desarrollo de novela moderna polifónica.
+- [x] D) El desarrollo de novela moderna polifónica.
   <!-- feedback: ¡Correcto! Se refiere a novela moderna polifónica como una de las cumbres estéticas del Siglo de Oro. -->
-- [ ] B) Un regionalismo lingüístico del caliche salvadoreño actual.
+- [ ] A) Un regionalismo lingüístico del caliche salvadoreño actual.
   <!-- feedback: Incorrecto. Se analiza la literatura peninsular del Siglo de Oro, no variantes del habla salvadoreña moderna. -->
-- [ ] C) La barrera fisiológica en el canal acústico del receptor.
+- [ ] B) La barrera fisiológica en el canal acústico del receptor.
   <!-- feedback: Incorrecto. No hay un problema físico de comunicación, es una innovación artística. -->
-- [ ] D) La métrica lírica del verso alejandrino de Francisco Gavidia.
+- [ ] C) La métrica lírica del verso alejandrino de Francisco Gavidia.
   <!-- feedback: Incorrecto. El alejandrino modernista surgió a finales del siglo XIX, ajeno al Siglo de Oro. -->
 
 ### Explicación Pedagógica
@@ -84,9 +84,9 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 Durante el análisis de las obras fundamentales de Cervantes y Lope de Vega, el grupo expone sobre el uso constante de la sabiduría popular del escudero a través de dichos y refranes campestres. ¿Qué innovación estética se describe aquí?
 
 ### Opciones
-- [x] A) El desarrollo de refranes de Sancho Panza.
+- [x] B) El desarrollo de refranes de Sancho Panza.
   <!-- feedback: ¡Correcto! Se refiere a refranes de Sancho Panza como una de las cumbres estéticas del Siglo de Oro. -->
-- [ ] B) Un regionalismo lingüístico del caliche salvadoreño actual.
+- [ ] A) Un regionalismo lingüístico del caliche salvadoreño actual.
   <!-- feedback: Incorrecto. Se analiza la literatura peninsular del Siglo de Oro, no variantes del habla salvadoreña moderna. -->
 - [ ] C) La barrera fisiológica en el canal acústico del receptor.
   <!-- feedback: Incorrecto. No hay un problema físico de comunicación, es una innovación artística. -->
@@ -110,13 +110,13 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 Durante el análisis de las obras fundamentales de Cervantes y Lope de Vega, el grupo expone sobre la distorsión mental del hidalgo que le sirve al autor como pretexto para criticar el idealismo y el materialismo social. ¿Qué innovación estética se describe aquí?
 
 ### Opciones
-- [x] A) El desarrollo de locura de don Quijote.
+- [x] D) El desarrollo de locura de don Quijote.
   <!-- feedback: ¡Correcto! Se refiere a locura de don Quijote como una de las cumbres estéticas del Siglo de Oro. -->
-- [ ] B) Un regionalismo lingüístico del caliche salvadoreño actual.
+- [ ] A) Un regionalismo lingüístico del caliche salvadoreño actual.
   <!-- feedback: Incorrecto. Se analiza la literatura peninsular del Siglo de Oro, no variantes del habla salvadoreña moderna. -->
-- [ ] C) La barrera fisiológica en el canal acústico del receptor.
+- [ ] B) La barrera fisiológica en el canal acústico del receptor.
   <!-- feedback: Incorrecto. No hay un problema físico de comunicación, es una innovación artística. -->
-- [ ] D) La métrica lírica del verso alejandrino de Francisco Gavidia.
+- [ ] C) La métrica lírica del verso alejandrino de Francisco Gavidia.
   <!-- feedback: Incorrecto. El alejandrino modernista surgió a finales del siglo XIX, ajeno al Siglo de Oro. -->
 
 ### Explicación Pedagógica
@@ -136,9 +136,9 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 Durante el análisis de las obras fundamentales de Cervantes y Lope de Vega, el grupo expone sobre el manifiesto en verso de Lope de Vega de 1609 donde rompe con las normas clásicas de Aristóteles. ¿Qué innovación estética se describe aquí?
 
 ### Opciones
-- [x] A) El desarrollo de Arte nuevo de hacer comedias.
+- [x] B) El desarrollo de Arte nuevo de hacer comedias.
   <!-- feedback: ¡Correcto! Se refiere a Arte nuevo de hacer comedias como una de las cumbres estéticas del Siglo de Oro. -->
-- [ ] B) Un regionalismo lingüístico del caliche salvadoreño actual.
+- [ ] A) Un regionalismo lingüístico del caliche salvadoreño actual.
   <!-- feedback: Incorrecto. Se analiza la literatura peninsular del Siglo de Oro, no variantes del habla salvadoreña moderna. -->
 - [ ] C) La barrera fisiológica en el canal acústico del receptor.
   <!-- feedback: Incorrecto. No hay un problema físico de comunicación, es una innovación artística. -->
@@ -162,9 +162,9 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 Durante el análisis de las obras fundamentales de Cervantes y Lope de Vega, el grupo expone sobre la omisión de las reglas clásicas de tiempo, lugar y acción para dar mayor dinamismo e interés al drama. ¿Qué innovación estética se describe aquí?
 
 ### Opciones
-- [x] A) El desarrollo de ruptura de tres unidades.
+- [x] B) El desarrollo de ruptura de tres unidades.
   <!-- feedback: ¡Correcto! Se refiere a ruptura de tres unidades como una de las cumbres estéticas del Siglo de Oro. -->
-- [ ] B) Un regionalismo lingüístico del caliche salvadoreño actual.
+- [ ] A) Un regionalismo lingüístico del caliche salvadoreño actual.
   <!-- feedback: Incorrecto. Se analiza la literatura peninsular del Siglo de Oro, no variantes del habla salvadoreña moderna. -->
 - [ ] C) La barrera fisiológica en el canal acústico del receptor.
   <!-- feedback: Incorrecto. No hay un problema físico de comunicación, es una innovación artística. -->
@@ -188,11 +188,11 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 Durante el análisis de las obras fundamentales de Cervantes y Lope de Vega, el grupo expone sobre la figura del criado ingenioso, cómico y cobarde que actúa como contrapeso realista de las pasiones del galán. ¿Qué innovación estética se describe aquí?
 
 ### Opciones
-- [x] A) El desarrollo de personaje del gracioso.
+- [x] C) El desarrollo de personaje del gracioso.
   <!-- feedback: ¡Correcto! Se refiere a personaje del gracioso como una de las cumbres estéticas del Siglo de Oro. -->
-- [ ] B) Un regionalismo lingüístico del caliche salvadoreño actual.
+- [ ] A) Un regionalismo lingüístico del caliche salvadoreño actual.
   <!-- feedback: Incorrecto. Se analiza la literatura peninsular del Siglo de Oro, no variantes del habla salvadoreña moderna. -->
-- [ ] C) La barrera fisiológica en el canal acústico del receptor.
+- [ ] B) La barrera fisiológica en el canal acústico del receptor.
   <!-- feedback: Incorrecto. No hay un problema físico de comunicación, es una innovación artística. -->
 - [ ] D) La métrica lírica del verso alejandrino de Francisco Gavidia.
   <!-- feedback: Incorrecto. El alejandrino modernista surgió a finales del siglo XIX, ajeno al Siglo de Oro. -->
@@ -214,13 +214,13 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 Durante el análisis de las obras fundamentales de Cervantes y Lope de Vega, el grupo expone sobre el principio social que exigía defender la reputación y la limpieza de sangre ante cualquier ofensa. ¿Qué innovación estética se describe aquí?
 
 ### Opciones
-- [x] A) El desarrollo de código de la honra barroca.
+- [x] D) El desarrollo de código de la honra barroca.
   <!-- feedback: ¡Correcto! Se refiere a código de la honra barroca como una de las cumbres estéticas del Siglo de Oro. -->
-- [ ] B) Un regionalismo lingüístico del caliche salvadoreño actual.
+- [ ] A) Un regionalismo lingüístico del caliche salvadoreño actual.
   <!-- feedback: Incorrecto. Se analiza la literatura peninsular del Siglo de Oro, no variantes del habla salvadoreña moderna. -->
-- [ ] C) La barrera fisiológica en el canal acústico del receptor.
+- [ ] B) La barrera fisiológica en el canal acústico del receptor.
   <!-- feedback: Incorrecto. No hay un problema físico de comunicación, es una innovación artística. -->
-- [ ] D) La métrica lírica del verso alejandrino de Francisco Gavidia.
+- [ ] C) La métrica lírica del verso alejandrino de Francisco Gavidia.
   <!-- feedback: Incorrecto. El alejandrino modernista surgió a finales del siglo XIX, ajeno al Siglo de Oro. -->
 
 ### Explicación Pedagógica
@@ -240,11 +240,11 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 Durante el análisis de las obras fundamentales de Cervantes y Lope de Vega, el grupo expone sobre la rebelión de todo un pueblo que asume conjuntamente la responsabilidad por la muerte del tiránico Comendador. ¿Qué innovación estética se describe aquí?
 
 ### Opciones
-- [x] A) El desarrollo de protagonismo colectivo en Fuenteovejuna.
+- [x] C) El desarrollo de protagonismo colectivo en Fuenteovejuna.
   <!-- feedback: ¡Correcto! Se refiere a protagonismo colectivo en Fuenteovejuna como una de las cumbres estéticas del Siglo de Oro. -->
-- [ ] B) Un regionalismo lingüístico del caliche salvadoreño actual.
+- [ ] A) Un regionalismo lingüístico del caliche salvadoreño actual.
   <!-- feedback: Incorrecto. Se analiza la literatura peninsular del Siglo de Oro, no variantes del habla salvadoreña moderna. -->
-- [ ] C) La barrera fisiológica en el canal acústico del receptor.
+- [ ] B) La barrera fisiológica en el canal acústico del receptor.
   <!-- feedback: Incorrecto. No hay un problema físico de comunicación, es una innovación artística. -->
 - [ ] D) La métrica lírica del verso alejandrino de Francisco Gavidia.
   <!-- feedback: Incorrecto. El alejandrino modernista surgió a finales del siglo XIX, ajeno al Siglo de Oro. -->
@@ -266,13 +266,13 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 Durante el análisis de las obras fundamentales de Cervantes y Lope de Vega, el grupo expone sobre la tragicomedia de 1499 que retrata la crisis del teocentrismo medieval y el inicio del humanismo renacentista. ¿Qué innovación estética se describe aquí?
 
 ### Opciones
-- [x] A) El desarrollo de La Celestina de Rojas.
+- [x] D) El desarrollo de La Celestina de Rojas.
   <!-- feedback: ¡Correcto! Se refiere a La Celestina de Rojas como una de las cumbres estéticas del Siglo de Oro. -->
-- [ ] B) Un regionalismo lingüístico del caliche salvadoreño actual.
+- [ ] A) Un regionalismo lingüístico del caliche salvadoreño actual.
   <!-- feedback: Incorrecto. Se analiza la literatura peninsular del Siglo de Oro, no variantes del habla salvadoreña moderna. -->
-- [ ] C) La barrera fisiológica en el canal acústico del receptor.
+- [ ] B) La barrera fisiológica en el canal acústico del receptor.
   <!-- feedback: Incorrecto. No hay un problema físico de comunicación, es una innovación artística. -->
-- [ ] D) La métrica lírica del verso alejandrino de Francisco Gavidia.
+- [ ] C) La métrica lírica del verso alejandrino de Francisco Gavidia.
   <!-- feedback: Incorrecto. El alejandrino modernista surgió a finales del siglo XIX, ajeno al Siglo de Oro. -->
 
 ### Explicación Pedagógica
@@ -292,9 +292,9 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 Durante el análisis de las obras fundamentales de Cervantes y Lope de Vega, el grupo expone sobre el drama 'La vida es sueño' donde Segismundo lucha contra el destino de las estrellas para demostrar su libertad. ¿Qué innovación estética se describe aquí?
 
 ### Opciones
-- [x] A) El desarrollo de libre albedrío en Calderón.
+- [x] B) El desarrollo de libre albedrío en Calderón.
   <!-- feedback: ¡Correcto! Se refiere a libre albedrío en Calderón como una de las cumbres estéticas del Siglo de Oro. -->
-- [ ] B) Un regionalismo lingüístico del caliche salvadoreño actual.
+- [ ] A) Un regionalismo lingüístico del caliche salvadoreño actual.
   <!-- feedback: Incorrecto. Se analiza la literatura peninsular del Siglo de Oro, no variantes del habla salvadoreña moderna. -->
 - [ ] C) La barrera fisiológica en el canal acústico del receptor.
   <!-- feedback: Incorrecto. No hay un problema físico de comunicación, es una innovación artística. -->
@@ -318,13 +318,13 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 Durante el análisis de las obras fundamentales de Cervantes y Lope de Vega, el grupo expone sobre el patio abierto de casas de vecinos que servía de escenario público para las representaciones teatrales populares. ¿Qué innovación estética se describe aquí?
 
 ### Opciones
-- [x] A) El desarrollo de el corral de comedias.
+- [x] D) El desarrollo de el corral de comedias.
   <!-- feedback: ¡Correcto! Se refiere a el corral de comedias como una de las cumbres estéticas del Siglo de Oro. -->
-- [ ] B) Un regionalismo lingüístico del caliche salvadoreño actual.
+- [ ] A) Un regionalismo lingüístico del caliche salvadoreño actual.
   <!-- feedback: Incorrecto. Se analiza la literatura peninsular del Siglo de Oro, no variantes del habla salvadoreña moderna. -->
-- [ ] C) La barrera fisiológica en el canal acústico del receptor.
+- [ ] B) La barrera fisiológica en el canal acústico del receptor.
   <!-- feedback: Incorrecto. No hay un problema físico de comunicación, es una innovación artística. -->
-- [ ] D) La métrica lírica del verso alejandrino de Francisco Gavidia.
+- [ ] C) La métrica lírica del verso alejandrino de Francisco Gavidia.
   <!-- feedback: Incorrecto. El alejandrino modernista surgió a finales del siglo XIX, ajeno al Siglo de Oro. -->
 
 ### Explicación Pedagógica
@@ -344,11 +344,11 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 Durante el análisis de las obras fundamentales de Cervantes y Lope de Vega, el grupo expone sobre la variación de estrofas y rimas en los versos según las exigencias emocionales y el estatus del personaje. ¿Qué innovación estética se describe aquí?
 
 ### Opciones
-- [x] A) El desarrollo de polimetría dramática.
+- [x] C) El desarrollo de polimetría dramática.
   <!-- feedback: ¡Correcto! Se refiere a polimetría dramática como una de las cumbres estéticas del Siglo de Oro. -->
-- [ ] B) Un regionalismo lingüístico del caliche salvadoreño actual.
+- [ ] A) Un regionalismo lingüístico del caliche salvadoreño actual.
   <!-- feedback: Incorrecto. Se analiza la literatura peninsular del Siglo de Oro, no variantes del habla salvadoreña moderna. -->
-- [ ] C) La barrera fisiológica en el canal acústico del receptor.
+- [ ] B) La barrera fisiológica en el canal acústico del receptor.
   <!-- feedback: Incorrecto. No hay un problema físico de comunicación, es una innovación artística. -->
 - [ ] D) La métrica lírica del verso alejandrino de Francisco Gavidia.
   <!-- feedback: Incorrecto. El alejandrino modernista surgió a finales del siglo XIX, ajeno al Siglo de Oro. -->
@@ -370,11 +370,11 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 Durante el análisis de las obras fundamentales de Cervantes y Lope de Vega, el grupo expone sobre la obra de Tirso de Molina que crea el personaje mítico del seductor cínico castigado por la justicia divina. ¿Qué innovación estética se describe aquí?
 
 ### Opciones
-- [x] A) El desarrollo de el burlador de Don Juan.
+- [x] C) El desarrollo de el burlador de Don Juan.
   <!-- feedback: ¡Correcto! Se refiere a el burlador de Don Juan como una de las cumbres estéticas del Siglo de Oro. -->
-- [ ] B) Un regionalismo lingüístico del caliche salvadoreño actual.
+- [ ] A) Un regionalismo lingüístico del caliche salvadoreño actual.
   <!-- feedback: Incorrecto. Se analiza la literatura peninsular del Siglo de Oro, no variantes del habla salvadoreña moderna. -->
-- [ ] C) La barrera fisiológica en el canal acústico del receptor.
+- [ ] B) La barrera fisiológica en el canal acústico del receptor.
   <!-- feedback: Incorrecto. No hay un problema físico de comunicación, es una innovación artística. -->
 - [ ] D) La métrica lírica del verso alejandrino de Francisco Gavidia.
   <!-- feedback: Incorrecto. El alejandrino modernista surgió a finales del siglo XIX, ajeno al Siglo de Oro. -->
@@ -422,9 +422,9 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 Durante el análisis de las obras fundamentales de Cervantes y Lope de Vega, el grupo expone sobre los protagonistas de los enredos de amor, celos e intrigas caballerescas del teatro barroco español. ¿Qué innovación estética se describe aquí?
 
 ### Opciones
-- [x] A) El desarrollo de galán y dama en comedia.
+- [x] B) El desarrollo de galán y dama en comedia.
   <!-- feedback: ¡Correcto! Se refiere a galán y dama en comedia como una de las cumbres estéticas del Siglo de Oro. -->
-- [ ] B) Un regionalismo lingüístico del caliche salvadoreño actual.
+- [ ] A) Un regionalismo lingüístico del caliche salvadoreño actual.
   <!-- feedback: Incorrecto. Se analiza la literatura peninsular del Siglo de Oro, no variantes del habla salvadoreña moderna. -->
 - [ ] C) La barrera fisiológica en el canal acústico del receptor.
   <!-- feedback: Incorrecto. No hay un problema físico de comunicación, es una innovación artística. -->
@@ -448,13 +448,13 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 Durante el análisis de las obras fundamentales de Cervantes y Lope de Vega, el grupo expone sobre la corriente poética barroca enfocada en la densidad de ideas, el doble sentido, el ingenio y los juegos de palabras. ¿Qué innovación estética se describe aquí?
 
 ### Opciones
-- [x] A) El desarrollo de conceptismo de Quevedo.
+- [x] D) El desarrollo de conceptismo de Quevedo.
   <!-- feedback: ¡Correcto! Se refiere a conceptismo de Quevedo como una de las cumbres estéticas del Siglo de Oro. -->
-- [ ] B) Un regionalismo lingüístico del caliche salvadoreño actual.
+- [ ] A) Un regionalismo lingüístico del caliche salvadoreño actual.
   <!-- feedback: Incorrecto. Se analiza la literatura peninsular del Siglo de Oro, no variantes del habla salvadoreña moderna. -->
-- [ ] C) La barrera fisiológica en el canal acústico del receptor.
+- [ ] B) La barrera fisiológica en el canal acústico del receptor.
   <!-- feedback: Incorrecto. No hay un problema físico de comunicación, es una innovación artística. -->
-- [ ] D) La métrica lírica del verso alejandrino de Francisco Gavidia.
+- [ ] C) La métrica lírica del verso alejandrino de Francisco Gavidia.
   <!-- feedback: Incorrecto. El alejandrino modernista surgió a finales del siglo XIX, ajeno al Siglo de Oro. -->
 
 ### Explicación Pedagógica
@@ -526,11 +526,11 @@ Esta característica es representativa de la gran revolución literaria de Espa�
 Durante el análisis de las obras fundamentales de Cervantes y Lope de Vega, el grupo expone sobre la técnica narrativa que presenta una misma realidad (como los molinos de viento) bajo diversas miradas y juicios. ¿Qué innovación estética se describe aquí?
 
 ### Opciones
-- [x] A) El desarrollo de perspectivismo cervantino.
+- [x] C) El desarrollo de perspectivismo cervantino.
   <!-- feedback: ¡Correcto! Se refiere a perspectivismo cervantino como una de las cumbres estéticas del Siglo de Oro. -->
-- [ ] B) Un regionalismo lingüístico del caliche salvadoreño actual.
+- [ ] A) Un regionalismo lingüístico del caliche salvadoreño actual.
   <!-- feedback: Incorrecto. Se analiza la literatura peninsular del Siglo de Oro, no variantes del habla salvadoreña moderna. -->
-- [ ] C) La barrera fisiológica en el canal acústico del receptor.
+- [ ] B) La barrera fisiológica en el canal acústico del receptor.
   <!-- feedback: Incorrecto. No hay un problema físico de comunicación, es una innovación artística. -->
 - [ ] D) La métrica lírica del verso alejandrino de Francisco Gavidia.
   <!-- feedback: Incorrecto. El alejandrino modernista surgió a finales del siglo XIX, ajeno al Siglo de Oro. -->

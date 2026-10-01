@@ -76,9 +76,9 @@ I wish I had pursued my passion for music instead of choosing a more stable job.
 
 ### Opciones
 - [ ] A) pursue <!-- feedback: Incorrect. Present tense. -->
-- [x] B) had pursued <!-- feedback: Correct. 'Wish + past perfect' for regrets about the past. -->
-- [ ] C) would pursue <!-- feedback: Incorrect. 'Wish + would' is for the future. -->
-- [ ] D) pursued <!-- feedback: Incorrect. Past simple. -->
+- [x] D) had pursued <!-- feedback: Correct. 'Wish + past perfect' for regrets about the past. -->
+- [ ] B) would pursue <!-- feedback: Incorrect. 'Wish + would' is for the future. -->
+- [ ] C) pursued <!-- feedback: Incorrect. Past simple. -->
 
 ### Explicacion Pedagogica
 The structure 'wish + past perfect' is used to express regret about a past action or situation.
@@ -96,9 +96,9 @@ Job satisfaction is often linked to a sense of purpose and the ability to utiliz
 
 ### Opciones
 - [ ] A) wealth <!-- feedback: Incorrect. While related for some, 'purpose' is the focus here. -->
-- [x] B) purpose <!-- feedback: Correct. Purpose is the reason for which something is done or created. -->
-- [ ] C) leisure <!-- feedback: Incorrect. Pastime/free time. -->
-- [ ] D) status <!-- feedback: Incorrect. Social position. -->
+- [x] D) purpose <!-- feedback: Correct. Purpose is the reason for which something is done or created. -->
+- [ ] B) leisure <!-- feedback: Incorrect. Pastime/free time. -->
+- [ ] C) status <!-- feedback: Incorrect. Social position. -->
 
 ### Explicacion Pedagogica
 'Purpose' refers to the meaningful motivation behind one's professional activities.
@@ -116,9 +116,9 @@ The concept of a "dream job" is subjective, as what one person finds fulfilling,
 
 ### Opciones
 - [ ] A) universal <!-- feedback: Incorrect. Universal means the same for everyone. -->
-- [x] B) subjective <!-- feedback: Correct. Subjective means based on personal feelings or tastes. -->
-- [ ] C) objective <!-- feedback: Incorrect. Objective means based on facts. -->
-- [ ] D) mandatory <!-- feedback: Incorrect. Mandatory means required. -->
+- [x] D) subjective <!-- feedback: Correct. Subjective means based on personal feelings or tastes. -->
+- [ ] B) objective <!-- feedback: Incorrect. Objective means based on facts. -->
+- [ ] C) mandatory <!-- feedback: Incorrect. Mandatory means required. -->
 
 ### Explicacion Pedagogica
 'Subjective' correctly identifies that the value of a job depends on the individual's personal perspective.
@@ -155,8 +155,8 @@ An architect is a person who designs buildings and in many cases also supervises
 By the time she is thirty, she hopes to have established her own photography studio.
 
 ### Opciones
-- [ ] A) establish <!-- feedback: Incorrect. Simple infinitive. -->
-- [x] B) to have established <!-- feedback: Correct. Perfect infinitive for a completed action in the future. -->
+- [ ] B) establish <!-- feedback: Incorrect. Simple infinitive. -->
+- [x] A) to have established <!-- feedback: Correct. Perfect infinitive for a completed action in the future. -->
 - [ ] C) establishing <!-- feedback: Incorrect. Gerund. -->
 - [ ] D) established <!-- feedback: Incorrect. Past participle. -->
 
@@ -216,8 +216,8 @@ The article suggests that the obsession with "hustle culture" can lead people to
 
 ### Opciones
 - [ ] A) enhance <!-- feedback: Incorrect. Hustle culture usually harms mental health. -->
-- [x] B) sacrifice <!-- feedback: Correct. To sacrifice means to give up something valued for something else considered more important. -->
-- [ ] C) ignore <!-- feedback: Incorrect. While people might ignore their health, the text uses 'sacrifice' to show the cost. -->
+- [x] C) sacrifice <!-- feedback: Correct. To sacrifice means to give up something valued for something else considered more important. -->
+- [ ] B) ignore <!-- feedback: Incorrect. While people might ignore their health, the text uses 'sacrifice' to show the cost. -->
 - [ ] D) celebrate <!-- feedback: Incorrect. Sacrifice is not celebration. -->
 
 ### Explicacion Pedagogica
@@ -236,9 +236,9 @@ A cover letter is a document sent with your resume to provide additional informa
 
 ### Opciones
 - [ ] A) script <!-- feedback: Incorrect. A script is for a play. -->
-- [x] B) cover letter <!-- feedback: Correct. Standard job application document. -->
-- [ ] C) transcript <!-- feedback: Incorrect. A transcript shows grades. -->
-- [ ] D) warrant <!-- feedback: Incorrect. A legal document. -->
+- [x] D) cover letter <!-- feedback: Correct. Standard job application document. -->
+- [ ] B) transcript <!-- feedback: Incorrect. A transcript shows grades. -->
+- [ ] C) warrant <!-- feedback: Incorrect. A legal document. -->
 
 ### Explicacion Pedagogica
 'Cover letter' is the professional term for the introductory letter sent with a resume.
@@ -256,8 +256,8 @@ Public speaking is a skill that takes years of practice to master.
 
 ### Opciones
 - [ ] A) mastering <!-- feedback: Incorrect. Infinitive needed after 'to'. -->
-- [x] B) to master <!-- feedback: Correct. Infinitive 'to master' follows 'years of practice'. -->
-- [ ] C) master <!-- feedback: Incorrect. Base form without 'to'. -->
+- [x] C) to master <!-- feedback: Correct. Infinitive 'to master' follows 'years of practice'. -->
+- [ ] B) master <!-- feedback: Incorrect. Base form without 'to'. -->
 - [ ] D) mastered <!-- feedback: Incorrect. Past participle. -->
 
 ### Explicacion Pedagogica
@@ -275,9 +275,9 @@ The infinitive 'to master' is used to express the goal of the practice.
 Many people choose a career path that aligns with their personal values and beliefs.
 
 ### Opciones
-- [x] A) aligns with <!-- feedback: Correct. 'Align with' means to be in agreement or accord with. -->
-- [ ] B) conflicts with <!-- feedback: Incorrect. Most people prefer to avoid conflict with their values. -->
-- [ ] C) ignores <!-- feedback: Incorrect. Ignoring values usually leads to dissatisfaction. -->
+- [x] C) aligns with <!-- feedback: Correct. 'Align with' means to be in agreement or accord with. -->
+- [ ] A) conflicts with <!-- feedback: Incorrect. Most people prefer to avoid conflict with their values. -->
+- [ ] B) ignores <!-- feedback: Incorrect. Ignoring values usually leads to dissatisfaction. -->
 - [ ] D) replaces <!-- feedback: Incorrect. Values usually inform the career, not the other way around. -->
 
 ### Explicacion Pedagogica
@@ -296,9 +296,9 @@ If she had taken that internship last year, she would have more opportunities no
 
 ### Opciones
 - [ ] A) will have <!-- feedback: Incorrect. Present/future. -->
-- [x] B) would have <!-- feedback: Correct. Mixed conditional (past action, present result). -->
-- [ ] C) had <!-- feedback: Incorrect. Past tense. -->
-- [ ] D) would had <!-- feedback: Incorrect grammar. -->
+- [x] D) would have <!-- feedback: Correct. Mixed conditional (past action, present result). -->
+- [ ] B) had <!-- feedback: Incorrect. Past tense. -->
+- [ ] C) would had <!-- feedback: Incorrect grammar. -->
 
 ### Explicacion Pedagogica
 The mixed conditional (if + past perfect, would + verb) connects a past hypothetical with a present situation.
@@ -355,9 +355,9 @@ An entrepreneur is a person who sets up a business, taking on financial risks in
 It is recommended that you attend workshops to stay current in your field.
 
 ### Opciones
-- [x] A) attend <!-- feedback: Correct. Subjunctive mood after 'recommended'. -->
-- [ ] B) attends <!-- feedback: Incorrect. Not used in formal subjunctive. -->
-- [ ] C) to attend <!-- feedback: Incorrect. Doesn't fit the 'that' clause. -->
+- [x] C) attend <!-- feedback: Correct. Subjunctive mood after 'recommended'. -->
+- [ ] A) attends <!-- feedback: Incorrect. Not used in formal subjunctive. -->
+- [ ] B) to attend <!-- feedback: Incorrect. Doesn't fit the 'that' clause. -->
 - [ ] D) attending <!-- feedback: Incorrect. Gerund. -->
 
 ### Explicacion Pedagogica
@@ -375,8 +375,8 @@ The base form 'attend' is used in the subjunctive mood after verbs like 'recomme
 A visionary leader is someone who has clear ideas about what should happen or be done in the future.
 
 ### Opciones
-- [ ] A) cautious <!-- feedback: Incorrect. Focuses on avoiding risk. -->
-- [x] B) visionary <!-- feedback: Correct. A visionary looks to the future with imagination. -->
+- [ ] B) cautious <!-- feedback: Incorrect. Focuses on avoiding risk. -->
+- [x] A) visionary <!-- feedback: Correct. A visionary looks to the future with imagination. -->
 - [ ] C) reactionary <!-- feedback: Incorrect. Reacts against change. -->
 - [ ] D) passive <!-- feedback: Incorrect. Passive means inactive. -->
 
@@ -395,8 +395,8 @@ A visionary leader is someone who has clear ideas about what should happen or be
 By next year, he will have been working as a pilot for a decade.
 
 ### Opciones
-- [ ] A) will work <!-- feedback: Incorrect. Simple future. -->
-- [x] B) will have been working <!-- feedback: Correct. Future perfect continuous for duration up to a future point. -->
+- [ ] B) will work <!-- feedback: Incorrect. Simple future. -->
+- [x] A) will have been working <!-- feedback: Correct. Future perfect continuous for duration up to a future point. -->
 - [ ] C) works <!-- feedback: Incorrect. Present simple. -->
 - [ ] D) has been working <!-- feedback: Incorrect. Present perfect continuous. -->
 

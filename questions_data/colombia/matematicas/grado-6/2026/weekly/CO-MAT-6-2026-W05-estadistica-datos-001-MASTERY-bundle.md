@@ -32,13 +32,13 @@ Este bundle contiene 10 preguntas sobre **estadistica-datos** para grado 6, alin
 ### Enunciado
 La estadística es la rama de las matemáticas que se encarga de:
 ### Opciones
-- [x] A) Recolectar, organizar, analizar e interpretar datos.
+- [x] D) Recolectar, organizar, analizar e interpretar datos.
   <!-- feedback: Correcto. La estadística trabaja con datos. -->
-- [ ] B) Solo dibujar figuras.
+- [ ] A) Solo dibujar figuras.
   <!-- feedback: Incorrecto. Eso es geometría. -->
-- [ ] C) Resolver ecuaciones únicamente.
+- [ ] B) Resolver ecuaciones únicamente.
   <!-- feedback: Incorrecto. Es un campo amplio. -->
-- [ ] D) Contar números sin contexto.
+- [ ] C) Contar números sin contexto.
   <!-- feedback: Incorrecto. La estadística da contexto. -->
 ### Explicacion Pedagogica
 La estadística permite tomar decisiones informadas basadas en datos.
@@ -72,11 +72,11 @@ Las variables cualitativas representan características no numéricas.
 ### Enunciado
 Las notas de un estudiante son 4, 3, 5 y 2. ¿Cuál es su promedio?
 ### Opciones
-- [x] A) 3.5.
+- [x] C) 3.5.
   <!-- feedback: Correcto. $(4 + 3 + 5 + 2)/4 = 3.5$. -->
-- [ ] B) 14.
+- [ ] A) 14.
   <!-- feedback: Incorrecto. Esa es la suma, no el promedio. -->
-- [ ] C) 4.
+- [ ] B) 4.
   <!-- feedback: Incorrecto. Aproximaste. -->
 - [ ] D) 3.
   <!-- feedback: Incorrecto. No promediaste correctamente. -->
@@ -92,11 +92,11 @@ La media aritmética se calcula sumando los datos y dividiendo por la cantidad.
 ### Enunciado
 En una encuesta, los colores favoritos fueron: rojo (5), azul (8), verde (3), blanco (2). ¿Cuál es la moda?
 ### Opciones
-- [x] A) Azul.
+- [x] C) Azul.
   <!-- feedback: Correcto. Es el dato que más se repite. -->
-- [ ] B) Rojo.
+- [ ] A) Rojo.
   <!-- feedback: Incorrecto. Aparece 5 veces. -->
-- [ ] C) Verde.
+- [ ] B) Verde.
   <!-- feedback: Incorrecto. Solo 3 veces. -->
 - [ ] D) Blanco.
   <!-- feedback: Incorrecto. Solo 2 veces. -->
@@ -112,9 +112,9 @@ La moda es el valor con mayor frecuencia en un conjunto de datos.
 ### Enunciado
 Para los datos 2, 5, 7, 9, 11, ¿cuál es la mediana?
 ### Opciones
-- [x] A) 7.
+- [x] B) 7.
   <!-- feedback: Correcto. Es el valor central. -->
-- [ ] B) 5.
+- [ ] A) 5.
   <!-- feedback: Incorrecto. Es el segundo dato. -->
 - [ ] C) 9.
   <!-- feedback: Incorrecto. Es el cuarto dato. -->
@@ -152,11 +152,11 @@ El porcentaje se calcula dividiendo la frecuencia del dato entre el total y mult
 ### Enunciado
 ¿Qué información es más apropiada representar en un gráfico de barras?
 ### Opciones
-- [x] A) Cantidades comparadas entre categorías discretas.
+- [x] C) Cantidades comparadas entre categorías discretas.
   <!-- feedback: Correcto. Las barras facilitan la comparación. -->
-- [ ] B) Funciones continuas.
+- [ ] A) Funciones continuas.
   <!-- feedback: Incorrecto. Para eso se usan gráficos de línea. -->
-- [ ] C) Solo números muy grandes.
+- [ ] B) Solo números muy grandes.
   <!-- feedback: Incorrecto. Las barras sirven para distintos rangos. -->
 - [ ] D) Datos cíclicos únicamente.
   <!-- feedback: Incorrecto. Para cíclicos se usa otro tipo de gráfico. -->
@@ -172,9 +172,9 @@ El gráfico de barras muestra diferencias entre categorías mediante alturas pro
 ### Enunciado
 En un gráfico circular (pie), el total de los porcentajes debe sumar:
 ### Opciones
-- [x] A) 100 %.
+- [x] B) 100 %.
   <!-- feedback: Correcto. La circunferencia completa equivale al 100 %. -->
-- [ ] B) 360 %.
+- [ ] A) 360 %.
   <!-- feedback: Incorrecto. 360° no es 360 %. -->
 - [ ] C) 50 %.
   <!-- feedback: Incorrecto. Solo sería una mitad. -->
@@ -192,13 +192,13 @@ El gráfico circular distribuye el todo (100 %) en porciones proporcionales.
 ### Enunciado
 Para que una encuesta sea confiable, ¿qué requisito es fundamental?
 ### Opciones
-- [x] A) Tener una muestra representativa y preguntas claras.
+- [x] D) Tener una muestra representativa y preguntas claras.
   <!-- feedback: Correcto. La calidad de los datos depende de ello. -->
-- [ ] B) Preguntar solo a amigos.
+- [ ] A) Preguntar solo a amigos.
   <!-- feedback: Incorrecto. La muestra debe ser diversa. -->
-- [ ] C) Evitar tabular los datos.
+- [ ] B) Evitar tabular los datos.
   <!-- feedback: Incorrecto. La tabulación es clave. -->
-- [ ] D) No publicar resultados.
+- [ ] C) No publicar resultados.
   <!-- feedback: Incorrecto. Comunicar es importante. -->
 ### Explicacion Pedagogica
 Una encuesta válida requiere muestra, preguntas neutrales y análisis riguroso.
@@ -212,9 +212,9 @@ Una encuesta válida requiere muestra, preguntas neutrales y análisis riguroso.
 ### Enunciado
 El análisis estadístico ayuda a tomar decisiones porque:
 ### Opciones
-- [ ] A) Solo sirve para adivinar.
+- [ ] B) Solo sirve para adivinar.
   <!-- feedback: Incorrecto. Se basa en datos. -->
-- [x] B) Permite resumir información, identificar tendencias y reducir la incertidumbre.
+- [x] A) Permite resumir información, identificar tendencias y reducir la incertidumbre.
   <!-- feedback: Correcto. La estadística informa decisiones. -->
 - [ ] C) Reemplaza el juicio humano.
   <!-- feedback: Incorrecto. Lo complementa. -->

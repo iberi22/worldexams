@@ -50,9 +50,9 @@ El lenguaje periodístico se caracteriza por su claridad, concisión y objetivid
 
 ### Opciones
 - [ ] A) Titular. <!-- feedback: El titular es el encabezado que resume la noticia, no un párrafo completo. -->
-- [x] B) Lead o entradilla. <!-- feedback: El lead o entradilla es el primer párrafo que condensa los datos más relevantes del suceso. -->
-- [ ] C) Cuerpo de la noticia. <!-- feedback: El cuerpo es el desarrollo detallado de la información, que viene después de la entradilla. -->
-- [ ] D) Pie de foto. <!-- feedback: El pie de foto es el texto que acompaña y explica una imagen. -->
+- [x] D) Lead o entradilla. <!-- feedback: El lead o entradilla es el primer párrafo que condensa los datos más relevantes del suceso. -->
+- [ ] B) Cuerpo de la noticia. <!-- feedback: El cuerpo es el desarrollo detallado de la información, que viene después de la entradilla. -->
+- [ ] C) Pie de foto. <!-- feedback: El pie de foto es el texto que acompaña y explica una imagen. -->
 
 ### Explicacion Pedagogica
 La noticia suele seguir una estructura de "pirámide invertida". El lead o entradilla es el componente esencial que presenta el núcleo de la información, permitiendo al lector enterarse de lo principal desde el comienzo.
@@ -87,9 +87,9 @@ Aunque el periodismo busca la objetividad, en géneros como la crónica o el rep
 ¿Qué principio del lenguaje periodístico está enfatizando el editor con su comentario?
 
 ### Opciones
-- [ ] A) La brevedad absoluta. <!-- feedback: El editor no se refiere al tamaño del texto, sino al vocabulario utilizado. -->
-- [ ] B) La precisión terminológica. <!-- feedback: Aunque la precisión es importante, el exceso de tecnicismos atenta contra la accesibilidad. -->
-- [x] C) La adecuación al público. <!-- feedback: El lenguaje periodístico debe adaptarse para que sea comprendido por personas que no son expertas en el tema. -->
+- [ ] B) La brevedad absoluta. <!-- feedback: El editor no se refiere al tamaño del texto, sino al vocabulario utilizado. -->
+- [ ] C) La precisión terminológica. <!-- feedback: Aunque la precisión es importante, el exceso de tecnicismos atenta contra la accesibilidad. -->
+- [x] A) La adecuación al público. <!-- feedback: El lenguaje periodístico debe adaptarse para que sea comprendido por personas que no son expertas en el tema. -->
 - [ ] D) La originalidad creativa. <!-- feedback: El problema señalado no es la falta de creatividad, sino la dificultad del lenguaje. -->
 
 ### Explicacion Pedagogica
@@ -126,8 +126,8 @@ Si quisiéramos hacer este titular aún más objetivo y neutral, eliminando la c
 
 ### Opciones
 - [ ] A) Injusto aumento en el precio del transporte público en Bucaramanga. <!-- feedback: "Injusto" es un adjetivo calificativo muy subjetivo que toma una posición. -->
-- [x] B) Incremento en la tarifa del transporte público en Bucaramanga provoca protestas. <!-- feedback: Esta opción relata los hechos (el incremento y las protestas) sin adjetivos subjetivos como "polémico". -->
-- [ ] C) Terrible noticia para los usuarios del transporte en Bucaramanga por alza de precios. <!-- feedback: "Terrible noticia" es una valoración emocional que no es neutral. -->
+- [x] C) Incremento en la tarifa del transporte público en Bucaramanga provoca protestas. <!-- feedback: Esta opción relata los hechos (el incremento y las protestas) sin adjetivos subjetivos como "polémico". -->
+- [ ] B) Terrible noticia para los usuarios del transporte en Bucaramanga por alza de precios. <!-- feedback: "Terrible noticia" es una valoración emocional que no es neutral. -->
 - [ ] D) Se registra un cambio en los precios del transporte en Bucaramanga. <!-- feedback: Aunque es neutral, es demasiado vaga al no especificar que es un aumento ni la reacción social. -->
 
 ### Explicacion Pedagogica
@@ -147,8 +147,8 @@ La objetividad se logra mediante la selección de sustantivos y verbos precisos,
 
 ### Opciones
 - [ ] A) El enunciado 1 es más preciso en cuanto a datos estadísticos. <!-- feedback: Es al revés, el enunciado 2 es el que aporta el marcador y el minuto. -->
-- [x] B) El enunciado 1 utiliza un lenguaje valorativo, mientras que el 2 es puramente informativo. <!-- feedback: "Sufrida", "heroica" y "formidable" son valoraciones; el 2 solo da los hechos. -->
-- [ ] C) El enunciado 2 busca emocionar al lector mediante el uso de metáforas. <!-- feedback: El enunciado 2 es seco y factual, no usa metáforas. -->
+- [x] C) El enunciado 1 utiliza un lenguaje valorativo, mientras que el 2 es puramente informativo. <!-- feedback: "Sufrida", "heroica" y "formidable" son valoraciones; el 2 solo da los hechos. -->
+- [ ] B) El enunciado 2 busca emocionar al lector mediante el uso de metáforas. <!-- feedback: El enunciado 2 es seco y factual, no usa metáforas. -->
 - [ ] D) No hay diferencia, ambos cumplen la función informativa de la misma manera. <!-- feedback: Sí hay diferencia en el enfoque y el tipo de palabras elegidas (valorativas vs. neutras). -->
 
 ### Explicacion Pedagogica
@@ -166,9 +166,9 @@ El análisis de textos periodísticos permite distinguir entre información (hec
 
 ### Opciones
 - [ ] A) Es idéntica al lenguaje informativo porque se basa en un problema real. <!-- feedback: Aunque el problema es real, la forma de expresarlo incluye una demanda y una advertencia subjetiva. -->
-- [x] B) Se aleja del informativo al usar formas imperativas y juicios de valor sobre la urgencia del tema. <!-- feedback: El uso de "es imperativo" y "antes de que sea tarde" refleja la posición y la exhortación del autor. -->
-- [ ] C) Es incorrecta gramaticalmente para el periodismo porque usa la primera persona implícita. <!-- feedback: No es incorrecta; en el periodismo de opinión es válido expresar posturas personales. -->
-- [ ] D) Carece de rigor periodístico porque no cita una fuente estadística inmediata. <!-- feedback: Las columnas de opinión no siempre requieren citas estadísticas en cada frase, su valor es el argumento. -->
+- [x] D) Se aleja del informativo al usar formas imperativas y juicios de valor sobre la urgencia del tema. <!-- feedback: El uso de "es imperativo" y "antes de que sea tarde" refleja la posición y la exhortación del autor. -->
+- [ ] B) Es incorrecta gramaticalmente para el periodismo porque usa la primera persona implícita. <!-- feedback: No es incorrecta; en el periodismo de opinión es válido expresar posturas personales. -->
+- [ ] C) Carece de rigor periodístico porque no cita una fuente estadística inmediata. <!-- feedback: Las columnas de opinión no siempre requieren citas estadísticas en cada frase, su valor es el argumento. -->
 
 ### Explicacion Pedagogica
 El lenguaje periodístico varía según el género. Mientras la noticia busca la distancia, la columna de opinión utiliza un lenguaje persuasivo y exhortativo, empleando recursos para convencer al lector de una postura determinada.
@@ -184,8 +184,8 @@ El lenguaje periodístico varía según el género. Mientras la noticia busca la
 Desde una perspectiva de ética y calidad del lenguaje periodístico, ¿cuál es el principal problema de este tipo de titulares?
 
 ### Opciones
-- [ ] A) Que son demasiado largos y cansan al lector. <!-- feedback: Generalmente son cortos, el problema no es la longitud. -->
-- [x] B) Que sacrifican la claridad informativa por la curiosidad morbosa, ocultando los datos clave. <!-- feedback: El "clickbait" atenta contra la función principal de informar de manera clara y directa desde el titular. -->
+- [ ] B) Que son demasiado largos y cansan al lector. <!-- feedback: Generalmente son cortos, el problema no es la longitud. -->
+- [x] A) Que sacrifican la claridad informativa por la curiosidad morbosa, ocultando los datos clave. <!-- feedback: El "clickbait" atenta contra la función principal de informar de manera clara y directa desde el titular. -->
 - [ ] C) Que utilizan un vocabulario demasiado complejo para el ciudadano común. <!-- feedback: Al contrario, suelen usar un lenguaje muy simple y coloquial. -->
 - [ ] D) Que no pueden ser publicados legalmente en Colombia. <!-- feedback: No son ilegales, pero sí son cuestionados desde la ética profesional del periodismo. -->
 
@@ -203,9 +203,9 @@ El lenguaje periodístico debe ser honesto. El clickbait distorsiona la promesa 
 Al evaluar el lenguaje de ambos textos, ¿cuál es la conclusión más acertada sobre el uso de las palabras en el ejercicio periodístico?
 
 ### Opciones
-- [ ] A) El primer texto es el único correcto porque describe la violencia de los hechos. <!-- feedback: "Turba violenta" es una etiqueta cargada que puede no ser representativa de toda la protesta. -->
-- [ ] B) El segundo texto es incorrecto porque no defiende los derechos de los ciudadanos. <!-- feedback: El periodismo no debe "defender" bandos, sino informar con neutralidad los hechos. -->
-- [x] C) Ambos textos demuestran que la elección del léxico puede sesgar la percepción del lector sobre un mismo hecho. <!-- feedback: Palabras como "turba" frente a "manifestantes" o "violenta" frente a "medida de presión" crean marcos mentales distintos. -->
+- [ ] B) El primer texto es el único correcto porque describe la violencia de los hechos. <!-- feedback: "Turba violenta" es una etiqueta cargada que puede no ser representativa de toda la protesta. -->
+- [ ] C) El segundo texto es incorrecto porque no defiende los derechos de los ciudadanos. <!-- feedback: El periodismo no debe "defender" bandos, sino informar con neutralidad los hechos. -->
+- [x] A) Ambos textos demuestran que la elección del léxico puede sesgar la percepción del lector sobre un mismo hecho. <!-- feedback: Palabras como "turba" frente a "manifestantes" o "violenta" frente a "medida de presión" crean marcos mentales distintos. -->
 - [ ] D) El uso de adjetivos no tiene ningún impacto en cómo se entiende la noticia. <!-- feedback: Los adjetivos son herramientas poderosas que pueden orientar la opinión del lector de manera sutil o directa. -->
 
 ### Explicacion Pedagogica

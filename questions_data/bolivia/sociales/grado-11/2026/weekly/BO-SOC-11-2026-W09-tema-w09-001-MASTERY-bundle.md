@@ -56,13 +56,13 @@ La Revolución del 9 de abril de 1852 (frecuentemente referida como la Revoluci�
 ¿Qué reforma electoral del gobierno del MNR en 1952 otorgó el derecho al sufragio a las mujeres, indígenas y analfabetos?
 
 ### Opciones
-- [x] A) El Decreto de Voto Universal, que eliminó los requisitos de propiedad y alfabetismo para votar.
+- [x] D) El Decreto de Voto Universal, que eliminó los requisitos de propiedad y alfabetismo para votar.
   <!-- feedback: Correcto. El Decreto de Voto Universal aprobado en julio de 1952 concedió de forma democrática el sufragio a toda la población mayor de edad sin discriminación de género, etnia o nivel de instrucción, ampliando drásticamente el electorado. -->
-- [ ] B) La Constitución de 2009 que declaró a Bolivia Estado Plurinacional bajo las órdenes de Simón Bolívar.
+- [ ] A) La Constitución de 2009 que declaró a Bolivia Estado Plurinacional bajo las órdenes de Simón Bolívar.
   <!-- feedback: Incorrecto. La Constitución de 2009 es del siglo XXI; Simón Bolívar falleció en 1830, décadas antes de la revolución de 1952. -->
-- [ ] C) El Tratado de Petrópolis de 1903 que permitía el voto libre de colonos de origen brasileño en el Acre.
+- [ ] B) El Tratado de Petrópolis de 1903 que permitía el voto libre de colonos de origen brasileño en el Acre.
   <!-- feedback: Incorrecto. El Tratado de Petrópolis de 1903 fijó límites geográficos con el Brasil por causa del caucho, ajeno al voto universal de 1952. -->
-- [ ] D) El Código de Minería de Potosí que permitía votar únicamente a quienes poseyeran títulos de propiedad minera.
+- [ ] C) El Código de Minería de Potosí que permitía votar únicamente a quienes poseyeran títulos de propiedad minera.
   <!-- feedback: Incorrecto. Esa era la restricción del antiguo voto calificado censitario oligárquico, justamente abolido por el voto universal. -->
 
 ### Explicacion Pedagogica
@@ -79,11 +79,11 @@ El Voto Universal constituyó un hito democratizador sin parangón en Bolivia. P
 ¿Qué medida de soberanía económica decretó el presidente Víctor Paz Estenssoro en octubre de 1952 sobre la gran minería del estaño?
 
 ### Opciones
-- [x] A) La nacionalización de las minas pertenecientes a los barones del estaño (Patiño, Aramayo, Hoschild) y la creación de la empresa pública COMIBOL.
+- [x] C) La nacionalización de las minas pertenecientes a los barones del estaño (Patiño, Aramayo, Hoschild) y la creación de la empresa pública COMIBOL.
   <!-- feedback: Correcto. El 31 de octubre de 1952, en el campo de María Barzola de Catavi, Paz Estenssoro firmó el decreto de nacionalización minera, estatizando la inmensa riqueza del estaño en beneficio del Estado boliviano, fundando la Corporación Minera de Bolivia (COMIBOL). -->
-- [ ] B) La entrega total de los socavones mineros a empresarios británicos asentados en la costa de Antofagasta.
+- [ ] A) La entrega total de los socavones mineros a empresarios británicos asentados en la costa de Antofagasta.
   <!-- feedback: Incorrecto. La revolución estatizó las minas para expulsar a la oligarquía aliada a capitales extranjeros de exportación, sin entregar socavones a británicos. -->
-- [ ] C) La privatización de la Casa de la Moneda de Potosí en favor de las fuerzas armadas paraguayas.
+- [ ] B) La privatización de la Casa de la Moneda de Potosí en favor de las fuerzas armadas paraguayas.
   <!-- feedback: Incorrecto. La Casa de la Moneda continuó como museo y patrimonio histórico nacional de Bolivia y las minas se nacionalizaron. -->
 - [ ] D) La prohibición absoluta de extraer plata y estaño para preservar los bosques de galería del Beni.
   <!-- feedback: Incorrecto. No se prohibió la extracción; el estaño continuó siendo el principal sostén y motor del presupuesto estatal de Bolivia. -->
@@ -102,9 +102,9 @@ La nacionalización del estaño descabezó el poder económico de los tres grand
 ¿Qué principio socioeconómico sustentó la Reforma Agraria de 1953 firmada en la histórica localidad de Ucureña (Cochabamba)?
 
 ### Opciones
-- [x] A) La abolición del latifundio de servidumbre bajo la premisa de que 'la tierra es para quien la trabaja', restituyendo parcelas a los campesinos.
+- [x] B) La abolición del latifundio de servidumbre bajo la premisa de que 'la tierra es para quien la trabaja', restituyendo parcelas a los campesinos.
   <!-- feedback: Correcto. El decreto de reforma agraria abolió el colonato feudal y distribuyó tierras de cultivo de las haciendas tradicionales a las familias de campesinos indígenas andinos, liberando la fuerza de trabajo servil. -->
-- [ ] B) El establecimiento de colonias estables de agricultores importados de forma exclusiva de la Europa oriental.
+- [ ] A) El establecimiento de colonias estables de agricultores importados de forma exclusiva de la Europa oriental.
   <!-- feedback: Incorrecto. El propósito era la emancipación del campesinado indígena local andino y de valles bolivianos, no importar colonos de Europa. -->
 - [ ] C) La entrega de todo el departamento de Potosí de forma voluntaria al Brasil para saldar la deuda de la mita.
   <!-- feedback: Incorrecto. La soberanía territorial se defendió y no se entregó ningún departamento boliviano al Brasil. -->
@@ -148,9 +148,9 @@ La fundación de la COB el 17 de abril de 1952 consagró al movimiento obrero mi
 ¿Qué hito educativo de inclusión integral y nacionalista aprobó el gobierno del MNR mediante el Código de la Educación Boliviana de 1955?
 
 ### Opciones
-- [x] A) La obligatoriedad y gratuidad de la educación pública básica ordinaria, expandiendo la red de escuelas a todas las comunidades rurales andinas.
+- [x] B) La obligatoriedad y gratuidad de la educación pública básica ordinaria, expandiendo la red de escuelas a todas las comunidades rurales andinas.
   <!-- feedback: Correcto. El Código de la Educación de 1955 rompió el monopolio del analfabetismo de las élites, fundando una masiva red escolar rural para incorporar a los indígenas a la educación formal, de forma gratuita y obligatoria. -->
-- [ ] B) La privatización total de todos los colegios estatales de ciencias y artes en favor de jesuitas brasileños.
+- [ ] A) La privatización total de todos los colegios estatales de ciencias y artes en favor de jesuitas brasileños.
   <!-- feedback: Incorrecto. El código fortaleció el rol rector y centralizado de la educación fiscal gratuita estatal de Bolivia, no su privatización a brasileños. -->
 - [ ] C) La prohibición absoluta de enseñar el castellano en las aulas urbanas para forzar el idioma inglés como único idioma.
   <!-- feedback: Incorrecto. No se prohibió el castellano en escuelas; el inglés no era el idioma de alfabetización de masas rurales andinas en 1955. -->
@@ -171,11 +171,11 @@ El Código de la Educación de 1955 se propuso integrar de forma real a la pobla
 ¿En qué consistió la estrategia del 'Plan Bohan' adoptada por los gobiernos revolucionarios de la postguerra del Chaco en la década de los 50?
 
 ### Opciones
-- [x] A) En un modelo de diversificación económica orientado a potenciar la agroindustria, la construcción vial y ganadería del oriente (Santa Cruz) para mermar la dependencia exclusiva de la minería de estaño altiplánica.
+- [x] C) En un modelo de diversificación económica orientado a potenciar la agroindustria, la construcción vial y ganadería del oriente (Santa Cruz) para mermar la dependencia exclusiva de la minería de estaño altiplánica.
   <!-- feedback: Correcto. Diseñado por el consultor estadounidense Mervin Bohan en 1942 y ejecutado en el 52, el plan trazó la carretera asfaltada Cochabamba-Santa Cruz y propició subsidios y créditos estatales que convirtieron al oriente cruceño en el polo agroindustrial del país. -->
-- [ ] B) En la expropiación pacífica de los salares de litio de Uyuni para entregarlos de forma gratuita al Paraguay.
+- [ ] A) En la expropiación pacífica de los salares de litio de Uyuni para entregarlos de forma gratuita al Paraguay.
   <!-- feedback: Incorrecto. El plan no expropiaba el litio para Paraguay; buscaba diversificar la economía integrando el oriente cruceño al país de forma vial. -->
-- [ ] C) En la abolición del voto universal de las mujeres para forzar el retorno voluntario incondicional a la corona española de Madrid.
+- [ ] B) En la abolición del voto universal de las mujeres para forzar el retorno voluntario incondicional a la corona española de Madrid.
   <!-- feedback: Incorrecto. Es un planteamiento descabellado e incompatible con la agenda independentista, democratizadora y nacionalista del 52. -->
 - [ ] D) En la entrega de toda la Amazonía boliviana a empresas multinacionales de Francia para sembrar café transatlántico.
   <!-- feedback: Incorrecto. Se buscaba la sustitución de importaciones de azúcar, arroz y carne mediante producción agrícola cruceña soberana de Bolivia, no colonización de café francesa. -->
@@ -194,9 +194,9 @@ El Plan Bohan reconfiguró la geopolítica y economía interna de Bolivia. Permi
 Si aplicamos el análisis de la economía de la revolución, ¿qué fenómeno macroeconómico asfixió las finanzas de Bolivia a mediados de la década de los 50 y qué plan debió aplicarse en 1956?
 
 ### Opciones
-- [x] A) Una severa hiperinflación por la emisión descontrolada de dinero sin respaldo, corregida mediante el drástico Plan de Estabilización Eder de 1956.
+- [x] B) Una severa hiperinflación por la emisión descontrolada de dinero sin respaldo, corregida mediante el drástico Plan de Estabilización Eder de 1956.
   <!-- feedback: Correcto. La devaluación y la escasez de alimentos provocaron una desbocada inflación galopante en Bolivia; el Plan Eder auspiciado por el FMI en 1956 recortó de forma drástica el gasto público estatal y eliminó subsidios a costa de agudas protestas de la COB. -->
-- [ ] B) La devaluación del dólar estadounidense que obligó al Estado a adoptar de forma obligatoria la moneda del Japón.
+- [ ] A) La devaluación del dólar estadounidense que obligó al Estado a adoptar de forma obligatoria la moneda del Japón.
   <!-- feedback: Incorrecto. No se adoptó la moneda de Japón en Bolivia; se mantuvo la moneda nacional (el boliviano) bajo un severo control fiscal anti-inflacionario. -->
 - [ ] C) La acumulación excesiva de pepitas de oro puro en las bodegas de la Casa de la Moneda que provocó el cese de la minería de estaño.
   <!-- feedback: Incorrecto. Las finanzas del Estado andino estaban vacías de oro, sufriendo de grave iliquidez fiscal de reservas reales por la quiebra minera. -->
@@ -240,13 +240,13 @@ El derrocamiento del MNR en 1964 clausuró la fase civil de la Revolución Nacio
 Si aplicamos el análisis de la movilización sindical post-Revolución, ¿qué medida de control obrero y cogobierno se instauró en COMIBOL?
 
 ### Opciones
-- [x] A) El Control Obrero con derecho a veto en los directorios de las minas nacionalizadas de COMIBOL.
+- [x] D) El Control Obrero con derecho a veto en los directorios de las minas nacionalizadas de COMIBOL.
   <!-- feedback: Correcto. El Control Obrero otorgaba a los representantes sindicales mineros el poder de supervisar la gestión de la empresa y vetar decisiones del directorio que perjudicaran a los trabajadores, consagrando el poder fáctico de la COB. -->
-- [ ] B) La privatización total de las minas de estaño en favor de banqueros británicos asentados en Chile.
+- [ ] A) La privatización total de las minas de estaño en favor de banqueros británicos asentados en Chile.
   <!-- feedback: Incorrecto. COMIBOL era de control estatal nacionalista y el MNR expulsó a la rosca minera, prohibiendo la privatización chilena. -->
-- [ ] C) La entrega obligatoria de la Casa de la Moneda de Potosí de forma voluntaria al Brasil.
+- [ ] B) La entrega obligatoria de la Casa de la Moneda de Potosí de forma voluntaria al Brasil.
   <!-- feedback: Incorrecto. La Casa de la Moneda continuó como museo y patrimonio nacional, sin entregarse al Brasil. -->
-- [ ] D) La abolición del idioma castellano decretada por los generales de la rosca minera del estaño.
+- [ ] C) La abolición del idioma castellano decretada por los generales de la rosca minera del estaño.
   <!-- feedback: Incorrecto. Se mantuvo el castellano administrativo oficial junto con iniciativas secundarias de alfabetización andina. -->
 
 ### Explicacion Pedagogica
@@ -263,11 +263,11 @@ El Control Obrero con derecho a veto reflejó el carácter obrero-sindical de la
 Al analizar la nacionalización del estaño de 1952, ¿qué consecuencia fiscal inmediata debilitó el erario público del Estado de Bolivia?
 
 ### Opciones
-- [x] A) El pago de compensaciones económicas millonarias exigidas por los consorcios internacionales de los barones del estaño.
+- [x] C) El pago de compensaciones económicas millonarias exigidas por los consorcios internacionales de los barones del estaño.
   <!-- feedback: Correcto. A pesar del discurso de confiscación soberana de las minas de estaño, el gobierno del MNR se vio obligado por presiones de los Estados Unidos a acordar indemnizaciones millonarias con Patiño, Aramayo y Hoschild, mermando las finanzas públicas. -->
-- [ ] B) La prohibición total decretada por Simón Bolívar de extraer metales finos en todo el altiplano de Bolivia.
+- [ ] A) La prohibición total decretada por Simón Bolívar de extraer metales finos en todo el altiplano de Bolivia.
   <!-- feedback: Incorrecto. Bolívar y Sucre deseaban potenciar la minería de plata de Potosí para sostener el erario público del nuevo Estado, no la prohibieron. -->
-- [ ] C) La devaluación total del dólar estadounidense que obligó al Estado a adoptar la moneda de Japón.
+- [ ] B) La devaluación total del dólar estadounidense que obligó al Estado a adoptar la moneda de Japón.
   <!-- feedback: Incorrecto. No se adoptó la moneda de Japón en Bolivia; se mantuvo la moneda nacional (el boliviano) bajo un severo control fiscal anti-inflacionario. -->
 - [ ] D) La entrega de todo el departamento de Potosí de forma voluntaria al Paraguay a cambio de barcos de guerra.
   <!-- feedback: Incorrecto. Bolivia defendía la integridad de su territorio y Potosí se sitúa en la cordillera andina, lejos del Chaco Boreal. -->
@@ -286,13 +286,13 @@ La nacionalización minera de 1952 constituyó una victoria política colosal pe
 Al analizar las consecuencias de la distribución de tierras comunales andinas de las haciendas tradicionales de Cochabamba, ¿qué fenómeno productivo se devela?
 
 ### Opciones
-- [x] A) La fragmentación de la tierra en pequeñas propiedades individuales familiares (minifundio), de escasa tecnificación y rendimiento productivo comercial.
+- [x] D) La fragmentación de la tierra en pequeñas propiedades individuales familiares (minifundio), de escasa tecnificación y rendimiento productivo comercial.
   <!-- feedback: Correcto. El reparto de tierras campesinas andinas de haciendas abolió el colonato feudal pero originó el minifundio familiar improductivo, desprovisto de créditos, riego o tecnología, en contraste con las grandes extensiones del oriente. -->
-- [ ] B) La restauración de la mita prehispánica con la obligación de trabajar de forma gratuita en el palacio de gobierno en beneficio del Estado.
+- [ ] A) La restauración de la mita prehispánica con la obligación de trabajar de forma gratuita en el palacio de gobierno en beneficio del Estado.
   <!-- feedback: Incorrecto. La Constitución prohíbe el trabajo forzoso o servil; la mita es parte del pasado colonial abolido, no una norma de la Constitución de 2009. -->
-- [ ] C) El establecimiento de colonias agrícolas de agricultores importados de forma exclusiva del Japón.
+- [ ] B) El establecimiento de colonias agrícolas de agricultores importados de forma exclusiva del Japón.
   <!-- feedback: Incorrecto. El propósito era la emancipación del campesinado indígena local andino y de valles bolivianos, no importar colonos de Japón. -->
-- [ ] D) La prohibición de cultivar papa y maíz en tierras altas para forzar el pastoreo masivo de focas costeras.
+- [ ] C) La prohibición de cultivar papa y maíz en tierras altas para forzar el pastoreo masivo de focas costeras.
   <!-- feedback: Incorrecto. No se prohibieron cultivos nativos básicos de papa y maíz, y las focas son animales marinos imposibles de criar en altiplanos. -->
 
 ### Explicacion Pedagogica
@@ -309,11 +309,11 @@ La Reforma Agraria de 1953 modificó de forma sustancial la tenencia de la tierr
 ¿Qué factor macroeconómico de carácter interno asfixió el erario público del Estado de Bolivia a mediados de la década de los 50?
 
 ### Opciones
-- [x] A) La emisión de dinero inorgánico de forma incontrolada por parte del Banco Central para financiar el déficit operativo de COMIBOL.
+- [x] C) La emisión de dinero inorgánico de forma incontrolada por parte del Banco Central para financiar el déficit operativo de COMIBOL.
   <!-- feedback: Correcto. Para cubrir los salarios y costos de las minas nacionalizadas de COMIBOL y financiar subsidios de alimentos populares, el Banco Central de Bolivia recurrió a la emisión inorgánica monetaria, desatando una galopante hiperinflación de postguerra. -->
-- [ ] B) La acumulación excesiva de pepitas de oro puro en las bodegas de la Casa de la Moneda que devaluó la plata.
+- [ ] A) La acumulación excesiva de pepitas de oro puro en las bodegas de la Casa de la Moneda que devaluó la plata.
   <!-- feedback: Incorrecto. Las finanzas del Estado andino estaban vacías de oro, sufriendo de grave iliquidez fiscal de reservas reales por la quiebra minera. -->
-- [ ] C) La privatización total de las refinerías de YPFB en favor del Paraguay a cambio de barcos de guerra.
+- [ ] B) La privatización total de las refinerías de YPFB en favor del Paraguay a cambio de barcos de guerra.
   <!-- feedback: Incorrecto. Las empresas de hidrocarburos continuaron bajo el control y monopolio del Estado de Bolivia, sin privatizarse a Paraguay. -->
 - [ ] D) La abolición del castellano para declarar de forma obligatoria el idioma inglés único oficial.
   <!-- feedback: Incorrecto. El castellano se mantuvo como el idioma oficial de las aduanas y no se prohibió con fines de forzar el idioma de mandos militares ingleses. -->
@@ -332,9 +332,9 @@ La crisis inflacionaria de la post-revolución demostró los límites económico
 ¿Qué contradicción ideológica dividía a las facciones de la Central Obrera Boliviana (COB) de los sectores moderados del MNR a fines de la década de los 50?
 
 ### Opciones
-- [x] A) La COB exigía profundizar el control obrero, expropiaciones sin indemnización y socialismo, mientras que los moderados del MNR priorizaban la estabilidad y la alianza con los Estados Unidos.
+- [x] B) La COB exigía profundizar el control obrero, expropiaciones sin indemnización y socialismo, mientras que los moderados del MNR priorizaban la estabilidad y la alianza con los Estados Unidos.
   <!-- feedback: Correcto. El MNR combinaba un ala izquierda obrero-sindical conducida por Juan Lechín Oquendo y un ala moderada tecnocrática liderada por Siles Zuazo, cuyas disputas por el rumbo de la revolución resquebrajaron el partido. -->
-- [ ] B) La disputa sobre si se debían donar las minas de litio del Salar de Uyuni al bando de los jesuitas del Beni.
+- [ ] A) La disputa sobre si se debían donar las minas de litio del Salar de Uyuni al bando de los jesuitas del Beni.
   <!-- feedback: Incorrecto. No se disputaba el litio en 1952 y los jesuitas habían sido expulsados de misiones hacía más de un siglo. -->
 - [ ] C) El cobro obligatorio de aranceles cero a todas las importaciones de carbón procedentes de la Unión Soviética.
   <!-- feedback: Incorrecto. No operaba la Unión Soviética y no existía tal comercio o disputa arancelaria con el Litoral de Bolivia. -->
@@ -355,11 +355,11 @@ La tensión interna entre la moderación y la radicalización minera determinó 
 Al analizar el alcance de la educación rural unificada del Código de la Educación de 1955, ¿qué asimetría cultural se le critica desde la perspectiva descolonizadora contemporánea?
 
 ### Opciones
-- [x] A) Que promovía un modelo asimilacionista de castellanización y homogeneización forzada que mermaba el plurilingüismo y la identidad indígena.
+- [x] C) Que promovía un modelo asimilacionista de castellanización y homogeneización forzada que mermaba el plurilingüismo y la identidad indígena.
   <!-- feedback: Correcto. Aunque expandió el derecho a la educación de masas rurales andinas de forma inédita, el código de 1955 operó bajo el paradigma civilizatorio occidental, marginando del aula el desarrollo de las culturas y lenguas originarias nativas de la patria. -->
-- [ ] B) La obligación de que todos los españoles peninsulares aprendieran obligatoriamente el idioma aymara en un mes.
+- [ ] A) La obligación de que todos los españoles peninsulares aprendieran obligatoriamente el idioma aymara en un mes.
   <!-- feedback: Incorrecto. El imperio español impuso la castellanización forzada y reprimió las manifestaciones culturales nativas de la patria. -->
-- [ ] C) El cierre absoluto de todas las escuelas fiscales para forzar a los niños a trabajar de forma perpetua en el Cerro Rico.
+- [ ] B) El cierre absoluto de todas las escuelas fiscales para forzar a los niños a trabajar de forma perpetua en el Cerro Rico.
   <!-- feedback: Incorrecto. El código buscaba precisamente universalizar la escuela fiscal gratuita estatal de Bolivia, no cerrarla para forzar trabajo infantil. -->
 - [ ] D) La adopción de la fe musulmana obligatoria en reemplazo de los rituales católicos de Sucre y Potosí.
   <!-- feedback: Incorrecto. Se mantuvo la libertad de culto consagrando una escuela laica del Estado de Bolivia, sin relación alguna con el islam. -->
@@ -378,11 +378,11 @@ El Código de la Educación de 1955 reflejó el ideal civilizatorio homogeneizad
 ¿Qué propósito político estratégico perseguían los regímenes militares posteriores de René Barrientos Ortuño al consolidar el 'Pacto Militar-Campesino'?
 
 ### Opciones
-- [x] A) Utilizar la lealtad de las bases campesinas andinas (agradecidas por la entrega de tierras) para contrarrestar y reprimir al combativo movimiento obrero minero de la COB.
+- [x] C) Utilizar la lealtad de las bases campesinas andinas (agradecidas por la entrega de tierras) para contrarrestar y reprimir al combativo movimiento obrero minero de la COB.
   <!-- feedback: Correcto. El general Barrientos Ortuño consolidó el Pacto Militar-Campesino en los años 60, asegurando la sumisión de los valles y altiplano agrarios a cambio de resguardar los títulos de tierras de 1953, aislando políticamente a los combativos mineros de la COB que exigían socialismo. -->
-- [ ] B) La entrega de todo el departamento de Potosí de forma voluntaria al Paraguay de manera perpetua.
+- [ ] A) La entrega de todo el departamento de Potosí de forma voluntaria al Paraguay de manera perpetua.
   <!-- feedback: Incorrecto. Bolivia defendía la integridad de su territorio y las minas se declararon propiedad pública del Estado de Bolivia. -->
-- [ ] C) Se dedicaban exclusivamente a traducir la Biblia al idioma portugués para consolidar la anexión a Portugal.
+- [ ] B) Se dedicaban exclusivamente a traducir la Biblia al idioma portugués para consolidar la anexión a Portugal.
   <!-- feedback: Incorrecto. Mantenían el catolicismo devoto de la patria y su accionar era nacionalista soberano boliviano, opuesto a anexarse a Portugal. -->
 - [ ] D) La abolición del castellano para declarar de forma obligatoria el idioma inglés único oficial en los regimientos.
   <!-- feedback: Incorrecto. El castellano se mantuvo como el idioma oficial de mando militar y no se registró conflicto lingüístico de ese tipo. -->
@@ -447,9 +447,9 @@ El Voto Universal constituyó la reforma democratizadora más profunda de Bolivi
 Al evaluar globalmente la Reforma Agraria de 1953 en el desarrollo socioeconómico del altiplano y valles andinos bolivianos, ¿cuál de las siguientes conclusiones posee mayor validez?
 
 ### Opciones
-- [x] A) Abolió de forma fáctica y definitiva la servidumbre feudal andina del pongo, pero originó el minifundio familiar improductivo de subsistencia por falta de asistencia técnica estatal.
+- [x] B) Abolió de forma fáctica y definitiva la servidumbre feudal andina del pongo, pero originó el minifundio familiar improductivo de subsistencia por falta de asistencia técnica estatal.
   <!-- feedback: Correcto. El decreto de reforma agraria abolió el colonato feudal y distribuyó tierras de cultivo de las haciendas tradicionales a las familias de campesinos indígenas andinos, liberando la fuerza de trabajo servil, pero fragmentando la tierra en minifundios de subsistencia. -->
-- [ ] B) Establecía que las 36 naciones indígenas debían ser devueltas de forma incondicional al yugo de los reyes borbones de España.
+- [ ] A) Establecía que las 36 naciones indígenas debían ser devueltas de forma incondicional al yugo de los reyes borbones de España.
   <!-- feedback: Incorrecto. Se rechazaba ardientemente el yugo de la corona de España de Madrid y el deseo era de autodeterminación y soberanía republicana de la patria. -->
 - [ ] C) Fue de poca trascendencia práctica en Bolivia debido al total desinterés de los jóvenes aymaras por su historia originaria.
   <!-- feedback: Incorrecto. Al contrario, la figura de Katari y Bartolina Sisa goza de inmensa reverencia e inspira los discursos oficiales de descolonización estatales. -->

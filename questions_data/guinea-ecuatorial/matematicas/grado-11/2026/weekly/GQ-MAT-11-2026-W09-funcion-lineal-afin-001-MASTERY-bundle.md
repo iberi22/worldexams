@@ -30,8 +30,8 @@ bundle_index: 1
 
 ### Opciones
 - [ ] A) $f(x) = ax^2 + bx + c$ <!-- feedback: Esta es la forma de una funcion cuadratica, no afin. -->
-- [x] B) $f(x) = mx + n$ <!-- feedback: ¡Correcto! Donde 'm' es la pendiente y 'n' es la ordenada en el origen. -->
-- [ ] C) $f(x) = a/x$ <!-- feedback: Esta es una funcion de proporcionalidad inversa. -->
+- [x] C) $f(x) = mx + n$ <!-- feedback: ¡Correcto! Donde 'm' es la pendiente y 'n' es la ordenada en el origen. -->
+- [ ] B) $f(x) = a/x$ <!-- feedback: Esta es una funcion de proporcionalidad inversa. -->
 - [ ] D) $f(x) = \log(x)$ <!-- feedback: Esta es una funcion logaritmica. -->
 
 ### Explicacion Pedagogica
@@ -49,9 +49,9 @@ En la funcion $f(x) = mx + n$, ¿que indica el valor del parametro $m$?
 
 ### Opciones
 - [ ] A) El punto donde la recta corta al eje Y. <!-- feedback: Eso lo indica la ordenada en el origen 'n'. -->
-- [x] B) La pendiente o inclinacion de la recta. <!-- feedback: ¡Correcto! 'm' representa cuanto aumenta o disminuye 'y' por cada unidad que aumenta 'x'. -->
-- [ ] C) El punto donde la recta corta al eje X. <!-- feedback: El punto de corte con X se halla haciendo f(x)=0. -->
-- [ ] D) La curvatura de la grafica. <!-- feedback: Las rectas no tienen curvatura; son lineas con inclinacion constante. -->
+- [x] D) La pendiente o inclinacion de la recta. <!-- feedback: ¡Correcto! 'm' representa cuanto aumenta o disminuye 'y' por cada unidad que aumenta 'x'. -->
+- [ ] B) El punto donde la recta corta al eje X. <!-- feedback: El punto de corte con X se halla haciendo f(x)=0. -->
+- [ ] C) La curvatura de la grafica. <!-- feedback: Las rectas no tienen curvatura; son lineas con inclinacion constante. -->
 
 ### Explicacion Pedagogica
 La pendiente $m$ determina si la funcion es creciente ($m > 0$), decreciente ($m < 0$) o constante ($m = 0$). Es la razon de cambio entre las variables $y$ y $x$.
@@ -67,10 +67,10 @@ La pendiente $m$ determina si la funcion es creciente ($m > 0$), decreciente ($m
 ¿Cual es el nombre especifico de una funcion como $I(x) = 2000x$ que pasa por el origen $(0,0)$?
 
 ### Opciones
-- [x] A) Funcion lineal (o de proporcionalidad directa) <!-- feedback: ¡Correcto! Es un caso particular de funcion afin donde n = 0. -->
-- [ ] B) Funcion constante <!-- feedback: Una funcion constante tendria m = 0. -->
-- [ ] C) Funcion cuadratica <!-- feedback: No hay terminos elevados al cuadrado. -->
-- [ ] D) Funcion identidad <!-- feedback: La identidad es f(x) = x, donde la pendiente es 1. -->
+- [x] D) Funcion lineal (o de proporcionalidad directa) <!-- feedback: ¡Correcto! Es un caso particular de funcion afin donde n = 0. -->
+- [ ] A) Funcion constante <!-- feedback: Una funcion constante tendria m = 0. -->
+- [ ] B) Funcion cuadratica <!-- feedback: No hay terminos elevados al cuadrado. -->
+- [ ] C) Funcion identidad <!-- feedback: La identidad es f(x) = x, donde la pendiente es 1. -->
 
 ### Explicacion Pedagogica
 Aunque a menudo se usan como sinonimos, en rigor, una funcion lineal es la que pasa por el origen ($n=0$), representando una relacion de proporcionalidad directa entre las variables.
@@ -87,8 +87,8 @@ Aunque a menudo se usan como sinonimos, en rigor, una funcion lineal es la que p
 
 ### Opciones
 - [ ] A) $(0, -3)$ <!-- feedback: -3 es la pendiente, no el punto de corte con Y. -->
-- [x] B) $(0, 5)$ <!-- feedback: ¡Correcto! La ordenada en el origen 'n' es 5, por lo que el punto es (0, 5). -->
-- [ ] C) $(5, 0)$ <!-- feedback: Este seria un punto sobre el eje X. -->
+- [x] C) $(0, 5)$ <!-- feedback: ¡Correcto! La ordenada en el origen 'n' es 5, por lo que el punto es (0, 5). -->
+- [ ] B) $(5, 0)$ <!-- feedback: Este seria un punto sobre el eje X. -->
 - [ ] D) $(0, 0)$ <!-- feedback: La funcion no pasa por el origen porque n es distinto de cero. -->
 
 ### Explicacion Pedagogica
@@ -107,8 +107,8 @@ La ordenada en el origen $n$ es el valor de la funcion cuando $x = 0$. Graficame
 ### Opciones
 - [ ] A) El generador consume 2 litros por cada hora. <!-- feedback: Esto lo indicaria la pendiente (0.5). -->
 - [ ] B) El generador se apaga a las 2 horas. <!-- feedback: No hay evidencia de eso en la formula lineal simple. -->
-- [x] C) Es el combustible inicial (litros) que ya habia en el deposito ($t = 0$). <!-- feedback: ¡Correcto! Es el valor inicial o condicion de partida de la funcion. -->
-- [ ] D) Es la capacidad maxima del deposito. <!-- feedback: La formula no indica un limite superior, solo el consumo actual. -->
+- [x] D) Es el combustible inicial (litros) que ya habia en el deposito ($t = 0$). <!-- feedback: ¡Correcto! Es el valor inicial o condicion de partida de la funcion. -->
+- [ ] C) Es la capacidad maxima del deposito. <!-- feedback: La formula no indica un limite superior, solo el consumo actual. -->
 
 ### Explicacion Pedagogica
 En modelos lineales, la ordenada en el origen representa el valor de la variable dependiente al inicio del proceso (cuando el tiempo o la cantidad base es cero). Es una constante de inicio.
@@ -143,10 +143,10 @@ La pendiente se calcula como el cociente entre la variacion vertical (ordenadas)
 ¿Cual es la ecuacion de la funcion que representa la rampa?
 
 ### Opciones
-- [x] A) $f(x) = -0.5x + 4$ <!-- feedback: ¡Correcto! Sustituyendo m y n directamente en la forma general. -->
-- [ ] B) $f(x) = 4x - 0.5$ <!-- feedback: Se han intercambiado los valores de la pendiente y la ordenada. -->
-- [ ] C) $f(x) = -0.5x$ <!-- feedback: Esta funcion pasaria por el origen, pero la rampa empieza en 4. -->
-- [ ] D) $f(x) = 0.5x + 4$ <!-- feedback: La pendiente debe ser negativa segun el enunciado. -->
+- [x] D) $f(x) = -0.5x + 4$ <!-- feedback: ¡Correcto! Sustituyendo m y n directamente en la forma general. -->
+- [ ] A) $f(x) = 4x - 0.5$ <!-- feedback: Se han intercambiado los valores de la pendiente y la ordenada. -->
+- [ ] B) $f(x) = -0.5x$ <!-- feedback: Esta funcion pasaria por el origen, pero la rampa empieza en 4. -->
+- [ ] C) $f(x) = 0.5x + 4$ <!-- feedback: La pendiente debe ser negativa segun el enunciado. -->
 
 ### Explicacion Pedagogica
 Conocer la pendiente y el punto de corte con el eje Y permite escribir directamente la ecuacion de la recta. Si el punto de corte es $(0, n)$, entonces $n$ es la ordenada en el origen.
@@ -162,10 +162,10 @@ Conocer la pendiente y el punto de corte con el eje Y permite escribir directame
 ¿Como se clasifica la funcion $f(x) = 2x - 3$ segun su pendiente?
 
 ### Opciones
-- [x] A) Estrictamente creciente <!-- feedback: ¡Correcto! Al ser la pendiente m = 2 (positiva), la funcion siempre crece. -->
-- [ ] B) Estrictamente decreciente <!-- feedback: Esto solo ocurriria si la pendiente fuera negativa. -->
-- [ ] C) Funcion constante <!-- feedback: Esto requeriria una pendiente igual a cero. -->
-- [ ] D) Funcion cuadratica <!-- feedback: El exponente de la x es 1, no 2. -->
+- [x] D) Estrictamente creciente <!-- feedback: ¡Correcto! Al ser la pendiente m = 2 (positiva), la funcion siempre crece. -->
+- [ ] A) Estrictamente decreciente <!-- feedback: Esto solo ocurriria si la pendiente fuera negativa. -->
+- [ ] B) Funcion constante <!-- feedback: Esto requeriria una pendiente igual a cero. -->
+- [ ] C) Funcion cuadratica <!-- feedback: El exponente de la x es 1, no 2. -->
 
 ### Explicacion Pedagogica
 El signo de la pendiente determina la monotonia de la funcion lineal. Si $m > 0$, la funcion es creciente; si $m < 0$, es decreciente; y si $m = 0$, la funcion es constante y su grafica es una linea horizontal.
@@ -181,9 +181,9 @@ El signo de la pendiente determina la monotonia de la funcion lineal. Si $m > 0$
 ¿En que valor de $x$ la funcion $f(x) = -2x + 10$ corta al eje de las abcisas?
 
 ### Opciones
-- [ ] A) $x = 10$ <!-- feedback: $f(10) = -20 + 10 = -10$, no 0. -->
-- [ ] B) $x = -5$ <!-- feedback: $f(-5) = 10 + 10 = 20$, no 0. -->
-- [x] C) $x = 5$ <!-- feedback: ¡Correcto! $-2(5) + 10 = 0$. -->
+- [ ] B) $x = 10$ <!-- feedback: $f(10) = -20 + 10 = -10$, no 0. -->
+- [ ] C) $x = -5$ <!-- feedback: $f(-5) = 10 + 10 = 20$, no 0. -->
+- [x] A) $x = 5$ <!-- feedback: ¡Correcto! $-2(5) + 10 = 0$. -->
 - [ ] D) $x = 0$ <!-- feedback: En x=0 el valor de la funcion es 10. -->
 
 ### Explicacion Pedagogica
@@ -219,8 +219,8 @@ Para verificar si un punto $(x, y)$ pertenece a la grafica de una funcion, susti
 ¿Como son las graficas de estas dos funciones entre si?
 
 ### Opciones
-- [ ] A) Son perpendiculares. <!-- feedback: Para ser perpendiculares, el producto de sus pendientes deberia ser -1. -->
-- [x] B) Son paralelas. <!-- feedback: ¡Correcto! Tienen la misma pendiente (2) pero distinta ordenada en el origen. -->
+- [ ] B) Son perpendiculares. <!-- feedback: Para ser perpendiculares, el producto de sus pendientes deberia ser -1. -->
+- [x] A) Son paralelas. <!-- feedback: ¡Correcto! Tienen la misma pendiente (2) pero distinta ordenada en el origen. -->
 - [ ] C) Se cortan en el origen. <!-- feedback: Ninguna de las dos pasa por el origen (n es 1 y 5). -->
 - [ ] D) Son la misma recta. <!-- feedback: Tienen diferentes ordenadas en el origen, por lo que son rectas distintas. -->
 
@@ -238,9 +238,9 @@ Dos rectas son paralelas si y solo si tienen la misma pendiente. Esto significa 
 ¿En que valor de $x$ la funcion $f(x) = 4x - 12$ corta al eje horizontal?
 
 ### Opciones
-- [ ] A) $x = 12$ <!-- feedback: $4(12) - 12 = 36$, no 0. -->
-- [ ] B) $x = -3$ <!-- feedback: $4(-3) - 12 = -24$, no 0. -->
-- [x] C) $x = 3$ <!-- feedback: ¡Correcto! Haciendo $4x - 12 = 0 \rightarrow 4x = 12 \rightarrow x = 3$. -->
+- [ ] B) $x = 12$ <!-- feedback: $4(12) - 12 = 36$, no 0. -->
+- [ ] C) $x = -3$ <!-- feedback: $4(-3) - 12 = -24$, no 0. -->
+- [x] A) $x = 3$ <!-- feedback: ¡Correcto! Haciendo $4x - 12 = 0 \rightarrow 4x = 12 \rightarrow x = 3$. -->
 - [ ] D) $x = 0$ <!-- feedback: En x=0 la funcion vale -12. -->
 
 ### Explicacion Pedagogica
@@ -258,8 +258,8 @@ Para hallar el corte con el eje X, debemos igualar la funcion a cero ($f(x) = 0$
 
 ### Opciones
 - [ ] A) $m = 3$ <!-- feedback: Esta seria la pendiente de una recta paralela. -->
-- [ ] B) $m = -3$ <!-- feedback: La pendiente debe ser la opuesta e inversa. -->
-- [x] C) $m = -1/3$ <!-- feedback: ¡Correcto! El producto de las pendientes de dos rectas perpendiculares debe ser -1 ($3 \cdot -1/3 = -1$). -->
+- [ ] C) $m = -3$ <!-- feedback: La pendiente debe ser la opuesta e inversa. -->
+- [x] B) $m = -1/3$ <!-- feedback: ¡Correcto! El producto de las pendientes de dos rectas perpendiculares debe ser -1 ($3 \cdot -1/3 = -1$). -->
 - [ ] D) $m = 1/3$ <!-- feedback: Falta el cambio de signo para cumplir la condicion de perpendicularidad. -->
 
 ### Explicacion Pedagogica
@@ -296,9 +296,9 @@ Para hallar la ecuacion a partir de dos puntos $(x_1, y_1)$ y $(x_2, y_2)$, prim
 
 ### Opciones
 - [ ] A) $f^{-1}(x) = -2x + 4$ <!-- feedback: Esto es solo cambiar los signos, no hallar la inversa funcional. -->
-- [x] B) $f^{-1}(x) = (x + 4) / 2$ <!-- feedback: ¡Correcto! Despejando x: $y+4 = 2x \rightarrow x = (y+4)/2$. Luego se intercambian las variables. -->
-- [ ] C) $f^{-1}(x) = 2x + 4$ <!-- feedback: Solo se ha cambiado el signo de la ordenada. -->
-- [ ] D) $f^{-1}(x) = x / 2 - 4$ <!-- feedback: Falta dividir el termino independiente por 2. -->
+- [x] D) $f^{-1}(x) = (x + 4) / 2$ <!-- feedback: ¡Correcto! Despejando x: $y+4 = 2x \rightarrow x = (y+4)/2$. Luego se intercambian las variables. -->
+- [ ] B) $f^{-1}(x) = 2x + 4$ <!-- feedback: Solo se ha cambiado el signo de la ordenada. -->
+- [ ] C) $f^{-1}(x) = x / 2 - 4$ <!-- feedback: Falta dividir el termino independiente por 2. -->
 
 ### Explicacion Pedagogica
 La funcion inversa "deshace" la operacion de la funcion original. Para hallarla algebraicamente, escribimos $y = f(x)$, despejamos la variable $x$ en funcion de $y$, y finalmente intercambiamos los nombres de las variables.
@@ -334,8 +334,8 @@ En funciones de costo lineales, la pendiente representa el costo marginal, es de
 
 ### Opciones
 - [ ] A) 100 minutos <!-- feedback: A los 100 min ambos cuestan 1000. Pero el Plan A no tiene costo fijo. -->
-- [x] B) 200 minutos <!-- feedback: ¡Correcto! $10x = 1000 + 5x \rightarrow 5x = 1000 \rightarrow x = 200$. -->
-- [ ] C) 150 minutos <!-- feedback: A los 150 min el Plan A es mas barato (1500 vs 1750). -->
+- [x] C) 200 minutos <!-- feedback: ¡Correcto! $10x = 1000 + 5x \rightarrow 5x = 1000 \rightarrow x = 200$. -->
+- [ ] B) 150 minutos <!-- feedback: A los 150 min el Plan A es mas barato (1500 vs 1750). -->
 - [ ] D) 500 minutos <!-- feedback: El ahorro comienza mucho antes. -->
 
 ### Explicacion Pedagogica
@@ -352,8 +352,8 @@ Este es un problema clasico de comparacion de funciones afines. Igualamos las do
 ¿Cual es el recorrido de cualquier funcion afin $f(x) = mx + n$ siempre que $m \neq 0$?
 
 ### Opciones
-- [ ] A) Solo los numeros reales positivos. <!-- feedback: Las rectas pueden tomar valores negativos. -->
-- [x] B) El conjunto de todos los numeros reales ($\mathbb{R}$). <!-- feedback: ¡Correcto! Una recta con pendiente no nula se extiende infinitamente en ambas direcciones del eje Y. -->
+- [ ] B) Solo los numeros reales positivos. <!-- feedback: Las rectas pueden tomar valores negativos. -->
+- [x] A) El conjunto de todos los numeros reales ($\mathbb{R}$). <!-- feedback: ¡Correcto! Una recta con pendiente no nula se extiende infinitamente en ambas direcciones del eje Y. -->
 - [ ] C) El intervalo $[n, \infty)$. <!-- feedback: Esto seria para algunas funciones cuadraticas, no para rectas. -->
 - [ ] D) Un solo numero real. <!-- feedback: Esto solo ocurriria si m = 0 (funcion constante). -->
 
@@ -390,9 +390,9 @@ La composicion de funciones $(f \circ g)(x)$ consiste en aplicar la funcion $f$ 
 ¿Que profundidad se ha alcanzado si la temperatura medida es de $40^\circ C$?
 
 ### Opciones
-- [ ] A) 300 metros <!-- feedback: El aumento seria de 9 grados, totalizando 34. -->
-- [ ] B) 400 metros <!-- feedback: El aumento seria de 12 grados, totalizando 37. -->
-- [x] C) 500 metros <!-- feedback: ¡Correcto! $T(d) = 25 + (3/100)d$. Si $40 = 25 + 0.03d \rightarrow 15 = 0.03d \rightarrow d = 500$. -->
+- [ ] B) 300 metros <!-- feedback: El aumento seria de 9 grados, totalizando 34. -->
+- [ ] C) 400 metros <!-- feedback: El aumento seria de 12 grados, totalizando 37. -->
+- [x] A) 500 metros <!-- feedback: ¡Correcto! $T(d) = 25 + (3/100)d$. Si $40 = 25 + 0.03d \rightarrow 15 = 0.03d \rightarrow d = 500$. -->
 - [ ] D) 1000 metros <!-- feedback: La temperatura seria de 55 grados. -->
 
 ### Explicacion Pedagogica

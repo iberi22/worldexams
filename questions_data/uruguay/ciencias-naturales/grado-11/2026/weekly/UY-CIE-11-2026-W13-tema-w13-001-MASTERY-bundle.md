@@ -33,9 +33,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Qué grupo vegetal autóctono domina estructural y funcionalmente el ecosistema de la pradera uruguaya?
 
 ### Opciones
-- [x] A) Gramíneas o poáceas de ciclo estival y de invierno.
+- [x] B) Gramíneas o poáceas de ciclo estival y de invierno.
   <!-- feedback: Correcto. Las gramíneas autóctonas constituyen el estrato herbáceo dominante de la pradera pampeana/uruguaya. -->
-- [ ] B) Arboles coníferos de gran porte.
+- [ ] A) Arboles coníferos de gran porte.
   <!-- feedback: Incorrecto. Las coníferas no son autóctonas del bioma pradera uruguayo. -->
 - [ ] C) Cactáceas arbustivas de clima desértico.
   <!-- feedback: Incorrecto. Aunque existen cactáceas pequeñas en serranías, no dominan la pradera. -->
@@ -58,11 +58,11 @@ La pradera uruguaya se caracteriza por una alta diversidad de gramíneas y legum
 ### Opciones
 - [ ] A) Sociedad Nacional de Agronomía y Pastizales.
   <!-- feedback: Incorrecto. No corresponde a una sociedad agronómica privada. -->
-- [x] B) Sistema Nacional de Áreas Protegidas.
+- [x] D) Sistema Nacional de Áreas Protegidas.
   <!-- feedback: Correcto. El SNAP es el organismo público encargado de integrar y gestionar las reservas naturales protegidas de Uruguay. -->
-- [ ] C) Servicio Normalizado de Agroecología Protegida.
+- [ ] B) Servicio Normalizado de Agroecología Protegida.
   <!-- feedback: Incorrecto. No es la denominación oficial del sistema ambiental. -->
-- [ ] D) Secretaría Nacional de Áreas Pesqueras.
+- [ ] C) Secretaría Nacional de Áreas Pesqueras.
   <!-- feedback: Incorrecto. El SNAP abarca ecosistemas terrestres, fluviales y marinos bajo estatus de protección. -->
 
 ### Explicacion Pedagogica
@@ -81,9 +81,9 @@ El Sistema Nacional de Áreas Protegidas (SNAP) regula la conservación in situ 
 ### Opciones
 - [ ] A) Especie invasora cosmopolita.
   <!-- feedback: Incorrecto. Son especies nativas vulnerables o amenazadas, no exóticas invasoras. -->
-- [x] B) Especie prioritaria para la conservación o amenazada.
+- [x] C) Especie prioritaria para la conservación o amenazada.
   <!-- feedback: Correcto. Las especies con poblaciones relictuales reducidas se categorizan bajo estatus de amenaza para su protección prioritaria. -->
-- [ ] C) Especie plaga agropecuaria.
+- [ ] B) Especie plaga agropecuaria.
   <!-- feedback: Incorrecto. Son cérvidos nativos protegidos de alto valor biológico. -->
 - [ ] D) Especie exótica asilvestrada.
   <!-- feedback: Incorrecto. Son autóctonas de la fauna nativa del Cono Sur. -->
@@ -104,9 +104,9 @@ Las especies amenazadas reciben protección legal e inclusión en planes de cons
 ### Opciones
 - [ ] A) Es una especie autóctona que muta velozmente para desplazar a los herbívoros.
   <!-- feedback: Incorrecto. Las especies exóticas no son autóctonas; son introducidas fuera de su rango natural. -->
-- [x] B) Es una especie introducida fuera de su distribución natural que se establece, multiplica y desplaza a la biota nativa.
+- [x] C) Es una especie introducida fuera de su distribución natural que se establece, multiplica y desplaza a la biota nativa.
   <!-- feedback: Correcto. Al carecer de depredadores naturales locales, las especies invasoras se multiplican agresivamente alterando los ecosistemas nativos. -->
-- [ ] C) Es un vegetal que solo sobrevive en condiciones de cultivo controlado dentro de invernaderos.
+- [ ] B) Es un vegetal que solo sobrevive en condiciones de cultivo controlado dentro de invernaderos.
   <!-- feedback: Incorrecto. Si requiere cultivo controlado no es invasora en ambientes naturales. -->
 - [ ] D) Es un hongo simbionte que incrementa la fijación de nitrógeno en todas las praderas.
   <!-- feedback: Incorrecto. Las invasoras generan perjuicios ecológicos y económicos severos. -->
@@ -148,9 +148,9 @@ Las quebradas basálticas del norte de Uruguay actúan como refugios microclimá
 ¿Qué impacto negativo directo provoca esta homogeneización del paisaje sobre la diversidad de la fauna edáfica y vertebrados de la pradera?
 
 ### Opciones
-- [ ] A) Incrementa la riqueza de especies autóctonas especializadas en el estrato herbáceo.
+- [ ] B) Incrementa la riqueza de especies autóctonas especializadas en el estrato herbáceo.
   <!-- feedback: Incorrecto. La sustitución de pradera destruye el hábitat de especies herbáceas nativas. -->
-- [x] B) Pérdida de hábitat, fragmentación de poblaciones y drástica disminución de la biodiversidad especialista.
+- [x] A) Pérdida de hábitat, fragmentación de poblaciones y drástica disminución de la biodiversidad especialista.
   <!-- feedback: Correcto. La destrucción de la pradera diversa por monocultivos elimina nichos y fragmenta las poblaciones autóctonas. -->
 - [ ] C) Aumento del flujo génico entre las poblaciones de mamíferos autóctonos.
   <!-- feedback: Incorrecto. La fragmentación aísla las poblaciones impidiendo el intercambio génico. -->
@@ -194,9 +194,9 @@ Los corredores biológicos mitigan los efectos perjudiciales de la fragmentació
 ¿Qué tipo de conservación se aplica al proteger a los lobos marinos en sus áreas naturales de reproducción y alimentación costera?
 
 ### Opciones
-- [ ] A) Conservación ex situ en zoológicos y acuarios cerrados.
+- [ ] B) Conservación ex situ en zoológicos y acuarios cerrados.
   <!-- feedback: Incorrecto. La conservación en cautiverio fuera de su medio es ex situ. -->
-- [x] B) Conservación in situ dentro de su hábitat natural ecosistémico.
+- [x] A) Conservación in situ dentro de su hábitat natural ecosistémico.
   <!-- feedback: Correcto. Proteger a las poblaciones silvestres en sus hábitats naturales constituye conservación in situ. -->
 - [ ] C) Conservación transgénica mediante clonación celular.
   <!-- feedback: Incorrecto. No se trata de modificación genética ni clonación en laboratorio. -->
@@ -219,11 +219,11 @@ La conservación in situ preserva especies, comunidades y procesos ecológicos d
 ### Opciones
 - [ ] A) Aumento de la erosión hídrica superficial por falta de raíces.
   <!-- feedback: Incorrecto. La cubierta vegetal reduce la erosión hídrica, no la aumenta. -->
-- [x] B) Protección del suelo contra la erosión hídrica, retención del agua de lluvia y regulación del escurrimiento fluvial.
+- [x] D) Protección del suelo contra la erosión hídrica, retención del agua de lluvia y regulación del escurrimiento fluvial.
   <!-- feedback: Correcto. El follaje amortigua el impacto de las gotas y la red radicular fija el suelo, regulando las crecidas. -->
-- [ ] C) Generación de radiación ultravioleta de alta frecuencia.
+- [ ] B) Generación de radiación ultravioleta de alta frecuencia.
   <!-- feedback: Incorrecto. Las plantas absorben luz visible y fotosintetizan; no emiten radiación UV. -->
-- [ ] D) Eliminación completa del ciclo hidrológico regional.
+- [ ] C) Eliminación completa del ciclo hidrológico regional.
   <!-- feedback: Incorrecto. La vegetación modula el ciclo hidrológico mediante transpiración e infiltración. -->
 
 ### Explicacion Pedagogica
@@ -242,11 +242,11 @@ Los servicios de regulación ecosistémica abarcan el control de la erosión, re
 ### Opciones
 - [ ] A) Aumento de la depredación natural por pumas nativos.
   <!-- feedback: Incorrecto. Los pumas son felinos terrestres que no depredan en el mar costero. -->
-- [x] B) Colisiones con embarcaciones, contaminación sonora submarina y enmallamiento en redes de pesca.
+- [x] D) Colisiones con embarcaciones, contaminación sonora submarina y enmallamiento en redes de pesca.
   <!-- feedback: Correcto. El tráfico marítimo, la contaminación acústica y los aparejos de pesca son causas principales de mortalidad y molestia antrópica. -->
-- [ ] C) Falta absoluta de salinidad en el Océano Atlántico.
+- [ ] B) Falta absoluta de salinidad en el Océano Atlántico.
   <!-- feedback: Incorrecto. El Océano Atlántico posee salinidad normal apta para la especie. -->
-- [ ] D) Exceso de fotosíntesis por bacterias de agua dulce en alta mar.
+- [ ] C) Exceso de fotosíntesis por bacterias de agua dulce en alta mar.
   <!-- feedback: Incorrecto. Las amenazas directas provienen de actividades humanas marítimas. -->
 
 ### Explicacion Pedagogica
@@ -263,9 +263,9 @@ La interacción con la navegación, la contaminación acústica marina y la capt
 ¿Qué fenómeno de genética de poblaciones incrementa la probabilidad de extinción local en esta población relictual de pequeño tamaño?
 
 ### Opciones
-- [ ] A) Aumento de la heterocigosis y vigor híbrido por selección direccional.
+- [ ] B) Aumento de la heterocigosis y vigor híbrido por selección direccional.
   <!-- feedback: Incorrecto. El aislamiento en poblaciones pequeñas reduce la heterocigosis. -->
-- [x] B) Deriva genética y depresión por endogamia, reduciendo la variabilidad genética y aumentando homocigosis desfavorable.
+- [x] A) Deriva genética y depresión por endogamia, reduciendo la variabilidad genética y aumentando homocigosis desfavorable.
   <!-- feedback: Correcto. La deriva genética al azar fija alelos deletéreos y el apareamiento entre parientes reduce la aptitud biológica. -->
 - [ ] C) Especiaición sim pátrica acelerada por alta tasa de recombinación cromosómica.
   <!-- feedback: Incorrecto. El aislamiento pequeño causa pérdida de variabilidad, no especiación instantánea. -->
@@ -311,11 +311,11 @@ De acuerdo con esta teoría, ¿qué diseño de reserva preservará un mayor núm
 ### Opciones
 - [ ] A) Varias reservas muy pequeñas y distantes entre sí sin zonas de amortiguamiento.
   <!-- feedback: Incorrecto. Reservas pequeñas y distantes tienen altas tasas de extinción y baja inmigración. -->
-- [x] B) Una reserva de gran superficie, de forma circular y cercana a otras áreas conservadas.
+- [x] D) Una reserva de gran superficie, de forma circular y cercana a otras áreas conservadas.
   <!-- feedback: Correcto. Una superficie mayor reduce la tasa de extinción local, y la cercanía (o forma compacta con menor efecto borde) favorece la inmigración. -->
-- [ ] C) Una reserva alargada extremadamente angosta rodeada de autopistas de alto tráfico.
+- [ ] B) Una reserva alargada extremadamente angosta rodeada de autopistas de alto tráfico.
   <!-- feedback: Incorrecto. Las formas alargadas maximizan el efecto borde negativo. -->
-- [ ] D) Reservas ubicadas exclusivamente en ambientes totalmente urbanizados.
+- [ ] C) Reservas ubicadas exclusivamente en ambientes totalmente urbanizados.
   <!-- feedback: Incorrecto. Las reservas deben albergar hábitats naturales representativos sin degradación severa. -->
 
 ### Explicacion Pedagogica
@@ -334,9 +334,9 @@ La teoría de biogeografía de islas predice que las reservas más grandes y con
 ### Opciones
 - [ ] A) Dominancia de gramíneas estivales de alto valor nutritivo y raíces profundas.
   <!-- feedback: Incorrecto. Esas especies desaparecen bajo sobrepastoreo continuo. -->
-- [x] B) Aumento de la proporción de suelo desnudo y dominancia de especies malezas no palatables o malezas invasoras.
+- [x] C) Aumento de la proporción de suelo desnudo y dominancia de especies malezas no palatables o malezas invasoras.
   <!-- feedback: Correcto. La presión constante de pastoreo elimina las gramíneas de alto valor forrajero, abriendo espacio a malezas y erosión del suelo. -->
-- [ ] C) Desaparición total de los insectos descomponedores del estiércol.
+- [ ] B) Desaparición total de los insectos descomponedores del estiércol.
   <!-- feedback: Incorrecto. La estructura vegetal es el principal indicador de salud del pastizal. -->
 - [ ] D) Incremento masivo en la capacidad de retención de agua de la capa arable.
   <!-- feedback: Incorrecto. El sobrepastoreo compacta el suelo reduciendo la infiltración y retención hídrica. -->
@@ -380,9 +380,9 @@ Las dunas móviles nativas proporcionan resiliencia costera; su alteración por 
 ### Opciones
 - [ ] A) Porque se alimenta exclusivamente de gramíneas de pradera abiertas.
   <!-- feedback: Incorrecto. El tamandúa es un mamífero mermecófago que consume hormigas y termitas arbóreas. -->
-- [x] B) Porque depende de la continuidad del canopeo y arbustos del monte nativo para alimentarse y refugiarse, teniendo baja movilidad entre parches aislados.
+- [x] C) Porque depende de la continuidad del canopeo y arbustos del monte nativo para alimentarse y refugiarse, teniendo baja movilidad entre parches aislados.
   <!-- feedback: Correcto. Es una especie arborícola/forestal especialista; la deforestación y fragmentación interrumpen su acceso a recursos. -->
-- [ ] C) Porque habita únicamente en aguas marinas profundas de alta salinidad.
+- [ ] B) Porque habita únicamente en aguas marinas profundas de alta salinidad.
   <!-- feedback: Incorrecto. Es un mamífero terrestre y arborícola del bosque nativo. -->
 - [ ] D) Porque realiza migraciones continentales volando miles de kilómetros al año.
   <!-- feedback: Incorrecto. Es un mamífero caminador y trepador sin capacidad de vuelo. -->
@@ -426,11 +426,11 @@ En el modelo metapoblacional de Levins, la viabilidad a largo plazo exige que la
 ### Opciones
 - [ ] A) Principio de exclusión competitiva de Gause.
   <!-- feedback: Incorrecto. Es un principio ecológico de competencia, no un principio jurídico-ambiental. -->
-- [x] B) Principio precautorio (o de precaución).
+- [x] D) Principio precautorio (o de precaución).
   <!-- feedback: Correcto. El principio precautorio exige adoptar medidas preventivas ante riesgos ambientales graves aun en ausencia de certidumbre científica absoluta. -->
-- [ ] C) Principio del rendimiento máximo sostenible.
+- [ ] B) Principio del rendimiento máximo sostenible.
   <!-- feedback: Incorrecto. Refiere a tasas de extracción pesquera o forestal óptimas sin agotar el recurso. -->
-- [ ] D) Principio de equilibrio estático de Hardy-Weinberg.
+- [ ] C) Principio de equilibrio estático de Hardy-Weinberg.
   <!-- feedback: Incorrecto. Es una ley de genética de poblaciones bajo condiciones ideales. -->
 
 ### Explicacion Pedagogica
@@ -449,11 +449,11 @@ Si la transformación agrícola convierte parches heterogéneos en monocultivos 
 ### Opciones
 - [ ] A) Aumento masivo de la diversidad beta debido a la especialización del monocultivo.
   <!-- feedback: Incorrecto. La homogeneización reduce la diferenciación entre parches, disminuyendo la diversidad beta. -->
-- [x] B) Disminución drástica de la diversidad beta por homogeneización biótica, provocando una caída consecutiva en la diversidad gamma regional.
+- [x] D) Disminución drástica de la diversidad beta por homogeneización biótica, provocando una caída consecutiva en la diversidad gamma regional.
   <!-- feedback: Correcto. Al volverse todos los parches idénticos, la recíproca diferenciación de especies (beta) cae, reduciendo la riqueza total acumulada en la región (gamma). -->
-- [ ] C) Estabilidad absoluta de la diversidad gamma ya que las especies migran a las ciudades.
+- [ ] B) Estabilidad absoluta de la diversidad gamma ya que las especies migran a las ciudades.
   <!-- feedback: Incorrecto. Las especies silvestres de pradera no sustituyen su hábitat natural por áreas urbanas. -->
-- [ ] D) Aumento de la diversidad gamma por sustitución de gramíneas por plásticos sintéticos.
+- [ ] C) Aumento de la diversidad gamma por sustitución de gramíneas por plásticos sintéticos.
   <!-- feedback: Incorrecto. La diversidad biológica mide organismos vivos, no materiales inanimados. -->
 
 ### Explicacion Pedagogica
@@ -472,11 +472,11 @@ La diversidad gamma es función de la riqueza local (alfa) y el recambio entre h
 ### Opciones
 - [ ] A) La disponibilidad exclusiva de presas exóticas domésticas como ovinos sin control.
   <!-- feedback: Incorrecto. La predación sobre ganado genera conflicto social severo e inviabiliza la conservación. -->
-- [x] B) La existencia de áreas continuas de hábitat con alta densidad de presas silvestres y la aceptación social/coexistencia con las comunidades humanas locales.
+- [x] D) La existencia de áreas continuas de hábitat con alta densidad de presas silvestres y la aceptación social/coexistencia con las comunidades humanas locales.
   <!-- feedback: Correcto. Sostener un depredador tope requiere grandes extensiones contiguas, abundancia de presas autóctonas y estrategias para evitar conflictos con pobladores. -->
-- [ ] C) La erradicación previa de todos los árboles del monte nativo.
+- [ ] B) La erradicación previa de todos los árboles del monte nativo.
   <!-- feedback: Incorrecto. Los felinos de selva/bosque requieren vegetación nativa densa como cobertizo y refugio. -->
-- [ ] D) La clonación genética anual de todos los ejemplares libres.
+- [ ] C) La clonación genética anual de todos los ejemplares libres.
   <!-- feedback: Incorrecto. Las poblaciones reintroducidas deben autorsostenerse demográficamente mediante reproducción silvestre natural. -->
 
 ### Explicacion Pedagogica

@@ -34,11 +34,11 @@ Cálculo del promedio (media aritmética) y de la moda en conjuntos de datos, co
 ¿Qué es la moda en un conjunto de datos?
 
 ### Opciones
-- [x] A) El dato que más se repite en el conjunto.
+- [x] C) El dato que más se repite en el conjunto.
   <!-- feedback: La moda es la medida que indica el dato con mayor frecuencia. -->
-- [ ] B) El dato más grande de la lista.
+- [ ] A) El dato más grande de la lista.
   <!-- feedback: El dato más grande es el máximo, no la moda. -->
-- [ ] C) El dato más pequeño de la lista.
+- [ ] B) El dato más pequeño de la lista.
   <!-- feedback: El dato más pequeño es el mínimo, no la moda. -->
 - [ ] D) El resultado de dividir la suma de todos los datos.
   <!-- feedback: Ese resultado es el promedio, no la moda. -->
@@ -57,9 +57,9 @@ Reconocer la moda como la medida de tendencia central que indica el dato con may
 ¿Por qué es útil calcular el promedio de un conjunto de datos?
 
 ### Opciones
-- [x] A) Porque resume los datos en un solo valor que representa al grupo.
+- [x] B) Porque resume los datos en un solo valor que representa al grupo.
   <!-- feedback: El promedio permite comparar conjuntos de datos de forma sencilla. -->
-- [ ] B) Porque borra los datos originales y los hace desaparecer.
+- [ ] A) Porque borra los datos originales y los hace desaparecer.
   <!-- feedback: Los datos originales se conservan; el promedio solo los resume. -->
 - [ ] C) Porque siempre da como resultado el número más alto.
   <!-- feedback: El promedio es un valor intermedio, no el más alto. -->
@@ -80,9 +80,9 @@ Comprender que el promedio es un valor representativo que permite comparar conju
 ¿Cuál es el promedio de las cuatro notas de Valentina?
 
 ### Opciones
-- [x] A) 4, porque (4 + 4 + 5 + 3) ÷ 4 = 4.
+- [x] B) 4, porque (4 + 4 + 5 + 3) ÷ 4 = 4.
   <!-- feedback: Se suman las notas y se dividen entre 4, y el resultado es 4. -->
-- [ ] B) 5, porque es la nota más alta.
+- [ ] A) 5, porque es la nota más alta.
   <!-- feedback: La nota más alta es el máximo, no el promedio. -->
 - [ ] C) 3, porque es la nota más baja.
   <!-- feedback: La nota más baja es el mínimo, no el promedio. -->
@@ -103,9 +103,9 @@ Aplicar el procedimiento del promedio: sumar todos los datos y dividir entre el 
 ¿Cuál es la moda de los sabores de helado?
 
 ### Opciones
-- [x] A) Chocolate, porque es el sabor que más se repite.
+- [x] B) Chocolate, porque es el sabor que más se repite.
   <!-- feedback: El chocolate fue elegido 8 veces, más que los demás sabores. -->
-- [ ] B) Fresa, porque fue el segundo sabor.
+- [ ] A) Fresa, porque fue el segundo sabor.
   <!-- feedback: La moda es el dato más frecuente, no el segundo. -->
 - [ ] C) Mango, porque es el sabor menos elegido.
   <!-- feedback: El sabor menos elegido no puede ser la moda. -->
@@ -126,13 +126,13 @@ Aplicar el concepto de moda para identificar la categoría con mayor frecuencia 
 ¿Cuál es la moda de las edades de estos estudiantes?
 
 ### Opciones
-- [x] A) 10 años, porque aparece tres veces, más que las demás edades.
+- [x] D) 10 años, porque aparece tres veces, más que las demás edades.
   <!-- feedback: El 10 se repite 3 veces, mientras 11 y 12 aparecen una sola vez. -->
-- [ ] B) 12 años, porque es la edad más alta.
+- [ ] A) 12 años, porque es la edad más alta.
   <!-- feedback: La edad más alta es el máximo, no la moda. -->
-- [ ] C) 11 años, porque está en el medio de la lista.
+- [ ] B) 11 años, porque está en el medio de la lista.
   <!-- feedback: El valor central es la mediana, no la moda. -->
-- [ ] D) 9 años, porque es la edad más baja.
+- [ ] C) 9 años, porque es la edad más baja.
   <!-- feedback: El 9 no aparece en los datos y no es la moda. -->
 
 ### Explicacion Pedagogica
@@ -149,11 +149,11 @@ Razonar con datos numéricos para hallar la moda, contando cuántas veces se rep
 ¿Qué se puede concluir al comparar las modas de los dos cursos?
 
 ### Opciones
-- [x] A) La fruta que más se repite es distinta en cada curso.
+- [x] C) La fruta que más se repite es distinta en cada curso.
   <!-- feedback: Cada curso tiene una moda diferente, lo que muestra gustos distintos. -->
-- [ ] B) Los dos cursos tienen exactamente los mismos gustos.
+- [ ] A) Los dos cursos tienen exactamente los mismos gustos.
   <!-- feedback: Las modas distintas indican gustos diferentes. -->
-- [ ] C) En los dos cursos el mango fue la fruta más repetida.
+- [ ] B) En los dos cursos el mango fue la fruta más repetida.
   <!-- feedback: El mango solo fue la moda en 5A, no en 5B. -->
 - [ ] D) El banano no fue elegido por ningún estudiante.
   <!-- feedback: El banano fue la fruta más repetida en 5B. -->
@@ -172,11 +172,11 @@ Analizar y comparar las modas de dos conjuntos de datos para interpretar diferen
 ¿Cuál afirmación sobre estos datos es correcta?
 
 ### Opciones
-- [x] A) La moda es 4 y el promedio es 4.
+- [x] C) La moda es 4 y el promedio es 4.
   <!-- feedback: El 4 se repite 3 veces y la suma (28) dividida entre 7 da 4. -->
-- [ ] B) La moda es 5 y el promedio es 3.
+- [ ] A) La moda es 5 y el promedio es 3.
   <!-- feedback: El 5 se repite solo 2 veces y el promedio no es 3. -->
-- [ ] C) La moda es 3 y el promedio es 5.
+- [ ] B) La moda es 3 y el promedio es 5.
   <!-- feedback: El 3 se repite solo 2 veces y el promedio no es 5. -->
 - [ ] D) No se puede calcular ninguna medida.
   <!-- feedback: Con esos datos sí se pueden calcular la moda y el promedio. -->
@@ -195,9 +195,9 @@ Analizar un conjunto de datos calculando a la vez la moda y el promedio para des
 ¿Qué medida conviene usar en cada caso?
 
 ### Opciones
-- [x] A) La moda para elegir la fruta preferida y el promedio para resumir las notas.
+- [x] B) La moda para elegir la fruta preferida y el promedio para resumir las notas.
   <!-- feedback: La moda señala la preferencia más frecuente y el promedio resume el desempeño general. -->
-- [ ] B) El promedio para elegir la fruta y la moda para las notas.
+- [ ] A) El promedio para elegir la fruta y la moda para las notas.
   <!-- feedback: Para preferencias se usa la moda y para notas se usa el promedio. -->
 - [ ] C) Ninguna medida, porque los datos no sirven para decidir.
   <!-- feedback: Los datos sí permiten tomar decisiones informadas. -->

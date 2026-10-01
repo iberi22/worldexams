@@ -30,8 +30,8 @@ creador: "Jules-Agent"
 En un laboratorio de Antofagasta, Benjamín prepara una solución disolviendo $0.15 \text{ moles}$ de soluto en agua hasta completar $0.45 \text{ L}$ de solución total. ¿Cuál es su molaridad?
 
 ### Opciones
-- [x] A) $0.33 \text{ M}$ <!-- feedback: ¡Correcto! M = n / V = 0.15 / 0.45 = 0.33 M. -->
-- [ ] B) $0.67 \text{ M}$ <!-- feedback: Incorrecto. Multiplicaste por 2 la concentración molar. -->
+- [x] B) $0.33 \text{ M}$ <!-- feedback: ¡Correcto! M = n / V = 0.15 / 0.45 = 0.33 M. -->
+- [ ] A) $0.67 \text{ M}$ <!-- feedback: Incorrecto. Multiplicaste por 2 la concentración molar. -->
 - [ ] C) $0.15 \text{ M}$ <!-- feedback: Incorrecto. Olvidaste dividir por el volumen en litros. -->
 - [ ] D) $0.17 \text{ M}$ <!-- feedback: Incorrecto. Dividiste la concentración por dos. -->
 
@@ -87,8 +87,8 @@ La molaridad es la razón entre moles de soluto y litros de solución: M = n / V
 En un laboratorio de Viña del Mar, Diego prepara una solución disolviendo $0.30 \text{ moles}$ de soluto en agua hasta completar $0.25 \text{ L}$ de solución total. ¿Cuál es su molaridad?
 
 ### Opciones
-- [x] A) $1.20 \text{ M}$ <!-- feedback: ¡Correcto! M = n / V = 0.30 / 0.25 = 1.20 M. -->
-- [ ] B) $2.40 \text{ M}$ <!-- feedback: Incorrecto. Multiplicaste por 2 la concentración molar. -->
+- [x] B) $1.20 \text{ M}$ <!-- feedback: ¡Correcto! M = n / V = 0.30 / 0.25 = 1.20 M. -->
+- [ ] A) $2.40 \text{ M}$ <!-- feedback: Incorrecto. Multiplicaste por 2 la concentración molar. -->
 - [ ] C) $0.30 \text{ M}$ <!-- feedback: Incorrecto. Olvidaste dividir por el volumen en litros. -->
 - [ ] D) $0.60 \text{ M}$ <!-- feedback: Incorrecto. Dividiste la concentración por dos. -->
 
@@ -144,10 +144,10 @@ La molaridad es la razón entre moles de soluto y litros de solución: M = n / V
 En un laboratorio de Talca, Fernanda prepara una solución disolviendo $0.45 \text{ moles}$ de soluto en agua hasta completar $0.85 \text{ L}$ de solución total. ¿Cuál es su molaridad?
 
 ### Opciones
-- [x] A) $0.53 \text{ M}$ <!-- feedback: ¡Correcto! M = n / V = 0.45 / 0.85 = 0.53 M. -->
-- [ ] B) $1.06 \text{ M}$ <!-- feedback: Incorrecto. Multiplicaste por 2 la concentración molar. -->
-- [ ] C) $0.45 \text{ M}$ <!-- feedback: Incorrecto. Olvidaste dividir por el volumen en litros. -->
-- [ ] D) $0.26 \text{ M}$ <!-- feedback: Incorrecto. Dividiste la concentración por dos. -->
+- [x] D) $0.53 \text{ M}$ <!-- feedback: ¡Correcto! M = n / V = 0.45 / 0.85 = 0.53 M. -->
+- [ ] A) $1.06 \text{ M}$ <!-- feedback: Incorrecto. Multiplicaste por 2 la concentración molar. -->
+- [ ] B) $0.45 \text{ M}$ <!-- feedback: Incorrecto. Olvidaste dividir por el volumen en litros. -->
+- [ ] C) $0.26 \text{ M}$ <!-- feedback: Incorrecto. Dividiste la concentración por dos. -->
 
 ### Explicacion Pedagogica
 La molaridad es la razón entre moles de soluto y litros de solución: M = n / V = 0.45 / 0.85 = 0.53 M.
@@ -182,9 +182,9 @@ La molaridad es la razón entre moles de soluto y litros de solución: M = n / V
 En un laboratorio de Puerto Montt, Martina prepara una solución disolviendo $0.55 \text{ moles}$ de soluto en agua hasta completar $0.40 \text{ L}$ de solución total. ¿Cuál es su molaridad?
 
 ### Opciones
-- [x] A) $1.38 \text{ M}$ <!-- feedback: ¡Correcto! M = n / V = 0.55 / 0.40 = 1.38 M. -->
-- [ ] B) $2.75 \text{ M}$ <!-- feedback: Incorrecto. Multiplicaste por 2 la concentración molar. -->
-- [ ] C) $0.55 \text{ M}$ <!-- feedback: Incorrecto. Olvidaste dividir por el volumen en litros. -->
+- [x] C) $1.38 \text{ M}$ <!-- feedback: ¡Correcto! M = n / V = 0.55 / 0.40 = 1.38 M. -->
+- [ ] A) $2.75 \text{ M}$ <!-- feedback: Incorrecto. Multiplicaste por 2 la concentración molar. -->
+- [ ] B) $0.55 \text{ M}$ <!-- feedback: Incorrecto. Olvidaste dividir por el volumen en litros. -->
 - [ ] D) $0.69 \text{ M}$ <!-- feedback: Incorrecto. Dividiste la concentración por dos. -->
 
 ### Explicacion Pedagogica
@@ -201,9 +201,9 @@ La molaridad es la razón entre moles de soluto y litros de solución: M = n / V
 En un laboratorio de Chillán, Catalina prepara una solución disolviendo $0.60 \text{ moles}$ de soluto en agua hasta completar $0.65 \text{ L}$ de solución total. ¿Cuál es su molaridad?
 
 ### Opciones
-- [x] A) $0.92 \text{ M}$ <!-- feedback: ¡Correcto! M = n / V = 0.60 / 0.65 = 0.92 M. -->
-- [ ] B) $1.85 \text{ M}$ <!-- feedback: Incorrecto. Multiplicaste por 2 la concentración molar. -->
-- [ ] C) $0.60 \text{ M}$ <!-- feedback: Incorrecto. Olvidaste dividir por el volumen en litros. -->
+- [x] C) $0.92 \text{ M}$ <!-- feedback: ¡Correcto! M = n / V = 0.60 / 0.65 = 0.92 M. -->
+- [ ] A) $1.85 \text{ M}$ <!-- feedback: Incorrecto. Multiplicaste por 2 la concentración molar. -->
+- [ ] B) $0.60 \text{ M}$ <!-- feedback: Incorrecto. Olvidaste dividir por el volumen en litros. -->
 - [ ] D) $0.46 \text{ M}$ <!-- feedback: Incorrecto. Dividiste la concentración por dos. -->
 
 ### Explicacion Pedagogica
@@ -220,10 +220,10 @@ La molaridad es la razón entre moles de soluto y litros de solución: M = n / V
 En un laboratorio de Calama, Isidora prepara una solución disolviendo $0.65 \text{ moles}$ de soluto en agua hasta completar $0.90 \text{ L}$ de solución total. ¿Cuál es su molaridad?
 
 ### Opciones
-- [x] A) $0.72 \text{ M}$ <!-- feedback: ¡Correcto! M = n / V = 0.65 / 0.90 = 0.72 M. -->
-- [ ] B) $1.44 \text{ M}$ <!-- feedback: Incorrecto. Multiplicaste por 2 la concentración molar. -->
-- [ ] C) $0.65 \text{ M}$ <!-- feedback: Incorrecto. Olvidaste dividir por el volumen en litros. -->
-- [ ] D) $0.36 \text{ M}$ <!-- feedback: Incorrecto. Dividiste la concentración por dos. -->
+- [x] D) $0.72 \text{ M}$ <!-- feedback: ¡Correcto! M = n / V = 0.65 / 0.90 = 0.72 M. -->
+- [ ] A) $1.44 \text{ M}$ <!-- feedback: Incorrecto. Multiplicaste por 2 la concentración molar. -->
+- [ ] B) $0.65 \text{ M}$ <!-- feedback: Incorrecto. Olvidaste dividir por el volumen en litros. -->
+- [ ] C) $0.36 \text{ M}$ <!-- feedback: Incorrecto. Dividiste la concentración por dos. -->
 
 ### Explicacion Pedagogica
 La molaridad es la razón entre moles de soluto y litros de solución: M = n / V = 0.65 / 0.90 = 0.72 M.
@@ -239,8 +239,8 @@ La molaridad es la razón entre moles de soluto y litros de solución: M = n / V
 En un laboratorio de Valdivia, Camila prepara una solución disolviendo $0.70 \text{ moles}$ de soluto en agua hasta completar $0.20 \text{ L}$ de solución total. ¿Cuál es su molaridad?
 
 ### Opciones
-- [x] A) $3.50 \text{ M}$ <!-- feedback: ¡Correcto! M = n / V = 0.70 / 0.20 = 3.50 M. -->
-- [ ] B) $7.00 \text{ M}$ <!-- feedback: Incorrecto. Multiplicaste por 2 la concentración molar. -->
+- [x] B) $3.50 \text{ M}$ <!-- feedback: ¡Correcto! M = n / V = 0.70 / 0.20 = 3.50 M. -->
+- [ ] A) $7.00 \text{ M}$ <!-- feedback: Incorrecto. Multiplicaste por 2 la concentración molar. -->
 - [ ] C) $0.70 \text{ M}$ <!-- feedback: Incorrecto. Olvidaste dividir por el volumen en litros. -->
 - [ ] D) $1.75 \text{ M}$ <!-- feedback: Incorrecto. Dividiste la concentración por dos. -->
 
@@ -277,8 +277,8 @@ La molaridad es la razón entre moles de soluto y litros de solución: M = n / V
 En un laboratorio de Valparaíso, Javier prepara una solución disolviendo $0.80 \text{ moles}$ de soluto en agua hasta completar $0.70 \text{ L}$ de solución total. ¿Cuál es su molaridad?
 
 ### Opciones
-- [x] A) $1.14 \text{ M}$ <!-- feedback: ¡Correcto! M = n / V = 0.80 / 0.70 = 1.14 M. -->
-- [ ] B) $2.29 \text{ M}$ <!-- feedback: Incorrecto. Multiplicaste por 2 la concentración molar. -->
+- [x] B) $1.14 \text{ M}$ <!-- feedback: ¡Correcto! M = n / V = 0.80 / 0.70 = 1.14 M. -->
+- [ ] A) $2.29 \text{ M}$ <!-- feedback: Incorrecto. Multiplicaste por 2 la concentración molar. -->
 - [ ] C) $0.80 \text{ M}$ <!-- feedback: Incorrecto. Olvidaste dividir por el volumen en litros. -->
 - [ ] D) $0.57 \text{ M}$ <!-- feedback: Incorrecto. Dividiste la concentración por dos. -->
 
@@ -296,9 +296,9 @@ La molaridad es la razón entre moles de soluto y litros de solución: M = n / V
 En un laboratorio de Concepción, Sebastián prepara una solución disolviendo $0.85 \text{ moles}$ de soluto en agua hasta completar $0.80 \text{ L}$ de solución total. ¿Cuál es su molaridad?
 
 ### Opciones
-- [x] A) $1.06 \text{ M}$ <!-- feedback: ¡Correcto! M = n / V = 0.85 / 0.80 = 1.06 M. -->
-- [ ] B) $2.12 \text{ M}$ <!-- feedback: Incorrecto. Multiplicaste por 2 la concentración molar. -->
-- [ ] C) $0.85 \text{ M}$ <!-- feedback: Incorrecto. Olvidaste dividir por el volumen en litros. -->
+- [x] C) $1.06 \text{ M}$ <!-- feedback: ¡Correcto! M = n / V = 0.85 / 0.80 = 1.06 M. -->
+- [ ] A) $2.12 \text{ M}$ <!-- feedback: Incorrecto. Multiplicaste por 2 la concentración molar. -->
+- [ ] B) $0.85 \text{ M}$ <!-- feedback: Incorrecto. Olvidaste dividir por el volumen en litros. -->
 - [ ] D) $0.53 \text{ M}$ <!-- feedback: Incorrecto. Dividiste la concentración por dos. -->
 
 ### Explicacion Pedagogica
@@ -334,8 +334,8 @@ La molaridad es la razón entre moles de soluto y litros de solución: M = n / V
 En un laboratorio de Temuco, Vicente prepara una solución disolviendo $0.95 \text{ moles}$ de soluto en agua hasta completar $0.50 \text{ L}$ de solución total. ¿Cuál es su molaridad?
 
 ### Opciones
-- [x] A) $1.90 \text{ M}$ <!-- feedback: ¡Correcto! M = n / V = 0.95 / 0.50 = 1.90 M. -->
-- [ ] B) $3.80 \text{ M}$ <!-- feedback: Incorrecto. Multiplicaste por 2 la concentración molar. -->
+- [x] B) $1.90 \text{ M}$ <!-- feedback: ¡Correcto! M = n / V = 0.95 / 0.50 = 1.90 M. -->
+- [ ] A) $3.80 \text{ M}$ <!-- feedback: Incorrecto. Multiplicaste por 2 la concentración molar. -->
 - [ ] C) $0.95 \text{ M}$ <!-- feedback: Incorrecto. Olvidaste dividir por el volumen en litros. -->
 - [ ] D) $0.48 \text{ M}$ <!-- feedback: Incorrecto. Dividiste la concentración por dos. -->
 
@@ -353,10 +353,10 @@ La molaridad es la razón entre moles de soluto y litros de solución: M = n / V
 En un laboratorio de La Serena, Matías prepara una solución disolviendo $1.00 \text{ moles}$ de soluto en agua hasta completar $0.60 \text{ L}$ de solución total. ¿Cuál es su molaridad?
 
 ### Opciones
-- [x] A) $1.67 \text{ M}$ <!-- feedback: ¡Correcto! M = n / V = 1.00 / 0.60 = 1.67 M. -->
-- [ ] B) $3.33 \text{ M}$ <!-- feedback: Incorrecto. Multiplicaste por 2 la concentración molar. -->
-- [ ] C) $1.00 \text{ M}$ <!-- feedback: Incorrecto. Olvidaste dividir por el volumen en litros. -->
-- [ ] D) $0.83 \text{ M}$ <!-- feedback: Incorrecto. Dividiste la concentración por dos. -->
+- [x] D) $1.67 \text{ M}$ <!-- feedback: ¡Correcto! M = n / V = 1.00 / 0.60 = 1.67 M. -->
+- [ ] A) $3.33 \text{ M}$ <!-- feedback: Incorrecto. Multiplicaste por 2 la concentración molar. -->
+- [ ] B) $1.00 \text{ M}$ <!-- feedback: Incorrecto. Olvidaste dividir por el volumen en litros. -->
+- [ ] C) $0.83 \text{ M}$ <!-- feedback: Incorrecto. Dividiste la concentración por dos. -->
 
 ### Explicacion Pedagogica
 La molaridad es la razón entre moles de soluto y litros de solución: M = n / V = 1.00 / 0.60 = 1.67 M.
@@ -372,10 +372,10 @@ La molaridad es la razón entre moles de soluto y litros de solución: M = n / V
 En un laboratorio de Viña del Mar, Diego prepara una solución disolviendo $1.05 \text{ moles}$ de soluto en agua hasta completar $0.85 \text{ L}$ de solución total. ¿Cuál es su molaridad?
 
 ### Opciones
-- [x] A) $1.24 \text{ M}$ <!-- feedback: ¡Correcto! M = n / V = 1.05 / 0.85 = 1.24 M. -->
-- [ ] B) $2.47 \text{ M}$ <!-- feedback: Incorrecto. Multiplicaste por 2 la concentración molar. -->
-- [ ] C) $1.05 \text{ M}$ <!-- feedback: Incorrecto. Olvidaste dividir por el volumen en litros. -->
-- [ ] D) $0.62 \text{ M}$ <!-- feedback: Incorrecto. Dividiste la concentración por dos. -->
+- [x] D) $1.24 \text{ M}$ <!-- feedback: ¡Correcto! M = n / V = 1.05 / 0.85 = 1.24 M. -->
+- [ ] A) $2.47 \text{ M}$ <!-- feedback: Incorrecto. Multiplicaste por 2 la concentración molar. -->
+- [ ] B) $1.05 \text{ M}$ <!-- feedback: Incorrecto. Olvidaste dividir por el volumen en litros. -->
+- [ ] C) $0.62 \text{ M}$ <!-- feedback: Incorrecto. Dividiste la concentración por dos. -->
 
 ### Explicacion Pedagogica
 La molaridad es la razón entre moles de soluto y litros de solución: M = n / V = 1.05 / 0.85 = 1.24 M.
@@ -391,10 +391,10 @@ La molaridad es la razón entre moles de soluto y litros de solución: M = n / V
 En un laboratorio de Iquique, Tomás prepara una solución disolviendo $1.10 \text{ moles}$ de soluto en agua hasta completar $0.30 \text{ L}$ de solución total. ¿Cuál es su molaridad?
 
 ### Opciones
-- [x] A) $3.67 \text{ M}$ <!-- feedback: ¡Correcto! M = n / V = 1.10 / 0.30 = 3.67 M. -->
-- [ ] B) $7.33 \text{ M}$ <!-- feedback: Incorrecto. Multiplicaste por 2 la concentración molar. -->
-- [ ] C) $1.10 \text{ M}$ <!-- feedback: Incorrecto. Olvidaste dividir por el volumen en litros. -->
-- [ ] D) $1.83 \text{ M}$ <!-- feedback: Incorrecto. Dividiste la concentración por dos. -->
+- [x] D) $3.67 \text{ M}$ <!-- feedback: ¡Correcto! M = n / V = 1.10 / 0.30 = 3.67 M. -->
+- [ ] A) $7.33 \text{ M}$ <!-- feedback: Incorrecto. Multiplicaste por 2 la concentración molar. -->
+- [ ] B) $1.10 \text{ M}$ <!-- feedback: Incorrecto. Olvidaste dividir por el volumen en litros. -->
+- [ ] C) $1.83 \text{ M}$ <!-- feedback: Incorrecto. Dividiste la concentración por dos. -->
 
 ### Explicacion Pedagogica
 La molaridad es la razón entre moles de soluto y litros de solución: M = n / V = 1.10 / 0.30 = 3.67 M.

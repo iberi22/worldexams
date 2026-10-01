@@ -70,13 +70,13 @@ En un texto argumentativo la opinión es la idea que se defiende y la razón es 
 ### Enunciado
 ¿Cuál de las dos expresiones es una opinión?
 ### Opciones
-- [x] A) "El recreo es muy corto", porque expresa un punto de vista.
+- [x] D) "El recreo es muy corto", porque expresa un punto de vista.
   <!-- feedback: Es correcta porque la palabra "muy" muestra la valoración de quien escribe. -->
-- [ ] B) "El recreo dura veinte minutos", porque se puede medir.
+- [ ] A) "El recreo dura veinte minutos", porque se puede medir.
   <!-- feedback: Es incorrecta porque un tiempo medible es un hecho comprobable. -->
-- [ ] C) Las dos son hechos comprobables.
+- [ ] B) Las dos son hechos comprobables.
   <!-- feedback: Es incorrecta porque solo una se puede comprobar con un reloj. -->
-- [ ] D) Ninguna expresa una idea personal.
+- [ ] C) Ninguna expresa una idea personal.
   <!-- feedback: Es incorrecta porque una de las dos sí valora la duración. -->
 ### Explicacion Pedagogica
 Aplicar la diferencia entre hecho y opinión permite leer con criterio: los minutos se miden, pero "muy corto" depende de cada persona. Distinguirlos evita presentar una valoración como si fuera un dato.
@@ -90,13 +90,13 @@ Aplicar la diferencia entre hecho y opinión permite leer con criterio: los minu
 ### Enunciado
 ¿Cuál razón apoya mejor la opinión "debemos reciclar en el colegio"?
 ### Opciones
-- [x] A) Porque así cuidamos el ambiente y reducimos la basura.
+- [x] D) Porque así cuidamos el ambiente y reducimos la basura.
   <!-- feedback: Es correcta porque relaciona el reciclaje con un beneficio real y claro. -->
-- [ ] B) Porque a mí me gusta el color verde.
+- [ ] A) Porque a mí me gusta el color verde.
   <!-- feedback: Es incorrecta porque un gusto personal no explica el beneficio de reciclar. -->
-- [ ] C) Porque los viernes no hay clase.
+- [ ] B) Porque los viernes no hay clase.
   <!-- feedback: Es incorrecta porque el horario no se relaciona con el reciclaje. -->
-- [ ] D) Porque el patio es grande.
+- [ ] C) Porque el patio es grande.
   <!-- feedback: Es incorrecta porque el tamaño del patio no justifica reciclar. -->
 ### Explicacion Pedagogica
 Una buena razón se conecta directamente con la opinión y ofrece un beneficio comprensible. Aplicar este criterio mejora la escritura de textos argumentativos escolares y hace más convincente lo que se afirma.
@@ -110,11 +110,11 @@ Una buena razón se conecta directamente con la opinión y ofrece un beneficio c
 ### Enunciado
 ¿Cuál razón apoya mejor la opinión de María?
 ### Opciones
-- [x] A) Con dos mil pesos puede comprar también una fruta y un pan.
+- [x] C) Con dos mil pesos puede comprar también una fruta y un pan.
   <!-- feedback: Es correcta porque compara precios y muestra que el jugo cuesta más que otros alimentos. -->
-- [ ] B) Porque el jugo es de color naranja.
+- [ ] A) Porque el jugo es de color naranja.
   <!-- feedback: Es incorrecta porque el color no se relaciona con el precio. -->
-- [ ] C) Porque la tienda está cerca del salón.
+- [ ] B) Porque la tienda está cerca del salón.
   <!-- feedback: Es incorrecta porque la cercanía no determina si algo es caro. -->
 - [ ] D) Porque hay muchos estudiantes en el patio.
   <!-- feedback: Es incorrecta porque la cantidad de estudiantes no modifica el precio. -->
@@ -130,13 +130,13 @@ Aplicar una razón adecuada exige comparar y explicar: dos mil pesos por un jugo
 ### Enunciado
 Al analizar los dos argumentos, ¿cuál tiene una razón mejor construida?
 ### Opciones
-- [x] A) El de Ana, porque explica un beneficio con un motivo claro.
+- [x] D) El de Ana, porque explica un beneficio con un motivo claro.
   <!-- feedback: Es correcta porque la razón se conecta con el aprendizaje y lo explica. -->
-- [ ] B) El de Luis, porque el juego es más importante que todo.
+- [ ] A) El de Luis, porque el juego es más importante que todo.
   <!-- feedback: Es incorrecta porque es una afirmación sin motivo que la respalde. -->
-- [ ] C) El de Luis, porque solo dice que no le gusta la tarea.
+- [ ] B) El de Luis, porque solo dice que no le gusta la tarea.
   <!-- feedback: Es incorrecta porque un gusto personal no explica el beneficio o el daño de la tarea. -->
-- [ ] D) Ninguno, porque los dos son opiniones sin ningún motivo.
+- [ ] C) Ninguno, porque los dos son opiniones sin ningún motivo.
   <!-- feedback: Es incorrecta porque al menos uno de los dos presenta una razón. -->
 ### Explicacion Pedagogica
 Analizar argumentos es comparar las razones que los sostienen. Un argumento mejora cuando su motivo se relaciona con el tema y aporta información. Distinguir esto enseña a discutir con respeto y con pruebas.
@@ -150,11 +150,11 @@ Analizar argumentos es comparar las razones que los sostienen. Un argumento mejo
 ### Enunciado
 Al analizar el argumento, ¿qué falla en él?
 ### Opciones
-- [x] A) Generaliza a partir de un solo caso.
+- [x] C) Generaliza a partir de un solo caso.
   <!-- feedback: Es correcta porque toma una experiencia aislada y la aplica a todos los perros. -->
-- [ ] B) Usa demasiados datos comprobados.
+- [ ] A) Usa demasiados datos comprobados.
   <!-- feedback: Es incorrecta porque justamente le faltan datos para sostener la afirmación. -->
-- [ ] C) Consulta a un experto antes de opinar.
+- [ ] B) Consulta a un experto antes de opinar.
   <!-- feedback: Es incorrecta porque no consulta a nadie, solo cuenta su experiencia. -->
 - [ ] D) Cita a varios vecinos del barrio.
   <!-- feedback: Es incorrecta porque el argumento se apoya solo en un caso personal. -->

@@ -34,13 +34,13 @@ Características de la leyenda como texto narrativo tradicional, su estructura, 
 ¿Cuál es una característica principal de una leyenda?
 
 ### Opciones
-- [x] A) Es un relato tradicional que mezcla hechos reales con elementos fantásticos y se transmite de generación en generación.
+- [x] D) Es un relato tradicional que mezcla hechos reales con elementos fantásticos y se transmite de generación en generación.
   <!-- feedback: Las leyendas combinan hechos reales con imaginación y se transmiten oralmente. -->
-- [ ] B) Es un texto científico que explica fenómenos naturales con pruebas verificables.
+- [ ] A) Es un texto científico que explica fenómenos naturales con pruebas verificables.
   <!-- feedback: Las leyendas no son textos científicos ni buscan pruebas verificables. -->
-- [ ] C) Es una noticia reciente publicada en un periódico nacional.
+- [ ] B) Es una noticia reciente publicada en un periódico nacional.
   <!-- feedback: Las leyendas son relatos tradicionales, no noticias de actualidad. -->
-- [ ] D) Es un instructivo para fabricar objetos paso a paso.
+- [ ] C) Es un instructivo para fabricar objetos paso a paso.
   <!-- feedback: Las leyendas narran historias, no son instructivos. -->
 
 ### Explicacion Pedagogica
@@ -80,9 +80,9 @@ Comprender la combinación de elementos reales y fantásticos típica de las ley
 ¿Cuál es la estructura general de una leyenda?
 
 ### Opciones
-- [x] A) Presentación de personajes y lugar, desarrollo del conflicto y una conclusión que explica el origen de algo.
+- [x] B) Presentación de personajes y lugar, desarrollo del conflicto y una conclusión que explica el origen de algo.
   <!-- feedback: La leyenda suele presentar el contexto, narrar el conflicto y cerrar con una enseñanza o explicación. -->
-- [ ] B) Hipótesis, experimento y resultados, como un texto científico.
+- [ ] A) Hipótesis, experimento y resultados, como un texto científico.
   <!-- feedback: Esa estructura corresponde a textos científicos, no a leyendas. -->
 - [ ] C) Solo una lista de personajes sin ninguna narración.
   <!-- feedback: La leyenda incluye una narración, no solo listas. -->
@@ -103,11 +103,11 @@ Aplicar el conocimiento sobre la estructura narrativa básica de una leyenda.
 ¿Cuál es la intención cultural de esta explicación sobre la lluvia?
 
 ### Opciones
-- [x] A) Ofrecer una explicación cultural y simbólica de un fenómeno natural como la lluvia.
+- [x] C) Ofrecer una explicación cultural y simbólica de un fenómeno natural como la lluvia.
   <!-- feedback: La leyenda ofrece una visión cultural de la naturaleza, no científica. -->
-- [ ] B) Demostrar con experimentos que la lluvia se origina en la abuela Juna.
+- [ ] A) Demostrar con experimentos que la lluvia se origina en la abuela Juna.
   <!-- feedback: La leyenda no se basa en experimentos verificables. -->
-- [ ] C) Vender productos para evitar la lluvia.
+- [ ] B) Vender productos para evitar la lluvia.
   <!-- feedback: La leyenda no es publicidad ni busca vender productos. -->
 - [ ] D) Enseñar a medir la lluvia con instrumentos.
   <!-- feedback: La leyenda no enseña a medir, sino a interpretar culturalmente. -->
@@ -126,13 +126,13 @@ Reconocer la intención cultural y simbólica de una leyenda que explica un fen�
 ¿Qué elementos son indispensables al iniciar una leyenda?
 
 ### Opciones
-- [x] A) Un lugar reconocible, un personaje principal y una atmósfera que mezcle lo real con lo sobrenatural.
+- [x] D) Un lugar reconocible, un personaje principal y una atmósfera que mezcle lo real con lo sobrenatural.
   <!-- feedback: Estos tres elementos permiten ambientar la leyenda desde el comienzo. -->
-- [ ] B) Una lista de productos de supermercado.
+- [ ] A) Una lista de productos de supermercado.
   <!-- feedback: Las listas de productos no pertenecen al inicio de una leyenda. -->
-- [ ] C) Una fórmula matemática compleja.
+- [ ] B) Una fórmula matemática compleja.
   <!-- feedback: Las matemáticas no son parte del inicio de una leyenda. -->
-- [ ] D) Un código secreto sin ninguna pista del lugar.
+- [ ] C) Un código secreto sin ninguna pista del lugar.
   <!-- feedback: Una pista del lugar es importante para situar al lector en la leyenda. -->
 
 ### Explicacion Pedagogica
@@ -149,11 +149,11 @@ Aplicar los elementos iniciales necesarios para escribir una leyenda colombiana.
 ¿Qué tienen en común ambas leyendas colombianas?
 
 ### Opciones
-- [x] A) Ambas presentan seres fantásticos que aparecen en lugares naturales para transmitir enseñanzas o advertencias.
+- [x] C) Ambas presentan seres fantásticos que aparecen en lugares naturales para transmitir enseñanzas o advertencias.
   <!-- feedback: Las dos leyendas usan personajes fantásticos para dar mensajes a la comunidad. -->
-- [ ] B) Ambas son textos científicos sobre la fauna.
+- [ ] A) Ambas son textos científicos sobre la fauna.
   <!-- feedback: Ninguna de las dos es un texto científico, sino relatos tradicionales. -->
-- [ ] C) Las dos se desarrollan en ciudades modernas.
+- [ ] B) Las dos se desarrollan en ciudades modernas.
   <!-- feedback: Ambas se desarrollan en entornos naturales, no en ciudades modernas. -->
 - [ ] D) Las dos son cuentos de hadas europeos traducidos.
   <!-- feedback: Son leyendas colombianas, no traducciones de cuentos europeos. -->
@@ -172,9 +172,9 @@ Comparar leyendas colombianas para identificar sus elementos comunes.
 ¿Qué papel cumplen los personajes sobrenaturales en las leyendas colombianas?
 
 ### Opciones
-- [x] A) Actúan como seres que ayudan o ponen a prueba al protagonista y explican fenómenos o lugares.
+- [x] B) Actúan como seres que ayudan o ponen a prueba al protagonista y explican fenómenos o lugares.
   <!-- feedback: Los seres sobrenaturales suelen ser ejes del conflicto y de la explicación cultural. -->
-- [ ] B) Son personajes secundarios sin ninguna influencia en la historia.
+- [ ] A) Son personajes secundarios sin ninguna influencia en la historia.
   <!-- feedback: Por el contrario, suelen ser centrales en la trama de la leyenda. -->
 - [ ] C) Solo aparecen en textos europeos, no en Colombia.
   <!-- feedback: Los seres sobrenaturales son esenciales en leyendas colombianas. -->
@@ -195,11 +195,11 @@ Analizar el papel narrativo de los personajes sobrenaturales en las leyendas col
 ¿Por qué es importante leer y conocer leyendas colombianas en la escuela?
 
 ### Opciones
-- [x] A) Porque permiten valorar la tradición oral, la identidad cultural y el legado de las regiones colombianas.
+- [x] C) Porque permiten valorar la tradición oral, la identidad cultural y el legado de las regiones colombianas.
   <!-- feedback: Las leyendas acercan a los estudiantes al patrimonio cultural inmaterial del país. -->
-- [ ] B) Porque no tienen ninguna relación con la cultura ni con la identidad.
+- [ ] A) Porque no tienen ninguna relación con la cultura ni con la identidad.
   <!-- feedback: Al contrario, las leyendas están profundamente ligadas a la identidad cultural. -->
-- [ ] C) Porque solo sirven para asustar a los niños sin otro propósito.
+- [ ] B) Porque solo sirven para asustar a los niños sin otro propósito.
   <!-- feedback: Las leyendas tienen propósitos narrativos, culturales y éticos, no solo asustar. -->
 - [ ] D) Porque deberían reemplazarse por historietas extranjeras.
   <!-- feedback: Las leyendas colombianas tienen valor propio y no deben reemplazarse. -->

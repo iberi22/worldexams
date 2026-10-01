@@ -34,9 +34,9 @@ Figuras literarias, polisemia, ironía y lenguaje figurado en la lectura crític
 ¿Qué efecto rítmico y emotivo logra Silva mediante la repetición anafórica del verso "y eran una sola sombra larga"?
 
 ### Opciones
-- [x] A) Recrea el movimiento hipnótico de las sombras sobre la hierba y la fusión espiritual eterna entre los dos amantes más allá de la muerte.
+- [x] B) Recrea el movimiento hipnótico de las sombras sobre la hierba y la fusión espiritual eterna entre los dos amantes más allá de la muerte.
   <!-- feedback: La anáfora rítmica intensifica la atmósfera melancólica, convirtiendo la obsesión del luto en una musicalidad envolvente y trágica. -->
-- [ ] B) Demuestra que el poeta carecía de vocabulario para describir la noche en Bogotá.
+- [ ] A) Demuestra que el poeta carecía de vocabulario para describir la noche en Bogotá.
   <!-- feedback: La repetición es una decisión métrica y poética genial, clave del Nocturno Silva. -->
 - [ ] C) Indica que la sombra pertenecía a un edificio público del centro de la ciudad.
   <!-- feedback: Las sombras simbolizan las almas unidas de los enamorados en el misterio de la muerte. -->
@@ -57,13 +57,13 @@ La anáfora y el ritmo obsesivo en el *Nocturno III* recrean la atmósfera melan
 ¿Qué figura literaria predomina al calificar a la selva como una "catedral de la pesadumbre"?
 
 ### Opciones
-- [x] A) Una metáfora elaborada que traslada la majestuosidad y sacralidad de la arquitectura religiosa hacia un espacio de sufrimiento y devoración.
+- [x] D) Una metáfora elaborada que traslada la majestuosidad y sacralidad de la arquitectura religiosa hacia un espacio de sufrimiento y devoración.
   <!-- feedback: La metáfora asimila la selva a un templo monumetal pero invierte la devoción en opresión y pesadumbre. -->
-- [ ] B) Un símil explícito mediante el uso del nexo "como" o "tal cual".
+- [ ] A) Un símil explícito mediante el uso del nexo "como" o "tal cual".
   <!-- feedback: No utiliza nexo comparativo explícito; afirma directamente la identidad metafórica. -->
-- [ ] C) Una hipérbole numérica referente a la cantidad de árboles por hectárea.
+- [ ] B) Una hipérbole numérica referente a la cantidad de árboles por hectárea.
   <!-- feedback: No se trata de una cifra sino de un desplazamiento poético y conceptual. -->
-- [ ] D) Un pleonasmo que repite innecesariamente la misma palabra dos veces.
+- [ ] C) Un pleonasmo que repite innecesariamente la misma palabra dos veces.
   <!-- feedback: Es una metáfora de densa riqueza expresiva y simbolismo trágico. -->
 
 ### Explicacion Pedagogica
@@ -103,11 +103,11 @@ La reiteración del color verde en Aurelio Arturo funciona como una sinestesia q
 ¿Qué logra el realismo minucioso y la metonimia de las "virutas de óxido" al mostrar la pobreza del coronel?
 
 ### Opciones
-- [x] A) Materializa la indigencia extrema y la dignidad dolorosa del personaje sin necesidad de explicaciones abstractas.
+- [x] C) Materializa la indigencia extrema y la dignidad dolorosa del personaje sin necesidad de explicaciones abstractas.
   <!-- feedback: El detalle concreto de raspar el óxido para extraer el último grano de café muestra la miseria cotidiana con aplastante fuerza pragmática. -->
-- [ ] B) Demuestra que el coronel era un experto en la preparación de bebidas minerales.
+- [ ] A) Demuestra que el coronel era un experto en la preparación de bebidas minerales.
   <!-- feedback: Muestra la amargura de la falta de alimento y la escasez extrema. -->
-- [ ] C) Sostiene que la lata de café había sido comprada en un mercado extranjero.
+- [ ] B) Sostiene que la lata de café había sido comprada en un mercado extranjero.
   <!-- feedback: Se enfoca en la precariedad del hogar del veterano abandono por el Estado. -->
 - [ ] D) Elimina la empatía del lector hacia el drama de la familia del coronel.
   <!-- feedback: Al contrario, intensifica la compasión y el respeto hacia la dignidad del anciano. -->
@@ -149,13 +149,13 @@ La antítesis entre la ruina de la vida (hojas secas) y la intensidad del arte (
 ¿Qué función cumple la "presagio o prolepsis simbólica" del aullido del perro en el relato romántico?
 
 ### Opciones
-- [x] A) Construir un clima de fatalidad donde la naturaleza y los animales intuyen trágicamente la inminencia de la muerte de María.
+- [x] D) Construir un clima de fatalidad donde la naturaleza y los animales intuyen trágicamente la inminencia de la muerte de María.
   <!-- feedback: En el Romanticismo, los presagios de la naturaleza (viento, aves agoreras, aullidos) anticipan el desenlace infausto. -->
-- [ ] B) Indicar que el animal tenía hambre por falta de alimento en la hacienda *El Paraíso*.
+- [ ] A) Indicar que el animal tenía hambre por falta de alimento en la hacienda *El Paraíso*.
   <!-- feedback: El aullido romántico atiende a la atmósfera de presagio trágico, no a una necesidad física. -->
-- [ ] C) Demuestra la incomodidad del perro ante la llegada de visitantes desconocidos.
+- [ ] B) Demuestra la incomodidad del perro ante la llegada de visitantes desconocidos.
   <!-- feedback: Mayo es el perro fiel de la familia cuyo comportamiento espejea el dolor de Efraín. -->
-- [ ] D) Sustituye la presencia del médico por una consulta con animales.
+- [ ] C) Sustituye la presencia del médico por una consulta con animales.
   <!-- feedback: Es un recurso de intensificación dramática propio del idilio trágico. -->
 
 ### Explicacion Pedagogica
@@ -172,13 +172,13 @@ El presagio animal en la novela romántica actúa como indicio lírico de la fat
 ¿Qué figura de conmutación o quiasmo se produce en la estructura de estas dos oraciones?
 
 ### Opciones
-- [x] A) Invierte el orden de los términos ("voz/viento" y "viento/voz") para afirmar la plena fusión de la poesía con los elementos naturales.
+- [x] D) Invierte el orden de los términos ("voz/viento" y "viento/voz") para afirmar la plena fusión de la poesía con los elementos naturales.
   <!-- feedback: El quiasmo poético crea una simetría musical que identifica la voz del poeta con la ligereza inasible del viento. -->
-- [ ] B) Demuestra un error de sintaxis que debió ser corregido por el editor.
+- [ ] A) Demuestra un error de sintaxis que debió ser corregido por el editor.
   <!-- feedback: El quiasmo es un recurso retórico de altísima sofisticación expresiva. -->
-- [ ] C) Informa sobre la velocidad de las corrientes de aire en las montañas de Antioquia.
+- [ ] B) Informa sobre la velocidad de las corrientes de aire en las montañas de Antioquia.
   <!-- feedback: Es una afirmación sobre la sustancia poética del sujeto lírico. -->
-- [ ] D) Obliga a pronunciar el verso dando tres vueltas sobre el mismo pie.
+- [ ] C) Obliga a pronunciar el verso dando tres vueltas sobre el mismo pie.
   <!-- feedback: Es una estructura sintáctica que busca la eufonía y el equilibrio estético. -->
 
 ### Explicacion Pedagogica
@@ -195,11 +195,11 @@ El quiasmo o retruécano en León de Greiff identifica al sujeto poético con la
 ¿Qué actitud pragmática y figura estilística manifiesta esta caracterización de la élite capitalina?
 
 ### Opciones
-- [x] A) El uso de la metonimia satírica para desmitificar la elegancia de la clase alta mostrando la falsedad de sus modales.
+- [x] C) El uso de la metonimia satírica para desmitificar la elegancia de la clase alta mostrando la falsedad de sus modales.
   <!-- feedback: Caballero ataca el arribismo burgués reduciendo la distinción social a disfraces prestados y gestos inauténticos. -->
-- [ ] B) El elogio sincero de las costumbres elegantes del cuerpo diplomático.
+- [ ] A) El elogio sincero de las costumbres elegantes del cuerpo diplomático.
   <!-- feedback: El tono es abiertamente irónico, mordaz y desmitificador. -->
-- [ ] C) Un informe médico sobre el estado de la salud oral en los ministerios.
+- [ ] B) Un informe médico sobre el estado de la salud oral en los ministerios.
   <!-- feedback: Las dentaduras postizas son una metáfora de la falsedad de las apariencias. -->
 - [ ] D) Una invitación formal a un concurso de disfraces en la carrera Séptima.
   <!-- feedback: Es una sátira mordaz sobre la inautenticidad de las élites bogotanas. -->
@@ -241,9 +241,9 @@ La hipérbole maravillosamente desplegada en *El ahogado más hermoso del mundo*
 ¿Qué visión del cosmos transmite esta personificación o metáfora del planeta Tierra?
 
 ### Opciones
-- [x] A) Una imagen desolada y trágica que presenta al mundo como un espacio inerte arrastrado por el vacío.
+- [x] B) Una imagen desolada y trágica que presenta al mundo como un espacio inerte arrastrado por el vacío.
   <!-- feedback: Cote Lamus expresa la angustia existencial de la posguerra concibiendo al planeta como una tumba helada en movimiento. -->
-- [ ] B) La confirmación de que la Tierra está compuesta exclusivamente de minerales útiles para la construcción.
+- [ ] A) La confirmación de que la Tierra está compuesta exclusivamente de minerales útiles para la construcción.
   <!-- feedback: La imagen es de una sobrecogedora orfandad existencial y metafísica. -->
 - [ ] C) Una invitación entusiasta a viajar por el universo en naves espaciales.
   <!-- feedback: El poema transmite sobrecogimiento y meditativa melancolía. -->
@@ -264,13 +264,13 @@ La metaforización de la Tierra como cadáver de piedra manifiesta la sensibilid
 ¿Qué función cumple este uso del "oxímoron de lo maravilloso cotidiano" en la muerte del patriarca?
 
 ### Opciones
-- [x] A) Acompañar la partida de una figura mítica con un tributo de la naturaleza que embellece la muerte con poesía sutil.
+- [x] D) Acompañar la partida de una figura mítica con un tributo de la naturaleza que embellece la muerte con poesía sutil.
   <!-- feedback: La lluvia de flores amarillas traslada el duelo familiar a la dimensión del prodigio natural, consagrando el fallecimiento del fundador. -->
-- [ ] B) Demostrar un fenómeno meteorológico real causado por la polinización de los árboles de guayacán.
+- [ ] A) Demostrar un fenómeno meteorológico real causado por la polinización de los árboles de guayacán.
   <!-- feedback: Opera en el orden del realismo mágico, no como un reporte de botánica. -->
-- [ ] C) Indicar que el pueblo sufría de una plaga de parásitos agrícolas destructivos.
+- [ ] B) Indicar que el pueblo sufría de una plaga de parásitos agrícolas destructivos.
   <!-- feedback: Las flores son un regalo poético de la naturaleza ante la partida del patriarca. -->
-- [ ] D) Advierte sobre los riesgos de caminar sin sombrilla durante las tardes de lluvia.
+- [ ] C) Advierte sobre los riesgos de caminar sin sombrilla durante las tardes de lluvia.
   <!-- feedback: Transforma la muerte en un acontecimiento de sobrecogedora belleza mítica. -->
 
 ### Explicacion Pedagogica
@@ -287,13 +287,13 @@ La llovizna de flores amarillas es un emblema del realismo mágico: lo prodigios
 ¿Qué figura literaria se aplica al dotar a la vegetación de la selva del Pacífico de "una boca abierta que espera para devorar"?
 
 ### Opciones
-- [x] A) La personificación o prosopopeya que convierte al entorno natural en un depredador consciente y voraz.
+- [x] D) La personificación o prosopopeya que convierte al entorno natural en un depredador consciente y voraz.
   <!-- feedback: Quintana personifica a la selva como una bestia implacable que acecha la fragilidad de los habitantes de la costa. -->
-- [ ] B) Un pleonasmo que repite la palabra boca sin aportar significado nuevo.
+- [ ] A) Un pleonasmo que repite la palabra boca sin aportar significado nuevo.
   <!-- feedback: La atribución de intencionalidad devoradora es una personificación de alta eficacia dramática. -->
-- [ ] C) Una ironía alegre que celebra la biodiversidad de la fauna nacional.
+- [ ] B) Una ironía alegre que celebra la biodiversidad de la fauna nacional.
   <!-- feedback: Construye un clima de amenaza constante y vulnerabilidad humana. -->
-- [ ] D) Una cita textual de un tratado sobre la protección de la fauna salvaje.
+- [ ] C) Una cita textual de un tratado sobre la protección de la fauna salvaje.
   <!-- feedback: Es un recurso estilístico que intensifica la hostilidad del paisaje. -->
 
 ### Explicacion Pedagogica
@@ -310,11 +310,11 @@ La personificación de la selva como entidad voraz acentúa el sentimiento de de
 ¿Qué tensión erótica y existencial se expresa mediante el contraste de la "carne en fuego" y la "ceniza"?
 
 ### Opciones
-- [x] A) Enfrenta la intensidad del deseo y la vitalidad del cuerpo ante la inminencia de la muerte y la nada.
+- [x] C) Enfrenta la intensidad del deseo y la vitalidad del cuerpo ante la inminencia de la muerte y la nada.
   <!-- feedback: Gaitán Durán (fundador de la revista *Mito*) afirma el erotismo como el único refugio dichoso frente a la brevedad de la vida. -->
-- [ ] B) Demuestra que el poeta trabajaba en una fábrica de materiales de construcción.
+- [ ] A) Demuestra que el poeta trabajaba en una fábrica de materiales de construcción.
   <!-- feedback: Es una reflexión poética sobre la pasión y la mortalidad del ser humano. -->
-- [ ] C) Exige la quema inmediata de todos los manuscritos del autor.
+- [ ] B) Exige la quema inmediata de todos los manuscritos del autor.
   <!-- feedback: La ceniza es una clásica metáfora de la muerte y la caducidad del cuerpo. -->
 - [ ] D) Recomienda el uso de estufas de carbón en las noches de invierno.
   <!-- feedback: Contrapone el ardor de la vida sensual con el silencio fúnebre final. -->
@@ -333,13 +333,13 @@ La poética del grupo *Mito* en Gaitán Durán celebra la pasión carnal como la
 ¿Qué función cumple esta "comparación satírica" en la crítica a la burocracia?
 
 ### Opciones
-- [x] A) Desmitifica el culto a los trámites mostrando la irracionalidad y la vacuidad de exigir papeleos inútiles.
+- [x] D) Desmitifica el culto a los trámites mostrando la irracionalidad y la vacuidad de exigir papeleos inútiles.
   <!-- feedback: Faciolince utiliza el símil con los dioses paganos para denunciar con humor amargo el absurdo de la devoción burocrática. -->
-- [ ] B) Demuestra la conveniencia de duplicar el número de formularios en los ministerios.
+- [ ] A) Demuestra la conveniencia de duplicar el número de formularios en los ministerios.
   <!-- feedback: La comparación ataca precisamente el exceso de trámites y la pérdida de tiempo. -->
-- [ ] C) Afirma que las universidades deben convertirse en templos de adoración antigua.
+- [ ] B) Afirma que las universidades deben convertirse en templos de adoración antigua.
   <!-- feedback: Usa la metáfora religiosa de forma desacralizadora para ridiculizar el papeleo. -->
-- [ ] D) Recomienda a los estudiantes no volver a utilizar tinta ni papel.
+- [ ] C) Recomienda a los estudiantes no volver a utilizar tinta ni papel.
   <!-- feedback: Critica la ineficiencia de la administración sin prohibir los insumos escolares. -->
 
 ### Explicacion Pedagogica
@@ -356,9 +356,9 @@ El símil satírico desacredita el culto burocrático al revelar la desproporci�
 ¿Qué atmósfera poética crea el oxímoron o imagen insólita del "árbol de mármol"?
 
 ### Opciones
-- [x] A) Evoca un territorio de elegía y petrificación de la memoria donde la vida (alondra) intenta cantar en medio de la fúnebre rigidez del olvido.
+- [x] B) Evoca un territorio de elegía y petrificación de la memoria donde la vida (alondra) intenta cantar en medio de la fúnebre rigidez del olvido.
   <!-- feedback: Quessep traslada la escena a un mundo fabuloso y melancólico donde el dolor se vuelve piedra bella. -->
-- [ ] B) Demuestra que las alondras prefieren nidificar en estatuas antes que en ramas verdaderas.
+- [ ] A) Demuestra que las alondras prefieren nidificar en estatuas antes que en ramas verdaderas.
   <!-- feedback: Es una imagen poética de alta carga simbólica, lejos del reporte ornitológico. -->
 - [ ] C) Sostiene que el mármol es el material más económico para la reforestación.
   <!-- feedback: La petrificación del árbol simboliza la rigidez del luto y la memoria. -->
@@ -379,11 +379,11 @@ La poética de Quessep combina la gracia de la canción con la melancolía de la
 ¿Qué doble sentido o "polisemia de la palabra barro" despliega el campesino en esta frase?
 
 ### Opciones
-- [x] A) Contrapone el barro físico del camino (trabajo y dignidad) con el barro metafórico de la corrupción y la falsa promesa política.
+- [x] C) Contrapone el barro físico del camino (trabajo y dignidad) con el barro metafórico de la corrupción y la falsa promesa política.
   <!-- feedback: La polisemia del vocablo barro permite dignificar la rudeza del campo y denunciar la suciedad ética de la demagogia. -->
-- [ ] B) Demuestra que las botas de caucho son el único calzado vendido en las tiendas del pueblo.
+- [ ] A) Demuestra que las botas de caucho son el único calzado vendido en las tiendas del pueblo.
   <!-- feedback: Usa el calzado como símbolo de la faena rural digna frente a la mentira. -->
-- [ ] C) Exige la pavimentación inmediata de todos los caminos veredales del país.
+- [ ] B) Exige la pavimentación inmediata de todos los caminos veredales del país.
   <!-- feedback: Aunque refleja el mal estado de las vías, el foco es la crítica a la deshonestidad. -->
 - [ ] D) Afirma que la mentira es un mineral útil para la fabricación de ladrillos.
   <!-- feedback: Utiliza la suciedad del lodo como metáfora de la degradación moral. -->
@@ -402,13 +402,13 @@ La polisemia del vocablo "barro" permite contraponer con ironía popular la aspe
 ¿Qué función cumple la "iluminación espacial" y la contención del lenguaje en la narración del dolor extremo?
 
 ### Opciones
-- [x] A) La luz tenue y la sobriedad verbal evitan el dramatismo facilista, dotando al dolor paterno de una serena y desgarradora dignidad.
+- [x] D) La luz tenue y la sobriedad verbal evitan el dramatismo facilista, dotando al dolor paterno de una serena y desgarradora dignidad.
   <!-- feedback: Tomás González destaca por una prosa depurada donde la contemplación de la luz y la naturaleza sostiene la tragedia sin gritos. -->
-- [ ] B) Demuestra que los apartamentos en Nueva York tienen ventanales muy espaciosos.
+- [ ] A) Demuestra que los apartamentos en Nueva York tienen ventanales muy espaciosos.
   <!-- feedback: La luz es la metáfora de la vida que se apaga y el amor que permanece. -->
-- [ ] C) Critica el gasto de energía eléctrica en las grandes metrópolis industriales.
+- [ ] B) Critica el gasto de energía eléctrica en las grandes metrópolis industriales.
   <!-- feedback: No es un ensayo sobre energía sino una obra maestra sobre el duelo y la piedad. -->
-- [ ] D) Obliga al lector a buscar la noticia en los titulares de la prensa de la mañana.
+- [ ] C) Obliga al lector a buscar la noticia en los titulares de la prensa de la mañana.
   <!-- feedback: Mantiene el foco en la vivencia interna del padre y la belleza triste del momento. -->
 
 ### Explicacion Pedagogica
@@ -425,13 +425,13 @@ La contención verbal y la precisión del detalle natural en Tomás González ot
 ¿Qué figura de "metaforización de la memoria" transmite la imagen de las cicatrices invisibles que sangran?
 
 ### Opciones
-- [x] A) Traduce el dolor psicológico y el trauma en una herida física abierta que la evocación del pasado vuelve a activar.
+- [x] D) Traduce el dolor psicológico y el trauma en una herida física abierta que la evocación del pasado vuelve a activar.
   <!-- feedback: Bonnett traslada la lesión corporal al plano afectivo, mostrando cómo el duelo o el agravio persisten ocultos en la conciencia. -->
-- [ ] B) Demuestra que la poetisa padecía de una afección en la circulación sanguínea.
+- [ ] A) Demuestra que la poetisa padecía de una afección en la circulación sanguínea.
   <!-- feedback: Es una conmovedora metáfora sobre la huella indeleble del sufrimiento moral. -->
-- [ ] C) Recomienda el uso de vendajes médicos para curar las heridas de la memoria.
+- [ ] B) Recomienda el uso de vendajes médicos para curar las heridas de la memoria.
   <!-- feedback: Se refiere a la dimensión intangible de la pérdida y la nostalgia. -->
-- [ ] D) Prohíbe a los lectores recordar acontecimientos dolorosos de su infancia.
+- [ ] C) Prohíbe a los lectores recordar acontecimientos dolorosos de su infancia.
   <!-- feedback: Visibiliza la fragilidad humana y la necesidad de nombrar el dolor para sanarlo. -->
 
 ### Explicacion Pedagogica
@@ -448,9 +448,9 @@ La poética de Piedad Bonnett explora la vulnerabilidad humana mediante metáfor
 ¿Qué efecto de veracidad pragmática produce la inclusión del escrito auténtico del moribundo?
 
 ### Opciones
-- [x] A) Conecta la investigación periodística con la emoción desgarradora de la voz real que se apaga en la soledad del territorio.
+- [x] B) Conecta la investigación periodística con la emoción desgarradora de la voz real que se apaga en la soledad del territorio.
   <!-- feedback: Castro Caycedo utiliza el documento humano sin retoques para impactar al lector con el testimonio directo de la tragedia. -->
-- [ ] B) Prueba que el guaquero tenía una caligrafía perfecta a pesar de la fiebre.
+- [ ] A) Prueba que el guaquero tenía una caligrafía perfecta a pesar de la fiebre.
   <!-- feedback: El valor de la carta es su verdad humana de desamparo y despedida. -->
 - [ ] C) Demuestra que el diablo existe y reclama la propiedad de los tesoros antiguos.
   <!-- feedback: La frase del título es la expresión desesperada de un hombre que se sabe perdido. -->
@@ -471,9 +471,9 @@ La inclusión de escritos reales en la crónica de Castro Caycedo otorga un estr
 ¿Qué juicio crítico sobre la naturaleza del lenguaje figurado sustenta esta afirmación?
 
 ### Opciones
-- [x] A) Reconoce que el pensamiento metafórico es una estructura cognitiva fundamental para conceptualizar experiencias complejas, abstractas o dolorosas.
+- [x] B) Reconoce que el pensamiento metafórico es una estructura cognitiva fundamental para conceptualizar experiencias complejas, abstractas o dolorosas.
   <!-- feedback: La metáfora no es mero adorno retórico sino una herramienta del pensamiento que nos permite nombrar el mundo y comprender lo invisible. -->
-- [ ] B) Sostiene que el lenguaje figurado debe ser eliminado de los libros de texto de secundaria.
+- [ ] A) Sostiene que el lenguaje figurado debe ser eliminado de los libros de texto de secundaria.
   <!-- feedback: Reivindica la centralidad de la metáfora como mecanismo de conocimiento y sensibilidad. -->
 - [ ] C) Afirma que las metáforas sólo pueden ser entendidas por médicos optómetras.
   <!-- feedback: Usa la palabra "lentes" como analogía de marco de interpretación del mundo. -->

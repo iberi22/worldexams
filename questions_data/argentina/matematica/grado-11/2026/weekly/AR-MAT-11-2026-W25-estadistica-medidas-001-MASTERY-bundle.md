@@ -39,8 +39,8 @@ Este bundle aborda las medidas de tendencia central, posición (cuartiles) y dis
 
 ### Opciones
 - [ ] A) 4 <!-- feedback: Incorrecto. Es la nota más baja, pero no la más frecuente. -->
-- [x] B) 7 <!-- feedback: Correcto. La moda es el valor que más veces se repite (aparece 2 veces). -->
-- [ ] C) 8 <!-- feedback: Incorrecto. Es la nota central (mediana), no la moda. -->
+- [x] C) 7 <!-- feedback: Correcto. La moda es el valor que más veces se repite (aparece 2 veces). -->
+- [ ] B) 8 <!-- feedback: Incorrecto. Es la nota central (mediana), no la moda. -->
 - [ ] D) 9 <!-- feedback: Incorrecto. Es la nota más alta. -->
 
 ### Explicacion Pedagogica
@@ -63,8 +63,8 @@ La moda es la medida de tendencia central que representa el valor con mayor frec
 ### Opciones
 - [ ] A) 31 <!-- feedback: Incorrecto. Este es el tercer valor de la serie ordenada. -->
 - [ ] B) 35 <!-- feedback: Incorrecto. Este es el quinto valor de siete. -->
-- [x] C) 32 <!-- feedback: Correcto. El conjunto ya está ordenado: {28, 30, 31, 32, 35, 38, 40}. El valor central (4ta posición) es el 32. -->
-- [ ] D) 34 <!-- feedback: Incorrecto. Este valor es cercano al promedio, no la mediana. -->
+- [x] D) 32 <!-- feedback: Correcto. El conjunto ya está ordenado: {28, 30, 31, 32, 35, 38, 40}. El valor central (4ta posición) es el 32. -->
+- [ ] C) 34 <!-- feedback: Incorrecto. Este valor es cercano al promedio, no la mediana. -->
 
 ### Explicacion Pedagogica
 La mediana es el valor que ocupa la posición central cuando los datos están ordenados. Como hay 7 datos (número impar), la mediana es el dato que ocupa exactamente la posición central: (7+1)/2 = 4ta posición. En este caso, el valor es 32.
@@ -84,9 +84,9 @@ La mediana es el valor que ocupa la posición central cuando los datos están or
 ¿Cuál es la medida de tendencia central que se ve más afectada (distorsionada) por el sueldo de $1.200.000?
 
 ### Opciones
-- [ ] A) La mediana <!-- feedback: Incorrecto. La mediana se mantiene en $450.000, es robusta ante valores extremos. -->
-- [ ] B) La moda <!-- feedback: Incorrecto. La moda sigue siendo $450.000. -->
-- [x] C) La media aritmética (promedio) <!-- feedback: Correcto. El promedio suma todos los valores, por lo que el valor extremo lo eleva significativamente. -->
+- [ ] B) La mediana <!-- feedback: Incorrecto. La mediana se mantiene en $450.000, es robusta ante valores extremos. -->
+- [ ] C) La moda <!-- feedback: Incorrecto. La moda sigue siendo $450.000. -->
+- [x] A) La media aritmética (promedio) <!-- feedback: Correcto. El promedio suma todos los valores, por lo que el valor extremo lo eleva significativamente. -->
 - [ ] D) El rango <!-- feedback: Incorrecto. El rango no es una medida de tendencia central, sino de dispersión. -->
 
 ### Explicacion Pedagogica
@@ -107,8 +107,8 @@ La media aritmética es sensible a valores extremos (outliers). En este caso, el
 ¿Qué medida de dispersión indica la diferencia entre el precio más caro y el más barato?
 
 ### Opciones
-- [ ] A) Varianza <!-- feedback: Incorrecto. La varianza mide el promedio de los cuadrados de las desviaciones. -->
-- [x] B) Rango <!-- feedback: Correcto. El rango es la diferencia entre el valor máximo y el valor mínimo del conjunto. -->
+- [ ] B) Varianza <!-- feedback: Incorrecto. La varianza mide el promedio de los cuadrados de las desviaciones. -->
+- [x] A) Rango <!-- feedback: Correcto. El rango es la diferencia entre el valor máximo y el valor mínimo del conjunto. -->
 - [ ] C) Desviación estándar <!-- feedback: Incorrecto. Es la raíz de la varianza. -->
 - [ ] D) Coeficiente de variación <!-- feedback: Incorrecto. Es una medida relativa. -->
 
@@ -131,8 +131,8 @@ El rango es la medida de dispersión más simple y se calcula restando el valor 
 
 ### Opciones
 - [ ] A) 15 <!-- feedback: Incorrecto. Olvidó sumar todos los valores o dividió mal. -->
-- [x] B) 17,5 <!-- feedback: Correcto. (10 + 20 + 15 + 25) / 4 = 70 / 4 = 17,5. -->
-- [ ] C) 18 <!-- feedback: Incorrecto. Error de redondeo o suma. -->
+- [x] C) 17,5 <!-- feedback: Correcto. (10 + 20 + 15 + 25) / 4 = 70 / 4 = 17,5. -->
+- [ ] B) 18 <!-- feedback: Incorrecto. Error de redondeo o suma. -->
 - [ ] D) 20 <!-- feedback: Incorrecto. No es el promedio. -->
 
 ### Explicacion Pedagogica
@@ -153,8 +153,8 @@ La media aritmética se calcula sumando todos los valores de la muestra y dividi
 ¿Qué interpretación es correcta respecto a ese valor?
 
 ### Opciones
-- [ ] A) El 3% de los jóvenes usa el celular 1 hora. <!-- feedback: Incorrecto. El cuartil no representa porcentajes de la variable, sino proporciones de la población. -->
-- [x] B) El 25% de los jóvenes usa el celular 3 horas o menos. <!-- feedback: Correcto. El Q1 deja por debajo al 25% de la distribución ordenada. -->
+- [ ] B) El 3% de los jóvenes usa el celular 1 hora. <!-- feedback: Incorrecto. El cuartil no representa porcentajes de la variable, sino proporciones de la población. -->
+- [x] A) El 25% de los jóvenes usa el celular 3 horas o menos. <!-- feedback: Correcto. El Q1 deja por debajo al 25% de la distribución ordenada. -->
 - [ ] C) El 75% de los jóvenes usa el celular 3 horas o menos. <!-- feedback: Incorrecto. Esto correspondería al Cuartil 3 (Q3). -->
 - [ ] D) El promedio de uso es de 3 horas. <!-- feedback: Incorrecto. El cuartil es una medida de posición, no de tendencia central. -->
 
@@ -177,8 +177,8 @@ Los cuartiles dividen la muestra ordenada en cuatro partes iguales. El primer cu
 
 ### Opciones
 - [ ] A) El Grupo B es más homogéneo que el Grupo A. <!-- feedback: Incorrecto. Mayor desviación significa mayor dispersión (menos homogeneidad). -->
-- [x] B) El Grupo A es más homogéneo y sus integrantes tienen alturas más parecidas entre sí. <!-- feedback: Correcto. Una menor desviación estándar indica que los datos están más cerca del promedio. -->
-- [ ] C) En el Grupo B hay más personas que miden exactamente 1,70 m. <!-- feedback: Incorrecto. La desviación alta indica justamente lo contrario: que hay más variedad. -->
+- [x] C) El Grupo A es más homogéneo y sus integrantes tienen alturas más parecidas entre sí. <!-- feedback: Correcto. Una menor desviación estándar indica que los datos están más cerca del promedio. -->
+- [ ] B) En el Grupo B hay más personas que miden exactamente 1,70 m. <!-- feedback: Incorrecto. La desviación alta indica justamente lo contrario: que hay más variedad. -->
 - [ ] D) No se pueden comparar porque los promedios son iguales. <!-- feedback: Incorrecto. La dispersión es justamente lo que permite diferenciarlos. -->
 
 ### Explicacion Pedagogica
@@ -246,9 +246,9 @@ La desviación estándar se define como la raíz cuadrada de la varianza. Se uti
 
 ### Opciones
 - [ ] A) 36 alumnos <!-- feedback: Incorrecto. El 90% (36) tiene 12 o menos. -->
-- [x] B) 4 alumnos <!-- feedback: Correcto. El P90 deja al 10% superior por encima. El 10% de 40 es 4. -->
-- [ ] C) 90 alumnos <!-- feedback: Incorrecto. Supera el total del curso. -->
-- [ ] D) 12 alumnos <!-- feedback: Incorrecto. 12 es el valor de la variable (inasistencias), no la cantidad de alumnos. -->
+- [x] D) 4 alumnos <!-- feedback: Correcto. El P90 deja al 10% superior por encima. El 10% de 40 es 4. -->
+- [ ] B) 90 alumnos <!-- feedback: Incorrecto. Supera el total del curso. -->
+- [ ] C) 12 alumnos <!-- feedback: Incorrecto. 12 es el valor de la variable (inasistencias), no la cantidad de alumnos. -->
 
 ### Explicacion Pedagogica
 Los percentiles dividen los datos en 100 partes. El P90 indica que el 90% de los datos son menores o iguales a ese valor, lo que implica que el 10% restante es mayor o igual. 10% de 40 = 4.
@@ -268,9 +268,9 @@ Los percentiles dividen los datos en 100 partes. El P90 indica que el 90% de los
 ¿Qué sucede con el promedio de la nueva muestra de 11 datos?
 
 ### Opciones
-- [ ] A) El promedio aumenta. <!-- feedback: Incorrecto. Solo aumentaría si el dato fuera mayor a 25. -->
-- [ ] B) El promedio disminuye. <!-- feedback: Incorrecto. Solo disminuiría si el dato fuera menor a 25. -->
-- [x] C) El promedio se mantiene igual. <!-- feedback: Correcto. Agregar un dato igual a la media no altera el promedio. -->
+- [ ] B) El promedio aumenta. <!-- feedback: Incorrecto. Solo aumentaría si el dato fuera mayor a 25. -->
+- [ ] C) El promedio disminuye. <!-- feedback: Incorrecto. Solo disminuiría si el dato fuera menor a 25. -->
+- [x] A) El promedio se mantiene igual. <!-- feedback: Correcto. Agregar un dato igual a la media no altera el promedio. -->
 - [ ] D) No se puede saber sin conocer todos los datos. <!-- feedback: Incorrecto. Es una propiedad matemática general. -->
 
 ### Explicacion Pedagogica
@@ -343,8 +343,8 @@ En un Boxplot, la longitud de los bigotes representa la dispersión de los datos
 
 ### Opciones
 - [ ] A) 0,1 <!-- feedback: Incorrecto. No se divide la varianza por la constante linealmente. -->
-- [ ] B) 0,01 <!-- feedback: Incorrecto. Esto sería si se dividiera por la constante, no por su cuadrado. -->
-- [x] C) 0,0001 <!-- feedback: Correcto. Var(kX) = k² * Var(X). Aquí k = 1/1000. Nueva Var = (1/1000)² * 100 = 100 / 1.000.000 = 0,0001. -->
+- [ ] C) 0,01 <!-- feedback: Incorrecto. Esto sería si se dividiera por la constante, no por su cuadrado. -->
+- [x] B) 0,0001 <!-- feedback: Correcto. Var(kX) = k² * Var(X). Aquí k = 1/1000. Nueva Var = (1/1000)² * 100 = 100 / 1.000.000 = 0,0001. -->
 - [ ] D) 0,001 <!-- feedback: Incorrecto. Error en el factor de escala de la varianza. -->
 
 ### Explicacion Pedagogica
@@ -367,9 +367,9 @@ Si multiplicamos todos los datos por una constante k, la media queda multiplicad
 ¿En qué ciudad hay mayor dispersión relativa de precios?
 
 ### Opciones
-- [x] A) En la Ciudad 1 <!-- feedback: Correcto. CV1 = 40/800 = 0,05 (5%). CV2 = 45/1000 = 0,045 (4,5%). -->
-- [ ] B) En la Ciudad 2 <!-- feedback: Incorrecto. Aunque la desviación absoluta es mayor (45 vs 40), respecto a su media es menor. -->
-- [ ] C) Es igual en ambas ciudades. <!-- feedback: Incorrecto. Los porcentajes son distintos. -->
+- [x] C) En la Ciudad 1 <!-- feedback: Correcto. CV1 = 40/800 = 0,05 (5%). CV2 = 45/1000 = 0,045 (4,5%). -->
+- [ ] A) En la Ciudad 2 <!-- feedback: Incorrecto. Aunque la desviación absoluta es mayor (45 vs 40), respecto a su media es menor. -->
+- [ ] B) Es igual en ambas ciudades. <!-- feedback: Incorrecto. Los porcentajes son distintos. -->
 - [ ] D) No se puede calcular sin el número de estaciones de servicio. <!-- feedback: Incorrecto. El CV solo requiere media y desviación. -->
 
 ### Explicacion Pedagogica
@@ -391,8 +391,8 @@ El Coeficiente de Variación permite comparar la dispersión entre grupos con di
 
 ### Opciones
 - [ ] A) La diferencia entre el valor máximo y el mínimo. <!-- feedback: Incorrecto. Ese es el rango total. -->
-- [x] B) El rango donde se concentra el 50% central de los datos. <!-- feedback: Correcto. El RI mide la dispersión del 50% de los datos que están alrededor de la mediana. -->
-- [ ] C) El valor por debajo del cual está el 20% de los datos. <!-- feedback: Incorrecto. No es un percentil. -->
+- [x] C) El rango donde se concentra el 50% central de los datos. <!-- feedback: Correcto. El RI mide la dispersión del 50% de los datos que están alrededor de la mediana. -->
+- [ ] B) El valor por debajo del cual está el 20% de los datos. <!-- feedback: Incorrecto. No es un percentil. -->
 - [ ] D) El promedio de los datos. <!-- feedback: Incorrecto. Es una medida de dispersión, no de tendencia central. -->
 
 ### Explicacion Pedagogica
@@ -436,9 +436,9 @@ La varianza es una suma de cuadrados, por lo que siempre es mayor o igual a cero
 ¿Qué valores tendrán la mediana y la moda?
 
 ### Opciones
-- [ ] A) Serán menores a 150. <!-- feedback: Incorrecto. En distribuciones simétricas coinciden. -->
-- [ ] B) La mediana será 150 y la moda mayor. <!-- feedback: Incorrecto. -->
-- [x] C) Ambas serán iguales a 150. <!-- feedback: Correcto. En distribuciones simétricas unimodales (como la Normal), las tres medidas de tendencia central coinciden. -->
+- [ ] B) Serán menores a 150. <!-- feedback: Incorrecto. En distribuciones simétricas coinciden. -->
+- [ ] C) La mediana será 150 y la moda mayor. <!-- feedback: Incorrecto. -->
+- [x] A) Ambas serán iguales a 150. <!-- feedback: Correcto. En distribuciones simétricas unimodales (como la Normal), las tres medidas de tendencia central coinciden. -->
 - [ ] D) No se puede determinar sin los datos originales. <!-- feedback: Incorrecto. Es una propiedad de la forma de la distribución. -->
 
 ### Explicacion Pedagogica
@@ -459,8 +459,8 @@ La simetría implica que el "centro" es el mismo para la frecuencia (moda), la p
 ¿Cuál es la nueva media y la nueva desviación estándar de Y?
 
 ### Opciones
-- [ ] A) Media 80, Desv 10 <!-- feedback: Incorrecto. Olvidó sumar la constante a la media. -->
-- [x] B) Media 90, Desv 10 <!-- feedback: Correcto. Nueva Media = 2 * 40 + 10 = 90. Nueva Desv = 2 * 5 = 10 (la constante sumada no afecta la dispersión). -->
+- [ ] B) Media 80, Desv 10 <!-- feedback: Incorrecto. Olvidó sumar la constante a la media. -->
+- [x] A) Media 90, Desv 10 <!-- feedback: Correcto. Nueva Media = 2 * 40 + 10 = 90. Nueva Desv = 2 * 5 = 10 (la constante sumada no afecta la dispersión). -->
 - [ ] C) Media 90, Desv 20 <!-- feedback: Incorrecto. La desviación no se eleva al cuadrado (eso es para la varianza). -->
 - [ ] D) Media 100, Desv 15 <!-- feedback: Incorrecto. No surge de las fórmulas de transformación. -->
 
@@ -484,8 +484,8 @@ Propiedades de transformaciones lineales: E[aX + b] = aE[X] + b y σ[aX + b] = |
 Si sos un inversor conservador que busca estabilidad, ¿cuál fondo elegirías y por qué?
 
 ### Opciones
-- [x] A) El Fondo A, porque tiene un rango intercuartílico menor, lo que indica rendimientos más estables y menos riesgo. <!-- feedback: Correcto. Menor medida de dispersión significa que los resultados reales suelen estar más cerca del promedio. -->
-- [ ] B) El Fondo B, porque la mayor dispersión permite ganar mucho más algunos meses. <!-- feedback: Incorrecto. Eso es para perfiles arriesgados, no conservadores; además, también se puede perder más. -->
+- [x] B) El Fondo A, porque tiene un rango intercuartílico menor, lo que indica rendimientos más estables y menos riesgo. <!-- feedback: Correcto. Menor medida de dispersión significa que los resultados reales suelen estar más cerca del promedio. -->
+- [ ] A) El Fondo B, porque la mayor dispersión permite ganar mucho más algunos meses. <!-- feedback: Incorrecto. Eso es para perfiles arriesgados, no conservadores; además, también se puede perder más. -->
 - [ ] C) Cualquiera, ya que ambos tienen el mismo promedio de ganancia. <!-- feedback: Incorrecto. El promedio no cuenta toda la historia; el riesgo es fundamental. -->
 - [ ] D) Ninguno, porque el RI no sirve para evaluar inversiones. <!-- feedback: Incorrecto. Es una medida válida de riesgo. -->
 

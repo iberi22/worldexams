@@ -34,9 +34,9 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) La publicidad es gratis y la propaganda siempre se paga. <!-- feedback: Incorrecto. Ambas suelen requerir inversión en medios de comunicación. -->
-- [x] B) La publicidad busca vender un producto o servicio, mientras que la propaganda busca promover ideas, ideologías o cambios sociales. <!-- feedback: ¡Correcto! La publicidad tiene un fin comercial y la propaganda un fin ideológico o cívico. -->
-- [ ] C) La publicidad solo usa imágenes y la propaganda solo usa textos escritos. <!-- feedback: Incorrecto. Ambas utilizan todos los recursos del lenguaje multimodal. -->
-- [ ] D) No hay ninguna diferencia, son exactamente lo mismo con nombres diferentes. <!-- feedback: Incorrecto. Sus propósitos fundamentales (comercial vs. ideológico) las distinguen claramente. -->
+- [x] D) La publicidad busca vender un producto o servicio, mientras que la propaganda busca promover ideas, ideologías o cambios sociales. <!-- feedback: ¡Correcto! La publicidad tiene un fin comercial y la propaganda un fin ideológico o cívico. -->
+- [ ] B) La publicidad solo usa imágenes y la propaganda solo usa textos escritos. <!-- feedback: Incorrecto. Ambas utilizan todos los recursos del lenguaje multimodal. -->
+- [ ] C) No hay ninguna diferencia, son exactamente lo mismo con nombres diferentes. <!-- feedback: Incorrecto. Sus propósitos fundamentales (comercial vs. ideológico) las distinguen claramente. -->
 
 ### Explicacion Pedagogica
 Publicidad: "Compra estos tenis". Propaganda: "Vacúnate contra la gripe" o "Vota por este candidato". La diferencia radica en la intención de la comunicación.
@@ -74,8 +74,8 @@ Un comercial de una bebida achocolatada muestra a un niño colombiano que, despu
 
 ### Opciones
 - [ ] A) Argumento de datos científicos sobre las vitaminas del chocolate. <!-- feedback: Incorrecto. No muestra cifras ni estudios, sino una historia de vida. -->
-- [x] B) Apelación a los sentimientos de afecto familiar y deseo de éxito personal. <!-- feedback: ¡Correcto! Se asocia el producto con la felicidad, el éxito y el amor materno para generar un vínculo emocional. -->
-- [ ] C) Comparación directa con el precio de otras marcas de la competencia. <!-- feedback: Incorrecto. El comercial no menciona el precio ni a otras marcas. -->
+- [x] C) Apelación a los sentimientos de afecto familiar y deseo de éxito personal. <!-- feedback: ¡Correcto! Se asocia el producto con la felicidad, el éxito y el amor materno para generar un vínculo emocional. -->
+- [ ] B) Comparación directa con el precio de otras marcas de la competencia. <!-- feedback: Incorrecto. El comercial no menciona el precio ni a otras marcas. -->
 - [ ] D) Uso de un lenguaje técnico-médico sobre el crecimiento óseo. <!-- feedback: Incorrecto. El mensaje es puramente emocional y visual. -->
 
 ### Explicacion Pedagogica
@@ -93,8 +93,8 @@ La publicidad emocional busca que el consumidor asocie el producto con sensacion
 ¿Cuál de los siguientes es un ejemplo de **propaganda**?
 
 ### Opciones
-- [ ] A) Un anuncio en Instagram sobre descuentos en hamburguesas. <!-- feedback: Incorrecto. Esto es publicidad comercial. -->
-- [x] B) Un cartel en el paradero del bus que dice: "Tus impuestos se ven reflejados en este nuevo parque. Cuídalo". <!-- feedback: ¡Correcto! Busca generar conciencia cívica y promover una idea de cuidado del bien público. -->
+- [ ] B) Un anuncio en Instagram sobre descuentos en hamburguesas. <!-- feedback: Incorrecto. Esto es publicidad comercial. -->
+- [x] A) Un cartel en el paradero del bus que dice: "Tus impuestos se ven reflejados en este nuevo parque. Cuídalo". <!-- feedback: ¡Correcto! Busca generar conciencia cívica y promover una idea de cuidado del bien público. -->
 - [ ] C) Una valla publicitaria que promociona el nuevo modelo de una camioneta de lujo. <!-- feedback: Incorrecto. Es publicidad comercial de un producto. -->
 - [ ] D) Un folleto con los precios de los productos de un supermercado local. <!-- feedback: Incorrecto. Es información publicitaria de ventas. -->
 
@@ -114,8 +114,8 @@ Si ves una publicidad llena de colores neón, música urbana de moda y lenguaje 
 
 ### Opciones
 - [ ] A) Los adultos mayores que buscan planes de jubilación. <!-- feedback: Incorrecto. La estética y la música no coinciden con los intereses habituales de este grupo. -->
-- [ ] B) Los médicos especialistas en enfermedades del corazón. <!-- feedback: Incorrecto. El lenguaje juvenil no es el adecuado para la comunicación profesional médica. -->
-- [x] C) Los adolescentes y jóvenes que siguen las tendencias actuales. <!-- feedback: ¡Correcto! El diseño y el ritmo están pensados para captar la atención de este rango de edad. -->
+- [ ] C) Los médicos especialistas en enfermedades del corazón. <!-- feedback: Incorrecto. El lenguaje juvenil no es el adecuado para la comunicación profesional médica. -->
+- [x] B) Los adolescentes y jóvenes que siguen las tendencias actuales. <!-- feedback: ¡Correcto! El diseño y el ritmo están pensados para captar la atención de este rango de edad. -->
 - [ ] D) Los agricultores que necesitan comprar maquinaria pesada. <!-- feedback: Incorrecto. El contexto visual no tiene relación con el trabajo en el campo. -->
 
 ### Explicacion Pedagogica
@@ -135,8 +135,8 @@ Analiza el siguiente anuncio: "Detergente 'Limpiecito': para que mamá descanse 
 ### Opciones
 - [ ] A) Que los niños son muy traviesos y ensucian mucho la ropa. <!-- feedback: Incorrecto. Aunque el anuncio habla de ropa sucia, el foco está en quién la lava. -->
 - [ ] B) Que la limpieza es un trabajo técnico que requiere detergentes potentes. <!-- feedback: Incorrecto. El anuncio se centra en el descanso de la persona, no en la química del jabón. -->
-- [x] C) Que las labores del hogar son responsabilidad exclusiva de las mujeres (mamá). <!-- feedback: ¡Correcto! Asocia directamente a la madre con la tarea de lavar, ignorando que otros miembros de la familia también pueden hacerlo. -->
-- [ ] D) Que el color blanco es el favorito de todas las familias colombianas. <!-- feedback: Incorrecto. La blancura es el resultado del producto, no el estereotipo social analizado. -->
+- [x] D) Que las labores del hogar son responsabilidad exclusiva de las mujeres (mamá). <!-- feedback: ¡Correcto! Asocia directamente a la madre con la tarea de lavar, ignorando que otros miembros de la familia también pueden hacerlo. -->
+- [ ] C) Que el color blanco es el favorito de todas las familias colombianas. <!-- feedback: Incorrecto. La blancura es el resultado del producto, no el estereotipo social analizado. -->
 
 ### Explicacion Pedagogica
 La publicidad contemporánea está siendo criticada por repetir estereotipos que limitan los roles de hombres y mujeres en la sociedad.
@@ -154,9 +154,9 @@ La publicidad contemporánea está siendo criticada por repetir estereotipos que
 
 ### Opciones
 - [ ] A) Una gaseosa que dice ser "la más refrescante del mundo". <!-- feedback: Incorrecto. Es una exageración publicitaria común (pufismo), pero no es un engaño sobre las propiedades reales. -->
-- [x] B) Un yogur que se promociona como "totalmente natural y sin azúcar", pero en los ingredientes pequeños dice que contiene endulzantes artificiales. <!-- feedback: ¡Correcto! Hay una contradicción directa entre lo que se promete en grande y la realidad del producto. -->
-- [ ] C) Un comercial de carros donde el vehículo parece volar por encima del tráfico. <!-- feedback: Incorrecto. Es un recurso visual fantástico que el espectador entiende como ficción, no como promesa real de vuelo. -->
-- [ ] D) Una oferta que dice "Hasta agotar existencias" y el producto se acaba en dos días. <!-- feedback: Incorrecto. Es una condición de venta real y comunicada. -->
+- [x] D) Un yogur que se promociona como "totalmente natural y sin azúcar", pero en los ingredientes pequeños dice que contiene endulzantes artificiales. <!-- feedback: ¡Correcto! Hay una contradicción directa entre lo que se promete en grande y la realidad del producto. -->
+- [ ] B) Un comercial de carros donde el vehículo parece volar por encima del tráfico. <!-- feedback: Incorrecto. Es un recurso visual fantástico que el espectador entiende como ficción, no como promesa real de vuelo. -->
+- [ ] C) Una oferta que dice "Hasta agotar existencias" y el producto se acaba en dos días. <!-- feedback: Incorrecto. Es una condición de venta real y comunicada. -->
 
 ### Explicacion Pedagogica
 Los consumidores tienen derecho a recibir información veraz. Ocultar ingredientes o mentir sobre los beneficios de salud son faltas graves a la ética publicitaria.
@@ -174,9 +174,9 @@ En una propaganda de salud pública, aparece la imagen de un pulmón gris y marc
 
 ### Opciones
 - [ ] A) La imagen contradice lo que dice el texto para generar humor. <!-- feedback: Incorrecto. No hay humor, es un mensaje de advertencia serio. -->
-- [x] B) La imagen refuerza el mensaje del texto mediante una metáfora visual impactante. <!-- feedback: ¡Correcto! La imagen muestra físicamente el daño que el texto describe con palabras. -->
-- [ ] C) El texto es redundante porque la imagen ya lo explica todo perfectamente. <!-- feedback: Incorrecto. El texto ancla el significado de la imagen para que no haya dudas. -->
-- [ ] D) La imagen es puramente decorativa y no tiene relación con el eslogan. <!-- feedback: Incorrecto. La imagen es el corazón del mensaje persuasivo. -->
+- [x] D) La imagen refuerza el mensaje del texto mediante una metáfora visual impactante. <!-- feedback: ¡Correcto! La imagen muestra físicamente el daño que el texto describe con palabras. -->
+- [ ] B) El texto es redundante porque la imagen ya lo explica todo perfectamente. <!-- feedback: Incorrecto. El texto ancla el significado de la imagen para que no haya dudas. -->
+- [ ] C) La imagen es puramente decorativa y no tiene relación con el eslogan. <!-- feedback: Incorrecto. La imagen es el corazón del mensaje persuasivo. -->
 
 ### Explicacion Pedagogica
 El texto y la imagen en los anuncios trabajan juntos (anclaje y relevo) para asegurar que el mensaje llegue con fuerza y claridad al receptor.
@@ -194,8 +194,8 @@ Un famoso futbolista colombiano aparece en un comercial recomendando un banco na
 
 ### Opciones
 - [ ] A) El futbolista es el dueño mayoritario de las acciones del banco. <!-- feedback: Incorrecto. Generalmente son solo contratos de imagen. -->
-- [ ] B) El futbolista ha estudiado finanzas y sabe que ese banco es el mejor técnicamente. <!-- feedback: Incorrecto. Su experticia es el deporte, no la banca. -->
-- [x] C) El banco usa la popularidad y confianza que la gente le tiene al futbolista para que esa confianza se traslade a la entidad financiera. <!-- feedback: ¡Correcto! Es una estrategia de persuasión por asociación de imagen positiva. -->
+- [ ] C) El futbolista ha estudiado finanzas y sabe que ese banco es el mejor técnicamente. <!-- feedback: Incorrecto. Su experticia es el deporte, no la banca. -->
+- [x] B) El banco usa la popularidad y confianza que la gente le tiene al futbolista para que esa confianza se traslade a la entidad financiera. <!-- feedback: ¡Correcto! Es una estrategia de persuasión por asociación de imagen positiva. -->
 - [ ] D) El futbolista solo usa ese banco porque es el único que hay en su ciudad. <!-- feedback: Incorrecto. Es una explicación trivial que ignora la estrategia de marketing. -->
 
 ### Explicacion Pedagogica
@@ -214,8 +214,8 @@ Un afiche de propaganda muestra a un candidato sonriendo con niños de diferente
 
 ### Opciones
 - [ ] A) Presentación de propuestas económicas para reducir la pobreza infantil. <!-- feedback: Incorrecto. No hay ninguna propuesta, solo una imagen emocional. -->
-- [x] B) Uso de símbolos de inocencia (niños) y diversidad para generar una imagen de bondad y unidad sin dar razones políticas reales. <!-- feedback: ¡Correcto! Se apela a conceptos universales positivos ("unión", "niños") para evitar la discusión de temas difíciles o polémicos. -->
-- [ ] C) Explicación técnica de cómo se logrará la integración social en el país. <!-- feedback: Incorrecto. El afiche es visual y emocional, no técnico. -->
+- [x] C) Uso de símbolos de inocencia (niños) y diversidad para generar una imagen de bondad y unidad sin dar razones políticas reales. <!-- feedback: ¡Correcto! Se apela a conceptos universales positivos ("unión", "niños") para evitar la discusión de temas difíciles o polémicos. -->
+- [ ] B) Explicación técnica de cómo se logrará la integración social en el país. <!-- feedback: Incorrecto. El afiche es visual y emocional, no técnico. -->
 - [ ] D) Crítica directa a los errores cometidos por los gobiernos anteriores. <!-- feedback: Incorrecto. El mensaje es positivo y no menciona oponentes. -->
 
 ### Explicacion Pedagogica

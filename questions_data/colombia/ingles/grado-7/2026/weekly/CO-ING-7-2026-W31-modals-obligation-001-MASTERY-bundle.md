@@ -38,9 +38,9 @@ Which modal verb is used to express a strong personal obligation or a rule?
 ### Opciones
 - [ ] A) Can
   <!-- feedback: Incorrect. This is for ability or possibility. -->
-- [x] B) Must
+- [x] C) Must
   <!-- feedback: Correct! "Must" expresses strong obligation. -->
-- [ ] C) Might
+- [ ] B) Might
   <!-- feedback: Incorrect. This is for low probability. -->
 - [ ] D) Should
   <!-- feedback: Incorrect. This is for advice. -->
@@ -61,9 +61,9 @@ The student identifies the basic function of the modal verb "must".
 What is the correct third-person singular form of "have to"?
 
 ### Opciones
-- [ ] A) Haves to
+- [ ] B) Haves to
   <!-- feedback: Incorrect. "Have" is irregular. -->
-- [x] B) Has to
+- [x] A) Has to
   <!-- feedback: Correct! "He/She/It" uses "has to". -->
 - [ ] C) Must to
   <!-- feedback: Incorrect. We don't use "to" after "must". -->
@@ -88,11 +88,11 @@ The student remembers the correct conjugation of "have to" for the third person 
 ### Opciones
 - [ ] A) can
   <!-- feedback: Incorrect. Uniforms are usually an obligation, not an option. -->
-- [x] B) have to
+- [x] D) have to
   <!-- feedback: Correct! School rules are external obligations described by "have to". -->
-- [ ] C) don't have to
+- [ ] B) don't have to
   <!-- feedback: Incorrect. This would mean it's not necessary, which contradicts common school rules. -->
-- [ ] D) may
+- [ ] C) may
   <!-- feedback: Incorrect. This is for permission. -->
 
 ### Explicacion Pedagogica
@@ -113,9 +113,9 @@ The student understands the use of "have to" for external rules and regulations.
 ### Opciones
 - [ ] A) mustn't
   <!-- feedback: Incorrect. This means it is forbidden. It's just not necessary. -->
-- [x] B) don't have to
+- [x] C) don't have to
   <!-- feedback: Correct! On a holiday, it is not necessary to wake up early. -->
-- [ ] C) must
+- [ ] B) must
   <!-- feedback: Incorrect. It's not an obligation on a holiday. -->
 - [ ] D) have to
   <!-- feedback: Incorrect. Same as above. -->
@@ -164,9 +164,9 @@ According to the rules, what is true about the computers?
 ### Opciones
 - [ ] A) You must pay a small fee.
   <!-- feedback: Incorrect. They are "free". -->
-- [x] B) It is not necessary to pay for them.
+- [x] C) It is not necessary to pay for them.
   <!-- feedback: Correct! "Don't have to pay" means it is free. -->
-- [ ] C) You mustn't use them.
+- [ ] B) You mustn't use them.
   <!-- feedback: Incorrect. They are available for use. -->
 - [ ] D) You have to be quiet only when using them.
   <!-- feedback: Incorrect. You must be quiet in the whole library. -->
@@ -187,9 +187,9 @@ The student applies reading strategies to identify a lack of obligation in a fac
 "You ________ clean your room before you go out with your friends."
 
 ### Opciones
-- [ ] A) mustn't
+- [ ] B) mustn't
   <!-- feedback: Incorrect. Prohibition. -->
-- [x] B) must
+- [x] A) must
   <!-- feedback: Correct! Expresses a strong personal or parental obligation. -->
 - [ ] C) don't have to
   <!-- feedback: Incorrect. Contradicts the condition for going out. -->
@@ -238,9 +238,9 @@ The student analyzes the nuance between internal (must) and external (have to) o
 Which action is mandatory at a specific moment?
 
 ### Opciones
-- [ ] A) Keeping the seatbelt on for the whole flight.
+- [ ] B) Keeping the seatbelt on for the whole flight.
   <!-- feedback: Incorrect. It is "recommended", not mandatory. -->
-- [x] B) Fastening the seatbelt during takeoff.
+- [x] A) Fastening the seatbelt during takeoff.
   <!-- feedback: Correct! The text says they "must" do it during takeoff. -->
 - [ ] C) Talking to other passengers.
   <!-- feedback: Incorrect. Not mentioned. -->
@@ -266,9 +266,9 @@ What is the author's argument regarding freedom and obligation?
 ### Opciones
 - [ ] A) Freedom is the absence of any obligation.
   <!-- feedback: Incorrect. The author says freedom "doesn't mean" that. -->
-- [x] B) True freedom includes following essential rules and respecting others.
+- [x] C) True freedom includes following essential rules and respecting others.
   <!-- feedback: Correct! The author links freedom with "must respect" and "have to follow rules". -->
-- [ ] C) Rules are only for people who are not free.
+- [ ] B) Rules are only for people who are not free.
   <!-- feedback: Incorrect. Not the author's point. -->
 - [ ] D) Community rules are not important for peace.
   <!-- feedback: Incorrect. The author says you follow them "to live in peace". -->

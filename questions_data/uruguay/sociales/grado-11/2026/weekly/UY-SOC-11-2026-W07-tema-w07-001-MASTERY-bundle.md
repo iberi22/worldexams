@@ -34,13 +34,13 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Qué papel o definición histórica le corresponde a La caída de los precios internacionales de la carne en relación con este contexto en Uruguay?
 
 ### Opciones
-- [x] A) Constituyó el factor decisivo que consolidó el impacto del crack de Wall Street en el país en beneficio del desarrollo institucional del país.
+- [x] D) Constituyó el factor decisivo que consolidó el impacto del crack de Wall Street en el país en beneficio del desarrollo institucional del país.
   <!-- feedback: Correcto. La caída de los precios internacionales de la carne representó precisamente el hecho o concepto que consagró el impacto del crack de Wall Street en el país. -->
-- [ ] B) Consistió en una reforma fiscal que impuso La estatización total de la propiedad rural eliminando toda libertad mercantil o política local.
+- [ ] A) Consistió en una reforma fiscal que impuso La estatización total de la propiedad rural eliminando toda libertad mercantil o política local.
   <!-- feedback: Incorrecto. La estatización total de la propiedad rural no define la acción histórica de este elemento ni se corresponde con este período. -->
-- [ ] C) Fue un movimiento de oposición promovido por los defensores de La prohibición de toda exportación ganadera para restablecer el régimen colonial absoluto.
+- [ ] B) Fue un movimiento de oposición promovido por los defensores de La prohibición de toda exportación ganadera para restablecer el régimen colonial absoluto.
   <!-- feedback: Incorrecto. La prohibición de toda exportación ganadera responde a otra dinámica o intereses opuestos a los evaluados en este hecho. -->
-- [ ] D) Representó una medida de orden militar que forzó la inmediata adopción de El crecimiento acelerado de los salarios reales en toda la campaña rural.
+- [ ] C) Representó una medida de orden militar que forzó la inmediata adopción de El crecimiento acelerado de los salarios reales en toda la campaña rural.
   <!-- feedback: Incorrecto. El crecimiento acelerado de los salarios reales representa una distracción sin sustento documental o empírico en la historia uruguaya. -->
 
 ### Explicacion Pedagogica
@@ -58,11 +58,11 @@ La identificación precisa de La caída de los precios internacionales de la car
 ¿Qué papel o definición histórica le corresponde a El golpe de Estado de Gabriel Terra en 1933 en relación con este contexto en Uruguay?
 
 ### Opciones
-- [x] A) Constituyó el factor decisivo que consolidó la disolución del Parlamento y el Consejo Nacional en beneficio del desarrollo institucional del país.
+- [x] C) Constituyó el factor decisivo que consolidó la disolución del Parlamento y el Consejo Nacional en beneficio del desarrollo institucional del país.
   <!-- feedback: Correcto. El golpe de Estado de Gabriel Terra en 1933 representó precisamente el hecho o concepto que consagró la disolución del Parlamento y el Consejo Nacional. -->
-- [ ] B) Consistió en una reforma fiscal que impuso La asunción militar del general Máximo Santos eliminando toda libertad mercantil o política local.
+- [ ] A) Consistió en una reforma fiscal que impuso La asunción militar del general Máximo Santos eliminando toda libertad mercantil o política local.
   <!-- feedback: Incorrecto. La asunción militar del general Máximo Santos no define la acción histórica de este elemento ni se corresponde con este período. -->
-- [ ] C) Fue un movimiento de oposición promovido por los defensores de La firma del Tratado de paz con el Paraguay para restablecer el régimen colonial absoluto.
+- [ ] B) Fue un movimiento de oposición promovido por los defensores de La firma del Tratado de paz con el Paraguay para restablecer el régimen colonial absoluto.
   <!-- feedback: Incorrecto. La firma del Tratado de paz con el Paraguay responde a otra dinámica o intereses opuestos a los evaluados en este hecho. -->
 - [ ] D) Representó una medida de orden militar que forzó la inmediata adopción de El inicio del primer gobierno del Batllismo en toda la campaña rural.
   <!-- feedback: Incorrecto. El inicio del primer gobierno del Batllismo representa una distracción sin sustento documental o empírico en la historia uruguaya. -->
@@ -178,9 +178,9 @@ La relación entre La industrialización por sustitución de importaciones y el 
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de La alianza entre terristas y herreristas conservadores en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó la base política de la dictadura de Terra a través del despliegue efectivo de La alianza entre terristas y herreristas conservadores en el territorio nacional.
+- [x] B) En que viabilizó la base política de la dictadura de Terra a través del despliegue efectivo de La alianza entre terristas y herreristas conservadores en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, La alianza entre terristas y herreristas conservadores se tradujo directamente en la base política de la dictadura de Terra, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de La unión de todos los sectores batllistas de izquierda como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de La unión de todos los sectores batllistas de izquierda como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. La unión de todos los sectores batllistas de izquierda no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
 - [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de El pacto de defensa militar con el bloque soviético.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a El pacto de defensa militar con el bloque soviético carece de veracidad y fundamento histórico para este período. -->
@@ -202,9 +202,9 @@ La aplicación práctica de La alianza entre terristas y herreristas conservador
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de El 'golpe bueno' de Alfredo Baldomir en 1942 en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó el retorno progresivo a la normalidad democrática a través del despliegue efectivo de El 'golpe bueno' de Alfredo Baldomir en 1942 en el territorio nacional.
+- [x] B) En que viabilizó el retorno progresivo a la normalidad democrática a través del despliegue efectivo de El 'golpe bueno' de Alfredo Baldomir en 1942 en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, El 'golpe bueno' de Alfredo Baldomir en 1942 se tradujo directamente en el retorno progresivo a la normalidad democrática, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de La instauración de una dictadura militar represiva como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de La instauración de una dictadura militar represiva como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. La instauración de una dictadura militar represiva no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
 - [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La declaración de guerra de Uruguay a los Aliados.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La declaración de guerra de Uruguay a los Aliados carece de veracidad y fundamento histórico para este período. -->
@@ -226,13 +226,13 @@ La aplicación práctica de El 'golpe bueno' de Alfredo Baldomir en 1942 revela 
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de La neutralidad inicial y posterior apoyo a los Aliados en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó la diplomacia uruguaya en el conflicto bélico a través del despliegue efectivo de La neutralidad inicial y posterior apoyo a los Aliados en el territorio nacional.
+- [x] D) En que viabilizó la diplomacia uruguaya en el conflicto bélico a través del despliegue efectivo de La neutralidad inicial y posterior apoyo a los Aliados en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, La neutralidad inicial y posterior apoyo a los Aliados se tradujo directamente en la diplomacia uruguaya en el conflicto bélico, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de La alianza militar ofensiva con las potencias del Eje como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de La alianza militar ofensiva con las potencias del Eje como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. La alianza militar ofensiva con las potencias del Eje no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
-- [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La invasión de naves uruguayas al puerto de Buenos Aires.
+- [ ] B) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La invasión de naves uruguayas al puerto de Buenos Aires.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La invasión de naves uruguayas al puerto de Buenos Aires carece de veracidad y fundamento histórico para este período. -->
-- [ ] D) En que provocó el abandono inmediato de las estancias y la adopción generalizada de La disolución de forma forzosa de toda la armada nacional por los gauchos.
+- [ ] C) En que provocó el abandono inmediato de las estancias y la adopción generalizada de La disolución de forma forzosa de toda la armada nacional por los gauchos.
   <!-- feedback: Incorrecto. La disolución de forma forzosa de toda la armada nacional representa un supuesto anacrónico o absurdo que no operó en la realidad cotidiana del campo uruguayo. -->
 
 ### Explicacion Pedagogica
@@ -250,9 +250,9 @@ La aplicación práctica de La neutralidad inicial y posterior apoyo a los Aliad
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de La creación de CONAPROLE en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó la regulación estatal del mercado lácteo nacional a través del despliegue efectivo de La creación de CONAPROLE en el territorio nacional.
+- [x] B) En que viabilizó la regulación estatal del mercado lácteo nacional a través del despliegue efectivo de La creación de CONAPROLE en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, La creación de CONAPROLE se tradujo directamente en la regulación estatal del mercado lácteo nacional, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de La privatización total de la ganadería lechera como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de La privatización total de la ganadería lechera como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. La privatización total de la ganadería lechera no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
 - [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La prohibición de consumir leche pasteurizada.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La prohibición de consumir leche pasteurizada carece de veracidad y fundamento histórico para este período. -->
@@ -298,11 +298,11 @@ La aplicación práctica de La caída de los precios internacionales de la carne
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de El golpe de Estado de Gabriel Terra en 1933 en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó la disolución del Parlamento y el Consejo Nacional a través del despliegue efectivo de El golpe de Estado de Gabriel Terra en 1933 en el territorio nacional.
+- [x] C) En que viabilizó la disolución del Parlamento y el Consejo Nacional a través del despliegue efectivo de El golpe de Estado de Gabriel Terra en 1933 en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, El golpe de Estado de Gabriel Terra en 1933 se tradujo directamente en la disolución del Parlamento y el Consejo Nacional, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de La asunción militar del general Máximo Santos como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de La asunción militar del general Máximo Santos como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. La asunción militar del general Máximo Santos no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
-- [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La firma del Tratado de paz con el Paraguay.
+- [ ] B) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La firma del Tratado de paz con el Paraguay.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La firma del Tratado de paz con el Paraguay carece de veracidad y fundamento histórico para este período. -->
 - [ ] D) En que provocó el abandono inmediato de las estancias y la adopción generalizada de El inicio del primer gobierno del Batllismo por los gauchos.
   <!-- feedback: Incorrecto. El inicio del primer gobierno del Batllismo representa un supuesto anacrónico o absurdo que no operó en la realidad cotidiana del campo uruguayo. -->
@@ -322,9 +322,9 @@ La aplicación práctica de El golpe de Estado de Gabriel Terra en 1933 revela q
 ¿Qué contradicción o conflicto de intereses de la sociedad de la época queda en evidencia al analizar las consecuencias de La Constitución de 1934?
 
 ### Opciones
-- [x] A) La fractura social entre los sectores que consolidaron su posición con el fin del colegiado y centralización ejecutiva gracias a La Constitución de 1934 y aquellos que resultaron postergados.
+- [x] B) La fractura social entre los sectores que consolidaron su posición con el fin del colegiado y centralización ejecutiva gracias a La Constitución de 1934 y aquellos que resultaron postergados.
   <!-- feedback: Correcto. El análisis crítico de La Constitución de 1934 revela una profunda contradicción en torno a el fin del colegiado y centralización ejecutiva, marcando límites en la integración social. -->
-- [ ] B) El enfrentamiento ideológico entre los defensores de La instauración de un régimen federal municipal y los promotores de una monarquía incaica absoluta en Canelones.
+- [ ] A) El enfrentamiento ideológico entre los defensores de La instauración de un régimen federal municipal y los promotores de una monarquía incaica absoluta en Canelones.
   <!-- feedback: Incorrecto. Una monarquía incaica en Canelones es un absurdo geográfico e histórico sin relación con los conflictos reales uruguayos. -->
 - [ ] C) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La disolución definitiva de todos los partidos.
   <!-- feedback: Incorrecto. Los hacendados dependían vitalmente de la exportación pecuaria y nunca buscaron prohibir su comercio para imponer La disolución definitiva de todos los partidos. -->
@@ -346,9 +346,9 @@ El análisis crítico de La Constitución de 1934 demuestra que la Constitución
 ¿Qué contradicción o conflicto de intereses de la sociedad de la época queda en evidencia al analizar las consecuencias de El plebiscito de Cerro Chato de 1927 y voto general de 1938?
 
 ### Opciones
-- [x] A) La fractura social entre los sectores que consolidaron su posición con el ejercicio efectivo del sufragio por la mujer gracias a El plebiscito de Cerro Chato de 1927 y voto general de 1938 y aquellos que resultaron postergados.
+- [x] B) La fractura social entre los sectores que consolidaron su posición con el ejercicio efectivo del sufragio por la mujer gracias a El plebiscito de Cerro Chato de 1927 y voto general de 1938 y aquellos que resultaron postergados.
   <!-- feedback: Correcto. El análisis crítico de El plebiscito de Cerro Chato de 1927 y voto general de 1938 revela una profunda contradicción en torno a el ejercicio efectivo del sufragio por la mujer, marcando límites en la integración social. -->
-- [ ] B) El enfrentamiento ideológico entre los defensores de La prohibición constitucional del voto femenino y los promotores de una monarquía incaica absoluta en Canelones.
+- [ ] A) El enfrentamiento ideológico entre los defensores de La prohibición constitucional del voto femenino y los promotores de una monarquía incaica absoluta en Canelones.
   <!-- feedback: Incorrecto. Una monarquía incaica en Canelones es un absurdo geográfico e histórico sin relación con los conflictos reales uruguayos. -->
 - [ ] C) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La limitación del sufragio a las mujeres casadas.
   <!-- feedback: Incorrecto. Los hacendados dependían vitalmente de la exportación pecuaria y nunca buscaron prohibir su comercio para imponer La limitación del sufragio a las mujeres casadas. -->
@@ -394,9 +394,9 @@ El análisis crítico de La represión a opositores y el exilio de líderes demu
 ¿Qué contradicción o conflicto de intereses de la sociedad de la época queda en evidencia al analizar las consecuencias de La industrialización por sustitución de importaciones?
 
 ### Opciones
-- [x] A) La fractura social entre los sectores que consolidaron su posición con el fomento de las manufacturas locales de consumo gracias a La industrialización por sustitución de importaciones y aquellos que resultaron postergados.
+- [x] B) La fractura social entre los sectores que consolidaron su posición con el fomento de las manufacturas locales de consumo gracias a La industrialización por sustitución de importaciones y aquellos que resultaron postergados.
   <!-- feedback: Correcto. El análisis crítico de La industrialización por sustitución de importaciones revela una profunda contradicción en torno a el fomento de las manufacturas locales de consumo, marcando límites en la integración social. -->
-- [ ] B) El enfrentamiento ideológico entre los defensores de La prohibición de instalar fábricas en el país y los promotores de una monarquía incaica absoluta en Canelones.
+- [ ] A) El enfrentamiento ideológico entre los defensores de La prohibición de instalar fábricas en el país y los promotores de una monarquía incaica absoluta en Canelones.
   <!-- feedback: Incorrecto. Una monarquía incaica en Canelones es un absurdo geográfico e histórico sin relación con los conflictos reales uruguayos. -->
 - [ ] C) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar El monopolio absoluto de las importaciones inglesas.
   <!-- feedback: Incorrecto. Los hacendados dependían vitalmente de la exportación pecuaria y nunca buscaron prohibir su comercio para imponer El monopolio absoluto de las importaciones inglesas. -->
@@ -442,13 +442,13 @@ La evaluación crítica de la alianza conservadora 'marzo-terrista' destaca el r
 Al juzgar de manera integral el alcance histórico de El 'golpe bueno' de Alfredo Baldomir en 1942, ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?
 
 ### Opciones
-- [x] A) Que El 'golpe bueno' de Alfredo Baldomir en 1942 constituyó una respuesta clave que sentó las bases de el retorno progresivo a la normalidad democrática, reconfigurando de forma duradera el orden estatal del país.
+- [x] D) Que El 'golpe bueno' de Alfredo Baldomir en 1942 constituyó una respuesta clave que sentó las bases de el retorno progresivo a la normalidad democrática, reconfigurando de forma duradera el orden estatal del país.
   <!-- feedback: Correcto. Una evaluación de largo plazo demuestra que El 'golpe bueno' de Alfredo Baldomir en 1942 actuó como piedra angular para estructurar el retorno progresivo a la normalidad democrática en el Uruguay moderno. -->
-- [ ] B) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La instauración de una dictadura militar represiva.
+- [ ] A) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La instauración de una dictadura militar represiva.
   <!-- feedback: Incorrecto. Las transformaciones republicanas, democráticas o sociales contaban con amplio arraigo e irreversibilidad, descartando el retorno a La instauración de una dictadura militar represiva. -->
-- [ ] C) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La declaración de guerra de Uruguay a los Aliados.
+- [ ] B) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La declaración de guerra de Uruguay a los Aliados.
   <!-- feedback: Incorrecto. Sostener que El 'golpe bueno' de Alfredo Baldomir en 1942 solo sirvió para someter el país a La declaración de guerra de Uruguay a los Aliados es una lectura reduccionista que ignora la dinámica interna soberana. -->
-- [ ] D) Que careció de trascendencia práctica real al tratarse de una imitación artificial de La firma del pacto de vasallaje con la Alemania nazi sin ningún tipo de base social en el territorio.
+- [ ] C) Que careció de trascendencia práctica real al tratarse de una imitación artificial de La firma del pacto de vasallaje con la Alemania nazi sin ningún tipo de base social en el territorio.
   <!-- feedback: Incorrecto. A pesar de las influencias conceptuales externas, el modelo uruguayo se adaptó y respondió de forma directa a su propia base social y conflictos de época. -->
 
 ### Explicacion Pedagogica
@@ -466,11 +466,11 @@ La evaluación crítica de el golpe de Estado de Alfredo Baldomir (golpe bueno) 
 Al juzgar de manera integral el alcance histórico de La neutralidad inicial y posterior apoyo a los Aliados, ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?
 
 ### Opciones
-- [x] A) Que La neutralidad inicial y posterior apoyo a los Aliados constituyó una respuesta clave que sentó las bases de la diplomacia uruguaya en el conflicto bélico, reconfigurando de forma duradera el orden estatal del país.
+- [x] C) Que La neutralidad inicial y posterior apoyo a los Aliados constituyó una respuesta clave que sentó las bases de la diplomacia uruguaya en el conflicto bélico, reconfigurando de forma duradera el orden estatal del país.
   <!-- feedback: Correcto. Una evaluación de largo plazo demuestra que La neutralidad inicial y posterior apoyo a los Aliados actuó como piedra angular para estructurar la diplomacia uruguaya en el conflicto bélico en el Uruguay moderno. -->
-- [ ] B) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La alianza militar ofensiva con las potencias del Eje.
+- [ ] A) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La alianza militar ofensiva con las potencias del Eje.
   <!-- feedback: Incorrecto. Las transformaciones republicanas, democráticas o sociales contaban con amplio arraigo e irreversibilidad, descartando el retorno a La alianza militar ofensiva con las potencias del Eje. -->
-- [ ] C) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La invasión de naves uruguayas al puerto de Buenos Aires.
+- [ ] B) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La invasión de naves uruguayas al puerto de Buenos Aires.
   <!-- feedback: Incorrecto. Sostener que La neutralidad inicial y posterior apoyo a los Aliados solo sirvió para someter el país a La invasión de naves uruguayas al puerto de Buenos Aires es una lectura reduccionista que ignora la dinámica interna soberana. -->
 - [ ] D) Que careció de trascendencia práctica real al tratarse de una imitación artificial de La disolución de forma forzosa de toda la armada nacional sin ningún tipo de base social en el territorio.
   <!-- feedback: Incorrecto. A pesar de las influencias conceptuales externas, el modelo uruguayo se adaptó y respondió de forma directa a su propia base social y conflictos de época. -->
@@ -490,13 +490,13 @@ La evaluación crítica de la posición de Uruguay en la Segunda Guerra Mundial 
 Al juzgar de manera integral el alcance histórico de La creación de CONAPROLE, ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?
 
 ### Opciones
-- [x] A) Que La creación de CONAPROLE constituyó una respuesta clave que sentó las bases de la regulación estatal del mercado lácteo nacional, reconfigurando de forma duradera el orden estatal del país.
+- [x] D) Que La creación de CONAPROLE constituyó una respuesta clave que sentó las bases de la regulación estatal del mercado lácteo nacional, reconfigurando de forma duradera el orden estatal del país.
   <!-- feedback: Correcto. Una evaluación de largo plazo demuestra que La creación de CONAPROLE actuó como piedra angular para estructurar la regulación estatal del mercado lácteo nacional en el Uruguay moderno. -->
-- [ ] B) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La privatización total de la ganadería lechera.
+- [ ] A) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La privatización total de la ganadería lechera.
   <!-- feedback: Incorrecto. Las transformaciones republicanas, democráticas o sociales contaban con amplio arraigo e irreversibilidad, descartando el retorno a La privatización total de la ganadería lechera. -->
-- [ ] C) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La prohibición de consumir leche pasteurizada.
+- [ ] B) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La prohibición de consumir leche pasteurizada.
   <!-- feedback: Incorrecto. Sostener que La creación de CONAPROLE solo sirvió para someter el país a La prohibición de consumir leche pasteurizada es una lectura reduccionista que ignora la dinámica interna soberana. -->
-- [ ] D) Que careció de trascendencia práctica real al tratarse de una imitación artificial de El monopolio aduanero de las exportaciones de queso sin ningún tipo de base social en el territorio.
+- [ ] C) Que careció de trascendencia práctica real al tratarse de una imitación artificial de El monopolio aduanero de las exportaciones de queso sin ningún tipo de base social en el territorio.
   <!-- feedback: Incorrecto. A pesar de las influencias conceptuales externas, el modelo uruguayo se adaptó y respondió de forma directa a su propia base social y conflictos de época. -->
 
 ### Explicacion Pedagogica

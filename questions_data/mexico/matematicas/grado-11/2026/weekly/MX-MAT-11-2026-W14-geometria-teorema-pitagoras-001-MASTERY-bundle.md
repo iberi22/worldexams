@@ -54,8 +54,8 @@ En un triángulo rectángulo, ¿cómo se le llama al lado de mayor longitud, el 
 
 ### Opciones
 - [ ] A) Cateto opuesto <!-- feedback: Este nombre depende de la referencia a un ángulo agudo específico. -->
-- [ ] B) Cateto adyacente <!-- feedback: Al igual que el anterior, depende de la posición respecto a un ángulo agudo. -->
-- [x] C) Hipotenusa <!-- feedback: Correcto. La hipotenusa es siempre el lado más largo y opuesto al ángulo de 90 grados. -->
+- [ ] C) Cateto adyacente <!-- feedback: Al igual que el anterior, depende de la posición respecto a un ángulo agudo. -->
+- [x] B) Hipotenusa <!-- feedback: Correcto. La hipotenusa es siempre el lado más largo y opuesto al ángulo de 90 grados. -->
 - [ ] D) Altura <!-- feedback: La altura es una medida perpendicular, que en un triángulo rectángulo puede coincidir con un cateto. -->
 
 ### Explicacion Pedagogica
@@ -75,8 +75,8 @@ En la terminología del triángulo rectángulo, los dos lados que forman el áng
 
 ### Opciones
 - [ ] A) 2, 3, 4 <!-- feedback: 2² + 3² = 4 + 9 = 13, que es diferente de 4² (16). -->
-- [x] B) 3, 4, 5 <!-- feedback: Correcto. 3² + 4² = 9 + 16 = 25, y 5² = 25. Cumple perfectamente el teorema. -->
-- [ ] C) 5, 5, 10 <!-- feedback: La suma de dos lados debe ser mayor que el tercero para formar un triángulo; además no cumple el teorema. -->
+- [x] C) 3, 4, 5 <!-- feedback: Correcto. 3² + 4² = 9 + 16 = 25, y 5² = 25. Cumple perfectamente el teorema. -->
+- [ ] B) 5, 5, 10 <!-- feedback: La suma de dos lados debe ser mayor que el tercero para formar un triángulo; además no cumple el teorema. -->
 - [ ] D) 1, 1, 2 <!-- feedback: 1² + 1² = 2, pero la hipotenusa debería ser √2, no 2. -->
 
 ### Explicacion Pedagogica
@@ -96,9 +96,9 @@ Si la escalera mide 5 metros y su base está a 3 metros de la pared, ¿a qué al
 
 ### Opciones
 - [ ] A) 2 metros <!-- feedback: Restaste las medidas directamente en lugar de usar el teorema. -->
-- [x] B) 4 metros <!-- feedback: Correcto. h = √(5² - 3²) = √(25 - 9) = √16 = 4. -->
-- [ ] C) 8 metros <!-- feedback: La hipotenusa es 5, un cateto no puede ser mayor que la hipotenusa. -->
-- [ ] D) 5.8 metros <!-- feedback: Sumaste los cuadrados en lugar de restarlos para hallar un cateto. -->
+- [x] D) 4 metros <!-- feedback: Correcto. h = √(5² - 3²) = √(25 - 9) = √16 = 4. -->
+- [ ] B) 8 metros <!-- feedback: La hipotenusa es 5, un cateto no puede ser mayor que la hipotenusa. -->
+- [ ] C) 5.8 metros <!-- feedback: Sumaste los cuadrados en lugar de restarlos para hallar un cateto. -->
 
 ### Explicacion Pedagogica
 Al formar un triángulo rectángulo donde la escalera es la hipotenusa ($c=5$) y la distancia al suelo es un cateto ($a=3$), buscamos el otro cateto ($b$). Usamos $b = \sqrt{c^2 - a^2} = \sqrt{25 - 9} = 4\text{ metros}$.
@@ -118,8 +118,8 @@ Si el terreno mide 60 metros de largo y 80 metros de ancho, ¿qué distancia rec
 ### Opciones
 - [ ] A) 140 metros <!-- feedback: Esta es la suma de los dos lados, no la diagonal. -->
 - [ ] B) 70 metros <!-- feedback: Este valor no corresponde al cálculo de la hipotenusa para estos catetos. -->
-- [x] C) 100 metros <!-- feedback: Correcto. d = √(60² + 80²) = √(3600 + 6400) = √10000 = 100. -->
-- [ ] D) 120 metros <!-- feedback: Error en la aplicación del teorema o en el cálculo de las raíces. -->
+- [x] D) 100 metros <!-- feedback: Correcto. d = √(60² + 80²) = √(3600 + 6400) = √10000 = 100. -->
+- [ ] C) 120 metros <!-- feedback: Error en la aplicación del teorema o en el cálculo de las raíces. -->
 
 ### Explicacion Pedagogica
 La diagonal de un rectángulo divide a este en dos triángulos rectángulos iguales. Los catetos son los lados del rectángulo ($60$ y $80$). La diagonal es la hipotenusa: $d = \sqrt{60^2 + 80^2} = \sqrt{3,600 + 6,400} = \sqrt{10,000} = 100\text{ metros}$.
@@ -139,8 +139,8 @@ El cable se debe anclar al suelo a una distancia de 5 metros de la base de la an
 ### Opciones
 - [ ] A) 7 metros <!-- feedback: Restaste la altura y la distancia de anclaje. -->
 - [ ] B) 17 metros <!-- feedback: Sumaste las medidas lineales directamente. -->
-- [x] C) 13 metros <!-- feedback: Correcto. L = √(12² + 5²) = √(144 + 25) = √169 = 13. -->
-- [ ] D) 15 metros <!-- feedback: Error en el cálculo de los cuadrados o la raíz resultante. -->
+- [x] D) 13 metros <!-- feedback: Correcto. L = √(12² + 5²) = √(144 + 25) = √169 = 13. -->
+- [ ] C) 15 metros <!-- feedback: Error en el cálculo de los cuadrados o la raíz resultante. -->
 
 ### Explicacion Pedagogica
 La antena (vertical) y la distancia al suelo (horizontal) forman los catetos de un triángulo rectángulo. El cable es la hipotenusa. Por el Teorema de Pitágoras: $c = \sqrt{12^2 + 5^2} = \sqrt{144 + 25} = \sqrt{169} = 13\text{ metros}$.
@@ -180,9 +180,9 @@ Si el ancho de la pantalla es de 20 pulgadas, ¿cuál es su altura?
 
 ### Opciones
 - [ ] A) 5 pulgadas <!-- feedback: Restaste las medidas directamente. -->
-- [x] B) 15 pulgadas <!-- feedback: Correcto. h = √(25² - 20²) = √(625 - 400) = √225 = 15. -->
-- [ ] C) 10 pulgadas <!-- feedback: Error aritmético en el cálculo de la raíz. -->
-- [ ] D) 32 pulgadas <!-- feedback: La altura no puede ser mayor que la diagonal. -->
+- [x] D) 15 pulgadas <!-- feedback: Correcto. h = √(25² - 20²) = √(625 - 400) = √225 = 15. -->
+- [ ] B) 10 pulgadas <!-- feedback: Error aritmético en el cálculo de la raíz. -->
+- [ ] C) 32 pulgadas <!-- feedback: La altura no puede ser mayor que la diagonal. -->
 
 ### Explicacion Pedagogica
 La diagonal, el ancho y la altura de una pantalla forman un triángulo rectángulo. La diagonal es la hipotenusa ($c=25$) y el ancho es un cateto ($a=20$). Calculamos la altura ($b$): $b = \sqrt{25^2 - 20^2} = \sqrt{625 - 400} = \sqrt{225} = 15\text{ pulgadas}$.
@@ -202,8 +202,8 @@ La diagonal, el ancho y la altura de una pantalla forman un triángulo rectángu
 ### Opciones
 - [ ] A) Acutángulo <!-- feedback: Esto ocurriría si 17² fuera menor que 8² + 15². -->
 - [ ] B) Obtusángulo <!-- feedback: Esto ocurriría si 17² fuera mayor que 8² + 15². -->
-- [x] C) Rectángulo <!-- feedback: Correcto. 8² + 15² = 64 + 225 = 289, y 17² = 289. Al cumplirse la igualdad, el ángulo es de 90°. -->
-- [ ] D) Equilátero <!-- feedback: Un triángulo equilátero debe tener sus tres lados iguales. -->
+- [x] D) Rectángulo <!-- feedback: Correcto. 8² + 15² = 64 + 225 = 289, y 17² = 289. Al cumplirse la igualdad, el ángulo es de 90°. -->
+- [ ] C) Equilátero <!-- feedback: Un triángulo equilátero debe tener sus tres lados iguales. -->
 
 ### Explicacion Pedagogica
 Para clasificar un triángulo por sus lados usamos el recíproco del Teorema de Pitágoras. Comparamos el cuadrado del lado mayor ($17^2 = 289$) con la suma de los cuadrados de los menores ($8^2 + 15^2 = 64 + 225 = 289$). Al ser iguales, el triángulo es rectángulo.
@@ -221,8 +221,8 @@ Para clasificar un triángulo por sus lados usamos el recíproco del Teorema de 
 El radio del círculo es de 10 m y la distancia mínima del centro del círculo a la valla es de 6 m. ¿Cuánto mide la valla?
 
 ### Opciones
-- [ ] A) 8 m <!-- feedback: Este es el valor de la mitad de la valla, falta duplicarlo. -->
-- [x] B) 16 m <!-- feedback: Correcto. Se forma un triángulo de hipotenusa 10 y cateto 6. El otro cateto (mitad de la valla) es √(10²-6²) = 8. Valla = 8×2 = 16. -->
+- [ ] B) 8 m <!-- feedback: Este es el valor de la mitad de la valla, falta duplicarlo. -->
+- [x] A) 16 m <!-- feedback: Correcto. Se forma un triángulo de hipotenusa 10 y cateto 6. El otro cateto (mitad de la valla) es √(10²-6²) = 8. Valla = 8×2 = 16. -->
 - [ ] C) 12 m <!-- feedback: Confundiste el valor de la distancia con la medida de la cuerda. -->
 - [ ] D) 4 m <!-- feedback: Valor incorrecto producto de un error de procedimiento. -->
 
@@ -264,8 +264,8 @@ Si al final se encuentra a una distancia en línea recta de 17 km desde su punto
 
 ### Opciones
 - [ ] A) 2 km <!-- feedback: Restaste las distancias directamente. -->
-- [x] B) 8 km <!-- feedback: Correcto. d_este = √(17² - 15²) = √(289 - 225) = √64 = 8. -->
-- [ ] C) 12 km <!-- feedback: Error en el cálculo de los cuadrados en el teorema. -->
+- [x] C) 8 km <!-- feedback: Correcto. d_este = √(17² - 15²) = √(289 - 225) = √64 = 8. -->
+- [ ] B) 12 km <!-- feedback: Error en el cálculo de los cuadrados en el teorema. -->
 - [ ] D) 32 km <!-- feedback: Sumaste las distancias o los cuadrados erróneamente. -->
 
 ### Explicacion Pedagogica
@@ -285,9 +285,9 @@ El desplazamiento norte (cateto vertical), el desplazamiento este (cateto horizo
 
 ### Opciones
 - [ ] A) 17 cm <!-- feedback: Error en el cálculo de los catetos del triángulo rectángulo formado. -->
-- [x] B) 13 cm <!-- feedback: Correcto. Los catetos son la mitad de las diagonales: 5 y 12. Lado = √(5² + 12²) = √(25 + 144) = √169 = 13. -->
-- [ ] C) 26 cm <!-- feedback: Este valor es el doble de la medida correcta del lado. -->
-- [ ] D) 15 cm <!-- feedback: Valor incorrecto producto de un error de procedimiento. -->
+- [x] D) 13 cm <!-- feedback: Correcto. Los catetos son la mitad de las diagonales: 5 y 12. Lado = √(5² + 12²) = √(25 + 144) = √169 = 13. -->
+- [ ] B) 26 cm <!-- feedback: Este valor es el doble de la medida correcta del lado. -->
+- [ ] C) 15 cm <!-- feedback: Valor incorrecto producto de un error de procedimiento. -->
 
 ### Explicacion Pedagogica
 Las diagonales de un rombo forman cuatro triángulos rectángulos iguales. Los catetos de estos triángulos son las mitades de las diagonales: $10/2 = 5\text{ cm}$ y $24/2 = 12\text{ cm}$. El lado del rombo es la hipotenusa: $l = \sqrt{5^2 + 12^2} = \sqrt{25 + 144} = \sqrt{169} = 13\text{ cm}$.
@@ -326,9 +326,9 @@ Formamos un triángulo rectángulo con el radio ($c=25$) y la mitad de la cuerda
 Punto A: (2, 3) y Punto B: (7, 15). ¿Cuál es la distancia en línea recta entre ambos puntos?
 
 ### Opciones
-- [ ] A) 12 unidades <!-- feedback: Solo consideraste la diferencia en el eje Y. -->
-- [ ] B) 17 unidades <!-- feedback: Sumaste las diferencias de los ejes X e Y. -->
-- [x] C) 13 unidades <!-- feedback: Correcto. Δx = 7-2 = 5. Δy = 15-3 = 12. Distancia = √(5² + 12²) = 13. -->
+- [ ] B) 12 unidades <!-- feedback: Solo consideraste la diferencia en el eje Y. -->
+- [ ] C) 17 unidades <!-- feedback: Sumaste las diferencias de los ejes X e Y. -->
+- [x] A) 13 unidades <!-- feedback: Correcto. Δx = 7-2 = 5. Δy = 15-3 = 12. Distancia = √(5² + 12²) = 13. -->
 - [ ] D) 15 unidades <!-- feedback: Error en el cálculo de las diferencias o de la raíz final. -->
 
 ### Explicacion Pedagogica
@@ -348,9 +348,9 @@ La distancia entre dos puntos $(x_1, y_1)$ y $(x_2, y_2)$ es una aplicación del
 
 ### Opciones
 - [ ] A) $L^2$ <!-- feedback: El resultado debe tener unidades de longitud, no de área. -->
-- [x] B) $L\sqrt{2}$ <!-- feedback: Correcto. d = √(L² + L²) = √2L² = L√2. -->
-- [ ] C) $2L$ <!-- feedback: La diagonal de un cuadrado es menor que la suma de sus dos lados. -->
-- [ ] D) $\frac{L}{\sqrt{2}}$ <!-- feedback: Esta expresión corresponde al lado de un cuadrado si se conoce su diagonal. -->
+- [x] D) $L\sqrt{2}$ <!-- feedback: Correcto. d = √(L² + L²) = √2L² = L√2. -->
+- [ ] B) $2L$ <!-- feedback: La diagonal de un cuadrado es menor que la suma de sus dos lados. -->
+- [ ] C) $\frac{L}{\sqrt{2}}$ <!-- feedback: Esta expresión corresponde al lado de un cuadrado si se conoce su diagonal. -->
 
 ### Explicacion Pedagogica
 Aplicando el Teorema de Pitágoras a los dos lados del cuadrado que forman el ángulo recto: $d^2 = L^2 + L^2 = 2L^2$. Extrayendo la raíz cuadrada: $d = \sqrt{2L^2} = L\sqrt{2}$.
@@ -368,8 +368,8 @@ Aplicando el Teorema de Pitágoras a los dos lados del cuadrado que forman el á
 Si construimos semicírculos sobre los tres lados de un triángulo rectángulo, ¿cuál es la relación entre sus áreas ($A_a, A_b, A_c$)?
 
 ### Opciones
-- [ ] A) $A_c^2 = A_a^2 + A_b^2$ <!-- feedback: La relación cuadrática ya está implícita en la fórmula del área respecto al diámetro. -->
-- [x] B) $A_c = A_a + A_b$ <!-- feedback: Correcto. Al ser figuras semejantes, sus áreas son proporcionales al cuadrado de los lados. Como c² = a² + b², entonces Ac = Aa + Ab. -->
+- [ ] B) $A_c^2 = A_a^2 + A_b^2$ <!-- feedback: La relación cuadrática ya está implícita en la fórmula del área respecto al diámetro. -->
+- [x] A) $A_c = A_a + A_b$ <!-- feedback: Correcto. Al ser figuras semejantes, sus áreas son proporcionales al cuadrado de los lados. Como c² = a² + b², entonces Ac = Aa + Ab. -->
 - [ ] C) $A_c = \pi(A_a + A_b)$ <!-- feedback: El factor π ya está incluido en el cálculo de cada área individual. -->
 - [ ] D) No existe relación directa entre las áreas. <!-- feedback: De hecho, la relación de Pitágoras se cumple para cualquier conjunto de figuras semejantes construidas sobre los lados. -->
 
@@ -390,8 +390,8 @@ Debido a que el área de figuras semejantes es proporcional al cuadrado de su di
 
 ### Opciones
 - [ ] A) $\frac{s^2 - c^2}{2}$ <!-- feedback: Falta dividir entre 4 para obtener el área correcta del triángulo. -->
-- [x] B) $\frac{s^2 - c^2}{4}$ <!-- feedback: Correcto. (a+b)² = a²+b²+2ab -> s² = c²+2(2Area) -> s²-c² = 4Area -> Area = (s²-c²)/4. -->
-- [ ] C) $s^2 - c^2$ <!-- feedback: Esta expresión equivale a cuatro veces el área del triángulo. -->
+- [x] C) $\frac{s^2 - c^2}{4}$ <!-- feedback: Correcto. (a+b)² = a²+b²+2ab -> s² = c²+2(2Area) -> s²-c² = 4Area -> Area = (s²-c²)/4. -->
+- [ ] B) $s^2 - c^2$ <!-- feedback: Esta expresión equivale a cuatro veces el área del triángulo. -->
 - [ ] D) $\frac{s - c}{2}$ <!-- feedback: Esta expresión no tiene dimensiones de área. -->
 
 ### Explicacion Pedagogica
@@ -411,8 +411,8 @@ Un cilindro tiene radio $R$ y altura $H$. Una línea (hélice) da exactamente un
 
 ### Opciones
 - [ ] A) $\sqrt{R^2 + H^2}$ <!-- feedback: Olvidaste que la distancia horizontal es la circunferencia del cilindro, no el radio. -->
-- [x] B) $\sqrt{(2\pi R)^2 + H^2}$ <!-- feedback: Correcto. Al desenrollar el cilindro, la hélice es la hipotenusa de un rectángulo de base 2πR y altura H. -->
-- [ ] C) $2\pi R + H$ <!-- feedback: Esta es la suma de los desplazamientos, no la distancia en línea recta sobre el desarrollo plano. -->
+- [x] C) $\sqrt{(2\pi R)^2 + H^2}$ <!-- feedback: Correcto. Al desenrollar el cilindro, la hélice es la hipotenusa de un rectángulo de base 2πR y altura H. -->
+- [ ] B) $2\pi R + H$ <!-- feedback: Esta es la suma de los desplazamientos, no la distancia en línea recta sobre el desarrollo plano. -->
 - [ ] D) $2\pi \sqrt{R^2 + H^2}$ <!-- feedback: Error en la composición de la fórmula de la hipotenusa. -->
 
 ### Explicacion Pedagogica
@@ -431,8 +431,8 @@ Al "desenrollar" la superficie lateral de un cilindro, obtenemos un rectángulo 
 ¿Cuál es el radio $r$ del círculo inscrito en términos de los lados del triángulo?
 
 ### Opciones
-- [ ] A) $\frac{a+b+c}{2}$ <!-- feedback: Este es el semiperímetro (s), no el radio. -->
-- [x] B) $\frac{a+b-c}{2}$ <!-- feedback: Correcto. Usando la propiedad de tangentes desde un punto externo y que Area = rs, se llega a esta elegante simplificación. -->
+- [ ] B) $\frac{a+b+c}{2}$ <!-- feedback: Este es el semiperímetro (s), no el radio. -->
+- [x] A) $\frac{a+b-c}{2}$ <!-- feedback: Correcto. Usando la propiedad de tangentes desde un punto externo y que Area = rs, se llega a esta elegante simplificación. -->
 - [ ] C) $\frac{ab}{a+b+c}$ <!-- feedback: Esta expresión es correcta pero suele presentarse simplificada como la opción B. -->
 - [ ] D) $\sqrt{ab}$ <!-- feedback: Esta es la media geométrica de los catetos, no el radio inscrito. -->
 

@@ -34,11 +34,11 @@ Vocabulary for food, expressing likes/dislikes, and describing healthy eating ha
 Which item is a fresh fruit high in Vitamin C?
 
 ### Opciones
-- [x] A) Orange.
+- [x] C) Orange.
   <!-- feedback: Oranges are citrus fruits rich in Vitamin C. -->
-- [ ] B) French fries.
+- [ ] A) French fries.
   <!-- feedback: French fries are fried potatoes, not a fresh fruit. -->
-- [ ] C) Chocolate cake.
+- [ ] B) Chocolate cake.
   <!-- feedback: Chocolate cake is a dessert high in sugar, not a fresh fruit. -->
 - [ ] D) Soda.
   <!-- feedback: Soda is a sugary carbonated drink. -->
@@ -57,9 +57,9 @@ Basic English vocabulary for identifying fresh fruits and healthy food options.
 To which food group do carrots and broccoli belong?
 
 ### Opciones
-- [x] A) Vegetables.
+- [x] B) Vegetables.
   <!-- feedback: Carrots, broccoli, and spinach are classified as vegetables. -->
-- [ ] B) Dairy products.
+- [ ] A) Dairy products.
   <!-- feedback: Dairy includes milk, cheese, and yogurt. -->
 - [ ] C) Sweets and candies.
   <!-- feedback: Sweets are high-sugar processed treats. -->
@@ -80,9 +80,9 @@ Classifying food vocabulary items into basic food categories in English.
 Complete the sentence correctly: "Andrea _____ fresh fruit salads, but she does not like soda."
 
 ### Opciones
-- [x] A) likes.
+- [x] B) likes.
   <!-- feedback: "Likes" is the third-person singular (Andrea / she) form for positive preference. -->
-- [ ] B) like.
+- [ ] A) like.
   <!-- feedback: "Like" is used with I, you, we, they. -->
 - [ ] C) liking.
   <!-- feedback: "Liking" is a participle and not the simple present verb form. -->
@@ -103,13 +103,13 @@ Expressing likes and dislikes in Simple Present tense with third-person singular
 Which uncountable noun is used for liquid refreshment? "Add a glass of fresh _____ to the blender."
 
 ### Opciones
-- [x] A) water.
+- [x] D) water.
   <!-- feedback: Water is a liquid ingredient essential for healthy beverages. -->
-- [ ] B) bread.
+- [ ] A) bread.
   <!-- feedback: Bread is a solid food made from flour, not a liquid ingredient. -->
-- [ ] C) apples.
+- [ ] B) apples.
   <!-- feedback: Apples are countable solid fruits, not liquids (unless specified as juice). -->
-- [ ] D) eggs.
+- [ ] C) eggs.
   <!-- feedback: Eggs are solid food items used in cooking, not liquid drinks. -->
 
 ### Explicacion Pedagogica
@@ -126,13 +126,13 @@ Differentiating countable and uncountable food nouns in culinary contexts.
 Select the correct question form: "_____ you want an egg and a banana for breakfast?"
 
 ### Opciones
-- [x] A) Do.
+- [x] D) Do.
   <!-- feedback: "Do" is the correct auxiliary verb for "you" in simple present questions. -->
-- [ ] B) Does.
+- [ ] A) Does.
   <!-- feedback: "Does" is only used with third-person singular (he, she, it). -->
-- [ ] C) Is.
+- [ ] B) Is.
   <!-- feedback: "Is" does not pair with the main verb "want". -->
-- [ ] D) Are.
+- [ ] C) Are.
   <!-- feedback: "Are" would require a present participle (-ing) verb. -->
 
 ### Explicacion Pedagogica
@@ -149,13 +149,13 @@ Asking questions about food choices using "Do you want...?" in English.
 According to the paragraph, what proportion of a healthy plate should be filled with vegetables?
 
 ### Opciones
-- [x] A) Half of the plate (50%).
+- [x] D) Half of the plate (50%).
   <!-- feedback: The text explicitly states "filling half your plate with colorful vegetables". -->
-- [ ] B) All of the plate (100%).
+- [ ] A) All of the plate (100%).
   <!-- feedback: The plate also includes protein and whole grains. -->
-- [ ] C) One quarter of the plate (25%).
+- [ ] B) One quarter of the plate (25%).
   <!-- feedback: One quarter is specified for protein and whole grains, not vegetables. -->
-- [ ] D) None of the plate (0%).
+- [ ] C) None of the plate (0%).
   <!-- feedback: Vegetables make up the largest single portion (half the plate). -->
 
 ### Explicacion Pedagogica
@@ -172,9 +172,9 @@ Analyzing descriptive proportions and nutritional guidelines in English reading 
 Why is Snack B healthier than Snack A?
 
 ### Opciones
-- [x] A) Because fresh fruit provides natural vitamins and fiber without excess fat and salt.
+- [x] B) Because fresh fruit provides natural vitamins and fiber without excess fat and salt.
   <!-- feedback: Fresh fruits contain essential nutrients without the high sodium and fried fat of chips. -->
-- [ ] B) Because potato chips contain more water and natural vitamins than fresh fruit.
+- [ ] A) Because potato chips contain more water and natural vitamins than fresh fruit.
   <!-- feedback: Chips are processed and high in sodium/fat, not rich in water. -->
 - [ ] C) Because papaya is artificially manufactured in candy factories.
   <!-- feedback: Papaya is a natural agricultural fruit, not a manufactured candy. -->
@@ -195,11 +195,11 @@ Comparing food choices and analyzing nutritional benefits in simple English.
 Which beverage option best promotes healthy hydration for students during lunch?
 
 ### Opciones
-- [x] A) Natural fruit juice made with fresh fruit and no added sugar.
+- [x] C) Natural fruit juice made with fresh fruit and no added sugar.
   <!-- feedback: Natural fresh fruit juice provides hydration and vitamins without artificial additives. -->
-- [ ] B) Energy drinks containing high levels of caffeine and artificial colors.
+- [ ] A) Energy drinks containing high levels of caffeine and artificial colors.
   <!-- feedback: Energy drinks are unsafe and inappropriate for primary school students. -->
-- [ ] C) Concentrated sugar syrup mixed with carbonated water.
+- [ ] B) Concentrated sugar syrup mixed with carbonated water.
   <!-- feedback: Concentrated sugar syrup is essentially soda, which the committee aims to replace. -->
 - [ ] D) Commercial chocolate milkshakes with extra whipped cream.
   <!-- feedback: High-fat milkshakes with extra cream are high-calorie treats rather than hydration drinks. -->

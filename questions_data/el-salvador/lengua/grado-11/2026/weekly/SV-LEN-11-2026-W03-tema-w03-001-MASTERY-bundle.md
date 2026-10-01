@@ -58,13 +58,13 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 Considera el siguiente ejemplo escrito: Un texto de geografía escolar detalla detalladamente las paredes escarpadas y la laguna verdosa del cráter del Volcán de Santa Ana. ¿Qué técnica descriptiva o componente de la narración se está aplicando?
 
 ### Opciones
-- [x] A) El uso de adjetivación descriptiva.
+- [x] D) El uso de adjetivación descriptiva.
   <!-- feedback: ¡Correcto! Es adjetivación descriptiva porque se centra en caracterizar con adjetivos calificativos precisos un espacio geográfico. -->
-- [ ] B) Un argumento analógico de autoridad científica.
+- [ ] A) Un argumento analógico de autoridad científica.
   <!-- feedback: Incorrecto. El fragmento no busca justificar una tesis lógica en un debate formal. -->
-- [ ] C) La función metalingüística de los adjetivos de relación.
+- [ ] B) La función metalingüística de los adjetivos de relación.
   <!-- feedback: Incorrecto. Se analiza la tipología textual y estilística, no las reglas de la gramática. -->
-- [ ] D) La métrica del soneto de catorce sílabas.
+- [ ] C) La métrica del soneto de catorce sílabas.
   <!-- feedback: Incorrecto. No se trata de un poema rimado clásico, sino de prosa narrativa o descriptiva. -->
 
 ### Explicación Pedagógica
@@ -110,13 +110,13 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 Considera el siguiente ejemplo escrito: Un autor escribe en su novela: 'Fátima sentía un gran nerviosismo interno, aunque sonreía de forma tranquila ante el jurado de San Miguel'. ¿Qué técnica descriptiva o componente de la narración se está aplicando?
 
 ### Opciones
-- [x] A) El uso de narrador omnisciente.
+- [x] D) El uso de narrador omnisciente.
   <!-- feedback: ¡Correcto! Es narrador omnisciente porque se centra en conocer todos los pensamientos íntimos, secretos y sentimientos de los personajes de la historia. -->
-- [ ] B) Un argumento analógico de autoridad científica.
+- [ ] A) Un argumento analógico de autoridad científica.
   <!-- feedback: Incorrecto. El fragmento no busca justificar una tesis lógica en un debate formal. -->
-- [ ] C) La función metalingüística de los adjetivos de relación.
+- [ ] B) La función metalingüística de los adjetivos de relación.
   <!-- feedback: Incorrecto. Se analiza la tipología textual y estilística, no las reglas de la gramática. -->
-- [ ] D) La métrica del soneto de catorce sílabas.
+- [ ] C) La métrica del soneto de catorce sílabas.
   <!-- feedback: Incorrecto. No se trata de un poema rimado clásico, sino de prosa narrativa o descriptiva. -->
 
 ### Explicación Pedagógica
@@ -188,13 +188,13 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 Considera el siguiente ejemplo escrito: La novela describe con esmero el rostro curtido por el sol tropical, las manos callosas agrietadas y la gran estatura del viejo caficultor. ¿Qué técnica descriptiva o componente de la narración se está aplicando?
 
 ### Opciones
-- [x] A) El uso de prosopografía física.
+- [x] D) El uso de prosopografía física.
   <!-- feedback: ¡Correcto! Es prosopografía física porque se centra en describir de forma minuciosa y estricta la fisonomía y rasgos físicos exteriores de una persona. -->
-- [ ] B) Un argumento analógico de autoridad científica.
+- [ ] A) Un argumento analógico de autoridad científica.
   <!-- feedback: Incorrecto. El fragmento no busca justificar una tesis lógica en un debate formal. -->
-- [ ] C) La función metalingüística de los adjetivos de relación.
+- [ ] B) La función metalingüística de los adjetivos de relación.
   <!-- feedback: Incorrecto. Se analiza la tipología textual y estilística, no las reglas de la gramática. -->
-- [ ] D) La métrica del soneto de catorce sílabas.
+- [ ] C) La métrica del soneto de catorce sílabas.
   <!-- feedback: Incorrecto. No se trata de un poema rimado clásico, sino de prosa narrativa o descriptiva. -->
 
 ### Explicación Pedagógica
@@ -214,11 +214,11 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 Considera el siguiente ejemplo escrito: Un fragmento de biografía resalta la disciplina inquebrantable, la generosidad desinteresada y el profundo civismo del profesor del cantón. ¿Qué técnica descriptiva o componente de la narración se está aplicando?
 
 ### Opciones
-- [x] A) El uso de etopeya moral.
+- [x] C) El uso de etopeya moral.
   <!-- feedback: ¡Correcto! Es etopeya moral porque se centra en describir exclusivamente las cualidades internas, virtudes morales y el carácter de un individuo. -->
-- [ ] B) Un argumento analógico de autoridad científica.
+- [ ] A) Un argumento analógico de autoridad científica.
   <!-- feedback: Incorrecto. El fragmento no busca justificar una tesis lógica en un debate formal. -->
-- [ ] C) La función metalingüística de los adjetivos de relación.
+- [ ] B) La función metalingüística de los adjetivos de relación.
   <!-- feedback: Incorrecto. Se analiza la tipología textual y estilística, no las reglas de la gramática. -->
 - [ ] D) La métrica del soneto de catorce sílabas.
   <!-- feedback: Incorrecto. No se trata de un poema rimado clásico, sino de prosa narrativa o descriptiva. -->
@@ -240,9 +240,9 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 Considera el siguiente ejemplo escrito: El humorista gráfico dibuja al terrateniente avaro con orejas gigantescas, boca desproporcionada y una expresión de codicia ridícula. ¿Qué técnica descriptiva o componente de la narración se está aplicando?
 
 ### Opciones
-- [x] A) El uso de caricatura cómica.
+- [x] B) El uso de caricatura cómica.
   <!-- feedback: ¡Correcto! Es caricatura cómica porque se centra en exagerar, distorsionar o deformar los rasgos físicos y morales de una persona con intención satírica. -->
-- [ ] B) Un argumento analógico de autoridad científica.
+- [ ] A) Un argumento analógico de autoridad científica.
   <!-- feedback: Incorrecto. El fragmento no busca justificar una tesis lógica en un debate formal. -->
 - [ ] C) La función metalingüística de los adjetivos de relación.
   <!-- feedback: Incorrecto. Se analiza la tipología textual y estilística, no las reglas de la gramática. -->
@@ -266,13 +266,13 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 Considera el siguiente ejemplo escrito: Un texto literario de memorias evoca minuciosamente el ambiente de paz, los tranvías y la moda urbana de San Salvador en el año 1950. ¿Qué técnica descriptiva o componente de la narración se está aplicando?
 
 ### Opciones
-- [x] A) El uso de cronografía temporal.
+- [x] D) El uso de cronografía temporal.
   <!-- feedback: ¡Correcto! Es cronografía temporal porque se centra en describir de forma detallada una época, tiempo histórico o estación temporal. -->
-- [ ] B) Un argumento analógico de autoridad científica.
+- [ ] A) Un argumento analógico de autoridad científica.
   <!-- feedback: Incorrecto. El fragmento no busca justificar una tesis lógica en un debate formal. -->
-- [ ] C) La función metalingüística de los adjetivos de relación.
+- [ ] B) La función metalingüística de los adjetivos de relación.
   <!-- feedback: Incorrecto. Se analiza la tipología textual y estilística, no las reglas de la gramática. -->
-- [ ] D) La métrica del soneto de catorce sílabas.
+- [ ] C) La métrica del soneto de catorce sílabas.
   <!-- feedback: Incorrecto. No se trata de un poema rimado clásico, sino de prosa narrativa o descriptiva. -->
 
 ### Explicación Pedagógica
@@ -292,9 +292,9 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 Considera el siguiente ejemplo escrito: Un novelista describe la plaza colonial de Suchitoto, detallando la fachada de la iglesia, las calles de piedra y la fuente central. ¿Qué técnica descriptiva o componente de la narración se está aplicando?
 
 ### Opciones
-- [x] A) El uso de topografía espacial.
+- [x] B) El uso de topografía espacial.
   <!-- feedback: ¡Correcto! Es topografía espacial porque se centra en describir con precisión un paraje, relieve o lugar físico de manera estática. -->
-- [ ] B) Un argumento analógico de autoridad científica.
+- [ ] A) Un argumento analógico de autoridad científica.
   <!-- feedback: Incorrecto. El fragmento no busca justificar una tesis lógica en un debate formal. -->
 - [ ] C) La función metalingüística de los adjetivos de relación.
   <!-- feedback: Incorrecto. Se analiza la tipología textual y estilística, no las reglas de la gramática. -->
@@ -318,11 +318,11 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 Considera el siguiente ejemplo escrito: Un pasajero del bus hacia Surf City describe el paisaje cambiante de cañaverales, caseríos y palmeras mientras el vehículo corre veloz. ¿Qué técnica descriptiva o componente de la narración se está aplicando?
 
 ### Opciones
-- [x] A) El uso de descripción cinematográfica.
+- [x] C) El uso de descripción cinematográfica.
   <!-- feedback: ¡Correcto! Es descripción cinematográfica porque se centra en describir un entorno geográfico amplio captado por un observador que se encuentra en movimiento. -->
-- [ ] B) Un argumento analógico de autoridad científica.
+- [ ] A) Un argumento analógico de autoridad científica.
   <!-- feedback: Incorrecto. El fragmento no busca justificar una tesis lógica en un debate formal. -->
-- [ ] C) La función metalingüística de los adjetivos de relación.
+- [ ] B) La función metalingüística de los adjetivos de relación.
   <!-- feedback: Incorrecto. Se analiza la tipología textual y estilística, no las reglas de la gramática. -->
 - [ ] D) La métrica del soneto de catorce sílabas.
   <!-- feedback: Incorrecto. No se trata de un poema rimado clásico, sino de prosa narrativa o descriptiva. -->
@@ -344,13 +344,13 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 Considera el siguiente ejemplo escrito: El momento en que el protagonista de la historia de aventuras se extravía en la selva de Sonsonate y debe buscar refugio bajo la tormenta. ¿Qué técnica descriptiva o componente de la narración se está aplicando?
 
 ### Opciones
-- [x] A) El uso de nudo de la narración.
+- [x] D) El uso de nudo de la narración.
   <!-- feedback: ¡Correcto! Es nudo de la narración porque se centra en presentar el conflicto, complicación o nudo que altera el equilibrio inicial de la trama. -->
-- [ ] B) Un argumento analógico de autoridad científica.
+- [ ] A) Un argumento analógico de autoridad científica.
   <!-- feedback: Incorrecto. El fragmento no busca justificar una tesis lógica en un debate formal. -->
-- [ ] C) La función metalingüística de los adjetivos de relación.
+- [ ] B) La función metalingüística de los adjetivos de relación.
   <!-- feedback: Incorrecto. Se analiza la tipología textual y estilística, no las reglas de la gramática. -->
-- [ ] D) La métrica del soneto de catorce sílabas.
+- [ ] C) La métrica del soneto de catorce sílabas.
   <!-- feedback: Incorrecto. No se trata de un poema rimado clásico, sino de prosa narrativa o descriptiva. -->
 
 ### Explicación Pedagógica
@@ -396,9 +396,9 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 Considera el siguiente ejemplo escrito: El texto literario indica que el anciano de Chalatenango le confesó con melancolía que ya no recordaba el camino de regreso. ¿Qué técnica descriptiva o componente de la narración se está aplicando?
 
 ### Opciones
-- [x] A) El uso de diálogo de estilo indirecto.
+- [x] B) El uso de diálogo de estilo indirecto.
   <!-- feedback: ¡Correcto! Es diálogo de estilo indirecto porque se centra en incorporar las palabras de los personajes dentro de la voz del narrador mediante nexos y oraciones subordinadas. -->
-- [ ] B) Un argumento analógico de autoridad científica.
+- [ ] A) Un argumento analógico de autoridad científica.
   <!-- feedback: Incorrecto. El fragmento no busca justificar una tesis lógica en un debate formal. -->
 - [ ] C) La función metalingüística de los adjetivos de relación.
   <!-- feedback: Incorrecto. Se analiza la tipología textual y estilística, no las reglas de la gramática. -->
@@ -422,13 +422,13 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 Considera el siguiente ejemplo escrito: Un poeta describe el Lago de Coatepeque como un espejo mágico de aguas tristes que lloran en silencio la ausencia de su amada lejana. ¿Qué técnica descriptiva o componente de la narración se está aplicando?
 
 ### Opciones
-- [x] A) El uso de descripción subjetiva.
+- [x] D) El uso de descripción subjetiva.
   <!-- feedback: ¡Correcto! Es descripción subjetiva porque se centra en proyectar las emociones, valoraciones afectivas y sentimientos personales del autor sobre el entorno. -->
-- [ ] B) Un argumento analógico de autoridad científica.
+- [ ] A) Un argumento analógico de autoridad científica.
   <!-- feedback: Incorrecto. El fragmento no busca justificar una tesis lógica en un debate formal. -->
-- [ ] C) La función metalingüística de los adjetivos de relación.
+- [ ] B) La función metalingüística de los adjetivos de relación.
   <!-- feedback: Incorrecto. Se analiza la tipología textual y estilística, no las reglas de la gramática. -->
-- [ ] D) La métrica del soneto de catorce sílabas.
+- [ ] C) La métrica del soneto de catorce sílabas.
   <!-- feedback: Incorrecto. No se trata de un poema rimado clásico, sino de prosa narrativa o descriptiva. -->
 
 ### Explicación Pedagógica
@@ -448,9 +448,9 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 Considera el siguiente ejemplo escrito: En un relato sobre la corta de café, los mozos de la hacienda apoyan activamente las faenas que dirige el mandador principal. ¿Qué técnica descriptiva o componente de la narración se está aplicando?
 
 ### Opciones
-- [x] A) El uso de personajes secundarios.
+- [x] B) El uso de personajes secundarios.
   <!-- feedback: ¡Correcto! Es personajes secundarios porque se centra en apoyar las acciones de los protagonistas y dar verosimilitud y dinamismo al relato secundario. -->
-- [ ] B) Un argumento analógico de autoridad científica.
+- [ ] A) Un argumento analógico de autoridad científica.
   <!-- feedback: Incorrecto. El fragmento no busca justificar una tesis lógica en un debate formal. -->
 - [ ] C) La función metalingüística de los adjetivos de relación.
   <!-- feedback: Incorrecto. Se analiza la tipología textual y estilística, no las reglas de la gramática. -->
@@ -474,9 +474,9 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 Considera el siguiente ejemplo escrito: La novela se desenvuelve en un rancho rústico de adobe, rodeado de áridos maizales secos bajo un sol abrasador de mediodía. ¿Qué técnica descriptiva o componente de la narración se está aplicando?
 
 ### Opciones
-- [x] A) El uso de escenario físico.
+- [x] B) El uso de escenario físico.
   <!-- feedback: ¡Correcto! Es escenario físico porque se centra en situar el espacio material, geográfico o ambiente en el cual se desarrollan los acontecimientos narrados. -->
-- [ ] B) Un argumento analógico de autoridad científica.
+- [ ] A) Un argumento analógico de autoridad científica.
   <!-- feedback: Incorrecto. El fragmento no busca justificar una tesis lógica en un debate formal. -->
 - [ ] C) La función metalingüística de los adjetivos de relación.
   <!-- feedback: Incorrecto. Se analiza la tipología textual y estilística, no las reglas de la gramática. -->
@@ -500,9 +500,9 @@ El fragmento reúne todos los rasgos estilísticos y discursivos formales caract
 Considera el siguiente ejemplo escrito: Al finalizar la fábula del torogoz, el escritor coloca un emotivo verso de advertencia sobre los peligros de perder la libertad. ¿Qué técnica descriptiva o componente de la narración se está aplicando?
 
 ### Opciones
-- [x] A) El uso de epifonema de cierre.
+- [x] B) El uso de epifonema de cierre.
   <!-- feedback: ¡Correcto! Es epifonema de cierre porque se centra en concluir una obra con una breve y enérgica reflexión lírica o exclamativa de carácter moral. -->
-- [ ] B) Un argumento analógico de autoridad científica.
+- [ ] A) Un argumento analógico de autoridad científica.
   <!-- feedback: Incorrecto. El fragmento no busca justificar una tesis lógica en un debate formal. -->
 - [ ] C) La función metalingüística de los adjetivos de relación.
   <!-- feedback: Incorrecto. Se analiza la tipología textual y estilística, no las reglas de la gramática. -->

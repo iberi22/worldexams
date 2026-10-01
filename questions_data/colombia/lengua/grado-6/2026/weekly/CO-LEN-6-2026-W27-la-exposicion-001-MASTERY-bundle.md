@@ -57,13 +57,13 @@ La exposición es un género informativo cuyo propósito es presentar un tema de
 ¿Qué defecto tiene la frase de apertura del alumno?
 
 ### Opciones
-- [x] A) Define un término técnico sin explicarlo, de modo que el público no puede comprender el concepto.
+- [x] D) Define un término técnico sin explicarlo, de modo que el público no puede comprender el concepto.
   <!-- feedback: Correcto. Un concepto desconocido no puede aparecer en la definición sin explicación posterior. -->
-- [ ] B) Usa demasiadas palabras, cuando el público solo alcanza a leer la primera línea.
+- [ ] A) Usa demasiadas palabras, cuando el público solo alcanza a leer la primera línea.
   <!-- feedback: Incorrecto. La apertura es breve; el problema no es la longitud sino la falta de explicación. -->
-- [ ] C) No menciona el nombre del expositor, aunque toda exposición debe empezar con la presentación personal.
+- [ ] B) No menciona el nombre del expositor, aunque toda exposición debe empezar con la presentación personal.
   <!-- feedback: Incorrecto. Presentarse es una costumbre, no una exigencia del género expositivo. -->
-- [ ] D) Está escrita en pasado, y el presente es el único tiempo permitido en una exposición.
+- [ ] C) Está escrita en pasado, y el presente es el único tiempo permitido en una exposición.
   <!-- feedback: Incorrecto. La exposición puede usar pasado, presente o futuro según el tema tratado. -->
 
 ### Explicacion Pedagogica
@@ -80,9 +80,9 @@ En un texto expositivo, cada concepto nuevo debe ir acompañado de una explicaci
 ¿Cuál de los siguientes esquemas corresponde a una exposición bien estructurada?
 
 ### Opciones
-- [x] A) Introducción con el tema, desarrollo por etapas ordenadas y conclusión con una síntesis del proceso.
+- [x] B) Introducción con el tema, desarrollo por etapas ordenadas y conclusión con una síntesis del proceso.
   <!-- feedback: Correcto. Es la secuencia estándar: presentar, desarrollar y cerrar con una recapitulación. -->
-- [ ] B) Conclusión, introducción, desarrollo y ejemplos, porque así se responde primero lo principal.
+- [ ] A) Conclusión, introducción, desarrollo y ejemplos, porque así se responde primero lo principal.
   <!-- feedback: Incorrecto. Abrir con la conclusión desorienta al público, que aún no conoce el tema. -->
 - [ ] C) Introducción, desarrollo sin orden, ejemplos y una pregunta al público para terminar.
   <!-- feedback: Incorrecto. El desarrollo desordenado impide comprender la secuencia y la pregunta no cierra. -->
@@ -103,13 +103,13 @@ La exposición oral sigue tres momentos: la introducción, que presenta el tema 
 ¿Cuál de estos datos es pertinente para la exposición sobre el metro de Medellín?
 
 ### Opciones
-- [x] A) Las líneas del sistema, las estaciones que atraviesan los barrios y la fecha en que entró en operación.
+- [x] D) Las líneas del sistema, las estaciones que atraviesan los barrios y la fecha en que entró en operación.
   <!-- feedback: Correcto. Son datos verificables, relacionados con el metro y útiles para contextualizarlo. -->
-- [ ] B) El número de habitantes de Oslo, porque las capitales europeas se parecen a Medellín.
+- [ ] A) El número de habitantes de Oslo, porque las capitales europeas se parecen a Medellín.
   <!-- feedback: Incorrecto. La comparación no tiene relación con el sistema metro que se expone. -->
-- [ ] C) El nombre de una empresa de buses de otra ciudad, porque los transportes se organizan igual en todo el país.
+- [ ] B) El nombre de una empresa de buses de otra ciudad, porque los transportes se organizan igual en todo el país.
   <!-- feedback: Incorrecto. Es un dato ajeno al tema, que no orienta al público sobre el metro de Medellín. -->
-- [ ] D) El récord deportivo de un colegio, porque los datos personales son los más relevantes.
+- [ ] C) El récord deportivo de un colegio, porque los datos personales son los más relevantes.
   <!-- feedback: Incorrecto. Un récord escolar no aporta nada al contenido informativo del metro. -->
 
 ### Explicacion Pedagogica
@@ -126,9 +126,9 @@ Un dato pertinente es el que se relaciona directamente con el tema y puede verif
 ¿Qué procedimiento es más adecuado para asegurar que el público comprenda la exposición?
 
 ### Opciones
-- [x] A) Definir los términos desconocidos, ordenar la información y usar ejemplos, esquemas o imágenes de apoyo.
+- [x] B) Definir los términos desconocidos, ordenar la información y usar ejemplos, esquemas o imágenes de apoyo.
   <!-- feedback: Correcto. Combina claridad conceptual, secuencia lógica y apoyo visual para facilitar la comprensión. -->
-- [ ] B) Leer íntegramente la exposición sin detenerse, porque hablar rápido demuestra dominio del tema.
+- [ ] A) Leer íntegramente la exposición sin detenerse, porque hablar rápido demuestra dominio del tema.
   <!-- feedback: Incorrecto. La velocidad no demuestra dominio y dificulta la comprensión de la audiencia. -->
 - [ ] C) Usar únicamente imágenes sin decir nada, porque el público interpreta mejor lo que ve.
   <!-- feedback: Incorrecto. Las imágenes apoyan la exposición, pero no sustituyen la explicación oral. -->
@@ -149,11 +149,11 @@ Para asegurar la comprensión, el expositor debe anticipar qué sabe el público
 ¿Qué problema de la exposición se puede inferir de la reacción del público?
 
 ### Opciones
-- [x] A) El expositor cumplió la forma pero no la función comunicativa, porque no adecuó el lenguaje a lo que el público sabe.
+- [x] C) El expositor cumplió la forma pero no la función comunicativa, porque no adecuó el lenguaje a lo que el público sabe.
   <!-- feedback: Correcto. Usar tecnicismos sin explicarlos rompe la comunicación aunque la estructura formal sea correcta. -->
-- [ ] B) El expositor habló muy bajo, porque las palabras que nadie entiende siempre dependen del volumen de la voz.
+- [ ] A) El expositor habló muy bajo, porque las palabras que nadie entiende siempre dependen del volumen de la voz.
   <!-- feedback: Incorrecto. El problema no es de volumen sino de vocabulario no explicado ante la audiencia. -->
-- [ ] C) El público estuvo en desacuerdo con el tema, porque toda reacción negativa indica desacuerdo.
+- [ ] B) El público estuvo en desacuerdo con el tema, porque toda reacción negativa indica desacuerdo.
   <!-- feedback: Incorrecto. El murmullo descrito responde a la incomprensión del vocabulario, no a un desacuerdo. -->
 - [ ] D) La exposición fue correcta, porque el uso de palabras difíciles demuestra que el tema es complejo.
   <!-- feedback: Incorrecto. La dificultad del vocabulario no es medida de calidad si el público no comprende. -->
@@ -172,13 +172,13 @@ Un texto cumple su función comunicativa cuando el receptor comprende el mensaje
 ¿Qué aspecto de la exposición se puede analizar con mayor rigor a partir de ese caso?
 
 ### Opciones
-- [x] A) La gestión del tiempo, porque la duración y el ajuste al tiempo asignado determinan si el público alcanza a escuchar.
+- [x] D) La gestión del tiempo, porque la duración y el ajuste al tiempo asignado determinan si el público alcanza a escuchar.
   <!-- feedback: Correcto. El desborde de tiempo es un fallo planificable que se evalúa con evidencia observable. -->
-- [ ] B) La ortografía de las diapositivas, porque el público no alcanzó a leer ningún error.
+- [ ] A) La ortografía de las diapositivas, porque el público no alcanzó a leer ningún error.
   <!-- feedback: Incorrecto. La evidencia no permite afirmar que hubiera errores de ortografía en las diapositivas. -->
-- [ ] C) La sinceridad del expositor, porque una presentación larga demuestra mayor compromiso con el tema.
+- [ ] B) La sinceridad del expositor, porque una presentación larga demuestra mayor compromiso con el tema.
   <!-- feedback: Incorrecto. La extensión no es un indicador de sinceridad ni de compromiso con la materia. -->
-- [ ] D) La cantidad de imágenes, porque las diapositivas con dibujos explican mejor que cualquier exposición.
+- [ ] C) La cantidad de imágenes, porque las diapositivas con dibujos explican mejor que cualquier exposición.
   <!-- feedback: Incorrecto. El caso no aporta información sobre la presencia o la cantidad de imágenes. -->
 
 ### Explicacion Pedagogica
@@ -195,9 +195,9 @@ Analizar una exposición requiere apoyarse en evidencia observable y separar los
 ¿Por qué las fichas de apoyo son una estrategia adecuada para la exposición oral?
 
 ### Opciones
-- [x] A) Porque permiten tener a la vista las ideas clave en el momento en que se necesitan, sin leer de corrido.
+- [x] B) Porque permiten tener a la vista las ideas clave en el momento en que se necesitan, sin leer de corrido.
   <!-- feedback: Correcto. Las fichas estructuran la exposición y liberan al expositor de la lectura continua. -->
-- [ ] B) Porque las fichas reemplazan la preparación y permiten improvisar el tema frente al público.
+- [ ] A) Porque las fichas reemplazan la preparación y permiten improvisar el tema frente al público.
   <!-- feedback: Incorrecto. Las fichas son apoyo; no sustituyen la investigación ni el dominio del tema. -->
 - [ ] C) Porque una presentación con fichas no necesita introducir el tema ni cerrar con una conclusión.
   <!-- feedback: Incorrecto. Toda exposición mantiene sus tres partes, se usen o no fichas de apoyo. -->
@@ -218,9 +218,9 @@ Las fichas de apoyo funcionan como mapa de la exposición: contienen las ideas c
 ¿Qué evaluación de las dos fuentes resulta más fundamentada?
 
 ### Opciones
-- [x] A) La segunda fuente es más sólida porque combina un antecedente histórico con información oficial reciente y verificable.
+- [x] B) La segunda fuente es más sólida porque combina un antecedente histórico con información oficial reciente y verificable.
   <!-- feedback: Correcto. Combina profundidad histórica con datos actuales y de fuente institucional identificable. -->
-- [ ] B) La primera fuente es mejor porque todo libro impreso vale más que cualquier documento oficial digital.
+- [ ] A) La primera fuente es mejor porque todo libro impreso vale más que cualquier documento oficial digital.
   <!-- feedback: Incorrecto. El valor de una fuente depende de su pertinencia y verificabilidad, no de su formato. -->
 - [ ] C) Ambas fuentes son igualmente útiles porque cualquier información sirve para sustentar una exposición.
   <!-- feedback: Incorrecto. Las fuentes se evalúan por su relación con el tema, su fecha y su verificación. -->

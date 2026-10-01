@@ -56,10 +56,10 @@ El 'jopara' (palabra guaraní que significa 'mezcla' o 'combinado') designa la v
 ¿Cuál de las siguientes palabras empleadas en el español paraguayo es un guaranismo lexiográfico de uso extendido?
 
 ### Opciones
-- [x] A) Chipá (o chipa) <!-- feedback: ¡Correcto! Chipa es un guaranismo que designa el pan tradicional preparado a base de almidón de mandioca y queso. -->
-- [ ] B) Cancha <!-- feedback: Incorrecto. "Cancha" es un préstamo del idioma quechua. -->
-- [ ] C) Chocolate <!-- feedback: Incorrecto. Es un préstamo de origen náhuatl. -->
-- [ ] D) Barbacoa <!-- feedback: Incorrecto. Es un préstamo de origen taíno. -->
+- [x] D) Chipá (o chipa) <!-- feedback: ¡Correcto! Chipa es un guaranismo que designa el pan tradicional preparado a base de almidón de mandioca y queso. -->
+- [ ] A) Cancha <!-- feedback: Incorrecto. "Cancha" es un préstamo del idioma quechua. -->
+- [ ] B) Chocolate <!-- feedback: Incorrecto. Es un préstamo de origen náhuatl. -->
+- [ ] C) Barbacoa <!-- feedback: Incorrecto. Es un préstamo de origen taíno. -->
 
 ### Explicacion Pedagogica
 'Chipa' (o chipá) es un guaranismo incorporado al léxico del castellano paraguayo y reconocido por la Real Academia Española.
@@ -119,10 +119,10 @@ La polisemia ocurre cuando un término acumula diferentes acepciones o significa
 En la frase típica del habla coloquial paraguaya: 'Venía de hacia su casa', ¿qué calco de la posposición guaraní '-gotyo' o '-gui' se manifiesta?
 
 ### Opciones
-- [x] A) Acumulación de preposiciones por calco del sistema de posposiciones del guaraní. <!-- feedback: ¡Correcto! El guaraní es una lengua pospositiva, lo que influye en el castellano local mediante combinaciones como "de hacia". -->
-- [ ] B) Uso correcto del subjuntivo de mandato. <!-- feedback: Incorrecto. No atañe al modo verbal subjuntivo. -->
-- [ ] C) Dequeísmo de complemento directo. <!-- feedback: Incorrecto. No hay presencia del nexo "de que". -->
-- [ ] D) Pluralización del verbo impersonal. <!-- feedback: Incorrecto. No interviene el verbo impersonal. -->
+- [x] D) Acumulación de preposiciones por calco del sistema de posposiciones del guaraní. <!-- feedback: ¡Correcto! El guaraní es una lengua pospositiva, lo que influye en el castellano local mediante combinaciones como "de hacia". -->
+- [ ] A) Uso correcto del subjuntivo de mandato. <!-- feedback: Incorrecto. No atañe al modo verbal subjuntivo. -->
+- [ ] B) Dequeísmo de complemento directo. <!-- feedback: Incorrecto. No hay presencia del nexo "de que". -->
+- [ ] C) Pluralización del verbo impersonal. <!-- feedback: Incorrecto. No interviene el verbo impersonal. -->
 
 ### Explicacion Pedagogica
 El contacto de lenguas en Paraguay provoca calcos de las posposiciones guaraníes en la estructura del español regional, generando combinaciones de preposiciones como 'de hacia'.
@@ -140,8 +140,8 @@ El contacto de lenguas en Paraguay provoca calcos de las posposiciones guaraníe
 En la expresión del castellano paraguayo coloquial: '¡Venína un poco!', ¿qué función cumple la partícula de origen guaraní '-na' sufijada al verbo?
 
 ### Opciones
-- [x] A) Atenuación o suavización afectiva de la orden o ruego (partícula atenuadora o de cortesía). <!-- feedback: ¡Correcto! La partícula "-na" suaviza el tono imperativo convirtiéndolo en un pedido amable o afectuoso. -->
-- [ ] B) Negación categórica del mandato. <!-- feedback: Incorrecto. La partícula no niega la acción verbal. -->
+- [x] B) Atenuación o suavización afectiva de la orden o ruego (partícula atenuadora o de cortesía). <!-- feedback: ¡Correcto! La partícula "-na" suaviza el tono imperativo convirtiéndolo en un pedido amable o afectuoso. -->
+- [ ] A) Negación categórica del mandato. <!-- feedback: Incorrecto. La partícula no niega la acción verbal. -->
 - [ ] C) Expresión de duda sobre la llegada de la persona. <!-- feedback: Incorrecto. No es una partícula interrogativa o dubitativa. -->
 - [ ] D) Indicación de tiempo pasado remoto. <!-- feedback: Incorrecto. No cumple función de marcador temporal del pasado. -->
 
@@ -182,8 +182,8 @@ Un campo semántico está constituido por un conjunto de palabras de la misma ca
 En la expresión: 'El país entero celebró la victoria de la selección', ¿qué mecanismo de cambio semántico (metonimia) se produce al usar 'el país'?
 
 ### Opciones
-- [x] A) Metonimia (el contenedor por el contenido: el lugar por los habitantes que viven en él). <!-- feedback: ¡Correcto! "El país" (el contenedor geográfico) sustituye a "los ciudadanos" (el contenido humano). -->
-- [ ] B) Metáfora pura por semejanza física. <!-- feedback: Incorrecto. No hay relación de semejanza entre el país y la gente sino de inclusión espacial. -->
+- [x] B) Metonimia (el contenedor por el contenido: el lugar por los habitantes que viven en él). <!-- feedback: ¡Correcto! "El país" (el contenedor geográfico) sustituye a "los ciudadanos" (el contenido humano). -->
+- [ ] A) Metáfora pura por semejanza física. <!-- feedback: Incorrecto. No hay relación de semejanza entre el país y la gente sino de inclusión espacial. -->
 - [ ] C) Sinestesia de percepción sensorial. <!-- feedback: Incorrecto. La sinestesia cruza sensaciones táctiles, auditivas o visuales. -->
 - [ ] D) Eufemismo de cortesía. <!-- feedback: Incorrecto. No se disimula una palabra tabú. -->
 
@@ -203,9 +203,9 @@ La metonimia se basa en una relación de contigüidad real entre los conceptos (
 ¿Cuál es la diferencia sustancial entre 'bilingüismo' y 'diglosia' en sociolingüística?
 
 ### Opciones
-- [x] A) El bilingüismo es el dominio de dos lenguas por un individuo; la diglosia es la distribución desigual de funciones y prestigio de dos lenguas en la sociedad. <!-- feedback: ¡Correcto! En la diglosia una lengua ocupa el ámbito formal/oficial (lengua A) y otra el informal/familiar (lengua B). -->
-- [ ] B) El bilingüismo ocurre solo en Europa y la diglosia en América. <!-- feedback: Incorrecto. Son fenómenos sociolingüísticos universales. -->
-- [ ] C) La diglosia es la pérdida total de la capacidad de hablar. <!-- feedback: Incorrecto. Confundió diglosia con disfasia o afasia. -->
+- [x] C) El bilingüismo es el dominio de dos lenguas por un individuo; la diglosia es la distribución desigual de funciones y prestigio de dos lenguas en la sociedad. <!-- feedback: ¡Correcto! En la diglosia una lengua ocupa el ámbito formal/oficial (lengua A) y otra el informal/familiar (lengua B). -->
+- [ ] A) El bilingüismo ocurre solo en Europa y la diglosia en América. <!-- feedback: Incorrecto. Son fenómenos sociolingüísticos universales. -->
+- [ ] B) La diglosia es la pérdida total de la capacidad de hablar. <!-- feedback: Incorrecto. Confundió diglosia con disfasia o afasia. -->
 - [ ] D) El bilingüismo prohíbe el uso de conectores gramaticales. <!-- feedback: Incorrecto. Afirmación carente de rigor lingüístico. -->
 
 ### Explicacion Pedagogica
@@ -224,8 +224,8 @@ El bilingüismo refiere a la competencia lingüística individual en dos idiomas
 Según el artículo 140 de la Constitución Nacional de la República del Paraguay de 1992, ¿cuáles son los idiomas oficiales del Estado?
 
 ### Opciones
-- [x] A) El castellano y el guaraní <!-- feedback: ¡Correcto! La Constitución de 1992 declaró al castellano y al guaraní como idiomas oficiales de la República en igualdad de condiciones. -->
-- [ ] B) Únicamente el castellano. <!-- feedback: Incorrecto. Ignora el estatus cooficial del guaraní consagrado en 1992. -->
+- [x] B) El castellano y el guaraní <!-- feedback: ¡Correcto! La Constitución de 1992 declaró al castellano y al guaraní como idiomas oficiales de la República en igualdad de condiciones. -->
+- [ ] A) Únicamente el castellano. <!-- feedback: Incorrecto. Ignora el estatus cooficial del guaraní consagrado en 1992. -->
 - [ ] C) El castellano, el guaraní y el portugués. <!-- feedback: Incorrecto. El portugués no es idioma oficial del Estado paraguayo. -->
 - [ ] D) Únicamente el guaraní. <!-- feedback: Incorrecto. El castellano comparte la cooficialidad. -->
 
@@ -245,10 +245,10 @@ El artículo 140 de la Carta Magna de 1992 elevó al guaraní al rango de idioma
 En las parejas de palabras: I. 'árbol / tajy (lapacho)', II. 'herramienta / martillo', ¿qué relación de inclusión semántica se establece entre el primer y el segundo término?
 
 ### Opciones
-- [x] A) El primer término es el hiperónimo y el segundo es un hipónimo. <!-- feedback: ¡Correcto! El hiperónimo ("árbol") incluye en su significado más general a los hipónimos específicos ("tajy"). -->
-- [ ] B) El primer término es un hipónimo y el segundo es el hiperónimo. <!-- feedback: Incorrecto. Invirtió la jerarquía de inclusión semántica. -->
-- [ ] C) Son términos antónimos complementarios. <!-- feedback: Incorrecto. No hay relación de oposición. -->
-- [ ] D) Son parónimos homófonos. <!-- feedback: Incorrecto. No comparten pronunciación ni forma. -->
+- [x] D) El primer término es el hiperónimo y el segundo es un hipónimo. <!-- feedback: ¡Correcto! El hiperónimo ("árbol") incluye en su significado más general a los hipónimos específicos ("tajy"). -->
+- [ ] A) El primer término es un hipónimo y el segundo es el hiperónimo. <!-- feedback: Incorrecto. Invirtió la jerarquía de inclusión semántica. -->
+- [ ] B) Son términos antónimos complementarios. <!-- feedback: Incorrecto. No hay relación de oposición. -->
+- [ ] C) Son parónimos homófonos. <!-- feedback: Incorrecto. No comparten pronunciación ni forma. -->
 
 ### Explicacion Pedagogica
 Un hiperónimo es una palabra cuyo significado general abarca a otras más específicas denominadas hipónimos (ejemplo: 'árbol' es el hiperónimo de 'tajy' o 'lapacho').
@@ -266,10 +266,10 @@ Un hiperónimo es una palabra cuyo significado general abarca a otras más espec
 ¿Cuál de las siguientes opciones define un hispanismo frecuentemente adaptado a la estructura fonológica del guaraní (ej. 'vaca' -> 'vaka')?
 
 ### Opciones
-- [x] A) Un préstamo o hispanismo fonéticamente adaptado al sistema del guaraní. <!-- feedback: ¡Correcto! La incorporación de léxico español al guaraní (hispanismos) adapta las consonantes y acentos a la fonética nativa. -->
-- [ ] B) Un arcaísmo del castellano medieval de Castilla. <!-- feedback: Incorrecto. Corresponde a un préstamo léxico interlingüístico. -->
-- [ ] C) Un neologismo de la era digital. <!-- feedback: Incorrecto. Son préstamos históricos de la época colonial o republicana. -->
-- [ ] D) Un barbarismo rechazado por los hablantes bilingües. <!-- feedback: Incorrecto. Forma parte natural de la evolución de la lengua guaraní hablada. -->
+- [x] D) Un préstamo o hispanismo fonéticamente adaptado al sistema del guaraní. <!-- feedback: ¡Correcto! La incorporación de léxico español al guaraní (hispanismos) adapta las consonantes y acentos a la fonética nativa. -->
+- [ ] A) Un arcaísmo del castellano medieval de Castilla. <!-- feedback: Incorrecto. Corresponde a un préstamo léxico interlingüístico. -->
+- [ ] B) Un neologismo de la era digital. <!-- feedback: Incorrecto. Son préstamos históricos de la época colonial o republicana. -->
+- [ ] C) Un barbarismo rechazado por los hablantes bilingües. <!-- feedback: Incorrecto. Forma parte natural de la evolución de la lengua guaraní hablada. -->
 
 ### Explicacion Pedagogica
 Los préstamos del castellano adaptados a la fonología guaraní (hispanismos) demuestran la plasticidad y el intercambio dinámico entre ambos idiomas en Paraguay.
@@ -308,10 +308,10 @@ El leísmo de cortesía ('Le saludo a usted') es el empleo de 'le/les' como comp
 ¿Cuál es el objetivo primordial de la Ley de Lenguas N.º 4251 aprobada en Paraguay en el año 2010?
 
 ### Opciones
-- [x] A) Garantizar los derechos lingüísticos individuales y colectivos, y promover la normalización del guaraní en todos los ámbitos públicos y oficiales. <!-- feedback: ¡Correcto! La ley creó la Secretaría de Políticas Lingüísticas y la Academia de la Lengua Guaraní para salvaguardar el bilingüismo real. -->
-- [ ] B) Sustituir la enseñanza del castellano por el inglés en todas las escuelas rurales. <!-- feedback: Incorrecto. La ley fortalece el bilingüismo oficial guaraní-castellano. -->
-- [ ] C) Prohibir la publicación de libros en idiomas extranjeros. <!-- feedback: Incorrecto. No establece censuras a otras lenguas. -->
-- [ ] D) Eliminar el guaraní de la administración de justicia. <!-- feedback: Incorrecto. Al contrario, exige la atención en guaraní en los juzgados. -->
+- [x] D) Garantizar los derechos lingüísticos individuales y colectivos, y promover la normalización del guaraní en todos los ámbitos públicos y oficiales. <!-- feedback: ¡Correcto! La ley creó la Secretaría de Políticas Lingüísticas y la Academia de la Lengua Guaraní para salvaguardar el bilingüismo real. -->
+- [ ] A) Sustituir la enseñanza del castellano por el inglés en todas las escuelas rurales. <!-- feedback: Incorrecto. La ley fortalece el bilingüismo oficial guaraní-castellano. -->
+- [ ] B) Prohibir la publicación de libros en idiomas extranjeros. <!-- feedback: Incorrecto. No establece censuras a otras lenguas. -->
+- [ ] C) Eliminar el guaraní de la administración de justicia. <!-- feedback: Incorrecto. Al contrario, exige la atención en guaraní en los juzgados. -->
 
 ### Explicacion Pedagogica
 La Ley N.º 4251/2010 de Lenguas de Paraguay busca la normalización de la lengua guaraní y la efectivización del derecho de los ciudadanos a ser atendidos en su idioma materno.
@@ -350,10 +350,10 @@ El español paraguayo forma parte de la norma voseante rioplatense, donde 'vos' 
 ¿A qué tipo de variación lingüística corresponde la diferencia de vocabulario y entonación existente entre los hablantes de Asunción y los de zonas rurales de Concepción?
 
 ### Opciones
-- [x] A) Variación diatópica o geográfica (dialecto) <!-- feedback: ¡Correcto! La variación diatópica se debe al origen geográfico o territorial de los hablantes dentro del país. -->
-- [ ] B) Variación diacrónica o histórica <!-- feedback: Incorrecto. La variación diacrónica ocurre a lo largo del tiempo histórico. -->
-- [ ] C) Variación idiolectal médica <!-- feedback: Incorrecto. Corresponde a la jerga profesional. -->
-- [ ] D) Variación de género biológico <!-- feedback: Incorrecto. No se debe al género sino al territorio. -->
+- [x] D) Variación diatópica o geográfica (dialecto) <!-- feedback: ¡Correcto! La variación diatópica se debe al origen geográfico o territorial de los hablantes dentro del país. -->
+- [ ] A) Variación diacrónica o histórica <!-- feedback: Incorrecto. La variación diacrónica ocurre a lo largo del tiempo histórico. -->
+- [ ] B) Variación idiolectal médica <!-- feedback: Incorrecto. Corresponde a la jerga profesional. -->
+- [ ] C) Variación de género biológico <!-- feedback: Incorrecto. No se debe al género sino al territorio. -->
 
 ### Explicacion Pedagogica
 La variación diatópica (o geográfica) abarca las diferencias fonéticas, léxicas y sintácticas que caracterizan la lengua según las distintas zonas o regiones de un país.
@@ -371,9 +371,9 @@ La variación diatópica (o geográfica) abarca las diferencias fonéticas, léx
 ¿Qué factor distingue de manera excepcional al guaraní paraguayo de otras lenguas indígenas de América del Sur?
 
 ### Opciones
-- [x] A) Es hablado por la gran mayoría de la población no indígena (población mestiza) y posee rango constitucional oficial. <!-- feedback: ¡Correcto! Es la única lengua de origen originario en América hablada por la mayoría de la población no indígena de un país. -->
-- [ ] B) Es una lengua muerta que solo se estudia en museos de arqueología. <!-- feedback: Incorrecto. Es una lengua viva hablada por millones de ciudadanos. -->
-- [ ] C) Fue inventada por los navegantes españoles en el siglo XVIII. <!-- feedback: Incorrecto. Es una lengua precolombina de la familia tupí-guaraní. -->
+- [x] C) Es hablado por la gran mayoría de la población no indígena (población mestiza) y posee rango constitucional oficial. <!-- feedback: ¡Correcto! Es la única lengua de origen originario en América hablada por la mayoría de la población no indígena de un país. -->
+- [ ] A) Es una lengua muerta que solo se estudia en museos de arqueología. <!-- feedback: Incorrecto. Es una lengua viva hablada por millones de ciudadanos. -->
+- [ ] B) Fue inventada por los navegantes españoles en el siglo XVIII. <!-- feedback: Incorrecto. Es una lengua precolombina de la familia tupí-guaraní. -->
 - [ ] D) No posee gramática ni alfabeto escrito. <!-- feedback: Incorrecto. Posee un alfabeto oficial y una vasta literatura escrita. -->
 
 ### Explicacion Pedagogica
@@ -413,10 +413,10 @@ La toponimia paraguaya es mayoritariamente guaraní: 'Caacupé' proviene de Ka'a
 ¿Cuál es el dilema pedagógico principal entre la enseñanza del 'guaraní normativo/académico' (guaraní teete) y el uso cotidiano del 'jopara' en las aulas?
 
 ### Opciones
-- [x] A) La tensión entre preservar la pureza estructural y académica de la lengua ancestral frente al reconocimiento de la realidad sociolingüística vital de los alumnos. <!-- feedback: ¡Correcto! Plantea el debate entre el enfoque purista escolar y el enfoque comunicativo real del estudiante. -->
-- [ ] B) La necesidad de eliminar el abecedario guaraní de la imprenta nacional. <!-- feedback: Incorrecto. El abecedario está consolidado e institucionalizado. -->
-- [ ] C) La prohibición de hablar castellano en el recreo escolar. <!-- feedback: Incorrecto. El sistema educativo es bilingüe. -->
-- [ ] D) La exigencia de rendir los exámenes en idioma latín. <!-- feedback: Incorrecto. Totalmente descontextualizado. -->
+- [x] D) La tensión entre preservar la pureza estructural y académica de la lengua ancestral frente al reconocimiento de la realidad sociolingüística vital de los alumnos. <!-- feedback: ¡Correcto! Plantea el debate entre el enfoque purista escolar y el enfoque comunicativo real del estudiante. -->
+- [ ] A) La necesidad de eliminar el abecedario guaraní de la imprenta nacional. <!-- feedback: Incorrecto. El abecedario está consolidado e institucionalizado. -->
+- [ ] B) La prohibición de hablar castellano en el recreo escolar. <!-- feedback: Incorrecto. El sistema educativo es bilingüe. -->
+- [ ] C) La exigencia de rendir los exámenes en idioma latín. <!-- feedback: Incorrecto. Totalmente descontextualizado. -->
 
 ### Explicacion Pedagogica
 El debate sociolingüístico en el aula opone a quienes defienden el guaraní académico purificado (guaraní teete) frente a quienes promueven atender el jopara como vehículo vivo de comunicación.

@@ -29,9 +29,9 @@ Este bundle trabaja la recolección de datos mediante encuestas, la lectura de t
 ### Enunciado
 ¿Qué es una encuesta?
 ### Opciones
-- [x] A) Una técnica para recoger datos preguntando a un grupo de personas
+- [x] B) Una técnica para recoger datos preguntando a un grupo de personas
   <!-- feedback: Es correcta porque la encuesta obtiene información directamente de las respuestas de un grupo. -->
-- [ ] B) Una tabla de multiplicar
+- [ ] A) Una tabla de multiplicar
   <!-- feedback: Error conceptual: las tablas de multiplicar son cálculos numéricos, no recolección de datos. -->
 - [ ] C) Un cálculo de áreas
   <!-- feedback: Error conceptual: el área pertenece a la geometría y no recoge opiniones. -->
@@ -48,13 +48,13 @@ Una encuesta es una herramienta de recolección de datos que consulta a un grupo
 ### Enunciado
 ¿Qué representa la frecuencia en una tabla de conteo?
 ### Opciones
-- [x] A) El número de veces que se repite un dato
+- [x] D) El número de veces que se repite un dato
   <!-- feedback: Es correcta porque la frecuencia cuenta cuántas veces aparece cada valor en el conjunto de datos. -->
-- [ ] B) El precio de cada producto
+- [ ] A) El precio de cada producto
   <!-- feedback: Error conceptual: el precio es un valor comercial, no un conteo de repeticiones. -->
-- [ ] C) El nombre del color favorito
+- [ ] B) El nombre del color favorito
   <!-- feedback: Error conceptual: el nombre es una categoría, no la cantidad de veces que se repite. -->
-- [ ] D) El total de personas que no respondieron
+- [ ] C) El total de personas que no respondieron
   <!-- feedback: Error conceptual: las respuestas no dadas no describen la frecuencia de un dato observado. -->
 ### Explicacion Pedagogica
 La frecuencia indica cuántas veces aparece un mismo dato. Al organizar las frecuencias en una tabla se obtiene una visión ordenada que facilita comparar las categorías.
@@ -67,13 +67,13 @@ La frecuencia indica cuántas veces aparece un mismo dato. Al organizar las frec
 ### Enunciado
 ¿Cuántos estudiantes respondieron la encuesta en total?
 ### Opciones
-- [x] A) 20
+- [x] D) 20
   <!-- feedback: Es correcta porque 8 + 5 + 3 + 4 = 20 respuestas registradas. -->
-- [ ] B) 16
+- [ ] A) 16
   <!-- feedback: Error conceptual: omite una categoría al sumar las frecuencias. -->
-- [ ] C) 18
+- [ ] B) 18
   <!-- feedback: Error conceptual: suma de forma incompleta y deja por fuera dos respuestas. -->
-- [ ] D) 12
+- [ ] C) 12
   <!-- feedback: Error conceptual: cuenta solo parte de las categorías de la tabla. -->
 ### Explicacion Pedagogica
 El total de respuestas se obtiene sumando todas las frecuencias de la tabla. Si las frecuencias son 8, 5, 3 y 4, el total es 20 estudiantes encuestados.
@@ -86,9 +86,9 @@ El total de respuestas se obtiene sumando todas las frecuencias de la tabla. Si 
 ### Enunciado
 ¿Cuál es la frecuencia del fútbol?
 ### Opciones
-- [x] A) 12
+- [x] B) 12
   <!-- feedback: Es correcta porque 12 estudiantes eligieron el fútbol, y ese es el valor de su frecuencia. -->
-- [ ] B) 30
+- [ ] A) 30
   <!-- feedback: Error conceptual: confunde el total de encuestados con la frecuencia de una sola categoría. -->
 - [ ] C) 7
   <!-- feedback: Error conceptual: corresponde a la frecuencia del baloncesto, no del fútbol. -->
@@ -105,11 +105,11 @@ La frecuencia de una categoría es el número de personas que la eligieron. En l
 ### Enunciado
 ¿Cuál es el total de respuestas registradas en la tabla?
 ### Opciones
-- [x] A) 20
+- [x] C) 20
   <!-- feedback: Es correcta porque 7 + 5 + 4 + 4 = 20 respuestas. -->
-- [ ] B) 16
+- [ ] A) 16
   <!-- feedback: Error conceptual: omite una de las categorías al sumar. -->
-- [ ] C) 11
+- [ ] B) 11
   <!-- feedback: Error conceptual: suma solo dos categorías y deja el resto por fuera. -->
 - [ ] D) 24
   <!-- feedback: Error conceptual: suma de más, quizás contando una categoría dos veces. -->
@@ -124,9 +124,9 @@ Sumar las frecuencias de todas las categorías da el tamaño de la muestra. Aqu�
 ### Enunciado
 ¿Qué conclusión es válida según los datos?
 ### Opciones
-- [x] A) El bus es el medio más usado, con 18 de 40 estudiantes
+- [x] B) El bus es el medio más usado, con 18 de 40 estudiantes
   <!-- feedback: Es correcta porque la mayor frecuencia de la tabla es 18, correspondiente al bus. -->
-- [ ] B) La bicicleta es el medio más usado
+- [ ] A) La bicicleta es el medio más usado
   <!-- feedback: Error conceptual: la bicicleta tiene frecuencia 10, menor que el bus. -->
 - [ ] C) Ir a pie es el medio más usado
   <!-- feedback: Error conceptual: a pie tiene frecuencia 8, por debajo del bus. -->
@@ -143,9 +143,9 @@ Leer una tabla consiste en comparar las frecuencias. La categoría con mayor fre
 ### Enunciado
 ¿Cuál afirmación describe mejor la moda de los datos?
 ### Opciones
-- [x] A) La moda es música, porque es el valor con mayor frecuencia
+- [x] B) La moda es música, porque es el valor con mayor frecuencia
   <!-- feedback: Es correcta porque la moda es la categoría que más se repite, y música tiene 20 respuestas. -->
-- [ ] B) La moda es cine por tener la frecuencia menor
+- [ ] A) La moda es cine por tener la frecuencia menor
   <!-- feedback: Error conceptual: la moda es el valor más frecuente, no el menos frecuente. -->
 - [ ] C) La moda es deporte por estar en el medio de la tabla
   <!-- feedback: Error conceptual: la posición en la tabla no define la moda, sino la frecuencia. -->
@@ -162,11 +162,11 @@ La moda es el dato que aparece con mayor frecuencia. Al ordenar las categorías,
 ### Enunciado
 ¿Qué se debe tener en cuenta al comparar las frecuencias de ambas encuestas?
 ### Opciones
-- [x] A) El total de cada encuesta, porque las frecuencias absolutas dependen del tamaño de la muestra
+- [x] C) El total de cada encuesta, porque las frecuencias absolutas dependen del tamaño de la muestra
   <!-- feedback: Es correcta porque una frecuencia de 10 no significa lo mismo en un grupo de 20 que en uno de 40. -->
-- [ ] B) Solo el valor mayor de cada tabla
+- [ ] A) Solo el valor mayor de cada tabla
   <!-- feedback: Error conceptual: comparar solo valores altos ignora el tamaño de cada muestra. -->
-- [ ] C) El color o el tipo de letra usado en la tabla
+- [ ] B) El color o el tipo de letra usado en la tabla
   <!-- feedback: Error conceptual: el formato no influye en la comparación numérica de los datos. -->
 - [ ] D) Que la encuesta más larga siempre tiene el dato más frecuente
   <!-- feedback: Error conceptual: un mayor número de respuestas no garantiza una frecuencia mayor en una categoría. -->
@@ -181,11 +181,11 @@ Las frecuencias absolutas deben interpretarse respecto del total de la muestra. 
 ### Enunciado
 ¿Es correcta la afirmación del estudiante? Justifica tu respuesta.
 ### Opciones
-- [x] A) No, porque la frecuencia mayor indica el dato más común, no necesariamente el más importante
+- [x] C) No, porque la frecuencia mayor indica el dato más común, no necesariamente el más importante
   <!-- feedback: Es correcta porque lo más frecuente describe una tendencia, y la importancia depende del objetivo de la encuesta. -->
-- [ ] B) Sí, siempre el dato más frecuente es el más importante
+- [ ] A) Sí, siempre el dato más frecuente es el más importante
   <!-- feedback: Error conceptual: confunde popularidad estadística con importancia para un objetivo concreto. -->
-- [ ] C) Sí, pero solo en las encuestas de matemáticas
+- [ ] B) Sí, pero solo en las encuestas de matemáticas
   <!-- feedback: Error conceptual: la frecuencia se interpreta igual en cualquier área, no solo en matemáticas. -->
 - [ ] D) No, porque la frecuencia mayor nunca aporta información útil
   <!-- feedback: Error conceptual: la frecuencia mayor sí aporta, pues revela la tendencia del grupo. -->

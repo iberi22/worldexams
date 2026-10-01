@@ -34,11 +34,11 @@ Este bundle contiene 10 preguntas sobre **unidades-medida-conversion** para grad
 ### Opciones
 - [ ] A) 100 metros
   <!-- feedback: Incorrecto. 100 metros equivalen a un hectómetro, no a un kilómetro. -->
-- [x] B) 1 000 metros
+- [x] D) 1 000 metros
   <!-- feedback: Correcto. El prefijo kilo significa mil: 1 km = 1 000 m. -->
-- [ ] C) 10 metros
+- [ ] B) 10 metros
   <!-- feedback: Incorrecto. 10 metros equivalen a un decámetro. -->
-- [ ] D) 10 000 metros
+- [ ] C) 10 000 metros
   <!-- feedback: Incorrecto. Ese valor corresponde a 10 kilómetros, no a uno. -->
 ### Explicacion Pedagogica
 En el sistema métrico decimal, kilo equivale a 1 000. Por eso 1 kilómetro = 1 000 metros, 1 kilogramo = 1 000 gramos y 1 kilolitro = 1 000 litros.
@@ -74,11 +74,11 @@ Para convertir de una unidad menor a una mayor se divide entre la equivalencia (
 ### Opciones
 - [ ] A) 350 metros
   <!-- feedback: Incorrecto. Ese valor multiplica por 100 en vez de por 1 000. -->
-- [x] B) 3 500 metros
+- [x] D) 3 500 metros
   <!-- feedback: Correcto. De km a m se multiplica por 1 000: 3,5 × 1 000 = 3 500 m. -->
-- [ ] C) 35 000 metros
+- [ ] B) 35 000 metros
   <!-- feedback: Incorrecto. Ese valor multiplica por 10 000, diez veces más de lo debido. -->
-- [ ] D) 0,35 metros
+- [ ] C) 0,35 metros
   <!-- feedback: Incorrecto. Ese valor divide en vez de multiplicar. -->
 ### Explicacion Pedagogica
 Convertir de una unidad mayor (km) a una menor (m) exige multiplicar por la equivalencia: 3,5 × 1 000 = 3 500 metros.
@@ -112,9 +112,9 @@ Convertir de una unidad mayor (km) a una menor (m) exige multiplicar por la equi
 ### Enunciado
 ¿Cuántos gramos pesa en total la pesca?
 ### Opciones
-- [ ] A) 1 150 g
+- [ ] B) 1 150 g
   <!-- feedback: Incorrecto. Ese valor suma 4 + 750 sin convertir los kilos a gramos. -->
-- [x] B) 4 750 g
+- [x] A) 4 750 g
   <!-- feedback: Correcto. 4 kg = 4 000 g; 4 000 + 750 = 4 750 g. -->
 - [ ] C) 754 g
   <!-- feedback: Incorrecto. Ese valor trata los 4 kg como si fueran 4 gramos. -->
@@ -134,9 +134,9 @@ Primero se unifican las unidades: 4 kg × 1 000 = 4 000 g. Luego se suma: 4 000 
 ### Opciones
 - [ ] A) La de la Cascada, por 1 148,8 metros
   <!-- feedback: Incorrecto. Ese valor resta mal las cantidades sin convertir 1,2 km a metros. -->
-- [x] B) La del Mirador, por 50 metros
+- [x] C) La del Mirador, por 50 metros
   <!-- feedback: Correcto. 1,2 km = 1 200 m; 1 200 - 1 150 = 50 m a favor del Mirador. -->
-- [ ] C) La de la Cascada, por 50 metros
+- [ ] B) La de la Cascada, por 50 metros
   <!-- feedback: Incorrecto. La diferencia es 50 m, pero a favor del Mirador, no de la Cascada. -->
 - [ ] D) Son iguales porque 1,2 y 1 150 representan lo mismo
   <!-- feedback: Incorrecto. Las unidades difieren: 1,2 km son 1 200 m, no 1 150 m. -->
@@ -152,9 +152,9 @@ Para comparar se unifican unidades: 1,2 × 1 000 = 1 200 m. Como 1 200 > 1 150, 
 ### Enunciado
 ¿A cuántos litros equivalen 2,5 m³?
 ### Opciones
-- [x] A) 2 500 litros
+- [x] B) 2 500 litros
   <!-- feedback: Correcto. 1 m³ = 1 000 L, así que 2,5 × 1 000 = 2 500 litros. -->
-- [ ] B) 250 litros
+- [ ] A) 250 litros
   <!-- feedback: Incorrecto. Ese valor multiplica por 100 en vez de por 1 000. -->
 - [ ] C) 25 000 litros
   <!-- feedback: Incorrecto. Ese valor multiplica por 10 000, diez veces más de lo debido. -->
@@ -174,9 +174,9 @@ Un metro cúbico contiene 1 000 litros (un cubo de 10 dm × 10 dm × 10 dm = 1 0
 ### Opciones
 - [ ] A) 345 minutos
   <!-- feedback: Incorrecto. Ese valor junta los dígitos 3 y 45 sin convertir las horas a minutos. -->
-- [x] B) 225 minutos
+- [x] C) 225 minutos
   <!-- feedback: Correcto. 3 × 60 = 180; 180 + 45 = 225 minutos. -->
-- [ ] C) 345 segundos
+- [ ] B) 345 segundos
   <!-- feedback: Incorrecto. Además de juntar mal los dígitos, cambia la unidad a segundos. -->
 - [ ] D) 135 minutos
   <!-- feedback: Incorrecto. Ese valor multiplica 3 × 45, operación sin sentido en este contexto. -->
@@ -194,9 +194,9 @@ Un metro cúbico contiene 1 000 litros (un cubo de 10 dm × 10 dm × 10 dm = 1 0
 ### Opciones
 - [ ] A) Sí, porque 5 × 250 = 1 250 y 1 250 es mayor que 1,5
   <!-- feedback: Incorrecto. Compara mililitros con litros sin convertir: 1,5 L son 1 500 mL, no 1,5 mL. -->
-- [x] B) No, porque 5 vasos suman 1 250 mL y faltan 250 mL; se necesitan 6 vasos
+- [x] C) No, porque 5 vasos suman 1 250 mL y faltan 250 mL; se necesitan 6 vasos
   <!-- feedback: Correcto. 1,5 L = 1 500 mL; 1 500 ÷ 250 = 6 vasos exactos. Con 5 faltan 250 mL. -->
-- [ ] C) Sí, porque 1,5 litros equivalen a 150 mL y 5 vasos sobran
+- [ ] B) Sí, porque 1,5 litros equivalen a 150 mL y 5 vasos sobran
   <!-- feedback: Incorrecto. 1,5 L equivalen a 1 500 mL, no a 150 mL. -->
 - [ ] D) No, porque se necesitarían 15 vasos de 250 mL
   <!-- feedback: Incorrecto. 15 vasos sumarían 3 750 mL, más del doble de lo pedido. -->
@@ -212,11 +212,11 @@ Unificando a mililitros: 1,5 × 1 000 = 1 500 mL. Dividiendo 1 500 ÷ 250 = 6 va
 ### Enunciado
 ¿Cuál ruta es más corta? Evalúe con la conversión correcta.
 ### Opciones
-- [x] A) La ruta A, porque 2 km y 350 m = 2 350 m, menor que 2 400 m
+- [x] C) La ruta A, porque 2 km y 350 m = 2 350 m, menor que 2 400 m
   <!-- feedback: Correcto. 2 × 1 000 + 350 = 2 350 m; 2 350 < 2 400, así que A es más corta por 50 m. -->
-- [ ] B) La ruta B, porque 2 400 es menor que 2 350
+- [ ] A) La ruta B, porque 2 400 es menor que 2 350
   <!-- feedback: Incorrecto. 2 400 es mayor que 2 350, no menor. -->
-- [ ] C) Son iguales porque ambas rondan los dos kilómetros
+- [ ] B) Son iguales porque ambas rondan los dos kilómetros
   <!-- feedback: Incorrecto. Redondear no es comparar: difieren en 50 metros exactos. -->
 - [ ] D) La ruta A, porque 2 + 350 = 352 es muchísimo menor que 2 400
   <!-- feedback: Incorrecto. La conclusión coincide por casualidad, pero sumar km con m sin convertir es inválido. -->

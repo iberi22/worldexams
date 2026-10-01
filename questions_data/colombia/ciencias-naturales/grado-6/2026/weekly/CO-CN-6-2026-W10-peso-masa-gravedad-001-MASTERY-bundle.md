@@ -72,13 +72,13 @@ Peso es fuerza: resulta de multiplicar la masa por la gravedad y por eso cambia 
 ### Enunciado
 ¿Por qué la mochila pesa más con más libros?
 ### Opciones
-- [x] A) Porque tiene más masa y la Tierra atrae con más fuerza a mayor masa
+- [x] D) Porque tiene más masa y la Tierra atrae con más fuerza a mayor masa
   <!-- feedback: Correcto. A doble masa, doble peso si la gravedad es la misma. -->
-- [ ] B) Porque los libros crean gravedad nueva dentro de la mochila
+- [ ] A) Porque los libros crean gravedad nueva dentro de la mochila
   <!-- feedback: Incorrecto. Los libros no crean gravedad; la Tierra atrae su masa. -->
-- [ ] C) Porque la mochila se vuelve más grande y flota menos
+- [ ] B) Porque la mochila se vuelve más grande y flota menos
   <!-- feedback: Incorrecto. El tamaño no pesa; lo que aumenta es la materia contenida. -->
-- [ ] D) Porque el color de los libros atrae más al suelo
+- [ ] C) Porque el color de los libros atrae más al suelo
   <!-- feedback: Incorrecto. El color no influye en la atracción gravitatoria. -->
 ### Explicacion Pedagogica
 Peso igual a masa por gravedad: si la masa crece y la gravedad local no cambia, el peso crece en la misma proporción.
@@ -92,13 +92,13 @@ Peso igual a masa por gravedad: si la masa crece y la gravedad local no cambia, 
 ### Enunciado
 ¿Por qué el mango cae hacia el suelo y no flota hacia el cielo?
 ### Opciones
-- [x] A) Porque la gravedad de la Tierra lo atrae hacia su centro
+- [x] D) Porque la gravedad de la Tierra lo atrae hacia su centro
   <!-- feedback: Correcto. Toda masa cercana a la Tierra es atraída hacia abajo. -->
-- [ ] B) Porque el mango es demasiado liviano para flotar
+- [ ] A) Porque el mango es demasiado liviano para flotar
   <!-- feedback: Incorrecto. Liviano o pesado, todo cae por la misma atracción; lo liviano cae igual. -->
-- [ ] C) Porque el viento siempre empuja las frutas hacia abajo
+- [ ] B) Porque el viento siempre empuja las frutas hacia abajo
   <!-- feedback: Incorrecto. El viento empuja en varias direcciones; la caída constante la causa la gravedad. -->
-- [ ] D) Porque las hojas empujan el mango con sus ramas
+- [ ] C) Porque las hojas empujan el mango con sus ramas
   <!-- feedback: Incorrecto. La rama lo suelta, no lo lanza; la caída la dirige la gravedad. -->
 ### Explicacion Pedagogica
 La gravedad atrae sin contacto: por eso los frutos, la lluvia y nosotros volvemos al suelo al soltarnos.
@@ -112,11 +112,11 @@ La gravedad atrae sin contacto: por eso los frutos, la lluvia y nosotros volvemo
 ### Enunciado
 ¿Qué instrumento mide el peso y en qué unidad se expresa?
 ### Opciones
-- [x] A) El dinamómetro, que mide fuerzas en newtons
+- [x] C) El dinamómetro, que mide fuerzas en newtons
   <!-- feedback: Correcto. El resorte se estira según la fuerza de atracción. -->
-- [ ] B) La regla, que mide fuerzas en centímetros
+- [ ] A) La regla, que mide fuerzas en centímetros
   <!-- feedback: Incorrecto. La regla mide longitudes, no fuerzas. -->
-- [ ] C) El termómetro, que mide peso en grados
+- [ ] B) El termómetro, que mide peso en grados
   <!-- feedback: Incorrecto. El termómetro mide temperatura, no peso. -->
 - [ ] D) El reloj, que mide masa en segundos
   <!-- feedback: Incorrecto. El reloj mide tiempo, no materia ni fuerza. -->
@@ -132,11 +132,11 @@ Masa con balanza en kilogramos, peso con dinamómetro en newtons: confundirlos e
 ### Enunciado
 ¿Qué análisis explica la caída de ambos objetos?
 ### Opciones
-- [x] A) La gravedad acelera a ambos por igual y caen casi juntos porque la hoja arrugada sufre poco rozamiento
+- [x] C) La gravedad acelera a ambos por igual y caen casi juntos porque la hoja arrugada sufre poco rozamiento
   <!-- feedback: Correcto. Sin mucho aire en contra, la masa no cambia el tiempo de caída. -->
-- [ ] B) La canica cae primero porque la gravedad solo atrae objetos pesados
+- [ ] A) La canica cae primero porque la gravedad solo atrae objetos pesados
   <!-- feedback: Incorrecto. La gravedad atrae toda masa; lo pesado no cae más rápido por ser pesado. -->
-- [ ] C) La hoja flotará para siempre porque no tiene masa
+- [ ] B) La hoja flotará para siempre porque no tiene masa
   <!-- feedback: Incorrecto. La hoja tiene masa pequeña, pero masa al fin, y la gravedad la atrae. -->
 - [ ] D) Ninguno caerá porque en Tunja no hay gravedad
   <!-- feedback: Incorrecto. La gravedad actúa en todo el planeta. -->
@@ -152,9 +152,9 @@ Galileo lo mostró: en caída libre la aceleración es la misma; el aire frena m
 ### Enunciado
 ¿Qué le pasa a su masa y a su peso en la Luna, donde la gravedad es menor?
 ### Opciones
-- [x] A) La masa sigue en 20 kilogramos y el peso disminuye porque hay menos gravedad
+- [x] B) La masa sigue en 20 kilogramos y el peso disminuye porque hay menos gravedad
   <!-- feedback: Correcto. La materia no cambia al viajar; la atracción lunar es unas seis veces menor. -->
-- [ ] B) La masa y el peso se vuelven cero porque en la Luna nada pesa
+- [ ] A) La masa y el peso se vuelven cero porque en la Luna nada pesa
   <!-- feedback: Incorrecto. Menor no es cero; los astronautas pesan menos pero sí pesan. -->
 - [ ] C) La masa disminuye y el peso aumenta al llegar a la Luna
   <!-- feedback: Incorrecto. Es al revés: la masa se conserva y el peso baja. -->
@@ -172,9 +172,9 @@ Masa invariable, peso variable: distinguirlas permite predecir cómo pesaríamos
 ### Enunciado
 ¿Cómo se comparan su masa y su peso?
 ### Opciones
-- [x] A) La de libros tiene más masa y por eso más peso, aunque ocupen igual volumen
+- [x] B) La de libros tiene más masa y por eso más peso, aunque ocupen igual volumen
   <!-- feedback: Correcto. Igual tamaño no es igual materia; el papel es más denso que el algodón. -->
-- [ ] B) Pesan igual porque tienen el mismo tamaño de mochila
+- [ ] A) Pesan igual porque tienen el mismo tamaño de mochila
   <!-- feedback: Incorrecto. El volumen igual no garantiza masa igual. -->
 - [ ] C) La de algodón pesa más porque el algodón es blanco y esponjoso
   <!-- feedback: Incorrecto. Color y esponjosidad no determinan la cantidad de materia. -->
@@ -192,13 +192,13 @@ Analizar masa exige pensar en cantidad de materia y densidad, no solo en el tama
 ### Enunciado
 ¿Qué juicio científico responde al vendedor?
 ### Opciones
-- [x] A) La pulsera no cambia la masa ni la gravedad terrestre, la mochila pesará igual al medirla con dinamómetro
+- [x] D) La pulsera no cambia la masa ni la gravedad terrestre, la mochila pesará igual al medirla con dinamómetro
   <!-- feedback: Correcto. Ningún accesorio apaga la atracción de la Tierra. -->
-- [ ] B) La pulsera sí elimina el peso porque la fe mueve montañas
+- [ ] A) La pulsera sí elimina el peso porque la fe mueve montañas
   <!-- feedback: Incorrecto. Las creencias no modifican fuerzas físicas medibles. -->
-- [ ] C) La mochila flotará si todos creen juntos en la pulsera
+- [ ] B) La mochila flotará si todos creen juntos en la pulsera
   <!-- feedback: Incorrecto. La gravedad no depende de opiniones colectivas. -->
-- [ ] D) El peso desaparece si se camina muy rápido con la pulsera
+- [ ] C) El peso desaparece si se camina muy rápido con la pulsera
   <!-- feedback: Incorrecto. Caminar rápido no anula la atracción gravitatoria. -->
 ### Explicacion Pedagogica
 Evaluar pseudociencia exige medir: si el dinamómetro marca lo mismo con y sin pulsera, no hay efecto real.
@@ -212,9 +212,9 @@ Evaluar pseudociencia exige medir: si el dinamómetro marca lo mismo con y sin p
 ### Enunciado
 ¿Qué evaluación de las tres afirmaciones es científicamente correcta?
 ### Opciones
-- [x] A) La 1 es falsa porque la masa se mide en kilogramos, la 2 es verdadera y la 3 es verdadera
+- [x] B) La 1 es falsa porque la masa se mide en kilogramos, la 2 es verdadera y la 3 es verdadera
   <!-- feedback: Correcto. Corrige la unidad de masa y reconoce que el peso depende de la gravedad local. -->
-- [ ] B) Las tres son verdaderas porque masa y peso son lo mismo
+- [ ] A) Las tres son verdaderas porque masa y peso son lo mismo
   <!-- feedback: Incorrecto. Son magnitudes distintas con unidades distintas. -->
 - [ ] C) Las tres son falsas porque la gravedad no existe
   <!-- feedback: Incorrecto. La gravedad se mide y predice caídas, mareas y órbitas. -->

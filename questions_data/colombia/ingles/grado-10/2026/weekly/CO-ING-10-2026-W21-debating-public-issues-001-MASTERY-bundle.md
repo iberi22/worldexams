@@ -35,8 +35,8 @@ This bundle explores public debate and social issues using B2-level grammar, foc
 "The new subway system is very efficient. ____, it has significantly reduced travel times for commuters."
 
 ### Opciones
-- [ ] A) However <!-- feedback: Incorrect contrast connector. -->
-- [x] B) Furthermore <!-- feedback: Correct addition connector. -->
+- [ ] B) However <!-- feedback: Incorrect contrast connector. -->
+- [x] A) Furthermore <!-- feedback: Correct addition connector. -->
 - [ ] C) Nevertheless <!-- feedback: Incorrect contrast connector. -->
 - [ ] D) On the contrary <!-- feedback: Incorrect. -->
 
@@ -77,8 +77,8 @@ This bundle explores public debate and social issues using B2-level grammar, foc
 "Solar energy is becoming cheaper. ____, it provides a clean alternative to fossil fuels."
 
 ### Opciones
-- [ ] A) Yet <!-- feedback: Incorrect contrast. -->
-- [x] B) Moreover <!-- feedback: Correct addition connector for formal contexts. -->
+- [ ] B) Yet <!-- feedback: Incorrect contrast. -->
+- [x] A) Moreover <!-- feedback: Correct addition connector for formal contexts. -->
 - [ ] C) Despite <!-- feedback: Incorrect preposition. -->
 - [ ] D) Instead <!-- feedback: Incorrect. -->
 
@@ -99,9 +99,9 @@ This bundle explores public debate and social issues using B2-level grammar, foc
 
 ### Opciones
 - [ ] A) Although <!-- feedback: Needs a full clause. -->
-- [x] B) Despite <!-- feedback: Correct. Followed by a noun phrase to show contrast. -->
-- [ ] C) Even though <!-- feedback: Needs a full clause. -->
-- [ ] D) Whereas <!-- feedback: Needs a comparison clause. -->
+- [x] D) Despite <!-- feedback: Correct. Followed by a noun phrase to show contrast. -->
+- [ ] B) Even though <!-- feedback: Needs a full clause. -->
+- [ ] C) Whereas <!-- feedback: Needs a comparison clause. -->
 
 ### Explicación Pedagógica
 'Despite' and 'in spite of' are followed by a noun or gerund to express contrast.
@@ -120,8 +120,8 @@ This bundle explores public debate and social issues using B2-level grammar, foc
 
 ### Opciones
 - [ ] A) in addition <!-- feedback: Incorrect. -->
-- [x] B) whereas <!-- feedback: Correct comparison/contrast connector. -->
-- [ ] C) besides <!-- feedback: Incorrect addition. -->
+- [x] C) whereas <!-- feedback: Correct comparison/contrast connector. -->
+- [ ] B) besides <!-- feedback: Incorrect addition. -->
 - [ ] D) despite <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
@@ -140,8 +140,8 @@ This bundle explores public debate and social issues using B2-level grammar, foc
 "The policy was well-intended. ____, it failed to address the root causes of poverty."
 
 ### Opciones
-- [ ] A) Furthermore <!-- feedback: Incorrect. -->
-- [x] B) Be that as it may <!-- feedback: Correct formal contrast connector. -->
+- [ ] B) Furthermore <!-- feedback: Incorrect. -->
+- [x] A) Be that as it may <!-- feedback: Correct formal contrast connector. -->
 - [ ] C) Likewise <!-- feedback: Incorrect similarity connector. -->
 - [ ] D) As a result <!-- feedback: Incorrect cause-effect. -->
 
@@ -163,8 +163,8 @@ This bundle explores public debate and social issues using B2-level grammar, foc
 ### Opciones
 - [ ] A) by contrast <!-- feedback: Possible, but D is a more direct adverbial link. -->
 - [ ] B) in addition <!-- feedback: Incorrect. -->
-- [ ] C) therefore <!-- feedback: Incorrect cause-effect. -->
-- [x] D) on the other hand <!-- feedback: Correct transition for balanced contrast. -->
+- [ ] D) therefore <!-- feedback: Incorrect cause-effect. -->
+- [x] C) on the other hand <!-- feedback: Correct transition for balanced contrast. -->
 
 ### Explicación Pedagógica
 'On the other hand' is used to present a different, often opposing, aspect of a topic.
@@ -182,8 +182,8 @@ This bundle explores public debate and social issues using B2-level grammar, foc
 "Organic food is often more expensive. ____, it contains fewer pesticides than non-organic options."
 
 ### Opciones
-- [ ] A) Although <!-- feedback: Incorrect syntax. -->
-- [x] B) Nonetheless <!-- feedback: Correct formal contrast connector. -->
+- [ ] B) Although <!-- feedback: Incorrect syntax. -->
+- [x] A) Nonetheless <!-- feedback: Correct formal contrast connector. -->
 - [ ] C) As well as <!-- feedback: Incorrect grammar. -->
 - [ ] D) Even if <!-- feedback: Incorrect. -->
 
@@ -245,9 +245,9 @@ Advanced B2 structure: Negative inversion with 'Not only... but also' to add inf
 "The law is clear on this matter. ____, its application varies significantly between different regions."
 
 ### Opciones
-- [ ] A) Furthermore <!-- feedback: Incorrect addition. -->
-- [ ] B) Correspondingly <!-- feedback: Incorrect similarity. -->
-- [x] C) Paradoxically <!-- feedback: Correct transition showing a surprising contrast. -->
+- [ ] B) Furthermore <!-- feedback: Incorrect addition. -->
+- [ ] C) Correspondingly <!-- feedback: Incorrect similarity. -->
+- [x] A) Paradoxically <!-- feedback: Correct transition showing a surprising contrast. -->
 - [ ] D) Consequently <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica

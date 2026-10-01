@@ -33,13 +33,13 @@ creador: "Jules-Agent"
 ¿Qué acontecimiento histórico fundamental se celebra en el Paraguay en conmemoración a la intimación armada realizada al gobernador español Bernardo de Velasco en la Casa de la Independencia?
 
 ### Opciones
-- [x] A) La Independencia Nacional del Paraguay
+- [x] D) La Independencia Nacional del Paraguay
   <!-- feedback: Correcto. La intimación armada al gobernador Bernardo de Velasco del 14 y 15 de mayo de 1811 marcó el inicio del proceso de emancipación nacional e independencia paraguaya. -->
-- [ ] B) La fundación de la ciudad de Asunción
+- [ ] A) La fundación de la ciudad de Asunción
   <!-- feedback: Incorrecto. Asunción fue fundada el 15 de agosto de 1537 por Juan de Salazar y Espinosa durante la conquista española colonial. -->
-- [ ] C) La firma del Tratado de la Triple Alianza
+- [ ] B) La firma del Tratado de la Triple Alianza
   <!-- feedback: Incorrecto. Este tratado militar e histórico de agresión conjunta de Argentina, Brasil y Uruguay contra el Paraguay se firmó en 1865. -->
-- [ ] D) La finalización de la Guerra del Chaco
+- [ ] C) La finalización de la Guerra del Chaco
   <!-- feedback: Incorrecto. La Guerra del Chaco con Bolivia concluyó en el año 1935 con la firma del protocolo de paz, más de un siglo después. -->
 
 ### Explicacion Pedagogica
@@ -56,9 +56,9 @@ El proceso emancipatorio paraguayo de mayo de 1811 culminó de forma incruenta c
 ¿Qué destacado doctor en teología y jurista paraguayo asumió la conducción absoluta del país y gobernó bajo el título de Dictador Perpetuo de la República desde 1816 hasta su muerte en 1840?
 
 ### Opciones
-- [x] A) El Dr. José Gaspar Rodríguez de Francia
+- [x] B) El Dr. José Gaspar Rodríguez de Francia
   <!-- feedback: Correcto. El Dr. Francia fue el ideólogo de la revolución y gobernó la naciente República de forma absoluta bajo la Dictadura Perpetua consolidando la soberanía. -->
-- [ ] B) Don Carlos Antonio López
+- [ ] A) Don Carlos Antonio López
   <!-- feedback: Incorrecto. Carlos Antonio López asumió el poder como cónsul en 1841 y primer presidente constitucional paraguayo en 1844, sucediendo a la era francista. -->
 - [ ] C) El Gral. Francisco Solano López
   <!-- feedback: Incorrecto. Francisco Solano López, hijo de Carlos Antonio, gobernó el país desde 1862 hasta su trágica muerte en el combate de Cerro Corá en 1870. -->
@@ -79,9 +79,9 @@ El Dr. José Gaspar Rodríguez de Francia, conocido popularmente como 'El Suprem
 ¿Cuál era el objetivo político y estratégico principal de la severa política de aislamiento internacional y clausura de fronteras implementada por el Dr. Francia?
 
 ### Opciones
-- [x] A) Preservar la independencia nacional frente a las pretensiones de anexión de las Provincias Unidas del Río de la Plata y la inestabilidad de las guerras civiles vecinas
+- [x] B) Preservar la independencia nacional frente a las pretensiones de anexión de las Provincias Unidas del Río de la Plata y la inestabilidad de las guerras civiles vecinas
   <!-- feedback: Correcto. El aislamiento protegió al Paraguay de las sangrientas guerras civiles de Argentina y de las pretensiones centralistas de Buenos Aires que buscaban anexar al Paraguay como provincia. -->
-- [ ] B) Fomentar la importación masiva de textiles británicos de forma exclusiva a través de puertos de Chile
+- [ ] A) Fomentar la importación masiva de textiles británicos de forma exclusiva a través de puertos de Chile
   <!-- feedback: Incorrecto. El Dr. Francia prohibió el libre tránsito exterior, de modo que limitó las importaciones inglesas para incentivar el autoabastecimiento soberano. -->
 - [ ] C) Facilitar que la armada brasileña construyera bases navales de agresión militar sobre el río Paraguay
   <!-- feedback: Incorrecto. Dr. Francia vigilaba con estricto celo militar las fronteras nacionales para repeler cualquier incursión de fuerzas portuguesas/brasileñas. -->
@@ -102,11 +102,11 @@ El aislamiento paraguayo francista fue una respuesta de autodefensa geopolítica
 ¿Qué eran las 'Estancias de la Patria' creadas durante el régimen del Dr. Francia y qué rol cumplían en la economía paraguaya?
 
 ### Opciones
-- [x] A) Eran estancias ganaderas estatales destinadas a abastecer de carne al ejército y proveer animales de tiro a pequeños agricultores pobres
+- [x] C) Eran estancias ganaderas estatales destinadas a abastecer de carne al ejército y proveer animales de tiro a pequeños agricultores pobres
   <!-- feedback: Correcto. Estas propiedades estatales aseguraban el autoabastecimiento de carne, cuero y animales de labor bajo control público directo del Estado francista. -->
-- [ ] B) Eran colonias agrícolas exclusivas para el cultivo de té importado de la India y comercializado por mercaderes chinos
+- [ ] A) Eran colonias agrícolas exclusivas para el cultivo de té importado de la India y comercializado por mercaderes chinos
   <!-- feedback: Incorrecto. Se dedicaban principalmente a la cría de ganado bovino y equino nativo, no a cultivos exóticos coloniales asiáticos. -->
-- [ ] C) Eran hoteles de lujo destinados a hospedar a diplomáticos e inversores de potencias extranjeras
+- [ ] B) Eran hoteles de lujo destinados a hospedar a diplomáticos e inversores de potencias extranjeras
   <!-- feedback: Incorrecto. El Paraguay francista limitó al extremo la presencia diplomática extranjera; las estancias eran puramente productivas agrarias. -->
 - [ ] D) Eran puertos marítimos privados que operaban en el océano Atlántico para la armada inglesa
   <!-- feedback: Incorrecto. Paraguay no tiene costas oceánicas, y las estancias eran establecimientos agropecuarios mediterráneos estatales y soberanos. -->
@@ -148,9 +148,9 @@ El Reglamento de 1813 organizó al Paraguay bajo un Consulado compuesto por el D
 ¿Qué medidas políticas aplicó el Dr. Francia para restarle poder e influencia a la antigua élite criolla-española de origen monárquico?
 
 ### Opciones
-- [x] A) Prohibió los matrimonios de españoles con españolas para forzar el mestizaje, confiscó tierras de conspiradores y subordinó a la Iglesia al poder civil del Estado
+- [x] B) Prohibió los matrimonios de españoles con españolas para forzar el mestizaje, confiscó tierras de conspiradores y subordinó a la Iglesia al poder civil del Estado
   <!-- feedback: Correcto. El decreto de matrimonio de 1814 y la persecución a las conspiraciones monárquicas (como la de 1820) desarticularon el poder económico de la élite patricia. -->
-- [ ] B) Nombró a los nobles de España como gobernantes hereditarios perpetuos de todos los departamentos locales
+- [ ] A) Nombró a los nobles de España como gobernantes hereditarios perpetuos de todos los departamentos locales
   <!-- feedback: Incorrecto. El Dr. Francia persiguió la influencia española y eliminó todos los cargos hereditarios coloniales o monárquicos. -->
 - [ ] C) Subvencionó con fondos públicos la construcción de gigantescas iglesias jesuitas en la llanura chaqueña
   <!-- feedback: Incorrecto. El régimen de Francia suprimió las órdenes religiosas y nacionalizó los conventos coloniales, subordinando la Iglesia al control civil. -->
@@ -194,11 +194,11 @@ Las victorias militares de Paraguarí y Tacuarí depararon consecuencias políti
 ¿A través de qué único puerto fluvial habilitado y fuertemente controlado por el Estado realizaba Paraguay su escaso comercio exterior de yerba mate y tabaco con el Brasil?
 
 ### Opciones
-- [x] A) El puerto de Itapúa (actual Encarnación) mediante trueque controlado en la frontera brasileña de São Borja
+- [x] C) El puerto de Itapúa (actual Encarnación) mediante trueque controlado en la frontera brasileña de São Borja
   <!-- feedback: Correcto. El comercio exterior de la época francista no era libre, sino un monopolio fiscal estatal concentrado en Itapúa bajo férrea supervisión militar. -->
-- [ ] B) El puerto marítimo internacional de Ciudad del Este sobre las cataratas del Iguazú
+- [ ] A) El puerto marítimo internacional de Ciudad del Este sobre las cataratas del Iguazú
   <!-- feedback: Incorrecto. Ciudad del Este no existía en esa época histórica del siglo XIX, y no es un puerto marítimo con conexión marina directa. -->
-- [ ] C) La aduana seca de Filadelfia en el Chaco Central con conexión a Bolivia
+- [ ] B) La aduana seca de Filadelfia en el Chaco Central con conexión a Bolivia
   <!-- feedback: Incorrecto. Filadelfia fue fundada en el siglo XX (1927) por colonos menonitas; carecía de existencia e importancia aduanera en la era francista. -->
 - [ ] D) El canal interoceánico de la bahía de Asunción de uso exclusivo británico
   <!-- feedback: Incorrecto. Asunción posee una bahía fluvial interior sobre el río Paraguay, no un canal interoceánico transoceánico de aguas profundas. -->
@@ -217,9 +217,9 @@ La política de aislamiento toleró un comercio muy reducido y vigilado por el E
 A diferencia del convulsionado escenario de guerras civiles y caudillismos armados en las provincias vecinas, ¿cuál fue un logro interno indiscutible de la dictadura francista para la población común paraguaya?
 
 ### Opciones
-- [x] A) El mantenimiento de una paz interna absoluta, la seguridad de caminos rurales, la eliminación de la delincuencia y el autoabastecimiento alimentario básico
+- [x] B) El mantenimiento de una paz interna absoluta, la seguridad de caminos rurales, la eliminación de la delincuencia y el autoabastecimiento alimentario básico
   <!-- feedback: Correcto. El estricto control policial y el fomento agrícola del Dr. Francia libraron al Paraguay de la anarquía violenta y hambrunas que asolaban a la Argentina rioplatense. -->
-- [ ] B) La construcción de una red de ferrocarriles bala que unió Concepción con el mar Atlántico
+- [ ] A) La construcción de una red de ferrocarriles bala que unió Concepción con el mar Atlántico
   <!-- feedback: Incorrecto. Dr. Francia no edificó ferrocarriles (estos llegaron con su sucesor Carlos Antonio López en la década de 1850). -->
 - [ ] C) La instauración de un modelo de elecciones de sufragio universal directo con voto electrónico plurinacional
   <!-- feedback: Incorrecto. Dr. Francia gobernó bajo un régimen dictatorial autocrático, sin partidos políticos de oposición, prensa libre ni elecciones electrónicas modernas. -->
@@ -240,9 +240,9 @@ La paz y estabilidad interna permitieron que el campesinado produjera alimentos 
 ¿Qué desenlace político y represivo tuvo la célebre Conspiración del año 1820 encabezada por destacados próceres de la independencia como Fulgencio Yegros?
 
 ### Opciones
-- [x] A) Fue desarticulada por el dictador y culminó con el fusilamiento y encarcelamiento de los principales próceres militares de 1811, consolidando el poder autocrático absoluto de Francia
+- [x] B) Fue desarticulada por el dictador y culminó con el fusilamiento y encarcelamiento de los principales próceres militares de 1811, consolidando el poder autocrático absoluto de Francia
   <!-- feedback: Correcto. La conspiración abortada fue severamente reprimida por el Dr. Francia, eliminando físicamente a la oposición patricia que intentaba derrocarlo. -->
-- [ ] B) Fulgencio Yegros derrocó de forma exitosa al Dr. Francia e impuso un imperio monárquico aliado a Buenos Aires
+- [ ] A) Fulgencio Yegros derrocó de forma exitosa al Dr. Francia e impuso un imperio monárquico aliado a Buenos Aires
   <!-- feedback: Incorrecto. Yegros fracasó en la conspiración, fue apresado, interrogado y finalmente fusilado en 1821 por orden del dictador de la República. -->
 - [ ] C) Los conspiradores huyeron a Brasil y regresaron con una inmensa flota naval para gobernar el Chaco
   <!-- feedback: Incorrecto. La conspiración ocurrió en la clandestinidad asuncena; los líderes fueron encarcelados o ejecutados dentro del país. -->
@@ -263,11 +263,11 @@ La desarticulación de la conspiración de 1820 representó la liquidación pol�
 Al analizar las medidas económicas y sociales aplicadas por el Dr. Francia, ¿por qué corrientes historiográficas modernas consideran que su gobierno representó una revolución social de corte popular?
 
 ### Opciones
-- [x] A) Porque destruyó el poder terrateniente aristocrático criollo y los privilegios de la Iglesia católica colonial, favoreciendo al campesinado mestizo con el usufructo gratuito de tierras estatales
+- [x] C) Porque destruyó el poder terrateniente aristocrático criollo y los privilegios de la Iglesia católica colonial, favoreciendo al campesinado mestizo con el usufructo gratuito de tierras estatales
   <!-- feedback: Correcto. El Dr. Francia confiscó los bienes de la élite patricia y de las órdenes religiosas, arrendando esas tierras estatales a bajo precio para el sustento agrario campesino. -->
-- [ ] B) Porque firmó un tratado de libre comercio para privatizar los recursos minerales y cederlos a consorcios petroleros de los Estados Unidos
+- [ ] A) Porque firmó un tratado de libre comercio para privatizar los recursos minerales y cederlos a consorcios petroleros de los Estados Unidos
   <!-- feedback: Incorrecto. El régimen de Francia se caracterizó por la fuerte intervención estatal, rechazando concesiones privadas extranjeras coloniales o mineras. -->
-- [ ] C) Porque restauró el régimen de la mita y las encomiendas españolas feudales en beneficio de la corona portuguesa de Río de Janeiro
+- [ ] B) Porque restauró el régimen de la mita y las encomiendas españolas feudales en beneficio de la corona portuguesa de Río de Janeiro
   <!-- feedback: Incorrecto. Al contrario, eliminó privilegios coloniales monárquicos y defendió con firmeza la autodeterminación republicana paraguaya. -->
 - [ ] D) Porque prohibió el uso social y oral de las lenguas indígenas guaraníes en todo el territorio de la República
   <!-- feedback: Incorrecto. El guaraní fue la lengua mayoritaria de la población campesina mestiza y fue plenamente tolerada y hablada de forma cotidiana por las fuerzas militares y civiles francistas. -->
@@ -286,13 +286,13 @@ El Dr. Francia basó la legitimidad de su dictadura en el campesinado paraguayo,
 La destitución definitiva del gobernador español Bernardo de Velasco por parte del triunvirato paraguayo el 9 de junio de 1811 fue precipitada principalmente por:
 
 ### Opciones
-- [x] A) Los rumores fundados de conspiración y negociaciones de Velasco con la corona portuguesa de Brasil para que invadiera militarmente el Paraguay
+- [x] D) Los rumores fundados de conspiración y negociaciones de Velasco con la corona portuguesa de Brasil para que invadiera militarmente el Paraguay
   <!-- feedback: Correcto. Los criollos descubrieron que Velasco pretendía la intervención luso-brasileña para sostener su poder, lo que aceleró su destitución absoluta por los oficiales revolucionarios. -->
-- [ ] B) El ataque sorpresa de una inmensa escuadra naval de guerra enviada por los reyes de Francia desde el mar Caribe
+- [ ] A) El ataque sorpresa de una inmensa escuadra naval de guerra enviada por los reyes de Francia desde el mar Caribe
   <!-- feedback: Incorrecto. Francia se encontraba bajo el dominio de Napoleón Bonaparte y no envió naves de guerra al interior fluvial paraguayo en esa época. -->
-- [ ] C) La exigencia papal de que se nombrara de manera inmediata a un general de la orden jesuita como obispo rey de Asunción
+- [ ] B) La exigencia papal de que se nombrara de manera inmediata a un general de la orden jesuita como obispo rey de Asunción
   <!-- feedback: Incorrecto. Los jesuitas habían sido expulsados de América en el siglo XVIII (1767) y carecían de rol gubernamental en 1811. -->
-- [ ] D) La firma de la anexión voluntaria de las misiones jesuíticas paraguayas al imperio comercial de la Gran Bretaña
+- [ ] C) La firma de la anexión voluntaria de las misiones jesuíticas paraguayas al imperio comercial de la Gran Bretaña
   <!-- feedback: Incorrecto. El Paraguay buscaba su plena independencia soberana de cualquier dominación imperial ajena, no anexarse voluntariamente a Inglaterra. -->
 
 ### Explicacion Pedagogica
@@ -309,13 +309,13 @@ El temor a caer bajo la dominación luso-brasileña unió a los patriotas para f
 ¿Qué principio geopolítico defendió firmemente la delegación paraguaya (encabezada por el Dr. Francia) al firmar el Tratado de 1811 con Buenos Aires?
 
 ### Opciones
-- [x] A) El reconocimiento mutuo de la autonomía del Paraguay para gobernarse por sí mismo, estableciendo relaciones de confederación bajo pautas de igualdad de derechos
+- [x] D) El reconocimiento mutuo de la autonomía del Paraguay para gobernarse por sí mismo, estableciendo relaciones de confederación bajo pautas de igualdad de derechos
   <!-- feedback: Correcto. Paraguay rechazó someterse a Buenos Aires, imponiendo su estatus de provincia autónoma e igual en derechos que daría paso a la declaración absoluta de su República. -->
-- [ ] B) La sumisión tributaria incondicional del Paraguay al virrey establecido en Buenos Aires
+- [ ] A) La sumisión tributaria incondicional del Paraguay al virrey establecido en Buenos Aires
   <!-- feedback: Incorrecto. El virreinato ya estaba derrumbado en el Río de la Plata y Paraguay se emancipó tanto de España como del centralismo porteño de Buenos Aires. -->
-- [ ] C) La cesión definitiva de la Región Oriental a cambio de buques de guerra de la armada brasileña
+- [ ] B) La cesión definitiva de la Región Oriental a cambio de buques de guerra de la armada brasileña
   <!-- feedback: Incorrecto. Paraguay no cedió tierras y resguardó con celo su territorio oriental contra invasiones del Brasil portugués. -->
-- [ ] D) La prohibición de toda actividad portuaria sobre el río Paraguay para obligar al libre comercio terrestre con el mar Caribe
+- [ ] C) La prohibición de toda actividad portuaria sobre el río Paraguay para obligar al libre comercio terrestre con el mar Caribe
   <!-- feedback: Incorrecto. La navegación libre de ríos interiores fue una demanda permanente y soberana del Paraguay para su comercio regional. -->
 
 ### Explicacion Pedagogica
@@ -355,13 +355,13 @@ La sólida formación ilustrada del Dr. Francia moldeó su visión pragmática d
 La supresión definitiva de las órdenes monásticas coloniales y la confiscación de sus cuantiosos bienes corporativos decretadas por el Dr. Francia en 1824 se justificaron políticamente para:
 
 ### Opciones
-- [x] A) Someter la influencia del clero de procedencia exterior al control civil de la República, y utilizar sus riquezas y campos para el presupuesto defensivo estatal y el arrendamiento de tierras campesinas
+- [x] D) Someter la influencia del clero de procedencia exterior al control civil de la República, y utilizar sus riquezas y campos para el presupuesto defensivo estatal y el arrendamiento de tierras campesinas
   <!-- feedback: Correcto. El Dr. Francia suprimió las órdenes religiosas regulares por considerarlas leales a potencias extranjeras (como España o el papado), secularizando sus bienes en beneficio fiscal del Estado. -->
-- [ ] B) Ceder el monopolio absoluto de la educación espiritual y de las tierras madereras a los ministros protestantes de la corona inglesa
+- [ ] A) Ceder el monopolio absoluto de la educación espiritual y de las tierras madereras a los ministros protestantes de la corona inglesa
   <!-- feedback: Incorrecto. Dr. Francia prohibió el ingreso de misioneros o potencias británicas que afectaran la soberanía paraguaya. -->
-- [ ] C) Obligar a todos los monjes asuncenos a enrolarse en las fuerzas de marina de guerra de los Estados Unidos
+- [ ] B) Obligar a todos los monjes asuncenos a enrolarse en las fuerzas de marina de guerra de los Estados Unidos
   <!-- feedback: Incorrecto. Es una afirmación anacrónica y carente de lógica jurídica o militar; las milicias del país eran de reclutamiento puramente nacional paraguayo. -->
-- [ ] D) Instaurar de forma oficial el budismo zen como única religión obligatoria del campesinado mestizo
+- [ ] C) Instaurar de forma oficial el budismo zen como única religión obligatoria del campesinado mestizo
   <!-- feedback: Incorrecto. El pueblo paraguayo conservó su fe católica tradicional secular bajo control y supervisión del poder civil supremo estatal. -->
 
 ### Explicacion Pedagogica
@@ -378,13 +378,13 @@ La reforma eclesiástica de 1824 puso fin a la autonomía de la Iglesia en Parag
 Al analizar la política sociocultural de la época francista, ¿qué factor indirecto favoreció que el idioma guaraní se consolidara como la lengua nacional del Paraguay y no desapareciera frente al castellano?
 
 ### Opciones
-- [x] A) El prolongado aislamiento internacional y la desarticulación de la élite patricia de cultura ilustrada hispana, lo que igualó socialmente a la población mestiza y revalorizó el guaraní hablado cotidianamente
+- [x] D) El prolongado aislamiento internacional y la desarticulación de la élite patricia de cultura ilustrada hispana, lo que igualó socialmente a la población mestiza y revalorizó el guaraní hablado cotidianamente
   <!-- feedback: Correcto. Al debilitarse la élite hispanista y quedar el país aislado de flujos migratorios, el guaraní (lengua del campesinado común y del ejército) se afianzó como el vehículo primordial de integración cultural nacional. -->
-- [ ] B) La promulgación de un decreto supremo de Dr. Francia que prohibía de por vida escribir o hablar palabras en idioma castellano
+- [ ] A) La promulgación de un decreto supremo de Dr. Francia que prohibía de por vida escribir o hablar palabras en idioma castellano
   <!-- feedback: Incorrecto. El castellano siguió siendo la lengua administrativa de la correspondencia oficial de la dictadura, no fue prohibido. -->
-- [ ] C) La importación masiva de diccionarios de guaraní traducidos de forma exclusiva al mandarín por comerciantes chinos
+- [ ] B) La importación masiva de diccionarios de guaraní traducidos de forma exclusiva al mandarín por comerciantes chinos
   <!-- feedback: Incorrecto. No existían redes editoriales chinas que operaran con diccionarios de guaraní en el Paraguay de la primera mitad del siglo XIX. -->
-- [ ] D) La supresión forzada de la población mestiza para repoblar el Paraguay oriental con aborígenes andinos que hablaban quechua
+- [ ] C) La supresión forzada de la población mestiza para repoblar el Paraguay oriental con aborígenes andinos que hablaban quechua
   <!-- feedback: Incorrecto. La base demográfica mestiza hispano-guaraní se mantuvo firme, consolidando su propio idioma vernáculo paraguayo. -->
 
 ### Explicacion Pedagogica
@@ -401,9 +401,9 @@ El aislamiento francista propició un espacio sociocultural endógeno donde el g
 Al evaluar críticamente las facetas contrapuestas de la dictadura del Dr. Francia, ¿cuál de los siguientes juicios sintetiza de mejor manera el debate historiográfico en torno a su figura?
 
 ### Opciones
-- [x] A) Por un lado se critica la supresión de las libertades individuales, la dura persecución penal a opositores y el aislamiento comercial; por el otro se valora la firme defensa de la soberanía nacional, la paz interna y el bienestar agrario del campesinado común
+- [x] B) Por un lado se critica la supresión de las libertades individuales, la dura persecución penal a opositores y el aislamiento comercial; por el otro se valora la firme defensa de la soberanía nacional, la paz interna y el bienestar agrario del campesinado común
   <!-- feedback: Correcto. El debate oscila entre la rigurosa autocracia represiva asfixiante y el indudable éxito patriótico de asegurar la autodeterminación e independencia nacional paraguaya frente al expansionismo exterior. -->
-- [ ] B) Que fue un gobernante de corte monárquico que subordinó de forma voluntaria la soberanía paraguaya a la corona portuguesa a cambio de riquezas personales
+- [ ] A) Que fue un gobernante de corte monárquico que subordinó de forma voluntaria la soberanía paraguaya a la corona portuguesa a cambio de riquezas personales
   <!-- feedback: Incorrecto. Dr. Francia fue un intransigente defensor de la República independiente paraguaya y se caracterizó por una honestidad y austeridad fiscal personal intachable. -->
 - [ ] C) Que logró la industrialización aeroespacial del Chaco paraguayo mediante la importación de reactores nucleares británicos
   <!-- feedback: Incorrecto. Es un anacronismo e imposibilidad tecnológica delirante ajena al Paraguay agrario del siglo XIX. -->
@@ -447,13 +447,13 @@ El aislamiento paraguayo fue una respuesta defensiva que garantizó la supervive
 Al evaluar críticamente el conflicto político e ideológico subyacente entre el dictador Dr. Francia y los próceres militares conjurados en 1820 (como Yegros y Caballero), ¿qué choque de proyectos de país queda en evidencia en esta crisis histórica?
 
 ### Opciones
-- [x] A) El choque entre un modelo criollo terrateniente oligárquico partidario de alianzas con Buenos Aires, frente al modelo jacobino e igualitario de Francia partidario del control estatal absoluto de tierras y autonomía radical
+- [x] D) El choque entre un modelo criollo terrateniente oligárquico partidario de alianzas con Buenos Aires, frente al modelo jacobino e igualitario de Francia partidario del control estatal absoluto de tierras y autonomía radical
   <!-- feedback: Correcto. Fulgencio Yegros y la facción patricia poseían tierras y yerbales, y favorecían el libre comercio y acuerdos con las Provincias Unidas, chocando de frente con la política autárquica populista no elitista del dictador Francia. -->
-- [ ] B) El conflicto sobre la reinstauración obligatoria de la corona española de los Borbones en la bahía de Asunción
+- [ ] A) El conflicto sobre la reinstauración obligatoria de la corona española de los Borbones en la bahía de Asunción
   <!-- feedback: Incorrecto. Ambos bandos eran patriotas de la revolución de 1811; el conflicto residía en el modelo de organización republicana interna y las relaciones porteñas, no en someterse a España. -->
-- [ ] C) La disputa por ceder el Chaco Boreal a los consorcios industriales mineros de la Alemania germánica medieval
+- [ ] B) La disputa por ceder el Chaco Boreal a los consorcios industriales mineros de la Alemania germánica medieval
   <!-- feedback: Incorrecto. No existían tales consorcios madereros alemanes en el Chaco de principios del siglo XIX de forma histórica. -->
-- [ ] D) La prohibición gubernamental de usar carretas de madera para forzar el transporte exclusivo en globos aerostáticos ingleses
+- [ ] C) La prohibición gubernamental de usar carretas de madera para forzar el transporte exclusivo en globos aerostáticos ingleses
   <!-- feedback: Incorrecto. Disputa absurda e inexistente ajena a las tensiones reales de la conformación institucional de la República. -->
 
 ### Explicacion Pedagogica
@@ -470,11 +470,11 @@ La eliminación represiva de los conspiradores de 1820 consolidó un modelo de c
 Al evaluar globalmente el impacto institucional y de soberanía territorial de los gobiernos del Dr. Francia, ¿cuál de las siguientes valoraciones posee mayor sustento empírico e histórico?
 
 ### Opciones
-- [x] A) Garantizó la existencia física e institucional del Paraguay independiente en un momento crítico de anarquía regional, modelando una identidad nacional cohesionada y cimentando las bases materiales de la futura república del siglo XIX
+- [x] C) Garantizó la existencia física e institucional del Paraguay independiente en un momento crítico de anarquía regional, modelando una identidad nacional cohesionada y cimentando las bases materiales de la futura república del siglo XIX
   <!-- feedback: Correcto. El régimen dictatorial francista impidió que las pretensiones centralistas de Buenos Aires o de la corte de Río de Janeiro desmembraran el territorio, forjando una precoz unidad nacional paraguaya basada en el campesinado bilingüe. -->
-- [ ] B) Sometió al Paraguay a una completa ruina económica que obligó a refundar la nación como provincia argentina de forma voluntaria en 1840
+- [ ] A) Sometió al Paraguay a una completa ruina económica que obligó a refundar la nación como provincia argentina de forma voluntaria en 1840
   <!-- feedback: Incorrecto. Paraguay jamás renunció a su independencia; a la muerte de Francia, el país contaba con finanzas públicas saneadas, sin deuda externa y con un fuerte fervor patrio soberano. -->
-- [ ] C) Provocó que la totalidad del territorio nacional fuera colonizado por milicias de caballeros jesuitas de origen germánico
+- [ ] B) Provocó que la totalidad del territorio nacional fuera colonizado por milicias de caballeros jesuitas de origen germánico
   <!-- feedback: Incorrecto. El clero secular fue supeditado estrechamente al control del Estado nacional; no hubo colonizaciones religiosas en el periodo francista. -->
 - [ ] D) Eliminó para siempre el uso oral de la lengua indígena guaraní sustituyéndola de forma militar por el latín clásico de Roma
   <!-- feedback: Incorrecto. El guaraní continuó consolidándose y floreciendo en el seno popular nacional de la población campesina mestiza paraguaya. -->

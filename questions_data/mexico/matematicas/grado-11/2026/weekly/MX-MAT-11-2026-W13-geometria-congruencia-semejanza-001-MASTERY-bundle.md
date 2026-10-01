@@ -55,8 +55,8 @@ Dos figuras son congruentes si existe una isometría (traslación, rotación o r
 ### Opciones
 - [ ] A) AAA (Ángulo-Ángulo-Ángulo) <!-- feedback: AAA solo garantiza semejanza, no congruencia; los triángulos podrían tener diferentes tamaños. -->
 - [ ] B) LLA (Lado-Lado-Ángulo) <!-- feedback: LLA no es un criterio general de congruencia, ya que puede dar lugar a dos triángulos distintos (caso ambiguo). -->
-- [x] C) LAL (Lado-Ángulo-Lado) <!-- feedback: Correcto. Si dos lados y el ángulo comprendido entre ellos son iguales, los triángulos son congruentes. -->
-- [ ] D) SSA (Semejanza-Semejanza-Ángulo) <!-- feedback: Este no es un término técnico reconocido en los criterios de congruencia. -->
+- [x] D) LAL (Lado-Ángulo-Lado) <!-- feedback: Correcto. Si dos lados y el ángulo comprendido entre ellos son iguales, los triángulos son congruentes. -->
+- [ ] C) SSA (Semejanza-Semejanza-Ángulo) <!-- feedback: Este no es un término técnico reconocido en los criterios de congruencia. -->
 
 ### Explicacion Pedagogica
 Los criterios fundamentales para determinar si dos triángulos son congruentes son: LLL (tres lados iguales), LAL (dos lados y el ángulo entre ellos), y ALA (dos ángulos y el lado entre ellos). El criterio LAL asegura que la forma y el tamaño queden fijados.
@@ -75,8 +75,8 @@ Si dos polígonos son semejantes, ¿cuál de las siguientes afirmaciones es siem
 
 ### Opciones
 - [ ] A) Sus lados correspondientes son iguales <!-- feedback: Esto solo ocurre si los polígonos son congruentes. -->
-- [x] B) Sus ángulos correspondientes son iguales <!-- feedback: Correcto. La semejanza conserva la forma, lo que significa que los ángulos se mantienen idénticos. -->
-- [ ] C) Sus áreas son iguales <!-- feedback: Las áreas varían con el cuadrado de la razón de semejanza. -->
+- [x] C) Sus ángulos correspondientes son iguales <!-- feedback: Correcto. La semejanza conserva la forma, lo que significa que los ángulos se mantienen idénticos. -->
+- [ ] B) Sus áreas son iguales <!-- feedback: Las áreas varían con el cuadrado de la razón de semejanza. -->
 - [ ] D) Sus perímetros son iguales <!-- feedback: Los perímetros son proporcionales a la razón de semejanza de los lados. -->
 
 ### Explicacion Pedagogica
@@ -117,9 +117,9 @@ Si en el plano una pared mide 8 cm, ¿cuál es la longitud real de la pared en m
 
 ### Opciones
 - [ ] A) 0.4 m <!-- feedback: Multiplicaste por 5 en lugar de 50 y luego dividiste entre 100. -->
-- [x] B) 4 m <!-- feedback: Correcto. 8 cm × 50 = 400 cm. 400 cm / 100 = 4 m. -->
-- [ ] C) 40 m <!-- feedback: Error en la conversión de centímetros a metros. -->
-- [ ] D) 1.6 m <!-- feedback: No aplicaste correctamente la razón de semejanza (escala). -->
+- [x] D) 4 m <!-- feedback: Correcto. 8 cm × 50 = 400 cm. 400 cm / 100 = 4 m. -->
+- [ ] B) 40 m <!-- feedback: Error en la conversión de centímetros a metros. -->
+- [ ] C) 1.6 m <!-- feedback: No aplicaste correctamente la razón de semejanza (escala). -->
 
 ### Explicacion Pedagogica
 La escala 1:50 significa que cada unidad en el plano representa 50 unidades reales. Así, $8\text{ cm} \cdot 50 = 400\text{ cm}$. Para convertir a metros, dividimos entre 100: $400 / 100 = 4\text{ m}$.
@@ -137,8 +137,8 @@ La escala 1:50 significa que cada unidad en el plano representa 50 unidades real
 Si el cateto menor del segundo triángulo ($\triangle DEF$) mide 9 cm, ¿cuánto mide su hipotenusa?
 
 ### Opciones
-- [ ] A) 12 cm <!-- feedback: Este es el valor del otro cateto, no de la hipotenusa. -->
-- [x] B) 15 cm <!-- feedback: Correcto. La hipotenusa del primer triángulo es 5 cm. La razón de semejanza es 9/3 = 3. Hipotenusa DEF = 5 × 3 = 15. -->
+- [ ] B) 12 cm <!-- feedback: Este es el valor del otro cateto, no de la hipotenusa. -->
+- [x] A) 15 cm <!-- feedback: Correcto. La hipotenusa del primer triángulo es 5 cm. La razón de semejanza es 9/3 = 3. Hipotenusa DEF = 5 × 3 = 15. -->
 - [ ] C) 13 cm <!-- feedback: Confundiste la terna pitagórica o la razón de semejanza. -->
 - [ ] D) 20 cm <!-- feedback: La razón de semejanza es 3, no 4. -->
 
@@ -159,8 +159,8 @@ Si el rectángulo B tiene una base de 20 cm, ¿cuál es su área?
 
 ### Opciones
 - [ ] A) $100\text{ cm}^2$ <!-- feedback: Duplicaste el área porque la base se duplicó, pero el área varía con el cuadrado de la razón. -->
-- [x] B) $200\text{ cm}^2$ <!-- feedback: Correcto. La razón de semejanza es k = 20/10 = 2. La razón de áreas es k² = 4. Área B = 50 × 4 = 200. -->
-- [ ] C) $250\text{ cm}^2$ <!-- feedback: Error en el cálculo de la razón de semejanza o su aplicación. -->
+- [x] C) $200\text{ cm}^2$ <!-- feedback: Correcto. La razón de semejanza es k = 20/10 = 2. La razón de áreas es k² = 4. Área B = 50 × 4 = 200. -->
+- [ ] B) $250\text{ cm}^2$ <!-- feedback: Error en el cálculo de la razón de semejanza o su aplicación. -->
 - [ ] D) $400\text{ cm}^2$ <!-- feedback: Valor incorrecto producto de un error de procedimiento. -->
 
 ### Explicacion Pedagogica
@@ -179,8 +179,8 @@ La razón de semejanza lineal es $k = 20 / 10 = 2$. El área de figuras semejant
 Dos triángulos son semejantes en una proporción de 3:5. Si el perímetro del triángulo más pequeño es de 12 cm, ¿cuál es el perímetro del más grande?
 
 ### Opciones
-- [ ] A) $7.2\text{ cm}$ <!-- feedback: Este valor es menor que el original; calculaste el perímetro del más pequeño si 12 fuera el grande. -->
-- [x] B) $20\text{ cm}$ <!-- feedback: Correcto. 12 / 3 = 4 (unidad de escala). 4 × 5 = 20. O bien, 12 × (5/3) = 20. -->
+- [ ] B) $7.2\text{ cm}$ <!-- feedback: Este valor es menor que el original; calculaste el perímetro del más pequeño si 12 fuera el grande. -->
+- [x] A) $20\text{ cm}$ <!-- feedback: Correcto. 12 / 3 = 4 (unidad de escala). 4 × 5 = 20. O bien, 12 × (5/3) = 20. -->
 - [ ] C) $15\text{ cm}$ <!-- feedback: No aplicaste correctamente la razón de 3:5. -->
 - [ ] D) $33.3\text{ cm}$ <!-- feedback: Error en la operación aritmética de proporcionalidad. -->
 
@@ -202,8 +202,8 @@ Si el área de la proyección es 9 veces mayor que el área del diseño original
 ### Opciones
 - [ ] A) Factor de 9 <!-- feedback: El área aumenta con el cuadrado, el perímetro es lineal. -->
 - [ ] B) Factor de 1.5 <!-- feedback: Este sería el factor si el área hubiera aumentado en 2.25. -->
-- [x] C) Factor de 3 <!-- feedback: Correcto. Si k² = 9 (área), entonces k = √9 = 3. El perímetro aumenta por el factor lineal k = 3. -->
-- [ ] D) Factor de 81 <!-- feedback: Elevaste al cuadrado el factor del área en lugar de obtener su raíz cuadrada. -->
+- [x] D) Factor de 3 <!-- feedback: Correcto. Si k² = 9 (área), entonces k = √9 = 3. El perímetro aumenta por el factor lineal k = 3. -->
+- [ ] C) Factor de 81 <!-- feedback: Elevaste al cuadrado el factor del área en lugar de obtener su raíz cuadrada. -->
 
 ### Explicacion Pedagogica
 La razón de las áreas de figuras semejantes es el cuadrado de la razón de semejanza lineal ($k^2 = 9$). El perímetro, al ser una medida lineal, cambia según la razón de semejanza simple ($k$). Por lo tanto, $k = \sqrt{9} = 3$.
@@ -221,9 +221,9 @@ La razón de las áreas de figuras semejantes es el cuadrado de la razón de sem
 ¿Cuál es la distancia real en kilómetros entre las dos ciudades?
 
 ### Opciones
-- [ ] A) 1.5 km <!-- feedback: Error en el número de ceros al realizar la conversión. -->
-- [ ] B) 15 km <!-- feedback: Te faltó un factor de 10 en la conversión de unidades. -->
-- [x] C) 150 km <!-- feedback: Correcto. 15 cm × 1,000,000 = 15,000,000 cm. Convertido a km: 150 km. -->
+- [ ] B) 1.5 km <!-- feedback: Error en el número de ceros al realizar la conversión. -->
+- [ ] C) 15 km <!-- feedback: Te faltó un factor de 10 en la conversión de unidades. -->
+- [x] A) 150 km <!-- feedback: Correcto. 15 cm × 1,000,000 = 15,000,000 cm. Convertido a km: 150 km. -->
 - [ ] D) 1,500 km <!-- feedback: Añadiste demasiados ceros en la conversión final. -->
 
 ### Explicacion Pedagogica
@@ -242,8 +242,8 @@ Distancia real $= 15\text{ cm} \cdot 1,000,000 = 15,000,000\text{ cm}$. Para con
 El triángulo 2 tiene ángulos de $60^{\circ}$ y $80^{\circ}$. ¿Son estos triángulos semejantes?
 
 ### Opciones
-- [ ] A) No, porque no tienen los mismos dos ángulos dados. <!-- feedback: Debes calcular el tercer ángulo de cada triángulo antes de concluir. -->
-- [x] B) Sí, porque el tercer ángulo de ambos es el mismo ($80^{\circ}$ en el 1 y $40^{\circ}$ en el 2). <!-- feedback: Correcto. Triángulo 1: 180-(40+60)=80. Triángulo 2: 180-(60+80)=40. Ambos tienen ángulos de 40, 60 y 80. -->
+- [ ] B) No, porque no tienen los mismos dos ángulos dados. <!-- feedback: Debes calcular el tercer ángulo de cada triángulo antes de concluir. -->
+- [x] A) Sí, porque el tercer ángulo de ambos es el mismo ($80^{\circ}$ en el 1 y $40^{\circ}$ en el 2). <!-- feedback: Correcto. Triángulo 1: 180-(40+60)=80. Triángulo 2: 180-(60+80)=40. Ambos tienen ángulos de 40, 60 y 80. -->
 - [ ] C) No, porque no conocemos las medidas de sus lados. <!-- feedback: El criterio AA (Ángulo-Ángulo) es suficiente para determinar semejanza sin conocer los lados. -->
 - [ ] D) Solo si los lados correspondientes son iguales. <!-- feedback: Esa sería la condición para la congruencia, no para la semejanza. -->
 
@@ -284,9 +284,9 @@ Debido a que $DE \parallel BC$, el $\triangle ADE$ es semejante al $\triangle AB
 Si el cilindro grande tiene una altura de 10 cm, ¿cuál es su volumen?
 
 ### Opciones
-- [ ] A) $80\text{ cm}^3$ <!-- feedback: Duplicaste el volumen porque la altura se duplicó; el volumen varía con el cubo de la razón. -->
-- [ ] B) $160\text{ cm}^3$ <!-- feedback: Elevaste al cuadrado la razón en lugar de elevarla al cubo. -->
-- [x] C) $320\text{ cm}^3$ <!-- feedback: Correcto. La razón de semejanza es k = 10/5 = 2. La razón de volúmenes es k³ = 2³ = 8. Volumen grande = 40 × 8 = 320. -->
+- [ ] B) $80\text{ cm}^3$ <!-- feedback: Duplicaste el volumen porque la altura se duplicó; el volumen varía con el cubo de la razón. -->
+- [ ] C) $160\text{ cm}^3$ <!-- feedback: Elevaste al cuadrado la razón en lugar de elevarla al cubo. -->
+- [x] A) $320\text{ cm}^3$ <!-- feedback: Correcto. La razón de semejanza es k = 10/5 = 2. La razón de volúmenes es k³ = 2³ = 8. Volumen grande = 40 × 8 = 320. -->
 - [ ] D) $400\text{ cm}^3$ <!-- feedback: Valor incorrecto producto de un error de procedimiento. -->
 
 ### Explicacion Pedagogica
@@ -326,8 +326,8 @@ Al trazar la altura sobre la hipotenusa de un triángulo rectángulo, se generan
 ¿Cuál debe ser la razón de semejanza lineal (factor de escala para la altura) entre una muñeca y la siguiente más pequeña?
 
 ### Opciones
-- [ ] A) $0.5$ <!-- feedback: Si reduces la altura a la mitad, el volumen se reduce a la octava parte (0.125). -->
-- [x] B) $\sqrt[3]{0.5} \approx 0.79$ <!-- feedback: Correcto. Si V2 = 0.5 V1, entonces k³ = 0.5, lo que implica k = ∛0.5. -->
+- [ ] B) $0.5$ <!-- feedback: Si reduces la altura a la mitad, el volumen se reduce a la octava parte (0.125). -->
+- [x] A) $\sqrt[3]{0.5} \approx 0.79$ <!-- feedback: Correcto. Si V2 = 0.5 V1, entonces k³ = 0.5, lo que implica k = ∛0.5. -->
 - [ ] C) $\sqrt{0.5} \approx 0.71$ <!-- feedback: Esta sería la razón si se quisiera reducir el área de la superficie a la mitad. -->
 - [ ] D) $0.25$ <!-- feedback: Este factor reduciría el volumen drásticamente más allá de la mitad. -->
 
@@ -368,8 +368,8 @@ Si el volumen se duplica, la razón de semejanza lineal es $k = \sqrt[3]{2} = 2^
 ¿Cuál es la relación correcta que establece la proporcionalidad en este caso?
 
 ### Opciones
-- [ ] A) $AB/AC = AD/BC$ <!-- feedback: Esta relación no describe correctamente la proporción de la bisectriz. -->
-- [x] B) $AB/AC = BD/DC$ <!-- feedback: Correcto. La bisectriz de un ángulo interior divide al lado opuesto en segmentos proporcionales a los otros dos lados. -->
+- [ ] B) $AB/AC = AD/BC$ <!-- feedback: Esta relación no describe correctamente la proporción de la bisectriz. -->
+- [x] A) $AB/AC = BD/DC$ <!-- feedback: Correcto. La bisectriz de un ángulo interior divide al lado opuesto en segmentos proporcionales a los otros dos lados. -->
 - [ ] C) $AB \cdot AC = BD \cdot DC$ <!-- feedback: Esta es una relación de productos, no de razones directas. -->
 - [ ] D) $AB+BD = AC+DC$ <!-- feedback: No existe tal relación de suma constante por la bisectriz. -->
 
@@ -390,9 +390,9 @@ Si se aplica una homotecia con centro $O$ y razón $k = -2$ a un triángulo, ¿c
 
 ### Opciones
 - [ ] A) El triángulo resultante es el doble de grande y está en la misma posición. <!-- feedback: Una razón negativa implica una inversión de la figura. -->
-- [x] B) El triángulo es el doble de grande, está invertido y se encuentra del otro lado del centro $O$. <!-- feedback: Correcto. El valor absoluto 2 duplica el tamaño, y el signo negativo indica rotación de 180° (inversión). -->
-- [ ] C) El triángulo es la mitad de grande e invertido. <!-- feedback: El tamaño aumenta porque el valor absoluto de la razón es mayor que 1. -->
-- [ ] D) El triángulo es idéntico pero desplazado. <!-- feedback: Eso sería una traslación (isometría), no una homotecia con factor 2. -->
+- [x] D) El triángulo es el doble de grande, está invertido y se encuentra del otro lado del centro $O$. <!-- feedback: Correcto. El valor absoluto 2 duplica el tamaño, y el signo negativo indica rotación de 180° (inversión). -->
+- [ ] B) El triángulo es la mitad de grande e invertido. <!-- feedback: El tamaño aumenta porque el valor absoluto de la razón es mayor que 1. -->
+- [ ] C) El triángulo es idéntico pero desplazado. <!-- feedback: Eso sería una traslación (isometría), no una homotecia con factor 2. -->
 
 ### Explicacion Pedagogica
 En una homotecia, la razón $k$ determina el cambio de tamaño mediante $|k|$. Si $|k| > 1$, la figura se expande. El signo negativo indica que la figura resultante estará invertida respecto al centro de homotecia (una rotación de $180^{\circ}$).
@@ -411,9 +411,9 @@ El Sol es unas 400 veces más grande que la Luna en diámetro. ¿Por qué pueden
 
 ### Opciones
 - [ ] A) Porque la luz se curva al pasar cerca de la Luna. <!-- feedback: El efecto de lente gravitacional existe pero es imperceptible en este contexto. -->
-- [x] B) Porque el Sol está unas 400 veces más lejos de la Tierra que la Luna. <!-- feedback: Correcto. Por semejanza, el diámetro d y la distancia D mantienen la relación d/D constante para que el ángulo aparente sea igual. -->
-- [ ] C) Debido a la refracción atmosférica terrestre. <!-- feedback: La refracción afecta la posición aparente, no el tamaño angular relativo de forma tan drástica. -->
-- [ ] D) Es una ilusión óptica causada por el brillo del Sol. <!-- feedback: Es un hecho geométrico basado en proporciones de distancia y tamaño. -->
+- [x] D) Porque el Sol está unas 400 veces más lejos de la Tierra que la Luna. <!-- feedback: Correcto. Por semejanza, el diámetro d y la distancia D mantienen la relación d/D constante para que el ángulo aparente sea igual. -->
+- [ ] B) Debido a la refracción atmosférica terrestre. <!-- feedback: La refracción afecta la posición aparente, no el tamaño angular relativo de forma tan drástica. -->
+- [ ] C) Es una ilusión óptica causada por el brillo del Sol. <!-- feedback: Es un hecho geométrico basado en proporciones de distancia y tamaño. -->
 
 ### Explicacion Pedagogica
 El tamaño aparente (ángulo subtendido) depende de la relación $\frac{\text{diámetro}}{\text{distancia}}$. Si el Sol es 400 veces más grande ($d_s = 400 d_l$) pero está 400 veces más lejos ($D_s = 400 D_l$), entonces $\frac{d_s}{D_s} = \frac{400 d_l}{400 D_l} = \frac{d_l}{D_l}$, por lo que ambos subtienden el mismo ángulo.
@@ -432,8 +432,8 @@ El tamaño aparente (ángulo subtendido) depende de la relación $\frac{\text{di
 
 ### Opciones
 - [ ] A) Que $a = c$ y $b = d$. <!-- feedback: Esta es la condición de congruencia, no de semejanza. -->
-- [x] B) Que las razones de sus ejes sean iguales ($a/b = c/d$). <!-- feedback: Correcto. La semejanza requiere que la "forma" sea la misma, lo que en elipses depende de su excentricidad o la razón entre sus ejes. -->
-- [ ] C) Que sus áreas sean proporcionales. <!-- feedback: Todas las elipses tienen áreas proporcionales de alguna manera, pero eso no garantiza semejanza de forma. -->
+- [x] C) Que las razones de sus ejes sean iguales ($a/b = c/d$). <!-- feedback: Correcto. La semejanza requiere que la "forma" sea la misma, lo que en elipses depende de su excentricidad o la razón entre sus ejes. -->
+- [ ] B) Que sus áreas sean proporcionales. <!-- feedback: Todas las elipses tienen áreas proporcionales de alguna manera, pero eso no garantiza semejanza de forma. -->
 - [ ] D) Que tengan los mismos focos. <!-- feedback: Tener los mismos focos (confocales) no garantiza tener la misma forma (semejanza). -->
 
 ### Explicacion Pedagogica

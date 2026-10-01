@@ -79,9 +79,9 @@ Juana Azurduy encarna la bravura de las mujeres altoperuanas en la independencia
 ¿Qué suceso heroico del 27 de mayo de 1812 en la colina de San Sebastián (Cochabamba) es recordado como el Día de la Madre en Bolivia?
 
 ### Opciones
-- [x] A) La heroica defensa de la ciudad protagonizada por mujeres, ancianos y niños cochabambinos ante el avance de las tropas del general realista Goyeneche.
+- [x] B) La heroica defensa de la ciudad protagonizada por mujeres, ancianos y niños cochabambinos ante el avance de las tropas del general realista Goyeneche.
   <!-- feedback: Correcto. Ante la ausencia del ejército patriota, las mujeres de Cochabamba (lideradas por la anciana ciega Manuela Gandarillas) se atrincheraron armadas de palos y piedras en la colina de la Coronilla, ofrendando sus vidas por la libertad. -->
-- [ ] B) La firma de la paz definitiva y pacífica entre el general Goyeneche y los terratenientes criollos de Charcas.
+- [ ] A) La firma de la paz definitiva y pacífica entre el general Goyeneche y los terratenientes criollos de Charcas.
   <!-- feedback: Incorrecto. Goyeneche asaltó y masacró de manera despiadada a la población cochabambina en la colina, sin tratados de paz pacíficos. -->
 - [ ] C) La abolición obligatoria del castellano decretada por las mujeres indígenas para imponer el quechua cuzqueño.
   <!-- feedback: Incorrecto. Las heroínas de la Coronilla luchaban por la libertad republicana, sin dictar decretos de prohibición lingüística del castellano. -->
@@ -102,9 +102,9 @@ El heroísmo de las Heroínas de la Coronilla devela el profundo compromiso popu
 ¿Qué importancia militar histórica tuvo la Batalla de Tumusla, librada el 1 de abril de 1825 en territorio de Potosí?
 
 ### Opciones
-- [x] A) Fue el último combate de la guerra de independencia, donde las fuerzas patriotas derrotaron de forma definitiva al general realista Pedro Antonio de Olañeta.
+- [x] B) Fue el último combate de la guerra de independencia, donde las fuerzas patriotas derrotaron de forma definitiva al general realista Pedro Antonio de Olañeta.
   <!-- feedback: Correcto. En Tumusla se libró el combate final de la independencia boliviana, resultando herido de muerte el general realista Olañeta, último bastión del imperio español en el Alto Perú. -->
-- [ ] B) El inicio formal de la mita potosina obligatoria bajo las órdenes de los reyes borbones de España.
+- [ ] A) El inicio formal de la mita potosina obligatoria bajo las órdenes de los reyes borbones de España.
   <!-- feedback: Incorrecto. La mita fue abolida con la independencia; Tumusla representó el fin del dominio colonial español, no el inicio de la mita. -->
 - [ ] C) La invasión naval de la bahía de Antofagasta por parte del ejército de Simón Bolívar en barcos franceses.
   <!-- feedback: Incorrecto. Tumusla fue una batalla terrestre andina potosina, sin participación de buques franceses en playas del Pacífico de Antofagasta. -->
@@ -125,9 +125,9 @@ La Batalla de Tumusla significó la liquidación militar del absolutismo españo
 ¿Qué eran las 'republiquetas' en el contexto de la Guerra de la Independencia de Bolivia?
 
 ### Opciones
-- [x] A) Zonas de resistencia guerrillera rural controladas por caudillos patriotas que operaban de forma autónoma frente a los grandes ejércitos realistas.
+- [x] B) Zonas de resistencia guerrillera rural controladas por caudillos patriotas que operaban de forma autónoma frente a los grandes ejércitos realistas.
   <!-- feedback: Correcto. Las republiquetas fueron focos de resistencia militar y política situados en puntos estratégicos de los valles y altiplano de Charcas, impidiendo que los realistas dominaran el campo. -->
-- [ ] B) Pequeñas colonias feudales autónomas fundadas por el rey de España para alojar a los piratas británicos prisioneros.
+- [ ] A) Pequeñas colonias feudales autónomas fundadas por el rey de España para alojar a los piratas británicos prisioneros.
   <!-- feedback: Incorrecto. No eran colonias reales ni albergaban piratas británicos; eran focos insurgentes patriotas locales contra el imperio de España. -->
 - [ ] C) Silos estatales de almacenamiento de quinua controlados por las aduanas de la corona española.
   <!-- feedback: Incorrecto. Las colcas coloniales o silos de aduana no eran focos guerrilleros revolucionarios patriotas de resistencia. -->
@@ -217,9 +217,9 @@ El Moto Méndez es uno de los héroes populares más queridos de la historia de 
 Si aplicamos la historia militar de las republiquetas al oriente de Bolivia, ¿qué medida revolucionaria y de inclusión de masas ejecutó Ignacio Warnes al mando de la Republiqueta de Santa Cruz?
 
 ### Opciones
-- [x] A) Decretó la liberación de los esclavos afrodescendientes para conformar el batallón de soldados de infantería conocidos como 'los Pardos'.
+- [x] B) Decretó la liberación de los esclavos afrodescendientes para conformar el batallón de soldados de infantería conocidos como 'los Pardos'.
   <!-- feedback: Correcto. Ignacio Warnes aplicó medidas de gran alcance social en Santa Cruz, liberando a los esclavos de las haciendas para integrarlos con dignidad como soldados patriotas en la lucha armada contra los realistas. -->
-- [ ] B) Ordenó la quema de todas las misiones jesuíticas de Chiquitos para confiscar sus violines de madera.
+- [ ] A) Ordenó la quema de todas las misiones jesuíticas de Chiquitos para confiscar sus violines de madera.
   <!-- feedback: Incorrecto. Warnes respetó el patrimonio eclesiástico de las misiones y cooperó con los cabildos indígenas locales de Chiquitos, sin destruirlos. -->
 - [ ] C) Decretó la entrega obligatoria de tierras fiscales a colonos procedentes de Francia para sembrar café.
   <!-- feedback: Incorrecto. No hubo entregas de tierras a colonos franceses ni se promovió el monocultivo de café con tales fines en 1813. -->
@@ -240,9 +240,9 @@ Ignacio Warnes, enviado por el ejército auxiliar argentino, asumió la conducci
 Si aplicamos el análisis del accionar guerrillero de las republiquetas, ¿qué función estratégica cumplía la Republiqueta de Vallegrande conducida por Antonio Juan de Álzaga?
 
 ### Opciones
-- [x] A) Controlaba las rutas y caminos de comunicación de la cordillera andina que conectaban la ciudad de Cochabamba con Santa Cruz de la Sierra.
+- [x] B) Controlaba las rutas y caminos de comunicación de la cordillera andina que conectaban la ciudad de Cochabamba con Santa Cruz de la Sierra.
   <!-- feedback: Correcto. La Republiqueta de Vallegrande hostigaba de forma audaz las líneas de comunicación realistas españolas entre el altiplano de altura y las tierras bajas cruceñas, sirviendo de nexo vital para las caravanas de armas patriotas. -->
-- [ ] B) Construyó una red de astilleros para barcos de guerra nucleares en las orillas del lago Poopó.
+- [ ] A) Construyó una red de astilleros para barcos de guerra nucleares en las orillas del lago Poopó.
   <!-- feedback: Incorrecto. Vallegrande es una región de valles secos terrestres; no cuenta con lagos andinos para barcos ni existía la tecnología de energía nuclear. -->
 - [ ] C) Estableció aduanas comerciales exclusivas para cobrar impuestos en pesos de oro a los comerciantes de la Standard Oil.
   <!-- feedback: Incorrecto. La Standard Oil es una compañía petrolera del siglo XX, ajena al periodo de 1810 a 1825 de la guerra de independencia. -->
@@ -263,11 +263,11 @@ La Republiqueta de Vallegrande formaba parte del sistema de focos guerrilleros d
 Al analizar el impacto socioeconómico de los quince años de guerra constante en el Alto Perú, ¿qué factor destructivo mermó la viabilidad inicial del Estado de Bolivia en 1825?
 
 ### Opciones
-- [x] A) La parálisis total de la minería de la plata por inundaciones periódicas, el despoblamiento de estancias y la fuga de capitales de los azogueros.
+- [x] C) La parálisis total de la minería de la plata por inundaciones periódicas, el despoblamiento de estancias y la fuga de capitales de los azogueros.
   <!-- feedback: Correcto. Tres lustros de hostilidades y guerras asolaron las haciendas de beneficio, inhabilitaron las minas andinas y ahuyentaron los capitales de inversión potosinos, heredando el nuevo Estado una severa crisis económica de iliquidez fiscal. -->
-- [ ] B) La prohibición total de cultivar papa y quinua en el altiplano andino central por orden de Simón Bolívar.
+- [ ] A) La prohibición total de cultivar papa y quinua en el altiplano andino central por orden de Simón Bolívar.
   <!-- feedback: Incorrecto. Bolívar y Sucre deseaban potenciar la agricultura altiplánica para alimentar a la población andina, no la prohibieron. -->
-- [ ] C) La inundación masiva de la Casa de la Moneda de Potosí por las mareas altas del océano Pacífico.
+- [ ] B) La inundación masiva de la Casa de la Moneda de Potosí por las mareas altas del océano Pacífico.
   <!-- feedback: Incorrecto. Potosí es mediterráneo andino terrestre elevado, sin relación física con mareas oceánicas altas del Pacífico. -->
 - [ ] D) La adopción forzosa de la moneda brasileña de oro de las aduanas de la corona del Brasil de forma obligatoria.
   <!-- feedback: Incorrecto. La moneda de Bolivia continuó basándose en el peso de plata y no se adoptó moneda brasileña de oro. -->
@@ -309,11 +309,11 @@ Esta tensión estructural de clases sociales persistiría tras el nacimiento de 
 Al analizar críticamente las expediciones de los Ejércitos Auxiliares argentinos al Alto Perú, ¿qué factor de descontento local provocó el rechazo de la población de Charcas?
 
 ### Opciones
-- [x] A) El comportamiento de indisciplina y saqueo de las tropas de Buenos Aires en las urbes de Potosí y La Plata, tratadas como provincias conquistadas.
+- [x] C) El comportamiento de indisciplina y saqueo de las tropas de Buenos Aires en las urbes de Potosí y La Plata, tratadas como provincias conquistadas.
   <!-- feedback: Correcto. El atropellamiento y saqueo perpetrado por los ejércitos auxiliares argentinos (especialmente bajo el mando de Castelli y Alvear) en la aduana de Potosí indignaron a la población criolla de Charcas, acelerando las tendencias autonomistas locales. -->
-- [ ] B) La orden de Buenos Aires de demoler el Cerro Rico de Potosí de forma física utilizando explosivos nucleares.
+- [ ] A) La orden de Buenos Aires de demoler el Cerro Rico de Potosí de forma física utilizando explosivos nucleares.
   <!-- feedback: Incorrecto. No existían explosivos nucleares en la era colonial andina y es físicamente imposible demoler una montaña andina de ese tamaño. -->
-- [ ] C) La prohibición absoluta de la fe católica andina para declarar la fe budista obligatoria en Sucre.
+- [ ] B) La prohibición absoluta de la fe católica andina para declarar la fe budista obligatoria en Sucre.
   <!-- feedback: Incorrecto. Tanto Buenos Aires como Charcas compartían el catolicismo devoto, sin relación con el budismo o la abolición del culto. -->
 - [ ] D) La exigencia de que todos los habitantes de Bolivia hablaran portugués de manera obligatoria bajo penas de cárcel.
   <!-- feedback: Incorrecto. Buenos Aires era de habla hispana, opuesta al expansionismo portugués; no impuso el portugués en Charcas. -->
@@ -355,11 +355,11 @@ La transición del orden colonial al republicano andino representó una recompos
 ¿Qué contradicción militar realista de la campaña del Alto Perú devela el trágico suplicio y muerte del caudillo Manuel Ascensio Padilla en 1816?
 
 ### Opciones
-- [x] A) La radicalización armada y de exterminio del ejército español conducido por de la Pezuela, que ejecutaba sin piedad a los cabecillas patriotas rurales.
+- [x] C) La radicalización armada y de exterminio del ejército español conducido por de la Pezuela, que ejecutaba sin piedad a los cabecillas patriotas rurales.
   <!-- feedback: Correcto. La decapitación de Padilla en el combate del Villar (septiembre de 1816) y la decapitación de otros líderes de republiquetas evidenció el carácter de exterminio de la guerra, donde los realistas no tomaban prisioneros políticos. -->
-- [ ] B) La alianza secreta de los españoles con los generales franceses del ejército de Napoleón Bonaparte en Potosí.
+- [ ] A) La alianza secreta de los españoles con los generales franceses del ejército de Napoleón Bonaparte en Potosí.
   <!-- feedback: Incorrecto. España combatía contra las tropas francesas napoleónicas en la península, sin alianza alguna con generales franceses en Charcas. -->
-- [ ] C) La prohibición real decretada por el papa de que los sacerdotes oficiaran matrimonios en templos andinos.
+- [ ] B) La prohibición real decretada por el papa de que los sacerdotes oficiaran matrimonios en templos andinos.
   <!-- feedback: Incorrecto. El culto católico continuó rigiendo de forma oficial en ambos bandos realistas y patriotas, sin prohibición papal de matrimonios. -->
 - [ ] D) La entrega forzosa de la Casa de la Moneda de Potosí al Paraguay a cambio de barcos de guerra a vapor.
   <!-- feedback: Incorrecto. Paraguay no participó en la contienda de 1816 y la Casa de la Moneda continuó bajo control español, sin relación con barcos paraguayos. -->
@@ -378,13 +378,13 @@ La campaña represiva realista de 1816 devela la brutalidad militar de la Guerra
 Al analizar críticamente las relaciones políticas entre las republiquetas altoperuanas, ¿qué asimetría de coordinación militar impidió un mando unificado patriota?
 
 ### Opciones
-- [x] A) Las fuertes rivalidades y el caudillismo agrario local de los jefes guerrilleros, que preferían gobernar autónomamente sus territorios de valles.
+- [x] D) Las fuertes rivalidades y el caudillismo agrario local de los jefes guerrilleros, que preferían gobernar autónomamente sus territorios de valles.
   <!-- feedback: Correcto. El carácter fragmentario y autónomo de las republiquetas (caudillismo rural) dificultaba la coordinación militar de gran calado, facilitando que el disciplinado ejército español realista las hostigara y derrotara de forma sucesiva por separado. -->
-- [ ] B) El desacuerdo sobre si la moneda de Bolivia debía acuñarse en pesos de oro del Brasil o libras esterlinas.
+- [ ] A) El desacuerdo sobre si la moneda de Bolivia debía acuñarse en pesos de oro del Brasil o libras esterlinas.
   <!-- feedback: Incorrecto. No existían monedas de Brasil o libras esterlinas circulando legalmente y la moneda era el peso de plata potosino. -->
-- [ ] C) La exigencia de que todos los guerrilleros hablaran de manera obligatoria el idioma portugués bajo el bando patriota.
+- [ ] B) La exigencia de que todos los guerrilleros hablaran de manera obligatoria el idioma portugués bajo el bando patriota.
   <!-- feedback: Incorrecto. El idioma oficial patriota era el castellano y no se impuso el portugués en ningún regimiento de republiquetas. -->
-- [ ] D) La prohibición absoluta de cultivar papa y quinua decretada de forma obligatoria por los incas del Cuzco.
+- [ ] C) La prohibición absoluta de cultivar papa y quinua decretada de forma obligatoria por los incas del Cuzco.
   <!-- feedback: Incorrecto. La quinua y la papa eran los cultivos de subsistencia alimentaria guerrillera andina, apoyados por los incas en épocas pasadas. -->
 
 ### Explicacion Pedagogica
@@ -401,13 +401,13 @@ Este caudillismo andino-guerrillero local sembró las bases de la fragmentación
 Al juzgar de manera integral el papel de las guerrillas de las republiquetas frente a la posterior campaña libertadora exterior de Bolívar y Sucre, ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?
 
 ### Opciones
-- [x] A) Las republiquetas sostuvieron de forma real y prolongada la defensa del territorio por quince años, desgastando al ejército realista y preparando el terreno para la liberación final de los libertadores.
+- [x] D) Las republiquetas sostuvieron de forma real y prolongada la defensa del territorio por quince años, desgastando al ejército realista y preparando el terreno para la liberación final de los libertadores.
   <!-- feedback: Correcto. Una evaluación de largo plazo devela que la victoria de Ayacucho y de los ejércitos bolivarianos libertadores del norte en 1824-1825 coronó un proceso de desgaste militar formidable sostenido de forma fáctica por las guerrillas de base popular andina de las republiquetas. -->
-- [ ] B) Las republiquetas carecieron de importancia militar real debido a que las batallas de la independencia se decidieron de forma pacífica por mar.
+- [ ] A) Las republiquetas carecieron de importancia militar real debido a que las batallas de la independencia se decidieron de forma pacífica por mar.
   <!-- feedback: Incorrecto. Las batallas fueron puramente terrestres andinas y sumamente violentas, sin que el Litoral decidiera pacíficamente el fin de la guerra de independencia. -->
-- [ ] C) El movimiento guerrillero fue destructivo porque toda la población andina deseaba continuar bajo el yugo colonial real de la corona de España.
+- [ ] B) El movimiento guerrillero fue destructivo porque toda la población andina deseaba continuar bajo el yugo colonial real de la corona de España.
   <!-- feedback: Incorrecto. Las transformaciones republicanas contaban con amplio respaldo andino y de valles; no se deseaba continuar bajo el yugo de la corona española. -->
-- [ ] D) Las republiquetas se rindieron inmediatamente en su primer año de guerra en 1809, disolviéndose de forma voluntaria en favor de los realistas.
+- [ ] C) Las republiquetas se rindieron inmediatamente en su primer año de guerra en 1809, disolviéndose de forma voluntaria en favor de los realistas.
   <!-- feedback: Incorrecto. Lejos de disolverse, resistieron con tenacidad y fiereza por quince años hasta el año fundacional de la república de 1825. -->
 
 ### Explicacion Pedagogica
@@ -447,13 +447,13 @@ La herencia de la guerra de independencia devela el desencuentro civilizatorio f
 Al evaluar críticamente el legado de las republiquetas en la delimitación geográfica y departamental inicial de la joven República de Bolivia en 1825, ¿cuál de las siguientes conclusiones posee mayor validez?
 
 ### Opciones
-- [x] A) La geografía de resistencia de las republiquetas (como las de Vallegrande, Tarija y Santa Cruz) delineó los primeros contornos de integración regional andina y llanera de Bolivia.
+- [x] D) La geografía de resistencia de las republiquetas (como las de Vallegrande, Tarija y Santa Cruz) delineó los primeros contornos de integración regional andina y llanera de Bolivia.
   <!-- feedback: Correcto. La movilización y el control militar de facto ejercido por las distintas republiquetas en el Alto Perú prefiguraron los espacios territoriales y de poder de las provincias autónomas que luego conformaron los departamentos de Bolivia. -->
-- [ ] B) Fue nulo debido a que las fronteras de Bolivia se trazaron de forma voluntaria en un tratado secreto con el Imperio del Japón.
+- [ ] A) Fue nulo debido a que las fronteras de Bolivia se trazaron de forma voluntaria en un tratado secreto con el Imperio del Japón.
   <!-- feedback: Incorrecto. No existían tratados de fronteras con Japón y la delimitación se basó en el uti possidetis de Charcas de 1810. -->
-- [ ] C) Provocó que Simón Bolívar anulara el Acta de Independencia de Bolivia para regalar el Chaco completo al Paraguay.
+- [ ] B) Provocó que Simón Bolívar anulara el Acta de Independencia de Bolivia para regalar el Chaco completo al Paraguay.
   <!-- feedback: Incorrecto. Bolívar refrendó el Acta de Independencia del 6 de agosto de 1825 y defendió la soberanía territorial andina y chaqueña de Bolivia. -->
-- [ ] D) Obligó al parlamento de Bolivia a prohibir de manera obligatoria la minería de estaño para cultivar yuca amazónica.
+- [ ] C) Obligó al parlamento de Bolivia a prohibir de manera obligatoria la minería de estaño para cultivar yuca amazónica.
   <!-- feedback: Incorrecto. La minería de estaño y plata continuó estimulándose y no se prohibió con fines de forzar el cultivo boseño de yuca. -->
 
 ### Explicacion Pedagogica
@@ -470,9 +470,9 @@ La geografía de las republiquetas consolidó identidades provinciales vigorosas
 Al evaluar globalmente el rol de las republiquetas en la posterior exclusión social de los combatientes indígenas tras 1825, ¿cuál de las siguientes valoraciones posee mayor sustento?
 
 ### Opciones
-- [x] A) Devela la honda fisura de la república señorial, que se valió de la fuerza militar y el sacrificio indígena andino en las republiquetas para luego privarles de la propiedad de la tierra y del derecho a votar.
+- [x] B) Devela la honda fisura de la república señorial, que se valió de la fuerza militar y el sacrificio indígena andino en las republiquetas para luego privarles de la propiedad de la tierra y del derecho a votar.
   <!-- feedback: Correcto. La consolidación de la república minera terrateniente reprodujo el colonialismo interno: las mayorías indígenas que combatieron y murieron en las republiquetas fueron reducidas al régimen servil agrario del pongueaje, marginadas de la ciudadanía por un siglo. -->
-- [ ] B) Demuestra que los combatientes indígenas prefirieron renunciar de forma voluntaria a la propiedad de sus tierras comunales.
+- [ ] A) Demuestra que los combatientes indígenas prefirieron renunciar de forma voluntaria a la propiedad de sus tierras comunales.
   <!-- feedback: Incorrecto. Los indígenas andinos resistieron tenazmente despojos de tierras y defendieron sus ayllus ancestrales, sufriendo abusos agrarios de élites. -->
 - [ ] C) Establecía que las 36 naciones indígenas debían ser devueltas de forma incondicional al yugo de los reyes borbones de España.
   <!-- feedback: Incorrecto. Se rechazaba ardientemente el yugo de la corona española de Madrid y no se planteó someterse de nuevo a los borbones. -->

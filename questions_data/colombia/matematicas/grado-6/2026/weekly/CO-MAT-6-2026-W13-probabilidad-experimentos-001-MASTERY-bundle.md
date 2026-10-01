@@ -30,11 +30,11 @@ Este bundle introduce la probabilidad con experimentos sencillos como dados, mon
 ### Enunciado
 ¿Qué es un experimento aleatorio?
 ### Opciones
-- [x] A) Un experimento cuyo resultado no se puede predecir con certeza antes de realizarlo
+- [x] C) Un experimento cuyo resultado no se puede predecir con certeza antes de realizarlo
   <!-- feedback: Explica por qué es correcta: define el azar como resultado incierto aunque se conozcan los posibles casos. -->
-- [ ] B) Un experimento que siempre da el mismo resultado
+- [ ] A) Un experimento que siempre da el mismo resultado
   <!-- feedback: Explica el error conceptual: eso describe un experimento determinista, no aleatorio. -->
-- [ ] C) Un experimento que no tiene ningún resultado posible
+- [ ] B) Un experimento que no tiene ningún resultado posible
   <!-- feedback: Explica el error conceptual: todo experimento tiene un espacio muestral con resultados posibles. -->
 - [ ] D) Un experimento que solo se puede hacer una vez en la vida
   <!-- feedback: Explica el error conceptual: la repetición es esencial para estudiar la probabilidad. -->
@@ -50,11 +50,11 @@ Un experimento aleatorio es aquel donde interviene el azar y no se conoce el res
 ### Enunciado
 Al sacar una balota sin mirar, ¿qué color es más probable que salga?
 ### Opciones
-- [x] A) El rojo, porque hay más balotas rojas que azules
+- [x] C) El rojo, porque hay más balotas rojas que azules
   <!-- feedback: Explica por qué es correcta: con 3 de 4 casos favorables, el rojo tiene mayor probabilidad. -->
-- [ ] B) El azul, porque es el color menos común y sale más
+- [ ] A) El azul, porque es el color menos común y sale más
   <!-- feedback: Explica el error conceptual: ser menos común significa menor probabilidad, no mayor. -->
-- [ ] C) Ambos colores tienen exactamente la misma probabilidad
+- [ ] B) Ambos colores tienen exactamente la misma probabilidad
   <!-- feedback: Explica el error conceptual: solo serían iguales si hubiera igual cantidad de cada color. -->
 - [ ] D) Ningún color puede salir de la bolsa
   <!-- feedback: Explica el error conceptual: siempre saldrá alguna balota de las cuatro disponibles. -->
@@ -90,9 +90,9 @@ Los casos favorables son 2, 4 y 6, es decir 3 casos de 6 posibles. La probabilid
 ### Enunciado
 Al girar la ruleta una vez, ¿cuál es la probabilidad de que caiga en amarillo?
 ### Opciones
-- [x] A) 2 de 8, es decir un cuarto
+- [x] B) 2 de 8, es decir un cuarto
   <!-- feedback: Explica por qué es correcta: hay 2 sectores amarillos entre 8 totales, lo que equivale a un cuarto. -->
-- [ ] B) 6 de 8
+- [ ] A) 6 de 8
   <!-- feedback: Explica el error conceptual: esa es la probabilidad del verde, no del amarillo. -->
 - [ ] C) 2 de 6
   <!-- feedback: Explica el error conceptual: compara amarillos con verdes y olvida el total de 8 sectores. -->
@@ -110,9 +110,9 @@ La probabilidad es casos favorables sobre casos totales. Con 2 amarillos de 8 se
 ### Enunciado
 ¿Cuál es la probabilidad de elegir a alguien que prefiera baloncesto?
 ### Opciones
-- [x] A) 6 de 10, es decir 3 quintos
+- [x] B) 6 de 10, es decir 3 quintos
   <!-- feedback: Explica por qué es correcta: hay 6 casos favorables entre 10 estudiantes, que se simplifica a 3 quintos. -->
-- [ ] B) 4 de 10
+- [ ] A) 4 de 10
   <!-- feedback: Explica el error conceptual: esa es la probabilidad de preferir fútbol, no baloncesto. -->
 - [ ] C) 6 de 4
   <!-- feedback: Explica el error conceptual: invierte la fracción y obtiene un valor mayor que uno, imposible. -->
@@ -130,11 +130,11 @@ Se aplica la regla de Laplace: favorables sobre posibles. Con 6 estudiantes que 
 ### Enunciado
 ¿Cuál es el espacio muestral completo del experimento?
 ### Opciones
-- [x] A) Cara-cara, cara-sello, sello-cara, sello-sello
+- [x] C) Cara-cara, cara-sello, sello-cara, sello-sello
   <!-- feedback: Explica por qué es correcta: lista los 4 resultados ordenados posibles de dos lanzamientos. -->
-- [ ] B) Cara, sello
+- [ ] A) Cara, sello
   <!-- feedback: Explica el error conceptual: solo lista los resultados de un lanzamiento y no de dos. -->
-- [ ] C) Cara-cara, sello-sello
+- [ ] B) Cara-cara, sello-sello
   <!-- feedback: Explica el error conceptual: omite los dos resultados mixtos que también son posibles. -->
 - [ ] D) Dos caras, dos sellos, una y una
   <!-- feedback: Explica el error conceptual: agrupa sin orden y pierde un caso, pues una y una ocurre de dos formas. -->
@@ -150,11 +150,11 @@ El espacio muestral de dos lanzamientos ordenados tiene 2 por 2 igual a 4 result
 ### Enunciado
 ¿Qué diferencia hay entre la probabilidad teórica de obtener 5 y la frecuencia observada en el experimento?
 ### Opciones
-- [x] A) La teórica es 1 de 6 y la observada es 8 de 60, que es menor por variación del azar
+- [x] C) La teórica es 1 de 6 y la observada es 8 de 60, que es menor por variación del azar
   <!-- feedback: Explica por qué es correcta: compara el valor esperado con el resultado real y reconoce la variabilidad. -->
-- [ ] B) La teórica es 8 de 60 y la observada es 1 de 6, al revés
+- [ ] A) La teórica es 8 de 60 y la observada es 1 de 6, al revés
   <!-- feedback: Explica el error conceptual: invierte los conceptos de probabilidad teórica y frecuencia experimental. -->
-- [ ] C) Ambas son exactamente iguales siempre, 10 de 60
+- [ ] B) Ambas son exactamente iguales siempre, 10 de 60
   <!-- feedback: Explica el error conceptual: supone que el azar produce resultados exactos sin variación. -->
 - [ ] D) La teórica es 5 de 6 y la observada es 8 de 60
   <!-- feedback: Explica el error conceptual: confunde la cara observada con el número de casos favorables. -->
@@ -170,11 +170,11 @@ La probabilidad teórica de un 5 es 1 sobre 6, que en 60 lanzamientos esperaría
 ### Enunciado
 ¿Cuál es la probabilidad de sacar dos veces seguidas un número impar?
 ### Opciones
-- [x] A) 9 de 25
+- [x] C) 9 de 25
   <!-- feedback: Explica por qué es correcta: hay 3 impares de 5, y con reemplazo se multiplica 3 quintos por 3 quintos. -->
-- [ ] B) 3 de 5
+- [ ] A) 3 de 5
   <!-- feedback: Explica el error conceptual: calcula solo un sorteo y olvida combinar los dos eventos. -->
-- [ ] C) 6 de 5
+- [ ] B) 6 de 5
   <!-- feedback: Explica el error conceptual: suma las fracciones y obtiene un valor imposible mayor que uno. -->
 - [ ] D) 2 de 25
   <!-- feedback: Explica el error conceptual: cuenta solo 2 impares en lugar de los tres impares reales. -->
@@ -190,13 +190,13 @@ Como la ficha se devuelve, los sorteos son independientes. La probabilidad de im
 ### Enunciado
 Evalúa esta afirmación.
 ### Opciones
-- [x] A) Es falsa, porque cada lanzamiento es independiente y la probabilidad de 6 sigue siendo 1 de 6
+- [x] D) Es falsa, porque cada lanzamiento es independiente y la probabilidad de 6 sigue siendo 1 de 6
   <!-- feedback: Explica por qué es correcta: identifica la falacia del jugador y la independencia entre lanzamientos. -->
-- [ ] B) Es verdadera, porque el dado compensa los resultados anteriores con un 6
+- [ ] A) Es verdadera, porque el dado compensa los resultados anteriores con un 6
   <!-- feedback: Explica el error conceptual: supone memoria en el dado, que no existe en eventos independientes. -->
-- [ ] C) Es verdadera, porque después de 10 intentos la probabilidad sube a 10 de 6
+- [ ] B) Es verdadera, porque después de 10 intentos la probabilidad sube a 10 de 6
   <!-- feedback: Explica el error conceptual: construye una fracción imposible mayor que uno. -->
-- [ ] D) Es falsa, porque el 6 ya no puede salir nunca más en ese dado
+- [ ] C) Es falsa, porque el 6 ya no puede salir nunca más en ese dado
   <!-- feedback: Explica el error conceptual: niega un resultado que sigue siendo posible en cada lanzamiento. -->
 ### Explicacion Pedagogica
 Evaluar el argumento exige reconocer la independencia: el dado no tiene memoria. Aunque el 6 no haya salido, cada lanzamiento mantiene 6 casos posibles con 1 favorable. Creer que está obligado a salir es la falacia del jugador.
@@ -210,13 +210,13 @@ Evaluar el argumento exige reconocer la independencia: el dado no tiene memoria.
 ### Enunciado
 ¿Cuál juego ofrece mejor probabilidad de ganar y por qué conviene elegirlo si ambos cuestan lo mismo?
 ### Opciones
-- [x] A) El juego A, porque 3 de 10 es mayor que 1 de 4
+- [x] D) El juego A, porque 3 de 10 es mayor que 1 de 4
   <!-- feedback: Explica por qué es correcta: compara 0.30 frente a 0.25 y elige la mayor probabilidad al mismo precio. -->
-- [ ] B) El juego B, porque tiene menos balotas y eso siempre es mejor
+- [ ] A) El juego B, porque tiene menos balotas y eso siempre es mejor
   <!-- feedback: Explica el error conceptual: compara totales sin calcular la fracción de éxito de cada juego. -->
-- [ ] C) Ambos son iguales, porque cuestan lo mismo
+- [ ] B) Ambos son iguales, porque cuestan lo mismo
   <!-- feedback: Explica el error conceptual: confunde el precio con la probabilidad de éxito del juego. -->
-- [ ] D) El juego A, porque 3 de 10 es menor que 1 de 4
+- [ ] C) El juego A, porque 3 de 10 es menor que 1 de 4
   <!-- feedback: Explica el error conceptual: elige bien el juego pero invierte la comparación numérica. -->
 ### Explicacion Pedagogica
 Para decidir se comparan las probabilidades: el juego A tiene 3 sobre 10 igual a 0.30 y el juego B tiene 1 sobre 4 igual a 0.25. Como 0.30 es mayor que 0.25, el juego A ofrece mejor oportunidad por el mismo valor de 5000 COP. Evaluar con decimales o fracciones equivalentes evita errores de intuición.

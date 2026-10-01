@@ -56,10 +56,10 @@ La distancia entre dos puntos en el plano cartesiano proviene directamente del t
 ¿Cuál es la fórmula de la pendiente $m$ de una recta que pasa por los puntos $(x_1, y_1)$ y $(x_2, y_2)$ con $x_1 \neq x_2$?
 
 ### Opciones
-- [x] A) $m = \frac{y_2 - y_1}{x_2 - x_1}$ <!-- feedback: ¡Correcto! La pendiente es la razón de cambio vertical sobre el cambio horizontal. -->
-- [ ] B) $m = \frac{x_2 - x_1}{y_2 - y_1}$ <!-- feedback: Incorrecto. Invirtió el cambio horizontal y el vertical. -->
-- [ ] C) $m = (y_2 - y_1)(x_2 - x_1)$ <!-- feedback: Incorrecto. La pendiente es un cociente, no un producto. -->
-- [ ] D) $m = \sqrt{y_2 - y_1}$ <!-- feedback: Incorrecto. No corresponde a la definición algebraicamente aceptada. -->
+- [x] D) $m = \frac{y_2 - y_1}{x_2 - x_1}$ <!-- feedback: ¡Correcto! La pendiente es la razón de cambio vertical sobre el cambio horizontal. -->
+- [ ] A) $m = \frac{x_2 - x_1}{y_2 - y_1}$ <!-- feedback: Incorrecto. Invirtió el cambio horizontal y el vertical. -->
+- [ ] B) $m = (y_2 - y_1)(x_2 - x_1)$ <!-- feedback: Incorrecto. La pendiente es un cociente, no un producto. -->
+- [ ] C) $m = \sqrt{y_2 - y_1}$ <!-- feedback: Incorrecto. No corresponde a la definición algebraicamente aceptada. -->
 
 ### Explicacion Pedagogica
 La pendiente $m$ de una recta no vertical se define como el cociente entre la variación en $y$ y la variación en $x$: $m = \frac{y_2 - y_1}{x_2 - x_1}$.
@@ -98,10 +98,10 @@ Al comparar con la forma pendiente-ordenada al origen $y = mx + b$, identificamo
 ¿Cuál es la ecuación ordinaria de una circunferencia con centro en el origen $C(0,0)$ y radio $r = 6$?
 
 ### Opciones
-- [x] A) $x^2 + y^2 = 36$ <!-- feedback: ¡Correcto! La ecuación cannónica o ordinaria con centro en el origen es $x^2 + y^2 = r^2 = 6^2 = 36$. -->
-- [ ] B) $x^2 + y^2 = 6$ <!-- feedback: Incorrecto. Olvidó elevar el radio al cuadrado. -->
-- [ ] C) $x^2 - y^2 = 36$ <!-- feedback: Incorrecto. Corresponde a la ecuación de una hipérbola. -->
-- [ ] D) $(x - 6)^2 + (y - 6)^2 = 0$ <!-- feedback: Incorrecto. No representa la ecuación de una circunferencia de radio 6. -->
+- [x] D) $x^2 + y^2 = 36$ <!-- feedback: ¡Correcto! La ecuación cannónica o ordinaria con centro en el origen es $x^2 + y^2 = r^2 = 6^2 = 36$. -->
+- [ ] A) $x^2 + y^2 = 6$ <!-- feedback: Incorrecto. Olvidó elevar el radio al cuadrado. -->
+- [ ] B) $x^2 - y^2 = 36$ <!-- feedback: Incorrecto. Corresponde a la ecuación de una hipérbola. -->
+- [ ] C) $(x - 6)^2 + (y - 6)^2 = 0$ <!-- feedback: Incorrecto. No representa la ecuación de una circunferencia de radio 6. -->
 
 ### Explicacion Pedagogica
 Para una circunferencia centrada en el origen $(0,0)$, la ecuación es $x^2 + y^2 = r^2$. Con $r = 6$, $r^2 = 36$, por lo que $x^2 + y^2 = 36$.
@@ -119,10 +119,10 @@ Para una circunferencia centrada en el origen $(0,0)$, la ecuación es $x^2 + y^
 ¿Cuál es la distancia exacta entre los puntos $A(2, 3)$ y $B(5, 7)$?
 
 ### Opciones
-- [x] A) $5$ unidades <!-- feedback: ¡Correcto! $d = \sqrt{(5 - 2)^2 + (7 - 3)^2} = \sqrt{3^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5$. -->
-- [ ] B) $7$ unidades <!-- feedback: Incorrecto. Sumó las diferencias $3 + 4 = 7$ sin aplicar los cuadrados ni la raíz. -->
-- [ ] C) $\sqrt{7}$ unidades <!-- feedback: Incorrecto. Sumó $3 + 4 = 7$ dentro de la raíz. -->
-- [ ] D) $25$ unidades <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada final a 25. -->
+- [x] D) $5$ unidades <!-- feedback: ¡Correcto! $d = \sqrt{(5 - 2)^2 + (7 - 3)^2} = \sqrt{3^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5$. -->
+- [ ] A) $7$ unidades <!-- feedback: Incorrecto. Sumó las diferencias $3 + 4 = 7$ sin aplicar los cuadrados ni la raíz. -->
+- [ ] B) $\sqrt{7}$ unidades <!-- feedback: Incorrecto. Sumó $3 + 4 = 7$ dentro de la raíz. -->
+- [ ] C) $25$ unidades <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada final a 25. -->
 
 ### Explicacion Pedagogica
 Sustituyendo en la fórmula de distancia: $d = \sqrt{(5-2)^2 + (7-3)^2} = \sqrt{3^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5$.
@@ -161,8 +161,8 @@ El punto medio $M$ tiene coordenadas $M\left(\frac{x_1 + x_2}{2}, \frac{y_1 + y_
 ¿Cuál es la ecuación explícita de la recta que pasa por el punto $P(3, -2)$ y tiene pendiente $m = 4$?
 
 ### Opciones
-- [x] A) $y = 4x - 14$ <!-- feedback: ¡Correcto! Usando $y - y_1 = m(x - x_1) \Rightarrow y - (-2) = 4(x - 3) \Rightarrow y + 2 = 4x - 12 \Rightarrow y = 4x - 14$. -->
-- [ ] B) $y = 4x - 10$ <!-- feedback: Incorrecto. Error en los signos al trasponer el valor $+2$. -->
+- [x] B) $y = 4x - 14$ <!-- feedback: ¡Correcto! Usando $y - y_1 = m(x - x_1) \Rightarrow y - (-2) = 4(x - 3) \Rightarrow y + 2 = 4x - 12 \Rightarrow y = 4x - 14$. -->
+- [ ] A) $y = 4x - 10$ <!-- feedback: Incorrecto. Error en los signos al trasponer el valor $+2$. -->
 - [ ] C) $y = 4x + 14$ <!-- feedback: Incorrecto. Multiplicó mal los términos independientes. -->
 - [ ] D) $y = 3x - 14$ <!-- feedback: Incorrecto. Usó la abscisa del punto como pendiente. -->
 
@@ -182,8 +182,8 @@ Usando la forma punto-pendiente: $y - y_1 = m(x - x_1) \Rightarrow y - (-2) = 4(
 Si una recta $L_1$ tiene pendiente $m_1 = -2$, ¿cuál debe ser la pendiente $m_2$ de una recta $L_2$ perpendicular a $L_1$?
 
 ### Opciones
-- [x] A) $m_2 = \frac{1}{2}$ <!-- feedback: ¡Correcto! Dos rectas son perpendiculares si el producto de sus pendientes es $-1$, por lo que $m_2 = -\frac{1}{m_1} = -\frac{1}{-2} = \frac{1}{2}$. -->
-- [ ] B) $m_2 = -2$ <!-- feedback: Incorrecto. Esa es la condición para que sean paralelas ($m_1 = m_2$). -->
+- [x] B) $m_2 = \frac{1}{2}$ <!-- feedback: ¡Correcto! Dos rectas son perpendiculares si el producto de sus pendientes es $-1$, por lo que $m_2 = -\frac{1}{m_1} = -\frac{1}{-2} = \frac{1}{2}$. -->
+- [ ] A) $m_2 = -2$ <!-- feedback: Incorrecto. Esa es la condición para que sean paralelas ($m_1 = m_2$). -->
 - [ ] C) $m_2 = 2$ <!-- feedback: Incorrecto. Olvidó invertir la pendiente al cambiar el signo. -->
 - [ ] D) $m_2 = -\frac{1}{2}$ <!-- feedback: Incorrecto. Invirtió la pendiente pero no cambió el signo. -->
 
@@ -224,10 +224,10 @@ La ecuación ordinaria es $(x - h)^2 + (y - k)^2 = r^2$. Comparando términos: $
 ¿Cuál es la ecuación canónica de una parábola con vértice en el origen $V(0,0)$ que abre verticalmente hacia arriba y tiene parámetro $p > 0$?
 
 ### Opciones
-- [x] A) $x^2 = 4py$ <!-- feedback: ¡Correcto! Una parábola vertical que abre hacia arriba centrada en el origen tiene la ecuación $x^2 = 4py$. -->
-- [ ] B) $y^2 = 4px$ <!-- feedback: Incorrecto. Esta representa una parábola horizontal que abre hacia la derecha. -->
-- [ ] C) $x^2 = -4py$ <!-- feedback: Incorrecto. Abre hacia abajo. -->
-- [ ] D) $y^2 = -4px$ <!-- feedback: Incorrecto. Abre hacia la izquierda. -->
+- [x] D) $x^2 = 4py$ <!-- feedback: ¡Correcto! Una parábola vertical que abre hacia arriba centrada en el origen tiene la ecuación $x^2 = 4py$. -->
+- [ ] A) $y^2 = 4px$ <!-- feedback: Incorrecto. Esta representa una parábola horizontal que abre hacia la derecha. -->
+- [ ] B) $x^2 = -4py$ <!-- feedback: Incorrecto. Abre hacia abajo. -->
+- [ ] C) $y^2 = -4px$ <!-- feedback: Incorrecto. Abre hacia la izquierda. -->
 
 ### Explicacion Pedagogica
 Las parábolas verticales centradas en el origen tienen como eje focal el eje $y$, con ecuación de la forma $x^2 = 4py$.
@@ -289,8 +289,8 @@ La fórmula de la distancia de un punto $(x_0, y_0)$ a una recta $Ax + By + C = 
 ¿Cuál es la forma ordinaria de la circunferencia dada por la ecuación general $x^2 + y^2 - 6x + 4y - 12 = 0$?
 
 ### Opciones
-- [x] A) $(x - 3)^2 + (y + 2)^2 = 25$ <!-- feedback: ¡Correcto! $(x^2 - 6x + 9) + (y^2 + 4y + 4) = 12 + 9 + 4 = 25 \Rightarrow (x - 3)^2 + (y + 2)^2 = 25$. -->
-- [ ] B) $(x + 3)^2 + (y - 2)^2 = 25$ <!-- feedback: Incorrecto. Invirtió los signos de completación de cuadrados. -->
+- [x] B) $(x - 3)^2 + (y + 2)^2 = 25$ <!-- feedback: ¡Correcto! $(x^2 - 6x + 9) + (y^2 + 4y + 4) = 12 + 9 + 4 = 25 \Rightarrow (x - 3)^2 + (y + 2)^2 = 25$. -->
+- [ ] A) $(x + 3)^2 + (y - 2)^2 = 25$ <!-- feedback: Incorrecto. Invirtió los signos de completación de cuadrados. -->
 - [ ] C) $(x - 3)^2 + (y + 2)^2 = 12$ <!-- feedback: Incorrecto. Olvidó sumar los términos $9 + 4 = 13$ al lado derecho. -->
 - [ ] D) $(x - 6)^2 + (y + 4)^2 = 25$ <!-- feedback: Incorrecto. No dividió entre 2 los coeficientes al completar los trinomios. -->
 
@@ -313,10 +313,10 @@ Centro $C(3, -2)$ y radio $r = 5$.
 ¿Cuáles son las coordenadas del foco $F$ y la ecuación de la directriz de la parábola $y^2 = 12x$?
 
 ### Opciones
-- [x] A) Foco $F(3, 0)$ y directriz $x = -3$ <!-- feedback: ¡Correcto! Al comparar $y^2 = 4px$ con $y^2 = 12x$, tenemos $4p = 12 \Rightarrow p = 3$. Foco en $(3, 0)$ y directriz $x = -3$. -->
-- [ ] B) Foco $F(0, 3)$ y directriz $y = -3$ <!-- feedback: Incorrecto. Confundió una parábola horizontal con una vertical. -->
-- [ ] C) Foco $F(12, 0)$ y directriz $x = -12$ <!-- feedback: Incorrecto. Confundió $4p$ con $p$. -->
-- [ ] D) Foco $F(-3, 0)$ y directriz $x = 3$ <!-- feedback: Incorrecto. Asignó el signo del foco de forma errónea. -->
+- [x] D) Foco $F(3, 0)$ y directriz $x = -3$ <!-- feedback: ¡Correcto! Al comparar $y^2 = 4px$ con $y^2 = 12x$, tenemos $4p = 12 \Rightarrow p = 3$. Foco en $(3, 0)$ y directriz $x = -3$. -->
+- [ ] A) Foco $F(0, 3)$ y directriz $y = -3$ <!-- feedback: Incorrecto. Confundió una parábola horizontal con una vertical. -->
+- [ ] B) Foco $F(12, 0)$ y directriz $x = -12$ <!-- feedback: Incorrecto. Confundió $4p$ con $p$. -->
+- [ ] C) Foco $F(-3, 0)$ y directriz $x = 3$ <!-- feedback: Incorrecto. Asignó el signo del foco de forma errónea. -->
 
 ### Explicacion Pedagogica
 La ecuación es de una parábola horizontal $y^2 = 4px$. Comparando $4p = 12 \Rightarrow p = 3$. Por lo tanto, el foco está en $(p, 0) = (3, 0)$ y la recta directriz es $x = -p \Rightarrow x = -3$.
@@ -334,8 +334,8 @@ La ecuación es de una parábola horizontal $y^2 = 4px$. Comparando $4p = 12 \Ri
 Determine en cuántos puntos se intersectan la recta $y = x$ y la circunferencia $x^2 + y^2 = 8$.
 
 ### Opciones
-- [x] A) 2 puntos: $(2, 2)$ y $(-2, -2)$ <!-- feedback: ¡Correcto! Sustituyendo $y = x$: $x^2 + x^2 = 8 \Rightarrow 2x^2 = 8 \Rightarrow x^2 = 4 \Rightarrow x = \pm 2$. Puntos $(2,2)$ y $(-2,-2)$. -->
-- [ ] B) 1 punto: $(2, 2)$ (recta tangente) <!-- feedback: Incorrecto. La recta es secante y corta en dos puntos distintos. -->
+- [x] B) 2 puntos: $(2, 2)$ y $(-2, -2)$ <!-- feedback: ¡Correcto! Sustituyendo $y = x$: $x^2 + x^2 = 8 \Rightarrow 2x^2 = 8 \Rightarrow x^2 = 4 \Rightarrow x = \pm 2$. Puntos $(2,2)$ y $(-2,-2)$. -->
+- [ ] A) 1 punto: $(2, 2)$ (recta tangente) <!-- feedback: Incorrecto. La recta es secante y corta en dos puntos distintos. -->
 - [ ] C) No se intersectan (0 puntos) <!-- feedback: Incorrecto. Las ecuaciones tienen dos soluciones reales simultáneas. -->
 - [ ] D) 4 puntos de corte <!-- feedback: Incorrecto. El sistema lineal-cuadrático de este tipo puede tener a lo sumo 2 soluciones. -->
 
@@ -356,9 +356,9 @@ Como $y = x$, las intersecciones son $(2, 2)$ y $(-2, -2)$ (la recta es secante 
 ¿Cuál es la ecuación de la mediatriz del segmento que une los puntos $A(0, 0)$ y $B(4, 2)$?
 
 ### Opciones
-- [x] A) $2x + y - 5 = 0$ <!-- feedback: ¡Correcto! Punto medio $M(2, 1)$. Pendiente de $AB$: $m = 2/4 = 1/2$. Pendiente perpendicular: $m^\perp = -2$. Mediatriz: $y - 1 = -2(x - 2) \Rightarrow 2x + y - 5 = 0$. -->
-- [ ] B) $x + 2y - 4 = 0$ <!-- feedback: Incorrecto. Usó la pendiente de $AB$ en lugar de la perpendicular. -->
-- [ ] C) $2x - y - 3 = 0$ <!-- feedback: Incorrecto. Error de signo al calcular la pendiente perpendicular. -->
+- [x] C) $2x + y - 5 = 0$ <!-- feedback: ¡Correcto! Punto medio $M(2, 1)$. Pendiente de $AB$: $m = 2/4 = 1/2$. Pendiente perpendicular: $m^\perp = -2$. Mediatriz: $y - 1 = -2(x - 2) \Rightarrow 2x + y - 5 = 0$. -->
+- [ ] A) $x + 2y - 4 = 0$ <!-- feedback: Incorrecto. Usó la pendiente de $AB$ en lugar de la perpendicular. -->
+- [ ] B) $2x - y - 3 = 0$ <!-- feedback: Incorrecto. Error de signo al calcular la pendiente perpendicular. -->
 - [ ] D) $2x + y - 4 = 0$ <!-- feedback: Incorrecto. Error en la constante al pasar por el punto medio $(2,1)$. -->
 
 ### Explicacion Pedagogica
@@ -380,8 +380,8 @@ Como $y = x$, las intersecciones son $(2, 2)$ y $(-2, -2)$ (la recta es secante 
 ¿Cuál es la ecuación general de la circunferencia que pasa por los puntos $A(0,0)$, $B(4,0)$ y $C(0,6)$?
 
 ### Opciones
-- [x] A) $x^2 + y^2 - 4x - 6y = 0$ <!-- feedback: ¡Correcto! Sustituyendo los puntos en $x^2 + y^2 + Dx + Ey + F = 0$: $F=0$, $16 + 4D = 0 \Rightarrow D=-4$, y $36 + 6E = 0 \Rightarrow E=-6$. -->
-- [ ] B) $x^2 + y^2 + 4x + 6y = 0$ <!-- feedback: Incorrecto. Asignó signos positivos a los coeficientes $D$ y $E$. -->
+- [x] B) $x^2 + y^2 - 4x - 6y = 0$ <!-- feedback: ¡Correcto! Sustituyendo los puntos en $x^2 + y^2 + Dx + Ey + F = 0$: $F=0$, $16 + 4D = 0 \Rightarrow D=-4$, y $36 + 6E = 0 \Rightarrow E=-6$. -->
+- [ ] A) $x^2 + y^2 + 4x + 6y = 0$ <!-- feedback: Incorrecto. Asignó signos positivos a los coeficientes $D$ y $E$. -->
 - [ ] C) $x^2 + y^2 - 2x - 3y = 0$ <!-- feedback: Incorrecto. Confundió los coeficientes del centro $(2,3)$ con $D$ y $E$. -->
 - [ ] D) $x^2 + y^2 - 4x - 6y + 12 = 0$ <!-- feedback: Incorrecto. El término independiente $F$ debe ser 0 para pasar por el origen. -->
 
@@ -405,8 +405,8 @@ La ecuación es $x^2 + y^2 - 4x - 6y = 0$.
 ¿Cuál es la ecuación de la recta tangente a la circunferencia $x^2 + y^2 = 25$ en el punto $P(3, 4)$?
 
 ### Opciones
-- [x] A) $3x + 4y - 25 = 0$ <!-- feedback: ¡Correcto! La recta tangente en $(x_1, y_1)$ a $x^2 + y^2 = r^2$ es $x_1 x + y_1 y = r^2 \Rightarrow 3x + 4y = 25 \Rightarrow 3x + 4y - 25 = 0$. -->
-- [ ] B) $4x - 3y = 0$ <!-- feedback: Incorrecto. Es la ecuación de la recta normal que pasa por el centro, no de la tangente. -->
+- [x] B) $3x + 4y - 25 = 0$ <!-- feedback: ¡Correcto! La recta tangente en $(x_1, y_1)$ a $x^2 + y^2 = r^2$ es $x_1 x + y_1 y = r^2 \Rightarrow 3x + 4y = 25 \Rightarrow 3x + 4y - 25 = 0$. -->
+- [ ] A) $4x - 3y = 0$ <!-- feedback: Incorrecto. Es la ecuación de la recta normal que pasa por el centro, no de la tangente. -->
 - [ ] C) $3x - 4y + 7 = 0$ <!-- feedback: Incorrecto. Cambió el signo del coeficiente de $y$ indebidamente. -->
 - [ ] D) $4x + 3y - 24 = 0$ <!-- feedback: Incorrecto. Invirtió las coordenadas de la pendiente. -->
 

@@ -30,11 +30,11 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 Al realizar experimentos sobre genética y herencia mendeliana y estudiar los alelos de un gen se separan durante la formación de gametos, de modo que cada gameto recibe un solo alelo, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La ley de la segregación
+- [x] C) La ley de la segregación
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a los alelos de un gen se separan durante la formación de gametos, de modo que cada gameto recibe un solo alelo. -->
-- [ ] B) Ley de la uniformidad
+- [ ] A) Ley de la uniformidad
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Ley de la distribución independiente
+- [ ] B) Ley de la distribución independiente
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética y herencia mendeliana. -->
 - [ ] D) Teoría cromosómica
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -55,9 +55,9 @@ La respuesta correcta es La ley de la segregación. Científicamente, esto se ex
 Al realizar experimentos sobre genética y herencia mendeliana y estudiar conjunto de alelos y constitución genética específica de un organismo para un determinado carácter, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El genotipo
+- [x] B) El genotipo
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a conjunto de alelos y constitución genética específica de un organismo para un determinado carácter. -->
-- [ ] B) El fenotipo
+- [ ] A) El fenotipo
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) El cariotipo
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética y herencia mendeliana. -->
@@ -80,9 +80,9 @@ La respuesta correcta es El genotipo. Científicamente, esto se explica por la c
 Al realizar experimentos sobre genética y herencia mendeliana y estudiar manifestación física, anatómica o fisiológica observable de un carácter genético en un individuo, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El fenotipo
+- [x] B) El fenotipo
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a manifestación física, anatómica o fisiológica observable de un carácter genético en un individuo. -->
-- [ ] B) El genotipo
+- [ ] A) El genotipo
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) El cariotipo
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética y herencia mendeliana. -->
@@ -105,11 +105,11 @@ La respuesta correcta es El fenotipo. Científicamente, esto se explica por la i
 Al realizar experimentos sobre genética y herencia mendeliana y estudiar individuo que posee dos alelos idénticos para un gen específico en su par de cromosomas homólogos, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Homocigoto
+- [x] C) Homocigoto
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a individuo que posee dos alelos idénticos para un gen específico en su par de cromosomas homólogos. -->
-- [ ] B) Heterocigoto
+- [ ] A) Heterocigoto
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Hemicigoto
+- [ ] B) Hemicigoto
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética y herencia mendeliana. -->
 - [ ] D) Híbrido
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -155,9 +155,9 @@ La respuesta correcta es Heterocigoto. Científicamente, esto se explica por la 
 Al realizar experimentos sobre genética y herencia mendeliana y estudiar cruzamientos genéticos donde se analiza la transmisión y herencia de un solo carácter específico, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Cruces monohíbridos
+- [x] B) Cruces monohíbridos
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a cruzamientos genéticos donde se analiza la transmisión y herencia de un solo carácter específico. -->
-- [ ] B) Cruces dihíbridos
+- [ ] A) Cruces dihíbridos
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) Cruces de prueba
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética y herencia mendeliana. -->
@@ -205,9 +205,9 @@ La respuesta correcta es Proporción fenotípica 9:3:3:1. Científicamente, esto
 Al realizar experimentos sobre genética y herencia mendeliana y estudiar el fenotipo del heterocigoto es un estado intermedio mezclado entre los fenotipos de los padres homólogos, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Dominancia incompleta
+- [x] B) Dominancia incompleta
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a el fenotipo del heterocigoto es un estado intermedio mezclado entre los fenotipos de los padres homólogos. -->
-- [ ] B) Codominancia
+- [ ] A) Codominancia
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) Pleiotropía
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética y herencia mendeliana. -->
@@ -255,11 +255,11 @@ La respuesta correcta es Codominancia. Científicamente, esto se explica por la 
 Al realizar experimentos sobre genética y herencia mendeliana y estudiar ejemplo clásico de alelos múltiples y codominancia en poblaciones humanas, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Grupos sanguíneos abo
+- [x] C) Grupos sanguíneos abo
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a ejemplo clásico de alelos múltiples y codominancia en poblaciones humanas. -->
-- [ ] B) Sistema rh de sangre
+- [ ] A) Sistema rh de sangre
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Herencia ligada al sexo
+- [ ] B) Herencia ligada al sexo
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética y herencia mendeliana. -->
 - [ ] D) Epistasis recesiva
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -280,9 +280,9 @@ La respuesta correcta es Grupos sanguíneos abo. Científicamente, esto se expli
 Al realizar experimentos sobre genética y herencia mendeliana y estudiar transmisión de caracteres determinados por genes ubicados específicamente en los cromosomas sexuales X e Y, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Herencia ligada al sexo
+- [x] B) Herencia ligada al sexo
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a transmisión de caracteres determinados por genes ubicados específicamente en los cromosomas sexuales X e Y. -->
-- [ ] B) Herencia autosómica
+- [ ] A) Herencia autosómica
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) Herencia mitocondrial
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética y herencia mendeliana. -->
@@ -305,9 +305,9 @@ La respuesta correcta es Herencia ligada al sexo. Científicamente, esto se expl
 Al realizar experimentos sobre genética y herencia mendeliana y estudiar trastorno recesivo ligado al cromosoma X que afecta la coagulación de la sangre en humanos, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La hemofilia
+- [x] B) La hemofilia
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a trastorno recesivo ligado al cromosoma X que afecta la coagulación de la sangre en humanos. -->
-- [ ] B) La anemia falciforme
+- [ ] A) La anemia falciforme
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) El síndrome de down
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética y herencia mendeliana. -->
@@ -330,9 +330,9 @@ La respuesta correcta es La hemofilia. Científicamente, esto se explica por la 
 Al realizar experimentos sobre genética y herencia mendeliana y estudiar trastorno visual recesivo ligado al cromosoma X que impide la distinción correcta de colores rojo y verde, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El daltonismo
+- [x] B) El daltonismo
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a trastorno visual recesivo ligado al cromosoma X que impide la distinción correcta de colores rojo y verde. -->
-- [ ] B) La hemofilia
+- [ ] A) La hemofilia
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) El albinismo
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética y herencia mendeliana. -->
@@ -355,13 +355,13 @@ La respuesta correcta es El daltonismo. Científicamente, esto se explica por la
 Al realizar experimentos sobre genética y herencia mendeliana y estudiar diagrama que representa las relaciones de parentesco y la transmisión de un carácter genético en varias generaciones, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Árbol genealógico (pedigree)
+- [x] D) Árbol genealógico (pedigree)
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a diagrama que representa las relaciones de parentesco y la transmisión de un carácter genético en varias generaciones. -->
-- [ ] B) Cariograma de bandas
+- [ ] A) Cariograma de bandas
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Mapa genético de enlace
+- [ ] B) Mapa genético de enlace
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética y herencia mendeliana. -->
-- [ ] D) Gráfico punnett
+- [ ] C) Gráfico punnett
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -380,13 +380,13 @@ La respuesta correcta es Árbol genealógico (pedigree). Científicamente, esto 
 Al realizar experimentos sobre genética y herencia mendeliana y estudiar cruzamiento de un individuo de fenotipo dominante con un homocigoto recesivo para determinar su genotipo, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Cruce de prueba (testcross)
+- [x] D) Cruce de prueba (testcross)
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a cruzamiento de un individuo de fenotipo dominante con un homocigoto recesivo para determinar su genotipo. -->
-- [ ] B) Cruce recíproco
+- [ ] A) Cruce recíproco
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Autofecundación pura
+- [ ] B) Autofecundación pura
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética y herencia mendeliana. -->
-- [ ] D) Cruzamiento dihíbrido
+- [ ] C) Cruzamiento dihíbrido
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -405,11 +405,11 @@ La respuesta correcta es Cruce de prueba (testcross). Científicamente, esto se 
 Al realizar experimentos sobre genética y herencia mendeliana y estudiar la probabilidad de que dos eventos genéticos independientes ocurran juntos se calcula multiplicando sus probabilidades, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Probabilidad de producto de eventos
+- [x] C) Probabilidad de producto de eventos
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a la probabilidad de que dos eventos genéticos independientes ocurran juntos se calcula multiplicando sus probabilidades. -->
-- [ ] B) Probabilidad de suma de eventos
+- [ ] A) Probabilidad de suma de eventos
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Distribución binomial
+- [ ] B) Distribución binomial
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética y herencia mendeliana. -->
 - [ ] D) Fórmula de hardy-weinberg
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -430,11 +430,11 @@ La respuesta correcta es Probabilidad de producto de eventos. Científicamente, 
 Al realizar experimentos sobre genética y herencia mendeliana y estudiar fenómeno genético donde un gen enmascara, interfiere o suprime la expresión de otro gen en un locus diferente, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Epistasis
+- [x] C) Epistasis
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a fenómeno genético donde un gen enmascara, interfiere o suprime la expresión de otro gen en un locus diferente. -->
-- [ ] B) Pleiotropía
+- [ ] A) Pleiotropía
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Penetrancia incompleta
+- [ ] B) Penetrancia incompleta
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética y herencia mendeliana. -->
 - [ ] D) Herencia poligénica
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -455,9 +455,9 @@ La respuesta correcta es Epistasis. Científicamente, esto se explica por la int
 Al realizar experimentos sobre genética y herencia mendeliana y estudiar un solo gen o mutación afecta múltiples caracteres fenotípicos no relacionados en el organismo, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Pleiotropía
+- [x] B) Pleiotropía
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a un solo gen o mutación afecta múltiples caracteres fenotípicos no relacionados en el organismo. -->
-- [ ] B) Epistasis
+- [ ] A) Epistasis
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) Dominancia incompleta
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética y herencia mendeliana. -->
@@ -480,11 +480,11 @@ La respuesta correcta es Pleiotropía. Científicamente, esto se explica por los
 Al realizar experimentos sobre genética y herencia mendeliana y estudiar caracteres cuantitativos determinados por el efecto aditivo de múltiples genes, como la estatura o tono de piel, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Herencia poligénica
+- [x] C) Herencia poligénica
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a caracteres cuantitativos determinados por el efecto aditivo de múltiples genes, como la estatura o tono de piel. -->
-- [ ] B) Herencia monogénica
+- [ ] A) Herencia monogénica
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Herencia ligada al sexo
+- [ ] B) Herencia ligada al sexo
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética y herencia mendeliana. -->
 - [ ] D) Herencia mitocondrial
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -505,11 +505,11 @@ La respuesta correcta es Herencia poligénica. Científicamente, esto se explica
 Al realizar experimentos sobre genética y herencia mendeliana y estudiar capacidad de un genotipo de producir diferentes fenotipos estables en respuesta a variaciones del ambiente, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Plasticidad fenotípica
+- [x] C) Plasticidad fenotípica
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a capacidad de un genotipo de producir diferentes fenotipos estables en respuesta a variaciones del ambiente. -->
-- [ ] B) Epistasis ambiental
+- [ ] A) Epistasis ambiental
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Mutación inducida
+- [ ] B) Mutación inducida
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética y herencia mendeliana. -->
 - [ ] D) Deriva genética
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->

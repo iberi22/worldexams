@@ -52,11 +52,11 @@ Para que la función raíz cuadrada sea real, se requiere que $x - 3 \ge 0$, lo 
 ### Enunciado
 ¿Cuál es el dominio de la función real $f(x) = \sqrt{x - 4}$?
 ### Opciones
-- [x] A) $[4, \infty)$
+- [x] C) $[4, \infty)$
   <!-- feedback: Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 4 \ge 0 \implies x \ge 4$. -->
-- [ ] B) $(4, \infty)$
+- [ ] A) $(4, \infty)$
   <!-- feedback: Incorrecto. Excluiste el valor 4, donde la raíz da 0 y es perfectamente válida en los reales. -->
-- [ ] C) $(-\infty, 4]$
+- [ ] B) $(-\infty, 4]$
   <!-- feedback: Incorrecto. Invertiste el sentido de la desigualdad. -->
 - [ ] D) \mathbb{R}
   <!-- feedback: Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos. -->
@@ -72,9 +72,9 @@ Para que la función raíz cuadrada sea real, se requiere que $x - 4 \ge 0$, lo 
 ### Enunciado
 ¿Cuál es el dominio de la función real $f(x) = \sqrt{x - 5}$?
 ### Opciones
-- [x] A) $[5, \infty)$
+- [x] B) $[5, \infty)$
   <!-- feedback: Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 5 \ge 0 \implies x \ge 5$. -->
-- [ ] B) $(5, \infty)$
+- [ ] A) $(5, \infty)$
   <!-- feedback: Incorrecto. Excluiste el valor 5, donde la raíz da 0 y es perfectamente válida en los reales. -->
 - [ ] C) $(-\infty, 5]$
   <!-- feedback: Incorrecto. Invertiste el sentido de la desigualdad. -->
@@ -112,11 +112,11 @@ Para que la función raíz cuadrada sea real, se requiere que $x - 6 \ge 0$, lo 
 ### Enunciado
 ¿Cuál es el dominio de la función real $f(x) = \sqrt{x - 7}$?
 ### Opciones
-- [x] A) $[7, \infty)$
+- [x] C) $[7, \infty)$
   <!-- feedback: Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 7 \ge 0 \implies x \ge 7$. -->
-- [ ] B) $(7, \infty)$
+- [ ] A) $(7, \infty)$
   <!-- feedback: Incorrecto. Excluiste el valor 7, donde la raíz da 0 y es perfectamente válida en los reales. -->
-- [ ] C) $(-\infty, 7]$
+- [ ] B) $(-\infty, 7]$
   <!-- feedback: Incorrecto. Invertiste el sentido de la desigualdad. -->
 - [ ] D) \mathbb{R}
   <!-- feedback: Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos. -->
@@ -132,11 +132,11 @@ Para que la función raíz cuadrada sea real, se requiere que $x - 7 \ge 0$, lo 
 ### Enunciado
 ¿Cuál es el dominio de la función real $f(x) = \sqrt{x - 8}$?
 ### Opciones
-- [x] A) $[8, \infty)$
+- [x] C) $[8, \infty)$
   <!-- feedback: Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 8 \ge 0 \implies x \ge 8$. -->
-- [ ] B) $(8, \infty)$
+- [ ] A) $(8, \infty)$
   <!-- feedback: Incorrecto. Excluiste el valor 8, donde la raíz da 0 y es perfectamente válida en los reales. -->
-- [ ] C) $(-\infty, 8]$
+- [ ] B) $(-\infty, 8]$
   <!-- feedback: Incorrecto. Invertiste el sentido de la desigualdad. -->
 - [ ] D) \mathbb{R}
   <!-- feedback: Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos. -->
@@ -152,9 +152,9 @@ Para que la función raíz cuadrada sea real, se requiere que $x - 8 \ge 0$, lo 
 ### Enunciado
 ¿Cuál es el dominio de la función real $f(x) = \sqrt{x - 9}$?
 ### Opciones
-- [x] A) $[9, \infty)$
+- [x] B) $[9, \infty)$
   <!-- feedback: Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 9 \ge 0 \implies x \ge 9$. -->
-- [ ] B) $(9, \infty)$
+- [ ] A) $(9, \infty)$
   <!-- feedback: Incorrecto. Excluiste el valor 9, donde la raíz da 0 y es perfectamente válida en los reales. -->
 - [ ] C) $(-\infty, 9]$
   <!-- feedback: Incorrecto. Invertiste el sentido de la desigualdad. -->
@@ -172,13 +172,13 @@ Para que la función raíz cuadrada sea real, se requiere que $x - 9 \ge 0$, lo 
 ### Enunciado
 ¿Cuál es el dominio de la función real $f(x) = \sqrt{x - 10}$?
 ### Opciones
-- [x] A) $[10, \infty)$
+- [x] D) $[10, \infty)$
   <!-- feedback: Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 10 \ge 0 \implies x \ge 10$. -->
-- [ ] B) $(10, \infty)$
+- [ ] A) $(10, \infty)$
   <!-- feedback: Incorrecto. Excluiste el valor 10, donde la raíz da 0 y es perfectamente válida en los reales. -->
-- [ ] C) $(-\infty, 10]$
+- [ ] B) $(-\infty, 10]$
   <!-- feedback: Incorrecto. Invertiste el sentido de la desigualdad. -->
-- [ ] D) \mathbb{R}
+- [ ] C) \mathbb{R}
   <!-- feedback: Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos. -->
 ### Explicacion Pedagogica
 Para que la función raíz cuadrada sea real, se requiere que $x - 10 \ge 0$, lo que implica $x \ge 10$. Por lo tanto, el dominio es $[10, \infty)$.
@@ -192,13 +192,13 @@ Para que la función raíz cuadrada sea real, se requiere que $x - 10 \ge 0$, lo
 ### Enunciado
 ¿Cuál es el dominio de la función real $f(x) = \sqrt{x - 11}$?
 ### Opciones
-- [x] A) $[11, \infty)$
+- [x] D) $[11, \infty)$
   <!-- feedback: Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 11 \ge 0 \implies x \ge 11$. -->
-- [ ] B) $(11, \infty)$
+- [ ] A) $(11, \infty)$
   <!-- feedback: Incorrecto. Excluiste el valor 11, donde la raíz da 0 y es perfectamente válida en los reales. -->
-- [ ] C) $(-\infty, 11]$
+- [ ] B) $(-\infty, 11]$
   <!-- feedback: Incorrecto. Invertiste el sentido de la desigualdad. -->
-- [ ] D) \mathbb{R}
+- [ ] C) \mathbb{R}
   <!-- feedback: Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos. -->
 ### Explicacion Pedagogica
 Para que la función raíz cuadrada sea real, se requiere que $x - 11 \ge 0$, lo que implica $x \ge 11$. Por lo tanto, el dominio es $[11, \infty)$.
@@ -212,13 +212,13 @@ Para que la función raíz cuadrada sea real, se requiere que $x - 11 \ge 0$, lo
 ### Enunciado
 ¿Cuál es el dominio de la función real $f(x) = \sqrt{x - 12}$?
 ### Opciones
-- [x] A) $[12, \infty)$
+- [x] D) $[12, \infty)$
   <!-- feedback: Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 12 \ge 0 \implies x \ge 12$. -->
-- [ ] B) $(12, \infty)$
+- [ ] A) $(12, \infty)$
   <!-- feedback: Incorrecto. Excluiste el valor 12, donde la raíz da 0 y es perfectamente válida en los reales. -->
-- [ ] C) $(-\infty, 12]$
+- [ ] B) $(-\infty, 12]$
   <!-- feedback: Incorrecto. Invertiste el sentido de la desigualdad. -->
-- [ ] D) \mathbb{R}
+- [ ] C) \mathbb{R}
   <!-- feedback: Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos. -->
 ### Explicacion Pedagogica
 Para que la función raíz cuadrada sea real, se requiere que $x - 12 \ge 0$, lo que implica $x \ge 12$. Por lo tanto, el dominio es $[12, \infty)$.
@@ -272,9 +272,9 @@ Para que la función raíz cuadrada sea real, se requiere que $x - 14 \ge 0$, lo
 ### Enunciado
 ¿Cuál es el dominio de la función real $f(x) = \sqrt{x - 15}$?
 ### Opciones
-- [x] A) $[15, \infty)$
+- [x] B) $[15, \infty)$
   <!-- feedback: Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 15 \ge 0 \implies x \ge 15$. -->
-- [ ] B) $(15, \infty)$
+- [ ] A) $(15, \infty)$
   <!-- feedback: Incorrecto. Excluiste el valor 15, donde la raíz da 0 y es perfectamente válida en los reales. -->
 - [ ] C) $(-\infty, 15]$
   <!-- feedback: Incorrecto. Invertiste el sentido de la desigualdad. -->
@@ -312,9 +312,9 @@ Para que la función raíz cuadrada sea real, se requiere que $x - 16 \ge 0$, lo
 ### Enunciado
 ¿Cuál es el dominio de la función real $f(x) = \sqrt{x - 17}$?
 ### Opciones
-- [x] A) $[17, \infty)$
+- [x] B) $[17, \infty)$
   <!-- feedback: Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 17 \ge 0 \implies x \ge 17$. -->
-- [ ] B) $(17, \infty)$
+- [ ] A) $(17, \infty)$
   <!-- feedback: Incorrecto. Excluiste el valor 17, donde la raíz da 0 y es perfectamente válida en los reales. -->
 - [ ] C) $(-\infty, 17]$
   <!-- feedback: Incorrecto. Invertiste el sentido de la desigualdad. -->
@@ -332,11 +332,11 @@ Para que la función raíz cuadrada sea real, se requiere que $x - 17 \ge 0$, lo
 ### Enunciado
 ¿Cuál es el dominio de la función real $f(x) = \sqrt{x - 18}$?
 ### Opciones
-- [x] A) $[18, \infty)$
+- [x] C) $[18, \infty)$
   <!-- feedback: Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 18 \ge 0 \implies x \ge 18$. -->
-- [ ] B) $(18, \infty)$
+- [ ] A) $(18, \infty)$
   <!-- feedback: Incorrecto. Excluiste el valor 18, donde la raíz da 0 y es perfectamente válida en los reales. -->
-- [ ] C) $(-\infty, 18]$
+- [ ] B) $(-\infty, 18]$
   <!-- feedback: Incorrecto. Invertiste el sentido de la desigualdad. -->
 - [ ] D) \mathbb{R}
   <!-- feedback: Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos. -->
@@ -352,11 +352,11 @@ Para que la función raíz cuadrada sea real, se requiere que $x - 18 \ge 0$, lo
 ### Enunciado
 ¿Cuál es el dominio de la función real $f(x) = \sqrt{x - 19}$?
 ### Opciones
-- [x] A) $[19, \infty)$
+- [x] C) $[19, \infty)$
   <!-- feedback: Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 19 \ge 0 \implies x \ge 19$. -->
-- [ ] B) $(19, \infty)$
+- [ ] A) $(19, \infty)$
   <!-- feedback: Incorrecto. Excluiste el valor 19, donde la raíz da 0 y es perfectamente válida en los reales. -->
-- [ ] C) $(-\infty, 19]$
+- [ ] B) $(-\infty, 19]$
   <!-- feedback: Incorrecto. Invertiste el sentido de la desigualdad. -->
 - [ ] D) \mathbb{R}
   <!-- feedback: Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos. -->
@@ -372,9 +372,9 @@ Para que la función raíz cuadrada sea real, se requiere que $x - 19 \ge 0$, lo
 ### Enunciado
 ¿Cuál es el dominio de la función real $f(x) = \sqrt{x - 20}$?
 ### Opciones
-- [x] A) $[20, \infty)$
+- [x] B) $[20, \infty)$
   <!-- feedback: Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 20 \ge 0 \implies x \ge 20$. -->
-- [ ] B) $(20, \infty)$
+- [ ] A) $(20, \infty)$
   <!-- feedback: Incorrecto. Excluiste el valor 20, donde la raíz da 0 y es perfectamente válida en los reales. -->
 - [ ] C) $(-\infty, 20]$
   <!-- feedback: Incorrecto. Invertiste el sentido de la desigualdad. -->
@@ -392,11 +392,11 @@ Para que la función raíz cuadrada sea real, se requiere que $x - 20 \ge 0$, lo
 ### Enunciado
 ¿Cuál es el dominio de la función real $f(x) = \sqrt{x - 21}$?
 ### Opciones
-- [x] A) $[21, \infty)$
+- [x] C) $[21, \infty)$
   <!-- feedback: Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 21 \ge 0 \implies x \ge 21$. -->
-- [ ] B) $(21, \infty)$
+- [ ] A) $(21, \infty)$
   <!-- feedback: Incorrecto. Excluiste el valor 21, donde la raíz da 0 y es perfectamente válida en los reales. -->
-- [ ] C) $(-\infty, 21]$
+- [ ] B) $(-\infty, 21]$
   <!-- feedback: Incorrecto. Invertiste el sentido de la desigualdad. -->
 - [ ] D) \mathbb{R}
   <!-- feedback: Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos. -->
@@ -412,11 +412,11 @@ Para que la función raíz cuadrada sea real, se requiere que $x - 21 \ge 0$, lo
 ### Enunciado
 ¿Cuál es el dominio de la función real $f(x) = \sqrt{x - 22}$?
 ### Opciones
-- [x] A) $[22, \infty)$
+- [x] C) $[22, \infty)$
   <!-- feedback: Correcto. La cantidad subradical debe ser mayor o igual a cero: $x - 22 \ge 0 \implies x \ge 22$. -->
-- [ ] B) $(22, \infty)$
+- [ ] A) $(22, \infty)$
   <!-- feedback: Incorrecto. Excluiste el valor 22, donde la raíz da 0 y es perfectamente válida en los reales. -->
-- [ ] C) $(-\infty, 22]$
+- [ ] B) $(-\infty, 22]$
   <!-- feedback: Incorrecto. Invertiste el sentido de la desigualdad. -->
 - [ ] D) \mathbb{R}
   <!-- feedback: Incorrecto. Las raíces de índice par no están definidas en números reales para valores negativos. -->

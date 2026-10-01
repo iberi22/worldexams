@@ -30,9 +30,9 @@ creador: "Jules-Agent"
 Si compra 5 kilos de dulces a un precio de $120 pesos por kilo y la tienda le aplica un descuento del 15% sobre el total, ¿cuánto pagará Alejandro al final?
 
 ### Opciones
-- [x] A) $510.00 pesos
+- [x] B) $510.00 pesos
   <!-- feedback: ¡Correcto! El total original es $600 pesos, y el 15% de descuento equivale a $90 pesos, por lo que paga $510 pesos. -->
-- [ ] B) $425.00 pesos
+- [ ] A) $425.00 pesos
   <!-- feedback: Incorrecto. Este valor representa un descuento del 29.1%, no del 15%. -->
 - [ ] C) $540.00 pesos
   <!-- feedback: Incorrecto. Esto correspondería a un descuento del 10% únicamente. -->
@@ -55,9 +55,9 @@ La receta especifica que por cada 3 tazas de leche se deben añadir 2 tazas de a
 ### Opciones
 - [ ] A) 6 tazas de agua
   <!-- feedback: Incorrecto. Esto cambiaría la proporción a una relación de 2 a 1 en lugar de 3 a 2. -->
-- [x] B) 8 tazas de agua
+- [x] C) 8 tazas de agua
   <!-- feedback: ¡Correcto! Para mantener la proporción 3:2, si la leche se cuadruplica (de 3 a 12), el agua también se cuadruplica (de 2 a 8). -->
-- [ ] C) 10 tazas de agua
+- [ ] B) 10 tazas de agua
   <!-- feedback: Incorrecto. Agregar 10 tazas de agua haría que la mezcla quedara demasiado diluida. -->
 - [ ] D) 4 tazas de agua
   <!-- feedback: Incorrecto. Esta cantidad mantendría una proporción de 3 a 1, lo cual altera la receta. -->
@@ -99,11 +99,11 @@ Sumando los porcentajes asignados a las dos primeras bodegas obtenemos: 40% + 35
 La escala del mapa indica que 2 centímetros representan exactamente 15 kilómetros en la realidad. Si la distancia lineal medida en el mapa entre dos municipios de Nuevo León es de 8 centímetros, ¿cuántos kilómetros reales los separan?
 
 ### Opciones
-- [ ] A) 30 kilómetros
+- [ ] B) 30 kilómetros
   <!-- feedback: Incorrecto. 30 km corresponderían a una distancia de 4 cm en el mapa. -->
-- [ ] B) 45 kilómetros
+- [ ] C) 45 kilómetros
   <!-- feedback: Incorrecto. Esta distancia representaría 6 cm en el mapa. -->
-- [x] C) 60 kilómetros
+- [x] A) 60 kilómetros
   <!-- feedback: ¡Correcto! Si 2 cm son 15 km, entonces 8 cm representan 4 veces esa cantidad: 4 * 15 km = 60 km. -->
 - [ ] D) 75 kilómetros
   <!-- feedback: Incorrecto. 75 km representarían una distancia de 10 cm en el mapa. -->
@@ -122,9 +122,9 @@ Planteamos una regla de tres simple directa: si 2 cm equivalen a 15 km, entonces
 La temperatura inicial del sistema es de -12°C. Si después de agregar nitrógeno líquido la temperatura desciende 15°C más, ¿cuál es la temperatura final registrada por el estudiante?
 
 ### Opciones
-- [ ] A) 3°C
+- [ ] B) 3°C
   <!-- feedback: Incorrecto. Este resultado se obtendría sumando algebraicamente 15 a -12 sin considerar que la temperatura disminuye. -->
-- [x] B) -27°C
+- [x] A) -27°C
   <!-- feedback: ¡Correcto! Al estar a -12°C and descender 15°C adicionales, la temperatura final se obtiene al calcular: -12 - 15 = -27°C. -->
 - [ ] C) -3°C
   <!-- feedback: Incorrecto. Esto implicaría que la temperatura subió 9 grados en lugar de descender. -->
@@ -145,9 +145,9 @@ El término 'descender' indica una resta aritmética. Partiendo de una temperatu
 Un grupo de 15 turistas paga en total $18,000 pesos por la excursión. Si para el día siguiente el precio por persona aumenta un 20%, ¿cuánto tendrá que pagar en total un grupo de 10 turistas bajo la nueva tarifa?
 
 ### Opciones
-- [ ] A) $12,000 pesos
+- [ ] B) $12,000 pesos
   <!-- feedback: Incorrecto. Este sería el costo total para 10 turistas sin aplicar el incremento de tarifa. -->
-- [x] B) $14,400 pesos
+- [x] A) $14,400 pesos
   <!-- feedback: ¡Correcto! La tarifa inicial por persona es de $1,200 pesos. Con el aumento del 20%, la nueva tarifa es de $1,440 pesos por persona. Para 10 turistas, el total es $14,400 pesos. -->
 - [ ] C) $15,000 pesos
   <!-- feedback: Incorrecto. Se calculó un precio unitario incorrecto para la nueva tarifa. -->
@@ -191,9 +191,9 @@ La proporción establecida es de 2 bultos de cemento por cada 5 bultos de arena 
 Si utiliza 2 3/4 kg de harina para hornear conchas, 1 1/2 kg para mantecadas y le sobran 3/4 kg en su bulto original, ¿cuál era el peso total de harina que tenía antes de hornear?
 
 ### Opciones
-- [ ] A) 4 kg de harina
+- [ ] B) 4 kg de harina
   <!-- feedback: Incorrecto. Este peso no incluye la harina sobrante que todavía le quedaba en el bulto. -->
-- [x] B) 5 kg de harina
+- [x] A) 5 kg de harina
   <!-- feedback: ¡Correcto! Al sumar 2 3/4, 1 1/2 (que es 1 2/4) y 3/4, obtenemos un total de 5 kg. -->
 - [ ] C) 4.5 kg de harina
   <!-- feedback: Incorrecto. Suma aritmética inexacta de las partes fraccionarias de los ingredientes. -->
@@ -214,13 +214,13 @@ Para realizar la suma de manera sencilla, podemos convertir las fracciones mixta
 En su primer día de entrenamiento recorre 8.2 km, en el segundo día recorre 10 3/5 km y en el tercer día recorre 9.4 km. ¿Cuál es el promedio de kilómetros recorridos por el atleta durante estos tres días?
 
 ### Opciones
-- [x] A) 9.4 km
+- [x] D) 9.4 km
   <!-- feedback: ¡Correcto! La distancia del segundo día equivale a 10.6 km. Al sumar 8.2 + 10.6 + 9.4 = 28.2 km totales. Dividiendo entre 3 obtenemos un promedio diario de 9.4 km. -->
-- [ ] B) 9.2 km
+- [ ] A) 9.2 km
   <!-- feedback: Incorrecto. Este promedio no corresponde a la suma correcta de las distancias de los tres días. -->
-- [ ] C) 9.6 km
+- [ ] B) 9.6 km
   <!-- feedback: Incorrecto. Se cometió un error en la conversión de la fracción del segundo día a decimal. -->
-- [ ] D) 9.0 km
+- [ ] C) 9.0 km
   <!-- feedback: Incorrecto. Esto subestimaría el promedio real de kilómetros recorridos por el atleta. -->
 
 ### Explicacion Pedagogica
@@ -237,9 +237,9 @@ Primero, se convierte la fracción mixta del segundo día a decimal: 10 3/5 = 10
 ¿Cuál de las siguientes afirmaciones matemáticas describe correctamente a los números irracionales?
 
 ### Opciones
-- [ ] A) Se pueden expresar siempre como el cociente de dos números enteros.
+- [ ] B) Se pueden expresar siempre como el cociente de dos números enteros.
   <!-- feedback: Incorrecto. Esa es la definición exacta de los números racionales. -->
-- [x] B) Su expansión decimal es infinita y no presenta un patrón periódico.
+- [x] A) Su expansión decimal es infinita y no presenta un patrón periódico.
   <!-- feedback: ¡Correcto! Por definición, los números irracionales poseen decimales infinitos que no se se repiten de forma periódica. -->
 - [ ] C) Incluyen a todos los números enteros negativos y positivos.
   <!-- feedback: Incorrecto. Los números enteros son parte de los números racionales, no de los irracionales. -->
@@ -333,9 +333,9 @@ Dada la expresión matemática R = (3/4 - 1/6) / (1/2 + 2/3), ¿cuál es el valo
   <!-- feedback: Incorrecto. Esto corresponde únicamente al valor obtenido en el numerador, sin dividirlo por el denominador. -->
 - [ ] B) 7/14
   <!-- feedback: Incorrecto. Resultado de una operación incorrecta al sumar fracciones con denominadores distintos. -->
-- [x] C) 1/2
+- [x] D) 1/2
   <!-- feedback: ¡Correcto! El numerador es 3/4 - 1/6 = 7/12. El denominador es 1/2 + 2/3 = 7/6. Dividiendo (7/12) / (7/6) = (7 * 6) / (12 * 7) = 6/12 = 1/2. -->
-- [ ] D) 7/6
+- [ ] C) 7/6
   <!-- feedback: Incorrecto. Esto corresponde únicamente al valor del denominador de la expresión compleja. -->
 
 ### Explicacion Pedagogica
@@ -377,11 +377,11 @@ Para encontrar el punto medio exacto en la recta numérica entre dos valores, su
 ### Opciones
 - [ ] A) Multiplicación
   <!-- feedback: Incorrecto. Al multiplicar dos números enteros, el resultado siempre será un número entero. -->
-- [x] B) División
+- [x] D) División
   <!-- feedback: ¡Correcto! Al dividir dos enteros cualesquiera, el resultado no necesariamente pertenece al conjunto de los enteros (por ejemplo, 3 dividido entre 4 es 0.75, que no es entero). -->
-- [ ] C) Suma
+- [ ] B) Suma
   <!-- feedback: Incorrecto. La suma de dos números enteros siempre resulta en un número entero. -->
-- [ ] D) Resta
+- [ ] C) Resta
   <!-- feedback: Incorrecto. La resta de dos números enteros siempre genera otro número entero. -->
 
 ### Explicacion Pedagogica
@@ -398,9 +398,9 @@ La propiedad de cerradura (o clausura) indica que al realizar una operación mat
 ¿Cuál es el valor simplificado a un número entero de la siguiente expresión con exponentes negativos: (1/4)⁻² + (1/3)⁻³?
 
 ### Opciones
-- [ ] A) 25
+- [ ] B) 25
   <!-- feedback: Incorrecto. Se realizó un cálculo erróneo ignorando la inversión de las bases fraccionarias. -->
-- [x] B) 43
+- [x] A) 43
   <!-- feedback: ¡Correcto! Usando la definición de exponente negativo: (1/4)^-2 = 4^2 = 16. Para el segundo término: (1/3)^-3 = 3^3 = 27. Sumando: 16 + 27 = 43. -->
 - [ ] C) 31
   <!-- feedback: Incorrecto. Se cometió un error al elevar las bases invertidas a sus respectivas potencias. -->
@@ -421,13 +421,13 @@ Un exponente negativo invierte la base fraccionaria: (a/b)⁻ⁿ = (b/a)ⁿ. Por
 Evalúa la siguiente expresión aritmética respetando estrictamente la jerarquía de operaciones: [ 4 * (2 - 7)² - √100 ] / ( -3 )
 
 ### Opciones
-- [x] A) -30
+- [x] D) -30
   <!-- feedback: ¡Correcto! Siguiendo el orden: (2-7)^2 = (-5)^2 = 25. Multiplicando: 4*25 = 100. Restando: 100 - 10 = 90. Dividiendo: 90 / (-3) = -30. -->
-- [ ] B) 30
+- [ ] A) 30
   <!-- feedback: Incorrecto. Se cometió un error con el signo negativo al realizar la división final entre -3. -->
-- [ ] C) -10
+- [ ] B) -10
   <!-- feedback: Incorrecto. Error de cálculo en la resolución de la potencia o en la resta dentro del corchete. -->
-- [ ] D) -15
+- [ ] C) -15
   <!-- feedback: Incorrecto. No se aplicó correctamente el orden de las operaciones básicas. -->
 
 ### Explicacion Pedagogica
@@ -444,9 +444,9 @@ Siguiendo el orden jerárquico establecido: 1) Resolvemos lo que está dentro de
 Si definimos una variable real x = 0.999..., ¿cuál es el valor real exacto de x utilizando métodos de conversión formal a fracción?
 
 ### Opciones
-- [ ] A) 0.99
+- [ ] B) 0.99
   <!-- feedback: Incorrecto. Este es un número decimal finito que es estrictamente menor a x. -->
-- [x] B) 1
+- [x] A) 1
   <!-- feedback: ¡Correcto! Al aplicar la regla de conversión, el periodo es 9 y se divide entre 9, lo que da 9/9 = 1. Matemáticamente, 0.999... es idéntico a 1. -->
 - [ ] C) 0.9
   <!-- feedback: Incorrecto. Es un decimal finito truncado a una sola cifra decimal. -->
@@ -469,9 +469,9 @@ Podemos demostrarlo planteando: sea x = 0.999... Multiplicamos por 10 en ambos l
 ### Opciones
 - [ ] A) El conjunto de los números enteros es denso en el conjunto de los números racionales.
   <!-- feedback: Incorrecto. Entre dos enteros consecutivos no existe ningún otro número entero. -->
-- [x] B) Entre cualquier par de números reales distintos, existen infinitos números racionales.
+- [x] C) Entre cualquier par de números reales distintos, existen infinitos números racionales.
   <!-- feedback: ¡Correcto! Esta propiedad se conoce como la densidad de los números racionales en la recta real. -->
-- [ ] C) Los números reales negativos no poseen inverso aditivo dentro del mismo conjunto.
+- [ ] B) Los números reales negativos no poseen inverso aditivo dentro del mismo conjunto.
   <!-- feedback: Incorrecto. El inverso aditivo de cualquier real negativo es su correspondiente positivo, que también es real. -->
 - [ ] D) La multiplicación de dos números irracionales siempre da como resultado otro número racional.
   <!-- feedback: Incorrecto. Por ejemplo, multiplicar √2 por √3 resulta en √6, que sigue siendo irracional. -->

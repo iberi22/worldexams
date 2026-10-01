@@ -34,13 +34,13 @@ Derechos de los niños, deberes en el colegio y el barrio, y funcionamiento del 
 ¿Qué es un derecho?
 
 ### Opciones
-- [x] A) Es una garantía que tienen todas las personas para vivir con dignidad.
+- [x] D) Es una garantía que tienen todas las personas para vivir con dignidad.
   <!-- feedback: Los derechos son garantías universales que protegen la dignidad humana. -->
-- [ ] B) Es una obligación que solo cumplen los adultos mayores.
+- [ ] A) Es una obligación que solo cumplen los adultos mayores.
   <!-- feedback: Las obligaciones se llaman deberes y no solo corresponden a los adultos. -->
-- [ ] C) Es un premio que se entrega a los más estudiosos.
+- [ ] B) Es un premio que se entrega a los más estudiosos.
   <!-- feedback: Los derechos no son premios; corresponden a todos por igual. -->
-- [ ] D) Es una regla que se puede romper sin consecuencias.
+- [ ] C) Es una regla que se puede romper sin consecuencias.
   <!-- feedback: Las normas existen para proteger la convivencia, no para romperse. -->
 
 ### Explicacion Pedagogica
@@ -57,13 +57,13 @@ Comprender que los derechos son garantías universales que protegen la dignidad 
 ¿Cuál es la relación entre derechos y deberes?
 
 ### Opciones
-- [x] A) Los deberes permiten que todos puedan disfrutar sus derechos respetando a los demás.
+- [x] D) Los deberes permiten que todos puedan disfrutar sus derechos respetando a los demás.
   <!-- feedback: Cumplir los deberes garantiza la convivencia y el respeto de los derechos de todos. -->
-- [ ] B) Los deberes sirven para quitarles los derechos a las personas.
+- [ ] A) Los deberes sirven para quitarles los derechos a las personas.
   <!-- feedback: Los deberes no anulan los derechos, los respaldan. -->
-- [ ] C) Los derechos y los deberes no tienen ninguna relación.
+- [ ] B) Los derechos y los deberes no tienen ninguna relación.
   <!-- feedback: Están estrechamente relacionados: se complementan entre sí. -->
-- [ ] D) Solo los adultos tienen deberes, los niños no.
+- [ ] C) Solo los adultos tienen deberes, los niños no.
   <!-- feedback: Los niños también tienen deberes en la casa, el colegio y el barrio. -->
 
 ### Explicacion Pedagogica
@@ -80,11 +80,11 @@ Entender que derechos y deberes son complementarios: cumplir los deberes garanti
 ¿Cuál de las siguientes acciones es un deber de los estudiantes?
 
 ### Opciones
-- [x] A) Llegar puntualmente a clase y cuidar los elementos del colegio.
+- [x] C) Llegar puntualmente a clase y cuidar los elementos del colegio.
   <!-- feedback: La puntualidad y el cuidado de los bienes son deberes escolares básicos. -->
-- [ ] B) Decidir los precios de los alimentos de la tienda escolar.
+- [ ] A) Decidir los precios de los alimentos de la tienda escolar.
   <!-- feedback: Fijar precios no es una responsabilidad de los estudiantes. -->
-- [ ] C) Cambiar las leyes de la Constitución Política.
+- [ ] B) Cambiar las leyes de la Constitución Política.
   <!-- feedback: Eso corresponde al Congreso, no a los estudiantes. -->
 - [ ] D) Elegir al alcalde de la ciudad.
   <!-- feedback: Elegir al alcalde es un derecho de los ciudadanos mayores de edad. -->
@@ -103,13 +103,13 @@ Aplicar el concepto de deber al contexto escolar, identificando las responsabili
 ¿Para qué sirve el gobierno escolar?
 
 ### Opciones
-- [x] A) Para que los estudiantes participen y propongan soluciones a los problemas del colegio.
+- [x] D) Para que los estudiantes participen y propongan soluciones a los problemas del colegio.
   <!-- feedback: El gobierno escolar es un espacio de participación democrática de los estudiantes. -->
-- [ ] B) Para que los profesores elijan a los representantes sin consultar a nadie.
+- [ ] A) Para que los profesores elijan a los representantes sin consultar a nadie.
   <!-- feedback: La elección debe contar con la participación de los estudiantes. -->
-- [ ] C) Para reemplazar al rector en todas sus funciones.
+- [ ] B) Para reemplazar al rector en todas sus funciones.
   <!-- feedback: El gobierno escolar participa, pero no reemplaza a las directivas. -->
-- [ ] D) Para recaudar impuestos a las familias.
+- [ ] C) Para recaudar impuestos a las familias.
   <!-- feedback: Los impuestos no son función del gobierno escolar. -->
 
 ### Explicacion Pedagogica
@@ -149,9 +149,9 @@ Valorar la diversidad cultural como riqueza de la comunidad y rechazar actitudes
 ¿Cuál es la función que debe cumplir el personero ante esta situación?
 
 ### Opciones
-- [x] A) Representar a los estudiantes y llevar sus inquietudes ante las directivas para buscar una solución.
+- [x] B) Representar a los estudiantes y llevar sus inquietudes ante las directivas para buscar una solución.
   <!-- feedback: El personero es el vocero de los estudiantes ante las autoridades del colegio. -->
-- [ ] B) Sancionar con multas a los cocineros del restaurante.
+- [ ] A) Sancionar con multas a los cocineros del restaurante.
   <!-- feedback: El personero no tiene autoridad para imponer multas. -->
 - [ ] C) Cerrar el restaurante sin avisar a nadie.
   <!-- feedback: Cerrar un servicio sin diálogo no es una solución democrática. -->
@@ -172,11 +172,11 @@ Analizar el papel del personero estudiantil como mediador y vocero de los estudi
 ¿Qué relación hay entre el deber de mantener limpio el barrio y el derecho a un ambiente sano?
 
 ### Opciones
-- [x] A) Cumplir el deber de sacar la basura correctamente protege el derecho de todos a un ambiente sano.
+- [x] C) Cumplir el deber de sacar la basura correctamente protege el derecho de todos a un ambiente sano.
   <!-- feedback: Un deber individual bien cumplido protege un derecho de toda la comunidad. -->
-- [ ] B) No existe relación entre la basura y la salud de los vecinos.
+- [ ] A) No existe relación entre la basura y la salud de los vecinos.
   <!-- feedback: La basura mal manejada afecta la salud y el ambiente del barrio. -->
-- [ ] C) El derecho a un ambiente sano anula el deber de cuidar el barrio.
+- [ ] B) El derecho a un ambiente sano anula el deber de cuidar el barrio.
   <!-- feedback: El derecho no anula el deber; ambos se complementan. -->
 - [ ] D) Solo el Estado debe limpiar las calles y los vecinos no deben hacer nada.
   <!-- feedback: El aseo del barrio es una responsabilidad compartida con los vecinos. -->
@@ -195,13 +195,13 @@ Analizar cómo el cumplimiento de un deber individual protege un derecho colecti
 ¿Cuál propuesta contribuye mejor a que todos cumplan sus deberes y convivan en paz?
 
 ### Opciones
-- [x] A) Crear pactos de convivencia construidos entre todos, con reglas claras y consecuencias justas.
+- [x] D) Crear pactos de convivencia construidos entre todos, con reglas claras y consecuencias justas.
   <!-- feedback: Las reglas construidas en conjunto y con justicia favorecen la convivencia democrática. -->
-- [ ] B) Castigar a todos los estudiantes sin escuchar sus razones.
+- [ ] A) Castigar a todos los estudiantes sin escuchar sus razones.
   <!-- feedback: Castigar sin escuchar no es justo ni democrático. -->
-- [ ] C) Suspender los descansos para siempre y prohibir el juego.
+- [ ] B) Suspender los descansos para siempre y prohibir el juego.
   <!-- feedback: Prohibir el juego desconoce un derecho de la infancia. -->
-- [ ] D) Permitir que cada uno haga lo que quiera sin ninguna regla.
+- [ ] C) Permitir que cada uno haga lo que quiera sin ninguna regla.
   <!-- feedback: Sin reglas no hay orden ni respeto por los derechos de los demás. -->
 
 ### Explicacion Pedagogica

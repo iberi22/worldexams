@@ -34,11 +34,11 @@ Este bundle contiene 20 preguntas sobre **Secciones Cónicas** para grado 11, al
 ¿Cuál es el centro $C$ y el radio $r$ de esta circunferencia?
 
 ### Opciones
-- [x] A) Centro $C(0,0)$ y radio $r = 5$
+- [x] C) Centro $C(0,0)$ y radio $r = 5$
   <!-- feedback: Correcto. La forma canónica $x^2 + y^2 = R^2$ tiene centro en el origen y $r = \sqrt{25} = 5$. -->
-- [ ] B) Centro $C(0,0)$ y radio $r = 25$
+- [ ] A) Centro $C(0,0)$ y radio $r = 25$
   <!-- feedback: Incorrecto. 25 es el cuadrado del radio ($r^2$), falta sacar raíz cuadrada. -->
-- [ ] C) Centro $C(5,5)$ y radio $r = 5$
+- [ ] B) Centro $C(5,5)$ y radio $r = 5$
   <!-- feedback: Incorrecto. La circunferencia no está desplazada. -->
 - [ ] D) Centro $C(0,0)$ y radio $r = 12.5$
   <!-- feedback: Incorrecto. Se dividió por 2 en lugar de extraer la raíz cuadrada. -->
@@ -57,9 +57,9 @@ Para $x^2 + y^2 = R^2$, el centro es $(0,0)$ y el radio es $r = \sqrt{R^2} = \sq
 ¿Cuáles son las coordenadas del centro $C(h, k)$?
 
 ### Opciones
-- [x] A) $C(3, -2)$
+- [x] B) $C(3, -2)$
   <!-- feedback: Correcto. En $(x-h)^2 + (y-k)^2 = r^2$, $h = 3$ y $k = -2$. -->
-- [ ] B) $C(-3, 2)$
+- [ ] A) $C(-3, 2)$
   <!-- feedback: Incorrecto. Se invirtieron los signos de las coordenadas. -->
 - [ ] C) $C(3, 2)$
   <!-- feedback: Incorrecto. Se omitió el signo negativo de $k=-2$. -->
@@ -80,9 +80,9 @@ Comparando con $(x-h)^2 + (y-k)^2 = r^2$: $x-h = x-3 \implies h=3$; $y-k = y+2 \
 ¿Cuál es la coordenada del foco $F$ de esta parábola?
 
 ### Opciones
-- [x] A) $F(3, 0)$
+- [x] B) $F(3, 0)$
   <!-- feedback: Correcto. $4p = 12 \implies p = 3$. Como abre horizontalmente hacia la derecha, el foco está en $(3,0)$. -->
-- [ ] B) $F(0, 3)$
+- [ ] A) $F(0, 3)$
   <!-- feedback: Incorrecto. Se colocó el foco sobre el eje $y$, pero la parábola abre sobre el eje $x$. -->
 - [ ] C) $F(12, 0)$
   <!-- feedback: Incorrecto. Se tomó $4p$ directamente como $p$. -->
@@ -126,11 +126,11 @@ $4p = 8 \implies p = 2$. La parábola abre verticalmente en $+y$, por ende su di
 ¿Cuáles son las longitudes de los semiejos mayor ($a$) y menor ($b$)?
 
 ### Opciones
-- [x] A) $a = 5$ y $b = 3$
+- [x] C) $a = 5$ y $b = 3$
   <!-- feedback: Correcto. $a^2 = 25 \implies a = 5$; $b^2 = 9 \implies b = 3$. -->
-- [ ] B) $a = 25$ y $b = 9$
+- [ ] A) $a = 25$ y $b = 9$
   <!-- feedback: Incorrecto. Se omitió sacar la raíz cuadrada de los denominadores. -->
-- [ ] C) $a = 9$ y $b = 25$
+- [ ] B) $a = 9$ y $b = 25$
   <!-- feedback: Incorrecto. El semieje mayor siempre es el número más grande. -->
 - [ ] D) $a = 10$ y $b = 6$
   <!-- feedback: Incorrecto. Se dividieron los denominadores por 2.5 en vez de calcular raíces. -->
@@ -149,13 +149,13 @@ Para una elipse horizontal $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$, $a = \sqrt{2
 ¿Dónde se ubican los focos $F_1$ y $F_2$ de la elipse?
 
 ### Opciones
-- [x] A) Focos en $(-4, 0)$ y $(4, 0)$
+- [x] D) Focos en $(-4, 0)$ y $(4, 0)$
   <!-- feedback: Correcto. $c = \sqrt{a^2 - b^2} = \sqrt{25 - 9} = \sqrt{16} = 4$. Al ser horizontal, están en $(\pm 4, 0)$. -->
-- [ ] B) Focos en $(0, -4)$ y $(0, 4)$
+- [ ] A) Focos en $(0, -4)$ y $(0, 4)$
   <!-- feedback: Incorrecto. Se ubicaron en el eje $y$, pero la elipse es horizontal. -->
-- [ ] C) Focos en $(-16, 0)$ y $(16, 0)$
+- [ ] B) Focos en $(-16, 0)$ y $(16, 0)$
   <!-- feedback: Incorrecto. No se extrajo raíz cuadrada a $c^2 = 16$. -->
-- [ ] D) Focos en $(-5, 0)$ y $(5, 0)$
+- [ ] C) Focos en $(-5, 0)$ y $(5, 0)$
   <!-- feedback: Incorrecto. Esos son los vértices de la elipse, no los focos. -->
 
 ### Explicacion Pedagogica
@@ -172,11 +172,11 @@ Relación fundamental de la elipse: $c^2 = a^2 - b^2 = 25 - 9 = 16 \implies c = 
 ¿Cuáles son las ecuaciones de las asíntotas de esta hipérbola?
 
 ### Opciones
-- [x] A) $y = \pm \frac{3}{4}x$
+- [x] C) $y = \pm \frac{3}{4}x$
   <!-- feedback: Correcto. Para hipérbola horizontal $\frac{x^2}{a^2} - \frac{y^2}{b^2} = 1$, las asíntotas son $y = \pm \frac{b}{a}x = \pm \frac{3}{4}x$. -->
-- [ ] B) $y = \pm \frac{4}{3}x$
+- [ ] A) $y = \pm \frac{4}{3}x$
   <!-- feedback: Incorrecto. Se invirtió la relación $\frac{a}{b}$. -->
-- [ ] C) $y = \pm \frac{9}{16}x$
+- [ ] B) $y = \pm \frac{9}{16}x$
   <!-- feedback: Incorrecto. Se usaron los cuadrados $b^2/a^2$. -->
 - [ ] D) $y = \pm \frac{16}{9}x$
   <!-- feedback: Incorrecto. Se usó $a^2/b^2$. -->
@@ -195,13 +195,13 @@ Asíntotas de $\frac{x^2}{a^2} - \frac{y^2}{b^2} = 1$ son $y = \pm \frac{b}{a}x$
 ¿Cuál es el valor de la excentricidad $e = \frac{c}{a}$?
 
 ### Opciones
-- [x] A) 0.6
+- [x] D) 0.6
   <!-- feedback: Correcto. $a=10, b=8 \implies c = \sqrt{100-64} = 6$. Excentricidad $e = \frac{6}{10} = 0.6$. -->
-- [ ] B) 0.8
+- [ ] A) 0.8
   <!-- feedback: Incorrecto. Se dividió $b/a = 8/10$ en lugar de $c/a$. -->
-- [ ] C) 1.25
+- [ ] B) 1.25
   <!-- feedback: Incorrecto. La excentricidad de una elipse siempre es menor que 1. -->
-- [ ] D) 0.36
+- [ ] C) 0.36
   <!-- feedback: Incorrecto. Se calculó $c^2/a^2$. -->
 
 ### Explicacion Pedagogica
@@ -241,9 +241,9 @@ $(x^2-4x+4) + (y^2+6y+9) = 3 + 4 + 9 \implies (x-2)^2 + (y+3)^2 = 16$. El radio 
 ¿De qué cónica se trata?
 
 ### Opciones
-- [x] A) Una circunferencia
+- [x] B) Una circunferencia
   <!-- feedback: Correcto. Los coeficientes de $x^2$ y $y^2$ son iguales ($A = B = 2$). -->
-- [ ] B) Una elipse no circular
+- [ ] A) Una elipse no circular
   <!-- feedback: Incorrecto. En una elipse los coeficientes $A$ y $B$ deben ser distintos pero del mismo signo. -->
 - [ ] C) Una hipérbola
   <!-- feedback: Incorrecto. Una hipérbola requiere coeficientes de signos opuestos. -->
@@ -264,9 +264,9 @@ En la ecuación cuadrática general $Ax^2 + By^2 + Cx + Dy + E = 0$, si $A = B \
 Si una cónica tiene excentricidad $e > 1$, ¿qué tipo de cónica es?
 
 ### Opciones
-- [x] A) Una hipérbola
+- [x] B) Una hipérbola
   <!-- feedback: Correcto. Por definición, la hipérbola tiene $e > 1$ (pues $c > a$). -->
-- [ ] B) Una elipse
+- [ ] A) Una elipse
   <!-- feedback: Incorrecto. La elipse tiene $0 < e < 1$. -->
 - [ ] C) Una parábola
   <!-- feedback: Incorrecto. La parábola tiene excentricidad $e = 1$ exacto. -->
@@ -287,9 +287,9 @@ Clasificación por excentricidad $e$: Circunferencia $e=0$, Elipse $0 < e < 1$, 
 ¿Cuál es la longitud de su lado recto?
 
 ### Opciones
-- [x] A) 2
+- [x] B) 2
   <!-- feedback: Correcto. $a^2=16 \implies a=4$, $b^2=4$. Lado recto $L = \frac{2(4)}{4} = 2$. -->
-- [ ] B) 4
+- [ ] A) 4
   <!-- feedback: Incorrecto. No se dividió por $a=4$. -->
 - [ ] C) 1
   <!-- feedback: Incorrecto. Se dividió por $a^2=16$ en lugar de $a=4$. -->
@@ -356,9 +356,9 @@ Igualando $x^2 + 1 = x + 1 \implies x^2 - x = 0 \implies x=0$ o $x=1$. Evaluando
 ¿Qué cónica se forma y cuál es su ecuación?
 
 ### Opciones
-- [x] A) Una parábola de ecuación $x^2 = 12y$
+- [x] B) Una parábola de ecuación $x^2 = 12y$
   <!-- feedback: Correcto. Por definición, la cónica es una parábola con foco en $(0,3)$ y directriz $y=-3$. Vértice en $(0,0)$, $p=3 \implies x^2 = 4(3)y = 12y$. -->
-- [ ] B) Una circunferencia de ecuación $x^2 + y^2 = 9$
+- [ ] A) Una circunferencia de ecuación $x^2 + y^2 = 9$
   <!-- feedback: Incorrecto. La equdistancia punto-recta define parábola, no circunferencia. -->
 - [ ] C) Una parábola de ecuación $y^2 = 12x$
   <!-- feedback: Incorrecto. Se intercambiaron los ejes $x$ e $y$. -->
@@ -379,9 +379,9 @@ La definición de parábola es el lugar geométrico de puntos que equidistan de 
 ¿Cuáles son las ecuaciones de sus asíntotas?
 
 ### Opciones
-- [x] A) $y = x$ y $y = -x$
+- [x] B) $y = x$ y $y = -x$
   <!-- feedback: Correcto. Como $a^2 = b^2 = 16 \implies a = b = 4$, las asíntotas son $y = \pm \frac{4}{4}x = \pm x$. -->
-- [ ] B) $y = 2x$ y $y = -2x$
+- [ ] A) $y = 2x$ y $y = -2x$
   <!-- feedback: Incorrecto. Error al simplificar la fracción $b/a$. -->
 - [ ] C) $y = 4$ y $y = -4$
   <!-- feedback: Incorrecto. Son rectas horizontales, no asíntotas inclinadas. -->
@@ -402,9 +402,9 @@ En una hipérbola equilátera $a = b$. Por tanto, la pendiente de sus asíntotas
 ¿Cómo cambia el área encerrada por la nueva circunferencia?
 
 ### Opciones
-- [x] A) El área se multiplica por $k^2$.
+- [x] B) El área se multiplica por $k^2$.
   <!-- feedback: Correcto. Área original $A_1 = \pi r^2$. Nueva área $A_2 = \pi (kr)^2 = k^2 (\pi r^2) = k^2 A_1$. -->
-- [ ] B) El área se multiplica por $k$.
+- [ ] A) El área se multiplica por $k$.
   <!-- feedback: Incorrecto. El área escala cuadráticamente con el radio. -->
 - [ ] C) El área se multiplica por $2k$.
   <!-- feedback: Incorrecto. Confusión con la fórmula del perímetro. -->
@@ -425,13 +425,13 @@ $A(r) = \pi r^2 \implies A(kr) = \pi k^2 r^2 = k^2 A(r)$. El área escala cuadr�
 Si el plano corta todas las generatrices del cono y no es perpendicular ni paralelo al eje del cono, ¿qué cónica se obtiene?
 
 ### Opciones
-- [x] A) Una elipse
+- [x] D) Una elipse
   <!-- feedback: Correcto. Un corte inclinado que atraviesa completamente un manto del cono produce una elipse. -->
-- [ ] B) Una parábola
+- [ ] A) Una parábola
   <!-- feedback: Incorrecto. Una parábola requiere que el plano sea paralelo a una sola generatriz. -->
-- [ ] C) Una hipérbola
+- [ ] B) Una hipérbola
   <!-- feedback: Incorrecto. Una hipérbola corta ambos mantos del cono. -->
-- [ ] D) Una circunferencia
+- [ ] C) Una circunferencia
   <!-- feedback: Incorrecto. La circunferencia requiere un corte estrictamente perpendicular al eje de simetría. -->
 
 ### Explicacion Pedagogica
@@ -448,13 +448,13 @@ La sección cónica obtenida cortando un manto completamente de forma oblicua al
 ¿Cuál es la ecuación de la recta tangente en dicho punto?
 
 ### Opciones
-- [x] A) $3x + 4y = 25$
+- [x] D) $3x + 4y = 25$
   <!-- feedback: Correcto. La pendiente del radio es $m_R = 4/3$. La pendiente tangente es $m_T = -3/4$. $y - 4 = -\frac{3}{4}(x - 3) \implies 4y - 16 = -3x + 9 \implies 3x + 4y = 25$. -->
-- [ ] B) $4x + 3y = 25$
+- [ ] A) $4x + 3y = 25$
   <!-- feedback: Incorrecto. Se invirtieron los coeficientes del punto. -->
-- [ ] C) $3x - 4y = 0$
+- [ ] B) $3x - 4y = 0$
   <!-- feedback: Incorrecto. Pasa por el origen en lugar de ser tangente. -->
-- [ ] D) $y = \frac{4}{3}x$
+- [ ] C) $y = \frac{4}{3}x$
   <!-- feedback: Incorrecto. Es la recta que contiene al radio, perpendicular a la tangente. -->
 
 ### Explicacion Pedagogica

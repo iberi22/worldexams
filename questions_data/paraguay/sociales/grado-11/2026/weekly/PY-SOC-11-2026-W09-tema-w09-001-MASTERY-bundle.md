@@ -56,11 +56,11 @@ El régimen del Gral. Alfredo Stroessner controló al país de forma totalitaria
 ¿Qué gigantesca represa hidroeléctrica binacional, considerada una de las mayores del planeta, fue inaugurada en 1984 bajo el régimen de Alfredo Stroessner en condominio con el Brasil?
 
 ### Opciones
-- [x] A) La represa hidroeléctrica de Itaipú
+- [x] C) La represa hidroeléctrica de Itaipú
   <!-- feedback: Correcto. La represa de Itaipú fue construida sobre el río Paraná en condominio binacional entre Paraguay y Brasil, constituyendo la mayor obra de infraestructura del régimen. -->
-- [ ] B) La represa hidroeléctrica de Yacyretá
+- [ ] A) La represa hidroeléctrica de Yacyretá
   <!-- feedback: Incorrecto. Yacyretá es una central binacional construida aguas abajo con la República Argentina, concluida décadas después. -->
-- [ ] C) La central siderúrgica de Ybycuí
+- [ ] B) La central siderúrgica de Ybycuí
   <!-- feedback: Incorrecto. Ybycuí albergó la fundición de hierro pionera del siglo XIX, destruida en la Guerra de la Triple Alianza. -->
 - [ ] D) La represa hidroeléctrica de Acaray
   <!-- feedback: Incorrecto. Acaray es una represa menor e íntegramente nacional construida sobre el río homónimo en la década de 1960. -->
@@ -79,13 +79,13 @@ Itaipú proveyó abundancia de energía limpia al Paraguay y deparó un colosal 
 ¿Qué esquema político de dominación, denominado por los sociólogos como 'trilogía' de poder, sostuvo la estabilidad autoritaria del régimen de Stroessner?
 
 ### Opciones
-- [x] A) El Gobierno, las Fuerzas Armadas y el Partido Colorado
+- [x] D) El Gobierno, las Fuerzas Armadas y el Partido Colorado
   <!-- feedback: Correcto. Este tríptico institucional fusionó al Estado con el partido oficialista y el control militar represivo, impidiendo de forma totalitaria la alternancia política. -->
-- [ ] B) La corona británica, los obispos jesuitas y los sindicatos agrarios
+- [ ] A) La corona británica, los obispos jesuitas y los sindicatos agrarios
   <!-- feedback: Incorrecto. Los sindicatos y las corrientes de base eclesiásticas católicas fueron perseguidas y reprimidas sistemáticamente por el régimen de Stroessner. -->
-- [ ] C) El Partido Liberal, el Partido Febrerista y las multinacionales mineras
+- [ ] B) El Partido Liberal, el Partido Febrerista y las multinacionales mineras
   <!-- feedback: Incorrecto. Los partidos de oposición fueron proscritos, perseguidos de forma violenta o cooptados bajo fachada democrática débil. -->
-- [ ] D) La alianza militar de Asunción con las coronas reales de Asia oriental
+- [ ] C) La alianza militar de Asunción con las coronas reales de Asia oriental
   <!-- feedback: Incorrecto. Planteamiento de ficción ajeno al contexto geopolítico de seguridad nacional anticomunista de la Guerra Fría de los años 1950 a 1980. -->
 
 ### Explicacion Pedagogica
@@ -102,13 +102,13 @@ El control stronista se basó en el sometimiento partidario obligatorio de los e
 ¿Qué reforma y enmienda constitucional clave de 1977 impuso Alfredo Stroessner para legitimar judicialmente la perpetuación de su mandato de forma indefinida?
 
 ### Opciones
-- [x] A) La enmienda constitucional que permitió la reelección presidencial indefinida, eliminando las restricciones de periodos consecutivos anteriores
+- [x] D) La enmienda constitucional que permitió la reelección presidencial indefinida, eliminando las restricciones de periodos consecutivos anteriores
   <!-- feedback: Correcto. La enmienda de 1977 posibilitó al dictador perpetuarse en la presidencia mediante fraudulentas elecciones periódicas sin límites de mandatos constitucionales. -->
-- [ ] B) La abolición del Poder Ejecutivo unipersonal para sustituirlo por el gobierno de dos cónsules vitalicios
+- [ ] A) La abolición del Poder Ejecutivo unipersonal para sustituirlo por el gobierno de dos cónsules vitalicios
   <!-- feedback: Incorrecto. El Consulado transitorio pertenecía al pasado histórico nacional de la independencia de la era de Francia de 1813. -->
-- [ ] C) La anexión pacífica del territorio del Chaco Boreal al control soberano de los Estados Unidos
+- [ ] B) La anexión pacífica del territorio del Chaco Boreal al control soberano de los Estados Unidos
   <!-- feedback: Incorrecto. Paraguay conservó la soberanía del Chaco, el régimen stronista se subordinaba diplomáticamente a EE. UU. en la Guerra Fría pero sin cesión de suelo patrio. -->
-- [ ] D) La prohibición de toda actividad ganadera en el departamento de Boquerón
+- [ ] C) La prohibición de toda actividad ganadera en el departamento de Boquerón
   <!-- feedback: Incorrecto. Al contrario, el régimen promovió el desarrollo pecuario latifundista y las colonias chaqueñas menonitas de exportación activa. -->
 
 ### Explicacion Pedagogica
@@ -148,11 +148,11 @@ El Estado de Sitio permanente dotó a la policía stronista (dirigida por jefes 
 ¿Qué gigantesco archivo documental de la policía de Stroessner, descubierto en Lambaré en 1992, aportó pruebas materiales e irrefutables del terrorismo de Estado y de la coordinación represiva sudamericana denominada 'Plan Cóndor'?
 
 ### Opciones
-- [x] A) El Archivo del Terror
+- [x] C) El Archivo del Terror
   <!-- feedback: Correcto. El Archivo del Terror, descubierto por Martín Almada en 1992, contiene informes, fichas de detenidos y grabaciones que devalaron la brutal represión policial del Cono Sur. -->
-- [ ] B) El Tratado Secreto de la Triple Alianza
+- [ ] A) El Tratado Secreto de la Triple Alianza
   <!-- feedback: Incorrecto. Documento diplomático de coalición militar tripartita secreta de 1865, no relacionado con el terrorismo de Estado represivo de finales del siglo XX. -->
-- [ ] C) Los quipus contables del Colegio de San Lorenzo
+- [ ] B) Los quipus contables del Colegio de San Lorenzo
   <!-- feedback: Incorrecto. Los quipus son sistemas mnemotécnicos contables de origen prehispánico andino incaico, inexistentes en los archivos policiales contemporáneos paraguayos. -->
 - [ ] D) Los folletos satíricos impresos en el campamento de Humaitá
   <!-- feedback: Incorrecto. Alude a la prensa de trinchera de la contienda del siglo XIX (Cabichuí), sin relación con archivos documentales represivos de seguridad nacional. -->
@@ -194,9 +194,9 @@ La destrucción violenta de las Ligas Agrarias Cristianas cercenó una de las ex
 ¿Qué histórica caminata de protesta cívica pacífica y reclamo de libertades públicas organizó la Iglesia católica paraguaya en Asunción en el año 1988, revelando el aislamiento social definitivo del régimen dictatorial?
 
 ### Opciones
-- [x] A) La Procesión del Silencio (o Caminata del Silencio) que convocó a decenas de miles de ciudadanos pacíficos de todos los sectores
+- [x] B) La Procesión del Silencio (o Caminata del Silencio) que convocó a decenas de miles de ciudadanos pacíficos de todos los sectores
   <!-- feedback: Correcto. Esta histórica movilización cívica de 1988 canalizó el masivo descontento popular contra la dictadura stronista, amparada bajo el manto moral de la Conferencia Episcopal Paraguaya (CEP). -->
-- [ ] B) La marcha armada de la Triple Alianza sobre las cataratas del Iguazú
+- [ ] A) La marcha armada de la Triple Alianza sobre las cataratas del Iguazú
   <!-- feedback: Incorrecto. Es una distorsión militar decimonónica ajena a las protestas civiles eclesiásticas católicas pacíficas de finales del siglo XX paraguayo. -->
 - [ ] C) La emigración obligatoria de los obispos asuncenos hacia los desiertos del norte de África
   <!-- feedback: Incorrecto. Los obispos nacionales guiaron y sostuvieron de forma activa el reclamo cívico de derechos dentro del propio territorio de la República. -->
@@ -217,9 +217,9 @@ La Iglesia católica paraguaya se erigió en el baluarte moral de la resistencia
 ¿Qué hito militar e histórico deparó la noche del 2 y la madrugada del 3 de febrero de 1989 en Asunción, clausurando la dictadura stronista?
 
 ### Opciones
-- [x] A) El golpe de Estado militar liderado por el general Andrés Rodríguez, que derrocó y envió al exilio en Brasil a Alfredo Stroessner, iniciando la transición democrática
+- [x] B) El golpe de Estado militar liderado por el general Andrés Rodríguez, que derrocó y envió al exilio en Brasil a Alfredo Stroessner, iniciando la transición democrática
   <!-- feedback: Correcto. El alzamiento militar de la caballería dirigido por el Gral. Andrés Rodríguez deparó el derrocamiento definitivo de Stroessner e inició la apertura democrática paraguaya. -->
-- [ ] B) La invasión de una inmensa flota de guerra naviera aliada enviada por la reina Victoria de Gran Bretaña
+- [ ] A) La invasión de una inmensa flota de guerra naviera aliada enviada por la reina Victoria de Gran Bretaña
   <!-- feedback: Incorrecto. La caída de la dictadura fue resuelta de manera interna cívico-militar por fuerzas paraguayas de operaciones, sin invasiones inglesas. -->
 - [ ] C) La firma de la anexión voluntaria de toda la llanura chaqueña al control territorial de Bolivia
   <!-- feedback: Incorrecto. Las fronteras chaqueñas estaban resueltas e intocadas desde la paz de 1938; el golpe fue puramente de reconfiguración política interna de gobierno. -->
@@ -240,11 +240,11 @@ El golpe del 3 de febrero de 1989 es recordado como el 'gesto libertador', abrie
 ¿Qué eran las denominadas 'tierras malhabidas' en el contexto agrario paraguayo de la dictadura stronista y a quiénes beneficiaban?
 
 ### Opciones
-- [x] A) Eran ricas tierras públicas rurales destinadas por ley de reforma agraria al campesinado pobre, pero que Stroessner adjudicó ilegalmente a militares allegados, políticos oficialistas y terratenientes leales al régimen
+- [x] C) Eran ricas tierras públicas rurales destinadas por ley de reforma agraria al campesinado pobre, pero que Stroessner adjudicó ilegalmente a militares allegados, políticos oficialistas y terratenientes leales al régimen
   <!-- feedback: Correcto. La adjudicación irregular de millones de hectáreas fiscales de la Región Oriental a la clientela del dictador consolidó el latifundismo estanciero improductivo y agudizó el conflicto social agrario campesino contemporáneo. -->
-- [ ] B) Eran parcelas forestales que se volvieron desiertos estériles de dunas móviles polares
+- [ ] A) Eran parcelas forestales que se volvieron desiertos estériles de dunas móviles polares
   <!-- feedback: Incorrecto. Refiere al despojo del suelo productivo arable fiscal en favor de la élite stronista, no a catástrofes de desertificación polar glaciar. -->
-- [ ] C) Eran colonias pesqueras construidas para la armada de guerra de los Estados Unidos
+- [ ] B) Eran colonias pesqueras construidas para la armada de guerra de los Estados Unidos
   <!-- feedback: Incorrecto. El Chaco y la Oriental agraria carecían de bases navieras pesqueras militares adjudicadas a EE. UU. en usufructo soberano. -->
 - [ ] D) Eran tierras reservadas de forma exclusiva para el adiestramiento de animales prehistóricos
   <!-- feedback: Incorrecto. Escenario absurdo e imaginario desprovisto de veracidad o rigor analítico sobre la estructura de tenencia de tierras del país. -->
@@ -263,9 +263,9 @@ El informe oficial de la Comisión de Verdad y Justicia (CVJ) documentó que cer
 La construcción de la represa de Itaipú en los años 1970 introdujo de forma masiva capitales financieros al Paraguay. ¿Qué impacto macroeconómico y de asimetría social deparó este vertiginoso auge monetario?
 
 ### Opciones
-- [x] A) Provocó un acelerado crecimiento económico comercial urbano y especulación inmobiliaria en Asunción, enriqueciendo a una nueva burguesía contratista de la construcción allegada al régimen, mientras que el campo y pequeños campesinos continuaron rezagados
+- [x] B) Provocó un acelerado crecimiento económico comercial urbano y especulación inmobiliaria en Asunción, enriqueciendo a una nueva burguesía contratista de la construcción allegada al régimen, mientras que el campo y pequeños campesinos continuaron rezagados
   <!-- feedback: Correcto. El auge hidroeléctrico enriqueció a la denominada 'patria contratista' (élite stronista ligada a la construcción) y expandió el sector comercial urbano de la capital, incrementando las brechas de ingresos familiares con las masas campesinas rurales. -->
-- [ ] B) Provocó que el Paraguay devaluara de forma absoluta el guaraní para adoptar el idioma inglés como única moneda legal
+- [ ] A) Provocó que el Paraguay devaluara de forma absoluta el guaraní para adoptar el idioma inglés como única moneda legal
   <!-- feedback: Incorrecto. El guaraní continuó rigiendo las finanzas, y la energía hidroeléctrica no impuso el uso legal obligatorio del idioma inglés comercial. -->
 - [ ] C) Obligó a la central binacional de Itaipú a verter la totalidad de sus reservas de agua dulce en las costas de Chile
   <!-- feedback: Incorrecto. Itaipú opera sobre el Paraná delimitando fronteras paraguayas-brasileñas continentales, sin conexiones de vertido físico hídrico hacia el Pacífico. -->
@@ -286,9 +286,9 @@ El auge económico de Itaipú (1973-1981) expandió el sector comercial y financ
 ¿Qué célebre coalición de partidos de oposición paraguayos (compuesta por liberales radicales, febreristas, demócratas cristianos y colorados disidentes) se conformó en la clandestinidad en 1978 para combatir de forma coordinada y pacífica a la dictadura?
 
 ### Opciones
-- [x] A) El Acuerdo Nacional
+- [x] B) El Acuerdo Nacional
   <!-- feedback: Correcto. El Acuerdo Nacional (1978) constituyó la plataforma de coordinación de la oposición civil democrática clandestina paraguaya contra el monopolio autoritario stronista. -->
-- [ ] B) El Tratado Secreto de la Triple Alianza de 1865
+- [ ] A) El Tratado Secreto de la Triple Alianza de 1865
   <!-- feedback: Incorrecto. Documento histórico decimonónico de agresión militar tripartita extranjera contra el país, ajeno a plataformas democráticas opositoras de finales del siglo XX. -->
 - [ ] C) La junta militar triunvirato de Manuel Belgrano de 1811
   <!-- feedback: Incorrecto. Belgrano fue un general porteño derrotado en Paraguarí por milicias patriotas durante la gesta de la independencia paraguaya colonial. -->
@@ -309,13 +309,13 @@ El Acuerdo Nacional articuló las demandas de apertura democrática cívica de l
 A pesar de la copropiedad del río Paraná, ¿qué controvertida estipulación del Anexo C del Tratado de Itaipú de 1973 limitó la libre comercialización de la energía paraguaya sobrante?
 
 ### Opciones
-- [x] A) La obligación de vender de forma exclusiva la energía paraguaya no consumida al Brasil a precios fijos históricos de compensación, prohibiendo su venta directa a terceros países
+- [x] D) La obligación de vender de forma exclusiva la energía paraguaya no consumida al Brasil a precios fijos históricos de compensación, prohibiendo su venta directa a terceros países
   <!-- feedback: Correcto. Esta estipulación de 'cesión de energía' (Anexo C) limitó la soberanía hidroenergética paraguaya, vendiéndose el excedente al mercado brasileño a precios cuestionados de compensación fiscal. -->
-- [ ] B) La obligación de destruir todas las turbinas de la represa en caso de diferendos partidarios colorados
+- [ ] A) La obligación de destruir todas las turbinas de la represa en caso de diferendos partidarios colorados
   <!-- feedback: Incorrecto. No existen cláusulas de autodestrucción física o militar de la infraestructura de Itaipú por disputas políticas locales de Asunción. -->
-- [ ] C) La cesión del control fronterizo a la corona británica como garantía de deudas de guerra
+- [ ] B) La cesión del control fronterizo a la corona británica como garantía de deudas de guerra
   <!-- feedback: Incorrecto. El condominio es puramente binacional entre Paraguay y Brasil; Gran Bretaña carece de roles soberanos o territoriales en el Paraná paraguayo de 1973. -->
-- [ ] D) La prohibición de exportar energía hidroeléctrica en barcos de carga petroleros
+- [ ] C) La prohibición de exportar energía hidroeléctrica en barcos de carga petroleros
   <!-- feedback: Incorrecto. La energía eléctrica se transmite por líneas aéreas de alta tensión y subestaciones, no mediante buques de carga marina. -->
 
 ### Explicacion Pedagogica
@@ -355,13 +355,13 @@ La censura y clausura del diario ABC Color y de radio Ñandutí demostraron el d
 La insurrección militar que derrocó de forma definitiva a Stroessner en febrero de 1989 estuvo catalizada por la profunda división y fractura surgida en el seno del propio Partido Colorado oficialista entre las facciones denominadas:
 
 ### Opciones
-- [x] A) Los 'militantes' (estrictamente leales al círculo stronista) y los 'tradicionalistas' (colorados históricos relegados que apoyaron el golpe militar de Rodríguez)
+- [x] D) Los 'militantes' (estrictamente leales al círculo stronista) y los 'tradicionalistas' (colorados históricos relegados que apoyaron el golpe militar de Rodríguez)
   <!-- feedback: Correcto. La convención colorada de 1987 escindió de forma irreversible al partido oficialista: los 'militantes' asaltaron la conducción partidaria, forzando a los 'tradicionalistas' a aliarse con el general Rodríguez para propiciar el relevo armado militar. -->
-- [ ] B) Los partidarios de Manuel Belgrano y los defensores coloniales del gobernador Velasco
+- [ ] A) Los partidarios de Manuel Belgrano y los defensores coloniales del gobernador Velasco
   <!-- feedback: Incorrecto. Refiere al proceso independentista nacional patriótico e incruento de mayo de 1811, ajeno a fracturas coloradas del siglo XX de posguerra. -->
-- [ ] C) Los soldados 'saco mbyky' y jefes 'saco puku' liberales
+- [ ] B) Los soldados 'saco mbyky' y jefes 'saco puku' liberales
   <!-- feedback: Incorrecto. El faccionalismo de sacos distinguió a la guerra civil interna paraguaya del Partido Liberal de la primera mitad del siglo XX (1922). -->
-- [ ] D) La orden jesuita de misiones y los consorcios forestales británicos
+- [ ] C) La orden jesuita de misiones y los consorcios forestales británicos
   <!-- feedback: Incorrecto. No existían misiones jesuíticas operando como fuerzas partidarias coloradas o madereras de la dictadura en 1989. -->
 
 ### Explicacion Pedagogica
@@ -401,9 +401,9 @@ Las heroicas protestas del Hospital de Clínicas canalizaron el valiente despert
 Al evaluar críticamente la controvertida y prolongada gestión política de Alfredo Stroessner (1954-1989), ¿cuál de las siguientes valoraciones posee mayor rigurosidad analítica?
 
 ### Opciones
-- [x] A) Por un lado logró el crecimiento de infraestructura de asfalto y energía (como la represa de Itaipú), pero por el otro sumió al país en un régimen de represión totalitaria violenta, terrorismo de Estado y despojo de tierras fiscales de reforma agraria
+- [x] B) Por un lado logró el crecimiento de infraestructura de asfalto y energía (como la represa de Itaipú), pero por el otro sumió al país en un régimen de represión totalitaria violenta, terrorismo de Estado y despojo de tierras fiscales de reforma agraria
   <!-- feedback: Correcto. El análisis del stronismo contrapone la indudable expansión material de puentes, carreteras y represas hidroeléctricas con el nefasto costo social de persecución judicial arbitraria, desapariciones forzadas y consolidación de la precarización agraria campesina contemporánea. -->
-- [ ] B) Que fue un gobernante demócrata de corte socialista que redistribuyó de forma pacífica y gratuita toda la tierra agraria del país
+- [ ] A) Que fue un gobernante demócrata de corte socialista que redistribuyó de forma pacífica y gratuita toda la tierra agraria del país
   <!-- feedback: Incorrecto. Stroessner persiguió de forma violenta a los movimientos sociales agrarios y opositores de izquierda, concentrando el latifundismo improductivo estanciero militar. -->
 - [ ] C) Que logró la industrialización aeroespacial del Chaco paraguayo mediante la importación de reactores nucleares japoneses
   <!-- feedback: Incorrecto. Es un planteamiento anacrónico e imaginario ajeno al precaria y agraria economía paraguaya del siglo XX de posguerra del Chaco. -->
@@ -447,11 +447,11 @@ El Plan Cóndor, respaldado por documentos del Archivo del Terror, constituye un
 Al evaluar críticamente las causas de la persistente exclusión campesina agraria paraguaya, ¿qué vinculación directa de asimetría económica asocia la adjudicación de las denominadas 'tierras malhabidas' stronistas con el permanente conflicto social rural campesino contemporáneo?
 
 ### Opciones
-- [x] A) Que privó al campesinado y pequeños agricultores pobres de millones de hectáreas fiscales fértiles, consolidando una injusta estructura agraria latifundista improductiva que obligó al éxodo rural y desencadenó históricas demandas por la reforma agraria
+- [x] C) Que privó al campesinado y pequeños agricultores pobres de millones de hectáreas fiscales fértiles, consolidando una injusta estructura agraria latifundista improductiva que obligó al éxodo rural y desencadenó históricas demandas por la reforma agraria
   <!-- feedback: Correcto. La apropiación ilegal del suelo fiscal mermó los recursos de colonización de la agricultura familiar campesina, precarizando el estatus del agricultor y estimulando la migración rural forzada desordenada. -->
-- [ ] B) Que obligó a los grandes terratenientes militares a aprender el dialecto alemán de forma obligatoria
+- [ ] A) Que obligó a los grandes terratenientes militares a aprender el dialecto alemán de forma obligatoria
   <!-- feedback: Incorrecto. La enajenación irregular se destinó a allegados cívico-militares del régimen stronista de habla hispana, sin imposiciones idiomáticas germánicas de ningún tipo. -->
-- [ ] C) Que la venta ilegal de tierras convirtió de forma instantánea a todo el Paraguay oriental en desiertos de sal
+- [ ] B) Que la venta ilegal de tierras convirtió de forma instantánea a todo el Paraguay oriental en desiertos de sal
   <!-- feedback: Incorrecto. El Chaco posee áreas salobres, pero la Región Oriental agraria mantuvo sus exuberantes bosques y fertilidad productiva, siendo privatizados de forma irregular. -->
 - [ ] D) La prohibición gubernamental de utilizar tractores modernos para forzar el uso de herramientas de la edad de piedra andina
   <!-- feedback: Incorrecto. El agro de exportación usó maquinaria pesada moderna de punta, el debate se centra en la exclusión distributiva social del campesinado familiar desposeído de tierras. -->
@@ -470,11 +470,11 @@ La adjudicación de tierras malhabidas stronistas trabó la reforma agraria para
 Al evaluar globalmente el proceso de consolidación de la memoria histórica y resarcimiento de derechos de las víctimas de la dictadura stronista en la transición democrática, ¿cuál de las siguientes conclusiones posee mayor sustento empírico e histórico?
 
 ### Opciones
-- [x] A) La labor de la Comisión de Verdad y Justicia (CVJ) documentó y reconoció oficialmente de forma pormenorizada miles de testimonios de torturas, ejecuciones forzadas, desapariciones y el despojo irregular de tierras malhabidas, sentando las bases morales para la reparación histórica nacional
+- [x] C) La labor de la Comisión de Verdad y Justicia (CVJ) documentó y reconoció oficialmente de forma pormenorizada miles de testimonios de torturas, ejecuciones forzadas, desapariciones y el despojo irregular de tierras malhabidas, sentando las bases morales para la reparación histórica nacional
   <!-- feedback: Correcto. El informe de la CVJ (2008) aportó un valioso legado histórico probatorio de los crímenes de lesa humanidad de la dictadura de Stroessner, promoviendo la memoria, la reparación de daños y la justicia democrática en el país. -->
-- [ ] B) El Paraguay acordó de forma voluntaria declarar la reelección indefinida de Alfredo Stroessner de forma póstuma
+- [ ] A) El Paraguay acordó de forma voluntaria declarar la reelección indefinida de Alfredo Stroessner de forma póstuma
   <!-- feedback: Incorrecto. La Constitución democrática de 1992 prohíbe de forma tajante e inflexible cualquier tipo de reelección presidencial para evitar continuismos autoritarios. -->
-- [ ] C) La cesión de todos los edificios e iglesias de Itapúa a la corona británica como pago de indemnizaciones
+- [ ] B) La cesión de todos los edificios e iglesias de Itapúa a la corona británica como pago de indemnizaciones
   <!-- feedback: Incorrecto. No existieron tales transferencias patrimoniales o comerciales; el resarcimiento de las víctimas de la dictadura es administrado soberanamente por el Estado paraguayo bajo códigos de justicia civil. -->
 - [ ] D) La supresión absoluta de la lengua guaraní de la administración escolar para oficializar de por vida el idioma inglés
   <!-- feedback: Incorrecto. Al contrario, la Constitución de 1992 revalorizó la lengua nacional autóctona materna guaraní, elevándola al rango co-oficial de igual a igual junto al castellano paraguayo. -->

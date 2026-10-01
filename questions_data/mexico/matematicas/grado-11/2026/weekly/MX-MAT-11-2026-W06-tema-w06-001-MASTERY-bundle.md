@@ -30,9 +30,9 @@ creador: "Jules-Agent"
 ¿Cuál es la condición fundamental para que una relación de un conjunto A en un conjunto B sea clasificada como una función?
 
 ### Opciones
-- [x] A) Que cada elemento del conjunto de partida esté relacionado con exactamente un elemento del conjunto de llegada.
+- [x] B) Que cada elemento del conjunto de partida esté relacionado con exactamente un elemento del conjunto de llegada.
   <!-- feedback: ¡Correcto! Una función es una regla de correspondencia que asocia a cada elemento de un conjunto de partida un único elemento del conjunto de llegada. -->
-- [ ] B) Que todos los elementos del conjunto de llegada tengan asignado un elemento del de partida.
+- [ ] A) Que todos los elementos del conjunto de llegada tengan asignado un elemento del de partida.
   <!-- feedback: Incorrecto. Esto define una función suprayectiva, no es la definición básica de función. -->
 - [ ] C) Que la gráfica resultante sea una línea recta continua.
   <!-- feedback: Incorrecto. Existen muchas funciones con gráficas no lineales y curvas. -->
@@ -53,9 +53,9 @@ Por definición, una relación f del conjunto A en el conjunto B es una función
 Si la función de costo está dada por C(x) = 150x + 800, donde x representa el número de pares producidos, ¿cuál es el rango de esta función para valores de producción no negativos?
 
 ### Opciones
-- [x] A) [800, ∞)
+- [x] B) [800, ∞)
   <!-- feedback: ¡Correcto! Dado que la producción x es no negativa (x ≥ 0), el costo mínimo ocurre cuando x = 0, donde C(0) = 800. Por lo tanto, el rango va desde $800 en adelante. -->
-- [ ] B) [0, ∞)
+- [ ] A) [0, ∞)
   <!-- feedback: Incorrecto. Esto correspondería al dominio de la producción, no al rango de costos. -->
 - [ ] C) (-∞, ∞)
   <!-- feedback: Incorrecto. No existen costos de producción negativos en este contexto real. -->
@@ -76,11 +76,11 @@ El dominio está restringido a valores no negativos de producción, es decir, x 
 Determina el dominio de la función real f(x) = 10 / (x - 3).
 
 ### Opciones
-- [x] A) Todos los números reales excepto x = 3
+- [x] C) Todos los números reales excepto x = 3
   <!-- feedback: ¡Correcto! El denominador no puede ser cero, por lo tanto x - 3 ≠ 0, de donde x ≠ 3. -->
-- [ ] B) Todos los números reales mayores a 3
+- [ ] A) Todos los números reales mayores a 3
   <!-- feedback: Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación. -->
-- [ ] C) Únicamente el valor real x = 3
+- [ ] B) Únicamente el valor real x = 3
   <!-- feedback: Incorrecto. Este es el único valor donde la función NO está definida. -->
 - [ ] D) Todos los números reales sin ninguna restricción
   <!-- feedback: Incorrecto. Esto causaría una división por cero en la función. -->
@@ -99,11 +99,11 @@ El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los núme
 Determina el dominio de la función real f(x) = 10 / (x - 4).
 
 ### Opciones
-- [x] A) Todos los números reales excepto x = 4
+- [x] C) Todos los números reales excepto x = 4
   <!-- feedback: ¡Correcto! El denominador no puede ser cero, por lo tanto x - 4 ≠ 0, de donde x ≠ 4. -->
-- [ ] B) Todos los números reales mayores a 4
+- [ ] A) Todos los números reales mayores a 4
   <!-- feedback: Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación. -->
-- [ ] C) Únicamente el valor real x = 4
+- [ ] B) Únicamente el valor real x = 4
   <!-- feedback: Incorrecto. Este es el único valor donde la función NO está definida. -->
 - [ ] D) Todos los números reales sin ninguna restricción
   <!-- feedback: Incorrecto. Esto causaría una división por cero en la función. -->
@@ -145,9 +145,9 @@ El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los núme
 Determina el dominio de la función real f(x) = 10 / (x - 6).
 
 ### Opciones
-- [x] A) Todos los números reales excepto x = 6
+- [x] B) Todos los números reales excepto x = 6
   <!-- feedback: ¡Correcto! El denominador no puede ser cero, por lo tanto x - 6 ≠ 0, de donde x ≠ 6. -->
-- [ ] B) Todos los números reales mayores a 6
+- [ ] A) Todos los números reales mayores a 6
   <!-- feedback: Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación. -->
 - [ ] C) Únicamente el valor real x = 6
   <!-- feedback: Incorrecto. Este es el único valor donde la función NO está definida. -->
@@ -168,13 +168,13 @@ El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los núme
 Determina el dominio de la función real f(x) = 10 / (x - 7).
 
 ### Opciones
-- [x] A) Todos los números reales excepto x = 7
+- [x] D) Todos los números reales excepto x = 7
   <!-- feedback: ¡Correcto! El denominador no puede ser cero, por lo tanto x - 7 ≠ 0, de donde x ≠ 7. -->
-- [ ] B) Todos los números reales mayores a 7
+- [ ] A) Todos los números reales mayores a 7
   <!-- feedback: Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación. -->
-- [ ] C) Únicamente el valor real x = 7
+- [ ] B) Únicamente el valor real x = 7
   <!-- feedback: Incorrecto. Este es el único valor donde la función NO está definida. -->
-- [ ] D) Todos los números reales sin ninguna restricción
+- [ ] C) Todos los números reales sin ninguna restricción
   <!-- feedback: Incorrecto. Esto causaría una división por cero en la función. -->
 
 ### Explicacion Pedagogica
@@ -191,13 +191,13 @@ El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los núme
 Determina el dominio de la función real f(x) = 10 / (x - 8).
 
 ### Opciones
-- [x] A) Todos los números reales excepto x = 8
+- [x] D) Todos los números reales excepto x = 8
   <!-- feedback: ¡Correcto! El denominador no puede ser cero, por lo tanto x - 8 ≠ 0, de donde x ≠ 8. -->
-- [ ] B) Todos los números reales mayores a 8
+- [ ] A) Todos los números reales mayores a 8
   <!-- feedback: Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación. -->
-- [ ] C) Únicamente el valor real x = 8
+- [ ] B) Únicamente el valor real x = 8
   <!-- feedback: Incorrecto. Este es el único valor donde la función NO está definida. -->
-- [ ] D) Todos los números reales sin ninguna restricción
+- [ ] C) Todos los números reales sin ninguna restricción
   <!-- feedback: Incorrecto. Esto causaría una división por cero en la función. -->
 
 ### Explicacion Pedagogica
@@ -214,11 +214,11 @@ El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los núme
 Determina el dominio de la función real f(x) = 10 / (x - 9).
 
 ### Opciones
-- [x] A) Todos los números reales excepto x = 9
+- [x] C) Todos los números reales excepto x = 9
   <!-- feedback: ¡Correcto! El denominador no puede ser cero, por lo tanto x - 9 ≠ 0, de donde x ≠ 9. -->
-- [ ] B) Todos los números reales mayores a 9
+- [ ] A) Todos los números reales mayores a 9
   <!-- feedback: Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación. -->
-- [ ] C) Únicamente el valor real x = 9
+- [ ] B) Únicamente el valor real x = 9
   <!-- feedback: Incorrecto. Este es el único valor donde la función NO está definida. -->
 - [ ] D) Todos los números reales sin ninguna restricción
   <!-- feedback: Incorrecto. Esto causaría una división por cero en la función. -->
@@ -237,9 +237,9 @@ El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los núme
 Determina el dominio de la función real f(x) = 10 / (x - 10).
 
 ### Opciones
-- [x] A) Todos los números reales excepto x = 10
+- [x] B) Todos los números reales excepto x = 10
   <!-- feedback: ¡Correcto! El denominador no puede ser cero, por lo tanto x - 10 ≠ 0, de donde x ≠ 10. -->
-- [ ] B) Todos los números reales mayores a 10
+- [ ] A) Todos los números reales mayores a 10
   <!-- feedback: Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación. -->
 - [ ] C) Únicamente el valor real x = 10
   <!-- feedback: Incorrecto. Este es el único valor donde la función NO está definida. -->
@@ -260,9 +260,9 @@ El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los núme
 Determina el dominio de la función real f(x) = 10 / (x - 11).
 
 ### Opciones
-- [x] A) Todos los números reales excepto x = 11
+- [x] B) Todos los números reales excepto x = 11
   <!-- feedback: ¡Correcto! El denominador no puede ser cero, por lo tanto x - 11 ≠ 0, de donde x ≠ 11. -->
-- [ ] B) Todos los números reales mayores a 11
+- [ ] A) Todos los números reales mayores a 11
   <!-- feedback: Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación. -->
 - [ ] C) Únicamente el valor real x = 11
   <!-- feedback: Incorrecto. Este es el único valor donde la función NO está definida. -->
@@ -283,13 +283,13 @@ El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los núme
 Determina el dominio de la función real f(x) = 10 / (x - 12).
 
 ### Opciones
-- [x] A) Todos los números reales excepto x = 12
+- [x] D) Todos los números reales excepto x = 12
   <!-- feedback: ¡Correcto! El denominador no puede ser cero, por lo tanto x - 12 ≠ 0, de donde x ≠ 12. -->
-- [ ] B) Todos los números reales mayores a 12
+- [ ] A) Todos los números reales mayores a 12
   <!-- feedback: Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación. -->
-- [ ] C) Únicamente el valor real x = 12
+- [ ] B) Únicamente el valor real x = 12
   <!-- feedback: Incorrecto. Este es el único valor donde la función NO está definida. -->
-- [ ] D) Todos los números reales sin ninguna restricción
+- [ ] C) Todos los números reales sin ninguna restricción
   <!-- feedback: Incorrecto. Esto causaría una división por cero en la función. -->
 
 ### Explicacion Pedagogica
@@ -329,11 +329,11 @@ El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los núme
 Determina el dominio de la función real f(x) = 10 / (x - 14).
 
 ### Opciones
-- [x] A) Todos los números reales excepto x = 14
+- [x] C) Todos los números reales excepto x = 14
   <!-- feedback: ¡Correcto! El denominador no puede ser cero, por lo tanto x - 14 ≠ 0, de donde x ≠ 14. -->
-- [ ] B) Todos los números reales mayores a 14
+- [ ] A) Todos los números reales mayores a 14
   <!-- feedback: Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación. -->
-- [ ] C) Únicamente el valor real x = 14
+- [ ] B) Únicamente el valor real x = 14
   <!-- feedback: Incorrecto. Este es el único valor donde la función NO está definida. -->
 - [ ] D) Todos los números reales sin ninguna restricción
   <!-- feedback: Incorrecto. Esto causaría una división por cero en la función. -->
@@ -352,9 +352,9 @@ El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los núme
 Determina el dominio de la función real f(x) = 10 / (x - 15).
 
 ### Opciones
-- [x] A) Todos los números reales excepto x = 15
+- [x] B) Todos los números reales excepto x = 15
   <!-- feedback: ¡Correcto! El denominador no puede ser cero, por lo tanto x - 15 ≠ 0, de donde x ≠ 15. -->
-- [ ] B) Todos los números reales mayores a 15
+- [ ] A) Todos los números reales mayores a 15
   <!-- feedback: Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación. -->
 - [ ] C) Únicamente el valor real x = 15
   <!-- feedback: Incorrecto. Este es el único valor donde la función NO está definida. -->
@@ -398,11 +398,11 @@ El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los núme
 Determina el dominio de la función real f(x) = 10 / (x - 17).
 
 ### Opciones
-- [x] A) Todos los números reales excepto x = 17
+- [x] C) Todos los números reales excepto x = 17
   <!-- feedback: ¡Correcto! El denominador no puede ser cero, por lo tanto x - 17 ≠ 0, de donde x ≠ 17. -->
-- [ ] B) Todos los números reales mayores a 17
+- [ ] A) Todos los números reales mayores a 17
   <!-- feedback: Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación. -->
-- [ ] C) Únicamente el valor real x = 17
+- [ ] B) Únicamente el valor real x = 17
   <!-- feedback: Incorrecto. Este es el único valor donde la función NO está definida. -->
 - [ ] D) Todos los números reales sin ninguna restricción
   <!-- feedback: Incorrecto. Esto causaría una división por cero en la función. -->
@@ -421,11 +421,11 @@ El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los núme
 Determina el dominio de la función real f(x) = 10 / (x - 18).
 
 ### Opciones
-- [x] A) Todos los números reales excepto x = 18
+- [x] C) Todos los números reales excepto x = 18
   <!-- feedback: ¡Correcto! El denominador no puede ser cero, por lo tanto x - 18 ≠ 0, de donde x ≠ 18. -->
-- [ ] B) Todos los números reales mayores a 18
+- [ ] A) Todos los números reales mayores a 18
   <!-- feedback: Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación. -->
-- [ ] C) Únicamente el valor real x = 18
+- [ ] B) Únicamente el valor real x = 18
   <!-- feedback: Incorrecto. Este es el único valor donde la función NO está definida. -->
 - [ ] D) Todos los números reales sin ninguna restricción
   <!-- feedback: Incorrecto. Esto causaría una división por cero en la función. -->
@@ -444,13 +444,13 @@ El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los núme
 Determina el dominio de la función real f(x) = 10 / (x - 19).
 
 ### Opciones
-- [x] A) Todos los números reales excepto x = 19
+- [x] D) Todos los números reales excepto x = 19
   <!-- feedback: ¡Correcto! El denominador no puede ser cero, por lo tanto x - 19 ≠ 0, de donde x ≠ 19. -->
-- [ ] B) Todos los números reales mayores a 19
+- [ ] A) Todos los números reales mayores a 19
   <!-- feedback: Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación. -->
-- [ ] C) Únicamente el valor real x = 19
+- [ ] B) Únicamente el valor real x = 19
   <!-- feedback: Incorrecto. Este es el único valor donde la función NO está definida. -->
-- [ ] D) Todos los números reales sin ninguna restricción
+- [ ] C) Todos los números reales sin ninguna restricción
   <!-- feedback: Incorrecto. Esto causaría una división por cero en la función. -->
 
 ### Explicacion Pedagogica
@@ -467,11 +467,11 @@ El dominio de una función racional f(x) = P(x)/Q(x) consiste en todos los núme
 Determina el dominio de la función real f(x) = 10 / (x - 20).
 
 ### Opciones
-- [x] A) Todos los números reales excepto x = 20
+- [x] C) Todos los números reales excepto x = 20
   <!-- feedback: ¡Correcto! El denominador no puede ser cero, por lo tanto x - 20 ≠ 0, de donde x ≠ 20. -->
-- [ ] B) Todos los números reales mayores a 20
+- [ ] A) Todos los números reales mayores a 20
   <!-- feedback: Incorrecto. La función está definida para valores menores también, solo se excluye el punto de indeterminación. -->
-- [ ] C) Únicamente el valor real x = 20
+- [ ] B) Únicamente el valor real x = 20
   <!-- feedback: Incorrecto. Este es el único valor donde la función NO está definida. -->
 - [ ] D) Todos los números reales sin ninguna restricción
   <!-- feedback: Incorrecto. Esto causaría una división por cero en la función. -->

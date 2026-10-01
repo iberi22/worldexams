@@ -49,10 +49,10 @@ La media es x_bar = 25/5 = 5.0 y la mediana es el dato central 5. La diferencia 
 Considerando el conjunto de datos ordenados {2, 4, 6, 8, 10}, ¿cuál es la diferencia entre la media aritmética y la mediana?
 
 ### Opciones
-- [x] A) $0.0$ <!-- feedback: ¡Correcto! Media = 6.0, Mediana = 6, luego la diferencia es 0.0. -->
-- [ ] B) $2.5$ <!-- feedback: Incorrecto. Calculaste mal la suma para la media aritmética. -->
-- [ ] C) $6$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la mediana. -->
-- [ ] D) $6.0$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la media. -->
+- [x] D) $0.0$ <!-- feedback: ¡Correcto! Media = 6.0, Mediana = 6, luego la diferencia es 0.0. -->
+- [ ] A) $2.5$ <!-- feedback: Incorrecto. Calculaste mal la suma para la media aritmética. -->
+- [ ] B) $6$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la mediana. -->
+- [ ] C) $6.0$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la media. -->
 
 ### Explicacion Pedagogica
 La media es x_bar = 30/5 = 6.0 y la mediana es el dato central 6. La diferencia es |6.0 - 6| = 0.0.
@@ -68,9 +68,9 @@ La media es x_bar = 30/5 = 6.0 y la mediana es el dato central 6. La diferencia 
 Considerando el conjunto de datos ordenados {3, 5, 7, 9, 11}, ¿cuál es la diferencia entre la media aritmética y la mediana?
 
 ### Opciones
-- [x] A) $0.0$ <!-- feedback: ¡Correcto! Media = 7.0, Mediana = 7, luego la diferencia es 0.0. -->
-- [ ] B) $2.5$ <!-- feedback: Incorrecto. Calculaste mal la suma para la media aritmética. -->
-- [ ] C) $7$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la mediana. -->
+- [x] C) $0.0$ <!-- feedback: ¡Correcto! Media = 7.0, Mediana = 7, luego la diferencia es 0.0. -->
+- [ ] A) $2.5$ <!-- feedback: Incorrecto. Calculaste mal la suma para la media aritmética. -->
+- [ ] B) $7$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la mediana. -->
 - [ ] D) $7.0$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la media. -->
 
 ### Explicacion Pedagogica
@@ -87,9 +87,9 @@ La media es x_bar = 35/5 = 7.0 y la mediana es el dato central 7. La diferencia 
 Considerando el conjunto de datos ordenados {4, 6, 8, 10, 12}, ¿cuál es la diferencia entre la media aritmética y la mediana?
 
 ### Opciones
-- [x] A) $0.0$ <!-- feedback: ¡Correcto! Media = 8.0, Mediana = 8, luego la diferencia es 0.0. -->
-- [ ] B) $2.5$ <!-- feedback: Incorrecto. Calculaste mal la suma para la media aritmética. -->
-- [ ] C) $8$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la mediana. -->
+- [x] C) $0.0$ <!-- feedback: ¡Correcto! Media = 8.0, Mediana = 8, luego la diferencia es 0.0. -->
+- [ ] A) $2.5$ <!-- feedback: Incorrecto. Calculaste mal la suma para la media aritmética. -->
+- [ ] B) $8$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la mediana. -->
 - [ ] D) $8.0$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la media. -->
 
 ### Explicacion Pedagogica
@@ -106,9 +106,9 @@ La media es x_bar = 40/5 = 8.0 y la mediana es el dato central 8. La diferencia 
 Considerando el conjunto de datos ordenados {5, 7, 9, 11, 13}, ¿cuál es la diferencia entre la media aritmética y la mediana?
 
 ### Opciones
-- [x] A) $0.0$ <!-- feedback: ¡Correcto! Media = 9.0, Mediana = 9, luego la diferencia es 0.0. -->
-- [ ] B) $2.5$ <!-- feedback: Incorrecto. Calculaste mal la suma para la media aritmética. -->
-- [ ] C) $9$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la mediana. -->
+- [x] C) $0.0$ <!-- feedback: ¡Correcto! Media = 9.0, Mediana = 9, luego la diferencia es 0.0. -->
+- [ ] A) $2.5$ <!-- feedback: Incorrecto. Calculaste mal la suma para la media aritmética. -->
+- [ ] B) $9$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la mediana. -->
 - [ ] D) $9.0$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la media. -->
 
 ### Explicacion Pedagogica
@@ -144,10 +144,10 @@ La media es x_bar = 50/5 = 10.0 y la mediana es el dato central 10. La diferenci
 Considerando el conjunto de datos ordenados {7, 9, 11, 13, 15}, ¿cuál es la diferencia entre la media aritmética y la mediana?
 
 ### Opciones
-- [x] A) $0.0$ <!-- feedback: ¡Correcto! Media = 11.0, Mediana = 11, luego la diferencia es 0.0. -->
-- [ ] B) $2.5$ <!-- feedback: Incorrecto. Calculaste mal la suma para la media aritmética. -->
-- [ ] C) $11$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la mediana. -->
-- [ ] D) $11.0$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la media. -->
+- [x] D) $0.0$ <!-- feedback: ¡Correcto! Media = 11.0, Mediana = 11, luego la diferencia es 0.0. -->
+- [ ] A) $2.5$ <!-- feedback: Incorrecto. Calculaste mal la suma para la media aritmética. -->
+- [ ] B) $11$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la mediana. -->
+- [ ] C) $11.0$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la media. -->
 
 ### Explicacion Pedagogica
 La media es x_bar = 55/5 = 11.0 y la mediana es el dato central 11. La diferencia es |11.0 - 11| = 0.0.
@@ -163,9 +163,9 @@ La media es x_bar = 55/5 = 11.0 y la mediana es el dato central 11. La diferenci
 Considerando el conjunto de datos ordenados {8, 10, 12, 14, 16}, ¿cuál es la diferencia entre la media aritmética y la mediana?
 
 ### Opciones
-- [x] A) $0.0$ <!-- feedback: ¡Correcto! Media = 12.0, Mediana = 12, luego la diferencia es 0.0. -->
-- [ ] B) $2.5$ <!-- feedback: Incorrecto. Calculaste mal la suma para la media aritmética. -->
-- [ ] C) $12$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la mediana. -->
+- [x] C) $0.0$ <!-- feedback: ¡Correcto! Media = 12.0, Mediana = 12, luego la diferencia es 0.0. -->
+- [ ] A) $2.5$ <!-- feedback: Incorrecto. Calculaste mal la suma para la media aritmética. -->
+- [ ] B) $12$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la mediana. -->
 - [ ] D) $12.0$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la media. -->
 
 ### Explicacion Pedagogica
@@ -182,8 +182,8 @@ La media es x_bar = 60/5 = 12.0 y la mediana es el dato central 12. La diferenci
 Considerando el conjunto de datos ordenados {9, 11, 13, 15, 17}, ¿cuál es la diferencia entre la media aritmética y la mediana?
 
 ### Opciones
-- [x] A) $0.0$ <!-- feedback: ¡Correcto! Media = 13.0, Mediana = 13, luego la diferencia es 0.0. -->
-- [ ] B) $2.5$ <!-- feedback: Incorrecto. Calculaste mal la suma para la media aritmética. -->
+- [x] B) $0.0$ <!-- feedback: ¡Correcto! Media = 13.0, Mediana = 13, luego la diferencia es 0.0. -->
+- [ ] A) $2.5$ <!-- feedback: Incorrecto. Calculaste mal la suma para la media aritmética. -->
 - [ ] C) $13$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la mediana. -->
 - [ ] D) $13.0$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la media. -->
 
@@ -201,8 +201,8 @@ La media es x_bar = 65/5 = 13.0 y la mediana es el dato central 13. La diferenci
 Considerando el conjunto de datos ordenados {10, 12, 14, 16, 18}, ¿cuál es la diferencia entre la media aritmética y la mediana?
 
 ### Opciones
-- [x] A) $0.0$ <!-- feedback: ¡Correcto! Media = 14.0, Mediana = 14, luego la diferencia es 0.0. -->
-- [ ] B) $2.5$ <!-- feedback: Incorrecto. Calculaste mal la suma para la media aritmética. -->
+- [x] B) $0.0$ <!-- feedback: ¡Correcto! Media = 14.0, Mediana = 14, luego la diferencia es 0.0. -->
+- [ ] A) $2.5$ <!-- feedback: Incorrecto. Calculaste mal la suma para la media aritmética. -->
 - [ ] C) $14$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la mediana. -->
 - [ ] D) $14.0$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la media. -->
 
@@ -239,8 +239,8 @@ La media es x_bar = 75/5 = 15.0 y la mediana es el dato central 15. La diferenci
 Considerando el conjunto de datos ordenados {12, 14, 16, 18, 20}, ¿cuál es la diferencia entre la media aritmética y la mediana?
 
 ### Opciones
-- [x] A) $0.0$ <!-- feedback: ¡Correcto! Media = 16.0, Mediana = 16, luego la diferencia es 0.0. -->
-- [ ] B) $2.5$ <!-- feedback: Incorrecto. Calculaste mal la suma para la media aritmética. -->
+- [x] B) $0.0$ <!-- feedback: ¡Correcto! Media = 16.0, Mediana = 16, luego la diferencia es 0.0. -->
+- [ ] A) $2.5$ <!-- feedback: Incorrecto. Calculaste mal la suma para la media aritmética. -->
 - [ ] C) $16$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la mediana. -->
 - [ ] D) $16.0$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la media. -->
 
@@ -258,9 +258,9 @@ La media es x_bar = 80/5 = 16.0 y la mediana es el dato central 16. La diferenci
 Considerando el conjunto de datos ordenados {13, 15, 17, 19, 21}, ¿cuál es la diferencia entre la media aritmética y la mediana?
 
 ### Opciones
-- [x] A) $0.0$ <!-- feedback: ¡Correcto! Media = 17.0, Mediana = 17, luego la diferencia es 0.0. -->
-- [ ] B) $2.5$ <!-- feedback: Incorrecto. Calculaste mal la suma para la media aritmética. -->
-- [ ] C) $17$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la mediana. -->
+- [x] C) $0.0$ <!-- feedback: ¡Correcto! Media = 17.0, Mediana = 17, luego la diferencia es 0.0. -->
+- [ ] A) $2.5$ <!-- feedback: Incorrecto. Calculaste mal la suma para la media aritmética. -->
+- [ ] B) $17$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la mediana. -->
 - [ ] D) $17.0$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la media. -->
 
 ### Explicacion Pedagogica
@@ -277,10 +277,10 @@ La media es x_bar = 85/5 = 17.0 y la mediana es el dato central 17. La diferenci
 Considerando el conjunto de datos ordenados {14, 16, 18, 20, 22}, ¿cuál es la diferencia entre la media aritmética y la mediana?
 
 ### Opciones
-- [x] A) $0.0$ <!-- feedback: ¡Correcto! Media = 18.0, Mediana = 18, luego la diferencia es 0.0. -->
-- [ ] B) $2.5$ <!-- feedback: Incorrecto. Calculaste mal la suma para la media aritmética. -->
-- [ ] C) $18$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la mediana. -->
-- [ ] D) $18.0$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la media. -->
+- [x] D) $0.0$ <!-- feedback: ¡Correcto! Media = 18.0, Mediana = 18, luego la diferencia es 0.0. -->
+- [ ] A) $2.5$ <!-- feedback: Incorrecto. Calculaste mal la suma para la media aritmética. -->
+- [ ] B) $18$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la mediana. -->
+- [ ] C) $18.0$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la media. -->
 
 ### Explicacion Pedagogica
 La media es x_bar = 90/5 = 18.0 y la mediana es el dato central 18. La diferencia es |18.0 - 18| = 0.0.
@@ -296,9 +296,9 @@ La media es x_bar = 90/5 = 18.0 y la mediana es el dato central 18. La diferenci
 Considerando el conjunto de datos ordenados {15, 17, 19, 21, 23}, ¿cuál es la diferencia entre la media aritmética y la mediana?
 
 ### Opciones
-- [x] A) $0.0$ <!-- feedback: ¡Correcto! Media = 19.0, Mediana = 19, luego la diferencia es 0.0. -->
-- [ ] B) $2.5$ <!-- feedback: Incorrecto. Calculaste mal la suma para la media aritmética. -->
-- [ ] C) $19$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la mediana. -->
+- [x] C) $0.0$ <!-- feedback: ¡Correcto! Media = 19.0, Mediana = 19, luego la diferencia es 0.0. -->
+- [ ] A) $2.5$ <!-- feedback: Incorrecto. Calculaste mal la suma para la media aritmética. -->
+- [ ] B) $19$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la mediana. -->
 - [ ] D) $19.0$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la media. -->
 
 ### Explicacion Pedagogica
@@ -372,10 +372,10 @@ La media es x_bar = 110/5 = 22.0 y la mediana es el dato central 22. La diferenc
 Considerando el conjunto de datos ordenados {19, 21, 23, 25, 27}, ¿cuál es la diferencia entre la media aritmética y la mediana?
 
 ### Opciones
-- [x] A) $0.0$ <!-- feedback: ¡Correcto! Media = 23.0, Mediana = 23, luego la diferencia es 0.0. -->
-- [ ] B) $2.5$ <!-- feedback: Incorrecto. Calculaste mal la suma para la media aritmética. -->
-- [ ] C) $23$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la mediana. -->
-- [ ] D) $23.0$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la media. -->
+- [x] D) $0.0$ <!-- feedback: ¡Correcto! Media = 23.0, Mediana = 23, luego la diferencia es 0.0. -->
+- [ ] A) $2.5$ <!-- feedback: Incorrecto. Calculaste mal la suma para la media aritmética. -->
+- [ ] B) $23$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la mediana. -->
+- [ ] C) $23.0$ <!-- feedback: Incorrecto. Respondiste únicamente el valor de la media. -->
 
 ### Explicacion Pedagogica
 La media es x_bar = 115/5 = 23.0 y la mediana es el dato central 23. La diferencia es |23.0 - 23| = 0.0.

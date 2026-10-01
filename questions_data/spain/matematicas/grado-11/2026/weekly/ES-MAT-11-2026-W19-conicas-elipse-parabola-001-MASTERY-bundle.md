@@ -51,8 +51,8 @@ Las cónicas se definen históricamente como las intersecciones de un plano con 
 
 ### Opciones
 - [ ] A) La diferencia de sus distancias a los focos es constante. <!-- feedback: Esta es la definición de una hipérbola. -->
-- [x] B) La suma de sus distancias a los focos es constante. <!-- feedback: Correcto. Esta suma es igual a la longitud del eje mayor ($2a$). -->
-- [ ] C) La distancia a un foco es igual a la distancia al otro. <!-- feedback: Esto solo se cumpliría para los puntos del eje menor (mediatriz del segmento focal). -->
+- [x] C) La suma de sus distancias a los focos es constante. <!-- feedback: Correcto. Esta suma es igual a la longitud del eje mayor ($2a$). -->
+- [ ] B) La distancia a un foco es igual a la distancia al otro. <!-- feedback: Esto solo se cumpliría para los puntos del eje menor (mediatriz del segmento focal). -->
 - [ ] D) El producto de sus distancias a los focos es constante. <!-- feedback: Esta definición corresponde a otras curvas (óvalos de Cassini), no a la elipse. -->
 
 ### Explicacion Pedagogica
@@ -93,8 +93,8 @@ En la ecuación reducida, el denominador mayor nos indica cuál es el eje princi
 
 ### Opciones
 - [ ] A) De dos focos fijos. <!-- feedback: Esta es la elipse o hipérbola. -->
-- [ ] B) De dos rectas paralelas. <!-- feedback: La equidistancia a dos rectas paralelas es otra recta paralela a ambas. -->
-- [x] C) De un punto fijo (foco) y una recta fija (directriz). <!-- feedback: Correcto. Esta es la definición clásica de la parábola. -->
+- [ ] C) De dos rectas paralelas. <!-- feedback: La equidistancia a dos rectas paralelas es otra recta paralela a ambas. -->
+- [x] B) De un punto fijo (foco) y una recta fija (directriz). <!-- feedback: Correcto. Esta es la definición clásica de la parábola. -->
 - [ ] D) Del origen y de un radio constante. <!-- feedback: Esta es la circunferencia. -->
 
 ### Explicacion Pedagogica
@@ -113,8 +113,8 @@ La parábola es la única cónica que tiene una "excentricidad" exactamente igua
 Calcula la semidistancia focal $c$ (distancia del centro a cada foco).
 
 ### Opciones
-- [ ] A) 2 <!-- feedback: Se han restado los semiejes directamente, lo cual es incorrecto. -->
-- [x] B) 4 <!-- feedback: Correcto. En la elipse se cumple la relación pitagórica $a^2 = b^2 + c^2$. Por tanto, $c = \sqrt{25 - 9} = \sqrt{16} = 4$. -->
+- [ ] B) 2 <!-- feedback: Se han restado los semiejes directamente, lo cual es incorrecto. -->
+- [x] A) 4 <!-- feedback: Correcto. En la elipse se cumple la relación pitagórica $a^2 = b^2 + c^2$. Por tanto, $c = \sqrt{25 - 9} = \sqrt{16} = 4$. -->
 - [ ] C) $\sqrt{34}$ <!-- feedback: Se han sumado los cuadrados, relación propia de la hipérbola. -->
 - [ ] D) 8 <!-- feedback: Resultado incorrecto. -->
 
@@ -134,8 +134,8 @@ En la elipse, el semieje mayor $a$ es la hipotenusa de un triángulo rectángulo
 ¿Cuál es la fórmula de la excentricidad $e$ de una elipse y qué valores puede tomar?
 
 ### Opciones
-- [ ] A) $e = a/c$; valores entre 0 y 1. <!-- feedback: La fórmula es $c/a$, el foco está más cerca del centro que el vértice. -->
-- [x] B) $e = c/a$; valores entre 0 y 1. <!-- feedback: Correcto. Mide el grado de "achatamiento" de la elipse. Si tiende a 0, la elipse se parece a un círculo. -->
+- [ ] B) $e = a/c$; valores entre 0 y 1. <!-- feedback: La fórmula es $c/a$, el foco está más cerca del centro que el vértice. -->
+- [x] A) $e = c/a$; valores entre 0 y 1. <!-- feedback: Correcto. Mide el grado de "achatamiento" de la elipse. Si tiende a 0, la elipse se parece a un círculo. -->
 - [ ] C) $e = c/a$; valores mayores que 1. <!-- feedback: Esto correspondería a una hipérbola. -->
 - [ ] D) $e = a \cdot c$; cualquier valor real. <!-- feedback: Definición incorrecta. -->
 
@@ -176,8 +176,8 @@ En la parábola, la variable que NO está elevada al cuadrado indica el eje de s
 Si colocamos una fuente de luz en el foco de un espejo parabólico, ¿cómo salen reflejados los rayos de luz?
 
 ### Opciones
-- [ ] A) Convergen en un punto del eje. <!-- feedback: Esto ocurriría si fuera un espejo circular para rayos no paraxiales. -->
-- [x] B) Salen paralelos al eje de simetría de la parábola. <!-- feedback: Correcto. Esta propiedad se usa en focos de coches y antenas parabólicas. -->
+- [ ] B) Convergen en un punto del eje. <!-- feedback: Esto ocurriría si fuera un espejo circular para rayos no paraxiales. -->
+- [x] A) Salen paralelos al eje de simetría de la parábola. <!-- feedback: Correcto. Esta propiedad se usa en focos de coches y antenas parabólicas. -->
 - [ ] C) Se dispersan en todas direcciones. <!-- feedback: La forma parabólica los colima en una dirección específica. -->
 - [ ] D) Vuelven exactamente hacia la fuente. <!-- feedback: Solo ocurriría en el centro de un espejo esférico. -->
 
@@ -197,8 +197,8 @@ La propiedad óptica de la parábola es fundamental en ingeniería: cualquier ra
 Halla las longitudes de los semiejes $a$ y $b$.
 
 ### Opciones
-- [ ] A) $a = 9, b = 25$ <!-- feedback: Estos son los coeficientes, no los semiejes. -->
-- [x] B) $a = 5, b = 3$ <!-- feedback: Correcto. Dividiendo entre 225: $x^2/25 + y^2/9 = 1$. Entonces $a^2=25 \Rightarrow a=5$ y $b^2=9 \Rightarrow b=3$. -->
+- [ ] B) $a = 9, b = 25$ <!-- feedback: Estos son los coeficientes, no los semiejes. -->
+- [x] A) $a = 5, b = 3$ <!-- feedback: Correcto. Dividiendo entre 225: $x^2/25 + y^2/9 = 1$. Entonces $a^2=25 \Rightarrow a=5$ y $b^2=9 \Rightarrow b=3$. -->
 - [ ] C) $a = 15, b = 15$ <!-- feedback: Esto representaría una circunferencia. -->
 - [ ] D) $a = 25, b = 9$ <!-- feedback: Falta realizar la raíz cuadrada. -->
 
@@ -219,9 +219,9 @@ Para hallar los semiejes a partir de la forma implícita, debemos igualar el té
 
 ### Opciones
 - [ ] A) $x = -3$ <!-- feedback: La directriz debe ser una recta horizontal en este caso. -->
-- [x] B) $y = -3$ <!-- feedback: Correcto. $2p = 12 \Rightarrow p = 6$. La directriz está en $y = -p/2 = -3$. -->
-- [ ] C) $y = 3$ <!-- feedback: Esta recta pasaría por encima del vértice, cortando a la parábola. -->
-- [ ] D) $y = -6$ <!-- feedback: Distancia incorrecta al vértice. -->
+- [x] D) $y = -3$ <!-- feedback: Correcto. $2p = 12 \Rightarrow p = 6$. La directriz está en $y = -p/2 = -3$. -->
+- [ ] B) $y = 3$ <!-- feedback: Esta recta pasaría por encima del vértice, cortando a la parábola. -->
+- [ ] C) $y = -6$ <!-- feedback: Distancia incorrecta al vértice. -->
 
 ### Explicacion Pedagogica
 La directriz es una recta perpendicular al eje de simetría de la parábola, situada a la misma distancia del vértice que el foco, pero en sentido opuesto.
@@ -239,9 +239,9 @@ La directriz es una recta perpendicular al eje de simetría de la parábola, sit
 En la ecuación reducida de la hipérbola $\frac{x^2}{a^2} - \frac{y^2}{b^2} = 1$, ¿qué representan las rectas $y = \pm \frac{b}{a}x$?
 
 ### Opciones
-- [ ] A) Los ejes de simetría. <!-- feedback: Los ejes son los ejes coordenados X e Y. -->
-- [ ] B) Las directrices. <!-- feedback: Las directrices de la hipérbola son rectas verticales u horizontales. -->
-- [x] C) Las asíntotas. <!-- feedback: Correcto. Son las rectas hacia las que tiende la curva en el infinito pero que nunca llega a tocar. -->
+- [ ] B) Los ejes de simetría. <!-- feedback: Los ejes son los ejes coordenados X e Y. -->
+- [ ] C) Las directrices. <!-- feedback: Las directrices de la hipérbola son rectas verticales u horizontales. -->
+- [x] A) Las asíntotas. <!-- feedback: Correcto. Son las rectas hacia las que tiende la curva en el infinito pero que nunca llega a tocar. -->
 - [ ] D) Las tangentes en los vértices. <!-- feedback: Esas serían rectas verticales $x = \pm a$. -->
 
 ### Explicacion Pedagogica
@@ -261,9 +261,9 @@ A diferencia de la elipse, la hipérbola es una curva abierta que posee asíntot
 
 ### Opciones
 - [ ] A) $\frac{x^2}{25} + \frac{y^2}{9} = 1$ <!-- feedback: El denominador bajo y debe ser b^2, no c^2. -->
-- [x] B) $\frac{x^2}{25} + \frac{y^2}{16} = 1$ <!-- feedback: Correcto. $a = 5$, $c = 3$. Entonces $b^2 = a^2 - c^2 = 25 - 9 = 16$. -->
-- [ ] C) $\frac{x^2}{16} + \frac{y^2}{25} = 1$ <!-- feedback: Los focos estarían en el eje Y. -->
-- [ ] D) $\frac{x^2}{25} + \frac{y^2}{34} = 1$ <!-- feedback: El semieje b debe ser menor que a en una elipse. -->
+- [x] D) $\frac{x^2}{25} + \frac{y^2}{16} = 1$ <!-- feedback: Correcto. $a = 5$, $c = 3$. Entonces $b^2 = a^2 - c^2 = 25 - 9 = 16$. -->
+- [ ] B) $\frac{x^2}{16} + \frac{y^2}{25} = 1$ <!-- feedback: Los focos estarían en el eje Y. -->
+- [ ] C) $\frac{x^2}{25} + \frac{y^2}{34} = 1$ <!-- feedback: El semieje b debe ser menor que a en una elipse. -->
 
 ### Explicacion Pedagogica
 A partir de los focos obtenemos $c$. El punto $(5,0)$ es un vértice, por lo que nos da el valor de $a$. Con ambos, hallamos $b$ mediante la relación fundamental de la elipse.
@@ -302,9 +302,9 @@ Los arcos parabólicos se modelan mediante funciones cuadráticas. El coeficient
 ¿Cuál es la coordenada del vértice de esta parábola?
 
 ### Opciones
-- [ ] A) $(3, 0)$ <!-- feedback: Este es el punto de la directriz bajo el foco. -->
-- [ ] B) $(3, 2)$ <!-- feedback: Este es el foco. -->
-- [x] C) $(3, 1)$ <!-- feedback: Correcto. El vértice es el punto medio entre el foco y la directriz sobre el eje de simetría. -->
+- [ ] B) $(3, 0)$ <!-- feedback: Este es el punto de la directriz bajo el foco. -->
+- [ ] C) $(3, 2)$ <!-- feedback: Este es el foco. -->
+- [x] A) $(3, 1)$ <!-- feedback: Correcto. El vértice es el punto medio entre el foco y la directriz sobre el eje de simetría. -->
 - [ ] D) $(0, 2)$ <!-- feedback: Coordenada incorrecta. -->
 
 ### Explicacion Pedagogica
@@ -324,8 +324,8 @@ El vértice de una parábola siempre está a mitad de camino entre el foco y la 
 
 ### Opciones
 - [ ] A) $a = 2b$ <!-- feedback: No define una hipérbola equilátera. -->
-- [x] B) $a = b$ <!-- feedback: Correcto. En este caso las asíntotas son las bisectrices de los cuadrantes ($y = \pm x$) y son perpendiculares entre sí. -->
-- [ ] C) $a^2 + b^2 = 1$ <!-- feedback: Esta es una relación de normalización. -->
+- [x] C) $a = b$ <!-- feedback: Correcto. En este caso las asíntotas son las bisectrices de los cuadrantes ($y = \pm x$) y son perpendiculares entre sí. -->
+- [ ] B) $a^2 + b^2 = 1$ <!-- feedback: Esta es una relación de normalización. -->
 - [ ] D) $b = 0$ <!-- feedback: La hipérbola degeneraría en un par de rectas. -->
 
 ### Explicacion Pedagogica
@@ -344,8 +344,8 @@ Las hipérbolas equiláteras son análogas a las circunferencias (donde los dos 
 ¿Qué representa geométricamente la ecuación $x^2 - y^2 = 0$?
 
 ### Opciones
-- [ ] A) Una hipérbola equilátera. <!-- feedback: Una hipérbola no puede estar igualada a cero en su forma canónica (salvo el caso degenerado). -->
-- [x] B) Dos rectas secantes que se cortan en el origen ($y = x$ e $y = -x$). <!-- feedback: Correcto. Al factorizar como diferencia de cuadrados $(x-y)(x+y)=0$, se obtienen las dos rectas. -->
+- [ ] B) Una hipérbola equilátera. <!-- feedback: Una hipérbola no puede estar igualada a cero en su forma canónica (salvo el caso degenerado). -->
+- [x] A) Dos rectas secantes que se cortan en el origen ($y = x$ e $y = -x$). <!-- feedback: Correcto. Al factorizar como diferencia de cuadrados $(x-y)(x+y)=0$, se obtienen las dos rectas. -->
 - [ ] C) Una circunferencia de radio nulo. <!-- feedback: Eso sería $x^2 + y^2 = 0$. -->
 - [ ] D) Una parábola degenerada. <!-- feedback: Las parábolas solo tienen una variable cuadrática. -->
 
@@ -365,8 +365,8 @@ Las cónicas pueden ser "degeneradas" cuando el plano de corte pasa por el vért
 ¿Cuáles son los puntos de corte?
 
 ### Opciones
-- [ ] A) $(4, 3)$ y $(4, -3)$ <!-- feedback: Estos puntos no cumplen la ecuación de la elipse ($1 + 1 = 2$, no 1). -->
-- [x] B) Solo el punto $(4, 0)$. <!-- feedback: Correcto. Sustituyendo $x=4$: $16/16 + y^2/9 = 1 \Rightarrow 1 + y^2/9 = 1 \Rightarrow y = 0$. La recta es tangente en el vértice. -->
+- [ ] B) $(4, 3)$ y $(4, -3)$ <!-- feedback: Estos puntos no cumplen la ecuación de la elipse ($1 + 1 = 2$, no 1). -->
+- [x] A) Solo el punto $(4, 0)$. <!-- feedback: Correcto. Sustituyendo $x=4$: $16/16 + y^2/9 = 1 \Rightarrow 1 + y^2/9 = 1 \Rightarrow y = 0$. La recta es tangente en el vértice. -->
 - [ ] C) $(4, 1)$ y $(4, -1)$ <!-- feedback: No cumplen la ecuación. -->
 - [ ] D) No hay puntos de corte. <!-- feedback: La recta toca a la elipse en su extremo derecho. -->
 
@@ -386,10 +386,10 @@ El análisis de intersecciones permite verificar si una recta es tangente a una 
 Si una cónica se define como el lugar geométrico donde la razón de distancias al foco y a la directriz es constante e igual a $e$, ¿cuál es la condición para que sea una hipérbola?
 
 ### Opciones
-- [ ] A) $e = 0$ <!-- feedback: Esto sería una circunferencia (en el límite). -->
-- [ ] B) $0 < e < 1$ <!-- feedback: Esta es la elipse. -->
-- [ ] C) $e = 1$ <!-- feedback: Esta es la parábola. -->
-- [x] D) $e > 1$ <!-- feedback: Correcto. En la hipérbola, el punto está siempre más lejos de la directriz que del foco. -->
+- [ ] B) $e = 0$ <!-- feedback: Esto sería una circunferencia (en el límite). -->
+- [ ] C) $0 < e < 1$ <!-- feedback: Esta es la elipse. -->
+- [ ] D) $e = 1$ <!-- feedback: Esta es la parábola. -->
+- [x] A) $e > 1$ <!-- feedback: Correcto. En la hipérbola, el punto está siempre más lejos de la directriz que del foco. -->
 
 ### Explicacion Pedagogica
 Esta definición unificada de las cónicas es la más potente desde el punto de vista del análisis matemático, permitiendo clasificar todas las curvas con un solo parámetro: la excentricidad.
@@ -408,9 +408,9 @@ Si el Sol se encuentra en uno de los focos de la elipse, ¿qué nombre recibe el
 
 ### Opciones
 - [ ] A) Afelio. <!-- feedback: Este es el punto más alejado del Sol. -->
-- [x] B) Perihelio. <!-- feedback: Correcto. Corresponde al vértice de la elipse situado en el mismo lado que el foco ocupado por el Sol. -->
-- [ ] C) Equinoccio. <!-- feedback: Concepto relacionado con la inclinación del eje, no con la distancia orbital. -->
-- [ ] D) Cenit. <!-- feedback: Punto de la esfera celeste situado directamente sobre el observador. -->
+- [x] D) Perihelio. <!-- feedback: Correcto. Corresponde al vértice de la elipse situado en el mismo lado que el foco ocupado por el Sol. -->
+- [ ] B) Equinoccio. <!-- feedback: Concepto relacionado con la inclinación del eje, no con la distancia orbital. -->
+- [ ] C) Cenit. <!-- feedback: Punto de la esfera celeste situado directamente sobre el observador. -->
 
 ### Explicacion Pedagogica
 Las leyes de Kepler establecen que los planetas describen órbitas elípticas. Es una aplicación histórica y fundamental de la geometría de las cónicas en la astronomía.
@@ -428,8 +428,8 @@ Las leyes de Kepler establecen que los planetas describen órbitas elípticas. E
 Si el término mixto $B = 0$, ¿qué curva representa la ecuación si $A$ y $C$ tienen signos opuestos?
 
 ### Opciones
-- [ ] A) Una elipse. <!-- feedback: Para la elipse deben tener el mismo signo. -->
-- [x] B) Una hipérbola. <!-- feedback: Correcto. Signos opuestos en los coeficientes cuadráticos generan una diferencia de cuadrados característica de la hipérbola. -->
+- [ ] B) Una elipse. <!-- feedback: Para la elipse deben tener el mismo signo. -->
+- [x] A) Una hipérbola. <!-- feedback: Correcto. Signos opuestos en los coeficientes cuadráticos generan una diferencia de cuadrados característica de la hipérbola. -->
 - [ ] C) Una parábola. <!-- feedback: Para la parábola, uno de los dos (A o C) debe ser cero. -->
 - [ ] D) Una circunferencia. <!-- feedback: Deben tener el mismo signo y además ser iguales. -->
 

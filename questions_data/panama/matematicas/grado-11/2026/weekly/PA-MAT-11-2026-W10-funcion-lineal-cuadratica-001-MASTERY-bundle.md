@@ -30,9 +30,9 @@ bundle_index: 1
 
 ### Opciones
 - [ ] A) $f(x) = ax^2 + bx + c$ <!-- feedback: Incorrecto. Esta representa la forma general de una función cuadrática de segundo grado. -->
-- [x] B) $f(x) = mx + b$ <!-- feedback: Correcto. Donde m es la pendiente y b representa el intercepto con el eje vertical y. -->
-- [ ] C) $f(x) = a^x$ <!-- feedback: Incorrecto. Esta estructura corresponde a una función de tipo exponencial. -->
-- [ ] D) $f(x) = k/x$ <!-- feedback: Incorrecto. Esta estructura representa una función de proporcionalidad inversa. -->
+- [x] D) $f(x) = mx + b$ <!-- feedback: Correcto. Donde m es la pendiente y b representa el intercepto con el eje vertical y. -->
+- [ ] B) $f(x) = a^x$ <!-- feedback: Incorrecto. Esta estructura corresponde a una función de tipo exponencial. -->
+- [ ] C) $f(x) = k/x$ <!-- feedback: Incorrecto. Esta estructura representa una función de proporcionalidad inversa. -->
 
 ### Explicacion Pedagogica
 Identificación de la representación algebraica estándar de la función lineal.
@@ -51,9 +51,9 @@ Identificación de la representación algebraica estándar de la función lineal
 
 ### Opciones
 - [ ] A) Foco <!-- feedback: El foco es un punto interno de la curva usado en su definición, pero no es su punto extremo. -->
-- [x] B) Vértice <!-- feedback: Correcto. El vértice es el punto donde la curva cambia de dirección y alcanza su valor límite. -->
-- [ ] C) Directriz <!-- feedback: La directriz es una línea recta de referencia, no un punto perteneciente a la función. -->
-- [ ] D) Eje focal <!-- feedback: El eje de simetría o eje focal es una recta, no un punto específico de la gráfica. -->
+- [x] D) Vértice <!-- feedback: Correcto. El vértice es el punto donde la curva cambia de dirección y alcanza su valor límite. -->
+- [ ] B) Directriz <!-- feedback: La directriz es una línea recta de referencia, no un punto perteneciente a la función. -->
+- [ ] C) Eje focal <!-- feedback: El eje de simetría o eje focal es una recta, no un punto específico de la gráfica. -->
 
 ### Explicacion Pedagogica
 Identificación de los elementos clave de la gráfica de una función cuadrática.
@@ -71,8 +71,8 @@ Identificación de los elementos clave de la gráfica de una función cuadrátic
 Si una función lineal posee una pendiente m = 0, ¿qué tipo de recta representa en el plano?
 
 ### Opciones
-- [ ] A) Una recta vertical <!-- feedback: Incorrecto. Las rectas verticales poseen una pendiente indefinida o infinita. -->
-- [x] B) Una recta horizontal <!-- feedback: Correcto. Una inclinación nula indica que la función es constante y paralela al eje horizontal. -->
+- [ ] B) Una recta vertical <!-- feedback: Incorrecto. Las rectas verticales poseen una pendiente indefinida o infinita. -->
+- [x] A) Una recta horizontal <!-- feedback: Correcto. Una inclinación nula indica que la función es constante y paralela al eje horizontal. -->
 - [ ] C) Una recta a 45 grados <!-- feedback: Incorrecto. Esa inclinación específica corresponde a una pendiente igual a la unidad. -->
 - [ ] D) Recta identidad <!-- feedback: Incorrecto. La recta identidad tiene pendiente uno y pasa por el origen de coordenadas. -->
 
@@ -92,8 +92,8 @@ Interpretación geométrica del valor de la pendiente en funciones lineales.
 Dada la función I(x) = 15x + 50, ¿cuál es el ingreso total si se venden exactamente 10 unidades?
 
 ### Opciones
-- [ ] A) 150 balboas <!-- feedback: Incorrecto. Se omitió sumar el valor del intercepto constante de la función de ingresos. -->
-- [x] B) 200 balboas <!-- feedback: Correcto. 15(10) + 50 resulta en 150 + 50 = 200 balboas totales. -->
+- [ ] B) 150 balboas <!-- feedback: Incorrecto. Se omitió sumar el valor del intercepto constante de la función de ingresos. -->
+- [x] A) 200 balboas <!-- feedback: Correcto. 15(10) + 50 resulta en 150 + 50 = 200 balboas totales. -->
 - [ ] C) 650 balboas <!-- feedback: Incorrecto. Se cometió un error en la ejecución de las operaciones de multiplicación y suma. -->
 - [ ] D) 50 balboas <!-- feedback: Incorrecto. Este es el valor base cuando no se realiza ninguna venta (x=0). -->
 
@@ -114,8 +114,8 @@ Evaluación de funciones lineales en contextos de aplicación comercial y financ
 
 ### Opciones
 - [ ] A) Hacia arriba <!-- feedback: Incorrecto. Esto sucedería solo si el coeficiente del término cuadrático fuera positivo. -->
-- [x] B) Hacia abajo <!-- feedback: Correcto. Al ser el coeficiente principal negativo (-3), la curva es cóncava hacia abajo. -->
-- [ ] C) Hacia la derecha <!-- feedback: Incorrecto. Las funciones reales de x solo pueden tener aperturas verticales. -->
+- [x] C) Hacia abajo <!-- feedback: Correcto. Al ser el coeficiente principal negativo (-3), la curva es cóncava hacia abajo. -->
+- [ ] B) Hacia la derecha <!-- feedback: Incorrecto. Las funciones reales de x solo pueden tener aperturas verticales. -->
 - [ ] D) Es una línea recta <!-- feedback: Incorrecto. La presencia del término de segundo grado garantiza una forma parabólica. -->
 
 ### Explicacion Pedagogica
@@ -198,8 +198,8 @@ Dada la función cuadrática f(x) = 2(x - 4)^2 + 1, ¿cuáles son las coordenada
 
 ### Opciones
 - [ ] A) Punto (-4, 1) <!-- feedback: Incorrecto. El valor del parámetro h cambia de signo al pasar a la coordenada del vértice. -->
-- [x] B) Punto (4, 1) <!-- feedback: Correcto. En la forma canónica a(x-h)^2 + k el vértice se ubica exactamente en (h, k). -->
-- [ ] C) Punto (4, -1) <!-- feedback: Incorrecto. El parámetro k mantiene su signo original fuera del paréntesis de la función. -->
+- [x] C) Punto (4, 1) <!-- feedback: Correcto. En la forma canónica a(x-h)^2 + k el vértice se ubica exactamente en (h, k). -->
+- [ ] B) Punto (4, -1) <!-- feedback: Incorrecto. El parámetro k mantiene su signo original fuera del paréntesis de la función. -->
 - [ ] D) Punto (2, 1) <!-- feedback: Incorrecto. Se confundió el coeficiente de apertura con la coordenada horizontal del vértice. -->
 
 ### Explicacion Pedagogica
@@ -240,8 +240,8 @@ Calcula el discriminante (D = b^2 - 4ac) de f(x) = 2x^2 - 4x + 2 e indica el nú
 
 ### Opciones
 - [ ] A) D = 16; dos raíces <!-- feedback: Incorrecto. Se cometió un error en el cálculo de los productos de la fórmula. -->
-- [x] B) D = 0; una raíz única <!-- feedback: Correcto. D = 16 - 16 = 0. Un valor nulo indica una sola solución real repetida. -->
-- [ ] C) D = -8; ninguna raíz <!-- feedback: Incorrecto. El valor del discriminante para esta función no es de carácter negativo. -->
+- [x] C) D = 0; una raíz única <!-- feedback: Correcto. D = 16 - 16 = 0. Un valor nulo indica una sola solución real repetida. -->
+- [ ] B) D = -8; ninguna raíz <!-- feedback: Incorrecto. El valor del discriminante para esta función no es de carácter negativo. -->
 - [ ] D) D = 32; dos raíces <!-- feedback: Incorrecto. Se realizó una operación aritmética errónea con los coeficientes dados. -->
 
 ### Explicacion Pedagogica
@@ -260,8 +260,8 @@ Uso del discriminante para determinar la naturaleza y cantidad de las raíces re
 ¿En qué puntos coordenados se intersecan la recta y = 2x y la parábola y = x^2?
 
 ### Opciones
-- [ ] A) Solo en el origen (0, 0) <!-- feedback: Incompleto. Existe un segundo punto de corte donde ambas expresiones coinciden. -->
-- [x] B) En (0, 0) y en (2, 4) <!-- feedback: Correcto. Al igualar x^2 = 2x se obtienen las dos soluciones para la variable x. -->
+- [ ] B) Solo en el origen (0, 0) <!-- feedback: Incompleto. Existe un segundo punto de corte donde ambas expresiones coinciden. -->
+- [x] A) En (0, 0) y en (2, 4) <!-- feedback: Correcto. Al igualar x^2 = 2x se obtienen las dos soluciones para la variable x. -->
 - [ ] C) En (0, 0) y en (1, 2) <!-- feedback: Incorrecto. El punto (1, 2) no pertenece a la trayectoria de la función cuadrática. -->
 - [ ] D) Las curvas no se cortan <!-- feedback: Incorrecto. Existen dos puntos reales donde las igualdades se cumplen simultáneamente. -->
 
@@ -282,8 +282,8 @@ Un equipo cuesta 10,000 balboas y pierde 1,000 anuales. ¿Qué función represen
 
 ### Opciones
 - [ ] A) V(t) = 1000t + 10000 <!-- feedback: Incorrecto. Esta función describiría un aumento de valor, no una pérdida o depreciación. -->
-- [x] B) V(t) = -1000t + 10000 <!-- feedback: Correcto. El valor inicial es el intercepto y la tasa de pérdida es la pendiente negativa. -->
-- [ ] C) V(t) = 10000(0.9)^t <!-- feedback: Incorrecto. Esta fórmula corresponde a una depreciación exponencial, no a una lineal. -->
+- [x] C) V(t) = -1000t + 10000 <!-- feedback: Correcto. El valor inicial es el intercepto y la tasa de pérdida es la pendiente negativa. -->
+- [ ] B) V(t) = 10000(0.9)^t <!-- feedback: Incorrecto. Esta fórmula corresponde a una depreciación exponencial, no a una lineal. -->
 - [ ] D) V(t) = -1000t <!-- feedback: Incorrecto. Se omitió incluir el valor del costo inicial del equipo en la función. -->
 
 ### Explicacion Pedagogica
@@ -303,9 +303,9 @@ Si la altura está dada por H(t) = -t^2 + 8t + 10, ¿en qué semana se alcanza l
 
 ### Opciones
 - [ ] A) En la semana 8 <!-- feedback: Incorrecto. Se utilizó el valor del coeficiente b de forma directa sin la división necesaria. -->
-- [x] B) En la semana 4 <!-- feedback: Correcto. El máximo ocurre en el vértice de la parábola: t = -8 / (2*-1) = 4. -->
-- [ ] C) En la semana 10 <!-- feedback: Incorrecto. Este valor representa la altura inicial al momento de la siembra (t=0). -->
-- [ ] D) En la semana 2 <!-- feedback: Incorrecto. Se cometió un error en el cálculo de la posición horizontal del vértice. -->
+- [x] D) En la semana 4 <!-- feedback: Correcto. El máximo ocurre en el vértice de la parábola: t = -8 / (2*-1) = 4. -->
+- [ ] B) En la semana 10 <!-- feedback: Incorrecto. Este valor representa la altura inicial al momento de la siembra (t=0). -->
+- [ ] C) En la semana 2 <!-- feedback: Incorrecto. Se cometió un error en el cálculo de la posición horizontal del vértice. -->
 
 ### Explicacion Pedagogica
 Aplicación del concepto de vértice para la optimización de valores máximos en funciones cuadráticas reales.
@@ -324,8 +324,8 @@ Aplicación del concepto de vértice para la optimización de valores máximos e
 
 ### Opciones
 - [ ] A) Pendiente m = 2/3 <!-- feedback: Incorrecto. Esta sería la pendiente para una condición de paralelismo total. -->
-- [ ] B) Pendiente m = 3/2 <!-- feedback: Incorrecto. Solo representa el recíproco; falta aplicar el cambio de signo necesario. -->
-- [x] C) Pendiente m = -3/2 <!-- feedback: Correcto. Las pendientes perpendiculares son recíprocas y de signos opuestos entre sí. -->
+- [ ] C) Pendiente m = 3/2 <!-- feedback: Incorrecto. Solo representa el recíproco; falta aplicar el cambio de signo necesario. -->
+- [x] B) Pendiente m = -3/2 <!-- feedback: Correcto. Las pendientes perpendiculares son recíprocas y de signos opuestos entre sí. -->
 - [ ] D) Pendiente m = -2/3 <!-- feedback: Incorrecto. Solo representa la opuesta; falta aplicar el recíproco a la fracción. -->
 
 ### Explicacion Pedagogica
@@ -345,8 +345,8 @@ Halla la ecuación de la parábola cuyo vértice es (0, 0) y pasa por el punto c
 
 ### Opciones
 - [ ] A) La recta y = 4x <!-- feedback: Incorrecto. Esta expresión describe una relación lineal, no una curva parabólica. -->
-- [x] B) La curva y = 2x^2 <!-- feedback: Correcto. Sustituyendo el punto: 8 = a(2^2) implica 8 = 4a, por lo que el coeficiente es dos. -->
-- [ ] C) La curva y = x^2 + 4 <!-- feedback: Incorrecto. El vértice de esta función no coincidiría con el origen de coordenadas. -->
+- [x] C) La curva y = 2x^2 <!-- feedback: Correcto. Sustituyendo el punto: 8 = a(2^2) implica 8 = 4a, por lo que el coeficiente es dos. -->
+- [ ] B) La curva y = x^2 + 4 <!-- feedback: Incorrecto. El vértice de esta función no coincidiría con el origen de coordenadas. -->
 - [ ] D) La curva y = 8x^2 <!-- feedback: Incorrecto. Al sustituir x=2 se obtendría una imagen de 32 en lugar de 8. -->
 
 ### Explicacion Pedagogica
@@ -366,8 +366,8 @@ Si C(x) = 5x + 100 e I(x) = 25x, ¿cuántas unidades deben venderse para obtener
 
 ### Opciones
 - [ ] A) 15 unidades <!-- feedback: Incorrecto. Se cometió un error al plantear la igualdad para la utilidad neta. -->
-- [x] B) 20 unidades <!-- feedback: Correcto. (25x) - (5x + 100) = 300 implica 20x = 400, por lo que x es veinte. -->
-- [ ] C) 5 unidades <!-- feedback: Incorrecto. Este valor representaría el punto de equilibrio para una utilidad nula. -->
+- [x] C) 20 unidades <!-- feedback: Correcto. (25x) - (5x + 100) = 300 implica 20x = 400, por lo que x es veinte. -->
+- [ ] B) 5 unidades <!-- feedback: Incorrecto. Este valor representaría el punto de equilibrio para una utilidad nula. -->
 - [ ] D) 10 unidades <!-- feedback: Incorrecto. No se cumple la condición de beneficio monetario requerida por el problema. -->
 
 ### Explicacion Pedagogica
@@ -429,8 +429,8 @@ Si h(t) = -5t^2 + 20t + 25 metros, ¿en qué segundo exacto el objeto impacta fi
 
 ### Opciones
 - [ ] A) En el segundo 2 <!-- feedback: Incorrecto. Este tiempo corresponde al momento de alcanzar la altura máxima de vuelo. -->
-- [ ] B) En el segundo 4 <!-- feedback: Incorrecto. A los cuatro segundos el proyectil se encuentra aún a 25 metros de altura. -->
-- [x] C) En el segundo 5 <!-- feedback: Correcto. Resolviendo la ecuación h(t)=0 se obtiene la raíz positiva correspondiente al impacto. -->
+- [ ] C) En el segundo 4 <!-- feedback: Incorrecto. A los cuatro segundos el proyectil se encuentra aún a 25 metros de altura. -->
+- [x] B) En el segundo 5 <!-- feedback: Correcto. Resolviendo la ecuación h(t)=0 se obtiene la raíz positiva correspondiente al impacto. -->
 - [ ] D) En el segundo 1 <!-- feedback: Incorrecto. En este instante el objeto todavía se encuentra en su fase ascendente de vuelo. -->
 
 ### Explicacion Pedagogica

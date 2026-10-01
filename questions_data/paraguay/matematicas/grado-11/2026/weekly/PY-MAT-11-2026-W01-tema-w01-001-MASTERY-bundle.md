@@ -35,8 +35,8 @@ Este bundle evalúa conceptos clave de Números Reales, Intervalos y Operaciones
 ¿Qué propiedad matemática de la adición en los números reales justifica que para cualquier $a, b \in \mathbb{R}$, se cumpla que $a + b = b + a$?
 
 ### Opciones
-- [x] A) Propiedad conmutativa. <!-- feedback: ¡Correcto! La conmutatividad indica que el orden de los sumandos no altera la suma. -->
-- [ ] B) Propiedad asociativa. <!-- feedback: Incorrecto. La asociatividad se aplica a la agrupación de tres o más sumandos. -->
+- [x] B) Propiedad conmutativa. <!-- feedback: ¡Correcto! La conmutatividad indica que el orden de los sumandos no altera la suma. -->
+- [ ] A) Propiedad asociativa. <!-- feedback: Incorrecto. La asociatividad se aplica a la agrupación de tres o más sumandos. -->
 - [ ] C) Elemento neutro. <!-- feedback: Incorrecto. El elemento neutro es el cero y establece que $a + 0 = a$. -->
 - [ ] D) Propiedad distributiva. <!-- feedback: Incorrecto. Esta relaciona la multiplicación con la suma. -->
 
@@ -56,9 +56,9 @@ La propiedad conmutativa establece que para cualesquiera números reales $a$ y $
 Si un termómetro en el Chaco paraguayo registra temperaturas en el intervalo semiabierto $(18, 42]$ °C, ¿cuál es la interpretación correcta de este conjunto?
 
 ### Opciones
-- [x] A) La temperatura es estrictamente mayor que 18 °C y menor o igual que 42 °C. <!-- feedback: ¡Correcto! Paréntesis excluye el límite inferior y corchete incluye el superior. -->
-- [ ] B) La temperatura es mayor o igual que 18 °C y menor o igual que 42 °C. <!-- feedback: Incorrecto. El límite inferior 18 está excluido porque tiene un paréntesis. -->
-- [ ] C) La temperatura es estrictamente mayor que 18 °C y estrictamente menor que 42 °C. <!-- feedback: Incorrecto. El límite superior 42 está incluido porque tiene un corchete. -->
+- [x] C) La temperatura es estrictamente mayor que 18 °C y menor o igual que 42 °C. <!-- feedback: ¡Correcto! Paréntesis excluye el límite inferior y corchete incluye el superior. -->
+- [ ] A) La temperatura es mayor o igual que 18 °C y menor o igual que 42 °C. <!-- feedback: Incorrecto. El límite inferior 18 está excluido porque tiene un paréntesis. -->
+- [ ] B) La temperatura es estrictamente mayor que 18 °C y estrictamente menor que 42 °C. <!-- feedback: Incorrecto. El límite superior 42 está incluido porque tiene un corchete. -->
 - [ ] D) La temperatura es exactamente igual a 18 °C o a 42 °C. <!-- feedback: Incorrecto. El intervalo abarca todos los números reales entre ambos valores. -->
 
 ### Explicacion Pedagogica
@@ -77,9 +77,9 @@ El intervalo semiabierto $(a, b]$ incluye al extremo derecho $b$ pero excluye al
 Jorge viaja en auto por la Ruta PY02. Si pasa por el km 24 (San Bernardino) y luego por el km 54 (Caacupé), ¿cuál de las siguientes expresiones con valor absoluto calcula la distancia exacta recorrida?
 
 ### Opciones
-- [x] A) $|24 - 54|$ km <!-- feedback: ¡Correcto! El valor absoluto de la diferencia de dos coordenadas reales da la distancia métrica entre ellas. -->
-- [ ] B) $|24| + |54|$ km <!-- feedback: Incorrecto. Esto sumaría las distancias desde el inicio, dando un valor erróneo de 78 km. -->
-- [ ] C) $24 - 54$ km <!-- feedback: Incorrecto. El resultado de esta resta es negativo (-30), y las distancias físicas deben ser no negativas. -->
+- [x] C) $|24 - 54|$ km <!-- feedback: ¡Correcto! El valor absoluto de la diferencia de dos coordenadas reales da la distancia métrica entre ellas. -->
+- [ ] A) $|24| + |54|$ km <!-- feedback: Incorrecto. Esto sumaría las distancias desde el inicio, dando un valor erróneo de 78 km. -->
+- [ ] B) $24 - 54$ km <!-- feedback: Incorrecto. El resultado de esta resta es negativo (-30), y las distancias físicas deben ser no negativas. -->
 - [ ] D) $|24 + 54|$ km <!-- feedback: Incorrecto. La distancia no se calcula sumando las coordenadas reales. -->
 
 ### Explicacion Pedagogica
@@ -98,8 +98,8 @@ La distancia entre dos puntos $x_1, x_2$ en la recta real está dada por la mét
 Considere el número real $x = \sqrt{5}$. ¿A qué subconjunto de los números reales pertenece estrictamente?
 
 ### Opciones
-- [x] A) Números irracionales ($\mathbb{I}$). <!-- feedback: ¡Correcto! $\sqrt{5}$ es un número irracional porque su desarrollo decimal es infinito no periódico. -->
-- [ ] B) Números racionales ($\mathbb{Q}$). <!-- feedback: Incorrecto. No se puede escribir como fracción de dos enteros. -->
+- [x] B) Números irracionales ($\mathbb{I}$). <!-- feedback: ¡Correcto! $\sqrt{5}$ es un número irracional porque su desarrollo decimal es infinito no periódico. -->
+- [ ] A) Números racionales ($\mathbb{Q}$). <!-- feedback: Incorrecto. No se puede escribir como fracción de dos enteros. -->
 - [ ] C) Números enteros ($\mathbb{Z}$). <!-- feedback: Incorrecto. No es un número entero. -->
 - [ ] D) Números naturales ($\mathbb{N}$). <!-- feedback: Incorrecto. Los números naturales son enteros positivos. -->
 
@@ -140,9 +140,9 @@ Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \
 En Caacupé, Diego compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 12%. ¿Cuál es el valor final pagado?
 
 ### Opciones
-- [x] A) ₲ 132.000 <!-- feedback: ¡Correcto! El 12% de 150.000 es 18,000, restándolo da 132,000. -->
-- [ ] B) ₲ 141.000 <!-- feedback: Incorrecto. Revisa el porcentaje de descuento aplicado. -->
-- [ ] C) ₲ 168.000 <!-- feedback: Incorrecto. Sumó el descuento en lugar de restarlo. -->
+- [x] C) ₲ 132.000 <!-- feedback: ¡Correcto! El 12% de 150.000 es 18,000, restándolo da 132,000. -->
+- [ ] A) ₲ 141.000 <!-- feedback: Incorrecto. Revisa el porcentaje de descuento aplicado. -->
+- [ ] B) ₲ 168.000 <!-- feedback: Incorrecto. Sumó el descuento en lugar de restarlo. -->
 - [ ] D) ₲ 128.400 <!-- feedback: Incorrecto. Calculó un porcentaje incorrecto. -->
 
 ### Explicacion Pedagogica
@@ -182,9 +182,9 @@ Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \
 En Coronel Oviedo, Gustavo compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 16%. ¿Cuál es el valor final pagado?
 
 ### Opciones
-- [x] A) ₲ 126.000 <!-- feedback: ¡Correcto! El 16% de 150.000 es 24,000, restándolo da 126,000. -->
-- [ ] B) ₲ 138.000 <!-- feedback: Incorrecto. Revisa el porcentaje de descuento aplicado. -->
-- [ ] C) ₲ 174.000 <!-- feedback: Incorrecto. Sumó el descuento en lugar de restarlo. -->
+- [x] C) ₲ 126.000 <!-- feedback: ¡Correcto! El 16% de 150.000 es 24,000, restándolo da 126,000. -->
+- [ ] A) ₲ 138.000 <!-- feedback: Incorrecto. Revisa el porcentaje de descuento aplicado. -->
+- [ ] B) ₲ 174.000 <!-- feedback: Incorrecto. Sumó el descuento en lugar de restarlo. -->
 - [ ] D) ₲ 121.200 <!-- feedback: Incorrecto. Calculó un porcentaje incorrecto. -->
 
 ### Explicacion Pedagogica
@@ -224,9 +224,9 @@ Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \
 En Villarrica, Carlos compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 20%. ¿Cuál es el valor final pagado?
 
 ### Opciones
-- [x] A) ₲ 120.000 <!-- feedback: ¡Correcto! El 20% de 150.000 es 30,000, restándolo da 120,000. -->
-- [ ] B) ₲ 135.000 <!-- feedback: Incorrecto. Revisa el porcentaje de descuento aplicado. -->
-- [ ] C) ₲ 180.000 <!-- feedback: Incorrecto. Sumó el descuento en lugar de restarlo. -->
+- [x] C) ₲ 120.000 <!-- feedback: ¡Correcto! El 20% de 150.000 es 30,000, restándolo da 120,000. -->
+- [ ] A) ₲ 135.000 <!-- feedback: Incorrecto. Revisa el porcentaje de descuento aplicado. -->
+- [ ] B) ₲ 180.000 <!-- feedback: Incorrecto. Sumó el descuento en lugar de restarlo. -->
 - [ ] D) ₲ 114.000 <!-- feedback: Incorrecto. Calculó un porcentaje incorrecto. -->
 
 ### Explicacion Pedagogica
@@ -245,10 +245,10 @@ Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \
 En Asunción, Ramón compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 22%. ¿Cuál es el valor final pagado?
 
 ### Opciones
-- [x] A) ₲ 117.000 <!-- feedback: ¡Correcto! El 22% de 150.000 es 33,000, restándolo da 117,000. -->
-- [ ] B) ₲ 133.500 <!-- feedback: Incorrecto. Revisa el porcentaje de descuento aplicado. -->
-- [ ] C) ₲ 183.000 <!-- feedback: Incorrecto. Sumó el descuento en lugar de restarlo. -->
-- [ ] D) ₲ 110.400 <!-- feedback: Incorrecto. Calculó un porcentaje incorrecto. -->
+- [x] D) ₲ 117.000 <!-- feedback: ¡Correcto! El 22% de 150.000 es 33,000, restándolo da 117,000. -->
+- [ ] A) ₲ 133.500 <!-- feedback: Incorrecto. Revisa el porcentaje de descuento aplicado. -->
+- [ ] B) ₲ 183.000 <!-- feedback: Incorrecto. Sumó el descuento en lugar de restarlo. -->
+- [ ] C) ₲ 110.400 <!-- feedback: Incorrecto. Calculó un porcentaje incorrecto. -->
 
 ### Explicacion Pedagogica
 Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \text{porcentaje}): 150.000 \times (1 - 0.22) = 117000$ Guaraníes.
@@ -266,8 +266,8 @@ Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \
 En San Lorenzo, María compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 24%. ¿Cuál es el valor final pagado?
 
 ### Opciones
-- [x] A) ₲ 114.000 <!-- feedback: ¡Correcto! El 24% de 150.000 es 36,000, restándolo da 114,000. -->
-- [ ] B) ₲ 132.000 <!-- feedback: Incorrecto. Revisa el porcentaje de descuento aplicado. -->
+- [x] B) ₲ 114.000 <!-- feedback: ¡Correcto! El 24% de 150.000 es 36,000, restándolo da 114,000. -->
+- [ ] A) ₲ 132.000 <!-- feedback: Incorrecto. Revisa el porcentaje de descuento aplicado. -->
 - [ ] C) ₲ 186.000 <!-- feedback: Incorrecto. Sumó el descuento en lugar de restarlo. -->
 - [ ] D) ₲ 106.800 <!-- feedback: Incorrecto. Calculó un porcentaje incorrecto. -->
 
@@ -287,10 +287,10 @@ Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \
 En Luque, Jorge compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 26%. ¿Cuál es el valor final pagado?
 
 ### Opciones
-- [x] A) ₲ 111.000 <!-- feedback: ¡Correcto! El 26% de 150.000 es 39,000, restándolo da 111,000. -->
-- [ ] B) ₲ 130.500 <!-- feedback: Incorrecto. Revisa el porcentaje de descuento aplicado. -->
-- [ ] C) ₲ 189.000 <!-- feedback: Incorrecto. Sumó el descuento en lugar de restarlo. -->
-- [ ] D) ₲ 103.200 <!-- feedback: Incorrecto. Calculó un porcentaje incorrecto. -->
+- [x] D) ₲ 111.000 <!-- feedback: ¡Correcto! El 26% de 150.000 es 39,000, restándolo da 111,000. -->
+- [ ] A) ₲ 130.500 <!-- feedback: Incorrecto. Revisa el porcentaje de descuento aplicado. -->
+- [ ] B) ₲ 189.000 <!-- feedback: Incorrecto. Sumó el descuento en lugar de restarlo. -->
+- [ ] C) ₲ 103.200 <!-- feedback: Incorrecto. Calculó un porcentaje incorrecto. -->
 
 ### Explicacion Pedagogica
 Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \text{porcentaje}): 150.000 \times (1 - 0.26) = 111000$ Guaraníes.
@@ -308,8 +308,8 @@ Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \
 En Encarnación, Liz compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 28%. ¿Cuál es el valor final pagado?
 
 ### Opciones
-- [x] A) ₲ 108.000 <!-- feedback: ¡Correcto! El 28% de 150.000 es 42,000, restándolo da 108,000. -->
-- [ ] B) ₲ 129.000 <!-- feedback: Incorrecto. Revisa el porcentaje de descuento aplicado. -->
+- [x] B) ₲ 108.000 <!-- feedback: ¡Correcto! El 28% de 150.000 es 42,000, restándolo da 108,000. -->
+- [ ] A) ₲ 129.000 <!-- feedback: Incorrecto. Revisa el porcentaje de descuento aplicado. -->
 - [ ] C) ₲ 192.000 <!-- feedback: Incorrecto. Sumó el descuento en lugar de restarlo. -->
 - [ ] D) ₲ 99.600 <!-- feedback: Incorrecto. Calculó un porcentaje incorrecto. -->
 
@@ -329,8 +329,8 @@ Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \
 En Ciudad del Este, Gladys compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 30%. ¿Cuál es el valor final pagado?
 
 ### Opciones
-- [x] A) ₲ 105.000 <!-- feedback: ¡Correcto! El 30% de 150.000 es 45,000, restándolo da 105,000. -->
-- [ ] B) ₲ 127.500 <!-- feedback: Incorrecto. Revisa el porcentaje de descuento aplicado. -->
+- [x] B) ₲ 105.000 <!-- feedback: ¡Correcto! El 30% de 150.000 es 45,000, restándolo da 105,000. -->
+- [ ] A) ₲ 127.500 <!-- feedback: Incorrecto. Revisa el porcentaje de descuento aplicado. -->
 - [ ] C) ₲ 195.000 <!-- feedback: Incorrecto. Sumó el descuento en lugar de restarlo. -->
 - [ ] D) ₲ 96.000 <!-- feedback: Incorrecto. Calculó un porcentaje incorrecto. -->
 
@@ -350,10 +350,10 @@ Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \
 En Caacupé, Diego compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 32%. ¿Cuál es el valor final pagado?
 
 ### Opciones
-- [x] A) ₲ 102.000 <!-- feedback: ¡Correcto! El 32% de 150.000 es 48,000, restándolo da 102,000. -->
-- [ ] B) ₲ 126.000 <!-- feedback: Incorrecto. Revisa el porcentaje de descuento aplicado. -->
-- [ ] C) ₲ 198.000 <!-- feedback: Incorrecto. Sumó el descuento en lugar de restarlo. -->
-- [ ] D) ₲ 92.400 <!-- feedback: Incorrecto. Calculó un porcentaje incorrecto. -->
+- [x] D) ₲ 102.000 <!-- feedback: ¡Correcto! El 32% de 150.000 es 48,000, restándolo da 102,000. -->
+- [ ] A) ₲ 126.000 <!-- feedback: Incorrecto. Revisa el porcentaje de descuento aplicado. -->
+- [ ] B) ₲ 198.000 <!-- feedback: Incorrecto. Sumó el descuento en lugar de restarlo. -->
+- [ ] C) ₲ 92.400 <!-- feedback: Incorrecto. Calculó un porcentaje incorrecto. -->
 
 ### Explicacion Pedagogica
 Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \text{porcentaje}): 150.000 \times (1 - 0.32) = 102000$ Guaraníes.
@@ -371,8 +371,8 @@ Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \
 En Pilar, Patricia compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 34%. ¿Cuál es el valor final pagado?
 
 ### Opciones
-- [x] A) ₲ 99.000 <!-- feedback: ¡Correcto! El 34% de 150.000 es 51,000, restándolo da 99,000. -->
-- [ ] B) ₲ 124.500 <!-- feedback: Incorrecto. Revisa el porcentaje de descuento aplicado. -->
+- [x] B) ₲ 99.000 <!-- feedback: ¡Correcto! El 34% de 150.000 es 51,000, restándolo da 99,000. -->
+- [ ] A) ₲ 124.500 <!-- feedback: Incorrecto. Revisa el porcentaje de descuento aplicado. -->
 - [ ] C) ₲ 201.000 <!-- feedback: Incorrecto. Sumó el descuento en lugar de restarlo. -->
 - [ ] D) ₲ 88.800 <!-- feedback: Incorrecto. Calculó un porcentaje incorrecto. -->
 
@@ -392,10 +392,10 @@ Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \
 En Coronel Oviedo, Gustavo compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 36%. ¿Cuál es el valor final pagado?
 
 ### Opciones
-- [x] A) ₲ 96.000 <!-- feedback: ¡Correcto! El 36% de 150.000 es 54,000, restándolo da 96,000. -->
-- [ ] B) ₲ 123.000 <!-- feedback: Incorrecto. Revisa el porcentaje de descuento aplicado. -->
-- [ ] C) ₲ 204.000 <!-- feedback: Incorrecto. Sumó el descuento en lugar de restarlo. -->
-- [ ] D) ₲ 85.200 <!-- feedback: Incorrecto. Calculó un porcentaje incorrecto. -->
+- [x] D) ₲ 96.000 <!-- feedback: ¡Correcto! El 36% de 150.000 es 54,000, restándolo da 96,000. -->
+- [ ] A) ₲ 123.000 <!-- feedback: Incorrecto. Revisa el porcentaje de descuento aplicado. -->
+- [ ] B) ₲ 204.000 <!-- feedback: Incorrecto. Sumó el descuento en lugar de restarlo. -->
+- [ ] C) ₲ 85.200 <!-- feedback: Incorrecto. Calculó un porcentaje incorrecto. -->
 
 ### Explicacion Pedagogica
 Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \text{porcentaje}): 150.000 \times (1 - 0.36) = 96000$ Guaraníes.
@@ -413,10 +413,10 @@ Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \
 En Concepción, Natalia compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 38%. ¿Cuál es el valor final pagado?
 
 ### Opciones
-- [x] A) ₲ 93.000 <!-- feedback: ¡Correcto! El 38% de 150.000 es 57,000, restándolo da 93,000. -->
-- [ ] B) ₲ 121.500 <!-- feedback: Incorrecto. Revisa el porcentaje de descuento aplicado. -->
-- [ ] C) ₲ 207.000 <!-- feedback: Incorrecto. Sumó el descuento en lugar de restarlo. -->
-- [ ] D) ₲ 81.600 <!-- feedback: Incorrecto. Calculó un porcentaje incorrecto. -->
+- [x] D) ₲ 93.000 <!-- feedback: ¡Correcto! El 38% de 150.000 es 57,000, restándolo da 93,000. -->
+- [ ] A) ₲ 121.500 <!-- feedback: Incorrecto. Revisa el porcentaje de descuento aplicado. -->
+- [ ] B) ₲ 207.000 <!-- feedback: Incorrecto. Sumó el descuento en lugar de restarlo. -->
+- [ ] C) ₲ 81.600 <!-- feedback: Incorrecto. Calculó un porcentaje incorrecto. -->
 
 ### Explicacion Pedagogica
 Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \text{porcentaje}): 150.000 \times (1 - 0.38) = 93000$ Guaraníes.
@@ -434,8 +434,8 @@ Para obtener el valor con descuento, multiplicamos el valor original por $(1 - \
 En Villarrica, Carlos compró varios productos de cultivo por ₲ 150.000 y obtuvo un descuento del 40%. ¿Cuál es el valor final pagado?
 
 ### Opciones
-- [x] A) ₲ 90.000 <!-- feedback: ¡Correcto! El 40% de 150.000 es 60,000, restándolo da 90,000. -->
-- [ ] B) ₲ 120.000 <!-- feedback: Incorrecto. Revisa el porcentaje de descuento aplicado. -->
+- [x] B) ₲ 90.000 <!-- feedback: ¡Correcto! El 40% de 150.000 es 60,000, restándolo da 90,000. -->
+- [ ] A) ₲ 120.000 <!-- feedback: Incorrecto. Revisa el porcentaje de descuento aplicado. -->
 - [ ] C) ₲ 210.000 <!-- feedback: Incorrecto. Sumó el descuento en lugar de restarlo. -->
 - [ ] D) ₲ 78.000 <!-- feedback: Incorrecto. Calculó un porcentaje incorrecto. -->
 

@@ -36,8 +36,8 @@ The Universal Declaration of Human Rights was adopted by the United Nations in 1
 
 ### Opciones
 - [ ] A) rejected <!-- feedback: Incorrect. It was officially accepted. -->
-- [x] B) adopted <!-- feedback: Correct. Adopted means formally approved or accepted. -->
-- [ ] C) ignored <!-- feedback: Incorrect. It is a fundamental document. -->
+- [x] C) adopted <!-- feedback: Correct. Adopted means formally approved or accepted. -->
+- [ ] B) ignored <!-- feedback: Incorrect. It is a fundamental document. -->
 - [ ] D) rewritten <!-- feedback: Incorrect. It was established in 1948. -->
 
 ### Explicacion Pedagogica
@@ -56,8 +56,8 @@ Human rights are inherent to all human beings, regardless of race, gender, or na
 
 ### Opciones
 - [ ] A) regard <!-- feedback: Incorrect. -->
-- [x] B) regardless of <!-- feedback: Correct. Prepositional phrase meaning 'without being affected by'. -->
-- [ ] C) regarding <!-- feedback: Incorrect. Means 'about'. -->
+- [x] C) regardless of <!-- feedback: Correct. Prepositional phrase meaning 'without being affected by'. -->
+- [ ] B) regarding <!-- feedback: Incorrect. Means 'about'. -->
 - [ ] D) regardless <!-- feedback: Incorrect. Needs 'of' to connect to the following list. -->
 
 ### Explicacion Pedagogica
@@ -76,9 +76,9 @@ If those activists hadn't fought for their rights, many of our current freedoms 
 
 ### Opciones
 - [ ] A) didn't fight <!-- feedback: Incorrect. Second conditional. -->
-- [x] B) hadn't fought <!-- feedback: Correct. Third conditional for hypothetical past. -->
-- [ ] C) haven't fought <!-- feedback: Incorrect. Present perfect. -->
-- [ ] D) wouldn't fight <!-- feedback: Incorrect. 'Would' not in 'if' clause. -->
+- [x] D) hadn't fought <!-- feedback: Correct. Third conditional for hypothetical past. -->
+- [ ] B) haven't fought <!-- feedback: Incorrect. Present perfect. -->
+- [ ] C) wouldn't fight <!-- feedback: Incorrect. 'Would' not in 'if' clause. -->
 
 ### Explicacion Pedagogica
 The third conditional is used to express the past importance of social movements.
@@ -95,9 +95,9 @@ The third conditional is used to express the past importance of social movements
 Freedom of expression is a fundamental right that allows individuals to hold and share opinions without interference.
 
 ### Opciones
-- [x] A) interference <!-- feedback: Correct. Interference is the act of getting in the way or hindering. -->
-- [ ] B) agreement <!-- feedback: Incorrect. You can share opinions even if people disagree. -->
-- [ ] C) support <!-- feedback: Incorrect. The right is about the freedom to speak, with or without support. -->
+- [x] C) interference <!-- feedback: Correct. Interference is the act of getting in the way or hindering. -->
+- [ ] A) agreement <!-- feedback: Incorrect. You can share opinions even if people disagree. -->
+- [ ] B) support <!-- feedback: Incorrect. The right is about the freedom to speak, with or without support. -->
 - [ ] D) attention <!-- feedback: Incorrect. Not part of the definition. -->
 
 ### Explicacion Pedagogica
@@ -116,8 +116,8 @@ Inalienable rights are rights that cannot be taken away or denied by any governm
 
 ### Opciones
 - [ ] A) temporary <!-- feedback: Incorrect. Inalienable means permanent. -->
-- [x] B) inalienable <!-- feedback: Correct. This is the specific term for rights that cannot be surrendered. -->
-- [ ] C) flexible <!-- feedback: Incorrect. These rights are absolute. -->
+- [x] C) inalienable <!-- feedback: Correct. This is the specific term for rights that cannot be surrendered. -->
+- [ ] B) flexible <!-- feedback: Incorrect. These rights are absolute. -->
 - [ ] D) optional <!-- feedback: Incorrect. They are fundamental. -->
 
 ### Explicacion Pedagogica
@@ -135,8 +135,8 @@ Inalienable rights are rights that cannot be taken away or denied by any governm
 A violation occurs when a person's fundamental rights are ignored or actively taken away.
 
 ### Opciones
-- [ ] A) celebration <!-- feedback: Incorrect. -->
-- [x] B) violation <!-- feedback: Correct. An act that disregards or breaks a law or right. -->
+- [ ] B) celebration <!-- feedback: Incorrect. -->
+- [x] A) violation <!-- feedback: Correct. An act that disregards or breaks a law or right. -->
 - [ ] C) validation <!-- feedback: Incorrect. To validate is to confirm. -->
 - [ ] D) tradition <!-- feedback: Incorrect. -->
 
@@ -156,8 +156,8 @@ Many groups are still being marginalized despite the progress made in human righ
 
 ### Opciones
 - [ ] A) are marginalizing <!-- feedback: Incorrect. Active voice. -->
-- [x] B) are being marginalized <!-- feedback: Correct. Present continuous passive for an ongoing negative state. -->
-- [ ] C) marginalized <!-- feedback: Incorrect. Past simple. -->
+- [x] C) are being marginalized <!-- feedback: Correct. Present continuous passive for an ongoing negative state. -->
+- [ ] B) marginalized <!-- feedback: Incorrect. Past simple. -->
 - [ ] D) have marginalized <!-- feedback: Incorrect. Active voice. -->
 
 ### Explicacion Pedagogica
@@ -196,8 +196,8 @@ The report confirmed that several rights had been systematically ignored during 
 
 ### Opciones
 - [ ] A) have been <!-- feedback: Incorrect. Backshifted in reported speech. -->
-- [x] B) had been <!-- feedback: Correct. Backshifted from present perfect to past perfect. -->
-- [ ] C) are <!-- feedback: Incorrect. Present. -->
+- [x] C) had been <!-- feedback: Correct. Backshifted from present perfect to past perfect. -->
+- [ ] B) are <!-- feedback: Incorrect. Present. -->
 - [ ] D) will be <!-- feedback: Incorrect. Future. -->
 
 ### Explicacion Pedagogica
@@ -216,9 +216,9 @@ Tokenism is the practice of making only a perfunctory or symbolic effort to be i
 
 ### Opciones
 - [ ] A) Genuine <!-- feedback: Incorrect. Tokenism is the opposite of genuine. -->
-- [x] B) perfunctory <!-- feedback: Correct. Perfunctory means carried out with a minimum of effort or reflection. -->
-- [ ] C) extensive <!-- feedback: Incorrect. Tokenism is a small, superficial effort. -->
-- [ ] D) effective <!-- feedback: Incorrect. Tokenism is usually seen as ineffective or insulting. -->
+- [x] D) perfunctory <!-- feedback: Correct. Perfunctory means carried out with a minimum of effort or reflection. -->
+- [ ] B) extensive <!-- feedback: Incorrect. Tokenism is a small, superficial effort. -->
+- [ ] C) effective <!-- feedback: Incorrect. Tokenism is usually seen as ineffective or insulting. -->
 
 ### Explicacion Pedagogica
 'Perfunctory' describes the superficial, minimum effort that characterizes tokenism.
@@ -256,8 +256,8 @@ By the next summit, new protocols will have been implemented to better protect e
 
 ### Opciones
 - [ ] A) will implement <!-- feedback: Incorrect. Active voice. -->
-- [x] B) will have been implemented <!-- feedback: Correct. Future perfect passive for a completed state in the future. -->
-- [ ] C) are implemented <!-- feedback: Incorrect. Present. -->
+- [x] C) will have been implemented <!-- feedback: Correct. Future perfect passive for a completed state in the future. -->
+- [ ] B) are implemented <!-- feedback: Incorrect. Present. -->
 - [ ] D) implementing <!-- feedback: Incorrect. Gerund. -->
 
 ### Explicacion Pedagogica
@@ -275,8 +275,8 @@ The future perfect passive indicates that the action will be a finished achievem
 Human rights education aims to empower individuals to stand up for themselves and others.
 
 ### Opciones
-- [x] A) empower <!-- feedback: Correct. To empower means to give someone the authority or power to do something. -->
-- [ ] B) silence <!-- feedback: Incorrect. Education aims for the opposite. -->
+- [x] B) empower <!-- feedback: Correct. To empower means to give someone the authority or power to do something. -->
+- [ ] A) silence <!-- feedback: Incorrect. Education aims for the opposite. -->
 - [ ] C) restrict <!-- feedback: Incorrect. Education aims to expand ability. -->
 - [ ] D) ignore <!-- feedback: Incorrect. Awareness is about paying attention. -->
 
@@ -296,9 +296,9 @@ If people were more aware of their rights, they would be less likely to be explo
 
 ### Opciones
 - [ ] A) are <!-- feedback: Incorrect. First conditional. -->
-- [x] B) were <!-- feedback: Correct. Second conditional for a hypothetical change. -->
-- [ ] C) had been <!-- feedback: Incorrect. Third conditional. -->
-- [ ] D) would be <!-- feedback: Incorrect. 'Would' not in 'if' clause. -->
+- [x] D) were <!-- feedback: Correct. Second conditional for a hypothetical change. -->
+- [ ] B) had been <!-- feedback: Incorrect. Third conditional. -->
+- [ ] C) would be <!-- feedback: Incorrect. 'Would' not in 'if' clause. -->
 
 ### Explicacion Pedagogica
 The second conditional describes how a hypothetical increase in knowledge would result in a positive social outcome.
@@ -315,8 +315,8 @@ The second conditional describes how a hypothetical increase in knowledge would 
 The author concludes that companies must be held accountable for any human rights violations in their supply chains.
 
 ### Opciones
-- [ ] A) praised <!-- feedback: Incorrect. They shouldn't be praised for violations. -->
-- [x] B) held accountable <!-- feedback: Correct. Means expected to explain or take responsibility for actions. -->
+- [ ] B) praised <!-- feedback: Incorrect. They shouldn't be praised for violations. -->
+- [x] A) held accountable <!-- feedback: Correct. Means expected to explain or take responsibility for actions. -->
 - [ ] C) ignored <!-- feedback: Incorrect. Violations must be addressed. -->
 - [ ] D) rewarded <!-- feedback: Incorrect. Negative behavior shouldn't be rewarded. -->
 
@@ -336,8 +336,8 @@ Equality means ensuring that every individual has an equal opportunity to make t
 
 ### Opciones
 - [ ] A) Wealth <!-- feedback: Incorrect. Money-focused. -->
-- [x] B) Equality <!-- feedback: Correct. The state of being equal. -->
-- [ ] C) Greed <!-- feedback: Incorrect. Selfish desire. -->
+- [x] C) Equality <!-- feedback: Correct. The state of being equal. -->
+- [ ] B) Greed <!-- feedback: Incorrect. Selfish desire. -->
 - [ ] D) Chaos <!-- feedback: Incorrect. Disorder. -->
 
 ### Explicacion Pedagogica
@@ -396,9 +396,9 @@ The lawyer argued that the defendant's rights had been infringed upon.
 
 ### Opciones
 - [ ] A) are <!-- feedback: Incorrect. Backshifted in reported speech. -->
-- [x] B) had been <!-- feedback: Correct. Backshifted from present perfect or past simple to past perfect. -->
-- [ ] C) will be <!-- feedback: Incorrect. Future. -->
-- [ ] D) have been <!-- feedback: Incorrect. Present perfect. -->
+- [x] D) had been <!-- feedback: Correct. Backshifted from present perfect or past simple to past perfect. -->
+- [ ] B) will be <!-- feedback: Incorrect. Future. -->
+- [ ] C) have been <!-- feedback: Incorrect. Present perfect. -->
 
 ### Explicacion Pedagogica
 In reported speech, we backshift the tense to show the infringement occurred prior to the lawyer's argument.

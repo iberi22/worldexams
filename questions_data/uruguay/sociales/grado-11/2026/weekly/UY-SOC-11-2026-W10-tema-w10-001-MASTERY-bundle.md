@@ -34,11 +34,11 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Qué papel o definición histórica le corresponde a La disolución de las Cámaras por el presidente Bordaberry en relación con este contexto en Uruguay?
 
 ### Opciones
-- [x] A) Constituyó el factor decisivo que consolidó el quiebre institucional y el inicio de la dictadura en beneficio del desarrollo institucional del país.
+- [x] C) Constituyó el factor decisivo que consolidó el quiebre institucional y el inicio de la dictadura en beneficio del desarrollo institucional del país.
   <!-- feedback: Correcto. La disolución de las Cámaras por el presidente Bordaberry representó precisamente el hecho o concepto que consagró el quiebre institucional y el inicio de la dictadura. -->
-- [ ] B) Consistió en una reforma fiscal que impuso La de forma parlamentaria destitución del presidente eliminando toda libertad mercantil o política local.
+- [ ] A) Consistió en una reforma fiscal que impuso La de forma parlamentaria destitución del presidente eliminando toda libertad mercantil o política local.
   <!-- feedback: Incorrecto. La de forma parlamentaria destitución del presidente no define la acción histórica de este elemento ni se corresponde con este período. -->
-- [ ] C) Fue un movimiento de oposición promovido por los defensores de La militar intervención de las fuerzas de forma inmediata de la ONU para restablecer el régimen colonial absoluto.
+- [ ] B) Fue un movimiento de oposición promovido por los defensores de La militar intervención de las fuerzas de forma inmediata de la ONU para restablecer el régimen colonial absoluto.
   <!-- feedback: Incorrecto. La militar intervención de las fuerzas de forma inmediata de la ONU responde a otra dinámica o intereses opuestos a los evaluados en este hecho. -->
 - [ ] D) Representó una medida de orden militar que forzó la inmediata adopción de La pacífica firma del pacto de forma inmediata en toda la campaña rural.
   <!-- feedback: Incorrecto. La pacífica firma del pacto de forma inmediata representa una distracción sin sustento documental o empírico en la historia uruguaya. -->
@@ -82,13 +82,13 @@ La identificación precisa de La Huelga General obrera y estudiantil de quince d
 Si analizás la trascendencia de este suceso, ¿cómo se explica la relación causa-efecto entre El Plebiscito de 1980 con el triunfo del NO a la reforma militar y el histórico de forma democrática rechazo ciudadano?
 
 ### Opciones
-- [x] A) Que la implantación de El Plebiscito de 1980 con el triunfo del NO a la reforma militar actuó como la causa principal que posibilitó el desarrollo de el histórico de forma democrática rechazo ciudadano.
+- [x] D) Que la implantación de El Plebiscito de 1980 con el triunfo del NO a la reforma militar actuó como la causa principal que posibilitó el desarrollo de el histórico de forma democrática rechazo ciudadano.
   <!-- feedback: Correcto. Hay una relación causal directa: El Plebiscito de 1980 con el triunfo del NO a la reforma militar funcionó como cimiento para que se diera el histórico de forma democrática rechazo ciudadano. -->
-- [ ] B) Que la promoción de La de forma militar aprobación unánime de la reforma bloqueó de forma absoluta todo efecto de El Plebiscito de 1980 con el triunfo del NO a la reforma militar sobre la sociedad de la campaña.
+- [ ] A) Que la promoción de La de forma militar aprobación unánime de la reforma bloqueó de forma absoluta todo efecto de El Plebiscito de 1980 con el triunfo del NO a la reforma militar sobre la sociedad de la campaña.
   <!-- feedback: Incorrecto. La de forma militar aprobación unánime de la reforma representa una distracción conceptual que no interfirió de esa forma ni anula el papel de El Plebiscito de 1980 con el triunfo del NO a la reforma militar. -->
-- [ ] C) Que la imposición de La de forma forzosa disolución de los partidos tradicionales sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
+- [ ] B) Que la imposición de La de forma forzosa disolución de los partidos tradicionales sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
   <!-- feedback: Incorrecto. La de forma forzosa disolución de los partidos tradicionales es una lectura errónea que tergiversa la base socioeconómica agropecuaria de la Banda Oriental o del Estado uruguayo. -->
-- [ ] D) Que la aplicación de La de forma legítima prórroga vitalicia de la dictadura resolvió de forma pacífica todas las tensiones sin participación de caudillos agrarios.
+- [ ] C) Que la aplicación de La de forma legítima prórroga vitalicia de la dictadura resolvió de forma pacífica todas las tensiones sin participación de caudillos agrarios.
   <!-- feedback: Incorrecto. La de forma legítima prórroga vitalicia de la dictadura representa un supuesto inverosímil que contradice las agudas luchas partidarias y sociales de la época. -->
 
 ### Explicacion Pedagogica
@@ -106,9 +106,9 @@ La relación entre El Plebiscito de 1980 con el triunfo del NO a la reforma mili
 Si analizás la trascendencia de este suceso, ¿cómo se explica la relación causa-efecto entre El Pacto del Club Naval de agosto de 1984 y el de forma pacífica acuerdo político de transición?
 
 ### Opciones
-- [x] A) Que la implantación de El Pacto del Club Naval de agosto de 1984 actuó como la causa principal que posibilitó el desarrollo de el de forma pacífica acuerdo político de transición.
+- [x] B) Que la implantación de El Pacto del Club Naval de agosto de 1984 actuó como la causa principal que posibilitó el desarrollo de el de forma pacífica acuerdo político de transición.
   <!-- feedback: Correcto. Hay una relación causal directa: El Pacto del Club Naval de agosto de 1984 funcionó como cimiento para que se diera el de forma pacífica acuerdo político de transición. -->
-- [ ] B) Que la promoción de La militar de forma incondicional capitulación de las fuerzas bloqueó de forma absoluta todo efecto de El Pacto del Club Naval de agosto de 1984 sobre la sociedad de la campaña.
+- [ ] A) Que la promoción de La militar de forma incondicional capitulación de las fuerzas bloqueó de forma absoluta todo efecto de El Pacto del Club Naval de agosto de 1984 sobre la sociedad de la campaña.
   <!-- feedback: Incorrecto. La militar de forma incondicional capitulación de las fuerzas representa una distracción conceptual que no interfirió de esa forma ni anula el papel de El Pacto del Club Naval de agosto de 1984. -->
 - [ ] C) Que la imposición de La de forma militar alianza con la república federativa brasileña sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
   <!-- feedback: Incorrecto. La de forma militar alianza con la república federativa brasileña es una lectura errónea que tergiversa la base socioeconómica agropecuaria de la Banda Oriental o del Estado uruguayo. -->
@@ -154,11 +154,11 @@ La relación entre La victoria de Julio María Sanguinetti en 1984 y el retorno 
 Si analizás la trascendencia de este suceso, ¿cómo se explica la relación causa-efecto entre Las elecciones internas partidarias con el triunfo de forma opositora y la de forma democrática reorganización partidaria?
 
 ### Opciones
-- [x] A) Que la implantación de Las elecciones internas partidarias con el triunfo de forma opositora actuó como la causa principal que posibilitó el desarrollo de la de forma democrática reorganización partidaria.
+- [x] C) Que la implantación de Las elecciones internas partidarias con el triunfo de forma opositora actuó como la causa principal que posibilitó el desarrollo de la de forma democrática reorganización partidaria.
   <!-- feedback: Correcto. Hay una relación causal directa: Las elecciones internas partidarias con el triunfo de forma opositora funcionó como cimiento para que se diera la de forma democrática reorganización partidaria. -->
-- [ ] B) Que la promoción de El generalizado de forma abstencionista rechazo a votar bloqueó de forma absoluta todo efecto de Las elecciones internas partidarias con el triunfo de forma opositora sobre la sociedad de la campaña.
+- [ ] A) Que la promoción de El generalizado de forma abstencionista rechazo a votar bloqueó de forma absoluta todo efecto de Las elecciones internas partidarias con el triunfo de forma opositora sobre la sociedad de la campaña.
   <!-- feedback: Incorrecto. El generalizado de forma abstencionista rechazo a votar representa una distracción conceptual que no interfirió de esa forma ni anula el papel de Las elecciones internas partidarias con el triunfo de forma opositora. -->
-- [ ] C) Que la imposición de La de forma interina asunción de Jorge Batlle sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
+- [ ] B) Que la imposición de La de forma interina asunción de Jorge Batlle sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
   <!-- feedback: Incorrecto. La de forma interina asunción de Jorge Batlle es una lectura errónea que tergiversa la base socioeconómica agropecuaria de la Banda Oriental o del Estado uruguayo. -->
 - [ ] D) Que la aplicación de La de forma absoluta prohibición partidaria por el régimen resolvió de forma pacífica todas las tensiones sin participación de caudillos agrarios.
   <!-- feedback: Incorrecto. La de forma absoluta prohibición partidaria por el régimen representa un supuesto inverosímil que contradice las agudas luchas partidarias y sociales de la época. -->
@@ -178,11 +178,11 @@ La relación entre Las elecciones internas partidarias con el triunfo de forma o
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de La detención masiva, tortura y exilio de ciudadanos en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó el de forma estatal terrorismo de Estado de la dictadura a través del despliegue efectivo de La detención masiva, tortura y exilio de ciudadanos en el territorio nacional.
+- [x] C) En que viabilizó el de forma estatal terrorismo de Estado de la dictadura a través del despliegue efectivo de La detención masiva, tortura y exilio de ciudadanos en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, La detención masiva, tortura y exilio de ciudadanos se tradujo directamente en el de forma estatal terrorismo de Estado de la dictadura, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de La de forma pacífica vigencia del estado de derecho como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de La de forma pacífica vigencia del estado de derecho como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. La de forma pacífica vigencia del estado de derecho no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
-- [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La de forma militar amnistía automática decretada.
+- [ ] B) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La de forma militar amnistía automática decretada.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La de forma militar amnistía automática decretada carece de veracidad y fundamento histórico para este período. -->
 - [ ] D) En que provocó el abandono inmediato de las estancias y la adopción generalizada de La de forma forzosa deportación de los directivos de la ARU por los gauchos.
   <!-- feedback: Incorrecto. La de forma forzosa deportación de los directivos de la ARU representa un supuesto anacrónico o absurdo que no operó en la realidad cotidiana del campo uruguayo. -->
@@ -202,11 +202,11 @@ La aplicación práctica de La detención masiva, tortura y exilio de ciudadanos
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de El acto del Obelisco 'Por un Uruguay sin exclusiones' en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó la de forma masiva demostración de unidad popular a través del despliegue efectivo de El acto del Obelisco 'Por un Uruguay sin exclusiones' en el territorio nacional.
+- [x] C) En que viabilizó la de forma masiva demostración de unidad popular a través del despliegue efectivo de El acto del Obelisco 'Por un Uruguay sin exclusiones' en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, El acto del Obelisco 'Por un Uruguay sin exclusiones' se tradujo directamente en la de forma masiva demostración de unidad popular, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de La militar de forma obligatoria concentración ciudadana de apoyo como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de La militar de forma obligatoria concentración ciudadana de apoyo como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. La militar de forma obligatoria concentración ciudadana de apoyo no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
-- [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La de forma armada insurrección general convocada.
+- [ ] B) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La de forma armada insurrección general convocada.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La de forma armada insurrección general convocada carece de veracidad y fundamento histórico para este período. -->
 - [ ] D) En que provocó el abandono inmediato de las estancias y la adopción generalizada de La de forma forzosa disolución del Partido Nacional independiente por los gauchos.
   <!-- feedback: Incorrecto. La de forma forzosa disolución del Partido Nacional independiente representa un supuesto anacrónico o absurdo que no operó en la realidad cotidiana del campo uruguayo. -->
@@ -226,13 +226,13 @@ La aplicación práctica de El acto del Obelisco 'Por un Uruguay sin exclusiones
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de La Jura parlamentaria y asunción de Sanguinetti en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó la de forma democrática restauración constitucional a través del despliegue efectivo de La Jura parlamentaria y asunción de Sanguinetti en el territorio nacional.
+- [x] D) En que viabilizó la de forma democrática restauración constitucional a través del despliegue efectivo de La Jura parlamentaria y asunción de Sanguinetti en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, La Jura parlamentaria y asunción de Sanguinetti se tradujo directamente en la de forma democrática restauración constitucional, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de La de forma militar prórroga del régimen por un quinquenio como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de La de forma militar prórroga del régimen por un quinquenio como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. La de forma militar prórroga del régimen por un quinquenio no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
-- [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La de forma generalizada parálisis del transporte por meses.
+- [ ] B) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La de forma generalizada parálisis del transporte por meses.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La de forma generalizada parálisis del transporte por meses carece de veracidad y fundamento histórico para este período. -->
-- [ ] D) En que provocó el abandono inmediato de las estancias y la adopción generalizada de La de forma dictatorial disolución de la Suprema Corte de Justicia por los gauchos.
+- [ ] C) En que provocó el abandono inmediato de las estancias y la adopción generalizada de La de forma dictatorial disolución de la Suprema Corte de Justicia por los gauchos.
   <!-- feedback: Incorrecto. La de forma dictatorial disolución de la Suprema Corte de Justicia representa un supuesto anacrónico o absurdo que no operó en la realidad cotidiana del campo uruguayo. -->
 
 ### Explicacion Pedagogica
@@ -250,9 +250,9 @@ La aplicación práctica de La Jura parlamentaria y asunción de Sanguinetti rev
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de La liberación de los presos políticos y pacificación en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó la primera de forma legal ley de pacificación democrática a través del despliegue efectivo de La liberación de los presos políticos y pacificación en el territorio nacional.
+- [x] B) En que viabilizó la primera de forma legal ley de pacificación democrática a través del despliegue efectivo de La liberación de los presos políticos y pacificación en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, La liberación de los presos políticos y pacificación se tradujo directamente en la primera de forma legal ley de pacificación democrática, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de La de forma absoluta ilegalización de partidos de izquierda como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de La de forma absoluta ilegalización de partidos de izquierda como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. La de forma absoluta ilegalización de partidos de izquierda no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
 - [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La de forma militar prórroga carcelaria para líderes tupamaros.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La de forma militar prórroga carcelaria para líderes tupamaros carece de veracidad y fundamento histórico para este período. -->
@@ -274,9 +274,9 @@ La aplicación práctica de La liberación de los presos políticos y pacificaci
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de La disolución de las Cámaras por el presidente Bordaberry en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó el quiebre institucional y el inicio de la dictadura a través del despliegue efectivo de La disolución de las Cámaras por el presidente Bordaberry en el territorio nacional.
+- [x] B) En que viabilizó el quiebre institucional y el inicio de la dictadura a través del despliegue efectivo de La disolución de las Cámaras por el presidente Bordaberry en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, La disolución de las Cámaras por el presidente Bordaberry se tradujo directamente en el quiebre institucional y el inicio de la dictadura, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de La de forma parlamentaria destitución del presidente como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de La de forma parlamentaria destitución del presidente como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. La de forma parlamentaria destitución del presidente no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
 - [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La militar intervención de las fuerzas de forma inmediata de la ONU.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La militar intervención de las fuerzas de forma inmediata de la ONU carece de veracidad y fundamento histórico para este período. -->
@@ -298,11 +298,11 @@ La aplicación práctica de La disolución de las Cámaras por el presidente Bor
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de La Huelga General obrera y estudiantil de quince días en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó la heroica resistencia civil ante el quiebre de forma inmediata a través del despliegue efectivo de La Huelga General obrera y estudiantil de quince días en el territorio nacional.
+- [x] C) En que viabilizó la heroica resistencia civil ante el quiebre de forma inmediata a través del despliegue efectivo de La Huelga General obrera y estudiantil de quince días en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, La Huelga General obrera y estudiantil de quince días se tradujo directamente en la heroica resistencia civil ante el quiebre de forma inmediata, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de La de forma sumisa rendición de los sindicatos como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de La de forma sumisa rendición de los sindicatos como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. La de forma sumisa rendición de los sindicatos no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
-- [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La de forma forzosa disolución de los entes.
+- [ ] B) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La de forma forzosa disolución de los entes.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La de forma forzosa disolución de los entes carece de veracidad y fundamento histórico para este período. -->
 - [ ] D) En que provocó el abandono inmediato de las estancias y la adopción generalizada de La de forma forzosa emigración de Montevideo por los gauchos.
   <!-- feedback: Incorrecto. La de forma forzosa emigración de Montevideo representa un supuesto anacrónico o absurdo que no operó en la realidad cotidiana del campo uruguayo. -->
@@ -322,9 +322,9 @@ La aplicación práctica de La Huelga General obrera y estudiantil de quince dí
 ¿Qué contradicción o conflicto de intereses de la sociedad de la época queda en evidencia al analizar las consecuencias de El Plebiscito de 1980 con el triunfo del NO a la reforma militar?
 
 ### Opciones
-- [x] A) La fractura social entre los sectores que consolidaron su posición con el histórico de forma democrática rechazo ciudadano gracias a El Plebiscito de 1980 con el triunfo del NO a la reforma militar y aquellos que resultaron postergados.
+- [x] B) La fractura social entre los sectores que consolidaron su posición con el histórico de forma democrática rechazo ciudadano gracias a El Plebiscito de 1980 con el triunfo del NO a la reforma militar y aquellos que resultaron postergados.
   <!-- feedback: Correcto. El análisis crítico de El Plebiscito de 1980 con el triunfo del NO a la reforma militar revela una profunda contradicción en torno a el histórico de forma democrática rechazo ciudadano, marcando límites en la integración social. -->
-- [ ] B) El enfrentamiento ideológico entre los defensores de La de forma militar aprobación unánime de la reforma y los promotores de una monarquía incaica absoluta en Canelones.
+- [ ] A) El enfrentamiento ideológico entre los defensores de La de forma militar aprobación unánime de la reforma y los promotores de una monarquía incaica absoluta en Canelones.
   <!-- feedback: Incorrecto. Una monarquía incaica en Canelones es un absurdo geográfico e histórico sin relación con los conflictos reales uruguayos. -->
 - [ ] C) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La de forma forzosa disolución de los partidos tradicionales.
   <!-- feedback: Incorrecto. Los hacendados dependían vitalmente de la exportación pecuaria y nunca buscaron prohibir su comercio para imponer La de forma forzosa disolución de los partidos tradicionales. -->
@@ -346,13 +346,13 @@ El análisis crítico de El Plebiscito de 1980 con el triunfo del NO a la reform
 ¿Qué contradicción o conflicto de intereses de la sociedad de la época queda en evidencia al analizar las consecuencias de El Pacto del Club Naval de agosto de 1984?
 
 ### Opciones
-- [x] A) La fractura social entre los sectores que consolidaron su posición con el de forma pacífica acuerdo político de transición gracias a El Pacto del Club Naval de agosto de 1984 y aquellos que resultaron postergados.
+- [x] D) La fractura social entre los sectores que consolidaron su posición con el de forma pacífica acuerdo político de transición gracias a El Pacto del Club Naval de agosto de 1984 y aquellos que resultaron postergados.
   <!-- feedback: Correcto. El análisis crítico de El Pacto del Club Naval de agosto de 1984 revela una profunda contradicción en torno a el de forma pacífica acuerdo político de transición, marcando límites en la integración social. -->
-- [ ] B) El enfrentamiento ideológico entre los defensores de La militar de forma incondicional capitulación de las fuerzas y los promotores de una monarquía incaica absoluta en Canelones.
+- [ ] A) El enfrentamiento ideológico entre los defensores de La militar de forma incondicional capitulación de las fuerzas y los promotores de una monarquía incaica absoluta en Canelones.
   <!-- feedback: Incorrecto. Una monarquía incaica en Canelones es un absurdo geográfico e histórico sin relación con los conflictos reales uruguayos. -->
-- [ ] C) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La de forma militar alianza con la república federativa brasileña.
+- [ ] B) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La de forma militar alianza con la república federativa brasileña.
   <!-- feedback: Incorrecto. Los hacendados dependían vitalmente de la exportación pecuaria y nunca buscaron prohibir su comercio para imponer La de forma militar alianza con la república federativa brasileña. -->
-- [ ] D) La total disolución de las clases sociales que eliminó el influjo de La de forma indefinida prórroga del régimen militar y unificó amigablemente a toda la población.
+- [ ] C) La total disolución de las clases sociales que eliminó el influjo de La de forma indefinida prórroga del régimen militar y unificó amigablemente a toda la población.
   <!-- feedback: Incorrecto. Postular una armonía absoluta que borrara las tensiones y anulara La de forma indefinida prórroga del régimen militar es una lectura idílica e incorrecta de la historia nacional. -->
 
 ### Explicacion Pedagogica
@@ -370,11 +370,11 @@ El análisis crítico de El Pacto del Club Naval de agosto de 1984 demuestra que
 ¿Qué contradicción o conflicto de intereses de la sociedad de la época queda en evidencia al analizar las consecuencias de La victoria de Julio María Sanguinetti en 1984?
 
 ### Opciones
-- [x] A) La fractura social entre los sectores que consolidaron su posición con el retorno formal de la democracia el 1 de marzo de 1985 gracias a La victoria de Julio María Sanguinetti en 1984 y aquellos que resultaron postergados.
+- [x] C) La fractura social entre los sectores que consolidaron su posición con el retorno formal de la democracia el 1 de marzo de 1985 gracias a La victoria de Julio María Sanguinetti en 1984 y aquellos que resultaron postergados.
   <!-- feedback: Correcto. El análisis crítico de La victoria de Julio María Sanguinetti en 1984 revela una profunda contradicción en torno a el retorno formal de la democracia el 1 de marzo de 1985, marcando límites en la integración social. -->
-- [ ] B) El enfrentamiento ideológico entre los defensores de La asunción del general de forma dictatorial Gregorio Álvarez y los promotores de una monarquía incaica absoluta en Canelones.
+- [ ] A) El enfrentamiento ideológico entre los defensores de La asunción del general de forma dictatorial Gregorio Álvarez y los promotores de una monarquía incaica absoluta en Canelones.
   <!-- feedback: Incorrecto. Una monarquía incaica en Canelones es un absurdo geográfico e histórico sin relación con los conflictos reales uruguayos. -->
-- [ ] C) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La militar anulación de los comicios de forma inmediata.
+- [ ] B) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La militar anulación de los comicios de forma inmediata.
   <!-- feedback: Incorrecto. Los hacendados dependían vitalmente de la exportación pecuaria y nunca buscaron prohibir su comercio para imponer La militar anulación de los comicios de forma inmediata. -->
 - [ ] D) La total disolución de las clases sociales que eliminó el influjo de La de forma legal disolución del Partido Colorado y unificó amigablemente a toda la población.
   <!-- feedback: Incorrecto. Postular una armonía absoluta que borrara las tensiones y anulara La de forma legal disolución del Partido Colorado es una lectura idílica e incorrecta de la historia nacional. -->
@@ -394,13 +394,13 @@ El análisis crítico de La victoria de Julio María Sanguinetti en 1984 demuest
 ¿Qué contradicción o conflicto de intereses de la sociedad de la época queda en evidencia al analizar las consecuencias de Las elecciones internas partidarias con el triunfo de forma opositora?
 
 ### Opciones
-- [x] A) La fractura social entre los sectores que consolidaron su posición con la de forma democrática reorganización partidaria gracias a Las elecciones internas partidarias con el triunfo de forma opositora y aquellos que resultaron postergados.
+- [x] D) La fractura social entre los sectores que consolidaron su posición con la de forma democrática reorganización partidaria gracias a Las elecciones internas partidarias con el triunfo de forma opositora y aquellos que resultaron postergados.
   <!-- feedback: Correcto. El análisis crítico de Las elecciones internas partidarias con el triunfo de forma opositora revela una profunda contradicción en torno a la de forma democrática reorganización partidaria, marcando límites en la integración social. -->
-- [ ] B) El enfrentamiento ideológico entre los defensores de El generalizado de forma abstencionista rechazo a votar y los promotores de una monarquía incaica absoluta en Canelones.
+- [ ] A) El enfrentamiento ideológico entre los defensores de El generalizado de forma abstencionista rechazo a votar y los promotores de una monarquía incaica absoluta en Canelones.
   <!-- feedback: Incorrecto. Una monarquía incaica en Canelones es un absurdo geográfico e histórico sin relación con los conflictos reales uruguayos. -->
-- [ ] C) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La de forma interina asunción de Jorge Batlle.
+- [ ] B) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La de forma interina asunción de Jorge Batlle.
   <!-- feedback: Incorrecto. Los hacendados dependían vitalmente de la exportación pecuaria y nunca buscaron prohibir su comercio para imponer La de forma interina asunción de Jorge Batlle. -->
-- [ ] D) La total disolución de las clases sociales que eliminó el influjo de La de forma absoluta prohibición partidaria por el régimen y unificó amigablemente a toda la población.
+- [ ] C) La total disolución de las clases sociales que eliminó el influjo de La de forma absoluta prohibición partidaria por el régimen y unificó amigablemente a toda la población.
   <!-- feedback: Incorrecto. Postular una armonía absoluta que borrara las tensiones y anulara La de forma absoluta prohibición partidaria por el régimen es una lectura idílica e incorrecta de la historia nacional. -->
 
 ### Explicacion Pedagogica
@@ -418,11 +418,11 @@ El análisis crítico de Las elecciones internas partidarias con el triunfo de f
 Al juzgar de manera integral el alcance histórico de La detención masiva, tortura y exilio de ciudadanos, ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?
 
 ### Opciones
-- [x] A) Que La detención masiva, tortura y exilio de ciudadanos constituyó una respuesta clave que sentó las bases de el de forma estatal terrorismo de Estado de la dictadura, reconfigurando de forma duradera el orden estatal del país.
+- [x] C) Que La detención masiva, tortura y exilio de ciudadanos constituyó una respuesta clave que sentó las bases de el de forma estatal terrorismo de Estado de la dictadura, reconfigurando de forma duradera el orden estatal del país.
   <!-- feedback: Correcto. Una evaluación de largo plazo demuestra que La detención masiva, tortura y exilio de ciudadanos actuó como piedra angular para estructurar el de forma estatal terrorismo de Estado de la dictadura en el Uruguay moderno. -->
-- [ ] B) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La de forma pacífica vigencia del estado de derecho.
+- [ ] A) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La de forma pacífica vigencia del estado de derecho.
   <!-- feedback: Incorrecto. Las transformaciones republicanas, democráticas o sociales contaban con amplio arraigo e irreversibilidad, descartando el retorno a La de forma pacífica vigencia del estado de derecho. -->
-- [ ] C) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La de forma militar amnistía automática decretada.
+- [ ] B) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La de forma militar amnistía automática decretada.
   <!-- feedback: Incorrecto. Sostener que La detención masiva, tortura y exilio de ciudadanos solo sirvió para someter el país a La de forma militar amnistía automática decretada es una lectura reduccionista que ignora la dinámica interna soberana. -->
 - [ ] D) Que careció de trascendencia práctica real al tratarse de una imitación artificial de La de forma forzosa deportación de los directivos de la ARU sin ningún tipo de base social en el territorio.
   <!-- feedback: Incorrecto. A pesar de las influencias conceptuales externas, el modelo uruguayo se adaptó y respondió de forma directa a su propia base social y conflictos de época. -->
@@ -442,9 +442,9 @@ La evaluación crítica de la represión, prisión política y exilio masivo des
 Al juzgar de manera integral el alcance histórico de El acto del Obelisco 'Por un Uruguay sin exclusiones', ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?
 
 ### Opciones
-- [x] A) Que El acto del Obelisco 'Por un Uruguay sin exclusiones' constituyó una respuesta clave que sentó las bases de la de forma masiva demostración de unidad popular, reconfigurando de forma duradera el orden estatal del país.
+- [x] B) Que El acto del Obelisco 'Por un Uruguay sin exclusiones' constituyó una respuesta clave que sentó las bases de la de forma masiva demostración de unidad popular, reconfigurando de forma duradera el orden estatal del país.
   <!-- feedback: Correcto. Una evaluación de largo plazo demuestra que El acto del Obelisco 'Por un Uruguay sin exclusiones' actuó como piedra angular para estructurar la de forma masiva demostración de unidad popular en el Uruguay moderno. -->
-- [ ] B) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La militar de forma obligatoria concentración ciudadana de apoyo.
+- [ ] A) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La militar de forma obligatoria concentración ciudadana de apoyo.
   <!-- feedback: Incorrecto. Las transformaciones republicanas, democráticas o sociales contaban con amplio arraigo e irreversibilidad, descartando el retorno a La militar de forma obligatoria concentración ciudadana de apoyo. -->
 - [ ] C) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La de forma armada insurrección general convocada.
   <!-- feedback: Incorrecto. Sostener que El acto del Obelisco 'Por un Uruguay sin exclusiones' solo sirvió para someter el país a La de forma armada insurrección general convocada es una lectura reduccionista que ignora la dinámica interna soberana. -->
@@ -490,9 +490,9 @@ La evaluación crítica de la asunción democrática del 1° de marzo de 1985 de
 Al juzgar de manera integral el alcance histórico de La liberación de los presos políticos y pacificación, ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?
 
 ### Opciones
-- [x] A) Que La liberación de los presos políticos y pacificación constituyó una respuesta clave que sentó las bases de la primera de forma legal ley de pacificación democrática, reconfigurando de forma duradera el orden estatal del país.
+- [x] B) Que La liberación de los presos políticos y pacificación constituyó una respuesta clave que sentó las bases de la primera de forma legal ley de pacificación democrática, reconfigurando de forma duradera el orden estatal del país.
   <!-- feedback: Correcto. Una evaluación de largo plazo demuestra que La liberación de los presos políticos y pacificación actuó como piedra angular para estructurar la primera de forma legal ley de pacificación democrática en el Uruguay moderno. -->
-- [ ] B) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La de forma absoluta ilegalización de partidos de izquierda.
+- [ ] A) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La de forma absoluta ilegalización de partidos de izquierda.
   <!-- feedback: Incorrecto. Las transformaciones republicanas, democráticas o sociales contaban con amplio arraigo e irreversibilidad, descartando el retorno a La de forma absoluta ilegalización de partidos de izquierda. -->
 - [ ] C) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La de forma militar prórroga carcelaria para líderes tupamaros.
   <!-- feedback: Incorrecto. Sostener que La liberación de los presos políticos y pacificación solo sirvió para someter el país a La de forma militar prórroga carcelaria para líderes tupamaros es una lectura reduccionista que ignora la dinámica interna soberana. -->

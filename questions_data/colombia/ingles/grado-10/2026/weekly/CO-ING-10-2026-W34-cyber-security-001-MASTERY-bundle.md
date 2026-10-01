@@ -36,9 +36,9 @@ This bundle explores digital safety and security using B2-level grammar, focusin
 
 ### Opciones
 - [ ] A) log on <!-- feedback: To enter. -->
-- [x] B) log out of <!-- feedback: Correct. To exit or disconnect from an account. -->
-- [ ] C) set up <!-- feedback: To create. -->
-- [ ] D) back up <!-- feedback: To make a copy. -->
+- [x] D) log out of <!-- feedback: Correct. To exit or disconnect from an account. -->
+- [ ] B) set up <!-- feedback: To create. -->
+- [ ] C) back up <!-- feedback: To make a copy. -->
 
 ### Explicación Pedagógica
 'Log out of' is a common phrasal verb used for disconnecting from digital accounts.
@@ -57,8 +57,8 @@ This bundle explores digital safety and security using B2-level grammar, focusin
 
 ### Opciones
 - [ ] A) breaks out <!-- feedback: To escape. -->
-- [x] B) breaks into <!-- feedback: Correct. To enter a computer system illegally. -->
-- [ ] C) breaks up <!-- feedback: To end a relationship. -->
+- [x] C) breaks into <!-- feedback: Correct. To enter a computer system illegally. -->
+- [ ] B) breaks up <!-- feedback: To end a relationship. -->
 - [ ] D) breaks down <!-- feedback: To stop working. -->
 
 ### Explicación Pedagógica
@@ -78,8 +78,8 @@ This bundle explores digital safety and security using B2-level grammar, focusin
 
 ### Opciones
 - [ ] A) keep / up <!-- feedback: To stay informed. -->
-- [x] B) back / up <!-- feedback: Correct. To make a copy of digital information. -->
-- [ ] C) put / off <!-- feedback: To postpone. -->
+- [x] C) back / up <!-- feedback: Correct. To make a copy of digital information. -->
+- [ ] B) put / off <!-- feedback: To postpone. -->
 - [ ] D) fill / in <!-- feedback: To complete a form. -->
 
 ### Explicación Pedagógica
@@ -120,9 +120,9 @@ Using the Third Conditional to analyze past cybersecurity failures.
 
 ### Opciones
 - [ ] A) go / through <!-- feedback: To examine. -->
-- [x] B) carry / out <!-- feedback: Correct. To perform or complete a task (like installation). -->
-- [ ] C) set / off <!-- feedback: To trigger. -->
-- [ ] D) bring / about <!-- feedback: To cause to happen. -->
+- [x] D) carry / out <!-- feedback: Correct. To perform or complete a task (like installation). -->
+- [ ] B) set / off <!-- feedback: To trigger. -->
+- [ ] C) bring / about <!-- feedback: To cause to happen. -->
 
 ### Explicación Pedagógica
 'Carry out' means to execute or perform a specific task, such as installing an update.
@@ -141,8 +141,8 @@ Using the Third Conditional to analyze past cybersecurity failures.
 
 ### Opciones
 - [ ] A) will be / used <!-- feedback: Incorrect tense. -->
-- [x] B) could be / use <!-- feedback: Correct First Conditional with modal for possibility. -->
-- [ ] C) was / used <!-- feedback: Incorrect tense. -->
+- [x] C) could be / use <!-- feedback: Correct First Conditional with modal for possibility. -->
+- [ ] B) was / used <!-- feedback: Incorrect tense. -->
 - [ ] D) would be / use <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
@@ -182,8 +182,8 @@ Using the First Conditional (could be + present) to warn about potential future 
 "The IT department ____ a new firewall to ____ hackers from accessing the main server."
 
 ### Opciones
-- [ ] A) set off / let <!-- feedback: Incorrect. -->
-- [x] B) set up / keep <!-- feedback: Correct. To establish/install + to prevent. -->
+- [ ] B) set off / let <!-- feedback: Incorrect. -->
+- [x] A) set up / keep <!-- feedback: Correct. To establish/install + to prevent. -->
 - [ ] C) brought up / stop <!-- feedback: Incorrect. -->
 - [ ] D) broke down / prevent <!-- feedback: Incorrect. -->
 
@@ -204,9 +204,9 @@ Using the First Conditional (could be + present) to warn about potential future 
 
 ### Opciones
 - [ ] A) implement / would remain <!-- feedback: Incorrect. -->
-- [x] B) implement / will remain <!-- feedback: Correct First Conditional with 'unless'. -->
-- [ ] C) implemented / will remain <!-- feedback: Incorrect tense. -->
-- [ ] D) had implemented / remained <!-- feedback: Incorrect. -->
+- [x] D) implement / will remain <!-- feedback: Correct First Conditional with 'unless'. -->
+- [ ] B) implemented / will remain <!-- feedback: Incorrect tense. -->
+- [ ] C) had implemented / remained <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
 Using 'unless' in a First Conditional to describe a necessary security measure and the consequence of not having it.
@@ -224,10 +224,10 @@ Using 'unless' in a First Conditional to describe a necessary security measure a
 "Only by ____ advanced encryption ____ the military hope to protect its communication channels."
 
 ### Opciones
-- [x] A) using / can <!-- feedback: Correct inversion with 'Only by'. -->
-- [ ] B) use / will <!-- feedback: Incorrect syntax for 'Only by'. -->
-- [ ] C) using / - <!-- feedback: Missing auxiliary for inversion. -->
-- [ ] D) used / did <!-- feedback: Incorrect. -->
+- [x] D) using / can <!-- feedback: Correct inversion with 'Only by'. -->
+- [ ] A) use / will <!-- feedback: Incorrect syntax for 'Only by'. -->
+- [ ] B) using / - <!-- feedback: Missing auxiliary for inversion. -->
+- [ ] C) used / did <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
 Advanced B2 structure: Inversion after 'Only by + gerund' in a high-stakes security context.
@@ -267,8 +267,8 @@ Using 'shouldn't have' to criticize past negligent behavior in a digital context
 
 ### Opciones
 - [ ] A) was / wouldn't suffer <!-- feedback: Second conditional. -->
-- [x] B) had been / wouldn't be suffering <!-- feedback: Correct Mixed Conditional (Past action -> Present ongoing result). -->
-- [ ] C) had been / wouldn't have suffered <!-- feedback: Third conditional (Past result). -->
+- [x] C) had been / wouldn't be suffering <!-- feedback: Correct Mixed Conditional (Past action -> Present ongoing result). -->
+- [ ] B) had been / wouldn't have suffered <!-- feedback: Third conditional (Past result). -->
 - [ ] D) were / didn't suffer <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica

@@ -30,9 +30,9 @@ Bundle semanal para interpretar refranes y dichos populares de Colombia y aplica
 ### Enunciado
 La abuela dice: "Más vale pájaro en mano que cien volando". ¿Qué recomienda el refrán?
 ### Opciones
-- [x] A) Valorar lo que ya se tiene en lugar de arriesgarlo por algo inseguro.
+- [x] B) Valorar lo que ya se tiene en lugar de arriesgarlo por algo inseguro.
   <!-- feedback: Es correcta porque el pájaro en mano representa lo seguro y los cien volando lo que no se tiene. -->
-- [ ] B) Soltar el pájaro para que vuele libre.
+- [ ] A) Soltar el pájaro para que vuele libre.
   <!-- feedback: Es incorrecta porque el refrán aconseja lo contrario: no soltar lo que ya se tiene. -->
 - [ ] C) Cazar cien pájaros en un solo día.
   <!-- feedback: Es incorrecta porque el refrán no propone cazar, sino valorar lo seguro. -->
@@ -50,9 +50,9 @@ Los refranes son dichos populares que guardan una enseñanza. "Más vale pájaro
 ### Enunciado
 Su mamá le dijo: "Al mal tiempo, buena cara". ¿Qué quiso decirle con ese dicho?
 ### Opciones
-- [x] A) Que mantuviera buen ánimo aunque las cosas no salieran como quería.
+- [x] B) Que mantuviera buen ánimo aunque las cosas no salieran como quería.
   <!-- feedback: Es correcta porque el dicho invita a conservar el ánimo ante las dificultades. -->
-- [ ] B) Que debía mirar el cielo antes de salir de casa.
+- [ ] A) Que debía mirar el cielo antes de salir de casa.
   <!-- feedback: Es incorrecta porque el dicho no habla de observar el clima. -->
 - [ ] C) Que la lluvia de ese día fue la más fuerte del año.
   <!-- feedback: Es incorrecta porque el dicho no compara lluvias. -->
@@ -170,11 +170,11 @@ Analizar un refrán consiste en descubrir su enseñanza general. "Aunque la mona
 ### Enunciado
 Historia: "Lucía practicó la flauta todos los días durante tres meses y logró tocar la canción completa en el acto del colegio". ¿Cuál refrán resume mejor el final de la historia?
 ### Opciones
-- [x] A) "El que persevera, alcanza".
+- [x] C) "El que persevera, alcanza".
   <!-- feedback: Es correcta porque la constancia diaria llevó a Lucía a lograr su meta. -->
-- [ ] B) "Ojos que no ven, corazón que no siente".
+- [ ] A) "Ojos que no ven, corazón que no siente".
   <!-- feedback: Es incorrecta porque el cuento habla de esfuerzo, no de ignorar algo. -->
-- [ ] C) "No por mucho madrugar amanece más temprano".
+- [ ] B) "No por mucho madrugar amanece más temprano".
   <!-- feedback: Es incorrecta porque la historia sí muestra un resultado gracias a la constancia. -->
 - [ ] D) "En casa del herrero, cuchillo de palo".
   <!-- feedback: Es incorrecta porque ese refrán habla de lo que falta donde debería sobrar. -->

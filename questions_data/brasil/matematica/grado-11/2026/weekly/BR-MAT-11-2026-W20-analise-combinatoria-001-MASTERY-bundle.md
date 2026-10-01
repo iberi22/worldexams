@@ -30,8 +30,8 @@ creador: "Jules-Agent"
 O que afirma o princípio fundamental da contagem?
 
 ### Opciones
-- [x] A) Se uma decisão tem m opções e outra tem n opções, o total de combinações é m × n <!-- feedback: Correto: o princípio multiplicativo combina as escolhas por multiplicação. -->
-- [ ] B) Se uma decisão tem m opções e outra tem n opções, o total é m + n <!-- feedback: Incorreto: a adição só se aplica a casos mutuamente exclusivos. -->
+- [x] B) Se uma decisão tem m opções e outra tem n opções, o total de combinações é m × n <!-- feedback: Correto: o princípio multiplicativo combina as escolhas por multiplicação. -->
+- [ ] A) Se uma decisão tem m opções e outra tem n opções, o total é m + n <!-- feedback: Incorreto: a adição só se aplica a casos mutuamente exclusivos. -->
 - [ ] C) O total de combinações é sempre m^n <!-- feedback: Incorreto: potência aparece apenas em casos específicos com repetição. -->
 - [ ] D) O total de combinações é a diferença entre m e n <!-- feedback: Incorreto: a subtração não representa a combinação de escolhas. -->
 
@@ -68,10 +68,10 @@ A combinação simples, usada quando a ordem não importa, é C(n, p) = n! / (p!
 Quando a ordem dos elementos importa, qual técnica de contagem deve ser usada?
 
 ### Opciones
-- [x] A) Arranjo ou permutação <!-- feedback: Correto: quando a ordem altera o resultado, usam-se arranjo ou permutação. -->
-- [ ] B) Combinação <!-- feedback: Incorreto: a combinação é usada quando a ordem não importa. -->
-- [ ] C) Amplitude <!-- feedback: Incorreto: amplitude é um conceito da estatística, não de contagem. -->
-- [ ] D) Média ponderada <!-- feedback: Incorreto: média ponderada não é uma técnica de contagem. -->
+- [x] D) Arranjo ou permutação <!-- feedback: Correto: quando a ordem altera o resultado, usam-se arranjo ou permutação. -->
+- [ ] A) Combinação <!-- feedback: Incorreto: a combinação é usada quando a ordem não importa. -->
+- [ ] B) Amplitude <!-- feedback: Incorreto: amplitude é um conceito da estatística, não de contagem. -->
+- [ ] C) Média ponderada <!-- feedback: Incorreto: média ponderada não é uma técnica de contagem. -->
 
 ### Explicacion Pedagogica
 Arranjos e permutações consideram a ordem dos elementos, enquanto combinações a ignoram. A escolha entre elas depende de a ordem alterar ou não o resultado.
@@ -87,8 +87,8 @@ Arranjos e permutações consideram a ordem dos elementos, enquanto combinaçõe
 Quanto vale 5! (cinco fatorial)?
 
 ### Opciones
-- [ ] A) 25 <!-- feedback: Incorreto: 25 é o quadrado de 5, não o fatorial. -->
-- [x] B) 120 <!-- feedback: Correto: 5! = 5 × 4 × 3 × 2 × 1 = 120. -->
+- [ ] B) 25 <!-- feedback: Incorreto: 25 é o quadrado de 5, não o fatorial. -->
+- [x] A) 120 <!-- feedback: Correto: 5! = 5 × 4 × 3 × 2 × 1 = 120. -->
 - [ ] C) 15 <!-- feedback: Incorreto: 15 é a soma 5 + 4 + 3 + 2 + 1, não o produto. -->
 - [ ] D) 60 <!-- feedback: Incorreto: 60 seria o produto 5 × 4 × 3, ignorando os fatores 2 e 1. -->
 
@@ -107,9 +107,9 @@ Uma loja tem 3 modelos de camisa e 4 modelos de calça. De quantas maneiras dife
 
 ### Opciones
 - [ ] A) 7 <!-- feedback: Incorreto: 7 seria a soma 3 + 4, mas as escolhas são combinadas por multiplicação. -->
-- [x] B) 12 <!-- feedback: Correto: pelo princípio multiplicativo, 3 × 4 = 12. -->
-- [ ] C) 9 <!-- feedback: Incorreto: 9 seria 3 × 3, ignorando os 4 modelos de calça. -->
-- [ ] D) 34 <!-- feedback: Incorreto: 34 não corresponde a nenhuma operação entre 3 e 4. -->
+- [x] D) 12 <!-- feedback: Correto: pelo princípio multiplicativo, 3 × 4 = 12. -->
+- [ ] B) 9 <!-- feedback: Incorreto: 9 seria 3 × 3, ignorando os 4 modelos de calça. -->
+- [ ] C) 34 <!-- feedback: Incorreto: 34 não corresponde a nenhuma operação entre 3 e 4. -->
 
 ### Explicacion Pedagogica
 Cada uma das 3 camisas pode ser combinada com cada uma das 4 calças: 3 × 4 = 12 combinações.
@@ -145,8 +145,8 @@ De quantas maneiras 4 livros distintos podem ser organizados em uma prateleira?
 
 ### Opciones
 - [ ] A) 16 <!-- feedback: Incorreto: 16 seria 4², o que valeria se cada posição aceitasse repetição. -->
-- [x] B) 24 <!-- feedback: Correto: trata-se de uma permutação: 4! = 24. -->
-- [ ] C) 12 <!-- feedback: Incorreto: 12 seria 4 × 3, ignorando as demais posições. -->
+- [x] C) 24 <!-- feedback: Correto: trata-se de uma permutação: 4! = 24. -->
+- [ ] B) 12 <!-- feedback: Incorreto: 12 seria 4 × 3, ignorando as demais posições. -->
 - [ ] D) 8 <!-- feedback: Incorreto: 8 seria 4 × 2, sem correspondência com a permutação. -->
 
 ### Explicacion Pedagogica
@@ -182,8 +182,8 @@ Como a ordem dos dois integrantes não importa, usa-se combinação: C(6,2) = (6
 De quantas maneiras 2 atletas podem ocupar o 1º e o 2º lugar em uma prova com 5 participantes?
 
 ### Opciones
-- [ ] A) 10 <!-- feedback: Incorreto: 10 seria a combinação C(5,2), que ignora a ordem dos lugares. -->
-- [x] B) 20 <!-- feedback: Correto: o 1º lugar tem 5 opções e o 2º tem 4: 5 × 4 = 20. -->
+- [ ] B) 10 <!-- feedback: Incorreto: 10 seria a combinação C(5,2), que ignora a ordem dos lugares. -->
+- [x] A) 20 <!-- feedback: Correto: o 1º lugar tem 5 opções e o 2º tem 4: 5 × 4 = 20. -->
 - [ ] C) 25 <!-- feedback: Incorreto: 25 seria 5², permitindo que o mesmo atleta ocupe as duas posições. -->
 - [ ] D) 15 <!-- feedback: Incorreto: 15 seria C(5,2) × 3, sem fundamento no problema. -->
 
@@ -239,9 +239,9 @@ A ordem dos integrantes da comissão não importa: C(8,3) = 8!/(3!·5!) = 56.
 Quantas placas distintas podem ser formadas com 3 letras (26 do alfabeto) e 4 algarismos (0 a 9), admitindo repetição?
 
 ### Opciones
-- [x] A) 26³ × 10⁴ <!-- feedback: Correto: cada letra tem 26 opções e cada algarismo 10, com repetição permitida. -->
-- [ ] B) 26 × 10 <!-- feedback: Incorreto: 26 × 10 consideraria apenas uma letra e um algarismo. -->
-- [ ] C) 26³ + 10⁴ <!-- feedback: Incorreto: as escolhas são simultâneas e se combinam por multiplicação. -->
+- [x] C) 26³ × 10⁴ <!-- feedback: Correto: cada letra tem 26 opções e cada algarismo 10, com repetição permitida. -->
+- [ ] A) 26 × 10 <!-- feedback: Incorreto: 26 × 10 consideraria apenas uma letra e um algarismo. -->
+- [ ] B) 26³ + 10⁴ <!-- feedback: Incorreto: as escolhas são simultâneas e se combinam por multiplicação. -->
 - [ ] D) 26 × 3 + 10 × 4 <!-- feedback: Incorreto: somar quantidades de posições não conta combinações. -->
 
 ### Explicacion Pedagogica
@@ -259,8 +259,8 @@ Quantos anagramas distintos podem ser formados com as letras da palavra AMOR?
 
 ### Opciones
 - [ ] A) 16 <!-- feedback: Incorreto: 16 seria 4², tratando as posições como independentes com repetição. -->
-- [x] B) 24 <!-- feedback: Correto: as 4 letras são distintas, então o número é 4! = 24. -->
-- [ ] C) 12 <!-- feedback: Incorreto: 12 seria 4 × 3, contando apenas duas posições. -->
+- [x] C) 24 <!-- feedback: Correto: as 4 letras são distintas, então o número é 4! = 24. -->
+- [ ] B) 12 <!-- feedback: Incorreto: 12 seria 4 × 3, contando apenas duas posições. -->
 - [ ] D) 8 <!-- feedback: Incorreto: 8 não corresponde à permutação de 4 letras distintas. -->
 
 ### Explicacion Pedagogica
@@ -278,8 +278,8 @@ De quantas maneiras pode ser formada uma comissão de 3 pessoas a partir de 5 ho
 
 ### Opciones
 - [ ] A) 84 <!-- feedback: Incorreto: 84 é o total de comissões de 3 entre as 9 pessoas, sem restrição. -->
-- [x] B) 74 <!-- feedback: Correto: total (C(9,3)=84) menos as comissões só de homens (C(5,3)=10): 84 − 10 = 74. -->
-- [ ] C) 60 <!-- feedback: Incorreto: 60 resultaria de combinar C(4,2) × C(5,1) com o caso de exatamente 2 mulheres apenas. -->
+- [x] C) 74 <!-- feedback: Correto: total (C(9,3)=84) menos as comissões só de homens (C(5,3)=10): 84 − 10 = 74. -->
+- [ ] B) 60 <!-- feedback: Incorreto: 60 resultaria de combinar C(4,2) × C(5,1) com o caso de exatamente 2 mulheres apenas. -->
 - [ ] D) 50 <!-- feedback: Incorreto: 50 não corresponde ao cálculo de complemento das comissões sem mulheres. -->
 
 ### Explicacion Pedagogica
@@ -296,8 +296,8 @@ Do total de comissões, subtraem-se as formadas apenas por homens: C(9,3) − C(
 Quantos anagramas distintos podem ser formados com as letras da palavra BANANA?
 
 ### Opciones
-- [ ] A) 120 <!-- feedback: Incorreto: 120 seria 6! ÷ 6, descontando apenas uma repetição. -->
-- [x] B) 60 <!-- feedback: Correto: 6!/(3!·2!) = 720/12 = 60. -->
+- [ ] B) 120 <!-- feedback: Incorreto: 120 seria 6! ÷ 6, descontando apenas uma repetição. -->
+- [x] A) 60 <!-- feedback: Correto: 6!/(3!·2!) = 720/12 = 60. -->
 - [ ] C) 30 <!-- feedback: Incorreto: 30 seria 720/24, descontando repetições em excesso. -->
 - [ ] D) 720 <!-- feedback: Incorreto: 720 é 6!, contando os anagramas como se todas as letras fossem distintas. -->
 
@@ -316,9 +316,9 @@ Em um campeonato com 8 times, todos se enfrentam uma única vez. Quantos jogos s
 
 ### Opciones
 - [ ] A) 56 <!-- feedback: Incorreto: 56 seria o número de jogos em dois turnos (8 × 7). -->
-- [x] B) 28 <!-- feedback: Correto: cada jogo é uma dupla de times: C(8,2) = (8 × 7)/2 = 28. -->
-- [ ] C) 16 <!-- feedback: Incorreto: 16 seria 8 × 2, sem relação com o confronto entre todos os pares. -->
-- [ ] D) 64 <!-- feedback: Incorreto: 64 seria 8², contando pares ordenados com repetição. -->
+- [x] D) 28 <!-- feedback: Correto: cada jogo é uma dupla de times: C(8,2) = (8 × 7)/2 = 28. -->
+- [ ] B) 16 <!-- feedback: Incorreto: 16 seria 8 × 2, sem relação com o confronto entre todos os pares. -->
+- [ ] C) 64 <!-- feedback: Incorreto: 64 seria 8², contando pares ordenados com repetição. -->
 
 ### Explicacion Pedagogica
 Cada jogo corresponde a uma dupla de times, sem ordem: C(8,2) = 28 jogos.
@@ -334,8 +334,8 @@ Cada jogo corresponde a uma dupla de times, sem ordem: C(8,2) = 28 jogos.
 De quantas maneiras pode ser formada uma comissão de 3 pessoas com exatamente 2 mulheres, escolhendo entre 5 homens e 4 mulheres?
 
 ### Opciones
-- [x] A) 30 <!-- feedback: Correto: C(4,2) × C(5,1) = 6 × 5 = 30. -->
-- [ ] B) 34 <!-- feedback: Incorreto: 34 incluiria também a comissão com 3 mulheres (C(4,3) = 4). -->
+- [x] B) 30 <!-- feedback: Correto: C(4,2) × C(5,1) = 6 × 5 = 30. -->
+- [ ] A) 34 <!-- feedback: Incorreto: 34 incluiria também a comissão com 3 mulheres (C(4,3) = 4). -->
 - [ ] C) 60 <!-- feedback: Incorreto: 60 seria C(4,2) × C(5,2), usando um homem a mais. -->
 - [ ] D) 20 <!-- feedback: Incorreto: 20 seria C(4,2) × C(5,1) com um dos fatores calculado errado. -->
 
@@ -373,9 +373,9 @@ Quantos anagramas da palavra BRASIL têm as vogais A e I sempre juntas, nessa or
 
 ### Opciones
 - [ ] A) 720 <!-- feedback: Incorreto: 720 é o total de anagramas sem restrição (6!). -->
-- [x] B) 240 <!-- feedback: Correto: o bloco (AI) com as 4 consoantes forma 5 itens: 5! × 2! = 120 × 2 = 240. -->
-- [ ] C) 120 <!-- feedback: Incorreto: 120 consideraria as vogais em ordem fixa, sem o fator 2!. -->
-- [ ] D) 360 <!-- feedback: Incorreto: 360 seria 6!/2, tratando as vogais como se fossem iguais entre si. -->
+- [x] D) 240 <!-- feedback: Correto: o bloco (AI) com as 4 consoantes forma 5 itens: 5! × 2! = 120 × 2 = 240. -->
+- [ ] B) 120 <!-- feedback: Incorreto: 120 consideraria as vogais em ordem fixa, sem o fator 2!. -->
+- [ ] C) 360 <!-- feedback: Incorreto: 360 seria 6!/2, tratando as vogais como se fossem iguais entre si. -->
 
 ### Explicacion Pedagogica
 Tratando (AI) como um bloco, há 5 itens a permutar (bloco + 4 consoantes): 5! = 120. Como A e I podem trocar de posição dentro do bloco (2 ordens), o total é 120 × 2 = 240.
@@ -391,8 +391,8 @@ Tratando (AI) como um bloco, há 5 itens a permutar (bloco + 4 consoantes): 5! =
 De quantas maneiras 12 jogadores podem ser divididos em 3 times de 4 jogadores, sem distinguir a ordem dos times?
 
 ### Opciones
-- [x] A) 5775 <!-- feedback: Correto: C(12,4) × C(8,4) × C(4,4) / 3! = (495 × 70 × 1)/6 = 5775. -->
-- [ ] B) 34650 <!-- feedback: Incorreto: 34650 é o cálculo sem dividir pelas 3! ordenações dos times. -->
+- [x] B) 5775 <!-- feedback: Correto: C(12,4) × C(8,4) × C(4,4) / 3! = (495 × 70 × 1)/6 = 5775. -->
+- [ ] A) 34650 <!-- feedback: Incorreto: 34650 é o cálculo sem dividir pelas 3! ordenações dos times. -->
 - [ ] C) 11550 <!-- feedback: Incorreto: 11550 seria o resultado dividindo apenas por 3, não por 3!. -->
 - [ ] D) 495 <!-- feedback: Incorreto: 495 é apenas C(12,4), a escolha do primeiro time. -->
 

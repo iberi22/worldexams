@@ -35,9 +35,9 @@ bundle_index: 1
 
 ### Opciones
 - [ ] A) Falacia de apelación a la ignorancia (ad ignorantiam). <!-- feedback: Incorrecto. Esta falacia sostiene que algo es verdadero solo porque no se ha demostrado que sea falso. -->
-- [x] B) Falacia de ataque personal (ad hominem) <!-- feedback: ¡Correcto! La falacia ad hominem descalifica la propuesta del oponente (el plan de reciclaje) atacando un aspecto de su vida privada (el divorcio), que carece de relación lógica con el tema de la gestión de residuos. -->
-- [ ] C) Falacia de apelación al pueblo (ad populum). <!-- feedback: Incorrecto. Esta falacia defiende una idea argumentando que la mayoría de la gente la apoya, ausente en este ataque privado. -->
-- [ ] D) Falacia de la causa falsa (post hoc, ergo propter hoc). <!-- feedback: Incorrecto. Establece de forma errónea que un evento anterior causó de forma obligatoria un evento posterior. -->
+- [x] D) Falacia de ataque personal (ad hominem) <!-- feedback: ¡Correcto! La falacia ad hominem descalifica la propuesta del oponente (el plan de reciclaje) atacando un aspecto de su vida privada (el divorcio), que carece de relación lógica con el tema de la gestión de residuos. -->
+- [ ] B) Falacia de apelación al pueblo (ad populum). <!-- feedback: Incorrecto. Esta falacia defiende una idea argumentando que la mayoría de la gente la apoya, ausente en este ataque privado. -->
+- [ ] C) Falacia de la causa falsa (post hoc, ergo propter hoc). <!-- feedback: Incorrecto. Establece de forma errónea que un evento anterior causó de forma obligatoria un evento posterior. -->
 
 ### Explicacion Pedagogica
 La falacia *ad hominem* (ataque al hombre) consiste en atacar a la persona que formula un argumento en lugar de refutar la validez lógica del argumento o propuesta en sí. En el panfleto de San Juan, el estado civil del oponente es totalmente irrelevante para evaluar la viabilidad técnica de su plan ecológico.
@@ -76,8 +76,8 @@ La falacia *ad populum* (apelación al pueblo) busca convencer al receptor apela
 ¿Qué debilidad argumental o falacia de distorsión extrema (hombre de paja) se comete en el enunciado anterior en relación con la postura de la secretaria?
 
 ### Opciones
-- [ ] A) Falacia de apelación a la ignorancia de Carolina. <!-- feedback: Incorrecto. No se argumenta sobre la falta de pruebas o ignorancia del público sobre el idioma. -->
-- [x] B) Falacia del hombre de paja (distorsión de la postura del oponente) <!-- feedback: ¡Correcto! Se caricaturiza, simplifica de manera absurda y distorsiona de forma extrema la propuesta razonable de la secretaria (enseñar inglés o idiomas) para presentarla como un odio incondicional al español de Puerto Rico, facilitando un ataque fácil e injusto. -->
+- [ ] B) Falacia de apelación a la ignorancia de Carolina. <!-- feedback: Incorrecto. No se argumenta sobre la falta de pruebas o ignorancia del público sobre el idioma. -->
+- [x] A) Falacia del hombre de paja (distorsión de la postura del oponente) <!-- feedback: ¡Correcto! Se caricaturiza, simplifica de manera absurda y distorsiona de forma extrema la propuesta razonable de la secretaria (enseñar inglés o idiomas) para presentarla como un odio incondicional al español de Puerto Rico, facilitando un ataque fácil e injusto. -->
 - [ ] C) Falacia del equívoco semántico de mampostería. <!-- feedback: Incorrecto. No hay confusión o uso doble de palabras con significados homófonos o equívocos de Ponce. -->
 - [ ] D) Falacia de ataque personal circunstancial ad hominem directo. <!-- feedback: Incorrecto. No se ataca su moral privada o biografía de la secretaria; se distorsiona de forma extrema su propuesta educativa para atacarla (hombre de paja). -->
 
@@ -97,9 +97,9 @@ La falacia del hombre de paja consiste en distorsionar, exagerar o caricaturizar
 ¿Cuál es la falacia lógica de exclusión que reduce de forma capciosa las alternativas de solución energética a dos extremos irreconciliables?
 
 ### Opciones
-- [x] A) Falacia del falso dilema (falsa dicotomía) <!-- feedback: ¡Correcto! La falacia del falso dilema obliga de forma artificial a elegir entre dos únicas opciones de carácter extremo (energía solar exprés versus corrupción fósil), ocultando de forma maliciosa alternativas intermedias sensatas como transiciones ordenadas o híbridas. -->
-- [ ] B) Falacia de la pendiente resbaladiza de Carolina. <!-- feedback: Incorrecto. No plantea una cadena causal exagerada de desastres extremos; obliga a elegir de forma restrictiva entre dos polos. -->
-- [ ] C) Falacia de apelación a la fuerza o temor (ad baculum). <!-- feedback: Incorrecto. No se ejerce un castigo físico directo o amenaza de violencia para imponer la compra del panel solar. -->
+- [x] C) Falacia del falso dilema (falsa dicotomía) <!-- feedback: ¡Correcto! La falacia del falso dilema obliga de forma artificial a elegir entre dos únicas opciones de carácter extremo (energía solar exprés versus corrupción fósil), ocultando de forma maliciosa alternativas intermedias sensatas como transiciones ordenadas o híbridas. -->
+- [ ] A) Falacia de la pendiente resbaladiza de Carolina. <!-- feedback: Incorrecto. No plantea una cadena causal exagerada de desastres extremos; obliga a elegir de forma restrictiva entre dos polos. -->
+- [ ] B) Falacia de apelación a la fuerza o temor (ad baculum). <!-- feedback: Incorrecto. No se ejerce un castigo físico directo o amenaza de violencia para imponer la compra del panel solar. -->
 - [ ] D) Falacia de la causa común de los huracanes de la isla. <!-- feedback: Incorrecto. No se reduce de manera errónea dos efectos paralelos a una sola causa común atmosférica de la costa. -->
 
 ### Explicacion Pedagogica
@@ -118,8 +118,8 @@ La falacia del falso dilema o falsa dicotomía restringe de manera capciosa el c
 ¿Cuál es el sesgo de interés (sesgo de confirmación por conflicto de interés) que debilita el valor científico y la objetividad de la propuesta de ley basada en ese estudio?
 
 ### Opciones
-- [ ] A) El sesgo de la representatividad geográfica de la muestra de Ponce. <!-- feedback: Incorrecto. El problema no reside en las calles de Ponce analizadas, sino en la procedencia interesada de los fondos de la investigación. -->
-- [x] B) Conflicto de interés y sesgo de la fuente comercial interesada <!-- feedback: ¡Correcto! El estudio es financiado y publicado por la propia marca de llantas que se beneficiaría comercialmente si el gobierno aprueba la ley que obliga a comprarlas, invalidando el rigor ético y de imparcialidad científica de la argumentación. -->
+- [ ] B) El sesgo de la representatividad geográfica de la muestra de Ponce. <!-- feedback: Incorrecto. El problema no reside en las calles de Ponce analizadas, sino en la procedencia interesada de los fondos de la investigación. -->
+- [x] A) Conflicto de interés y sesgo de la fuente comercial interesada <!-- feedback: ¡Correcto! El estudio es financiado y publicado por la propia marca de llantas que se beneficiaría comercialmente si el gobierno aprueba la ley que obliga a comprarlas, invalidando el rigor ético y de imparcialidad científica de la argumentación. -->
 - [ ] C) El sesgo del observador pasivo del muelle de San Juan de la isla. <!-- feedback: Incorrecto. No se trata de un sesgo del observador desinteresado; hay un claro motor financiero comercial que guía el informe. -->
 - [ ] D) La falacia ad hominem de descalificación de los guardabosques del Yunque. <!-- feedback: Incorrecto. El texto no ataca personalmente a nadie de El Yunque ni a científicos; asume un estudio comercial interesado como verdad absoluta de ley. -->
 
@@ -161,8 +161,8 @@ La falacia *ad verecundiam* o apelación a la falsa autoridad se comete al trans
 
 ### Opciones
 - [ ] A) Falacia del falso dilema de la marea de Cabo Rojo. <!-- feedback: Incorrecto. El fragmento no obliga a elegir de forma restrictiva entre dos polos; describe un encadenamiento catastrófico futuro. -->
-- [x] B) Falacia de la pendiente resbaladiza (cadena de catástrofes sin pruebas) <!-- feedback: ¡Correcto! El proponente sostiene que un cambio menor inicial (privatizar una sola cuerda) desencadenará de forma inevitable y sin aportar justificaciones o pruebas legales intermedias una catástrofe total (el cierre absoluto de todas las playas de Puerto Rico). -->
-- [ ] C) Falacia ad hominem de descalificación de los hoteleros de Ponce. <!-- feedback: Incorrecto. No ataca la vida privada de los hoteleros; plantea una exageración de causas y efectos. -->
+- [x] C) Falacia de la pendiente resbaladiza (cadena de catástrofes sin pruebas) <!-- feedback: ¡Correcto! El proponente sostiene que un cambio menor inicial (privatizar una sola cuerda) desencadenará de forma inevitable y sin aportar justificaciones o pruebas legales intermedias una catástrofe total (el cierre absoluto de todas las playas de Puerto Rico). -->
+- [ ] B) Falacia ad hominem de descalificación de los hoteleros de Ponce. <!-- feedback: Incorrecto. No ataca la vida privada de los hoteleros; plantea una exageración de causas y efectos. -->
 - [ ] D) Apelación falaz a la ignorancia de la ley de aduanas de la isla. <!-- feedback: Incorrecto. No se basa en la falta de información de aduanas, sino en la exageración de consecuencias futuras. -->
 
 ### Explicacion Pedagogica
@@ -181,8 +181,8 @@ La pendiente resbaladiza es una falacia de orden causal. El emisor asume con fin
 ¿Qué tipo de falacia de desviación de atención o de conclusión irrelevante (ignoratio elenchi) comete el detractor en su argumentación sobre la oratoria?
 
 ### Opciones
-- [ ] A) Falacia ad populum de popularidad de las redes sociales. <!-- feedback: Incorrecto. No apela al voto popular del público de Carolina en su discurso de oratoria. -->
-- [x] B) Falacia de conclusión irrelevante o evasión (ignoratio elenchi) de la materia útil <!-- feedback: ¡Correcto! El detractor evade juzgar la utilidad real de la oratoria escolar en la actualidad (grado 11) desviando de forma absurda la atención hacia el trágico destino personal e histórico de Cicerón en la antigua Roma, que carece de relación lógica con el beneficio de aprender oratoria en las aulas. -->
+- [ ] B) Falacia ad populum de popularidad de las redes sociales. <!-- feedback: Incorrecto. No apela al voto popular del público de Carolina en su discurso de oratoria. -->
+- [x] A) Falacia de conclusión irrelevante o evasión (ignoratio elenchi) de la materia útil <!-- feedback: ¡Correcto! El detractor evade juzgar la utilidad real de la oratoria escolar en la actualidad (grado 11) desviando de forma absurda la atención hacia el trágico destino personal e histórico de Cicerón en la antigua Roma, que carece de relación lógica con el beneficio de aprender oratoria en las aulas. -->
 - [ ] C) Falacia de la pendiente resbaladiza de la escuela de Caguas. <!-- feedback: Incorrecto. No describe una reacción de causas en cadena desastrosa de Caguas de la isla. -->
 - [ ] D) Falacia de petición de principio del idioma español de gratis. <!-- feedback: Incorrecto. No repite la tesis de forma idéntica en la premisa e incluye el solecismo prohibido de gratis. -->
 
@@ -246,8 +246,8 @@ El análisis crítico del discurso publicitario desmantela las falsas promesas d
 ### Opciones
 - [ ] A) Falacia de la pendiente resbaladiza de Cabo Rojo. <!-- feedback: Incorrecto. No describe una cadena causal progresiva; simplifica de golpe y ridiculiza la petición de los alumnos. -->
 - [ ] B) Apelación falaz a la ignorancia de las leyes escolares de Ponce de gratis. <!-- feedback: Incorrecto. No se basa en la falta de pruebas; asienta el "de gratis" como solecismo y desvía la argumentación. -->
-- [x] C) Falacia del hombre de paja (caricaturizar la propuesta para atacarla con mayor facilidad) <!-- feedback: ¡Correcto! El defensor de los uniformes escolares caricaturiza de manera absurda la demanda sensata de libertad estética de los alumnos equiparándola con "venir descalzos o rotos", creando un muñeco de paja fácil de golpear para evitar el debate serio. -->
-- [ ] D) Falacia ad hominem contra los directores de distrito de Carolina de la isla. <!-- feedback: Incorrecto. No ataca la vida personal o biografía de los directores de Carolina en el pasaje de San Juan. -->
+- [x] D) Falacia del hombre de paja (caricaturizar la propuesta para atacarla con mayor facilidad) <!-- feedback: ¡Correcto! El defensor de los uniformes escolares caricaturiza de manera absurda la demanda sensata de libertad estética de los alumnos equiparándola con "venir descalzos o rotos", creando un muñeco de paja fácil de golpear para evitar el debate serio. -->
+- [ ] C) Falacia ad hominem contra los directores de distrito de Carolina de la isla. <!-- feedback: Incorrecto. No ataca la vida personal o biografía de los directores de Carolina en el pasaje de San Juan. -->
 
 ### Explicacion Pedagogica
 La falacia del hombre de paja es un recurso deshonesto muy común en los debates públicos. En lugar de refutar los argumentos serios a favor de la libertad de vestimenta del alumno, el detractor inventa una versión extrema, ridícula e insostenible del reclamo para asustar al público y dar por ganada la discusión.
@@ -308,8 +308,8 @@ La falacia *ad hominem* circunstancial o *tu quoque* (tú también) busca invali
 
 ### Opciones
 - [ ] A) Sesgo de anclaje de Ponce. <!-- feedback: Incorrecto. El sesgo de anclaje consiste en depender de forma excesiva de la primera información recibida al tomar decisiones de precios o cifras, ausente aquí. -->
-- [x] B) Sesgo de confirmación (tendencia a buscar, interpretar y valorar de forma desmedida solo los datos que confirman las creencias previas) <!-- feedback: ¡Correcto! El sesgo de confirmación lleva a las personas a ignorar selectivamente los datos discrepantes con su postura e idealizar los datos concordantes, impidiendo el pensamiento crítico y la coherencia del análisis científico. -->
-- [ ] C) Sesgo del halo del Viejo San Juan de gratis. <!-- feedback: Incorrecto. El efecto halo transfiere de forma errónea una característica positiva general a rasgos específicos de un individuo; además introduce el solecismo prohibido de gratis. -->
+- [x] C) Sesgo de confirmación (tendencia a buscar, interpretar y valorar de forma desmedida solo los datos que confirman las creencias previas) <!-- feedback: ¡Correcto! El sesgo de confirmación lleva a las personas a ignorar selectivamente los datos discrepantes con su postura e idealizar los datos concordantes, impidiendo el pensamiento crítico y la coherencia del análisis científico. -->
+- [ ] B) Sesgo del halo del Viejo San Juan de gratis. <!-- feedback: Incorrecto. El efecto halo transfiere de forma errónea una característica positiva general a rasgos específicos de un individuo; además introduce el solecismo prohibido de gratis. -->
 - [ ] D) Sesgo de representatividad estadística del huracán de Cabo Rojo. <!-- feedback: Incorrecto. No guarda relación con la evaluación empírica de probabilidades de tormentas tropicales de Cabo Rojo de la isla. -->
 
 ### Explicacion Pedagogica
@@ -328,8 +328,8 @@ El sesgo de confirmación es uno de los obstáculos más graves para el desarrol
 ¿Qué tipo de recurso persuasivo y falacia de asociación (causa falsa o falsa equivalencia) emplea la propaganda para vender la cerveza?
 
 ### Opciones
-- [x] A) Falsa equivalencia y asociación ilusoria entre el consumo de una bebida alcohólica nociva y la consecución del éxito social y afectivo. <!-- feedback: ¡Correcto! La propaganda comercial asocia de manera espuria e ilusoria un producto químico adictivo (cerveza) con valores ideales abstractos altamente deseables (amor, éxito, pertenencia de grupo en la playa), silenciando con mala fe las consecuencias médicas del vicio. -->
-- [ ] B) Una falacia ad hominem de descalificación de los guardabosques de El Yunque. <!-- feedback: Incorrecto. La propaganda no agrede a los científicos o ecologistas; asocia de manera feliz el alcohol con el romance costero. -->
+- [x] B) Falsa equivalencia y asociación ilusoria entre el consumo de una bebida alcohólica nociva y la consecución del éxito social y afectivo. <!-- feedback: ¡Correcto! La propaganda comercial asocia de manera espuria e ilusoria un producto químico adictivo (cerveza) con valores ideales abstractos altamente deseables (amor, éxito, pertenencia de grupo en la playa), silenciando con mala fe las consecuencias médicas del vicio. -->
+- [ ] A) Una falacia ad hominem de descalificación de los guardabosques de El Yunque. <!-- feedback: Incorrecto. La propaganda no agrede a los científicos o ecologistas; asocia de manera feliz el alcohol con el romance costero. -->
 - [ ] C) Un sesgo de anclaje de precios de los paradores de Caguas de la isla. <!-- feedback: Incorrecto. No se debaten las tarifas o márgenes financieros hoteleros de Caguas de la isla en este pasaje. -->
 - [ ] D) Apelación falaz a la ignorancia de las leyes de tránsito del DRNA. <!-- feedback: Incorrecto. No se argumenta sobre la falta de pruebas de tránsito, sino sobre la asociación de felicidad y cerveza. -->
 
@@ -350,8 +350,8 @@ La deconstrucción del discurso de mercadeo devela cómo opera la manipulación 
 
 ### Opciones
 - [ ] A) Falacia de la causa falsa o post hoc ergo propter hoc de Ponce. <!-- feedback: Incorrecto. No asume una relación cronológica de eventos pasados de Ponce; describe una profecía desastrosa del futuro de la isla. -->
-- [x] B) Falacia de la pendiente resbaladiza (asumir consecuencias extremas desastrosas sin aportar justificaciones o pruebas empíricas del nexo) <!-- feedback: ¡Correcto! El autor de la columna asume que un recorte presupuestario (un hecho grave) conducirá de forma matemática e inevitable, en una cadena de catástrofes extremas de dos años, a la "destrucción total de la educación superior en la isla", ignorando amortiguaciones institucionales intermedias. -->
-- [ ] C) Falacia ad hominem de descalificación de los profesores de Bayamón. <!-- feedback: Incorrecto. No se ataca personalmente a los educadores de Bayamón; se asume una exageración causal extrema de ruina universitaria. -->
+- [x] C) Falacia de la pendiente resbaladiza (asumir consecuencias extremas desastrosas sin aportar justificaciones o pruebas empíricas del nexo) <!-- feedback: ¡Correcto! El autor de la columna asume que un recorte presupuestario (un hecho grave) conducirá de forma matemática e inevitable, en una cadena de catástrofes extremas de dos años, a la "destrucción total de la educación superior en la isla", ignorando amortiguaciones institucionales intermedias. -->
+- [ ] B) Falacia ad hominem de descalificación de los profesores de Bayamón. <!-- feedback: Incorrecto. No se ataca personalmente a los educadores de Bayamón; se asume una exageración causal extrema de ruina universitaria. -->
 - [ ] D) Apelación falaz al pueblo ad populum basada en encuestas de Carolina de gratis. <!-- feedback: Incorrecto. No se apoya en encuestas populares masivas de Carolina e introduce el solecismo prohibido de gratis. -->
 
 ### Explicacion Pedagogica
@@ -370,9 +370,9 @@ La pendiente resbaladiza es una falacia común en el periodismo y los discursos 
 Desde una perspectiva del análisis crítico del discurso, ¿qué estrategias falaces y desvíos ideológicos complementarios emplea la corporación para evadir la fiscalización ambiental de sus cenizas de carbón en el sur de la isla?
 
 ### Opciones
-- [ ] A) Apelar a la piedad (ad misericordiam) de los cangrejos de Cabo Rojo de gratis. <!-- feedback: Incorrecto. La empresa no da muestras de lástima ni de discursos de piedad, e introduce el solecismo "de gratis". -->
-- [ ] B) Utilizar estadísticas de agrimensura y mapas geográficos de Vieques. <!-- feedback: Incorrecto. No se presentan mapas de Vieques ni planos catastrales en esta defensa de la quema de carbón en Guayama. -->
-- [x] C) Falsa analogía (comparar la ceniza tóxica con la arena inofensiva) y falacia ad hominem (descalificar las denuncias médicas tachando a los científicos de extremistas políticos enemigos del progreso). <!-- feedback: ¡Correcto! La empresa opera con dos desvíos ideológicos graves: equipara falsamente un residuo industrial cargado de metales pesados con la arena limpia de la playa (falsa analogía), y descalifica de forma tramposa las alertas de asma infantil agrediendo la moral de los denunciantes (ad hominem circunstancial). -->
+- [ ] B) Apelar a la piedad (ad misericordiam) de los cangrejos de Cabo Rojo de gratis. <!-- feedback: Incorrecto. La empresa no da muestras de lástima ni de discursos de piedad, e introduce el solecismo "de gratis". -->
+- [ ] C) Utilizar estadísticas de agrimensura y mapas geográficos de Vieques. <!-- feedback: Incorrecto. No se presentan mapas de Vieques ni planos catastrales en esta defensa de la quema de carbón en Guayama. -->
+- [x] A) Falsa analogía (comparar la ceniza tóxica con la arena inofensiva) y falacia ad hominem (descalificar las denuncias médicas tachando a los científicos de extremistas políticos enemigos del progreso). <!-- feedback: ¡Correcto! La empresa opera con dos desvíos ideológicos graves: equipara falsamente un residuo industrial cargado de metales pesados con la arena limpia de la playa (falsa analogía), y descalifica de forma tramposa las alertas de asma infantil agrediendo la moral de los denunciantes (ad hominem circunstancial). -->
 - [ ] D) Exigir que los médicos de Ponce traduzcan todos sus informes al latín medieval de gratis de la costa. <!-- feedback: Incorrecto. Presenta el solecismo de gratis y desvía la argumentación hacia el idioma latín medieval inerte ajeno al asma de Guayama. -->
 
 ### Explicacion Pedagogica

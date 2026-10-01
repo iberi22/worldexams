@@ -33,9 +33,9 @@ creador: "Jules-Agent"
 ¿Cuál es la principal razón por la que la novela fue el género predilecto de los escritores realistas?
 
 ### Opciones
-- [ ] A) Porque era más corta y rápida de escribir que un poema. <!-- feedback: Al contrario, las novelas realistas suelen ser muy largas. -->
-- [ ] B) Porque no requería saber rima ni métrica. <!-- feedback: Aunque es prosa, requiere una técnica narrativa muy compleja. -->
-- [x] C) Porque permitía describir con amplitud la complejidad de la sociedad y la psicología humana. <!-- feedback: Su extensión y libertad formal son ideales para el análisis social detallado. -->
+- [ ] B) Porque era más corta y rápida de escribir que un poema. <!-- feedback: Al contrario, las novelas realistas suelen ser muy largas. -->
+- [ ] C) Porque no requería saber rima ni métrica. <!-- feedback: Aunque es prosa, requiere una técnica narrativa muy compleja. -->
+- [x] A) Porque permitía describir con amplitud la complejidad de la sociedad y la psicología humana. <!-- feedback: Su extensión y libertad formal son ideales para el análisis social detallado. -->
 - [ ] D) Porque los libros de poemas estaban prohibidos en el siglo XIX. <!-- feedback: La poesía seguía existiendo, pero la novela conectaba mejor con el público burgués. -->
 
 ### Explicacion Pedagogica
@@ -55,9 +55,9 @@ La novela ofrece el espacio necesario para el desarrollo de tramas complejas, de
 
 ### Opciones
 - [ ] A) Ser héroes legendarios con poderes sobrenaturales. <!-- feedback: Los personajes realistas son personas comunes sin poderes mágicos. -->
-- [x] B) Ser individuos con virtudes y defectos, influenciados por su entorno social. <!-- feedback: Se busca la verosimilitud y el retrato psicológico profundo. -->
-- [ ] C) Representar ideas abstractas como "el Bien" o "el Mal" de forma pura. <!-- feedback: El Realismo huye de los personajes planos o puramente simbólicos. -->
-- [ ] D) Ser siempre nobles de la antigüedad griega o romana. <!-- feedback: Los personajes pertenecen a la época contemporánea del autor. -->
+- [x] D) Ser individuos con virtudes y defectos, influenciados por su entorno social. <!-- feedback: Se busca la verosimilitud y el retrato psicológico profundo. -->
+- [ ] B) Representar ideas abstractas como "el Bien" o "el Mal" de forma pura. <!-- feedback: El Realismo huye de los personajes planos o puramente simbólicos. -->
+- [ ] C) Ser siempre nobles de la antigüedad griega o romana. <!-- feedback: Los personajes pertenecen a la época contemporánea del autor. -->
 
 ### Explicacion Pedagogica
 El personaje realista es complejo y contradictorio, movido por intereses materiales, pasiones humanas y presiones sociales.
@@ -118,8 +118,8 @@ Si en una novela leemos: "Juan caminaba por la calle. ¿Acaso no merecía él aq
 
 ### Opciones
 - [ ] A) Diálogo directo entre dos personajes. <!-- feedback: No hay intercambio verbal entre dos personas. -->
-- [ ] B) Monólogo teatral recitado ante el público. <!-- feedback: No es una representación teatral, sino una técnica narrativa en prosa. -->
-- [x] C) Estilo indirecto libre. <!-- feedback: El narrador adopta la perspectiva y las preguntas íntimas del personaje sin usar "él pensó que...". -->
+- [ ] C) Monólogo teatral recitado ante el público. <!-- feedback: No es una representación teatral, sino una técnica narrativa en prosa. -->
+- [x] B) Estilo indirecto libre. <!-- feedback: El narrador adopta la perspectiva y las preguntas íntimas del personaje sin usar "él pensó que...". -->
 - [ ] D) Descripción objetiva desde una cámara de video. <!-- feedback: La técnica muestra el interior del personaje, algo que una cámara no capta directamente. -->
 
 ### Explicacion Pedagogica
@@ -160,8 +160,8 @@ En "La Regenta", la ciudad ficticia de Vetusta representa una sociedad provincia
 
 ### Opciones
 - [ ] A) Es un lugar maravilloso donde Ana puede cumplir todos sus sueños de libertad. <!-- feedback: Vetusta es precisamente lo contrario: un entorno represivo. -->
-- [ ] B) La ciudad no tiene ninguna importancia, lo que importa es solo lo que Ana piensa. <!-- feedback: La presión de la ciudad es lo que finalmente destruye a la protagonista. -->
-- [x] C) Vetusta funciona como una fuerza opresiva que vigila, juzga y finalmente destruye a quien intenta romper sus normas. <!-- feedback: El entorno social es el verdadero antagonista de la novela. -->
+- [ ] C) La ciudad no tiene ninguna importancia, lo que importa es solo lo que Ana piensa. <!-- feedback: La presión de la ciudad es lo que finalmente destruye a la protagonista. -->
+- [x] B) Vetusta funciona como una fuerza opresiva que vigila, juzga y finalmente destruye a quien intenta romper sus normas. <!-- feedback: El entorno social es el verdadero antagonista de la novela. -->
 - [ ] D) Es una ciudad fantástica llena de fantasmas que asustan a Ana por las noches. <!-- feedback: El Realismo de Clarín se basa en la observación social, no en elementos sobrenaturales. -->
 
 ### Explicacion Pedagogica
@@ -180,9 +180,9 @@ Vetusta es la personificación de la hipocresía y el estancamiento de la socied
 ¿De qué manera el sistema de publicación por entregas afectó la forma en que se escribían las novelas realistas?
 
 ### Opciones
-- [ ] A) Haciendo que las novelas fueran muy cortas para que cupieran en una página. <!-- feedback: Al contrario, el sistema incentivaba las novelas largas para durar más meses en el periódico. -->
-- [ ] B) Eliminando las descripciones para ir directamente a la acción. <!-- feedback: Las descripciones detalladas eran muy valoradas por el público de la época. -->
-- [x] C) Creando finales de capítulo con suspense para mantener el interés del lector hasta la siguiente semana. <!-- feedback: El ritmo narrativo se adaptaba a la necesidad comercial de fidelizar al público. -->
+- [ ] B) Haciendo que las novelas fueran muy cortas para que cupieran en una página. <!-- feedback: Al contrario, el sistema incentivaba las novelas largas para durar más meses en el periódico. -->
+- [ ] C) Eliminando las descripciones para ir directamente a la acción. <!-- feedback: Las descripciones detalladas eran muy valoradas por el público de la época. -->
+- [x] A) Creando finales de capítulo con suspense para mantener el interés del lector hasta la siguiente semana. <!-- feedback: El ritmo narrativo se adaptaba a la necesidad comercial de fidelizar al público. -->
 - [ ] D) Obligando a los autores a no usar palabras difíciles para que los vendedores de periódicos las entendieran. <!-- feedback: El público de los folletines era amplio, pero el nivel literario solía mantenerse alto en los grandes autores. -->
 
 ### Explicacion Pedagogica
@@ -222,9 +222,9 @@ El Realismo no es una copia pasiva, sino una recreación interpretativa de la re
 ¿De qué manera la ficción novelesca pudo ser más eficaz que los informes políticos para cambiar las leyes sociales en el siglo XIX?
 
 ### Opciones
-- [ ] A) Porque las novelas tenían dibujos bonitos que los políticos preferían mirar. <!-- feedback: La eficacia residía en el texto y la capacidad de conmover. -->
-- [ ] B) Porque las novelas eran más baratas de imprimir que los informes del gobierno. <!-- feedback: Es una cuestión de impacto emocional y social, no de costos de imprenta. -->
-- [x] C) Porque la novela humanizaba los datos estadísticos, generando empatía y conciencia emocional en los lectores. <!-- feedback: Al ponerle nombre y sentimientos al sufrimiento, la novela movilizaba a la opinión pública. -->
+- [ ] B) Porque las novelas tenían dibujos bonitos que los políticos preferían mirar. <!-- feedback: La eficacia residía en el texto y la capacidad de conmover. -->
+- [ ] C) Porque las novelas eran más baratas de imprimir que los informes del gobierno. <!-- feedback: Es una cuestión de impacto emocional y social, no de costos de imprenta. -->
+- [x] A) Porque la novela humanizaba los datos estadísticos, generando empatía y conciencia emocional en los lectores. <!-- feedback: Al ponerle nombre y sentimientos al sufrimiento, la novela movilizaba a la opinión pública. -->
 - [ ] D) Porque en el siglo XIX estaba prohibido leer informes políticos en público. <!-- feedback: No estaba prohibido, pero la literatura tenía un alcance mucho más masivo y popular. -->
 
 ### Explicacion Pedagogica
@@ -243,9 +243,9 @@ La novela realista funcionó como una poderosa herramienta de reforma social al 
 ¿Qué diferencia el realismo de Dostoievski del realismo más "externo" de autores franceses como Balzac?
 
 ### Opciones
-- [ ] A) Que Dostoievski escribía sobre fantasmas y Balzac sobre personas reales. <!-- feedback: Ambos son realistas; Dostoievski no usa elementos sobrenaturales. -->
-- [ ] B) Que Dostoievski no describía nunca los edificios ni las calles. <!-- feedback: Describe el ambiente de San Petersburgo de forma magistral. -->
-- [x] C) Su enfoque en el "realismo psicológico" extremo, explorando las contradicciones morales y el alma atormentada de los personajes. <!-- feedback: Dostoievski profundiza en las simas del pensamiento humano, el pecado y la redención. -->
+- [ ] B) Que Dostoievski escribía sobre fantasmas y Balzac sobre personas reales. <!-- feedback: Ambos son realistas; Dostoievski no usa elementos sobrenaturales. -->
+- [ ] C) Que Dostoievski no describía nunca los edificios ni las calles. <!-- feedback: Describe el ambiente de San Petersburgo de forma magistral. -->
+- [x] A) Su enfoque en el "realismo psicológico" extremo, explorando las contradicciones morales y el alma atormentada de los personajes. <!-- feedback: Dostoievski profundiza en las simas del pensamiento humano, el pecado y la redención. -->
 - [ ] D) Que Dostoievski escribía sus novelas en verso y Balzac en prosa. <!-- feedback: Ambos son maestros de la prosa novelesca. -->
 
 ### Explicacion Pedagogica
@@ -265,8 +265,8 @@ El realismo ruso expande las fronteras del género hacia la introspección filos
 
 ### Opciones
 - [ ] A) Se perdió la capacidad de escribir y se ganó la capacidad de leer. <!-- feedback: Es una afirmación sin sentido; ambas capacidades se mantuvieron y crecieron. -->
-- [ ] B) Se perdió el uso de adjetivos y se ganó el uso de muchos sustantivos. <!-- feedback: El cambio fue temático y filosófico, no una simple sustitución de categorías gramaticales. -->
-- [x] C) Se perdió el idealismo heroico y la evasión fantástica, pero se ganó en profundidad social, verdad humana y compromiso crítico. <!-- feedback: La literatura bajó de las nubes románticas para ocuparse de los problemas reales de los hombres. -->
+- [ ] C) Se perdió el uso de adjetivos y se ganó el uso de muchos sustantivos. <!-- feedback: El cambio fue temático y filosófico, no una simple sustitución de categorías gramaticales. -->
+- [x] B) Se perdió el idealismo heroico y la evasión fantástica, pero se ganó en profundidad social, verdad humana y compromiso crítico. <!-- feedback: La literatura bajó de las nubes románticas para ocuparse de los problemas reales de los hombres. -->
 - [ ] D) No hubo ninguna ganancia, ya que la literatura realista es una copia aburrida de la vida. <!-- feedback: El Realismo creó algunas de las obras más complejas y fascinantes de la historia de la humanidad. -->
 
 ### Explicacion Pedagogica

@@ -36,9 +36,9 @@ This bundle explores significant scientific discoveries using B2-level grammar, 
 
 ### Opciones
 - [ ] A) The / the <!-- feedback: 'The scientist' implies a specific one; 'empirical evidence' is uncountable/general. -->
-- [x] B) A / - <!-- feedback: Correct. 'A scientist' (any scientist) + zero article for uncountable general concept. -->
-- [ ] C) An / the <!-- feedback: 'An' is for vowel sounds. -->
-- [ ] D) - / - <!-- feedback: Needs an article for 'scientist'. -->
+- [x] D) A / - <!-- feedback: Correct. 'A scientist' (any scientist) + zero article for uncountable general concept. -->
+- [ ] B) An / the <!-- feedback: 'An' is for vowel sounds. -->
+- [ ] C) - / - <!-- feedback: Needs an article for 'scientist'. -->
 
 ### Explicación Pedagógica
 'A/An' is used for general singular nouns. Zero article is used for uncountable or plural nouns when speaking in general.
@@ -57,8 +57,8 @@ This bundle explores significant scientific discoveries using B2-level grammar, 
 
 ### Opciones
 - [ ] A) the / the <!-- feedback: Incorrect. -->
-- [x] B) - / - <!-- feedback: Correct. Zero article for substances (penicillin) and years. -->
-- [ ] C) a / - <!-- feedback: Incorrect for substances. -->
+- [x] C) - / - <!-- feedback: Correct. Zero article for substances (penicillin) and years. -->
+- [ ] B) a / - <!-- feedback: Incorrect for substances. -->
 - [ ] D) the / - <!-- feedback: Possible but B is more standard for the substance itself. -->
 
 ### Explicación Pedagógica
@@ -78,9 +78,9 @@ Zero article is used with the names of substances (like penicillin) and specific
 
 ### Opciones
 - [ ] A) A / an / the <!-- feedback: Incorrect. -->
-- [x] B) The / the / - <!-- feedback: Correct. 'The' for unique bodies + zero article for planets like Earth (unless preceded by 'the planet'). -->
-- [ ] C) The / the / the <!-- feedback: Possible, but 'Earth' usually takes zero article. -->
-- [ ] D) - / - / - <!-- feedback: Incorrect. -->
+- [x] D) The / the / - <!-- feedback: Correct. 'The' for unique bodies + zero article for planets like Earth (unless preceded by 'the planet'). -->
+- [ ] B) The / the / the <!-- feedback: Possible, but 'Earth' usually takes zero article. -->
+- [ ] C) - / - / - <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
 'The' is used for unique objects like 'the Moon' or 'the Sun'. Planets like 'Earth', 'Mars', etc., usually take no article.
@@ -98,8 +98,8 @@ Zero article is used with the names of substances (like penicillin) and specific
 "____ technology has played ____ crucial role in ____ development of medicine."
 
 ### Opciones
-- [ ] A) The / a / - <!-- feedback: Incorrect. -->
-- [x] B) - / a / the <!-- feedback: Correct. Zero article for general concepts (technology) + 'a' for singular + 'the' for specific noun phrase. -->
+- [ ] B) The / a / - <!-- feedback: Incorrect. -->
+- [x] A) - / a / the <!-- feedback: Correct. Zero article for general concepts (technology) + 'a' for singular + 'the' for specific noun phrase. -->
 - [ ] C) - / - / the <!-- feedback: Needs 'a' for 'role'. -->
 - [ ] D) The / the / - <!-- feedback: Incorrect. -->
 
@@ -120,9 +120,9 @@ Zero article for abstract/general concepts (technology). 'The' is used for speci
 
 ### Opciones
 - [ ] A) a / the / - <!-- feedback: Possible, but B is more specific for the name of the prize. -->
-- [x] B) the / the / - <!-- feedback: Correct. 'The' for specific names of prizes/superlatives + zero article for academic fields. -->
-- [ ] C) the / - / the <!-- feedback: Incorrect superlatives need 'the'. -->
-- [ ] D) - / the / - <!-- feedback: Needs 'the' for the prize. -->
+- [x] D) the / the / - <!-- feedback: Correct. 'The' for specific names of prizes/superlatives + zero article for academic fields. -->
+- [ ] B) the / - / the <!-- feedback: Incorrect superlatives need 'the'. -->
+- [ ] C) - / the / - <!-- feedback: Needs 'the' for the prize. -->
 
 ### Explicación Pedagógica
 Use 'the' with specific prize names and superlative adjectives. Use zero article for general academic subjects.
@@ -141,8 +141,8 @@ Use 'the' with specific prize names and superlative adjectives. Use zero article
 
 ### Opciones
 - [ ] A) - / the / a <!-- feedback: Incorrect for 'results'. -->
-- [x] B) The / the / a <!-- feedback: Correct. Specific results + specific experiment + any journal. -->
-- [ ] C) The / an / the <!-- feedback: Possible, but B is more standard for a narrative. -->
+- [x] C) The / the / a <!-- feedback: Correct. Specific results + specific experiment + any journal. -->
+- [ ] B) The / an / the <!-- feedback: Possible, but B is more standard for a narrative. -->
 - [ ] D) - / - / - <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
@@ -162,9 +162,9 @@ Use 'the' with specific prize names and superlative adjectives. Use zero article
 
 ### Opciones
 - [ ] A) The / an / - <!-- feedback: Incorrect for general energy. -->
-- [x] B) - / an / - <!-- feedback: Correct. Zero article for general energy sources (solar power, coal) + 'an' for singular adjective-noun. -->
-- [ ] C) - / a / the <!-- feedback: Incorrect article/preposition. -->
-- [ ] D) The / the / the <!-- feedback: Incorrect. -->
+- [x] D) - / an / - <!-- feedback: Correct. Zero article for general energy sources (solar power, coal) + 'an' for singular adjective-noun. -->
+- [ ] B) - / a / the <!-- feedback: Incorrect article/preposition. -->
+- [ ] C) The / the / the <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
 Zero article is used for general energy sources and materials.
@@ -183,9 +183,9 @@ Zero article is used for general energy sources and materials.
 
 ### Opciones
 - [ ] A) A / - / a / the <!-- feedback: Possible, but B is for the invention itself. -->
-- [x] B) The / - / a / the <!-- feedback: Correct. 'The' for inventions + zero for names + 'a' for nationality + 'the' for countries with 'United'. -->
-- [ ] C) - / - / a / - <!-- feedback: Incorrect for 'United States'. -->
-- [ ] D) The / the / the / the <!-- feedback: Incorrect for name. -->
+- [x] D) The / - / a / the <!-- feedback: Correct. 'The' for inventions + zero for names + 'a' for nationality + 'the' for countries with 'United'. -->
+- [ ] B) - / - / a / - <!-- feedback: Incorrect for 'United States'. -->
+- [ ] C) The / the / the / the <!-- feedback: Incorrect for name. -->
 
 ### Explicación Pedagógica
 'The' is used for names of inventions as a class. Zero article for names of people. 'The' is required for 'The United States'.
@@ -203,8 +203,8 @@ Zero article is used for general energy sources and materials.
 "Will ____ humans ever reach ____ Mars and establish ____ colony there?"
 
 ### Opciones
-- [ ] A) the / the / a <!-- feedback: Incorrect for humans/Mars. -->
-- [x] B) - / - / a <!-- feedback: Correct. Zero article for people as a group + zero for planets + 'a' for singular noun. -->
+- [ ] B) the / the / a <!-- feedback: Incorrect for humans/Mars. -->
+- [x] A) - / - / a <!-- feedback: Correct. Zero article for people as a group + zero for planets + 'a' for singular noun. -->
 - [ ] C) - / the / the <!-- feedback: Incorrect for Mars. -->
 - [ ] D) the / - / a <!-- feedback: Possible, but B is more general for the species. -->
 
@@ -224,10 +224,10 @@ B2 complexity: Correct article usage with celestial bodies and general groups of
 "____ Amazon Rainforest is home to ____ vast number of species, many of ____ which are still unknown to ____ science."
 
 ### Opciones
-- [x] A) The / a / - / - <!-- feedback: Correct. 'The' for specific geographic regions + 'a' for 'a number of' + zero for science. -->
-- [ ] B) - / the / - / the <!-- feedback: Incorrect. -->
-- [ ] C) The / the / the / - <!-- feedback: Incorrect. -->
-- [ ] D) - / a / the / the <!-- feedback: Incorrect. -->
+- [x] D) The / a / - / - <!-- feedback: Correct. 'The' for specific geographic regions + 'a' for 'a number of' + zero for science. -->
+- [ ] A) - / the / - / the <!-- feedback: Incorrect. -->
+- [ ] B) The / the / the / - <!-- feedback: Incorrect. -->
+- [ ] C) - / a / the / the <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
 Advanced B2 structure: Geographic names (The Amazon) vs academic disciplines (science).
@@ -245,8 +245,8 @@ Advanced B2 structure: Geographic names (The Amazon) vs academic disciplines (sc
 "____ theory of relativity, proposed by ____ Einstein, changed our understanding of ____ time and ____ space."
 
 ### Opciones
-- [ ] A) A / - / - / - <!-- feedback: Incorrect for specific theory. -->
-- [x] B) The / - / - / - <!-- feedback: Correct. 'The' for specific theory + zero for name and general abstract concepts. -->
+- [ ] B) A / - / - / - <!-- feedback: Incorrect for specific theory. -->
+- [x] A) The / - / - / - <!-- feedback: Correct. 'The' for specific theory + zero for name and general abstract concepts. -->
 - [ ] C) The / the / the / the <!-- feedback: Incorrect for abstract concepts. -->
 - [ ] D) - / - / - / - <!-- feedback: Incorrect. -->
 
@@ -266,10 +266,10 @@ Using zero article for abstract nouns like 'time' and 'space' in a scientific co
 "____ more we learn about ____ universe, ____ more we realize how little we actually know about ____ life itself."
 
 ### Opciones
-- [x] A) The / the / the / - <!-- feedback: Correct double comparative with specific 'universe' and general 'life'. -->
-- [ ] B) - / the / - / the <!-- feedback: Incorrect. -->
-- [ ] C) The / - / the / - <!-- feedback: 'The universe' is the standard unique name. -->
-- [ ] D) More / the / more / - <!-- feedback: Incorrect. -->
+- [x] D) The / the / the / - <!-- feedback: Correct double comparative with specific 'universe' and general 'life'. -->
+- [ ] A) - / the / - / the <!-- feedback: Incorrect. -->
+- [ ] B) The / - / the / - <!-- feedback: 'The universe' is the standard unique name. -->
+- [ ] C) More / the / more / - <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
 Mastery level: Combining the 'The + comparative, the + comparative' structure with complex article rules for unique and abstract nouns.

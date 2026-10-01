@@ -33,9 +33,9 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) Neologismos <!-- feedback: Incorrecto. Los neologismos son palabras nuevas que se incorporan al idioma. -->
-- [x] B) Arcaísmos <!-- feedback: ¡Correcto! Son términos antiguos que nos ayudan a entender el contexto histórico de la obra. -->
-- [ ] C) Regionalismos <!-- feedback: Incorrecto. Son palabras propias de una región, aunque pueden ser antiguas, no todas lo son. -->
-- [ ] D) Tecnicismos <!-- feedback: Incorrecto. Son palabras propias de una ciencia u oficio específico. -->
+- [x] D) Arcaísmos <!-- feedback: ¡Correcto! Son términos antiguos que nos ayudan a entender el contexto histórico de la obra. -->
+- [ ] B) Regionalismos <!-- feedback: Incorrecto. Son palabras propias de una región, aunque pueden ser antiguas, no todas lo son. -->
+- [ ] C) Tecnicismos <!-- feedback: Incorrecto. Son palabras propias de una ciencia u oficio específico. -->
 
 ### Explicacion Pedagogica
 El análisis de textos del siglo XIX requiere un manejo de vocabulario histórico. Los arcaísmos (como "ansina", "mesmo" o "vuestra merced") le dan sabor de época al texto y nos permiten viajar en el tiempo a través de la lectura.
@@ -54,9 +54,9 @@ En la literatura del siglo XIX, ¿qué función cumple predominantemente la desc
 
 ### Opciones
 - [ ] A) Servir de relleno para que el capítulo sea más largo. <!-- feedback: Incorrecto. La descripción es una técnica artística con un propósito estético y emocional. -->
-- [x] B) Crear una atmósfera que refleje los sentimientos de los personajes y resalte la belleza del territorio nacional. <!-- feedback: ¡Correcto! Es un recurso clave para la ambientación y el patriotismo literario. -->
-- [ ] C) Ocultar que el autor no sabe cómo continuar la historia de amor. <!-- feedback: Incorrecto. Al contrario, las descripciones preparan el terreno para los eventos emocionales. -->
-- [ ] D) Darle consejos al lector sobre cómo cuidar el medio ambiente. <!-- feedback: Incorrecto. Aunque valoran la naturaleza, su fin es literario y no un manual de ecología moderno. -->
+- [x] D) Crear una atmósfera que refleje los sentimientos de los personajes y resalte la belleza del territorio nacional. <!-- feedback: ¡Correcto! Es un recurso clave para la ambientación y el patriotismo literario. -->
+- [ ] B) Ocultar que el autor no sabe cómo continuar la historia de amor. <!-- feedback: Incorrecto. Al contrario, las descripciones preparan el terreno para los eventos emocionales. -->
+- [ ] C) Darle consejos al lector sobre cómo cuidar el medio ambiente. <!-- feedback: Incorrecto. Aunque valoran la naturaleza, su fin es literario y no un manual de ecología moderno. -->
 
 ### Explicacion Pedagogica
 Analizar el paisaje en el siglo XIX no es solo mirar árboles. Es entender cómo ese entorno condiciona la vida de los personajes y cómo el autor expresa su amor por la geografía de Colombia a través de la palabra.
@@ -97,8 +97,8 @@ Lee la frase: "Don Prudencio se vestía con sedas de Francia en medio del calor 
 ### Opciones
 - [ ] A) Admiración total por el buen gusto de Don Prudencio. <!-- feedback: Incorrecto. El contraste entre la seda y el calor de la plaza sugiere una crítica. -->
 - [ ] B) Indiferencia ante lo que el personaje decida vestir. <!-- feedback: Incorrecto. El autor elige detalles específicos para provocar una reacción en el lector. -->
-- [x] C) Una actitud irónica y crítica hacia la vanidad y la falta de sentido común del personaje. <!-- feedback: ¡Correcto! Se burla de quien intenta aparentar lo que no es o lo que no encaja con su realidad. -->
-- [ ] D) Miedo de que Don Prudencio se enferme por el calor. <!-- feedback: Incorrecto. No es una preocupación médica, sino un juicio social. -->
+- [x] D) Una actitud irónica y crítica hacia la vanidad y la falta de sentido común del personaje. <!-- feedback: ¡Correcto! Se burla de quien intenta aparentar lo que no es o lo que no encaja con su realidad. -->
+- [ ] C) Miedo de que Don Prudencio se enferme por el calor. <!-- feedback: Incorrecto. No es una preocupación médica, sino un juicio social. -->
 
 ### Explicacion Pedagogica
 El análisis de la ironía permite descubrir la intención crítica del autor. En el costumbrismo, esto servía para educar al público sobre la importancia de la sencillez y la autenticidad frente a las apariencias vacías.
@@ -117,9 +117,9 @@ El análisis de la ironía permite descubrir la intención crítica del autor. E
 
 ### Opciones
 - [ ] A) El poema busca informar y la arenga busca entretener. <!-- feedback: Incorrecto. Es al revés: la arenga busca persuadir. -->
-- [x] B) El poema tiene una función expresiva/poética (sentimientos); la arenga tiene una función apelativa (mover a la acción). <!-- feedback: ¡Correcto! Cada texto tiene un propósito distinto según el uso del lenguaje. -->
-- [ ] C) Ambos tienen la misma función porque fueron escritos en el siglo XIX. <!-- feedback: Incorrecto. El tiempo no define la función lingüística; el propósito del autor sí. -->
-- [ ] D) Ninguno tiene función porque la literatura no sirve para nada práctico. <!-- feedback: Incorrecto. La literatura cumple funciones estéticas, sociales y comunicativas vitales. -->
+- [x] D) El poema tiene una función expresiva/poética (sentimientos); la arenga tiene una función apelativa (mover a la acción). <!-- feedback: ¡Correcto! Cada texto tiene un propósito distinto según el uso del lenguaje. -->
+- [ ] B) Ambos tienen la misma función porque fueron escritos en el siglo XIX. <!-- feedback: Incorrecto. El tiempo no define la función lingüística; el propósito del autor sí. -->
+- [ ] C) Ninguno tiene función porque la literatura no sirve para nada práctico. <!-- feedback: Incorrecto. La literatura cumple funciones estéticas, sociales y comunicativas vitales. -->
 
 ### Explicacion Pedagogica
 En el análisis de textos es crucial identificar para qué fueron escritos. El siglo XIX colombiano fue rico en ambos: textos para conmover el alma (poesía) y textos para transformar la sociedad (discursos políticos).
@@ -138,8 +138,8 @@ En el análisis de textos es crucial identificar para qué fueron escritos. El s
 
 ### Opciones
 - [ ] A) Personificación; significa que las montañas tienen mucho sueño. <!-- feedback: Incorrecto. "Gigantes dormidos" es una metáfora, no una descripción literal de sueño. -->
-- [x] B) Metáfora; exalta la geografía colombiana como un símbolo de protección y fuerza nacional. <!-- feedback: ¡Correcto! Identifica las montañas con gigantes para darles una dimensión heroica. -->
-- [ ] C) Símil; compara las montañas con gigantes usando la palabra "como". <!-- feedback: Incorrecto. No usa nexos comparativos como "como" o "parece". -->
+- [x] C) Metáfora; exalta la geografía colombiana como un símbolo de protección y fuerza nacional. <!-- feedback: ¡Correcto! Identifica las montañas con gigantes para darles una dimensión heroica. -->
+- [ ] B) Símil; compara las montañas con gigantes usando la palabra "como". <!-- feedback: Incorrecto. No usa nexos comparativos como "como" o "parece". -->
 - [ ] D) Hipérbole; exagera el tamaño de las montañas para que parezcan más grandes de lo que son. <!-- feedback: Incorrecto. Aunque hay magnitud, la figura dominante es la identificación metafórica. -->
 
 ### Explicacion Pedagogica
@@ -158,8 +158,8 @@ El análisis de imágenes espaciales en el siglo XIX revela mucho sobre el nacio
 ¿Qué visión de la vida se desprende del análisis de estas tragedias románticas del siglo XIX?
 
 ### Opciones
-- [ ] A) Que todo se puede solucionar con dinero y buenos contactos. <!-- feedback: Incorrecto. El dinero no puede salvar a los protagonistas románticos de su destino. -->
-- [x] B) Una visión pesimista donde el amor ideal choca contra la realidad, la enfermedad o las barreras sociales. <!-- feedback: ¡Correcto! El romanticismo valora la belleza del sufrimiento y la imposibilidad del ideal. -->
+- [ ] B) Que todo se puede solucionar con dinero y buenos contactos. <!-- feedback: Incorrecto. El dinero no puede salvar a los protagonistas románticos de su destino. -->
+- [x] A) Una visión pesimista donde el amor ideal choca contra la realidad, la enfermedad o las barreras sociales. <!-- feedback: ¡Correcto! El romanticismo valora la belleza del sufrimiento y la imposibilidad del ideal. -->
 - [ ] C) Que los autores no sabían escribir finales felices y por eso mataban a los personajes. <!-- feedback: Incorrecto. Es una elección estética deliberada para conmover profundamente al lector. -->
 - [ ] D) Que la vida es una comedia divertida donde siempre hay una segunda oportunidad. <!-- feedback: Incorrecto. Esta visión es contraria al temple de ánimo romántico. -->
 
@@ -201,9 +201,9 @@ La literatura nos obliga a salir de nuestra zona de confort. Analizar el habla p
 
 ### Opciones
 - [ ] A) Que el realismo usa más páginas para describir la ropa. <!-- feedback: Incorrecto. Se refiere precisamente a que el realismo va más allá de la ropa. -->
-- [x] B) Que mientras el costumbrismo solo describe lo externo, el realismo analiza los motivos psicológicos y las contradicciones humanas. <!-- feedback: ¡Correcto! El realismo busca la verdad interna de los personajes. -->
-- [ ] C) Que el costumbrismo es para niños y el realismo para adultos. <!-- feedback: Incorrecto. No es una división por edades, sino por profundidad artística. -->
-- [ ] D) Que no hay ninguna diferencia y el crítico está inventando cosas. <!-- feedback: Incorrecto. La evolución literaria hacia la profundidad psicológica es un hecho estudiado. -->
+- [x] D) Que mientras el costumbrismo solo describe lo externo, el realismo analiza los motivos psicológicos y las contradicciones humanas. <!-- feedback: ¡Correcto! El realismo busca la verdad interna de los personajes. -->
+- [ ] B) Que el costumbrismo es para niños y el realismo para adultos. <!-- feedback: Incorrecto. No es una división por edades, sino por profundidad artística. -->
+- [ ] C) Que no hay ninguna diferencia y el crítico está inventando cosas. <!-- feedback: Incorrecto. La evolución literaria hacia la profundidad psicológica es un hecho estudiado. -->
 
 ### Explicacion Pedagogica
 Analizar la evolución de los géneros es fundamental. Pasar del "cuadro de costumbres" (descripción externa) a la "novela realista" (estudio del carácter) marca la madurez de la literatura colombiana a finales del siglo XIX.

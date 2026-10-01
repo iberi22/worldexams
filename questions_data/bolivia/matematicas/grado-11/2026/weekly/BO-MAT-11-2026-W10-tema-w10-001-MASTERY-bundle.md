@@ -54,8 +54,8 @@ El eje de simetría y la coordenada del vértice x de una función cuadrática s
 Si el coeficiente a del término cuadrático ax^2 en una función cuadrática es negativo (a < 0), ¿cuál es la orientación de la parábola?
 
 ### Opciones
-- [x] A) Es cóncava hacia abajo (las ramas se abren hacia abajo). <!-- feedback: ¡Correcto! Al ser a < 0, la parábola se abre hacia abajo y posee un punto máximo absoluto en su vértice. -->
-- [ ] B) Es cóncava hacia arriba (las ramas se abren hacia arriba). <!-- feedback: Incorrecto. Las parábolas se abren hacia arriba únicamente cuando el coeficiente cuadrático es positivo (a > 0). -->
+- [x] B) Es cóncava hacia abajo (las ramas se abren hacia abajo). <!-- feedback: ¡Correcto! Al ser a < 0, la parábola se abre hacia abajo y posee un punto máximo absoluto en su vértice. -->
+- [ ] A) Es cóncava hacia arriba (las ramas se abren hacia arriba). <!-- feedback: Incorrecto. Las parábolas se abren hacia arriba únicamente cuando el coeficiente cuadrático es positivo (a > 0). -->
 - [ ] C) Es una recta paralela al eje horizontal de abscisas. <!-- feedback: Incorrecto. Las funciones cuadráticas describen parábolas curvas de segundo grado, no rectas. -->
 - [ ] D) Es una curva asintótica que nunca cruza el eje vertical. <!-- feedback: Incorrecto. Toda parábola intercepta al eje y exactamente en el punto (0, c). -->
 
@@ -74,10 +74,10 @@ El coeficiente cuadrático a define la concavidad de la parábola. Si a < 0, la 
 Dada la función cuadrática f(x) = x^2 - 4x + 5, ¿cuál es la coordenada del vértice en el plano cartesiano?
 
 ### Opciones
-- [x] A) (2, 1) <!-- feedback: ¡Correcto! x_v = -(-4)/(2*1) = 2. Evaluando f(2) = 2^2 - 4(2) + 5 = 1. Así, el vértice es (2, 1). -->
-- [ ] B) (2, 5) <!-- feedback: Incorrecto. Olvidaste calcular de forma correcta la coordenada y del vértice, usando el término c directamente. -->
-- [ ] C) (-2, 17) <!-- feedback: Incorrecto. Cometiste un error de signos al calcular x_v, resultando en -2 en lugar de 2. -->
-- [ ] D) (4, 5) <!-- feedback: Incorrecto. Usaste el coeficiente lineal b directamente sin dividir por 2a en el vértice. -->
+- [x] D) (2, 1) <!-- feedback: ¡Correcto! x_v = -(-4)/(2*1) = 2. Evaluando f(2) = 2^2 - 4(2) + 5 = 1. Así, el vértice es (2, 1). -->
+- [ ] A) (2, 5) <!-- feedback: Incorrecto. Olvidaste calcular de forma correcta la coordenada y del vértice, usando el término c directamente. -->
+- [ ] B) (-2, 17) <!-- feedback: Incorrecto. Cometiste un error de signos al calcular x_v, resultando en -2 en lugar de 2. -->
+- [ ] C) (4, 5) <!-- feedback: Incorrecto. Usaste el coeficiente lineal b directamente sin dividir por 2a en el vértice. -->
 
 ### Explicacion Pedagogica
 La coordenada x del vértice es x_v = -b / (2a) = -(-4) / (2 * 1) = 2. Para la coordenada y: y_v = f(2) = 2^2 - 4(2) + 5 = 1. El vértice es (2, 1).
@@ -114,10 +114,10 @@ La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(8) 
 Se modelan las ganancias de una cooperativa minera con la función cuadrática: G(x) = -x^2 + 10x - 16. ¿Para qué valor de x se obtiene la ganancia máxima?
 
 ### Opciones
-- [x] A) x = 5 <!-- feedback: ¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente. -->
-- [ ] B) x = 0 <!-- feedback: Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática. -->
-- [ ] C) x = -5 <!-- feedback: Incorrecto. Error al aplicar los signos de los coeficientes en el vértice. -->
-- [ ] D) No se puede determinar <!-- feedback: Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión. -->
+- [x] D) x = 5 <!-- feedback: ¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente. -->
+- [ ] A) x = 0 <!-- feedback: Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática. -->
+- [ ] B) x = -5 <!-- feedback: Incorrecto. Error al aplicar los signos de los coeficientes en el vértice. -->
+- [ ] C) No se puede determinar <!-- feedback: Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión. -->
 
 ### Explicacion Pedagogica
 La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(10) / (2 * -1) = 5.
@@ -154,8 +154,8 @@ La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(12)
 Se modelan las ganancias de una cooperativa minera con la función cuadrática: G(x) = -x^2 + 14x - 40. ¿Para qué valor de x se obtiene la ganancia máxima?
 
 ### Opciones
-- [x] A) x = 7 <!-- feedback: ¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente. -->
-- [ ] B) x = 0 <!-- feedback: Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática. -->
+- [x] B) x = 7 <!-- feedback: ¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente. -->
+- [ ] A) x = 0 <!-- feedback: Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática. -->
 - [ ] C) x = -7 <!-- feedback: Incorrecto. Error al aplicar los signos de los coeficientes en el vértice. -->
 - [ ] D) No se puede determinar <!-- feedback: Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión. -->
 
@@ -174,10 +174,10 @@ La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(14)
 Se modelan las ganancias de una cooperativa minera con la función cuadrática: G(x) = -x^2 + 16x - 55. ¿Para qué valor de x se obtiene la ganancia máxima?
 
 ### Opciones
-- [x] A) x = 8 <!-- feedback: ¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente. -->
-- [ ] B) x = 0 <!-- feedback: Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática. -->
-- [ ] C) x = -8 <!-- feedback: Incorrecto. Error al aplicar los signos de los coeficientes en el vértice. -->
-- [ ] D) No se puede determinar <!-- feedback: Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión. -->
+- [x] D) x = 8 <!-- feedback: ¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente. -->
+- [ ] A) x = 0 <!-- feedback: Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática. -->
+- [ ] B) x = -8 <!-- feedback: Incorrecto. Error al aplicar los signos de los coeficientes en el vértice. -->
+- [ ] C) No se puede determinar <!-- feedback: Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión. -->
 
 ### Explicacion Pedagogica
 La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(16) / (2 * -1) = 8.
@@ -194,8 +194,8 @@ La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(16)
 Se modelan las ganancias de una cooperativa minera con la función cuadrática: G(x) = -x^2 + 18x - 72. ¿Para qué valor de x se obtiene la ganancia máxima?
 
 ### Opciones
-- [x] A) x = 9 <!-- feedback: ¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente. -->
-- [ ] B) x = 0 <!-- feedback: Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática. -->
+- [x] B) x = 9 <!-- feedback: ¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente. -->
+- [ ] A) x = 0 <!-- feedback: Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática. -->
 - [ ] C) x = -9 <!-- feedback: Incorrecto. Error al aplicar los signos de los coeficientes en el vértice. -->
 - [ ] D) No se puede determinar <!-- feedback: Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión. -->
 
@@ -214,10 +214,10 @@ La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(18)
 Se modelan las ganancias de una cooperativa minera con la función cuadrática: G(x) = -x^2 + 20x - 91. ¿Para qué valor de x se obtiene la ganancia máxima?
 
 ### Opciones
-- [x] A) x = 10 <!-- feedback: ¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente. -->
-- [ ] B) x = 0 <!-- feedback: Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática. -->
-- [ ] C) x = -10 <!-- feedback: Incorrecto. Error al aplicar los signos de los coeficientes en el vértice. -->
-- [ ] D) No se puede determinar <!-- feedback: Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión. -->
+- [x] D) x = 10 <!-- feedback: ¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente. -->
+- [ ] A) x = 0 <!-- feedback: Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática. -->
+- [ ] B) x = -10 <!-- feedback: Incorrecto. Error al aplicar los signos de los coeficientes en el vértice. -->
+- [ ] C) No se puede determinar <!-- feedback: Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión. -->
 
 ### Explicacion Pedagogica
 La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(20) / (2 * -1) = 10.
@@ -274,10 +274,10 @@ La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(24)
 Se modelan las ganancias de una cooperativa minera con la función cuadrática: G(x) = -x^2 + 26x - 160. ¿Para qué valor de x se obtiene la ganancia máxima?
 
 ### Opciones
-- [x] A) x = 13 <!-- feedback: ¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente. -->
-- [ ] B) x = 0 <!-- feedback: Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática. -->
-- [ ] C) x = -13 <!-- feedback: Incorrecto. Error al aplicar los signos de los coeficientes en el vértice. -->
-- [ ] D) No se puede determinar <!-- feedback: Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión. -->
+- [x] D) x = 13 <!-- feedback: ¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente. -->
+- [ ] A) x = 0 <!-- feedback: Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática. -->
+- [ ] B) x = -13 <!-- feedback: Incorrecto. Error al aplicar los signos de los coeficientes en el vértice. -->
+- [ ] C) No se puede determinar <!-- feedback: Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión. -->
 
 ### Explicacion Pedagogica
 La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(26) / (2 * -1) = 13.
@@ -294,9 +294,9 @@ La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(26)
 Se modelan las ganancias de una cooperativa minera con la función cuadrática: G(x) = -x^2 + 28x - 187. ¿Para qué valor de x se obtiene la ganancia máxima?
 
 ### Opciones
-- [x] A) x = 14 <!-- feedback: ¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente. -->
-- [ ] B) x = 0 <!-- feedback: Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática. -->
-- [ ] C) x = -14 <!-- feedback: Incorrecto. Error al aplicar los signos de los coeficientes en el vértice. -->
+- [x] C) x = 14 <!-- feedback: ¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente. -->
+- [ ] A) x = 0 <!-- feedback: Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática. -->
+- [ ] B) x = -14 <!-- feedback: Incorrecto. Error al aplicar los signos de los coeficientes en el vértice. -->
 - [ ] D) No se puede determinar <!-- feedback: Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión. -->
 
 ### Explicacion Pedagogica
@@ -394,9 +394,9 @@ La coordenada x del vértice que maximiza la función es x_v = -b / (2a) = -(36)
 Se modelan las ganancias de una cooperativa minera con la función cuadrática: G(x) = -x^2 + 38x - 352. ¿Para qué valor de x se obtiene la ganancia máxima?
 
 ### Opciones
-- [x] A) x = 19 <!-- feedback: ¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente. -->
-- [ ] B) x = 0 <!-- feedback: Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática. -->
-- [ ] C) x = -19 <!-- feedback: Incorrecto. Error al aplicar los signos de los coeficientes en el vértice. -->
+- [x] C) x = 19 <!-- feedback: ¡Correcto! El vértice de la parábola que define el máximo absoluto se alcanza en el valor correspondiente. -->
+- [ ] A) x = 0 <!-- feedback: Incorrecto. El cero no representa el valor óptimo de simetría de la función cuadrática. -->
+- [ ] B) x = -19 <!-- feedback: Incorrecto. Error al aplicar los signos de los coeficientes en el vértice. -->
 - [ ] D) No se puede determinar <!-- feedback: Incorrecto. Por propiedades de parábolas cóncavas hacia abajo, el máximo se halla con total precisión. -->
 
 ### Explicacion Pedagogica

@@ -49,9 +49,9 @@ Los métodos clásicos para resolver sistemas de ecuaciones de $2 \times 2$ son 
 Gráficamente, ¿qué representa la solución de un sistema de dos ecuaciones lineales con dos incógnitas?
 
 ### Opciones
-- [x] A) El punto de intersección de las dos rectas. <!-- feedback: Correcto. Si las rectas se cruzan, ese punto satisface ambas ecuaciones. -->
-- [ ] B) El área sombreada entre las dos rectas. <!-- feedback: Eso correspondería a un sistema de inecuaciones. -->
-- [ ] C) La suma de las pendientes de ambas rectas. <!-- feedback: La suma de pendientes no define la solución del sistema. -->
+- [x] C) El punto de intersección de las dos rectas. <!-- feedback: Correcto. Si las rectas se cruzan, ese punto satisface ambas ecuaciones. -->
+- [ ] A) El área sombreada entre las dos rectas. <!-- feedback: Eso correspondería a un sistema de inecuaciones. -->
+- [ ] B) La suma de las pendientes de ambas rectas. <!-- feedback: La suma de pendientes no define la solución del sistema. -->
 - [ ] D) El intercepto con el eje Y de la primera recta. <!-- feedback: Eso solo describe una característica de una de las ecuaciones, no la solución conjunta. -->
 
 ### Explicacion Pedagogica
@@ -70,8 +70,8 @@ $x + y = 10$
 $x - y = 4$
 
 ### Opciones
-- [ ] A) $x=5, y=5$ <!-- feedback: La resta $5-5$ da 0, no 4. -->
-- [x] B) $x=7, y=3$ <!-- feedback: $7+3=10$ y $7-3=4$. Ambos valores cumplen las ecuaciones. -->
+- [ ] B) $x=5, y=5$ <!-- feedback: La resta $5-5$ da 0, no 4. -->
+- [x] A) $x=7, y=3$ <!-- feedback: $7+3=10$ y $7-3=4$. Ambos valores cumplen las ecuaciones. -->
 - [ ] C) $x=6, y=4$ <!-- feedback: La resta $6-4$ da 2, no 4. -->
 - [ ] D) $x=8, y=2$ <!-- feedback: La resta $8-2$ da 6, no 4. -->
 
@@ -89,9 +89,9 @@ Usando el método de reducción: sumamos ambas ecuaciones para eliminar $y$. $(x
 ¿Cuántas soluciones tiene un sistema si, al graficarlo, resultan dos rectas paralelas distintas?
 
 ### Opciones
-- [x] A) No tiene solución. <!-- feedback: Las rectas paralelas no se cortan nunca, por lo que no hay punto común. -->
-- [ ] B) Tiene una única solución. <!-- feedback: Esto solo ocurre si las rectas tienen distinta pendiente y se cortan. -->
-- [ ] C) Tiene infinitas soluciones. <!-- feedback: Esto ocurre si las rectas son coincidentes (la misma recta). -->
+- [x] C) No tiene solución. <!-- feedback: Las rectas paralelas no se cortan nunca, por lo que no hay punto común. -->
+- [ ] A) Tiene una única solución. <!-- feedback: Esto solo ocurre si las rectas tienen distinta pendiente y se cortan. -->
+- [ ] B) Tiene infinitas soluciones. <!-- feedback: Esto ocurre si las rectas son coincidentes (la misma recta). -->
 - [ ] D) Tiene dos soluciones. <!-- feedback: Un sistema lineal de $2 \times 2$ nunca tiene exactamente dos soluciones. -->
 
 ### Explicacion Pedagogica
@@ -109,8 +109,8 @@ Si representamos el precio de las manzanas como $x$ y el de las peras como $y$, 
 
 ### Opciones
 - [ ] A) $x + y = 5.500$ <!-- feedback: Falta considerar las cantidades de cada fruta. -->
-- [x] B) $2x + 3y = 5.500$ <!-- feedback: El costo total es la suma de los productos de cantidad por precio. -->
-- [ ] C) $3x + 2y = 5.500$ <!-- feedback: Invertiste las variables de manzanas y peras. -->
+- [x] C) $2x + 3y = 5.500$ <!-- feedback: El costo total es la suma de los productos de cantidad por precio. -->
+- [ ] B) $3x + 2y = 5.500$ <!-- feedback: Invertiste las variables de manzanas y peras. -->
 - [ ] D) $5(x + y) = 5.500$ <!-- feedback: Esto supondría que ambas frutas tienen el mismo precio. -->
 
 ### Explicacion Pedagogica
@@ -131,8 +131,8 @@ $3x + y = 14$
 
 ### Opciones
 - [ ] A) $3x + 2x = 14$ <!-- feedback: Olvidaste el término $-1$ de la expresión de $y$. -->
-- [x] B) $3x + (2x - 1) = 14$ <!-- feedback: Se reemplaza la variable $y$ por su expresión equivalente. -->
-- [ ] C) $3x - (2x - 1) = 14$ <!-- feedback: El signo de la variable $y$ en la segunda ecuación es positivo. -->
+- [x] C) $3x + (2x - 1) = 14$ <!-- feedback: Se reemplaza la variable $y$ por su expresión equivalente. -->
+- [ ] B) $3x - (2x - 1) = 14$ <!-- feedback: El signo de la variable $y$ en la segunda ecuación es positivo. -->
 - [ ] D) $5x - 1 = 14$ <!-- feedback: Aunque es el resultado simplificado, no es la sustitución directa solicitada. -->
 
 ### Explicacion Pedagogica
@@ -225,8 +225,8 @@ Un sistema tiene infinitas soluciones cuando las dos ecuaciones representan la m
 ¿Cuáles son los números?
 
 ### Opciones
-- [ ] A) 30 y 15 <!-- feedback: La diferencia es 15, no 11. -->
-- [x] B) 28 y 17 <!-- feedback: $28+17=45$ y $28-17=11$. -->
+- [ ] B) 30 y 15 <!-- feedback: La diferencia es 15, no 11. -->
+- [x] A) 28 y 17 <!-- feedback: $28+17=45$ y $28-17=11$. -->
 - [ ] C) 26 y 19 <!-- feedback: La diferencia es 7, no 11. -->
 - [ ] D) 29 y 16 <!-- feedback: La suma es 45, pero la diferencia es 13. -->
 
@@ -246,9 +246,9 @@ $2x + 3y = 8$
 $3x - 2y = -1$
 
 ### Opciones
-- [x] A) $x=1, y=2$ <!-- feedback: $2(1)+3(2)=2+6=8$; $3(1)-2(2)=3-4=-1$. -->
-- [ ] B) $x=2, y=1$ <!-- feedback: $2(2)+3(1)=7 \neq 8$. -->
-- [ ] C) $x=1, y=1$ <!-- feedback: $2(1)+3(1)=5 \neq 8$. -->
+- [x] C) $x=1, y=2$ <!-- feedback: $2(1)+3(2)=2+6=8$; $3(1)-2(2)=3-4=-1$. -->
+- [ ] A) $x=2, y=1$ <!-- feedback: $2(2)+3(1)=7 \neq 8$. -->
+- [ ] B) $x=1, y=1$ <!-- feedback: $2(1)+3(1)=5 \neq 8$. -->
 - [ ] D) $x=2, y=2$ <!-- feedback: $2(2)+3(2)=10 \neq 8$. -->
 
 ### Explicacion Pedagogica
@@ -269,9 +269,9 @@ Se quiere obtener 10 kg de mezcla a \$6.800/kg. ¿Cuántos kg de café tipo A se
 
 ### Opciones
 - [ ] A) 4 kg <!-- feedback: $(4 \cdot 8.000 + 6 \cdot 5.000) / 10 = 62.000 / 10 = 6.200$. -->
-- [x] B) 6 kg <!-- feedback: $(6 \cdot 8.000 + 4 \cdot 5.000) / 10 = 68.000 / 10 = 6.800$. -->
-- [ ] C) 5 kg <!-- feedback: El promedio simple sería 6.500. -->
-- [ ] D) 7 kg <!-- feedback: $(7 \cdot 8.000 + 3 \cdot 5.000) / 10 = 71.000 / 10 = 7.100$. -->
+- [x] D) 6 kg <!-- feedback: $(6 \cdot 8.000 + 4 \cdot 5.000) / 10 = 68.000 / 10 = 6.800$. -->
+- [ ] B) 5 kg <!-- feedback: El promedio simple sería 6.500. -->
+- [ ] C) 7 kg <!-- feedback: $(7 \cdot 8.000 + 3 \cdot 5.000) / 10 = 71.000 / 10 = 7.100$. -->
 
 ### Explicacion Pedagogica
 (1) $A+B=10$; (2) $8.000A + 5.000B = 6.800 \cdot 10 = 68.000$. De (1), $B = 10-A$. Sustituimos en (2): $8.000A + 5.000(10-A) = 68.000 \Rightarrow 8.000A + 50.000 - 5.000A = 68.000 \Rightarrow 3.000A = 18.000 \Rightarrow A=6$.
@@ -326,8 +326,8 @@ Para que el punto de corte sea (3,0), al sustituir $x=3$ en ambas ecuaciones, $y
 
 ### Opciones
 - [ ] A) 35 años <!-- feedback: Revisar las condiciones de tiempo. -->
-- [x] B) 41 años <!-- feedback: Sean $P=41, H=17$. Hace 5: $36 = 3 \cdot 12$. En 7: $48 = 2 \cdot 24$. Cumple ambas. -->
-- [ ] C) 45 años <!-- feedback: No cumple con la relación de hace 5 años. -->
+- [x] C) 41 años <!-- feedback: Sean $P=41, H=17$. Hace 5: $36 = 3 \cdot 12$. En 7: $48 = 2 \cdot 24$. Cumple ambas. -->
+- [ ] B) 45 años <!-- feedback: No cumple con la relación de hace 5 años. -->
 - [ ] D) 38 años <!-- feedback: Error al plantear o resolver las ecuaciones de edades. -->
 
 ### Explicacion Pedagogica
@@ -367,8 +367,8 @@ $1/x - 1/y = 1/6$
 
 ### Opciones
 - [ ] A) 3 <!-- feedback: Este es el valor de $y$. -->
-- [x] B) 2 <!-- feedback: $1/x + 1/y = 5/6$; $1/x - 1/y = 1/6 \Rightarrow 2/x = 1 \Rightarrow x=2$. -->
-- [ ] C) 6 <!-- feedback: Error en el manejo de las fracciones inversas. -->
+- [x] C) 2 <!-- feedback: $1/x + 1/y = 5/6$; $1/x - 1/y = 1/6 \Rightarrow 2/x = 1 \Rightarrow x=2$. -->
+- [ ] B) 6 <!-- feedback: Error en el manejo de las fracciones inversas. -->
 - [ ] D) 4 <!-- feedback: Error aritmético en el despeje final de $x$. -->
 
 ### Explicacion Pedagogica
@@ -386,8 +386,8 @@ Las posiciones de dos móviles son $x_1 = 20 + 5t$ y $x_2 = 100 - 3t$. ¿En qué
 
 ### Opciones
 - [ ] A) $t = 8$ <!-- feedback: $x_1 = 60, x_2 = 76$. No coinciden. -->
-- [x] B) $t = 10$ <!-- feedback: $20 + 5(10) = 70$; $100 - 3(10) = 70$. Coinciden. -->
-- [ ] C) $t = 12$ <!-- feedback: $x_1 = 80, x_2 = 64$. No coinciden. -->
+- [x] C) $t = 10$ <!-- feedback: $20 + 5(10) = 70$; $100 - 3(10) = 70$. Coinciden. -->
+- [ ] B) $t = 12$ <!-- feedback: $x_1 = 80, x_2 = 64$. No coinciden. -->
 - [ ] D) $t = 15$ <!-- feedback: Error en el planteamiento de la igualdad de posición. -->
 
 ### Explicacion Pedagogica
@@ -404,8 +404,8 @@ El encuentro ocurre cuando $x_1 = x_2$. Igualamos las expresiones: $20 + 5t = 10
 Si en un sistema de $2 \times 2$ obtenemos $0 = 7$ durante el proceso de resolución, ¿cuál es la interpretación correcta?
 
 ### Opciones
-- [ ] A) El sistema tiene una solución única donde $x=0$. <!-- feedback: El resultado $0=7$ es una contradicción, no un valor de variable. -->
-- [x] B) El sistema no tiene solución (rectas paralelas). <!-- feedback: La contradicción indica que ningún punto satisface ambas ecuaciones a la vez. -->
+- [ ] B) El sistema tiene una solución única donde $x=0$. <!-- feedback: El resultado $0=7$ es una contradicción, no un valor de variable. -->
+- [x] A) El sistema no tiene solución (rectas paralelas). <!-- feedback: La contradicción indica que ningún punto satisface ambas ecuaciones a la vez. -->
 - [ ] C) El sistema tiene infinitas soluciones. <!-- feedback: Eso ocurriría si obtuviéramos una identidad como $0=0$. -->
 - [ ] D) Los datos del problema son insuficientes. <!-- feedback: El resultado $0=7$ es una respuesta matemática definitiva sobre la inexistencia de soluciones. -->
 

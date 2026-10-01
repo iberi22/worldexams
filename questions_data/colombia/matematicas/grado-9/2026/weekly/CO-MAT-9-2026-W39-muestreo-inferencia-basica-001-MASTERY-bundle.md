@@ -32,9 +32,9 @@ Este bundle contiene 12 preguntas sobre **muestreo-inferencia-basica** para grad
 ### Enunciado
 En estadistica, ¿como se denomina el conjunto completo de habitantes de Bogota sobre el cual se quiere obtener informacion?
 ### Opciones
-- [x] A) Poblacion
+- [x] B) Poblacion
   <!-- feedback: Correcto. La poblacion es el conjunto total de individuos sobre el que se desea investigar. -->
-- [ ] B) Muestra
+- [ ] A) Muestra
   <!-- feedback: Incorrecto. La muestra es solo una parte seleccionada de la poblacion. -->
 - [ ] C) Variable
   <!-- feedback: Incorrecto. Una variable es la caracteristica que se mide, no el conjunto de individuos. -->
@@ -54,11 +54,11 @@ La poblacion estadistica es la totalidad de elementos que comparten una caracter
 ### Opciones
 - [ ] A) Porque la encuesta se realizo por telefono
   <!-- feedback: Incorrecto. El medio de la encuesta no define si es muestra o poblacion. -->
-- [x] B) Porque fueron elegidas del total de habitantes de Medellin, no incluye a todos
+- [x] D) Porque fueron elegidas del total de habitantes de Medellin, no incluye a todos
   <!-- feedback: Correcto. Una muestra es un subconjunto representativo de la poblacion total. -->
-- [ ] C) Porque 800 es un numero pequeno de personas
+- [ ] B) Porque 800 es un numero pequeno de personas
   <!-- feedback: Incorrecto. Una muestra puede ser grande; lo que la define es no incluir a toda la poblacion. -->
-- [ ] D) Porque las personas dieron su opinion voluntariamente
+- [ ] C) Porque las personas dieron su opinion voluntariamente
   <!-- feedback: Incorrecto. La voluntariedad no convierte al grupo en muestra ni en poblacion. -->
 ### Explicacion Pedagogica
 La muestra es cualquier subconjunto de la poblacion del cual se recogen datos. Aunque se encuesten 800 personas, siguen siendo solo una parte de los habitantes de Medellin.
@@ -92,11 +92,11 @@ En el muestreo aleatorio simple todos los individuos tienen la misma probabilida
 ### Enunciado
 Cual es la proporcion estimada de personas que apoyan la jornada gratuita en esa encuesta?
 ### Opciones
-- [ ] A) 0,35
+- [ ] B) 0,35
   <!-- feedback: Incorrecto. Usaste 350 como numerador sin dividir entre el total 500. -->
-- [ ] B) 0,55
+- [ ] C) 0,55
   <!-- feedback: Incorrecto. Calculaste la proporcion de quienes no apoyan, no la de quienes si. -->
-- [x] C) 0,70
+- [x] A) 0,70
   <!-- feedback: Correcto. 350 / 500 = 0,70, es decir el 70% apoya la jornada. -->
 - [ ] D) 0,85
   <!-- feedback: Incorrecto. Sobrestimaste la proporcion al sumar indebidamente. -->
@@ -112,9 +112,9 @@ La proporcion muestral p = (numero de exitos) / (tamano de la muestra) = 350 / 5
 ### Enunciado
 Cual es el intervalo de seleccion k que debe aplicarse cada vez para tomar la muestra sistematica?
 ### Opciones
-- [ ] A) 10
+- [ ] B) 10
   <!-- feedback: Incorrecto. 60 / 1200 da 0,05; ese es el intervalo, no 10. -->
-- [x] B) 20
+- [x] A) 20
   <!-- feedback: Correcto. k = 1200 / 60 = 20. Se elige un numero al azar entre 1 y 20 y luego se suma 20. -->
 - [ ] C) 60
   <!-- feedback: Incorrecto. Confundiste el tamano de la muestra con el intervalo. -->
@@ -136,9 +136,9 @@ Que tipo de muestreo se esta aplicando en Barranquilla?
   <!-- feedback: Incorrecto. El aleatorio simple no usa grupos previos como los estratos socioeconomicos. -->
 - [ ] B) Sistematico
   <!-- feedback: Incorrecto. El sistematico usa intervalos fijos, no division por estratos. -->
-- [x] C) Estratificado
+- [x] D) Estratificado
   <!-- feedback: Correcto. Se forman estratos (niveles socioeconomicos) y se toma muestra dentro de cada uno. -->
-- [ ] D) Por conglomerados
+- [ ] C) Por conglomerados
   <!-- feedback: Incorrecto. Los conglomerados son unidades geograficas como barrios, no niveles socioeconomicos. -->
 ### Explicacion Pedagogica
 El muestreo estratificado divide la poblacion en subgrupos homogeneos internos (estratos) y luego toma muestras dentro de cada uno, garantizando representacion de todos los grupos.
@@ -152,11 +152,11 @@ El muestreo estratificado divide la poblacion en subgrupos homogeneos internos (
 ### Enunciado
 Que tipo de sesgo presenta principalmente esa encuesta?
 ### Opciones
-- [ ] A) Sesgo de respuesta aleatoria
+- [ ] B) Sesgo de respuesta aleatoria
   <!-- feedback: Incorrecto. El sesgo aleatorio no es un tipo reconocido; lo que preocupa aqui es la falta de representatividad. -->
-- [ ] B) Sesgo por falta de datos
+- [ ] C) Sesgo por falta de datos
   <!-- feedback: Incorrecto. Hubo datos, el problema es a quienes representan. -->
-- [x] C) Sesgo de seleccion, porque excluye a la mayoria de la poblacion
+- [x] A) Sesgo de seleccion, porque excluye a la mayoria de la poblacion
   <!-- feedback: Correcto. Al restringir por zona y por nivel socioeconomico se deja fuera a la mayoria, lo que introduce sesgo de seleccion. -->
 - [ ] D) Sesgo de memoria
   <!-- feedback: Incorrecto. El sesgo de memoria se da cuando el encuestado no recuerda con precision. -->
@@ -172,11 +172,11 @@ El sesgo de seleccion ocurre cuando el procedimiento de muestreo favorece o excl
 ### Enunciado
 Cual de las dos estrategias permite estimaciones mas confiables si se sospecha que la opinion varia mucho entre facultades?
 ### Opciones
-- [ ] A) Las dos son igualmente eficientes siempre
+- [ ] B) Las dos son igualmente eficientes siempre
   <!-- feedback: Incorrecto. Cuando hay heterogeneidad entre subgrupos, el muestreo aleatorio simple puede no representar bien a cada carrera. -->
-- [ ] B) La totalmente al azar, porque es mas simple
+- [ ] C) La totalmente al azar, porque es mas simple
   <!-- feedback: Incorrecto. La simplicidad no garantiza precision cuando hay variabilidad entre facultades. -->
-- [x] C) El muestreo por facultades, porque asegura representacion de cada carrera
+- [x] A) El muestreo por facultades, porque asegura representacion de cada carrera
   <!-- feedback: Correcto. El muestreo estratificado reduce la varianza cuando los estratos son internamente homogeneos y diferentes entre si. -->
 - [ ] D) Ninguna sirve; mejor entrevistar a todos
   <!-- feedback: Incorrecto. Eficientemente, una muestra estratificada bien hecha suele superar al aleatorio simple en precision. -->
@@ -216,9 +216,9 @@ Que relacion existe entre el tamano de la muestra y el margen de error, segun es
   <!-- feedback: Incorrecto. La relacion observada es la opuesta. -->
 - [ ] B) El margen de error no depende del tamano de la muestra
   <!-- feedback: Incorrecto. El margen de error claramente cambia al variar la muestra. -->
-- [x] C) A mayor tamano de muestra, menor margen de error
+- [x] D) A mayor tamano de muestra, menor margen de error
   <!-- feedback: Correcto. Al multiplicar por 4 la muestra, el margen se reduce aproximadamente a la mitad. -->
-- [ ] D) El margen de error solo depende del nivel de confianza, no del tamano
+- [ ] C) El margen de error solo depende del nivel de confianza, no del tamano
   <!-- feedback: Incorrecto. El tamano muestral es un factor determinante del margen de error. -->
 ### Explicacion Pedagogica
 El margen de error disminuye cuando crece el tamano de la muestra, aproximadamente en proporcion a 1 sobre raiz de n. Pasar de 250 a 1000 (4 veces mas) reduce el error a la mitad.
@@ -254,9 +254,9 @@ Que lectura critica es la mas acertada frente a ese titular?
 ### Opciones
 - [ ] A) La candidata Y esta ganando claramente la intencion de voto
   <!-- feedback: Incorrecto. Los intervalos se solapan, por lo cual la diferencia no es estadisticamente significativa. -->
-- [ ] B) El candidato Z en realidad va ganando porque tiene menor porcentaje
+- [ ] C) El candidato Z en realidad va ganando porque tiene menor porcentaje
   <!-- feedback: Incorrecto. Un porcentaje menor no se convierte en ventaja; lo relevante es el solapamiento de los intervalos. -->
-- [x] C) Con esos datos, no es posible afirmar que un candidato supere al otro
+- [x] B) Con esos datos, no es posible afirmar que un candidato supere al otro
   <!-- feedback: Correcto. Como los intervalos de confianza se cruzan, la diferencia podria explicarse por el azar del muestreo. -->
 - [ ] D) La encuesta es defectuosa y debe descartarse
   <!-- feedback: Incorrecto. La metodologia puede ser valida, solo que la diferencia no es estadisticamente significativa. -->

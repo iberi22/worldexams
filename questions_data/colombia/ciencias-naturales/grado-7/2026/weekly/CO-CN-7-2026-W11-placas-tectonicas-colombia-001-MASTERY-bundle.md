@@ -52,9 +52,9 @@ La deriva continental explica por qué las costas de Sudamérica y África encaj
 ### Opciones
 - [ ] A) Porque los volcanes nacen por la basura acumulada en las calles de Pasto y Manizales.
   <!-- feedback: Incorrecta, porque la basura no genera magma ni cámaras magmáticas profundas. -->
-- [x] B) Porque la placa oceánica bajo el Pacífico se hunde bajo la placa Sudamericana y funde roca que sube como magma.
+- [x] C) Porque la placa oceánica bajo el Pacífico se hunde bajo la placa Sudamericana y funde roca que sube como magma.
   <!-- feedback: Correcta, porque describe la subducción que alimenta el arco volcánico de los Andes colombianos. -->
-- [ ] C) Porque los volcanes son cerros pintados por artistas para atraer turistas a Nariño y Caldas.
+- [ ] B) Porque los volcanes son cerros pintados por artistas para atraer turistas a Nariño y Caldas.
   <!-- feedback: Incorrecta, porque los volcanes son estructuras geológicas con cráter y magma real. -->
 - [ ] D) Porque en Colombia llueve mucho y la lluvia crea lava dentro de las montañas.
   <!-- feedback: Incorrecta, porque la lluvia no produce magma, que se forma por calor y presión interna. -->
@@ -70,9 +70,9 @@ Colombia está sobre el borde donde la placa de Nazca se hunde bajo Sudamérica.
 ### Enunciado
 ¿Cómo se aplica el concepto de cinturón de fuego para explicar el riesgo en la costa de Nariño?
 ### Opciones
-- [ ] A) Nariño está lejos del cinturón porque el cinturón solo incluye islas de Asia y no toca a Colombia.
+- [ ] B) Nariño está lejos del cinturón porque el cinturón solo incluye islas de Asia y no toca a Colombia.
   <!-- feedback: Incorrecta, porque la costa pacífica colombiana hace parte del borde activo del cinturón. -->
-- [x] B) Nariño está dentro del cinturón porque su costa está sobre la zona de subducción donde chocan placas y hay sismos y volcanes.
+- [x] A) Nariño está dentro del cinturón porque su costa está sobre la zona de subducción donde chocan placas y hay sismos y volcanes.
   <!-- feedback: Correcta, porque ubica a Tumaco sobre el borde convergente del Pacífico con actividad frecuente. -->
 - [ ] C) Nariño no tiene riesgo porque el cinturón de fuego es un adorno artístico de los mapas escolares.
   <!-- feedback: Incorrecta, porque el cinturón representa bordes reales de placas con sismos históricos en Tumaco. -->
@@ -90,13 +90,13 @@ El cinturón de fuego es el conjunto de bordes del Pacífico donde se hunde cort
 ### Enunciado
 ¿Cuál es la diferencia entre el sismo sentido en Manizales y la emisión de ceniza del Ruiz?
 ### Opciones
-- [x] A) El sismo es la liberación súbita de energía por ruptura de rocas y la emisión es salida de material magmático por el volcán.
+- [x] D) El sismo es la liberación súbita de energía por ruptura de rocas y la emisión es salida de material magmático por el volcán.
   <!-- feedback: Correcta, porque distingue fractura y ondas sísmicas de erupción con ceniza y gases. -->
-- [ ] B) Ambos son lo mismo porque todo temblor produce siempre una erupción con lava en la misma hora.
+- [ ] A) Ambos son lo mismo porque todo temblor produce siempre una erupción con lava en la misma hora.
   <!-- feedback: Incorrecta, porque muchos sismos son tectónicos sin erupción y muchas emisiones ocurren sin gran sismo. -->
-- [ ] C) El sismo es un sonido de camiones en la vía y la ceniza es polvo de construcción de edificios.
+- [ ] B) El sismo es un sonido de camiones en la vía y la ceniza es polvo de construcción de edificios.
   <!-- feedback: Incorrecta, porque confunde fuentes urbanas con procesos geológicos profundos. -->
-- [ ] D) La emisión de ceniza ocurre en el mar y el sismo solo ocurre en los desiertos fuera de Caldas.
+- [ ] C) La emisión de ceniza ocurre en el mar y el sismo solo ocurre en los desiertos fuera de Caldas.
   <!-- feedback: Incorrecta, porque el Ruiz es un volcán continental y los sismos ocurren en todo Caldas. -->
 ### Explicacion Pedagogica
 Aplicar los conceptos evita confusiones en Manizales. El sismo viaja como ondas por la ruptura de una falla, mientras la erupción expulsa fragmentos y gases del conducto volcánico. Pueden coincidir, pero son fenómenos distintos.
@@ -132,9 +132,9 @@ El modelo de espuma muestra convergencia: compresión, arrugamiento y cabalgamie
 ### Opciones
 - [ ] A) La ceniza tapó el Sol y el frío congeló el pueblo porque el Ruiz está en el polo norte.
   <!-- feedback: Incorrecta, porque Armero fue destruido por flujo de lodo caliente y no por congelamiento polar. -->
-- [x] B) El calor eruptivo fundió parte del glaciar, el agua mezclada con ceniza formó lahares que bajaron por los ríos hasta Armero.
+- [x] C) El calor eruptivo fundió parte del glaciar, el agua mezclada con ceniza formó lahares que bajaron por los ríos hasta Armero.
   <!-- feedback: Correcta, porque conecta erupción, fusión glaciar y flujo por los cauces del Lagunilla y el Azufrado. -->
-- [ ] C) El volcán se trasladó caminando hasta Armero y aplastó las casas con sus pies de roca.
+- [ ] B) El volcán se trasladó caminando hasta Armero y aplastó las casas con sus pies de roca.
   <!-- feedback: Incorrecta, porque los volcanes no caminan; lo que viajó fue el lahar por los ríos. -->
 - [ ] D) Un terremoto en Japón envió una ola gigante que cruzó el Pacífico y llegó al Tolima.
   <!-- feedback: Incorrecta, porque Armero está en el interior andino y fue alcanzado por lahares, no por un tsunami. -->
@@ -170,9 +170,9 @@ En subducción, la placa superior se deforma y al romperse salta verticalmente. 
 ### Enunciado
 ¿Qué comparación entre bordes permite ubicar mejor el caso colombiano frente a Tumaco?
 ### Opciones
-- [ ] A) Colombia es divergente porque en Tumaco nace corteza nueva en medio del océano como en Islandia.
+- [ ] B) Colombia es divergente porque en Tumaco nace corteza nueva en medio del océano como en Islandia.
   <!-- feedback: Incorrecta, porque frente a Tumaco las placas convergen y una se hunde, no se separan. -->
-- [x] B) Colombia es convergente con subducción porque hay fosa oceánica, sismos profundos y arco volcánico, a diferencia de bordes que solo se rozan.
+- [x] A) Colombia es convergente con subducción porque hay fosa oceánica, sismos profundos y arco volcánico, a diferencia de bordes que solo se rozan.
   <!-- feedback: Correcta, porque reúne las tres evidencias que distinguen la subducción del Pacífico colombiano. -->
 - [ ] C) Colombia no tiene bordes porque está en el centro exacto de una placa sin fallas ni volcanes.
   <!-- feedback: Incorrecta, porque el occidente colombiano concentra fallas, sismos y volcanes del borde andino. -->
@@ -190,9 +190,9 @@ Comparar bordes exige buscar huellas. La fosa frente a Nariño, los sismos cada 
 ### Enunciado
 ¿Cómo se evalúa la propuesta de construir el colegio sobre el cauce antiguo bajo el Ruiz?
 ### Opciones
-- [ ] A) Es excelente porque los cauces antiguos nunca vuelven a usarse y el ahorro en transporte elimina el riesgo volcánico.
+- [ ] B) Es excelente porque los cauces antiguos nunca vuelven a usarse y el ahorro en transporte elimina el riesgo volcánico.
   <!-- feedback: Incorrecta, porque los lahares reutilizan los mismos cauces y el ahorro no reduce la amenaza. -->
-- [x] B) Es inaceptable porque expone a los niños a lahares probados en la historia y se debe reubicar fuera del cauce con estudio técnico.
+- [x] A) Es inaceptable porque expone a los niños a lahares probados en la historia y se debe reubicar fuera del cauce con estudio técnico.
   <!-- feedback: Correcta, porque prioriza la vida y exige ordenamiento basado en mapas de amenaza del Ruiz. -->
 - [ ] C) Es aceptable si se pinta el colegio de colores vivos para que el lahar lo esquive al bajar.
   <!-- feedback: Incorrecta, porque el color no desvía flujos de lodo de miles de toneladas. -->

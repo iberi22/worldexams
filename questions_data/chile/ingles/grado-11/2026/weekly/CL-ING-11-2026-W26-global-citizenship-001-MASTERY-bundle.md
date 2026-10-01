@@ -36,8 +36,8 @@ Global citizenship is the idea that one's identity transcends geography or polit
 
 ### Opciones
 - [ ] A) stays within <!-- feedback: Incorrect. Global citizenship goes beyond borders. -->
-- [x] B) transcends <!-- feedback: Correct. Transcends means to go beyond the range or limits of. -->
-- [ ] C) obeys <!-- feedback: Incorrect. While laws are obeyed, the 'identity' is what transcends. -->
+- [x] C) transcends <!-- feedback: Correct. Transcends means to go beyond the range or limits of. -->
+- [ ] B) obeys <!-- feedback: Incorrect. While laws are obeyed, the 'identity' is what transcends. -->
 - [ ] D) ignores <!-- feedback: Incorrect. It recognizes borders but places identity beyond them. -->
 
 ### Explicacion Pedagogica
@@ -115,8 +115,8 @@ Cosmopolitanism is the ideology that all human beings belong to a single communi
 Civic engagement involves individual and collective actions designed to identify and address issues of public concern.
 
 ### Opciones
-- [ ] A) private <!-- feedback: Incorrect. Focus is on 'public' concern. -->
-- [x] B) public <!-- feedback: Correct. Civic engagement is about the community and society. -->
+- [ ] B) private <!-- feedback: Incorrect. Focus is on 'public' concern. -->
+- [x] A) public <!-- feedback: Correct. Civic engagement is about the community and society. -->
 - [ ] C) secret <!-- feedback: Incorrect. Usually involves open participation. -->
 - [ ] D) trivial <!-- feedback: Incorrect. Issues addressed are usually important. -->
 
@@ -136,8 +136,8 @@ An NGO is a non-profit organization that operates independently of any governmen
 
 ### Opciones
 - [ ] A) Agency <!-- feedback: Incorrect. Agencies are often government-run. -->
-- [x] B) NGO <!-- feedback: Correct. Non-Governmental Organization. -->
-- [ ] C) Corporation <!-- feedback: Incorrect. A corporation is usually for-profit. -->
+- [x] C) NGO <!-- feedback: Correct. Non-Governmental Organization. -->
+- [ ] B) Corporation <!-- feedback: Incorrect. A corporation is usually for-profit. -->
 - [ ] D) Embassy <!-- feedback: Incorrect. An embassy is a government office abroad. -->
 
 ### Explicacion Pedagogica
@@ -155,9 +155,9 @@ An NGO is a non-profit organization that operates independently of any governmen
 It is recommended that students learn about different cultures to foster global understanding.
 
 ### Opciones
-- [x] A) learn <!-- feedback: Correct. Subjunctive base form after 'recommended'. -->
-- [ ] B) learns <!-- feedback: Incorrect. Third person singular not used in formal subjunctive. -->
-- [ ] C) to learn <!-- feedback: Incorrect. Doesn't fit 'that' clause. -->
+- [x] C) learn <!-- feedback: Correct. Subjunctive base form after 'recommended'. -->
+- [ ] A) learns <!-- feedback: Incorrect. Third person singular not used in formal subjunctive. -->
+- [ ] B) to learn <!-- feedback: Incorrect. Doesn't fit 'that' clause. -->
 - [ ] D) learning <!-- feedback: Incorrect. Gerund. -->
 
 ### Explicacion Pedagogica
@@ -196,8 +196,8 @@ He had been volunteering for the Red Cross for two years before he was hired as 
 
 ### Opciones
 - [ ] A) was volunteering <!-- feedback: Incorrect. Past continuous doesn't emphasize duration as well here. -->
-- [x] B) had been volunteering <!-- feedback: Correct. Past perfect continuous for duration before a past point. -->
-- [ ] C) has been volunteering <!-- feedback: Incorrect. Present perfect continuous. -->
+- [x] C) had been volunteering <!-- feedback: Correct. Past perfect continuous for duration before a past point. -->
+- [ ] B) has been volunteering <!-- feedback: Incorrect. Present perfect continuous. -->
 - [ ] D) volunteered <!-- feedback: Incorrect. Past simple. -->
 
 ### Explicacion Pedagogica
@@ -216,8 +216,8 @@ Ethnocentrism is the tendency to view one's own culture as superior and to judge
 
 ### Opciones
 - [ ] A) equality <!-- feedback: Incorrect. Based on superiority. -->
-- [x] B) superior <!-- feedback: Correct. Superiority is the belief that one's culture is better than others. -->
-- [ ] C) inferior <!-- feedback: Incorrect. Judge others as inferior, but view *one's own* as superior. -->
+- [x] C) superior <!-- feedback: Correct. Superiority is the belief that one's culture is better than others. -->
+- [ ] B) inferior <!-- feedback: Incorrect. Judge others as inferior, but view *one's own* as superior. -->
 - [ ] D) neutral <!-- feedback: Incorrect. It is a biased view. -->
 
 ### Explicacion Pedagogica
@@ -236,8 +236,8 @@ Empathy is a key component of global citizenship, as it allows us to understand 
 
 ### Opciones
 - [ ] A) Apathy <!-- feedback: Incorrect. Lack of interest. -->
-- [x] B) Empathy <!-- feedback: Correct. Ability to understand others. -->
-- [ ] C) Envy <!-- feedback: Incorrect. Jealousy. -->
+- [x] C) Empathy <!-- feedback: Correct. Ability to understand others. -->
+- [ ] B) Envy <!-- feedback: Incorrect. Jealousy. -->
 - [ ] D) Greed <!-- feedback: Incorrect. Selfish desire. -->
 
 ### Explicacion Pedagogica
@@ -256,9 +256,9 @@ Migrants whose safety is at risk have the right to seek asylum in other countrie
 
 ### Opciones
 - [ ] A) who <!-- feedback: Incorrect. Subject pronoun. -->
-- [x] B) whose <!-- feedback: Correct. Possessive relative pronoun for 'migrants' safety'. -->
-- [ ] C) that <!-- feedback: Incorrect. -->
-- [ ] D) which <!-- feedback: Incorrect. -->
+- [x] D) whose <!-- feedback: Correct. Possessive relative pronoun for 'migrants' safety'. -->
+- [ ] B) that <!-- feedback: Incorrect. -->
+- [ ] C) which <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
 'Whose' is used to show possession, linking the migrants to the safety that is at risk.
@@ -295,8 +295,8 @@ Social justice is the view that everyone deserves equal economic, political, and
 You shouldn't judge cultural practices unless you understand the context in which they developed.
 
 ### Opciones
-- [ ] A) if <!-- feedback: Incorrect. 'If you understand' would mean don't judge if you *do* understand. -->
-- [x] B) unless <!-- feedback: Correct. 'Unless' means 'if not'. -->
+- [ ] B) if <!-- feedback: Incorrect. 'If you understand' would mean don't judge if you *do* understand. -->
+- [x] A) unless <!-- feedback: Correct. 'Unless' means 'if not'. -->
 - [ ] C) although <!-- feedback: Incorrect. Contrast. -->
 - [ ] D) whether <!-- feedback: Incorrect. Choice. -->
 
@@ -315,8 +315,8 @@ You shouldn't judge cultural practices unless you understand the context in whic
 The author concludes that being an active citizen means taking responsibility for the well-being of the entire global community.
 
 ### Opciones
-- [ ] A) ignoring <!-- feedback: Incorrect. Opposite of active. -->
-- [x] B) taking responsibility <!-- feedback: Correct. Implies active care and effort. -->
+- [ ] B) ignoring <!-- feedback: Incorrect. Opposite of active. -->
+- [x] A) taking responsibility <!-- feedback: Correct. Implies active care and effort. -->
 - [ ] C) avoiding <!-- feedback: Incorrect. Negative. -->
 - [ ] D) resenting <!-- feedback: Incorrect. Negative feeling. -->
 
@@ -336,9 +336,9 @@ A stereotype is a widely held but fixed and oversimplified image or idea of a pa
 
 ### Opciones
 - [ ] A) fact <!-- feedback: Incorrect. -->
-- [x] B) stereotype <!-- feedback: Correct. Oversimplified and often biased idea. -->
-- [ ] C) news <!-- feedback: Incorrect. -->
-- [ ] D) slogan <!-- feedback: Incorrect. -->
+- [x] D) stereotype <!-- feedback: Correct. Oversimplified and often biased idea. -->
+- [ ] B) news <!-- feedback: Incorrect. -->
+- [ ] C) slogan <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
 'Stereotype' is the term for the reductive generalizations made about groups of people.
@@ -396,8 +396,8 @@ The activist said that everyone had a role to play in protecting the environment
 
 ### Opciones
 - [ ] A) has <!-- feedback: Incorrect. Backshifted in reported speech. -->
-- [x] B) had <!-- feedback: Correct. Backshifted from 'has' to 'had'. -->
-- [ ] C) will have <!-- feedback: Incorrect. Future. -->
+- [x] C) had <!-- feedback: Correct. Backshifted from 'has' to 'had'. -->
+- [ ] B) will have <!-- feedback: Incorrect. Future. -->
 - [ ] D) have had <!-- feedback: Incorrect. Present perfect. -->
 
 ### Explicacion Pedagogica
@@ -415,10 +415,10 @@ In reported speech, we backshift the tense of the original statement to show it 
 Ultimately, our shared humanity is more significant than the national or cultural differences that divide us.
 
 ### Opciones
-- [x] A) humanity <!-- feedback: Correct. The quality of being human. -->
-- [ ] B) wealth <!-- feedback: Incorrect. Unrelated to the social point. -->
-- [ ] C) power <!-- feedback: Incorrect. Power often divides. -->
-- [ ] D) greed <!-- feedback: Incorrect. Negative. -->
+- [x] D) humanity <!-- feedback: Correct. The quality of being human. -->
+- [ ] A) wealth <!-- feedback: Incorrect. Unrelated to the social point. -->
+- [ ] B) power <!-- feedback: Incorrect. Power often divides. -->
+- [ ] C) greed <!-- feedback: Incorrect. Negative. -->
 
 ### Explicacion Pedagogica
 'Shared humanity' is the central concept in global citizenship that emphasizes commonality over division.

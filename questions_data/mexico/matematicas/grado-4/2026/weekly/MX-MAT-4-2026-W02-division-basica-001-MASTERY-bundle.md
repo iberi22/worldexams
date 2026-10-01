@@ -51,9 +51,9 @@ Repartir en partes iguales es el sentido básico de la división. Para calcular 
 ¿Qué operación confirma que la división es correcta?
 
 ### Opciones
-- [x] A) 8 × 7 = 56
+- [x] B) 8 × 7 = 56
   <!-- feedback: Multiplicar el cociente por el divisor debe recuperar el dividendo: 8 × 7 = 56. -->
-- [ ] B) 56 + 7 = 63
+- [ ] A) 56 + 7 = 63
   <!-- feedback: Sumar divisor y dividendo no guarda relación con el resultado de la división. -->
 - [ ] C) 56 − 8 = 48
   <!-- feedback: Restar el cociente al dividendo no comprueba una división. -->
@@ -73,13 +73,13 @@ Toda división exacta se comprueba con la multiplicación inversa: dividendo = c
 ¿Cuántas bolsitas se llenan?
 
 ### Opciones
-- [x] A) 14
+- [x] D) 14
   <!-- feedback: 84 ÷ 6 = 14; se puede pensar en 60 ÷ 6 = 10 y 24 ÷ 6 = 4, y sumar 10 + 4. -->
-- [ ] B) 12
+- [ ] A) 12
   <!-- feedback: 6 × 12 = 72; faltan 12 gomitas por empacar, así que hacen falta más bolsitas. -->
-- [ ] C) 16
+- [ ] B) 16
   <!-- feedback: 6 × 16 = 96, que es más de las 84 gomitas disponibles. -->
-- [ ] D) 13
+- [ ] C) 13
   <!-- feedback: 6 × 13 = 78 y sobrarían 6 gomitas que llenarían una bolsita más. -->
 
 ### Explicacion Pedagogica
@@ -95,13 +95,13 @@ Dividir una cantidad entre grupos de tamaño fijo da el número de grupos. Desco
 Si cada camión lleva 36 estudiantes, ¿cuántos camiones se necesitan para los 97 estudiantes y cuántos lugares sobran en el último camión?
 
 ### Opciones
-- [x] A) 3 camiones y sobran 11 lugares
+- [x] D) 3 camiones y sobran 11 lugares
   <!-- feedback: 97 ÷ 36 = 2 con residuo 25; como sobran 25 estudiantes, hace falta un tercer camión, que trae 25 pasajeros y quedan libres 36 − 25 = 11 lugares. -->
-- [ ] B) 2 camiones y sobran 25 estudiantes sin lugar
+- [ ] A) 2 camiones y sobran 25 estudiantes sin lugar
   <!-- feedback: Con 2 camiones solo caben 72; los 25 restantes necesitan un camión más. -->
-- [ ] C) 3 camiones y sobran 8 lugares
+- [ ] B) 3 camiones y sobran 8 lugares
   <!-- feedback: El tercer camión lleva 25 estudiantes, no 28; los lugares libres son 36 − 25 = 11. -->
-- [ ] D) 4 camiones y sobran 47 lugares
+- [ ] C) 4 camiones y sobran 47 lugares
   <!-- feedback: Un cuarto camión sería innecesario porque 3 camiones cubren 108 lugares, más que los 97 estudiantes. -->
 
 ### Explicacion Pedagogica
@@ -117,11 +117,11 @@ En problemas de reparto con residuo, el resultado se interpreta según el contex
 ¿Cuánto recibe cada hermana?
 
 ### Opciones
-- [x] A) $130
+- [x] C) $130
   <!-- feedback: 780 ÷ 6 = 130; 6 × 130 = 780. -->
-- [ ] B) $120
+- [ ] A) $120
   <!-- feedback: 6 × 120 = 720; sobrarían $60 por repartir. -->
-- [ ] C) $140
+- [ ] B) $140
   <!-- feedback: 6 × 140 = 840, más de lo que se va a repartir. -->
 - [ ] D) $125
   <!-- feedback: 6 × 125 = 750; quedan $30 sin repartir. -->
@@ -139,9 +139,9 @@ Dividir entre un dígito una cantidad de tres cifras se apoya en la multiplicaci
 ¿Cuál análisis del trabajo de los dos es correcto?
 
 ### Opciones
-- [x] A) Ana tiene razón, porque 123 × 5 = 615
+- [x] B) Ana tiene razón, porque 123 × 5 = 615
   <!-- feedback: Al multiplicar el cociente de Ana por el divisor se recupera el dividendo: 123 × 5 = 615; en cambio 132 × 5 = 660. -->
-- [ ] B) Beto tiene razón, porque 132 × 5 = 615
+- [ ] A) Beto tiene razón, porque 132 × 5 = 615
   <!-- feedback: El producto 132 × 5 es 660, no 615; el cociente de Beto es demasiado grande. -->
 - [ ] C) Los dos están mal, porque el resultado es 125
   <!-- feedback: 125 × 5 = 625; el cociente exacto de 615 ÷ 5 es 123. -->
@@ -161,13 +161,13 @@ Analizar trabajos ajenos se hace con la verificación inversa: multiplicar cada 
 ¿Cuántos paquetes trae cada caja si todas son idénticas?
 
 ### Opciones
-- [x] A) 42
+- [x] D) 42
   <!-- feedback: 336 ÷ 8 = 42; 8 × 40 = 320 y 8 × 2 = 16, así que 320 + 16 = 336. -->
-- [ ] B) 44
+- [ ] A) 44
   <!-- feedback: 8 × 44 = 352, dieciséis paquetes más de los que bajaron. -->
-- [ ] C) 38
+- [ ] B) 38
   <!-- feedback: 8 × 38 = 304; faltarían 32 paquetes para llegar a 336. -->
-- [ ] D) 46
+- [ ] C) 46
   <!-- feedback: 8 × 46 = 368; el producto supera el total descargado. -->
 
 ### Explicacion Pedagogica
@@ -183,13 +183,13 @@ Conocer el total y el número de grupos iguales lleva a una división: 336 ÷ 8.
 ¿Es correcta la afirmación del vendedor?
 
 ### Opciones
-- [x] A) No, porque 150 ÷ 8 deja residuo y 150 ÷ 6 es exacta
+- [x] D) No, porque 150 ÷ 8 deja residuo y 150 ÷ 6 es exacta
   <!-- feedback: 150 ÷ 6 = 25 sin sobrante, mientras que 150 ÷ 8 = 18 con residuo 6; el vendedor invirtió los hechos. -->
-- [ ] B) Sí, porque 150 ÷ 8 = 18 exacto
+- [ ] A) Sí, porque 150 ÷ 8 = 18 exacto
   <!-- feedback: 18 × 8 = 144, no 150; la división entre 8 sí deja sobrante. -->
-- [ ] C) No, porque ninguna de las dos divisiones es exacta
+- [ ] B) No, porque ninguna de las dos divisiones es exacta
   <!-- feedback: 150 ÷ 6 = 25 sí es exacta; la que deja residuo es la división entre 8. -->
-- [ ] D) Sí, porque las mallas de 8 siempre caben mejor
+- [ ] C) Sí, porque las mallas de 8 siempre caben mejor
   <!-- feedback: Aceptar una opción "porque siempre" sin calcular el residuo no es una justificación matemática válida. -->
 
 ### Explicacion Pedagogica

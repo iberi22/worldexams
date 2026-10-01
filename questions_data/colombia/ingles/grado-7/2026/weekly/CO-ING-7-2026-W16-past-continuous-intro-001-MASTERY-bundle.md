@@ -38,11 +38,11 @@ Which two components are used to form the Past Continuous?
 ### Opciones
 - [ ] A) Was/Were + Base form of the verb.
   <!-- feedback: Incorrect. The second verb needs -ing. -->
-- [x] B) Was/Were + Verb with -ing.
+- [x] D) Was/Were + Verb with -ing.
   <!-- feedback: Correct! Past continuous requires "to be" in the past and the -ing form. -->
-- [ ] C) Am/Is/Are + Verb with -ing.
+- [ ] B) Am/Is/Are + Verb with -ing.
   <!-- feedback: Incorrect. This is for Present Continuous. -->
-- [ ] D) Did + Verb with -ing.
+- [ ] C) Did + Verb with -ing.
   <!-- feedback: Incorrect. "Did" is the auxiliary for Past Simple. -->
 
 ### Explicacion Pedagogica
@@ -111,13 +111,13 @@ The student understands the use of Past Continuous to describe an action in prog
 Choose the correct question to ask about a past activity.
 
 ### Opciones
-- [x] A) Were you sleeping when I called?
+- [x] D) Were you sleeping when I called?
   <!-- feedback: Correct! Standard auxiliary + subject + -ing structure. -->
-- [ ] B) You were sleeping when I called?
+- [ ] A) You were sleeping when I called?
   <!-- feedback: Incorrect. The auxiliary must come first in a question. -->
-- [ ] C) Was you sleeping when I called?
+- [ ] B) Was you sleeping when I called?
   <!-- feedback: Incorrect. "You" requires "were". -->
-- [ ] D) Did you sleeping when I called?
+- [ ] C) Did you sleeping when I called?
   <!-- feedback: Incorrect. "Did" is for Past Simple, not continuous. -->
 
 ### Explicacion Pedagogica
@@ -136,9 +136,9 @@ The student understands the word order and agreement rules for questions in the 
 "When the teacher entered, the students ________ loudly."
 
 ### Opciones
-- [ ] A) was talking
+- [ ] B) was talking
   <!-- feedback: Incorrect. "Students" is plural. -->
-- [x] B) were talking
+- [x] A) were talking
   <!-- feedback: Correct! Plural subject + "were" + -ing. -->
 - [ ] C) are talking
   <!-- feedback: Incorrect. The context "entered" is in the past. -->
@@ -164,9 +164,9 @@ What was the narrator doing at 3:00 PM?
 ### Opciones
 - [ ] A) Running to find cover.
   <!-- feedback: Incorrect. Other people were doing that. -->
-- [x] B) Waiting for the bus.
+- [x] C) Waiting for the bus.
   <!-- feedback: Correct! The text says "I was waiting for the bus". -->
-- [ ] C) Raining heavily.
+- [ ] B) Raining heavily.
   <!-- feedback: Incorrect. This describes the weather. -->
 - [ ] D) Driving a car.
   <!-- feedback: Incorrect. Not mentioned. -->
@@ -189,9 +189,9 @@ The student applies reading comprehension to distinguish between different actio
 ### Opciones
 - [ ] A) weren't listening
   <!-- feedback: Incorrect. "Weren't" is for plural subjects. -->
-- [x] B) wasn't listening
+- [x] C) wasn't listening
   <!-- feedback: Correct! Negative form of "was" + -ing. -->
-- [ ] C) didn't listening
+- [ ] B) didn't listening
   <!-- feedback: Incorrect. "Didn't" is for simple past, not followed by -ing. -->
 - [ ] D) wasn't listen
   <!-- feedback: Incorrect. Missing the -ing ending. -->
@@ -238,9 +238,9 @@ The student analyzes the structure of sentences describing two simultaneous past
 What were the parents doing when the lights went out?
 
 ### Opciones
-- [ ] A) They were doing homework.
+- [ ] B) They were doing homework.
   <!-- feedback: Incorrect. Ana was doing that. -->
-- [x] B) They were having a conversation.
+- [x] A) They were having a conversation.
   <!-- feedback: Correct! "Talking" is synonymous with having a conversation. -->
 - [ ] C) They were playing the guitar.
   <!-- feedback: Incorrect. The brother was doing that. -->
@@ -266,9 +266,9 @@ Witness 3: I was buying a newspaper when I heard a loud noise."
 Which witness provided the most useful information about the cause of the accident?
 
 ### Opciones
-- [ ] A) Witness 1
+- [ ] B) Witness 1
   <!-- feedback: Incorrect. They didn't see anything. -->
-- [x] B) Witness 2
+- [x] A) Witness 2
   <!-- feedback: Correct! They actually saw the collision and identified the cars. -->
 - [ ] C) Witness 3
   <!-- feedback: Incorrect. They only heard the noise after the event. -->

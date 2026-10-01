@@ -57,9 +57,9 @@ Reconocer la medida en grados del ángulo recto como referencia para otros ángu
 ¿Cuál es un ejemplo de ángulo obtuso en la vida cotidiana?
 
 ### Opciones
-- [x] A) La abertura de una puerta que está más abierta que un ángulo recto.
+- [x] B) La abertura de una puerta que está más abierta que un ángulo recto.
   <!-- feedback: Cuando una puerta se abre más de 90°, forma un ángulo obtuso. -->
-- [ ] B) La esquina de una hoja de papel cuaderno.
+- [ ] A) La esquina de una hoja de papel cuaderno.
   <!-- feedback: La esquina del papel forma un ángulo recto, no obtuso. -->
 - [ ] C) La punta de un lápiz muy afilado.
   <!-- feedback: La punta afilada forma un ángulo muy agudo, no obtuso. -->
@@ -80,11 +80,11 @@ Identificar ejemplos de ángulo obtuso en situaciones reales y cotidianas.
 ¿Cómo se llaman los ángulos que están uno frente al otro cuando dos rectas se cruzan?
 
 ### Opciones
-- [x] A) Ángulos opuestos por el vértice.
+- [x] C) Ángulos opuestos por el vértice.
   <!-- feedback: Los ángulos opuestos por el vértice son los que están frente a frente al cruzarse dos rectas. -->
-- [ ] B) Ángulos consecutivos.
+- [ ] A) Ángulos consecutivos.
   <!-- feedback: Los ángulos consecutivos están uno al lado del otro, no enfrente. -->
-- [ ] C) Ángulos complementarios.
+- [ ] B) Ángulos complementarios.
   <!-- feedback: Los complementarios suman 90°, lo cual no es la relación descrita. -->
 - [ ] D) Ángulos suplementarios.
   <!-- feedback: Los suplementarios suman 180°, lo cual no es la relación descrita. -->
@@ -126,9 +126,9 @@ Identificar ejemplos de rectas paralelas en contextos reales.
 ¿Qué tipo de ángulo forman las dos tiras que se cruzan en forma de "L"?
 
 ### Opciones
-- [x] A) Un ángulo recto.
+- [x] B) Un ángulo recto.
   <!-- feedback: La forma de "L" representa dos segmentos que se encuentran a 90 grados. -->
-- [ ] B) Un ángulo agudo de 30 grados.
+- [ ] A) Un ángulo agudo de 30 grados.
   <!-- feedback: Un ángulo de 30° es más pequeño que una "L" formada por tiras perpendiculares. -->
 - [ ] C) Un ángulo obtuso de 150 grados.
   <!-- feedback: Un ángulo obtuso mide más de 90°, no coincide con la "L". -->
@@ -172,13 +172,13 @@ Comparar las propiedades de rectas paralelas y perpendiculares en el plano.
 ¿Qué relationship numérica existe entre un ángulo llano y dos ángulos rectos?
 
 ### Opciones
-- [x] A) Un ángulo llano equivale a la suma de dos ángulos rectos (180° = 90° + 90°).
+- [x] D) Un ángulo llano equivale a la suma de dos ángulos rectos (180° = 90° + 90°).
   <!-- feedback: 90° + 90° = 180°, confirmando la equivalencia descrita. -->
-- [ ] B) Un ángulo recto es mayor que un ángulo llano.
+- [ ] A) Un ángulo recto es mayor que un ángulo llano.
   <!-- feedback: El ángulo recto (90°) es menor que el llano (180°). -->
-- [ ] C) Dos ángulos rectos suman solo 90 grados.
+- [ ] B) Dos ángulos rectos suman solo 90 grados.
   <!-- feedback: Dos ángulos rectos suman 180°, no 90°. -->
-- [ ] D) Un ángulo llano mide 90 grados.
+- [ ] C) Un ángulo llano mide 90 grados.
   <!-- feedback: El ángulo llano mide 180°, no 90°. -->
 
 ### Explicacion Pedagogica
@@ -195,11 +195,11 @@ Analizar la relación numérica entre el ángulo llano y los ángulos rectos.
 ¿Por qué es importante en la vida diaria reconocer y medir ángulos?
 
 ### Opciones
-- [x] A) Porque permite diseñar y construir objetos, estructuras y espacios con precisión y seguridad.
+- [x] C) Porque permite diseñar y construir objetos, estructuras y espacios con precisión y seguridad.
   <!-- feedback: El uso de ángulos es clave en construcción, diseño y muchas profesiones técnicas. -->
-- [ ] B) Porque los ángulos solo aparecen en los libros de texto sin aplicación práctica.
+- [ ] A) Porque los ángulos solo aparecen en los libros de texto sin aplicación práctica.
   <!-- feedback: Los ángulos tienen aplicaciones prácticas en muchos oficios y profesiones. -->
-- [ ] C) Porque medir ángulos no aporta ninguna ventaja a la sociedad.
+- [ ] B) Porque medir ángulos no aporta ninguna ventaja a la sociedad.
   <!-- feedback: Medir ángulos aporta precisión y seguridad en muchos contextos. -->
 - [ ] D) Porque solo los matemáticos necesitan conocer sobre ángulos.
   <!-- feedback: El conocimiento de ángulos es útil para muchas personas y profesiones. -->

@@ -34,13 +34,13 @@ Este bundle de 10 preguntas recorre los principios del magnetismo, los polos de 
 ¿Qué tipo de material es atraído por un imán común de laboratorio?
 
 ### Opciones
-- [x] A) Materiales ferromagnéticos como el hierro, el níquel y el cobalto
+- [x] D) Materiales ferromagnéticos como el hierro, el níquel y el cobalto
   <!-- feedback: Correcto. El hierro y metales vecinos son los principales ferromagnéticos. -->
-- [ ] B) Todos los metales blandos como el aluminio y el cobre
+- [ ] A) Todos los metales blandos como el aluminio y el cobre
   <!-- feedback: Incorrecto. El aluminio y el cobre no son atraídos por imanes comunes. -->
-- [ ] C) Cualquier piedra de la mina, sin importar su composición
+- [ ] B) Cualquier piedra de la mina, sin importar su composición
   <!-- feedback: Incorrecto. Solo los minerales con hierro suficiente se adhieren al imán. -->
-- [ ] D) El plástico y la madera de los cajones de embarque
+- [ ] C) El plástico y la madera de los cajones de embarque
   <!-- feedback: Incorrecto. Plásticos y madera no son ferromagnéticos. -->
 
 ### Explicacion Pedagogica
@@ -57,11 +57,11 @@ Los imanes atraen con fuerza los metales ferromagnéticos, principalmente hierro
 ¿Qué sucede al acercar dos polos del mismo color de los imanes de barra?
 
 ### Opciones
-- [x] A) Los dos polos iguales se repelen y los de distinto color se atraen
+- [x] C) Los dos polos iguales se repelen y los de distinto color se atraen
   <!-- feedback: Correcto. Polos iguales se repelen y polos diferentes se atraen. -->
-- [ ] B) Los dos polos iguales siempre se atraen porque son iguales
+- [ ] A) Los dos polos iguales siempre se atraen porque son iguales
   <!-- feedback: Incorrecto. La regla es opuesta: iguales se repelen. -->
-- [ ] C) Los dos polos azules quedan pegados por casualidad
+- [ ] B) Los dos polos azules quedan pegados por casualidad
   <!-- feedback: Incorrecto. La atracción no es azarosa sino sistemática. -->
 - [ ] D) Los imanes se neutralizan al juntarse por completo
   <!-- feedback: Incorrecto. Nunca desaparece el magnetismo al juntar dos imanes idénticos. -->
@@ -80,13 +80,13 @@ Los imanes tienen dos polos, norte y sur; polos del mismo signo se repelen entre
 ¿Qué propiedad del acero permite que el imán separe las piezas genuinas de las imitaciones cromadas decorativas?
 
 ### Opciones
-- [x] A) El acero es ferromagnético y se adhiere al imán, mientras el cromado decorativo tiene casi nada de hierro en su interior
+- [x] D) El acero es ferromagnético y se adhiere al imán, mientras el cromado decorativo tiene casi nada de hierro en su interior
   <!-- feedback: Correcto. La diferencia de contenido de hierro cambia la respuesta magnética. -->
-- [ ] B) El color del cromado repele el magnetismo por ser brillante
+- [ ] A) El color del cromado repele el magnetismo por ser brillante
   <!-- feedback: Incorrecto. El brillo no afecta el magnetismo. -->
-- [ ] C) El acero es más liviano y vuela hacia el imán
+- [ ] B) El acero es más liviano y vuela hacia el imán
   <!-- feedback: Incorrecto. Lo que importa es la naturaleza del material, no su peso. -->
-- [ ] D) El cromado es más barato y por eso el imán lo evita
+- [ ] C) El cromado es más barato y por eso el imán lo evita
   <!-- feedback: Incorrecto. El precio no determina la respuesta magnética. -->
 
 ### Explicacion Pedagogica
@@ -103,13 +103,13 @@ Aplicar el magnetismo práctico exige distinguir materiales: solo los objetos fe
 ¿Por qué la aguja imantada de la brújula siempre apunta al norte cuando se la deja libre?
 
 ### Opciones
-- [x] A) Porque la Tierra misma se comporta como un gran imán y la aguja se alinea con su campo magnético
+- [x] D) Porque la Tierra misma se comporta como un gran imán y la aguja se alinea con su campo magnético
   <!-- feedback: Correcto. El campo magnético terrestre orienta la aguja. -->
-- [ ] B) Porque el viento de páramo empuja la aguja hacia el norte
+- [ ] A) Porque el viento de páramo empuja la aguja hacia el norte
   <!-- feedback: Incorrecto. El viento no es el factor determinante. -->
-- [ ] C) Porque la aguja es más pesada por el lado norte
+- [ ] B) Porque la aguja es más pesada por el lado norte
   <!-- feedback: Incorrecto. La aguja tiene el mismo peso en ambos extremos. -->
-- [ ] D) Porque la gravedad de la Tierra hala el polo norte de la aguja
+- [ ] C) Porque la gravedad de la Tierra hala el polo norte de la aguja
   <!-- feedback: Incorrecto. La gravedad atrae al centro de la Tierra, no selecciona polos magnéticos. -->
 
 ### Explicacion Pedagogica
@@ -126,11 +126,11 @@ La Tierra contiene un campo magnético generado por el movimiento del hierro lí
 ¿Por qué los clips forman líneas que salen de los extremos del imán y se curvan alrededor de él?
 
 ### Opciones
-- [x] A) Porque cada clip también queda imantado temporalmente y se alinea con las líneas de campo magnético que salen del polo norte y entran por el sur
+- [x] C) Porque cada clip también queda imantado temporalmente y se alinea con las líneas de campo magnético que salen del polo norte y entran por el sur
   <!-- feedback: Correcto. Los clips siguen las líneas de campo entre los polos. -->
-- [ ] B) Porque los clips pesan distinto en cada lado del imán
+- [ ] A) Porque los clips pesan distinto en cada lado del imán
   <!-- feedback: Incorrecto. El peso del clip es siempre el mismo. -->
-- [ ] C) Porque el imán pinta los clips de magnético con su color
+- [ ] B) Porque el imán pinta los clips de magnético con su color
   <!-- feedback: Incorrecto. El color del imán no transfiere magnetismo. -->
 - [ ] D) Porque el aire de la habitación empuja los clips hacia el imán
   <!-- feedback: Incorrecto. El aire no selecciona direcciones. -->
@@ -149,13 +149,13 @@ Al acercar un imán potente, los materiales ferromagnéticos como el clip se ima
 ¿Qué análisis explica por qué el oro puro no es atraído por el imán, pero una aleación con hierro sí lo es?
 
 ### Opciones
-- [x] A) El oro es un metal diamagnético que apenas interactúa con el imán; al mezclarlo con hierro aparecen dominios ferromagnéticos y el material compuesto responde al campo
+- [x] D) El oro es un metal diamagnético que apenas interactúa con el imán; al mezclarlo con hierro aparecen dominios ferromagnéticos y el material compuesto responde al campo
   <!-- feedback: Correcto. La aleación incorpora hierro que responde al campo magnético. -->
-- [ ] B) El oro cambia su naturaleza al mezclarse con aire
+- [ ] A) El oro cambia su naturaleza al mezclarse con aire
   <!-- feedback: Incorrecto. El oro es estable y mantiene su comportamiento magnético. -->
-- [ ] C) El imán del museo es especial para piezas de oro puro
+- [ ] B) El imán del museo es especial para piezas de oro puro
   <!-- feedback: Incorrecto. Un imán común ya revela la naturaleza del oro. -->
-- [ ] D) La forma de la pieza, no su material, define la atracción magnética
+- [ ] C) La forma de la pieza, no su material, define la atracción magnética
   <!-- feedback: Incorrecto. La geometría no convierte un material diamagnético en ferromagnético. -->
 
 ### Explicacion Pedagogica
@@ -241,9 +241,9 @@ Evaluar publicidad magnética exige comparar intensidad y efecto biomédico: una
 ¿Qué evaluación conjunta de las tres hipótesis es correcta?
 
 ### Opciones
-- [x] A) La 1 es falsa porque la Tierra tiene campo magnético, la 2 es falsa porque polos iguales se repelen y la 3 es verdadera
+- [x] B) La 1 es falsa porque la Tierra tiene campo magnético, la 2 es falsa porque polos iguales se repelen y la 3 es verdadera
   <!-- feedback: Correcto. Corrige los dos errores iniciales y confirma el papel de la corriente en el electroimán. -->
-- [ ] B) Las tres son verdaderas porque el magnetismo es exclusivo de la Tierra
+- [ ] A) Las tres son verdaderas porque el magnetismo es exclusivo de la Tierra
   <!-- feedback: Incorrecto. El magnetismo se presenta en muchos materiales, no solo en la Tierra. -->
 - [ ] C) Solo la 3 es verdadera y las demás son falsas
   <!-- feedback: Incorrecto. Eso sí, la 3 sí es verdadera pero la 1 y la 2 son falsas. -->

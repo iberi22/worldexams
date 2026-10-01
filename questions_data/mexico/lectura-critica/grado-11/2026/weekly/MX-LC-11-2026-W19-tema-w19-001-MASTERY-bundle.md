@@ -33,11 +33,11 @@ Carlos Monsiváis fue el cronista indispensable del México contemporáneo, regi
 ### Opciones
 - [ ] A) Una recopilación de datos para manuales contables de Europa del siglo XVI.
   <!-- feedback: Incorrecto. El texto aborda aspectos culturales, históricos y ecológicos del México contemporáneo, desvinculado de reglamentos contables coloniales. -->
-- [x] B) El papel y la relevancia de movimientos del 68 en la dinámica de la región.
+- [x] D) El papel y la relevancia de movimientos del 68 en la dinámica de la región.
   <!-- feedback: Correcto. El texto expone de manera explícita la trascendencia de movimientos del 68 para entender la problemática o fenómeno de la zona. -->
-- [ ] C) Una teoría de la física moderna abstracta desprovista de registro empírico terrestre.
+- [ ] B) Una teoría de la física moderna abstracta desprovista de registro empírico terrestre.
   <!-- feedback: Incorrecto. El escrito se enfoca en realidades tangibles y de campo observables, no en teorías físicas abstractas. -->
-- [ ] D) La prohibición de toda actividad de artes clásicas en las universidades públicas de la federación.
+- [ ] C) La prohibición de toda actividad de artes clásicas en las universidades públicas de la federación.
   <!-- feedback: Incorrecto. No se menciona ninguna prohibición de índole académica artística en las facultades. -->
 
 ### Explicacion Pedagogica
@@ -57,9 +57,9 @@ Carlos Monsiváis fue el cronista indispensable del México contemporáneo, regi
 De acuerdo con la lectura del pasaje, ¿cuál de los siguientes factores o causas se asocia directamente con la problemática o fenómeno de movimientos del 68?
 
 ### Opciones
-- [ ] A) El desinterés absoluto de las comunidades ejidales locales por cuidar el patrimonio.
+- [ ] B) El desinterés absoluto de las comunidades ejidales locales por cuidar el patrimonio.
   <!-- feedback: Incorrecto. Los ejidos y ciudadanos se organizan y participan activamente, no se atribuye desinterés absoluto en la lectura. -->
-- [x] B) La confluencia de variables como sismo de 1985 que alteran el equilibrio.
+- [x] A) La confluencia de variables como sismo de 1985 que alteran el equilibrio.
   <!-- feedback: Correcto. El fragmento identifica expresamente a sismo de 1985 como una variable causante o catalizadora de los cambios descritos. -->
 - [ ] C) La privatización total de todos los servicios públicos por mandato constitucional de la federación.
   <!-- feedback: Incorrecto. El texto no aborda reformas constitucionales de privatización total de servicios públicos. -->
@@ -85,11 +85,11 @@ A partir de la exposición del autor, se comprende que el fenómeno estudiado ex
 ### Opciones
 - [ ] A) Un proceso aislado y estático que rechaza toda interacción o intercambio con el exterior.
   <!-- feedback: Incorrecto. Concebir el sistema como cerrado contradice la interconexión dinámica de flujos descrita. -->
-- [x] B) Un flujo dinámico e interconectado, ejemplificado por el papel de sociedad civil.
+- [x] D) Un flujo dinámico e interconectado, ejemplificado por el papel de sociedad civil.
   <!-- feedback: Correcto. El autor argumenta que sociedad civil representa la interdependencia y dinamismo del sistema, que no puede entenderse de forma aislada. -->
-- [ ] C) Un inventario de catálogos administrativos inalterable dictado por las aduanas arancelarias.
+- [ ] B) Un inventario de catálogos administrativos inalterable dictado por las aduanas arancelarias.
   <!-- feedback: Incorrecto. El enfoque del autor es de ecología o sociocultural, no arancelario o fiscal de aduanas comerciales. -->
-- [ ] D) Una imitación dócil de los modelos de planeación de las ciudades del viejo mundo.
+- [ ] C) Una imitación dócil de los modelos de planeación de las ciudades del viejo mundo.
   <!-- feedback: Incorrecto. El texto exalta el desarrollo autónomo o la asimilación creativa de la realidad local de la federación. -->
 
 ### Explicacion Pedagogica
@@ -109,9 +109,9 @@ Carlos Monsiváis fue el cronista indispensable del México contemporáneo, regi
 En el contexto de la lectura, la mención de cultura popular se emplea principalmente con el propósito de:
 
 ### Opciones
-- [ ] A) Señalar una falla metodológica grave que invalida los argumentos del escrito.
+- [ ] B) Señalar una falla metodológica grave que invalida los argumentos del escrito.
   <!-- feedback: Incorrecto. El autor valora positivamente este concepto, no lo presenta como un error de método. -->
-- [x] B) Funcionar como un valioso cultura popular para evaluar y diagnosticar el estado del equilibrio general del medio.
+- [x] A) Funcionar como un valioso cultura popular para evaluar y diagnosticar el estado del equilibrio general del medio.
   <!-- feedback: Correcto. Se introduce este término para ilustrar cómo ciertos elementos reflejan de manera fáctica las alteraciones o salud del sistema. -->
 - [ ] C) Limitar el acceso de las mujeres y minorías a la educación superior en México.
   <!-- feedback: Incorrecto. No guarda relación con la restricción de derechos educativos de género o minorías de la federación. -->
@@ -135,11 +135,11 @@ Carlos Monsiváis fue el cronista indispensable del México contemporáneo, regi
 ¿Qué actitud o enfoque tradicional cuestiona de manera implícita el autor al examinar la situación de cronista urbano?
 
 ### Opciones
-- [x] A) El enfoque esencialista que busca encapsular la realidad en definiciones fijas e inmutables.
+- [x] C) El enfoque esencialista que busca encapsular la realidad en definiciones fijas e inmutables.
   <!-- feedback: Correcto. El autor aboga por superar visiones estáticas de cronista urbano para acoger un marco dinámico de transformación y resiliencia. -->
-- [ ] B) La recolección manual y el saneamiento ecológico de las costas de la península de Yucatán.
+- [ ] A) La recolección manual y el saneamiento ecológico de las costas de la península de Yucatán.
   <!-- feedback: Incorrecto. El saneamiento manual es valorado como una medida paliativa necesaria, no es cuestionado por el autor de esta sección. -->
-- [ ] C) La enseñanza de la historia prehispánica en las escuelas secundarias de la SEP.
+- [ ] B) La enseñanza de la historia prehispánica en las escuelas secundarias de la SEP.
   <!-- feedback: Incorrecto. Estudiar la historia y herencia indígena es fundamental para descolonizar el conocimiento y es respaldado por el autor de forma explícita. -->
 - [ ] D) El uso exclusivo del voseo de Argentina en la redacción de crónicas urbanas.
   <!-- feedback: Incorrecto. La variable lingüística del voseo rioplatense no es objeto de debate en este fragmento. -->
@@ -161,9 +161,9 @@ Carlos Monsiváis fue el cronista indispensable del México contemporáneo, regi
 A partir de la lectura, ¿cómo se relaciona la presencia de crónica irónica con el bienestar general del entorno social o natural?
 
 ### Opciones
-- [ ] A) Provoca una contracción inmediata del producto interno bruto y desempleo crónico.
+- [ ] B) Provoca una contracción inmediata del producto interno bruto y desempleo crónico.
   <!-- feedback: Incorrecto. No se asocia con catástrofes financieras directas o parálisis comercial total en el texto. -->
-- [x] B) Funciona como el refugio o cimiento que estabiliza el sistema y le otorga viabilidad frente a las perturbaciones.
+- [x] A) Funciona como el refugio o cimiento que estabiliza el sistema y le otorga viabilidad frente a las perturbaciones.
   <!-- feedback: Correcto. La cohesión de crónica irónica (ya sea el dosel del bosque, el acuífero arcilloso o la base mestiza) actúa como la cobija y protección del equilibrio general. -->
 - [ ] C) Fuerza a la población a abandonar de forma permanente la cuenca para migrar a las costas.
   <!-- feedback: Incorrecto. Se busca la permanencia y el desarrollo sustentable de las comunidades en su propio territorio de origen. -->
@@ -243,9 +243,9 @@ El colapso de un ecosistema o recurso adyacente, como el caso de periodismo narr
   <!-- feedback: Incorrecto. Se trata de procesos socioeconómicos extractivos físicos intensivos, ajenos a la imitación literaria de la academia. -->
 - [ ] B) La deparación espontánea de los monumentos históricos de la Nueva España.
   <!-- feedback: Incorrecto. No se asocia directamente con la deparación espontánea de monumentos de la época virreinal colonial de México. -->
-- [x] C) Un fallo sistémico común donde el ritmo de extracción o impacto supera la capacidad de asimilación del sistema.
+- [x] D) Un fallo sistémico común donde el ritmo de extracción o impacto supera la capacidad de asimilación del sistema.
   <!-- feedback: Correcto. Ambos casos demuestran que vulnerar las tasas de recarga o reposición desestabiliza y colapsa de forma acelerada la resiliencia del medio. -->
-- [ ] D) La abolición obligatoria de las materias de ética y humanidades en las universidades del país.
+- [ ] C) La abolición obligatoria de las materias de ética y humanidades en las universidades del país.
   <!-- feedback: Incorrecto. El colapso de polinizadores o acuíferos no se produce por revocar planes de estudio de filosofía. -->
 
 ### Explicacion Pedagogica
@@ -267,9 +267,9 @@ Si la tasa de alteración continúa de forma ininterrumpida, el escenario más f
 ### Opciones
 - [ ] A) La solidificación inmediata de la roca caliza permeable del Caribe.
   <!-- feedback: Incorrecto. La contracción del suelo arcilloso o deparación forestal no solidifica la caliza marina caribeña, mezclando de forma absurda los temas geográficos. -->
-- [x] B) La degradación severa de crítica de costumbres, comprometiendo la biodiversidad y la calidad de vida de las familias mexicanas.
+- [x] C) La degradación severa de crítica de costumbres, comprometiendo la biodiversidad y la calidad de vida de las familias mexicanas.
   <!-- feedback: Correcto. Ignorar los límites de carga biofísica o social de la zona conduce a fallos graves en cascada que deterioran el patrimonio común y aumentan la vulnerabilidad. -->
-- [ ] C) La elevación artificial de la altitud de la ciudad por encima del nivel del mar.
+- [ ] B) La elevación artificial de la altitud de la ciudad por encima del nivel del mar.
   <!-- feedback: Incorrecto. El desequilibrio ambiental deprime las oportunidades y hunde el relieve arcilloso, no eleva la altitud física de la urbe. -->
 - [ ] D) La derogación espontánea de todas las obligaciones fiscales ejidales del país.
   <!-- feedback: Incorrecto. Los problemas biofísicos no tienen la propiedad legal de suspender regulaciones impositivas del agro. -->
@@ -319,11 +319,11 @@ La problemática estructural descrita en relación con palacios novohispanos rep
 ### Opciones
 - [ ] A) Impide que los agricultores del bajío importen maquinaria pesada directamente desde el extranjero.
   <!-- feedback: Incorrecto. El desarrollo mecánico agroindustrial es un asunto de comercio, desvinculado de la exclusión social descrita en el texto. -->
-- [x] B) Genera condiciones inequitativas donde las familias periféricas ven vulnerado su derecho debido a palacios novohispanos.
+- [x] D) Genera condiciones inequitativas donde las familias periféricas ven vulnerado su derecho debido a palacios novohispanos.
   <!-- feedback: Correcto. La asimetría (digital, de museos o de salud) margina a amplios sectores por razones de geografía y economía, limitando su bienestar y desarrollo humano. -->
-- [ ] C) Fuerza a toda la población del norte de la federación a hablar exclusivamente en lenguas mesoamericanas antiguas.
+- [ ] B) Fuerza a toda la población del norte de la federación a hablar exclusivamente en lenguas mesoamericanas antiguas.
   <!-- feedback: Incorrecto. La problemática no impone el uso lingüístico indígena, sino que restringe el ejercicio de los derechos de la población de los estados. -->
-- [ ] D) Obliga a las universidades públicas a deparar arena artificial para suplir las playas del Caribe mexicano.
+- [ ] C) Obliga a las universidades públicas a deparar arena artificial para suplir las playas del Caribe mexicano.
   <!-- feedback: Incorrecto. Las playas caribeñas y el sargazo no guardan relación lógica con la conectividad de los estados de la República. -->
 
 ### Explicacion Pedagogica
@@ -343,9 +343,9 @@ El rescate y conservación del Centro Histórico de la Ciudad de México, el cor
 A partir de los argumentos presentados en el texto, se deduce que la tradicional centralización o desatención de la periferia operaba bajo la asunción de que:
 
 ### Opciones
-- [ ] A) Los habitantes de los estados de la República carecían de la deparación intelectual para asimilar la técnica.
+- [ ] B) Los habitantes de los estados de la República carecían de la deparación intelectual para asimilar la técnica.
   <!-- feedback: Incorrecto. El autor rechaza cualquier sesgo de superioridad o desprecio intelectual biológico de capacidad. -->
-- [x] B) La capital o el modelo de mercado tradicional constituía el único polo idóneo para validar y gestionar gentrificación.
+- [x] A) La capital o el modelo de mercado tradicional constituía el único polo idóneo para validar y gestionar gentrificación.
   <!-- feedback: Correcto. El centralismo (institucional o de mercado) presupone que solo el núcleo central concentra la legitimidad, recursos y criterios de validación de gentrificación de la federación. -->
 - [ ] C) La descentralización provocaría la pérdida del idioma español en beneficio de lenguas de Europa.
   <!-- feedback: Incorrecto. El idioma español no se ve amenazado por la equidad distributiva o el resguardo regional de bienes comunes. -->
@@ -369,9 +369,9 @@ El rescate y conservación del Centro Histórico de la Ciudad de México, el cor
 ¿Cuál de las siguientes observaciones introduce un matiz o dificultad técnica de relevancia al ideal de resolver de golpe el problema de consumo hotelero?
 
 ### Opciones
-- [ ] A) Las publicaciones de los cronistas novohispanos carecían de deparaciones retóricas de antítesis.
+- [ ] B) Las publicaciones de los cronistas novohispanos carecían de deparaciones retóricas de antítesis.
   <!-- feedback: Incorrecto. Las deparaciones líricas de paralelismo o antítesis novohispanas no inciden en la viabilidad de resolver problemas contemporáneos. -->
-- [x] B) La inmensa inversión en infraestructura y consumo hotelero especializada requerida para garantizar condiciones seguras de operación en zonas remotas de la República.
+- [x] A) La inmensa inversión en infraestructura y consumo hotelero especializada requerida para garantizar condiciones seguras de operación en zonas remotas de la República.
   <!-- feedback: Correcto. Señalar que la descentralización o saneamiento demanda tendidos de red complejos, capacitación y costos elevados introduce variables de realismo técnico y financiero indispensable. -->
 - [ ] C) La preferencia de los creadores locales de viajar al extranjero para comercializar sus productos.
   <!-- feedback: Incorrecto. La elección de viaje de profesionales particulares no afecta las variables logísticas de la obra pública de la federación. -->
@@ -395,9 +395,9 @@ El rescate y conservación del Centro Histórico de la Ciudad de México, el cor
 La estructura argumentativa de quienes promueven un enfoque comunitario descentralizado, como el de comercio tradicional, descansa sobre la premisa de que:
 
 ### Opciones
-- [ ] A) El patrimonio prehispánico o la salud pública de la comarca carecen de valor real para los investigadores internacionales.
+- [ ] B) El patrimonio prehispánico o la salud pública de la comarca carecen de valor real para los investigadores internacionales.
   <!-- feedback: Incorrecto. Al contrario, se exalta el deparado valor de la herencia local, del agro y del bienestar social colectivo. -->
-- [x] B) La apropiación local y autogestión de comercio tradicional fortalece de forma directa la cohesión cívica y la soberanía comunitaria.
+- [x] A) La apropiación local y autogestión de comercio tradicional fortalece de forma directa la cohesión cívica y la soberanía comunitaria.
   <!-- feedback: Correcto. Dar control a la colectividad sobre su propia realidad (salud, educación, cultura) fomenta el autorrespeto, el cuidado mutuo y la cohesión social de la federación. -->
 - [ ] C) Cada municipio de la federación debe dictar de forma obligatoria sus propias leyes mercantiles de aduana arancelaria.
   <!-- feedback: Incorrecto. El marco de los proyectos comunitarios es cultural, educativo e identitario, sin relación con aduanas o aranceles mercantiles. -->
@@ -475,9 +475,9 @@ La fundamentación ética para descentralizar los servicios y el patrimonio, pro
 ### Opciones
 - [ ] A) Puramente gentrificación urbana y pragmático, que mide el éxito educativo o cultural únicamente por el retorno de inversión comercial cuantificable.
   <!-- feedback: Incorrecto. El autor critica justamente reducir los derechos a meras deparaciones de rentabilidad de corto plazo de mercado. -->
-- [ ] B) Arancelario, centrado en deparar las transacciones e importaciones de la comarca con el extranjero.
+- [ ] C) Arancelario, centrado en deparar las transacciones e importaciones de la comarca con el extranjero.
   <!-- feedback: Incorrecto. Las aduanas arancelarias comerciales no justifican el disfrute del patrimonio o la equidad educativa de las familias de la periferia. -->
-- [x] C) De justicia cultural y social, que sitúa al aprendizaje, el bienestar y la conectividad como derechos públicos indispensables para el desarrollo de la dignidad humana.
+- [x] B) De justicia cultural y social, que sitúa al aprendizaje, el bienestar y la conectividad como derechos públicos indispensables para el desarrollo de la dignidad humana.
   <!-- feedback: Correcto. El acceso equitativo a la cultura, salud y conectividad es un derecho consagrado que fundamenta la cohesión de una sociedad democrática plural. -->
 - [ ] D) Teológico clerical, que busca someter las mentes de los deparados a dogmas de fe religiosos antiguos del virreinato.
   <!-- feedback: Incorrecto. Las deparaciones defendidas son enteramente laicas, seculares, científicas y de pluralidad moderna de la federación. -->
@@ -501,9 +501,9 @@ A partir de la lectura integral de los dos pasajes de este bloque semanal, ¿cu�
 ### Opciones
 - [ ] A) La concentración metropolitana beneficia a largo plazo la recarga de los acuíferos subterráneos de Michoacán.
   <!-- feedback: Incorrecto. El centralismo hídrico agota severamente el subsuelo del Valle de México; no beneficia al subsuelo de Michoacán. -->
-- [x] B) El centralismo genera fallos de doble vía, mermando materialmente a la capital y excluyendo cívicamente a la periferia de patrimonio de centro.
+- [x] C) El centralismo genera fallos de doble vía, mermando materialmente a la capital y excluyendo cívicamente a la periferia de patrimonio de centro.
   <!-- feedback: Correcto. El desequilibrio agota físicamente los límites ecológicos del centro (hundimientos, sobreexplotación) e impide el disfrute de patrimonio de centro en la periferia nacional. -->
-- [ ] C) La deparación de los museos de la capital es la única vía idónea para proteger las áreas de desove de tortugas de Quintana Roo.
+- [ ] B) La deparación de los museos de la capital es la única vía idónea para proteger las áreas de desove de tortugas de Quintana Roo.
   <!-- feedback: Incorrecto. No existe nexo causal que ligue la ubicación de museos artísticos en la capital con el desove de tortugas marinas costeras caribeñas. -->
 - [ ] D) El sistema hídrico del Cutzamala debe alimentar de lluvia las salas del INBAL en la Ciudad de México de forma prioritaria.
   <!-- feedback: Incorrecto. El sistema hídrico de abasto de agua no alimenta físicamente a las salas de arte del INBAL, mezclando de forma absurda los temas. -->
@@ -527,9 +527,9 @@ El rescate y conservación del Centro Histórico de la Ciudad de México, el cor
 ### Opciones
 - [ ] A) Desalojar de forma forzada a toda la población del centro metropolitano para reubicarla en las deparaciones de Chiapas.
   <!-- feedback: Incorrecto. El desalojo forzado de familias es una medida autoritaria e inviable que viola los derechos humanos y el equilibrio de la federación. -->
-- [x] B) Transitar hacia una planeación federalista y equitativa que respete los límites de carga ecológicos locales y democratice el acceso a bienes mediante desarrollo equilibrado.
+- [x] C) Transitar hacia una planeación federalista y equitativa que respete los límites de carga ecológicos locales y democratice el acceso a bienes mediante desarrollo equilibrado.
   <!-- feedback: Correcto. Integrar criterios de resguardo biofísico y descentralización de la deparación garantiza un desarrollo cívico justo, respetuoso de los recursos y de la dignidad de todos los estados. -->
-- [ ] C) Autorizar la deparación con asfalto impermeable de las áreas boscosas de recarga pluvial de la capital.
+- [ ] B) Autorizar la deparación con asfalto impermeable de las áreas boscosas de recarga pluvial de la capital.
   <!-- feedback: Incorrecto. Edificar asfalto impermeable sobre áreas boscosas de recarga pluvial anula la infiltración y agrava severamente el hundimiento de la cuenca. -->
 - [ ] D) Subordinar todas las decisiones de deparación de México de forma absoluta a los intereses de compañías europeas.
   <!-- feedback: Incorrecto. La soberanía de planeación de México debe responder a los derechos de sus propios deparados, no a corporativos extranjeros de telecomunicaciones. -->

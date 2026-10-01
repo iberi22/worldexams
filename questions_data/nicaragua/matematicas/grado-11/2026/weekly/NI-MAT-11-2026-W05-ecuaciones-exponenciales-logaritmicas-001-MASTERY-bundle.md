@@ -29,8 +29,8 @@ bundle_index: 1
 ¿Cuál es el primer paso recomendado para resolver la ecuación exponencial $b^x = a$, cuando $a$ no puede expresarse como una potencia de $b$?
 
 ### Opciones
-- [ ] A) Multiplicar ambos lados por $b$. <!-- feedback: Incorrecto. Multiplicar por la base no ayuda a aislar el exponente x. -->
-- [x] B) Aplicar logaritmos a ambos lados de la ecuación. <!-- feedback: Correcto. Aplicar logaritmos permite usar la propiedad de la potencia para bajar el exponente x. -->
+- [ ] B) Multiplicar ambos lados por $b$. <!-- feedback: Incorrecto. Multiplicar por la base no ayuda a aislar el exponente x. -->
+- [x] A) Aplicar logaritmos a ambos lados de la ecuación. <!-- feedback: Correcto. Aplicar logaritmos permite usar la propiedad de la potencia para bajar el exponente x. -->
 - [ ] C) Elevar ambos lados al cuadrado. <!-- feedback: Incorrecto. Elevar al cuadrado complicaría el exponente convirtiéndolo en 2x. -->
 - [ ] D) Dividir $a$ entre $b$. <!-- feedback: Incorrecto. Esta operación no es válida para despejar un exponente. -->
 
@@ -48,9 +48,9 @@ Cuando las bases no se pueden igualar fácilmente, la herramienta fundamental es
 ¿Cuál es la propiedad que permite convertir la ecuación $\log_b(x) = \log_b(y)$ en la ecuación simple $x = y$?
 
 ### Opciones
-- [ ] A) Propiedad conmutativa. <!-- feedback: Incorrecto. La propiedad conmutativa trata sobre el orden de las operaciones. -->
-- [ ] B) Propiedad distributiva. <!-- feedback: Incorrecto. No se está distribuyendo un factor sobre una suma. -->
-- [x] C) Propiedad de inyectividad (unidireccionalidad) de la función logarítmica. <!-- feedback: Correcto. Como a cada valor del dominio le corresponde un único valor del rango, si los logaritmos son iguales, sus argumentos deben serlo. -->
+- [ ] B) Propiedad conmutativa. <!-- feedback: Incorrecto. La propiedad conmutativa trata sobre el orden de las operaciones. -->
+- [ ] C) Propiedad distributiva. <!-- feedback: Incorrecto. No se está distribuyendo un factor sobre una suma. -->
+- [x] A) Propiedad de inyectividad (unidireccionalidad) de la función logarítmica. <!-- feedback: Correcto. Como a cada valor del dominio le corresponde un único valor del rango, si los logaritmos son iguales, sus argumentos deben serlo. -->
 - [ ] D) Propiedad asociativa. <!-- feedback: Incorrecto. No se está cambiando la agrupación de términos. -->
 
 ### Explicacion Pedagogica
@@ -106,8 +106,8 @@ Resuelve la ecuación exponencial: $5^{2x} = 25$.
 
 ### Opciones
 - [ ] A) $x = 2$ <!-- feedback: Incorrecto. Si x=2, el exponente sería 4, y $5^4 = 625$. -->
-- [x] B) $x = 1$ <!-- feedback: Correcto. Como $25 = 5^2$, igualamos exponentes: $2x = 2$, por lo tanto $x = 1$. -->
-- [ ] C) $x = 0$ <!-- feedback: Incorrecto. $5^0 = 1$, no 25. -->
+- [x] C) $x = 1$ <!-- feedback: Correcto. Como $25 = 5^2$, igualamos exponentes: $2x = 2$, por lo tanto $x = 1$. -->
+- [ ] B) $x = 0$ <!-- feedback: Incorrecto. $5^0 = 1$, no 25. -->
 - [ ] D) $x = 5$ <!-- feedback: Incorrecto. Valor muy alto para la igualdad planteada. -->
 
 ### Explicacion Pedagogica
@@ -125,8 +125,8 @@ Halla el valor de $x$ en la ecuación: $2^{x+1} = 8$.
 
 ### Opciones
 - [ ] A) $x = 3$ <!-- feedback: Incorrecto. $2^{3+1} = 2^4 = 16$. -->
-- [x] B) $x = 2$ <!-- feedback: Correcto. $2^{x+1} = 2^3$, entonces $x + 1 = 3$, por lo que $x = 2$. -->
-- [ ] C) $x = 1$ <!-- feedback: Incorrecto. $2^2 = 4$. -->
+- [x] C) $x = 2$ <!-- feedback: Correcto. $2^{x+1} = 2^3$, entonces $x + 1 = 3$, por lo que $x = 2$. -->
+- [ ] B) $x = 1$ <!-- feedback: Incorrecto. $2^2 = 4$. -->
 - [ ] D) $x = 4$ <!-- feedback: Incorrecto. Valor excedido para la igualdad. -->
 
 ### Explicacion Pedagogica
@@ -144,9 +144,9 @@ Expresamos 8 como potencia de 2 ($2^3$). Al igualar los exponentes $x+1 = 3$, ob
 
 ### Opciones
 - [ ] A) $x = 8$ <!-- feedback: Incorrecto. $8-2=6$, y $\log_3(6)$ no es 2. -->
-- [x] B) $x = 11$ <!-- feedback: Correcto. $x - 2 = 3^2 = 9$. Sumando 2, obtenemos $x = 11$. -->
-- [ ] C) $x = 7$ <!-- feedback: Incorrecto. $3^2 = 9$, no 5. -->
-- [ ] D) $x = 13$ <!-- feedback: Incorrecto. Error de cálculo en la transformación exponencial. -->
+- [x] D) $x = 11$ <!-- feedback: Correcto. $x - 2 = 3^2 = 9$. Sumando 2, obtenemos $x = 11$. -->
+- [ ] B) $x = 7$ <!-- feedback: Incorrecto. $3^2 = 9$, no 5. -->
+- [ ] C) $x = 13$ <!-- feedback: Incorrecto. Error de cálculo en la transformación exponencial. -->
 
 ### Explicacion Pedagogica
 Transformamos a la forma exponencial $3^2 = x-2$. Esto resulta en $9 = x-2$, por lo tanto $x = 11$.
@@ -163,9 +163,9 @@ Resuelve para $x$: $e^x = 10$. (Expresa el resultado en términos de logaritmo n
 
 ### Opciones
 - [ ] A) $x = \log(10)$ <!-- feedback: Incorrecto. "log" suele referirse a base 10. Para base e se usa "ln". -->
-- [x] B) $x = \ln(10)$ <!-- feedback: Correcto. Aplicando logaritmo natural en ambos lados, $\ln(e^x) = \ln(10)$, por lo que $x = \ln(10)$. -->
-- [ ] C) $x = 10^e$ <!-- feedback: Incorrecto. Esta no es la operación inversa. -->
-- [ ] D) $x = \sqrt[e]{10}$ <!-- feedback: Incorrecto. Los logaritmos no son raíces radicales. -->
+- [x] D) $x = \ln(10)$ <!-- feedback: Correcto. Aplicando logaritmo natural en ambos lados, $\ln(e^x) = \ln(10)$, por lo que $x = \ln(10)$. -->
+- [ ] B) $x = 10^e$ <!-- feedback: Incorrecto. Esta no es la operación inversa. -->
+- [ ] C) $x = \sqrt[e]{10}$ <!-- feedback: Incorrecto. Los logaritmos no son raíces radicales. -->
 
 ### Explicacion Pedagogica
 El logaritmo natural ($\ln$) es la función inversa de la base $e$. Aplicarlo a ambos lados "baja" la $x$ y nos da la solución exacta.
@@ -182,8 +182,8 @@ Halla el valor de $x$ en: $\log(x) + \log(2) = \log(12)$.
 
 ### Opciones
 - [ ] A) $x = 10$ <!-- feedback: Incorrecto. $\log(10) + \log(2) = \log(20)$, no $\log(12)$. -->
-- [x] B) $x = 6$ <!-- feedback: Correcto. Usando la propiedad del producto: $\log(2x) = \log(12)$, por lo tanto $2x = 12$ y $x = 6$. -->
-- [ ] C) $x = 14$ <!-- feedback: Incorrecto. Se sumó 2 en lugar de multiplicar por 2. -->
+- [x] C) $x = 6$ <!-- feedback: Correcto. Usando la propiedad del producto: $\log(2x) = \log(12)$, por lo tanto $2x = 12$ y $x = 6$. -->
+- [ ] B) $x = 14$ <!-- feedback: Incorrecto. Se sumó 2 en lugar de multiplicar por 2. -->
 - [ ] D) $x = 24$ <!-- feedback: Incorrecto. Se multiplicó 12 por 2 en lugar de dividir. -->
 
 ### Explicacion Pedagogica
@@ -200,9 +200,9 @@ Combinamos los logaritmos de la izquierda usando $\log M + \log N = \log(MN)$. L
 Resuelve: $\ln(x) - \ln(3) = \ln(4)$.
 
 ### Opciones
-- [ ] A) $x = 1$ <!-- feedback: Incorrecto. No se restan los argumentos. -->
-- [ ] B) $x = 7$ <!-- feedback: Incorrecto. Se sumaron los argumentos, error de propiedad. -->
-- [x] C) $x = 12$ <!-- feedback: Correcto. $\ln(x/3) = \ln(4) \Rightarrow x/3 = 4 \Rightarrow x = 12$. -->
+- [ ] B) $x = 1$ <!-- feedback: Incorrecto. No se restan los argumentos. -->
+- [ ] C) $x = 7$ <!-- feedback: Incorrecto. Se sumaron los argumentos, error de propiedad. -->
+- [x] A) $x = 12$ <!-- feedback: Correcto. $\ln(x/3) = \ln(4) \Rightarrow x/3 = 4 \Rightarrow x = 12$. -->
 - [ ] D) $x = 4/3$ <!-- feedback: Incorrecto. Se dividió 4 entre 3 en lugar de multiplicar. -->
 
 ### Explicacion Pedagogica
@@ -238,8 +238,8 @@ Convertimos ambas bases a potencias de 2. $1/2 = 2^{-1}$ y $16 = 2^4$. Igualando
 Halla $x$ en la ecuación: $2 \log_2(x) = \log_2(25)$.
 
 ### Opciones
-- [ ] A) $x = 12.5$ <!-- feedback: Incorrecto. No se divide el argumento entre el coeficiente exterior. -->
-- [x] B) $x = 5$ <!-- feedback: Correcto. El 2 sube como exponente: $\log_2(x^2) = \log_2(25) \Rightarrow x^2 = 25$. Como el dominio de x es positivo, $x = 5$. -->
+- [ ] B) $x = 12.5$ <!-- feedback: Incorrecto. No se divide el argumento entre el coeficiente exterior. -->
+- [x] A) $x = 5$ <!-- feedback: Correcto. El 2 sube como exponente: $\log_2(x^2) = \log_2(25) \Rightarrow x^2 = 25$. Como el dominio de x es positivo, $x = 5$. -->
 - [ ] C) $x = 50$ <!-- feedback: Incorrecto. Error en la aplicación de las propiedades de logaritmos. -->
 - [ ] D) $x = \sqrt{2}$ <!-- feedback: Incorrecto. Error conceptual al manejar el coeficiente. -->
 
@@ -257,8 +257,8 @@ Aplicamos la propiedad de la potencia en sentido inverso: $k \log M = \log M^k$.
 ¿Cuál es el valor aproximado de $x$ en $3^x = 20$? (Usa $\log 3 \approx 0.477$ y $\log 20 \approx 1.301$).
 
 ### Opciones
-- [ ] A) $x \approx 0.36$ <!-- feedback: Incorrecto. El resultado debe ser mayor que 2 ($3^2=9$). -->
-- [x] B) $x \approx 2.73$ <!-- feedback: Correcto. $x \log 3 = \log 20 \Rightarrow x = 1.301 / 0.477 \approx 2.727$. -->
+- [ ] B) $x \approx 0.36$ <!-- feedback: Incorrecto. El resultado debe ser mayor que 2 ($3^2=9$). -->
+- [x] A) $x \approx 2.73$ <!-- feedback: Correcto. $x \log 3 = \log 20 \Rightarrow x = 1.301 / 0.477 \approx 2.727$. -->
 - [ ] C) $x \approx 6.67$ <!-- feedback: Incorrecto. Se dividió 20 entre 3, error de concepto. -->
 - [ ] D) $x \approx 1.81$ <!-- feedback: Incorrecto. Error en el cálculo de la división de logaritmos. -->
 
@@ -277,8 +277,8 @@ Al resolver la ecuación $\log(x) + \log(x - 3) = 1$, se obtienen los valores $x
 
 ### Opciones
 - [ ] A) Ambas son soluciones válidas. <!-- feedback: Incorrecto. Una de las soluciones no pertenece al dominio original. -->
-- [x] B) Solo $x = 5$ es solución. <!-- feedback: Correcto. Para $x = -2$, el argumento $\log(x)$ sería $\log(-2)$, lo cual no existe en los reales. -->
-- [ ] C) Solo $x = -2$ es solución. <!-- feedback: Incorrecto. Los logaritmos de números negativos no están definidos. -->
+- [x] C) Solo $x = 5$ es solución. <!-- feedback: Correcto. Para $x = -2$, el argumento $\log(x)$ sería $\log(-2)$, lo cual no existe en los reales. -->
+- [ ] B) Solo $x = -2$ es solución. <!-- feedback: Incorrecto. Los logaritmos de números negativos no están definidos. -->
 - [ ] D) Ninguna es solución. <!-- feedback: Incorrecto. El valor 5 sí cumple con la ecuación y las restricciones de dominio. -->
 
 ### Explicacion Pedagogica
@@ -295,8 +295,8 @@ Este es un ejemplo de "solución extraña". Aunque el álgebra produce dos resul
 Resuelve la ecuación exponencial: $2^{3x} = 5^{x+2}$. (Expresa la solución en términos de logaritmos).
 
 ### Opciones
-- [ ] A) $x = \frac{2 \log 5}{3 \log 2 - 5}$ <!-- feedback: Incorrecto. El término independiente en el denominador está mal calculado. -->
-- [x] B) $x = \frac{2 \log 5}{3 \log 2 - \log 5}$ <!-- feedback: Correcto. Al aplicar logaritmos: $3x \log 2 = (x+2) \log 5 \Rightarrow 3x \log 2 = x \log 5 + 2 \log 5$. Despejando x obtenemos el resultado. -->
+- [ ] B) $x = \frac{2 \log 5}{3 \log 2 - 5}$ <!-- feedback: Incorrecto. El término independiente en el denominador está mal calculado. -->
+- [x] A) $x = \frac{2 \log 5}{3 \log 2 - \log 5}$ <!-- feedback: Correcto. Al aplicar logaritmos: $3x \log 2 = (x+2) \log 5 \Rightarrow 3x \log 2 = x \log 5 + 2 \log 5$. Despejando x obtenemos el resultado. -->
 - [ ] C) $x = \frac{\log 5}{3 \log 2}$ <!-- feedback: Incorrecto. Se ignoró el término $x$ del lado derecho. -->
 - [ ] D) $x = \frac{2}{3}$ <!-- feedback: Incorrecto. No se pueden simplificar las bases de esta manera. -->
 
@@ -334,9 +334,9 @@ Halla las soluciones para $x$ en la ecuación $4^x - 6(2^x) + 8 = 0$.
 
 ### Opciones
 - [ ] A) $x = 4$ y $x = 2$ <!-- feedback: Incorrecto. Estos son los valores de la variable intermedia u, no de x. -->
-- [x] B) $x = 2$ y $x = 1$ <!-- feedback: Correcto. Sea $u = 2^x$. La ecuación es $u^2 - 6u + 8 = 0$, factorizando $(u-4)(u-2)=0$. Entonces $2^x=4 \Rightarrow x=2$ y $2^x=2 \Rightarrow x=1$. -->
-- [ ] C) $x = 8$ y $x = 6$ <!-- feedback: Incorrecto. Valores sin relación lógica con la factorización. -->
-- [ ] D) No tiene solución real. <!-- feedback: Incorrecto. La ecuación cuadrática en u tiene raíces reales positivas, lo que garantiza soluciones para x. -->
+- [x] D) $x = 2$ y $x = 1$ <!-- feedback: Correcto. Sea $u = 2^x$. La ecuación es $u^2 - 6u + 8 = 0$, factorizando $(u-4)(u-2)=0$. Entonces $2^x=4 \Rightarrow x=2$ y $2^x=2 \Rightarrow x=1$. -->
+- [ ] B) $x = 8$ y $x = 6$ <!-- feedback: Incorrecto. Valores sin relación lógica con la factorización. -->
+- [ ] C) No tiene solución real. <!-- feedback: Incorrecto. La ecuación cuadrática en u tiene raíces reales positivas, lo que garantiza soluciones para x. -->
 
 ### Explicacion Pedagogica
 Reconocemos que $4^x = (2^x)^2$. Resolvemos la cuadrática para $2^x$ y luego resolvemos las dos ecuaciones exponenciales básicas resultantes para hallar el valor de $x$.
@@ -353,8 +353,8 @@ Resuelve la ecuación: $\log_2(x) + \log_4(x) = 3$.
 
 ### Opciones
 - [ ] A) $x = 3$ <!-- feedback: Incorrecto. $\log_2(3) + \log_4(3)$ no suma 3. -->
-- [x] B) $x = 4$ <!-- feedback: Correcto. Cambiamos base: $\log_2(x) + \frac{\log_2(x)}{\log_2(4)} = 3 \Rightarrow \log_2(x) + \frac{1}{2}\log_2(x) = 3 \Rightarrow \frac{3}{2}\log_2(x) = 3 \Rightarrow \log_2(x) = 2 \Rightarrow x = 4$. -->
-- [ ] C) $x = 8$ <!-- feedback: Incorrecto. Daría $3 + 1.5 = 4.5$, excediendo el valor 3. -->
+- [x] C) $x = 4$ <!-- feedback: Correcto. Cambiamos base: $\log_2(x) + \frac{\log_2(x)}{\log_2(4)} = 3 \Rightarrow \log_2(x) + \frac{1}{2}\log_2(x) = 3 \Rightarrow \frac{3}{2}\log_2(x) = 3 \Rightarrow \log_2(x) = 2 \Rightarrow x = 4$. -->
+- [ ] B) $x = 8$ <!-- feedback: Incorrecto. Daría $3 + 1.5 = 4.5$, excediendo el valor 3. -->
 - [ ] D) $x = 2$ <!-- feedback: Incorrecto. Daría $1 + 0.5 = 1.5$. -->
 
 ### Explicacion Pedagogica
@@ -375,9 +375,9 @@ $\log(x + y) = \log(4)$
 
 ### Opciones
 - [ ] A) $x = 1, y = 3$ <!-- feedback: Incorrecto. $2^1 \cdot 4^3 = 2 \cdot 64 = 128$, no 32. -->
-- [x] B) $x = 3, y = 1$ <!-- feedback: Correcto. De la segunda eq: $x + y = 4$. De la primera: $2^x \cdot 2^{2y} = 2^5 \Rightarrow x + 2y = 5$. Resolviendo el sistema lineal resultante obtenemos $x=3, y=1$. -->
-- [ ] C) $x = 2, y = 2$ <!-- feedback: Incorrecto. $2^2 \cdot 4^2 = 4 \cdot 16 = 64$. -->
-- [ ] D) $x = 4, y = 0$ <!-- feedback: Incorrecto. $\log(4+0) = \log(4)$, pero $2^4 \cdot 4^0 = 16$. -->
+- [x] D) $x = 3, y = 1$ <!-- feedback: Correcto. De la segunda eq: $x + y = 4$. De la primera: $2^x \cdot 2^{2y} = 2^5 \Rightarrow x + 2y = 5$. Resolviendo el sistema lineal resultante obtenemos $x=3, y=1$. -->
+- [ ] B) $x = 2, y = 2$ <!-- feedback: Incorrecto. $2^2 \cdot 4^2 = 4 \cdot 16 = 64$. -->
+- [ ] C) $x = 4, y = 0$ <!-- feedback: Incorrecto. $\log(4+0) = \log(4)$, pero $2^4 \cdot 4^0 = 16$. -->
 
 ### Explicacion Pedagogica
 Transformamos las ecuaciones originales en un sistema de ecuaciones lineales. La exponencial se convierte en lineal igualando bases, y la logarítmica igualando argumentos.

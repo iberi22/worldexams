@@ -34,11 +34,11 @@ Este bundle contiene 20 preguntas sobre **Enlaces Químicos e Interacciones Inte
 ¿Qué tipo de enlace se forma típicamente cuando la diferencia de electronegatividad ($\Delta EN$) entre dos átomos es mayor a 1.7?
 
 ### Opciones
-- [x] A) Enlace iónico.
+- [x] C) Enlace iónico.
   <!-- feedback: Correcto. Una diferencia de electronegatividad superior a 1.7 indica la transferencia de electrones formando cationes y aniones. -->
-- [ ] B) Enlace covalente apolar.
+- [ ] A) Enlace covalente apolar.
   <!-- feedback: Incorrecto. Ocurre cuando $\Delta EN \approx 0$. -->
-- [ ] C) Enlace de puente de hidrógeno.
+- [ ] B) Enlace de puente de hidrógeno.
   <!-- feedback: Incorrecto. Es una atracción intermolecular entre dipolos permanentes. -->
 - [ ] D) Enlace metálico.
   <!-- feedback: Incorrecto. Ocurre entre átomos de baja electronegatividad en un mar de electrones. -->
@@ -80,11 +80,11 @@ El mar de electrones deslocalizados permite el flujo de carga eléctrica y el de
 ¿Qué fuerza intermolecular explica que el agua sea líquida a temperatura ambiente a diferencia del $H_2S$ gaseoso?
 
 ### Opciones
-- [x] A) Puentes de hidrógeno entre el hidrógeno y el oxígeno altamente electronegativo.
+- [x] C) Puentes de hidrógeno entre el hidrógeno y el oxígeno altamente electronegativo.
   <!-- feedback: Correcto. El enlace O-H polar permite formar puentes de hidrógeno intermoleculares intensos. -->
-- [ ] B) Fuerzas iónicas de atracción Coulombiana.
+- [ ] A) Fuerzas iónicas de atracción Coulombiana.
   <!-- feedback: Incorrecto. Ambas son moléculas covalentes neutras. -->
-- [ ] C) Enlaces covalentes dativos intramoleculares.
+- [ ] B) Enlaces covalentes dativos intramoleculares.
   <!-- feedback: Incorrecto. Las fuerzas de ebullición son intermoleculares, no intramoleculares. -->
 - [ ] D) Fuerzas de van der Waals inducidas exclusivamente.
   <!-- feedback: Incorrecto. El puente de hidrógeno es mucho más fuerte que las fuerzas inducidas. -->
@@ -103,9 +103,9 @@ Los puentes de hidrógeno en el agua requieren mayor energía térmica para sepa
 Según la Teoría de Repulsión de Pares de Electrones de la Capa de Valencia (VSEPR), ¿cuál es la geometría molecular del $CH_4$?
 
 ### Opciones
-- [x] A) Tetraédrica, con ángulos de enlace de $109.5^\circ$.
+- [x] B) Tetraédrica, con ángulos de enlace de $109.5^\circ$.
   <!-- feedback: Correcto. 4 pares enlazantes se repelen de forma equivalente adoptando geometría tetraédrica. -->
-- [ ] B) Lineal, con ángulos de $180^\circ$.
+- [ ] A) Lineal, con ángulos de $180^\circ$.
   <!-- feedback: Incorrecto. Corresponde a 2 pares de electrones alrededor del átomo central (ej. $CO_2$). -->
 - [ ] C) Trigonal plana, con ángulos de $120^\circ$.
   <!-- feedback: Incorrecto. Corresponde a 3 pares enlazantes (ej. $BF_3$). -->
@@ -149,11 +149,11 @@ Los compuestos iónicos conduce electricidad en fase líquida o solución acuosa
 A pesar de tener enlaces covalentes polares C=O, ¿por qué la molécula de $CO_2$ es apolar ($moment dipolar \mu = 0$)?
 
 ### Opciones
-- [x] A) Su geometría es lineal y los dipolos de enlace opuestos se anulan vectorialmente.
+- [x] C) Su geometría es lineal y los dipolos de enlace opuestos se anulan vectorialmente.
   <!-- feedback: Correcto. La simetría lineal causa la cancelación vectorial de los momentos dipolares individuales. -->
-- [ ] B) El carbono y el oxígeno tienen idéntica electronegatividad.
+- [ ] A) El carbono y el oxígeno tienen idéntica electronegatividad.
   <!-- feedback: Incorrecto. El oxígeno es más electronegativo que el carbono. -->
-- [ ] C) La molécula contiene un par de electrones libres en el carbono.
+- [ ] B) La molécula contiene un par de electrones libres en el carbono.
   <!-- feedback: Incorrecto. El carbono central del $CO_2$ no posee pares libres. -->
 - [ ] D) El $CO_2$ forma enlaces iónicos en fase gaseosa.
   <!-- feedback: Incorrecto. Es una molécula covalentemente enlazada. -->
@@ -195,13 +195,13 @@ La resonancia hibrida las estructuras contribuyentes deslocalizando electrones $
 ¿Qué regla de solubilidad molecular explica por qué el hexano no se disuelve en agua?
 
 ### Opciones
-- [x] A) "Lo semejante disuelve a lo semejante": el hexano es apolar y el agua es un solvente polar.
+- [x] D) "Lo semejante disuelve a lo semejante": el hexano es apolar y el agua es un solvente polar.
   <!-- feedback: Correcto. Las moléculas apolares prefieren interacciones de London entre sí y no forman puentes de hidrógeno con el agua. -->
-- [ ] B) El hexano reacciona violentamente explotando al contacto con el agua.
+- [ ] A) El hexano reacciona violentamente explotando al contacto con el agua.
   <!-- feedback: Incorrecto. Es un alcano estable no reactivo con agua fría. -->
-- [ ] C) El agua evapora el hexano por diferencia de densidad.
+- [ ] B) El agua evapora el hexano por diferencia de densidad.
   <!-- feedback: Incorrecto. La inmiscibilidad es un equilibrio de fuerzas intermoleculares. -->
-- [ ] D) El hexano es iónico y el agua es no polar.
+- [ ] C) El hexano es iónico y el agua es no polar.
   <!-- feedback: Incorrecto. El hexano es un hidrocarburo covalente apolar. -->
 
 ### Explicacion Pedagogica
@@ -218,13 +218,13 @@ La diferencia de polaridad (agua polar vs hexano apolar) impide la solvatación 
 ¿Cuál de estos ácidos presenta el enlace covalente H-X más fuerte y corto debido a la alta electronegatividad del halógeno?
 
 ### Opciones
-- [x] A) Fluoruro de hidrógeno ($HF$).
+- [x] D) Fluoruro de hidrógeno ($HF$).
   <!-- feedback: Correcto. El flúor es el elemento más electronegativo, generando un enlace H-F muy corto y con elevada energía de disociación. -->
-- [ ] B) Yoduro de hidrógeno ($HI$).
+- [ ] A) Yoduro de hidrógeno ($HI$).
   <!-- feedback: Incorrecto. El yodo tiene mayor radio atómico y su enlace H-I es más largo y débil. -->
-- [ ] C) Cloruro de hidrógeno ($HCl$).
+- [ ] B) Cloruro de hidrógeno ($HCl$).
   <!-- feedback: Incorrecto. El enlace H-Cl es más largo que el H-F. -->
-- [ ] D) Bromuro de hidrógeno ($HBr$).
+- [ ] C) Bromuro de hidrógeno ($HBr$).
   <!-- feedback: Incorrecto. El radio del bromo es mayor que el del flúor. -->
 
 ### Explicacion Pedagogica
@@ -264,13 +264,13 @@ Los electrones deslocalizados en los orbitales p libres de la red $sp^2$ del gra
 Considerando que ambas moléculas tienen geometría piramidal trigonal con un par libre en el nitrógeno, ¿por qué el $NF_3$ tiene un momento dipolar drásticamente menor?
 
 ### Opciones
-- [x] A) En el $NF_3$, los momentos de los enlaces N-F apuntan hacia los átomos de flúor opuestos al dipolo del par libre, cancelándolo parcialmente.
+- [x] D) En el $NF_3$, los momentos de los enlaces N-F apuntan hacia los átomos de flúor opuestos al dipolo del par libre, cancelándolo parcialmente.
   <!-- feedback: Correcto. Al ser el flúor más electronegativo que el nitrógeno, los dipolos de enlace se oponen al sentido del par solitario. -->
-- [ ] B) El $NF_3$ adopta una geometría totalmente plana que anula los dipolos.
+- [ ] A) El $NF_3$ adopta una geometría totalmente plana que anula los dipolos.
   <!-- feedback: Incorrecto. El $NF_3$ mantiene geometría piramidal trigonal. -->
-- [ ] C) El enlace N-F es puramente apolar.
+- [ ] B) El enlace N-F es puramente apolar.
   <!-- feedback: Incorrecto. La diferencia de electronegatividad entre N y F crea un enlace altamente polar. -->
-- [ ] D) El par solitario del nitrógeno desaparece en presencia de flúor.
+- [ ] C) El par solitario del nitrógeno desaparece en presencia de flúor.
   <!-- feedback: Incorrecto. El N conserva sus 5 electrones de valencia (3 enlazantes, 2 libres). -->
 
 ### Explicacion Pedagogica
@@ -287,11 +287,11 @@ En el $NF_3$ la atracción del flúor tira en dirección contraria a la densidad
 ¿Qué predicción de la TOM confirma experimentalmente que la molécula de $O_2$ es atraída por un campo magnético (paramagnética)?
 
 ### Opciones
-- [x] A) La presencia de dos electrones desapareados en los orbitales antienlazantes degénerados $\pi^*_{2p}$.
+- [x] C) La presencia de dos electrones desapareados en los orbitales antienlazantes degénerados $\pi^*_{2p}$.
   <!-- feedback: Correcto. La regla de Hund llena orbitales $\pi^*_{2p}$ con dos electrones desapariados, explicando el paramagnetismo. -->
-- [ ] B) La existencia de una carga iónica neta $+2$ en la molécula.
+- [ ] A) La existencia de una carga iónica neta $+2$ en la molécula.
   <!-- feedback: Incorrecto. $O_2$ es una molécula neutra. -->
-- [ ] C) El llenado completo de todos los orbitales sin electrones impares.
+- [ ] B) El llenado completo de todos los orbitales sin electrones impares.
   <!-- feedback: Incorrecto. El llenado completo produciría diamagnetismo (repulsión magnética). -->
 - [ ] D) La ruptura espontánea del enlace sigma.
   <!-- feedback: Incorrecto. El enlace $\sigma_{2p}$ permanece totalmente ocupado. -->
@@ -310,9 +310,9 @@ La TOM demuestra que el $O_2$ posee 2 electrones desapariados en los orbitales $
 ¿Qué tipo de enlace predomina en la red tridimensional del nitruro de boro cúbico para conferirle extrema dureza?
 
 ### Opciones
-- [x] A) Red covalente reticular tridimensional con hibridación $sp^3$.
+- [x] B) Red covalente reticular tridimensional con hibridación $sp^3$.
   <!-- feedback: Correcto. Al igual que el diamante, forma una red gigante sostenida por fuertes enlaces covalentes en las 3 dimensiones. -->
-- [ ] B) Fuerzas intermoleculares dipolo-dipolo débilmente unidas.
+- [ ] A) Fuerzas intermoleculares dipolo-dipolo débilmente unidas.
   <!-- feedback: Incorrecto. Las fuerzas dipolares generarían sólidos blandos y fusibles. -->
 - [ ] C) Enlace metálico deslocalizado con iones libres.
   <!-- feedback: Incorrecto. Es un cerámico aislante sin mar de electrones. -->
@@ -333,13 +333,13 @@ El nitruro de boro cúbico forma una red covalente gigante $sp^3$ análoga al di
 Si se dibuja la estructura de Lewis expandiendo el octeto del azufre a 12 electrones (dos enlaces dobles S=O y dos sencillos S-O$^-$), ¿cuál es la carga formal del azufre?
 
 ### Opciones
-- [x] A) Cero ($0$).
+- [x] D) Cero ($0$).
   <!-- feedback: Correcto. Carga formal $= 6 - (6 \text{ enlaces} + 0 \text{ electrones libres}) = 0$. Esta estructura minimiza cargas formales. -->
-- [ ] B) $+2$.
+- [ ] A) $+2$.
   <!-- feedback: Incorrecto. $+2$ es la carga formal en la estructura con octeto estricto de 4 enlaces sencillos. -->
-- [ ] C) $-2$.
+- [ ] B) $-2$.
   <!-- feedback: Incorrecto. $-2$ es la carga neta del anión, no la carga formal del átomo central de azufre. -->
-- [ ] D) $+1$.
+- [ ] C) $+1$.
   <!-- feedback: Incorrecto. Error en la resta de electrones asignados. -->
 
 ### Explicacion Pedagogica
@@ -356,13 +356,13 @@ En la estructura expandida con 2 enlaces dobles y 2 sencillos, el S tiene 6 enla
 ¿Qué principio de la teoría VSEPR justifica la contracción progresiva del ángulo de enlace?
 
 ### Opciones
-- [x] A) La repulsión que ejercen los pares de electrones libres es mayor que la de los pares enlazantes, comprimiendo los enlaces adyacentes.
+- [x] D) La repulsión que ejercen los pares de electrones libres es mayor que la de los pares enlazantes, comprimiendo los enlaces adyacentes.
   <!-- feedback: Correcto. La nube electrónica del par no enlazante ocupa mayor volumen, cerrando los ángulos de los enlaces vecinos. -->
-- [ ] B) El aumento de la masa del átomo central acorta los enlaces.
+- [ ] A) El aumento de la masa del átomo central acorta los enlaces.
   <!-- feedback: Incorrecto. El ángulo depende del volumen de repulsión de pares libres, no de la masa atómica. -->
-- [ ] C) La formación de enlaces iónicos reversibles en fase gaseosa.
+- [ ] B) La formación de enlaces iónicos reversibles en fase gaseosa.
   <!-- feedback: Incorrecto. Son todas moléculas covalentemente enlazadas. -->
-- [ ] D) La pérdida gradual de electrones por radiación UV.
+- [ ] C) La pérdida gradual de electrones por radiación UV.
   <!-- feedback: Incorrecto. Las geometrías son del estado fundamental neutro. -->
 
 ### Explicacion Pedagogica
@@ -402,9 +402,9 @@ La forma esférica de las moléculas ramificadas disminuye el área de contacto 
 ¿Qué característica de la cadena de poliacetileno es indispensable para permitir la conducción de carga a lo largo del polímero?
 
 ### Opciones
-- [x] A) La alternancia de enlaces sencillos y dobles (sistema $\pi$ conjugado deslocalizado).
+- [x] B) La alternancia de enlaces sencillos y dobles (sistema $\pi$ conjugado deslocalizado).
   <!-- feedback: Correcto. La conjugación alternada permite el solapamiento de orbitales p no hibridados en una banda de conducción $pi$. -->
-- [ ] B) La inclusión de enlaces iónicos de litio cada dos carbonos.
+- [ ] A) La inclusión de enlaces iónicos de litio cada dos carbonos.
   <!-- feedback: Incorrecto. La conducción en polímeros conjugados se basa en electrones $pi$ del esqueleto de carbono. -->
 - [ ] C) La conversión completa del polímero en agua pura.
   <!-- feedback: Incorrecto. El polímero es un material plástico sólido. -->
@@ -425,11 +425,11 @@ La conjugación de enlaces dobles permite la deslocalización del sistema $pi$ c
 Ambos compuestos poseen distancias interiónicas similares. ¿Por qué la energía de red del $MgO$ es casi cuatro veces mayor?
 
 ### Opciones
-- [x] A) Por la Ley de Coulomb: el producto de cargas de los iones $Mg^{2+}$ y $O^{2-}$ ($|2 \times (-2)| = 4$) es cuatro veces mayor que el del $Na^+$ y $F^-$ ($|1 \times (-1)| = 1$).
+- [x] C) Por la Ley de Coulomb: el producto de cargas de los iones $Mg^{2+}$ y $O^{2-}$ ($|2 \times (-2)| = 4$) es cuatro veces mayor que el del $Na^+$ y $F^-$ ($|1 \times (-1)| = 1$).
   <!-- feedback: Correcto. $U_{red} \propto \frac{q_1 q_2}{r}$; al duplicarse la carga de ambos iones, el atractivo electrostático aumenta por un factor de 4. -->
-- [ ] B) Porque el $MgO$ forma puentes de hidrógeno covalentes en el cristal.
+- [ ] A) Porque el $MgO$ forma puentes de hidrógeno covalentes en el cristal.
   <!-- feedback: Incorrecto. Es un compuesto iónico sin puentes de hidrógeno. -->
-- [ ] C) Porque el sodio es un metal radiactivo inestable.
+- [ ] B) Porque el sodio es un metal radiactivo inestable.
   <!-- feedback: Incorrecto. El sodio natural es un metal alcalino no radiactivo. -->
 - [ ] D) Porque el magnesio no tiene electrones de valencia.
   <!-- feedback: Incorrecto. El $Mg^{2+}$ perdió 2 electrones alcanzando configuración de gas noble. -->
@@ -448,9 +448,9 @@ La atracción electrostática es directamente proporcional al producto de las ca
 ¿Qué ocurre con las atracciones electrostáticas (puentes salinos) en la superficie de la proteína al transferirla a etanol?
 
 ### Opciones
-- [x] A) Se fortalecen significativamente porque la menor constante dieléctrica reduce el blindaje del solvente entre las cargas.
+- [x] B) Se fortalecen significativamente porque la menor constante dieléctrica reduce el blindaje del solvente entre las cargas.
   <!-- feedback: Correcto. La fuerza de Coulomb $F = \frac{q_1 q_2}{4\pi \epsilon r^2}$ aumenta al disminuir $\epsilon$, intensificando la atracción entre cargas opuestas. -->
-- [ ] B) Se anulan totalmente convirtiéndose en enlaces metálicos.
+- [ ] A) Se anulan totalmente convirtiéndose en enlaces metálicos.
   <!-- feedback: Incorrecto. Las cargas iónicas no mutan a enlaces metálicos. -->
 - [ ] C) Se debilitan por evaporación de los protones.
   <!-- feedback: Incorrecto. La menor constante dieléctrica aumenta la fuerza de atracción iónica. -->
@@ -471,9 +471,9 @@ Según la ley de Coulomb en medios continuos, $F propto 1/\epsilon$. Un solvente
 ¿Qué técnica instrumental basada en la vibración de enlaces químicos es más idónea para cuantificar la fuerza del enlace Cu-O sin destruir la muestra?
 
 ### Opciones
-- [x] A) Espectroscopía infrarroja por transformada de Fourier (FTIR) o Espectroscopía Raman.
+- [x] B) Espectroscopía infrarroja por transformada de Fourier (FTIR) o Espectroscopía Raman.
   <!-- feedback: Correcto. Miden la absorción o dispersión de fotones acoplados a las frecuencias de vibración (tensión y flexión) de enlaces específicos. -->
-- [ ] B) Cromatografía de gases con detector de llama.
+- [ ] A) Cromatografía de gases con detector de llama.
   <!-- feedback: Incorrecto. Destruye la muestra en llama de hidrógeno y es para compuestos volátiles. -->
 - [ ] C) Titulación ácido-base con fenolftaleína.
   <!-- feedback: Incorrecto. Es un método volumétrico destructivo no aplicable a cristales inorgánicos sólidos. -->

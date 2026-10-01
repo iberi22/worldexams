@@ -57,9 +57,9 @@ Identifying basic rooms of the house by their function in English (kitchen, bedr
 What furniture does Sofia use to sleep?
 
 ### Opciones
-- [x] A) A bed.
+- [x] B) A bed.
   <!-- feedback: The text says her bed is big and comfortable, and people sleep in beds. -->
-- [ ] B) A table.
+- [ ] A) A table.
   <!-- feedback: A table is used for eating or studying, not for sleeping. -->
 - [ ] C) A chair.
   <!-- feedback: A chair is used for sitting, not for sleeping at night. -->
@@ -80,9 +80,9 @@ Recognizing basic furniture vocabulary from a short descriptive text in English.
 Where is the cat?
 
 ### Opciones
-- [x] A) Under the table.
+- [x] B) Under the table.
   <!-- feedback: "Under" correctly describes something below the table. -->
-- [ ] B) On the table.
+- [ ] A) On the table.
   <!-- feedback: "On" means on the surface, but the cat is below the table. -->
 - [ ] C) In the table.
   <!-- feedback: "In" means inside, but a cat cannot be inside a solid table. -->
@@ -103,11 +103,11 @@ Using the preposition "under" to describe the location of objects and animals at
 Choose the sentence that means the same using "there is / there are".
 
 ### Opciones
-- [x] A) There are books on the chair in the living room.
+- [x] C) There are books on the chair in the living room.
   <!-- feedback: "There are" agrees with the plural noun "books" to describe location. -->
-- [ ] B) There is books on the chair in the living room.
+- [ ] A) There is books on the chair in the living room.
   <!-- feedback: "There is" is singular and does not agree with plural "books". -->
-- [ ] C) There are book on the chair in the living room.
+- [ ] B) There are book on the chair in the living room.
   <!-- feedback: "Book" should be plural "books" to agree with "there are". -->
 - [ ] D) There is a sofa on the chair in the living room.
   <!-- feedback: The original sentence talks about books, not about a sofa. -->
@@ -172,9 +172,9 @@ Analyzing spatial descriptions with "in" and "next to" to locate objects in a ho
 Which comparison correctly describes the two homes?
 
 ### Opciones
-- [x] A) Camilo has a big garden, while Laura has no garden.
+- [x] B) Camilo has a big garden, while Laura has no garden.
   <!-- feedback: The text contrasts the finca with a big garden against the apartment without one. -->
-- [ ] B) Camilo lives in a small apartment, while Laura lives in a finca.
+- [ ] A) Camilo lives in a small apartment, while Laura lives in a finca.
   <!-- feedback: The homes are reversed: Camilo lives in the finca and Laura in the apartment. -->
 - [ ] C) Both Camilo and Laura have a big garden.
   <!-- feedback: Only Camilo has a garden; Laura has no garden in her apartment. -->
@@ -195,13 +195,13 @@ Comparing descriptions of different Colombian homes to identify similarities and
 What is the most important message of this paragraph?
 
 ### Opciones
-- [x] A) Keeping things in their place makes the bedroom clean and comfortable.
+- [x] D) Keeping things in their place makes the bedroom clean and comfortable.
   <!-- feedback: The text links each object in its place with a clean and comfortable room. -->
-- [ ] B) Sleeping with toys on the bed is the best way to rest.
+- [ ] A) Sleeping with toys on the bed is the best way to rest.
   <!-- feedback: The text says toys belong under the bed, not on the bed. -->
-- [ ] C) Clothes on the floor make the bedroom comfortable.
+- [ ] B) Clothes on the floor make the bedroom comfortable.
   <!-- feedback: The paragraph recommends clothes in the closet, not on the floor. -->
-- [ ] D) Books under the bed help children study better.
+- [ ] C) Books under the bed help children study better.
   <!-- feedback: The text places books on the shelf, not under the bed. -->
 
 ### Explicacion Pedagogica

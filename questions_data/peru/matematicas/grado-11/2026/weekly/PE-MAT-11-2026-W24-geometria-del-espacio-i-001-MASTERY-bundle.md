@@ -57,9 +57,9 @@ Un hexaedro regular es un poliedro de seis caras cuadradas. Es uno de los cinco 
 ### Opciones
 - [ ] A) Sus bases son triángulos siempre.
   <!-- feedback: Incorrecto. Las bases pueden ser cualquier polígono. -->
-- [x] B) Sus aristas laterales son perpendiculares a las bases.
+- [x] C) Sus aristas laterales son perpendiculares a las bases.
   <!-- feedback: Correcto. En un prisma recto, la altura coincide con la longitud de las aristas laterales. -->
-- [ ] C) Todas sus caras laterales son cuadrados.
+- [ ] B) Todas sus caras laterales son cuadrados.
   <!-- feedback: Incorrecto. Sus caras laterales son rectángulos en general. -->
 - [ ] D) Tiene un solo vértice superior (ápice).
   <!-- feedback: Incorrecto. Esta es una característica de las pirámides, no de los prismas. -->
@@ -82,9 +82,9 @@ Calcule el volumen de una caja cuyas dimensiones son 5 cm de largo, 4 cm de anch
 ### Opciones
 - [ ] A) 19 cm³
   <!-- feedback: Incorrecto. Sumó las dimensiones en lugar de multiplicarlas. -->
-- [ ] B) 100 cm³
+- [ ] C) 100 cm³
   <!-- feedback: Incorrecto. Error en el cálculo del producto. -->
-- [x] C) 200 cm³
+- [x] B) 200 cm³
   <!-- feedback: Correcto. $V = largo \cdot ancho \cdot alto = 5 \cdot 4 \cdot 10 = 200$. -->
 - [ ] D) 400 cm³
   <!-- feedback: Incorrecto. Duplicó el resultado innecesariamente. -->
@@ -132,9 +132,9 @@ Un poliedro convexo tiene 8 caras y 12 vértices. ¿Cuántas aristas posee dicho
 ### Opciones
 - [ ] A) 22
   <!-- feedback: Incorrecto. Error al aplicar la suma en el teorema de Euler. -->
-- [x] B) 18
+- [x] C) 18
   <!-- feedback: Correcto. Teorema de Euler: $V + C = A + 2$. Entonces $12 + 8 = A + 2 \Rightarrow 20 = A + 2 \Rightarrow A = 18$. -->
-- [ ] C) 20
+- [ ] B) 20
   <!-- feedback: Incorrecto. Olvidó restar el número 2 de la constante del teorema. -->
 - [ ] D) 16
   <!-- feedback: Incorrecto. Restó en lugar de sumar adecuadamente. -->
@@ -207,9 +207,9 @@ Si la diagonal de un cubo mide $6\sqrt{3}$ cm, ¿cuál es el volumen de dicho cu
 ### Opciones
 - [ ] A) 36 cm³
   <!-- feedback: Incorrecto. Este es el área de una cara lateral. -->
-- [x] B) 216 cm³
+- [x] C) 216 cm³
   <!-- feedback: Correcto. Diagonal $D = a\sqrt{3} \Rightarrow 6\sqrt{3} = a\sqrt{3} \Rightarrow a = 6$. Volumen $V = a^3 = 6^3 = 216$. -->
-- [ ] C) 108 cm³
+- [ ] B) 108 cm³
   <!-- feedback: Incorrecto. Error al elevar la arista al cubo. -->
 - [ ] D) 72 cm³
   <!-- feedback: Incorrecto. No corresponde al cálculo para una arista de 6 cm. -->
@@ -232,9 +232,9 @@ Una pirámide cuadrangular regular tiene un lado de base de 10 cm y una apotema 
 ### Opciones
 - [ ] A) 260 cm²
   <!-- feedback: Incorrecto. Este es el área lateral únicamente. -->
-- [x] B) 360 cm²
+- [x] C) 360 cm²
   <!-- feedback: Correcto. Área base = $10^2 = 100$. Área lateral = $(Perimetro \cdot apotema)/2 = (40 \cdot 13)/2 = 260$. Área total = $100 + 260 = 360$. -->
-- [ ] C) 420 cm²
+- [ ] B) 420 cm²
   <!-- feedback: Incorrecto. Error en el cálculo del área lateral o de la base. -->
 - [ ] D) 130 cm²
   <!-- feedback: Incorrecto. Dividió el área lateral entre dos innecesariamente. -->
@@ -255,9 +255,9 @@ El área total de una pirámide es la suma del área de la base y el área later
 ¿Qué segmento representa la apotema de una pirámide regular?
 
 ### Opciones
-- [ ] A) La distancia del vértice (ápice) al centro de la base.
+- [ ] B) La distancia del vértice (ápice) al centro de la base.
   <!-- feedback: Incorrecto. Esta es la altura de la pirámide. -->
-- [x] B) La altura de cualquiera de las caras laterales.
+- [x] A) La altura de cualquiera de las caras laterales.
   <!-- feedback: Correcto. En una pirámide regular, la apotema es el segmento que une el ápice con el punto medio de un lado de la base. -->
 - [ ] C) La arista que une un vértice de la base con el ápice.
   <!-- feedback: Incorrecto. Esta es la arista lateral. -->
@@ -282,9 +282,9 @@ La suma de las longitudes de todas las aristas de un tetraedro regular es 36 cm.
 ### Opciones
 - [ ] A) $9\sqrt{3}$ cm²
   <!-- feedback: Incorrecto. Error al determinar la longitud de la arista o el número de caras. -->
-- [ ] B) $12\sqrt{3}$ cm²
+- [ ] C) $12\sqrt{3}$ cm²
   <!-- feedback: Incorrecto. Error en la aplicación de la fórmula del área. -->
-- [x] C) $36\sqrt{3}$ cm²
+- [x] B) $36\sqrt{3}$ cm²
   <!-- feedback: Correcto. Tetraedro tiene 6 aristas. $6a = 36 \Rightarrow a = 6$. Área total = $a^2\sqrt{3} = 6^2\sqrt{3} = 36\sqrt{3}$. -->
 - [ ] D) $18\sqrt{3}$ cm²
   <!-- feedback: Incorrecto. Olvidó el número total de caras en el cálculo final. -->
@@ -307,9 +307,9 @@ Un canal tiene forma de prisma recto cuya base es un trapecio isósceles con bas
 ### Opciones
 - [ ] A) 300 m³
   <!-- feedback: Incorrecto. No consideró la semisuma de las bases del trapecio. -->
-- [x] B) 450 m³
+- [x] C) 450 m³
   <!-- feedback: Correcto. Area base = $(2+4)/2 \cdot 1.5 = 3 \cdot 1.5 = 4.5$. Volumen = $4.5 \cdot 100 = 450$. -->
-- [ ] C) 600 m³
+- [ ] B) 600 m³
   <!-- feedback: Incorrecto. Multiplicó las bases sin promediarlas. -->
 - [ ] D) 900 m³
   <!-- feedback: Incorrecto. Duplicó el resultado del área de la base. -->
@@ -330,9 +330,9 @@ El volumen de un prisma es el producto del área de su base por su altura (en es
 En un cubo de arista 10 cm, se marcan los centros de dos caras adyacentes. Calcule la distancia entre dichos puntos.
 
 ### Opciones
-- [ ] A) 10 cm
+- [ ] B) 10 cm
   <!-- feedback: Incorrecto. Esta es la distancia entre centros de caras opuestas. -->
-- [x] B) $5\sqrt{2}$ cm
+- [x] A) $5\sqrt{2}$ cm
   <!-- feedback: Correcto. Los centros están a una distancia de 5 de la arista común. Forman un triángulo rectángulo de catetos 5 y 5. Distancia = $\sqrt{5^2 + 5^2} = 5\sqrt{2}$. -->
 - [ ] C) $5\sqrt{3}$ cm
   <!-- feedback: Incorrecto. Esta sería la distancia desde un vértice al centro del cubo. -->
@@ -357,9 +357,9 @@ En un tetraedro regular de arista $a$, se traza un plano que pasa por una arista
 ### Opciones
 - [ ] A) Triángulo equilátero, $a^2\sqrt{3}/4$
   <!-- feedback: Incorrecto. La sección es un triángulo isósceles, no equilátero. -->
-- [x] B) Triángulo isósceles, $a^2\sqrt{2}/4$
+- [x] C) Triángulo isósceles, $a^2\sqrt{2}/4$
   <!-- feedback: Correcto. Los lados son la arista $a$ y dos alturas de cara $a\sqrt{3}/2$. La altura de este triángulo es $a/\sqrt{2}$. Area $= (1/2) \cdot a \cdot a\sqrt{2}/2 = a^2\sqrt{2}/4$. -->
-- [ ] C) Triángulo isósceles, $a^2\sqrt{3}/6$
+- [ ] B) Triángulo isósceles, $a^2\sqrt{3}/6$
   <!-- feedback: Incorrecto. Error en el cálculo de la altura de la sección. -->
 - [ ] D) Cuadrado, $a^2/2$
   <!-- feedback: Incorrecto. Un plano que pasa por una arista y un punto solo puede generar un triángulo. -->
@@ -382,11 +382,11 @@ Se desea fabricar un tanque metálico con forma de paralelepípedo de base cuadr
 ### Opciones
 - [ ] A) $x = 2$, $h = 8$
   <!-- feedback: Incorrecto. El área superficial sería $4 + 4(16) = 68$. -->
-- [x] B) $x = 4$, $h = 2$
+- [x] D) $x = 4$, $h = 2$
   <!-- feedback: Correcto. Área $S = x^2 + 4xh$. Como $x^2h = 32 \Rightarrow h = 32/x^2$. $S = x^2 + 128/x$. Derivando: $2x - 128/x^2 = 0 \Rightarrow 2x^3 = 128 \Rightarrow x = 4$. Entonces $h = 32/16 = 2$. Superficie $= 16 + 4(4)(2) = 16 + 32 = 48$ m². -->
-- [ ] C) $x = 8$, $h = 0.5$
+- [ ] B) $x = 8$, $h = 0.5$
   <!-- feedback: Incorrecto. El área superficial sería $64 + 4(4) = 80$. -->
-- [ ] D) $x = 3.2$, $h = 3.125$
+- [ ] C) $x = 3.2$, $h = 3.125$
   <!-- feedback: Incorrecto. No es el punto de mínima superficie. -->
 
 ### Explicacion Pedagogica
@@ -407,11 +407,11 @@ Una pirámide hexagonal regular tiene una arista básica de 6 m y una arista lat
 ### Opciones
 - [ ] A) 4 m
   <!-- feedback: Incorrecto. No consideró la relación pitagórica con el radio de la base. -->
-- [x] B) 8 m
+- [x] D) 8 m
   <!-- feedback: Correcto. En un hexágono regular, el radio es igual al lado ($R = 6$). Se forma un triángulo rectángulo con la arista lateral como hipotenusa (10) y el radio como cateto (6). $h = \sqrt{10^2 - 6^2} = 8$. -->
-- [ ] C) $\sqrt{136}$ m
+- [ ] B) $\sqrt{136}$ m
   <!-- feedback: Incorrecto. Sumó los cuadrados en lugar de restarlos. -->
-- [ ] D) 6 m
+- [ ] C) 6 m
   <!-- feedback: Incorrecto. No es un triángulo notable 6-6-10. -->
 
 ### Explicacion Pedagogica
@@ -430,11 +430,11 @@ En una pirámide regular, la altura ($h$), el radio de la base ($R$) y la arista
 Se tiene una pirámide cuya altura es $H$. Se traza un plano paralelo a la base que biseca la altura ($h = H/2$). ¿En qué relación se encuentran el volumen de la pirámide pequeña superior y el volumen del tronco de pirámide resultante?
 
 ### Opciones
-- [ ] A) 1 a 2
+- [ ] B) 1 a 2
   <!-- feedback: Incorrecto. La relación de volúmenes depende del cubo de la razón de semejanza lineal. -->
-- [ ] B) 1 a 4
+- [ ] C) 1 a 4
   <!-- feedback: Incorrecto. Esta sería la relación entre las áreas de las bases. -->
-- [x] C) 1 a 7
+- [x] A) 1 a 7
   <!-- feedback: Correcto. Razón de semejanza $k = 1/2$. Razón de volúmenes $k^3 = 1/8$. Si el total es 8 y la pequeña es 1, el tronco es $8 - 1 = 7$. La relación es 1 a 7. -->
 - [ ] D) 1 a 8
   <!-- feedback: Incorrecto. Esta es la relación entre la pirámide pequeña y la pirámide original completa. -->
@@ -455,11 +455,11 @@ Cuando se corta una pirámide con un plano paralelo a la base, la pirámide pequ
 Un cubo de arista 1 m tiene una hormiga en un vértice y comida en el vértice opuesto. ¿Cuál es la distancia mínima que debe recorrer la hormiga para llegar a la comida desplazándose únicamente por la superficie del cubo?
 
 ### Opciones
-- [ ] A) $3$ m
+- [ ] B) $3$ m
   <!-- feedback: Incorrecto. Recorrido a lo largo de las aristas, no es el mínimo. -->
-- [ ] B) $\sqrt{3}$ m
+- [ ] C) $\sqrt{3}$ m
   <!-- feedback: Incorrecto. Esta es la distancia en línea recta a través del interior del cubo. -->
-- [x] C) $\sqrt{5}$ m
+- [x] A) $\sqrt{5}$ m
   <!-- feedback: Correcto. Al desarrollar la superficie del cubo (dos caras adyacentes), el camino mínimo es una línea recta que es hipotenusa de un triángulo de catetos 2 y 1. $d = \sqrt{2^2 + 1^2} = \sqrt{5}$. -->
 - [ ] D) $\sqrt{2} + 1$ m
   <!-- feedback: Incorrecto. Recorrido por la diagonal de una cara y luego una arista. -->
@@ -482,9 +482,9 @@ Determine el volumen de un tetraedro $OABC$ donde las aristas $OA, OB$ y $OC$ so
 ### Opciones
 - [ ] A) 8 cm³
   <!-- feedback: Incorrecto. Olvidó el factor 1/6 para tetraedros trirrectángulos. -->
-- [x] B) 12 cm³
+- [x] C) 12 cm³
   <!-- feedback: Correcto. Aplicando la fórmula para un tetraedro trirrectángulo: $V = (abc) / 6 = (3 \cdot 4 \cdot 6) / 6 = 12$. -->
-- [ ] C) 24 cm³
+- [ ] B) 24 cm³
   <!-- feedback: Incorrecto. Olvidó dividir entre 3 o entre 6 según la fórmula usada. -->
 - [ ] D) 36 cm³
   <!-- feedback: Incorrecto. No consideró la naturaleza piramidal del sólido. -->
@@ -507,9 +507,9 @@ Si se inscribe una esfera en un cubo y luego se inscribe un nuevo cubo dentro de
 ### Opciones
 - [ ] A) 3
   <!-- feedback: Incorrecto. -->
-- [ ] B) $\sqrt{3}$
+- [ ] C) $\sqrt{3}$
   <!-- feedback: Incorrecto. -->
-- [x] C) $3\sqrt{3}$
+- [x] B) $3\sqrt{3}$
   <!-- feedback: Correcto. Sea $L$ el lado del cubo mayor. El diámetro de la esfera es $L$. El lado del cubo menor $l$ cumple $l\sqrt{3} = L \Rightarrow l = L/\sqrt{3}$. Razón de volúmenes = $(L/l)^3 = (\sqrt{3})^3 = 3\sqrt{3}$. -->
 - [ ] D) 9
   <!-- feedback: Incorrecto. -->

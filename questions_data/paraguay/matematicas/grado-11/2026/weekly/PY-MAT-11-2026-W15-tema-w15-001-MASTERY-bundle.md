@@ -35,8 +35,8 @@ Este bundle evalúa conceptos fundamentales de Límites y Derivadas elementales 
 ¿Cuál es el valor del límite $\lim_{x \to 2} (3x + 4)$?
 
 ### Opciones
-- [x] A) $10$ <!-- feedback: ¡Correcto! Por sustitución directa: $\lim_{x \to 2} (3x + 4) = 3(2) + 4 = 6 + 4 = 10$. -->
-- [ ] B) $7$ <!-- feedback: Incorrecto. Evaluó $3 + 4 = 7$ ignorando la multiplicación por $x=2$. -->
+- [x] B) $10$ <!-- feedback: ¡Correcto! Por sustitución directa: $\lim_{x \to 2} (3x + 4) = 3(2) + 4 = 6 + 4 = 10$. -->
+- [ ] A) $7$ <!-- feedback: Incorrecto. Evaluó $3 + 4 = 7$ ignorando la multiplicación por $x=2$. -->
 - [ ] C) $6$ <!-- feedback: Incorrecto. Solo multiplicó $3 \cdot 2 = 6$ olvidando sumar 4. -->
 - [ ] D) $12$ <!-- feedback: Incorrecto. Sumó $2+4=6$ y luego multiplicó por 2 por error. -->
 
@@ -56,9 +56,9 @@ Para funciones polinómicas continuas en un punto $a$, el límite cuando $x \to 
 ¿Cuál es la derivada de la función $f(x) = x^n$ con respecto a $x$?
 
 ### Opciones
-- [x] A) $f'(x) = n \cdot x^{n-1}$ <!-- feedback: ¡Correcto! Es la regla básica de la potencia para derivadas algebraicas. -->
-- [ ] B) $f'(x) = n \cdot x^n$ <!-- feedback: Incorrecto. Olvidó restar 1 al exponente. -->
-- [ ] C) $f'(x) = x^{n-1}$ <!-- feedback: Incorrecto. Olvidó multiplicar por el exponente original $n$. -->
+- [x] C) $f'(x) = n \cdot x^{n-1}$ <!-- feedback: ¡Correcto! Es la regla básica de la potencia para derivadas algebraicas. -->
+- [ ] A) $f'(x) = n \cdot x^n$ <!-- feedback: Incorrecto. Olvidó restar 1 al exponente. -->
+- [ ] B) $f'(x) = x^{n-1}$ <!-- feedback: Incorrecto. Olvidó multiplicar por el exponente original $n$. -->
 - [ ] D) $f'(x) = \frac{x^{n+1}}{n+1}$ <!-- feedback: Incorrecto. Esa es la fórmula de la antiderivada (integral indefinida). -->
 
 ### Explicacion Pedagogica
@@ -98,9 +98,9 @@ Derivando término a término mediante la regla de la constante por la potencia:
 ¿Cuál es la derivada de la función constante $f(x) = 15$?
 
 ### Opciones
-- [x] A) $f'(x) = 0$ <!-- feedback: ¡Correcto! La derivada de cualquier constante numérica es igual a cero. -->
-- [ ] B) $f'(x) = 15$ <!-- feedback: Incorrecto. La tasa de cambio de una constante no es la misma constante. -->
-- [ ] C) $f'(x) = 1$ <!-- feedback: Incorrecto. 1 es la derivada de $f(x) = x$, no de una constante. -->
+- [x] C) $f'(x) = 0$ <!-- feedback: ¡Correcto! La derivada de cualquier constante numérica es igual a cero. -->
+- [ ] A) $f'(x) = 15$ <!-- feedback: Incorrecto. La tasa de cambio de una constante no es la misma constante. -->
+- [ ] B) $f'(x) = 1$ <!-- feedback: Incorrecto. 1 es la derivada de $f(x) = x$, no de una constante. -->
 - [ ] D) $f'(x) = 15x$ <!-- feedback: Incorrecto. Esa sería la antiderivada de la constante. -->
 
 ### Explicacion Pedagogica
@@ -119,9 +119,9 @@ Como una función constante $f(x) = c$ no cambia su valor ante variaciones en $x
 ¿Cuál es el valor del límite $\lim_{x \to 3} \frac{x^2 - 9}{x - 3}$?
 
 ### Opciones
-- [x] A) $6$ <!-- feedback: ¡Correcto! Factorizando el numerador: $\frac{(x-3)(x+3)}{x-3} = x + 3$. Al evaluar cuando $x \to 3$: $3 + 3 = 6$. -->
-- [ ] B) $0$ <!-- feedback: Incorrecto. Al evaluar directamente se obtiene $0/0$ que es una indeterminación, no la respuesta final. -->
-- [ ] C) Indefinido / $\infty$ <!-- feedback: Incorrecto. Es una indeterminación removible al cancelar el factor $(x-3)$. -->
+- [x] C) $6$ <!-- feedback: ¡Correcto! Factorizando el numerador: $\frac{(x-3)(x+3)}{x-3} = x + 3$. Al evaluar cuando $x \to 3$: $3 + 3 = 6$. -->
+- [ ] A) $0$ <!-- feedback: Incorrecto. Al evaluar directamente se obtiene $0/0$ que es una indeterminación, no la respuesta final. -->
+- [ ] B) Indefinido / $\infty$ <!-- feedback: Incorrecto. Es una indeterminación removible al cancelar el factor $(x-3)$. -->
 - [ ] D) $3$ <!-- feedback: Incorrecto. Evaluó erróneamente el límite simplificado. -->
 
 ### Explicacion Pedagogica
@@ -141,9 +141,9 @@ $\lim_{x \to 3} \frac{(x - 3)(x + 3)}{x - 3} = \lim_{x \to 3} (x + 3) = 3 + 3 = 
 ¿Cuál es la pendiente de la recta tangente a la parábola $f(x) = x^2 - 4x + 1$ en el punto donde $x = 3$?
 
 ### Opciones
-- [x] A) $2$ <!-- feedback: ¡Correcto! La derivada es $f'(x) = 2x - 4$. Evaluando en $x=3$: $f'(3) = 2(3) - 4 = 6 - 4 = 2$. -->
-- [ ] B) $6$ <!-- feedback: Incorrecto. Olvidó restar 4 al evaluar la derivada. -->
-- [ ] C) $-2$ <!-- feedback: Incorrecto. Evaluó la función original $f(3) = -2$ en lugar de la derivada. -->
+- [x] C) $2$ <!-- feedback: ¡Correcto! La derivada es $f'(x) = 2x - 4$. Evaluando en $x=3$: $f'(3) = 2(3) - 4 = 6 - 4 = 2$. -->
+- [ ] A) $6$ <!-- feedback: Incorrecto. Olvidó restar 4 al evaluar la derivada. -->
+- [ ] B) $-2$ <!-- feedback: Incorrecto. Evaluó la función original $f(3) = -2$ en lugar de la derivada. -->
 - [ ] D) $4$ <!-- feedback: Incorrecto. Asumió como pendiente el coeficiente de $x$. -->
 
 ### Explicacion Pedagogica
@@ -189,10 +189,10 @@ Por tanto, $f'(x) = 12x^2 - 4x + 5$.
 ¿Cuál es el valor del límite al infinito $\lim_{x \to \infty} \frac{5x^2 + 3}{2x^2 - 1}$?
 
 ### Opciones
-- [x] A) $\frac{5}{2}$ (o $2,5$) <!-- feedback: ¡Correcto! Como los grados del numerador y denominador son iguales (grado 2), el límite es la razón de sus coeficientes principales: $5/2$. -->
-- [ ] B) $\infty$ <!-- feedback: Incorrecto. El límite es finito porque el grado del numerador no es strictly mayor que el del denominador. -->
-- [ ] C) $0$ <!-- feedback: Incorrecto. El límite sería 0 si el grado del denominador fuese mayor. -->
-- [ ] D) $-3$ <!-- feedback: Incorrecto. Dividió los términos independientes $3 / (-1)$ erróneamente. -->
+- [x] D) $\frac{5}{2}$ (o $2,5$) <!-- feedback: ¡Correcto! Como los grados del numerador y denominador son iguales (grado 2), el límite es la razón de sus coeficientes principales: $5/2$. -->
+- [ ] A) $\infty$ <!-- feedback: Incorrecto. El límite es finito porque el grado del numerador no es strictly mayor que el del denominador. -->
+- [ ] B) $0$ <!-- feedback: Incorrecto. El límite sería 0 si el grado del denominador fuese mayor. -->
+- [ ] C) $-3$ <!-- feedback: Incorrecto. Dividió los términos independientes $3 / (-1)$ erróneamente. -->
 
 ### Explicacion Pedagogica
 Dividiendo numerador y denominador entre $x^2$:
@@ -232,8 +232,8 @@ Es un teorema clásico del cálculo diferencial: "Si una función $f$ es derivab
 Sabiendo que la derivada de $\sin(x)$ es $\cos(x)$, ¿cuál es la derivada de la función $f(x) = x \sin(x)$?
 
 ### Opciones
-- [x] A) $f'(x) = \sin(x) + x \cos(x)$ <!-- feedback: ¡Correcto! Por regla del producto: $(u \cdot v)' = u'v + uv' = (1)\sin(x) + x\cos(x) = \sin(x) + x\cos(x)$. -->
-- [ ] B) $f'(x) = \cos(x)$ <!-- feedback: Incorrecto. Derivó sólo el término $\sin(x)$ ignorando la variable $x$. -->
+- [x] B) $f'(x) = \sin(x) + x \cos(x)$ <!-- feedback: ¡Correcto! Por regla del producto: $(u \cdot v)' = u'v + uv' = (1)\sin(x) + x\cos(x) = \sin(x) + x\cos(x)$. -->
+- [ ] A) $f'(x) = \cos(x)$ <!-- feedback: Incorrecto. Derivó sólo el término $\sin(x)$ ignorando la variable $x$. -->
 - [ ] C) $f'(x) = x \cos(x)$ <!-- feedback: Incorrecto. Multiplicó las derivadas de cada factor sin usar la regla del producto. -->
 - [ ] D) $f'(x) = \sin(x) - x \cos(x)$ <!-- feedback: Incorrecto. Colocó un signo menos en la fórmula del producto. -->
 
@@ -254,9 +254,9 @@ $u' = 1$, $v' = \cos(x) \Rightarrow f'(x) = 1 \cdot \sin(x) + x \cdot \cos(x) = 
 Dada la función de costo $C(x) = 2x^2 - 12x + 50$, determine el valor de $x$ que minimiza el costo (punto crítico donde $C'(x) = 0$).
 
 ### Opciones
-- [x] A) $x = 3$ <!-- feedback: ¡Correcto! $C'(x) = 4x - 12 = 0 \Rightarrow 4x = 12 \Rightarrow x = 3$. -->
-- [ ] B) $x = 6$ <!-- feedback: Incorrecto. Olvidó el factor 2 de la potencia al derivar $2x^2$. -->
-- [ ] C) $x = 12$ <!-- feedback: Incorrecto. Tomó el coeficiente del término lineal. -->
+- [x] C) $x = 3$ <!-- feedback: ¡Correcto! $C'(x) = 4x - 12 = 0 \Rightarrow 4x = 12 \Rightarrow x = 3$. -->
+- [ ] A) $x = 6$ <!-- feedback: Incorrecto. Olvidó el factor 2 de la potencia al derivar $2x^2$. -->
+- [ ] B) $x = 12$ <!-- feedback: Incorrecto. Tomó el coeficiente del término lineal. -->
 - [ ] D) $x = 0$ <!-- feedback: Incorrecto. Evaluó el costo en el origen en lugar de hallar el mínimo. -->
 
 ### Explicacion Pedagogica
@@ -298,9 +298,9 @@ $f'(x) = 4(3x^2 + 1)^3 \cdot (6x) = 24x (3x^2 + 1)^3$.
 ¿Cuál es la derivada de la función $f(x) = \frac{2x}{x + 1}$?
 
 ### Opciones
-- [x] A) $f'(x) = \frac{2}{(x + 1)^2}$ <!-- feedback: ¡Correcto! Regla del cociente: $\frac{u'v - uv'}{v^2} = \frac{2(x+1) - 2x(1)}{(x+1)^2} = \frac{2x + 2 - 2x}{(x+1)^2} = \frac{2}{(x+1)^2}$. -->
-- [ ] B) $f'(x) = \frac{2}{1} = 2$ <!-- feedback: Incorrecto. Derivó numerador y denominador por separado sin aplicar la regla del cociente. -->
-- [ ] C) $f'(x) = \frac{4x + 2}{(x + 1)^2}$ <!-- feedback: Incorrecto. Sumó los términos en el numerador en lugar de restarlos. -->
+- [x] C) $f'(x) = \frac{2}{(x + 1)^2}$ <!-- feedback: ¡Correcto! Regla del cociente: $\frac{u'v - uv'}{v^2} = \frac{2(x+1) - 2x(1)}{(x+1)^2} = \frac{2x + 2 - 2x}{(x+1)^2} = \frac{2}{(x+1)^2}$. -->
+- [ ] A) $f'(x) = \frac{2}{1} = 2$ <!-- feedback: Incorrecto. Derivó numerador y denominador por separado sin aplicar la regla del cociente. -->
+- [ ] B) $f'(x) = \frac{4x + 2}{(x + 1)^2}$ <!-- feedback: Incorrecto. Sumó los términos en el numerador en lugar de restarlos. -->
 - [ ] D) $f'(x) = -\frac{2}{(x + 1)^2}$ <!-- feedback: Incorrecto. Error de signo al simplificar el numerador. -->
 
 ### Explicacion Pedagogica
@@ -321,10 +321,10 @@ $f'(x) = \frac{2(x + 1) - 2x(1)}{(x + 1)^2} = \frac{2x + 2 - 2x}{(x + 1)^2} = \f
 ¿Cuál es el valor del límite $\lim_{x \to 0} \frac{\sin(4x)}{x}$?
 
 ### Opciones
-- [x] A) $4$ <!-- feedback: ¡Correcto! Usando la propiedad del límite trigonométrico fundamental $\lim_{u \to 0} \frac{\sin(k u)}{u} = k$. Por tanto, el límite es 4. -->
-- [ ] B) $1$ <!-- feedback: Incorrecto. 1 es el resultado de $\lim_{x \to 0} \frac{\sin(x)}{x}$, pero aquí tenemos el coeficiente $k=4$. -->
-- [ ] C) $0$ <!-- feedback: Incorrecto. No evaluó correctamente la tasa de cambio en la indeterminación $0/0$. -->
-- [ ] D) Indefinido <!-- feedback: Incorrecto. Es un límite trigonométrico notable de valor finito 4. -->
+- [x] D) $4$ <!-- feedback: ¡Correcto! Usando la propiedad del límite trigonométrico fundamental $\lim_{u \to 0} \frac{\sin(k u)}{u} = k$. Por tanto, el límite es 4. -->
+- [ ] A) $1$ <!-- feedback: Incorrecto. 1 es el resultado de $\lim_{x \to 0} \frac{\sin(x)}{x}$, pero aquí tenemos el coeficiente $k=4$. -->
+- [ ] B) $0$ <!-- feedback: Incorrecto. No evaluó correctamente la tasa de cambio en la indeterminación $0/0$. -->
+- [ ] C) Indefinido <!-- feedback: Incorrecto. Es un límite trigonométrico notable de valor finito 4. -->
 
 ### Explicacion Pedagogica
 Multiplicando y dividiendo por 4:
@@ -343,9 +343,9 @@ $\lim_{x \to 0} 4 \cdot \frac{\sin(4x)}{4x} = 4 \cdot \lim_{u \to 0} \frac{\sin(
 Dada la función $f(x) = x^4 - 2x^3 + 5x$, ¿cuál es su segunda derivada $f''(x)$?
 
 ### Opciones
-- [x] A) $f''(x) = 12x^2 - 12x$ <!-- feedback: ¡Correcto! $f'(x) = 4x^3 - 6x^2 + 5 \Rightarrow f''(x) = 12x^2 - 12x$. -->
-- [ ] B) $f''(x) = 4x^3 - 6x^2 + 5$ <!-- feedback: Incorrecto. Corresponde a la primera derivada $f'(x)$. -->
-- [ ] C) $f''(x) = 24x - 12$ <!-- feedback: Incorrecto. Corresponde a la tercera derivada $f'''(x)$. -->
+- [x] C) $f''(x) = 12x^2 - 12x$ <!-- feedback: ¡Correcto! $f'(x) = 4x^3 - 6x^2 + 5 \Rightarrow f''(x) = 12x^2 - 12x$. -->
+- [ ] A) $f''(x) = 4x^3 - 6x^2 + 5$ <!-- feedback: Incorrecto. Corresponde a la primera derivada $f'(x)$. -->
+- [ ] B) $f''(x) = 24x - 12$ <!-- feedback: Incorrecto. Corresponde a la tercera derivada $f'''(x)$. -->
 - [ ] D) $f''(x) = 12x^2 - 6x$ <!-- feedback: Incorrecto. Olvidó multiplicar $6 \cdot 2 = 12$ en la segunda derivación. -->
 
 ### Explicacion Pedagogica
@@ -365,9 +365,9 @@ Dada la función $f(x) = x^4 - 2x^3 + 5x$, ¿cuál es su segunda derivada $f''(x
 ¿Cuál es la ecuación de la recta tangente a la función $y = x^3$ en el punto $(2, 8)$?
 
 ### Opciones
-- [x] A) $y = 12x - 16$ <!-- feedback: ¡Correcto! Pendiente $m = y'(2) = 3(2)^2 = 12$. Recta: $y - 8 = 12(x - 2) \Rightarrow y - 8 = 12x - 24 \Rightarrow y = 12x - 16$. -->
-- [ ] B) $y = 12x + 16$ <!-- feedback: Incorrecto. Error de signo al trasponer $-24 + 8$. -->
-- [ ] C) $y = 6x - 4$ <!-- feedback: Incorrecto. Derivó $x^3$ como $3x$ o calculó mal la pendiente. -->
+- [x] C) $y = 12x - 16$ <!-- feedback: ¡Correcto! Pendiente $m = y'(2) = 3(2)^2 = 12$. Recta: $y - 8 = 12(x - 2) \Rightarrow y - 8 = 12x - 24 \Rightarrow y = 12x - 16$. -->
+- [ ] A) $y = 12x + 16$ <!-- feedback: Incorrecto. Error de signo al trasponer $-24 + 8$. -->
+- [ ] B) $y = 6x - 4$ <!-- feedback: Incorrecto. Derivó $x^3$ como $3x$ o calculó mal la pendiente. -->
 - [ ] D) $y = 3x + 2$ <!-- feedback: Incorrecto. Tomó como pendiente el coeficiente exponente 3. -->
 
 ### Explicacion Pedagogica
@@ -388,10 +388,10 @@ Dada la función $f(x) = x^4 - 2x^3 + 5x$, ¿cuál es su segunda derivada $f''(x
 Considere la función $f(x) = \frac{x + 2}{x^2 - 4}$. ¿Cuáles son las asíntotas verticales y los puntos de discontinuidad evitable (removible)?
 
 ### Opciones
-- [x] A) Asíntota vertical en $x = 2$, discontinuidad evitable en $x = -2$ <!-- feedback: ¡Correcto! $f(x) = \frac{x+2}{(x+2)(x-2)} = \frac{1}{x-2}$ para $x \neq -2$. En $x=-2$ el factor se cancela (hueco o discontinuidad evitable) y en $x=2$ el denominador se anula (asíntota vertical). -->
-- [ ] B) Asíntotas verticales en $x = 2$ y $x = -2$ <!-- feedback: Incorrecto. En $x=-2$ la discontinuidad se puede remover por cancelación. -->
-- [ ] C) Asíntota vertical en $x = -2$, discontinuidad evitable en $x = 2$ <!-- feedback: Incorrecto. Invirtió las posiciones del hueco y la asíntota. -->
-- [ ] D) Sin asíntotas verticales <!-- feedback: Incorrecto. En $x=2$ la función tiende a $\pm \infty$. -->
+- [x] D) Asíntota vertical en $x = 2$, discontinuidad evitable en $x = -2$ <!-- feedback: ¡Correcto! $f(x) = \frac{x+2}{(x+2)(x-2)} = \frac{1}{x-2}$ para $x \neq -2$. En $x=-2$ el factor se cancela (hueco o discontinuidad evitable) y en $x=2$ el denominador se anula (asíntota vertical). -->
+- [ ] A) Asíntotas verticales en $x = 2$ y $x = -2$ <!-- feedback: Incorrecto. En $x=-2$ la discontinuidad se puede remover por cancelación. -->
+- [ ] B) Asíntota vertical en $x = -2$, discontinuidad evitable en $x = 2$ <!-- feedback: Incorrecto. Invirtió las posiciones del hueco y la asíntota. -->
+- [ ] C) Sin asíntotas verticales <!-- feedback: Incorrecto. En $x=2$ la función tiende a $\pm \infty$. -->
 
 ### Explicacion Pedagogica
 Simplificando la expresión para $x \neq -2$: $f(x) = \frac{x + 2}{(x + 2)(x - 2)} = \frac{1}{x - 2}$.
@@ -435,10 +435,10 @@ Se quiere construir un corral rectangular con $100\text{ m}$ de malla de alambre
 ¿Cuál es el valor del límite $\lim_{x \to 0} \frac{e^x - 1 - x}{x^2}$?
 
 ### Opciones
-- [x] A) $\frac{1}{2}$ (o $0,5$) <!-- feedback: ¡Correcto! Al evaluar $x=0$ da $0/0$. L'Hôpital una vez: $\lim_{x \to 0} \frac{e^x - 1}{2x}$ ($0/0$). L'Hôpital segunda vez: $\lim_{x \to 0} \frac{e^x}{2} = \frac{1}{2}$. -->
-- [ ] B) $1$ <!-- feedback: Incorrecto. Resultado obtenido tras aplicar L'Hôpital una sola vez sin evaluar nuevamente la indeterminación. -->
-- [ ] C) $0$ <!-- feedback: Incorrecto. Evaluó erróneamente los numeradores en las derivadas sucesivas. -->
-- [ ] D) $\infty$ <!-- feedback: Incorrecto. El límite es convergente y finito igual a $1/2$. -->
+- [x] D) $\frac{1}{2}$ (o $0,5$) <!-- feedback: ¡Correcto! Al evaluar $x=0$ da $0/0$. L'Hôpital una vez: $\lim_{x \to 0} \frac{e^x - 1}{2x}$ ($0/0$). L'Hôpital segunda vez: $\lim_{x \to 0} \frac{e^x}{2} = \frac{1}{2}$. -->
+- [ ] A) $1$ <!-- feedback: Incorrecto. Resultado obtenido tras aplicar L'Hôpital una sola vez sin evaluar nuevamente la indeterminación. -->
+- [ ] B) $0$ <!-- feedback: Incorrecto. Evaluó erróneamente los numeradores en las derivadas sucesivas. -->
+- [ ] C) $\infty$ <!-- feedback: Incorrecto. El límite es convergente y finito igual a $1/2$. -->
 
 ### Explicacion Pedagogica
 Aplicando la Regla de L'Hôpital sucesivamente a la indeterminación $\frac{0}{0}$:
@@ -458,10 +458,10 @@ Aplicando la Regla de L'Hôpital sucesivamente a la indeterminación $\frac{0}{0
 ¿Cuál es la abscisa del punto de inflexión (donde $f''(x) = 0$ y cambia la concavidad) de la función $f(x) = x^3 - 6x^2 + 9x + 1$?
 
 ### Opciones
-- [x] A) $x = 2$ <!-- feedback: ¡Correcto! $f'(x) = 3x^2 - 12x + 9 \Rightarrow f''(x) = 6x - 12 = 0 \Rightarrow 6x = 12 \Rightarrow x = 2$. -->
-- [ ] B) $x = 1$ <!-- feedback: Incorrecto. $x=1$ es una raíz de $f'(x)=0$ (un máximo local). -->
-- [ ] C) $x = 3$ <!-- feedback: Incorrecto. $x=3$ es otra raíz de $f'(x)=0$ (un mínimo local). -->
-- [ ] D) $x = 0$ <!-- feedback: Incorrecto. Evaluó la función en el eje de ordenadas. -->
+- [x] D) $x = 2$ <!-- feedback: ¡Correcto! $f'(x) = 3x^2 - 12x + 9 \Rightarrow f''(x) = 6x - 12 = 0 \Rightarrow 6x = 12 \Rightarrow x = 2$. -->
+- [ ] A) $x = 1$ <!-- feedback: Incorrecto. $x=1$ es una raíz de $f'(x)=0$ (un máximo local). -->
+- [ ] B) $x = 3$ <!-- feedback: Incorrecto. $x=3$ es otra raíz de $f'(x)=0$ (un mínimo local). -->
+- [ ] C) $x = 0$ <!-- feedback: Incorrecto. Evaluó la función en el eje de ordenadas. -->
 
 ### Explicacion Pedagogica
 1) Primera derivada: $f'(x) = 3x^2 - 12x + 9$.

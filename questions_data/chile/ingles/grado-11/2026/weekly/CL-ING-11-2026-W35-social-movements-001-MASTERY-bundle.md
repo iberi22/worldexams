@@ -35,8 +35,8 @@ creador: "Jules-Agent"
 Activism is the policy or action of using vigorous campaigning to bring about political or social change.
 
 ### Opciones
-- [ ] A) Apathy <!-- feedback: Incorrect. Apathy means not caring. -->
-- [x] B) Activism <!-- feedback: Correct. The act of working for change. -->
+- [ ] B) Apathy <!-- feedback: Incorrect. Apathy means not caring. -->
+- [x] A) Activism <!-- feedback: Correct. The act of working for change. -->
 - [ ] C) Silence <!-- feedback: Incorrect. Activism is usually vocal. -->
 - [ ] D) Stagnation <!-- feedback: Incorrect. Stagnation means no change. -->
 
@@ -55,8 +55,8 @@ Activism is the policy or action of using vigorous campaigning to bring about po
 The civil rights movement had been growing for years before the major legislation was finally passed.
 
 ### Opciones
-- [ ] A) was growing <!-- feedback: Incorrect. Past continuous doesn't show the duration as well as past perfect continuous here. -->
-- [x] B) had been growing <!-- feedback: Correct. Past perfect continuous for duration before a past point. -->
+- [ ] B) was growing <!-- feedback: Incorrect. Past continuous doesn't show the duration as well as past perfect continuous here. -->
+- [x] A) had been growing <!-- feedback: Correct. Past perfect continuous for duration before a past point. -->
 - [ ] C) has been growing <!-- feedback: Incorrect. Present perfect continuous. -->
 - [ ] D) grows <!-- feedback: Incorrect. Present simple. -->
 
@@ -76,9 +76,9 @@ If people hadn't protested against injustice in the past, we wouldn't have the r
 
 ### Opciones
 - [ ] A) didn't protest <!-- feedback: Incorrect. Second conditional. -->
-- [x] B) hadn't protested <!-- feedback: Correct. Third conditional for hypothetical past action. -->
-- [ ] C) haven't protested <!-- feedback: Incorrect. Present perfect. -->
-- [ ] D) wouldn't protest <!-- feedback: Incorrect. 'Would' not in 'if' clause. -->
+- [x] D) hadn't protested <!-- feedback: Correct. Third conditional for hypothetical past action. -->
+- [ ] B) haven't protested <!-- feedback: Incorrect. Present perfect. -->
+- [ ] C) wouldn't protest <!-- feedback: Incorrect. 'Would' not in 'if' clause. -->
 
 ### Explicacion Pedagogica
 The third conditional allows us to reflect on the historical importance of collective action.
@@ -116,8 +116,8 @@ Civil disobedience is the active, professed refusal of a citizen to obey certain
 
 ### Opciones
 - [ ] A) violent <!-- feedback: Incorrect. Civil disobedience is traditionally non-violent. -->
-- [x] B) refusal <!-- feedback: Correct. Refusal means an act of saying or showing that you will not do or accept something. -->
-- [ ] C) agreement <!-- feedback: Incorrect. It is an act of disagreement. -->
+- [x] C) refusal <!-- feedback: Correct. Refusal means an act of saying or showing that you will not do or accept something. -->
+- [ ] B) agreement <!-- feedback: Incorrect. It is an act of disagreement. -->
 - [ ] D) accident <!-- feedback: Incorrect. It is a deliberate choice. -->
 
 ### Explicacion Pedagogica
@@ -136,9 +136,9 @@ A boycott is a punitive ban that forbids relations with certain groups, cooperat
 
 ### Opciones
 - [ ] A) Celebration <!-- feedback: Incorrect. -->
-- [x] B) Boycott <!-- feedback: Correct. Specific term for refusing to buy or participate as a form of protest. -->
-- [ ] C) Subsidy <!-- feedback: Incorrect. Financial aid. -->
-- [ ] D) Dividend <!-- feedback: Incorrect. -->
+- [x] D) Boycott <!-- feedback: Correct. Specific term for refusing to buy or participate as a form of protest. -->
+- [ ] B) Subsidy <!-- feedback: Incorrect. Financial aid. -->
+- [ ] C) Dividend <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
 'Boycott' is the standard term for collective economic or social refusal as a protest tactic.
@@ -156,9 +156,9 @@ The importance of mental health awareness is being highlighted by activists acro
 
 ### Opciones
 - [ ] A) is highlighting <!-- feedback: Incorrect. Active voice. -->
-- [x] B) is being highlighted <!-- feedback: Correct. Present continuous passive for an ongoing awareness effort. -->
-- [ ] C) highlighted <!-- feedback: Incorrect. Past simple. -->
-- [ ] D) have highlighted <!-- feedback: Incorrect. Active voice. -->
+- [x] D) is being highlighted <!-- feedback: Correct. Present continuous passive for an ongoing awareness effort. -->
+- [ ] B) highlighted <!-- feedback: Incorrect. Past simple. -->
+- [ ] C) have highlighted <!-- feedback: Incorrect. Active voice. -->
 
 ### Explicacion Pedagogica
 The present continuous passive describes the current, active focus of the movement.
@@ -196,9 +196,9 @@ The historian noted that the movement had achieved its primary objective within 
 
 ### Opciones
 - [ ] A) has achieved <!-- feedback: Incorrect. Backshifted in reported speech. -->
-- [x] B) had achieved <!-- feedback: Correct. Backshifted from past simple or present perfect to past perfect. -->
-- [ ] C) achieves <!-- feedback: Incorrect. Present tense. -->
-- [ ] D) will achieve <!-- feedback: Incorrect. Future. -->
+- [x] D) had achieved <!-- feedback: Correct. Backshifted from past simple or present perfect to past perfect. -->
+- [ ] B) achieves <!-- feedback: Incorrect. Present tense. -->
+- [ ] C) will achieve <!-- feedback: Incorrect. Future. -->
 
 ### Explicacion Pedagogica
 In reported speech, we backshift the tense to show the achievement occurred before the historian's observation.
@@ -216,9 +216,9 @@ In reported speech, we backshift the tense to show the achievement occurred befo
 
 ### Opciones
 - [ ] A) Effective <!-- feedback: Incorrect. The term is critical/pejorative. -->
-- [x] B) pejorative <!-- feedback: Correct. Pejorative means expressing contempt or disapproval. -->
-- [ ] C) positive <!-- feedback: Incorrect. Slacktivism is usually criticized. -->
-- [ ] D) intensive <!-- feedback: Incorrect. Slacktivism involves 'very little effort'. -->
+- [x] D) pejorative <!-- feedback: Correct. Pejorative means expressing contempt or disapproval. -->
+- [ ] B) positive <!-- feedback: Incorrect. Slacktivism is usually criticized. -->
+- [ ] C) intensive <!-- feedback: Incorrect. Slacktivism involves 'very little effort'. -->
 
 ### Explicacion Pedagogica
 'Pejorative' correctly identifies that 'slacktivism' is a critical, negative label for low-effort activism.
@@ -236,9 +236,9 @@ A rally is a mass meeting of people making a political protest or showing suppor
 
 ### Opciones
 - [ ] A) Party <!-- feedback: Incorrect. While social, a rally has a political purpose. -->
-- [x] B) Rally <!-- feedback: Correct. Specific term for a political mass meeting. -->
-- [ ] C) Lecture <!-- feedback: Incorrect. A lecture is for teaching. -->
-- [ ] D) Auction <!-- feedback: Incorrect. For selling goods. -->
+- [x] D) Rally <!-- feedback: Correct. Specific term for a political mass meeting. -->
+- [ ] B) Lecture <!-- feedback: Incorrect. A lecture is for teaching. -->
+- [ ] C) Auction <!-- feedback: Incorrect. For selling goods. -->
 
 ### Explicacion Pedagogica
 'Rally' is the standard term for a large public gathering in support of a movement.
@@ -296,9 +296,9 @@ If more people joined the cause, the movement would have a greater impact on pol
 
 ### Opciones
 - [ ] A) join <!-- feedback: Incorrect. First conditional. -->
-- [x] B) joined <!-- feedback: Correct. Second conditional for a hypothetical change. -->
-- [ ] C) had joined <!-- feedback: Incorrect. Third conditional. -->
-- [ ] D) would join <!-- feedback: Incorrect. 'Would' not in 'if' clause. -->
+- [x] D) joined <!-- feedback: Correct. Second conditional for a hypothetical change. -->
+- [ ] B) had joined <!-- feedback: Incorrect. Third conditional. -->
+- [ ] C) would join <!-- feedback: Incorrect. 'Would' not in 'if' clause. -->
 
 ### Explicacion Pedagogica
 The second conditional describes the likely result of a hypothetical increase in participation.
@@ -316,8 +316,8 @@ The author concludes that systemic change is only possible when individual actio
 
 ### Opciones
 - [ ] A) ignored <!-- feedback: Incorrect. -->
-- [x] B) amplified <!-- feedback: Correct. To amplify means to make larger, greater, or stronger. -->
-- [ ] C) restricted <!-- feedback: Incorrect. -->
+- [x] C) amplified <!-- feedback: Correct. To amplify means to make larger, greater, or stronger. -->
+- [ ] B) restricted <!-- feedback: Incorrect. -->
 - [ ] D) hidden <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
@@ -336,8 +336,8 @@ An activist is a person who campaigns to bring about political or social change.
 
 ### Opciones
 - [ ] A) Bystander <!-- feedback: Incorrect. Watches but doesn't act. -->
-- [x] B) Activist <!-- feedback: Correct. Active participant in change. -->
-- [ ] C) Critic <!-- feedback: Incorrect. Evaluates but doesn't necessarily campaign. -->
+- [x] C) Activist <!-- feedback: Correct. Active participant in change. -->
+- [ ] B) Critic <!-- feedback: Incorrect. Evaluates but doesn't necessarily campaign. -->
 - [ ] D) Witness <!-- feedback: Incorrect. Sees an event but doesn't necessarily act for change. -->
 
 ### Explicacion Pedagogica
@@ -356,8 +356,8 @@ Many citizens wish there were more transparency in government decision-making.
 
 ### Opciones
 - [ ] A) is <!-- feedback: Incorrect. Present tense. -->
-- [x] B) were <!-- feedback: Correct. 'Wish + were' for a present hypothetical desire. -->
-- [ ] C) was <!-- feedback: Incorrect. 'Were' is preferred in formal wishes about the present. -->
+- [x] C) were <!-- feedback: Correct. 'Wish + were' for a present hypothetical desire. -->
+- [ ] B) was <!-- feedback: Incorrect. 'Were' is preferred in formal wishes about the present. -->
 - [ ] D) will be <!-- feedback: Incorrect. Future. -->
 
 ### Explicacion Pedagogica
@@ -375,8 +375,8 @@ The 'wish + past' structure expresses a desire for the current situation to be d
 Non-violent resistance is the practice of achieving goals through symbolic protests, civil disobedience, and other methods without using physical force.
 
 ### Opciones
-- [ ] A) Aggressive <!-- feedback: Incorrect. Non-violent is the opposite of aggressive. -->
-- [x] B) Non-violent <!-- feedback: Correct. Specific term for peaceful resistance. -->
+- [ ] B) Aggressive <!-- feedback: Incorrect. Non-violent is the opposite of aggressive. -->
+- [x] A) Non-violent <!-- feedback: Correct. Specific term for peaceful resistance. -->
 - [ ] C) Secret <!-- feedback: Incorrect. Often very public. -->
 - [ ] D) Passive <!-- feedback: Incorrect. Resistance is active, even if non-violent. -->
 
@@ -415,10 +415,10 @@ In reported speech, we backshift the tense of the original statement to show it 
 History shows that the most enduring social changes are those rooted in broad-based social movements.
 
 ### Opciones
-- [x] A) enduring <!-- feedback: Correct. Enduring means lasting over a period of time; durable. -->
-- [ ] B) temporary <!-- feedback: Incorrect. Successful movements aim for lasting change. -->
-- [ ] C) accidental <!-- feedback: Incorrect. Movements are intentional. -->
-- [ ] D) fragile <!-- feedback: Incorrect. Rooted changes are usually strong. -->
+- [x] D) enduring <!-- feedback: Correct. Enduring means lasting over a period of time; durable. -->
+- [ ] A) temporary <!-- feedback: Incorrect. Successful movements aim for lasting change. -->
+- [ ] B) accidental <!-- feedback: Incorrect. Movements are intentional. -->
+- [ ] C) fragile <!-- feedback: Incorrect. Rooted changes are usually strong. -->
 
 ### Explicacion Pedagogica
 'Enduring' describes the long-lasting and stable nature of the changes achieved by successful social movements.

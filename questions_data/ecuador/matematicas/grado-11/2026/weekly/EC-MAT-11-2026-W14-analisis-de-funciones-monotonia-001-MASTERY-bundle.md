@@ -37,9 +37,9 @@ bundle_index: 1
 ### Opciones
 - [ ] A) Es cualquier punto donde la función cruza el eje de las abscisas ($x$).
   <!-- feedback: Incorrecto. Eso es una raíz o cero de la función. -->
-- [x] B) Es un punto en el dominio de $f$ donde $f'(x) = 0$ o $f'(x)$ no existe.
+- [x] C) Es un punto en el dominio de $f$ donde $f'(x) = 0$ o $f'(x)$ no existe.
   <!-- feedback: Correcto. Los puntos críticos son los candidatos a ser extremos locales (máximos o mínimos). -->
-- [ ] C) Es el punto más alto de toda la gráfica de la función.
+- [ ] B) Es el punto más alto de toda la gráfica de la función.
   <!-- feedback: Incorrecto. Ese sería el máximo absoluto, que es un tipo de punto crítico, pero no la definición general. -->
 - [ ] D) Es el punto donde la función cambia de signo.
   <!-- feedback: Incorrecto. Eso se relaciona con el Teorema del Valor Intermedio. -->
@@ -60,9 +60,9 @@ La identificación de puntos críticos es el primer paso para analizar el compor
 Si para todo $x$ en un intervalo $(a, b)$ se cumple que $f'(x) > 0$, ¿qué se puede afirmar sobre la función $f$ en ese intervalo?
 
 ### Opciones
-- [x] A) La función es estrictamente creciente.
+- [x] B) La función es estrictamente creciente.
   <!-- feedback: Correcto. Una derivada positiva indica que la pendiente es positiva, por lo que los valores de $y$ aumentan conforme aumenta $x$. -->
-- [ ] B) La función es estrictamente decreciente.
+- [ ] A) La función es estrictamente decreciente.
   <!-- feedback: Incorrecto. Esto ocurriría si la derivada fuera negativa. -->
 - [ ] C) La función tiene un valor máximo en ese intervalo.
   <!-- feedback: Incorrecto. Una derivada estrictamente positiva impide la existencia de un extremo local dentro del intervalo abierto. -->
@@ -85,9 +85,9 @@ Relación directa entre el signo de la primera derivada y la monotonía (crecimi
 Determine los puntos críticos de la función $f(x) = x^2 - 6x + 5$.
 
 ### Opciones
-- [ ] A) $x = 0$
+- [ ] B) $x = 0$
   <!-- feedback: Incorrecto. En $x=0$, $f'(0) = -6 \neq 0$. -->
-- [x] B) $x = 3$
+- [x] A) $x = 3$
   <!-- feedback: Correcto. $f'(x) = 2x - 6$. Igualando a cero: $2x - 6 = 0 \Rightarrow x = 3$. -->
 - [ ] C) $x = 1$ y $x = 5$
   <!-- feedback: Incorrecto. Estos son los ceros de la función, no los puntos críticos. -->
@@ -141,11 +141,11 @@ Si $x = c$ es un punto crítico tal que $f'(c) = 0$ y $f''(c) > 0$, ¿qué tipo 
 ### Opciones
 - [ ] A) Un máximo local.
   <!-- feedback: Incorrecto. Una segunda derivada positiva indica que la curva es cóncava hacia arriba, lo que corresponde a un "valle". -->
-- [x] B) Un mínimo local.
+- [x] D) Un mínimo local.
   <!-- feedback: Correcto. Concavidad hacia arriba en un punto horizontal implica un mínimo. -->
-- [ ] C) Un punto de inflexión.
+- [ ] B) Un punto de inflexión.
   <!-- feedback: Incorrecto. Para que sea de inflexión, la segunda derivada suele ser cero o no existir, y debe haber cambio de signo. -->
-- [ ] D) No se puede determinar.
+- [ ] C) No se puede determinar.
   <!-- feedback: Incorrecto. El criterio de la segunda derivada es concluyente cuando el valor es distinto de cero. -->
 
 ### Explicacion Pedagogica
@@ -166,9 +166,9 @@ Determine el valor máximo absoluto de $f(x) = -x^2 + 4x + 1$ en el intervalo $[
 ### Opciones
 - [ ] A) 1
   <!-- feedback: Incorrecto. Este es el valor en el extremo $x=0$. -->
-- [ ] B) 4
+- [ ] C) 4
   <!-- feedback: Incorrecto. Este es el valor en el extremo $x=3$. -->
-- [x] C) 5
+- [x] B) 5
   <!-- feedback: Correcto. Punto crítico: $f'(x)=-2x+4=0 \Rightarrow x=2$. $f(2)=-4+8+1=5$. Como 5 es mayor que $f(0)=1$ y $f(3)=4$, es el máximo absoluto. -->
 - [ ] D) 2
   <!-- feedback: Incorrecto. Este es el valor de $x$ donde ocurre el máximo, no el valor máximo de la función. -->
@@ -189,11 +189,11 @@ Evaluación de candidatos a extremos absolutos comparando los valores de la func
 ¿Qué ocurre en un punto de inflexión de una función continua?
 
 ### Opciones
-- [ ] A) La función alcanza su valor más alto.
+- [ ] B) La función alcanza su valor más alto.
   <!-- feedback: Incorrecto. Eso es un máximo. -->
-- [ ] B) La pendiente de la tangente es igual a cero.
+- [ ] C) La pendiente de la tangente es igual a cero.
   <!-- feedback: Incorrecto. Eso define un punto crítico horizontal. -->
-- [x] C) La función cambia su sentido de concavidad.
+- [x] A) La función cambia su sentido de concavidad.
   <!-- feedback: Correcto. Es el punto donde la gráfica pasa de ser cóncava hacia arriba a cóncava hacia abajo, o viceversa. -->
 - [ ] D) La función deja de ser continua.
   <!-- feedback: Incorrecto. Los puntos de inflexión se analizan generalmente en funciones continuas y derivables. -->
@@ -214,9 +214,9 @@ Comprensión del significado geométrico del cambio de signo en la segunda deriv
 ¿En qué tiempo $t$ el proyectil alcanza su altura máxima?
 
 ### Opciones
-- [ ] A) $t = 4$ s
+- [ ] B) $t = 4$ s
   <!-- feedback: Incorrecto. En este tiempo el proyectil ya está descendiendo. -->
-- [x] B) $t = 2$ s
+- [x] A) $t = 2$ s
   <!-- feedback: Correcto. $y'(t) = -10t + 20$. Igualando a cero: $-10t = -20 \Rightarrow t = 2$. -->
 - [ ] C) $t = 0$ s
   <!-- feedback: Incorrecto. Es el momento del lanzamiento. -->
@@ -241,11 +241,11 @@ Halle el intervalo donde la función $f(x) = x^3 - 3x^2 + 4$ es cóncava hacia a
 ### Opciones
 - [ ] A) $(-\infty, 1)$
   <!-- feedback: Incorrecto. En este intervalo la función es cóncava hacia abajo. -->
-- [x] B) $(1, \infty)$
+- [x] D) $(1, \infty)$
   <!-- feedback: Correcto. $f'(x) = 3x^2 - 6x$; $f''(x) = 6x - 6$. $f''(x) > 0 \Rightarrow 6x > 6 \Rightarrow x > 1$. -->
-- [ ] C) $(0, 2)$
+- [ ] B) $(0, 2)$
   <!-- feedback: Incorrecto. Estos son los puntos críticos de la primera derivada. -->
-- [ ] D) $(-\infty, \infty)$
+- [ ] C) $(-\infty, \infty)$
   <!-- feedback: Incorrecto. La concavidad de una función cúbica siempre cambia en su punto de inflexión. -->
 
 ### Explicacion Pedagogica
@@ -268,9 +268,9 @@ Considere $f(x) = x^4$. En $x = 0$ se tiene $f'(0) = 0$ y $f''(0) = 0$. ¿Qué s
   <!-- feedback: Incorrecto. La función no cambia de concavidad, siempre es positiva o cero. -->
 - [ ] B) Es un máximo local.
   <!-- feedback: Incorrecto. Los valores de la función aumentan a ambos lados de 0. -->
-- [x] C) Es un mínimo local.
+- [x] D) Es un mínimo local.
   <!-- feedback: Correcto. Para $x < 0$, $f'(x) = 4x^3 < 0$ (decrece). Para $x > 0$, $f'(x) > 0$ (crece). Por tanto, es un mínimo. -->
-- [ ] D) Es una discontinuidad esencial.
+- [ ] C) Es una discontinuidad esencial.
   <!-- feedback: Incorrecto. La función es continua y suave en todo su dominio. -->
 
 ### Explicacion Pedagogica
@@ -320,9 +320,9 @@ Para $f(x) = x^2$ en el intervalo $[1, 3]$, encuentre el valor de $c$ que garant
 ### Opciones
 - [ ] A) $c = 1.5$
   <!-- feedback: Incorrecto. Valor obtenido por una estimación errónea. -->
-- [x] B) $c = 2$
+- [x] C) $c = 2$
   <!-- feedback: Correcto. Pendiente promedio: $\frac{f(3)-f(1)}{3-1} = \frac{9-1}{2} = 4$. Derivada $f'(c) = 2c$. Igualando: $2c = 4 \Rightarrow c = 2$. -->
-- [ ] C) $c = 2.5$
+- [ ] B) $c = 2.5$
   <!-- feedback: Incorrecto. Satisface el intervalo pero no la igualdad de pendientes. -->
 - [ ] D) $c = 4$
   <!-- feedback: Incorrecto. El valor de $c$ debe estar dentro del intervalo abierto $(1, 3)$. -->
@@ -345,9 +345,9 @@ Cálculo del punto donde la tasa de cambio instantánea iguala a la tasa de camb
 ### Opciones
 - [ ] A) No tiene puntos críticos.
   <!-- feedback: Incorrecto. La función cambia de dirección en el eje y. -->
-- [x] B) Un solo punto crítico en $x=0$, que es un mínimo.
+- [x] C) Un solo punto crítico en $x=0$, que es un mínimo.
   <!-- feedback: Correcto. $f'(x) = \frac{4x}{(x^2+1)^2}$. Solo se anula en $x=0$. Para $x<0, f'<0$; para $x>0, f'>0$. -->
-- [ ] C) Dos puntos críticos en $x=1$ y $x=-1$.
+- [ ] B) Dos puntos críticos en $x=1$ y $x=-1$.
   <!-- feedback: Incorrecto. Estos son los ceros de la función. -->
 - [ ] D) Un punto crítico en $x=0$, que es un máximo.
   <!-- feedback: Incorrecto. Al evaluar cerca de 0, los valores de la función aumentan. -->
@@ -393,9 +393,9 @@ Determinación de la monotonía en funciones con discontinuidades infinitas (as�
 Si la gráfica de la derivada $f'(x)$ es una recta horizontal $y = 3$, ¿qué se puede decir de la función original $f(x)$?
 
 ### Opciones
-- [ ] A) $f(x)$ es una función constante.
+- [ ] B) $f(x)$ es una función constante.
   <!-- feedback: Incorrecto. Si $f$ fuera constante, su derivada sería 0, no 3. -->
-- [x] B) $f(x)$ es una función lineal con pendiente 3.
+- [x] A) $f(x)$ es una función lineal con pendiente 3.
   <!-- feedback: Correcto. La única función cuya derivada es una constante no nula es una función lineal. -->
 - [ ] C) $f(x)$ es una parábola que se abre hacia arriba.
   <!-- feedback: Incorrecto. La derivada de una parábola es una recta inclinada. -->
@@ -420,9 +420,9 @@ Halle el punto de inflexión de la función $f(x) = e^{-x^2}$ (Campana de Gauss)
 ### Opciones
 - [ ] A) $x = 0$
   <!-- feedback: Incorrecto. En $x=0$ hay un máximo absoluto, no un cambio de concavidad. -->
-- [x] B) $x = \pm \frac{1}{\sqrt{2}}$
+- [x] C) $x = \pm \frac{1}{\sqrt{2}}$
   <!-- feedback: Correcto. $f'(x) = -2xe^{-x^2}$; $f''(x) = (4x^2 - 2)e^{-x^2}$. Igualando a cero: $4x^2 = 2 \Rightarrow x^2 = 1/2$. -->
-- [ ] C) No tiene puntos de inflexión.
+- [ ] B) No tiene puntos de inflexión.
   <!-- feedback: Incorrecto. La curva cambia de cóncava hacia abajo (centro) a cóncava hacia arriba (colas). -->
 - [ ] D) $x = \pm 1$
   <!-- feedback: Incorrecto. Error en la resolución de la ecuación cuadrática resultante de la segunda derivada. -->
@@ -449,9 +449,9 @@ Determine el valor mínimo absoluto de esta función en su dominio.
 ### Opciones
 - [ ] A) 0
   <!-- feedback: Incorrecto. Es el límite cuando $t \to 0$, pero no el mínimo. -->
-- [ ] B) 1
+- [ ] C) 1
   <!-- feedback: Incorrecto. En $t=1, f(1)=0$, pero hay valores negativos antes. -->
-- [x] C) $-1/e$
+- [x] B) $-1/e$
   <!-- feedback: Correcto. $f'(t) = \ln(t) + 1 = 0 \Rightarrow \ln(t) = -1 \Rightarrow t = e^{-1} = 1/e$. El valor es $f(1/e) = (1/e)(-1) = -1/e$. -->
 - [ ] D) $-e$
   <!-- feedback: Incorrecto. Error al evaluar la función en el punto crítico. -->
@@ -522,11 +522,11 @@ Uso de sistemas de ecuaciones lineales derivados de condiciones de contorno y ex
 Si $f(x)$ tiene una asíntota oblicua $y = 2x + 5$ cuando $x \to \infty$, ¿cuál es el valor de $\lim_{x \to \infty} f'(x)$ (asumiendo que el límite de la derivada existe)?
 
 ### Opciones
-- [ ] A) 0
+- [ ] B) 0
   <!-- feedback: Incorrecto. Esto ocurriría con una asíntota horizontal. -->
-- [ ] B) 5
+- [ ] C) 5
   <!-- feedback: Incorrecto. Este es el término independiente de la asíntota. -->
-- [x] C) 2
+- [x] A) 2
   <!-- feedback: Correcto. Si la función se aproxima a una recta, su pendiente debe aproximarse a la pendiente de dicha recta. -->
 - [ ] D) $\infty$
   <!-- feedback: Incorrecto. La pendiente se estabiliza, no crece sin límite. -->

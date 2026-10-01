@@ -36,9 +36,9 @@ Logic is the study of correct reasoning and the principles of valid argument.
 
 ### Opciones
 - [ ] A) Emotion <!-- feedback: Incorrect. Logic is based on reason, not emotion. -->
-- [x] B) Logic <!-- feedback: Correct. The branch of philosophy concerned with reasoning. -->
-- [ ] C) Fiction <!-- feedback: Incorrect. Fiction is imaginary. -->
-- [ ] D) Rhetoric <!-- feedback: Incorrect. Rhetoric is the art of persuasion, which may or may not use logic. -->
+- [x] D) Logic <!-- feedback: Correct. The branch of philosophy concerned with reasoning. -->
+- [ ] B) Fiction <!-- feedback: Incorrect. Fiction is imaginary. -->
+- [ ] C) Rhetoric <!-- feedback: Incorrect. Rhetoric is the art of persuasion, which may or may not use logic. -->
 
 ### Explicacion Pedagogica
 'Logic' is the formal term for the systematic study of valid inference and argument.
@@ -55,8 +55,8 @@ Logic is the study of correct reasoning and the principles of valid argument.
 Existentialism is a philosophy that emphasizes the individual's freedom and responsibility in a seemingly meaningless world.
 
 ### Opciones
-- [ ] A) emphasize <!-- feedback: Incorrect. Subject-verb agreement ('philosophy' is singular). -->
-- [x] B) emphasizes <!-- feedback: Correct. Present simple for a definition. -->
+- [ ] B) emphasize <!-- feedback: Incorrect. Subject-verb agreement ('philosophy' is singular). -->
+- [x] A) emphasizes <!-- feedback: Correct. Present simple for a definition. -->
 - [ ] C) emphasizing <!-- feedback: Incorrect. Gerund. -->
 - [ ] D) emphasized <!-- feedback: Incorrect. Past tense. -->
 
@@ -76,9 +76,9 @@ If only we had questioned our assumptions earlier, we would have avoided many lo
 
 ### Opciones
 - [ ] A) questioned <!-- feedback: Incorrect. 'If only' for past regret needs past perfect. -->
-- [x] B) had questioned <!-- feedback: Correct. 'If only + past perfect' for past regret. -->
-- [ ] C) have questioned <!-- feedback: Incorrect. Present perfect. -->
-- [ ] D) would question <!-- feedback: Incorrect. -->
+- [x] D) had questioned <!-- feedback: Correct. 'If only + past perfect' for past regret. -->
+- [ ] B) have questioned <!-- feedback: Incorrect. Present perfect. -->
+- [ ] C) would question <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
 'If only' followed by the past perfect expresses a strong desire for the past to have been different.
@@ -95,8 +95,8 @@ If only we had questioned our assumptions earlier, we would have avoided many lo
 Socrates is famous for his method of inquiry, which involved asking a series of questions to stimulate critical thinking.
 
 ### Opciones
-- [x] A) inquiry <!-- feedback: Correct. Inquiry is the act of asking for information. -->
-- [ ] B) silence <!-- feedback: Incorrect. Socrates was famous for talking/asking. -->
+- [x] B) inquiry <!-- feedback: Correct. Inquiry is the act of asking for information. -->
+- [ ] A) silence <!-- feedback: Incorrect. Socrates was famous for talking/asking. -->
 - [ ] C) agreement <!-- feedback: Incorrect. He often challenged people's ideas. -->
 - [ ] D) isolation <!-- feedback: Incorrect. He taught in public spaces. -->
 
@@ -156,9 +156,9 @@ The nature of consciousness is still being explored by philosophers and neurosci
 
 ### Opciones
 - [ ] A) is exploring <!-- feedback: Incorrect. Active voice. -->
-- [x] B) is being explored <!-- feedback: Correct. Present continuous passive for an ongoing area of study. -->
-- [ ] C) explored <!-- feedback: Incorrect. Past simple. -->
-- [ ] D) has explored <!-- feedback: Incorrect. Active voice. -->
+- [x] D) is being explored <!-- feedback: Correct. Present continuous passive for an ongoing area of study. -->
+- [ ] B) explored <!-- feedback: Incorrect. Past simple. -->
+- [ ] C) has explored <!-- feedback: Incorrect. Active voice. -->
 
 ### Explicacion Pedagogica
 The present continuous passive describes a topic that remains a focus of current, active investigation.
@@ -195,8 +195,8 @@ Empiricism is the theory that all knowledge is derived from sense-experience.
 Kant's work had been widely read long before it was translated into English.
 
 ### Opciones
-- [ ] A) was reading <!-- feedback: Incorrect. Active voice and past continuous. -->
-- [x] B) had been widely read <!-- feedback: Correct. Past perfect passive for duration/state before a past point. -->
+- [ ] B) was reading <!-- feedback: Incorrect. Active voice and past continuous. -->
+- [x] A) had been widely read <!-- feedback: Correct. Past perfect passive for duration/state before a past point. -->
 - [ ] C) has been read <!-- feedback: Incorrect. Present perfect. -->
 - [ ] D) is read <!-- feedback: Incorrect. Present simple. -->
 
@@ -216,8 +216,8 @@ Postmodernism often challenges the idea of objective truth, suggesting that all 
 
 ### Opciones
 - [ ] A) absolute <!-- feedback: Incorrect. Postmodernism usually denies absolute truth. -->
-- [x] B) objective <!-- feedback: Correct. Objective means not influenced by personal feelings or opinions. -->
-- [ ] C) simple <!-- feedback: Incorrect. Context makes knowledge more complex, not simple. -->
+- [x] C) objective <!-- feedback: Correct. Objective means not influenced by personal feelings or opinions. -->
+- [ ] B) simple <!-- feedback: Incorrect. Context makes knowledge more complex, not simple. -->
 - [ ] D) irrelevant <!-- feedback: Incorrect. Truth is still a central topic of discussion. -->
 
 ### Explicacion Pedagogica
@@ -236,9 +236,9 @@ An axiom is a statement or proposition which is regarded as being self-evidently
 
 ### Opciones
 - [ ] A) Theory <!-- feedback: Incorrect. A theory needs testing. -->
-- [x] B) Axiom <!-- feedback: Correct. A starting point assumed to be true. -->
-- [ ] C) Conclusion <!-- feedback: Incorrect. An end point. -->
-- [ ] D) Question <!-- feedback: Incorrect. -->
+- [x] D) Axiom <!-- feedback: Correct. A starting point assumed to be true. -->
+- [ ] B) Conclusion <!-- feedback: Incorrect. An end point. -->
+- [ ] C) Question <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
 'Axiom' is the term for a foundational principle that is accepted without proof as the basis for further reasoning.
@@ -256,8 +256,8 @@ A valid argument is one in which the conclusion follows necessarily from the pre
 
 ### Opciones
 - [ ] A) follow <!-- feedback: Incorrect. Subject-verb agreement ('conclusion' is singular). -->
-- [x] B) follows <!-- feedback: Correct. Present simple for a logical definition. -->
-- [ ] C) followed <!-- feedback: Incorrect. Past tense. -->
+- [x] C) follows <!-- feedback: Correct. Present simple for a logical definition. -->
+- [ ] B) followed <!-- feedback: Incorrect. Past tense. -->
 - [ ] D) following <!-- feedback: Incorrect. Gerund. -->
 
 ### Explicacion Pedagogica
@@ -277,8 +277,8 @@ Epistemology is the branch of philosophy that investigates the nature, origin, a
 ### Opciones
 - [ ] A) Aesthetics <!-- feedback: Incorrect. Study of beauty. -->
 - [ ] B) Ethics <!-- feedback: Incorrect. Study of morality. -->
-- [x] C) Epistemology <!-- feedback: Correct. Study of knowledge. -->
-- [ ] D) Metaphysics <!-- feedback: Incorrect. Study of the nature of reality. -->
+- [x] D) Epistemology <!-- feedback: Correct. Study of knowledge. -->
+- [ ] C) Metaphysics <!-- feedback: Incorrect. Study of the nature of reality. -->
 
 ### Explicacion Pedagogica
 'Epistemology' is the specific philosophical name for the theory of knowledge.
@@ -336,9 +336,9 @@ A paradox is a seemingly absurd or self-contradictory statement that when invest
 
 ### Opciones
 - [ ] A) Fact <!-- feedback: Incorrect. -->
-- [x] B) Paradox <!-- feedback: Correct. Standard term for a self-contradictory idea. -->
-- [ ] C) Slogan <!-- feedback: Incorrect. -->
-- [ ] D) Myth <!-- feedback: Incorrect. -->
+- [x] D) Paradox <!-- feedback: Correct. Standard term for a self-contradictory idea. -->
+- [ ] B) Slogan <!-- feedback: Incorrect. -->
+- [ ] C) Myth <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
 'Paradox' describes the specific type of contradictory statement that challenges normal logic.
@@ -356,9 +356,9 @@ The argument is based on a circular reasoning, which means it assumes what it is
 
 ### Opciones
 - [ ] A) logic <!-- feedback: Incorrect. Circular reasoning is a failure of logic. -->
-- [x] B) reasoning <!-- feedback: Correct. Circular reasoning is a common logical fallacy. -->
-- [ ] C) fact <!-- feedback: Incorrect. It's a mistake, not a fact. -->
-- [ ] D) proof <!-- feedback: Incorrect. It's not a valid proof. -->
+- [x] D) reasoning <!-- feedback: Correct. Circular reasoning is a common logical fallacy. -->
+- [ ] B) fact <!-- feedback: Incorrect. It's a mistake, not a fact. -->
+- [ ] C) proof <!-- feedback: Incorrect. It's not a valid proof. -->
 
 ### Explicacion Pedagogica
 'Reasoning' is the noun modified by 'circular' to describe this specific type of logical error.
@@ -376,8 +376,8 @@ Humanism is an outlook or system of thought attaching prime importance to human 
 
 ### Opciones
 - [ ] A) Religion <!-- feedback: Incorrect. Focuses on the divine. -->
-- [x] B) Humanism <!-- feedback: Correct. Focuses on human value and agency. -->
-- [ ] C) Mysticism <!-- feedback: Incorrect. Focuses on spiritual mystery. -->
+- [x] C) Humanism <!-- feedback: Correct. Focuses on human value and agency. -->
+- [ ] B) Mysticism <!-- feedback: Incorrect. Focuses on spiritual mystery. -->
 - [ ] D) Fatalism <!-- feedback: Incorrect. The belief that events are predetermined. -->
 
 ### Explicacion Pedagogica
@@ -396,9 +396,9 @@ Descartes argued that the very act of thinking proved his own existence.
 
 ### Opciones
 - [ ] A) proves <!-- feedback: Incorrect. Backshifted in reported speech. -->
-- [x] B) proved <!-- feedback: Correct. Backshifted from 'proves' to 'proved'. -->
-- [ ] C) will prove <!-- feedback: Incorrect. Future. -->
-- [ ] D) have proved <!-- feedback: Incorrect. Present perfect. -->
+- [x] D) proved <!-- feedback: Correct. Backshifted from 'proves' to 'proved'. -->
+- [ ] B) will prove <!-- feedback: Incorrect. Future. -->
+- [ ] C) have proved <!-- feedback: Incorrect. Present perfect. -->
 
 ### Explicacion Pedagogica
 In reported speech, we backshift the tense of the philosopher's original conclusion.

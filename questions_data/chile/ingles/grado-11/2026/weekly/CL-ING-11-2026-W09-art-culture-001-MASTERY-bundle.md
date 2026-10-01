@@ -36,8 +36,8 @@ A masterpiece is a work of outstanding artistry, skill, or workmanship.
 
 ### Opciones
 - [ ] A) sketch <!-- feedback: Incorrect. A sketch is a rough drawing. -->
-- [x] B) masterpiece <!-- feedback: Correct. A masterpiece is an artist's best or most famous work. -->
-- [ ] C) forgery <!-- feedback: Incorrect. A forgery is a fake copy. -->
+- [x] C) masterpiece <!-- feedback: Correct. A masterpiece is an artist's best or most famous work. -->
+- [ ] B) forgery <!-- feedback: Incorrect. A forgery is a fake copy. -->
 - [ ] D) draft <!-- feedback: Incorrect. A draft is a preliminary version. -->
 
 ### Explicacion Pedagogica
@@ -116,8 +116,8 @@ Some believe that art should be purely aesthetic, while others argue it should s
 
 ### Opciones
 - [ ] A) expensive <!-- feedback: Incorrect. Focuses on price. -->
-- [x] B) aesthetic <!-- feedback: Correct. Aesthetic means concerned with beauty or the appreciation of beauty. -->
-- [ ] C) functional <!-- feedback: Incorrect. Functional means having a practical use. -->
+- [x] C) aesthetic <!-- feedback: Correct. Aesthetic means concerned with beauty or the appreciation of beauty. -->
+- [ ] B) functional <!-- feedback: Incorrect. Functional means having a practical use. -->
 - [ ] D) scientific <!-- feedback: Incorrect. Focuses on science. -->
 
 ### Explicacion Pedagogica
@@ -155,8 +155,8 @@ The sculptor used a single block of marble to create this exquisite statue.
 The exhibition is being held in the city's most prestigious art gallery.
 
 ### Opciones
-- [ ] A) is holding <!-- feedback: Incorrect. Active voice. -->
-- [x] B) is being held <!-- feedback: Correct. Present continuous passive for an ongoing event. -->
+- [ ] B) is holding <!-- feedback: Incorrect. Active voice. -->
+- [x] A) is being held <!-- feedback: Correct. Present continuous passive for an ongoing event. -->
 - [ ] C) was held <!-- feedback: Incorrect. Past simple. -->
 - [ ] D) holds <!-- feedback: Incorrect. Present simple. -->
 
@@ -176,8 +176,8 @@ Cultural appropriation occurs when elements of a marginalized culture are adopte
 
 ### Opciones
 - [ ] A) appreciation <!-- feedback: Incorrect. Appreciation involves respect and understanding. -->
-- [x] B) appropriation <!-- feedback: Correct. Appropriation is taking something for one's own use, typically without permission. -->
-- [ ] C) integration <!-- feedback: Incorrect. Integration is the blending of cultures. -->
+- [x] C) appropriation <!-- feedback: Correct. Appropriation is taking something for one's own use, typically without permission. -->
+- [ ] B) integration <!-- feedback: Incorrect. Integration is the blending of cultures. -->
 - [ ] D) preservation <!-- feedback: Incorrect. Preservation is keeping something alive. -->
 
 ### Explicacion Pedagogica
@@ -195,9 +195,9 @@ Cultural appropriation occurs when elements of a marginalized culture are adopte
 The Surrealist movement had gained popularity long before the artist began his career.
 
 ### Opciones
-- [ ] A) gains <!-- feedback: Incorrect. Present tense. -->
-- [ ] B) has gained <!-- feedback: Incorrect. Present perfect. -->
-- [x] C) had gained <!-- feedback: Correct. Past perfect for an action before another past point. -->
+- [ ] B) gains <!-- feedback: Incorrect. Present tense. -->
+- [ ] C) has gained <!-- feedback: Incorrect. Present perfect. -->
+- [x] A) had gained <!-- feedback: Correct. Past perfect for an action before another past point. -->
 - [ ] D) will gain <!-- feedback: Incorrect. Future tense. -->
 
 ### Explicacion Pedagogica
@@ -236,8 +236,8 @@ A biography is an account of someone's life written by another person.
 
 ### Opciones
 - [ ] A) autobiography <!-- feedback: Incorrect. Written by the person themselves. -->
-- [x] B) biography <!-- feedback: Correct. Written by someone else. -->
-- [ ] C) fiction <!-- feedback: Incorrect. Refers to imaginary stories. -->
+- [x] C) biography <!-- feedback: Correct. Written by someone else. -->
+- [ ] B) fiction <!-- feedback: Incorrect. Refers to imaginary stories. -->
 - [ ] D) anthology <!-- feedback: Incorrect. A collection of works. -->
 
 ### Explicacion Pedagogica
@@ -256,8 +256,8 @@ Visitors are forbidden from taking photographs inside the museum.
 
 ### Opciones
 - [ ] A) to take <!-- feedback: Incorrect. 'Forbidden from' is followed by -ing. -->
-- [x] B) from taking <!-- feedback: Correct. 'Forbidden from + gerund' is a standard structure. -->
-- [ ] C) take <!-- feedback: Incorrect. Base form. -->
+- [x] C) from taking <!-- feedback: Correct. 'Forbidden from + gerund' is a standard structure. -->
+- [ ] B) take <!-- feedback: Incorrect. Base form. -->
 - [ ] D) of taking <!-- feedback: Incorrect. Wrong preposition. -->
 
 ### Explicacion Pedagogica
@@ -275,10 +275,10 @@ The verb 'forbid' followed by 'from' requires the gerund form of the following v
 A diverse society is one that embraces and celebrates a multitude of different cultures and perspectives.
 
 ### Opciones
-- [x] A) diverse <!-- feedback: Correct. Diverse means showing a great deal of variety. -->
-- [ ] B) uniform <!-- feedback: Incorrect. Uniform means all the same. -->
-- [ ] C) isolated <!-- feedback: Incorrect. Isolated means separate. -->
-- [ ] D) traditional <!-- feedback: Incorrect. Traditional focuses on the past, not necessarily variety. -->
+- [x] D) diverse <!-- feedback: Correct. Diverse means showing a great deal of variety. -->
+- [ ] A) uniform <!-- feedback: Incorrect. Uniform means all the same. -->
+- [ ] B) isolated <!-- feedback: Incorrect. Isolated means separate. -->
+- [ ] C) traditional <!-- feedback: Incorrect. Traditional focuses on the past, not necessarily variety. -->
 
 ### Explicacion Pedagogica
 'Diverse' is the appropriate adjective for a society with many different cultural backgrounds.
@@ -295,8 +295,8 @@ A diverse society is one that embraces and celebrates a multitude of different c
 If artists were not allowed to express themselves freely, society would suffer from a lack of creativity.
 
 ### Opciones
-- [ ] A) are <!-- feedback: Incorrect. First conditional. -->
-- [x] B) were <!-- feedback: Correct. Second conditional for a hypothetical state. -->
+- [ ] B) are <!-- feedback: Incorrect. First conditional. -->
+- [x] A) were <!-- feedback: Correct. Second conditional for a hypothetical state. -->
 - [ ] C) have been <!-- feedback: Incorrect. Present perfect. -->
 - [ ] D) had been <!-- feedback: Incorrect. Third conditional. -->
 
@@ -316,9 +316,9 @@ The author concludes that digital technology has democratized art by making it m
 
 ### Opciones
 - [ ] A) complicated <!-- feedback: Incorrect. It may be complex, but 'accessible' suggests a different positive result. -->
-- [x] B) democratized <!-- feedback: Correct. To democratize means to make something accessible to everyone. -->
-- [ ] C) restricted <!-- feedback: Incorrect. The text says it's 'more accessible'. -->
-- [ ] D) ignored <!-- feedback: Incorrect. Technology is the subject. -->
+- [x] D) democratized <!-- feedback: Correct. To democratize means to make something accessible to everyone. -->
+- [ ] B) restricted <!-- feedback: Incorrect. The text says it's 'more accessible'. -->
+- [ ] C) ignored <!-- feedback: Incorrect. Technology is the subject. -->
 
 ### Explicacion Pedagogica
 'Democratized' describes the process of making art available to a broader range of people through technology.
@@ -375,8 +375,8 @@ She is interested in learning more about contemporary dance.
 Handmade crafts are often passed down from one generation to the next, preserving cultural identity.
 
 ### Opciones
-- [ ] A) sold <!-- feedback: Incorrect. While they are sold, the focus is on 'generation to generation'. -->
-- [x] B) passed down <!-- feedback: Correct. To pass down means to transmit to descendants. -->
+- [ ] B) sold <!-- feedback: Incorrect. While they are sold, the focus is on 'generation to generation'. -->
+- [x] A) passed down <!-- feedback: Correct. To pass down means to transmit to descendants. -->
 - [ ] C) discarded <!-- feedback: Incorrect. Discarded means thrown away. -->
 - [ ] D) manufactured <!-- feedback: Incorrect. Refers to factory production. -->
 
@@ -396,9 +396,9 @@ The critic remarked that the film was visually stunning but lacked depth.
 
 ### Opciones
 - [ ] A) is <!-- feedback: Incorrect. Doesn't match 'remarked'. -->
-- [x] B) was <!-- feedback: Correct. Backshifting from 'is' to 'was' in reported speech. -->
-- [ ] C) has been <!-- feedback: Incorrect. Present perfect. -->
-- [ ] D) will be <!-- feedback: Incorrect. Future tense. -->
+- [x] D) was <!-- feedback: Correct. Backshifting from 'is' to 'was' in reported speech. -->
+- [ ] B) has been <!-- feedback: Incorrect. Present perfect. -->
+- [ ] C) will be <!-- feedback: Incorrect. Future tense. -->
 
 ### Explicacion Pedagogica
 In reported speech, we backshift tenses: the original statement 'The film is...' becomes '...remarked that the film was...'.
@@ -415,10 +415,10 @@ In reported speech, we backshift tenses: the original statement 'The film is...'
 Cultural exchange fosters empathy and challenges stereotypes by allowing us to see the world through someone else's eyes.
 
 ### Opciones
-- [x] A) stereotypes <!-- feedback: Correct. Stereotypes are oversimplified images or ideas of a type of person or thing. -->
-- [ ] B) facts <!-- feedback: Incorrect. It doesn't challenge facts. -->
-- [ ] C) languages <!-- feedback: Incorrect. It might use languages but doesn't necessarily 'challenge' them. -->
-- [ ] D) similarities <!-- feedback: Incorrect. It highlights similarities but challenges differences/prejudices. -->
+- [x] D) stereotypes <!-- feedback: Correct. Stereotypes are oversimplified images or ideas of a type of person or thing. -->
+- [ ] A) facts <!-- feedback: Incorrect. It doesn't challenge facts. -->
+- [ ] B) languages <!-- feedback: Incorrect. It might use languages but doesn't necessarily 'challenge' them. -->
+- [ ] C) similarities <!-- feedback: Incorrect. It highlights similarities but challenges differences/prejudices. -->
 
 ### Explicacion Pedagogica
 'Stereotypes' are the biased preconceptions that cultural exchange helps to break down.

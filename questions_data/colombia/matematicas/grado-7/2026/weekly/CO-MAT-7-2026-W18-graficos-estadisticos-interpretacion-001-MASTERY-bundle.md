@@ -32,13 +32,13 @@ Este bundle contiene 10 preguntas sobre **graficos-estadisticos-interpretacion**
 ### Enunciado
 ¿Qué tipo de gráfico usa barras verticales cuya altura representa la frecuencia de cada categoría?
 ### Opciones
-- [x] A) Diagrama de barras
+- [x] D) Diagrama de barras
   <!-- feedback: Correcto. El diagrama de barras usa barras cuya longitud indica la frecuencia. -->
-- [ ] B) Diagrama circular
+- [ ] A) Diagrama circular
   <!-- feedback: Incorrecto. El circular usa sectores, no barras. -->
-- [ ] C) Gráfico de líneas
+- [ ] B) Gráfico de líneas
   <!-- feedback: Incorrecto. El de líneas usa una línea que une puntos. -->
-- [ ] D) Histograma
+- [ ] C) Histograma
   <!-- feedback: Incorrecto. El histograma representa intervalos numéricos, no categorías. -->
 ### Explicacion Pedagogica
 El diagrama de barras es el gráfico más común para comparar frecuencias de categorías discretas. La altura de cada barra es proporcional a la frecuencia.
@@ -52,13 +52,13 @@ El diagrama de barras es el gráfico más común para comparar frecuencias de ca
 ### Enunciado
 ¿Qué porcentaje del presupuesto se destina a comida y vivienda juntos?
 ### Opciones
-- [x] A) 65%
+- [x] D) 65%
   <!-- feedback: Correcto. 40% + 25% = 65%. -->
-- [ ] B) 55%
+- [ ] A) 55%
   <!-- feedback: Incorrecto. Sumaste 40% con transporte en lugar de vivienda. -->
-- [ ] C) 60%
+- [ ] B) 60%
   <!-- feedback: Incorrecto. Te faltaron 5 puntos porcentuales del total. -->
-- [ ] D) 50%
+- [ ] C) 50%
   <!-- feedback: Incorrecto. Solo sumaste las dos categorías menores. -->
 ### Explicacion Pedagogica
 Para interpretar un gráfico circular se suman los porcentajes de las categorías pedidas: 40% + 25% = 65%.
@@ -72,11 +72,11 @@ Para interpretar un gráfico circular se suman los porcentajes de las categoría
 ### Enunciado
 Si el horno produce 10 panes más que la demanda cada día, ¿cuántos panes produce el viernes?
 ### Opciones
-- [x] A) 70 panes
+- [x] C) 70 panes
   <!-- feedback: Correcto. 60 + 10 = 70. -->
-- [ ] B) 60 panes
+- [ ] A) 60 panes
   <!-- feedback: Incorrecto. Solo leíste la barra del viernes sin sumar la producción extra. -->
-- [ ] C) 80 panes
+- [ ] B) 80 panes
   <!-- feedback: Incorrecto. Sumaste 20 panes de más. -->
 - [ ] D) 50 panes
   <!-- feedback: Incorrecto. Tomaste el dato del miércoles como si fuera el viernes. -->
@@ -112,13 +112,13 @@ El promedio es la suma de los datos dividida entre la cantidad: (28+30+31+29+27)
 ### Enunciado
 ¿Cuántos estudiantes prefieren baloncesto según el gráfico?
 ### Opciones
-- [x] A) 20 estudiantes
+- [x] D) 20 estudiantes
   <!-- feedback: Correcto. 25% de 80 = 20. -->
-- [ ] B) 25 estudiantes
+- [ ] A) 25 estudiantes
   <!-- feedback: Incorrecto. Confundiste el porcentaje con la cantidad. -->
-- [ ] C) 15 estudiantes
+- [ ] B) 15 estudiantes
   <!-- feedback: Incorrecto. Ese es el cálculo del 18.75%, no del 25%. -->
-- [ ] D) 40 estudiantes
+- [ ] C) 40 estudiantes
   <!-- feedback: Incorrecto. Este es el 50%, no el 25%. -->
 ### Explicacion Pedagogica
 Para traducir porcentaje a cantidad se multiplica: 0.25 × 80 = 20 estudiantes que prefieren baloncesto.
@@ -152,9 +152,9 @@ El diagrama de barras facilita la comparación directa de cantidades entre categ
 ### Enunciado
 ¿Qué opinas de la afirmación del comerciante?
 ### Opciones
-- [x] A) Es engañosa, porque la subida de 30 a 32 es muy pequeña (≈7%)
+- [x] B) Es engañosa, porque la subida de 30 a 32 es muy pequeña (≈7%)
   <!-- feedback: Correcto. La diferencia es solo 2 unidades, apenas un 6.7% de aumento. -->
-- [ ] B) Es correcta, porque cualquier subida es mucho
+- [ ] A) Es correcta, porque cualquier subida es mucho
   <!-- feedback: Incorrecto. Una subida de 2 sobre 30 no se considera "mucho". -->
 - [ ] C) Es correcta, porque el gráfico termina arriba
   <!-- feedback: Incorrecto. La posición final no mide la magnitud de la subida. -->
@@ -172,11 +172,11 @@ Los gráficos pueden usarse para exagerar diferencias visuales (gráficos trucad
 ### Enunciado
 ¿Por qué es difícil distinguir esos dos sectores solo mirando el gráfico?
 ### Opciones
-- [x] A) Porque la diferencia visual entre los ángulos es apenas de 2%, casi imperceptible
+- [x] C) Porque la diferencia visual entre los ángulos es apenas de 2%, casi imperceptible
   <!-- feedback: Correcto. 360° × 0.02 = 7.2° de diferencia, difícil de notar a simple vista. -->
-- [ ] B) Porque el gráfico está mal hecho
+- [ ] A) Porque el gráfico está mal hecho
   <!-- feedback: Incorrecto. El gráfico puede estar bien construido, la dificultad es del ojo humano. -->
-- [ ] C) Porque los colores son iguales
+- [ ] B) Porque los colores son iguales
   <!-- feedback: Incorrecto. No se dio información sobre colores. -->
 - [ ] D) Porque las porcentaje siempre coinciden
   <!-- feedback: Incorrecto. Los porcentajes son diferentes aunque cercanos. -->

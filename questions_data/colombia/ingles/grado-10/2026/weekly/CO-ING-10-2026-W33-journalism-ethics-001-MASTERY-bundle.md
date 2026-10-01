@@ -35,8 +35,8 @@ This bundle explores ethical issues in journalism using B2-level grammar, focusi
 "The newspaper ____ very high standards; they published the story without verifying the sources."
 
 ### Opciones
-- [ ] A) must have had <!-- feedback: Incorrect meaning. -->
-- [x] B) can't have had <!-- feedback: Correct. Logical impossibility in the past (based on the evidence). -->
+- [ ] B) must have had <!-- feedback: Incorrect meaning. -->
+- [x] A) can't have had <!-- feedback: Correct. Logical impossibility in the past (based on the evidence). -->
 - [ ] C) should have had <!-- feedback: Correct as criticism, but B is a stronger deduction of fact. -->
 - [ ] D) might have had <!-- feedback: Too weak. -->
 
@@ -98,8 +98,8 @@ This bundle explores ethical issues in journalism using B2-level grammar, focusi
 "The whistleblower ____ the information to the press because they felt it was in the public interest."
 
 ### Opciones
-- [ ] A) must leak <!-- feedback: Incorrect tense. -->
-- [x] B) might have leaked <!-- feedback: Correct. Speculating about a possible past motivation. -->
+- [ ] B) must leak <!-- feedback: Incorrect tense. -->
+- [x] A) might have leaked <!-- feedback: Correct. Speculating about a possible past motivation. -->
 - [ ] C) should leak <!-- feedback: Incorrect tense. -->
 - [ ] D) can't have leaked <!-- feedback: Contradicts the 'because' clause. -->
 
@@ -120,8 +120,8 @@ Using 'might have' or 'may have' to suggest possible reasons for past actions in
 
 ### Opciones
 - [ ] A) must pay <!-- feedback: Incorrect tense. -->
-- [x] B) should have paid <!-- feedback: Correct. Expresses criticism of a past failure. -->
-- [ ] C) could pay <!-- feedback: Incorrect tense. -->
+- [x] C) should have paid <!-- feedback: Correct. Expresses criticism of a past failure. -->
+- [ ] B) could pay <!-- feedback: Incorrect tense. -->
 - [ ] D) might have paid <!-- feedback: Too weak for criticism. -->
 
 ### Explicación Pedagógica
@@ -141,8 +141,8 @@ Using 'might have' or 'may have' to suggest possible reasons for past actions in
 
 ### Opciones
 - [ ] A) must have been <!-- feedback: Contradicts 'details were wrong'. -->
-- [x] B) can't have been <!-- feedback: Correct. Logical deduction of impossibility. -->
-- [ ] C) might have been <!-- feedback: Incorrect meaning. -->
+- [x] C) can't have been <!-- feedback: Correct. Logical deduction of impossibility. -->
+- [ ] B) might have been <!-- feedback: Incorrect meaning. -->
 - [ ] D) should have been <!-- feedback: Incorrect meaning. -->
 
 ### Explicación Pedagógica
@@ -161,8 +161,8 @@ Using 'can't have been' to rule out a possibility based on subsequent evidence (
 "The celebrity ____ by the journalist's aggressive questions, which explains his angry reaction."
 
 ### Opciones
-- [ ] A) must offend <!-- feedback: Incorrect tense. -->
-- [x] B) must have been offended <!-- feedback: Correct. Passive modal deduction about a past feeling. -->
+- [ ] B) must offend <!-- feedback: Incorrect tense. -->
+- [x] A) must have been offended <!-- feedback: Correct. Passive modal deduction about a past feeling. -->
 - [ ] C) can't have been offended <!-- feedback: Incorrect meaning. -->
 - [ ] D) should have offended <!-- feedback: Incorrect meaning. -->
 
@@ -183,9 +183,9 @@ Combining modals of deduction with the passive voice to speculate about a person
 
 ### Opciones
 - [ ] A) could risk <!-- feedback: Incorrect tense. -->
-- [x] B) might have risked <!-- feedback: Correct. Past possibility. -->
-- [ ] C) must risk <!-- feedback: Incorrect tense. -->
-- [ ] D) shouldn't risk <!-- feedback: Incorrect meaning. -->
+- [x] D) might have risked <!-- feedback: Correct. Past possibility. -->
+- [ ] B) must risk <!-- feedback: Incorrect tense. -->
+- [ ] C) shouldn't risk <!-- feedback: Incorrect meaning. -->
 
 ### Explicación Pedagógica
 Using 'might have' to acknowledge a significant past risk or sacrifice.
@@ -224,9 +224,9 @@ B2 complexity: Choosing 'must have' to describe a highly probable past impact.
 "Hardly ____ the editors ____ how much damage the article would cause to their reputation."
 
 ### Opciones
-- [x] A) could / have imagined <!-- feedback: Correct inversion + past modal speculation. -->
-- [ ] B) did / imagine <!-- feedback: Correct inversion, but A expresses the inability to see the future better. -->
-- [ ] C) was / imagining <!-- feedback: Incorrect. -->
+- [x] C) could / have imagined <!-- feedback: Correct inversion + past modal speculation. -->
+- [ ] A) did / imagine <!-- feedback: Correct inversion, but A expresses the inability to see the future better. -->
+- [ ] B) was / imagining <!-- feedback: Incorrect. -->
 - [ ] D) had / imagined <!-- feedback: Possible, but A fits the 'imagined ability' context. -->
 
 ### Explicación Pedagógica
@@ -245,9 +245,9 @@ Advanced B2 structure: Combining negative inversion (Hardly could they...) with 
 "The director ____ a more balanced view, but he chose to focus only on one side of the story."
 
 ### Opciones
-- [ ] A) must have presented <!-- feedback: Incorrect. -->
-- [ ] B) can't have presented <!-- feedback: Incorrect. -->
-- [x] C) ought to have presented <!-- feedback: Correct. Formal criticism of past failure. -->
+- [ ] B) must have presented <!-- feedback: Incorrect. -->
+- [ ] C) can't have presented <!-- feedback: Incorrect. -->
+- [x] A) ought to have presented <!-- feedback: Correct. Formal criticism of past failure. -->
 - [ ] D) might have presented <!-- feedback: Possible, but C is a stronger ethical critique. -->
 
 ### Explicación Pedagógica
@@ -266,8 +266,8 @@ Using 'ought to have' as a more formal alternative to 'should have' for ethical 
 "____ it not been for the last-minute verification, they ____ an innocent person of a serious crime."
 
 ### Opciones
-- [x] A) Had / would have accused <!-- feedback: Correct Third Conditional inversion. -->
-- [ ] B) Were / would accuse <!-- feedback: Second Conditional. -->
+- [x] B) Had / would have accused <!-- feedback: Correct Third Conditional inversion. -->
+- [ ] A) Were / would accuse <!-- feedback: Second Conditional. -->
 - [ ] C) If it was / had accused <!-- feedback: Incorrect syntax. -->
 - [ ] D) Had / must have accused <!-- feedback: Incorrect syntax. -->
 

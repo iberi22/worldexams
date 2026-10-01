@@ -30,11 +30,11 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar organelo delimitado por doble membrana que alberga el ADN, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El núcleo celular
+- [x] C) El núcleo celular
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a organelo delimitado por doble membrana que alberga el ADN. -->
-- [ ] B) Nucleolo
+- [ ] A) Nucleolo
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Citoesqueleto
+- [ ] B) Citoesqueleto
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura. -->
 - [ ] D) Ribosomas
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -55,9 +55,9 @@ La respuesta correcta es El núcleo celular. Científicamente, esto se explica p
 Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar centrales energéticas celulares encargadas de la respiración celular y síntesis de ATP, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Las mitocondrias
+- [x] B) Las mitocondrias
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a centrales energéticas celulares encargadas de la respiración celular y síntesis de ATP. -->
-- [ ] B) Lisosomas
+- [ ] A) Lisosomas
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) Peroxisomas
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura. -->
@@ -80,13 +80,13 @@ La respuesta correcta es Las mitocondrias. Científicamente, esto se explica por
 Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar organelos fotosintéticos que convierten luz solar en energía química, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Los cloroplastos
+- [x] D) Los cloroplastos
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a organelos fotosintéticos que convierten luz solar en energía química. -->
-- [ ] B) Amiloplastos
+- [ ] A) Amiloplastos
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Cromoplastos
+- [ ] B) Cromoplastos
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura. -->
-- [ ] D) Leucoplastos
+- [ ] C) Leucoplastos
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -105,11 +105,11 @@ La respuesta correcta es Los cloroplastos. Científicamente, esto se explica por
 Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar movimiento de sustancias en contra de su gradiente con gasto de ATP, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Transporte activo
+- [x] C) Transporte activo
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a movimiento de sustancias en contra de su gradiente con gasto de ATP. -->
-- [ ] B) Difusión simple
+- [ ] A) Difusión simple
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Difusión facilitada
+- [ ] B) Difusión facilitada
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura. -->
 - [ ] D) Ósmosis pasiva
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -130,13 +130,13 @@ La respuesta correcta es Transporte activo. Científicamente, esto se explica po
 Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar encogimiento de glóbulos rojos al ser colocados en una solución hipertónica, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Crenación
+- [x] D) Crenación
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a encogimiento de glóbulos rojos al ser colocados en una solución hipertónica. -->
-- [ ] B) Hemólisis
+- [ ] A) Hemólisis
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Turgencia
+- [ ] B) Turgencia
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura. -->
-- [ ] D) Plasmólisis
+- [ ] C) Plasmólisis
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -155,13 +155,13 @@ La respuesta correcta es Crenación. Científicamente, esto se explica por la de
 Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar organelo encargado de sintetizar y plegar proteínas destinadas a secreción, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Rer (retículo endoplasmático rugoso)
+- [x] D) Rer (retículo endoplasmático rugoso)
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a organelo encargado de sintetizar y plegar proteínas destinadas a secreción. -->
-- [ ] B) Rel (liso)
+- [ ] A) Rel (liso)
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Aparato de golgi
+- [ ] B) Aparato de golgi
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura. -->
-- [ ] D) Ribosomas libres
+- [ ] C) Ribosomas libres
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -180,11 +180,11 @@ La respuesta correcta es Rer (retículo endoplasmático rugoso). Científicament
 Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar moléculas anfipáticas con cabeza hidrofílica y colas hidrofóbicas que forman la bicapa, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Fosfolípidos
+- [x] C) Fosfolípidos
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a moléculas anfipáticas con cabeza hidrofílica y colas hidrofóbicas que forman la bicapa. -->
-- [ ] B) Colesterol
+- [ ] A) Colesterol
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Glicoproteínas
+- [ ] B) Glicoproteínas
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura. -->
 - [ ] D) Lipoproteínas
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -205,9 +205,9 @@ La respuesta correcta es Fosfolípidos. Científicamente, esto se explica por la
 Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar organelo que procesa, glicosila y empaqueta proteínas en vesículas, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Aparato de golgi
+- [x] B) Aparato de golgi
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a organelo que procesa, glicosila y empaqueta proteínas en vesículas. -->
-- [ ] B) Retículo endoplasmático
+- [ ] A) Retículo endoplasmático
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) Lisosomas
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura. -->
@@ -230,9 +230,9 @@ La respuesta correcta es Aparato de golgi. Científicamente, esto se explica por
 Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar los procariotas poseen subunidades de sedimentación 70S y los eucariotas 80S, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Ribosomas 70s y 80s
+- [x] B) Ribosomas 70s y 80s
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a los procariotas poseen subunidades de sedimentación 70S y los eucariotas 80S. -->
-- [ ] B) Ribosomas 50s y 30s
+- [ ] A) Ribosomas 50s y 30s
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) Ribosomas 60s y 40s
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura. -->
@@ -255,9 +255,9 @@ La respuesta correcta es Ribosomas 70s y 80s. Científicamente, esto se explica 
 Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar un ocular de 10x y objetivo de 40x combinados dan un aumento total de 400x, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Aumento microscópico de 400x
+- [x] B) Aumento microscópico de 400x
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a un ocular de 10x y objetivo de 40x combinados dan un aumento total de 400x. -->
-- [ ] B) Aumento de 100x
+- [ ] A) Aumento de 100x
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) Aumento de 1000x
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura. -->
@@ -305,9 +305,9 @@ La respuesta correcta es Fagocitosis. Científicamente, esto se explica por la i
 Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar estructura vegetal rígida que ejerce presión de turgencia opuesta a la entrada de agua, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Pared celular rígida de celulosa
+- [x] B) Pared celular rígida de celulosa
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a estructura vegetal rígida que ejerce presión de turgencia opuesta a la entrada de agua. -->
-- [ ] B) Membrana celular elástica
+- [ ] A) Membrana celular elástica
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) Presencia de vacuolas pequeñas
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura. -->
@@ -330,9 +330,9 @@ La respuesta correcta es Pared celular rígida de celulosa. Científicamente, es
 Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar detiene la entrada pasiva del ion Sodio a favor de su gradiente electroquímico, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Bloqueo de canales de sodio
+- [x] B) Bloqueo de canales de sodio
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a detiene la entrada pasiva del ion Sodio a favor de su gradiente electroquímico. -->
-- [ ] B) Bloqueo de canales de potasio
+- [ ] A) Bloqueo de canales de potasio
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) Inhibición de la bomba na/k
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura. -->
@@ -355,13 +355,13 @@ La respuesta correcta es Bloqueo de canales de sodio. Científicamente, esto se 
 Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar degradación controlada de organelos propios para reciclar nutrientes en el ayuno, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Autofagia lisosómica
+- [x] D) Autofagia lisosómica
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a degradación controlada de organelos propios para reciclar nutrientes en el ayuno. -->
-- [ ] B) Apoptosis mitocondrial
+- [ ] A) Apoptosis mitocondrial
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Necrosis celular
+- [ ] B) Necrosis celular
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura. -->
-- [ ] D) Mitofagia activa
+- [ ] C) Mitofagia activa
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -380,11 +380,11 @@ La respuesta correcta es Autofagia lisosómica. Científicamente, esto se explic
 Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar evidencias concluyentes de que mitocondrias y cloroplastos provienen de bacterias endosimbióticas, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Adn circular y ribosomas 70s mitocondriales
+- [x] C) Adn circular y ribosomas 70s mitocondriales
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a evidencias concluyentes de que mitocondrias y cloroplastos provienen de bacterias endosimbióticas. -->
-- [ ] B) Presencia de membrana simple
+- [ ] A) Presencia de membrana simple
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Ausencia de material genético
+- [ ] B) Ausencia de material genético
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura. -->
 - [ ] D) Presencia de pared de quitina
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -405,11 +405,11 @@ La respuesta correcta es Adn circular y ribosomas 70s mitocondriales. Científic
 Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar pérdida de la estructura tridimensional y función de filamentos por pH ácido citoplasmático, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Desnaturalización por acidez
+- [x] C) Desnaturalización por acidez
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a pérdida de la estructura tridimensional y función de filamentos por pH ácido citoplasmático. -->
-- [ ] B) Activación enzimática
+- [ ] A) Activación enzimática
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Mutación espontánea
+- [ ] B) Mutación espontánea
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura. -->
 - [ ] D) Oxidación lipídica
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -505,11 +505,11 @@ La respuesta correcta es Toda célula proviene de otra preexistente. Científica
 Al realizar experimentos sobre biología celular - la célula y su estructura y estudiar adaptación de membrana en plantas andinas para mantener fluidez bajo frío extremo, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Ácidos grasos insaturados con dobles enlaces
+- [x] C) Ácidos grasos insaturados con dobles enlaces
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a adaptación de membrana en plantas andinas para mantener fluidez bajo frío extremo. -->
-- [ ] B) Ácidos grasos saturados compactos
+- [ ] A) Ácidos grasos saturados compactos
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Acumulación de triglicéridos sólidos
+- [ ] B) Acumulación de triglicéridos sólidos
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biología celular - la célula y su estructura. -->
 - [ ] D) Reemplazo lipídico por sílice
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->

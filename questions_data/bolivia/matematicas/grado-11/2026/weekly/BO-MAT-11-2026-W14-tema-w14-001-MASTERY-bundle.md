@@ -34,11 +34,11 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 Halla la media aritmética de las notas.
 
 ### Opciones
-- [x] A) Media = 15
+- [x] C) Media = 15
   <!-- feedback: ¡Correcto! Suma de datos = 12 + 14 + 15 + 15 + 19 = 75. Dividiendo entre 5 datos: 75 / 5 = 15. -->
-- [ ] B) Media = 14
+- [ ] A) Media = 14
   <!-- feedback: Incorrecto. Dividiste entre 6 o sumaste erróneamente los datos. -->
-- [ ] C) Media = 16
+- [ ] B) Media = 16
   <!-- feedback: Incorrecto. Cometiste un error de suma en el numerador. -->
 - [ ] D) Media = 15,5
   <!-- feedback: Incorrecto. Dividiste entre 4 en lugar de 5 datos. -->
@@ -82,9 +82,9 @@ En un conjunto de 5 datos ordenados de menor a mayor, el valor que ocupa la posi
 Halla la moda del conjunto.
 
 ### Opciones
-- [x] A) Moda = 9
+- [x] B) Moda = 9
   <!-- feedback: ¡Correcto! La moda es el valor que se repite con mayor frecuencia (2 veces). -->
-- [ ] B) Moda = 10,5
+- [ ] A) Moda = 10,5
   <!-- feedback: Incorrecto. Promediaste los datos centrales en lugar de buscar la frecuencia máxima. -->
 - [ ] C) Moda = 8
   <!-- feedback: Incorrecto. 8 se presenta solo una vez. -->
@@ -106,9 +106,9 @@ La moda es el dato que registra la mayor frecuencia absoluta. El número 9 apare
 Halla la probabilidad de obtener un número primo (2, 3, 5).
 
 ### Opciones
-- [x] A) Probabilidad = 3/6 = 1/2 (50%)
+- [x] B) Probabilidad = 3/6 = 1/2 (50%)
   <!-- feedback: ¡Correcto! Casos favorables = 3 (2, 3, 5); casos posibles = 6. P = 3/6 = 1/2. -->
-- [ ] B) Probabilidad = 1/3 (33,3%)
+- [ ] A) Probabilidad = 1/3 (33,3%)
   <!-- feedback: Incorrecto. Consideraste solo 2 números primos. -->
 - [ ] C) Probabilidad = 2/3 (66,6%)
   <!-- feedback: Incorrecto. Incluiste al número 1 que no es un número primo. -->
@@ -130,9 +130,9 @@ Los números primos en un dado de 6 caras son 2, 3 y 5 (3 casos favorables). P =
 Halla la probabilidad de obtener un As.
 
 ### Opciones
-- [x] A) Probabilidad = 4/52 = 1/13
+- [x] B) Probabilidad = 4/52 = 1/13
   <!-- feedback: ¡Correcto! Hay 4 ases en una baraja de 52 cartas. P = 4/52 = 1/13. -->
-- [ ] B) Probabilidad = 1/52
+- [ ] A) Probabilidad = 1/52
   <!-- feedback: Incorrecto. Calculaste la probabilidad de un as específico. -->
 - [ ] C) Probabilidad = 1/4
   <!-- feedback: Incorrecto. Corresponde a la probabilidad de obtener un palo específico. -->
@@ -154,11 +154,11 @@ La baraja cuenta con 4 ases (uno por cada palo). La probabilidad es P = 4 / 52 =
 ¿De cuántas maneras distintas se pueden organizar (permutaciones P₅)?
 
 ### Opciones
-- [x] A) 120 maneras
+- [x] C) 120 maneras
   <!-- feedback: ¡Correcto! P₅ = 5! = 5 × 4 × 3 × 2 × 1 = 120 maneras. -->
-- [ ] B) 25 maneras
+- [ ] A) 25 maneras
   <!-- feedback: Incorrecto. Calculaste 5² en lugar de 5 factorial. -->
-- [ ] C) 60 maneras
+- [ ] B) 60 maneras
   <!-- feedback: Incorrecto. Omitiste multiplicar por el último factor o dividiste entre 2. -->
 - [ ] D) 24 maneras
   <!-- feedback: Incorrecto. Calculaste 4! en lugar de 5!. -->
@@ -178,9 +178,9 @@ El número de formas de ordenar n objetos distintos en línea recta es n!. Para 
 ¿De cuántas maneras distintas se pueden formar los comités (combinaciones C(10, 3))?
 
 ### Opciones
-- [x] A) 120 maneras
+- [x] B) 120 maneras
   <!-- feedback: ¡Correcto! C(10, 3) = (10 × 9 × 8) / (3 × 2 × 1) = 720 / 6 = 120 maneras. -->
-- [ ] B) 720 maneras
+- [ ] A) 720 maneras
   <!-- feedback: Incorrecto. Calculaste las variaciones V(10, 3) sin dividir entre las permutaciones del grupo. -->
 - [ ] C) 30 maneras
   <!-- feedback: Incorrecto. Multiplicaste 10 × 3 sin aplicar el algoritmo combinatorio. -->
@@ -226,9 +226,9 @@ Por definición de independencia estocástica, P(A ∩ B) = P(A) · P(B) = 0,4 �
 Halla la probabilidad de la unión P(A ∪ B).
 
 ### Opciones
-- [x] A) P(A ∪ B) = 0,80
+- [x] B) P(A ∪ B) = 0,80
   <!-- feedback: ¡Correcto! Regla de adición: P(A ∪ B) = P(A) + P(B) - P(A ∩ B) = 0,6 + 0,3 - 0,1 = 0,80. -->
-- [ ] B) P(A ∪ B) = 0,90
+- [ ] A) P(A ∪ B) = 0,90
   <!-- feedback: Incorrecto. Olvidaste restar la intersección P(A ∩ B). -->
 - [ ] C) P(A ∪ B) = 0,18
   <!-- feedback: Incorrecto. Multiplicaste las probabilidades. -->
@@ -250,11 +250,11 @@ La regla general de adición establece P(A ∪ B) = P(A) + P(B) - P(A ∩ B) = 0
 Calcula la varianza muestral s² de los datos.
 
 ### Opciones
-- [x] A) Varianza s² = 8/3 ≈ 2,67
+- [x] C) Varianza s² = 8/3 ≈ 2,67
   <!-- feedback: ¡Correcto! Desviaciones al cuadrado: (2-4)² = 4, (4-4)² = 0, (6-4)² = 4. Suma = 8. Varianza = 8/3. -->
-- [ ] B) Varianza s² = 4
+- [ ] A) Varianza s² = 4
   <!-- feedback: Incorrecto. No dividiste la suma de cuadrados entre N = 3. -->
-- [ ] C) Varianza s² = 2
+- [ ] B) Varianza s² = 2
   <!-- feedback: Incorrecto. Confundiste la varianza con la amplitud del rango. -->
 - [ ] D) Varianza s² = 1,63
   <!-- feedback: Incorrecto. Calculaste la desviación estándar √2,67 en lugar de la varianza. -->
@@ -274,9 +274,9 @@ Varianza s² = Σ(xᵢ - x̄)² / N = (4 + 0 + 4) / 3 = 8 / 3 ≈ 2,67.
 Halla la probabilidad de obtener al menos una cara.
 
 ### Opciones
-- [x] A) Probabilidad = 3/4 (75%)
+- [x] B) Probabilidad = 3/4 (75%)
   <!-- feedback: ¡Correcto! Espacio muestral = {CC, CS, SC, SS}. Casos favorables con al menos una cara = 3. P = 3/4. -->
-- [ ] B) Probabilidad = 1/2 (50%)
+- [ ] A) Probabilidad = 1/2 (50%)
   <!-- feedback: Incorrecto. Consideraste solo los casos de exactamente una cara. -->
 - [ ] C) Probabilidad = 1/4 (25%)
   <!-- feedback: Incorrecto. Corresponde a la probabilidad de obtener dos caras. -->
@@ -346,11 +346,11 @@ Dado que el orden de las letras determina palabras distintas, usamos variaciones
 Halla el rango estadístico del conjunto.
 
 ### Opciones
-- [x] A) Rango = 21
+- [x] C) Rango = 21
   <!-- feedback: ¡Correcto! Rango = Valor Máximo - Valor Mínimo = 25 - 4 = 21. -->
-- [ ] B) Rango = 25
+- [ ] A) Rango = 25
   <!-- feedback: Incorrecto. Tomaste solo el valor máximo. -->
-- [ ] C) Rango = 13,4
+- [ ] B) Rango = 13,4
   <!-- feedback: Incorrecto. Calculaste la media aritmética en lugar del rango. -->
 - [ ] D) Rango = 18
   <!-- feedback: Incorrecto. Restaste 25 - 7 en lugar del mínimo absoluto 4. -->
@@ -370,9 +370,9 @@ El rango es la diferencia entre el valor máximo y el valor mínimo del conjunto
 ¿Cuál es el valor de la varianza s²?
 
 ### Opciones
-- [x] A) Varianza = 25
+- [x] B) Varianza = 25
   <!-- feedback: ¡Correcto! La varianza es el cuadrado de la desviación estándar: s² = 5² = 25. -->
-- [ ] B) Varianza = 10
+- [ ] A) Varianza = 10
   <!-- feedback: Incorrecto. Multiplicaste por 2 en lugar de elevar al cuadrado. -->
 - [ ] C) Varianza = 2,23
   <!-- feedback: Incorrecto. Extrajiste raíz cuadrada en lugar de elevar al cuadrado. -->
@@ -394,13 +394,13 @@ La varianza es por definición el cuadrado de la desviación estándar: s² = (5
 Halla la probabilidad de que sea un múltiplo de 5 (5, 10, 15, 20).
 
 ### Opciones
-- [x] A) Probabilidad = 4/20 = 1/5 (20%)
+- [x] D) Probabilidad = 4/20 = 1/5 (20%)
   <!-- feedback: ¡Correcto! Casos favorables = 4 (5, 10, 15, 20); total = 20. P = 4/20 = 1/5. -->
-- [ ] B) Probabilidad = 1/4 (25%)
+- [ ] A) Probabilidad = 1/4 (25%)
   <!-- feedback: Incorrecto. Consideraste un total de 16 números. -->
-- [ ] C) Probabilidad = 5/20 = 1/4
+- [ ] B) Probabilidad = 5/20 = 1/4
   <!-- feedback: Incorrecto. Contaste 5 múltiplos por error. -->
-- [ ] D) Probabilidad = 2/20 = 1/10
+- [ ] C) Probabilidad = 2/20 = 1/10
   <!-- feedback: Incorrecto. Contaste solo dos múltiplos. -->
 
 ### Explicacion Pedagogica
@@ -418,9 +418,9 @@ Los múltiplos de 5 entre 1 y 20 son {5, 10, 15, 20} (4 números). P = 4 / 20 = 
 ¿Cuántos comités distintos se pueden constituir?
 
 ### Opciones
-- [x] A) 28 comités
+- [x] B) 28 comités
   <!-- feedback: ¡Correcto! C(8, 2) = (8 × 7) / (2 × 1) = 56 / 2 = 28 comités. -->
-- [ ] B) 56 comités
+- [ ] A) 56 comités
   <!-- feedback: Incorrecto. Calculaste variaciones donde el orden importaba. -->
 - [ ] C) 16 comités
   <!-- feedback: Incorrecto. Multiplicaste 8 × 2. -->
@@ -466,13 +466,13 @@ Dado que las cifras no se repiten y el orden cambia el número (ej. 123 ≠ 321)
 ¿De cuántas formas distintas se puede responder el examen completo?
 
 ### Opciones
-- [x] A) 32 formas
+- [x] D) 32 formas
   <!-- feedback: ¡Correcto! Por el principio multiplicativo 2⁵ = 2 × 2 × 2 × 2 × 2 = 32 formas. -->
-- [ ] B) 10 formas
+- [ ] A) 10 formas
   <!-- feedback: Incorrecto. Multiplicaste 2 × 5 en lugar de elevar a la potencia. -->
-- [ ] C) 25 formas
+- [ ] B) 25 formas
   <!-- feedback: Incorrecto. Elevaste 5² en lugar de 2⁵. -->
-- [ ] D) 16 formas
+- [ ] C) 16 formas
   <!-- feedback: Incorrecto. Calculaste 2⁴. -->
 
 ### Explicacion Pedagogica

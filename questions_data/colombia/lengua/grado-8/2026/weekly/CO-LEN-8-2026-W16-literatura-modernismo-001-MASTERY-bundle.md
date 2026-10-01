@@ -34,8 +34,8 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) José Martí <!-- feedback: Martí es un precursor fundamental, pero el liderazgo del movimiento consolidado fue de Darío. -->
-- [x] B) Rubén Darío <!-- feedback: Su obra renovó el lenguaje poético hispanoamericano con una musicalidad y elegancia únicas. -->
-- [ ] C) Gabriel García Márquez <!-- feedback: Gabo pertenece al Realismo Mágico del siglo XX. -->
+- [x] C) Rubén Darío <!-- feedback: Su obra renovó el lenguaje poético hispanoamericano con una musicalidad y elegancia únicas. -->
+- [ ] B) Gabriel García Márquez <!-- feedback: Gabo pertenece al Realismo Mágico del siglo XX. -->
 - [ ] D) Pablo Neruda <!-- feedback: Neruda es un gran poeta chileno posterior, vinculado a las vanguardias y la poesía social. -->
 
 ### Explicacion Pedagogica
@@ -54,9 +54,9 @@ Rubén Darío sintetizó las influencias francesas (Parnasianismo y Simbolismo) 
 ¿Cuál es el símbolo animal por excelencia del Modernismo, que representa la elegancia, la pureza y la aristocracia del arte?
 
 ### Opciones
-- [ ] A) El águila <!-- feedback: El águila suele simbolizar el poder y el imperio, no necesariamente la estética modernista. -->
-- [ ] B) El cóndor <!-- feedback: El cóndor es un símbolo nacional andino, usado más en literatura patriótica. -->
-- [x] C) El cisne <!-- feedback: Por su cuello en forma de interrogación y su blancura, se convirtió en el emblema de la búsqueda estética. -->
+- [ ] B) El águila <!-- feedback: El águila suele simbolizar el poder y el imperio, no necesariamente la estética modernista. -->
+- [ ] C) El cóndor <!-- feedback: El cóndor es un símbolo nacional andino, usado más en literatura patriótica. -->
+- [x] A) El cisne <!-- feedback: Por su cuello en forma de interrogación y su blancura, se convirtió en el emblema de la búsqueda estética. -->
 - [ ] D) El león <!-- feedback: El león representa la fuerza y el valor, ajenos a la delicadeza modernista. -->
 
 ### Explicacion Pedagogica
@@ -76,8 +76,8 @@ El cisne encarna el ideal de belleza pura y melancólica que perseguían los poe
 
 ### Opciones
 - [ ] A) Endecasílabo <!-- feedback: El endecasílabo (11 sílabas) nunca dejó de usarse desde el Renacimiento. -->
-- [ ] B) Octosílabo <!-- feedback: El octosílabo (8 sílabas) es el verso más común del romance y la poesía popular. -->
-- [x] C) Alejandrino <!-- feedback: El verso alejandrino fue revitalizado con nuevos ritmos y acentuaciones por Rubén Darío y sus seguidores. -->
+- [ ] C) Octosílabo <!-- feedback: El octosílabo (8 sílabas) es el verso más común del romance y la poesía popular. -->
+- [x] B) Alejandrino <!-- feedback: El verso alejandrino fue revitalizado con nuevos ritmos y acentuaciones por Rubén Darío y sus seguidores. -->
 - [ ] D) Heptasílabo <!-- feedback: El heptasílabo (7 sílabas) suele usarse en combinación con el endecasílabo. -->
 
 ### Explicacion Pedagogica
@@ -117,8 +117,8 @@ El exotismo es una forma de rebeldía espiritual del artista contra la burguesí
 Si en un poema modernista leemos frases como "el sonido azul de la trompeta" o "un perfume amargo", ¿qué recurso se está utilizando?
 
 ### Opciones
-- [ ] A) Metáfora pura <!-- feedback: Aunque es una figura de sustitución, la mezcla de sentidos tiene un nombre específico. -->
-- [x] B) Sinestesia <!-- feedback: Busca crear una experiencia sensorial total, asociando colores con sonidos o sabores con olores. -->
+- [ ] B) Metáfora pura <!-- feedback: Aunque es una figura de sustitución, la mezcla de sentidos tiene un nombre específico. -->
+- [x] A) Sinestesia <!-- feedback: Busca crear una experiencia sensorial total, asociando colores con sonidos o sabores con olores. -->
 - [ ] C) Hipérbole <!-- feedback: No hay una exageración de la cantidad, sino una mezcla de la calidad sensorial. -->
 - [ ] D) Personificación <!-- feedback: No se atribuyen cualidades humanas a objetos inanimados. -->
 
@@ -139,9 +139,9 @@ La sinestesia refleja la búsqueda modernista de la correspondencia entre todas 
 
 ### Opciones
 - [ ] A) El uso de rimas muy alegres y ritmos de baile popular. <!-- feedback: El poema es profundamente melancólico y fúnebre. -->
-- [x] B) El uso de versos de extensión variable que imitan el ritmo de la respiración o de los latidos. <!-- feedback: Rompió con la métrica rígida para lograr una musicalidad sugerente y sombría. -->
-- [ ] C) Escribir todo el poema en letras mayúsculas para gritar su dolor. <!-- feedback: La fuerza reside en el ritmo y las imágenes, no en recursos tipográficos básicos. -->
-- [ ] D) El uso exclusivo de palabras en inglés para que pareciera más moderno. <!-- feedback: Silva renovó el castellano desde dentro, sin necesidad de extranjerismos innecesarios. -->
+- [x] D) El uso de versos de extensión variable que imitan el ritmo de la respiración o de los latidos. <!-- feedback: Rompió con la métrica rígida para lograr una musicalidad sugerente y sombría. -->
+- [ ] B) Escribir todo el poema en letras mayúsculas para gritar su dolor. <!-- feedback: La fuerza reside en el ritmo y las imágenes, no en recursos tipográficos básicos. -->
+- [ ] C) El uso exclusivo de palabras en inglés para que pareciera más moderno. <!-- feedback: Silva renovó el castellano desde dentro, sin necesidad de extranjerismos innecesarios. -->
 
 ### Explicacion Pedagogica
 Silva es un precursor del Modernismo que exploró la capacidad del lenguaje para sugerir estados de ánimo oscuros y misteriosos mediante el ritmo.
@@ -222,9 +222,9 @@ El color en el Modernismo no es solo descriptivo, sino que tiene un valor simbó
 ¿Cuál fue la diferencia principal entre el Modernismo hispanoamericano (Darío) y la adaptación que hicieron autores españoles como Antonio Machado?
 
 ### Opciones
-- [ ] A) Machado escribía en francés y Darío en nicaragüense. <!-- feedback: Ambos escribían en un español riquísimo y renovado. -->
-- [ ] B) Darío era muy triste y Machado era un poeta muy alegre y cómico. <!-- feedback: Ambos tienen una vena melancólica, pero Machado es más austero. -->
-- [x] C) Darío prefería el lujo y el exotismo; Machado prefería la sencillez, la austeridad y el paisaje de Castilla. <!-- feedback: Machado eliminó los "adornos" modernistas para buscar la esencia del alma española. -->
+- [ ] B) Machado escribía en francés y Darío en nicaragüense. <!-- feedback: Ambos escribían en un español riquísimo y renovado. -->
+- [ ] C) Darío era muy triste y Machado era un poeta muy alegre y cómico. <!-- feedback: Ambos tienen una vena melancólica, pero Machado es más austero. -->
+- [x] A) Darío prefería el lujo y el exotismo; Machado prefería la sencillez, la austeridad y el paisaje de Castilla. <!-- feedback: Machado eliminó los "adornos" modernistas para buscar la esencia del alma española. -->
 - [ ] D) No hubo ninguna diferencia, Machado copió exactamente todos los poemas de Darío. <!-- feedback: Machado admiraba a Darío pero creó una estética propia, más sobria y filosófica. -->
 
 ### Explicacion Pedagogica
@@ -245,8 +245,8 @@ El Modernismo fue la base técnica para muchos autores españoles que luego deri
 ### Opciones
 - [ ] A) Cambiando solo los nombres de los personajes por nombres americanos. <!-- feedback: La renovación fue mucho más profunda que un simple cambio de nombres. -->
 - [ ] B) Traduciendo mal los poemas franceses para que parecieran nuevos. <!-- feedback: Eran traductores excelentes que conocían bien el original. -->
-- [x] C) Al integrar esas influencias con la tradición clásica española y la sensibilidad propia de América Latina. <!-- feedback: Crearon una síntesis nueva que no existía ni en Francia ni en España hasta ese momento. -->
-- [ ] D) Prohibiendo que se leyera cualquier libro que no fuera escrito en Nicaragua. <!-- feedback: El Modernismo fue un movimiento cosmopolita abierto a todas las culturas del mundo. -->
+- [x] D) Al integrar esas influencias con la tradición clásica española y la sensibilidad propia de América Latina. <!-- feedback: Crearon una síntesis nueva que no existía ni en Francia ni en España hasta ese momento. -->
+- [ ] C) Prohibiendo que se leyera cualquier libro que no fuera escrito en Nicaragua. <!-- feedback: El Modernismo fue un movimiento cosmopolita abierto a todas las culturas del mundo. -->
 
 ### Explicacion Pedagogica
 La originalidad del Modernismo reside en su capacidad de hibridación, tomando lo mejor de Europa para fundar una voz literaria americana independiente y poderosa.
@@ -264,9 +264,9 @@ La originalidad del Modernismo reside en su capacidad de hibridación, tomando l
 ¿Cuál fue el legado más importante que dejó el Modernismo a la literatura hispanoamericana del siglo XX?
 
 ### Opciones
-- [ ] A) La obligación de que todos los poemas hablen de cisnes y princesas. <!-- feedback: Estos temas se abandonaron pronto por las nuevas generaciones. -->
-- [ ] B) El uso de un lenguaje muy antiguo que ya nadie utiliza hoy. <!-- feedback: El Modernismo modernizó el lenguaje, no lo hizo antiguo. -->
-- [x] C) La conquista de la libertad creativa, la modernización del lenguaje y el prestigio mundial de las letras hispanas. <!-- feedback: Sin el Modernismo no habría sido posible el posterior "boom" latinoamericano. -->
+- [ ] B) La obligación de que todos los poemas hablen de cisnes y princesas. <!-- feedback: Estos temas se abandonaron pronto por las nuevas generaciones. -->
+- [ ] C) El uso de un lenguaje muy antiguo que ya nadie utiliza hoy. <!-- feedback: El Modernismo modernizó el lenguaje, no lo hizo antiguo. -->
+- [x] A) La conquista de la libertad creativa, la modernización del lenguaje y el prestigio mundial de las letras hispanas. <!-- feedback: Sin el Modernismo no habría sido posible el posterior "boom" latinoamericano. -->
 - [ ] D) La invención de la ortografía moderna que usamos en los mensajes de texto. <!-- feedback: La ortografía se mantuvo estándar; lo que cambió fue la estética y el ritmo. -->
 
 ### Explicacion Pedagogica

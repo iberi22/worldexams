@@ -34,9 +34,9 @@ Comprensión de afiches, caricaturas, infografías y textos expositivos.
 ¿Cuál es la premisa central del autor respecto a la alfabetización tecnológica en el país?
 
 ### Opciones
-- [x] A) Tener un dispositivo digital no garantiza la competencia lectora si el ciudadano carece de pensamiento crítico para evaluar la información.
+- [x] B) Tener un dispositivo digital no garantiza la competencia lectora si el ciudadano carece de pensamiento crítico para evaluar la información.
   <!-- feedback: El autor diferencia el acceso material a la tecnología de la habilidad cognitiva indispensable para interpretar los contenidos con rigor. -->
-- [ ] B) Sostiene que la compra de teléfonos inteligentes debe ser subsidada integralmente por el Estado.
+- [ ] A) Sostiene que la compra de teléfonos inteligentes debe ser subsidada integralmente por el Estado.
   <!-- feedback: El texto no se enfoca en subsidios de aparatos sino en la formación del juicio crítico frente a los medios. -->
 - [ ] C) Afirma que las noticias falsas son creadas exclusivamente por periodistas profesionales.
   <!-- feedback: Analiza el impacto del flujo informativo masivo en la ciudadanía sin acusar a un gremio en particular. -->
@@ -57,13 +57,13 @@ El articulista contrapone la cobertura técnica con la competencia crítica de l
 ¿Qué crítica irónica plantea esta imagen sobre el funcionamiento de las instituciones públicas?
 
 ### Opciones
-- [x] A) Satiriza la asfixiante burocracia estatal que prioriza el trámite excesivo y el sello por encima del bienestar del ciudadano.
+- [x] D) Satiriza la asfixiante burocracia estatal que prioriza el trámite excesivo y el sello por encima del bienestar del ciudadano.
   <!-- feedback: La caricatura contrapone la indefensión del ciudadano con la prepotencia del funcionario que convierte el papeleo en un instrumento de opresión. -->
-- [ ] B) Celebra la alta producción de la industria de papel y cartón en Colombia.
+- [ ] A) Celebra la alta producción de la industria de papel y cartón en Colombia.
   <!-- feedback: El mar de folios es una metáfora de la trampa burocrática, no un homenaje industrial. -->
-- [ ] C) Demuestra que los funcionarios públicos trabajan en playas y balnearios del Caribe.
+- [ ] B) Demuestra que los funcionarios públicos trabajan en playas y balnearios del Caribe.
   <!-- feedback: El "mar de folios" es una alegoría de la inundación de trámites inutiles. -->
-- [ ] D) Recomienda aumentar el número de sellos exigidos en los contratos públicos.
+- [ ] C) Recomienda aumentar el número de sellos exigidos en los contratos públicos.
   <!-- feedback: Ataca precisamente la exigencia desmedida de sellos y formalismos vacíos. -->
 
 ### Explicacion Pedagogica
@@ -80,11 +80,11 @@ La caricatura política combina el lenguaje icónico y la hipérbole visual para
 ¿Qué relación de causa y efecto destaca el texto científico al mencionar la tasa de crecimiento del frailejón?
 
 ### Opciones
-- [x] A) Muestra que la lentitud del crecimiento biológico vuelve irreversible el daño ambiental provocado por la deforestación del páramo.
+- [x] C) Muestra que la lentitud del crecimiento biológico vuelve irreversible el daño ambiental provocado por la deforestación del páramo.
   <!-- feedback: El dato biológico del crecimiento lento enfatiza la gravedad del ecocidio: reforestar un páramo toma siglos de tiempo real. -->
-- [ ] B) Demuestra que los frailejones son las plantas más rápidas en desarrollarse del planeta.
+- [ ] A) Demuestra que los frailejones son las plantas más rápidas en desarrollarse del planeta.
   <!-- feedback: El texto afirma lo contrario: crecen solo un centímetro al año. -->
-- [ ] C) Propone la tala comercial de frailejones para la fabricación de muebles finos.
+- [ ] B) Propone la tala comercial de frailejones para la fabricación de muebles finos.
   <!-- feedback: El artículo busca la protección estricta de la especie por su valor en el ciclo del agua. -->
 - [ ] D) Afirma que el agua de los páramos se produce artificialmente en laboratorios.
   <!-- feedback: Subraya la función natural insustituible del ecosistema en el abastecimiento de agua. -->
@@ -103,13 +103,13 @@ El dato científico del crecimiento lento evidencia la fragilidad del ecosistema
 ¿Qué información se deduce de la interacción entre las cifras del gráfico y la leyenda explicativa?
 
 ### Opciones
-- [x] A) Permite identificar visualmente qué nivel educativo presenta mayor tasa de inserción laboral y dónde se concentran los vacíos de empleo.
+- [x] D) Permite identificar visualmente qué nivel educativo presenta mayor tasa de inserción laboral y dónde se concentran los vacíos de empleo.
   <!-- feedback: La infografía facilita la lectura comparativa de datos complejos, permitiendo evaluar la brecha de oportunidades por nivel de formación. -->
-- [ ] B) Prueba que todas las profesiones en Colombia ofrecen exactamente los mismos salarios.
+- [ ] A) Prueba que todas las profesiones en Colombia ofrecen exactamente los mismos salarios.
   <!-- feedback: El gráfico expone precisamente las disparidades e inequidades del mercado de trabajo. -->
-- [ ] C) Demuestra que la educación secundaria es innecesaria para conseguir empleo en el país.
+- [ ] B) Demuestra que la educación secundaria es innecesaria para conseguir empleo en el país.
   <!-- feedback: Los datos muestran el impacto del nivel educativo en las probabilidades de contratación. -->
-- [ ] D) Exige la eliminación de todas las facultades de ingeniería en las universidades.
+- [ ] C) Exige la eliminación de todas las facultades de ingeniería en las universidades.
   <!-- feedback: Es una herramienta de diagnóstico cuantitativo que visibiliza la realidad del empleo juvenil. -->
 
 ### Explicacion Pedagogica
@@ -149,11 +149,11 @@ La reseña crítica pondera los componentes técnicos frente a las deficiencias 
 ¿Qué recurso persuasivo utiliza la campaña para concientizar a la población?
 
 ### Opciones
-- [x] A) Utiliza la metáfora militar del "enemigo" asociada a un objeto cotidiano para generar alerta e incentivar la eliminación de criaderos.
+- [x] C) Utiliza la metáfora militar del "enemigo" asociada a un objeto cotidiano para generar alerta e incentivar la eliminación de criaderos.
   <!-- feedback: El afiche dramatiza el riesgo doméstico transformando un simple florero en un peligro sanitario para motivar la prevención. -->
-- [ ] B) Informa que los floreros de cerámica han sido prohibidos por ley.
+- [ ] A) Informa que los floreros de cerámica han sido prohibidos por ley.
   <!-- feedback: Usa el florero con agua estancada como ejemplo de riesgo, no prohíbe el objeto. -->
-- [ ] C) Demuestra que el dengue es transmitido por la picadura de aves de corral.
+- [ ] B) Demuestra que el dengue es transmitido por la picadura de aves de corral.
   <!-- feedback: El aviso advierte sobre la reproducción del mosquito en depósitos de agua limpia. -->
 - [ ] D) Recomienda la compra de insecticidas importados de alto costo.
   <!-- feedback: Promueve el hábito sencillo de eliminar el agua estancada en las viviendas. -->
@@ -172,11 +172,11 @@ El afiche de salud pública combina la metáfora de alerta con la imagen domést
 ¿Qué conector o relación lógica de contrapunto articulan las dos oraciones del párrafo?
 
 ### Opciones
-- [x] A) Una relación de concesión o contraste donde un beneficio económico estructural se matiza con su impacto social negativo.
+- [x] C) Una relación de concesión o contraste donde un beneficio económico estructural se matiza con su impacto social negativo.
   <!-- feedback: El conector "pero" introduce la contraparte problemática de la bonanza: la inflación que perjudicó a los sectores vulnerables. -->
-- [ ] B) Una relación de causa y efecto donde la inflación causó el cultivo del café en el siglo XIX.
+- [ ] A) Una relación de causa y efecto donde la inflación causó el cultivo del café en el siglo XIX.
   <!-- feedback: Invierne el orden histórico; la bonanza fue la causa de la liquidez que generó inflación. -->
-- [ ] C) Una suma de hechos idénticos que no presentan ninguna contradicción.
+- [ ] B) Una suma de hechos idénticos que no presentan ninguna contradicción.
   <!-- feedback: Contrapone el avance en infraestructura con el encarecimiento del costo de vida. -->
 - [ ] D) Una conclusión definitiva que propone cerrar las exportaciones de café.
   <!-- feedback: Analiza el impacto macroeconómico y social de un fenómeno histórico. -->
@@ -195,11 +195,11 @@ La articulación contraargumentativa en la prosa expositiva sopesa los aspectos 
 ¿Qué conclusión panorámica se extrae al comparar ambas cifras de la tabla?
 
 ### Opciones
-- [x] A) Evidencia una profunda brecha de equidad territorial en la infraestructura de telecomunicaciones que margina a la ruralidad.
+- [x] C) Evidencia una profunda brecha de equidad territorial en la infraestructura de telecomunicaciones que margina a la ruralidad.
   <!-- feedback: La disparidad del 85% frente al 28% documenta la brecha digital que limita las oportunidades educativas y económicas del campo. -->
-- [ ] B) Prueba que las personas del campo no tienen interés en utilizar computadores.
+- [ ] A) Prueba que las personas del campo no tienen interés en utilizar computadores.
   <!-- feedback: Atribuye erróneamente la falta de acceso a desinterés, ignorando la escasez de infraestructura. -->
-- [ ] C) Demuestra que el acceso a internet es idéntico en todo el territorio nacional.
+- [ ] B) Demuestra que el acceso a internet es idéntico en todo el territorio nacional.
   <!-- feedback: Las cifras muestran una evidente y dramática desigualdad entre la ciudad y el campo. -->
 - [ ] D) Exige que las escuelas urbanas entreguen sus equipos a las escuelas rurales.
   <!-- feedback: Diagnostica la brecha territorial para orientar políticas públicas de inversión. -->
@@ -264,9 +264,9 @@ El diagrama de flujo ordena la información procedimental mediante relaciones de
 ¿Qué advertencia plantea la postura del editorialista frente a la discusión de las políticas públicas?
 
 ### Opciones
-- [x] A) Sostiene que las reformas sociales deben conciliar los ideales de justicia con el rigor técnico y la viabilidad presupuestal.
+- [x] B) Sostiene que las reformas sociales deben conciliar los ideales de justicia con el rigor técnico y la viabilidad presupuestal.
   <!-- feedback: El editorialista argumenta que los grandes fines de equidad fracasan si no cuentan con un sustento financiero sólido que los sostenga. -->
-- [ ] B) Exige el cierre de todos los hospitales públicos para privatizar el servicio de salud.
+- [ ] A) Exige el cierre de todos los hospitales públicos para privatizar el servicio de salud.
   <!-- feedback: Defiende la viabilidad financiera del sistema, no la clausura de la red de salud. -->
 - [ ] C) Afirma que los médicos deben trabajar de forma gratuita sin recibir salario.
   <!-- feedback: Centra la discusión en la sostenibilidad presupuestal y la técnica de seguros. -->
@@ -287,9 +287,9 @@ El editorial argumentativo pondera la necesidad de respaldar los objetivos de eq
 ¿Qué función comunicativa cumple el sello frontal de advertencia según la ley de etiquetado frontal en Colombia?
 
 ### Opciones
-- [x] A) Garantizar el derecho a la información clara e inmediata del consumidor para que tome decisiones conscientes sobre su salud.
+- [x] B) Garantizar el derecho a la información clara e inmediata del consumidor para que tome decisiones conscientes sobre su salud.
   <!-- feedback: El sello octogonal simplifica la información técnica del reverso, advirtiendo de un vistazo sobre los ingredientes críticos. -->
-- [ ] B) Prohibir la venta de alimentos procesados en los supermercados del país.
+- [ ] A) Prohibir la venta de alimentos procesados en los supermercados del país.
   <!-- feedback: No prohíbe el producto sino que exige transparencia sobre los excesos de ingredientes. -->
 - [ ] C) Aumentar el precio del producto para financiar obras de infraestructura vial.
   <!-- feedback: Es una medida de salud pública preventiva, no un impuesto a las ventas. -->
@@ -333,11 +333,11 @@ El manifiesto ciudadano utiliza un tono apelativo y la metáfora orgánica para 
 ¿Qué sentido socio-político transmite esta consigna en el contexto de la protesta social?
 
 ### Opciones
-- [x] A) Expresa que la acumulación de injusticias y despojos genera un punto de quiebre donde la dignidad supera al pavor de la represión.
+- [x] C) Expresa que la acumulación de injusticias y despojos genera un punto de quiebre donde la dignidad supera al pavor de la represión.
   <!-- feedback: La frase condensa la paradoja de la resistencia: la pérdida extrema de oportunidades transforma la resignación en audacia comunitaria. -->
-- [ ] B) Demuestra que los estudiantes universitarios no tenían miedo a los exámenes finales de semestre.
+- [ ] A) Demuestra que los estudiantes universitarios no tenían miedo a los exámenes finales de semestre.
   <!-- feedback: La consigna alude a la lucha por derechos, dignidad y contra la represión social. -->
-- [ ] C) Una recomendación de seguridad para evitar robos en los autobuses de la ciudad.
+- [ ] B) Una recomendación de seguridad para evitar robos en los autobuses de la ciudad.
   <!-- feedback: Es una potente afirmación de resistencia e identidad de la juventud indignada. -->
 - [ ] D) Una cita textual de un tratado sobre la historia del derecho romano.
   <!-- feedback: Nace del lenguaje sintético, combativo e icónico de la protesta urbana en el muro. -->
@@ -356,11 +356,11 @@ El grafiti urbano sintetiza con contundencia la paradoja de la dignidad: cuando 
 ¿Qué estructura textual caracteriza la presentación de resultados en un resumen académico?
 
 ### Opciones
-- [x] A) Exposición concisa y objetiva de la metodología aplicada, el periodo de estudio y el hallazgo principal sin adjetivaciones emotivas.
+- [x] C) Exposición concisa y objetiva de la metodología aplicada, el periodo de estudio y el hallazgo principal sin adjetivaciones emotivas.
   <!-- feedback: El *abstract* científico exige concisión, voz impersonal y datos verificables que resumen la contribución del trabajo. -->
-- [ ] B) Un relato de ficción maravillosa donde los árboles conversan con los ingenieros.
+- [ ] A) Un relato de ficción maravillosa donde los árboles conversan con los ingenieros.
   <!-- feedback: Mantiene la sobriedad, la voz impersonal y la precisión cuantitativa del informe académico. -->
-- [ ] C) Una columna de opinión que exige el voto por un partido político determinado.
+- [ ] B) Una columna de opinión que exige el voto por un partido político determinado.
   <!-- feedback: Se enmarca en la divulgación científica neutral y la evidencia empírica. -->
 - [ ] D) Un poema elegíaco sobre la belleza de las flores del Pacífico.
   <!-- feedback: Presenta datos empíricos de monitoreo satelital para el análisis técnico. -->
@@ -471,9 +471,9 @@ La reseña cultural comprende la gastronomía como un lenguaje afectivo e identi
 ¿Qué juicio argumentativo justifica la enseñanza de textos continuos y discontinuos en la escuela?
 
 ### Opciones
-- [x] A) La diversidad de formatos de la sociedad de la información exige competencias múltiples para descodificar tanto el discurso escrito como los lenguajes icónicos y estadísticos.
+- [x] B) La diversidad de formatos de la sociedad de la información exige competencias múltiples para descodificar tanto el discurso escrito como los lenguajes icónicos y estadísticos.
   <!-- feedback: El entorno moderno está saturado de imágenes, gráficos y datos; la lectura crítica debe formar ciudadanos capaces de descifrar todos los códigos de la vida social. -->
-- [ ] B) Sostiene que los libros impresos en papel deben ser destruidos para leer únicamente caricaturas.
+- [ ] A) Sostiene que los libros impresos en papel deben ser destruidos para leer únicamente caricaturas.
   <!-- feedback: Defiende la complementariedad entre los textos continuos e icónicos para una alfabetización integral. -->
 - [ ] C) Afirma que las infografías son exclusivas para estudiantes de diseño gráfico.
   <!-- feedback: La lectura de infografías es una competencia cívica indispensable para cualquier ciudadano informando. -->

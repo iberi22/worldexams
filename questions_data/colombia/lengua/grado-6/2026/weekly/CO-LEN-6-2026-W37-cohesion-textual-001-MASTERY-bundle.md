@@ -58,9 +58,9 @@ La cohesión es una propiedad formal del texto que permite que las partes se rel
 
 ### Opciones
 - [ ] A) La repetición literal. <!-- feedback: Incorrecto. La repetición usaría la misma palabra "perro". -->
-- [x] B) La sinonimia. <!-- feedback: Correcto. El uso de sinónimos evita la monotonía y enriquece el texto manteniendo el referente. -->
-- [ ] C) El uso de mayúsculas. <!-- feedback: Incorrecto. No es un mecanismo de cohesión léxica. -->
-- [ ] D) La puntuación. <!-- feedback: Incorrecto. La puntuación organiza pausas, no reemplaza términos. -->
+- [x] D) La sinonimia. <!-- feedback: Correcto. El uso de sinónimos evita la monotonía y enriquece el texto manteniendo el referente. -->
+- [ ] B) El uso de mayúsculas. <!-- feedback: Incorrecto. No es un mecanismo de cohesión léxica. -->
+- [ ] C) La puntuación. <!-- feedback: Incorrecto. La puntuación organiza pausas, no reemplaza términos. -->
 
 ### Explicacion Pedagogica
 La sinonimia es un recurso de cohesión léxica que permite volver sobre un tema sin cansar al lector con la misma palabra repetida constantemente.
@@ -80,8 +80,8 @@ Completa la oración con el conector de **oposición** adecuado: "Los jugadores 
 ### Opciones
 - [ ] A) Además. <!-- feedback: Incorrecto. "Además" indica suma, no oposición. -->
 - [ ] B) Porque. <!-- feedback: Incorrecto. "Porque" indica causa. -->
-- [x] C) Sin embargo. <!-- feedback: Correcto. "Sin embargo" es un conector adversativo que introduce una idea contraria a la anterior. -->
-- [ ] D) Por lo tanto. <!-- feedback: Incorrecto. Indica consecuencia, no oposición. -->
+- [x] D) Sin embargo. <!-- feedback: Correcto. "Sin embargo" es un conector adversativo que introduce una idea contraria a la anterior. -->
+- [ ] C) Por lo tanto. <!-- feedback: Incorrecto. Indica consecuencia, no oposición. -->
 
 ### Explicacion Pedagogica
 Los conectores lógicos son palabras que establecen relaciones de sentido (causa, consecuencia, oposición, tiempo) entre las oraciones, facilitando el hilo conductor del texto.
@@ -100,8 +100,8 @@ En la oración: "María y Juan fueron al parque. **Ellos** compraron helados", l
 
 ### Opciones
 - [ ] A) Indica que la acción ocurrió en el pasado. <!-- feedback: Incorrecto. Esa es función del verbo "compraron". -->
-- [x] B) Sustituye a los sustantivos "María y Juan" para evitar repetirlos. <!-- feedback: Correcto. Este mecanismo se llama referencia o anáfora. -->
-- [ ] C) Describe cómo son físicamente María y Juan. <!-- feedback: Incorrecto. El pronombre no da características descriptivas. -->
+- [x] C) Sustituye a los sustantivos "María y Juan" para evitar repetirlos. <!-- feedback: Correcto. Este mecanismo se llama referencia o anáfora. -->
+- [ ] B) Describe cómo son físicamente María y Juan. <!-- feedback: Incorrecto. El pronombre no da características descriptivas. -->
 - [ ] D) Une dos oraciones mediante una coma. <!-- feedback: Incorrecto. El pronombre no es un signo de puntuación. -->
 
 ### Explicacion Pedagogica
@@ -121,8 +121,8 @@ La referencia pronominal permite mantener el hilo temático refiriéndose a pers
 
 ### Opciones
 - [ ] A) Pero, mas, sino, aunque. <!-- feedback: Incorrecto. Son conectores de oposición. -->
-- [x] B) Primero, luego, después, finalmente. <!-- feedback: Correcto. Son conectores temporales que ordenan los hechos cronológicamente. -->
-- [ ] C) Ya que, puesto que, debido a. <!-- feedback: Incorrecto. Son conectores de causa. -->
+- [x] C) Primero, luego, después, finalmente. <!-- feedback: Correcto. Son conectores temporales que ordenan los hechos cronológicamente. -->
+- [ ] B) Ya que, puesto que, debido a. <!-- feedback: Incorrecto. Son conectores de causa. -->
 - [ ] D) Es decir, o sea, en otras palabras. <!-- feedback: Incorrecto. Son conectores explicativos. -->
 
 ### Explicacion Pedagogica
@@ -141,8 +141,8 @@ Los conectores de orden o secuencia son vitales para la cohesión en textos narr
 ¿En qué consiste el mecanismo de cohesión llamado **elipsis**?
 
 ### Opciones
-- [ ] A) En repetir la misma idea con las mismas palabras. <!-- feedback: Incorrecto. Eso es redundancia. -->
-- [x] B) En omitir (quitar) una palabra que ya se sobreentiende para no ser repetitivo. <!-- feedback: Correcto. Ejemplo: "Yo estudio lengua; mi hermano, matemáticas" (se omite el verbo estudia). -->
+- [ ] B) En repetir la misma idea con las mismas palabras. <!-- feedback: Incorrecto. Eso es redundancia. -->
+- [x] A) En omitir (quitar) una palabra que ya se sobreentiende para no ser repetitivo. <!-- feedback: Correcto. Ejemplo: "Yo estudio lengua; mi hermano, matemáticas" (se omite el verbo estudia). -->
 - [ ] C) En escribir círculos alrededor de las palabras importantes. <!-- feedback: Incorrecto. No es un recurso gráfico, sino lingüístico. -->
 - [ ] D) En usar palabras que rimen entre sí. <!-- feedback: Incorrecto. Eso es propio del género lírico (rima). -->
 
@@ -163,8 +163,8 @@ La elipsis aprovecha el contexto para evitar la pesadez de repetir elementos obv
 
 ### Opciones
 - [ ] A) Llovió mucho **pero** no me mojé. <!-- feedback: Incorrecto. Indica oposición. -->
-- [ ] B) Llovió mucho **y** saqué el paraguas. <!-- feedback: Incorrecto. Indica suma de acciones. -->
-- [x] C) Llovió mucho; **por consiguiente**, se inundó el patio. <!-- feedback: Correcto. El segundo hecho es un resultado lógico del primero. -->
+- [ ] C) Llovió mucho **y** saqué el paraguas. <!-- feedback: Incorrecto. Indica suma de acciones. -->
+- [x] B) Llovió mucho; **por consiguiente**, se inundó el patio. <!-- feedback: Correcto. El segundo hecho es un resultado lógico del primero. -->
 - [ ] D) Llovió mucho **mientras** yo dormía. <!-- feedback: Incorrecto. Indica simultaneidad temporal. -->
 
 ### Explicacion Pedagogica
@@ -185,8 +185,8 @@ Analiza la oración: "Me gusta el chocolate, **pero** es muy rico". ¿Por qué e
 ### Opciones
 - [ ] A) Porque el chocolate no es rico. <!-- feedback: Incorrecto. Eso es una opinión personal, no un análisis gramatical. -->
 - [ ] B) Porque "pero" es una palabra muy corta. <!-- feedback: Incorrecto. La longitud de la palabra no afecta su corrección. -->
-- [x] C) Porque el conector "pero" indica oposición, y ser "rico" no se opone a que "me guste". <!-- feedback: Correcto. Los conectores deben respetar la lógica de las ideas que unen. -->
-- [ ] D) Porque falta un punto final después de la palabra chocolate. <!-- feedback: Incorrecto. El error es de significado lógico del nexo. -->
+- [x] D) Porque el conector "pero" indica oposición, y ser "rico" no se opone a que "me guste". <!-- feedback: Correcto. Los conectores deben respetar la lógica de las ideas que unen. -->
+- [ ] C) Porque falta un punto final después de la palabra chocolate. <!-- feedback: Incorrecto. El error es de significado lógico del nexo. -->
 
 ### Explicacion Pedagogica
 La cohesión requiere que el nexo elegido coincida con la relación real entre las ideas. Si las ideas se apoyan entre sí, se requiere un conector de suma (y) o de causa (porque).
@@ -204,8 +204,8 @@ La cohesión requiere que el nexo elegido coincida con la relación real entre l
 En un texto sobre la fauna de los llanos orientales, aparecen las palabras: "chigüiro", "venado", "babilla" y "garza". ¿Cómo ayudan estas palabras a la cohesión del texto?
 
 ### Opciones
-- [ ] A) No ayudan, solo sirven para aprender nombres de animales. <!-- feedback: Incorrecto. El vocabulario seleccionado tiene una función estructural. -->
-- [x] B) Crean un campo semántico relacionado con la fauna llanera, dándole unidad léxica al texto. <!-- feedback: Correcto. La selección de palabras de una misma familia o tema refuerza la cohesión. -->
+- [ ] B) No ayudan, solo sirven para aprender nombres de animales. <!-- feedback: Incorrecto. El vocabulario seleccionado tiene una función estructural. -->
+- [x] A) Crean un campo semántico relacionado con la fauna llanera, dándole unidad léxica al texto. <!-- feedback: Correcto. La selección de palabras de una misma familia o tema refuerza la cohesión. -->
 - [ ] C) Ayudan a que el texto rime y suene como una canción. <!-- feedback: Incorrecto. No necesariamente hay rima en un listado temático. -->
 - [ ] D) Confunden al lector porque son muchos animales diferentes. <!-- feedback: Incorrecto. Al contrario, ayudan a situar al lector en el contexto ambiental. -->
 
@@ -226,9 +226,9 @@ Lee el texto: "Fui al mercado. Compré papas. Compré cebollas. Volví a casa. E
 
 ### Opciones
 - [ ] A) Escribir las oraciones en diferentes páginas. <!-- feedback: Incorrecto. Eso empeora la conexión. -->
-- [x] B) Usar conectores y pronombres: "Fui al mercado y compré papas y cebollas; luego volví a casa porque estaba cansado". <!-- feedback: Correcto. El uso de nexos (y, luego, porque) y la elipsis del sujeto dan fluidez y conexión al texto. -->
-- [ ] C) Ponerle un título más largo al texto. <!-- feedback: Incorrecto. El título no soluciona los problemas internos de conexión. -->
-- [ ] D) Usar solo puntos seguidos entre cada palabra. <!-- feedback: Incorrecto. Eso haría el texto aún más entrecortado e incoherente. -->
+- [x] D) Usar conectores y pronombres: "Fui al mercado y compré papas y cebollas; luego volví a casa porque estaba cansado". <!-- feedback: Correcto. El uso de nexos (y, luego, porque) y la elipsis del sujeto dan fluidez y conexión al texto. -->
+- [ ] B) Ponerle un título más largo al texto. <!-- feedback: Incorrecto. El título no soluciona los problemas internos de conexión. -->
+- [ ] C) Usar solo puntos seguidos entre cada palabra. <!-- feedback: Incorrecto. Eso haría el texto aún más entrecortado e incoherente. -->
 
 ### Explicacion Pedagogica
 Un texto sin cohesión es una suma de oraciones aisladas. La verdadera escritura consiste en tejer esas oraciones mediante mecanismos lingüísticos para crear un mensaje fluido y profesional.

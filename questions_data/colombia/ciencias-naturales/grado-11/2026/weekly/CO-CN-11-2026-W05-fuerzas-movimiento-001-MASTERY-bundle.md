@@ -57,11 +57,11 @@ La fuerza de fricción estática ($f_s$) se opone al inicio del movimiento relat
 ¿Cómo se expresa matemáticamente la Ley de Hooke para un resorte ideal de constante $k$ deformado una distancia $x$?
 
 ### Opciones
-- [x] A) $F = -k x$
+- [x] C) $F = -k x$
   <!-- feedback: Correcto. La Ley de Hooke establece que la fuerza restauradora es proporcional y opuesta al desplazamiento. -->
-- [ ] B) $F = \frac{1}{2} k x^2$
+- [ ] A) $F = \frac{1}{2} k x^2$
   <!-- feedback: Incorrecto. Esta expresión corresponde a la energía potencial elástica acumulada, no a la fuerza. -->
-- [ ] C) $F = -k x^2$
+- [ ] B) $F = -k x^2$
   <!-- feedback: Incorrecto. La fuerza elástica es lineal respecto a $x$, no cuadrática. -->
 - [ ] D) $F = -\frac{k}{x}$
   <!-- feedback: Incorrecto. Representa una relación inversamente proporcional errónea. -->
@@ -80,11 +80,11 @@ La Ley de Hooke postula que la fuerza elástica restauradora es directamente pro
 ¿Qué concepto físico explica este comportamiento de los pasajeros?
 
 ### Opciones
-- [x] A) La inercia de los cuerpos, descrita por la primera ley de Newton.
+- [x] C) La inercia de los cuerpos, descrita por la primera ley de Newton.
   <!-- feedback: Correcto. Los cuerpos tienden a mantener su estado de movimiento uniforme hacia adelante por inercia. -->
-- [ ] B) La fuerza de fricción del piso del autobús empujándolos.
+- [ ] A) La fuerza de fricción del piso del autobús empujándolos.
   <!-- feedback: Incorrecto. La fricción en los pies actúa hacia atrás para intentar detenerlos. -->
-- [ ] C) El incremento de la atracción gravitacional durante el frenado.
+- [ ] B) El incremento de la atracción gravitacional durante el frenado.
   <!-- feedback: Incorrecto. La gravedad no se altera por el movimiento del vehículo. -->
 - [ ] D) La fuerza centrífuga causada por la aceleración vertical.
   <!-- feedback: Incorrecto. El frenado es una desaceleración en línea recta, no un viraje circular. -->
@@ -126,11 +126,11 @@ El principio de Arquímedes afirma que un cuerpo sumergido en un fluido experime
 ¿Qué trabajo mecánico realiza la fuerza aplicada sobre la carga en la dirección del movimiento?
 
 ### Opciones
-- [x] A) $5000\text{ Joules}$
+- [x] C) $5000\text{ Joules}$
   <!-- feedback: Correcto. El trabajo mecánico es $W = F \cdot d \cdot \cos(0^circ) = 500 \cdot 10 \cdot 1 = 5000\text{ J}$. -->
-- [ ] B) $50\text{ Joules}$
+- [ ] A) $50\text{ Joules}$
   <!-- feedback: Incorrecto. División errónea en lugar de multiplicación. -->
-- [ ] C) $500\text{ Joules}$
+- [ ] B) $500\text{ Joules}$
   <!-- feedback: Incorrecto. Se omitió la distancia recorrida. -->
 - [ ] D) $0\text{ Joules}$
   <!-- feedback: Incorrecto. El trabajo es cero solo si la fuerza es perpendicular al desplazamiento o si no hay movimiento. -->
@@ -172,11 +172,11 @@ La energía cinética traslacional se define como $E_k = \frac{1}{2} m v^2$. Sus
 ¿Cuál es la constante elástica $k$ del resorte?
 
 ### Opciones
-- [x] A) $50\text{ N/m}$
+- [x] C) $50\text{ N/m}$
   <!-- feedback: Correcto. De la Ley de Hooke $k = \frac{F}{x} = \frac{10\text{ N}}{0.2\text{ m}} = 50\text{ N/m}$. -->
-- [ ] B) $2\text{ N/m}$
+- [ ] A) $2\text{ N/m}$
   <!-- feedback: Incorrecto. Multiplicación de la fuerza por el desplazamiento. -->
-- [ ] C) $100\text{ N/m}$
+- [ ] B) $100\text{ N/m}$
   <!-- feedback: Incorrecto. Error decimal al dividir entre 0.1. -->
 - [ ] D) $5\text{ N/m}$
   <!-- feedback: Incorrecto. División de 10 entre 2. -->
@@ -195,9 +195,9 @@ Despejando la constante de rigidez $k$ de la magnitud de la Ley de Hooke ($F = k
 ¿Cuál es la energía potencial gravitacional adquirida por la caja respecto al piso?
 
 ### Opciones
-- [x] A) $1000\text{ Joules}$
+- [x] B) $1000\text{ Joules}$
   <!-- feedback: Correcto. $E_p = m g h = 20 \times 10 \times 5 = 1000\text{ J}$. -->
-- [ ] B) $100\text{ Joules}$
+- [ ] A) $100\text{ Joules}$
   <!-- feedback: Incorrecto. Se omitió la masa en el cálculo. -->
 - [ ] C) $500\text{ Joules}$
   <!-- feedback: Incorrecto. Se omitió la aceleración de la gravedad. -->
@@ -218,11 +218,11 @@ La energía potencial gravitacional en un campo uniforme es $E_p = m \cdot g \cd
 ¿Cuál es el valor del impulso impartido al balón y la fuerza promedio ejercida por el pie?
 
 ### Opciones
-- [x] A) Impulso = $10\text{ N}\cdot\text{s}$, Fuerza = $500\text{ N}$.
+- [x] C) Impulso = $10\text{ N}\cdot\text{s}$, Fuerza = $500\text{ N}$.
   <!-- feedback: Correcto. Impulso $I = \Delta p = m v_f - m v_i = 0.4 \times 25 = 10\text{ N}\cdot\text{s}$. Fuerza $F = \frac{I}{\Delta t} = \frac{10}{0.02} = 500\text{ N}$. -->
-- [ ] B) Impulso = $100\text{ N}\cdot\text{s}$, Fuerza = $50\text{ N}$.
+- [ ] A) Impulso = $100\text{ N}\cdot\text{s}$, Fuerza = $50\text{ N}$.
   <!-- feedback: Incorrecto. Multiplicación errónea del tiempo. -->
-- [ ] C) Impulso = $5\text{ N}\cdot\text{s}$, Fuerza = $250\text{ N}$.
+- [ ] B) Impulso = $5\text{ N}\cdot\text{s}$, Fuerza = $250\text{ N}$.
   <!-- feedback: Incorrecto. Cálculo erróneo de la masa. -->
 - [ ] D) Impulso = $2.5\text{ N}\cdot\text{s}$, Fuerza = $125\text{ N}$.
   <!-- feedback: Incorrecto. Error de escala de velocidad. -->
@@ -241,11 +241,11 @@ El teorema del impulso y la cantidad de movimiento establece $I = \Delta p = m (
 ¿Con qué velocidad de retroceso se mueve el joven sobre la pista (sin fricción)?
 
 ### Opciones
-- [x] A) $0.4\text{ m/s}$ hacia atrás.
+- [x] C) $0.4\text{ m/s}$ hacia atrás.
   <!-- feedback: Correcto. Por conservación del momento lineal $p_i = p_f \implies 0 = m_j v_j + m_p v_p \implies v_j = -\frac{2 \times 10}{50} = -0.4\text{ m/s}$. -->
-- [ ] B) $2.5\text{ m/s}$ hacia atrás.
+- [ ] A) $2.5\text{ m/s}$ hacia atrás.
   <!-- feedback: Incorrecto. Se dividió la masa del joven entre el momento de la pelota. -->
-- [ ] C) $10\text{ m/s}$ hacia atrás.
+- [ ] B) $10\text{ m/s}$ hacia atrás.
   <!-- feedback: Incorrecto. Asume que el joven adquiere la misma velocidad de la pelota lanzada. -->
 - [ ] D) $0\text{ m/s}$.
   <!-- feedback: Incorrecto. Violaría la conservación del momento lineal en un sistema aislado. -->
@@ -264,11 +264,11 @@ En ausencia de fuerzas externas horizontales, el momento lineal se conserva ($\D
 ¿Cuál es la máxima compresión $x$ que experimenta el resorte al detener momentáneamente al bloque?
 
 ### Opciones
-- [x] A) $0.44\text{ metros}$ (aproximadamente $\sqrt{0.2}\text{ m}$)
+- [x] C) $0.44\text{ metros}$ (aproximadamente $\sqrt{0.2}\text{ m}$)
   <!-- feedback: Correcto. Conservación de energía: $m g h = \frac{1}{2} k x^2 \implies 2(10)(5) = \frac{1}{2}(1000)x^2 \implies 100 = 500 x^2 \implies x^2 = 0.2 \implies x = \sqrt{0.2} \approx 0.447\text{ m}$. -->
-- [ ] B) $0.1\text{ metros}$
+- [ ] A) $0.1\text{ metros}$
   <!-- feedback: Incorrecto. Ocurre si se olvida multiplicar la masa por la aceleración de la gravedad. -->
-- [ ] C) $1.0\text{ metros}$
+- [ ] B) $1.0\text{ metros}$
   <!-- feedback: Incorrecto. Error de despeje al no dividir entre la constante del resorte. -->
 - [ ] D) $0.2\text{ metros}$
   <!-- feedback: Incorrecto. $0.2$ es el valor de $x^2$, falta extraer la raíz cuadrada. -->
@@ -310,11 +310,11 @@ Energía inicial: $E_{ki} = \frac{1}{2}(1)(36) = 18\text{ J}$. Por conservación
 ¿Cuál es la tensión en la cuerda cuando la masa pasa por el punto más bajo de su trayectoria vertical?
 
 ### Opciones
-- [x] A) $3 m g$
+- [x] C) $3 m g$
   <!-- feedback: Correcto. En el punto bajo: $v^2 = 2gL$ (por conservación de energía). Tensión $T = m g + \frac{m v^2}{L} = m g + \frac{m(2gL)}{L} = m g + 2 m g = 3 m g$. -->
-- [ ] B) $1 m g$
+- [ ] A) $1 m g$
   <!-- feedback: Incorrecto. Iguala la tensión al peso estático, ignorando la fuerza centrípeta. -->
-- [ ] C) $2 m g$
+- [ ] B) $2 m g$
   <!-- feedback: Incorrecto. Corresponde solo a la contribución de la velocidad centrípeta sin sumar el peso. -->
 - [ ] D) $0$
   <!-- feedback: Incorrecto. La cuerda no está destensada en el punto inferior. -->
@@ -356,13 +356,13 @@ La potencia desarrollada es el trabajo realizado por unidad de tiempo: $P = \fra
 ¿Qué se puede afirmar sobre el trabajo realizado por la fuerza de fricción en relación con la energía potencial gravitacional perdida?
 
 ### Opciones
-- [x] A) El trabajo negativo de la fricción disipa exactamente toda la energía potencial gravitacional perdida en forma de calor.
+- [x] D) El trabajo negativo de la fricción disipa exactamente toda la energía potencial gravitacional perdida en forma de calor.
   <!-- feedback: Correcto. Al ser velocidad constante, la energía cinética no cambia ($\Delta E_k = 0$). Toda la disminución de $E_p$ es disipada por el trabajo de la fricción. -->
-- [ ] B) El trabajo de la fricción se convierte íntegramente en energía cinética.
+- [ ] A) El trabajo de la fricción se convierte íntegramente en energía cinética.
   <!-- feedback: Incorrecto. La velocidad es constante, luego $\Delta E_k = 0$. -->
-- [ ] C) La fuerza de fricción no realiza trabajo porque es paralela al plano.
+- [ ] B) La fuerza de fricción no realiza trabajo porque es paralela al plano.
   <!-- feedback: Incorrecto. Al existir desplazamiento paralelo a la fricción, el trabajo no es cero. -->
-- [ ] D) La energía potencial se incrementa debido al calentamiento del bloque.
+- [ ] C) La energía potencial se incrementa debido al calentamiento del bloque.
   <!-- feedback: Incorrecto. La energía potencial disminuye al perder altura. -->
 
 ### Explicacion Pedagogica
@@ -402,9 +402,9 @@ Para fuerzas variables, el trabajo es la integral $W = \int_{x_1}^{x_2} F(x) dx$
 ¿Cuál es la rapidez de la masa cuando se encuentra en la posición $x = 0.06\text{ m}$?
 
 ### Opciones
-- [x] A) $1.6\text{ m/s}$
+- [x] B) $1.6\text{ m/s}$
   <!-- feedback: Correcto. Por conservación de energía $\frac{1}{2}k A^2 = \frac{1}{2}m v^2 + \frac{1}{2}k x^2 \implies v = \sqrt{\frac{k}{m}(A^2 - x^2)} = \sqrt{\frac{200}{0.5}(0.01 - 0.0036)} = \sqrt{400(0.0064)} = \sqrt{2.56} = 1.6\text{ m/s}$. -->
-- [ ] B) $2.0\text{ m/s}$
+- [ ] A) $2.0\text{ m/s}$
   <!-- feedback: Incorrecto. Es la rapidez máxima al pasar por el centro de equilibrio $x=0$. -->
 - [ ] C) $1.2\text{ m/s}$
   <!-- feedback: Incorrecto. Error en la resta de los cuadrados de la posición. -->
@@ -425,11 +425,11 @@ Por conservación de energía en un oscilador armónico simple: $v = \omega \sqr
 ¿Qué fracción de la energía cinética inicial conservará el proyectil en el ápice de su vuelo?
 
 ### Opciones
-- [x] A) La cuarta parte ($\frac{1}{4} E_{k0}$).
+- [x] C) La cuarta parte ($\frac{1}{4} E_{k0}$).
   <!-- feedback: Correcto. En la cúspide $v_y = 0$, subsiste $v_x = v_0 \cos(60^circ) = \frac{1}{2}v_0$. La energía cinética es $E_k = \frac{1}{2} m (\frac{1}{2}v_0)^2 = \frac{1}{4} (\frac{1}{2} m v_0^2) = \frac{1}{4} E_{k0}$. -->
-- [ ] B) La mitad ($\frac{1}{2} E_{k0}$).
+- [ ] A) La mitad ($\frac{1}{2} E_{k0}$).
   <!-- feedback: Incorrecto. Confunde el valor del coseno de $60^\circ$ con su cuadrado. -->
-- [ ] C) Las tres cuartas partes ($\frac{3}{4} E_{k0}$).
+- [ ] B) Las tres cuartas partes ($\frac{3}{4} E_{k0}$).
   <!-- feedback: Incorrecto. Sería la fracción convertida en energía potencial gravitacional. -->
 - [ ] D) Cero ($0$).
   <!-- feedback: Incorrecto. La velocidad horizontal nunca se anula en el movimiento parabólico. -->
@@ -471,9 +471,9 @@ La fuerza de empuje producida por la expulsión de gases es $F_{empuje} = u \lef
 ¿Cuáles son las velocidades finales $v_A'$ y $v_B'$ de ambas partículas tras la colisión?
 
 ### Opciones
-- [x] A) $v_A' = 0.2 v_0$ y $v_B' = 0.8 v_0$.
+- [x] B) $v_A' = 0.2 v_0$ y $v_B' = 0.8 v_0$.
   <!-- feedback: Correcto. Conservación de momento: $v_A' + v_B' = v_0$. Coeficiente de restitución: $v_B' - v_A' = e v_0 = 0.6 v_0$. Sumando ambas: $2 v_B' = 1.6 v_0 \implies v_B' = 0.8 v_0$, $v_A' = 0.2 v_0$. -->
-- [ ] B) $v_A' = 0$ y $v_B' = v_0$.
+- [ ] A) $v_A' = 0$ y $v_B' = v_0$.
   <!-- feedback: Incorrecto. Válido únicamente para choque perfectamente elástico ($e=1$). -->
 - [ ] C) $v_A' = 0.5 v_0$ y $v_B' = 0.5 v_0$.
   <!-- feedback: Incorrecto. Válido únicamente para choque perfectamente inelástico ($e=0$). -->

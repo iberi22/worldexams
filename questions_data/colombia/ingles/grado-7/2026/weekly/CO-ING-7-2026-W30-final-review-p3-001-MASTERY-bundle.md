@@ -38,11 +38,11 @@ Which of the following is an uncountable noun?
 ### Opciones
 - [ ] A) Carrot
   <!-- feedback: Incorrect. You can count carrots. -->
-- [x] B) Sugar
+- [x] D) Sugar
   <!-- feedback: Correct! Sugar is a substance and is uncountable. -->
-- [ ] C) Banana
+- [ ] B) Banana
   <!-- feedback: Incorrect. You can count bananas. -->
-- [ ] D) Egg
+- [ ] C) Egg
   <!-- feedback: Incorrect. You can count eggs. -->
 
 ### Explicacion Pedagogica
@@ -86,9 +86,9 @@ The student identifies the correct superlative form for a short adjective.
 "I have ________ books in my bag, so it is not very heavy."
 
 ### Opciones
-- [ ] A) a little
+- [ ] B) a little
   <!-- feedback: Incorrect. Books are countable. -->
-- [x] B) a few
+- [x] A) a few
   <!-- feedback: Correct! "A few" is for a small number of countable items. -->
 - [ ] C) much
   <!-- feedback: Incorrect. Used for uncountable. -->
@@ -138,9 +138,9 @@ The student understands the structural requirements for the "going to" future.
 ### Opciones
 - [ ] A) expensiver
   <!-- feedback: Incorrect. Long adjectives don't take -er. -->
-- [x] B) more expensive
+- [x] C) more expensive
   <!-- feedback: Correct! Comparative form for a long adjective. -->
-- [ ] C) the most expensive
+- [ ] B) the most expensive
   <!-- feedback: Incorrect. Use comparative for two things. -->
 - [ ] D) as expensive
   <!-- feedback: Incorrect. Missing the second "as". -->
@@ -189,9 +189,9 @@ The student applies reading strategies to compare quantities expressed with diff
 ### Opciones
 - [ ] A) will
   <!-- feedback: Incorrect. You wouldn't promise to forget. -->
-- [x] B) won't
+- [x] C) won't
   <!-- feedback: Correct! "Won't" is the negative future used for a promise not to do something. -->
-- [ ] C) am not
+- [ ] B) am not
   <!-- feedback: Incorrect. Missing "going to". -->
 - [ ] D) don't
   <!-- feedback: Incorrect. Not the standard tense for a specific future promise. -->
@@ -212,11 +212,11 @@ The student applies the future auxiliary "will" (negative form) to express a pro
 Which sentence is LOGICALLY and GRAMMATICALLY correct?
 
 ### Opciones
-- [ ] A) Pizza is the better food in the world.
+- [ ] B) Pizza is the better food in the world.
   <!-- feedback: Incorrect. Needs the superlative "best". -->
-- [ ] B) Fruits are more good for your health than candy.
+- [ ] C) Fruits are more good for your health than candy.
   <!-- feedback: Incorrect. Comparative of "good" is "better". -->
-- [x] C) Vegetables are better for your health than candy.
+- [x] A) Vegetables are better for your health than candy.
   <!-- feedback: Correct! "Better" is the correct comparative of "good". -->
 - [ ] D) Candy is the bestest food for your teeth.
   <!-- feedback: Incorrect. "Bestest" is not a word; "best" is already superlative. -->
@@ -240,11 +240,11 @@ Whose plan is the most certain and pre-arranged?
 ### Opciones
 - [ ] A) Mateo's
   <!-- feedback: Incorrect. "I think I'll" is a spontaneous/uncertain future. -->
-- [x] B) Ana's
+- [x] D) Ana's
   <!-- feedback: Correct! "I am going" (present continuous for future) or "I am going to go" shows a firm plan with a specific time. -->
-- [ ] C) Luis's
+- [ ] B) Luis's
   <!-- feedback: Incorrect. "Might" shows low certainty. -->
-- [ ] D) All are equally certain.
+- [ ] C) All are equally certain.
   <!-- feedback: Incorrect. The different structures show different levels of commitment. -->
 
 ### Explicacion Pedagogica

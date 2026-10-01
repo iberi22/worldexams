@@ -32,11 +32,11 @@ Este bundle contiene 12 preguntas sobre **distribucion-frecuencias-datos** para 
 ### Enunciado
 ¿Qué es la frecuencia absoluta de una categoría?
 ### Opciones
-- [x] A) El número de veces que aparece esa categoría en los datos.
+- [x] C) El número de veces que aparece esa categoría en los datos.
   <!-- feedback: Correcto. La frecuencia absoluta es el conteo de observaciones de la categoría. -->
-- [ ] B) La proporción del total que representa la categoría.
+- [ ] A) La proporción del total que representa la categoría.
   <!-- feedback: Incorrecto. Eso es la frecuencia relativa. -->
-- [ ] C) La categoría que aparece más veces.
+- [ ] B) La categoría que aparece más veces.
   <!-- feedback: Incorrecto. Eso es la moda, no la frecuencia absoluta de una categoría. -->
 - [ ] D) El promedio de los valores de la categoría.
   <!-- feedback: Incorrecto. La frecuencia es un conteo, no un promedio. -->
@@ -52,13 +52,13 @@ La frecuencia absoluta de una categoría es el número de observaciones que pert
 ### Enunciado
 Si $f_i$ es la frecuencia absoluta y $n$ el total de datos, ¿cómo se calcula la frecuencia relativa?
 ### Opciones
-- [x] A) $\frac{f_i}{n}$
+- [x] D) $\frac{f_i}{n}$
   <!-- feedback: Correcto. La frecuencia relativa es el cociente entre la frecuencia absoluta y el total de datos. -->
-- [ ] B) $\frac{n}{f_i}$
+- [ ] A) $\frac{n}{f_i}$
   <!-- feedback: Incorrecto. Invertiste el cociente. -->
-- [ ] C) $f_i \cdot n$
+- [ ] B) $f_i \cdot n$
   <!-- feedback: Incorrecto. Es una división, no un producto. -->
-- [ ] D) $f_i - n$
+- [ ] C) $f_i - n$
   <!-- feedback: Incorrecto. No es una resta. -->
 ### Explicacion Pedagogica
 La frecuencia relativa es $f_i/n$ y expresa la proporción de datos que caen en la categoría; al sumar todas resulta $1$.
@@ -92,9 +92,9 @@ La frecuencia relativa es $\frac{f_i}{n} = \frac{10}{40} = 0.25$, equivalente al
 ### Enunciado
 ¿Cuál es el porcentaje de personas que prefiere fútbol?
 ### Opciones
-- [x] A) $40\%$
+- [x] B) $40\%$
   <!-- feedback: Correcto. $\frac{20}{50} = 0.4 = 40\%$. -->
-- [ ] B) $25\%$
+- [ ] A) $25\%$
   <!-- feedback: Incorrecto. $\frac{20}{50}$ no es $0.25$. -->
 - [ ] C) $50\%$
   <!-- feedback: Incorrecto. Sería $50\%$ si lo eligieran $25$ personas. -->
@@ -112,13 +112,13 @@ Porcentaje $= \frac{20}{50} \cdot 100 = 40\%$.
 ### Enunciado
 ¿Cuál es la frecuencia acumulada hasta el tercer intervalo?
 ### Opciones
-- [x] A) $22$
+- [x] D) $22$
   <!-- feedback: Correcto. $3 + 7 + 12 = 22$. -->
-- [ ] B) $30$
+- [ ] A) $30$
   <!-- feedback: Incorrecto. Incluiste también el cuarto intervalo. -->
-- [ ] C) $12$
+- [ ] B) $12$
   <!-- feedback: Incorrecto. Ese es solo el tercer intervalo. -->
-- [ ] D) $19$
+- [ ] C) $19$
   <!-- feedback: Incorrecto. Sumaste solo $7 + 12$. -->
 ### Explicacion Pedagogica
 La frecuencia acumulada hasta el tercer intervalo es la suma $3 + 7 + 12 = 22$.
@@ -132,11 +132,11 @@ La frecuencia acumulada hasta el tercer intervalo es la suma $3 + 7 + 12 = 22$.
 ### Enunciado
 ¿Cuál es la marca de clase de ese intervalo?
 ### Opciones
-- [x] A) $25$
+- [x] C) $25$
   <!-- feedback: Correcto. La marca de clase es el punto medio: $\frac{20 + 30}{2} = 25$. -->
-- [ ] B) $20$
+- [ ] A) $20$
   <!-- feedback: Incorrecto. Ese es el límite inferior del intervalo. -->
-- [ ] C) $30$
+- [ ] B) $30$
   <!-- feedback: Incorrecto. Ese es el límite superior del intervalo. -->
 - [ ] D) $10$
   <!-- feedback: Incorrecto. $10$ es la amplitud del intervalo, no su marca. -->
@@ -152,11 +152,11 @@ La marca de clase es el punto medio del intervalo: $\frac{20 + 30}{2} = 25$.
 ### Enunciado
 ¿Cuál es la amplitud de cada intervalo si se usan 5 intervalos de igual ancho?
 ### Opciones
-- [x] A) $10$
+- [x] C) $10$
   <!-- feedback: Correcto. El rango es $62 - 12 = 50$; $\frac{50}{5} = 10$. -->
-- [ ] B) $50$
+- [ ] A) $50$
   <!-- feedback: Incorrecto. $50$ es el rango total de los datos. -->
-- [ ] C) $12$
+- [ ] B) $12$
   <!-- feedback: Incorrecto. Ese es el valor mínimo. -->
 - [ ] D) $5$
   <!-- feedback: Incorrecto. Confundiste el número de intervalos con la amplitud. -->
@@ -172,13 +172,13 @@ El rango es $62 - 12 = 50$. Con 5 intervalos de igual ancho, la amplitud es $\fr
 ### Enunciado
 ¿Cuál es el valor de $x$ para completar la tabla?
 ### Opciones
-- [x] A) $10$
+- [x] D) $10$
   <!-- feedback: Correcto. La suma de frecuencias debe ser $60$: $10 + 15 + 20 + x + 5 = 60$, luego $x = 10$. -->
-- [ ] B) $15$
+- [ ] A) $15$
   <!-- feedback: Incorrecto. La suma daría $65$. -->
-- [ ] C) $5$
+- [ ] B) $5$
   <!-- feedback: Incorrecto. La suma daría $55$. -->
-- [ ] D) $20$
+- [ ] C) $20$
   <!-- feedback: Incorrecto. La suma daría $70$. -->
 ### Explicacion Pedagogica
 La suma de todas las frecuencias absolutas es el total de datos: $10 + 15 + 20 + x + 5 = 60$, por lo que $x = 10$.

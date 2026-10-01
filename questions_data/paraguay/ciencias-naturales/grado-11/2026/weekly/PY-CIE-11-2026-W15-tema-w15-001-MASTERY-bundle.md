@@ -36,10 +36,10 @@ Este bundle cubre de manera exhaustiva los alcoholes, fenoles, aldehídos, ceton
 ¿Cuál es el grupo funcional característico que define a la familia orgánica de los alcoholes?
 
 ### Opciones
-- [x] A) Grupo Hidroxilo (-OH) <!-- feedback: ¡Correcto! El grupo hidroxilo (-OH) enlazado a un carbono saturado sp3 define a los alcoholes. -->
-- [ ] B) Grupo Carbonilo (C=O) <!-- feedback: Incorrecto. El grupo carbonilo caracteriza a los aldehídos y cetonas. -->
-- [ ] C) Grupo Carboxilo (-COOH) <!-- feedback: Incorrecto. El grupo carboxilo define a la familia de los ácidos carboxílicos. -->
-- [ ] D) Grupo Amino (-NH2) <!-- feedback: Incorrecto. El grupo amino es característico de las aminas nitrogenadas. -->
+- [x] D) Grupo Hidroxilo (-OH) <!-- feedback: ¡Correcto! El grupo hidroxilo (-OH) enlazado a un carbono saturado sp3 define a los alcoholes. -->
+- [ ] A) Grupo Carbonilo (C=O) <!-- feedback: Incorrecto. El grupo carbonilo caracteriza a los aldehídos y cetonas. -->
+- [ ] B) Grupo Carboxilo (-COOH) <!-- feedback: Incorrecto. El grupo carboxilo define a la familia de los ácidos carboxílicos. -->
+- [ ] C) Grupo Amino (-NH2) <!-- feedback: Incorrecto. El grupo amino es característico de las aminas nitrogenadas. -->
 
 ### Explicacion Pedagogica
 Los alcoholes son compuestos oxigenados cuya polaridad dada por el grupo hidroxilo les permite formar puentes de hidrógeno intermoleculares.
@@ -99,10 +99,10 @@ La posición terminal del grupo carbonilo en los aldehídos (-CHO) les confiere 
 ¿Qué ácido carboxílico de dos carbonos es el componente orgánico responsable del sabor agrio y olor del vinagre?
 
 ### Opciones
-- [x] A) Ácido etanoico (Ácido acético) <!-- feedback: ¡Correcto! El ácido etanoico (CH3-COOH), conocido comúnmente como ácido acético, es el ácido débil del vinagre. -->
-- [ ] B) Ácido metanoico (Ácido fórmico) <!-- feedback: Incorrecto. El ácido fórmico es el ácido de un carbono secretado por las hormigas. -->
-- [ ] C) Ácido propanoico (Ácido propiónico) <!-- feedback: Incorrecto. El ácido propiónico es un ácido graso de tres carbonos. -->
-- [ ] D) Ácido butanoico (Ácido butyrico) <!-- feedback: Incorrecto. El ácido butírico es el responsable del olor rancio en mantequillas deterioradas. -->
+- [x] D) Ácido etanoico (Ácido acético) <!-- feedback: ¡Correcto! El ácido etanoico (CH3-COOH), conocido comúnmente como ácido acético, es el ácido débil del vinagre. -->
+- [ ] A) Ácido metanoico (Ácido fórmico) <!-- feedback: Incorrecto. El ácido fórmico es el ácido de un carbono secretado por las hormigas. -->
+- [ ] B) Ácido propanoico (Ácido propiónico) <!-- feedback: Incorrecto. El ácido propiónico es un ácido graso de tres carbonos. -->
+- [ ] C) Ácido butanoico (Ácido butyrico) <!-- feedback: Incorrecto. El ácido butírico es el responsable del olor rancio en mantequillas deterioradas. -->
 
 ### Explicacion Pedagogica
 Los ácidos carboxílicos poseen el grupo funcional -COOH constituido por un grupo carbonilo (C=O) y un hidroxilo (-OH) sobre el mismo átomo de carbono.
@@ -141,8 +141,8 @@ Los ésteres poseen la fórmula general R-COO-R' y son conocidos por sus aromas 
 ¿Por qué razón las aminas (derivadas del amoníaco NH3) actúan como bases de Lewis en solución acuosa?
 
 ### Opciones
-- [x] A) Poseen un par de electrones no enlazantes en el átomo de nitrógeno capaz de aceptar un protón (H+) <!-- feedback: ¡Correcto! El par libre sobre el átomo de nitrógeno otorga basicidad a las aminas primarias, secundarias y terciarias. -->
-- [ ] B) Liberan protones H+ al medio aumentando la acidez de la solución <!-- feedback: Incorrecto. Donar protones es propio de los ácidos de Brønsted-Lowry, no de las aminas. -->
+- [x] B) Poseen un par de electrones no enlazantes en el átomo de nitrógeno capaz de aceptar un protón (H+) <!-- feedback: ¡Correcto! El par libre sobre el átomo de nitrógeno otorga basicidad a las aminas primarias, secundarias y terciarias. -->
+- [ ] A) Liberan protones H+ al medio aumentando la acidez de la solución <!-- feedback: Incorrecto. Donar protones es propio de los ácidos de Brønsted-Lowry, no de las aminas. -->
 - [ ] C) Se disocian espontáneamente en iones sodio y cloruro <!-- feedback: Incorrecto. Las aminas son compuestos orgánicos nitrogenados, no sales inorgánicas. -->
 - [ ] D) Carecen por completo de átomos de nitrógeno en su estructura <!-- feedback: Incorrecto. El átomo de nitrógeno es el centro funcional definitorio de las aminas. -->
 
@@ -183,8 +183,8 @@ La clasificación de alcoholes en primarios, secundarios o terciarios condiciona
 ¿Qué producto orgánico se obtiene al someter un alcohol primario a una oxidación moderada controlada (por ejemplo con PCC)?
 
 ### Opciones
-- [x] A) Un aldehído <!-- feedback: ¡Correcto! La oxidación suave de un alcohol primario convierte el grupo -CH2OH en un grupo aldehído (-CHO). -->
-- [ ] B) Una cetona <!-- feedback: Incorrecto. Las cetonas se obtienen por oxidación de alcoholes secundarios. -->
+- [x] B) Un aldehído <!-- feedback: ¡Correcto! La oxidación suave de un alcohol primario convierte el grupo -CH2OH en un grupo aldehído (-CHO). -->
+- [ ] A) Una cetona <!-- feedback: Incorrecto. Las cetonas se obtienen por oxidación de alcoholes secundarios. -->
 - [ ] C) Un alcano saturado <!-- feedback: Incorrecto. La oxidación no remueve los átomos de oxígeno para formar alcanos. -->
 - [ ] D) Un éter simétrico <!-- feedback: Incorrecto. Los éteres se obtienen por deshidratación intermolecular de alcoholes. -->
 
@@ -225,8 +225,8 @@ La prueba de Tollens aprovecha la facilidad de oxidación de los aldehídos fren
 ¿Qué dos grupos funcionales principales están presentes simultáneamente en la estructura de un alfa-aminoácido?
 
 ### Opciones
-- [x] A) Un grupo amino (-NH2) y un grupo carboxilo (-COOH) <!-- feedback: ¡Correcto! Los aminoácidos contienen tanto la función amina básica (-NH2) como la función ácido carboxílico (-COOH) unidas al carbono alfa. -->
-- [ ] B) Un grupo hidroxilo (-OH) y un grupo alquino (-C≡C-) <!-- feedback: Incorrecto. Esta combinación no corresponde a la estructura de las unidades proteicas. -->
+- [x] B) Un grupo amino (-NH2) y un grupo carboxilo (-COOH) <!-- feedback: ¡Correcto! Los aminoácidos contienen tanto la función amina básica (-NH2) como la función ácido carboxílico (-COOH) unidas al carbono alfa. -->
+- [ ] A) Un grupo hidroxilo (-OH) y un grupo alquino (-C≡C-) <!-- feedback: Incorrecto. Esta combinación no corresponde a la estructura de las unidades proteicas. -->
 - [ ] C) Un grupo éter (-O-) y un grupo nitro (-NO2) <!-- feedback: Incorrecto. Los éteres y compuestos nitro no constituyen la base de los aminoácidos. -->
 - [ ] D) Un grupo cetona (C=O) y un grupo tiol (-SH) únicamente <!-- feedback: Incorrecto. Los aminoácidos requieren obligatoriamente de los grupos carboxilo y amino. -->
 
@@ -246,8 +246,8 @@ La presencia simultánea de grupos ácido y básico en los aminoácidos les conf
 ¿Por qué razón el fenol es sustancialmente más ácido (Ka ~ 10-10) que un alcohol alifático como el etanol (Ka ~ 10-16)?
 
 ### Opciones
-- [x] A) El anión fenóxido resultante estabiliza la carga negativa por resonancia con el anillo aromático <!-- feedback: ¡Correcto! La deslocalización de la carga negativa del oxígeno en los orbitales pi del anillo desprotonado aumenta la estabilidad del fenóxido. -->
-- [ ] B) El fenol contiene tres átomos de nitrógeno altamente electronegativos <!-- feedback: Incorrecto. El fenol contiene solo carbono, hidrógeno y oxígeno (sin nitrógeno). -->
+- [x] B) El anión fenóxido resultante estabiliza la carga negativa por resonancia con el anillo aromático <!-- feedback: ¡Correcto! La deslocalización de la carga negativa del oxígeno en los orbitales pi del anillo desprotonado aumenta la estabilidad del fenóxido. -->
+- [ ] A) El fenol contiene tres átomos de nitrógeno altamente electronegativos <!-- feedback: Incorrecto. El fenol contiene solo carbono, hidrógeno y oxígeno (sin nitrógeno). -->
 - [ ] C) El etanol se disocia completamente formando iones oxonio insolubles <!-- feedback: Incorrecto. El etanol es un ácido extremadamente débil en solución acuosa. -->
 - [ ] D) El grupo -OH del fenol se une a un carbono con hibridación sp3 de alta densidad <!-- feedback: Incorrecto. El carbono del anillo aromático bencénico posee hibridación sp2. -->
 
@@ -288,9 +288,9 @@ La saponificación genera moléculas anfipáticas con una cabeza carboxilato pol
 Desde el punto de vista de la química orgánica, ¿a qué familia funcional pertenece el enlace peptídico (-CO-NH-) formado entre el carboxilo de un aminoácido y el amino de otro?
 
 ### Opciones
-- [x] A) Amida sustituida <!-- feedback: ¡Correcto! El enlace peptídico es estructuralmente una función amida secundaria producida por condensación con eliminación de agua. -->
-- [ ] B) Éter simétrico <!-- feedback: Incorrecto. El enlace éter presenta la conectividad R-O-R'. -->
-- [ ] C) Anhidrido de ácido <!-- feedback: Incorrecto. Los anhídridos se forman por condensación de dos grupos carboxilo (-CO-O-CO-). -->
+- [x] C) Amida sustituida <!-- feedback: ¡Correcto! El enlace peptídico es estructuralmente una función amida secundaria producida por condensación con eliminación de agua. -->
+- [ ] A) Éter simétrico <!-- feedback: Incorrecto. El enlace éter presenta la conectividad R-O-R'. -->
+- [ ] B) Anhidrido de ácido <!-- feedback: Incorrecto. Los anhídridos se forman por condensación de dos grupos carboxilo (-CO-O-CO-). -->
 - [ ] D) Acetal alifático <!-- feedback: Incorrecto. Los acetales poseen dos grupos alcoxi (-OR) unidos a un mismo carbono. -->
 
 ### Explicacion Pedagogica
@@ -309,10 +309,10 @@ La naturaleza del enlace amida peptídico con carácter parcial de doble enlace 
 ¿Qué hidrocarburo gaseoso insaturado se obtiene principalmente al deshidratar etanol (CH3-CH2-OH) con H2SO4 concentrado a 170 °C?
 
 ### Opciones
-- [x] A) Eteno (Etileno) <!-- feedback: ¡Correcto! La deshidratación intramolecular de alcoholes a alta temperatura produce el correspondiente alqueno (eteno) mediante eliminación de agua. -->
-- [ ] B) Etano saturado <!-- feedback: Incorrecto. La eliminación de agua genera insaturación, no alcanza la saturación del etano. -->
-- [ ] C) Metano puro <!-- feedback: Incorrecto. La reacción no rompe la cadena de dos carbonos a un solo carbono. -->
-- [ ] D) Etino (Acetileno) <!-- feedback: Incorrecto. La eliminación intramolecular simple de un alcohol mono hídrico produce un alqueno doble y no un alquino triple. -->
+- [x] D) Eteno (Etileno) <!-- feedback: ¡Correcto! La deshidratación intramolecular de alcoholes a alta temperatura produce el correspondiente alqueno (eteno) mediante eliminación de agua. -->
+- [ ] A) Etano saturado <!-- feedback: Incorrecto. La eliminación de agua genera insaturación, no alcanza la saturación del etano. -->
+- [ ] B) Metano puro <!-- feedback: Incorrecto. La reacción no rompe la cadena de dos carbonos a un solo carbono. -->
+- [ ] C) Etino (Acetileno) <!-- feedback: Incorrecto. La eliminación intramolecular simple de un alcohol mono hídrico produce un alqueno doble y no un alquino triple. -->
 
 ### Explicacion Pedagogica
 La deshidratación de alcoholes catalizada por ácido fuerte sigue un mecanismo de eliminación (E1 o E2) convirtiendo alcoholes en alquenos.
@@ -330,10 +330,10 @@ La deshidratación de alcoholes catalizada por ácido fuerte sigue un mecanismo 
 ¿Por qué el ácido etanoico (CH3-COOH, M=60 g/mol) hierve a 118 °C mientras que el 1-propanol (CH3-CH2-CH2-OH, M=60 g/mol) hierve a 97 °C?
 
 ### Opciones
-- [x] A) Los ácidos carboxílicos forman dímeros estables con doble puente de hidrógeno intermolecular en estado líquido y gaseoso <!-- feedback: ¡Correcto! La formación de dímeros cíclicos unidos por dos puentes de hidrógeno por pareja incrementa fuertemente las fuerzas intermoleculares en ácidos. -->
-- [ ] B) El 1-propanol no puede formar puentes de hidrógeno intermoleculares <!-- feedback: Incorrecto. Los alcoholes forman puentes de hidrógeno pero no forman dímeros cíclicos dobles tan estables. -->
-- [ ] C) El ácido etanoico es una molécula no polar completamente apolar <!-- feedback: Incorrecto. El ácido etanoico es fuertemente polar debido a los enlaces C=O y O-H. -->
-- [ ] D) El 1-propanol reacciona espontáneamente con el nitrógeno del aire <!-- feedback: Incorrecto. La interacción con nitrógeno atmosférico no influye en la temperatura de ebullición. -->
+- [x] D) Los ácidos carboxílicos forman dímeros estables con doble puente de hidrógeno intermolecular en estado líquido y gaseoso <!-- feedback: ¡Correcto! La formación de dímeros cíclicos unidos por dos puentes de hidrógeno por pareja incrementa fuertemente las fuerzas intermoleculares en ácidos. -->
+- [ ] A) El 1-propanol no puede formar puentes de hidrógeno intermoleculares <!-- feedback: Incorrecto. Los alcoholes forman puentes de hidrógeno pero no forman dímeros cíclicos dobles tan estables. -->
+- [ ] B) El ácido etanoico es una molécula no polar completamente apolar <!-- feedback: Incorrecto. El ácido etanoico es fuertemente polar debido a los enlaces C=O y O-H. -->
+- [ ] C) El 1-propanol reacciona espontáneamente con el nitrógeno del aire <!-- feedback: Incorrecto. La interacción con nitrógeno atmosférico no influye en la temperatura de ebullición. -->
 
 ### Explicacion Pedagogica
 Las interacciones intermoleculares por dimerización aumentan sustancialmente los puntos de ebullición de los ácidos carboxílicos respecto a alcoholes, aldehídos u óxidos de similar masa.
@@ -351,10 +351,10 @@ Las interacciones intermoleculares por dimerización aumentan sustancialmente lo
 ¿Qué compuesto orgánico se obtiene al reducir una cetona como la propanona (CH3-CO-CH3) con un agente reductor fuerte como NaBH4 o LiAlH4?
 
 ### Opciones
-- [x] A) Un alcohol secundario (2-Propanol) <!-- feedback: ¡Correcto! La adición de nucleófila de hidruro al grupo carbonilo de una cetona produce un alcohol secundario. -->
-- [ ] B) Un aldehído terminal <!-- feedback: Incorrecto. La reducción de cetonas no las transforma en aldehídos. -->
-- [ ] C) Un ácido carboxílico de tres carbonos <!-- feedback: Incorrecto. Los ácidos carboxílicos corresponden a estados de oxidación más altos, no reducidos. -->
-- [ ] D) Un alquino de cadena larga <!-- feedback: Incorrecto. La reducción de la cetona produce alcoholes, no alquinos triples. -->
+- [x] D) Un alcohol secundario (2-Propanol) <!-- feedback: ¡Correcto! La adición de nucleófila de hidruro al grupo carbonilo de una cetona produce un alcohol secundario. -->
+- [ ] A) Un aldehído terminal <!-- feedback: Incorrecto. La reducción de cetonas no las transforma en aldehídos. -->
+- [ ] B) Un ácido carboxílico de tres carbonos <!-- feedback: Incorrecto. Los ácidos carboxílicos corresponden a estados de oxidación más altos, no reducidos. -->
+- [ ] C) Un alquino de cadena larga <!-- feedback: Incorrecto. La reducción de la cetona produce alcoholes, no alquinos triples. -->
 
 ### Explicacion Pedagogica
 Las reacciones de adición nucleófila de hidruros (H-) convierten aldehídos en alcoholes primarios y cetonas en alcoholes secundarios.
@@ -372,8 +372,8 @@ Las reacciones de adición nucleófila de hidruros (H-) convierten aldehídos en
 Al evaluar la reacción de síntesis de la aspirina a partir de ácido salicílico y anhídrido acético en medio ácido, ¿qué transformación de grupo funcional ocurre sobre el ácido salicílico?
 
 ### Opciones
-- [x] A) Acetilación del grupo fenol (-OH) convirtiéndolo en un éster acético <!-- feedback: ¡Correcto! El grupo hidroxilo fenólico del ácido salicílico reacciona con el anhídrido acético formándose el éster acetilsalicílico. -->
-- [ ] B) Reducción del grupo carboxilo (-COOH) a grupo metilo alifático <!-- feedback: Incorrecto. El grupo carboxilo se conserva intacto en la estructura de la aspirina. -->
+- [x] B) Acetilación del grupo fenol (-OH) convirtiéndolo en un éster acético <!-- feedback: ¡Correcto! El grupo hidroxilo fenólico del ácido salicílico reacciona con el anhídrido acético formándose el éster acetilsalicílico. -->
+- [ ] A) Reducción del grupo carboxilo (-COOH) a grupo metilo alifático <!-- feedback: Incorrecto. El grupo carboxilo se conserva intacto en la estructura de la aspirina. -->
 - [ ] C) Nitración aromática del anillo bencénico en posición meta <!-- feedback: Incorrecto. No se incorporan grupos nitro en la síntesis convencional del analgésico. -->
 - [ ] D) Sustitución del anillo aromático por un heterociclo de azufre <!-- feedback: Incorrecto. El anillo aromático permanece inalterado durante la esterificación. -->
 
@@ -414,8 +414,8 @@ Los reactivos de organomagnesio (Grignard) son nucleófilos de carbono ultrapote
 Al evaluar la tautomería ceto-enólica en soluciones orgánicas, ¿qué diferencia a dos tautómeros de dos isómeros de resonancia convencionales?
 
 ### Opciones
-- [x] A) Los tautómeros son isómeros de constitución reales en equilibrio rápido que difieren en la posición de un protón (H+) y un enlace pi <!-- feedback: ¡Correcto! A diferencia de las estructuras de resonancia (que son representaciones hipotéticas), los tautómeros son moléculas reales en equilibrio tautomérico. -->
-- [ ] B) Los tautómeros son híbridos hipotéticos que no existen como sustancias puras <!-- feedback: Incorrecto. Esto describe a los contribuyentes de resonancia, los tautómeros son especies interconvertibles reales. -->
+- [x] B) Los tautómeros son isómeros de constitución reales en equilibrio rápido que difieren en la posición de un protón (H+) y un enlace pi <!-- feedback: ¡Correcto! A diferencia de las estructuras de resonancia (que son representaciones hipotéticas), los tautómeros son moléculas reales en equilibrio tautomérico. -->
+- [ ] A) Los tautómeros son híbridos hipotéticos que no existen como sustancias puras <!-- feedback: Incorrecto. Esto describe a los contribuyentes de resonancia, los tautómeros son especies interconvertibles reales. -->
 - [ ] C) Los tautómeros difieren únicamente en el giro de la luz polarizada <!-- feedback: Incorrecto. La rotación de la luz polarizada distingue a los enantiómeros ópticos. -->
 - [ ] D) Los tautómeros se destruyen al entrar en contacto con átomos de carbono <!-- feedback: Incorrecto. La tautomería ocurre habitualmente en cadenas hidrocarbonadas carbonílicas. -->
 

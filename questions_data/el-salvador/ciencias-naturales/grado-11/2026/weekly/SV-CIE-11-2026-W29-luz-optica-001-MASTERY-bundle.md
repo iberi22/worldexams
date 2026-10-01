@@ -34,9 +34,9 @@ creador: "Jules-Agent"
 ¿Qué proceso conviierte luz solar en energía química en las plantas?
 
 ### Opciones
-- [x] A) Fotosíntesis
+- [x] B) Fotosíntesis
   <!-- feedback: ¡Correcto! -->
-- [ ] B) Respiración celular
+- [ ] A) Respiración celular
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 - [ ] C) Fermentación
   <!-- feedback: Incorrecto. Revisa el concepto. -->
@@ -57,13 +57,13 @@ La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.
 Objeto de 7 kg acelera a 3 m/s². ¿Fuerza aplicada? (F=ma)
 
 ### Opciones
-- [x] A) 21 N
+- [x] D) 21 N
   <!-- feedback: ¡Correcto! -->
-- [ ] B) 14 N
+- [ ] A) 14 N
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) 24 N
+- [ ] B) 24 N
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) 7 N
+- [ ] C) 7 N
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 
 ### Explicacion Pedagogica
@@ -80,11 +80,11 @@ F = ma = 7×3 = 21 N.
 ¿Cuál es el órgano más grande del cuerpo humano?
 
 ### Opciones
-- [x] A) La piel
+- [x] C) La piel
   <!-- feedback: ¡Correcto! -->
-- [ ] B) El hígado
+- [ ] A) El hígado
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) El corazón
+- [ ] B) El corazón
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 - [ ] D) Los pulmones
   <!-- feedback: Incorrecto. Revisa el concepto. -->
@@ -103,9 +103,9 @@ La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.
 En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?
 
 ### Opciones
-- [x] A) La exposición a la luz
+- [x] B) La exposición a la luz
   <!-- feedback: ¡Correcto! -->
-- [ ] B) El crecimiento de las plantas
+- [ ] A) El crecimiento de las plantas
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 - [ ] C) La temperatura ambiente
   <!-- feedback: Incorrecto. Revisa el concepto. -->
@@ -126,11 +126,11 @@ La variable independiente es la que manipula el investigador: la luz.
 ¿Cuál es la unidad básica de la vida?
 
 ### Opciones
-- [x] A) La célula
+- [x] C) La célula
   <!-- feedback: ¡Correcto! -->
-- [ ] B) El átomo
+- [ ] A) El átomo
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) La molécula
+- [ ] B) La molécula
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 - [ ] D) El tejido
   <!-- feedback: Incorrecto. Revisa el concepto. -->
@@ -172,13 +172,13 @@ La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.
 Objeto de 3 kg acelera a 4 m/s². ¿Fuerza aplicada? (F=ma)
 
 ### Opciones
-- [x] A) 12 N
+- [x] D) 12 N
   <!-- feedback: ¡Correcto! -->
-- [ ] B) 9 N
+- [ ] A) 9 N
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) 16 N
+- [ ] B) 16 N
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) 3 N
+- [ ] C) 3 N
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 
 ### Explicacion Pedagogica
@@ -218,13 +218,13 @@ La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.
 En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?
 
 ### Opciones
-- [x] A) La exposición a la luz
+- [x] D) La exposición a la luz
   <!-- feedback: ¡Correcto! -->
-- [ ] B) El crecimiento de las plantas
+- [ ] A) El crecimiento de las plantas
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) La temperatura ambiente
+- [ ] B) La temperatura ambiente
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) El tipo de planta
+- [ ] C) El tipo de planta
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 
 ### Explicacion Pedagogica
@@ -241,13 +241,13 @@ La variable independiente es la que manipula el investigador: la luz.
 ¿Cuál es la unidad básica de la vida?
 
 ### Opciones
-- [x] A) La célula
+- [x] D) La célula
   <!-- feedback: ¡Correcto! -->
-- [ ] B) El átomo
+- [ ] A) El átomo
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) La molécula
+- [ ] B) La molécula
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) El tejido
+- [ ] C) El tejido
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 
 ### Explicacion Pedagogica
@@ -264,13 +264,13 @@ La célula es la unidad estructural y funcional básica de los seres vivos.
 ¿Qué proceso conviierte luz solar en energía química en las plantas?
 
 ### Opciones
-- [x] A) Fotosíntesis
+- [x] D) Fotosíntesis
   <!-- feedback: ¡Correcto! -->
-- [ ] B) Respiración celular
+- [ ] A) Respiración celular
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) Fermentación
+- [ ] B) Fermentación
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) Digestión
+- [ ] C) Digestión
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 
 ### Explicacion Pedagogica
@@ -287,13 +287,13 @@ La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.
 Objeto de 3 kg acelera a 5 m/s². ¿Fuerza aplicada? (F=ma)
 
 ### Opciones
-- [x] A) 15 N
+- [x] D) 15 N
   <!-- feedback: ¡Correcto! -->
-- [ ] B) 12 N
+- [ ] A) 12 N
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) 20 N
+- [ ] B) 20 N
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) 3 N
+- [ ] C) 3 N
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 
 ### Explicacion Pedagogica
@@ -310,13 +310,13 @@ F = ma = 3×5 = 15 N.
 ¿Cuál es el órgano más grande del cuerpo humano?
 
 ### Opciones
-- [x] A) La piel
+- [x] D) La piel
   <!-- feedback: ¡Correcto! -->
-- [ ] B) El hígado
+- [ ] A) El hígado
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) El corazón
+- [ ] B) El corazón
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) Los pulmones
+- [ ] C) Los pulmones
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 
 ### Explicacion Pedagogica
@@ -356,13 +356,13 @@ La variable independiente es la que manipula el investigador: la luz.
 ¿Cuál es la unidad básica de la vida?
 
 ### Opciones
-- [x] A) La célula
+- [x] D) La célula
   <!-- feedback: ¡Correcto! -->
-- [ ] B) El átomo
+- [ ] A) El átomo
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) La molécula
+- [ ] B) La molécula
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) El tejido
+- [ ] C) El tejido
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 
 ### Explicacion Pedagogica
@@ -379,13 +379,13 @@ La célula es la unidad estructural y funcional básica de los seres vivos.
 ¿Qué proceso conviierte luz solar en energía química en las plantas?
 
 ### Opciones
-- [x] A) Fotosíntesis
+- [x] D) Fotosíntesis
   <!-- feedback: ¡Correcto! -->
-- [ ] B) Respiración celular
+- [ ] A) Respiración celular
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) Fermentación
+- [ ] B) Fermentación
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) Digestión
+- [ ] C) Digestión
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 
 ### Explicacion Pedagogica
@@ -425,11 +425,11 @@ F = ma = 3×5 = 15 N.
 ¿Cuál es el órgano más grande del cuerpo humano?
 
 ### Opciones
-- [x] A) La piel
+- [x] C) La piel
   <!-- feedback: ¡Correcto! -->
-- [ ] B) El hígado
+- [ ] A) El hígado
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) El corazón
+- [ ] B) El corazón
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 - [ ] D) Los pulmones
   <!-- feedback: Incorrecto. Revisa el concepto. -->
@@ -471,13 +471,13 @@ La variable independiente es la que manipula el investigador: la luz.
 ¿Cuál es la unidad básica de la vida?
 
 ### Opciones
-- [x] A) La célula
+- [x] D) La célula
   <!-- feedback: ¡Correcto! -->
-- [ ] B) El átomo
+- [ ] A) El átomo
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] C) La molécula
+- [ ] B) La molécula
   <!-- feedback: Incorrecto. Revisa el concepto. -->
-- [ ] D) El tejido
+- [ ] C) El tejido
   <!-- feedback: Incorrecto. Revisa el concepto. -->
 
 ### Explicacion Pedagogica

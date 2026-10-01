@@ -34,9 +34,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 En una lectura: 'El sol brillaba mientras los pajaros cantaban'. ¿Que funcion cumple?
 
 ### Opciones
-- [x] A) Crear una atmosfera o ambiente <!-- feedback: Correcto. La opción 'Crear una atmosfera o ambiente' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) Presentar un argumento <!-- feedback: Incorrecto. La opción 'Presentar un argumento' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) Narrar una secuencia <!-- feedback: Incorrecto. La opción 'Narrar una secuencia' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] C) Crear una atmosfera o ambiente <!-- feedback: Correcto. La opción 'Crear una atmosfera o ambiente' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
+- [ ] A) Presentar un argumento <!-- feedback: Incorrecto. La opción 'Presentar un argumento' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] B) Narrar una secuencia <!-- feedback: Incorrecto. La opción 'Narrar una secuencia' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 - [ ] D) Describir un dialogo <!-- feedback: Incorrecto. La opción 'Describir un dialogo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
 ### Explicacion Pedagogica
@@ -97,10 +97,10 @@ El conector 'ademas' anade informacion.
 ¿Cual oracion esta correctamente escrita?
 
 ### Opciones
-- [x] A) Los estudiantes del Colegio Nacional Caaguazu estudian mucho. <!-- feedback: Correcto. La opción 'Los estudiantes del Colegio Nacional Caaguazu estudian mucho.' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) Los estudiantes de la escuela estudian poco. <!-- feedback: Incorrecto. La opción 'Los estudiantes de la escuela estudian poco.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) Los estudiantes del instituto no estudian nada. <!-- feedback: Incorrecto. La opción 'Los estudiantes del instituto no estudian nada.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) Los estudiantes del instituto estudian mucho. <!-- feedback: Incorrecto. La opción 'Los estudiantes del instituto estudian mucho.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] D) Los estudiantes del Colegio Nacional Caaguazu estudian mucho. <!-- feedback: Correcto. La opción 'Los estudiantes del Colegio Nacional Caaguazu estudian mucho.' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
+- [ ] A) Los estudiantes de la escuela estudian poco. <!-- feedback: Incorrecto. La opción 'Los estudiantes de la escuela estudian poco.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] B) Los estudiantes del instituto no estudian nada. <!-- feedback: Incorrecto. La opción 'Los estudiantes del instituto no estudian nada.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] C) Los estudiantes del instituto estudian mucho. <!-- feedback: Incorrecto. La opción 'Los estudiantes del instituto estudian mucho.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
 ### Explicacion Pedagogica
 La opcion A sigue las normas ortograficas correctamente.
@@ -118,10 +118,10 @@ La opcion A sigue las normas ortograficas correctamente.
 En la oracion 'El libro de poesia es fascinante'. ¿Que funcion cumple la subordinada?
 
 ### Opciones
-- [x] A) Adjetiva o de relativo <!-- feedback: Correcto. La opción 'Adjetiva o de relativo' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) Sustantiva <!-- feedback: Incorrecto. La opción 'Sustantiva' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) Adverbial <!-- feedback: Incorrecto. La opción 'Adverbial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) Coordinada copulativa <!-- feedback: Incorrecto. La opción 'Coordinada copulativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] D) Adjetiva o de relativo <!-- feedback: Correcto. La opción 'Adjetiva o de relativo' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
+- [ ] A) Sustantiva <!-- feedback: Incorrecto. La opción 'Sustantiva' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] B) Adverbial <!-- feedback: Incorrecto. La opción 'Adverbial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] C) Coordinada copulativa <!-- feedback: Incorrecto. La opción 'Coordinada copulativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
 ### Explicacion Pedagogica
 Las oraciones subordinadas adjetivas complementan a un nombre.
@@ -139,8 +139,8 @@ Las oraciones subordinadas adjetivas complementan a un nombre.
 ¿Cual de estas palabras lleva tilde segun las reglas de acentuacion?
 
 ### Opciones
-- [x] A) examen <!-- feedback: Correcto. La opción 'examen' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) sol <!-- feedback: Incorrecto. La opción 'sol' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] B) examen <!-- feedback: Correcto. La opción 'examen' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
+- [ ] A) sol <!-- feedback: Incorrecto. La opción 'sol' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 - [ ] C) papel <!-- feedback: Incorrecto. La opción 'papel' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 - [ ] D) jamas <!-- feedback: Incorrecto. La opción 'jamas' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
@@ -160,9 +160,9 @@ Las palabras llanas terminadas en consonante distinta de n/s llevan tilde.
 ¿Que figura literaria se emplea en 'tus ojos son dos luceros'?
 
 ### Opciones
-- [x] A) Metafora <!-- feedback: Correcto. La opción 'Metafora' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) Comparacion <!-- feedback: Incorrecto. La opción 'Comparacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) Hiparbole <!-- feedback: Incorrecto. La opción 'Hiparbole' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] C) Metafora <!-- feedback: Correcto. La opción 'Metafora' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
+- [ ] A) Comparacion <!-- feedback: Incorrecto. La opción 'Comparacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] B) Hiparbole <!-- feedback: Incorrecto. La opción 'Hiparbole' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 - [ ] D) Personificacion <!-- feedback: Incorrecto. La opción 'Personificacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
 ### Explicacion Pedagogica
@@ -202,10 +202,10 @@ Las palabras esdrújulas llevan tilde siempre, sin excepción, en la antepenúlt
 ¿El 'Romance de la luna, luna' de Federico Garcia Lorca es un poema de tipo?
 
 ### Opciones
-- [x] A) Narrativo-lirico con elementos del romance tradicional <!-- feedback: Correcto. La opción 'Narrativo-lirico con elementos del romance tradicional' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) Exclusivamente dramatico <!-- feedback: Incorrecto. La opción 'Exclusivamente dramatico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) Ensayo filosofico en verso <!-- feedback: Incorrecto. La opción 'Ensayo filosofico en verso' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) Poema epico clasico <!-- feedback: Incorrecto. La opción 'Poema epico clasico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] D) Narrativo-lirico con elementos del romance tradicional <!-- feedback: Correcto. La opción 'Narrativo-lirico con elementos del romance tradicional' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
+- [ ] A) Exclusivamente dramatico <!-- feedback: Incorrecto. La opción 'Exclusivamente dramatico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] B) Ensayo filosofico en verso <!-- feedback: Incorrecto. La opción 'Ensayo filosofico en verso' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] C) Poema epico clasico <!-- feedback: Incorrecto. La opción 'Poema epico clasico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
 ### Explicacion Pedagogica
 Lorca utiliza la estructura del romance tradicional para crear un poema narrativo-lirico.
@@ -223,8 +223,8 @@ Lorca utiliza la estructura del romance tradicional para crear un poema narrativ
 En el Colegio Nacional San Lorenzo de San Lorenzo, analizando un texto. ¿Cual es la idea principal?
 
 ### Opciones
-- [x] A) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto. La opción 'El agua es esencial para la vida y debe cuidarse' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) El agua solo se usa para beber <!-- feedback: Incorrecto. La opción 'El agua solo se usa para beber' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] B) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto. La opción 'El agua es esencial para la vida y debe cuidarse' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
+- [ ] A) El agua solo se usa para beber <!-- feedback: Incorrecto. La opción 'El agua solo se usa para beber' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 - [ ] C) El agua no es importante <!-- feedback: Incorrecto. La opción 'El agua no es importante' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 - [ ] D) El agua es un recurso infinito <!-- feedback: Incorrecto. La opción 'El agua es un recurso infinito' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
@@ -244,9 +244,9 @@ El texto destaca la importancia del agua como recurso vital.
 En una lectura: 'El sol brillaba mientras los pajaros cantaban'. ¿Que funcion cumple?
 
 ### Opciones
-- [x] A) Crear una atmosfera o ambiente <!-- feedback: Correcto. La opción 'Crear una atmosfera o ambiente' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) Presentar un argumento <!-- feedback: Incorrecto. La opción 'Presentar un argumento' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) Narrar una secuencia <!-- feedback: Incorrecto. La opción 'Narrar una secuencia' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] C) Crear una atmosfera o ambiente <!-- feedback: Correcto. La opción 'Crear una atmosfera o ambiente' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
+- [ ] A) Presentar un argumento <!-- feedback: Incorrecto. La opción 'Presentar un argumento' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] B) Narrar una secuencia <!-- feedback: Incorrecto. La opción 'Narrar una secuencia' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 - [ ] D) Describir un dialogo <!-- feedback: Incorrecto. La opción 'Describir un dialogo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
 ### Explicacion Pedagogica
@@ -286,10 +286,10 @@ La funcion expresiva se centra en el emisor y expresa sentimientos.
 Identifica el conector: Itaugua es hermosa, ____ su gente es acogedora.
 
 ### Opciones
-- [x] A) ademas <!-- feedback: Correcto. La opción 'ademas' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) sin embargo <!-- feedback: Incorrecto. La opción 'sin embargo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) por lo tanto <!-- feedback: Incorrecto. La opción 'por lo tanto' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) aunque <!-- feedback: Incorrecto. La opción 'aunque' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] D) ademas <!-- feedback: Correcto. La opción 'ademas' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
+- [ ] A) sin embargo <!-- feedback: Incorrecto. La opción 'sin embargo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] B) por lo tanto <!-- feedback: Incorrecto. La opción 'por lo tanto' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] C) aunque <!-- feedback: Incorrecto. La opción 'aunque' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
 ### Explicacion Pedagogica
 El conector 'ademas' anade informacion.
@@ -307,9 +307,9 @@ El conector 'ademas' anade informacion.
 ¿Cual oracion esta correctamente escrita?
 
 ### Opciones
-- [x] A) Los estudiantes del Colegio Nacional Mariscal Estigarribia estudian mucho. <!-- feedback: Correcto. La opción 'Los estudiantes del Colegio Nacional Mariscal Estigarribia estudian mucho.' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) Los estudiantes de la escuela estudian poco. <!-- feedback: Incorrecto. La opción 'Los estudiantes de la escuela estudian poco.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) Los estudiantes del instituto no estudian nada. <!-- feedback: Incorrecto. La opción 'Los estudiantes del instituto no estudian nada.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] C) Los estudiantes del Colegio Nacional Mariscal Estigarribia estudian mucho. <!-- feedback: Correcto. La opción 'Los estudiantes del Colegio Nacional Mariscal Estigarribia estudian mucho.' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
+- [ ] A) Los estudiantes de la escuela estudian poco. <!-- feedback: Incorrecto. La opción 'Los estudiantes de la escuela estudian poco.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] B) Los estudiantes del instituto no estudian nada. <!-- feedback: Incorrecto. La opción 'Los estudiantes del instituto no estudian nada.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 - [ ] D) Los estudiantes del instituto estudian mucho. <!-- feedback: Incorrecto. La opción 'Los estudiantes del instituto estudian mucho.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
 ### Explicacion Pedagogica
@@ -328,10 +328,10 @@ La opcion A sigue las normas ortograficas correctamente.
 En la oracion 'El libro azul es fascinante'. ¿Que funcion cumple la subordinada?
 
 ### Opciones
-- [x] A) Adjetiva o de relativo <!-- feedback: Correcto. La opción 'Adjetiva o de relativo' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) Sustantiva <!-- feedback: Incorrecto. La opción 'Sustantiva' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) Adverbial <!-- feedback: Incorrecto. La opción 'Adverbial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) Coordinada copulativa <!-- feedback: Incorrecto. La opción 'Coordinada copulativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] D) Adjetiva o de relativo <!-- feedback: Correcto. La opción 'Adjetiva o de relativo' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
+- [ ] A) Sustantiva <!-- feedback: Incorrecto. La opción 'Sustantiva' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] B) Adverbial <!-- feedback: Incorrecto. La opción 'Adverbial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] C) Coordinada copulativa <!-- feedback: Incorrecto. La opción 'Coordinada copulativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
 ### Explicacion Pedagogica
 Las oraciones subordinadas adjetivas complementan a un nombre.
@@ -349,10 +349,10 @@ Las oraciones subordinadas adjetivas complementan a un nombre.
 ¿Cual de estas palabras lleva tilde segun las reglas de acentuacion?
 
 ### Opciones
-- [x] A) arbol <!-- feedback: Correcto. La opción 'arbol' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) casa <!-- feedback: Incorrecto. La opción 'casa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) calor <!-- feedback: Incorrecto. La opción 'calor' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) pared <!-- feedback: Incorrecto. La opción 'pared' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] D) arbol <!-- feedback: Correcto. La opción 'arbol' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
+- [ ] A) casa <!-- feedback: Incorrecto. La opción 'casa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] B) calor <!-- feedback: Incorrecto. La opción 'calor' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] C) pared <!-- feedback: Incorrecto. La opción 'pared' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
 ### Explicacion Pedagogica
 Las palabras llanas terminadas en consonante distinta de n/s llevan tilde.
@@ -370,9 +370,9 @@ Las palabras llanas terminadas en consonante distinta de n/s llevan tilde.
 ¿Que figura literaria se emplea en 'tus ojos son dos luceros'?
 
 ### Opciones
-- [x] A) Metafora <!-- feedback: Correcto. La opción 'Metafora' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) Comparacion <!-- feedback: Incorrecto. La opción 'Comparacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) Hiparbole <!-- feedback: Incorrecto. La opción 'Hiparbole' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] C) Metafora <!-- feedback: Correcto. La opción 'Metafora' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
+- [ ] A) Comparacion <!-- feedback: Incorrecto. La opción 'Comparacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] B) Hiparbole <!-- feedback: Incorrecto. La opción 'Hiparbole' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 - [ ] D) Personificacion <!-- feedback: Incorrecto. La opción 'Personificacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
 ### Explicacion Pedagogica
@@ -392,8 +392,8 @@ La metafora identifica un termino real con uno imaginario por su semejanza.
 
 ### Opciones
 - [ ] A) arboles <!-- feedback: Incorrecto. La opción 'arboles' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [x] B) árboles <!-- feedback: Correcto. Al ser una palabra esdrújula, siempre debe llevar tilde. -->
-- [ ] C) arbolés <!-- feedback: Incorrecto. La opción 'arbolés' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] C) árboles <!-- feedback: Correcto. Al ser una palabra esdrújula, siempre debe llevar tilde. -->
+- [ ] B) arbolés <!-- feedback: Incorrecto. La opción 'arbolés' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 - [ ] D) árbolé's <!-- feedback: Incorrecto. La opción 'árbolé's' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
 ### Explicacion Pedagogica
@@ -412,9 +412,9 @@ Las palabras esdrújulas llevan tilde siempre, sin excepción, en la antepenúlt
 ¿El 'Romance de la luna, luna' de Federico Garcia Lorca es un poema de tipo?
 
 ### Opciones
-- [x] A) Narrativo-lirico con elementos del romance tradicional <!-- feedback: Correcto. La opción 'Narrativo-lirico con elementos del romance tradicional' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) Exclusivamente dramatico <!-- feedback: Incorrecto. La opción 'Exclusivamente dramatico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) Ensayo filosofico en verso <!-- feedback: Incorrecto. La opción 'Ensayo filosofico en verso' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] C) Narrativo-lirico con elementos del romance tradicional <!-- feedback: Correcto. La opción 'Narrativo-lirico con elementos del romance tradicional' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
+- [ ] A) Exclusivamente dramatico <!-- feedback: Incorrecto. La opción 'Exclusivamente dramatico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] B) Ensayo filosofico en verso <!-- feedback: Incorrecto. La opción 'Ensayo filosofico en verso' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 - [ ] D) Poema epico clasico <!-- feedback: Incorrecto. La opción 'Poema epico clasico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
 ### Explicacion Pedagogica
@@ -433,10 +433,10 @@ Lorca utiliza la estructura del romance tradicional para crear un poema narrativ
 En el Colegio Nacional Lambare de Lambare, analizando un texto. ¿Cual es la idea principal?
 
 ### Opciones
-- [x] A) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto. La opción 'El agua es esencial para la vida y debe cuidarse' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) El agua solo se usa para beber <!-- feedback: Incorrecto. La opción 'El agua solo se usa para beber' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) El agua no es importante <!-- feedback: Incorrecto. La opción 'El agua no es importante' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) El agua es un recurso infinito <!-- feedback: Incorrecto. La opción 'El agua es un recurso infinito' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] D) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto. La opción 'El agua es esencial para la vida y debe cuidarse' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
+- [ ] A) El agua solo se usa para beber <!-- feedback: Incorrecto. La opción 'El agua solo se usa para beber' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] B) El agua no es importante <!-- feedback: Incorrecto. La opción 'El agua no es importante' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] C) El agua es un recurso infinito <!-- feedback: Incorrecto. La opción 'El agua es un recurso infinito' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
 ### Explicacion Pedagogica
 El texto destaca la importancia del agua como recurso vital.

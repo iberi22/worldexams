@@ -30,10 +30,10 @@ creador: "Jules-Agent"
 ¿A qué conjunto numérico pertenece el número $\sqrt{2}$?
 
 ### Opciones
-- [ ] A) Números Naturales ($\mathbb{N}$) <!-- feedback: Los números naturales son enteros positivos sin parte decimal. -->
-- [ ] B) Números Enteros ($\mathbb{Z}$) <!-- feedback: Los números enteros no incluyen raíces inexactas como $\sqrt{2}$. -->
-- [ ] C) Números Racionales ($\mathbb{Q}$) <!-- feedback: Los racionales pueden escribirse como fracción de enteros; $\sqrt{2}$ no. -->
-- [x] D) Números Irracionales ($\mathbb{I}$) <!-- feedback: $\sqrt{2}$ tiene infinitos decimales no periódicos, por lo que es irracional. -->
+- [ ] B) Números Naturales ($\mathbb{N}$) <!-- feedback: Los números naturales son enteros positivos sin parte decimal. -->
+- [ ] C) Números Enteros ($\mathbb{Z}$) <!-- feedback: Los números enteros no incluyen raíces inexactas como $\sqrt{2}$. -->
+- [ ] D) Números Racionales ($\mathbb{Q}$) <!-- feedback: Los racionales pueden escribirse como fracción de enteros; $\sqrt{2}$ no. -->
+- [x] A) Números Irracionales ($\mathbb{I}$) <!-- feedback: $\sqrt{2}$ tiene infinitos decimales no periódicos, por lo que es irracional. -->
 
 ### Explicacion Pedagogica
 El número $\sqrt{2}$ es un número irracional porque no se puede expresar como la razón entre dos números enteros. Su representación decimal es infinita y no presenta un patrón repetitivo o período.
@@ -51,8 +51,8 @@ El número $\sqrt{2}$ es un número irracional porque no se puede expresar como 
 ### Opciones
 - [ ] A) La suma de dos números irracionales es siempre irracional. <!-- feedback: No siempre; por ejemplo, $\sqrt{2} + (-\sqrt{2}) = 0$, que es racional. -->
 - [ ] B) Todo número real es un número racional. <!-- feedback: Falso, existen los números irracionales que también son reales. -->
-- [x] C) El conjunto de los números reales es la unión de racionales e irracionales. <!-- feedback: Correcto. $\mathbb{R} = \mathbb{Q} \cup \mathbb{I}$. -->
-- [ ] D) El número cero es un número natural. <!-- feedback: En el currículo chileno, los naturales ($\mathbb{N}$) suelen comenzar desde el 1. -->
+- [x] D) El conjunto de los números reales es la unión de racionales e irracionales. <!-- feedback: Correcto. $\mathbb{R} = \mathbb{Q} \cup \mathbb{I}$. -->
+- [ ] C) El número cero es un número natural. <!-- feedback: En el currículo chileno, los naturales ($\mathbb{N}$) suelen comenzar desde el 1. -->
 
 ### Explicacion Pedagogica
 El conjunto de los números reales ($\mathbb{R}$) se define como la unión del conjunto de los números racionales ($\mathbb{Q}$) y el conjunto de los números irracionales ($\mathbb{I}$). Cualquier número que se encuentre en la recta numérica es un número real.
@@ -68,10 +68,10 @@ El conjunto de los números reales ($\mathbb{R}$) se define como la unión del c
 ¿Cuál es el valor de $|-5| - |3 - 8|$?
 
 ### Opciones
-- [x] A) 0 <!-- feedback: $|-5| = 5$ y $|3 - 8| = |-5| = 5$. Entonces $5 - 5 = 0$. -->
-- [ ] B) 10 <!-- feedback: Has sumado los valores en lugar de restarlos. -->
-- [ ] C) -10 <!-- feedback: El valor absoluto siempre es no negativo. Revisa la operación. -->
-- [ ] D) 5 <!-- feedback: Revisa el cálculo de la resta de los valores absolutos. -->
+- [x] D) 0 <!-- feedback: $|-5| = 5$ y $|3 - 8| = |-5| = 5$. Entonces $5 - 5 = 0$. -->
+- [ ] A) 10 <!-- feedback: Has sumado los valores en lugar de restarlos. -->
+- [ ] B) -10 <!-- feedback: El valor absoluto siempre es no negativo. Revisa la operación. -->
+- [ ] C) 5 <!-- feedback: Revisa el cálculo de la resta de los valores absolutos. -->
 
 ### Explicacion Pedagogica
 El valor absoluto de un número es su distancia al origen, siempre positiva o cero. $|-5| = 5$. Luego, calculamos lo dentro del segundo valor absoluto: $3 - 8 = -5$, y su valor absoluto es $|-5| = 5$. Finalmente, $5 - 5 = 0$.
@@ -88,8 +88,8 @@ El valor absoluto de un número es su distancia al origen, siempre positiva o ce
 
 ### Opciones
 - [ ] A) $1/8$ <!-- feedback: $1/8$ es menor que $1/4$. -->
-- [x] B) $3/8$ <!-- feedback: $1/4 = 2/8$ y $1/2 = 4/8$. Por lo tanto, $3/8$ está entre ellos. -->
-- [ ] C) $5/8$ <!-- feedback: $5/8$ es mayor que $4/8$ (o $1/2$). -->
+- [x] C) $3/8$ <!-- feedback: $1/4 = 2/8$ y $1/2 = 4/8$. Por lo tanto, $3/8$ está entre ellos. -->
+- [ ] B) $5/8$ <!-- feedback: $5/8$ es mayor que $4/8$ (o $1/2$). -->
 - [ ] D) $0,2$ <!-- feedback: $0,2 = 1/5$, que es menor que $1/4$. -->
 
 ### Explicacion Pedagogica
@@ -107,8 +107,8 @@ Si $a = \sqrt{3}$ y $b = \sqrt{2}$, ¿cuál es el valor aproximado de $a + b$? (
 
 ### Opciones
 - [ ] A) 3,00 <!-- feedback: Has redondeado demasiado pronto o de forma incorrecta. -->
-- [x] B) 3,14 <!-- feedback: $1,73 + 1,41 = 3,14$. -->
-- [ ] C) 2,14 <!-- feedback: Error en la suma de las partes enteras. -->
+- [x] C) 3,14 <!-- feedback: $1,73 + 1,41 = 3,14$. -->
+- [ ] B) 2,14 <!-- feedback: Error en la suma de las partes enteras. -->
 - [ ] D) 3,24 <!-- feedback: Error en la suma de las partes decimales. -->
 
 ### Explicacion Pedagogica
@@ -126,8 +126,8 @@ Al sumar aproximaciones de números irracionales, sumamos los valores decimales 
 
 ### Opciones
 - [ ] A) $4,5 \times 10^{-4}$ <!-- feedback: Contaste mal los espacios hacia la derecha. -->
-- [x] B) $4,5 \times 10^{-5}$ <!-- feedback: Correcto, se mueve la coma 5 lugares a la derecha. -->
-- [ ] C) $45 \times 10^{-6}$ <!-- feedback: En notación científica, el coeficiente debe estar entre 1 y 10. -->
+- [x] C) $4,5 \times 10^{-5}$ <!-- feedback: Correcto, se mueve la coma 5 lugares a la derecha. -->
+- [ ] B) $45 \times 10^{-6}$ <!-- feedback: En notación científica, el coeficiente debe estar entre 1 y 10. -->
 - [ ] D) $4,5 \times 10^{5}$ <!-- feedback: El exponente debe ser negativo para números menores que 1. -->
 
 ### Explicacion Pedagogica
@@ -145,8 +145,8 @@ La notación científica requiere un número entre 1 (inclusive) y 10, multiplic
 
 ### Opciones
 - [ ] A) Entre 5 y 6 <!-- feedback: $5^2=25$ y $6^2=36$; muy bajo para 50. -->
-- [ ] B) Exactamente 7 <!-- feedback: $7^2=49$, se acerca pero no es exacto. -->
-- [x] C) Entre 7 y 8 <!-- feedback: $7^2=49$ y $8^2=64$. Por lo tanto, $\sqrt{50}$ está entre 7 y 8. -->
+- [ ] C) Exactamente 7 <!-- feedback: $7^2=49$, se acerca pero no es exacto. -->
+- [x] B) Entre 7 y 8 <!-- feedback: $7^2=49$ y $8^2=64$. Por lo tanto, $\sqrt{50}$ está entre 7 y 8. -->
 - [ ] D) Entre 8 y 9 <!-- feedback: $8^2=64$; ya se pasó de 50. -->
 
 ### Explicacion Pedagogica
@@ -163,9 +163,9 @@ El lado de un cuadrado es la raíz cuadrada de su área. Como $7^2 = 49$ y $8^2 
 Si Valentina ahorra \$200.000 con un interés simple anual del 5%, ¿cuánto dinero tendrá en total después de 3 años?
 
 ### Opciones
-- [ ] A) \$210.000 <!-- feedback: Solo calculaste el interés de un año. -->
-- [ ] B) \$220.000 <!-- feedback: Calculaste el interés para 2 años en lugar de 3. -->
-- [x] C) \$230.000 <!-- feedback: Correcto. Interés = $200.000 \times 0,05 \times 3 = 30.000$. Total = $230.000. -->
+- [ ] B) \$210.000 <!-- feedback: Solo calculaste el interés de un año. -->
+- [ ] C) \$220.000 <!-- feedback: Calculaste el interés para 2 años en lugar de 3. -->
+- [x] A) \$230.000 <!-- feedback: Correcto. Interés = $200.000 \times 0,05 \times 3 = 30.000$. Total = $230.000. -->
 - [ ] D) \$231.525 <!-- feedback: Ese sería el cálculo para interés compuesto, no simple. -->
 
 ### Explicacion Pedagogica
@@ -183,8 +183,8 @@ Si el precio original de la polera es \$12.000, ¿cuánto pagará Nicolás final
 
 ### Opciones
 - [ ] A) \$1.800 <!-- feedback: Ese es el valor del descuento, no el precio final. -->
-- [x] B) \$10.200 <!-- feedback: $12.000 - (12.000 \times 0,15) = 10.200$. -->
-- [ ] C) \$10.800 <!-- feedback: Calculaste el 10% de descuento en lugar del 15%. -->
+- [x] C) \$10.200 <!-- feedback: $12.000 - (12.000 \times 0,15) = 10.200$. -->
+- [ ] B) \$10.800 <!-- feedback: Calculaste el 10% de descuento en lugar del 15%. -->
 - [ ] D) \$9.500 <!-- feedback: Error en el cálculo de la resta del descuento. -->
 
 ### Explicacion Pedagogica
@@ -201,9 +201,9 @@ Para obtener el precio final con descuento, calculamos el 15% de \$12.000 ($12.0
 ¿Cuál es el resultado de la operación $0 \times \pi$?
 
 ### Opciones
-- [x] A) 0 <!-- feedback: Cualquier número real multiplicado por cero es siempre cero. -->
-- [ ] B) $\pi$ <!-- feedback: Multiplicar por cero no mantiene el valor del otro número. -->
-- [ ] C) Un número irracional distinto de cero. <!-- feedback: El resultado es racional (cero). -->
+- [x] C) 0 <!-- feedback: Cualquier número real multiplicado por cero es siempre cero. -->
+- [ ] A) $\pi$ <!-- feedback: Multiplicar por cero no mantiene el valor del otro número. -->
+- [ ] B) Un número irracional distinto de cero. <!-- feedback: El resultado es racional (cero). -->
 - [ ] D) 1 <!-- feedback: La multiplicación por cero resulta en cero, no en uno. -->
 
 ### Explicacion Pedagogica
@@ -221,9 +221,9 @@ Si el volumen de una esfera es $V = \frac{4}{3}\pi r^3$, ¿cuál es el volumen e
 
 ### Opciones
 - [ ] A) $12\pi$ <!-- feedback: Olvidaste elevar el radio al cubo. -->
-- [x] B) $36\pi$ <!-- feedback: $r^3 = 27$. Luego $\frac{4}{3} \cdot 27 = 4 \cdot 9 = 36$. -->
-- [ ] C) $108\pi$ <!-- feedback: Multiplicaste por $r^3$ pero no aplicaste la fracción $\frac{4}{3}$. -->
-- [ ] D) $27\pi$ <!-- feedback: Elevaste al cubo pero no multiplicaste por $\frac{4}{3}$. -->
+- [x] D) $36\pi$ <!-- feedback: $r^3 = 27$. Luego $\frac{4}{3} \cdot 27 = 4 \cdot 9 = 36$. -->
+- [ ] B) $108\pi$ <!-- feedback: Multiplicaste por $r^3$ pero no aplicaste la fracción $\frac{4}{3}$. -->
+- [ ] C) $27\pi$ <!-- feedback: Elevaste al cubo pero no multiplicaste por $\frac{4}{3}$. -->
 
 ### Explicacion Pedagogica
 Sustituimos $r=3$ en la fórmula: $V = \frac{4}{3}\pi(3)^3 = \frac{4}{3}\pi(27)$. Simplificamos dividiendo 27 por 3, lo que da 9. Luego multiplicamos 4 por 9 para obtener 36. El resultado es $36\pi$.
@@ -259,8 +259,8 @@ Si inicialmente hay $2^5$ bacterias, ¿cuántas habrá después de 4 horas? Expr
 
 ### Opciones
 - [ ] A) $2^4$ <!-- feedback: Esa es la cantidad de horas, no el total acumulado. -->
-- [ ] B) $2^{20}$ <!-- feedback: Has multiplicado los exponentes, lo cual es incorrecto en este caso. -->
-- [x] C) $2^9$ <!-- feedback: $2^5 \cdot 2^4 = 2^{5+4} = 2^9$. -->
+- [ ] C) $2^{20}$ <!-- feedback: Has multiplicado los exponentes, lo cual es incorrecto en este caso. -->
+- [x] B) $2^9$ <!-- feedback: $2^5 \cdot 2^4 = 2^{5+4} = 2^9$. -->
 - [ ] D) $2^5 + 2^4$ <!-- feedback: La población crece de forma multiplicativa, no aditiva. -->
 
 ### Explicacion Pedagogica
@@ -278,8 +278,8 @@ Al racionalizar la expresión $\frac{2}{\sqrt{6}}$, ¿cuál es el resultado simp
 
 ### Opciones
 - [ ] A) $\frac{\sqrt{6}}{6}$ <!-- feedback: Olvidaste el factor 2 del numerador. -->
-- [x] B) $\frac{\sqrt{6}}{3}$ <!-- feedback: $\frac{2\sqrt{6}}{6} = \frac{\sqrt{6}}{3}$. -->
-- [ ] C) $\frac{2\sqrt{6}}{3}$ <!-- feedback: Error al simplificar la fracción final. -->
+- [x] C) $\frac{\sqrt{6}}{3}$ <!-- feedback: $\frac{2\sqrt{6}}{6} = \frac{\sqrt{6}}{3}$. -->
+- [ ] B) $\frac{2\sqrt{6}}{3}$ <!-- feedback: Error al simplificar la fracción final. -->
 - [ ] D) $\sqrt{6}$ <!-- feedback: El denominador no desaparece sin dejar rastro. -->
 
 ### Explicacion Pedagogica
@@ -316,8 +316,8 @@ Si el precio inicial era \$10.000, ¿cuál es el precio final?
 
 ### Opciones
 - [ ] A) \$10.000 <!-- feedback: Los porcentajes no se anulan así; se aplican sobre bases distintas. -->
-- [x] B) \$9.900 <!-- feedback: $10.000 \cdot 1,1 = 11.000$; luego $11.000 \cdot 0,9 = 9.900$. -->
-- [ ] C) \$10.100 <!-- feedback: Calculaste un aumento neto, pero hay una disminución. -->
+- [x] C) \$9.900 <!-- feedback: $10.000 \cdot 1,1 = 11.000$; luego $11.000 \cdot 0,9 = 9.900$. -->
+- [ ] B) \$10.100 <!-- feedback: Calculaste un aumento neto, pero hay una disminución. -->
 - [ ] D) \$9.000 <!-- feedback: Error al calcular los pasos sucesivos. -->
 
 ### Explicacion Pedagogica
@@ -335,9 +335,9 @@ Considere los números $A = 0,33$ y $B = 1/3$. ¿Cuál de las siguientes afirmac
 
 ### Opciones
 - [ ] A) $A$ y $B$ representan el mismo número real. <!-- feedback: Falso. $1/3$ es $0,333...$ (infinito), mientras $0,33$ es finito. -->
-- [x] B) $B > A$ <!-- feedback: $1/3 \approx 0,3333$, lo cual es mayor que $0,3300$. -->
-- [ ] C) No existen números reales entre $A$ y $B$. <!-- feedback: Entre dos números reales siempre existen infinitos números. -->
-- [ ] D) $A$ es un número irracional. <!-- feedback: $0,33$ es racional porque se puede escribir como $33/100$. -->
+- [x] D) $B > A$ <!-- feedback: $1/3 \approx 0,3333$, lo cual es mayor que $0,3300$. -->
+- [ ] B) No existen números reales entre $A$ y $B$. <!-- feedback: Entre dos números reales siempre existen infinitos números. -->
+- [ ] C) $A$ es un número irracional. <!-- feedback: $0,33$ es racional porque se puede escribir como $33/100$. -->
 
 ### Explicacion Pedagogica
 $B = 1/3$ es un número decimal periódico $0,333...$. Al comparar con $A = 0,33$ (que es $0,330$), vemos que a partir de la milésima, $B$ tiene un 3 y $A$ tiene un 0. Por lo tanto, $B$ es mayor que $A$.
@@ -354,8 +354,8 @@ $B = 1/3$ es un número decimal periódico $0,333...$. Al comparar con $A = 0,33
 
 ### Opciones
 - [ ] A) 12 <!-- feedback: Error en el cálculo de las potencias. -->
-- [x] B) 17 <!-- feedback: $2^3 + 3^2 = 8 + 9 = 17$. -->
-- [ ] C) 13 <!-- feedback: Calculaste mal una de las potencias. -->
+- [x] C) 17 <!-- feedback: $2^3 + 3^2 = 8 + 9 = 17$. -->
+- [ ] B) 13 <!-- feedback: Calculaste mal una de las potencias. -->
 - [ ] D) 31 <!-- feedback: Error aritmético mayor. -->
 
 ### Explicacion Pedagogica
@@ -391,8 +391,8 @@ Para despejar $x$, elevamos ambos lados de la ecuación al cubo: $(\sqrt[3]{x})^
 ¿Cuál de las siguientes expresiones representa un número racional?
 
 ### Opciones
-- [ ] A) $\sqrt{2} + \sqrt{3}$ <!-- feedback: La suma de estas raíces no exactas es irracional. -->
-- [x] B) $(\sqrt{3} + \sqrt{2})(\sqrt{3} - \sqrt{2})$ <!-- feedback: Es una suma por su diferencia: $3 - 2 = 1$, que es racional. -->
+- [ ] B) $\sqrt{2} + \sqrt{3}$ <!-- feedback: La suma de estas raíces no exactas es irracional. -->
+- [x] A) $(\sqrt{3} + \sqrt{2})(\sqrt{3} - \sqrt{2})$ <!-- feedback: Es una suma por su diferencia: $3 - 2 = 1$, que es racional. -->
 - [ ] C) $\pi / 2$ <!-- feedback: Un irracional dividido por un racional no nulo es irracional. -->
 - [ ] D) $\sqrt{8} / 2$ <!-- feedback: $\sqrt{8} = 2\sqrt{2}$, al dividir por 2 queda $\sqrt{2}$, que es irracional. -->
 

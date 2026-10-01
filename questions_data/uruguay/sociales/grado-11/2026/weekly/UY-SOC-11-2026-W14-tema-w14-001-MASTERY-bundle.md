@@ -58,9 +58,9 @@ La oferta exportadora de bienes de Uruguay está fuertemente centrada en el comp
 ### Opciones
 - [ ] A) Fijar el precio del ganado vacuno en las ferias rurales.
   <!-- feedback: Incorrecto. El precio del ganado se fija en el libre mercado ganadero. -->
-- [x] B) Mantener la estabilidad de precios (control de la inflación) y velar por el correcto funcionamiento del sistema de pagos.
+- [x] C) Mantener la estabilidad de precios (control de la inflación) y velar por el correcto funcionamiento del sistema de pagos.
   <!-- feedback: Correcto. La meta principal del BCU es controlar la inflación dentro de un rango meta fijado y asegurar la estabilidad financiera. -->
-- [ ] C) Comprar la totalidad de los cultivos de trigo del país.
+- [ ] B) Comprar la totalidad de los cultivos de trigo del país.
   <!-- feedback: Incorrecto. La comercialización agrícola compete a productores y exportadores privados. -->
 - [ ] D) Eximir de impuestos a todas las empresas transnacionales.
   <!-- feedback: Incorrecto. La política tributaria y exenciones fiscales dependen del Poder Ejecutivo y el Parlamento. -->
@@ -127,9 +127,9 @@ La industria del software uruguayo destaca por exportar servicios globales de al
 ### Opciones
 - [ ] A) Se desploma el Producto Interno Bruto y aumenta el desempleo de inmediato.
   <!-- feedback: Incorrecto. Términos de intercambio favorables estimulan la economía. -->
-- [x] B) Aumenta el ingreso de divisas al país, mejorando la balanza comercial y estimulando el crecimiento del Producto Interno Bruto (PIB).
+- [x] C) Aumenta el ingreso de divisas al país, mejorando la balanza comercial y estimulando el crecimiento del Producto Interno Bruto (PIB).
   <!-- feedback: Correcto. Precios más altos para lo que se vende y más bajos para lo que se compra incrementan el ingreso nacional y dinamizan la economía. -->
-- [ ] C) Se prohíbe la entrada de turistas extranjeros a las costas de Maldonado.
+- [ ] B) Se prohíbe la entrada de turistas extranjeros a las costas de Maldonado.
   <!-- feedback: Incorrecto. No guarda relación con restricciones al turismo internacional. -->
 - [ ] D) El Banco Central cancela el uso del peso uruguayo en las transacciones locales.
   <!-- feedback: Incorrecto. La política cambiaria y monetaria opera de forma independiente. -->
@@ -150,11 +150,11 @@ Una mejora en los términos de intercambio incrementa el poder de compra interna
 ### Opciones
 - [ ] A) Aumenta las ganancias de los exportadores en moneda nacional de forma ilimitada.
   <!-- feedback: Incorrecto. La apreciación del peso reduce los ingresos en pesos por cada dólar exportado. -->
-- [x] B) Pérdida de competitividad-precio, al volverse los costos de producción locales en dólares más caros frente a los competidores internacionales.
+- [x] D) Pérdida de competitividad-precio, al volverse los costos de producción locales en dólares más caros frente a los competidores internacionales.
   <!-- feedback: Correcto. Con un tipo de cambio real apreciado (dólar 'barato'), los costos internos medidos en dólares suben, encareciendo los productos exportables. -->
-- [ ] C) Eliminación inmediata de todas las deudas nominadas en moneda extranjera.
+- [ ] B) Eliminación inmediata de todas las deudas nominadas en moneda extranjera.
   <!-- feedback: Incorrecto. El tipo de cambio no condona las deudas contraídas. -->
-- [ ] D) Aumento de los aranceles cobrados por la aduana sobre las exportaciones.
+- [ ] C) Aumento de los aranceles cobrados por la aduana sobre las exportaciones.
   <!-- feedback: Incorrecto. El atraso cambiario es un fenómeno de precios relativos, no una tasa aduanera. -->
 
 ### Explicacion Pedagogica
@@ -173,9 +173,9 @@ El atraso cambiario (apreciación del tipo de cambio real) encarece los costos d
 ### Opciones
 - [ ] A) Adjudicación de tierras públicas a título gratuito sin requisitos de producción.
   <!-- feedback: Incorrecto. La COMAP no regala tierras del Estado; otorga exoneraciones fiscales a proyectos de inversión. -->
-- [x] B) Exoneración del Impuesto a las Rentas de las Actividades Económicas (IRAE) en función de los indicadores comprometidos en el proyecto.
+- [x] C) Exoneración del Impuesto a las Rentas de las Actividades Económicas (IRAE) en función de los indicadores comprometidos en el proyecto.
   <!-- feedback: Correcto. La COMAP exonera un porcentaje del IRAE en proporción a los puntos obtenidos en empleo, exportaciones, I+D y descentralización. -->
-- [ ] C) Descuento del 100% en las tarifas de pasaportes diplomáticos.
+- [ ] B) Descuento del 100% en las tarifas de pasaportes diplomáticos.
   <!-- feedback: Incorrecto. No otorga beneficios de pasaportes ni fueros diplomáticos. -->
 - [ ] D) Pago de un subsidio directo en efectivo por parte del Banco Central.
   <!-- feedback: Incorrecto. Otorga incentivos de renunciamiento fiscal (descuento impositivo), no subsidios en efectivo. -->
@@ -194,9 +194,9 @@ La ley de inversiones vía COMAP utiliza incentivos tributarios (exoneración de
 ¿Por qué las divisas ingresadas por el turismo internacional se contabilizan dentro de las 'exportaciones de servicios' de la balanza de pagos?
 
 ### Opciones
-- [ ] A) Porque los turistas compran hectáreas de campo y se las llevan a sus países de origen.
+- [ ] B) Porque los turistas compran hectáreas de campo y se las llevan a sus países de origen.
   <!-- feedback: Incorrecto. Los bienes inmuebles no se trasladan físicamente. -->
-- [x] B) Porque no residentes consumen servicios locales (alojamiento, gastronomía, transporte) pagando con divisas internacionales.
+- [x] A) Porque no residentes consumen servicios locales (alojamiento, gastronomía, transporte) pagando con divisas internacionales.
   <!-- feedback: Correcto. Económicamente, vender un servicio en territorio nacional a un no residente equivale a una exportación de servicios que ingresa divisas al país. -->
 - [ ] C) Porque el turismo sólo genera ingresos en pesetas antiguas.
   <!-- feedback: Incorrecto. El turismo aporta divisas fuertes comerciales como dólares o reales. -->
@@ -219,11 +219,11 @@ El gasto realizado por no residentes en turismo receptivo interno constituye una
 ### Opciones
 - [ ] A) Un canal fluvial navegable que atraviesa las sierras de Minas.
   <!-- feedback: Incorrecto. Las sierras no poseen canales fluviales transiterrestres navegables. -->
-- [x] B) El trazado ferroviario del Ferrocarril Central especializado en el transporte pesado de celulosa y granos.
+- [x] D) El trazado ferroviario del Ferrocarril Central especializado en el transporte pesado de celulosa y granos.
   <!-- feedback: Correcto. El Ferrocarril Central reabrió el transporte de carga masivo por tren desde Paso de los Toros hacia el Puerto de Montevideo. -->
-- [ ] C) Una red de autopistas subterráneas exclusivas para camiones eléctricos.
+- [ ] B) Una red de autopistas subterráneas exclusivas para camiones eléctricos.
   <!-- feedback: Incorrecto. Uruguay no posee infraestructura subterránea interdepartamental. -->
-- [ ] D) Un sistema de teleféricos de carga desde Salto hasta Punta del Este.
+- [ ] C) Un sistema de teleféricos de carga desde Salto hasta Punta del Este.
   <!-- feedback: Incorrecto. La topografía llana/penillanura utiliza transporte carretero y ferroviario de superficie. -->
 
 ### Explicacion Pedagogica
@@ -240,9 +240,9 @@ La reactivación del transporte ferroviario de carga mediante el Ferrocarril Cen
 ¿Cuál es la función primordial de los Consejos de Salarios en la fijación de las condiciones de trabajo y salarios mínimos por rama de actividad?
 
 ### Opciones
-- [ ] A) Decidir las tasas de interés bancario que cobra el Banco Central.
+- [ ] B) Decidir las tasas de interés bancario que cobra el Banco Central.
   <!-- feedback: Incorrecto. La tasa de interés la fija el BCU en el Comité de Política Monetaria. -->
-- [x] B) Negociar colectivamente las pautas salariales, categorías laborales y beneficios de los trabajadores por sectores de actividad.
+- [x] A) Negociar colectivamente las pautas salariales, categorías laborales y beneficios de los trabajadores por sectores de actividad.
   <!-- feedback: Correcto. Los Consejos de Salarios institucionalizan la negociación colectiva tripartita, fijando salarios mínimos y ajustes por rama económica. -->
 - [ ] C) Eliminar los sindicatos de trabajadores en todo el territorio nacional.
   <!-- feedback: Incorrecto. Al contrario, los Consejos de Salarios garantizan la participación colectiva sindical. -->
@@ -265,9 +265,9 @@ Los Consejos de Salarios son la institución tripartita de la negociación colec
 ### Opciones
 - [ ] A) Aumenta la competitividad de las industrias manufactureras locales haciéndolas líderes globales.
   <!-- feedback: Incorrecto. La Enfermedad Holandesa perjudica a la industria no primaria. -->
-- [x] B) El ingreso masivo de divisas aprecia la moneda local, abaratando importaciones y encareciendo los costos industriales internos, desindustrializando al sector no primario.
+- [x] C) El ingreso masivo de divisas aprecia la moneda local, abaratando importaciones y encareciendo los costos industriales internos, desindustrializando al sector no primario.
   <!-- feedback: Correcto. El auge del sector primario aprecia el peso, lo que encarece a la industria manufacturera local y la desplaza frente a las importaciones baratas. -->
-- [ ] C) Elimina el consumo de bienes importados en todos los hogares urbanos.
+- [ ] B) Elimina el consumo de bienes importados en todos los hogares urbanos.
   <!-- feedback: Incorrecto. Al abaratar el dólar, las importaciones de bienes de consumo aumentan. -->
 - [ ] D) Desaparece la producción de carne bovina y celulosa de inmediato.
   <!-- feedback: Incorrecto. El sector primario es justamente el que experimenta el auge de divisas. -->
@@ -288,11 +288,11 @@ La 'Enfermedad Holandesa' ocurre cuando el auge primario aprecia la moneda local
 ### Opciones
 - [ ] A) Porque reduce automáticamente la tasa de inflación a cero.
   <!-- feedback: Incorrecto. El déficit abultado suele presionar la inflación o la tasa de interés. -->
-- [x] B) Aumenta el servicio de la deuda (pago de intereses), eleva el riesgo país y expone las finanzas públicas a devaluaciones del tipo de cambio.
+- [x] D) Aumenta el servicio de la deuda (pago de intereses), eleva el riesgo país y expone las finanzas públicas a devaluaciones del tipo de cambio.
   <!-- feedback: Correcto. Acumular deuda en dólares exige destinar más presupuesto al pago de intereses, vulnerando la estabilidad fiscal ante subas del dólar o tasas globales. -->
-- [ ] C) Obliga al Banco Central a cerrar todas las sucursales bancarias del interior.
+- [ ] B) Obliga al Banco Central a cerrar todas las sucursales bancarias del interior.
   <!-- feedback: Incorrecto. El sistema bancario opera con normalidad bajo regulación prudencial. -->
-- [ ] D) Invalida la firma de tratados de libre comercio en el MERCOSUR.
+- [ ] C) Invalida la firma de tratados de libre comercio en el MERCOSUR.
   <!-- feedback: Incorrecto. El déficit fiscal es una variable macroeconómica interna, no una prohibición jurídica de tratados. -->
 
 ### Explicacion Pedagogica
@@ -311,9 +311,9 @@ La sostenibilidad fiscal exige controlar el déficit público para evitar un end
 ### Opciones
 - [ ] A) Sustituyó el cultivo de árboles por la siembra masiva de trigo de invierno.
   <!-- feedback: Incorrecto. La industria papelera impulsó la expansión de la forestación leñosa. -->
-- [x] B) Añadió procesamiento industrial de alto valor agregado a la madera en rollo nacional, convirtiendo a la celulosa en un rubro líder de exportación.
+- [x] C) Añadió procesamiento industrial de alto valor agregado a la madera en rollo nacional, convirtiendo a la celulosa en un rubro líder de exportación.
   <!-- feedback: Correcto. Transformó la producción de troncos sin procesar en pasta química de celulosa de exportación, inyectando inversión e infraestructura en el interior. -->
-- [ ] C) Prohibió el transporte de madera a través de camiones por carreteras nacionales.
+- [ ] B) Prohibió el transporte de madera a través de camiones por carreteras nacionales.
   <!-- feedback: Incorrecto. El transporte de madera combina flotas de camiones, barcazas y ferrocarril. -->
 - [ ] D) Nacionalizó el 100% de la propiedad de las empresas químicas mundiales.
   <!-- feedback: Incorrecto. Son inversiones extranjeras directas operadas bajo el régimen de zonas francas. -->
@@ -334,9 +334,9 @@ La instalación de plantas de celulosa transformó el sector forestal uruguayo, 
 ### Opciones
 - [ ] A) La presencia de grandes laboratorios de biotecnología espacial en las aduanas.
   <!-- feedback: Incorrecto. Las zonas de frontera seca no presentan concentraciones de laboratorios espaciales. -->
-- [x] B) Estructuras productivas débiles, dinamismo del comercio informamental de frontera (free shops y contrabando) y menor fiscalización en economías binacionales.
+- [x] C) Estructuras productivas débiles, dinamismo del comercio informamental de frontera (free shops y contrabando) y menor fiscalización en economías binacionales.
   <!-- feedback: Correcto. La porosidad de la frontera seca y las asimetrías de precios impulsan el comercio informamental de subsistencia, elevando el empleo sin registro. -->
-- [ ] C) La prohibición de abrir comercios minoristas en territorio uruguayo.
+- [ ] B) La prohibición de abrir comercios minoristas en territorio uruguayo.
   <!-- feedback: Incorrecto. Existen comercios formales y *free shops* regulados en las ciudades fronterizas. -->
 - [ ] D) La exención absoluta del pago de jubilaciones a los ciudadanos del norte.
   <!-- feedback: Incorrecto. El BPS otorga cobertura en todo el territorio nacional a los trabajadores registrados. -->
@@ -357,11 +357,11 @@ Las ciudades de frontera seca experimentan mayores niveles de informalidad labor
 ### Opciones
 - [ ] A) Porque es el único país sudamericano desprovisto de conexión a internet.
   <!-- feedback: Incorrecto. Uruguay posee la infraestructura de fibra óptica y conectividad internacional más avanzada de la región. -->
-- [x] B) Por su estabilidad política y jurídica, régimen de zonas francas de servicios, bilingüismo de su talento técnico y sólida infraestructura de telecomunicaciones.
+- [x] D) Por su estabilidad política y jurídica, régimen de zonas francas de servicios, bilingüismo de su talento técnico y sólida infraestructura de telecomunicaciones.
   <!-- feedback: Correcto. Las multinacionales eligen a Montevideo para centralizar sus centros de servicios compartidos regionales debido a la seguridad jurídica y calidad de profesionales. -->
-- [ ] C) Porque el Estado subvenciona el 100% de las ventas de todas las multinacionales.
+- [ ] B) Porque el Estado subvenciona el 100% de las ventas de todas las multinacionales.
   <!-- feedback: Incorrecto. El Estado ofrece el marco de zonas francas e incentivos, no subsidios directos de ventas. -->
-- [ ] D) Porque prohíbe el uso de idiomas extranjeros en las oficinas comerciales.
+- [ ] C) Porque prohíbe el uso de idiomas extranjeros en las oficinas comerciales.
   <!-- feedback: Incorrecto. El dominio de idiomas (inglés, portugués) es requisito clave de los servicios globales. -->
 
 ### Explicacion Pedagogica
@@ -380,9 +380,9 @@ Uruguay se afirma como hub regional de servicios globales gracias a su seguridad
 ### Opciones
 - [ ] A) Aumenta la dependencia de las importaciones de petróleo pesado venezolano.
   <!-- feedback: Incorrecto. Sustituir combustible fósil por electricidad eólica reduce las importaciones de petróleo. -->
-- [x] B) Reduce la importación de combustibles fósiles (ahorro de divisas) y disminuye la emisión de gases de efecto invernadero y contaminantes sonoros y locales.
+- [x] C) Reduce la importación de combustibles fósiles (ahorro de divisas) y disminuye la emisión de gases de efecto invernadero y contaminantes sonoros y locales.
   <!-- feedback: Correcto. Aprovecha la abundancia de electricidad eólica autóctona, sustituyendo petróleo importado y descarbonizando el transporte urbano. -->
-- [ ] C) Invalida la red eléctrica nacional provocando apagones permanentes.
+- [ ] B) Invalida la red eléctrica nacional provocando apagones permanentes.
   <!-- feedback: Incorrecto. La red eléctrica uruguaya absorbe eficientemente la carga de flotas de transporte e-bus. -->
 - [ ] D) Eleva las emisiones de dióxido de azufre en la rambla costera.
   <!-- feedback: Incorrecto. Los motores eléctricos no poseen tubo de escape ni emiten gases de combustión. -->
@@ -401,9 +401,9 @@ La electrificación de la movilidad urbana aprovecha la matriz eléctrica limpia
 ¿Qué estrategia de política industrial de segunda generación permitiría romper el sesgo reprimarizador y escalar en las Cadenas Globales de Valor a partir de los recursos biológicos del país?
 
 ### Opciones
-- [x] A) Incentivar la biorrefinería, la biotecnología médica y agrícola, la bioinformática y los biomateriales avanzados a partir de la biomasa agroforestal y marina.
+- [x] B) Incentivar la biorrefinería, la biotecnología médica y agrícola, la bioinformática y los biomateriales avanzados a partir de la biomasa agroforestal y marina.
   <!-- feedback: Correcto. La bioeconomía de segunda generación no exporta la materia prima bruta; utiliza biotecnología para convertir la biomasa en biofármacos, biomateriales y química verde de alto valor. -->
-- [ ] B) Prohibir la investigación científica en las universidades públicas del país.
+- [ ] A) Prohibir la investigación científica en las universidades públicas del país.
   <!-- feedback: Incorrecto. La bioeconomía exige una alianza estratégica entre universidades, centros de I+D y empresas. -->
 - [ ] C) Volver al modelo de sustitución de importaciones cerrado del siglo XIX.
   <!-- feedback: Incorrecto. El modelo cerrado autárquico no es viable en economías pequeñas abiertas globalizadas. -->
@@ -426,9 +426,9 @@ La transición hacia una bioeconomía avanzada transforma los recursos biológic
 ### Opciones
 - [ ] A) La quema de las reservas internacionales de divisas en un solo día.
   <!-- feedback: Incorrecto. Agotar las reservas dejaría al país desprotegido sin liquidez de respaldo. -->
-- [x] B) La mantención de un elevado nivel de Reservas Internacionales Netas en el BCU y el acceso a líneas de crédito contingente con organismos multilaterales.
+- [x] C) La mantención de un elevado nivel de Reservas Internacionales Netas en el BCU y el acceso a líneas de crédito contingente con organismos multilaterales.
   <!-- feedback: Correcto. Reservas sólidas en el BCU y líneas de crédito de rápido desembolso (BID, CAF, FMI) brindan blindaje financiero frente a frenazos bruscos de capitales. -->
-- [ ] C) La congelación por decreto de todos los depósitos bancarios de los ciudadanos.
+- [ ] B) La congelación por decreto de todos los depósitos bancarios de los ciudadanos.
   <!-- feedback: Incorrecto. El congelamiento de depósitos (estilo 'corralito') destruye la confianza y la estabilidad financiera. -->
 - [ ] D) El abandono de la recaudación del impuesto a las ganancias corporativas.
   <!-- feedback: Incorrecto. La responsabilidad fiscal exige mantener la recaudación tributaria para financiar el Estado. -->
@@ -472,9 +472,9 @@ La reconversión laboral continua (*reskilling*) guiada por el INEFOP y el siste
 ### Opciones
 - [ ] A) La suspensión indefinida de los contratos colectivos de trabajo.
   <!-- feedback: Incorrecto. Desactivar la negociación colectiva reduce el poder de negociación salarial. -->
-- [x] B) La negociación colectiva tripartita activa en los Consejos de Salarios junto con incrementos reales del Salario Mínimo Nacional.
+- [x] C) La negociación colectiva tripartita activa en los Consejos de Salarios junto con incrementos reales del Salario Mínimo Nacional.
   <!-- feedback: Correcto. Los Consejos de Salarios y la suba del Salario Mínimo permiten que las ganancias de productividad se trasladen a aumentos salariales reales, elevando la masa salarial. -->
-- [ ] C) La fijación arancelaria de precios máximos a todas las exportaciones agrícolas.
+- [ ] B) La fijación arancelaria de precios máximos a todas las exportaciones agrícolas.
   <!-- feedback: Incorrecto. Fijar precios máximos a las exportaciones desincentiva la producción y reduce divisas. -->
 - [ ] D) La emisión de vales de compra no convertibles en moneda de curso legal.
   <!-- feedback: Incorrecto. No recompone el salario real ni el poder adquisitivo formal de la masa trabajadora. -->

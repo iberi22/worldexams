@@ -34,9 +34,9 @@ Este bundle contiene 20 preguntas sobre **Medios de Comunicación y Posverdad** 
 ¿Qué anomalía de rigor informativo presenta la portada descrita?
 
 ### Opciones
-- [x] A) La falta de coincidencia temporal entre la imagen fotográfica de archivo y el hecho noticioso actual.
+- [x] B) La falta de coincidencia temporal entre la imagen fotográfica de archivo y el hecho noticioso actual.
   <!-- feedback: Correcto. Usar fotos de archivo descontextualizadas para ilustrar un hecho presente tergiversa la representación objetiva de la noticia. -->
-- [ ] B) El uso de tinta roja para imprimir el titular principal del periódico.
+- [ ] A) El uso de tinta roja para imprimir el titular principal del periódico.
   <!-- feedback: Incorrecto. El color de la tinta es una decisión de diseño tipográfico y no un fallo directo de rigor periodístico. -->
 - [ ] C) La inclusión de noticias sobre transporte público en la primera página.
   <!-- feedback: Incorrecto. El transporte es un tema de interés público legítimo en las portadas. -->
@@ -57,13 +57,13 @@ El periodismo riguroso exige correspondencia exacta entre el texto verbal y el r
 ¿Cuál es la función periodística de la "Fe de erratas" en el portal de noticias?
 
 ### Opciones
-- [x] A) Corregir públicamente un error de hecho cometido en una edición anterior para transparentar la información.
+- [x] D) Corregir públicamente un error de hecho cometido en una edición anterior para transparentar la información.
   <!-- feedback: Correcto. La fe de erratas es un mecanismo deontológico que rectifica equivocaciones cuantitativas o conceptuales. -->
-- [ ] B) Ocultar la información real sobre el IVA a los ciudadanos para evitar protestas.
+- [ ] A) Ocultar la información real sobre el IVA a los ciudadanos para evitar protestas.
   <!-- feedback: Incorrecto. La fe de erratas hace exactamente lo contrario: visibiliza la equivocación para dar el dato verídico. -->
-- [ ] C) Cobrar una tarifa adicional a los lectores que deseen conocer el texto corregido.
+- [ ] B) Cobrar una tarifa adicional a los lectores que deseen conocer el texto corregido.
   <!-- feedback: Incorrecto. La rectificación forma parte del deber informativo y no constituye un cobro comercial. -->
-- [ ] D) Cancelar la validez de las leyes aprobadas por el Congreso colombiano.
+- [ ] C) Cancelar la validez de las leyes aprobadas por el Congreso colombiano.
   <!-- feedback: Incorrecto. Un medio de comunicación rectifica datos pero no legisla ni anula leyes. -->
 
 ### Explicacion Pedagogica
@@ -80,9 +80,9 @@ La fe de erratas evidencia el compromiso con la verdad y la transparencia en la 
 La difusión inmediata del primer mensaje sin verificación previa por parte de los usuarios es un fenómeno típico de:
 
 ### Opciones
-- [x] A) Desinformación y propagación de noticias falsas (*fake news*) en redes sociales.
+- [x] B) Desinformación y propagación de noticias falsas (*fake news*) en redes sociales.
   <!-- feedback: Correcto. La réplica impulsiva de rumores no verificados en redes enrarece el clima democrático y genera pánico injustificado. -->
-- [ ] B) Periodismo de investigación riguroso y galardonado a nivel internacional.
+- [ ] A) Periodismo de investigación riguroso y galardonado a nivel internacional.
   <!-- feedback: Incorrecto. La falta de verificación contrasta con la investigación periodística académica y profesional. -->
 - [ ] C) Comunicación institucional coordinada entre el gobierno y los jurados de votación.
   <!-- feedback: Incorrecto. El mensaje era falso y fue desmentido por la autoridad oficial (Registraduría). -->
@@ -126,13 +126,13 @@ Identificar fuentes institucionales o académicas acreditadas en los textos peri
 La diferencia entre los encuadres noticiosos de ambos canales demuestra que:
 
 ### Opciones
-- [x] A) La selección del léxico y el enfoque editorial (*framing*) orientan la interpretación ideológica del hecho noticioso.
+- [x] D) La selección del léxico y el enfoque editorial (*framing*) orientan la interpretación ideológica del hecho noticioso.
   <!-- feedback: Correcto. El uso de términos como "Vándalos" vs. "Ciudadanos" muestra cómo los medios encuadran la realidad para sesgar a la audiencia. -->
-- [ ] B) Uno de los canales transmitió desde Medellín y el otro desde una ciudad extranjera.
+- [ ] A) Uno de los canales transmitió desde Medellín y el otro desde una ciudad extranjera.
   <!-- feedback: Incorrecto. Ambos cubren el mismo evento en el mismo lugar; la diferencia radica en el enfoque discursivo. -->
-- [ ] C) Las manifestaciones sociales carecen de interés para los televidentes colombianos.
+- [ ] B) Las manifestaciones sociales carecen de interés para los televidentes colombianos.
   <!-- feedback: Incorrecto. El hecho de ser la noticia de apertura de ambos canales prueba su alta relevancia pública. -->
-- [ ] D) Los periodistas no pueden utilizar adjetivos en la construcción de sus titulares.
+- [ ] C) Los periodistas no pueden utilizar adjetivos en la construcción de sus titulares.
   <!-- feedback: Incorrecto. Los adjetivos son utilizados precisamente para aplicar el sesgo o encuadre deseado por el canal. -->
 
 ### Explicacion Pedagogica
@@ -149,11 +149,11 @@ El concepto de *framing* o encuadre periodístico revela que los medios no refle
 En un debate sobre el cambio climático, una manifestación típica de la posverdad sería:
 
 ### Opciones
-- [x] A) Descalificar los informes científicos consensuados argumentando que "yo siento en mi corazón que el clima no ha cambiado".
+- [x] C) Descalificar los informes científicos consensuados argumentando que "yo siento en mi corazón que el clima no ha cambiado".
   <!-- feedback: Correcto. Anteponer las emociones o corazonadas individuales sobre las evidencias científicas objetivas es la esencia de la posverdad. -->
-- [ ] B) Publicar estadísticas detalladas sobre el derretimiento de los glaciares andinos.
+- [ ] A) Publicar estadísticas detalladas sobre el derretimiento de los glaciares andinos.
   <!-- feedback: Incorrecto. Las estadísticas empíricas son datos objetivos que se oponen a la lógica de la posverdad. -->
-- [ ] C) Organizar un foro académico con físicos y meteorólogos para evaluar el aumento de la temperatura.
+- [ ] B) Organizar un foro académico con físicos y meteorólogos para evaluar el aumento de la temperatura.
   <!-- feedback: Incorrecto. El foro experto busca la contrastación rigurosa de hechos y no la manipulación emotiva. -->
 - [ ] D) Exigir que los gobiernos reduzcan las emisiones de gases de efecto invernadero mediante leyes.
   <!-- feedback: Incorrecto. Es una propuesta de política pública basada en diagnósticos científicos y no en subjetividades. -->
@@ -172,13 +172,13 @@ Comprender la posverdad implica reconocer cómo las pasiones, creencias previas 
 Este fenómeno de aislamiento informativo generado por algoritmos de personalización se conoce como:
 
 ### Opciones
-- [x] A) Cámara de eco (*echo chamber*) o burbuja de filtro.
+- [x] D) Cámara de eco (*echo chamber*) o burbuja de filtro.
   <!-- feedback: Correcto. Los algoritmos refuerzan los prejuicios del usuario mostrándole solo lo que confirma sus ideas previo, aislándolo de visiones diversas. -->
-- [ ] B) Pluralismo informativo garantizado por la Constitución.
+- [ ] A) Pluralismo informativo garantizado por la Constitución.
   <!-- feedback: Incorrecto. La cámara de eco destruye el pluralismo al encerrar al ciudadano en una sola perspectiva. -->
-- [ ] C) Biblioteca digital abierta a todas las corrientes de pensamiento.
+- [ ] B) Biblioteca digital abierta a todas las corrientes de pensamiento.
   <!-- feedback: Incorrecto. La burbuja de filtro restringe el acceso a la variedad de fuentes. -->
-- [ ] D) Auditoría independiente de los medios de comunicación masivos.
+- [ ] C) Auditoría independiente de los medios de comunicación masivos.
   <!-- feedback: Incorrecto. Es un mecanismo algorítmico automatizado y no un proceso de control ético periodístico. -->
 
 ### Explicacion Pedagogica
@@ -195,11 +195,11 @@ Las cámaras de eco en plataformas digitales reducen la diversidad del debate de
 El noticiero incurrió en una falla grave de ética periodística al omitir:
 
 ### Opciones
-- [x] A) El conflicto de intereses del entrevistado y la verificación previa de su idoneidad.
+- [x] C) El conflicto de intereses del entrevistado y la verificación previa de su idoneidad.
   <!-- feedback: Correcto. Ocultar que el entrevistado se beneficia económicamente de sus propias declaraciones manipula a la audiencia en favor de intereses privados. -->
-- [ ] B) La musicalización de fondo durante la transmisión de la entrevista radial.
+- [ ] A) La musicalización de fondo durante la transmisión de la entrevista radial.
   <!-- feedback: Incorrecto. La música de fondo es un recurso de producción y no un factor de ética informativa. -->
-- [ ] C) La publicación del horóscopo financiero del día para los oyentes.
+- [ ] B) La publicación del horóscopo financiero del día para los oyentes.
   <!-- feedback: Incorrecto. La astrología no forma parte de los estándares de verificación periodística. -->
 - [ ] D) El cobro de una boleta de entrada a los oyentes por sintonizar la emisora.
   <!-- feedback: Incorrecto. La radio abierta no cobra entradas; el problema central fue la falta de transparencia sobre el conflicto de intereses. -->
@@ -218,9 +218,9 @@ Revelar los conflictos de interés de las fuentes es un principio de transparenc
 La relación entre el titular sensacionalista (*clickbait*) y el cuerpo de la noticia evidencia:
 
 ### Opciones
-- [x] A) Una exageración engañosa diseñada para capturar clics mediante la descontextualización de un dato científico extremo.
+- [x] B) Una exageración engañosa diseñada para capturar clics mediante la descontextualización de un dato científico extremo.
   <!-- feedback: Correcto. El titulares busca alarmar al lector omitiendo la condición extrema (10 litros en 1 hora) para forzar la lectura del enlace. -->
-- [ ] B) Un resumen impecable y fiel de las leyes universales de la biología.
+- [ ] A) Un resumen impecable y fiel de las leyes universales de la biología.
   <!-- feedback: Incorrecto. El titular sugiere falsamente que beber agua en condiciones normales es letal. -->
 - [ ] C) Una campaña de salud pública para promover el desuso total del agua potable.
   <!-- feedback: Incorrecto. No busca la salud sino la monetización de clics a costa del pánico infundado. -->
@@ -241,13 +241,13 @@ El *clickbait* o ciberanzuelo distorsiona los titulares mediante la descontextua
 La omisión de la etiqueta de "Recreación" induce al telespectador a:
 
 ### Opciones
-- [x] A) Confundir una representación ficcional escenificada con un registro documental en vivo de un delito real.
+- [x] D) Confundir una representación ficcional escenificada con un registro documental en vivo de un delito real.
   <!-- feedback: Correcto. Sin la aclaración gráfica, la audiencia asume que la cámara registró un hecho delictivo real en tiempo presente. -->
-- [ ] B) Apagar inmediatamente el televisor por fallas en la señal de alta definición.
+- [ ] A) Apagar inmediatamente el televisor por fallas en la señal de alta definición.
   <!-- feedback: Incorrecto. La falta de etiqueta induce a error interpretativo sobre la veracidad de las imágenes, no a fallas técnicas. -->
-- [ ] C) Exigir que los actores reciban premios de actuación dramática.
+- [ ] B) Exigir que los actores reciban premios de actuación dramática.
   <!-- feedback: Incorrecto. El problema es informativo y de engaño documental, no de evaluación artística de los actores. -->
-- [ ] D) Comprender que todas las noticias de la televisión son caricaturas animadas.
+- [ ] C) Comprender que todas las noticias de la televisión son caricaturas animadas.
   <!-- feedback: Incorrecto. El televidente tiende a creer en la veracidad del video periodístico si no se le advierte lo contrario. -->
 
 ### Explicacion Pedagogica
@@ -310,11 +310,11 @@ El análisis de los *deepfakes* exige comprender la fragilidad de la prueba audi
 La estructura discursiva de este artículo periodístico viola el principio de:
 
 ### Opciones
-- [x] A) Equilibrio informativo y contraste de fuentes, al otorgar un espacio abrumadoramente desigual a una de las partes.
+- [x] C) Equilibrio informativo y contraste de fuentes, al otorgar un espacio abrumadoramente desigual a una de las partes.
   <!-- feedback: Correcto. El equilibrio exige dar representación justa e imparcial a los distintos actores involucrados en el debate. -->
-- [ ] B) Brevedad en la redacción de noticias sobre economía.
+- [ ] A) Brevedad en la redacción de noticias sobre economía.
   <!-- feedback: Incorrecto. La falta no es la longitud del texto sino la desproporción en las voces citadas. -->
-- [ ] C) Uso obligatorio de gráficos en tercera dimensión para explicar las leyes.
+- [ ] B) Uso obligatorio de gráficos en tercera dimensión para explicar las leyes.
   <!-- feedback: Incorrecto. No es una cuestión de diseño gráfico sino de equidad periodística en las fuentes. -->
 - [ ] D) Publicación de boletines oficiales del Ministerio del Trabajo únicamente.
   <!-- feedback: Incorrecto. El medio debe contrastar voces diversas (gremios, trabajadores, estado) de forma equilibrada. -->
@@ -333,13 +333,13 @@ El desequilibrio en la asignación de espacio y voz a las distintas partes de un
 El uso persistente de la ironía por parte del columnista busca:
 
 ### Opciones
-- [x] A) Ridiculizar la competencia del gobierno mediante el elogio fingido, expresando lo contrario de lo que dice literalmente.
+- [x] D) Ridiculizar la competencia del gobierno mediante el elogio fingido, expresando lo contrario de lo que dice literalmente.
   <!-- feedback: Correcto. La ironía antiprástica dice lo contrario de lo que piensa (llamar "genios" para tachar de ineptos) con el fin de descalificar. -->
-- [ ] B) Demostrar su profunda admiración y respeto profesional por los ministros del Estado.
+- [ ] A) Demostrar su profunda admiración y respeto profesional por los ministros del Estado.
   <!-- feedback: Incorrecto. La ironía es un recurso humorístico-crítico y no un elogio sincero hacia el gobierno. -->
-- [ ] C) Explicar con sencillez pedagógica los trámites de contratación estatal.
+- [ ] B) Explicar con sencillez pedagógica los trámites de contratación estatal.
   <!-- feedback: Incorrecto. No busca la explicación objetiva de trámites sino la burla política sobre la gestión. -->
-- [ ] D) Evitar el uso de figuras literarias en los textos periodísticos de opinión.
+- [ ] C) Evitar el uso de figuras literarias en los textos periodísticos de opinión.
   <!-- feedback: Incorrecto. La ironía es una de las figuras retóricas centrales en el periodismo de opinión. -->
 
 ### Explicacion Pedagogica
@@ -356,13 +356,13 @@ El análisis retórico del artículo de opinión requiere identificar el sentido
 La asociación persistente entre el político absuelto y las imágenes de archivo con esposas constituye:
 
 ### Opciones
-- [x] A) Un linchamiento mediático que perpetúa un sesgo de culpabilidad en el espectador en detrimento de la verdad judicial.
+- [x] D) Un linchamiento mediático que perpetúa un sesgo de culpabilidad en el espectador en detrimento de la verdad judicial.
   <!-- feedback: Correcto. Repetir imágenes incriminatorias del pasado tras la absolución contamina la percepción del espectador y vulnera el derecho a la honra. -->
-- [ ] B) Una cobertura objetiva que informa en tiempo real sobre las últimas decisiones de la corte.
+- [ ] A) Una cobertura objetiva que informa en tiempo real sobre las últimas decisiones de la corte.
   <!-- feedback: Incorrecto. Emitir imágenes desmentidas contraviene la verdad del fallo de absolución judicial. -->
-- [ ] C) Un método pedagógico para enseñar derecho penal a los televidentes.
+- [ ] B) Un método pedagógico para enseñar derecho penal a los televidentes.
   <!-- feedback: Incorrecto. La repetición morbosa de imágenes no cumple fines de educación jurídica objetiva. -->
-- [ ] D) Una exigencia legal de los abogados defensores del político.
+- [ ] C) Una exigencia legal de los abogados defensores del político.
   <!-- feedback: Incorrecto. Los defensores exigirían la transmisión de la inocencia y no las imágenes incriminatorias. -->
 
 ### Explicacion Pedagogica
@@ -402,9 +402,9 @@ Detectar falacias en el periodismo de opinión implica diferenciar entre la crí
 ¿Qué diagnóstico sobre el impacto de las tecnologías de la información sustenta la tesis del ensayista?
 
 ### Opciones
-- [x] A) La hiperfragmentación de la audiencia en nichos algorítmicos genera realidades paralelas inconciliables que destruyen el debate público común.
+- [x] B) La hiperfragmentación de la audiencia en nichos algorítmicos genera realidades paralelas inconciliables que destruyen el debate público común.
   <!-- feedback: Correcto. El exceso de información filtrada crea tribus digitales con "verdades" propias incompatibles con el consenso democrático. -->
-- [ ] B) Las tecnologías de la información han logrado eliminar por completo el analfabetismo en el mundo.
+- [ ] A) Las tecnologías de la información han logrado eliminar por completo el analfabetismo en el mundo.
   <!-- feedback: Incorrecto. El ensayo analiza la dificultad de lograr consensos sociales y no los índices de alfabetización. -->
 - [ ] C) El acceso masivo a datos garantiza que todos los ciudadanos piensen de forma idéntica e imparcial.
   <!-- feedback: Incorrecto. El texto resalta precisamente el problema opuesto: la fragmentación extrema de la opinión. -->
@@ -425,9 +425,9 @@ La evaluación crítica de los medios contemporáneos examina cómo la superabun
 Desde una perspectiva de derechos humanos y democracia liberal, la principal objeción a esta propuesta de ley es que:
 
 ### Opciones
-- [x] A) Otorga al gobierno de turno el poder autoritario de definir qué es verdad, abriendo la puerta a la censura política y al ahogo de la disidencia.
+- [x] B) Otorga al gobierno de turno el poder autoritario de definir qué es verdad, abriendo la puerta a la censura política y al ahogo de la disidencia.
   <!-- feedback: Correcto. Monopolizar la verdad en manos del Estado destruye la libertad de prensa y permite perseguir la crítica bajo el pretexto de "combatir la falsedad". -->
-- [ ] B) Garantiza la absoluta transparencia en el tratamiento de todas las noticias del país.
+- [ ] A) Garantiza la absoluta transparencia en el tratamiento de todas las noticias del país.
   <!-- feedback: Incorrecto. La censura gubernamental ahoga la transparencia y promueve la verdad oficial única. -->
 - [ ] C) Aumentará los ingresos económicos de los periodistas independientes.
   <!-- feedback: Incorrecto. Los periodistas independientes serían los primeros perseguidos o silenciados por el órgano censurado. -->
@@ -448,13 +448,13 @@ Evaluar la regulación de los medios implica ponderar el peligro de las *fake ne
 ¿Qué consecuencia cognitiva y crítica deriva de este hábito de consumo de información hiperbreve?
 
 ### Opciones
-- [x] A) Promueve una comprensión superficial y fragmentaria de problemas complejos, reduciendo la capacidad de análisis contextual.
+- [x] D) Promueve una comprensión superficial y fragmentaria de problemas complejos, reduciendo la capacidad de análisis contextual.
   <!-- feedback: Correcto. Los videos ultra-cortos privilegian el impacto emocional y la brevedad, eliminando los matices y el rigor analítico. -->
-- [ ] B) Desarrolla un pensamiento analítico superior comparable al de un graduado de doctorado.
+- [ ] A) Desarrolla un pensamiento analítico superior comparable al de un graduado de doctorado.
   <!-- feedback: Incorrecto. La brevedad extrema impide el desarrollo del análisis complejo y de la argumentación profunda. -->
-- [ ] C) Asegura la erradicación total de cualquier tipo de sesgo discursivo en las redes.
+- [ ] B) Asegura la erradicación total de cualquier tipo de sesgo discursivo en las redes.
   <!-- feedback: Incorrecto. Los videos breves explotan intensamente los sesgos afectivos para lograr retención. -->
-- [ ] D) Facilita la memorización completa de las leyes de la física cuántica en segundos.
+- [ ] C) Facilita la memorización completa de las leyes de la física cuántica en segundos.
   <!-- feedback: Incorrecto. Es una pretensión infundada; los problemas complejos exigen lectura y estudio contextualizado. -->
 
 ### Explicacion Pedagogica
@@ -471,13 +471,13 @@ La evaluación de los formatos informativos contemporáneos advierte que la brev
 ¿Cuál es la premisa pedagógica que justifica la alfebatización mediática como la solución más sostenible contra la posverdad?
 
 ### Opciones
-- [x] A) Empoderar a los ciudadanos con herramientas críticas de verificación para que puedan evaluar de forma autónoma la veracidad de los mensajes.
+- [x] D) Empoderar a los ciudadanos con herramientas críticas de verificación para que puedan evaluar de forma autónoma la veracidad de los mensajes.
   <!-- feedback: Correcto. Desarrollar el pensamiento crítico en los lectores crea un "sistema inmunológico" frente al engaño y la manipulación informativa. -->
-- [ ] B) Prohibir el uso de teléfonos inteligentes y computadoras a todos los estudiantes menores de edad.
+- [ ] A) Prohibir el uso de teléfonos inteligentes y computadoras a todos los estudiantes menores de edad.
   <!-- feedback: Incorrecto. La alfabetización mediática ensaya el uso crítico de la tecnología y no su prohibición obsoleta. -->
-- [ ] C) Obligar a los estudiantes a memorizar las noticias publicadas por un solo periódico oficial.
+- [ ] B) Obligar a los estudiantes a memorizar las noticias publicadas por un solo periódico oficial.
   <!-- feedback: Incorrecto. Fomenta el contraste de fuentes diversas y no el adoctrinamiento en una sola voz. -->
-- [ ] D) Convertir a todos los bachilleres del país en dueños de canales de televisión privada.
+- [ ] C) Convertir a todos los bachilleres del país en dueños de canales de televisión privada.
   <!-- feedback: Incorrecto. El objetivo es formar audiencias críticas e informadas y no necesariamente empresarios de medios. -->
 
 ### Explicacion Pedagogica

@@ -32,11 +32,11 @@ Banco de preguntas del DBA MEN y Saber 11 sobre soluciones, soluto, solvente, so
 ### Enunciado
 En una tienda del barrio La Candelaria, en Bogotá, doña Carmen prepara aguapanela disolviendo un trozo de panela en una olla con agua caliente. ¿Cuál opción identifica correctamente el soluto y el solvente en esa bebida?
 ### Opciones
-- [x] A) Soluto: la panela (sólido); solvente: el agua (líquido), porque la panela se incorpora al agua formando una mezcla homogénea.
+- [x] C) Soluto: la panela (sólido); solvente: el agua (líquido), porque la panela se incorpora al agua formando una mezcla homogénea.
   <!-- feedback: Correcto. La panela se disuelve en el agua, por eso es el soluto; el agua actúa como solvente porque es el componente mayoritario y disuelve a la panela. -->
-- [ ] B) Soluto: el agua; solvente: la panela, porque la panela es el sólido que se ve dentro de la olla.
+- [ ] A) Soluto: el agua; solvente: la panela, porque la panela es el sólido que se ve dentro de la olla.
   <!-- feedback: Incorrecto. La panela se disuelve en el agua, así que cumple el papel de soluto y no de solvente. -->
-- [ ] C) Soluto: el calor de la estufa; solvente: el agua, porque el calor la pone a hervir y acelera el proceso.
+- [ ] B) Soluto: el calor de la estufa; solvente: el agua, porque el calor la pone a hervir y acelera el proceso.
   <!-- feedback: Incorrecto. El calor es la energía que acelera el proceso, pero no es un componente de la solución; no puede ser ni soluto ni solvente. -->
 - [ ] D) Soluto: el aire disuelto en el líquido; solvente: la panela que termina diluida en el agua.
   <!-- feedback: Incorrecto. La panela es claramente el soluto principal y el agua el solvente; el aire solo es una pequeña impureza. -->
@@ -53,13 +53,13 @@ Una solución es una mezcla homogénea formada por dos o más componentes. El so
 ### Enunciado
 En un puesto de salud de Quibdó, en el Chocó, el personal médico prepara suero oral disolviendo 20,5 g de sales y azúcar en un litro de agua hervida. ¿Cuál afirmación describe correctamente el papel de cada componente en esa mezcla?
 ### Opciones
-- [x] A) El agua es el solvente porque disuelve las sales y el azúcar; las sales y el azúcar son los solutos de la mezcla.
+- [x] D) El agua es el solvente porque disuelve las sales y el azúcar; las sales y el azúcar son los solutos de la mezcla.
   <!-- feedback: Correcto. El agua sigue siendo el componente mayoritario que disuelve a las demás sustancias, que actúan como solutos. -->
-- [ ] B) Las sales son el solvente y el agua es el soluto, porque las sales se observan como polvo antes de mezclarse.
+- [ ] A) Las sales son el solvente y el agua es el soluto, porque las sales se observan como polvo antes de mezclarse.
   <!-- feedback: Incorrecto. Aunque las sales sean sólidas antes de mezclarse, terminan disueltas en el agua, así que son soluto. -->
-- [ ] C) El azúcar y las sales son el solvente, mientras que el agua es el soluto porque se agregó después al recipiente.
+- [ ] B) El azúcar y las sales son el solvente, mientras que el agua es el soluto porque se agregó después al recipiente.
   <!-- feedback: Incorrecto. El solvente siempre es quien disuelve a los demás; el orden en que se agregan no cambia el rol de cada componente. -->
-- [ ] D) El agua deja de ser solvente en presencia de sales y pasa a ser uno de los solutos del suero.
+- [ ] C) El agua deja de ser solvente en presencia de sales y pasa a ser uno de los solutos del suero.
   <!-- feedback: Incorrecto. El agua sigue siendo el solvente aun con sales disueltas; precisamente por eso se llaman soluciones acuosas. -->
 
 ### Explicacion Pedagogica
@@ -74,13 +74,13 @@ En toda solución acuosa, el agua es el solvente, sin importar qué sustancias s
 ### Enunciado
 En una finca del Quindío, durante la cosecha, un caficero agrega dos cucharadas colmadas de café molido a una tasa con agua hirviendo. Después de revolver, observa que parte del café queda como residuo sin disolverse en el fondo de la tasa. ¿A qué tipo de solución corresponde esa preparación?
 ### Opciones
-- [x] A) Es una solución saturada, porque a esa temperatura el agua ya no admite más soluto y el exceso queda sin disolverse.
+- [x] D) Es una solución saturada, porque a esa temperatura el agua ya no admite más soluto y el exceso queda sin disolverse.
   <!-- feedback: Correcto. Cuando una solución llega al límite de soluto y aparece residuo sólido, se alcanza la saturación. -->
-- [ ] B) Es una solución diluida, porque todavía sobra café, lo que indica que el agua no está suficientemente caliente.
+- [ ] A) Es una solución diluida, porque todavía sobra café, lo que indica que el agua no está suficientemente caliente.
   <!-- feedback: Incorrecto. La cantidad de café agregada es la que define si es diluida; además, una diluida no presenta residuo sin disolver. -->
-- [ ] C) Es una solución concentrada, pero nunca saturada, ya que el agua siempre admite más soluto si se sigue revolviendo.
+- [ ] B) Es una solución concentrada, pero nunca saturada, ya que el agua siempre admite más soluto si se sigue revolviendo.
   <!-- feedback: Incorrecto. Toda solución tiene un límite de soluto que puede disolverse; al sobrepasarlo aparece saturación. -->
-- [ ] D) Es una mezcla heterogénea que no se clasifica como diluida, concentrada o saturada.
+- [ ] C) Es una mezcla heterogénea que no se clasifica como diluida, concentrada o saturada.
   <!-- feedback: Incorrecto. Aunque haya café sin disolver, la parte líquida es una solución homogénea saturada. -->
 
 ### Explicacion Pedagogica
@@ -95,11 +95,11 @@ Las soluciones acuosas se clasifican según la cantidad de soluto disuelto: dilu
 ### Enunciado
 En la cafetería de un colegio de Bogotá se prepara aguapanela disolviendo 80 g de panela rallada en 320 g de agua caliente, hasta obtener una mezcla homogénea. ¿Cuál es la concentración en porcentaje masa a masa (% m/m) de esa aguapanela?
 ### Opciones
-- [x] A) 20 % m/m, porque la masa de soluto representa una quinta parte de la masa total de la solución.
+- [x] C) 20 % m/m, porque la masa de soluto representa una quinta parte de la masa total de la solución.
   <!-- feedback: Correcto. m_total = 80 g + 320 g = 400 g; % m/m = (80 / 400) × 100 = 20 %. -->
-- [ ] B) 25 % m/m, porque se suman las dos masas antes de dividir el soluto entre el total.
+- [ ] A) 25 % m/m, porque se suman las dos masas antes de dividir el soluto entre el total.
   <!-- feedback: Incorrecto. 80/400 no da 25; el soluto es 80 g sobre 400 g, no 100 g sobre 400 g. -->
-- [ ] C) 4 % m/m, porque se divide la masa de soluto entre la masa del solvente sin sumar el total.
+- [ ] B) 4 % m/m, porque se divide la masa de soluto entre la masa del solvente sin sumar el total.
   <!-- feedback: Incorrecto. La fórmula exige dividir la masa de soluto entre la masa total de la solución, no solo del solvente. -->
 - [ ] D) 80 % m/m, porque la panela es más densa que el agua y por eso domina la mezcla.
   <!-- feedback: Incorrecto. La densidad no define el porcentaje; el cálculo correcto es masa de soluto sobre masa total por 100. -->
@@ -116,9 +116,9 @@ El porcentaje masa a masa (% m/m) indica los gramos de soluto contenidos en 100 
 ### Enunciado
 En una finca del Eje Cafetero, una caficera observa que al revolver constantemente el azúcar en el tinto, esta se disuelve más rápido que si la deja quieta en el fondo de la taza. ¿Qué factor de la solubilidad explica principalmente ese aumento en la velocidad de disolución?
 ### Opciones
-- [x] A) La agitación, porque al revolver se renueva el contacto entre las partículas de azúcar y el agua caliente.
+- [x] B) La agitación, porque al revolver se renueva el contacto entre las partículas de azúcar y el agua caliente.
   <!-- feedback: Correcto. La agitación desplaza capas de agua y acerca líquido "fresco" al sólido sin disolver, acelerando la disolución. -->
-- [ ] B) La presión atmosférica, porque en el Eje Cafetero la altura modifica la presión sobre el líquido.
+- [ ] A) La presión atmosférica, porque en el Eje Cafetero la altura modifica la presión sobre el líquido.
   <!-- feedback: Incorrecto. La presión afecta principalmente la solubilidad de gases, no la del azúcar en agua, que es un sólido. -->
 - [ ] C) La naturaleza del soluto, porque el azúcar siempre se disuelve más rápido que la sal en agua caliente.
   <!-- feedback: Incorrecto. La naturaleza del soluto sí influye, pero no explica por qué revolver acelera la disolución del mismo azúcar. -->
@@ -137,13 +137,13 @@ La velocidad de disolución depende de varios factores: el tamaño de partícula
 ### Enunciado
 En el Chocó y otras zonas del Pacífico colombiano, el suero oral viene en sobres que contienen 20,5 g de sales y azúcar, preparados para disolverse en 1 L de agua hervida. ¿Cuál es la concentración aproximada del suero oral ya preparado, expresada en gramos de soluto por litro de solución (g/L)?
 ### Opciones
-- [x] A) 20,5 g/L, porque se divide la masa de soluto entre el volumen total de la solución obtenida.
+- [x] D) 20,5 g/L, porque se divide la masa de soluto entre el volumen total de la solución obtenida.
   <!-- feedback: Correcto. 20,5 g / 1 L = 20,5 g/L (se desprecia el cambio de volumen al disolver sales y azúcar). -->
-- [ ] B) 205 g/L, porque se multiplica la masa del soluto por 10 para exagerar la concentración y hacerla manejable.
+- [ ] A) 205 g/L, porque se multiplica la masa del soluto por 10 para exagerar la concentración y hacerla manejable.
   <!-- feedback: Incorrecto. Multiplicaste por un factor incorrecto; la operación válida es solo dividir la masa entre el volumen de la solución. -->
-- [ ] C) 2,05 g/L, porque se dividen los gramos entre 10 L en lugar de entre 1 L de agua.
+- [ ] B) 2,05 g/L, porque se dividen los gramos entre 10 L en lugar de entre 1 L de agua.
   <!-- feedback: Incorrecto. Cambiaste el volumen de manera errónea; el sobre rinde 1 L de suero, no 10 L. -->
-- [ ] D) 0,205 g/L, porque se suman los volúmenes antes de dividir y se invierte la operación.
+- [ ] C) 0,205 g/L, porque se suman los volúmenes antes de dividir y se invierte la operación.
   <!-- feedback: Incorrecto. Invertiste la operación completa: el soluto es 20,5 g, no una fracción menor de un gramo. -->
 
 ### Explicacion Pedagogica
@@ -158,9 +158,9 @@ La concentración en g/L (masa de soluto / volumen de solución) es muy útil pa
 ### Enunciado
 En una tienda del Eje Cafetero hay 500 mL de concentrado de café con una concentración de 80 g/L. Si el tendero agrega 500 mL de agua para obtener un tinto más suave, ¿cuál es la concentración aproximada del tinto resultante, asumiendo volúmenes aditivos?
 ### Opciones
-- [x] A) 40 g/L, porque al duplicar el volumen manteniendo la masa de soluto, la concentración se reduce a la mitad.
+- [x] B) 40 g/L, porque al duplicar el volumen manteniendo la masa de soluto, la concentración se reduce a la mitad.
   <!-- feedback: Correcto. La masa disuelta sigue siendo 40 g en 500 mL; al llevarla a 1 000 mL la concentración pasa a 40 g/L. -->
-- [ ] B) 80 g/L, porque agregar agua no cambia la concentración de un concentrado bien preparado.
+- [ ] A) 80 g/L, porque agregar agua no cambia la concentración de un concentrado bien preparado.
   <!-- feedback: Incorrecto. Diluir siempre disminuye la concentración, ya que la misma masa de soluto se reparte en más volumen. -->
 - [ ] C) 160 g/L, porque al duplicar el volumen se duplican también los gramos por litro del concentrado.
   <!-- feedback: Incorrecto. La masa de soluto no cambia al agregar agua; solo cambia el volumen total y, por tanto, la concentración. -->
@@ -209,9 +209,9 @@ La tabla muestra que la solubilidad del azúcar en agua crece con la temperatura
 ### Enunciado
 En un puesto de salud de Quibdó se intenta preparar una solución agregando 60 g de sales para suero oral en 1 L de agua a 25 °C. La etiqueta técnica indica que la solubilidad máxima de esas sales, en conjunto, es de 50 g por cada 1 000 g de agua a 25 °C. ¿Qué análisis describe correctamente lo que ocurre al mezclar esos valores?
 ### Opciones
-- [x] A) La solución queda saturada y queda un excedente aproximado de 10 g de sales sin disolver en el fondo del recipiente.
+- [x] B) La solución queda saturada y queda un excedente aproximado de 10 g de sales sin disolver en el fondo del recipiente.
   <!-- feedback: Correcto. 60 g supera la solubilidad de 50 g en 1 000 g de agua; el exceso queda como sólido en el fondo. -->
-- [ ] B) La solución se vuelve diluida porque las sales totales exceden la masa de agua del recipiente.
+- [ ] A) La solución se vuelve diluida porque las sales totales exceden la masa de agua del recipiente.
   <!-- feedback: Incorrecto. Una solución diluida contiene poco soluto respecto a su máximo posible; aquí ocurre lo contrario. -->
 - [ ] C) La solución sigue siendo concentrada y todos los 60 g quedan disueltos, porque las sales no tienen un límite de solubilidad.
   <!-- feedback: Incorrecto. Toda sal tiene un límite de solubilidad a una temperatura dada; superarlo deja excedente sin disolver. -->
@@ -251,9 +251,9 @@ La concentración compara la cantidad de soluto con la cantidad de solvente o de
 ### Enunciado
 Una estudiante de Bogotá plantea la siguiente hipótesis: "Si aumento la temperatura del agua, entonces podré disolver más gramos de azúcar en 100 mL, porque el agua caliente acepta más soluto que el agua fría." ¿Cuál de las siguientes opciones evalúa mejor la calidad científica de esa hipótesis?
 ### Opciones
-- [x] A) La hipótesis es comprobable y razonable, siempre que se controle la cantidad de agua, el tipo de azúcar y se mida la masa máxima disuelta a cada temperatura.
+- [x] B) La hipótesis es comprobable y razonable, siempre que se controle la cantidad de agua, el tipo de azúcar y se mida la masa máxima disuelta a cada temperatura.
   <!-- feedback: Correcto. La relación solubilidad-temperatura se verifica experimentalmente; basta controlar las variables para probarla con datos. -->
-- [ ] B) La hipótesis es falsa porque la solubilidad del azúcar no depende de la temperatura, sino únicamente de la agitación de la mezcla.
+- [ ] A) La hipótesis es falsa porque la solubilidad del azúcar no depende de la temperatura, sino únicamente de la agitación de la mezcla.
   <!-- feedback: Incorrecto. La agitación acelera la velocidad, pero la solubilidad máxima del azúcar depende principalmente de la temperatura. -->
 - [ ] C) La hipótesis no puede probarse porque ningún instrumento disponible en el colegio mide gramos de azúcar con precisión.
   <!-- feedback: Incorrecto. Una balanza escolar basta para medir la masa de azúcar disuelta con precisión razonable para el experimento. -->
@@ -272,13 +272,13 @@ Una hipótesis experimental es válida cuando puede ponerse a prueba manteniendo
 ### Enunciado
 Un docente del Eje Cafetero propone el siguiente experimento: "Tomar tres tasas iguales con 200 mL de agua a la misma temperatura. A cada tasa agregar, respectivamente, 5 g, 10 g y 15 g de café soluble. Revolver la misma cantidad de tiempo y medir la concentración en g/L de cada tinto resultante." ¿Cuál de los siguientes análisis evalúa mejor ese diseño experimental?
 ### Opciones
-- [x] A) El experimento es adecuado porque mantiene constante el volumen y la temperatura, y varía únicamente la cantidad de soluto, lo que permite comparar concentraciones.
+- [x] D) El experimento es adecuado porque mantiene constante el volumen y la temperatura, y varía únicamente la cantidad de soluto, lo que permite comparar concentraciones.
   <!-- feedback: Correcto. Controlar volumen, temperatura y procedimiento hace que la diferencia de concentración dependa solo del soluto. -->
-- [ ] B) El experimento es inválido porque la masa de café soluble no influye en la concentración final del tinto.
+- [ ] A) El experimento es inválido porque la masa de café soluble no influye en la concentración final del tinto.
   <!-- feedback: Incorrecto. La concentración sí depende directamente de la masa de soluto por unidad de volumen; este es justamente el factor que se varía. -->
-- [ ] C) El experimento es innecesario porque ya se sabe que toda cantidad de café soluble siempre forma una solución saturada.
+- [ ] B) El experimento es innecesario porque ya se sabe que toda cantidad de café soluble siempre forma una solución saturada.
   <!-- feedback: Incorrecto. Las cantidades elegidas están por debajo de la solubilidad del café soluble; el experimento compara diluciones, no saturaciones. -->
-- [ ] D) El experimento es perfecto y no requiere controlar el tiempo de agitación ni la temperatura inicial del agua.
+- [ ] C) El experimento es perfecto y no requiere controlar el tiempo de agitación ni la temperatura inicial del agua.
   <!-- feedback: Incorrecto. Sin control de tiempo y temperatura, las diferencias podrían atribuirse a esos factores y no solo a la masa de soluto. -->
 
 ### Explicacion Pedagogica

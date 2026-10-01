@@ -76,8 +76,8 @@ La comunicación no verbal utiliza canales distintos a la palabra. Los colores y
 
 ### Opciones
 - [ ] A) Que está muy feliz de ver a su hermano. <!-- feedback: Incorrecto. Los gestos descritos no corresponden a la alegría. -->
-- [x] B) Que se siente molesto, enojado o inconforme. <!-- feedback: Correcto. El ceño fruncido y los brazos cruzados son señales corporales universales de enfado o actitud defensiva. -->
-- [ ] C) Que tiene mucho sueño y quiere ir a dormir. <!-- feedback: Incorrecto. Los brazos cruzados no son típicos de la somnolencia. -->
+- [x] C) Que se siente molesto, enojado o inconforme. <!-- feedback: Correcto. El ceño fruncido y los brazos cruzados son señales corporales universales de enfado o actitud defensiva. -->
+- [ ] B) Que tiene mucho sueño y quiere ir a dormir. <!-- feedback: Incorrecto. Los brazos cruzados no son típicos de la somnolencia. -->
 - [ ] D) Que no le importa nada de lo que pase a su alrededor. <!-- feedback: Incorrecto. El ceño fruncido muestra una emoción activa de molestia. -->
 
 ### Explicacion Pedagogica
@@ -97,9 +97,9 @@ La kinésica estudia el significado de los movimientos corporales y los gestos. 
 
 ### Opciones
 - [ ] A) Informar que las enfermeras están cansadas; sustituye a un bostezo. <!-- feedback: Incorrecto. El gesto tiene un significado social muy específico. -->
-- [x] B) Pedir silencio en el área del hospital; sustituye a la frase "Por favor, hagan silencio". <!-- feedback: Correcto. El gesto es un emblema que reemplaza directamente una instrucción verbal. -->
-- [ ] C) Indicar dónde queda la farmacia; sustituye a un mapa. <!-- feedback: Incorrecto. El gesto no tiene una función de orientación espacial. -->
-- [ ] D) Invitar a los pacientes a comer; sustituye a una campana. <!-- feedback: Incorrecto. No es un gesto relacionado con la alimentación. -->
+- [x] D) Pedir silencio en el área del hospital; sustituye a la frase "Por favor, hagan silencio". <!-- feedback: Correcto. El gesto es un emblema que reemplaza directamente una instrucción verbal. -->
+- [ ] B) Indicar dónde queda la farmacia; sustituye a un mapa. <!-- feedback: Incorrecto. El gesto no tiene una función de orientación espacial. -->
+- [ ] C) Invitar a los pacientes a comer; sustituye a una campana. <!-- feedback: Incorrecto. No es un gesto relacionado con la alimentación. -->
 
 ### Explicacion Pedagogica
 Existen gestos llamados "emblemas" que tienen una traducción verbal directa y son comprendidos por la mayoría de las personas en una cultura, como el gesto de pedir silencio o el de saludar con la mano.
@@ -118,8 +118,8 @@ Existen gestos llamados "emblemas" que tienen una traducción verbal directa y s
 
 ### Opciones
 - [ ] A) Lo verbal y lo no verbal dicen exactamente lo mismo. <!-- feedback: Incorrecto. Sus palabras hablan de ciencia, su cuerpo de miedo. -->
-- [x] B) Existe una contradicción, pues sus palabras informan algo, pero su cuerpo comunica inseguridad o nerviosismo. <!-- feedback: Correcto. Cuando hay contradicción, el receptor suele creerle más a la comunicación no verbal. -->
-- [ ] C) La comunicación no verbal no importa si el contenido de la cartelera es bueno. <!-- feedback: Incorrecto. La forma en que se comunica afecta cómo se recibe el mensaje. -->
+- [x] C) Existe una contradicción, pues sus palabras informan algo, pero su cuerpo comunica inseguridad o nerviosismo. <!-- feedback: Correcto. Cuando hay contradicción, el receptor suele creerle más a la comunicación no verbal. -->
+- [ ] B) La comunicación no verbal no importa si el contenido de la cartelera es bueno. <!-- feedback: Incorrecto. La forma en que se comunica afecta cómo se recibe el mensaje. -->
 - [ ] D) La estudiante está usando comunicación verbal oral de manera perfecta. <!-- feedback: Incorrecto. La voz temblorosa indica que hay interferencias emocionales en la comunicación oral. -->
 
 ### Explicacion Pedagogica
@@ -180,9 +180,9 @@ La proxémica analiza las distancias entre las personas según el tipo de relaci
 ¿Qué función cumple este elemento gráfico en la comunicación de la historieta?
 
 ### Opciones
-- [ ] A) Indicar que está empezando a llover en la historia. <!-- feedback: Incorrecto. Es un símbolo metafórico del estado de ánimo. -->
-- [ ] B) Es comunicación verbal porque los rayos son como letras. <!-- feedback: Incorrecto. Son imágenes, no grafemas. -->
-- [x] C) Es comunicación no verbal icónica que representa el enojo o la furia del personaje. <!-- feedback: Correcto. En el lenguaje de las historietas, estos símbolos visuales representan sentimientos de forma no verbal. -->
+- [ ] B) Indicar que está empezando a llover en la historia. <!-- feedback: Incorrecto. Es un símbolo metafórico del estado de ánimo. -->
+- [ ] C) Es comunicación verbal porque los rayos son como letras. <!-- feedback: Incorrecto. Son imágenes, no grafemas. -->
+- [x] A) Es comunicación no verbal icónica que representa el enojo o la furia del personaje. <!-- feedback: Correcto. En el lenguaje de las historietas, estos símbolos visuales representan sentimientos de forma no verbal. -->
 - [ ] D) Es paralenguaje porque indica que el personaje está gritando. <!-- feedback: Incorrecto. El paralenguaje se refiere a la voz, no a dibujos simbólicos. -->
 
 ### Explicacion Pedagogica
@@ -202,9 +202,9 @@ El lenguaje icónico usa imágenes para representar la realidad o conceptos. En 
 
 ### Opciones
 - [ ] A) Comunicación gestual. <!-- feedback: Incorrecto. En la radio no se ven los gestos. -->
-- [x] B) Paralenguaje. <!-- feedback: Correcto. El paralenguaje comprende los aspectos no verbales de la comunicación oral, como el tono, el volumen y la velocidad. -->
-- [ ] C) Comunicación escrita. <!-- feedback: Incorrecto. El locutor está hablando, no escribiendo para el receptor. -->
-- [ ] D) Código Morse. <!-- feedback: Incorrecto. Es un sistema de puntos y rayas, no tiene que ver con la entonación natural. -->
+- [x] D) Paralenguaje. <!-- feedback: Correcto. El paralenguaje comprende los aspectos no verbales de la comunicación oral, como el tono, el volumen y la velocidad. -->
+- [ ] B) Comunicación escrita. <!-- feedback: Incorrecto. El locutor está hablando, no escribiendo para el receptor. -->
+- [ ] C) Código Morse. <!-- feedback: Incorrecto. Es un sistema de puntos y rayas, no tiene que ver con la entonación natural. -->
 
 ### Explicacion Pedagogica
 El paralenguaje es el componente no verbal de la voz. No es "qué" decimos (verbal), sino "cómo" lo decimos. Un mismo mensaje verbal ("hola") puede comunicar alegría, sarcasmo o aburrimiento según el paralenguaje.
@@ -224,8 +224,8 @@ El paralenguaje es el componente no verbal de la voz. No es "qué" decimos (verb
 ### Opciones
 - [ ] A) Que el candidato es muy puntual porque tiene reloj. <!-- feedback: Incorrecto. Mirar el reloj repetidamente tiene otro significado. -->
 - [ ] B) Que el candidato es un experto en el tema por sus respuestas. <!-- feedback: Incorrecto. El comportamiento no verbal afecta la percepción de la competencia. -->
-- [x] C) Que el candidato está ansioso, impaciente o tiene prisa por irse. <!-- feedback: Correcto. Los gestos de mirar el reloj y tamborilear son señales típicas de ansiedad o deseo de terminar la situación. -->
-- [ ] D) Que el candidato es muy respetuoso porque no interrumpe. <!-- feedback: Incorrecto. Su impaciencia es una falta de atención plena hacia el entrevistador. -->
+- [x] D) Que el candidato está ansioso, impaciente o tiene prisa por irse. <!-- feedback: Correcto. Los gestos de mirar el reloj y tamborilear son señales típicas de ansiedad o deseo de terminar la situación. -->
+- [ ] C) Que el candidato es muy respetuoso porque no interrumpe. <!-- feedback: Incorrecto. Su impaciencia es una falta de atención plena hacia el entrevistador. -->
 
 ### Explicacion Pedagogica
 La comunicación no verbal suele ser más sincera que la verbal. En situaciones sociales y profesionales, es vital controlar los gestos (kinésica) para que no envíen mensajes negativos que contradigan nuestras palabras.

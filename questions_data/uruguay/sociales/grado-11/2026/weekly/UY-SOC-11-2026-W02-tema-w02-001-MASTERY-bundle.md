@@ -34,11 +34,11 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Qué papel o definición histórica le corresponde a Grito de Asencio en relación con este contexto en Uruguay?
 
 ### Opciones
-- [x] A) Constituyó el factor decisivo que consolidó la sublevación rural en la campaña en beneficio del desarrollo institucional del país.
+- [x] C) Constituyó el factor decisivo que consolidó la sublevación rural en la campaña en beneficio del desarrollo institucional del país.
   <!-- feedback: Correcto. Grito de Asencio representó precisamente el hecho o concepto que consagró la sublevación rural en la campaña. -->
-- [ ] B) Consistió en una reforma fiscal que impuso Grito de Dolores eliminando toda libertad mercantil o política local.
+- [ ] A) Consistió en una reforma fiscal que impuso Grito de Dolores eliminando toda libertad mercantil o política local.
   <!-- feedback: Incorrecto. Grito de Dolores no define la acción histórica de este elemento ni se corresponde con este período. -->
-- [ ] C) Fue un movimiento de oposición promovido por los defensores de Proclama de Mercedes para restablecer el régimen colonial absoluto.
+- [ ] B) Fue un movimiento de oposición promovido por los defensores de Proclama de Mercedes para restablecer el régimen colonial absoluto.
   <!-- feedback: Incorrecto. Proclama de Mercedes responde a otra dinámica o intereses opuestos a los evaluados en este hecho. -->
 - [ ] D) Representó una medida de orden militar que forzó la inmediata adopción de Pacto de la Cruz en toda la campaña rural.
   <!-- feedback: Incorrecto. Pacto de la Cruz representa una distracción sin sustento documental o empírico en la historia uruguaya. -->
@@ -82,9 +82,9 @@ La identificación precisa de Batalla de las Piedras permite comprender el triun
 Si analizás la trascendencia de este suceso, ¿cómo se explica la relación causa-efecto entre La autonomía de las provincias y el federalismo y los postulados políticos de las Instrucciones?
 
 ### Opciones
-- [x] A) Que la implantación de La autonomía de las provincias y el federalismo actuó como la causa principal que posibilitó el desarrollo de los postulados políticos de las Instrucciones.
+- [x] B) Que la implantación de La autonomía de las provincias y el federalismo actuó como la causa principal que posibilitó el desarrollo de los postulados políticos de las Instrucciones.
   <!-- feedback: Correcto. Hay una relación causal directa: La autonomía de las provincias y el federalismo funcionó como cimiento para que se diera los postulados políticos de las Instrucciones. -->
-- [ ] B) Que la promoción de El centralismo directorial unitario bloqueó de forma absoluta todo efecto de La autonomía de las provincias y el federalismo sobre la sociedad de la campaña.
+- [ ] A) Que la promoción de El centralismo directorial unitario bloqueó de forma absoluta todo efecto de La autonomía de las provincias y el federalismo sobre la sociedad de la campaña.
   <!-- feedback: Incorrecto. El centralismo directorial unitario representa una distracción conceptual que no interfirió de esa forma ni anula el papel de La autonomía de las provincias y el federalismo. -->
 - [ ] C) Que la imposición de La reinstauración de la monarquía española sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
   <!-- feedback: Incorrecto. La reinstauración de la monarquía española es una lectura errónea que tergiversa la base socioeconómica agropecuaria de la Banda Oriental o del Estado uruguayo. -->
@@ -106,13 +106,13 @@ La relación entre La autonomía de las provincias y el federalismo y los postul
 Si analizás la trascendencia de este suceso, ¿cómo se explica la relación causa-efecto entre El reparto de tierras a los más infelices y la justicia agraria del artiguismo?
 
 ### Opciones
-- [x] A) Que la implantación de El reparto de tierras a los más infelices actuó como la causa principal que posibilitó el desarrollo de la justicia agraria del artiguismo.
+- [x] D) Que la implantación de El reparto de tierras a los más infelices actuó como la causa principal que posibilitó el desarrollo de la justicia agraria del artiguismo.
   <!-- feedback: Correcto. Hay una relación causal directa: El reparto de tierras a los más infelices funcionó como cimiento para que se diera la justicia agraria del artiguismo. -->
-- [ ] B) Que la promoción de La privatización de tierras indígenas bloqueó de forma absoluta todo efecto de El reparto de tierras a los más infelices sobre la sociedad de la campaña.
+- [ ] A) Que la promoción de La privatización de tierras indígenas bloqueó de forma absoluta todo efecto de El reparto de tierras a los más infelices sobre la sociedad de la campaña.
   <!-- feedback: Incorrecto. La privatización de tierras indígenas representa una distracción conceptual que no interfirió de esa forma ni anula el papel de El reparto de tierras a los más infelices. -->
-- [ ] C) Que la imposición de La venta de latifundios a comerciantes extranjeros sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
+- [ ] B) Que la imposición de La venta de latifundios a comerciantes extranjeros sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
   <!-- feedback: Incorrecto. La venta de latifundios a comerciantes extranjeros es una lectura errónea que tergiversa la base socioeconómica agropecuaria de la Banda Oriental o del Estado uruguayo. -->
-- [ ] D) Que la aplicación de La prohibición del pastoreo de ganado vacuno resolvió de forma pacífica todas las tensiones sin participación de caudillos agrarios.
+- [ ] C) Que la aplicación de La prohibición del pastoreo de ganado vacuno resolvió de forma pacífica todas las tensiones sin participación de caudillos agrarios.
   <!-- feedback: Incorrecto. La prohibición del pastoreo de ganado vacuno representa un supuesto inverosímil que contradice las agudas luchas partidarias y sociales de la época. -->
 
 ### Explicacion Pedagogica
@@ -130,9 +130,9 @@ La relación entre El reparto de tierras a los más infelices y la justicia agra
 Si analizás la trascendencia de este suceso, ¿cómo se explica la relación causa-efecto entre El Éxodo del Pueblo Oriental y la dolorosa redención colectiva?
 
 ### Opciones
-- [x] A) Que la implantación de El Éxodo del Pueblo Oriental actuó como la causa principal que posibilitó el desarrollo de la dolorosa redención colectiva.
+- [x] B) Que la implantación de El Éxodo del Pueblo Oriental actuó como la causa principal que posibilitó el desarrollo de la dolorosa redención colectiva.
   <!-- feedback: Correcto. Hay una relación causal directa: El Éxodo del Pueblo Oriental funcionó como cimiento para que se diera la dolorosa redención colectiva. -->
-- [ ] B) Que la promoción de La invasión lusa a Montevideo bloqueó de forma absoluta todo efecto de El Éxodo del Pueblo Oriental sobre la sociedad de la campaña.
+- [ ] A) Que la promoción de La invasión lusa a Montevideo bloqueó de forma absoluta todo efecto de El Éxodo del Pueblo Oriental sobre la sociedad de la campaña.
   <!-- feedback: Incorrecto. La invasión lusa a Montevideo representa una distracción conceptual que no interfirió de esa forma ni anula el papel de El Éxodo del Pueblo Oriental. -->
 - [ ] C) Que la imposición de La firma del armisticio de octubre sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
   <!-- feedback: Incorrecto. La firma del armisticio de octubre es una lectura errónea que tergiversa la base socioeconómica agropecuaria de la Banda Oriental o del Estado uruguayo. -->
@@ -154,9 +154,9 @@ La relación entre El Éxodo del Pueblo Oriental y la dolorosa redención colect
 Si analizás la trascendencia de este suceso, ¿cómo se explica la relación causa-efecto entre El Congreso de Tres Cruces y la jura de la soberanía particular?
 
 ### Opciones
-- [x] A) Que la implantación de El Congreso de Tres Cruces actuó como la causa principal que posibilitó el desarrollo de la jura de la soberanía particular.
+- [x] B) Que la implantación de El Congreso de Tres Cruces actuó como la causa principal que posibilitó el desarrollo de la jura de la soberanía particular.
   <!-- feedback: Correcto. Hay una relación causal directa: El Congreso de Tres Cruces funcionó como cimiento para que se diera la jura de la soberanía particular. -->
-- [ ] B) Que la promoción de La Asamblea Constituyente de Buenos Aires bloqueó de forma absoluta todo efecto de El Congreso de Tres Cruces sobre la sociedad de la campaña.
+- [ ] A) Que la promoción de La Asamblea Constituyente de Buenos Aires bloqueó de forma absoluta todo efecto de El Congreso de Tres Cruces sobre la sociedad de la campaña.
   <!-- feedback: Incorrecto. La Asamblea Constituyente de Buenos Aires representa una distracción conceptual que no interfirió de esa forma ni anula el papel de El Congreso de Tres Cruces. -->
 - [ ] C) Que la imposición de La firma del tratado de paz con España sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
   <!-- feedback: Incorrecto. La firma del tratado de paz con España es una lectura errónea que tergiversa la base socioeconómica agropecuaria de la Banda Oriental o del Estado uruguayo. -->
@@ -178,11 +178,11 @@ La relación entre El Congreso de Tres Cruces y la jura de la soberanía particu
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de La Liga de los Pueblos Libres en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó el frente federal rioplatense a través del despliegue efectivo de La Liga de los Pueblos Libres en el territorio nacional.
+- [x] C) En que viabilizó el frente federal rioplatense a través del despliegue efectivo de La Liga de los Pueblos Libres en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, La Liga de los Pueblos Libres se tradujo directamente en el frente federal rioplatense, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de El Directorio porteño centralizado como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de El Directorio porteño centralizado como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. El Directorio porteño centralizado no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
-- [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de El virreinato realista de Lima.
+- [ ] B) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de El virreinato realista de Lima.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a El virreinato realista de Lima carece de veracidad y fundamento histórico para este período. -->
 - [ ] D) En que provocó el abandono inmediato de las estancias y la adopción generalizada de La Confederación brasileña del norte por los gauchos.
   <!-- feedback: Incorrecto. La Confederación brasileña del norte representa un supuesto anacrónico o absurdo que no operó en la realidad cotidiana del campo uruguayo. -->
@@ -202,9 +202,9 @@ La aplicación práctica de La Liga de los Pueblos Libres revela que la Liga de 
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de La invasión luso-brasileña en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó la caída del Protectorado artiguista a través del despliegue efectivo de La invasión luso-brasileña en el territorio nacional.
+- [x] B) En que viabilizó la caída del Protectorado artiguista a través del despliegue efectivo de La invasión luso-brasileña en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, La invasión luso-brasileña se tradujo directamente en la caída del Protectorado artiguista, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de La Revolución de Mayo porteña como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de La Revolución de Mayo porteña como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. La Revolución de Mayo porteña no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
 - [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La expedición reconquistadora de Morillo.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La expedición reconquistadora de Morillo carece de veracidad y fundamento histórico para este período. -->
@@ -226,9 +226,9 @@ La aplicación práctica de La invasión luso-brasileña revela que la invasión
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de La soberanía particular de los pueblos en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó el derecho de las provincias a gobernarse a través del despliegue efectivo de La soberanía particular de los pueblos en el territorio nacional.
+- [x] B) En que viabilizó el derecho de las provincias a gobernarse a través del despliegue efectivo de La soberanía particular de los pueblos en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, La soberanía particular de los pueblos se tradujo directamente en el derecho de las provincias a gobernarse, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de El derecho absoluto de Buenos Aires como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de El derecho absoluto de Buenos Aires como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. El derecho absoluto de Buenos Aires no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
 - [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La obediencia incondicional a Portugal.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La obediencia incondicional a Portugal carece de veracidad y fundamento histórico para este período. -->
@@ -250,13 +250,13 @@ La aplicación práctica de La soberanía particular de los pueblos revela que l
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de La apertura de los puertos provinciales en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó el desarrollo económico de la Liga a través del despliegue efectivo de La apertura de los puertos provinciales en el territorio nacional.
+- [x] D) En que viabilizó el desarrollo económico de la Liga a través del despliegue efectivo de La apertura de los puertos provinciales en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, La apertura de los puertos provinciales se tradujo directamente en el desarrollo económico de la Liga, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de El bloqueo estricto de los ríos Paraná y Uruguay como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de El bloqueo estricto de los ríos Paraná y Uruguay como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. El bloqueo estricto de los ríos Paraná y Uruguay no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
-- [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La entrega del comercio a naves españolas.
+- [ ] B) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La entrega del comercio a naves españolas.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La entrega del comercio a naves españolas carece de veracidad y fundamento histórico para este período. -->
-- [ ] D) En que provocó el abandono inmediato de las estancias y la adopción generalizada de La estatización monopólica de todo cuero por los gauchos.
+- [ ] C) En que provocó el abandono inmediato de las estancias y la adopción generalizada de La estatización monopólica de todo cuero por los gauchos.
   <!-- feedback: Incorrecto. La estatización monopólica de todo cuero representa un supuesto anacrónico o absurdo que no operó en la realidad cotidiana del campo uruguayo. -->
 
 ### Explicacion Pedagogica
@@ -274,9 +274,9 @@ La aplicación práctica de La apertura de los puertos provinciales revela que e
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de Grito de Asencio en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó la sublevación rural en la campaña a través del despliegue efectivo de Grito de Asencio en el territorio nacional.
+- [x] B) En que viabilizó la sublevación rural en la campaña a través del despliegue efectivo de Grito de Asencio en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, Grito de Asencio se tradujo directamente en la sublevación rural en la campaña, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de Grito de Dolores como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de Grito de Dolores como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. Grito de Dolores no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
 - [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de Proclama de Mercedes.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a Proclama de Mercedes carece de veracidad y fundamento histórico para este período. -->
@@ -298,13 +298,13 @@ La aplicación práctica de Grito de Asencio revela que el Grito de Asencio en f
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de Batalla de las Piedras en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó el triunfo militar de Artigas a través del despliegue efectivo de Batalla de las Piedras en el territorio nacional.
+- [x] D) En que viabilizó el triunfo militar de Artigas a través del despliegue efectivo de Batalla de las Piedras en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, Batalla de las Piedras se tradujo directamente en el triunfo militar de Artigas, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de Batalla de Sarandí como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de Batalla de Sarandí como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. Batalla de Sarandí no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
-- [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de Batalla de Ituzaingó.
+- [ ] B) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de Batalla de Ituzaingó.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a Batalla de Ituzaingó carece de veracidad y fundamento histórico para este período. -->
-- [ ] D) En que provocó el abandono inmediato de las estancias y la adopción generalizada de Combate de San Lorenzo por los gauchos.
+- [ ] C) En que provocó el abandono inmediato de las estancias y la adopción generalizada de Combate de San Lorenzo por los gauchos.
   <!-- feedback: Incorrecto. Combate de San Lorenzo representa un supuesto anacrónico o absurdo que no operó en la realidad cotidiana del campo uruguayo. -->
 
 ### Explicacion Pedagogica
@@ -346,11 +346,11 @@ El análisis crítico de La autonomía de las provincias y el federalismo demues
 ¿Qué contradicción o conflicto de intereses de la sociedad de la época queda en evidencia al analizar las consecuencias de El reparto de tierras a los más infelices?
 
 ### Opciones
-- [x] A) La fractura social entre los sectores que consolidaron su posición con la justicia agraria del artiguismo gracias a El reparto de tierras a los más infelices y aquellos que resultaron postergados.
+- [x] C) La fractura social entre los sectores que consolidaron su posición con la justicia agraria del artiguismo gracias a El reparto de tierras a los más infelices y aquellos que resultaron postergados.
   <!-- feedback: Correcto. El análisis crítico de El reparto de tierras a los más infelices revela una profunda contradicción en torno a la justicia agraria del artiguismo, marcando límites en la integración social. -->
-- [ ] B) El enfrentamiento ideológico entre los defensores de La privatización de tierras indígenas y los promotores de una monarquía incaica absoluta en Canelones.
+- [ ] A) El enfrentamiento ideológico entre los defensores de La privatización de tierras indígenas y los promotores de una monarquía incaica absoluta en Canelones.
   <!-- feedback: Incorrecto. Una monarquía incaica en Canelones es un absurdo geográfico e histórico sin relación con los conflictos reales uruguayos. -->
-- [ ] C) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La venta de latifundios a comerciantes extranjeros.
+- [ ] B) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La venta de latifundios a comerciantes extranjeros.
   <!-- feedback: Incorrecto. Los hacendados dependían vitalmente de la exportación pecuaria y nunca buscaron prohibir su comercio para imponer La venta de latifundios a comerciantes extranjeros. -->
 - [ ] D) La total disolución de las clases sociales que eliminó el influjo de La prohibición del pastoreo de ganado vacuno y unificó amigablemente a toda la población.
   <!-- feedback: Incorrecto. Postular una armonía absoluta que borrara las tensiones y anulara La prohibición del pastoreo de ganado vacuno es una lectura idílica e incorrecta de la historia nacional. -->
@@ -394,9 +394,9 @@ El análisis crítico de El Éxodo del Pueblo Oriental demuestra que el Éxodo d
 ¿Qué contradicción o conflicto de intereses de la sociedad de la época queda en evidencia al analizar las consecuencias de El Congreso de Tres Cruces?
 
 ### Opciones
-- [x] A) La fractura social entre los sectores que consolidaron su posición con la jura de la soberanía particular gracias a El Congreso de Tres Cruces y aquellos que resultaron postergados.
+- [x] B) La fractura social entre los sectores que consolidaron su posición con la jura de la soberanía particular gracias a El Congreso de Tres Cruces y aquellos que resultaron postergados.
   <!-- feedback: Correcto. El análisis crítico de El Congreso de Tres Cruces revela una profunda contradicción en torno a la jura de la soberanía particular, marcando límites en la integración social. -->
-- [ ] B) El enfrentamiento ideológico entre los defensores de La Asamblea Constituyente de Buenos Aires y los promotores de una monarquía incaica absoluta en Canelones.
+- [ ] A) El enfrentamiento ideológico entre los defensores de La Asamblea Constituyente de Buenos Aires y los promotores de una monarquía incaica absoluta en Canelones.
   <!-- feedback: Incorrecto. Una monarquía incaica en Canelones es un absurdo geográfico e histórico sin relación con los conflictos reales uruguayos. -->
 - [ ] C) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La firma del tratado de paz con España.
   <!-- feedback: Incorrecto. Los hacendados dependían vitalmente de la exportación pecuaria y nunca buscaron prohibir su comercio para imponer La firma del tratado de paz con España. -->
@@ -418,9 +418,9 @@ El análisis crítico de El Congreso de Tres Cruces demuestra que el Congreso de
 Al juzgar de manera integral el alcance histórico de La Liga de los Pueblos Libres, ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?
 
 ### Opciones
-- [x] A) Que La Liga de los Pueblos Libres constituyó una respuesta clave que sentó las bases de el frente federal rioplatense, reconfigurando de forma duradera el orden estatal del país.
+- [x] B) Que La Liga de los Pueblos Libres constituyó una respuesta clave que sentó las bases de el frente federal rioplatense, reconfigurando de forma duradera el orden estatal del país.
   <!-- feedback: Correcto. Una evaluación de largo plazo demuestra que La Liga de los Pueblos Libres actuó como piedra angular para estructurar el frente federal rioplatense en el Uruguay moderno. -->
-- [ ] B) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de El Directorio porteño centralizado.
+- [ ] A) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de El Directorio porteño centralizado.
   <!-- feedback: Incorrecto. Las transformaciones republicanas, democráticas o sociales contaban con amplio arraigo e irreversibilidad, descartando el retorno a El Directorio porteño centralizado. -->
 - [ ] C) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de El virreinato realista de Lima.
   <!-- feedback: Incorrecto. Sostener que La Liga de los Pueblos Libres solo sirvió para someter el país a El virreinato realista de Lima es una lectura reduccionista que ignora la dinámica interna soberana. -->
@@ -442,11 +442,11 @@ La evaluación crítica de la Liga de los Pueblos Libres destaca el rol estructu
 Al juzgar de manera integral el alcance histórico de La invasión luso-brasileña, ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?
 
 ### Opciones
-- [x] A) Que La invasión luso-brasileña constituyó una respuesta clave que sentó las bases de la caída del Protectorado artiguista, reconfigurando de forma duradera el orden estatal del país.
+- [x] C) Que La invasión luso-brasileña constituyó una respuesta clave que sentó las bases de la caída del Protectorado artiguista, reconfigurando de forma duradera el orden estatal del país.
   <!-- feedback: Correcto. Una evaluación de largo plazo demuestra que La invasión luso-brasileña actuó como piedra angular para estructurar la caída del Protectorado artiguista en el Uruguay moderno. -->
-- [ ] B) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La Revolución de Mayo porteña.
+- [ ] A) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La Revolución de Mayo porteña.
   <!-- feedback: Incorrecto. Las transformaciones republicanas, democráticas o sociales contaban con amplio arraigo e irreversibilidad, descartando el retorno a La Revolución de Mayo porteña. -->
-- [ ] C) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La expedición reconquistadora de Morillo.
+- [ ] B) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La expedición reconquistadora de Morillo.
   <!-- feedback: Incorrecto. Sostener que La invasión luso-brasileña solo sirvió para someter el país a La expedición reconquistadora de Morillo es una lectura reduccionista que ignora la dinámica interna soberana. -->
 - [ ] D) Que careció de trascendencia práctica real al tratarse de una imitación artificial de La declaración de guerra de Inglaterra sin ningún tipo de base social en el territorio.
   <!-- feedback: Incorrecto. A pesar de las influencias conceptuales externas, el modelo uruguayo se adaptó y respondió de forma directa a su propia base social y conflictos de época. -->
@@ -466,13 +466,13 @@ La evaluación crítica de la invasión luso-brasileña de 1816 destaca el rol e
 Al juzgar de manera integral el alcance histórico de La soberanía particular de los pueblos, ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?
 
 ### Opciones
-- [x] A) Que La soberanía particular de los pueblos constituyó una respuesta clave que sentó las bases de el derecho de las provincias a gobernarse, reconfigurando de forma duradera el orden estatal del país.
+- [x] D) Que La soberanía particular de los pueblos constituyó una respuesta clave que sentó las bases de el derecho de las provincias a gobernarse, reconfigurando de forma duradera el orden estatal del país.
   <!-- feedback: Correcto. Una evaluación de largo plazo demuestra que La soberanía particular de los pueblos actuó como piedra angular para estructurar el derecho de las provincias a gobernarse en el Uruguay moderno. -->
-- [ ] B) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de El derecho absoluto de Buenos Aires.
+- [ ] A) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de El derecho absoluto de Buenos Aires.
   <!-- feedback: Incorrecto. Las transformaciones republicanas, democráticas o sociales contaban con amplio arraigo e irreversibilidad, descartando el retorno a El derecho absoluto de Buenos Aires. -->
-- [ ] C) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La obediencia incondicional a Portugal.
+- [ ] B) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La obediencia incondicional a Portugal.
   <!-- feedback: Incorrecto. Sostener que La soberanía particular de los pueblos solo sirvió para someter el país a La obediencia incondicional a Portugal es una lectura reduccionista que ignora la dinámica interna soberana. -->
-- [ ] D) Que careció de trascendencia práctica real al tratarse de una imitación artificial de La instauración de un imperio unitario sin ningún tipo de base social en el territorio.
+- [ ] C) Que careció de trascendencia práctica real al tratarse de una imitación artificial de La instauración de un imperio unitario sin ningún tipo de base social en el territorio.
   <!-- feedback: Incorrecto. A pesar de las influencias conceptuales externas, el modelo uruguayo se adaptó y respondió de forma directa a su propia base social y conflictos de época. -->
 
 ### Explicacion Pedagogica

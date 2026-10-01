@@ -34,13 +34,13 @@ Consolidación de competencias de lectura crítica sobre textos literarios del P
 ¿Cuál es la tesis principal que defiende Zuleta sobre la tentación de buscar soluciones fáciles a la complejidad humana?
 
 ### Opciones
-- [x] A) La búsqueda de utopías simplistas y sin conflicto conduce a la servidumbre política y al dogmatismo autoritario.
+- [x] D) La búsqueda de utopías simplistas y sin conflicto conduce a la servidumbre política y al dogmatismo autoritario.
   <!-- feedback: Zuleta argumenta que rechazar la dificultad del pensamiento y la convivencia nos entrega inermes a regímenes que prometen orden fácil. -->
-- [ ] B) Los seres humanos deben evitar los laberintos reales para no perderse en las montañas de Colombia.
+- [ ] A) Los seres humanos deben evitar los laberintos reales para no perderse en las montañas de Colombia.
   <!-- feedback: Usa la metáfora del laberinto para criticar la simplificación de la vida y el pensamiento. -->
-- [ ] C) La victoria en cualquier combate depende del uso de armas de fuego de última generación.
+- [ ] B) La victoria en cualquier combate depende del uso de armas de fuego de última generación.
   <!-- feedback: No se refiere a contiendas bélicas físicas sino al esfuerzo y la tensión ética del pensamiento. -->
-- [ ] D) El autoritarismo es el único sistema político capaz de garantizar la paz en las universidades.
+- [ ] C) El autoritarismo es el único sistema político capaz de garantizar la paz en las universidades.
   <!-- feedback: El ensayo ataca abiertamente al autoritarismo como síntoma de inmadurez y miedo al conflicto. -->
 
 ### Explicacion Pedagogica
@@ -57,9 +57,9 @@ Zuleta postula que el deseo de evitar el conflicto conduce a la servidumbre y de
 ¿Qué tipo de argumento utiliza el autor para sostener la necesidad irremplazable del juicio humano en la lectura?
 
 ### Opciones
-- [x] A) Un argumento de distinción cualitativa que contrapone el procesamiento mecánico de datos con la capacidad ética y reflexiva de la mente humana.
+- [x] B) Un argumento de distinción cualitativa que contrapone el procesamiento mecánico de datos con la capacidad ética y reflexiva de la mente humana.
   <!-- feedback: El autor diferencia la velocidad técnica de la máquina frente a la dimensión ética y crítica de la interpretación humana. -->
-- [ ] B) Una falacia ad hominem que ataca la vida privada de los ingenieros de sistemas.
+- [ ] A) Una falacia ad hominem que ataca la vida privada de los ingenieros de sistemas.
   <!-- feedback: El argumento analiza las propiedades y límites de la tecnología, no a los programadores. -->
 - [ ] C) Una estadística numérica que mide el consumo de energía eléctrica de los servidores de internet.
   <!-- feedback: No ofrece datos de consumo eléctrico sino un juicio filosófico sobre la soberanía del pensamiento. -->
@@ -80,11 +80,11 @@ El texto contrapone la eficiencia sintáctica del procesamiento automático con 
 ¿Qué función cumple la azucena como símbolo en la estructura narrativa del Romanticismo?
 
 ### Opciones
-- [x] A) Condensa la pureza del amor idílico de María y anticipa la brevedad efímera de su vida y de la felicidad de los amantes.
+- [x] C) Condensa la pureza del amor idílico de María y anticipa la brevedad efímera de su vida y de la felicidad de los amantes.
   <!-- feedback: La flor es la metafora romántica por excelencia de la fragilidad, la inocencia y el presagio de la muerte temprana. -->
-- [ ] B) Indica que Efraín planeaba vender flores colombianas en los mercados de Londres.
+- [ ] A) Indica que Efraín planeaba vender flores colombianas en los mercados de Londres.
   <!-- feedback: Es un símbolo de amor y presagio lírico, lejos del comercio vegetal. -->
-- [ ] C) Prueba que María era una experta en Botánica agronómica egresada de la universidad.
+- [ ] B) Prueba que María era una experta en Botánica agronómica egresada de la universidad.
   <!-- feedback: Expresa la delicadeza sentimental del personaje en el marco del idilio novelesco. -->
 - [ ] D) Demuestra que la azucena era la única planta que crecía en el Valle del Cauca en el siglo XIX.
   <!-- feedback: Usa la flora local como vehículo de significación emotiva y poética. -->
@@ -126,9 +126,9 @@ La metáfora de Rivera desmitifica el paisaje idílico para revelar la selva com
 ¿Cómo justifica García Márquez el nacimiento del realismo mágico frente al canon europeo?
 
 ### Opciones
-- [x] A) Sostiene que la desmesura de la historia latinoamericana supera los límites del realismo tradicional y exige nuevos lenguajes para ser creíble.
+- [x] B) Sostiene que la desmesura de la historia latinoamericana supera los límites del realismo tradicional y exige nuevos lenguajes para ser creíble.
   <!-- feedback: El autor explica que el realismo mágico no es un truco fantástico sino la única forma de dar cuenta de una realidad trágica e hiperbólica. -->
-- [ ] B) Afirma que los escritores europeos deben abandonar el idioma español por falta de imaginación.
+- [ ] A) Afirma que los escritores europeos deben abandonar el idioma español por falta de imaginación.
   <!-- feedback: Reivindica la autonomía cultural y la especificidad histórica de América Latina. -->
 - [ ] C) Demuestra que la historia de nuestro continente ha sido pacífica y sin conflictos notables.
   <!-- feedback: Subraya la intensidad de nuestras guerras, dictaduras y búsquedas libertarias. -->
@@ -149,11 +149,11 @@ García Márquez fundamenta el realismo mágico en la desmesura objetiva de la h
 ¿Qué relación establece el narrador entre el trauma histórico de los magnicidios y la memoria contemporánea?
 
 ### Opciones
-- [x] A) El pasado no está clausurado: la impunidad de los grandes crímenes políticos continúa moldeando las desconfianzas de la sociedad actual.
+- [x] C) El pasado no está clausurado: la impunidad de los grandes crímenes políticos continúa moldeando las desconfianzas de la sociedad actual.
   <!-- feedback: Vásquez indaga cómo el asesinato de líderes como Uribe Uribe o Gaitán fracturó el tejido social dejando huellas abiertas en el presente. -->
-- [ ] B) Demuestra que los crímenes del pasado no tienen ninguna influencia en la vida actual del país.
+- [ ] A) Demuestra que los crímenes del pasado no tienen ninguna influencia en la vida actual del país.
   <!-- feedback: La novela sostiene precisamente lo contrario: el pasado reciente nos habita y condiciona. -->
-- [ ] C) Afirma que la historia de Colombia comenzó en el año 2000 con la llegada del nuevo milenio.
+- [ ] B) Afirma que la historia de Colombia comenzó en el año 2000 con la llegada del nuevo milenio.
   <!-- feedback: Inscribe el relato en la larga duración de los traumas y fracturas políticas del siglo XX. -->
 - [ ] D) Sugiere que la policía debe abandonar las investigaciones sobre sucesos antiguos.
   <!-- feedback: Reflexiona sobre la responsabilidad ética de la memoria y la verdad. -->
@@ -172,11 +172,11 @@ La narrativa histórica de Vásquez concibe el trauma político no como pieza de
 ¿Qué actitud hacia la existencia manifiesta la voz lírica a través de las metáforas del juego y el azar?
 
 ### Opciones
-- [x] A) La vivencia de la vida como una aventura peligrosa y desinteresada donde se arriesga todo sin buscar recompensas materiales.
+- [x] C) La vivencia de la vida como una aventura peligrosa y desinteresada donde se arriesga todo sin buscar recompensas materiales.
   <!-- feedback: De Greiff encarna al sujeto bohemio e iconoclasta que rechaza la prudencia burguesa y entrega su destino a la pasión pura. -->
-- [ ] B) La recomendación formal de abrir salas de apuestas en las plazas de mercado de Antioquia.
+- [ ] A) La recomendación formal de abrir salas de apuestas en las plazas de mercado de Antioquia.
   <!-- feedback: El juego es una metáfora existencial del poeta, no una propuesta de negocio urbano. -->
-- [ ] C) Un estudio sobre las probabilidades matemáticas de ganar en las cartas.
+- [ ] B) Un estudio sobre las probabilidades matemáticas de ganar en las cartas.
   <!-- feedback: No se trata de cálculo probabilístico sino de la entrega romántica e irónica al destino. -->
 - [ ] D) La condena moral de los vicios populares en la sociedad decimonónica.
   <!-- feedback: El poema celebra con ironía la libertad y el riesgo de vivir al margen del dogma. -->
@@ -218,9 +218,9 @@ El símil pedagógico en la divulgación científica aproxima conceptos complejo
 ¿Qué dimensión ética de la justicia popular se manifiesta en las palabras del dentista?
 
 ### Opciones
-- [x] A) Invierte la jerarquía del poder político, aprovechando el dolor físico para cobrar en la intimidad del gabinete las víctimas de la represión.
+- [x] B) Invierte la jerarquía del poder político, aprovechando el dolor físico para cobrar en la intimidad del gabinete las víctimas de la represión.
   <!-- feedback: Escovar ejercer una justicia silenciosa e implacable: en el sillón del dentista, la autoridad armada queda a merced de la dignidad del pueblo. -->
-- [ ] B) Demuestra que el dentista cobraba veinte pesos por cada extracción dental.
+- [ ] A) Demuestra que el dentista cobraba veinte pesos por cada extracción dental.
   <!-- feedback: Los "veinte muertos" aluden a las víctimas de la violencia política patrocinada por el alcalde. -->
 - [ ] C) Afirma que el alcalde era un cliente distinguido que siempre pagaba sus deudas con puntualidad.
   <!-- feedback: El ambiente del cuento es de profunda tensión, rencor contenido y dignidad. -->
@@ -241,9 +241,9 @@ La frase del dentista es un hito de la narrativa breve: la vulnerabilidad del ti
 ¿Qué tono trágico impregna la caracterización del espacio en esta novela contemporánea?
 
 ### Opciones
-- [x] A) Un determinismo doloroso donde la naturaleza indómita y la exclusión social condenan a los personajes a la frustración de sus afectos.
+- [x] B) Un determinismo doloroso donde la naturaleza indómita y la exclusión social condenan a los personajes a la frustración de sus afectos.
   <!-- feedback: Quintana construye un universo donde la intemperie física refleja la imposibilidad de la ternura en un entorno marcado por la violencia. -->
-- [ ] B) Una visión optimista que promete la llegada inmediata del turismo internacional a la bahía.
+- [ ] A) Una visión optimista que promete la llegada inmediata del turismo internacional a la bahía.
   <!-- feedback: La obra muestra la crudeza, la pobreza y la soledad del Pacífico sin velos idílicos. -->
 - [ ] C) La afirmación de que los animales de la selva viven en perfecta armonía con los humanos.
   <!-- feedback: El relato expone la ferocidad de la naturaleza y la trágica dificultad de la convivencia. -->
@@ -264,11 +264,11 @@ El tono determinista y trágico en Pilar Quintana articula el aislamiento geogr�
 ¿Qué recurso metáforico caracteriza la visión de la ciudad en la prosa de Caballero?
 
 ### Opciones
-- [x] A) Subjetiva el fenómeno climático para convertir el agua en metáfora de la apatía y el desencanto de los habitantes de la capital.
+- [x] C) Subjetiva el fenómeno climático para convertir el agua en metáfora de la apatía y el desencanto de los habitantes de la capital.
   <!-- feedback: Caballero transfigura la llovizna bogotana en un síntoma de la neurosis y el tedio urbano de la clase media intelectual. -->
-- [ ] B) Informa que la temperatura de la ciudad cayó por debajo de los cero grados centígrados.
+- [ ] A) Informa que la temperatura de la ciudad cayó por debajo de los cero grados centígrados.
   <!-- feedback: No es un reporte de meteorología sino una construcción de atmósfera poética y satírica. -->
-- [ ] C) Recomienda el uso de sombrillas metálicas para protegerse de las granizadas.
+- [ ] B) Recomienda el uso de sombrillas metálicas para protegerse de las granizadas.
   <!-- feedback: Usa la lluvia como símbolo del clima emocional de la metrópoli. -->
 - [ ] D) Demuestra que en Bogotá nunca sale el sol en ninguna época del año.
   <!-- feedback: Exagera el clima gris para enfatizar el humor melancólico del personaje. -->
@@ -287,9 +287,9 @@ La metáfora de la "tristeza congelada" en Caballero convierte al clima bogotano
 ¿Qué función cumple la "metonimia del objeto abandonado" en la representación del desplazamiento forzado?
 
 ### Opciones
-- [x] A) Evidencia la interrupción abrupta de la vida cotidiana y el pánico del abandono mediante la presencia muda de las pertenencias de las víctimas.
+- [x] B) Evidencia la interrupción abrupta de la vida cotidiana y el pánico del abandono mediante la presencia muda de las pertenencias de las víctimas.
   <!-- feedback: Las mesas con platos servidos y las puertas abiertas son la huella desgarradora del terror que obliga a huir dejando atrás la historia personal. -->
-- [ ] B) Demuestra que los habitantes salieron de paseo por pocas horas al campo.
+- [ ] A) Demuestra que los habitantes salieron de paseo por pocas horas al campo.
   <!-- feedback: La ausencia de los vecinos y el silencio del pueblo indican el drama irreversible de la huida. -->
 - [ ] C) Indica que las viviendas fueron transformadas en hoteles comunitarios.
   <!-- feedback: La desolación del pueblo desierto es la prueba del triunfo del pavor armado. -->
@@ -310,11 +310,11 @@ Los objetos cotidianos abandonados en *Los ejércitos* funcionan como elocuentes
 ¿Qué paralelismo entre el esfuerzo físico del boga y la lucha existencial del afrodescendiente expresa el poema?
 
 ### Opciones
-- [x] A) Símboliza la resistencia del humilde que navega a contracorriente de la adversidad social y el peso de la discriminación.
+- [x] C) Símboliza la resistencia del humilde que navega a contracorriente de la adversidad social y el peso de la discriminación.
   <!-- feedback: Obeso convierte el remado físico contra la corriente del Magdalena en la alegoría de la tenaz lucha del negro por su dignidad. -->
-- [ ] B) Demuestra que los ríos de Colombia fluyen en dirección opuesta a las leyes de la física.
+- [ ] A) Demuestra que los ríos de Colombia fluyen en dirección opuesta a las leyes de la física.
   <!-- feedback: La corriente del río es la metáfora de las fuerzas sociales adversas. -->
-- [ ] C) Recomienda el uso de motores de gasolina para evitar el cansancio del remo.
+- [ ] B) Recomienda el uso de motores de gasolina para evitar el cansancio del remo.
   <!-- feedback: Celebra el esfuerzo heroico y el canto del boga en el siglo XIX. -->
 - [ ] D) Prohíbe la navegación nocturna en el río Magdalena.
   <!-- feedback: Reivindica la voz y la filosofía de vida del trabajador afrocolombiano. -->
@@ -333,13 +333,13 @@ El verso de Obeso convierte el esfuerzo físico de remar a contracorriente en un
 ¿Qué crisis ética y religiosa plantea la pérdida de fe del sacerdote frente a la miseria urbana?
 
 ### Opciones
-- [x] A) Muestra el colapso de los dogmas religiosos ante la evidencia del dolor humano, la violencia sin respuesta y el abandono social.
+- [x] D) Muestra el colapso de los dogmas religiosos ante la evidencia del dolor humano, la violencia sin respuesta y el abandono social.
   <!-- feedback: Mendoza cuestiona la teología tradicional mostrando cómo el sufrimiento de los inocentes en la gran ciudad quiebra la fe del clérigo. -->
-- [ ] B) Demuestra que el sacerdote deseaba cambiar de profesión para dedicarse a la medicina.
+- [ ] A) Demuestra que el sacerdote deseaba cambiar de profesión para dedicarse a la medicina.
   <!-- feedback: La quiebra del personaje es un dilema de la fe ante el problema del mal y el dolor. -->
-- [ ] C) Señala que los templos de Bogotá eran los más ricos de América Latina.
+- [ ] B) Señala que los templos de Bogotá eran los más ricos de América Latina.
   <!-- feedback: Expone las grietas de la institución eclesial frente a la marginalidad y el crimen. -->
-- [ ] D) Prohíbe el ejercicio del sacerdocio en las zonas urbanas marginales.
+- [ ] C) Prohíbe el ejercicio del sacerdocio en las zonas urbanas marginales.
   <!-- feedback: Indaga la crisis de sentido y la alienación del sujeto en la metrópoli moderna. -->
 
 ### Explicacion Pedagogica
@@ -356,13 +356,13 @@ La crisis del sacerdote en *Satanás* refleja la insuficiencia de los dogmas tra
 ¿Qué hiperbole y tono poético caracterizan la visión del amor en esta novela de los años noventa?
 
 ### Opciones
-- [x] A) Expresa una pasión desenfrenada, suicida y vertiginosa que une el placer absoluto con la inminencia de la destrucción.
+- [x] D) Expresa una pasión desenfrenada, suicida y vertiginosa que une el placer absoluto con la inminencia de la destrucción.
   <!-- feedback: Chaparro Madiedo define el amor desde la estética punk de la aceleración, el riesgo y el goce límite. -->
-- [ ] B) Advierte a los jóvenes sobre las normas de tránsito y los límites de velocidad.
+- [ ] A) Advierte a los jóvenes sobre las normas de tránsito y los límites de velocidad.
   <!-- feedback: No se trata de una lección de conducción sino de una metáfora pasional desbordada. -->
-- [ ] C) Demuestra que los convertibles amarillos eran los vehículos más vendidos en Bogotá.
+- [ ] B) Demuestra que los convertibles amarillos eran los vehículos más vendidos en Bogotá.
   <!-- feedback: Usa la velocidad y el coche como símbolos pop de libertad y vértigo. -->
-- [ ] D) Prohíbe a las parejas enamoradas viajar por las carreteras intermunicipales.
+- [ ] C) Prohíbe a las parejas enamoradas viajar por las carreteras intermunicipales.
   <!-- feedback: Celebra el ardor de la entrega afectiva sin medir las consecuencias. -->
 
 ### Explicacion Pedagogica
@@ -379,9 +379,9 @@ La hipérbole del automóvil a gran velocidad contra la pared define la visión 
 ¿Qué logro estético y crítico alcanza el autor al omitir los nombres propios históricos en la novela?
 
 ### Opciones
-- [x] A) Eleva el evento histórico a la categoría de parábola universal sobre la violencia del poder y el silenciamiento de las víctimas.
+- [x] B) Eleva el evento histórico a la categoría de parábola universal sobre la violencia del poder y el silenciamiento de las víctimas.
   <!-- feedback: Al despojar la historia de la nomenclatura periodística, Cepeda Samudio convierte la tragedia en un mito de dolor universal. -->
-- [ ] B) Demuestra que el autor desconocía los nombres del lugar y de las instituciones.
+- [ ] A) Demuestra que el autor desconocía los nombres del lugar y de las instituciones.
   <!-- feedback: Cepeda Samudio era un profundo conocedor de la historia de Ciénaga y eligió la omisión por razones estilísticas. -->
 - [ ] C) Obliga a los lectores a dudar de si la masacre ocurrió realmente en la zona del Caribe.
   <!-- feedback: El contexto histórico es inconfundible, pero la omisión acentúa la dimensión poética del drama. -->
@@ -402,11 +402,11 @@ La omisión de los nombres propios en *La casa grande* transforma un hecho hist�
 ¿Qué postura crítico-histórica adopta la novela frente al dogma del heroísmo patrio?
 
 ### Opciones
-- [x] A) Reivindica la memoria de las comunidades agredidas por los ejércitos libertadores, cuestionando el culto ciego a los próceres de la historia oficial.
+- [x] C) Reivindica la memoria de las comunidades agredidas por los ejércitos libertadores, cuestionando el culto ciego a los próceres de la historia oficial.
   <!-- feedback: Rosero da voz al dolor de los pastusos para desmitificar las atrocidades cometidas en nombre de la patria y rescatar la verdad del pueblo. -->
-- [ ] B) Demuestra que las guerras de Independencia no tuvieron consecuencias humanas.
+- [ ] A) Demuestra que las guerras de Independencia no tuvieron consecuencias humanas.
   <!-- feedback: Visibiliza la saña, los saqueos y la violencia sufrida por la población civil. -->
-- [ ] C) Afirma que Simón Bolívar fue una invención de los historiadores del siglo XX.
+- [ ] B) Afirma que Simón Bolívar fue una invención de los historiadores del siglo XX.
   <!-- feedback: Cuestiona los actos del personaje histórico de carne y hueso lejos de la estatua de bronce. -->
 - [ ] D) Exige la sustitución de los libros de historia por novelas de ciencia ficción.
   <!-- feedback: Promueve un pensamiento crítico e imparcial sobre las luces y sombras del pasado nacional. -->
@@ -425,13 +425,13 @@ La desacralización de los próceres en Evelio Rosero recupera la memoria de las
 ¿De qué manera la cosmogonía africana reconfigura la novela histórica en América Latina?
 
 ### Opciones
-- [x] A) Quiebra el racionalismo eurocéntrico al integrar la espiritualidad ancestral como una fuerza activa de liberación y memoria colectiva.
+- [x] D) Quiebra el racionalismo eurocéntrico al integrar la espiritualidad ancestral como una fuerza activa de liberación y memoria colectiva.
   <!-- feedback: Zapata Olivella muestra que la lucha contra la esclavitud no fue solo física sino un combate espiritual impulsado por la fe en los ancestros. -->
-- [ ] B) Demuestra que los esclavizados carecían de pensamiento filosófico o religioso propio.
+- [ ] A) Demuestra que los esclavizados carecían de pensamiento filosófico o religioso propio.
   <!-- feedback: La novela celebra precisamente la inmensa riqueza y sofisticación de la filosofía Bantú y Yoruba. -->
-- [ ] C) Señala que los *Orishas* eran autoridades del gobierno colonial español.
+- [ ] B) Señala que los *Orishas* eran autoridades del gobierno colonial español.
   <!-- feedback: Son las divinidades y ancestros que infunden aliento de libertad a los oprimidos. -->
-- [ ] D) Obliga a clasificar la obra como un texto exclusivo para antropólogos extranjeros.
+- [ ] C) Obliga a clasificar la obra como un texto exclusivo para antropólogos extranjeros.
   <!-- feedback: Es una monumental novela épica fundamental para toda la literatura del continente. -->
 
 ### Explicacion Pedagogica

@@ -32,8 +32,8 @@ Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la 
 $$f(x) = x^2 + -4x + 8$$
 
 ### Opciones
-- [x] A) Vértice en $(2, 4)$ <!-- feedback: Correcto. Aplicando $h = -b/(2a) = 2$ y evaluando la función $f(2) = 4$. -->
-- [ ] B) Vértice en $(-2, 4)$ <!-- feedback: Incorrecto. Error de signo en la coordenada horizontal. -->
+- [x] B) Vértice en $(2, 4)$ <!-- feedback: Correcto. Aplicando $h = -b/(2a) = 2$ y evaluando la función $f(2) = 4$. -->
+- [ ] A) Vértice en $(-2, 4)$ <!-- feedback: Incorrecto. Error de signo en la coordenada horizontal. -->
 - [ ] C) Vértice en $(2, -4)$ <!-- feedback: Incorrecto. Error de signo en la coordenada vertical. -->
 - [ ] D) Vértice en $(4, 3)$ <!-- feedback: Incorrecto. Valores erróneos. -->
 
@@ -76,10 +76,10 @@ Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la 
 $$f(x) = x^2 + -8x + 22$$
 
 ### Opciones
-- [x] A) Vértice en $(4, 6)$ <!-- feedback: Correcto. Aplicando $h = -b/(2a) = 4$ y evaluando la función $f(4) = 6$. -->
-- [ ] B) Vértice en $(-4, 6)$ <!-- feedback: Incorrecto. Error de signo en la coordenada horizontal. -->
-- [ ] C) Vértice en $(4, -6)$ <!-- feedback: Incorrecto. Error de signo en la coordenada vertical. -->
-- [ ] D) Vértice en $(6, 5)$ <!-- feedback: Incorrecto. Valores erróneos. -->
+- [x] D) Vértice en $(4, 6)$ <!-- feedback: Correcto. Aplicando $h = -b/(2a) = 4$ y evaluando la función $f(4) = 6$. -->
+- [ ] A) Vértice en $(-4, 6)$ <!-- feedback: Incorrecto. Error de signo en la coordenada horizontal. -->
+- [ ] B) Vértice en $(4, -6)$ <!-- feedback: Incorrecto. Error de signo en la coordenada vertical. -->
+- [ ] C) Vértice en $(6, 5)$ <!-- feedback: Incorrecto. Valores erróneos. -->
 
 ### Explicacion Pedagogica
 Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la forma $f(x) = ax^2 + bx + c$, calculamos la coordenada de $x$ mediante la fórmula $$h = \frac{ -b }{ 2a } = \frac{ -(-8) }{ 2(1) } = 4$$. Sustituyendo este valor en la función cuadrática hallamos la coordenada de $y$: $$k = f(4) = (4)^2 + -8(4) + 22 = 16 + -32 + 22 = 6$$. Por tanto, el vértice se encuentra en $(4, 6)$.
@@ -98,8 +98,8 @@ Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la 
 $$f(x) = x^2 + -2x + 8$$
 
 ### Opciones
-- [x] A) Vértice en $(1, 7)$ <!-- feedback: Correcto. Aplicando $h = -b/(2a) = 1$ y evaluando la función $f(1) = 7$. -->
-- [ ] B) Vértice en $(-1, 7)$ <!-- feedback: Incorrecto. Error de signo en la coordenada horizontal. -->
+- [x] B) Vértice en $(1, 7)$ <!-- feedback: Correcto. Aplicando $h = -b/(2a) = 1$ y evaluando la función $f(1) = 7$. -->
+- [ ] A) Vértice en $(-1, 7)$ <!-- feedback: Incorrecto. Error de signo en la coordenada horizontal. -->
 - [ ] C) Vértice en $(1, -7)$ <!-- feedback: Incorrecto. Error de signo en la coordenada vertical. -->
 - [ ] D) Vértice en $(3, 6)$ <!-- feedback: Incorrecto. Valores erróneos. -->
 
@@ -145,8 +145,8 @@ Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la 
 $$f(x) = x^2 + -6x + 18$$
 
 ### Opciones
-- [x] A) Vértice en $(3, 9)$ <!-- feedback: Correcto. Aplicando $h = -b/(2a) = 3$ y evaluando la función $f(3) = 9$. -->
-- [ ] B) Vértice en $(-3, 9)$ <!-- feedback: Incorrecto. Error de signo en la coordenada horizontal. -->
+- [x] B) Vértice en $(3, 9)$ <!-- feedback: Correcto. Aplicando $h = -b/(2a) = 3$ y evaluando la función $f(3) = 9$. -->
+- [ ] A) Vértice en $(-3, 9)$ <!-- feedback: Incorrecto. Error de signo en la coordenada horizontal. -->
 - [ ] C) Vértice en $(3, -9)$ <!-- feedback: Incorrecto. Error de signo en la coordenada vertical. -->
 - [ ] D) Vértice en $(5, 8)$ <!-- feedback: Incorrecto. Valores erróneos. -->
 
@@ -167,10 +167,10 @@ Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la 
 $$f(x) = x^2 + -8x + 26$$
 
 ### Opciones
-- [x] A) Vértice en $(4, 10)$ <!-- feedback: Correcto. Aplicando $h = -b/(2a) = 4$ y evaluando la función $f(4) = 10$. -->
-- [ ] B) Vértice en $(-4, 10)$ <!-- feedback: Incorrecto. Error de signo en la coordenada horizontal. -->
-- [ ] C) Vértice en $(4, -10)$ <!-- feedback: Incorrecto. Error de signo en la coordenada vertical. -->
-- [ ] D) Vértice en $(6, 9)$ <!-- feedback: Incorrecto. Valores erróneos. -->
+- [x] D) Vértice en $(4, 10)$ <!-- feedback: Correcto. Aplicando $h = -b/(2a) = 4$ y evaluando la función $f(4) = 10$. -->
+- [ ] A) Vértice en $(-4, 10)$ <!-- feedback: Incorrecto. Error de signo en la coordenada horizontal. -->
+- [ ] B) Vértice en $(4, -10)$ <!-- feedback: Incorrecto. Error de signo en la coordenada vertical. -->
+- [ ] C) Vértice en $(6, 9)$ <!-- feedback: Incorrecto. Valores erróneos. -->
 
 ### Explicacion Pedagogica
 Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la forma $f(x) = ax^2 + bx + c$, calculamos la coordenada de $x$ mediante la fórmula $$h = \frac{ -b }{ 2a } = \frac{ -(-8) }{ 2(1) } = 4$$. Sustituyendo este valor en la función cuadrática hallamos la coordenada de $y$: $$k = f(4) = (4)^2 + -8(4) + 26 = 16 + -32 + 26 = 10$$. Por tanto, el vértice se encuentra en $(4, 10)$.
@@ -189,9 +189,9 @@ Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la 
 $$f(x) = x^2 + -2x + 12$$
 
 ### Opciones
-- [x] A) Vértice en $(1, 11)$ <!-- feedback: Correcto. Aplicando $h = -b/(2a) = 1$ y evaluando la función $f(1) = 11$. -->
-- [ ] B) Vértice en $(-1, 11)$ <!-- feedback: Incorrecto. Error de signo en la coordenada horizontal. -->
-- [ ] C) Vértice en $(1, -11)$ <!-- feedback: Incorrecto. Error de signo en la coordenada vertical. -->
+- [x] C) Vértice en $(1, 11)$ <!-- feedback: Correcto. Aplicando $h = -b/(2a) = 1$ y evaluando la función $f(1) = 11$. -->
+- [ ] A) Vértice en $(-1, 11)$ <!-- feedback: Incorrecto. Error de signo en la coordenada horizontal. -->
+- [ ] B) Vértice en $(1, -11)$ <!-- feedback: Incorrecto. Error de signo en la coordenada vertical. -->
 - [ ] D) Vértice en $(3, 10)$ <!-- feedback: Incorrecto. Valores erróneos. -->
 
 ### Explicacion Pedagogica
@@ -211,10 +211,10 @@ Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la 
 $$f(x) = x^2 + -4x + 16$$
 
 ### Opciones
-- [x] A) Vértice en $(2, 12)$ <!-- feedback: Correcto. Aplicando $h = -b/(2a) = 2$ y evaluando la función $f(2) = 12$. -->
-- [ ] B) Vértice en $(-2, 12)$ <!-- feedback: Incorrecto. Error de signo en la coordenada horizontal. -->
-- [ ] C) Vértice en $(2, -12)$ <!-- feedback: Incorrecto. Error de signo en la coordenada vertical. -->
-- [ ] D) Vértice en $(4, 11)$ <!-- feedback: Incorrecto. Valores erróneos. -->
+- [x] D) Vértice en $(2, 12)$ <!-- feedback: Correcto. Aplicando $h = -b/(2a) = 2$ y evaluando la función $f(2) = 12$. -->
+- [ ] A) Vértice en $(-2, 12)$ <!-- feedback: Incorrecto. Error de signo en la coordenada horizontal. -->
+- [ ] B) Vértice en $(2, -12)$ <!-- feedback: Incorrecto. Error de signo en la coordenada vertical. -->
+- [ ] C) Vértice en $(4, 11)$ <!-- feedback: Incorrecto. Valores erróneos. -->
 
 ### Explicacion Pedagogica
 Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la forma $f(x) = ax^2 + bx + c$, calculamos la coordenada de $x$ mediante la fórmula $$h = \frac{ -b }{ 2a } = \frac{ -(-4) }{ 2(1) } = 2$$. Sustituyendo este valor en la función cuadrática hallamos la coordenada de $y$: $$k = f(2) = (2)^2 + -4(2) + 16 = 4 + -8 + 16 = 12$$. Por tanto, el vértice se encuentra en $(2, 12)$.
@@ -258,9 +258,9 @@ Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la 
 $$f(x) = x^2 + -8x + 30$$
 
 ### Opciones
-- [x] A) Vértice en $(4, 14)$ <!-- feedback: Correcto. Aplicando $h = -b/(2a) = 4$ y evaluando la función $f(4) = 14$. -->
-- [ ] B) Vértice en $(-4, 14)$ <!-- feedback: Incorrecto. Error de signo en la coordenada horizontal. -->
-- [ ] C) Vértice en $(4, -14)$ <!-- feedback: Incorrecto. Error de signo en la coordenada vertical. -->
+- [x] C) Vértice en $(4, 14)$ <!-- feedback: Correcto. Aplicando $h = -b/(2a) = 4$ y evaluando la función $f(4) = 14$. -->
+- [ ] A) Vértice en $(-4, 14)$ <!-- feedback: Incorrecto. Error de signo en la coordenada horizontal. -->
+- [ ] B) Vértice en $(4, -14)$ <!-- feedback: Incorrecto. Error de signo en la coordenada vertical. -->
 - [ ] D) Vértice en $(6, 13)$ <!-- feedback: Incorrecto. Valores erróneos. -->
 
 ### Explicacion Pedagogica
@@ -280,8 +280,8 @@ Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la 
 $$f(x) = x^2 + -2x + 16$$
 
 ### Opciones
-- [x] A) Vértice en $(1, 15)$ <!-- feedback: Correcto. Aplicando $h = -b/(2a) = 1$ y evaluando la función $f(1) = 15$. -->
-- [ ] B) Vértice en $(-1, 15)$ <!-- feedback: Incorrecto. Error de signo en la coordenada horizontal. -->
+- [x] B) Vértice en $(1, 15)$ <!-- feedback: Correcto. Aplicando $h = -b/(2a) = 1$ y evaluando la función $f(1) = 15$. -->
+- [ ] A) Vértice en $(-1, 15)$ <!-- feedback: Incorrecto. Error de signo en la coordenada horizontal. -->
 - [ ] C) Vértice en $(1, -15)$ <!-- feedback: Incorrecto. Error de signo en la coordenada vertical. -->
 - [ ] D) Vértice en $(3, 14)$ <!-- feedback: Incorrecto. Valores erróneos. -->
 
@@ -302,10 +302,10 @@ Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la 
 $$f(x) = x^2 + -4x + 20$$
 
 ### Opciones
-- [x] A) Vértice en $(2, 16)$ <!-- feedback: Correcto. Aplicando $h = -b/(2a) = 2$ y evaluando la función $f(2) = 16$. -->
-- [ ] B) Vértice en $(-2, 16)$ <!-- feedback: Incorrecto. Error de signo en la coordenada horizontal. -->
-- [ ] C) Vértice en $(2, -16)$ <!-- feedback: Incorrecto. Error de signo en la coordenada vertical. -->
-- [ ] D) Vértice en $(4, 15)$ <!-- feedback: Incorrecto. Valores erróneos. -->
+- [x] D) Vértice en $(2, 16)$ <!-- feedback: Correcto. Aplicando $h = -b/(2a) = 2$ y evaluando la función $f(2) = 16$. -->
+- [ ] A) Vértice en $(-2, 16)$ <!-- feedback: Incorrecto. Error de signo en la coordenada horizontal. -->
+- [ ] B) Vértice en $(2, -16)$ <!-- feedback: Incorrecto. Error de signo en la coordenada vertical. -->
+- [ ] C) Vértice en $(4, 15)$ <!-- feedback: Incorrecto. Valores erróneos. -->
 
 ### Explicacion Pedagogica
 Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la forma $f(x) = ax^2 + bx + c$, calculamos la coordenada de $x$ mediante la fórmula $$h = \frac{ -b }{ 2a } = \frac{ -(-4) }{ 2(1) } = 2$$. Sustituyendo este valor en la función cuadrática hallamos la coordenada de $y$: $$k = f(2) = (2)^2 + -4(2) + 20 = 4 + -8 + 20 = 16$$. Por tanto, el vértice se encuentra en $(2, 16)$.
@@ -368,10 +368,10 @@ Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la 
 $$f(x) = x^2 + -2x + 20$$
 
 ### Opciones
-- [x] A) Vértice en $(1, 19)$ <!-- feedback: Correcto. Aplicando $h = -b/(2a) = 1$ y evaluando la función $f(1) = 19$. -->
-- [ ] B) Vértice en $(-1, 19)$ <!-- feedback: Incorrecto. Error de signo en la coordenada horizontal. -->
-- [ ] C) Vértice en $(1, -19)$ <!-- feedback: Incorrecto. Error de signo en la coordenada vertical. -->
-- [ ] D) Vértice en $(3, 18)$ <!-- feedback: Incorrecto. Valores erróneos. -->
+- [x] D) Vértice en $(1, 19)$ <!-- feedback: Correcto. Aplicando $h = -b/(2a) = 1$ y evaluando la función $f(1) = 19$. -->
+- [ ] A) Vértice en $(-1, 19)$ <!-- feedback: Incorrecto. Error de signo en la coordenada horizontal. -->
+- [ ] B) Vértice en $(1, -19)$ <!-- feedback: Incorrecto. Error de signo en la coordenada vertical. -->
+- [ ] C) Vértice en $(3, 18)$ <!-- feedback: Incorrecto. Valores erróneos. -->
 
 ### Explicacion Pedagogica
 Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la forma $f(x) = ax^2 + bx + c$, calculamos la coordenada de $x$ mediante la fórmula $$h = \frac{ -b }{ 2a } = \frac{ -(-2) }{ 2(1) } = 1$$. Sustituyendo este valor en la función cuadrática hallamos la coordenada de $y$: $$k = f(1) = (1)^2 + -2(1) + 20 = 1 + -2 + 20 = 19$$. Por tanto, el vértice se encuentra en $(1, 19)$.
@@ -393,8 +393,8 @@ Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la 
 $$f(x) = x^2 + -4x + 24$$
 
 ### Opciones
-- [x] A) Vértice en $(2, 20)$ <!-- feedback: Correcto. Aplicando $h = -b/(2a) = 2$ y evaluando la función $f(2) = 20$. -->
-- [ ] B) Vértice en $(-2, 20)$ <!-- feedback: Incorrecto. Error de signo en la coordenada horizontal. -->
+- [x] B) Vértice en $(2, 20)$ <!-- feedback: Correcto. Aplicando $h = -b/(2a) = 2$ y evaluando la función $f(2) = 20$. -->
+- [ ] A) Vértice en $(-2, 20)$ <!-- feedback: Incorrecto. Error de signo en la coordenada horizontal. -->
 - [ ] C) Vértice en $(2, -20)$ <!-- feedback: Incorrecto. Error de signo en la coordenada vertical. -->
 - [ ] D) Vértice en $(4, 19)$ <!-- feedback: Incorrecto. Valores erróneos. -->
 
@@ -437,10 +437,10 @@ Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la 
 $$f(x) = x^2 + -8x + 38$$
 
 ### Opciones
-- [x] A) Vértice en $(4, 22)$ <!-- feedback: Correcto. Aplicando $h = -b/(2a) = 4$ y evaluando la función $f(4) = 22$. -->
-- [ ] B) Vértice en $(-4, 22)$ <!-- feedback: Incorrecto. Error de signo en la coordenada horizontal. -->
-- [ ] C) Vértice en $(4, -22)$ <!-- feedback: Incorrecto. Error de signo en la coordenada vertical. -->
-- [ ] D) Vértice en $(6, 21)$ <!-- feedback: Incorrecto. Valores erróneos. -->
+- [x] D) Vértice en $(4, 22)$ <!-- feedback: Correcto. Aplicando $h = -b/(2a) = 4$ y evaluando la función $f(4) = 22$. -->
+- [ ] A) Vértice en $(-4, 22)$ <!-- feedback: Incorrecto. Error de signo en la coordenada horizontal. -->
+- [ ] B) Vértice en $(4, -22)$ <!-- feedback: Incorrecto. Error de signo en la coordenada vertical. -->
+- [ ] C) Vértice en $(6, 21)$ <!-- feedback: Incorrecto. Valores erróneos. -->
 
 ### Explicacion Pedagogica
 Para determinar las coordenadas del vértice $(h, k)$ de una parábola de la forma $f(x) = ax^2 + bx + c$, calculamos la coordenada de $x$ mediante la fórmula $$h = \frac{ -b }{ 2a } = \frac{ -(-8) }{ 2(1) } = 4$$. Sustituyendo este valor en la función cuadrática hallamos la coordenada de $y$: $$k = f(4) = (4)^2 + -8(4) + 38 = 16 + -32 + 38 = 22$$. Por tanto, el vértice se encuentra en $(4, 22)$.
@@ -459,9 +459,9 @@ Encuentra las coordenadas del vértice $(h, k)$ de la parábola definida por la 
 $$f(x) = x^2 + -2x + 24$$
 
 ### Opciones
-- [x] A) Vértice en $(1, 23)$ <!-- feedback: Correcto. Aplicando $h = -b/(2a) = 1$ y evaluando la función $f(1) = 23$. -->
-- [ ] B) Vértice en $(-1, 23)$ <!-- feedback: Incorrecto. Error de signo en la coordenada horizontal. -->
-- [ ] C) Vértice en $(1, -23)$ <!-- feedback: Incorrecto. Error de signo en la coordenada vertical. -->
+- [x] C) Vértice en $(1, 23)$ <!-- feedback: Correcto. Aplicando $h = -b/(2a) = 1$ y evaluando la función $f(1) = 23$. -->
+- [ ] A) Vértice en $(-1, 23)$ <!-- feedback: Incorrecto. Error de signo en la coordenada horizontal. -->
+- [ ] B) Vértice en $(1, -23)$ <!-- feedback: Incorrecto. Error de signo en la coordenada vertical. -->
 - [ ] D) Vértice en $(3, 22)$ <!-- feedback: Incorrecto. Valores erróneos. -->
 
 ### Explicacion Pedagogica

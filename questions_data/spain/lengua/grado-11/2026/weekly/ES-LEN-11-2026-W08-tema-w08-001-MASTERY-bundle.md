@@ -33,13 +33,13 @@ Este bundle contiene 20 preguntas sobre las características de los textos cient
 ¿Qué cuatro requisitos o principios metodológicos debe reunir de forma obligatoria un texto de base científico-técnica?
 
 ### Opciones
-- [x] A) Objetividad (neutralidad), universalidad (validez internacional), verificabilidad (pruebas demostrables) y precisión (claridad unívoca).
+- [x] D) Objetividad (neutralidad), universalidad (validez internacional), verificabilidad (pruebas demostrables) y precisión (claridad unívoca).
   <!-- feedback: Correcto. El discurso científico se fundamenta de forma indispensable sobre estos cuatro pilares para garantizar el rigor y la transmisión exacta de conocimientos. -->
-- [ ] B) Subjetividad lírica, rima asonante obligatoria, elipsis temporal gaditana y suspense policial.
+- [ ] A) Subjetividad lírica, rima asonante obligatoria, elipsis temporal gaditana y suspense policial.
   <!-- feedback: Incorrecto. Estas son características del género lírico y narrativo de ficción literaria, totalmente opuestas al rigor de la ciencia. -->
-- [ ] C) El laísmo geográfico, el uso exclusivo del latín medieval forense de Doñana y la diglosia.
+- [ ] B) El laísmo geográfico, el uso exclusivo del latín medieval forense de Doñana y la diglosia.
   <!-- feedback: Incorrecto. Ninguna de estas anomalías o fenómenos sociolingüísticos compone un requisito del método científico. -->
-- [ ] D) Se limita únicamente a poseer fórmulas matemáticas de bajo nivel de éxito en Madrid.
+- [ ] C) Se limita únicamente a poseer fórmulas matemáticas de bajo nivel de éxito en Madrid.
   <!-- feedback: Incorrecto. Se sirve del lenguaje verbal combinando tecnicismos y códigos complementarios estructurados de forma racional. -->
 
 ### Explicacion Pedagogica
@@ -81,9 +81,9 @@ Los textos humanísticos pertenecen al ámbito de las ciencias humanas (filosof�
 ¿Cómo se define lingüísticamente esta propiedad semántica exigida en la terminología científica?
 
 ### Opciones
-- [x] A) Monosemia, que asocia un único significado preciso a cada significante, garantizando la denotación exacta y desterrando la ambigüedad connotativa.
+- [x] B) Monosemia, que asocia un único significado preciso a cada significante, garantizando la denotación exacta y desterrando la ambigüedad connotativa.
   <!-- feedback: Correcto. La monosemia (un significante = un significado único) es indispensable en la ciencia para garantizar que los investigadores de todo el mundo comprendan exactamente lo mismo (denotación pura). -->
-- [ ] B) Polisemia lírica, que busca sembrar el texto de múltiples sentidos poéticos misteriosos para confundir al lector.
+- [ ] A) Polisemia lírica, que busca sembrar el texto de múltiples sentidos poéticos misteriosos para confundir al lector.
   <!-- feedback: Incorrecto. La polisemia y la connotación son recursos de la literatura estética, contraproducentes en la transmisión del saber científico unívoco. -->
 - [ ] C) Dequeísmo léxico de carácter obligatorio en las zonas bilingües de España.
   <!-- feedback: Incorrecto. El dequeísmo es un vicio sintáctico, sin relación con la precisión semántica monosémica de los tecnicismos. -->
@@ -105,13 +105,13 @@ Frente al lenguaje literario (que explota la polisemia y los significados connot
 ¿Qué define formalmente al 'ensayo literario' como género humanístico híbrido?
 
 ### Opciones
-- [x] A) La combinación libre de la exposición racional de ideas y la argumentación subjetiva de una tesis, con una cuidada elaboración estilística literaria y carácter divulgativo.
+- [x] D) La combinación libre de la exposición racional de ideas y la argumentación subjetiva de una tesis, con una cuidada elaboración estilística literaria y carácter divulgativo.
   <!-- feedback: Correcto. El ensayo destaca por su carácter híbrido: conjuga el rigor conceptual y la argumentación lógica con la voluntad artística de estilo lírico o literario, sin pretender dar una verdad científica inmutable y cerrada. -->
-- [ ] B) La obligación de escribir toda la argumentación rimando asonantemente los sustantivos propios de Barcelona.
+- [ ] A) La obligación de escribir toda la argumentación rimando asonantemente los sustantivos propios de Barcelona.
   <!-- feedback: Incorrecto. El ensayo se escribe en prosa fluida e intelectual, desprovisto de rimas obligatorias de carácter poético medieval. -->
-- [ ] C) Consistir en un bando municipal de obligada obediencia dictado por el Ayuntamiento de Madrid.
+- [ ] B) Consistir en un bando municipal de obligada obediencia dictado por el Ayuntamiento de Madrid.
   <!-- feedback: Incorrecto. Es un texto libre, abierto y especulativo, no una orden administrativa coercitiva municipal. -->
-- [ ] D) Un loísmo pronominal de persona de bajo nivel de éxito en Doñana.
+- [ ] C) Un loísmo pronominal de persona de bajo nivel de éxito en Doñana.
   <!-- feedback: Incorrecto. Carece de relación con anomalías pronominales de objeto directo masculino. -->
 
 ### Explicacion Pedagogica
@@ -129,13 +129,13 @@ El ensayo es el género literario-humanístico por excelencia. Su flexibilidad f
 Analiza las palabras destacadas en el texto y determina a qué categoría semántica pertenecen en el marco del discurso humanístico.
 
 ### Opciones
-- [x] A) Sustantivos abstractos, indispensables en el discurso de las ciencias humanas para sustentar la especulación filosófica y conceptual.
+- [x] D) Sustantivos abstractos, indispensables en el discurso de las ciencias humanas para sustentar la especulación filosófica y conceptual.
   <!-- feedback: Correcto. Palabras como 'modernidad', 'individualidad', 'racionalidad' y 'subjetividad' son sustantivos abstractos que materializan conceptos ideológicos abstractos complejos indispensables para el ensayo. -->
-- [ ] B) Tecnicismos químicos denotativos que describen gases nobles en el laboratorio.
+- [ ] A) Tecnicismos químicos denotativos que describen gases nobles en el laboratorio.
   <!-- feedback: Incorrecto. Son conceptos filosóficos de índole social y moral, ajenos a la terminología material de la física o química orgánica. -->
-- [ ] C) Vulgarismos morfológicos rechazados de forma tajante por la Real Academia Española.
+- [ ] B) Vulgarismos morfológicos rechazados de forma tajante por la Real Academia Española.
   <!-- feedback: Incorrecto. Son sustantivos abstractos cultos, correctos y estandarizados del léxico del español estándar de España. -->
-- [ ] D) Pronombres átonos con función sintáctica de complemento indirecto de Toledo.
+- [ ] C) Pronombres átonos con función sintáctica de complemento indirecto de Toledo.
   <!-- feedback: Incorrecto. Son sustantivos comunes abstractos y no pronombres personales átonos de tercera persona. -->
 
 ### Explicacion Pedagogica
@@ -153,11 +153,11 @@ El texto humanístico (especialmente el filosófico y sociológico) destaca por 
 ¿Qué papel cumplen estos recursos gráficos en relación con el texto expositivo-científico principal?
 
 ### Opciones
-- [x] A) Códigos no verbales complementarios que apoyan de manera indispensable la universalidad, claridad y precisión fáctica de la explicación verbal.
+- [x] C) Códigos no verbales complementarios que apoyan de manera indispensable la universalidad, claridad y precisión fáctica de la explicación verbal.
   <!-- feedback: Correcto. Los gráficos, mapas, fórmulas y tablas son códigos no verbales integrados en el texto científico-técnico que asisten visualmente al anclaje y veracidad de la información verbal. -->
-- [ ] B) Elementos estéticos de adorno poético para distraer al lector científico del aburrimiento de Madrid.
+- [ ] A) Elementos estéticos de adorno poético para distraer al lector científico del aburrimiento de Madrid.
   <!-- feedback: Incorrecto. Tienen un fin estrictamente racional, informativo y metodológico, lejano al adorno poético lírico caprichoso. -->
-- [ ] C) Demostrar que los físicos del CSIC carecen de competencia para redactar palabras en castellano.
+- [ ] B) Demostrar que los físicos del CSIC carecen de competencia para redactar palabras en castellano.
   <!-- feedback: Incorrecto. El lenguaje verbal y los gráficos coexisten para potenciar el rigor explicativo de la ciencia moderna multimodal. -->
 - [ ] D) Un laísmo de cosa andaluz aceptado en el parlamento de España.
   <!-- feedback: Incorrecto. No hay ninguna vinculación con anomalías de pronombres átonos de objeto directo o indirecto. -->
@@ -177,11 +177,11 @@ La literatura científica y técnica es multimodal. Los códigos no verbales (ic
 ¿Qué principio característico del discurso de la ciencia se ilustra en este hecho?
 
 ### Opciones
-- [x] A) Universalidad, que asegura la validez internacional de los conocimientos científicos mediante códigos simbólicos compartidos por encima de las barreras de los idiomas locales.
+- [x] C) Universalidad, que asegura la validez internacional de los conocimientos científicos mediante códigos simbólicos compartidos por encima de las barreras de los idiomas locales.
   <!-- feedback: Correcto. El principio de universalidad de la ciencia se plasma en el uso de nomenclaturas estandarizadas internacionales y fórmulas matemáticas/químicas que aseguran que el saber se comparta unánimemente en todo el mundo. -->
-- [ ] B) Diglosia científica regional que discrimina a los médicos que hablen aragonés.
+- [ ] A) Diglosia científica regional que discrimina a los médicos que hablen aragonés.
   <!-- feedback: Incorrecto. La universalidad científica persigue la unificación del saber global y no la discriminación o asimetría social de dialectos locales de España. -->
-- [ ] C) Un leísmo sintáctico de cosa provocado por los átomos de oxígeno.
+- [ ] B) Un leísmo sintáctico de cosa provocado por los átomos de oxígeno.
   <!-- feedback: Incorrecto. Es un suceso metodológico internacional y no una anomalía morfosintáctica pronominal del castellano de Madrid. -->
 - [ ] D) Seseo de las fórmulas químicas que deforma la pronunciación del carbono.
   <!-- feedback: Incorrecto. Las fórmulas químicas no se pronuncian con fonemas dialectales de seseo o ceceo; se escriben como símbolos universales de la tabla periódica. -->
@@ -201,13 +201,13 @@ La universalidad es una de las señas de identidad de las ciencias. El uso de la
 ¿Qué función del lenguaje es la que justifica la objetividad y denotación pura de este texto arqueológico?
 
 ### Opciones
-- [x] A) Función representativa o referencial, orientada de forma directa al referente u objeto de la realidad externa de forma unívoca y neutral.
+- [x] D) Función representativa o referencial, orientada de forma directa al referente u objeto de la realidad externa de forma unívoca y neutral.
   <!-- feedback: Correcto. El discurso científico paleontológico prioriza la función representativa o referencial para plasmar de forma objetiva y neutra las características reales de los cráneos fosilizados hallados. -->
-- [ ] B) Función poética de la Generación del 27 para cantar al alma de los cráneos de Burgos.
+- [ ] A) Función poética de la Generación del 27 para cantar al alma de los cráneos de Burgos.
   <!-- feedback: Incorrecto. Los cráneos fósiles se describen con rigor biológico, anatómico e histórico, ausente de propósitos líricos estéticos líricos caprichosos. -->
-- [ ] C) Función metalingüística para regular las leyes de conjugación del verbo transitivo 'hallar'.
+- [ ] B) Función metalingüística para regular las leyes de conjugación del verbo transitivo 'hallar'.
   <!-- feedback: Incorrecto. No se hace análisis gramatical ni ortográfico del verbo; se describe un yacimiento prehistórico real. -->
-- [ ] D) Función fática para asegurar que los teléfonos móviles del yacimiento tengan cobertura.
+- [ ] C) Función fática para asegurar que los teléfonos móviles del yacimiento tengan cobertura.
   <!-- feedback: Incorrecto. No comprueba el estado físico del canal comunicativo de telefonía; describe restos fósiles. -->
 
 ### Explicacion Pedagogica
@@ -225,13 +225,13 @@ En el discurso científico-técnico (paleontología, geología), la función dom
 Analiza y clasifica la tipología de ambos escritos de acuerdo con su finalidad discursiva.
 
 ### Opciones
-- [x] A) El Texto A es una narración subjetiva con fuerte carga expresiva personal; el Texto B es un texto historiográfico de base expositiva-explicativa con fin de divulgación objetiva.
+- [x] D) El Texto A es una narración subjetiva con fuerte carga expresiva personal; el Texto B es un texto historiográfico de base expositiva-explicativa con fin de divulgación objetiva.
   <!-- feedback: Correcto. El diario del soldado francés (A) es subjetivo y emotivo (diario de memorias); el manual escolar (B) es un texto expositivo-explicativo con fin docente objetivo y riguroso de divulgación histórica. -->
-- [ ] B) Ambos son textos de física cuántica de la LOMLOE para la venta de material de guerra en Soria.
+- [ ] A) Ambos son textos de física cuántica de la LOMLOE para la venta de material de guerra en Soria.
   <!-- feedback: Incorrecto. Tratan sobre historia contemporánea de España y no sobre física cuántica en laboratorios. -->
-- [ ] C) El Texto B es una caricatura satírica madrileña del siglo XIX.
+- [ ] B) El Texto B es una caricatura satírica madrileña del siglo XIX.
   <!-- feedback: Incorrecto. Es un texto docente riguroso y objetivo de historia, opuesto a caricaturas satíricas grotescas. -->
-- [ ] D) Se diferencian porque el Texto A incurre de forma obligatoria en dequeísmo de objeto directo.
+- [ ] C) Se diferencian porque el Texto A incurre de forma obligatoria en dequeísmo de objeto directo.
   <!-- feedback: Incorrecto. Ambos textos pueden estar perfectamente escritos y respetar el régimen preposicional estándar del castellano. -->
 
 ### Explicacion Pedagogica
@@ -273,13 +273,13 @@ Las lenguas humanas forman sus tecnicismos recurriendo de forma habitual a forma
 Analiza estilística y sintácticamente el papel de las nominalizaciones destacadas en este fragmento.
 
 ### Opciones
-- [x] A) Uso del estilo nominal, que sustituye las acciones de los verbos por densos sintagmas nominales complejos ('implantación', 'automatización', 'transformación') para dotar de carácter abstracto y estático a la explicación sociológica.
+- [x] D) Uso del estilo nominal, que sustituye las acciones de los verbos por densos sintagmas nominales complejos ('implantación', 'automatización', 'transformación') para dotar de carácter abstracto y estático a la explicación sociológica.
   <!-- feedback: Correcto. El estilo nominal densifica la prosa humanística y científica, transformando verbos dinámicos en sustantivos abstractos complejos para facilitar la formulación de teorías sociales. -->
-- [ ] B) Uso del estilo verbal dinámico que acelera el ritmo dramático de las comisarías de Barcelona.
+- [ ] A) Uso del estilo verbal dinámico que acelera el ritmo dramático de las comisarías de Barcelona.
   <!-- feedback: Incorrecto. Al contrario, el estilo nominal ralentiza la acción verbal convirtiéndola en conceptos estáticos teóricos. -->
-- [ ] C) Un leísmo de cosa andaluz que altera la concordancia gramatical del género.
+- [ ] B) Un leísmo de cosa andaluz que altera la concordancia gramatical del género.
   <!-- feedback: Incorrecto. No tiene ninguna relación con vicios pronominales de objeto directo masculino átono. -->
-- [ ] D) Un dequeísmo sintáctico de tipo condicional canario de la RAE.
+- [ ] C) Un dequeísmo sintáctico de tipo condicional canario de la RAE.
   <!-- feedback: Incorrecto. El fragmento es morfosintácticamente impecable y carece de errores de régimen preposicional. -->
 
 ### Explicacion Pedagogica
@@ -321,11 +321,11 @@ El ensayo literario es un género humanístico singular. A diferencia de la mono
 Analiza la función y justificación estilística de emplear la primera persona del plural ('Creemos') en lugar de la primera persona del singular ('Creo').
 
 ### Opciones
-- [x] A) Plural de modestia o asociativo, utilizado por el investigador para atenuar la egolatría de la primera persona del singular e incluir de forma deíctica a su equipo de colaboradores.
+- [x] C) Plural de modestia o asociativo, utilizado por el investigador para atenuar la egolatría de la primera persona del singular e incluir de forma deíctica a su equipo de colaboradores.
   <!-- feedback: Correcto. El plural de modestia ('creemos', 'observamos') es habitual en la prosa científica y académica de España para atenuar el yo individual e incorporar de forma deíctica al equipo o al lector en el razonamiento. -->
-- [ ] B) Un error de concordancia número-personal de los investigadores de Sevilla por no estudiar bachillerato.
+- [ ] A) Un error de concordancia número-personal de los investigadores de Sevilla por no estudiar bachillerato.
   <!-- feedback: Incorrecto. Es un recurso estilístico plenamente correcto, consciente y normativo de la retórica académica científica mundial. -->
-- [ ] C) Un dequeísmo de modestia provocado por omitir la preposición 'de' antes de 'que'.
+- [ ] B) Un dequeísmo de modestia provocado por omitir la preposición 'de' antes de 'que'.
   <!-- feedback: Incorrecto. La construcción 'creemos que' es correcta; 'creer de que' sería dequeísmo. Aquí se halla bien construida. -->
 - [ ] D) Se debe a una estricta imposición de la RAE que prohíbe de forma terminante usar el singular en Madrid.
   <!-- feedback: Incorrecto. La RAE no prohíbe el singular; el plural de modestia es una opción de cortesía y estilo académico libre. -->
@@ -345,11 +345,11 @@ El plural de modestia ('planteamos', 'analizamos') es un recurso pragmático tra
 Analiza la función sintáctica de la proposición subordinada adjetiva 'que es una roca ígnea de origen volcánico rica en silicato de magnesio' destacada en el texto.
 
 ### Opciones
-- [x] A) Proposición subordinada adjetiva explicativa, que aporta una aclaración de carácter técnico entre comas, con función de adyacente del sustantivo basalto.
+- [x] C) Proposición subordinada adjetiva explicativa, que aporta una aclaración de carácter técnico entre comas, con función de adyacente del sustantivo basalto.
   <!-- feedback: Correcto. Al ir entre comas, la subordinada adjetiva funciona como explicativa, agregando información aclaratoria técnica indispensable para definir con precisión la naturaleza del basalto. -->
-- [ ] B) Proposición subordinada sustantiva en función de complemento directo loísta de Valencia.
+- [ ] A) Proposición subordinada sustantiva en función de complemento directo loísta de Valencia.
   <!-- feedback: Incorrecto. Es una subordinada adjetiva (o de relativo) que modifica al antecedente nominal 'basalto', sin relación con loísmo o sustantivos de objeto directo. -->
-- [ ] C) Proposición subordinada condicional que anula el movimiento volcánico de Valencia.
+- [ ] B) Proposición subordinada condicional que anula el movimiento volcánico de Valencia.
   <!-- feedback: Incorrecto. No introduce ninguna hipótesis de futuro, ofrece una definición científica explicativa del mineral real. -->
 - [ ] D) Un marcador discursivo que introduce una digresión poética sobre el mar de Alicante.
   <!-- feedback: Incorrecto. La subordinada adjetiva explicativa mantiene una estrecha relación semántica con el antecedente de geología, libre de digresiones. -->
@@ -369,13 +369,13 @@ En el discurso científico y técnico, las subordinadas adjetivas explicativas o
 Analiza semántica y normativamente el estatus de estos vocablos y la recomendación oficial de la RAE ante los mismos.
 
 ### Opciones
-- [x] A) Anglicismos y extranjerismos crudos; la RAE recomienda evitar su abuso y sustituirlos por equivalentes castellanos tradicionales como 'en línea', 'influyente' e 'retroalimentación', o escribirlos en cursiva si son indispensables.
+- [x] D) Anglicismos y extranjerismos crudos; la RAE recomienda evitar su abuso y sustituirlos por equivalentes castellanos tradicionales como 'en línea', 'influyente' e 'retroalimentación', o escribirlos en cursiva si son indispensables.
   <!-- feedback: Correcto. Los extranjerismos crudos ('online', 'influencer') son préstamos sin adaptar. La RAE aboga por usar las alternativas españolas existentes y, si se usan de forma forzada, escribirlos en cursiva para marcar el código extraño. -->
-- [ ] B) Son palabras patrimoniales de evolución fonética directa del latín vulgar de Soria.
+- [ ] A) Son palabras patrimoniales de evolución fonética directa del latín vulgar de Soria.
   <!-- feedback: Incorrecto. Provienen del inglés tecnológico estadounidense de reciente incorporación masiva, sin etimología latina patrimonial. -->
-- [ ] C) Son vulgarismos fonéticos desaconsejados cometidos por los jóvenes en el metro de Madrid.
+- [ ] B) Son vulgarismos fonéticos desaconsejados cometidos por los jóvenes en el metro de Madrid.
   <!-- feedback: Incorrecto. Son extranjerismos del inglés de uso formal y coloquial, ajenos a vulgarismos o errores de gramática castellana. -->
-- [ ] D) La RAE obliga por ley a tildar todas las sílabas átonas de estas palabras inglesas.
+- [ ] C) La RAE obliga por ley a tildar todas las sílabas átonas de estas palabras inglesas.
   <!-- feedback: Incorrecto. Las palabras extranjeras crudas se escriben según su grafía de origen en cursiva o comillas, sin aplicar las reglas de acentuación del español. -->
 
 ### Explicacion Pedagogica
@@ -417,9 +417,9 @@ Los textos de carácter humanístico y ensayístico utilizan con gran frecuencia
 Realiza una evaluación crítica de la idoneidad pragmática de este texto como examen para alumnos de 2º de Bachillerato bajo la LOMLOE.
 
 ### Opciones
-- [x] A) Es inadecuado y deficiente, ya que la excesiva complejidad sintáctica y la opacidad terminológica artificial de la traducción sabotean la claridad y el principio de adecuación, impidiendo que el estudiante demuestre con justicia su competencia de análisis crítico.
+- [x] B) Es inadecuado y deficiente, ya que la excesiva complejidad sintáctica y la opacidad terminológica artificial de la traducción sabotean la claridad y el principio de adecuación, impidiendo que el estudiante demuestre con justicia su competencia de análisis crítico.
   <!-- feedback: Correcto. Un texto de examen EBAU debe ser complejo pero legible y adecuado a la edad de los estudiantes. La opacidad artificial y la traducción deficiente sabotean la comprensión, haciendo fracasar la evaluación objetiva de la competencia del alumno. -->
-- [ ] B) Es adecuado, ya que los alumnos de Madrid deben de suspender de forma masiva los exámenes de selectividad para garantizar la pureza del idioma.
+- [ ] A) Es adecuado, ya que los alumnos de Madrid deben de suspender de forma masiva los exámenes de selectividad para garantizar la pureza del idioma.
   <!-- feedback: Incorrecto. El fin de las pruebas educativas es evaluar con justicia las competencias del bachiller, no provocar suspensos injustificados mediante textos opacos o defectuosos. -->
 - [ ] C) Demuestra un excelente uso del leísmo de persona directo en las comisarías madrileñas.
   <!-- feedback: Incorrecto. Es un problema pragmático y sintáctico de legibilidad de un ensayo, ajeno a pronombres átonos de acusativo de persona. -->
@@ -441,11 +441,11 @@ La claridad y el respeto al receptor son exigencias transversales de la comunica
 Evalúa de manera crítica la validez científica del fragmento anterior a partir de los principios metodológicos del discurso científico-técnico.
 
 ### Opciones
-- [x] A) Carece por completo de validez científica, al violar los principios de objetividad, verificabilidad y precisión denotativa. Es un texto de carácter pseudocientífico o esotérico que recurre de forma engañosa a palabras técnicas ('molecular', 'cerebro') para disfrazar su falta de rigor empírico.
+- [x] C) Carece por completo de validez científica, al violar los principios de objetividad, verificabilidad y precisión denotativa. Es un texto de carácter pseudocientífico o esotérico que recurre de forma engañosa a palabras técnicas ('molecular', 'cerebro') para disfrazar su falta de rigor empírico.
   <!-- feedback: Correcto. El fragmento es pseudociencia. Viola las exigencias metodológicas del discurso de la ciencia (verificabilidad experimental y neutralidad objetiva), usando de forma fraudulenta tecnicismos científicos para vestir de rigor una superstición. -->
-- [ ] B) Es un artículo científico excelente avalado por la Real Academia Española de la Ciencia de Doñana.
+- [ ] A) Es un artículo científico excelente avalado por la Real Academia Española de la Ciencia de Doñana.
   <!-- feedback: Incorrecto. La RAE y las academias científicas rechazan de forma tajante supersticiones y mitos carentes de contraste experimental en laboratorios científicos. -->
-- [ ] C) Demuestra un uso brillante del presente atemporal de indicativo para curar la calvicie de los científicos de España.
+- [ ] B) Demuestra un uso brillante del presente atemporal de indicativo para curar la calvicie de los científicos de España.
   <!-- feedback: Incorrecto. Usar verbos en presente de indicativo no convalida científicamente una mentira; la falsedad lógica y la falta de pruebas anulan su validez de base científica. -->
 - [ ] D) Es correcto porque las leyes de la LOMLOE obligan a los científicos a estudiar astrología medieval de Toledo.
   <!-- feedback: Incorrecto. Ningún programa educativo oficial ampara la astrología esotérica en detrimento de la astronomía y la física rigurosa moderna. -->
@@ -465,11 +465,11 @@ La ciencia se define por sus exigencias metodológicas. Un enunciado que afirme 
 Evalúa críticamente la neutralidad y el rigor historiográfico de este fragmento como texto expositivo-explicativo académico.
 
 ### Opciones
-- [x] A) Carece de rigor historiográfico objetivo, al incurrir en un grave sesgo de opinión subjetivo mediante el uso de léxico valorativo y peyorativo ('heroísmo', 'valientes', 'cobardía', 'masas analfabetas') que contraviene la neutralidad denotativa exigida en la historiografía científica contemporánea.
+- [x] C) Carece de rigor historiográfico objetivo, al incurrir en un grave sesgo de opinión subjetivo mediante el uso de léxico valorativo y peyorativo ('heroísmo', 'valientes', 'cobardía', 'masas analfabetas') que contraviene la neutralidad denotativa exigida en la historiografía científica contemporánea.
   <!-- feedback: Correcto. La historiografía académica formal exige neutralidad, objetividad y un análisis multicausal de los procesos históricos. El uso de adjetivación descalificativa sesgada y leyendas maniqueas arruina la neutralidad científica del escrito. -->
-- [ ] B) Es una descripción científica de impecable rigor forense idónea para los libros escolares del Ayuntamiento de Sevilla.
+- [ ] A) Es una descripción científica de impecable rigor forense idónea para los libros escolares del Ayuntamiento de Sevilla.
   <!-- feedback: Incorrecto. Un libro escolar de historia debe fundarse en el rigor multicausal, libre de insultos colectivos o sesgos maniqueos teatrales. -->
-- [ ] C) Es correcto porque los nobles de la Transición Española de 1978 dictaron la gramática prescriptiva de la RAE.
+- [ ] B) Es correcto porque los nobles de la Transición Española de 1978 dictaron la gramática prescriptiva de la RAE.
   <!-- feedback: Incorrecto. La gramática académica es coordinada por filólogos y lexicógrafos, desvinculada del supuesto heroísmo nobiliario de la Transición. -->
 - [ ] D) Se devalúa porque comete un loísmo pronominal involuntario de la Transición Española.
   <!-- feedback: Incorrecto. No tiene relación con confusiones pronominales átonas; es un error y sesgo severo de objetividad e ideología historiográfica. -->
@@ -489,11 +489,11 @@ El discurso historiográfico exige un análisis multicausal científico y neutra
 Evalúa críticamente la afirmación del corrector de estilo a partir de las exigencias del léxico de especialidad médico en castellano.
 
 ### Opciones
-- [x] A) La afirmación es correcta, ya que la traducción literal incurre en un error semántico grave; en el léxico médico de España 'stroke' debe traducirse de forma precisa como 'accidente cerebrovascular', 'ictus' o 'derrame cerebral', y 'severe' debe adaptarse como 'grave' según la norma culta académica.
+- [x] C) La afirmación es correcta, ya que la traducción literal incurre en un error semántico grave; en el léxico médico de España 'stroke' debe traducirse de forma precisa como 'accidente cerebrovascular', 'ictus' o 'derrame cerebral', y 'severe' debe adaptarse como 'grave' según la norma culta académica.
   <!-- feedback: Correcto. 'Severe stroke' traducido como 'golpe severo' es una inadecuación semántica intolerable en medicina. El término técnico denotativo preciso en español es 'ictus', 'accidente cerebrovascular' o 'derrame', y 'severe' equivale normativamente a 'grave' en el ámbito de la salud de España. -->
-- [ ] B) La traducción literal es perfecta, ya que el paciente sufrió un golpe físico del sol de Zaragoza de forma matemática.
+- [ ] A) La traducción literal es perfecta, ya que el paciente sufrió un golpe físico del sol de Zaragoza de forma matemática.
   <!-- feedback: Incorrecto. 'Stroke' en medicina es un accidente cerebrovascular y no un traumatismo físico externo por golpe o insolación climatológica. -->
-- [ ] C) La afirmación es errónea porque el latín de la RAE obliga a traducir todas las palabras en inglés mediante metáforas de repostería del Pirineo.
+- [ ] B) La afirmación es errónea porque el latín de la RAE obliga a traducir todas las palabras en inglés mediante metáforas de repostería del Pirineo.
   <!-- feedback: Incorrecto. Las traducciones médicas exigen el uso de tecnicismos normalizados de la medicina, libres de metáforas de repostería. -->
 - [ ] D) Se devalúa la crítica del corrector de Zaragoza porque la mitosis exige de forma indispensable el uso de la palabra 'stroke' en los centros de salud.
   <!-- feedback: Incorrecto. La mitosis es un proceso biológico celular microscópico, totalmente independiente de la patología vascular de un ictus adulto. -->

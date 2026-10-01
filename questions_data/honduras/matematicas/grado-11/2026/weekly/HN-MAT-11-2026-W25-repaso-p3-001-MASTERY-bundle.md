@@ -40,9 +40,9 @@ Si un saco de café pesa 45.5 kg y el comerciante tiene 12 sacos, ¿cuál es el 
   <!-- feedback: Incorrecto. Olvidaste multiplicar por el decimal 0.5. -->
 - [ ] B) 545.5 kg
   <!-- feedback: Incorrecto. Simplemente sumaste 12 al peso de un saco. -->
-- [x] C) 546.0 kg
+- [x] D) 546.0 kg
   <!-- feedback: ¡Correcto! 45.5 x 12 = 546. -->
-- [ ] D) 556.0 kg
+- [ ] C) 556.0 kg
   <!-- feedback: Incorrecto. Error en el acarreo de la multiplicación. -->
 
 ### Explicacion Pedagogica
@@ -63,11 +63,11 @@ La tarifa eléctrica es de L. 4.50 por kWh. Si la familia consumió 280 kWh en e
 ### Opciones
 - [ ] A) L. 1,120
   <!-- feedback: Incorrecto. Multiplicaste por 4 en lugar de 4.5. -->
-- [x] B) L. 1,260
+- [x] D) L. 1,260
   <!-- feedback: ¡Correcto! 280 x 4.5 = 1,260. -->
-- [ ] C) L. 1,350
+- [ ] B) L. 1,350
   <!-- feedback: Incorrecto. Error en la operación aritmética. -->
-- [ ] D) L. 1,400
+- [ ] C) L. 1,400
   <!-- feedback: Incorrecto. Multiplicaste por 5 en lugar de 4.5. -->
 
 ### Explicacion Pedagogica
@@ -88,9 +88,9 @@ En un mapa a escala 1:500,000, la distancia entre dos ciudades es de 6 cm. ¿Cu�
 ### Opciones
 - [ ] A) 3 km
   <!-- feedback: Incorrecto. Error en la conversión de unidades de cm a km. -->
-- [x] B) 30 km
+- [x] C) 30 km
   <!-- feedback: ¡Correcto! 6 * 500,000 cm = 3,000,000 cm = 30 km. -->
-- [ ] C) 300 km
+- [ ] B) 300 km
   <!-- feedback: Incorrecto. Agregaste un cero de más en la conversión. -->
 - [ ] D) 3,000 km
   <!-- feedback: Incorrecto. Error grave de escala. -->
@@ -113,11 +113,11 @@ El terreno tiene un largo de 150 metros y un ancho de 80 metros. ¿Cuántos metr
 ### Opciones
 - [ ] A) 230 m
   <!-- feedback: Incorrecto. Solo sumaste el largo y el ancho una vez. -->
-- [x] B) 460 m
+- [x] D) 460 m
   <!-- feedback: ¡Correcto! P = 2(150) + 2(80) = 300 + 160 = 460. -->
-- [ ] C) 12,000 m
+- [ ] B) 12,000 m
   <!-- feedback: Incorrecto. Calculaste el área, no el perímetro. -->
-- [ ] D) 400 m
+- [ ] C) 400 m
   <!-- feedback: Incorrecto. Error en la suma de los lados. -->
 
 ### Explicacion Pedagogica
@@ -136,9 +136,9 @@ El perímetro de un rectángulo se calcula sumando dos veces el largo y dos vece
 Un televisor cuesta L. 8,400 pero tiene un descuento del 15%. ¿Cuál es el precio final del televisor?
 
 ### Opciones
-- [ ] A) L. 7,410
+- [ ] B) L. 7,410
   <!-- feedback: Incorrecto. Error en la resta o en el cálculo del descuento. -->
-- [x] B) L. 7,140
+- [x] A) L. 7,140
   <!-- feedback: ¡Correcto! El 15% de 8,400 es 1,260. 8,400 - 1,260 = 7,140. -->
 - [ ] C) L. 1,260
   <!-- feedback: Incorrecto. Este es el valor del descuento, no el precio final. -->
@@ -163,9 +163,9 @@ La población inicial es de 500 bacterias y se duplica cada 3 horas. ¿Cuántas 
 ### Opciones
 - [ ] A) 1,500
   <!-- feedback: Incorrecto. Multiplicaste por 3 en lugar de usar potencia de 2. -->
-- [ ] B) 2,000
+- [ ] C) 2,000
   <!-- feedback: Incorrecto. Solo duplicaste dos veces. -->
-- [x] C) 4,000
+- [x] B) 4,000
   <!-- feedback: ¡Correcto! En 9 horas hay 3 periodos de duplicación. 500 * 2^3 = 500 * 8 = 4,000. -->
 - [ ] D) 4,500
   <!-- feedback: Incorrecto. Error en el cálculo exponencial. -->
@@ -188,11 +188,11 @@ Se invierten L. 10,000 a una tasa de interés simple anual del 8%. ¿Cuánto int
 ### Opciones
 - [ ] A) L. 800
   <!-- feedback: Incorrecto. Solo calculaste el interés de un año. -->
-- [x] B) L. 1,600
+- [x] D) L. 1,600
   <!-- feedback: ¡Correcto! I = C * r * t = 10,000 * 0.08 * 2 = 1,600. -->
-- [ ] C) L. 11,600
+- [ ] B) L. 11,600
   <!-- feedback: Incorrecto. Este es el monto total, no solo el interés ganado. -->
-- [ ] D) L. 2,000
+- [ ] C) L. 2,000
   <!-- feedback: Incorrecto. Error en la aplicación de la tasa. -->
 
 ### Explicacion Pedagogica
@@ -215,9 +215,9 @@ Resuelve la siguiente ecuación para x: 4(x - 3) = 2x + 10.
   <!-- feedback: Incorrecto. Revisa los signos al trasponer términos. -->
 - [ ] B) x = 7
   <!-- feedback: Incorrecto. Error en la simplificación. -->
-- [x] C) x = 11
+- [x] D) x = 11
   <!-- feedback: ¡Correcto! 4x - 12 = 2x + 10 => 2x = 22 => x = 11. -->
-- [ ] D) x = 22
+- [ ] C) x = 22
   <!-- feedback: Incorrecto. Olvidaste dividir por 2 al final. -->
 
 ### Explicacion Pedagogica
@@ -265,9 +265,9 @@ Un estudiante tiene las siguientes notas: 85, 90, 78 y 92. ¿Qué nota debe saca
   <!-- feedback: Incorrecto. Sacar la misma nota que el promedio deseado no compensará las notas anteriores. -->
 - [ ] B) 90
   <!-- feedback: Incorrecto. No es suficiente para elevar el promedio a 88. -->
-- [x] C) 95
+- [x] D) 95
   <!-- feedback: ¡Correcto! La suma total debe ser 88 * 5 = 440. 440 - (85+90+78+92) = 440 - 345 = 95. -->
-- [ ] D) 100
+- [ ] C) 100
   <!-- feedback: Incorrecto. Superas el promedio deseado. -->
 
 ### Explicacion Pedagogica
@@ -290,9 +290,9 @@ Si el diámetro del parque es de 40 metros, ¿cuál es su área aproximada? (Use
   <!-- feedback: Incorrecto. Calculaste la circunferencia, no el área. -->
 - [ ] B) 5,024 m²
   <!-- feedback: Incorrecto. Usaste el diámetro en lugar del radio en la fórmula r². -->
-- [x] C) 1,256 m²
+- [x] D) 1,256 m²
   <!-- feedback: ¡Correcto! El radio es 20m. A = 3.14 * 20^2 = 3.14 * 400 = 1,256. -->
-- [ ] D) 12,560 m²
+- [ ] C) 12,560 m²
   <!-- feedback: Incorrecto. Error en la posición del punto decimal. -->
 
 ### Explicacion Pedagogica
@@ -311,9 +311,9 @@ El radio es la mitad del diámetro (40 / 2 = 20 m). La fórmula del área es A =
 Dada la función f(x) = x² - 6x + 9, ¿en qué punto corta al eje X (raíz)?
 
 ### Opciones
-- [ ] A) (0, 3)
+- [ ] B) (0, 3)
   <!-- feedback: Incorrecto. Este punto no está sobre el eje X. -->
-- [x] B) (3, 0)
+- [x] A) (3, 0)
   <!-- feedback: ¡Correcto! x^2 - 6x + 9 = (x - 3)^2. La raíz es x = 3. -->
 - [ ] C) (-3, 0)
   <!-- feedback: Incorrecto. Revisa el signo en la factorización del trinomio. -->
@@ -338,11 +338,11 @@ Si dos ruedas están conectadas por una banda y la primera tiene un radio de 10 
 ### Opciones
 - [ ] A) 90 RPM
   <!-- feedback: Incorrecto. A mayor radio, menor velocidad de rotación. -->
-- [x] B) 40 RPM
+- [x] D) 40 RPM
   <!-- feedback: ¡Correcto! r1 * v1 = r2 * v2 => 10 * 60 = 15 * v2 => 600 / 15 = 40. -->
-- [ ] C) 45 RPM
+- [ ] B) 45 RPM
   <!-- feedback: Incorrecto. Error en la división. -->
-- [ ] D) 30 RPM
+- [ ] C) 30 RPM
   <!-- feedback: Incorrecto. Error en la proporción. -->
 
 ### Explicacion Pedagogica
@@ -386,9 +386,9 @@ Usamos la función tangente: tan(θ) = opuesto / adyacente. tan(30°) = 50 / d. 
 Si 2x + y = 10 y x - y = 2, ¿cuáles son los valores de x e y?
 
 ### Opciones
-- [ ] A) x=2, y=6
+- [ ] B) x=2, y=6
   <!-- feedback: Incorrecto. No cumple la segunda ecuación. -->
-- [x] B) x=4, y=2
+- [x] A) x=4, y=2
   <!-- feedback: ¡Correcto! 2(4)+2=10 y 4-2=2. -->
 - [ ] C) x=3, y=4
   <!-- feedback: Incorrecto. No cumple la segunda ecuación. -->
@@ -411,11 +411,11 @@ Podemos usar el método de eliminación sumando ambas ecuaciones: (2x + y) + (x 
 ¿Cuál es el valor de x en la ecuación log_2(x) = 5?
 
 ### Opciones
-- [ ] A) 10
+- [ ] B) 10
   <!-- feedback: Incorrecto. Multiplicaste 2 * 5 en lugar de elevar a la potencia. -->
-- [ ] B) 25
+- [ ] C) 25
   <!-- feedback: Incorrecto. Elevarste 5 al cuadrado en lugar de 2 a la quinta. -->
-- [x] C) 32
+- [x] A) 32
   <!-- feedback: ¡Correcto! Por definición de logaritmo: 2^5 = x. x = 32. -->
 - [ ] D) 64
   <!-- feedback: Incorrecto. Te excediste en una potencia de 2. -->
@@ -463,9 +463,9 @@ Un empleado ahorra L. 500 el primer mes, L. 550 el segundo, L. 600 el tercero, y
 ### Opciones
 - [ ] A) L. 1,000
   <!-- feedback: Incorrecto. Subestimaste el crecimiento constante. -->
-- [x] B) L. 1,050
+- [x] C) L. 1,050
   <!-- feedback: ¡Correcto! a12 = 500 + (12 - 1) * 50 = 500 + 550 = 1,050. -->
-- [ ] C) L. 1,100
+- [ ] B) L. 1,100
   <!-- feedback: Incorrecto. Usaste n en lugar de (n-1). -->
 - [ ] D) L. 1,200
   <!-- feedback: Incorrecto. Error en el cálculo de la diferencia común. -->
@@ -486,11 +486,11 @@ Es una progresión aritmética donde a1 = 500 y d = 50. La fórmula para el tér
 ¿Cuál es la distancia entre los puntos A(2, 3) y B(5, 7) en el plano cartesiano?
 
 ### Opciones
-- [ ] A) 3 unidades
+- [ ] B) 3 unidades
   <!-- feedback: Incorrecto. Solo restaste las coordenadas X. -->
-- [ ] B) 4 unidades
+- [ ] C) 4 unidades
   <!-- feedback: Incorrecto. Solo restaste las coordenadas Y. -->
-- [x] C) 5 unidades
+- [x] A) 5 unidades
   <!-- feedback: ¡Correcto! d = √((5-2)^2 + (7-3)^2) = √(3^2 + 4^2) = √(9 + 16) = 5. -->
 - [ ] D) 7 unidades
   <!-- feedback: Incorrecto. Error en la aplicación del teorema de Pitágoras. -->

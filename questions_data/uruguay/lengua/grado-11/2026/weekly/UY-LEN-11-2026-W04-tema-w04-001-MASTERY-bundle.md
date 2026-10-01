@@ -36,9 +36,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ### Opciones
 - [ ] A) El clímax de la acción dramática del relato.
   <!-- feedback: Incorrecto. El clímax es el momento de mayor tensión o conflicto de la intriga; aquí apenas se está ambientando la escena inicial. -->
-- [x] B) La descripción del marco o espacio geográfico y temporal de la narración.
+- [x] C) La descripción del marco o espacio geográfico y temporal de la narración.
   <!-- feedback: ¡Correcto! Las frases de apertura suelen presentar el marco descriptivo (el espacio físico como el río y el tiempo como la salida de la luna), situando al lector antes del desencadenamiento del conflicto. -->
-- [ ] C) La resolución del conflicto de los personajes del cuento.
+- [ ] B) La resolución del conflicto de los personajes del cuento.
   <!-- feedback: Incorrecto. La resolución o desenlace se ubica al final del relato, cerrando las tensiones de la intriga. -->
 - [ ] D) Un diálogo directo entre los protagonistas de la selva.
   <!-- feedback: Incorrecto. El fragmento es una descripción del narrador; no hay intervenciones directas o diálogos de personajes. -->
@@ -62,9 +62,9 @@ El marco espacial y temporal conforma la plataforma de arranque de los textos na
   <!-- feedback: Incorrecto. El narrador protagonista cuenta su propia historia en primera persona singular con conocimiento limitado de la mente ajena. -->
 - [ ] B) Narrador testigo limitado.
   <!-- feedback: Incorrecto. El narrador testigo observa los hechos desde fuera y relata solo lo que perciben sus sentidos físicos, sin leer las mentes de los demás. -->
-- [x] C) Narrador omnisciente.
+- [x] D) Narrador omnisciente.
   <!-- feedback: ¡Correcto! El narrador omnisciente tiene un conocimiento total y absoluto de la historia, de los sucesos exteriores y del mundo interior (pensamientos, emociones) de los personajes, narrando de forma habitual en tercera persona. -->
-- [ ] D) Narrador en segunda persona o interlocutor.
+- [ ] C) Narrador en segunda persona o interlocutor.
   <!-- feedback: Incorrecto. Este tipo de narrador interpele permanentemente al lector o a sí mismo ('tú/vos'), sin denotar necesariamente omnisciencia absoluta. -->
 
 ### Explicacion Pedagogica
@@ -208,9 +208,9 @@ Identificá qué tipo de focalización o punto de vista narrativo se emplea en e
 ### Opciones
 - [ ] A) Focalización externa pura; el narrador es una cámara muda que no conoce en absoluto los pensamientos o saberes de la profesora de Tala.
   <!-- feedback: Incorrecto. El narrador afirma que 'sabía que la jornada sería larga', accediendo a la conciencia interna del personaje, lo que descarta la focalización externa neutra. -->
-- [x] B) Focalización cero (o narrador omnisciente clásico) en tercera persona, dado que el narrador contempla la escena desde fuera pero conoce los procesos mentales internos ('Sabía que...') del personaje.
+- [x] C) Focalización cero (o narrador omnisciente clásico) en tercera persona, dado que el narrador contempla la escena desde fuera pero conoce los procesos mentales internos ('Sabía que...') del personaje.
   <!-- feedback: ¡Correcto! La focalización cero o no focalización es propia del narrador omnisciente clásico en tercera persona gramatical, quien relata hechos de la diégesis y penetra libremente en la mente de los personajes. -->
-- [ ] C) Focalización interna homodiegética; el narrador es la profesora que relata su propia llegada en primera persona verbal.
+- [ ] B) Focalización interna homodiegética; el narrador es la profesora que relata su propia llegada en primera persona verbal.
   <!-- feedback: Incorrecto. Se narra en tercera persona gramatical ('entró', 'dejó', 'sabía'), descartando la homodiégesis del protagonista. -->
 - [ ] D) Focalización lírica en segunda persona que interpela directamente al lector del liceo.
   <!-- feedback: Incorrecto. No interpela gramaticalmente al lector mediante mandatos o pronombres de segunda persona singular. -->
@@ -231,9 +231,9 @@ La focalización cero se asocia al narrador que trasciende los límites de un pe
 ¿Qué procedimiento de aceleración del tiempo del relato (frente al tiempo de la historia) se observa en la primera oración del pasaje?
 
 ### Opciones
-- [x] A) Elipsis narrativa.
+- [x] B) Elipsis narrativa.
   <!-- feedback: ¡Correcto! La elipsis es un recurso de condensación temporal que consiste en omitir el relato de un período de tiempo de la historia (en este caso, cinco años enteros de sequía resumidos en una sola frase breve) para agilizar el ritmo y saltar de inmediato a la acción relevante. -->
-- [ ] B) Pausa descriptiva detallada.
+- [ ] A) Pausa descriptiva detallada.
   <!-- feedback: Incorrecto. La pausa descriptiva detiene el avance de los hechos para pintar minuciosamente un cuadro; aquí el tiempo avanza velozmente. -->
 - [ ] C) Escena en tiempo real (diálogo directo).
   <!-- feedback: Incorrecto. No hay diálogos articulados que igualen el tiempo de la lectura con el tiempo de los hechos de la historia. -->
@@ -256,9 +256,9 @@ La elipsis narrativa permite al autor omitir fragmentos temporales irrelevantes 
 ¿Qué estilo o técnica de representación de la voz de los personajes se está utilizando en el pasaje narrativo anterior?
 
 ### Opciones
-- [ ] A) Estilo indirecto clásico.
+- [ ] B) Estilo indirecto clásico.
   <!-- feedback: Incorrecto. El estilo indirecto usa verbos subordinados con 'que' ('Su madre le advirtió que no saliera...'), sin introducir rayas de diálogo o voces literales directas. -->
-- [x] B) Estilo directo.
+- [x] A) Estilo directo.
   <!-- feedback: ¡Correcto! El estilo directo reproduce textualmente y con literalidad el parlamento del personaje mediante el uso de la raya de diálogo y verbos dicendi ('advirtió'), cediendo la palabra de forma directa al actor. -->
 - [ ] C) Estilo indirecto libre.
   <!-- feedback: Incorrecto. El estilo indirecto libre funde la voz del narrador con el pensamiento íntimo del personaje sin marcas ortográficas o verbos de dicendi explícitos. -->
@@ -281,9 +281,9 @@ El estilo directo otorga realismo, fuerza dramática y polifonía al texto narra
 ¿Qué técnica de representación del pensamiento del personaje destaca en este pasaje narrativo?
 
 ### Opciones
-- [ ] A) Soliloquio en voz alta dirigido a un interlocutor invisible en el aula.
+- [ ] B) Soliloquio en voz alta dirigido a un interlocutor invisible en el aula.
   <!-- feedback: Incorrecto. No hay un interlocutor ficcional que reciba el parlamento; es una introspección mental interna silenciosa. -->
-- [x] B) Estilo indirecto libre, ya que la voz del narrador en tercera persona se funde y asimila de manera fluida con la corriente interna de pensamientos y dudas del personaje, sin marcas ortográficas formales como guiones o comillas.
+- [x] A) Estilo indirecto libre, ya que la voz del narrador en tercera persona se funde y asimila de manera fluida con la corriente interna de pensamientos y dudas del personaje, sin marcas ortográficas formales como guiones o comillas.
   <!-- feedback: ¡Correcto! El estilo indirecto libre es una sofisticada técnica narrativa donde el narrador de tercera persona adopta el punto de vista, el tono y las preguntas existenciales del personaje sin recurrir a rayas de diálogo o fórmulas subordinadas directas. -->
 - [ ] C) Estilo directo puro con guiones y comillas tradicionales del teatro uruguayo.
   <!-- feedback: Incorrecto. No hay comillas o rayas que aíslen la intervención del protagonista de la voz base del narrador de la obra. -->
@@ -330,9 +330,9 @@ En la tipología narrativa de suspenso, los indicios (un ruido, una mirada, una 
 ¿Cuál de las siguientes conclusiones describe adecuadamente cómo el espacio físico condiciona el destino de los personajes en ambas obras de la narrativa uruguaya?
 
 ### Opciones
-- [ ] A) En ambas obras el espacio físico es irrelevante y neutral, actuando como una pared blanca que no influye en las acciones dramáticas de los protagonistas.
+- [ ] B) En ambas obras el espacio físico es irrelevante y neutral, actuando como una pared blanca que no influye en las acciones dramáticas de los protagonistas.
   <!-- feedback: Incorrecto. El espacio es un actor crucial en ambos autores, determinando de manera decisiva la psicología y tragedias de los protagonistas. -->
-- [x] B) En Quiroga, la naturaleza indómita e implacable de la selva misionera es un agente activo hostil que devora al hombre; en Benedetti, el espacio asfixiante y burocrático de la oficina gris de Montevideo opera como una prisión cotidiana que moldea la apatía existencial del protagonista.
+- [x] A) En Quiroga, la naturaleza indómita e implacable de la selva misionera es un agente activo hostil que devora al hombre; en Benedetti, el espacio asfixiante y burocrático de la oficina gris de Montevideo opera como una prisión cotidiana que moldea la apatía existencial del protagonista.
   <!-- feedback: ¡Correcto! El espacio es semántico y dinámico en los grandes narradores. La selva gélida o tropical de Quiroga es una fuerza ciega trágica frente a la cual el hombre sucumbe. Por otro lado, la oficina montevideana y la rutina gris de la burocracia de Benedetti sofocan los anhelos del alma urbana, determinando su destino existencial. -->
 - [ ] C) Ambos autores coinciden en que los barcos de guerra coloniales y las minas de carbón de Maldonado son los únicos espacios literarios válidos de Uruguay.
   <!-- feedback: Incorrecto. Ninguno de estos autores sitúa sus obras maestras indicadas en barcos de guerra o minas de carbón en Maldonado. -->
@@ -356,11 +356,11 @@ El espacio en la narrativa excede la mera decoración física; adquiere densidad
 ### Opciones
 - [ ] A) Los personajes planos son mudos y carecen de diálogos escritos; los redondos hablan en verso barroco medieval de forma obligatoria.
   <!-- feedback: Incorrecto. Los planos pueden hablar fluidamente; la distinción radica en su complejidad de conducta y evolución psicológica. -->
-- [x] B) Los personajes planos se estructuran en torno a una sola idea o rasgo de carácter estable, resultando predecibles y sin evolución; los personajes redondos poseen múltiples facetas psicológicas, contradicciones internas y se transforman de forma dinámica a lo largo del relato.
+- [x] D) Los personajes planos se estructuran en torno a una sola idea o rasgo de carácter estable, resultando predecibles y sin evolución; los personajes redondos poseen múltiples facetas psicológicas, contradicciones internas y se transforman de forma dinámica a lo largo del relato.
   <!-- feedback: ¡Correcto! El personaje plano (o caricaturesco/arquetípico) mantiene un comportamiento lineal inalterable durante toda la obra. El personaje redondo (o complejo) tiene profundidad psicológica, experimenta dilemas internos, comete errores y evoluciona de manera significativa bajo la presión de la intriga. -->
-- [ ] C) Los planos aparecen al final del desenlace; los redondos solo figuran en la introducción o marco descriptivo inicial de la obra.
+- [ ] B) Los planos aparecen al final del desenlace; los redondos solo figuran en la introducción o marco descriptivo inicial de la obra.
   <!-- feedback: Incorrecto. Ambos tipos pueden convivir a lo largo de todas las fases de la narración. -->
-- [ ] D) La diferencia radica en que los personajes redondos son animales humanizados y los planos son objetos inanimados de la selva.
+- [ ] C) La diferencia radica en que los personajes redondos son animales humanizados y los planos son objetos inanimados de la selva.
   <!-- feedback: Incorrecto. Es una distinción del desarrollo psicológico y evolutivo humano de los personajes de ficción, no una frontera biológica. -->
 
 ### Explicacion Pedagogica
@@ -379,9 +379,9 @@ Los grandes textos narrativos combinan personajes redondos (los protagonistas so
 Analizá la coexistencia del tiempo cronológico del relato y el tiempo psicológico del personaje en este fragmento narrativo.
 
 ### Opciones
-- [ ] A) El tiempo del relato se detiene por completo debido a que el narrador introduce un ensayo histórico sobre las crecidas del río Uruguay.
+- [ ] B) El tiempo del relato se detiene por completo debido a que el narrador introduce un ensayo histórico sobre las crecidas del río Uruguay.
   <!-- feedback: Incorrecto. La acción física sigue avanzando de forma sincrónica con la marcha hacia la parada de ómnibus; no hay desvío de ensayo histórico. -->
-- [x] B) Hay un contrapunto dinámico: mientras el tiempo cronológico exterior avanza linealmente con las acciones físicas del protagonista (abrir la puerta, caminar), el tiempo psicológico se dilata y retrocede al pasado mediante la intrusión súbita de un recuerdo doloroso de la Costanera (analepsis mental), demostrando la subjetividad de la temporalidad narrativa.
+- [x] A) Hay un contrapunto dinámico: mientras el tiempo cronológico exterior avanza linealmente con las acciones físicas del protagonista (abrir la puerta, caminar), el tiempo psicológico se dilata y retrocede al pasado mediante la intrusión súbita de un recuerdo doloroso de la Costanera (analepsis mental), demostrando la subjetividad de la temporalidad narrativa.
   <!-- feedback: ¡Correcto! La diégesis trenza dos temporalidades: el transcurrir físico del reloj de Salto (tiempo cronológico objetivo exterior) y el fluir psíquico íntimo del protagonista (tiempo psicológico interior subjetivo), el cual de inmediato se evade al pasado de la relación afectiva. -->
 - [ ] C) El tiempo se anula por completo debido a que el narrador utiliza un código de lenguaje inclusivo rioplatense.
   <!-- feedback: Incorrecto. El uso gramatical es estándar rioplatense claro; la dimensión del tiempo no se anula por cuestiones morfológicas locales. -->
@@ -403,9 +403,9 @@ El manejo del tiempo en la narrativa de corte gnoseológico o íntimo privilegia
 ¿Qué efecto estético y cognitivo produce esta restricción de la focalización en la asimilación del texto narrativo por parte del lector?
 
 ### Opciones
-- [ ] A) Otorga objetividad científica total al relato, permitiendo al lector conocer datos históricos estadísticos exactos de la contienda militar.
+- [ ] B) Otorga objetividad científica total al relato, permitiendo al lector conocer datos históricos estadísticos exactos de la contienda militar.
   <!-- feedback: Incorrecto. Al contrario: la focalización interna en el soldado asustado elimina la objetividad fría de las estadísticas generales, priorizando la verdad emocional de la trinchera. -->
-- [x] B) Genera un fuerte efecto de verosimilitud íntima, angustia y empatía humanitaria, limitando el horizonte informativo del lector a la experiencia sensorial inmediata, el dolor y la incertidumbre del soldado frente al caos de la guerra.
+- [x] A) Genera un fuerte efecto de verosimilitud íntima, angustia y empatía humanitaria, limitando el horizonte informativo del lector a la experiencia sensorial inmediata, el dolor y la incertidumbre del soldado frente al caos de la guerra.
   <!-- feedback: ¡Correcto! Al descartar la omnisciencia (focalización cero), la focalización interna en un solo personaje sumerge al lector en su misma limitación perceptiva, potenciando la tensión existencial y la empatía frente a la vivencia íntima real del drama bélico. -->
 - [ ] C) Anula el género narrativo transformando el cuento en un texto puramente descriptivo botánico de la zanja de barro.
   <!-- feedback: Incorrecto. La acción dramática e histórica de supervivencia sigue activa; el texto no se convierte en un catálogo botánico de plantas de zanja. -->
@@ -432,9 +432,9 @@ Evaluá críticamente el procedimiento quiroguiano para narrar el tránsito haci
   <!-- feedback: Incorrecto. No hay intervenciones fantásticas o monstruos de mitos clásicos; la muerte es por la toxina real del ofidio. -->
 - [ ] B) El autor construye una elipsis temporal dolorosa mediante la cual el protagonista cura milagrosamente su herida de la víbora para volver a Salto.
   <!-- feedback: Incorrecto. El final consagra el deceso físico real del protagonista, sin curas milagrosas de diégesis feliz. -->
-- [x] C) El autor dilata la agonía física mediante un violento contraste sensorial: opone la frialdad biológica del veneno de la herida a la cálida belleza visual del cielo de oro, traduciendo el cese de las funciones vitales en un silencioso y trágico desvanecimiento existencial.
+- [x] D) El autor dilata la agonía física mediante un violento contraste sensorial: opone la frialdad biológica del veneno de la herida a la cálida belleza visual del cielo de oro, traduciendo el cese de las funciones vitales en un silencioso y trágico desvanecimiento existencial.
   <!-- feedback: ¡Correcto! El desenlace quiroguiano destaca por su sobria crudeza lírica. El contraste entre el frío físico de la parálisis orgánica ('helado hasta el pecho') y el fulgor del crepúsculo ('cielo se había abierto en oro') poetiza la muerte sin atenuantes sentimentales, cerrando el relato con una sequedad objetiva e implacable de la naturaleza. -->
-- [ ] D) La narración recurre al estilo indirecto formal del médico legista para dictaminar el deceso por asfixia mecánica.
+- [ ] C) La narración recurre al estilo indirecto formal del médico legista para dictaminar el deceso por asfixia mecánica.
   <!-- feedback: Incorrecto. Se relata desde la conciencia crepuscular poética del agonizante, no con la fría terminología de una autopsia forense formal. -->
 
 ### Explicacion Pedagogica
@@ -453,9 +453,9 @@ El desenlace quiroguiano funde la objetividad de las leyes físicas de la natura
 Desde el punto de vista del género del cuento de horror rioplatense, ¿cómo evalúa la crítica literaria la fusión quiroguiana de los elementos científicos de la naturaleza con lo fantástico-terrorífico en este desenlace?
 
 ### Opciones
-- [ ] A) Como un fracaso estético total, debido a que mezclar biología médica con cuentos de vampiros anula la verosimilitud gótica.
+- [ ] B) Como un fracaso estético total, debido a que mezclar biología médica con cuentos de vampiros anula la verosimilitud gótica.
   <!-- feedback: Incorrecto. Al contrario: fundar el horror en un parásito biológico verosímil es la mayor genialidad y marca de Quiroga, revolucionando el género gótico americano. -->
-- [x] B) Como una resolución magistral de horror materialista o biológico: el monstruo no es un fantasma o demonio sobrenatural gótico tradicional, sino un parásito real (un ácaro gigante) cuya existencia y funcionamiento obedecen a las leyes físicas de la naturaleza, sembrando la inquietud de que el horror anida en lo cotidiano y doméstico.
+- [x] A) Como una resolución magistral de horror materialista o biológico: el monstruo no es un fantasma o demonio sobrenatural gótico tradicional, sino un parásito real (un ácaro gigante) cuya existencia y funcionamiento obedecen a las leyes físicas de la naturaleza, sembrando la inquietud de que el horror anida en lo cotidiano y doméstico.
   <!-- feedback: ¡Correcto! Quiroga desplaza el terror clásico de espectros intangibles hacia un horror biológico verosímil y materialista (un parásito aviar sobredimensionado). La precisión con que describe la succión goteante de sangre asienta el terror en lo físico, lo corporal y lo doméstico, de allí su perdurable impacto gótico americano. -->
 - [ ] C) Como una digresión moralizante que busca culpar a Jordán de la desnutrición clínica de su esposa Alicia.
   <!-- feedback: Incorrecto. La sirvienta y el médico revelan una causa parasitaria física objetiva real, no una sanción moral del matrimonio. -->
@@ -479,11 +479,11 @@ Quiroga revolucionó el terror rioplatense al anclarlo en lo biológico e implac
 ### Opciones
 - [ ] A) La tesis es incorrecta porque el diario íntimo impide que el lector empatice con la conciencia de Martín Santomé.
   <!-- feedback: Incorrecto. El diario íntimo es precisamente la técnica que maximiza la intimidad y empatía directa con el protagonista de la oficina. -->
-- [x] B) La tesis es certera técnicamente: la fecha diaria del diario simula el avance lento de la burocracia de oficina, permitiendo que la irrupción inesperada de la muerte de Avellaneda golpee al lector con la misma sequedad, sorpresa e irreversibilidad con que sacudió la vida del gris protagonista montevideano.
+- [x] D) La tesis es certera técnicamente: la fecha diaria del diario simula el avance lento de la burocracia de oficina, permitiendo que la irrupción inesperada de la muerte de Avellaneda golpee al lector con la misma sequedad, sorpresa e irreversibilidad con que sacudió la vida del gris protagonista montevideano.
   <!-- feedback: ¡Correcto! El diario íntimo (focalización interna homodiegética rígida) es el andamiaje perfecto para la novela de Benedetti. La fragmentación por días refleja la rutina de oficina, y la muerte silenciosa y súbita de Avellaneda cobra una fuerza devastadora precisamente porque el lector la experimenta a través del vacío inmediato de anotaciones del diario desesperado. -->
-- [ ] C) La novela es en verdad una epopeya medieval escrita en verso heroico que Benedetti disfrazó de diario para ahorrar papel prensa en Montevideo.
+- [ ] B) La novela es en verdad una epopeya medieval escrita en verso heroico que Benedetti disfrazó de diario para ahorrar papel prensa en Montevideo.
   <!-- feedback: Incorrecto. Es una novela urbana contemporánea realista de clase media, ajena a epopeyas medievales en verso de caballería. -->
-- [ ] D) El formato de diario íntimo se contradice con el género narrativo, pues los diarios íntimos son de carácter exclusivamente expositivo administrativo.
+- [ ] C) El formato de diario íntimo se contradice con el género narrativo, pues los diarios íntimos son de carácter exclusivamente expositivo administrativo.
   <!-- feedback: Incorrecto. El diario de ficción es un subgénero narrativo de larga y prestigiosa tradición en la literatura occidental. -->
 
 ### Explicacion Pedagogica
@@ -503,11 +503,11 @@ El formato de diario en 'La tregua' es solidario con el tema: la domesticidad de
 ### Opciones
 - [ ] A) La verosimilitud exige que todos los hechos narrados en la novela hayan ocurrido históricamente en la realidad geográfica del país del autor de forma contrastable.
   <!-- feedback: Incorrecto. Eso corresponde al reportaje de prensa o la verdad fáctica histórica, no a la ficción literaria verosímil de mundos posibles. -->
-- [x] B) La verosimilitud es la coherencia interna de las leyes del mundo posible que construye el texto, de modo que el lector acepta la lógica del relato durante la lectura; la verdad fáctica es la correspondencia exacta de los hechos con el mundo exterior real.
+- [x] D) La verosimilitud es la coherencia interna de las leyes del mundo posible que construye el texto, de modo que el lector acepta la lógica del relato durante la lectura; la verdad fáctica es la correspondencia exacta de los hechos con el mundo exterior real.
   <!-- feedback: ¡Correcto! Un relato con fantasmas puede ser verosímil si respeta de manera interna las leyes que el propio texto estableció para ese universo fantástico. La verosimilitud no exige calcar la realidad exterior (verdad fáctica), sino asegurar la consistencia interna de la ficción para sostener el pacto de lectura de la obra. -->
-- [ ] C) La verosimilitud es un error técnico de los autores principiantes de Uruguay que no saben consultar diccionarios oficiales de geografía.
+- [ ] B) La verosimilitud es un error técnico de los autores principiantes de Uruguay que no saben consultar diccionarios oficiales de geografía.
   <!-- feedback: Incorrecto. Es un concepto estético central y una regla de oro de la literatura universal desde Aristóteles hasta la narratología moderna. -->
-- [ ] D) La diferencia radica en que la verdad fáctica solo se escribe con lápiz de grafito y la verosimilitud con tinta de bolígrafo formal.
+- [ ] C) La diferencia radica en que la verdad fáctica solo se escribe con lápiz de grafito y la verosimilitud con tinta de bolígrafo formal.
   <!-- feedback: Incorrecto. La distinción es epistémica y estética sobre el estatuto de la ficción literaria y el mundo real objetivo, no del soporte físico escolar de la escritura. -->
 
 ### Explicacion Pedagogica

@@ -29,13 +29,13 @@ Este bundle de matemáticas introduce las ecuaciones de primer grado con situaci
 ### Enunciado
 En la ecuación x + 5 = 12, la letra x representa:
 ### Opciones
-- [x] A) La incógnita que se quiere hallar
+- [x] D) La incógnita que se quiere hallar
   <!-- feedback: Es correcta porque la incógnita es el valor desconocido de la ecuación. -->
-- [ ] B) Un número que siempre vale 5
+- [ ] A) Un número que siempre vale 5
   <!-- feedback: Es incorrecta porque x cambia según la ecuación y no vale 5. -->
-- [ ] C) El resultado de la suma
+- [ ] B) El resultado de la suma
   <!-- feedback: Es incorrecta porque el resultado es 12 y no la letra. -->
-- [ ] D) Un adorno sin valor
+- [ ] C) Un adorno sin valor
   <!-- feedback: Es incorrecta porque la letra tiene un valor numérico preciso. -->
 ### Explicacion Pedagogica
 La incógnita es el número desconocido que hace verdadera la igualdad. En este caso x vale 7, porque 7 más 5 es 12.
@@ -48,9 +48,9 @@ La incógnita es el número desconocido que hace verdadera la igualdad. En este 
 ### Enunciado
 Si x es la cantidad inicial, ¿qué ecuación representa la situación x más 3 igual a 10 y cuál es su solución?
 ### Opciones
-- [x] A) x = 7
+- [x] B) x = 7
   <!-- feedback: Es correcta porque 7 más 3 es igual a 10. -->
-- [ ] B) x = 10
+- [ ] A) x = 10
   <!-- feedback: Es incorrecta porque 10 más 3 es 13 y no 10. -->
 - [ ] C) x = 3
   <!-- feedback: Es incorrecta porque 3 más 3 es 6 y no 10. -->
@@ -67,9 +67,9 @@ Para despejar x se resta 3 a ambos lados: x queda sola y 10 menos 3 es 7. Al com
 ### Enunciado
 Si x es el valor del billete, la ecuación x - 12000 = 4000 tiene como solución:
 ### Opciones
-- [x] A) 16000 COP
+- [x] B) 16000 COP
   <!-- feedback: Es correcta porque 16000 menos 12000 es igual a 4000. -->
-- [ ] B) 8000 COP
+- [ ] A) 8000 COP
   <!-- feedback: Es incorrecta porque resta en lugar de sumar para despejar. -->
 - [ ] C) 12000 COP
   <!-- feedback: Es incorrecta porque con ese billete no habría cambio. -->
@@ -86,9 +86,9 @@ Para hallar x se suma 12000 a ambos lados: x es igual a 4000 más 12000, es deci
 ### Enunciado
 La solución de la ecuación 4x = 28 es:
 ### Opciones
-- [x] A) 7
+- [x] B) 7
   <!-- feedback: Es correcta porque 4 por 7 es igual a 28. -->
-- [ ] B) 24
+- [ ] A) 24
   <!-- feedback: Es incorrecta porque resta 4 en lugar de dividir entre 4. -->
 - [ ] C) 32
   <!-- feedback: Es incorrecta porque suma 4 en lugar de dividir entre 4. -->
@@ -105,13 +105,13 @@ En 4x el 4 multiplica a la incógnita, así que se divide ambos lados entre 4. E
 ### Enunciado
 La ecuación x / 6 = 5 tiene como solución:
 ### Opciones
-- [x] A) 30
+- [x] D) 30
   <!-- feedback: Es correcta porque 30 dividido entre 6 es igual a 5. -->
-- [ ] B) 11
+- [ ] A) 11
   <!-- feedback: Es incorrecta porque suma 6 y 5 en lugar de multiplicar. -->
-- [ ] C) 1
+- [ ] B) 1
   <!-- feedback: Es incorrecta porque confunde el cociente con el dividendo. -->
-- [ ] D) 5
+- [ ] C) 5
   <!-- feedback: Es incorrecta porque 5 dividido entre 6 no es 5. -->
 ### Explicacion Pedagogica
 Como x está dividido entre 6, se multiplica ambos lados por 6. Así x es 30 galletas, que repartidas entre 6 dan 5 a cada una.
@@ -124,11 +124,11 @@ Como x está dividido entre 6, se multiplica ambos lados por 6. Así x es 30 gal
 ### Enunciado
 Si x es el número de mangos, ¿cuál es el valor de x en 2x + 4 = 20?
 ### Opciones
-- [x] A) 8
+- [x] C) 8
   <!-- feedback: Es correcta porque el doble de 8 es 16 y más 4 es 20. -->
-- [ ] B) 12
+- [ ] A) 12
   <!-- feedback: Es incorrecta porque primero resta mal y luego no divide. -->
-- [ ] C) 10
+- [ ] B) 10
   <!-- feedback: Es incorrecta porque olvida restar el 4 antes de dividir. -->
 - [ ] D) 6
   <!-- feedback: Es incorrecta porque 2 por 6 más 4 es 16 y no 20. -->
@@ -143,11 +143,11 @@ Se despeja en dos pasos: primero se resta 4 y queda 2x igual a 16, luego se divi
 ### Enunciado
 La ecuación 3x - 5 = 16 tiene como solución:
 ### Opciones
-- [x] A) 7
+- [x] C) 7
   <!-- feedback: Es correcta porque 3 por 7 menos 5 es igual a 16. -->
-- [ ] B) 5
+- [ ] A) 5
   <!-- feedback: Es incorrecta porque 3 por 5 menos 5 es 10 y no 16. -->
-- [ ] C) 3
+- [ ] B) 3
   <!-- feedback: Es incorrecta porque prueba con el coeficiente y no despeja. -->
 - [ ] D) 21
   <!-- feedback: Es incorrecta porque suma 16 más 5 sin dividir entre 3. -->
@@ -162,9 +162,9 @@ Se suma 5 a ambos lados y queda 3x igual a 21, luego se divide entre 3 y x es 7.
 ### Enunciado
 ¿Cuál ecuación representa la situación y cuál es el número inicial?
 ### Opciones
-- [x] A) x + 12 - 5 = 27; x = 20
+- [x] B) x + 12 - 5 = 27; x = 20
   <!-- feedback: Es correcta porque 20 más 12 menos 5 es igual a 27. -->
-- [ ] B) x + 12 + 5 = 27; x = 10
+- [ ] A) x + 12 + 5 = 27; x = 10
   <!-- feedback: Es incorrecta porque suma los que se bajaron en lugar de restarlos. -->
 - [ ] C) x - 12 + 5 = 27; x = 34
   <!-- feedback: Es incorrecta porque invierte el sentido de subir y bajar. -->
@@ -181,13 +181,13 @@ Subir agrega y bajar resta, así que la expresión es x más 12 menos 5. Al simp
 ### Enunciado
 Si x es el ahorro de Luis, ¿cuánto tiene cada uno?
 ### Opciones
-- [x] A) Luis 7000 COP y Ana 23000 COP
+- [x] D) Luis 7000 COP y Ana 23000 COP
   <!-- feedback: Es correcta porque 7000 más 23000 es 30000 y 23000 es el triple de 7000 más 2000. -->
-- [ ] B) Luis 10000 COP y Ana 20000 COP
+- [ ] A) Luis 10000 COP y Ana 20000 COP
   <!-- feedback: Es incorrecta porque Ana no cumple la condición del triple más 2000. -->
-- [ ] C) Luis 7500 COP y Ana 22500 COP
+- [ ] B) Luis 7500 COP y Ana 22500 COP
   <!-- feedback: Es incorrecta porque olvida sumar los 2000 adicionales de Ana. -->
-- [ ] D) Luis 14000 COP y Ana 16000 COP
+- [ ] C) Luis 14000 COP y Ana 16000 COP
   <!-- feedback: Es incorrecta porque reparte casi en mitades sin usar la relación. -->
 ### Explicacion Pedagogica
 La ecuación es x más 3x más 2000 igual a 30000, es decir 4x igual a 28000. Al dividir queda x igual a 7000 para Luis y 3 por 7000 más 2000 igual a 23000 para Ana.
@@ -200,11 +200,11 @@ La ecuación es x más 3x más 2000 igual a 30000, es decir 4x igual a 28000. Al
 ### Enunciado
 ¿Cuál es la evaluación correcta del procedimiento y del resultado?
 ### Opciones
-- [x] A) El resultado es falso, la solución correcta es x = 6
+- [x] C) El resultado es falso, la solución correcta es x = 6
   <!-- feedback: Es correcta porque al restar 2x queda 3x igual a 18 y x es 6. -->
-- [ ] B) El resultado es verdadero, x es 9
+- [ ] A) El resultado es verdadero, x es 9
   <!-- feedback: Es incorrecta porque al reemplazar 9 queda 45 igual a 36, lo cual es falso. -->
-- [ ] C) El resultado es falso, la solución es x = 18
+- [ ] B) El resultado es falso, la solución es x = 18
   <!-- feedback: Es incorrecta porque olvida restar 2x antes de despejar. -->
 - [ ] D) No se puede resolver porque hay x en ambos lados
   <!-- feedback: Es incorrecta porque sí se puede agrupando las incógnitas en un lado. -->

@@ -38,9 +38,9 @@ What word describes the feeling when you smile and have a good time?
 ### Opciones
 - [ ] A) Sad
   <!-- feedback: Incorrect. Sadness involves crying or feeling down. -->
-- [x] B) Happy
+- [x] C) Happy
   <!-- feedback: Correct! Happiness is associated with smiling and feeling good. -->
-- [ ] C) Angry
+- [ ] B) Angry
   <!-- feedback: Incorrect. Anger is associated with being upset or annoyed. -->
 - [ ] D) Tired
   <!-- feedback: Incorrect. Being tired means you need to sleep. -->
@@ -61,11 +61,11 @@ The student identifies basic vocabulary for common emotions.
 How do you feel after running a long marathon or studying for 5 hours?
 
 ### Opciones
-- [ ] A) Excited
+- [ ] B) Excited
   <!-- feedback: Incorrect. You might be excited to win, but physically you feel something else. -->
-- [ ] B) Bored
+- [ ] C) Bored
   <!-- feedback: Incorrect. Boredom comes from having nothing to do. -->
-- [x] C) Tired
+- [x] A) Tired
   <!-- feedback: Correct! Physical or mental effort leads to feeling tired (exhausted). -->
 - [ ] D) Surprised
   <!-- feedback: Incorrect. This is a reaction to something unexpected. -->
@@ -113,9 +113,9 @@ The student understands the logical emotional response to a stressful situation.
 ### Opciones
 - [ ] A) thirsty
   <!-- feedback: Incorrect. Thirsty means you want water. -->
-- [x] B) sad
+- [x] C) sad
   <!-- feedback: Correct! Crying is a common sign of sadness. -->
-- [ ] C) bored
+- [ ] B) bored
   <!-- feedback: Incorrect. Boredom doesn't usually cause crying. -->
 - [ ] D) excited
   <!-- feedback: Incorrect. This is a positive emotion. -->
@@ -140,9 +140,9 @@ Choose the correct question to ask about someone's current emotional state.
   <!-- feedback: Incorrect. This asks about frequency, not current state. -->
 - [ ] B) Why you are sad?
   <!-- feedback: Incorrect. The word order for a question is wrong. -->
-- [x] C) How do you feel today?
+- [x] D) How do you feel today?
   <!-- feedback: Correct! This is the standard way to ask about someone's feelings. -->
-- [ ] D) What do you feel?
+- [ ] C) What do you feel?
   <!-- feedback: Incorrect. While understandable, "How do you feel" is more common and idiomatic. -->
 
 ### Explicacion Pedagogica
@@ -164,9 +164,9 @@ How did the writer feel when they got the bike?
 ### Opciones
 - [ ] A) Sad and tired
   <!-- feedback: Incorrect. The text says "amazing" and "happy". -->
-- [x] B) Surprised and happy
+- [x] C) Surprised and happy
   <!-- feedback: Correct! These specific emotions are mentioned in the text. -->
-- [ ] C) Nervous and angry
+- [ ] B) Nervous and angry
   <!-- feedback: Incorrect. These are negative emotions not present in the context. -->
 - [ ] D) Bored and thirsty
   <!-- feedback: Incorrect. These states don't fit the "amazing" day description. -->
@@ -189,11 +189,11 @@ The student identifies and extracts specific emotions from a short narrative tex
 ### Opciones
 - [ ] A) hungry
   <!-- feedback: Incorrect. Hungry is for food. -->
-- [x] B) thirsty
+- [x] D) thirsty
   <!-- feedback: Correct! Lack of water causes thirst. -->
-- [ ] C) angry
+- [ ] B) angry
   <!-- feedback: Incorrect. While you could be angry, the physical consequence is being thirsty. -->
-- [ ] D) sleepy
+- [ ] C) sleepy
   <!-- feedback: Incorrect. Sleepy is for rest. -->
 
 ### Explicacion Pedagogica
@@ -214,9 +214,9 @@ B: "I understand. That makes me feel ________ too."
 What is the most logical emotion for B to express in this situation?
 
 ### Opciones
-- [ ] A) Excited
+- [ ] B) Excited
   <!-- feedback: Incorrect. Not sharing toys is usually a negative experience. -->
-- [x] B) Frustrated
+- [x] A) Frustrated
   <!-- feedback: Correct! Not being able to get what you want or dealing with unfairness often leads to frustration. -->
 - [ ] C) Scared
   <!-- feedback: Incorrect. Fear is for danger, not for sharing issues. -->
@@ -240,9 +240,9 @@ Choose the correct pair to complete the sentence:
 "The movie was very ________, so the children felt ________."
 
 ### Opciones
-- [ ] A) bored / boring
+- [ ] B) bored / boring
   <!-- feedback: Incorrect. The movie is "boring" and people feel "bored". -->
-- [x] B) boring / bored
+- [x] A) boring / bored
   <!-- feedback: Correct! -ing adjectives describe the thing, -ed adjectives describe the person's feeling. -->
 - [ ] C) happy / sad
   <!-- feedback: Incorrect. This doesn't show a logical relationship. -->
@@ -268,9 +268,9 @@ What is the best description of Felipe's current emotional state?
 ### Opciones
 - [ ] A) He is completely sad and wants to go back home.
   <!-- feedback: Incorrect. He also feels interested in new things. -->
-- [ ] B) He is very happy because he has a new house.
+- [ ] C) He is very happy because he has a new house.
   <!-- feedback: Incorrect. He also feels lonely. -->
-- [x] C) He has mixed feelings: he is a bit sad but also curious about his new life.
+- [x] B) He has mixed feelings: he is a bit sad but also curious about his new life.
   <!-- feedback: Correct! The text mentions loneliness (missing friends) and interest (meeting new people). -->
 - [ ] D) He is angry at his parents for moving.
   <!-- feedback: Incorrect. Anger is not mentioned in the text. -->

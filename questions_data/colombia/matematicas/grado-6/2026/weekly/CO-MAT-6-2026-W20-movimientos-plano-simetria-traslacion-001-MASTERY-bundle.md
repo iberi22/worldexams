@@ -29,9 +29,9 @@ Este bundle trabaja traslaciones, reflexiones, giros y ejes de simetría en el p
 ### Enunciado
 ¿Qué es una traslación en el plano?
 ### Opciones
-- [x] A) Deslizar una figura sin girarla ni cambiar su tamaño
+- [x] B) Deslizar una figura sin girarla ni cambiar su tamaño
   <!-- feedback: Explica por qué es correcta: la traslación mueve todos los puntos la misma distancia en la misma dirección, conservando forma y tamaño. -->
-- [ ] B) Girar una figura alrededor de un punto
+- [ ] A) Girar una figura alrededor de un punto
   <!-- feedback: Explica el error conceptual: eso describe una rotación, no una traslación. -->
 - [ ] C) Agrandar o encoger una figura
   <!-- feedback: Explica el error conceptual: cambiar el tamaño es una homotecia, la traslación conserva el tamaño. -->
@@ -48,11 +48,11 @@ La traslación es el movimiento más simple: cada punto se desplaza igual, así 
 ### Enunciado
 ¿En qué coordenadas queda el punto?
 ### Opciones
-- [x] A) (6, 3)
+- [x] C) (6, 3)
   <!-- feedback: Explica por qué es correcta: moverse a la derecha aumenta la coordenada x: 2 + 4 = 6; la y no cambia. -->
-- [ ] B) (2, 7)
+- [ ] A) (2, 7)
   <!-- feedback: Explica el error conceptual: suma las 4 unidades a la coordenada y, como si el movimiento fuera hacia arriba. -->
-- [ ] C) (6, 7)
+- [ ] B) (6, 7)
   <!-- feedback: Explica el error conceptual: suma las 4 unidades a ambas coordenadas en vez de solo a x. -->
 - [ ] D) (-2, 3)
   <!-- feedback: Explica el error conceptual: resta en vez de sumar, moviendo el punto a la izquierda. -->
@@ -67,11 +67,11 @@ En el plano cartesiano, la horizontal es x y la vertical es y. Moverse a la dere
 ### Enunciado
 Si un punto del motivo está en (3, 1), ¿dónde queda su reflejo sobre el eje vertical?
 ### Opciones
-- [x] A) (-3, 1)
+- [x] C) (-3, 1)
   <!-- feedback: Explica por qué es correcta: el espejo vertical cambia el signo de x (3 → -3) y conserva y = 1. -->
-- [ ] B) (3, -1)
+- [ ] A) (3, -1)
   <!-- feedback: Explica el error conceptual: cambia el signo de y, lo que corresponde a un espejo horizontal, no vertical. -->
-- [ ] C) (-3, -1)
+- [ ] B) (-3, -1)
   <!-- feedback: Explica el error conceptual: cambia ambas coordenadas, como en un giro de media vuelta, no en una reflexión. -->
 - [ ] D) (3, 1)
   <!-- feedback: Explica el error conceptual: deja el punto igual, como si el espejo no moviera nada. -->
@@ -143,9 +143,9 @@ Los movimientos se componen en orden: primero la traslación vertical (y: 1 + 2 
 ### Enunciado
 ¿Dónde queda el vértice A después de la traslación?
 ### Opciones
-- [x] A) (2, 2)
+- [x] B) (2, 2)
   <!-- feedback: Explica por qué es correcta: izquierda resta en x (5 - 3 = 2) y abajo resta en y (4 - 2 = 2). -->
-- [ ] B) (8, 6)
+- [ ] A) (8, 6)
   <!-- feedback: Explica el error conceptual: suma en ambas coordenadas, moviendo a la derecha y hacia arriba. -->
 - [ ] C) (2, 6)
   <!-- feedback: Explica el error conceptual: mueve bien en x pero suma en y en vez de restar. -->
@@ -162,11 +162,11 @@ Izquierda y abajo restan: x − 3, y − 2. Así A(5, 4) → (2, 2). Toda la fig
 ### Enunciado
 ¿Cuál figura tiene con seguridad al menos un eje de simetría?
 ### Opciones
-- [x] A) La mariposa
+- [x] C) La mariposa
   <!-- feedback: Explica por qué es correcta: las alas de la mariposa son imágenes especulares; su cuerpo marca el eje vertical de simetría. -->
-- [ ] B) La escalera en espiral
+- [ ] A) La escalera en espiral
   <!-- feedback: Explica el error conceptual: la espiral gira sin repetirse como espejo; no tiene simetría de reflexión. -->
-- [ ] C) La flecha inclinada
+- [ ] B) La flecha inclinada
   <!-- feedback: Explica el error conceptual: inclinada no se refleja sobre sí misma en ningún eje. -->
 - [ ] D) Ninguna figura natural tiene simetría
   <!-- feedback: Explica el error conceptual: muchas formas naturales, como la mariposa, sí presentan simetría bilateral. -->
@@ -200,13 +200,13 @@ Las traslaciones son movimientos rígidos: conservan distancias y ángulos siemp
 ### Enunciado
 ¿Cuál es la mejor estrategia geométrica y por qué?
 ### Opciones
-- [x] A) Aplicar traslaciones repetidas del motivo, porque conservan forma y tamaño
+- [x] D) Aplicar traslaciones repetidas del motivo, porque conservan forma y tamaño
   <!-- feedback: Explica por qué es correcta: repetir el mismo desplazamiento reproduce el motivo idéntico a lo largo de la pared. -->
-- [ ] B) Agrandar un poco el motivo en cada repetición para llenar la pared
+- [ ] A) Agrandar un poco el motivo en cada repetición para llenar la pared
   <!-- feedback: Explica el error conceptual: cambiar el tamaño rompe el diseño y deforma el motivo original. -->
-- [ ] C) Girar el motivo al azar en cada posición para que se vea variado
+- [ ] B) Girar el motivo al azar en cada posición para que se vea variado
   <!-- feedback: Explica el error conceptual: los giros aleatorios destruyen el patrón regular que pide el diseño. -->
-- [ ] D) Reflejar el motivo solo una vez y estirarlo hasta cubrir la pared
+- [ ] C) Reflejar el motivo solo una vez y estirarlo hasta cubrir la pared
   <!-- feedback: Explica el error conceptual: una sola reflexión no cubre la pared y estirar deforma el motivo. -->
 ### Explicacion Pedagogica
 Los patrones de recubrimiento (teselados) se generan con traslaciones repetidas del motivo base. Elegir el movimiento que conserva congruencia garantiza un diseño uniforme y fiel al original.

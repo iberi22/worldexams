@@ -35,9 +35,9 @@ Este bundle evalúa conceptos clave de Función Cuadrática alineados al curríc
 ¿Cuáles son las coordenadas del vértice $(h, k)$ de una parábola representativa de la función cuadrática $f(x) = ax^2 + bx + c$?
 
 ### Opciones
-- [x] A) $h = -\frac{b}{2a}$, y $k = f(h)$ <!-- feedback: ¡Correcto! El valor de la abscisa del vértice es $h = -\frac{b}{2a}$, y su ordenada se obtiene evaluando este valor en la función cuadrática. -->
-- [ ] B) $h = \frac{b}{2a}$, y $k = f(h)$ <!-- feedback: Incorrecto. Olvidó el signo negativo en la fórmula de la abscisa del vértice. -->
-- [ ] C) $h = -\frac{b}{a}$, y $k = c$ <!-- feedback: Incorrecto. La fórmula para la posición del vértice del eje es $-b/(2a)$, no $-b/a$. -->
+- [x] C) $h = -\frac{b}{2a}$, y $k = f(h)$ <!-- feedback: ¡Correcto! El valor de la abscisa del vértice es $h = -\frac{b}{2a}$, y su ordenada se obtiene evaluando este valor en la función cuadrática. -->
+- [ ] A) $h = \frac{b}{2a}$, y $k = f(h)$ <!-- feedback: Incorrecto. Olvidó el signo negativo en la fórmula de la abscisa del vértice. -->
+- [ ] B) $h = -\frac{b}{a}$, y $k = c$ <!-- feedback: Incorrecto. La fórmula para la posición del vértice del eje es $-b/(2a)$, no $-b/a$. -->
 - [ ] D) $h = b^2 - 4ac$, y $k = 0$ <!-- feedback: Incorrecto. Ese valor corresponde al discriminante de la ecuación. -->
 
 ### Explicacion Pedagogica
@@ -56,9 +56,9 @@ El vértice $(h, k)$ de una función cuadrática de la forma general se localiza
 ¿Cuál es la ecuación del eje de simetría de una parábola dada por la función cuadrática $f(x) = ax^2 + bx + c$?
 
 ### Opciones
-- [x] A) $x = -\frac{b}{2a}$ <!-- feedback: ¡Correcto! El eje de simetría es la recta vertical que pasa por el vértice de la parábola. -->
-- [ ] B) $y = -\frac{b}{2a}$ <!-- feedback: Incorrecto. El eje de simetría es una recta vertical ($x = constante$), no una horizontal ($y = constante$). -->
-- [ ] C) $x = \frac{b}{a}$ <!-- feedback: Incorrecto. El eje de simetría tiene ecuación $x = -b/(2a)$. -->
+- [x] C) $x = -\frac{b}{2a}$ <!-- feedback: ¡Correcto! El eje de simetría es la recta vertical que pasa por el vértice de la parábola. -->
+- [ ] A) $y = -\frac{b}{2a}$ <!-- feedback: Incorrecto. El eje de simetría es una recta vertical ($x = constante$), no una horizontal ($y = constante$). -->
+- [ ] B) $x = \frac{b}{a}$ <!-- feedback: Incorrecto. El eje de simetría tiene ecuación $x = -b/(2a)$. -->
 - [ ] D) $x = b^2 - 4ac$ <!-- feedback: Incorrecto. El discriminante no determina directamente la ecuación de simetría vertical. -->
 
 ### Explicacion Pedagogica
@@ -77,8 +77,8 @@ El eje de simetría de una parábola es la recta vertical que divide a la figura
 Un chorro de agua de una plaza de Luque sigue una trayectoria parabólica dada por la función de altura $h(x) = -(x - 3)^2 + 25$ en metros. ¿Cuál es la altura máxima que alcanza el chorro de agua?
 
 ### Opciones
-- [x] A) 25 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
-- [ ] B) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
+- [x] B) 25 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
+- [ ] A) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
 - [ ] C) 16 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
 - [ ] D) 28 metros <!-- feedback: Incorrecto. No corresponde al vértice de la parábola. -->
 
@@ -98,10 +98,10 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 Un chorro de agua de una plaza de Encarnación sigue una trayectoria parabólica dada por la función de altura $h(x) = -(x - 3)^2 + 30$ en metros. ¿Cuál es la altura máxima que alcanza el chorro de agua?
 
 ### Opciones
-- [x] A) 30 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
-- [ ] B) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
-- [ ] C) 21 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
-- [ ] D) 33 metros <!-- feedback: Incorrecto. No corresponde al vértice de la parábola. -->
+- [x] D) 30 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
+- [ ] A) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
+- [ ] B) 21 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
+- [ ] C) 33 metros <!-- feedback: Incorrecto. No corresponde al vértice de la parábola. -->
 
 ### Explicacion Pedagogica
 La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde el vértice es $(3, 30)$. Dado que $a = -1 < 0$, la parábola se abre hacia abajo, por lo que el vértice representa un punto máximo con altura máxima de $k = 30$ metros.
@@ -140,10 +140,10 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 Un chorro de agua de una plaza de Caacupé sigue una trayectoria parabólica dada por la función de altura $h(x) = -(x - 3)^2 + 40$ en metros. ¿Cuál es la altura máxima que alcanza el chorro de agua?
 
 ### Opciones
-- [x] A) 40 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
-- [ ] B) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
-- [ ] C) 31 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
-- [ ] D) 43 metros <!-- feedback: Incorrecto. No corresponde al vértice de la parábola. -->
+- [x] D) 40 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
+- [ ] A) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
+- [ ] B) 31 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
+- [ ] C) 43 metros <!-- feedback: Incorrecto. No corresponde al vértice de la parábola. -->
 
 ### Explicacion Pedagogica
 La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde el vértice es $(3, 40)$. Dado que $a = -1 < 0$, la parábola se abre hacia abajo, por lo que el vértice representa un punto máximo con altura máxima de $k = 40$ metros.
@@ -161,10 +161,10 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 Un chorro de agua de una plaza de Pilar sigue una trayectoria parabólica dada por la función de altura $h(x) = -(x - 3)^2 + 45$ en metros. ¿Cuál es la altura máxima que alcanza el chorro de agua?
 
 ### Opciones
-- [x] A) 45 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
-- [ ] B) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
-- [ ] C) 36 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
-- [ ] D) 48 metros <!-- feedback: Incorrecto. No corresponde al vértice de la parábola. -->
+- [x] D) 45 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
+- [ ] A) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
+- [ ] B) 36 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
+- [ ] C) 48 metros <!-- feedback: Incorrecto. No corresponde al vértice de la parábola. -->
 
 ### Explicacion Pedagogica
 La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde el vértice es $(3, 45)$. Dado que $a = -1 < 0$, la parábola se abre hacia abajo, por lo que el vértice representa un punto máximo con altura máxima de $k = 45$ metros.
@@ -182,8 +182,8 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 Un chorro de agua de una plaza de Coronel Oviedo sigue una trayectoria parabólica dada por la función de altura $h(x) = -(x - 3)^2 + 50$ en metros. ¿Cuál es la altura máxima que alcanza el chorro de agua?
 
 ### Opciones
-- [x] A) 50 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
-- [ ] B) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
+- [x] B) 50 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
+- [ ] A) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
 - [ ] C) 41 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
 - [ ] D) 53 metros <!-- feedback: Incorrecto. No corresponde al vértice de la parábola. -->
 
@@ -203,10 +203,10 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 Un chorro de agua de una plaza de Concepción sigue una trayectoria parabólica dada por la función de altura $h(x) = -(x - 3)^2 + 55$ en metros. ¿Cuál es la altura máxima que alcanza el chorro de agua?
 
 ### Opciones
-- [x] A) 55 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
-- [ ] B) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
-- [ ] C) 46 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
-- [ ] D) 58 metros <!-- feedback: Incorrecto. No corresponde al vértice de la parábola. -->
+- [x] D) 55 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
+- [ ] A) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
+- [ ] B) 46 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
+- [ ] C) 58 metros <!-- feedback: Incorrecto. No corresponde al vértice de la parábola. -->
 
 ### Explicacion Pedagogica
 La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde el vértice es $(3, 55)$. Dado que $a = -1 < 0$, la parábola se abre hacia abajo, por lo que el vértice representa un punto máximo con altura máxima de $k = 55$ metros.
@@ -224,9 +224,9 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 Un chorro de agua de una plaza de Villarrica sigue una trayectoria parabólica dada por la función de altura $h(x) = -(x - 3)^2 + 60$ en metros. ¿Cuál es la altura máxima que alcanza el chorro de agua?
 
 ### Opciones
-- [x] A) 60 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
-- [ ] B) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
-- [ ] C) 51 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
+- [x] C) 60 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
+- [ ] A) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
+- [ ] B) 51 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
 - [ ] D) 63 metros <!-- feedback: Incorrecto. No corresponde al vértice de la parábola. -->
 
 ### Explicacion Pedagogica
@@ -245,10 +245,10 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 Un chorro de agua de una plaza de Asunción sigue una trayectoria parabólica dada por la función de altura $h(x) = -(x - 3)^2 + 65$ en metros. ¿Cuál es la altura máxima que alcanza el chorro de agua?
 
 ### Opciones
-- [x] A) 65 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
-- [ ] B) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
-- [ ] C) 56 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
-- [ ] D) 68 metros <!-- feedback: Incorrecto. No corresponde al vértice de la parábola. -->
+- [x] D) 65 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
+- [ ] A) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
+- [ ] B) 56 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
+- [ ] C) 68 metros <!-- feedback: Incorrecto. No corresponde al vértice de la parábola. -->
 
 ### Explicacion Pedagogica
 La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde el vértice es $(3, 65)$. Dado que $a = -1 < 0$, la parábola se abre hacia abajo, por lo que el vértice representa un punto máximo con altura máxima de $k = 65$ metros.
@@ -266,9 +266,9 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 Un chorro de agua de una plaza de San Lorenzo sigue una trayectoria parabólica dada por la función de altura $h(x) = -(x - 3)^2 + 70$ en metros. ¿Cuál es la altura máxima que alcanza el chorro de agua?
 
 ### Opciones
-- [x] A) 70 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
-- [ ] B) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
-- [ ] C) 61 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
+- [x] C) 70 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
+- [ ] A) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
+- [ ] B) 61 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
 - [ ] D) 73 metros <!-- feedback: Incorrecto. No corresponde al vértice de la parábola. -->
 
 ### Explicacion Pedagogica
@@ -287,9 +287,9 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 Un chorro de agua de una plaza de Luque sigue una trayectoria parabólica dada por la función de altura $h(x) = -(x - 3)^2 + 75$ en metros. ¿Cuál es la altura máxima que alcanza el chorro de agua?
 
 ### Opciones
-- [x] A) 75 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
-- [ ] B) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
-- [ ] C) 66 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
+- [x] C) 75 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
+- [ ] A) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
+- [ ] B) 66 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
 - [ ] D) 78 metros <!-- feedback: Incorrecto. No corresponde al vértice de la parábola. -->
 
 ### Explicacion Pedagogica
@@ -308,10 +308,10 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 Un chorro de agua de una plaza de Encarnación sigue una trayectoria parabólica dada por la función de altura $h(x) = -(x - 3)^2 + 80$ en metros. ¿Cuál es la altura máxima que alcanza el chorro de agua?
 
 ### Opciones
-- [x] A) 80 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
-- [ ] B) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
-- [ ] C) 71 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
-- [ ] D) 83 metros <!-- feedback: Incorrecto. No corresponde al vértice de la parábola. -->
+- [x] D) 80 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
+- [ ] A) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
+- [ ] B) 71 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
+- [ ] C) 83 metros <!-- feedback: Incorrecto. No corresponde al vértice de la parábola. -->
 
 ### Explicacion Pedagogica
 La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde el vértice es $(3, 80)$. Dado que $a = -1 < 0$, la parábola se abre hacia abajo, por lo que el vértice representa un punto máximo con altura máxima de $k = 80$ metros.
@@ -329,9 +329,9 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 Un chorro de agua de una plaza de Ciudad del Este sigue una trayectoria parabólica dada por la función de altura $h(x) = -(x - 3)^2 + 85$ en metros. ¿Cuál es la altura máxima que alcanza el chorro de agua?
 
 ### Opciones
-- [x] A) 85 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
-- [ ] B) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
-- [ ] C) 76 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
+- [x] C) 85 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
+- [ ] A) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
+- [ ] B) 76 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
 - [ ] D) 88 metros <!-- feedback: Incorrecto. No corresponde al vértice de la parábola. -->
 
 ### Explicacion Pedagogica
@@ -350,8 +350,8 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 Un chorro de agua de una plaza de Caacupé sigue una trayectoria parabólica dada por la función de altura $h(x) = -(x - 3)^2 + 90$ en metros. ¿Cuál es la altura máxima que alcanza el chorro de agua?
 
 ### Opciones
-- [x] A) 90 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
-- [ ] B) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
+- [x] B) 90 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
+- [ ] A) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
 - [ ] C) 81 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
 - [ ] D) 93 metros <!-- feedback: Incorrecto. No corresponde al vértice de la parábola. -->
 
@@ -371,10 +371,10 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 Un chorro de agua de una plaza de Pilar sigue una trayectoria parabólica dada por la función de altura $h(x) = -(x - 3)^2 + 95$ en metros. ¿Cuál es la altura máxima que alcanza el chorro de agua?
 
 ### Opciones
-- [x] A) 95 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
-- [ ] B) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
-- [ ] C) 86 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
-- [ ] D) 98 metros <!-- feedback: Incorrecto. No corresponde al vértice de la parábola. -->
+- [x] D) 95 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
+- [ ] A) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
+- [ ] B) 86 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
+- [ ] C) 98 metros <!-- feedback: Incorrecto. No corresponde al vértice de la parábola. -->
 
 ### Explicacion Pedagogica
 La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde el vértice es $(3, 95)$. Dado que $a = -1 < 0$, la parábola se abre hacia abajo, por lo que el vértice representa un punto máximo con altura máxima de $k = 95$ metros.
@@ -392,9 +392,9 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 Un chorro de agua de una plaza de Coronel Oviedo sigue una trayectoria parabólica dada por la función de altura $h(x) = -(x - 3)^2 + 100$ en metros. ¿Cuál es la altura máxima que alcanza el chorro de agua?
 
 ### Opciones
-- [x] A) 100 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
-- [ ] B) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
-- [ ] C) 91 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
+- [x] C) 100 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
+- [ ] A) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
+- [ ] B) 91 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
 - [ ] D) 103 metros <!-- feedback: Incorrecto. No corresponde al vértice de la parábola. -->
 
 ### Explicacion Pedagogica
@@ -434,10 +434,10 @@ La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde
 Un chorro de agua de una plaza de Villarrica sigue una trayectoria parabólica dada por la función de altura $h(x) = -(x - 3)^2 + 110$ en metros. ¿Cuál es la altura máxima que alcanza el chorro de agua?
 
 ### Opciones
-- [x] A) 110 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
-- [ ] B) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
-- [ ] C) 101 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
-- [ ] D) 113 metros <!-- feedback: Incorrecto. No corresponde al vértice de la parábola. -->
+- [x] D) 110 metros <!-- feedback: ¡Correcto! Al estar en la forma canónica $h(x) = a(x - h)^2 + k$, el vértice $(h, k)$ tiene como ordenada $k$, que representa el extremo máximo. -->
+- [ ] A) 3 metros <!-- feedback: Incorrecto. 3 metros representa la distancia horizontal al vértice ($h$), no la altura máxima vertical. -->
+- [ ] B) 101 metros <!-- feedback: Incorrecto. Evaluó incorrectamente los términos constantes de la parábola. -->
+- [ ] C) 113 metros <!-- feedback: Incorrecto. No corresponde al vértice de la parábola. -->
 
 ### Explicacion Pedagogica
 La función está expresada en su forma canónica $h(x) = a(x - h)^2 + k$, donde el vértice es $(3, 110)$. Dado que $a = -1 < 0$, la parábola se abre hacia abajo, por lo que el vértice representa un punto máximo con altura máxima de $k = 110$ metros.

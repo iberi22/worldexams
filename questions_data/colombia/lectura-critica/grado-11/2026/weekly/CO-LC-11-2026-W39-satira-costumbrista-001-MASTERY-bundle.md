@@ -35,9 +35,9 @@ centradas en ironía, caricatura y crítica social desde la literatura costumbri
 ¿Qué es el costumbrismo literario?
 
 ### Opciones
-- [x] A) Una corriente que describe costumbres, tipos sociales y escenas cotidianas de una época y lugar.
+- [x] B) Una corriente que describe costumbres, tipos sociales y escenas cotidianas de una época y lugar.
   <!-- feedback: Foco en tipos, hábitos y escenas reconocibles. -->
-- [ ] B) Un género exclusivamente científico.
+- [ ] A) Un género exclusivamente científico.
   <!-- feedback: Es literario. -->
 - [ ] C) Una corriente de ciencia ficción.
   <!-- feedback: Describe lo cotidiano. -->
@@ -81,11 +81,11 @@ La sátira combina crítica social y recursos humorísticos para provocar reflex
 ¿Por qué la sátira logra mayor eficacia crítica que la denuncia directa?
 
 ### Opciones
-- [x] A) Porque apela al humor y a la ironía para burlar defensas y abrir reflexión.
+- [x] C) Porque apela al humor y a la ironía para burlar defensas y abrir reflexión.
   <!-- feedback: Relaja y dispone al lector. -->
-- [ ] B) Porque evita cualquier argumento.
+- [ ] A) Porque evita cualquier argumento.
   <!-- feedback: Argumenta con humor. -->
-- [ ] C) Porque oculta totalmente su intención.
+- [ ] B) Porque oculta totalmente su intención.
   <!-- feedback: La intención es legible. -->
 - [ ] D) Porque imita el lenguaje técnico.
   <!-- feedback: Usa lenguaje coloquial. -->
@@ -104,11 +104,11 @@ El humor desactiva resistencias y permite abordar críticamente lo establecido.
 En el costumbrismo, un "tipo" social es:
 
 ### Opciones
-- [x] A) Un personaje representativo de una clase, oficio o costumbre de su época.
+- [x] C) Un personaje representativo de una clase, oficio o costumbre de su época.
   <!-- feedback: Encarna una categoría social. -->
-- [ ] B) Un modelo estadístico de población.
+- [ ] A) Un modelo estadístico de población.
   <!-- feedback: Es literario. -->
-- [ ] C) Un personaje fantástico sin anclaje social.
+- [ ] B) Un personaje fantástico sin anclaje social.
   <!-- feedback: Tiene anclaje. -->
 - [ ] D) Una categoría gramatical sin referente humano.
   <!-- feedback: Es cultural. -->
@@ -127,11 +127,11 @@ Los tipos condensan rasgos colectivos y permiten la crítica social por caricatu
 En un texto costumbrista, una descripción detallada del atuendo, los gestos y la charla de un comerciante de mercado funciona como:
 
 ### Opciones
-- [x] A) Caracterización tipológica que retrata hábitos de una clase social urbana.
+- [x] C) Caracterización tipológica que retrata hábitos de una clase social urbana.
   <!-- feedback: Construye un tipo reconocible. -->
-- [ ] B) Información científica sin intención crítica.
+- [ ] A) Información científica sin intención crítica.
   <!-- feedback: Posee intención estética y crítica. -->
-- [ ] C) Anuncio publicitario literal.
+- [ ] B) Anuncio publicitario literal.
   <!-- feedback: Es literario. -->
 - [ ] D) Descripción naturalista de fauna.
   <!-- feedback: Es de personas. -->
@@ -150,13 +150,13 @@ La descripción costumbrista estiliza lo cotidiano para reflejar una sociedad.
 En una columna satírica, frases como "Don Perfecto, siempre perfecto en todo, excepto en humanidad" usan principalmente:
 
 ### Opciones
-- [x] A) Ironía: se dice lo contrario de lo que se piensa.
+- [x] D) Ironía: se dice lo contrario de lo que se piensa.
   <!-- feedback: Es ironía verbal. -->
-- [ ] B) Metáfora científica.
+- [ ] A) Metáfora científica.
   <!-- feedback: Es coloquial. -->
-- [ ] C) Discurso técnico legal.
+- [ ] B) Discurso técnico legal.
   <!-- feedback: Es humorístico. -->
-- [ ] D) Hipérbatum exclusivamente.
+- [ ] C) Hipérbatum exclusivamente.
   <!-- feedback: No hay inversión del orden. -->
 
 ### Explicacion Pedagogica
@@ -173,9 +173,9 @@ La ironía es eje de la sátira: expresa crítica sin explicitar la denuncia.
 Una caricatura política que exagera rasgos físicos de un funcionario para asociarlos con decisiones impopulares funciona como:
 
 ### Opciones
-- [x] A) Hipérbole visual con intención satírica y crítica.
+- [x] B) Hipérbole visual con intención satírica y crítica.
   <!-- feedback: Exagera para denunciar. -->
-- [ ] B) Retrato fiel sin intención.
+- [ ] A) Retrato fiel sin intención.
   <!-- feedback: Hay distorsión intencionada. -->
 - [ ] C) Ilustración decorativa.
   <!-- feedback: Critica. -->
@@ -196,11 +196,11 @@ La caricatura sintetiza rasgos para producir crítica política con economía vi
 En una columna satírica, el uso de refranes populares con un giro inesperado cumple principalmente la función de:
 
 ### Opciones
-- [x] A) Conectar con la cultura compartida y subvertir el refrán para cuestionar.
+- [x] C) Conectar con la cultura compartida y subvertir el refrán para cuestionar.
   <!-- feedback: Provoca contraste crítico. -->
-- [ ] B) Llenar el texto sin efecto.
+- [ ] A) Llenar el texto sin efecto.
   <!-- feedback: Tiene efecto irónico. -->
-- [ ] C) Evitar el humor.
+- [ ] B) Evitar el humor.
   <!-- feedback: Lo potencia. -->
 - [ ] D) Copiar literalmente el saber popular.
   <!-- feedback: Lo transforma. -->
@@ -219,11 +219,11 @@ La reelaboración irónica de refranes activa la memoria cultural y la somete a 
 En una crónica del siglo XIX sobre una fiesta patronal y un cuadro costumbrista actual sobre una verbena popular, el elemento común es:
 
 ### Opciones
-- [x] A) La representación detallada de una práctica cultural colectiva reconocible.
+- [x] C) La representación detallada de una práctica cultural colectiva reconocible.
   <!-- feedback: Persiste la intención costumbrista. -->
-- [ ] B) El rechazo total de la cultura popular.
+- [ ] A) El rechazo total de la cultura popular.
   <!-- feedback: La celebra críticamente. -->
-- [ ] C) La ausencia de personajes.
+- [ ] B) La ausencia de personajes.
   <!-- feedback: Están presentes. -->
 - [ ] D) El enfoque futurista.
   <!-- feedback: Mira el presente. -->
@@ -265,13 +265,13 @@ Una sátira ética cuestiona sin destruir, promueve diálogo y respeta dignidad.
 ¿Cuál es la diferencia fundamental entre el costumbrismo romántico del siglo XIX y la sátira contemporánea?
 
 ### Opciones
-- [x] A) El costumbrismo describe con simpatía crítica; la sátira contemporánea usa humor ácido para evidenciar poderes.
+- [x] D) El costumbrismo describe con simpatía crítica; la sátira contemporánea usa humor ácido para evidenciar poderes.
   <!-- feedback: Cambian tono y objetivo. -->
-- [ ] B) El costumbrismo no usa humor.
+- [ ] A) El costumbrismo no usa humor.
   <!-- feedback: Lo usa con suavidad. -->
-- [ ] C) La sátira contemporánea es descriptiva y neutra.
+- [ ] B) La sátira contemporánea es descriptiva y neutra.
   <!-- feedback: Es crítica. -->
-- [ ] D) Son idénticas en intención.
+- [ ] C) Son idénticas en intención.
   <!-- feedback: Difieren en alcance y tono. -->
 
 ### Explicacion Pedagogica
@@ -288,13 +288,13 @@ Ambas observan la realidad, pero la sátira contemporánea profundiza la denunci
 Al analizar un meme satírico sobre un funcionario público colombiano, ¿qué se debe considerar primero?
 
 ### Opciones
-- [x] A) El contexto político, la intención del autor y el efecto buscado en la audiencia.
+- [x] D) El contexto político, la intención del autor y el efecto buscado en la audiencia.
   <!-- feedback: Es interpretación multimodal. -->
-- [ ] B) Solo el tamaño de la imagen.
+- [ ] A) Solo el tamaño de la imagen.
   <!-- feedback: Es dato formal. -->
-- [ ] C) La marca del dispositivo con que se hizo.
+- [ ] B) La marca del dispositivo con que se hizo.
   <!-- feedback: Irrelevante. -->
-- [ ] D) La cantidad de píxeles.
+- [ ] C) La cantidad de píxeles.
   <!-- feedback: No aporta sentido. -->
 
 ### Explicacion Pedagogica
@@ -311,9 +311,9 @@ La interpretación de una sátira exige atención al contexto y a los códigos c
 En una comedia costumbrista, cuando el avaro termina perdiendo su dinero por tacaño, el efecto cómico depende de:
 
 ### Opciones
-- [x] A) La ironía situacional: el resultado contradice la intención del personaje.
+- [x] B) La ironía situacional: el resultado contradice la intención del personaje.
   <!-- feedback: Es ironía dramática. -->
-- [ ] B) Una catástrofe ajena al personaje.
+- [ ] A) Una catástrofe ajena al personaje.
   <!-- feedback: Proviene de su propia acción. -->
 - [ ] C) Un error técnico del autor.
   <!-- feedback: Es deliberado. -->
@@ -334,11 +334,11 @@ La ironía dramática surge cuando el destino contradice las decisiones del pers
 En una caricatura escrita, frases con paralelismos como "promete mucho, cumple poco; anuncia bastante, entrega nada" tienen un efecto principalmente:
 
 ### Opciones
-- [x] A) Rítmico y contrastante: la repetición subraya la contradicción denunciada.
+- [x] C) Rítmico y contrastante: la repetición subraya la contradicción denunciada.
   <!-- feedback: Es paralelismo antitético. -->
-- [ ] B) Aleatorio y confuso.
+- [ ] A) Aleatorio y confuso.
   <!-- feedback: Es ordenado. -->
-- [ ] C) Exclusivamente narrativo.
+- [ ] B) Exclusivamente narrativo.
   <!-- feedback: Es argumentativo. -->
 - [ ] D) Sin efecto significativo.
   <!-- feedback: Refuerza la crítica. -->
@@ -357,11 +357,11 @@ El paralelismo antitético organiza la denuncia y la hace memorable.
 ¿Qué tienen en común las tradiciones satíricas latinoamericanas como el "costumbrismo" colombiano, la "lirica popular" y la "caricatura política"?
 
 ### Opciones
-- [x] A) Critican prácticas sociales con humor reconocible, exponiendo vicios compartidos.
+- [x] C) Critican prácticas sociales con humor reconocible, exponiendo vicios compartidos.
   <!-- feedback: Es el denominador común. -->
-- [ ] B) Evitan la crítica política.
+- [ ] A) Evitan la crítica política.
   <!-- feedback: La abordan. -->
-- [ ] C) Son exclusivamente serias.
+- [ ] B) Son exclusivamente serias.
   <!-- feedback: Usan humor. -->
 - [ ] D) Están desconectadas de la realidad.
   <!-- feedback: Están ancladas a ella. -->
@@ -403,13 +403,13 @@ La comparación crítica de sátiras exige atención al contexto cultural y al t
 ¿Cuál es la vigencia del costumbrismo en la literatura colombiana actual?
 
 ### Opciones
-- [x] A) Persiste como mirada crítica a nuevas costumbres urbanas, digitales y culturales.
+- [x] D) Persiste como mirada crítica a nuevas costumbres urbanas, digitales y culturales.
   <!-- feedback: Se renueva con nuevos temas. -->
-- [ ] B) Desapareció totalmente.
+- [ ] A) Desapareció totalmente.
   <!-- feedback: Persiste transformado. -->
-- [ ] C) Solo se estudia históricamente sin práctica.
+- [ ] B) Solo se estudia históricamente sin práctica.
   <!-- feedback: Se cultiva. -->
-- [ ] D) Es incompatible con la crítica social.
+- [ ] C) Es incompatible con la crítica social.
   <!-- feedback: La promueve. -->
 
 ### Explicacion Pedagogica
@@ -426,9 +426,9 @@ El costumbrismo se adapta a nuevas escenas sociales sin perder su intención cr�
 ¿Qué riesgos éticos enfrenta la sátira política en redes sociales?
 
 ### Opciones
-- [x] A) Difamación, simplificación de debates y viralización de mensajes ofensivos.
+- [x] B) Difamación, simplificación de debates y viralización de mensajes ofensivos.
   <!-- feedback: Riesgos documentados. -->
-- [ ] B) Total ausencia de efectos.
+- [ ] A) Total ausencia de efectos.
   <!-- feedback: Tiene efectos. -->
 - [ ] C) Eliminación del humor.
   <!-- feedback: El humor se mantiene. -->
@@ -449,9 +449,9 @@ La sátira digital exige responsabilidad: humor sin difamación y crítica sin o
 ¿Qué valor pedagógico tiene la caricatura como recurso didáctico en la lectura crítica?
 
 ### Opciones
-- [x] A) Permite analizar intencionalidad, contexto y mecanismos de persuasión en clave visual.
+- [x] B) Permite analizar intencionalidad, contexto y mecanismos de persuasión en clave visual.
   <!-- feedback: Es recurso multimodal. -->
-- [ ] B) Solo entretiene sin enseñar.
+- [ ] A) Solo entretiene sin enseñar.
   <!-- feedback: Enseña. -->
 - [ ] C) Elimina la reflexión sobre el lenguaje.
   <!-- feedback: La refuerza. -->

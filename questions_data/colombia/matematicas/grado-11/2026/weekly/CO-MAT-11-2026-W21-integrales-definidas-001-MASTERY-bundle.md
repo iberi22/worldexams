@@ -81,11 +81,11 @@ La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo:
 Calcule el valor de la integral definida $\int_{0}^{3} 2x \, dx$ que representa el área bajo la curva de velocidad de un objeto.
 
 ### Opciones
-- [x] A) $9$
+- [x] C) $9$
   <!-- feedback: Correcto: evaluación exacta de la antiderivada en los límites superior e inferior. -->
-- [ ] B) $12$
+- [ ] A) $12$
   <!-- feedback: Incorrecto: se evaluó la función integrandola con un error en los límites. -->
-- [ ] C) $16$
+- [ ] B) $16$
   <!-- feedback: Incorrecto: error al sumar una constante arbitraria. -->
 - [ ] D) $21$
   <!-- feedback: Incorrecto: se agregó un término espurio tras integrar. -->
@@ -127,9 +127,9 @@ La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo:
 Calcule el valor de la integral definida $\int_{0}^{5} 2x \, dx$ que representa el área bajo la curva de velocidad de un objeto.
 
 ### Opciones
-- [x] A) $25$
+- [x] B) $25$
   <!-- feedback: Correcto: evaluación exacta de la antiderivada en los límites superior e inferior. -->
-- [ ] B) $28$
+- [ ] A) $28$
   <!-- feedback: Incorrecto: se evaluó la función integrandola con un error en los límites. -->
 - [ ] C) $32$
   <!-- feedback: Incorrecto: error al sumar una constante arbitraria. -->
@@ -150,11 +150,11 @@ La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo:
 Calcule el valor de la integral definida $\int_{0}^{6} 2x \, dx$ que representa el área bajo la curva de velocidad de un objeto.
 
 ### Opciones
-- [x] A) $36$
+- [x] C) $36$
   <!-- feedback: Correcto: evaluación exacta de la antiderivada en los límites superior e inferior. -->
-- [ ] B) $39$
+- [ ] A) $39$
   <!-- feedback: Incorrecto: se evaluó la función integrandola con un error en los límites. -->
-- [ ] C) $43$
+- [ ] B) $43$
   <!-- feedback: Incorrecto: error al sumar una constante arbitraria. -->
 - [ ] D) $48$
   <!-- feedback: Incorrecto: se agregó un término espurio tras integrar. -->
@@ -173,9 +173,9 @@ La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo:
 Calcule el valor de la integral definida $\int_{0}^{7} 2x \, dx$ que representa el área bajo la curva de velocidad de un objeto.
 
 ### Opciones
-- [x] A) $49$
+- [x] B) $49$
   <!-- feedback: Correcto: evaluación exacta de la antiderivada en los límites superior e inferior. -->
-- [ ] B) $52$
+- [ ] A) $52$
   <!-- feedback: Incorrecto: se evaluó la función integrandola con un error en los límites. -->
 - [ ] C) $56$
   <!-- feedback: Incorrecto: error al sumar una constante arbitraria. -->
@@ -196,9 +196,9 @@ La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo:
 Calcule el valor de la integral definida $\int_{0}^{8} 2x \, dx$ que representa el área bajo la curva de velocidad de un objeto.
 
 ### Opciones
-- [x] A) $64$
+- [x] B) $64$
   <!-- feedback: Correcto: evaluación exacta de la antiderivada en los límites superior e inferior. -->
-- [ ] B) $67$
+- [ ] A) $67$
   <!-- feedback: Incorrecto: se evaluó la función integrandola con un error en los límites. -->
 - [ ] C) $71$
   <!-- feedback: Incorrecto: error al sumar una constante arbitraria. -->
@@ -219,13 +219,13 @@ La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo:
 Calcule el valor de la integral definida $\int_{0}^{9} 2x \, dx$ que representa el área bajo la curva de velocidad de un objeto.
 
 ### Opciones
-- [x] A) $81$
+- [x] D) $81$
   <!-- feedback: Correcto: evaluación exacta de la antiderivada en los límites superior e inferior. -->
-- [ ] B) $84$
+- [ ] A) $84$
   <!-- feedback: Incorrecto: se evaluó la función integrandola con un error en los límites. -->
-- [ ] C) $88$
+- [ ] B) $88$
   <!-- feedback: Incorrecto: error al sumar una constante arbitraria. -->
-- [ ] D) $93$
+- [ ] C) $93$
   <!-- feedback: Incorrecto: se agregó un término espurio tras integrar. -->
 
 ### Explicacion Pedagogica
@@ -242,13 +242,13 @@ La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo:
 Calcule el valor de la integral definida $\int_{0}^{10} 2x \, dx$ que representa el área bajo la curva de velocidad de un objeto.
 
 ### Opciones
-- [x] A) $100$
+- [x] D) $100$
   <!-- feedback: Correcto: evaluación exacta de la antiderivada en los límites superior e inferior. -->
-- [ ] B) $103$
+- [ ] A) $103$
   <!-- feedback: Incorrecto: se evaluó la función integrandola con un error en los límites. -->
-- [ ] C) $107$
+- [ ] B) $107$
   <!-- feedback: Incorrecto: error al sumar una constante arbitraria. -->
-- [ ] D) $112$
+- [ ] C) $112$
   <!-- feedback: Incorrecto: se agregó un término espurio tras integrar. -->
 
 ### Explicacion Pedagogica
@@ -265,11 +265,11 @@ La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo:
 Calcule el valor de la integral definida $\int_{0}^{11} 2x \, dx$ que representa el área bajo la curva de velocidad de un objeto.
 
 ### Opciones
-- [x] A) $121$
+- [x] C) $121$
   <!-- feedback: Correcto: evaluación exacta de la antiderivada en los límites superior e inferior. -->
-- [ ] B) $124$
+- [ ] A) $124$
   <!-- feedback: Incorrecto: se evaluó la función integrandola con un error en los límites. -->
-- [ ] C) $128$
+- [ ] B) $128$
   <!-- feedback: Incorrecto: error al sumar una constante arbitraria. -->
 - [ ] D) $133$
   <!-- feedback: Incorrecto: se agregó un término espurio tras integrar. -->
@@ -334,9 +334,9 @@ La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo:
 Calcule el valor de la integral definida $\int_{0}^{14} 2x \, dx$ que representa el área bajo la curva de velocidad de un objeto.
 
 ### Opciones
-- [x] A) $196$
+- [x] B) $196$
   <!-- feedback: Correcto: evaluación exacta de la antiderivada en los límites superior e inferior. -->
-- [ ] B) $199$
+- [ ] A) $199$
   <!-- feedback: Incorrecto: se evaluó la función integrandola con un error en los límites. -->
 - [ ] C) $203$
   <!-- feedback: Incorrecto: error al sumar una constante arbitraria. -->
@@ -380,11 +380,11 @@ La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo:
 Calcule el valor de la integral definida $\int_{0}^{16} 2x \, dx$ que representa el área bajo la curva de velocidad de un objeto.
 
 ### Opciones
-- [x] A) $256$
+- [x] C) $256$
   <!-- feedback: Correcto: evaluación exacta de la antiderivada en los límites superior e inferior. -->
-- [ ] B) $259$
+- [ ] A) $259$
   <!-- feedback: Incorrecto: se evaluó la función integrandola con un error en los límites. -->
-- [ ] C) $263$
+- [ ] B) $263$
   <!-- feedback: Incorrecto: error al sumar una constante arbitraria. -->
 - [ ] D) $268$
   <!-- feedback: Incorrecto: se agregó un término espurio tras integrar. -->
@@ -403,9 +403,9 @@ La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo:
 Calcule el valor de la integral definida $\int_{0}^{17} 2x \, dx$ que representa el área bajo la curva de velocidad de un objeto.
 
 ### Opciones
-- [x] A) $289$
+- [x] B) $289$
   <!-- feedback: Correcto: evaluación exacta de la antiderivada en los límites superior e inferior. -->
-- [ ] B) $292$
+- [ ] A) $292$
   <!-- feedback: Incorrecto: se evaluó la función integrandola con un error en los límites. -->
 - [ ] C) $296$
   <!-- feedback: Incorrecto: error al sumar una constante arbitraria. -->
@@ -426,13 +426,13 @@ La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo:
 Calcule el valor de la integral definida $\int_{0}^{18} 2x \, dx$ que representa el área bajo la curva de velocidad de un objeto.
 
 ### Opciones
-- [x] A) $324$
+- [x] D) $324$
   <!-- feedback: Correcto: evaluación exacta de la antiderivada en los límites superior e inferior. -->
-- [ ] B) $327$
+- [ ] A) $327$
   <!-- feedback: Incorrecto: se evaluó la función integrandola con un error en los límites. -->
-- [ ] C) $331$
+- [ ] B) $331$
   <!-- feedback: Incorrecto: error al sumar una constante arbitraria. -->
-- [ ] D) $336$
+- [ ] C) $336$
   <!-- feedback: Incorrecto: se agregó un término espurio tras integrar. -->
 
 ### Explicacion Pedagogica
@@ -449,11 +449,11 @@ La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo:
 Calcule el valor de la integral definida $\int_{0}^{19} 2x \, dx$ que representa el área bajo la curva de velocidad de un objeto.
 
 ### Opciones
-- [x] A) $361$
+- [x] C) $361$
   <!-- feedback: Correcto: evaluación exacta de la antiderivada en los límites superior e inferior. -->
-- [ ] B) $364$
+- [ ] A) $364$
   <!-- feedback: Incorrecto: se evaluó la función integrandola con un error en los límites. -->
-- [ ] C) $368$
+- [ ] B) $368$
   <!-- feedback: Incorrecto: error al sumar una constante arbitraria. -->
 - [ ] D) $373$
   <!-- feedback: Incorrecto: se agregó un término espurio tras integrar. -->
@@ -472,11 +472,11 @@ La antiderivada de $2x$ es $x^2$. Aplicando el Teorema Fundamental del Cálculo:
 Calcule el valor de la integral definida $\int_{0}^{20} 2x \, dx$ que representa el área bajo la curva de velocidad de un objeto.
 
 ### Opciones
-- [x] A) $400$
+- [x] C) $400$
   <!-- feedback: Correcto: evaluación exacta de la antiderivada en los límites superior e inferior. -->
-- [ ] B) $403$
+- [ ] A) $403$
   <!-- feedback: Incorrecto: se evaluó la función integrandola con un error en los límites. -->
-- [ ] C) $407$
+- [ ] B) $407$
   <!-- feedback: Incorrecto: error al sumar una constante arbitraria. -->
 - [ ] D) $412$
   <!-- feedback: Incorrecto: se agregó un término espurio tras integrar. -->

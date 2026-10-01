@@ -37,8 +37,8 @@ Since the new mall opened, I ________ there at least five times to look for eco-
 
 ### Opciones
 - [ ] A) went <!-- feedback: Incorrect. "Since" requires the Present Perfect. -->
-- [x] B) have been <!-- feedback: Correct! Present Perfect is used for actions in an unfinished period starting in the past. -->
-- [ ] C) am going <!-- feedback: Incorrect. This refers to the present or future arrangement. -->
+- [x] C) have been <!-- feedback: Correct! Present Perfect is used for actions in an unfinished period starting in the past. -->
+- [ ] B) am going <!-- feedback: Incorrect. This refers to the present or future arrangement. -->
 - [ ] D) had been <!-- feedback: Incorrect. Past Perfect is for an action before another past action. -->
 
 ### Explicacion Pedagogica
@@ -78,8 +78,8 @@ El *Pasado Perfecto Continuo* es ideal para resaltar cuánto tiempo estuvimos re
 Experts believe that in the next few years, more people ________ their own renewable energy at home.
 
 ### Opciones
-- [x] A) will be generating <!-- feedback: Correct! Future Continuous describes an action that will be in progress or a standard situation in the future. -->
-- [ ] B) have generated <!-- feedback: Incorrect. This is Present Perfect. -->
+- [x] B) will be generating <!-- feedback: Correct! Future Continuous describes an action that will be in progress or a standard situation in the future. -->
+- [ ] A) have generated <!-- feedback: Incorrect. This is Present Perfect. -->
 - [ ] C) generated <!-- feedback: Incorrect. This is Past Simple. -->
 - [ ] D) are generating <!-- feedback: Incorrect. This is usually for fixed arrangements. -->
 
@@ -101,8 +101,8 @@ El *Futuro Continuo* se usa frecuentemente para proyectar situaciones que serán
 
 ### Opciones
 - [ ] A) have watched <!-- feedback: Incorrect. The continuous form is better to explain a present result of a recent activity. -->
-- [x] B) have been watching <!-- feedback: Correct! Present Perfect Continuous explains a present state resulting from a recent continuous action. -->
-- [ ] C) had watched <!-- feedback: Incorrect. Past Perfect doesn't explain a current physical state as well. -->
+- [x] C) have been watching <!-- feedback: Correct! Present Perfect Continuous explains a present state resulting from a recent continuous action. -->
+- [ ] B) had watched <!-- feedback: Incorrect. Past Perfect doesn't explain a current physical state as well. -->
 - [ ] D) watch <!-- feedback: Incorrect. Simple present is for habits. -->
 
 ### Explicacion Pedagogica
@@ -122,8 +122,8 @@ In 2020, we ________ to live more sustainably, and we ________ our habits since 
 
 ### Opciones
 - [ ] A) have decided / changed <!-- feedback: Incorrect. "In 2020" requires Past Simple. -->
-- [x] B) decided / have changed <!-- feedback: Correct! Past Simple for the specific year and Present Perfect for the ongoing change. -->
-- [ ] C) decided / changed <!-- feedback: Incorrect. "Since then" requires Present Perfect. -->
+- [x] C) decided / have changed <!-- feedback: Correct! Past Simple for the specific year and Present Perfect for the ongoing change. -->
+- [ ] B) decided / changed <!-- feedback: Incorrect. "Since then" requires Present Perfect. -->
 - [ ] D) have decided / have changed <!-- feedback: Incorrect. "In 2020" cannot be used with Present Perfect. -->
 
 ### Explicacion Pedagogica
@@ -185,8 +185,8 @@ Select the most appropriate sentence for a person who started a diet **three wee
 
 ### Opciones
 - [ ] A) I started a diet for three weeks. <!-- feedback: Incorrect. "Started" is a point, not a duration. -->
-- [ ] B) I have been on a diet since three weeks. <!-- feedback: Incorrect. "Since" needs a specific starting point (date/time), not a period. -->
-- [x] C) I have been on a diet for three weeks. <!-- feedback: Correct! "For" is used for periods of time with Present Perfect. -->
+- [ ] C) I have been on a diet since three weeks. <!-- feedback: Incorrect. "Since" needs a specific starting point (date/time), not a period. -->
+- [x] B) I have been on a diet for three weeks. <!-- feedback: Correct! "For" is used for periods of time with Present Perfect. -->
 - [ ] D) I am on a diet three weeks ago. <!-- feedback: Incorrect. "Ago" is only for Past Simple. -->
 
 ### Explicacion Pedagogica
@@ -229,9 +229,9 @@ Identify the error in this paragraph:
 
 ### Opciones
 - [ ] A) became <!-- feedback: Incorrect. Correct use of Past Simple. -->
-- [ ] B) had been using <!-- feedback: Incorrect. Correct use of Past Perfect Continuous for duration before a past event. -->
-- [ ] C) has advanced <!-- feedback: Incorrect. Correct use of Present Perfect for recent changes. -->
-- [x] D) will have used <!-- feedback: Correct! This should be Future Continuous (*will be using*) because it refers to the ongoing state in the future, not its completion. -->
+- [ ] C) had been using <!-- feedback: Incorrect. Correct use of Past Perfect Continuous for duration before a past event. -->
+- [ ] D) has advanced <!-- feedback: Incorrect. Correct use of Present Perfect for recent changes. -->
+- [x] B) will have used <!-- feedback: Correct! This should be Future Continuous (*will be using*) because it refers to the ongoing state in the future, not its completion. -->
 
 ### Explicacion Pedagogica
 El contexto sugiere que en el futuro el uso de la IA será una actividad continua y normal, por lo que el *Futuro Continuo* es más adecuado que el *Futuro Perfecto*.
@@ -273,9 +273,9 @@ Choose the best summary of the first term's themes:
 
 ### Opciones
 - [ ] A) affected / happened / will affect <!-- feedback: Incorrect. Doesn't use the full range of B2 tenses. -->
-- [x] B) have affected / had happened / will be affecting <!-- feedback: Correct! Present Perfect for recent impact, Past Perfect for the distant past, and Future Continuous for future influence. -->
-- [ ] C) had affected / has happened / will have affected <!-- feedback: Incorrect. Tenses are logically misplaced. -->
-- [ ] D) affect / happen / affect <!-- feedback: Incorrect. Too simple for B2 level. -->
+- [x] D) have affected / had happened / will be affecting <!-- feedback: Correct! Present Perfect for recent impact, Past Perfect for the distant past, and Future Continuous for future influence. -->
+- [ ] B) had affected / has happened / will have affected <!-- feedback: Incorrect. Tenses are logically misplaced. -->
+- [ ] C) affect / happen / affect <!-- feedback: Incorrect. Too simple for B2 level. -->
 
 ### Explicacion Pedagogica
 Este ejercicio final requiere integrar los tres planos temporales (pasado, presente y futuro) usando las formas perfectas y continuas que caracterizan el nivel B2.

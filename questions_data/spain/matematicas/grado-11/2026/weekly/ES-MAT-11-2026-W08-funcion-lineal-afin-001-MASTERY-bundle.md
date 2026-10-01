@@ -71,8 +71,8 @@ La ordenada en el origen ($n$) es el valor de la imagen para $x = 0$. Gráficame
 Dada la función lineal $g(x) = 3x$, ¿cuál es el valor de $g(-4)$?
 
 ### Opciones
-- [ ] A) -7 <!-- feedback: Error al sumar en lugar de multiplicar. -->
-- [x] B) -12 <!-- feedback: Correcto. $3 \cdot (-4) = -12$. -->
+- [ ] B) -7 <!-- feedback: Error al sumar en lugar de multiplicar. -->
+- [x] A) -12 <!-- feedback: Correcto. $3 \cdot (-4) = -12$. -->
 - [ ] C) 12 <!-- feedback: Error de signo en la multiplicación. -->
 - [ ] D) -1 <!-- feedback: Error de cálculo. -->
 
@@ -93,8 +93,8 @@ Para hallar la imagen de un valor, sustituimos la variable $x$ por dicho valor e
 
 ### Opciones
 - [ ] A) $f(x) = 5x$ <!-- feedback: Es una función lineal pura, pasa por (0,0). -->
-- [x] B) $f(x) = 5x - 2$ <!-- feedback: Correcto. Tiene pendiente 5 y ordenada en el origen -2. -->
-- [ ] C) $f(x) = x^2$ <!-- feedback: Es una función cuadrática, no lineal ni afín. -->
+- [x] C) $f(x) = 5x - 2$ <!-- feedback: Correcto. Tiene pendiente 5 y ordenada en el origen -2. -->
+- [ ] B) $f(x) = x^2$ <!-- feedback: Es una función cuadrática, no lineal ni afín. -->
 - [ ] D) $f(x) = 7$ <!-- feedback: Es una función constante. -->
 
 ### Explicacion Pedagogica
@@ -114,8 +114,8 @@ Calcula la pendiente de la recta que pasa por los puntos $A(1, 2)$ y $B(3, 8)$.
 
 ### Opciones
 - [ ] A) 2 <!-- feedback: Error en el cálculo de la diferencia de ordenadas o abscisas. -->
-- [x] B) 3 <!-- feedback: Correcto. $m = (8 - 2) / (3 - 1) = 6 / 2 = 3$. -->
-- [ ] C) 1/3 <!-- feedback: Se ha calculado la diferencia de X entre la de Y (inversa de la pendiente). -->
+- [x] C) 3 <!-- feedback: Correcto. $m = (8 - 2) / (3 - 1) = 6 / 2 = 3$. -->
+- [ ] B) 1/3 <!-- feedback: Se ha calculado la diferencia de X entre la de Y (inversa de la pendiente). -->
 - [ ] D) 6 <!-- feedback: Se ha olvidado dividir por la diferencia de las abscisas. -->
 
 ### Explicacion Pedagogica
@@ -155,9 +155,9 @@ Los problemas de tarifas son aplicaciones directas de las funciones afines. La t
 ¿Qué condición deben cumplir dos rectas para ser paralelas?
 
 ### Opciones
-- [x] A) Tener la misma pendiente ($m_1 = m_2$). <!-- feedback: Correcto. Si tienen la misma inclinación, nunca se cortarán (a menos que sean la misma). -->
-- [ ] B) Tener la misma ordenada en el origen ($n_1 = n_2$). <!-- feedback: Esto solo significa que cortan al eje Y en el mismo punto. -->
-- [ ] C) Que sus pendientes sean recíprocas y opuestas. <!-- feedback: Esta es la condición de perpendicularidad. -->
+- [x] C) Tener la misma pendiente ($m_1 = m_2$). <!-- feedback: Correcto. Si tienen la misma inclinación, nunca se cortarán (a menos que sean la misma). -->
+- [ ] A) Tener la misma ordenada en el origen ($n_1 = n_2$). <!-- feedback: Esto solo significa que cortan al eje Y en el mismo punto. -->
+- [ ] B) Que sus pendientes sean recíprocas y opuestas. <!-- feedback: Esta es la condición de perpendicularidad. -->
 - [ ] D) Que el producto de sus pendientes sea 1. <!-- feedback: Condición incorrecta. -->
 
 ### Explicacion Pedagogica
@@ -198,8 +198,8 @@ Identificamos los puntos $(2, 70)$ y $(5, 130)$. Calculamos la pendiente usando 
 
 ### Opciones
 - [ ] A) (0, -12) <!-- feedback: Este es el corte con el eje Y. -->
-- [x] B) (3, 0) <!-- feedback: Correcto. $4x - 12 = 0 \Rightarrow 4x = 12 \Rightarrow x = 3$. -->
-- [ ] C) (-3, 0) <!-- feedback: Error de signo al despejar. -->
+- [x] C) (3, 0) <!-- feedback: Correcto. $4x - 12 = 0 \Rightarrow 4x = 12 \Rightarrow x = 3$. -->
+- [ ] B) (-3, 0) <!-- feedback: Error de signo al despejar. -->
 - [ ] D) (12, 0) <!-- feedback: Error de cálculo. -->
 
 ### Explicacion Pedagogica
@@ -218,8 +218,8 @@ El corte con el eje X (raíz de la función) se halla igualando la función a ce
 Halla la ecuación de la recta con pendiente $m = -1$ que pasa por el punto $(2, 3)$.
 
 ### Opciones
-- [ ] A) $y = -x + 1$ <!-- feedback: El punto (2,3) no la cumple: -2+1 = -1 ≠ 3. -->
-- [x] B) $y = -x + 5$ <!-- feedback: Correcto. $3 = -1(2) + n \Rightarrow 3 = -2 + n \Rightarrow n = 5$. -->
+- [ ] B) $y = -x + 1$ <!-- feedback: El punto (2,3) no la cumple: -2+1 = -1 ≠ 3. -->
+- [x] A) $y = -x + 5$ <!-- feedback: Correcto. $3 = -1(2) + n \Rightarrow 3 = -2 + n \Rightarrow n = 5$. -->
 - [ ] C) $y = -x + 3$ <!-- feedback: Error al hallar n. -->
 - [ ] D) $y = x + 5$ <!-- feedback: La pendiente debe ser negativa. -->
 
@@ -240,9 +240,9 @@ Si una recta forma un ángulo de $45^{\circ}$ con la dirección positiva del eje
 
 ### Opciones
 - [ ] A) 0 <!-- feedback: Esto corresponde a un ángulo de 0º. -->
-- [x] B) 1 <!-- feedback: Correcto. La pendiente es la tangente del ángulo: $m = \tan(45^{\circ}) = 1$. -->
-- [ ] C) -1 <!-- feedback: Esto corresponde a un ángulo de 135º. -->
-- [ ] D) $\infty$ <!-- feedback: Esto corresponde a una recta vertical (90º). -->
+- [x] D) 1 <!-- feedback: Correcto. La pendiente es la tangente del ángulo: $m = \tan(45^{\circ}) = 1$. -->
+- [ ] B) -1 <!-- feedback: Esto corresponde a un ángulo de 135º. -->
+- [ ] C) $\infty$ <!-- feedback: Esto corresponde a una recta vertical (90º). -->
 
 ### Explicacion Pedagogica
 Existe una relación directa entre la trigonometría y la geometría analítica: la pendiente de una recta es igual a la tangente del ángulo de inclinación que forma con el eje positivo de las abscisas.
@@ -261,9 +261,9 @@ Expresa en forma general ($Ax + By + C = 0$) la función $y = \frac{2}{3}x - 4$.
 
 ### Opciones
 - [ ] A) $2x + 3y - 4 = 0$ <!-- feedback: Error al despejar los términos. -->
-- [x] B) $2x - 3y - 12 = 0$ <!-- feedback: Correcto. Multiplicamos por 3: $3y = 2x - 12$. Pasamos al mismo miembro: $2x - 3y - 12 = 0$. -->
-- [ ] C) $2x - 3y + 4 = 0$ <!-- feedback: Error en el signo o en el producto del término independiente. -->
-- [ ] D) $3x - 2y - 12 = 0$ <!-- feedback: Coeficientes de x e y intercambiados. -->
+- [x] D) $2x - 3y - 12 = 0$ <!-- feedback: Correcto. Multiplicamos por 3: $3y = 2x - 12$. Pasamos al mismo miembro: $2x - 3y - 12 = 0$. -->
+- [ ] B) $2x - 3y + 4 = 0$ <!-- feedback: Error en el signo o en el producto del término independiente. -->
+- [ ] C) $3x - 2y - 12 = 0$ <!-- feedback: Coeficientes de x e y intercambiados. -->
 
 ### Explicacion Pedagogica
 La forma general de la recta agrupa todos los términos en un miembro, igualando a cero. Es preferible que los coeficientes $A, B, C$ sean números enteros, por lo que eliminamos denominadores multiplicando toda la ecuación.
@@ -281,9 +281,9 @@ La forma general de la recta agrupa todos los términos en un miembro, igualando
 ¿Cuál de las siguientes ecuaciones representa una recta que NO es una función de $x$?
 
 ### Opciones
-- [ ] A) $y = 3$ <!-- feedback: Es una función constante. -->
-- [ ] B) $y = x$ <!-- feedback: Es la función identidad. -->
-- [x] C) $x = 2$ <!-- feedback: Correcto. Es una recta vertical; para un valor de x existen infinitos de y, violando la definición de función. -->
+- [ ] B) $y = 3$ <!-- feedback: Es una función constante. -->
+- [ ] C) $y = x$ <!-- feedback: Es la función identidad. -->
+- [x] A) $x = 2$ <!-- feedback: Correcto. Es una recta vertical; para un valor de x existen infinitos de y, violando la definición de función. -->
 - [ ] D) $x + y = 0$ <!-- feedback: Es la función $y = -x$. -->
 
 ### Explicacion Pedagogica
@@ -302,8 +302,8 @@ Una relación es función si a cada elemento del dominio le corresponde un ÚNIC
 Halla el punto de corte de las rectas $r: y = 2x - 1$ y $s: y = -x + 5$.
 
 ### Opciones
-- [ ] A) (3, 2) <!-- feedback: $2(3)-1=5 \neq 2$. -->
-- [x] B) (2, 3) <!-- feedback: Correcto. $2x - 1 = -x + 5 \Rightarrow 3x = 6 \Rightarrow x = 2$. Entonces $y = 2(2)-1 = 3$. -->
+- [ ] B) (3, 2) <!-- feedback: $2(3)-1=5 \neq 2$. -->
+- [x] A) (2, 3) <!-- feedback: Correcto. $2x - 1 = -x + 5 \Rightarrow 3x = 6 \Rightarrow x = 2$. Entonces $y = 2(2)-1 = 3$. -->
 - [ ] C) (1, 1) <!-- feedback: No cumple ninguna de las dos ecuaciones. -->
 - [ ] D) (0, 5) <!-- feedback: Punto de la recta s, pero no de la r. -->
 
@@ -325,8 +325,8 @@ El punto de corte de dos funciones se halla resolviendo el sistema formado por s
 ### Opciones
 - [ ] A) 1/2 <!-- feedback: Esta es la pendiente de una recta paralela. -->
 - [ ] B) -1/2 <!-- feedback: Solo se ha cambiado el signo, no es suficiente. -->
-- [x] C) -2 <!-- feedback: Correcto. La pendiente perpendicular es la opuesta e inversa: $-1 / (1/2) = -2$. -->
-- [ ] D) 2 <!-- feedback: Falta el cambio de signo. -->
+- [x] D) -2 <!-- feedback: Correcto. La pendiente perpendicular es la opuesta e inversa: $-1 / (1/2) = -2$. -->
+- [ ] C) 2 <!-- feedback: Falta el cambio de signo. -->
 
 ### Explicacion Pedagogica
 Dos rectas son perpendiculares si el producto de sus pendientes es $-1$ ($m_1 \cdot m_2 = -1$). Prácticamente, invertimos la fracción de la pendiente original y le cambiamos el signo.
@@ -345,8 +345,8 @@ Dos rectas son perpendiculares si el producto de sus pendientes es $-1$ ($m_1 \c
 
 ### Opciones
 - [ ] A) -12 <!-- feedback: Esta es la variación total de la y, no la tasa media. -->
-- [x] B) -3 <!-- feedback: Correcto. En las funciones afines, la TVM es constante e igual a la pendiente en cualquier intervalo. -->
-- [ ] C) 3 <!-- feedback: Error de signo. -->
+- [x] C) -3 <!-- feedback: Correcto. En las funciones afines, la TVM es constante e igual a la pendiente en cualquier intervalo. -->
+- [ ] B) 3 <!-- feedback: Error de signo. -->
 - [ ] D) 4 <!-- feedback: Esta es la longitud del intervalo (5-1), no la tasa. -->
 
 ### Explicacion Pedagogica
@@ -365,8 +365,8 @@ Una característica única de las funciones de primer grado es que su crecimient
 Halla la ecuación de la recta que pasa por $(1, 5)$ y $(-2, -1)$.
 
 ### Opciones
-- [ ] A) $y = 3x + 2$ <!-- feedback: El punto (1,5) da 3+2=5, pero (-2,-1) da -6+2=-4. -->
-- [x] B) $y = 2x + 3$ <!-- feedback: Correcto. $m = (-1 - 5) / (-2 - 1) = -6 / -3 = 2$. Luego $5 = 2(1) + n \Rightarrow n = 3$. -->
+- [ ] B) $y = 3x + 2$ <!-- feedback: El punto (1,5) da 3+2=5, pero (-2,-1) da -6+2=-4. -->
+- [x] A) $y = 2x + 3$ <!-- feedback: Correcto. $m = (-1 - 5) / (-2 - 1) = -6 / -3 = 2$. Luego $5 = 2(1) + n \Rightarrow n = 3$. -->
 - [ ] C) $y = 2x - 3$ <!-- feedback: Error de signo en la ordenada en el origen. -->
 - [ ] D) $y = x + 4$ <!-- feedback: Pendiente incorrecta. -->
 
@@ -428,8 +428,8 @@ La distancia de un punto $P(x_0, y_0)$ a una recta $Ax+By+C=0$ viene dada por la
 ¿Para qué valor de $k$ las rectas $y = kx + 2$ e $y = (2k-3)x + 5$ son paralelas?
 
 ### Opciones
-- [ ] A) $k = 0$ <!-- feedback: Las pendientes serian 0 y -3. -->
-- [x] B) $k = 3$ <!-- feedback: Correcto. Pendientes iguales: $k = 2k - 3 \Rightarrow k = 3$. -->
+- [ ] B) $k = 0$ <!-- feedback: Las pendientes serian 0 y -3. -->
+- [x] A) $k = 3$ <!-- feedback: Correcto. Pendientes iguales: $k = 2k - 3 \Rightarrow k = 3$. -->
 - [ ] C) $k = 1$ <!-- feedback: Pendientes 1 y -1 (serían perpendiculares). -->
 - [ ] D) $k = 2$ <!-- feedback: Pendientes 2 y 1. -->
 

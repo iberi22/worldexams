@@ -33,11 +33,11 @@ Este bundle contiene 20 preguntas sobre las clases de descripción (objetiva vs 
 ¿Qué rasgos caracterizan de manera primordial a una 'descripción técnica u objetiva' frente a una 'literaria u subjetiva'?
 
 ### Opciones
-- [x] A) La descripción técnica prioriza la precisión léxica, el lenguaje denotativo y la función representativa; mientras que la literaria busca una finalidad estética combinando la subjetividad y el lenguaje connotativo.
+- [x] C) La descripción técnica prioriza la precisión léxica, el lenguaje denotativo y la función representativa; mientras que la literaria busca una finalidad estética combinando la subjetividad y el lenguaje connotativo.
   <!-- feedback: Correcto. La descripción técnica busca dar información unívoca y denotativa (objetividad). La literaria busca deleite estético y valoraciones subjetivas (connotación). -->
-- [ ] B) La descripción técnica prescinde del abecedario escrito y se limita a diagramas mudos.
+- [ ] A) La descripción técnica prescinde del abecedario escrito y se limita a diagramas mudos.
   <!-- feedback: Incorrecto. Se sirve de palabras del código idiomático pero seleccionando un léxico denotativo técnico. -->
-- [ ] C) La descripción literaria es de uso obligatorio en las recetas del Ministerio de Sanidad.
+- [ ] B) La descripción literaria es de uso obligatorio en las recetas del Ministerio de Sanidad.
   <!-- feedback: Incorrecto. Sanidad prescribe prospectos y descripciones puramente objetivas e instructivas, no poéticas. -->
 - [ ] D) Son idénticas y la gramática de la RAE prohíbe de forma terminante clasificarlas de forma separada.
   <!-- feedback: Incorrecto. La tipología textual y la retórica distinguen ambos discursos descriptivos. -->
@@ -57,13 +57,13 @@ La descripción objetiva busca la precisión, neutralidad e informar sobre las c
 ¿Qué clase de descripción se está realizando en este fragmento al centrarse exclusivamente en la anatomía externa de un personaje?
 
 ### Opciones
-- [x] A) Prosopografía, que consiste en describir los rasgos físicos, fisionomía y vestimenta externa de un ser.
+- [x] D) Prosopografía, que consiste en describir los rasgos físicos, fisionomía y vestimenta externa de un ser.
   <!-- feedback: Correcto. La descripción de los rasgos externos, físicos y fisionómicos del cuerpo se denomina prosopografía. -->
-- [ ] B) Etopeya, que consiste en describir las virtudes morales, temperamento y psicología del coronel.
+- [ ] A) Etopeya, que consiste en describir las virtudes morales, temperamento y psicología del coronel.
   <!-- feedback: Incorrecto. La etopeya se centra en el fuero interno (moral, carácter, virtudes), ausente en este fragmento puramente físico. -->
-- [ ] C) Topografía, puesto que se describe detalladamente la geografía del Duero.
+- [ ] B) Topografía, puesto que se describe detalladamente la geografía del Duero.
   <!-- feedback: Incorrecto. La topografía describe paisajes y lugares de la geografía, no rostros de personajes de ficción. -->
-- [ ] D) Caricatura bilingüe gallega que deforma los sustantivos propios de Toledo.
+- [ ] C) Caricatura bilingüe gallega que deforma los sustantivos propios de Toledo.
   <!-- feedback: Incorrecto. No hay deformación hiperbólica (caricatura) ni cambios de código bilingües. -->
 
 ### Explicacion Pedagogica
@@ -81,9 +81,9 @@ La prosopografía describe los rasgos físicos exteriores de una persona, animal
 ¿Cómo se define técnicamente esta descripción integradora de físico y moral?
 
 ### Opciones
-- [x] A) Retrato, que es una descripción completa que fusiona y equilibra los rasgos fisionómicos (físicos) y los morales (psicología o carácter) de un personaje.
+- [x] B) Retrato, que es una descripción completa que fusiona y equilibra los rasgos fisionómicos (físicos) y los morales (psicología o carácter) de un personaje.
   <!-- feedback: Correcto. El retrato literario combina de forma armónica la prosopografía (físico) y la etopeya (carácter moral) de un individuo. -->
-- [ ] B) Caricatura satírica, porque ridiculiza e insulta al campesino de forma exagerada.
+- [ ] A) Caricatura satírica, porque ridiculiza e insulta al campesino de forma exagerada.
   <!-- feedback: Incorrecto. Describe con bondad y realismo equilibrado, sin deformación grotesca o humorística (caricatura). -->
 - [ ] C) Autodictado fático de bajo nivel de éxito de Doñana.
   <!-- feedback: Incorrecto. No guarda relación con la comunicación fática del canal; es una técnica de caracterización de personajes en prosa. -->
@@ -129,13 +129,13 @@ La topografía (en literatura) consiste en la descripción detallada de un espac
 ¿Qué clase de descripción de personaje predomina de forma absoluta en las líneas citadas?
 
 ### Opciones
-- [x] A) Etopeya, porque se centra exclusivamente en el carácter moral, psicología y virtudes del clérigo.
+- [x] D) Etopeya, porque se centra exclusivamente en el carácter moral, psicología y virtudes del clérigo.
   <!-- feedback: Correcto. El fragmento detalla virtudes del alma, la rectitud de espíritu y la psicología moral del personaje, constituyendo una etopeya. -->
-- [ ] B) Prosopografía, pues detalla la sotana negra y los zapatos rotos del clérigo.
+- [ ] A) Prosopografía, pues detalla la sotana negra y los zapatos rotos del clérigo.
   <!-- feedback: Incorrecto. No se hace mención de su físico o vestimenta exterior; se describe su carácter moral. -->
-- [ ] C) Retrato, ya que detalla con idéntico espacio de palabras la nariz aguileña del cura.
+- [ ] B) Retrato, ya que detalla con idéntico espacio de palabras la nariz aguileña del cura.
   <!-- feedback: Incorrecto. Para ser un retrato completo exigiría la conjunción de rasgos físicos, ausentes en estas líneas. -->
-- [ ] D) Topografía de la catedral de la Almudena de Madrid.
+- [ ] C) Topografía de la catedral de la Almudena de Madrid.
   <!-- feedback: Incorrecto. Describe las virtudes humanas de una persona y no la arquitectura de un templo religioso. -->
 
 ### Explicacion Pedagogica
@@ -153,9 +153,9 @@ La etopeya es la descripción literaria de las cualidades internas, espirituales
 ¿Qué tipo de técnica descriptiva se está utilizando para caracterizar al ministro?
 
 ### Opciones
-- [x] A) Caricatura satírica, consistente en deformar e hiperbolizar de manera grotesca u humorística los rasgos de una persona.
+- [x] B) Caricatura satírica, consistente en deformar e hiperbolizar de manera grotesca u humorística los rasgos de una persona.
   <!-- feedback: Correcto. La caricatura literaria deforma intencionadamente los rasgos físicos de la persona mediante comparaciones animales o ridículas ('pico de loro', 'babosa', 'carraca rota'). -->
-- [ ] B) Prosopografía laudatoria que idealiza la suprema belleza del gobernante de España.
+- [ ] A) Prosopografía laudatoria que idealiza la suprema belleza del gobernante de España.
   <!-- feedback: Incorrecto. Una prosopografía laudatoria ennoblecería la belleza; este fragmento es grotesco y satírico. -->
 - [ ] C) Etopeya del alma pura y santa del ministro de Valle-Inclán.
   <!-- feedback: Incorrecto. Describe rasgos externos animales y deformados, no las virtudes o virtudes psicológicas del alma. -->
@@ -177,13 +177,13 @@ La caricatura es una técnica descriptiva subjetiva que deforma, exagera o ridic
 ¿Qué clase de categoría gramatical es la que soporta la carga descriptiva en las frases subrayadas por el alumno y cómo actúa en el texto?
 
 ### Opciones
-- [x] A) Adjetivos calificativos, que modifican al sustantivo aportándole cualidades o propiedades específicas que perfilan la imagen mental descrita.
+- [x] D) Adjetivos calificativos, que modifican al sustantivo aportándole cualidades o propiedades específicas que perfilan la imagen mental descrita.
   <!-- feedback: Correcto. El adjetivo calificativo ('solariega', 'crepuscular', 'helador', 'espeso') es la categoría gramatical primordial para atribuir cualidades en las descripciones literarias. -->
-- [ ] B) Verbos de acción conjugados en pretérito perfecto simple de indicativo.
+- [ ] A) Verbos de acción conjugados en pretérito perfecto simple de indicativo.
   <!-- feedback: Incorrecto. Las palabras son adjetivos, no verbos dinámicos de movimiento. -->
-- [ ] C) Pronombres átonos de acusativo loístas típicos de Soria.
+- [ ] B) Pronombres átonos de acusativo loístas típicos de Soria.
   <!-- feedback: Incorrecto. No hay pronombres átonos ('lo', 'le', 'la') en las frases citadas; son adjetivos de régimen nominal. -->
-- [ ] D) Adverbios de negación que anulan la existencia de los sustantivos medievales.
+- [ ] C) Adverbios de negación que anulan la existencia de los sustantivos medievales.
   <!-- feedback: Incorrecto. Los adjetivos calificativos atribuyen cualidades positivas o negativas, sin anular gramaticalmente al sustantivo. -->
 
 ### Explicacion Pedagogica
@@ -225,9 +225,9 @@ La prosopografía se enfoca en los aspectos fisionómicos externos de la persona
 Analiza la función gramatical y sintáctica de los verbos subrayados (1, 2, 3) en este fragmento descriptivo.
 
 ### Opciones
-- [x] A) Verbos copulativos o semicopulativos, que sirven de enlace entre el sujeto y su atributo, expresando estados o propiedades estáticas.
+- [x] B) Verbos copulativos o semicopulativos, que sirven de enlace entre el sujeto y su atributo, expresando estados o propiedades estáticas.
   <!-- feedback: Correcto. Los verbos 'ser', 'estar' y 'parecer' son copulativos y sirven de enlace estático para atribuir cualidades en la descripción de ambientes o cosas. -->
-- [ ] B) Verbos transitivos de acción dinámica que aceleran de forma desmedida el ritmo narrativo.
+- [ ] A) Verbos transitivos de acción dinámica que aceleran de forma desmedida el ritmo narrativo.
   <!-- feedback: Incorrecto. Son verbos de estado estáticos, contrarios a la acción dinámica de los verbos transitivos de movimiento. -->
 - [ ] C) Formas verbales que exigen de forma obligatoria un dequeísmo de objeto indirecto.
   <!-- feedback: Incorrecto. Ninguno de estos verbos copulativos rige ni se asocia con el dequeísmo en la lengua española. -->
@@ -273,9 +273,9 @@ La descripción literaria utiliza habitualmente figuras retóricas como la metá
 ¿Cómo se define la diferencia estructural entre una 'descripción estática' y una 'descripción dinámica'?
 
 ### Opciones
-- [x] A) La descripción estática capta la realidad detenida como una fotografía; mientras que la dinámica describe una realidad en movimiento o en transformación temporal (efecto cinematográfico).
+- [x] B) La descripción estática capta la realidad detenida como una fotografía; mientras que la dinámica describe una realidad en movimiento o en transformación temporal (efecto cinematográfico).
   <!-- feedback: Correcto. La descripción estática detiene el tiempo. La dinámica retrata objetos, procesos o paisajes en movimiento o transformación, utilizando verbos dinámicos. -->
-- [ ] B) La descripción estática prohíbe el uso de sustantivos comunes y la dinámica suprime los verbos copulativos de Aragón.
+- [ ] A) La descripción estática prohíbe el uso de sustantivos comunes y la dinámica suprime los verbos copulativos de Aragón.
   <!-- feedback: Incorrecto. No existen tales prohibiciones morfológicas aberrantes en la lengua española castellana. -->
 - [ ] C) La estática es de uso exclusivo en la literatura gallega y la dinámica se reserva para Toledo.
   <!-- feedback: Incorrecto. Ambas técnicas descriptivas se utilizan universalmente en cualquier variedad territorial y estilo literario de España. -->
@@ -297,9 +297,9 @@ El punto de vista en la descripción puede ser estático (cuando tanto el observ
 Analiza sintáctica y estilísticamente la función de los adjetivos 'escarpada' y 'feroces' en relación con los sustantivos a los que modifican en esta descripción de ambiente.
 
 ### Opciones
-- [x] A) Funcionan como epítetos o adjetivos explicativos, antepuestos al sustantivo, que destacan una cualidad intrínseca o lógica con valor estético y expresivo en el discurso descriptivo.
+- [x] B) Funcionan como epítetos o adjetivos explicativos, antepuestos al sustantivo, que destacan una cualidad intrínseca o lógica con valor estético y expresivo en el discurso descriptivo.
   <!-- feedback: Correcto. Adjetivos antepuestos como 'escarpada' o 'feroces' actúan como explicativos o epítetos, resaltando cualidades lógicas o estéticas de los sustantivos, típicos de la descripción literaria. -->
-- [ ] B) Son adjetivos especificativos obligatorios que dividen la bahía en trozos matemáticos.
+- [ ] A) Son adjetivos especificativos obligatorios que dividen la bahía en trozos matemáticos.
   <!-- feedback: Incorrecto. Los especificativos suelen ir pospuestos y restringen el significado del nombre ('faro viejo' frente a 'faro nuevo'); los antepuestos son explicativos/epítetos. -->
 - [ ] C) Son complementos de régimen verbal que exigen de forma terminante la preposición 'de'.
   <!-- feedback: Incorrecto. Modifican directamente a los sustantivos como adyacentes de un sintagma nominal, no a un núcleo verbal. -->
@@ -345,9 +345,9 @@ El fin comunicativo determina las marcas de estilo. La descripción científica 
 ¿Qué tipo de técnica de retrato y qué intencionalidad se manifiesta en este fragmento descriptivo?
 
 ### Opciones
-- [x] A) Retrato idealizado o laudatorio, cuya intención es ensalzar las virtudes físicas y morales del personaje mediante el uso de metáforas positivas e hipérboles elogiosas.
+- [x] B) Retrato idealizado o laudatorio, cuya intención es ensalzar las virtudes físicas y morales del personaje mediante el uso de metáforas positivas e hipérboles elogiosas.
   <!-- feedback: Correcto. El retrato laudatorio o idealización se enfoca de forma selectiva en los rasgos meritorios y virtuosos del retratado, ensalzándolos con figuras literarias. -->
-- [ ] B) Retrato satírico esperpéntico, que ridiculiza de manera despiadada la elegancia del científico.
+- [ ] A) Retrato satírico esperpéntico, que ridiculiza de manera despiadada la elegancia del científico.
   <!-- feedback: Incorrecto. No hay sátira, deformación o burla grotesca en las palabras dedicadas al galardonado. -->
 - [ ] C) Topografía del espacio arquitectónico donde se entregan los premios de España.
   <!-- feedback: Incorrecto. Se describe a un ser humano destacado (científico) y no la geografía o arquitectura del local del evento. -->
@@ -369,9 +369,9 @@ El retrato literario puede orientarse según la intención del autor: laudatorio
 Analiza las figuras literarias y recursos retóricos aplicados en esta descripción subjetiva del objeto inanimado.
 
 ### Opciones
-- [x] A) Personificación y metáfora, que humanizan la máquina al atribuirle la risa y asocian visualmente las teclas con dientes negros.
+- [x] B) Personificación y metáfora, que humanizan la máquina al atribuirle la risa y asocian visualmente las teclas con dientes negros.
   <!-- feedback: Correcto. 'Dientes que ríen a carcajadas' es una personificación de la máquina asociada a una metáfora visual de las teclas negras circulares. -->
-- [ ] B) Dequeísmo de objeto indirecto, provocado por omitir la preposición 'de' antes del folio.
+- [ ] A) Dequeísmo de objeto indirecto, provocado por omitir la preposición 'de' antes del folio.
   <!-- feedback: Incorrecto. El fragmento es sintácticamente impecable; no hay ninguna elisión u uso inapropiado de preposiciones. -->
 - [ ] C) Definición científica forense avalada de forma unánime por el Ayuntamiento de Madrid.
   <!-- feedback: Incorrecto. Es un texto artístico y humorístico vanguardista (greguería), totalmente ajeno a un manual científico industrial de oficina. -->
@@ -417,11 +417,11 @@ La descripción exige una estructura u orden de mirada para evitar el caos. Los 
 Evalúa críticamente la afirmación del crítico en relación con la función de la descripción dentro de la novela realista del siglo XIX.
 
 ### Opciones
-- [x] A) Es injusta en parte, ya que en el realismo las descripciones minuciosas no son adornos inútiles, sino recursos sociológicos que explican el carácter, clase social e historia de los personajes a través de sus posesiones y entorno.
+- [x] C) Es injusta en parte, ya que en el realismo las descripciones minuciosas no son adornos inútiles, sino recursos sociológicos que explican el carácter, clase social e historia de los personajes a través de sus posesiones y entorno.
   <!-- feedback: Correcto. En la novela realista, la descripción cumple una función metonímica y sociológica clave: el entorno (la casa, la ropa, los objetos) define psicológicamente e históricamente al personaje que los posee. -->
-- [ ] B) Es plenamente correcta, porque la LOMLOE prohíbe escribir descripciones de salones burgueses en todo el territorio de España.
+- [ ] A) Es plenamente correcta, porque la LOMLOE prohíbe escribir descripciones de salones burgueses en todo el territorio de España.
   <!-- feedback: Incorrecto. La legislación educativa regula la enseñanza secundaria de bachillerato y carece de competencias normativas o censoras sobre novelas literarias históricas. -->
-- [ ] C) El crítico tiene razón porque las descripciones del siglo XIX se escribían únicamente para rellenar espacio de imprenta por falta de papel prensa.
+- [ ] B) El crítico tiene razón porque las descripciones del siglo XIX se escribían únicamente para rellenar espacio de imprenta por falta de papel prensa.
   <!-- feedback: Incorrecto. Respondían a una sólida poética realista de observación científica de la sociedad y caracterización determinista del individuo. -->
 - [ ] D) Se justifica porque Pérez Galdós cometía de forma sistemática dequeísmo al detallar las corbatas de Madrid.
   <!-- feedback: Incorrecto. La prosa de Galdós destaca por su riqueza estilística, léxica y su estricta corrección formal en el marco del realismo culto de España. -->
@@ -441,11 +441,11 @@ En el Realismo y Naturalismo del siglo XIX, la descripción no es un mero retard
 Evalúa críticamente la construcción lingüística y los recursos semánticos aplicados en la descripción subjetiva del sonido del piano.
 
 ### Opciones
-- [x] A) Emplea de manera excelente la sinestesia, asociando sensaciones de distintos dominios sensoriales (oído, tacto, vista, olfato) para dotar de una profunda sugerencia y lirismo a la descripción musical.
+- [x] C) Emplea de manera excelente la sinestesia, asociando sensaciones de distintos dominios sensoriales (oído, tacto, vista, olfato) para dotar de una profunda sugerencia y lirismo a la descripción musical.
   <!-- feedback: Correcto. La sinestesia consiste en entrecruzar sensaciones de distintos sentidos (oír un color, oler una melodía). Es un recurso descriptivo subjetivo que potencia la sugerencia lírica. -->
-- [ ] B) Comete un grave error sintáctico al atribuirle color e olor al sonido, lo cual contraviene las leyes de la física óptica de la RAE.
+- [ ] A) Comete un grave error sintáctico al atribuirle color e olor al sonido, lo cual contraviene las leyes de la física óptica de la RAE.
   <!-- feedback: Incorrecto. La retórica y la literatura utilizan de forma legítima e histórica el lenguaje figurado y la sinestesia, al margen de las leyes literales de la física. -->
-- [ ] C) Incurre en un loísmo pronominal involuntario de la melodía violeta.
+- [ ] B) Incurre en un loísmo pronominal involuntario de la melodía violeta.
   <!-- feedback: Incorrecto. No hay ninguna confusión pronominal átona de complemento directo en el pasaje lírico. -->
 - [ ] D) Es un tratado de botánica forestal que detalla las flores de color violeta de Barcelona.
   <!-- feedback: Incorrecto. Es un texto poético que describe de manera subjetiva una vivencia musical, no un manual científico botánico. -->
@@ -465,9 +465,9 @@ La sinestesia es una figura retórica sumamente eficaz en la tipología descript
 Evalúa críticamente la afirmación del estudiante a partir del concepto estético de la caricatura y el esperpento en la España del siglo XX.
 
 ### Opciones
-- [x] A) La afirmación es errónea, ya que Valle-Inclán deforma intencionadamente la descripción mediante el esperpento para reflejar de forma crítica y grotesca la decadencia social y política de la España de su tiempo.
+- [x] B) La afirmación es errónea, ya que Valle-Inclán deforma intencionadamente la descripción mediante el esperpento para reflejar de forma crítica y grotesca la decadencia social y política de la España de su tiempo.
   <!-- feedback: Correcto. El esperpento de Valle-Inclán deforma de manera sistemática y grotesca la realidad para denunciar satíricamente la injusticia social y la miseria moral española, siendo un recurso descriptivo deliberado y brillante. -->
-- [ ] B) El alumno tiene razón, ya que la RAE sanciona con penas de cárcel ortográfica a los autores que no retraten los callejones de Madrid con absoluta belleza clásica.
+- [ ] A) El alumno tiene razón, ya que la RAE sanciona con penas de cárcel ortográfica a los autores que no retraten los callejones de Madrid con absoluta belleza clásica.
   <!-- feedback: Incorrecto. La academia respeta la libertad creadora literaria; el esperpento es una de las mayores contribuciones estéticas del siglo XX. -->
 - [ ] C) El texto dramático es un vulgarismo causado por el desuso de las perífrasis verbales en el teatro de Sevilla.
   <!-- feedback: Incorrecto. Es un estilo teatral de vanguardia de impecable factura formal y no un vulgarismo por carencia verbal. -->
@@ -489,13 +489,13 @@ El esperpento es una poética de la deformación expresionista. Al comparar a lo
 Evalúa la adecuación pragmática de la descripción redactada por el laboratorio en un prospecto de salud oficial.
 
 ### Opciones
-- [x] A) Es totalmente inadecuada e irresponsable, ya que un prospecto médico exige una descripción técnica y objetiva (lenguaje denotativo y preciso) que informe con rigor sobre principios activos y efectos secundarios, omitiendo comparaciones literarias o hipérboles publicitarias.
+- [x] D) Es totalmente inadecuada e irresponsable, ya que un prospecto médico exige una descripción técnica y objetiva (lenguaje denotativo y preciso) que informe con rigor sobre principios activos y efectos secundarios, omitiendo comparaciones literarias o hipérboles publicitarias.
   <!-- feedback: Correcto. La descripción médica de un prospecto farmacéutico debe regirse estrictamente por la objetividad y precisión del lenguaje científico (adecuación pragmática), desaconsejándose metáforas poéticas o hipérboles de corte comercial que puedan inducir a error sobre el fármaco. -->
-- [ ] B) Es adecuada, puesto que las descripciones farmacéuticas de Barcelona deben rimar de forma asonante en las sílabas agudas para conmover a los enfermos de tos.
+- [ ] A) Es adecuada, puesto que las descripciones farmacéuticas de Barcelona deben rimar de forma asonante en las sílabas agudas para conmover a los enfermos de tos.
   <!-- feedback: Incorrecto. La legislación de medicamentos prohíbe el lenguaje impreciso y estético que confunda la dosis real o prometa milagros líricos. -->
-- [ ] C) Demuestra un excelente uso de la función metalingüística para curar el pecho dolorido de los filólogos de España.
+- [ ] B) Demuestra un excelente uso de la función metalingüística para curar el pecho dolorido de los filólogos de España.
   <!-- feedback: Incorrecto. Su tono comercial e hiperbólico es de naturaleza puramente persuasiva inadecuada, no metalingüística descriptiva de la gramática. -->
-- [ ] D) Es correcta porque la ley de LOMLOE autoriza a los laboratorios a sustituir las fórmulas químicas por metáforas de repostería del Pirineo.
+- [ ] C) Es correcta porque la ley de LOMLOE autoriza a los laboratorios a sustituir las fórmulas químicas por metáforas de repostería del Pirineo.
   <!-- feedback: Incorrecto. Ninguna ley educativa o sanitaria exime de cumplir el rigor científico denotativo en prospectos de salud. -->
 
 ### Explicacion Pedagogica

@@ -34,9 +34,9 @@ Características del texto descriptivo, sus recursos expresivos y su uso para re
 ¿Cuál es el propósito principal de un texto descriptivo?
 
 ### Opciones
-- [x] A) Mostrar las características de una persona, un objeto, un animal o un lugar mediante detalles precisos.
+- [x] B) Mostrar las características de una persona, un objeto, un animal o un lugar mediante detalles precisos.
   <!-- feedback: La descripción se centra en detallar rasgos y cualidades de lo que se representa. -->
-- [ ] B) Contar una historia de ficción con un inicio, un desarrollo y un final.
+- [ ] A) Contar una historia de ficción con un inicio, un desarrollo y un final.
   <!-- feedback: Contar historias con inicio, nudo y desenlace es propio del texto narrativo. -->
 - [ ] C) Explicar paso a paso cómo realizar un procedimiento.
   <!-- feedback: Los procedimientos se explican en textos instructivos, no en los descriptivos. -->
@@ -80,9 +80,9 @@ Comprender que los adjetivos y las comparaciones son recursos clave del texto de
 ¿Cuál de los siguientes fragmentos logra mejor el propósito descriptivo?
 
 ### Opciones
-- [x] A) "La plaza se ve amplia, empedrada y rodeada de edificios históricos; al centro se alza una estatua rodeada de palomas."
+- [x] B) "La plaza se ve amplia, empedrada y rodeada de edificios históricos; al centro se alza una estatua rodeada de palomas."
   <!-- feedback: El fragmento usa varios adjetivos y detalles que permiten imaginar la plaza. -->
-- [ ] B) "Ayer visité la plaza y luego me devolví a la casa porque tenía hambre."
+- [ ] A) "Ayer visité la plaza y luego me devolví a la casa porque tenía hambre."
   <!-- feedback: El fragmento narra acciones, pero no describe características de la plaza. -->
 - [ ] C) "Para llegar a la plaza se toma la calle 10 y luego se gira a la izquierda."
   <!-- feedback: El fragmento da indicaciones para llegar, no describe el lugar. -->
@@ -126,9 +126,9 @@ Aplicar la lectura descriptiva para identificar rasgos físicos y cualidades que
 ¿Cuál de los siguientes ejemplos usa mejor la comparación para describir la ciudad?
 
 ### Opciones
-- [x] A) "Las murallas de Cartagena son tan altas como gigantes guardianes que miran el mar."
+- [x] B) "Las murallas de Cartagena son tan altas como gigantes guardianes que miran el mar."
   <!-- feedback: La comparación con gigantes guardianes ayuda a visualizar la muralla con detalle. -->
-- [ ] B) "Cartagena queda en la costa Caribe de Colombia."
+- [ ] A) "Cartagena queda en la costa Caribe de Colombia."
   <!-- feedback: La oración indica ubicación, pero no compara ni describe con imágenes. -->
 - [ ] C) "El tour por Cartagena dura tres horas y sale a las 8 de la mañana."
   <!-- feedback: La oración aporta datos horarios, no descripciones visuales. -->
@@ -149,9 +149,9 @@ Aplicar el uso de comparaciones como recurso expresivo para describir lugares de
 ¿Cuál descripción permite reconstruir mejor la imagen del pueblo y por qué?
 
 ### Opciones
-- [x] A) La descripción A, porque usa detalles concretos y sensoriales que permiten imaginar el lugar.
+- [x] B) La descripción A, porque usa detalles concretos y sensoriales que permiten imaginar el lugar.
   <!-- feedback: Los detalles de color, forma y olor hacen más vívida la descripción. -->
-- [ ] B) La descripción B, porque menciona la amabilidad de la gente y el clima.
+- [ ] A) La descripción B, porque menciona la amabilidad de la gente y el clima.
   <!-- feedback: Aunque menciona cualidades, no da detalles visuales concretos. -->
 - [ ] C) Las dos son equivalentes, porque las dos hablan del mismo pueblo.
   <!-- feedback: La calidad descriptiva varía según los recursos expresivos usados. -->
@@ -172,13 +172,13 @@ Analizar la diferencia entre una descripción con detalles sensoriales y otra ba
 ¿Qué estructura predomina en el texto descriptivo de la laguna?
 
 ### Opciones
-- [x] A) Oraciones que usan adjetivos y complementos para precisar cómo es el lugar.
+- [x] D) Oraciones que usan adjetivos y complementos para precisar cómo es el lugar.
   <!-- feedback: Las oraciones se apoyan en adjetivos y complementos descriptivos. -->
-- [ ] B) Predominio de verbos en pasado que cuentan una historia cronológica.
+- [ ] A) Predominio de verbos en pasado que cuentan una historia cronológica.
   <!-- feedback: No hay una secuencia temporal, sino descripciones estáticas. -->
-- [ ] C) Una lista de instrucciones para visitar la laguna con cuidado.
+- [ ] B) Una lista de instrucciones para visitar la laguna con cuidado.
   <!-- feedback: El texto no da pasos ni indicaciones para visitar el lugar. -->
-- [ ] D) Un diálogo entre personajes que hablan sobre la laguna.
+- [ ] C) Un diálogo entre personajes que hablan sobre la laguna.
   <!-- feedback: No hay diálogo, sino una descripción en tercera persona. -->
 
 ### Explicacion Pedagogica
@@ -195,11 +195,11 @@ Analizar la estructura oracional del texto descriptivo y reconocer el papel de l
 ¿Qué criterios debe tener en cuenta el grupo para que las descripciones sean claras, útiles y bien escritas?
 
 ### Opciones
-- [x] A) Usar adjetivos precisos, detalles sensoriales, organización coherente y ortografía cuidada.
+- [x] C) Usar adjetivos precisos, detalles sensoriales, organización coherente y ortografía cuidada.
   <!-- feedback: La calidad descriptiva combina precisión, organización y corrección lingüística. -->
-- [ ] B) Incluir solo oraciones muy cortas sin detalles para terminar rápido.
+- [ ] A) Incluir solo oraciones muy cortas sin detalles para terminar rápido.
   <!-- feedback: Las oraciones muy cortas suelen perder capacidad descriptiva. -->
-- [ ] C) Evitar cualquier adjetivo para no subjetivizar el texto.
+- [ ] B) Evitar cualquier adjetivo para no subjetivizar el texto.
   <!-- feedback: Los adjetivos son necesarios para precisar las características del lugar. -->
 - [ ] D) Copiar las descripciones de internet sin verificar la información.
   <!-- feedback: Es indispensable verificar fuentes y producir un texto propio y responsable. -->

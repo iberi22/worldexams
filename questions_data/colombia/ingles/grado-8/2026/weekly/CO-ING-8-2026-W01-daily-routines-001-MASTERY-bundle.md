@@ -35,10 +35,10 @@ This bundle explores daily routines and habits using Present Simple and Present 
 Juan usually ________ coffee in the morning, but today he is drinking orange juice.
 
 ### Opciones
-- [x] A) drinks <!-- feedback: Correct! We use Present Simple for habitual actions like "usually". -->
-- [ ] B) is drinking <!-- feedback: Incorrect. This form is for what is happening right now, not a regular habit. -->
-- [ ] C) drink <!-- feedback: Incorrect. Juan is third person singular, so the verb needs an 's'. -->
-- [ ] D) drinking <!-- feedback: Incorrect. This form requires an auxiliary verb (is/are) and doesn't show habit. -->
+- [x] D) drinks <!-- feedback: Correct! We use Present Simple for habitual actions like "usually". -->
+- [ ] A) is drinking <!-- feedback: Incorrect. This form is for what is happening right now, not a regular habit. -->
+- [ ] B) drink <!-- feedback: Incorrect. Juan is third person singular, so the verb needs an 's'. -->
+- [ ] C) drinking <!-- feedback: Incorrect. This form requires an auxiliary verb (is/are) and doesn't show habit. -->
 
 ### Explicación Pedagógica
 En inglés, utilizamos el Presente Simple para hablar de hábitos o rutinas (marcado por palabras como "usually"). Para la tercera persona (Juan/He), agregamos una 's' al verbo.
@@ -56,8 +56,8 @@ En inglés, utilizamos el Presente Simple para hablar de hábitos o rutinas (mar
 How ________ do you practice sports after school?
 
 ### Opciones
-- [ ] A) many <!-- feedback: Incorrect. "How many" is used for countable quantities. -->
-- [x] B) often <!-- feedback: Correct! "How often" is the standard question for frequency. -->
+- [ ] B) many <!-- feedback: Incorrect. "How many" is used for countable quantities. -->
+- [x] A) often <!-- feedback: Correct! "How often" is the standard question for frequency. -->
 - [ ] C) much <!-- feedback: Incorrect. "How much" is used for uncountable quantities or price. -->
 - [ ] D) time <!-- feedback: Incorrect. "How time" is not a correct way to ask about frequency. -->
 
@@ -98,8 +98,8 @@ Usamos el Presente Continuo (auxiliar "to be" + verbo con -ing) para describir a
 My sister ________ in Bogotá, but she ________ in Medellín this month for a project.
 
 ### Opciones
-- [ ] A) lives / lives <!-- feedback: Incorrect. The second part is a temporary action, so it needs Present Continuous. -->
-- [x] B) lives / is staying <!-- feedback: Correct! "Lives" is a permanent state (Simple), "is staying" is temporary (Continuous). -->
+- [ ] B) lives / lives <!-- feedback: Incorrect. The second part is a temporary action, so it needs Present Continuous. -->
+- [x] A) lives / is staying <!-- feedback: Correct! "Lives" is a permanent state (Simple), "is staying" is temporary (Continuous). -->
 - [ ] C) is living / stays <!-- feedback: Incorrect. Habitually we use Simple for residence and Continuous for temporary stays. -->
 - [ ] D) stay / living <!-- feedback: Incorrect. These forms are grammatically incomplete for the context. -->
 
@@ -119,8 +119,8 @@ Este ejercicio evalúa la diferencia entre estados permanentes (Presente Simple:
 Which sentence is grammatically correct?
 
 ### Opciones
-- [ ] A) I go always to the library on Mondays. <!-- feedback: Incorrect. Adverbs of frequency usually go before the main verb. -->
-- [x] B) I always go to the library on Mondays. <!-- feedback: Correct! The adverb "always" correctly precedes the verb "go". -->
+- [ ] B) I go always to the library on Mondays. <!-- feedback: Incorrect. Adverbs of frequency usually go before the main verb. -->
+- [x] A) I always go to the library on Mondays. <!-- feedback: Correct! The adverb "always" correctly precedes the verb "go". -->
 - [ ] C) Always I go to the library on Mondays. <!-- feedback: Incorrect. This word order is more common in Spanish but unusual in English. -->
 - [ ] D) I go to the library always on Mondays. <!-- feedback: Incorrect. The placement of the adverb is awkward here. -->
 
@@ -184,8 +184,8 @@ My brother is **always** losing his keys! It's so annoying.
 What does this sentence imply?
 
 ### Opciones
-- [ ] A) He lost his keys one time today. <!-- feedback: Incorrect. The sentence describes a repeated behavior. -->
-- [x] B) It is a frequent and irritating habit. <!-- feedback: Correct! "Always" with Continuous often expresses annoyance. -->
+- [ ] B) He lost his keys one time today. <!-- feedback: Incorrect. The sentence describes a repeated behavior. -->
+- [x] A) It is a frequent and irritating habit. <!-- feedback: Correct! "Always" with Continuous often expresses annoyance. -->
 - [ ] C) He is looking for his keys at this exact moment. <!-- feedback: Incorrect. While he might be, the focus is on the recurring habit. -->
 - [ ] D) He never loses his keys. <!-- feedback: Incorrect. The sentence says the exact opposite. -->
 
@@ -206,9 +206,9 @@ While Maria ________ her lunch, her father ________ a call from work.
 
 ### Opciones
 - [ ] A) eats / takes <!-- feedback: Incorrect. Usually, "while" introduces a continuous action. -->
-- [x] B) is eating / is taking <!-- feedback: Correct! Two actions happening simultaneously in the present. -->
-- [ ] C) is eat / take <!-- feedback: Incorrect. Grammatically incorrect verb forms. -->
-- [ ] D) eat / taking <!-- feedback: Incorrect. Missing auxiliary verbs and subject-verb agreement. -->
+- [x] D) is eating / is taking <!-- feedback: Correct! Two actions happening simultaneously in the present. -->
+- [ ] B) is eat / take <!-- feedback: Incorrect. Grammatically incorrect verb forms. -->
+- [ ] C) eat / taking <!-- feedback: Incorrect. Missing auxiliary verbs and subject-verb agreement. -->
 
 ### Explicación Pedagógica
 "While" se utiliza frecuentemente para conectar dos acciones que ocurren al mismo tiempo. En este contexto presente, ambas pueden ir en Presente Continuo.
@@ -227,10 +227,10 @@ Identify the error in the following sentence:
 "Actually, I **am preferring** (A) to walk (B) to school because it **gives** (C) me time **to think** (D)."
 
 ### Opciones
-- [x] A) am preferring <!-- feedback: Correct! "Prefer" is a stative verb and should be in Simple Present: "I prefer". -->
-- [ ] B) to walk <!-- feedback: Incorrect. This infinitive is correctly used after "prefer". -->
-- [ ] C) gives <!-- feedback: Incorrect. "It" refers to walking (singular), so "gives" is correct. -->
-- [ ] D) to think <!-- feedback: Incorrect. This is a correct infinitive of purpose. -->
+- [x] D) am preferring <!-- feedback: Correct! "Prefer" is a stative verb and should be in Simple Present: "I prefer". -->
+- [ ] A) to walk <!-- feedback: Incorrect. This infinitive is correctly used after "prefer". -->
+- [ ] B) gives <!-- feedback: Incorrect. "It" refers to walking (singular), so "gives" is correct. -->
+- [ ] C) to think <!-- feedback: Incorrect. This is a correct infinitive of purpose. -->
 
 ### Explicación Pedagógica
 El verbo "prefer" expresa un gusto o preferencia, por lo que se considera un verbo de estado (stative verb) y no debe usarse en presente continuo en este contexto.
@@ -248,8 +248,8 @@ El verbo "prefer" expresa un gusto o preferencia, por lo que se considera un ver
 In a formal job interview for a weekend position, which is the most appropriate way to ask about the daily schedule?
 
 ### Opciones
-- [ ] A) What time do I gotta show up? <!-- feedback: Incorrect. "Gotta" is too informal for an interview. -->
-- [x] B) Could you please tell me what the typical daily responsibilities are? <!-- feedback: Correct! It is polite, formal, and uses B1 level structures. -->
+- [ ] B) What time do I gotta show up? <!-- feedback: Incorrect. "Gotta" is too informal for an interview. -->
+- [x] A) Could you please tell me what the typical daily responsibilities are? <!-- feedback: Correct! It is polite, formal, and uses B1 level structures. -->
 - [ ] C) When are you starting the work every day? <!-- feedback: Incorrect. Grammatically weak and too direct. -->
 - [ ] D) Tell me about the routine now. <!-- feedback: Incorrect. An imperative is too aggressive for an interview. -->
 

@@ -38,9 +38,9 @@ What are the "3 Rs" of the environment?
 ### Opciones
 - [ ] A) Read, Run, Rest
   <!-- feedback: Incorrect. These are general activities. -->
-- [x] B) Reduce, Reuse, Recycle
+- [x] C) Reduce, Reuse, Recycle
   <!-- feedback: Correct! These are the three pillars of environmental waste management. -->
-- [ ] C) Rain, River, Rock
+- [ ] B) Rain, River, Rock
   <!-- feedback: Incorrect. These are natural elements. -->
 - [ ] D) Red, Rare, Real
   <!-- feedback: Incorrect. These are adjectives. -->
@@ -63,9 +63,9 @@ Which of these materials is commonly recycled?
 ### Opciones
 - [ ] A) Food scraps
   <!-- feedback: Incorrect. These are usually composted, not recycled in the standard sense. -->
-- [x] B) Glass bottles
+- [x] C) Glass bottles
   <!-- feedback: Correct! Glass is a highly recyclable material. -->
-- [ ] C) Dirty napkins
+- [ ] B) Dirty napkins
   <!-- feedback: Incorrect. Contaminated paper cannot be recycled. -->
 - [ ] D) Wooden sticks
   <!-- feedback: Incorrect. Wood is biodegradable but not typically part of standard recycling bins. -->
@@ -88,9 +88,9 @@ The student identifies recyclable versus non-recyclable materials.
 ### Opciones
 - [ ] A) reducing
   <!-- feedback: Incorrect. Reducing means using less of it. -->
-- [x] B) reusing
+- [x] C) reusing
   <!-- feedback: Correct! Using an item again for a new purpose is "reusing". -->
-- [ ] C) recycling
+- [ ] B) recycling
   <!-- feedback: Incorrect. Recycling involves breaking down the material to make something new. -->
 - [ ] D) throwing
   <!-- feedback: Incorrect. You are keeping it. -->
@@ -138,9 +138,9 @@ The student understands the concept and vocabulary of renewable energy.
 ### Opciones
 - [ ] A) color
   <!-- feedback: Incorrect. Color doesn't affect the amount of trash. -->
-- [x] B) packaging
+- [x] C) packaging
   <!-- feedback: Correct! Excess wrapping and boxes (packaging) create more waste. -->
-- [ ] C) quality
+- [ ] B) quality
   <!-- feedback: Incorrect. Low quality leads to more waste as things break faster. -->
 - [ ] D) flavor
   <!-- feedback: Incorrect. Not related to trash. -->
@@ -187,9 +187,9 @@ The student applies reading comprehension to categorize a specific action within
 "A sustainable home ________ use solar panels to produce its own electricity."
 
 ### Opciones
-- [ ] A) shouldn't
+- [ ] B) shouldn't
   <!-- feedback: Incorrect. This would be bad advice for sustainability. -->
-- [x] B) can
+- [x] A) can
   <!-- feedback: Correct! Shows a possibility that aligns with sustainability goals. -->
 - [ ] C) mustn't
   <!-- feedback: Incorrect. Prohibition. -->
@@ -217,9 +217,9 @@ What are the multiple benefits of recycling paper mentioned in the text?
   <!-- feedback: Incorrect. It also saves water and energy. -->
 - [ ] B) It is faster to make paper from wood.
   <!-- feedback: Incorrect. The text doesn't mention speed. -->
-- [x] C) It conserves natural resources (trees, water) and reduces energy consumption.
+- [x] D) It conserves natural resources (trees, water) and reduces energy consumption.
   <!-- feedback: Correct! The text mentions saving trees, water, and energy. -->
-- [ ] D) It is more expensive than making new paper.
+- [ ] C) It is more expensive than making new paper.
   <!-- feedback: Incorrect. Not mentioned. -->
 
 ### Explicacion Pedagogica
@@ -240,11 +240,11 @@ Which list contains ONLY renewable energy sources?
 ### Opciones
 - [ ] A) Solar, Wind, Coal
   <!-- feedback: Incorrect. Coal is a fossil fuel. -->
-- [x] B) Solar, Wind, Hydroelectric
+- [x] D) Solar, Wind, Hydroelectric
   <!-- feedback: Correct! All three come from naturally replenishing sources (sun, wind, water). -->
-- [ ] C) Oil, Gas, Solar
+- [ ] B) Oil, Gas, Solar
   <!-- feedback: Incorrect. Oil and Gas are fossil fuels. -->
-- [ ] D) Wind, Nuclear, Gas
+- [ ] C) Wind, Nuclear, Gas
   <!-- feedback: Incorrect. Gas is not renewable. -->
 
 ### Explicacion Pedagogica

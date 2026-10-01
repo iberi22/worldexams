@@ -38,8 +38,8 @@ En una alcancía, Juan decide ahorrar cada semana una cantidad que sigue una pro
 
 ### Opciones
 - [ ] A) 10 <!-- feedback: Incorrecto. La diferencia entre 20 y 15 no es 10. -->
-- [x] B) 5 <!-- feedback: Correcto. 20 - 15 = 5, 25 - 20 = 5. La diferencia es constante. -->
-- [ ] C) 15 <!-- feedback: Incorrecto. 15 es el primer término, no la diferencia. -->
+- [x] C) 5 <!-- feedback: Correcto. 20 - 15 = 5, 25 - 20 = 5. La diferencia es constante. -->
+- [ ] B) 15 <!-- feedback: Incorrecto. 15 es el primer término, no la diferencia. -->
 - [ ] D) -5 <!-- feedback: Incorrecto. La sucesión es creciente, por lo que la diferencia debe ser positiva. -->
 
 ### Explicacion Pedagogica
@@ -79,9 +79,9 @@ Usando la fórmula $a_n = a_1 + (n-1)d$, donde $a_1 = 120$ y $d = 8$: $a_n = 120
 En un auditorio de la CDMX, la primera fila tiene 24 asientos y cada fila posterior tiene 3 asientos más que la anterior. ¿Cuántos asientos hay en la fila número 15?
 
 ### Opciones
-- [ ] A) 45 <!-- feedback: Incorrecto. Has multiplicado 3 por 15 sin sumar la base inicial correctamente. -->
-- [ ] B) 69 <!-- feedback: Incorrecto. Valor cercano pero cálculo erróneo del término n-1. -->
-- [x] C) 66 <!-- feedback: Correcto. a_15 = 24 + (15-1)3 = 24 + (14)(3) = 24 + 42 = 66. -->
+- [ ] B) 45 <!-- feedback: Incorrecto. Has multiplicado 3 por 15 sin sumar la base inicial correctamente. -->
+- [ ] C) 69 <!-- feedback: Incorrecto. Valor cercano pero cálculo erróneo del término n-1. -->
+- [x] A) 66 <!-- feedback: Correcto. a_15 = 24 + (15-1)3 = 24 + (14)(3) = 24 + 42 = 66. -->
 - [ ] D) 72 <!-- feedback: Incorrecto. Has usado n en lugar de n-1. -->
 
 ### Explicacion Pedagogica
@@ -100,9 +100,9 @@ Se aplica la fórmula del n-ésimo término: $a_n = a_1 + (n-1)d$. Sustituyendo 
 ¿Cuál de las siguientes sucesiones NO es aritmética?
 
 ### Opciones
-- [ ] A) 10, 7, 4, 1, ... <!-- feedback: Incorrecto. Es aritmética con d = -3. -->
-- [ ] B) -5, -2, 1, 4, ... <!-- feedback: Incorrecto. Es aritmética con d = 3. -->
-- [x] C) 2, 4, 8, 16, ... <!-- feedback: Correcto. Esta es una sucesión geométrica donde se multiplica por 2, no se suma una constante. -->
+- [ ] B) 10, 7, 4, 1, ... <!-- feedback: Incorrecto. Es aritmética con d = -3. -->
+- [ ] C) -5, -2, 1, 4, ... <!-- feedback: Incorrecto. Es aritmética con d = 3. -->
+- [x] A) 2, 4, 8, 16, ... <!-- feedback: Correcto. Esta es una sucesión geométrica donde se multiplica por 2, no se suma una constante. -->
 - [ ] D) 1/2, 1, 3/2, 2, ... <!-- feedback: Incorrecto. Es aritmética con d = 1/2. -->
 
 ### Explicacion Pedagogica
@@ -184,8 +184,8 @@ La diferencia común se halla como $d = \frac{a_n - a_k}{n - k}$. Aquí $\frac{3
 Una computadora de $18,000 pesos se deprecia linealmente $1,200 pesos cada año. ¿En qué año su valor será de $6,000 pesos? (Considera el año 1 como el valor inicial después de la primera depreciación).
 
 ### Opciones
-- [ ] A) Año 9 <!-- feedback: Incorrecto. Revisa el planteamiento de la resta. -->
-- [x] B) Año 10 <!-- feedback: Correcto. Valor inicial (a_0) = 18000. a_n = 18000 - 1200n. 6000 = 18000 - 1200n => 1200n = 12000 => n = 10. -->
+- [ ] B) Año 9 <!-- feedback: Incorrecto. Revisa el planteamiento de la resta. -->
+- [x] A) Año 10 <!-- feedback: Correcto. Valor inicial (a_0) = 18000. a_n = 18000 - 1200n. 6000 = 18000 - 1200n => 1200n = 12000 => n = 10. -->
 - [ ] C) Año 11 <!-- feedback: Incorrecto. Error de desfase de un año. -->
 - [ ] D) Año 8 <!-- feedback: Incorrecto. El valor sería mayor a 6000. -->
 
@@ -206,9 +206,9 @@ En una campaña de salud, se entregan 50 folletos el primer día, 62 el segundo,
 
 ### Opciones
 - [ ] A) 182 <!-- feedback: Incorrecto. Este es el valor del día 12 solamente. -->
-- [x] B) 1,392 <!-- feedback: Correcto. a_12 = 50 + 11(12) = 182. S_12 = (12/2)(50 + 182) = 6(232) = 1392. -->
-- [ ] C) 1,152 <!-- feedback: Incorrecto. Error en el cálculo de la suma. -->
-- [ ] D) 2,184 <!-- feedback: Incorrecto. No dividiste entre 2. -->
+- [x] D) 1,392 <!-- feedback: Correcto. a_12 = 50 + 11(12) = 182. S_12 = (12/2)(50 + 182) = 6(232) = 1392. -->
+- [ ] B) 1,152 <!-- feedback: Incorrecto. Error en el cálculo de la suma. -->
+- [ ] C) 2,184 <!-- feedback: Incorrecto. No dividiste entre 2. -->
 
 ### Explicacion Pedagogica
 Primero calculamos $a_{12} = 182$ usando $a_n = a_1 + (n-1)d$. Luego usamos $S_{12} = \frac{12(a_1 + a_{12})}{2} = 6(50 + 182) = 1392$.
@@ -227,9 +227,9 @@ Primero calculamos $a_{12} = 182$ usando $a_n = a_1 + (n-1)d$. Luego usamos $S_{
 
 ### Opciones
 - [ ] A) 69 <!-- feedback: Incorrecto. Revisa el signo de la diferencia común. -->
-- [x] B) 65 <!-- feedback: Correcto. a_1 = -15, d = 4. a_21 = -15 + (20)(4) = -15 + 80 = 65. -->
-- [ ] C) 99 <!-- feedback: Incorrecto. Cálculo erróneo. -->
-- [ ] D) -95 <!-- feedback: Incorrecto. La sucesión es creciente hacia los positivos. -->
+- [x] D) 65 <!-- feedback: Correcto. a_1 = -15, d = 4. a_21 = -15 + (20)(4) = -15 + 80 = 65. -->
+- [ ] B) 99 <!-- feedback: Incorrecto. Cálculo erróneo. -->
+- [ ] C) -95 <!-- feedback: Incorrecto. La sucesión es creciente hacia los positivos. -->
 
 ### Explicacion Pedagogica
 Identificamos $a_1 = -15$ y $d = 4$. Aplicamos $a_{21} = -15 + (21-1) \times 4 = 65$.
@@ -269,9 +269,9 @@ En una sucesión aritmética finita de 15 términos, la suma del tercer término
 
 ### Opciones
 - [ ] A) 25 <!-- feedback: Incorrecto. La suma de extremos no se divide así. -->
-- [x] B) 50 <!-- feedback: Correcto. En una sucesión aritmética, la suma de términos equidistantes de los extremos es constante: a_1 + a_n = a_k + a_{n-k+1}. -->
-- [ ] C) 100 <!-- feedback: Incorrecto. No hay razón para duplicar el valor. -->
-- [ ] D) Depende de la diferencia común d <!-- feedback: Incorrecto. Esta propiedad es independiente del valor de d. -->
+- [x] D) 50 <!-- feedback: Correcto. En una sucesión aritmética, la suma de términos equidistantes de los extremos es constante: a_1 + a_n = a_k + a_{n-k+1}. -->
+- [ ] B) 100 <!-- feedback: Incorrecto. No hay razón para duplicar el valor. -->
+- [ ] C) Depende de la diferencia común d <!-- feedback: Incorrecto. Esta propiedad es independiente del valor de d. -->
 
 ### Explicacion Pedagogica
 Propiedad fundamental: La suma de dos términos equidistantes de los extremos es constante. Como $3 + 13 = 1 + 15$, entonces $a_3 + a_{13} = a_1 + a_{15} = 50$.
@@ -311,9 +311,9 @@ Dada la sucesión $100, 93, 86, 79, ...$ ¿Cuál es el primer término que resul
 
 ### Opciones
 - [ ] A) -3 <!-- feedback: Incorrecto. Verifica si este término pertenece realmente a la sucesión. -->
-- [x] B) -5 <!-- feedback: Correcto. a_n = 100 + (n-1)(-7) < 0 => 100 - 7n + 7 < 0 => 107 < 7n => n > 15.28. Para n=16: a_16 = 100 + (15)(-7) = 100 - 105 = -5. -->
-- [ ] C) -7 <!-- feedback: Incorrecto. Este sería un término posterior o anterior dependiendo del cálculo. -->
-- [ ] D) -2 <!-- feedback: Incorrecto. Valor no alcanzado por la diferencia de 7. -->
+- [x] D) -5 <!-- feedback: Correcto. a_n = 100 + (n-1)(-7) < 0 => 100 - 7n + 7 < 0 => 107 < 7n => n > 15.28. Para n=16: a_16 = 100 + (15)(-7) = 100 - 105 = -5. -->
+- [ ] B) -7 <!-- feedback: Incorrecto. Este sería un término posterior o anterior dependiendo del cálculo. -->
+- [ ] C) -2 <!-- feedback: Incorrecto. Valor no alcanzado por la diferencia de 7. -->
 
 ### Explicacion Pedagogica
 Planteamos la desigualdad $a_n < 0 \rightarrow 100 + (n-1)(-7) < 0$. Resolviendo $107 < 7n \rightarrow n > 15.28$. El primer entero es $n=16$, cuyo valor es $-5$.
@@ -331,8 +331,8 @@ Planteamos la desigualdad $a_n < 0 \rightarrow 100 + (n-1)(-7) < 0$. Resolviendo
 ¿Cuántos términos de la sucesión aritmética $5, 7, 9, ...$ deben sumarse para que el resultado sea 480?
 
 ### Opciones
-- [ ] A) 15 <!-- feedback: Incorrecto. S_15 es menor a 480. -->
-- [x] B) 20 <!-- feedback: Correcto. S_n = (n/2)(2a_1 + (n-1)d) => 480 = (n/2)(10 + (n-1)2) => 480 = (n/2)(2n + 8) => 480 = n^2 + 4n. n^2 + 4n - 480 = 0. Resolviendo: (n+24)(n-20)=0. n=20. -->
+- [ ] B) 15 <!-- feedback: Incorrecto. S_15 es menor a 480. -->
+- [x] A) 20 <!-- feedback: Correcto. S_n = (n/2)(2a_1 + (n-1)d) => 480 = (n/2)(10 + (n-1)2) => 480 = (n/2)(2n + 8) => 480 = n^2 + 4n. n^2 + 4n - 480 = 0. Resolviendo: (n+24)(n-20)=0. n=20. -->
 - [ ] C) 24 <!-- feedback: Incorrecto. Has tomado la raíz negativa de la ecuación cuadrática. -->
 - [ ] D) 22 <!-- feedback: Incorrecto. Valor aproximado pero no exacto. -->
 
@@ -395,9 +395,9 @@ Se desean interpolar 4 medios aritméticos entre los números 5 y 25. ¿Cuál es
 
 ### Opciones
 - [ ] A) 13 <!-- feedback: Incorrecto. Este es el segundo medio. -->
-- [x] B) 17 <!-- feedback: Correcto. n = 4 + 2 = 6 términos. a_1=5, a_6=25. d = (25-5)/(6-1) = 20/5 = 4. Sucesión: 5, 9, 13, 17, 21, 25. El tercer medio es el cuarto término: 17. -->
-- [ ] C) 15 <!-- feedback: Incorrecto. No consideras correctamente el número total de términos. -->
-- [ ] D) 21 <!-- feedback: Incorrecto. Este es el cuarto medio. -->
+- [x] D) 17 <!-- feedback: Correcto. n = 4 + 2 = 6 términos. a_1=5, a_6=25. d = (25-5)/(6-1) = 20/5 = 4. Sucesión: 5, 9, 13, 17, 21, 25. El tercer medio es el cuarto término: 17. -->
+- [ ] B) 15 <!-- feedback: Incorrecto. No consideras correctamente el número total de términos. -->
+- [ ] C) 21 <!-- feedback: Incorrecto. Este es el cuarto medio. -->
 
 ### Explicacion Pedagogica
 Interpolar 4 medios significa que habrá 6 términos en total. $a_1=5$ y $a_6=25$. $d = (25-5)/5 = 4$. Los medios son $9, 13, 17, 21$. El tercero es $17$.
@@ -416,8 +416,8 @@ Si la suma de los primeros $n$ términos de una sucesión está dada por $S_n = 
 
 ### Opciones
 - [ ] A) 320 <!-- feedback: Incorrecto. Este es el valor de S_10, no de a_10. -->
-- [x] B) 59 <!-- feedback: Correcto. a_10 = S_10 - S_9. S_10 = 3(100) + 2(10) = 320. S_9 = 3(81) + 2(9) = 243 + 18 = 261. a_10 = 320 - 261 = 59. -->
-- [ ] C) 65 <!-- feedback: Incorrecto. Revisa el cálculo de S_9. -->
+- [x] C) 59 <!-- feedback: Correcto. a_10 = S_10 - S_9. S_10 = 3(100) + 2(10) = 320. S_9 = 3(81) + 2(9) = 243 + 18 = 261. a_10 = 320 - 261 = 59. -->
+- [ ] B) 65 <!-- feedback: Incorrecto. Revisa el cálculo de S_9. -->
 - [ ] D) 57 <!-- feedback: Incorrecto. Error menor en la resta. -->
 
 ### Explicacion Pedagogica
@@ -436,10 +436,10 @@ Para cualquier sucesión, $a_n = S_n - S_{n-1}$. Calculamos $S_{10} = 320$ y $S_
 En una sucesión aritmética, se sabe que $a_1 + a_2 + a_3 = 15$ y $a_4 + a_5 + a_6 = 42$. ¿Cuál es el valor del primer término $a_1$?
 
 ### Opciones
-- [x] A) 2 <!-- feedback: Correcto. 3a_1 + 3d = 15 => a_1 + d = 5. (a_1+3d) + (a_1+4d) + (a_1+5d) = 42 => 3a_1 + 12d = 42 => a_1 + 4d = 14. Restando ecuaciones: 3d = 9 => d = 3. Sustituyendo: a_1 + 3 = 5 => a_1 = 2. -->
-- [ ] B) 5 <!-- feedback: Incorrecto. Este es el valor de a_1 + d. -->
-- [ ] C) 3 <!-- feedback: Incorrecto. Este es el valor de la diferencia d. -->
-- [ ] D) 1 <!-- feedback: Incorrecto. Revisa el sistema de ecuaciones. -->
+- [x] D) 2 <!-- feedback: Correcto. 3a_1 + 3d = 15 => a_1 + d = 5. (a_1+3d) + (a_1+4d) + (a_1+5d) = 42 => 3a_1 + 12d = 42 => a_1 + 4d = 14. Restando ecuaciones: 3d = 9 => d = 3. Sustituyendo: a_1 + 3 = 5 => a_1 = 2. -->
+- [ ] A) 5 <!-- feedback: Incorrecto. Este es el valor de a_1 + d. -->
+- [ ] B) 3 <!-- feedback: Incorrecto. Este es el valor de la diferencia d. -->
+- [ ] C) 1 <!-- feedback: Incorrecto. Revisa el sistema de ecuaciones. -->
 
 ### Explicacion Pedagogica
 Planteamos el sistema: 1) $3a_1 + 3d = 15$; 2) $3a_1 + 12d = 42$. Resolviendo por eliminación obtenemos $d = 3$ y $a_1 = 2$.

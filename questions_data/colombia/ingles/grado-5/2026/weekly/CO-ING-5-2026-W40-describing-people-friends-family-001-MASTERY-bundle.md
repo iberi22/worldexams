@@ -32,9 +32,9 @@ Este paquete enseña a describir personas con apariencia y personalidad usando a
 ### Enunciado
 Which words describe people?
 ### Opciones
-- [ ] A) Table, chair and board.
+- [ ] B) Table, chair and board.
   <!-- feedback: Table, chair and board are classroom objects, not descriptions. -->
-- [x] B) Tall, short, young and old.
+- [x] A) Tall, short, young and old.
   <!-- feedback: Tall, short, young and old all describe how people look or are. -->
 - [ ] C) Rice, soup and juice.
   <!-- feedback: Rice, soup and juice are foods, not descriptions of people. -->
@@ -74,11 +74,11 @@ Choose the correct verb to complete the sentence.
 ### Opciones
 - [ ] A) Have.
   <!-- feedback: "Have" is plural and does not agree with the singular he. -->
-- [x] B) Has.
+- [x] D) Has.
   <!-- feedback: "Has" agrees with the third person singular he. -->
-- [ ] C) Having.
+- [ ] B) Having.
   <!-- feedback: "Having" needs am, is or are and is not correct alone here. -->
-- [ ] D) Had.
+- [ ] C) Had.
   <!-- feedback: "Had" is past tense and the description is in the present. -->
 ### Explicacion Pedagogica
 El verbo has describe características con he, she e it en presente. También se practica describiendo a un amigo llanero.
@@ -92,13 +92,13 @@ El verbo has describe características con he, she e it en presente. También se
 ### Enunciado
 What does Ana like to do?
 ### Opciones
-- [ ] A) To play soccer.
+- [ ] B) To play soccer.
   <!-- feedback: The text never mentions soccer in Ana's description. -->
-- [ ] B) To cook arepas.
+- [ ] C) To cook arepas.
   <!-- feedback: The text never mentions cooking in Ana's description. -->
-- [ ] C) To swim daily.
+- [ ] D) To swim daily.
   <!-- feedback: The text never mentions swimming in Ana's description. -->
-- [x] D) To sing vallenato.
+- [x] A) To sing vallenato.
   <!-- feedback: The text says Ana likes to sing vallenato. -->
 ### Explicacion Pedagogica
 Leer retratos exige localizar el gusto mencionado en el texto. También se aplica con una amiga que canta vallenato en Mocoa.
@@ -112,11 +112,11 @@ Leer retratos exige localizar el gusto mencionado en el texto. También se aplic
 ### Enunciado
 Which word means the opposite of happy?
 ### Opciones
-- [x] A) Sad.
+- [x] C) Sad.
   <!-- feedback: Sad is the opposite of happy and describes the sister. -->
-- [ ] B) Glad.
+- [ ] A) Glad.
   <!-- feedback: Glad means the same as happy, not the opposite. -->
-- [ ] C) Tired.
+- [ ] B) Tired.
   <!-- feedback: Tired means needing rest, not the opposite of happy. -->
 - [ ] D) Hungry.
   <!-- feedback: Hungry means needing food, not the opposite of happy. -->
@@ -134,9 +134,9 @@ What can you conclude about Pedro and Lucía?
 ### Opciones
 - [ ] A) Both are tall and quiet.
   <!-- feedback: Only Pedro is tall and quiet; Lucía is short and talkative. -->
-- [x] B) They are opposite in size, character and taste.
+- [x] C) They are opposite in size, character and taste.
   <!-- feedback: The notes contrast tall-quiet-reading with short-talkative-dancing. -->
-- [ ] C) Both like exactly the same activity.
+- [ ] B) Both like exactly the same activity.
   <!-- feedback: Pedro likes reading while Lucía likes dancing. -->
 - [ ] D) Neither note describes a person.
   <!-- feedback: Both notes clearly describe Pedro and Lucía. -->
@@ -152,11 +152,11 @@ Analizar retratos permite comparar tamaño, carácter y gustos. También se trab
 ### Enunciado
 Which statement explains the difference?
 ### Opciones
-- [ ] A) Both sentences describe her personality.
+- [ ] B) Both sentences describe her personality.
   <!-- feedback: Only the second sentence describes personality with generous. -->
-- [ ] B) Both sentences name her job.
+- [ ] C) Both sentences name her job.
   <!-- feedback: Only the first sentence names her job as a doctor. -->
-- [x] C) The first names her job, the second describes her personality.
+- [x] A) The first names her job, the second describes her personality.
   <!-- feedback: "A doctor" is a profession while "generous" is a quality. -->
 - [ ] D) The first describes personality, the second names her job.
   <!-- feedback: The roles are reversed; job first, then quality. -->
@@ -174,11 +174,11 @@ Which description is the best for fifth graders?
 ### Opciones
 - [ ] A) The rude description, because jokes hurt less.
   <!-- feedback: Rude words hurt feelings and are wrong at a school fair. -->
-- [x] B) The kind description with true facts.
+- [x] D) The kind description with true facts.
   <!-- feedback: Kind words and true facts respect the family and teach well. -->
-- [ ] C) The invented description, because lies are fun.
+- [ ] B) The invented description, because lies are fun.
   <!-- feedback: Invented facts are lies and teach wrong information. -->
-- [ ] D) Both descriptions are equal for children.
+- [ ] C) Both descriptions are equal for children.
   <!-- feedback: The descriptions are very different; only one respects and teaches. -->
 ### Explicacion Pedagogica
 Evaluar descripciones implica revisar palabras amables y datos verdaderos. También se promueve describir a la familia con respeto y verdad.

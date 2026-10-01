@@ -32,8 +32,8 @@ Encuentra las soluciones de la siguiente ecuación cuadrática:
 $$x^2 + -4x + 3 = 0$$
 
 ### Opciones
-- [x] A) $x = 1$ y $x = 3$ <!-- feedback: Correcto. Al factorizar como $(x - 1)(x - 3) = 0$, obtenemos las raíces reales. -->
-- [ ] B) $x = -1$ y $x = -3$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
+- [x] B) $x = 1$ y $x = 3$ <!-- feedback: Correcto. Al factorizar como $(x - 1)(x - 3) = 0$, obtenemos las raíces reales. -->
+- [ ] A) $x = -1$ y $x = -3$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
 - [ ] C) $x = 3$ y $x = 5$ <!-- feedback: Incorrecto. No satisfacen la ecuación cuadrática. -->
 - [ ] D) La ecuación no tiene raíces reales. <!-- feedback: Incorrecto. El discriminante es mayor a cero. -->
 
@@ -76,8 +76,8 @@ Encuentra las soluciones de la siguiente ecuación cuadrática:
 $$x^2 + -8x + 15 = 0$$
 
 ### Opciones
-- [x] A) $x = 3$ y $x = 5$ <!-- feedback: Correcto. Al factorizar como $(x - 3)(x - 5) = 0$, obtenemos las raíces reales. -->
-- [ ] B) $x = -3$ y $x = -5$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
+- [x] B) $x = 3$ y $x = 5$ <!-- feedback: Correcto. Al factorizar como $(x - 3)(x - 5) = 0$, obtenemos las raíces reales. -->
+- [ ] A) $x = -3$ y $x = -5$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
 - [ ] C) $x = 5$ y $x = 7$ <!-- feedback: Incorrecto. No satisfacen la ecuación cuadrática. -->
 - [ ] D) La ecuación no tiene raíces reales. <!-- feedback: Incorrecto. El discriminante es mayor a cero. -->
 
@@ -98,9 +98,9 @@ Encuentra las soluciones de la siguiente ecuación cuadrática:
 $$x^2 + -10x + 24 = 0$$
 
 ### Opciones
-- [x] A) $x = 4$ y $x = 6$ <!-- feedback: Correcto. Al factorizar como $(x - 4)(x - 6) = 0$, obtenemos las raíces reales. -->
-- [ ] B) $x = -4$ y $x = -6$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
-- [ ] C) $x = 6$ y $x = 8$ <!-- feedback: Incorrecto. No satisfacen la ecuación cuadrática. -->
+- [x] C) $x = 4$ y $x = 6$ <!-- feedback: Correcto. Al factorizar como $(x - 4)(x - 6) = 0$, obtenemos las raíces reales. -->
+- [ ] A) $x = -4$ y $x = -6$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
+- [ ] B) $x = 6$ y $x = 8$ <!-- feedback: Incorrecto. No satisfacen la ecuación cuadrática. -->
 - [ ] D) La ecuación no tiene raíces reales. <!-- feedback: Incorrecto. El discriminante es mayor a cero. -->
 
 ### Explicacion Pedagogica
@@ -123,9 +123,9 @@ Encuentra las soluciones de la siguiente ecuación cuadrática:
 $$x^2 + -12x + 35 = 0$$
 
 ### Opciones
-- [x] A) $x = 5$ y $x = 7$ <!-- feedback: Correcto. Al factorizar como $(x - 5)(x - 7) = 0$, obtenemos las raíces reales. -->
-- [ ] B) $x = -5$ y $x = -7$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
-- [ ] C) $x = 7$ y $x = 9$ <!-- feedback: Incorrecto. No satisfacen la ecuación cuadrática. -->
+- [x] C) $x = 5$ y $x = 7$ <!-- feedback: Correcto. Al factorizar como $(x - 5)(x - 7) = 0$, obtenemos las raíces reales. -->
+- [ ] A) $x = -5$ y $x = -7$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
+- [ ] B) $x = 7$ y $x = 9$ <!-- feedback: Incorrecto. No satisfacen la ecuación cuadrática. -->
 - [ ] D) La ecuación no tiene raíces reales. <!-- feedback: Incorrecto. El discriminante es mayor a cero. -->
 
 ### Explicacion Pedagogica
@@ -189,9 +189,9 @@ Encuentra las soluciones de la siguiente ecuación cuadrática:
 $$x^2 + -18x + 80 = 0$$
 
 ### Opciones
-- [x] A) $x = 8$ y $x = 10$ <!-- feedback: Correcto. Al factorizar como $(x - 8)(x - 10) = 0$, obtenemos las raíces reales. -->
-- [ ] B) $x = -8$ y $x = -10$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
-- [ ] C) $x = 10$ y $x = 12$ <!-- feedback: Incorrecto. No satisfacen la ecuación cuadrática. -->
+- [x] C) $x = 8$ y $x = 10$ <!-- feedback: Correcto. Al factorizar como $(x - 8)(x - 10) = 0$, obtenemos las raíces reales. -->
+- [ ] A) $x = -8$ y $x = -10$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
+- [ ] B) $x = 10$ y $x = 12$ <!-- feedback: Incorrecto. No satisfacen la ecuación cuadrática. -->
 - [ ] D) La ecuación no tiene raíces reales. <!-- feedback: Incorrecto. El discriminante es mayor a cero. -->
 
 ### Explicacion Pedagogica
@@ -211,9 +211,9 @@ Encuentra las soluciones de la siguiente ecuación cuadrática:
 $$x^2 + -20x + 99 = 0$$
 
 ### Opciones
-- [x] A) $x = 9$ y $x = 11$ <!-- feedback: Correcto. Al factorizar como $(x - 9)(x - 11) = 0$, obtenemos las raíces reales. -->
-- [ ] B) $x = -9$ y $x = -11$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
-- [ ] C) $x = 11$ y $x = 13$ <!-- feedback: Incorrecto. No satisfacen la ecuación cuadrática. -->
+- [x] C) $x = 9$ y $x = 11$ <!-- feedback: Correcto. Al factorizar como $(x - 9)(x - 11) = 0$, obtenemos las raíces reales. -->
+- [ ] A) $x = -9$ y $x = -11$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
+- [ ] B) $x = 11$ y $x = 13$ <!-- feedback: Incorrecto. No satisfacen la ecuación cuadrática. -->
 - [ ] D) La ecuación no tiene raíces reales. <!-- feedback: Incorrecto. El discriminante es mayor a cero. -->
 
 ### Explicacion Pedagogica
@@ -233,9 +233,9 @@ Encuentra las soluciones de la siguiente ecuación cuadrática:
 $$x^2 + -22x + 120 = 0$$
 
 ### Opciones
-- [x] A) $x = 10$ y $x = 12$ <!-- feedback: Correcto. Al factorizar como $(x - 10)(x - 12) = 0$, obtenemos las raíces reales. -->
-- [ ] B) $x = -10$ y $x = -12$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
-- [ ] C) $x = 12$ y $x = 14$ <!-- feedback: Incorrecto. No satisfacen la ecuación cuadrática. -->
+- [x] C) $x = 10$ y $x = 12$ <!-- feedback: Correcto. Al factorizar como $(x - 10)(x - 12) = 0$, obtenemos las raíces reales. -->
+- [ ] A) $x = -10$ y $x = -12$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
+- [ ] B) $x = 12$ y $x = 14$ <!-- feedback: Incorrecto. No satisfacen la ecuación cuadrática. -->
 - [ ] D) La ecuación no tiene raíces reales. <!-- feedback: Incorrecto. El discriminante es mayor a cero. -->
 
 ### Explicacion Pedagogica
@@ -258,9 +258,9 @@ Encuentra las soluciones de la siguiente ecuación cuadrática:
 $$x^2 + -24x + 143 = 0$$
 
 ### Opciones
-- [x] A) $x = 11$ y $x = 13$ <!-- feedback: Correcto. Al factorizar como $(x - 11)(x - 13) = 0$, obtenemos las raíces reales. -->
-- [ ] B) $x = -11$ y $x = -13$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
-- [ ] C) $x = 13$ y $x = 15$ <!-- feedback: Incorrecto. No satisfacen la ecuación cuadrática. -->
+- [x] C) $x = 11$ y $x = 13$ <!-- feedback: Correcto. Al factorizar como $(x - 11)(x - 13) = 0$, obtenemos las raíces reales. -->
+- [ ] A) $x = -11$ y $x = -13$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
+- [ ] B) $x = 13$ y $x = 15$ <!-- feedback: Incorrecto. No satisfacen la ecuación cuadrática. -->
 - [ ] D) La ecuación no tiene raíces reales. <!-- feedback: Incorrecto. El discriminante es mayor a cero. -->
 
 ### Explicacion Pedagogica
@@ -280,8 +280,8 @@ Encuentra las soluciones de la siguiente ecuación cuadrática:
 $$x^2 + -26x + 168 = 0$$
 
 ### Opciones
-- [x] A) $x = 12$ y $x = 14$ <!-- feedback: Correcto. Al factorizar como $(x - 12)(x - 14) = 0$, obtenemos las raíces reales. -->
-- [ ] B) $x = -12$ y $x = -14$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
+- [x] B) $x = 12$ y $x = 14$ <!-- feedback: Correcto. Al factorizar como $(x - 12)(x - 14) = 0$, obtenemos las raíces reales. -->
+- [ ] A) $x = -12$ y $x = -14$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
 - [ ] C) $x = 14$ y $x = 16$ <!-- feedback: Incorrecto. No satisfacen la ecuación cuadrática. -->
 - [ ] D) La ecuación no tiene raíces reales. <!-- feedback: Incorrecto. El discriminante es mayor a cero. -->
 
@@ -302,10 +302,10 @@ Encuentra las soluciones de la siguiente ecuación cuadrática:
 $$x^2 + -28x + 195 = 0$$
 
 ### Opciones
-- [x] A) $x = 13$ y $x = 15$ <!-- feedback: Correcto. Al factorizar como $(x - 13)(x - 15) = 0$, obtenemos las raíces reales. -->
-- [ ] B) $x = -13$ y $x = -15$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
-- [ ] C) $x = 15$ y $x = 17$ <!-- feedback: Incorrecto. No satisfacen la ecuación cuadrática. -->
-- [ ] D) La ecuación no tiene raíces reales. <!-- feedback: Incorrecto. El discriminante es mayor a cero. -->
+- [x] D) $x = 13$ y $x = 15$ <!-- feedback: Correcto. Al factorizar como $(x - 13)(x - 15) = 0$, obtenemos las raíces reales. -->
+- [ ] A) $x = -13$ y $x = -15$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
+- [ ] B) $x = 15$ y $x = 17$ <!-- feedback: Incorrecto. No satisfacen la ecuación cuadrática. -->
+- [ ] C) La ecuación no tiene raíces reales. <!-- feedback: Incorrecto. El discriminante es mayor a cero. -->
 
 ### Explicacion Pedagogica
 Para resolver la ecuación cuadrática $x^2 + -28x + 195 = 0$, podemos factorizarla en la forma $$(x - r_1)(x - r_2) = 0$$. Buscamos dos números que multiplicados den 195 y sumados den -28, los cuales son -13 y -15. Esto nos da $$(x - 13)(x - 15) = 0$$. Igualando cada factor a cero obtenemos las soluciones $x = 13$ y $x = 15$.
@@ -324,10 +324,10 @@ Encuentra las soluciones de la siguiente ecuación cuadrática:
 $$x^2 + -30x + 224 = 0$$
 
 ### Opciones
-- [x] A) $x = 14$ y $x = 16$ <!-- feedback: Correcto. Al factorizar como $(x - 14)(x - 16) = 0$, obtenemos las raíces reales. -->
-- [ ] B) $x = -14$ y $x = -16$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
-- [ ] C) $x = 16$ y $x = 18$ <!-- feedback: Incorrecto. No satisfacen la ecuación cuadrática. -->
-- [ ] D) La ecuación no tiene raíces reales. <!-- feedback: Incorrecto. El discriminante es mayor a cero. -->
+- [x] D) $x = 14$ y $x = 16$ <!-- feedback: Correcto. Al factorizar como $(x - 14)(x - 16) = 0$, obtenemos las raíces reales. -->
+- [ ] A) $x = -14$ y $x = -16$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
+- [ ] B) $x = 16$ y $x = 18$ <!-- feedback: Incorrecto. No satisfacen la ecuación cuadrática. -->
+- [ ] C) La ecuación no tiene raíces reales. <!-- feedback: Incorrecto. El discriminante es mayor a cero. -->
 
 ### Explicacion Pedagogica
 Para resolver la ecuación cuadrática $x^2 + -30x + 224 = 0$, podemos factorizarla en la forma $$(x - r_1)(x - r_2) = 0$$. Buscamos dos números que multiplicados den 224 y sumados den -30, los cuales son -14 y -16. Esto nos da $$(x - 14)(x - 16) = 0$$. Igualando cada factor a cero obtenemos las soluciones $x = 14$ y $x = 16$.
@@ -368,10 +368,10 @@ Encuentra las soluciones de la siguiente ecuación cuadrática:
 $$x^2 + -34x + 288 = 0$$
 
 ### Opciones
-- [x] A) $x = 16$ y $x = 18$ <!-- feedback: Correcto. Al factorizar como $(x - 16)(x - 18) = 0$, obtenemos las raíces reales. -->
-- [ ] B) $x = -16$ y $x = -18$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
-- [ ] C) $x = 18$ y $x = 20$ <!-- feedback: Incorrecto. No satisfacen la ecuación cuadrática. -->
-- [ ] D) La ecuación no tiene raíces reales. <!-- feedback: Incorrecto. El discriminante es mayor a cero. -->
+- [x] D) $x = 16$ y $x = 18$ <!-- feedback: Correcto. Al factorizar como $(x - 16)(x - 18) = 0$, obtenemos las raíces reales. -->
+- [ ] A) $x = -16$ y $x = -18$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
+- [ ] B) $x = 18$ y $x = 20$ <!-- feedback: Incorrecto. No satisfacen la ecuación cuadrática. -->
+- [ ] C) La ecuación no tiene raíces reales. <!-- feedback: Incorrecto. El discriminante es mayor a cero. -->
 
 ### Explicacion Pedagogica
 Para resolver la ecuación cuadrática $x^2 + -34x + 288 = 0$, podemos factorizarla en la forma $$(x - r_1)(x - r_2) = 0$$. Buscamos dos números que multiplicados den 288 y sumados den -34, los cuales son -16 y -18. Esto nos da $$(x - 16)(x - 18) = 0$$. Igualando cada factor a cero obtenemos las soluciones $x = 16$ y $x = 18$.
@@ -415,9 +415,9 @@ Encuentra las soluciones de la siguiente ecuación cuadrática:
 $$x^2 + -38x + 360 = 0$$
 
 ### Opciones
-- [x] A) $x = 18$ y $x = 20$ <!-- feedback: Correcto. Al factorizar como $(x - 18)(x - 20) = 0$, obtenemos las raíces reales. -->
-- [ ] B) $x = -18$ y $x = -20$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
-- [ ] C) $x = 20$ y $x = 22$ <!-- feedback: Incorrecto. No satisfacen la ecuación cuadrática. -->
+- [x] C) $x = 18$ y $x = 20$ <!-- feedback: Correcto. Al factorizar como $(x - 18)(x - 20) = 0$, obtenemos las raíces reales. -->
+- [ ] A) $x = -18$ y $x = -20$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
+- [ ] B) $x = 20$ y $x = 22$ <!-- feedback: Incorrecto. No satisfacen la ecuación cuadrática. -->
 - [ ] D) La ecuación no tiene raíces reales. <!-- feedback: Incorrecto. El discriminante es mayor a cero. -->
 
 ### Explicacion Pedagogica
@@ -437,10 +437,10 @@ Encuentra las soluciones de la siguiente ecuación cuadrática:
 $$x^2 + -40x + 399 = 0$$
 
 ### Opciones
-- [x] A) $x = 19$ y $x = 21$ <!-- feedback: Correcto. Al factorizar como $(x - 19)(x - 21) = 0$, obtenemos las raíces reales. -->
-- [ ] B) $x = -19$ y $x = -21$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
-- [ ] C) $x = 21$ y $x = 23$ <!-- feedback: Incorrecto. No satisfacen la ecuación cuadrática. -->
-- [ ] D) La ecuación no tiene raíces reales. <!-- feedback: Incorrecto. El discriminante es mayor a cero. -->
+- [x] D) $x = 19$ y $x = 21$ <!-- feedback: Correcto. Al factorizar como $(x - 19)(x - 21) = 0$, obtenemos las raíces reales. -->
+- [ ] A) $x = -19$ y $x = -21$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
+- [ ] B) $x = 21$ y $x = 23$ <!-- feedback: Incorrecto. No satisfacen la ecuación cuadrática. -->
+- [ ] C) La ecuación no tiene raíces reales. <!-- feedback: Incorrecto. El discriminante es mayor a cero. -->
 
 ### Explicacion Pedagogica
 Para resolver la ecuación cuadrática $x^2 + -40x + 399 = 0$, podemos factorizarla en la forma $$(x - r_1)(x - r_2) = 0$$. Buscamos dos números que multiplicados den 399 y sumados den -40, los cuales son -19 y -21. Esto nos da $$(x - 19)(x - 21) = 0$$. Igualando cada factor a cero obtenemos las soluciones $x = 19$ y $x = 21$.
@@ -459,10 +459,10 @@ Encuentra las soluciones de la siguiente ecuación cuadrática:
 $$x^2 + -42x + 440 = 0$$
 
 ### Opciones
-- [x] A) $x = 20$ y $x = 22$ <!-- feedback: Correcto. Al factorizar como $(x - 20)(x - 22) = 0$, obtenemos las raíces reales. -->
-- [ ] B) $x = -20$ y $x = -22$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
-- [ ] C) $x = 22$ y $x = 24$ <!-- feedback: Incorrecto. No satisfacen la ecuación cuadrática. -->
-- [ ] D) La ecuación no tiene raíces reales. <!-- feedback: Incorrecto. El discriminante es mayor a cero. -->
+- [x] D) $x = 20$ y $x = 22$ <!-- feedback: Correcto. Al factorizar como $(x - 20)(x - 22) = 0$, obtenemos las raíces reales. -->
+- [ ] A) $x = -20$ y $x = -22$ <!-- feedback: Incorrecto. Signos de las raíces erróneos. -->
+- [ ] B) $x = 22$ y $x = 24$ <!-- feedback: Incorrecto. No satisfacen la ecuación cuadrática. -->
+- [ ] C) La ecuación no tiene raíces reales. <!-- feedback: Incorrecto. El discriminante es mayor a cero. -->
 
 ### Explicacion Pedagogica
 Para resolver la ecuación cuadrática $x^2 + -42x + 440 = 0$, podemos factorizarla en la forma $$(x - r_1)(x - r_2) = 0$$. Buscamos dos números que multiplicados den 440 y sumados den -42, los cuales son -20 y -22. Esto nos da $$(x - 20)(x - 22) = 0$$. Igualando cada factor a cero obtenemos las soluciones $x = 20$ y $x = 22$.

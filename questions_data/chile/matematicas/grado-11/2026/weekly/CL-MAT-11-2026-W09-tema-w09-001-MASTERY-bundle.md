@@ -31,8 +31,8 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) $f(x) = mx + n$ <!-- feedback: Esta expresión define la forma general de una función afín o lineal. -->
-- [x] B) $f(x) = ax^2 + bx + c$ <!-- feedback: Correcto, donde los coeficientes son reales y el cuadrático es no nulo. -->
-- [ ] C) $f(x) = a^x$ <!-- feedback: Esta estructura corresponde a la forma de una función exponencial. -->
+- [x] C) $f(x) = ax^2 + bx + c$ <!-- feedback: Correcto, donde los coeficientes son reales y el cuadrático es no nulo. -->
+- [ ] B) $f(x) = a^x$ <!-- feedback: Esta estructura corresponde a la forma de una función exponencial. -->
 - [ ] D) $f(x) = a/x$ <!-- feedback: Esta representación define una función de proporcionalidad inversa. -->
 
 ### Explicacion Pedagogica
@@ -68,10 +68,10 @@ El signo del coeficiente cuadrático $a$ determina la concavidad de la parábola
 Dada la función $f(x) = x^2 - 3x + 2$, ¿cuál es el valor de $f(2)$?
 
 ### Opciones
-- [x] A) 0 <!-- feedback: El cálculo resulta en $4 - 6 + 2 = 0$. -->
-- [ ] B) 2 <!-- feedback: Cometiste un error en la evaluación de los términos del polinomio. -->
-- [ ] C) 4 <!-- feedback: Olvidaste restar el valor correspondiente al término lineal de la función. -->
-- [ ] D) -2 <!-- feedback: Realizaste una gestión incorrecta de los signos durante la operación. -->
+- [x] D) 0 <!-- feedback: El cálculo resulta en $4 - 6 + 2 = 0$. -->
+- [ ] A) 2 <!-- feedback: Cometiste un error en la evaluación de los términos del polinomio. -->
+- [ ] B) 4 <!-- feedback: Olvidaste restar el valor correspondiente al término lineal de la función. -->
+- [ ] C) -2 <!-- feedback: Realizaste una gestión incorrecta de los signos durante la operación. -->
 
 ### Explicacion Pedagogica
 Evaluamos la función sustituyendo $x$ por 2: $f(2) = (2)^2 - 3(2) + 2$. Resolvemos la potencia y la multiplicación: $4 - 6 + 2$. Finalmente, sumamos y restamos: $4 + 2 = 6$; $6 - 6 = 0$.
@@ -106,8 +106,8 @@ El intercepto con el eje de las ordenadas (Eje Y) se halla evaluando la función
 ¿Cuál es la coordenada $x$ del vértice de la función $f(x) = x^2 - 6x + 5$?
 
 ### Opciones
-- [ ] A) 6 <!-- feedback: Omitiste realizar la división por el factor $2a$ de la fórmula del vértice. -->
-- [x] B) 3 <!-- feedback: Aplicando la fórmula: $x_v = -(-6) / (2 \cdot 1) = 6 / 2 = 3$. -->
+- [ ] B) 6 <!-- feedback: Omitiste realizar la división por el factor $2a$ de la fórmula del vértice. -->
+- [x] A) 3 <!-- feedback: Aplicando la fórmula: $x_v = -(-6) / (2 \cdot 1) = 6 / 2 = 3$. -->
 - [ ] C) -3 <!-- feedback: Cometiste un error en la gestión del signo del coeficiente $b$. -->
 - [ ] D) 5 <!-- feedback: Este valor numérico es el coeficiente de posición $c$ de la parábola. -->
 
@@ -125,9 +125,9 @@ La coordenada $x$ del vértice ($x_v$) se obtiene con la fórmula $x_v = -b / (2
 Si el discriminante ($\Delta = b^2 - 4ac$) de una función cuadrática es igual a cero, ¿qué significa gráficamente?
 
 ### Opciones
-- [ ] A) La parábola no corta en ningún punto al eje X. <!-- feedback: Este escenario sucede si el discriminante posee un valor negativo. -->
-- [ ] B) La parábola corta al eje X en dos puntos reales distintos. <!-- feedback: Esta situación ocurre ante un discriminante de valor positivo. -->
-- [x] C) La parábola es tangente al eje X (toca un solo punto). <!-- feedback: Correcto, esto indica la existencia de una única solución real (raíz doble). -->
+- [ ] B) La parábola no corta en ningún punto al eje X. <!-- feedback: Este escenario sucede si el discriminante posee un valor negativo. -->
+- [ ] C) La parábola corta al eje X en dos puntos reales distintos. <!-- feedback: Esta situación ocurre ante un discriminante de valor positivo. -->
+- [x] A) La parábola es tangente al eje X (toca un solo punto). <!-- feedback: Correcto, esto indica la existencia de una única solución real (raíz doble). -->
 - [ ] D) La curva pasa obligatoriamente por el origen del plano. <!-- feedback: La posición respecto al origen depende de la constante $c$, no del discriminante. -->
 
 ### Explicacion Pedagogica
@@ -145,8 +145,8 @@ El discriminante indica la naturaleza de las raíces. Si $\Delta = 0$, la ecuaci
 
 ### Opciones
 - [ ] A) $x = 5$ y $x = -6$ <!-- feedback: Estos valores numéricos no satisfacen la igualdad a cero de la ecuación. -->
-- [x] B) $x = 2$ y $x = 3$ <!-- feedback: Al evaluar: $2^2 - 5(2) + 6 = 0$ y $3^2 - 5(3) + 6 = 0$. -->
-- [ ] C) $x = -2$ y $x = -3$ <!-- feedback: Cometiste errores en los signos algebraicos de las soluciones halladas. -->
+- [x] C) $x = 2$ y $x = 3$ <!-- feedback: Al evaluar: $2^2 - 5(2) + 6 = 0$ y $3^2 - 5(3) + 6 = 0$. -->
+- [ ] B) $x = -2$ y $x = -3$ <!-- feedback: Cometiste errores en los signos algebraicos de las soluciones halladas. -->
 - [ ] D) $x = 1$ y $x = 6$ <!-- feedback: Aunque el producto es 6, la suma de los valores es 7 y no 5. -->
 
 ### Explicacion Pedagogica
@@ -164,9 +164,9 @@ Los ceros o raíces se hallan resolviendo $x^2 - 5x + 6 = 0$. Factorizando: $(x-
 
 ### Opciones
 - [ ] A) 4 segundos <!-- feedback: Este valor representa el tiempo total de vuelo hasta el impacto con el suelo. -->
-- [x] B) 2 segundos <!-- feedback: El valor máximo se sitúa en el vértice: $t = -20 / (2 \cdot -5) = 2$. -->
-- [ ] C) 20 segundos <!-- feedback: Confundiste el coeficiente del término lineal con el tiempo de altura máxima. -->
-- [ ] D) 1 segundo <!-- feedback: Cometiste un error de cálculo al aplicar la fórmula de la coordenada del vértice. -->
+- [x] D) 2 segundos <!-- feedback: El valor máximo se sitúa en el vértice: $t = -20 / (2 \cdot -5) = 2$. -->
+- [ ] B) 20 segundos <!-- feedback: Confundiste el coeficiente del término lineal con el tiempo de altura máxima. -->
+- [ ] C) 1 segundo <!-- feedback: Cometiste un error de cálculo al aplicar la fórmula de la coordenada del vértice. -->
 
 ### Explicacion Pedagogica
 La altura máxima se alcanza en el tiempo correspondiente a la coordenada $x$ del vértice. Usamos $t = -b / (2a)$ con $a = -5$ y $b = 20$: $t = -20 / (2 \cdot -5) = 2$ segundos.
@@ -201,8 +201,8 @@ Sustituimos $x=4$ en la función: $A(4) = (4+3)^2$. Primero resolvemos el parén
 Si comparamos $f(x) = x^2$ con $g(x) = x^2 + 5$, ¿qué cambio se observa en la gráfica de $g(x)$?
 
 ### Opciones
-- [ ] A) La curva se desplaza 5 unidades hacia la derecha. <!-- feedback: El desplazamiento horizontal ocurre dentro del término cuadrático. -->
-- [x] B) La curva se desplaza 5 unidades hacia arriba. <!-- feedback: Sumar una constante externa desplaza la gráfica verticalmente en el plano. -->
+- [ ] B) La curva se desplaza 5 unidades hacia la derecha. <!-- feedback: El desplazamiento horizontal ocurre dentro del término cuadrático. -->
+- [x] A) La curva se desplaza 5 unidades hacia arriba. <!-- feedback: Sumar una constante externa desplaza la gráfica verticalmente en el plano. -->
 - [ ] C) La parábola se vuelve más angosta o estirada. <!-- feedback: El factor de estrechez depende únicamente del coeficiente cuadrático $a$. -->
 - [ ] D) Se modifica la concavidad de la función. <!-- feedback: La concavidad está determinada por el signo del coeficiente $a$, que se mantiene. -->
 
@@ -221,9 +221,9 @@ Sumar una constante $c$ a una función $f(x)$ produce una traslación vertical d
 
 ### Opciones
 - [ ] A) Dominio: $\mathbb{R}$; Recorrido: $\mathbb{R}$ <!-- feedback: El recorrido de una función cuadrática siempre se encuentra acotado por su vértice. -->
-- [x] B) Dominio: $\mathbb{R}$; Recorrido: $[-4, \infty)$ <!-- feedback: El dominio es el conjunto de todos los reales y el recorrido está limitado por el valor de $y$ del vértice. -->
-- [ ] C) Dominio: $[2, \infty)$; Recorrido: $[-4, \infty)$ <!-- feedback: La función cuadrática se encuentra definida para cualquier valor de la variable $x$. -->
-- [ ] D) Dominio: $\mathbb{R}$; Recorrido: $(-\infty, -4]$ <!-- feedback: Esta limitación de recorrido sucedería si la parábola se orientara hacia abajo. -->
+- [x] D) Dominio: $\mathbb{R}$; Recorrido: $[-4, \infty)$ <!-- feedback: El dominio es el conjunto de todos los reales y el recorrido está limitado por el valor de $y$ del vértice. -->
+- [ ] B) Dominio: $[2, \infty)$; Recorrido: $[-4, \infty)$ <!-- feedback: La función cuadrática se encuentra definida para cualquier valor de la variable $x$. -->
+- [ ] C) Dominio: $\mathbb{R}$; Recorrido: $(-\infty, -4]$ <!-- feedback: Esta limitación de recorrido sucedería si la parábola se orientara hacia abajo. -->
 
 ### Explicacion Pedagogica
 En una función cuadrática, el dominio son todos los reales ($\mathbb{R}$). El recorrido depende de la ordenada del vértice ($y_v$) y la concavidad. Como $y_v = -4$ y abre hacia arriba, los valores de $y$ van desde -4 inclusive hasta el infinito positivo.
@@ -240,8 +240,8 @@ En una función cuadrática, el dominio son todos los reales ($\mathbb{R}$). El 
 
 ### Opciones
 - [ ] A) $x = -2$ <!-- feedback: Cometiste un error en la aplicación de los signos de la fórmula del eje. -->
-- [x] B) $x = 2$ <!-- feedback: Aplicando la fórmula: $x = -8 / (2 \cdot -2) = -8 / -4 = 2$. -->
-- [ ] C) $y = 7$ <!-- feedback: El eje de simetría es una recta vertical con una ecuación del tipo $x = k$. -->
+- [x] C) $x = 2$ <!-- feedback: Aplicando la fórmula: $x = -8 / (2 \cdot -2) = -8 / -4 = 2$. -->
+- [ ] B) $y = 7$ <!-- feedback: El eje de simetría es una recta vertical con una ecuación del tipo $x = k$. -->
 - [ ] D) $x = 4$ <!-- feedback: Olvidaste multiplicar el coeficiente cuadrático por el factor 2 en el denominador. -->
 
 ### Explicacion Pedagogica
@@ -259,9 +259,9 @@ El eje de simetría es la recta vertical que pasa por el vértice de la parábol
 
 ### Opciones
 - [ ] A) 100 artículos <!-- feedback: Ese número representa el valor de $b$, no el resultado de la coordenada del vértice. -->
-- [x] B) 50 artículos <!-- feedback: El máximo ocurre en $x = -100 / (2 \cdot -1) = 50$. -->
-- [ ] C) 1.000 artículos <!-- feedback: Este valor corresponde al término independiente de la función de utilidad. -->
-- [ ] D) 25 artículos <!-- feedback: Cometiste un error aritmético durante el cálculo de la posición del máximo. -->
+- [x] D) 50 artículos <!-- feedback: El máximo ocurre en $x = -100 / (2 \cdot -1) = 50$. -->
+- [ ] B) 1.000 artículos <!-- feedback: Este valor corresponde al término independiente de la función de utilidad. -->
+- [ ] C) 25 artículos <!-- feedback: Cometiste un error aritmético durante el cálculo de la posición del máximo. -->
 
 ### Explicacion Pedagogica
 Como la función es una parábola que abre hacia abajo ($a = -1$), su valor máximo se encuentra en el vértice. Calculamos $x_v = -b / (2a) = -100 / (2 \cdot -1) = -100 / -2 = 50$.
@@ -277,9 +277,9 @@ Como la función es una parábola que abre hacia abajo ($a = -1$), su valor máx
 ¿Cuál de las siguientes funciones NO tiene ceros reales (no corta al eje X)?
 
 ### Opciones
-- [ ] A) $f(x) = x^2 - 4$ <!-- feedback: Esta parábola corta al eje en los puntos $x=2$ y $x=-2$. -->
-- [ ] B) $f(x) = x^2$ <!-- feedback: Esta curva toca el eje X en el punto de origen $x=0$. -->
-- [x] C) $f(x) = x^2 + 9$ <!-- feedback: $\Delta = -36$. Al ser negativo, no posee raíces dentro del conjunto real. -->
+- [ ] B) $f(x) = x^2 - 4$ <!-- feedback: Esta parábola corta al eje en los puntos $x=2$ y $x=-2$. -->
+- [ ] C) $f(x) = x^2$ <!-- feedback: Esta curva toca el eje X en el punto de origen $x=0$. -->
+- [x] A) $f(x) = x^2 + 9$ <!-- feedback: $\Delta = -36$. Al ser negativo, no posee raíces dentro del conjunto real. -->
 - [ ] D) $f(x) = -x^2 + 1$ <!-- feedback: Esta función intersecta al eje en los puntos $x=1$ y $x=-1$. -->
 
 ### Explicacion Pedagogica
@@ -297,9 +297,9 @@ Una función cuadrática no tiene ceros reales cuando su discriminante $\Delta =
 
 ### Opciones
 - [ ] A) $f(x) = x^2$ <!-- feedback: Si el valor fuera este, la parábola pasaría por el punto $(2, 4)$. -->
-- [x] B) $f(x) = 2x^2$ <!-- feedback: Se cumple que $f(2) = 2(2^2) = 2 \cdot 4 = 8$. Correcto. -->
-- [ ] C) $f(x) = 4x^2$ <!-- feedback: Con este coeficiente la gráfica pasaría por el punto $(2, 16)$. -->
-- [ ] D) $f(x) = x^2 + 4$ <!-- feedback: El vértice de esta función se encontraría desplazado al punto $(0, 4)$. -->
+- [x] D) $f(x) = 2x^2$ <!-- feedback: Se cumple que $f(2) = 2(2^2) = 2 \cdot 4 = 8$. Correcto. -->
+- [ ] B) $f(x) = 4x^2$ <!-- feedback: Con este coeficiente la gráfica pasaría por el punto $(2, 16)$. -->
+- [ ] C) $f(x) = x^2 + 4$ <!-- feedback: El vértice de esta función se encontraría desplazado al punto $(0, 4)$. -->
 
 ### Explicacion Pedagogica
 Vértice en $(0,0)$ implica la forma $f(x) = ax^2$. Usamos el punto $(2, 8)$ para hallar $a$: $8 = a \cdot (2)^2 \Rightarrow 8 = 4a \Rightarrow a = 2$. La función es $f(x) = 2x^2$.
@@ -315,8 +315,8 @@ Vértice en $(0,0)$ implica la forma $f(x) = ax^2$. Usamos el punto $(2, 8)$ par
 ¿Cuál es el ancho del arco en su base (distancia entre los puntos donde $y=0$)?
 
 ### Opciones
-- [ ] A) 2 metros <!-- feedback: Este valor numérico corresponde a la ubicación horizontal del punto máximo. -->
-- [x] B) 4 metros <!-- feedback: La curva posee ceros en $x=0$ y $x=4$, resultando en un ancho de 4 unidades. -->
+- [ ] B) 2 metros <!-- feedback: Este valor numérico corresponde a la ubicación horizontal del punto máximo. -->
+- [x] A) 4 metros <!-- feedback: La curva posee ceros en $x=0$ y $x=4$, resultando en un ancho de 4 unidades. -->
 - [ ] C) 8 metros <!-- feedback: Cometiste un error durante la resolución de la ecuación cuadrática de raíces. -->
 - [ ] D) 1 metro <!-- feedback: Realizaste un cálculo incorrecto de los interceptos con el eje de las abscisas. -->
 
@@ -334,8 +334,8 @@ Hallamos los ceros de $-0,5x^2 + 2x = 0$. Factorizando $x(-0,5x + 2) = 0$. Una s
 ¿Qué ocurre con la gráfica de $f(x) = ax^2$ si el valor de $a$ se duplica (siendo $a > 0$)?
 
 ### Opciones
-- [ ] A) La parábola realiza un desplazamiento hacia arriba. <!-- feedback: El cambio en la posición vertical depende de la constante independiente. -->
-- [x] B) La parábola se vuelve más "estrecha" o "cerrada". <!-- feedback: El aumento del coeficiente acelera el crecimiento de las ordenadas. -->
+- [ ] B) La parábola realiza un desplazamiento hacia arriba. <!-- feedback: El cambio en la posición vertical depende de la constante independiente. -->
+- [x] A) La parábola se vuelve más "estrecha" o "cerrada". <!-- feedback: El aumento del coeficiente acelera el crecimiento de las ordenadas. -->
 - [ ] C) La parábola se vuelve más "ancha" o "abierta". <!-- feedback: Este comportamiento sucedería si el valor absoluto de $a$ disminuyera. -->
 - [ ] D) El punto del vértice se desplaza hacia la derecha. <!-- feedback: El vértice se mantiene en el origen si solo cambia el coeficiente cuadrático. -->
 
@@ -392,8 +392,8 @@ Si $x_1$ y $x_2$ son las raíces de $ax^2 + bx + c = 0$, ¿a qué es igual la su
 
 ### Opciones
 - [ ] A) $c/a$ <!-- feedback: Esta razón corresponde al producto de las raíces del polinomio cuadrático. -->
-- [x] B) $-b/a$ <!-- feedback: Correcto, esta relación de coeficientes define la suma de las soluciones reales. -->
-- [ ] C) $b/a$ <!-- feedback: Omitiste el signo negativo que forma parte de la relación de Vieta. -->
+- [x] C) $-b/a$ <!-- feedback: Correcto, esta relación de coeficientes define la suma de las soluciones reales. -->
+- [ ] B) $b/a$ <!-- feedback: Omitiste el signo negativo que forma parte de la relación de Vieta. -->
 - [ ] D) $\sqrt{\Delta} / 2a$ <!-- feedback: Este término representa solo una fracción de la fórmula cuadrática completa. -->
 
 ### Explicacion Pedagogica

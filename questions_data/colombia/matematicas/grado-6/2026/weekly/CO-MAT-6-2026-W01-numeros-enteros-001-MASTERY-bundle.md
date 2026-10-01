@@ -52,13 +52,13 @@ Partiendo de $-3$ e incrementando $8$ unidades: $-3 + 8 = 5^\circ\text{C}$.
 ### Enunciado
 ¿Cuál es su saldo final?
 ### Opciones
-- [x] A) $5.000$ pesos a favor
+- [x] D) $5.000$ pesos a favor
   <!-- feedback: Correcto. $-15.000 + 20.000 = +5.000$ pesos. -->
-- [ ] B) $35.000$ pesos a favor
+- [ ] A) $35.000$ pesos a favor
   <!-- feedback: Incorrecto. Sumaste ambas cantidades sin considerar la deuda. -->
-- [ ] C) $5.000$ pesos en contra
+- [ ] B) $5.000$ pesos en contra
   <!-- feedback: Incorrecto. El abono supera la deuda, por lo que el saldo es positivo. -->
-- [ ] D) $10.000$ pesos a favor
+- [ ] C) $10.000$ pesos a favor
   <!-- feedback: Incorrecto. Error en la resta de las cantidades. -->
 ### Explicacion Pedagogica
 Deuda de $-15.000$ más abono de $+20.000$ da $+5.000$ pesos.
@@ -72,13 +72,13 @@ Deuda de $-15.000$ más abono de $+20.000$ da $+5.000$ pesos.
 ### Enunciado
 ¿A qué profundidad se halla el buzo?
 ### Opciones
-- [x] A) $-19$ metros
+- [x] D) $-19$ metros
   <!-- feedback: Correcto. $-12 - 7 = -19$ metros. -->
-- [ ] B) $-5$ metros
+- [ ] A) $-5$ metros
   <!-- feedback: Incorrecto. Restaste los valores como si hubiera ascendido. -->
-- [ ] C) $19$ metros
+- [ ] B) $19$ metros
   <!-- feedback: Incorrecto. La profundidad por debajo del nivel del mar se expresa con signo negativo. -->
-- [ ] D) $-84$ metros
+- [ ] C) $-84$ metros
   <!-- feedback: Incorrecto. Multiplicaste las profundidades. -->
 ### Explicacion Pedagogica
 Al descender $7$ metros desde $-12$, sumamos profundidades negativas: $-12 - 7 = -19$ metros.
@@ -92,9 +92,9 @@ Al descender $7$ metros desde $-12$, sumamos profundidades negativas: $-12 - 7 =
 ### Enunciado
 ¿Cuál fue la variación exacta de la temperatura en el congelador?
 ### Opciones
-- [x] A) Disminuyó $14^\circ\text{C}$
+- [x] B) Disminuyó $14^\circ\text{C}$
   <!-- feedback: Correcto. $-18 - (-4) = -14^\circ\text{C}$. -->
-- [ ] B) Aumentó $14^\circ\text{C}$
+- [ ] A) Aumentó $14^\circ\text{C}$
   <!-- feedback: Incorrecto. La temperatura bajó, no subió. -->
 - [ ] C) Disminuyó $22^\circ\text{C}$
   <!-- feedback: Incorrecto. Sumaste los valores absolutos. -->
@@ -112,9 +112,9 @@ La variación es $T_f - T_i = -18 - (-4) = -14^\circ\text{C}$ (disminuyó $14^\c
 ### Enunciado
 ¿En qué piso se encuentra finalmente el ascensor?
 ### Opciones
-- [x] A) Piso $1$
+- [x] B) Piso $1$
   <!-- feedback: Correcto. $-2 + 6 - 3 = 1$. -->
-- [ ] B) Piso $7$
+- [ ] A) Piso $7$
   <!-- feedback: Incorrecto. Sumaste sin restar los pisos bajados. -->
 - [ ] C) Piso $-1$
   <!-- feedback: Incorrecto. Consideraste la subida como resta. -->
@@ -132,11 +132,11 @@ $-2 + 6 = 4$, y $4 - 3 = 1$. Finaliza en el piso $1$.
 ### Enunciado
 ¿Cuál es el resultado simplificado de la expresión?
 ### Opciones
-- [x] A) $-11$
+- [x] C) $-11$
   <!-- feedback: Correcto. $(-5)\times 3 = -15$; $(-8)\div 2 = -4$; $-15 - (-4) = -11$. -->
-- [ ] B) $-19$
+- [ ] A) $-19$
   <!-- feedback: Incorrecto. Restaste 4 en vez de sumar 4 al resolver $-(-4)$. -->
-- [ ] C) $11$
+- [ ] B) $11$
   <!-- feedback: Incorrecto. Cambiaste el signo del primer producto. -->
 - [ ] D) $-7$
   <!-- feedback: Incorrecto. Evaluaste la división como -2. -->
@@ -152,9 +152,9 @@ Jerarquía de operaciones: $(-5)\times 3 = -15$, $(-8)\div 2 = -4$. Entonces $-1
 ### Enunciado
 ¿Cuál es el valor final del producto?
 ### Opciones
-- [x] A) $-120$
+- [x] B) $-120$
   <!-- feedback: Correcto. Tres factores negativos resultan en producto negativo. -->
-- [ ] B) $120$
+- [ ] A) $120$
   <!-- feedback: Incorrecto. Un número impar de factores negativos resulta en negativo. -->
 - [ ] C) $-24$
   <!-- feedback: Incorrecto. Omitiste el último factor 5. -->
@@ -172,11 +172,11 @@ Tres factores negativos dan signo negativo: $(-2)\times(-3)\times(-4)\times 5 = 
 ### Enunciado
 ¿Cuál es el saldo final de la tienda?
 ### Opciones
-- [x] A) $-10.000$ COP
+- [x] C) $-10.000$ COP
   <!-- feedback: Correcto. $-50.000 + 90.000 - 50.000 = -10.000$ COP. -->
-- [ ] B) $40.000$ COP
+- [ ] A) $40.000$ COP
   <!-- feedback: Incorrecto. Ignoraste el saldo negativo inicial. -->
-- [ ] C) $-60.000$ COP
+- [ ] B) $-60.000$ COP
   <!-- feedback: Incorrecto. Invertiste consignaciones y pagos. -->
 - [ ] D) $10.000$ COP
   <!-- feedback: Incorrecto. Error de signo en la consolidación. -->
@@ -192,11 +192,11 @@ $-50.000 + 3(30.000) - 2(25.000) = -50.000 + 90.000 - 50.000 = -10.000$ COP.
 ### Enunciado
 ¿Cuál es el resultado de la expresión?
 ### Opciones
-- [x] A) $-8$
+- [x] C) $-8$
   <!-- feedback: Correcto. $|-4 - (-6)| = |2| = 2$. $|-4 + (-6)| = |-10| = 10$. $2 - 10 = -8$. -->
-- [ ] B) $8$
+- [ ] A) $8$
   <!-- feedback: Incorrecto. Restaste en orden inverso. -->
-- [ ] C) $12$
+- [ ] B) $12$
   <!-- feedback: Incorrecto. Error en la resta de valores dentro del módulo. -->
 - [ ] D) $-12$
   <!-- feedback: Incorrecto. Evaluaste sin aplicar valor absoluto a $-10$. -->

@@ -56,9 +56,9 @@ Una ecuación lineal o de primer grado en una variable tiene la forma general $a
 Resuelva la siguiente ecuación lineal: $3x + 12 = 27$. ¿Cuál es el valor de $x$?
 
 ### Opciones
-- [x] A) $5$ <!-- feedback: ¡Correcto! $3x = 27 - 12 \implies 3x = 15 \implies x = 5$. -->
-- [ ] B) $7$ <!-- feedback: Incorrecto. Si $x = 7$, entonces $3(7) + 12 = 33 \neq 27$. -->
-- [ ] C) $3$ <!-- feedback: Incorrecto. Si $x = 3$, entonces $3(3) + 12 = 21 \neq 27$. -->
+- [x] C) $5$ <!-- feedback: ¡Correcto! $3x = 27 - 12 \implies 3x = 15 \implies x = 5$. -->
+- [ ] A) $7$ <!-- feedback: Incorrecto. Si $x = 7$, entonces $3(7) + 12 = 33 \neq 27$. -->
+- [ ] B) $3$ <!-- feedback: Incorrecto. Si $x = 3$, entonces $3(3) + 12 = 21 \neq 27$. -->
 - [ ] D) $9$ <!-- feedback: Incorrecto. Revisa el procedimiento de despeje aritmético. -->
 
 ### Explicacion Pedagogica
@@ -98,9 +98,9 @@ Planteamos la ecuación: $5.000x + 25000 = 40000$. Restamos 25000: $5.000x = 15.
 En Encarnación. Liz administra un negocio de artesanías. Sus costos semanales están modelados por la ecuación de costo lineal $C(x) = 5.000x + 30.000$. Si una semana el costo total fue de ₲ 45.000. ¿cuántas piezas ($x$) se produjeron?
 
 ### Opciones
-- [x] A) 3 piezas <!-- feedback: ¡Correcto! $C(x) - costo\_fijo = 15.000 \implies 5.000x = 15.000 \implies x = 3$. -->
-- [ ] B) 5 piezas <!-- feedback: Incorrecto. Revisa la resta de los costos fijos y la división por 5.000. -->
-- [ ] C) 2 piezas <!-- feedback: Incorrecto. El costo resultante de producir 2 piezas no coincide. -->
+- [x] C) 3 piezas <!-- feedback: ¡Correcto! $C(x) - costo\_fijo = 15.000 \implies 5.000x = 15.000 \implies x = 3$. -->
+- [ ] A) 5 piezas <!-- feedback: Incorrecto. Revisa la resta de los costos fijos y la división por 5.000. -->
+- [ ] B) 2 piezas <!-- feedback: Incorrecto. El costo resultante de producir 2 piezas no coincide. -->
 - [ ] D) 4 piezas <!-- feedback: Incorrecto. Con 4 piezas el costo semanal sería superior. -->
 
 ### Explicacion Pedagogica
@@ -119,8 +119,8 @@ Planteamos la ecuación: $5.000x + 30000 = 45000$. Restamos 30000: $5.000x = 15.
 En Ciudad del Este. Gladys administra un negocio de artesanías. Sus costos semanales están modelados por la ecuación de costo lineal $C(x) = 5.000x + 35.000$. Si una semana el costo total fue de ₲ 50.000. ¿cuántas piezas ($x$) se produjeron?
 
 ### Opciones
-- [x] A) 3 piezas <!-- feedback: ¡Correcto! $C(x) - costo\_fijo = 15.000 \implies 5.000x = 15.000 \implies x = 3$. -->
-- [ ] B) 5 piezas <!-- feedback: Incorrecto. Revisa la resta de los costos fijos y la división por 5.000. -->
+- [x] B) 3 piezas <!-- feedback: ¡Correcto! $C(x) - costo\_fijo = 15.000 \implies 5.000x = 15.000 \implies x = 3$. -->
+- [ ] A) 5 piezas <!-- feedback: Incorrecto. Revisa la resta de los costos fijos y la división por 5.000. -->
 - [ ] C) 2 piezas <!-- feedback: Incorrecto. El costo resultante de producir 2 piezas no coincide. -->
 - [ ] D) 4 piezas <!-- feedback: Incorrecto. Con 4 piezas el costo semanal sería superior. -->
 
@@ -140,10 +140,10 @@ Planteamos la ecuación: $5.000x + 35000 = 50000$. Restamos 35000: $5.000x = 15.
 En Caacupé. Diego administra un negocio de artesanías. Sus costos semanales están modelados por la ecuación de costo lineal $C(x) = 5.000x + 40.000$. Si una semana el costo total fue de ₲ 55.000. ¿cuántas piezas ($x$) se produjeron?
 
 ### Opciones
-- [x] A) 3 piezas <!-- feedback: ¡Correcto! $C(x) - costo\_fijo = 15.000 \implies 5.000x = 15.000 \implies x = 3$. -->
-- [ ] B) 5 piezas <!-- feedback: Incorrecto. Revisa la resta de los costos fijos y la división por 5.000. -->
-- [ ] C) 2 piezas <!-- feedback: Incorrecto. El costo resultante de producir 2 piezas no coincide. -->
-- [ ] D) 4 piezas <!-- feedback: Incorrecto. Con 4 piezas el costo semanal sería superior. -->
+- [x] D) 3 piezas <!-- feedback: ¡Correcto! $C(x) - costo\_fijo = 15.000 \implies 5.000x = 15.000 \implies x = 3$. -->
+- [ ] A) 5 piezas <!-- feedback: Incorrecto. Revisa la resta de los costos fijos y la división por 5.000. -->
+- [ ] B) 2 piezas <!-- feedback: Incorrecto. El costo resultante de producir 2 piezas no coincide. -->
+- [ ] C) 4 piezas <!-- feedback: Incorrecto. Con 4 piezas el costo semanal sería superior. -->
 
 ### Explicacion Pedagogica
 Planteamos la ecuación: $5.000x + 40000 = 55000$. Restamos 40000: $5.000x = 15.000$. Dividimos por 5.000: $x = 3$ piezas.
@@ -182,10 +182,10 @@ Planteamos la ecuación: $5.000x + 45000 = 60000$. Restamos 45000: $5.000x = 15.
 En Coronel Oviedo. Gustavo administra un negocio de artesanías. Sus costos semanales están modelados por la ecuación de costo lineal $C(x) = 5.000x + 50.000$. Si una semana el costo total fue de ₲ 65.000. ¿cuántas piezas ($x$) se produjeron?
 
 ### Opciones
-- [x] A) 3 piezas <!-- feedback: ¡Correcto! $C(x) - costo\_fijo = 15.000 \implies 5.000x = 15.000 \implies x = 3$. -->
-- [ ] B) 5 piezas <!-- feedback: Incorrecto. Revisa la resta de los costos fijos y la división por 5.000. -->
-- [ ] C) 2 piezas <!-- feedback: Incorrecto. El costo resultante de producir 2 piezas no coincide. -->
-- [ ] D) 4 piezas <!-- feedback: Incorrecto. Con 4 piezas el costo semanal sería superior. -->
+- [x] D) 3 piezas <!-- feedback: ¡Correcto! $C(x) - costo\_fijo = 15.000 \implies 5.000x = 15.000 \implies x = 3$. -->
+- [ ] A) 5 piezas <!-- feedback: Incorrecto. Revisa la resta de los costos fijos y la división por 5.000. -->
+- [ ] B) 2 piezas <!-- feedback: Incorrecto. El costo resultante de producir 2 piezas no coincide. -->
+- [ ] C) 4 piezas <!-- feedback: Incorrecto. Con 4 piezas el costo semanal sería superior. -->
 
 ### Explicacion Pedagogica
 Planteamos la ecuación: $5.000x + 50000 = 65000$. Restamos 50000: $5.000x = 15.000$. Dividimos por 5.000: $x = 3$ piezas.
@@ -224,10 +224,10 @@ Planteamos la ecuación: $5.000x + 55000 = 70000$. Restamos 55000: $5.000x = 15.
 En Villarrica. Carlos administra un negocio de artesanías. Sus costos semanales están modelados por la ecuación de costo lineal $C(x) = 5.000x + 60.000$. Si una semana el costo total fue de ₲ 75.000. ¿cuántas piezas ($x$) se produjeron?
 
 ### Opciones
-- [x] A) 3 piezas <!-- feedback: ¡Correcto! $C(x) - costo\_fijo = 15.000 \implies 5.000x = 15.000 \implies x = 3$. -->
-- [ ] B) 5 piezas <!-- feedback: Incorrecto. Revisa la resta de los costos fijos y la división por 5.000. -->
-- [ ] C) 2 piezas <!-- feedback: Incorrecto. El costo resultante de producir 2 piezas no coincide. -->
-- [ ] D) 4 piezas <!-- feedback: Incorrecto. Con 4 piezas el costo semanal sería superior. -->
+- [x] D) 3 piezas <!-- feedback: ¡Correcto! $C(x) - costo\_fijo = 15.000 \implies 5.000x = 15.000 \implies x = 3$. -->
+- [ ] A) 5 piezas <!-- feedback: Incorrecto. Revisa la resta de los costos fijos y la división por 5.000. -->
+- [ ] B) 2 piezas <!-- feedback: Incorrecto. El costo resultante de producir 2 piezas no coincide. -->
+- [ ] C) 4 piezas <!-- feedback: Incorrecto. Con 4 piezas el costo semanal sería superior. -->
 
 ### Explicacion Pedagogica
 Planteamos la ecuación: $5.000x + 60000 = 75000$. Restamos 60000: $5.000x = 15.000$. Dividimos por 5.000: $x = 3$ piezas.
@@ -287,8 +287,8 @@ Planteamos la ecuación: $5.000x + 70000 = 85000$. Restamos 70000: $5.000x = 15.
 En Luque. Jorge administra un negocio de artesanías. Sus costos semanales están modelados por la ecuación de costo lineal $C(x) = 5.000x + 75.000$. Si una semana el costo total fue de ₲ 90.000. ¿cuántas piezas ($x$) se produjeron?
 
 ### Opciones
-- [x] A) 3 piezas <!-- feedback: ¡Correcto! $C(x) - costo\_fijo = 15.000 \implies 5.000x = 15.000 \implies x = 3$. -->
-- [ ] B) 5 piezas <!-- feedback: Incorrecto. Revisa la resta de los costos fijos y la división por 5.000. -->
+- [x] B) 3 piezas <!-- feedback: ¡Correcto! $C(x) - costo\_fijo = 15.000 \implies 5.000x = 15.000 \implies x = 3$. -->
+- [ ] A) 5 piezas <!-- feedback: Incorrecto. Revisa la resta de los costos fijos y la división por 5.000. -->
 - [ ] C) 2 piezas <!-- feedback: Incorrecto. El costo resultante de producir 2 piezas no coincide. -->
 - [ ] D) 4 piezas <!-- feedback: Incorrecto. Con 4 piezas el costo semanal sería superior. -->
 
@@ -308,10 +308,10 @@ Planteamos la ecuación: $5.000x + 75000 = 90000$. Restamos 75000: $5.000x = 15.
 En Encarnación. Liz administra un negocio de artesanías. Sus costos semanales están modelados por la ecuación de costo lineal $C(x) = 5.000x + 80.000$. Si una semana el costo total fue de ₲ 95.000. ¿cuántas piezas ($x$) se produjeron?
 
 ### Opciones
-- [x] A) 3 piezas <!-- feedback: ¡Correcto! $C(x) - costo\_fijo = 15.000 \implies 5.000x = 15.000 \implies x = 3$. -->
-- [ ] B) 5 piezas <!-- feedback: Incorrecto. Revisa la resta de los costos fijos y la división por 5.000. -->
-- [ ] C) 2 piezas <!-- feedback: Incorrecto. El costo resultante de producir 2 piezas no coincide. -->
-- [ ] D) 4 piezas <!-- feedback: Incorrecto. Con 4 piezas el costo semanal sería superior. -->
+- [x] D) 3 piezas <!-- feedback: ¡Correcto! $C(x) - costo\_fijo = 15.000 \implies 5.000x = 15.000 \implies x = 3$. -->
+- [ ] A) 5 piezas <!-- feedback: Incorrecto. Revisa la resta de los costos fijos y la división por 5.000. -->
+- [ ] B) 2 piezas <!-- feedback: Incorrecto. El costo resultante de producir 2 piezas no coincide. -->
+- [ ] C) 4 piezas <!-- feedback: Incorrecto. Con 4 piezas el costo semanal sería superior. -->
 
 ### Explicacion Pedagogica
 Planteamos la ecuación: $5.000x + 80000 = 95000$. Restamos 80000: $5.000x = 15.000$. Dividimos por 5.000: $x = 3$ piezas.
@@ -371,10 +371,10 @@ Planteamos la ecuación: $5.000x + 90000 = 105000$. Restamos 90000: $5.000x = 15
 En Pilar. Patricia administra un negocio de artesanías. Sus costos semanales están modelados por la ecuación de costo lineal $C(x) = 5.000x + 95.000$. Si una semana el costo total fue de ₲ 110.000. ¿cuántas piezas ($x$) se produjeron?
 
 ### Opciones
-- [x] A) 3 piezas <!-- feedback: ¡Correcto! $C(x) - costo\_fijo = 15.000 \implies 5.000x = 15.000 \implies x = 3$. -->
-- [ ] B) 5 piezas <!-- feedback: Incorrecto. Revisa la resta de los costos fijos y la división por 5.000. -->
-- [ ] C) 2 piezas <!-- feedback: Incorrecto. El costo resultante de producir 2 piezas no coincide. -->
-- [ ] D) 4 piezas <!-- feedback: Incorrecto. Con 4 piezas el costo semanal sería superior. -->
+- [x] D) 3 piezas <!-- feedback: ¡Correcto! $C(x) - costo\_fijo = 15.000 \implies 5.000x = 15.000 \implies x = 3$. -->
+- [ ] A) 5 piezas <!-- feedback: Incorrecto. Revisa la resta de los costos fijos y la división por 5.000. -->
+- [ ] B) 2 piezas <!-- feedback: Incorrecto. El costo resultante de producir 2 piezas no coincide. -->
+- [ ] C) 4 piezas <!-- feedback: Incorrecto. Con 4 piezas el costo semanal sería superior. -->
 
 ### Explicacion Pedagogica
 Planteamos la ecuación: $5.000x + 95000 = 110000$. Restamos 95000: $5.000x = 15.000$. Dividimos por 5.000: $x = 3$ piezas.
@@ -392,10 +392,10 @@ Planteamos la ecuación: $5.000x + 95000 = 110000$. Restamos 95000: $5.000x = 15
 En Coronel Oviedo. Gustavo administra un negocio de artesanías. Sus costos semanales están modelados por la ecuación de costo lineal $C(x) = 5.000x + 100.000$. Si una semana el costo total fue de ₲ 115.000. ¿cuántas piezas ($x$) se produjeron?
 
 ### Opciones
-- [x] A) 3 piezas <!-- feedback: ¡Correcto! $C(x) - costo\_fijo = 15.000 \implies 5.000x = 15.000 \implies x = 3$. -->
-- [ ] B) 5 piezas <!-- feedback: Incorrecto. Revisa la resta de los costos fijos y la división por 5.000. -->
-- [ ] C) 2 piezas <!-- feedback: Incorrecto. El costo resultante de producir 2 piezas no coincide. -->
-- [ ] D) 4 piezas <!-- feedback: Incorrecto. Con 4 piezas el costo semanal sería superior. -->
+- [x] D) 3 piezas <!-- feedback: ¡Correcto! $C(x) - costo\_fijo = 15.000 \implies 5.000x = 15.000 \implies x = 3$. -->
+- [ ] A) 5 piezas <!-- feedback: Incorrecto. Revisa la resta de los costos fijos y la división por 5.000. -->
+- [ ] B) 2 piezas <!-- feedback: Incorrecto. El costo resultante de producir 2 piezas no coincide. -->
+- [ ] C) 4 piezas <!-- feedback: Incorrecto. Con 4 piezas el costo semanal sería superior. -->
 
 ### Explicacion Pedagogica
 Planteamos la ecuación: $5.000x + 100000 = 115000$. Restamos 100000: $5.000x = 15.000$. Dividimos por 5.000: $x = 3$ piezas.
@@ -413,9 +413,9 @@ Planteamos la ecuación: $5.000x + 100000 = 115000$. Restamos 100000: $5.000x = 
 En Concepción. Natalia administra un negocio de artesanías. Sus costos semanales están modelados por la ecuación de costo lineal $C(x) = 5.000x + 105.000$. Si una semana el costo total fue de ₲ 120.000. ¿cuántas piezas ($x$) se produjeron?
 
 ### Opciones
-- [x] A) 3 piezas <!-- feedback: ¡Correcto! $C(x) - costo\_fijo = 15.000 \implies 5.000x = 15.000 \implies x = 3$. -->
-- [ ] B) 5 piezas <!-- feedback: Incorrecto. Revisa la resta de los costos fijos y la división por 5.000. -->
-- [ ] C) 2 piezas <!-- feedback: Incorrecto. El costo resultante de producir 2 piezas no coincide. -->
+- [x] C) 3 piezas <!-- feedback: ¡Correcto! $C(x) - costo\_fijo = 15.000 \implies 5.000x = 15.000 \implies x = 3$. -->
+- [ ] A) 5 piezas <!-- feedback: Incorrecto. Revisa la resta de los costos fijos y la división por 5.000. -->
+- [ ] B) 2 piezas <!-- feedback: Incorrecto. El costo resultante de producir 2 piezas no coincide. -->
 - [ ] D) 4 piezas <!-- feedback: Incorrecto. Con 4 piezas el costo semanal sería superior. -->
 
 ### Explicacion Pedagogica
@@ -434,10 +434,10 @@ Planteamos la ecuación: $5.000x + 105000 = 120000$. Restamos 105000: $5.000x = 
 En Villarrica. Carlos administra un negocio de artesanías. Sus costos semanales están modelados por la ecuación de costo lineal $C(x) = 5.000x + 110.000$. Si una semana el costo total fue de ₲ 125.000. ¿cuántas piezas ($x$) se produjeron?
 
 ### Opciones
-- [x] A) 3 piezas <!-- feedback: ¡Correcto! $C(x) - costo\_fijo = 15.000 \implies 5.000x = 15.000 \implies x = 3$. -->
-- [ ] B) 5 piezas <!-- feedback: Incorrecto. Revisa la resta de los costos fijos y la división por 5.000. -->
-- [ ] C) 2 piezas <!-- feedback: Incorrecto. El costo resultante de producir 2 piezas no coincide. -->
-- [ ] D) 4 piezas <!-- feedback: Incorrecto. Con 4 piezas el costo semanal sería superior. -->
+- [x] D) 3 piezas <!-- feedback: ¡Correcto! $C(x) - costo\_fijo = 15.000 \implies 5.000x = 15.000 \implies x = 3$. -->
+- [ ] A) 5 piezas <!-- feedback: Incorrecto. Revisa la resta de los costos fijos y la división por 5.000. -->
+- [ ] B) 2 piezas <!-- feedback: Incorrecto. El costo resultante de producir 2 piezas no coincide. -->
+- [ ] C) 4 piezas <!-- feedback: Incorrecto. Con 4 piezas el costo semanal sería superior. -->
 
 ### Explicacion Pedagogica
 Planteamos la ecuación: $5.000x + 110000 = 125000$. Restamos 110000: $5.000x = 15.000$. Dividimos por 5.000: $x = 3$ piezas.

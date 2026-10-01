@@ -29,13 +29,13 @@ Este bundle trabaja patrones con figuras geométricas y secuencias, el hallazgo 
 ### Enunciado
 ¿Cuántos triángulos bordará en el siguiente paso?
 ### Opciones
-- [x] A) 10
+- [x] D) 10
   <!-- feedback: Es correcta porque la secuencia aumenta de 2 en 2: después del 8 sigue el 10. -->
-- [ ] B) 9
+- [ ] A) 9
   <!-- feedback: Error conceptual: la secuencia avanza de 2 en 2, no de 1 en 1. -->
-- [ ] C) 12
+- [ ] B) 12
   <!-- feedback: Error conceptual: se adelanta un paso y omite el número que sigue al 8. -->
-- [ ] D) 16
+- [ ] C) 16
   <!-- feedback: Error conceptual: duplica el último término en vez de sumar dos. -->
 ### Explicacion Pedagogica
 En una secuencia se observa cómo cambia cada término respecto al anterior. Aquí los triángulos aumentan de 2 en 2, por lo que después del 8 viene el 10.
@@ -48,9 +48,9 @@ En una secuencia se observa cómo cambia cada término respecto al anterior. Aqu
 ### Enunciado
 ¿Qué significa que el número de rombos aumente de 3 en 3?
 ### Opciones
-- [x] A) Que cada término se obtiene sumando 3 al término anterior
+- [x] B) Que cada término se obtiene sumando 3 al término anterior
   <!-- feedback: Es correcta porque la regla de formación indica sumar 3 para pasar de un término al siguiente. -->
-- [ ] B) Que cada término es el triple del anterior
+- [ ] A) Que cada término es el triple del anterior
   <!-- feedback: Error conceptual: multiplicar por 3 daría 3, 9, 27, que no coincide con la secuencia. -->
 - [ ] C) Que todos los términos son múltiplos de 2
   <!-- feedback: Error conceptual: los términos son múltiplos de 3, no de 2. -->
@@ -67,9 +67,9 @@ Decir que una secuencia aumenta de 3 en 3 describe su regla de formación: cada 
 ### Enunciado
 ¿Cuántas fichas tendrá el siguiente cuadrado de la secuencia?
 ### Opciones
-- [x] A) 25
+- [x] B) 25
   <!-- feedback: Es correcta porque los términos son los cuadrados de 1, 2, 3, 4 y 5: 5 × 5 = 25. -->
-- [ ] B) 20
+- [ ] A) 20
   <!-- feedback: Error conceptual: suma 4 en lugar de seguir el patrón de números cuadrados. -->
 - [ ] C) 24
   <!-- feedback: Error conceptual: no corresponde al cuadrado de 5, que es 25. -->
@@ -86,13 +86,13 @@ La secuencia 1, 4, 9, 16 corresponde a los cuadrados de 1, 2, 3 y 4. El siguient
 ### Enunciado
 ¿Cuántos lados tendrá la figura del sexto paso?
 ### Opciones
-- [x] A) 18
+- [x] D) 18
   <!-- feedback: Es correcta porque la regla es multiplicar el número de paso por 3: 6 × 3 = 18. -->
-- [ ] B) 15
+- [ ] A) 15
   <!-- feedback: Error conceptual: corresponde al quinto paso, no al sexto. -->
-- [ ] C) 21
+- [ ] B) 21
   <!-- feedback: Error conceptual: suma un paso de más y calcula el séptimo término. -->
-- [ ] D) 36
+- [ ] C) 36
   <!-- feedback: Error conceptual: duplica el valor correcto del sexto paso. -->
 ### Explicacion Pedagogica
 La secuencia 3, 6, 9, 12 aumenta de 3 en 3 y el término de cada paso es igual al número de paso multiplicado por 3. Para el sexto paso se calcula 6 × 3 = 18 lados.
@@ -105,13 +105,13 @@ La secuencia 3, 6, 9, 12 aumenta de 3 en 3 y el término de cada paso es igual a
 ### Enunciado
 ¿Cuántos cuadrados tendrá la octava fila?
 ### Opciones
-- [x] A) 15
+- [x] D) 15
   <!-- feedback: Es correcta porque la regla es 1 + 2 × (8 − 1) = 1 + 14 = 15. -->
-- [ ] B) 13
+- [ ] A) 13
   <!-- feedback: Error conceptual: calcula la séptima fila en lugar de la octava. -->
-- [ ] C) 16
+- [ ] B) 16
   <!-- feedback: Error conceptual: suma un cuadrado de más al resultado correcto. -->
-- [ ] D) 17
+- [ ] C) 17
   <!-- feedback: Error conceptual: usa la posición de la fila sin restar el primer término. -->
 ### Explicacion Pedagogica
 La secuencia 1, 3, 5, 7 aumenta de 2 en 2. El término de la fila n se obtiene con 1 + 2 × (n − 1). Para n = 8: 1 + 2 × 7 = 15 cuadrados.
@@ -124,13 +124,13 @@ La secuencia 1, 3, 5, 7 aumenta de 2 en 2. El término de la fila n se obtiene c
 ### Enunciado
 ¿Cuál es la regla de formación de la secuencia?
 ### Opciones
-- [x] A) Restar 3 a cada término para obtener el siguiente
+- [x] D) Restar 3 a cada término para obtener el siguiente
   <!-- feedback: Es correcta porque 40 − 3 = 37, 37 − 3 = 34 y 34 − 3 = 31. -->
-- [ ] B) Sumar 3 a cada término para obtener el siguiente
+- [ ] A) Sumar 3 a cada término para obtener el siguiente
   <!-- feedback: Error conceptual: la secuencia disminuye, no aumenta. -->
-- [ ] C) Multiplicar cada término por 3
+- [ ] B) Multiplicar cada término por 3
   <!-- feedback: Error conceptual: 40 × 3 sería 120, que no sigue la secuencia. -->
-- [ ] D) Dividir cada término entre 2
+- [ ] C) Dividir cada término entre 2
   <!-- feedback: Error conceptual: dividir no reproduce los términos 37, 34 y 31. -->
 ### Explicacion Pedagogica
 La secuencia 40, 37, 34, 31 es decreciente y cada término es 3 unidades menor que el anterior. Por eso la regla de formación consiste en restar 3 para pasar de un término al siguiente.
@@ -162,9 +162,9 @@ La secuencia 4, 7, 10, 13 aumenta de 3 en 3, así que el término de la posició
 ### Enunciado
 ¿Qué conclusión es correcta al comparar ambas secuencias?
 ### Opciones
-- [x] A) Las dos crecen de 2 en 2 y la diferencia entre ellas se mantiene constante
+- [x] B) Las dos crecen de 2 en 2 y la diferencia entre ellas se mantiene constante
   <!-- feedback: Es correcta porque ambas aumentan de 2 en 2 y Beto siempre lleva una cuenta más que Ana. -->
-- [ ] B) La secuencia de Ana crece más rápido que la de Beto
+- [ ] A) La secuencia de Ana crece más rápido que la de Beto
   <!-- feedback: Error conceptual: ambas crecen al mismo ritmo, de 2 en 2. -->
 - [ ] C) La secuencia de Beto crece más rápido que la de Ana
   <!-- feedback: Error conceptual: Beto empieza más alto, pero crece a la misma razón que Ana. -->
@@ -181,13 +181,13 @@ Ana parte de 3 y Beto de 4, pero ambos suman 2 en cada paso. Por eso crecen a la
 ### Enunciado
 ¿Cuál regla describe mejor la secuencia?
 ### Opciones
-- [x] A) La regla B, porque 3 × 2 = 6, 6 × 2 = 12 y 12 × 2 = 24
+- [x] D) La regla B, porque 3 × 2 = 6, 6 × 2 = 12 y 12 × 2 = 24
   <!-- feedback: Es correcta porque cada término es el doble del anterior, lo que reproduce toda la secuencia. -->
-- [ ] B) La regla A, porque 3 + 3 = 6 y 6 + 3 = 9
+- [ ] A) La regla A, porque 3 + 3 = 6 y 6 + 3 = 9
   <!-- feedback: Error conceptual: al sumar 3 se obtiene 9, que no aparece en la secuencia. -->
-- [ ] C) Las dos reglas describen igual la secuencia
+- [ ] B) Las dos reglas describen igual la secuencia
   <!-- feedback: Error conceptual: sumar 3 produce 3, 6, 9, 12, que no coincide con la secuencia. -->
-- [ ] D) Ninguna regla sirve para describir la secuencia
+- [ ] C) Ninguna regla sirve para describir la secuencia
   <!-- feedback: Error conceptual: multiplicar por 2 sí reproduce todos los términos. -->
 ### Explicacion Pedagogica
 Para validar una regla de formación se aplica a cada término y se verifica si reproduce la secuencia. Multiplicar por 2 cumple con 3, 6, 12, 24, mientras que sumar 3 daría 3, 6, 9, 12, que no es la secuencia dada.
@@ -200,11 +200,11 @@ Para validar una regla de formación se aplica a cada término y se verifica si 
 ### Enunciado
 ¿Cuál estrategia es la más adecuada para hallar el término 20?
 ### Opciones
-- [x] A) Encontrar la regla de formación y calcular 5 + 3 × (20 − 1) = 62
+- [x] C) Encontrar la regla de formación y calcular 5 + 3 × (20 − 1) = 62
   <!-- feedback: Es correcta porque el término de la posición n es 5 + 3 × (n − 1), y para n = 20 se obtiene 62. -->
-- [ ] B) Multiplicar 20 por 3 y sumar 5
+- [ ] A) Multiplicar 20 por 3 y sumar 5
   <!-- feedback: Error conceptual: así se obtiene 65, que corresponde a sumar un paso de más. -->
-- [ ] C) Duplicar el término 14 varias veces hasta llegar al 20
+- [ ] B) Duplicar el término 14 varias veces hasta llegar al 20
   <!-- feedback: Error conceptual: duplicar no respeta la regla de sumar 3 cada vez. -->
 - [ ] D) Escribir los términos uno por uno hasta el 20 y contarlos
   <!-- feedback: Error conceptual: es posible, pero no es la estrategia más eficiente ni la que usa la regla. -->

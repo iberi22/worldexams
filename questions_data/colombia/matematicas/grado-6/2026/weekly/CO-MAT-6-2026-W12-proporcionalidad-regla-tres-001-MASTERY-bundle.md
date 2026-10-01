@@ -50,13 +50,13 @@ Dos magnitudes son directamente proporcionales cuando el cociente entre sus valo
 ### Enunciado
 Si 2 cuadernos cuestan 6000 COP en una papelería de Medellín, ¿cuánto cuestan 4 cuadernos iguales al mismo precio unitario?
 ### Opciones
-- [x] A) 12000 COP
+- [x] D) 12000 COP
   <!-- feedback: Explica por qué es correcta: al duplicar la cantidad, el precio se duplica porque es proporcionalidad directa. -->
-- [ ] B) 8000 COP
+- [ ] A) 8000 COP
   <!-- feedback: Explica el error conceptual: suma solo 2000 COP en lugar de mantener la proporción doble. -->
-- [ ] C) 6000 COP
+- [ ] B) 6000 COP
   <!-- feedback: Explica el error conceptual: mantiene el precio aunque aumenta la cantidad de cuadernos. -->
-- [ ] D) 10000 COP
+- [ ] C) 10000 COP
   <!-- feedback: Explica el error conceptual: estima un valor intermedio sin aplicar el factor de proporcionalidad. -->
 ### Explicacion Pedagogica
 En una situación de proporcionalidad directa, el valor total se obtiene multiplicando por el mismo factor. Como 4 es el doble de 2, el precio es el doble de 6000 COP, es decir 12000 COP.
@@ -70,9 +70,9 @@ En una situación de proporcionalidad directa, el valor total se obtiene multipl
 ### Enunciado
 Con el mismo precio unitario, ¿cuánto cuestan 7 pandebonos?
 ### Opciones
-- [x] A) 10500 COP
+- [x] B) 10500 COP
   <!-- feedback: Explica por qué es correcta: cada pandebono cuesta 1500 COP y 7 por 1500 da 10500. -->
-- [ ] B) 9500 COP
+- [ ] A) 9500 COP
   <!-- feedback: Explica el error conceptual: resta una cantidad arbitraria en vez de multiplicar el valor unitario. -->
 - [ ] C) 13500 COP
   <!-- feedback: Explica el error conceptual: multiplica por 9 en lugar de multiplicar por 7. -->
@@ -130,13 +130,13 @@ Cuando aumenta el número de trabajadores, el tiempo disminuye, por eso es propo
 ### Enunciado
 Analiza la tabla y determina cuántos metros se necesitan para 11 uniformes, manteniendo la proporción.
 ### Opciones
-- [x] A) 27.5 metros
+- [x] D) 27.5 metros
   <!-- feedback: Explica por qué es correcta: cada uniforme usa 2.5 metros y 11 por 2.5 da 27.5. -->
-- [ ] B) 25 metros
+- [ ] A) 25 metros
   <!-- feedback: Explica el error conceptual: supone 10 metros más sin calcular el valor unitario real. -->
-- [ ] C) 30 metros
+- [ ] B) 30 metros
   <!-- feedback: Explica el error conceptual: redondea hacia arriba y duplica la tela inicial de forma incorrecta. -->
-- [ ] D) 22 metros
+- [ ] C) 22 metros
   <!-- feedback: Explica el error conceptual: usa el doble de uniformes menos uno sin ajustar la proporción. -->
 ### Explicacion Pedagogica
 El análisis parte del valor unitario: 15 dividido en 6 es 2.5 metros por uniforme. Para 11 uniformes se multiplica 11 por 2.5, lo que da 27.5 metros. Verificar la constante de proporcionalidad evita errores aditivos.
@@ -210,11 +210,11 @@ Evaluar exige comprobar la constante: 120 cajas entre 3 empleados da 40 cajas po
 ### Enunciado
 ¿Quién tiene razón y qué tipo de proporcionalidad justifica la respuesta?
 ### Opciones
-- [x] A) Ana, porque es proporcionalidad inversa y el tiempo se reduce a la mitad
+- [x] C) Ana, porque es proporcionalidad inversa y el tiempo se reduce a la mitad
   <!-- feedback: Explica por qué es correcta: más grifos reducen el tiempo, 6 dividido en 2 es 3 horas. -->
-- [ ] B) Luis, porque es proporcionalidad directa y el tiempo se duplica
+- [ ] A) Luis, porque es proporcionalidad directa y el tiempo se duplica
   <!-- feedback: Explica el error conceptual: aplica relación directa cuando más caudal reduce el tiempo. -->
-- [ ] C) Ana, porque es proporcionalidad directa y el tiempo se mantiene igual
+- [ ] B) Ana, porque es proporcionalidad directa y el tiempo se mantiene igual
   <!-- feedback: Explica el error conceptual: acierta el valor pero justifica con el tipo de relación equivocado. -->
 - [ ] D) Ninguno, porque con dos grifos el tanque se llena en 6 horas también
   <!-- feedback: Explica el error conceptual: supone que el segundo grifo no aporta caudal adicional. -->

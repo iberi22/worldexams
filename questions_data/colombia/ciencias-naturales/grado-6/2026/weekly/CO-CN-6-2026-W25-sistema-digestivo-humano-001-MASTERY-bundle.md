@@ -34,11 +34,11 @@ Este bundle de 10 preguntas recorre el recorrido de los alimentos por el sistema
 ¿Dónde comienza el proceso de digestión de los alimentos en el cuerpo humano?
 
 ### Opciones
-- [x] A) En la boca
+- [x] C) En la boca
   <!-- feedback: Correcto. La digestión inicia en la boca con la masticación y la saliva. -->
-- [ ] B) En el estómago
+- [ ] A) En el estómago
   <!-- feedback: Incorrecto. El estómago continúa el proceso, pero no lo inicia. -->
-- [ ] C) En el intestino grueso
+- [ ] B) En el intestino grueso
   <!-- feedback: Incorrecto. Allí se absorbe agua y se forman las heces, no inicia la digestión. -->
 - [ ] D) En los pulmones
   <!-- feedback: Incorrecto. Los pulmones pertenecen al sistema respiratorio. -->
@@ -57,9 +57,9 @@ La digestión comienza en la boca, donde los dientes trituran el alimento y la s
 ¿Qué función cumple la masticación en el proceso digestivo?
 
 ### Opciones
-- [x] A) Tritura el alimento en trozos más pequeños y facilita la acción de las enzimas y la deglución
+- [x] B) Tritura el alimento en trozos más pequeños y facilita la acción de las enzimas y la deglución
   <!-- feedback: Correcto. Fragmentar el alimento aumenta la superficie de contacto con las enzimas. -->
-- [ ] B) Calienta el alimento para que se cocine en la boca
+- [ ] A) Calienta el alimento para que se cocine en la boca
   <!-- feedback: Incorrecto. La boca no cocina el alimento. -->
 - [ ] C) Elimina todos los nutrientes antes de tragar
   <!-- feedback: Incorrecto. La masticación no elimina nutrientes. -->
@@ -80,11 +80,11 @@ Al masticar, los dientes reducen el alimento en partículas menores y aumentan s
 ¿Qué deben esperar al comparar el pan en agua con el pan en saliva diluida?
 
 ### Opciones
-- [x] A) Que el pan en saliva se descomponga más porque la amilasa salival transforma el almidón en azúcares más simples
+- [x] C) Que el pan en saliva se descomponga más porque la amilasa salival transforma el almidón en azúcares más simples
   <!-- feedback: Correcto. La saliva contiene enzimas que actúan sobre el almidón. -->
-- [ ] B) Que el pan en agua se descomponga más porque el agua es más pura
+- [ ] A) Que el pan en agua se descomponga más porque el agua es más pura
   <!-- feedback: Incorrecto. El agua sola no contiene enzimas digestivas. -->
-- [ ] C) Que ambos se descompongan exactamente igual porque son el mismo pan
+- [ ] B) Que ambos se descompongan exactamente igual porque son el mismo pan
   <!-- feedback: Incorrecto. La presencia de saliva marca la diferencia. -->
 - [ ] D) Que el pan no cambie en ninguno de los dos tubos
   <!-- feedback: Incorrecto. La saliva sí modifica el almidón del pan. -->
@@ -103,11 +103,11 @@ La saliva contiene amilasa, una enzima que descompone el almidón en azúcares s
 ¿Qué estructura conecta la boca con el estómago y cómo impulsa el alimento?
 
 ### Opciones
-- [x] A) El esófago, que empuja el bolo alimenticio mediante movimientos musculares llamados movimientos peristálticos
+- [x] C) El esófago, que empuja el bolo alimenticio mediante movimientos musculares llamados movimientos peristálticos
   <!-- feedback: Correcto. El peristaltismo impulsa el bolo por el esófago. -->
-- [ ] B) La tráquea, que lleva el alimento a los pulmones
+- [ ] A) La tráquea, que lleva el alimento a los pulmones
   <!-- feedback: Incorrecto. La tráquea conduce aire, no alimento. -->
-- [ ] C) El intestino delgado, que conecta la boca con el estómago
+- [ ] B) El intestino delgado, que conecta la boca con el estómago
   <!-- feedback: Incorrecto. El intestino delgado está después del estómago. -->
 - [ ] D) Las venas, que transportan el alimento con la sangre
   <!-- feedback: Incorrecto. Las venas transportan sangre, no el bolo alimenticio. -->
@@ -126,13 +126,13 @@ El esófago es un tubo muscular que conecta la faringe con el estómago; sus par
 ¿Qué papel cumple el jugo gástrico en el estómago?
 
 ### Opciones
-- [x] A) Descompone los alimentos y reduce los microbios gracias a su acidez, formando el quimo
+- [x] D) Descompone los alimentos y reduce los microbios gracias a su acidez, formando el quimo
   <!-- feedback: Correcto. El ácido clorhídrico y las enzimas digieren y protegen. -->
-- [ ] B) Enfría los alimentos para que no quemen el intestino
+- [ ] A) Enfría los alimentos para que no quemen el intestino
   <!-- feedback: Incorrecto. El jugo gástrico no enfría; es ácido. -->
-- [ ] C) Absorbe todo el agua de los alimentos
+- [ ] B) Absorbe todo el agua de los alimentos
   <!-- feedback: Incorrecto. La mayor absorción de agua ocurre en el intestino grueso. -->
-- [ ] D) Impide que los alimentos bajen al intestino
+- [ ] C) Impide que los alimentos bajen al intestino
   <!-- feedback: Incorrecto. El estómago sí permite el paso del quimo al intestino. -->
 
 ### Explicacion Pedagogica
@@ -149,9 +149,9 @@ El jugo gástrico contiene ácido clorhídrico y enzimas como la pepsina; su aci
 ¿Qué análisis explica por qué el intestino delgado es tan largo y con pliegues llamados vellosidades?
 
 ### Opciones
-- [x] A) Su gran longitud y sus vellosidades aumentan la superficie de absorción para que los nutrientes pasen a la sangre
+- [x] B) Su gran longitud y sus vellosidades aumentan la superficie de absorción para que los nutrientes pasen a la sangre
   <!-- feedback: Correcto. Más superficie significa más absorción de nutrientes. -->
-- [ ] B) Es largo porque almacena los desechos durante muchos días
+- [ ] A) Es largo porque almacena los desechos durante muchos días
   <!-- feedback: Incorrecto. El intestino grueso es el que almacena y forma las heces. -->
 - [ ] C) Su longitud sirve para que el alimento permanezca frío
   <!-- feedback: Incorrecto. La temperatura no determina su longitud. -->
@@ -172,13 +172,13 @@ El intestino delgado es el órgano principal de la absorción: su longitud y las
 ¿Qué análisis describe la función del hígado y el páncreas en la digestión?
 
 ### Opciones
-- [x] A) El hígado produce bilis que ayuda a digerir las grasas y el páncreas produce enzimas que descomponen grasas, proteínas y carbohidratos
+- [x] D) El hígado produce bilis que ayuda a digerir las grasas y el páncreas produce enzimas que descomponen grasas, proteínas y carbohidratos
   <!-- feedback: Correcto. Sus secreciones vierten al intestino delgado y completan la digestión. -->
-- [ ] B) Ambos producen sangre nueva para el sistema digestivo
+- [ ] A) Ambos producen sangre nueva para el sistema digestivo
   <!-- feedback: Incorrecto. No producen sangre; vierten jugos digestivos. -->
-- [ ] C) Ambos filtran el aire que respiramos al comer
+- [ ] B) Ambos filtran el aire que respiramos al comer
   <!-- feedback: Incorrecto. Eso no corresponde a su función digestiva. -->
-- [ ] D) Ninguno participa en la digestión de los alimentos
+- [ ] C) Ninguno participa en la digestión de los alimentos
   <!-- feedback: Incorrecto. Aunque no son parte del tubo, sí aportan jugos esenciales. -->
 
 ### Explicacion Pedagogica
@@ -195,13 +195,13 @@ El hígado y el páncreas son glándulas anexas: el hígado produce la bilis que
 ¿Qué análisis explica la relación entre el consumo de agua y la formación de las heces?
 
 ### Opciones
-- [x] A) El intestino grueso absorbe agua de los restos; si falta agua, absorbe más y las heces quedan secas y duras
+- [x] D) El intestino grueso absorbe agua de los restos; si falta agua, absorbe más y las heces quedan secas y duras
   <!-- feedback: Correcto. La absorción de agua en el colon endurece las heces. -->
-- [ ] B) El agua se convierte directamente en heces en el estómago
+- [ ] A) El agua se convierte directamente en heces en el estómago
   <!-- feedback: Incorrecto. Las heces se forman en el intestino grueso a partir de restos no digeridos. -->
-- [ ] C) Beber poca agua produce más vitaminas en el colon
+- [ ] B) Beber poca agua produce más vitaminas en el colon
   <!-- feedback: Incorrecto. La cantidad de agua no produce vitaminas. -->
-- [ ] D) El intestino delgado deja de absorber nutrientes si falta agua
+- [ ] C) El intestino delgado deja de absorber nutrientes si falta agua
   <!-- feedback: Incorrecto. El problema descrito se relaciona con el intestino grueso, no con la absorción de nutrientes. -->
 
 ### Explicacion Pedagogica

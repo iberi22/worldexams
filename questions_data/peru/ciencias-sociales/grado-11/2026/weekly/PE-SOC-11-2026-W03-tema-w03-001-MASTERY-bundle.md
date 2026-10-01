@@ -30,11 +30,11 @@ creador: "Jules-Agent"
 El acuerdo firmado en 1529 entre Francisco Pizarro y la Corona Española que autorizó la conquista del Perú se conoce como:
 
 ### Opciones
-- [x] A) Capitulaciones de Toledo
+- [x] C) Capitulaciones de Toledo
   <!-- feedback: Correcto. La Capitulación de Toledo concedió a Pizarro los títulos de Gobernador y Capitán General de Nueva Castilla. -->
-- [ ] B) Tratado de Tordesillas
+- [ ] A) Tratado de Tordesillas
   <!-- feedback: Incorrecto. El Tratado de Tordesillas de 1494 dividió las zonas de navegación entre España y Portugal. -->
-- [ ] C) Capitulación de Santa Fe
+- [ ] B) Capitulación de Santa Fe
   <!-- feedback: Incorrecto. La Capitulación de Santa Fe de 1492 autorizó los viajes de Cristóbal Colón. -->
 - [ ] D) Tratado de Ancón
   <!-- feedback: Incorrecto. El Tratado de Ancón de 1883 puso fin a la Guerra del Pacífico entre Perú y Chile. -->
@@ -55,9 +55,9 @@ La Capitulación de Toledo formalizó legalmente la empresa invasora al Perú ot
 ¿En qué ciudad andina fue capturado el Inca Atahualpa el 16 de noviembre de 1532 por las huestes de Pizarro?
 
 ### Opciones
-- [x] A) Cajamarca
+- [x] B) Cajamarca
   <!-- feedback: Correcto. La captura ocurrió en la plaza de Cajamarca tras el requerimiento formulado por el fraile Vicente de Valverde. -->
-- [ ] B) Cusco
+- [ ] A) Cusco
   <!-- feedback: Incorrecto. El Cusco fue ocupado posteriormente en 1533. -->
 - [ ] C) Jauja
   <!-- feedback: Incorrecto. Jauja fue fundada como primera capital provisional por Pizarro en 1534. -->
@@ -80,9 +80,9 @@ La emboscada de Cajamarca aprovechó la sorpresa táctica y la división incaica
 El líder inca que inició la gran rebelión de 1536 contra los españoles y cercó las ciudades del Cusco y Lima fue:
 
 ### Opciones
-- [x] A) Manco Inca
+- [x] B) Manco Inca
   <!-- feedback: Correcto. Manco Inca rompió su alianza inicial con Pizarro y emprendió la guerra de reconquista andina. -->
-- [ ] B) Sayri Túpac
+- [ ] A) Sayri Túpac
   <!-- feedback: Incorrecto. Sayri Túpac aceptó encomiendas en Yucay tras negociar con el virrey. -->
 - [ ] C) Titu Cusi Yupanqui
   <!-- feedback: Incorrecto. Titu Cusi Yupanqui escribió las Crónicas de Vilcabamba y aceptó el Tratado de Acobamba. -->
@@ -105,9 +105,9 @@ Manco Inca organizó el cerco del Cusco y envió a Titu Yupanqui a asediar la re
 Los tres socios principales de la Empresa de Levante o del Pacto de Panamá para la invasión al Perú fueron:
 
 ### Opciones
-- [x] A) Pizarro, Almagro y Luque
+- [x] B) Pizarro, Almagro y Luque
   <!-- feedback: Correcto. Francisco Pizarro (capitán), Diego de Almagro (proveedor) y Hernando de Luque (financista). -->
-- [ ] B) Pizarro, Valdivia y Cortés
+- [ ] A) Pizarro, Valdivia y Cortés
   <!-- feedback: Incorrecto. Hernán Cortés conquistó México y Pedro de Valdivia inició la conquista de Chile. -->
 - [ ] C) Almagro, Colón y Ojeda
   <!-- feedback: Incorrecto. Colón y Ojeda pertenecen a las primeras décadas de la exploración del Caribe. -->
@@ -130,13 +130,13 @@ La sociedad mercantil de Panamá contó también con el financiamiento oculto de
 El último Inca de la resistencia de Vilcabamba ejecutado en la plaza del Cusco en 1572 por orden del virrey Toledo fue:
 
 ### Opciones
-- [x] A) Túpac Amaru I
+- [x] D) Túpac Amaru I
   <!-- feedback: Correcto. Con la decapitación de Túpac Amaru I se extinguió la dinastía real incaica de Vilcabamba. -->
-- [ ] B) Manco Inca
+- [ ] A) Manco Inca
   <!-- feedback: Incorrecto. Manco Inca fue asesinado en Vilcabamba por almagristas refugiados. -->
-- [ ] C) Sayri Túpac
+- [ ] B) Sayri Túpac
   <!-- feedback: Incorrecto. Sayri Túpac falleció en el valle de Yucay tras convertirse al cristianismo. -->
-- [ ] D) Atahualpa
+- [ ] C) Atahualpa
   <!-- feedback: Incorrecto. Atahualpa fue ejecutado en Cajamarca en 1533 mediante la pena del garrote. -->
 
 ### Explicacion Pedagogica
@@ -155,13 +155,13 @@ El virrey Toledo aplastó el reducto rebelde de Vilcabamba y ordenó la ejecuci�
 El primer asiento de gobierno fundado por Francisco Pizarro en la costa norte peruana en 1532 fue:
 
 ### Opciones
-- [x] A) San Miguel de Tangarará (Piura)
+- [x] D) San Miguel de Tangarará (Piura)
   <!-- feedback: Correcto. Tangarará (en el valle del Chira, Piura) fue la primera ciudad española fundada en el Perú. -->
-- [ ] B) Trujillo
+- [ ] A) Trujillo
   <!-- feedback: Incorrecto. Trujillo fue fundada posteriormente en 1534. -->
-- [ ] C) Lima
+- [ ] B) Lima
   <!-- feedback: Incorrecto. Lima fue fundada en enero de 1535 en el valle del Rímac. -->
-- [ ] D) Arequipa
+- [ ] C) Arequipa
   <!-- feedback: Incorrecto. Arequipa fue fundada por Garci Manuel de Carbajal en 1540. -->
 
 ### Explicacion Pedagogica
@@ -180,11 +180,11 @@ San Miguel de Piura constituyó la base logística inicial de la expedición con
 La guerra civil entre los encomenderos españoles (almagristas y pizarristas) tuvo como detonante la posesión de la rica ciudad de:
 
 ### Opciones
-- [x] A) Cusco
+- [x] C) Cusco
   <!-- feedback: Correcto. Tanto Pizarro como Almagro reclamaban el Cusco dentro de sus respectivas gobernaciones (Nueva Castilla y Nueva Toledo). -->
-- [ ] B) Potosí
+- [ ] A) Potosí
   <!-- feedback: Incorrecto. Potosí cobró relevancia minera a partir del descubrimiento del cerro rico en 1545. -->
-- [ ] C) Lima
+- [ ] B) Lima
   <!-- feedback: Incorrecto. Lima era la sede administrativa fundada por Pizarro sin disputa con Almagro. -->
 - [ ] D) Quito
   <!-- feedback: Incorrecto. Quito fue disputada entre Pedro de Alvarado y los socios de la conquista en 1534. -->
@@ -205,11 +205,11 @@ La ambigüedad en los límites geográficos de las gobernaciones concedidas por 
 El movimiento religioso y mesiánico andino surgido en Huamanga (1564) que predicaba el retorno de las huacas y el rechazo al cristianismo fue:
 
 ### Opciones
-- [x] A) Taki Onqoy
+- [x] C) Taki Onqoy
   <!-- feedback: Correcto. El Taki Onqoy ('enfermedad del canto') fue liderado por Juan Chocne promoviendo la alianza de las huacas andinas. -->
-- [ ] B) Inkarri
+- [ ] A) Inkarri
   <!-- feedback: Incorrecto. El mito de Inkarri surgió tras la decapitación del Inca simbolizando la reconstitución del cuerpo del rey. -->
-- [ ] C) Yanahuara
+- [ ] B) Yanahuara
   <!-- feedback: Incorrecto. Yanahuara es un distrito tradicional de Arequipa. -->
 - [ ] D) Huaca Prieta
   <!-- feedback: Incorrecto. Huaca Prieta es un sitio arqueológico precerámico. -->
@@ -230,9 +230,9 @@ El Taki Onqoy expresaba la resistencia ideológico-religiosa de las etnias andin
 La Batalla de Las Salinas (1538) se libró cerca del Cusco entre las fuerzas de:
 
 ### Opciones
-- [x] A) Hernando Pizarro y Diego de Almagro 'el Viejo'
+- [x] B) Hernando Pizarro y Diego de Almagro 'el Viejo'
   <!-- feedback: Correcto. Las fuerzas de Pizarro derrotaron a Almagro, quien fue apresado y posteriormente ejecutado. -->
-- [ ] B) Gonzalo Pizarro y Blasco Núñez Vela
+- [ ] A) Gonzalo Pizarro y Blasco Núñez Vela
   <!-- feedback: Incorrecto. Gonzalo Pizarro enfrentó al virrey en la batalla de Añaquito (1546). -->
 - [ ] C) Pedro de la Gasca y Gonzalo Pizarro
   <!-- feedback: Incorrecto. La Gasca derrotó a Gonzalo Pizarro en Jaquijahuana (1548). -->
@@ -305,13 +305,13 @@ Las Leyes Nuevas desataron la rebelión de los encomenderos encabezada por Gonza
 El legendario general incaico que organizó la resistencia militar en el norte (Quito) contra Pizarro fue:
 
 ### Opciones
-- [x] A) Rumiñahui
+- [x] D) Rumiñahui
   <!-- feedback: Correcto. Rumiñahui combatió heroicamente destruyendo instalaciones en Quito para evitar su saqueo. -->
-- [ ] B) Calcuchímac
+- [ ] A) Calcuchímac
   <!-- feedback: Incorrecto. Calcuchímac fue capturado en la sierra central y quemado vivo por los españoles. -->
-- [ ] C) Quizquiz
+- [ ] B) Quizquiz
   <!-- feedback: Incorrecto. Quizquiz enfrentó a los españoles en la marcha hacia el Cusco. -->
-- [ ] D) Cahuide
+- [ ] C) Cahuide
   <!-- feedback: Incorrecto. Cahuide es el héroe indígena que se arrojó de la torre de Sacsayhuamán. -->
 
 ### Explicacion Pedagogica
@@ -330,13 +330,13 @@ Rumiñahui encabezó una encarnizada resistencia en el norte hasta su captura po
 El requerimiento leído por los españoles a las autoridades nativas antes de iniciar el combate exigía:
 
 ### Opciones
-- [x] A) Aceptar la autoridad del Rey de España y la fe católica bajo amenaza de guerra
+- [x] D) Aceptar la autoridad del Rey de España y la fe católica bajo amenaza de guerra
   <!-- feedback: Correcto. El Requerimiento era un documento jurídico-teológico formulado por la monarquía hispana. -->
-- [ ] B) Pagar una renta en monedas de oro a los capitanes invasores
+- [ ] A) Pagar una renta en monedas de oro a los capitanes invasores
   <!-- feedback: Incorrecto. El oro era buscado como botín, pero el texto legal exigía la sumisión política y espiritual. -->
-- [ ] C) Firmar un tratado de libre comercio marítimo en la costa
+- [ ] B) Firmar un tratado de libre comercio marítimo en la costa
   <!-- feedback: Incorrecto. No existían tratados mercantiles bilaterales con los nativos. -->
-- [ ] D) Entregar tierras a los soldados a cambio de caballos y armas
+- [ ] C) Entregar tierras a los soldados a cambio de caballos y armas
   <!-- feedback: Incorrecto. Los indígenas eran despojados de sus señoríos tras la imposición de la encomienda. -->
 
 ### Explicacion Pedagogica
@@ -355,11 +355,11 @@ El Requerimiento justificaba ideológicamente la 'guerra justa' según la doctri
 La batalla de Añaquito (1546) en el actual Ecuador enfrentó y culminó con la muerte de:
 
 ### Opciones
-- [x] A) El virrey Blasco Núñez Vela a manos de Gonzalo Pizarro
+- [x] C) El virrey Blasco Núñez Vela a manos de Gonzalo Pizarro
   <!-- feedback: Correcto. Gonzalo Pizarro venció al virrey consolidando temporalmente su control sobre el Perú. -->
-- [ ] B) Diego de Almagro 'el Mozo' a manos de Vaca de Castro
+- [ ] A) Diego de Almagro 'el Mozo' a manos de Vaca de Castro
   <!-- feedback: Incorrecto. Almagro el Mozo fue derrotado en Chupas (1542). -->
-- [ ] C) Francisco Pizarro a manos de los de Chile
+- [ ] B) Francisco Pizarro a manos de los de Chile
   <!-- feedback: Incorrecto. Pizarro fue asesinado en su palacio de Lima en 1541. -->
 - [ ] D) Hernando Pizarro a manos de Túpac Amaru I
   <!-- feedback: Incorrecto. Hernando Pizarro regresó a España donde estuvo encarcelado en Medina del Campo. -->
@@ -380,9 +380,9 @@ Añaquito representó el punto máximo del desafío encomendero a la Corona espa
 El líder mestizo que sucedió a Manco Inca en Vilcabamba y firmó el Tratado de Acobamba en 1566 fue:
 
 ### Opciones
-- [x] A) Titu Cusi Yupanqui
+- [x] B) Titu Cusi Yupanqui
   <!-- feedback: Correcto. Titu Cusi Yupanqui permitió el ingreso de misioneros agustinos a Vilcabamba. -->
-- [ ] B) Sayri Túpac
+- [ ] A) Sayri Túpac
   <!-- feedback: Incorrecto. Sayri Túpac abandonó la lucha armada años antes a cambio de mercedes reales. -->
 - [ ] C) Túpac Amaru I
   <!-- feedback: Incorrecto. Túpac Amaru I rompió las negociaciones y retomó las armas. -->
@@ -405,11 +405,11 @@ Titu Cusi Cusi dictó una célebre memoria justificando la causa de los Incas de
 La causa principal que facilitó la rápida caída del Tahuantinsuyo frente al reducido contingente español fue:
 
 ### Opciones
-- [x] A) La guerra civil entre Huáscar y Atahualpa combinada con la alianza de etnias vasallas con los invasores
+- [x] C) La guerra civil entre Huáscar y Atahualpa combinada con la alianza de etnias vasallas con los invasores
   <!-- feedback: Correcto. La división interna y la insatisfacción de pueblos como huancas, cañaris y chachapoyas destruyeron la cohesión imperial. -->
-- [ ] B) La superioridad biológica inmunológica y pacífica de los pobladores andinos
+- [ ] A) La superioridad biológica inmunológica y pacífica de los pobladores andinos
   <!-- feedback: Incorrecto. Las epidemias mermaron a la población, pero el factor militar decisivo fue la fractura política. -->
-- [ ] C) El apoyo de la aviación y artillería moderna del siglo XIX
+- [ ] B) El apoyo de la aviación y artillería moderna del siglo XIX
   <!-- feedback: Incorrecto. Las armas de fuego eran arcabuses y culebrinas del siglo XVI. -->
 - [ ] D) La rendición voluntaria del Cusco por consejo de los sacerdotes del Sol
   <!-- feedback: Incorrecto. Los generales incaicos opusieron encarnizada resistencia en diversos frentes. -->
@@ -430,11 +430,11 @@ La historiografía actual coincide en que el factor étnico-político fue determ
 El capitán español que fundó la ciudad de Arequipa el 15 de agosto de 1540 por orden de Pizarro fue:
 
 ### Opciones
-- [x] A) Garci Manuel de Carbajal
+- [x] C) Garci Manuel de Carbajal
   <!-- feedback: Correcto. Carbajal fundó la Villa Hermosa de Nuestra Señora de la Asunción de la Valle de Arequipa. -->
-- [ ] B) Diego de Almagro
+- [ ] A) Diego de Almagro
   <!-- feedback: Incorrecto. Almagro exploró los valles del sur pero no fundó Arequipa. -->
-- [ ] C) Pedro de Valdivia
+- [ ] B) Pedro de Valdivia
   <!-- feedback: Incorrecto. Valdivia fundó Santiago de Chile en 1541. -->
 - [ ] D) Sebastián de Belalcázar
   <!-- feedback: Incorrecto. Belalcázar fundó San Francisco de Quito y Popayán. -->
@@ -455,13 +455,13 @@ Arequipa se constituyó en un nexo estratégico entre la costa sur y las minas d
 El sacerdote dominico que denunció los abusos contra los indígenas e influyó en la promulgación de las Leyes Nuevas fue:
 
 ### Opciones
-- [x] A) Bartolomé de las Casas
+- [x] D) Bartolomé de las Casas
   <!-- feedback: Correcto. Las Casas redactó la 'Brevísima relación de la destrucción de las Indias' defendiendo la condición humana de los nativos. -->
-- [ ] B) Vicente de Valverde
+- [ ] A) Vicente de Valverde
   <!-- feedback: Incorrecto. Valverde participó en la captura de Atahualpa en Cajamarca. -->
-- [ ] C) Toribio de Mogrovejo
+- [ ] B) Toribio de Mogrovejo
   <!-- feedback: Incorrecto. Santo Toribio de Mogrovejo fue el gran arzobispo de Lima organizador de la Iglesia virreinal. -->
-- [ ] D) Hernando de Luque
+- [ ] C) Hernando de Luque
   <!-- feedback: Incorrecto. Luque fue el socio financista de la conquista. -->
 
 ### Explicacion Pedagogica
@@ -480,9 +480,9 @@ Las Casas promovió el debate teológico y jurídico en la Junta de Valladolid f
 En la Batalla de Chupas (1542) cerca de Huamanga, el gobernador Cristóbal Vaca de Castro derrotó a las fuerzas almagristas de:
 
 ### Opciones
-- [x] A) Diego de Almagro 'el Mozo'
+- [x] B) Diego de Almagro 'el Mozo'
   <!-- feedback: Correcto. Tras su derrota en Chupas, Almagro el Mozo fue juzgado y ejecutado en el Cusco. -->
-- [ ] B) Gonzalo Pizarro
+- [ ] A) Gonzalo Pizarro
   <!-- feedback: Incorrecto. Gonzalo Pizarro no participó en esta contienda. -->
 - [ ] C) Francisco Hernández Girón
   <!-- feedback: Incorrecto. Hernández Girón lideró una rebelión posterior en 1553. -->
@@ -505,13 +505,13 @@ La victoria de Vaca de Castro sofocó la primera rebelión almagrista tras el as
 La encomienda colonial otorgada a los conquistadores consistía fundamentalmente en:
 
 ### Opciones
-- [x] A) El derecho a percibir el tributo y trabajo de un grupo de indígenas a cambio de su evangelización
+- [x] D) El derecho a percibir el tributo y trabajo de un grupo de indígenas a cambio de su evangelización
   <!-- feedback: Correcto. La encomienda no otorgaba la propiedad de la tierra, sino la concesión real del tributo nativo. -->
-- [ ] B) La entrega en propiedad privada e irrevocable de grandes extensiones de latifundios
+- [ ] A) La entrega en propiedad privada e irrevocable de grandes extensiones de latifundios
   <!-- feedback: Incorrecto. Los latifundios se consolidaron posteriormente mediante la compra y composición de tierras. -->
-- [ ] C) El monopolio exclusivo del comercio transatlántico con la Casa de Contratación
+- [ ] B) El monopolio exclusivo del comercio transatlántico con la Casa de Contratación
   <!-- feedback: Incorrecto. El comercio estaba reservado a mercaderes autorizados del Consulado. -->
-- [ ] D) La exención total del pago de diezmos a la Iglesia Católica
+- [ ] C) La exención total del pago de diezmos a la Iglesia Católica
   <!-- feedback: Incorrecto. Los encomenderos debían financiar la construcción de doctrinas y el sustento de curas. -->
 
 ### Explicacion Pedagogica

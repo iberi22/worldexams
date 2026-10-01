@@ -57,9 +57,9 @@ Julio Ramón Ribeyro consolidó el realismo urbano de la Generación del 50 en e
 ¿En qué internado militar limeño real transcurre el desarrollo de la trama de *La ciudad y los perros* de Mario Vargas Llosa, donde se analiza con crudeza la violencia institucional y el autoritarismo militar de la época?
 
 ### Opciones
-- [ ] A) El Colegio Militar Mariscal Cáceres del Cusco.
+- [ ] B) El Colegio Militar Mariscal Cáceres del Cusco.
   <!-- feedback: Incorrecto. La trama transcurre en la capital peruana, no en el Cusco andino de la sierra. -->
-- [x] B) El Colegio Militar Leoncio Prado del Callao.
+- [x] A) El Colegio Militar Leoncio Prado del Callao.
   <!-- feedback: ¡Correcto! El Colegio Militar Leoncio Prado, ubicado en el Callao, es el escenario real e histórico donde Vargas Llosa cursó estudios y en el que ambientó su aclamada primera novela. -->
 - [ ] C) El Colegio Militar Ramón Castilla de Trujillo.
   <!-- feedback: Incorrecto. Este colegio militar norteño no es el escenario de la emblemática novela de Vargas Llosa de 1963. -->
@@ -82,9 +82,9 @@ El Colegio Militar Leoncio Prado del Callao es el microcosmos donde Vargas Llosa
 ¿Cuál es el valor social y crítico que Ribeyro resalta a través de esta cruda fábula urbana andina criolla?
 
 ### Opciones
-- [ ] A) El elogio del trabajo infantil informal como la única vía legítima para el éxito financiero de las familias andinas en Lima.
+- [ ] B) El elogio del trabajo infantil informal como la única vía legítima para el éxito financiero de las familias andinas en Lima.
   <!-- feedback: Incorrecto. El cuento denuncia el abuso de menores de forma atroz; no es una loa de apología de la explotación laboral infantil. -->
-- [x] B) La denuncia de la explotación de los menores marginados por parte de un capitalismo doméstico despiadado encarnado en el abuelo don Santos, quien prioriza la rentabilidad animal sobre la vida humana de sus nietos.
+- [x] A) La denuncia de la explotación de los menores marginados por parte de un capitalismo doméstico despiadado encarnado en el abuelo don Santos, quien prioriza la rentabilidad animal sobre la vida humana de sus nietos.
   <!-- feedback: ¡Correcto! La codicia de don Santos (que alimenta al cerdo a expensas de la salud física y las heridas de Efraín y Enrique en los muladares) simboliza la deshumanización de los sectores vulnerables en la Lima moderna. -->
 - [ ] C) Una recomendación de ingeniería sanitaria para optimizar la recolección de residuos orgánicos municipales en la costa.
   <!-- feedback: Incorrecto. El cuento es de corte literario dramático humanista, no es un manual técnico de ingeniería civil. -->
@@ -109,9 +109,9 @@ El Colegio Militar Leoncio Prado del Callao es el microcosmos donde Vargas Llosa
 ### Opciones
 - [ ] A) La alegría cívica por haber ganado la medalla de oro en los Juegos Olímpicos de Jauja en el siglo XX.
   <!-- feedback: Incorrecto. La pregunta denota amargura, frustración y fracaso ético-social nacional; no alegría. -->
-- [x] B) La frustración existencial, civil e intelectual de un ciudadano honesto ante la corrupción institucionalizada, el autoritarismo militar de la dictadura de Manuel Odría (el Ochenio) y el fracaso de los ideales democráticos del país.
+- [x] C) La frustración existencial, civil e intelectual de un ciudadano honesto ante la corrupción institucionalizada, el autoritarismo militar de la dictadura de Manuel Odría (el Ochenio) y el fracaso de los ideales democráticos del país.
   <!-- feedback: ¡Correcto! El diálogo de Zavalita en el bar de mala muerte "La Catedral" repasa los abusos, soplos y claudicaciones éticas que carcomieron a la sociedad peruana bajo un régimen dictatorial de facto de mediados del siglo XX. -->
-- [ ] C) Un debate científico sobre la calidad hidráulica del caudal del río Rímac durante los meses de invierno de Lima.
+- [ ] B) Un debate científico sobre la calidad hidráulica del caudal del río Rímac durante los meses de invierno de Lima.
   <!-- feedback: Incorrecto. Se trata de un debate político-moral republicano y humano, no de un peritaje técnico de ingeniería civil hídrica. -->
 - [ ] D) El deseo de la aristocracia limeña de regalar de forma gratuita todas sus riquezas agrarias a los pobres de Trujillo.
   <!-- feedback: Incorrecto. La oligarquía limeña es descrita como corrupta, cínica, arribista e indiferente ante el sufrimiento del pueblo andino. -->
@@ -136,9 +136,9 @@ Vargas Llosa utiliza *Conversación en La Catedral* como un bisturí social. Al 
   <!-- feedback: Incorrecto. Los vasos comunicantes exigen un rol sumamente activo del lector para discriminar las voces temporales. -->
 - [ ] B) Demostrar que los personajes de la novela son capaces de viajar de forma física por el tiempo y teletransportarse a Huancayo.
   <!-- feedback: Incorrecto. Es un recurso de montaje temporal discursivo y estético, no una novela de ciencia ficción de teletransportación física. -->
-- [x] C) Revelar al lector cómo sucesos aparentemente inconexos o lejanos en el tiempo y el espacio se hallan indisolublemente entrelazados por una misma lógica de corrupción, poder o herida moral de los protagonistas.
+- [x] D) Revelar al lector cómo sucesos aparentemente inconexos o lejanos en el tiempo y el espacio se hallan indisolublemente entrelazados por una misma lógica de corrupción, poder o herida moral de los protagonistas.
   <!-- feedback: ¡Correcto! Al fundir dos diálogos de épocas distintas en un solo bloque textual, la técnica permite confrontar de golpe el origen de una traición con sus trágicas consecuencias presentes de forma simultánea. -->
-- [ ] D) Facilitar la traducción mecánica e inmediata de los textos al idioma inglés de la UNI para exámenes de física aplicada.
+- [ ] C) Facilitar la traducción mecánica e inmediata de los textos al idioma inglés de la UNI para exámenes de física aplicada.
   <!-- feedback: Incorrecto. Su rica complejidad de planos temporales representa un inmenso desafío estético de traducción para cualquier idioma de la lengua. -->
 
 ### Explicación Pedagógica
@@ -156,11 +156,11 @@ La técnica de los vasos comunicantes es una de las grandes firmas de Vargas Llo
 En *Al pie del acantilado*, un padre y sus hijos son expulsados sistemáticamente de las áreas urbanas por la expansión municipal inmobiliaria, obligándolos a fundar un precario hogar sobre la arena salitrosa de un desolado barranco frente al mar de Lima, el cual terminan perdiendo tras un derrumbe fatal. ¿Cuál es el destino fatal de los "marginados ribeyrianos" que este cuento simboliza?
 
 ### Opciones
-- [ ] A) El éxito comercial inmediato; los marginados se vuelven empresarios de la minería de oro de Sandia de golpe.
+- [ ] B) El éxito comercial inmediato; los marginados se vuelven empresarios de la minería de oro de Sandia de golpe.
   <!-- feedback: Incorrecto. Su destino en el cuento de Ribeyro es la derrota y la continua diáspora por desahucios físicos. -->
-- [ ] B) La salvación milagrosa de toda la familia gracias a la intervención de una boya marina inteligente diseñada por la UNI.
+- [ ] C) La salvación milagrosa de toda la familia gracias a la intervención de una boya marina inteligente diseñada por la UNI.
   <!-- feedback: Incorrecto. No hay salvaciones mecánicas científicas de boyas; la naturaleza y el municipio derrotan al protagonista. -->
-- [x] C) El escepticismo existencial de la derrota sistemática; a pesar del esfuerzo titánico por conquistar un espacio de dignidad, el marginado urbano siempre es arrojado por el progreso oficial hacia la precariedad y la orfandad.
+- [x] A) El escepticismo existencial de la derrota sistemática; a pesar del esfuerzo titánico por conquistar un espacio de dignidad, el marginado urbano siempre es arrojado por el progreso oficial hacia la precariedad y la orfandad.
   <!-- feedback: ¡Correcto! La frustración ribeyriana se consuma: la arena del acantilado y el mar simbolizan la fragilidad extrema de un sector social andino de migrantes excluido de los fueros legales y de la vivienda cívica del Estado. -->
 - [ ] D) El regreso incondicional de los hijos a gobernar las antiguas ciudades coloniales de España en el siglo XX.
   <!-- feedback: Incorrecto. Los hijos migran o mueren en las arenas costeras peruanas; no hay retornos imperiales europeos. -->
@@ -185,9 +185,9 @@ Si un docente de comunicación desea aplicar este cuento en quinto de secundaria
   <!-- feedback: Incorrecto. Es un enfoque médico secundario anecdótico que soslaya la profunda carga moral cívica e identitaria del relato. -->
 - [ ] B) El fomento ciego de la adopción de nombres civiles ingleses en las escuelas de la sierra andina de Sandia.
   <!-- feedback: Incorrecto. Sería promover de forma errónea la propia enajenación de clase que el relato satiriza y denuncia con dolor. -->
-- [x] C) La alienación y la pérdida trágica de la autoaceptación e identidad cultural a causa del racismo estructural cívico internalizado, que empuja al oprimido a mutilar su origen para imitar de forma servil la estética del dominador.
+- [x] D) La alienación y la pérdida trágica de la autoaceptación e identidad cultural a causa del racismo estructural cívico internalizado, que empuja al oprimido a mutilar su origen para imitar de forma servil la estética del dominador.
   <!-- feedback: ¡Correcto! El calvario de Bob López (quien muere de forma absurda en el fango de Corea por una causa imperial ajena a su patria) es el retrato trágico de la despersonalización y el autodesprecio de orígenes que infunde la discriminación. -->
-- [ ] D) Las técnicas militares de excavación de trincheras andinas de tierra en la costa norte de Trujillo.
+- [ ] C) Las técnicas militares de excavación de trincheras andinas de tierra en la costa norte de Trujillo.
   <!-- feedback: Incorrecto. No guarda relación alguna con la sátira social, moral e identitaria del cuento de Ribeyro de la Generación del 50. -->
 
 ### Explicación Pedagógica
@@ -210,9 +210,9 @@ Si un alumno desea fundamentar un ensayo sobre los riesgos de las dictaduras con
   <!-- feedback: Incorrecto. Es un análisis frívolo que elude el dolor, los crímenes y la asfixia cívica que la novela de Vargas Llosa denuncia con verismo. -->
 - [ ] B) Recomendar la eliminación del voto civil democrático en los colegios nacionales para que un solo general de Jauja asuma el control militar del país.
   <!-- feedback: Incorrecto. La novela de tesis fustiga y desmitifica la tiranía absolutista del dictador; promover el totalitarismo va en contra del mensaje democrático. -->
-- [x] C) Explicar que la tiranía destruye la dignidad cívica de la nación degradando éticamente a la clase política dirigente mediante la sumisión personal, el miedo y la complicidad de silencios en crímenes de lesa humanidad.
+- [x] D) Explicar que la tiranía destruye la dignidad cívica de la nación degradando éticamente a la clase política dirigente mediante la sumisión personal, el miedo y la complicidad de silencios en crímenes de lesa humanidad.
   <!-- feedback: ¡Correcto! Vargas Llosa demuestra que la fuerza del dictador no reside solo en los fusiles físicos, sino en la demolición de la fibra ética de sus colaboradores más cercanos. -->
-- [ ] D) Proponer que las dictaduras de la costa norte de Trujillo son más frescas debido a la brisa marina del océano pacífico.
+- [ ] C) Proponer que las dictaduras de la costa norte de Trujillo son más frescas debido a la brisa marina del océano pacífico.
   <!-- feedback: Incorrecto. No es un análisis climático de brisas de playa, sino un diagnóstico político-moral de alta relevancia cívica hispanoamericana. -->
 
 ### Explicación Pedagógica
@@ -232,9 +232,9 @@ Si el estudiante adapta al radioteatro el famoso cuento de Ribeyro titulado *El 
 ### Opciones
 - [ ] A) El canto alegre y triunfante de un coro de escolares andinos en lengua latín clásico de iglesia colonial de Jauja.
   <!-- feedback: Incorrecto. Rompe de forma radical la irónica y dolorosa amargura mundana de la derrota final de don Fernando en su palacio destrozado de Lima. -->
-- [ ] B) Una sirena hidráulica continua de la UNI que informe sobre el caudal de agua del río de forma matemática exacta.
+- [ ] C) Una sirena hidráulica continua de la UNI que informe sobre el caudal de agua del río de forma matemática exacta.
   <!-- feedback: Incorrecto. Es un recurso técnico-mecánico industrial inconexo con el clímax de frustración existencial humana de la obra. -->
-- [x] C) El silencio sepulcral de los salones vacíos y lujosos llenos de restos de botellas rotas, copas de champán volcadas y colillas de cigarro, interrumpido de pronto por la marcha militar militar estridente de la radio anunciando el golpe de Estado de madrugada.
+- [x] B) El silencio sepulcral de los salones vacíos y lujosos llenos de restos de botellas rotas, copas de champán volcadas y colillas de cigarro, interrumpido de pronto por la marcha militar militar estridente de la radio anunciando el golpe de Estado de madrugada.
   <!-- feedback: ¡Correcto! El contraste acústico de los despojos de la fiesta inútil y la marcha marcial del golpe militar que anula todo el favor político de don Fernando condensa de forma magistral la ironía y frustración final de la narrativa ribeyriana. -->
 - [ ] D) Un concierto de violines clásicos alemanes importados de los salones imperiales de Viena de inicios del siglo XX.
   <!-- feedback: Incorrecto. Diluye la ironía y el sabor local criollo andino de la farsa de la política republicana de posguerra peruana que estructura el cuento. -->
@@ -256,9 +256,9 @@ Determine cuál de las opciones ilustra con precisión la diferencia en la aplic
 ### Opciones
 - [ ] A) Congrains describe la barriada de Lima como un paraíso medieval donde los colonizadores vuelan en alfombras mágicas de Jauja; en tanto que Arguedas la dibuja como un laboratorio de física cuántica de la UNI.
   <!-- feedback: Incorrecto. Son fantasías o analogías técnicas ajenas a los retratos sociales reales de la barriada y el bofedal andino. -->
-- [ ] B) Congrains ignora la migración andina por completo; mientras que Arguedas redacta un manual de contabilidad minera de Puno.
+- [ ] C) Congrains ignora la migración andina por completo; mientras que Arguedas redacta un manual de contabilidad minera de Puno.
   <!-- feedback: Incorrecto. Congrains es el pionero indiscutible de la temática de las barriadas; y la obra de Arguedas es lírico-antropológica, no contabilidad minera. -->
-- [x] C) Congrains representa la barriada con un realismo descarnado, fotográfico, hostil, áspero y marcado por la lucha de la supervivencia física del migrante andino atrapado en el laberinto urbano de cemento y lodo; en tanto que Arguedas retrata al bofedal andino como un santuario vivo, tierno, místico, lírico, sagrado y de amparo espiritual para el colono andino.
+- [x] B) Congrains representa la barriada con un realismo descarnado, fotográfico, hostil, áspero y marcado por la lucha de la supervivencia física del migrante andino atrapado en el laberinto urbano de cemento y lodo; en tanto que Arguedas retrata al bofedal andino como un santuario vivo, tierno, místico, lírico, sagrado y de amparo espiritual para el colono andino.
   <!-- feedback: ¡Correcto! Se define de forma impecable el neorrealismo áspero y directo de Congrains (el choque frío de la barriada en Lima) frente al panteísmo lírico y reparador de Arguedas en el ande. -->
 - [ ] D) Ambos autores proponen la desaparición del idioma español y la reinstauración totalitaria del idioma latín virreinal en los colegios nacionales de Piura.
   <!-- feedback: Incorrecto. Ninguno de los dos autores republicanos propone abolir el castellano para retroceder a la época medieval latina del virreinato. -->
@@ -380,11 +380,11 @@ La novela de Vargas Llosa deconstruye los mitos de la marcialidad autoritaria de
 ### Opciones
 - [ ] A) La necesidad de promover el consumo masivo de tabaco en los colegios nacionales altoandinos de Sandia para curar enfermedades de los pulmones.
   <!-- feedback: Incorrecto. El tabaco es una adicción que dañó físicamente la salud real de Ribeyro; sugerir que cura pulmones es una falsedad médica aberrante. -->
-- [x] B) La coincidencia ética de la mirada escéptica de la condición humana; la vida de Ribeyro y el destino de sus personajes comparten una misma herencia de orfandad moral, soledad urbana de posguerra y escepticismo ante los mitos del progreso burgués.
+- [x] D) La coincidencia ética de la mirada escéptica de la condición humana; la vida de Ribeyro y el destino de sus personajes comparten una misma herencia de orfandad moral, soledad urbana de posguerra y escepticismo ante los mitos del progreso burgués.
   <!-- feedback: ¡Correcto! Su diario y su ficción dialogan en un pie de igualdad existencialista: el fracaso y la frustración gris no son errores tácticos, sino el destino natural del sujeto moderno andino marginal desamparado. -->
-- [ ] C) Comprobar de forma científica que fumar cigarrillos importados de París cura la anemia infantil severa en Huancavelica.
+- [ ] B) Comprobar de forma científica que fumar cigarrillos importados de París cura la anemia infantil severa en Huancavelica.
   <!-- feedback: Incorrecto. Consumir tabaco empeora de forma catastrófica los índices de anemia y salud infantil; carece de rigor científico real. -->
-- [ ] D) El elogio de la riqueza de los banqueros de Lima de Jauja frente al desprecio por la vida de los poetas de Trujillo.
+- [ ] C) El elogio de la riqueza de los banqueros de Lima de Jauja frente al desprecio por la vida de los poetas de Trujillo.
   <!-- feedback: Incorrecto. Ribeyro fustiga de forma irónica la codicia burguesa y mima la orfandad de los "mudos" marginados de la capital. -->
 
 ### Explicación Pedagógica
@@ -431,9 +431,9 @@ Al evaluar críticamente la validez e idoneidad de la vigencia de la tesis de Ri
   <!-- feedback: Incorrecto. Poseer un celular no anula la asimetría de poder real, la pobreza y la marginación social de las barriadas informales que se denuncia con dolor. -->
 - [ ] B) Exigir que se tilden de forma diacrítica todos los mensajes de texto que se envíen por las redes sociales de la costa norte de Trujillo.
   <!-- feedback: Incorrecto. Se limita a discutir sobre fonética e incisión ortográfica, eludiendo la evaluación del conflicto ético-social de marginación de la tesis del autor. -->
-- [x] C) Mantiene una vigencia dolorosa y certera; la existencia de tecnología digital interactiva no anula el racismo institucional, la exclusión civil y de servicios básicos de las barriadas altoandinas, cuyos habitantes siguen siendo 'mudos' ante las decisiones financieras de poder de la capital oligárquica.
+- [x] D) Mantiene una vigencia dolorosa y certera; la existencia de tecnología digital interactiva no anula el racismo institucional, la exclusión civil y de servicios básicos de las barriadas altoandinas, cuyos habitantes siguen siendo 'mudos' ante las decisiones financieras de poder de la capital oligárquica.
   <!-- feedback: ¡Correcto! Ribeyro trasciende el canal de comunicación: la mudez social es un problema de representación, exclusión civil y de ejercicio real de la ciudadanía que persiste de forma dolorosa en el Perú contemporáneo. -->
-- [ ] D) Demostrar que los marginados urbanos de Lima deben ser mudos de forma obligatoria de acuerdo con las leyes civiles de la RAE de 2026.
+- [ ] C) Demostrar que los marginados urbanos de Lima deben ser mudos de forma obligatoria de acuerdo con las leyes civiles de la RAE de 2026.
   <!-- feedback: Incorrecto. No existe ninguna ley idiomática que prive de la voz física real a los ciudadanos del Perú contemporáneo; es una analogía crítica. -->
 
 ### Explicación Pedagógica
@@ -506,9 +506,9 @@ La evaluación profunda de la literatura del "Boom" exige que el alumno asocie l
 ### Opciones
 - [ ] A) El realismo de Ribeyro es un fracaso total porque sus personajes mueren en las dunas de Lima sin comprar vajillas de oro de Trujillo de forma real.
   <!-- feedback: Incorrecto. El escepticismo de Ribeyro es su mayor triunfo estético, logrando sintonizar con la fibra del desengaño existencial peruano de forma entrañable. -->
-- [ ] B) El realismo de Vargas Llosa es superior en todo porque redactó manuales de termodinámica minera de Jauja para la UNI de Lima.
+- [ ] C) El realismo de Vargas Llosa es superior en todo porque redactó manuales de termodinámica minera de Jauja para la UNI de Lima.
   <!-- feedback: Incorrecto. Sus novelas son ficciones artísticas, humanas e históricas; carece de relación con la termodinámica industrial de ingeniería. -->
-- [x] C) Ambas poéticas son dos cumbres de la literatura peruana de la posguerra: una consagra el valor de la brevedad, la ironía triste, el detalle cotidiano de orfandad y la palabra del mudo (Ribeyro); en tanto la otra edifica catedrales literarias monumentales, de asombrosa sofisticación estructural, donde se diseccionan los engranajes del poder autoritario del país (Vargas Llosa).
+- [x] B) Ambas poéticas son dos cumbres de la literatura peruana de la posguerra: una consagra el valor de la brevedad, la ironía triste, el detalle cotidiano de orfandad y la palabra del mudo (Ribeyro); en tanto la otra edifica catedrales literarias monumentales, de asombrosa sofisticación estructural, donde se diseccionan los engranajes del poder autoritario del país (Vargas Llosa).
   <!-- feedback: ¡Correcto! Reconcilia con exquisito criterio ambas aproximaciones de la prosa del siglo XX: el minimalismo irónico y humanista del cuento ribeyriano frente al monumentalismo técnico y devorador de mundos de la novela vargasllosiana. -->
 - [ ] D) Ambos autores proponen la misma estética clásica de Ricardo Palma, por lo que resulta imposible emitir un solo juicio de diferencia métrica entre sus versos.
   <!-- feedback: Incorrecto. Ribeyro y Vargas Llosa renovaron la narrativa desterrando la tradición romántica e imponiendo el neorrealismo y la experimentación de vanguardia de posguerra en el español americano de forma soberana. -->

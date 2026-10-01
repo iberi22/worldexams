@@ -80,13 +80,13 @@ Comprender el propósito comunicativo y afectivo de una carta amistosa.
 ¿Qué saludo es más apropiado para comenzar una carta amistosa?
 
 ### Opciones
-- [x] A) "Querido primo Camilo:".
+- [x] D) "Querido primo Camilo:".
   <!-- feedback: "Querido primo Camilo" es un saludo cercano y apropiado para una carta amistosa. -->
-- [ ] B) "Estimado señor proveedor:".
+- [ ] A) "Estimado señor proveedor:".
   <!-- feedback: Este saludo es formal y comercial, no amistoso. -->
-- [ ] C) "A quien pueda interesar:".
+- [ ] B) "A quien pueda interesar:".
   <!-- feedback: Es un saludo neutro de avisos, no de cartas personales. -->
-- [ ] D) "Respetados miembros del jurado:".
+- [ ] C) "Respetados miembros del jurado:".
   <!-- feedback: Este saludo es propio de discursos académicos, no de cartas amistosas. -->
 
 ### Explicacion Pedagogica
@@ -103,13 +103,13 @@ Aplicar el uso de saludos adecuados según el tono y el destinatario.
 ¿Qué despedida es más apropiada para una carta dirigida a una amiga cercana?
 
 ### Opciones
-- [x] A) "Con cariño, Laura.".
+- [x] D) "Con cariño, Laura.".
   <!-- feedback: "Con cariño, Laura" es una despedida cálida y cercana, propia de cartas amistosas. -->
-- [ ] B) "Atentamente, Laura.".
+- [ ] A) "Atentamente, Laura.".
   <!-- feedback: "Atentamente" se usa en cartas formales, no amistosas. -->
-- [ ] C) "Suyo seguro servidor, Laura.".
+- [ ] B) "Suyo seguro servidor, Laura.".
   <!-- feedback: Esta fórmula es anticuada y se usa en contextos muy formales. -->
-- [ ] D) "Sin más, Laura.".
+- [ ] C) "Sin más, Laura.".
   <!-- feedback: "Sin más" es una despedida neutra que no refleja cercanía. -->
 
 ### Explicacion Pedagogica
@@ -126,9 +126,9 @@ Aplicar despedidas afectuosas adecuadas en cartas amistosas.
 ¿Qué información debería incluir en el cuerpo de la carta para que su amigo entienda la experiencia?
 
 ### Opciones
-- [x] A) Lugar visitado, actividades realizadas, momentos divertidos y emociones sentidas.
+- [x] B) Lugar visitado, actividades realizadas, momentos divertidos y emociones sentidas.
   <!-- feedback: Estos datos permiten al lector reconstruir mentalmente la excursión. -->
-- [ ] B) Una larga lista de números y operaciones matemáticas.
+- [ ] A) Una larga lista de números y operaciones matemáticas.
   <!-- feedback: Una carta personal no es el espacio para cálculos matemáticos extensos. -->
 - [ ] C) Solo saludos formales sin contar nada de la excursión.
   <!-- feedback: El cuerpo de la carta debe desarrollar el mensaje, no quedar vacío. -->
@@ -149,9 +149,9 @@ Aplicar el contenido adecuado del cuerpo de una carta para describir una experie
 ¿Qué diferencia de tono existe entre la carta 1 y la carta 2?
 
 ### Opciones
-- [x] A) La carta 1 usa un tono cercano y afectuoso; la carta 2 usa un tono formal y distante.
+- [x] B) La carta 1 usa un tono cercano y afectuoso; la carta 2 usa un tono formal y distante.
   <!-- feedback: La carta 1 muestra cercanía emocional; la carta 2 mantiene distancia formal. -->
-- [ ] B) Las dos cartas usan exactamente el mismo tono.
+- [ ] A) Las dos cartas usan exactamente el mismo tono.
   <!-- feedback: El tono es claramente diferente entre las dos cartas. -->
 - [ ] C) La carta 1 es formal y la carta 2 es amistosa.
   <!-- feedback: Es al revés: la carta 1 es amistosa y la carta 2 es formal. -->
@@ -172,11 +172,11 @@ Comparar el tono entre cartas formales y amistosas para reconocer sus diferencia
 ¿Qué sucede si una carta amistosa omite la fecha y el lugar?
 
 ### Opciones
-- [x] A) Pierde información contextual importante para ubicar el mensaje en el tiempo y el espacio.
+- [x] C) Pierde información contextual importante para ubicar el mensaje en el tiempo y el espacio.
   <!-- feedback: La fecha y el lugar permiten saber cuándo y dónde se escribió la carta. -->
-- [ ] B) La carta mejora porque queda más corta.
+- [ ] A) La carta mejora porque queda más corta.
   <!-- feedback: La brevedad no sustituye la información contextual. -->
-- [ ] C) Se vuelve automáticamente una carta formal.
+- [ ] B) Se vuelve automáticamente una carta formal.
   <!-- feedback: El tono no cambia por omitir la fecha y el lugar. -->
 - [ ] D) No tiene ninguna consecuencia para el lector.
   <!-- feedback: Sin contexto, el lector pierde referencias importantes. -->
@@ -195,13 +195,13 @@ Analizar la importancia de la fecha y el lugar en la estructura de una carta.
 ¿Por qué escribir cartas amistosas sigue siendo una actividad valiosa en la escuela?
 
 ### Opciones
-- [x] A) Porque fortalece la escritura, la organización de ideas y los lazos afectivos con otras personas.
+- [x] D) Porque fortalece la escritura, la organización de ideas y los lazos afectivos con otras personas.
   <!-- feedback: La carta amistosa combina aprendizaje lingüístico con desarrollo emocional. -->
-- [ ] B) Porque no aporta ningún beneficio frente a los mensajes digitales.
+- [ ] A) Porque no aporta ningún beneficio frente a los mensajes digitales.
   <!-- feedback: La carta aporta beneficios distintos y complementarios a la mensajería digital. -->
-- [ ] C) Porque reemplaza completamente al uso de teléfonos y chats.
+- [ ] B) Porque reemplaza completamente al uso de teléfonos y chats.
   <!-- feedback: La carta no reemplaza las nuevas tecnologías, sino que las complementa. -->
-- [ ] D) Porque solo se utiliza en contextos formales de oficina.
+- [ ] C) Porque solo se utiliza en contextos formales de oficina.
   <!-- feedback: La carta amistosa se usa en contextos personales, no solo formales. -->
 
 ### Explicacion Pedagogica

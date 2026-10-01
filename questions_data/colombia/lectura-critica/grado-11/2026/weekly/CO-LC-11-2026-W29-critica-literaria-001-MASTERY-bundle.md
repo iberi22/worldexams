@@ -35,9 +35,9 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia y 
 ¿Qué caracteriza a la focalización interna en la estructura de un relato?
 
 ### Opciones
-- [x] A) La perspectiva del narrador está estrictamente restringida a la percepción y conciencia de un personaje determinado.
+- [x] B) La perspectiva del narrador está estrictamente restringida a la percepción y conciencia de un personaje determinado.
   <!-- feedback: Es correcta porque en la focalización interna la información narrada se filtra a través de la mente del personaje focalizador. -->
-- [ ] B) El narrador posee un conocimiento omnisciente absoluto de todos los pensamientos presentes, pasados y futuros.
+- [ ] A) El narrador posee un conocimiento omnisciente absoluto de todos los pensamientos presentes, pasados y futuros.
   <!-- feedback: Es incorrecta porque describe la focalización cero o el narrador omnisciente clásico. -->
 - [ ] C) El relato se limita a registrar únicamente la superficie exterior de los acontecimientos como si fuera una cámara de video neutra.
   <!-- feedback: Es incorrecta porque corresponde a la focalización externa u objetiva. -->
@@ -58,9 +58,9 @@ La focalización interna limita el campo de visión e interpretación a la conci
 ¿Cómo se distingue la historia de la trama en el análisis crítico de una novela?
 
 ### Opciones
-- [x] A) La historia es la reconstrucción cronológica lineal de los acontecimientos; la trama es la ordenación artística y anacrónica del relato.
+- [x] B) La historia es la reconstrucción cronológica lineal de los acontecimientos; la trama es la ordenación artística y anacrónica del relato.
   <!-- feedback: Es correcta porque los formalistas rusos separaron el material cronológico de partida (fabula) de su estructuración estética (syuzhet). -->
-- [ ] B) La historia es el libro impreso en papel y la trama es la opinión de los críticos de prensa.
+- [ ] A) La historia es el libro impreso en papel y la trama es la opinión de los críticos de prensa.
   <!-- feedback: Es incorrecta porque confunde las dimensiones estructurales del texto con los soportes físicos o la recepción. -->
 - [ ] C) La historia trata sobre guerras reales pasadas y la trama sobre aventuras de ciencia ficción.
   <!-- feedback: Es incorrecta porque la distinción atañe a la estructura narrativa de cualquier género y no a temas bélicos o fantásticos. -->
@@ -81,13 +81,13 @@ La trama organiza artísticamente los materiales de la historia mediante alterac
 ¿Cuál es el rasgo estético definitorio del realismo mágico en la literatura colombiana?
 
 ### Opciones
-- [x] A) La integración de sucesos prodigiosos o inverosímiles presentados con absoluta naturalidad dentro de la cotidianidad del relato.
+- [x] D) La integración de sucesos prodigiosos o inverosímiles presentados con absoluta naturalidad dentro de la cotidianidad del relato.
   <!-- feedback: Es correcta porque el realismo mágico no busca asombrar al lector con explicaciones sino naturalizar el mito y la maravilla. -->
-- [ ] B) La explicación científica y matemática detallada de cada uno de los milagros que ocurren en el pueblo.
+- [ ] A) La explicación científica y matemática detallada de cada uno de los milagros que ocurren en el pueblo.
   <!-- feedback: Es incorrecta porque la voz narrativa no intenta justificar los fenómenos mediante la ciencia. -->
-- [ ] C) La inclusión de tablas estadísticas sobre el comercio de banano en la Costa Caribe.
+- [ ] B) La inclusión de tablas estadísticas sobre el comercio de banano en la Costa Caribe.
   <!-- feedback: Es incorrecta porque la literatura garciamarquiana transfigura los hechos históricos en mitología narrativa. -->
-- [ ] D) El rechazo a cualquier elemento fantástico o poético en favor de un realismo documental fotográfico.
+- [ ] C) El rechazo a cualquier elemento fantástico o poético en favor de un realismo documental fotográfico.
   <!-- feedback: Es incorrecta porque contrasta precisamente con el realismo naturalista o documental rígido. -->
 
 ### Explicacion Pedagogica
@@ -127,9 +127,9 @@ La catarsis aristotélica es la purificación emotiva que experimenta el especta
 ¿Qué tesis sostiene Roland Barthes en su famoso ensayo sobre la interpretación literaria?
 
 ### Opciones
-- [x] A) El sentido de un texto no pertenece a la biografía ni a la intención del autor, sino a la construcción activa que realiza el lector.
+- [x] B) El sentido de un texto no pertenece a la biografía ni a la intención del autor, sino a la construcción activa que realiza el lector.
   <!-- feedback: Es correcta porque Barthes emancipa al texto de la tiranía biográfica del autor otorgando la soberanía hermenéutica al lector. -->
-- [ ] B) Los escritores que publiquen novelas de baja calidad deben ser juzgados y condenados por las autoridades.
+- [ ] A) Los escritores que publiquen novelas de baja calidad deben ser juzgados y condenados por las autoridades.
   <!-- feedback: Es incorrecta porque la 'muerte del autor' es una metáfora epistemológica de la lectura y no una sanción jurídica. -->
 - [ ] C) Todos los libros de la literatura universal deben ser publicados bajo el seudónimo de 'Anónimo'.
   <!-- feedback: Es incorrecta porque no exige la supresión del nombre del autor sino la descentración de su autoridad de sentido. -->
@@ -150,11 +150,11 @@ Roland Barthes desplaza el centro de la producción de significado del autor de 
 ¿Qué desencadena la caída del héroe en la tragedia clásica como Edipo Rey?
 
 ### Opciones
-- [x] A) La hamartia o falla trágica, entendida como un error de juicio o la desmesura (hubris) que lo lleva a su propio destino aciago.
+- [x] C) La hamartia o falla trágica, entendida como un error de juicio o la desmesura (hubris) que lo lleva a su propio destino aciago.
   <!-- feedback: Es correcta porque el héroe trágico no cae por maldad pura sino por un error fatal arraigado en la condición humana. -->
-- [ ] B) La falta de dinero para pagar a sus soldados durante una batalla en el desierto.
+- [ ] A) La falta de dinero para pagar a sus soldados durante una batalla en el desierto.
   <!-- feedback: Es incorrecta porque la tragedia griega se mueve en el plano ético-existencial del destino y no en el de las finanzas. -->
-- [ ] C) La mala suerte producida por romper un espejo de vidrio en el palacio real.
+- [ ] B) La mala suerte producida por romper un espejo de vidrio en el palacio real.
   <!-- feedback: Es incorrecta porque atribuye la caída a una superstición menor ajena a la estructura poética del drama. -->
 - [ ] D) La intervención de un abogado que demuestra que las leyes de la ciudad eran nulas.
   <!-- feedback: Es incorrecta porque desvirtúa el conflicto trágico sustituyendo la fuerza del Hado por un litigio burocrático. -->
@@ -173,13 +173,13 @@ La hamartia y la hubris constituyen las dinámicas internas que conducen al hér
 ¿Qué caracteriza a la técnica del flujo de conciencia en la novela moderna (ej. Virginia Woolf, James Joyce)?
 
 ### Opciones
-- [x] A) La representación ininterrumpida y caótica de los pensamientos, sensaciones y recuerdos tal como brotan en la mente del personaje.
+- [x] D) La representación ininterrumpida y caótica de los pensamientos, sensaciones y recuerdos tal como brotan en la mente del personaje.
   <!-- feedback: Es correcta porque reproduce la fluidez prerrefléxica y la libre asociación de ideas del pensamiento consciente e inconsciente. -->
-- [ ] B) La transcripción rigurosa de una entrevista de trabajo realizada por un funcionario administrativo.
+- [ ] A) La transcripción rigurosa de una entrevista de trabajo realizada por un funcionario administrativo.
   <!-- feedback: Es incorrecta porque la entrevista laboral sigue un esquema rígido de preguntas y respuestas estructuradas. -->
-- [ ] C) La enumeración alfabética de los medicamentos que se venden en una farmacia de la capital.
+- [ ] B) La enumeración alfabética de los medicamentos que se venden en una farmacia de la capital.
   <!-- feedback: Es incorrecta porque una lista léxica no representa la experiencia subjetiva del pensamiento humano. -->
-- [ ] D) La lectura en voz alta de las leyes de tránsito por parte de un agente de policía.
+- [ ] C) La lectura en voz alta de las leyes de tránsito por parte de un agente de policía.
   <!-- feedback: Es incorrecta porque describe un acto normativo funcional distante del monólogo interior lírico o subjetivo. -->
 
 ### Explicacion Pedagogica
@@ -196,13 +196,13 @@ El flujo de conciencia captura el fluir caótico y asociativo de la mente humana
 ¿De qué manera estructuró Dostoyevski a sus personajes según la crítica de Mijaíl Bajtín?
 
 ### Opciones
-- [x] A) Como sujetos libres capaces de defender sus propias visiones del mundo en igualdad de condiciones con la voz del narrador.
+- [x] D) Como sujetos libres capaces de defender sus propias visiones del mundo en igualdad de condiciones con la voz del narrador.
   <!-- feedback: Es correcta porque en la novela polifónica cada personaje encarna una postura ideológica viva y autónoma. -->
-- [ ] B) Como marionetas silenciosas que solo repiten los discursos políticos del autor del libro.
+- [ ] A) Como marionetas silenciosas que solo repiten los discursos políticos del autor del libro.
   <!-- feedback: Es incorrecta porque la polifonía implica precisamente la renuncia del autor al monopolio de la verdad en el relato. -->
-- [ ] C) Como sombras mecánicas que carecen de emociones y pensamientos propiamente humanos.
+- [ ] B) Como sombras mecánicas que carecen de emociones y pensamientos propiamente humanos.
   <!-- feedback: Es incorrecta porque los personajes dostoievskianos son famosos por su profunda densidad psicológica e ideológica. -->
-- [ ] D) Como comentaristas de noticias deportivas que leen los periódicos de la época en voz alta.
+- [ ] C) Como comentaristas de noticias deportivas que leen los periódicos de la época en voz alta.
   <!-- feedback: Es incorrecta porque reduce la complejidad ética de las grandes novelas a un ejercicio de locución periodística. -->
 
 ### Explicacion Pedagogica
@@ -219,9 +219,9 @@ La polifonía dostoyevskiana otorga independencia ideológica y existencial a la
 ¿Qué buscaba el 'efecto de distanciamiento' (Verfremdungseffekt) en el teatro brechtiano?
 
 ### Opciones
-- [x] A) Evitar que el espectador se identifique emocionalmente de forma pasiva, estimulando su juicio crítico sobre la sociedad.
+- [x] B) Evitar que el espectador se identifique emocionalmente de forma pasiva, estimulando su juicio crítico sobre la sociedad.
   <!-- feedback: Es correcta porque Brecht rompe la ilusión teatral para que el espectador reflexione políticamente sobre las causas de la injusticia. -->
-- [ ] B) Lograr que el público llore de forma descontrolada durante toda la función teatral.
+- [ ] A) Lograr que el público llore de forma descontrolada durante toda la función teatral.
   <!-- feedback: Es incorrecta porque Brecht combatía el catarsis emotiva pasiva en favor de la toma de conciencia crítica del público. -->
 - [ ] C) Obligar a los actores a actuar de espaldas al público durante la representación de la obra.
   <!-- feedback: Es incorrecta porque la técnica del distanciamiento recurre a canciones, letreros y rompimiento de la cuarta pared, no a actuar de espaldas. -->
@@ -242,11 +242,11 @@ El teatro épico de Brecht utiliza el distanciamiento para transformar la contem
 ¿Qué entiende la crítica literaria por el término 'cronotopo'?
 
 ### Opciones
-- [x] A) La conexión indisoluble entre las relaciones temporales y espaciales que se articulan artísticamente en la literatura.
+- [x] C) La conexión indisoluble entre las relaciones temporales y espaciales que se articulan artísticamente en la literatura.
   <!-- feedback: Es correcta porque el cronotopo es la categoría de la poética que expresa la fusión del tiempo y el espacio en la narrativa. -->
-- [ ] B) El reloj de pared que se utiliza en los teatros para controlar la duración de los intermedios.
+- [ ] A) El reloj de pared que se utiliza en los teatros para controlar la duración de los intermedios.
   <!-- feedback: Es incorrecta porque aplica una interpretación física materialista al término que es una categoría de la teoría literaria. -->
-- [ ] C) La lista de fechas de nacimiento y muerte de los autores de una determinada generación literaria.
+- [ ] B) La lista de fechas de nacimiento y muerte de los autores de una determinada generación literaria.
   <!-- feedback: Es incorrecta porque la cronología biográfica es una herramienta historiográfica y no el cronotopo novelesco. -->
 - [ ] D) El instrumento de navegación usado por los marineros para medir las corrientes oceánicas.
   <!-- feedback: Es incorrecta porque confunde una categoría de la narratología con un artefacto náutico. -->
@@ -288,13 +288,13 @@ El absurdo camusiano plasma la desconexión entre el anhelo de sentido del indiv
 ¿Qué caracteriza a la estética del esperpento en la literatura iberoamericana?
 
 ### Opciones
-- [x] A) La deformación sistemática de la realidad mediante espejos cóncavos y convexos para revelar la fealdad moral de la sociedad.
+- [x] D) La deformación sistemática de la realidad mediante espejos cóncavos y convexos para revelar la fealdad moral de la sociedad.
   <!-- feedback: Es correcta porque el esperpento distorsiona groteschamente la realidad para expresar la degradación trágica de la cultura. -->
-- [ ] B) La pintura de retratos hermosos y perfectos de los reyes y diplomáticos de la corte.
+- [ ] A) La pintura de retratos hermosos y perfectos de los reyes y diplomáticos de la corte.
   <!-- feedback: Es incorrecta porque el esperpento rechaza la idealización bella y busca la deformación crítica. -->
-- [ ] C) El uso del lenguaje formal de la matemática pura en la composición de versos líricos.
+- [ ] B) El uso del lenguaje formal de la matemática pura en la composición de versos líricos.
   <!-- feedback: Es incorrecta porque no utiliza el código matemático sino la hiperbolización de la jerga y el grotesco literario. -->
-- [ ] D) La eliminación de los diálogos para dejar únicamente dibujos geométricos en las páginas.
+- [ ] C) La eliminación de los diálogos para dejar únicamente dibujos geométricos en las páginas.
   <!-- feedback: Es incorrecta porque el esperpento es un arte del diálogo dramático y la acotación expresiva. -->
 
 ### Explicacion Pedagogica
@@ -311,9 +311,9 @@ El esperpento utiliza la deformación grotesca como espejo crítico para denunci
 ¿Qué ocurre cuando un poema contemporáneo dialoga con el tópico del 'carpe diem' sin citar a Horacio?
 
 ### Opciones
-- [x] A) Reactiva una tradición poética universal invadida por la conciencia de la fugacidad del tiempo y el disfrute del presente.
+- [x] B) Reactiva una tradición poética universal invadida por la conciencia de la fugacidad del tiempo y el disfrute del presente.
   <!-- feedback: Es correcta porque el tópico literario (topos) forma parte de la reserva simbólica que la poesía recrea a lo largo de los siglos. -->
-- [ ] B) Comete un plagio deshonesto que debe ser denunciado ante los tribunales internacionales de justicia.
+- [ ] A) Comete un plagio deshonesto que debe ser denunciado ante los tribunales internacionales de justicia.
   <!-- feedback: Es incorrecta porque la recreación de un tópico clásico de la tradición lírica universal no constituye delito de plagio. -->
 - [ ] C) Demuestra que el poeta actual no sabe inventar temas nuevos y recurre a modas del siglo XXI.
   <!-- feedback: Es incorrecta porque los tópicos grecolatinos poseen miles de años y siguen vigentes como formas del sentir humano. -->
@@ -334,13 +334,13 @@ La recreación de tópicos literarios clásicos (carpe diem, beatus ille) inscri
 ¿Qué peligro de sesgo presenta un narrador omnisciente que emite constantemente juicios morales sobre los personajes?
 
 ### Opciones
-- [x] A) Orienta la interpretación del lector imponiendo una postura valorativa e impidiendo una evaluación crítica autónoma de los hechos.
+- [x] D) Orienta la interpretación del lector imponiendo una postura valorativa e impidiendo una evaluación crítica autónoma de los hechos.
   <!-- feedback: Es correcta porque la omnisciencia juzgadora reduce el margen de libertad hermenéutica del lector deconstruyendo la neutralidad. -->
-- [ ] B) Garantiza que la novela se convierta en un tratado de ciencia objetiva aceptado por las universidades.
+- [ ] A) Garantiza que la novela se convierta en un tratado de ciencia objetiva aceptado por las universidades.
   <!-- feedback: Es incorrecta porque el sesgo moral del narrador distorsiona precisamente la objetividad analítica del relato. -->
-- [ ] C) Demuestra que el autor del libro es una persona con intenciones divinas e infalibles.
+- [ ] B) Demuestra que el autor del libro es una persona con intenciones divinas e infalibles.
   <!-- feedback: Es incorrecta porque la omnisciencia es un recurso de la ficción y no una atributo de divinidad real del escritor. -->
-- [ ] D) Provoca que las páginas del libro se borren automáticamente debido al peso de las opiniones.
+- [ ] C) Provoca que las páginas del libro se borren automáticamente debido al peso de las opiniones.
   <!-- feedback: Es incorrecta porque aplica una idea irreal sobre el soporte físico del texto. -->
 
 ### Explicacion Pedagogica
@@ -357,13 +357,13 @@ La intervención valorativa del narrador omnisciente condiciona la lectura crít
 ¿Qué función cumple la constante aparición de un pañuelo blanco en 'Otelo' de Shakespeare?
 
 ### Opciones
-- [x] A) Funciona como un leitmotiv o símbolo recurrente que articula los celos, la manipulación de Yago y la tragedia final.
+- [x] D) Funciona como un leitmotiv o símbolo recurrente que articula los celos, la manipulación de Yago y la tragedia final.
   <!-- feedback: Es correcta porque el leitmotiv es un motivo simbólico que adquiere densidad semántica a lo largo de la obra hasta el desenlace. -->
-- [ ] B) Es un adorno vestimentario sin ninguna importancia para el desarrollo de la trama dramática.
+- [ ] A) Es un adorno vestimentario sin ninguna importancia para el desarrollo de la trama dramática.
   <!-- feedback: Es incorrecta porque el pañuelo es el detonante dramático central manipulado por la intriga de Yago. -->
-- [ ] C) Sirve para avisar al público que el actor que interpreta a Otelo tiene un resfriado severo.
+- [ ] B) Sirve para avisar al público que el actor que interpreta a Otelo tiene un resfriado severo.
   <!-- feedback: Es incorrecta porque confunde el objeto simbólico de la obra con una dolencia del actor en la realidad física. -->
-- [ ] D) Representa un contrato de compraventa de terrenos agrícolas firmado en la ciudad de Venecia.
+- [ ] C) Representa un contrato de compraventa de terrenos agrícolas firmado en la ciudad de Venecia.
   <!-- feedback: Es incorrecta porque la carga semántica del pañuelo atañe al amor y los celos, no a transacciones inmobiliarias. -->
 
 ### Explicacion Pedagogica
@@ -380,13 +380,13 @@ El leitmotiv organiza la red simbólica del texto otorgando cohesión e intensid
 ¿Qué diferencia a la literatura testimonial (ej. 'Me llamo Rigoberta Menchú') de la ficción pura?
 
 ### Opciones
-- [x] A) La intención de denunciar violaciones a los derechos humanos a partir de la memoria vivida de un sujeto de carne y hueso.
+- [x] D) La intención de denunciar violaciones a los derechos humanos a partir de la memoria vivida de un sujeto de carne y hueso.
   <!-- feedback: Es correcta porque el testimonio articula la urgencia ética de hacer visible la verdad histórica y la voz de los excluidos. -->
-- [ ] B) La invención de mundos fantásticos habitados por dragones y seres mitológicos inexistentes.
+- [ ] A) La invención de mundos fantásticos habitados por dragones y seres mitológicos inexistentes.
   <!-- feedback: Es incorrecta porque la narrativa testimonial se funda en la memoria empírica y no en el género fantástico. -->
-- [ ] C) La obligación de escribir todas las oraciones en versos alejandrinos con rima consonante.
+- [ ] B) La obligación de escribir todas las oraciones en versos alejandrinos con rima consonante.
   <!-- feedback: Es incorrecta porque la literatura testimonial suele emplear la prosa directa o la transcripción de la oralidad. -->
-- [ ] D) El uso de un lenguaje secreto que solo puede ser leído mediante espejos especiales.
+- [ ] C) El uso de un lenguaje secreto que solo puede ser leído mediante espejos especiales.
   <!-- feedback: Es incorrecta porque busca la máxima difusión y transparencia denunciante y no el ocultamiento criptográfico. -->
 
 ### Explicacion Pedagogica
@@ -403,9 +403,9 @@ La literatura testimonial entabla un compromiso ético con la verdad histórica 
 ¿De qué manera Cervantes utiliza la locura de Don Quijote para realizar una crítica literaria y social?
 
 ### Opciones
-- [x] A) Satiriza los excesos inverosímiles de las novelas de caballerías mientras contrapone los ideales éticos con la dura realidad de España.
+- [x] B) Satiriza los excesos inverosímiles de las novelas de caballerías mientras contrapone los ideales éticos con la dura realidad de España.
   <!-- feedback: Es correcta porque el Quijote es una obra cumbre que parodia un género agotado creando la novela moderna de la ambigüedad. -->
-- [ ] B) Demuestra que la lectura de libros destruye el cerebro de forma biológica irreversible en todos los lectores.
+- [ ] A) Demuestra que la lectura de libros destruye el cerebro de forma biológica irreversible en todos los lectores.
   <!-- feedback: Es incorrecta porque la locura quijotesca es una metáfora literaria y no un diagnóstico médico universal para la lectura. -->
 - [ ] C) Sostiene que los caballeros medievales eran seres inmortales que volaban por los cielos de la Mancha.
   <!-- feedback: Es incorrecta porque la novela contrasta precisamente los delirios caballerescos con la realidad material de los molinos y ventas. -->
@@ -426,9 +426,9 @@ Cervantes revoluciona la narrativa al convertir la parodia de un género trillad
 ¿Qué entiende Hans Robert Jauss por 'horizonte de expectativas' de un público lector?
 
 ### Opciones
-- [x] A) El conjunto de criterios, convenciones y experiencias previas con los que los lectores de una época juzgan una obra nueva.
+- [x] B) El conjunto de criterios, convenciones y experiencias previas con los que los lectores de una época juzgan una obra nueva.
   <!-- feedback: Es correcta porque la estética de la recepción demuestra que los textos se leen desde los marcos culturales de cada tiempo histórico. -->
-- [ ] B) La línea geográfica del horizonte donde se oculta el sol vista desde la ventana de la biblioteca.
+- [ ] A) La línea geográfica del horizonte donde se oculta el sol vista desde la ventana de la biblioteca.
   <!-- feedback: Es incorrecta porque confunde una noción hermenéutica con un fenómeno de la geografía física u óptica. -->
 - [ ] C) La cantidad de dinero que un lector está dispuesto a gastar en la compra de periódicos al mes.
   <!-- feedback: Es incorrecta porque reduce la recepción estética a un indicador de gasto monetario del consumidor. -->
@@ -449,11 +449,11 @@ El horizonte de expectativas de Jauss explica cómo la recepción y valoración 
 ¿Qué efecto sintáctico-semántico produce el uso del hipérbaton en la poesía barroca?
 
 ### Opciones
-- [x] A) Altera el orden lógico de las palabras en la oración para intensificar la belleza estética, el ritmo y la densidad expresiva.
+- [x] C) Altera el orden lógico de las palabras en la oración para intensificar la belleza estética, el ritmo y la densidad expresiva.
   <!-- feedback: Es correcta porque el hipérbaton es una figura de transposición sintáctica orientada a la creación de belleza estilística. -->
-- [ ] B) Demuestra que la poetisa desconocía las reglas de la gramática castellana por no haber asistido a la escuela.
+- [ ] A) Demuestra que la poetisa desconocía las reglas de la gramática castellana por no haber asistido a la escuela.
   <!-- feedback: Es incorrecta porque Sor Juana demuestra un conocimiento magistral de la sintaxis y la métrica del español. -->
-- [ ] C) Hace que los poemas resulten imposibles de leer en cualquier idioma conocido por los seres humanos.
+- [ ] B) Hace que los poemas resulten imposibles de leer en cualquier idioma conocido por los seres humanos.
   <!-- feedback: Es incorrecta porque la poesía barroca exige un esfuerzo de descodificación que premia al lector atento con gran belleza. -->
 - [ ] D) Convierte el poema en un formulario administrativo para el cobro de impuestos coloniales.
   <!-- feedback: Es incorrecta porque la función del hipérbaton barroco es lírica y no burocrática-fiscal. -->
@@ -472,11 +472,11 @@ El hipérbaton barroco tensiona la estructura sintáctica para potenciar la riqu
 ¿Por qué la capacidad de analizar textos literarios y sus recursos es indispensable en la lectura crítica?
 
 ### Opciones
-- [x] A) Porque permite desentrañar las múltiples capas de sentido, reconocer los artificios del lenguaje y evaluar el valor estético e ideológico de la obra.
+- [x] C) Porque permite desentrañar las múltiples capas de sentido, reconocer los artificios del lenguaje y evaluar el valor estético e ideológico de la obra.
   <!-- feedback: Es correcta porque el análisis literario desarrolla la agudeza hermenéutica, la empatía y la capacidad de interpretación profunda del discurso. -->
-- [ ] B) Porque busca que los estudiantes se memoricen las biografías de todos los premios Nobel de literatura del mundo.
+- [ ] A) Porque busca que los estudiantes se memoricen las biografías de todos los premios Nobel de literatura del mundo.
   <!-- feedback: Es incorrecta porque la prueba no evalúa datos biográficos de memoria sino competencias de lectura analítica. -->
-- [ ] C) Porque leer literatura es el único método conocido para aprobar los exámenes de matemáticas y física.
+- [ ] B) Porque leer literatura es el único método conocido para aprobar los exámenes de matemáticas y física.
   <!-- feedback: Es incorrecta porque si bien fomenta el pensamiento crítico general, cada disciplina posee sus propios métodos de conocimiento. -->
 - [ ] D) Porque permite clasificar las obras de arte según el color de las portadas de los libros editados.
   <!-- feedback: Es incorrecta porque el valor estético no depende de aspectos ornamentales externos del libro impreso. -->

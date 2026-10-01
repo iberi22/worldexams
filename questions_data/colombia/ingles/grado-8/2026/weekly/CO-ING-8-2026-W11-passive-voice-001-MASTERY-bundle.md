@@ -36,8 +36,8 @@ Coffee ________ in many regions of Colombia.
 
 ### Opciones
 - [ ] A) grows <!-- feedback: Incorrect. Coffee doesn't grow itself; it is grown by people. -->
-- [x] B) is grown <!-- feedback: Correct! Present passive: am/is/are + past participle. -->
-- [ ] C) are grown <!-- feedback: Incorrect. "Coffee" is uncountable and takes "is". -->
+- [x] C) is grown <!-- feedback: Correct! Present passive: am/is/are + past participle. -->
+- [ ] B) are grown <!-- feedback: Incorrect. "Coffee" is uncountable and takes "is". -->
 - [ ] D) is grow <!-- feedback: Incorrect. We need the past participle "grown". -->
 
 ### Explicación Pedagógica
@@ -77,9 +77,9 @@ Para la voz pasiva en pasado, usamos "was" o "were" seguido del participio pasad
 The novel *One Hundred Years of Solitude* was written ________ Gabriel García Márquez.
 
 ### Opciones
-- [ ] A) for <!-- feedback: Incorrect. -->
-- [ ] B) from <!-- feedback: Incorrect. -->
-- [x] C) by <!-- feedback: Correct! We use "by" to introduce the person who performed the action in passive voice. -->
+- [ ] B) for <!-- feedback: Incorrect. -->
+- [ ] C) from <!-- feedback: Incorrect. -->
+- [x] A) by <!-- feedback: Correct! We use "by" to introduce the person who performed the action in passive voice. -->
 - [ ] D) with <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
@@ -100,8 +100,8 @@ Every smartphone ________ of many different materials like glass, plastic, and m
 ### Opciones
 - [ ] A) make <!-- feedback: Incorrect. -->
 - [ ] B) are made <!-- feedback: Incorrect. Smartphone is singular. -->
-- [x] C) is made <!-- feedback: Correct! Present passive for a general fact about an object. -->
-- [ ] D) made <!-- feedback: Incorrect. -->
+- [x] D) is made <!-- feedback: Correct! Present passive for a general fact about an object. -->
+- [ ] C) made <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
 Para procesos de fabricación o descripciones de objetos, el presente pasivo es muy común porque el fabricante no suele ser el foco de la oración.
@@ -120,8 +120,8 @@ Para procesos de fabricación o descripciones de objetos, el presente pasivo es 
 **Passive:** "The windows ________ every morning."
 
 ### Opciones
-- [ ] A) is cleaned <!-- feedback: Incorrect. "Windows" is plural. -->
-- [x] B) are cleaned <!-- feedback: Correct! Plural subject in present passive. -->
+- [ ] B) is cleaned <!-- feedback: Incorrect. "Windows" is plural. -->
+- [x] A) are cleaned <!-- feedback: Correct! Plural subject in present passive. -->
 - [ ] C) were cleaned <!-- feedback: Incorrect. The original sentence is in present. -->
 - [ ] D) clean <!-- feedback: Incorrect. -->
 
@@ -142,9 +142,9 @@ America ________ by Christopher Columbus in 1492, according to traditional histo
 
 ### Opciones
 - [ ] A) discovered <!-- feedback: Incorrect. Active voice would need a subject like "Columbus discovered America". -->
-- [x] B) was discovered <!-- feedback: Correct! Past passive for a historical event. -->
-- [ ] C) is discovered <!-- feedback: Incorrect. It happened in the past. -->
-- [ ] D) were discovered <!-- feedback: Incorrect. America is singular. -->
+- [x] D) was discovered <!-- feedback: Correct! Past passive for a historical event. -->
+- [ ] B) is discovered <!-- feedback: Incorrect. It happened in the past. -->
+- [ ] C) were discovered <!-- feedback: Incorrect. America is singular. -->
 
 ### Explicación Pedagógica
 Los hechos históricos se narran frecuentemente en pasado pasivo cuando el foco está en el territorio o el evento, más que en la persona.
@@ -205,8 +205,8 @@ Uno de los usos principales de la voz pasiva es cuando desconocemos la identidad
 ________ this movie ________ in Hollywood or in Europe?
 
 ### Opciones
-- [ ] A) Did / filmed <!-- feedback: Incorrect. Active structure. -->
-- [x] B) Was / filmed <!-- feedback: Correct! Question structure: Was/Were + subject + past participle. -->
+- [ ] B) Did / filmed <!-- feedback: Incorrect. Active structure. -->
+- [x] A) Was / filmed <!-- feedback: Correct! Question structure: Was/Were + subject + past participle. -->
 - [ ] C) Were / film <!-- feedback: Incorrect. -->
 - [ ] D) Is / filming <!-- feedback: Incorrect. Present continuous. -->
 
@@ -228,9 +228,9 @@ Identify the error in this report:
 
 ### Opciones
 - [ ] A) were analyzed <!-- feedback: Incorrect. Plural subject, correct participle. -->
-- [x] B) was wrote <!-- feedback: Correct! Error found. The past participle of "write" is "written", not "wrote". -->
-- [ ] C) it was presented <!-- feedback: Incorrect. Correct passive form. -->
-- [ ] D) last Tuesday <!-- feedback: Incorrect. -->
+- [x] D) was wrote <!-- feedback: Correct! Error found. The past participle of "write" is "written", not "wrote". -->
+- [ ] B) it was presented <!-- feedback: Incorrect. Correct passive form. -->
+- [ ] C) last Tuesday <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
 El conocimiento de los participios pasados irregulares es fundamental para usar correctamente la voz pasiva en nivel B1.
@@ -249,8 +249,8 @@ Which sentence is more appropriate for a formal news report?
 
 ### Opciones
 - [ ] A) Someone robbed the local bank this morning. <!-- feedback: Incorrect. Too direct and focuses on an unknown "someone". -->
-- [x] B) The local bank was robbed early this morning; the suspects are still at large. <!-- feedback: Correct! Passive voice provides a more formal and objective tone. -->
-- [ ] C) A bank was being broken by some guys. <!-- feedback: Incorrect. Awkward grammar. -->
+- [x] C) The local bank was robbed early this morning; the suspects are still at large. <!-- feedback: Correct! Passive voice provides a more formal and objective tone. -->
+- [ ] B) A bank was being broken by some guys. <!-- feedback: Incorrect. Awkward grammar. -->
 - [ ] D) The bank has been gone by thieves. <!-- feedback: Incorrect. Illogical. -->
 
 ### Explicación Pedagógica
@@ -270,10 +270,10 @@ En contextos formales (como noticias o ciencia), la voz pasiva se prefiere porqu
 What is the most accurate summary?
 
 ### Opciones
-- [x] A) Human actions result in significant harm to marine life through plastic waste. <!-- feedback: Correct! It captures the cause and effect described in the passive voice sentences. -->
-- [ ] B) Animals are throwing plastic to the humans. <!-- feedback: Incorrect. Misinterprets the passive agent. -->
-- [ ] C) Plastic is a healthy food for many ocean species. <!-- feedback: Incorrect. Contradicts the text. -->
-- [ ] D) Scientists are not interested in the ocean anymore. <!-- feedback: Incorrect. Not mentioned. -->
+- [x] D) Human actions result in significant harm to marine life through plastic waste. <!-- feedback: Correct! It captures the cause and effect described in the passive voice sentences. -->
+- [ ] A) Animals are throwing plastic to the humans. <!-- feedback: Incorrect. Misinterprets the passive agent. -->
+- [ ] B) Plastic is a healthy food for many ocean species. <!-- feedback: Incorrect. Contradicts the text. -->
+- [ ] C) Scientists are not interested in the ocean anymore. <!-- feedback: Incorrect. Not mentioned. -->
 
 ### Explicación Pedagógica
 Comprender un texto en voz pasiva implica identificar correctamente quién recibe la acción y quién la realiza (aunque no sea el sujeto gramatical).

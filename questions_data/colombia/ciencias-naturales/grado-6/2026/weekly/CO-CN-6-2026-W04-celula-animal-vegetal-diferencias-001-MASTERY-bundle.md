@@ -52,13 +52,13 @@ La célula vegetal posee pared celular de celulosa externa a la membrana; la cé
 ### Enunciado
 ¿Qué organelo contiene la clorofila y es responsable del color verde de las hojas en la célula vegetal?
 ### Opciones
-- [x] A) El cloroplasto
+- [x] D) El cloroplasto
   <!-- feedback: Correcto. El cloroplasto contiene clorofila y allí ocurre la fotosíntesis. -->
-- [ ] B) La mitocondria
+- [ ] A) La mitocondria
   <!-- feedback: Incorrecto. La mitocondria produce energía, pero no contiene clorofila ni es verde. -->
-- [ ] C) El lisosoma
+- [ ] B) El lisosoma
   <!-- feedback: Incorrecto. El lisosoma digiere desechos en células animales y no hace fotosíntesis. -->
-- [ ] D) El centriolo
+- [ ] C) El centriolo
   <!-- feedback: Incorrecto. El centriolo participa en la división de células animales y no existe en la mayoría de vegetales. -->
 ### Explicacion Pedagogica
 Solo las células vegetales y algas tienen cloroplastos con clorofila para captar la luz solar y fabricar alimento.
@@ -72,11 +72,11 @@ Solo las células vegetales y algas tienen cloroplastos con clorofila para capta
 ### Enunciado
 Con base en lo observado, ¿qué tipo de célula dibujó el estudiante?
 ### Opciones
-- [x] A) Una célula vegetal, por la pared celular, los cloroplastos y la vacuola central grande
+- [x] C) Una célula vegetal, por la pared celular, los cloroplastos y la vacuola central grande
   <!-- feedback: Correcto. Esas tres características juntas solo aparecen en la célula vegetal. -->
-- [ ] B) Una célula animal, porque tiene vacuola y citoplasma
+- [ ] A) Una célula animal, porque tiene vacuola y citoplasma
   <!-- feedback: Incorrecto. La célula animal no tiene pared celular ni cloroplastos, y sus vacuolas son pequeñas. -->
-- [ ] C) Una célula de hongo, porque tiene pared celular rígida
+- [ ] B) Una célula de hongo, porque tiene pared celular rígida
   <!-- feedback: Incorrecto. Los hongos tienen pared de quitina y carecen de cloroplastos. -->
 - [ ] D) Una célula de bacteria, porque se encontró en agua del río
   <!-- feedback: Incorrecto. Las bacterias son mucho más pequeñas y no tienen núcleo ni cloroplastos definidos. -->
@@ -92,13 +92,13 @@ La combinación de pared de celulosa, cloroplastos y vacuola central grande es d
 ### Enunciado
 ¿Qué organelo vegetal permite almacenar agua y mantener turgente la hoja del frailejón?
 ### Opciones
-- [x] A) La vacuola central
+- [x] D) La vacuola central
   <!-- feedback: Correcto. La vacuola central almacena agua, sales y da turgencia a la célula vegetal. -->
-- [ ] B) El ribosoma
+- [ ] A) El ribosoma
   <!-- feedback: Incorrecto. El ribosoma fabrica proteínas y no almacena agua. -->
-- [ ] C) El aparato de Golgi
+- [ ] B) El aparato de Golgi
   <!-- feedback: Incorrecto. El aparato de Golgi empaqueta proteínas, pero no es el reservorio principal de agua. -->
-- [ ] D) La membrana nuclear
+- [ ] C) La membrana nuclear
   <!-- feedback: Incorrecto. La membrana nuclear protege el material genético y no guarda agua. -->
 ### Explicacion Pedagogica
 La vacuola central puede ocupar hasta el 90 % de la célula vegetal y regula el agua y la presión interna.
@@ -112,11 +112,11 @@ La vacuola central puede ocupar hasta el 90 % de la célula vegetal y regula el 
 ### Enunciado
 Si el objetivo es observar con nitidez células tan pequeñas, ¿qué instrumento y qué aumento aproximado debe usarse en grado sexto?
 ### Opciones
-- [x] A) El microscopio óptico compuesto, que aumenta entre 40 y 400 veces
+- [x] C) El microscopio óptico compuesto, que aumenta entre 40 y 400 veces
   <!-- feedback: Correcto. El microscopio óptico permite ver células con aumentos de 40X a 400X en el colegio. -->
-- [ ] B) La lupa de mano, que aumenta unas 2 o 3 veces
+- [ ] A) La lupa de mano, que aumenta unas 2 o 3 veces
   <!-- feedback: Incorrecto. La lupa no tiene suficiente aumento para distinguir organelos celulares. -->
-- [ ] C) El telescopio, que aumenta miles de veces objetos lejanos
+- [ ] B) El telescopio, que aumenta miles de veces objetos lejanos
   <!-- feedback: Incorrecto. El telescopio sirve para astros lejanos, no para muestras microscópicas. -->
 - [ ] D) El termómetro, que mide la temperatura de la muestra
   <!-- feedback: Incorrecto. El termómetro mide temperatura y no forma imágenes aumentadas. -->
@@ -152,9 +152,9 @@ La pared celular rígida explica la forma poligonal fija de la célula vegetal; 
 ### Enunciado
 ¿Qué relación entre organelos explica que las hojas con luz produzcan más alimento?
 ### Opciones
-- [x] A) Los cloroplastos captan luz para fabricar glucosa y las mitocondrias la transforman en energía útil
+- [x] B) Los cloroplastos captan luz para fabricar glucosa y las mitocondrias la transforman en energía útil
   <!-- feedback: Correcto. Cloroplasto y mitocondria trabajan juntos: uno produce glucosa y la otra libera su energía. -->
-- [ ] B) Los lisosomas captan luz y los centriolos fabrican azúcar
+- [ ] A) Los lisosomas captan luz y los centriolos fabrican azúcar
   <!-- feedback: Incorrecto. Esos organelos no participan en la fotosíntesis ni existen en vegetales superiores. -->
 - [ ] C) El núcleo produce luz propia y la vacuola fabrica clorofila
   <!-- feedback: Incorrecto. El núcleo guarda información y la vacuola almacena agua; ninguno genera luz. -->
@@ -192,13 +192,13 @@ Compartir algunos organelos no implica identidad celular; la pared y los plastos
 ### Enunciado
 ¿Qué predicción y juicio experimental son correctos para esta indagación?
 ### Opciones
-- [x] A) Las células de mejilla se hincharán y podrán romperse, mientras las de cebolla resistirán gracias a la pared celular; el diseño permite comparar ambos tipos
+- [x] D) Las células de mejilla se hincharán y podrán romperse, mientras las de cebolla resistirán gracias a la pared celular; el diseño permite comparar ambos tipos
   <!-- feedback: Correcto. La pared vegetal resiste la entrada de agua; la célula animal sin pared es frágil al exceso de agua. -->
-- [ ] B) Ambos tipos se romperán igual porque la pared celular no tiene función mecánica
+- [ ] A) Ambos tipos se romperán igual porque la pared celular no tiene función mecánica
   <!-- feedback: Incorrecto. La pared de celulosa sí brinda resistencia mecánica contra la presión del agua. -->
-- [ ] C) Las células de cebolla se romperán primero porque tienen vacuola grande
+- [ ] B) Las células de cebolla se romperán primero porque tienen vacuola grande
   <!-- feedback: Incorrecto. La vacuola almacena agua pero la pared impide que la célula estalle. -->
-- [ ] D) El experimento no sirve porque el microscopio no distingue células animales de vegetales
+- [ ] C) El experimento no sirve porque el microscopio no distingue células animales de vegetales
   <!-- feedback: Incorrecto. El microscopio sí permite distinguir pared, forma y cloroplastos con claridad. -->
 ### Explicacion Pedagogica
 Evaluar el diseño implica predecir según la estructura: sin pared la célula animal es vulnerable a la lisis; con pared la vegetal resiste.
@@ -212,11 +212,11 @@ Evaluar el diseño implica predecir según la estructura: sin pared la célula a
 ### Enunciado
 ¿Qué evaluación de las tres afirmaciones es científicamente correcta?
 ### Opciones
-- [x] A) La 1 es falsa porque la raíz y la cebolla no fotosintetizan en la oscuridad, la 2 es verdadera y la 3 es verdadera
+- [x] C) La 1 es falsa porque la raíz y la cebolla no fotosintetizan en la oscuridad, la 2 es verdadera y la 3 es verdadera
   <!-- feedback: Correcto. No toda célula vegetal es verde; las subterráneas carecen de cloroplastos desarrollados. -->
-- [ ] B) Las tres son verdaderas porque todas las células vegetales son verdes
+- [ ] A) Las tres son verdaderas porque todas las células vegetales son verdes
   <!-- feedback: Incorrecto. Las células de raíz o de reserva tienen leucoplastos, no cloroplastos verdes. -->
-- [ ] C) Las tres son falsas porque las células no tienen núcleo
+- [ ] B) Las tres son falsas porque las células no tienen núcleo
   <!-- feedback: Incorrecto. Las células animales y vegetales son eucariotas y sí tienen núcleo definido. -->
 - [ ] D) Solo la 1 es verdadera y las demás son falsas
   <!-- feedback: Incorrecto. La 2 y la 3 están bien establecidas por la teoría celular moderna. -->

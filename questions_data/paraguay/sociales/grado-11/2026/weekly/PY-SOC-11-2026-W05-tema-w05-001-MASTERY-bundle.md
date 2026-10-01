@@ -33,13 +33,13 @@ creador: "Jules-Agent"
 ¿Qué destacado gobernante paraguayo asumió el poder como cónsul en 1841 y primer presidente constitucional de la República en 1844, impulsando una monumental era de modernización técnica y diplomática?
 
 ### Opciones
-- [x] A) Don Carlos Antonio López
+- [x] D) Don Carlos Antonio López
   <!-- feedback: Correcto. Don Carlos Antonio López fue electo como primer presidente constitucional en 1844, abriendo el país al comercio, la diplomacia y la modernización técnica de gran escala. -->
-- [ ] B) El Dr. José Gaspar Rodríguez de Francia
+- [ ] A) El Dr. José Gaspar Rodríguez de Francia
   <!-- feedback: Incorrecto. El Dr. Francia gobernó de forma aislada y absoluta bajo la Dictadura Perpetua hasta su fallecimiento en 1840, antes del ascenso de Carlos Antonio López. -->
-- [ ] C) Don Fulgencio Yegros
+- [ ] B) Don Fulgencio Yegros
   <!-- feedback: Incorrecto. Yegros fue prócer militar de la independencia de 1811 y cónsul inicial, pero no ejerció la presidencia constitucional del país. -->
-- [ ] D) El Gral. Alfredo Stroessner
+- [ ] C) El Gral. Alfredo Stroessner
   <!-- feedback: Incorrecto. El Gral. Stroessner gobernó Paraguay mediante un régimen dictatorial de facto en la segunda mitad del siglo XX (1954-1989). -->
 
 ### Explicacion Pedagogica
@@ -56,11 +56,11 @@ Carlos Antonio López gobernó Paraguay de forma progresista y modernizadora, se
 ¿Cuál fue la célebre fundición de hierro y fábrica de armas e implementos agrícolas estatal construida en 1854 bajo el gobierno de Carlos Antonio López?
 
 ### Opciones
-- [x] A) La fundición de hierro de Ybycuí
+- [x] C) La fundición de hierro de Ybycuí
   <!-- feedback: Correcto. La fundición de hierro de Ybycuí (La Rosada) fue un establecimiento industrial de punta pionero en el Cono Sur, destruido posteriormente en la Guerra contra la Triple Alianza. -->
-- [ ] B) El arsenal naviero de Ciudad del Este
+- [ ] A) El arsenal naviero de Ciudad del Este
   <!-- feedback: Incorrecto. Ciudad del Este fue fundada en la segunda mitad del siglo XX (1957) y no albergó siderúrgicas de la era de los López. -->
-- [ ] C) La represa hidroeléctrica de Acaray
+- [ ] B) La represa hidroeléctrica de Acaray
   <!-- feedback: Incorrecto. Acaray es una represa hidroeléctrica del siglo XX que aprovecha el río del mismo nombre, sin relación con la fundición de hierro del siglo XIX. -->
 - [ ] D) El astillero militar de Humaitá
   <!-- feedback: Incorrecto. Humaitá fue una monumental fortaleza defensiva de baluarte fluvial de guerra, pero la fundición principal de hierro se ubicaba en Ybycuí. -->
@@ -79,9 +79,9 @@ La fundición de Ybycuí, conocida como 'La Rosada', representó la soberanía i
 ¿De qué procedencia nacional eran la mayoría de los ingenieros, médicos, armadores de barcos y técnicos de fundición de hierro contratados bajo el gobierno de Carlos Antonio López?
 
 ### Opciones
-- [x] A) Británicos (ingleses)
+- [x] B) Británicos (ingleses)
   <!-- feedback: Correcto. El gobierno paraguayo contrató a numerosos técnicos extranjeros británicos de punta (liderados por ingenieros de renombre) para modernizar el país sin contraer deuda externa. -->
-- [ ] B) Españoles monárquicos
+- [ ] A) Españoles monárquicos
   <!-- feedback: Incorrecto. Paraguay mantenía desconfianza y tensiones políticas por la tardía declaración y reconocimiento de independencia de España, por lo que no contrató técnicos peninsulares de forma masiva. -->
 - [ ] C) Chinos e hindúes de origen asiático
   <!-- feedback: Incorrecto. No se registraron corrientes de técnicos o ingenieros de procedencia china o india durante las obras de los López en el siglo XIX. -->
@@ -148,9 +148,9 @@ La inauguración de las vías ferroviarias estatales en Paraguay representó un 
 ¿Con qué propósito el presidente Carlos Antonio López envió a numerosos jóvenes estudiantes paraguayos becados a universidades y talleres de Europa?
 
 ### Opciones
-- [x] A) Para capacitarse en ciencias, medicina, ingeniería y metalurgia de punta, con el fin de retornar a dirigir las industrias y la administración pública soberana del Estado
+- [x] B) Para capacitarse en ciencias, medicina, ingeniería y metalurgia de punta, con el fin de retornar a dirigir las industrias y la administración pública soberana del Estado
   <!-- feedback: Correcto. López comprendió que para sustentar la modernización industrial sin tutelas foráneas se requería formar cuadros técnicos nacionales paraguayos de primer nivel de excelencia. -->
-- [ ] B) Para negociar la anexión voluntaria del territorio paraguayo como colonia de los reyes de Francia
+- [ ] A) Para negociar la anexión voluntaria del territorio paraguayo como colonia de los reyes de Francia
   <!-- feedback: Incorrecto. Al contrario, las becas buscaban consolidar y resguardar la total autonomía de la República frente a cualquier dominación imperial. -->
 - [ ] C) Para aprender de forma exclusiva artes culinarias madereras de la corona británica en beneficio de otros continentes
   <!-- feedback: Incorrecto. La prioridad de las becas fue técnica, médica, bélica e industrial (ingeniería y siderurgia), no gastronómica o de artes madereras de menor peso. -->
@@ -171,11 +171,11 @@ El programa de becarios de Carlos Antonio López fue pionero en América del Sur
 ¿Qué hito diplomático fundamental marcó el año 1852 bajo la presidencia de Carlos Antonio López tras la caída del gobernador argentino Juan Manuel de Rosas?
 
 ### Opciones
-- [x] A) El reconocimiento formal de la Independencia del Paraguay por parte de la Confederación Argentina, abriendo las relaciones exteriores y el comercio regular del río Paraná
+- [x] C) El reconocimiento formal de la Independencia del Paraguay por parte de la Confederación Argentina, abriendo las relaciones exteriores y el comercio regular del río Paraná
   <!-- feedback: Correcto. El caudillo argentino Rosas se oponía a reconocer al Paraguay. Con su caída en Caseros (1852), el nuevo gobierno argentino reconoció de manera formal la soberanía paraguaya. -->
-- [ ] B) La firma de la rendición militar absoluta del Paraguay ante la corona británica a cambio de oro
+- [ ] A) La firma de la rendición militar absoluta del Paraguay ante la corona británica a cambio de oro
   <!-- feedback: Incorrecto. López jamás negoció rendición alguna o venta de soberanía; fortaleció la independencia firmemente ante el exterior. -->
-- [ ] C) La declaración de guerra paraguaya inmediata contra la totalidad de las repúblicas de América del Norte
+- [ ] B) La declaración de guerra paraguaya inmediata contra la totalidad de las repúblicas de América del Norte
   <!-- feedback: Incorrecto. López buscó una inserción pacífica internacional, abriendo embajadas y firmando tratados de navegación comercial recíproca con las potencias occidentales. -->
 - [ ] D) La sumisión voluntaria de Asunción al protectorado real del Imperio del Brasil
   <!-- feedback: Incorrecto. Carlos Antonio López resguardó con celo la independencia y soberanía nacional, manteniendo frecuentes diferendos fronterizos armados con Brasil. -->
@@ -194,13 +194,13 @@ El reconocimiento argentino de 1852 fue una inmensa victoria de la diplomacia de
 ¿De qué manera asumió Francisco Solano López la presidencia de la República tras el fallecimiento de su padre Carlos Antonio López en 1862?
 
 ### Opciones
-- [x] A) Fue electo por el Congreso General de la Nación, tras haber desempeñado destacados cargos de jefe del ejército nacional y diplomático enviado a Europa
+- [x] D) Fue electo por el Congreso General de la Nación, tras haber desempeñado destacados cargos de jefe del ejército nacional y diplomático enviado a Europa
   <!-- feedback: Correcto. A la muerte de Don Carlos, se convocó a un congreso que designó a Francisco Solano López como presidente de la República para un periodo de diez años. -->
-- [ ] B) Se proclamó monarca imperial hereditario del Paraguay de la dinastía lopesca
+- [ ] A) Se proclamó monarca imperial hereditario del Paraguay de la dinastía lopesca
   <!-- feedback: Incorrecto. Paraguay conservó su estructura formal republicana, sin adoptar monarquías o títulos de realeza imperial aristocrática. -->
-- [ ] C) Asumió el poder absoluto mediante una invasión militar de mercenarios reclutados en Buenos Aires
+- [ ] B) Asumió el poder absoluto mediante una invasión militar de mercenarios reclutados en Buenos Aires
   <!-- feedback: Incorrecto. Francisco Solano López controlaba el ejército nacional y contaba con apoyo político interno consolidado, sin apelar a mercenarios extranjeros. -->
-- [ ] D) Fue nombrado gobernador colonial por el papa de Roma para resguardar las misiones
+- [ ] C) Fue nombrado gobernador colonial por el papa de Roma para resguardar las misiones
   <!-- feedback: Incorrecto. El Paraguay era una nación plenamente independiente de cualquier control colonial peninsular o curial romano directo. -->
 
 ### Explicacion Pedagogica
@@ -240,9 +240,9 @@ La misión europea de Solano López dotó al Paraguay de moderna tecnología nav
 ¿Quién fue Madame Lynch y qué rol cultural y social desempeñó en el Paraguay de la era de Francisco Solano López?
 
 ### Opciones
-- [x] A) Fue la compañera irlandesa de Francisco Solano López, quien introdujo costumbres, artes y modas europeas en la sociedad asuncena y acompañó al ejército en la guerra
+- [x] B) Fue la compañera irlandesa de Francisco Solano López, quien introdujo costumbres, artes y modas europeas en la sociedad asuncena y acompañó al ejército en la guerra
   <!-- feedback: Correcto. Madame Lynch conoció a Solano López en París, residió en Asunción promoviendo la vida cultural urbana y destacó por su heroica lealtad acompañando a las fuerzas patrias en el conflicto bélico. -->
-- [ ] B) Fue una generala de artillería de las fuerzas invasoras del Imperio del Brasil
+- [ ] A) Fue una generala de artillería de las fuerzas invasoras del Imperio del Brasil
   <!-- feedback: Incorrecto. Madame Lynch estuvo indisolublemente vinculada a la causa paraguaya, sufriendo la pérdida de su familia en el combate contra los invasores. -->
 - [ ] C) Fue la primera presidenta constitucional mujer electa por el Congreso del Paraguay
   <!-- feedback: Incorrecto. El Paraguay decimonónico no contemplaba el voto femenino ni Madame Lynch ejerció cargos ejecutivos formales de presidencia. -->
@@ -263,13 +263,13 @@ Madame Lynch es una de las figuras más fascinantes y discutidas de la historia 
 A diferencia del resto de América Latina del siglo XIX dominado por terratenientes latifundistas y deuda externa, ¿qué singularidad presentaba el modelo agrario y financiero del Paraguay?
 
 ### Opciones
-- [x] A) El Estado era propietario de más del 90% del territorio nacional que arrendaba a pequeños campesinos productores, careciendo el país de deuda financiera externa
+- [x] D) El Estado era propietario de más del 90% del territorio nacional que arrendaba a pequeños campesinos productores, careciendo el país de deuda financiera externa
   <!-- feedback: Correcto. El Paraguay lopesco mantuvo la propiedad fiscal de la tierra (herencia del periodo de Francia) y financió sus colosales obras de modernización con el monopolio estatal de exportación de yerba y tabaco, sin recurrir a créditos bancarios de Londres. -->
-- [ ] B) El territorio nacional pertenecía en su totalidad a banqueros ingleses bajo hipoteca de guerra
+- [ ] A) El territorio nacional pertenecía en su totalidad a banqueros ingleses bajo hipoteca de guerra
   <!-- feedback: Incorrecto. Paraguay no poseía deudas con bancos de Londres ni deudas exteriores; su soberanía financiera estatal fue total y destacable. -->
-- [ ] C) Se privatizaron de forma gratuita todas las tierras para donarlas a colonos monárquicos portugueses de Río de Janeiro
+- [ ] B) Se privatizaron de forma gratuita todas las tierras para donarlas a colonos monárquicos portugueses de Río de Janeiro
   <!-- feedback: Incorrecto. El gobierno de López protegió las tierras públicas y reguló estrictamente las actividades de ciudadanos extranjeros en el suelo de la República. -->
-- [ ] D) Se abolió el uso de la moneda nacional para comerciar únicamente empleando tarjetas de crédito de plástico
+- [ ] C) Se abolió el uso de la moneda nacional para comerciar únicamente empleando tarjetas de crédito de plástico
   <!-- feedback: Incorrecto. Es un anacronismo delirante; el comercio se realizaba mediante monedas acuñadas de oro, plata y papel moneda paraguayo soberano. -->
 
 ### Explicacion Pedagogica
@@ -309,13 +309,13 @@ La ruptura del equilibrio del Río de la Plata por la agresión brasileña a Uru
 ¿En qué consistía el decreto del 'Vientre Libre' del año 1842 y cuál fue su significado social respecto a la esclavitud heredada de la colonia?
 
 ### Opciones
-- [x] A) Estableció que los hijos nacidos de madres esclavas a partir de esa fecha nacerían libres, iniciando un proceso gradual de abolición de la esclavitud en el país
+- [x] D) Estableció que los hijos nacidos de madres esclavas a partir de esa fecha nacerían libres, iniciando un proceso gradual de abolición de la esclavitud en el país
   <!-- feedback: Correcto. Este histórico decreto de 1842 representó el inicio de la abolición gradual y pacífica de la esclavitud en suelo paraguayo durante el consulado de López. -->
-- [ ] B) Decretó la esclavitud obligatoria y de por vida para todos los habitantes mestizos bilingües del país
+- [ ] A) Decretó la esclavitud obligatoria y de por vida para todos los habitantes mestizos bilingües del país
   <!-- feedback: Incorrecto. Al contrario, las medidas lopescas buscaron erradicar la esclavitud heredada y garantizar la libertad de los nuevos ciudadanos de la República. -->
-- [ ] C) Estableció la entrega gratuita de todos los esclavos a los terratenientes feudales de Buenos Aires
+- [ ] B) Estableció la entrega gratuita de todos los esclavos a los terratenientes feudales de Buenos Aires
   <!-- feedback: Incorrecto. El Paraguay resguardaba la soberanía y la dignidad de su población, rechazando someter a sus habitantes a potencias vecinas del Plata. -->
-- [ ] D) Prohibió de forma absoluta la lactancia materna en los departamentos del sur del territorio
+- [ ] C) Prohibió de forma absoluta la lactancia materna en los departamentos del sur del territorio
   <!-- feedback: Incorrecto. Planteamiento absurdo y distorsionado que carece de cualquier rigor o relación con la abolición de la servidumbre legal colonial. -->
 
 ### Explicacion Pedagogica
@@ -332,13 +332,13 @@ El decreto del Vientre Libre fue una de las reformas humanitarias y sociales má
 ¿Cuál fue el célebre periódico de redacción oficial fundado en 1845 por Carlos Antonio López, utilizado como trinchera periodística escrita para defender la independencia y responder a las calumnias del puerto de Buenos Aires?
 
 ### Opciones
-- [x] A) El Paraguayo Independiente
+- [x] D) El Paraguayo Independiente
   <!-- feedback: Correcto. 'El Paraguayo Independiente' fue redactado directamente por el presidente López para defender legal, jurídica e históricamente los legítimos derechos de emancipación nacional soberana. -->
-- [ ] B) La Tribuna Demócrata de Buenos Aires
+- [ ] A) La Tribuna Demócrata de Buenos Aires
   <!-- feedback: Incorrecto. La prensa porteña atacaba sistemáticamente la soberanía paraguaya; López requería un órgano escrito propio de combate diplomático intelectual. -->
-- [ ] C) El Eco del Chaco
+- [ ] B) El Eco del Chaco
   <!-- feedback: Incorrecto. Aunque surgieron periódicos posteriores, el baluarte histórico impreso pionero de la era de López fue El Paraguayo Independiente. -->
-- [ ] D) La Gaceta Oficial del Imperio del Brasil
+- [ ] C) La Gaceta Oficial del Imperio del Brasil
   <!-- feedback: Incorrecto. Representaba los intereses de la corte imperial de Río de Janeiro, frecuentemente opuestos a la autonomía paraguaya. -->
 
 ### Explicacion Pedagogica
@@ -355,13 +355,13 @@ El Paraguayo Independiente cumplió un papel histórico extraordinario al fundam
 ¿Qué rol industrial desempeñó el ingeniero John William Whitehead en la construcción naviera y militar del Paraguay bajo Carlos Antonio López?
 
 ### Opciones
-- [x] A) Dirigió el arsenal y astillero nacional de Asunción, botando al río Paraguay modernos buques de guerra a vapor construidos con maderas nativas e ingenio local
+- [x] D) Dirigió el arsenal y astillero nacional de Asunción, botando al río Paraguay modernos buques de guerra a vapor construidos con maderas nativas e ingenio local
   <!-- feedback: Correcto. Whitehead, junto a otros técnicos ingleses, transformó a Asunción en un polo de construcción naval a vapor que proveyó de flota comercial y militar al país. -->
-- [ ] B) Lideró la construcción de la central nuclear de Itaipú sobre el cauce del río Paraná
+- [ ] A) Lideró la construcción de la central nuclear de Itaipú sobre el cauce del río Paraná
   <!-- feedback: Incorrecto. Itaipú es un colosal proyecto hidroeléctrico binacional del siglo XX, ajeno a la tecnología de vapor naval del siglo XIX. -->
-- [ ] C) Explotó de forma clandestina los yacimientos de diamantes industriales de Boquerón
+- [ ] B) Explotó de forma clandestina los yacimientos de diamantes industriales de Boquerón
   <!-- feedback: Incorrecto. El Chaco paraguayo carece de minas o yacimientos de diamantes industriales; Whitehead se dedicaba a la ingeniería de calderas y barcos a vapor. -->
-- [ ] D) Estableció de forma obligatoria el idioma inglés en las escuelas agrarias del sur
+- [ ] C) Estableció de forma obligatoria el idioma inglés en las escuelas agrarias del sur
   <!-- feedback: Incorrecto. El idioma del ejército y de las escuelas campesinas paraguayas era el castellano y el guaraní, sin imposiciones lingüísticas británicas. -->
 
 ### Explicacion Pedagogica
@@ -378,13 +378,13 @@ El astillero y arsenal de Asunción proveyeron al Paraguay de una respetable flo
 ¿Qué complejo defensivo fortificado, compuesto de imponentes baterías de artillería lítica ribereña de guerra sobre el río Paraguay, diseñó Francisco Solano López para bloquear el ingreso de flotas invasoras hacia Asunción?
 
 ### Opciones
-- [x] A) La fortaleza de Humaitá
+- [x] D) La fortaleza de Humaitá
   <!-- feedback: Correcto. Humaitá, conocida como el 'Sebastopol de América', era el imponente complejo defensivo de fortificaciones del sur paraguayo que bloqueaba la navegación del río de agresiones extranjeras. -->
-- [ ] B) Las ruinas jesuíticas de Jesús de Tavarangue
+- [ ] A) Las ruinas jesuíticas de Jesús de Tavarangue
   <!-- feedback: Incorrecto. Tavarangue es un complejo arqueológico de origen religioso jesuita en Itapúa, no una fortificación militar de artillería del siglo XIX. -->
-- [ ] C) La central siderúrgica de Ybycuí
+- [ ] B) La central siderúrgica de Ybycuí
   <!-- feedback: Incorrecto. Ybycuí albergaba la fundición siderúrgica de fundición de hierro (La Rosada), mientras que Humaitá concentraba el baluarte militar fortificado de artillería fluvial de guerra. -->
-- [ ] D) El puerto de aduana seca de Filadelfia
+- [ ] C) El puerto de aduana seca de Filadelfia
   <!-- feedback: Incorrecto. Filadelfia no existía en el siglo XIX ni cuenta con accesos fluviales de defensa artillera contra flotas invasoras de guerra naviera. -->
 
 ### Explicacion Pedagogica
@@ -401,9 +401,9 @@ Humaitá representó la cúspide de la ingeniería militar paraguaya decimonóni
 Al evaluar críticamente la política internacional de Don Carlos Antonio López, ¿cuál de las siguientes conclusiones posee mayor validez diplomática e histórica?
 
 ### Opciones
-- [x] A) Rompió de forma soberana el aislamiento francista, abriendo legaciones en el exterior, firmando tratados comerciales de navegación recíproca con potencias occidentales y logrando el reconocimiento jurídico definitivo del Paraguay
+- [x] B) Rompió de forma soberana el aislamiento francista, abriendo legaciones en el exterior, firmando tratados comerciales de navegación recíproca con potencias occidentales y logrando el reconocimiento jurídico definitivo del Paraguay
   <!-- feedback: Correcto. López estructuró una diplomacia asertiva y pacífica de reconocimiento soberano internacional que abrió de manera irreversible el comercio fluvial nacional paraguayo al mundo decimonónico. -->
-- [ ] B) Sometió militarmente al país a las directivas coloniales del Imperio español a cambio de prebendas y títulos de nobleza aristocrática personal
+- [ ] A) Sometió militarmente al país a las directivas coloniales del Imperio español a cambio de prebendas y títulos de nobleza aristocrática personal
   <!-- feedback: Incorrecto. Carlos Antonio López defendió con firmeza la autodeterminación republicana y obtuvo de España el reconocimiento de la independencia soberana en 1880. -->
 - [ ] C) Ordenó la destrucción deliberada de todo el ferrocarril a vapor nacional para complacer a las autoridades aduaneras de Buenos Aires
   <!-- feedback: Incorrecto. López financió y expandió las vías férreas como un gran orgullo soberano e industrial del país, rechazando presiones porteñas de bloqueo fluvial comercial. -->
@@ -447,13 +447,13 @@ La decisión de Francisco Solano López, aunque de trágicas consecuencias béli
 Al evaluar críticamente el significado histórico del arrasamiento industrial y militar de la siderúrgica de Ybycuí por las milicias brasileñas, ¿cuál de las siguientes valoraciones posee mayor rigurosidad analítica?
 
 ### Opciones
-- [x] A) Representó la liquidación deliberada de la soberanía e independencia tecnológica paraguaya decimonónica, devolviendo al país a una absoluta dependencia de las manufacturas de procedencia exterior
+- [x] D) Representó la liquidación deliberada de la soberanía e independencia tecnológica paraguaya decimonónica, devolviendo al país a una absoluta dependencia de las manufacturas de procedencia exterior
   <!-- feedback: Correcto. El arrasamiento de la fundición de hierro y la inundación de sus hornos industriales por los aliados buscaron desmantelar el corazón industrial soberano que permitía al Paraguay producir armas, barcos e implementos autónomamente. -->
-- [ ] B) Constituyó un accidente fortuito provocado por la erupción de un volcán de lodo activo en los cerros de Paraguarí
+- [ ] A) Constituyó un accidente fortuito provocado por la erupción de un volcán de lodo activo en los cerros de Paraguarí
   <!-- feedback: Incorrecto. Fue una acción destructiva de guerra directa ejecutada por comandos de las tropas invasoras de la Triple Alianza, sin intervenciones de fenómenos geológicos volcánicos. -->
-- [ ] C) Representó la privatización pacífica del complejo siderúrgico para donarlo a consorcios petroleros de los Estados Unidos
+- [ ] B) Representó la privatización pacífica del complejo siderúrgico para donarlo a consorcios petroleros de los Estados Unidos
   <!-- feedback: Incorrecto. La planta industrial fue dinamitada, saboteada y completamente inhabilitada por las tropas imperiales brasileñas de ocupación militar. -->
-- [ ] D) Demostró que el hierro producido en Ybycuí era considerado nocivo por las directivas religiosas del papado de Roma
+- [ ] C) Demostró que el hierro producido en Ybycuí era considerado nocivo por las directivas religiosas del papado de Roma
   <!-- feedback: Incorrecto. La fundición fabricaba utensilios y artillería clave para la subsistencia y defensa de la nación, sin que mediaran controversias litúrgicas del papado. -->
 
 ### Explicacion Pedagogica

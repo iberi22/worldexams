@@ -34,9 +34,9 @@ Identificación de los elementos de la noticia periodística (titular, lead, cue
 ¿Cuál es la parte de una noticia que presenta el resumen más importante y suele contestar las preguntas qué, quién, cuándo, dónde y cómo?
 
 ### Opciones
-- [x] A) El lead o entrada, donde se concentran los datos esenciales.
+- [x] B) El lead o entrada, donde se concentran los datos esenciales.
   <!-- feedback: El lead (primer párrafo) resume el qué, quién, cuándo, dónde y cómo de la noticia. -->
-- [ ] B) La firma del periodista, donde aparece el nombre del autor.
+- [ ] A) La firma del periodista, donde aparece el nombre del autor.
   <!-- feedback: La firma identifica al autor pero no resume los hechos principales. -->
 - [ ] C) La sección de anuncios clasificados.
   <!-- feedback: Los clasificados son publicidad pagada, no parte de la estructura noticiosa. -->
@@ -57,9 +57,9 @@ Una noticia se organiza de manera jerárquica: el titular sintetiza el hecho pri
 ¿Qué información específica entrega ese titular al lector sobre el contenido de la noticia?
 
 ### Opciones
-- [x] A) El hecho principal (apertura del hospital), el lugar (Risaralda) y un dato cuantitativo (120 niños).
+- [x] B) El hecho principal (apertura del hospital), el lugar (Risaralda) y un dato cuantitativo (120 niños).
   <!-- feedback: El titular sintetiza la acción, la ubicación y un número concreto. -->
-- [ ] B) Una opinión personal del periodista sobre la salud del departamento.
+- [ ] A) Una opinión personal del periodista sobre la salud del departamento.
   <!-- feedback: Un titular informativo no expresa opiniones, sino hechos concretos. -->
 - [ ] C) Un análisis histórico del sistema hospitalario colombiano.
   <!-- feedback: El titular es puntual, no un análisis extenso. -->
@@ -80,11 +80,11 @@ El titular cumple la función de captar la atención del lector y, al mismo tiem
 ¿Qué dato responde al componente "cuándo" de la noticia presentada?
 
 ### Opciones
-- [x] A) "El pasado lunes", porque indica el día en que ocurrió la atención.
+- [x] C) "El pasado lunes", porque indica el día en que ocurrió la atención.
   <!-- feedback: La expresión temporal precisa señala cuándo se produjo el hecho informativo. -->
-- [ ] B) "600 familias", porque es una cifra que precisa el alcance.
+- [ ] A) "600 familias", porque es una cifra que precisa el alcance.
   <!-- feedback: La cifra responde a cuántos, no a cuándo. -->
-- [ ] C) "Unidad Nacional para la Gestión del Riesgo", porque es el actor principal.
+- [ ] B) "Unidad Nacional para la Gestión del Riesgo", porque es el actor principal.
   <!-- feedback: La entidad es el quién institucional, no el cuándo. -->
 - [ ] D) "municipio de Turbo", porque sitúa geográficamente el hecho.
   <!-- feedback: El municipio responde al dónde geográfico. -->
@@ -103,9 +103,9 @@ Las preguntas básicas del periodismo son: qué, quién, cuándo, dónde, cómo 
 ¿Qué tipo de texto es el anterior y en qué se diferencia de una noticia?
 
 ### Opciones
-- [x] A) Es un texto de opinión, porque emite un juicio de valor ("despilfarro inaceutable"); la noticia solo informa sin adjetivar.
+- [x] B) Es un texto de opinión, porque emite un juicio de valor ("despilfarro inaceutable"); la noticia solo informa sin adjetivar.
   <!-- feedback: Los juicios de valor pertenecen a columnas de opinión, no a noticias. -->
-- [ ] B) Es una noticia, porque describe una obra pública.
+- [ ] A) Es una noticia, porque describe una obra pública.
   <!-- feedback: Aunque menciona una obra, el adjetivo valorativo lo convierte en opinión, no en noticia. -->
 - [ ] C) Es un instructivo, porque indica cómo construir un puente.
   <!-- feedback: No hay pasos ni instrucciones técnicas. -->
@@ -126,9 +126,9 @@ La diferencia clave entre información y opinión es el uso de juicios de valor:
 ¿Cómo se denomina el orden narrativo en que primero aparece lo más importante y luego se profundiza en los detalles?
 
 ### Opciones
-- [x] A) Pirámide invertida, porque el dato más relevante está al inicio y los detalles van después.
+- [x] B) Pirámide invertida, porque el dato más relevante está al inicio y los detalles van después.
   <!-- feedback: En la pirámide invertida la información esencial precede a los detalles complementarios. -->
-- [ ] B) Crónica narrativa, porque cuenta los hechos en orden cronológico estricto.
+- [ ] A) Crónica narrativa, porque cuenta los hechos en orden cronológico estricto.
   <!-- feedback: La pirámide invertida no exige cronología, sino jerarquía. -->
 - [ ] C) Relato de ficción, porque relata hazañas de personajes.
   <!-- feedback: La noticia trata hechos reales, no de ficción. -->
@@ -149,11 +149,11 @@ La pirámide invertida es un esquema periodístico en el que la información má
 ¿Qué diferencia de enfoque se evidencia entre el titular A y el titular B sobre el mismo hecho?
 
 ### Opciones
-- [x] A) El titular A es informativo y neutro; el titular B incluye contexto histórico y un componente valorativo al destacar "por fin".
+- [x] C) El titular A es informativo y neutro; el titular B incluye contexto histórico y un componente valorativo al destacar "por fin".
   <!-- feedback: La palabra "por fin" emite un juicio implícito de satisfacción que matiza el tono neutral. -->
-- [ ] B) Ambos son idénticos porque hablan de un colegio.
+- [ ] A) Ambos son idénticos porque hablan de un colegio.
   <!-- feedback: La diferencia está en la carga valorativa y el contexto agregado. -->
-- [ ] C) El titular A es de opinión y el B es informativo.
+- [ ] B) El titular A es de opinión y el B es informativo.
   <!-- feedback: Es al contrario: A es neutro y B incorpora un matiz valorativo. -->
 - [ ] D) El titular B es falso porque ningún colegio tarda tanto.
   <!-- feedback: La veracidad se evalúa con fuentes, no por la presencia de expresiones temporales. -->
@@ -172,9 +172,9 @@ Los titulares pueden ser informativos (hechos verificables sin adjetivos) o valo
 ¿Qué función cumple la frase destacada entre comillas dentro de la noticia?
 
 ### Opciones
-- [x] A) Es una cita textual de una fuente, que aporta voz y respaldo al hecho informado.
+- [x] B) Es una cita textual de una fuente, que aporta voz y respaldo al hecho informado.
   <!-- feedback: Las comillas indican la voz directa de una fuente citada por el periodista. -->
-- [ ] B) Es un comentario personal del periodista.
+- [ ] A) Es un comentario personal del periodista.
   <!-- feedback: Los comentarios del periodista no van entre comillas sino en su propio estilo. -->
 - [ ] C) Es un slogan publicitario del acueducto.
   <!-- feedback: El contenido crítico no corresponde a un slogan comercial. -->

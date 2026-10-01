@@ -67,11 +67,11 @@ La capacidad se relaciona con el volumen mediante el litro. Como 1 dm³ = 1.000 
 ### Enunciado
 ¿Cuál es el volumen del bloque cúbico?
 ### Opciones
-- [x] A) 27 m³
+- [x] C) 27 m³
   <!-- feedback: Es correcta porque 3 × 3 × 3 = 27 m³. -->
-- [ ] B) 9 m³
+- [ ] A) 9 m³
   <!-- feedback: Error conceptual: multiplica solo dos aristas y olvida la tercera dimensión. -->
-- [ ] C) 18 m³
+- [ ] B) 18 m³
   <!-- feedback: Error conceptual: suma las aristas en lugar de multiplicarlas. -->
 - [ ] D) 54 m³
   <!-- feedback: Error conceptual: multiplica el área de las caras por 6 sin calcular el volumen. -->
@@ -86,13 +86,13 @@ El volumen del cubo es arista al cubo. Para una arista de 3 m se calcula 3 × 3 
 ### Enunciado
 ¿Cuál es el volumen del molde?
 ### Opciones
-- [x] A) 30 m³
+- [x] D) 30 m³
   <!-- feedback: Es correcta porque 5 × 3 × 2 = 30 m³. -->
-- [ ] B) 10 m³
+- [ ] A) 10 m³
   <!-- feedback: Error conceptual: suma las dimensiones en lugar de multiplicarlas. -->
-- [ ] C) 15 m³
+- [ ] B) 15 m³
   <!-- feedback: Error conceptual: multiplica solo largo por ancho y omite la altura. -->
-- [ ] D) 60 m³
+- [ ] C) 60 m³
   <!-- feedback: Error conceptual: duplica el resultado sin justificación geométrica. -->
 ### Explicacion Pedagogica
 El volumen de un prisma rectangular es largo por ancho por alto. Con 5 m, 3 m y 2 m se obtiene 30 m³, que representa el espacio que ocupa el molde.
@@ -105,9 +105,9 @@ El volumen de un prisma rectangular es largo por ancho por alto. Con 5 m, 3 m y 
 ### Enunciado
 ¿Cuál es la capacidad del tanque en litros?
 ### Opciones
-- [x] A) 2.000 litros
+- [x] B) 2.000 litros
   <!-- feedback: Es correcta porque el volumen es 2 m³ y cada metro cúbico equivale a 1.000 litros. -->
-- [ ] B) 2 litros
+- [ ] A) 2 litros
   <!-- feedback: Error conceptual: confunde los metros cúbicos con litros sin aplicar la equivalencia. -->
 - [ ] C) 200 litros
   <!-- feedback: Error conceptual: usa una equivalencia equivocada de 100 litros por metro cúbico. -->
@@ -124,9 +124,9 @@ Primero se calcula el volumen: 2 × 1 × 1 = 2 m³. Como 1 m³ equivale a 1.000 
 ### Enunciado
 ¿Cuál contenedor tiene mayor volumen y por qué?
 ### Opciones
-- [x] A) El cubo, porque su volumen es 64 m³ frente a 60 m³ del prisma
+- [x] B) El cubo, porque su volumen es 64 m³ frente a 60 m³ del prisma
   <!-- feedback: Es correcta porque 4 × 4 × 4 = 64 m³ y 5 × 3 × 4 = 60 m³. -->
-- [ ] B) El prisma, porque tiene tres medidas diferentes
+- [ ] A) El prisma, porque tiene tres medidas diferentes
   <!-- feedback: Error conceptual: tener medidas distintas no garantiza mayor volumen. -->
 - [ ] C) Ambos tienen el mismo volumen
   <!-- feedback: Error conceptual: 64 m³ y 60 m³ son volúmenes diferentes. -->
@@ -143,11 +143,11 @@ Se calcula cada volumen por separado: cubo 4 × 4 × 4 = 64 m³ y prisma 5 × 3 
 ### Enunciado
 ¿Cuál es la altura del tanque?
 ### Opciones
-- [x] A) 3 m
+- [x] C) 3 m
   <!-- feedback: Es correcta porque el área de la base es 20 m² y 60 ÷ 20 = 3 m. -->
-- [ ] B) 4 m
+- [ ] A) 4 m
   <!-- feedback: Error conceptual: repite el ancho de la base sin despejar la altura. -->
-- [ ] C) 12 m
+- [ ] B) 12 m
   <!-- feedback: Error conceptual: divide el volumen entre el largo únicamente y omite el ancho. -->
 - [ ] D) 51 m
   <!-- feedback: Error conceptual: resta el área de la base al volumen en vez de dividir. -->
@@ -162,11 +162,11 @@ Como el volumen es largo por ancho por alto, para hallar la altura se divide el 
 ### Enunciado
 ¿Cuál fue el error del estudiante?
 ### Opciones
-- [x] A) Sumó las dimensiones en lugar de multiplicarlas; el volumen correcto es 36 m³
+- [x] C) Sumó las dimensiones en lugar de multiplicarlas; el volumen correcto es 36 m³
   <!-- feedback: Es correcta porque el volumen es 6 × 2 × 3 = 36 m³, no la suma 6 + 2 + 3. -->
-- [ ] B) Multiplicó mal y el volumen correcto es 11 m³
+- [ ] A) Multiplicó mal y el volumen correcto es 11 m³
   <!-- feedback: Error conceptual: 11 m³ es el resultado de sumar, no el volumen real. -->
-- [ ] C) Dividió el volumen entre la altura y obtuvo un valor menor
+- [ ] B) Dividió el volumen entre la altura y obtuvo un valor menor
   <!-- feedback: Error conceptual: el estudiante no dividió; sumó las tres dimensiones. -->
 - [ ] D) No hubo error, porque sumar las dimensiones da el volumen
   <!-- feedback: Error conceptual: sumar dimensiones da una longitud total, nunca un volumen. -->
@@ -181,9 +181,9 @@ El volumen requiere multiplicar las tres dimensiones: 6 × 2 × 3 = 36 m³. Suma
 ### Enunciado
 ¿Es correcta la afirmación del maestro? Justifica tu respuesta.
 ### Opciones
-- [x] A) No, porque al duplicar la arista el volumen se multiplica por 8
+- [x] B) No, porque al duplicar la arista el volumen se multiplica por 8
   <!-- feedback: Es correcta porque el volumen crece con el cubo del factor: 2 × 2 × 2 = 8. -->
-- [ ] B) Sí, porque el volumen siempre se duplica con la arista
+- [ ] A) Sí, porque el volumen siempre se duplica con la arista
   <!-- feedback: Error conceptual: el volumen depende del cubo de la arista, no de forma proporcional directa. -->
 - [ ] C) Sí, porque el volumen se multiplica por 4
   <!-- feedback: Error conceptual: multiplicar por 4 corresponde al área, no al volumen del cubo. -->

@@ -33,13 +33,13 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 Según el modelo de mosaico fluido de Singer y Nicolson, ¿cuál es la función de los fosfolípidos en la membrana celular?
 
 ### Opciones
-- [x] A) Formar una bicapa semipermeable fluida que restringe el paso de solutos hidrofílicos cargados.
+- [x] D) Formar una bicapa semipermeable fluida que restringe el paso de solutos hidrofílicos cargados.
   <!-- feedback: Correcto. Los fosfolípidos forman una barrera hidrofóbica que permite la compartimentalización celular. -->
-- [ ] B) Actuar como receptores altamente específicos para hormonas peptídicas.
+- [ ] A) Actuar como receptores altamente específicos para hormonas peptídicas.
   <!-- feedback: Incorrecto. Los receptores específicos son proteínas de membrana o glicoproteínas, no fosfolípidos. -->
-- [ ] C) Proveer rigidez absoluta e indeformable a la periferia de la célula.
+- [ ] B) Proveer rigidez absoluta e indeformable a la periferia de la célula.
   <!-- feedback: Incorrecto. La membrana es una estructura fluida y dinámica; la rigidez absoluta rompería la célula. -->
-- [ ] D) Sintetizar el ATP celular mediante un gradiente electroquímico pasivo.
+- [ ] C) Sintetizar el ATP celular mediante un gradiente electroquímico pasivo.
   <!-- feedback: Incorrecto. El ATP se genera en organelos como mitocondrias o cloroplastos, no de forma directa en fosfolípidos. -->
 
 ### Explicación Pedagógica
@@ -56,13 +56,13 @@ El carácter anfipático de los fosfolípidos origina la autoasociación en bica
 Si colocás una célula vegetal en una solución altamente hipertónica respecto a su citoplasma, ¿qué fenómeno fisiológico se observará?
 
 ### Opciones
-- [x] A) Plasmólisis: la vacuola central pierde agua y la membrana plasmática se encoge alejándose de la pared celular.
+- [x] D) Plasmólisis: la vacuola central pierde agua y la membrana plasmática se encoge alejándose de la pared celular.
   <!-- feedback: Correcto. En solución hipertónica, el agua fluye hacia afuera por ósmosis, provocando que la vacuola se contraiga. -->
-- [ ] B) Turgencia máxima: la vacuola se hincha de agua ejerciendo presión sobre la pared rígida.
+- [ ] A) Turgencia máxima: la vacuola se hincha de agua ejerciendo presión sobre la pared rígida.
   <!-- feedback: Incorrecto. La turgencia se produce en una solución hipotónica, donde el agua entra a la célula. -->
-- [ ] C) Lisis celular: el agua entra de forma masiva rompiendo la pared de celulosa de la célula.
+- [ ] B) Lisis celular: el agua entra de forma masiva rompiendo la pared de celulosa de la célula.
   <!-- feedback: Incorrecto. La pared celular de celulosa resiste la presión y evita que la célula vegetal sufra lisis. -->
-- [ ] D) Crenación: los organelos se desintegran por falta de sales de potasio en la solución.
+- [ ] C) Crenación: los organelos se desintegran por falta de sales de potasio en la solución.
   <!-- feedback: Incorrecto. La crenación ocurre en células animales sin pared celular, como glóbulos rojos. -->
 
 ### Explicación Pedagógica
@@ -79,11 +79,11 @@ La ósmosis es el paso pasivo del solvente a través de una membrana selectivame
 ¿Cómo opera termodinámicamente la bomba de sodio-potasio ($Na^+/K^+$-ATPasa) en la membrana plasmática?
 
 ### Opciones
-- [x] A) Utiliza energía de hidrólisis de ATP para bombear 3 iones de sodio hacia el exterior y 2 de potasio hacia el interior contra sus gradientes.
+- [x] C) Utiliza energía de hidrólisis de ATP para bombear 3 iones de sodio hacia el exterior y 2 de potasio hacia el interior contra sus gradientes.
   <!-- feedback: Correcto. Es un transporte activo primario que genera un potencial eléctrico negativo en el interior celular. -->
-- [ ] B) Permite el flujo pasivo y espontáneo de iones a favor de su gradiente electroquímico sin gasto de ATP.
+- [ ] A) Permite el flujo pasivo y espontáneo de iones a favor de su gradiente electroquímico sin gasto de ATP.
   <!-- feedback: Incorrecto. El flujo a favor de gradiente sin ATP se conoce como difusión facilitada o transporte pasivo. -->
-- [ ] C) Intercambia moléculas polares de glucosa por moléculas cargadas de cloruro sin requerimiento energético.
+- [ ] B) Intercambia moléculas polares de glucosa por moléculas cargadas de cloruro sin requerimiento energético.
   <!-- feedback: Incorrecto. Transporta cationes metálicos específicos, no azúcares neutros de gran tamaño. -->
 - [ ] D) Transporta protones al interior de la matriz mitocondrial para acoplar la síntesis química de enzimas.
   <!-- feedback: Incorrecto. Esta bomba mantiene gradientes en la membrana celular general, no en la mitocondria. -->
@@ -125,11 +125,11 @@ La transporte en masa engloba la fagocitosis, pinocitosis y endocitosis mediada 
 Según el modelo de mosaico fluido de Singer y Nicolson, ¿cuál es la función de los fosfolípidos en la membrana celular?
 
 ### Opciones
-- [x] A) Formar una bicapa semipermeable fluida que restringe el paso de solutos hidrofílicos cargados.
+- [x] C) Formar una bicapa semipermeable fluida que restringe el paso de solutos hidrofílicos cargados.
   <!-- feedback: Correcto. Los fosfolípidos forman una barrera hidrofóbica que permite la compartimentalización celular. -->
-- [ ] B) Actuar como receptores altamente específicos para hormonas peptídicas.
+- [ ] A) Actuar como receptores altamente específicos para hormonas peptídicas.
   <!-- feedback: Incorrecto. Los receptores específicos son proteínas de membrana o glicoproteínas, no fosfolípidos. -->
-- [ ] C) Proveer rigidez absoluta e indeformable a la periferia de la célula.
+- [ ] B) Proveer rigidez absoluta e indeformable a la periferia de la célula.
   <!-- feedback: Incorrecto. La membrana es una estructura fluida y dinámica; la rigidez absoluta rompería la célula. -->
 - [ ] D) Sintetizar el ATP celular mediante un gradiente electroquímico pasivo.
   <!-- feedback: Incorrecto. El ATP se genera en organelos como mitocondrias o cloroplastos, no de forma directa en fosfolípidos. -->
@@ -148,9 +148,9 @@ El carácter anfipático de los fosfolípidos origina la autoasociación en bica
 Si colocás una célula vegetal en una solución altamente hipertónica respecto a su citoplasma, ¿qué fenómeno fisiológico se observará?
 
 ### Opciones
-- [x] A) Plasmólisis: la vacuola central pierde agua y la membrana plasmática se encoge alejándose de la pared celular.
+- [x] B) Plasmólisis: la vacuola central pierde agua y la membrana plasmática se encoge alejándose de la pared celular.
   <!-- feedback: Correcto. En solución hipertónica, el agua fluye hacia afuera por ósmosis, provocando que la vacuola se contraiga. -->
-- [ ] B) Turgencia máxima: la vacuola se hincha de agua ejerciendo presión sobre la pared rígida.
+- [ ] A) Turgencia máxima: la vacuola se hincha de agua ejerciendo presión sobre la pared rígida.
   <!-- feedback: Incorrecto. La turgencia se produce en una solución hipotónica, donde el agua entra a la célula. -->
 - [ ] C) Lisis celular: el agua entra de forma masiva rompiendo la pared de celulosa de la célula.
   <!-- feedback: Incorrecto. La pared celular de celulosa resiste la presión y evita que la célula vegetal sufra lisis. -->
@@ -194,9 +194,9 @@ La bomba de sodio-potasio consume aproximadamente el 30% del ATP celular, siendo
 ¿Por qué vía de transporte celular se incorporan partículas sólidas de gran tamaño o microorganismos enteros al citoplasma eucariota?
 
 ### Opciones
-- [x] A) Endocitosis de tipo fagocitosis mediada por vesículas membranosas.
+- [x] B) Endocitosis de tipo fagocitosis mediada por vesículas membranosas.
   <!-- feedback: Correcto. La fagocitosis es una endocitosis especializada que envuelve partículas grandes con pseudópodos de membrana. -->
-- [ ] B) Difusión simple a través de canales hidrofílicos de acuaporinas estables.
+- [ ] A) Difusión simple a través de canales hidrofílicos de acuaporinas estables.
   <!-- feedback: Incorrecto. Las acuaporinas transportan exclusivamente agua por ósmosis, no sólidos grandes. -->
 - [ ] C) Difusión facilitada acoplada a transportadores de tipo simporte catiónico.
   <!-- feedback: Incorrecto. Los simportes transportan iones y solutos moleculares pequeños disueltos, no macromoléculas o células enteras. -->
@@ -217,13 +217,13 @@ La transporte en masa engloba la fagocitosis, pinocitosis y endocitosis mediada 
 Según el modelo de mosaico fluido de Singer y Nicolson, ¿cuál es la función de los fosfolípidos en la membrana celular?
 
 ### Opciones
-- [x] A) Formar una bicapa semipermeable fluida que restringe el paso de solutos hidrofílicos cargados.
+- [x] D) Formar una bicapa semipermeable fluida que restringe el paso de solutos hidrofílicos cargados.
   <!-- feedback: Correcto. Los fosfolípidos forman una barrera hidrofóbica que permite la compartimentalización celular. -->
-- [ ] B) Actuar como receptores altamente específicos para hormonas peptídicas.
+- [ ] A) Actuar como receptores altamente específicos para hormonas peptídicas.
   <!-- feedback: Incorrecto. Los receptores específicos son proteínas de membrana o glicoproteínas, no fosfolípidos. -->
-- [ ] C) Proveer rigidez absoluta e indeformable a la periferia de la célula.
+- [ ] B) Proveer rigidez absoluta e indeformable a la periferia de la célula.
   <!-- feedback: Incorrecto. La membrana es una estructura fluida y dinámica; la rigidez absoluta rompería la célula. -->
-- [ ] D) Sintetizar el ATP celular mediante un gradiente electroquímico pasivo.
+- [ ] C) Sintetizar el ATP celular mediante un gradiente electroquímico pasivo.
   <!-- feedback: Incorrecto. El ATP se genera en organelos como mitocondrias o cloroplastos, no de forma directa en fosfolípidos. -->
 
 ### Explicación Pedagógica
@@ -240,9 +240,9 @@ El carácter anfipático de los fosfolípidos origina la autoasociación en bica
 Si colocás una célula vegetal en una solución altamente hipertónica respecto a su citoplasma, ¿qué fenómeno fisiológico se observará?
 
 ### Opciones
-- [x] A) Plasmólisis: la vacuola central pierde agua y la membrana plasmática se encoge alejándose de la pared celular.
+- [x] B) Plasmólisis: la vacuola central pierde agua y la membrana plasmática se encoge alejándose de la pared celular.
   <!-- feedback: Correcto. En solución hipertónica, el agua fluye hacia afuera por ósmosis, provocando que la vacuola se contraiga. -->
-- [ ] B) Turgencia máxima: la vacuola se hincha de agua ejerciendo presión sobre la pared rígida.
+- [ ] A) Turgencia máxima: la vacuola se hincha de agua ejerciendo presión sobre la pared rígida.
   <!-- feedback: Incorrecto. La turgencia se produce en una solución hipotónica, donde el agua entra a la célula. -->
 - [ ] C) Lisis celular: el agua entra de forma masiva rompiendo la pared de celulosa de la célula.
   <!-- feedback: Incorrecto. La pared celular de celulosa resiste la presión y evita que la célula vegetal sufra lisis. -->
@@ -263,13 +263,13 @@ La ósmosis es el paso pasivo del solvente a través de una membrana selectivame
 ¿Cómo opera termodinámicamente la bomba de sodio-potasio ($Na^+/K^+$-ATPasa) en la membrana plasmática?
 
 ### Opciones
-- [x] A) Utiliza energía de hidrólisis de ATP para bombear 3 iones de sodio hacia el exterior y 2 de potasio hacia el interior contra sus gradientes.
+- [x] D) Utiliza energía de hidrólisis de ATP para bombear 3 iones de sodio hacia el exterior y 2 de potasio hacia el interior contra sus gradientes.
   <!-- feedback: Correcto. Es un transporte activo primario que genera un potencial eléctrico negativo en el interior celular. -->
-- [ ] B) Permite el flujo pasivo y espontáneo de iones a favor de su gradiente electroquímico sin gasto de ATP.
+- [ ] A) Permite el flujo pasivo y espontáneo de iones a favor de su gradiente electroquímico sin gasto de ATP.
   <!-- feedback: Incorrecto. El flujo a favor de gradiente sin ATP se conoce como difusión facilitada o transporte pasivo. -->
-- [ ] C) Intercambia moléculas polares de glucosa por moléculas cargadas de cloruro sin requerimiento energético.
+- [ ] B) Intercambia moléculas polares de glucosa por moléculas cargadas de cloruro sin requerimiento energético.
   <!-- feedback: Incorrecto. Transporta cationes metálicos específicos, no azúcares neutros de gran tamaño. -->
-- [ ] D) Transporta protones al interior de la matriz mitocondrial para acoplar la síntesis química de enzimas.
+- [ ] C) Transporta protones al interior de la matriz mitocondrial para acoplar la síntesis química de enzimas.
   <!-- feedback: Incorrecto. Esta bomba mantiene gradientes en la membrana celular general, no en la mitocondria. -->
 
 ### Explicación Pedagógica
@@ -332,13 +332,13 @@ El carácter anfipático de los fosfolípidos origina la autoasociación en bica
 Si colocás una célula vegetal en una solución altamente hipertónica respecto a su citoplasma, ¿qué fenómeno fisiológico se observará?
 
 ### Opciones
-- [x] A) Plasmólisis: la vacuola central pierde agua y la membrana plasmática se encoge alejándose de la pared celular.
+- [x] D) Plasmólisis: la vacuola central pierde agua y la membrana plasmática se encoge alejándose de la pared celular.
   <!-- feedback: Correcto. En solución hipertónica, el agua fluye hacia afuera por ósmosis, provocando que la vacuola se contraiga. -->
-- [ ] B) Turgencia máxima: la vacuola se hincha de agua ejerciendo presión sobre la pared rígida.
+- [ ] A) Turgencia máxima: la vacuola se hincha de agua ejerciendo presión sobre la pared rígida.
   <!-- feedback: Incorrecto. La turgencia se produce en una solución hipotónica, donde el agua entra a la célula. -->
-- [ ] C) Lisis celular: el agua entra de forma masiva rompiendo la pared de celulosa de la célula.
+- [ ] B) Lisis celular: el agua entra de forma masiva rompiendo la pared de celulosa de la célula.
   <!-- feedback: Incorrecto. La pared celular de celulosa resiste la presión y evita que la célula vegetal sufra lisis. -->
-- [ ] D) Crenación: los organelos se desintegran por falta de sales de potasio en la solución.
+- [ ] C) Crenación: los organelos se desintegran por falta de sales de potasio en la solución.
   <!-- feedback: Incorrecto. La crenación ocurre en células animales sin pared celular, como glóbulos rojos. -->
 
 ### Explicación Pedagógica
@@ -355,11 +355,11 @@ La ósmosis es el paso pasivo del solvente a través de una membrana selectivame
 ¿Cómo opera termodinámicamente la bomba de sodio-potasio ($Na^+/K^+$-ATPasa) en la membrana plasmática?
 
 ### Opciones
-- [x] A) Utiliza energía de hidrólisis de ATP para bombear 3 iones de sodio hacia el exterior y 2 de potasio hacia el interior contra sus gradientes.
+- [x] C) Utiliza energía de hidrólisis de ATP para bombear 3 iones de sodio hacia el exterior y 2 de potasio hacia el interior contra sus gradientes.
   <!-- feedback: Correcto. Es un transporte activo primario que genera un potencial eléctrico negativo en el interior celular. -->
-- [ ] B) Permite el flujo pasivo y espontáneo de iones a favor de su gradiente electroquímico sin gasto de ATP.
+- [ ] A) Permite el flujo pasivo y espontáneo de iones a favor de su gradiente electroquímico sin gasto de ATP.
   <!-- feedback: Incorrecto. El flujo a favor de gradiente sin ATP se conoce como difusión facilitada o transporte pasivo. -->
-- [ ] C) Intercambia moléculas polares de glucosa por moléculas cargadas de cloruro sin requerimiento energético.
+- [ ] B) Intercambia moléculas polares de glucosa por moléculas cargadas de cloruro sin requerimiento energético.
   <!-- feedback: Incorrecto. Transporta cationes metálicos específicos, no azúcares neutros de gran tamaño. -->
 - [ ] D) Transporta protones al interior de la matriz mitocondrial para acoplar la síntesis química de enzimas.
   <!-- feedback: Incorrecto. Esta bomba mantiene gradientes en la membrana celular general, no en la mitocondria. -->
@@ -424,9 +424,9 @@ El carácter anfipático de los fosfolípidos origina la autoasociación en bica
 Si colocás una célula vegetal en una solución altamente hipertónica respecto a su citoplasma, ¿qué fenómeno fisiológico se observará?
 
 ### Opciones
-- [x] A) Plasmólisis: la vacuola central pierde agua y la membrana plasmática se encoge alejándose de la pared celular.
+- [x] B) Plasmólisis: la vacuola central pierde agua y la membrana plasmática se encoge alejándose de la pared celular.
   <!-- feedback: Correcto. En solución hipertónica, el agua fluye hacia afuera por ósmosis, provocando que la vacuola se contraiga. -->
-- [ ] B) Turgencia máxima: la vacuola se hincha de agua ejerciendo presión sobre la pared rígida.
+- [ ] A) Turgencia máxima: la vacuola se hincha de agua ejerciendo presión sobre la pared rígida.
   <!-- feedback: Incorrecto. La turgencia se produce en una solución hipotónica, donde el agua entra a la célula. -->
 - [ ] C) Lisis celular: el agua entra de forma masiva rompiendo la pared de celulosa de la célula.
   <!-- feedback: Incorrecto. La pared celular de celulosa resiste la presión y evita que la célula vegetal sufra lisis. -->
@@ -447,11 +447,11 @@ La ósmosis es el paso pasivo del solvente a través de una membrana selectivame
 ¿Cómo opera termodinámicamente la bomba de sodio-potasio ($Na^+/K^+$-ATPasa) en la membrana plasmática?
 
 ### Opciones
-- [x] A) Utiliza energía de hidrólisis de ATP para bombear 3 iones de sodio hacia el exterior y 2 de potasio hacia el interior contra sus gradientes.
+- [x] C) Utiliza energía de hidrólisis de ATP para bombear 3 iones de sodio hacia el exterior y 2 de potasio hacia el interior contra sus gradientes.
   <!-- feedback: Correcto. Es un transporte activo primario que genera un potencial eléctrico negativo en el interior celular. -->
-- [ ] B) Permite el flujo pasivo y espontáneo de iones a favor de su gradiente electroquímico sin gasto de ATP.
+- [ ] A) Permite el flujo pasivo y espontáneo de iones a favor de su gradiente electroquímico sin gasto de ATP.
   <!-- feedback: Incorrecto. El flujo a favor de gradiente sin ATP se conoce como difusión facilitada o transporte pasivo. -->
-- [ ] C) Intercambia moléculas polares de glucosa por moléculas cargadas de cloruro sin requerimiento energético.
+- [ ] B) Intercambia moléculas polares de glucosa por moléculas cargadas de cloruro sin requerimiento energético.
   <!-- feedback: Incorrecto. Transporta cationes metálicos específicos, no azúcares neutros de gran tamaño. -->
 - [ ] D) Transporta protones al interior de la matriz mitocondrial para acoplar la síntesis química de enzimas.
   <!-- feedback: Incorrecto. Esta bomba mantiene gradientes en la membrana celular general, no en la mitocondria. -->
@@ -470,13 +470,13 @@ La bomba de sodio-potasio consume aproximadamente el 30% del ATP celular, siendo
 ¿Por qué vía de transporte celular se incorporan partículas sólidas de gran tamaño o microorganismos enteros al citoplasma eucariota?
 
 ### Opciones
-- [x] A) Endocitosis de tipo fagocitosis mediada por vesículas membranosas.
+- [x] D) Endocitosis de tipo fagocitosis mediada por vesículas membranosas.
   <!-- feedback: Correcto. La fagocitosis es una endocitosis especializada que envuelve partículas grandes con pseudópodos de membrana. -->
-- [ ] B) Difusión simple a través de canales hidrofílicos de acuaporinas estables.
+- [ ] A) Difusión simple a través de canales hidrofílicos de acuaporinas estables.
   <!-- feedback: Incorrecto. Las acuaporinas transportan exclusivamente agua por ósmosis, no sólidos grandes. -->
-- [ ] C) Difusión facilitada acoplada a transportadores de tipo simporte catiónico.
+- [ ] B) Difusión facilitada acoplada a transportadores de tipo simporte catiónico.
   <!-- feedback: Incorrecto. Los simportes transportan iones y solutos moleculares pequeños disueltos, no macromoléculas o células enteras. -->
-- [ ] D) Exocitosis constitutiva que libera vesículas de secreción hacia el exterior.
+- [ ] C) Exocitosis constitutiva que libera vesículas de secreción hacia el exterior.
   <!-- feedback: Incorrecto. La exocitosis expulsa material de la célula hacia el medio extracelular, no lo incorpora. -->
 
 ### Explicación Pedagógica

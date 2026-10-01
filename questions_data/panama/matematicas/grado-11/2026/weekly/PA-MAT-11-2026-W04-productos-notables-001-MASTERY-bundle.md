@@ -30,8 +30,8 @@ bundle_index: 1
 
 ### Opciones
 - [ ] A) $x^2 + 25$ <!-- feedback: Incorrecto. Se omitió el término doble producto del primero por el segundo (2ab). -->
-- [x] B) $x^2 + 10x + 25$ <!-- feedback: Correcto. Aplicando (a+b)^2 = a^2 + 2ab + b^2, donde a=x y b=5, resulta x^2 + 2(x)(5) + 5^2. -->
-- [ ] C) $x^2 + 5x + 25$ <!-- feedback: Incorrecto. El término central debe ser el doble producto, no solo el producto simple. -->
+- [x] C) $x^2 + 10x + 25$ <!-- feedback: Correcto. Aplicando (a+b)^2 = a^2 + 2ab + b^2, donde a=x y b=5, resulta x^2 + 2(x)(5) + 5^2. -->
+- [ ] B) $x^2 + 5x + 25$ <!-- feedback: Incorrecto. El término central debe ser el doble producto, no solo el producto simple. -->
 - [ ] D) $2x + 10$ <!-- feedback: Incorrecto. Se multiplicó el binomio por 2 en lugar de elevarlo a la potencia dos. -->
 
 ### Explicacion Pedagogica
@@ -51,8 +51,8 @@ Identificación y aplicación de la regla del producto notable "cuadrado de un b
 
 ### Opciones
 - [ ] A) Cuadrado de un binomio <!-- feedback: Incorrecto. El cuadrado de un binomio se representa como (a+b)^2 o (a-b)^2. -->
-- [ ] B) Binomio al cubo <!-- feedback: Incorrecto. Un binomio al cubo tiene la forma (a+b)^3 o (a-b)^3. -->
-- [x] C) Producto de una suma por su diferencia <!-- feedback: Correcto. Esta estructura corresponde a multiplicar la suma por la resta de los mismos términos. -->
+- [ ] C) Binomio al cubo <!-- feedback: Incorrecto. Un binomio al cubo tiene la forma (a+b)^3 o (a-b)^3. -->
+- [x] B) Producto de una suma por su diferencia <!-- feedback: Correcto. Esta estructura corresponde a multiplicar la suma por la resta de los mismos términos. -->
 - [ ] D) Binomios con término común <!-- feedback: Incorrecto. Ese caso corresponde a la estructura (x+a)(x+b). -->
 
 ### Explicacion Pedagogica
@@ -71,8 +71,8 @@ Identificación conceptual de los tipos de productos notables fundamentales.
 ¿Cuál es el término central en el desarrollo del producto notable $(a - b)^2$?
 
 ### Opciones
-- [ ] A) $+2ab$ <!-- feedback: Incorrecto. En el cuadrado de una diferencia, el término central debe tener signo negativo. -->
-- [x] B) $-2ab$ <!-- feedback: Correcto. El desarrollo es a^2 - 2ab + b^2, donde el término central es el doble producto negativo. -->
+- [ ] B) $+2ab$ <!-- feedback: Incorrecto. En el cuadrado de una diferencia, el término central debe tener signo negativo. -->
+- [x] A) $-2ab$ <!-- feedback: Correcto. El desarrollo es a^2 - 2ab + b^2, donde el término central es el doble producto negativo. -->
 - [ ] C) $-ab$ <!-- feedback: Incorrecto. Falta el factor 2 que indica que el término es el "doble" producto. -->
 - [ ] D) $b^2$ <!-- feedback: Incorrecto. Este es el tercer término del trinomio resultante, no el central. -->
 
@@ -92,9 +92,9 @@ Reconocimiento de la estructura del trinomio cuadrado perfecto resultante de un 
 Desarrolla el binomio al cuadrado: $(2y - 3)^2$.
 
 ### Opciones
-- [ ] A) $4y^2 - 9$ <!-- feedback: Incorrecto. Falta el término central del trinomio cuadrado perfecto en la expansión. -->
-- [ ] B) $4y^2 - 6y + 9$ <!-- feedback: Incorrecto. El término central debe ser el doble producto: 2(2y)(-3) = -12y. -->
-- [x] C) $4y^2 - 12y + 9$ <!-- feedback: Correcto. Aplicando (a-b)^2 = a^2 - 2ab + b^2: (2y)^2 - 2(2y)(3) + 3^2. -->
+- [ ] B) $4y^2 - 9$ <!-- feedback: Incorrecto. Falta el término central del trinomio cuadrado perfecto en la expansión. -->
+- [ ] C) $4y^2 - 6y + 9$ <!-- feedback: Incorrecto. El término central debe ser el doble producto: 2(2y)(-3) = -12y. -->
+- [x] A) $4y^2 - 12y + 9$ <!-- feedback: Correcto. Aplicando (a-b)^2 = a^2 - 2ab + b^2: (2y)^2 - 2(2y)(3) + 3^2. -->
 - [ ] D) $2y^2 - 12y + 6$ <!-- feedback: Incorrecto. No se elevaron correctamente al cuadrado los coeficientes ni la constante. -->
 
 ### Explicacion Pedagogica
@@ -114,8 +114,8 @@ Desarrollo de un trinomio cuadrado perfecto a partir de un binomio diferencia al
 
 ### Opciones
 - [ ] A) $9x^2 + 4$ <!-- feedback: Incorrecto. El resultado de una suma por su diferencia es una diferencia de cuadrados. -->
-- [x] B) $9x^2 - 4$ <!-- feedback: Correcto. Aplicando (a+b)(a-b) = a^2 - b^2, resulta (3x)^2 - 2^2 = 9x^2 - 4. -->
-- [ ] C) $6x^2 - 4$ <!-- feedback: Incorrecto. Se olvidó elevar el coeficiente numérico 3 a la potencia cuadrada. -->
+- [x] C) $9x^2 - 4$ <!-- feedback: Correcto. Aplicando (a+b)(a-b) = a^2 - b^2, resulta (3x)^2 - 2^2 = 9x^2 - 4. -->
+- [ ] B) $6x^2 - 4$ <!-- feedback: Incorrecto. Se olvidó elevar el coeficiente numérico 3 a la potencia cuadrada. -->
 - [ ] D) $9x - 4$ <!-- feedback: Incorrecto. Se olvidó elevar la variable x a la potencia cuadrada en el resultado. -->
 
 ### Explicacion Pedagogica
@@ -156,8 +156,8 @@ Aplicación de la regla para el producto de dos binomios con un término común.
 
 ### Opciones
 - [ ] A) $2a^2 - 5b^2$ <!-- feedback: Incorrecto. Olvidó elevar al cuadrado los coeficientes numéricos de las variables. -->
-- [ ] B) $4a^2 + 25b^2$ <!-- feedback: Incorrecto. El producto de una suma por su diferencia siempre es una resta. -->
-- [x] C) $4a^2 - 25b^2$ <!-- feedback: Correcto. Aplicando A^2 - B^2 con A=2a y B=5b, resulta (2a)^2 - (5b)^2. -->
+- [ ] C) $4a^2 + 25b^2$ <!-- feedback: Incorrecto. El producto de una suma por su diferencia siempre es una resta. -->
+- [x] B) $4a^2 - 25b^2$ <!-- feedback: Correcto. Aplicando A^2 - B^2 con A=2a y B=5b, resulta (2a)^2 - (5b)^2. -->
 - [ ] D) $4a - 25b$ <!-- feedback: Incorrecto. Se omitieron los exponentes cuadráticos necesarios en el resultado final. -->
 
 ### Explicacion Pedagogica
@@ -177,9 +177,9 @@ Desarrolla la expresión $(x + 1)^3$.
 
 ### Opciones
 - [ ] A) $x^3 + 1$ <!-- feedback: Incorrecto. Solo se elevaron los términos individuales, faltando los términos centrales. -->
-- [x] B) $x^3 + 3x^2 + 3x + 1$ <!-- feedback: Correcto. Aplicando (a+b)^3 = a^3 + 3a^2b + 3ab^2 + b^3, con a=x y b=1. -->
-- [ ] C) $x^3 + x^2 + x + 1$ <!-- feedback: Incorrecto. Se omitieron los coeficientes 3 de la fórmula del binomio al cubo. -->
-- [ ] D) $3x^2 + 3x$ <!-- feedback: Incorrecto. Se omitieron el término de tercer grado y el término independiente constante. -->
+- [x] D) $x^3 + 3x^2 + 3x + 1$ <!-- feedback: Correcto. Aplicando (a+b)^3 = a^3 + 3a^2b + 3ab^2 + b^3, con a=x y b=1. -->
+- [ ] B) $x^3 + x^2 + x + 1$ <!-- feedback: Incorrecto. Se omitieron los coeficientes 3 de la fórmula del binomio al cubo. -->
+- [ ] C) $3x^2 + 3x$ <!-- feedback: Incorrecto. Se omitieron el término de tercer grado y el término independiente constante. -->
 
 ### Explicacion Pedagogica
 Desarrollo del producto notable "cubo de un binomio suma".
@@ -198,9 +198,9 @@ Desarrolla la expresión $(x - 4)^2$ e identifica el término independiente resu
 
 ### Opciones
 - [ ] A) -16 <!-- feedback: Incorrecto. El cuadrado de cualquier número real siempre es positivo o cero. -->
-- [x] B) 16 <!-- feedback: Correcto. El desarrollo es x^2 - 8x + 16, donde el término independiente es (-4)^2 = 16. -->
-- [ ] C) 8 <!-- feedback: Incorrecto. Error al confundir el doble producto con el cuadrado del término constante. -->
-- [ ] D) -8 <!-- feedback: Incorrecto. Valor obtenido por una interpretación errónea de las leyes de potencias. -->
+- [x] D) 16 <!-- feedback: Correcto. El desarrollo es x^2 - 8x + 16, donde el término independiente es (-4)^2 = 16. -->
+- [ ] B) 8 <!-- feedback: Incorrecto. Error al confundir el doble producto con el cuadrado del término constante. -->
+- [ ] C) -8 <!-- feedback: Incorrecto. Valor obtenido por una interpretación errónea de las leyes de potencias. -->
 
 ### Explicacion Pedagogica
 Identificación del término independiente en el desarrollo de un binomio al cuadrado.
@@ -239,8 +239,8 @@ Combinación de productos notables con operaciones aritméticas básicas de simp
 Si el lado de un cuadrado es $(5x + 1)$, ¿cuál es la expresión correcta para su área?
 
 ### Opciones
-- [ ] A) $25x^2 + 1$ <!-- feedback: Incorrecto. Falta el término del doble producto central en el desarrollo del cuadrado. -->
-- [x] B) $25x^2 + 10x + 1$ <!-- feedback: Correcto. (5x+1)^2 = (5x)^2 + 2(5x)(1) + 1^2 = 25x^2 + 10x + 1. -->
+- [ ] B) $25x^2 + 1$ <!-- feedback: Incorrecto. Falta el término del doble producto central en el desarrollo del cuadrado. -->
+- [x] A) $25x^2 + 10x + 1$ <!-- feedback: Correcto. (5x+1)^2 = (5x)^2 + 2(5x)(1) + 1^2 = 25x^2 + 10x + 1. -->
 - [ ] C) $10x^2 + 10x + 1$ <!-- feedback: Incorrecto. Error al elevar el coeficiente 5 a la potencia cuadrada. -->
 - [ ] D) $25x^2 + 5x + 1$ <!-- feedback: Incorrecto. El término central debe ser el doble del producto de los términos. -->
 
@@ -282,9 +282,9 @@ Simplifica la expresión: $(x + 3)(x - 3) - (x + 2)(x - 2)$.
 
 ### Opciones
 - [ ] A) $-13$ <!-- feedback: Incorrecto. Error al restar los términos constantes resultantes de las potencias. -->
-- [x] B) $-5$ <!-- feedback: Correcto. (x^2 - 9) - (x^2 - 4) = x^2 - 9 - x^2 + 4 = -5. -->
-- [ ] C) $5$ <!-- feedback: Incorrecto. Error en el manejo de los signos al realizar la resta de los polinomios. -->
-- [ ] D) $2x^2 - 13$ <!-- feedback: Incorrecto. Las variables de segundo grado se cancelan totalmente por la sustracción. -->
+- [x] D) $-5$ <!-- feedback: Correcto. (x^2 - 9) - (x^2 - 4) = x^2 - 9 - x^2 + 4 = -5. -->
+- [ ] B) $5$ <!-- feedback: Incorrecto. Error en el manejo de los signos al realizar la resta de los polinomios. -->
+- [ ] C) $2x^2 - 13$ <!-- feedback: Incorrecto. Las variables de segundo grado se cancelan totalmente por la sustracción. -->
 
 ### Explicacion Pedagogica
 Simplificación de expresiones algebraicas combinando múltiples productos notables de tipo suma por diferencia.
@@ -324,8 +324,8 @@ Aplicación de identidades algebraicas derivadas de productos notables (Legendre
 
 ### Opciones
 - [ ] A) 2 <!-- feedback: Incorrecto. El numerador simplificado por identidad de Legendre es 4ab, resultando en 4. -->
-- [x] B) 4 <!-- feedback: Correcto. Numerador: 4ab. Al dividir por el denominador ab, el resultado es la constante 4. -->
-- [ ] C) $4ab$ <!-- feedback: Incorrecto. Se olvidó ejecutar la división final por el denominador ab de la fracción. -->
+- [x] C) 4 <!-- feedback: Correcto. Numerador: 4ab. Al dividir por el denominador ab, el resultado es la constante 4. -->
+- [ ] B) $4ab$ <!-- feedback: Incorrecto. Se olvidó ejecutar la división final por el denominador ab de la fracción. -->
 - [ ] D) 0 <!-- feedback: Incorrecto. Los términos no se anulan totalmente en la resta de los cuadrados de binomios. -->
 
 ### Explicacion Pedagogica
@@ -387,9 +387,9 @@ Si $a + b = 5$ y $ab = 6$, ¿cuál es el valor de $a^2 + b^2$ sin hallar los val
 
 ### Opciones
 - [ ] A) 25 <!-- feedback: Incorrecto. Se olvidó restar el doble producto de la suma elevada a la potencia cuadrada. -->
-- [x] B) 13 <!-- feedback: Correcto. a^2+b^2 = (a+b)^2 - 2ab = 5^2 - 2(6) = 25 - 12 = 13. -->
-- [ ] C) 19 <!-- feedback: Incorrecto. Restó el producto simple en lugar de restar el doble producto solicitado. -->
-- [ ] D) 37 <!-- feedback: Incorrecto. Se sumó el doble producto en lugar de restarlo para despejar la incógnita. -->
+- [x] D) 13 <!-- feedback: Correcto. a^2+b^2 = (a+b)^2 - 2ab = 5^2 - 2(6) = 25 - 12 = 13. -->
+- [ ] B) 19 <!-- feedback: Incorrecto. Restó el producto simple en lugar de restar el doble producto solicitado. -->
+- [ ] C) 37 <!-- feedback: Incorrecto. Se sumó el doble producto en lugar de restarlo para despejar la incógnita. -->
 
 ### Explicacion Pedagogica
 Uso de identidades de productos notables para resolver problemas de valores numéricos condicionados.
@@ -408,8 +408,8 @@ Simplifica el producto $(x^2 + x + 1)(x^2 - x + 1)$.
 
 ### Opciones
 - [ ] A) $x^4 + 1$ <!-- feedback: Incorrecto. Faltan términos intermedios en el desarrollo polinómico del producto. -->
-- [x] B) $x^4 + x^2 + 1$ <!-- feedback: Correcto. Identidad de Argand: se puede ver como una diferencia de cuadrados de trinomios. -->
-- [ ] C) $x^4 - x^2 + 1$ <!-- feedback: Incorrecto. El signo del término de segundo grado debe ser positivo tras la reducción. -->
+- [x] C) $x^4 + x^2 + 1$ <!-- feedback: Correcto. Identidad de Argand: se puede ver como una diferencia de cuadrados de trinomios. -->
+- [ ] B) $x^4 - x^2 + 1$ <!-- feedback: Incorrecto. El signo del término de segundo grado debe ser positivo tras la reducción. -->
 - [ ] D) $x^4 + 2x^2 + 1$ <!-- feedback: Incorrecto. No se consideró la resta necesaria al aplicar la identidad de diferencia. -->
 
 ### Explicacion Pedagogica

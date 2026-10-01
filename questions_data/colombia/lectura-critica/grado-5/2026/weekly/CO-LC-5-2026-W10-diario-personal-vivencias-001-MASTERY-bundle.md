@@ -34,11 +34,11 @@ El diario personal como texto escrito en primera persona, con fechas, emociones 
 ¿Cuál es una característica principal de un diario personal?
 
 ### Opciones
-- [x] A) Se escribe en primera persona y cuenta vivencias propias del autor.
+- [x] C) Se escribe en primera persona y cuenta vivencias propias del autor.
   <!-- feedback: El diario personal recoge lo que le ocurre a quien lo escribe, usando "yo". -->
-- [ ] B) Se escribe en tercera persona sobre la vida de un personaje famoso.
+- [ ] A) Se escribe en tercera persona sobre la vida de un personaje famoso.
   <!-- feedback: Eso corresponde a una biografía, no a un diario personal. -->
-- [ ] C) Se escribe para convencer a un lector de comprar un producto.
+- [ ] B) Se escribe para convencer a un lector de comprar un producto.
   <!-- feedback: Ese propósito es el de un aviso publicitario. -->
 - [ ] D) Se escribe con instrucciones para armar un objeto.
   <!-- feedback: Ese tipo de texto es un instructivo o manual. -->
@@ -57,13 +57,13 @@ Reconocer las características básicas del diario personal: narración en prime
 ¿Qué sentimiento expresa Tomás en este fragmento?
 
 ### Opciones
-- [x] A) Alegría, porque ganó el concurso y celebró con su mamá.
+- [x] D) Alegría, porque ganó el concurso y celebró con su mamá.
   <!-- feedback: Las palabras "muy contento" y "celebrar" muestran alegría. -->
-- [ ] B) Tristeza, porque perdió el concurso de dibujo.
+- [ ] A) Tristeza, porque perdió el concurso de dibujo.
   <!-- feedback: El texto dice que ganó el concurso, no que lo perdió. -->
-- [ ] C) Miedo, porque se quedó solo en casa.
+- [ ] B) Miedo, porque se quedó solo en casa.
   <!-- feedback: El fragmento no menciona miedo ni soledad. -->
-- [ ] D) Aburrimiento, porque no tenía nada que hacer.
+- [ ] C) Aburrimiento, porque no tenía nada que hacer.
   <!-- feedback: Tomás estuvo ocupado celebrando, no aburrido. -->
 
 ### Explicacion Pedagogica
@@ -80,9 +80,9 @@ Comprender el significado de un fragmento de diario e identificar las emociones 
 ¿Qué palabra de la oración indica el momento en que ocurrieron los hechos?
 
 ### Opciones
-- [x] A) "El sábado", porque señala cuándo sucedió lo narrado.
+- [x] B) "El sábado", porque señala cuándo sucedió lo narrado.
   <!-- feedback: "El sábado" es la expresión de tiempo que ubica los hechos en un día concreto. -->
-- [ ] B) "fui", porque indica la acción de ir.
+- [ ] A) "fui", porque indica la acción de ir.
   <!-- feedback: "Fui" es el verbo que expresa la acción, no el momento. -->
 - [ ] C) "parque", porque indica un lugar.
   <!-- feedback: "Parque" es un lugar, no una expresión de tiempo. -->
@@ -103,11 +103,11 @@ Aplicar el reconocimiento de expresiones de tiempo que organizan la secuencia de
 ¿Con qué propósito escribe Valentina este fragmento?
 
 ### Opciones
-- [x] A) Para expresar y desahogar lo que siente en ese momento.
+- [x] C) Para expresar y desahogar lo que siente en ese momento.
   <!-- feedback: El diario personal sirve para contar y expresar las emociones propias. -->
-- [ ] B) Para dar una orden a su mejor amiga.
+- [ ] A) Para dar una orden a su mejor amiga.
   <!-- feedback: El fragmento no pide nada; solo expresa un sentimiento. -->
-- [ ] C) Para informar a toda la comunidad sobre una noticia.
+- [ ] B) Para informar a toda la comunidad sobre una noticia.
   <!-- feedback: Un diario personal es íntimo, no un medio de noticias. -->
 - [ ] D) Para enseñar cómo mudarse de ciudad.
   <!-- feedback: El texto no da instrucciones; narra una emoción personal. -->
@@ -126,11 +126,11 @@ Aplicar la comprensión del propósito comunicativo del diario personal como esp
 ¿Cómo organiza Santiago las vivencias en su diario?
 
 ### Opciones
-- [x] A) En orden cronológico, desde la mañana hasta la noche.
+- [x] C) En orden cronológico, desde la mañana hasta la noche.
   <!-- feedback: Las expresiones "en la mañana", "en la tarde" y "por la noche" ordenan los hechos en secuencia. -->
-- [ ] B) Por orden de importancia, sin importar el momento del día.
+- [ ] A) Por orden de importancia, sin importar el momento del día.
   <!-- feedback: El texto sigue el paso del día, no un orden de importancia. -->
-- [ ] C) Comparando lo que hizo él con lo que hicieron otros niños.
+- [ ] B) Comparando lo que hizo él con lo que hicieron otros niños.
   <!-- feedback: Santiago narra sus propios hechos, sin compararlos con los de otros. -->
 - [ ] D) Explicando las causas de un solo suceso.
   <!-- feedback: El fragmento relata varias actividades en secuencia, no una sola causa. -->
@@ -149,11 +149,11 @@ Analizar cómo se organiza la secuencia de vivencias en un diario mediante expre
 ¿Qué cambio de expectativa se presenta en este fragmento?
 
 ### Opciones
-- [x] A) Esperaba un día aburrido y terminó viviendo una alegre celebración.
+- [x] C) Esperaba un día aburrido y terminó viviendo una alegre celebración.
   <!-- feedback: El fragmento muestra un contraste entre lo que esperaba y lo que ocurrió. -->
-- [ ] B) Esperaba una fiesta y terminó aburrido en el colegio.
+- [ ] A) Esperaba una fiesta y terminó aburrido en el colegio.
   <!-- feedback: El orden es al revés: esperaba aburrimiento y encontró la fiesta. -->
-- [ ] C) No hubo ningún cambio entre lo esperado y lo sucedido.
+- [ ] B) No hubo ningún cambio entre lo esperado y lo sucedido.
   <!-- feedback: Sí hubo un cambio: de la expectativa de aburrimiento a la sorpresa. -->
 - [ ] D) La sorpresa fue que no asistió ningún compañero.
   <!-- feedback: El texto dice que sus compañeros le prepararon una fiesta. -->
@@ -195,13 +195,13 @@ Evaluar puntos de vista personales en fragmentos de diario y reconocer que una m
 ¿Cuál fragmento cumple mejor con las características del diario personal?
 
 ### Opciones
-- [x] A) "Jueves, 15 de agosto. Hoy gané una carrera en el colegio y me sentí feliz."
+- [x] D) "Jueves, 15 de agosto. Hoy gané una carrera en el colegio y me sentí feliz."
   <!-- feedback: Tiene fecha, está en primera persona y expresa una vivencia y una emoción. -->
-- [ ] B) "Las carreras se ganan entrenando todos los días."
+- [ ] A) "Las carreras se ganan entrenando todos los días."
   <!-- feedback: Es una opinión general, sin fecha, sin primera persona y sin vivencia personal. -->
-- [ ] C) "Señor lector, compre ya este producto para correr más rápido."
+- [ ] B) "Señor lector, compre ya este producto para correr más rápido."
   <!-- feedback: Es un aviso publicitario, no un fragmento de diario. -->
-- [ ] D) "Ayer la campeona mundial de atletismo rompió un récord."
+- [ ] C) "Ayer la campeona mundial de atletismo rompió un récord."
   <!-- feedback: Narra la vida de otra persona en tercera persona, no una vivencia propia. -->
 
 ### Explicacion Pedagogica

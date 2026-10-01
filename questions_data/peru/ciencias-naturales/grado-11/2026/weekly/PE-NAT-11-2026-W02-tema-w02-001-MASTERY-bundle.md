@@ -30,13 +30,13 @@ creador: "Jules-Agent"
 ¿Cuál es el polisacárido de reserva energética en las plantas formado por unidades de glucosa unidas por enlaces glucosídicos alpha-1,4 y alpha-1,6?
 
 ### Opciones
-- [x] A) Almidón
+- [x] D) Almidón
   <!-- feedback: Correcto. El almidón (compuesto por amilosa y amilopectina) es la principal reserva de carbohidratos en vegetales. -->
-- [ ] B) Glucógeno
+- [ ] A) Glucógeno
   <!-- feedback: Incorrecto. El glucógeno es la reserva energética de glucosa en animales (hígado y músculo). -->
-- [ ] C) Celulosa
+- [ ] B) Celulosa
   <!-- feedback: Incorrecto. La celulosa es un polisacárido estructural vegetal con enlaces beta-1,4. -->
-- [ ] D) Quitina
+- [ ] C) Quitina
   <!-- feedback: Incorrecto. La quitina es el polisacárido estructural del exoesqueleto de artrópodos y pared celular de hongos. -->
 
 ### Explicacion Pedagogica
@@ -105,11 +105,11 @@ Los triglicéridos son la forma principal de almacenamiento calórico de alta de
 ¿Cuál de las siguientes bases nitrogenadas es exclusiva de las moléculas de ARN y reemplaza a la timina presente en el ADN?
 
 ### Opciones
-- [x] A) Uracilo
+- [x] C) Uracilo
   <!-- feedback: Correcto. El uracilo es una pirimidina presente en el ARN que se aparea con la adenina. -->
-- [ ] B) Citosina
+- [ ] A) Citosina
   <!-- feedback: Incorrecto. La citosina está presente tanto en ADN como en ARN. -->
-- [ ] C) Guanina
+- [ ] B) Guanina
   <!-- feedback: Incorrecto. La guanina es una purina común al ADN y ARN. -->
 - [ ] D) Adenina
   <!-- feedback: Incorrecto. La adenina se encuentra presente en ambos ácidos nucleicos. -->
@@ -130,13 +130,13 @@ El uracilo sustituye a la timina en la estructura monocatenaria del ARN.
 Las enzimas aceleran la velocidad de las reacciones químicas celulares actuando como biocatalizadores debido a que:
 
 ### Opciones
-- [x] A) Disminuyen la energía de activación de la reacción
+- [x] D) Disminuyen la energía de activación de la reacción
   <!-- feedback: Correcto. Las enzimas reducen la barrera de energía necesaria para transformar sustratos en productos. -->
-- [ ] B) Aumentan la temperatura interna de la célula
+- [ ] A) Aumentan la temperatura interna de la célula
   <!-- feedback: Incorrecto. Las enzimas no modifican la temperatura ni el pH del medio celular. -->
-- [ ] C) Consumen ATP en todas las reacciones catabólicas
+- [ ] B) Consumen ATP en todas las reacciones catabólicas
   <!-- feedback: Incorrecto. Muchas enzimas catalizan reacciones de forma espontánea sin gasto de ATP. -->
-- [ ] D) Alteran el equilibrio químico final desplazándolo a la derecha
+- [ ] C) Alteran el equilibrio químico final desplazándolo a la derecha
   <!-- feedback: Incorrecto. Las enzimas aceleran la velocidad pero no modifican la constante de equilibrio Keq. -->
 
 ### Explicacion Pedagogica
@@ -155,11 +155,11 @@ Al disminuir la energía de activación, las enzimas incrementan exponencialment
 El disacárido formado por la unión de una molécula de glucosa y una de fructosa presente en la caña de azúcar es la:
 
 ### Opciones
-- [x] A) Sacarosa
+- [x] C) Sacarosa
   <!-- feedback: Correcto. La sacarosa es el azúcar común sintetizado por plantas y transportado en el floema. -->
-- [ ] B) Lactosa
+- [ ] A) Lactosa
   <!-- feedback: Incorrecto. La lactosa (azúcar de la leche) se compone de glucosa y galactosa. -->
-- [ ] C) Maltosa
+- [ ] B) Maltosa
   <!-- feedback: Incorrecto. La maltosa se compone de dos moléculas de glucosa unidas por enlace alpha-1,4. -->
 - [ ] D) Celobiosa
   <!-- feedback: Incorrecto. La celobiosa es el disacárido producto de la hidrólisis parcial de la celulosa. -->
@@ -180,9 +180,9 @@ La sacarosa es el principal disacárido no reductor transportado en el savia ela
 Los ácidos grasos que contienen uno o más dobles enlaces ($C=C$) en su cadena hidrocarbonada se clasifican como:
 
 ### Opciones
-- [x] A) Insaturados
+- [x] B) Insaturados
   <!-- feedback: Correcto. Los ácidos grasos insaturados presentan dobles enlaces que generan acodamientos en la cadena. -->
-- [ ] B) Saturados
+- [ ] A) Saturados
   <!-- feedback: Incorrecto. Los ácidos grasos saturados poseen únicamente enlaces simples C-C y mayor punto de fusión. -->
 - [ ] C) Esenciales exclusivamente sintéticos
   <!-- feedback: Incorrecto. Muchos ácidos insaturados (omega 3 y 6) son esenciales en la dieta. -->
@@ -230,13 +230,13 @@ Las estructuras secundarias (alfa-hélice y lámina beta) son patrones repetitiv
 ¿Qué vitamina hidrosoluble es un cofactor esencial en la síntesis de colágeno y su deficiencia severa produce el escorbuto?
 
 ### Opciones
-- [x] A) Vitamina C (Ácido ascórbico)
+- [x] D) Vitamina C (Ácido ascórbico)
   <!-- feedback: Correcto. La vitamina C hidroxila a la prolina y lisina para dar estabilidad a la hélice de colágeno. -->
-- [ ] B) Vitamina D (Calciferol)
+- [ ] A) Vitamina D (Calciferol)
   <!-- feedback: Incorrecto. La vitamina D regula el metabolismo del calcio y hueso (su deficiencia causa raquitismo). -->
-- [ ] C) Vitamina K (Naftoquinona)
+- [ ] B) Vitamina K (Naftoquinona)
   <!-- feedback: Incorrecto. La vitamina K interviene en los factores de coagulación sanguínea. -->
-- [ ] D) Vitamina A (Retinol)
+- [ ] C) Vitamina A (Retinol)
   <!-- feedback: Incorrecto. La vitamina A participa en el ciclo visual y protección epitelial. -->
 
 ### Explicacion Pedagogica
@@ -255,13 +255,13 @@ El ácido ascórbico es un potente antioxidante y cofactor de la prolil-hidroxil
 El nucleótido universal transportador de energía química en el metabolismo celular formado por adenina, ribosa y tres fosfatos es el:
 
 ### Opciones
-- [x] A) ATP (Adenosín Trifosfato)
+- [x] D) ATP (Adenosín Trifosfato)
   <!-- feedback: Correcto. El ATP almacena energía de enlace fosfoanhídrido altamente disponible para las funciones celulares. -->
-- [ ] B) NADP+
+- [ ] A) NADP+
   <!-- feedback: Incorrecto. El NADP+ es un coenzima transportador de electrones y protones en reacciones anabólicas. -->
-- [ ] C) AMP cíclico
+- [ ] B) AMP cíclico
   <!-- feedback: Incorrecto. El AMPc actúa como segundo mensajero en la señalización celular. -->
-- [ ] D) ADN polimérico
+- [ ] C) ADN polimérico
   <!-- feedback: Incorrecto. El ADN es el depósito de información genética hereditaria. -->
 
 ### Explicacion Pedagogica
@@ -280,11 +280,11 @@ El ATP es la moneda energética de la célula liberando ~7.3 kcal/mol al hidroli
 ¿Cuál es el polisacárido de reserva energética en las plantas formado por unidades de glucosa unidas por enlaces glucosídicos alpha-1,4 y alpha-1,6?
 
 ### Opciones
-- [x] A) Almidón
+- [x] C) Almidón
   <!-- feedback: Correcto. El almidón (compuesto por amilosa y amilopectina) es la principal reserva de carbohidratos en vegetales. -->
-- [ ] B) Glucógeno
+- [ ] A) Glucógeno
   <!-- feedback: Incorrecto. El glucógeno es la reserva energética de glucosa en animales (hígado y músculo). -->
-- [ ] C) Celulosa
+- [ ] B) Celulosa
   <!-- feedback: Incorrecto. La celulosa es un polisacárido estructural vegetal con enlaces beta-1,4. -->
 - [ ] D) Quitina
   <!-- feedback: Incorrecto. La quitina es el polisacárido estructural del exoesqueleto de artrópodos y pared celular de hongos. -->
@@ -305,13 +305,13 @@ El almidón constituye la reserva de carbohidratos sintetizada durante la fotos�
 Las proteínas están constituidas por cadenas de aminoácidos unidos covalentemente mediante enlaces:
 
 ### Opciones
-- [x] A) Peptídicos
+- [x] D) Peptídicos
   <!-- feedback: Correcto. El enlace peptídico se forma entre el grupo carboxilo de un aminoácido y el grupo amino del siguiente con liberación de agua. -->
-- [ ] B) Fosfodiéster
+- [ ] A) Fosfodiéster
   <!-- feedback: Incorrecto. El enlace fosfodiéster une los nucleótidos en las hebras de ácidos nucleicos (ADN y ARN). -->
-- [ ] C) Glucosídicos
+- [ ] B) Glucosídicos
   <!-- feedback: Incorrecto. El enlace glucosídico une los monosacáridos para formar oligosacáridos y polisacáridos. -->
-- [ ] D) Éster
+- [ ] C) Éster
   <!-- feedback: Incorrecto. El enlace éster une el glicerol con los ácidos grasos en los lípidos (triglicéridos). -->
 
 ### Explicacion Pedagogica
@@ -330,11 +330,11 @@ El enlace peptídico es una amida covalente entre el grupo -COOH y -NH2 de amino
 Los triglicéridos son lípidos formados por la esterificación de una molécula de glicerol con:
 
 ### Opciones
-- [x] A) Tres ácidos grasos
+- [x] C) Tres ácidos grasos
   <!-- feedback: Correcto. Los triacilglicéridos contienen tres cadenas de ácidos grasos unidos al glicerol. -->
-- [ ] B) Tres moléculas de glucosa
+- [ ] A) Tres moléculas de glucosa
   <!-- feedback: Incorrecto. La unión de glucosas forma oligosacáridos o polisacáridos. -->
-- [ ] C) Dos nucleótidos de purina
+- [ ] B) Dos nucleótidos de purina
   <!-- feedback: Incorrecto. Los nucleótidos componen a los ácidos nucleicos. -->
 - [ ] D) Un grupo fosfato y una colina
   <!-- feedback: Incorrecto. Eso caracteriza a los fosfolípidos de membrana. -->
@@ -355,11 +355,11 @@ Los triglicéridos son la forma principal de almacenamiento calórico de alta de
 ¿Cuál de las siguientes bases nitrogenadas es exclusiva de las moléculas de ARN y reemplaza a la timina presente en el ADN?
 
 ### Opciones
-- [x] A) Uracilo
+- [x] C) Uracilo
   <!-- feedback: Correcto. El uracilo es una pirimidina presente en el ARN que se aparea con la adenina. -->
-- [ ] B) Citosina
+- [ ] A) Citosina
   <!-- feedback: Incorrecto. La citosina está presente tanto en ADN como en ARN. -->
-- [ ] C) Guanina
+- [ ] B) Guanina
   <!-- feedback: Incorrecto. La guanina es una purina común al ADN y ARN. -->
 - [ ] D) Adenina
   <!-- feedback: Incorrecto. La adenina se encuentra presente en ambos ácidos nucleicos. -->
@@ -380,13 +380,13 @@ El uracilo sustituye a la timina en la estructura monocatenaria del ARN.
 Las enzimas aceleran la velocidad de las reacciones químicas celulares actuando como biocatalizadores debido a que:
 
 ### Opciones
-- [x] A) Disminuyen la energía de activación de la reacción
+- [x] D) Disminuyen la energía de activación de la reacción
   <!-- feedback: Correcto. Las enzimas reducen la barrera de energía necesaria para transformar sustratos en productos. -->
-- [ ] B) Aumentan la temperatura interna de la célula
+- [ ] A) Aumentan la temperatura interna de la célula
   <!-- feedback: Incorrecto. Las enzimas no modifican la temperatura ni el pH del medio celular. -->
-- [ ] C) Consumen ATP en todas las reacciones catabólicas
+- [ ] B) Consumen ATP en todas las reacciones catabólicas
   <!-- feedback: Incorrecto. Muchas enzimas catalizan reacciones de forma espontánea sin gasto de ATP. -->
-- [ ] D) Alteran el equilibrio químico final desplazándolo a la derecha
+- [ ] C) Alteran el equilibrio químico final desplazándolo a la derecha
   <!-- feedback: Incorrecto. Las enzimas aceleran la velocidad pero no modifican la constante de equilibrio Keq. -->
 
 ### Explicacion Pedagogica
@@ -430,9 +430,9 @@ La sacarosa es el principal disacárido no reductor transportado en el savia ela
 Los ácidos grasos que contienen uno o más dobles enlaces ($C=C$) en su cadena hidrocarbonada se clasifican como:
 
 ### Opciones
-- [x] A) Insaturados
+- [x] B) Insaturados
   <!-- feedback: Correcto. Los ácidos grasos insaturados presentan dobles enlaces que generan acodamientos en la cadena. -->
-- [ ] B) Saturados
+- [ ] A) Saturados
   <!-- feedback: Incorrecto. Los ácidos grasos saturados poseen únicamente enlaces simples C-C y mayor punto de fusión. -->
 - [ ] C) Esenciales exclusivamente sintéticos
   <!-- feedback: Incorrecto. Muchos ácidos insaturados (omega 3 y 6) son esenciales en la dieta. -->
@@ -455,9 +455,9 @@ Los ácidos grasos insaturados son líquidos a temperatura ambiente (aceites) y 
 La estructura secundaria de una proteína caracterizada por un plegamiento en espiral estabilizado por puentes de hidrógeno es la:
 
 ### Opciones
-- [x] A) Hélice alfa
+- [x] B) Hélice alfa
   <!-- feedback: Correcto. La alfa-hélice es una conformación secundaria periódica estabilizada por enlaces de hidrógeno intracadena. -->
-- [ ] B) Hoja beta plegada
+- [ ] A) Hoja beta plegada
   <!-- feedback: Incorrecto. La hoja beta plegada es una conformación extendida en lámina de la estructura secundaria. -->
 - [ ] C) Estructura cuaternaria globular
   <!-- feedback: Incorrecto. La estructura cuaternaria involucra la unión de varias subunidades polipeptídicas. -->
@@ -480,11 +480,11 @@ Las estructuras secundarias (alfa-hélice y lámina beta) son patrones repetitiv
 ¿Qué vitamina hidrosoluble es un cofactor esencial en la síntesis de colágeno y su deficiencia severa produce el escorbuto?
 
 ### Opciones
-- [x] A) Vitamina C (Ácido ascórbico)
+- [x] C) Vitamina C (Ácido ascórbico)
   <!-- feedback: Correcto. La vitamina C hidroxila a la prolina y lisina para dar estabilidad a la hélice de colágeno. -->
-- [ ] B) Vitamina D (Calciferol)
+- [ ] A) Vitamina D (Calciferol)
   <!-- feedback: Incorrecto. La vitamina D regula el metabolismo del calcio y hueso (su deficiencia causa raquitismo). -->
-- [ ] C) Vitamina K (Naftoquinona)
+- [ ] B) Vitamina K (Naftoquinona)
   <!-- feedback: Incorrecto. La vitamina K interviene en los factores de coagulación sanguínea. -->
 - [ ] D) Vitamina A (Retinol)
   <!-- feedback: Incorrecto. La vitamina A participa en el ciclo visual y protección epitelial. -->
@@ -505,9 +505,9 @@ El ácido ascórbico es un potente antioxidante y cofactor de la prolil-hidroxil
 El nucleótido universal transportador de energía química en el metabolismo celular formado por adenina, ribosa y tres fosfatos es el:
 
 ### Opciones
-- [x] A) ATP (Adenosín Trifosfato)
+- [x] B) ATP (Adenosín Trifosfato)
   <!-- feedback: Correcto. El ATP almacena energía de enlace fosfoanhídrido altamente disponible para las funciones celulares. -->
-- [ ] B) NADP+
+- [ ] A) NADP+
   <!-- feedback: Incorrecto. El NADP+ es un coenzima transportador de electrones y protones en reacciones anabólicas. -->
 - [ ] C) AMP cíclico
   <!-- feedback: Incorrecto. El AMPc actúa como segundo mensajero en la señalización celular. -->

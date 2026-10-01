@@ -34,13 +34,13 @@ Lectura de crónicas deportivas colombianas: diferencia entre hechos y opiniones
 ¿Qué es una crónica deportiva?
 
 ### Opciones
-- [x] A) Un relato que narra un hecho deportivo real combinando información con descripciones y opiniones del autor.
+- [x] D) Un relato que narra un hecho deportivo real combinando información con descripciones y opiniones del autor.
   <!-- feedback: La crónica mezcla hechos verificables con la mirada personal del cronista. -->
-- [ ] B) Una lista de instrucciones para fabricar balones de fútbol.
+- [ ] A) Una lista de instrucciones para fabricar balones de fútbol.
   <!-- feedback: Las instrucciones son un texto instructivo, no una crónica. -->
-- [ ] C) Un anuncio publicitario que vende camisetas de fútbol.
+- [ ] B) Un anuncio publicitario que vende camisetas de fútbol.
   <!-- feedback: La publicidad busca vender, no narrar un hecho deportivo. -->
-- [ ] D) Un diccionario con el significado de palabras del fútbol.
+- [ ] C) Un diccionario con el significado de palabras del fútbol.
   <!-- feedback: El diccionario define palabras, no relata un partido. -->
 
 ### Explicacion Pedagogica
@@ -80,9 +80,9 @@ El propósito comunicativo de la crónica es narrar una experiencia deportiva co
 La frase anterior es...
 
 ### Opciones
-- [x] A) Un hecho, porque presenta un dato verificable sobre el estadio.
+- [x] B) Un hecho, porque presenta un dato verificable sobre el estadio.
   <!-- feedback: La capacidad del estadio es un dato comprobable, por eso es un hecho. -->
-- [ ] B) Una opinión, porque expresa un sentimiento del autor.
+- [ ] A) Una opinión, porque expresa un sentimiento del autor.
   <!-- feedback: No hay juicio de valor ni emoción; es información objetiva. -->
 - [ ] C) Una mentira inventada por el cronista.
   <!-- feedback: Los datos de una crónica pueden verificarse; no hay indicio de falsedad aquí. -->
@@ -103,9 +103,9 @@ Distinguir un hecho (dato comprobable) de una opinión (juicio personal) en un t
 ¿Qué palabra del fragmento expresa una valoración u opinión del autor?
 
 ### Opciones
-- [x] A) "maestría", porque califica la actuación del jugador con admiración.
+- [x] B) "maestría", porque califica la actuación del jugador con admiración.
   <!-- feedback: "Maestría" es un juicio valorativo que refleja la opinión del cronista. -->
-- [ ] B) "volante", porque es el nombre de una posición.
+- [ ] A) "volante", porque es el nombre de una posición.
   <!-- feedback: "Volante" nombra una posición, es información objetiva. -->
 - [ ] C) "pases", porque describe una acción del juego.
   <!-- feedback: "Pases" describe una acción concreta, no una valoración. -->
@@ -126,11 +126,11 @@ Identificar las palabras valorativas (adjetivos, adverbios) que revelan la opini
 ¿Qué palabra o expresión indica el sujeto (quién realiza la acción) en la oración?
 
 ### Opciones
-- [x] A) "La hinchada del Junior", porque es quien realiza la acción de llenar.
+- [x] C) "La hinchada del Junior", porque es quien realiza la acción de llenar.
   <!-- feedback: El sujeto es el grupo que ejecuta la acción del verbo. -->
-- [ ] B) "llenó por completo", porque es la acción principal.
+- [ ] A) "llenó por completo", porque es la acción principal.
   <!-- feedback: Esa es la parte del predicado que indica la acción. -->
-- [ ] C) "el estadio Metropolitano", porque es el lugar de la acción.
+- [ ] B) "el estadio Metropolitano", porque es el lugar de la acción.
   <!-- feedback: El estadio recibe la acción, es el complemento, no el sujeto. -->
 - [ ] D) "de Barranquilla", porque indica el origen del equipo.
   <!-- feedback: Esa expresión indica lugar, no el sujeto de la oración. -->
@@ -149,13 +149,13 @@ Identificar la función del sujeto dentro de la oración para comprender la estr
 En el fragmento, ¿cuál parte es un hecho y cuál es una opinión?
 
 ### Opciones
-- [x] A) El marcador 2-1 es un hecho; "partido emocionante" es una opinión del autor.
+- [x] D) El marcador 2-1 es un hecho; "partido emocionante" es una opinión del autor.
   <!-- feedback: El marcador es verificable; "emocionante" es una valoración subjetiva. -->
-- [ ] B) Todo el fragmento es una opinión porque habla de fútbol.
+- [ ] A) Todo el fragmento es una opinión porque habla de fútbol.
   <!-- feedback: El fragmento incluye datos verificables, no solo opiniones. -->
-- [ ] C) El marcador es una opinión y "emocionante" es un hecho.
+- [ ] B) El marcador es una opinión y "emocionante" es un hecho.
   <!-- feedback: Es al revés: el marcador es objetivo y "emocionante" es subjetivo. -->
-- [ ] D) No hay hechos ni opiniones, solo datos sin sentido.
+- [ ] C) No hay hechos ni opiniones, solo datos sin sentido.
   <!-- feedback: El texto contiene hechos claros y una valoración del autor. -->
 
 ### Explicacion Pedagogica
@@ -172,9 +172,9 @@ Analizar un párrafo para separar la información verificable (hechos) de las va
 ¿Qué se puede concluir sobre el punto de vista de cada autor?
 
 ### Opciones
-- [x] A) Cada cronista resalta aspectos distintos del mismo partido, según su mirada y su intención.
+- [x] B) Cada cronista resalta aspectos distintos del mismo partido, según su mirada y su intención.
   <!-- feedback: El hecho es el mismo, pero la mirada del autor cambia los elementos que destaca. -->
-- [ ] B) Ambos autores escriben exactamente lo mismo sobre el partido.
+- [ ] A) Ambos autores escriben exactamente lo mismo sobre el partido.
   <!-- feedback: Cada crónica resalta aspectos diferentes, por eso no son idénticas. -->
 - [ ] C) Las dos crónicas son falsas porque no coinciden entre sí.
   <!-- feedback: La diferencia de enfoque no significa que sean falsas. -->

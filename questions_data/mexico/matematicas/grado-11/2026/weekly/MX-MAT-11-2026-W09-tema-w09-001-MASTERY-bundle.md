@@ -30,13 +30,13 @@ creador: "Jules-Agent"
 Dada la función f(x) = x³ - 4x, ¿cuáles son los ceros o raíces reales de esta función?
 
 ### Opciones
-- [x] A) x = -2, x = 0, x = 2
+- [x] D) x = -2, x = 0, x = 2
   <!-- feedback: ¡Correcto! Factorizando: x(x² - 4) = 0 -> x(x - 2)(x + 2) = 0. Esto da las raíces x = 0, x = 2 y x = -2. -->
-- [ ] B) x = -4, x = 0, x = 4
+- [ ] A) x = -4, x = 0, x = 4
   <!-- feedback: Incorrecto. Se tomó erróneamente el coeficiente lineal como raíz de la función. -->
-- [ ] C) x = -2, x = 2
+- [ ] B) x = -2, x = 2
   <!-- feedback: Incorrecto. Se omitió la raíz que se encuentra en el origen x = 0. -->
-- [ ] D) Únicamente la raíz real x = 0
+- [ ] C) Únicamente la raíz real x = 0
   <!-- feedback: Incorrecto. Una función de tercer grado de este tipo puede tener hasta tres raíces reales distintas. -->
 
 ### Explicacion Pedagogica
@@ -53,11 +53,11 @@ Para hallar los ceros de la función, igualamos f(x) a cero: x³ - 4x = 0. Facto
 Para la función racional f(x) = (2x + 1) / (x - 3), ¿cuáles son las ecuaciones de su asíntota vertical y horizontal?
 
 ### Opciones
-- [x] A) Asíntota vertical: x = 3; Asíntota horizontal: y = 2
+- [x] C) Asíntota vertical: x = 3; Asíntota horizontal: y = 2
   <!-- feedback: ¡Correcto! La vertical ocurre donde el denominador es cero (x - 3 = 0 -> x = 3). La horizontal se obtiene del límite al infinito de la función, que es la razón de los coeficientes de x (2/1 -> y = 2). -->
-- [ ] B) Asíntota vertical: x = -3; Asíntota horizontal: y = 1/2
+- [ ] A) Asíntota vertical: x = -3; Asíntota horizontal: y = 1/2
   <!-- feedback: Incorrecto. Se cometieron errores al despejar el denominador y evaluar el límite al infinito. -->
-- [ ] C) Asíntota vertical: x = 2; Asíntota horizontal: y = 3
+- [ ] B) Asíntota vertical: x = 2; Asíntota horizontal: y = 3
   <!-- feedback: Incorrecto. Los valores correspondientes a las asíntotas horizontal y vertical están al revés. -->
 - [ ] D) No tiene asíntotas de ningún tipo por ser racional.
   <!-- feedback: Incorrecto. Las funciones racionales donde el grado del denominador es igual o mayor al del numerador tienen asíntotas. -->
@@ -76,9 +76,9 @@ Asíntota vertical: ocurre en los valores donde el denominador es cero y el nume
 Determina la ordenada al origen de la función f(x) = (x² + 3) / (x + 2).
 
 ### Opciones
-- [x] A) 1.5
+- [x] B) 1.5
   <!-- feedback: ¡Correcto! Evaluando f(0) obtenemos (0² + 3) / (0 + 2) = 3/2. -->
-- [ ] B) 18
+- [ ] A) 18
   <!-- feedback: Incorrecto. Se omitió dividir por la constante del denominador al evaluar x = 0. -->
 - [ ] C) 0
   <!-- feedback: Incorrecto. La curva no interseca al eje y en el origen de coordenadas. -->
@@ -99,11 +99,11 @@ La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, e
 Determina la ordenada al origen de la función f(x) = (x² + 4) / (x + 2).
 
 ### Opciones
-- [x] A) 2.0
+- [x] C) 2.0
   <!-- feedback: ¡Correcto! Evaluando f(0) obtenemos (0² + 4) / (0 + 2) = 4/2. -->
-- [ ] B) 19
+- [ ] A) 19
   <!-- feedback: Incorrecto. Se omitió dividir por la constante del denominador al evaluar x = 0. -->
-- [ ] C) 0
+- [ ] B) 0
   <!-- feedback: Incorrecto. La curva no interseca al eje y en el origen de coordenadas. -->
 - [ ] D) -2.0
   <!-- feedback: Incorrecto. Se cometió un error de signo al evaluar la función. -->
@@ -145,13 +145,13 @@ La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, e
 Determina la ordenada al origen de la función f(x) = (x² + 6) / (x + 2).
 
 ### Opciones
-- [x] A) 3.0
+- [x] D) 3.0
   <!-- feedback: ¡Correcto! Evaluando f(0) obtenemos (0² + 6) / (0 + 2) = 6/2. -->
-- [ ] B) 21
+- [ ] A) 21
   <!-- feedback: Incorrecto. Se omitió dividir por la constante del denominador al evaluar x = 0. -->
-- [ ] C) 0
+- [ ] B) 0
   <!-- feedback: Incorrecto. La curva no interseca al eje y en el origen de coordenadas. -->
-- [ ] D) -3.0
+- [ ] C) -3.0
   <!-- feedback: Incorrecto. Se cometió un error de signo al evaluar la función. -->
 
 ### Explicacion Pedagogica
@@ -168,9 +168,9 @@ La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, e
 Determina la ordenada al origen de la función f(x) = (x² + 7) / (x + 2).
 
 ### Opciones
-- [x] A) 3.5
+- [x] B) 3.5
   <!-- feedback: ¡Correcto! Evaluando f(0) obtenemos (0² + 7) / (0 + 2) = 7/2. -->
-- [ ] B) 22
+- [ ] A) 22
   <!-- feedback: Incorrecto. Se omitió dividir por la constante del denominador al evaluar x = 0. -->
 - [ ] C) 0
   <!-- feedback: Incorrecto. La curva no interseca al eje y en el origen de coordenadas. -->
@@ -191,11 +191,11 @@ La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, e
 Determina la ordenada al origen de la función f(x) = (x² + 8) / (x + 2).
 
 ### Opciones
-- [x] A) 4.0
+- [x] C) 4.0
   <!-- feedback: ¡Correcto! Evaluando f(0) obtenemos (0² + 8) / (0 + 2) = 8/2. -->
-- [ ] B) 23
+- [ ] A) 23
   <!-- feedback: Incorrecto. Se omitió dividir por la constante del denominador al evaluar x = 0. -->
-- [ ] C) 0
+- [ ] B) 0
   <!-- feedback: Incorrecto. La curva no interseca al eje y en el origen de coordenadas. -->
 - [ ] D) -4.0
   <!-- feedback: Incorrecto. Se cometió un error de signo al evaluar la función. -->
@@ -214,11 +214,11 @@ La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, e
 Determina la ordenada al origen de la función f(x) = (x² + 9) / (x + 2).
 
 ### Opciones
-- [x] A) 4.5
+- [x] C) 4.5
   <!-- feedback: ¡Correcto! Evaluando f(0) obtenemos (0² + 9) / (0 + 2) = 9/2. -->
-- [ ] B) 24
+- [ ] A) 24
   <!-- feedback: Incorrecto. Se omitió dividir por la constante del denominador al evaluar x = 0. -->
-- [ ] C) 0
+- [ ] B) 0
   <!-- feedback: Incorrecto. La curva no interseca al eje y en el origen de coordenadas. -->
 - [ ] D) -4.5
   <!-- feedback: Incorrecto. Se cometió un error de signo al evaluar la función. -->
@@ -237,11 +237,11 @@ La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, e
 Determina la ordenada al origen de la función f(x) = (x² + 10) / (x + 2).
 
 ### Opciones
-- [x] A) 5.0
+- [x] C) 5.0
   <!-- feedback: ¡Correcto! Evaluando f(0) obtenemos (0² + 10) / (0 + 2) = 10/2. -->
-- [ ] B) 25
+- [ ] A) 25
   <!-- feedback: Incorrecto. Se omitió dividir por la constante del denominador al evaluar x = 0. -->
-- [ ] C) 0
+- [ ] B) 0
   <!-- feedback: Incorrecto. La curva no interseca al eje y en el origen de coordenadas. -->
 - [ ] D) -5.0
   <!-- feedback: Incorrecto. Se cometió un error de signo al evaluar la función. -->
@@ -306,9 +306,9 @@ La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, e
 Determina la ordenada al origen de la función f(x) = (x² + 13) / (x + 2).
 
 ### Opciones
-- [x] A) 6.5
+- [x] B) 6.5
   <!-- feedback: ¡Correcto! Evaluando f(0) obtenemos (0² + 13) / (0 + 2) = 13/2. -->
-- [ ] B) 28
+- [ ] A) 28
   <!-- feedback: Incorrecto. Se omitió dividir por la constante del denominador al evaluar x = 0. -->
 - [ ] C) 0
   <!-- feedback: Incorrecto. La curva no interseca al eje y en el origen de coordenadas. -->
@@ -352,13 +352,13 @@ La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, e
 Determina la ordenada al origen de la función f(x) = (x² + 15) / (x + 2).
 
 ### Opciones
-- [x] A) 7.5
+- [x] D) 7.5
   <!-- feedback: ¡Correcto! Evaluando f(0) obtenemos (0² + 15) / (0 + 2) = 15/2. -->
-- [ ] B) 30
+- [ ] A) 30
   <!-- feedback: Incorrecto. Se omitió dividir por la constante del denominador al evaluar x = 0. -->
-- [ ] C) 0
+- [ ] B) 0
   <!-- feedback: Incorrecto. La curva no interseca al eje y en el origen de coordenadas. -->
-- [ ] D) -7.5
+- [ ] C) -7.5
   <!-- feedback: Incorrecto. Se cometió un error de signo al evaluar la función. -->
 
 ### Explicacion Pedagogica
@@ -375,13 +375,13 @@ La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, e
 Determina la ordenada al origen de la función f(x) = (x² + 16) / (x + 2).
 
 ### Opciones
-- [x] A) 8.0
+- [x] D) 8.0
   <!-- feedback: ¡Correcto! Evaluando f(0) obtenemos (0² + 16) / (0 + 2) = 16/2. -->
-- [ ] B) 31
+- [ ] A) 31
   <!-- feedback: Incorrecto. Se omitió dividir por la constante del denominador al evaluar x = 0. -->
-- [ ] C) 0
+- [ ] B) 0
   <!-- feedback: Incorrecto. La curva no interseca al eje y en el origen de coordenadas. -->
-- [ ] D) -8.0
+- [ ] C) -8.0
   <!-- feedback: Incorrecto. Se cometió un error de signo al evaluar la función. -->
 
 ### Explicacion Pedagogica
@@ -421,9 +421,9 @@ La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, e
 Determina la ordenada al origen de la función f(x) = (x² + 18) / (x + 2).
 
 ### Opciones
-- [x] A) 9.0
+- [x] B) 9.0
   <!-- feedback: ¡Correcto! Evaluando f(0) obtenemos (0² + 18) / (0 + 2) = 18/2. -->
-- [ ] B) 33
+- [ ] A) 33
   <!-- feedback: Incorrecto. Se omitió dividir por la constante del denominador al evaluar x = 0. -->
 - [ ] C) 0
   <!-- feedback: Incorrecto. La curva no interseca al eje y en el origen de coordenadas. -->
@@ -444,9 +444,9 @@ La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, e
 Determina la ordenada al origen de la función f(x) = (x² + 19) / (x + 2).
 
 ### Opciones
-- [x] A) 9.5
+- [x] B) 9.5
   <!-- feedback: ¡Correcto! Evaluando f(0) obtenemos (0² + 19) / (0 + 2) = 19/2. -->
-- [ ] B) 34
+- [ ] A) 34
   <!-- feedback: Incorrecto. Se omitió dividir por la constante del denominador al evaluar x = 0. -->
 - [ ] C) 0
   <!-- feedback: Incorrecto. La curva no interseca al eje y en el origen de coordenadas. -->
@@ -467,11 +467,11 @@ La ordenada al origen se calcula sustituyendo x = 0 en la función f(x). Así, e
 Determina la ordenada al origen de la función f(x) = (x² + 20) / (x + 2).
 
 ### Opciones
-- [x] A) 10.0
+- [x] C) 10.0
   <!-- feedback: ¡Correcto! Evaluando f(0) obtenemos (0² + 20) / (0 + 2) = 20/2. -->
-- [ ] B) 35
+- [ ] A) 35
   <!-- feedback: Incorrecto. Se omitió dividir por la constante del denominador al evaluar x = 0. -->
-- [ ] C) 0
+- [ ] B) 0
   <!-- feedback: Incorrecto. La curva no interseca al eje y en el origen de coordenadas. -->
 - [ ] D) -10.0
   <!-- feedback: Incorrecto. Se cometió un error de signo al evaluar la función. -->

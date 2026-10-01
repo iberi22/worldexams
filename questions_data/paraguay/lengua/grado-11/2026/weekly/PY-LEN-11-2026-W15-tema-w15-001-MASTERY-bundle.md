@@ -35,10 +35,10 @@ Este bundle evalúa contenidos de Redacción de Textos Académicos y Argumentati
 ¿Cuál es el objetivo primordial de un texto académico como la monografía o el ensayo escolar?
 
 ### Opciones
-- [x] A) Desarrollar un análisis riguroso, fundamentado y estructurado sobre un problema de estudio. <!-- feedback: ¡Correcto! Los textos académicos buscan aportar conocimientos o reflexiones críticas mediante una metodología rigurosa. -->
-- [ ] B) Entretener al público mediante chistes y anécdotas cómicas. <!-- feedback: Incorrecto. Su finalidad no es el entretenimiento cómico. -->
-- [ ] C) Redactar versos con rima consonante. <!-- feedback: Incorrecto. Corresponde a la poesía lírica. -->
-- [ ] D) Promocionar la venta de productos comerciales. <!-- feedback: Incorrecto. Corresponde al texto publicitario. -->
+- [x] D) Desarrollar un análisis riguroso, fundamentado y estructurado sobre un problema de estudio. <!-- feedback: ¡Correcto! Los textos académicos buscan aportar conocimientos o reflexiones críticas mediante una metodología rigurosa. -->
+- [ ] A) Entretener al público mediante chistes y anécdotas cómicas. <!-- feedback: Incorrecto. Su finalidad no es el entretenimiento cómico. -->
+- [ ] B) Redactar versos con rima consonante. <!-- feedback: Incorrecto. Corresponde a la poesía lírica. -->
+- [ ] C) Promocionar la venta de productos comerciales. <!-- feedback: Incorrecto. Corresponde al texto publicitario. -->
 
 ### Explicacion Pedagogica
 Los textos académicos requieren objetividad, sustentación teórica, claridad expositiva y orden metodológico para comunicar descubrimientos o reflexiones.
@@ -56,10 +56,10 @@ Los textos académicos requieren objetividad, sustentación teórica, claridad e
 ¿Qué conector textual se utiliza para iniciar la enumeración de una serie de puntos en un ensayo?
 
 ### Opciones
-- [x] A) En primer lugar <!-- feedback: ¡Correcto! "En primer lugar" marca el comienzo del desarrollo ordenado de argumentos. -->
-- [ ] B) En conclusión <!-- feedback: Incorrecto. Se emplea para cerrar la argumentación en la síntesis final. -->
-- [ ] C) Sin embargo <!-- feedback: Incorrecto. Se utiliza para introducir un contraste u objeción. -->
-- [ ] D) Por ejemplo <!-- feedback: Incorrecto. Introduce un caso o ilustración concreta. -->
+- [x] D) En primer lugar <!-- feedback: ¡Correcto! "En primer lugar" marca el comienzo del desarrollo ordenado de argumentos. -->
+- [ ] A) En conclusión <!-- feedback: Incorrecto. Se emplea para cerrar la argumentación en la síntesis final. -->
+- [ ] B) Sin embargo <!-- feedback: Incorrecto. Se utiliza para introducir un contraste u objeción. -->
+- [ ] C) Por ejemplo <!-- feedback: Incorrecto. Introduce un caso o ilustración concreta. -->
 
 ### Explicacion Pedagogica
 Los organizadores del discurso como 'En primer lugar', 'En segundo lugar' estructuran secuencialmente el avance de la información en el texto.
@@ -77,8 +77,8 @@ Los organizadores del discurso como 'En primer lugar', 'En segundo lugar' estruc
 Según las normas de citación académica (estilo APA), ¿cómo debe presentarse una cita textual directa menor de 40 palabras dentro del párrafo?
 
 ### Opciones
-- [x] A) Entre comillas dobles, integrada en el texto y acompañada por el apellido del autor, año y número de página. <!-- feedback: ¡Correcto! Las citas cortas se incorporan al párrafo entre comillas especificando autor, año y página. -->
-- [ ] B) En un bloque independiente fuera del párrafo, sin comas ni comillas. <!-- feedback: Incorrecto. Esa presentación corresponde a las citas largas de 40 palabras o más. -->
+- [x] B) Entre comillas dobles, integrada en el texto y acompañada por el apellido del autor, año y número de página. <!-- feedback: ¡Correcto! Las citas cortas se incorporan al párrafo entre comillas especificando autor, año y página. -->
+- [ ] A) En un bloque independiente fuera del párrafo, sin comas ni comillas. <!-- feedback: Incorrecto. Esa presentación corresponde a las citas largas de 40 palabras o más. -->
 - [ ] C) Escrita en letras mayúsculas al final del documento. <!-- feedback: Incorrecto. No sigue la norma de citación dentro del texto. -->
 - [ ] D) Sin mencionar jamás el autor para evitar distracciones. <!-- feedback: Incorrecto. Omitir la autoría constituye plagio académico. -->
 
@@ -98,10 +98,10 @@ Las citas textuales cortas (< 40 palabras) se integran directamente en la redacc
 ¿Cuáles son las tres partes fundamentales que componen la estructura tradicional de un ensayo argumentativo?
 
 ### Opciones
-- [x] A) Introducción (con tesis), Desarrollo (con argumentos) y Conclusión (síntesis y cierre). <!-- feedback: ¡Correcto! La estructura canónica del ensayo requiere introducción del tema y planteo de tesis, cuerpo argumentativo y conclusión. -->
-- [ ] B) Portada, Nudo y Desenlace. <!-- feedback: Incorrecto. "Nudo y desenlace" pertenecen a la estructura narrativa. -->
-- [ ] C) Estrofa, Verso y Rima. <!-- feedback: Incorrecto. Pertenecen al género poético. -->
-- [ ] D) Escena, Acto y Acotación. <!-- feedback: Incorrecto. Pertenecen al género dramático. -->
+- [x] D) Introducción (con tesis), Desarrollo (con argumentos) y Conclusión (síntesis y cierre). <!-- feedback: ¡Correcto! La estructura canónica del ensayo requiere introducción del tema y planteo de tesis, cuerpo argumentativo y conclusión. -->
+- [ ] A) Portada, Nudo y Desenlace. <!-- feedback: Incorrecto. "Nudo y desenlace" pertenecen a la estructura narrativa. -->
+- [ ] B) Estrofa, Verso y Rima. <!-- feedback: Incorrecto. Pertenecen al género poético. -->
+- [ ] C) Escena, Acto y Acotación. <!-- feedback: Incorrecto. Pertenecen al género dramático. -->
 
 ### Explicacion Pedagogica
 La arquitectura del texto argumentativo consta de: Introducción (presenta el problema y la tesis), Desarrollo (despliega los argumentos y evidencia) y Conclusión (reafirma la tesis).
@@ -140,8 +140,8 @@ El pleonasmo o redundancia consiste en emplear palabras innecesarias que reitera
 ¿Qué conector es el más adecuado para introducir una prueba o caso concreto que aclare una afirmación previa?
 
 ### Opciones
-- [x] A) Por ejemplo <!-- feedback: ¡Correcto! "Por ejemplo" o "A modo de ilustración" sirven para concretar y demostrar la afirmación general anterior. -->
-- [ ] B) No obstante <!-- feedback: Incorrecto. Es un conector adverso-restrictivo. -->
+- [x] B) Por ejemplo <!-- feedback: ¡Correcto! "Por ejemplo" o "A modo de ilustración" sirven para concretar y demostrar la afirmación general anterior. -->
+- [ ] A) No obstante <!-- feedback: Incorrecto. Es un conector adverso-restrictivo. -->
 - [ ] C) En suma <!-- feedback: Incorrecto. Es un conector conclusivo o de recapitulación. -->
 - [ ] D) Por ende <!-- feedback: Incorrecto. Es un conector consecutivo de deducción. -->
 
@@ -182,9 +182,9 @@ La paráfrasis académica implica procesar y expresar con las propias palabras d
 Lea la frase: 'Le entregué el informe al profesor'. ¿Qué tipo de referencia pronominal se produce con el pronombre 'Le' que anticipa a 'al profesor'?
 
 ### Opciones
-- [x] A) Catáfora (referencia catafórica) <!-- feedback: ¡Correcto! Ocurre cuando una palabra (el pronombre "Le") alude a un elemento que se menciona posteriormente en el discurso ("al profesor"). -->
-- [ ] B) Anáfora <!-- feedback: Incorrecto. Ocurre cuando el pronombre sustituye a un término mencionado con anterioridad. -->
-- [ ] C) Deixis de lugar <!-- feedback: Incorrecto. Corresponde a adverbios como "aquí" o "allí". -->
+- [x] C) Catáfora (referencia catafórica) <!-- feedback: ¡Correcto! Ocurre cuando una palabra (el pronombre "Le") alude a un elemento que se menciona posteriormente en el discurso ("al profesor"). -->
+- [ ] A) Anáfora <!-- feedback: Incorrecto. Ocurre cuando el pronombre sustituye a un término mencionado con anterioridad. -->
+- [ ] B) Deixis de lugar <!-- feedback: Incorrecto. Corresponde a adverbios como "aquí" o "allí". -->
 - [ ] D) Elipsis verbal <!-- feedback: Incorrecto. Es la omisión de un verbo sobrentendido. -->
 
 ### Explicacion Pedagogica
@@ -224,8 +224,8 @@ La despersonalización discursiva (uso de 3.ª persona, pasiva refleja, voz impe
 ¿En qué orden se deben organizar las fuentes bibliográficas al final de un proyecto de investigación académica?
 
 ### Opciones
-- [x] A) Orden alfabético según el primer apellido de los autores. <!-- feedback: ¡Correcto! La lista de referencias se ordena alfabéticamente por el apellido paterno del autor principal. -->
-- [ ] B) Orden aleatorio según la preferencia del estudiante. <!-- feedback: Incorrecto. La bibliografía requiere una ordenación normalizada. -->
+- [x] B) Orden alfabético según el primer apellido de los autores. <!-- feedback: ¡Correcto! La lista de referencias se ordena alfabéticamente por el apellido paterno del autor principal. -->
+- [ ] A) Orden aleatorio según la preferencia del estudiante. <!-- feedback: Incorrecto. La bibliografía requiere una ordenación normalizada. -->
 - [ ] C) Orden de importancia del número de páginas del libro. <!-- feedback: Incorrecto. El número de páginas no determina el orden bibliográfico. -->
 - [ ] D) Orden cronológico por el día de compra del libro. <!-- feedback: Incorrecto. Criterio totalmente ajeno a las normas académicas. -->
 
@@ -245,10 +245,10 @@ Las normas internacionales de documentación (APA, Vancouver, MLA) estipulan que
 ¿Qué función cumple el párrafo de 'contraargumentación y refutación' en la economía de un ensayo persuasivo?
 
 ### Opciones
-- [x] A) Anticipar la postura de los opositores para invalidar sus razones mediante evidencias y consolidar la tesis propia. <!-- feedback: ¡Correcto! Demuestra la solidez de la posición del autor al demostrar que conoce los argumentos contrarios y puede desmontarlos. -->
-- [ ] B) Cambiar de opinión a mitad del escrito y darle la razón al oponente. <!-- feedback: Incorrecto. No abandona la tesis inicial, sino que la fortalece al refutar al adversario. -->
-- [ ] C) Aumentar el número de palabras sin aportar sentido. <!-- feedback: Incorrecto. La refutación es una estrategia argumentativa de alto nivel. -->
-- [ ] D) Confundir al lector para que no entienda el tema central. <!-- feedback: Incorrecto. Busca convencer mediante la solidez lógica. -->
+- [x] D) Anticipar la postura de los opositores para invalidar sus razones mediante evidencias y consolidar la tesis propia. <!-- feedback: ¡Correcto! Demuestra la solidez de la posición del autor al demostrar que conoce los argumentos contrarios y puede desmontarlos. -->
+- [ ] A) Cambiar de opinión a mitad del escrito y darle la razón al oponente. <!-- feedback: Incorrecto. No abandona la tesis inicial, sino que la fortalece al refutar al adversario. -->
+- [ ] B) Aumentar el número de palabras sin aportar sentido. <!-- feedback: Incorrecto. La refutación es una estrategia argumentativa de alto nivel. -->
+- [ ] C) Confundir al lector para que no entienda el tema central. <!-- feedback: Incorrecto. Busca convencer mediante la solidez lógica. -->
 
 ### Explicacion Pedagogica
 La contraargumentación fortalece la tesis propia al examinar críticamente las objeciones previsibles del contrario y demostrar su invalidez o insuficiencia.
@@ -287,10 +287,10 @@ La falacia ad hominem invalida o descalifica un argumento descalificando a la pe
 ¿Qué conector de reformulación es el más apropiado para reexpresar de forma más clara o precisa lo enunciado en el párrafo anterior?
 
 ### Opciones
-- [x] A) En otros términos (o dicho de otro modo) <!-- feedback: ¡Correcto! Los conectores reformuladores explican o aclaran con nuevas palabras lo expresado previamente. -->
-- [ ] B) Por el contrario <!-- feedback: Incorrecto. Introduce un contraste de oposición. -->
-- [ ] C) En primer lugar <!-- feedback: Incorrecto. Es un ordenador del discurso. -->
-- [ ] D) Sin embargo <!-- feedback: Incorrecto. Es un marcador adverso-rectificativo. -->
+- [x] D) En otros términos (o dicho de otro modo) <!-- feedback: ¡Correcto! Los conectores reformuladores explican o aclaran con nuevas palabras lo expresado previamente. -->
+- [ ] A) Por el contrario <!-- feedback: Incorrecto. Introduce un contraste de oposición. -->
+- [ ] B) En primer lugar <!-- feedback: Incorrecto. Es un ordenador del discurso. -->
+- [ ] C) Sin embargo <!-- feedback: Incorrecto. Es un marcador adverso-rectificativo. -->
 
 ### Explicacion Pedagogica
 Los conectores de reformulación explicativa ('es decir', 'dicho de otro modo', 'en otros términos') aclaran o simplifican un concepto complejo para asegurar la comprensión.
@@ -308,9 +308,9 @@ Los conectores de reformulación explicativa ('es decir', 'dicho de otro modo', 
 ¿Qué requisito metodológico debe cumplir una hipótesis en la introducción de una monografía académica?
 
 ### Opciones
-- [x] A) Ser una suposición clara, verazmente contrastable y formulada como respuesta tentativa al problema de investigación. <!-- feedback: ¡Correcto! La hipótesis plantea una explicación preliminar contrastable que guía toda la recolección de evidencia. -->
-- [ ] B) Ser un poema lírico de cinco estrofas sin relación con el tema. <!-- feedback: Incorrecto. La hipótesis es una proposición aseverativa rigurosa. -->
-- [ ] C) Ser un secreto que solo el docente debe conocer. <!-- feedback: Incorrecto. Debe estar expuesta con claridad en la introducción del trabajo. -->
+- [x] C) Ser una suposición clara, verazmente contrastable y formulada como respuesta tentativa al problema de investigación. <!-- feedback: ¡Correcto! La hipótesis plantea una explicación preliminar contrastable que guía toda la recolección de evidencia. -->
+- [ ] A) Ser un poema lírico de cinco estrofas sin relación con el tema. <!-- feedback: Incorrecto. La hipótesis es una proposición aseverativa rigurosa. -->
+- [ ] B) Ser un secreto que solo el docente debe conocer. <!-- feedback: Incorrecto. Debe estar expuesta con claridad en la introducción del trabajo. -->
 - [ ] D) Ser una lista de compras de laboratorio. <!-- feedback: Incorrecto. Carente de dimensión explicativa. -->
 
 ### Explicacion Pedagogica
@@ -350,10 +350,10 @@ Mientras el resumen condensa fielmente las ideas respetando la perspectiva del a
 ¿Qué conector concesivo permite admitir una objeción parcial sin invalidar la fuerza del argumento principal?
 
 ### Opciones
-- [x] A) Si bien (o a pesar de que) <!-- feedback: ¡Correcto! Los conectores concesivos admiten una dificultad u objeción pero no impiden el cumplimiento de la acción principal. -->
-- [ ] B) Por consiguiente <!-- feedback: Incorrecto. Es un marcador consecutivo de resultado. -->
-- [ ] C) En resumen <!-- feedback: Incorrecto. Es un marcador conclusivo. -->
-- [ ] D) Es decir <!-- feedback: Incorrecto. Es un marcador de explicativo. -->
+- [x] D) Si bien (o a pesar de que) <!-- feedback: ¡Correcto! Los conectores concesivos admiten una dificultad u objeción pero no impiden el cumplimiento de la acción principal. -->
+- [ ] A) Por consiguiente <!-- feedback: Incorrecto. Es un marcador consecutivo de resultado. -->
+- [ ] B) En resumen <!-- feedback: Incorrecto. Es un marcador conclusivo. -->
+- [ ] C) Es decir <!-- feedback: Incorrecto. Es un marcador de explicativo. -->
 
 ### Explicacion Pedagogica
 Los nexos concesivos ('a pesar de que', 'si bien', 'aunque') aceptan una premisa contraria limitada pero afirman la validez dominante de la conclusión.
@@ -371,10 +371,10 @@ Los nexos concesivos ('a pesar de que', 'si bien', 'aunque') aceptan una premisa
 ¿Por qué en un ensayo de nivel académico los argumentos respaldados por evidencias empíricas o datos estadísticos oficiales poseen mayor fuerza demostrativa que los basados en anécdotas personales?
 
 ### Opciones
-- [x] A) Porque los datos empíricos ofrecen representatividad y verificabilidad objetiva, mientras que la anécdota personal carece de valor generalizable. <!-- feedback: ¡Correcto! La evidencia científica y estadística trasciende la vivencia particular aportando validez universal y contrastable. -->
-- [ ] B) Porque las anécdotas personales están prohibidas por la legislación educativa. <!-- feedback: Incorrecto. No se trata de una prohibición legal sino de rigor epistémico. -->
-- [ ] C) Porque los datos estadísticos son siempre invenciones poéticas del autor. <!-- feedback: Incorrecto. Los datos estadísticos deben ser veraces y verificables. -->
-- [ ] D) Porque las anécdotas personales son demasiado largas de escribir. <!-- feedback: Incorrecto. Criterio de extensión totalmente irrisorio. -->
+- [x] D) Porque los datos empíricos ofrecen representatividad y verificabilidad objetiva, mientras que la anécdota personal carece de valor generalizable. <!-- feedback: ¡Correcto! La evidencia científica y estadística trasciende la vivencia particular aportando validez universal y contrastable. -->
+- [ ] A) Porque las anécdotas personales están prohibidas por la legislación educativa. <!-- feedback: Incorrecto. No se trata de una prohibición legal sino de rigor epistémico. -->
+- [ ] B) Porque los datos estadísticos son siempre invenciones poéticas del autor. <!-- feedback: Incorrecto. Los datos estadísticos deben ser veraces y verificables. -->
+- [ ] C) Porque las anécdotas personales son demasiado largas de escribir. <!-- feedback: Incorrecto. Criterio de extensión totalmente irrisorio. -->
 
 ### Explicacion Pedagogica
 En el discurso académico formal, los argumentos de hecho y basados en estudios estadísticos aportan rigor, verificabilidad e imparcialidad, superando el sesgo subjetivo del testimonio individual.
@@ -413,10 +413,10 @@ La justificación de un proyecto expone las razones científicas, sociales o pr�
 ¿Cuál debe ser la actitud discursiva del autor en el párrafo de conclusión de un ensayo académico?
 
 ### Opciones
-- [x] A) Sintetizar los aportes comprobados, reafirmar la tesis con autoridad argumentativa y proyectar nuevas preguntas o implicaciones del tema. <!-- feedback: ¡Correcto! La conclusión retoma los hilos argumentativos consolidados y ofrece un cierre reflexivo de proyección futura. -->
-- [ ] B) Introducir un tema totalmente nuevo sin relación con la tesis inicial. <!-- feedback: Incorrecto. Rompería la coherencia global del escrito. -->
-- [ ] C) Copiar una página entera de un autor extranjero sin comentario alguno. <!-- feedback: Incorrecto. La conclusión debe expresar la voz analítica propia del estudiante. -->
-- [ ] D) Pedir disculpas por haber redactado el ensayo. <!-- feedback: Incorrecto. Muestra falta de solvencia e inseguridad académica. -->
+- [x] D) Sintetizar los aportes comprobados, reafirmar la tesis con autoridad argumentativa y proyectar nuevas preguntas o implicaciones del tema. <!-- feedback: ¡Correcto! La conclusión retoma los hilos argumentativos consolidados y ofrece un cierre reflexivo de proyección futura. -->
+- [ ] A) Introducir un tema totalmente nuevo sin relación con la tesis inicial. <!-- feedback: Incorrecto. Rompería la coherencia global del escrito. -->
+- [ ] B) Copiar una página entera de un autor extranjero sin comentario alguno. <!-- feedback: Incorrecto. La conclusión debe expresar la voz analítica propia del estudiante. -->
+- [ ] C) Pedir disculpas por haber redactado el ensayo. <!-- feedback: Incorrecto. Muestra falta de solvencia e inseguridad académica. -->
 
 ### Explicacion Pedagogica
 La conclusión articula la síntesis de las evidencias expuestas con el juicio crítico final del autor, abriendo horizontes para futuras líneas de investigación.
@@ -434,9 +434,9 @@ La conclusión articula la síntesis de las evidencias expuestas con el juicio c
 ¿Cuál de las siguientes acciones constituye un caso directo de plagio académico punible en las instituciones de educación superior?
 
 ### Opciones
-- [x] A) Presentar un trabajo escrito por otra persona o generado por inteligencia artificial como si fuera de autoría propia sin la debida declaración. <!-- feedback: ¡Correcto! Apropiarse del trabajo intelectual ajeno (humano o artificial) atribuyéndoselo como propio atenta contra la integridad académica. -->
-- [ ] B) Citar entre comillas a un autor mencionando la fuente bibliográfica en la referencia. <!-- feedback: Incorrecto. Es la práctica ética y correcta de atribuir autoría. -->
-- [ ] C) Parfrasear una idea indicando el nombre del autor original y el año de publicación. <!-- feedback: Incorrecto. Es un procedimiento de citación válido. -->
+- [x] C) Presentar un trabajo escrito por otra persona o generado por inteligencia artificial como si fuera de autoría propia sin la debida declaración. <!-- feedback: ¡Correcto! Apropiarse del trabajo intelectual ajeno (humano o artificial) atribuyéndoselo como propio atenta contra la integridad académica. -->
+- [ ] A) Citar entre comillas a un autor mencionando la fuente bibliográfica en la referencia. <!-- feedback: Incorrecto. Es la práctica ética y correcta de atribuir autoría. -->
+- [ ] B) Parfrasear una idea indicando el nombre del autor original y el año de publicación. <!-- feedback: Incorrecto. Es un procedimiento de citación válido. -->
 - [ ] D) Consultar diccionarios oficiales para verificar la ortografía de una palabra. <!-- feedback: Incorrecto. Es una consulta lexicográfica totalmente legítima. -->
 
 ### Explicacion Pedagogica

@@ -32,9 +32,9 @@ creador: "Jules-Agent"
 ### Opciones
 - [ ] A) 90°
   <!-- feedback: Incorrecto. Este es el valor de un ángulo recto. -->
-- [x] B) 180°
+- [x] C) 180°
   <!-- feedback: Correcto. Por teorema fundamental de la geometría euclidiana, la suma de los ángulos internos de un triángulo siempre es 180°. -->
-- [ ] C) 360°
+- [ ] B) 360°
   <!-- feedback: Incorrecto. Esta es la suma de los ángulos externos o de los internos de un cuadrilátero. -->
 - [ ] D) 270°
   <!-- feedback: Incorrecto. No corresponde a la suma de ángulos internos de un polígono básico. -->
@@ -55,11 +55,11 @@ La propiedad de la suma de los ángulos internos ($180°$) es la base para resol
 ¿Cómo se llama el triángulo que tiene sus tres lados de diferente longitud?
 
 ### Opciones
-- [ ] A) Isósceles.
+- [ ] B) Isósceles.
   <!-- feedback: Incorrecto. El isósceles tiene al menos dos lados iguales. -->
-- [ ] B) Equilátero.
+- [ ] C) Equilátero.
   <!-- feedback: Incorrecto. El equilátero tiene los tres lados iguales. -->
-- [x] C) Escaleno.
+- [x] A) Escaleno.
   <!-- feedback: Correcto. Un triángulo escaleno es aquel cuyos tres lados poseen medidas distintas. -->
 - [ ] D) Rectángulo.
   <!-- feedback: Incorrecto. Esta es una clasificación según sus ángulos, no sus lados. -->
@@ -82,9 +82,9 @@ En un triángulo, un ángulo exterior mide 110°. Si uno de los ángulos interno
 ### Opciones
 - [ ] A) 150°
   <!-- feedback: Incorrecto. La suma de ángulos internos no puede exceder 180°. -->
-- [x] B) 70°
+- [x] C) 70°
   <!-- feedback: Correcto. Por propiedad, el ángulo exterior es igual a la suma de los dos internos no adyacentes: $110 = 40 + x \Rightarrow x = 70$. -->
-- [ ] C) 30°
+- [ ] B) 30°
   <!-- feedback: Incorrecto. $40 + 30 = 70$, lo cual no coincide con el ángulo exterior de 110. -->
 - [ ] D) 40°
   <!-- feedback: Incorrecto. El triángulo no es necesariamente isósceles. -->
@@ -107,9 +107,9 @@ El Teorema del Ángulo Exterior establece que la medida de un ángulo exterior d
 ### Opciones
 - [ ] A) 3 cm, 4 cm, 5 cm
   <!-- feedback: Incorrecto. Cumple la desigualdad: $3+4 > 5$. -->
-- [ ] B) 10 cm, 10 cm, 10 cm
+- [ ] C) 10 cm, 10 cm, 10 cm
   <!-- feedback: Incorrecto. Es un triángulo equilátero perfectamente válido. -->
-- [x] C) 2 cm, 5 cm, 8 cm
+- [x] B) 2 cm, 5 cm, 8 cm
   <!-- feedback: Correcto. Según la desigualdad triangular, la suma de dos lados debe ser mayor al tercero. $2 + 5 = 7$, que es menor que 8, por lo que no cierra el triángulo. -->
 - [ ] D) 7 cm, 8 cm, 9 cm
   <!-- feedback: Incorrecto. Satisface todas las condiciones de la desigualdad triangular. -->
@@ -207,11 +207,11 @@ En un triángulo $ABC$, se traza la bisectriz interior $BD$. Si el ángulo $A$ m
 ### Opciones
 - [ ] A) 40°
   <!-- feedback: Incorrecto. No consideró la suma de ángulos en el triángulo parcial $ABD$. -->
-- [x] B) 70°
+- [x] D) 70°
   <!-- feedback: Correcto. Ángulo $B$ total $= 180 - (70+30) = 80°$. La bisectriz $BD$ da dos ángulos de 40°. En el triángulo $ABD$: Ángulo $ADB = 180 - (70 + 40) = 70°$. -->
-- [ ] C) 80°
+- [ ] B) 80°
   <!-- feedback: Incorrecto. Este es el valor del ángulo $B$ original. -->
-- [ ] D) 110°
+- [ ] C) 110°
   <!-- feedback: Incorrecto. Este sería el ángulo suplementario (su exterior). -->
 
 ### Explicacion Pedagogica
@@ -257,9 +257,9 @@ En un triángulo $ABC$, se sabe que $A = 80°$ y $B = 40°$. ¿Cuál es el orden
 ### Opciones
 - [ ] A) $a < b < c$
   <!-- feedback: Incorrecto. El lado $a$ se opone al ángulo más grande, por lo que debe ser el mayor. -->
-- [ ] B) $c < b < a$
+- [ ] C) $c < b < a$
   <!-- feedback: Incorrecto. El ángulo $C$ es $60°$, que es mayor que el de $40°$. -->
-- [x] C) $b < c < a$
+- [x] B) $b < c < a$
   <!-- feedback: Correcto. Ángulo $C = 180 - (80+40) = 60°$. Orden de ángulos: $B(40) < C(60) < A(80)$. Por propiedad de correspondencia, los lados siguen el mismo orden: $b < c < a$. -->
 - [ ] D) $a < c < b$
   <!-- feedback: Incorrecto. Contradice la regla de a mayor ángulo se opone mayor lado. -->
@@ -280,9 +280,9 @@ La Propiedad de Correspondencia establece que en todo triángulo, al ángulo de 
 En un triángulo $ABC$, $G$ es el baricentro y $AM$ es una mediana. Si el segmento $AG$ mide 10 cm, ¿cuánto mide la mediana completa $AM$?
 
 ### Opciones
-- [ ] A) 20 cm
+- [ ] B) 20 cm
   <!-- feedback: Incorrecto. El baricentro no divide a la mediana por la mitad. -->
-- [x] B) 15 cm
+- [x] A) 15 cm
   <!-- feedback: Correcto. El baricentro divide a la mediana en relación 2:1. Si $AG = 10$, entonces $GM = 5$. La mediana completa es $10 + 5 = 15$. -->
 - [ ] C) 30 cm
   <!-- feedback: Incorrecto. Multiplicó por un factor erróneo. -->
@@ -307,9 +307,9 @@ Halle el área de un triángulo cuyos lados miden 13, 14 y 15 metros.
 ### Opciones
 - [ ] A) 90 m²
   <!-- feedback: Incorrecto. Error en el cálculo del semiperímetro o en la multiplicación final. -->
-- [x] B) 84 m²
+- [x] C) 84 m²
   <!-- feedback: Correcto. Semiperímetro $s = (13+14+15)/2 = 21$. Área $= \sqrt{21(21-13)(21-14)(21-15)} = \sqrt{21 \cdot 8 \cdot 7 \cdot 6} = \sqrt{7056} = 84$. -->
-- [ ] C) 42 m²
+- [ ] B) 42 m²
   <!-- feedback: Incorrecto. Olvidó que la raíz de 7056 no es 42. -->
 - [ ] D) 105 m²
   <!-- feedback: Incorrecto. No aplicó correctamente la fórmula de Herón. -->
@@ -330,9 +330,9 @@ Cuando se conocen los tres lados de un triángulo, se utiliza la fórmula de Her
 En un triángulo rectángulo de ángulos 30° y 60°, el cateto que se opone al ángulo de 30° mide 5 cm. ¿Cuánto mide la hipotenusa?
 
 ### Opciones
-- [ ] A) $5\sqrt{3}$ cm
+- [ ] B) $5\sqrt{3}$ cm
   <!-- feedback: Incorrecto. Esta es la medida del cateto mayor (adyacente a 30°). -->
-- [x] B) 10 cm
+- [x] A) 10 cm
   <!-- feedback: Correcto. En el triángulo notable 30-60, la hipotenusa es siempre el doble del cateto menor (opuesto a 30°). -->
 - [ ] C) $10\sqrt{3}$ cm
   <!-- feedback: Incorrecto. Error en la relación de semejanza del triángulo notable. -->
@@ -357,9 +357,9 @@ En un triángulo $ABC$, $AB = 6$ y $BC = 4$. Se traza la bisectriz exterior del 
 ### Opciones
 - [ ] A) 5
   <!-- feedback: Incorrecto. Aplicó mal la proporción del teorema. -->
-- [x] B) 10
+- [x] C) 10
   <!-- feedback: Correcto. Teorema: $AB / BC = AE / CE$. Sea $CE = x$. Entonces $6 / 4 = (5 + x) / x \Rightarrow 6x = 20 + 4x \Rightarrow 2x = 20 \Rightarrow x = 10$. -->
-- [ ] C) 7.5
+- [ ] B) 7.5
   <!-- feedback: Incorrecto. Error en el despeje de la ecuación de proporciones. -->
 - [ ] D) 15
   <!-- feedback: Incorrecto. Valor obtenido por una interpretación errónea de la extensión del segmento. -->
@@ -382,9 +382,9 @@ En un triángulo rectángulo, la mediana relativa a la hipotenusa mide 8 cm. ¿C
 ### Opciones
 - [ ] A) 16$\pi$ cm²
   <!-- feedback: Incorrecto. 16 es el diámetro, no el radio elevado al cuadrado. -->
-- [x] B) 64$\pi$ cm²
+- [x] C) 64$\pi$ cm²
   <!-- feedback: Correcto. En un triángulo rectángulo, la mediana a la hipotenusa mide la mitad de esta. Entonces hipotenusa $= 16$. El radio del círculo circunscrito es la mitad de la hipotenusa: $R = 8$. Área $= \pi \cdot 8^2 = 64\pi$. -->
-- [ ] C) 32$\pi$ cm²
+- [ ] B) 32$\pi$ cm²
   <!-- feedback: Incorrecto. Error en la aplicación de la fórmula del área del círculo. -->
 - [ ] D) 256$\pi$ cm²
   <!-- feedback: Incorrecto. Usó el valor de la hipotenusa como radio. -->
@@ -407,11 +407,11 @@ Dado un triángulo equilátero de lado $L$. Si un punto $P$ se encuentra en el i
 ### Opciones
 - [ ] A) Igual al lado $L$ del triángulo.
   <!-- feedback: Incorrecto. La suma de distancias se relaciona con la altura, no con el lado directamente. -->
-- [x] B) Igual a la altura del triángulo.
+- [x] D) Igual a la altura del triángulo.
   <!-- feedback: Correcto. Según el Teorema de Viviani, para un triángulo equilátero, la suma de las distancias desde un punto interior a los lados es igual a la longitud de su altura. -->
-- [ ] C) Igual al perímetro del triángulo.
+- [ ] B) Igual al perímetro del triángulo.
   <!-- feedback: Incorrecto. Magnitud físicamente desproporcionada. -->
-- [ ] D) Depende de la posición del punto $P$.
+- [ ] C) Depende de la posición del punto $P$.
   <!-- feedback: Incorrecto. Por el Teorema de Viviani, esta suma es invariante para cualquier punto interior. -->
 
 ### Explicacion Pedagogica
@@ -457,9 +457,9 @@ En un triángulo $ABC$, el ángulo $B$ mide 100° y el ángulo $C$ mide 20°. Se
 ### Opciones
 - [ ] A) 20°
   <!-- feedback: Incorrecto. Valor obtenido por una suposición de isósceles incorrecta. -->
-- [x] B) 10°
+- [x] C) 10°
   <!-- feedback: Correcto. Es un problema clásico que requiere trazos auxiliares (triángulo equilátero exterior). Mediante congruencia de triángulos se demuestra que el ángulo buscado es la mitad del ángulo $C$, resultando en 10°. -->
-- [ ] C) 40°
+- [ ] B) 40°
   <!-- feedback: Incorrecto. Sobreestima la apertura del ángulo solicitado. -->
 - [ ] D) 15°
   <!-- feedback: Incorrecto. Error en la resolución del sistema de ángulos internos. -->
@@ -505,9 +505,9 @@ El Teorema de Ceva establece que tres cevianas son concurrentes si y solo si el 
 Halle la distancia entre el incentro y el circuncentro de un triángulo rectángulo cuyos catetos miden 6 y 8 cm.
 
 ### Opciones
-- [ ] A) 2 cm
+- [ ] B) 2 cm
   <!-- feedback: Incorrecto. Aproximación errónea. -->
-- [x] B) $\sqrt{5}$ cm
+- [x] A) $\sqrt{5}$ cm
   <!-- feedback: Correcto. Hipotenusa $= 10$. Inradio $r = (6+8-10)/2 = 2$. Circunradio $R = 5$. Fórmula de Euler: $d^2 = R(R - 2r)$. $d^2 = 5(5 - 4) = 5 \Rightarrow d = \sqrt{5}$. -->
 - [ ] C) $\sqrt{3}$ cm
   <!-- feedback: Incorrecto. Error al aplicar la fórmula de Euler. -->

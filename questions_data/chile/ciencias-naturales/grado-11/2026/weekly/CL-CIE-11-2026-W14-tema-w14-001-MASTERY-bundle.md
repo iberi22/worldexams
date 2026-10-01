@@ -30,8 +30,8 @@ creador: "Jules-Agent"
 Una onda sonora de frecuencia $170 \text{ Hz}$ viaja por el aire a una velocidad de $340 \text{ m/s}$ en Santiago. ¿Cuál es su longitud de onda $\lambda$?
 
 ### Opciones
-- [x] A) $2.000 \text{ m}$ <!-- feedback: ¡Correcto! lambda = v/f = 340/170 = 2.000 m. -->
-- [ ] B) $20.000 \text{ m}$ <!-- feedback: Incorrecto. Error en la escala decimal. -->
+- [x] B) $2.000 \text{ m}$ <!-- feedback: ¡Correcto! lambda = v/f = 340/170 = 2.000 m. -->
+- [ ] A) $20.000 \text{ m}$ <!-- feedback: Incorrecto. Error en la escala decimal. -->
 - [ ] C) $0.500 \text{ m}$ <!-- feedback: Incorrecto. Dividiste frecuencia por velocidad. -->
 - [ ] D) $57800 \text{ m}$ <!-- feedback: Incorrecto. Multiplicaste velocidad por frecuencia. -->
 
@@ -49,8 +49,8 @@ La longitud de onda se calcula como lambda = v/f = 340/170 = 2.000 m.
 Una onda sonora de frecuencia $190 \text{ Hz}$ viaja por el aire a una velocidad de $340 \text{ m/s}$ en Valparaíso. ¿Cuál es su longitud de onda $\lambda$?
 
 ### Opciones
-- [x] A) $1.789 \text{ m}$ <!-- feedback: ¡Correcto! lambda = v/f = 340/190 = 1.789 m. -->
-- [ ] B) $17.895 \text{ m}$ <!-- feedback: Incorrecto. Error en la escala decimal. -->
+- [x] B) $1.789 \text{ m}$ <!-- feedback: ¡Correcto! lambda = v/f = 340/190 = 1.789 m. -->
+- [ ] A) $17.895 \text{ m}$ <!-- feedback: Incorrecto. Error en la escala decimal. -->
 - [ ] C) $0.559 \text{ m}$ <!-- feedback: Incorrecto. Dividiste frecuencia por velocidad. -->
 - [ ] D) $64600 \text{ m}$ <!-- feedback: Incorrecto. Multiplicaste velocidad por frecuencia. -->
 
@@ -68,10 +68,10 @@ La longitud de onda se calcula como lambda = v/f = 340/190 = 1.789 m.
 Una onda sonora de frecuencia $210 \text{ Hz}$ viaja por el aire a una velocidad de $340 \text{ m/s}$ en Concepción. ¿Cuál es su longitud de onda $\lambda$?
 
 ### Opciones
-- [x] A) $1.619 \text{ m}$ <!-- feedback: ¡Correcto! lambda = v/f = 340/210 = 1.619 m. -->
-- [ ] B) $16.190 \text{ m}$ <!-- feedback: Incorrecto. Error en la escala decimal. -->
-- [ ] C) $0.618 \text{ m}$ <!-- feedback: Incorrecto. Dividiste frecuencia por velocidad. -->
-- [ ] D) $71400 \text{ m}$ <!-- feedback: Incorrecto. Multiplicaste velocidad por frecuencia. -->
+- [x] D) $1.619 \text{ m}$ <!-- feedback: ¡Correcto! lambda = v/f = 340/210 = 1.619 m. -->
+- [ ] A) $16.190 \text{ m}$ <!-- feedback: Incorrecto. Error en la escala decimal. -->
+- [ ] B) $0.618 \text{ m}$ <!-- feedback: Incorrecto. Dividiste frecuencia por velocidad. -->
+- [ ] C) $71400 \text{ m}$ <!-- feedback: Incorrecto. Multiplicaste velocidad por frecuencia. -->
 
 ### Explicacion Pedagogica
 La longitud de onda se calcula como lambda = v/f = 340/210 = 1.619 m.
@@ -87,9 +87,9 @@ La longitud de onda se calcula como lambda = v/f = 340/210 = 1.619 m.
 Una onda sonora de frecuencia $230 \text{ Hz}$ viaja por el aire a una velocidad de $340 \text{ m/s}$ en Antofagasta. ¿Cuál es su longitud de onda $\lambda$?
 
 ### Opciones
-- [x] A) $1.478 \text{ m}$ <!-- feedback: ¡Correcto! lambda = v/f = 340/230 = 1.478 m. -->
-- [ ] B) $14.783 \text{ m}$ <!-- feedback: Incorrecto. Error en la escala decimal. -->
-- [ ] C) $0.676 \text{ m}$ <!-- feedback: Incorrecto. Dividiste frecuencia por velocidad. -->
+- [x] C) $1.478 \text{ m}$ <!-- feedback: ¡Correcto! lambda = v/f = 340/230 = 1.478 m. -->
+- [ ] A) $14.783 \text{ m}$ <!-- feedback: Incorrecto. Error en la escala decimal. -->
+- [ ] B) $0.676 \text{ m}$ <!-- feedback: Incorrecto. Dividiste frecuencia por velocidad. -->
 - [ ] D) $78200 \text{ m}$ <!-- feedback: Incorrecto. Multiplicaste velocidad por frecuencia. -->
 
 ### Explicacion Pedagogica
@@ -163,9 +163,9 @@ La longitud de onda se calcula como lambda = v/f = 340/290 = 1.172 m.
 Una onda sonora de frecuencia $310 \text{ Hz}$ viaja por el aire a una velocidad de $340 \text{ m/s}$ en Iquique. ¿Cuál es su longitud de onda $\lambda$?
 
 ### Opciones
-- [x] A) $1.097 \text{ m}$ <!-- feedback: ¡Correcto! lambda = v/f = 340/310 = 1.097 m. -->
-- [ ] B) $10.968 \text{ m}$ <!-- feedback: Incorrecto. Error en la escala decimal. -->
-- [ ] C) $0.912 \text{ m}$ <!-- feedback: Incorrecto. Dividiste frecuencia por velocidad. -->
+- [x] C) $1.097 \text{ m}$ <!-- feedback: ¡Correcto! lambda = v/f = 340/310 = 1.097 m. -->
+- [ ] A) $10.968 \text{ m}$ <!-- feedback: Incorrecto. Error en la escala decimal. -->
+- [ ] B) $0.912 \text{ m}$ <!-- feedback: Incorrecto. Dividiste frecuencia por velocidad. -->
 - [ ] D) $105400 \text{ m}$ <!-- feedback: Incorrecto. Multiplicaste velocidad por frecuencia. -->
 
 ### Explicacion Pedagogica
@@ -182,9 +182,9 @@ La longitud de onda se calcula como lambda = v/f = 340/310 = 1.097 m.
 Una onda sonora de frecuencia $330 \text{ Hz}$ viaja por el aire a una velocidad de $340 \text{ m/s}$ en Rancagua. ¿Cuál es su longitud de onda $\lambda$?
 
 ### Opciones
-- [x] A) $1.030 \text{ m}$ <!-- feedback: ¡Correcto! lambda = v/f = 340/330 = 1.030 m. -->
-- [ ] B) $10.303 \text{ m}$ <!-- feedback: Incorrecto. Error en la escala decimal. -->
-- [ ] C) $0.971 \text{ m}$ <!-- feedback: Incorrecto. Dividiste frecuencia por velocidad. -->
+- [x] C) $1.030 \text{ m}$ <!-- feedback: ¡Correcto! lambda = v/f = 340/330 = 1.030 m. -->
+- [ ] A) $10.303 \text{ m}$ <!-- feedback: Incorrecto. Error en la escala decimal. -->
+- [ ] B) $0.971 \text{ m}$ <!-- feedback: Incorrecto. Dividiste frecuencia por velocidad. -->
 - [ ] D) $112200 \text{ m}$ <!-- feedback: Incorrecto. Multiplicaste velocidad por frecuencia. -->
 
 ### Explicacion Pedagogica
@@ -239,10 +239,10 @@ La longitud de onda se calcula como lambda = v/f = 340/370 = 0.919 m.
 Una onda sonora de frecuencia $390 \text{ Hz}$ viaja por el aire a una velocidad de $340 \text{ m/s}$ en Puerto Montt. ¿Cuál es su longitud de onda $\lambda$?
 
 ### Opciones
-- [x] A) $0.872 \text{ m}$ <!-- feedback: ¡Correcto! lambda = v/f = 340/390 = 0.872 m. -->
-- [ ] B) $8.718 \text{ m}$ <!-- feedback: Incorrecto. Error en la escala decimal. -->
-- [ ] C) $1.147 \text{ m}$ <!-- feedback: Incorrecto. Dividiste frecuencia por velocidad. -->
-- [ ] D) $132600 \text{ m}$ <!-- feedback: Incorrecto. Multiplicaste velocidad por frecuencia. -->
+- [x] D) $0.872 \text{ m}$ <!-- feedback: ¡Correcto! lambda = v/f = 340/390 = 0.872 m. -->
+- [ ] A) $8.718 \text{ m}$ <!-- feedback: Incorrecto. Error en la escala decimal. -->
+- [ ] B) $1.147 \text{ m}$ <!-- feedback: Incorrecto. Dividiste frecuencia por velocidad. -->
+- [ ] C) $132600 \text{ m}$ <!-- feedback: Incorrecto. Multiplicaste velocidad por frecuencia. -->
 
 ### Explicacion Pedagogica
 La longitud de onda se calcula como lambda = v/f = 340/390 = 0.872 m.
@@ -258,8 +258,8 @@ La longitud de onda se calcula como lambda = v/f = 340/390 = 0.872 m.
 Una onda sonora de frecuencia $410 \text{ Hz}$ viaja por el aire a una velocidad de $340 \text{ m/s}$ en Chillán. ¿Cuál es su longitud de onda $\lambda$?
 
 ### Opciones
-- [x] A) $0.829 \text{ m}$ <!-- feedback: ¡Correcto! lambda = v/f = 340/410 = 0.829 m. -->
-- [ ] B) $8.293 \text{ m}$ <!-- feedback: Incorrecto. Error en la escala decimal. -->
+- [x] B) $0.829 \text{ m}$ <!-- feedback: ¡Correcto! lambda = v/f = 340/410 = 0.829 m. -->
+- [ ] A) $8.293 \text{ m}$ <!-- feedback: Incorrecto. Error en la escala decimal. -->
 - [ ] C) $1.206 \text{ m}$ <!-- feedback: Incorrecto. Dividiste frecuencia por velocidad. -->
 - [ ] D) $139400 \text{ m}$ <!-- feedback: Incorrecto. Multiplicaste velocidad por frecuencia. -->
 
@@ -296,10 +296,10 @@ La longitud de onda se calcula como lambda = v/f = 340/430 = 0.791 m.
 Una onda sonora de frecuencia $450 \text{ Hz}$ viaja por el aire a una velocidad de $340 \text{ m/s}$ en Valdivia. ¿Cuál es su longitud de onda $\lambda$?
 
 ### Opciones
-- [x] A) $0.756 \text{ m}$ <!-- feedback: ¡Correcto! lambda = v/f = 340/450 = 0.756 m. -->
-- [ ] B) $7.556 \text{ m}$ <!-- feedback: Incorrecto. Error en la escala decimal. -->
-- [ ] C) $1.324 \text{ m}$ <!-- feedback: Incorrecto. Dividiste frecuencia por velocidad. -->
-- [ ] D) $153000 \text{ m}$ <!-- feedback: Incorrecto. Multiplicaste velocidad por frecuencia. -->
+- [x] D) $0.756 \text{ m}$ <!-- feedback: ¡Correcto! lambda = v/f = 340/450 = 0.756 m. -->
+- [ ] A) $7.556 \text{ m}$ <!-- feedback: Incorrecto. Error en la escala decimal. -->
+- [ ] B) $1.324 \text{ m}$ <!-- feedback: Incorrecto. Dividiste frecuencia por velocidad. -->
+- [ ] C) $153000 \text{ m}$ <!-- feedback: Incorrecto. Multiplicaste velocidad por frecuencia. -->
 
 ### Explicacion Pedagogica
 La longitud de onda se calcula como lambda = v/f = 340/450 = 0.756 m.
@@ -315,10 +315,10 @@ La longitud de onda se calcula como lambda = v/f = 340/450 = 0.756 m.
 Una onda sonora de frecuencia $470 \text{ Hz}$ viaja por el aire a una velocidad de $340 \text{ m/s}$ en Santiago. ¿Cuál es su longitud de onda $\lambda$?
 
 ### Opciones
-- [x] A) $0.723 \text{ m}$ <!-- feedback: ¡Correcto! lambda = v/f = 340/470 = 0.723 m. -->
-- [ ] B) $7.234 \text{ m}$ <!-- feedback: Incorrecto. Error en la escala decimal. -->
-- [ ] C) $1.382 \text{ m}$ <!-- feedback: Incorrecto. Dividiste frecuencia por velocidad. -->
-- [ ] D) $159800 \text{ m}$ <!-- feedback: Incorrecto. Multiplicaste velocidad por frecuencia. -->
+- [x] D) $0.723 \text{ m}$ <!-- feedback: ¡Correcto! lambda = v/f = 340/470 = 0.723 m. -->
+- [ ] A) $7.234 \text{ m}$ <!-- feedback: Incorrecto. Error en la escala decimal. -->
+- [ ] B) $1.382 \text{ m}$ <!-- feedback: Incorrecto. Dividiste frecuencia por velocidad. -->
+- [ ] C) $159800 \text{ m}$ <!-- feedback: Incorrecto. Multiplicaste velocidad por frecuencia. -->
 
 ### Explicacion Pedagogica
 La longitud de onda se calcula como lambda = v/f = 340/470 = 0.723 m.
@@ -334,9 +334,9 @@ La longitud de onda se calcula como lambda = v/f = 340/470 = 0.723 m.
 Una onda sonora de frecuencia $490 \text{ Hz}$ viaja por el aire a una velocidad de $340 \text{ m/s}$ en Valparaíso. ¿Cuál es su longitud de onda $\lambda$?
 
 ### Opciones
-- [x] A) $0.694 \text{ m}$ <!-- feedback: ¡Correcto! lambda = v/f = 340/490 = 0.694 m. -->
-- [ ] B) $6.939 \text{ m}$ <!-- feedback: Incorrecto. Error en la escala decimal. -->
-- [ ] C) $1.441 \text{ m}$ <!-- feedback: Incorrecto. Dividiste frecuencia por velocidad. -->
+- [x] C) $0.694 \text{ m}$ <!-- feedback: ¡Correcto! lambda = v/f = 340/490 = 0.694 m. -->
+- [ ] A) $6.939 \text{ m}$ <!-- feedback: Incorrecto. Error en la escala decimal. -->
+- [ ] B) $1.441 \text{ m}$ <!-- feedback: Incorrecto. Dividiste frecuencia por velocidad. -->
 - [ ] D) $166600 \text{ m}$ <!-- feedback: Incorrecto. Multiplicaste velocidad por frecuencia. -->
 
 ### Explicacion Pedagogica
@@ -353,8 +353,8 @@ La longitud de onda se calcula como lambda = v/f = 340/490 = 0.694 m.
 Una onda sonora de frecuencia $510 \text{ Hz}$ viaja por el aire a una velocidad de $340 \text{ m/s}$ en Concepción. ¿Cuál es su longitud de onda $\lambda$?
 
 ### Opciones
-- [x] A) $0.667 \text{ m}$ <!-- feedback: ¡Correcto! lambda = v/f = 340/510 = 0.667 m. -->
-- [ ] B) $6.667 \text{ m}$ <!-- feedback: Incorrecto. Error en la escala decimal. -->
+- [x] B) $0.667 \text{ m}$ <!-- feedback: ¡Correcto! lambda = v/f = 340/510 = 0.667 m. -->
+- [ ] A) $6.667 \text{ m}$ <!-- feedback: Incorrecto. Error en la escala decimal. -->
 - [ ] C) $1.500 \text{ m}$ <!-- feedback: Incorrecto. Dividiste frecuencia por velocidad. -->
 - [ ] D) $173400 \text{ m}$ <!-- feedback: Incorrecto. Multiplicaste velocidad por frecuencia. -->
 
@@ -372,9 +372,9 @@ La longitud de onda se calcula como lambda = v/f = 340/510 = 0.667 m.
 Una onda sonora de frecuencia $530 \text{ Hz}$ viaja por el aire a una velocidad de $340 \text{ m/s}$ en Antofagasta. ¿Cuál es su longitud de onda $\lambda$?
 
 ### Opciones
-- [x] A) $0.642 \text{ m}$ <!-- feedback: ¡Correcto! lambda = v/f = 340/530 = 0.642 m. -->
-- [ ] B) $6.415 \text{ m}$ <!-- feedback: Incorrecto. Error en la escala decimal. -->
-- [ ] C) $1.559 \text{ m}$ <!-- feedback: Incorrecto. Dividiste frecuencia por velocidad. -->
+- [x] C) $0.642 \text{ m}$ <!-- feedback: ¡Correcto! lambda = v/f = 340/530 = 0.642 m. -->
+- [ ] A) $6.415 \text{ m}$ <!-- feedback: Incorrecto. Error en la escala decimal. -->
+- [ ] B) $1.559 \text{ m}$ <!-- feedback: Incorrecto. Dividiste frecuencia por velocidad. -->
 - [ ] D) $180200 \text{ m}$ <!-- feedback: Incorrecto. Multiplicaste velocidad por frecuencia. -->
 
 ### Explicacion Pedagogica
@@ -391,10 +391,10 @@ La longitud de onda se calcula como lambda = v/f = 340/530 = 0.642 m.
 Una onda sonora de frecuencia $550 \text{ Hz}$ viaja por el aire a una velocidad de $340 \text{ m/s}$ en Temuco. ¿Cuál es su longitud de onda $\lambda$?
 
 ### Opciones
-- [x] A) $0.618 \text{ m}$ <!-- feedback: ¡Correcto! lambda = v/f = 340/550 = 0.618 m. -->
-- [ ] B) $6.182 \text{ m}$ <!-- feedback: Incorrecto. Error en la escala decimal. -->
-- [ ] C) $1.618 \text{ m}$ <!-- feedback: Incorrecto. Dividiste frecuencia por velocidad. -->
-- [ ] D) $187000 \text{ m}$ <!-- feedback: Incorrecto. Multiplicaste velocidad por frecuencia. -->
+- [x] D) $0.618 \text{ m}$ <!-- feedback: ¡Correcto! lambda = v/f = 340/550 = 0.618 m. -->
+- [ ] A) $6.182 \text{ m}$ <!-- feedback: Incorrecto. Error en la escala decimal. -->
+- [ ] B) $1.618 \text{ m}$ <!-- feedback: Incorrecto. Dividiste frecuencia por velocidad. -->
+- [ ] C) $187000 \text{ m}$ <!-- feedback: Incorrecto. Multiplicaste velocidad por frecuencia. -->
 
 ### Explicacion Pedagogica
 La longitud de onda se calcula como lambda = v/f = 340/550 = 0.618 m.

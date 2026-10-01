@@ -34,9 +34,9 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) Un texto que describe detalladamente cómo es un objeto o lugar. <!-- feedback: Incorrecto. Eso es una descripción. -->
-- [x] B) El relato de una serie de sucesos o acontecimientos, reales o imaginarios, que les ocurren a unos personajes en un lugar y tiempo determinados. <!-- feedback: Correcto. La esencia de la narración es contar hechos que progresan en el tiempo. -->
-- [ ] C) Un diálogo entre dos personas para ponerse de acuerdo sobre un tema. <!-- feedback: Incorrecto. Eso es una conversación o debate. -->
-- [ ] D) Una lista de instrucciones para preparar una comida típica colombiana. <!-- feedback: Incorrecto. Eso es un texto instructivo. -->
+- [x] D) El relato de una serie de sucesos o acontecimientos, reales o imaginarios, que les ocurren a unos personajes en un lugar y tiempo determinados. <!-- feedback: Correcto. La esencia de la narración es contar hechos que progresan en el tiempo. -->
+- [ ] B) Un diálogo entre dos personas para ponerse de acuerdo sobre un tema. <!-- feedback: Incorrecto. Eso es una conversación o debate. -->
+- [ ] C) Una lista de instrucciones para preparar una comida típica colombiana. <!-- feedback: Incorrecto. Eso es un texto instructivo. -->
 
 ### Explicacion Pedagogica
 La narración se caracteriza por la presencia de acciones o eventos que se desarrollan cronológicamente. Los elementos básicos son: narrador, personajes, tiempo, espacio y trama (acciones).
@@ -76,8 +76,8 @@ Casi todas las narraciones siguen una estructura básica: el Inicio presenta a l
 
 ### Opciones
 - [ ] A) Narrador omnisciente, porque sabe todo lo que pasa. <!-- feedback: Incorrecto. El narrador habla en primera persona ("Yo"), no desde afuera. -->
-- [x] B) Narrador protagonista, porque participa directamente en la historia y habla en primera persona. <!-- feedback: Correcto. El uso del "yo" indica que el personaje principal es quien cuenta su propia historia. -->
-- [ ] C) Narrador testigo, porque cuenta lo que le pasa a otra persona. <!-- feedback: Incorrecto. El narrador habla de sus propias acciones ("Yo caminé"). -->
+- [x] C) Narrador protagonista, porque participa directamente en la historia y habla en primera persona. <!-- feedback: Correcto. El uso del "yo" indica que el personaje principal es quien cuenta su propia historia. -->
+- [ ] B) Narrador testigo, porque cuenta lo que le pasa a otra persona. <!-- feedback: Incorrecto. El narrador habla de sus propias acciones ("Yo caminé"). -->
 - [ ] D) Narrador en tercera persona neutral. <!-- feedback: Incorrecto. La primera persona es evidente en los verbos. -->
 
 ### Explicacion Pedagogica
@@ -96,8 +96,8 @@ El punto de vista o tipo de narrador determina cómo recibimos la historia. El n
 Para que su relato sea realmente un mito, ¿qué tipo de personajes debería incluir preferiblemente?
 
 ### Opciones
-- [ ] A) Personas reales del barrio con nombres y apellidos actuales. <!-- feedback: Incorrecto. Eso sería más propio de una crónica o anécdota. -->
-- [x] B) Dioses, seres sobrenaturales o héroes legendarios con poderes especiales. <!-- feedback: Correcto. Los mitos explican el origen del mundo a través de figuras sagradas o fantásticas. -->
+- [ ] B) Personas reales del barrio con nombres y apellidos actuales. <!-- feedback: Incorrecto. Eso sería más propio de una crónica o anécdota. -->
+- [x] A) Dioses, seres sobrenaturales o héroes legendarios con poderes especiales. <!-- feedback: Correcto. Los mitos explican el origen del mundo a través de figuras sagradas o fantásticas. -->
 - [ ] C) Animales que hablan y dejan una moraleja al final. <!-- feedback: Incorrecto. Eso es una fábula. -->
 - [ ] D) Científicos que investigan en un laboratorio moderno. <!-- feedback: Incorrecto. El mito pertenece a una explicación ancestral o sagrada, no científica. -->
 
@@ -118,8 +118,8 @@ El género narrativo incluye subgéneros como el mito, la leyenda, la fábula, e
 
 ### Opciones
 - [ ] A) Solo los personajes (el caballo). <!-- feedback: Incorrecto. El texto también da información de tiempo y lugar. -->
-- [ ] B) Solo el conflicto (que no tiene jinete). <!-- feedback: Incorrecto. El conflicto es solo una parte de lo que se lee. -->
-- [x] C) El tiempo (tres de la tarde) y el espacio o lugar (plaza de Villa de Leyva). <!-- feedback: Correcto. Estos dos elementos sitúan la acción y ayudan al lector a imaginar la escena. -->
+- [ ] C) Solo el conflicto (que no tiene jinete). <!-- feedback: Incorrecto. El conflicto es solo una parte de lo que se lee. -->
+- [x] B) El tiempo (tres de la tarde) y el espacio o lugar (plaza de Villa de Leyva). <!-- feedback: Correcto. Estos dos elementos sitúan la acción y ayudan al lector a imaginar la escena. -->
 - [ ] D) La opinión del autor sobre el maltrato animal. <!-- feedback: Incorrecto. El texto es puramente narrativo y descriptivo, no expresa una opinión directa. -->
 
 ### Explicacion Pedagogica
@@ -140,8 +140,8 @@ El marco narrativo es el "donde" y el "cuando" de la historia. Un buen narrador 
 ¿Qué elemento añade el segundo fragmento que profundiza en la caracterización del personaje?
 
 ### Opciones
-- [ ] A) Más verbos de acción física. <!-- feedback: Incorrecto. El verbo principal ("caminó") es el mismo. -->
-- [x] B) La dimensión psicológica o mundo interior del personaje (sus pensamientos). <!-- feedback: Correcto. Narrar no solo es contar lo que se ve por fuera, sino también lo que los personajes sienten o piensan. -->
+- [ ] B) Más verbos de acción física. <!-- feedback: Incorrecto. El verbo principal ("caminó") es el mismo. -->
+- [x] A) La dimensión psicológica o mundo interior del personaje (sus pensamientos). <!-- feedback: Correcto. Narrar no solo es contar lo que se ve por fuera, sino también lo que los personajes sienten o piensan. -->
 - [ ] C) Una descripción más detallada de la puerta. <!-- feedback: Incorrecto. No se dice nada nuevo sobre el objeto. -->
 - [ ] D) El nombre completo del joven. <!-- feedback: Incorrecto. El nombre no aparece en ninguno de los dos. -->
 
@@ -161,8 +161,8 @@ La narración moderna suele combinar las acciones físicas con la introspección
 ¿Cuál de las siguientes frases es propia de un narrador omnisciente?
 
 ### Opciones
-- [ ] A) "No sabía qué hacer cuando vi el fantasma en el castillo de Salgar". <!-- feedback: Incorrecto. Es primera persona (protagonista). -->
-- [x] B) "Pedro sonreía, pero en el fondo de su corazón sentía un miedo profundo que nadie más podía notar". <!-- feedback: Correcto. El narrador omnisciente sabe incluso lo que los personajes ocultan o sienten en su interior. -->
+- [ ] B) "No sabía qué hacer cuando vi el fantasma en el castillo de Salgar". <!-- feedback: Incorrecto. Es primera persona (protagonista). -->
+- [x] A) "Pedro sonreía, pero en el fondo de su corazón sentía un miedo profundo que nadie más podía notar". <!-- feedback: Correcto. El narrador omnisciente sabe incluso lo que los personajes ocultan o sienten en su interior. -->
 - [ ] C) "Vi a Pedro sonreír mientras entraba a la casa de sus tíos". <!-- feedback: Incorrecto. Es narrador testigo (solo cuenta lo que ve desde afuera). -->
 - [ ] D) "Ustedes deben entrar a la casa ahora mismo", dijo la madre. <!-- feedback: Incorrecto. Es un diálogo directo de un personaje. -->
 
@@ -205,8 +205,8 @@ El clímax ocurre justo antes del desenlace. Es el punto donde el conflicto lleg
 ### Opciones
 - [ ] A) Que el autor se cansó de escribir y dejó la historia a la mitad. <!-- feedback: Incorrecto. Es una decisión artística consciente, no un error. -->
 - [ ] B) Que todos los personajes mueren en la última página. <!-- feedback: Incorrecto. Eso sería un final cerrado trágico. -->
-- [x] C) Que el conflicto no se resuelve de forma definitiva, dejando que el lector imagine o interprete el desenlace. <!-- feedback: Correcto. El final abierto invita a la participación activa y reflexión del lector. -->
-- [ ] D) Que al final se explica exactamente qué pasó con cada personaje años después. <!-- feedback: Incorrecto. Eso es un final cerrado o epílogo. -->
+- [x] D) Que el conflicto no se resuelve de forma definitiva, dejando que el lector imagine o interprete el desenlace. <!-- feedback: Correcto. El final abierto invita a la participación activa y reflexión del lector. -->
+- [ ] C) Que al final se explica exactamente qué pasó con cada personaje años después. <!-- feedback: Incorrecto. Eso es un final cerrado o epílogo. -->
 
 ### Explicacion Pedagogica
 El final abierto es un recurso literario que rompe con la estructura tradicional del desenlace perfecto. Obliga al receptor a pensar sobre las posibilidades de la historia, basándose en las pistas dadas durante el relato.

@@ -36,8 +36,8 @@ This bundle explores complex hypothetical scenarios using B2-level grammar, focu
 
 ### Opciones
 - [ ] A) paid / would have <!-- feedback: Second Conditional. -->
-- [x] B) had paid / would have <!-- feedback: Correct. Mixed Conditional (Past condition -> Present result). -->
-- [ ] C) had paid / would have had <!-- feedback: Third Conditional (Past result). -->
+- [x] C) had paid / would have <!-- feedback: Correct. Mixed Conditional (Past condition -> Present result). -->
+- [ ] B) had paid / would have had <!-- feedback: Third Conditional (Past result). -->
 - [ ] D) paid / will have <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
@@ -57,9 +57,9 @@ Mixed Conditional 1: If + Past Perfect (Past hypothetical condition), Would + Ve
 
 ### Opciones
 - [ ] A) wasn't / would go <!-- feedback: Second Conditional. -->
-- [x] B) weren't / would have gone <!-- feedback: Correct. Mixed Conditional (Present state -> Past hypothetical result). -->
-- [ ] C) hadn't been / would have gone <!-- feedback: Third Conditional. -->
-- [ ] D) isn't / went <!-- feedback: Incorrect. -->
+- [x] D) weren't / would have gone <!-- feedback: Correct. Mixed Conditional (Present state -> Past hypothetical result). -->
+- [ ] B) hadn't been / would have gone <!-- feedback: Third Conditional. -->
+- [ ] C) isn't / went <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
 Mixed Conditional 2: If + Past Simple (Present hypothetical state), Would have + Past Participle (Past hypothetical result).
@@ -78,9 +78,9 @@ Mixed Conditional 2: If + Past Simple (Present hypothetical state), Would have +
 
 ### Opciones
 - [ ] A) would take / spoke <!-- feedback: Second Conditional. -->
-- [x] B) would have taken / spoke <!-- feedback: Correct. Mixed Conditional (Present state -> Past result). -->
-- [ ] C) would have taken / had spoken <!-- feedback: Third Conditional. -->
-- [ ] D) took / speak <!-- feedback: Incorrect. -->
+- [x] D) would have taken / spoke <!-- feedback: Correct. Mixed Conditional (Present state -> Past result). -->
+- [ ] B) would have taken / had spoken <!-- feedback: Third Conditional. -->
+- [ ] C) took / speak <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
 Using a present ability (or lack thereof) to speculate about a different past outcome.
@@ -120,9 +120,9 @@ Analyzing historical events and their ongoing impact using Mixed Conditionals.
 
 ### Opciones
 - [ ] A) ate / wouldn't have <!-- feedback: Second Conditional. -->
-- [x] B) had eaten / wouldn't have <!-- feedback: Correct. Past habit -> Present state. -->
-- [ ] C) had eaten / wouldn't have had <!-- feedback: Third Conditional. -->
-- [ ] D) were eating / won't have <!-- feedback: Incorrect. -->
+- [x] D) had eaten / wouldn't have <!-- feedback: Correct. Past habit -> Present state. -->
+- [ ] B) had eaten / wouldn't have had <!-- feedback: Third Conditional. -->
+- [ ] C) were eating / won't have <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
 Connecting past lifestyle choices to present health outcomes through Mixed Conditionals.
@@ -141,9 +141,9 @@ Connecting past lifestyle choices to present health outcomes through Mixed Condi
 
 ### Opciones
 - [ ] A) would be / bought <!-- feedback: Second Conditional. -->
-- [x] B) would be / had bought <!-- feedback: Correct. Past action -> Present state of completion. -->
-- [ ] C) would have been / had bought <!-- feedback: Third Conditional. -->
-- [ ] D) will be / had bought <!-- feedback: Incorrect. -->
+- [x] D) would be / had bought <!-- feedback: Correct. Past action -> Present state of completion. -->
+- [ ] B) would have been / had bought <!-- feedback: Third Conditional. -->
+- [ ] C) will be / had bought <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
 Speculating about the present status of a project based on a past decision.
@@ -182,8 +182,8 @@ Using a past life event to explain a present characteristic.
 "The islands ____ underwater already if we ____ the new sea walls last year."
 
 ### Opciones
-- [ ] A) were / hadn't built <!-- feedback: Second Conditional. -->
-- [x] B) would be / hadn't built <!-- feedback: Correct. Past action -> Present state. -->
+- [ ] B) were / hadn't built <!-- feedback: Second Conditional. -->
+- [x] A) would be / hadn't built <!-- feedback: Correct. Past action -> Present state. -->
 - [ ] C) would be / didn't build <!-- feedback: Second Conditional. -->
 - [ ] D) had been / hadn't built <!-- feedback: Incorrect. -->
 
@@ -204,9 +204,9 @@ Using Mixed Conditionals to discuss environmental outcomes.
 
 ### Opciones
 - [ ] A) knew / saved <!-- feedback: Second Conditional. -->
-- [x] B) knew / would have saved <!-- feedback: Correct. Present knowledge (hypothetical) -> Past result. -->
-- [ ] C) had known / would have saved <!-- feedback: Third Conditional. -->
-- [ ] D) know / would save <!-- feedback: Incorrect. -->
+- [x] D) knew / would have saved <!-- feedback: Correct. Present knowledge (hypothetical) -> Past result. -->
+- [ ] B) had known / would have saved <!-- feedback: Third Conditional. -->
+- [ ] C) know / would save <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
 Speculating on past events based on a hypothetical present ability or knowledge.
@@ -224,8 +224,8 @@ Speculating on past events based on a hypothetical present ability or knowledge.
 "Had the ambassador ____ more careful, the relationship between the countries ____ so tense today."
 
 ### Opciones
-- [x] A) been / wouldn't be <!-- feedback: Correct. Inversion (Had been) + would be. Mixed Conditional. -->
-- [ ] B) was / wouldn't be <!-- feedback: Incorrect syntax. -->
+- [x] B) been / wouldn't be <!-- feedback: Correct. Inversion (Had been) + would be. Mixed Conditional. -->
+- [ ] A) was / wouldn't be <!-- feedback: Incorrect syntax. -->
 - [ ] C) being / wasn't <!-- feedback: Incorrect. -->
 - [ ] D) been / wouldn't have been <!-- feedback: Third Conditional with inversion. -->
 
@@ -246,8 +246,8 @@ Advanced B2 structure: Inversion in a Mixed Conditional (Had + subject + past pa
 
 ### Opciones
 - [ ] A) is / designed <!-- feedback: Incorrect. -->
-- [x] B) would be / had designed <!-- feedback: Correct. Past action -> Present state. -->
-- [ ] C) would have been / had designed <!-- feedback: Third Conditional. -->
+- [x] C) would be / had designed <!-- feedback: Correct. Past action -> Present state. -->
+- [ ] B) would have been / had designed <!-- feedback: Third Conditional. -->
 - [ ] D) was / had designed <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica

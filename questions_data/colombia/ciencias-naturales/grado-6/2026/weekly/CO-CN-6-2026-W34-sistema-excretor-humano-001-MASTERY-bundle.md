@@ -34,13 +34,13 @@ Este bundle de 10 preguntas estudia el sistema excretor humano, con énfasis en 
 ¿Cuál es la función principal del sistema excretor humano?
 
 ### Opciones
-- [x] A) Eliminar los desechos que producen las células y regular el agua y las sales del cuerpo
+- [x] D) Eliminar los desechos que producen las células y regular el agua y las sales del cuerpo
   <!-- feedback: Correcto. La excreción retira desechos y mantiene el equilibrio interno. -->
-- [ ] B) Producir el oxígeno que usan las células para obtener energía
+- [ ] A) Producir el oxígeno que usan las células para obtener energía
   <!-- feedback: Incorrecto. El oxígeno lo toma el sistema respiratorio del aire. -->
-- [ ] C) Transportar la sangre desde el corazón hacia todo el cuerpo
+- [ ] B) Transportar la sangre desde el corazón hacia todo el cuerpo
   <!-- feedback: Incorrecto. Esa es la función del sistema circulatorio. -->
-- [ ] D) Transformar los alimentos en sustancias simples dentro del estómago
+- [ ] C) Transformar los alimentos en sustancias simples dentro del estómago
   <!-- feedback: Incorrecto. Eso corresponde a la digestión, no a la excreción. -->
 
 ### Explicacion Pedagogica
@@ -80,9 +80,9 @@ Los riñones contienen millones de unidades filtradoras llamadas nefronas: allí
 ¿Qué explicación corresponde a lo que ocurrió con la orina del estudiante?
 
 ### Opciones
-- [x] A) Se produce menos orina y más concentrada, porque el cuerpo pierde agua con el sudor y la retiene para mantener el equilibrio
+- [x] B) Se produce menos orina y más concentrada, porque el cuerpo pierde agua con el sudor y la retiene para mantener el equilibrio
   <!-- feedback: Correcto. Al perder agua, el riñón la conserva y concentra la orina. -->
-- [ ] B) Se produce mucha más orina y muy diluida, porque el cuerpo intenta eliminar el sudor
+- [ ] A) Se produce mucha más orina y muy diluida, porque el cuerpo intenta eliminar el sudor
   <!-- feedback: Incorrecto. La orina disminuye cuando el cuerpo pierde agua. -->
 - [ ] C) La orina deja de contener desechos y por eso casi no se produce
   <!-- feedback: Incorrecto. Los desechos siguen eliminándose, pero en menos agua. -->
@@ -103,11 +103,11 @@ Cuando el cuerpo pierde agua por el sudor, los riñones reabsorben más cantidad
 ¿Por qué beber suficiente agua ayuda a cuidar los riñones?
 
 ### Opciones
-- [x] A) Porque el agua permite disolver mejor los desechos y facilita que los riñones los eliminen sin concentrar demasiado la orina
+- [x] C) Porque el agua permite disolver mejor los desechos y facilita que los riñones los eliminen sin concentrar demasiado la orina
   <!-- feedback: Correcto. Con buena hidratación los desechos se eliminan con mayor facilidad. -->
-- [ ] B) Porque el agua limpia directamente los pulmones durante la respiración
+- [ ] A) Porque el agua limpia directamente los pulmones durante la respiración
   <!-- feedback: Incorrecto. El agua actúa en la filtración renal, no en los pulmones. -->
-- [ ] C) Porque así los riñones producen más glóbulos rojos para la sangre
+- [ ] B) Porque así los riñones producen más glóbulos rojos para la sangre
   <!-- feedback: Incorrecto. La formación de glóbulos rojos depende de la médula ósea. -->
 - [ ] D) Porque el agua reemplaza a los riñones en la función de filtrar la sangre
   <!-- feedback: Incorrecto. Los riñones siguen filtrando; el agua solo facilita su trabajo. -->
@@ -126,9 +126,9 @@ Aplicar el concepto de excreción a los hábitos diarios permite entender por qu
 ¿Qué relación tiene el sudor con la función excretora del cuerpo?
 
 ### Opciones
-- [x] A) La piel también excreta: con el sudor elimina agua, sales y pequeñas cantidades de desechos como la urea
+- [x] B) La piel también excreta: con el sudor elimina agua, sales y pequeñas cantidades de desechos como la urea
   <!-- feedback: Correcto. Las glándulas sudoríparas participan en la excreción. -->
-- [ ] B) El sudor no tiene ninguna relación con la excreción, solo sirve para mojar la piel
+- [ ] A) El sudor no tiene ninguna relación con la excreción, solo sirve para mojar la piel
   <!-- feedback: Incorrecto. El sudor elimina agua, sales y desechos. -->
 - [ ] C) Con el sudor se elimina el oxígeno que sobra en el organismo
   <!-- feedback: Incorrecto. El oxígeno se transporta en la sangre, no se excreta por el sudor. -->
@@ -172,11 +172,11 @@ Analizar muestras de orina permite comprender la función reguladora del riñón
 ¿Por qué una persona con insuficiencia renal necesita diálisis?
 
 ### Opciones
-- [x] A) Porque sus riñones no filtran bien la sangre y la diálisis retira los desechos y el exceso de agua que se acumularían en el cuerpo
+- [x] C) Porque sus riñones no filtran bien la sangre y la diálisis retira los desechos y el exceso de agua que se acumularían en el cuerpo
   <!-- feedback: Correcto. La diálisis reemplaza parcialmente la función de filtración del riñón. -->
-- [ ] B) Porque la diálisis produce glóbulos rojos que el riñón ya no puede fabricar
+- [ ] A) Porque la diálisis produce glóbulos rojos que el riñón ya no puede fabricar
   <!-- feedback: Incorrecto. El riñón no produce glóbulos rojos; la diálisis tampoco. -->
-- [ ] C) Porque sus pulmones no logran intercambiar gases durante la respiración
+- [ ] B) Porque sus pulmones no logran intercambiar gases durante la respiración
   <!-- feedback: Incorrecto. El problema descrito es renal, no respiratorio. -->
 - [ ] D) Porque la diálisis reemplaza el trabajo del corazón al bombear la sangre
   <!-- feedback: Incorrecto. La diálisis filtra la sangre, no la bombea. -->
@@ -195,9 +195,9 @@ Cuando los riñones fallan, la urea, la creatinina y el exceso de agua se acumul
 ¿Qué análisis explica la relación entre el hígado y los riñones en la excreción?
 
 ### Opciones
-- [x] A) El hígado convierte el amoníaco en urea, sustancia menos tóxica, y los riñones la eliminan por la orina, de modo que el cuerpo se libra del desecho nitrogenado
+- [x] B) El hígado convierte el amoníaco en urea, sustancia menos tóxica, y los riñones la eliminan por la orina, de modo que el cuerpo se libra del desecho nitrogenado
   <!-- feedback: Correcto. Ambos órganos actúan de forma encadenada en la excreción. -->
-- [ ] B) El hígado filtra la orina y los riñones se encargan de producirla
+- [ ] A) El hígado filtra la orina y los riñones se encargan de producirla
   <!-- feedback: Incorrecto. Los riñones forman la orina; el hígado no la filtra. -->
 - [ ] C) Los riñones transforman la urea en amoníaco para almacenarlo en el cuerpo
   <!-- feedback: Incorrecto. La transformación es inversa y busca eliminar el desecho. -->
@@ -218,9 +218,9 @@ El metabolismo de las proteínas produce amoníaco, una sustancia muy tóxica. E
 ¿Qué evaluación conjunta de las tres afirmaciones es correcta?
 
 ### Opciones
-- [x] A) La 1 es verdadera; la 2 es falsa, porque el color y la composición de la orina permiten detectar problemas de salud; y la 3 es falsa, porque la diálisis reemplaza parte de la función renal, pero no cura la enfermedad
+- [x] B) La 1 es verdadera; la 2 es falsa, porque el color y la composición de la orina permiten detectar problemas de salud; y la 3 es falsa, porque la diálisis reemplaza parte de la función renal, pero no cura la enfermedad
   <!-- feedback: Correcto. Distingue hidratación, valor diagnóstico de la orina y tratamiento de reemplazo. -->
-- [ ] B) Las tres afirmaciones son verdaderas, porque la orina no da información y la diálisis cura el riñón
+- [ ] A) Las tres afirmaciones son verdaderas, porque la orina no da información y la diálisis cura el riñón
   <!-- feedback: Incorrecto. El examen de orina es una herramienta diagnóstica y la diálisis no cura. -->
 - [ ] C) Solo la 2 es verdadera, porque la hidratación no influye en los riñones
   <!-- feedback: Incorrecto. La hidratación sí influye en la formación de cálculos. -->
@@ -241,11 +241,11 @@ Evaluar estas afirmaciones exige separar tres ideas: la hidratación previene la
 ¿Qué medida conviene priorizar y por qué?
 
 ### Opciones
-- [x] A) Garantizar agua potable suficiente y educar sobre su consumo responsable, porque previene la deshidratación y las infecciones urinarias, y ayuda a que los riñones funcionen bien
+- [x] C) Garantizar agua potable suficiente y educar sobre su consumo responsable, porque previene la deshidratación y las infecciones urinarias, y ayuda a que los riñones funcionen bien
   <!-- feedback: Correcto. El agua segura y la educación protegen la salud renal a largo plazo. -->
-- [ ] B) Restringir el agua potable en las escuelas para ahorrar el recurso
+- [ ] A) Restringir el agua potable en las escuelas para ahorrar el recurso
   <!-- feedback: Incorrecto. La restricción aumenta el riesgo de deshidratación y de enfermedad renal. -->
-- [ ] C) Promover el consumo de bebidas azucaradas en lugar de agua
+- [ ] B) Promover el consumo de bebidas azucaradas en lugar de agua
   <!-- feedback: Incorrecto. Las bebidas azucaradas no sustituyen el agua y aportan azúcares en exceso. -->
 - [ ] D) Esperar a que aparezcan los síntomas renales para actuar
   <!-- feedback: Incorrecto. La prevención actúa antes de que la enfermedad se presente. -->

@@ -30,9 +30,9 @@ Este bundle clasifica polígonos por lados, ángulos y regularidad, también tra
 ### Enunciado
 ¿Qué es un polígono?
 ### Opciones
-- [x] A) Una figura plana cerrada formada por tres o más segmentos rectos unidos por sus extremos
+- [x] B) Una figura plana cerrada formada por tres o más segmentos rectos unidos por sus extremos
   <!-- feedback: Explica por qué es correcta: recoge las tres condiciones de figura plana, cerrada y lados rectos. -->
-- [ ] B) Una figura abierta con lados curvos solamente
+- [ ] A) Una figura abierta con lados curvos solamente
   <!-- feedback: Explica el error conceptual: los polígonos son cerrados y tienen lados rectos, no curvos. -->
 - [ ] C) Un cuerpo con volumen como un cubo o una esfera
   <!-- feedback: Explica el error conceptual: confunde figura plana con cuerpo geométrico tridimensional. -->
@@ -70,13 +70,13 @@ Los polígonos se nombran por su número de lados: 3 triángulo, 4 cuadrilátero
 ### Enunciado
 Según sus lados, ¿cómo se clasifica este triángulo?
 ### Opciones
-- [x] A) Isósceles, porque tiene dos lados iguales
+- [x] D) Isósceles, porque tiene dos lados iguales
   <!-- feedback: Explica por qué es correcta: identifica los dos lados de 5 centímetros como iguales y el tercero diferente. -->
-- [ ] B) Equilátero, porque todos los lados son distintos
+- [ ] A) Equilátero, porque todos los lados son distintos
   <!-- feedback: Explica el error conceptual: el equilátero tiene tres lados iguales y aquí solo hay dos. -->
-- [ ] C) Escaleno, porque tiene dos lados iguales
+- [ ] B) Escaleno, porque tiene dos lados iguales
   <!-- feedback: Explica el error conceptual: el escaleno tiene los tres lados de distinta medida. -->
-- [ ] D) Rectángulo, porque tiene dos lados iguales
+- [ ] C) Rectángulo, porque tiene dos lados iguales
   <!-- feedback: Explica el error conceptual: rectángulo es un cuadrilátero, no una clase de triángulo por lados. -->
 ### Explicacion Pedagogica
 Por lados los triángulos son equiláteros con tres lados iguales, isósceles con dos lados iguales y escalenos sin lados iguales. Como el triángulo tiene dos lados de 5 centímetros, es isósceles.
@@ -90,13 +90,13 @@ Por lados los triángulos son equiláteros con tres lados iguales, isósceles co
 ### Enunciado
 ¿Qué cuadrilátero describe la cometa?
 ### Opciones
-- [x] A) Cuadrado
+- [x] D) Cuadrado
   <!-- feedback: Explica por qué es correcta: cumple las dos condiciones de lados iguales y cuatro ángulos rectos. -->
-- [ ] B) Rectángulo no cuadrado
+- [ ] A) Rectángulo no cuadrado
   <!-- feedback: Explica el error conceptual: ese rectángulo tiene lados opuestos iguales pero no los cuatro iguales. -->
-- [ ] C) Trapecio
+- [ ] B) Trapecio
   <!-- feedback: Explica el error conceptual: el trapecio tiene solo un par de lados paralelos y no cuatro lados iguales. -->
-- [ ] D) Rombo no cuadrado
+- [ ] C) Rombo no cuadrado
   <!-- feedback: Explica el error conceptual: ese rombo tiene lados iguales pero ángulos no rectos. -->
 ### Explicacion Pedagogica
 El cuadrado es el cuadrilátero regular: cuatro lados iguales y cuatro ángulos rectos. Se diferencia del rombo por sus ángulos y del rectángulo común por tener todos los lados iguales.
@@ -110,11 +110,11 @@ El cuadrado es el cuadrilátero regular: cuatro lados iguales y cuatro ángulos 
 ### Enunciado
 ¿Cuál es el perímetro del sendero?
 ### Opciones
-- [x] A) 72 metros
+- [x] C) 72 metros
   <!-- feedback: Explica por qué es correcta: multiplica 6 lados por 12 metros y obtiene 72. -->
-- [ ] B) 60 metros
+- [ ] A) 60 metros
   <!-- feedback: Explica el error conceptual: multiplica por 5 como si fuera un pentágono. -->
-- [ ] C) 48 metros
+- [ ] B) 48 metros
   <!-- feedback: Explica el error conceptual: multiplica por 4 como si fuera un cuadrilátero. -->
 - [ ] D) 36 metros
   <!-- feedback: Explica el error conceptual: multiplica por 3 como si fuera un triángulo. -->
@@ -130,11 +130,11 @@ El perímetro es la suma de todos los lados. En un polígono regular todos los l
 ### Enunciado
 ¿Qué clasificación corresponde a cada figura en orden A, B y C?
 ### Opciones
-- [x] A) Triángulo, rectángulo y hexágono regular
+- [x] C) Triángulo, rectángulo y hexágono regular
   <!-- feedback: Explica por qué es correcta: asigna cada descripción a su polígono con las propiedades dadas. -->
-- [ ] B) Cuadrado, triángulo y pentágono regular
+- [ ] A) Cuadrado, triángulo y pentágono regular
   <!-- feedback: Explica el error conceptual: cambia el orden y el número de lados de cada figura. -->
-- [ ] C) Triángulo, cuadrado y pentágono regular
+- [ ] B) Triángulo, cuadrado y pentágono regular
   <!-- feedback: Explica el error conceptual: supone cuadrado donde los lados opuestos pueden ser distintos. -->
 - [ ] D) Hexágono, rombo y triángulo equilátero
   <!-- feedback: Explica el error conceptual: invierte las figuras y no respeta las descripciones. -->
@@ -150,11 +150,11 @@ Analizar propiedades permite clasificar: 3 lados indica triángulo, 4 rectos con
 ### Enunciado
 ¿Es correcta esta afirmación sobre la relación entre cuadrado y rectángulo?
 ### Opciones
-- [x] A) Sí, porque el cuadrado cumple la definición de rectángulo y añade la condición de lados iguales
+- [x] C) Sí, porque el cuadrado cumple la definición de rectángulo y añade la condición de lados iguales
   <!-- feedback: Explica por qué es correcta: reconoce la inclusión de clases por propiedades heredadas. -->
-- [ ] B) No, porque el cuadrado y el rectángulo no comparten ninguna propiedad
+- [ ] A) No, porque el cuadrado y el rectángulo no comparten ninguna propiedad
   <!-- feedback: Explica el error conceptual: ambos tienen cuatro ángulos rectos y lados opuestos paralelos. -->
-- [ ] C) No, porque todo rectángulo tiene los cuatro lados iguales
+- [ ] B) No, porque todo rectángulo tiene los cuatro lados iguales
   <!-- feedback: Explica el error conceptual: solo el cuadrado exige cuatro lados iguales entre los rectángulos. -->
 - [ ] D) Sí, porque el rectángulo tiene tres lados y el cuadrado tiene cuatro
   <!-- feedback: Explica el error conceptual: ambos son cuadriláteros con cuatro lados. -->
@@ -170,11 +170,11 @@ La clasificación es jerárquica: el rectángulo se define por cuatro ángulos r
 ### Enunciado
 ¿En cuántos triángulos queda dividido el pentágono y cuál es la suma de sus ángulos internos?
 ### Opciones
-- [x] A) En 3 triángulos y la suma es 540 grados
+- [x] C) En 3 triángulos y la suma es 540 grados
   <!-- feedback: Explica por qué es correcta: aplica n menos 2 igual a 3 y multiplica 3 por 180. -->
-- [ ] B) En 5 triángulos y la suma es 900 grados
+- [ ] A) En 5 triángulos y la suma es 900 grados
   <!-- feedback: Explica el error conceptual: cuenta un triángulo por vértice sin usar la regla de triangulación. -->
-- [ ] C) En 2 triángulos y la suma es 360 grados
+- [ ] B) En 2 triángulos y la suma es 360 grados
   <!-- feedback: Explica el error conceptual: usa la división propia del cuadrilátero y no del pentágono. -->
 - [ ] D) En 4 triángulos y la suma es 720 grados
   <!-- feedback: Explica el error conceptual: resta uno en vez de restar dos al número de lados. -->
@@ -190,9 +190,9 @@ Desde un vértice, un polígono de n lados se divide en n menos 2 triángulos. P
 ### Enunciado
 Evalúa qué tipo de cuadrilátero es y si puede ser un paralelogramo.
 ### Opciones
-- [x] A) Es un trapecio escaleno y no puede ser paralelogramo porque solo tiene un par de lados paralelos
+- [x] B) Es un trapecio escaleno y no puede ser paralelogramo porque solo tiene un par de lados paralelos
   <!-- feedback: Explica por qué es correcta: combina las tres condiciones y descarta el paralelogramo con criterio. -->
-- [ ] B) Es un cuadrado y sí es paralelogramo porque tiene lados paralelos
+- [ ] A) Es un cuadrado y sí es paralelogramo porque tiene lados paralelos
   <!-- feedback: Explica el error conceptual: el cuadrado exige lados iguales y ángulos rectos que aquí no existen. -->
 - [ ] C) Es un rectángulo y sí es paralelogramo porque no tiene ángulos rectos
   <!-- feedback: Explica el error conceptual: el rectángulo exige cuatro ángulos rectos por definición. -->
@@ -210,11 +210,11 @@ El trapecio se define por tener un solo par de lados paralelos, y es escaleno cu
 ### Enunciado
 ¿Quién tiene razón y por qué?
 ### Opciones
-- [x] A) Laura, porque tres ángulos iguales implican tres lados iguales y todos agudos
+- [x] C) Laura, porque tres ángulos iguales implican tres lados iguales y todos agudos
   <!-- feedback: Explica por qué es correcta: relaciona ángulos iguales con lados iguales y verifica que son menores de 90. -->
-- [ ] B) Pedro, porque todo triángulo con ángulos iguales es rectángulo
+- [ ] A) Pedro, porque todo triángulo con ángulos iguales es rectángulo
   <!-- feedback: Explica el error conceptual: un ángulo recto mide 90 grados y aquí el mayor es 60. -->
-- [ ] C) Laura, porque un triángulo equilátero siempre tiene un ángulo obtuso
+- [ ] B) Laura, porque un triángulo equilátero siempre tiene un ángulo obtuso
   <!-- feedback: Explica el error conceptual: acierta la primera parte pero falla en la clasificación por ángulos. -->
 - [ ] D) Ninguno, porque un triángulo no puede tener tres ángulos iguales
   <!-- feedback: Explica el error conceptual: el equiángulo de 60 grados sí existe y suma 180 grados. -->

@@ -35,9 +35,9 @@ centradas en retórica, estrategias de persuasión y análisis del discurso pol�
 ¿Qué es un discurso público?
 
 ### Opciones
-- [x] A) Una intervención oral o escrita dirigida a una audiencia con intención comunicativa deliberada.
+- [x] B) Una intervención oral o escrita dirigida a una audiencia con intención comunicativa deliberada.
   <!-- feedback: Tiene emisor, intención y contexto reconocibles. -->
-- [ ] B) Una conversación privada entre dos personas.
+- [ ] A) Una conversación privada entre dos personas.
   <!-- feedback: Implica publicidad. -->
 - [ ] C) Una nota personal de diario.
   <!-- feedback: Carece de destinatario público. -->
@@ -104,9 +104,9 @@ El ethos articula la relación de confianza entre emisor, mensaje y audiencia.
 En un discurso público, el uso frecuente de oraciones breves, directas y enfáticas cumple principalmente una función:
 
 ### Opciones
-- [x] A) Ritmica y enfática, que asegura claridad y favorece la memorización.
+- [x] B) Ritmica y enfática, que asegura claridad y favorece la memorización.
   <!-- feedback: El ritmo facilita la recepción oral. -->
-- [ ] B) Exclusivamente literaria sin efecto persuasivo.
+- [ ] A) Exclusivamente literaria sin efecto persuasivo.
   <!-- feedback: Tiene efecto pragmático. -->
 - [ ] C) De complicación estilística innecesaria.
   <!-- feedback: Busca eficiencia. -->
@@ -127,11 +127,11 @@ La sintaxis del discurso público está diseñada para ser escuchada y recordada
 Un discurso que inicia con "Ciudadanas y ciudadanos de Colombia" apela a una estrategia de:
 
 ### Opciones
-- [x] A) Inclusión directa del destinatario para generar sentido de pertenencia y compromiso.
+- [x] C) Inclusión directa del destinatario para generar sentido de pertenencia y compromiso.
   <!-- feedback: Refuerza la identidad compartida. -->
-- [ ] B) Distanciamiento técnico del público.
+- [ ] A) Distanciamiento técnico del público.
   <!-- feedback: Es cercano. -->
-- [ ] C) Ataque al adversario desde la primera línea.
+- [ ] B) Ataque al adversario desde la primera línea.
   <!-- feedback: Es convocatoria. -->
 - [ ] D) Confusión deliberada de identidades.
   <!-- feedback: Es reconocimiento. -->
@@ -173,9 +173,9 @@ Las metáforas en el discurso público condensan argumentos y movilizan emocione
 Cuando un líder estudiantil colombiano dice "no somos una generación de cristal, somos una generación de propuestas", la estrategia predominante es:
 
 ### Opciones
-- [x] A) Antítesis: refutar un estereotipo y proponer una identidad alternativa.
+- [x] B) Antítesis: refutar un estereotipo y proponer una identidad alternativa.
   <!-- feedback: Contrasta dos visiones. -->
-- [ ] B) Evasión del tema principal.
+- [ ] A) Evasión del tema principal.
   <!-- feedback: Asume posición. -->
 - [ ] C) Insulto directo al oponente.
   <!-- feedback: Es dignificación. -->
@@ -196,9 +196,9 @@ La antítesis es clave para redefinir marcos y construir nuevas imágenes del no
 Un discurso sobre la paz total en Colombia que enumera datos de violencia, propuestas y plazos es un ejemplo de:
 
 ### Opciones
-- [x] A) Argumentación estructurada con datos (logos) y propuesta política concreta.
+- [x] B) Argumentación estructurada con datos (logos) y propuesta política concreta.
   <!-- feedback: Combina evidencia y plan. -->
-- [ ] B) Manipulación emocional sin contenido.
+- [ ] A) Manipulación emocional sin contenido.
   <!-- feedback: Hay sustancia. -->
 - [ ] C) Discurso puramente estético.
   <!-- feedback: Es funcional. -->
@@ -219,9 +219,9 @@ El logos en el discurso público exige articulación de datos y propuestas verif
 ¿Qué efecto busca un orador al repetir una consigna al final de cada párrafo?
 
 ### Opciones
-- [x] A) Reforzar el núcleo ideológico y facilitar su retención mnémica en la audiencia.
+- [x] B) Reforzar el núcleo ideológico y facilitar su retención mnémica en la audiencia.
   <!-- feedback: La repetición es un recurso mnemotécnico. -->
-- [ ] B) Confundir al oyente con información contradictoria.
+- [ ] A) Confundir al oyente con información contradictoria.
   <!-- feedback: Es orden. -->
 - [ ] C) Llenar tiempo de exposición.
   <!-- feedback: Es estrategia, no relleno. -->
@@ -242,9 +242,9 @@ La repetición estratégica organiza la escucha y consolida el mensaje en la mem
 ¿Qué criterio es más apropiado para evaluar la eficacia de un discurso sobre educación en Colombia?
 
 ### Opciones
-- [x] A) Claridad argumentativa, evidencia pertinente y conexión con las necesidades de la audiencia.
+- [x] B) Claridad argumentativa, evidencia pertinente y conexión con las necesidades de la audiencia.
   <!-- feedback: Informa la evaluación. -->
-- [ ] B) Duración total del discurso sin importar contenido.
+- [ ] A) Duración total del discurso sin importar contenido.
   <!-- feedback: La extensión no garantiza eficacia. -->
 - [ ] C) Cantidad de aplausos sin análisis.
   <!-- feedback: Es dato parcial. -->
@@ -265,9 +265,9 @@ La eficacia retórica combina coherencia interna, sustento empírico y pertinenc
 Dos discursos sobre el campo colombiano enfatizan, respectivamente, "la Colombia profunda olvidada" y "la despensa nacional". Esta diferencia revela principalmente:
 
 ### Opciones
-- [x] A) Marcos interpretativos distintos: uno victimiza, otro dignifica productivamente.
+- [x] B) Marcos interpretativos distintos: uno victimiza, otro dignifica productivamente.
   <!-- feedback: Son encuadres diferentes del mismo tema. -->
-- [ ] B) Datos opuestos verificables.
+- [ ] A) Datos opuestos verificables.
   <!-- feedback: Comparten base empírica. -->
 - [ ] C) Cambio total de tema.
   <!-- feedback: Hablan del mismo campo. -->
@@ -288,13 +288,13 @@ El encuadre discursivo condiciona la percepción pública de un mismo problema.
 En el análisis pragmático del discurso público, ¿cuál de estos elementos es imprescindible para interpretarlo correctamente?
 
 ### Opciones
-- [x] A) El contexto sociohistórico, la audiencia prevista y la intención del emisor.
+- [x] D) El contexto sociohistórico, la audiencia prevista y la intención del emisor.
   <!-- feedback: El significado depende del contexto. -->
-- [ ] B) Únicamente la longitud del texto.
+- [ ] A) Únicamente la longitud del texto.
   <!-- feedback: Es dato formal. -->
-- [ ] C) La cantidad de figuras retóricas.
+- [ ] B) La cantidad de figuras retóricas.
   <!-- feedback: Es parcial. -->
-- [ ] D) La opinión personal del analista sin datos.
+- [ ] C) La opinión personal del analista sin datos.
   <!-- feedback: Sesga el análisis. -->
 
 ### Explicacion Pedagogica
@@ -334,13 +334,13 @@ La pregunta retórica abre el campo argumentativo y compromete a la audiencia co
 En un discurso electoral, el uso reiterado del término "cambio" junto a "futuro" y "esperanza" construye principalmente:
 
 ### Opciones
-- [x] A) Un campo semántico prospectivo que orienta expectativas y promesas.
+- [x] D) Un campo semántico prospectivo que orienta expectativas y promesas.
   <!-- feedback: Proyecta horizonte. -->
-- [ ] B) Un registro técnico administrativo.
+- [ ] A) Un registro técnico administrativo.
   <!-- feedback: Es emocional. -->
-- [ ] C) Un glosario científico.
+- [ ] B) Un glosario científico.
   <!-- feedback: Es político. -->
-- [ ] D) Un léxico judicial.
+- [ ] C) Un léxico judicial.
   <!-- feedback: Es de campaña. -->
 
 ### Explicacion Pedagogica
@@ -380,9 +380,9 @@ La estructura argumentativa guía la comprensión y predispone a la acción del 
 ¿Qué diferencia central existe entre un discurso de un líder social y un discurso de un funcionario público en Colombia?
 
 ### Opciones
-- [x] A) El primero enfatiza la experiencia comunitaria; el segundo, la institucionalidad y la normatividad.
+- [x] B) El primero enfatiza la experiencia comunitaria; el segundo, la institucionalidad y la normatividad.
   <!-- feedback: Son voces con legitimidades distintas. -->
-- [ ] B) Son idénticos en forma y contenido.
+- [ ] A) Son idénticos en forma y contenido.
   <!-- feedback: Difieren en posición. -->
 - [ ] C) El funcionario no puede hablar en público.
   <!-- feedback: Sí puede. -->
@@ -426,13 +426,13 @@ La ética discursiva articula verdad, responsabilidad y respeto como condiciones
 ¿Por qué un discurso de odio representa un riesgo para la convivencia democrática en Colombia?
 
 ### Opciones
-- [x] A) Porque deshumaniza a grupos vulnerables y puede traducirse en acciones discriminatorias o violentas.
+- [x] D) Porque deshumaniza a grupos vulnerables y puede traducirse en acciones discriminatorias o violentas.
   <!-- feedback: Tiene efectos sociales constatables. -->
-- [ ] B) Porque entretiene sin más.
+- [ ] A) Porque entretiene sin más.
   <!-- feedback: Sus efectos van más allá. -->
-- [ ] C) Porque es inofensivo en contextos polarizados.
+- [ ] B) Porque es inofensivo en contextos polarizados.
   <!-- feedback: Perjudica la convivencia. -->
-- [ ] D) Porque reduce la participación electoral.
+- [ ] C) Porque reduce la participación electoral.
   <!-- feedback: No es el principal efecto. -->
 
 ### Explicacion Pedagogica
@@ -449,11 +449,11 @@ El discurso de odio vulnera derechos y erosiona la base del diálogo democrátic
 ¿Qué transformación implica la circulación del discurso público en redes sociales?
 
 ### Opciones
-- [x] A) Acelera la viralización, modifica la autoría y exige nuevos criterios de verificación y responsabilidad.
+- [x] C) Acelera la viralización, modifica la autoría y exige nuevos criterios de verificación y responsabilidad.
   <!-- feedback: Cambian las condiciones de producción y recepción. -->
-- [ ] B) Elimina toda intención retórica.
+- [ ] A) Elimina toda intención retórica.
   <!-- feedback: La retórica permanece. -->
-- [ ] C) Hace innecesaria la argumentación.
+- [ ] B) Hace innecesaria la argumentación.
   <!-- feedback: Es más necesaria. -->
 - [ ] D) Convierte todo en literatura.
   <!-- feedback: Predomina la comunicación. -->
@@ -472,13 +472,13 @@ El ecosistema digital redefine los modos de producción, circulación y responsa
 ¿Cuál es el aporte del discurso público a la construcción de paz en Colombia?
 
 ### Opciones
-- [x] A) Visibilizar conflictos, reconocer víctimas y abrir canales de diálogo entre sectores diversos.
+- [x] D) Visibilizar conflictos, reconocer víctimas y abrir canales de diálogo entre sectores diversos.
   <!-- feedback: Es condición para la convivencia. -->
-- [ ] B) Sustituir las políticas públicas.
+- [ ] A) Sustituir las políticas públicas.
   <!-- feedback: No las reemplaza. -->
-- [ ] C) Reducir la participación ciudadana.
+- [ ] B) Reducir la participación ciudadana.
   <!-- feedback: La amplía. -->
-- [ ] D) Promover el silenciamiento general.
+- [ ] C) Promover el silenciamiento general.
   <!-- feedback: Estimula la palabra. -->
 
 ### Explicacion Pedagogica

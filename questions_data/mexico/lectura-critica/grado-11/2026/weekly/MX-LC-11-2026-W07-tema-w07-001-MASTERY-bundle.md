@@ -78,8 +78,8 @@ El ajolote mexicano (Ambystoma mexicanum), endémico del sistema de lagos de Xoc
 De acuerdo con 'El Genoma y la Capacidad del Ajolote', ¿cuál es la postura central que se defiende frente a la medicina regenerativa?
 
 ### Opciones
-- [ ] A) Que debe mantenerse en aislamiento absoluto para conservar su pureza de origen. <!-- feedback: Incorrecto. El texto rechaza explícitamente el aislamiento o cerrazón cultural. -->
-- [x] B) Que florece y se enriquece a través de la asimilación y el diálogo con corrientes universales. <!-- feedback: Correcto. El autor destaca que la integración con corrientes mundiales fortalece el desarrollo cultural local. -->
+- [ ] B) Que debe mantenerse en aislamiento absoluto para conservar su pureza de origen. <!-- feedback: Incorrecto. El texto rechaza explícitamente el aislamiento o cerrazón cultural. -->
+- [x] A) Que florece y se enriquece a través de la asimilación y el diálogo con corrientes universales. <!-- feedback: Correcto. El autor destaca que la integración con corrientes mundiales fortalece el desarrollo cultural local. -->
 - [ ] C) Que debe imitar de forma ciega y sumisa las modas intelectuales de Europa. <!-- feedback: Incorrecto. Se aboga por una asimilación activa y recreativa, no por una copia servil. -->
 - [ ] D) Que carece de valor frente a los desarrollos industriales o comerciales del extranjero. <!-- feedback: Incorrecto. El texto resalta el inmenso valor y dignidad de la tradición y el intelecto de México. -->
 
@@ -101,8 +101,8 @@ El ajolote mexicano (Ambystoma mexicanum), endémico del sistema de lagos de Xoc
 En el contexto del fragmento, la mención de 'el hábitat de Xochimilco' alude principalmente a:
 
 ### Opciones
-- [x] A) Una corriente de pensamiento y método de análisis que concibe el saber como patrimonio común de la humanidad. <!-- feedback: Correcto. Alude al ideal que sitúa la razón y la cultura como puentes universales. -->
-- [ ] B) Una técnica formal de redacción mercantil de uso obligatorio en el virreinato. <!-- feedback: Incorrecto. Es un concepto intelectual y filosófico, no un formato mercantil. -->
+- [x] B) Una corriente de pensamiento y método de análisis que concibe el saber como patrimonio común de la humanidad. <!-- feedback: Correcto. Alude al ideal que sitúa la razón y la cultura como puentes universales. -->
+- [ ] A) Una técnica formal de redacción mercantil de uso obligatorio en el virreinato. <!-- feedback: Incorrecto. Es un concepto intelectual y filosófico, no un formato mercantil. -->
 - [ ] C) Un castigo corporal destinado a corregir la desobediencia en los colegios. <!-- feedback: Incorrecto. No tiene ninguna relación con castigos o correctivos escolares. -->
 - [ ] D) Un inventario municipal de las especies forestales del norte de México. <!-- feedback: Incorrecto. El concepto es filosófico y humanístico, no de índole estadística forestal. -->
 
@@ -171,9 +171,9 @@ Si un educador de la SEP actual compartiera la visión de el ajolote mexicano ex
 
 ### Opciones
 - [ ] A) La memorización mecánica de fechas de batallas históricas sin análisis de causas. <!-- feedback: Incorrecto. El humanismo promueve la reflexión y comprensión crítica, no el aprendizaje memorístico. -->
-- [x] B) Un taller donde los alumnos analicen textos literarios universales vinculándolos con la realidad de su comunidad. <!-- feedback: Correcto. Este ejercicio encarna perfectamente el diálogo entre corrientes globales de pensamiento y la identidad local. -->
-- [ ] C) La prohibición de la lectura de autores extranjeros para proteger el idioma español. <!-- feedback: Incorrecto. Esto caería en el aislamiento cerrado que el autor critica de manera enérgica. -->
-- [ ] D) La reducción de las horas de clase dedicadas al arte y a la filosofía para priorizar la contabilidad. <!-- feedback: Incorrecto. El autor aboga por la centralidad de las humanidades en la educación nacional. -->
+- [x] D) Un taller donde los alumnos analicen textos literarios universales vinculándolos con la realidad de su comunidad. <!-- feedback: Correcto. Este ejercicio encarna perfectamente el diálogo entre corrientes globales de pensamiento y la identidad local. -->
+- [ ] B) La prohibición de la lectura de autores extranjeros para proteger el idioma español. <!-- feedback: Incorrecto. Esto caería en el aislamiento cerrado que el autor critica de manera enérgica. -->
+- [ ] C) La reducción de las horas de clase dedicadas al arte y a la filosofía para priorizar la contabilidad. <!-- feedback: Incorrecto. El autor aboga por la centralidad de las humanidades en la educación nacional. -->
 
 ### Explicacion Pedagogica
 Poner en diálogo la cultura local con las letras mundiales concreta el ideal de asimilación cultural sin pérdida de la propia esencia.
@@ -193,8 +193,8 @@ El ajolote mexicano (Ambystoma mexicanum), endémico del sistema de lagos de Xoc
 Frente a una iniciativa legal que busque limitar el acceso de las mujeres o de comunidades rurales a la educación superior en México, la filosofía de el ajolote mexicano permitiría argumentar que:
 
 ### Opciones
-- [x] A) Limitar la educación de un sector de la población debilita el desarrollo cultural y atenta contra el potencial racional de la nación. <!-- feedback: Correcto. El desarrollo racional es un derecho universal y su restricción empobrece de manera integral a la cultura colectiva. -->
-- [ ] B) La medida es correcta porque el acceso a la cultura de vanguardia debe reservarse para una élite urbana cortesana. <!-- feedback: Incorrecto. El humanismo y la cruzada alfabetizadora promueven un ideal de acceso abierto al saber. -->
+- [x] B) Limitar la educación de un sector de la población debilita el desarrollo cultural y atenta contra el potencial racional de la nación. <!-- feedback: Correcto. El desarrollo racional es un derecho universal y su restricción empobrece de manera integral a la cultura colectiva. -->
+- [ ] A) La medida es correcta porque el acceso a la cultura de vanguardia debe reservarse para una élite urbana cortesana. <!-- feedback: Incorrecto. El humanismo y la cruzada alfabetizadora promueven un ideal de acceso abierto al saber. -->
 - [ ] C) El estudio científico debe restringirse para evitar que las tradiciones locales cambien con el tiempo. <!-- feedback: Incorrecto. La cultura es concebida de forma dinámica, enriqueciéndose mediante la asimilación de nuevos saberes. -->
 - [ ] D) Las decisiones de política educativa deben ser dictadas de forma absoluta por las autoridades eclesiásticas. <!-- feedback: Incorrecto. Se defiende la libertad intelectual de los creadores e investigadores por encima de controles dogmáticos. -->
 
@@ -216,9 +216,9 @@ El ajolote mexicano (Ambystoma mexicanum), endémico del sistema de lagos de Xoc
 Un ensayista contemporáneo que utiliza la sátira y el contraste lógico para criticar las incoherencias morales de la política mexicana sigue un método similar a:
 
 ### Opciones
-- [x] A) El desmontaje lógico e irónico que se describe en la obra de defensa del intelecto y crítica de costumbres. <!-- feedback: Correcto. Emplear la ironía y el rigor argumentativo para desnudar hipocresías es la técnica que se destaca en el fragmento. -->
-- [ ] B) La imitación de catálogos científicos de botánica exentos de lenguaje figurado. <!-- feedback: Incorrecto. La sátira es un recurso expresivo y valorativo de las humanidades, no una descripción científica fría. -->
-- [ ] C) La recopilación de datos estadísticos sobre el censo de población de la Nueva España. <!-- feedback: Incorrecto. Se enfoca en la argumentación lógica y moral, no en la contabilidad demográfica. -->
+- [x] C) El desmontaje lógico e irónico que se describe en la obra de defensa del intelecto y crítica de costumbres. <!-- feedback: Correcto. Emplear la ironía y el rigor argumentativo para desnudar hipocresías es la técnica que se destaca en el fragmento. -->
+- [ ] A) La imitación de catálogos científicos de botánica exentos de lenguaje figurado. <!-- feedback: Incorrecto. La sátira es un recurso expresivo y valorativo de las humanidades, no una descripción científica fría. -->
+- [ ] B) La recopilación de datos estadísticos sobre el censo de población de la Nueva España. <!-- feedback: Incorrecto. Se enfoca en la argumentación lógica y moral, no en la contabilidad demográfica. -->
 - [ ] D) Una queja lastimera que se limita a lamentar el orden social sin argumentar. <!-- feedback: Incorrecto. Al contrario, se destaca que la sátira y el desmontaje operan con rigor forense y racional. -->
 
 ### Explicacion Pedagogica
@@ -240,9 +240,9 @@ El concepto de un 'concierto de las letras universales' planteado en 'El Genoma 
 
 ### Opciones
 - [ ] A) Un coro de voces idénticas que cantan en una sola nota e idioma sin admitir variaciones. <!-- feedback: Incorrecto. Un concierto implica pluralidad e integración armoniosa de sonidos diversos, no homogeneidad absoluta. -->
-- [x] B) Una orquesta filarmónica donde instrumentos diversos aportan su timbre particular para crear una obra común. <!-- feedback: Correcto. Ilustra la asimilación respetuosa de identidades múltiples que cooperan de forma equilibrada en un marco universal. -->
-- [ ] C) Una biblioteca cerrada con candado donde sólo se permite el ingreso de los bibliotecarios. <!-- feedback: Incorrecto. El concierto alude a un diálogo abierto de ideas, no al ocultamiento o reclusión del saber. -->
-- [ ] D) Un mercado informal de copias piratas de textos de botánica. <!-- feedback: Incorrecto. La analogía es con un espacio de creación coordinada e intelectual de alto valor estético. -->
+- [x] D) Una orquesta filarmónica donde instrumentos diversos aportan su timbre particular para crear una obra común. <!-- feedback: Correcto. Ilustra la asimilación respetuosa de identidades múltiples que cooperan de forma equilibrada en un marco universal. -->
+- [ ] B) Una biblioteca cerrada con candado donde sólo se permite el ingreso de los bibliotecarios. <!-- feedback: Incorrecto. El concierto alude a un diálogo abierto de ideas, no al ocultamiento o reclusión del saber. -->
+- [ ] C) Un mercado informal de copias piratas de textos de botánica. <!-- feedback: Incorrecto. La analogía es con un espacio de creación coordinada e intelectual de alto valor estético. -->
 
 ### Explicacion Pedagogica
 La armoniosa integración de voces y culturas literarias diversas en un tronco humanista común es representada de forma idónea por la analogía de la orquesta.
@@ -262,10 +262,10 @@ A pesar de su inmenso valor para las ciencias y su papel en la mitología náhua
 Si un científico del CONACYT analizara el tema expuesto en 'La Degradación Ambiental del Hábitat de Xochimilco' desde un marco meramente físico-geológico, dirigiría su atención a:
 
 ### Opciones
-- [x] A) La composición mineral de las rocas calizas, la orografía del relieve y el registro empírico del clima. <!-- feedback: Correcto. El análisis geológico se ciñe a variables físicas y mensurables de manera objetiva, desprovistas de carga afectiva. -->
-- [ ] B) La añoranza poética que experimentan los habitantes locales en sus diarios íntimos. <!-- feedback: Incorrecto. Las emociones y recuerdos de la infancia entran en el ámbito del ensayo literario, no de la geología. -->
-- [ ] C) Las leyendas orales recopiladas por los cronistas coloniales de la Nueva España. <!-- feedback: Incorrecto. El folklore pertenece a los estudios antropológicos y culturales, apartados del registro físico-químico mineral. -->
-- [ ] D) La recaudación de impuestos ejidales del sector agrícola de la región. <!-- feedback: Incorrecto. Las finanzas municipales no constituyen el objeto de estudio de las ciencias de la Tierra. -->
+- [x] D) La composición mineral de las rocas calizas, la orografía del relieve y el registro empírico del clima. <!-- feedback: Correcto. El análisis geológico se ciñe a variables físicas y mensurables de manera objetiva, desprovistas de carga afectiva. -->
+- [ ] A) La añoranza poética que experimentan los habitantes locales en sus diarios íntimos. <!-- feedback: Incorrecto. Las emociones y recuerdos de la infancia entran en el ámbito del ensayo literario, no de la geología. -->
+- [ ] B) Las leyendas orales recopiladas por los cronistas coloniales de la Nueva España. <!-- feedback: Incorrecto. El folklore pertenece a los estudios antropológicos y culturales, apartados del registro físico-químico mineral. -->
+- [ ] C) La recaudación de impuestos ejidales del sector agrícola de la región. <!-- feedback: Incorrecto. Las finanzas municipales no constituyen el objeto de estudio de las ciencias de la Tierra. -->
 
 ### Explicacion Pedagogica
 Un enfoque puramente científico o físico aislaría las propiedades del relieve y del clima, dejando fuera el valor identitario y de memoria colectiva.
@@ -308,10 +308,10 @@ A pesar de su inmenso valor para las ciencias y su papel en la mitología náhua
 En el fragmento 'La Degradación Ambiental del Hábitat de Xochimilco', ¿cuál es la relación que se establece entre el paisaje físico de la conservación biológica y el carácter de sus habitantes?
 
 ### Opciones
-- [x] A) El medio físico ejerce una influencia profunda en el temperamento de la comunidad, promoviendo virtudes como la tenacidad. <!-- feedback: Correcto. El autor argumenta que la dureza del relieve y la aridez climática modelan de forma directa el espíritu esforzado colectiva. -->
-- [ ] B) El relieve geográfico no tiene ningún impacto real en la mentalidad o en la cultura de las personas. <!-- feedback: Incorrecto. El fragmento sostiene precisamente la tesis opuesta, valorando la geografía como pilar de identidad. -->
-- [ ] C) Los habitantes odian profundamente su entorno y buscan destruirlo mediante la urbanización masiva. <!-- feedback: Incorrecto. Al contrario, la montaña es descrita como el eje del cariño y de la memoria colectiva de los ciudadanos. -->
-- [ ] D) El clima templado y la abundancia de recursos forestales producen un temperamento apático. <!-- feedback: Incorrecto. El clima es descrito como desafiante y árido, y se asocia con la tenacidad, no con la apatía. -->
+- [x] D) El medio físico ejerce una influencia profunda en el temperamento de la comunidad, promoviendo virtudes como la tenacidad. <!-- feedback: Correcto. El autor argumenta que la dureza del relieve y la aridez climática modelan de forma directa el espíritu esforzado colectiva. -->
+- [ ] A) El relieve geográfico no tiene ningún impacto real en la mentalidad o en la cultura de las personas. <!-- feedback: Incorrecto. El fragmento sostiene precisamente la tesis opuesta, valorando la geografía como pilar de identidad. -->
+- [ ] B) Los habitantes odian profundamente su entorno y buscan destruirlo mediante la urbanización masiva. <!-- feedback: Incorrecto. Al contrario, la montaña es descrita como el eje del cariño y de la memoria colectiva de los ciudadanos. -->
+- [ ] C) El clima templado y la abundancia de recursos forestales producen un temperamento apático. <!-- feedback: Incorrecto. El clima es descrito como desafiante y árido, y se asocia con la tenacidad, no con la apatía. -->
 
 ### Explicacion Pedagogica
 El autor teoriza que la geografía desafiante opera como una escuela de temple, forjando un carácter laborioso y tenaz en la población local.
@@ -401,9 +401,9 @@ A pesar de su inmenso valor para las ciencias y su papel en la mitología náhua
 
 ### Opciones
 - [ ] A) En proveer una fórmula matemática exacta para calcular el volumen de agua de los acuíferos o la altura de las montañas. <!-- feedback: Incorrecto. No de depara mediciones de tipo industrial o ingenieril cuantitativo en el ensayo analizado. -->
-- [x] B) En transfigurar el espacio físico de un dato estadístico frío a un patrimonio vivo cargado de memoria y afecto social. <!-- feedback: Correcto. El escrito dota de dimensión humana y simbólica a la geografía, incorporándola al acervo cultural e identitario. -->
-- [ ] C) En justificar el cobro de cuotas arancelarias a las publicaciones literarias procedentes del extranjero. <!-- feedback: Incorrecto. No guarda relación alguna con regulaciones comerciales o aranceles de importación de libros. -->
-- [ ] D) En sugerir que la literatura de opinión carece de importancia frente a la recopilación de archivos históricos coloniales. <!-- feedback: Incorrecto. El texto exalta precisamente la gran valía del ensayo literario y de la apreciación estética del medio. -->
+- [x] D) En transfigurar el espacio físico de un dato estadístico frío a un patrimonio vivo cargado de memoria y afecto social. <!-- feedback: Correcto. El escrito dota de dimensión humana y simbólica a la geografía, incorporándola al acervo cultural e identitario. -->
+- [ ] B) En justificar el cobro de cuotas arancelarias a las publicaciones literarias procedentes del extranjero. <!-- feedback: Incorrecto. No guarda relación alguna con regulaciones comerciales o aranceles de importación de libros. -->
+- [ ] C) En sugerir que la literatura de opinión carece de importancia frente a la recopilación de archivos históricos coloniales. <!-- feedback: Incorrecto. El texto exalta precisamente la gran valía del ensayo literario y de la apreciación estética del medio. -->
 
 ### Explicacion Pedagogica
 La trascendencia de la geografía y los ritos estriba en su conversión en hitos vivos que anclan la memoria y el afecto de la comunidad.
@@ -470,9 +470,9 @@ A pesar de su inmenso valor para las ciencias y su papel en la mitología náhua
 
 ### Opciones
 - [ ] A) El avance tecnológico e industrial hace innecesario e inútil cualquier esfuerzo por conservar la flora o la fauna nativas. <!-- feedback: Incorrecto. El texto sostiene precisamente que el desarrollo nacional debe guardar equilibrio ético con el resguardo natural. -->
-- [x] B) El paisaje, los rituales y los recursos naturales constituyen un tejido vivo de identidad que exige un compromiso ético de custodia. <!-- feedback: Correcto. La geografía y las tradiciones mesoamericanas no son meros objetos utilitarios, sino pilares de la memoria y la vida nacional. -->
-- [ ] C) La cultura del norte y la del sur de México son enemigas históricas irreconciliables que no pueden compartir un humanismo común. <!-- feedback: Incorrecto. Al contrario, se conciben como expresiones diversas y complementarias de la riqueza del país. -->
-- [ ] D) El estudio de la astronomía y la arqueología subacuática debe subordinarse a los dictados de las leyes mercantiles de importación. <!-- feedback: Incorrecto. El autor valora la autonomía de las ciencias y el saber humanístico por encima de controles puramente mercantiles. -->
+- [x] D) El paisaje, los rituales y los recursos naturales constituyen un tejido vivo de identidad que exige un compromiso ético de custodia. <!-- feedback: Correcto. La geografía y las tradiciones mesoamericanas no son meros objetos utilitarios, sino pilares de la memoria y la vida nacional. -->
+- [ ] B) La cultura del norte y la del sur de México son enemigas históricas irreconciliables que no pueden compartir un humanismo común. <!-- feedback: Incorrecto. Al contrario, se conciben como expresiones diversas y complementarias de la riqueza del país. -->
+- [ ] C) El estudio de la astronomía y la arqueología subacuática debe subordinarse a los dictados de las leyes mercantiles de importación. <!-- feedback: Incorrecto. El autor valora la autonomía de las ciencias y el saber humanístico por encima de controles puramente mercantiles. -->
 
 ### Explicacion Pedagogica
 La lectura integral concluye que la conservación ecológica y el resguardo de los ritos son imperativos éticos para preservar la memoria colectiva nacional.

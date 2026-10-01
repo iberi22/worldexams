@@ -63,11 +63,11 @@ Complete the sentence: "My sister ________ to the gym every morning."
 ### Opciones
 - [ ] A) go
   <!-- feedback: Incorrect. Needs the third person ending for "my sister". -->
-- [x] B) goes
+- [x] D) goes
   <!-- feedback: Correct! "Goes" is the correct third-person singular form. -->
-- [ ] C) going
+- [ ] B) going
   <!-- feedback: Incorrect. This is the continuous form. -->
-- [ ] D) went
+- [ ] C) went
   <!-- feedback: Incorrect. This is the past tense. -->
 
 ### Explicacion Pedagogica
@@ -87,13 +87,13 @@ Friend A: "How often do you watch movies?"
 Friend B: "________________________"
 
 ### Opciones
-- [x] A) I sometimes watch movies on Fridays.
+- [x] D) I sometimes watch movies on Fridays.
   <!-- feedback: Correct! This uses a frequency adverb to answer "How often". -->
-- [ ] B) I like horror movies.
+- [ ] A) I like horror movies.
   <!-- feedback: Incorrect. This talks about preferences, not frequency. -->
-- [ ] C) I am watching a movie now.
+- [ ] B) I am watching a movie now.
   <!-- feedback: Incorrect. This uses the present continuous to describe a current action. -->
-- [ ] D) At the cinema in the mall.
+- [ ] C) At the cinema in the mall.
   <!-- feedback: Incorrect. This answers "Where?". -->
 
 ### Explicacion Pedagogica
@@ -116,9 +116,9 @@ Which sentence follows the correct word order?
   <!-- feedback: Incorrect. Adverbs go after "to be". -->
 - [ ] B) Never I am tired.
   <!-- feedback: Incorrect. Incorrect word order. -->
-- [x] C) I am never tired.
+- [x] D) I am never tired.
   <!-- feedback: Correct! With the verb "to be", the adverb of frequency comes after. -->
-- [ ] D) I am tired never.
+- [ ] C) I am tired never.
   <!-- feedback: Incorrect. Less natural and standard than option C. -->
 
 ### Explicacion Pedagogica
@@ -163,9 +163,9 @@ The student applies knowledge of both plural and third-person singular conjugati
 According to the text, what does Pablo do right after waking up?
 
 ### Opciones
-- [ ] A) He goes to school.
+- [ ] B) He goes to school.
   <!-- feedback: Incorrect. He studies before school. -->
-- [x] B) He brushes his teeth.
+- [x] A) He brushes his teeth.
   <!-- feedback: Correct! The text says "He brushes his teeth" after mentioning he wakes up. -->
 - [ ] C) He studies for an hour.
   <!-- feedback: Incorrect. Studying happens after brushing his teeth. -->
@@ -190,9 +190,9 @@ Choose the correct negative sentence about a person's routine.
 ### Opciones
 - [ ] A) He don't play video games on Mondays.
   <!-- feedback: Incorrect. "He" requires the auxiliary "doesn't". -->
-- [x] B) He doesn't play video games on Mondays.
+- [x] C) He doesn't play video games on Mondays.
   <!-- feedback: Correct! "Doesn't" is the correct auxiliary for third person singular. -->
-- [ ] C) He doesn't plays video games on Mondays.
+- [ ] B) He doesn't plays video games on Mondays.
   <!-- feedback: Incorrect. After "doesn't", the verb must be in its base form (no 's'). -->
 - [ ] D) He not play video games on Mondays.
   <!-- feedback: Incorrect. Missing the auxiliary verb "do/does". -->
@@ -242,11 +242,11 @@ What can we analyze from their habits?
 ### Opciones
 - [ ] A) Ana plays sport more often than Luis.
   <!-- feedback: Incorrect. Luis plays sport 3 days, Ana only 1. -->
-- [x] B) Ana reads more frequently than Luis.
+- [x] D) Ana reads more frequently than Luis.
   <!-- feedback: Correct! Ana reads every night, Luis never reads. -->
-- [ ] C) Luis studies more than Ana.
+- [ ] B) Luis studies more than Ana.
   <!-- feedback: Incorrect. They both study the same amount (5 days). -->
-- [ ] D) They have the same routine.
+- [ ] C) They have the same routine.
   <!-- feedback: Incorrect. Their sport and reading habits are different. -->
 
 ### Explicacion Pedagogica
@@ -268,9 +268,9 @@ Which conclusion is most valid based on Mateo's description?
 ### Opciones
 - [ ] A) Mateo is the captain because he never drinks soda.
   <!-- feedback: Incorrect. This is only one part of his healthy habits, not the sole reason. -->
-- [ ] B) Mateo runs because he doesn't have time to sleep.
+- [ ] C) Mateo runs because he doesn't have time to sleep.
   <!-- feedback: Incorrect. The text doesn't mention his sleep habits. -->
-- [x] C) Mateo's disciplined and healthy habits support his role as an athlete.
+- [x] B) Mateo's disciplined and healthy habits support his role as an athlete.
   <!-- feedback: Correct! The combination of exercise and diet reflects his athletic nature and discipline. -->
 - [ ] D) Mateo always eats vegetables because he is the captain.
   <!-- feedback: Incorrect. The relationship is likely the other way around: his habits make him a good candidate for captain. -->

@@ -32,9 +32,9 @@ Este bundle contiene 12 preguntas sobre **estructura-atomica-modelos** para grad
 ### Enunciado
 Cuáles son las tres particulas subatomicas principales que componen un átomo y su ubicacion relativa?
 ### Opciones
-- [x] A) Protones y neutrones en el nucleo; electrones en la corteza.
+- [x] B) Protones y neutrones en el nucleo; electrones en la corteza.
   <!-- feedback: Correcto. Los protones y neutrones forman el nucleo; los electrones orbitan en la corteza. -->
-- [ ] B) Protones en la corteza, neutrones en el nucleo y electrones libres en todo el átomo.
+- [ ] A) Protones en la corteza, neutrones en el nucleo y electrones libres en todo el átomo.
   <!-- feedback: Incorrecto. Los protones estan en el nucleo, no en la corteza. -->
 - [ ] C) Neutrones y electrones en el nucleo; protones en la corteza.
   <!-- feedback: Incorrecto. Los electrones no estan en el nucleo. -->
@@ -72,11 +72,11 @@ Dalton: átomo $=$ esfera solida, indivisible e indestructible, con masa caracte
 ### Enunciado
 Cuántos protones, electrones y neutrones posee este átomo de carbono-12?
 ### Opciones
-- [x] A) 6 protones, 6 electrones y 6 neutrones.
+- [x] C) 6 protones, 6 electrones y 6 neutrones.
   <!-- feedback: Correcto. $Z = 6$ implica 6 protones y 6 electrones (átomo neutro). $N = A - Z = 12 - 6 = 6$ neutrones. -->
-- [ ] B) 12 protones, 6 electrones y 0 neutrones.
+- [ ] A) 12 protones, 6 electrones y 0 neutrones.
   <!-- feedback: Incorrecto. El número de protones es $Z = 6$, no 12. -->
-- [ ] C) 6 protones, 12 electrones y 6 neutrones.
+- [ ] B) 6 protones, 12 electrones y 6 neutrones.
   <!-- feedback: Incorrecto. En un átomo neutro, protones = electrones = 6. -->
 - [ ] D) 12 protones, 12 electrones y 6 neutrones.
   <!-- feedback: Incorrecto. El átomo neutro tendria 6 protones y 6 electrones, no 12 de cada uno. -->
@@ -92,9 +92,9 @@ $Z$ $=$ protones $=$ electrones (átomo neutro). $N$ $=$ neutrones $= A - Z$. Pa
 ### Enunciado
 Cual fue la conclusión principal de Rutherford a partir de la dispersion de particulas alfa al chocar contra una lamina de oro?
 ### Opciones
-- [x] A) El átomo tiene un nucleo pequeno, denso y con carga positiva donde se concentra casi toda la masa.
+- [x] B) El átomo tiene un nucleo pequeno, denso y con carga positiva donde se concentra casi toda la masa.
   <!-- feedback: Correcto. Rutherford propuso el nucleo positivo y denso rodeado de gran espacio vacio. -->
-- [ ] B) El átomo es una esfera maciza e indivisible como sostenia Dalton.
+- [ ] A) El átomo es una esfera maciza e indivisible como sostenia Dalton.
   <!-- feedback: Incorrecto. Esa era la conclusión previa de Dalton, refutada por el experimento. -->
 - [ ] C) Los electrones estan incrustados en una nube positiva difusa como en el modelo de Thomson.
   <!-- feedback: Incorrecto. Esa idea corresponde al modelo de Thomson, superado por Rutherford. -->
@@ -112,9 +112,9 @@ Rutherford: el átomo tiene un nucleo pequeno, denso y positivo, rodeado de gran
 ### Enunciado
 Que caracteriza a los isotopos de un mismo elemento químico?
 ### Opciones
-- [x] A) Poseen el mismo número atomico $Z$ pero diferente número masico $A$ por variar el número de neutrones.
+- [x] B) Poseen el mismo número atomico $Z$ pero diferente número masico $A$ por variar el número de neutrones.
   <!-- feedback: Correcto. Isotopos tienen igual $Z$ y diferente $A$ (distinto número de neutrones). -->
-- [ ] B) Poseen diferente número de protones y electrones.
+- [ ] A) Poseen diferente número de protones y electrones.
   <!-- feedback: Incorrecto. Si varian los protones, ya no es el mismo elemento. -->
 - [ ] C) Poseen el mismo número masico $A$ pero diferente número atomico $Z$.
   <!-- feedback: Incorrecto. Eso corresponde a isotonos, no a isotopos. -->
@@ -132,13 +132,13 @@ Isotopos: mismo $Z$, diferente $A$. Ejemplo: hidrogeno-1, hidrogeno-2 (deuterio)
 ### Enunciado
 Cuál es el análisis correcto de la presencia de lineas espectrales discretas en el hidrógeno?
 ### Opciones
-- [x] A) Los electrones absorben o emiten energía solo en saltos cuantizados entre niveles energeticos definidos.
+- [x] D) Los electrones absorben o emiten energía solo en saltos cuantizados entre niveles energeticos definidos.
   <!-- feedback: Correcto. Bohr explico que los electrones ocupan niveles energeticos cuantizados. -->
-- [ ] B) El espectro discreto prueba que los átomos son esferas macizas como proponia Dalton.
+- [ ] A) El espectro discreto prueba que los átomos son esferas macizas como proponia Dalton.
   <!-- feedback: Incorrecto. Dalton no explicaba el origen de los espectros discretos. -->
-- [ ] C) Las lineas espectrales se deben a vibraciones mecanicas del nucleo.
+- [ ] B) Las lineas espectrales se deben a vibraciones mecanicas del nucleo.
   <!-- feedback: Incorrecto. Las lineas espectrales se deben a transiciones electronicas, no a vibraciones nucleares. -->
-- [ ] D) El espectro discreto demuestra que el átomo es totalmente continuo.
+- [ ] C) El espectro discreto demuestra que el átomo es totalmente continuo.
   <!-- feedback: Incorrecto. Es justamente evidencia de la cuantizacion de la energía en el átomo. -->
 ### Explicacion Pedagogica
 Los espectros discretos revelan la cuantizacion de la energía: los electrones solo ocupan ciertos niveles energeticos permitidos.
@@ -172,13 +172,13 @@ El modelo cuantico sustituye orbitas por orbitales probabilisticos y considera e
 ### Enunciado
 Cuál es el análisis del papel del isotopo carbono-14 en la datacion de muestras biologicas antiguas?
 ### Opciones
-- [x] A) El carbono-14 es un isotopo radiactivo cuyo periodo de semidesintegracion permite estimar la edad de restos biologicos.
+- [x] D) El carbono-14 es un isotopo radiactivo cuyo periodo de semidesintegracion permite estimar la edad de restos biologicos.
   <!-- feedback: Correcto. La desintegracion radiactiva del C-14 sirve como reloj natural. -->
-- [ ] B) El carbono-14 es estable y no cambia con el tiempo, por lo que no sirve para datar.
+- [ ] A) El carbono-14 es estable y no cambia con el tiempo, por lo que no sirve para datar.
   <!-- feedback: Incorrecto. El C-14 es radiactivo y se desintegra con un periodo conocido. -->
-- [ ] C) El carbono-14 solo aparece en materiales sintetizados en laboratorio.
+- [ ] B) El carbono-14 solo aparece en materiales sintetizados en laboratorio.
   <!-- feedback: Incorrecto. El C-14 se forma en la atmósfera y se incorpora a los seres vivos. -->
-- [ ] D) El carbono-14 es util solo para datar minerales, no muestras biologicas.
+- [ ] C) El carbono-14 es util solo para datar minerales, no muestras biologicas.
   <!-- feedback: Incorrecto. Especificamente sirve para datar restos organicos. -->
 ### Explicacion Pedagogica
 El C-14 atmosferico es incorporado por organismos vivos. Tras la muerte, su cantidad disminuye por desintegracion radiactiva, lo que permite datar la muestra.
@@ -192,9 +192,9 @@ El C-14 atmosferico es incorporado por organismos vivos. Tras la muerte, su cant
 ### Enunciado
 Cuál es el análisis correcto del aporte principal de Niels Bohr al modelo atomico?
 ### Opciones
-- [x] A) Introducir la idea de cuantizacion de la energía y de niveles estacionarios para los electrones.
+- [x] B) Introducir la idea de cuantizacion de la energía y de niveles estacionarios para los electrones.
   <!-- feedback: Correcto. Bohr planteo que los electrones ocupan orbitas con energía cuantizada. -->
-- [ ] B) Demostrar que el átomo es indivisible y macizo.
+- [ ] A) Demostrar que el átomo es indivisible y macizo.
   <!-- feedback: Incorrecto. Esa idea corresponde a Dalton, no a Bohr. -->
 - [ ] C) Proponer el descubrimiento del electron mediante rayos catodicos.
   <!-- feedback: Incorrecto. El electron fue descubierto por Thomson mediante rayos catodicos. -->
@@ -252,9 +252,9 @@ El espectrometro de masas identifica átomos, moléculas e isotopos al separar i
 ### Enunciado
 Cual de los siguientes argumentos científicos justifica mejor el uso controlado de isotopos radiactivos en medicina?
 ### Opciones
-- [x] A) Permiten diagnosticos y tratamientos especificos; su riesgo se minimiza con dosis y protocolos adecuados.
+- [x] B) Permiten diagnosticos y tratamientos especificos; su riesgo se minimiza con dosis y protocolos adecuados.
   <!-- feedback: Correcto. Los isotopos radiactivos aportan beneficios clinicos cuando se controlan. -->
-- [ ] B) Cualquier exposicion a isotopos radiactivos siempre es mortal para el paciente.
+- [ ] A) Cualquier exposicion a isotopos radiactivos siempre es mortal para el paciente.
   <!-- feedback: Incorrecto. Las dosis clinicas estan cuidadosamente calibradas para minimizar danos. -->
 - [ ] C) Los isotopos radiactivos nunca deben usarse porque toda radiacion es igualmente peligrosa.
   <!-- feedback: Incorrecto. El riesgo depende de la dosis, el tipo de radiacion y el tiempo de exposicion. -->

@@ -30,13 +30,13 @@ creador: "Jules-Agent"
 En una mañana se vendieron en total 50 tazas de café, recaudando $1,800 pesos. Si el precio del americano es de $30 pesos y el del capuchino es de $45 pesos, ¿cuántas tazas de capuchino se vendieron?
 
 ### Opciones
-- [x] A) 20 tazas de capuchino
+- [x] D) 20 tazas de capuchino
   <!-- feedback: ¡Correcto! Planteando el sistema x+y=50, 30x+45y=1800. Sustituyendo x=50-y en la segunda: 30(50-y)+45y=1800 -> 1500 + 15y = 1800 -> 15y = 300 -> y = 20 tazas. -->
-- [ ] B) 30 tazas de capuchino
+- [ ] A) 30 tazas de capuchino
   <!-- feedback: Incorrecto. Esto correspondería a la cantidad de cafés americanos vendidos. -->
-- [ ] C) 25 tazas de capuchino
+- [ ] B) 25 tazas de capuchino
   <!-- feedback: Incorrecto. Si se vendiera la mitad de cada uno, la recaudación sería de $1,875 pesos. -->
-- [ ] D) 15 tazas de capuchino
+- [ ] C) 15 tazas de capuchino
   <!-- feedback: Incorrecto. Con esta cantidad, la recaudación sería menor al total registrado. -->
 
 ### Explicacion Pedagogica
@@ -76,9 +76,9 @@ Planteamos el sistema donde x = vacas (4 patas) e y = gallinas (2 patas): x + y 
 Resuelve el sistema lineal básico para hallar el valor de y: x + y = 13, x - y = 7.
 
 ### Opciones
-- [x] A) 3
+- [x] B) 3
   <!-- feedback: ¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3. -->
-- [ ] B) 15
+- [ ] A) 15
   <!-- feedback: Incorrecto. Se cometió un error algebraico al restar las variables. -->
 - [ ] C) 7
   <!-- feedback: Incorrecto. Este corresponde al valor de la variable x, no de la variable y. -->
@@ -99,9 +99,9 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 Resuelve el sistema lineal básico para hallar el valor de y: x + y = 14, x - y = 8.
 
 ### Opciones
-- [x] A) 3
+- [x] B) 3
   <!-- feedback: ¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3. -->
-- [ ] B) 16
+- [ ] A) 16
   <!-- feedback: Incorrecto. Se cometió un error algebraico al restar las variables. -->
 - [ ] C) 7
   <!-- feedback: Incorrecto. Este corresponde al valor de la variable x, no de la variable y. -->
@@ -122,9 +122,9 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 Resuelve el sistema lineal básico para hallar el valor de y: x + y = 15, x - y = 9.
 
 ### Opciones
-- [x] A) 3
+- [x] B) 3
   <!-- feedback: ¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3. -->
-- [ ] B) 17
+- [ ] A) 17
   <!-- feedback: Incorrecto. Se cometió un error algebraico al restar las variables. -->
 - [ ] C) 7
   <!-- feedback: Incorrecto. Este corresponde al valor de la variable x, no de la variable y. -->
@@ -145,13 +145,13 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 Resuelve el sistema lineal básico para hallar el valor de y: x + y = 16, x - y = 10.
 
 ### Opciones
-- [x] A) 3
+- [x] D) 3
   <!-- feedback: ¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3. -->
-- [ ] B) 18
+- [ ] A) 18
   <!-- feedback: Incorrecto. Se cometió un error algebraico al restar las variables. -->
-- [ ] C) 7
+- [ ] B) 7
   <!-- feedback: Incorrecto. Este corresponde al valor de la variable x, no de la variable y. -->
-- [ ] D) 5
+- [ ] C) 5
   <!-- feedback: Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas. -->
 
 ### Explicacion Pedagogica
@@ -168,13 +168,13 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 Resuelve el sistema lineal básico para hallar el valor de y: x + y = 17, x - y = 11.
 
 ### Opciones
-- [x] A) 3
+- [x] D) 3
   <!-- feedback: ¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3. -->
-- [ ] B) 19
+- [ ] A) 19
   <!-- feedback: Incorrecto. Se cometió un error algebraico al restar las variables. -->
-- [ ] C) 7
+- [ ] B) 7
   <!-- feedback: Incorrecto. Este corresponde al valor de la variable x, no de la variable y. -->
-- [ ] D) 5
+- [ ] C) 5
   <!-- feedback: Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas. -->
 
 ### Explicacion Pedagogica
@@ -191,11 +191,11 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 Resuelve el sistema lineal básico para hallar el valor de y: x + y = 18, x - y = 12.
 
 ### Opciones
-- [x] A) 3
+- [x] C) 3
   <!-- feedback: ¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3. -->
-- [ ] B) 20
+- [ ] A) 20
   <!-- feedback: Incorrecto. Se cometió un error algebraico al restar las variables. -->
-- [ ] C) 7
+- [ ] B) 7
   <!-- feedback: Incorrecto. Este corresponde al valor de la variable x, no de la variable y. -->
 - [ ] D) 5
   <!-- feedback: Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas. -->
@@ -214,11 +214,11 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 Resuelve el sistema lineal básico para hallar el valor de y: x + y = 19, x - y = 13.
 
 ### Opciones
-- [x] A) 3
+- [x] C) 3
   <!-- feedback: ¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3. -->
-- [ ] B) 21
+- [ ] A) 21
   <!-- feedback: Incorrecto. Se cometió un error algebraico al restar las variables. -->
-- [ ] C) 7
+- [ ] B) 7
   <!-- feedback: Incorrecto. Este corresponde al valor de la variable x, no de la variable y. -->
 - [ ] D) 5
   <!-- feedback: Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas. -->
@@ -260,11 +260,11 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 Resuelve el sistema lineal básico para hallar el valor de y: x + y = 21, x - y = 15.
 
 ### Opciones
-- [x] A) 3
+- [x] C) 3
   <!-- feedback: ¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3. -->
-- [ ] B) 23
+- [ ] A) 23
   <!-- feedback: Incorrecto. Se cometió un error algebraico al restar las variables. -->
-- [ ] C) 7
+- [ ] B) 7
   <!-- feedback: Incorrecto. Este corresponde al valor de la variable x, no de la variable y. -->
 - [ ] D) 5
   <!-- feedback: Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas. -->
@@ -283,9 +283,9 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 Resuelve el sistema lineal básico para hallar el valor de y: x + y = 22, x - y = 16.
 
 ### Opciones
-- [x] A) 3
+- [x] B) 3
   <!-- feedback: ¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3. -->
-- [ ] B) 24
+- [ ] A) 24
   <!-- feedback: Incorrecto. Se cometió un error algebraico al restar las variables. -->
 - [ ] C) 7
   <!-- feedback: Incorrecto. Este corresponde al valor de la variable x, no de la variable y. -->
@@ -306,13 +306,13 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 Resuelve el sistema lineal básico para hallar el valor de y: x + y = 23, x - y = 17.
 
 ### Opciones
-- [x] A) 3
+- [x] D) 3
   <!-- feedback: ¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3. -->
-- [ ] B) 25
+- [ ] A) 25
   <!-- feedback: Incorrecto. Se cometió un error algebraico al restar las variables. -->
-- [ ] C) 7
+- [ ] B) 7
   <!-- feedback: Incorrecto. Este corresponde al valor de la variable x, no de la variable y. -->
-- [ ] D) 5
+- [ ] C) 5
   <!-- feedback: Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas. -->
 
 ### Explicacion Pedagogica
@@ -329,11 +329,11 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 Resuelve el sistema lineal básico para hallar el valor de y: x + y = 24, x - y = 18.
 
 ### Opciones
-- [x] A) 3
+- [x] C) 3
   <!-- feedback: ¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3. -->
-- [ ] B) 26
+- [ ] A) 26
   <!-- feedback: Incorrecto. Se cometió un error algebraico al restar las variables. -->
-- [ ] C) 7
+- [ ] B) 7
   <!-- feedback: Incorrecto. Este corresponde al valor de la variable x, no de la variable y. -->
 - [ ] D) 5
   <!-- feedback: Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas. -->
@@ -375,11 +375,11 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 Resuelve el sistema lineal básico para hallar el valor de y: x + y = 26, x - y = 20.
 
 ### Opciones
-- [x] A) 3
+- [x] C) 3
   <!-- feedback: ¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3. -->
-- [ ] B) 28
+- [ ] A) 28
   <!-- feedback: Incorrecto. Se cometió un error algebraico al restar las variables. -->
-- [ ] C) 7
+- [ ] B) 7
   <!-- feedback: Incorrecto. Este corresponde al valor de la variable x, no de la variable y. -->
 - [ ] D) 5
   <!-- feedback: Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas. -->
@@ -398,11 +398,11 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 Resuelve el sistema lineal básico para hallar el valor de y: x + y = 27, x - y = 21.
 
 ### Opciones
-- [x] A) 3
+- [x] C) 3
   <!-- feedback: ¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3. -->
-- [ ] B) 29
+- [ ] A) 29
   <!-- feedback: Incorrecto. Se cometió un error algebraico al restar las variables. -->
-- [ ] C) 7
+- [ ] B) 7
   <!-- feedback: Incorrecto. Este corresponde al valor de la variable x, no de la variable y. -->
 - [ ] D) 5
   <!-- feedback: Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas. -->
@@ -421,11 +421,11 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 Resuelve el sistema lineal básico para hallar el valor de y: x + y = 28, x - y = 22.
 
 ### Opciones
-- [x] A) 3
+- [x] C) 3
   <!-- feedback: ¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3. -->
-- [ ] B) 30
+- [ ] A) 30
   <!-- feedback: Incorrecto. Se cometió un error algebraico al restar las variables. -->
-- [ ] C) 7
+- [ ] B) 7
   <!-- feedback: Incorrecto. Este corresponde al valor de la variable x, no de la variable y. -->
 - [ ] D) 5
   <!-- feedback: Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas. -->
@@ -444,13 +444,13 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 Resuelve el sistema lineal básico para hallar el valor de y: x + y = 29, x - y = 23.
 
 ### Opciones
-- [x] A) 3
+- [x] D) 3
   <!-- feedback: ¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3. -->
-- [ ] B) 31
+- [ ] A) 31
   <!-- feedback: Incorrecto. Se cometió un error algebraico al restar las variables. -->
-- [ ] C) 7
+- [ ] B) 7
   <!-- feedback: Incorrecto. Este corresponde al valor de la variable x, no de la variable y. -->
-- [ ] D) 5
+- [ ] C) 5
   <!-- feedback: Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas. -->
 
 ### Explicacion Pedagogica
@@ -467,11 +467,11 @@ Restamos la segunda ecuación de la primera para eliminar la variable x: (x + y)
 Resuelve el sistema lineal básico para hallar el valor de y: x + y = 30, x - y = 24.
 
 ### Opciones
-- [x] A) 3
+- [x] C) 3
   <!-- feedback: ¡Correcto! Al restar la segunda ecuación de la primera, obtenemos 2y = 6, de donde y = 3. -->
-- [ ] B) 32
+- [ ] A) 32
   <!-- feedback: Incorrecto. Se cometió un error algebraico al restar las variables. -->
-- [ ] C) 7
+- [ ] B) 7
   <!-- feedback: Incorrecto. Este corresponde al valor de la variable x, no de la variable y. -->
 - [ ] D) 5
   <!-- feedback: Incorrecto. No satisface de forma simultánea ambas ecuaciones lineales simultáneas. -->

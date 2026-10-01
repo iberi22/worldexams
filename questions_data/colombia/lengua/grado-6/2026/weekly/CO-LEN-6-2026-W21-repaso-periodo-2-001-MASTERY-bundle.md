@@ -34,8 +34,8 @@ creador: Jules-Agent
 
 ### Opciones
 - [ ] A) Solo habla del verbo, porque es la categoría más importante. <!-- feedback: Incorrecto. El cartel incluye tres categorías distintas. -->
-- [ ] B) Sustituye los sustantivos por adverbios y verbos. <!-- feedback: Incorrecto. Los adverbios y verbos no hacen lo mismo que el sustantivo. -->
-- [x] C) Repasa tres funciones distintas: acción (verbo), modo (adverbio) y referencia (pronombre). <!-- feedback: Correcto. Cada palabra cumple un papel diferente en la oración. -->
+- [ ] C) Sustituye los sustantivos por adverbios y verbos. <!-- feedback: Incorrecto. Los adverbios y verbos no hacen lo mismo que el sustantivo. -->
+- [x] B) Repasa tres funciones distintas: acción (verbo), modo (adverbio) y referencia (pronombre). <!-- feedback: Correcto. Cada palabra cumple un papel diferente en la oración. -->
 - [ ] D) Solo define el pronombre y deja las demás categorías sin explicar. <!-- feedback: Incorrecto. Define las tres categorías, no solo una. -->
 
 ### Explicacion Pedagogica
@@ -55,8 +55,8 @@ En el segundo periodo se repasaron el verbo, el adverbio, el pronombre, la prepo
 
 ### Opciones
 - [ ] A) Solo sustantivo y verbo. <!-- feedback: Incorrecto. Hay más categorías presentes. -->
-- [x] B) Sujeto, verbo, adverbio, conjunción y pronombre. <!-- feedback: Correcto. El resumen identifica las cinco categorías clave. -->
-- [ ] C) Solo adverbio y preposición. <!-- feedback: Incorrecto. Hay al menos cinco categorías en juego. -->
+- [x] C) Sujeto, verbo, adverbio, conjunción y pronombre. <!-- feedback: Correcto. El resumen identifica las cinco categorías clave. -->
+- [ ] B) Solo adverbio y preposición. <!-- feedback: Incorrecto. Hay al menos cinco categorías en juego. -->
 - [ ] D) Adjetivo y artículo únicamente. <!-- feedback: Incorrecto. Esas categorías no aparecen en el resumen. -->
 
 ### Explicacion Pedagogica
@@ -75,8 +75,8 @@ Una oración completa puede reunir varias categorías a la vez: sustantivo, verb
 ¿Qué categorías gramaticales y signos de puntuación intervienen en el aviso?
 
 ### Opciones
-- [ ] A) Solo aparecen sustantivos y un verbo. <!-- feedback: Incorrecto. Hay adverbio, conjunción, pronombre y signo de coma. -->
-- [x] B) Sujeto, verbo en futuro, adverbio de tiempo, conjunción adversativa y condicional. <!-- feedback: Correcto. El aviso reúne varias categorías y dos conjunciones. -->
+- [ ] B) Solo aparecen sustantivos y un verbo. <!-- feedback: Incorrecto. Hay adverbio, conjunción, pronombre y signo de coma. -->
+- [x] A) Sujeto, verbo en futuro, adverbio de tiempo, conjunción adversativa y condicional. <!-- feedback: Correcto. El aviso reúne varias categorías y dos conjunciones. -->
 - [ ] C) Solo hay una oración simple sin modificadores. <!-- feedback: Incorrecto. El aviso es una oración compuesta con modificadores. -->
 - [ ] D) Faltan adverbios porque no se ve ninguno. <!-- feedback: Incorrecto. «Mañana» es un adverbio de tiempo. -->
 
@@ -97,8 +97,8 @@ Identificar categorías en oraciones compuestas permite entender su lógica: el 
 
 ### Opciones
 - [ ] A) Solo hay pronombres y adverbios. <!-- feedback: Incorrecto. Hay más categorías y dos signos de puntuación. -->
-- [x] B) Pronombres, verbos, adverbios de lugar, coma y punto y coma. <!-- feedback: Correcto. El texto combina todas esas categorías y signos. -->
-- [ ] C) Solo hay un verbo conjugado. <!-- feedback: Incorrecto. Hay dos verbos: «estudio» y «estudia». -->
+- [x] C) Pronombres, verbos, adverbios de lugar, coma y punto y coma. <!-- feedback: Correcto. El texto combina todas esas categorías y signos. -->
+- [ ] B) Solo hay un verbo conjugado. <!-- feedback: Incorrecto. Hay dos verbos: «estudio» y «estudia». -->
 - [ ] D) La frase es una sola oración simple. <!-- feedback: Incorrecto. El punto y coma marca dos oraciones independientes. -->
 
 ### Explicacion Pedagogica
@@ -181,9 +181,9 @@ En las instrucciones, los verbos en imperativo tienen un sujeto tácito (tú, us
 
 ### Opciones
 - [ ] A) El sustantivo, porque se repiten «tíos» y «dulces». <!-- feedback: Incorrecto. Los sustantivos no predominan en este resumen. -->
-- [x] B) El pronombre, porque sustituye a las personas y objetos ya mencionados. <!-- feedback: Correcto. «Ellos», «nosotros» y «todos» evitan repetir nombres. -->
-- [ ] C) El verbo, porque aparecen muchas acciones. <!-- feedback: Incorrecto. El verbo aparece, pero no es el recurso predominante para evitar repeticiones. -->
-- [ ] D) El adverbio, porque hay varios que marcan cantidad. <!-- feedback: Incorrecto. Solo «mucho» es adverbio en el resumen. -->
+- [x] D) El pronombre, porque sustituye a las personas y objetos ya mencionados. <!-- feedback: Correcto. «Ellos», «nosotros» y «todos» evitan repetir nombres. -->
+- [ ] B) El verbo, porque aparecen muchas acciones. <!-- feedback: Incorrecto. El verbo aparece, pero no es el recurso predominante para evitar repeticiones. -->
+- [ ] C) El adverbio, porque hay varios que marcan cantidad. <!-- feedback: Incorrecto. Solo «mucho» es adverbio en el resumen. -->
 
 ### Explicacion Pedagogica
 El pronombre es la herramienta clave para evitar repeticiones. En una narración, los pronombres personales (él, ellos, nosotros) y los indefinidos (todos, algunos) hacen el texto más fluido y agradable de leer.
@@ -202,9 +202,9 @@ El pronombre es la herramienta clave para evitar repeticiones. En una narración
 
 ### Opciones
 - [ ] A) El aviso es perfecto y no tiene errores. <!-- feedback: Incorrecto. Hay errores de concordancia entre sujeto y verbo. -->
-- [x] B) El verbo «llegará» debe ir en plural «llegarán» y «respetó» debe ser «respetaron». <!-- feedback: Correcto. El sujeto plural exige verbos en plural. -->
-- [ ] C) Solo hay que cambiar el adverbio «tarde» por «temprano». <!-- feedback: Incorrecto. El problema es la concordancia, no el adverbio. -->
-- [ ] D) Falta un pronombre para evitar la repetición. <!-- feedback: Incorrecto. El problema principal es de número en el verbo. -->
+- [x] D) El verbo «llegará» debe ir en plural «llegarán» y «respetó» debe ser «respetaron». <!-- feedback: Correcto. El sujeto plural exige verbos en plural. -->
+- [ ] B) Solo hay que cambiar el adverbio «tarde» por «temprano». <!-- feedback: Incorrecto. El problema es la concordancia, no el adverbio. -->
+- [ ] C) Falta un pronombre para evitar la repetición. <!-- feedback: Incorrecto. El problema principal es de número en el verbo. -->
 
 ### Explicacion Pedagogica
 La concordancia de número entre sujeto y verbo es obligatoria. Repasar el verbo, el sujeto y el predicado ayuda a detectar errores frecuentes como los del aviso.
@@ -222,9 +222,9 @@ La concordancia de número entre sujeto y verbo es obligatoria. Repasar el verbo
 ¿Qué problemas combina el texto y qué categoría de repaso los resolvería mejor?
 
 ### Opciones
-- [ ] A) Solo hay errores de ortografía y deben corregirse. <!-- feedback: Incorrecto. El problema principal es de estilo, no de ortografía. -->
-- [ ] B) La frase es correcta y solo sobra un punto final. <!-- feedback: Incorrecto. Hay una coma antes de «y» que no debería ir y el pronombre «ellos» se repite. -->
-- [x] C) Sobra la coma antes de «y», se repite «ellos» y el punto final está duplicado. <!-- feedback: Correcto. Repasar pronombres y puntuación resuelve el texto. -->
+- [ ] B) Solo hay errores de ortografía y deben corregirse. <!-- feedback: Incorrecto. El problema principal es de estilo, no de ortografía. -->
+- [ ] C) La frase es correcta y solo sobra un punto final. <!-- feedback: Incorrecto. Hay una coma antes de «y» que no debería ir y el pronombre «ellos» se repite. -->
+- [x] A) Sobra la coma antes de «y», se repite «ellos» y el punto final está duplicado. <!-- feedback: Correcto. Repasar pronombres y puntuación resuelve el texto. -->
 - [ ] D) Falta un adverbio de tiempo y debe añadirse. <!-- feedback: Incorrecto. «Después» y «luego» ya cumplen esa función. -->
 
 ### Explicacion Pedagogica

@@ -34,9 +34,9 @@ Identificación de las partes de la planta (raíz, tallo, hojas, flores, frutos 
 ¿Cuál de las siguientes partes de la planta se encarga principalmente de absorber agua y nutrientes del suelo?
 
 ### Opciones
-- [x] A) La raíz.
+- [x] B) La raíz.
   <!-- feedback: La raíz fija la planta y absorbe agua y sales minerales del suelo. -->
-- [ ] B) La flor.
+- [ ] A) La flor.
   <!-- feedback: La flor cumple una función reproductiva en la planta. -->
 - [ ] C) El fruto.
   <!-- feedback: El fruto protege y ayuda a dispersar las semillas. -->
@@ -57,9 +57,9 @@ Recordar la función principal de la raíz como vía de absorción de agua y nut
 ¿Cuál es esa sustancia invisible que la planta absorbe del aire para realizar la fotosíntesis?
 
 ### Opciones
-- [x] A) El dióxido de carbono.
+- [x] B) El dióxido de carbono.
   <!-- feedback: Las plantas absorben dióxido de carbono (CO2) del aire para la fotosíntesis. -->
-- [ ] B) El nitrógeno líquido.
+- [ ] A) El nitrógeno líquido.
   <!-- feedback: El nitrógeno líquido no se encuentra de forma natural en el aire respirable. -->
 - [ ] C) El oxígeno puro a alta presión.
   <!-- feedback: El oxígeno es liberado por las plantas, no absorbido para la fotosíntesis. -->
@@ -126,13 +126,13 @@ Aplicar el concepto de fotosíntesis para explicar la relación entre hojas sana
 ¿Qué parte de la planta es la encargada de sostener las hojas, las flores y los frutos, y transportar sustancias entre la raíz y las hojas?
 
 ### Opciones
-- [x] A) El tallo.
+- [x] D) El tallo.
   <!-- feedback: El tallo sostiene la planta y transporta agua, nutrientes y alimento entre sus partes. -->
-- [ ] B) La semilla.
+- [ ] A) La semilla.
   <!-- feedback: La semilla contiene el embrión que dará origen a una nueva planta. -->
-- [ ] C) La raíz.
+- [ ] B) La raíz.
   <!-- feedback: La raíz absorbe agua y fija la planta, pero no sostiene las hojas directamente. -->
-- [ ] D) El pétalo de la flor.
+- [ ] C) El pétalo de la flor.
   <!-- feedback: Los pétalos atraen polinizadores, pero no transportan sustancias. -->
 
 ### Explicacion Pedagogica
@@ -172,13 +172,13 @@ Analizar el rol ecológico de las plantas como productoras de alimento y oxígen
 ¿Qué relación puede establecerse entre la presencia de plantas y la regulación del ambiente?
 
 ### Opciones
-- [x] A) Las plantas regulan el clima local, retienen agua y evitan la erosión, mejorando las condiciones ambientales.
+- [x] D) Las plantas regulan el clima local, retienen agua y evitan la erosión, mejorando las condiciones ambientales.
   <!-- feedback: La cobertura vegetal modera la temperatura y protege el suelo y el agua. -->
-- [ ] B) Las plantas solo consumen agua y no aportan nada a la regulación del clima.
+- [ ] A) Las plantas solo consumen agua y no aportan nada a la regulación del clima.
   <!-- feedback: Las plantas transpiran y participan activamente en el ciclo del agua. -->
-- [ ] C) Los árboles perjudican los ríos porque tapan el cauce del agua.
+- [ ] B) Los árboles perjudican los ríos porque tapan el cauce del agua.
   <!-- feedback: La vegetación ribereña protege los ríos, no los obstruye de manera negativa. -->
-- [ ] D) El clima no se relaciona en absoluto con la cantidad de plantas presentes.
+- [ ] C) El clima no se relaciona en absoluto con la cantidad de plantas presentes.
   <!-- feedback: Existe una relación directa entre cobertura vegetal y regulación climática local. -->
 
 ### Explicacion Pedagogica
@@ -195,11 +195,11 @@ Analizar cómo la cobertura vegetal influye en el clima, el agua y la protecció
 ¿Por qué esta iniciativa es una buena estrategia para cuidar el ambiente y aprender sobre las plantas?
 
 ### Opciones
-- [x] A) Porque permite observar el crecimiento vegetal, comprender la fotosíntesis y mejorar la calidad del aire y el suelo del colegio.
+- [x] C) Porque permite observar el crecimiento vegetal, comprender la fotosíntesis y mejorar la calidad del aire y el suelo del colegio.
   <!-- feedback: Sembrar y cuidar plantas integra aprendizaje científico con beneficio ambiental directo. -->
-- [ ] B) Porque solo sirve para decorar el colegio sin ningún otro beneficio.
+- [ ] A) Porque solo sirve para decorar el colegio sin ningún otro beneficio.
   <!-- feedback: La siembra escolar aporta beneficios ecológicos, pedagógicos y comunitarios. -->
-- [ ] C) Porque los árboles generan dióxido de carbono y contaminan el aire.
+- [ ] B) Porque los árboles generan dióxido de carbono y contaminan el aire.
   <!-- feedback: Las plantas absorben dióxido de carbono y liberan oxígeno, no contaminan. -->
 - [ ] D) Porque sembrar plantas no tiene relación con la fotosíntesis ni con el ambiente.
   <!-- feedback: Toda siembra permite observar procesos como la fotosíntesis y sus efectos ambientales. -->

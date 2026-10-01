@@ -29,11 +29,11 @@ Este bundle trabaja la lectura del reloj, las conversiones entre unidades de tie
 ### Enunciado
 ¿Cuál unidad es la más adecuada para expresar la duración del descanso?
 ### Opciones
-- [x] A) Minutos
+- [x] C) Minutos
   <!-- feedback: Es correcta porque el descanso dura media hora, y los minutos expresan esa duración con precisión. -->
-- [ ] B) Años
+- [ ] A) Años
   <!-- feedback: Error conceptual: los años miden periodos muy largos, no un descanso escolar. -->
-- [ ] C) Siglos
+- [ ] B) Siglos
   <!-- feedback: Error conceptual: un siglo equivale a 100 años, una escala totalmente inadecuada. -->
 - [ ] D) Meses
   <!-- feedback: Error conceptual: los meses sirven para periodos largos, no para media hora. -->
@@ -48,11 +48,11 @@ La unidad se elige según lo que se mide. Para intervalos cortos del día convie
 ### Enunciado
 ¿A cuántos minutos equivalen 3 horas?
 ### Opciones
-- [x] A) 180 minutos
+- [x] C) 180 minutos
   <!-- feedback: Es correcta porque cada hora tiene 60 minutos y 3 × 60 = 180. -->
-- [ ] B) 60 minutos
+- [ ] A) 60 minutos
   <!-- feedback: Error conceptual: corresponde a solo una hora, no a las tres del viaje. -->
-- [ ] C) 30 minutos
+- [ ] B) 30 minutos
   <!-- feedback: Error conceptual: media hora no equivale a tres horas. -->
 - [ ] D) 300 minutos
   <!-- feedback: Error conceptual: multiplica 3 por 100 en vez de por 60, que son los minutos de una hora. -->
@@ -67,13 +67,13 @@ Las unidades de tiempo forman un sistema sexagesimal: 1 hora = 60 minutos y 1 mi
 ### Enunciado
 ¿Cuánto dura la clase?
 ### Opciones
-- [x] A) 45 minutos
+- [x] D) 45 minutos
   <!-- feedback: Es correcta porque de 7:15 a 8:00 faltan 45 minutos. -->
-- [ ] B) 30 minutos
+- [ ] A) 30 minutos
   <!-- feedback: Error conceptual: subestima el intervalo; media hora solo llega hasta las 7:45. -->
-- [ ] C) 1 hora y 15 minutos
+- [ ] B) 1 hora y 15 minutos
   <!-- feedback: Error conceptual: suma una hora completa de más al intervalo. -->
-- [ ] D) 15 minutos
+- [ ] C) 15 minutos
   <!-- feedback: Error conceptual: confunde el minuto de inicio con la duración total. -->
 ### Explicacion Pedagogica
 Para calcular una duración se resta la hora de inicio a la hora final. Completar de 7:15 a 8:00 da 45 minutos, porque faltan 45 para llegar a la hora en punto.
@@ -86,11 +86,11 @@ Para calcular una duración se resta la hora de inicio a la hora final. Completa
 ### Enunciado
 ¿Cuántos minutos dura el evento en total?
 ### Opciones
-- [x] A) 150 minutos
+- [x] C) 150 minutos
   <!-- feedback: Es correcta porque 2 horas son 120 minutos y al sumar 30 se obtienen 150. -->
-- [ ] B) 120 minutos
+- [ ] A) 120 minutos
   <!-- feedback: Error conceptual: convierte las horas pero olvida sumar los 30 minutos. -->
-- [ ] C) 90 minutos
+- [ ] B) 90 minutos
   <!-- feedback: Error conceptual: suma 60 + 30 como si solo hubiera una hora. -->
 - [ ] D) 250 minutos
   <!-- feedback: Error conceptual: multiplica por 100 en vez de por 60 al convertir las horas. -->
@@ -105,11 +105,11 @@ Para convertir una duración mixta se pasan las horas a minutos y se suman los m
 ### Enunciado
 ¿A qué hora llega el bus a su destino?
 ### Opciones
-- [x] A) 4:15 p. m.
+- [x] C) 4:15 p. m.
   <!-- feedback: Es correcta porque 2:40 más 1 hora da 3:40 y 35 minutos más llegan a 4:15. -->
-- [ ] B) 3:75 p. m.
+- [ ] A) 3:75 p. m.
   <!-- feedback: Error conceptual: deja 75 minutos sin convertir a una hora y cuarto. -->
-- [ ] C) 4:05 p. m.
+- [ ] B) 4:05 p. m.
   <!-- feedback: Error conceptual: resta mal los minutos al sumar las duraciones. -->
 - [ ] D) 3:15 p. m.
   <!-- feedback: Error conceptual: omite una hora completa del tiempo de viaje. -->
@@ -124,11 +124,11 @@ Al sumar tiempos se agregan primero las horas y luego los minutos; si los minuto
 ### Enunciado
 ¿Cuántas horas y minutos estudia en total de lunes a viernes?
 ### Opciones
-- [x] A) 3 horas y 45 minutos
+- [x] C) 3 horas y 45 minutos
   <!-- feedback: Es correcta porque 45 × 5 = 225 minutos, y 225 = 3 horas y 45 minutos. -->
-- [ ] B) 4 horas y 5 minutos
+- [ ] A) 4 horas y 5 minutos
   <!-- feedback: Error conceptual: convierte mal los minutos sobrantes al repartir 225. -->
-- [ ] C) 3 horas y 15 minutos
+- [ ] B) 3 horas y 15 minutos
   <!-- feedback: Error conceptual: resta minutos de más y deja solo 15 en vez de 45. -->
 - [ ] D) 2 horas y 45 minutos
   <!-- feedback: Error conceptual: multiplica los días por una duración equivocada. -->
@@ -143,9 +143,9 @@ Se multiplica la duración diaria por el número de días y luego se convierte e
 ### Enunciado
 ¿Cuántas horas permanece abierta al público?
 ### Opciones
-- [x] A) 8 horas
+- [x] B) 8 horas
   <!-- feedback: Es correcta porque de 8:00 a 5:00 hay 9 horas y al restar la hora de cierre quedan 8. -->
-- [ ] B) 9 horas
+- [ ] A) 9 horas
   <!-- feedback: Error conceptual: cuenta el total sin descontar la hora del mediodía. -->
 - [ ] C) 7 horas
   <!-- feedback: Error conceptual: resta dos horas de cierre en lugar de una sola. -->
@@ -162,11 +162,11 @@ Cuando hay una interrupción se calcula el intervalo total y se resta el tiempo 
 ### Enunciado
 ¿Qué se puede concluir sobre los dos tiempos?
 ### Opciones
-- [x] A) Son iguales, porque 1 hora y 50 minutos equivalen a 110 minutos
+- [x] C) Son iguales, porque 1 hora y 50 minutos equivalen a 110 minutos
   <!-- feedback: Es correcta porque 60 + 50 = 110; ambos corredores emplearon el mismo tiempo. -->
-- [ ] B) El primer corredor tardó más por tener una hora
+- [ ] A) El primer corredor tardó más por tener una hora
   <!-- feedback: Error conceptual: no convierte a una unidad común antes de comparar. -->
-- [ ] C) El segundo corredor tardó más por tener 110 minutos
+- [ ] B) El segundo corredor tardó más por tener 110 minutos
   <!-- feedback: Error conceptual: cree que un número mayor siempre implica más tiempo, sin convertir. -->
 - [ ] D) No se pueden comparar porque usan unidades distintas
   <!-- feedback: Error conceptual: se pueden comparar si se convierten a la misma unidad. -->
@@ -181,11 +181,11 @@ Para comparar duraciones se deben expresar en la misma unidad. Una hora y 50 min
 ### Enunciado
 ¿Es correcta la afirmación del estudiante? Justifica tu respuesta.
 ### Opciones
-- [x] A) No, porque cada mes tiene entre 28 y 31 días según el calendario
+- [x] C) No, porque cada mes tiene entre 28 y 31 días según el calendario
   <!-- feedback: Es correcta porque los meses varían: febrero tiene 28 o 29 días y otros llegan a 31. -->
-- [ ] B) Sí, todos los meses tienen exactamente 30 días
+- [ ] A) Sí, todos los meses tienen exactamente 30 días
   <!-- feedback: Error conceptual: ignora que enero, marzo y otros meses tienen 31 días. -->
-- [ ] C) Sí, excepto febrero, que tiene 30 días
+- [ ] B) Sí, excepto febrero, que tiene 30 días
   <!-- feedback: Error conceptual: febrero tiene 28 días (29 en año bisiesto), no 30. -->
 - [ ] D) No, porque todos los meses tienen 32 días
   <!-- feedback: Error conceptual: ningún mes del calendario tiene 32 días. -->

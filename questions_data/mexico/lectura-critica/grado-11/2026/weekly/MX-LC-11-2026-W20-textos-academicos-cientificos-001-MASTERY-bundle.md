@@ -28,8 +28,8 @@ creador: "Jules-Agent"
 ### Enunciado
 ¿Cuál de las siguientes características es propia de un texto científico?
 ### Opciones
-- [ ] A) Usar lenguaje figurado para emocionar al lector. <!-- feedback: Incorrecto: el lenguaje figurado es propio de la literatura; el texto científico busca precisión. -->
-- [x] B) Emplear un lenguaje objetivo, preciso y verificable. <!-- feedback: Correcto: la objetividad, la precisión conceptual y la verificabilidad son rasgos centrales del discurso científico. -->
+- [ ] B) Usar lenguaje figurado para emocionar al lector. <!-- feedback: Incorrecto: el lenguaje figurado es propio de la literatura; el texto científico busca precisión. -->
+- [x] A) Emplear un lenguaje objetivo, preciso y verificable. <!-- feedback: Correcto: la objetividad, la precisión conceptual y la verificabilidad son rasgos centrales del discurso científico. -->
 - [ ] C) Defender una opinión personal sin evidencia. <!-- feedback: Incorrecto: la opinión sin evidencia contradice el método científico. -->
 - [ ] D) Ocultar el método usado para sorprender al lector. <!-- feedback: Incorrecto: el texto científico debe explicar su método para que otros puedan replicarlo. -->
 ### Explicacion Pedagogica
@@ -61,8 +61,8 @@ El resumen (abstract) condensa el contenido esencial de la investigación —pro
 ¿Cuál es el orden típico de las secciones de un artículo científico?
 ### Opciones
 - [ ] A) Conclusiones, introducción, resultados, método. <!-- feedback: Incorrecto: las conclusiones no van al inicio; el orden típico parte de la introducción. -->
-- [ ] B) Resultados, método, introducción, conclusiones. <!-- feedback: Incorrecto: la introducción precede al método y a los resultados. -->
-- [x] C) Introducción, método, resultados, discusión y conclusiones. <!-- feedback: Correcto: ese es el orden canónico (IMRyD) que sigue la lógica de la investigación. -->
+- [ ] C) Resultados, método, introducción, conclusiones. <!-- feedback: Incorrecto: la introducción precede al método y a los resultados. -->
+- [x] B) Introducción, método, resultados, discusión y conclusiones. <!-- feedback: Correcto: ese es el orden canónico (IMRyD) que sigue la lógica de la investigación. -->
 - [ ] D) Método, conclusiones, introducción, resultados. <!-- feedback: Incorrecto: la introducción debe presentar el problema antes del método. -->
 ### Explicacion Pedagogica
 La estructura IMRyD (Introducción, Método, Resultados y Discusión) organiza el artículo siguiendo la lógica de la investigación: primero se plantea el problema, luego se explica cómo se estudió, después se muestran los hallazgos y finalmente se interpretan y concluyen.
@@ -76,9 +76,9 @@ La estructura IMRyD (Introducción, Método, Resultados y Discusión) organiza e
 ### Enunciado
 ¿Cuál es la función principal de las citas en un texto académico?
 ### Opciones
-- [ ] A) Alargar el texto para que parezca más serio. <!-- feedback: Incorrecto: citar no busca inflar la extensión. -->
-- [ ] B) Evitar tener que escribir ideas propias. <!-- feedback: Incorrecto: el texto académico combina voces ajenas con aportes propios del autor. -->
-- [x] C) Reconocer las fuentes, respaldar afirmaciones y situar el trabajo dentro de la investigación existente. <!-- feedback: Correcto: la cita da crédito, sustenta lo dicho y conecta con la comunidad académica. -->
+- [ ] B) Alargar el texto para que parezca más serio. <!-- feedback: Incorrecto: citar no busca inflar la extensión. -->
+- [ ] C) Evitar tener que escribir ideas propias. <!-- feedback: Incorrecto: el texto académico combina voces ajenas con aportes propios del autor. -->
+- [x] A) Reconocer las fuentes, respaldar afirmaciones y situar el trabajo dentro de la investigación existente. <!-- feedback: Correcto: la cita da crédito, sustenta lo dicho y conecta con la comunidad académica. -->
 - [ ] D) Impedir que el lector consulte las fuentes originales. <!-- feedback: Incorrecto: la cita, al contrario, permite localizar y consultar la fuente. -->
 ### Explicacion Pedagogica
 Citar cumple tres funciones: reconocer la autoría de las ideas ajenas (evitar el plagio), respaldar las afirmaciones propias con evidencia y ubicar la investigación dentro de un diálogo académico. La cita transparenta las fuentes y permite al lector rastrearlas.
@@ -93,8 +93,8 @@ Citar cumple tres funciones: reconocer la autoría de las ideas ajenas (evitar e
 ¿Cuál de las siguientes acciones constituye un plagio?
 ### Opciones
 - [ ] A) Parafrasear una idea con palabras propias y citar la fuente. <!-- feedback: Incorrecto: parafrasear citando la fuente es una práctica académica correcta. -->
-- [x] B) Copiar un párrafo de otro autor y presentarlo como propio, sin citar. <!-- feedback: Correcto: usar las palabras ajenas sin reconocer la autoría es plagio, una falta académica grave. -->
-- [ ] C) Resumir un capítulo indicando el autor y el año de publicación. <!-- feedback: Incorrecto: resumir con referencia correcta es legítimo. -->
+- [x] C) Copiar un párrafo de otro autor y presentarlo como propio, sin citar. <!-- feedback: Correcto: usar las palabras ajenas sin reconocer la autoría es plagio, una falta académica grave. -->
+- [ ] B) Resumir un capítulo indicando el autor y el año de publicación. <!-- feedback: Incorrecto: resumir con referencia correcta es legítimo. -->
 - [ ] D) Citar textualmente entre comillas y con la referencia completa. <!-- feedback: Incorrecto: la cita textual bien señalada es válida académicamente. -->
 ### Explicacion Pedagogica
 El plagio consiste en presentar ideas, palabras o datos de otros como propios, sin reconocer la fuente. Parafrasear, resumir o citar son legítimos cuando se indica la procedencia. La honestidad académica exige distinguir siempre entre lo propio y lo ajeno.
@@ -109,9 +109,9 @@ El plagio consiste en presentar ideas, palabras o datos de otros como propios, s
 ¿Qué elemento del método científico se encuentra en esa oración?
 ### Opciones
 - [ ] A) Una conclusión definitiva. <!-- feedback: Incorrecto: la oración plantea una relación condicional por comprobar, no un resultado cerrado. -->
-- [x] B) Una hipótesis: una afirmación comprobable sobre la relación entre dos variables. <!-- feedback: Correcto: la oración propone que el mantenimiento (variable) afecta la disponibilidad de agua (variable), en forma de predicción comprobable. -->
-- [ ] C) Un dato estadístico. <!-- feedback: Incorrecto: no hay cifras; hay una predicción condicional. -->
-- [ ] D) Una cita bibliográfica. <!-- feedback: Incorrecto: no se remite a una fuente; se formula una conjetura de investigación. -->
+- [x] D) Una hipótesis: una afirmación comprobable sobre la relación entre dos variables. <!-- feedback: Correcto: la oración propone que el mantenimiento (variable) afecta la disponibilidad de agua (variable), en forma de predicción comprobable. -->
+- [ ] B) Un dato estadístico. <!-- feedback: Incorrecto: no hay cifras; hay una predicción condicional. -->
+- [ ] C) Una cita bibliográfica. <!-- feedback: Incorrecto: no se remite a una fuente; se formula una conjetura de investigación. -->
 ### Explicacion Pedagogica
 La hipótesis es una afirmación provisional y comprobable que establece una relación esperada entre variables. La oración condiciona la disponibilidad de agua al mantenimiento de la infraestructura: es exactamente una predicción que la investigación deberá confirmar o refutar.
 
@@ -141,8 +141,8 @@ La sección de método detalla cómo se realizó la investigación: muestra, ins
 ¿Qué proceso describe esa situación?
 ### Opciones
 - [ ] A) La edición de estilo del texto. <!-- feedback: Incorrecto: la corrección de estilo es otra cosa; aquí se evalúa el contenido científico. -->
-- [x] B) La revisión por pares (arbitraje): especialistas evalúan la calidad del estudio antes de su publicación. <!-- feedback: Correcto: el arbitraje anónimo de expertos es el filtro de calidad de la ciencia publicada. -->
-- [ ] C) La censura gubernamental de la ciencia. <!-- feedback: Incorrecto: la revisión por pares evalúa rigor científico; no es una censura del Estado. -->
+- [x] C) La revisión por pares (arbitraje): especialistas evalúan la calidad del estudio antes de su publicación. <!-- feedback: Correcto: el arbitraje anónimo de expertos es el filtro de calidad de la ciencia publicada. -->
+- [ ] B) La censura gubernamental de la ciencia. <!-- feedback: Incorrecto: la revisión por pares evalúa rigor científico; no es una censura del Estado. -->
 - [ ] D) La divulgación del estudio en redes sociales. <!-- feedback: Incorrecto: publicar en redes no implica evaluación de expertos. -->
 ### Explicacion Pedagogica
 La revisión por pares (peer review) es el proceso en el que especialistas del mismo campo evalúan, de forma anónima, la calidad, validez y originalidad de un estudio antes de su publicación. Es un filtro de calidad que distingue a la literatura científica seria de las publicaciones sin control.
@@ -157,9 +157,9 @@ La revisión por pares (peer review) es el proceso en el que especialistas del m
 ¿Cuál de los dos textos tiene mayor carácter científico y por qué?
 ### Opciones
 - [ ] A) El primero, porque hace una promesa clara y contundente. <!-- feedback: Incorrecto: la contundencia de la promesa no es un criterio científico; las afirmaciones absolutas suelen ser señal de pseudociencia. -->
-- [x] B) El segundo, porque se expresa con cautela, matiza y se apoya en evidencia contrastada. <!-- feedback: Correcto: la ciencia evita afirmaciones absolutas y matiza sus conclusiones según la evidencia disponible. -->
-- [ ] C) El primero, porque es más fácil de entender. <!-- feedback: Incorrecto: la claridad no equivale a rigor científico. -->
-- [ ] D) El segundo, porque es más largo. <!-- feedback: Incorrecto: la extensión no determina el carácter científico de un texto. -->
+- [x] D) El segundo, porque se expresa con cautela, matiza y se apoya en evidencia contrastada. <!-- feedback: Correcto: la ciencia evita afirmaciones absolutas y matiza sus conclusiones según la evidencia disponible. -->
+- [ ] B) El primero, porque es más fácil de entender. <!-- feedback: Incorrecto: la claridad no equivale a rigor científico. -->
+- [ ] C) El segundo, porque es más largo. <!-- feedback: Incorrecto: la extensión no determina el carácter científico de un texto. -->
 ### Explicacion Pedagogica
 El discurso científico se caracteriza por la cautela: matiza afirmaciones, reconoce límites y se apoya en evidencia. Las promesas absolutas ("elimina el 100%") son típicas de la pseudociencia y la publicidad engañosa. Evaluar el carácter científico exige atender al tono, la evidencia y el matiz, no a la claridad o la extensión.
 
@@ -174,8 +174,8 @@ El discurso científico se caracteriza por la cautela: matiza afirmaciones, reco
 ### Opciones
 - [ ] A) Presentar por primera vez los datos de la investigación. <!-- feedback: Incorrecto: los datos se presentan en los resultados, no en las conclusiones. -->
 - [ ] B) Describir los instrumentos utilizados en el laboratorio. <!-- feedback: Incorrecto: los instrumentos pertenecen a la sección de método. -->
-- [x] C) Interpretar los resultados, responder la pregunta de investigación y señalar implicaciones. <!-- feedback: Correcto: las conclusiones cierran el estudio: qué significan los hallazgos y qué implican. -->
-- [ ] D) Agradecer a los participantes del estudio. <!-- feedback: Incorrecto: los agradecimientos son una sección aparte. -->
+- [x] D) Interpretar los resultados, responder la pregunta de investigación y señalar implicaciones. <!-- feedback: Correcto: las conclusiones cierran el estudio: qué significan los hallazgos y qué implican. -->
+- [ ] C) Agradecer a los participantes del estudio. <!-- feedback: Incorrecto: los agradecimientos son una sección aparte. -->
 ### Explicacion Pedagogica
 Las conclusiones interpretan los resultados a la luz de la pregunta de investigación, explican su significado, reconocen limitaciones y proponen implicaciones o líneas futuras. Cierran el ciclo del artículo: del problema inicial a la respuesta final.
 
@@ -189,9 +189,9 @@ Las conclusiones interpretan los resultados a la luz de la pregunta de investiga
 ¿Cuál es la fuente más confiable para una cita académica y por qué?
 ### Opciones
 - [ ] A) El blog sin autor, porque es el más fácil de leer. <!-- feedback: Incorrecto: la facilidad de lectura no es un criterio de confiabilidad académica. -->
-- [x] B) La publicación universitaria, porque tiene autoría institucional, revisión y respaldo académico. <!-- feedback: Correcto: las instituciones académicas garantizan procesos de revisión y autoría identificable. -->
-- [ ] C) El foro de comentarios, porque reúne muchas opiniones. <!-- feedback: Incorrecto: la cantidad de opiniones no equivale a rigor científico. -->
-- [ ] D) Las tres fuentes son igualmente confiables. <!-- feedback: Incorrecto: difieren radicalmente en autoría, revisión y respaldo. -->
+- [x] D) La publicación universitaria, porque tiene autoría institucional, revisión y respaldo académico. <!-- feedback: Correcto: las instituciones académicas garantizan procesos de revisión y autoría identificable. -->
+- [ ] B) El foro de comentarios, porque reúne muchas opiniones. <!-- feedback: Incorrecto: la cantidad de opiniones no equivale a rigor científico. -->
+- [ ] C) Las tres fuentes son igualmente confiables. <!-- feedback: Incorrecto: difieren radicalmente en autoría, revisión y respaldo. -->
 ### Explicacion Pedagogica
 Evaluar fuentes exige considerar la autoría, el respaldo institucional y los procesos de revisión. Una publicación universitaria ofrece autoría identificable y control de calidad; un blog anónimo o un foro carecen de esos filtros. La confiabilidad no depende de la facilidad de lectura ni de la cantidad de opiniones.
 
@@ -204,8 +204,8 @@ Evaluar fuentes exige considerar la autoría, el respaldo institucional y los pr
 ### Enunciado
 ¿Qué debe hacer el lector para interpretar correctamente la gráfica?
 ### Opciones
-- [ ] A) Leer solo los títulos de las columnas más altas. <!-- feedback: Incorrecto: seleccionar solo las columnas altas distorsiona la comparación. -->
-- [x] B) Revisar los ejes, las unidades de medida y el título para comprender qué se compara. <!-- feedback: Correcto: la interpretación exige leer los elementos de la gráfica: título, ejes y unidades. -->
+- [ ] B) Leer solo los títulos de las columnas más altas. <!-- feedback: Incorrecto: seleccionar solo las columnas altas distorsiona la comparación. -->
+- [x] A) Revisar los ejes, las unidades de medida y el título para comprender qué se compara. <!-- feedback: Correcto: la interpretación exige leer los elementos de la gráfica: título, ejes y unidades. -->
 - [ ] C) Ignorar las unidades porque no son importantes. <!-- feedback: Incorrecto: sin unidades, los valores no significan nada. -->
 - [ ] D) Adivinar los valores por el tamaño de las barras. <!-- feedback: Incorrecto: la lectura visual aproximada no sustituye la información de los ejes. -->
 ### Explicacion Pedagogica
@@ -221,9 +221,9 @@ Los textos discontinuos, como las gráficas, exigen una lectura específica: pri
 ¿Qué rasgo revela que este texto NO es científico?
 ### Opciones
 - [ ] A) Usa palabras en español. <!-- feedback: Incorrecto: el idioma no determina el carácter científico. -->
-- [x] B) Recurre a generalizaciones absolutas ("siempre") y descalifica a quien disiente en lugar de aportar evidencia. <!-- feedback: Correcto: la ciencia matiza y debate con evidencia; descalificar al oponente y generalizar sin datos es un rasgo pseudocientífico. -->
-- [ ] C) Menciona alimentos. <!-- feedback: Incorrecto: el tema no define el rigor del texto. -->
-- [ ] D) Tiene un autor. <!-- feedback: Incorrecto: tener autor no garantiza cientificidad. -->
+- [x] D) Recurre a generalizaciones absolutas ("siempre") y descalifica a quien disiente en lugar de aportar evidencia. <!-- feedback: Correcto: la ciencia matiza y debate con evidencia; descalificar al oponente y generalizar sin datos es un rasgo pseudocientífico. -->
+- [ ] B) Menciona alimentos. <!-- feedback: Incorrecto: el tema no define el rigor del texto. -->
+- [ ] C) Tiene un autor. <!-- feedback: Incorrecto: tener autor no garantiza cientificidad. -->
 ### Explicacion Pedagogica
 El texto pseudocientífico se reconoce por sus recursos: generalizaciones absolutas, apelación a la opinión común y descalificación del disenso en lugar de evidencia. La ciencia se caracteriza por la cautela, la matización y la disposición a revisar las afirmaciones ante nuevos datos.
 
@@ -238,8 +238,8 @@ El texto pseudocientífico se reconoce por sus recursos: generalizaciones absolu
 ### Opciones
 - [ ] A) Presentar los resultados propios del autor. <!-- feedback: Incorrecto: los resultados propios aparecen en la sección de resultados. -->
 - [ ] B) Explicar el procedimiento experimental. <!-- feedback: Incorrecto: el procedimiento pertenece al método. -->
-- [x] C) Situar la investigación en el contexto del conocimiento existente y justificar su pertinencia. <!-- feedback: Correcto: el estado del arte muestra qué se sabe, qué falta y por qué este estudio aporta algo nuevo. -->
-- [ ] D) Agradecer a los autores citados. <!-- feedback: Incorrecto: el repaso de la literatura no es un agradecimiento. -->
+- [x] D) Situar la investigación en el contexto del conocimiento existente y justificar su pertinencia. <!-- feedback: Correcto: el estado del arte muestra qué se sabe, qué falta y por qué este estudio aporta algo nuevo. -->
+- [ ] C) Agradecer a los autores citados. <!-- feedback: Incorrecto: el repaso de la literatura no es un agradecimiento. -->
 ### Explicacion Pedagogica
 El marco teórico o estado del arte revisa la investigación previa para ubicar el estudio dentro del conocimiento acumulado, identificar vacíos y justificar la pertinencia del trabajo. Es la base que muestra por qué la nueva investigación es necesaria y qué aporta.
 
@@ -268,9 +268,9 @@ La generalización apresurada es una falacia: pasar de un caso particular a una 
 ### Enunciado
 ¿Qué diferencia hay entre las dos fuentes?
 ### Opciones
-- [ ] A) La nota de periódico es más confiable porque es más reciente. <!-- feedback: Incorrecto: la fecha no determina la jerarquía entre fuente primaria y secundaria. -->
-- [ ] B) El informe y la nota tienen exactamente el mismo valor. <!-- feedback: Incorrecto: difieren en su relación con los datos originales. -->
-- [x] C) El informe es una fuente primaria (datos originales) y la nota es una fuente secundaria que los interpreta o resume. <!-- feedback: Correcto: la fuente primaria contiene la información original; la secundaria la difunde, resume o comenta. -->
+- [ ] B) La nota de periódico es más confiable porque es más reciente. <!-- feedback: Incorrecto: la fecha no determina la jerarquía entre fuente primaria y secundaria. -->
+- [ ] C) El informe y la nota tienen exactamente el mismo valor. <!-- feedback: Incorrecto: difieren en su relación con los datos originales. -->
+- [x] A) El informe es una fuente primaria (datos originales) y la nota es una fuente secundaria que los interpreta o resume. <!-- feedback: Correcto: la fuente primaria contiene la información original; la secundaria la difunde, resume o comenta. -->
 - [ ] D) La nota es primaria porque está escrita en periódico. <!-- feedback: Incorrecto: el medio de publicación no define la jerarquía; lo define la relación con los datos originales. -->
 ### Explicacion Pedagogica
 Las fuentes primarias contienen la información original (informes, datos, documentos); las secundarias la interpretan, resumen o difunden (notas, reseñas, manuales). Para verificar afirmaciones, conviene acudir a la fuente primaria; para conocer el contexto, las secundarias ayudan, pero siempre con conciencia de su mediación.
@@ -285,9 +285,9 @@ Las fuentes primarias contienen la información original (informes, datos, docum
 ¿Cuál de las siguientes fuentes es la más adecuada para sustentar un trabajo académico?
 ### Opciones
 - [ ] A) Una publicación en redes sociales sin firma. <!-- feedback: Incorrecto: carece de autoría y de control de calidad. -->
-- [x] B) Un artículo de una revista científica con revisión por pares, reciente y con referencias. <!-- feedback: Correcto: la revista arbitrada garantiza calidad, actualidad y trazabilidad de las fuentes. -->
-- [ ] C) Un video de opinión de una persona famosa. <!-- feedback: Incorrecto: la fama no respalda el rigor científico. -->
-- [ ] D) Un foro de viajeros que visitaron la zona. <!-- feedback: Incorrecto: las experiencias de viaje no son evidencia científica contrastada. -->
+- [x] D) Un artículo de una revista científica con revisión por pares, reciente y con referencias. <!-- feedback: Correcto: la revista arbitrada garantiza calidad, actualidad y trazabilidad de las fuentes. -->
+- [ ] B) Un video de opinión de una persona famosa. <!-- feedback: Incorrecto: la fama no respalda el rigor científico. -->
+- [ ] C) Un foro de viajeros que visitaron la zona. <!-- feedback: Incorrecto: las experiencias de viaje no son evidencia científica contrastada. -->
 ### Explicacion Pedagogica
 Seleccionar fuentes académicas exige criterios: autoría identificable, revisión por pares, actualidad y referencias verificables. La revista científica arbitrada reúne esos criterios; las redes, los videos de opinión y los foros no pasan por filtros de calidad científica, por más populares que sean.
 
@@ -300,9 +300,9 @@ Seleccionar fuentes académicas exige criterios: autoría identificable, revisi�
 ### Enunciado
 ¿Qué error de razonamiento contiene esa conclusión?
 ### Opciones
-- [ ] A) Es un ejemplo correcto de método científico. <!-- feedback: Incorrecto: la conclusión confunde correlación con causalidad. -->
-- [ ] B) El error es usar demasiados datos. <!-- feedback: Incorrecto: el problema no es la cantidad de datos, sino la interpretación de su relación. -->
-- [x] C) Confunde correlación con causalidad: que dos fenómenos aumenten juntos no prueba que uno cause al otro. <!-- feedback: Correcto: la covariación no basta para establecer causa; harían falta controles y análisis de otras variables. -->
+- [ ] B) Es un ejemplo correcto de método científico. <!-- feedback: Incorrecto: la conclusión confunde correlación con causalidad. -->
+- [ ] C) El error es usar demasiados datos. <!-- feedback: Incorrecto: el problema no es la cantidad de datos, sino la interpretación de su relación. -->
+- [x] A) Confunde correlación con causalidad: que dos fenómenos aumenten juntos no prueba que uno cause al otro. <!-- feedback: Correcto: la covariación no basta para establecer causa; harían falta controles y análisis de otras variables. -->
 - [ ] D) El error es no citar suficientes autores. <!-- feedback: Incorrecto: la falla es lógica, no de citación. -->
 ### Explicacion Pedagogica
 "Post hoc ergo propter hoc" o confusión entre correlación y causalidad: dos variables que varían juntas no implican que una cause la otra. La ciencia exige controlar variables y descartar explicaciones alternativas antes de afirmar causalidad. Evaluar conclusiones implica revisar si los datos realmente las sustentan.
@@ -318,8 +318,8 @@ Seleccionar fuentes académicas exige criterios: autoría identificable, revisi�
 ### Opciones
 - [ ] A) Sí, porque cinco familias son suficientes para cualquier conclusión. <!-- feedback: Incorrecto: una muestra de cinco familias de una calle no representa a todo el estado. -->
 - [ ] B) Sí, porque los datos fueron tomados en campo. <!-- feedback: Incorrecto: estar en campo no garantiza representatividad. -->
-- [x] C) No, porque la muestra es pequeña y no representativa de la diversidad del estado. <!-- feedback: Correcto: generalizar exige una muestra que refleje la variedad de la población estudiada. -->
-- [ ] D) No, porque los datos son demasiado precisos. <!-- feedback: Incorrecto: la precisión de los datos no resuelve el problema de representatividad. -->
+- [x] D) No, porque la muestra es pequeña y no representativa de la diversidad del estado. <!-- feedback: Correcto: generalizar exige una muestra que refleje la variedad de la población estudiada. -->
+- [ ] C) No, porque los datos son demasiado precisos. <!-- feedback: Incorrecto: la precisión de los datos no resuelve el problema de representatividad. -->
 ### Explicacion Pedagogica
 La validez externa de un estudio depende de la representatividad de su muestra. Una muestra pequeña y local (cinco familias de una calle) solo permite hablar de ese grupo; extender las conclusiones a todo el estado es una generalización indebida. Evaluar conclusiones exige revisar la relación entre muestra y población.
 
@@ -332,9 +332,9 @@ La validez externa de un estudio depende de la representatividad de su muestra. 
 ### Enunciado
 ¿Cuál es la decisión académicamente correcta y por qué?
 ### Opciones
-- [ ] A) Dejar el párrafo tal como está, porque nadie lo notará. <!-- feedback: Incorrecto: el plagio no deja de ser falta académica porque pase desapercibido. -->
-- [ ] B) Cambiar algunas palabras del párrafo sin citar la fuente. <!-- feedback: Incorrecto: disfrazar el texto ajeno sigue siendo plagio si no se reconoce la procedencia. -->
-- [x] C) Parafrasear la idea con palabras propias y citar la fuente de donde se tomó. <!-- feedback: Correcto: el uso legítimo de ideas ajenas exige reformular y reconocer la autoría. -->
+- [ ] B) Dejar el párrafo tal como está, porque nadie lo notará. <!-- feedback: Incorrecto: el plagio no deja de ser falta académica porque pase desapercibido. -->
+- [ ] C) Cambiar algunas palabras del párrafo sin citar la fuente. <!-- feedback: Incorrecto: disfrazar el texto ajeno sigue siendo plagio si no se reconoce la procedencia. -->
+- [x] A) Parafrasear la idea con palabras propias y citar la fuente de donde se tomó. <!-- feedback: Correcto: el uso legítimo de ideas ajenas exige reformular y reconocer la autoría. -->
 - [ ] D) Firmar el párrafo como propio porque ya lo escribió en su computadora. <!-- feedback: Incorrecto: escribirlo en su computadora no lo convierte en autor de la idea. -->
 ### Explicacion Pedagogica
 La honestidad académica exige distinguir lo propio de lo ajeno. Parafrasear con palabras propias y citar la fuente es el uso legítimo del conocimiento; copiar, incluso con cambios superficiales, sin reconocer la autoría, constituye plagio. La decisión correcta combina reformulación y referencia explícita.

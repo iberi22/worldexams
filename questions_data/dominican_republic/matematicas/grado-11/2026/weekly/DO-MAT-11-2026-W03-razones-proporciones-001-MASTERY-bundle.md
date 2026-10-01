@@ -29,9 +29,9 @@ bundle_index: 1
 ¿Cómo se define una "razón" entre dos cantidades $a$ y $b$?
 
 ### Opciones
-- [ ] A) Es la diferencia ($a - b$). <!-- feedback: Incorrecto. Esa es una comparación por resta (razón aritmética). -->
-- [ ] B) Es el producto ($a \cdot b$). <!-- feedback: Incorrecto. El producto no define una comparación proporcional. -->
-- [x] C) Es el cociente o división ($a / b$). <!-- feedback: Correcto. Una razón geométrica compara dos magnitudes mediante su división. -->
+- [ ] B) Es la diferencia ($a - b$). <!-- feedback: Incorrecto. Esa es una comparación por resta (razón aritmética). -->
+- [ ] C) Es el producto ($a \cdot b$). <!-- feedback: Incorrecto. El producto no define una comparación proporcional. -->
+- [x] A) Es el cociente o división ($a / b$). <!-- feedback: Correcto. Una razón geométrica compara dos magnitudes mediante su división. -->
 - [ ] D) Es la suma ($a + b$). <!-- feedback: Incorrecto. No es una relación de comparación proporcional. -->
 
 ### Explicacion Pedagogica
@@ -50,10 +50,10 @@ Una razón es el resultado de comparar dos cantidades. La más usada es la geom�
 En una proporción $\frac{a}{b} = \frac{c}{d}$, ¿cómo se llaman los términos $a$ y $d$?
 
 ### Opciones
-- [x] A) Extremos <!-- feedback: Correcto. En la lectura de la proporción, son el primero y el último términos mencionados. -->
-- [ ] B) Medios <!-- feedback: Incorrecto. Esos son los términos b y c. -->
-- [ ] C) Consecuentes <!-- feedback: Incorrecto. Son los denominadores de cada razón. -->
-- [ ] D) Antecedentes <!-- feedback: Incorrecto. Son los numeradores de cada razón. -->
+- [x] D) Extremos <!-- feedback: Correcto. En la lectura de la proporción, son el primero y el último términos mencionados. -->
+- [ ] A) Medios <!-- feedback: Incorrecto. Esos son los términos b y c. -->
+- [ ] B) Consecuentes <!-- feedback: Incorrecto. Son los denominadores de cada razón. -->
+- [ ] C) Antecedentes <!-- feedback: Incorrecto. Son los numeradores de cada razón. -->
 
 ### Explicacion Pedagogica
 En la igualdad de dos razones, los términos exteriores se llaman extremos.
@@ -72,9 +72,9 @@ En la igualdad de dos razones, los términos exteriores se llaman extremos.
 
 ### Opciones
 - [ ] A) 5:2 <!-- feedback: Incorrecto. Ese es el orden inverso (agua a concentrado). -->
-- [x] B) 2:5 <!-- feedback: Correcto. Mantiene el orden de las cantidades mencionadas. -->
-- [ ] C) 2:7 <!-- feedback: Incorrecto. Esa es la razón respecto al total de la mezcla. -->
-- [ ] D) 5:7 <!-- feedback: Incorrecto. Razón de agua respecto al total. -->
+- [x] D) 2:5 <!-- feedback: Correcto. Mantiene el orden de las cantidades mencionadas. -->
+- [ ] B) 2:7 <!-- feedback: Incorrecto. Esa es la razón respecto al total de la mezcla. -->
+- [ ] C) 5:7 <!-- feedback: Incorrecto. Razón de agua respecto al total. -->
 
 ### Explicacion Pedagogica
 La razón debe respetar estrictamente el orden de los elementos planteados.
@@ -93,9 +93,9 @@ La razón debe respetar estrictamente el orden de los elementos planteados.
 
 ### Opciones
 - [ ] A) $a + c = b + d$ <!-- feedback: Incorrecto. No es una propiedad general de proporcionalidad. -->
-- [x] B) $a \cdot d = b \cdot c$ <!-- feedback: Correcto. El producto de los extremos es igual al producto de los medios. -->
-- [ ] C) $a = c$ <!-- feedback: Incorrecto. No es necesario que los numeradores coincidan. -->
-- [ ] D) $a - b = c - d$ <!-- feedback: Incorrecto. Aplica a proporciones aritméticas, no geométricas. -->
+- [x] D) $a \cdot d = b \cdot c$ <!-- feedback: Correcto. El producto de los extremos es igual al producto de los medios. -->
+- [ ] B) $a = c$ <!-- feedback: Incorrecto. No es necesario que los numeradores coincidan. -->
+- [ ] C) $a - b = c - d$ <!-- feedback: Incorrecto. Aplica a proporciones aritméticas, no geométricas. -->
 
 ### Explicacion Pedagogica
 Es la base para resolver incógnitas mediante el producto cruzado.
@@ -113,8 +113,8 @@ Es la base para resolver incógnitas mediante el producto cruzado.
 ¿Qué representa matemáticamente esta escala?
 
 ### Opciones
-- [ ] A) El mapa es mayor que la realidad. <!-- feedback: Incorrecto. Una escala de reducción hace el dibujo más pequeño. -->
-- [x] B) 1 unidad en el mapa equivale a 500,000 en la realidad. <!-- feedback: Correcto. Es la definición de escala como razón de semejanza. -->
+- [ ] B) El mapa es mayor que la realidad. <!-- feedback: Incorrecto. Una escala de reducción hace el dibujo más pequeño. -->
+- [x] A) 1 unidad en el mapa equivale a 500,000 en la realidad. <!-- feedback: Correcto. Es la definición de escala como razón de semejanza. -->
 - [ ] C) La distancia total es 500,000 metros. <!-- feedback: Incorrecto. No define una distancia fija, sino una relación. -->
 - [ ] D) Hay 500,000 km por cada centímetro. <!-- feedback: Incorrecto. Las unidades deben ser consistentes (1 cm : 500,000 cm). -->
 
@@ -135,9 +135,9 @@ La escala es una aplicación directa del concepto de razón entre modelo y objet
 
 ### Opciones
 - [ ] A) RD\$ 150 <!-- feedback: Incorrecto. Revisa el cálculo de la tasa unitaria. -->
-- [x] B) RD\$ 175 <!-- feedback: Correcto. 105/3 = 35 por libra; 35 * 5 = 175. -->
-- [ ] C) RD\$ 210 <!-- feedback: Incorrecto. Ese es el costo de 6 libras. -->
-- [ ] D) RD\$ 135 <!-- feedback: Incorrecto. Error en la aplicación de la proporción directa. -->
+- [x] D) RD\$ 175 <!-- feedback: Correcto. 105/3 = 35 por libra; 35 * 5 = 175. -->
+- [ ] B) RD\$ 210 <!-- feedback: Incorrecto. Ese es el costo de 6 libras. -->
+- [ ] C) RD\$ 135 <!-- feedback: Incorrecto. Error en la aplicación de la proporción directa. -->
 
 ### Explicacion Pedagogica
 Problema de proporcionalidad directa: a mayor peso, mayor costo.
@@ -177,9 +177,9 @@ Establecemos la proporción $\frac{8}{100} = \frac{x}{250}$ y resolvemos para $x
 
 ### Opciones
 - [ ] A) RD\$ 600 <!-- feedback: Incorrecto. Eso sería un reparto igualitario (1:1). -->
-- [x] B) RD\$ 450 <!-- feedback: Correcto. Suma de partes: 8. 1200/8 = 150. Parte menor: 3 * 150 = 450. -->
-- [ ] C) RD\$ 750 <!-- feedback: Incorrecto. Esa es la parte mayor (5 * 150). -->
-- [ ] D) RD\$ 400 <!-- feedback: Incorrecto. Error en la división por el total de partes. -->
+- [x] D) RD\$ 450 <!-- feedback: Correcto. Suma de partes: 8. 1200/8 = 150. Parte menor: 3 * 150 = 450. -->
+- [ ] B) RD\$ 750 <!-- feedback: Incorrecto. Esa es la parte mayor (5 * 150). -->
+- [ ] C) RD\$ 400 <!-- feedback: Incorrecto. Error en la división por el total de partes. -->
 
 ### Explicacion Pedagogica
 Dividimos el total por la suma de los términos de la razón para hallar la constante de reparto.
@@ -198,9 +198,9 @@ Dividimos el total por la suma de los términos de la razón para hallar la cons
 
 ### Opciones
 - [ ] A) 12 h <!-- feedback: Incorrecto. A más obreros debe ser menos tiempo. -->
-- [x] B) 3 h <!-- feedback: Correcto. Es proporción inversa: 4 * 6 = 24 obrero-horas. 24 / 8 = 3 h. -->
-- [ ] C) 4 h <!-- feedback: Incorrecto. No sigue la relación inversa correcta. -->
-- [ ] D) 1.5 h <!-- feedback: Incorrecto. Reducción excesiva. -->
+- [x] D) 3 h <!-- feedback: Correcto. Es proporción inversa: 4 * 6 = 24 obrero-horas. 24 / 8 = 3 h. -->
+- [ ] B) 4 h <!-- feedback: Incorrecto. No sigue la relación inversa correcta. -->
+- [ ] C) 1.5 h <!-- feedback: Incorrecto. Reducción excesiva. -->
 
 ### Explicacion Pedagogica
 En la proporcionalidad inversa, el producto de las magnitudes permanece constante.
@@ -219,9 +219,9 @@ Si dos magnitudes son "inversamente proporcionales", ¿qué ocurre si una dismin
 
 ### Opciones
 - [ ] A) La otra disminuye a la tercera parte. <!-- feedback: Incorrecto. Sería proporción directa. -->
-- [x] B) La otra aumenta al triple. <!-- feedback: Correcto. Al ser inversa, se multiplica por el recíproco del factor de cambio. -->
-- [ ] C) La otra se mantiene constante. <!-- feedback: Incorrecto. Hay una relación de cambio. -->
-- [ ] D) La otra aumenta nueve veces. <!-- feedback: Incorrecto. El cambio debe ser por el mismo factor (3). -->
+- [x] D) La otra aumenta al triple. <!-- feedback: Correcto. Al ser inversa, se multiplica por el recíproco del factor de cambio. -->
+- [ ] B) La otra se mantiene constante. <!-- feedback: Incorrecto. Hay una relación de cambio. -->
+- [ ] C) La otra aumenta nueve veces. <!-- feedback: Incorrecto. El cambio debe ser por el mismo factor (3). -->
 
 ### Explicacion Pedagogica
 Si $x \cdot y = k$, entonces si $x$ se divide por 3, $y$ debe multiplicarse por 3 para mantener $k$.
@@ -239,8 +239,8 @@ Si $x \cdot y = k$, entonces si $x$ se divide por 3, $y$ debe multiplicarse por 
 ¿Cuántos gramos de la segunda se requieren para 140 g de la primera?
 
 ### Opciones
-- [x] A) 60 g <!-- feedback: Correcto. 7/3 = 140/x -> 7x = 420 -> x = 60. -->
-- [ ] B) 30 g <!-- feedback: Incorrecto. Error de escala. -->
+- [x] B) 60 g <!-- feedback: Correcto. 7/3 = 140/x -> 7x = 420 -> x = 60. -->
+- [ ] A) 30 g <!-- feedback: Incorrecto. Error de escala. -->
 - [ ] C) 210 g <!-- feedback: Incorrecto. No cumple la razón dada. -->
 - [ ] D) 100 g <!-- feedback: Incorrecto. Error de cálculo proporcional. -->
 
@@ -261,9 +261,9 @@ Se establece la igualdad de razones y se despeja la incógnita.
 
 ### Opciones
 - [ ] A) 1/x = 58/75 <!-- feedback: Incorrecto. Magnitudes mal emparejadas. -->
-- [x] B) 1/58 = 75/x <!-- feedback: Correcto. USD/DOP = USD/DOP. -->
-- [ ] C) 1/75 = x/58 <!-- feedback: Incorrecto. Inversión errónea en el segundo miembro. -->
-- [ ] D) 1 * 75 = 58 * x <!-- feedback: Incorrecto. Planteamiento de relación inversa inexistente aquí. -->
+- [x] D) 1/58 = 75/x <!-- feedback: Correcto. USD/DOP = USD/DOP. -->
+- [ ] B) 1/75 = x/58 <!-- feedback: Incorrecto. Inversión errónea en el segundo miembro. -->
+- [ ] C) 1 * 75 = 58 * x <!-- feedback: Incorrecto. Planteamiento de relación inversa inexistente aquí. -->
 
 ### Explicacion Pedagogica
 La proporción debe mantener el mismo tipo de magnitud en numeradores y denominadores.
@@ -282,8 +282,8 @@ Ciudad A: 50,000 hab en 10 km2. Ciudad B: 75,000 hab en 15 km2. ¿Cuál es más 
 
 ### Opciones
 - [ ] A) Ciudad B es más densa. <!-- feedback: Incorrecto. Sus razones son iguales. -->
-- [ ] B) Ciudad A es más densa. <!-- feedback: Incorrecto. Sus razones son iguales. -->
-- [x] C) Tienen la misma densidad. <!-- feedback: Correcto. Ambas dan 5,000 hab/km2. -->
+- [ ] C) Ciudad A es más densa. <!-- feedback: Incorrecto. Sus razones son iguales. -->
+- [x] B) Tienen la misma densidad. <!-- feedback: Correcto. Ambas dan 5,000 hab/km2. -->
 - [ ] D) No se pueden comparar. <!-- feedback: Incorrecto. La razón es la herramienta ideal para comparar. -->
 
 ### Explicacion Pedagogica
@@ -324,8 +324,8 @@ Se trata de una multiplicación de la fracción de coeficientes por la razón da
 
 ### Opciones
 - [ ] A) 2:3 <!-- feedback: Incorrecto. Esa es la razón de los tiempos. -->
-- [x] B) 3:2 <!-- feedback: Correcto. Velocidad = 1/tiempo. (1/4) / (1/6) = 6/4 = 3/2. -->
-- [ ] C) 4:6 <!-- feedback: Incorrecto. Error de aplicación directa de tiempos. -->
+- [x] C) 3:2 <!-- feedback: Correcto. Velocidad = 1/tiempo. (1/4) / (1/6) = 6/4 = 3/2. -->
+- [ ] B) 4:6 <!-- feedback: Incorrecto. Error de aplicación directa de tiempos. -->
 - [ ] D) 1:1 <!-- feedback: Incorrecto. Tienen distintos rendimientos. -->
 
 ### Explicacion Pedagogica
@@ -345,9 +345,9 @@ Si se usan 28 sacos de grava, ¿cuántos de cemento se requieren?
 
 ### Opciones
 - [ ] A) 14 sacos <!-- feedback: Incorrecto. Error en la razón parcial. -->
-- [x] B) 7 sacos <!-- feedback: Correcto. Razón cemento:grava es 1:4. 28 / 4 = 7. -->
-- [ ] C) 4 sacos <!-- feedback: Incorrecto. Error de cálculo. -->
-- [ ] D) 28 sacos <!-- feedback: Incorrecto. No es mezcla equitativa. -->
+- [x] D) 7 sacos <!-- feedback: Correcto. Razón cemento:grava es 1:4. 28 / 4 = 7. -->
+- [ ] B) 4 sacos <!-- feedback: Incorrecto. Error de cálculo. -->
+- [ ] C) 28 sacos <!-- feedback: Incorrecto. No es mezcla equitativa. -->
 
 ### Explicacion Pedagogica
 Identificamos la razón entre los dos componentes específicos de la pregunta.
@@ -388,8 +388,8 @@ Capital A produce 200 en 4 meses. Capital B produce 300 en 5 meses. ¿Razón A:B
 ### Opciones
 - [ ] A) 2:3 <!-- feedback: Incorrecto. Ignoró el tiempo. -->
 - [ ] B) 4:5 <!-- feedback: Incorrecto. Ignoró el interés. -->
-- [x] C) 5:6 <!-- feedback: Correcto. (200/4)/(300/5) = 50/60 = 5/6. -->
-- [ ] D) 6:5 <!-- feedback: Incorrecto. Razón invertida. -->
+- [x] D) 5:6 <!-- feedback: Correcto. (200/4)/(300/5) = 50/60 = 5/6. -->
+- [ ] C) 6:5 <!-- feedback: Incorrecto. Razón invertida. -->
 
 ### Explicacion Pedagogica
 El capital es proporcional al cociente Interés/Tiempo para una tasa fija.
@@ -428,9 +428,9 @@ Proceso de modelación algebraica a partir de una definición de proporción.
 ¿Cuál es la razón final agua:alcohol?
 
 ### Opciones
-- [ ] A) 5:4 <!-- feedback: Incorrecto. No se suman términos directamente. -->
-- [ ] B) 1:1 <!-- feedback: Incorrecto. Desequilibrio evidente. -->
-- [x] C) 23:17 <!-- feedback: Correcto. Suma de fracciones: (2/5+3/4) / (3/5+1/4). -->
+- [ ] B) 5:4 <!-- feedback: Incorrecto. No se suman términos directamente. -->
+- [ ] C) 1:1 <!-- feedback: Incorrecto. Desequilibrio evidente. -->
+- [x] A) 23:17 <!-- feedback: Correcto. Suma de fracciones: (2/5+3/4) / (3/5+1/4). -->
 - [ ] D) 13:7 <!-- feedback: Incorrecto. Fracciones calculadas erróneamente. -->
 
 ### Explicacion Pedagogica

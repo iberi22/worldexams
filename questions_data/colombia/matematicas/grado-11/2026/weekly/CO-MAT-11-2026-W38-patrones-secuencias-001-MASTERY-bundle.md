@@ -34,9 +34,9 @@ Este bundle contiene 20 preguntas sobre **patrones, sucesiones aritméticas, geo
 ¿Cuál es la razón de cambio (diferencia común $d$) de esta sucesión aritmética de depósitos?
 
 ### Opciones
-- [x] A) 5,000 COP
+- [x] B) 5,000 COP
   <!-- feedback: La diferencia común d = 15000 - 10000 = 20000 - 15000 = 5000 COP. -->
-- [ ] B) 10,000 COP
+- [ ] A) 10,000 COP
   <!-- feedback: Corresponde al primer término a_1 de la sucesión. -->
 - [ ] C) 15,000 COP
   <!-- feedback: Corresponde al segundo término a_2 de la sucesión. -->
@@ -57,13 +57,13 @@ En una sucesión aritmética, la diferencia común $d$ es la resta entre cualqui
 ¿Cuál es la razón común $r$ de esta sucesión geométrica?
 
 ### Opciones
-- [x] A) 2
+- [x] D) 2
   <!-- feedback: Al duplicarse cada hora, el factor de crecimiento multiplicativo constante es r = 2. -->
-- [ ] B) 3
+- [ ] A) 3
   <!-- feedback: Corresponde al valor inicial de bacterias (a_0) en el experimento. -->
-- [ ] C) 6
+- [ ] B) 6
   <!-- feedback: Multiplicó el término inicial por la razón. -->
-- [ ] D) 0.5
+- [ ] C) 0.5
   <!-- feedback: Corresponde al recíproco de la razón de crecimiento. -->
 
 ### Explicacion Pedagogica
@@ -104,11 +104,11 @@ $a_1 = 1, a_2 = 4, a_3 = 7, a_4 = 10$.
 ¿Cuántos puntos tiene la quinta figura ($T_5$)?
 
 ### Opciones
-- [x] A) 15
+- [x] C) 15
   <!-- feedback: T_5 = (5 * 6) / 2 = 30 / 2 = 15. -->
-- [ ] B) 10
+- [ ] A) 10
   <!-- feedback: Corresponde a T_4 = (4 * 5)/2 = 10. -->
-- [ ] C) 25
+- [ ] B) 25
   <!-- feedback: Calculó 5^2 (número cuadrado) en lugar del número triangular. -->
 - [ ] D) 30
   <!-- feedback: Olvidó dividir entre 2 la multiplicación n*(n+1). -->
@@ -127,13 +127,13 @@ Sustituyendo $n=5$ en la fórmula de los números triangulares: $T_5 = \frac{5  
 ¿Cuál es el término vigésimo ($a_{20}$) de esta progresión?
 
 ### Opciones
-- [x] A) 61
+- [x] D) 61
   <!-- feedback: a_20 = a_1 + (20 - 1)*d = 4 + 19*3 = 4 + 57 = 61. -->
-- [ ] B) 64
+- [ ] A) 64
   <!-- feedback: Multiplicó 20 * 3 + 4 ignorando que el término a_1 ya cuenta como el primero (usó n en lugar de n-1). -->
-- [ ] C) 60
+- [ ] B) 60
   <!-- feedback: Multiplicó 20 * 3. -->
-- [ ] D) 57
+- [ ] C) 57
   <!-- feedback: Corresponde solo al producto 19 * 3 sin sumar el primer término a_1 = 4. -->
 
 ### Explicacion Pedagogica
@@ -175,13 +175,13 @@ Para $a_1 = 100,000, r = 2, n = 5$: $S_5 = 100,000 \frac{32 - 1}{1} = 3,100,000$
 ¿Cuál es el valor de la suma $1 + 2 + 3 + dots + 50$?
 
 ### Opciones
-- [x] A) 1275
+- [x] D) 1275
   <!-- feedback: S_50 = (50 * 51) / 2 = 25 * 51 = 1275. -->
-- [ ] B) 2550
+- [ ] A) 2550
   <!-- feedback: Olvidó dividir entre 2 la multiplicación 50 * 51. -->
-- [ ] C) 1250
+- [ ] B) 1250
   <!-- feedback: Calculó 50 * 25. -->
-- [ ] D) 1300
+- [ ] C) 1300
   <!-- feedback: Calculó 50 * 26. -->
 
 ### Explicacion Pedagogica
@@ -199,11 +199,11 @@ $S_{50} = \frac{50   imes 51}{2} = 25   imes 51 = 1275$.
 ¿Cuántos asientos en total tiene la tribuna ($S_{15}$)?
 
 ### Opciones
-- [x] A) 510
+- [x] C) 510
   <!-- feedback: a_1 = 20, d = 2. a_15 = 20 + 14*2 = 48. S_15 = (15/2)*(a_1 + a_15) = 7.5 * (20 + 48) = 7.5 * 68 = 510. -->
-- [ ] B) 480
+- [ ] A) 480
   <!-- feedback: Multiplicó 15 * 32 (tomando la capacidad media de forma errónea). -->
-- [ ] C) 300
+- [ ] B) 300
   <!-- feedback: Multiplicó 15 por la cantidad de asientos de la primera fila. -->
 - [ ] D) 720
   <!-- feedback: Calculó 15 * 48 sin aplicar la división entre 2. -->
@@ -223,11 +223,11 @@ Suma total $S_{15} = \frac{n}{2}(a_1 + a_{15}) = \frac{15}{2}(20 + 48) = 7.5   i
 ¿Cuál es la suma infinita de todos los términos de esta sucesión ($S_\infty$)?
 
 ### Opciones
-- [x] A) 32
+- [x] C) 32
   <!-- feedback: S_inf = a_1 / (1 - r) = 16 / (1 - 0.5) = 16 / 0.5 = 32. -->
-- [ ] B) 64
+- [ ] A) 64
   <!-- feedback: Dividió 16 entre 0.25 por error. -->
-- [ ] C) 31
+- [ ] B) 31
   <!-- feedback: Sumó los primeros 5 términos enteros ignorando la suma infinita de los fraccionarios. -->
 - [ ] D) La suma diverge a infinito
   <!-- feedback: Como |r| = 0.5 < 1, la serie geométrica converge a un valor finito. -->
@@ -271,11 +271,11 @@ $h_3 = 10   imes (0.75)^3 = 10   imes 0.421875 = 4.21875$ metros.
 ¿Cuál es el valor del primer término $a_1$ y la diferencia común $d$?
 
 ### Opciones
-- [x] A) $a_1 = 3, d = 4$
+- [x] C) $a_1 = 3, d = 4$
   <!-- feedback: a_7 - a_3 = 4d -> 27 - 11 = 16 -> 4d = 16 -> d = 4. Luego a_1 = a_3 - 2d = 11 - 8 = 3. -->
-- [ ] B) $a_1 = 4, d = 3$
+- [ ] A) $a_1 = 4, d = 3$
   <!-- feedback: Intercambió los valores del primer término y la diferencia. -->
-- [ ] C) $a_1 = 1, d = 5$
+- [ ] B) $a_1 = 1, d = 5$
   <!-- feedback: Si d=5, a_3 sería 1 + 10 = 11 pero a_7 sería 1 + 30 = 31 (no 27). -->
 - [ ] D) $a_1 = 2, d = 4$
   <!-- feedback: Si a_1 = 2 y d = 4, a_3 sería 10 (no 11). -->
@@ -295,9 +295,9 @@ Sustituyendo en $a_3 = a_1 + 2d Rightarrow 11 = a_1 + 2(4) Rightarrow a_1 = 3$.
 ¿Cuál es el valor del octavo término ($F_8$) de la sucesión de Fibonacci?
 
 ### Opciones
-- [x] A) 21
+- [x] B) 21
   <!-- feedback: F1=1, F2=1, F3=2, F4=3, F5=5, F6=8, F7=13, F8=21. -->
-- [ ] B) 13
+- [ ] A) 13
   <!-- feedback: Corresponde al séptimo término F_7. -->
 - [ ] C) 34
   <!-- feedback: Corresponde al noveno término F_9. -->
@@ -366,11 +366,11 @@ ight)$.
 ¿Cuál es el límite de la suma de esta serie cuando $n$ tiende a infinito?
 
 ### Opciones
-- [x] A) 1
+- [x] C) 1
   <!-- feedback: La suma parcial Sn se cancela telescópicamente: Sn = (1 - 1/2) + (1/2 - 1/3) + ... + (1/n - 1/(n+1)) = 1 - 1/(n+1). Cuando n -> inf, 1/(n+1) -> 0, luego la suma es 1. -->
-- [ ] B) 0
+- [ ] A) 0
   <!-- feedback: Corresponde al límite del término 1/(n+1), no a la suma total de la serie. -->
-- [ ] C) $\infty$
+- [ ] B) $\infty$
   <!-- feedback: Asumió divergencia sin aplicar la propiedad telescópica. -->
 - [ ] D) 0.5
   <!-- feedback: Estimó el valor del segundo término de la resta. -->
@@ -391,9 +391,9 @@ ight) = 1 - 0 = 1$.
 ¿Al cabo de cuántos años el capital acumulado superará por primera vez los 1,200,000 COP? (Utilice $log(1.20) \approx 0.07918$ y $log(1.05) \approx 0.02119$).
 
 ### Opciones
-- [x] A) 4 años
+- [x] B) 4 años
   <!-- feedback: 1000000 * (1.05)^t = 1200000 -> (1.05)^t = 1.20 -> t = log(1.20) / log(1.05) = 0.07918 / 0.02119 = 3.736 años. Por lo tanto, al cabo de 4 años se supera por primera vez. -->
-- [ ] B) 3 años
+- [ ] A) 3 años
   <!-- feedback: A los 3 años el capital es 1000000 * (1.05)^3 = 1157625 COP, aún no alcanza los 1.200.000 COP. -->
 - [ ] C) 5 años
   <!-- feedback: A los 5 años ya se superó previamente en el año 4. -->
@@ -416,13 +416,13 @@ Redondeando al entero superior en años completos: 4 años.
 ¿Cuál es la distancia total recorrida acumulada durante los primeros 10 días de entrenamiento? (Utilice $(1.10)^{10} \approx 2.5937$).
 
 ### Opciones
-- [x] A) 79.68 km
+- [x] D) 79.68 km
   <!-- feedback: S_10 = a_1 * (r^10 - 1) / (r - 1) = 5 * (2.5937 - 1) / (1.10 - 1) = 5 * 1.5937 / 0.10 = 5 * 15.937 = 79.685 km. -->
-- [ ] B) 12.96 km
+- [ ] A) 12.96 km
   <!-- feedback: Corresponde únicamente a la distancia recorrida el décimo día a_10 = 5 * (1.10)^9. -->
-- [ ] C) 50.00 km
+- [ ] B) 50.00 km
   <!-- feedback: Multiplicó 5 * 10 de manera lineal ignorando el incremento del 10%. -->
-- [ ] D) 129.68 km
+- [ ] C) 129.68 km
   <!-- feedback: Erró en la división entre r - 1. -->
 
 ### Explicacion Pedagogica
@@ -467,11 +467,11 @@ $A + B + C = 3 Rightarrow 1 + 2 + C = 3 Rightarrow C = 0$. La fórmula es $a_n =
 ¿Cuál es el valor exacto de la suma de esta serie aritmético-geométrica?
 
 ### Opciones
-- [x] A) 4
+- [x] C) 4
   <!-- feedback: S = sum(n / 2^(n-1)). Multiplicando por 1/2: S/2 = sum(n / 2^n). Restando S - S/2 = 1 + 1/2 + 1/4 + 1/8 + ... = 2. Luego S/2 = 2 -> S = 4. -->
-- [ ] B) 2
+- [ ] A) 2
   <!-- feedback: Corresponde a la suma S/2 o a la serie geométrica simple. -->
-- [ ] C) 3
+- [ ] B) 3
   <!-- feedback: Erró en el proceso de resta telescópica. -->
 - [ ] D) La serie es divergente
   <!-- feedback: Como el término general n/2^(n-1) tiende a 0 rápidamente, la serie es convergente. -->
@@ -496,10 +496,10 @@ Por ende, $S = 4$.
 Si el perímetro inicial del triángulo equilátero original es $P_0 = 3$ metros, ¿cuál es el perímetro $P_n$ de la figura tras $n$ iteraciones?
 
 ### Opciones
-- [x] A) $P_n = 3 cdot left(\frac{4}{3}
+- [x] B) $P_n = 3 cdot left(\frac{4}{3}
 ight)^n$
   <!-- feedback: En cada paso el número de lados se multiplica por 4 y la longitud de cada lado se multiplica por 1/3, por lo que el perímetro total se multiplica por (4/3): P_n = P_0 * (4/3)^n. -->
-- [ ] B) $P_n = 3 cdot left(\frac{3}{4}
+- [ ] A) $P_n = 3 cdot left(\frac{3}{4}
 ight)^n$
   <!-- feedback: Invirtió la razón de crecimiento, lo que indicaría que el perímetro disminuye en lugar de aumentar. -->
 - [ ] C) $P_n = 3 + 4n$

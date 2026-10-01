@@ -35,9 +35,9 @@ creador: "Jules-Agent"
 ### Opciones
 - [ ] A) Contener un sujeto tácito y más de tres adjetivos calificativos.
   <!-- feedback: Incorrecto. El tipo de sujeto y el número de adjetivos no determinan la estructura de una oración compuesta. -->
-- [ ] B) Estar unida únicamente por un signo de puntuación al final del párrafo.
+- [ ] C) Estar unida únicamente por un signo de puntuación al final del párrafo.
   <!-- feedback: Incorrecto. Toda oración tiene puntuación final, esto no define si es compuesta. -->
-- [x] C) Poseer dos o más proposiciones, cada una con su respectivo verbo conjugado o perífrasis verbal.
+- [x] B) Poseer dos o más proposiciones, cada una con su respectivo verbo conjugado o perífrasis verbal.
   <!-- feedback: ¡Correcto! Una oración compuesta se caracteriza por tener más de una estructura oracional interna (proposiciones), cada una con su propio verbo. -->
 - [ ] D) Carecer de complementos circunstanciales y de objetos directos.
   <!-- feedback: Incorrecto. Las oraciones compuestas pueden tener todo tipo de complementos sintácticos en sus proposiciones. -->
@@ -57,11 +57,11 @@ La oración compuesta se conforma sintácticamente por la unión de dos o más p
 ¿Cuál de los siguientes nexos gramaticales es un conector coordinante adversativo que denota oposición u obstáculo entre dos proposiciones?
 
 ### Opciones
-- [ ] A) O / u
+- [ ] B) O / u
   <!-- feedback: Incorrecto. Estos son nexos disyuntivos que plantean opciones excluyentes. -->
-- [ ] B) Y / e / ni
+- [ ] C) Y / e / ni
   <!-- feedback: Incorrecto. Estos son nexos copulativos que indican adición o suma de proposiciones. -->
-- [x] C) Pero / sin embargo / sino que
+- [x] A) Pero / sin embargo / sino que
   <!-- feedback: ¡Correcto! Los nexos adversativos introducen un contraste u oposición entre las proposiciones de una oración compuesta coordinada. -->
 - [ ] D) Porque / ya que / dado que
   <!-- feedback: Incorrecto. Estos son nexos subordinantes que expresan una relación de causa. -->
@@ -81,9 +81,9 @@ Los coordinantes adversativos enlazan proposiciones de igual jerarquía sintáct
 ¿A qué tipo de oración compuesta corresponde el enunciado analizado en el contexto?
 
 ### Opciones
-- [x] A) Coordinada yuxtapuesta.
+- [x] B) Coordinada yuxtapuesta.
   <!-- feedback: ¡Correcto! Las proposiciones se enlazan mediante signos de puntuación (en este caso, punto y coma) sin conectores ni nexos gramaticales explícitos. -->
-- [ ] B) Subordinada sustantiva de sujeto.
+- [ ] A) Subordinada sustantiva de sujeto.
   <!-- feedback: Incorrecto. No hay una relación de subordinación ni una proposición que actúe como sujeto de otra. -->
 - [ ] C) Coordinada consecutiva ilativa.
   <!-- feedback: Incorrecto. Las consecutivas exigen un nexo como "por lo tanto" o "así que" que no aparece en este enunciado. -->
@@ -110,9 +110,9 @@ La yuxtaposición es un mecanismo sintáctico para formar oraciones compuestas d
   <!-- feedback: Incorrecto. No se puede reemplazar por el pronombre "lo/la"; no es lo que se preocupa, sino el sujeto que causa la preocupación. -->
 - [ ] B) Objeto indirecto del verbo principal.
   <!-- feedback: Incorrecto. No expresa el destinatario de la acción verbal principal. -->
-- [x] C) Sujeto de la oración principal.
+- [x] D) Sujeto de la oración principal.
   <!-- feedback: ¡Correcto! La proposición subordinada sustantiva actúa como el sujeto del verbo "preocupa". Es equivalente a decir: "Eso preocupa a los comunistas". -->
-- [ ] D) Complemento circunstancial de causa.
+- [ ] C) Complemento circunstancial de causa.
   <!-- feedback: Incorrecto. Aunque de fondo hay una causa, formalmente funciona como el sujeto gramatical del verbo "preocupa". -->
 
 ### Explicación Pedagógica
@@ -132,11 +132,11 @@ Las proposiciones subordinadas sustantivas funcionan como un sustantivo dentro d
 ### Opciones
 - [ ] A) Subordinada sustantiva que funciona como objeto directo del sustantivo "Sipán".
   <!-- feedback: Incorrecto. Las proposiciones subordinadas sustantivas no modifican a sustantivos de esta forma, sino que desempeñan funciones propias del núcleo del sujeto o del predicado. -->
-- [x] B) Subordinada adjetiva que modifica al sustantivo antecedente "El arqueólogo".
+- [x] D) Subordinada adjetiva que modifica al sustantivo antecedente "El arqueólogo".
   <!-- feedback: ¡Correcto! La proposición "que descubrió las tumbas en Sipán" actúa como un adjetivo que especifica y califica al sustantivo antecedente directo "arqueólogo". -->
-- [ ] C) Subordinada adverbial temporal que modifica directamente al verbo "Sipán".
+- [ ] B) Subordinada adverbial temporal que modifica directamente al verbo "Sipán".
   <!-- feedback: Incorrecto. No indica tiempo y "Sipán" no es un verbo, es un sustantivo propio de lugar. -->
-- [ ] D) Subordinada sustantiva de sujeto que complementa al verbo "conferencia".
+- [ ] C) Subordinada sustantiva de sujeto que complementa al verbo "conferencia".
   <!-- feedback: Incorrecto. Modifica a "arqueólogo" y se introduce por un pronombre relativo, lo que la define estructuralmente como adjetiva. -->
 
 ### Explicación Pedagógica
@@ -154,11 +154,11 @@ Las proposiciones subordinadas adjetivas (o de relativo) son introducidas por pr
 ¿Cuál es la función exacta de la proposición subordinada sustantiva en la oración propuesta?
 
 ### Opciones
-- [x] A) Objeto directo (OD).
+- [x] C) Objeto directo (OD).
   <!-- feedback: ¡Correcto! Se puede conmutar por el pronombre "lo": "Diego lo prometió". La proposición completa responde a la pregunta de qué es lo prometido por el sujeto. -->
-- [ ] B) Objeto indirecto (OI).
+- [ ] A) Objeto indirecto (OI).
   <!-- feedback: Incorrecto. El objeto indirecto de una promesa sería el destinatario (a quién le promete), lo cual no es el caso de la proposición. -->
-- [ ] C) Atributo del sujeto.
+- [ ] B) Atributo del sujeto.
   <!-- feedback: Incorrecto. Las proposiciones atributivas exigen un verbo copulativo (ser, estar, parecer), pero "prometer" es un verbo transitivo predicativo. -->
 - [ ] D) Complemento agente.
   <!-- feedback: Incorrecto. El complemento agente aparece solo en oraciones en voz pasiva introducido por la preposición "por", lo cual no ocurre aquí. -->
@@ -180,9 +180,9 @@ Las subordinadas sustantivas de objeto directo completan la significación de un
 ### Opciones
 - [ ] A) Huancayo produce abundantes hortalizas porque sus suelos son irrigados de forma continua por el río Mantaro.
   <!-- feedback: Incorrecto. Esta oración es subordinada adverbial causal, pues explica el motivo físico directo ("porque"). -->
-- [x] B) Aunque las heladas afectaron la sierra central en junio, los agricultores de Huancayo lograron salvar gran parte de sus cultivos.
+- [x] C) Aunque las heladas afectaron la sierra central en junio, los agricultores de Huancayo lograron salvar gran parte de sus cultivos.
   <!-- feedback: ¡Correcto! El nexo "Aunque" introduce una proposición concesiva que plantea un obstáculo o dificultad que no impidió el resultado de la acción principal. -->
-- [ ] C) Si las lluvias se retrasan de forma inusual en la sierra, la producción de papa disminuirá drásticamente.
+- [ ] B) Si las lluvias se retrasan de forma inusual en la sierra, la producción de papa disminuirá drásticamente.
   <!-- feedback: Incorrecto. Esta es una oración compuesta condicional introducida por el nexo de hipótesis "Si". -->
 - [ ] D) Los camiones parten cargados de alcachofas hacia Lima para que sean exportadas directamente a Europa.
   <!-- feedback: Incorrecto. Es una oración compuesta subordinada adverbial final que denota propósito ("para que"). -->
@@ -202,11 +202,11 @@ Las oraciones subordinadas adverbiales concesivas expresan un impedimento u obst
 Seleccione la opción que presenta una oración compuesta subordinada adverbial temporal que determine con precisión el momento en que se produce la acción del verbo principal.
 
 ### Opciones
-- [x] A) En cuanto Túpac Amaru II capturó al corregidor Arriaga en Tinta, los rebeldes emitieron un bando de libertad para los esclavos.
+- [x] C) En cuanto Túpac Amaru II capturó al corregidor Arriaga en Tinta, los rebeldes emitieron un bando de libertad para los esclavos.
   <!-- feedback: ¡Correcto! El nexo "En cuanto" introduce una proposición subordinada adverbial temporal que fija la simultaneidad o inmediatez cronológica de la acción principal. -->
-- [ ] B) Túpac Amaru II movilizó un gran ejército rebelde con el propósito de abolir el sistema de mitas coloniales.
+- [ ] A) Túpac Amaru II movilizó un gran ejército rebelde con el propósito de abolir el sistema de mitas coloniales.
   <!-- feedback: Incorrecto. Es una oración de finalidad ("con el propósito de"), no indica tiempo cronológico. -->
-- [ ] C) Los rebeldes andinos combatieron ferozmente de modo que las tropas realistas tuvieron que replegarse a Lima.
+- [ ] B) Los rebeldes andinos combatieron ferozmente de modo que las tropas realistas tuvieron que replegarse a Lima.
   <!-- feedback: Incorrecto. Esta oración introduce una relación coordinada consecutiva o subordinada ilativa, no temporal. -->
 - [ ] D) Si bien la rebelión de Túpac Amaru II fue debelada, su impacto debilitó para siempre el virreinato del Perú.
   <!-- feedback: Incorrecto. Se trata de una estructura concesiva, que no define una relación temporal exacta de eventos. -->
@@ -228,9 +228,9 @@ Las subordinadas adverbiales temporales funcionan como complementos circunstanci
 ### Opciones
 - [ ] A) La UNI me otorgará la beca de estudios dado que he obtenido el primer puesto en el examen nacional de admisión.
   <!-- feedback: Incorrecto. El nexo "dado que" introduce una proposición causal, asumiendo un hecho ya consumado y cierto. -->
-- [ ] B) Aunque no cuente con todos los recursos económicos necesarios, me prepararé con dedicación para ingresar a la UNI.
+- [ ] C) Aunque no cuente con todos los recursos económicos necesarios, me prepararé con dedicación para ingresar a la UNI.
   <!-- feedback: Incorrecto. Es una oración concesiva ("Aunque"), no propiamente condicional de hipótesis futura. -->
-- [x] C) Siempre que mantenga un promedio ponderado sobresaliente en mis cursos de ingeniería, la universidad renovará mi beca.
+- [x] B) Siempre que mantenga un promedio ponderado sobresaliente en mis cursos de ingeniería, la universidad renovará mi beca.
   <!-- feedback: ¡Correcto! El nexo compuesto "Siempre que" funciona como un condicional equivalente a "si", que delimita el requisito hipotético ineludible. -->
 - [ ] D) Me inscribiré en los seminarios gratuitos de física para que aumente mis posibilidades de aprobar el ciclo académico.
   <!-- feedback: Incorrecto. Es una proposición subordinada final que denota objetivo ("para que"). -->
@@ -251,11 +251,11 @@ Las subordinadas adverbiales condicionales expresan una condición indispensable
 ¿Cuál es la clasificación sintáctica de la proposición subordinada introducida por el nexo compuesto **"de modo que"** en esta oración?
 
 ### Opciones
-- [ ] A) Subordinada adjetiva especificativa de lugar.
+- [ ] B) Subordinada adjetiva especificativa de lugar.
   <!-- feedback: Incorrecto. No modifica un sustantivo ni se refiere a coordenadas espaciales. -->
-- [ ] B) Subordinada sustantiva en función de sujeto del verbo prohibir.
+- [ ] C) Subordinada sustantiva en función de sujeto del verbo prohibir.
   <!-- feedback: Incorrecto. El sujeto de prohibir es tácito u omitido; la proposición expresa consecuencia o finalidad. -->
-- [x] C) Subordinada adverbial consecutiva o ilativa.
+- [x] A) Subordinada adverbial consecutiva o ilativa.
   <!-- feedback: ¡Correcto! El conector "de modo que" enlaza una consecuencia natural y lógica que se desprende directamente de lo planteado en la proposición anterior. -->
 - [ ] D) Subordinada adverbial causal que explica el origen geológico de los adobes.
   <!-- feedback: Incorrecto. No indica causa de Chan Chan, sino la consecuencia protectora que se busca alcanzar. -->
@@ -275,9 +275,9 @@ Las subordinadas ilativas o consecutivas plantean la consecuencia o derivación 
 Identifique la opción que presenta un caso de **dequeísmo** (inserción indebida de la preposición "de") en la estructura de una proposición subordinada sustantiva.
 
 ### Opciones
-- [ ] A) Estoy seguro de que los ingenieros chimbotanos resolverán el problema del puerto pesquero.
+- [ ] B) Estoy seguro de que los ingenieros chimbotanos resolverán el problema del puerto pesquero.
   <!-- feedback: Incorrecto. El adjetivo "seguro" rige la preposición "de" (seguro de algo); por ende, esta construcción es correcta (queísmo evitado). -->
-- [x] B) Los pescadores locales piensan de que la veda de anchoveta debería prolongarse dos semanas más.
+- [x] A) Los pescadores locales piensan de que la veda de anchoveta debería prolongarse dos semanas más.
   <!-- feedback: ¡Correcto! El verbo "pensar" es transitivo directo y no rige preposición (pensar algo, no pensar *de* algo). Agregar "de que" es un error sintáctico de dequeísmo. -->
 - [ ] C) El capitán del navío se percató de que la marea alta dificultaría el desembarque nocturno.
   <!-- feedback: Incorrecto. El verbo "percatarse" exige la preposición "de" (percatarse de algo); el uso es correcto. -->
@@ -355,9 +355,9 @@ II. "Los comuneros de Puno, que protestaron pacíficamente, recibieron el apoyo 
   <!-- feedback: Incorrecto. La coma en la II generaliza a todo el grupo de comuneros; en la I delimita solo a un subgrupo específico. -->
 - [ ] B) Ambas oraciones expresan exactamente el mismo significado gramatical; las comas son opcionales y solo sirven para pausar la lectura de corrido.
   <!-- feedback: Incorrecto. Las comas en oraciones adjetivas alteran drásticamente el alcance semántico de la proposición, no son puramente estéticas. -->
-- [x] C) En la oración I, se especifica que solo el subgrupo de comuneros que protestó recibió apoyo; en la oración II, se afirma que la totalidad de los comuneros protestó y todos recibieron apoyo.
+- [x] D) En la oración I, se especifica que solo el subgrupo de comuneros que protestó recibió apoyo; en la oración II, se afirma que la totalidad de los comuneros protestó y todos recibieron apoyo.
   <!-- feedback: ¡Correcto! La proposición adjetiva especificativa (I) restringe el sustantivo "comuneros"; la adjetiva explicativa (II) añade una aclaración sobre todo el universo de comuneros sin restringir el sujeto. -->
-- [ ] D) La oración I es sintácticamente incorrecta porque las oraciones subordinadas adjetivas siempre exigen llevar comas de forma obligatoria.
+- [ ] C) La oración I es sintácticamente incorrecta porque las oraciones subordinadas adjetivas siempre exigen llevar comas de forma obligatoria.
   <!-- feedback: Incorrecto. Ambas oraciones son correctas, pero expresan realidades de alcance semántico distintas. -->
 
 ### Explicación Pedagógica
@@ -403,9 +403,9 @@ La elipsis verbal es un recurso cohesivo muy común en el español formal que co
 ### Opciones
 - [ ] A) Es una proposición coordinada copulativa con verbo elíptico en modo subjuntivo.
   <!-- feedback: Incorrecto. El infinitivo no es un verbo conjugado copulativo ni hay nexo copulativo. -->
-- [x] B) Funciona como una proposición subordinada sustantiva de objeto directo en la que el infinitivo "cantar" actúa como núcleo del predicado subordinado.
+- [x] C) Funciona como una proposición subordinada sustantiva de objeto directo en la que el infinitivo "cantar" actúa como núcleo del predicado subordinado.
   <!-- feedback: ¡Correcto! Los verbos de percepción (oír, ver, escuchar) admiten subordinadas sustantivas de infinitivo que cumplen la función global de objeto directo del verbo principal ("lo oyeron"). -->
-- [ ] C) Es una frase adjetiva explicativa que modifica de forma redundante al sujeto de la oración.
+- [ ] B) Es una frase adjetiva explicativa que modifica de forma redundante al sujeto de la oración.
   <!-- feedback: Incorrecto. No modifica a los "biólogos", sino que es el objeto percibido ("a las aves cantar"). -->
 - [ ] D) Constituye un complemento agente de una oración pasiva refleja con pronombre "se".
   <!-- feedback: Incorrecto. La oración está en voz activa y no contiene la partícula "se" ni complementos agentes de pasiva. -->
@@ -425,11 +425,11 @@ Los infinitivos pueden encabezar proposiciones subordinadas sustantivas (oracion
 Al realizar un análisis crítico y normativo de la oración anterior de acuerdo con las reglas académicas de la lengua española, ¿cuál es la evaluación diagnóstica correcta respecto a su redacción?
 
 ### Opciones
-- [ ] A) La oración es completamente correcta y fluida; las construcciones "asuma de que" e "ignora de que" evitan caer en queísmos.
+- [ ] B) La oración es completamente correcta y fluida; las construcciones "asuma de que" e "ignora de que" evitan caer en queísmos.
   <!-- feedback: Incorrecto. Al contrario, incurre en vicios graves de dequeísmo. -->
-- [ ] B) Incurre en un error de concordancia de género entre el pronombre relativo "Quien" y el sustantivo "hablantes".
+- [ ] C) Incurre en un error de concordancia de género entre el pronombre relativo "Quien" y el sustantivo "hablantes".
   <!-- feedback: Incorrecto. El pronombre de tercera persona singular "Quien" concuerda perfectamente con "asuma" e "ignora"; el problema está en las preposiciones. -->
-- [x] C) Presenta dos faltas graves de dequeísmo; los verbos transitivos "asumir" e "ignorar" exigen oraciones subordinadas sustantivas directas sin preposición ("asuma que" / "ignora que").
+- [x] A) Presenta dos faltas graves de dequeísmo; los verbos transitivos "asumir" e "ignorar" exigen oraciones subordinadas sustantivas directas sin preposición ("asuma que" / "ignora que").
   <!-- feedback: ¡Correcto! Tanto "asumir" como "ignorar" son verbos transitivos que no admiten la preposición "de" antes de su objeto directo sustantivo ("asumir algo", "ignorar algo"). -->
 - [ ] D) El único error es de queísmo, pues debió escribirse "Quien asuma de que la sintaxis es inmutable ignora de que los de hablantes la modifican".
   <!-- feedback: Incorrecto. "Queísmo" es omitir una preposición necesaria; aquí se han insertado preposiciones innecesarias de forma incorrecta. -->
@@ -450,11 +450,11 @@ Los verbos de entendimiento, voluntad y lengua (asumir, ignorar, decir, pensar, 
 Evalúe la coherencia y validez de la correlación de tiempos verbales (consecutio temporum) de esta oración subordinada condicional.
 
 ### Opciones
-- [x] A) Es gramaticalmente correcta; la hipótesis en el pasado va en pretérito pluscuamperfecto de subjuntivo ("hubieran conocido") y la consecuencia en condicional compuesto de indicativo ("habrían tomado").
+- [x] C) Es gramaticalmente correcta; la hipótesis en el pasado va en pretérito pluscuamperfecto de subjuntivo ("hubieran conocido") y la consecuencia en condicional compuesto de indicativo ("habrían tomado").
   <!-- feedback: ¡Correcto! Corresponde a una condicional imposible o irreal de pasado, cuya correlación estándar exige subjuntivo en la hipótesis y condicional compuesto en el resultado. -->
-- [ ] B) Es incorrecta; debió usarse el futuro simple del indicativo en la prótasis ("Si los comuneros conocerán...") para concordar con el condicional de la apódosis.
+- [ ] A) Es incorrecta; debió usarse el futuro simple del indicativo en la prótasis ("Si los comuneros conocerán...") para concordar con el condicional de la apódosis.
   <!-- feedback: Incorrecto. En el español estándar, la conjunción condicional "si" nunca admite el futuro del indicativo ("Si conocerán" es un error grave). -->
-- [ ] C) Es incoherente; se debió emplear el presente del subjuntivo en ambos verbos ("Si los comuneros conozcan..., habrán tomado...").
+- [ ] B) Es incoherente; se debió emplear el presente del subjuntivo en ambos verbos ("Si los comuneros conozcan..., habrán tomado...").
   <!-- feedback: Incorrecto. Desvirtúa el sentido temporal retrospectivo de la hipótesis en el pasado. -->
 - [ ] D) Solo es válida en contextos informales porque la RAE prohíbe el uso de oraciones condicionales con verbos compuestos en la sierra del Perú.
   <!-- feedback: Incorrecto. Esta estructura es plenamente válida y recomendada en todos los registros formales y académicos del español global. -->
@@ -477,9 +477,9 @@ La correlación temporal en las condicionales irreales del pasado (hipótesis so
 ### Opciones
 - [ ] A) Es perfectamente clara y formal; el uso de dos pronombres relativos sucesivos ("que", "a quien") enriquece la musicalidad de la frase.
   <!-- feedback: Incorrecto. El encabalgamiento de dos relativas adjetivas sin nexos coordinantes genera una asimetría y confusión sintáctica. -->
-- [ ] B) Incurre en un error insalvable de dequeísmo al omitir la preposición "de" antes de la conjunción "que" en el verbo "esperaba".
+- [ ] C) Incurre en un error insalvable de dequeísmo al omitir la preposición "de" antes de la conjunción "que" en el verbo "esperaba".
   <!-- feedback: Incorrecto. "Esperar" es transitivo ("esperaba algo"); añadir un "de" aquí sería incorrecto. -->
-- [x] C) Presenta una anacoluto o desorganización sintáctica por yuxtaponer dos oraciones adjetivas relativas sobre el mismo antecedente ("estudiante") sin un nexo coordinante que las articule ("que ingresó y a quien todos felicitaban").
+- [x] B) Presenta una anacoluto o desorganización sintáctica por yuxtaponer dos oraciones adjetivas relativas sobre el mismo antecedente ("estudiante") sin un nexo coordinante que las articule ("que ingresó y a quien todos felicitaban").
   <!-- feedback: ¡Correcto! Modificar un sustantivo con dos oraciones adjetivas distintas requiere coordinarlas con "y" u otro nexo para mantener el equilibrio y la simetría gramatical de la oración. -->
 - [ ] D) Es incorrecta porque el pronombre "él" debe ser reemplazado de manera obligatoria por el pronombre relativo "el cual" para evitar redundancias de género.
   <!-- feedback: Incorrecto. El pronombre personal de sujeto "él" es adecuado y no genera redundancias obligatorias de reemplazo por "el cual". -->

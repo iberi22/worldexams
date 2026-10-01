@@ -32,13 +32,13 @@ creador: "Jules-Agent"
 Se propone corregir o estructurar un texto escolar según la siguiente indicación: la regla ortográfica que tilda las palabras con fuerza de voz en la última sílaba cuando terminan en n, s o vocal. ¿Qué norma o recurso de redacción se está aplicando?
 
 ### Opciones
-- [x] A) La norma de palabras agudas.
+- [x] D) La norma de palabras agudas.
   <!-- feedback: ¡Correcto! Aplica palabras agudas para garantizar la claridad y corrección del escrito formal. -->
-- [ ] B) Un argumento de ejemplificación personal subjetiva.
+- [ ] A) Un argumento de ejemplificación personal subjetiva.
   <!-- feedback: Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos. -->
-- [ ] C) La descripción cinematográfica de un paisaje urbano salvadoreño.
+- [ ] B) La descripción cinematográfica de un paisaje urbano salvadoreño.
   <!-- feedback: Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita. -->
-- [ ] D) La lírica modernista de Arturo Ambrogi en sonsonate.
+- [ ] C) La lírica modernista de Arturo Ambrogi en sonsonate.
   <!-- feedback: Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos. -->
 
 ### Explicación Pedagógica
@@ -58,11 +58,11 @@ El dominio de palabras agudas es fundamental para lograr una expresión escrita 
 Se propone corregir o estructurar un texto escolar según la siguiente indicación: la regla ortográfica que tilda las palabras con fuerza de voz en la penúltima sílaba cuando terminan en consonante distinta de n o s. ¿Qué norma o recurso de redacción se está aplicando?
 
 ### Opciones
-- [x] A) La norma de palabras graves.
+- [x] C) La norma de palabras graves.
   <!-- feedback: ¡Correcto! Aplica palabras graves para garantizar la claridad y corrección del escrito formal. -->
-- [ ] B) Un argumento de ejemplificación personal subjetiva.
+- [ ] A) Un argumento de ejemplificación personal subjetiva.
   <!-- feedback: Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos. -->
-- [ ] C) La descripción cinematográfica de un paisaje urbano salvadoreño.
+- [ ] B) La descripción cinematográfica de un paisaje urbano salvadoreño.
   <!-- feedback: Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita. -->
 - [ ] D) La lírica modernista de Arturo Ambrogi en sonsonate.
   <!-- feedback: Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos. -->
@@ -84,11 +84,11 @@ El dominio de palabras graves es fundamental para lograr una expresión escrita 
 Se propone corregir o estructurar un texto escolar según la siguiente indicación: la regla que obliga a colocar tilde a todas las palabras cuya sílaba tónica se encuentra en la antepenúltima sílaba. ¿Qué norma o recurso de redacción se está aplicando?
 
 ### Opciones
-- [x] A) La norma de palabras esdrújulas.
+- [x] C) La norma de palabras esdrújulas.
   <!-- feedback: ¡Correcto! Aplica palabras esdrújulas para garantizar la claridad y corrección del escrito formal. -->
-- [ ] B) Un argumento de ejemplificación personal subjetiva.
+- [ ] A) Un argumento de ejemplificación personal subjetiva.
   <!-- feedback: Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos. -->
-- [ ] C) La descripción cinematográfica de un paisaje urbano salvadoreño.
+- [ ] B) La descripción cinematográfica de un paisaje urbano salvadoreño.
   <!-- feedback: Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita. -->
 - [ ] D) La lírica modernista de Arturo Ambrogi en sonsonate.
   <!-- feedback: Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos. -->
@@ -110,13 +110,13 @@ El dominio de palabras esdrújulas es fundamental para lograr una expresión esc
 Se propone corregir o estructurar un texto escolar según la siguiente indicación: la regla de acentuación que tilda siempre las palabras cuya fuerza de voz recae antes de la antepenúltima sílaba. ¿Qué norma o recurso de redacción se está aplicando?
 
 ### Opciones
-- [x] A) La norma de palabras sobresdrújulas.
+- [x] D) La norma de palabras sobresdrújulas.
   <!-- feedback: ¡Correcto! Aplica palabras sobresdrújulas para garantizar la claridad y corrección del escrito formal. -->
-- [ ] B) Un argumento de ejemplificación personal subjetiva.
+- [ ] A) Un argumento de ejemplificación personal subjetiva.
   <!-- feedback: Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos. -->
-- [ ] C) La descripción cinematográfica de un paisaje urbano salvadoreño.
+- [ ] B) La descripción cinematográfica de un paisaje urbano salvadoreño.
   <!-- feedback: Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita. -->
-- [ ] D) La lírica modernista de Arturo Ambrogi en sonsonate.
+- [ ] C) La lírica modernista de Arturo Ambrogi en sonsonate.
   <!-- feedback: Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos. -->
 
 ### Explicación Pedagógica
@@ -162,11 +162,11 @@ El dominio de tilde diacrítica es fundamental para lograr una expresión escrit
 Se propone corregir o estructurar un texto escolar según la siguiente indicación: la colocación de tilde obligatoria sobre la vocal cerrada tónica unida a una vocal abierta, rompiendo el diptongo. ¿Qué norma o recurso de redacción se está aplicando?
 
 ### Opciones
-- [x] A) La norma de tildación de hiato acentual.
+- [x] C) La norma de tildación de hiato acentual.
   <!-- feedback: ¡Correcto! Aplica tildación de hiato acentual para garantizar la claridad y corrección del escrito formal. -->
-- [ ] B) Un argumento de ejemplificación personal subjetiva.
+- [ ] A) Un argumento de ejemplificación personal subjetiva.
   <!-- feedback: Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos. -->
-- [ ] C) La descripción cinematográfica de un paisaje urbano salvadoreño.
+- [ ] B) La descripción cinematográfica de un paisaje urbano salvadoreño.
   <!-- feedback: Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita. -->
 - [ ] D) La lírica modernista de Arturo Ambrogi en sonsonate.
   <!-- feedback: Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos. -->
@@ -188,11 +188,11 @@ El dominio de tildación de hiato acentual es fundamental para lograr una expres
 Se propone corregir o estructurar un texto escolar según la siguiente indicación: nexos como 'porque', 'ya que' o 'puesto que' que introducen de forma lógica el motivo o fundamento de lo dicho. ¿Qué norma o recurso de redacción se está aplicando?
 
 ### Opciones
-- [x] A) La norma de conectores causales.
+- [x] C) La norma de conectores causales.
   <!-- feedback: ¡Correcto! Aplica conectores causales para garantizar la claridad y corrección del escrito formal. -->
-- [ ] B) Un argumento de ejemplificación personal subjetiva.
+- [ ] A) Un argumento de ejemplificación personal subjetiva.
   <!-- feedback: Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos. -->
-- [ ] C) La descripción cinematográfica de un paisaje urbano salvadoreño.
+- [ ] B) La descripción cinematográfica de un paisaje urbano salvadoreño.
   <!-- feedback: Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita. -->
 - [ ] D) La lírica modernista de Arturo Ambrogi en sonsonate.
   <!-- feedback: Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos. -->
@@ -214,11 +214,11 @@ El dominio de conectores causales es fundamental para lograr una expresión escr
 Se propone corregir o estructurar un texto escolar según la siguiente indicación: nexos como 'sin embargo' o 'no obstante' que introducen un contraste, objeción o restricción moderada. ¿Qué norma o recurso de redacción se está aplicando?
 
 ### Opciones
-- [x] A) La norma de conectores adversativos.
+- [x] C) La norma de conectores adversativos.
   <!-- feedback: ¡Correcto! Aplica conectores adversativos para garantizar la claridad y corrección del escrito formal. -->
-- [ ] B) Un argumento de ejemplificación personal subjetiva.
+- [ ] A) Un argumento de ejemplificación personal subjetiva.
   <!-- feedback: Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos. -->
-- [ ] C) La descripción cinematográfica de un paisaje urbano salvadoreño.
+- [ ] B) La descripción cinematográfica de un paisaje urbano salvadoreño.
   <!-- feedback: Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita. -->
 - [ ] D) La lírica modernista de Arturo Ambrogi en sonsonate.
   <!-- feedback: Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos. -->
@@ -240,9 +240,9 @@ El dominio de conectores adversativos es fundamental para lograr una expresión 
 Se propone corregir o estructurar un texto escolar según la siguiente indicación: nexos como 'por lo tanto' o 'por consiguiente' que introducen de forma lógica la consecuencia o resultado directo. ¿Qué norma o recurso de redacción se está aplicando?
 
 ### Opciones
-- [x] A) La norma de conectores consecutivos.
+- [x] B) La norma de conectores consecutivos.
   <!-- feedback: ¡Correcto! Aplica conectores consecutivos para garantizar la claridad y corrección del escrito formal. -->
-- [ ] B) Un argumento de ejemplificación personal subjetiva.
+- [ ] A) Un argumento de ejemplificación personal subjetiva.
   <!-- feedback: Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos. -->
 - [ ] C) La descripción cinematográfica de un paisaje urbano salvadoreño.
   <!-- feedback: Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita. -->
@@ -266,13 +266,13 @@ El dominio de conectores consecutivos es fundamental para lograr una expresión 
 Se propone corregir o estructurar un texto escolar según la siguiente indicación: el signo de puntuación que aísla de forma obligatoria el nombre o pronombre del interlocutor a quien nos dirigimos. ¿Qué norma o recurso de redacción se está aplicando?
 
 ### Opciones
-- [x] A) La norma de coma vocativa.
+- [x] D) La norma de coma vocativa.
   <!-- feedback: ¡Correcto! Aplica coma vocativa para garantizar la claridad y corrección del escrito formal. -->
-- [ ] B) Un argumento de ejemplificación personal subjetiva.
+- [ ] A) Un argumento de ejemplificación personal subjetiva.
   <!-- feedback: Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos. -->
-- [ ] C) La descripción cinematográfica de un paisaje urbano salvadoreño.
+- [ ] B) La descripción cinematográfica de un paisaje urbano salvadoreño.
   <!-- feedback: Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita. -->
-- [ ] D) La lírica modernista de Arturo Ambrogi en sonsonate.
+- [ ] C) La lírica modernista de Arturo Ambrogi en sonsonate.
   <!-- feedback: Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos. -->
 
 ### Explicación Pedagógica
@@ -292,13 +292,13 @@ El dominio de coma vocativa es fundamental para lograr una expresión escrita cl
 Se propone corregir o estructurar un texto escolar según la siguiente indicación: el signo de puntuación que sustituye de manera elegante a un verbo que ya se ha mencionado anteriormente en el texto. ¿Qué norma o recurso de redacción se está aplicando?
 
 ### Opciones
-- [x] A) La norma de coma elíptica.
+- [x] D) La norma de coma elíptica.
   <!-- feedback: ¡Correcto! Aplica coma elíptica para garantizar la claridad y corrección del escrito formal. -->
-- [ ] B) Un argumento de ejemplificación personal subjetiva.
+- [ ] A) Un argumento de ejemplificación personal subjetiva.
   <!-- feedback: Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos. -->
-- [ ] C) La descripción cinematográfica de un paisaje urbano salvadoreño.
+- [ ] B) La descripción cinematográfica de un paisaje urbano salvadoreño.
   <!-- feedback: Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita. -->
-- [ ] D) La lírica modernista de Arturo Ambrogi en sonsonate.
+- [ ] C) La lírica modernista de Arturo Ambrogi en sonsonate.
   <!-- feedback: Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos. -->
 
 ### Explicación Pedagógica
@@ -318,9 +318,9 @@ El dominio de coma elíptica es fundamental para lograr una expresión escrita c
 Se propone corregir o estructurar un texto escolar según la siguiente indicación: el signo que se utiliza para detener el discurso y llamar la atención sobre una enumeración, aclaración o cita directa. ¿Qué norma o recurso de redacción se está aplicando?
 
 ### Opciones
-- [x] A) La norma de uso de los dos puntos.
+- [x] B) La norma de uso de los dos puntos.
   <!-- feedback: ¡Correcto! Aplica uso de los dos puntos para garantizar la claridad y corrección del escrito formal. -->
-- [ ] B) Un argumento de ejemplificación personal subjetiva.
+- [ ] A) Un argumento de ejemplificación personal subjetiva.
   <!-- feedback: Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos. -->
 - [ ] C) La descripción cinematográfica de un paisaje urbano salvadoreño.
   <!-- feedback: Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita. -->
@@ -344,11 +344,11 @@ El dominio de uso de los dos puntos es fundamental para lograr una expresión es
 Se propone corregir o estructurar un texto escolar según la siguiente indicación: el signo que se utiliza para separar proposiciones complejas extensas que ya contienen sus propias comas internas. ¿Qué norma o recurso de redacción se está aplicando?
 
 ### Opciones
-- [x] A) La norma de uso del punto y coma.
+- [x] C) La norma de uso del punto y coma.
   <!-- feedback: ¡Correcto! Aplica uso del punto y coma para garantizar la claridad y corrección del escrito formal. -->
-- [ ] B) Un argumento de ejemplificación personal subjetiva.
+- [ ] A) Un argumento de ejemplificación personal subjetiva.
   <!-- feedback: Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos. -->
-- [ ] C) La descripción cinematográfica de un paisaje urbano salvadoreño.
+- [ ] B) La descripción cinematográfica de un paisaje urbano salvadoreño.
   <!-- feedback: Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita. -->
 - [ ] D) La lírica modernista de Arturo Ambrogi en sonsonate.
   <!-- feedback: Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos. -->
@@ -370,9 +370,9 @@ El dominio de uso del punto y coma es fundamental para lograr una expresión esc
 Se propone corregir o estructurar un texto escolar según la siguiente indicación: nexos como 'es decir', 'esto es' o 'en otras palabras' que aclaran un concepto previo de forma más accesible. ¿Qué norma o recurso de redacción se está aplicando?
 
 ### Opciones
-- [x] A) La norma de conectores explicativos.
+- [x] B) La norma de conectores explicativos.
   <!-- feedback: ¡Correcto! Aplica conectores explicativos para garantizar la claridad y corrección del escrito formal. -->
-- [ ] B) Un argumento de ejemplificación personal subjetiva.
+- [ ] A) Un argumento de ejemplificación personal subjetiva.
   <!-- feedback: Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos. -->
 - [ ] C) La descripción cinematográfica de un paisaje urbano salvadoreño.
   <!-- feedback: Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita. -->
@@ -396,9 +396,9 @@ El dominio de conectores explicativos es fundamental para lograr una expresión 
 Se propone corregir o estructurar un texto escolar según la siguiente indicación: el signo que separa enunciados dentro de un mismo párrafo, manteniendo una estrecha unidad temática entre las ideas. ¿Qué norma o recurso de redacción se está aplicando?
 
 ### Opciones
-- [x] A) La norma de punto y seguido.
+- [x] B) La norma de punto y seguido.
   <!-- feedback: ¡Correcto! Aplica punto y seguido para garantizar la claridad y corrección del escrito formal. -->
-- [ ] B) Un argumento de ejemplificación personal subjetiva.
+- [ ] A) Un argumento de ejemplificación personal subjetiva.
   <!-- feedback: Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos. -->
 - [ ] C) La descripción cinematográfica de un paisaje urbano salvadoreño.
   <!-- feedback: Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita. -->
@@ -422,11 +422,11 @@ El dominio de punto y seguido es fundamental para lograr una expresión escrita 
 Se propone corregir o estructurar un texto escolar según la siguiente indicación: la regla que mantiene la tilde original del adjetivo base al añadir el sufijo adverbial de modo. ¿Qué norma o recurso de redacción se está aplicando?
 
 ### Opciones
-- [x] A) La norma de tildación en adverbios en -mente.
+- [x] C) La norma de tildación en adverbios en -mente.
   <!-- feedback: ¡Correcto! Aplica tildación en adverbios en -mente para garantizar la claridad y corrección del escrito formal. -->
-- [ ] B) Un argumento de ejemplificación personal subjetiva.
+- [ ] A) Un argumento de ejemplificación personal subjetiva.
   <!-- feedback: Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos. -->
-- [ ] C) La descripción cinematográfica de un paisaje urbano salvadoreño.
+- [ ] B) La descripción cinematográfica de un paisaje urbano salvadoreño.
   <!-- feedback: Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita. -->
 - [ ] D) La lírica modernista de Arturo Ambrogi en sonsonate.
   <!-- feedback: Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos. -->
@@ -448,13 +448,13 @@ El dominio de tildación en adverbios en -mente es fundamental para lograr una e
 Se propone corregir o estructurar un texto escolar según la siguiente indicación: el signo ortográfico que enmarca la reproducción de citas textuales de otros autores dentro del escrito propio. ¿Qué norma o recurso de redacción se está aplicando?
 
 ### Opciones
-- [x] A) La norma de uso de las comillas.
+- [x] D) La norma de uso de las comillas.
   <!-- feedback: ¡Correcto! Aplica uso de las comillas para garantizar la claridad y corrección del escrito formal. -->
-- [ ] B) Un argumento de ejemplificación personal subjetiva.
+- [ ] A) Un argumento de ejemplificación personal subjetiva.
   <!-- feedback: Incorrecto. Se trata de normas de ortografía y redacción, no de la estructura lógica de los argumentos. -->
-- [ ] C) La descripción cinematográfica de un paisaje urbano salvadoreño.
+- [ ] B) La descripción cinematográfica de un paisaje urbano salvadoreño.
   <!-- feedback: Incorrecto. No se describe un paisaje, se analiza una regla de acentuación o puntuación escrita. -->
-- [ ] D) La lírica modernista de Arturo Ambrogi en sonsonate.
+- [ ] C) La lírica modernista de Arturo Ambrogi en sonsonate.
   <!-- feedback: Incorrecto. Es un tema gramatical y normativo, no de historia de movimientos artísticos. -->
 
 ### Explicación Pedagógica

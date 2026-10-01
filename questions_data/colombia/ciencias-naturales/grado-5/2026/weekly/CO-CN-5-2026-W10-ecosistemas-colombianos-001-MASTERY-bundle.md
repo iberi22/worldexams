@@ -34,13 +34,13 @@ Los ecosistemas colombianos como el páramo, el bosque andino, la selva amazóni
 ¿Cuál de los siguientes ecosistemas colombianos es frío, húmedo y se caracteriza por almacenar gran cantidad de agua?
 
 ### Opciones
-- [x] A) El páramo.
+- [x] D) El páramo.
   <!-- feedback: El páramo es un ecosistema de montaña frío y húmedo que retiene y libera agua. -->
-- [ ] B) La selva amazónica.
+- [ ] A) La selva amazónica.
   <!-- feedback: La selva amazónica es cálida y húmeda, no fría como el páramo. -->
-- [ ] C) El arrecife de coral.
+- [ ] B) El arrecife de coral.
   <!-- feedback: Los arrecifes del Caribe son ecosistemas marinos cálidos. -->
-- [ ] D) El bosque seco tropical.
+- [ ] C) El bosque seco tropical.
   <!-- feedback: El bosque seco se caracteriza por altas temperaturas y poca lluvia. -->
 
 ### Explicacion Pedagogica
@@ -103,9 +103,9 @@ Aplicar pasos de indagación como medir y comparar datos para estudiar la retenc
 ¿Cuál acción de Santiago ayuda a cuidar el arrecife de coral?
 
 ### Opciones
-- [x] A) No tocar los corales y llevar su basura de regreso a la orilla.
+- [x] B) No tocar los corales y llevar su basura de regreso a la orilla.
   <!-- feedback: Los corales son seres vivos frágiles; no tocarlos y no dejar basura protege el arrecife. -->
-- [ ] B) Recoger pedazos de coral para llevarlos de recuerdo.
+- [ ] A) Recoger pedazos de coral para llevarlos de recuerdo.
   <!-- feedback: Extraer corales daña el arrecife y afecta a los animales que viven allí. -->
 - [ ] C) Arrojar restos de comida al agua para alimentar a los peces.
   <!-- feedback: Los restos de comida alteran el equilibrio del ecosistema marino. -->
@@ -126,13 +126,13 @@ Aplicar el conocimiento sobre los ecosistemas marinos para tomar decisiones de c
 ¿Qué diferencia principal explica que estos dos ecosistemas tengan especies distintas?
 
 ### Opciones
-- [x] A) La temperatura, la altura y la cantidad de lluvia cambian de un lugar a otro y favorecen distintas especies.
+- [x] D) La temperatura, la altura y la cantidad de lluvia cambian de un lugar a otro y favorecen distintas especies.
   <!-- feedback: Cada ecosistema ofrece condiciones de clima y relieve que permiten vivir a especies diferentes. -->
-- [ ] B) Los dos ecosistemas tienen exactamente el mismo clima y las mismas especies.
+- [ ] A) Los dos ecosistemas tienen exactamente el mismo clima y las mismas especies.
   <!-- feedback: La selva amazónica y el bosque andino tienen clima y especies muy diferentes. -->
-- [ ] C) Las especies cambian solo porque los árboles son de color distinto.
+- [ ] B) Las especies cambian solo porque los árboles son de color distinto.
   <!-- feedback: El color no determina las especies; influyen el clima, la altura y el agua. -->
-- [ ] D) En los dos ecosistemas viven únicamente plantas, sin animales.
+- [ ] C) En los dos ecosistemas viven únicamente plantas, sin animales.
   <!-- feedback: Ambos ecosistemas albergan gran variedad de plantas y animales. -->
 
 ### Explicacion Pedagogica
@@ -149,11 +149,11 @@ Analizar cómo las condiciones del ambiente, como temperatura, altura y lluvia, 
 Observa: el páramo tiene pocas especies de aves y el bosque andino tiene muchas. ¿Cuál conclusión es la más razonable?
 
 ### Opciones
-- [x] A) El bosque andino ofrece más alimento y refugio, por eso alberga más especies.
+- [x] C) El bosque andino ofrece más alimento y refugio, por eso alberga más especies.
   <!-- feedback: La mayor variedad de plantas y refugios en el bosque andino favorece más especies de aves. -->
-- [ ] B) En el páramo no existen aves de ninguna clase.
+- [ ] A) En el páramo no existen aves de ninguna clase.
   <!-- feedback: En el páramo sí viven aves, aunque en menor cantidad y variedad. -->
-- [ ] C) Las aves del bosque andino son más grandes que todas las del páramo.
+- [ ] B) Las aves del bosque andino son más grandes que todas las del páramo.
   <!-- feedback: El tamaño no explica la cantidad de especies registradas. -->
 - [ ] D) La tabla demuestra que el páramo no es un ecosistema.
   <!-- feedback: El páramo sí es un ecosistema; la tabla solo muestra menos especies de aves. -->
@@ -172,9 +172,9 @@ Analizar datos sencillos para relacionar la variedad de especies con los recurso
 ¿Cuál es la mejor valoración de esta propuesta?
 
 ### Opciones
-- [x] A) Es perjudicial, porque quemar el páramo daña la fuente de agua que surte a muchas comunidades.
+- [x] B) Es perjudicial, porque quemar el páramo daña la fuente de agua que surte a muchas comunidades.
   <!-- feedback: El páramo almacena agua; quemarlo reduce el agua disponible para las poblaciones. -->
-- [ ] B) Es útil, porque sembrar papa mejora el suelo del páramo para siempre.
+- [ ] A) Es útil, porque sembrar papa mejora el suelo del páramo para siempre.
   <!-- feedback: La quema deteriora el suelo y tarda muchísimos años en recuperarse. -->
 - [ ] C) No importa, porque el páramo no cumple ninguna función para las personas.
   <!-- feedback: El páramo regula y provee el agua que usan las comunidades. -->

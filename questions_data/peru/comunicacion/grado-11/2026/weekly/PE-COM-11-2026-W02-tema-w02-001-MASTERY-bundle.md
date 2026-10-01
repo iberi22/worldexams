@@ -30,9 +30,9 @@ creador: "Jules-Agent"
 ¿Cuál es la famosa sentencia o arenga que González Prada dirige a la juventud peruana y a las generaciones mayores en su 'Discurso en el Politeama'?
 
 ### Opciones
-- [ ] A) ¡El Perú es un mendigo sentado en un banco de oro!
+- [ ] B) ¡El Perú es un mendigo sentado en un banco de oro!
   <!-- feedback: Incorrecto. Esta frase se le atribuye popularmente a Antonio Raimondi en sus exploraciones geográficas. -->
-- [x] B) ¡Los viejos a la tumba, los jóvenes a la obra!
+- [x] A) ¡Los viejos a la tumba, los jóvenes a la obra!
   <!-- feedback: Correcto. Esta es la arenga emblemática que resume el llamado a la renovación social y moral del Perú de González Prada en el Politeama. -->
 - [ ] C) ¡No soy un aculturado, soy un demonio feliz!
   <!-- feedback: Incorrecto. Esta es una frase de José María Arguedas pronunciada en el siglo XX. -->
@@ -84,9 +84,9 @@ Lea el fragmento de un ensayo contemporáneo:
 ### Opciones
 - [ ] A) Las empresas mineras deben ser las únicas autorizadas para administrar la Amazonía peruana
   <!-- feedback: Incorrecto. El ensayo cuestiona ver a la selva solo como proveedora de recursos y propone un modelo sostenible basado en los saberes locales. -->
-- [x] B) El desarrollo de la Amazonía requiere integrar de manera equitativa el conocimiento tradicional indígena
+- [x] C) El desarrollo de la Amazonía requiere integrar de manera equitativa el conocimiento tradicional indígena
   <!-- feedback: Correcto. El autor propone reconocer los saberes ecológicos nativos como 'ciencia viva' como requisito indispensable para un desarrollo sostenible real. -->
-- [ ] C) La selva peruana carece por completo de recursos económicos explotables
+- [ ] B) La selva peruana carece por completo de recursos económicos explotables
   <!-- feedback: Incorrecto. Se menciona que es vista como una reserva, pero el autor no niega los recursos, sino la forma destructiva de extraerlos. -->
 - [ ] D) Los pueblos amazónicos deben asimilarse de inmediato a la vida académica de las grandes urbes costeñas
   <!-- feedback: Incorrecto. El texto aboga por valorar sus conocimientos de forma autónoma en su territorio, no por su asimilación incondicional a la costa. -->
@@ -109,11 +109,11 @@ En un ensayo argumentativo académico, ¿cuál es la diferencia funcional entre 
 ### Opciones
 - [ ] A) La tesis es una pregunta retórica y los argumentos son las definiciones de diccionario
   <!-- feedback: Incorrecto. La tesis no es una pregunta, sino una afirmación categórica que se defiende. -->
-- [x] B) La tesis es la postura u opinión central del autor, mientras que los argumentos son las razones y evidencias que sostienen dicha postura
+- [x] D) La tesis es la postura u opinión central del autor, mientras que los argumentos son las razones y evidencias que sostienen dicha postura
   <!-- feedback: Correcto. La tesis es la columna vertebral ideológica del ensayo; los argumentos son las premisas lógicas, datos y hechos que demuestran su validez. -->
-- [ ] C) La tesis aparece únicamente en la conclusión y los argumentos solo en la introducción
+- [ ] B) La tesis aparece únicamente en la conclusión y los argumentos solo en la introducción
   <!-- feedback: Incorrecto. Por lo general, la tesis se plantea en la introducción y se refuerza en la conclusión; los argumentos se desarrollan en el cuerpo del texto. -->
-- [ ] D) La tesis es objetiva y científica, mientras que los argumentos son de carácter subjetivo y emocional
+- [ ] C) La tesis es objetiva y científica, mientras que los argumentos son de carácter subjetivo y emocional
   <!-- feedback: Incorrecto. Los argumentos deben buscar solidez objetiva y lógica para sostener una tesis que puede ser un punto de vista subjetivo o debatible. -->
 
 ### Explicacion Pedagogica
@@ -134,9 +134,9 @@ Lea el siguiente argumento hispanista de un ensayo histórico del siglo XX:
 ¿Qué debilidad crítica de este argumento podría señalar un ensayista indigenista?
 
 ### Opciones
-- [ ] A) Que el español nunca llegó a hablarse en el territorio peruano
+- [ ] B) Que el español nunca llegó a hablarse en el territorio peruano
   <!-- feedback: Incorrecto. El español es la lengua mayoritaria y oficial, por lo que negar su existencia es absurdo. -->
-- [x] B) Que invisibiliza el papel del quechua como lengua general de integración andina prehispánica (Qhapaq Ñan)
+- [x] A) Que invisibiliza el papel del quechua como lengua general de integración andina prehispánica (Qhapaq Ñan)
   <!-- feedback: Correcto. Un contraargumento histórico sólido es recordar que el quechua (y el aimara) ya cumplían funciones de lenguas generales y de cohesión en el Tahuantinsuyo antes de la llegada del español. -->
 - [ ] C) Que la geografía andina impidió por completo el paso de los conquistadores españoles
   <!-- feedback: Incorrecto. A pesar de la geografía, los españoles establecieron su dominio en todo el territorio. -->
@@ -163,9 +163,9 @@ Si un autor defiende la tesis de que 'el voto en el Perú debe seguir siendo obl
   <!-- feedback: Incorrecto. Esto es un argumento a favor de la obligatoriedad, no un contraargumento en su contra. -->
 - [ ] B) La ONPE organiza los procesos electorales con eficiencia técnica
   <!-- feedback: Incorrecto. Este hecho es neutral respecto a si el voto debe ser voluntario u obligatorio. -->
-- [x] C) La obligatoriedad del voto reduce la calidad democrática al forzar a votar a ciudadanos desinformados y apáticos
+- [x] D) La obligatoriedad del voto reduce la calidad democrática al forzar a votar a ciudadanos desinformados y apáticos
   <!-- feedback: Correcto. Este argumento ataca directamente la premisa de la obligatoriedad, señalando que produce un efecto negativo en la democracia al obligar a votar sin convicción ni información. -->
-- [ ] D) Los peruanos prefieren votar los días domingos para no interrumpir su trabajo
+- [ ] C) Los peruanos prefieren votar los días domingos para no interrumpir su trabajo
   <!-- feedback: Incorrecto. Este es un detalle logístico que no aborda la discusión de fondo sobre la libertad de sufragio. -->
 
 ### Explicacion Pedagogica
@@ -186,9 +186,9 @@ El estudiante escribe:
 ¿Qué tipo de argumento está utilizando para sostener su tesis?
 
 ### Opciones
-- [ ] A) Argumento de autoridad
+- [ ] B) Argumento de autoridad
   <!-- feedback: Incorrecto. No está citando directamente la declaración de un experto o institución reputada en el área. -->
-- [x] B) Argumento de hecho o estadístico
+- [x] A) Argumento de hecho o estadístico
   <!-- feedback: Correcto. Apoya su afirmación en un dato numérico concreto y medible (un aumento del 15% de sobrepeso infantil en la región). -->
 - [ ] C) Argumento analógico
   <!-- feedback: Incorrecto. No compara la situación de La Libertad con otra región o país para extraer una conclusión por similitud. -->
@@ -215,11 +215,11 @@ Lea el fragmento de un discurso de opinión:
 ### Opciones
 - [ ] A) Argumento de autoridad científica
   <!-- feedback: Incorrecto. No se citan estudios científicos ni expertos en aeronáutica u economía. -->
-- [x] B) Argumento por analogía
+- [x] D) Argumento por analogía
   <!-- feedback: Correcto. El autor compara la prohibición de la minería (causa de ingresos) con apagar los motores de un avión (fuente de propulsión), sugiriendo que ambas acciones producen una caída fatal por similitud de funcionamiento estructural. -->
-- [ ] C) Argumento de definición conceptual
+- [ ] B) Argumento de definición conceptual
   <!-- feedback: Incorrecto. No se definen los términos 'minería' o 'economía regional'. -->
-- [ ] D) Argumento generalizador por inducción
+- [ ] C) Argumento generalizador por inducción
   <!-- feedback: Incorrecto. No parte de múltiples casos particulares para establecer una ley general, sino de una sola comparación ilustrativa. -->
 
 ### Explicacion Pedagogica
@@ -265,11 +265,11 @@ Los conectores concesivos (a pesar de, aun cuando, si bien) sirven en los ensayo
 Si estuviéramos escribiendo un ensayo sobre la riqueza lírica de las lenguas nativas americanas, ¿cuál de las siguientes opciones constituiría un argumento de autoridad sólido según el ámbito académico peruano?
 
 ### Opciones
-- [ ] A) Mi abuelo, que vive en Huancavelica, me contó que el quechua expresa sentimientos muy profundos
+- [ ] B) Mi abuelo, que vive en Huancavelica, me contó que el quechua expresa sentimientos muy profundos
   <!-- feedback: Incorrecto. Aunque es un testimonio de gran valor familiar y afectivo, no cumple con los criterios de autoridad académica o científica requeridos en un ensayo riguroso. -->
-- [ ] B) Una encuesta realizada en redes sociales donde el 90% afirma que el quechua es muy musical
+- [ ] C) Una encuesta realizada en redes sociales donde el 90% afirma que el quechua es muy musical
   <!-- feedback: Incorrecto. Esto representa la opinión popular o de sentido común (argumento ad populum), no una autoridad experta. -->
-- [x] C) Según el lingüista peruano Alfredo Torero, el quechua posee una complejidad morfológica y fonológica que permite una notable precisión semántica y lírica
+- [x] A) Según el lingüista peruano Alfredo Torero, el quechua posee una complejidad morfológica y fonológica que permite una notable precisión semántica y lírica
   <!-- feedback: Correcto. Alfredo Torero es un reconocido lingüista e investigador de las lenguas andinas; su opinión especializada constituye un argumento de autoridad académica indiscutible. -->
 - [ ] D) El quechua es una lengua antigua porque se hablaba antes de la llegada de Cristóbal Colón
   <!-- feedback: Incorrecto. Este es un argumento de hecho histórico de carácter general, no una cita de autoridad especializada. -->
@@ -292,11 +292,11 @@ Lea el siguiente fragmento:
 ¿Cuál es el conector que marca la transición hacia el contraargumento y qué tipo de relación lógica establece?
 
 ### Opciones
-- [ ] A) Es innegable que; establece una relación de causa y efecto inmediato
+- [ ] B) Es innegable que; establece una relación de causa y efecto inmediato
   <!-- feedback: Incorrecto. Esta frase sirve para introducir una idea evidente o conceder un punto, no para contraargumentar. -->
-- [ ] B) genera; marca una condición indispensable de tipo económico
+- [ ] C) genera; marca una condición indispensable de tipo económico
   <!-- feedback: Incorrecto. Es el verbo de la oración subordinada, no un conector discursivo. -->
-- [x] C) No obstante; establece una relación de oposición o contraste (adversativa) frente al beneficio económico planteado al inicio
+- [x] A) No obstante; establece una relación de oposición o contraste (adversativa) frente al beneficio económico planteado al inicio
   <!-- feedback: Correcto. 'No obstante' es un conector adversativo que permite al ensayista introducir el reverso negativo de la situación (daño ecológico/patrimonial) tras haber admitido el beneficio económico inicial. -->
 - [ ] D) sugieren que; indica una conclusión irrefutable apoyada en estadísticas
   <!-- feedback: Incorrecto. Es una frase verbal que denota sugerencia, no un nexo de oposición lógica. -->
@@ -323,9 +323,9 @@ De acuerdo con este postulado, ¿qué tipo de soluciones rechaza categóricament
   <!-- feedback: Incorrecto. González Prada defiende reformas sociales y agrarias profundas; no las rechaza. -->
 - [ ] B) La educación científica de los jóvenes nativos para insertarse en el trabajo moderno
   <!-- feedback: Incorrecto. El autor apoya la educación del indio como vía de liberación y emancipación racional. -->
-- [x] C) Las medidas asistenciales, discursos compasivos y leyes paternalistas que no alteran la estructura de opresión feudal
+- [x] D) Las medidas asistenciales, discursos compasivos y leyes paternalistas que no alteran la estructura de opresión feudal
   <!-- feedback: Correcto. El autor rechaza la 'filantropía' paternalista (caridad, discursos compasivos de las élites limeñas) porque considera que el indio necesita justicia social y rebelarse, no piedad limosnera de quienes lo explotan. -->
-- [ ] D) El uso de la violencia armada de los indios para defender sus derechos comunitarios
+- [ ] C) El uso de la violencia armada de los indios para defender sus derechos comunitarios
   <!-- feedback: Incorrecto. González Prada, por el contrario, justifica la rebelión activa del indígena ante el abuso terrateniente. -->
 
 ### Explicacion Pedagogica
@@ -346,9 +346,9 @@ En el ensayo 'El problema de la tierra', Mariátegui utiliza abundante documenta
 ### Opciones
 - [ ] A) Evadir el análisis de los problemas agrarios de su propio tiempo para no ser censurado por el gobierno
   <!-- feedback: Incorrecto. Mariátegui analiza el pasado virreinal precisamente para explicar y resolver el problema agrario de su época (años 20). -->
-- [ ] B) Probar que la agricultura colonial era mucho más eficiente que la incaica
+- [ ] C) Probar que la agricultura colonial era mucho más eficiente que la incaica
   <!-- feedback: Incorrecto. Sostiene lo contrario: que la economía incaica era altamente eficiente y solidaria, y la colonial fue destructora de ese equilibrio. -->
-- [x] C) Sustentar la tesis de que los problemas del indio contemporáneo tienen un origen histórico estructural y no son de carácter biológico o racial
+- [x] B) Sustentar la tesis de que los problemas del indio contemporáneo tienen un origen histórico estructural y no son de carácter biológico o racial
   <!-- feedback: Correcto. Al rastrear el origen de la servidumbre y el gamonalismo en el sistema de encomiendas y repartimientos virreinales, el autor demuestra que la marginación del indígena es un producto histórico-económico heredado, rebatiendo las teorías racistas que afirmaban la inferioridad natural del indio. -->
 - [ ] D) Exigir que la corona española pague indemnizaciones económicas a las comunidades del Cusco
   <!-- feedback: Incorrecto. El objetivo no es un reclamo monetario contemporáneo a España, sino la reestructuración interna del régimen de propiedad de la tierra en la República peruana. -->
@@ -375,9 +375,9 @@ Lea la siguiente premisa de un ensayo político del siglo XX:
   <!-- feedback: Incorrecto. El autor descarta el mero cambio de gobernantes (revolución palaciega o electoral) como irrelevante. -->
 - [ ] B) Una perspectiva mística y espiritual desligada de las condiciones materiales
   <!-- feedback: Incorrecto. Se mencionan 'relaciones de producción y educación', lo que alude a condiciones materiales e intelectuales concretas. -->
-- [x] C) Una definición estructural e ideológica basada en la transformación de la base económica y cultural de la sociedad
+- [x] D) Una definición estructural e ideológica basada en la transformación de la base económica y cultural de la sociedad
   <!-- feedback: Correcto. El autor define 'revolución' no como relevo de la élite de gobierno (superficial), sino como un cambio profundo en la economía (relaciones de producción) y en la conciencia colectiva (educación). -->
-- [ ] D) La apología de la desobediencia civil pacífica como único método de cambio
+- [ ] C) La apología de la desobediencia civil pacífica como único método de cambio
   <!-- feedback: Incorrecto. El texto no discute el método (violento o pacífico), sino la esencia y profundidad del cambio que califica como 'verdadero'. -->
 
 ### Explicacion Pedagogica
@@ -400,9 +400,9 @@ En debates sobre la identidad peruana, la metáfora de la 'patria invisible' o e
   <!-- feedback: Incorrecto. No se refiere a un problema geográfico o cartográfico de mapas reales. -->
 - [ ] B) La diferencia de husos horarios entre las regiones de la costa y la selva peruana
   <!-- feedback: Incorrecto. Es un fenómeno físico inexistente en el país (Perú tiene un solo huso horario). -->
-- [x] C) La desconexión histórica entre el Estado (leyes, burocracia, élite limeña) y las necesidades reales de la población andina, rural y amazónica
+- [x] D) La desconexión histórica entre el Estado (leyes, burocracia, élite limeña) y las necesidades reales de la población andina, rural y amazónica
   <!-- feedback: Correcto. La metáfora del 'país oficial frente al país real' (desarrollada por ensayistas como Basadre) alude a la brecha existente entre el sistema legal y la institucionalidad formal centralizada y la vida cotidiana, marginada y autogestionaria de las mayorías nacionales. -->
-- [ ] D) La supremacía militar del Perú sobre sus vecinos sudamericanos en tiempos de crisis
+- [ ] C) La supremacía militar del Perú sobre sus vecinos sudamericanos en tiempos de crisis
   <!-- feedback: Incorrecto. La expresión no tiene un carácter chauvinista o de análisis de defensa militar externa. -->
 
 ### Explicacion Pedagogica
@@ -450,9 +450,9 @@ Si contrastamos un ensayo de opinión literaria (como los de Vargas Llosa o Juli
 ### Opciones
 - [ ] A) El ensayo científico se basa exclusivamente en las corazonadas personales del investigador, mientras que el literario recurre a sofisticadas pruebas estadísticas
   <!-- feedback: Incorrecto. Es justamente al revés en cuanto a rigores de medición matemática y estadística. -->
-- [ ] B) El ensayo de opinión literaria prohíbe el uso de la primera persona y la metáfora lírica
+- [ ] C) El ensayo de opinión literaria prohíbe el uso de la primera persona y la metáfora lírica
   <!-- feedback: Incorrecto. El ensayo de opinión permite una gran libertad estilística, incluyendo metáforas e introspección personal. -->
-- [x] C) El ensayo científico exige el uso riguroso del método de citación estandarizado (ej. APA, Vancouver) y evidencia empírica contrastable, mientras que el literario prioriza la fuerza retórica, el estilo estético y la coherencia lógica interna del autor
+- [x] B) El ensayo científico exige el uso riguroso del método de citación estandarizado (ej. APA, Vancouver) y evidencia empírica contrastable, mientras que el literario prioriza la fuerza retórica, el estilo estético y la coherencia lógica interna del autor
   <!-- feedback: Correcto. El ensayo científico debe someterse a criterios de replicabilidad, revisión por pares y citación exacta para sostener su validez empírica; el ensayo literario es un género híbrido de frontera, donde el valor reside en la originalidad interpretativa y la belleza del estilo argumentativo. -->
 - [ ] D) El ensayo de opinión literaria es meramente descriptivo y carece por completo de una tesis explícita
   <!-- feedback: Incorrecto. El ensayo literario expone puntos de vista muy definidos y tesis interpretativas vigorosas respaldadas por argumentos estéticos y críticos. -->
@@ -478,9 +478,9 @@ Desde una perspectiva analítica de la teoría de la argumentación, ¿por qué 
 ### Opciones
 - [ ] A) Porque el Argumento A carece de base legal en el ordenamiento jurídico peruano
   <!-- feedback: Incorrecto. La Constitución peruana sí contempla la protección del concebido en su artículo 2, por lo que posee un anclaje normativo real. -->
-- [ ] B) Porque el Argumento B se basa exclusivamente en creencias mágicas o mitológicas no científicas
+- [ ] C) Porque el Argumento B se basa exclusivamente en creencias mágicas o mitológicas no científicas
   <!-- feedback: Incorrecto. El Argumento B apela a derechos humanos modernos de salud pública y autonomía corporal reconocidos por la OMS. -->
-- [x] C) Porque ambos argumentos parten de axiomas morales distintos e incompatibles entre sí, donde cada uno es lógicamente coherente con sus propias premisas de valor primordial
+- [x] B) Porque ambos argumentos parten de axiomas morales distintos e incompatibles entre sí, donde cada uno es lógicamente coherente con sus propias premisas de valor primordial
   <!-- feedback: Correcto. La irresolubilidad se debe a que chocan dos principios éticos considerados supremos por sus defensores (el derecho a la vida del concebido frente al derecho a la salud y autonomía de la madre). No hay un terreno común neutral para dirimir cuál principio debe subordinar al otro sin elegir previamente una postura filosófica determinante. -->
 - [ ] D) Porque la ciencia médica peruana no ha podido determinar si el feto se desarrolla dentro del útero materno
   <!-- feedback: Incorrecto. La embriología y la ginecología poseen certeza absoluta sobre el desarrollo fetal; el debate no es biológico básico, sino ético, jurídico y social. -->
@@ -507,9 +507,9 @@ Lea la crítica de un ensayista contemporáneo:
   <!-- feedback: Incorrecto. El autor propone actualizar los marcos de análisis, no abandonar la investigación social. -->
 - [ ] B) Tienen que regresar a las categorías de análisis marxistas ortodoxas del siglo XIX sin modificarlas
   <!-- feedback: Incorrecto. El autor justamente critica que los modelos bipolares clásicos (como la división terrateniente-indio) ya no explican la complejidad actual. -->
-- [x] C) Se requiere desarrollar nuevas categorías de análisis que interpreten la heterogeneidad del capitalismo informal y la identidad andina urbana contemporánea
+- [x] D) Se requiere desarrollar nuevas categorías de análisis que interpreten la heterogeneidad del capitalismo informal y la identidad andina urbana contemporánea
   <!-- feedback: Correcto. El ensayista contemporáneo debe captar fenómenos nuevos como la movilidad social impulsada por el comercio informal, la migración exitosa de segunda y tercera generación y la reconfiguración espacial de la periferia urbana, que desbordan las explicaciones bipolares tradicionales. -->
-- [ ] D) Se debe declarar que la pobreza extrema y la discriminación racial han desaparecido del Perú contemporáneo
+- [ ] C) Se debe declarar que la pobreza extrema y la discriminación racial han desaparecido del Perú contemporáneo
   <!-- feedback: Incorrecto. La reconfiguración de clases no significa la desaparición de la pobreza o racismo; solo complejiza los canales y actores de la misma. -->
 
 ### Explicacion Pedagogica
@@ -532,9 +532,9 @@ Desde una perspectiva analítica de la lógica formal, ¿qué tipo de falacia co
 ### Opciones
 - [ ] A) Falacia de apelación a la ignorancia (ad ignorantiam); porque asume que si no hay sentencia firme el congresista es inocente
   <!-- feedback: Incorrecto. Ad ignorantiam ocurre cuando se afirma que algo es verdadero solo porque no se ha demostrado su falsedad. -->
-- [ ] B) Falacia de apelación a la autoridad (ad verecundiam); porque cita a una entidad académica ajena a la universidad
+- [ ] C) Falacia de apelación a la autoridad (ad verecundiam); porque cita a una entidad académica ajena a la universidad
   <!-- feedback: Incorrecto. Ad verecundiam ocurre cuando se defiende una idea apelando a la opinión de un experto fuera de su campo de especialidad. -->
-- [x] C) Falacia de ataque a la persona (ad hominem); porque busca descalificar el proyecto de ley deslegitimando la conducta moral del proponente, en lugar de analizar el contenido o viabilidad de la propuesta de tarifas
+- [x] B) Falacia de ataque a la persona (ad hominem); porque busca descalificar el proyecto de ley deslegitimando la conducta moral del proponente, en lugar de analizar el contenido o viabilidad de la propuesta de tarifas
   <!-- feedback: Correcto. La falacia ad hominem desvía la atención del debate real (la conveniencia del proyecto sobre tarifas universitarias) atacando la credibilidad personal del emisor (las denuncias de plagio). Aunque la denuncia sea moralmente censurable, la ley en sí misma debe ser analizada por sus propios méritos fácticos y técnicos. -->
 - [ ] D) Falacia del espantapájaros; porque exagera las consecuencias económicas de la ley para asustar a los rectores
   <!-- feedback: Incorrecto. El espantapájaros consiste en caricaturizar la postura contraria para atacarla más fácilmente; aquí el foco es el ataque personal directo. -->

@@ -88,9 +88,9 @@ Qual é a probabilidade de um evento impossível e a de um evento certo, respect
 
 ### Opciones
 - [ ] A) 1 e 0 <!-- feedback: Incorreto: as probabilidades estão invertidas. -->
-- [x] B) 0 e 1 <!-- feedback: Correto: evento impossível tem probabilidade 0 e evento certo tem probabilidade 1. -->
-- [ ] C) 0,5 e 0,5 <!-- feedback: Incorreto: 0,5 corresponde a um evento com metade dos casos favoráveis. -->
-- [ ] D) 0 e 0 <!-- feedback: Incorreto: um evento certo certamente ocorre e tem probabilidade 1. -->
+- [x] D) 0 e 1 <!-- feedback: Correto: evento impossível tem probabilidade 0 e evento certo tem probabilidade 1. -->
+- [ ] B) 0,5 e 0,5 <!-- feedback: Incorreto: 0,5 corresponde a um evento com metade dos casos favoráveis. -->
+- [ ] C) 0 e 0 <!-- feedback: Incorreto: um evento certo certamente ocorre e tem probabilidade 1. -->
 
 ### Explicacion Pedagogica
 A probabilidade varia de 0 (evento impossível) a 1 (evento certo). Um evento com P = 0,5 ocorre em metade dos casos possíveis.
@@ -106,8 +106,8 @@ A probabilidade varia de 0 (evento impossível) a 1 (evento certo). Um evento co
 Ao lançar um dado honesto, qual é a probabilidade de sair um número par?
 
 ### Opciones
-- [ ] A) 1/3 <!-- feedback: Incorreto: 1/3 seria a probabilidade de sair um número específico como o 2. -->
-- [x] B) 1/2 <!-- feedback: Correto: há 3 números pares (2, 4, 6) entre 6 resultados: 3/6 = 1/2. -->
+- [ ] B) 1/3 <!-- feedback: Incorreto: 1/3 seria a probabilidade de sair um número específico como o 2. -->
+- [x] A) 1/2 <!-- feedback: Correto: há 3 números pares (2, 4, 6) entre 6 resultados: 3/6 = 1/2. -->
 - [ ] C) 2/3 <!-- feedback: Incorreto: 2/3 seria a probabilidade de sair um número maior que 2. -->
 - [ ] D) 1/6 <!-- feedback: Incorreto: 1/6 é a probabilidade de um resultado específico. -->
 
@@ -164,9 +164,9 @@ Uma urna contém 4 bolas verdes, 6 azuis e 10 vermelhas. Qual é a probabilidade
 
 ### Opciones
 - [ ] A) 3/10 <!-- feedback: Incorreto: 3/10 é a probabilidade de sortear uma bola azul. -->
-- [x] B) 4/5 <!-- feedback: Correto: são 16 bolas azuis ou vermelhas entre 20: 16/20 = 4/5. -->
-- [ ] C) 1/2 <!-- feedback: Incorreto: 1/2 seria a probabilidade de sortear uma bola vermelha. -->
-- [ ] D) 1/5 <!-- feedback: Incorreto: 1/5 é a probabilidade de sortear uma bola verde. -->
+- [x] D) 4/5 <!-- feedback: Correto: são 16 bolas azuis ou vermelhas entre 20: 16/20 = 4/5. -->
+- [ ] B) 1/2 <!-- feedback: Incorreto: 1/2 seria a probabilidade de sortear uma bola vermelha. -->
+- [ ] C) 1/5 <!-- feedback: Incorreto: 1/5 é a probabilidade de sortear uma bola verde. -->
 
 ### Explicacion Pedagogica
 Os eventos são mutuamente exclusivos: P(azul ou vermelha) = P(azul) + P(vermelha) = 6/20 + 10/20 = 16/20 = 4/5.
@@ -220,9 +220,9 @@ Sabendo que o aluno é menina, o espaço amostral passa a ser 18. Entre elas, 12
 Em uma loja, 200 clientes foram entrevistados: 60 compraram algum produto e, entre os que compraram, 45 pagaram com cartão. Qual é a probabilidade de um cliente, sabendo que comprou, ter pago com cartão?
 
 ### Opciones
-- [x] A) 0,75 <!-- feedback: Correto: restringe-se aos 60 compradores: 45/60 = 0,75 = 3/4. -->
-- [ ] B) 0,225 <!-- feedback: Incorreto: 0,225 resultaria de dividir 45 por 200, ignorando a condição de ter comprado. -->
-- [ ] C) 0,30 <!-- feedback: Incorreto: 0,30 é a probabilidade de comprar na loja. -->
+- [x] C) 0,75 <!-- feedback: Correto: restringe-se aos 60 compradores: 45/60 = 0,75 = 3/4. -->
+- [ ] A) 0,225 <!-- feedback: Incorreto: 0,225 resultaria de dividir 45 por 200, ignorando a condição de ter comprado. -->
+- [ ] B) 0,30 <!-- feedback: Incorreto: 0,30 é a probabilidade de comprar na loja. -->
 - [ ] D) 0,60 <!-- feedback: Incorreto: 0,60 seria a razão entre 45 e 75, sem correspondência com os dados. -->
 
 ### Explicacion Pedagogica
@@ -240,8 +240,8 @@ Os eventos A e B são independentes, com P(A) = 0,4 e P(B) = 0,5. Qual é a prob
 
 ### Opciones
 - [ ] A) 0,9 <!-- feedback: Incorreto: 0,9 é a soma das probabilidades, que valeria para eventos mutuamente exclusivos na união. -->
-- [x] B) 0,2 <!-- feedback: Correto: para eventos independentes, P(A ∩ B) = P(A) × P(B) = 0,4 × 0,5 = 0,2. -->
-- [ ] C) 0,45 <!-- feedback: Incorreto: 0,45 é a média aritmética das duas probabilidades. -->
+- [x] C) 0,2 <!-- feedback: Correto: para eventos independentes, P(A ∩ B) = P(A) × P(B) = 0,4 × 0,5 = 0,2. -->
+- [ ] B) 0,45 <!-- feedback: Incorreto: 0,45 é a média aritmética das duas probabilidades. -->
 - [ ] D) 0,1 <!-- feedback: Incorreto: 0,1 seria a diferença entre as probabilidades. -->
 
 ### Explicacion Pedagogica
@@ -258,8 +258,8 @@ Para eventos independentes, a probabilidade da intersecção é o produto das pr
 Em uma pesquisa, P(A) = 0,5, P(B) = 0,4 e P(A ∩ B) = 0,2. Qual é a probabilidade de A ou B, ou seja, P(A ∪ B)?
 
 ### Opciones
-- [ ] A) 0,9 <!-- feedback: Incorreto: 0,9 seria a soma sem descontar a intersecção, que foi contada duas vezes. -->
-- [x] B) 0,7 <!-- feedback: Correto: P(A ∪ B) = 0,5 + 0,4 − 0,2 = 0,7. -->
+- [ ] B) 0,9 <!-- feedback: Incorreto: 0,9 seria a soma sem descontar a intersecção, que foi contada duas vezes. -->
+- [x] A) 0,7 <!-- feedback: Correto: P(A ∪ B) = 0,5 + 0,4 − 0,2 = 0,7. -->
 - [ ] C) 0,5 <!-- feedback: Incorreto: 0,5 é apenas a probabilidade de A. -->
 - [ ] D) 0,2 <!-- feedback: Incorreto: 0,2 é a probabilidade da intersecção dos eventos. -->
 
@@ -277,8 +277,8 @@ Pela regra da inclusão-exclusão: P(A ∪ B) = P(A) + P(B) − P(A ∩ B) = 0,5
 Das 100 pessoas entrevistadas, 40 torcem para o time X e, entre elas, 25 são mulheres. Qual é a probabilidade de uma pessoa entrevistada ser mulher, sabendo que torce para o time X?
 
 ### Opciones
-- [ ] A) 0,25 <!-- feedback: Incorreto: 0,25 seria a fração de mulheres que torcem para X em relação ao total de 100. -->
-- [x] B) 0,625 <!-- feedback: Correto: restringe-se às 40 que torcem para X: 25/40 = 0,625 = 5/8. -->
+- [ ] B) 0,25 <!-- feedback: Incorreto: 0,25 seria a fração de mulheres que torcem para X em relação ao total de 100. -->
+- [x] A) 0,625 <!-- feedback: Correto: restringe-se às 40 que torcem para X: 25/40 = 0,625 = 5/8. -->
 - [ ] C) 0,40 <!-- feedback: Incorreto: 0,40 é a probabilidade de torcer para o time X. -->
 - [ ] D) 0,65 <!-- feedback: Incorreto: 0,65 não corresponde a nenhuma razão direta dos dados apresentados. -->
 
@@ -297,9 +297,9 @@ Uma urna tem 4 bolas vermelhas e 6 azuis. Retiram-se duas bolas sem reposição.
 
 ### Opciones
 - [ ] A) 4/25 <!-- feedback: Incorreto: 4/25 = (4/10)² seria o resultado se houvesse reposição. -->
-- [x] B) 2/15 <!-- feedback: Correto: P = (4/10) × (3/9) = 12/90 = 2/15. -->
-- [ ] C) 3/25 <!-- feedback: Incorreto: 3/25 resultaria de (4/10) × (3/10), misturando os dois casos. -->
-- [ ] D) 1/5 <!-- feedback: Incorreto: 1/5 é a probabilidade de retirar uma única bola vermelha em um segundo sorteio com reposição. -->
+- [x] D) 2/15 <!-- feedback: Correto: P = (4/10) × (3/9) = 12/90 = 2/15. -->
+- [ ] B) 3/25 <!-- feedback: Incorreto: 3/25 resultaria de (4/10) × (3/10), misturando os dois casos. -->
+- [ ] C) 1/5 <!-- feedback: Incorreto: 1/5 é a probabilidade de retirar uma única bola vermelha em um segundo sorteio com reposição. -->
 
 ### Explicacion Pedagogica
 Sem reposição, a segunda retirada depende da primeira: P = (4/10) × (3/9) = 12/90 = 2/15 ≈ 0,133.
@@ -334,8 +334,8 @@ Os resultados possíveis são CC, CK, KC e KK. O complementar de "pelo menos uma
 Uma doença atinge 1% da população. Um teste detecta 90% dos doentes e acusa falso positivo em 10% dos saudáveis. Qual é a probabilidade de uma pessoa com teste positivo estar realmente doente?
 
 ### Opciones
-- [ ] A) 90% <!-- feedback: Incorreto: 90% é a sensibilidade do teste, não a probabilidade pedida. -->
-- [x] B) 1/12, aproximadamente 8,3% <!-- feedback: Correto: P = 0,01·0,9 / (0,01·0,9 + 0,99·0,1) = 0,009/0,108 = 1/12. -->
+- [ ] B) 90% <!-- feedback: Incorreto: 90% é a sensibilidade do teste, não a probabilidade pedida. -->
+- [x] A) 1/12, aproximadamente 8,3% <!-- feedback: Correto: P = 0,01·0,9 / (0,01·0,9 + 0,99·0,1) = 0,009/0,108 = 1/12. -->
 - [ ] C) 10% <!-- feedback: Incorreto: 10% é a taxa de falso positivo entre os saudáveis. -->
 - [ ] D) 1% <!-- feedback: Incorreto: 1% é a prevalência da doença na população. -->
 
@@ -372,8 +372,8 @@ A e B são independentes se P(A ∩ B) = P(A) × P(B). Como 0,5 × 0,4 = 0,2 = P
 Uma fábrica produz 200 peças: 100 pela linha 1, com 5 defeituosas, e 100 pela linha 2, com 10 defeituosas. Sorteada uma peça da linha 1, qual é a probabilidade de ela ser defeituosa?
 
 ### Opciones
-- [x] A) 5% <!-- feedback: Correto: restringe-se às 100 peças da linha 1: 5/100 = 5%. -->
-- [ ] B) 7,5% <!-- feedback: Incorreto: 7,5% é a proporção de defeituosas no total das 200 peças (15/200). -->
+- [x] B) 5% <!-- feedback: Correto: restringe-se às 100 peças da linha 1: 5/100 = 5%. -->
+- [ ] A) 7,5% <!-- feedback: Incorreto: 7,5% é a proporção de defeituosas no total das 200 peças (15/200). -->
 - [ ] C) 10% <!-- feedback: Incorreto: 10% é a proporção de defeituosas na linha 2. -->
 - [ ] D) 15% <!-- feedback: Incorreto: 15% seria 15 defeituosas sobre 100, usando o denominador errado. -->
 

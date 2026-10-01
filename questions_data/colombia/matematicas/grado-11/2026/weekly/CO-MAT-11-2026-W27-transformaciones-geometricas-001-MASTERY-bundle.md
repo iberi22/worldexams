@@ -34,13 +34,13 @@ Este bundle contiene 20 preguntas sobre **Transformaciones Geométricas** para g
 ¿Cuáles son las coordenadas del nuevo punto $A'$?
 
 ### Opciones
-- [x] A) $(6, 1)$
+- [x] D) $(6, 1)$
   <!-- feedback: Correcto. $A' = (2+4, 3+(-2)) = (6, 1)$. -->
-- [ ] B) $(8, -6)$
+- [ ] A) $(8, -6)$
   <!-- feedback: Incorrecto. Se multiplicaron las coordenadas en lugar de sumarlas. -->
-- [ ] C) $(-2, 5)$
+- [ ] B) $(-2, 5)$
   <!-- feedback: Incorrecto. Se restó el vector en lugar de sumar. -->
-- [ ] D) $(6, 5)$
+- [ ] C) $(6, 5)$
   <!-- feedback: Incorrecto. Error de signo al operar $3 - 2$. -->
 
 ### Explicacion Pedagogica
@@ -80,9 +80,9 @@ Reflexión respecto al eje $y$: $(x, y) \to (-x, y)$. Por lo tanto, $(-3, 5) \to
 ¿Cuáles son las coordenadas del punto rotado $C'$?
 
 ### Opciones
-- [x] A) $(0, 4)$
+- [x] B) $(0, 4)$
   <!-- feedback: Correcto. La rotación de $90^\circ$ transforma $(x,y) \to (-y, x)$. Para $(4,0)$ da $(0,4)$. -->
-- [ ] B) $(-4, 0)$
+- [ ] A) $(-4, 0)$
   <!-- feedback: Incorrecto. Corresponde a una rotación de $180^\circ$. -->
 - [ ] C) $(0, -4)$
   <!-- feedback: Incorrecto. Corresponde a una rotación de $270^\circ$ o $-90^\circ$. -->
@@ -103,11 +103,11 @@ Rotación de $90^\circ$ antihoraria respecto a $(0,0)$: $(x,y) \to (-y,x) = (0,4
 ¿Cuáles son las coordenadas del nuevo vértice $Q'$?
 
 ### Opciones
-- [x] A) $(6, 9)$
+- [x] C) $(6, 9)$
   <!-- feedback: Correcto. $Q' = k \cdot Q = 3(2, 3) = (6, 9)$. -->
-- [ ] B) $(5, 6)$
+- [ ] A) $(5, 6)$
   <!-- feedback: Incorrecto. Se sumó 3 en lugar de multiplicar por 3. -->
-- [ ] C) $(2, 9)$
+- [ ] B) $(2, 9)$
   <!-- feedback: Incorrecto. Se multiplicó solo la coordenada $y$. -->
 - [ ] D) $(6, 3)$
   <!-- feedback: Incorrecto. Se multiplicó solo la coordenada $x$. -->
@@ -126,13 +126,13 @@ Una homotecia centrada en el origen con factor $k$ multiplica cada coordenada po
 ¿Cuál es el vector transformado $T(\vec{u})$?
 
 ### Opciones
-- [x] A) $(6, -2)$
+- [x] D) $(6, -2)$
   <!-- feedback: Correcto. $T(\vec{u}) = \begin{pmatrix} 2 & 0 \\ 0 & 2 \end{pmatrix} \begin{pmatrix} 3 \\ -1 \end{pmatrix} = \begin{pmatrix} 6 \\ -2 \end{pmatrix}$. -->
-- [ ] B) $(5, 1)$
+- [ ] A) $(5, 1)$
   <!-- feedback: Incorrecto. Se sumaron las entradas matriciales. -->
-- [ ] C) $(6, 2)$
+- [ ] B) $(6, 2)$
   <!-- feedback: Incorrecto. Error de signo en la segunda componente. -->
-- [ ] D) $(3, -2)$
+- [ ] C) $(3, -2)$
   <!-- feedback: Incorrecto. Solo se multiplicó la componente $y$. -->
 
 ### Explicacion Pedagogica
@@ -241,9 +241,9 @@ La cizalladura horizontal desplaza $x$ en proporción a $y$: $x' = x + 2y = 0 + 
 ¿Cuál de las siguientes transformaciones NO es una isometría?
 
 ### Opciones
-- [x] A) Homotecia de factor $k = 2$
+- [x] B) Homotecia de factor $k = 2$
   <!-- feedback: Correcto. Una homotecia con $k \neq 1$ altera las distancias entre puntos, por lo que no es una isometría. -->
-- [ ] B) Traslación por un vector $\vec{v}$
+- [ ] A) Traslación por un vector $\vec{v}$
   <!-- feedback: Incorrecto. La traslación preserva distancias y ángulos. -->
 - [ ] C) Rotación de $45^\circ$ respecto al origen
   <!-- feedback: Incorrecto. La rotación es una isometría rígida. -->
@@ -264,9 +264,9 @@ Una isometría conserva distancias. La homotecia con $k=2$ multiplica todas las 
 ¿Cuál es el valor del determinante $\det(M)$ y qué significa geométricamente?
 
 ### Opciones
-- [x] A) $\det(M) = -1$; significa que invierte la orientación del plano.
+- [x] B) $\det(M) = -1$; significa que invierte la orientación del plano.
   <!-- feedback: Correcto. $\det(M) = 0(0) - 1(1) = -1$. Un determinante negativo conserva áreas pero invierte la orientación (isometría indirecta). -->
-- [ ] B) $\det(M) = 1$; significa que preserva la orientación del plano.
+- [ ] A) $\det(M) = 1$; significa que preserva la orientación del plano.
   <!-- feedback: Incorrecto. El determinante da $-1$, no $+1$. -->
 - [ ] C) $\det(M) = 0$; significa que colapsa el plano a una recta.
   <!-- feedback: Incorrecto. El determinante es no nulo. -->
@@ -287,9 +287,9 @@ $\det \begin{pmatrix} 0 & 1 \\ 1 & 0 \end{pmatrix} = -1$. Muestra que las reflex
 ¿Cuáles son las coordenadas del centro de homotecia $O$?
 
 ### Opciones
-- [x] A) $(0, 0)$
+- [x] B) $(0, 0)$
   <!-- feedback: Correcto. $A' - O = 3(A - O) \implies (3,6) = 3(1,2)$, lo cual se cumple exactamente para $O(0,0)$. -->
-- [ ] B) $(1, 1)$
+- [ ] A) $(1, 1)$
   <!-- feedback: Incorrecto. No satisface la relación de proporcionalidad vectorial. -->
 - [ ] C) $(2, 2)$
   <!-- feedback: Incorrecto. $A' - (2,2) = (1,4) \neq 3(-1,0)$. -->
@@ -310,13 +310,13 @@ Como $A' = 3A$ y $B' = 3B$, el centro de homotecia es el origen $O(0,0)$.
 ¿Cuál es el ángulo mínimo de rotación positiva que deja al hexágono en coincidencia consigo mismo (simetría rotacional)?
 
 ### Opciones
-- [x] A) $60^\circ$
+- [x] D) $60^\circ$
   <!-- feedback: Correcto. $\frac{360^\circ}{n} = \frac{360^\circ}{6} = 60^\circ$. -->
-- [ ] B) $90^\circ$
+- [ ] A) $90^\circ$
   <!-- feedback: Incorrecto. $90^\circ$ corresponde a la simetría rotacional de un cuadrado ($n=4$). -->
-- [ ] C) $45^\circ$
+- [ ] B) $45^\circ$
   <!-- feedback: Incorrecto. Corresponde a un octágono regular ($n=8$). -->
-- [ ] D) $120^\circ$
+- [ ] C) $120^\circ$
   <!-- feedback: Incorrecto. Es un múltiplo del ángulo mínimo, pero no es el ángulo mínimo. -->
 
 ### Explicacion Pedagogica
@@ -333,13 +333,13 @@ El ángulo mínimo de simetría rotacional de un $n$-ágono regular es $\frac{36
 ¿Cuál es la nueva ecuación de la elipse trasladada?
 
 ### Opciones
-- [x] A) $\frac{(x - 2)^2}{9} + \frac{(y + 3)^2}{4} = 1$
+- [x] D) $\frac{(x - 2)^2}{9} + \frac{(y + 3)^2}{4} = 1$
   <!-- feedback: Correcto. La traslación del centro a $(2, -3)$ reemplaza $x \to x-2$ y $y \to y+3$. -->
-- [ ] B) $\frac{(x + 2)^2}{9} + \frac{(y - 3)^2}{4} = 1$
+- [ ] A) $\frac{(x + 2)^2}{9} + \frac{(y - 3)^2}{4} = 1$
   <!-- feedback: Incorrecto. Se invirtieron los signos de desplazamiento en las variables. -->
-- [ ] C) $\frac{x^2 - 2}{9} + \frac{y^2 + 3}{4} = 1$
+- [ ] B) $\frac{x^2 - 2}{9} + \frac{y^2 + 3}{4} = 1$
   <!-- feedback: Incorrecto. Se restó a la variable al cuadrado en lugar de sustituir en el argumento. -->
-- [ ] D) $\frac{(x - 2)^2}{4} + \frac{(y + 3)^2}{9} = 1$
+- [ ] C) $\frac{(x - 2)^2}{4} + \frac{(y + 3)^2}{9} = 1$
   <!-- feedback: Incorrecto. Se intercambiaron los semiejos denominadores. -->
 
 ### Explicacion Pedagogica
@@ -356,13 +356,13 @@ Un desplazamiento de $(h,k) = (2, -3)$ reemplaza $x \to x-h = x-2$ y $y \to y-k 
 ¿Qué transformación geométrica realiza la matriz $A$?
 
 ### Opciones
-- [x] A) Reflexión respecto al eje $x$.
+- [x] D) Reflexión respecto al eje $x$.
   <!-- feedback: Correcto. $A \begin{pmatrix} x \\ y \end{pmatrix} = \begin{pmatrix} x \\ -y \end{pmatrix}$, lo cual refleja verticalmente sobre el eje $x$. -->
-- [ ] B) Reflexión respecto al eje $y$.
+- [ ] A) Reflexión respecto al eje $y$.
   <!-- feedback: Incorrecto. La reflexión sobre el eje $y$ tiene matriz $\begin{pmatrix} -1 & 0 \\ 0 & 1 \end{pmatrix}$. -->
-- [ ] C) Rotación de $90^\circ$.
+- [ ] B) Rotación de $90^\circ$.
   <!-- feedback: Incorrecto. Intercambiaría componentes $x$ e $y$. -->
-- [ ] D) Traslación hacia abajo.
+- [ ] C) Traslación hacia abajo.
   <!-- feedback: Incorrecto. Las matrices de $2 \times 2$ no realizan traslaciones afines directas sin coordenadas homogéneas. -->
 
 ### Explicacion Pedagogica
@@ -402,13 +402,13 @@ Compresión horizontal por factor 2: $f(2x) = \sin(2x)$. Desplazamiento vertical
 ¿A qué transformación única equivale aplicar consecutivamente la reflexión respecto a $L_1$ y luego a $L_2$?
 
 ### Opciones
-- [x] A) Una traslación horizontal a la derecha de 6 unidades.
+- [x] D) Una traslación horizontal a la derecha de 6 unidades.
   <!-- feedback: Correcto. La composición de dos reflexiones sobre ejes paralelos separados por distancia $d$ es una traslación de magnitud $2d = 2(3) = 6$ en dirección perpendicular a las rectas. -->
-- [ ] B) Una rotación de $180^\circ$.
+- [ ] A) Una rotación de $180^\circ$.
   <!-- feedback: Incorrecto. Las rectas deben cortarse para que la composición sea una rotación. -->
-- [ ] C) Una traslación a la derecha de 3 unidades.
+- [ ] B) Una traslación a la derecha de 3 unidades.
   <!-- feedback: Incorrecto. El desplazamiento es el doble de la distancia entre paralelas ($2d=6$). -->
-- [ ] D) La transformación identidad.
+- [ ] C) La transformación identidad.
   <!-- feedback: Incorrecto. Al ser paralelas distintas, se produce un desplazamiento neto. -->
 
 ### Explicacion Pedagogica
@@ -448,11 +448,11 @@ Reflexión en eje $x$: $(x, -y)$. Reflexión en eje $y$: $(-x, -y)$. Mapea $(x,y
 ¿Cómo afecta esta transformación al área de cualquier región plana $A$?
 
 ### Opciones
-- [x] A) Multiplica el área por $k^2$.
+- [x] C) Multiplica el área por $k^2$.
   <!-- feedback: Correcto. El determinante $\det(H) = k^2$, lo que significa que las áreas se escalan por $k^2$. -->
-- [ ] B) Multiplica el área por $k$.
+- [ ] A) Multiplica el área por $k$.
   <!-- feedback: Incorrecto. Las longitudes se multiplican por $k$, pero las áreas por $k^2$. -->
-- [ ] C) Multiplica el área por $2k$.
+- [ ] B) Multiplica el área por $2k$.
   <!-- feedback: Incorrecto. Relación no cuadrática falsa. -->
 - [ ] D) Mantiene el área inalterada.
   <!-- feedback: Incorrecto. Solo $k=\pm 1$ mantiene el área inalterada. -->
@@ -471,13 +471,13 @@ El factor de cambio de área bajo una transformación lineal matricial es $|\det
 ¿Qué propiedad conservan siempre las transformaciones afines en el plano?
 
 ### Opciones
-- [x] A) Conservan la colinealidad de los puntos y el paralelismo de las rectas.
+- [x] D) Conservan la colinealidad de los puntos y el paralelismo de las rectas.
   <!-- feedback: Correcto. Las transformaciones afines envían líneas rectas a líneas rectas y mantienen el paralelismo. -->
-- [ ] B) Conservan siempre las distancias absolutas entre puntos.
+- [ ] A) Conservan siempre las distancias absolutas entre puntos.
   <!-- feedback: Incorrecto. Solo las isometrías conservan distancias. -->
-- [ ] C) Conservan siempre los ángulos entre rectas.
+- [ ] B) Conservan siempre los ángulos entre rectas.
   <!-- feedback: Incorrecto. Las cizalladuras o deformaciones alteran ángulos. -->
-- [ ] D) Conservan siempre el origen en el punto $(0,0)$.
+- [ ] C) Conservan siempre el origen en el punto $(0,0)$.
   <!-- feedback: Incorrecto. La traslación $\vec{b} \neq \vec{0}$ desplaza el origen. -->
 
 ### Explicacion Pedagogica

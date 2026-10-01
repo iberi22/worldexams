@@ -30,8 +30,8 @@ bundle_index: 1
 
 ### Opciones
 - [ ] A) $a^{m \cdot n}$ <!-- feedback: Esta propiedad corresponde a la potencia de una potencia, no al producto de potencias. -->
-- [x] B) $a^{m + n}$ <!-- feedback: ¡Correcto! Al multiplicar potencias de la misma base, se suman los exponentes. -->
-- [ ] C) $a^{m - n}$ <!-- feedback: Esta propiedad corresponde al cociente de potencias de la misma base. -->
+- [x] C) $a^{m + n}$ <!-- feedback: ¡Correcto! Al multiplicar potencias de la misma base, se suman los exponentes. -->
+- [ ] B) $a^{m - n}$ <!-- feedback: Esta propiedad corresponde al cociente de potencias de la misma base. -->
 - [ ] D) $(2a)^{m+n}$ <!-- feedback: La base se mantiene igual, no se multiplica por dos. -->
 
 ### Explicacion Pedagogica
@@ -49,8 +49,8 @@ La regla del producto para potencias establece que para cualquier base real $a$ 
 
 ### Opciones
 - [ ] A) $-a^n$ <!-- feedback: Un exponente negativo no hace que el resultado sea negativo, sino que indica un reciproco. -->
-- [x] B) $\frac{1}{a^n}$ <!-- feedback: ¡Correcto! El exponente negativo indica el inverso multiplicativo de la potencia con exponente positivo. -->
-- [ ] C) $\sqrt[n]{a}$ <!-- feedback: Esto representa una potencia con exponente fraccionario (1/n). -->
+- [x] C) $\frac{1}{a^n}$ <!-- feedback: ¡Correcto! El exponente negativo indica el inverso multiplicativo de la potencia con exponente positivo. -->
+- [ ] B) $\sqrt[n]{a}$ <!-- feedback: Esto representa una potencia con exponente fraccionario (1/n). -->
 - [ ] D) $n \cdot a$ <!-- feedback: Esto es una multiplicacion simple, no una operacion de potencia. -->
 
 ### Explicacion Pedagogica
@@ -69,8 +69,8 @@ Si el lado de un cuadrado mide $\sqrt{x}$ metros, ¿cual es el area del cuadrado
 ### Opciones
 - [ ] A) $\sqrt{x^2}$ <!-- feedback: Aunque matematicamente es equivalente a x (para x positivo), la forma mas simplificada es x. -->
 - [ ] B) $2\sqrt{x}$ <!-- feedback: Esto representaria el doble del lado, no el area. -->
-- [x] C) $x$ <!-- feedback: ¡Correcto! $(\sqrt{x})^2 = x$, asumiendo que x es un numero real no negativo. -->
-- [ ] D) $x^2$ <!-- feedback: Esto seria el area si el lado midiera x, no la raiz de x. -->
+- [x] D) $x$ <!-- feedback: ¡Correcto! $(\sqrt{x})^2 = x$, asumiendo que x es un numero real no negativo. -->
+- [ ] C) $x^2$ <!-- feedback: Esto seria el area si el lado midiera x, no la raiz de x. -->
 
 ### Explicacion Pedagogica
 La operacion de elevar al cuadrado es la inversa de obtener la raiz cuadrada. Por lo tanto, el area de un cuadrado de lado $L$ es $L^2$. Si $L = \sqrt{x}$, entonces el area es $(\sqrt{x})^2 = x$.
@@ -87,8 +87,8 @@ Si inicialmente hay 1 bacteria, ¿que expresion representa la cantidad de bacter
 
 ### Opciones
 - [ ] A) $3 \cdot n$ <!-- feedback: Esto representaria un crecimiento lineal, no exponencial. -->
-- [x] B) $3^n$ <!-- feedback: ¡Correcto! Cada hora multiplicamos por 3, lo que genera una potencia de base 3. -->
-- [ ] C) $n^3$ <!-- feedback: Aqui la base varia, pero en el crecimiento bacteriano la base (tasa de crecimiento) es constante. -->
+- [x] C) $3^n$ <!-- feedback: ¡Correcto! Cada hora multiplicamos por 3, lo que genera una potencia de base 3. -->
+- [ ] B) $n^3$ <!-- feedback: Aqui la base varia, pero en el crecimiento bacteriano la base (tasa de crecimiento) es constante. -->
 - [ ] D) $\sqrt[3]{n}$ <!-- feedback: Esto representaria un crecimiento extremadamente lento, no triplicado. -->
 
 ### Explicacion Pedagogica
@@ -125,9 +125,9 @@ La relacion entre radicales y potencias esta dada por la formula $\sqrt[n]{x^m} 
 
 ### Opciones
 - [ ] A) $2^6$ <!-- feedback: Error al sumar exponentes en lugar de aplicar la potencia de una potencia correctamente. -->
-- [x] B) $2^9$ <!-- feedback: ¡Correcto! El volumen es $(2^3)^3$. Multiplicando los exponentes tenemos $2^9$. -->
-- [ ] C) $2^{27}$ <!-- feedback: Los exponentes se multiplican, no se elevan uno al otro ($3 \cdot 3 = 9$). -->
-- [ ] D) $8^3$ <!-- feedback: Aunque el valor es el mismo, la pregunta pide expresarlo como potencia de 2. -->
+- [x] D) $2^9$ <!-- feedback: ¡Correcto! El volumen es $(2^3)^3$. Multiplicando los exponentes tenemos $2^9$. -->
+- [ ] B) $2^{27}$ <!-- feedback: Los exponentes se multiplican, no se elevan uno al otro ($3 \cdot 3 = 9$). -->
+- [ ] C) $8^3$ <!-- feedback: Aunque el valor es el mismo, la pregunta pide expresarlo como potencia de 2. -->
 
 ### Explicacion Pedagogica
 El volumen de un cubo es $V = L^3$. Si el lado $L = 2^3$, entonces $V = (2^3)^3$. Aplicando la propiedad de potencia de una potencia $(a^m)^n = a^{m \cdot n}$, obtenemos $2^{3 \cdot 3} = 2^9$.
@@ -143,8 +143,8 @@ El volumen de un cubo es $V = L^3$. Si el lado $L = 2^3$, entonces $V = (2^3)^3$
 Si el capital es $1,000,000$ Francos CFA y el tiempo son 2 años, pero el banco decide pagar el doble de la tasa elevando la base al cuadrado, ¿que potencia representaria el nuevo factor de crecimiento?
 
 ### Opciones
-- [ ] A) $(1.05)^4$ <!-- feedback: Elevar la base al cuadrado no es lo mismo que duplicar el tiempo. -->
-- [x] B) $(1.1025)^t$ <!-- feedback: ¡Correcto! $(1.05)^2 = 1.1025$. La nueva base de la potencia es el cuadrado de la anterior. -->
+- [ ] B) $(1.05)^4$ <!-- feedback: Elevar la base al cuadrado no es lo mismo que duplicar el tiempo. -->
+- [x] A) $(1.1025)^t$ <!-- feedback: ¡Correcto! $(1.05)^2 = 1.1025$. La nueva base de la potencia es el cuadrado de la anterior. -->
 - [ ] C) $(2.10)^t$ <!-- feedback: Duplicar la base no es lo mismo que elevarla al cuadrado. -->
 - [ ] D) $1.05^{2t}$ <!-- feedback: Esto seria equivalente si la base no cambiara, pero aqui se pide la nueva base. -->
 
@@ -162,8 +162,8 @@ Este problema requiere aplicar la propiedad de potencia de una potencia o simple
 ¿Cual es el resultado de simplificar $\sqrt{a^4 \cdot b^6}$ asumiendo que $a$ y $b$ son positivos?
 
 ### Opciones
-- [ ] A) $a^2 b^2$ <!-- feedback: El exponente de b deberia ser 3 (6 dividido por 2). -->
-- [x] B) $a^2 b^3$ <!-- feedback: ¡Correcto! Se divide cada exponente por el indice de la raiz (2). -->
+- [ ] B) $a^2 b^2$ <!-- feedback: El exponente de b deberia ser 3 (6 dividido por 2). -->
+- [x] A) $a^2 b^3$ <!-- feedback: ¡Correcto! Se divide cada exponente por el indice de la raiz (2). -->
 - [ ] C) $a^8 b^{12}$ <!-- feedback: Los exponentes se dividen, no se multiplican por el indice. -->
 - [ ] D) $a^4 b^6$ <!-- feedback: No se ha aplicado la raiz cuadrada a los exponentes. -->
 
@@ -182,8 +182,8 @@ Para extraer factores de una raiz cuadrada, dividimos sus exponentes por 2. $\sq
 
 ### Opciones
 - [ ] A) 18 <!-- feedback: Error al multiplicar la base por la fraccion. -->
-- [ ] B) 3 <!-- feedback: Este es solo el resultado de la raiz cubica de 27. -->
-- [x] C) 9 <!-- feedback: ¡Correcto! La raiz cubica de 27 es 3, y 3 al cuadrado es 9. -->
+- [ ] C) 3 <!-- feedback: Este es solo el resultado de la raiz cubica de 27. -->
+- [x] B) 9 <!-- feedback: ¡Correcto! La raiz cubica de 27 es 3, y 3 al cuadrado es 9. -->
 - [ ] D) 81 <!-- feedback: Error al aplicar la potencia antes de la raiz de forma incorrecta. -->
 
 ### Explicacion Pedagogica
@@ -220,8 +220,8 @@ La propiedad distributiva de la potencia respecto al producto establece que $(a 
 
 ### Opciones
 - [ ] A) $2$ <!-- feedback: No se puede dividir un entero por una raiz directamente de esta forma. -->
-- [ ] B) $10\sqrt{5}$ <!-- feedback: Falta dividir por el denominador resultante tras la racionalizacion. -->
-- [x] C) $2\sqrt{5}$ <!-- feedback: ¡Correcto! Al multiplicar por $\sqrt{5}/\sqrt{5}$ queda $10\sqrt{5}/5$, que se simplifica a $2\sqrt{5}$. -->
+- [ ] C) $10\sqrt{5}$ <!-- feedback: Falta dividir por el denominador resultante tras la racionalizacion. -->
+- [x] B) $2\sqrt{5}$ <!-- feedback: ¡Correcto! Al multiplicar por $\sqrt{5}/\sqrt{5}$ queda $10\sqrt{5}/5$, que se simplifica a $2\sqrt{5}$. -->
 - [ ] D) $\sqrt{2}$ <!-- feedback: Error en la simplificacion de los numeros enteros y la raiz. -->
 
 ### Explicacion Pedagogica
@@ -240,8 +240,8 @@ La racionalizacion consiste en eliminar los radicales del denominador. Multiplic
 ### Opciones
 - [ ] A) $\sqrt{52}$ <!-- feedback: No se pueden sumar los radicandos directamente. -->
 - [ ] B) $8\sqrt{4}$ <!-- feedback: Error al intentar sumar las raices y sus indices. -->
-- [x] C) $8\sqrt{2}$ <!-- feedback: ¡Correcto! $\sqrt{50} = 5\sqrt{2}$. Al sumar $3\sqrt{2} + 5\sqrt{2}$ obtenemos $8\sqrt{2}$. -->
-- [ ] D) $15\sqrt{2}$ <!-- feedback: Se han multiplicado los coeficientes en lugar de sumarlos. -->
+- [x] D) $8\sqrt{2}$ <!-- feedback: ¡Correcto! $\sqrt{50} = 5\sqrt{2}$. Al sumar $3\sqrt{2} + 5\sqrt{2}$ obtenemos $8\sqrt{2}$. -->
+- [ ] C) $15\sqrt{2}$ <!-- feedback: Se han multiplicado los coeficientes en lugar de sumarlos. -->
 
 ### Explicacion Pedagogica
 Para sumar radicales, estos deben ser semejantes (mismo indice y mismo radicando). Primero simplificamos $\sqrt{50} = \sqrt{25 \cdot 2} = 5\sqrt{2}$. Ahora que son semejantes, sumamos los coeficientes: $3 + 5 = 8$.
@@ -258,8 +258,8 @@ Simplifica la expresion $(\sqrt[3]{x^2})^6$ asumiendo que $x$ es un numero real 
 
 ### Opciones
 - [ ] A) $x^2$ <!-- feedback: Error al aplicar las potencias sucesivas. -->
-- [x] B) $x^4$ <!-- feedback: ¡Correcto! La expresion es $(x^{2/3})^6 = x^{(2/3) \cdot 6} = x^4$. -->
-- [ ] C) $x^3$ <!-- feedback: Error en el calculo de la fraccion resultante. -->
+- [x] C) $x^4$ <!-- feedback: ¡Correcto! La expresion es $(x^{2/3})^6 = x^{(2/3) \cdot 6} = x^4$. -->
+- [ ] B) $x^3$ <!-- feedback: Error en el calculo de la fraccion resultante. -->
 - [ ] D) $x^{12}$ <!-- feedback: Se han multiplicado los exponentes internos sin considerar la raiz. -->
 
 ### Explicacion Pedagogica
@@ -276,8 +276,8 @@ Convertimos el radical a exponente fraccionario: $x^{2/3}$. Luego aplicamos la p
 ¿Despues de cuanto tiempo $t$ la masa $M$ sera exactamente la cuarta parte de la masa inicial $M_0$?
 
 ### Opciones
-- [ ] A) 5 años <!-- feedback: Al sustituir 5 queda 2^-1, que es la mitad, no la cuarta parte. -->
-- [x] B) 10 años <!-- feedback: ¡Correcto! Al sustituir 10 queda $2^{-10/5} = 2^{-2} = 1/4$. -->
+- [ ] B) 5 años <!-- feedback: Al sustituir 5 queda 2^-1, que es la mitad, no la cuarta parte. -->
+- [x] A) 10 años <!-- feedback: ¡Correcto! Al sustituir 10 queda $2^{-10/5} = 2^{-2} = 1/4$. -->
 - [ ] C) 2 años <!-- feedback: Este valor no produce una fraccion de potencia de 2 simple. -->
 - [ ] D) 20 años <!-- feedback: Al sustituir 20 queda 2^-4 = 1/16, mucho menor que la cuarta parte. -->
 
@@ -296,8 +296,8 @@ Queremos que $M/M_0 = 1/4$, lo que significa que $2^{-t/5} = 2^{-2}$. Igualando 
 
 ### Opciones
 - [ ] A) $A > B$ <!-- feedback: $\sqrt{12}$ no es mayor que $\sqrt{18}$. -->
-- [x] B) $B > A$ <!-- feedback: ¡Correcto! $B = \sqrt{18}$ y $A = \sqrt{12}$. Claramente 18 > 12. -->
-- [ ] C) $A = B$ <!-- feedback: Los numeros dentro y fuera de la raiz no compensan exactamente la igualdad. -->
+- [x] C) $B > A$ <!-- feedback: ¡Correcto! $B = \sqrt{18}$ y $A = \sqrt{12}$. Claramente 18 > 12. -->
+- [ ] B) $A = B$ <!-- feedback: Los numeros dentro y fuera de la raiz no compensan exactamente la igualdad. -->
 - [ ] D) No se pueden comparar porque son irracionales. <!-- feedback: Todos los numeros reales son comparables segun la ley de tricotomia. -->
 
 ### Explicacion Pedagogica
@@ -334,9 +334,9 @@ Factorizamos el radicando en potencias perfectas del indice: $54 = 3^3 \cdot 2$ 
 
 ### Opciones
 - [ ] A) Siempre que $n$ sea par. <!-- feedback: Las raices de indice par de numeros negativos no son reales. -->
-- [x] B) Siempre que $n$ sea impar. <!-- feedback: ¡Correcto! Las raices impares de numeros negativos existen en el conjunto de los reales (ej. raiz cubica de -8 es -2). -->
-- [ ] C) Nunca, los numeros reales no pueden tener raices de numeros negativos. <!-- feedback: Esto solo es cierto para indices pares. -->
-- [ ] D) Solo si $x$ es mayor que $-1$. <!-- feedback: El valor de x no importa, lo que importa es la paridad del indice n. -->
+- [x] D) Siempre que $n$ sea impar. <!-- feedback: ¡Correcto! Las raices impares de numeros negativos existen en el conjunto de los reales (ej. raiz cubica de -8 es -2). -->
+- [ ] B) Nunca, los numeros reales no pueden tener raices de numeros negativos. <!-- feedback: Esto solo es cierto para indices pares. -->
+- [ ] C) Solo si $x$ es mayor que $-1$. <!-- feedback: El valor de x no importa, lo que importa es la paridad del indice n. -->
 
 ### Explicacion Pedagogica
 En el conjunto de los numeros reales, la raiz de indice par de un numero negativo no esta definida. Sin embargo, las raices de indice impar (como 3, 5, 7...) de numeros negativos si son reales, ya que un numero negativo elevado a una potencia impar mantiene su signo negativo.
@@ -372,8 +372,8 @@ Si el voltaje $V$ aumenta en un factor de $\sqrt{2}$ y la resistencia $R$ se red
 
 ### Opciones
 - [ ] A) La potencia se mantiene igual. <!-- feedback: Los cambios en V y R no se cancelan de esta manera. -->
-- [ ] B) La potencia se duplica. <!-- feedback: Falta considerar el efecto de la reduccion de la resistencia. -->
-- [x] C) La potencia se cuadruplica. <!-- feedback: ¡Correcto! $(\sqrt{2})^2 = 2$ (por el voltaje). Al dividir por $1/2$ (resistencia), el resultado total es $2 \cdot 2 = 4$. -->
+- [ ] C) La potencia se duplica. <!-- feedback: Falta considerar el efecto de la reduccion de la resistencia. -->
+- [x] B) La potencia se cuadruplica. <!-- feedback: ¡Correcto! $(\sqrt{2})^2 = 2$ (por el voltaje). Al dividir por $1/2$ (resistencia), el resultado total es $2 \cdot 2 = 4$. -->
 - [ ] D) La potencia se reduce a la cuarta parte. <!-- feedback: Los factores de aumento y reduccion se han aplicado de forma invertida. -->
 
 ### Explicacion Pedagogica
@@ -390,9 +390,9 @@ Sustituimos los nuevos valores en la formula original: $P' = (\sqrt{2}V)^2 / (R/
 ¿Cual es el valor de $x$ que satisface la ecuacion exponencial $2^x \cdot 4^{x-1} = 8$?
 
 ### Opciones
-- [ ] A) $x = 1$ <!-- feedback: $2^1 \cdot 4^0 = 2 \cdot 1 = 2$, no 8. -->
-- [ ] B) $x = 2$ <!-- feedback: $2^2 \cdot 4^1 = 4 \cdot 4 = 16$, no 8. -->
-- [x] C) $x = 5/3$ <!-- feedback: ¡Correcto! $2^x \cdot 2^{2(x-1)} = 2^3 \rightarrow x + 2x - 2 = 3 \rightarrow 3x = 5 \rightarrow x = 5/3$. -->
+- [ ] B) $x = 1$ <!-- feedback: $2^1 \cdot 4^0 = 2 \cdot 1 = 2$, no 8. -->
+- [ ] C) $x = 2$ <!-- feedback: $2^2 \cdot 4^1 = 4 \cdot 4 = 16$, no 8. -->
+- [x] A) $x = 5/3$ <!-- feedback: ¡Correcto! $2^x \cdot 2^{2(x-1)} = 2^3 \rightarrow x + 2x - 2 = 3 \rightarrow 3x = 5 \rightarrow x = 5/3$. -->
 - [ ] D) $x = 3$ <!-- feedback: $2^3 \cdot 4^2 = 8 \cdot 16 = 128$, no 8. -->
 
 ### Explicacion Pedagogica

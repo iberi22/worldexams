@@ -30,11 +30,11 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar inversión rápida y transitoria del potencial de membrana de la neurona que se propaga a lo largo del axón, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El potencial de acción
+- [x] C) El potencial de acción
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a inversión rápida y transitoria del potencial de membrana de la neurona que se propaga a lo largo del axón. -->
-- [ ] B) El potencial de reposo
+- [ ] A) El potencial de reposo
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) El potencial graduado
+- [ ] B) El potencial graduado
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino. -->
 - [ ] D) El potencial umbral
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -105,11 +105,11 @@ La respuesta correcta es La repolarización de membrana. Científicamente, esto 
 Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar transmisión neuronal mediada por la liberación de neurotransmisores a la hendidura sináptica, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La sinapsis química
+- [x] C) La sinapsis química
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a transmisión neuronal mediada por la liberación de neurotransmisores a la hendidura sináptica. -->
-- [ ] B) La sinapsis eléctrica
+- [ ] A) La sinapsis eléctrica
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) El potencial electrotónico
+- [ ] B) El potencial electrotónico
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino. -->
 - [ ] D) La conducción saltatoria
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -130,9 +130,9 @@ La respuesta correcta es La sinapsis química. Científicamente, esto se explica
 Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar propagación rápida del potencial de acción de nodo a nodo en axones mielinizados, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La conducción saltatoria
+- [x] B) La conducción saltatoria
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a propagación rápida del potencial de acción de nodo a nodo en axones mielinizados. -->
-- [ ] B) La conducción continua lenta
+- [ ] A) La conducción continua lenta
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) La despolarización retrógrada
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino. -->
@@ -155,11 +155,11 @@ La respuesta correcta es La conducción saltatoria. Científicamente, esto se ex
 Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar capa lipídica producida por células de Schwann y oligodendrocitos que recubre y aísla los axones, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La vaina de mielina
+- [x] C) La vaina de mielina
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a capa lipídica producida por células de Schwann y oligodendrocitos que recubre y aísla los axones. -->
-- [ ] B) Las dendritas
+- [ ] A) Las dendritas
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) El cono axónico
+- [ ] B) El cono axónico
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino. -->
 - [ ] D) Los botones sinápticos
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -205,9 +205,9 @@ La respuesta correcta es Arco reflejo involuntario. Científicamente, esto se ex
 Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar división del sistema nervioso periférico que regula las funciones viscerales involuntarias, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El sistema nervioso autónomo
+- [x] B) El sistema nervioso autónomo
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a división del sistema nervioso periférico que regula las funciones viscerales involuntarias. -->
-- [ ] B) El sistema nervioso somático
+- [ ] A) El sistema nervioso somático
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) El sistema nervioso central
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino. -->
@@ -230,11 +230,11 @@ La respuesta correcta es El sistema nervioso autónomo. Científicamente, esto s
 Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar división del sistema autónomo que promueve el estado de reposo, digestión y conservación de energía, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Sistema parasimpático activo
+- [x] C) Sistema parasimpático activo
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a división del sistema autónomo que promueve el estado de reposo, digestión y conservación de energía. -->
-- [ ] B) Sistema simpático estimulado
+- [ ] A) Sistema simpático estimulado
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Sistema endocrino central
+- [ ] B) Sistema endocrino central
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino. -->
 - [ ] D) Sistema motor somático
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -280,13 +280,13 @@ La respuesta correcta es Sistema simpático estimulado. Científicamente, esto s
 Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar proteínas intracelulares que actúan como factores de transcripción genética al unirse a su hormona lipídica, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Receptores de hormonas peptídicas
+- [x] D) Receptores de hormonas peptídicas
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a proteínas intracelulares que actúan como factores de transcripción genética al unirse a su hormona lipídica. -->
-- [ ] B) Receptores de hormonas esteroideas
+- [ ] A) Receptores de hormonas esteroideas
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Receptores ionotrópicos rápidos
+- [ ] B) Receptores ionotrópicos rápidos
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino. -->
-- [ ] D) Canales iónicos pasivos
+- [ ] C) Canales iónicos pasivos
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -305,13 +305,13 @@ La respuesta correcta es Receptores de hormonas peptídicas. Científicamente, e
 Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar receptores de hormonas peptídicas solubles en agua que desencadenan cascadas de segundos mensajeros, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Receptores de membrana acoplados a proteínas g
+- [x] D) Receptores de membrana acoplados a proteínas g
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a receptores de hormonas peptídicas solubles en agua que desencadenan cascadas de segundos mensajeros. -->
-- [ ] B) Receptores nucleares solubles
+- [ ] A) Receptores nucleares solubles
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Factores de transcripción nuclear
+- [ ] B) Factores de transcripción nuclear
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino. -->
-- [ ] D) Canales de sodio libres
+- [ ] C) Canales de sodio libres
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -330,9 +330,9 @@ La respuesta correcta es Receptores de membrana acoplados a proteínas g. Cient�
 Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar hormona hipoglucemiante secretada por las células beta del páncreas que facilita la entrada de glucosa, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La insulina
+- [x] B) La insulina
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a hormona hipoglucemiante secretada por las células beta del páncreas que facilita la entrada de glucosa. -->
-- [ ] B) El glucagón
+- [ ] A) El glucagón
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) La adrenalina
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino. -->
@@ -355,13 +355,13 @@ La respuesta correcta es La insulina. Científicamente, esto se explica por la p
 Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar hormona hiperglucemiante secretada por las células alfa del páncreas que estimula la glucogenólisis, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El glucagón
+- [x] D) El glucagón
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a hormona hiperglucemiante secretada por las células alfa del páncreas que estimula la glucogenólisis. -->
-- [ ] B) La insulina
+- [ ] A) La insulina
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) La vasopresina
+- [ ] B) La vasopresina
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino. -->
-- [ ] D) La tiroxina
+- [ ] C) La tiroxina
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -380,13 +380,13 @@ La respuesta correcta es El glucagón. Científicamente, esto se explica por la 
 Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar mantiene activamente el gradiente de concentración de Na+ y K+ consumiendo un tercio del ATP de la neurona, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La bomba sodio-potasio atpasa
+- [x] D) La bomba sodio-potasio atpasa
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a mantiene activamente el gradiente de concentración de Na+ y K+ consumiendo un tercio del ATP de la neurona. -->
-- [ ] B) Los canales de calcio rápidos
+- [ ] A) Los canales de calcio rápidos
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Los canales de potasio libres
+- [ ] B) Los canales de potasio libres
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino. -->
-- [ ] D) La bomba de calcio activa
+- [ ] C) La bomba de calcio activa
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -455,11 +455,11 @@ La respuesta correcta es La hormona antidiurética (adh / vasopresina). Científ
 Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar mecanismo homeostático donde el aumento de una hormona inhibe su propia secreción en la glándula estimuladora, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Retroalimentación negativa (feedback)
+- [x] C) Retroalimentación negativa (feedback)
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a mecanismo homeostático donde el aumento de una hormona inhibe su propia secreción en la glándula estimuladora. -->
-- [ ] B) Retroalimentación positiva
+- [ ] A) Retroalimentación positiva
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Regulación hormonal alostérica
+- [ ] B) Regulación hormonal alostérica
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino. -->
 - [ ] D) Cooperatividad enzimática
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -480,11 +480,11 @@ La respuesta correcta es Retroalimentación negativa (feedback). Científicament
 Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar hormona tiroidea rica en yodo que incrementa la tasa metabólica basal celular en todo el cuerpo, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Tiroxina (t4)
+- [x] C) Tiroxina (t4)
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a hormona tiroidea rica en yodo que incrementa la tasa metabólica basal celular en todo el cuerpo. -->
-- [ ] B) Insulina
+- [ ] A) Insulina
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Calcitonin
+- [ ] B) Calcitonin
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino. -->
 - [ ] D) Paratohormona
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -505,11 +505,11 @@ La respuesta correcta es Tiroxina (t4). Científicamente, esto se explica por el
 Al realizar experimentos sobre neurofisiología y sistema endocrino y estudiar eje hormonal activado por el estrés crónico que culmina en la liberación sistémica de cortisol, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El eje hipotálamo-hipófisis-adrenal (hpa)
+- [x] C) El eje hipotálamo-hipófisis-adrenal (hpa)
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a eje hormonal activado por el estrés crónico que culmina en la liberación sistémica de cortisol. -->
-- [ ] B) El eje tiroideo metabólico
+- [ ] A) El eje tiroideo metabólico
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) El sistema renina-angiotensina
+- [ ] B) El sistema renina-angiotensina
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de neurofisiología y sistema endocrino. -->
 - [ ] D) El arco reflejo espinal
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->

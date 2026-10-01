@@ -33,13 +33,13 @@ creador: "Jules-Agent"
 What is the English word for: "A place where you live or stay on holiday."
 
 ### Opciones
-- [x] A) accommodation
+- [x] D) accommodation
   <!-- feedback: Correct! 'accommodation' matches the definition. -->
-- [ ] B) transportation
+- [ ] A) transportation
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) entertainment
+- [ ] B) entertainment
   <!-- feedback: Incorrect. Try again. -->
-- [ ] D) currency
+- [ ] C) currency
   <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica
@@ -56,9 +56,9 @@ The word 'accommodation' is used to describe a place where you live or stay on h
 What is the English word for: "A detailed plan or route of a journey."
 
 ### Opciones
-- [x] A) itinerary
+- [x] B) itinerary
   <!-- feedback: Correct! 'itinerary' matches the definition. -->
-- [ ] B) baggage
+- [ ] A) baggage
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) destination
   <!-- feedback: Incorrect. Try again. -->
@@ -79,13 +79,13 @@ The word 'itinerary' is used to describe a detailed plan or route of a journey. 
 What is the English word for: "The place to which someone or something is going or being sent."
 
 ### Opciones
-- [x] A) destination
+- [x] D) destination
   <!-- feedback: Correct! 'destination' matches the definition. -->
-- [ ] B) departure
+- [ ] A) departure
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) arrival
+- [ ] B) arrival
   <!-- feedback: Incorrect. Try again. -->
-- [ ] D) journey
+- [ ] C) journey
   <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica
@@ -102,13 +102,13 @@ The word 'destination' is used to describe the place to which someone or somethi
 What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
 
 ### Opciones
-- [x] A) luggage
+- [x] D) luggage
   <!-- feedback: Correct! 'luggage' matches the definition. -->
-- [ ] B) ticket
+- [ ] A) ticket
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) flight
+- [ ] B) flight
   <!-- feedback: Incorrect. Try again. -->
-- [ ] D) reservation
+- [ ] C) reservation
   <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica
@@ -148,11 +148,11 @@ The word 'passenger' is used to describe a traveler on a public or private conve
 What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
 
 ### Opciones
-- [x] A) customs
+- [x] C) customs
   <!-- feedback: Correct! 'customs' matches the definition. -->
-- [ ] B) security
+- [ ] A) security
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) terminal
+- [ ] B) terminal
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) gate
   <!-- feedback: Incorrect. Try again. -->
@@ -171,9 +171,9 @@ The word 'customs' is used to describe the place at a port, airport, or frontier
 What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
 
 ### Opciones
-- [x] A) boarding pass
+- [x] B) boarding pass
   <!-- feedback: Correct! 'boarding pass' matches the definition. -->
-- [ ] B) visa
+- [ ] A) visa
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) receipt
   <!-- feedback: Incorrect. Try again. -->
@@ -194,11 +194,11 @@ The word 'boarding pass' is used to describe a document provided by an airline d
 What is the English word for: "The activity of visiting places of interest in a particular location."
 
 ### Opciones
-- [x] A) sightseeing
+- [x] C) sightseeing
   <!-- feedback: Correct! 'sightseeing' matches the definition. -->
-- [ ] B) shopping
+- [ ] A) shopping
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) hiking
+- [ ] B) hiking
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) camping
   <!-- feedback: Incorrect. Try again. -->

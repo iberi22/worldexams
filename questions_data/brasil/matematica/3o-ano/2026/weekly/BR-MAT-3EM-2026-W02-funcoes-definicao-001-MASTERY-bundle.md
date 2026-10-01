@@ -51,8 +51,8 @@ Para que uma relação entre um conjunto $A$ e um conjunto $B$ seja considerada 
 ### Opciones
 - [ ] A) Cada elemento de B deve estar associado a pelo menos um elemento de A. <!-- feedback: Esta é a definição de uma função sobrejetora, não de uma função em geral. -->
 - [ ] B) Elementos diferentes de A devem estar associados a elementos diferentes de B. <!-- feedback: Esta é a definição de uma função injetora. -->
-- [x] C) Cada elemento de A deve estar associado a exatamente um elemento de B. <!-- feedback: Esta é a condição essencial: não pode sobrar elemento em A sem flecha e não pode sair mais de uma flecha de um mesmo elemento de A. -->
-- [ ] D) O conjunto A deve ser igual ao conjunto B. <!-- feedback: O domínio e o contradomínio podem ser conjuntos completamente diferentes. -->
+- [x] D) Cada elemento de A deve estar associado a exatamente um elemento de B. <!-- feedback: Esta é a condição essencial: não pode sobrar elemento em A sem flecha e não pode sair mais de uma flecha de um mesmo elemento de A. -->
+- [ ] C) O conjunto A deve ser igual ao conjunto B. <!-- feedback: O domínio e o contradomínio podem ser conjuntos completamente diferentes. -->
 
 ### Explicacion Pedagogica
 Uma função é uma regra que associa cada elemento $x$ de um conjunto $A$ a um único elemento $y$ de um conjunto $B$. Se um elemento de $A$ não tiver correspondente ou tiver mais de um, a relação não é uma função.
@@ -69,8 +69,8 @@ Dada a função $f(x) = 3x - 5$, qual é o valor de $f(4)$?
 
 ### Opciones
 - [ ] A) 17 <!-- feedback: Erro de sinal: 3(4) + 5 = 17, mas a função é 3x - 5. -->
-- [x] B) 7 <!-- feedback: f(4) = 3(4) - 5 = 12 - 5 = 7. -->
-- [ ] C) 12 <!-- feedback: Este é apenas o resultado de 3 * 4, esquecendo de subtrair o 5. -->
+- [x] C) 7 <!-- feedback: f(4) = 3(4) - 5 = 12 - 5 = 7. -->
+- [ ] B) 12 <!-- feedback: Este é apenas o resultado de 3 * 4, esquecendo de subtrair o 5. -->
 - [ ] D) -1 <!-- feedback: f(4) = 3(4) - 5. O valor 7 é positivo. -->
 
 ### Explicacion Pedagogica
@@ -106,8 +106,8 @@ Pelo "Teste da Reta Vertical", se qualquer reta vertical cruzar o desenho em mai
 Qual é o domínio da função real $f(x) = \frac{1}{x-2}$?
 
 ### Opciones
-- [ ] A) $\mathbb{R}$ <!-- feedback: O valor x = 2 causa uma divisão por zero, portanto não pode estar no domínio. -->
-- [x] B) $\mathbb{R} - \{2\}$ <!-- feedback: A função está definida para todos os reais, exceto para o valor que zera o denominador. -->
+- [ ] B) $\mathbb{R}$ <!-- feedback: O valor x = 2 causa uma divisão por zero, portanto não pode estar no domínio. -->
+- [x] A) $\mathbb{R} - \{2\}$ <!-- feedback: A função está definida para todos os reais, exceto para o valor que zera o denominador. -->
 - [ ] C) $\{2\}$ <!-- feedback: Este é justamente o único valor que NÃO pertence ao domínio. -->
 - [ ] D) $(2, +\infty)$ <!-- feedback: Valores menores que 2 também são permitidos, desde que não sejam exatamente 2. -->
 
@@ -126,8 +126,8 @@ Seja $f: \mathbb{R} \to \mathbb{R}$ uma função tal que $f(x) = x^2 + 1$. Qual 
 
 ### Opciones
 - [ ] A) $\mathbb{R}$ <!-- feedback: x² nunca resulta em valores negativos, então a imagem não pode ser todos os reais. -->
-- [ ] B) $[0, +\infty)$ <!-- feedback: Quase correto, mas como somamos 1 ao x², o valor mínimo será 1, não 0. -->
-- [x] C) $[1, +\infty)$ <!-- feedback: Como x² ≥ 0 para qualquer x real, então x² + 1 ≥ 1. -->
+- [ ] C) $[0, +\infty)$ <!-- feedback: Quase correto, mas como somamos 1 ao x², o valor mínimo será 1, não 0. -->
+- [x] B) $[1, +\infty)$ <!-- feedback: Como x² ≥ 0 para qualquer x real, então x² + 1 ≥ 1. -->
 - [ ] D) $(-\infty, 1]$ <!-- feedback: A função cresce para o infinito positivo, não negativo. -->
 
 ### Explicacion Pedagogica
@@ -145,9 +145,9 @@ Dadas as funções $f(x) = 2x + 3$ e $g(x) = 5x - 6$, para qual valor de $x$ tem
 
 ### Opciones
 - [ ] A) $x = 1$ <!-- feedback: f(1) = 5 e g(1) = -1. Diferentes. -->
-- [x] B) $x = 3$ <!-- feedback: f(3) = 2(3)+3 = 9 e g(3) = 5(3)-6 = 9. Iguais. -->
-- [ ] C) $x = -3$ <!-- feedback: f(-3) = -3 e g(-3) = -21. Diferentes. -->
-- [ ] D) $x = 0$ <!-- feedback: f(0) = 3 e g(0) = -6. Diferentes. -->
+- [x] D) $x = 3$ <!-- feedback: f(3) = 2(3)+3 = 9 e g(3) = 5(3)-6 = 9. Iguais. -->
+- [ ] B) $x = -3$ <!-- feedback: f(-3) = -3 e g(-3) = -21. Diferentes. -->
+- [ ] C) $x = 0$ <!-- feedback: f(0) = 3 e g(0) = -6. Diferentes. -->
 
 ### Explicacion Pedagogica
 Igualamos as expressões: $2x + 3 = 5x - 6$. Isolando $x$: $3 + 6 = 5x - 2x \Rightarrow 9 = 3x \Rightarrow x = 3$.
@@ -163,8 +163,8 @@ Igualamos as expressões: $2x + 3 = 5x - 6$. Isolando $x$: $3 + 6 = 5x - 2x \Rig
 Se $f(x) = \sqrt{x-4}$ é uma função de variável real, qual é o seu domínio?
 
 ### Opciones
-- [ ] A) $x > 4$ <!-- feedback: O valor x = 4 é permitido, pois √0 existe e é 0. -->
-- [x] B) $x \geq 4$ <!-- feedback: Para que a raiz quadrada seja um número real, o radicando deve ser maior ou igual a zero. -->
+- [ ] B) $x > 4$ <!-- feedback: O valor x = 4 é permitido, pois √0 existe e é 0. -->
+- [x] A) $x \geq 4$ <!-- feedback: Para que a raiz quadrada seja um número real, o radicando deve ser maior ou igual a zero. -->
 - [ ] C) $x \leq 4$ <!-- feedback: Se x for menor que 4, teremos a raiz de um número negativo, que não é real. -->
 - [ ] D) $\mathbb{R} - \{4\}$ <!-- feedback: Valores menores que 4 devem ser excluídos, não apenas o 4. -->
 
@@ -183,9 +183,9 @@ Seja $f(x) = ax + b$. Sabendo que $f(1) = 5$ e $f(0) = 2$, determine os valores 
 
 ### Opciones
 - [ ] A) $a = 2, b = 3$ <!-- feedback: Se b=3 e a=2, f(0) seria 3, mas f(0)=2. -->
-- [x] B) $a = 3, b = 2$ <!-- feedback: f(0) = a(0) + b = 2 => b = 2. Então f(1) = a(1) + 2 = 5 => a = 3. -->
-- [ ] C) $a = 5, b = 2$ <!-- feedback: Se a=5 e b=2, f(1) seria 7, mas f(1)=5. -->
-- [ ] D) $a = 3, b = 5$ <!-- feedback: Se b=5, f(0) seria 5, mas f(0)=2. -->
+- [x] D) $a = 3, b = 2$ <!-- feedback: f(0) = a(0) + b = 2 => b = 2. Então f(1) = a(1) + 2 = 5 => a = 3. -->
+- [ ] B) $a = 5, b = 2$ <!-- feedback: Se a=5 e b=2, f(1) seria 7, mas f(1)=5. -->
+- [ ] C) $a = 3, b = 5$ <!-- feedback: Se b=5, f(0) seria 5, mas f(0)=2. -->
 
 ### Explicacion Pedagogica
 Substituímos os pontos na equação da função. De $f(0)=2$, temos $a(0) + b = 2$, logo $b = 2$. Usando $f(1)=5$, temos $a(1) + 2 = 5$, o que resulta em $a = 3$.
@@ -201,9 +201,9 @@ Substituímos os pontos na equação da função. De $f(0)=2$, temos $a(0) + b =
 Considere a função $f(x) = x^2 - 4x + 7$. Qual é o valor de $f(-1)$?
 
 ### Opciones
-- [ ] A) 4 <!-- feedback: Erro de sinal ao elevar ao quadrado ou multiplicar: (-1)² é 1, não -1. -->
-- [ ] B) 10 <!-- feedback: Erro no termo médio: -4(-1) é +4, somado ao 1 e 7 daria 12. -->
-- [x] C) 12 <!-- feedback: f(-1) = (-1)² - 4(-1) + 7 = 1 + 4 + 7 = 12. -->
+- [ ] B) 4 <!-- feedback: Erro de sinal ao elevar ao quadrado ou multiplicar: (-1)² é 1, não -1. -->
+- [ ] C) 10 <!-- feedback: Erro no termo médio: -4(-1) é +4, somado ao 1 e 7 daria 12. -->
+- [x] A) 12 <!-- feedback: f(-1) = (-1)² - 4(-1) + 7 = 1 + 4 + 7 = 12. -->
 - [ ] D) 2 <!-- feedback: Cálculo incorreto dos termos da função. -->
 
 ### Explicacion Pedagogica
@@ -221,8 +221,8 @@ Uma função $f: A \to B$ é dita **injetora** quando:
 
 ### Opciones
 - [ ] A) O conjunto imagem é igual ao contradomínio. <!-- feedback: Esta é a definição de função sobrejetora. -->
-- [x] B) Elementos distintos do domínio possuem imagens distintas no contradomínio. <!-- feedback: Correto. x1 ≠ x2 implica f(x1) ≠ f(x2). -->
-- [ ] C) Todo elemento de B é imagem de pelo menos um elemento de A. <!-- feedback: Esta também é a definição de sobrejetora. -->
+- [x] C) Elementos distintos do domínio possuem imagens distintas no contradomínio. <!-- feedback: Correto. x1 ≠ x2 implica f(x1) ≠ f(x2). -->
+- [ ] B) Todo elemento de B é imagem de pelo menos um elemento de A. <!-- feedback: Esta também é a definição de sobrejetora. -->
 - [ ] D) A função é crescente em todo o seu domínio. <!-- feedback: Funções decrescentes também podem ser injetoras. -->
 
 ### Explicacion Pedagogica
@@ -239,9 +239,9 @@ A injetividade significa que não há "colisões": cada valor de $y$ no conjunto
 Qual das seguintes condições é necessária para que uma função $f: A \to B$ admita uma função inversa $f^{-1}: B \to A$?
 
 ### Opciones
-- [ ] A) A função deve ser apenas injetora. <!-- feedback: Se não for sobrejetora, f⁻¹ não estará definida para todo o conjunto B. -->
-- [ ] B) A função deve ser apenas sobrejetora. <!-- feedback: Se não for injetora, f⁻¹ teria múltiplos valores para um mesmo x, não sendo função. -->
-- [x] C) A função deve ser bijetora. <!-- feedback: Uma função bijetora é injetora e sobrejetora ao mesmo tempo, o que permite inverter a relação perfeitamente. -->
+- [ ] B) A função deve ser apenas injetora. <!-- feedback: Se não for sobrejetora, f⁻¹ não estará definida para todo o conjunto B. -->
+- [ ] C) A função deve ser apenas sobrejetora. <!-- feedback: Se não for injetora, f⁻¹ teria múltiplos valores para um mesmo x, não sendo função. -->
+- [x] A) A função deve ser bijetora. <!-- feedback: Uma função bijetora é injetora e sobrejetora ao mesmo tempo, o que permite inverter a relação perfeitamente. -->
 - [ ] D) A função deve ser uma função do 1º grau. <!-- feedback: Funções de outros graus (como exponenciais) também podem ter inversas. -->
 
 ### Explicacion Pedagogica
@@ -278,9 +278,9 @@ Uma função é considerada **par** se $f(x) = f(-x)$ para todo $x$ no domínio.
 
 ### Opciones
 - [ ] A) $f(x) = 2x$ <!-- feedback: f(-x) = -2x, que é -f(x). Esta é uma função ímpar. -->
-- [x] B) $f(x) = x^2 + 3$ <!-- feedback: f(-x) = (-x)² + 3 = x² + 3 = f(x). Logo é par. -->
-- [ ] C) $f(x) = x^3$ <!-- feedback: f(-x) = (-x)³ = -x³. Esta é uma função ímpar. -->
-- [ ] D) $f(x) = x + 1$ <!-- feedback: f(-x) = -x + 1, que não é nem f(x) nem -f(x). -->
+- [x] D) $f(x) = x^2 + 3$ <!-- feedback: f(-x) = (-x)² + 3 = x² + 3 = f(x). Logo é par. -->
+- [ ] B) $f(x) = x^3$ <!-- feedback: f(-x) = (-x)³ = -x³. Esta é uma função ímpar. -->
+- [ ] C) $f(x) = x + 1$ <!-- feedback: f(-x) = -x + 1, que não é nem f(x) nem -f(x). -->
 
 ### Explicacion Pedagogica
 Uma função par apresenta simetria em relação ao eixo $y$. Algebricamente, substituir $x$ por $-x$ não altera a expressão final. Em $x^2 + 3$, o expoente par faz com que $(-x)^2$ seja igual a $x^2$.
@@ -297,9 +297,9 @@ Qual é a função inversa de $f(x) = 2x - 4$?
 
 ### Opciones
 - [ ] A) $f^{-1}(x) = \frac{x}{2} - 4$ <!-- feedback: Erro ao isolar x: o 4 deve mudar de sinal ao passar para o outro lado. -->
-- [x] B) $f^{-1}(x) = \frac{x + 4}{2}$ <!-- feedback: y = 2x - 4 => y + 4 = 2x => x = (y + 4)/2. Trocando as variáveis, temos f⁻¹(x) = (x + 4)/2. -->
-- [ ] C) $f^{-1}(x) = 2x + 4$ <!-- feedback: Inverter a função não é apenas trocar os sinais da expressão original. -->
-- [ ] D) $f^{-1}(x) = \frac{x - 4}{2}$ <!-- feedback: O sinal do 4 deve ser positivo na expressão inversa. -->
+- [x] D) $f^{-1}(x) = \frac{x + 4}{2}$ <!-- feedback: y = 2x - 4 => y + 4 = 2x => x = (y + 4)/2. Trocando as variáveis, temos f⁻¹(x) = (x + 4)/2. -->
+- [ ] B) $f^{-1}(x) = 2x + 4$ <!-- feedback: Inverter a função não é apenas trocar os sinais da expressão original. -->
+- [ ] C) $f^{-1}(x) = \frac{x - 4}{2}$ <!-- feedback: O sinal do 4 deve ser positivo na expressão inversa. -->
 
 ### Explicacion Pedagogica
 Para achar a inversa, chamamos $f(x)$ de $y$ e isolamos $x$: $y = 2x - 4 \Rightarrow y + 4 = 2x \Rightarrow x = \frac{y + 4}{2}$. Por fim, trocamos $x$ por $y$ para obter a lei da função inversa: $f^{-1}(x) = \frac{x + 4}{2}$.
@@ -317,8 +317,8 @@ Determine o domínio da função real $f(x) = \frac{\sqrt{x-1}}{x-3}$.
 ### Opciones
 - [ ] A) $x \geq 1$ <!-- feedback: Faltou considerar que o denominador x-3 não pode ser zero. -->
 - [ ] B) $x \neq 3$ <!-- feedback: Faltou considerar que x-1 deve ser maior ou igual a zero para a raiz ser real. -->
-- [x] C) $[1, 3) \cup (3, +\infty)$ <!-- feedback: De x-1 ≥ 0 temos x ≥ 1. De x-3 ≠ 0 temos x ≠ 3. A combinação é x ≥ 1 e x ≠ 3. -->
-- [ ] D) $(1, 3)$ <!-- feedback: O domínio estende-se para além do 3. -->
+- [x] D) $[1, 3) \cup (3, +\infty)$ <!-- feedback: De x-1 ≥ 0 temos x ≥ 1. De x-3 ≠ 0 temos x ≠ 3. A combinação é x ≥ 1 e x ≠ 3. -->
+- [ ] C) $(1, 3)$ <!-- feedback: O domínio estende-se para além do 3. -->
 
 ### Explicacion Pedagogica
 Temos duas restrições: 1) O radicando de uma raiz de índice par deve ser não negativo ($x-1 \geq 0 \Rightarrow x \geq 1$); 2) O denominador não pode ser nulo ($x-3 \neq 0 \Rightarrow x \neq 3$). O domínio é a interseção dessas condições.
@@ -336,8 +336,8 @@ Considere a função de Dirichlet definida como $f(x) = 1$ se $x$ é racional e 
 ### Opciones
 - [ ] A) O conjunto imagem da função é o intervalo $[0, 1]$. <!-- feedback: Incorreto. A imagem contém apenas dois pontos discretos: {0, 1}. -->
 - [ ] B) A função é injetora. <!-- feedback: Incorreto. Muitos valores de x levam ao mesmo resultado (todos os racionais levam a 1). -->
-- [x] C) O domínio da função é o conjunto dos números reais $\mathbb{R}$. <!-- feedback: Correto, pois todo número real é ou racional ou irracional, logo a função está definida para todo x real. -->
-- [ ] D) O gráfico desta função é uma linha contínua. <!-- feedback: Incorreto. É uma função extremamente descontínua em todos os pontos. -->
+- [x] D) O domínio da função é o conjunto dos números reais $\mathbb{R}$. <!-- feedback: Correto, pois todo número real é ou racional ou irracional, logo a função está definida para todo x real. -->
+- [ ] C) O gráfico desta função é uma linha contínua. <!-- feedback: Incorreto. É uma função extremamente descontínua em todos os pontos. -->
 
 ### Explicacion Pedagogica
 A função de Dirichlet está definida para todos os números reais, pois o conjunto dos reais é a união dos racionais com os irracionais. Seu domínio é $\mathbb{R}$ e sua imagem é o conjunto finito $\{0, 1\}$.
@@ -392,9 +392,9 @@ Dados os conjuntos $A = \{1, 2, 3\}$ e $B = \{a, b, c, d, e\}$, qual é o númer
 
 ### Opciones
 - [ ] A) 125 <!-- feedback: Este é o número total de funções (5³), não apenas as injetoras. -->
-- [x] B) 60 <!-- feedback: Usamos arranjo simples: A(5, 3) = 5 * 4 * 3 = 60. -->
-- [ ] C) 10 <!-- feedback: Este é o número de subconjuntos de 3 elementos de B (combinação). -->
-- [ ] D) 15 <!-- feedback: Cálculo incorreto das possibilidades. -->
+- [x] D) 60 <!-- feedback: Usamos arranjo simples: A(5, 3) = 5 * 4 * 3 = 60. -->
+- [ ] B) 10 <!-- feedback: Este é o número de subconjuntos de 3 elementos de B (combinação). -->
+- [ ] C) 15 <!-- feedback: Cálculo incorreto das possibilidades. -->
 
 ### Explicacion Pedagogica
 Para uma função ser injetora, cada elemento de $A$ deve escolher um elemento diferente de $B$. O primeiro elemento de $A$ tem 5 opções em $B$, o segundo tem 4 opções restantes e o terceiro tem 3 opções. Pelo Princípio Fundamental da Contagem: $5 \cdot 4 \cdot 3 = 60$.

@@ -34,11 +34,11 @@ creador: "Jules-Agent"
 Choose the correct option: 'I ___ reading a book right now.'
 
 ### Opciones
-- [x] A) am
+- [x] C) am
   <!-- feedback: Correct! -->
-- [ ] B) is
+- [ ] A) is
   <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) are
+- [ ] B) are
   <!-- feedback: Incorrect. Review the concept. -->
 - [ ] D) be
   <!-- feedback: Incorrect. Review the concept. -->
@@ -57,11 +57,11 @@ Present continuous: I am + verb-ing.
 What does 'benevolent' mean?
 
 ### Opciones
-- [x] A) Kind and generous
+- [x] C) Kind and generous
   <!-- feedback: Correct! -->
-- [ ] B) Mean and cruel
+- [ ] A) Mean and cruel
   <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) Quick and fast
+- [ ] B) Quick and fast
   <!-- feedback: Incorrect. Review the concept. -->
 - [ ] D) Slow and lazy
   <!-- feedback: Incorrect. Review the concept. -->
@@ -80,11 +80,11 @@ What does 'benevolent' mean?
 Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
 
 ### Opciones
-- [x] A) Bees are important for pollination and honey
+- [x] C) Bees are important for pollination and honey
   <!-- feedback: Correct! -->
-- [ ] B) Bees are dangerous insects
+- [ ] A) Bees are dangerous insects
   <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) Honey is the only product bees make
+- [ ] B) Honey is the only product bees make
   <!-- feedback: Incorrect. Review the concept. -->
 - [ ] D) Flowers don't need bees
   <!-- feedback: Incorrect. Review the concept. -->
@@ -126,13 +126,13 @@ Which is the correct past form of 'go'?
 Which sentence uses the present simple correctly?
 
 ### Opciones
-- [x] A) She goes to school every day.
+- [x] D) She goes to school every day.
   <!-- feedback: Correct! -->
-- [ ] B) She go to school every day.
+- [ ] A) She go to school every day.
   <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) She going to school every day.
+- [ ] B) She going to school every day.
   <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) She gone to school every day.
+- [ ] C) She gone to school every day.
   <!-- feedback: Incorrect. Review the concept. -->
 
 ### Explicacion Pedagogica
@@ -149,9 +149,9 @@ Present simple: subject + verb(-s for he/she/it).
 Choose the correct option: 'I ___ reading a book right now.'
 
 ### Opciones
-- [x] A) am
+- [x] B) am
   <!-- feedback: Correct! -->
-- [ ] B) is
+- [ ] A) is
   <!-- feedback: Incorrect. Review the concept. -->
 - [ ] C) are
   <!-- feedback: Incorrect. Review the concept. -->
@@ -172,11 +172,11 @@ Present continuous: I am + verb-ing.
 What does 'benevolent' mean?
 
 ### Opciones
-- [x] A) Kind and generous
+- [x] C) Kind and generous
   <!-- feedback: Correct! -->
-- [ ] B) Mean and cruel
+- [ ] A) Mean and cruel
   <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) Quick and fast
+- [ ] B) Quick and fast
   <!-- feedback: Incorrect. Review the concept. -->
 - [ ] D) Slow and lazy
   <!-- feedback: Incorrect. Review the concept. -->
@@ -195,11 +195,11 @@ What does 'benevolent' mean?
 Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
 
 ### Opciones
-- [x] A) Bees are important for pollination and honey
+- [x] C) Bees are important for pollination and honey
   <!-- feedback: Correct! -->
-- [ ] B) Bees are dangerous insects
+- [ ] A) Bees are dangerous insects
   <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) Honey is the only product bees make
+- [ ] B) Honey is the only product bees make
   <!-- feedback: Incorrect. Review the concept. -->
 - [ ] D) Flowers don't need bees
   <!-- feedback: Incorrect. Review the concept. -->
@@ -241,9 +241,9 @@ Which is the correct past form of 'go'?
 Which sentence uses the present simple correctly?
 
 ### Opciones
-- [x] A) She goes to school every day.
+- [x] B) She goes to school every day.
   <!-- feedback: Correct! -->
-- [ ] B) She go to school every day.
+- [ ] A) She go to school every day.
   <!-- feedback: Incorrect. Review the concept. -->
 - [ ] C) She going to school every day.
   <!-- feedback: Incorrect. Review the concept. -->
@@ -287,9 +287,9 @@ Present continuous: I am + verb-ing.
 What does 'benevolent' mean?
 
 ### Opciones
-- [x] A) Kind and generous
+- [x] B) Kind and generous
   <!-- feedback: Correct! -->
-- [ ] B) Mean and cruel
+- [ ] A) Mean and cruel
   <!-- feedback: Incorrect. Review the concept. -->
 - [ ] C) Quick and fast
   <!-- feedback: Incorrect. Review the concept. -->
@@ -310,11 +310,11 @@ What does 'benevolent' mean?
 Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
 
 ### Opciones
-- [x] A) Bees are important for pollination and honey
+- [x] C) Bees are important for pollination and honey
   <!-- feedback: Correct! -->
-- [ ] B) Bees are dangerous insects
+- [ ] A) Bees are dangerous insects
   <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) Honey is the only product bees make
+- [ ] B) Honey is the only product bees make
   <!-- feedback: Incorrect. Review the concept. -->
 - [ ] D) Flowers don't need bees
   <!-- feedback: Incorrect. Review the concept. -->
@@ -379,9 +379,9 @@ Present simple: subject + verb(-s for he/she/it).
 Choose the correct option: 'I ___ reading a book right now.'
 
 ### Opciones
-- [x] A) am
+- [x] B) am
   <!-- feedback: Correct! -->
-- [ ] B) is
+- [ ] A) is
   <!-- feedback: Incorrect. Review the concept. -->
 - [ ] C) are
   <!-- feedback: Incorrect. Review the concept. -->
@@ -402,13 +402,13 @@ Present continuous: I am + verb-ing.
 What does 'benevolent' mean?
 
 ### Opciones
-- [x] A) Kind and generous
+- [x] D) Kind and generous
   <!-- feedback: Correct! -->
-- [ ] B) Mean and cruel
+- [ ] A) Mean and cruel
   <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) Quick and fast
+- [ ] B) Quick and fast
   <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) Slow and lazy
+- [ ] C) Slow and lazy
   <!-- feedback: Incorrect. Review the concept. -->
 
 ### Explicacion Pedagogica
@@ -425,9 +425,9 @@ What does 'benevolent' mean?
 Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
 
 ### Opciones
-- [x] A) Bees are important for pollination and honey
+- [x] B) Bees are important for pollination and honey
   <!-- feedback: Correct! -->
-- [ ] B) Bees are dangerous insects
+- [ ] A) Bees are dangerous insects
   <!-- feedback: Incorrect. Review the concept. -->
 - [ ] C) Honey is the only product bees make
   <!-- feedback: Incorrect. Review the concept. -->
@@ -471,9 +471,9 @@ Which is the correct past form of 'go'?
 Which sentence uses the present simple correctly?
 
 ### Opciones
-- [x] A) She goes to school every day.
+- [x] B) She goes to school every day.
   <!-- feedback: Correct! -->
-- [ ] B) She go to school every day.
+- [ ] A) She go to school every day.
   <!-- feedback: Incorrect. Review the concept. -->
 - [ ] C) She going to school every day.
   <!-- feedback: Incorrect. Review the concept. -->

@@ -36,9 +36,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ### Opciones
 - [ ] A) Variación diastrática (sociolecto).
   <!-- feedback: Incorrecto. La variación diastrática se asocia al estrato social o cultural del hablante, no al origen geográfico. -->
-- [x] B) Variación diatópica (dialecto).
+- [x] C) Variación diatópica (dialecto).
   <!-- feedback: ¡Correcto! La variación diatópica o geográfica describe los cambios y particularidades léxicas, fonéticas o morfológicas que adopta la lengua en distintos puntos geográficos de su dominio. -->
-- [ ] C) Variación diafásica (registro).
+- [ ] B) Variación diafásica (registro).
   <!-- feedback: Incorrecto. La variación diafásica se relaciona con la situación y el nivel de formalidad escogido por el emisor. -->
 - [ ] D) Variación diacrónica (histórica).
   <!-- feedback: Incorrecto. La variación diacrónica se ocupa de la evolución de la lengua a través de las distintas épocas de la historia. -->
@@ -84,9 +84,9 @@ La variación diafásica concierne a los registros de habla (formales o informal
 ### Opciones
 - [ ] A) Tuteo pronominal clásico con desinencia de segunda persona plural.
   <!-- feedback: Incorrecto. No hay tuteo ('tú') ni desinencia de segunda persona del plural ('sabéis'). -->
-- [x] B) Voseo pronominal y verbal rioplatense, caracterizado por el uso de 'vos' y la conjugación del verbo aguda con tilde ('sabés' en lugar de 'sabes' grave).
+- [x] C) Voseo pronominal y verbal rioplatense, caracterizado por el uso de 'vos' y la conjugación del verbo aguda con tilde ('sabés' en lugar de 'sabes' grave).
   <!-- feedback: ¡Correcto! El español de Uruguay se caracteriza diatópicamente por el voseo pronominal ('vos') y verbal ('sabés'). La conjugación verbal del voseo deriva de la segunda persona plural clásica con elisión de la 'i' intervocálica, resultando una palabra aguda con acentuación propia. -->
-- [ ] C) Voseo mixto reverencial del español del siglo XV.
+- [ ] B) Voseo mixto reverencial del español del siglo XV.
   <!-- feedback: Incorrecto. El voseo reverencial medieval ('vos sabéis') se usaba para dirigirse a reyes o nobles; el voseo uruguayo moderno es una forma de tratamiento familiar ordinaria. -->
 - [ ] D) Desviación sintáctica vulgar proscrita por los diccionarios oficiales de América.
   <!-- feedback: Incorrecto. El voseo rioplatense está totalmente legitimado gramaticalmente y es aceptado en los registros cultos de la región. -->
@@ -106,9 +106,9 @@ El voseo típico de Uruguay es una variante diatópica que afecta la morfología
 ¿Qué concepto describe la destreza de estos hablantes para transitar con éxito entre distintos códigos y registros lingüísticos según la situación?
 
 ### Opciones
-- [ ] A) Monolingüismo rígido.
+- [ ] B) Monolingüismo rígido.
   <!-- feedback: Incorrecto. El monolingüismo rígido se opone al tránsito y alternancia fluida de sistemas que muestra el grupo. -->
-- [x] B) Competencia sociolingüística y plurilingüismo.
+- [x] A) Competencia sociolingüística y plurilingüismo.
   <!-- feedback: ¡Correcto! La competencia sociolingüística es la capacidad del hablante de usar de manera adecuada los diferentes registros (diafásicos) y variedades (diatópicas o diastráticas) que domina, adaptándose a los fines prácticos de la comunicación social. -->
 - [ ] C) Pérdida de la norma culta de la lengua.
   <!-- feedback: Incorrecto. Alternar registros de forma exitosa no es una pérdida del idioma, sino una riqueza expresiva funcional sofisticada. -->
@@ -132,11 +132,11 @@ Un hablante competente de la lengua posee plasticidad comunicativa: sabe adaptar
 Identificá cuáles vocablos o formas corresponden a rasgos diatópicos del Uruguay y cuáles denotan un registro diafásico coloquial informal.
 
 ### Opciones
-- [x] A) Los rasgos diatópicos uruguayos son 'ómnibus', 'pesos uruguayos', 'gurisa' y el voseo ('tenés', 'disculpá'); el registro coloquial diafásico se evidencia en 'che' y el apócope de intensidad 're' ('re seco').
+- [x] C) Los rasgos diatópicos uruguayos son 'ómnibus', 'pesos uruguayos', 'gurisa' y el voseo ('tenés', 'disculpá'); el registro coloquial diafásico se evidencia en 'che' y el apócope de intensidad 're' ('re seco').
   <!-- feedback: ¡Correcto! Los términos de transporte, moneda, denominación generacional de niños/jóvenes y los verbos voseantes definen el dialecto rioplatense de Uruguay (diatopia). La informalidad de cercanía se refuerza con el vocativo interjectivo 'che' y el prefijo intensificador coloquial 're' (diafasia). -->
-- [ ] B) Todo el enunciado es formal culta internacional sin marcas dialectales rioplatenses.
+- [ ] A) Todo el enunciado es formal culta internacional sin marcas dialectales rioplatenses.
   <!-- feedback: Incorrecto. Hay abundantes modismos locales imposibles de hallar en textos académicos internacionales de España o México. -->
-- [ ] C) El término 'pesos uruguayos' es un error diastrático de baja escolaridad extrema del emisor.
+- [ ] B) El término 'pesos uruguayos' es un error diastrático de baja escolaridad extrema del emisor.
   <!-- feedback: Incorrecto. Es la denominación legal y oficial de la moneda de curso corriente en la República Oriental del Uruguay. -->
 - [ ] D) La palabra 'boletero' pertenece a la variación diacrónica de las lenguas romances muertas.
   <!-- feedback: Incorrecto. 'Boletero' es un término activo de la variedad diatópica uruguaya para el cobrador del ómnibus. -->
@@ -182,9 +182,9 @@ La variación diastrática (sociolectal) engloba los usos característicos de gr
 ### Opciones
 - [ ] A) Un registro formal culto con tuteo estricto peninsular para evitar regionalismos rioplatenses.
   <!-- feedback: Incorrecto. El relato deportivo popular perdería emoción y cercanía con el público uruguayo si se excluyeran las marcas de voseo y el dialecto rioplatense local. -->
-- [x] B) Un registro coloquial-profesional dinámico, empleando la terminología técnica del fútbol ('córner', 'tiro libre', 'zaguero') combinada con rasgos de la entonación y vocabulario del español del Uruguay (voseo afectivo informal controlado).
+- [x] C) Un registro coloquial-profesional dinámico, empleando la terminología técnica del fútbol ('córner', 'tiro libre', 'zaguero') combinada con rasgos de la entonación y vocabulario del español del Uruguay (voseo afectivo informal controlado).
   <!-- feedback: ¡Correcto! El relato exige dinamismo y proximidad con la hinchada (registro coloquial y jerga futbolística profesional) sin perder de vista que la transmisión debe ser entendible y organizada para todo el país, validando las particularidades dialectales uruguayas. -->
-- [ ] C) Un lenguaje abstracto de tipo filosófico-académico neutro sin emitir exclamaciones sonoras.
+- [ ] B) Un lenguaje abstracto de tipo filosófico-académico neutro sin emitir exclamaciones sonoras.
   <!-- feedback: Incorrecto. Un partido de fútbol exige una intensidad dramática y descriptiva ajena al distanciamiento formal de un ensayo científico. -->
 - [ ] D) El uso exclusivo del portuñol de Rivera para que los oyentes brasileños se sumen a la transmisión.
   <!-- feedback: Incorrecto. Al ser una transmisión de alcance nacional uruguayo, el idioma de referencia de la señal es el español estándar local. -->
@@ -229,9 +229,9 @@ El léxico urbano rioplatense e informal (el lunfardo o la jerga de los jóvenes
 Analizá la selección pronominal y verbal en este fragmento. ¿Qué variedad de tratamiento de segunda persona singular rioplatense se observa en la obra literaria de Vilariño?
 
 ### Opciones
-- [x] A) El uso del tuteo pronominal clásico de España ('no te veré').
+- [x] B) El uso del tuteo pronominal clásico de España ('no te veré').
   <!-- feedback: ¡Correcto! A diferencia del habla coloquial corriente dominada por el 'vos', en la tradición lírica uruguaya del siglo XX (Generación del 45, a la cual perteneció Vilariño) alternó con frecuencia el uso del tuteo pronominal ('te veré', 'verás') como recurso estilístico literario formal. -->
-- [ ] B) La incorporación forzada de términos del dialecto del norte o portuñol.
+- [ ] A) La incorporación forzada de términos del dialecto del norte o portuñol.
   <!-- feedback: Incorrecto. No hay rastros léxicos o fonéticos del portugués en el poema de Vilariño. -->
 - [ ] C) El voseo reverencial medieval con terminaciones en -ades.
   <!-- feedback: Incorrecto. No se utiliza el arcaísmo medieval plural del tipo 'vos verades' o 'vos amades'. -->
@@ -278,9 +278,9 @@ El vocativo 'bo' / 'vo' es un marcador pragmático uruguayo (diatopia). La ling�
 Analizá la morfología verbal de esta nota de instrucciones. ¿Qué patrón lingüístico de voseo se manifiesta y cómo se clasifica?
 
 ### Opciones
-- [x] A) Voseo verbal en modo imperativo ('calentá') y presente de subjuntivo negativo voseante ('no gastés'), característico de la norma rioplatense.
+- [x] B) Voseo verbal en modo imperativo ('calentá') y presente de subjuntivo negativo voseante ('no gastés'), característico de la norma rioplatense.
   <!-- feedback: ¡Correcto! La nota emplea el voseo imperativo afirmativo agudo ('calentá') y el voseo del presente de subjuntivo negativo rioplatense ('no gastés' en vez de 'no gastes' grave del tuteo). -->
-- [ ] B) Tuteo imperativo peninsular caracterizado por conservar la desinencia -d en el mandato.
+- [ ] A) Tuteo imperativo peninsular caracterizado por conservar la desinencia -d en el mandato.
   <!-- feedback: Incorrecto. No dice 'calentad' (segunda persona plural de España), sino la forma aguda con tilde 'calentá'. -->
 - [ ] C) Un error morfológico fruto de la hibridación fronteriza de Salto con la lengua portuguesa.
   <!-- feedback: Incorrecto. La estructura del subjuntivo e imperativo del voseo es genuinamente hispánica y rioplatense, sin influencia de fronteras brasileñas. -->
@@ -304,9 +304,9 @@ El voseo en el modo imperativo ('calentá') y en los mandatos negativos con pres
 Analizá el diálogo. ¿Qué variables de registro y dialecto se detectan en la respuesta del testigo y cómo repercuten en el principio de adecuación?
 
 ### Opciones
-- [x] A) El testigo viola la adecuación del registro formal del juzgado al usar el intensificador coloquial 're' ('re rápido') en lugar del adverbio formal 'muy rápido' o 'sumamente rápido'.
+- [x] B) El testigo viola la adecuación del registro formal del juzgado al usar el intensificador coloquial 're' ('re rápido') en lugar del adverbio formal 'muy rápido' o 'sumamente rápido'.
   <!-- feedback: ¡Correcto! El contexto judicial exige un registro formal culto (adecuación estricta). Al usar el prefijo coloquial 're' (rasgo diafásico informal rioplatense), el testigo tiene un desliz de registro coloquial dentro de un ámbito formal institucional. -->
-- [ ] B) El testigo cometió un delito gramatical grave al usar la palabra 'avenida', que carece de asidero legal.
+- [ ] A) El testigo cometió un delito gramatical grave al usar la palabra 'avenida', que carece de asidero legal.
   <!-- feedback: Incorrecto. 'Avenida' es un sustantivo común de la lengua española perfectamente adecuado para describir la vía pública. -->
 - [ ] C) El testigo habla en dialecto fronterizo portugués mezclado con el español del siglo de oro.
   <!-- feedback: Incorrecto. Su habla es rioplatense urbana coloquial ordinaria, no dialecto fronterizo luso-uruguayo. -->
@@ -330,11 +330,11 @@ El desliz de registro ocurre cuando el hablante utiliza en un contexto formal (c
 ### Opciones
 - [ ] A) Que los uruguayos no comprenden la sintaxis de la segunda persona y cometen un error involuntario de concordancia gramatical.
   <!-- feedback: Incorrecto. No es un error individual o aleatorio, sino un patrón lingüístico sistemático extendido y respetado socialmente en Uruguay. -->
-- [x] B) Que la norma de Uruguay posee un mapa dialectal e identitario singular y diferenciado del argentino, donde conviven el voseo pleno, el voseo mixto pronominal de prestigio y el tuteo de matiz lírico o formal.
+- [x] D) Que la norma de Uruguay posee un mapa dialectal e identitario singular y diferenciado del argentino, donde conviven el voseo pleno, el voseo mixto pronominal de prestigio y el tuteo de matiz lírico o formal.
   <!-- feedback: ¡Correcto! El voseo mixto pronominal ('tú sabés', 'tú tenés') es una marca identitaria singular del español del Uruguay. Demuestra una sutil diferenciación con la norma argentina (que es eminentemente de voseo pleno 'vos sabés') y refleja la complejidad del continuum de variedades rioplatenses. -->
-- [ ] C) Que la educación pública en Uruguay prohíbe el uso de pronombres debido a la herencia colonial portuguesa.
+- [ ] B) Que la educación pública en Uruguay prohíbe el uso de pronombres debido a la herencia colonial portuguesa.
   <!-- feedback: Incorrecto. No hay ninguna prohibición biológica o escolar de los pronombres personales de sujeto en el sistema educativo nacional. -->
-- [ ] D) Que el tuteo es un dialecto extranjero ininteligible para los jóvenes del interior del país.
+- [ ] C) Que el tuteo es un dialecto extranjero ininteligible para los jóvenes del interior del país.
   <!-- feedback: Incorrecto. El tuteo pronominal es comprendido y alternado con naturalidad en todo el territorio de Uruguay. -->
 
 ### Explicacion Pedagogica
@@ -352,11 +352,11 @@ El voseo mixto ('tú' + verbo voseante: 'tú cantás') es una de las mayores sin
 ¿Cómo incide la variable diastrática (nivel sociocultural o sociolecto) en la valoración social de la pronunciación del fonema consonántico /s/ implosivo (el sonido de la s al final de sílaba, como en 'estamos' o 'gurises') en la variedad hablada de Uruguay?
 
 ### Opciones
-- [x] A) La elisión absoluta o pérdida del fonema /s/ al final de palabra suele asociarse en ámbitos formales uruguayos a registros informales o estratos de menor escolaridad (sociolectos populares), mientras que la aspiración suave o la pronunciación plena gozan de mayor prestigio sociolectal formal.
+- [x] C) La elisión absoluta o pérdida del fonema /s/ al final de palabra suele asociarse en ámbitos formales uruguayos a registros informales o estratos de menor escolaridad (sociolectos populares), mientras que la aspiración suave o la pronunciación plena gozan de mayor prestigio sociolectal formal.
   <!-- feedback: ¡Correcto! La pronunciación de la /s/ implosiva es un marcador diastrático de importancia. La omisión total ('estamo', 'gurise') tiene a menudo sanción social en la norma escolar culta formal, prefiriéndose la aspiración suave típica o la articulación plena de la sibilante en situaciones de prestigio. -->
-- [ ] B) La pérdida del sonido sibilante final es obligatoria en todos los textos formales del gobierno de Montevideo.
+- [ ] A) La pérdida del sonido sibilante final es obligatoria en todos los textos formales del gobierno de Montevideo.
   <!-- feedback: Incorrecto. El registro escrito y la locución formal cuidan escrupulosamente la concordancia y pronunciación de las consonantes sibilantes plurales. -->
-- [ ] C) En Uruguay todos los habitantes pronuncian la /s/ final de forma idéntica, anulando por completo cualquier tipo de variable social.
+- [ ] B) En Uruguay todos los habitantes pronuncian la /s/ final de forma idéntica, anulando por completo cualquier tipo de variable social.
   <!-- feedback: Incorrecto. Hay una amplia y rica variedad en el tratamiento fonético de la sibilante según el nivel socioeducativo de los hablantes. -->
 - [ ] D) La aspiración de la /s/ implosiva es una patología muscular propia de los climas fríos costeros uruguayos.
   <!-- feedback: Incorrecto. Es un fenómeno fonético-fonológico cultural e histórico del español atlántico y meridional, exento de patologías físicas. -->
@@ -379,9 +379,9 @@ Analizá los préstamos léxicos y la alternancia de códigos presentes en este 
 ### Opciones
 - [ ] A) Un desvío dialectal diacrónico que copia el español romance medieval rústico.
   <!-- feedback: Incorrecto. Es un discurso contemporáneo que acopla términos del español e italiano sin reproducir el castellano de Alfonso X el Sabio. -->
-- [x] B) Al fenómeno de bilingüismo y contacto lingüístico fronterizo luso-español del norte uruguayo (Portuñol / DPU), donde los hablantes operan en un continuum dialectal y estilístico legítimo de su zona geográfica (diatopia).
+- [x] C) Al fenómeno de bilingüismo y contacto lingüístico fronterizo luso-español del norte uruguayo (Portuñol / DPU), donde los hablantes operan en un continuum dialectal y estilístico legítimo de su zona geográfica (diatopia).
   <!-- feedback: ¡Correcto! Rivera presenta una situación típica de diglosia, bilingüismo o contacto lingüístico estrecho. La alternancia de vocablos del portugués y español ('vizinhos', 'compartilhamos') es un reflejo de este dialecto o continuum fronterizo histórico. -->
-- [ ] C) Un error de habla patológico de baja escolaridad extrema que imposibilita la redacción académica formal.
+- [ ] B) Un error de habla patológico de baja escolaridad extrema que imposibilita la redacción académica formal.
   <!-- feedback: Incorrecto. Es un discurso protocolar de hermandad diseñado inteligentemente con fines pragmáticos de cortesía bilingüe. -->
 - [ ] D) Un préstamo formal obligatorio establecido por la Real Academia Española para todas las intendencias norteñas.
   <!-- feedback: Incorrecto. La RAE no obliga al uso de palabras en portugués en la correspondencia oficial de Uruguay. -->
@@ -401,9 +401,9 @@ El portuñol fronterizo o DPU es una de las variedades diatópicas y culturales 
 ¿Qué nos demuestra esta investigación sobre el panorama del español de Uruguay?
 
 ### Opciones
-- [ ] A) Que en el interior de Uruguay se habla una lengua romance muerta totalmente diferente al español rioplatense.
+- [ ] B) Que en el interior de Uruguay se habla una lengua romance muerta totalmente diferente al español rioplatense.
   <!-- feedback: Incorrecto. Es la misma lengua española con variaciones regionales perfectamente entendibles para cualquier montevideano. -->
-- [x] B) Que el país posee microvariaciones diatópicas internas que matizan y enriquecen la norma nacional rioplatense general.
+- [x] A) Que el país posee microvariaciones diatópicas internas que matizan y enriquecen la norma nacional rioplatense general.
   <!-- feedback: ¡Correcto! A pesar de la relativa homogeneidad del español en Uruguay, existen variaciones dialectales microgeográficas significativas (como las diferencias entre la costa este, el norte fronterizo y el sur metropolitano). -->
 - [ ] C) Que los habitantes de Rocha violan de forma violenta el sistema de concordancia establecido por la escuela pública.
   <!-- feedback: Incorrecto. El voseo mixto pronominal ('tú' + verbo voseante) es un patrón gramaticalmente estable de gran prestigio regional en Uruguay. -->
@@ -427,11 +427,11 @@ El español rioplatense uruguayo no es plano; tiene matices y variantes departam
 ### Opciones
 - [ ] A) Desconocer que el acento madrileño es biológicamente superior para el desarrollo de las cuerdas vocales de la niñez.
   <!-- feedback: Incorrecto. La lingüística rechaza toda jerarquía biológica o de superioridad anatómica de unos acentos sobre otros. -->
-- [x] B) Confundir el dialecto de una región de España (Castilla) con una norma universal absoluta prescriptiva, ignorando que el voseo rioplatense es un rasgo dialectal diatópico legítimo que goza de su propia norma culta de prestigio e institucionalidad en Uruguay y Argentina.
+- [x] D) Confundir el dialecto de una región de España (Castilla) con una norma universal absoluta prescriptiva, ignorando que el voseo rioplatense es un rasgo dialectal diatópico legítimo que goza de su propia norma culta de prestigio e institucionalidad en Uruguay y Argentina.
   <!-- feedback: ¡Correcto! La postura de la cita incurre en un etnocentrismo y purismo lingüístico superado por la ciencia. El voseo es un patrón gramatical regular, prestigioso y normativo en el Río de la Plata, poseyendo la misma legitimidad que el tuteo peninsular o americano. -->
-- [ ] C) Sostener que el tuteo madrileño carece de morfología verbal en segunda persona singular.
+- [ ] B) Sostener que el tuteo madrileño carece de morfología verbal en segunda persona singular.
   <!-- feedback: Incorrecto. El tuteo peninsular tiene una morfología sumamente regular y activa ('tú cantas', 'tú tienes'). -->
-- [ ] D) Ignorar que el voseo rioplatense es el único código de habla permitido por la Constitución de la República.
+- [ ] C) Ignorar que el voseo rioplatense es el único código de habla permitido por la Constitución de la República.
   <!-- feedback: Incorrecto. La Constitución no regula morfosintaxis ni impone un dialecto sobre otro en el ámbito civil uruguayo. -->
 
 ### Explicacion Pedagogica
@@ -453,11 +453,11 @@ Analizá críticamente los elementos identitarios y las funciones lingüísticas
 ### Opciones
 - [ ] A) El diálogo muestra una pérdida total de capacidad sintáctica debido a que se omiten los verbos regulares formales del español estándar de la academia.
   <!-- feedback: Incorrecto. Los verbos están conjugados perfectamente ('sale', 'caigo', 'ponés') de acuerdo con la gramática del español coloquial rioplatense. -->
-- [x] B) Los jóvenes operan con plena competencia pragmática y diafásica informal, consolidando su cohesión grupal y su identidad cultural uruguaya mediante signos típicos de su entorno habitual (mates, termo, bizcochos, 'bo', 'che', 'de más').
+- [x] D) Los jóvenes operan con plena competencia pragmática y diafásica informal, consolidando su cohesión grupal y su identidad cultural uruguaya mediante signos típicos de su entorno habitual (mates, termo, bizcochos, 'bo', 'che', 'de más').
   <!-- feedback: ¡Correcto! La competencia pragmática reside en usar la lengua de forma eficaz para el fin social buscado. Las jergas y los símbolos compartidos ('termo', 'bizcochos', 'Rambla', 'bo') consolidan el lazo afectivo de camaradería e identidad de los jóvenes. -->
-- [ ] C) El uso del término 'bizcochos' es una deformación diastrática marginal que debe corregirse de inmediato por atentar contra la pureza del idioma.
+- [ ] B) El uso del término 'bizcochos' es una deformación diastrática marginal que debe corregirse de inmediato por atentar contra la pureza del idioma.
   <!-- feedback: Incorrecto. 'Bizcocho' es la denominación prestigiosa, correcta y oficial de estas facturas panificadas en Uruguay. -->
-- [ ] D) El diálogo demuestra que los jóvenes han asimilado por completo la norma formal administrativa montevideana.
+- [ ] C) El diálogo demuestra que los jóvenes han asimilado por completo la norma formal administrativa montevideana.
   <!-- feedback: Incorrecto. El chat es altamente informal y coloquial; no es un memorándum o solicitud administrativa formal. -->
 
 ### Explicacion Pedagogica
@@ -477,9 +477,9 @@ La comunicación informal es un terreno de afirmación de identidad social. Los 
 ### Opciones
 - [ ] A) Que el docente debe abolir la enseñanza de la ortografía y permitir que cada alumno redacte de forma anárquica según su habla espontánea individual.
   <!-- feedback: Incorrecto. La ortografía unificada y la norma estándar escrita son fundamentales para preservar la cohesión de la lengua internacional. -->
-- [x] B) Que la enseñanza formal de la lengua debe abandonar el purismo monolítico monocéntrico para transitar hacia un enfoque pluricéntrico respetuoso de la variedad dialectal uruguaya, adiestrando al alumno en el dominio de los diferentes registros de habla según el principio de adecuación pragmática.
+- [x] C) Que la enseñanza formal de la lengua debe abandonar el purismo monolítico monocéntrico para transitar hacia un enfoque pluricéntrico respetuoso de la variedad dialectal uruguaya, adiestrando al alumno en el dominio de los diferentes registros de habla según el principio de adecuación pragmática.
   <!-- feedback: ¡Correcto! El enfoque curricular moderno asume la diversidad dialectal (pluricentricidad). Enseña la norma formal estándar escrita de prestigio como herramienta sin deslegitimar las variedades locales (como el voseo o el dialecto fronterizo) en sus ámbitos situacionales correspondientes. -->
-- [ ] C) Que en el liceo uruguayo solo se debe validar el español de España para conservar la pureza medieval del idioma castellano.
+- [ ] B) Que en el liceo uruguayo solo se debe validar el español de España para conservar la pureza medieval del idioma castellano.
   <!-- feedback: Incorrecto. Imponer la variedad dialectal española peninsular de manera exclusiva en América Latina carece de sentido sociolingüístico y pedagógico actual. -->
 - [ ] D) Que la gramática formal es un inventario caprichoso sin utilidad para la adquisición de la competencia comunicativa escolar.
   <!-- feedback: Incorrecto. La reflexión gramatical sobre la estructura lingüística es indispensable para optimizar la comprensión y producción textual formal. -->
@@ -500,9 +500,9 @@ La pedagogía lingüística moderna integra el respeto dialectal con la enseñan
 Evaluá críticamente el manejo de las variedades y registros lingüísticos en esta correspondencia de carácter institucional.
 
 ### Opciones
-- [ ] A) La carta posee un registro formal institucional impecable sin fisuras lingüísticas o deslices gramaticales.
+- [ ] B) La carta posee un registro formal institucional impecable sin fisuras lingüísticas o deslices gramaticales.
   <!-- feedback: Incorrecto. Hay un fuerte choque de registros y pronombres familiares que vulneran las pautas del estilo formal administrativo. -->
-- [x] B) Hay un choque disonante entre la fórmula de cortesía formal inicial ('Estimado Intendente', 'le escribo') y la irrupción abrupta del registro coloquial voseante familiar con léxico informal de habla ('si me podés', 'tengo un lío bárbaro'), violando flagrantemente la adecuación y la coherencia de registro formal requerida en este género epistolar administrativo.
+- [x] A) Hay un choque disonante entre la fórmula de cortesía formal inicial ('Estimado Intendente', 'le escribo') y la irrupción abrupta del registro coloquial voseante familiar con léxico informal de habla ('si me podés', 'tengo un lío bárbaro'), violando flagrantemente la adecuación y la coherencia de registro formal requerida en este género epistolar administrativo.
   <!-- feedback: ¡Correcto! La carta mezcla de forma inadecuada el tratamiento formal del pronombre de tercera persona ('le', 'Intendente') con el voseo coloquial familiar de segunda persona ('podés') y léxico conversacional informal ('lío bárbaro'). Esta falta de concordancia de tratamiento e inestabilidad de registro quiebra la adecuación formal requerida en el género institucional. -->
 - [ ] C) El emisor ha redactado el texto de manera adecuada utilizando portuñol formal fronterizo para facilitar la lectura del funcionario norteño.
   <!-- feedback: Incorrecto. El texto no contiene palabras en portugués fronterizo; es español estándar rioplatense coloquial mezclado de forma inadecuada con fórmulas de cortesía protocolar formal. -->

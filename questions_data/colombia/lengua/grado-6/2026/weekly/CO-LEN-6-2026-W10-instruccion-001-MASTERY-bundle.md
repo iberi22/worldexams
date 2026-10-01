@@ -34,9 +34,9 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) Contar la historia de cómo se inventó la piña en Colombia. <!-- feedback: Incorrecto. Eso es un texto narrativo. -->
-- [x] B) Guiar al receptor para que realice una acción o complete una tarea de manera secuencial y ordenada. <!-- feedback: Correcto. Los textos instructivos dan pasos a seguir para lograr un resultado. -->
-- [ ] C) Describir la belleza de los paisajes nariñenses durante la cosecha. <!-- feedback: Incorrecto. Eso es un texto descriptivo. -->
-- [ ] D) Convencer al nieto de que la cocina es la mejor profesión del mundo. <!-- feedback: Incorrecto. Eso es un texto argumentativo. -->
+- [x] D) Guiar al receptor para que realice una acción o complete una tarea de manera secuencial y ordenada. <!-- feedback: Correcto. Los textos instructivos dan pasos a seguir para lograr un resultado. -->
+- [ ] B) Describir la belleza de los paisajes nariñenses durante la cosecha. <!-- feedback: Incorrecto. Eso es un texto descriptivo. -->
+- [ ] C) Convencer al nieto de que la cocina es la mejor profesión del mundo. <!-- feedback: Incorrecto. Eso es un texto argumentativo. -->
 
 ### Explicacion Pedagogica
 Los textos instructivos tienen un propósito práctico. Su estructura está diseñada para que el receptor pueda ejecutar una serie de pasos (como una receta, un manual de armado o reglas de un juego) de forma exitosa.
@@ -55,8 +55,8 @@ Los textos instructivos tienen un propósito práctico. Su estructura está dise
 
 ### Opciones
 - [ ] A) El modo subjuntivo, porque son deseos que el colegio tiene. <!-- feedback: Incorrecto. El subjuntivo expresa deseo o duda, no órdenes directas. -->
-- [x] B) El modo imperativo, porque se utiliza para dar órdenes, mandatos o sugerencias directas. <!-- feedback: Correcto. Verbos como "llegue", "salude" y "ubíquese" son formas del imperativo. -->
-- [ ] C) El tiempo pasado, porque las acciones ya ocurrieron hace mucho tiempo. <!-- feedback: Incorrecto. Las instrucciones se dan para acciones futuras o presentes. -->
+- [x] C) El modo imperativo, porque se utiliza para dar órdenes, mandatos o sugerencias directas. <!-- feedback: Correcto. Verbos como "llegue", "salude" y "ubíquese" son formas del imperativo. -->
+- [ ] B) El tiempo pasado, porque las acciones ya ocurrieron hace mucho tiempo. <!-- feedback: Incorrecto. Las instrucciones se dan para acciones futuras o presentes. -->
 - [ ] D) El modo infinitivo exclusivamente. <!-- feedback: Incorrecto. Aunque el infinitivo también se usa en instrucciones, en este ejemplo se usan formas conjugadas del imperativo. -->
 
 ### Explicacion Pedagogica
@@ -98,8 +98,8 @@ La secuencialidad es la columna vertebral de la instrucción. Si en una receta d
 ### Opciones
 - [ ] A) Un título claro que indique qué se va a lograr. <!-- feedback: Incorrecto. El título es vital para saber de qué trata el instructivo. -->
 - [ ] B) Una lista de materiales o elementos necesarios (insumos). <!-- feedback: Incorrecto. Es fundamental saber qué se necesita antes de empezar. -->
-- [x] C) La opinión personal del autor sobre por qué el color verde es su favorito. <!-- feedback: Correcto. La instrucción debe ser objetiva; las opiniones personales sobran y pueden distraer al receptor. -->
-- [ ] D) Imágenes o diagramas que apoyen visualmente cada paso. <!-- feedback: Incorrecto. Los apoyos visuales son muy útiles en los instructivos modernos. -->
+- [x] D) La opinión personal del autor sobre por qué el color verde es su favorito. <!-- feedback: Correcto. La instrucción debe ser objetiva; las opiniones personales sobran y pueden distraer al receptor. -->
+- [ ] C) Imágenes o diagramas que apoyen visualmente cada paso. <!-- feedback: Incorrecto. Los apoyos visuales son muy útiles en los instructivos modernos. -->
 
 ### Explicacion Pedagogica
 La claridad y la precisión son las metas de la instrucción. Cualquier elemento que no contribuya a que el receptor realice la tarea (como opiniones o anécdotas irrelevantes) debe ser eliminado para evitar confusiones.
@@ -118,8 +118,8 @@ La claridad y la precisión son las metas de la instrucción. Cualquier elemento
 
 ### Opciones
 - [ ] A) Adornar el folleto para que la gente no lo bote a la basura. <!-- feedback: Incorrecto. Tienen un propósito pedagógico más allá del adorno. -->
-- [x] B) Reforzar visualmente la acción explicada en el texto, ayudando a quienes tienen dificultades de lectura o aprenden mejor viendo. <!-- feedback: Correcto. La imagen aclara la posición de las manos o el movimiento que el texto a veces no logra describir con total precisión. -->
-- [ ] C) Reemplazar totalmente al texto para que la gente no tenga que leer nada. <!-- feedback: Incorrecto. El texto y la imagen suelen ser complementarios; el texto da la precisión y la imagen la claridad visual. -->
+- [x] C) Reforzar visualmente la acción explicada en el texto, ayudando a quienes tienen dificultades de lectura o aprenden mejor viendo. <!-- feedback: Correcto. La imagen aclara la posición de las manos o el movimiento que el texto a veces no logra describir con total precisión. -->
+- [ ] B) Reemplazar totalmente al texto para que la gente no tenga que leer nada. <!-- feedback: Incorrecto. El texto y la imagen suelen ser complementarios; el texto da la precisión y la imagen la claridad visual. -->
 - [ ] D) Demostrar que el autor sabe dibujar muy bien. <!-- feedback: Incorrecto. La calidad artística es secundaria a la claridad comunicativa de la instrucción. -->
 
 ### Explicacion Pedagogica
@@ -160,8 +160,8 @@ En los textos instructivos se pueden usar tres formas principales: el imperativo
 
 ### Opciones
 - [ ] A) El de procedimiento es para niños y el de normas para adultos. <!-- feedback: Incorrecto. Ambos pueden ser para cualquier público. -->
-- [x] B) El de procedimiento busca lograr un producto u objeto; el de normas busca regular el comportamiento social en un lugar. <!-- feedback: Correcto. El reglamento establece límites de conducta, mientras que la receta establece pasos para transformar materiales. -->
-- [ ] C) El de procedimiento es opcional y el de normas es obligatorio siempre. <!-- feedback: Incorrecto. Una receta debe seguirse si se quiere el resultado; ambos tienen cierto grado de obligatoriedad según el contexto. -->
+- [x] C) El de procedimiento busca lograr un producto u objeto; el de normas busca regular el comportamiento social en un lugar. <!-- feedback: Correcto. El reglamento establece límites de conducta, mientras que la receta establece pasos para transformar materiales. -->
+- [ ] B) El de procedimiento es opcional y el de normas es obligatorio siempre. <!-- feedback: Incorrecto. Una receta debe seguirse si se quiere el resultado; ambos tienen cierto grado de obligatoriedad según el contexto. -->
 - [ ] D) No hay ninguna diferencia, ambos son listas de cosas que no se deben hacer. <!-- feedback: Incorrecto. Los procedimientos suelen ser acciones positivas (hacer algo) y las normas pueden ser negativas (no hacer algo). -->
 
 ### Explicacion Pedagogica
@@ -202,8 +202,8 @@ Un instructivo deficiente genera frustración y errores. El uso de tipografía a
 
 ### Opciones
 - [ ] A) Ninguna, es mejor empezar rápido para que alcance el tiempo. <!-- feedback: Incorrecto. Empezar sin entender la instrucción suele llevar a perder más tiempo corrigiendo errores. -->
-- [x] B) Porque la instrucción limita la tarea (qué hacer y cuánto hacer), evitando que el estudiante responda algo que no se le pidió. <!-- feedback: Correcto. Seguir instrucciones es una competencia básica que demuestra comprensión lectora y atención. -->
-- [ ] C) Para ver si el profesor cometió errores de ortografía en la instrucción. <!-- feedback: Incorrecto. El objetivo es realizar la tarea correctamente, no corregir al profesor. -->
+- [x] C) Porque la instrucción limita la tarea (qué hacer y cuánto hacer), evitando que el estudiante responda algo que no se le pidió. <!-- feedback: Correcto. Seguir instrucciones es una competencia básica que demuestra comprensión lectora y atención. -->
+- [ ] B) Para ver si el profesor cometió errores de ortografía en la instrucción. <!-- feedback: Incorrecto. El objetivo es realizar la tarea correctamente, no corregir al profesor. -->
 - [ ] D) Porque las instrucciones de los exámenes en Colombia son una forma de adivinanza. <!-- feedback: Incorrecto. Las instrucciones deben ser claras y directas, no ambigüas. -->
 
 ### Explicacion Pedagogica
@@ -222,9 +222,9 @@ Muchos errores académicos no se deben a la falta de conocimiento, sino a no seg
 ¿Por qué este diseño de instructivo es PELIGROSO en una situación de emergencia?
 
 ### Opciones
-- [ ] A) Porque el fuego quema el papel muy rápido. <!-- feedback: Incorrecto. Es un factor físico, no comunicativo. -->
-- [ ] B) Porque la gente no debería leer cuando hay un incendio. <!-- feedback: Incorrecto. La gente necesita saber cómo actuar, y el instructivo es su guía. -->
-- [x] C) Porque en una emergencia se necesita información rápida, visual y directa. Un texto largo y complejo retrasa la acción y puede causar pánico. <!-- feedback: Correcto. Los instructivos de seguridad deben ser minimalistas: dibujos grandes, flechas y verbos de acción inmediata. -->
+- [ ] B) Porque el fuego quema el papel muy rápido. <!-- feedback: Incorrecto. Es un factor físico, no comunicativo. -->
+- [ ] C) Porque la gente no debería leer cuando hay un incendio. <!-- feedback: Incorrecto. La gente necesita saber cómo actuar, y el instructivo es su guía. -->
+- [x] A) Porque en una emergencia se necesita información rápida, visual y directa. Un texto largo y complejo retrasa la acción y puede causar pánico. <!-- feedback: Correcto. Los instructivos de seguridad deben ser minimalistas: dibujos grandes, flechas y verbos de acción inmediata. -->
 - [ ] D) Porque los extintores en Colombia solo deben ser usados por bomberos. <!-- feedback: Incorrecto. Los extintores están diseñados para ser usados por cualquier persona ante un inicio de incendio. -->
 
 ### Explicacion Pedagogica

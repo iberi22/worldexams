@@ -51,8 +51,8 @@ Identificación de los elementos básicos de una expresión algebraica (término
 
 ### Opciones
 - [ ] A) 6 <!-- feedback: Incorrecto. Probablemente se cometió un error en el signo al multiplicar por el valor negativo de b. -->
-- [x] B) 18 <!-- feedback: Correcto. Sustituyendo: 3(4) - 2(-3) = 12 + 6 = 18. -->
-- [ ] C) 2 <!-- feedback: Incorrecto. Error en la operación aritmética básica tras la sustitución de valores. -->
+- [x] C) 18 <!-- feedback: Correcto. Sustituyendo: 3(4) - 2(-3) = 12 + 6 = 18. -->
+- [ ] B) 2 <!-- feedback: Incorrecto. Error en la operación aritmética básica tras la sustitución de valores. -->
 - [ ] D) -18 <!-- feedback: Incorrecto. Error de signos en el cálculo del resultado final. -->
 
 ### Explicacion Pedagogica
@@ -71,9 +71,9 @@ Cálculo del valor numérico de una expresión algebraica mediante la sustituci�
 ¿Cuál es el grado absoluto del polinomio $P(x, y) = 4x^2y^3 - 7xy^5 + 2$?
 
 ### Opciones
-- [ ] A) 2 <!-- feedback: Incorrecto. Este es solo el grado relativo a la variable x en el primer término. -->
-- [ ] B) 5 <!-- feedback: Incorrecto. Este es el grado relativo a la variable y en el segundo término. -->
-- [x] C) 6 <!-- feedback: Correcto. El grado absoluto es la mayor suma de exponentes de las variables en un término. Aquí, 1 + 5 = 6. -->
+- [ ] B) 2 <!-- feedback: Incorrecto. Este es solo el grado relativo a la variable x en el primer término. -->
+- [ ] C) 5 <!-- feedback: Incorrecto. Este es el grado relativo a la variable y en el segundo término. -->
+- [x] A) 6 <!-- feedback: Correcto. El grado absoluto es la mayor suma de exponentes de las variables en un término. Aquí, 1 + 5 = 6. -->
 - [ ] D) 11 <!-- feedback: Incorrecto. Se sumaron todos los exponentes del polinomio, lo cual no define el grado. -->
 
 ### Explicacion Pedagogica
@@ -93,8 +93,8 @@ Definición y determinación del grado absoluto de un polinomio multivariable.
 
 ### Opciones
 - [ ] A) $(3x)^2 - 5$ <!-- feedback: Incorrecto. Esta expresión representa el cuadrado del triple de un número. -->
-- [x] B) $3x^2 - 5$ <!-- feedback: Correcto. Triple indica multiplicar por 3, cuadrado de un número es x^2, y disminuido en cinco es -5. -->
-- [ ] C) $3(x - 5)^2$ <!-- feedback: Incorrecto. Esta expresión representa el triple del cuadrado de la diferencia entre un número y cinco. -->
+- [x] C) $3x^2 - 5$ <!-- feedback: Correcto. Triple indica multiplicar por 3, cuadrado de un número es x^2, y disminuido en cinco es -5. -->
+- [ ] B) $3(x - 5)^2$ <!-- feedback: Incorrecto. Esta expresión representa el triple del cuadrado de la diferencia entre un número y cinco. -->
 - [ ] D) $x^2/3 - 5$ <!-- feedback: Incorrecto. Esto representaría la tercera parte del cuadrado, no el triple. -->
 
 ### Explicacion Pedagogica
@@ -113,8 +113,8 @@ Traducción de enunciados en lenguaje natural a expresiones en lenguaje algebrai
 Simplifica los términos semejantes de la expresión: $8x^2 - 3x + 5 - 2x^2 + 7x - 9$.
 
 ### Opciones
-- [ ] A) $10x^2 + 4x - 4$ <!-- feedback: Incorrecto. Se sumaron los términos de x^2 en lugar de restarlos. -->
-- [x] B) $6x^2 + 4x - 4$ <!-- feedback: Correcto. (8-2)x^2 + (-3+7)x + (5-9) = 6x^2 + 4x - 4. -->
+- [ ] B) $10x^2 + 4x - 4$ <!-- feedback: Incorrecto. Se sumaron los términos de x^2 en lugar de restarlos. -->
+- [x] A) $6x^2 + 4x - 4$ <!-- feedback: Correcto. (8-2)x^2 + (-3+7)x + (5-9) = 6x^2 + 4x - 4. -->
 - [ ] C) $6x^2 - 10x + 14$ <!-- feedback: Incorrecto. Errores de signos al operar con los términos lineales e independientes. -->
 - [ ] D) $6x^4 + 4x^2 - 4$ <!-- feedback: Incorrecto. Al sumar términos semejantes, los exponentes de las variables permanecen iguales. -->
 
@@ -136,8 +136,8 @@ Realiza la suma de los polinomios: $P(x) = 3x^2 - 5x + 2$ y $Q(x) = 2x^2 + 8x - 
 ### Opciones
 - [ ] A) $5x^4 + 3x^2 - 5$ <!-- feedback: Incorrecto. No se deben sumar los exponentes al realizar la adición de polinomios. -->
 - [ ] B) $5x^2 - 13x + 9$ <!-- feedback: Incorrecto. Errores en la suma algebraica de los coeficientes de los términos. -->
-- [x] C) $5x^2 + 3x - 5$ <!-- feedback: Correcto. (3+2)x^2 + (-5+8)x + (2-7) = 5x^2 + 3x - 5. -->
-- [ ] D) $x^2 + 3x - 5$ <!-- feedback: Incorrecto. Error al sumar los términos cuadráticos de ambos polinomios. -->
+- [x] D) $5x^2 + 3x - 5$ <!-- feedback: Correcto. (3+2)x^2 + (-5+8)x + (2-7) = 5x^2 + 3x - 5. -->
+- [ ] C) $x^2 + 3x - 5$ <!-- feedback: Incorrecto. Error al sumar los términos cuadráticos de ambos polinomios. -->
 
 ### Explicacion Pedagogica
 Operación de adición de polinomios identificando y sumando coeficientes de términos con el mismo grado.
@@ -155,10 +155,10 @@ Operación de adición de polinomios identificando y sumando coeficientes de té
 Resta el polinomio $(2x^2 - 4x + 1)$ del polinomio $(5x^2 + 3x - 6)$.
 
 ### Opciones
-- [x] A) $3x^2 + 7x - 7$ <!-- feedback: Correcto. (5-2)x^2 + (3-(-4))x + (-6-1) = 3x^2 + 7x - 7. -->
-- [ ] B) $3x^2 - x - 5$ <!-- feedback: Incorrecto. No se aplicó el cambio de signo necesario a los términos del sustraendo. -->
-- [ ] C) $7x^2 - x - 5$ <!-- feedback: Incorrecto. Se sumaron los polinomios en lugar de restarlos. -->
-- [ ] D) $3x^2 + 7x - 5$ <!-- feedback: Incorrecto. Error en la resta de los términos independientes del polinomio. -->
+- [x] D) $3x^2 + 7x - 7$ <!-- feedback: Correcto. (5-2)x^2 + (3-(-4))x + (-6-1) = 3x^2 + 7x - 7. -->
+- [ ] A) $3x^2 - x - 5$ <!-- feedback: Incorrecto. No se aplicó el cambio de signo necesario a los términos del sustraendo. -->
+- [ ] B) $7x^2 - x - 5$ <!-- feedback: Incorrecto. Se sumaron los polinomios en lugar de restarlos. -->
+- [ ] C) $3x^2 + 7x - 5$ <!-- feedback: Incorrecto. Error en la resta de los términos independientes del polinomio. -->
 
 ### Explicacion Pedagogica
 Operación de sustracción de polinomios aplicando la regla del opuesto al sustraendo.
@@ -177,8 +177,8 @@ Operación de sustracción de polinomios aplicando la regla del opuesto al sustr
 
 ### Opciones
 - [ ] A) $x^2 - 12$ <!-- feedback: Incorrecto. Se omitieron los términos cruzados resultantes de la distribución completa. -->
-- [x] B) $x^2 + x - 12$ <!-- feedback: Correcto. x*x - 3x + 4x - 12 = x^2 + x - 12. -->
-- [ ] C) $x^2 + 7x - 12$ <!-- feedback: Incorrecto. Se sumaron los valores absolutos de las constantes en lugar de considerar sus signos. -->
+- [x] C) $x^2 + x - 12$ <!-- feedback: Correcto. x*x - 3x + 4x - 12 = x^2 + x - 12. -->
+- [ ] B) $x^2 + 7x - 12$ <!-- feedback: Incorrecto. Se sumaron los valores absolutos de las constantes en lugar de considerar sus signos. -->
 - [ ] D) $2x + 1$ <!-- feedback: Incorrecto. Se sumaron los binomios en lugar de multiplicarlos como se pedía. -->
 
 ### Explicacion Pedagogica
@@ -219,8 +219,8 @@ Realiza la división de monomios: $\frac{12x^5 y^3}{4x^2 y}$.
 
 ### Opciones
 - [ ] A) $3x^7 y^4$ <!-- feedback: Incorrecto. Se sumaron los exponentes en lugar de restarlos durante el proceso de división. -->
-- [x] B) $3x^3 y^2$ <!-- feedback: Correcto. 12/4 = 3, x^{5-2} = x^3, y^{3-1} = y^2. -->
-- [ ] C) $8x^3 y^2$ <!-- feedback: Incorrecto. Se restaron los coeficientes numéricos en lugar de dividirlos. -->
+- [x] C) $3x^3 y^2$ <!-- feedback: Correcto. 12/4 = 3, x^{5-2} = x^3, y^{3-1} = y^2. -->
+- [ ] B) $8x^3 y^2$ <!-- feedback: Incorrecto. Se restaron los coeficientes numéricos en lugar de dividirlos. -->
 - [ ] D) $3x^2 y^3$ <!-- feedback: Incorrecto. Error al operar con los exponentes de las variables correspondientes. -->
 
 ### Explicacion Pedagogica
@@ -260,8 +260,8 @@ Simplificación de expresiones racionales mediante la factorización de polinomi
 Al dividir $x^2 + 5x + 6$ entre $x + 2$, ¿cuál es el cociente resultante?
 
 ### Opciones
-- [ ] A) $x + 2$ <!-- feedback: Incorrecto. Este es el divisor; el cociente debe ser el factor que completa el trinomio. -->
-- [x] B) $x + 3$ <!-- feedback: Correcto. (x+2)(x+3) = x^2 + 5x + 6, por lo que el cociente es x+3. -->
+- [ ] B) $x + 2$ <!-- feedback: Incorrecto. Este es el divisor; el cociente debe ser el factor que completa el trinomio. -->
+- [x] A) $x + 3$ <!-- feedback: Correcto. (x+2)(x+3) = x^2 + 5x + 6, por lo que el cociente es x+3. -->
 - [ ] C) $x + 5$ <!-- feedback: Incorrecto. Al multiplicar por el divisor no se recupera el polinomio original. -->
 - [ ] D) $2x + 3$ <!-- feedback: Incorrecto. Error en el proceso de división o en la factorización del trinomio. -->
 
@@ -281,9 +281,9 @@ Ejecución de la división de un polinomio entre un binomio lineal.
 ¿Cuál es el residuo de dividir $x^3 - 2x^2 + 3x - 5$ entre $x - 1$?
 
 ### Opciones
-- [ ] A) 1 <!-- feedback: Incorrecto. Error al evaluar el valor x=1 en la expresión del polinomio. -->
-- [ ] B) 0 <!-- feedback: Incorrecto. El residuo no es nulo, indicando que el binomio no es un factor exacto. -->
-- [x] C) -3 <!-- feedback: Correcto. Por el Teorema del Residuo, P(1) = 1 - 2 + 3 - 5 = -3. -->
+- [ ] B) 1 <!-- feedback: Incorrecto. Error al evaluar el valor x=1 en la expresión del polinomio. -->
+- [ ] C) 0 <!-- feedback: Incorrecto. El residuo no es nulo, indicando que el binomio no es un factor exacto. -->
+- [x] A) -3 <!-- feedback: Correcto. Por el Teorema del Residuo, P(1) = 1 - 2 + 3 - 5 = -3. -->
 - [ ] D) -5 <!-- feedback: Incorrecto. Solo se consideró el valor del término independiente del dividendo. -->
 
 ### Explicacion Pedagogica
@@ -302,8 +302,8 @@ Aplicación del Teorema del Residuo para hallar el resto de una división polin�
 Simplifica totalmente la expresión: $\left(\frac{2x^2}{y}\right)^3 \cdot \frac{y^2}{4x^4}$.
 
 ### Opciones
-- [ ] A) $2x^2 y$ <!-- feedback: Incorrecto. Error al elevar el coeficiente al cubo y al operar con las potencias. -->
-- [x] B) $\frac{2x^2}{y}$ <!-- feedback: Correcto. (8x^6 / y^3) * (y^2 / 4x^4) = 2 x^{6-4} y^{2-3} = 2x^2 / y. -->
+- [ ] B) $2x^2 y$ <!-- feedback: Incorrecto. Error al elevar el coeficiente al cubo y al operar con las potencias. -->
+- [x] A) $\frac{2x^2}{y}$ <!-- feedback: Correcto. (8x^6 / y^3) * (y^2 / 4x^4) = 2 x^{6-4} y^{2-3} = 2x^2 / y. -->
 - [ ] C) $\frac{x^2}{2y}$ <!-- feedback: Incorrecto. Error en la división de los coeficientes numéricos finales. -->
 - [ ] D) $8x^{10} y^5$ <!-- feedback: Incorrecto. Se multiplicaron exponentes en lugar de aplicar las leyes de división. -->
 
@@ -324,9 +324,9 @@ Desarrolla la expresión $(2a + 3b)(2a - 3b)$ y determina su resultado simplific
 
 ### Opciones
 - [ ] A) $4a^2 + 9b^2$ <!-- feedback: Incorrecto. Esta es la suma de cuadrados, no el resultado de una diferencia. -->
-- [x] B) $4a^2 - 9b^2$ <!-- feedback: Correcto. Aplicando (A+B)(A-B) = A^2 - B^2, resulta 4a^2 - 9b^2. -->
-- [ ] C) $4a^2 - 12ab + 9b^2$ <!-- feedback: Incorrecto. Este es el desarrollo de un binomio al cuadrado. -->
-- [ ] D) $2a^2 - 3b^2$ <!-- feedback: Incorrecto. Se olvidó elevar los coeficientes numéricos a la potencia dos. -->
+- [x] D) $4a^2 - 9b^2$ <!-- feedback: Correcto. Aplicando (A+B)(A-B) = A^2 - B^2, resulta 4a^2 - 9b^2. -->
+- [ ] B) $4a^2 - 12ab + 9b^2$ <!-- feedback: Incorrecto. Este es el desarrollo de un binomio al cuadrado. -->
+- [ ] C) $2a^2 - 3b^2$ <!-- feedback: Incorrecto. Se olvidó elevar los coeficientes numéricos a la potencia dos. -->
 
 ### Explicacion Pedagogica
 Aplicación del producto notable "producto de la suma por la diferencia de dos cantidades".
@@ -345,8 +345,8 @@ Aplicación del producto notable "producto de la suma por la diferencia de dos c
 
 ### Opciones
 - [ ] A) -2 <!-- feedback: Incorrecto. Probablemente solo se multiplicaron los primeros dos términos constantes. -->
-- [ ] B) -6 <!-- feedback: Incorrecto. Error en el cálculo de los signos al realizar la multiplicación. -->
-- [x] C) 6 <!-- feedback: Correcto. El término independiente es el producto de todas las constantes: (-1) * 2 * (-3) = 6. -->
+- [ ] C) -6 <!-- feedback: Incorrecto. Error en el cálculo de los signos al realizar la multiplicación. -->
+- [x] B) 6 <!-- feedback: Correcto. El término independiente es el producto de todas las constantes: (-1) * 2 * (-3) = 6. -->
 - [ ] D) 0 <!-- feedback: Incorrecto. Ninguna de las constantes es nula, por lo que su producto no es cero. -->
 
 ### Explicacion Pedagogica
@@ -366,9 +366,9 @@ Simplifica la fracción compleja: $\frac{1 + \frac{1}{x}}{1 - \frac{1}{x^2}}$.
 
 ### Opciones
 - [ ] A) $x + 1$ <!-- feedback: Incorrecto. No se completó la simplificación algebraica de los términos. -->
-- [x] B) $\frac{x}{x - 1}$ <!-- feedback: Correcto. ((x+1)/x) / ((x^2-1)/x^2) = (x+1)/x * x^2/((x+1)(x-1)) = x/(x-1). -->
-- [ ] C) $\frac{1}{x - 1}$ <!-- feedback: Incorrecto. Se simplificó el factor x de forma errónea durante el proceso. -->
-- [ ] D) $x - 1$ <!-- feedback: Incorrecto. Resultado obtenido de una manipulación inválida de las fracciones algebraicas. -->
+- [x] D) $\frac{x}{x - 1}$ <!-- feedback: Correcto. ((x+1)/x) / ((x^2-1)/x^2) = (x+1)/x * x^2/((x+1)(x-1)) = x/(x-1). -->
+- [ ] B) $\frac{1}{x - 1}$ <!-- feedback: Incorrecto. Se simplificó el factor x de forma errónea durante el proceso. -->
+- [ ] C) $x - 1$ <!-- feedback: Incorrecto. Resultado obtenido de una manipulación inválida de las fracciones algebraicas. -->
 
 ### Explicacion Pedagogica
 Simplificación de fracciones algebraicas complejas (fracción de fracciones).
@@ -386,8 +386,8 @@ Simplificación de fracciones algebraicas complejas (fracción de fracciones).
 En el desarrollo de $(x + y)^5$, ¿cuál es el coeficiente del término que contiene $x^2 y^3$?
 
 ### Opciones
-- [ ] A) 5 <!-- feedback: Incorrecto. Este es el coeficiente de los términos de grado 4 y 1 mezclados. -->
-- [x] B) 10 <!-- feedback: Correcto. Según el Triángulo de Pascal para n=5, los coeficientes son 1, 5, 10, 10, 5, 1. -->
+- [ ] B) 5 <!-- feedback: Incorrecto. Este es el coeficiente de los términos de grado 4 y 1 mezclados. -->
+- [x] A) 10 <!-- feedback: Correcto. Según el Triángulo de Pascal para n=5, los coeficientes son 1, 5, 10, 10, 5, 1. -->
 - [ ] C) 20 <!-- feedback: Incorrecto. Este valor no corresponde a la fila del binomio de grado cinco. -->
 - [ ] D) 1 <!-- feedback: Incorrecto. Este coeficiente solo aplica para los términos extremos de la expansión. -->
 
@@ -428,8 +428,8 @@ Uso de productos notables para resolver problemas de identidades condicionales.
 Determina el valor de la constante $k$ para que el polinomio $P(x) = x^3 - kx^2 + 4x - 4$ sea divisible por $(x - 2)$.
 
 ### Opciones
-- [ ] A) 5 <!-- feedback: Incorrecto. Al evaluar el residuo con este valor, no se obtiene el resultado cero. -->
-- [x] B) 3 <!-- feedback: Correcto. Por el Teorema del Factor, P(2) = 8 - 4k + 8 - 4 = 0. Entonces 12 = 4k, por lo que k = 3. -->
+- [ ] B) 5 <!-- feedback: Incorrecto. Al evaluar el residuo con este valor, no se obtiene el resultado cero. -->
+- [x] A) 3 <!-- feedback: Correcto. Por el Teorema del Factor, P(2) = 8 - 4k + 8 - 4 = 0. Entonces 12 = 4k, por lo que k = 3. -->
 - [ ] C) 4 <!-- feedback: Incorrecto. No satisface la condición de nulidad del residuo en la división por x-2. -->
 - [ ] D) 2 <!-- feedback: Incorrecto. Error al resolver la ecuación lineal resultante para hallar la constante k. -->
 

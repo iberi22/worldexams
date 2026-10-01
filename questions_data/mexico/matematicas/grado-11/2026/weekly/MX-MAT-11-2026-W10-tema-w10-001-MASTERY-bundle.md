@@ -30,9 +30,9 @@ creador: "Jules-Agent"
 Si las calificaciones obtenidas son: 7, 8, 8, 9, 10, ¿cuál es el valor de la media aritmética (promedio) de este grupo?
 
 ### Opciones
-- [x] A) 8.4
+- [x] B) 8.4
   <!-- feedback: ¡Correcto! Sumando las calificaciones: 7 + 8 + 8 + 9 + 10 = 42. Al dividir entre el número de estudiantes (5), obtenemos 42 / 5 = 8.4. -->
-- [ ] B) 8.0
+- [ ] A) 8.0
   <!-- feedback: Incorrecto. Este valor corresponde a la mediana y a la moda del conjunto de datos. -->
 - [ ] C) 8.2
   <!-- feedback: Incorrecto. Se realizó una suma incorrecta de los valores de las calificaciones. -->
@@ -53,9 +53,9 @@ Para calcular la media aritmética, sumamos todos los datos de la muestra y divi
 ¿Cuál es la probabilidad clásica de obtener un número primo en un único lanzamiento del dado?
 
 ### Opciones
-- [x] A) 1/2
+- [x] B) 1/2
   <!-- feedback: ¡Correcto! Los números primos posibles en un dado de 6 caras son 2, 3 y 5 (3 casos favorables). La probabilidad es 3/6 = 1/2 o 50%. -->
-- [ ] B) 1/3
+- [ ] A) 1/3
   <!-- feedback: Incorrecto. Se identificaron incorrectamente la cantidad de números primos en el dado. -->
 - [ ] C) 2/3
   <!-- feedback: Incorrecto. Esto representaría una probabilidad correspondiente a otro evento. -->
@@ -76,11 +76,11 @@ El espacio muestral al lanzar un dado de 6 caras es S = {1, 2, 3, 4, 5, 6}, que 
 Si se tiene un conjunto de datos ordenados: 3, 5, 7, 11, 15, ¿cuál es la mediana de este conjunto de observaciones?
 
 ### Opciones
-- [x] A) 7
+- [x] C) 7
   <!-- feedback: ¡Correcto! Dado que el número de observaciones es impar (5 datos) y ya se encuentran ordenados, el dato del centro es el tercero, es decir, el 7. -->
-- [ ] B) 5
+- [ ] A) 5
   <!-- feedback: Incorrecto. Este es el segundo dato del conjunto, no el central. -->
-- [ ] C) 11
+- [ ] B) 11
   <!-- feedback: Incorrecto. Este es el cuarto dato de la distribución ordenada. -->
 - [ ] D) 9
   <!-- feedback: Incorrecto. No corresponde al valor de la mediana de este conjunto de datos. -->
@@ -99,9 +99,9 @@ La mediana es el valor que se encuentra en la posición central de un conjunto d
 Si se tiene un conjunto de datos ordenados: 3, 5, 7, 12, 15, ¿cuál es la mediana de este conjunto de observaciones?
 
 ### Opciones
-- [x] A) 7
+- [x] B) 7
   <!-- feedback: ¡Correcto! Dado que el número de observaciones es impar (5 datos) y ya se encuentran ordenados, el dato del centro es el tercero, es decir, el 7. -->
-- [ ] B) 5
+- [ ] A) 5
   <!-- feedback: Incorrecto. Este es el segundo dato del conjunto, no el central. -->
 - [ ] C) 12
   <!-- feedback: Incorrecto. Este es el cuarto dato de la distribución ordenada. -->
@@ -122,13 +122,13 @@ La mediana es el valor que se encuentra en la posición central de un conjunto d
 Si se tiene un conjunto de datos ordenados: 3, 5, 7, 13, 15, ¿cuál es la mediana de este conjunto de observaciones?
 
 ### Opciones
-- [x] A) 7
+- [x] D) 7
   <!-- feedback: ¡Correcto! Dado que el número de observaciones es impar (5 datos) y ya se encuentran ordenados, el dato del centro es el tercero, es decir, el 7. -->
-- [ ] B) 5
+- [ ] A) 5
   <!-- feedback: Incorrecto. Este es el segundo dato del conjunto, no el central. -->
-- [ ] C) 13
+- [ ] B) 13
   <!-- feedback: Incorrecto. Este es el cuarto dato de la distribución ordenada. -->
-- [ ] D) 9
+- [ ] C) 9
   <!-- feedback: Incorrecto. No corresponde al valor de la mediana de este conjunto de datos. -->
 
 ### Explicacion Pedagogica
@@ -145,11 +145,11 @@ La mediana es el valor que se encuentra en la posición central de un conjunto d
 Si se tiene un conjunto de datos ordenados: 3, 5, 7, 14, 15, ¿cuál es la mediana de este conjunto de observaciones?
 
 ### Opciones
-- [x] A) 7
+- [x] C) 7
   <!-- feedback: ¡Correcto! Dado que el número de observaciones es impar (5 datos) y ya se encuentran ordenados, el dato del centro es el tercero, es decir, el 7. -->
-- [ ] B) 5
+- [ ] A) 5
   <!-- feedback: Incorrecto. Este es el segundo dato del conjunto, no el central. -->
-- [ ] C) 14
+- [ ] B) 14
   <!-- feedback: Incorrecto. Este es el cuarto dato de la distribución ordenada. -->
 - [ ] D) 9
   <!-- feedback: Incorrecto. No corresponde al valor de la mediana de este conjunto de datos. -->
@@ -168,11 +168,11 @@ La mediana es el valor que se encuentra en la posición central de un conjunto d
 Si se tiene un conjunto de datos ordenados: 3, 5, 7, 15, 15, ¿cuál es la mediana de este conjunto de observaciones?
 
 ### Opciones
-- [x] A) 7
+- [x] C) 7
   <!-- feedback: ¡Correcto! Dado que el número de observaciones es impar (5 datos) y ya se encuentran ordenados, el dato del centro es el tercero, es decir, el 7. -->
-- [ ] B) 5
+- [ ] A) 5
   <!-- feedback: Incorrecto. Este es el segundo dato del conjunto, no el central. -->
-- [ ] C) 15
+- [ ] B) 15
   <!-- feedback: Incorrecto. Este es el cuarto dato de la distribución ordenada. -->
 - [ ] D) 9
   <!-- feedback: Incorrecto. No corresponde al valor de la mediana de este conjunto de datos. -->
@@ -191,13 +191,13 @@ La mediana es el valor que se encuentra en la posición central de un conjunto d
 Si se tiene un conjunto de datos ordenados: 3, 5, 7, 16, 15, ¿cuál es la mediana de este conjunto de observaciones?
 
 ### Opciones
-- [x] A) 7
+- [x] D) 7
   <!-- feedback: ¡Correcto! Dado que el número de observaciones es impar (5 datos) y ya se encuentran ordenados, el dato del centro es el tercero, es decir, el 7. -->
-- [ ] B) 5
+- [ ] A) 5
   <!-- feedback: Incorrecto. Este es el segundo dato del conjunto, no el central. -->
-- [ ] C) 16
+- [ ] B) 16
   <!-- feedback: Incorrecto. Este es el cuarto dato de la distribución ordenada. -->
-- [ ] D) 9
+- [ ] C) 9
   <!-- feedback: Incorrecto. No corresponde al valor de la mediana de este conjunto de datos. -->
 
 ### Explicacion Pedagogica
@@ -214,13 +214,13 @@ La mediana es el valor que se encuentra en la posición central de un conjunto d
 Si se tiene un conjunto de datos ordenados: 3, 5, 7, 17, 15, ¿cuál es la mediana de este conjunto de observaciones?
 
 ### Opciones
-- [x] A) 7
+- [x] D) 7
   <!-- feedback: ¡Correcto! Dado que el número de observaciones es impar (5 datos) y ya se encuentran ordenados, el dato del centro es el tercero, es decir, el 7. -->
-- [ ] B) 5
+- [ ] A) 5
   <!-- feedback: Incorrecto. Este es el segundo dato del conjunto, no el central. -->
-- [ ] C) 17
+- [ ] B) 17
   <!-- feedback: Incorrecto. Este es el cuarto dato de la distribución ordenada. -->
-- [ ] D) 9
+- [ ] C) 9
   <!-- feedback: Incorrecto. No corresponde al valor de la mediana de este conjunto de datos. -->
 
 ### Explicacion Pedagogica
@@ -260,13 +260,13 @@ La mediana es el valor que se encuentra en la posición central de un conjunto d
 Si se tiene un conjunto de datos ordenados: 3, 5, 7, 19, 15, ¿cuál es la mediana de este conjunto de observaciones?
 
 ### Opciones
-- [x] A) 7
+- [x] D) 7
   <!-- feedback: ¡Correcto! Dado que el número de observaciones es impar (5 datos) y ya se encuentran ordenados, el dato del centro es el tercero, es decir, el 7. -->
-- [ ] B) 5
+- [ ] A) 5
   <!-- feedback: Incorrecto. Este es el segundo dato del conjunto, no el central. -->
-- [ ] C) 19
+- [ ] B) 19
   <!-- feedback: Incorrecto. Este es el cuarto dato de la distribución ordenada. -->
-- [ ] D) 9
+- [ ] C) 9
   <!-- feedback: Incorrecto. No corresponde al valor de la mediana de este conjunto de datos. -->
 
 ### Explicacion Pedagogica
@@ -306,13 +306,13 @@ La mediana es el valor que se encuentra en la posición central de un conjunto d
 Si se tiene un conjunto de datos ordenados: 3, 5, 7, 21, 15, ¿cuál es la mediana de este conjunto de observaciones?
 
 ### Opciones
-- [x] A) 7
+- [x] D) 7
   <!-- feedback: ¡Correcto! Dado que el número de observaciones es impar (5 datos) y ya se encuentran ordenados, el dato del centro es el tercero, es decir, el 7. -->
-- [ ] B) 5
+- [ ] A) 5
   <!-- feedback: Incorrecto. Este es el segundo dato del conjunto, no el central. -->
-- [ ] C) 21
+- [ ] B) 21
   <!-- feedback: Incorrecto. Este es el cuarto dato de la distribución ordenada. -->
-- [ ] D) 9
+- [ ] C) 9
   <!-- feedback: Incorrecto. No corresponde al valor de la mediana de este conjunto de datos. -->
 
 ### Explicacion Pedagogica
@@ -352,11 +352,11 @@ La mediana es el valor que se encuentra en la posición central de un conjunto d
 Si se tiene un conjunto de datos ordenados: 3, 5, 7, 23, 15, ¿cuál es la mediana de este conjunto de observaciones?
 
 ### Opciones
-- [x] A) 7
+- [x] C) 7
   <!-- feedback: ¡Correcto! Dado que el número de observaciones es impar (5 datos) y ya se encuentran ordenados, el dato del centro es el tercero, es decir, el 7. -->
-- [ ] B) 5
+- [ ] A) 5
   <!-- feedback: Incorrecto. Este es el segundo dato del conjunto, no el central. -->
-- [ ] C) 23
+- [ ] B) 23
   <!-- feedback: Incorrecto. Este es el cuarto dato de la distribución ordenada. -->
 - [ ] D) 9
   <!-- feedback: Incorrecto. No corresponde al valor de la mediana de este conjunto de datos. -->
@@ -398,9 +398,9 @@ La mediana es el valor que se encuentra en la posición central de un conjunto d
 Si se tiene un conjunto de datos ordenados: 3, 5, 7, 25, 15, ¿cuál es la mediana de este conjunto de observaciones?
 
 ### Opciones
-- [x] A) 7
+- [x] B) 7
   <!-- feedback: ¡Correcto! Dado que el número de observaciones es impar (5 datos) y ya se encuentran ordenados, el dato del centro es el tercero, es decir, el 7. -->
-- [ ] B) 5
+- [ ] A) 5
   <!-- feedback: Incorrecto. Este es el segundo dato del conjunto, no el central. -->
 - [ ] C) 25
   <!-- feedback: Incorrecto. Este es el cuarto dato de la distribución ordenada. -->
@@ -421,11 +421,11 @@ La mediana es el valor que se encuentra en la posición central de un conjunto d
 Si se tiene un conjunto de datos ordenados: 3, 5, 7, 26, 15, ¿cuál es la mediana de este conjunto de observaciones?
 
 ### Opciones
-- [x] A) 7
+- [x] C) 7
   <!-- feedback: ¡Correcto! Dado que el número de observaciones es impar (5 datos) y ya se encuentran ordenados, el dato del centro es el tercero, es decir, el 7. -->
-- [ ] B) 5
+- [ ] A) 5
   <!-- feedback: Incorrecto. Este es el segundo dato del conjunto, no el central. -->
-- [ ] C) 26
+- [ ] B) 26
   <!-- feedback: Incorrecto. Este es el cuarto dato de la distribución ordenada. -->
 - [ ] D) 9
   <!-- feedback: Incorrecto. No corresponde al valor de la mediana de este conjunto de datos. -->
@@ -444,9 +444,9 @@ La mediana es el valor que se encuentra en la posición central de un conjunto d
 Si se tiene un conjunto de datos ordenados: 3, 5, 7, 27, 15, ¿cuál es la mediana de este conjunto de observaciones?
 
 ### Opciones
-- [x] A) 7
+- [x] B) 7
   <!-- feedback: ¡Correcto! Dado que el número de observaciones es impar (5 datos) y ya se encuentran ordenados, el dato del centro es el tercero, es decir, el 7. -->
-- [ ] B) 5
+- [ ] A) 5
   <!-- feedback: Incorrecto. Este es el segundo dato del conjunto, no el central. -->
 - [ ] C) 27
   <!-- feedback: Incorrecto. Este es el cuarto dato de la distribución ordenada. -->
@@ -467,9 +467,9 @@ La mediana es el valor que se encuentra en la posición central de un conjunto d
 Si se tiene un conjunto de datos ordenados: 3, 5, 7, 28, 15, ¿cuál es la mediana de este conjunto de observaciones?
 
 ### Opciones
-- [x] A) 7
+- [x] B) 7
   <!-- feedback: ¡Correcto! Dado que el número de observaciones es impar (5 datos) y ya se encuentran ordenados, el dato del centro es el tercero, es decir, el 7. -->
-- [ ] B) 5
+- [ ] A) 5
   <!-- feedback: Incorrecto. Este es el segundo dato del conjunto, no el central. -->
 - [ ] C) 28
   <!-- feedback: Incorrecto. Este es el cuarto dato de la distribución ordenada. -->

@@ -63,9 +63,9 @@ Which of these is considered a healthy habit?
 ### Opciones
 - [ ] A) Drinking soda every day.
   <!-- feedback: Incorrect. High sugar is unhealthy. -->
-- [x] B) Sleeping 8 hours a night.
+- [x] C) Sleeping 8 hours a night.
   <!-- feedback: Correct! Proper rest is essential for health. -->
-- [ ] C) Playing video games for 10 hours.
+- [ ] B) Playing video games for 10 hours.
   <!-- feedback: Incorrect. This is too much sedentary time. -->
 - [ ] D) Skipping breakfast.
   <!-- feedback: Incorrect. Breakfast is an important meal. -->
@@ -88,9 +88,9 @@ The student identifies specific practices that contribute to a healthy lifestyle
 ### Opciones
 - [ ] A) You should eat more candy.
   <!-- feedback: Incorrect. Sugar gives a quick spike but doesn't solve chronic tiredness. -->
-- [x] B) You should sleep more and eat healthy food.
+- [x] C) You should sleep more and eat healthy food.
   <!-- feedback: Correct! These are standard recommendations for improving energy levels. -->
-- [ ] C) You should watch more TV.
+- [ ] B) You should watch more TV.
   <!-- feedback: Incorrect. This won't help with being tired. -->
 - [ ] D) You should drink less water.
   <!-- feedback: Incorrect. Hydration is necessary for energy. -->
@@ -113,11 +113,11 @@ The student understands and selects appropriate health advice based on a describ
 ### Opciones
 - [ ] A) weakens
   <!-- feedback: Incorrect. Weakens means to make less strong. -->
-- [x] B) strengthens
+- [x] D) strengthens
   <!-- feedback: Correct! Exercise makes the heart and muscles stronger. -->
-- [ ] C) breaks
+- [ ] B) breaks
   <!-- feedback: Incorrect. Exercise doesn't break a healthy heart. -->
-- [ ] D) ignores
+- [ ] C) ignores
   <!-- feedback: Incorrect. Doesn't fit the context. -->
 
 ### Explicacion Pedagogica
@@ -162,9 +162,9 @@ The student applies the expression "at least" in the context of health recommend
 According to the text, what is one benefit of 'Wellness Wednesday'?
 
 ### Opciones
-- [ ] A) It makes students more tired.
+- [ ] B) It makes students more tired.
   <!-- feedback: Incorrect. Not mentioned. -->
-- [x] B) It helps students reduce stress.
+- [x] A) It helps students reduce stress.
   <!-- feedback: Correct! The text explicitly mentions "reduce stress". -->
 - [ ] C) It is only about eating fruit.
   <!-- feedback: Incorrect. It also includes sports and meditation. -->
@@ -189,11 +189,11 @@ The student applies reading comprehension skills to identify specific benefits m
 ### Opciones
 - [ ] A) should
   <!-- feedback: Incorrect. Smoking is unhealthy. -->
-- [x] B) shouldn't
+- [x] D) shouldn't
   <!-- feedback: Correct! "Shouldn't" is the negative advice for unhealthy habits. -->
-- [ ] C) must
+- [ ] B) must
   <!-- feedback: Incorrect. This would be an obligation to do something unhealthy. -->
-- [ ] D) are
+- [ ] C) are
   <!-- feedback: Incorrect. Grammatically wrong in this context. -->
 
 ### Explicacion Pedagogica
@@ -213,9 +213,9 @@ The student applies the modal verb "shouldn't" to provide negative health advice
 Is this a balanced and healthy daily schedule?
 
 ### Opciones
-- [x] A) Yes, it includes exercise, healthy meals, rest, and a little leisure time.
+- [x] B) Yes, it includes exercise, healthy meals, rest, and a little leisure time.
   <!-- feedback: Correct! It covers multiple pillars of health. -->
-- [ ] B) No, because video games are always unhealthy.
+- [ ] A) No, because video games are always unhealthy.
   <!-- feedback: Incorrect. In moderation (2 hours), they can be part of a balanced day. -->
 - [ ] C) No, because there is no lunch.
   <!-- feedback: Incorrect. The 1:00 PM meal is lunch. -->
@@ -238,9 +238,9 @@ The student analyzes a schedule to determine if it meets the criteria for a bala
 Choose the most logical sentence.
 
 ### Opciones
-- [ ] A) Because I exercise every day, I feel very weak.
+- [ ] B) Because I exercise every day, I feel very weak.
   <!-- feedback: Incorrect. Exercise usually makes you feel stronger. -->
-- [x] B) Because I drink a lot of water, I stay hydrated during sports.
+- [x] A) Because I drink a lot of water, I stay hydrated during sports.
   <!-- feedback: Correct! Logical cause-and-effect relationship. -->
 - [ ] C) Because I sleep only 3 hours, I am very focused in class.
   <!-- feedback: Incorrect. Lack of sleep causes lack of focus. -->
@@ -264,11 +264,11 @@ The student analyzes the logical consistency of sentences related to health and 
 What is the author's main point in this text?
 
 ### Opciones
-- [ ] A) You only need to exercise to be healthy.
+- [ ] B) You only need to exercise to be healthy.
   <!-- feedback: Incorrect. The text says it's "not just about the body". -->
-- [ ] B) Being kind is more important than eating vegetables.
+- [ ] C) Being kind is more important than eating vegetables.
   <!-- feedback: Incorrect. The text suggests a combination, not one over the other. -->
-- [x] C) A healthy lifestyle is a combination of physical and mental well-being.
+- [x] A) A healthy lifestyle is a combination of physical and mental well-being.
   <!-- feedback: Correct! The text emphasizes that health goes beyond the physical aspect. -->
 - [ ] D) Time management is the most difficult part of health.
   <!-- feedback: Incorrect. Not mentioned as "difficult". -->

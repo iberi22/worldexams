@@ -35,9 +35,9 @@ alineadas con los DBA del MEN Colombia y el marco de evaluación Saber 11 del IC
 Al derivar la función de producción $f(x) = x^2 (1x + 1)$ utilizando la regla del producto, ¿cuál es la derivada $f'(x)$?
 
 ### Opciones
-- [x] A) $3x^2 + 2x$
+- [x] B) $3x^2 + 2x$
   <!-- feedback: Se aplica correctamente la regla del producto derivando ambos factores. -->
-- [ ] B) $2x^2 + 2x$
+- [ ] A) $2x^2 + 2x$
   <!-- feedback: Incorrecto: se derivó mal el segundo término. -->
 - [ ] C) $3x^2 + x$
   <!-- feedback: Incorrecto: se omitió multiplicar el coeficiente por 2. -->
@@ -58,9 +58,9 @@ Aplicando la regla del producto $(u \cdot v)' = u'v + uv'$, donde $u=x^2$ ($u'=2
 Al aplicar la regla del cociente a la función $f(x) = \frac{2x}{x + 1}$, ¿cuál es la expresión para $f'(x)$?
 
 ### Opciones
-- [x] A) $\frac{2}{(x + 1)^2}$
+- [x] B) $\frac{2}{(x + 1)^2}$
   <!-- feedback: Correcto: la resta en el numerador simplifica adecuadamente a la constante. -->
-- [ ] B) $\frac{2x}{(x + 1)^2}$
+- [ ] A) $\frac{2x}{(x + 1)^2}$
   <!-- feedback: Incorrecto: no se simplificaron las x del numerador. -->
 - [ ] C) $\frac{4}{(x + 1)^2}$
   <!-- feedback: Incorrecto: se sumaron los términos del numerador en vez de restarlos. -->
@@ -127,13 +127,13 @@ Aplicando la regla de la potencia y suma: $(c x^n)' = c n x^{n-1}$. Así, $(4x^4
 Al derivar la función de producción $f(x) = x^2 (5x + 1)$ utilizando la regla del producto, ¿cuál es la derivada $f'(x)$?
 
 ### Opciones
-- [x] A) $15x^2 + 2x$
+- [x] D) $15x^2 + 2x$
   <!-- feedback: Se aplica correctamente la regla del producto derivando ambos factores. -->
-- [ ] B) $10x^2 + 2x$
+- [ ] A) $10x^2 + 2x$
   <!-- feedback: Incorrecto: se derivó mal el segundo término. -->
-- [ ] C) $15x^2 + x$
+- [ ] B) $15x^2 + x$
   <!-- feedback: Incorrecto: se omitió multiplicar el coeficiente por 2. -->
-- [ ] D) $5x^2 + 3x$
+- [ ] C) $5x^2 + 3x$
   <!-- feedback: Incorrecto: se derivó como suma simple en vez de producto. -->
 
 ### Explicacion Pedagogica
@@ -150,11 +150,11 @@ Aplicando la regla del producto $(u \cdot v)' = u'v + uv'$, donde $u=x^2$ ($u'=2
 Al aplicar la regla del cociente a la función $f(x) = \frac{6x}{x + 1}$, ¿cuál es la expresión para $f'(x)$?
 
 ### Opciones
-- [x] A) $\frac{6}{(x + 1)^2}$
+- [x] C) $\frac{6}{(x + 1)^2}$
   <!-- feedback: Correcto: la resta en el numerador simplifica adecuadamente a la constante. -->
-- [ ] B) $\frac{6x}{(x + 1)^2}$
+- [ ] A) $\frac{6x}{(x + 1)^2}$
   <!-- feedback: Incorrecto: no se simplificaron las x del numerador. -->
-- [ ] C) $\frac{12}{(x + 1)^2}$
+- [ ] B) $\frac{12}{(x + 1)^2}$
   <!-- feedback: Incorrecto: se sumaron los términos del numerador en vez de restarlos. -->
 - [ ] D) $\frac{6}{x + 1}$
   <!-- feedback: Incorrecto: se omitió elevar el denominador al cuadrado. -->
@@ -219,9 +219,9 @@ Aplicando la regla de la potencia y suma: $(c x^n)' = c n x^{n-1}$. Así, $(8x^4
 Al derivar la función de producción $f(x) = x^2 (9x + 1)$ utilizando la regla del producto, ¿cuál es la derivada $f'(x)$?
 
 ### Opciones
-- [x] A) $27x^2 + 2x$
+- [x] B) $27x^2 + 2x$
   <!-- feedback: Se aplica correctamente la regla del producto derivando ambos factores. -->
-- [ ] B) $18x^2 + 2x$
+- [ ] A) $18x^2 + 2x$
   <!-- feedback: Incorrecto: se derivó mal el segundo término. -->
 - [ ] C) $27x^2 + x$
   <!-- feedback: Incorrecto: se omitió multiplicar el coeficiente por 2. -->
@@ -265,9 +265,9 @@ Aplicando la regla del cociente $(\frac{u}{v})' = \frac{u'v - uv'}{v^2}$, donde 
 Dada la función $f(x) = (x^2 + 11)^3$, ¿cuál es el resultado de aplicar la regla de la cadena para obtener $f'(x)$?
 
 ### Opciones
-- [x] A) $6x(x^2 + 11)^2$
+- [x] B) $6x(x^2 + 11)^2$
   <!-- feedback: Correcto: se multiplicó por la derivada interna 2x. -->
-- [ ] B) $3(x^2 + 11)^2$
+- [ ] A) $3(x^2 + 11)^2$
   <!-- feedback: Incorrecto: se olvidó multiplicar por la derivada interna del paréntesis. -->
 - [ ] C) $6x^2(x^2 + 11)^2$
   <!-- feedback: Incorrecto: se elevó x al cuadrado en la derivada interna. -->
@@ -288,9 +288,9 @@ Por regla de la cadena, la derivada de $u^3$ es $3u^2 \cdot u'$. Con $u = x^2 + 
 Dada la función lineal-potencial $f(x) = 12x^4 + 3x^2$, ¿cuál es su derivada $f'(x)$?
 
 ### Opciones
-- [x] A) $48x^3 + 6x$
+- [x] B) $48x^3 + 6x$
   <!-- feedback: Correcto: se multiplicaron exponentes por coeficientes y se restarion 1 a los exponentes. -->
-- [ ] B) $48x^4 + 6x$
+- [ ] A) $48x^4 + 6x$
   <!-- feedback: Incorrecto: no se disminuyó el exponente del primer término. -->
 - [ ] C) $12x^3 + 3x$
   <!-- feedback: Incorrecto: se olvidó multiplicar por los exponentes originales. -->
@@ -311,13 +311,13 @@ Aplicando la regla de la potencia y suma: $(c x^n)' = c n x^{n-1}$. Así, $(12x^
 Al derivar la función de producción $f(x) = x^2 (13x + 1)$ utilizando la regla del producto, ¿cuál es la derivada $f'(x)$?
 
 ### Opciones
-- [x] A) $39x^2 + 2x$
+- [x] D) $39x^2 + 2x$
   <!-- feedback: Se aplica correctamente la regla del producto derivando ambos factores. -->
-- [ ] B) $26x^2 + 2x$
+- [ ] A) $26x^2 + 2x$
   <!-- feedback: Incorrecto: se derivó mal el segundo término. -->
-- [ ] C) $39x^2 + x$
+- [ ] B) $39x^2 + x$
   <!-- feedback: Incorrecto: se omitió multiplicar el coeficiente por 2. -->
-- [ ] D) $13x^2 + 3x$
+- [ ] C) $13x^2 + 3x$
   <!-- feedback: Incorrecto: se derivó como suma simple en vez de producto. -->
 
 ### Explicacion Pedagogica
@@ -334,9 +334,9 @@ Aplicando la regla del producto $(u \cdot v)' = u'v + uv'$, donde $u=x^2$ ($u'=2
 Al aplicar la regla del cociente a la función $f(x) = \frac{14x}{x + 1}$, ¿cuál es la expresión para $f'(x)$?
 
 ### Opciones
-- [x] A) $\frac{14}{(x + 1)^2}$
+- [x] B) $\frac{14}{(x + 1)^2}$
   <!-- feedback: Correcto: la resta en el numerador simplifica adecuadamente a la constante. -->
-- [ ] B) $\frac{14x}{(x + 1)^2}$
+- [ ] A) $\frac{14x}{(x + 1)^2}$
   <!-- feedback: Incorrecto: no se simplificaron las x del numerador. -->
 - [ ] C) $\frac{28}{(x + 1)^2}$
   <!-- feedback: Incorrecto: se sumaron los términos del numerador en vez de restarlos. -->
@@ -357,11 +357,11 @@ Aplicando la regla del cociente $(\frac{u}{v})' = \frac{u'v - uv'}{v^2}$, donde 
 Dada la función $f(x) = (x^2 + 15)^3$, ¿cuál es el resultado de aplicar la regla de la cadena para obtener $f'(x)$?
 
 ### Opciones
-- [x] A) $6x(x^2 + 15)^2$
+- [x] C) $6x(x^2 + 15)^2$
   <!-- feedback: Correcto: se multiplicó por la derivada interna 2x. -->
-- [ ] B) $3(x^2 + 15)^2$
+- [ ] A) $3(x^2 + 15)^2$
   <!-- feedback: Incorrecto: se olvidó multiplicar por la derivada interna del paréntesis. -->
-- [ ] C) $6x^2(x^2 + 15)^2$
+- [ ] B) $6x^2(x^2 + 15)^2$
   <!-- feedback: Incorrecto: se elevó x al cuadrado en la derivada interna. -->
 - [ ] D) $2x(x^2 + 15)^3$
   <!-- feedback: Incorrecto: no se redujo el exponente exterior. -->
@@ -403,9 +403,9 @@ Aplicando la regla de la potencia y suma: $(c x^n)' = c n x^{n-1}$. Así, $(16x^
 Al derivar la función de producción $f(x) = x^2 (17x + 1)$ utilizando la regla del producto, ¿cuál es la derivada $f'(x)$?
 
 ### Opciones
-- [x] A) $51x^2 + 2x$
+- [x] B) $51x^2 + 2x$
   <!-- feedback: Se aplica correctamente la regla del producto derivando ambos factores. -->
-- [ ] B) $34x^2 + 2x$
+- [ ] A) $34x^2 + 2x$
   <!-- feedback: Incorrecto: se derivó mal el segundo término. -->
 - [ ] C) $51x^2 + x$
   <!-- feedback: Incorrecto: se omitió multiplicar el coeficiente por 2. -->
@@ -426,9 +426,9 @@ Aplicando la regla del producto $(u \cdot v)' = u'v + uv'$, donde $u=x^2$ ($u'=2
 Al aplicar la regla del cociente a la función $f(x) = \frac{18x}{x + 1}$, ¿cuál es la expresión para $f'(x)$?
 
 ### Opciones
-- [x] A) $\frac{18}{(x + 1)^2}$
+- [x] B) $\frac{18}{(x + 1)^2}$
   <!-- feedback: Correcto: la resta en el numerador simplifica adecuadamente a la constante. -->
-- [ ] B) $\frac{18x}{(x + 1)^2}$
+- [ ] A) $\frac{18x}{(x + 1)^2}$
   <!-- feedback: Incorrecto: no se simplificaron las x del numerador. -->
 - [ ] C) $\frac{36}{(x + 1)^2}$
   <!-- feedback: Incorrecto: se sumaron los términos del numerador en vez de restarlos. -->
@@ -472,11 +472,11 @@ Por regla de la cadena, la derivada de $u^3$ es $3u^2 \cdot u'$. Con $u = x^2 + 
 Dada la función lineal-potencial $f(x) = 20x^4 + 3x^2$, ¿cuál es su derivada $f'(x)$?
 
 ### Opciones
-- [x] A) $80x^3 + 6x$
+- [x] C) $80x^3 + 6x$
   <!-- feedback: Correcto: se multiplicaron exponentes por coeficientes y se restarion 1 a los exponentes. -->
-- [ ] B) $80x^4 + 6x$
+- [ ] A) $80x^4 + 6x$
   <!-- feedback: Incorrecto: no se disminuyó el exponente del primer término. -->
-- [ ] C) $20x^3 + 3x$
+- [ ] B) $20x^3 + 3x$
   <!-- feedback: Incorrecto: se olvidó multiplicar por los exponentes originales. -->
 - [ ] D) $80x^3 + 3$
   <!-- feedback: Incorrecto: se derivó 6x simplemente como 3. -->

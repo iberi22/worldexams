@@ -34,11 +34,11 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Qué papel o definición histórica le corresponde a El gobierno de Lorenzo Latorre en relación con este contexto en Uruguay?
 
 ### Opciones
-- [x] A) Constituyó el factor decisivo que consolidó la pacificación del campo por la fuerza militar en beneficio del desarrollo institucional del país.
+- [x] C) Constituyó el factor decisivo que consolidó la pacificación del campo por la fuerza militar en beneficio del desarrollo institucional del país.
   <!-- feedback: Correcto. El gobierno de Lorenzo Latorre representó precisamente el hecho o concepto que consagró la pacificación del campo por la fuerza militar. -->
-- [ ] B) Consistió en una reforma fiscal que impuso La asunción democrática de Sanguinetti eliminando toda libertad mercantil o política local.
+- [ ] A) Consistió en una reforma fiscal que impuso La asunción democrática de Sanguinetti eliminando toda libertad mercantil o política local.
   <!-- feedback: Incorrecto. La asunción democrática de Sanguinetti no define la acción histórica de este elemento ni se corresponde con este período. -->
-- [ ] C) Fue un movimiento de oposición promovido por los defensores de El inicio del régimen batllista reformista para restablecer el régimen colonial absoluto.
+- [ ] B) Fue un movimiento de oposición promovido por los defensores de El inicio del régimen batllista reformista para restablecer el régimen colonial absoluto.
   <!-- feedback: Incorrecto. El inicio del régimen batllista reformista responde a otra dinámica o intereses opuestos a los evaluados en este hecho. -->
 - [ ] D) Representó una medida de orden militar que forzó la inmediata adopción de La disolución definitiva del Partido Colorado en toda la campaña rural.
   <!-- feedback: Incorrecto. La disolución definitiva del Partido Colorado representa una distracción sin sustento documental o empírico en la historia uruguaya. -->
@@ -58,11 +58,11 @@ La identificación precisa de El gobierno de Lorenzo Latorre permite comprender 
 ¿Qué papel o definición histórica le corresponde a El alambramiento de los campos en relación con este contexto en Uruguay?
 
 ### Opciones
-- [x] A) Constituyó el factor decisivo que consolidó el fin de la ganadería libre y el vagabundeo en beneficio del desarrollo institucional del país.
+- [x] C) Constituyó el factor decisivo que consolidó el fin de la ganadería libre y el vagabundeo en beneficio del desarrollo institucional del país.
   <!-- feedback: Correcto. El alambramiento de los campos representó precisamente el hecho o concepto que consagró el fin de la ganadería libre y el vagabundeo. -->
-- [ ] B) Consistió en una reforma fiscal que impuso La estatización total de la ganadería vacuna eliminando toda libertad mercantil o política local.
+- [ ] A) Consistió en una reforma fiscal que impuso La estatización total de la ganadería vacuna eliminando toda libertad mercantil o política local.
   <!-- feedback: Incorrecto. La estatización total de la ganadería vacuna no define la acción histórica de este elemento ni se corresponde con este período. -->
-- [ ] C) Fue un movimiento de oposición promovido por los defensores de La parcelación de forma democrática para pequeños productores para restablecer el régimen colonial absoluto.
+- [ ] B) Fue un movimiento de oposición promovido por los defensores de La parcelación de forma democrática para pequeños productores para restablecer el régimen colonial absoluto.
   <!-- feedback: Incorrecto. La parcelación de forma democrática para pequeños productores responde a otra dinámica o intereses opuestos a los evaluados en este hecho. -->
 - [ ] D) Representó una medida de orden militar que forzó la inmediata adopción de La importación masiva de ovejas salvajes de Asia en toda la campaña rural.
   <!-- feedback: Incorrecto. La importación masiva de ovejas salvajes de Asia representa una distracción sin sustento documental o empírico en la historia uruguaya. -->
@@ -82,9 +82,9 @@ La identificación precisa de El alambramiento de los campos permite comprender 
 Si analizás la trascendencia de este suceso, ¿cómo se explica la relación causa-efecto entre La reforma escolar de José Pedro Varela y la enseñanza laica, gratuita y obligatoria?
 
 ### Opciones
-- [x] A) Que la implantación de La reforma escolar de José Pedro Varela actuó como la causa principal que posibilitó el desarrollo de la enseñanza laica, gratuita y obligatoria.
+- [x] B) Que la implantación de La reforma escolar de José Pedro Varela actuó como la causa principal que posibilitó el desarrollo de la enseñanza laica, gratuita y obligatoria.
   <!-- feedback: Correcto. Hay una relación causal directa: La reforma escolar de José Pedro Varela funcionó como cimiento para que se diera la enseñanza laica, gratuita y obligatoria. -->
-- [ ] B) Que la promoción de La privatización de todos los colegios religiosos bloqueó de forma absoluta todo efecto de La reforma escolar de José Pedro Varela sobre la sociedad de la campaña.
+- [ ] A) Que la promoción de La privatización de todos los colegios religiosos bloqueó de forma absoluta todo efecto de La reforma escolar de José Pedro Varela sobre la sociedad de la campaña.
   <!-- feedback: Incorrecto. La privatización de todos los colegios religiosos representa una distracción conceptual que no interfirió de esa forma ni anula el papel de La reforma escolar de José Pedro Varela. -->
 - [ ] C) Que la imposición de La prohibición de la educación a las clases populares sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
   <!-- feedback: Incorrecto. La prohibición de la educación a las clases populares es una lectura errónea que tergiversa la base socioeconómica agropecuaria de la Banda Oriental o del Estado uruguayo. -->
@@ -106,13 +106,13 @@ La relación entre La reforma escolar de José Pedro Varela y la enseñanza laic
 Si analizás la trascendencia de este suceso, ¿cómo se explica la relación causa-efecto entre El ferrocarril, el telégrafo y el fusil Remington y la tecnología al servicio de la centralización estatal?
 
 ### Opciones
-- [x] A) Que la implantación de El ferrocarril, el telégrafo y el fusil Remington actuó como la causa principal que posibilitó el desarrollo de la tecnología al servicio de la centralización estatal.
+- [x] D) Que la implantación de El ferrocarril, el telégrafo y el fusil Remington actuó como la causa principal que posibilitó el desarrollo de la tecnología al servicio de la centralización estatal.
   <!-- feedback: Correcto. Hay una relación causal directa: El ferrocarril, el telégrafo y el fusil Remington funcionó como cimiento para que se diera la tecnología al servicio de la centralización estatal. -->
-- [ ] B) Que la promoción de La crisis de la exportación de cueros a Europa bloqueó de forma absoluta todo efecto de El ferrocarril, el telégrafo y el fusil Remington sobre la sociedad de la campaña.
+- [ ] A) Que la promoción de La crisis de la exportación de cueros a Europa bloqueó de forma absoluta todo efecto de El ferrocarril, el telégrafo y el fusil Remington sobre la sociedad de la campaña.
   <!-- feedback: Incorrecto. La crisis de la exportación de cueros a Europa representa una distracción conceptual que no interfirió de esa forma ni anula el papel de El ferrocarril, el telégrafo y el fusil Remington. -->
-- [ ] C) Que la imposición de La abolición del sufragio secreto y legislativo sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
+- [ ] B) Que la imposición de La abolición del sufragio secreto y legislativo sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
   <!-- feedback: Incorrecto. La abolición del sufragio secreto y legislativo es una lectura errónea que tergiversa la base socioeconómica agropecuaria de la Banda Oriental o del Estado uruguayo. -->
-- [ ] D) Que la aplicación de La anexión económica forzosa al Imperio alemán resolvió de forma pacífica todas las tensiones sin participación de caudillos agrarios.
+- [ ] C) Que la aplicación de La anexión económica forzosa al Imperio alemán resolvió de forma pacífica todas las tensiones sin participación de caudillos agrarios.
   <!-- feedback: Incorrecto. La anexión económica forzosa al Imperio alemán representa un supuesto inverosímil que contradice las agudas luchas partidarias y sociales de la época. -->
 
 ### Explicacion Pedagogica
@@ -130,11 +130,11 @@ La relación entre El ferrocarril, el telégrafo y el fusil Remington y la tecno
 Si analizás la trascendencia de este suceso, ¿cómo se explica la relación causa-efecto entre La definición estricta de la propiedad privada rural y el fin de la ocupación precaria en la campaña?
 
 ### Opciones
-- [x] A) Que la implantación de La definición estricta de la propiedad privada rural actuó como la causa principal que posibilitó el desarrollo de el fin de la ocupación precaria en la campaña.
+- [x] C) Que la implantación de La definición estricta de la propiedad privada rural actuó como la causa principal que posibilitó el desarrollo de el fin de la ocupación precaria en la campaña.
   <!-- feedback: Correcto. Hay una relación causal directa: La definición estricta de la propiedad privada rural funcionó como cimiento para que se diera el fin de la ocupación precaria en la campaña. -->
-- [ ] B) Que la promoción de La distribución gratuita de estancias a los peones bloqueó de forma absoluta todo efecto de La definición estricta de la propiedad privada rural sobre la sociedad de la campaña.
+- [ ] A) Que la promoción de La distribución gratuita de estancias a los peones bloqueó de forma absoluta todo efecto de La definición estricta de la propiedad privada rural sobre la sociedad de la campaña.
   <!-- feedback: Incorrecto. La distribución gratuita de estancias a los peones representa una distracción conceptual que no interfirió de esa forma ni anula el papel de La definición estricta de la propiedad privada rural. -->
-- [ ] C) Que la imposición de La nacionalización de todos los predios agrarios sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
+- [ ] B) Que la imposición de La nacionalización de todos los predios agrarios sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
   <!-- feedback: Incorrecto. La nacionalización de todos los predios agrarios es una lectura errónea que tergiversa la base socioeconómica agropecuaria de la Banda Oriental o del Estado uruguayo. -->
 - [ ] D) Que la aplicación de El retorno del sistema comunal de los charrúas resolvió de forma pacífica todas las tensiones sin participación de caudillos agrarios.
   <!-- feedback: Incorrecto. El retorno del sistema comunal de los charrúas representa un supuesto inverosímil que contradice las agudas luchas partidarias y sociales de la época. -->
@@ -178,9 +178,9 @@ La relación entre La Asociación Rural del Uruguay y el gremio de hacendados qu
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de El militarismo del general Máximo Santos en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó la consolidación del poder del ejército en el Estado a través del despliegue efectivo de El militarismo del general Máximo Santos en el territorio nacional.
+- [x] B) En que viabilizó la consolidación del poder del ejército en el Estado a través del despliegue efectivo de El militarismo del general Máximo Santos en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, El militarismo del general Máximo Santos se tradujo directamente en la consolidación del poder del ejército en el Estado, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de La declaración de guerra de Uruguay a la Argentina como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de La declaración de guerra de Uruguay a la Argentina como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. La declaración de guerra de Uruguay a la Argentina no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
 - [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de El retorno pacífico a la Constitución de 1830.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a El retorno pacífico a la Constitución de 1830 carece de veracidad y fundamento histórico para este período. -->
@@ -202,11 +202,11 @@ La aplicación práctica de El militarismo del general Máximo Santos revela que
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de La secularización del Estado mediante el Registro Civil en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó el retiro de competencias legales a la Iglesia a través del despliegue efectivo de La secularización del Estado mediante el Registro Civil en el territorio nacional.
+- [x] C) En que viabilizó el retiro de competencias legales a la Iglesia a través del despliegue efectivo de La secularización del Estado mediante el Registro Civil en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, La secularización del Estado mediante el Registro Civil se tradujo directamente en el retiro de competencias legales a la Iglesia, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de La ilegalización absoluta de la religión católica como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de La ilegalización absoluta de la religión católica como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. La ilegalización absoluta de la religión católica no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
-- [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La entrega de la educación al control del Papa.
+- [ ] B) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La entrega de la educación al control del Papa.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La entrega de la educación al control del Papa carece de veracidad y fundamento histórico para este período. -->
 - [ ] D) En que provocó el abandono inmediato de las estancias y la adopción generalizada de La instauración de la ley sharia en Montevideo por los gauchos.
   <!-- feedback: Incorrecto. La instauración de la ley sharia en Montevideo representa un supuesto anacrónico o absurdo que no operó en la realidad cotidiana del campo uruguayo. -->
@@ -226,11 +226,11 @@ La aplicación práctica de La secularización del Estado mediante el Registro C
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de La introducción del ganado ovino y el mestizaje en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó la diversificación exportadora del agro a través del despliegue efectivo de La introducción del ganado ovino y el mestizaje en el territorio nacional.
+- [x] C) En que viabilizó la diversificación exportadora del agro a través del despliegue efectivo de La introducción del ganado ovino y el mestizaje en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, La introducción del ganado ovino y el mestizaje se tradujo directamente en la diversificación exportadora del agro, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de La prohibición definitiva de la carne vacuna como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de La prohibición definitiva de la carne vacuna como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. La prohibición definitiva de la carne vacuna no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
-- [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La estatización de todos los saladeros de Montevideo.
+- [ ] B) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La estatización de todos los saladeros de Montevideo.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La estatización de todos los saladeros de Montevideo carece de veracidad y fundamento histórico para este período. -->
 - [ ] D) En que provocó el abandono inmediato de las estancias y la adopción generalizada de La importación de camellos para el transporte rural por los gauchos.
   <!-- feedback: Incorrecto. La importación de camellos para el transporte rural representa un supuesto anacrónico o absurdo que no operó en la realidad cotidiana del campo uruguayo. -->
@@ -250,9 +250,9 @@ La aplicación práctica de La introducción del ganado ovino y el mestizaje rev
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de La estabilidad del patrón oro y la unificación aduanera en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó la inserción exitosa en el mercado internacional a través del despliegue efectivo de La estabilidad del patrón oro y la unificación aduanera en el territorio nacional.
+- [x] B) En que viabilizó la inserción exitosa en el mercado internacional a través del despliegue efectivo de La estabilidad del patrón oro y la unificación aduanera en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, La estabilidad del patrón oro y la unificación aduanera se tradujo directamente en la inserción exitosa en el mercado internacional, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de La devaluación masiva de la moneda uruguaya como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de La devaluación masiva de la moneda uruguaya como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. La devaluación masiva de la moneda uruguaya no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
 - [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La adopción del dólar como divisa oficial.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La adopción del dólar como divisa oficial carece de veracidad y fundamento histórico para este período. -->
@@ -274,13 +274,13 @@ La aplicación práctica de La estabilidad del patrón oro y la unificación adu
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de El gobierno de Lorenzo Latorre en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó la pacificación del campo por la fuerza militar a través del despliegue efectivo de El gobierno de Lorenzo Latorre en el territorio nacional.
+- [x] D) En que viabilizó la pacificación del campo por la fuerza militar a través del despliegue efectivo de El gobierno de Lorenzo Latorre en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, El gobierno de Lorenzo Latorre se tradujo directamente en la pacificación del campo por la fuerza militar, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de La asunción democrática de Sanguinetti como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de La asunción democrática de Sanguinetti como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. La asunción democrática de Sanguinetti no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
-- [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de El inicio del régimen batllista reformista.
+- [ ] B) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de El inicio del régimen batllista reformista.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a El inicio del régimen batllista reformista carece de veracidad y fundamento histórico para este período. -->
-- [ ] D) En que provocó el abandono inmediato de las estancias y la adopción generalizada de La disolución definitiva del Partido Colorado por los gauchos.
+- [ ] C) En que provocó el abandono inmediato de las estancias y la adopción generalizada de La disolución definitiva del Partido Colorado por los gauchos.
   <!-- feedback: Incorrecto. La disolución definitiva del Partido Colorado representa un supuesto anacrónico o absurdo que no operó en la realidad cotidiana del campo uruguayo. -->
 
 ### Explicacion Pedagogica
@@ -298,11 +298,11 @@ La aplicación práctica de El gobierno de Lorenzo Latorre revela que el gobiern
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de El alambramiento de los campos en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó el fin de la ganadería libre y el vagabundeo a través del despliegue efectivo de El alambramiento de los campos en el territorio nacional.
+- [x] C) En que viabilizó el fin de la ganadería libre y el vagabundeo a través del despliegue efectivo de El alambramiento de los campos en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, El alambramiento de los campos se tradujo directamente en el fin de la ganadería libre y el vagabundeo, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de La estatización total de la ganadería vacuna como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de La estatización total de la ganadería vacuna como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. La estatización total de la ganadería vacuna no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
-- [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La parcelación de forma democrática para pequeños productores.
+- [ ] B) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La parcelación de forma democrática para pequeños productores.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La parcelación de forma democrática para pequeños productores carece de veracidad y fundamento histórico para este período. -->
 - [ ] D) En que provocó el abandono inmediato de las estancias y la adopción generalizada de La importación masiva de ovejas salvajes de Asia por los gauchos.
   <!-- feedback: Incorrecto. La importación masiva de ovejas salvajes de Asia representa un supuesto anacrónico o absurdo que no operó en la realidad cotidiana del campo uruguayo. -->
@@ -322,13 +322,13 @@ La aplicación práctica de El alambramiento de los campos revela que el alambra
 ¿Qué contradicción o conflicto de intereses de la sociedad de la época queda en evidencia al analizar las consecuencias de La reforma escolar de José Pedro Varela?
 
 ### Opciones
-- [x] A) La fractura social entre los sectores que consolidaron su posición con la enseñanza laica, gratuita y obligatoria gracias a La reforma escolar de José Pedro Varela y aquellos que resultaron postergados.
+- [x] D) La fractura social entre los sectores que consolidaron su posición con la enseñanza laica, gratuita y obligatoria gracias a La reforma escolar de José Pedro Varela y aquellos que resultaron postergados.
   <!-- feedback: Correcto. El análisis crítico de La reforma escolar de José Pedro Varela revela una profunda contradicción en torno a la enseñanza laica, gratuita y obligatoria, marcando límites en la integración social. -->
-- [ ] B) El enfrentamiento ideológico entre los defensores de La privatización de todos los colegios religiosos y los promotores de una monarquía incaica absoluta en Canelones.
+- [ ] A) El enfrentamiento ideológico entre los defensores de La privatización de todos los colegios religiosos y los promotores de una monarquía incaica absoluta en Canelones.
   <!-- feedback: Incorrecto. Una monarquía incaica en Canelones es un absurdo geográfico e histórico sin relación con los conflictos reales uruguayos. -->
-- [ ] C) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La prohibición de la educación a las clases populares.
+- [ ] B) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La prohibición de la educación a las clases populares.
   <!-- feedback: Incorrecto. Los hacendados dependían vitalmente de la exportación pecuaria y nunca buscaron prohibir su comercio para imponer La prohibición de la educación a las clases populares. -->
-- [ ] D) La total disolución de las clases sociales que eliminó el influjo de La unificación de la educación con el clero jesuita y unificó amigablemente a toda la población.
+- [ ] C) La total disolución de las clases sociales que eliminó el influjo de La unificación de la educación con el clero jesuita y unificó amigablemente a toda la población.
   <!-- feedback: Incorrecto. Postular una armonía absoluta que borrara las tensiones y anulara La unificación de la educación con el clero jesuita es una lectura idílica e incorrecta de la historia nacional. -->
 
 ### Explicacion Pedagogica
@@ -346,13 +346,13 @@ El análisis crítico de La reforma escolar de José Pedro Varela demuestra que 
 ¿Qué contradicción o conflicto de intereses de la sociedad de la época queda en evidencia al analizar las consecuencias de El ferrocarril, el telégrafo y el fusil Remington?
 
 ### Opciones
-- [x] A) La fractura social entre los sectores que consolidaron su posición con la tecnología al servicio de la centralización estatal gracias a El ferrocarril, el telégrafo y el fusil Remington y aquellos que resultaron postergados.
+- [x] D) La fractura social entre los sectores que consolidaron su posición con la tecnología al servicio de la centralización estatal gracias a El ferrocarril, el telégrafo y el fusil Remington y aquellos que resultaron postergados.
   <!-- feedback: Correcto. El análisis crítico de El ferrocarril, el telégrafo y el fusil Remington revela una profunda contradicción en torno a la tecnología al servicio de la centralización estatal, marcando límites en la integración social. -->
-- [ ] B) El enfrentamiento ideológico entre los defensores de La crisis de la exportación de cueros a Europa y los promotores de una monarquía incaica absoluta en Canelones.
+- [ ] A) El enfrentamiento ideológico entre los defensores de La crisis de la exportación de cueros a Europa y los promotores de una monarquía incaica absoluta en Canelones.
   <!-- feedback: Incorrecto. Una monarquía incaica en Canelones es un absurdo geográfico e histórico sin relación con los conflictos reales uruguayos. -->
-- [ ] C) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La abolición del sufragio secreto y legislativo.
+- [ ] B) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La abolición del sufragio secreto y legislativo.
   <!-- feedback: Incorrecto. Los hacendados dependían vitalmente de la exportación pecuaria y nunca buscaron prohibir su comercio para imponer La abolición del sufragio secreto y legislativo. -->
-- [ ] D) La total disolución de las clases sociales que eliminó el influjo de La anexión económica forzosa al Imperio alemán y unificó amigablemente a toda la población.
+- [ ] C) La total disolución de las clases sociales que eliminó el influjo de La anexión económica forzosa al Imperio alemán y unificó amigablemente a toda la población.
   <!-- feedback: Incorrecto. Postular una armonía absoluta que borrara las tensiones y anulara La anexión económica forzosa al Imperio alemán es una lectura idílica e incorrecta de la historia nacional. -->
 
 ### Explicacion Pedagogica
@@ -370,9 +370,9 @@ El análisis crítico de El ferrocarril, el telégrafo y el fusil Remington demu
 ¿Qué contradicción o conflicto de intereses de la sociedad de la época queda en evidencia al analizar las consecuencias de La definición estricta de la propiedad privada rural?
 
 ### Opciones
-- [x] A) La fractura social entre los sectores que consolidaron su posición con el fin de la ocupación precaria en la campaña gracias a La definición estricta de la propiedad privada rural y aquellos que resultaron postergados.
+- [x] B) La fractura social entre los sectores que consolidaron su posición con el fin de la ocupación precaria en la campaña gracias a La definición estricta de la propiedad privada rural y aquellos que resultaron postergados.
   <!-- feedback: Correcto. El análisis crítico de La definición estricta de la propiedad privada rural revela una profunda contradicción en torno a el fin de la ocupación precaria en la campaña, marcando límites en la integración social. -->
-- [ ] B) El enfrentamiento ideológico entre los defensores de La distribución gratuita de estancias a los peones y los promotores de una monarquía incaica absoluta en Canelones.
+- [ ] A) El enfrentamiento ideológico entre los defensores de La distribución gratuita de estancias a los peones y los promotores de una monarquía incaica absoluta en Canelones.
   <!-- feedback: Incorrecto. Una monarquía incaica en Canelones es un absurdo geográfico e histórico sin relación con los conflictos reales uruguayos. -->
 - [ ] C) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La nacionalización de todos los predios agrarios.
   <!-- feedback: Incorrecto. Los hacendados dependían vitalmente de la exportación pecuaria y nunca buscaron prohibir su comercio para imponer La nacionalización de todos los predios agrarios. -->
@@ -394,13 +394,13 @@ El análisis crítico de La definición estricta de la propiedad privada rural d
 ¿Qué contradicción o conflicto de intereses de la sociedad de la época queda en evidencia al analizar las consecuencias de La Asociación Rural del Uruguay?
 
 ### Opciones
-- [x] A) La fractura social entre los sectores que consolidaron su posición con el gremio de hacendados que exigía orden legal gracias a La Asociación Rural del Uruguay y aquellos que resultaron postergados.
+- [x] D) La fractura social entre los sectores que consolidaron su posición con el gremio de hacendados que exigía orden legal gracias a La Asociación Rural del Uruguay y aquellos que resultaron postergados.
   <!-- feedback: Correcto. El análisis crítico de La Asociación Rural del Uruguay revela una profunda contradicción en torno a el gremio de hacendados que exigía orden legal, marcando límites en la integración social. -->
-- [ ] B) El enfrentamiento ideológico entre los defensores de La confederación de sindicatos obreros anarquistas y los promotores de una monarquía incaica absoluta en Canelones.
+- [ ] A) El enfrentamiento ideológico entre los defensores de La confederación de sindicatos obreros anarquistas y los promotores de una monarquía incaica absoluta en Canelones.
   <!-- feedback: Incorrecto. Una monarquía incaica en Canelones es un absurdo geográfico e histórico sin relación con los conflictos reales uruguayos. -->
-- [ ] C) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar El partido político opositor a Lorenzo Latorre.
+- [ ] B) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar El partido político opositor a Lorenzo Latorre.
   <!-- feedback: Incorrecto. Los hacendados dependían vitalmente de la exportación pecuaria y nunca buscaron prohibir su comercio para imponer El partido político opositor a Lorenzo Latorre. -->
-- [ ] D) La total disolución de las clases sociales que eliminó el influjo de La organización jesuita de reparto de tierras y unificó amigablemente a toda la población.
+- [ ] C) La total disolución de las clases sociales que eliminó el influjo de La organización jesuita de reparto de tierras y unificó amigablemente a toda la población.
   <!-- feedback: Incorrecto. Postular una armonía absoluta que borrara las tensiones y anulara La organización jesuita de reparto de tierras es una lectura idílica e incorrecta de la historia nacional. -->
 
 ### Explicacion Pedagogica
@@ -418,9 +418,9 @@ El análisis crítico de La Asociación Rural del Uruguay demuestra que la Asoci
 Al juzgar de manera integral el alcance histórico de El militarismo del general Máximo Santos, ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?
 
 ### Opciones
-- [x] A) Que El militarismo del general Máximo Santos constituyó una respuesta clave que sentó las bases de la consolidación del poder del ejército en el Estado, reconfigurando de forma duradera el orden estatal del país.
+- [x] B) Que El militarismo del general Máximo Santos constituyó una respuesta clave que sentó las bases de la consolidación del poder del ejército en el Estado, reconfigurando de forma duradera el orden estatal del país.
   <!-- feedback: Correcto. Una evaluación de largo plazo demuestra que El militarismo del general Máximo Santos actuó como piedra angular para estructurar la consolidación del poder del ejército en el Estado en el Uruguay moderno. -->
-- [ ] B) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La declaración de guerra de Uruguay a la Argentina.
+- [ ] A) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La declaración de guerra de Uruguay a la Argentina.
   <!-- feedback: Incorrecto. Las transformaciones republicanas, democráticas o sociales contaban con amplio arraigo e irreversibilidad, descartando el retorno a La declaración de guerra de Uruguay a la Argentina. -->
 - [ ] C) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de El retorno pacífico a la Constitución de 1830.
   <!-- feedback: Incorrecto. Sostener que El militarismo del general Máximo Santos solo sirvió para someter el país a El retorno pacífico a la Constitución de 1830 es una lectura reduccionista que ignora la dinámica interna soberana. -->
@@ -442,13 +442,13 @@ La evaluación crítica de el militarismo de Máximo Santos (1882-1886) destaca 
 Al juzgar de manera integral el alcance histórico de La secularización del Estado mediante el Registro Civil, ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?
 
 ### Opciones
-- [x] A) Que La secularización del Estado mediante el Registro Civil constituyó una respuesta clave que sentó las bases de el retiro de competencias legales a la Iglesia, reconfigurando de forma duradera el orden estatal del país.
+- [x] D) Que La secularización del Estado mediante el Registro Civil constituyó una respuesta clave que sentó las bases de el retiro de competencias legales a la Iglesia, reconfigurando de forma duradera el orden estatal del país.
   <!-- feedback: Correcto. Una evaluación de largo plazo demuestra que La secularización del Estado mediante el Registro Civil actuó como piedra angular para estructurar el retiro de competencias legales a la Iglesia en el Uruguay moderno. -->
-- [ ] B) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La ilegalización absoluta de la religión católica.
+- [ ] A) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La ilegalización absoluta de la religión católica.
   <!-- feedback: Incorrecto. Las transformaciones republicanas, democráticas o sociales contaban con amplio arraigo e irreversibilidad, descartando el retorno a La ilegalización absoluta de la religión católica. -->
-- [ ] C) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La entrega de la educación al control del Papa.
+- [ ] B) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La entrega de la educación al control del Papa.
   <!-- feedback: Incorrecto. Sostener que La secularización del Estado mediante el Registro Civil solo sirvió para someter el país a La entrega de la educación al control del Papa es una lectura reduccionista que ignora la dinámica interna soberana. -->
-- [ ] D) Que careció de trascendencia práctica real al tratarse de una imitación artificial de La instauración de la ley sharia en Montevideo sin ningún tipo de base social en el territorio.
+- [ ] C) Que careció de trascendencia práctica real al tratarse de una imitación artificial de La instauración de la ley sharia en Montevideo sin ningún tipo de base social en el territorio.
   <!-- feedback: Incorrecto. A pesar de las influencias conceptuales externas, el modelo uruguayo se adaptó y respondió de forma directa a su propia base social y conflictos de época. -->
 
 ### Explicacion Pedagogica
@@ -466,9 +466,9 @@ La evaluación crítica de la Ley de Registro Civil y Matrimonio Civil destaca e
 Al juzgar de manera integral el alcance histórico de La introducción del ganado ovino y el mestizaje, ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?
 
 ### Opciones
-- [x] A) Que La introducción del ganado ovino y el mestizaje constituyó una respuesta clave que sentó las bases de la diversificación exportadora del agro, reconfigurando de forma duradera el orden estatal del país.
+- [x] B) Que La introducción del ganado ovino y el mestizaje constituyó una respuesta clave que sentó las bases de la diversificación exportadora del agro, reconfigurando de forma duradera el orden estatal del país.
   <!-- feedback: Correcto. Una evaluación de largo plazo demuestra que La introducción del ganado ovino y el mestizaje actuó como piedra angular para estructurar la diversificación exportadora del agro en el Uruguay moderno. -->
-- [ ] B) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La prohibición definitiva de la carne vacuna.
+- [ ] A) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La prohibición definitiva de la carne vacuna.
   <!-- feedback: Incorrecto. Las transformaciones republicanas, democráticas o sociales contaban con amplio arraigo e irreversibilidad, descartando el retorno a La prohibición definitiva de la carne vacuna. -->
 - [ ] C) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La estatización de todos los saladeros de Montevideo.
   <!-- feedback: Incorrecto. Sostener que La introducción del ganado ovino y el mestizaje solo sirvió para someter el país a La estatización de todos los saladeros de Montevideo es una lectura reduccionista que ignora la dinámica interna soberana. -->
@@ -490,13 +490,13 @@ La evaluación crítica de el paso de la 'edad del cuero' a la ganadería de lan
 Al juzgar de manera integral el alcance histórico de La estabilidad del patrón oro y la unificación aduanera, ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?
 
 ### Opciones
-- [x] A) Que La estabilidad del patrón oro y la unificación aduanera constituyó una respuesta clave que sentó las bases de la inserción exitosa en el mercado internacional, reconfigurando de forma duradera el orden estatal del país.
+- [x] D) Que La estabilidad del patrón oro y la unificación aduanera constituyó una respuesta clave que sentó las bases de la inserción exitosa en el mercado internacional, reconfigurando de forma duradera el orden estatal del país.
   <!-- feedback: Correcto. Una evaluación de largo plazo demuestra que La estabilidad del patrón oro y la unificación aduanera actuó como piedra angular para estructurar la inserción exitosa en el mercado internacional en el Uruguay moderno. -->
-- [ ] B) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La devaluación masiva de la moneda uruguaya.
+- [ ] A) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La devaluación masiva de la moneda uruguaya.
   <!-- feedback: Incorrecto. Las transformaciones republicanas, democráticas o sociales contaban con amplio arraigo e irreversibilidad, descartando el retorno a La devaluación masiva de la moneda uruguaya. -->
-- [ ] C) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La adopción del dólar como divisa oficial.
+- [ ] B) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La adopción del dólar como divisa oficial.
   <!-- feedback: Incorrecto. Sostener que La estabilidad del patrón oro y la unificación aduanera solo sirvió para someter el país a La adopción del dólar como divisa oficial es una lectura reduccionista que ignora la dinámica interna soberana. -->
-- [ ] D) Que careció de trascendencia práctica real al tratarse de una imitación artificial de El trueque obligatorio en las aduanas de frontera sin ningún tipo de base social en el territorio.
+- [ ] C) Que careció de trascendencia práctica real al tratarse de una imitación artificial de El trueque obligatorio en las aduanas de frontera sin ningún tipo de base social en el territorio.
   <!-- feedback: Incorrecto. A pesar de las influencias conceptuales externas, el modelo uruguayo se adaptó y respondió de forma directa a su propia base social y conflictos de época. -->
 
 ### Explicacion Pedagogica

@@ -35,11 +35,11 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ¿Cuál de las siguientes características define de manera primordial al género lírico frente a los demás géneros literarios?
 
 ### Opciones
-- [x] A) La expresión subjetiva de sentimientos, emociones y estados de ánimo de un yo lírico, generalmente estructurada en versos.
+- [x] C) La expresión subjetiva de sentimientos, emociones y estados de ánimo de un yo lírico, generalmente estructurada en versos.
   <!-- feedback: Correcto. El género lírico se centra en la interioridad afectiva y expresiva del poeta. -->
-- [ ] B) La representación física de acciones cómicas destinadas a representarse en un escenario del Teatro Nacional.
+- [ ] A) La representación física de acciones cómicas destinadas a representarse en un escenario del Teatro Nacional.
   <!-- feedback: Incorrecto. Esto caracteriza al género dramático o teatral. -->
-- [ ] C) La narración cronológica de acontecimientos bélicos protagonizados por héroes históricos de Alajuela.
+- [ ] B) La narración cronológica de acontecimientos bélicos protagonizados por héroes históricos de Alajuela.
   <!-- feedback: Incorrecto. Esto define al género narrativo épico o novela histórica. -->
 - [ ] D) La redacción de informes técnicos sobre el cultivo de café en Cartago.
   <!-- feedback: Incorrecto. Corresponde a la tipología expositiva de divulgación técnica. -->
@@ -62,9 +62,9 @@ La lírica se define por la manifestación de la intimidad afectiva del sujeto c
 ### Opciones
 - [ ] A) La persona de carne y hueso que compró el libro en una librería de Cartago.
   <!-- feedback: Incorrecto. Este es el lector real externo, no una entidad interna del poema. -->
-- [x] B) La voz o sujeto de enunciación ficticio creado por el autor que expresa sus sentimientos dentro del poema.
+- [x] C) La voz o sujeto de enunciación ficticio creado por el autor que expresa sus sentimientos dentro del poema.
   <!-- feedback: Correcto. El yo lírico es la instancia enunciativa interna de la poesía, análoga al narrador en la narrativa. -->
-- [ ] C) El funcionario del MEP encargado de certificar las calificaciones de Español.
+- [ ] B) El funcionario del MEP encargado de certificar las calificaciones de Español.
   <!-- feedback: Incorrecto. Es un actor administrativo externo que no interviene en la voz artística del poema. -->
 - [ ] D) El antagonista que busca destruir la felicidad del protagonista en la obra dramática.
   <!-- feedback: Incorrecto. Esto pertenece al género de la narrativa o del teatro, no de la lírica. -->
@@ -87,11 +87,11 @@ El yo lírico es la máscara o voz literaria creada por el poeta para enunciar d
 ### Opciones
 - [ ] A) La cantidad de páginas físicas impresas que tiene un poemario de San José.
   <!-- feedback: Incorrecto. La longitud del libro físico es una variable comercial, no una medida métrica del verso. -->
-- [x] B) La medida silábica de los versos, determinada por la acentuación y la aplicación de licencias poéticas como la sinalefa.
+- [x] D) La medida silábica de los versos, determinada por la acentuación y la aplicación de licencias poéticas como la sinalefa.
   <!-- feedback: Correcto. La métrica estudia la estructura rítmica y la cantidad de sílabas métricas de los versos. -->
-- [ ] C) La cantidad de personajes que mueren al final de un capítulo dramático en Cartago.
+- [ ] B) La cantidad de personajes que mueren al final de un capítulo dramático en Cartago.
   <!-- feedback: Incorrecto. Esto pertenece a la estructura del argumento de la novela o tragedia teatral. -->
-- [ ] D) Las reglas de ortografía de acentuación dictadas oficialmente por el MEP.
+- [ ] C) Las reglas de ortografía de acentuación dictadas oficialmente por el MEP.
   <!-- feedback: Incorrecto. Aunque relacionadas, las reglas métricas poéticas son licencias estéticas del arte lírico clásicas. -->
 
 ### Explicacion Pedagogica
@@ -162,11 +162,11 @@ El cuarteto clásico es una estrofa de cuatro versos endecasílabos con rima con
 ### Opciones
 - [ ] A) Hipérbaton (alteración del orden de la oración).
   <!-- feedback: Incorrecto. El hipérbaton altera el orden lógico sintáctico tradicional de las oraciones. -->
-- [x] B) Anáfora.
+- [x] D) Anáfora.
   <!-- feedback: Correcto. La anáfora es la repetición de palabras al inicio de versos sucesivos para dar ritmo y énfasis al poema. -->
-- [ ] C) Aliteración.
+- [ ] B) Aliteración.
   <!-- feedback: Incorrecto. Consiste en la repetición constante de un mismo sonido consonántico a lo largo del verso. -->
-- [ ] D) Asíndeton.
+- [ ] C) Asíndeton.
   <!-- feedback: Incorrecto. Es la eliminación de las conjunciones copulativas coordinantes para acelerar el verso. -->
 
 ### Explicacion Pedagogica
@@ -187,9 +187,9 @@ Si desea emplear la personificación o prosopopeya, ¿cuál de los siguientes ve
 ### Opciones
 - [ ] A) La carreta de madera avanza lentamente jalada por dos bueyes robustos.
   <!-- feedback: Incorrecto. Es una descripción literal y fáctica de una acción cotidiana del campo, sin personificación. -->
-- [x] B) La carreta cansada lloraba sus penas de madera sobre el pedregoso camino de Cartago.
+- [x] C) La carreta cansada lloraba sus penas de madera sobre el pedregoso camino de Cartago.
   <!-- feedback: Correcto. Atribuye cualidades humanas ('cansada', 'lloraba sus penas') a un objeto inanimado (la carreta). -->
-- [ ] C) La rueda gira y gira como un círculo perfecto pintado de alegres colores.
+- [ ] B) La rueda gira y gira como un círculo perfecto pintado de alegres colores.
   <!-- feedback: Incorrecto. Es un símil de comparación directa ('como un círculo perfecto'), no una personificación. -->
 - [ ] D) Qué hermosa es la carreta típica costarricense declarada símbolo nacional por el MEP.
   <!-- feedback: Incorrecto. Expresa una opinión directa y fáctica sin recurrir a tropos de personificación. -->
@@ -241,11 +241,11 @@ que guardan el rocío fresco de la mañana de Heredia.'
 ### Opciones
 - [ ] A) Símil utilizando el nexo de comparación 'como'.
   <!-- feedback: Incorrecto. El símil requiere un nexo comparativo explícito (como, tal cual, parece). Aquí la identificación es directa. -->
-- [x] B) Metáfora.
+- [x] D) Metáfora.
   <!-- feedback: Correcto. La metáfora identifica directamente un término real con uno imaginario basándose en una relación de semejanza. -->
-- [ ] C) Antítesis por oposición de conceptos en la asamblea.
+- [ ] B) Antítesis por oposición de conceptos en la asamblea.
   <!-- feedback: Incorrecto. La antítesis contrapone ideas contrarias, no une dos elementos afines de forma directa. -->
-- [ ] D) Sinécdoque de la parte por el todo del país.
+- [ ] C) Sinécdoque de la parte por el todo del país.
   <!-- feedback: Incorrecto. Consiste en designar un objeto con el nombre de otro debido a una relación de inclusión física de la parte o el todo. -->
 
 ### Explicacion Pedagogica
@@ -293,9 +293,9 @@ y esta sed infinita de justicia que me quema la sangre.'
 ¿Qué actitud lírica y temple de ánimo se manifiestan de forma predominante en el fragmento anterior?
 
 ### Opciones
-- [x] A) Una actitud de comunión íntima con el campesinado humilde y un temple de ánimo de ferviente compromiso ético y anhelo de justicia social.
+- [x] B) Una actitud de comunión íntima con el campesinado humilde y un temple de ánimo de ferviente compromiso ético y anhelo de justicia social.
   <!-- feedback: Correcto. El fragmento resalta la humildad del peón ('hombre sencillo', 'manos ásperas') y proclama un anhelo de justicia de tono apasionado y ético. -->
-- [ ] B) Un desprecio altivo hacia las labores agrícolas costarricenses y la vida campestre de Cartago.
+- [ ] A) Un desprecio altivo hacia las labores agrícolas costarricenses y la vida campestre de Cartago.
   <!-- feedback: Incorrecto. Exalta su condición de hombre sencillo conectado con la tierra con un profundo sentido de dignidad, sin desprecios. -->
 - [ ] C) Una descripción puramente estadística de los salarios devengados en las montañas por cosechar café.
   <!-- feedback: Incorrecto. Mantiene un registro expresivo lírico de carácter existencial y social, ajeno a informes económicos matemáticos. -->
@@ -320,9 +320,9 @@ donde caen las horas lentas de la tarde de Liberia.'
 ¿Qué relación analógica y simbólica se establece en la metáfora principal de estos versos?
 
 ### Opciones
-- [ ] A) Identifica el silencio de Liberia con el ciclo geológico de la lluvia de Guanacaste.
+- [ ] B) Identifica el silencio de Liberia con el ciclo geológico de la lluvia de Guanacaste.
   <!-- feedback: Incorrecto. Es un tropo de carácter existencial íntimo y anímico, no un informe hidrológico geológico. -->
-- [x] B) Asocia el silencio con un pozo hondo de agua amarga para simbolizar la pesadez existencial, la desolación y la amargura del fluir del tiempo en el pueblo.
+- [x] A) Asocia el silencio con un pozo hondo de agua amarga para simbolizar la pesadez existencial, la desolación y la amargura del fluir del tiempo en el pueblo.
   <!-- feedback: Correcto. El pozo y el agua amarga metaforizan el encierro emocional, la soledad y la tristeza del paso lento de las horas del personaje. -->
 - [ ] C) Anuncia que el agua potable del pozo de Liberia está contaminada químicamente por pesticidas.
   <!-- feedback: Incorrecto. Se trata de un poema con fines estéticos y expresivos subjetivos, no un reporte de contaminación sanitaria. -->
@@ -349,11 +349,11 @@ corren las aguas limpias con gran porfía.'
 ### Opciones
 - [ ] A) Anáfora de palabras al inicio del verso.
   <!-- feedback: Incorrecto. No hay repetición de palabras en versos sucesivos. -->
-- [x] B) Hipérbaton.
+- [x] D) Hipérbaton.
   <!-- feedback: Correcto. El hipérbaton altera el orden lógico regular de la sintaxis (sujeto, verbo, complementos) con fines rítmicos o de rima poética. -->
-- [ ] C) Asíndeton por omisión de nexos copulativos.
+- [ ] B) Asíndeton por omisión de nexos copulativos.
   <!-- feedback: Incorrecto. No omite conjunciones necesarias; altera la disposición de las palabras. -->
-- [ ] D) Metáfora pura del monte de adobes de la provincia.
+- [ ] C) Metáfora pura del monte de adobes de la provincia.
   <!-- feedback: Incorrecto. Es una alteración sintáctica de estructura formal de la oración, no un tropo de comparación semántica. -->
 
 ### Explicacion Pedagogica
@@ -402,9 +402,9 @@ Al evaluar la consistencia formal y el rigor estético de esta composición clá
 ### Opciones
 - [ ] A) Es una muestra magistral de vanguardismo absoluto que mejora sustancialmente la armonía tradicional del soneto clásico.
   <!-- feedback: Incorrecto. En las composiciones clásicas como el soneto, romper de forma caprichosa la métrica y el registro sin justificación deforma la armonía formal de la estrofa. -->
-- [x] B) Representa una grave inconsistencia formal que destruye el ritmo, la musicalidad y la estructura estricta del soneto clásico, revelando falta de dominio de la métrica y del registro poético culto.
+- [x] C) Representa una grave inconsistencia formal que destruye el ritmo, la musicalidad y la estructura estricta del soneto clásico, revelando falta de dominio de la métrica y del registro poético culto.
   <!-- feedback: Correcto. El soneto exige catorce versos endecasílabos de rima consonante; romper la simetría métrica con versos cortos incongruentes desbarata la estrofa. -->
-- [ ] C) Demuestra que el estudiante utilizó oraciones impersonales con pasiva refleja de forma incorrecta.
+- [ ] B) Demuestra que el estudiante utilizó oraciones impersonales con pasiva refleja de forma incorrecta.
   <!-- feedback: Incorrecto. La métrica poética y la rima son ajenas a las reglas de la pasiva refleja gramatical expositiva. -->
 - [ ] D) Es perfectamente válido porque el MEP prohíbe el uso de versos endecasílabos en todos los colegios de secundaria del país.
   <!-- feedback: Incorrecto. El MEP no prohíbe ningún tipo de metro; al contrario, promueve el estudio formal de la métrica clásica española. -->
@@ -429,11 +429,11 @@ Al evaluar la calidad expresiva de las metáforas y repeticiones de esta estrofa
 ### Opciones
 - [ ] A) El uso de la personificación referida a un accidente de relieve geográfico de Alajuela.
   <!-- feedback: Incorrecto. La personificación de volcanes es un recurso clásico valioso y no constituye una debilidad de estilo. -->
-- [x] B) La redundancia léxica vacía e ineficaz en los versos ('fuego de fuego', 'cenizas de cenizas') que empobrece la musicalidad y la riqueza expresiva del poema.
+- [x] D) La redundancia léxica vacía e ineficaz en los versos ('fuego de fuego', 'cenizas de cenizas') que empobrece la musicalidad y la riqueza expresiva del poema.
   <!-- feedback: Correcto. Repetir palabras idénticas de forma sucesiva sin un propósito estético justificado cansa la audición e indica pobreza de vocabulario poético. -->
-- [ ] C) La ausencia de datos matemáticos exactos sobre la temperatura de la laguna del cráter.
+- [ ] B) La ausencia de datos matemáticos exactos sobre la temperatura de la laguna del cráter.
   <!-- feedback: Incorrecto. El lenguaje poético lírico no requiere de precisiones científicas de laboratorios químicos o termómetros. -->
-- [ ] D) La mención del volcán de la provincia de Alajuela de forma directa.
+- [ ] C) La mención del volcán de la provincia de Alajuela de forma directa.
   <!-- feedback: Incorrecto. Mencionar un lugar geográfico costarricense emblemático enriquece el arraigo cultural del poema. -->
 
 ### Explicacion Pedagogica
@@ -483,11 +483,11 @@ convirtiéndome en una hoja seca que el viento del tiempo arrastra hacia la fosa
 ### Opciones
 - [ ] A) La celebración gozosa de la longevidad y el envejecimiento de la población costarricense.
   <!-- feedback: Incorrecto. El tono es de angustia y asfixia frente al paso destructor del tiempo, no de gozo o celebración. -->
-- [x] B) La visión trágica y dolorosa del paso inexorable del tiempo (tempus fugit) que consume de forma implacable la vida humana y arrastra al sujeto hacia la muerte inevitable.
+- [x] D) La visión trágica y dolorosa del paso inexorable del tiempo (tempus fugit) que consume de forma implacable la vida humana y arrastra al sujeto hacia la muerte inevitable.
   <!-- feedback: Correcto. El reloj de hierro que devora segundos y la hoja seca arrastrada metaforizan de forma exacta el dolor de la fugacidad existencial humana. -->
-- [ ] C) La exigencia de colocar relojes de adobes en todas las plazas públicas del país.
+- [ ] B) La exigencia de colocar relojes de adobes en todas las plazas públicas del país.
   <!-- feedback: Incorrecto. El reloj es un símbolo poético de la fugacidad del tiempo, no una propuesta de decoración urbana municipal. -->
-- [ ] D) La descripción física objetiva de las oscilaciones pendulares de un reloj mecánico de pared de Cartago.
+- [ ] C) La descripción física objetiva de las oscilaciones pendulares de un reloj mecánico de pared de Cartago.
   <!-- feedback: Incorrecto. Es un análisis lírico subjetivo íntimo existencial de un estado de ánimo, no un manual técnico de relojería física. -->
 
 ### Explicacion Pedagogica
@@ -506,9 +506,9 @@ El tropo de la hoja seca y el tiempo destructor (cronófago) representa el tópi
 ¿Cuál es el nombre de la figura de construcción lírica que consiste en suprimir deliberadamente las conjunciones copulativas ordinarias (como 'y') entre términos sucesivos para dar dinamismo, rapidez y vértigo al verso?
 
 ### Opciones
-- [ ] A) Polisíndeton.
+- [ ] B) Polisíndeton.
   <!-- feedback: Incorrecto. El polisíndeton es lo opuesto: repite de forma excesiva las conjunciones copulativas ('y', 'e', 'ni') para dar lentitud y pesadez al poema. -->
-- [x] B) Asíndeton.
+- [x] A) Asíndeton.
   <!-- feedback: Correcto. El asíndeton elimina las conjunciones ('y', 'e', 'ni') sustituyéndolas por comas para agilizar la sonoridad rítmica del verso. -->
 - [ ] C) Aliteración fonética de la provincia.
   <!-- feedback: Incorrecto. Reitera un sonido de letra aislada, no elimina conjunciones coordinantes sintácticas. -->

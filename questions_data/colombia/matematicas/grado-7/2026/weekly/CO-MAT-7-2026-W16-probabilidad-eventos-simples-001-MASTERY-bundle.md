@@ -72,13 +72,13 @@ El espacio muestral es el conjunto de todos los resultados posibles del experime
 ### Enunciado
 ¿Cuál es la probabilidad de que salga "cara" en una moneda justa?
 ### Opciones
-- [x] A) $\dfrac{1}{2} = 0{,}5$
+- [x] D) $\dfrac{1}{2} = 0{,}5$
   <!-- feedback: Correcto. La moneda tiene $2$ caras posibles equiprobables. -->
-- [ ] B) $\dfrac{1}{4}$
+- [ ] A) $\dfrac{1}{4}$
   <!-- feedback: Incorrecto. La moneda no tiene $4$ lados. -->
-- [ ] C) $\dfrac{2}{3}$
+- [ ] B) $\dfrac{2}{3}$
   <!-- feedback: Incorrecto. Ese valor no coincide con la división $1/2$. -->
-- [ ] D) $1$
+- [ ] C) $1$
   <!-- feedback: Incorrecto. La probabilidad $1$ sería un evento seguro, no el de una sola cara. -->
 ### Explicacion Pedagogica
 Para eventos equiprobables: $P(\text{cara}) = \dfrac{\text{casos favorables}}{\text{casos totales}} = \dfrac{1}{2}$.
@@ -92,13 +92,13 @@ Para eventos equiprobables: $P(\text{cara}) = \dfrac{\text{casos favorables}}{\t
 ### Enunciado
 ¿Cuál es la probabilidad de obtener un número par en el lanzamiento?
 ### Opciones
-- [x] A) $\dfrac{1}{2} = 0{,}5$
+- [x] D) $\dfrac{1}{2} = 0{,}5$
   <!-- feedback: Correcto. Casos favorables $\{2,4,6\}$ y totales $\{1,2,3,4,5,6\}$; $\frac{3}{6} = \frac{1}{2}$. -->
-- [ ] B) $\dfrac{1}{3}$
+- [ ] A) $\dfrac{1}{3}$
   <!-- feedback: Incorrecto. Es el cociente de $2/6$, contando solo un par. -->
-- [ ] C) $\dfrac{1}{6}$
+- [ ] B) $\dfrac{1}{6}$
   <!-- feedback: Incorrecto. Es la probabilidad de un único número, no de los pares. -->
-- [ ] D) $\dfrac{2}{3}$
+- [ ] C) $\dfrac{2}{3}$
   <!-- feedback: Incorrecto. Conteo incorrecto de casos favorables. -->
 ### Explicacion Pedagogica
 Para un evento simple se cuentan los casos favorables sobre el total de resultados posibles.
@@ -172,9 +172,9 @@ La frecuencia relativa es el cociente entre el número de casos observados y el 
 ### Enunciado
 ¿Cuál es la probabilidad de ganar algún premio (mayor o menor) al comprar un boleto?
 ### Opciones
-- [x] A) $\dfrac{25}{50} = \dfrac{1}{2} = 0{,}5$
+- [x] B) $\dfrac{25}{50} = \dfrac{1}{2} = 0{,}5$
   <!-- feedback: Correcto. Boletos premiados $= 10 + 15 = 25$; probabilidad $= 25/50$. -->
-- [ ] B) $\dfrac{10}{50}$
+- [ ] A) $\dfrac{10}{50}$
   <!-- feedback: Incorrecto. Solo consideraste los premios mayores. -->
 - [ ] C) $\dfrac{15}{50}$
   <!-- feedback: Incorrecto. Solo consideraste los premios menores. -->
@@ -212,13 +212,13 @@ Con probabilidades cercanas a $1$, conviene prepararse para el evento más proba
 ### Enunciado
 ¿En cuál lote es más alta la probabilidad de ganar con un boleto comprado?
 ### Opciones
-- [x] A) En el Lote A, con probabilidad $0{,}05$, porque tiene menos boletos para la misma cantidad de premios
+- [x] D) En el Lote A, con probabilidad $0{,}05$, porque tiene menos boletos para la misma cantidad de premios
   <!-- feedback: Correcto. $P_A = \frac{5}{100} = 0{,}05$; $P_B = \frac{5}{200} = 0{,}025$. Lote A es el doble de probable. -->
-- [ ] B) En el Lote B, porque tiene más boletos
+- [ ] A) En el Lote B, porque tiene más boletos
   <!-- feedback: Incorrecto. Más boletos significa menos probabilidad por boleto individual. -->
-- [ ] C) Ambos lotes tienen la misma probabilidad
+- [ ] B) Ambos lotes tienen la misma probabilidad
   <!-- feedback: Incorrecto. Los denominadores son diferentes: $100$ vs $200$. -->
-- [ ] D) No se puede saber sin información del premio
+- [ ] C) No se puede saber sin información del premio
   <!-- feedback: Incorrecto. La probabilidad de obtener un boleto premiado depende solo del cociente. -->
 ### Explicacion Pedagogica
 Comparar probabilidades de eventos uniformes exige evaluar el cociente entre casos favorables y casos totales para cada escenario.

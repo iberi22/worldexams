@@ -63,11 +63,11 @@ Complete the sentence: "I eat ________ apple every morning."
 ### Opciones
 - [ ] A) a
   <!-- feedback: Incorrect. "Apple" starts with a vowel sound. -->
-- [x] B) an
+- [x] D) an
   <!-- feedback: Correct! "An" is used before words starting with a vowel sound. -->
-- [ ] C) some
+- [ ] B) some
   <!-- feedback: Incorrect. While possible for plural, "an" is used for one specific apple. -->
-- [ ] D) the some
+- [ ] C) the some
   <!-- feedback: Incorrect structure. -->
 
 ### Explicacion Pedagogica
@@ -113,11 +113,11 @@ If you want to have healthy teeth, you ________ eat too many sweets.
 ### Opciones
 - [ ] A) should
   <!-- feedback: Incorrect. Eating sweets is bad for teeth. -->
-- [x] B) shouldn't
+- [x] D) shouldn't
   <!-- feedback: Correct! "Shouldn't" provides correct negative advice for this context. -->
-- [ ] C) must
+- [ ] B) must
   <!-- feedback: Incorrect. This would be an obligation to do something bad. -->
-- [ ] D) can
+- [ ] C) can
   <!-- feedback: Incorrect. Not the best modal for advice here. -->
 
 ### Explicacion Pedagogica
@@ -136,11 +136,11 @@ The student understands the pragmatic use of "shouldn't" for health advice.
 "We need to buy ________ milk and ________ eggs."
 
 ### Opciones
-- [x] A) some / some
+- [x] C) some / some
   <!-- feedback: Correct! "Some" can be used for uncountable (milk) and plural countable (eggs). -->
-- [ ] B) a / some
+- [ ] A) a / some
   <!-- feedback: Incorrect. Milk is uncountable. -->
-- [ ] C) an / an
+- [ ] B) an / an
   <!-- feedback: Incorrect. Neither word works with "an". -->
 - [ ] D) some / a
   <!-- feedback: Incorrect. Eggs is plural. -->
@@ -189,9 +189,9 @@ The student applies reading strategies to calculate frequency from specific data
 ### Opciones
 - [ ] A) much
   <!-- feedback: Incorrect. Tomatoes are countable. -->
-- [x] B) many
+- [x] C) many
   <!-- feedback: Correct! "Many" is for countable nouns. -->
-- [ ] C) some
+- [ ] B) some
   <!-- feedback: Incorrect. Not used with "How" for this question type. -->
 - [ ] D) any
   <!-- feedback: Incorrect. Not used with "How" for this question type. -->
@@ -238,9 +238,9 @@ The student analyzes the noun "money" as uncountable and selects the appropriate
 What can you analyze about Juice A compared to Juice B?
 
 ### Opciones
-- [ ] A) Juice A is less healthy than Juice B.
+- [ ] B) Juice A is less healthy than Juice B.
   <!-- feedback: Incorrect. It has less sugar and more vitamins. -->
-- [x] B) Juice A has more nutritional value and less sugar.
+- [x] A) Juice A has more nutritional value and less sugar.
   <!-- feedback: Correct! 20% vs 10% Vitamin C and 5g vs 15g sugar. -->
 - [ ] C) Juice B is the better option for a diet.
   <!-- feedback: Incorrect. It has much more sugar. -->

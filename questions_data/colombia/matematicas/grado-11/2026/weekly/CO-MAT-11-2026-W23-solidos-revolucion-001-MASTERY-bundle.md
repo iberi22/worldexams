@@ -34,9 +34,9 @@ Este bundle contiene 20 preguntas sobre **Sólidos de Revolución** para grado 1
 ¿Qué figura tridimensional de revolución se genera y cuál es su volumen?
 
 ### Opciones
-- [x] A) Un cilindro recto de volumen $45\pi$
+- [x] B) Un cilindro recto de volumen $45\pi$
   <!-- feedback: Correcto. $V = \pi \int_0^5 3^2 \, dx = \pi [9x]_0^5 = 45\pi$. -->
-- [ ] B) Un cono recto de volumen $15\pi$
+- [ ] A) Un cono recto de volumen $15\pi$
   <!-- feedback: Incorrecto. Una recta paralela al eje de rotación forma un cilindro. -->
 - [ ] C) Un cilindro recto de volumen $15\pi$
   <!-- feedback: Incorrecto. Se omitió elevar el radio al cuadrado ($3^2=9$). -->
@@ -57,9 +57,9 @@ Al rotar la línea constante $y = r$ alrededor del eje $x$ en $[0, h]$, el sóli
 ¿Cuál es el volumen del cono resultante?
 
 ### Opciones
-- [x] A) $\frac{32}{3}\pi$
+- [x] B) $\frac{32}{3}\pi$
   <!-- feedback: Correcto. $V = \pi \int_0^2 (2x)^2 \, dx = 4\pi \int_0^2 x^2 \, dx = 4\pi [\frac{x^3}{3}]_0^2 = \frac{32}{3}\pi$. -->
-- [ ] B) $32\pi$
+- [ ] A) $32\pi$
   <!-- feedback: Incorrecto. Se olvidó dividir entre 3 al calcular la antiderivada de $x^2$. -->
 - [ ] C) $16\pi$
   <!-- feedback: Incorrecto. Se omitió el factor 4 procedente de $(2x)^2 = 4x^2$. -->
@@ -126,11 +126,11 @@ Despejando $x = \sqrt{y}$. El volumen respecto al eje $y$ es $\pi \int_0^4 (\sqr
 ¿Cuál es el volumen del sólido de revolución?
 
 ### Opciones
-- [x] A) $\frac{81}{2}\pi$
+- [x] C) $\frac{81}{2}\pi$
   <!-- feedback: Correcto. $V = \pi \int_0^9 x \, dx = \pi [\frac{x^2}{2}]_0^9 = \frac{81}{2}\pi$. -->
-- [ ] B) $81\pi$
+- [ ] A) $81\pi$
   <!-- feedback: Incorrecto. Se olvidó dividir por 2. -->
-- [ ] C) $\frac{18}{3}\pi$
+- [ ] B) $\frac{18}{3}\pi$
   <!-- feedback: Incorrecto. Se integró $\sqrt{x}$ sin elevar al cuadrado previamente. -->
 - [ ] D) $18\pi$
   <!-- feedback: Incorrecto. Error en la potencia de 9. -->
@@ -149,13 +149,13 @@ El cuadrado del radio es $(\sqrt{x})^2 = x$. La integral resulta en $\pi \int_0^
 ¿Cuál es el volumen encerrado entre las dos superficies?
 
 ### Opciones
-- [x] A) $\frac{2}{15}\pi$
+- [x] D) $\frac{2}{15}\pi$
   <!-- feedback: Correcto. $V = \pi \int_0^1 (x^2 - x^4) \, dx = \pi (\frac{1}{3} - \frac{1}{5}) = \frac{2}{15}\pi$. -->
-- [ ] B) $\frac{1}{15}\pi$
+- [ ] A) $\frac{1}{15}\pi$
   <!-- feedback: Incorrecto. Error en el cálculo común de fracciones. -->
-- [ ] C) $\frac{8}{15}\pi$
+- [ ] B) $\frac{8}{15}\pi$
   <!-- feedback: Incorrecto. Se sumaron las funciones cuadráticas en lugar de restarlas. -->
-- [ ] D) $\frac{1}{30}\pi$
+- [ ] C) $\frac{1}{30}\pi$
   <!-- feedback: Incorrecto. Se aplicó $(x - x^2)^2$ incorrectamente. -->
 
 ### Explicacion Pedagogica
@@ -172,11 +172,11 @@ Radio exterior $R(x) = x$, radio interior $r(x) = x^2$. $V = \pi \int_0^1 (x^2 -
 ¿Cuál es el volumen del sólido de revolución generado?
 
 ### Opciones
-- [x] A) $\frac{\pi}{2}(e^2 - 1)$
+- [x] C) $\frac{\pi}{2}(e^2 - 1)$
   <!-- feedback: Correcto. $V = \pi \int_0^1 e^{2x} \, dx = \pi [\frac{e^{2x}}{2}]_0^1 = \frac{\pi}{2}(e^2 - 1)$. -->
-- [ ] B) $\pi(e^2 - 1)$
+- [ ] A) $\pi(e^2 - 1)$
   <!-- feedback: Incorrecto. Se olvidó dividir entre 2 al hacer la sustitución. -->
-- [ ] C) $\pi(e - 1)$
+- [ ] B) $\pi(e - 1)$
   <!-- feedback: Incorrecto. No se elevó $e^x$ al cuadrado antes de integrar. -->
 - [ ] D) $\frac{\pi}{2} e^2$
   <!-- feedback: Incorrecto. Se omitió la evaluación en $x=0$. -->
@@ -218,13 +218,13 @@ Por cascarones cilíndricos: $V = 2\pi \int_0^3 x(2x) dx = 4\pi \int_0^3 x^2 dx 
 ¿Cuál es el volumen del sólido?
 
 ### Opciones
-- [x] A) $\frac{3}{4}\pi$
+- [x] D) $\frac{3}{4}\pi$
   <!-- feedback: Correcto. $V = \pi \int_1^4 x^{-2} \, dx = \pi [-\frac{1}{x}]_1^4 = \pi (1 - \frac{1}{4}) = \frac{3}{4}\pi$. -->
-- [ ] B) $\pi \ln(4)$
+- [ ] A) $\pi \ln(4)$
   <!-- feedback: Incorrecto. Se integró $1/x$ sin elevar al cuadrado. -->
-- [ ] C) $\frac{1}{4}\pi$
+- [ ] B) $\frac{1}{4}\pi$
   <!-- feedback: Incorrecto. Se calculó solo el valor en el límite superior. -->
-- [ ] D) $\frac{5}{4}\pi$
+- [ ] C) $\frac{5}{4}\pi$
   <!-- feedback: Incorrecto. Se sumó en lugar de restar el valor inferior. -->
 
 ### Explicacion Pedagogica
@@ -241,13 +241,13 @@ El integrando es $(1/x)^2 = x^{-2}$. La antiderivada es $-1/x$. Evaluando entre 
 ¿Qué valor numérico tiene el volumen?
 
 ### Opciones
-- [x] A) $\frac{\pi}{7}$
+- [x] D) $\frac{\pi}{7}$
   <!-- feedback: Correcto. $V = \pi \int_0^1 (x^3)^2 \, dx = \pi \int_0^1 x^6 \, dx = \frac{\pi}{7}$. -->
-- [ ] B) $\frac{\pi}{4}$
+- [ ] A) $\frac{\pi}{4}$
   <!-- feedback: Incorrecto. Se integró $x^3$ directamente sin elevarlo al cuadrado. -->
-- [ ] C) $\frac{\pi}{6}$
+- [ ] B) $\frac{\pi}{6}$
   <!-- feedback: Incorrecto. Error al sumar el exponente en la antiderivada. -->
-- [ ] D) $\frac{\pi}{14}$
+- [ ] C) $\frac{\pi}{14}$
   <!-- feedback: Incorrecto. Se dividió entre 2 erróneamente. -->
 
 ### Explicacion Pedagogica
@@ -264,11 +264,11 @@ $[f(x)]^2 = (x^3)^2 = x^6$. La integral de $x^6$ en $[0,1]$ da $[\frac{x^7}{7}]_
 ¿Qué volumen tiene el cono de altura 4 y radio 2 obtenido?
 
 ### Opciones
-- [x] A) $\frac{16}{3}\pi$
+- [x] C) $\frac{16}{3}\pi$
   <!-- feedback: Correcto. $V = \frac{1}{3}\pi r^2 h = \frac{1}{3}\pi (2^2)(4) = \frac{16}{3}\pi$. -->
-- [ ] B) $16\pi$
+- [ ] A) $16\pi$
   <!-- feedback: Incorrecto. Se olvidó dividir entre 3 para la fórmula del cono. -->
-- [ ] C) $\frac{32}{3}\pi$
+- [ ] B) $\frac{32}{3}\pi$
   <!-- feedback: Incorrecto. Se duplicó el radio del cono. -->
 - [ ] D) $\frac{8}{3}\pi$
   <!-- feedback: Incorrecto. Error al elevara al cuadrado el radio. -->
@@ -287,9 +287,9 @@ Un triángulo rectángulo rotado sobre un cateto forma un cono recto de radio $r
 Usando $\sin^2(x) = \frac{1 - \cos(2x)}{2}$, ¿cuál es el volumen generado?
 
 ### Opciones
-- [x] A) $\frac{\pi^2}{2}$
+- [x] B) $\frac{\pi^2}{2}$
   <!-- feedback: Correcto. $V = \pi \int_0^{\pi} \frac{1-\cos(2x)}{2} \, dx = \frac{\pi}{2} [x - \frac{\sin(2x)}{2}]_0^{\pi} = \frac{\pi^2}{2}$. -->
-- [ ] B) $\pi^2$
+- [ ] A) $\pi^2$
   <!-- feedback: Incorrecto. No se dividió entre 2 la constante del integrando. -->
 - [ ] C) $\frac{\pi}{2}$
   <!-- feedback: Incorrecto. Se olvidó el factor de $\pi$ exterior. -->
@@ -333,11 +333,11 @@ El Teorema de Pappus expresa $V = (2\pi R) \cdot A = (2\pi \cdot 4)(4\pi) = 32\p
 ¿Cuál es el radio $R(x)$ del disco para aplicar la integral de volumen?
 
 ### Opciones
-- [x] A) $R(x) = 4 - x^2$
+- [x] C) $R(x) = 4 - x^2$
   <!-- feedback: Correcto. La distancia desde la curva $y=x^2$ al eje de rotación $y=4$ es $4 - x^2$. -->
-- [ ] B) $R(x) = x^2 - 4$
+- [ ] A) $R(x) = x^2 - 4$
   <!-- feedback: Incorrecto. El radio geométrico debe ser un valor no negativo. -->
-- [ ] C) $R(x) = x^2$
+- [ ] B) $R(x) = x^2$
   <!-- feedback: Incorrecto. No se tuvo en cuenta que el eje de rotación está desplazado a $y=4$. -->
 - [ ] D) $R(x) = 4$
   <!-- feedback: Incorrecto. Corresponde al radio máximo constante, no al perfil variable. -->
@@ -356,9 +356,9 @@ Al rotar alrededor de una recta horizontal $y = k$, la distancia/radio desde la 
 ¿Cuál es el volumen obtenido?
 
 ### Opciones
-- [x] A) $\frac{\pi}{6}$
+- [x] B) $\frac{\pi}{6}$
   <!-- feedback: Correcto. Cascarones: $2\pi \int_0^1 x(x - x^2) dx = 2\pi (\frac{1}{3} - \frac{1}{4}) = \frac{\pi}{6}$. -->
-- [ ] B) $\frac{\pi}{3}$
+- [ ] A) $\frac{\pi}{3}$
   <!-- feedback: Incorrecto. Se omitió la resta de integrales. -->
 - [ ] C) $\frac{\pi}{12}$
   <!-- feedback: Incorrecto. Error al calcular la diferencia de fracciones. -->
@@ -402,13 +402,13 @@ El volumen depende de $\int_1^\infty x^{-2} dx = 1$ (finito), mientras la superf
 ¿Es correcto afirmar que el volumen por cascarones es $\frac{\pi}{2}$?
 
 ### Opciones
-- [x] A) Sí, porque $V = 2\pi \int_0^1 x(1 - x^2) dx = 2\pi (\frac{1}{2} - \frac{1}{4}) = \frac{\pi}{2}$.
+- [x] D) Sí, porque $V = 2\pi \int_0^1 x(1 - x^2) dx = 2\pi (\frac{1}{2} - \frac{1}{4}) = \frac{\pi}{2}$.
   <!-- feedback: Correcto. $2\pi [\frac{x^2}{2} - \frac{x^4}{4}]_0^1 = 2\pi (\frac{1}{4}) = \frac{\pi}{2}$. -->
-- [ ] B) No, el volumen es $\pi$.
+- [ ] A) No, el volumen es $\pi$.
   <!-- feedback: Incorrecto. Se olvidó restar la fracción $\frac{1}{4}$. -->
-- [ ] C) No, el volumen es $\frac{\pi}{4}$.
+- [ ] B) No, el volumen es $\frac{\pi}{4}$.
   <!-- feedback: Incorrecto. Se omitió el factor $2\pi$ del método. -->
-- [ ] D) Sí, pero solo si se usa el método de discos.
+- [ ] C) Sí, pero solo si se usa el método de discos.
   <!-- feedback: Incorrecto. Ambos métodos válidos entregan exactamente el mismo volumen de $\frac{\pi}{2}$. -->
 
 ### Explicacion Pedagogica
@@ -425,13 +425,13 @@ Por cascarones: $V = 2\pi \int_0^1 (x - x^3) dx = 2\pi \left( \frac{1}{2} - \fra
 ¿Qué proporción del volumen del cilindro representa el volumen de la esfera (Teorema de Arquímedes)?
 
 ### Opciones
-- [x] A) $\frac{2}{3}$
+- [x] D) $\frac{2}{3}$
   <!-- feedback: Correcto. $V_{esfera} = \frac{4}{3}\pi R^3$, $V_{cilindro} = \pi R^2 (2R) = 2\pi R^3$. La razón es $\frac{4/3}{2} = \frac{2}{3}$. -->
-- [ ] B) $\frac{1}{2}$
+- [ ] A) $\frac{1}{2}$
   <!-- feedback: Incorrecto. Corresponde a la razón entre una pirámide y un prisma de igual base y altura. -->
-- [ ] C) $\frac{3}{4}$
+- [ ] B) $\frac{3}{4}$
   <!-- feedback: Incorrecto. Razón invertida incorrectamente. -->
-- [ ] D) $\frac{1}{3}$
+- [ ] C) $\frac{1}{3}$
   <!-- feedback: Incorrecto. Corresponde a la razón de un cono inscrito en el cilindro. -->
 
 ### Explicacion Pedagogica
@@ -471,9 +471,9 @@ El radio del disco a la distancia $x$ es $y = \frac{R}{H} x$. La superficie del 
 ¿Cuál es el volumen exacto del sólido?
 
 ### Opciones
-- [x] A) \pi
+- [x] B) \pi
   <!-- feedback: Correcto. $V = \pi \int_0^{\pi/4} \sec^2(x) \, dx = \pi [\tan(x)]_0^{\pi/4} = \pi (1 - 0) = \pi$. -->
-- [ ] B) \frac{\pi}{2}
+- [ ] A) \frac{\pi}{2}
   <!-- feedback: Incorrecto. Se asumió que $\tan(\pi/4) = 1/2$. -->
 - [ ] C) 2\pi
   <!-- feedback: Incorrecto. Se duplicó el resultado de la integración. -->

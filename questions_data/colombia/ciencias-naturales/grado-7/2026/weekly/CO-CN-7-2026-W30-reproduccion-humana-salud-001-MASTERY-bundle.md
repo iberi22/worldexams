@@ -31,11 +31,11 @@ Este bundle desarrolla la pubertad, los sistemas reproductores, la fecundación 
 ### Opciones
 - [ ] A) Una enfermedad contagiosa que se cura con medicamentos en la farmacia.
   <!-- feedback: Incorrecta, porque la pubertad es una etapa normal del desarrollo y no una enfermedad. -->
-- [x] B) La etapa de transición de la niñez a la adolescencia en la que maduran el cuerpo y los sistemas reproductores.
+- [x] D) La etapa de transición de la niñez a la adolescencia en la que maduran el cuerpo y los sistemas reproductores.
   <!-- feedback: Correcta, porque define la pubertad como proceso natural de crecimiento y maduración. -->
-- [ ] C) Un cambio que solo ocurre en la vejez después de los 60 años en Colombia.
+- [ ] B) Un cambio que solo ocurre en la vejez después de los 60 años en Colombia.
   <!-- feedback: Incorrecta, porque la pubertad ocurre al inicio de la adolescencia, no en la vejez. -->
-- [ ] D) Un invento reciente de las redes sociales para vender productos de belleza.
+- [ ] C) Un invento reciente de las redes sociales para vender productos de belleza.
   <!-- feedback: Incorrecta, porque es un proceso biológico regulado por hormonas y no un invento comercial. -->
 ### Explicacion Pedagogica
 La pubertad es dirigida por hormonas que activan el crecimiento acelerado y la maduración de ovarios y testículos. Suele iniciar entre los 9 y los 14 años con ritmos distintos en cada persona. Entenderla como etapa normal ayuda a vivirla con tranquilidad y a pedir orientación cuando se necesita.
@@ -48,9 +48,9 @@ La pubertad es dirigida por hormonas que activan el crecimiento acelerado y la m
 ### Enunciado
 ¿Qué son los caracteres sexuales secundarios?
 ### Opciones
-- [x] A) Los cambios corporales de la pubertad, como el cambio de voz y el desarrollo de los senos, que no definen por sí solos la capacidad reproductiva.
+- [x] B) Los cambios corporales de la pubertad, como el cambio de voz y el desarrollo de los senos, que no definen por sí solos la capacidad reproductiva.
   <!-- feedback: Correcta, porque agrupa los rasgos que aparecen en la pubertad y acompañan la maduración. -->
-- [ ] B) Enfermedades de la piel que solo aparecen si no se hace deporte en el colegio.
+- [ ] A) Enfermedades de la piel que solo aparecen si no se hace deporte en el colegio.
   <!-- feedback: Incorrecta, porque son cambios hormonales normales y no enfermedades por falta de deporte. -->
 - [ ] C) Órganos internos que producen las células reproductivas desde el nacimiento sin cambios.
   <!-- feedback: Incorrecta, porque esa descripción corresponde a las gónadas y no a los rasgos externos de la pubertad. -->
@@ -69,9 +69,9 @@ Los caracteres sexuales primarios son los órganos reproductores presentes desde
 ### Opciones
 - [ ] A) No bañarse en esos días porque el agua corta la sangre y causa anemia inmediata.
   <!-- feedback: Incorrecta, porque el baño diario es saludable y el agua no corta ni contamina la sangre. -->
-- [x] B) Cambiar con frecuencia la toalla higiénica, lavar la zona con agua y jabón suave y llevar repuestos al colegio.
+- [x] C) Cambiar con frecuencia la toalla higiénica, lavar la zona con agua y jabón suave y llevar repuestos al colegio.
   <!-- feedback: Correcta, porque previene irritaciones e infecciones y permite asistir a clases con tranquilidad. -->
-- [ ] C) Tomar antibióticos sin receta para suspender el sangrado cada mes.
+- [ ] B) Tomar antibióticos sin receta para suspender el sangrado cada mes.
   <!-- feedback: Incorrecta, porque los antibióticos no regulan el ciclo y automedicarse pone en riesgo la salud. -->
 - [ ] D) Faltar al colegio toda la semana porque es imposible asistir a clases en esos días.
   <!-- feedback: Incorrecta, porque con higiene y manejo adecuado se puede estudiar y jugar con normalidad. -->
@@ -107,9 +107,9 @@ Los gametos llevan la mitad de la información genética de cada progenitor. En 
 ### Opciones
 - [ ] A) Bañarse una vez al mes y compartir la cuchilla de afeitar con toda la familia.
   <!-- feedback: Incorrecta, porque la baja frecuencia acumula bacterias y compartir cuchillas transmite infecciones. -->
-- [x] B) Baño diario, uso de desodorante, lavado del rostro con agua y jabón suave y ropa limpia cada día.
+- [x] C) Baño diario, uso de desodorante, lavado del rostro con agua y jabón suave y ropa limpia cada día.
   <!-- feedback: Correcta, porque responde al aumento de sudor y grasa propios de la pubertad. -->
-- [ ] C) Aplicar alcohol puro en la cara cada hora y no dormir para evitar los brotes.
+- [ ] B) Aplicar alcohol puro en la cara cada hora y no dormir para evitar los brotes.
   <!-- feedback: Incorrecta, porque el alcohol irrita la piel y el mal sueño empeora la salud. -->
 - [ ] D) Esconder los cambios y no preguntar nada a adultos de confianza ni al personal de salud.
   <!-- feedback: Incorrecta, porque el silencio aumenta dudas y riesgos; preguntar es un acto de autocuidado. -->
@@ -124,9 +124,9 @@ Las hormonas activan glándulas de sudor y grasa, por eso aumentan el olor y el 
 ### Enunciado
 ¿Qué análisis científico refuta esas dos creencias?
 ### Opciones
-- [ ] A) Ambas creencias son ciertas porque el cuerpo avisa y bloquea la fecundación la primera vez.
+- [ ] B) Ambas creencias son ciertas porque el cuerpo avisa y bloquea la fecundación la primera vez.
   <!-- feedback: Incorrecta, porque el cuerpo no bloquea la fecundación según el número de encuentros. -->
-- [x] B) Ambas son falsas, porque basta un óvulo y espermatozoides viables para fecundar y el lavado no retira lo que ya avanzó.
+- [x] A) Ambas son falsas, porque basta un óvulo y espermatozoides viables para fecundar y el lavado no retira lo que ya avanzó.
   <!-- feedback: Correcta, porque explica que la fecundación no depende de la experiencia previa ni se evita con lavado. -->
 - [ ] C) Solo es falsa la segunda, porque lavarse con agua fría sí elimina todo riesgo de embarazo.
   <!-- feedback: Incorrecta, porque ningún lavado vaginal evita la fecundación ni protege la salud. -->
@@ -143,9 +143,9 @@ El embarazo puede ocurrir desde que hay ovulación y espermatozoides, incluso en
 ### Enunciado
 ¿Qué análisis reconoce una relación respetuosa frente a la presión en el noviazgo adolescente?
 ### Opciones
-- [ ] A) Ceder siempre para no perder la relación aunque se sienta mal y con miedo.
+- [ ] B) Ceder siempre para no perder la relación aunque se sienta mal y con miedo.
   <!-- feedback: Incorrecta, porque ceder bajo presión daña el bienestar y no es señal de una relación sana. -->
-- [x] B) Exigir respeto y consentimiento libre: decir no es válido y la pareja debe aceptar la decisión sin presionar ni chantajear.
+- [x] A) Exigir respeto y consentimiento libre: decir no es válido y la pareja debe aceptar la decisión sin presionar ni chantajear.
   <!-- feedback: Correcta, porque define el consentimiento como libre, informado y revocable en todo momento. -->
 - [ ] C) Guardar silencio y alejarse de toda persona adulta que pueda orientar.
   <!-- feedback: Incorrecta, porque aislarse aumenta el riesgo y cierra la puerta a la ayuda. -->
@@ -181,9 +181,9 @@ Indagar bien exige evaluar fuentes. El personal de salud, docentes formados, fam
 ### Enunciado
 ¿Cuál es la evaluación científica correcta de esas dos afirmaciones?
 ### Opciones
-- [ ] A) Ambas son verdaderas porque toda infección da síntomas evidentes y ningún método previene nada.
+- [ ] B) Ambas son verdaderas porque toda infección da síntomas evidentes y ningún método previene nada.
   <!-- feedback: Incorrecta, porque muchas infecciones son silenciosas y existen métodos de prevención eficaces. -->
-- [x] B) Ambas son falsas, porque varias infecciones avanzan sin síntomas y el condón bien usado reduce el riesgo de infecciones y embarazos.
+- [x] A) Ambas son falsas, porque varias infecciones avanzan sin síntomas y el condón bien usado reduce el riesgo de infecciones y embarazos.
   <!-- feedback: Correcta, porque combina el carácter silencioso de varias infecciones con la eficacia del preservativo. -->
 - [ ] C) Solo es verdadera la segunda, porque la ciencia no ha creado ningún método de protección.
   <!-- feedback: Incorrecta, porque la evidencia respalda el preservativo como barrera de protección. -->
@@ -202,9 +202,9 @@ Varias infecciones pueden pasar sin molestias visibles y aun así transmitirse y
 ### Opciones
 - [ ] A) Ceder para caer bien aunque no se sienta listo, porque el grupo siempre decide por él.
   <!-- feedback: Incorrecta, porque actuar por presión vulnera su autonomía y aumenta riesgos para su salud. -->
-- [ ] B) Retar a otros a hacer lo mismo para no ser el único que enfrenta la presión.
+- [ ] C) Retar a otros a hacer lo mismo para no ser el único que enfrenta la presión.
   <!-- feedback: Incorrecta, porque extender la presión daña a más personas y no resuelve el problema. -->
-- [x] C) Mantener su decisión, hablar con un adulto de confianza y buscar información en salud antes de cualquier decisión futura.
+- [x] B) Mantener su decisión, hablar con un adulto de confianza y buscar información en salud antes de cualquier decisión futura.
   <!-- feedback: Correcta, porque prioriza autonomía, información científica y acompañamiento responsable. -->
 - [ ] D) Callar y alejarse del estudio porque las metas escolares ya no importan en la adolescencia.
   <!-- feedback: Incorrecta, porque abandonar el estudio afecta su futuro y no lo protege de la presión. -->

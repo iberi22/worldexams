@@ -34,9 +34,9 @@ Este bundle contiene 20 preguntas sobre **Leyes de Newton y Aplicaciones** para 
 Si el astronauta empuja suavemente una herramienta espacial, ¿qué ocurrirá con el movimiento de dicha herramienta según la Primera Ley de Newton?
 
 ### Opciones
-- [x] A) Continuará moviéndose en línea recta a velocidad constante indefinidamente.
+- [x] B) Continuará moviéndose en línea recta a velocidad constante indefinidamente.
   <!-- feedback: Correcto. En ausencia de fuerzas externas resultantes, los cuerpos mantienen su movimiento rectilíneo uniforme por inercia. -->
-- [ ] B) Se frenará gradualmente hasta detenerse por falta de fuerza impulsora.
+- [ ] A) Se frenará gradualmente hasta detenerse por falta de fuerza impulsora.
   <!-- feedback: Incorrecto. Para frenarse se requeriría una fuerza externa opuesta (como la fricción). -->
 - [ ] C) Dará vueltas inmediatamente en una espiral cerrada.
   <!-- feedback: Incorrecto. Sin fuerza centrípeta externa no hay curvatura en la trayectoria. -->
@@ -57,9 +57,9 @@ La primera ley de Newton (inercia) indica que si la fuerza neta sobre un objeto 
 ¿Cómo se relaciona la aceleración del objeto $A$ ($a_A$) con la del objeto $B$ ($a_B$)?
 
 ### Opciones
-- [x] A) $a_A$ es cuatro veces mayor que $a_B$ ($a_A = 4 a_B$).
+- [x] B) $a_A$ es cuatro veces mayor que $a_B$ ($a_A = 4 a_B$).
   <!-- feedback: Correcto. Por la segunda ley de Newton $a = \frac{F}{m}$. Al tener $A$ un cuarto de la masa de $B$, su aceleración es 4 veces mayor. -->
-- [ ] B) $a_B$ es cuatro veces mayor que $a_A$.
+- [ ] A) $a_B$ es cuatro veces mayor que $a_A$.
   <!-- feedback: Incorrecto. Mayor masa implica menor aceleración a fuerza constante. -->
 - [ ] C) Ambas aceleraciones son exactamente idénticas.
   <!-- feedback: Incorrecto. La aceleración depende inversamente de la masa del objeto. -->
@@ -80,13 +80,13 @@ De la Segunda Ley de Newton $a = \frac{F}{m}$, se evidencia que la aceleración 
 ¿Qué ley de Newton fundamenta el desplazamiento del bote hacia adelante?
 
 ### Opciones
-- [x] A) La Tercera Ley de Newton (Acción y Reacción).
+- [x] D) La Tercera Ley de Newton (Acción y Reacción).
   <!-- feedback: Correcto. La fuerza que el remo ejerce sobre el agua hacia atrás genera una fuerza de reacción idéntica sobre el bote hacia adelante. -->
-- [ ] B) La Ley de Gravitación Universal.
+- [ ] A) La Ley de Gravitación Universal.
   <!-- feedback: Incorrecto. Rige la atracción entre masas, no la propulsión hidrodinámica. -->
-- [ ] C) La Primera Ley de Kepler.
+- [ ] B) La Primera Ley de Kepler.
   <!-- feedback: Incorrecto. Rige órbitas planetarias elípticas. -->
-- [ ] D) El Principio de Conservación de la Carga.
+- [ ] C) El Principio de Conservación de la Carga.
   <!-- feedback: Incorrecto. Aplica a fenómenos electromagnéticos. -->
 
 ### Explicacion Pedagogica
@@ -103,9 +103,9 @@ La Tercera Ley de Newton establece que a toda fuerza de acción le corresponde u
 ¿Cuál es la lectura que marca la escala del dinamómetro en Newtons?
 
 ### Opciones
-- [x] A) $50\text{ N}$
+- [x] B) $50\text{ N}$
   <!-- feedback: Correcto. La lectura del dinamómetro mide la fuerza de tensión que equilibra el peso $w = m g = 5 \times 10 = 50\text{ N}$. -->
-- [ ] B) $5\text{ N}$
+- [ ] A) $5\text{ N}$
   <!-- feedback: Incorrecto. Confunde masa en kilogramos con fuerza en newtons. -->
 - [ ] C) $0.5\text{ N}$
   <!-- feedback: Incorrecto. División errónea de la masa entre la gravedad. -->
@@ -149,13 +149,13 @@ Aislando el automóvil averiado como sistema individual, la única fuerza horizo
 ¿Cuál es la aceleración del bloque al deslizarse por el plano inclinado?
 
 ### Opciones
-- [x] A) $5\text{ m/s}^2$
+- [x] D) $5\text{ m/s}^2$
   <!-- feedback: Correcto. La fuerza neta a lo largo del plano es $F_{neta} = m g \sin\theta$. La aceleración es $a = g \sin\theta = 10 \times 0.5 = 5\text{ m/s}^2$. -->
-- [ ] B) $10\text{ m/s}^2$
+- [ ] A) $10\text{ m/s}^2$
   <!-- feedback: Incorrecto. $10\text{ m/s}^2$ es la aceleración de caída libre vertical pura. -->
-- [ ] C) $8.66\text{ m/s}^2$
+- [ ] B) $8.66\text{ m/s}^2$
   <!-- feedback: Incorrecto. Corresponde al uso del coseno ($g \cos(30^circ)$). -->
-- [ ] D) $2.5\text{ m/s}^2$
+- [ ] C) $2.5\text{ m/s}^2$
   <!-- feedback: Incorrecto. División errónea de la componente entre 2. -->
 
 ### Explicacion Pedagogica
@@ -172,11 +172,11 @@ En un plano inclinado sin fricción, la componente del peso paralela a la rampa 
 ¿Cuál es la tensión en el cable que sostiene al ascensor durante este descenso acelerado?
 
 ### Opciones
-- [x] A) $4000\text{ N}$
+- [x] C) $4000\text{ N}$
   <!-- feedback: Correcto. Ecuación de movimiento: $mg - T = ma \implies T = m(g - a) = 500(10 - 2) = 500 \times 8 = 4000\text{ N}$. -->
-- [ ] B) $6000\text{ N}$
+- [ ] A) $6000\text{ N}$
   <!-- feedback: Incorrecto. Corresponde al caso en que el ascensor acelera hacia arriba ($m(g+a)$). -->
-- [ ] C) $5000\text{ N}$
+- [ ] B) $5000\text{ N}$
   <!-- feedback: Incorrecto. Tensión cuando el ascensor baja a velocidad constante ($T = mg$). -->
 - [ ] D) $1000\text{ N}$
   <!-- feedback: Incorrecto. Resta errónea de las fuerzas. -->
@@ -218,13 +218,13 @@ Para iniciar el movimiento, la fuerza aplicada debe superar la fuerza de rozamie
 ¿Cuál es la aceleración del sistema al soltar las masas?
 
 ### Opciones
-- [x] A) $3.33\text{ m/s}^2$ ($\frac{10}{3}\text{ m/s}^2$)
+- [x] D) $3.33\text{ m/s}^2$ ($\frac{10}{3}\text{ m/s}^2$)
   <!-- feedback: Correcto. Fuerza motora $w_2 = m_2 g = 2 \times 10 = 20\text{ N}$. Masa total $= 4 + 2 = 6\text{ kg}$. Aceleración $a = \frac{20}{6} = \frac{10}{3} \approx 3.33\text{ m/s}^2$. -->
-- [ ] B) $5.00\text{ m/s}^2$
+- [ ] A) $5.00\text{ m/s}^2$
   <!-- feedback: Incorrecto. Cálculo erróneo dividiendo entre la masa de 4 kg únicamente. -->
-- [ ] C) $10.0\text{ m/s}^2$
+- [ ] B) $10.0\text{ m/s}^2$
   <!-- feedback: Incorrecto. Asume que la masa colgante cae en caída libre sin arrastrar a la otra. -->
-- [ ] D) $2.00\text{ m/s}^2$
+- [ ] C) $2.00\text{ m/s}^2$
   <!-- feedback: Incorrecto. División de la masa 2 entre la masa 1. -->
 
 ### Explicacion Pedagogica
@@ -264,13 +264,13 @@ La única fuerza horizontal de frenado es la fricción cinemática $f_k = \mu_k 
 ¿Cuál es el coeficiente de fricción estática $\mu_s$ entre el bloque y la superficie de la rampa?
 
 ### Opciones
-- [x] A) $\mu_s = \tan(37^circ) \approx 0.75$
+- [x] D) $\mu_s = \tan(37^circ) \approx 0.75$
   <!-- feedback: Correcto. En el umbral del movimiento: $mg \sin\theta = \mu_s mg \cos\theta \implies \mu_s = \frac{\sin\theta}{\cos\theta} = \tan\theta = 0.75$. -->
-- [ ] B) $\mu_s = \sin(37^circ) \approx 0.60$
+- [ ] A) $\mu_s = \sin(37^circ) \approx 0.60$
   <!-- feedback: Incorrecto. Omitió la componente normal ($mg \cos\theta$) en la relación de equilibrio. -->
-- [ ] C) $\mu_s = \cos(37^circ) \approx 0.80$
+- [ ] B) $\mu_s = \cos(37^circ) \approx 0.80$
   <!-- feedback: Incorrecto. Inversión de la relación de componentes del peso. -->
-- [ ] D) $\mu_s = 1.00$
+- [ ] C) $\mu_s = 1.00$
   <!-- feedback: Incorrecto. Corresponde a un ángulo crítico de $45^\circ$. -->
 
 ### Explicacion Pedagogica
@@ -310,13 +310,13 @@ El peso aparente en un sistema no inercial acelerado verticalmente es $N = m(g \
 ¿Cuál es la fuerza horizontal $F$ mínima requerida para evitar que el bloque resbale hacia abajo?
 
 ### Opciones
-- [x] A) $200\text{ N}$
+- [x] D) $200\text{ N}$
   <!-- feedback: Correcto. En vertical: $f_s = mg = 10 \times 10 = 100\text{ N}$. Como $f_s \le \mu_s N = \mu_s F \implies 100 = 0.5 F \implies F = \frac{100}{0.5} = 200\text{ N}$. -->
-- [ ] B) $100\text{ N}$
+- [ ] A) $100\text{ N}$
   <!-- feedback: Incorrecto. $100\text{ N}$ es el peso del bloque, no la fuerza normal aplicada. -->
-- [ ] C) $50\text{ N}$
+- [ ] B) $50\text{ N}$
   <!-- feedback: Incorrecto. Multiplicación errónea del peso por el coeficiente. -->
-- [ ] D) $400\text{ N}$
+- [ ] C) $400\text{ N}$
   <!-- feedback: Incorrecto. Factor de seguridad innecesario al duplicar la fuerza calculada. -->
 
 ### Explicacion Pedagogica
@@ -333,9 +333,9 @@ Para mantener el equilibrio vertical, la fricción debe sostener el peso: $f_s =
 ¿Cuál es la tensión en la cuerda ubicada entre el segundo y el tercer bloque (la última cuerda del tren)?
 
 ### Opciones
-- [x] A) $6\text{ N}$
+- [x] B) $6\text{ N}$
   <!-- feedback: Correcto. Aceleración del conjunto $a = \frac{18}{2+2+2} = 3\text{ m/s}^2$. La última cuerda solo arrastra al tercer bloque: $T_3 = m_3 a = 2 \times 3 = 6\text{ N}$. -->
-- [ ] B) $12\text{ N}$
+- [ ] A) $12\text{ N}$
   <!-- feedback: Incorrecto. $12\text{ N}$ es la tensión en la cuerda entre el primer y el segundo bloque. -->
 - [ ] C) $18\text{ N}$
   <!-- feedback: Incorrecto. $18\text{ N}$ es la fuerza externa total aplicada al conjunto. -->
@@ -357,13 +357,13 @@ Para mantener el equilibrio vertical, la fricción debe sostener el peso: $f_s =
 ¿Qué se concluye sobre el estado de movimiento del vagón?
 
 ### Opciones
-- [x] A) El vagón acelera hacia adelante con una aceleración constante $a = g \tan(15^circ)$.
+- [x] D) El vagón acelera hacia adelante con una aceleración constante $a = g \tan(15^circ)$.
   <!-- feedback: Correcto. Por componentes: $T \sin\theta = m a$ y $T \cos\theta = m g \implies \tan\theta = \frac{a}{g} \implies a = g \tan(15^circ)$ hacia adelante. -->
-- [ ] B) El vagón avanza hacia adelante con velocidad constante muy elevada.
+- [ ] A) El vagón avanza hacia adelante con velocidad constante muy elevada.
   <!-- feedback: Incorrecto. Si la velocidad fuera constante, la aceleración sería cero y el péndulo colgaría verticalmente. -->
-- [ ] C) El vagón se encuentra frenando intempestivamente mientras marcha marcha atrás.
+- [ ] B) El vagón se encuentra frenando intempestivamente mientras marcha marcha atrás.
   <!-- feedback: Incorrecto. Una aceleración hacia atrás inclinaría el péndulo hacia adelante. -->
-- [ ] D) El vagón se encuentra en caída libre vertical.
+- [ ] C) El vagón se encuentra en caída libre vertical.
   <!-- feedback: Incorrecto. En caída libre la tensión de la cuerda sería cero. -->
 
 ### Explicacion Pedagogica
@@ -404,13 +404,13 @@ De acuerdo con la Tercera Ley de Newton, las fuerzas de interacción entre dos c
 eq T_2$)?
 
 ### Opciones
-- [x] A) Porque la diferencia de tensiones $(T_1 - T_2) R$ proporciona la torca neta necesaria para acelerar rotacionalmente a la polea con momento de inercia $I$.
+- [x] D) Porque la diferencia de tensiones $(T_1 - T_2) R$ proporciona la torca neta necesaria para acelerar rotacionalmente a la polea con momento de inercia $I$.
   <!-- feedback: Correcto. Para hacer girar una polea con masa ($\tau = I \alpha$), se requiere una diferencia de tensión entre los dos lados de la cuerda. -->
-- [ ] B) Porque la cuerda sufre estiramiento térmico por la fricción del aire.
+- [ ] A) Porque la cuerda sufre estiramiento térmico por la fricción del aire.
   <!-- feedback: Incorrecto. No es una causa de estiramiento sino una propiedad de la dinámica de rotación rígida. -->
-- [ ] C) Porque la aceleración de la gravedad actúa en direcciones opuestas sobre cada masa.
+- [ ] B) Porque la aceleración de la gravedad actúa en direcciones opuestas sobre cada masa.
   <!-- feedback: Incorrecto. El campo gravitacional se mantiene uniforme y paralelo hacia abajo. -->
-- [ ] D) Porque las masas pierden electrones por fricción electrostática.
+- [ ] C) Porque las masas pierden electrones por fricción electrostática.
   <!-- feedback: Incorrecto. Las fuerzas involucradas son puramente mecánicas. -->
 
 ### Explicacion Pedagogica
@@ -451,9 +451,9 @@ Proyectando las fuerzas en el eje perpendicular al plano inclinado: la component
 ¿Cuál es la velocidad del objeto en función del tiempo $v(t)$ si parte del reposo en $t=0$?
 
 ### Opciones
-- [x] A) $v(t) = \frac{m g}{b} \left(1 - e^{-\frac{b}{m} t}\right)$
+- [x] B) $v(t) = \frac{m g}{b} \left(1 - e^{-\frac{b}{m} t}\right)$
   <!-- feedback: Correcto. Resolviendo la ecuación diferencial $m \frac{dv}{dt} = m g - b v \implies \frac{dv}{g - \frac{b}{m}v} = dt \implies v(t) = \frac{mg}{b}(1 - e^{-bt/m})$. -->
-- [ ] B) $v(t) = g t - \frac{b}{m} t^2$
+- [ ] A) $v(t) = g t - \frac{b}{m} t^2$
   <!-- feedback: Incorrecto. Aproximación polinómica incorrecta de la resistencia del aire. -->
 - [ ] C) $v(t) = \frac{m g}{b} e^{-\frac{b}{m} t}$
   <!-- feedback: Incorrecto. Describiría un objeto con velocidad inicial que se frena hasta el reposo. -->
@@ -474,11 +474,11 @@ La ecuación diferencial del movimiento es $m \frac{dv}{dt} = mg - bv$. Separand
 ¿Cuál es la velocidad angular mínima $\omega_{min}$ necesaria para evitar que una persona de masa $m$ resbale hacia abajo si el coeficiente de fricción estática con la pared es $\mu_s$?
 
 ### Opciones
-- [x] A) $\omega_{min} = \sqrt{\frac{g}{\mu_s R}}$
+- [x] C) $\omega_{min} = \sqrt{\frac{g}{\mu_s R}}$
   <!-- feedback: Correcto. Equilibrio vertical: $f_s = mg \implies \mu_s N = mg$. Fuerza normal centrípeta: $N = m \omega^2 R$. Sustituyendo: $\mu_s (m \omega^2 R) = mg \implies \omega = \sqrt{\frac{g}{\mu_s R}}$. -->
-- [ ] B) $\omega_{min} = \sqrt{\frac{\mu_s g}{R}}$
+- [ ] A) $\omega_{min} = \sqrt{\frac{\mu_s g}{R}}$
   <!-- feedback: Incorrecto. Posición errónea del coeficiente de fricción en la raíz. -->
-- [ ] C) $\omega_{min} = \frac{g}{\mu_s R}$
+- [ ] B) $\omega_{min} = \frac{g}{\mu_s R}$
   <!-- feedback: Incorrecto. Se omitió la raíz cuadrada de la aceleración angular. -->
 - [ ] D) $\omega_{min} = \sqrt{\frac{g R}{\mu_s}}$
   <!-- feedback: Incorrecto. Ubicación dimensional incorrecta del radio $R$. -->

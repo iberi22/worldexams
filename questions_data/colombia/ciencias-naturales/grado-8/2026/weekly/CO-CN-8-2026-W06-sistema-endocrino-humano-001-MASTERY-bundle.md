@@ -32,9 +32,9 @@ Este bundle contiene 12 preguntas sobre **sistema-endocrino-humano** para grado 
 ### Enunciado
 Cuáles son las glándulas principales que conforman el sistema endocrino humano?
 ### Opciones
-- [x] A) Hipotálamo, hipófisis, tiroides, paratiroides, páncreas, suprarrenales, gonadas y pineal.
+- [x] B) Hipotálamo, hipófisis, tiroides, paratiroides, páncreas, suprarrenales, gonadas y pineal.
   <!-- feedback: Correcto. Estas son las glándulas endocrinas clasicas del cuerpo humano. -->
-- [ ] B) Hígado, estómago, intestino delgado y páncreas.
+- [ ] A) Hígado, estómago, intestino delgado y páncreas.
   <!-- feedback: Incorrecto. Hígado, estómago e intestino no son glándulas endocrinas principales. -->
 - [ ] C) Rinon, vejiga, uretra y prostata.
   <!-- feedback: Incorrecto. Estos órganos pertenecen al sistema urinario o reproductor masculino. -->
@@ -72,9 +72,9 @@ Hormona $=$ mensajero químico secretado a la sangre que actua sobre células bl
 ### Enunciado
 Cuál es la relacion correcta entre el páncreas endocrino y la hiperglucemia observada?
 ### Opciones
-- [x] A) La deficiencia o resistencia a la insulina impide la captacion celular de glucosa, elevando su concentracion sanguinea.
+- [x] B) La deficiencia o resistencia a la insulina impide la captacion celular de glucosa, elevando su concentracion sanguinea.
   <!-- feedback: Correcto. Sin suficiente insulina funcional, la glucosa no ingresa bien a las células y se acumula en sangre. -->
-- [ ] B) La hiperglucemia se debe exclusivamente a consumo excesivo de sal.
+- [ ] A) La hiperglucemia se debe exclusivamente a consumo excesivo de sal.
   <!-- feedback: Incorrecto. La sal afecta la presión arterial, no directamente la glucemia. -->
 - [ ] C) El páncreas endocrino produce bicarbonato, no insulina.
   <!-- feedback: Incorrecto. El páncreas exocrino secreta bicarbonato; el endocrino produce hormonas como insulina y glucagon. -->
@@ -92,9 +92,9 @@ Insulina: facilita la entrada de glucosa a las células. Su deficiencia causa hi
 ### Enunciado
 Cuál es la funcion principal de la tiroxina (T4) secretada por la glándula tiroides?
 ### Opciones
-- [x] A) Regular el metabolismo basal, el crecimiento y el desarrollo del cuerpo.
+- [x] B) Regular el metabolismo basal, el crecimiento y el desarrollo del cuerpo.
   <!-- feedback: Correcto. Las hormonas tiroideas regulan el metabolismo energetico y el desarrollo. -->
-- [ ] B) Aumentar la concentracion de calcio en la sangre.
+- [ ] A) Aumentar la concentracion de calcio en la sangre.
   <!-- feedback: Incorrecto. La calcemia la regula principalmente la parathormona (PTH). -->
 - [ ] C) Estimular la produccion de glóbulos rojos en la médula osea.
   <!-- feedback: Incorrecto. La eritropoyetina cumple esa funcion, no la tiroxina. -->
@@ -112,9 +112,9 @@ La tiroxina (T4) y la triyodotironina (T3) regulan el metabolismo basal, termoge
 ### Enunciado
 Cuál es la hormona principal secretada por la médula suprarrenal que produce estas respuestas fisiologicas?
 ### Opciones
-- [x] A) Adrenalina (epinefrina).
+- [x] B) Adrenalina (epinefrina).
   <!-- feedback: Correcto. La adrenalina prepara al cuerpo para respuestas rapidas de lucha o huida. -->
-- [ ] B) Insulina.
+- [ ] A) Insulina.
   <!-- feedback: Incorrecto. La insulina regula la glucosa en sangre, no la respuesta de alerta. -->
 - [ ] C) Melatonina.
   <!-- feedback: Incorrecto. La melatonina regula el ciclo sueno-vigilia. -->
@@ -152,11 +152,11 @@ Retroalimentacion negativa: el aumento del producto final (T3/T4) inhibe la esti
 ### Enunciado
 Cuál es el análisis correcto del origen fisiologico del gigantismo observado?
 ### Opciones
-- [x] A) Hiperproduccion de somatotropina (GH) por la hipófisis anterior durante la etapa de crecimiento.
+- [x] C) Hiperproduccion de somatotropina (GH) por la hipófisis anterior durante la etapa de crecimiento.
   <!-- feedback: Correcto. El exceso de GH antes del cierre epifisario produce gigantismo hipofisario. -->
-- [ ] B) Deficiencia de insulina en el páncreas.
+- [ ] A) Deficiencia de insulina en el páncreas.
   <!-- feedback: Incorrecto. La insulina no controla directamente el crecimiento somatico. -->
-- [ ] C) Falta de vitamina D en la dieta del nino.
+- [ ] B) Falta de vitamina D en la dieta del nino.
   <!-- feedback: Incorrecto. La deficiencia de vitamina D causa raquitismo, no gigantismo. -->
 - [ ] D) Aumento excesivo de la melatonina por exposicion a pantallas.
   <!-- feedback: Incorrecto. La melatonina regula el sueno, no el crecimiento oseo longitudinal. -->
@@ -172,11 +172,11 @@ La somatotropina (GH) estimula el crecimiento oseo longitudinal. Su exceso duran
 ### Enunciado
 Cuál es el análisis del efecto del exceso de yodo sobre la funcion tiroidea en el cuerpo humano?
 ### Opciones
-- [x] A) El exceso de yodo puede alterar la síntesis de hormonas tiroideas y provocar hipertiroidismo o hipotiroidismo.
+- [x] C) El exceso de yodo puede alterar la síntesis de hormonas tiroideas y provocar hipertiroidismo o hipotiroidismo.
   <!-- feedback: Correcto. Tanto el deficit como el exceso de yodo alteran la produccion de T3 y T4. -->
-- [ ] B) El exceso de yodo no tiene ningun efecto sobre la tiroides humana.
+- [ ] A) El exceso de yodo no tiene ningun efecto sobre la tiroides humana.
   <!-- feedback: Incorrecto. La tiroides requiere yodo en cantidades reguladas para sintetizar hormonas. -->
-- [ ] C) El yodo solo afecta al sistema nervioso, no a la tiroides.
+- [ ] B) El yodo solo afecta al sistema nervioso, no a la tiroides.
   <!-- feedback: Incorrecto. El yodo es esencial para la síntesis de hormonas tiroideas. -->
 - [ ] D) El exceso de yodo produce siempre hipertiroidismo sin posibilidad de hipotiroidismo.
   <!-- feedback: Incorrecto. Puede producir ambos extremos por mecanismos diferentes. -->
@@ -192,11 +192,11 @@ La tiroides requiere yodo para sintetizar hormonas. Su exceso puede desregular l
 ### Enunciado
 Cuál es el análisis correcto del papel de las gonadotropinas hipofisarias en el inicio de la pubertad?
 ### Opciones
-- [x] A) La hipófisis secreta FSH y LH, que estimulan las gonadas para producir hormonas sexuales y desencadenar la pubertad.
+- [x] C) La hipófisis secreta FSH y LH, que estimulan las gonadas para producir hormonas sexuales y desencadenar la pubertad.
   <!-- feedback: Correcto. Las gonadotropinas FSH y LH activan ovarios y testiculos durante la pubertad. -->
-- [ ] B) La pubertad se inicia exclusivamente por la melatonina pineal.
+- [ ] A) La pubertad se inicia exclusivamente por la melatonina pineal.
   <!-- feedback: Incorrecto. La melatonina tiene un papel modulatorio, pero no es el detonante principal. -->
-- [ ] C) La hipófisis no participa en la regulacion de la pubertad.
+- [ ] B) La hipófisis no participa en la regulacion de la pubertad.
   <!-- feedback: Incorrecto. La hipófisis es clave al liberar gonadotropinas que activan las gonadas. -->
 - [ ] D) La pubertad depende solo de la voluntad del adolescente.
   <!-- feedback: Incorrecto. Es un proceso biologicamente regulado por hormonas y genes. -->
@@ -212,11 +212,11 @@ FSH y LH estimulan las gonadas para producir estrogenos y testosterona, hormonas
 ### Enunciado
 Cual de los siguientes argumentos justifica mejor la importancia de garantizar acceso universal a la insulina?
 ### Opciones
-- [x] A) La insulina es vital para la supervivencia y regulacion glucemica; su ausencia produce complicaciones mortales.
+- [x] C) La insulina es vital para la supervivencia y regulacion glucemica; su ausencia produce complicaciones mortales.
   <!-- feedback: Correcto. Sin insulina exogena, la diabetes tipo 1 produce cetoacidosis y muerte. -->
-- [ ] B) La insulina es opcional y los diabeticos pueden regular la glucosa solo con dieta.
+- [ ] A) La insulina es opcional y los diabeticos pueden regular la glucosa solo con dieta.
   <!-- feedback: Incorrecto. En diabetes tipo 1, la insulina exogena es indispensable. -->
-- [ ] C) Garantizar la insulina solo interesa a las companias farmaceuticas.
+- [ ] B) Garantizar la insulina solo interesa a las companias farmaceuticas.
   <!-- feedback: Incorrecto. Es una prioridad de salud publica por su impacto en morbimortalidad. -->
 - [ ] D) La diabetes tipo 1 no requiere ningun tratamiento hormonal.
   <!-- feedback: Incorrecto. La diabetes tipo 1 requiere insulina de por vida. -->

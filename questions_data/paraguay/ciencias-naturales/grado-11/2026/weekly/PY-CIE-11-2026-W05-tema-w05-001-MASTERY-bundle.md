@@ -36,10 +36,10 @@ Este bundle cubre de manera exhaustiva el tema de División celular: mitosis y m
 ¿En qué etapa de la mitosis las cromátidas hermanas se separan de manera simultánea y migran hacia polos opuestos?
 
 ### Opciones
-- [x] A) Anafase <!-- feedback: ¡Correcto! Anafase responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) La dineína y la cinesina <!-- feedback: Incorrecto. La dineína y la cinesina no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) Las histonas nucleares H2A, H2B, H3 y H4 <!-- feedback: Incorrecto. Las histonas nucleares H2A, H2B, H3 y H4 es un concepto diferente de la unidad temática. -->
-- [ ] D) Quiasma <!-- feedback: Incorrecto. Quiasma describe un proceso o componente distinto. -->
+- [x] D) Anafase <!-- feedback: ¡Correcto! Anafase responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) La dineína y la cinesina <!-- feedback: Incorrecto. La dineína y la cinesina no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) Las histonas nucleares H2A, H2B, H3 y H4 <!-- feedback: Incorrecto. Las histonas nucleares H2A, H2B, H3 y H4 es un concepto diferente de la unidad temática. -->
+- [ ] C) Quiasma <!-- feedback: Incorrecto. Quiasma describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de Anafase constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.
@@ -57,8 +57,8 @@ El concepto de Anafase constituye un fundamento esencial para comprender los pro
 ¿En qué subfase del ciclo celular somático eucariota ocurre la duplicación del ADN cromosómico?
 
 ### Opciones
-- [x] A) Fase S <!-- feedback: ¡Correcto! Fase S responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) El complejo promotor de la anafase (APC/C) <!-- feedback: Incorrecto. El complejo promotor de la anafase (APC/C) no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) Fase S <!-- feedback: ¡Correcto! Fase S responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) El complejo promotor de la anafase (APC/C) <!-- feedback: Incorrecto. El complejo promotor de la anafase (APC/C) no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) La dineína y la cinesina <!-- feedback: Incorrecto. La dineína y la cinesina es un concepto diferente de la unidad temática. -->
 - [ ] D) Telofase <!-- feedback: Incorrecto. Telofase describe un proceso o componente distinto. -->
 
@@ -78,9 +78,9 @@ El concepto de Fase S constituye un fundamento esencial para comprender los proc
 ¿Qué estructura proteica en el centrómero de los cromosomas sirve como punto de anclaje para los microtúbulos del huso?
 
 ### Opciones
-- [x] A) El cinetocoro <!-- feedback: ¡Correcto! El cinetocoro responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) La dineína y la cinesina <!-- feedback: Incorrecto. La dineína y la cinesina no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) La meiosis <!-- feedback: Incorrecto. La meiosis es un concepto diferente de la unidad temática. -->
+- [x] C) El cinetocoro <!-- feedback: ¡Correcto! El cinetocoro responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) La dineína y la cinesina <!-- feedback: Incorrecto. La dineína y la cinesina no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) La meiosis <!-- feedback: Incorrecto. La meiosis es un concepto diferente de la unidad temática. -->
 - [ ] D) La fisión binaria <!-- feedback: Incorrecto. La fisión binaria describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
@@ -99,10 +99,10 @@ El concepto de El cinetocoro constituye un fundamento esencial para comprender l
 ¿Qué proceso de división nuclear mitótica mantiene rigurosamente constante la ploidía genómica en las células hijas?
 
 ### Opciones
-- [x] A) La mitosis <!-- feedback: ¡Correcto! La mitosis responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Fase S <!-- feedback: Incorrecto. Fase S no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) Las neuronas maduras <!-- feedback: Incorrecto. Las neuronas maduras es un concepto diferente de la unidad temática. -->
-- [ ] D) Zigoteno <!-- feedback: Incorrecto. Zigoteno describe un proceso o componente distinto. -->
+- [x] D) La mitosis <!-- feedback: ¡Correcto! La mitosis responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Fase S <!-- feedback: Incorrecto. Fase S no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) Las neuronas maduras <!-- feedback: Incorrecto. Las neuronas maduras es un concepto diferente de la unidad temática. -->
+- [ ] C) Zigoteno <!-- feedback: Incorrecto. Zigoteno describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de La mitosis constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.
@@ -120,9 +120,9 @@ El concepto de La mitosis constituye un fundamento esencial para comprender los 
 ¿Qué proceso divisional nuclear especializado rinde cuatro células haploides a partir de una célula progenitora diploide?
 
 ### Opciones
-- [x] A) La meiosis <!-- feedback: ¡Correcto! La meiosis responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Fase G1 <!-- feedback: Incorrecto. Fase G1 no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) La dineína y la cinesina <!-- feedback: Incorrecto. La dineína y la cinesina es un concepto diferente de la unidad temática. -->
+- [x] C) La meiosis <!-- feedback: ¡Correcto! La meiosis responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Fase G1 <!-- feedback: Incorrecto. Fase G1 no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) La dineína y la cinesina <!-- feedback: Incorrecto. La dineína y la cinesina es un concepto diferente de la unidad temática. -->
 - [ ] D) El cinetocoro <!-- feedback: Incorrecto. El cinetocoro describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
@@ -183,10 +183,10 @@ El concepto de Zigoteno constituye un fundamento esencial para comprender los pr
 ¿Cómo se denomina la unión visible de cromátidas no hermanas donde se ha producido un entrecruzamiento de ADN?
 
 ### Opciones
-- [x] A) Quiasma <!-- feedback: ¡Correcto! Quiasma responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Fase S <!-- feedback: Incorrecto. Fase S no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) La mitosis <!-- feedback: Incorrecto. La mitosis es un concepto diferente de la unidad temática. -->
-- [ ] D) Metafase I <!-- feedback: Incorrecto. Metafase I describe un proceso o componente distinto. -->
+- [x] D) Quiasma <!-- feedback: ¡Correcto! Quiasma responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Fase S <!-- feedback: Incorrecto. Fase S no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) La mitosis <!-- feedback: Incorrecto. La mitosis es un concepto diferente de la unidad temática. -->
+- [ ] C) Metafase I <!-- feedback: Incorrecto. Metafase I describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de Quiasma constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.
@@ -225,10 +225,10 @@ El concepto de Metafase I constituye un fundamento esencial para comprender los 
 ¿Qué proteína motora interactúa con los microtúbulos cinetocóricos para mover los cromosomas durante la anafase?
 
 ### Opciones
-- [x] A) La dineína y la cinesina <!-- feedback: ¡Correcto! La dineína y la cinesina responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Meiosis II <!-- feedback: Incorrecto. Meiosis II no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) Fase S <!-- feedback: Incorrecto. Fase S es un concepto diferente de la unidad temática. -->
-- [ ] D) El fragmoplasto <!-- feedback: Incorrecto. El fragmoplasto describe un proceso o componente distinto. -->
+- [x] D) La dineína y la cinesina <!-- feedback: ¡Correcto! La dineína y la cinesina responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Meiosis II <!-- feedback: Incorrecto. Meiosis II no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) Fase S <!-- feedback: Incorrecto. Fase S es un concepto diferente de la unidad temática. -->
+- [ ] C) El fragmoplasto <!-- feedback: Incorrecto. El fragmoplasto describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de La dineína y la cinesina constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.
@@ -246,8 +246,8 @@ El concepto de La dineína y la cinesina constituye un fundamento esencial para 
 ¿Qué molécula del ciclo celular, regulada por ciclinas, controla el paso de la fase G2 a la fase M?
 
 ### Opciones
-- [x] A) La quinasa dependiente de ciclina (CDK) <!-- feedback: ¡Correcto! La quinasa dependiente de ciclina (CDK) responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Zigoteno <!-- feedback: Incorrecto. Zigoteno no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) La quinasa dependiente de ciclina (CDK) <!-- feedback: ¡Correcto! La quinasa dependiente de ciclina (CDK) responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Zigoteno <!-- feedback: Incorrecto. Zigoteno no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) Meiosis II <!-- feedback: Incorrecto. Meiosis II es un concepto diferente de la unidad temática. -->
 - [ ] D) La fisión binaria <!-- feedback: Incorrecto. La fisión binaria describe un proceso o componente distinto. -->
 
@@ -267,8 +267,8 @@ El concepto de La quinasa dependiente de ciclina (CDK) constituye un fundamento 
 ¿En qué etapa de la interfase la célula crece, sintetiza proteínas y acumula organelos sin duplicar su material genético?
 
 ### Opciones
-- [x] A) Fase G1 <!-- feedback: ¡Correcto! Fase G1 responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Las neuronas maduras <!-- feedback: Incorrecto. Las neuronas maduras no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) Fase G1 <!-- feedback: ¡Correcto! Fase G1 responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Las neuronas maduras <!-- feedback: Incorrecto. Las neuronas maduras no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) Los microtúbulos polares <!-- feedback: Incorrecto. Los microtúbulos polares es un concepto diferente de la unidad temática. -->
 - [ ] D) Metafase I <!-- feedback: Incorrecto. Metafase I describe un proceso o componente distinto. -->
 
@@ -330,10 +330,10 @@ El concepto de El fragmoplasto constituye un fundamento esencial para comprender
 ¿Qué tipo de división celular bacteriana asexual duplica el ADN circular y divide la célula en dos de forma equitativa?
 
 ### Opciones
-- [x] A) La fisión binaria <!-- feedback: ¡Correcto! La fisión binaria responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) El fragmoplasto <!-- feedback: Incorrecto. El fragmoplasto no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) La quinasa dependiente de ciclina (CDK) <!-- feedback: Incorrecto. La quinasa dependiente de ciclina (CDK) es un concepto diferente de la unidad temática. -->
-- [ ] D) Anafase <!-- feedback: Incorrecto. Anafase describe un proceso o componente distinto. -->
+- [x] D) La fisión binaria <!-- feedback: ¡Correcto! La fisión binaria responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) El fragmoplasto <!-- feedback: Incorrecto. El fragmoplasto no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) La quinasa dependiente de ciclina (CDK) <!-- feedback: Incorrecto. La quinasa dependiente de ciclina (CDK) es un concepto diferente de la unidad temática. -->
+- [ ] C) Anafase <!-- feedback: Incorrecto. Anafase describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de La fisión binaria constituye un fundamento esencial para comprender los procesos analizados en la unidad de División celular: mitosis y meiosis.
@@ -351,8 +351,8 @@ El concepto de La fisión binaria constituye un fundamento esencial para compren
 ¿Durante qué división meiótica (I o II) se separan físicamente las cromátidas hermanas sin recombinación previa?
 
 ### Opciones
-- [x] A) Meiosis II <!-- feedback: ¡Correcto! Meiosis II responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Zigoteno <!-- feedback: Incorrecto. Zigoteno no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) Meiosis II <!-- feedback: ¡Correcto! Meiosis II responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Zigoteno <!-- feedback: Incorrecto. Zigoteno no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) Las histonas nucleares H2A, H2B, H3 y H4 <!-- feedback: Incorrecto. Las histonas nucleares H2A, H2B, H3 y H4 es un concepto diferente de la unidad temática. -->
 - [ ] D) Fase S <!-- feedback: Incorrecto. Fase S describe un proceso o componente distinto. -->
 
@@ -372,9 +372,9 @@ El concepto de Meiosis II constituye un fundamento esencial para comprender los 
 ¿Qué anomalía en la segregación cromosómica durante la anafase meiótica puede ocasionar una trisomía en el cigoto?
 
 ### Opciones
-- [x] A) La no disyunción cromosómica <!-- feedback: ¡Correcto! La no disyunción cromosómica responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) La mitosis <!-- feedback: Incorrecto. La mitosis no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) El complejo promotor de la anafase (APC/C) <!-- feedback: Incorrecto. El complejo promotor de la anafase (APC/C) es un concepto diferente de la unidad temática. -->
+- [x] C) La no disyunción cromosómica <!-- feedback: ¡Correcto! La no disyunción cromosómica responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) La mitosis <!-- feedback: Incorrecto. La mitosis no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) El complejo promotor de la anafase (APC/C) <!-- feedback: Incorrecto. El complejo promotor de la anafase (APC/C) es un concepto diferente de la unidad temática. -->
 - [ ] D) Fase S <!-- feedback: Incorrecto. Fase S describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
@@ -414,9 +414,9 @@ El concepto de Los microtúbulos polares constituye un fundamento esencial para 
 ¿Qué tipo de proteínas histónicas forman el núcleo del nucleosoma alrededor del cual se enrolla el ADN cromosómico?
 
 ### Opciones
-- [x] A) Las histonas nucleares H2A, H2B, H3 y H4 <!-- feedback: ¡Correcto! Las histonas nucleares H2A, H2B, H3 y H4 responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) La meiosis <!-- feedback: Incorrecto. La meiosis no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) Fase G1 <!-- feedback: Incorrecto. Fase G1 es un concepto diferente de la unidad temática. -->
+- [x] C) Las histonas nucleares H2A, H2B, H3 y H4 <!-- feedback: ¡Correcto! Las histonas nucleares H2A, H2B, H3 y H4 responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) La meiosis <!-- feedback: Incorrecto. La meiosis no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) Fase G1 <!-- feedback: Incorrecto. Fase G1 es un concepto diferente de la unidad temática. -->
 - [ ] D) El fragmoplasto <!-- feedback: Incorrecto. El fragmoplasto describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
@@ -435,9 +435,9 @@ El concepto de Las histonas nucleares H2A, H2B, H3 y H4 constituye un fundamento
 ¿Qué complejo multiproteico degrada selectivamente las ciclinas promoviendo la salida de la mitosis celular?
 
 ### Opciones
-- [x] A) El complejo promotor de la anafase (APC/C) <!-- feedback: ¡Correcto! El complejo promotor de la anafase (APC/C) responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Quiasma <!-- feedback: Incorrecto. Quiasma no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) El fragmoplasto <!-- feedback: Incorrecto. El fragmoplasto es un concepto diferente de la unidad temática. -->
+- [x] C) El complejo promotor de la anafase (APC/C) <!-- feedback: ¡Correcto! El complejo promotor de la anafase (APC/C) responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Quiasma <!-- feedback: Incorrecto. Quiasma no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) El fragmoplasto <!-- feedback: Incorrecto. El fragmoplasto es un concepto diferente de la unidad temática. -->
 - [ ] D) Las histonas nucleares H2A, H2B, H3 y H4 <!-- feedback: Incorrecto. Las histonas nucleares H2A, H2B, H3 y H4 describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica

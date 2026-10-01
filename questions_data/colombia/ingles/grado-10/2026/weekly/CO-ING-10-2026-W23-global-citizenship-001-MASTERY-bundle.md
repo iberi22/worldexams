@@ -36,8 +36,8 @@ This bundle explores global citizenship and international cooperation using B2-l
 
 ### Opciones
 - [ ] A) that <!-- feedback: Incorrect for questions. -->
-- [x] B) if <!-- feedback: Correct. 'If' or 'whether' is used to report yes/no questions. -->
-- [ ] C) what <!-- feedback: Incorrect meaning. -->
+- [x] C) if <!-- feedback: Correct. 'If' or 'whether' is used to report yes/no questions. -->
+- [ ] B) what <!-- feedback: Incorrect meaning. -->
 - [ ] D) when <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
@@ -56,8 +56,8 @@ In Reported Speech, yes/no questions are introduced with 'if' or 'whether'.
 "The organizer told the volunteers ____ the participants at the entrance."
 
 ### Opciones
-- [ ] A) meeting <!-- feedback: Incorrect. -->
-- [x] B) to meet <!-- feedback: Correct. Reported commands/requests use 'to + infinitive'. -->
+- [ ] B) meeting <!-- feedback: Incorrect. -->
+- [x] A) to meet <!-- feedback: Correct. Reported commands/requests use 'to + infinitive'. -->
 - [ ] C) that meet <!-- feedback: Incorrect syntax. -->
 - [ ] D) meet <!-- feedback: Incorrect. -->
 
@@ -77,9 +77,9 @@ Reported commands, requests, and instructions use the structure: reporting verb 
 "Juan asked me ____ I had ever participated in an international youth summit."
 
 ### Opciones
-- [x] A) whether <!-- feedback: Correct. Introduces a yes/no reported question. -->
-- [ ] B) where <!-- feedback: Incorrect meaning. -->
-- [ ] C) that <!-- feedback: Incorrect. -->
+- [x] C) whether <!-- feedback: Correct. Introduces a yes/no reported question. -->
+- [ ] A) where <!-- feedback: Incorrect meaning. -->
+- [ ] B) that <!-- feedback: Incorrect. -->
 - [ ] D) did <!-- feedback: Incorrect reported question structure. -->
 
 ### Explicación Pedagógica
@@ -99,8 +99,8 @@ Reported commands, requests, and instructions use the structure: reporting verb 
 
 ### Opciones
 - [ ] A) if / are going <!-- feedback: Incorrect backshifting. -->
-- [x] B) whether / were going <!-- feedback: Correct. Backshift from 'are going' to 'were going'. -->
-- [ ] C) that / will <!-- feedback: Incorrect for questions. -->
+- [x] C) whether / were going <!-- feedback: Correct. Backshift from 'are going' to 'were going'. -->
+- [ ] B) that / will <!-- feedback: Incorrect for questions. -->
 - [ ] D) when / had <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
@@ -120,9 +120,9 @@ Backshifting is required in reported questions when the reporting verb is in the
 
 ### Opciones
 - [ ] A) don't share <!-- feedback: Incorrect reported syntax. -->
-- [x] B) not to share <!-- feedback: Correct negative reported command. -->
-- [ ] C) that we not share <!-- feedback: Possible but B is more standard. -->
-- [ ] D) to not share <!-- feedback: 'Not to' is preferred over 'to not'. -->
+- [x] D) not to share <!-- feedback: Correct negative reported command. -->
+- [ ] B) that we not share <!-- feedback: Possible but B is more standard. -->
+- [ ] C) to not share <!-- feedback: 'Not to' is preferred over 'to not'. -->
 
 ### Explicación Pedagógica
 Negative commands are reported using 'not to + infinitive'.
@@ -161,8 +161,8 @@ Reported WH-questions use the word order of a statement (subject + verb) and req
 "The delegate asked ____ the committee ____ the proposal by the end of the session."
 
 ### Opciones
-- [ ] A) if / would review <!-- feedback: Possible, but B is more precise for completion. -->
-- [x] B) whether / would have reviewed <!-- feedback: Correct. Backshift from future perfect 'will have reviewed'. -->
+- [ ] B) if / would review <!-- feedback: Possible, but B is more precise for completion. -->
+- [x] A) whether / would have reviewed <!-- feedback: Correct. Backshift from future perfect 'will have reviewed'. -->
 - [ ] C) that / will review <!-- feedback: Incorrect. -->
 - [ ] D) when / reviewed <!-- feedback: Incorrect. -->
 
@@ -183,8 +183,8 @@ B2 complexity: Reporting questions that involve future completion (Future Perfec
 
 ### Opciones
 - [ ] A) learning <!-- feedback: Incorrect. -->
-- [x] B) to learn <!-- feedback: Correct. 'Advise' + object + to-infinitive. -->
-- [ ] C) that they learn <!-- feedback: Also possible, but B is standard for advice-as-command. -->
+- [x] C) to learn <!-- feedback: Correct. 'Advise' + object + to-infinitive. -->
+- [ ] B) that they learn <!-- feedback: Also possible, but B is standard for advice-as-command. -->
 - [ ] D) learn <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
@@ -204,8 +204,8 @@ Using 'advise' as a reporting verb for a recommendation/command structure.
 
 ### Opciones
 - [ ] A) how / evaluated <!-- feedback: Possible, but B is more likely for a past-to-present evaluation. -->
-- [x] B) how / had evaluated <!-- feedback: Correct. Backshift from past simple or present perfect. -->
-- [ ] C) what / evaluates <!-- feedback: Incorrect backshifting. -->
+- [x] C) how / had evaluated <!-- feedback: Correct. Backshift from past simple or present perfect. -->
+- [ ] B) what / evaluates <!-- feedback: Incorrect backshifting. -->
 - [ ] D) if / evaluated <!-- feedback: Missing the 'how' context. -->
 
 ### Explicación Pedagógica
@@ -224,8 +224,8 @@ Using 'wanted to know' as a reporting verb for complex informational questions.
 "He requested that the meeting ____ postponed until all members ____ available."
 
 ### Opciones
-- [x] A) be / were <!-- feedback: Correct. Subjunctive 'be' after 'request' + backshifted 'were'. -->
-- [ ] B) is / are <!-- feedback: Incorrect. -->
+- [x] B) be / were <!-- feedback: Correct. Subjunctive 'be' after 'request' + backshifted 'were'. -->
+- [ ] A) is / are <!-- feedback: Incorrect. -->
 - [ ] C) was / were <!-- feedback: Possible but A is more formal/B2. -->
 - [ ] D) being / been <!-- feedback: Incorrect. -->
 
@@ -245,8 +245,8 @@ Advanced B2 structure: Reporting a request using the subjunctive 'be' after 'req
 "The citizens asked ____ the government ____ any action to mitigate the environmental damage."
 
 ### Opciones
-- [ ] A) what / will take <!-- feedback: Incorrect backshifting. -->
-- [x] B) whether / was going to take <!-- feedback: Correct. Backshift of 'is going to'. -->
+- [ ] B) what / will take <!-- feedback: Incorrect backshifting. -->
+- [x] A) whether / was going to take <!-- feedback: Correct. Backshift of 'is going to'. -->
 - [ ] C) if / took <!-- feedback: Incorrect meaning. -->
 - [ ] D) that / takes <!-- feedback: Incorrect for questions. -->
 

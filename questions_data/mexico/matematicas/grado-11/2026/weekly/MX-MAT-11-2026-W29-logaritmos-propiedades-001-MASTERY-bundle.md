@@ -32,8 +32,8 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) $b \cdot y = x$ <!-- feedback: Incorrecto. Esta es una relación lineal, no exponencial. -->
-- [x] B) $b^y = x$ <!-- feedback: Correcto. El logaritmo es el exponente al cual hay que elevar la base para obtener el número. -->
-- [ ] C) $x^y = b$ <!-- feedback: Incorrecto. Intercambió el papel de la base y el resultado. -->
+- [x] C) $b^y = x$ <!-- feedback: Correcto. El logaritmo es el exponente al cual hay que elevar la base para obtener el número. -->
+- [ ] B) $x^y = b$ <!-- feedback: Incorrecto. Intercambió el papel de la base y el resultado. -->
 - [ ] D) $y^b = x$ <!-- feedback: Incorrecto. La base del logaritmo debe ser la base de la potencia. -->
 
 ### Explicacion Pedagogica
@@ -76,8 +76,8 @@ Dado que la base $b$ de un logaritmo es siempre positiva, cualquier potencia de 
 
 ### Opciones
 - [ ] A) 1 <!-- feedback: Incorrecto. Cualquier base elevada a la 1 da la misma base, no 1. -->
-- [x] B) 0 <!-- feedback: Correcto. Cualquier número (distinto de cero) elevado a la potencia 0 es igual a 1. -->
-- [ ] C) $b$ <!-- feedback: Incorrecto. Este sería el valor de log_b(b). -->
+- [x] C) 0 <!-- feedback: Correcto. Cualquier número (distinto de cero) elevado a la potencia 0 es igual a 1. -->
+- [ ] B) $b$ <!-- feedback: Incorrecto. Este sería el valor de log_b(b). -->
 - [ ] D) Indefinido <!-- feedback: Incorrecto. El logaritmo de 1 está perfectamente definido. -->
 
 ### Explicacion Pedagogica
@@ -99,8 +99,8 @@ Siguiendo la definición exponencial, buscamos un número tal que $b^y = 1$. Por
 ### Opciones
 - [ ] A) 10 <!-- feedback: Incorrecto. Esta es la base de los logaritmos decimales o comunes. -->
 - [ ] B) 2 <!-- feedback: Incorrecto. Esta es la base de los logaritmos binarios, comunes en informática. -->
-- [x] C) $e$ (Número de Euler, $\approx 2.71828$) <!-- feedback: Correcto. El logaritmo natural se define específicamente con la base e. -->
-- [ ] D) 0 <!-- feedback: Incorrecto. La base de un logaritmo nunca puede ser 0. -->
+- [x] D) $e$ (Número de Euler, $\approx 2.71828$) <!-- feedback: Correcto. El logaritmo natural se define específicamente con la base e. -->
+- [ ] C) 0 <!-- feedback: Incorrecto. La base de un logaritmo nunca puede ser 0. -->
 
 ### Explicacion Pedagogica
 El logaritmo natural es fundamental en el cálculo y las ciencias naturales porque su base $e$ aparece en modelos de crecimiento, decaimiento y en el interés compuesto continuo.
@@ -120,9 +120,9 @@ Según las propiedades de los logaritmos, ¿a qué es igual $\log_b(M \cdot N)$?
 
 ### Opciones
 - [ ] A) $\log_b(M) \cdot \log_b(N)$ <!-- feedback: Incorrecto. El logaritmo de un producto NO es el producto de los logaritmos. -->
-- [x] B) $\log_b(M) + \log_b(N)$ <!-- feedback: Correcto. El logaritmo de un producto es igual a la suma de los logaritmos de sus factores. -->
-- [ ] C) $\log_b(M + N)$ <!-- feedback: Incorrecto. No existe una propiedad para el logaritmo de una suma. -->
-- [ ] D) $M \cdot \log_b(N)$ <!-- feedback: Incorrecto. Esta es una confusión con la propiedad de la potencia. -->
+- [x] D) $\log_b(M) + \log_b(N)$ <!-- feedback: Correcto. El logaritmo de un producto es igual a la suma de los logaritmos de sus factores. -->
+- [ ] B) $\log_b(M + N)$ <!-- feedback: Incorrecto. No existe una propiedad para el logaritmo de una suma. -->
+- [ ] C) $M \cdot \log_b(N)$ <!-- feedback: Incorrecto. Esta es una confusión con la propiedad de la potencia. -->
 
 ### Explicacion Pedagogica
 Los logaritmos convierten multiplicaciones en sumas. Esta propiedad es el reflejo de la ley de los exponentes que dice que al multiplicar potencias de la misma base, los exponentes se suman ($b^x \cdot b^y = b^{x+y}$).
@@ -165,8 +165,8 @@ Al igual que con la multiplicación, los logaritmos simplifican la división con
 ### Opciones
 - [ ] A) $(\log_b x)^n$ <!-- feedback: Incorrecto. No es lo mismo elevar el logaritmo completo que elevar solo el argumento. -->
 - [ ] B) $\log_b(n \cdot x)$ <!-- feedback: Incorrecto. El exponente no baja a multiplicar al argumento interno. -->
-- [x] C) $n \log_b(x)$ <!-- feedback: Correcto. El exponente del argumento baja multiplicando a todo el logaritmo. -->
-- [ ] D) $n + \log_b(x)$ <!-- feedback: Incorrecto. La potencia no se convierte en una suma. -->
+- [x] D) $n \log_b(x)$ <!-- feedback: Correcto. El exponente del argumento baja multiplicando a todo el logaritmo. -->
+- [ ] C) $n + \log_b(x)$ <!-- feedback: Incorrecto. La potencia no se convierte en una suma. -->
 
 ### Explicacion Pedagogica
 Esta es una de las propiedades más potentes, ya que permite "bajar" exponentes, convirtiéndolos en multiplicaciones simples. Es la base para resolver ecuaciones exponenciales donde la incógnita está en el exponente.
@@ -186,8 +186,8 @@ Esta es una de las propiedades más potentes, ya que permite "bajar" exponentes,
 
 ### Opciones
 - [ ] A) $\frac{x}{b}$ <!-- feedback: Incorrecto. Esto no tiene relación con las funciones logarítmicas. -->
-- [x] B) $\frac{\log_a(x)}{\log_a(b)}$ <!-- feedback: Correcto. El logaritmo en la base original es igual al cociente de los logaritmos en la nueva base. -->
-- [ ] C) $\log_a(x) - \log_a(b)$ <!-- feedback: Incorrecto. Se deben dividir los logaritmos, no restarlos. -->
+- [x] C) $\frac{\log_a(x)}{\log_a(b)}$ <!-- feedback: Correcto. El logaritmo en la base original es igual al cociente de los logaritmos en la nueva base. -->
+- [ ] B) $\log_a(x) - \log_a(b)$ <!-- feedback: Incorrecto. Se deben dividir los logaritmos, no restarlos. -->
 - [ ] D) $\log_a(x \cdot b)$ <!-- feedback: Incorrecto. No sigue la propiedad de cambio de base. -->
 
 ### Explicacion Pedagogica
@@ -207,8 +207,8 @@ La fórmula de cambio de base permite calcular cualquier logaritmo usando bases 
 ¿A qué es igual $\log_b(\sqrt{x})$ aplicando las propiedades conocidas?
 
 ### Opciones
-- [ ] A) $\sqrt{\log_b(x)}$ <!-- feedback: Incorrecto. La raíz no puede sacarse fuera de la función logaritmo. -->
-- [x] B) $\frac{1}{2} \log_b(x)$ <!-- feedback: Correcto. Una raíz cuadrada equivale al exponente 1/2, el cual baja multiplicando por la propiedad de la potencia. -->
+- [ ] B) $\sqrt{\log_b(x)}$ <!-- feedback: Incorrecto. La raíz no puede sacarse fuera de la función logaritmo. -->
+- [x] A) $\frac{1}{2} \log_b(x)$ <!-- feedback: Correcto. Una raíz cuadrada equivale al exponente 1/2, el cual baja multiplicando por la propiedad de la potencia. -->
 - [ ] C) $2 \log_b(x)$ <!-- feedback: Incorrecto. Esto correspondería a x elevado al cuadrado, no a la raíz cuadrada. -->
 - [ ] D) $\log_b(x) - 2$ <!-- feedback: Incorrecto. Las raíces no se convierten en restas constantes. -->
 
@@ -230,8 +230,8 @@ Simplifique a un solo logaritmo: $\log(4) + \log(25)$. (Nota: si no hay base esc
 
 ### Opciones
 - [ ] A) $\log(29)$ <!-- feedback: Incorrecto. Sumó los argumentos en lugar de multiplicarlos. -->
-- [x] B) $2$ <!-- feedback: Correcto. log(4) + log(25) = log(4 * 25) = log(100). Como la base es 10, log10(100) = 2. -->
-- [ ] C) $\log(100)$ <!-- feedback: Parcialmente correcto, pero falta evaluar el valor numérico final que es 2. -->
+- [x] C) $2$ <!-- feedback: Correcto. log(4) + log(25) = log(4 * 25) = log(100). Como la base es 10, log10(100) = 2. -->
+- [ ] B) $\log(100)$ <!-- feedback: Parcialmente correcto, pero falta evaluar el valor numérico final que es 2. -->
 - [ ] D) $1$ <!-- feedback: Incorrecto. 10 a la 1 es 10, no 100. -->
 
 ### Explicacion Pedagogica
@@ -252,9 +252,9 @@ Usamos la propiedad del producto en sentido inverso: $\log A + \log B = \log(A \
 
 ### Opciones
 - [ ] A) 4 <!-- feedback: Incorrecto. 2 elevado a la 4 es 16. -->
-- [x] B) 5 <!-- feedback: Correcto. 2^5 = 32. El logaritmo es el exponente. -->
-- [ ] C) 16 <!-- feedback: Incorrecto. Dividió 32 entre 2 en lugar de buscar la potencia. -->
-- [ ] D) 6 <!-- feedback: Incorrecto. 2 elevado a la 6 es 64. -->
+- [x] D) 5 <!-- feedback: Correcto. 2^5 = 32. El logaritmo es el exponente. -->
+- [ ] B) 16 <!-- feedback: Incorrecto. Dividió 32 entre 2 en lugar de buscar la potencia. -->
+- [ ] C) 6 <!-- feedback: Incorrecto. 2 elevado a la 6 es 64. -->
 
 ### Explicacion Pedagogica
 Buscamos el valor de $y$ tal que $2^y = 32$. Al descomponer 32 en factores primos vemos que $2 \cdot 2 \cdot 2 \cdot 2 \cdot 2 = 32$, por lo que $y = 5$.
@@ -297,8 +297,8 @@ Calcule el valor simplificado de la expresión $e^{\ln(5)}$.
 ### Opciones
 - [ ] A) $\ln(5)$ <!-- feedback: Incorrecto. La función exponencial y la logarítmica se cancelan mutuamente. -->
 - [ ] B) $e$ <!-- feedback: Incorrecto. El resultado debe depender del argumento del logaritmo. -->
-- [x] C) 5 <!-- feedback: Correcto. Debido a que e^x y ln(x) son funciones inversas, aplicarlas consecutivamente devuelve el argumento original. -->
-- [ ] D) $e^5$ <!-- feedback: Incorrecto. No se debe mantener la base e como resultado final. -->
+- [x] D) 5 <!-- feedback: Correcto. Debido a que e^x y ln(x) son funciones inversas, aplicarlas consecutivamente devuelve el argumento original. -->
+- [ ] C) $e^5$ <!-- feedback: Incorrecto. No se debe mantener la base e como resultado final. -->
 
 ### Explicacion Pedagogica
 Por definición de funciones inversas, $f(f^{-1}(x)) = x$. Como la función exponencial de base $e$ es la inversa del logaritmo natural, al aplicarlas una sobre otra, el efecto se anula y queda el número original.
@@ -339,8 +339,8 @@ Primero aplicamos la propiedad del cociente (resta), luego la del producto (suma
 ¿Cuál es el valor de $\log_{1/2}(8)$?
 
 ### Opciones
-- [ ] A) 3 <!-- feedback: Incorrecto. (1/2) elevado a la 3 es 1/8, no 8. -->
-- [x] B) -3 <!-- feedback: Correcto. (1/2)^(-3) = (2)^3 = 8. Por lo tanto, el logaritmo es -3. -->
+- [ ] B) 3 <!-- feedback: Incorrecto. (1/2) elevado a la 3 es 1/8, no 8. -->
+- [x] A) -3 <!-- feedback: Correcto. (1/2)^(-3) = (2)^3 = 8. Por lo tanto, el logaritmo es -3. -->
 - [ ] C) 4 <!-- feedback: Incorrecto. No es el resultado de la potencia. -->
 - [ ] D) -4 <!-- feedback: Incorrecto. (1/2)^(-4) sería 16. -->
 
@@ -362,8 +362,8 @@ Simplifique a un solo logaritmo: $2\log_b(x) - \log_b(x^2 - 1)$.
 
 ### Opciones
 - [ ] A) $\log_b(x^2 - x^2 + 1)$ <!-- feedback: Incorrecto. No se pueden sumar o restar los argumentos internos directamente. -->
-- [x] B) $\log_b(\frac{x^2}{x^2 - 1})$ <!-- feedback: Correcto. Primero subimos el 2 como exponente de x, luego aplicamos la propiedad del cociente por la resta. -->
-- [ ] C) $\frac{2\log_b(x)}{\log_b(x^2 - 1)}$ <!-- feedback: Incorrecto. Confundió la resta de logaritmos con la fórmula de cambio de base. -->
+- [x] C) $\log_b(\frac{x^2}{x^2 - 1})$ <!-- feedback: Correcto. Primero subimos el 2 como exponente de x, luego aplicamos la propiedad del cociente por la resta. -->
+- [ ] B) $\frac{2\log_b(x)}{\log_b(x^2 - 1)}$ <!-- feedback: Incorrecto. Confundió la resta de logaritmos con la fórmula de cambio de base. -->
 - [ ] D) $\log_b(2x - x^2 + 1)$ <!-- feedback: Incorrecto. Errores conceptuales en el uso de las propiedades. -->
 
 ### Explicacion Pedagogica
@@ -384,8 +384,8 @@ Calcule el valor de $\log_4(2)$.
 
 ### Opciones
 - [ ] A) 2 <!-- feedback: Incorrecto. 4 elevado a la 2 es 16, no 2. -->
-- [x] B) 1/2 <!-- feedback: Correcto. 4^(1/2) es la raíz cuadrada de 4, que es 2. -->
-- [ ] C) -2 <!-- feedback: Incorrecto. 4 elevado a la -2 es 1/16. -->
+- [x] C) 1/2 <!-- feedback: Correcto. 4^(1/2) es la raíz cuadrada de 4, que es 2. -->
+- [ ] B) -2 <!-- feedback: Incorrecto. 4 elevado a la -2 es 1/16. -->
 - [ ] D) 0 <!-- feedback: Incorrecto. 4 elevado a la 0 es 1. -->
 
 ### Explicacion Pedagogica
@@ -406,8 +406,8 @@ Si $\log_b(2) = 0.30$ y $\log_b(3) = 0.48$, calcule el valor de $\log_b(12)$.
 
 ### Opciones
 - [ ] A) 0.78 <!-- feedback: Incorrecto. Solo sumó los logaritmos de 2 y 3, lo que daría log(6). -->
-- [x] B) 1.08 <!-- feedback: Correcto. log(12) = log(2^2 * 3) = 2*log(2) + log(3) = 2(0.30) + 0.48 = 0.60 + 0.48 = 1.08. -->
-- [ ] C) 0.18 <!-- feedback: Incorrecto. Realizó una operación de resta sin sentido en este contexto. -->
+- [x] C) 1.08 <!-- feedback: Correcto. log(12) = log(2^2 * 3) = 2*log(2) + log(3) = 2(0.30) + 0.48 = 0.60 + 0.48 = 1.08. -->
+- [ ] B) 0.18 <!-- feedback: Incorrecto. Realizó una operación de resta sin sentido en este contexto. -->
 - [ ] D) 0.144 <!-- feedback: Incorrecto. Multiplicó los valores de los logaritmos. -->
 
 ### Explicacion Pedagogica
@@ -427,8 +427,8 @@ Descomponemos el número 12 en factores cuyas logaritmos conocemos: $12 = 2^2 \c
 Simplifique la expresión: $\log_2(3) \cdot \log_3(4) \cdot \log_4(8)$.
 
 ### Opciones
-- [ ] A) $\log_2(15)$ <!-- feedback: Incorrecto. No se pueden sumar los argumentos al multiplicar logaritmos de diferentes bases. -->
-- [x] B) 3 <!-- feedback: Correcto. Usando cambio de base: (ln 3 / ln 2) * (ln 4 / ln 3) * (ln 8 / ln 4). Se cancelan los ln 3 y ln 4, quedando ln 8 / ln 2, que es log2(8) = 3. -->
+- [ ] B) $\log_2(15)$ <!-- feedback: Incorrecto. No se pueden sumar los argumentos al multiplicar logaritmos de diferentes bases. -->
+- [x] A) 3 <!-- feedback: Correcto. Usando cambio de base: (ln 3 / ln 2) * (ln 4 / ln 3) * (ln 8 / ln 4). Se cancelan los ln 3 y ln 4, quedando ln 8 / ln 2, que es log2(8) = 3. -->
 - [ ] C) 1 <!-- feedback: Incorrecto. No todos los términos se cancelan para dar 1. -->
 - [ ] D) $\log_9(96)$ <!-- feedback: Incorrecto. No existe una regla que permita combinar las bases y argumentos de esa forma. -->
 
@@ -449,9 +449,9 @@ Al aplicar la fórmula de cambio de base a cada término, los numeradores de una
 ¿A qué es equivalente la expresión $b^{\log_a(c)}$ según las propiedades avanzadas de los logaritmos?
 
 ### Opciones
-- [x] A) $c^{\log_a(b)}$ <!-- feedback: Correcto. Esta es una identidad conocida: b elevado al log_a de c es igual a c elevado al log_a de b. -->
-- [ ] B) $a^{\log_b(c)}$ <!-- feedback: Incorrecto. La base de la potencia no puede intercambiarse por la base del logaritmo de esa manera. -->
-- [ ] C) $c \cdot \log_a(b)$ <!-- feedback: Incorrecto. No es una multiplicación lineal. -->
+- [x] C) $c^{\log_a(b)}$ <!-- feedback: Correcto. Esta es una identidad conocida: b elevado al log_a de c es igual a c elevado al log_a de b. -->
+- [ ] A) $a^{\log_b(c)}$ <!-- feedback: Incorrecto. La base de la potencia no puede intercambiarse por la base del logaritmo de esa manera. -->
+- [ ] B) $c \cdot \log_a(b)$ <!-- feedback: Incorrecto. No es una multiplicación lineal. -->
 - [ ] D) $\log_a(c^b)$ <!-- feedback: Incorrecto. Confusión con la propiedad de la potencia del logaritmo. -->
 
 ### Explicacion Pedagogica

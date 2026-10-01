@@ -34,9 +34,9 @@ Naturaleza del sonido como onda mecánica, cómo se propaga en distintos medios 
 ¿Qué es el sonido?
 
 ### Opciones
-- [x] A) Una vibración que se propaga por un medio material como el aire, el agua o los sólidos.
+- [x] B) Una vibración que se propaga por un medio material como el aire, el agua o los sólidos.
   <!-- feedback: El sonido es una onda mecánica que necesita un medio para viajar. -->
-- [ ] B) Un tipo de luz que sale de los objetos.
+- [ ] A) Un tipo de luz que sale de los objetos.
   <!-- feedback: El sonido no es luz, sino una vibración que se transmite por medios materiales. -->
 - [ ] C) Un gas que producen las personas al hablar.
   <!-- feedback: El sonido no es un gas, sino la vibración que generan las cuerdas vocales. -->
@@ -103,11 +103,11 @@ Aplicar el concepto de reflexión y absorción del sonido al chocar con diferent
 ¿Por qué el estetoscopio permite escuchar sonidos muy suaves del cuerpo?
 
 ### Opciones
-- [x] A) Porque concentra y conduce las vibraciones sonoras desde el cuerpo hasta los oídos.
+- [x] C) Porque concentra y conduce las vibraciones sonoras desde el cuerpo hasta los oídos.
   <!-- feedback: El estetoscopio canaliza el sonido y amplifica las vibraciones internas. -->
-- [ ] B) Porque convierte el sonido del cuerpo en electricidad.
+- [ ] A) Porque convierte el sonido del cuerpo en electricidad.
   <!-- feedback: El estetoscopio no transforma el sonido en electricidad, solo lo conduce mejor. -->
-- [ ] C) Porque produce un sonido nuevo que tapa los latidos.
+- [ ] B) Porque produce un sonido nuevo que tapa los latidos.
   <!-- feedback: El estetoscopio no emite sonidos adicionales, solo recoge los del cuerpo. -->
 - [ ] D) Porque elimina todos los sonidos del ambiente.
   <!-- feedback: El estetoscopio no elimina sonidos del ambiente, pero ayuda a focalizar los internos. -->
@@ -126,11 +126,11 @@ Aplicar la conducción del sonido en materiales sólidos para explicar el funcio
 ¿Por qué se puede escuchar el sonido debajo del agua?
 
 ### Opciones
-- [x] A) Porque el agua es un medio material que permite la propagación de las vibraciones sonoras.
+- [x] C) Porque el agua es un medio material que permite la propagación de las vibraciones sonoras.
   <!-- feedback: El agua transmite las vibraciones, aunque el sonido viaje más rápido que en el aire. -->
-- [ ] B) Porque bajo el agua la luz se convierte en sonido.
+- [ ] A) Porque bajo el agua la luz se convierte en sonido.
   <!-- feedback: La luz no se convierte en sonido al sumergirse. -->
-- [ ] C) Porque los oídos cambian de forma al estar mojados.
+- [ ] B) Porque los oídos cambian de forma al estar mojados.
   <!-- feedback: Los oídos no cambian de forma; lo importante es que el agua transmite el sonido. -->
 - [ ] D) Porque el agua atrapa los rayos del Sol y los transforma en ruido.
   <!-- feedback: Los rayos solares no se transforman en ruido dentro del agua. -->
@@ -149,11 +149,11 @@ Reconocer que el sonido puede propagarse por medios líquidos como el agua.
 ¿Qué relación hay entre la frecuencia de vibración y el tono del sonido?
 
 ### Opciones
-- [x] A) Mayor frecuencia produce sonidos más agudos; menor frecuencia produce sonidos más graves.
+- [x] C) Mayor frecuencia produce sonidos más agudos; menor frecuencia produce sonidos más graves.
   <!-- feedback: La frecuencia alta genera tonos agudos y la baja genera tonos graves. -->
-- [ ] B) La frecuencia no influye en el tono del sonido.
+- [ ] A) La frecuencia no influye en el tono del sonido.
   <!-- feedback: La frecuencia es precisamente la propiedad que determina el tono. -->
-- [ ] C) Siempre que la frecuencia baja, el sonido es más agudo.
+- [ ] B) Siempre que la frecuencia baja, el sonido es más agudo.
   <!-- feedback: Cuando la frecuencia baja, el sonido se vuelve más grave, no más agudo. -->
 - [ ] D) Solo los instrumentos musicales cambian de tono, los demás sonidos no.
   <!-- feedback: Cualquier sonido puede variar de tono según su frecuencia de vibración. -->
@@ -172,13 +172,13 @@ Analizar la relación entre la frecuencia de vibración y las cualidades del son
 ¿Qué consecuencia puede traer la contaminación sonora en las personas?
 
 ### Opciones
-- [x] A) Pérdida de la capacidad auditiva, estrés y problemas para dormir o concentrarse.
+- [x] D) Pérdida de la capacidad auditiva, estrés y problemas para dormir o concentrarse.
   <!-- feedback: El ruido constante puede dañar la audición y afectar la salud mental. -->
-- [ ] B) Mejora de la memoria y el aprendizaje.
+- [ ] A) Mejora de la memoria y el aprendizaje.
   <!-- feedback: La contaminación sonora no mejora la memoria ni el aprendizaje. -->
-- [ ] C) Aumento de la temperatura corporal.
+- [ ] B) Aumento de la temperatura corporal.
   <!-- feedback: La contaminación sonora no cambia la temperatura del cuerpo. -->
-- [ ] D) Crecimiento más rápido del cabello.
+- [ ] C) Crecimiento más rápido del cabello.
   <!-- feedback: El ruido excesivo no tiene relación con el crecimiento del cabello. -->
 
 ### Explicacion Pedagogica

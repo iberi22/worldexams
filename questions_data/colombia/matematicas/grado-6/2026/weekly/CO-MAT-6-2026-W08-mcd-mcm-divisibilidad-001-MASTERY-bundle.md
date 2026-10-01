@@ -48,13 +48,13 @@ Un número es divisible entre 2 cuando su última cifra es par: 0, 2, 4, 6 u 8. 
 ### Enunciado
 ¿Cuál de estos números es divisor de 45?
 ### Opciones
-- [x] A) 9
+- [x] D) 9
   <!-- feedback: Es correcta porque 45 dividido entre 9 es 5 exacto. -->
-- [ ] B) 7
+- [ ] A) 7
   <!-- feedback: Es incorrecta porque 45 dividido entre 7 deja residuo. -->
-- [ ] C) 8
+- [ ] B) 8
   <!-- feedback: Es incorrecta porque 8 no divide a 45 de forma exacta. -->
-- [ ] D) 11
+- [ ] C) 11
   <!-- feedback: Es incorrecta porque 11 por 4 es 44 y sobra 1. -->
 ### Explicacion Pedagogica
 Un divisor cabe un número exacto de veces sin dejar residuo. Como 9 por 5 es 45, el 9 es divisor de 45 y sirve para armar 5 cajas de 9 libros.
@@ -86,11 +86,11 @@ Para comprobar se divide 120 entre cada opción. Solo con 7 el cociente no es en
 ### Enunciado
 El número 234 es divisible entre 3 porque:
 ### Opciones
-- [x] A) La suma de sus cifras es 9, que es múltiplo de 3
+- [x] C) La suma de sus cifras es 9, que es múltiplo de 3
   <!-- feedback: Es correcta porque 2 más 3 más 4 es 9 y 9 es divisible entre 3. -->
-- [ ] B) Termina en cifra par
+- [ ] A) Termina en cifra par
   <!-- feedback: Es incorrecta porque esa es la regla del 2 y no la del 3. -->
-- [ ] C) Termina en 4
+- [ ] B) Termina en 4
   <!-- feedback: Es incorrecta porque la última cifra no decide la divisibilidad entre 3. -->
 - [ ] D) Es mayor que 100
   <!-- feedback: Es incorrecta porque el tamaño no garantiza la divisibilidad. -->
@@ -105,9 +105,9 @@ La regla del 3 dice que se suman las cifras y si el resultado es múltiplo de 3,
 ### Enunciado
 ¿En cuántos minutos volverán a coincidir?
 ### Opciones
-- [x] A) 24 minutos
+- [x] B) 24 minutos
   <!-- feedback: Es correcta porque 24 es el menor múltiplo común de 6 y 8. -->
-- [ ] B) 14 minutos
+- [ ] A) 14 minutos
   <!-- feedback: Es incorrecta porque 14 es la suma y no un múltiplo común. -->
 - [ ] C) 48 minutos
   <!-- feedback: Es incorrecta porque aunque es múltiplo común, no es el menor. -->
@@ -124,13 +124,13 @@ El momento en que coinciden es el mínimo común múltiplo. Los múltiplos de 6 
 ### Enunciado
 ¿Cuál es el mayor número de kits iguales que puede armar?
 ### Opciones
-- [x] A) 6 kits
+- [x] D) 6 kits
   <!-- feedback: Es correcta porque 6 es el máximo común divisor de 18 y 24. -->
-- [ ] B) 12 kits
+- [ ] A) 12 kits
   <!-- feedback: Es incorrecta porque 12 no divide a 18 de forma exacta. -->
-- [ ] C) 18 kits
+- [ ] B) 18 kits
   <!-- feedback: Es incorrecta porque 18 no divide a 24 de forma exacta. -->
-- [ ] D) 2 kits
+- [ ] C) 2 kits
   <!-- feedback: Es incorrecta porque aunque es divisor común, no es el mayor posible. -->
 ### Explicacion Pedagogica
 Se busca el máximo común divisor. Los divisores de 18 son 1, 2, 3, 6, 9, 18 y los de 24 son 1, 2, 3, 4, 6, 8, 12, 24. El mayor común es 6, así que arma 6 kits de 3 lápices y 4 borradores cada uno.
@@ -162,9 +162,9 @@ Los múltiplos de 4 son 4, 8, 12, 16 y los de 6 son 6, 12, 18. El menor que apar
 ### Enunciado
 El número 25000 es divisible entre 5 y entre 10 porque:
 ### Opciones
-- [x] A) Termina en 0, que cumple ambas reglas
+- [x] B) Termina en 0, que cumple ambas reglas
   <!-- feedback: Es correcta porque todo número terminado en 0 es divisible entre 5 y entre 10. -->
-- [ ] B) La suma de sus cifras es 7
+- [ ] A) La suma de sus cifras es 7
   <!-- feedback: Es incorrecta porque esa es la regla del 3 y 7 no es múltiplo de 3. -->
 - [ ] C) Es un número par grande
   <!-- feedback: Es incorrecta porque ser par solo garantiza divisibilidad entre 2. -->
@@ -181,13 +181,13 @@ La regla del 5 pide que termine en 0 o en 5, y la del 10 pide que termine en 0. 
 ### Enunciado
 ¿Después de cuántos segundos volverán a sonar las tres juntas y cuántas veces habrá sonado cada una?
 ### Opciones
-- [x] A) 180 segundos; 15, 10 y 6 veces
+- [x] D) 180 segundos; 15, 10 y 6 veces
   <!-- feedback: Es correcta porque 180 es el mínimo común múltiplo y las divisiones son exactas. -->
-- [ ] B) 90 segundos; 7, 5 y 3 veces
+- [ ] A) 90 segundos; 7, 5 y 3 veces
   <!-- feedback: Es incorrecta porque 90 no es múltiplo de 12 ni de 30. -->
-- [ ] C) 60 segundos; 5, 3 y 2 veces
+- [ ] B) 60 segundos; 5, 3 y 2 veces
   <!-- feedback: Es incorrecta porque 60 no es múltiplo de 12 ni de 18. -->
-- [ ] D) 360 segundos; 30, 20 y 12 veces
+- [ ] C) 360 segundos; 30, 20 y 12 veces
   <!-- feedback: Es incorrecta porque aunque coinciden, no es el primer encuentro. -->
 ### Explicacion Pedagogica
 Se descompone: 12 es 2 al cuadrado por 3, 18 es 2 por 3 al cuadrado y 30 es 2 por 3 por 5. El mínimo común múltiplo toma los mayores exponentes: 4 por 9 por 5 igual a 180. Al dividir 180 entre 12, 18 y 30 se obtienen 15, 10 y 6 repeticiones.
@@ -200,9 +200,9 @@ Se descompone: 12 es 2 al cuadrado por 3, 18 es 2 por 3 al cuadrado y 30 es 2 po
 ### Enunciado
 ¿Cuál es la evaluación correcta de esa afirmación?
 ### Opciones
-- [x] A) Es falsa en la segunda parte, porque ser divisible entre 2 y entre 3 garantiza divisibilidad entre 6
+- [x] B) Es falsa en la segunda parte, porque ser divisible entre 2 y entre 3 garantiza divisibilidad entre 6
   <!-- feedback: Es correcta porque 2 y 3 son primos entre sí y su producto es 6. -->
-- [ ] B) Es totalmente verdadera
+- [ ] A) Es totalmente verdadera
   <!-- feedback: Es incorrecta porque si cumple ambas condiciones sí es divisible entre 6. -->
 - [ ] C) Es totalmente falsa
   <!-- feedback: Es incorrecta porque la primera parte sí es cierta por los divisores de 6. -->

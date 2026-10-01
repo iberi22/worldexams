@@ -32,11 +32,11 @@ Este bundle contiene 10 preguntas sobre **principio-multiplicativo-conteo** para
 ### Enunciado
 ¿Qué establece el principio multiplicativo del conteo?
 ### Opciones
-- [x] A) Si hay $m$ opciones para una primera elección y $n$ para una segunda independiente, existen $m \times n$ formas combinadas
+- [x] C) Si hay $m$ opciones para una primera elección y $n$ para una segunda independiente, existen $m \times n$ formas combinadas
   <!-- feedback: Correcto. Esa es la definición del principio multiplicativo. -->
-- [ ] B) El número de combinaciones se obtiene sumando las opciones
+- [ ] A) El número de combinaciones se obtiene sumando las opciones
   <!-- feedback: Incorrecto. Para elecciones independientes se multiplica, no se suma. -->
-- [ ] C) El número de combinaciones se obtiene restando las opciones
+- [ ] B) El número de combinaciones se obtiene restando las opciones
   <!-- feedback: Incorrecto. La resta aplica a conjuntos excluyentes, no a combinaciones. -->
 - [ ] D) El número de combinaciones se obtiene dividiendo las opciones
   <!-- feedback: Incorrecto. La división aplica a la probabilidad, no al conteo de combinaciones. -->
@@ -72,13 +72,13 @@ Si se elige un pan y un jugo, hay $2 \times 3 = 6$ combinaciones distintas.
 ### Enunciado
 ¿Cuántas combinaciones de uniforme se pueden armar?
 ### Opciones
-- [x] A) $6$ combinaciones
+- [x] D) $6$ combinaciones
   <!-- feedback: Correcto. $3 \times 2 = 6$. -->
-- [ ] B) $5$ combinaciones
+- [ ] A) $5$ combinaciones
   <!-- feedback: Incorrecto. Sumaste las opciones en lugar de multiplicarlas. -->
-- [ ] C) $3$ combinaciones
+- [ ] B) $3$ combinaciones
   <!-- feedback: Incorrecto. Consideraste solo las camisas. -->
-- [ ] D) $9$ combinaciones
+- [ ] C) $9$ combinaciones
   <!-- feedback: Incorrecto. Sumaste $3 + 2 + 4$ o usaste otra operación incorrecta. -->
 ### Explicacion Pedagogica
 El principio multiplicativo combina elecciones independientes: $3$ camisas $\times$ $2$ pantalones $= 6$.
@@ -92,13 +92,13 @@ El principio multiplicativo combina elecciones independientes: $3$ camisas $\tim
 ### Enunciado
 ¿Cuántos posibles menús completos puede armar el cliente?
 ### Opciones
-- [x] A) $60$ menús posibles
+- [x] D) $60$ menús posibles
   <!-- feedback: Correcto. $4 \times 5 \times 3 = 60$. -->
-- [ ] B) $12$ menús posibles
+- [ ] A) $12$ menús posibles
   <!-- feedback: Incorrecto. Multiplicaste solo dos categorías. -->
-- [ ] C) $20$ menús posibles
+- [ ] B) $20$ menús posibles
   <!-- feedback: Incorrecto. Olvidaste multiplicar por los postres. -->
-- [ ] D) $30$ menús posibles
+- [ ] C) $30$ menús posibles
   <!-- feedback: Incorrecto. Usaste sumas o factores equivocados. -->
 ### Explicacion Pedagogica
 Con tres elecciones independientes, el total de combinaciones es el producto de las opciones de cada etapa.
@@ -112,13 +112,13 @@ Con tres elecciones independientes, el total de combinaciones es el producto de 
 ### Enunciado
 ¿Cuántas rutas diferentes puede tomar Andrés para llegar?
 ### Opciones
-- [x] A) $6$ rutas distintas
+- [x] D) $6$ rutas distintas
   <!-- feedback: Correcto. $3 \times 2 = 6$. -->
-- [ ] B) $5$ rutas distintas
+- [ ] A) $5$ rutas distintas
   <!-- feedback: Incorrecto. Sumaste $3 + 2$ en lugar de multiplicar. -->
-- [ ] C) $3$ rutas distintas
+- [ ] B) $3$ rutas distintas
   <!-- feedback: Incorrecto. Solo consideraste la primera cuadra. -->
-- [ ] D) $9$ rutas distintas
+- [ ] C) $9$ rutas distintas
   <!-- feedback: Incorrecto. Usaste $3^2$ en lugar de $3 \times 2$. -->
 ### Explicacion Pedagogica
 En cada cuadra las elecciones son independientes, así que el total de rutas es el producto de las opciones por cuadra.
@@ -132,13 +132,13 @@ En cada cuadra las elecciones son independientes, así que el total de rutas es 
 ### Enunciado
 ¿De cuántas formas distintas pueden asignarse los puestos de primero, segundo y tercero?
 ### Opciones
-- [x] A) $24$ formas distintas
+- [x] D) $24$ formas distintas
   <!-- feedback: Correcto. Es una variación: $4 \times 3 \times 2 = 24$. -->
-- [ ] B) $12$ formas distintas
+- [ ] A) $12$ formas distintas
   <!-- feedback: Incorrecto. Calculaste solo dos lugares. -->
-- [ ] C) $4$ formas distintas
+- [ ] B) $4$ formas distintas
   <!-- feedback: Incorrecto. Es el número de corredores, no de podios posibles. -->
-- [ ] D) $64$ formas distintas
+- [ ] C) $64$ formas distintas
   <!-- feedback: Incorrecto. Elevaste $4$ al cubo en lugar de reducir opciones en cada paso. -->
 ### Explicacion Pedagogica
 En una variación o permutación de $n$ elementos tomados de a $k$, se multiplican $n$, $n-1$, $n-2$, $\ldots$, $n-k+1$.
@@ -152,11 +152,11 @@ En una variación o permutación de $n$ elementos tomados de a $k$, se multiplic
 ### Enunciado
 ¿Cuántos comités diferentes de $3$ personas se pueden formar?
 ### Opciones
-- [x] A) $35$ comités
+- [x] C) $35$ comités
   <!-- feedback: Correcto. $C(7,3) = \dfrac{7!}{3! \cdot 4!} = \dfrac{7 \cdot 6 \cdot 5}{3 \cdot 2 \cdot 1} = 35$. -->
-- [ ] B) $21$ comités
+- [ ] A) $21$ comités
   <!-- feedback: Incorrecto. Calculaste $7 \times 3$ o $C(7,2)$. -->
-- [ ] C) $7$ comités
+- [ ] B) $7$ comités
   <!-- feedback: Incorrecto. Es solo el número de candidatos. -->
 - [ ] D) $6$ comités
   <!-- feedback: Incorrecto. Es el número de permutaciones de $3$ elegidos de $3$, no de $7$. -->
@@ -172,11 +172,11 @@ Para combinaciones el orden no importa: $C(n,k) = \dfrac{n!}{k!(n-k)!}$.
 ### Enunciado
 ¿Cuántos PIN diferentes puede generar un cliente bajo estas reglas?
 ### Opciones
-- [x] A) $5.040$ códigos posibles
+- [x] C) $5.040$ códigos posibles
   <!-- feedback: Correcto. $10 \times 9 \times 8 \times 7 = 5.040$. -->
-- [ ] B) $10.000$ códigos posibles
+- [ ] A) $10.000$ códigos posibles
   <!-- feedback: Incorrecto. Ese sería el total si se permitiera repetir dígitos. -->
-- [ ] C) $1.000$ códigos posibles
+- [ ] B) $1.000$ códigos posibles
   <!-- feedback: Incorrecto. Solo tendrías $10^3$ si el PIN fuera de $3$ dígitos. -->
 - [ ] D) $656$ códigos posibles
   <!-- feedback: Incorrecto. Probablemente calculaste combinaciones sin aplicar el orden. -->
@@ -192,13 +192,13 @@ Como los dígitos no se repiten, las opciones se reducen en cada posición: $10,
 ### Enunciado
 ¿Cuántas posibles selecciones distintas de menú puede armar un comensal?
 ### Opciones
-- [x] A) $24$ selecciones posibles
+- [x] D) $24$ selecciones posibles
   <!-- feedback: Correcto. $2 \times 3 \times 2 \times 2 = 24$. -->
-- [ ] B) $9$ selecciones posibles
+- [ ] A) $9$ selecciones posibles
   <!-- feedback: Incorrecto. Sumaste opciones en lugar de multiplicar. -->
-- [ ] C) $10$ selecciones posibles
+- [ ] B) $10$ selecciones posibles
   <!-- feedback: Incorrecto. Probablemente tomaste $2 + 3 + 2 + 2 + 1$. -->
-- [ ] D) $7$ selecciones posibles
+- [ ] C) $7$ selecciones posibles
   <!-- feedback: Incorrecto. Contaste categorías, no combinaciones. -->
 ### Explicacion Pedagogica
 Cuando se elige una opción de cada categoría se aplica el principio multiplicativo: producto de las opciones de cada etapa.
@@ -212,9 +212,9 @@ Cuando se elige una opción de cada categoría se aplica el principio multiplica
 ### Enunciado
 ¿Cuántas combinaciones reales de tiquete puede comprar un cliente nacional?
 ### Opciones
-- [x] A) $12$ combinaciones reales
+- [x] B) $12$ combinaciones reales
   <!-- feedback: Correcto. Aerolínea $1$: $3$ destinos $\times 1$ clase $= 3$; otras $3$ aerolíneas: $3$ destinos $\times 1$ clase $= 3 \times 3 = 9$. Total $= 3 + 9 = 12$. -->
-- [ ] B) $24$ combinaciones reales
+- [ ] A) $24$ combinaciones reales
   <!-- feedback: Incorrecto. Ese sería el total si todas las combinaciones estuvieran disponibles. -->
 - [ ] C) $9$ combinaciones reales
   <!-- feedback: Incorrecto. Solo consideraste las aerolíneas sin ejecutiva. -->

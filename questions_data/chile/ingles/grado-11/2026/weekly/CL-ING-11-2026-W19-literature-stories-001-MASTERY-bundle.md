@@ -35,8 +35,8 @@ creador: "Jules-Agent"
 The plot is the sequence of events that make up a story.
 
 ### Opciones
-- [ ] A) character <!-- feedback: Incorrect. Characters are the people in the story. -->
-- [x] B) plot <!-- feedback: Correct. Plot is the sequence of events. -->
+- [ ] B) character <!-- feedback: Incorrect. Characters are the people in the story. -->
+- [x] A) plot <!-- feedback: Correct. Plot is the sequence of events. -->
 - [ ] C) setting <!-- feedback: Incorrect. Setting is the place and time. -->
 - [ ] D) theme <!-- feedback: Incorrect. Theme is the main idea or message. -->
 
@@ -75,8 +75,8 @@ The relative pronoun 'which' introduces extra information about the subject (the
 If I hadn't read that book, I wouldn't have understood the historical context of the period.
 
 ### Opciones
-- [ ] A) didn't read <!-- feedback: Incorrect. Second conditional. -->
-- [x] B) hadn't read <!-- feedback: Correct. Third conditional for hypothetical past. -->
+- [ ] B) didn't read <!-- feedback: Incorrect. Second conditional. -->
+- [x] A) hadn't read <!-- feedback: Correct. Third conditional for hypothetical past. -->
 - [ ] C) haven't read <!-- feedback: Incorrect. Present perfect. -->
 - [ ] D) wouldn't read <!-- feedback: Incorrect. 'Would' not used in 'if' clause. -->
 
@@ -95,10 +95,10 @@ The third conditional allows us to reflect on the impact of a past experience (r
 Magical realism is a genre that depicts the real world as having an undercurrent of magic or fantasy.
 
 ### Opciones
-- [x] A) Magical realism <!-- feedback: Correct. A major genre in Latin American and global literature. -->
-- [ ] B) Science fiction <!-- feedback: Incorrect. Focuses on future/technology. -->
-- [ ] C) Biography <!-- feedback: Incorrect. Non-fiction life story. -->
-- [ ] D) Mystery <!-- feedback: Incorrect. Focuses on solving a crime or puzzle. -->
+- [x] D) Magical realism <!-- feedback: Correct. A major genre in Latin American and global literature. -->
+- [ ] A) Science fiction <!-- feedback: Incorrect. Focuses on future/technology. -->
+- [ ] B) Biography <!-- feedback: Incorrect. Non-fiction life story. -->
+- [ ] C) Mystery <!-- feedback: Incorrect. Focuses on solving a crime or puzzle. -->
 
 ### Explicacion Pedagogica
 'Magical realism' is the specific literary term for the blending of mundane reality with fantastic elements.
@@ -115,8 +115,8 @@ Magical realism is a genre that depicts the real world as having an undercurrent
 The protagonist is the main character who drives the action and often undergoes a significant transformation.
 
 ### Opciones
-- [ ] A) antagonist <!-- feedback: Incorrect. The antagonist opposes the main character. -->
-- [x] B) protagonist <!-- feedback: Correct. The leading character. -->
+- [ ] B) antagonist <!-- feedback: Incorrect. The antagonist opposes the main character. -->
+- [x] A) protagonist <!-- feedback: Correct. The leading character. -->
 - [ ] C) narrator <!-- feedback: Incorrect. The narrator tells the story but isn't always the protagonist. -->
 - [ ] D) villain <!-- feedback: Incorrect. A type of antagonist. -->
 
@@ -136,9 +136,9 @@ A fable is a short story, typically with animals as characters, conveying a mora
 
 ### Opciones
 - [ ] A) novel <!-- feedback: Incorrect. A novel is long. -->
-- [x] B) fable <!-- feedback: Correct. Specifically uses animals to teach a lesson. -->
-- [ ] C) essay <!-- feedback: Incorrect. An essay is non-fiction. -->
-- [ ] D) journal <!-- feedback: Incorrect. A journal is a daily record. -->
+- [x] D) fable <!-- feedback: Correct. Specifically uses animals to teach a lesson. -->
+- [ ] B) essay <!-- feedback: Incorrect. An essay is non-fiction. -->
+- [ ] C) journal <!-- feedback: Incorrect. A journal is a daily record. -->
 
 ### Explicacion Pedagogica
 'Fable' is the specific term for an allegorical short story, often featuring anthropomorphized animals.
@@ -176,8 +176,8 @@ Foreshadowing is a literary device in which a writer gives an advance hint of wh
 
 ### Opciones
 - [ ] A) Flashback <!-- feedback: Incorrect. A flashback shows the past. -->
-- [x] B) Foreshadowing <!-- feedback: Correct. Foreshadowing hints at the future. -->
-- [ ] C) Metaphor <!-- feedback: Incorrect. A metaphor compares two things. -->
+- [x] C) Foreshadowing <!-- feedback: Correct. Foreshadowing hints at the future. -->
+- [ ] B) Metaphor <!-- feedback: Incorrect. A metaphor compares two things. -->
 - [ ] D) Irony <!-- feedback: Incorrect. Irony involves contrast between expectation and reality. -->
 
 ### Explicacion Pedagogica
@@ -196,8 +196,8 @@ I used to read fairy tales every night when I was a child.
 
 ### Opciones
 - [ ] A) am used to <!-- feedback: Incorrect. This means 'accustomed to' in the present. -->
-- [x] B) used to <!-- feedback: Correct. 'Used to' describes a past habit. -->
-- [ ] C) use to <!-- feedback: Incorrect grammar. -->
+- [x] C) used to <!-- feedback: Correct. 'Used to' describes a past habit. -->
+- [ ] B) use to <!-- feedback: Incorrect grammar. -->
 - [ ] D) would <!-- feedback: Incorrect. While 'would' works for habits, 'used to' is the standard for contrasting past and present. -->
 
 ### Explicacion Pedagogica
@@ -215,8 +215,8 @@ I used to read fairy tales every night when I was a child.
 The author uses "stream of consciousness" to give readers a direct view into the character's internal thoughts and feelings.
 
 ### Opciones
-- [ ] A) dialogue <!-- feedback: Incorrect. Dialogue is external conversation. -->
-- [x] B) stream of consciousness <!-- feedback: Correct. Literary technique for representing internal thought processes. -->
+- [ ] B) dialogue <!-- feedback: Incorrect. Dialogue is external conversation. -->
+- [x] A) stream of consciousness <!-- feedback: Correct. Literary technique for representing internal thought processes. -->
 - [ ] C) summary <!-- feedback: Incorrect. A summary condenses events. -->
 - [ ] D) prologue <!-- feedback: Incorrect. An introduction. -->
 
@@ -236,8 +236,8 @@ A cliffhanger is a dramatic and exciting ending to an episode of a serial, leavi
 
 ### Opciones
 - [ ] A) resolution <!-- feedback: Incorrect. A resolution solves the plot. -->
-- [x] B) cliffhanger <!-- feedback: Correct. Leaves the outcome uncertain. -->
-- [ ] C) epilogue <!-- feedback: Incorrect. A section at the end that provides finality. -->
+- [x] C) cliffhanger <!-- feedback: Correct. Leaves the outcome uncertain. -->
+- [ ] B) epilogue <!-- feedback: Incorrect. A section at the end that provides finality. -->
 - [ ] D) climax <!-- feedback: Incorrect. The most intense point, but not necessarily a suspended ending. -->
 
 ### Explicacion Pedagogica
@@ -256,9 +256,9 @@ By the time the author retired, he had written over fifty novels.
 
 ### Opciones
 - [ ] A) wrote <!-- feedback: Incorrect. Past simple. -->
-- [x] B) had written <!-- feedback: Correct. Past perfect for an action completed before a past point. -->
-- [ ] C) has written <!-- feedback: Incorrect. Present perfect. -->
-- [ ] D) was writing <!-- feedback: Incorrect. Past continuous. -->
+- [x] D) had written <!-- feedback: Correct. Past perfect for an action completed before a past point. -->
+- [ ] B) has written <!-- feedback: Incorrect. Present perfect. -->
+- [ ] C) was writing <!-- feedback: Incorrect. Past continuous. -->
 
 ### Explicacion Pedagogica
 The past perfect 'had written' establishes the completion of the action before the author's retirement.
@@ -295,8 +295,8 @@ The poet used vivid imagery to evoke a sense of nostalgia in the reader.
 If I had more discipline, I would write a poem every day.
 
 ### Opciones
-- [ ] A) have <!-- feedback: Incorrect. First conditional. -->
-- [x] B) had <!-- feedback: Correct. Second conditional for a present hypothetical change. -->
+- [ ] B) have <!-- feedback: Incorrect. First conditional. -->
+- [x] A) had <!-- feedback: Correct. Second conditional for a present hypothetical change. -->
 - [ ] C) have had <!-- feedback: Incorrect. Present perfect. -->
 - [ ] D) would have <!-- feedback: Incorrect. 'Would' not used in 'if' clause. -->
 
@@ -315,8 +315,8 @@ The second conditional 'if + past simple' describes the imaginary result of a hy
 The author argues that stories are a fundamental human tool for making sense of the world.
 
 ### Opciones
-- [ ] A) unimportant <!-- feedback: Incorrect. The author says they are fundamental. -->
-- [x] B) fundamental <!-- feedback: Correct. Fundamental means forming a necessary base or core; of central importance. -->
+- [ ] B) unimportant <!-- feedback: Incorrect. The author says they are fundamental. -->
+- [x] A) fundamental <!-- feedback: Correct. Fundamental means forming a necessary base or core; of central importance. -->
 - [ ] C) secondary <!-- feedback: Incorrect. Means less important. -->
 - [ ] D) accidental <!-- feedback: Incorrect. Implies they are not intended or natural. -->
 
@@ -336,9 +336,9 @@ An anthology is a published collection of poems or other pieces of writing.
 
 ### Opciones
 - [ ] A) dictionary <!-- feedback: Incorrect. A reference for words. -->
-- [x] B) anthology <!-- feedback: Correct. A collection of selected writings. -->
-- [ ] C) manual <!-- feedback: Incorrect. Instructions for a task. -->
-- [ ] D) newspaper <!-- feedback: Incorrect. Periodic publication of news. -->
+- [x] D) anthology <!-- feedback: Correct. A collection of selected writings. -->
+- [ ] B) manual <!-- feedback: Incorrect. Instructions for a task. -->
+- [ ] C) newspaper <!-- feedback: Incorrect. Periodic publication of news. -->
 
 ### Explicacion Pedagogica
 'Anthology' is the specific term for a curated collection of literary works.
@@ -356,8 +356,8 @@ I hope to have read all of Shakespeare's plays by the end of the year.
 
 ### Opciones
 - [ ] A) read <!-- feedback: Incorrect. Simple infinitive. -->
-- [x] B) to have read <!-- feedback: Correct. Perfect infinitive for a completed action by a future point. -->
-- [ ] C) reading <!-- feedback: Incorrect. Gerund. -->
+- [x] C) to have read <!-- feedback: Correct. Perfect infinitive for a completed action by a future point. -->
+- [ ] B) reading <!-- feedback: Incorrect. Gerund. -->
 - [ ] D) have read <!-- feedback: Incorrect. Needs 'to'. -->
 
 ### Explicacion Pedagogica
@@ -396,8 +396,8 @@ The writer said that her latest story had been inspired by a dream.
 
 ### Opciones
 - [ ] A) was inspired <!-- feedback: Incorrect. While possible in informal speech, 'had been' is more precise backshifting from 'was inspired' or 'has been inspired'. -->
-- [x] B) had been inspired <!-- feedback: Correct. Backshifted from past simple or present perfect to past perfect. -->
-- [ ] C) is inspired <!-- feedback: Incorrect. Present tense. -->
+- [x] C) had been inspired <!-- feedback: Correct. Backshifted from past simple or present perfect to past perfect. -->
+- [ ] B) is inspired <!-- feedback: Incorrect. Present tense. -->
 - [ ] D) will be inspired <!-- feedback: Incorrect. Future. -->
 
 ### Explicacion Pedagogica

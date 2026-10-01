@@ -34,13 +34,13 @@ Vocabulary and simple descriptions distinguishing pets (domestic animals) from w
 Which of the following animals is typically kept as a pet at home?
 
 ### Opciones
-- [x] A) Dog.
+- [x] D) Dog.
   <!-- feedback: Dogs are common domestic animals kept as pets in many Colombian homes. -->
-- [ ] B) Tiger.
+- [ ] A) Tiger.
   <!-- feedback: Tigers are large wild cats and are not kept as household pets. -->
-- [ ] C) Shark.
+- [ ] B) Shark.
   <!-- feedback: Sharks are wild marine animals, not suitable as pets. -->
-- [ ] D) Eagle.
+- [ ] C) Eagle.
   <!-- feedback: Eagles are wild birds of prey and are not kept as pets. -->
 
 ### Explicacion Pedagogica
@@ -57,9 +57,9 @@ Distinguishing between common domestic animals (pets) and wild animals by recogn
 Why are lions considered wild animals?
 
 ### Opciones
-- [x] A) Because they live in nature and hunt their own food.
+- [x] B) Because they live in nature and hunt their own food.
   <!-- feedback: Lions live freely in the savanna and hunt their prey, which makes them wild. -->
-- [ ] B) Because they sleep in people's houses.
+- [ ] A) Because they sleep in people's houses.
   <!-- feedback: Wild animals do not live inside human houses; domestic animals sometimes do. -->
 - [ ] C) Because they eat food from a bowl every day.
   <!-- feedback: Eating from a bowl is typical of pets, not of wild lions. -->
@@ -80,11 +80,11 @@ Understanding the characteristics that define wild animals versus domestic ones 
 Choose the correct sentence to describe his pets using plural nouns.
 
 ### Opciones
-- [x] A) He has three pets: a cat, a dog, and two goldfish.
+- [x] C) He has three pets: a cat, a dog, and two goldfish.
   <!-- feedback: "Has" agrees with "he" and the list accurately reflects the pets described. -->
-- [ ] B) He have three pets: a cat, a dog, and two goldfish.
+- [ ] A) He have three pets: a cat, a dog, and two goldfish.
   <!-- feedback: "Have" is used with I, you, we, or they, not with "he". -->
-- [ ] C) He having three pets at home every day.
+- [ ] B) He having three pets at home every day.
   <!-- feedback: "Having" is a gerund and needs an auxiliary verb in the present continuous. -->
 - [ ] D) He has three pet: a cat, a dog, and two goldfish.
   <!-- feedback: "Pet" should be in the plural form "pets" because there are more than one. -->
@@ -103,11 +103,11 @@ Applying subject-verb agreement and plural noun forms when describing multiple a
 What is the correct word in English for a baby dog?
 
 ### Opciones
-- [x] A) Puppy.
+- [x] C) Puppy.
   <!-- feedback: The baby of a dog is called a puppy in English. -->
-- [ ] B) Kitten.
+- [ ] A) Kitten.
   <!-- feedback: A kitten is the baby of a cat, not a dog. -->
-- [ ] C) Cub.
+- [ ] B) Cub.
   <!-- feedback: "Cub" is used for the young of large wild mammals like lions or bears. -->
 - [ ] D) Foal.
   <!-- feedback: A foal is the baby of a horse, not a dog. -->
@@ -126,9 +126,9 @@ Applying vocabulary for baby animals in English (puppy, kitten, cub, foal).
 Complete the sentence with the correct verb form: "Wild animals _____ protected forests."
 
 ### Opciones
-- [x] A) need.
+- [x] B) need.
   <!-- feedback: "Need" is the base form used with plural subjects like "wild animals". -->
-- [ ] B) needs.
+- [ ] A) needs.
   <!-- feedback: "Needs" is used only with third person singular subjects. -->
 - [ ] C) needing.
   <!-- feedback: "Needing" is a gerund and needs an auxiliary verb. -->
@@ -149,9 +149,9 @@ Conjugating regular verbs in the Simple Present with plural animal subjects in E
 Which comparison between cats and lions is correct?
 
 ### Opciones
-- [x] A) Cats are smaller than lions, but lions are stronger than cats.
+- [x] B) Cats are smaller than lions, but lions are stronger than cats.
   <!-- feedback: The comparative forms "smaller than" and "stronger than" correctly compare the two. -->
-- [ ] B) Lions are smaller than cats.
+- [ ] A) Lions are smaller than cats.
   <!-- feedback: Lions are much bigger than domestic cats, so this comparison is incorrect. -->
 - [ ] C) Cats are stronger than lions.
   <!-- feedback: Lions are stronger than cats, so this comparison is reversed. -->
@@ -172,11 +172,11 @@ Using comparative adjectives (-er than) to contrast a domestic animal and a wild
 What is the main difference between the two groups of animals described?
 
 ### Opciones
-- [x] A) One group lives with humans as pets, and the other lives in nature as wild animals.
+- [x] C) One group lives with humans as pets, and the other lives in nature as wild animals.
   <!-- feedback: Dogs and cats are domestic; jaguars and anacondas are wild jungle animals. -->
-- [ ] B) Both groups live in the same house in the city.
+- [ ] A) Both groups live in the same house in the city.
   <!-- feedback: Jaguars and anacondas do not live in houses with humans. -->
-- [ ] C) Both groups live only in rivers and oceans.
+- [ ] B) Both groups live only in rivers and oceans.
   <!-- feedback: Domestic animals like dogs and cats do not live in rivers or oceans. -->
 - [ ] D) Both groups are kept inside small cages.
   <!-- feedback: The passage distinguishes animals that live freely in the jungle from pets. -->
@@ -195,13 +195,13 @@ Analyzing categories of animals (domestic versus wild) by their habitats and rol
 What is the author's main message about wild animals in Colombia?
 
 ### Opciones
-- [x] A) Human actions are putting wild animals at risk, so we must protect their habitats.
+- [x] D) Human actions are putting wild animals at risk, so we must protect their habitats.
   <!-- feedback: The text highlights threats from cities, deforestation, and pollution, urging protection. -->
-- [ ] B) Wild animals should be captured and sold in markets.
+- [ ] A) Wild animals should be captured and sold in markets.
   <!-- feedback: The author warns against harming wildlife and opposes commercialization. -->
-- [ ] C) Cutting down forests is the best way to help wild animals.
+- [ ] B) Cutting down forests is the best way to help wild animals.
   <!-- feedback: Deforestation is presented as a threat, not as a way to help animals. -->
-- [ ] D) Wild animals do not need clean rivers or forests to survive.
+- [ ] C) Wild animals do not need clean rivers or forests to survive.
   <!-- feedback: The author states that forests and rivers are essential for their survival. -->
 
 ### Explicacion Pedagogica

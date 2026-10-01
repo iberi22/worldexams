@@ -34,11 +34,11 @@ Características del texto teatral: parlamentos, acotaciones, didascalias, estru
 ¿Cuál es el elemento esencial de un texto teatral?
 
 ### Opciones
-- [x] A) El diálogo entre personajes, organizado en parlamentos y acotaciones.
+- [x] C) El diálogo entre personajes, organizado en parlamentos y acotaciones.
   <!-- feedback: La esencia del teatro es el diálogo, con parlamentos y acotaciones que orientan la puesta en escena. -->
-- [ ] B) La descripción detallada de paisajes.
+- [ ] A) La descripción detallada de paisajes.
   <!-- feedback: Las descripciones paisajísticas predominan en la novela, no en el teatro. -->
-- [ ] C) Los capítulos numerados y un narrador omnisciente.
+- [ ] B) Los capítulos numerados y un narrador omnisciente.
   <!-- feedback: Esos son rasgos típicos de la novela. -->
 - [ ] D) Una sola voz que narra sin interlocutores.
   <!-- feedback: El monólogo existe, pero la estructura teatral se sostiene sobre el diálogo. -->
@@ -57,9 +57,9 @@ El texto teatral se construye principalmente mediante el diálogo entre personaj
 ¿Qué función cumple ese texto entre paréntesis en la obra?
 
 ### Opciones
-- [x] A) Es una acotación o didascalia que indica el gesto o emoción del personaje.
+- [x] B) Es una acotación o didascalia que indica el gesto o emoción del personaje.
   <!-- feedback: Las acotaciones orientan la interpretación del actor sobre el escenario. -->
-- [ ] B) Es un aparte que el personaje dice en voz alta al público.
+- [ ] A) Es un aparte que el personaje dice en voz alta al público.
   <!-- feedback: El aparte sería una intervención hablada, no una indicación entre paréntesis. -->
 - [ ] C) Es el nombre de un personaje que entrará después.
   <!-- feedback: Los nombres se escriben en mayúsculas sostenidas, no entre paréntesis. -->
@@ -83,9 +83,9 @@ JUANA: (asustada) ¿Y mi hermano?
 ¿Qué se puede inferir del parlamento de Juana sobre su estado emocional?
 
 ### Opciones
-- [x] A) Juana está asustada e inquieta por la suerte de su hermano menor.
+- [x] B) Juana está asustada e inquieta por la suerte de su hermano menor.
   <!-- feedback: La acotación "asustada" y la pregunta por el hermano muestran preocupación y miedo. -->
-- [ ] B) Juana está feliz porque llegan los toros.
+- [ ] A) Juana está feliz porque llegan los toros.
   <!-- feedback: La acotación indica miedo, no alegría. -->
 - [ ] C) Juana se alegra de ver a Pedro.
   <!-- feedback: La acotación "asustada" contradice la alegría. -->
@@ -110,11 +110,11 @@ MAESTRO: Descansas, y sigues.
 ¿Qué tipo de relación se establece entre los personajes?
 
 ### Opciones
-- [x] A) Una relación de enseñanza-aprendizaje, con un maestro que orienta a un alumno dubitativo.
+- [x] C) Una relación de enseñanza-aprendizaje, con un maestro que orienta a un alumno dubitativo.
   <!-- feedback: El diálogo refleja la transmisión de experiencia y confianza entre un guía y un aprendiz. -->
-- [ ] B) Una riña entre compañeros de clase.
+- [ ] A) Una riña entre compañeros de clase.
   <!-- feedback: No hay agresión ni disputa, sino diálogo reflexivo. -->
-- [ ] C) Un pacto comercial entre desconocidos.
+- [ ] B) Un pacto comercial entre desconocidos.
   <!-- feedback: El vocabulario es reflexivo, no mercantil. -->
 - [ ] D) Una despedida definitiva.
   <!-- feedback: El diálogo es cotidiano, no un adiós. -->
@@ -133,13 +133,13 @@ El diálogo teatral revela no solo información, sino la relación entre los per
 ¿Qué efecto busca el autor con el segundo parlamento?
 
 ### Opciones
-- [x] A) Confrontar al personaje para que asuma su responsabilidad.
+- [x] D) Confrontar al personaje para que asuma su responsabilidad.
   <!-- feedback: El segundo personaje rechaza la excusa y exige responsabilidad. -->
-- [ ] B) Reforzar la disculpa del primer personaje.
+- [ ] A) Reforzar la disculpa del primer personaje.
   <!-- feedback: El segundo parlamento critica, no apoya, la disculpa. -->
-- [ ] C) Cambiar el tema de la conversación.
+- [ ] B) Cambiar el tema de la conversación.
   <!-- feedback: La respuesta sigue en el mismo eje: la culpa. -->
-- [ ] D) Pedir perdón en nombre del primero.
+- [ ] C) Pedir perdón en nombre del primero.
   <!-- feedback: La expresión "no arreglan los platos rotos" responsabiliza, no disculpa. -->
 
 ### Explicacion Pedagogica
@@ -156,11 +156,11 @@ En el teatro, los parlamentos sucesivos pueden reforzar, contradecir o matizar l
 ¿Qué efecto narrativo logra el autor al incluir personajes sin parlamentos?
 
 ### Opciones
-- [x] A) Crear un contraste entre lo que se dice y lo que se muestra, enriqueciendo la puesta en escena.
+- [x] C) Crear un contraste entre lo que se dice y lo que se muestra, enriqueciendo la puesta en escena.
   <!-- feedback: Los personajes mudos comunican por gestos y acciones, complementando el diálogo. -->
-- [ ] B) Disminuir la importancia del diálogo en el teatro.
+- [ ] A) Disminuir la importancia del diálogo en el teatro.
   <!-- feedback: El diálogo sigue siendo central; los personajes mudos lo complementan. -->
-- [ ] C) Convertir la obra en un cuento narrado.
+- [ ] B) Convertir la obra en un cuento narrado.
   <!-- feedback: El formato sigue siendo teatral, con parlamentos y acotaciones. -->
 - [ ] D) Evitar que el público preste atención.
   <!-- feedback: Los personajes mudos suelen captar la atención por su silencio significativo. -->
@@ -179,11 +179,11 @@ El teatro combina palabra, gesto y silencio. Los personajes sin parlamentos cump
 ¿Qué intención profunda transmite esta frase al analizar el género teatral?
 
 ### Opciones
-- [x] A) Que el teatro funciona como espejo social y emocional: permite a la audiencia verse en las historias representadas.
+- [x] C) Que el teatro funciona como espejo social y emocional: permite a la audiencia verse en las historias representadas.
   <!-- feedback: El teatro invita al reconocimiento y a la reflexión sobre la propia experiencia. -->
-- [ ] B) Que el teatro es solo un entretenimiento superficial.
+- [ ] A) Que el teatro es solo un entretenimiento superficial.
   <!-- feedback: La frase resalta su profundidad, no su superficialidad. -->
-- [ ] C) Que el público debe permanecer callado durante toda la obra.
+- [ ] B) Que el público debe permanecer callado durante toda la obra.
   <!-- feedback: La frase habla del sentido, no del comportamiento del público. -->
 - [ ] D) Que el teatro reemplaza a la escuela.
   <!-- feedback: El teatro complementa, no reemplaza, la educación formal. -->
@@ -202,11 +202,11 @@ La función reflexiva del teatro es una idea central en la estética teatral lat
 ¿Qué argumento tiene mayor peso pedagógico para incluir autores contemporáneos colombianos en el aula?
 
 ### Opciones
-- [x] A) Los textos contemporáneos permiten a los estudiantes reconocer su contexto, su lengua y sus problemáticas, fortaleciendo la identidad cultural y el hábito lector.
+- [x] C) Los textos contemporáneos permiten a los estudiantes reconocer su contexto, su lengua y sus problemáticas, fortaleciendo la identidad cultural y el hábito lector.
   <!-- feedback: Leer autores cercanos favorece la apropiación cultural y la motivación lectora. -->
-- [ ] B) Los clásicos universales son inútiles porque ya nadie los entiende.
+- [ ] A) Los clásicos universales son inútiles porque ya nadie los entiende.
   <!-- feedback: Los clásicos mantienen valor; el debate es sobre equilibrio, no exclusión. -->
-- [ ] C) Los autores contemporáneos escriben mejor que los clásicos en todo sentido.
+- [ ] B) Los autores contemporáneos escriben mejor que los clásicos en todo sentido.
   <!-- feedback: La calidad no depende solo de la época, sino del propósito y el lector. -->
 - [ ] D) Solo deben leerse autores de la propia ciudad.
   <!-- feedback: El criterio geográfico es demasiado restrictivo. -->

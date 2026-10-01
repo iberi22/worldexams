@@ -62,11 +62,11 @@ El género dramático o teatral se caracteriza por la inmediatez de la acción r
 ### Opciones
 - [ ] A) Proporcionar rimas poéticas complementarias para que los actores costarricenses canten en escena.
   <!-- feedback: Incorrecto. Las acotaciones no tienen fines líricos de canto rimado. -->
-- [x] B) Ofrecer indicaciones técnicas del dramaturgo referidas al decorado, iluminación, movimientos, vestuario y gestos de los personajes en el escenario.
+- [x] D) Ofrecer indicaciones técnicas del dramaturgo referidas al decorado, iluminación, movimientos, vestuario y gestos de los personajes en el escenario.
   <!-- feedback: Correcto. Las acotaciones (generalmente en cursiva y entre paréntesis) guían la puesta en escena y la interpretación dramática. -->
-- [ ] C) Explicar las leyes de subvenciones teatrales emitidas por el Ministerio de Cultura.
+- [ ] B) Explicar las leyes de subvenciones teatrales emitidas por el Ministerio de Cultura.
   <!-- feedback: Incorrecto. Son indicaciones artísticas internas del libreto, no leyes administrativas del Estado. -->
-- [ ] D) Exigir al público de la asamblea que guarde silencio de forma obligatoria.
+- [ ] C) Exigir al público de la asamblea que guarde silencio de forma obligatoria.
   <!-- feedback: Incorrecto. Guían al equipo teatral y al actor, no son reglamentos disciplinarios del espectador escolar. -->
 
 ### Explicacion Pedagogica
@@ -87,9 +87,9 @@ Las acotaciones constituyen el discurso secundario del texto dramático, proveye
 ### Opciones
 - [ ] A) Capítulo literario costumbrista.
   <!-- feedback: Incorrecto. Los capítulos son divisiones propias del género narrativo de las novelas, no de las obras de teatro. -->
-- [x] B) Acto.
+- [x] C) Acto.
   <!-- feedback: Correcto. El acto es la unidad mayor del texto dramático, que agrupa secuencias de escenas coherentes temáticamente. -->
-- [ ] C) Escena o cuadro pictórico.
+- [ ] B) Escena o cuadro pictórico.
   <!-- feedback: Incorrecto. La escena está determinada por la entrada o salida de un personaje, y el cuadro por el cambio de decorado; ambos son subdivisiones del acto. -->
 - [ ] D) Prólogo oratorio parlamentario.
   <!-- feedback: Incorrecto. El prólogo es un discurso de apertura introductorio, no la división de la acción del libreto. -->
@@ -110,11 +110,11 @@ El acto representa las grandes etapas lógicas del conflicto dramático (plantea
 ¿Qué signo de puntuación y recurso formal debe utilizar para introducir de manera clara las intervenciones dialógicas de cada actor en el libreto?
 
 ### Opciones
-- [x] A) Escribir el nombre del personaje en mayúsculas sostenidas seguido de dos puntos (:) antes de sus palabras.
+- [x] C) Escribir el nombre del personaje en mayúsculas sostenidas seguido de dos puntos (:) antes de sus palabras.
   <!-- feedback: Correcto. Es la convención internacional de transcripción de textos teatrales dramáticos para señalar turnos de habla. -->
-- [ ] B) La colocación de un asterisco (*) al final de cada sustantivo propio del diálogo.
+- [ ] A) La colocación de un asterisco (*) al final de cada sustantivo propio del diálogo.
   <!-- feedback: Incorrecto. No es una convención ortográfica o tipográfica de los textos de teatro. -->
-- [ ] C) La escritura de todo el parlamento utilizando rimas asonantes obligatorias.
+- [ ] B) La escritura de todo el parlamento utilizando rimas asonantes obligatorias.
   <!-- feedback: Incorrecto. El drama puede redactarse perfectamente en prosa o verso libre. -->
 - [ ] D) La mención de las leyes del MEP para regular los debates en Alajuela.
   <!-- feedback: Incorrecto. Es una creación artística de ficción dramática, no un reglamento administrativo del colegio. -->
@@ -137,11 +137,11 @@ La estructura del libreto dramático asigna las intervenciones antecediendo el p
 ### Opciones
 - [ ] A) Un actor de San José se retira furioso del escenario gritando consignas contra las municipalidades.
   <!-- feedback: Incorrecto. Esto constituye una salida de personaje dramática, no un aparte técnico de diálogo. -->
-- [x] B) Un personaje pronuncia unas palabras dirigiéndose directamente al público o a sí mismo, simulando que los demás personajes presentes en el escenario no lo escuchan.
+- [x] D) Un personaje pronuncia unas palabras dirigiéndose directamente al público o a sí mismo, simulando que los demás personajes presentes en el escenario no lo escuchan.
   <!-- feedback: Correcto. El aparte es una convención dramática que permite revelar los pensamientos íntimos del personaje de forma confidencial. -->
-- [ ] C) La descripción técnica del vestuario del campesino de Cartago en las acotaciones.
+- [ ] B) La descripción técnica del vestuario del campesino de Cartago en las acotaciones.
   <!-- feedback: Incorrecto. Esto constituye una acotación descriptiva física del autor, no un turno de habla de personaje. -->
-- [ ] D) La lectura en voz alta del prólogo histórico del libreto por un locutor anónimo nacional.
+- [ ] C) La lectura en voz alta del prólogo histórico del libreto por un locutor anónimo nacional.
   <!-- feedback: Incorrecto. Corresponde a la narración introductoria, ajena a la dinámica del aparte en escena. -->
 
 ### Explicacion Pedagogica
@@ -160,9 +160,9 @@ El aparte es un recurso dramático dialógico que rompe la ilusión de aislamien
 ¿Qué modalidad dialógica se efectúa cuando un personaje habla largamente solo en escena, expresando en voz alta sus pensamientos íntimos?
 
 ### Opciones
-- [ ] A) Diálogo coral de la asamblea.
+- [ ] B) Diálogo coral de la asamblea.
   <!-- feedback: Incorrecto. El diálogo coral involucra a un grupo numeroso de personajes que hablan de forma simultánea o coordinada. -->
-- [x] B) Monólogo o soliloquio.
+- [x] A) Monólogo o soliloquio.
   <!-- feedback: Correcto. El monólogo permite que el personaje desvele su interioridad intelectual y afectiva al encontrarse solo en el escenario. -->
 - [ ] C) Aparte confidencial del cantón.
   <!-- feedback: Incorrecto. El aparte es breve y asume que hay otros personajes presentes en la escena que fingen no oír. -->
@@ -187,11 +187,11 @@ El monólogo o soliloquio es la herramienta dramática idónea para la introspec
 ### Opciones
 - [ ] A) El peón es un agricultor costarricense de Cartago que trabaja sembrando hortalizas.
   <!-- feedback: Incorrecto. Es una explicación expositiva de la biografía del personaje, no una directriz gestual escénica. -->
-- [x] B) (Entra a paso lento, apoyando pesadamente sus manos en la mesa de madera; suspira profundamente mirando al suelo con ojos empañados).
+- [x] D) (Entra a paso lento, apoyando pesadamente sus manos en la mesa de madera; suspira profundamente mirando al suelo con ojos empañados).
   <!-- feedback: Correcto. Las acotaciones guían la interpretación física y emocional del actor y los elementos escénicos directos. -->
-- [ ] C) —Don José caminaba triste pensando en las deudas de su finca de adobes de la provincia.
+- [ ] B) —Don José caminaba triste pensando en las deudas de su finca de adobes de la provincia.
   <!-- feedback: Incorrecto. Corresponde al estilo de un narrador de novela, ajeno al formato dialógico y de acotaciones teatral. -->
-- [ ] D) ¡Ojalá el personaje del peón exprese su dolor de forma muy hermosa en la asamblea!
+- [ ] C) ¡Ojalá el personaje del peón exprese su dolor de forma muy hermosa en la asamblea!
   <!-- feedback: Incorrecto. Expresa un deseo emotivo externo del autor, no una directriz técnica teatral de libreto. -->
 
 ### Explicacion Pedagogica
@@ -212,11 +212,11 @@ Las acotaciones proporcionan pautas operativas precisas para que el actor traduz
 ### Opciones
 - [ ] A) Entretener al público josefino con chistes y danzas jocosas de la provincia de Alajuela.
   <!-- feedback: Incorrecto. La comedia persigue la risa y el entretenimiento, no la catarsis trágica formal de emociones. -->
-- [x] B) Provocar compasión y pánico (terror) en el espectador para purificar sus pasiones y lograr la liberación espiritual (catarsis) al final de la obra.
+- [x] D) Provocar compasión y pánico (terror) en el espectador para purificar sus pasiones y lograr la liberación espiritual (catarsis) al final de la obra.
   <!-- feedback: Correcto. Es la definición aristotélica clásica de la catarsis trágica por purificación de afectos. -->
-- [ ] C) Explicar las ventajas del cultivo de caña en las llanuras secas de Guanacaste.
+- [ ] B) Explicar las ventajas del cultivo de caña en las llanuras secas de Guanacaste.
   <!-- feedback: Incorrecto. Corresponde a un informe de divulgación agrícola expositivo, ajeno al teatro trágico. -->
-- [ ] D) Obligar a los estudiantes de undécimo año del colegio a comprar libros impresos del MEP.
+- [ ] C) Obligar a los estudiantes de undécimo año del colegio a comprar libros impresos del MEP.
   <!-- feedback: Incorrecto. No tiene propósitos de índole comercial o mercantil escolar interno. -->
 
 ### Explicacion Pedagogica
@@ -262,9 +262,9 @@ La comedia es un género teatral que fustiga los vicios y ridiculeces sociales m
 ### Opciones
 - [ ] A) La caída definitiva del telón principal del Teatro Nacional de San José.
   <!-- feedback: Incorrecto. La caída del telón marca el final de un acto completo, no un cambio de escena. -->
-- [x] B) La entrada o salida de un personaje del escenario de la representación teatral.
+- [x] C) La entrada o salida de un personaje del escenario de la representación teatral.
   <!-- feedback: Correcto. En la técnica dramática tradicional, la mutación de personajes en escena determina el cambio de escena. -->
-- [ ] C) El cambio total de la decoración física de adobes del fondo del escenario.
+- [ ] B) El cambio total de la decoración física de adobes del fondo del escenario.
   <!-- feedback: Incorrecto. El cambio de decorado o ambientación física señala la transición de un 'cuadro' o acto. -->
 - [ ] D) La lectura de las firmas y autorizaciones académicas emitidas por el MEP.
   <!-- feedback: Incorrecto. Carece de vinculación con la dinámica formal artística interna del libreto de teatro. -->
@@ -286,13 +286,13 @@ La escena es la subdivisión menor del acto teatral, delimitada por la dinámica
 ¿Cómo se estructuran la tensión dramática y las voces en este pasaje del libreto?
 
 ### Opciones
-- [x] A) Se plantea un conflicto de autoridad agraria formal expresado con firmeza, el cual se matiza y devela de forma irónica mediante un aparte íntimo que revela la contradicción del personaje.
+- [x] D) Se plantea un conflicto de autoridad agraria formal expresado con firmeza, el cual se matiza y devela de forma irónica mediante un aparte íntimo que revela la contradicción del personaje.
   <!-- feedback: Correcto. El diálogo muestra firmeza exterior ('No toleraré'), desmentida de forma conmovedora por su contradicción íntima en el aparte ('deudas me obligan'). -->
-- [ ] B) El coro de agricultores de Cartago ingresa cantando versos alejandrinos para aplaudir la valentía de don Pedro.
+- [ ] A) El coro de agricultores de Cartago ingresa cantando versos alejandrinos para aplaudir la valentía de don Pedro.
   <!-- feedback: Incorrecto. El pasaje es dialógico individual de un solo personaje, no hay coros ni cantos líricos. -->
-- [ ] C) Es una descripción científica topográfica objetiva que detalla la cantidad de hectáreas cultivables del cantón.
+- [ ] B) Es una descripción científica topográfica objetiva que detalla la cantidad de hectáreas cultivables del cantón.
   <!-- feedback: Incorrecto. Es un texto artístico de género dramático dialógico, libre de variables estadísticas de ingeniería agraria. -->
-- [ ] D) El aparte indica que don Pedro está siendo vigilado por las autoridades nacionales por deudas de adobes.
+- [ ] C) El aparte indica que don Pedro está siendo vigilado por las autoridades nacionales por deudas de adobes.
   <!-- feedback: Incorrecto. El aparte es un recurso literario de revelación psicológica confidencial al público, no una orden de captura policial judicial. -->
 
 ### Explicacion Pedagogica
@@ -311,9 +311,9 @@ La contradicción dramática entre el decir público de autoridad y el sentir í
 ¿Qué función retórica cumple el personaje del 'mensajero' al irrumpir en el acto final para relatar la muerte del héroe acaecida fuera del escenario?
 
 ### Opciones
-- [ ] A) Proponer al MEP una reforma de las leyes de educación física de Alajuela.
+- [ ] B) Proponer al MEP una reforma de las leyes de educación física de Alajuela.
   <!-- feedback: Incorrecto. El mensajero cumple un rol de ficción dramática, no administrativa o pedagógica gubernamental. -->
-- [x] B) Resolver la dificultad de representar físicamente sucesos violentos, catastróficos o complejos en el escenario, recurriendo a la narración oral verosímil y dramática para que el espectador imagine los hechos.
+- [x] A) Resolver la dificultad de representar físicamente sucesos violentos, catastróficos o complejos en el escenario, recurriendo a la narración oral verosímil y dramática para que el espectador imagine los hechos.
   <!-- feedback: Correcto. Es el recurso clásico de la tragedia para evitar la representación explícita de violencia en escena, apelando a la fuerza evocadora del verbo. -->
 - [ ] C) Sustituir al director del Teatro Nacional para clausurar de forma definitiva la obra teatral por falta de presupuesto.
   <!-- feedback: Incorrecto. Es un actor de ficción que actúa un papel dentro de la trama, no posee atribuciones administrativas reales del teatro. -->
@@ -338,9 +338,9 @@ El mensajero en el género dramático es un recurso de mediación narrativa indi
 ### Opciones
 - [ ] A) Descalifica moralmente a los agricultores de Heredia como personas irresponsables y descuidadas.
   <!-- feedback: Incorrecto. El blanco de la sátira es la soberbia del rico presuntuoso que cae, no los campesinos laboriosos. -->
-- [x] B) Utiliza la caída física y el choque humorístico (bofetón de realidad) para rebajar la soberbia y la pretenciosidad del personaje rico frente a la sencillez rústica del medio rural.
+- [x] C) Utiliza la caída física y el choque humorístico (bofetón de realidad) para rebajar la soberbia y la pretenciosidad del personaje rico frente a la sencillez rústica del medio rural.
   <!-- feedback: Correcto. El humor ridiculiza la arrogancia de clase contrastándola con elementos mundanos y cotidianos de forma jocosa. -->
-- [ ] C) Demuestra científicamente la ley de gravedad física de los cuerpos sólidos en Costa Rica.
+- [ ] B) Demuestra científicamente la ley de gravedad física de los cuerpos sólidos en Costa Rica.
   <!-- feedback: Incorrecto. El fin es artístico-cómico y crítico social, no un experimento físico de física de caída libre. -->
 - [ ] D) Exige a la municipalidad la prohibición de cultivar papa en los cantones del Valle Central.
   <!-- feedback: Incorrecto. Es un elemento cómico-literario escénico de enredo, ajeno a normativas agrícolas de la provincia. -->
@@ -389,9 +389,9 @@ Al valorar el cumplimiento de las propiedades elementales del género dramático
 ### Opciones
 - [ ] A) Es el soneto dramático más extraordinario del siglo, que asienta las bases de la educación física nacional.
   <!-- feedback: Incorrecto. No posee estructura de soneto (género lírico poético) ni tiene vinculación con educación física escolar. -->
-- [x] B) Constituye una propuesta radical límite que desafía las convenciones del género dramático (acción, diálogo, comunicación gestual), corriendo el riesgo de provocar frustración, desconexión absoluta e incomprensión estética en la mayoría del público receptor debido a la ausencia de dinamismo teatral.
+- [x] C) Constituye una propuesta radical límite que desafía las convenciones del género dramático (acción, diálogo, comunicación gestual), corriendo el riesgo de provocar frustración, desconexión absoluta e incomprensión estética en la mayoría del público receptor debido a la ausencia de dinamismo teatral.
   <!-- feedback: Correcto. Privar al teatro de acción, habla y gesto durante tanto tiempo violenta el pacto comunicativo básico de las artes escénicas de forma extrema. -->
-- [ ] C) Representa una maravillosa comedia tradicional al estilo costumbrista de Aquileo J. Echeverría.
+- [ ] B) Representa una maravillosa comedia tradicional al estilo costumbrista de Aquileo J. Echeverría.
   <!-- feedback: Incorrecto. El costumbrismo es dialógico, rústico, alegre y realista; esta propuesta de inmovilidad y silencio total es ajena al folclore costarricense. -->
 - [ ] D) Es inválida ya que el MEP exige obligatoriamente que todas las obras de teatro costarricenses incluyan bailes folclóricos de Guanacaste.
   <!-- feedback: Incorrecto. No existen prohibiciones o imposiciones de folclore obligatorio para la libre creación artística en Costa Rica. -->
@@ -441,11 +441,11 @@ Los parlamentos dramáticos sólidos evitan repeticiones redundantes viciosas de
 ### Opciones
 - [ ] A) Mencionar que el soldado costarricense fue herido en el hombro en lugar del pie.
   <!-- feedback: Incorrecto. El lugar físico de la herida en el cuerpo del personaje de ficción no compromete la veracidad general de la zafra de Rivas. -->
-- [x] B) El anacronismo severo al solicitar 'antibióticos' y 'desinfectante plástico' en 1856, tecnologías médicas que no se desarrollaron hasta el siglo veinte.
+- [x] D) El anacronismo severo al solicitar 'antibióticos' y 'desinfectante plástico' en 1856, tecnologías médicas que no se desarrollaron hasta el siglo veinte.
   <!-- feedback: Correcto. Introducir medicamentos modernos en la Campaña Nacional de 1856 destruye la verosimilitud de fondo histórica de la obra. -->
-- [ ] C) El uso del pronombre de tratamiento formal de respeto 'Usted' entre militares en combate.
+- [ ] B) El uso del pronombre de tratamiento formal de respeto 'Usted' entre militares en combate.
   <!-- feedback: Incorrecto. El uso de 'Usted' es sumamente común e históricamente correcto en las comunicaciones de Costa Rica. -->
-- [ ] D) La mención de un fusil de chispa como arma de fuego de la época de la gesta heroica.
+- [ ] C) La mención de un fusil de chispa como arma de fuego de la época de la gesta heroica.
   <!-- feedback: Incorrecto. Los fusiles eran las armas reales de infantería utilizadas en la gesta histórica de Rivas. -->
 
 ### Explicacion Pedagogica
@@ -466,11 +466,11 @@ La narrativa y el drama de temática histórica exigen un riguroso respeto al co
 ### Opciones
 - [ ] A) Dificulta el desarrollo de las artes escénicas al aburrir a los espectadores de la capital.
   <!-- feedback: Incorrecto. Al contrario, diversifica el público teatral incorporando nuevas realidades y audiencias comprometidas con el arte. -->
-- [x] B) Sensibiliza a la sociedad sobre las desigualdades laborales, propicia la toma de conciencia moral y reivindica la dignidad de los trabajadores de la tierra del país.
+- [x] D) Sensibiliza a la sociedad sobre las desigualdades laborales, propicia la toma de conciencia moral y reivindica la dignidad de los trabajadores de la tierra del país.
   <!-- feedback: Correcto. El teatro social es una herramienta pedagógica y ética que estimula la reflexión de la comunidad sobre la justicia social. -->
-- [ ] C) Obliga a las municipalidades a prohibir las obras de teatro extranjeras en Costa Rica.
+- [ ] B) Obliga a las municipalidades a prohibir las obras de teatro extranjeras en Costa Rica.
   <!-- feedback: Incorrecto. Fomenta la creación nacional y el debate ético, no el nacionalismo xenófobo o las censuras de arte. -->
-- [ ] D) Enseña de forma práctica los procedimientos químicos de refinamiento de azúcar de caña.
+- [ ] C) Enseña de forma práctica los procedimientos químicos de refinamiento de azúcar de caña.
   <!-- feedback: Incorrecto. El teatro enfoca su mensaje en el conflicto humano y social, libre de manuales químicos agroindustriales. -->
 
 ### Explicacion Pedagogica
@@ -491,11 +491,11 @@ El teatro social contemporáneo cumple una alta función pedagógica de concienc
 ### Opciones
 - [ ] A) Al apagón general de luces que marca la salida del público de la sala del Teatro Nacional.
   <!-- feedback: Incorrecto. Es un proceso de logística de sala de teatro posterior a la obra, libre de valor literario interno de trama. -->
-- [x] B) Al momento culminante de máxima tensión dramática de la obra, donde el conflicto central llega a su punto más agudo antes de precipitarse hacia el desenlace final.
+- [x] D) Al momento culminante de máxima tensión dramática de la obra, donde el conflicto central llega a su punto más agudo antes de precipitarse hacia el desenlace final.
   <!-- feedback: Correcto. El clímax es la cúspide emocional del nudo dramático de la trama teatral. -->
-- [ ] C) Al saludo de agradecimiento que realizan los actores costarricenses de espaldas al escenario.
+- [ ] B) Al saludo de agradecimiento que realizan los actores costarricenses de espaldas al escenario.
   <!-- feedback: Incorrecto. Es la reverencia final de elenco de carácter protocolario actoral, ajena a la tensión dramática interna. -->
-- [ ] D) A la lectura obligatoria del examen de Español de undécimo año de secundaria.
+- [ ] C) A la lectura obligatoria del examen de Español de undécimo año de secundaria.
   <!-- feedback: Incorrecto. Carece de vinculación con la dinámica formal artística de la estructura dramática de libretos. -->
 
 ### Explicacion Pedagogica

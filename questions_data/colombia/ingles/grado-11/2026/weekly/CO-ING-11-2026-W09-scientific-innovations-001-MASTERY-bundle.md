@@ -35,13 +35,13 @@ cefr_level: "C1+"
 In the context of scientific innovations, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?
 
 ### Opciones
-- [x] A) exacerbate
+- [x] D) exacerbate
   <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
-- [ ] B) alleviate
+- [ ] A) alleviate
   <!-- feedback: Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed. -->
-- [ ] C) mitigate
+- [ ] B) mitigate
   <!-- feedback: Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied. -->
-- [ ] D) facilitate
+- [ ] C) facilitate
   <!-- feedback: Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide. -->
 
 ### Explicacion Pedagogica
@@ -60,9 +60,9 @@ This question tests advanced vocabulary (verbs of change and impact) suitable fo
 In the context of scientific innovations, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?
 
 ### Opciones
-- [x] A) exacerbate
+- [x] B) exacerbate
   <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
-- [ ] B) alleviate
+- [ ] A) alleviate
   <!-- feedback: Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed. -->
 - [ ] C) mitigate
   <!-- feedback: Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied. -->
@@ -85,9 +85,9 @@ This question tests advanced vocabulary (verbs of change and impact) suitable fo
 In the context of scientific innovations, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?
 
 ### Opciones
-- [x] A) exacerbate
+- [x] B) exacerbate
   <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
-- [ ] B) alleviate
+- [ ] A) alleviate
   <!-- feedback: Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed. -->
 - [ ] C) mitigate
   <!-- feedback: Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied. -->
@@ -110,13 +110,13 @@ This question tests advanced vocabulary (verbs of change and impact) suitable fo
 In the context of scientific innovations, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?
 
 ### Opciones
-- [x] A) exacerbate
+- [x] D) exacerbate
   <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
-- [ ] B) alleviate
+- [ ] A) alleviate
   <!-- feedback: Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed. -->
-- [ ] C) mitigate
+- [ ] B) mitigate
   <!-- feedback: Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied. -->
-- [ ] D) facilitate
+- [ ] C) facilitate
   <!-- feedback: Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide. -->
 
 ### Explicacion Pedagogica
@@ -135,11 +135,11 @@ This question tests advanced vocabulary (verbs of change and impact) suitable fo
 According to a recent report on scientific innovations in Bogotá, what is implied about the role of Compound Adjectives & Nouns in shaping public opinion?
 
 ### Opciones
-- [x] A) It serves as a critical tool for nuanced communication.
+- [x] C) It serves as a critical tool for nuanced communication.
   <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] B) It is largely irrelevant to the general public.
+- [ ] A) It is largely irrelevant to the general public.
   <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] C) It simplifies complex socio-political messages.
+- [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
 - [ ] D) It is only used by academic elites in {city}.
   <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
@@ -160,11 +160,11 @@ This question requires inferential reading skills to understand how complex stru
 According to a recent report on scientific innovations in Bogotá, what is implied about the role of Compound Adjectives & Nouns in shaping public opinion?
 
 ### Opciones
-- [x] A) It serves as a critical tool for nuanced communication.
+- [x] C) It serves as a critical tool for nuanced communication.
   <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] B) It is largely irrelevant to the general public.
+- [ ] A) It is largely irrelevant to the general public.
   <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] C) It simplifies complex socio-political messages.
+- [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
 - [ ] D) It is only used by academic elites in {city}.
   <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
@@ -185,9 +185,9 @@ This question requires inferential reading skills to understand how complex stru
 According to a recent report on scientific innovations in Medellín, what is implied about the role of Compound Adjectives & Nouns in shaping public opinion?
 
 ### Opciones
-- [x] A) It serves as a critical tool for nuanced communication.
+- [x] B) It serves as a critical tool for nuanced communication.
   <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] B) It is largely irrelevant to the general public.
+- [ ] A) It is largely irrelevant to the general public.
   <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
 - [ ] C) It simplifies complex socio-political messages.
   <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
@@ -210,13 +210,13 @@ This question requires inferential reading skills to understand how complex stru
 According to a recent report on scientific innovations in Bucaramanga, what is implied about the role of Compound Adjectives & Nouns in shaping public opinion?
 
 ### Opciones
-- [x] A) It serves as a critical tool for nuanced communication.
+- [x] D) It serves as a critical tool for nuanced communication.
   <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] B) It is largely irrelevant to the general public.
+- [ ] A) It is largely irrelevant to the general public.
   <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] C) It simplifies complex socio-political messages.
+- [ ] B) It simplifies complex socio-political messages.
   <!-- feedback: Incorrect. The use of {grammar} actually adds complexity and depth. -->
-- [ ] D) It is only used by academic elites in {city}.
+- [ ] C) It is only used by academic elites in {city}.
   <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
 
 ### Explicacion Pedagogica
@@ -285,11 +285,11 @@ This question requires inferential reading skills to understand how complex stru
 Complete the following sentence about scientific innovations: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Compound Adjectives & Nouns)
 
 ### Opciones
-- [x] A) had
+- [x] C) had
   <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
-- [ ] B) has
+- [ ] A) has
   <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
-- [ ] C) was
+- [ ] B) was
   <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
 - [ ] D) did
   <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
@@ -310,11 +310,11 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 Complete the following sentence about scientific innovations: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Compound Adjectives & Nouns)
 
 ### Opciones
-- [x] A) had
+- [x] C) had
   <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
-- [ ] B) has
+- [ ] A) has
   <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
-- [ ] C) was
+- [ ] B) was
   <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
 - [ ] D) did
   <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
@@ -335,9 +335,9 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 Complete the following sentence about scientific innovations: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Compound Adjectives & Nouns)
 
 ### Opciones
-- [x] A) had
+- [x] B) had
   <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
-- [ ] B) has
+- [ ] A) has
   <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
 - [ ] C) was
   <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
@@ -360,9 +360,9 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 Complete the following sentence about scientific innovations: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Compound Adjectives & Nouns)
 
 ### Opciones
-- [x] A) had
+- [x] B) had
   <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
-- [ ] B) has
+- [ ] A) has
   <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
 - [ ] C) was
   <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
@@ -410,13 +410,13 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 Complete the following sentence about scientific innovations: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Compound Adjectives & Nouns)
 
 ### Opciones
-- [x] A) had
+- [x] D) had
   <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
-- [ ] B) has
+- [ ] A) has
   <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
-- [ ] C) was
+- [ ] B) was
   <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
-- [ ] D) did
+- [ ] C) did
   <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
 
 ### Explicacion Pedagogica
@@ -435,13 +435,13 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 In a high-level debate about scientific innovations, Sebastián says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Sebastián mean?
 
 ### Opciones
-- [x] A) The current strategy is directed towards the wrong objective.
+- [x] D) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] B) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of {city}.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] C) The approach is too noisy and aggressive.
+- [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] D) A new environmental project involving trees should be started.
+- [ ] C) A new environmental project involving trees should be started.
   <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
 
 ### Explicacion Pedagogica
@@ -460,9 +460,9 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 In a high-level debate about scientific innovations, Alejandro says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Alejandro mean?
 
 ### Opciones
-- [x] A) The current strategy is directed towards the wrong objective.
+- [x] B) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] B) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of {city}.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
 - [ ] C) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
@@ -485,13 +485,13 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 In a high-level debate about scientific innovations, Santiago says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Santiago mean?
 
 ### Opciones
-- [x] A) The current strategy is directed towards the wrong objective.
+- [x] D) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] B) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of {city}.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] C) The approach is too noisy and aggressive.
+- [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] D) A new environmental project involving trees should be started.
+- [ ] C) A new environmental project involving trees should be started.
   <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
 
 ### Explicacion Pedagogica
@@ -510,13 +510,13 @@ Pragmatic competence at C1+ involves understanding and using idiomatic expressio
 In a high-level debate about scientific innovations, Nicolás says: 'I can't help but feel that we are barking up the wrong tree with this approach.' What does Nicolás mean?
 
 ### Opciones
-- [x] A) The current strategy is directed towards the wrong objective.
+- [x] D) The current strategy is directed towards the wrong objective.
   <!-- feedback: Correct. This idiom means to follow a wrong line of thought or course of action. -->
-- [ ] B) They are literally looking for something in the trees of {city}.
+- [ ] A) They are literally looking for something in the trees of {city}.
   <!-- feedback: Incorrect. This is a literal and incorrect interpretation of the idiom. -->
-- [ ] C) The approach is too noisy and aggressive.
+- [ ] B) The approach is too noisy and aggressive.
   <!-- feedback: Incorrect. The idiom relates to direction/objective, not volume or attitude. -->
-- [ ] D) A new environmental project involving trees should be started.
+- [ ] C) A new environmental project involving trees should be started.
   <!-- feedback: Incorrect. This misinterprets the figurative meaning of the phrase. -->
 
 ### Explicacion Pedagogica

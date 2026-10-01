@@ -57,13 +57,13 @@ Vocabulary for common morning hygiene routines in English.
 At what time of the day does Sara eat breakfast?
 
 ### Opciones
-- [x] A) In the morning.
+- [x] D) In the morning.
   <!-- feedback: 7:00 a.m. corresponds to the morning hours. -->
-- [ ] B) In the evening.
+- [ ] A) In the evening.
   <!-- feedback: Evening refers to late afternoon/night hours (p.m.). -->
-- [ ] C) At midnight.
+- [ ] B) At midnight.
   <!-- feedback: Midnight is 12:00 a.m. at night, not 7:00 a.m. -->
-- [ ] D) In the afternoon.
+- [ ] C) In the afternoon.
   <!-- feedback: Afternoon is the period between noon (12:00 p.m.) and evening. -->
 
 ### Explicacion Pedagogica
@@ -80,13 +80,13 @@ Associating times of day (a.m./p.m.) with daily meals and routines.
 Choose the correct verb form: "Lucía _____ her homework at 4:00 p.m. every afternoon."
 
 ### Opciones
-- [x] A) does.
+- [x] D) does.
   <!-- feedback: Third-person singular (Lucía / she) requires "does" in Simple Present. -->
-- [ ] B) do.
+- [ ] A) do.
   <!-- feedback: "Do" is used with I, you, we, they, not with third-person singular "she". -->
-- [ ] C) doing.
+- [ ] B) doing.
   <!-- feedback: "Doing" needs an auxiliary verb (is doing) for continuous tense. -->
-- [ ] D) done.
+- [ ] C) done.
   <!-- feedback: "Done" is the past participle form, not simple present. -->
 
 ### Explicacion Pedagogica
@@ -103,11 +103,11 @@ Applying third-person singular conjugation rules (-s/-es/does) in Simple Present
 What does David do right after taking a shower?
 
 ### Opciones
-- [x] A) He eats breakfast.
+- [x] C) He eats breakfast.
   <!-- feedback: According to the timeline, 7:00 a.m. breakfast follows 6:30 a.m. shower. -->
-- [ ] B) He goes to school.
+- [ ] A) He goes to school.
   <!-- feedback: Going to school happens at 7:30 a.m., after eating breakfast. -->
-- [ ] C) He plays soccer.
+- [ ] B) He plays soccer.
   <!-- feedback: Playing soccer is not listed on this morning timeline. -->
 - [ ] D) He goes to bed.
   <!-- feedback: Going to bed is an evening activity, not a morning routine step. -->
@@ -126,13 +126,13 @@ Sequencing daily routine events using chronological order clues.
 Complete the sentence: "We usually _____ the bus to go to school at 7:15 a.m."
 
 ### Opciones
-- [x] A) take.
+- [x] D) take.
   <!-- feedback: "Take the bus" is the correct verb collocation for bus transportation. -->
-- [ ] B) drive.
+- [ ] A) drive.
   <!-- feedback: Students take/ride the bus; the bus driver drives the bus. -->
-- [ ] C) sleep.
+- [ ] B) sleep.
   <!-- feedback: "Sleep the bus" is not a meaningful verb combination. -->
-- [ ] D) cook.
+- [ ] C) cook.
   <!-- feedback: "Cook" is used for food, not transportation. -->
 
 ### Explicacion Pedagogica
@@ -195,11 +195,11 @@ Using adverbs of frequency (always, usually, sometimes, never) to describe regul
 What recommendation should be given to improve this student's daily routine?
 
 ### Opciones
-- [x] A) Go to bed earlier at night to get at least 8 hours of restful sleep.
+- [x] C) Go to bed earlier at night to get at least 8 hours of restful sleep.
   <!-- feedback: Sleeping earlier ensures the recommended 8-9 hours of rest for learning. -->
-- [ ] B) Drink coffee at midnight to stay awake during morning classes.
+- [ ] A) Drink coffee at midnight to stay awake during morning classes.
   <!-- feedback: Coffee late at night disrupts sleep quality and is unhealthy for children. -->
-- [ ] C) Skip breakfast and run to school as fast as possible.
+- [ ] B) Skip breakfast and run to school as fast as possible.
   <!-- feedback: Skipping breakfast decreases energy and concentration in class. -->
 - [ ] D) Watch television until 2:00 a.m. every weekday.
   <!-- feedback: Watching TV until late reduces sleep time even further. -->

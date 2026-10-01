@@ -32,9 +32,9 @@ Este bundle contiene 12 preguntas sobre **biodiversidad-colombiana** para grado 
 ### Enunciado
 Qué se entiende por biodiversidad?
 ### Opciones
-- [x] A) La variedad de seres vivos, sus diferencias geneticas y los ecosistemas que ellos conforman.
+- [x] B) La variedad de seres vivos, sus diferencias geneticas y los ecosistemas que ellos conforman.
   <!-- feedback: Correcto. La biodiversidad incluye tres niveles: genes, especies y ecosistemas. -->
-- [ ] B) La cantidad total de rocas y minerales existentes en un país.
+- [ ] A) La cantidad total de rocas y minerales existentes en un país.
   <!-- feedback: Incorrecto. Las rocas pertenecen al reino mineral, no a la biodiversidad. -->
 - [ ] C) El número de parques nacionales pavimentados en Colombia.
   <!-- feedback: Incorrecto. La infraestructura no es biodiversidad, aunque los parques albergan biodiversidad. -->
@@ -72,13 +72,13 @@ Colombia combina seis biomas principales: mar Pacífico, mar Caribe, Andes, Amaz
 ### Enunciado
 Qué significa que una especie sea endémica de Colombia?
 ### Opciones
-- [x] A) Que se encuentra de forma natural solo en una región geográfica específica, en este caso Colombia.
+- [x] D) Que se encuentra de forma natural solo en una región geográfica específica, en este caso Colombia.
   <!-- feedback: Correcto. El endemismo es la presencia natural restringida a una zona determinada. -->
-- [ ] B) Que la especie fue traída de otro continente por el hombre.
+- [ ] A) Que la especie fue traída de otro continente por el hombre.
   <!-- feedback: Incorrecto. Eso corresponde a una especie introducida, no endémica. -->
-- [ ] C) Que la especie solo vive en zonas climáticas frías.
+- [ ] B) Que la especie solo vive en zonas climáticas frías.
   <!-- feedback: Incorrecto. El endemismo no depende del clima sino del área geográfica. -->
-- [ ] D) Que la especie fue descubierta en otro país pero migró a Colombia.
+- [ ] C) Que la especie fue descubierta en otro país pero migró a Colombia.
   <!-- feedback: Incorrecto. La migracion periodica no define endemismo. -->
 ### Explicacion Pedagogica
 El endemismo es la condición de una especie cuya distribución geográfica natural se limita a un área específica. Colombia posee más de 3.000 especies de plantas endémicas y cerca de 70 de aves endémicas, gracias a su variedad de habitats y al aislamiento orografico de los Andes.
@@ -92,9 +92,9 @@ El endemismo es la condición de una especie cuya distribución geográfica natu
 ### Enunciado
 En el ascenso al páramo de Zipaquirá, los estudiantes pasan por tres tipos de vegetación claramente distintos. Qué variable ambiental explica mejor esta sucesión de comunidades vegetales?
 ### Opciones
-- [x] A) La altitud y, por tanto, la temperatura y la humedad disponibles.
+- [x] B) La altitud y, por tanto, la temperatura y la humedad disponibles.
   <!-- feedback: Correcto. La altitud modifica la temperatura y genera pisos termicos distintos. -->
-- [ ] B) La cantidad de antenas de telefonia instaladas en la montaña.
+- [ ] A) La cantidad de antenas de telefonia instaladas en la montaña.
   <!-- feedback: Incorrecto. Las antenas no determinan la distribución natural de las plantas. -->
 - [ ] C) El color de los uniformes de los excursionistas.
   <!-- feedback: Incorrecto. La indumentaria humana no altera la vegetación. -->
@@ -112,11 +112,11 @@ En Colombia los pisos termicos se distribuyen asi: tropical de 0 a 1.000 m, subt
 ### Enunciado
 A que familia botánica pertenecen los frailejones, especie emblemática del páramo colombiano?
 ### Opciones
-- [x] A) A la familia Asteraceae (compuestas).
+- [x] C) A la familia Asteraceae (compuestas).
   <!-- feedback: Correcto. Los frailejones (Espeletia) pertenecen a la familia Asteraceae. -->
-- [ ] B) A la familia de los cactus tipicos del desierto.
+- [ ] A) A la familia de los cactus tipicos del desierto.
   <!-- feedback: Incorrecto. Los cactus viven en zonas aridas, no en páramos humedos. -->
-- [ ] C) A la familia de las palmas tropicales del Pacífico.
+- [ ] B) A la familia de las palmas tropicales del Pacífico.
   <!-- feedback: Incorrecto. Las palmas no resisten las heladas de los páramos. -->
 - [ ] D) A la familia de los pinos de zonas frías europeas.
   <!-- feedback: Incorrecto. Los pinos son coniferas tipicas de zonas templadas, no páramos tropicales. -->
@@ -152,11 +152,11 @@ Los páramos regulan los ciclos hidricos de cuencas como las del río Bogotá, r
 ### Enunciado
 Cuál es el objetivo principal del Sistema Nacional de Áreas Protegidas (SINAP) de Colombia?
 ### Opciones
-- [x] A) Conservar muestras representativas de los ecosistemas naturales del país y los servicios ecosistémicos asociados.
+- [x] C) Conservar muestras representativas de los ecosistemas naturales del país y los servicios ecosistémicos asociados.
   <!-- feedback: Correcto. El SINAP busca preservar ecosistemas estrategicos y biodiversidad. -->
-- [ ] B) Privatizar todas las areas naturales para explotación turística masiva.
+- [ ] A) Privatizar todas las areas naturales para explotación turística masiva.
   <!-- feedback: Incorrecto. Las areas protegidas tienen régimen especial de uso restrictivo. -->
-- [ ] C) Convertir los parques en zonas francas para instalar fabricas.
+- [ ] B) Convertir los parques en zonas francas para instalar fabricas.
   <!-- feedback: Incorrecto. La zonificacion industrial está prohibida en parques. -->
 - [ ] D) Eliminar toda presencia humana e infraestructura de las zonas protegidas.
   <!-- feedback: Incorrecto. El SINAP permite comunidades indígenas y zonas de uso sostenible. -->
@@ -172,11 +172,11 @@ Colombia cuenta con 59 parques nacionales naturales, resguardos indígenas y res
 ### Enunciado
 Cuál de las siguientes combinaciones explica mejor la pérdida acelerada de biodiversidad en el Chocó biogeografico colombiano?
 ### Opciones
-- [x] A) Deforestación para minería, expansión agrícola, explotación maderera y vías sin control ambiental.
+- [x] C) Deforestación para minería, expansión agrícola, explotación maderera y vías sin control ambiental.
   <!-- feedback: Correcto. Son las principales presiones documentadas sobre el Chocó. -->
-- [ ] B) Excesiva protección estatal que limita todo uso humano tradicional.
+- [ ] A) Excesiva protección estatal que limita todo uso humano tradicional.
   <!-- feedback: Incorrecto. La protección suele ser insuficiente, no excesiva. -->
-- [ ] C) Disminucion del nivel del mar en el océano Pacífico.
+- [ ] B) Disminucion del nivel del mar en el océano Pacífico.
   <!-- feedback: Incorrecto. El nivel del mar está aumentando por el cambio climático. -->
 - [ ] D) Aumento global de las areas marinas protegidas en otros países.
   <!-- feedback: Incorrecto. Las areas protegidas en otros países no amenazan al Chocó. -->
@@ -192,9 +192,9 @@ La región del Chocó biogeografico colombiano es una de las más lluviosas del 
 ### Enunciado
 Un cuadro comparativo muestra alta riqueza de angiospermas y aves en la Amazonía, alta diversidad de anfibios en el Chocó y alto endemismo de plantas en los páramos. Qué conclusión ecológica es más válida a partir de estos datos?
 ### Opciones
-- [x] A) Cada región aporta contribuciones distintas a la biodiversidad nacional, por lo que su protección debe ser diferenciada.
+- [x] B) Cada región aporta contribuciones distintas a la biodiversidad nacional, por lo que su protección debe ser diferenciada.
   <!-- feedback: Correcto. Conservar la biodiversidad implica estrategias adaptadas a cada bioma. -->
-- [ ] B) Solo la Amazonía merece protección porque es la más rica en angiospermas.
+- [ ] A) Solo la Amazonía merece protección porque es la más rica en angiospermas.
   <!-- feedback: Incorrecto. Las tres regiones son complementarias y prioritarias. -->
 - [ ] C) Los páramos no tienen valor biológico porque tienen pocas especies.
   <!-- feedback: Incorrecto. El endemismo es un valor biológico cualitativo, no solo cuantitativo. -->
@@ -212,9 +212,9 @@ La biodiversidad se mide en términos de riqueza (número de especies), abundanc
 ### Enunciado
 Por qué la Serranía de Chiribiquete presenta mayor número de especies endémicas por unidad de área que otras zonas de la Amazonía colombiana?
 ### Opciones
-- [x] A) Por su aislamiento geografico sobre mesetas de arenisca (tepuyes) y condiciones climáticas particulares.
+- [x] B) Por su aislamiento geografico sobre mesetas de arenisca (tepuyes) y condiciones climáticas particulares.
   <!-- feedback: Correcto. El aislamiento geologico y climático favorece la especiacion alopatrica. -->
-- [ ] B) Porque es la región más contaminada del país y eso genera nuevas especies.
+- [ ] A) Porque es la región más contaminada del país y eso genera nuevas especies.
   <!-- feedback: Incorrecto. La contaminación no genera endemismo, lo reduce. -->
 - [ ] C) Porque el clima es identico al resto de la llanura amazonica.
   <!-- feedback: Incorrecto. El clima difiere por altitud y tipo de sustrato. -->
@@ -232,9 +232,9 @@ La Serranía de Chiribiquete es un escudo guayanes con mesetas tabulares de aren
 ### Enunciado
 Cuál de las siguientes estrategias ofrece la mejor relación costo-beneficio para conservar la biodiversidad del páramo de Sumapaz?
 ### Opciones
-- [x] A) Comprar predios para restaurar areas degradadas y conectarlas con areas protegidas existentes.
+- [x] B) Comprar predios para restaurar areas degradadas y conectarlas con areas protegidas existentes.
   <!-- feedback: Correcto. La restauración y la conectividad biológica ofrecen resultados a largo plazo. -->
-- [ ] B) Construir una autopista de cuatro carriles cruzando el páramo.
+- [ ] A) Construir una autopista de cuatro carriles cruzando el páramo.
   <!-- feedback: Incorrecto. La autopista fragmentaria el ecosistema y no es estrategia de conservación. -->
 - [ ] C) Introducir truchas exoticas para promover la pesca deportiva.
   <!-- feedback: Incorrecto. Las truchas son especie invasora que deteriora ecosistemas acuáticos de páramo. -->

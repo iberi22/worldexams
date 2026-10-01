@@ -34,11 +34,11 @@ Basic weather words and simple climate vocabulary to describe the weather and th
 Which word in English describes the weather when the sky is full of clouds and you cannot see the sun?
 
 ### Opciones
-- [x] A) Cloudy.
+- [x] C) Cloudy.
   <!-- feedback: "Cloudy" describes a sky covered with clouds, so the sun is hidden. -->
-- [ ] B) Sunny.
+- [ ] A) Sunny.
   <!-- feedback: "Sunny" means the sun is bright and there are few or no clouds. -->
-- [ ] C) Windy.
+- [ ] B) Windy.
   <!-- feedback: "Windy" describes moving air, not a sky full of clouds. -->
 - [ ] D) Rainy.
   <!-- feedback: "Rainy" describes falling water, not just clouds covering the sun. -->
@@ -57,13 +57,13 @@ Recognizing basic weather words in English by matching each word with the sky co
 Why do people in Cartagena wear light clothes?
 
 ### Opciones
-- [x] A) Because the weather there is hot and sunny.
+- [x] D) Because the weather there is hot and sunny.
   <!-- feedback: The text connects hot and sunny weather with wearing light clothes. -->
-- [ ] B) Because it is very cold and snowy every day.
+- [ ] A) Because it is very cold and snowy every day.
   <!-- feedback: The text says Cartagena is hot, not cold or snowy. -->
-- [ ] C) Because it rains heavily every single hour.
+- [ ] B) Because it rains heavily every single hour.
   <!-- feedback: Constant heavy rain is not mentioned in the text. -->
-- [ ] D) Because the city is high in the snowy mountains.
+- [ ] C) Because the city is high in the snowy mountains.
   <!-- feedback: Cartagena is on the coast, and the text does not mention mountains. -->
 
 ### Explicacion Pedagogica
@@ -126,9 +126,9 @@ Completing sentences about Colombian seasons using the correct weather vocabular
 Which sentence uses the word "windy" correctly to describe Barranquilla?
 
 ### Opciones
-- [x] A) It is windy in Barranquilla, so the flags move a lot.
+- [x] B) It is windy in Barranquilla, so the flags move a lot.
   <!-- feedback: In a windy place, moving air makes flags and kites move. -->
-- [ ] B) It is windy in Barranquilla, so the sun does not exist.
+- [ ] A) It is windy in Barranquilla, so the sun does not exist.
   <!-- feedback: Wind does not make the sun disappear; that is not what "windy" means. -->
 - [ ] C) It is windy in Barranquilla, so the city is always cold and snowy.
   <!-- feedback: Wind does not mean cold and snowy; Barranquilla is described as hot. -->

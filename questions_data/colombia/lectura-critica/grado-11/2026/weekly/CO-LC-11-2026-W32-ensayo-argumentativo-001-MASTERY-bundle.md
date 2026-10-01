@@ -35,9 +35,9 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia.
 ¿Cuál es la función principal de un ensayo argumentativo?
 
 ### Opciones
-- [x] A) Defender una tesis mediante argumentos sólidos y persuasivos.
+- [x] B) Defender una tesis mediante argumentos sólidos y persuasivos.
   <!-- feedback: El ensayo argumentativo busca persuadir sobre una postura debatable. -->
-- [ ] B) Contar una historia personal sin estructura.
+- [ ] A) Contar una historia personal sin estructura.
   <!-- feedback: Eso corresponde a la crónica personal. -->
 - [ ] C) Describir lugares turísticos.
   <!-- feedback: Eso es texto descriptivo. -->
@@ -58,9 +58,9 @@ El ensayo argumentativo combina información, razonamiento y retórica para sost
 La tesis en un ensayo argumentativo se ubica principalmente en:
 
 ### Opciones
-- [x] A) La introducción, como idea central que se defiende.
+- [x] B) La introducción, como idea central que se defiende.
   <!-- feedback: La tesis suele enunciarse al inicio y reforzarse a lo largo del texto. -->
-- [ ] B) El último párrafo sin anuncio previo.
+- [ ] A) El último párrafo sin anuncio previo.
   <!-- feedback: La tesis no aparece solo al final. -->
 - [ ] C) Las notas al pie de página.
   <!-- feedback: Las notas complementan, no sostienen la tesis. -->
@@ -81,9 +81,9 @@ Una tesis clara orienta toda la estructura argumentativa del ensayo.
 ¿Qué tipo de argumento apela a datos estadísticos y estudios verificables?
 
 ### Opciones
-- [ ] A) Argumento de autoridad sin fuente.
+- [ ] B) Argumento de autoridad sin fuente.
   <!-- feedback: Requiere fuente verificable. -->
-- [x] B) Argumento de evidencia empírica.
+- [x] A) Argumento de evidencia empírica.
   <!-- feedback: Se sustenta en datos y hechos comprobables. -->
 - [ ] C) Argumento emocional sin base.
   <!-- feedback: Se apoya en datos, no solo emociones. -->
@@ -104,13 +104,13 @@ Los argumentos de evidencia fortalecen la objetividad y credibilidad del ensayo.
 ¿Qué recurso busca generar empatía con el lector para reforzar la postura del autor?
 
 ### Opciones
-- [x] A) Argumento patético o de apelación emocional.
+- [x] D) Argumento patético o de apelación emocional.
   <!-- feedback: Conecta con valores y emociones del lector. -->
-- [ ] B) Dato estadístico aislado.
+- [ ] A) Dato estadístico aislado.
   <!-- feedback: El dato por sí solo no genera emoción. -->
-- [ ] C) Cita en lengua extranjera sin traducir.
+- [ ] B) Cita en lengua extranjera sin traducir.
   <!-- feedback: Puede generar extrañamiento, no empatía. -->
-- [ ] D) Lista de referencias sin análisis.
+- [ ] C) Lista de referencias sin análisis.
   <!-- feedback: No apela a la emoción. -->
 
 ### Explicacion Pedagogica
@@ -127,13 +127,13 @@ Los argumentos emocionales se combinan con argumentos racionales para persuadir 
 Un buen ensayo argumentativo presenta argumentos organizados de manera:
 
 ### Opciones
-- [x] A) Lógica, con ideas principales respaldadas por secundarias y evidencias.
+- [x] D) Lógica, con ideas principales respaldadas por secundarias y evidencias.
   <!-- feedback: La estructura argumentativa sigue un orden claro. -->
-- [ ] B) Aleatoria, saltando entre ideas sin conexión.
+- [ ] A) Aleatoria, saltando entre ideas sin conexión.
   <!-- feedback: El ensayo debe tener secuencia lógica. -->
-- [ ] C) Repetitiva, diciendo lo mismo varias veces.
+- [ ] B) Repetitiva, diciendo lo mismo varias veces.
   <!-- feedback: La repetición sin aportar es redundante. -->
-- [ ] D) Únicamente cronológica.
+- [ ] C) Únicamente cronológica.
   <!-- feedback: No siempre aplica el orden cronológico. -->
 
 ### Explicacion Pedagogica
@@ -152,11 +152,11 @@ Una introducción efectiva de un ensayo argumentativo debe contener:
 ### Opciones
 - [ ] A) Una biografía detallada del autor.
   <!-- feedback: No es el propósito de la introducción. -->
-- [x] B) Contextualización del tema, presentación de la tesis y anuncio de argumentos.
+- [x] D) Contextualización del tema, presentación de la tesis y anuncio de argumentos.
   <!-- feedback: Así se orienta al lector desde el inicio. -->
-- [ ] C) Conclusiones finales.
+- [ ] B) Conclusiones finales.
   <!-- feedback: Las conclusiones van al final. -->
-- [ ] D) Datos contradictorios sin síntesis.
+- [ ] C) Datos contradictorios sin síntesis.
   <!-- feedback: Falta coherencia interna. -->
 
 ### Explicacion Pedagogica
@@ -173,13 +173,13 @@ La introducción cumple funciones informativa, orientadora y persuasiva en el en
 Al integrar una cita en un ensayo, lo correcto es:
 
 ### Opciones
-- [x] A) Citarla con su fuente y enlazarla con la idea propia mediante análisis.
+- [x] D) Citarla con su fuente y enlazarla con la idea propia mediante análisis.
   <!-- feedback: La cita se inserta en el discurso del autor. -->
-- [ ] B) Pegarla sin comillas ni referencia.
+- [ ] A) Pegarla sin comillas ni referencia.
   <!-- feedback: Eso es plagio. -->
-- [ ] C) Traducirla alterando su sentido original.
+- [ ] B) Traducirla alterando su sentido original.
   <!-- feedback: Se debe respetar el contenido. -->
-- [ ] D) Sustituirla por un párrafo inventado.
+- [ ] C) Sustituirla por un párrafo inventado.
   <!-- feedback: Pierde respaldo académico. -->
 
 ### Explicacion Pedagogica
@@ -196,9 +196,9 @@ El uso ético de citas fortalece el argumento y respeta la propiedad intelectual
 ¿Qué conector es apropiado para introducir una idea opuesta?
 
 ### Opciones
-- [x] A) Sin embargo.
+- [x] B) Sin embargo.
   <!-- feedback: Expresa contraste u oposición. -->
-- [ ] B) Además.
+- [ ] A) Además.
   <!-- feedback: Expresa adición. -->
 - [ ] C) Por lo tanto.
   <!-- feedback: Indica consecuencia. -->
@@ -221,11 +221,11 @@ Los conectores opositivos como sin embargo, no obstante o por el contrario estru
 ### Opciones
 - [ ] A) No existe diferencia.
   <!-- feedback: Conceptualmente son distintos. -->
-- [x] B) La persuasión se basa en argumentos racionales verificables; la manipulación apela a engaños o sesgos.
+- [x] D) La persuasión se basa en argumentos racionales verificables; la manipulación apela a engaños o sesgos.
   <!-- feedback: La manipulación distorsiona información. -->
-- [ ] C) La persuasión usa solo imágenes.
+- [ ] B) La persuasión usa solo imágenes.
   <!-- feedback: El ensayo es texto, no imagen. -->
-- [ ] D) La manipulación es siempre correcta.
+- [ ] C) La manipulación es siempre correcta.
   <!-- feedback: La manipulación es éticamente rechazable. -->
 
 ### Explicacion Pedagogica
@@ -242,13 +242,13 @@ La ética argumentativa exige veracidad, coherencia y respeto al lector.
 La conclusión de un ensayo argumentativo debe:
 
 ### Opciones
-- [x] A) Sintetizar la postura, reforzar la tesis y dejar una reflexión final.
+- [x] D) Sintetizar la postura, reforzar la tesis y dejar una reflexión final.
   <!-- feedback: La conclusión cierra sin introducir ideas nuevas. -->
-- [ ] B) Introducir un argumento nuevo y extenso.
+- [ ] A) Introducir un argumento nuevo y extenso.
   <!-- feedback: Confunde al lector y debilita el cierre. -->
-- [ ] C) Cambiar la tesis original.
+- [ ] B) Cambiar la tesis original.
   <!-- feedback: Contradice el principio de coherencia. -->
-- [ ] D) Eliminar las evidencias usadas.
+- [ ] C) Eliminar las evidencias usadas.
   <!-- feedback: Pierde sustento. -->
 
 ### Explicacion Pedagogica
@@ -265,11 +265,11 @@ La conclusión reitera la tesis y conecta con el lector para fortalecer la persu
 Un ensayo crítico debe reconocer los contraargumentos para:
 
 ### Opciones
-- [x] A) Anticipar objeciones y refutarlas con sólidos argumentos.
+- [x] C) Anticipar objeciones y refutarlas con sólidos argumentos.
   <!-- feedback: Esto fortalece la postura del autor. -->
-- [ ] B) Cambiar de opinión a mitad del texto.
+- [ ] A) Cambiar de opinión a mitad del texto.
   <!-- feedback: Debilita la tesis. -->
-- [ ] C) Confundir al lector.
+- [ ] B) Confundir al lector.
   <!-- feedback: El ensayo busca claridad. -->
 - [ ] D) Evitar la investigación.
   <!-- feedback: El análisis crítico requiere evidencia. -->
@@ -311,9 +311,9 @@ Una voz autoral clara distingue al ensayista y conecta con el lector.
 Una diferencia entre el ensayo filosófico y el ensayo literario es:
 
 ### Opciones
-- [x] A) El ensayo filosófico prioriza la rigurosidad lógica; el literario admite mayor libertad estética.
+- [x] B) El ensayo filosófico prioriza la rigurosidad lógica; el literario admite mayor libertad estética.
   <!-- feedback: Ambos comparten intención crítica pero con énfasis distintos. -->
-- [ ] B) El ensayo literario no tiene argumentos.
+- [ ] A) El ensayo literario no tiene argumentos.
   <!-- feedback: También los tiene, aunque con estilo. -->
 - [ ] C) El ensayo filosófico es siempre breve.
   <!-- feedback: Su extensión varía. -->
@@ -334,13 +334,13 @@ El ensayo filosófico busca fundamentar; el literario busca conmover y persuadir
 La falacia "ad hominem" consiste en:
 
 ### Opciones
-- [x] A) Atacar a la persona en lugar de refutar su argumento.
+- [x] D) Atacar a la persona en lugar de refutar su argumento.
   <!-- feedback: Desvía el debate hacia el agresor, no hacia las ideas. -->
-- [ ] B) Presentar evidencia verificable.
+- [ ] A) Presentar evidencia verificable.
   <!-- feedback: Es lo opuesto. -->
-- [ ] C) Usar fuentes confiables.
+- [ ] B) Usar fuentes confiables.
   <!-- feedback: Es una práctica legítima. -->
-- [ ] D) Citar autores reconocidos.
+- [ ] C) Citar autores reconocidos.
   <!-- feedback: Es un recurso válido. -->
 
 ### Explicacion Pedagogica
@@ -357,9 +357,9 @@ Detectar falacias ayuda a evaluar la calidad argumentativa de un texto.
 Si la tesis afirma que "la educación pública debe ser gratuita", un argumento coherente sería:
 
 ### Opciones
-- [x] A) La gratuidad garantiza el acceso equitativo y reduce la deserción escolar.
+- [x] B) La gratuidad garantiza el acceso equitativo y reduce la deserción escolar.
   <!-- feedback: Apoya directamente la tesis con razón legítima. -->
-- [ ] B) El fútbol es el deporte más popular del país.
+- [ ] A) El fútbol es el deporte más popular del país.
   <!-- feedback: No tiene relación con la educación. -->
 - [ ] C) Los gatos son mascotas independientes.
   <!-- feedback: Tema ajeno a la tesis. -->
@@ -382,9 +382,9 @@ La coherencia en un ensayo se asegura cuando:
 ### Opciones
 - [ ] A) Cada párrafo trata un tema totalmente distinto.
   <!-- feedback: Eso es incoherencia temática. -->
-- [x] B) Las ideas se organizan en torno a la tesis sin contradicciones.
+- [x] C) Las ideas se organizan en torno a la tesis sin contradicciones.
   <!-- feedback: Coherencia = unidad lógica global. -->
-- [ ] C) Se cambia la postura constantemente.
+- [ ] B) Se cambia la postura constantemente.
   <!-- feedback: Confunde al lector. -->
 - [ ] D) Se omiten conectores por completo.
   <!-- feedback: Los conectores articulan la coherencia. -->
@@ -403,9 +403,9 @@ Coherencia y cohesión son principios complementarios que estructuran el ensayo.
 Al evaluar un ensayo sobre derechos humanos, ¿qué criterio es más relevante para juzgar su solidez?
 
 ### Opciones
-- [x] A) La calidad y verificabilidad de las evidencias citadas.
+- [x] B) La calidad y verificabilidad de las evidencias citadas.
   <!-- feedback: La fuerza argumentativa depende de fuentes confiables. -->
-- [ ] B) La extensión del texto únicamente.
+- [ ] A) La extensión del texto únicamente.
   <!-- feedback: La extensión no garantiza calidad. -->
 - [ ] C) El uso de palabras difíciles.
   <!-- feedback: La claridad es más importante. -->
@@ -426,9 +426,9 @@ La evaluación crítica pondera evidencias, razonamientos y claridad expositiva.
 ¿Qué rasgo diferencia un ensayo comprometido de uno neutro?
 
 ### Opciones
-- [x] A) El ensayo comprometido asume una postura ética clara; el neutro describe sin priorizar valores.
+- [x] B) El ensayo comprometido asume una postura ética clara; el neutro describe sin priorizar valores.
   <!-- feedback: La postura ética guía la argumentación comprometida. -->
-- [ ] B) El ensayo neutro nunca usa datos.
+- [ ] A) El ensayo neutro nunca usa datos.
   <!-- feedback: Puede usar datos sin postura ética. -->
 - [ ] C) El ensayo comprometido evita fuentes.
   <!-- feedback: Generalmente las incluye. -->
@@ -474,11 +474,11 @@ El ensayo argumentativo es una herramienta valiosa para la ciudadanía porque:
 ### Opciones
 - [ ] A) Permite imponer ideas sin diálogo.
   <!-- feedback: El ensayo busca persuadir, no imponer. -->
-- [x] B) Fomenta el pensamiento crítico, la reflexión informada y el diálogo democrático.
+- [x] D) Fomenta el pensamiento crítico, la reflexión informada y el diálogo democrático.
   <!-- feedback: Es esencial para la participación ciudadana. -->
-- [ ] C) Evita leer otras opiniones.
+- [ ] B) Evita leer otras opiniones.
   <!-- feedback: El ensayo requiere leer otras posturas. -->
-- [ ] D) Sustituye la acción política.
+- [ ] C) Sustituye la acción política.
   <!-- feedback: Es complemento, no sustituto. -->
 
 ### Explicacion Pedagogica

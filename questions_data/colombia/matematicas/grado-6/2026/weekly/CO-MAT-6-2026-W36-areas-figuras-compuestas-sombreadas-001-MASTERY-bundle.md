@@ -48,13 +48,13 @@ El área de un rectángulo se obtiene multiplicando la base por la altura. Para 
 ### Enunciado
 ¿Por qué el área del triángulo es la mitad de la base por la altura?
 ### Opciones
-- [x] A) Porque un triángulo ocupa la mitad de un rectángulo con la misma base y altura
+- [x] D) Porque un triángulo ocupa la mitad de un rectángulo con la misma base y altura
   <!-- feedback: Es correcta porque al unir dos triángulos iguales se forma un rectángulo de igual base y altura. -->
-- [ ] B) Porque el triángulo tiene tres lados
+- [ ] A) Porque el triángulo tiene tres lados
   <!-- feedback: Error conceptual: el número de lados no explica la fórmula del área. -->
-- [ ] C) Porque hay que sumar la longitud de los lados
+- [ ] B) Porque hay que sumar la longitud de los lados
   <!-- feedback: Error conceptual: sumar los lados da el perímetro, no el área. -->
-- [ ] D) Porque la altura siempre es la mitad de la base
+- [ ] C) Porque la altura siempre es la mitad de la base
   <!-- feedback: Error conceptual: base y altura son independientes; no existe esa relación fija. -->
 ### Explicacion Pedagogica
 Dos triángulos iguales se unen por su diagonal y forman un rectángulo. Como ese rectángulo vale base por altura y el triángulo es su mitad, la fórmula es base por altura entre dos.
@@ -67,11 +67,11 @@ Dos triángulos iguales se unen por su diagonal y forman un rectángulo. Como es
 ### Enunciado
 ¿Cuál es el área del triángulo?
 ### Opciones
-- [x] A) 30 cm²
+- [x] C) 30 cm²
   <!-- feedback: Es correcta porque (10 × 6) ÷ 2 = 30 cm². -->
-- [ ] B) 60 cm²
+- [ ] A) 60 cm²
   <!-- feedback: Error conceptual: multiplica base por altura pero olvida dividir entre dos. -->
-- [ ] C) 16 cm²
+- [ ] B) 16 cm²
   <!-- feedback: Error conceptual: suma base y altura en lugar de aplicar la fórmula del área. -->
 - [ ] D) 36 cm²
   <!-- feedback: Error conceptual: eleva la altura al cuadrado en vez de multiplicar base por altura. -->
@@ -86,9 +86,9 @@ El área del triángulo es base por altura dividido entre dos. Con base 10 cm y 
 ### Enunciado
 ¿Cuál es el área total de la figura?
 ### Opciones
-- [x] A) 33 m²
+- [x] B) 33 m²
   <!-- feedback: Es correcta porque el rectángulo aporta 24 m² y el triángulo 9 m²; 24 + 9 = 33 m². -->
-- [ ] B) 24 m²
+- [ ] A) 24 m²
   <!-- feedback: Error conceptual: calcula solo el área del rectángulo y omite el triángulo. -->
 - [ ] C) 30 m²
   <!-- feedback: Error conceptual: estima mal el área del triángulo al no dividir entre dos. -->
@@ -105,13 +105,13 @@ En una figura compuesta se calcula el área de cada parte y se suman. El rectán
 ### Enunciado
 ¿Cuál es el área sombreada?
 ### Opciones
-- [x] A) 25 cm²
+- [x] D) 25 cm²
   <!-- feedback: Es correcta porque el área del cuadrado sombreado es 5 × 5 = 25 cm². -->
-- [ ] B) 45 cm²
+- [ ] A) 45 cm²
   <!-- feedback: Error conceptual: calcula el área del rectángulo completo, no la parte sombreada. -->
-- [ ] C) 20 cm²
+- [ ] B) 20 cm²
   <!-- feedback: Error conceptual: resta mal y confunde el área del cuadrado con la diferencia de áreas. -->
-- [ ] D) 14 cm²
+- [ ] C) 14 cm²
   <!-- feedback: Error conceptual: suma lados en vez de calcular el área del cuadrado. -->
 ### Explicacion Pedagogica
 La parte sombreada es un cuadrado de 5 cm de lado, así que su área es 25 cm². El rectángulo que lo contiene mide 45 cm², pero solo se sombrea el cuadrado interior.
@@ -181,11 +181,11 @@ Rectángulo y paralelogramo comparten la fórmula base por altura. Con 12 m y 5 
 ### Enunciado
 ¿Es correcta la afirmación del estudiante? Justifica tu respuesta.
 ### Opciones
-- [x] A) Sí, siempre que las partes no se superpongan y cubran toda la figura
+- [x] C) Sí, siempre que las partes no se superpongan y cubran toda la figura
   <!-- feedback: Es correcta porque sumar áreas exige que las partes sean disjuntas y formen el total. -->
-- [ ] B) Sí, incluso cuando las partes se superponen
+- [ ] A) Sí, incluso cuando las partes se superponen
   <!-- feedback: Error conceptual: si hay superposición, se cuenta dos veces esa región y la suma se infla. -->
-- [ ] C) No, porque las áreas nunca se pueden sumar
+- [ ] B) No, porque las áreas nunca se pueden sumar
   <!-- feedback: Error conceptual: las áreas sí se suman cuando las partes no se traslapan. -->
 - [ ] D) No, porque las figuras compuestas no tienen área
   <!-- feedback: Error conceptual: toda figura plana cerrada tiene un área definida. -->
@@ -200,11 +200,11 @@ La suma de áreas es válida solo si las partes no se superponen y cubren exacta
 ### Enunciado
 ¿Cuál estrategia es la más adecuada para hallar el área sombreada?
 ### Opciones
-- [x] A) Calcular el área del rectángulo y restarle el área del triángulo recortado
+- [x] C) Calcular el área del rectángulo y restarle el área del triángulo recortado
   <!-- feedback: Es correcta porque la región sombreada es el rectángulo menos la parte recortada. -->
-- [ ] B) Sumar el área del rectángulo y el área del triángulo recortado
+- [ ] A) Sumar el área del rectángulo y el área del triángulo recortado
   <!-- feedback: Error conceptual: el triángulo fue removido, así que debe restarse, no sumarse. -->
-- [ ] C) Multiplicar la base total por la altura total de la figura
+- [ ] B) Multiplicar la base total por la altura total de la figura
   <!-- feedback: Error conceptual: esa multiplicación ignora el recorte y da el área del rectángulo completo. -->
 - [ ] D) Medir solo el perímetro de la figura
   <!-- feedback: Error conceptual: el perímetro mide el contorno y no permite obtener el área. -->

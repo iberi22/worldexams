@@ -37,8 +37,8 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) Vender productos de empresas extranjeras exclusivamente. <!-- feedback: Incorrecto. Aunque la publicidad existe, no es la función social primordial. -->
-- [x] B) Informar, educar y entretener a un gran número de personas. <!-- feedback: Correcto. Los medios masivos buscan llegar a audiencias amplias con contenidos diversos. -->
-- [ ] C) Ocultar la información importante a los ciudadanos. <!-- feedback: Incorrecto. En una democracia, los medios deben fomentar la transparencia. -->
+- [x] C) Informar, educar y entretener a un gran número de personas. <!-- feedback: Correcto. Los medios masivos buscan llegar a audiencias amplias con contenidos diversos. -->
+- [ ] B) Ocultar la información importante a los ciudadanos. <!-- feedback: Incorrecto. En una democracia, los medios deben fomentar la transparencia. -->
 - [ ] D) Servir como medio de comunicación privada entre dos amigos. <!-- feedback: Incorrecto. Esa es la función de los medios interpersonales (teléfono, carta privada). -->
 
 ### Explicacion Pedagogica
@@ -58,9 +58,9 @@ Los medios de comunicación masiva (radio, televisión, prensa, internet) tienen
 
 ### Opciones
 - [ ] A) La prensa utiliza ondas sonoras para transmitir el mensaje. <!-- feedback: Incorrecto. Esa es la característica de la radio. -->
-- [x] B) La prensa utiliza el canal visual y el código escrito para informar. <!-- feedback: Correcto. Los periódicos y revistas se basan en la lectura y las imágenes impresas. -->
-- [ ] C) La radio permite leer las noticias en un papel físico. <!-- feedback: Incorrecto. La radio es un medio auditivo. -->
-- [ ] D) Ninguno de los dos medios sirve para informar sobre noticias actuales. <!-- feedback: Incorrecto. Ambos son medios informativos por excelencia. -->
+- [x] D) La prensa utiliza el canal visual y el código escrito para informar. <!-- feedback: Correcto. Los periódicos y revistas se basan en la lectura y las imágenes impresas. -->
+- [ ] B) La radio permite leer las noticias en un papel físico. <!-- feedback: Incorrecto. La radio es un medio auditivo. -->
+- [ ] C) Ninguno de los dos medios sirve para informar sobre noticias actuales. <!-- feedback: Incorrecto. Ambos son medios informativos por excelencia. -->
 
 ### Explicacion Pedagogica
 Cada medio de comunicación utiliza un canal sensorial diferente (visual para prensa, auditivo para radio, audiovisual para TV) y códigos específicos (texto, sonido, imagen).
@@ -78,8 +78,8 @@ Cada medio de comunicación utiliza un canal sensorial diferente (visual para pr
 ¿Por qué se considera que la radio es un medio de comunicación de gran importancia en el sector rural colombiano?
 
 ### Opciones
-- [ ] A) Porque requiere conexión a internet de alta velocidad. <!-- feedback: Incorrecto. La radio tradicional funciona mediante ondas electromagnéticas, no internet. -->
-- [x] B) Porque su señal llega a lugares remotos y no requiere que el oyente sepa leer. <!-- feedback: Correcto. La radio es accesible, económica y supera barreras geográficas y de alfabetización. -->
+- [ ] B) Porque requiere conexión a internet de alta velocidad. <!-- feedback: Incorrecto. La radio tradicional funciona mediante ondas electromagnéticas, no internet. -->
+- [x] A) Porque su señal llega a lugares remotos y no requiere que el oyente sepa leer. <!-- feedback: Correcto. La radio es accesible, económica y supera barreras geográficas y de alfabetización. -->
 - [ ] C) Porque es el único medio que transmite películas de cine. <!-- feedback: Incorrecto. La radio es auditiva, no visual. -->
 - [ ] D) Porque solo se puede escuchar en las grandes ciudades. <!-- feedback: Incorrecto. La radio tiene una cobertura nacional muy amplia. -->
 
@@ -100,8 +100,8 @@ La radio ha sido históricamente un medio de educación y compañía en el campo
 
 ### Opciones
 - [ ] A) El uso exclusivo de textos escritos en pantalla. <!-- feedback: Incorrecto. La TV usa imágenes en movimiento, no solo texto. -->
-- [ ] B) La posibilidad de escuchar solo la voz del locutor. <!-- feedback: Incorrecto. Eso lo comparte con la radio, no es su valor diferencial positivo. -->
-- [x] C) La combinación de imagen en movimiento, sonido y lenguaje corporal. <!-- feedback: Correcto. El lenguaje audiovisual genera una sensación de cercanía y realidad mayor. -->
+- [ ] C) La posibilidad de escuchar solo la voz del locutor. <!-- feedback: Incorrecto. Eso lo comparte con la radio, no es su valor diferencial positivo. -->
+- [x] B) La combinación de imagen en movimiento, sonido y lenguaje corporal. <!-- feedback: Correcto. El lenguaje audiovisual genera una sensación de cercanía y realidad mayor. -->
 - [ ] D) Que no permite transmitir noticias en vivo. <!-- feedback: Incorrecto. La TV es experta en transmisiones en directo. -->
 
 ### Explicacion Pedagogica
@@ -122,8 +122,8 @@ Dentro de los medios de comunicación, ¿en qué sección encontrarías una opin
 ### Opciones
 - [ ] A) En los clasificados. <!-- feedback: Incorrecto. Los clasificados son para anuncios de compra y venta. -->
 - [ ] B) En la sección de deportes. <!-- feedback: Incorrecto. Allí se informa sobre eventos atléticos. -->
-- [x] C) En el editorial. <!-- feedback: Correcto. El editorial es el texto donde el medio expresa su postura oficial sobre un tema. -->
-- [ ] D) En la tira cómica. <!-- feedback: Incorrecto. La tira cómica es para entretenimiento gráfico. -->
+- [x] D) En el editorial. <!-- feedback: Correcto. El editorial es el texto donde el medio expresa su postura oficial sobre un tema. -->
+- [ ] C) En la tira cómica. <!-- feedback: Incorrecto. La tira cómica es para entretenimiento gráfico. -->
 
 ### Explicacion Pedagogica
 Los medios de comunicación no solo informan objetivamente, sino que también tienen espacios de opinión (editoriales, columnas) donde analizan la realidad desde su perspectiva.
@@ -163,9 +163,9 @@ La publicidad es un tipo de mensaje en los medios que busca influir en el compor
 
 ### Opciones
 - [ ] A) Porque todos los medios dicen siempre la verdad absoluta. <!-- feedback: Incorrecto. Cada medio puede tener un sesgo o cometer errores. -->
-- [x] B) Para identificar diferentes puntos de vista y verificar si la información es real. <!-- feedback: Correcto. El contraste de fuentes es una habilidad del pensamiento crítico. -->
-- [ ] C) Porque es obligatorio por ley leer todos los periódicos del país. <!-- feedback: Incorrecto. No es una obligación legal, sino un hábito de buen ciudadano informado. -->
-- [ ] D) Para perder el tiempo viendo la misma noticia muchas veces. <!-- feedback: Incorrecto. No es pérdida de tiempo, es formación de criterio. -->
+- [x] D) Para identificar diferentes puntos de vista y verificar si la información es real. <!-- feedback: Correcto. El contraste de fuentes es una habilidad del pensamiento crítico. -->
+- [ ] B) Porque es obligatorio por ley leer todos los periódicos del país. <!-- feedback: Incorrecto. No es una obligación legal, sino un hábito de buen ciudadano informado. -->
+- [ ] C) Para perder el tiempo viendo la misma noticia muchas veces. <!-- feedback: Incorrecto. No es pérdida de tiempo, es formación de criterio. -->
 
 ### Explicacion Pedagogica
 El pensamiento crítico frente a los medios implica reconocer que la información es una construcción y que puede estar influenciada por intereses particulares.
@@ -184,8 +184,8 @@ El pensamiento crítico frente a los medios implica reconocer que la informació
 
 ### Opciones
 - [ ] A) Que solo se puede usar para jugar videojuegos. <!-- feedback: Incorrecto. Internet tiene múltiples usos informativos y educativos. -->
-- [ ] B) Que es mucho más lento para transmitir noticias. <!-- feedback: Incorrecto. Al contrario, internet es instantáneo. -->
-- [x] C) La interactividad y la posibilidad de que el receptor también sea creador de contenido. <!-- feedback: Correcto. En internet el usuario deja de ser pasivo y puede comentar, compartir y publicar. -->
+- [ ] C) Que es mucho más lento para transmitir noticias. <!-- feedback: Incorrecto. Al contrario, internet es instantáneo. -->
+- [x] B) La interactividad y la posibilidad de que el receptor también sea creador de contenido. <!-- feedback: Correcto. En internet el usuario deja de ser pasivo y puede comentar, compartir y publicar. -->
 - [ ] D) Que no permite el uso de imágenes ni sonidos. <!-- feedback: Incorrecto. Internet es el medio multimedia por excelencia. -->
 
 ### Explicacion Pedagogica
@@ -204,10 +204,10 @@ La convergencia digital permite que internet funcione como un medio global que i
 Si una persona está conduciendo su vehículo camino al trabajo, ¿cuál medio de comunicación es el más adecuado para informarse sin poner en riesgo su seguridad?
 
 ### Opciones
-- [x] A) La radio. <!-- feedback: Correcto. Es un medio auditivo que permite realizar otras actividades manuales y visuales mientras se escucha. -->
-- [ ] B) El periódico impreso. <!-- feedback: Incorrecto. Leer mientras se conduce es extremadamente peligroso. -->
-- [ ] C) Una revista de análisis político. <!-- feedback: Incorrecto. Requiere atención visual completa. -->
-- [ ] D) La televisión de alta definición. <!-- feedback: Incorrecto. Distrae la vista de la carretera. -->
+- [x] D) La radio. <!-- feedback: Correcto. Es un medio auditivo que permite realizar otras actividades manuales y visuales mientras se escucha. -->
+- [ ] A) El periódico impreso. <!-- feedback: Incorrecto. Leer mientras se conduce es extremadamente peligroso. -->
+- [ ] B) Una revista de análisis político. <!-- feedback: Incorrecto. Requiere atención visual completa. -->
+- [ ] C) La televisión de alta definición. <!-- feedback: Incorrecto. Distrae la vista de la carretera. -->
 
 ### Explicacion Pedagogica
 La adecuación del medio depende del contexto del receptor. La radio permite la simultaneidad de tareas, lo que la hace el medio preferido para conductores y personas que realizan labores manuales.
@@ -226,8 +226,8 @@ La adecuación del medio depende del contexto del receptor. La radio permite la 
 
 ### Opciones
 - [ ] A) El derecho a ganar dinero a cualquier costo. <!-- feedback: Incorrecto. El lucro no está por encima de los derechos humanos. -->
-- [x] B) El derecho a la intimidad y al buen nombre de las personas. <!-- feedback: Correcto. La libertad de prensa tiene límites cuando choca con la dignidad humana. -->
-- [ ] C) La obligación de publicar solo noticias que sean divertidas. <!-- feedback: Incorrecto. Las noticias serias son necesarias aunque no sean divertidas. -->
+- [x] C) El derecho a la intimidad y al buen nombre de las personas. <!-- feedback: Correcto. La libertad de prensa tiene límites cuando choca con la dignidad humana. -->
+- [ ] B) La obligación de publicar solo noticias que sean divertidas. <!-- feedback: Incorrecto. Las noticias serias son necesarias aunque no sean divertidas. -->
 - [ ] D) Ninguno, los medios pueden publicar lo que quieran sin restricciones. <!-- feedback: Incorrecto. Existen leyes y códigos de ética que regulan la actividad periodística. -->
 
 ### Explicacion Pedagogica

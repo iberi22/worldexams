@@ -34,11 +34,11 @@ Tiempos, secuencias, tramas complejas y la construcción del espacio ficcional.
 ¿Qué logro estructural alcanza el autor al anticipar el desenlace desde el inicio de la novela (prolepsis inicial)?
 
 ### Opciones
-- [x] A) Desplaza el interés del lector del "¿qué pasará al final?" hacia el "cómo y por qué nadie evitó la tragedia anunciada".
+- [x] C) Desplaza el interés del lector del "¿qué pasará al final?" hacia el "cómo y por qué nadie evitó la tragedia anunciada".
   <!-- feedback: Al revelar el destino final, la tensión se traslada al engranaje de fatalidades, cobardías e incomprensiones que provocaron el crimen. -->
-- [ ] B) Arruina la trama detectivesca provocando que los lectores abandonen el libro en la primera página.
+- [ ] A) Arruina la trama detectivesca provocando que los lectores abandonen el libro en la primera página.
   <!-- feedback: García Márquez convierte la revelación del crimen en un mecanismo de suspenso e indignación trágica superior. -->
-- [ ] C) Demuestra que los hermanos Vicario eran inocentes y no cometieron ningún delito.
+- [ ] B) Demuestra que los hermanos Vicario eran inocentes y no cometieron ningún delito.
   <!-- feedback: La obra confirma desde el inicio la autoría del crimen por motivos de honor familiar. -->
 - [ ] D) Sustituye la estructura de novela por una guía turística sobre los puertos del río Magdalena.
   <!-- feedback: Mantiene una densa arquitectura narrativa que combina la crónica, el testimonio y el destino trágico. -->
@@ -57,13 +57,13 @@ La prolepsis inicial en *Crónica de una muerte anunciada* redefine el pacto de 
 ¿Qué efecto produce intercalar documentos de tono oficial dentro de la estructura de la novela?
 
 ### Opciones
-- [x] A) Denuncia el lenguaje deshumanizador del Estado que legitima la violencia legal frente al dolor de los trabajadores.
+- [x] D) Denuncia el lenguaje deshumanizador del Estado que legitima la violencia legal frente al dolor de los trabajadores.
   <!-- feedback: El decreto frio y burocrático contrapone la violencia institucional con la voz trágica del pueblo arrasado. -->
-- [ ] B) Prueba la estricta imparcialidad y benevolencia de la compañía bananera en el conflicto.
+- [ ] A) Prueba la estricta imparcialidad y benevolencia de la compañía bananera en el conflicto.
   <!-- feedback: El texto expone precisamente la arbitrariedad y connivencia entre las fuerzas militares y la multinacional. -->
-- [ ] C) Indica que la novela fue escrita por un secretario del Ministerio de Guerra.
+- [ ] B) Indica que la novela fue escrita por un secretario del Ministerio de Guerra.
   <!-- feedback: Cepeda Samudio utiliza el documento como recurso estético de montaje vanguardista. -->
-- [ ] D) Elimina de la obra cualquier elemento de ficción o valor estético.
+- [ ] C) Elimina de la obra cualquier elemento de ficción o valor estético.
   <!-- feedback: El montaje documental enriquece la polifonía y el compromiso crítico de la novela. -->
 
 ### Explicacion Pedagogica
@@ -80,9 +80,9 @@ La técnica del montaje de textos oficiales en la novela moderna expone la viole
 ¿Qué función cumple la estructura de relatos enmarcados (historias dentro de historias) en la novela?
 
 ### Opciones
-- [x] A) Ampliar el testimonio de la explotación amazónica incorporando la voz de las víctimas directas que vivieron el infierno del caucho.
+- [x] B) Ampliar el testimonio de la explotación amazónica incorporando la voz de las víctimas directas que vivieron el infierno del caucho.
   <!-- feedback: La historia de Clemente Silva aporta veracidad, crudeza y contrapunto al relato pasional de Cova. -->
-- [ ] B) Confundir la cronología para que el lector no sepa en qué país transcurre la acción.
+- [ ] A) Confundir la cronología para que el lector no sepa en qué país transcurre la acción.
   <!-- feedback: Las historias enmarcadas están claramente ubicadas en la cuenca del Amazonas y el Putumayo. -->
 - [ ] C) Demostrar que los caucheros vivían en condiciones de lujo y comodidad.
   <!-- feedback: El relato de Silva visibiliza la esclavitud, las torturas y la fiebre en la selva. -->
@@ -103,9 +103,9 @@ Las historias enmarcadas en *La vorágine* otorgan densidad documental y polifon
 ¿Qué relación se establece entre el "tiempo de la historia" (cronológico) y el "tiempo del relato" (duración verbal)?
 
 ### Opciones
-- [x] A) Se produce una dilatación temporal donde el tiempo del relato se expande mediante la memoria y la introspección de las vidas pasadas.
+- [x] B) Se produce una dilatación temporal donde el tiempo del relato se expande mediante la memoria y la introspección de las vidas pasadas.
   <!-- feedback: El tiempo presente de la boda funciona como un ancla desde donde la prosa se dilata explorando tres décadas de recuerdos. -->
-- [ ] B) Demuestra que el reloj de la iglesia estaba detenido por falta de mantenimiento.
+- [ ] A) Demuestra que el reloj de la iglesia estaba detenido por falta de mantenimiento.
   <!-- feedback: No es un fallo del reloj sino un procedimiento de diseño narrativo de manipulación temporal. -->
 - [ ] C) Afirma que las dos horas reales duraron exactamente treinta años solares en la Tierra.
   <!-- feedback: Diferencia el tiempo físico del evento del tiempo psíquico narrado en la novela. -->
@@ -149,9 +149,9 @@ El inicio *in media res* dinamiza la entrada al universo ficcional al situar al 
 ¿Cómo articula esta célebre oración el pasado, el presente y el futuro en la estructura de la obra?
 
 ### Opciones
-- [x] A) Engarza tres tiempos en un solo movimiento sintáctico: un futuro del pasado (pelotón) que evoca un pasado remoto (el hielo) desde el presente del relato.
+- [x] B) Engarza tres tiempos en un solo movimiento sintáctico: un futuro del pasado (pelotón) que evoca un pasado remoto (el hielo) desde el presente del relato.
   <!-- feedback: García Márquez crea un bucle temporal perfecto que condensa la memoria, el destino y la nostalgia en una sola clausula magistral. -->
-- [ ] B) Demuestra que el coronel Aureliano Buendía murió congelado en un experimento científico.
+- [ ] A) Demuestra que el coronel Aureliano Buendía murió congelado en un experimento científico.
   <!-- feedback: La frase evoca la fascinación infantil del personaje ante el hielo traído por los gitanos. -->
 - [ ] C) Indica que la novela fue redactada por un historiador español del siglo XVI.
   <!-- feedback: Es una frase de apertura moderna que inaugura la epopeya mítica de Macondo. -->
@@ -195,13 +195,13 @@ La pausa descriptiva en el relato de suspenso dilata la espera y carga el espaci
 ¿Qué procedimiento de manipulación temporal se aplica al resumir un largo periodo en pocas palabras (elipsis / resumen)?
 
 ### Opciones
-- [x] A) Acelera el ritmo narrativo suprimiendo la monotonía del encierro para centrar la atención en los momentos de mayor impacto dramático.
+- [x] D) Acelera el ritmo narrativo suprimiendo la monotonía del encierro para centrar la atención en los momentos de mayor impacto dramático.
   <!-- feedback: El resumen o elipsis economiza el tiempo del relato seleccionando únicamente los hitos decisivos de la biografía del héroe. -->
-- [ ] B) Demuestra que las prisiones coloniales no tenían importancia para la historia del país.
+- [ ] A) Demuestra que las prisiones coloniales no tenían importancia para la historia del país.
   <!-- feedback: Omite los detalles cotidianos del encierro para mantener el dinamismo de la narración. -->
-- [ ] C) Indica que el autor perdió las páginas donde describía la vida en la cárcel.
+- [ ] B) Indica que el autor perdió las páginas donde describía la vida en la cárcel.
   <!-- feedback: Es una técnica consciente de dosificación temporal de la prosa. -->
-- [ ] D) Obliga al lector a investigar en archivos históricos qué comía el preso cada día.
+- [ ] C) Obliga al lector a investigar en archivos históricos qué comía el preso cada día.
   <!-- feedback: El texto ofrece una experiencia estética autónoma mediante la síntesis narrativa. -->
 
 ### Explicacion Pedagogica
@@ -218,9 +218,9 @@ El resumen y la elipsis son mecanismos de economía narrativa que aceleran el ri
 ¿Cómo funciona el espacio cerrado de la casa burguesa en la economía simbólica de la novela?
 
 ### Opciones
-- [x] A) Refleja la decadencia moral, el ahogo y las apariencias de una clase social que oculta sus traumas y la locura tras muros solemnes.
+- [x] B) Refleja la decadencia moral, el ahogo y las apariencias de una clase social que oculta sus traumas y la locura tras muros solemnes.
   <!-- feedback: La casa de Agustina es un microcosmos de la sociedad tradicional bogotana que prefiere el silencio y el encierro antes que enfrentar la verdad. -->
-- [ ] B) Muestra una arquitectura idílica admirada por los urbanistas de todo el mundo.
+- [ ] A) Muestra una arquitectura idílica admirada por los urbanistas de todo el mundo.
   <!-- feedback: El espacio doméstico se describe con opresión, sombras y fracturas ocultas. -->
 - [ ] C) Demuestra que la familia se dedicaba al comercio de espejos importados de Europa.
   <!-- feedback: Los espejos cubiertos simbolizan el miedo a mirar la propia imagen y la locura. -->
@@ -241,9 +241,9 @@ El espacio doméstico en *Delirio* funciona como espejo de las fisuras morales, 
 ¿Qué sentido filosófico transmite una estructura narrativa circular?
 
 ### Opciones
-- [x] A) Evoca la imposibilidad de escapar del destino, la repetición del error o la condena a un bucle temporal insuperable.
+- [x] B) Evoca la imposibilidad de escapar del destino, la repetición del error o la condena a un bucle temporal insuperable.
   <!-- feedback: La circularidad quiebra la ilusión de progreso lineal, atrapando al personaje en una condena o mito de eterno retorno. -->
-- [ ] B) Demuestra que la empresa de tranvías tenía un solo tipo de tiquete a la venta.
+- [ ] A) Demuestra que la empresa de tranvías tenía un solo tipo de tiquete a la venta.
   <!-- feedback: El tiquete repetido es la marca simbólica del atrapamiento en el bucle. -->
 - [ ] C) Indica que el cuento debe ser leído dos veces seguidas para que la imprenta cobre el doble.
   <!-- feedback: Es una propuesta de clausura estética sobre la fatalidad y el tiempo. -->
@@ -287,11 +287,11 @@ El contrapunto espacial en *La vorágine* simboliza el tránsito de la libertad 
 ¿Qué papel cumple el "pasquín anónimo" como motor de la trama y la tensión social en la novela?
 
 ### Opciones
-- [x] A) Funciona como un catalizador invisible del pavor, la desconfianza colectiva y el afloramiento del odio en una comunidad dividida.
+- [x] C) Funciona como un catalizador invisible del pavor, la desconfianza colectiva y el afloramiento del odio en una comunidad dividida.
   <!-- feedback: El pasquín no crea los secretos pero los saca a la luz, desatando la paranoia, la violencia soterrada y la descomposición del pueblo. -->
-- [ ] B) Demuestra que todos los habitantes del pueblo tenían excelente caligrafía.
+- [ ] A) Demuestra que todos los habitantes del pueblo tenían excelente caligrafía.
   <!-- feedback: El valor del pasquín no es gráfico sino su poder de fractura social y delación. -->
-- [ ] C) Muestra que el alcalde era un poeta aficionado que regalaba sus versos por las noches.
+- [ ] B) Muestra que el alcalde era un poeta aficionado que regalaba sus versos por las noches.
   <!-- feedback: El pasquín es un arma de difamación y terror moral que desestabiliza a la comunidad. -->
 - [ ] D) Es una estrategia publicitaria de un periódico de Bogotá para vender suscripciones.
   <!-- feedback: Representa la violencia moral que acompaña a la represión política en el pueblo. -->
@@ -310,11 +310,11 @@ El pasquín anónimo en *La mala hora* desencadena la paranoia colectiva y expon
 ¿Qué aporta el contrapunto o montaje paralelo de acciones simultáneas a la estructura de la novela urbana?
 
 ### Opciones
-- [x] A) Construye una red de tensión convergente que muestra cómo destinos aparentemente ajenos caminan hacia la misma tragedia colectiva.
+- [x] C) Construye una red de tensión convergente que muestra cómo destinos aparentemente ajenos caminan hacia la misma tragedia colectiva.
   <!-- feedback: El montaje paralelo genera un ritmo trepidante y revela las invisibles conexiones de la alienación y el mal en la gran ciudad. -->
-- [ ] B) Garantiza que los tres personajes se conocieran desde la infancia y vivieran en la misma casa.
+- [ ] A) Garantiza que los tres personajes se conocieran desde la infancia y vivieran en la misma casa.
   <!-- feedback: Los personajes no se conocen previamente; la estructura los reúne fatalmente al final. -->
-- [ ] C) Demuestra que el transporte público de Bogotá funcionaba con absoluta puntualidad.
+- [ ] B) Demuestra que el transporte público de Bogotá funcionaba con absoluta puntualidad.
   <!-- feedback: El mapa urbano se describe como hostil, caótico y saturado de tensión. -->
 - [ ] D) Elimina de la novela cualquier tipo de desenlace dramático.
   <!-- feedback: El montaje paralelo acelera el ritmo hacia el estallido inevitable del clímax. -->
@@ -333,9 +333,9 @@ La estructura de contrapunto simultáneo en la novela urbana teje una red de vid
 ¿Qué relación existe entre la fragmentación de la estructura espacial y la disolución de la mente del narrador?
 
 ### Opciones
-- [x] A) La arquitectura laberíntica y decrepita del edificio materializa formalmente el colapso psíquico y la pérdida de identidad del personaje.
+- [x] B) La arquitectura laberíntica y decrepita del edificio materializa formalmente el colapso psíquico y la pérdida de identidad del personaje.
   <!-- feedback: Donoso funde el espacio físico con la pesadilla mental del Mudito, creando un universo donde los muros reflejan la demencia. -->
-- [ ] B) Demuestra que la residencia de ancianos requería una inversión en pintura de pared.
+- [ ] A) Demuestra que la residencia de ancianos requería una inversión en pintura de pared.
   <!-- feedback: El espacio fúnebre y laberíntico es una construcción metafórica de la decadencia. -->
 - [ ] C) Indica que el libro fue escrito para enseñar arquitectura de hospitales en Chile.
   <!-- feedback: Es una de las cumbres de la novela gótica y de la descomposición de la voz narrativa en el Boom. -->
@@ -356,11 +356,11 @@ La disolución del espacio y la voz narrativa en Donoso materializan la pesadill
 ¿Qué función cumple el "espacio de la noche veredal" como marco de la narrativa de tradición oral?
 
 ### Opciones
-- [x] A) Configura un territorio de misterio y respeto comunitario donde las normas del mundo diurno se suspenden ante lo sagrado y lo mítico.
+- [x] C) Configura un territorio de misterio y respeto comunitario donde las normas del mundo diurno se suspenden ante lo sagrado y lo mítico.
   <!-- feedback: La noche veredal es el escenario perfecto para el mito oral, donde el silencio y la penumbra alimentan la fe en lo prodigioso. -->
-- [ ] B) Demuestra que las veredas colombianas carecían de alumbrado público en el siglo XVIII.
+- [ ] A) Demuestra que las veredas colombianas carecían de alumbrado público en el siglo XVIII.
   <!-- feedback: Aunque refleja la oscuridad física, su valor en el cuento es la creación del espacio mítico. -->
-- [ ] C) Prohíbe a los campesinos salir a trabajar durante las horas de la mañana.
+- [ ] B) Prohíbe a los campesinos salir a trabajar durante las horas de la mañana.
   <!-- feedback: El mito nocturno educa la conducta y transmite valores sin alterar el trabajo diurno. -->
 - [ ] D) Transforma el cuento en una lección sobre la reparación de ruedas de madera.
   <!-- feedback: La carreta fantasma es un símbolo de advertencia moral y memoria ancestral. -->
@@ -379,11 +379,11 @@ El espacio nocturno en la narrativa oral favorece la suspensión de la increduli
 ¿Qué impacto produce el "desenlace trunco o abierto" en la lectura de un relato policíaco o institucional?
 
 ### Opciones
-- [x] A) Descoloca la expectativa de justicia del lector, obligándolo a reflexionar sobre la impunidad y la fragilidad del sistema legal.
+- [x] C) Descoloca la expectativa de justicia del lector, obligándolo a reflexionar sobre la impunidad y la fragilidad del sistema legal.
   <!-- feedback: Al negar el final feliz o la resolución del enigma, el relato abierto traslada la inquietud ética al plano de la realidad social. -->
-- [ ] B) Prueba que el autor perdió las últimas páginas del manuscrito antes de entregarlo a la imprenta.
+- [ ] A) Prueba que el autor perdió las últimas páginas del manuscrito antes de entregarlo a la imprenta.
   <!-- feedback: El final abierto en la literatura contemporánea es una decisión deliberada de crítica social y estética. -->
-- [ ] C) Asegura que el maletín será encontrado por los lectores si visitan el edificio real.
+- [ ] B) Asegura que el maletín será encontrado por los lectores si visitan el edificio real.
   <!-- feedback: Es un artefacto ficcional que simboliza la pérdida de la verdad en la burocracia. -->
 - [ ] D) Elimina cualquier valor literario del texto por no encarcelar al culpable.
   <!-- feedback: Precisamente su valor crítico reside en dejar expuesta la impunidad del poder. -->
@@ -402,9 +402,9 @@ El final abierto en el relato de denuncia institucional cuestiona la ilusión de
 ¿Qué sugiere la elección de estos tres títulos para la estructura de la obra?
 
 ### Opciones
-- [x] A) Anticipa el ciclo vital de nacimiento, esplendor y destrucción trágica del proyecto humano en el territorio.
+- [x] B) Anticipa el ciclo vital de nacimiento, esplendor y destrucción trágica del proyecto humano en el territorio.
   <!-- feedback: Los nombres de los capítulos funcionan como metáforas orgánicas que marcan el ascenso y la ruina inevitable de la comunidad. -->
-- [ ] B) Indica que la novela es un manual práctico para el cultivo de plantas florales.
+- [ ] A) Indica que la novela es un manual práctico para el cultivo de plantas florales.
   <!-- feedback: Los títulos metafóricos señalan las etapas del drama humano, no instrucciones agrícolas. -->
 - [ ] C) Muestra que el autor desconocía los nombres de los meses del año solar.
   <!-- feedback: Usa una nomenclatura simbólica para estructurar la progresión del argumento. -->
@@ -425,13 +425,13 @@ La titulación metafórica de las partes de una novela anticipa la parábola tr�
 ¿Qué revelación metaficcional produce el momento en que Aureliano Babilonia descifra los pergaminos al final de la novela?
 
 ### Opciones
-- [x] A) Descubre que el tiempo de Macondo era un ciclo ya escrito y que la lectura del manuscrito coincide con la destrucción final del pueblo por el viento.
+- [x] D) Descubre que el tiempo de Macondo era un ciclo ya escrito y que la lectura del manuscrito coincide con la destrucción final del pueblo por el viento.
   <!-- feedback: La lectura del manuscrito por Aureliano clausura la novela: el texto se devora a sí mismo cuando la ficción coincide con la realidad. -->
-- [ ] B) Prueba que Melquíades era un profesor de idiomas contratado por la alcaldía.
+- [ ] A) Prueba que Melquíades era un profesor de idiomas contratado por la alcaldía.
   <!-- feedback: Melquíades representa al sabio mítico y la figura del propio narrador demiurgo. -->
-- [ ] C) Indica que los habitantes de Macondo debían emigrar hacia la India inmediatamente.
+- [ ] B) Indica que los habitantes de Macondo debían emigrar hacia la India inmediatamente.
   <!-- feedback: Los pergaminos profetizan la condena a la soledad y la extinción de la estirpe. -->
-- [ ] D) Demuestra que la novela fue escrita en sánscrito para que nadie pudiera leerla.
+- [ ] C) Demuestra que la novela fue escrita en sánscrito para que nadie pudiera leerla.
   <!-- feedback: El sánscrito es la clave secreta que al ser traducida al español cierra el universo de Macondo. -->
 
 ### Explicacion Pedagogica
@@ -448,13 +448,13 @@ La descodificación de los manuscritos de Melquíades es una de las cumbres de l
 ¿Qué efecto produce la simultaneidad entre la gesta deportiva en Europa y la recepción popular por radio en el campo?
 
 ### Opciones
-- [x] A) Construye un espacio afectivo compartido que une la distancia geográfica mediante la emoción colectiva y la identidad nacional.
+- [x] D) Construye un espacio afectivo compartido que une la distancia geográfica mediante la emoción colectiva y la identidad nacional.
   <!-- feedback: La narración paralela muestra cómo la radio transforma el pedaleo distante en un mito identitario vivido en tiempo real por los campesinos. -->
-- [ ] B) Demuestra que las transmisiones de radio eran más rápidas que la velocidad de la luz.
+- [ ] A) Demuestra que las transmisiones de radio eran más rápidas que la velocidad de la luz.
   <!-- feedback: Resalta la función social de la radio como creadora de comunidad e imaginarios compartidos. -->
-- [ ] C) Afirma que los campesinos preferían viajar en bicicleta antes que cultivar la tierra.
+- [ ] B) Afirma que los campesinos preferían viajar en bicicleta antes que cultivar la tierra.
   <!-- feedback: El relato celebra la pasión popular por el ciclismo como símbolo de tenacidad. -->
-- [ ] D) Elimina el suspenso de la carrera deportiva al revelar quién ganó el trofeo.
+- [ ] C) Elimina el suspenso de la carrera deportiva al revelar quién ganó el trofeo.
   <!-- feedback: Mantiene la tensión alternando el sufrimiento en la rampa con la angustia frente al radio. -->
 
 ### Explicacion Pedagogica
@@ -471,9 +471,9 @@ El montaje paralelo entre la transmisión radial y la escucha campesina retrata 
 ¿Qué juicio crítico sobre el análisis literario fundamenta esta afirmación?
 
 ### Opciones
-- [x] A) Sostiene que las decisiones formales (tiempo, espacio, voz, secuencia) son elecciones ideológicas y estéticas inseparables del contenido.
+- [x] B) Sostiene que las decisiones formales (tiempo, espacio, voz, secuencia) son elecciones ideológicas y estéticas inseparables del contenido.
   <!-- feedback: La estructura narrativa es en sí misma lenguaje y significado: la manera como se cuenta una historia determina lo que la historia significa. -->
-- [ ] B) Afirma que el contenido de un libro no tiene ninguna importancia frente al color de la portada.
+- [ ] A) Afirma que el contenido de un libro no tiene ninguna importancia frente al color de la portada.
   <!-- feedback: Destaca la unidad indisoluble entre forma artística y significado profundo. -->
 - [ ] C) Sugiere que las novelas deben escribirse sin ningún tipo de división en capítulos.
   <!-- feedback: Defiende la libertad de diseño formal como garante del efecto literario. -->

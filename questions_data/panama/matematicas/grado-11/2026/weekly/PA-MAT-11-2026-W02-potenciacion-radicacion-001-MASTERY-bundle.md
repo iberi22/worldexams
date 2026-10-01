@@ -30,8 +30,8 @@ bundle_index: 1
 
 ### Opciones
 - [ ] A) $x^2$ <!-- feedback: Incorrecto. Esta operación correspondería a una división de potencias con la misma base. -->
-- [ ] B) $x^{15}$ <!-- feedback: Incorrecto. No se multiplican los exponentes cuando las bases se están multiplicando. -->
-- [x] C) $x^8$ <!-- feedback: Correcto. Según la ley de potencias, al multiplicar potencias de la misma base, se suman los exponentes: 5 + 3 = 8. -->
+- [ ] C) $x^{15}$ <!-- feedback: Incorrecto. No se multiplican los exponentes cuando las bases se están multiplicando. -->
+- [x] B) $x^8$ <!-- feedback: Correcto. Según la ley de potencias, al multiplicar potencias de la misma base, se suman los exponentes: 5 + 3 = 8. -->
 - [ ] D) $2x^8$ <!-- feedback: Incorrecto. El coeficiente no cambia a menos que haya bases numéricas explícitas multiplicándose. -->
 
 ### Explicacion Pedagogica
@@ -50,8 +50,8 @@ Identificación y aplicación de la ley de producto de potencias con la misma ba
 Si el lado del tablero mide $2^4$ cm, ¿cuál es su área expresada como una potencia de 2?
 
 ### Opciones
-- [ ] A) $2^6$ $\text{cm}^2$ <!-- feedback: Incorrecto. El área de un cuadrado es lado al cuadrado, no sumarle 2 al exponente. -->
-- [x] B) $2^8$ $\text{cm}^2$ <!-- feedback: Correcto. Área = (2^4)^2. Por la ley de potencia de una potencia, se multiplican los exponentes: 4 x 2 = 8. -->
+- [ ] B) $2^6$ $\text{cm}^2$ <!-- feedback: Incorrecto. El área de un cuadrado es lado al cuadrado, no sumarle 2 al exponente. -->
+- [x] A) $2^8$ $\text{cm}^2$ <!-- feedback: Correcto. Área = (2^4)^2. Por la ley de potencia de una potencia, se multiplican los exponentes: 4 x 2 = 8. -->
 - [ ] C) $4^4$ $\text{cm}^2$ <!-- feedback: Aunque numéricamente es igual, la pregunta pide expresarlo como una potencia de base 2. -->
 - [ ] D) $2^{16}$ $\text{cm}^2$ <!-- feedback: Incorrecto. Se elevó el exponente al cuadrado (4^2) en lugar de multiplicarlo por 2. -->
 
@@ -73,8 +73,8 @@ Comprensión de la ley de potencia de una potencia y su aplicación en el cálcu
 ### Opciones
 - [ ] A) $-10$ <!-- feedback: Incorrecto. Un exponente negativo no indica una multiplicación por -2 ni un resultado negativo. -->
 - [ ] B) $-25$ <!-- feedback: Incorrecto. Confusión entre el signo del exponente y el signo del resultado final. -->
-- [x] C) $1/25$ <!-- feedback: Correcto. Por definición, a^{-n} = 1/a^n. Así, 5^{-2} = 1/5^2 = 1/25. -->
-- [ ] D) $0.2$ <!-- feedback: Incorrecto. Este es el resultado de 5^{-1}, no de 5^{-2}. -->
+- [x] D) $1/25$ <!-- feedback: Correcto. Por definición, a^{-n} = 1/a^n. Así, 5^{-2} = 1/5^2 = 1/25. -->
+- [ ] C) $0.2$ <!-- feedback: Incorrecto. Este es el resultado de 5^{-1}, no de 5^{-2}. -->
 
 ### Explicacion Pedagogica
 Definición y manejo de exponentes negativos para la conversión de potencias en fracciones recíprocas.
@@ -93,9 +93,9 @@ Definición y manejo de exponentes negativos para la conversión de potencias en
 
 ### Opciones
 - [ ] A) $x^{5/3}$ <!-- feedback: Incorrecto. El índice de la raíz debe ser el denominador de la fracción, no el numerador. -->
-- [x] B) $x^{3/5}$ <!-- feedback: Correcto. Por la relación entre radicales y potencias, la raíz n-ésima de x^m es x^{m/n}. -->
-- [ ] C) $x^2$ <!-- feedback: Incorrecto. La radicación no consiste en realizar una resta entre el exponente y el índice. -->
-- [ ] D) $x^{15}$ <!-- feedback: Incorrecto. Se multiplicaron el exponente y el índice en lugar de formar una fracción. -->
+- [x] D) $x^{3/5}$ <!-- feedback: Correcto. Por la relación entre radicales y potencias, la raíz n-ésima de x^m es x^{m/n}. -->
+- [ ] B) $x^2$ <!-- feedback: Incorrecto. La radicación no consiste en realizar una resta entre el exponente y el índice. -->
+- [ ] C) $x^{15}$ <!-- feedback: Incorrecto. Se multiplicaron el exponente y el índice en lugar de formar una fracción. -->
 
 ### Explicacion Pedagogica
 Conversión entre la notación de radicales y la notación de potencias con exponentes fraccionarios.
@@ -114,9 +114,9 @@ Si la población inicial es de $3^2$ bacterias, ¿cuántas habrá después de 4 
 
 ### Opciones
 - [ ] A) $3^4$ <!-- feedback: Incorrecto. Este sería el factor de crecimiento acumulado, pero falta multiplicar por la cantidad inicial. -->
-- [x] B) $3^6$ <!-- feedback: Correcto. Cantidad = Inicial x Factor. 3^2 * 3^4 = 3^{2+4} = 3^6. -->
-- [ ] C) $3^8$ <!-- feedback: Incorrecto. Se multiplicaron los exponentes en lugar de sumarlos durante la operación de bases iguales. -->
-- [ ] D) $9^6$ <!-- feedback: Incorrecto. No se debe cambiar la base del sistema si se opera con potencias de base 3 únicamente. -->
+- [x] D) $3^6$ <!-- feedback: Correcto. Cantidad = Inicial x Factor. 3^2 * 3^4 = 3^{2+4} = 3^6. -->
+- [ ] B) $3^8$ <!-- feedback: Incorrecto. Se multiplicaron los exponentes en lugar de sumarlos durante la operación de bases iguales. -->
+- [ ] C) $9^6$ <!-- feedback: Incorrecto. No se debe cambiar la base del sistema si se opera con potencias de base 3 únicamente. -->
 
 ### Explicacion Pedagogica
 Aplicación de las leyes de los exponentes en modelos de crecimiento exponencial biológico.
@@ -135,8 +135,8 @@ Simplifica la expresión $\frac{(a^2 b^3)^2}{a^3 b^4}$.
 
 ### Opciones
 - [ ] A) $a^7 b^{10}$ <!-- feedback: Incorrecto. Se sumaron todos los exponentes en lugar de aplicar las reglas de división y potencia. -->
-- [x] B) $a b^2$ <!-- feedback: Correcto. Numerador: a^4 b^6. Al dividir por el denominador: a^{4-3} b^{6-4} = a^1 b^2. -->
-- [ ] C) $a^4 b^6$ <!-- feedback: Incorrecto. Esta es solo la simplificación del numerador; se omitió la división por el denominador. -->
+- [x] C) $a b^2$ <!-- feedback: Correcto. Numerador: a^4 b^6. Al dividir por el denominador: a^{4-3} b^{6-4} = a^1 b^2. -->
+- [ ] B) $a^4 b^6$ <!-- feedback: Incorrecto. Esta es solo la simplificación del numerador; se omitió la división por el denominador. -->
 - [ ] D) $a^2 b^2$ <!-- feedback: Incorrecto. Error al restar los exponentes de la variable "a" tras elevarla al cuadrado. -->
 
 ### Explicacion Pedagogica
@@ -157,8 +157,8 @@ Simplifica el radical $\sqrt{72}$ a su forma más sencilla $a\sqrt{b}$.
 ### Opciones
 - [ ] A) $2\sqrt{18}$ <!-- feedback: Incompleto. Aunque es válido, el 18 todavía tiene factores que pueden salir de la raíz cuadrada. -->
 - [ ] B) $3\sqrt{8}$ <!-- feedback: Incompleto. El 8 contiene el factor 4, el cual es un cuadrado perfecto que debe extraerse. -->
-- [x] C) $6\sqrt{2}$ <!-- feedback: Correcto. 72 = 36 * 2. La raíz de 36 es 6, quedando el factor 2 dentro del radical. -->
-- [ ] D) $12\sqrt{2}$ <!-- feedback: Incorrecto. Error al extraer la raíz de 36; la raíz cuadrada de 36 es 6, no 12. -->
+- [x] D) $6\sqrt{2}$ <!-- feedback: Correcto. 72 = 36 * 2. La raíz de 36 es 6, quedando el factor 2 dentro del radical. -->
+- [ ] C) $12\sqrt{2}$ <!-- feedback: Incorrecto. Error al extraer la raíz de 36; la raíz cuadrada de 36 es 6, no 12. -->
 
 ### Explicacion Pedagogica
 Procedimiento de simplificación de radicales mediante la extracción de factores que son cuadrados perfectos.
@@ -177,9 +177,9 @@ Procedimiento de simplificación de radicales mediante la extracción de factore
 
 ### Opciones
 - [ ] A) 18 <!-- feedback: Incorrecto. Probablemente se realizó una multiplicación directa de 27 por 2/3. -->
-- [x] B) 9 <!-- feedback: Correcto. Corresponde a la raíz cúbica de 27 elevada al cuadrado: 3^2 = 9. -->
-- [ ] C) 3 <!-- feedback: Incorrecto. Este es el resultado de la raíz cúbica únicamente; falta elevarlo a la potencia 2. -->
-- [ ] D) 81 <!-- feedback: Incorrecto. Se elevó al cubo en lugar de extraer la raíz cúbica indicada en el denominador. -->
+- [x] D) 9 <!-- feedback: Correcto. Corresponde a la raíz cúbica de 27 elevada al cuadrado: 3^2 = 9. -->
+- [ ] B) 3 <!-- feedback: Incorrecto. Este es el resultado de la raíz cúbica únicamente; falta elevarlo a la potencia 2. -->
+- [ ] C) 81 <!-- feedback: Incorrecto. Se elevó al cubo en lugar de extraer la raíz cúbica indicada en el denominador. -->
 
 ### Explicacion Pedagogica
 Evaluación de potencias con exponentes fraccionarios combinando radicación y potenciación.
@@ -197,8 +197,8 @@ Evaluación de potencias con exponentes fraccionarios combinando radicación y p
 ¿Cuál es el resultado de racionalizar el denominador de la expresión $\frac{5}{\sqrt{2}}$?
 
 ### Opciones
-- [ ] A) $5\sqrt{2}$ <!-- feedback: Incorrecto. Al multiplicar por la unidad en forma de raíz, el denominador se convierte en 2. -->
-- [x] B) $\frac{5\sqrt{2}}{2}$ <!-- feedback: Correcto. Multiplicando numerador y denominador por raíz de 2 se elimina el radical de abajo. -->
+- [ ] B) $5\sqrt{2}$ <!-- feedback: Incorrecto. Al multiplicar por la unidad en forma de raíz, el denominador se convierte en 2. -->
+- [x] A) $\frac{5\sqrt{2}}{2}$ <!-- feedback: Correcto. Multiplicando numerador y denominador por raíz de 2 se elimina el radical de abajo. -->
 - [ ] C) $2.5$ <!-- feedback: Incorrecto. No se puede simplificar el 5 con la raíz de 2 como si fueran números enteros. -->
 - [ ] D) $\frac{\sqrt{10}}{2}$ <!-- feedback: Incorrecto. El coeficiente 5 no está dentro de una raíz para multiplicarse con el 2. -->
 
@@ -240,9 +240,9 @@ Simplifica y expresa con exponentes positivos: $\left(\frac{x^2 y^{-3}}{z^{-1}}\
 
 ### Opciones
 - [ ] A) $\frac{x^4 z^2}{y^6}$ <!-- feedback: Incorrecto. Error al invertir los términos debido al signo negativo del exponente exterior. -->
-- [x] B) $\frac{y^6}{x^4 z^2}$ <!-- feedback: Correcto. Aplicando el exponente -2: x^{-4} y^6 z^{-2}. Al pasar los negativos al denominador queda y^6 / (x^4 z^2). -->
-- [ ] C) $\frac{x^4 y^6}{z^2}$ <!-- feedback: Incorrecto. Se olvidó cambiar el signo de la potencia de "x" al cambiarla de posición. -->
-- [ ] D) $x^{-4} y^{-6} z^2$ <!-- feedback: Incorrecto. No se cumplió con la instrucción de expresar todos los exponentes como positivos. -->
+- [x] D) $\frac{y^6}{x^4 z^2}$ <!-- feedback: Correcto. Aplicando el exponente -2: x^{-4} y^6 z^{-2}. Al pasar los negativos al denominador queda y^6 / (x^4 z^2). -->
+- [ ] B) $\frac{x^4 y^6}{z^2}$ <!-- feedback: Incorrecto. Se olvidó cambiar el signo de la potencia de "x" al cambiarla de posición. -->
+- [ ] C) $x^{-4} y^{-6} z^2$ <!-- feedback: Incorrecto. No se cumplió con la instrucción de expresar todos los exponentes como positivos. -->
 
 ### Explicacion Pedagogica
 Simplificación de expresiones algebraicas complejas utilizando múltiples leyes de los exponentes.
@@ -261,8 +261,8 @@ Simplificación de expresiones algebraicas complejas utilizando múltiples leyes
 
 ### Opciones
 - [ ] A) $\sqrt[3]{2}$ <!-- feedback: Incorrecto. Multiplicar por este valor daría raíz cúbica de 4, la cual no es exacta. -->
-- [x] B) $\sqrt[3]{4}$ <!-- feedback: Correcto. Se necesita completar el cubo del radicando (2 * 4 = 8) para que la raíz cúbica sea un entero. -->
-- [ ] C) $\sqrt{2}$ <!-- feedback: Incorrecto. No se deben mezclar índices de raíces diferentes (cuadrada y cúbica) para racionalizar así. -->
+- [x] C) $\sqrt[3]{4}$ <!-- feedback: Correcto. Se necesita completar el cubo del radicando (2 * 4 = 8) para que la raíz cúbica sea un entero. -->
+- [ ] B) $\sqrt{2}$ <!-- feedback: Incorrecto. No se deben mezclar índices de raíces diferentes (cuadrada y cúbica) para racionalizar así. -->
 - [ ] D) 2 <!-- feedback: Incorrecto. La multiplicación por un entero no elimina el radical presente en el denominador. -->
 
 ### Explicacion Pedagogica
@@ -283,8 +283,8 @@ Calcula el producto y simplifica: $\sqrt{3x} \cdot \sqrt[3]{3x}$.
 ### Opciones
 - [ ] A) $\sqrt[6]{3x}$ <!-- feedback: Incorrecto. El índice común es 6, pero los exponentes del radicando también deben ajustarse. -->
 - [ ] B) $\sqrt[5]{(3x)^2}$ <!-- feedback: Incorrecto. No se deben sumar los índices de las raíces al realizar una multiplicación. -->
-- [x] C) $\sqrt[6]{(3x)^5}$ <!-- feedback: Correcto. Usando exponentes: (3x)^{1/2} * (3x)^{1/3} = (3x)^{3/6 + 2/6} = (3x)^{5/6}. -->
-- [ ] D) $3x$ <!-- feedback: Incorrecto. Este resultado solo sería válido si ambos factores fueran raíces cuadradas exactas. -->
+- [x] D) $\sqrt[6]{(3x)^5}$ <!-- feedback: Correcto. Usando exponentes: (3x)^{1/2} * (3x)^{1/3} = (3x)^{3/6 + 2/6} = (3x)^{5/6}. -->
+- [ ] C) $3x$ <!-- feedback: Incorrecto. Este resultado solo sería válido si ambos factores fueran raíces cuadradas exactas. -->
 
 ### Explicacion Pedagogica
 Multiplicación de radicales con diferentes índices mediante la conversión a exponentes fraccionarios.
@@ -303,8 +303,8 @@ Simplifica la expresión $\sqrt[3]{\sqrt{64x^{12}}}$.
 
 ### Opciones
 - [ ] A) $2x^6$ <!-- feedback: Incorrecto. Error al aplicar la raíz cúbica sobre la potencia de la variable x. -->
-- [x] B) $2x^2$ <!-- feedback: Correcto. Raíz cuadrada de 64x^{12} es 8x^6. Luego, la raíz cúbica de 8x^6 es 2x^2. -->
-- [ ] C) $4x^2$ <!-- feedback: Incorrecto. Se extrajo mal la raíz cuadrada inicial de 64 (usando 16 en lugar de 8). -->
+- [x] C) $2x^2$ <!-- feedback: Correcto. Raíz cuadrada de 64x^{12} es 8x^6. Luego, la raíz cúbica de 8x^6 es 2x^2. -->
+- [ ] B) $4x^2$ <!-- feedback: Incorrecto. Se extrajo mal la raíz cuadrada inicial de 64 (usando 16 en lugar de 8). -->
 - [ ] D) $8x^2$ <!-- feedback: Incorrecto. Se olvidó realizar la operación de raíz cúbica sobre el coeficiente numérico. -->
 
 ### Explicacion Pedagogica
@@ -323,8 +323,8 @@ Simplificación de radicales anidados (raíz de una raíz) y aplicación de leye
 ¿Cuál de las siguientes igualdades es verdadera para cualquier número real $a$?
 
 ### Opciones
-- [ ] A) $\sqrt{a^2} = a$ <!-- feedback: Incorrecto. Solo es cierto si "a" es positivo o cero; falla para números negativos. -->
-- [x] B) $\sqrt{a^2} = |a|$ <!-- feedback: Correcto. Esta es la definición formal que asegura un resultado no negativo para una raíz par. -->
+- [ ] B) $\sqrt{a^2} = a$ <!-- feedback: Incorrecto. Solo es cierto si "a" es positivo o cero; falla para números negativos. -->
+- [x] A) $\sqrt{a^2} = |a|$ <!-- feedback: Correcto. Esta es la definición formal que asegura un resultado no negativo para una raíz par. -->
 - [ ] C) $(a^{1/2})^2 = |a|$ <!-- feedback: Incorrecto. Esta expresión solo existe en los reales si "a" es mayor o igual a cero. -->
 - [ ] D) $\sqrt[3]{a^3} = |a|$ <!-- feedback: Incorrecto. Las raíces impares mantienen el signo de la base, por lo que el resultado es simplemente "a". -->
 
@@ -344,10 +344,10 @@ Análisis de las propiedades de los radicales con índices pares e impares y su 
 Calcula el valor de la expresión: $16^{3/4} + 81^{1/4}$.
 
 ### Opciones
-- [x] A) 11 <!-- feedback: Correcto. El primer término es 2^3 = 8 y el segundo es 3^1 = 3. La suma es 11. -->
-- [ ] B) 15 <!-- feedback: Incorrecto. Probablemente se cometió un error al evaluar alguna de las raíces de las bases. -->
-- [ ] C) 7 <!-- feedback: Incorrecto. Error al procesar el exponente de 16, posiblemente usando raíz cuadrada en vez de cuarta. -->
-- [ ] D) 19 <!-- feedback: Incorrecto. Resultado obtenido tras una aplicación errónea de las leyes de radicación. -->
+- [x] D) 11 <!-- feedback: Correcto. El primer término es 2^3 = 8 y el segundo es 3^1 = 3. La suma es 11. -->
+- [ ] A) 15 <!-- feedback: Incorrecto. Probablemente se cometió un error al evaluar alguna de las raíces de las bases. -->
+- [ ] B) 7 <!-- feedback: Incorrecto. Error al procesar el exponente de 16, posiblemente usando raíz cuadrada en vez de cuarta. -->
+- [ ] C) 19 <!-- feedback: Incorrecto. Resultado obtenido tras una aplicación errónea de las leyes de radicación. -->
 
 ### Explicacion Pedagogica
 Evaluación y suma de potencias con exponentes fraccionarios que resultan en números enteros.
@@ -366,8 +366,8 @@ Si un monto final es $M = C \cdot e^{rt}$, ¿cuál es la expresión correcta par
 
 ### Opciones
 - [ ] A) $t = \sqrt[r]{M/C}$ <!-- feedback: Incorrecto. Esta forma sería válida para una base t con exponente r, no para un exponente t. -->
-- [x] B) $t = \frac{\ln(M/C)}{r}$ <!-- feedback: Correcto. Aplicando logaritmo natural para bajar el exponente y dividiendo por la tasa r. -->
-- [ ] C) $t = (M/C)^r$ <!-- feedback: Incorrecto. Esta operación no despeja una variable que se encuentra en un exponente de base e. -->
+- [x] C) $t = \frac{\ln(M/C)}{r}$ <!-- feedback: Correcto. Aplicando logaritmo natural para bajar el exponente y dividiendo por la tasa r. -->
+- [ ] B) $t = (M/C)^r$ <!-- feedback: Incorrecto. Esta operación no despeja una variable que se encuentra en un exponente de base e. -->
 - [ ] D) $t = \frac{M}{C \cdot e^r}$ <!-- feedback: Incorrecto. Manipulación algebraica inválida de los términos de la ecuación exponencial. -->
 
 ### Explicacion Pedagogica
@@ -386,9 +386,9 @@ Evaluación de la capacidad para manipular ecuaciones exponenciales y comprender
 Simplifica totalmente la expresión $\sqrt[n]{x^{2n} \cdot \sqrt[3]{x^{3n}}}$.
 
 ### Opciones
-- [x] A) $x^3$ <!-- feedback: Correcto. La raíz cúbica interna da x^n. Al multiplicar por x^{2n} da x^{3n}. La raíz n-ésima final da x^3. -->
-- [ ] B) $x^n$ <!-- feedback: Incorrecto. Error al simplificar el producto de las potencias dentro de la raíz principal. -->
-- [ ] C) $x^2$ <!-- feedback: Incorrecto. Se omitió considerar el factor resultante de la raíz cúbica interna. -->
+- [x] C) $x^3$ <!-- feedback: Correcto. La raíz cúbica interna da x^n. Al multiplicar por x^{2n} da x^{3n}. La raíz n-ésima final da x^3. -->
+- [ ] A) $x^n$ <!-- feedback: Incorrecto. Error al simplificar el producto de las potencias dentro de la raíz principal. -->
+- [ ] B) $x^2$ <!-- feedback: Incorrecto. Se omitió considerar el factor resultante de la raíz cúbica interna. -->
 - [ ] D) $x^{2n+1}$ <!-- feedback: Incorrecto. Error al aplicar la raíz de índice n sobre los exponentes de la variable. -->
 
 ### Explicacion Pedagogica
@@ -408,9 +408,9 @@ Resuelve para $x$ la ecuación: $2^{x+2} + 2^x = 20$.
 
 ### Opciones
 - [ ] A) $x = 4$ <!-- feedback: Incorrecto. Al sustituir, el resultado es 80, superando ampliamente el valor de 20 solicitado. -->
-- [x] B) $x = 2$ <!-- feedback: Correcto. Factorizando 2^x(2^2 + 1) = 20, tenemos 2^x * 5 = 20, por lo que 2^x = 4. -->
-- [ ] C) $x = 3$ <!-- feedback: Incorrecto. Al evaluar x=3 se obtiene 40 como resultado de la suma de las potencias. -->
-- [ ] D) $x = 1$ <!-- feedback: Incorrecto. La suma de las potencias daría 10 en lugar de los 20 indicados en la igualdad. -->
+- [x] D) $x = 2$ <!-- feedback: Correcto. Factorizando 2^x(2^2 + 1) = 20, tenemos 2^x * 5 = 20, por lo que 2^x = 4. -->
+- [ ] B) $x = 3$ <!-- feedback: Incorrecto. Al evaluar x=3 se obtiene 40 como resultado de la suma de las potencias. -->
+- [ ] C) $x = 1$ <!-- feedback: Incorrecto. La suma de las potencias daría 10 en lugar de los 20 indicados en la igualdad. -->
 
 ### Explicacion Pedagogica
 Resolución de ecuaciones exponenciales mediante la aplicación de la propiedad distributiva (factor común) y leyes de potencias.
@@ -428,8 +428,8 @@ Resolución de ecuaciones exponenciales mediante la aplicación de la propiedad 
 Determina el numerador simplificado de $\frac{\sqrt{x} + \sqrt{y}}{\sqrt{x} - \sqrt{y}} - \frac{\sqrt{x} - \sqrt{y}}{\sqrt{x} + \sqrt{y}}$ tras reducir a común denominador.
 
 ### Opciones
-- [ ] A) $2x + 2y$ <!-- feedback: Incorrecto. Los términos de segundo grado se cancelan por la resta en el numerador. -->
-- [x] B) $4\sqrt{xy}$ <!-- feedback: Correcto. Al desarrollar los cuadrados (sqrt(x)+sqrt(y))^2 - (sqrt(x)-sqrt(y))^2, solo queda el término central multiplicado por 2. -->
+- [ ] B) $2x + 2y$ <!-- feedback: Incorrecto. Los términos de segundo grado se cancelan por la resta en el numerador. -->
+- [x] A) $4\sqrt{xy}$ <!-- feedback: Correcto. Al desarrollar los cuadrados (sqrt(x)+sqrt(y))^2 - (sqrt(x)-sqrt(y))^2, solo queda el término central multiplicado por 2. -->
 - [ ] C) 0 <!-- feedback: Incorrecto. Las fracciones no son idénticas, por lo que su resta no resulta en el valor nulo. -->
 - [ ] D) $x - y$ <!-- feedback: Incorrecto. Este es el denominador común resultante tras la operación, no el numerador solicitado. -->
 

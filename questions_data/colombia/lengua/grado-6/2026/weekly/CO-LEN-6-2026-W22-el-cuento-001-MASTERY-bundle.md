@@ -33,9 +33,9 @@ creador: Jules-Agent
 ¿Cuáles son las tres partes estructurales de un cuento?
 
 ### Opciones
-- [x] A) Inicio, nudo y desenlace. <!-- feedback: Correcto. El cuento clásico se organiza en una presentación, un conflicto y una solución. -->
-- [ ] B) Título, autor e índice. <!-- feedback: Incorrecto. Esos son datos de portada, no partes narrativas. -->
-- [ ] C) Introducción, bibliografía y conclusión. <!-- feedback: Incorrecto. La bibliografía no aparece dentro del cuento. -->
+- [x] C) Inicio, nudo y desenlace. <!-- feedback: Correcto. El cuento clásico se organiza en una presentación, un conflicto y una solución. -->
+- [ ] A) Título, autor e índice. <!-- feedback: Incorrecto. Esos son datos de portada, no partes narrativas. -->
+- [ ] B) Introducción, bibliografía y conclusión. <!-- feedback: Incorrecto. La bibliografía no aparece dentro del cuento. -->
 - [ ] D) Personajes, escenarios y diálogo. <!-- feedback: Incorrecto. Son elementos del cuento, no su estructura. -->
 
 ### Explicacion Pedagogica
@@ -75,8 +75,8 @@ El personaje principal (o protagonista) impulsa la acción y enfrenta el conflic
 ¿Qué elementos del cuento aparecen en este fragmento?
 
 ### Opciones
-- [ ] A) El nudo y el desenlace, porque ya hay acción terminada. <!-- feedback: Incorrecto. Aquí no se ha desarrollado ni resuelto el conflicto. -->
-- [x] B) El inicio con la presentación de la protagonista, el lugar y el detonante. <!-- feedback: Correcto. Se reconocen personaje, espacio y situación inicial. -->
+- [ ] B) El nudo y el desenlace, porque ya hay acción terminada. <!-- feedback: Incorrecto. Aquí no se ha desarrollado ni resuelto el conflicto. -->
+- [x] A) El inicio con la presentación de la protagonista, el lugar y el detonante. <!-- feedback: Correcto. Se reconocen personaje, espacio y situación inicial. -->
 - [ ] C) Solo el desenlace porque el encuentro con el perro es el final. <!-- feedback: Incorrecto. El encuentro es solo el comienzo del conflicto. -->
 - [ ] D) Únicamente el espacio narrativo, sin personaje ni acción. <!-- feedback: Incorrecto. Hay personaje, espacio y acción inicial. -->
 
@@ -96,8 +96,8 @@ En el inicio el autor presenta quién cuenta (narrador), quién actúa (personaj
 ¿Qué recurso narrativo predomina en esta acción?
 
 ### Opciones
-- [ ] A) Una descripción detallada del paisaje sonoro del barrio. <!-- feedback: Incorrecto. No hay descripción amplia, solo una acción concreta. -->
-- [x] B) La acción del personaje que enfrenta una situación de tensión. <!-- feedback: Correcto. Predomina el movimiento y la decisión ante el conflicto. -->
+- [ ] B) Una descripción detallada del paisaje sonoro del barrio. <!-- feedback: Incorrecto. No hay descripción amplia, solo una acción concreta. -->
+- [x] A) La acción del personaje que enfrenta una situación de tensión. <!-- feedback: Correcto. Predomina el movimiento y la decisión ante el conflicto. -->
 - [ ] C) Un diálogo entre varios personajes. <!-- feedback: Incorrecto. Solo aparece un personaje en acción. -->
 - [ ] D) Una explicación científica sobre el ruido. <!-- feedback: Incorrecto. El texto no aporta datos técnicos. -->
 
@@ -118,8 +118,8 @@ El cuento combina narración, descripción y diálogo. Cuando predominan los ver
 
 ### Opciones
 - [ ] A) Solo el título y el autor, sin mencionar la trama. <!-- feedback: Incorrecto. Una reseña necesita resumir la historia. -->
-- [x] B) Título, autor, tema central y opinión personal. <!-- feedback: Correcto. Esos elementos orientan a quien va a leer. -->
-- [ ] C) Una lista de todos los personajes con sus edades reales. <!-- feedback: Incorrecto. Las edades exactas no siempre son relevantes. -->
+- [x] C) Título, autor, tema central y opinión personal. <!-- feedback: Correcto. Esos elementos orientan a quien va a leer. -->
+- [ ] B) Una lista de todos los personajes con sus edades reales. <!-- feedback: Incorrecto. Las edades exactas no siempre son relevantes. -->
 - [ ] D) Únicamente una crítica negativa para ser objetivo. <!-- feedback: Incorrecto. La reseña equilibra aciertos y limitaciones. -->
 
 ### Explicacion Pedagogica
@@ -138,8 +138,8 @@ La reseña combina datos del libro, resumen breve del conflicto y un juicio sobr
 ¿Qué tipo de narrador se identifica en este fragmento?
 
 ### Opciones
-- [ ] A) Un narrador personaje porque relata en primera persona. <!-- feedback: Incorrecto. No aparece un «yo» que cuente su propia historia. -->
-- [x] B) Un narrador omnisciente que conoce los pensamientos del relojero. <!-- feedback: Correcto. El narrador accede al susurro interno del personaje. -->
+- [ ] B) Un narrador personaje porque relata en primera persona. <!-- feedback: Incorrecto. No aparece un «yo» que cuente su propia historia. -->
+- [x] A) Un narrador omnisciente que conoce los pensamientos del relojero. <!-- feedback: Correcto. El narrador accede al susurro interno del personaje. -->
 - [ ] C) Un narrador testigo limitado a lo que ve. <!-- feedback: Incorrecto. Si fuera testigo no sabría lo murmurado. -->
 - [ ] D) Un narrador en segunda persona dirigido al lector. <!-- feedback: Incorrecto. No hay fórmulas como «tú observas». -->
 
@@ -159,8 +159,8 @@ El narrador omnisciente cuenta desde fuera pero conoce lo que sienten y piensan 
 ¿Qué función cumple el espacio (el salón vacío) en este fragmento?
 
 ### Opciones
-- [ ] A) Ninguna, porque solo describe un lugar físico sin relación con la trama. <!-- feedback: Incorrecto. El espacio ayuda a construir el ambiente. -->
-- [x] B) Genera un ambiente de tensión que anticipa el conflicto. <!-- feedback: Correcto. El salón vacío y el mensaje misterioso crean intriga. -->
+- [ ] B) Ninguna, porque solo describe un lugar físico sin relación con la trama. <!-- feedback: Incorrecto. El espacio ayuda a construir el ambiente. -->
+- [x] A) Genera un ambiente de tensión que anticipa el conflicto. <!-- feedback: Correcto. El salón vacío y el mensaje misterioso crean intriga. -->
 - [ ] C) Sustituye al personaje principal en la historia. <!-- feedback: Incorrecto. El personaje sigue siendo Lucía, no el espacio. -->
 - [ ] D) Sirve únicamente para indicar la hora del relato. <!-- feedback: Incorrecto. No hay marcas temporales explícitas. -->
 
@@ -201,8 +201,8 @@ Reescribir un cuento tradicional implica volver a narrarlo con voz propia: actua
 ¿Cuál es la mejor razón para que un autor elija un final abierto en un cuento?
 
 ### Opciones
-- [ ] A) Porque no supo cómo terminar la historia. <!-- feedback: Incorrecto. La decisión suele ser intencional y planeada. -->
-- [x] B) Para invitar al lector a construir su propio desenlace. <!-- feedback: Correcto. El cierre abierto promueve la reflexión. -->
+- [ ] B) Porque no supo cómo terminar la historia. <!-- feedback: Incorrecto. La decisión suele ser intencional y planeada. -->
+- [x] A) Para invitar al lector a construir su propio desenlace. <!-- feedback: Correcto. El cierre abierto promueve la reflexión. -->
 - [ ] C) Para evitar dar una moraleja clara al relato. <!-- feedback: Incorrecto. La moraleja puede estar implícita incluso con final abierto. -->
 - [ ] D) Para reducir la extensión total del cuento. <!-- feedback: Incorrecto. La extensión no depende del tipo de cierre. -->
 
@@ -222,8 +222,8 @@ Un final abierto deja una pregunta sin respuesta definitiva y confía en la inte
 ¿Qué concepto literario está criticando el alumno en su comentario?
 
 ### Opciones
-- [ ] A) La extensión del cuento. <!-- feedback: Incorrecto. La extensión no implica transformación del personaje. -->
-- [x] B) La ausencia de transformación del personaje principal a lo largo de la trama. <!-- feedback: Correcto. Critica que no haya arco ni aprendizaje. -->
+- [ ] B) La extensión del cuento. <!-- feedback: Incorrecto. La extensión no implica transformación del personaje. -->
+- [x] A) La ausencia de transformación del personaje principal a lo largo de la trama. <!-- feedback: Correcto. Critica que no haya arco ni aprendizaje. -->
 - [ ] C) El uso de un narrador en tercera persona. <!-- feedback: Incorrecto. El tipo de narrador no define el cambio interno. -->
 - [ ] D) La presencia de un final cerrado. <!-- feedback: Incorrecto. El problema no es el cierre sino la evolución interna. -->
 

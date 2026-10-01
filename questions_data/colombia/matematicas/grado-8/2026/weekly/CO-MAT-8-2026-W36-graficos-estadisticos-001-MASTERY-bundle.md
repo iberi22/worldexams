@@ -34,11 +34,11 @@ Este bundle contiene 12 preguntas sobre **graficos-estadisticos** para grado 8, 
 ### Opciones
 - [ ] A) Diagrama circular
   <!-- feedback: Incorrecto. El diagrama circular muestra partes de un todo en un momento dado, no una evolución temporal. -->
-- [x] B) Gráfico de líneas
+- [x] D) Gráfico de líneas
   <!-- feedback: Correcto. El gráfico de líneas une los valores mensuales y muestra tendencias y cambios en el tiempo. -->
-- [ ] C) Pictograma con dibujos
+- [ ] B) Pictograma con dibujos
   <!-- feedback: Incorrecto. El pictograma es ilustrativo y poco preciso para comparar 12 valores continuos. -->
-- [ ] D) Tabla sin gráfico
+- [ ] C) Tabla sin gráfico
   <!-- feedback: Incorrecto. La tabla presenta los datos, pero no es un gráfico ni facilita ver la tendencia visual. -->
 ### Explicacion Pedagogica
 Las variables temporales continuas se representan con gráficos de líneas: el eje horizontal lleva los meses y el vertical la temperatura. La pendiente entre puntos revela aumentos y descensos de forma inmediata.
@@ -74,9 +74,9 @@ En el diagrama circular cada porcentaje se multiplica por el total: 0,50 × 200 
 ### Opciones
 - [ ] A) Jueves, 45 unidades
   <!-- feedback: Incorrecto. El jueves es el segundo valor más alto, pero el viernes lo supera. -->
-- [x] B) Viernes, 50 unidades
+- [x] C) Viernes, 50 unidades
   <!-- feedback: Correcto. La barra más alta corresponde al viernes con 50 unidades. -->
-- [ ] C) Martes, 35 unidades
+- [ ] B) Martes, 35 unidades
   <!-- feedback: Incorrecto. Esa barra es intermedia; hay dos barras más altas que ella. -->
 - [ ] D) Lunes, 20 unidades
   <!-- feedback: Incorrecto. Esa es la barra más baja, correspondiente a las menores ventas. -->
@@ -92,9 +92,9 @@ En un gráfico de barras la altura es proporcional a la frecuencia. Comparar alt
 ### Enunciado
 ¿Qué ángulo central corresponde a las mojarras?
 ### Opciones
-- [ ] A) 40 grados
+- [ ] B) 40 grados
   <!-- feedback: Incorrecto. Ese valor copia la frecuencia sin convertirla a proporción de 360 grados. -->
-- [x] B) 144 grados
+- [x] A) 144 grados
   <!-- feedback: Correcto. Las mojarras son 40/100 = 0,4 del total y 0,4 × 360° = 144°. -->
 - [ ] C) 120 grados
   <!-- feedback: Incorrecto. Ese ángulo corresponde a 1/3 del total; las mojarras son 2/5. -->
@@ -114,11 +114,11 @@ Total = 100 pescados. Fracción de mojarras = 40/100 = 2/5. Ángulo = 2/5 × 360
 ### Opciones
 - [ ] A) 24%
   <!-- feedback: Incorrecto. Ese valor copia la frecuencia 24 sin dividir entre el total 60. -->
-- [x] B) 40%
+- [x] D) 40%
   <!-- feedback: Correcto. 24/60 = 0,4 = 40%. -->
-- [ ] C) 30%
+- [ ] B) 30%
   <!-- feedback: Incorrecto. Ese valor usaría 18 personas; el intervalo 20-30 tiene 24. -->
-- [ ] D) 60%
+- [ ] C) 60%
   <!-- feedback: Incorrecto. Ese valor confunde el total con el porcentaje del intervalo modal. -->
 ### Explicacion Pedagogica
 El porcentaje es frecuencia relativa × 100: 24/60 × 100 = 40%. El intervalo 20-30 es la clase modal por tener la barra más alta del histograma.
@@ -132,11 +132,11 @@ El porcentaje es frecuencia relativa × 100: 24/60 × 100 = 40%. El intervalo 20
 ### Enunciado
 ¿Entre qué meses consecutivos ocurrió el mayor aumento?
 ### Opciones
-- [ ] A) Enero a febrero, aumento de 200.000 COP
+- [ ] B) Enero a febrero, aumento de 200.000 COP
   <!-- feedback: Incorrecto. El aumento enero-febrero es de 100.000 COP, menor que el de marzo-abril. -->
-- [ ] B) Febrero a marzo, aumento de 200.000 COP
+- [ ] C) Febrero a marzo, aumento de 200.000 COP
   <!-- feedback: Incorrecto. De febrero a marzo el precio bajó 200.000 COP; no hubo aumento. -->
-- [x] C) Marzo a abril, aumento de 300.000 COP
+- [x] A) Marzo a abril, aumento de 300.000 COP
   <!-- feedback: Correcto. De 1.700.000 a 2.000.000 el aumento es 300.000 COP, el mayor del periodo. -->
 - [ ] D) Enero a abril, aumento de 200.000 COP
   <!-- feedback: Incorrecto. Esos meses no son consecutivos y la diferencia es 200.000 COP, menor que 300.000. -->
@@ -152,9 +152,9 @@ Se restan valores consecutivos: feb−ene = +100.000; mar−feb = −200.000; ab
 ### Enunciado
 ¿Qué taller tuvo mayor asistencia total y cuál tuvo mayor diferencia entre géneros?
 ### Opciones
-- [ ] A) Taller 2 mayor total y taller 3 mayor diferencia
+- [ ] B) Taller 2 mayor total y taller 3 mayor diferencia
   <!-- feedback: Incorrecto. El taller 2 suma 80 y el 3 tiene diferencia cero; ambas afirmaciones fallan. -->
-- [x] B) Taller 1 mayor total y taller 1 mayor diferencia
+- [x] A) Taller 1 mayor total y taller 1 mayor diferencia
   <!-- feedback: Correcto. Totales: T1 = 80, T2 = 80, T3 = 80; todos empatan en 80, pero T1 empata en el máximo y su diferencia 20 es la mayor. -->
 - [ ] C) Taller 3 mayor total y taller 2 mayor diferencia
   <!-- feedback: Incorrecto. El taller 3 suma 80 igual que los otros y su diferencia es 0, la menor. -->
@@ -174,11 +174,11 @@ Totales: 30+50 = 80; 45+35 = 80; 40+40 = 80. Hay empate triple en asistencia, po
 ### Opciones
 - [ ] A) Gráfico de líneas y 18%
   <!-- feedback: Incorrecto. Las líneas son para tiempo y 18% corresponde a otro cálculo; novela es 180/400. -->
-- [x] B) Diagrama circular y 45%
+- [x] D) Diagrama circular y 45%
   <!-- feedback: Correcto. Las categorías cualitativas se comparan con circular o barras; 180/400 = 0,45 = 45%. -->
-- [ ] C) Histograma y 45%
+- [ ] B) Histograma y 45%
   <!-- feedback: Incorrecto. El porcentaje es correcto, pero el histograma es para datos numéricos agrupados en intervalos, no para géneros. -->
-- [ ] D) Pictograma y 30%
+- [ ] C) Pictograma y 30%
   <!-- feedback: Incorrecto. El pictograma es impreciso y 30% corresponde a infantil (120/400), no a novela. -->
 ### Explicacion Pedagogica
 Total = 400 libros. Novela = 180/400 = 45%. Para variable cualitativa nominal convienen barras o circular; el circular muestra cada parte del todo. El histograma se reserva para variables cuantitativas continuas por intervalos.
@@ -192,9 +192,9 @@ Total = 400 libros. Novela = 180/400 = 45%. Para variable cualitativa nominal co
 ### Enunciado
 ¿Cuál es el promedio diario de avistamientos y qué día se superó por primera vez ese promedio?
 ### Opciones
-- [ ] A) 18 y martes con 18
+- [ ] B) 18 y martes con 18
   <!-- feedback: Incorrecto. El promedio no es 18 y el martes iguala pero no supera ese valor erróneo. -->
-- [x] B) 18 y jueves con 21
+- [x] A) 18 y jueves con 21
   <!-- feedback: Correcto. Total 90/5 = 18; lunes 12 y miércoles 15 están bajo 18, martes lo iguala y jueves lo supera primero. -->
 - [ ] C) 20 y viernes con 24
   <!-- feedback: Incorrecto. El promedio es 18, no 20; el jueves ya lo había superado antes que el viernes. -->
@@ -214,9 +214,9 @@ Suma = 12 + 18 + 15 + 21 + 24 = 90; promedio = 90/5 = 18. Recorrido: lunes bajo,
 ### Opciones
 - [ ] A) El A, porque empieza en cero y exagera
   <!-- feedback: Incorrecto. Empezar en cero es la práctica correcta; no exagera sino que muestra la proporción real. -->
-- [x] B) El B, porque recorta el eje y exagera visualmente un aumento pequeño
+- [x] C) El B, porque recorta el eje y exagera visualmente un aumento pequeño
   <!-- feedback: Correcto. Al iniciar en 90, una subida de 100 a 110 parece duplicarse aunque solo es del 10%. -->
-- [ ] C) Ambos son engañosos porque usan barras
+- [ ] B) Ambos son engañosos porque usan barras
   <!-- feedback: Incorrecto. Las barras no son engañosas por sí mismas; el problema es el recorte del eje en B. -->
 - [ ] D) Ninguno, porque los datos son idénticos
   <!-- feedback: Incorrecto. Los datos coinciden, pero la escala visual cambia la percepción; B magnifica diferencias menores. -->

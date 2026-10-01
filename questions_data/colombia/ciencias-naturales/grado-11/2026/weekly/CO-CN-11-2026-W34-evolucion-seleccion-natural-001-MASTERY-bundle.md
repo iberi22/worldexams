@@ -36,9 +36,9 @@ Este bundle contiene 20 preguntas sobre **evolución biológica y selección nat
 ### Opciones
 - [ ] A) Jean-Baptiste Lamarck
   <!-- feedback: Incorrecto. Lamarck fue un naturalista francés que propuso una teoría anterior sobre el uso y desuso de los órganos. -->
-- [ ] B) Alfred Russel Wallace
+- [ ] C) Alfred Russel Wallace
   <!-- feedback: Incorrecto. Wallace llegó de manera independiente a ideas similares a las de Darwin, pero la obra clásica es de Darwin. -->
-- [x] C) Charles Darwin
+- [x] B) Charles Darwin
   <!-- feedback: Correcto. Charles Darwin publicó en 1859 El origen de las especies, donde se formula la teoría de la selección natural. -->
 - [ ] D) Gregor Mendel
   <!-- feedback: Incorrecto. Mendel descubrió las leyes de la herencia en guisantes, no la selección natural. -->
@@ -82,9 +82,9 @@ La diversidad de especies que se observa en Colombia y en la Sierra Nevada de Sa
 ### Opciones
 - [ ] A) la creación simultánea e inmutable de todas las especies.
   <!-- feedback: Incorrecto. La teoría evolutiva moderna explica la diversidad por descendencia con modificación, no por creación inmutable. -->
-- [x] B) procesos de selección natural, deriva génica y especiación a lo largo de millones de años.
+- [x] C) procesos de selección natural, deriva génica y especiación a lo largo de millones de años.
   <!-- feedback: Correcto. La biodiversidad se explica por selección natural, deriva génica, mutación, migración y especiación acumulada en el tiempo geológico. -->
-- [ ] C) cambios introducidos por los seres humanos únicamente en los últimos siglos.
+- [ ] B) cambios introducidos por los seres humanos únicamente en los últimos siglos.
   <!-- feedback: Incorrecto. Aunque el ser humano modifica la biodiversidad, la diversidad actual tiene millones de años de historia evolutiva. -->
 - [ ] D) el azar absoluto sin ningún mecanismo que produzca patrones.
   <!-- feedback: Incorrecto. Aunque hay componentes estocásticos como la deriva génica, existen mecanismos direccionales como la selección natural. -->
@@ -105,9 +105,9 @@ El mimetismo en el que varias especies no emparentadas adquieren colores de adve
 ### Opciones
 - [ ] A) mimetismo batesiano.
   <!-- feedback: Incorrecto. El batesiano ocurre cuando una especie palatable imita a otra peligrosa; aquí varias especies comparten señal. -->
-- [x] B) mimetismo mülleriano.
+- [x] C) mimetismo mülleriano.
   <!-- feedback: Correcto. El mimetismo mülleriano ocurre cuando varias especies con defensa similar comparten colores de advertencia para reforzar la señal a los depredadores. -->
-- [ ] C) selección direccional.
+- [ ] B) selección direccional.
   <!-- feedback: Incorrecto. La selección direccional es un modo de selección natural, no un tipo de mimetismo. -->
 - [ ] D) deriva génica fundadora.
   <!-- feedback: Incorrecto. La deriva génica fundadora es un mecanismo evolutivo en poblaciones pequeñas, no un tipo de mimetismo. -->
@@ -128,9 +128,9 @@ El desarrollo de resistencia a insecticidas en poblaciones de insectos es un eje
 ### Opciones
 - [ ] A) mutación dirigida por el insecticida con propósito adaptativo.
   <!-- feedback: Incorrecto. Las mutaciones no surgen "con propósito"; aparecen al azar y el ambiente selecciona a quienes las portan. -->
-- [x] B) selección natural de variantes preexistentes con sobrevivencia diferencial frente al insecticida.
+- [x] C) selección natural de variantes preexistentes con sobrevivencia diferencial frente al insecticida.
   <!-- feedback: Correcto. Algunos individuos poseían alelos de resistencia antes del tratamiento; el insecticida eliminó a los susceptibles y los resistentes se reprodujeron. -->
-- [ ] C) herencia de caracteres adquiridos por exposición al tóxico.
+- [ ] B) herencia de caracteres adquiridos por exposición al tóxico.
   <!-- feedback: Incorrecto. La resistencia no se genera por exposición sino por selección de variantes que ya estaban en la población. -->
 - [ ] D) especiación simpátrica por aislamiento reproductivo.
   <!-- feedback: Incorrecto. Aunque a largo plazo puede haber especiación, la resistencia inicial es selección dentro de la misma especie. -->
@@ -151,9 +151,9 @@ Una adaptación como el pelaje denso de los osos andinos o la hemoglobina de alt
 ### Opciones
 - [ ] A) un acto consciente del animal para resistir el frío.
   <!-- feedback: Incorrecto. Los animales no deciden sus adaptaciones; estas son consecuencia de variación y selección a lo largo de generaciones. -->
-- [x] B) selección natural acumulada sobre variaciones genéticas favorables en ambientes fríos o de baja presión de oxígeno.
+- [x] C) selección natural acumulada sobre variaciones genéticas favorables en ambientes fríos o de baja presión de oxígeno.
   <!-- feedback: Correcto. Las variantes genéticas que ayudaban a sobrevivir en altura o frío se seleccionaron positivamente y se fijaron en esas poblaciones. -->
-- [ ] C) mutaciones puntuales que solo aparecen cuando el clima lo exige.
+- [ ] B) mutaciones puntuales que solo aparecen cuando el clima lo exige.
   <!-- feedback: Incorrecto. Las mutaciones son al azar respecto al ambiente; la selección natural filtra las favorables. -->
 - [ ] D) un cambio individual adquirido durante la vida del animal por aclimatación.
   <!-- feedback: Incorrecto. La aclimatación individual es fisiológica; la adaptación evolutiva es genética y poblacional. -->
@@ -174,11 +174,11 @@ El hallazgo de que los humanos compartimos aproximadamente el 98-99% del ADN nuc
 ### Opciones
 - [ ] A) los humanos descienden directamente del chimpancé moderno.
   <!-- feedback: Incorrecto. No descendemos del chimpancé actual; compartimos un ancestro común hace millones de años. -->
-- [x] B) humanos y chimpancés comparten un ancestro común relativamente reciente en el tiempo evolutivo.
+- [x] D) humanos y chimpancés comparten un ancestro común relativamente reciente en el tiempo evolutivo.
   <!-- feedback: Correcto. La alta similitud genética indica un ancestro común compartido hace unos 6 a 7 millones de años, no descendencia directa. -->
-- [ ] C) los chimpancés deberían evolucionar a humanos en pocos años.
+- [ ] B) los chimpancés deberían evolucionar a humanos en pocos años.
   <!-- feedback: Incorrecto. Cada linaje ha seguido su propia trayectoria evolutiva desde el ancestro común. -->
-- [ ] D) las diferencias genéticas no tienen valor evolutivo alguno.
+- [ ] C) las diferencias genéticas no tienen valor evolutivo alguno.
   <!-- feedback: Incorrecto. Pequeñas diferencias genéticas pueden tener efectos funcionales importantes y acumulativos a escala evolutiva. -->
 
 ### Explicacion Pedagogica
@@ -241,9 +241,9 @@ Hardy-Weinberg establece que en una población grande, con apareamiento al azar,
 El evento descrito es más probable que conduzca a cambios evolutivos por
 
 ### Opciones
-- [ ] A) selección natural estabilizadora únicamente.
+- [ ] B) selección natural estabilizadora únicamente.
   <!-- feedback: Incorrecto. En poblaciones pequeñas y aisladas el mecanismo predominante es la deriva génica, no la selección estabilizadora. -->
-- [x] B) deriva génica, efecto fundador y posible cuello de botella poblacional.
+- [x] A) deriva génica, efecto fundador y posible cuello de botella poblacional.
   <!-- feedback: Correcto. Una población pequeña aislada experimenta cambios aleatorios de frecuencias alélicas por deriva y puede fijar alelos diferentes a los de la población original. -->
 - [ ] C) mutaciones inducidas por el agua de inundación exclusivamente.
   <!-- feedback: Incorrecto. Las mutaciones ocurren al azar por múltiples causas, no solo por el agua, y siguen siendo raras. -->
@@ -264,13 +264,13 @@ Los eventos catastróficos que reducen drásticamente el tamaño poblacional pro
 El mecanismo de aislamiento reproductivo descrito, basado principalmente en señales acústicas distintas, se clasifica como
 
 ### Opciones
-- [x] A) aislamiento precigótico etológico o de comportamiento.
+- [x] D) aislamiento precigótico etológico o de comportamiento.
   <!-- feedback: Correcto. Las diferencias de canto o cortejo son barreras precigóticas etológicas que impiden el apareamiento entre especies. -->
-- [ ] B) aislamiento postcigótico por inviabilidad del híbrido.
+- [ ] A) aislamiento postcigótico por inviabilidad del híbrido.
   <!-- feedback: Incorrecto. Aquí no se han formado híbridos siquiera; la barrera es anterior al cigoto. -->
-- [ ] C) aislamiento mecánico por diferencia de genitales.
+- [ ] B) aislamiento mecánico por diferencia de genitales.
   <!-- feedback: Incorrecto. El aislamiento mecánico se refiere a incompatibilidades morfológicas de los órganos reproductores. -->
-- [ ] D) aislamiento por separación de hábitats ecológicos.
+- [ ] C) aislamiento por separación de hábitats ecológicos.
   <!-- feedback: Incorrecto. El aislamiento ecológico ocurre por ocupación de nichos distintos; aquí comparten el mismo bosque. -->
 
 ### Explicacion Pedagogica
@@ -287,9 +287,9 @@ El aislamiento reproductivo precigótico evita la fecundación: incluye mecanism
 Una secuencia de fósiles que muestra cambios morfológicos graduales entre especies ancestrales y descendientes a lo largo del tiempo se interpreta como evidencia de
 
 ### Opciones
-- [ ] A) creación especial de cada especie.
+- [ ] B) creación especial de cada especie.
   <!-- feedback: Incorrecto. La creación especial no predice transiciones graduales; la evolución sí. -->
-- [x] B) evolución por descendencia con modificación a lo largo de generaciones.
+- [x] A) evolución por descendencia con modificación a lo largo de generaciones.
   <!-- feedback: Correcto. Las transiciones morfológicas graduales son uno de los argumentos clásicos del registro fósil en favor de la evolución. -->
 - [ ] C) ausencia total de selección natural en esas poblaciones.
   <!-- feedback: Incorrecto. Las transiciones graduales precisamente reflejan el efecto acumulativo de selección natural y deriva. -->
@@ -381,11 +381,11 @@ El aislamiento geográfico prolongado entre dos poblaciones de la misma especie 
 ### Opciones
 - [ ] A) la desaparición inmediata de ambas poblaciones.
   <!-- feedback: Incorrecto. El aislamiento no implica extinción inmediata; las poblaciones pueden persistir. -->
-- [x] B) especiación alopátrica si se establece aislamiento reproductivo entre ellas.
+- [x] D) especiación alopátrica si se establece aislamiento reproductivo entre ellas.
   <!-- feedback: Correcto. La especiación alopátrica ocurre cuando una barrera geográfica impide el flujo génico y se acumula divergencia hasta generar especies distintas. -->
-- [ ] C) fusión genética acelerada por especiación simpátrica.
+- [ ] B) fusión genética acelerada por especiación simpátrica.
   <!-- feedback: Incorrecto. La especiación simpátrica no requiere barrera geográfica; el caso describe alopatría. -->
-- [ ] D) mantenimiento obligatorio de la capacidad de cruzamiento indefinidamente.
+- [ ] C) mantenimiento obligatorio de la capacidad de cruzamiento indefinidamente.
   <!-- feedback: Incorrecto. Si las diferencias genéticas son suficientes, el aislamiento reproductivo puede volverse permanente. -->
 
 ### Explicacion Pedagogica
@@ -404,11 +404,11 @@ Desde el punto de vista evolutivo, la aparición constante de nuevas variantes d
 ### Opciones
 - [ ] A) una respuesta aprendida del virus frente a las vacunas.
   <!-- feedback: Incorrecto. Los virus no responden "con propósito"; la presión selectiva favorece variantes preexistentes o surgidas al azar. -->
-- [x] B) selección natural sobre mutantes generados al azar cuya Spike evade mejor la inmunidad previa.
+- [x] D) selección natural sobre mutantes generados al azar cuya Spike evade mejor la inmunidad previa.
   <!-- feedback: Correcto. Las mutaciones aleatorias producen variantes; las que escapan a anticuerpos preexistentes se seleccionan y vuelven dominantes. -->
-- [ ] C) pérdida del material genético viral por envejecimiento del virus.
+- [ ] B) pérdida del material genético viral por envejecimiento del virus.
   <!-- feedback: Incorrecto. El virus no "envejece"; las nuevas variantes surgen por mutaciones y selección, no por desgaste. -->
-- [ ] D) especiación instantánea hacia un nuevo virus no relacionado.
+- [ ] C) especiación instantánea hacia un nuevo virus no relacionado.
   <!-- feedback: Incorrecto. Aunque las variantes difieren, siguen siendo el mismo virus con cambios graduales; no hay especiación instantánea. -->
 
 ### Explicacion Pedagogica
@@ -427,9 +427,9 @@ Desde el marco de la biología evolutiva, una preocupación válida sobre libera
 ### Opciones
 - [ ] A) los mosquitos se transformarán instantáneamente en mariposas inofensivas.
   <!-- feedback: Incorrecto. No hay base biológica para ese cambio radical; preocupa más el riesgo de evolución de resistencia. -->
-- [x] B) puede surgir resistencia genética en las poblaciones de mosquitos, disminuyendo la efectividad de la estrategia a largo plazo.
+- [x] C) puede surgir resistencia genética en las poblaciones de mosquitos, disminuyendo la efectividad de la estrategia a largo plazo.
   <!-- feedback: Correcto. Como cualquier intervención a gran escala, genera presión selectiva que puede seleccionar variantes resistentes y reducir el efecto. -->
-- [ ] C) no hay riesgo evolutivo alguno porque los mosquitos no varían genéticamente.
+- [ ] B) no hay riesgo evolutivo alguno porque los mosquitos no varían genéticamente.
   <!-- feedback: Incorrecto. Las poblaciones naturales de Aedes aegypti son altamente variables y evolucionan con rapidez. -->
 - [ ] D) los mosquitos transgénicos se convertirán en una especie invasora dominante sin posibilidad de control.
   <!-- feedback: Incorrecto. Sin base, los organismos liberados suelen tener menor fitness y su impacto se modula por la selección natural. -->
@@ -448,9 +448,9 @@ Cualquier estrategia de control a gran escala aplica presión selectiva intensa.
 Desde la genética de poblaciones, una afirmación correcta sobre la diversidad humana es que
 
 ### Opciones
-- [x] A) la mayor parte de la variación genética humana ocurre dentro de las poblaciones y no entre ellas, lo que hace biológicamente cuestionable el concepto tradicional de raza.
+- [x] B) la mayor parte de la variación genética humana ocurre dentro de las poblaciones y no entre ellas, lo que hace biológicamente cuestionable el concepto tradicional de raza.
   <!-- feedback: Correcto. Estudios genéticos muestran que la variación entre individuos de una misma población suele superar la variación entre poblaciones. -->
-- [ ] B) las razas humanas son categorías biológicas claras con diferencias genéticas profundas y fijas.
+- [ ] A) las razas humanas son categorías biológicas claras con diferencias genéticas profundas y fijas.
   <!-- feedback: Incorrecto. La genética moderna ha mostrado que las categorías raciales tradicionales no tienen base biológica clara y son discontinuas en realidad. -->
 - [ ] C) los humanos tienen genes únicos y exclusivos que no existen en ningún otro ser vivo.
   <!-- feedback: Incorrecto. Compartimos la inmensa mayoría de genes con otros primates y mamíferos; no hay genes humanos únicos en sentido absoluto. -->

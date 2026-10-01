@@ -32,13 +32,13 @@ Este bundle contiene 12 preguntas sobre **expresiones-algebraicas** para grado 8
 ### Enunciado
 ¿Cuál es la expresión simplificada resultante?
 ### Opciones
-- [x] A) $x + 9y$
+- [x] D) $x + 9y$
   <!-- feedback: Correcto. $3x - 2x = x$ y $5y + 4y = 9y$. -->
-- [ ] B) $5x + 9y$
+- [ ] A) $5x + 9y$
   <!-- feedback: Incorrecto. Sumaste $3x + 2x$ en vez de restar. -->
-- [ ] C) $10xy$
+- [ ] B) $10xy$
   <!-- feedback: Incorrecto. Combinaste términos con variables distintas. -->
-- [ ] D) $x + y$
+- [ ] C) $x + y$
   <!-- feedback: Incorrecto. Restaste los coeficientes de $y$. -->
 ### Explicacion Pedagogica
 Agrupando términos semejantes: $(3x - 2x) + (5y + 4y) = x + 9y$.
@@ -72,9 +72,9 @@ Sustituyendo $x = 3$: $2(9) - 9 + 5 = 18 - 9 + 5 = 14$.
 ### Enunciado
 ¿Cuál es el producto obtenido?
 ### Opciones
-- [x] A) $6x^5 - 12x^3$
+- [x] B) $6x^5 - 12x^3$
   <!-- feedback: Correcto. Aplica propiedad distributiva y suma exponentes. -->
-- [ ] B) $6x^6 - 12x^2$
+- [ ] A) $6x^6 - 12x^2$
   <!-- feedback: Incorrecto. Multiplicaste exponentes en lugar de sumarlos. -->
 - [ ] C) $5x^5 - 7x^3$
   <!-- feedback: Incorrecto. Sumaste los coeficientes en lugar de multiplicarlos. -->
@@ -112,11 +112,11 @@ $(2a+3b)^2 = (2a)^2 + 2(2a)(3b) + (3b)^2 = 4a^2 + 12ab + 9b^2$.
 ### Enunciado
 ¿Cuál es la expresión polinómica del área?
 ### Opciones
-- [x] A) $x^2 + 2x - 15$
+- [x] C) $x^2 + 2x - 15$
   <!-- feedback: Correcto. $x^2 - 3x + 5x - 15 = x^2 + 2x - 15$. -->
-- [ ] B) $x^2 - 15$
+- [ ] A) $x^2 - 15$
   <!-- feedback: Incorrecto. Omitiste los términos lineales intermedios. -->
-- [ ] C) $x^2 - 2x - 15$
+- [ ] B) $x^2 - 2x - 15$
   <!-- feedback: Incorrecto. Error de signo en la suma $-3x + 5x$. -->
 - [ ] D) $x^2 + 8x - 15$
   <!-- feedback: Incorrecto. Sumaste los valores absolutos $5 + 3$. -->
@@ -152,9 +152,9 @@ MCD numérico es $3$; de $x$ es $x^2$; de $y$ es $y^2$. Queda $3x^2y^2(2x - 3y)$
 ### Enunciado
 ¿Cuál es la factorización en binomios conjugados?
 ### Opciones
-- [x] A) $(4x - 5y)(4x + 5y)$
+- [x] B) $(4x - 5y)(4x + 5y)$
   <!-- feedback: Correcto. $\sqrt{16x^2} = 4x$ y $\sqrt{25y^2} = 5y$. -->
-- [ ] B) $(8x - 5y)(8x + 5y)$
+- [ ] A) $(8x - 5y)(8x + 5y)$
   <!-- feedback: Incorrecto. Tomaste la mitad de $16$ en vez de la raíz cuadrada. -->
 - [ ] C) $(4x - 5y)^2$
   <!-- feedback: Incorrecto. $(4x-5y)^2$ genera un trinomio cuadrado perfecto. -->
@@ -172,9 +172,9 @@ $a^2 - b^2 = (a-b)(a+b)$. Con $a=4x$ y $b=5y$, resulta $(4x-5y)(4x+5y)$.
 ### Enunciado
 ¿Cuáles son los factores lineales del trinomio?
 ### Opciones
-- [x] A) $(x - 3)(x - 4)$
+- [x] B) $(x - 3)(x - 4)$
   <!-- feedback: Correcto. $-3 + (-4) = -7$ y $(-3)(-4) = 12$. -->
-- [ ] B) $(x + 3)(x + 4)$
+- [ ] A) $(x + 3)(x + 4)$
   <!-- feedback: Incorrecto. Suma $3+4=+7$, no $-7$. -->
 - [ ] C) $(x - 2)(x - 6)$
   <!-- feedback: Incorrecto. $(-2)(-6)=12$ pero $-2 + (-6) = -8 \neq -7$. -->
@@ -192,13 +192,13 @@ Buscamos dos números que multiplicados den $12$ y sumados $-7$: son $-3$ y $-4$
 ### Enunciado
 ¿Cuál es el cociente simplificado?
 ### Opciones
-- [x] A) $3x^2 - 2x + 1$
+- [x] D) $3x^2 - 2x + 1$
   <!-- feedback: Correcto. $12/4 x^{4-2} - 8/4 x^{3-2} + 4/4 x^{2-2} = 3x^2 - 2x + 1$. -->
-- [ ] B) $3x^2 - 2x$
+- [ ] A) $3x^2 - 2x$
   <!-- feedback: Incorrecto. Omitiste el término $+1$ al dividir $4x^2/4x^2$. -->
-- [ ] C) $3x^2 - 2x + 0$
+- [ ] B) $3x^2 - 2x + 0$
   <!-- feedback: Incorrecto. $4x^2 / 4x^2 = 1$, no $0$. -->
-- [ ] D) $8x^2 - 4x + 1$
+- [ ] C) $8x^2 - 4x + 1$
   <!-- feedback: Incorrecto. Restaste coeficientes en lugar de dividirlos. -->
 ### Explicacion Pedagogica
 Dividiendo cada término por $4x^2$: $\frac{12x^4}{4x^2} - \frac{8x^3}{4x^2} + \frac{4x^2}{4x^2} = 3x^2 - 2x + 1$.
@@ -212,13 +212,13 @@ Dividiendo cada término por $4x^2$: $\frac{12x^4}{4x^2} - \frac{8x^3}{4x^2} + \
 ### Enunciado
 ¿Cuál es la expresión equivalente simplificada para $x \neq -3, -2$?
 ### Opciones
-- [x] A) $\frac{x - 3}{x + 2}$
+- [x] D) $\frac{x - 3}{x + 2}$
   <!-- feedback: Correcto. Numerador: $(x-3)(x+3)$. Denominador: $(x+2)(x+3)$. Cancelando $(x+3)$ queda $\frac{x-3}{x+2}$. -->
-- [ ] B) $\frac{x + 3}{x + 2}$
+- [ ] A) $\frac{x + 3}{x + 2}$
   <!-- feedback: Incorrecto. Cancelaste $(x-3)$ en vez de $(x+3)$. -->
-- [ ] C) $\frac{x - 3}{x - 2}$
+- [ ] B) $\frac{x - 3}{x - 2}$
   <!-- feedback: Incorrecto. Factorización errónea del denominador. -->
-- [ ] D) $\frac{-9}{5x + 6}$
+- [ ] C) $\frac{-9}{5x + 6}$
   <!-- feedback: Incorrecto. Cancelaste $x^2$ indebidamente sumando términos no factorizados. -->
 ### Explicacion Pedagogica
 $\frac{(x-3)(x+3)}{(x+2)(x+3)} = \frac{x-3}{x+2}$ para $x \neq -3$.
@@ -232,13 +232,13 @@ $\frac{(x-3)(x+3)}{(x+2)(x+3)} = \frac{x-3}{x+2}$ para $x \neq -3$.
 ### Enunciado
 ¿Cuál es la estructura totalmente factorizada?
 ### Opciones
-- [x] A) $(2x^2 + 3)(x - 2)$
+- [x] D) $(2x^2 + 3)(x - 2)$
   <!-- feedback: Correcto. $2x^2(x - 2) + 3(x - 2) = (2x^2 + 3)(x - 2)$. -->
-- [ ] B) $(2x^2 - 3)(x + 2)$
+- [ ] A) $(2x^2 - 3)(x + 2)$
   <!-- feedback: Incorrecto. Error de signos en la agrupación. -->
-- [ ] C) $(x^2 + 3)(2x - 2)$
+- [ ] B) $(x^2 + 3)(2x - 2)$
   <!-- feedback: Incorrecto. Factor común mal extraído. -->
-- [ ] D) $(2x^2 + 1)(x - 6)$
+- [ ] C) $(2x^2 + 1)(x - 6)$
   <!-- feedback: Incorrecto. Agrupación incorrecta de constantes. -->
 ### Explicacion Pedagogica
 Agrupando: $2x^2(x-2) + 3(x-2) = (2x^2+3)(x-2)$.

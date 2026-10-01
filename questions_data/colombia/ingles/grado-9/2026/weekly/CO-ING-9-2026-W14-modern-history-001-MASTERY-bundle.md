@@ -36,13 +36,13 @@ This bundle explores key events in modern history, focusing on the use of Partic
 ________ the flag, the soldiers advanced toward the city gates.
 
 ### Opciones
-- [x] A) Carrying
+- [x] D) Carrying
   <!-- feedback: Correct! Present participle clause (-ing) shows two actions happening at the same time by the same subject. -->
-- [ ] B) Carried
+- [ ] A) Carried
   <!-- feedback: Incorrect. Past participle has a passive meaning. -->
-- [ ] C) Having carried
+- [ ] B) Having carried
   <!-- feedback: Incorrect. This would mean they carried it before they advanced. -->
-- [ ] D) To carry
+- [ ] C) To carry
   <!-- feedback: Incorrect. Infinitives don't function as participle clauses here. -->
 
 ### Explicacion Pedagogica
@@ -111,13 +111,13 @@ Usamos el participio de perfecto (*Having won*) para dejar claro que una acción
 ________ that the situation was dangerous, the explorers decided to return to the coast.
 
 ### Opciones
-- [x] A) Realizing
+- [x] D) Realizing
   <!-- feedback: Correct! Present participle can show a cause or reason. -->
-- [ ] B) Realized
+- [ ] A) Realized
   <!-- feedback: Incorrect. Passive meaning. -->
-- [ ] C) Having realized
+- [ ] B) Having realized
   <!-- feedback: Incorrect. While possible, "Realizing" fits the immediate cause better. -->
-- [ ] D) To realize
+- [ ] C) To realize
   <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
@@ -163,9 +163,9 @@ ________ at the foot of the mountains, the town was isolated from most trade rou
 ### Opciones
 - [ ] A) Locating
   <!-- feedback: Incorrect. Active meaning. -->
-- [x] B) Located
+- [x] C) Located
   <!-- feedback: Correct! Past participle shows the passive state or situation. -->
-- [ ] C) Having located
+- [ ] B) Having located
   <!-- feedback: Incorrect. Active meaning. -->
 - [ ] D) Being located
   <!-- feedback: Incorrect. -->
@@ -188,9 +188,9 @@ Which sentence is grammatically correct?
 ### Opciones
 - [ ] A) Walking through the museum, the paintings were beautiful.
   <!-- feedback: Incorrect. This implies the paintings were walking. -->
-- [x] B) Walking through the museum, I saw many beautiful paintings.
+- [x] C) Walking through the museum, I saw many beautiful paintings.
   <!-- feedback: Correct! The subject "I" is the one who was walking. -->
-- [ ] C) Walked through the museum, I saw many paintings.
+- [ ] B) Walked through the museum, I saw many paintings.
   <!-- feedback: Incorrect. Passive meaning for "walked". -->
 - [ ] D) Having walking through the museum, I saw many paintings.
   <!-- feedback: Incorrect. -->
@@ -237,9 +237,9 @@ El participio de perfecto (*Having finished*) indica prioridad temporal entre do
 ________ enough evidence to prove his theory, the scientist continued his research for years.
 
 ### Opciones
-- [ ] A) Having not
+- [ ] B) Having not
   <!-- feedback: Incorrect word order. -->
-- [x] B) Not having
+- [x] A) Not having
   <!-- feedback: Correct! Negative participle clauses start with "Not" followed by the participle. -->
 - [ ] C) Don't having
   <!-- feedback: Incorrect. -->
@@ -265,11 +265,11 @@ Identify the error in this paragraph:
 ### Opciones
 - [ ] A) Growing up
   <!-- feedback: Incorrect. Correct use. -->
-- [ ] B) Built
+- [ ] C) Built
   <!-- feedback: Incorrect. Correct use. -->
-- [ ] C) Having been
+- [ ] D) Having been
   <!-- feedback: Incorrect. Correct use. -->
-- [x] D) becoming
+- [x] B) becoming
   <!-- feedback: Correct! This should be a finite verb (became) because it is the main verb of the sentence. -->
 
 ### Explicacion Pedagogica
@@ -288,11 +288,11 @@ Una oración de participio no puede funcionar como el verbo principal de una ora
 Which sentence is the most formal way to report a historical event?
 
 ### Opciones
-- [ ] A) The king was defeated and then he went into exile.
+- [ ] B) The king was defeated and then he went into exile.
   <!-- feedback: Incorrect. Too simple. -->
-- [ ] B) When the king was defeated, he went into exile.
+- [ ] C) When the king was defeated, he went into exile.
   <!-- feedback: Incorrect. -->
-- [x] C) Defeated in battle, the king went into exile.
+- [x] A) Defeated in battle, the king went into exile.
   <!-- feedback: Correct! Uses a past participle clause for conciseness. -->
 - [ ] D) The king, who was defeated, went into exile.
   <!-- feedback: Incorrect. -->

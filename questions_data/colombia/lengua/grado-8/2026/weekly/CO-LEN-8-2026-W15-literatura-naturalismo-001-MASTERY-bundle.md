@@ -33,8 +33,8 @@ creador: "Jules-Agent"
 ¿Quién es el escritor francés considerado el fundador y máximo teórico del Naturalismo con su obra "La novela experimental"?
 
 ### Opciones
-- [ ] A) Gustave Flaubert <!-- feedback: Flaubert es un maestro del Realismo, pero no el teórico del Naturalismo. -->
-- [x] B) Émile Zola <!-- feedback: Zola propuso que el novelista debía actuar como un científico que estudia el comportamiento humano. -->
+- [ ] B) Gustave Flaubert <!-- feedback: Flaubert es un maestro del Realismo, pero no el teórico del Naturalismo. -->
+- [x] A) Émile Zola <!-- feedback: Zola propuso que el novelista debía actuar como un científico que estudia el comportamiento humano. -->
 - [ ] C) Víctor Hugo <!-- feedback: Víctor Hugo es el gran representante del Romanticismo francés. -->
 - [ ] D) Honoré de Balzac <!-- feedback: Balzac es el precursor del Realismo con su "Comedia Humana". -->
 
@@ -76,9 +76,9 @@ El determinismo es la base filosófica del Naturalismo, explicando la conducta h
 
 ### Opciones
 - [ ] A) Palacios lujosos y fiestas de la alta sociedad. <!-- feedback: Estos escenarios son más propios de la novela realista burguesa. -->
-- [x] B) Ambientes marginales, miseria, alcoholismo y enfermedades. <!-- feedback: Se busca analizar la realidad en sus condiciones más extremas y difíciles. -->
-- [ ] C) Paisajes exóticos en islas desiertas y selvas vírgenes. <!-- feedback: El Naturalismo se centra en la sociedad industrial y urbana. -->
-- [ ] D) Sueños e imágenes fantásticas del subconsciente. <!-- feedback: Esto es propio de movimientos vanguardistas posteriores. -->
+- [x] D) Ambientes marginales, miseria, alcoholismo y enfermedades. <!-- feedback: Se busca analizar la realidad en sus condiciones más extremas y difíciles. -->
+- [ ] B) Paisajes exóticos en islas desiertas y selvas vírgenes. <!-- feedback: El Naturalismo se centra en la sociedad industrial y urbana. -->
+- [ ] C) Sueños e imágenes fantásticas del subconsciente. <!-- feedback: Esto es propio de movimientos vanguardistas posteriores. -->
 
 ### Explicacion Pedagogica
 El Naturalismo pone el foco en los aspectos más sórdidos de la realidad para denunciar las condiciones que degradan al ser humano.
@@ -98,8 +98,8 @@ El Naturalismo pone el foco en los aspectos más sórdidos de la realidad para d
 ### Opciones
 - [ ] A) Entretener al lector con historias divertidas y finales felices. <!-- feedback: El Naturalismo no busca el entretenimiento ligero, sino el análisis crítico. -->
 - [ ] B) Opinar constantemente sobre lo que está bien y lo que está mal. <!-- feedback: Se busca la objetividad impersonal, dejando que los hechos hablen solos. -->
-- [x] C) Observar y registrar los hechos de forma objetiva, sin juzgar moralmente a los personajes. <!-- feedback: El autor es un observador imparcial que analiza causas y efectos. -->
-- [ ] D) Escribir poemas líricos sobre la belleza de la naturaleza salvaje. <!-- feedback: El Naturalismo prefiere la prosa narrativa y temas sociales crudos. -->
+- [x] D) Observar y registrar los hechos de forma objetiva, sin juzgar moralmente a los personajes. <!-- feedback: El autor es un observador imparcial que analiza causas y efectos. -->
+- [ ] C) Escribir poemas líricos sobre la belleza de la naturaleza salvaje. <!-- feedback: El Naturalismo prefiere la prosa narrativa y temas sociales crudos. -->
 
 ### Explicacion Pedagogica
 La impersonalidad narrativa busca que el relato parezca un documento científico de la realidad, eliminando la voz subjetiva del autor.
@@ -118,8 +118,8 @@ Si en una novela naturalista se describe que un joven es alcohólico porque su p
 
 ### Opciones
 - [ ] A) Que la suerte es el factor más importante en la vida de los hombres. <!-- feedback: No es suerte, es una ley biológica predecible según el autor. -->
-- [ ] B) Que la voluntad del joven es débil y no quiere esforzarse. <!-- feedback: El Naturalismo minimiza la importancia de la voluntad frente a la herencia. -->
-- [x] C) La herencia biológica como un factor determinante e inevitable de la conducta. <!-- feedback: Los vicios o virtudes se transmiten a través de la sangre según esta visión. -->
+- [ ] C) Que la voluntad del joven es débil y no quiere esforzarse. <!-- feedback: El Naturalismo minimiza la importancia de la voluntad frente a la herencia. -->
+- [x] B) La herencia biológica como un factor determinante e inevitable de la conducta. <!-- feedback: Los vicios o virtudes se transmiten a través de la sangre según esta visión. -->
 - [ ] D) Que beber alcohol era la única actividad divertida en el siglo XIX. <!-- feedback: El alcoholismo se presenta como una patología social y biológica. -->
 
 ### Explicacion Pedagogica
@@ -160,8 +160,8 @@ El naturalismo español (o naturalismo cristiano) suavizó el materialismo de Zo
 
 ### Opciones
 - [ ] A) Porque los libros olían mal debido a la mala calidad del papel. <!-- feedback: Es una crítica metafórica sobre el contenido, no física sobre el objeto. -->
-- [ ] B) Porque los autores escribían sus obras dentro de los túneles del metro. <!-- feedback: No se refiere al lugar de escritura, sino a la temática marginal. -->
-- [x] C) Por su insistencia en describir los aspectos más crudos, feos y animales del ser humano. <!-- feedback: La descripción de enfermedades y vicios rompía con el decoro tradicional de la literatura. -->
+- [ ] C) Porque los autores escribían sus obras dentro de los túneles del metro. <!-- feedback: No se refiere al lugar de escritura, sino a la temática marginal. -->
+- [x] B) Por su insistencia en describir los aspectos más crudos, feos y animales del ser humano. <!-- feedback: La descripción de enfermedades y vicios rompía con el decoro tradicional de la literatura. -->
 - [ ] D) Porque los personajes siempre estaban limpiando sus casas con mucha agua. <!-- feedback: Al contrario, solían describir ambientes sucios y descuidados. -->
 
 ### Explicacion Pedagogica
@@ -181,8 +181,8 @@ La crudeza descriptiva del Naturalismo buscaba la verdad científica, pero fue i
 
 ### Opciones
 - [ ] A) Convencer a los mineros de que debían trabajar más horas para ser felices. <!-- feedback: La obra muestra que el trabajo excesivo en esas condiciones es deshumanizador. -->
-- [ ] B) Demostrar que los dueños de las fábricas eran siempre personas santas. <!-- feedback: Critica duramente la explotación y la desigualdad social. -->
-- [x] C) Denunciar las injusticias del sistema y provocar una reflexión sobre la necesidad de cambios sociales profundos. <!-- feedback: El naturalismo tiene una fuerte carga de denuncia social y política. -->
+- [ ] C) Demostrar que los dueños de las fábricas eran siempre personas santas. <!-- feedback: Critica duramente la explotación y la desigualdad social. -->
+- [x] B) Denunciar las injusticias del sistema y provocar una reflexión sobre la necesidad de cambios sociales profundos. <!-- feedback: El naturalismo tiene una fuerte carga de denuncia social y política. -->
 - [ ] D) Enseñar a los lectores técnicas de minería seguras para evitar accidentes. <!-- feedback: No es un manual técnico, sino una obra de arte con compromiso social. -->
 
 ### Explicacion Pedagogica
@@ -202,8 +202,8 @@ Si en una novela naturalista se describe a un hombre peleando por comida "como u
 
 ### Opciones
 - [ ] A) Que el hombre puede transformarse en animal mediante la magia. <!-- feedback: El Naturalismo es realista, no usa elementos fantásticos. -->
-- [ ] B) Que los lobos son animales muy inteligentes y parecidos a nosotros. <!-- feedback: La comparación busca degradar al hombre a su estado puramente biológico. -->
-- [x] C) Que bajo condiciones extremas, la cultura desaparece y el hombre queda reducido a sus impulsos biológicos. <!-- feedback: Es la visión materialista del ser humano como un organismo regido por instintos. -->
+- [ ] C) Que los lobos son animales muy inteligentes y parecidos a nosotros. <!-- feedback: La comparación busca degradar al hombre a su estado puramente biológico. -->
+- [x] B) Que bajo condiciones extremas, la cultura desaparece y el hombre queda reducido a sus impulsos biológicos. <!-- feedback: Es la visión materialista del ser humano como un organismo regido por instintos. -->
 - [ ] D) Que es muy importante alimentar bien a las mascotas para que no sean agresivas. <!-- feedback: La metáfora se aplica a la condición humana en la miseria. -->
 
 ### Explicacion Pedagogica
@@ -222,9 +222,9 @@ La animalización subraya el pesimismo naturalista: el hombre no es un ser espir
 ¿Cuál es la diferencia entre el campo idealizado del Renacimiento y el campo naturalista de Blasco Ibáñez?
 
 ### Opciones
-- [ ] A) En el Renacimiento el campo era feo y en el Naturalismo es muy bonito. <!-- feedback: Es exactamente al revés. -->
-- [ ] B) En el Renacimiento los pastores eran pobres y en el Naturalismo son todos ricos. <!-- feedback: En el Naturalismo se muestra la pobreza real y la lucha por la tierra. -->
-- [x] C) El Renacimiento muestra una naturaleza armoniosa; el Naturalismo muestra una naturaleza hostil y un trabajo campesino agotador y brutal. <!-- feedback: El campo naturalista es un lugar de lucha, sudor y conflictos sociales violentos. -->
+- [ ] B) En el Renacimiento el campo era feo y en el Naturalismo es muy bonito. <!-- feedback: Es exactamente al revés. -->
+- [ ] C) En el Renacimiento los pastores eran pobres y en el Naturalismo son todos ricos. <!-- feedback: En el Naturalismo se muestra la pobreza real y la lucha por la tierra. -->
+- [x] A) El Renacimiento muestra una naturaleza armoniosa; el Naturalismo muestra una naturaleza hostil y un trabajo campesino agotador y brutal. <!-- feedback: El campo naturalista es un lugar de lucha, sudor y conflictos sociales violentos. -->
 - [ ] D) No hay diferencia, el campo siempre se ha descrito igual en la literatura. <!-- feedback: Cada movimiento literario proyecta una visión distinta sobre la naturaleza. -->
 
 ### Explicacion Pedagogica
@@ -245,8 +245,8 @@ La visión naturalista del campo elimina cualquier rastro de nostalgia pastoril 
 ### Opciones
 - [ ] A) Porque los autores regalaban entradas para el cine con cada libro. <!-- feedback: El cine apenas estaba naciendo y era una curiosidad técnica. -->
 - [ ] B) Porque las novelas naturalistas eran muy cortas, como los primeros vídeos. <!-- feedback: Eran novelas muy extensas y densas. -->
-- [x] C) Mediante el uso de "planos" descriptivos, atención a la luz y una mirada casi mecánica sobre la realidad. <!-- feedback: La minuciosidad descriptiva preparó al lector para la narrativa visual de la cámara. -->
-- [ ] D) Porque los personajes hablaban poco para que se pudiera ver bien la acción. <!-- feedback: Los diálogos eran extensos, pero la fuerza residía en la ambientación visual detallada. -->
+- [x] D) Mediante el uso de "planos" descriptivos, atención a la luz y una mirada casi mecánica sobre la realidad. <!-- feedback: La minuciosidad descriptiva preparó al lector para la narrativa visual de la cámara. -->
+- [ ] C) Porque los personajes hablaban poco para que se pudiera ver bien la acción. <!-- feedback: Los diálogos eran extensos, pero la fuerza residía en la ambientación visual detallada. -->
 
 ### Explicacion Pedagogica
 La estética naturalista buscaba una precisión tal que la palabra casi se convertía en imagen, influyendo profundamente en el posterior realismo cinematográfico.
@@ -264,9 +264,9 @@ La estética naturalista buscaba una precisión tal que la palabra casi se conve
 Si el determinismo es total, ¿qué valor tiene la lucha de los personajes naturalistas por mejorar su vida?
 
 ### Opciones
-- [ ] A) Tiene un gran valor porque siempre logran vencer al destino al final. <!-- feedback: En el Naturalismo puro, el destino suele ser trágico e inevitable. -->
-- [ ] B) Ningún valor, por eso las novelas naturalistas no tienen protagonistas. <!-- feedback: Tienen protagonistas, pero su lucha es contra fuerzas superiores. -->
-- [x] C) Un valor trágico: la lucha resalta la injusticia de un sistema y de unas leyes que aplastan al individuo a pesar de su esfuerzo. <!-- feedback: La tragedia reside en la imposibilidad de escapar de la "trampa" biológica y social. -->
+- [ ] B) Tiene un gran valor porque siempre logran vencer al destino al final. <!-- feedback: En el Naturalismo puro, el destino suele ser trágico e inevitable. -->
+- [ ] C) Ningún valor, por eso las novelas naturalistas no tienen protagonistas. <!-- feedback: Tienen protagonistas, pero su lucha es contra fuerzas superiores. -->
+- [x] A) Un valor trágico: la lucha resalta la injusticia de un sistema y de unas leyes que aplastan al individuo a pesar de su esfuerzo. <!-- feedback: La tragedia reside en la imposibilidad de escapar de la "trampa" biológica y social. -->
 - [ ] D) Significa que los personajes son tontos por no saber que el determinismo existe. <!-- feedback: Los personajes actúan según su naturaleza, no según teorías literarias. -->
 
 ### Explicacion Pedagogica

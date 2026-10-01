@@ -34,11 +34,11 @@ Este bundle de 10 preguntas explica el sonido como onda mecánica, sus formas de
 ¿Qué se produce cuando la vendedora hace sonar la campana metálica?
 
 ### Opciones
-- [x] A) El metal vibra y genera un sonido que viaja por el aire
+- [x] C) El metal vibra y genera un sonido que viaja por el aire
   <!-- feedback: Correcto. Toda campana vibra y emite sonido al ser golpeada. -->
-- [ ] B) La campana se enfría y eso produce el tintineo
+- [ ] A) La campana se enfría y eso produce el tintineo
   <!-- feedback: Incorrecto. La campana no genera sonido por enfriamiento. -->
-- [ ] C) Solo se mueve el aire cercano sin que vibre la campana
+- [ ] B) Solo se mueve el aire cercano sin que vibre la campana
   <!-- feedback: Incorrecto. Sin vibración de la campana no se origina sonido alguno. -->
 - [ ] D) La campana cambia de color al sonar fuerte
   <!-- feedback: Incorrecto. El color de la campana no afecta la producción del sonido. -->
@@ -126,9 +126,9 @@ El efecto Doppler ocurre cuando la fuente y el observador se mueven uno respecto
 ¿Por qué los compañeros afuera del agua escuchan la voz del niño pero no distinguen las palabras?
 
 ### Opciones
-- [x] A) Porque parte del sonido sale del agua hacia el aire pero se refleja mucho en la superficie y pierde nitidez
+- [x] B) Porque parte del sonido sale del agua hacia el aire pero se refleja mucho en la superficie y pierde nitidez
   <!-- feedback: Correcto. La interfaz agua-aire refleja y refracta la onda sonora y dificulta la articulación. -->
-- [ ] B) Porque el agua detiene por completo el sonido y nada llega al aire
+- [ ] A) Porque el agua detiene por completo el sonido y nada llega al aire
   <!-- feedback: Incorrecto. Algo de sonido pasa, aunque con menor nitidez. -->
 - [ ] C) Porque los compañeros están muy lejos y el oído se cansa
   <!-- feedback: Incorrecto. La distancia no es la causa principal del problema. -->
@@ -172,13 +172,13 @@ Analizar sonido obliga a separar fuente y resonador: la caja grande favorece ond
 ¿Qué análisis explica que la vibración por la baranda se escuche antes que por el aire?
 
 ### Opciones
-- [x] A) El metal sólido transmite la vibración de los pasos con mayor velocidad que el aire
+- [x] D) El metal sólido transmite la vibración de los pasos con mayor velocidad que el aire
   <!-- feedback: Correcto. El sonido viaja más deprisa en sólidos que en gases. -->
-- [ ] B) El aire siempre transporta el sonido con la misma velocidad
+- [ ] A) El aire siempre transporta el sonido con la misma velocidad
   <!-- feedback: Incorrecto. La velocidad cambia según la rigidez y densidad del medio. -->
-- [ ] C) La baranda absorbe el sonido y lo hace más lento
+- [ ] B) La baranda absorbe el sonido y lo hace más lento
   <!-- feedback: Incorrecto. La baranda no absorbe, transmite la vibración rápido. -->
-- [ ] D) Los pasos suenan diferente en el metal porque cambia la masa de quien camina
+- [ ] C) Los pasos suenan diferente en el metal porque cambia la masa de quien camina
   <!-- feedback: Incorrecto. Quien camina no cambia su masa por escuchar la baranda. -->
 
 ### Explicacion Pedagogica
@@ -195,11 +195,11 @@ Comparar medios de propagación exige medir la velocidad: en sólidos rígidos c
 ¿Qué análisis explica la existencia del eco en la cueva?
 
 ### Opciones
-- [x] A) La voz viaja hasta la pared lejana, se refleja y regresa al oído con un retraso suficiente para distinguirse del sonido original
+- [x] C) La voz viaja hasta la pared lejana, se refleja y regresa al oído con un retraso suficiente para distinguirse del sonido original
   <!-- feedback: Correcto. La reflexión en superficies duras genera el eco. -->
-- [ ] B) La cueva multiplica el sonido porque el aire dentro estático
+- [ ] A) La cueva multiplica el sonido porque el aire dentro estático
   <!-- feedback: Incorrecto. La quietud del aire no multiplica; el eco es reflexión. -->
-- [ ] C) El eco se debe a la oscuridad del lugar
+- [ ] B) El eco se debe a la oscuridad del lugar
   <!-- feedback: Incorrecto. La oscuridad y la luz no afectan el sonido. -->
 - [ ] D) La palabra se escucha dos veces porque el guía habla raro
   <!-- feedback: Incorrecto. La repetición se debe a la reflexión física del sonido. -->
@@ -218,11 +218,11 @@ Analizar el eco requiere entender reflexión y distancia: si la pared está a m�
 ¿Qué juicio crítico merece la promesa publicitaria?
 
 ### Opciones
-- [x] A) Ningún aislamiento es perfecto, siempre queda algo de sonido externo audible por conducción a través de la cabeza
+- [x] C) Ningún aislamiento es perfecto, siempre queda algo de sonido externo audible por conducción a través de la cabeza
   <!-- feedback: Correcto. El hueso del cráneo transmite vibración hasta con aislamiento mecánico. -->
-- [ ] B) La promesa es cierta porque los auriculares anulan todo sonido
+- [ ] A) La promesa es cierta porque los auriculares anulan todo sonido
   <!-- feedback: Incorrecto. Ningún material bloquea toda la energía sonora. -->
-- [ ] C) El aislamiento completo es posible si el auricular es de color negro
+- [ ] B) El aislamiento completo es posible si el auricular es de color negro
   <!-- feedback: Incorrecto. El color no influye en el aislamiento acústico. -->
 - [ ] D) La promesa se cumple solo en lugares silenciosos y no en Bogotá
   <!-- feedback: Incorrecto. El aislamiento parcial funciona similarmente en todo lugar. -->
@@ -241,13 +241,13 @@ Evaluar publicidad acústica exige reconocer que el aislamiento trabaja con la c
 ¿Qué evaluación conjunta de las tres hipótesis es correcta?
 
 ### Opciones
-- [x] A) La 1 es falsa porque el sonido no viaja en el vacío, la 2 es verdadera por reflexión del sonido y la 3 es verdadera porque la frecuencia mayor implica tono agudo
+- [x] D) La 1 es falsa porque el sonido no viaja en el vacío, la 2 es verdadera por reflexión del sonido y la 3 es verdadera porque la frecuencia mayor implica tono agudo
   <!-- feedback: Correcto. Corrige el mito del espacio y valida la física del eco y la frecuencia. -->
-- [ ] B) Las tres son verdaderas porque el sonido siempre llega
+- [ ] A) Las tres son verdaderas porque el sonido siempre llega
   <!-- feedback: Incorrecto. En el vacío el sonido no tiene medio para propagarse. -->
-- [ ] C) Solo la 2 es verdadera y las demás son falsas
+- [ ] B) Solo la 2 es verdadera y las demás son falsas
   <!-- feedback: Incorrecto. La 3 también es verdadera, no solo la 2. -->
-- [ ] D) Las tres son falsas porque el sonido solo se oye de día
+- [ ] C) Las tres son falsas porque el sonido solo se oye de día
   <!-- feedback: Incorrecto. El sonido se escucha de día y de noche por igual. -->
 
 ### Explicacion Pedagogica

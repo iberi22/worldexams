@@ -30,8 +30,8 @@ creador: "Jules-Agent"
 ¿Cuál es la función principal de una tabla en un texto informativo como el descrito?
 
 ### Opciones
-- [ ] A) Narrar una historia cronológica sobre el clima. <!-- feedback: Las tablas no narran historias, organizan datos de manera sistemática. -->
-- [x] B) Organizar datos numéricos o conceptos en filas y columnas para facilitar su consulta. <!-- feedback: La estructura de filas y columnas permite comparar y localizar información rápidamente. -->
+- [ ] B) Narrar una historia cronológica sobre el clima. <!-- feedback: Las tablas no narran historias, organizan datos de manera sistemática. -->
+- [x] A) Organizar datos numéricos o conceptos en filas y columnas para facilitar su consulta. <!-- feedback: La estructura de filas y columnas permite comparar y localizar información rápidamente. -->
 - [ ] C) Decorar el texto para que no sea solo palabras. <!-- feedback: Aunque mejoran la visualización, su función principal es informativa y organizativa. -->
 - [ ] D) Expresar la opinión del autor sobre si el clima es bueno o malo. <!-- feedback: Las tablas suelen presentar datos objetivos, no opiniones personales. -->
 
@@ -50,8 +50,8 @@ Las tablas son textos discontinuos que permiten una lectura no lineal. Su objeti
 
 ### Opciones
 - [ ] A) El color de la barra. <!-- feedback: El color diferencia las categorías, pero no indica cantidad por sí solo. -->
-- [x] B) La longitud o altura de la barra. <!-- feedback: En un gráfico de barras, la altura representa la magnitud del dato, permitiendo una comparación visual inmediata. -->
-- [ ] C) El nombre de la ciudad en la base. <!-- feedback: El nombre identifica el dato, pero la comparación se hace por la altura. -->
+- [x] C) La longitud o altura de la barra. <!-- feedback: En un gráfico de barras, la altura representa la magnitud del dato, permitiendo una comparación visual inmediata. -->
+- [ ] B) El nombre de la ciudad en la base. <!-- feedback: El nombre identifica el dato, pero la comparación se hace por la altura. -->
 - [ ] D) El título del gráfico. <!-- feedback: El título indica de qué trata el gráfico, pero no muestra las diferencias entre los datos. -->
 
 ### Explicacion Pedagogica
@@ -74,8 +74,8 @@ Según la tabla, ¿qué fruta tuvo un aumento en sus ventas entre el lunes y el 
 
 ### Opciones
 - [ ] A) Solo el Mango. <!-- feedback: El mango disminuyó de 50 a 45 kilos. -->
-- [x] B) La Papaya y el Lulo. <!-- feedback: La papaya subió de 30 a 35 y el lulo de 20 a 25. -->
-- [ ] C) Ninguna de las frutas. <!-- feedback: Incorrecto, dos de ellas sí aumentaron sus ventas. -->
+- [x] C) La Papaya y el Lulo. <!-- feedback: La papaya subió de 30 a 35 y el lulo de 20 a 25. -->
+- [ ] B) Ninguna de las frutas. <!-- feedback: Incorrecto, dos de ellas sí aumentaron sus ventas. -->
 - [ ] D) Todas las frutas mencionadas. <!-- feedback: Incorrecto, el mango no aumentó. -->
 
 ### Explicacion Pedagogica
@@ -111,8 +111,8 @@ Los gráficos circulares representan la relación de las partes con el todo. El 
 ¿Cuál de los siguientes tipos de gráficos es el más adecuado para representar la evolución o cambio de un valor a través del tiempo?
 
 ### Opciones
-- [ ] A) Gráfico circular (de torta). <!-- feedback: Este gráfico es para partes de un todo, no para líneas de tiempo. -->
-- [x] B) Gráfico de líneas. <!-- feedback: El gráfico de líneas es ideal para mostrar tendencias, subidas y bajadas a lo largo de un período temporal. -->
+- [ ] B) Gráfico circular (de torta). <!-- feedback: Este gráfico es para partes de un todo, no para líneas de tiempo. -->
+- [x] A) Gráfico de líneas. <!-- feedback: El gráfico de líneas es ideal para mostrar tendencias, subidas y bajadas a lo largo de un período temporal. -->
 - [ ] C) Gráfico de barras horizontales. <!-- feedback: Aunque sirve para comparar, no es el más fluido para ver tendencias temporales. -->
 - [ ] D) Tabla de una sola fila. <!-- feedback: Una sola fila no permitiría ver la evolución de cinco años. -->
 
@@ -131,9 +131,9 @@ Si tuvieras que redactar una conclusión para este gráfico en un texto periodí
 
 ### Opciones
 - [ ] A) El reciclaje de plástico en Bogotá se ha mantenido estable en los últimos dos años. <!-- feedback: Los datos muestran un cambio significativo, no estabilidad. -->
-- [x] B) La recolección de plástico en la capital aumentó más del doble entre 2024 y 2025. <!-- feedback: 250 es más del doble de 100, lo que hace que la conclusión sea exacta. -->
-- [ ] C) Los ciudadanos de Bogotá ya no usan plástico gracias a las nuevas leyes. <!-- feedback: El gráfico informa sobre la recolección, no sobre el cese del uso. -->
-- [ ] D) En 2025 se recolectó menos plástico que el año anterior. <!-- feedback: Es lo opuesto a lo que indican las cifras. -->
+- [x] D) La recolección de plástico en la capital aumentó más del doble entre 2024 y 2025. <!-- feedback: 250 es más del doble de 100, lo que hace que la conclusión sea exacta. -->
+- [ ] B) Los ciudadanos de Bogotá ya no usan plástico gracias a las nuevas leyes. <!-- feedback: El gráfico informa sobre la recolección, no sobre el cese del uso. -->
+- [ ] C) En 2025 se recolectó menos plástico que el año anterior. <!-- feedback: Es lo opuesto a lo que indican las cifras. -->
 
 ### Explicacion Pedagogica
 Integrar la información de gráficos en un texto escrito requiere la habilidad de traducir datos visuales en afirmaciones lingüísticas precisas y coherentes con la magnitud de los números.
@@ -149,8 +149,8 @@ Integrar la información de gráficos en un texto escrito requiere la habilidad 
 ¿Cómo se complementan la tabla y el gráfico en este recurso de comunicación?
 
 ### Opciones
-- [ ] A) El gráfico repite exactamente la misma información numérica de la tabla. <!-- feedback: El gráfico suele simplificar la información para una reacción rápida, no solo repetir números. -->
-- [x] B) La tabla ofrece los datos precisos, mientras que el gráfico de semáforo permite una interpretación visual rápida del riesgo. <!-- feedback: Esta combinación atiende a la necesidad de precisión y a la necesidad de comunicación inmediata. -->
+- [ ] B) El gráfico repite exactamente la misma información numérica de la tabla. <!-- feedback: El gráfico suele simplificar la información para una reacción rápida, no solo repetir números. -->
+- [x] A) La tabla ofrece los datos precisos, mientras que el gráfico de semáforo permite una interpretación visual rápida del riesgo. <!-- feedback: Esta combinación atiende a la necesidad de precisión y a la necesidad de comunicación inmediata. -->
 - [ ] C) El gráfico invalida los datos de la tabla por ser más moderno. <!-- feedback: Ninguno invalida al otro; son modos complementarios. -->
 - [ ] D) La tabla es solo para médicos y el gráfico es para los pacientes. <!-- feedback: Ambos elementos están diseñados para el lector del folleto, reforzando el mensaje de salud. -->
 
@@ -169,8 +169,8 @@ La redundancia estratégica en textos multimodales (como usar una tabla y un gr�
 
 ### Opciones
 - [ ] A) Es un diseño correcto porque resalta el dato más importante con color. <!-- feedback: El color es válido, pero la diferencia de ancho puede ser engañosa. -->
-- [ ] B) El gráfico es inútil porque no incluye una fotografía de los hechos. <!-- feedback: Un gráfico no necesita fotos para ser útil, necesita rigor en la representación. -->
-- [x] C) El diseño visual busca exagerar la percepción del aumento mediante el uso del color y el grosor de las barras. <!-- feedback: Las distorsiones visuales en los gráficos (como cambiar el ancho de las barras) pueden manipular la interpretación de los datos. -->
+- [ ] C) El gráfico es inútil porque no incluye una fotografía de los hechos. <!-- feedback: Un gráfico no necesita fotos para ser útil, necesita rigor en la representación. -->
+- [x] B) El diseño visual busca exagerar la percepción del aumento mediante el uso del color y el grosor de las barras. <!-- feedback: Las distorsiones visuales en los gráficos (como cambiar el ancho de las barras) pueden manipular la interpretación de los datos. -->
 - [ ] D) El ancho de la barra representa la importancia política del año en cuestión. <!-- feedback: El ancho no debería variar en un gráfico de barras estándar, solo la altura. -->
 
 ### Explicacion Pedagogica

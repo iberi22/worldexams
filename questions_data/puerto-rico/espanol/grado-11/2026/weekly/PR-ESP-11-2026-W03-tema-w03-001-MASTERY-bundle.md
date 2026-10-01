@@ -36,8 +36,8 @@ bundle_index: 1
 ### Opciones
 - [ ] A) por consiguiente <!-- feedback: Incorrecto. Introduciría una consecuencia directa del brillo, lo cual contradice el sentido negativo de la contaminación. -->
 - [ ] B) además <!-- feedback: Incorrecto. Es un conector aditivo que sumaría información afín, no un contraste adverso. -->
-- [x] C) sin embargo <!-- feedback: ¡Correcto! "Sin embargo" es el conector restrictivo perfecto para contraponer la belleza natural del brillo nocturno con la amenaza de la luz comercial. -->
-- [ ] D) es decir <!-- feedback: Incorrecto. Es un conector explicativo o reformulador, no adversativo de contraste. -->
+- [x] D) sin embargo <!-- feedback: ¡Correcto! "Sin embargo" es el conector restrictivo perfecto para contraponer la belleza natural del brillo nocturno con la amenaza de la luz comercial. -->
+- [ ] C) es decir <!-- feedback: Incorrecto. Es un conector explicativo o reformulador, no adversativo de contraste. -->
 
 ### Explicacion Pedagogica
 Los conectores adversativos establecen una limitación o contraste entre dos enunciados. En este caso, "sin embargo" matiza la descripción maravillosa de la bahía introduciendo de forma cohesiva la problemática ecológica de la contaminación lumínica.
@@ -56,9 +56,9 @@ Los conectores adversativos establecen una limitación o contraste entre dos enu
 
 ### Opciones
 - [ ] A) Por el contrario <!-- feedback: Incorrecto. Sugiere una oposición total entre los artesanos y los visitantes, que no es lógica aquí. -->
-- [x] B) Asimismo <!-- feedback: ¡Correcto! "Asimismo" es un conector de adición y semejanza que permite sumar ordenadamente otra escena descriptiva del festival sin alterar la coherencia. -->
-- [ ] C) En resumidas cuentas <!-- feedback: Incorrecto. Es un conector de recapitulación o resumen, inoportuno para continuar añadiendo detalles descriptivos paralelos. -->
-- [ ] D) No obstante <!-- feedback: Incorrecto. Es adversativo e introduce oposición, rompiendo la armonía de la lista de actividades alegres descritas. -->
+- [x] D) Asimismo <!-- feedback: ¡Correcto! "Asimismo" es un conector de adición y semejanza que permite sumar ordenadamente otra escena descriptiva del festival sin alterar la coherencia. -->
+- [ ] B) En resumidas cuentas <!-- feedback: Incorrecto. Es un conector de recapitulación o resumen, inoportuno para continuar añadiendo detalles descriptivos paralelos. -->
+- [ ] C) No obstante <!-- feedback: Incorrecto. Es adversativo e introduce oposición, rompiendo la armonía de la lista de actividades alegres descritas. -->
 
 ### Explicacion Pedagogica
 El conector aditivo "Asimismo" (también escrito "así mismo") permite agregar información del mismo valor temático e intensidad que las oraciones previas, manteniendo la cohesión formal de la descripción sin saltos abruptos en el texto.
@@ -77,8 +77,8 @@ El conector aditivo "Asimismo" (también escrito "así mismo") permite agregar i
 
 ### Opciones
 - [ ] A) Elipsis nominal absoluta <!-- feedback: Incorrecto. La elipsis suprime el sujeto; aquí se ha sustituido explícitamente por un sintagma nominal descriptivo completo. -->
-- [ ] B) Repetición léxica exacta <!-- feedback: Incorrecto. No se repite la palabra "Betances"; se utiliza un término totalmente diferente con el mismo referente. -->
-- [x] C) Sustitución por frase sinónima (perífrasis alusiva) <!-- feedback: ¡Correcto! Se reemplaza el nombre propio "Ramón Emeterio Betances" por una frase descriptiva o perífrasis equivalente ("El ilustre médico puertorriqueño") que alude al personaje sin redundancias. -->
+- [ ] C) Repetición léxica exacta <!-- feedback: Incorrecto. No se repite la palabra "Betances"; se utiliza un término totalmente diferente con el mismo referente. -->
+- [x] B) Sustitución por frase sinónima (perífrasis alusiva) <!-- feedback: ¡Correcto! Se reemplaza el nombre propio "Ramón Emeterio Betances" por una frase descriptiva o perífrasis equivalente ("El ilustre médico puertorriqueño") que alude al personaje sin redundancias. -->
 - [ ] D) Pronominalización catafórica <!-- feedback: Incorrecto. Es anafórica porque alude a un elemento mencionado anteriormente, y se hace mediante un grupo nominal, no un pronombre. -->
 
 ### Explicacion Pedagogica
@@ -97,10 +97,10 @@ La sustitución léxica mediante frases sinónimas o perífrasis alusivas permit
 ¿Cuál de los siguientes pares de conectores consecutivos o causales completa de manera cohesiva y lógica la relación interna del enunciado?
 
 ### Opciones
-- [x] A) Como / por lo que <!-- feedback: ¡Correcto! "Como" introduce de manera idónea la causa (no requerir tierra), y "por lo que" señala la consecuencia lógica (la protección de plagas terrestres). -->
-- [ ] B) Aunque / a pesar de que <!-- feedback: Incorrecto. Estos son conectores concesivos que indicarían un obstáculo insuperable que no encaja con la causalidad directa de la agricultura hidropónica descrita. -->
-- [ ] C) Si bien / en consecuencia <!-- feedback: Incorrecto. Sería redundante o contradictorio con el sentido causal de la primera proposición explicativa. -->
-- [ ] D) Con el fin de que / para <!-- feedback: Incorrecto. Introducen una finalidad futura, distorsionando la relación causal empírica que describe el método de cultivo. -->
+- [x] D) Como / por lo que <!-- feedback: ¡Correcto! "Como" introduce de manera idónea la causa (no requerir tierra), y "por lo que" señala la consecuencia lógica (la protección de plagas terrestres). -->
+- [ ] A) Aunque / a pesar de que <!-- feedback: Incorrecto. Estos son conectores concesivos que indicarían un obstáculo insuperable que no encaja con la causalidad directa de la agricultura hidropónica descrita. -->
+- [ ] B) Si bien / en consecuencia <!-- feedback: Incorrecto. Sería redundante o contradictorio con el sentido causal de la primera proposición explicativa. -->
+- [ ] C) Con el fin de que / para <!-- feedback: Incorrecto. Introducen una finalidad futura, distorsionando la relación causal empírica que describe el método de cultivo. -->
 
 ### Explicacion Pedagogica
 La cohesión textual requiere coordinar causas y efectos con precisión. "Como" funciona en este contexto como conector causal de inicio de oración, coordinándose perfectamente con el conector consecutivo de relativo "por lo que".
@@ -142,8 +142,8 @@ La cohesión y coherencia exigen estructurar las ideas según su relación lógi
 ¿Cuál de las siguientes oraciones contiene un ejemplo de **catáfora** (mecanismo donde el pronombre se anticipa a la mención del elemento nominal que se presentará después)?
 
 ### Opciones
-- [ ] A) Los pescadores de Cabo Rojo regresaron temprano de la faena; ellos estaban preocupados por la marea. <!-- feedback: Incorrecto. El pronombre "ellos" refiere anafóricamente a "Los pescadores", elemento que ya fue mencionado con anterioridad. -->
-- [x] B) Le advertí esto a Sofía: el costo de la matrícula universitaria aumentará en agosto. <!-- feedback: ¡Correcto! El pronombre átono "le" y el demostrativo "esto" se anticipan y refieren catafóricamente a la información nominal que se detalla después: a "Sofía" y al "aumento de la matrícula". -->
+- [ ] B) Los pescadores de Cabo Rojo regresaron temprano de la faena; ellos estaban preocupados por la marea. <!-- feedback: Incorrecto. El pronombre "ellos" refiere anafóricamente a "Los pescadores", elemento que ya fue mencionado con anterioridad. -->
+- [x] A) Le advertí esto a Sofía: el costo de la matrícula universitaria aumentará en agosto. <!-- feedback: ¡Correcto! El pronombre átono "le" y el demostrativo "esto" se anticipan y refieren catafóricamente a la información nominal que se detalla después: a "Sofía" y al "aumento de la matrícula". -->
 - [ ] C) Fuimos al Yunque el sábado, caminamos por sus senderos húmedos y regresamos maravillados. <!-- feedback: Incorrecto. Es un caso de elipsis del sujeto "nosotros" y posesivo anafórico "sus" que refiere a "Yunque", no hay catáfora. -->
 - [ ] D) Carmen compró una novela de René Marqués en la librería de San Juan; allí pasó toda la tarde. <!-- feedback: Incorrecto. El adverbio "allí" alude anafóricamente a un lugar ya especificado: "la librería de San Juan". -->
 
@@ -164,8 +164,8 @@ La catáfora es una figura de cohesión textual que consiste en la anticipación
 
 ### Opciones
 - [ ] A) La plena es un género musical puertorriqueño muy alegre; por el contrario nació en Ponce a principios del siglo XX y además de que la plena utiliza panderos e instrumentos de viento para comunicar lo que pasa allí. <!-- feedback: Incorrecto. "Por el contrario" rompe la coherencia del origen geográfico e introduce una oposición falsa donde no corresponde. -->
-- [x] B) La plena es un género musical puertorriqueño muy alegre que nació en los sectores obreros de Ponce a principios del siglo XX. Este ritmo utiliza panderos e instrumentos de viento para comunicar cantando los sucesos cotidianos de dicha ciudad. <!-- feedback: ¡Correcto! El pronombre relativo "que" une de manera fluida las dos primeras oraciones con elipsis de sujeto, el sintagma sinónimo "Este ritmo" sustituye con elegancia a "la plena", y el demostrativo "dicha ciudad" evita reiterar de forma redundante "Ponce". -->
-- [ ] C) Nació en Ponce a principios del siglo XX la plena que utiliza panderos e instrumentos de viento para comunicar los sucesos cotidianos de Ponce que es un género musical puertorriqueño muy alegre. <!-- feedback: Incorrecto. El orden sintáctico resultante es confuso y reitera de forma redundante "Ponce" e "hilo" argumental desorganizado. -->
+- [x] C) La plena es un género musical puertorriqueño muy alegre que nació en los sectores obreros de Ponce a principios del siglo XX. Este ritmo utiliza panderos e instrumentos de viento para comunicar cantando los sucesos cotidianos de dicha ciudad. <!-- feedback: ¡Correcto! El pronombre relativo "que" une de manera fluida las dos primeras oraciones con elipsis de sujeto, el sintagma sinónimo "Este ritmo" sustituye con elegancia a "la plena", y el demostrativo "dicha ciudad" evita reiterar de forma redundante "Ponce". -->
+- [ ] B) Nació en Ponce a principios del siglo XX la plena que utiliza panderos e instrumentos de viento para comunicar los sucesos cotidianos de Ponce que es un género musical puertorriqueño muy alegre. <!-- feedback: Incorrecto. El orden sintáctico resultante es confuso y reitera de forma redundante "Ponce" e "hilo" argumental desorganizado. -->
 - [ ] D) La plena es un género musical puertorriqueño muy alegre, la cual plena nació en Ponce, cuya plena utiliza panderos e instrumentos de viento para comunicar cantando los sucesos de Ponce. <!-- feedback: Incorrecto. El uso de "la cual plena" y "cuya plena" repite obsesiva y erróneamente el sustantivo, agravando la redundancia en lugar de resolverla. -->
 
 ### Explicacion Pedagogica
@@ -205,10 +205,10 @@ Los conectores aditivos de carácter intensificativo como "es más", "más aún"
 ¿Cuál de los siguientes pares de conectores correlativos adversativos o de contraste completa el texto de manera cohesiva y coherente?
 
 ### Opciones
-- [x] A) por un lado / por el contrario <!-- feedback: ¡Correcto! "Por un lado" introduce la primera perspectiva favorable (fibra subterránea), y "por el contrario" introduce de manera cohesionada el contraste directo con la tecnología aérea vulnerable. -->
-- [ ] B) a causa de / por ende <!-- feedback: Incorrecto. Indicaría una relación de causa-efecto inapropiada; la tecnología aérea no es una consecuencia de la instalación subterránea robusta. -->
-- [ ] C) en primer lugar / en consecuencia <!-- feedback: Incorrecto. El conector "en consecuencia" sugeriría de manera errónea que la vulnerabilidad aérea es causada directamente por la fibra subterránea. -->
-- [ ] D) bien / ya que <!-- feedback: Incorrecto. No coordinan de forma lógica el contraste tecnológico y estructural descrito en las dos proposiciones. -->
+- [x] D) por un lado / por el contrario <!-- feedback: ¡Correcto! "Por un lado" introduce la primera perspectiva favorable (fibra subterránea), y "por el contrario" introduce de manera cohesionada el contraste directo con la tecnología aérea vulnerable. -->
+- [ ] A) a causa de / por ende <!-- feedback: Incorrecto. Indicaría una relación de causa-efecto inapropiada; la tecnología aérea no es una consecuencia de la instalación subterránea robusta. -->
+- [ ] B) en primer lugar / en consecuencia <!-- feedback: Incorrecto. El conector "en consecuencia" sugeriría de manera errónea que la vulnerabilidad aérea es causada directamente por la fibra subterránea. -->
+- [ ] C) bien / ya que <!-- feedback: Incorrecto. No coordinan de forma lógica el contraste tecnológico y estructural descrito en las dos proposiciones. -->
 
 ### Explicacion Pedagogica
 Los conectores de contraposición o contraste selectivo ("por un lado... por el contrario") permiten organizar la información de manera binaria, enfrentando dos realidades o tecnologías contrapuestas para evaluar sus ventajas y debilidades.
@@ -228,8 +228,8 @@ Los conectores de contraposición o contraste selectivo ("por un lado... por el 
 ### Opciones
 - [ ] A) Sin embargo <!-- feedback: Incorrecto. Indicaría que la lluvia torrencial impide de forma paradójica el desarrollo de la flora exótica, lo cual es contrario a la realidad ecológica del bosque lluvioso. -->
 - [ ] B) De todas formas <!-- feedback: Incorrecto. Es un conector concesivo de desestimación, inoportuno para marcar la causa física de la biodiversidad. -->
-- [x] C) Debido a esto <!-- feedback: ¡Correcto! El conector causal "Debido a esto" conecta el hecho de la lluvia abundante (causa) con el desarrollo fecundo de la variada flora (efecto o consecuencia). -->
-- [ ] D) Por el contrario <!-- feedback: Incorrecto. Señalaría una oposición ilógica entre el agua de lluvia y el crecimiento de las orquídeas. -->
+- [x] D) Debido a esto <!-- feedback: ¡Correcto! El conector causal "Debido a esto" conecta el hecho de la lluvia abundante (causa) con el desarrollo fecundo de la variada flora (efecto o consecuencia). -->
+- [ ] C) Por el contrario <!-- feedback: Incorrecto. Señalaría una oposición ilógica entre el agua de lluvia y el crecimiento de las orquídeas. -->
 
 ### Explicacion Pedagogica
 La coherencia textual descansa en el conocimiento fáctico de las leyes del entorno. La precipitación constante provee el agua indispensable que nutre directamente la biodiversidad (causa-efecto), relación señalada de forma unívoca por "Debido a esto".
@@ -248,9 +248,9 @@ La coherencia textual descansa en el conocimiento fáctico de las leyes del ento
 
 ### Opciones
 - [ ] A) los cuales vertederos que hay allí de Puerto Rico <!-- feedback: Incorrecto. Agranda la redundancia introduciendo elementos pleonásticos innecesarios. -->
-- [x] B) los cuales <!-- feedback: ¡Correcto! El pronombre relativo compuesto "los cuales" sustituye de manera directa y fluida al sustantivo plural antecedente "vertederos municipales", eliminando por completo la repetición y simplificando la frase. -->
-- [ ] C) ya que los vertederos esos de nosotros <!-- feedback: Incorrecto. Adopta un registro excesivamente coloquial ("esos de nosotros") inadecuado para la redacción formal de un escrito ensayístico. -->
-- [ ] D) donde los vertederos de nuestra isla boricua <!-- feedback: Incorrecto. Repite de forma innecesaria el término "vertederos" e introduce un tono lírico que no resuelve la redundancia estructural de la oración. -->
+- [x] D) los cuales <!-- feedback: ¡Correcto! El pronombre relativo compuesto "los cuales" sustituye de manera directa y fluida al sustantivo plural antecedente "vertederos municipales", eliminando por completo la repetición y simplificando la frase. -->
+- [ ] B) ya que los vertederos esos de nosotros <!-- feedback: Incorrecto. Adopta un registro excesivamente coloquial ("esos de nosotros") inadecuado para la redacción formal de un escrito ensayístico. -->
+- [ ] C) donde los vertederos de nuestra isla boricua <!-- feedback: Incorrecto. Repite de forma innecesaria el término "vertederos" e introduce un tono lírico que no resuelve la redundancia estructural de la oración. -->
 
 ### Explicacion Pedagogica
 Los pronombres relativos (como "los cuales", "que", "quienes") cumplen una función sintáctica y cohesiva crucial: reemplazan al sustantivo antecedente inmediato para evitar la redundancia y permitir añadir información explicativa fluida de manera continua.
@@ -290,9 +290,9 @@ El dominio de los conectores discursivos reside en saber articular de forma cons
 
 ### Opciones
 - [ ] A) Por consiguiente <!-- feedback: Incorrecto. Marcaría que el olvido o no de sus raíces es una consecuencia mecánica directa de vivir en París, lo cual no es lógico. -->
-- [x] B) A pesar de ello <!-- feedback: ¡Correcto! El conector concesivo "A pesar de ello" (que refiere a estudiar y vivir en París) destaca de forma magistral la coherencia patriótica de Oller, quien mantuvo su mirada criolla pese a la fuerte influencia estética europea. -->
-- [ ] C) En resumidas cuentas <!-- feedback: Incorrecto. Es un marcador de recapitulación global que no encaja con la oposición constructiva entre París y las raíces boricuas de Oller. -->
-- [ ] D) Es decir <!-- feedback: Incorrecto. Introduciría una equivalencia conceptual aclaratoria, no la tensión concesiva constructiva que exige el texto sobre su vida artística. -->
+- [x] D) A pesar de ello <!-- feedback: ¡Correcto! El conector concesivo "A pesar de ello" (que refiere a estudiar y vivir en París) destaca de forma magistral la coherencia patriótica de Oller, quien mantuvo su mirada criolla pese a la fuerte influencia estética europea. -->
+- [ ] B) En resumidas cuentas <!-- feedback: Incorrecto. Es un marcador de recapitulación global que no encaja con la oposición constructiva entre París y las raíces boricuas de Oller. -->
+- [ ] C) Es decir <!-- feedback: Incorrecto. Introduciría una equivalencia conceptual aclaratoria, no la tensión concesiva constructiva que exige el texto sobre su vida artística. -->
 
 ### Explicacion Pedagogica
 Los conectores de valor concesivo ("A pesar de ello", "Aun así", "Con todo") permiten cohesionar ideas donde existe un obstáculo o influencia externa (estudiar en el extranjero) que, de manera sorprendente, no impide que ocurra la acción principal (preservar su identidad artística boricua).
@@ -310,8 +310,8 @@ Los conectores de valor concesivo ("A pesar de ello", "Aun así", "Con todo") pe
 ¿Qué tipo de conector discursivo se requiere en el espacio en blanco para cohesionar de forma argumentativa la importancia ecológica costera con la importancia económica pesquera del manglar?
 
 ### Opciones
-- [ ] A) Un conector de contraste que censure la pesca comercial. <!-- feedback: Incorrecto. Ambos datos ensalzan el manglar; no hay oposición que justifique un conector adversativo o restrictivo. -->
-- [x] B) Un conector de adición o de digresión integradora que sume un argumento independiente <!-- feedback: ¡Correcto! Se requiere un conector aditivo como "Asimismo", "Además" o "Por otra parte" para sumar un argumento socioeconómico (pesca) independiente del argumento físico previo (amortiguación de olas). -->
+- [ ] B) Un conector de contraste que censure la pesca comercial. <!-- feedback: Incorrecto. Ambos datos ensalzan el manglar; no hay oposición que justifique un conector adversativo o restrictivo. -->
+- [x] A) Un conector de adición o de digresión integradora que sume un argumento independiente <!-- feedback: ¡Correcto! Se requiere un conector aditivo como "Asimismo", "Además" o "Por otra parte" para sumar un argumento socioeconómico (pesca) independiente del argumento físico previo (amortiguación de olas). -->
 - [ ] C) Un conector temporal de simultaneidad física de las olas. <!-- feedback: Incorrecto. Las olas y la reproducción de peces ocurren simultáneamente, pero la cohesión argumental busca añadir valor conceptual, no marcar la cronología del reloj marino. -->
 - [ ] D) Un conector explicativo que redefina el término "marejada". <!-- feedback: Incorrecto. La segunda oración aporta un beneficio productivo del manglar totalmente diferente, no explica ni redefine el término "marejada". -->
 
@@ -353,8 +353,8 @@ El gerundio con valor modal-instrumental explicativo de acción simultánea perm
 
 ### Opciones
 - [ ] A) De todos modos <!-- feedback: Incorrecto. Es un conector concesivo que debilita el valor ético absoluto del argumento del autor, presentándolo como algo secundario. -->
-- [x] B) En resumidas cuentas <!-- feedback: ¡Correcto! El conector conclusivo de recapitulación o resumen "En resumidas cuentas" unifica de manera contundente la premisa de la educación con la urgencia del mandato moral del cierre del párrafo. -->
-- [ ] C) Por el contrario <!-- feedback: Incorrecto. Introduciría una contradicción directa con la denuncia del maltrato animal, arruinando la coherencia moral del escrito. -->
+- [x] C) En resumidas cuentas <!-- feedback: ¡Correcto! El conector conclusivo de recapitulación o resumen "En resumidas cuentas" unifica de manera contundente la premisa de la educación con la urgencia del mandato moral del cierre del párrafo. -->
+- [ ] B) Por el contrario <!-- feedback: Incorrecto. Introduciría una contradicción directa con la denuncia del maltrato animal, arruinando la coherencia moral del escrito. -->
 - [ ] D) Por ejemplo <!-- feedback: Incorrecto. Introduciría un caso ilustrativo particular, no la recapitulación o cierre conceptual general de la tesis. -->
 
 ### Explicacion Pedagogica
@@ -373,9 +373,9 @@ Los marcadores de recapitulación ("en resumidas cuentas", "en síntesis", "en s
 Desde una perspectiva del análisis crítico de la redacción, ¿qué efecto de coherencia profunda busca generar el autor al colocar la frase adversativa "No obstante..." al final del pasaje?
 
 ### Opciones
-- [ ] A) Justificar de manera científica que los manglares no son ecosistemas tan valiosos ni vulnerables. <!-- feedback: Incorrecto. El autor califica de "asombro" y denuncia la aprobación; defiende el manglar, no justifica su destrucción. -->
-- [ ] B) Demostrar que los pequeños comerciantes carecen de preparación ecológica para operar negocios sostenibles en la costa. <!-- feedback: Incorrecto. El autor apoya al pequeño comerciante frente a la burocracia desmedida; no los acusa de falta de conciencia ambiental. -->
-- [x] C) Denunciar y evidenciar la doble vara fiscal e hipocresía institucional que penaliza al nativo y favorece al gran inversionista internacional. <!-- feedback: ¡Correcto! El contraste creado por "No obstante" enfrenta el discurso oficial de "rigor científico ecológico lento" con la "rápida aprobación destructiva" para complejos de lujo, revelando la injusticia de la política ambiental del gobierno. -->
+- [ ] B) Justificar de manera científica que los manglares no son ecosistemas tan valiosos ni vulnerables. <!-- feedback: Incorrecto. El autor califica de "asombro" y denuncia la aprobación; defiende el manglar, no justifica su destrucción. -->
+- [ ] C) Demostrar que los pequeños comerciantes carecen de preparación ecológica para operar negocios sostenibles en la costa. <!-- feedback: Incorrecto. El autor apoya al pequeño comerciante frente a la burocracia desmedida; no los acusa de falta de conciencia ambiental. -->
+- [x] A) Denunciar y evidenciar la doble vara fiscal e hipocresía institucional que penaliza al nativo y favorece al gran inversionista internacional. <!-- feedback: ¡Correcto! El contraste creado por "No obstante" enfrenta el discurso oficial de "rigor científico ecológico lento" con la "rápida aprobación destructiva" para complejos de lujo, revelando la injusticia de la política ambiental del gobierno. -->
 - [ ] D) Explicar de manera matemática los márgenes de ganancia hotelera de San Juan. <!-- feedback: Incorrecto. No se presentan datos cuantitativos de ganancias, sino una evaluación moral y ética de la asimetría institucional. -->
 
 ### Explicacion Pedagogica
@@ -416,9 +416,9 @@ La redacción académica formal requiere evitar el uso redundante de conectores 
 
 ### Opciones
 - [ ] A) La necesidad de adoptar el inglés como único idioma de comunicación cibernética en la isla. <!-- feedback: Incorrecto. El filólogo analiza la estructura lógica y sintáctica del mensaje, no exige sustituir el español por el inglés. -->
-- [x] B) El reemplazo del pensamiento lógico-discursivo estructurado por un modelo de asociación caótico y emocional de baja cohesión textual. <!-- feedback: ¡Correcto! El filólogo advierte que la pérdida de nexos sintácticos y conectores lógicos en la escritura rápida desarticula la capacidad de estructurar argumentos lógicos de forma madura y secuencial. -->
-- [ ] C) El aumento del costo de las tarifas de telefonía celular de las empresas de San Juan. <!-- feedback: Incorrecto. El impacto económico de las tarifas telefónicas no forma parte del análisis lingüístico estructural que realiza el experto. -->
-- [ ] D) Que los emojis constituyen un código perfecto que supera en precisión científica a las palabras de la RAE. <!-- feedback: Incorrecto. El autor ve los emojis sin referente claro como un factor de desestructuración caótica, no como un código superior de rigor científico. -->
+- [x] D) El reemplazo del pensamiento lógico-discursivo estructurado por un modelo de asociación caótico y emocional de baja cohesión textual. <!-- feedback: ¡Correcto! El filólogo advierte que la pérdida de nexos sintácticos y conectores lógicos en la escritura rápida desarticula la capacidad de estructurar argumentos lógicos de forma madura y secuencial. -->
+- [ ] B) El aumento del costo de las tarifas de telefonía celular de las empresas de San Juan. <!-- feedback: Incorrecto. El impacto económico de las tarifas telefónicas no forma parte del análisis lingüístico estructural que realiza el experto. -->
+- [ ] C) Que los emojis constituyen un código perfecto que supera en precisión científica a las palabras de la RAE. <!-- feedback: Incorrecto. El autor ve los emojis sin referente claro como un factor de desestructuración caótica, no como un código superior de rigor científico. -->
 
 ### Explicacion Pedagogica
 El análisis valorativo de la teoría lingüística contemporánea evalúa cómo las plataformas digitales alteran los hábitos cognitivos de escritura. La omisión sistemática de conectores lógicos debilita la capacidad del estudiante de hilvanar discursos complejos de causa-efecto, reemplazando el rigor formal por la asociación emotiva instantánea.
@@ -436,8 +436,8 @@ El análisis valorativo de la teoría lingüística contemporánea evalúa cómo
 ¿Cuál de los siguientes conectores concesivos o de contraposición dialéctica fuerte corona el párrafo de manera que resalte la resiliencia del escritor de la diáspora frente a la hostilidad de su entorno neoyorquino?
 
 ### Opciones
-- [ ] A) En consecuencia <!-- feedback: Incorrecto. Indicaría que la literatura resiliente es una consecuencia mecánica directa del asfalto frío que niega su memoria, lo cual carece de coherencia semántica íntima de superación. -->
-- [x] B) Con todo <!-- feedback: ¡Correcto! El conector concesivo dialéctico "Con todo" (que equivale a "a pesar de todas estas hostilidades ambientales y de asimilación neoyorquinas") resalta de manera magistral la resistencia creadora de la diáspora, que transforma la nostalgia en arte bilingüe activo. -->
+- [ ] B) En consecuencia <!-- feedback: Incorrecto. Indicaría que la literatura resiliente es una consecuencia mecánica directa del asfalto frío que niega su memoria, lo cual carece de coherencia semántica íntima de superación. -->
+- [x] A) Con todo <!-- feedback: ¡Correcto! El conector concesivo dialéctico "Con todo" (que equivale a "a pesar de todas estas hostilidades ambientales y de asimilación neoyorquinas") resalta de manera magistral la resistencia creadora de la diáspora, que transforma la nostalgia en arte bilingüe activo. -->
 - [ ] C) Es decir <!-- feedback: Incorrecto. Propondría una mera equivalencia conceptual aclaratoria que diluiría el impacto dramático y dialéctico del desenlace del párrafo. -->
 - [ ] D) Por el contrario <!-- feedback: Incorrecto. Aunque marca contraste, la hilación dialéctica tras enumerar dos hechos complejos del entorno requiere un matiz concesivo abarcador que resuma la oposición ("Con todo"), no una oposición lineal excluyente básica. -->
 

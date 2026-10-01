@@ -69,8 +69,8 @@ Según la descripción de esta infografía, ¿cuál es la función de los númer
 
 ### Opciones
 - [ ] A) Indicar el precio de cada etapa en pesos colombianos. <!-- feedback: Los números aquí sirven para marcar una secuencia, no valores monetarios. -->
-- [x] B) Establecer el orden lógico y cronológico en que ocurre el proceso. <!-- feedback: La numeración guía el recorrido de lectura en un proceso que tiene un inicio y un fin. -->
-- [ ] C) Contar cuántas personas trabajan en cada una de las fases. <!-- feedback: No hay información que sugiera que los números representen cantidad de trabajadores. -->
+- [x] C) Establecer el orden lógico y cronológico en que ocurre el proceso. <!-- feedback: La numeración guía el recorrido de lectura en un proceso que tiene un inicio y un fin. -->
+- [ ] B) Contar cuántas personas trabajan en cada una de las fases. <!-- feedback: No hay información que sugiera que los números representen cantidad de trabajadores. -->
 - [ ] D) Mostrar la importancia de cada etapa, siendo la 1 la más importante. <!-- feedback: En un ciclo, todas las etapas son necesarias; el orden es temporal, no de importancia jerárquica. -->
 
 ### Explicacion Pedagogica
@@ -106,8 +106,8 @@ El uso del color en las infografías no es meramente estético. Actúa como un c
 ¿Cuál sería el primer paso para garantizar que tu infografía sea efectiva y no sature al lector?
 
 ### Opciones
-- [ ] A) Poner todo el texto que encontraste en internet con letra muy pequeña. <!-- feedback: Esto satura al lector y rompe el propósito de la infografía. -->
-- [x] B) Seleccionar y resumir la información más importante, priorizando lo visual sobre lo textual. <!-- feedback: La síntesis es la clave de la infografía; se debe dejar solo lo esencial para que el mensaje sea directo. -->
+- [ ] B) Poner todo el texto que encontraste en internet con letra muy pequeña. <!-- feedback: Esto satura al lector y rompe el propósito de la infografía. -->
+- [x] A) Seleccionar y resumir la información más importante, priorizando lo visual sobre lo textual. <!-- feedback: La síntesis es la clave de la infografía; se debe dejar solo lo esencial para que el mensaje sea directo. -->
 - [ ] C) Usar solo imágenes sin poner ningún título ni explicación. <!-- feedback: Sin texto, la información sobre reglas específicas podría ser ambigua o incompleta. -->
 - [ ] D) Hacer una infografía de diez páginas para que quepa toda la información. <!-- feedback: Una infografía suele ser de una sola página o pantalla para permitir una visión global. -->
 
@@ -127,8 +127,8 @@ La producción de infografías requiere un proceso de curaduría de contenidos. 
 ### Opciones
 - [ ] A) La impresa es más verdadera porque no se puede cambiar. <!-- feedback: El soporte no determina la veracidad de la información. -->
 - [ ] B) La digital no usa texto porque los videos lo explican todo. <!-- feedback: Las infografías digitales siguen usando texto, pero de forma dinámica. -->
-- [x] C) La interactiva permite al usuario explorar la información a su propio ritmo y por niveles de profundidad. <!-- feedback: La interactividad añade una capa de participación del usuario que no existe en el formato estático. -->
-- [ ] D) La impresa siempre es más barata de producir en todos los casos. <!-- feedback: No siempre es cierto y no es una diferencia de tipo comunicativo. -->
+- [x] D) La interactiva permite al usuario explorar la información a su propio ritmo y por niveles de profundidad. <!-- feedback: La interactividad añade una capa de participación del usuario que no existe en el formato estático. -->
+- [ ] C) La impresa siempre es más barata de producir en todos los casos. <!-- feedback: No siempre es cierto y no es una diferencia de tipo comunicativo. -->
 
 ### Explicacion Pedagogica
 La multimodalidad digital añade la dimensión de la interactividad. Esto permite que la infografía no solo sea visual, sino que también responda a las acciones del lector, facilitando el aprendizaje personalizado.
@@ -144,8 +144,8 @@ La multimodalidad digital añade la dimensión de la interactividad. Esto permit
 ¿Qué recurso de pensamiento visual se está utilizando en esta infografía para que el lector dimensione la altura de la cascada?
 
 ### Opciones
-- [ ] A) La personificación de los edificios. <!-- feedback: No se les está dando características humanas, solo se muestran sus dimensiones. -->
-- [x] B) La analogía o comparación con objetos conocidos para dar contexto a una cifra. <!-- feedback: Al comparar algo con lo que el lector ya conoce (como un edificio), se facilita la comprensión de magnitudes abstractas (como metros de altura). -->
+- [ ] B) La personificación de los edificios. <!-- feedback: No se les está dando características humanas, solo se muestran sus dimensiones. -->
+- [x] A) La analogía o comparación con objetos conocidos para dar contexto a una cifra. <!-- feedback: Al comparar algo con lo que el lector ya conoce (como un edificio), se facilita la comprensión de magnitudes abstractas (como metros de altura). -->
 - [ ] C) La exageración de los colores para que la cascada se vea más bonita. <!-- feedback: El recurso clave aquí es la escala y la comparación, no el color. -->
 - [ ] D) El uso de rimas para que el lector recuerde los nombres de los edificios. <!-- feedback: Esto sería un recurso auditivo o literario, no propio del diseño visual de esta infografía. -->
 
@@ -164,8 +164,8 @@ Desde una perspectiva de lectura crítica, ¿cuál es el sesgo o mensaje subjeti
 
 ### Opciones
 - [ ] A) Que leer libros es malo para la vista por el brillo del cerebro. <!-- feedback: Es una interpretación literal errónea del simbolismo visual. -->
-- [ ] B) Que el computador es más rápido que el cerebro humano. <!-- feedback: La imagen sugiere lo contrario respecto al desarrollo del cerebro. -->
-- [x] C) Una valoración negativa del uso de la tecnología frente a una idealización de la lectura tradicional. <!-- feedback: Los iconos (cerebro encogido vs. grande) imponen un juicio de valor antes de que el lector analice los datos reales. -->
+- [ ] C) Que el computador es más rápido que el cerebro humano. <!-- feedback: La imagen sugiere lo contrario respecto al desarrollo del cerebro. -->
+- [x] B) Una valoración negativa del uso de la tecnología frente a una idealización de la lectura tradicional. <!-- feedback: Los iconos (cerebro encogido vs. grande) imponen un juicio de valor antes de que el lector analice los datos reales. -->
 - [ ] D) Que el tamaño físico del cerebro cambia instantáneamente al abrir un libro. <!-- feedback: Los gráficos son simbólicos, no representan cambios anatómicos reales. -->
 
 ### Explicacion Pedagogica
@@ -182,8 +182,8 @@ El análisis crítico de infografías implica identificar cómo los recursos gr�
 ¿Cómo utiliza esta infografía la jerarquía visual para influir en el consumidor?
 
 ### Opciones
-- [ ] A) Siguiendo las normas legales colombianas de etiquetado de manera honesta. <!-- feedback: El diseño busca minimizar la información negativa, lo cual no es necesariamente honesto aunque cumpla la ley. -->
-- [x] B) Usando el tamaño y el contraste para dar relevancia a lo positivo y ocultar visualmente lo negativo. <!-- feedback: La jerarquía visual dirige la atención hacia lo que la marca quiere resaltar, manipulando el recorrido de lectura. -->
+- [ ] B) Siguiendo las normas legales colombianas de etiquetado de manera honesta. <!-- feedback: El diseño busca minimizar la información negativa, lo cual no es necesariamente honesto aunque cumpla la ley. -->
+- [x] A) Usando el tamaño y el contraste para dar relevancia a lo positivo y ocultar visualmente lo negativo. <!-- feedback: La jerarquía visual dirige la atención hacia lo que la marca quiere resaltar, manipulando el recorrido de lectura. -->
 - [ ] C) Asegurando que el lector lea primero lo más importante para su salud. <!-- feedback: Lo más importante (azúcar) está oculto, por lo que no favorece la salud. -->
 - [ ] D) Aplicando el color gris para que la información del azúcar se vea más profesional. <!-- feedback: El gris sobre blanco tiene poco contraste, lo que dificulta su lectura a propósito. -->
 

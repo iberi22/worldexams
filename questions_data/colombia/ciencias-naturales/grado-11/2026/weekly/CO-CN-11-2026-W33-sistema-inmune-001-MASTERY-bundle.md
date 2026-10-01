@@ -34,13 +34,13 @@ Este bundle contiene 20 preguntas sobre el **sistema inmune** humano para grado 
 ¿Cuál de las siguientes opciones corresponde a una barrera primaria o innata del sistema inmune humano?
 
 ### Opciones
-- [x] A) La piel y las mucosas del tracto respiratorio, que impiden la entrada de microorganismos.
+- [x] D) La piel y las mucosas del tracto respiratorio, que impiden la entrada de microorganismos.
   <!-- feedback: Correcto. La piel intacta y las mucosas con cilios y mucus son la primera barrera física y química contra patógenos. -->
-- [ ] B) Los linfocitos T citotóxicos que destruyen células infectadas.
+- [ ] A) Los linfocitos T citotóxicos que destruyen células infectadas.
   <!-- feedback: Incorrecto. Los linfocitos T citotóxicos son parte de la inmunidad adaptativa, no de las barreras innatas. -->
-- [ ] C) Los anticuerpos IgG producidos por los linfocitos B.
+- [ ] B) Los anticuerpos IgG producidos por los linfocitos B.
   <!-- feedback: Incorrecto. Los anticuerpos son moléculas de la respuesta adaptativa humoral, específica y de aparición tardía. -->
-- [ ] D) La memoria inmunológica generada después de una infección.
+- [ ] C) La memoria inmunológica generada después de una infección.
   <!-- feedback: Incorrecto. La memoria inmunológica es una propiedad de la inmunidad adaptativa, no de la innata. -->
 
 ### Explicacion Pedagogica
@@ -61,9 +61,9 @@ El sistema inmune humano tiene dos grandes líneas: la inmunidad innata (present
   <!-- feedback: Incorrecto. Los macrófagos fagocitan y presentan antígenos, pero no producen anticuerpos. -->
 - [ ] B) Los linfocitos T CD8+ citotóxicos del timo.
   <!-- feedback: Incorrecto. Los linfocitos T CD8+ destruyen células infectadas, no secretan anticuerpos. -->
-- [x] C) Los linfocitos B diferenciados en células plasmáticas.
+- [x] D) Los linfocitos B diferenciados en células plasmáticas.
   <!-- feedback: Correcto. Tras reconocer al antígeno, los linfocitos B se diferencian en células plasmáticas que secretan grandes cantidades de anticuerpos. -->
-- [ ] D) Las células dendríticas del bazo.
+- [ ] C) Las células dendríticas del bazo.
   <!-- feedback: Incorrecto. Las células dendríticas son presentadoras de antígeno, no fábricas de anticuerpos. -->
 
 ### Explicacion Pedagogica
@@ -80,13 +80,13 @@ La inmunidad humoral depende de los linfocitos B: al activarse con ayuda de los 
 ¿Cuál es el principio biológico por el cual una vacuna protege a una persona contra una enfermedad infecciosa?
 
 ### Opciones
-- [x] A) Estimula la producción de células de memoria que reconocen rápidamente al patógeno en una infección real.
+- [x] D) Estimula la producción de células de memoria que reconocen rápidamente al patógeno en una infección real.
   <!-- feedback: Correcto. Las vacunas exponen al sistema inmune a antígenos inactivados o atenuados para generar linfocitos B y T de memoria. -->
-- [ ] B) Introduce antibióticos que destruyen bacterias antes de que se multipliquen.
+- [ ] A) Introduce antibióticos que destruyen bacterias antes de que se multipliquen.
   <!-- feedback: Incorrecto. Las vacunas no contienen antibióticos; los antibióticos son medicamentos contra bacterias, no vacunas. -->
-- [ ] C) Sustituye los glóbulos rojos dañados por glóbulos nuevos.
+- [ ] B) Sustituye los glóbulos rojos dañados por glóbulos nuevos.
   <!-- feedback: Incorrecto. Las vacunas no afectan la producción de glóbulos rojos ni modifican la médula ósea de esa manera. -->
-- [ ] D) Aumenta la temperatura corporal para matar virus con calor.
+- [ ] C) Aumenta la temperatura corporal para matar virus con calor.
   <!-- feedback: Incorrecto. La fiebre es una respuesta del cuerpo, pero el principio de la vacuna es la memoria inmunológica, no el calor. -->
 
 ### Explicacion Pedagogica
@@ -105,9 +105,9 @@ El proceso que produce enrojecimiento, calor, hinchazón y dolor en una herida i
 ### Opciones
 - [ ] A) respuesta inmune adaptativa específica.
   <!-- feedback: Incorrecto. La respuesta adaptativa específica tarda días y se basa en anticuerpos y linfocitos T; este es un proceso inmediato. -->
-- [x] B) inflamación aguda, parte de la respuesta inmune innata.
+- [x] C) inflamación aguda, parte de la respuesta inmune innata.
   <!-- feedback: Correcto. La inflamación aguda es una respuesta innata mediada por histamina, prostaglandinas y células como neutrófilos y macrófagos. -->
-- [ ] C) producción masiva de anticuerpos IgG.
+- [ ] B) producción masiva de anticuerpos IgG.
   <!-- feedback: Incorrecto. La producción de anticuerpos es adaptativa y se evidencia semanas después, no en horas. -->
 - [ ] D) reacción autoinmune contra los propios tejidos.
   <!-- feedback: Incorrecto. La autoinmunidad ataca moléculas propias; la inflamación aquí responde a un daño con microorganismos. -->
@@ -174,9 +174,9 @@ El virus de la inmunodeficiencia humana (VIH) afecta principalmente a
 ### Opciones
 - [ ] A) los linfocitos B, impidiendo la producción de anticuerpos.
   <!-- feedback: Incorrecto. El VIH no infecta principalmente linfocitos B; su blanco son los linfocitos T CD4+. -->
-- [x] B) los linfocitos T CD4+ helper, reduciendo la coordinación de la respuesta inmune.
+- [x] C) los linfocitos T CD4+ helper, reduciendo la coordinación de la respuesta inmune.
   <!-- feedback: Correcto. El VIH infecta y destruye linfocitos T CD4+, lo que disminuye la capacidad de orquestar respuestas humorales y celulares. -->
-- [ ] C) los glóbulos rojos, causando anemia e hipoxia tisular.
+- [ ] B) los glóbulos rojos, causando anemia e hipoxia tisular.
   <!-- feedback: Incorrecto. El VIH no infecta eritrocitos porque estos no tienen núcleo ni receptores CD4. -->
 - [ ] D) las plaquetas, generando trastornos de coagulación.
   <!-- feedback: Incorrecto. El VIH no infecta plaquetas; las plaquetopenias en sida son efecto secundario, no mecanismo central. -->
@@ -195,9 +195,9 @@ El VIH usa la proteína CD4 y correceptores CCR5 o CXCR4 para entrar a los linfo
 El cuadro sugiere que el paciente debe recibir de manera urgente
 
 ### Opciones
-- [ ] A) antibióticos de amplio espectro únicamente.
+- [ ] B) antibióticos de amplio espectro únicamente.
   <!-- feedback: Incorrecto. Aunque pueden administrarse, no son la intervención específica que neutraliza la toxina del tétanos. -->
-- [x] B) inmunoglobulina antitetánica y toxoide tetánico para reforzar su protección.
+- [x] A) inmunoglobulina antitetánica y toxoide tetánico para reforzar su protección.
   <!-- feedback: Correcto. La inmunoglobulina aporta anticuerpos neutralizantes inmediatos y el toxoide induce memoria contra futuras exposiciones. -->
 - [ ] C) antihistamínicos para una reacción alérgica.
   <!-- feedback: Incorrecto. El tétanos es una infección por toxina bacteriana, no una alergia; los antihistamínicos no la tratan. -->
@@ -218,9 +218,9 @@ El tétanos es causado por la toxina de Clostridium tetani, que bloquea neurotra
 Si en un paciente se observa una elevación marcada y sostenida de IgE sérica junto con eosinofilia, el cuadro sugiere
 
 ### Opciones
-- [ ] A) una infección viral aguda con respuesta citotóxica.
+- [ ] B) una infección viral aguda con respuesta citotóxica.
   <!-- feedback: Incorrecto. Las infecciones virales suelen elevar IgM e IgG; IgE alta sugiere otro proceso. -->
-- [x] B) una respuesta alérgica o parasitaria con activación de Th2 y basófilos.
+- [x] A) una respuesta alérgica o parasitaria con activación de Th2 y basófilos.
   <!-- feedback: Correcto. IgE alta y eosinofilia se asocian con alergias tipo I y parasitosis, procesos mediados por linfocitos Th2. -->
 - [ ] C) una inmunodeficiencia combinada grave.
   <!-- feedback: Incorrecto. En inmunodeficiencias los niveles de inmunoglobulinas suelen estar bajos, no elevados de forma selectiva. -->
@@ -241,11 +241,11 @@ La inmunoglobulina E participa en alergias tipo I y en la defensa contra parási
 El rechazo agudo de un trasplante renal está mediado principalmente por
 
 ### Opciones
-- [ ] A) anticuerpos IgE contra alérgenos del injerto.
+- [ ] B) anticuerpos IgE contra alérgenos del injerto.
   <!-- feedback: Incorrecto. El rechazo no se debe a IgE ni a alérgenos, sino al reconocimiento inmune de moléculas extrañas del donante. -->
-- [ ] B) macrófagos que fagocitan glóbulos rojos del receptor.
+- [ ] C) macrófagos que fagocitan glóbulos rojos del receptor.
   <!-- feedback: Incorrecto. Los macrófagos participan pero el rechazo agudo implica sobre todo linfocitos T CD8+ citotóxicos del receptor. -->
-- [x] C) linfocitos T CD8+ del receptor que reconocen moléculas MHC del donante como extrañas.
+- [x] A) linfocitos T CD8+ del receptor que reconocen moléculas MHC del donante como extrañas.
   <!-- feedback: Correcto. Los linfocitos T CD8+ del receptor atacan células del injerto que expresan MHC no propias, causando necrosis tubular. -->
 - [ ] D) eosinófilos atraídos por parásitos en el tejido renal.
   <!-- feedback: Incorrecto. La eosinofilia aparece en alergias y parasitosis; el rechazo agudo es sobre todo una respuesta T citotóxica. -->
@@ -333,11 +333,11 @@ En el dengue existen cuatro serotipos; la infección por uno genera inmunidad ho
 El cuadro descrito corresponde a una reacción anafiláctica, que es mediada principalmente por
 
 ### Opciones
-- [x] A) IgE unida a mastocitos que libera histamina y otros mediadores al reconocer el alérgeno.
+- [x] C) IgE unida a mastocitos que libera histamina y otros mediadores al reconocer el alérgeno.
   <!-- feedback: Correcto. En la alergia tipo I, IgE específica contra el fármaco se une a mastocitos; la nueva exposición dispara la liberación de histamina. -->
-- [ ] B) complejos inmunes de IgG depositados en tejidos vasculares.
+- [ ] A) complejos inmunes de IgG depositados en tejidos vasculares.
   <!-- feedback: Incorrecto. Los complejos inmunes median la reacción tipo III, no la anafilaxia. -->
-- [ ] C) linfocitos T CD8+ citotóxicos contra células propias.
+- [ ] B) linfocitos T CD8+ citotóxicos contra células propias.
   <!-- feedback: Incorrecto. La respuesta T citotóxica es tipo IV; la anafilaxia es tipo I mediada por IgE. -->
 - [ ] D) complemento C9 formando poros en membranas de neutrófilos.
   <!-- feedback: Incorrecto. El complejo de ataque de membrana C5b-9 actúa contra células, no es el mediador principal de la anafilaxia. -->
@@ -356,9 +356,9 @@ La anafilaxia es una reacción alérgica tipo I sistémica, potencialmente morta
 La prueba que mide liberación de interferón gamma frente a antígenos de Mycobacterium tuberculosis evalúa principalmente
 
 ### Opciones
-- [ ] A) la cantidad de anticuerpos IgG específicos contra la bacteria.
+- [ ] B) la cantidad de anticuerpos IgG específicos contra la bacteria.
   <!-- feedback: Incorrecto. El interferón gamma es una citocina celular, no un anticuerpo; mide respuesta T, no humoral. -->
-- [x] B) la respuesta inmune celular mediada por linfocitos T helper CD4+ de tipo Th1.
+- [x] A) la respuesta inmune celular mediada por linfocitos T helper CD4+ de tipo Th1.
   <!-- feedback: Correcto. Los linfocitos T CD4+ Th1 de personas previamente sensibilizadas liberan IFN-gamma al reconocer antígenos tuberculosos. -->
 - [ ] C) la cantidad de neutrófilos en la sangre periférica.
   <!-- feedback: Incorrecto. El ensayo IGRA mide respuesta T específica, no el conteo global de neutrófilos. -->
@@ -381,9 +381,9 @@ El proceso de selección tímica en el timo elimina principalmente a
 ### Opciones
 - [ ] A) linfocitos T incapaces de reconocer MHC propio.
   <!-- feedback: Incorrecto. Selección positiva retiene precisamente a los T que sí reconocen MHC propio; los incapaces son eliminados. -->
-- [x] B) linfocitos T que reaccionan con demasiada fuerza contra antígenos propios.
+- [x] C) linfocitos T que reaccionan con demasiada fuerza contra antígenos propios.
   <!-- feedback: Correcto. La selección negativa elimina linfocitos T autorreactivos que reaccionarían contra tejidos propios del organismo. -->
-- [ ] C) macrófagos y células dendríticas presentadoras de antígeno.
+- [ ] B) macrófagos y células dendríticas presentadoras de antígeno.
   <!-- feedback: Incorrecto. El timo selecciona linfocitos T, no macrófagos ni células dendríticas. -->
 - [ ] D) linfocitos B que no producen anticuerpos funcionales.
   <!-- feedback: Incorrecto. La maduración de linfocitos B ocurre en médula ósea, no en el timo. -->
@@ -404,11 +404,11 @@ Desde el punto de vista inmunológico, la principal ventaja de las vacunas de VP
 ### Opciones
 - [ ] A) producen IgA secretora en mucosas genitales sin necesidad de adyuvante.
   <!-- feedback: Incorrecto. Para inducir IgA mucosal las vacunas suelen requerir adyuvantes o plataformas especiales, no es su ventaja principal. -->
-- [x] B) generan anticuerpos neutralizantes contra las proteínas L1 de la cápside viral, impidiendo la infección inicial.
+- [x] D) generan anticuerpos neutralizantes contra las proteínas L1 de la cápside viral, impidiendo la infección inicial.
   <!-- feedback: Correcto. Las vacunas de VPH contienen partículas similares a virus con proteína L1; inducen anticuerpos neutralizantes que bloquean el ingreso viral. -->
-- [ ] C) eliminan infecciones activas ya establecidas en el cuello uterino.
+- [ ] B) eliminan infecciones activas ya establecidas en el cuello uterino.
   <!-- feedback: Incorrecto. Las vacunas son profilácticas; las lesiones establecidas requieren tamizaje citológico y tratamientos médicos. -->
-- [ ] D) actúan integrando su genoma al ADN de las células epiteliales.
+- [ ] C) actúan integrando su genoma al ADN de las células epiteliales.
   <!-- feedback: Incorrecto. Las vacunas actuales son subunitarias y no contienen ADN viral, por lo que no se integran al genoma. -->
 
 ### Explicacion Pedagogica
@@ -427,9 +427,9 @@ El uso racional de corticoides en pacientes con sepsis con choque refractario a 
 ### Opciones
 - [ ] A) reemplazar totalmente la función del timo en adultos.
   <!-- feedback: Incorrecto. Los corticoides no sustituyen al timo, cuya involución es propia del envejecimiento. -->
-- [x] B) modular la hiperinflamación sistémica y mejorar la respuesta vascular a vasopresores.
+- [x] C) modular la hiperinflamación sistémica y mejorar la respuesta vascular a vasopresores.
   <!-- feedback: Correcto. En sepsis con choque refractario, los corticoides modulan citocinas proinflamatorias y restauran la sensibilidad a catecolaminas. -->
-- [ ] C) aumentar la producción de anticuerpos específicos contra la bacteria causal.
+- [ ] B) aumentar la producción de anticuerpos específicos contra la bacteria causal.
   <!-- feedback: Incorrecto. Los corticoides a dosis altas suprimen, no estimulan, la producción de anticuerpos específicos. -->
 - [ ] D) estimular directamente la fagocitosis de los neutrófilos envejecidos.
   <!-- feedback: Incorrecto. Los corticoides favorecen marginación y apoptosis de neutrófilos; no estimulan su función microbicida. -->
@@ -448,11 +448,11 @@ En sepsis con choque que no responde a volumen ni vasopresores, las guías recom
 Una diferencia inmunológica clave entre las vacunas de ARN mensajero y las vacunas tradicionales con virus atenuado es que
 
 ### Opciones
-- [x] A) las de ARN inducen la producción endógena de la proteína antigénica sin riesgo de réplica viral, mientras que las atenuadas usan virus vivos con replicación controlada.
+- [x] C) las de ARN inducen la producción endógena de la proteína antigénica sin riesgo de réplica viral, mientras que las atenuadas usan virus vivos con replicación controlada.
   <!-- feedback: Correcto. Las vacunas de ARNm hacen que las células del vacunado fabriquen el antígeno; las atenuadas llevan virus vivos que se replican de forma limitada. -->
-- [ ] B) las de ARN solo estimulan inmunidad celular y ninguna humoral.
+- [ ] A) las de ARN solo estimulan inmunidad celular y ninguna humoral.
   <!-- feedback: Incorrecto. Las vacunas de ARNm también inducen anticuerpos neutralizantes y respuesta T CD8+, no solo inmunidad celular. -->
-- [ ] C) las atenuadas carecen completamente de cualquier efecto secundario.
+- [ ] B) las atenuadas carecen completamente de cualquier efecto secundario.
   <!-- feedback: Incorrecto. Las vacunas atenuadas pueden causar cuadros leves y están contraindicadas en inmunosuprimidos, precisamente por su capacidad de replicación. -->
 - [ ] D) las de ARN modifican de manera permanente el genoma humano.
   <!-- feedback: Incorrecto. El ARNm vacunal no se integra al ADN ni se transmite a la línea germinal; se degrada en horas. -->

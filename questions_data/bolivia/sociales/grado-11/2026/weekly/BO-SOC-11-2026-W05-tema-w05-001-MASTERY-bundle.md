@@ -56,11 +56,11 @@ La hidrografía de Bolivia es de inmensa importancia para el desarrollo producti
 ¿Cómo se dividen las tres principales macro-regiones geográficas y fisiográficas de Bolivia?
 
 ### Opciones
-- [x] A) La zona Andina o Altiplánica, la zona Subandina o de los Valles, y la zona de los Llanos Orientales o Amazonía.
+- [x] C) La zona Andina o Altiplánica, la zona Subandina o de los Valles, y la zona de los Llanos Orientales o Amazonía.
   <!-- feedback: Correcto. El relieve boliviano cuenta con tres zonas diferenciadas: la Andina (puna fría y altiplano), la Subandina (valles y yungas templados) y la de los Llanos (oriente cálido y húmedo). -->
-- [ ] B) La estepa siberiana, el desierto del Sahara boliviano y la selva del Congo andino.
+- [ ] A) La estepa siberiana, el desierto del Sahara boliviano y la selva del Congo andino.
   <!-- feedback: Incorrecto. Es una absurda mezcla de nombres geográficos de Asia y África que no guardan relación con la geografía de Bolivia. -->
-- [ ] C) La península del Litoral, la cordillera del Himalaya boliviano y la cuenca del Caribe.
+- [ ] B) La península del Litoral, la cordillera del Himalaya boliviano y la cuenca del Caribe.
   <!-- feedback: Incorrecto. El Himalaya está en Asia, la cuenca del Caribe en Centroamérica; son nombres ajenos al territorio nacional de Bolivia. -->
 - [ ] D) La pampa argentina boliviana, el delta del Missisipi y la meseta patagónica del norte.
   <!-- feedback: Incorrecto. Representa regiones geográficas distantes de Norteamérica y el extremo sur de la Patagonia, fuera de Bolivia. -->
@@ -79,11 +79,11 @@ La geografía de Bolivia es una de las más diversas y complejas del continente.
 ¿Qué distribución espacial de recursos naturales estratégicos caracteriza la geografía económica tradicional de Bolivia?
 
 ### Opciones
-- [x] A) Los recursos minerales tradicionales (plata, estaño, zinc) se concentran en el altiplano y la cordillera occidental, mientras que los hidrocarburos (gas natural y petróleo) se ubican en el subandino y los llanos del sudeste.
+- [x] C) Los recursos minerales tradicionales (plata, estaño, zinc) se concentran en el altiplano y la cordillera occidental, mientras que los hidrocarburos (gas natural y petróleo) se ubican en el subandino y los llanos del sudeste.
   <!-- feedback: Correcto. La minería metálica ha sido tradicionalmente andina y cordillerana (Potosí, Oruro, La Paz), mientras que los yacimientos más ricos de gas natural y petróleo se sitúan en Tarija, Santa Cruz y Chuquisaca. -->
-- [ ] B) Los yacimientos de litio se ubican en las copas de los árboles de la selva amazónica del norte del Beni.
+- [ ] A) Los yacimientos de litio se ubican en las copas de los árboles de la selva amazónica del norte del Beni.
   <!-- feedback: Incorrecto. El litio es un mineral lacaustre salino; se concentra en los salares altiplánicos (Salar de Uyuni y Coipasa), no en selvas. -->
-- [ ] C) El gas natural se extrae de las profundidades del lago Titicaca y la plata de los árboles de castaña del Acre.
+- [ ] B) El gas natural se extrae de las profundidades del lago Titicaca y la plata de los árboles de castaña del Acre.
   <!-- feedback: Incorrecto. El lago Titicaca no es el centro productor de gas, y la castaña es un fruto amazónico silvestre de recolección de las selvas del norte de Bolivia, no de minas de plata. -->
 - [ ] D) Toda la riqueza de hidrocarburos de Bolivia se concentra en el Salar de Uyuni y el estaño en las costas de Chile.
   <!-- feedback: Incorrecto. El estaño boliviano se ubica en las minas andinas centrales y el Salar de Uyuni es el epicentro del litio mundial, no de gas natural o estaño chileno. -->
@@ -102,9 +102,9 @@ Esta asimetría geográfica en la distribución de recursos naturales ha moldead
 ¿Cómo se define ecológicamente la región de los 'Yungas' en la geografía de Bolivia?
 
 ### Opciones
-- [x] A) Una zona de transición húmeda e hiper-diversa de selva de montaña en las pendientes orientales de los Andes, templada y lluviosa.
+- [x] B) Una zona de transición húmeda e hiper-diversa de selva de montaña en las pendientes orientales de los Andes, templada y lluviosa.
   <!-- feedback: Correcto. Los Yungas actúan como laderas o fajas de transición que descienden de la cordillera andina hacia las tierras bajas amazónicas, caracterizadas por su alta pluviosidad, neblina constante y aptitud para cultivos tradicionales como la coca y el café. -->
-- [ ] B) Un desierto árido y plano desprovisto de agua dulce ubicado en el límite fronterizo con el Paraguay.
+- [ ] A) Un desierto árido y plano desprovisto de agua dulce ubicado en el límite fronterizo con el Paraguay.
   <!-- feedback: Incorrecto. El Chaco Boreal es semiárido, pero los Yungas son selvas de montaña extremadamente húmedas y lluviosas. -->
 - [ ] C) Una meseta helada y cubierta de nieve de forma perpetua donde solo se puede criar pingüinos árticos.
   <!-- feedback: Incorrecto. Las mesetas andinas heladas corresponden a la puna y cumbres nevadas, ajenas a la selva tropical templada de los Yungas y a los pingüinos. -->
@@ -148,9 +148,9 @@ El retroceso glaciar en Bolivia es uno de los indicadores más alarmantes del ca
 ¿Qué características geológicas y de recursos estratégicos distinguen al Salar de Uyuni en el contexto de la economía del siglo XXI?
 
 ### Opciones
-- [x] A) Es la mayor planicie de sal del planeta y alberga una de las reservas de litio más grandes del mundo en sus salmueras profundas.
+- [x] B) Es la mayor planicie de sal del planeta y alberga una de las reservas de litio más grandes del mundo en sus salmueras profundas.
   <!-- feedback: Correcto. El Salar de Uyuni es un inmenso desierto de sal de origen evaporítico que concentra inmensas reservas mundiales de litio, magnesio, potasio y boro, esenciales para la transición energética global. -->
-- [ ] B) Es un lago de agua dulce navegable que sirve de puerto principal a la flota pesquera nacional de Bolivia.
+- [ ] A) Es un lago de agua dulce navegable que sirve de puerto principal a la flota pesquera nacional de Bolivia.
   <!-- feedback: Incorrecto. El salar es una costra de sal sólida y desértica, no un lago navegable de agua dulce; el lago navegable andino es el Titicaca. -->
 - [ ] C) Es una mina subterránea de carbón de piedra explotada de forma exclusiva por ingenieros de la corona del Brasil.
   <!-- feedback: Incorrecto. No contiene carbón de piedra ni pertenece al Brasil; es una salina superficial de soberanía exclusiva de Bolivia. -->
@@ -171,13 +171,13 @@ El Salar de Uyuni (situado a 3,650 msnm en el departamento de Potosí) represent
 ¿Qué fruto silvestre de recolección de las selvas del norte de Bolivia destaca como un recurso de exportación sostenible y de alto impacto socioeconómico?
 
 ### Opciones
-- [x] A) La castaña de Bolivia o nuez del Brasil, recolectada en los bosques nativos de Pando, Beni y el norte de La Paz.
+- [x] D) La castaña de Bolivia o nuez del Brasil, recolectada en los bosques nativos de Pando, Beni y el norte de La Paz.
   <!-- feedback: Correcto. Bolivia es el principal exportador mundial de castaña amazónica sin cultivar (Bertholletia excelsa), una actividad silvestre recolectora sostenible que sustenta la economía del norte amazónico del país. -->
-- [ ] B) El cacao de altura importado que se siembra en las orillas heladas de la laguna del Titicaca.
+- [ ] A) El cacao de altura importado que se siembra en las orillas heladas de la laguna del Titicaca.
   <!-- feedback: Incorrecto. El Titicaca es un lago andino helado no apto para cultivar cacao amazónico, que es una especie de clima tropical húmedo. -->
-- [ ] C) El cultivo intensivo de aceitunas mediterráneas en los salares secos del altiplano potosino.
+- [ ] B) El cultivo intensivo de aceitunas mediterráneas en los salares secos del altiplano potosino.
   <!-- feedback: Incorrecto. No se siembran aceitunas en salares andinos secos como Uyuni por razones de extrema salinidad e incompatibilidad vegetal. -->
-- [ ] D) La recolección masiva de uvas desérticas silvestres en la desembocadura de los ríos del Chaco.
+- [ ] C) La recolección masiva de uvas desérticas silvestres en la desembocadura de los ríos del Chaco.
   <!-- feedback: Incorrecto. El norte amazónico boliviano es zona de selva tropical, no de uvas desérticas del Chaco. -->
 
 ### Explicacion Pedagogica
@@ -194,13 +194,13 @@ A diferencia de otras regiones amazónicas donde impera la deforestación ganade
 Si analizamos los valles interandinos y la zona del Chaco en Tarija, ¿qué característica climática y productiva fundamental define el departamento de Tarija?
 
 ### Opciones
-- [x] A) Un clima templado ideal para la viticultura y el cultivo de la vid en los valles centrales, contrastando con las llanuras chaqueñas secas del este ricas en yacimientos de gas natural.
+- [x] D) Un clima templado ideal para la viticultura y el cultivo de la vid en los valles centrales, contrastando con las llanuras chaqueñas secas del este ricas en yacimientos de gas natural.
   <!-- feedback: Correcto. Tarija cuenta con valles templados fértiles (famosos por sus viñedos de altura y la producción de vinos y singanis) y una llanura chaqueña cálida en el oriente del departamento que alberga los megacampos de gas natural de Bolivia. -->
-- [ ] B) Un clima polar andino que congela la tierra e impide todo cultivo agrícola, subsistiendo del comercio de pieles de foca.
+- [ ] A) Un clima polar andino que congela la tierra e impide todo cultivo agrícola, subsistiendo del comercio de pieles de foca.
   <!-- feedback: Incorrecto. El departamento de Tarija tiene valles templados y llanuras chaqueñas calurosas; no posee costas con focas ni clima polar ártico. -->
-- [ ] C) La existencia de selvas de inundación perpetua donde solo se cultiva caucho silvestre y caña de azúcar por mar.
+- [ ] B) La existencia de selvas de inundación perpetua donde solo se cultiva caucho silvestre y caña de azúcar por mar.
   <!-- feedback: Incorrecto. No existen deltas marítimos en Tarija ni selvas de inundación como el norte del Beni; es una región chaqueña y de valles secos andinos. -->
-- [ ] D) El cultivo exclusivo de quinua real en las dunas de sal de las playas de Antofagasta.
+- [ ] C) El cultivo exclusivo de quinua real en las dunas de sal de las playas de Antofagasta.
   <!-- feedback: Incorrecto. Antofagasta es un puerto de Chile fuera del territorio actual de Bolivia y Tarija se sitúa en los valles del sur boliviano. -->
 
 ### Explicacion Pedagogica
@@ -217,9 +217,9 @@ Tarija es una región de marcados contrastes geográficos. Mientras el valle cen
 ¿Qué impacto ambiental grave y de salud pública genera el auge de la minería aurífera aluvial mecanizada en los ríos Beni, Madre de Dios y Orthon?
 
 ### Opciones
-- [x] A) La contaminación por mercurio de las aguas y los peces, afectando gravemente la salud de las comunidades indígenas nativas y la biodiversidad.
+- [x] B) La contaminación por mercurio de las aguas y los peces, afectando gravemente la salud de las comunidades indígenas nativas y la biodiversidad.
   <!-- feedback: Correcto. El uso descontrolado de mercurio por las barcazas que extraen oro del lecho de los ríos amazónicos contamina las cadenas alimentarias fluviales, acumulándose en los peces consumidos por las comunidades nativas. -->
-- [ ] B) La sequía total e inmediata de los cauces debido al bombeo de agua dulce hacia las playas de Chile.
+- [ ] A) La sequía total e inmediata de los cauces debido al bombeo de agua dulce hacia las playas de Chile.
   <!-- feedback: Incorrecto. Los ríos amazónicos de Bolivia fluyen hacia el norte del Brasil y el Atlántico; no se bombean hacia Chile a través de la Cordillera de los Andes. -->
 - [ ] C) El congelamiento perpetuo de los ríos amazónicos debido a la acumulación de estaño metálico.
   <!-- feedback: Incorrecto. El estaño no congela el agua de los ríos y la Amazonía posee temperaturas tropicales cálidas constantes durante todo el año. -->
@@ -240,9 +240,9 @@ La explotación informal de oro aluvial en la Amazonía boliviana representa uno
 Si aplicamos el análisis de la geografía lacustre a la cuenca cerrada del altiplano, ¿qué factores geográficos e históricos desencadenaron la desecación crítica del lago Poopó en 2015?
 
 ### Opciones
-- [x] A) Una combinación de sequías severas por el fenómeno de El Niño, el cambio climático, la desviación de aguas tributarias para riego y la sedimentación minera.
+- [x] B) Una combinación de sequías severas por el fenómeno de El Niño, el cambio climático, la desviación de aguas tributarias para riego y la sedimentación minera.
   <!-- feedback: Correcto. El lago Poopó, de escasa profundidad, sufrió una crisis de desecación extrema por sequías prolongadas, aumento de temperaturas evaporativas, sedimentación y desvíos agrícolas del río Desaguadero. -->
-- [ ] B) La explosión nuclear subterránea provocada por ejércitos extranjeros en las profundidades del lago navegable Titicaca.
+- [ ] A) La explosión nuclear subterránea provocada por ejércitos extranjeros en las profundidades del lago navegable Titicaca.
   <!-- feedback: Incorrecto. No hubo explosiones nucleares ni militares de ningún tipo en los lagos andinos de Bolivia; la causa de la desecación es climática e hidrológica. -->
 - [ ] C) El drenaje total de sus aguas por un túnel secreto excavado por la corona española en el siglo XVII para buscar plata.
   <!-- feedback: Incorrecto. Es una fantasía novelesca sin ningún fundamento geológico o histórico; no existen túneles coloniales secretos que drenen el lago Poopó. -->
@@ -263,13 +263,13 @@ El lago Poopó, el segundo más grande de Bolivia, colapsó ecológicamente en 2
 ¿Qué controversia geopolítica e hidrológica enfrentó a Bolivia y Chile ante la Corte Internacional de Justicia (CIJ) sobre el uso de las aguas del Silala?
 
 ### Opciones
-- [x] A) Bolivia sostenía que eran manantiales cuyas aguas fueron canalizadas artificialmente hacia Chile, mientras que Chile argumentaba que era un río de curso internacional con derecho a uso equitativo.
+- [x] D) Bolivia sostenía que eran manantiales cuyas aguas fueron canalizadas artificialmente hacia Chile, mientras que Chile argumentaba que era un río de curso internacional con derecho a uso equitativo.
   <!-- feedback: Correcto. La disputa por el Silala (vertientes ubicadas en Potosí) se centró en si el flujo hídrico correspondía a un sistema de bofedales canalizado de forma artificial o a un río internacional natural, caso resuelto por el fallo de la CIJ en 2022. -->
-- [ ] B) Un conflicto militar marítimo por el cobro de peajes de entrada de submarinos de guerra chilenos al lago Titicaca.
+- [ ] A) Un conflicto militar marítimo por el cobro de peajes de entrada de submarinos de guerra chilenos al lago Titicaca.
   <!-- feedback: Incorrecto. Chile no tiene acceso al lago Titicaca andino ni opera submarinos de guerra en aguas lacustres bolivianas. -->
-- [ ] C) El intento de Chile de comprar el Salar de Uyuni completo a cambio de carbón vegetal para las minas de estaño paceñas.
+- [ ] B) El intento de Chile de comprar el Salar de Uyuni completo a cambio de carbón vegetal para las minas de estaño paceñas.
   <!-- feedback: Incorrecto. No existió ninguna oferta de compra del Salar de Uyuni por Chile ni el estaño paceño funciona con carbón de ese tipo. -->
-- [ ] D) El desacuerdo sobre el cultivo masivo de castaña amazónica en las cumbres nevadas de la Cordillera Real.
+- [ ] C) El desacuerdo sobre el cultivo masivo de castaña amazónica en las cumbres nevadas de la Cordillera Real.
   <!-- feedback: Incorrecto. Las castañas son plantas tropicales que crecen en las tierras bajas amazónicas del Beni y Pando, no en las cumbres andinas nevadas. -->
 
 ### Explicacion Pedagogica
@@ -309,13 +309,13 @@ Los valles interandinos de Bolivia poseen suelos de gran calidad pero con un rel
 Al analizar la expansión de la frontera agrícola en el norte integrado y este del departamento de Santa Cruz, ¿cuál es el cultivo de monocultivo industrial predominante y cuáles son sus impactos ambientales más cuestionados?
 
 ### Opciones
-- [x] A) La soya transgénica de exportación, asociada con la deforestación masiva del bosque seco chiquitano, pérdida de biodiversidad y degradación de suelos.
+- [x] D) La soya transgénica de exportación, asociada con la deforestación masiva del bosque seco chiquitano, pérdida de biodiversidad y degradación de suelos.
   <!-- feedback: Correcto. Santa Cruz de la Sierra es el motor agroindustrial del país, concentrando grandes plantaciones mecanizadas de soya y girasol que generan enormes divisas por exportación pero a costo de acelerar la deforestación de bosques nativos (Chiquitanía y Amazonía). -->
-- [ ] B) La siembra masiva de quinua real en las dunas inundables de los ríos amazónicos del norte del Beni.
+- [ ] A) La siembra masiva de quinua real en las dunas inundables de los ríos amazónicos del norte del Beni.
   <!-- feedback: Incorrecto. La quinua real se produce de manera exclusiva en el ecosistema frío y árido del altiplano andino sur (Oruro y Potosí), no en la Amazonía. -->
-- [ ] C) El cultivo de arroz de secano en las cumbres nevadas del Illimani paceño.
+- [ ] B) El cultivo de arroz de secano en las cumbres nevadas del Illimani paceño.
   <!-- feedback: Incorrecto. El arroz requiere climas cálidos y abundante agua en tierras bajas orientales, imposible de cultivar en cumbres andinas cubiertas de nieve. -->
-- [ ] D) La reforestación de la selva chiquitana con pinos importados del Ártico canadiense para extraer celulosa.
+- [ ] C) La reforestación de la selva chiquitana con pinos importados del Ártico canadiense para extraer celulosa.
   <!-- feedback: Incorrecto. La agroindustria cruceña expande cultivos comerciales de soya y ganadería, no proyectos de plantaciones forestales canadienses. -->
 
 ### Explicacion Pedagogica
@@ -401,11 +401,11 @@ Las tierras bajas bolivianas albergan ecosistemas de gran delicadeza. El manejo 
 Al juzgar éticamente las responsabilidades e impactos del cambio climático en los recursos naturales de Bolivia, ¿cuál de las siguientes afirmaciones posee mayor sustento geográfico y social?
 
 ### Opciones
-- [x] A) Bolivia sufre de manera desproporcionada los efectos del calentamiento global (retroceso glaciar, sequías e incendios) a pesar de ser un país de bajísimas emisiones de carbono a escala mundial.
+- [x] C) Bolivia sufre de manera desproporcionada los efectos del calentamiento global (retroceso glaciar, sequías e incendios) a pesar de ser un país de bajísimas emisiones de carbono a escala mundial.
   <!-- feedback: Correcto. Bolivia se encuentra en una situación de alta vulnerabilidad climática: el derretimiento de glaciares andinos y la sequía de bofedales amenazan la supervivencia comunal andina, revelando la injusticia climática global que afecta a países en desarrollo. -->
-- [ ] B) Bolivia es el principal causante del calentamiento global debido al uso masivo de energía nuclear en las minas de estaño de Oruro.
+- [ ] A) Bolivia es el principal causante del calentamiento global debido al uso masivo de energía nuclear en las minas de estaño de Oruro.
   <!-- feedback: Incorrecto. Bolivia no tiene plantas de energía nuclear operando en la minería de estaño ni es un gran emisor de carbono internacional. -->
-- [ ] C) El cambio climático en Bolivia es puramente artificial y se puede solucionar importando hielo del polo norte en barcazas fluviales por el río Mamoré.
+- [ ] B) El cambio climático en Bolivia es puramente artificial y se puede solucionar importando hielo del polo norte en barcazas fluviales por el río Mamoré.
   <!-- feedback: Incorrecto. Importar hielo de forma fluvial desde el polo norte es físicamente imposible, absurdo y no soluciona el calentamiento planetario de los Andes. -->
 - [ ] D) La desaparición de los glaciares andinos no tiene ninguna importancia productiva, ya que las ciudades andinas se abastecen de agua salada desalinizada de las playas de La Paz.
   <!-- feedback: Incorrecto. El lago navegable Titicaca y los bofedales son de agua dulce; La Paz no cuenta con playas marítimas saladas ni plantas de desalinización oceánica. -->
@@ -424,13 +424,13 @@ La evaluación del impacto del cambio climático en Bolivia devela una profunda 
 Al juzgar de manera integral las consecuencias de la mediterraneidad geográfica de Bolivia sobre su comercio exterior e industrialización, ¿cuál de las siguientes conclusiones posee mayor validez historiográfica y económica?
 
 ### Opciones
-- [x] A) La falta de un acceso soberano al mar impone un costo transaccional permanente que resta competitividad a las exportaciones bolivianas y limita su inserción directa en el comercio marítimo global.
+- [x] D) La falta de un acceso soberano al mar impone un costo transaccional permanente que resta competitividad a las exportaciones bolivianas y limita su inserción directa en el comercio marítimo global.
   <!-- feedback: Correcto. Estudios económicos confirman que los países mediterráneos sufren un 'impuesto geográfico' por fletes, trámites y demoras en puertos de terceros países (como Arica e Iquique en Chile), restándoles competitividad comercial internacional. -->
-- [ ] B) La mediterraneidad ha sido sumamente beneficiosa porque impidió que las ballenas oceánicas invadieran el Salar de Uyuni.
+- [ ] A) La mediterraneidad ha sido sumamente beneficiosa porque impidió que las ballenas oceánicas invadieran el Salar de Uyuni.
   <!-- feedback: Incorrecto. Las ballenas oceánicas no invaden salares andinos secos y altos; la mediterraneidad es una limitación económica grave, no un beneficio ecológico de ese tipo. -->
-- [ ] C) Bolivia es un país soberano del mar debido a que posee puertos marítimos gigantes construidos en las riberas del lago Poopó.
+- [ ] B) Bolivia es un país soberano del mar debido a que posee puertos marítimos gigantes construidos en las riberas del lago Poopó.
   <!-- feedback: Incorrecto. El lago Poopó es una cuenca lacustre andina interior poco profunda y salobre, no un océano con puertos de ultramar marítimos de libre tránsito. -->
-- [ ] D) La mediterraneidad obligó a Bolivia a construir la mayor flota de portaaviones nucleares del planeta en el río Pilcomayo del Chaco.
+- [ ] C) La mediterraneidad obligó a Bolivia a construir la mayor flota de portaaviones nucleares del planeta en el río Pilcomayo del Chaco.
   <!-- feedback: Incorrecto. El río Pilcomayo es poco caudaloso e inapto para portaaviones nucleares, y Bolivia no posee portaaviones marítimos debido a su enclaustramiento. -->
 
 ### Explicacion Pedagogica
@@ -470,9 +470,9 @@ El litio de Bolivia representa una inmensa esperanza económica pero también un
 Al juzgar la controversia por la construcción de la carretera que pretendía cruzar el corazón del TIPNIS, ¿qué tensión estructural de la geografía del desarrollo en Bolivia se devela?
 
 ### Opciones
-- [x] A) La contradicción entre la visión estatal de integración territorial y desarrollo vial frente a los derechos colectivos de autodeterminación de las comunidades indígenas y la preservación ecológica de las reservas naturales.
+- [x] B) La contradicción entre la visión estatal de integración territorial y desarrollo vial frente a los derechos colectivos de autodeterminación de las comunidades indígenas y la preservación ecológica de las reservas naturales.
   <!-- feedback: Correcto. El conflicto del TIPNIS (que conecta Cochabamba con el Beni) evidenció la profunda fisura entre el modelo extractivista desarrollista estatal (promovido por colonizadores cocaleros) y los derechos de conservación ambiental e identidad indígena de las tierras bajas. -->
-- [ ] B) La disputa entre pescadores de anchoveta de La Paz y mineros de estaño de Potosí por el control de la cuenca del Plata.
+- [ ] A) La disputa entre pescadores de anchoveta de La Paz y mineros de estaño de Potosí por el control de la cuenca del Plata.
   <!-- feedback: Incorrecto. El TIPNIS es una reserva de selva tropical inundable entre Cochabamba y el Beni, sin relación con anchovetas paceñas o la cuenca del Plata. -->
 - [ ] C) El rechazo de los pueblos indígenas del Beni a que el Estado de Bolivia construyera un aeropuerto espacial de la NASA en la cordillera.
   <!-- feedback: Incorrecto. No se planteó un aeropuerto espacial de la NASA en las selvas del Isiboro Sécure; el debate versaba sobre una carretera terrestre vial. -->

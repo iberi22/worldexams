@@ -32,11 +32,11 @@ Este bundle contiene 12 preguntas sobre **angulos-internos-poligonos** para grad
 ### Enunciado
 ¿Cuánto suman los ángulos internos de un triángulo y de un cuadrilátero?
 ### Opciones
-- [x] A) El triángulo suma 180° y el cuadrilátero suma 360°.
+- [x] C) El triángulo suma 180° y el cuadrilátero suma 360°.
   <!-- feedback: Correcto. Son los dos resultados básicos que se memorizan primero. -->
-- [ ] B) El triángulo suma 360° y el cuadrilátero suma 180°.
+- [ ] A) El triángulo suma 360° y el cuadrilátero suma 180°.
   <!-- feedback: Incorrecto. Los valores están intercambiados. -->
-- [ ] C) Ambos suman 180°.
+- [ ] B) Ambos suman 180°.
   <!-- feedback: Incorrecto. El cuadrilátero equivale a dos triángulos, por eso suma 360°. -->
 - [ ] D) Ambos suman 540°.
   <!-- feedback: Incorrecto. 540° es la suma de los ángulos de un pentágono. -->
@@ -74,9 +74,9 @@ Desde un vértice de un polígono de n lados se trazan n − 3 diagonales que fo
 ### Opciones
 - [ ] A) 360°
   <!-- feedback: Incorrecto. Esa es la suma del cuadrilátero, no del pentágono. -->
-- [ ] B) 720°
+- [ ] C) 720°
   <!-- feedback: Incorrecto. Esa es la suma del hexágono, no del pentágono. -->
-- [x] C) 540°
+- [x] B) 540°
   <!-- feedback: Correcto. Se aplica (5 − 2) × 180° = 3 × 180° = 540°. -->
 - [ ] D) 180°
   <!-- feedback: Incorrecto. Esa es la suma del triángulo, no del pentágono. -->
@@ -134,9 +134,9 @@ Suma del octágono: S = (8 − 2) × 180° = 6 × 180° = 1.080°. Como es regul
 ### Opciones
 - [ ] A) Suma 1.260° y costo 3.500.000 COP.
   <!-- feedback: Incorrecto. 1.260° es la suma del nonágono, no del decágono. -->
-- [x] B) Suma 1.440° y costo 3.500.000 COP.
+- [x] C) Suma 1.440° y costo 3.500.000 COP.
   <!-- feedback: Correcto. S = (10 − 2) × 180° = 1.440° y 10 por 350.000 = 3.500.000 COP. -->
-- [ ] C) Suma 1.440° y costo 350.000 COP.
+- [ ] B) Suma 1.440° y costo 350.000 COP.
   <!-- feedback: Incorrecto. La suma es correcta, pero el costo debe multiplicarse por los 10 vértices. -->
 - [ ] D) Suma 1.800° y costo 3.500.000 COP.
   <!-- feedback: Incorrecto. 1.800° es la suma del dodecágono, no del decágono. -->
@@ -154,11 +154,11 @@ Para n = 10: S = (10 − 2) × 180° = 8 × 180° = 1.440°. El costo total es 1
 ### Opciones
 - [ ] A) 90°
   <!-- feedback: Incorrecto. 95 + 85 + 110 + 90 = 380, que supera los 360° del cuadrilátero. -->
-- [x] B) 70°
+- [x] D) 70°
   <!-- feedback: Correcto. Los tres ángulos suman 290° y 360° − 290° = 70°. -->
-- [ ] C) 110°
+- [ ] B) 110°
   <!-- feedback: Incorrecto. Con ese valor la suma sería 400°, mayor que 360°. -->
-- [ ] D) 80°
+- [ ] C) 80°
   <!-- feedback: Incorrecto. Con ese valor la suma sería 370°, mayor que 360°. -->
 ### Explicacion Pedagogica
 La suma de un cuadrilátero es 360°. Los ángulos conocidos suman 95 + 85 + 110 = 290°. Por tanto, el ángulo faltante es 360 − 290 = 70°.
@@ -172,9 +172,9 @@ La suma de un cuadrilátero es 360°. Los ángulos conocidos suman 95 + 85 + 110
 ### Enunciado
 ¿Cuánto mide el quinto ángulo del pentágono?
 ### Opciones
-- [x] A) 110°
+- [x] B) 110°
   <!-- feedback: Correcto. Los cuatro ángulos suman 430° y 540° − 430° = 110°. -->
-- [ ] B) 100°
+- [ ] A) 100°
   <!-- feedback: Incorrecto. Con ese valor la suma sería 530°, menor que 540°. -->
 - [ ] C) 120°
   <!-- feedback: Incorrecto. Con ese valor la suma sería 550°, mayor que 540°. -->
@@ -194,9 +194,9 @@ La suma del pentágono es 540°. Los ángulos conocidos suman 100 + 120 + 95 + 1
 ### Opciones
 - [ ] A) No hay error: todo polígono regular tiene ángulos de 120°.
   <!-- feedback: Incorrecto. El ángulo depende del número de lados; 120° solo corresponde al hexágono. -->
-- [x] B) Confunde el hexágono con el pentágono: cada ángulo del pentágono regular mide 108°.
+- [x] C) Confunde el hexágono con el pentágono: cada ángulo del pentágono regular mide 108°.
   <!-- feedback: Correcto. La suma 540° dividida entre 5 da 108°, no 120°. -->
-- [ ] C) El error es la suma: el pentágono suma 720° y cada ángulo mide 144°.
+- [ ] B) El error es la suma: el pentágono suma 720° y cada ángulo mide 144°.
   <!-- feedback: Incorrecto. 720° es la suma del hexágono, no del pentágono. -->
 - [ ] D) El error es dividir: el pentágono regular tiene ángulos de 90°.
   <!-- feedback: Incorrecto. 90° es el ángulo del cuadrado, no del pentágono. -->
@@ -214,11 +214,11 @@ Cada polígono regular tiene su propio ángulo interno: se calcula como (n − 2
 ### Opciones
 - [ ] A) 8 lados y cada ángulo 135°.
   <!-- feedback: Incorrecto. El octágono suma 1.080°, no 1.260°. -->
-- [x] B) 9 lados y cada ángulo 140°.
+- [x] D) 9 lados y cada ángulo 140°.
   <!-- feedback: Correcto. Al resolver (n − 2) × 180 = 1.260 se obtiene n = 9 y 1.260 / 9 = 140. -->
-- [ ] C) 9 lados y cada ángulo 135°.
+- [ ] B) 9 lados y cada ángulo 135°.
   <!-- feedback: Incorrecto. El número de lados es correcto, pero 1.260 / 9 = 140, no 135. -->
-- [ ] D) 10 lados y cada ángulo 144°.
+- [ ] C) 10 lados y cada ángulo 144°.
   <!-- feedback: Incorrecto. El decágono suma 1.440°, no 1.260°. -->
 ### Explicacion Pedagogica
 Se despeja n de la fórmula: (n − 2) × 180 = 1.260, luego n − 2 = 7 y n = 9. Es un nonágono. Si fuera regular, cada ángulo mediría 1.260° / 9 = 140°.
@@ -232,9 +232,9 @@ Se despeja n de la fórmula: (n − 2) × 180 = 1.260, luego n − 2 = 7 y n = 9
 ### Enunciado
 ¿Cuánto mide cada ángulo interno del dodecágono regular y cuál es su perímetro?
 ### Opciones
-- [ ] A) Cada ángulo 140° y perímetro 20 metros.
+- [ ] B) Cada ángulo 140° y perímetro 20 metros.
   <!-- feedback: Incorrecto. 140° es el ángulo del nonágono y el perímetro de 12 lados de 2 m es 24 m. -->
-- [x] B) Cada ángulo 150° y perímetro 24 metros.
+- [x] A) Cada ángulo 150° y perímetro 24 metros.
   <!-- feedback: Correcto. S = (12 − 2) × 180° = 1.800°, 1.800° / 12 = 150° y 12 × 2 = 24 m. -->
 - [ ] C) Cada ángulo 150° y perímetro 20 metros.
   <!-- feedback: Incorrecto. El ángulo es correcto, pero el perímetro es 12 por 2 = 24, no 20. -->
@@ -254,11 +254,11 @@ Para n = 12: S = 10 × 180° = 1.800° y cada ángulo mide 1.800° / 12 = 150°.
 ### Opciones
 - [ ] A) Es verdadera: el triángulo suma 180° y el hexágono suma 360°.
   <!-- feedback: Incorrecto. El hexágono suma 720°, no 360°. -->
-- [x] B) Es falsa: el triángulo suma 180° y el hexágono suma 720°, que es cuatro veces 180°.
+- [x] D) Es falsa: el triángulo suma 180° y el hexágono suma 720°, que es cuatro veces 180°.
   <!-- feedback: Correcto. La fórmula (n − 2) × 180° no es proporcional a n por el término −2. -->
-- [ ] C) Es verdadera: toda suma de ángulos se duplica al duplicar los lados.
+- [ ] B) Es verdadera: toda suma de ángulos se duplica al duplicar los lados.
   <!-- feedback: Incorrecto. La relación no es de proporcionalidad directa por el −2 de la fórmula. -->
-- [ ] D) Es falsa: el hexágono suma lo mismo que el triángulo, 180°.
+- [ ] C) Es falsa: el hexágono suma lo mismo que el triángulo, 180°.
   <!-- feedback: Incorrecto. El hexágono suma 720°, mucho más que el triángulo. -->
 ### Explicacion Pedagogica
 La suma S = (n − 2) × 180° crece linealmente con n, pero no es proporcional a n por el término independiente −2. Del triángulo (n = 3, S = 180°) al hexágono (n = 6, S = 720°) los lados se duplican pero la suma se cuadruplica. Por tanto, la afirmación es falsa.

@@ -34,11 +34,11 @@ Este bundle contiene 20 preguntas sobre **Mecánica Clásica y Conservación** p
 ¿Qué principio de conservación explica por qué el patinador gira más rápido cuando encoje los brazos?
 
 ### Opciones
-- [x] A) Conservación de la cantidad de movimiento angular ($L$).
+- [x] C) Conservación de la cantidad de movimiento angular ($L$).
   <!-- feedback: Correcto. Al reducir el momento de inercia ($I$) al acercar los brazos, la velocidad angular ($\omega$) aumenta para mantener $L = I \omega$ constante. -->
-- [ ] B) Conservación de la masa en sistemas cerrados.
+- [ ] A) Conservación de la masa en sistemas cerrados.
   <!-- feedback: Incorrecto. La masa permanece invariable pero no explica el incremento de velocidad angular. -->
-- [ ] C) Conservación de la carga eléctrica estática.
+- [ ] B) Conservación de la carga eléctrica estática.
   <!-- feedback: Incorrecto. Es un fenómeno mecánico, no electromagnético. -->
 - [ ] D) Conservación del volumen corporal.
   <!-- feedback: Incorrecto. El volumen corporal no influye en la dinámica de rotación. -->
@@ -57,9 +57,9 @@ En ausencia de torcas externas netas ($\sum \tau_{ext} = 0$), el momento angular
 ¿Por qué la energía mecánica total del sistema esfera-Tierra no permanece estrictamente constante durante la caída?
 
 ### Opciones
-- [x] A) Porque la fuerza de resistencia del aire realiza un trabajo no conservativo que disipa energía en forma de calor.
+- [x] B) Porque la fuerza de resistencia del aire realiza un trabajo no conservativo que disipa energía en forma de calor.
   <!-- feedback: Correcto. La fricción con el aire es una fuerza no conservativa que convierte energía mecánica en energía térmica. -->
-- [ ] B) Porque la fuerza de la gravedad destruye la energía cinética del objeto.
+- [ ] A) Porque la fuerza de la gravedad destruye la energía cinética del objeto.
   <!-- feedback: Incorrecto. La gravedad es una fuerza conservativa que transforma energía potencial en cinética. -->
 - [ ] C) Porque el aire incrementa la masa de la esfera durante el recorrido.
   <!-- feedback: Incorrecto. La masa de la esfera permanece constante. -->
@@ -103,9 +103,9 @@ El trabajo es $W = \vec{F} \cdot \vec{d} = F d \cos\theta$. En un movimiento cir
 ¿Qué magnitudes físicas se conservan simultáneamente durante un choque perfectamente elástico en un sistema aislado?
 
 ### Opciones
-- [x] A) La cantidad de movimiento lineal total ($\vec{p}$) y la energía cinética total ($E_k$).
+- [x] B) La cantidad de movimiento lineal total ($\vec{p}$) y la energía cinética total ($E_k$).
   <!-- feedback: Correcto. En choques elásticos se conservan tanto la cantidad de movimiento lineal como la energía cinética total. -->
-- [ ] B) Únicamente la energía cinética total ($E_k$).
+- [ ] A) Únicamente la energía cinética total ($E_k$).
   <!-- feedback: Incorrecto. El momento lineal siempre se conserva en sistemas aislados sin fuerzas externas. -->
 - [ ] C) Únicamente la cantidad de movimiento lineal ($\vec{p}$).
   <!-- feedback: Incorrecto. Eso caracteriza a las colisiones inelásticas donde la energía cinética se degrada. -->
@@ -126,11 +126,11 @@ Por definición, una colisión elástica en un sistema aislado es aquella en la 
 ¿Cuál es la rapidez del vagón cuando pasa por un punto $B$ situado a $5\text{ m}$ de altura sobre el piso?
 
 ### Opciones
-- [x] A) $17.32\text{ m/s}$ ($\sqrt{300}\text{ m/s}$)
+- [x] C) $17.32\text{ m/s}$ ($\sqrt{300}\text{ m/s}$)
   <!-- feedback: Correcto. Conservación de energía: $m g h_A = m g h_B + \frac{1}{2}m v_B^2 \implies g(h_A - h_B) = \frac{1}{2} v_B^2 \implies v_B = \sqrt{2 g (20 - 5)} = \sqrt{2(10)(15)} = \sqrt{300} \approx 17.32\text{ m/s}$. -->
-- [ ] B) $20.00\text{ m/s}$
+- [ ] A) $20.00\text{ m/s}$
   <!-- feedback: Incorrecto. Corresponde a la velocidad al llegar al piso ($h=0$). -->
-- [ ] C) $10.00\text{ m/s}$
+- [ ] B) $10.00\text{ m/s}$
   <!-- feedback: Incorrecto. Cálculo erróneo usando solo la diferencia de altura sin multiplicar por 2. -->
 - [ ] D) $14.14\text{ m/s}$
   <!-- feedback: Incorrecto. Corresponde al cálculo evaluado únicamente a $10\text{ m}$ de caída. -->
@@ -149,11 +149,11 @@ Por conservación de la energía mecánica total en ausencia de fricción: $E_A 
 ¿Cuál es la energía cinética rotacional acumulada en el disco?
 
 ### Opciones
-- [x] A) $25\text{ Joules}$
+- [x] C) $25\text{ Joules}$
   <!-- feedback: Correcto. $I = \frac{1}{2}(4)(0.5^2) = 2(0.25) = 0.5\text{ kg}\cdot\text{m}^2$. $E_{k,rot} = \frac{1}{2} I \omega^2 = \frac{1}{2}(0.5)(10^2) = 0.25 \times 100 = 25\text{ J}$. -->
-- [ ] B) $50\text{ Joules}$
+- [ ] A) $50\text{ Joules}$
   <!-- feedback: Incorrecto. Ocurre si se olvida dividir entre 2 la fórmula de la energía cinética rotacional. -->
-- [ ] C) $100\text{ Joules}$
+- [ ] B) $100\text{ Joules}$
   <!-- feedback: Incorrecto. Ocurre si se olvida el factor de la masa o el radio. -->
 - [ ] D) $12.5\text{ Joules}$
   <!-- feedback: Incorrecto. División adicional por 2 sin justificación. -->
@@ -219,11 +219,11 @@ El momento de fuerza o torca mide la eficacia de una fuerza para producir rotaci
 ¿Cuál es la distancia máxima que se comprime el resorte hasta detener temporalmente la bola?
 
 ### Opciones
-- [x] A) $0.4\text{ metros}$
+- [x] C) $0.4\text{ metros}$
   <!-- feedback: Correcto. Conservación de energía: $\frac{1}{2}m v^2 = \frac{1}{2}k x^2 \implies x = v \sqrt{\frac{m}{k}} = 8 \sqrt{\frac{1}{400}} = 8 \times \frac{1}{20} = \frac{8}{20} = 0.4\text{ m}$. -->
-- [ ] B) $0.2\text{ metros}$
+- [ ] A) $0.2\text{ metros}$
   <!-- feedback: Incorrecto. Se omitió la velocidad de la bola en la raíz. -->
-- [ ] C) $0.8\text{ metros}$
+- [ ] B) $0.8\text{ metros}$
   <!-- feedback: Incorrecto. Multiplicación errónea de la constante por 2. -->
 - [ ] D) $1.6\text{ metros}$
   <!-- feedback: Incorrecto. Error en la simplificación de la fracción. -->
@@ -242,13 +242,13 @@ Toda la energía cinética de la masa se transforma en energía potencial elást
 ¿Cuál es el período $T$ de pequeñas oscilaciones del péndulo?
 
 ### Opciones
-- [x] A) $1.98\text{ segundos}$ (aproximadamente $2\text{ s}$)
+- [x] D) $1.98\text{ segundos}$ (aproximadamente $2\text{ s}$)
   <!-- feedback: Correcto. $T = 2\pi \sqrt{\frac{L}{g}} = 2(3.14) \sqrt{\frac{1}{10}} = 6.28 \times 0.316 = 1.98\text{ s} \approx 2.0\text{ s}$. -->
-- [ ] B) $6.28\text{ segundos}$
+- [ ] A) $6.28\text{ segundos}$
   <!-- feedback: Incorrecto. Se omitió la raíz cuadrada de la fracción $L/g$. -->
-- [ ] C) $0.31\text{ segundos}$
+- [ ] B) $0.31\text{ segundos}$
   <!-- feedback: Incorrecto. Corresponde solo a la raíz cuadrada de $1/10$ sin multiplicar por $2pi$. -->
-- [ ] D) $3.14\text{ segundos}$
+- [ ] C) $3.14\text{ segundos}$
   <!-- feedback: Incorrecto. Se dividió $2pi$ entre 2. -->
 
 ### Explicacion Pedagogica
@@ -265,9 +265,9 @@ El período de un péndulo simple para pequeñas amplitudes viene dado por $T = 
 ¿Cuál de las dos esferas llega primero a la base del plano inclinado y por qué?
 
 ### Opciones
-- [x] A) La esfera maciza, porque posee un menor momento de inercia y convierte una menor fracción de su energía en rotación.
+- [x] B) La esfera maciza, porque posee un menor momento de inercia y convierte una menor fracción de su energía en rotación.
   <!-- feedback: Correcto. $I_{maciza} = \frac{2}{5}mR^2 < I_{hueca} = \frac{2}{3}mR^2$. Al requerir menos energía rotacional, la esfera maciza alcanza mayor aceleración traslacional. -->
-- [ ] B) La esfera hueca, porque su masa está distribuida en el borde ejerciendo mayor peso.
+- [ ] A) La esfera hueca, porque su masa está distribuida en el borde ejerciendo mayor peso.
   <!-- feedback: Incorrecto. Una mayor inercia rotacional disminuye la aceleración traslacional. -->
 - [ ] C) Ambas llegan exactamente al mismo tiempo porque tienen la misma masa y radio.
   <!-- feedback: Incorrecto. La distribución espacial de la masa (inercia rotacional) afecta la aceleración al rodar sin deslizar. -->
@@ -335,9 +335,9 @@ El período de un sistema masa-resorte armónico ideal es $T = 2\pi \sqrt{\frac{
 ¿Cuánto tiempo tarda el volante en detenerse por completo?
 
 ### Opciones
-- [x] A) $10\text{ segundos}$
+- [x] B) $10\text{ segundos}$
   <!-- feedback: Correcto. Aceleración angular $\alpha = \frac{\tau}{I} = \frac{-6}{2} = -3\text{ rad/s}^2$. Tiempo $\Delta t = \frac{\omega_f - \omega_i}{alpha} = \frac{0 - 30}{-3} = 10\text{ s}$. -->
-- [ ] B) $5\text{ segundos}$
+- [ ] A) $5\text{ segundos}$
   <!-- feedback: Incorrecto. División errónea de la velocidad entre la torca directamente. -->
 - [ ] C) $15\text{ segundos}$
   <!-- feedback: Incorrecto. Cálculo equivocado en la aceleración angular. -->
@@ -359,13 +359,13 @@ El período de un sistema masa-resorte armónico ideal es $T = 2\pi \sqrt{\frac{
 ¿En qué posición $x$ del trayecto la energía cinética del sistema es idéntica a su energía potencial elástica?
 
 ### Opciones
-- [x] A) $x = \pm \frac{A}{\sqrt{2}} \approx \pm 0.707 A$
+- [x] D) $x = \pm \frac{A}{\sqrt{2}} \approx \pm 0.707 A$
   <!-- feedback: Correcto. $E_p = \frac{1}{2} k x^2 = \frac{1}{2} E_{total} = \frac{1}{4} k A^2 \implies x^2 = \frac{A^2}{2} \implies x = \pm \frac{A}{\sqrt{2}}$. -->
-- [ ] B) $x = \pm \frac{A}{2}$
+- [ ] A) $x = \pm \frac{A}{2}$
   <!-- feedback: Incorrecto. En $x = A/2$, la energía potencial es solo el $25%$ de la total. -->
-- [ ] C) $x = 0$
+- [ ] B) $x = 0$
   <!-- feedback: Incorrecto. En el centro de equilibrio la energía potencial es cero y la cinética es máxima. -->
-- [ ] D) $x = \pm A$
+- [ ] C) $x = \pm A$
   <!-- feedback: Incorrecto. En los extremos la energía cinética es cero. -->
 
 ### Explicacion Pedagogica
@@ -382,11 +382,11 @@ La energía total es $E = \frac{1}{2} k A^2$. Si $E_k = E_p$, entonces $E_p = \f
 ¿Cuál es la aceleración lineal de su centro de masa a lo largo de la rampa? (Dato: $I = \frac{1}{2} M R^2$).
 
 ### Opciones
-- [x] A) $a = \frac{2}{3} g \sin\theta$
+- [x] C) $a = \frac{2}{3} g \sin\theta$
   <!-- feedback: Correcto. $a = \frac{g \sin\theta}{1 + I/(M R^2)} = \frac{g \sin\theta}{1 + 1/2} = \frac{g \sin\theta}{3/2} = \frac{2}{3} g \sin\theta$. -->
-- [ ] B) $a = g \sin\theta$
+- [ ] A) $a = g \sin\theta$
   <!-- feedback: Incorrecto. Corresponde a la aceleración de un bloque deslizante sin fricción. -->
-- [ ] C) $a = \frac{1}{2} g \sin\theta$
+- [ ] B) $a = \frac{1}{2} g \sin\theta$
   <!-- feedback: Incorrecto. Subestimación de la componente de aceleración traslacional. -->
 - [ ] D) $a = \frac{5}{7} g \sin\theta$
   <!-- feedback: Incorrecto. Aceleración correspondiente a una esfera maciza. -->
@@ -405,9 +405,9 @@ Fuerzas en el cilindro que rueda: $M g \sin\theta - f_s = M a$ y $\tau = f_s R =
 Si la velocidad en el perihelio es $v_p$, ¿cuál es la velocidad $v_a$ en el afelio expresada en función de $v_p$, $r_p$ y $r_a$?
 
 ### Opciones
-- [x] A) $v_a = v_p \left(\frac{r_p}{r_a}\right)$
+- [x] B) $v_a = v_p \left(\frac{r_p}{r_a}\right)$
   <!-- feedback: Correcto. Por conservación del momento angular en campos centrales: $L = m r_p v_p = m r_a v_a \implies v_a = v_p \left(\frac{r_p}{r_a}\right)$. -->
-- [ ] B) $v_a = v_p \left(\frac{r_a}{r_p}\right)$
+- [ ] A) $v_a = v_p \left(\frac{r_a}{r_p}\right)$
   <!-- feedback: Incorrecto. Implicaría mayor velocidad en el punto más distante. -->
 - [ ] C) $v_a = v_p \left(\frac{r_p}{r_a}\right)^2$
   <!-- feedback: Incorrecto. Relación cuadrática errónea. -->
@@ -428,13 +428,13 @@ Como la fuerza gravitacional es central, la torca neta sobre el planeta respecto
 ¿Cuál es la frecuencia angular $\omega$ de pequeñas oscilaciones de este péndulo físico?
 
 ### Opciones
-- [x] A) $\omega = \sqrt{\frac{3 g}{2 L}}$
+- [x] D) $\omega = \sqrt{\frac{3 g}{2 L}}$
   <!-- feedback: Correcto. Para un péndulo físico $\omega = \sqrt{\frac{M g d}{I}}$. El centro de masa está en $d = L/2$. $\omega = \sqrt{\frac{M g (L/2)}{(1/3) M L^2}} = \sqrt{\frac{3 g}{2 L}}$. -->
-- [ ] B) $\omega = \sqrt{\frac{g}{L}}$
+- [ ] A) $\omega = \sqrt{\frac{g}{L}}$
   <!-- feedback: Incorrecto. Corresponde a un péndulo simple con toda la masa concentrada en el extremo. -->
-- [ ] C) $\omega = \sqrt{\frac{2 g}{3 L}}$
+- [ ] B) $\omega = \sqrt{\frac{2 g}{3 L}}$
   <!-- feedback: Incorrecto. Inversión del factor numérico. -->
-- [ ] D) $\omega = \sqrt{\frac{3 g}{L}}$
+- [ ] C) $\omega = \sqrt{\frac{3 g}{L}}$
   <!-- feedback: Incorrecto. Se omitió la distancia al centro de masa $L/2$. -->
 
 ### Explicacion Pedagogica
@@ -477,13 +477,13 @@ Igualando a cero: $\frac{2a}{x^3} = \frac{b}{x^2} \implies x_0 = \frac{2a}{b}$.
 ¿Qué altura máxima $h_{max}$ alcanzará el centro de masa del cilindro sobre el plano inclinado?
 
 ### Opciones
-- [x] A) $h_{max} = \frac{3 v_0^2}{4 g}$
+- [x] D) $h_{max} = \frac{3 v_0^2}{4 g}$
   <!-- feedback: Correcto. Energía inicial $E_i = \frac{1}{2}m v_0^2 + \frac{1}{2}I \omega^2 = \frac{1}{2}m v_0^2 + \frac{1}{4}m v_0^2 = \frac{3}{4}m v_0^2$. Igualando a la energía potencial final $m g h_{max} = \frac{3}{4}m v_0^2 \implies h_{max} = \frac{3 v_0^2}{4 g}$. -->
-- [ ] B) $h_{max} = \frac{v_0^2}{2 g}$
+- [ ] A) $h_{max} = \frac{v_0^2}{2 g}$
   <!-- feedback: Incorrecto. Corresponde a un bloque deslizante sin rotación. -->
-- [ ] C) $h_{max} = \frac{v_0^2}{g}$
+- [ ] B) $h_{max} = \frac{v_0^2}{g}$
   <!-- feedback: Incorrecto. Sobreestimación de la energía mecánica total. -->
-- [ ] D) $h_{max} = \frac{7 v_0^2}{10 g}$
+- [ ] C) $h_{max} = \frac{7 v_0^2}{10 g}$
   <!-- feedback: Incorrecto. Corresponde a la altura alcanzada por una esfera maciza. -->
 
 ### Explicacion Pedagogica

@@ -33,11 +33,11 @@ creador: "Jules-Agent"
 ¿Qué estadista paraguayo es considerado el "Primer Presidente Constitucional de la República" e impulsó la modernización, la educación pública y la apertura técnica del país?
 
 ### Opciones
-- [x] A) Don Carlos Antonio López
+- [x] C) Don Carlos Antonio López
   <!-- feedback: Correcto. Don Carlos Antonio López asumió como Presidente Constitucional en 1844 modernizando el país con el ferrocarril, la fundición de Ybycuí y la marina mercante. -->
-- [ ] B) Mariscal Francisco Solano López
+- [ ] A) Mariscal Francisco Solano López
   <!-- feedback: Incorrecto. El Mariscal Francisco Solano López fue el hijo y sucesor que comandó al país durante la Guerra de la Triple Alianza (1864-1870). -->
-- [ ] C) General Bernardino Caballero
+- [ ] B) General Bernardino Caballero
   <!-- feedback: Incorrecto. Bernardino Caballero fue un destacado héroe militar de la contienda y presidente en la etapa de posguerra (1880-1886). -->
 - [ ] D) Dr. José Gaspar Rodríguez de Francia
   <!-- feedback: Incorrecto. El Dr. Francia gobernó durante la etapa del Consular y Dictadura anterior (1814-1840). -->
@@ -56,13 +56,13 @@ Don Carlos Antonio López sentó las bases de la modernización técnica e insti
 ¿Cómo se denominó la primera fundición de hierro y fábrica de armamentos y herramientas construida bajo el gobierno de Don Carlos Antonio López en 1850?
 
 ### Opciones
-- [x] A) La Fundición de Hierro de Ybycuí (La Rosada)
+- [x] D) La Fundición de Hierro de Ybycuí (La Rosada)
   <!-- feedback: Correcto. La Rosada de Ybycuí fue la pionera fábrica siderúrgica de América del Sur que producía piezas de hierro, calderas y pertrechos. -->
-- [ ] B) Los Astilleros de las Islas Malvinas
+- [ ] A) Los Astilleros de las Islas Malvinas
   <!-- feedback: Incorrecto. Instalación naval lejana en el Atlántico Sur sin vinculación con el Estado paraguayo. -->
-- [ ] C) El Alto Horno de la Ciudad de Potosí
+- [ ] B) El Alto Horno de la Ciudad de Potosí
   <!-- feedback: Incorrecto. Potosí se ubica en Bolivia destacando por la extracción de plata en la colonia. -->
-- [ ] D) El Ingenio Azucarero de Encarnación
+- [ ] C) El Ingenio Azucarero de Encarnación
   <!-- feedback: Incorrecto. La obra emblemática de Ybycuí fue una siderurgia de hierro y no un ingenio azucarero. -->
 
 ### Explicacion Pedagogica
@@ -102,13 +102,13 @@ El ferrocarril a vapor demostró el elevado nivel de desarrollo técnico alcanza
 ¿Qué tres países firmaron en secreto el 1 de mayo de 1865 el Tratado de la Triple Alianza para combatir militarmente a la República del Paraguay?
 
 ### Opciones
-- [x] A) Argentina, Brasil y Uruguay
+- [x] D) Argentina, Brasil y Uruguay
   <!-- feedback: Correcto. El Tratado Secreto de la Triple Alianza fue suscrito en Buenos Aires por los gobiernos de Brasil, Argentina y el régimen uruguayo de Flores. -->
-- [ ] B) Bolivia, Chile y Perú
+- [ ] A) Bolivia, Chile y Perú
   <!-- feedback: Incorrecto. Estos tres países del Pacífico no integraron la coalición de la Triple Alianza contra Paraguay. -->
-- [ ] C) Estados Unidos, Gran Bretaña y España
+- [ ] B) Estados Unidos, Gran Bretaña y España
   <!-- feedback: Incorrecto. Potencias no sudamericanas que se mantuvieron oficialmente neutrales durante el conflicto. -->
-- [ ] D) Colombia, Venezuela y Ecuador
+- [ ] C) Colombia, Venezuela y Ecuador
   <!-- feedback: Incorrecto. Colombia expresó su solidaridad moral con Paraguay tras el final de la contienda de exterminio. -->
 
 ### Explicacion Pedagogica
@@ -125,11 +125,11 @@ El Tratado de la Triple Alianza fijó objetivos drásticos de desmantelamiento m
 ¿Qué causa desencadenante inmediata llevó al gobierno de Francisco Solano López a declarar la guerra al Imperio del Brasil a fines de 1864?
 
 ### Opciones
-- [x] A) La invasión militar brasileña al Uruguay derrocando al gobierno legítimo blanco y alterando el equilibrio geopolítico del Río de la Plata
+- [x] C) La invasión militar brasileña al Uruguay derrocando al gobierno legítimo blanco y alterando el equilibrio geopolítico del Río de la Plata
   <!-- feedback: Correcto. Paraguay había advertido que cualquier amenaza a la independencia uruguaya afectaría el equilibrio del Plata, motivando la captura del vapor Marquês de Olinda. -->
-- [ ] B) El ataque naviero del Imperio del Brasil a la ciudad puerto de Asunción
+- [ ] A) El ataque naviero del Imperio del Brasil a la ciudad puerto de Asunción
   <!-- feedback: Incorrecto. Las operaciones militares iniciaron en el Mato Grosso y en el curso de los ríos alejados de Asunción. -->
-- [ ] C) La disputa por la posesión de las minas de oro del Cerro Tres Kandú
+- [ ] B) La disputa por la posesión de las minas de oro del Cerro Tres Kandú
   <!-- feedback: Incorrecto. No existían disputas de minería aurífera entre Paraguay y Brasil en la zona. -->
 - [ ] D) La negativa de Brasil a comprar la producción de yerba mate paraguaya
   <!-- feedback: Incorrecto. El detonante fue estrictamente geopolítico y militar en la banda oriental uruguaya. -->
@@ -148,11 +148,11 @@ La defensa del equilibrio de poderes en la Cuenca del Plata fue el argumento doc
 ¿Qué genial estrategia defensiva implementó el general José Eduvigis Díaz en la Batalla de Curupayty infligiendo una aplastante derrota a las fuerzas aliadas?
 
 ### Opciones
-- [x] A) Construcción de trincheras fortificadas con fosos y abatís que destrozaron los asaltos frontales de la infantería aliada
+- [x] C) Construcción de trincheras fortificadas con fosos y abatís que destrozaron los asaltos frontales de la infantería aliada
   <!-- feedback: Correcto. Curupayty fue la mayor victoria militar paraguaya donde las fortificaciones bien diseñadas causaron miles de bajas a las tropas atacantes. -->
-- [ ] B) Uso de una escuadra de submarinos a vapor que hundió la flota enemiga
+- [ ] A) Uso de una escuadra de submarinos a vapor que hundió la flota enemiga
   <!-- feedback: Incorrecto. No existían submarinos en la contienda del Plata; la victoria fue de infantería y artillería terrestre en trincheras. -->
-- [ ] C) Ataque de caballería nocturna en los bosques desérticos del Chaco Boreal
+- [ ] B) Ataque de caballería nocturna en los bosques desérticos del Chaco Boreal
   <!-- feedback: Incorrecto. Curupayty se libró en el complejo defensivo de las fortificaciones del cuadrilátero ribereño de Ñeembucú. -->
 - [ ] D) Rendición incondicional y entrega de los pertrechos de guerra al enemigo
   <!-- feedback: Incorrecto. Curupayty fue la victoria más gloriosa y contundente del ejército paraguayo en la guerra. -->
@@ -171,9 +171,9 @@ La Batalla de Curupayty constituye un modelo de ingeniería militar defensiva y 
 ¿Qué trágico y heroico episodio bélico se conmemora en Paraguay cada 16 de agosto como "Día del Niño" en memoria de la Batalla de Acosta Ñu?
 
 ### Opciones
-- [x] A) El desigual combate donde miles de niños y adolescentes disfrazados con barbas postizas enfrentaron a las curtidas tropas aliadas
+- [x] B) El desigual combate donde miles de niños y adolescentes disfrazados con barbas postizas enfrentaron a las curtidas tropas aliadas
   <!-- feedback: Correcto. Acosta Ñu simboliza el supremo sacrificio de la niñez paraguaya en defensa de la patria abatida por fuerzas infinitamente superiores. -->
-- [ ] B) El tratado de paz definitivo firmado por los generales aliadas en la capital
+- [ ] A) El tratado de paz definitivo firmado por los generales aliadas en la capital
   <!-- feedback: Incorrecto. Acosta Ñu fue una cruenta batalla de retaguardia durante la campaña de las Cordilleras. -->
 - [ ] C) La inauguración del Palacio de Gobierno construido por artesanos europeos
   <!-- feedback: Incorrecto. Acosta Ñu fue una acción de guerra trágica en la fase final de la contienda. -->
@@ -194,11 +194,11 @@ Acosta Ñu evoca el drama humanitario y la resistencia desesperada de la poblaci
 ¿Qué suceso histórico ocurrido en Cerro Corá el 1 de marzo de 1870 marcó el fin definitivo de la Guerra contra la Triple Alianza?
 
 ### Opciones
-- [x] A) La muerte en combate del Mariscal Francisco Solano López pronunciando la célebre frase "¡Muero por mi Patria!"
+- [x] C) La muerte en combate del Mariscal Francisco Solano López pronunciando la célebre frase "¡Muero por mi Patria!"
   <!-- feedback: Correcto. El combate de Cerro Corá y la caída de Solano López y su hijo Panchito pusieron fin a más de cinco años de contienda destructiva. -->
-- [ ] B) La coronación de Solano López como emperador del Cono Sur
+- [ ] A) La coronación de Solano López como emperador del Cono Sur
   <!-- feedback: Incorrecto. El desenlace fue trágico con la muerte del presidente y la ocupación del país. -->
-- [ ] C) El hundimiento del vapor acorazado brasilero en las costas de Asunción
+- [ ] B) El hundimiento del vapor acorazado brasilero en las costas de Asunción
   <!-- feedback: Incorrecto. Cerro Corá es un paraje mediterráneo terrestre en las serranías de Amambay. -->
 - [ ] D) La firma del tratado de anexión total de Paraguay a la República Argentina
   <!-- feedback: Incorrecto. Aunque sufrió mutilaciones territoriales, Paraguay mantuvo su independencia estatal posbélica. -->
@@ -217,11 +217,11 @@ El 1 de marzo se conmemora el "Día de los Héroes" rindiendo homenaje a los def
 ¿Qué rol heroico desempeñaron las mujeres paraguayas (conocidas como Las Residentas) durante la Guerra contra la Triple Alianza?
 
 ### Opciones
-- [x] A) Sostuvieron la producción agrícola en los campos, proveyeron vestimenta y alimentos al ejército, y acompañaron los desplazamientos de las tropas
+- [x] C) Sostuvieron la producción agrícola en los campos, proveyeron vestimenta y alimentos al ejército, y acompañaron los desplazamientos de las tropas
   <!-- feedback: Correcto. Las Residentas fueron la columna vertebral de la supervivencia física del país, cultivando la tierra y donando joyas para la defensa. -->
-- [ ] B) Emigraron masivamente a los Estados Unidos abandonando a los soldados
+- [ ] A) Emigraron masivamente a los Estados Unidos abandonando a los soldados
   <!-- feedback: Incorrecto. Las mujeres paraguayas abnegadas permanecieron en el suelo patrio sufriendo los estragos de la guerra. -->
-- [ ] C) Comandaron la escuadra naval de acorazados en el Río Paraná
+- [ ] B) Comandaron la escuadra naval de acorazados en el Río Paraná
   <!-- feedback: Incorrecto. Aunque apoyaron logísticamente y algunas tomaron las armas, su rol masivo fue la producción agrícola y el sustento de la nación. -->
 - [ ] D) Fundaron los primeros bancos comerciales privados internacionales de la capital
   <!-- feedback: Incorrecto. Las condiciones bélicas destruyeron el sistema bancario y comercial ordinario. -->
@@ -240,13 +240,13 @@ La mujer paraguaya fue la heroína abnegada que sostuvo el esfuerzo defensivo y 
 ¿Cuál era el objetivo central de enviar a jóvenes paraguayos (como Cándido Bareiro o Gaspar Centurión) a capacitarse en universidades y talleres de Europa en la década de 1850?
 
 ### Opciones
-- [x] A) Adquirir conocimientos científicos, técnicos y jurídicos para liderar la modernización e industrialización autónoma del Paraguay
+- [x] D) Adquirir conocimientos científicos, técnicos y jurídicos para liderar la modernización e industrialización autónoma del Paraguay
   <!-- feedback: Correcto. López becó a brillantes jóvenes paraguayos para formarse en ingeniería, medicina, derecho y milicia en Gran Bretaña y Francia. -->
-- [ ] B) Fomentar la adopción de las monarquías absolutas europeas en el país
+- [ ] A) Fomentar la adopción de las monarquías absolutas europeas en el país
   <!-- feedback: Incorrecto. El objetivo era puramente técnico, civil y científico para el progreso de la República. -->
-- [ ] C) Vender las industrias estatales paraguayas al capital privado londinense
+- [ ] B) Vender las industrias estatales paraguayas al capital privado londinense
   <!-- feedback: Incorrecto. El Estado conservó la propiedad de las empresas estratégicas e infraestructura nacional. -->
-- [ ] D) Obligar a la población a abandonar el idioma guaraní por el francés
+- [ ] C) Obligar a la población a abandonar el idioma guaraní por el francés
   <!-- feedback: Incorrecto. El guaraní continuó siendo el idioma de cohesión de toda la sociedad paraguaya. -->
 
 ### Explicacion Pedagogica
@@ -263,11 +263,11 @@ La política de becas europeas constituyó una visión de vanguardia para dotar 
 Desde el punto de vista demográfico, ¿cuál fue el impacto más devastador de la Guerra contra la Triple Alianza sobre la población del Paraguay?
 
 ### Opciones
-- [x] A) La pérdida de más del 60% de la población total y la aniquilación de cerca del 90% de los hombres adultos
+- [x] C) La pérdida de más del 60% de la población total y la aniquilación de cerca del 90% de los hombres adultos
   <!-- feedback: Correcto. El conflicto provocó un verdadero genocidio demográfico por combates, cólera, fiebres y hambrunas, dejando al país habitado mayoritariamente por mujeres, niños y ancianos. -->
-- [ ] B) El aumento de la población masculina joven en un 300% respecto a 1860
+- [ ] A) El aumento de la población masculina joven en un 300% respecto a 1860
   <!-- feedback: Incorrecto. La población masculina fue diezmada de manera trágica durante los cinco años de contienda. -->
-- [ ] C) La inmigración masiva de millones de ciudadanos europeos que duplicó los habitantes en 1871
+- [ ] B) La inmigración masiva de millones de ciudadanos europeos que duplicó los habitantes en 1871
   <!-- feedback: Incorrecto. La inmigración posbélica fue modesta y no compensó de inmediato la pérdida demográfica. -->
 - [ ] D) La ausencia total de pérdidas humanas debido a la diplomacia pacífica
   <!-- feedback: Incorrecto. La guerra fue una de las más sangrientas y destructivas de la historia del continente americano. -->
@@ -286,9 +286,9 @@ La hecatombe demográfica de 1870 obligó a la mujer paraguaya a asumir la titá
 ¿Qué pérdidas territoriales concretas sufrió la República del Paraguay como consecuencia de los tratados de límites posteriores a 1870 firmados con Brasil y Argentina?
 
 ### Opciones
-- [x] A) La cesión del territorio entre los ríos Blanco y Apa al Brasil, y los territorios de Misiones al sur del Paraná y la mesopotamia de Formosa a la Argentina
+- [x] B) La cesión del territorio entre los ríos Blanco y Apa al Brasil, y los territorios de Misiones al sur del Paraná y la mesopotamia de Formosa a la Argentina
   <!-- feedback: Correcto. Los tratados despojaron al Paraguay de extensos territorios en el norte (Apa-Blanco) y en el sur/sudoeste (Misiones y Formosa). -->
-- [ ] B) La pérdida de la totalidad del Chaco Boreal en beneficio de Bolivia
+- [ ] A) La pérdida de la totalidad del Chaco Boreal en beneficio de Bolivia
   <!-- feedback: Incorrecto. El Chaco Boreal permaneció bajo soberanía paraguaya siendo defendido victoriosamente en la posterior Guerra del Chaco. -->
 - [ ] C) La anexión del departamento Central al territorio de la provincia de Corrientes
   <!-- feedback: Incorrecto. El núcleo central de la República mantuvo su soberanía territorial inalterada. -->
@@ -309,9 +309,9 @@ A pesar de mutilaciones territoriales en los márgenes de sus fronteras, la dipl
 ¿Qué trascendental fallo arbitral internacional emitió el presidente estadounidense Rutherford B. Hayes el 12 de noviembre de 1878 a favor de la República del Paraguay?
 
 ### Opciones
-- [x] A) Reconoció la legítima soberanía paraguaya sobre el territorio del Chaco comprendido entre los ríos Verde y Pilcomayo (Villa Hayes)
+- [x] B) Reconoció la legítima soberanía paraguaya sobre el territorio del Chaco comprendido entre los ríos Verde y Pilcomayo (Villa Hayes)
   <!-- feedback: Correcto. El Laudo Hayes otorgó de forma inapelable al Paraguay la propiedad del Chaco disputado por Argentina, nombrándose Villa Hayes a la capital de Presidente Hayes. -->
-- [ ] B) Decretó que Paraguay debía pagar reparaciones de guerra en oro a todos los países europeos
+- [ ] A) Decretó que Paraguay debía pagar reparaciones de guerra en oro a todos los países europeos
   <!-- feedback: Incorrecto. El Laudo Hayes atañía exclusivamente a los límites territoriales del Chaco disputados con Argentina. -->
 - [ ] C) Declaró nula la independencia del Paraguay obligándolo a unirse al Uruguay
   <!-- feedback: Incorrecto. El laudo ratificó la soberanía y los derechos territoriales paraguayos. -->
@@ -332,13 +332,13 @@ El Laudo Hayes de 1878 constituyó un formidable triunfo del derecho internacion
 A diferencia de los países vecinos de la región en la década de 1850, el Estado paraguayo bajo la presidencia de López se caracterizaba por:
 
 ### Opciones
-- [x] A) No poseer deuda externa, ser propietario de la tierra y los bosques, y financiar sus obras con recursos propios
+- [x] D) No poseer deuda externa, ser propietario de la tierra y los bosques, y financiar sus obras con recursos propios
   <!-- feedback: Correcto. Paraguay carecía de empréstitos de bancos extranjeros, manteniendo el monopolio estatal de la yerba mate y maderas nobles sin deuda externa. -->
-- [ ] B) Depender de millonarios créditos de bancos londinenses con altas tasas de interés
+- [ ] A) Depender de millonarios créditos de bancos londinenses con altas tasas de interés
   <!-- feedback: Incorrecto. Los préstamos ruinosos con la banca inglesa aparecieron en la etapa de posguerra (1871-1872). -->
-- [ ] C) Haber privatizado la totalidad de los puertos y ríos a favor de comerciantes porteños
+- [ ] B) Haber privatizado la totalidad de los puertos y ríos a favor de comerciantes porteños
   <!-- feedback: Incorrecto. El Estado regulaba celosamente la navegación y el comercio exterior sin concesiones extranjeras. -->
-- [ ] D) Utilizar exclusivamente la moneda metálica de oro importada de los Estados Unidos
+- [ ] C) Utilizar exclusivamente la moneda metálica de oro importada de los Estados Unidos
   <!-- feedback: Incorrecto. El país contaba con su propia moneda nacional impresas y respaldadas por el fisco. -->
 
 ### Explicacion Pedagogica
@@ -378,11 +378,11 @@ La resistencia de Humaitá demostró la capacidad de la ingeniería defensiva pa
 La Constitución Nacional de 1870, promulgada tras la finalización de la guerra, adoptó principios liberales clásicos inspirados en:
 
 ### Opciones
-- [x] A) El modelo republicano liberal representativo de la Constitución Argentina de 1853 y los derechos individuales ilustrados
+- [x] C) El modelo republicano liberal representativo de la Constitución Argentina de 1853 y los derechos individuales ilustrados
   <!-- feedback: Correcto. La Constitución de 1870 introdujo el ideario liberal, garantizando la propiedad privada, la libertad de prensa y la división trina de poderes. -->
-- [ ] B) El régimen absolutista de la monarquía del Imperio del Brasil
+- [ ] A) El régimen absolutista de la monarquía del Imperio del Brasil
   <!-- feedback: Incorrecto. Aunque Brasil ocupaba Asunción, la convención constituyente adoptó el modelo republicano liberal y no monárquico. -->
-- [ ] C) El sistema de autocracia estatal del Dr. José Gaspar Rodríguez de Francia
+- [ ] B) El sistema de autocracia estatal del Dr. José Gaspar Rodríguez de Francia
   <!-- feedback: Incorrecto. La carta de 1870 buscó abiertamente desmantelar el modelo estatal autoritario anterior en favor del liberalismo. -->
 - [ ] D) El sistema comunista soviético de granjas colectivas
   <!-- feedback: Incorrecto. La ideología soviética surgió décadas después en Rusia a principios del siglo XX. -->
@@ -401,11 +401,11 @@ La Constitución de 1870 inauguró el ordenamiento jurídico liberal que rigió 
 Al evaluar la figura del Mariscal Francisco Solano López en la historiografía paraguaya, la corriente "Revisionista" (liderada por pensadores como Juan E. O'Leary) lo considera fundamentalmente como:
 
 ### Opciones
-- [x] A) El máximo símbolo del heroísmo y la soberanía nacional, que prefirió la inmolación antes que la entrega del Paraguay a los agresores de la Triple Alianza
+- [x] C) El máximo símbolo del heroísmo y la soberanía nacional, que prefirió la inmolación antes que la entrega del Paraguay a los agresores de la Triple Alianza
   <!-- feedback: Correcto. El revisionismo histórico ensalza la figura del Mariscal López como encarnación del patriotismo y defensor abnegado de la causa nacional. -->
-- [ ] B) Un agente a sueldo de la corona británica encargado de destruir al propio país
+- [ ] A) Un agente a sueldo de la corona británica encargado de destruir al propio país
   <!-- feedback: Incorrecto. Afirmación absurda desmentida por todos los documentos históricos de la contienda. -->
-- [ ] C) Un diplomático pacífico que nunca participó en combates militares
+- [ ] B) Un diplomático pacífico que nunca participó en combates militares
   <!-- feedback: Incorrecto. Solano López comandó en persona las campañas bélicas hasta su muerte en Cerro Corá. -->
 - [ ] D) El fundador de los partidos políticos tradicionales colorado y liberal en 1887
   <!-- feedback: Incorrecto. Los partidos políticos tradicionales fueron fundados en 1887 por figuras de posguerra. -->
@@ -424,9 +424,9 @@ El debate historiográfico sobre Solano López refleja las corrientes de constru
 Al evaluar las causas estructurales del conflicto de 1864-1870, ¿cuál de los siguientes factores geopolíticos de la Cuenca del Plata tuvo un peso determinante?
 
 ### Opciones
-- [x] A) El choque entre el modelo autónomo proteccionista paraguayo y las pretensiones de libre navegación y hegemonía territorial de Brasil y los liberales de Buenos Aires
+- [x] B) El choque entre el modelo autónomo proteccionista paraguayo y las pretensiones de libre navegación y hegemonía territorial de Brasil y los liberales de Buenos Aires
   <!-- feedback: Correcto. Las disputas por límites no resueltos, el libre tránsito fluvial y la hegemonía regional hicieron colisionar los intereses de los estados del Plata. -->
-- [ ] B) El interés de Paraguay por apoderarse de las costas del Océano Pacífico en Chile
+- [ ] A) El interés de Paraguay por apoderarse de las costas del Océano Pacífico en Chile
   <!-- feedback: Incorrecto. Paraguay no tenía pretensiones ni fronteras con el Océano Pacífico. -->
 - [ ] C) La invasión del ejército de España para recuperar sus antiguas colonias indianas
   <!-- feedback: Incorrecto. España no intervino militarmente en la Guerra de la Triple Alianza. -->
@@ -447,13 +447,13 @@ La Guerra de la Triple Alianza fue el conflicto geopolítico más trascendental 
 Al juzgar el impacto de las Leyes de Venta de Tierras Públicas promulgadas en la posguerra (1883 y 1885), ¿cuál de las siguientes afirmaciones refleja su efecto estructural en el agro paraguayo?
 
 ### Opciones
-- [x] A) Desmantelaron la propiedad estatal de la tierra dando origen a extensos latifundios privados extranjeros (empresas yerbateras y tanineras) y despojando a miles de campesinos
+- [x] D) Desmantelaron la propiedad estatal de la tierra dando origen a extensos latifundios privados extranjeros (empresas yerbateras y tanineras) y despojando a miles de campesinos
   <!-- feedback: Correcto. La enajenación de tierras fiscales para pagar deudas creó gigantescos latifundios privados (ej. la Industrial Paraguaya, Carlos Casado) precarizando al campesinado. -->
-- [ ] B) Distribuyeron gratuitamente parcelas de 10 hectáreas a cada familia campesina sobreviviente
+- [ ] A) Distribuyeron gratuitamente parcelas de 10 hectáreas a cada familia campesina sobreviviente
   <!-- feedback: Incorrecto. Al contrario, la venta remató grandes extensiones a especuladores extranjeros excluyendo al pequeño agricultor. -->
-- [ ] C) Convirtieron al Estado paraguayo en el único propietario legal de los edificios de Buenos Aires
+- [ ] B) Convirtieron al Estado paraguayo en el único propietario legal de los edificios de Buenos Aires
   <!-- feedback: Incorrecto. Las leyes enajenaron el patrimonio público paraguayo en beneficio del capital privado. -->
-- [ ] D) Prohibieron la exportación de tanino y yerba mate hacia los mercados internacionales
+- [ ] C) Prohibieron la exportación de tanino y yerba mate hacia los mercados internacionales
   <!-- feedback: Incorrecto. Los nuevos latifundios se dedicaron a la explotación intensiva de exportación de yerba y tanino. -->
 
 ### Explicacion Pedagogica
@@ -470,11 +470,11 @@ Las leyes de venta de tierras públicas de posguerra concentraron la propiedad a
 Al evaluar la resiliencia del Paraguay tras el aniquilamiento de 1870, ¿qué factor socio-cultural permitió la supervivencia biológica y el renacimiento de la República?
 
 ### Opciones
-- [x] A) La abnegación inquebrantable de la mujer paraguaya, la vitalidad de la lengua guaraní como elemento de cohesión y el patriotismo del pueblo sobreviviente
+- [x] C) La abnegación inquebrantable de la mujer paraguaya, la vitalidad de la lengua guaraní como elemento de cohesión y el patriotismo del pueblo sobreviviente
   <!-- feedback: Correcto. Las mujeres reconstruyeron la familia, la agricultura y la patria, manteniendo encendida la llama de la identidad nacional en medio de las ruinas. -->
-- [ ] B) La entrega voluntaria de la soberanía nacional al Imperio Austro-Húngaro
+- [ ] A) La entrega voluntaria de la soberanía nacional al Imperio Austro-Húngaro
   <!-- feedback: Incorrecto. Paraguay mantuvo su estatus de República soberana sin someterse a imperios europeos. -->
-- [ ] C) El descubrimiento de inmensos yacimientos de petróleo ligero en el departamento Central
+- [ ] B) El descubrimiento de inmensos yacimientos de petróleo ligero en el departamento Central
   <!-- feedback: Incorrecto. La reconstrucción se realizó con el esfuerzo agrícola y productivo sin ingresos petroleros. -->
 - [ ] D) La ayuda financiera a fondo perdido otorgada por los países vencedores de la alianza
   <!-- feedback: Incorrecto. Los países vencedores impusieron duras condiciones de reparación de guerra e indemnisaciones. -->

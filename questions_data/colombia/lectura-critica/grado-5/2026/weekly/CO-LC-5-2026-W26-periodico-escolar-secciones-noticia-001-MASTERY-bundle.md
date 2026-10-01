@@ -57,13 +57,13 @@ Recordar que el periódico escolar es un medio informativo producido por la comu
 ¿Qué tipo de información suele publicarse en la sección "Actualidad"?
 
 ### Opciones
-- [x] A) Noticias recientes sobre hechos sucedidos en el colegio o en el municipio.
+- [x] D) Noticias recientes sobre hechos sucedidos en el colegio o en el municipio.
   <!-- feedback: La sección de actualidad recoge hechos recientes y de interés para la comunidad. -->
-- [ ] B) Recetas de cocina típicas de la región.
+- [ ] A) Recetas de cocina típicas de la región.
   <!-- feedback: Las recetas suelen aparecer en secciones de cultura o vida práctica. -->
-- [ ] C) Resultados de videojuegos populares entre los estudiantes.
+- [ ] B) Resultados de videojuegos populares entre los estudiantes.
   <!-- feedback: Los resultados de videojuegos no son contenido periodístico escolar habitual. -->
-- [ ] D) Canciones de moda escuchadas por los jóvenes del colegio.
+- [ ] C) Canciones de moda escuchadas por los jóvenes del colegio.
   <!-- feedback: La música se aborda en secciones de cultura, no en la de actualidad. -->
 
 ### Explicacion Pedagogica
@@ -103,9 +103,9 @@ Aplicar la estructura básica de la noticia al escribir un texto informativo sob
 ¿Cuál es el lead más adecuado para esta noticia?
 
 ### Opciones
-- [x] A) "Estudiantes de quinto grado del colegio X ganaron el concurso departamental de robótica con un prototipo que reutiliza botellas de plástico."
+- [x] B) "Estudiantes de quinto grado del colegio X ganaron el concurso departamental de robótica con un prototipo que reutiliza botellas de plástico."
   <!-- feedback: El lead resume los datos clave: quiénes, qué y cómo. -->
-- [ ] B) "Algunas personas creen que los concursos de robótica son entretenidos."
+- [ ] A) "Algunas personas creen que los concursos de robótica son entretenidos."
   <!-- feedback: El lead debe informar, no solo expresar una opinión vaga. -->
 - [ ] C) "El concurso se realizará el próximo año en otra ciudad."
   <!-- feedback: El texto original indica que el concurso ya se ganó, no que se realizará. -->
@@ -149,13 +149,13 @@ Aplicar la función de cada sección del periódico para clasificar correctament
 ¿Qué diferencia esencial existe entre los dos fragmentos?
 
 ### Opciones
-- [x] A) La noticia informa un hecho verificable, mientras que la opinión expresa un juicio personal del autor.
+- [x] D) La noticia informa un hecho verificable, mientras que la opinión expresa un juicio personal del autor.
   <!-- feedback: La noticia se basa en hechos; la opinión refleja la valoración del autor. -->
-- [ ] B) Los dos fragmentos son idénticos en su intención, porque ambos hablan del premio.
+- [ ] A) Los dos fragmentos son idénticos en su intención, porque ambos hablan del premio.
   <!-- feedback: Aunque comparten tema, su intención comunicativa es diferente. -->
-- [ ] C) La opinión es más objetiva que la noticia.
+- [ ] B) La opinión es más objetiva que la noticia.
   <!-- feedback: La noticia suele ser más objetiva; la opinión es subjetiva por naturaleza. -->
-- [ ] D) La noticia no se publica en periódicos escolares, solo la opinión.
+- [ ] C) La noticia no se publica en periódicos escolares, solo la opinión.
   <!-- feedback: Tanto las noticias como las opiniones se publican en periódicos escolares. -->
 
 ### Explicacion Pedagogica
@@ -172,11 +172,11 @@ Analizar la diferencia entre informar un hecho y expresar una opinión personal 
 ¿Qué función cumple principalmente el titular en la noticia?
 
 ### Opciones
-- [x] A) Llamar la atención del lector y anticipar de forma breve el contenido principal de la noticia.
+- [x] C) Llamar la atención del lector y anticipar de forma breve el contenido principal de la noticia.
   <!-- feedback: El titular destaca el hecho clave y motiva la lectura del cuerpo. -->
-- [ ] B) Sustituir por completo al cuerpo de la noticia.
+- [ ] A) Sustituir por completo al cuerpo de la noticia.
   <!-- feedback: El titular resume, pero no reemplaza la información detallada. -->
-- [ ] C) Incluir toda la información complementaria y los testimonios.
+- [ ] B) Incluir toda la información complementaria y los testimonios.
   <!-- feedback: Los testimonios y los detalles van en el cuerpo, no en el titular. -->
 - [ ] D) Explicar únicamente la biografía del director del colegio.
   <!-- feedback: El titular se enfoca en el hecho noticioso, no en biografías. -->
@@ -195,11 +195,11 @@ Analizar la función del titular como elemento clave para atraer lectores y sint
 ¿Qué criterios periodísticos no se están cumpliendo en esa nota y por qué es importante respetarlos?
 
 ### Opciones
-- [x] A) Faltan fuentes verificables, datos precisos y contexto, lo que hace que la noticia sea poco confiable para los lectores.
+- [x] C) Faltan fuentes verificables, datos precisos y contexto, lo que hace que la noticia sea poco confiable para los lectores.
   <!-- feedback: Una noticia escolar debe ser veraz, clara y sustentada para informar correctamente. -->
-- [ ] B) No se cumplen criterios, pero no importa, porque es solo un periódico escolar.
+- [ ] A) No se cumplen criterios, pero no importa, porque es solo un periódico escolar.
   <!-- feedback: Aunque sea escolar, el periódico debe mantener criterios básicos de calidad periodística. -->
-- [ ] C) El titular es demasiado largo y eso hace que el periódico sea aburrido.
+- [ ] B) El titular es demasiado largo y eso hace que el periódico sea aburrido.
   <!-- feedback: El problema central no es la extensión del titular, sino la falta de fuentes y datos. -->
 - [ ] D) Las notas escolares nunca deben llevar datos concretos, solo opiniones.
   <!-- feedback: Las notas informativas sí deben incluir datos concretos y verificables. -->

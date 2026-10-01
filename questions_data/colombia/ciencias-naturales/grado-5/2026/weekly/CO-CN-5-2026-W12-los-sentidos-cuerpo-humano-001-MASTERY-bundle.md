@@ -34,11 +34,11 @@ Los cinco sentidos, los órganos de los sentidos, el cuidado de la vista y el o�
 ¿Cuál es la relación correcta entre cada sentido y su órgano principal?
 
 ### Opciones
-- [x] A) Vista-ojos, oído-oídos, olfato-nariz, gusto-lengua y tacto-piel.
+- [x] C) Vista-ojos, oído-oídos, olfato-nariz, gusto-lengua y tacto-piel.
   <!-- feedback: Cada sentido se capta con un órgano especializado: los ojos ven, los oídos escuchan, la nariz huele, la lengua saborea y la piel siente. -->
-- [ ] B) Vista-nariz, oído-lengua, olfato-ojos, gusto-piel y tacto-oídos.
+- [ ] A) Vista-nariz, oído-lengua, olfato-ojos, gusto-piel y tacto-oídos.
   <!-- feedback: Esa correspondencia está cambiada; la nariz se relaciona con el olfato, no con la vista. -->
-- [ ] C) Todos los sentidos se captan únicamente con el cerebro, sin órganos específicos.
+- [ ] B) Todos los sentidos se captan únicamente con el cerebro, sin órganos específicos.
   <!-- feedback: El cerebro interpreta la información, pero cada sentido necesita su órgano para captarla. -->
 - [ ] D) Vista-lengua, oído-piel, olfato-oídos, gusto-nariz y tacto-ojos.
   <!-- feedback: Esa combinación no corresponde: la lengua se relaciona con el gusto, no con la vista. -->
@@ -57,13 +57,13 @@ Recordar la correspondencia entre los cinco sentidos y sus órganos principales.
 ¿Por qué Valentina puede identificar esos olores?
 
 ### Opciones
-- [x] A) Porque la nariz capta las partículas olorosas del aire y envía la información al cerebro.
+- [x] D) Porque la nariz capta las partículas olorosas del aire y envía la información al cerebro.
   <!-- feedback: La nariz recibe los olores y el cerebro los interpreta para reconocer de qué se trata. -->
-- [ ] B) Porque los ojos observan los alimentos y producen los olores.
+- [ ] A) Porque los ojos observan los alimentos y producen los olores.
   <!-- feedback: Los ojos sirven para ver, no para producir ni captar olores. -->
-- [ ] C) Porque la lengua toca los alimentos a distancia.
+- [ ] B) Porque la lengua toca los alimentos a distancia.
   <!-- feedback: La lengua solo percibe sabores al contacto directo, no olores a distancia. -->
-- [ ] D) Porque la piel escucha los sonidos del mercado.
+- [ ] C) Porque la piel escucha los sonidos del mercado.
   <!-- feedback: La piel percibe el tacto y la temperatura, no los sonidos ni los olores. -->
 
 ### Explicacion Pedagogica
@@ -80,11 +80,11 @@ Comprender que el olfato capta olores a través de la nariz y el cerebro los int
 ¿Qué recomendación debe aplicar Santiago para cuidar su visión?
 
 ### Opciones
-- [x] A) Leer con buena iluminación y mantener una distancia adecuada entre los ojos y el libro.
+- [x] C) Leer con buena iluminación y mantener una distancia adecuada entre los ojos y el libro.
   <!-- feedback: La luz suficiente y la distancia correcta evitan el cansancio y el daño en la visión. -->
-- [ ] B) Leer siempre a oscuras para que los ojos se acostumbren a la falta de luz.
+- [ ] A) Leer siempre a oscuras para que los ojos se acostumbren a la falta de luz.
   <!-- feedback: Leer sin luz suficiente fuerza la vista y puede dañarla con el tiempo. -->
-- [ ] C) Frotarse los ojos con las manos sucias cuando siente cansancio.
+- [ ] B) Frotarse los ojos con las manos sucias cuando siente cansancio.
   <!-- feedback: Frotarse con manos sucias puede causar infecciones en los ojos. -->
 - [ ] D) Mirar directamente al sol para fortalecer la vista.
   <!-- feedback: Mirar el sol directamente daña gravemente los ojos y se debe evitar. -->
@@ -103,9 +103,9 @@ Aplicar hábitos de cuidado de la vista como la buena iluminación y la distanci
 ¿Qué acción protege mejor el oído de Santiago en esa situación?
 
 ### Opciones
-- [x] A) Alejarse de los parlantes y bajar el volumen para no lastimar sus oídos.
+- [x] B) Alejarse de los parlantes y bajar el volumen para no lastimar sus oídos.
   <!-- feedback: Alejarse del sonido fuerte y moderar el volumen protege el oído interno. -->
-- [ ] B) Introducir un lápiz en el oído para limpiarlo durante la fiesta.
+- [ ] A) Introducir un lápiz en el oído para limpiarlo durante la fiesta.
   <!-- feedback: Introducir objetos en el oído puede herirlo y causar sordera. -->
 - [ ] C) Subir aún más el volumen para acostumbrar el oído al ruido.
   <!-- feedback: El ruido muy fuerte no acostumbra al oído, sino que lo daña poco a poco. -->
@@ -126,9 +126,9 @@ Aplicar medidas de cuidado del oído frente a sonidos fuertes y objetos extraño
 ¿Qué sentidos está usando Valentina para examinar la panela?
 
 ### Opciones
-- [x] A) Tacto, olfato y gusto, porque toca, huele y saborea la panela.
+- [x] B) Tacto, olfato y gusto, porque toca, huele y saborea la panela.
   <!-- feedback: La textura se percibe con la piel, el aroma con la nariz y el sabor con la lengua. -->
-- [ ] B) Vista, oído y olfato, porque mira, escucha y huele sin tocar ni probar.
+- [ ] A) Vista, oído y olfato, porque mira, escucha y huele sin tocar ni probar.
   <!-- feedback: En este caso Valentina también toca y prueba, no solo mira y escucha. -->
 - [ ] C) Solo la vista, porque los alimentos únicamente se examinan con los ojos.
   <!-- feedback: Los alimentos también se examinan con el tacto, el olfato y el gusto. -->
@@ -149,11 +149,11 @@ Aplicar el uso combinado de varios sentidos para examinar un alimento cotidiano.
 ¿Qué papel cumple el cerebro en estas dos experiencias?
 
 ### Opciones
-- [x] A) Recibe la información de los sentidos a través de los nervios y la interpreta para reconocer la suavidad y la acidez.
+- [x] C) Recibe la información de los sentidos a través de los nervios y la interpreta para reconocer la suavidad y la acidez.
   <!-- feedback: Los órganos captan el estímulo, pero es el cerebro el que lo interpreta y le da significado. -->
-- [ ] B) Reemplaza a los órganos de los sentidos y capta directamente la suavidad y el sabor.
+- [ ] A) Reemplaza a los órganos de los sentidos y capta directamente la suavidad y el sabor.
   <!-- feedback: El cerebro no capta estímulos directamente; necesita la información que envían los órganos. -->
-- [ ] C) Solo guarda la información sin interpretarla, por eso no se reconoce lo sentido.
+- [ ] B) Solo guarda la información sin interpretarla, por eso no se reconoce lo sentido.
   <!-- feedback: El cerebro sí interpreta la información, por eso se reconoce la textura y el sabor. -->
 - [ ] D) Bloquea la información de la piel y la lengua para proteger el cuerpo.
   <!-- feedback: El cerebro no bloquea esa información; la procesa para responder de forma adecuada. -->
@@ -172,13 +172,13 @@ Analizar la relación entre los órganos de los sentidos, los nervios y el cereb
 ¿Qué conclusión se puede sacar de estas dos situaciones?
 
 ### Opciones
-- [x] A) Los sentidos trabajan juntos y cuando uno falla, la interpretación del cerebro es menos precisa.
+- [x] D) Los sentidos trabajan juntos y cuando uno falla, la interpretación del cerebro es menos precisa.
   <!-- feedback: El gusto se apoya en el olfato y el tacto necesita de la vista; si falta un sentido, el cerebro recibe menos información. -->
-- [ ] B) Cada sentido funciona totalmente aislado y nunca necesita de los otros.
+- [ ] A) Cada sentido funciona totalmente aislado y nunca necesita de los otros.
   <!-- feedback: Los ejemplos muestran que el gusto necesita del olfato y el tacto de la vista. -->
-- [ ] C) La gripa mejora el olfato y vendar los ojos mejora el tacto de forma permanente.
+- [ ] B) La gripa mejora el olfato y vendar los ojos mejora el tacto de forma permanente.
   <!-- feedback: La gripa reduce el olfato y vendar los ojos dificulta reconocer objetos solo con el tacto. -->
-- [ ] D) El cerebro no participa en el olfato, el gusto ni el tacto.
+- [ ] C) El cerebro no participa en el olfato, el gusto ni el tacto.
   <!-- feedback: El cerebro participa en todos los sentidos al interpretar la información recibida. -->
 
 ### Explicacion Pedagogica

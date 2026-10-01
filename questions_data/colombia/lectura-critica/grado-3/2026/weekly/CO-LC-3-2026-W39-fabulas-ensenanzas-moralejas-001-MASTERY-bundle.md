@@ -34,13 +34,13 @@ creador: "Jules-Agent"
 ¿Quién ganó la carrera según la narración?
 
 ### Opciones
-- [x] A) La tortuga.
+- [x] D) La tortuga.
   <!-- feedback: ¡Correcto! El texto afirma explícitamente que la tortuga ganó la carrera con su paso constante. -->
-- [ ] B) El conejo.
+- [ ] A) El conejo.
   <!-- feedback: Incorrecto. El conejo se quedó dormido y perdió la competencia. -->
-- [ ] C) El zorro.
+- [ ] B) El zorro.
   <!-- feedback: Incorrecto. El zorro no se menciona en la historia. -->
-- [ ] D) Ninguno de los dos.
+- [ ] C) Ninguno de los dos.
   <!-- feedback: Incorrecto. La historia aclara que hubo un ganador. -->
 
 ### Explicacion Pedagogica
@@ -80,13 +80,13 @@ Las inferencias explicativas identifican las relaciones de causa y efecto implí
 ¿Cuál es la enseñanza principal (moraleja) que transmite la fábula de la hormiga y la cigarra?
 
 ### Opciones
-- [x] A) Es importante trabajar con previsión y esfuerzo para estar preparados en momentos difíciles.
+- [x] D) Es importante trabajar con previsión y esfuerzo para estar preparados en momentos difíciles.
   <!-- feedback: ¡Correcto! El trabajo constante de la hormiga demuestra el valor de la prevención. -->
-- [ ] B) Es mejor cantar todo el día que perder tiempo juntando alimentos.
+- [ ] A) Es mejor cantar todo el día que perder tiempo juntando alimentos.
   <!-- feedback: Incorrecto. La cigarra sufrió las consecuencias de no trabajar. -->
-- [ ] C) El invierno es la mejor época para cantar y hacer amigos.
+- [ ] B) El invierno es la mejor época para cantar y hacer amigos.
   <!-- feedback: Incorrecto. El invierno trajo hambre a quien no se preparó. -->
-- [ ] D) Los animales pequeños no deben salir en verano.
+- [ ] C) Los animales pequeños no deben salir en verano.
   <!-- feedback: Incorrecto. Esta opción no refleja la lección moral del cuento. -->
 
 ### Explicacion Pedagogica
@@ -126,13 +126,13 @@ Reconocer el propósito del recurso estilístico de la personificación ayuda a 
 ¿Qué defecto del cuervo aprovechó el zorro para quitarle el queso?
 
 ### Opciones
-- [x] A) Su vanidad y deseo de recibir halagos.
+- [x] D) Su vanidad y deseo de recibir halagos.
   <!-- feedback: ¡Correcto! La vanidad hizo que el cuervo buscara demostrar su voz, perdiendo su comida. -->
-- [ ] B) Su generosidad con los demás animales.
+- [ ] A) Su generosidad con los demás animales.
   <!-- feedback: Incorrecto. El cuervo no tenía intención de regalar el queso. -->
-- [ ] C) Su fuerza física.
+- [ ] B) Su fuerza física.
   <!-- feedback: Incorrecto. El zorro usó la astucia, no la fuerza del cuervo. -->
-- [ ] D) Su velocidad para volar.
+- [ ] C) Su velocidad para volar.
   <!-- feedback: Incorrecto. El cuervo estaba posado en la rama sin volar. -->
 
 ### Explicacion Pedagogica
@@ -149,11 +149,11 @@ El análisis de motivaciones psicológicas de los personajes revela los rasgos h
 ¿Cuál de los siguientes refranes populares resume mejor la moraleja de esta fábrica?
 
 ### Opciones
-- [x] A) "No confíes en quien te alaba sin conocerte".
+- [x] C) "No confíes en quien te alaba sin conocerte".
   <!-- feedback: ¡Correcto! El halago interesado del zorro engañó al vanidoso cuervo. -->
-- [ ] B) "A quien madruga, Dios le ayuda".
+- [ ] A) "A quien madruga, Dios le ayuda".
   <!-- feedback: Incorrecto. La historia no trata sobre levantarse temprano. -->
-- [ ] C) "En boca cerrada no entran moscas".
+- [ ] B) "En boca cerrada no entran moscas".
   <!-- feedback: Incorrecto. Aunque abrió la boca, el centro de la moraleja es la desconfianza ante adulaciones falsas. -->
 - [ ] D) "Más vale pájaro en mano que ciento volando".
   <!-- feedback: Incorrecto. Esta opción se refiere a asegurar lo que se tiene frente a promesas dudosas. -->
@@ -174,9 +174,9 @@ Conectar moralejas de fábulas con refranes populares evidencia la capacidad de 
 ¿Cuál de las dos frases juzga adecuadamente la consecuencia moral del pastorcito mentiroso?
 
 ### Opciones
-- [x] A) La frase 2, porque demuestra que mentir destruye la confianza de los demás cuando se dice la verdad.
+- [x] B) La frase 2, porque demuestra que mentir destruye la confianza de los demás cuando se dice la verdad.
   <!-- feedback: ¡Excelente! La mentira recurrente invalida la credibilidad futura de una persona. -->
-- [ ] B) La frase 1, porque el pastorcito solo quería jugar.
+- [ ] A) La frase 1, porque el pastorcito solo quería jugar.
   <!-- feedback: Incorrecto. La mentira tuvo consecuencias graves para sus ovejas. -->
 - [ ] C) Ambas frases son falsas porque los lobos no comen ovejas.
   <!-- feedback: Incorrecto. Las fábulas representan lecciones morales a través de la ficción. -->
@@ -197,13 +197,13 @@ Evaluar críticamente distintas posturas morales ante un relato capacita al lect
 ¿Qué valor ético defiende el ratón de campo con su decisión final?
 
 ### Opciones
-- [x] A) La tranquilidad y la paz mental por encima del lujo y la riqueza insegura.
+- [x] D) La tranquilidad y la paz mental por encima del lujo y la riqueza insegura.
   <!-- feedback: ¡Excelente! La vida sencilla y tranquila se valora más que la abundancia rodeada de peligro. -->
-- [ ] B) El deseo de vivir con lujos sin importar los riesgos.
+- [ ] A) El deseo de vivir con lujos sin importar los riesgos.
   <!-- feedback: Incorrecto. Ese era el pensamiento del ratón de ciudad. -->
-- [ ] C) La cobardía por no querer pelear contra el gato.
+- [ ] B) La cobardía por no querer pelear contra el gato.
   <!-- feedback: Incorrecto. No es cobardía, es sabiduría para buscar una vida pacífica. -->
-- [ ] D) El gusto por pasar hambre en la soledad.
+- [ ] C) El gusto por pasar hambre en la soledad.
   <!-- feedback: Incorrecto. El ratón de campo tiene alimentos sencillos, no pasa hambre. -->
 
 ### Explicacion Pedagogica

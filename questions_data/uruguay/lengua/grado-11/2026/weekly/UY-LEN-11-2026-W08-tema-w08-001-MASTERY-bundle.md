@@ -34,9 +34,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 Según el texto anterior, ¿en qué año se registró el primer antecedente documentado de festejos carnavalescos en la ciudad de Montevideo?
 
 ### Opciones
-- [ ] A) En el año 1874.
+- [ ] B) En el año 1874.
   <!-- feedback: Incorrecto. En 1874 se organizó el primer desfile oficial por la Avenida 18 de Julio, no el primer antecedente colonial. -->
-- [x] B) En el año 1761.
+- [x] A) En el año 1761.
   <!-- feedback: ¡Correcto! El texto afirma de manera literal e inequívoca: 'El primer antecedente documentado de festejos carnavalescos en Montevideo data del año 1761'. -->
 - [ ] C) En el año 1908.
   <!-- feedback: Incorrecto. En 1908 nació formalmente el concurso oficial de agrupaciones carnavalescas, no el antecedente original. -->
@@ -58,9 +58,9 @@ La respuesta se localiza de manera directa y explícita en la tercera oración d
 ¿Qué actividad recreativa autorizó tímidamente el cabildo de Montevideo en sus primeros registros del Carnaval colonial?
 
 ### Opciones
-- [x] A) Bailes de máscaras y juegos de agua.
+- [x] B) Bailes de máscaras y juegos de agua.
   <!-- feedback: ¡Correcto! El texto menciona literalmente que el cabildo 'autorizó tímidamente bailes de máscaras y juegos de agua' en 1761. -->
-- [ ] B) Desfiles oficiales de carros alegóricos gigantes.
+- [ ] A) Desfiles oficiales de carros alegóricos gigantes.
   <!-- feedback: Incorrecto. Los desfiles oficiales comenzaron mucho más tarde, en el año 1874, según el texto. -->
 - [ ] C) El concurso oficial de murgas rioplatenses del puerto.
   <!-- feedback: Incorrecto. El concurso oficial de agrupaciones se organizó de forma formal a partir de 1908. -->
@@ -108,9 +108,9 @@ El lector halla el sitio exacto del concurso identificando los nombres propios g
 ### Opciones
 - [ ] A) La prohibición de los juegos de agua por parte de la Intendencia de Montevideo.
   <!-- feedback: Incorrecto. El texto no menciona que una prohibición de agua haya dado la fisonomía actual del festejo. -->
-- [x] B) La llegada masiva de inmigrantes españoles e italianos a finales del siglo XIX.
+- [x] C) La llegada masiva de inmigrantes españoles e italianos a finales del siglo XIX.
   <!-- feedback: ¡Correcto! El texto afirma literalmente: 'fue con la llegada masiva de inmigrantes españoles e italianos a finales del siglo XIX que el festejo adquirió su fisonomía actual'. -->
-- [ ] C) El nacimiento formal de la primera murga de la frontera de Rivera.
+- [ ] B) El nacimiento formal de la primera murga de la frontera de Rivera.
   <!-- feedback: Incorrecto. La primera murga que menciona el texto se asocia a una compañía de Cádiz desembarcada en el puerto, no en Rivera. -->
 - [ ] D) La disolución de los desfiles de carros del cabildo municipal.
   <!-- feedback: Incorrecto. Los desfiles oficiales comenzaron en 1874, impulsados precisamente por la inmigración y desarrollo social descrito. -->
@@ -156,11 +156,11 @@ De acuerdo con el fragmento descriptivo, ¿de qué zona geográfica proviene may
 ### Opciones
 - [ ] A) De plantaciones locales de los campos de Tacuarembó.
   <!-- feedback: Incorrecto. El texto señala explícitamente que el territorio uruguayo carece de cultivos comerciales activos de yerba mate. -->
-- [x] B) Del sur de Brasil (estados de Paraná y Río Grande del Sur).
+- [x] D) Del sur de Brasil (estados de Paraná y Río Grande del Sur).
   <!-- feedback: ¡Correcto! El texto afirma literalmente: 'La yerba mate que se consume en el país es mayormente importada del sur de Brasil (estados de Paraná y Río Grande del Sur)'. -->
-- [ ] C) De las selvas tropicales de la Mesopotamia de Misiones.
+- [ ] B) De las selvas tropicales de la Mesopotamia de Misiones.
   <!-- feedback: Incorrecto. Aunque Misiones produce yerba, el fragmento de mate especifica que la importación uruguaya proviene del sur de Brasil. -->
-- [ ] D) De las dunas costeras del departamento de Rocha.
+- [ ] C) De las dunas costeras del departamento de Rocha.
   <!-- feedback: Incorrecto. El clima costero e invernal de dunas de Rocha veta los cultivos comerciales de yerba según el fragmento. -->
 
 ### Explicacion Pedagogica
@@ -178,9 +178,9 @@ El origen de importación de la yerba se enuncia textualmente con nombres de reg
 ¿Qué causa climática se expresa textualmente en el fragmento para explicar la ausencia de cultivos comerciales de yerba mate en el territorio de Uruguay?
 
 ### Opciones
-- [ ] A) La escasez crónica de lluvias en las praderas de Tacuarembó.
+- [ ] B) La escasez crónica de lluvias en las praderas de Tacuarembó.
   <!-- feedback: Incorrecto. No se hace mención de sequías o escasez de agua para los cultivos de yerba mate en el pasaje. -->
-- [x] B) Las heladas invernales del clima templado pampeano.
+- [x] A) Las heladas invernales del clima templado pampeano.
   <!-- feedback: ¡Correcto! El texto lo declara de forma directa en su cierre: 'debido a las heladas invernales del clima templado pampeano' que afectan al territorio uruguayo de forma comercial. -->
 - [ ] C) La salinidad de la costa atlántica de Punta del Este.
   <!-- feedback: Incorrecto. El sodio costero no figura como la causa botánica limitante expresada en el texto descriptivo de yerba mate. -->
@@ -250,9 +250,9 @@ La fecha de declaración ecológica de la Unesco de Bañados del Este figura de 
 Según el fragmento, ¿cuántas especies de aves migratorias se registran llegando desde el hemisferio norte cada primavera a los Bañados del Este?
 
 ### Opciones
-- [ ] A) Aproximadamente 50 especies de aves.
+- [ ] B) Aproximadamente 50 especies de aves.
   <!-- feedback: Incorrecto. El texto detalla una variedad de avifauna migratoria norteña muy superior en el humedal de Bañados del Este. -->
-- [x] B) Más de 120 especies de aves.
+- [x] A) Más de 120 especies de aves.
   <!-- feedback: ¡Correcto! El texto afirma de forma literal: 'registrando más de 120 especies de aves que llegan desde el hemisferio norte cada primavera' al humedal de Bañados del Este. -->
 - [ ] C) Exactamente 200 especies de aves rapaces.
   <!-- feedback: Incorrecto. 200.000 es la cifra de hectáreas de extensión del humedal de Bañados del Este, no la cantidad de especies de aves. -->
@@ -300,11 +300,11 @@ La medida del tronco de los ombúes centenarios de Castillos figura explícita y
 ### Opciones
 - [ ] A) En los departamentos de Maldonado y Canelones de la costa sur.
   <!-- feedback: Incorrecto. Maldonado posee dunas costeras de Cabo Polonio y sierras, pero el humedal de Bañados del Este no se ubica en Canelones según el texto. -->
-- [x] B) En los departamentos de Rocha y Treinta y Tres.
+- [x] D) En los departamentos de Rocha y Treinta y Tres.
   <!-- feedback: ¡Correcto! El fragmento indica de manera textual explícita: 'abarcan una extensión aproximada de 200.000 hectáreas en los departamentos de Rocha y Treinta y Tres'. -->
-- [ ] C) En los departamentos de Salto y Artigas de la frontera norte.
+- [ ] B) En los departamentos de Salto y Artigas de la frontera norte.
   <!-- feedback: Incorrecto. Salto y Artigas se asocian a termas, basalto y portuñol, ajenos a la extensión de Bañados del Este descrita. -->
-- [ ] D) Exclusivamente en los humedales del departamento de Montevideo.
+- [ ] C) Exclusivamente en los humedales del departamento de Montevideo.
   <!-- feedback: Incorrecto. El humedal se asocia a Rocha y Treinta y Tres en el interior este de Uruguay, no a la capital del país. -->
 
 ### Explicacion Pedagogica
@@ -348,9 +348,9 @@ La fecha exacta de rediseño de piedra de Santa Teresa de la corona española fi
 ### Opciones
 - [ ] A) La firma de la primera Constitución de la República de Montevideo.
   <!-- feedback: Incorrecto. La primera Constitución de Uruguay se juró mucho más tarde, en el año 1830, ajena al tratado colonial de 1750. -->
-- [x] B) Resguardar la frontera del Tratado de Madrid del año 1750.
+- [x] C) Resguardar la frontera del Tratado de Madrid del año 1750.
   <!-- feedback: ¡Correcto! El fragmento indica de manera textual explícita: 'como avanzada militar fortificada para resguardar la frontera del Tratado de Madrid de 1750'. -->
-- [ ] C) La llegada de los inmigrantes italianos del puerto de Rocha.
+- [ ] B) La llegada de los inmigrantes italianos del puerto de Rocha.
   <!-- feedback: Incorrecto. La inmigración masiva italiana y española ocurrió a fines del siglo XIX según el texto anterior de Carnaval, no en el año 1762 colonial de Santa Teresa. -->
 - [ ] D) La disolución de los desfiles de carros de la frontera norte de Rivera.
   <!-- feedback: Incorrecto. Es un suceso ajeno a los tratados diplomáticos coloniales hispano-lusos de Santa Teresa del siglo XVIII. -->
@@ -396,9 +396,9 @@ La fecha exacta de abandono militar del fuerte de Santa Teresa figura de manera 
 ### Opciones
 - [ ] A) Del general Pedro de Cevallos en el año 1762.
   <!-- feedback: Incorrecto. Cevallos conquistó de forma armada las obras militares coloniales inconclusas en 1762; no era arqueólogo ni restaurador civil de parque nacional en 1928. -->
-- [x] B) Del arqueólogo Horacio Arredondo en el año 1928.
+- [x] C) Del arqueólogo Horacio Arredondo en el año 1928.
   <!-- feedback: ¡Correcto! El texto indica de manera textual explícita en su cierre: 'siendo restaurado como parque histórico nacional en el año 1928 por iniciativa del arqueólogo uruguayo Horacio Arredondo'. -->
-- [ ] C) Del botánico Ramón Collazo en el año 1908.
+- [ ] B) Del botánico Ramón Collazo en el año 1908.
   <!-- feedback: Incorrecto. Ramón Collazo da nombre al Teatro de Verano del Parque Rodó de Montevideo en el año 1908 colonial de Carnaval, ajeno a los monumentos de Rocha. -->
 - [ ] D) Del historiador de dunas de Cabo Polonio de Maldonado.
   <!-- feedback: Incorrecto. El fuerte y parque nacional de Santa Teresa de Rocha se restauró por iniciativa de Arredondo de forma arqueológica civil, ajena a Cabo Polonio de Maldonado. -->
@@ -418,9 +418,9 @@ El nombre del arqueólogo restaurador de Santa Teresa y el año civil figuran de
 Evaluá críticamente la siguiente afirmación formulada por un alumno del liceo: 'El Carnaval uruguayo actual es un producto exclusivamente colonial español, ya que las murgas y el concurso oficial nacieron de forma íntegra bajo la administración del cabildo de Montevideo en el siglo XVIII'. ¿Cuál es la invalidez fáctica de la afirmación del alumno basándote únicamente en la información del texto de Carnaval?
 
 ### Opciones
-- [x] A) La afirmación contradice el texto de forma literal: el cabildo colonial de Montevideo solo autorizó de manera tímida bailes de máscaras y juegos de agua en 1761, mientras que la fisonomía actual del Carnaval se debe a la llegada masiva de inmigrantes italianos y españoles a fines del siglo XIX, naciendo el concurso oficial de murgas en el siglo XX (años 1908 y 1909 respectivamente).
+- [x] B) La afirmación contradice el texto de forma literal: el cabildo colonial de Montevideo solo autorizó de manera tímida bailes de máscaras y juegos de agua en 1761, mientras que la fisonomía actual del Carnaval se debe a la llegada masiva de inmigrantes italianos y españoles a fines del siglo XIX, naciendo el concurso oficial de murgas en el siglo XX (años 1908 y 1909 respectivamente).
   <!-- feedback: ¡Correcto! La afirmación del alumno es fácticamente inválida frente a los datos textuales de Carnaval. Las murgas y concurso oficial son hitos modernos de principios del siglo XX (1908 y 1909), impulsados por la oleada inmigratoria decimonónica, y exentos de nexos con el cabildo colonial del setecientos de Carnaval. -->
-- [ ] B) La afirmación es correcta dado que el cabildo colonial de Montevideo poseía una murga de zarzuela municipal oficial en 1761.
+- [ ] A) La afirmación es correcta dado que el cabildo colonial de Montevideo poseía una murga de zarzuela municipal oficial en 1761.
   <!-- feedback: Incorrecto. El texto sitúa la zarzuela y origen de murga en 1909, más de un siglo después del cabildo original de 1761 de Carnaval. -->
 - [ ] C) La afirmación es inválida porque en el cabildo colonial de Montevideo se hablaba exclusivamente portugués de Rivera.
   <!-- feedback: Incorrecto. El cabildo español montevideano colonial operaba en español, pero esta afirmación no es un dato de Carnaval provisto en el texto. -->
@@ -444,11 +444,11 @@ Evaluá de forma crítica la siguiente afirmación comercial: 'Uruguay es un gra
 ### Opciones
 - [ ] A) La afirmación es verdadera dado que el texto sitúa los cultivos de yerba mate en las dunas de Rocha y Salto de forma agroindustrial.
   <!-- feedback: Incorrecto. El texto detalla que no existen cultivos comerciales activos de yerba en el territorio uruguayo por motivos climáticos. -->
-- [x] B) La afirmación es falsa en todos sus puntos textuales: Uruguay carece de cultivos comerciales activos de yerba mate por las heladas invernales del clima templado pampeano, siendo la yerba consumida mayormente importada del sur de Brasil (estados de Paraná y Río Grande del Sur).
+- [x] D) La afirmación es falsa en todos sus puntos textuales: Uruguay carece de cultivos comerciales activos de yerba mate por las heladas invernales del clima templado pampeano, siendo la yerba consumida mayormente importada del sur de Brasil (estados de Paraná y Río Grande del Sur).
   <!-- feedback: ¡Correcto! De acuerdo con los datos textuales de mate, Uruguay no exporta yerba nativa; importa yerba brasileña debido a que las heladas invernales del clima nacional vetan los cultivos agroindustriales activos en el país de yerba mate. -->
-- [ ] C) La afirmación es verdadera ya que el promedio de 8 kilogramos anuales de la UdelaR de 2021 se destina a la exportación al Mercosur.
+- [ ] B) La afirmación es verdadera ya que el promedio de 8 kilogramos anuales de la UdelaR de 2021 se destina a la exportación al Mercosur.
   <!-- feedback: Incorrecto. El promedio de 8 kilogramos de la UdelaR de 2021 es de consumo individual interno de los habitantes del país de yerba mate, no de exportación mercantil. -->
-- [ ] D) La afirmación es falsa únicamente porque el nombre científico de la planta es originario de las selvas de Cabo Polonio de Maldonado.
+- [ ] C) La afirmación es falsa únicamente porque el nombre científico de la planta es originario de las selvas de Cabo Polonio de Maldonado.
   <!-- feedback: Incorrecto. El nombre botánico es Ilex paraguariensis y el texto no sitúa cultivos o selvas botánicas en Cabo Polonio de Maldonado. -->
 
 ### Explicacion Pedagogica
@@ -492,11 +492,11 @@ Evaluá de forma crítica la siguiente síntesis histórica del fuerte de Santa 
 ### Opciones
 - [ ] A) La síntesis de Secundaria es correcta dado que en 1897 las fuerzas militares nacionales derrotaron de forma definitiva a los ingenieros de la corona española de Cevallos.
   <!-- feedback: Incorrecto. En 1897 el fuerte fue abandonado de forma militar, ajeno a batallas contra Cevallos del setecientos colonial de Santa Teresa. -->
-- [x] B) El estudiante comete graves desvíos históricos y de datación literal: invierte los roles de obra (fue iniciado por portugueses en 1762, no por arqueólogos de Secundaria), falsea el año de la conquista de Cevallos (ocurrida en 1762, no en 1897) y confunde el año de abandono militar definitivo (1897) con el de la edificación de piedra original de Santa Teresa.
+- [x] D) El estudiante comete graves desvíos históricos y de datación literal: invierte los roles de obra (fue iniciado por portugueses en 1762, no por arqueólogos de Secundaria), falsea el año de la conquista de Cevallos (ocurrida en 1762, no en 1897) y confunde el año de abandono militar definitivo (1897) con el de la edificación de piedra original de Santa Teresa.
   <!-- feedback: ¡Correcto! El resumen de Secundaria descalabra el mapa cronológico de Santa Teresa de Rocha. Fusiona de manera inadecuada hitos separados por siglos: asocia a los arqueólogos restauradores modernos de parque nacional de 1928 (Arredondo) como constructores militares del fuerte en el setecientos, asocia la conquista armada de Cevallos de 1762 al año de abandono militar final de 1897, e invierte la autoría de obra portuguesa original de Santa Teresa. -->
-- [ ] C) El único error del estudiante es el año de declaración de parque nacional de Santa Teresa, que fue en 1750 colonial del Tratado de Madrid.
+- [ ] B) El único error del estudiante es el año de declaración de parque nacional de Santa Teresa, que fue en 1750 colonial del Tratado de Madrid.
   <!-- feedback: Incorrecto. 1750 fue el año del Tratado de Madrid que delimitaba fronteras de Santa Teresa de Rocha, ajeno a restauraciones de parques nacionales modernos del siglo XX de Santa Teresa. -->
-- [ ] D) La síntesis histórica de Secundaria es perfecta y goza de gran prestigio académico para el ingreso a la academia militar del país de Santa Teresa.
+- [ ] C) La síntesis histórica de Secundaria es perfecta y goza de gran prestigio académico para el ingreso a la academia militar del país de Santa Teresa.
   <!-- feedback: Incorrecto. Las distorsiones de fechas, roles constructores coloniales e invasiones de Santa Teresa de Rocha descalifican de forma total el rigor histórico escolar de la síntesis de Secundaria. -->
 
 ### Explicacion Pedagogica

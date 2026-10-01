@@ -34,11 +34,11 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 Calcula sin(θ) del ángulo opuesto al cateto de 6 cm.
 
 ### Opciones
-- [x] A) sin(θ) = 3/5 = 0,6
+- [x] C) sin(θ) = 3/5 = 0,6
   <!-- feedback: ¡Correcto! Hipotenusa = √(6² + 8²) = 10. sin(θ) = Cateto Opuesto / Hipotenusa = 6/10 = 3/5. -->
-- [ ] B) sin(θ) = 4/5 = 0,8
+- [ ] A) sin(θ) = 4/5 = 0,8
   <!-- feedback: Incorrecto. Calculaste el coseno dividiendo el cateto adyacente entre la hipotenusa. -->
-- [ ] C) sin(θ) = 3/4 = 0,75
+- [ ] B) sin(θ) = 3/4 = 0,75
   <!-- feedback: Incorrecto. Calculaste la tangente dividiendo opuesto entre adyacente. -->
 - [ ] D) sin(θ) = 5/3
   <!-- feedback: Incorrecto. Invertiste la razón trigonométrica dividiendo hipotenusa entre opuesto. -->
@@ -58,9 +58,9 @@ La hipotenusa mide c = √(6² + 8²) = 10 cm. El seno del ángulo es sin(θ) = 
 Calcula cos(θ) de dicho ángulo agudo.
 
 ### Opciones
-- [x] A) cos(θ) = 5/13
+- [x] B) cos(θ) = 5/13
   <!-- feedback: ¡Correcto! cos(θ) = Cateto Adyacente / Hipotenusa = 5/13. -->
-- [ ] B) cos(θ) = 12/13
+- [ ] A) cos(θ) = 12/13
   <!-- feedback: Incorrecto. Calculaste el seno del ángulo opuesto. -->
 - [ ] C) cos(θ) = 5/12
   <!-- feedback: Incorrecto. Calculaste la cotangente del ángulo. -->
@@ -82,9 +82,9 @@ Por definición, el coseno de un ángulo agudo en un triángulo rectángulo es c
 Calcula el valor numérico exacto de la suma.
 
 ### Opciones
-- [x] A) 1,5
+- [x] B) 1,5
   <!-- feedback: ¡Correcto! tan(45°) = 1, sin(30°) = 0,5. La suma es 1 + 0,5 = 1,5. -->
-- [ ] B) 2,0
+- [ ] A) 2,0
   <!-- feedback: Incorrecto. Asumiste erróneamente que sin(30°) era igual a 1. -->
 - [ ] C) 1,0
   <!-- feedback: Incorrecto. Olvidaste sumar el valor de sin(30°) = 0,5. -->
@@ -106,9 +106,9 @@ Sabemos que tan(45°) = 1 y sin(30°) = 1/2 = 0,5. Por tanto, tan(45°) + sin(30
 ¿A qué expresión trigonométrica equivale la suma?
 
 ### Opciones
-- [x] A) sec²(x)
+- [x] B) sec²(x)
   <!-- feedback: ¡Correcto! Por la identidad pitagórica sin²(x) + cos²(x) = 1. Luego 1 + tan²(x) = sec²(x). -->
-- [ ] B) csc²(x)
+- [ ] A) csc²(x)
   <!-- feedback: Incorrecto. Confundiste la secante con la cosecante. -->
 - [ ] C) cot²(x)
   <!-- feedback: Incorrecto. Confundiste la relación pitagórica de la tangente. -->
@@ -130,13 +130,13 @@ Por la identidad fundamental sin²(x) + cos²(x) = 1. Sustituyendo: 1 + tan²(x)
 ¿Cuál es el valor exacto de la expresión?
 
 ### Opciones
-- [x] A) 0
+- [x] D) 0
   <!-- feedback: ¡Correcto! Corresponde a cos(60° + 30°) = cos(90°) = 0. -->
-- [ ] B) 1
+- [ ] A) 1
   <!-- feedback: Incorrecto. Confundiste cos(90°) con cos(0°). -->
-- [ ] C) 1/2
+- [ ] B) 1/2
   <!-- feedback: Incorrecto. Evaluaste con error el producto de razones. -->
-- [ ] D) √3/2
+- [ ] C) √3/2
   <!-- feedback: Incorrecto. Tomaste el valor individual de cos(30°). -->
 
 ### Explicacion Pedagogica
@@ -178,9 +178,9 @@ Teorema del Coseno: c² = a² + b² - 2ab cos(C) = 49 + 25 - 2(35)(0,5) = 74 - 3
 Halla el lado b aplicando el Teorema del Seno.
 
 ### Opciones
-- [x] A) b = 8√2 cm
+- [x] B) b = 8√2 cm
   <!-- feedback: ¡Correcto! a / sin(A) = b / sin(B) ⇒ 8 / sin(30°) = b / sin(45°) ⇒ 8 / 0,5 = b / (√2/2) ⇒ b = 8√2. -->
-- [ ] B) b = 16 cm
+- [ ] A) b = 16 cm
   <!-- feedback: Incorrecto. Olvidaste multiplicar por sin(45°) = √2/2. -->
 - [ ] C) b = 4√2 cm
   <!-- feedback: Incorrecto. Dividiste entre 2 en lugar de despejar correctamente. -->
@@ -202,13 +202,13 @@ Teorema del Seno: a / sin(A) = b / sin(B) ⇒ 8 / (1/2) = b / (√2/2) ⇒ 16 = 
 ¿Cuál es el período T de la función en radianes?
 
 ### Opciones
-- [x] A) T = π/2 rad
+- [x] D) T = π/2 rad
   <!-- feedback: ¡Correcto! El período de A sin(Bx) es T = 2π / B = 2π / 4 = π/2 rad. -->
-- [ ] B) T = 2π rad
+- [ ] A) T = 2π rad
   <!-- feedback: Incorrecto. No dividiste entre la frecuencia angular B = 4. -->
-- [ ] C) T = π rad
+- [ ] B) T = π rad
   <!-- feedback: Incorrecto. Dividiste entre 2 en lugar de 4. -->
-- [ ] D) T = 4π rad
+- [ ] C) T = 4π rad
   <!-- feedback: Incorrecto. Multiplicaste por B en lugar de dividir. -->
 
 ### Explicacion Pedagogica
@@ -226,9 +226,9 @@ El período de f(x) = A sin(Bx) se calcula como T = 2π / |B|. Con B = 4: T = 2�
 ¿Cuál es la amplitud A de la función?
 
 ### Opciones
-- [x] A) Amplitud A = 5
+- [x] B) Amplitud A = 5
   <!-- feedback: ¡Correcto! La amplitud es el valor absoluto del coeficiente de la función trigonométrica: A = |-5| = 5. -->
-- [ ] B) Amplitud A = -5
+- [ ] A) Amplitud A = -5
   <!-- feedback: Incorrecto. La amplitud es siempre una cantidad positiva o nula. -->
 - [ ] C) Amplitud A = 2
   <!-- feedback: Incorrecto. Confundiste la frecuencia B = 2 con la amplitud. -->
@@ -250,11 +250,11 @@ La amplitud de f(x) = A cos(Bx) + C es la magnitud |A|. Como el coeficiente es -
 ¿Cuál es el valor de x en grados sexagesimales?
 
 ### Opciones
-- [x] A) x = 30°
+- [x] C) x = 30°
   <!-- feedback: ¡Correcto! El ángulo agudo cuyo seno es 1/2 es 30° (π/6 rad). -->
-- [ ] B) x = 60°
+- [ ] A) x = 60°
   <!-- feedback: Incorrecto. 60° tiene seno igual a √3/2, no 1/2. -->
-- [ ] C) x = 45°
+- [ ] B) x = 45°
   <!-- feedback: Incorrecto. 45° tiene seno igual a √2/2, no 1/2. -->
 - [ ] D) x = 90°
   <!-- feedback: Incorrecto. 90° tiene seno igual a 1. -->
@@ -274,13 +274,13 @@ En el primer cuadrante, el ángulo cuya razón seno equivale a 1/2 es x = arcsin
 ¿A qué expresión equivale la fracción?
 
 ### Opciones
-- [x] A) sin(x)
+- [x] D) sin(x)
   <!-- feedback: ¡Correcto! Como 1 - cos²(x) = sin²(x), resulta sin²(x) / sin(x) = sin(x). -->
-- [ ] B) cos(x)
+- [ ] A) cos(x)
   <!-- feedback: Incorrecto. Confundiste sin(x) con cos(x). -->
-- [ ] C) tan(x)
+- [ ] B) tan(x)
   <!-- feedback: Incorrecto. Dividiste sin(x) entre cos(x) en lugar de cancelar sin(x). -->
-- [ ] D) 1
+- [ ] C) 1
   <!-- feedback: Incorrecto. Cancelaste de forma errónea los exponentes. -->
 
 ### Explicacion Pedagogica
@@ -298,9 +298,9 @@ Usando la identidad pitagórica 1 - cos²(x) = sin²(x): sin²(x) / sin(x) = sin
 Calcula tan(x).
 
 ### Opciones
-- [x] A) tan(x) = 3/4
+- [x] B) tan(x) = 3/4
   <!-- feedback: ¡Correcto! cos(x) = √(1 - 9/25) = 4/5. tan(x) = sin(x)/cos(x) = (3/5)/(4/5) = 3/4. -->
-- [ ] B) tan(x) = 4/3
+- [ ] A) tan(x) = 4/3
   <!-- feedback: Incorrecto. Invertiste la relación dividiendo coseno entre seno. -->
 - [ ] C) tan(x) = 3/5
   <!-- feedback: Incorrecto. Confundiste la tangente con el seno. -->
@@ -322,13 +322,13 @@ Primero hallamos cos(x) = √(1 - sin²(x)) = √(1 - 9/25) = 4/5. Luego tan(x) 
 Calcula la suma exacta.
 
 ### Opciones
-- [x] A) 4
+- [x] D) 4
   <!-- feedback: ¡Correcto! sec(60°) = 1/cos(60°) = 2; csc(30°) = 1/sin(30°) = 2. Suma = 2 + 2 = 4. -->
-- [ ] B) 2
+- [ ] A) 2
   <!-- feedback: Incorrecto. Consideraste solo uno de los términos de la suma. -->
-- [ ] C) √3
+- [ ] B) √3
   <!-- feedback: Incorrecto. Evaluaste razones sin invertirlas. -->
-- [ ] D) 3
+- [ ] C) 3
   <!-- feedback: Incorrecto. Erraste en la suma de las razones recíprocas. -->
 
 ### Explicacion Pedagogica
@@ -346,9 +346,9 @@ sec(60°) = 1 / cos(60°) = 1 / (1/2) = 2. csc(30°) = 1 / sin(30°) = 1 / (1/2)
 ¿Cuál es el valor del seno de 120°?
 
 ### Opciones
-- [x] A) √3/2
+- [x] B) √3/2
   <!-- feedback: ¡Correcto! 120° está en el II cuadrante donde el seno es positivo: sin(120°) = sin(180° - 60°) = sin(60°) = √3/2. -->
-- [ ] B) -√3/2
+- [ ] A) -√3/2
   <!-- feedback: Incorrecto. Asignaste signo negativo cuando el seno es positivo en el segundo cuadrante. -->
 - [ ] C) 1/2
   <!-- feedback: Incorrecto. Confundiste sin(120°) con cos(120°). -->
@@ -370,11 +370,11 @@ Reduciendo al primer cuadrante: sin(120°) = sin(180° - 120°) = sin(60°) = �
 ¿Cuál es el valor del coseno de 180°?
 
 ### Opciones
-- [x] A) -1
+- [x] C) -1
   <!-- feedback: ¡Correcto! En la circunferencia unitaria, el punto a 180° tiene coordenadas (-1, 0), por lo que cos(180°) = -1. -->
-- [ ] B) 1
+- [ ] A) 1
   <!-- feedback: Incorrecto. 1 es el coseno de 0° o 360°. -->
-- [ ] C) 0
+- [ ] B) 0
   <!-- feedback: Incorrecto. 0 es el coseno de 90° o 270°. -->
 - [ ] D) Undefined
   <!-- feedback: Incorrecto. La función coseno está definida para todos los reales. -->
@@ -394,11 +394,11 @@ En la circunferencia trigonométrica unitaria, x = cos(θ). A θ = 180° (π rad
 ¿Cuál es el valor de x?
 
 ### Opciones
-- [x] A) x = 45°
+- [x] C) x = 45°
   <!-- feedback: ¡Correcto! cos(2x) = 0 ⇒ 2x = 90° ⇒ x = 45°. -->
-- [ ] B) x = 90°
+- [ ] A) x = 90°
   <!-- feedback: Incorrecto. Para x = 90°, cos(180°) = -1 ≠ 0. -->
-- [ ] C) x = 30°
+- [ ] B) x = 30°
   <!-- feedback: Incorrecto. Para x = 30°, cos(60°) = 1/2 ≠ 0. -->
 - [ ] D) x = 60°
   <!-- feedback: Incorrecto. Para x = 60°, cos(120°) = -1/2 ≠ 0. -->
@@ -418,11 +418,11 @@ El ángulo cuya razón coseno es 0 en el primer cuadrante es 90°. Por ende 2x =
 ¿Cuál es la medida equivalente en radianes?
 
 ### Opciones
-- [x] A) 2π/3 rad
+- [x] C) 2π/3 rad
   <!-- feedback: ¡Correcto! 120° × (π / 180°) = 120π / 180 = 2π/3 rad. -->
-- [ ] B) 3π/4 rad
+- [ ] A) 3π/4 rad
   <!-- feedback: Incorrecto. 3π/4 equivale a 135°. -->
-- [ ] C) π/3 rad
+- [ ] B) π/3 rad
   <!-- feedback: Incorrecto. π/3 equivale a 60°. -->
 - [ ] D) 5π/6 rad
   <!-- feedback: Incorrecto. 5π/6 equivale a 150°. -->
@@ -466,9 +466,9 @@ Para convertir radianes a grados multiplicamos por (180° / π): (3π/4) × (180
 ¿A qué valor o función equivale la multiplicación?
 
 ### Opciones
-- [x] A) 1
+- [x] B) 1
   <!-- feedback: ¡Correcto! sec(x) = 1/cos(x). Luego (1/cos(x)) · cos(x) = 1. -->
-- [ ] B) tan(x)
+- [ ] A) tan(x)
   <!-- feedback: Incorrecto. Confundiste la secante con el seno. -->
 - [ ] C) 0
   <!-- feedback: Incorrecto. El producto de razones recíprocas nunca se anula. -->
@@ -490,11 +490,11 @@ Por definición de razón recíproca, sec(x) = 1 / cos(x). Así, sec(x) · cos(x
 Calcula la longitud de arco s.
 
 ### Opciones
-- [x] A) s = 20 cm
+- [x] C) s = 20 cm
   <!-- feedback: ¡Correcto! La fórmula de longitud de arco es s = r · θ = 10 · 2 = 20 cm. -->
-- [ ] B) s = 10 cm
+- [ ] A) s = 10 cm
   <!-- feedback: Incorrecto. Olvidaste multiplicar por el ángulo θ = 2 rad. -->
-- [ ] C) s = 5 cm
+- [ ] B) s = 5 cm
   <!-- feedback: Incorrecto. Dividiste en lugar de multiplicar. -->
 - [ ] D) s = 40 cm
   <!-- feedback: Incorrecto. Multiplicaste por 4 en lugar de 2. -->

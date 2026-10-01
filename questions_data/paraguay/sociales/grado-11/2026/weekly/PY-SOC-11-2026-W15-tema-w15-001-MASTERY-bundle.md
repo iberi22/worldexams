@@ -56,11 +56,11 @@ El Stronato (1954-1989) fue la dictadura de mayor extensión en el siglo XX para
 ¿Qué tríada política e institucional conformó el esquema de sostén del régimen de Alfredo Stroessner durante sus casi 35 años de gobierno?
 
 ### Opciones
-- [x] A) Las Fuerzas Armadas, el Partido Colorado y el Gobierno (la "Trilogía stronista")
+- [x] C) Las Fuerzas Armadas, el Partido Colorado y el Gobierno (la "Trilogía stronista")
   <!-- feedback: Correcto. La simbiosis entre el gobierno, las Fuerzas Armadas y el Partido Colorado fue el pilar de dominación del régimen. -->
-- [ ] B) La Iglesia Católica, la Corte de Londres y los sindicatos marineros
+- [ ] A) La Iglesia Católica, la Corte de Londres y los sindicatos marineros
   <!-- feedback: Incorrecto. La Iglesia mantuvo posturas críticas hacia el régimen en las décadas de 1970 y 1980. -->
-- [ ] C) El Partido Liberal, el movimiento estudiantil y los colonos menonitas
+- [ ] B) El Partido Liberal, el movimiento estudiantil y los colonos menonitas
   <!-- feedback: Incorrecto. Fuerzas perseguidas o al margen de la estructura oficialista de poder. -->
 - [ ] D) El Congreso Nacional, las Naciones Unidas y la Cruz Roja
   <!-- feedback: Incorrecto. El régimen subordinó al Congreso y enfrentó condenas de organismos internacionales de derechos humanos. -->
@@ -102,9 +102,9 @@ La gesta del 2 y 3 de febrero de 1989 clausuró el autoritarismo stronista abrie
 ¿Qué histórico conjunto de documentos de la represión ilegal policial stronista y de la Operación Cóndor fue descubierto en Lambaré en diciembre de 1992 por el juez Agustín Goiburú y Martín Almada?
 
 ### Opciones
-- [x] A) Los Archivos del Terror
+- [x] B) Los Archivos del Terror
   <!-- feedback: Correcto. Los Archivos del Terror aportaron pruebas irrefutables de la persecución, torturas y asesinatos cometidos por la dictadura y la red transnacional Cóndor. -->
-- [ ] B) Los Cuadernos de la Guerra del Chaco
+- [ ] A) Los Cuadernos de la Guerra del Chaco
   <!-- feedback: Incorrecto. Los Archivos del Terror contienen fichas policiales e informes de espionaje del periodo 1954-1989. -->
 - [ ] C) Las Cartas Coloniales del Cabildo
   <!-- feedback: Incorrecto. Alude a documentos del periodo colonial hispánico conservados en el Archivo Nacional. -->
@@ -125,11 +125,11 @@ Los Archivos del Terror constituyeron un hito mundial en la memoria histórica y
 ¿Qué desencadenó la sangrienta Guerra Civil de 1947 entre las fuerzas del gobierno de Higinio Morínigo (apoyadas por el oficialismo colorado) y una coalición de febreristas, liberales y comunistas?
 
 ### Opciones
-- [x] A) El cierre del espacio democrático por Morínigo y la disputa por el control total del aparato estatal y militar
+- [x] C) El cierre del espacio democrático por Morínigo y la disputa por el control total del aparato estatal y militar
   <!-- feedback: Correcto. La Revolución de 1947 enfrentó a los sectores opositores contra la dictadura militar de Morínigo, fracturando trágicamente a la sociedad paraguaya. -->
-- [ ] B) La invasión del territorio patrio por tropas del Imperio del Brasil
+- [ ] A) La invasión del territorio patrio por tropas del Imperio del Brasil
   <!-- feedback: Incorrecto. La contienda de 1947 fue un cruento conflicto de guerra civil estrictamente interno paraguayo. -->
-- [ ] C) La negativa de Bolivia a firmar el tratado de paz del Chaco
+- [ ] B) La negativa de Bolivia a firmar el tratado de paz del Chaco
   <!-- feedback: Incorrecto. El tratado de límites se había suscrito de forma pacífica años antes en 1938. -->
 - [ ] D) El descubrimiento de minas de diamantes en el Departamento de Guairá
   <!-- feedback: Incorrecto. Conflicto impulsado por profundas tensiones políticas de poder y hegemonía partidaria. -->
@@ -148,11 +148,11 @@ La Guerra Civil de 1947 dejó secuelas de intolerancia política y persecución 
 ¿Qué impacto económico inmediato produjo en Paraguay la colosal construcción de la represa binacional de Itaipú entre 1974 y 1981 (el periodo del "Milagro Económico Stronista")?
 
 ### Opciones
-- [x] A) Un inédito crecimiento del PIB a tasas superiores al 10% anual, afluencia masiva de divisas y expansión de la construcción y el empleo
+- [x] C) Un inédito crecimiento del PIB a tasas superiores al 10% anual, afluencia masiva de divisas y expansión de la construcción y el empleo
   <!-- feedback: Correcto. La inyección de capitales para Itaipú dinamizó temporalmente la economía paraguaya generando una burbuja de rápido crecimiento macroeconómico. -->
-- [ ] B) El colapso inmediato de toda la actividad bancaria del país
+- [ ] A) El colapso inmediato de toda la actividad bancaria del país
   <!-- feedback: Incorrecto. Al contrario, el sistema financiero se expandió fuertemente para canalizar los fondos de la megaobra. -->
-- [ ] C) La paralización total del transporte de cargas fluviales
+- [ ] B) La paralización total del transporte de cargas fluviales
   <!-- feedback: Incorrecto. La construcción dinamizó el transporte y la demanda de materiales en toda la cuenca. -->
 - [ ] D) La pérdida del territorio del departamento de Alto Paraná
   <!-- feedback: Incorrecto. El territorio se mantuvo bajo estricta soberanía nacional binacional acordada. -->
@@ -194,9 +194,9 @@ La represión a las Ligas Agrarias buscó sofocar cualquier foco de organizació
 ¿En qué consistió la red transnacional conocida como "Operación Cóndor" en la que participó activamente la dictadura de Stroessner junto a otros regímenes militares del Cono Sur?
 
 ### Opciones
-- [x] A) Una alianza secreta de los servicios de inteligencia dictatoriales para perseguir, secuestrar, torturar y asesinar a opositores políticos a través de las fronteras
+- [x] B) Una alianza secreta de los servicios de inteligencia dictatoriales para perseguir, secuestrar, torturar y asesinar a opositores políticos a través de las fronteras
   <!-- feedback: Correcto. La Operación Cóndor unió a las dictaduras de Paraguay, Argentina, Brasil, Chile, Uruguay y Bolivia en la represión ilegal sistemática. -->
-- [ ] B) Un tratado de libre comercio e intercambio cultural promovido por la UNESCO
+- [ ] A) Un tratado de libre comercio e intercambio cultural promovido por la UNESCO
   <!-- feedback: Incorrecto. Fue una red clandestina de terrorismo de Estado e intercambio de prisioneros políticos. -->
 - [ ] C) Un proyecto ambiental para salvar a las aves rapaces de los Andes
   <!-- feedback: Incorrecto. El nombre en código "Cóndor" ocultaba una siniestra red represiva militar. -->
@@ -217,11 +217,11 @@ La Operación Cóndor representó la internacionalización del terrorismo de Est
 ¿Qué objetivo perseguían las infames Leyes de Defensa de la Democracia (Ley 209 y Ley 294) promulgadas por el régimen autoritario?
 
 ### Opciones
-- [x] A) Criminalizar la disidencia política, proscribir la oposición y perseguir bajo el pretexto de "prevenir la prédica del comunismo"
+- [x] C) Criminalizar la disidencia política, proscribir la oposición y perseguir bajo el pretexto de "prevenir la prédica del comunismo"
   <!-- feedback: Correcto. Estas leyes sirvieron de fachada legal para encarcelar, exiliar o juzgar sin debido proceso a cualquier opositor al régimen. -->
-- [ ] B) Garantizar la libertad de expresión irrestricta en la prensa nacional
+- [ ] A) Garantizar la libertad de expresión irrestricta en la prensa nacional
   <!-- feedback: Incorrecto. Las leyes suprimían y castigaban con severidad la libertad de expresión y de prensa. -->
-- [ ] C) Financiar a los partidos políticos de oposición con fondos públicos
+- [ ] B) Financiar a los partidos políticos de oposición con fondos públicos
   <!-- feedback: Incorrecto. Al contrario, perseguían y desmantelaban las agrupaciones de oposición al gobierno. -->
 - [ ] D) Obligar a las empresas extranjeras a pagar salarios mínimos en dólares
   <!-- feedback: Incorrecto. Las leyes estaban enfocadas en el control político, la seguridad del Estado y la represión ideológica. -->
@@ -240,11 +240,11 @@ Las leyes liberticidas institucionalizaron el estado de sitio permanente y la pe
 ¿Qué diario independiente de gran tirada nacional fundado por Aldo Zuccolillo en 1967 fue clausurado por la dictadura de Stroessner en 1984 debido a sus denuncias de corrupción y represión?
 
 ### Opciones
-- [x] A) Diario ABC Color
+- [x] C) Diario ABC Color
   <!-- feedback: Correcto. ABC Color fue clausurado en marzo de 1984 por el régimen, convirtiéndose en un símbolo de la lucha por la libertad de prensa hasta su reapertura en 1989. -->
-- [ ] B) Diario El Liberal
+- [ ] A) Diario El Liberal
   <!-- feedback: Incorrecto. Periódico histórico de facción partidaria previo a la aparición del periodismo moderno de investigación de ABC. -->
-- [ ] C) La Tribuna de 1870
+- [ ] B) La Tribuna de 1870
   <!-- feedback: Incorrecto. La Tribuna fue un histórico decano de la prensa paraguaya que también sufrió persecuciones, pero la clausura emblemática de 1984 correspondió a ABC Color. -->
 - [ ] D) Diario Patria
   <!-- feedback: Incorrecto. Patria era el órgano oficial de prensa del Partido Colorado stronista. -->
@@ -286,9 +286,9 @@ El problema de las tierras malhabidas es el origen directo de los agudos conflic
 ¿Qué papel desempeñó Monseñor Ismael Rolón (Arzobispo de Asunción) y la Conferencia Episcopal Paraguaya en la resistencia ética contra el régimen de Stroessner?
 
 ### Opciones
-- [x] A) Defendió firmemente los derechos humanos, suspendió su participación en el Consejo de Estado y convocó a la multitudinaria "Caminata del Silencio"
+- [x] B) Defendió firmemente los derechos humanos, suspendió su participación en el Consejo de Estado y convocó a la multitudinaria "Caminata del Silencio"
   <!-- feedback: Correcto. Monseñor Rolón lideró una firme oposición ética a las arbitrariedades de la dictadura, convirtiendo a la Iglesia en refugio de perseguidos. -->
-- [ ] B) Apoyó la reelección indefinida de Stroessner con cartas pastorales de alabanza
+- [ ] A) Apoyó la reelección indefinida de Stroessner con cartas pastorales de alabanza
   <!-- feedback: Incorrecto. La jerarquía eclesiástica rechazó los abusos y encarcelamientos de la dictadura. -->
 - [ ] C) Comandó un regimiento armado en los bosques de Caaguazú
   <!-- feedback: Incorrecto. La labor de la Iglesia fue de resistencia pacífica, defensa de derechos y denuncia moral. -->
@@ -309,11 +309,11 @@ La postura ética de la Iglesia Católica brindó cobertura moral al movimiento 
 ¿Qué factores internacionales aceleraron el aislamiento y debilitamiento del régimen de Stroessner en la segunda mitad de la década de 1980?
 
 ### Opciones
-- [x] A) La democratización de los países vecinos (Argentina y Brasil), las presiones de EE.UU. por derechos humanos y la pérdida de utilidad en la Guerra Fría
+- [x] C) La democratización de los países vecinos (Argentina y Brasil), las presiones de EE.UU. por derechos humanos y la pérdida de utilidad en la Guerra Fría
   <!-- feedback: Correcto. Las transiciones democráticas en el Cono Sur y el fin de la Guerra Fría dejaron a Stroessner como un anacronismo dictatorial aislado. -->
-- [ ] B) La firma de un tratado de alianza militar exclusiva con la Unión Soviética
+- [ ] A) La firma de un tratado de alianza militar exclusiva con la Unión Soviética
   <!-- feedback: Incorrecto. Stroessner fue un acérrimo anticomunista que no tuvo relaciones con el bloque soviético. -->
-- [ ] C) El ingreso de Paraguay al bloque de la Unión Europea
+- [ ] B) El ingreso de Paraguay al bloque de la Unión Europea
   <!-- feedback: Incorrecto. La Unión Europea es un bloque de integración regional exclusivamente europeo. -->
 - [ ] D) La prohibición mundial de exportar soja y carne vacuna
   <!-- feedback: Incorrecto. La presión fue de carácter estrictamente político, diplomático y de exigencia democrática. -->
@@ -332,11 +332,11 @@ El contexto internacional desfavorable al autoritarismo facilitó el quiebre int
 ¿Qué fue el "Acuerdo Nacional" promovido en 1978 por agrupaciones opositoras (PRF, PLRA, PDC y MOPOCO)?
 
 ### Opciones
-- [x] A) Una amplia coincidencia política civil que promovió el boicot a las elecciones fraudulentas y la lucha por la restitución de la democracia
+- [x] C) Una amplia coincidencia política civil que promovió el boicot a las elecciones fraudulentas y la lucha por la restitución de la democracia
   <!-- feedback: Correcto. El Acuerdo Nacional unió a la oposición en una plataforma común de denuncia del fraude y exigencia de libertades públicas. -->
-- [ ] B) Un pacto militar para repartir cargos ministeriales con Stroessner
+- [ ] A) Un pacto militar para repartir cargos ministeriales con Stroessner
   <!-- feedback: Incorrecto. Fue una plataforma de oposición democrática civil al régimen dictatorial. -->
-- [ ] C) Un consorcio privado para la compra de la represa de Yacyretá
+- [ ] B) Un consorcio privado para la compra de la represa de Yacyretá
   <!-- feedback: Incorrecto. Su propósito fue puramente político de convergencia democrática opositora. -->
 - [ ] D) Un tratado internacional para anexar el departamento de Amambay a Brasil
   <!-- feedback: Incorrecto. Defendió la soberanía y la democratización del Estado paraguayo. -->
@@ -378,13 +378,13 @@ El exilio estranguló el desarrollo cultural paraguayo, alejando a creadores cé
 ¿Qué consecuencia política desencadenó la toma violenta de la convención partidaria de 1987 por la facción "Militante stronista" (los "cuatro jotas") desplazando a los "Tradicionalistas"?
 
 ### Opciones
-- [x] A) La ruptura de la unidad del oficialismo, acelerando el aislamiento político de Stroessner y la conspiración militar de febrero de 1989
+- [x] D) La ruptura de la unidad del oficialismo, acelerando el aislamiento político de Stroessner y la conspiración militar de febrero de 1989
   <!-- feedback: Correcto. El copamiento militante radicalizó al régimen y aisló a los líderes tradicionales, empujando al general Rodríguez al golpe militar. -->
-- [ ] B) La renuncia inmediata de todos los generales de las Fuerzas Armadas
+- [ ] A) La renuncia inmediata de todos los generales de las Fuerzas Armadas
   <!-- feedback: Incorrecto. La cúpula militar reaccionó dos años después encabezando el golpe de Estado. -->
-- [ ] C) La fusión del Partido Colorado con el Partido Liberal Radical Auténtico
+- [ ] B) La fusión del Partido Colorado con el Partido Liberal Radical Auténtico
   <!-- feedback: Incorrecto. Las dos agrupaciones mantuvieron su histórica y marcada rivalidad política. -->
-- [ ] D) La entrega del gobierno a los líderes del sindicato de choferes de la capital
+- [ ] C) La entrega del gobierno a los líderes del sindicato de choferes de la capital
   <!-- feedback: Incorrecto. La disputa fue estrictamente entre facciones de la elite de poder de la ANR. -->
 
 ### Explicacion Pedagogica
@@ -401,9 +401,9 @@ La división interna del partido oficialista fue la antesala de la pérdida de s
 Al evaluar el Informe de la Comisión de Verdad y Justicia (CVJ) sobre las violaciones a los derechos humanos durante la dictadura de Stroessner, ¿cuál es su conclusión cuantitativa e institucional más relevante?
 
 ### Opciones
-- [x] A) Documentó cerca de 20.000 víctimas directas de torturas y detenciones arbitrarias, 459 ejecutados o desaparecidos y casi 20.000 exiliados forzados
+- [x] B) Documentó cerca de 20.000 víctimas directas de torturas y detenciones arbitrarias, 459 ejecutados o desaparecidos y casi 20.000 exiliados forzados
   <!-- feedback: Correcto. El informe "Anive Haguã Oiko" de la CVJ constituyó la radiografía oficial y rigurosa del alcance de la represión estatal durante 1954-1989. -->
-- [ ] B) Demostró que la dictadura actuó en estricto apego a las leyes y garantías constitucionales sin registrar violaciones a los derechos humanos
+- [ ] A) Demostró que la dictadura actuó en estricto apego a las leyes y garantías constitucionales sin registrar violaciones a los derechos humanos
   <!-- feedback: Incorrecto. El informe documentó de forma abrumadora crímenes de lesa humanidad y abusos sistemáticos del Estado. -->
 - [ ] C) Concluyó que la totalidad de los crímenes fueron cometidos por organismos internacionales extranjeros sin complicidad local
   <!-- feedback: Incorrecto. La CVJ individualizó las responsabilidades directas de las fuerzas de seguridad y autoridades locales. -->
@@ -447,13 +447,13 @@ La Marcha hacia el Este transformó la geografía económica paraguaya, conectan
 Al evaluar la herencia socio-cultural del Stronato en las instituciones públicas paraguayas contemporáneas, ¿cuál es el mayor obstáculo estructural que aún perdura?
 
 ### Opciones
-- [x] A) La persistencia del prebendarismo partidario, el nepotismo en la función pública y la debilidad del sistema judicial frente a la impunidad
+- [x] D) La persistencia del prebendarismo partidario, el nepotismo en la función pública y la debilidad del sistema judicial frente a la impunidad
   <!-- feedback: Correcto. La cultura clientelar y el uso de los cargos públicos como botín partidario legados por la dictadura siguen frenando la modernización institucional. -->
-- [ ] B) El exceso de controles de transparencia fiscal que impiden el funcionamiento del Estado
+- [ ] A) El exceso de controles de transparencia fiscal que impiden el funcionamiento del Estado
   <!-- feedback: Incorrecto. El desafío es precisamente la falta de transparencia y la corrupción no auditada. -->
-- [ ] C) La prohibición absoluta de que los ciudadanos afiliados a partidos políticos trabajen en el sector privado
+- [ ] B) La prohibición absoluta de que los ciudadanos afiliados a partidos políticos trabajen en el sector privado
   <!-- feedback: Incorrecto. El prebendarismo afectó la esfera pública sin prohibir el empleo privado de afiliados. -->
-- [ ] D) La falta total de ciudadanos alfabetizados en las zonas urbanas
+- [ ] C) La falta total de ciudadanos alfabetizados en las zonas urbanas
   <!-- feedback: Incorrecto. La tasa de alfabetización creció, siendo el reto la calidad educativa e institucional. -->
 
 ### Explicacion Pedagogica
@@ -470,13 +470,13 @@ Desarraigar las prácticas prebendarias e impunes heredadas del autoritarismo es
 Al evaluar el valor histórico de la Convención Nacional Constituyente que promulgó la Carta Magna el 20 de junio de 1992, ¿cuál de las siguientes afirmaciones posee mayor fundamento?
 
 ### Opciones
-- [x] A) Consagró el pacto democrático más pluralista y representativo de la historia paraguaya, garantizando derechos humanos, descentralización y límites estrictos al poder ejecutivo
+- [x] D) Consagró el pacto democrático más pluralista y representativo de la historia paraguaya, garantizando derechos humanos, descentralización y límites estrictos al poder ejecutivo
   <!-- feedback: Correcto. La Constitución de 1992 cerró definitivamente el ciclo de las constituciones autoritarias (1940 y 1967), sentando las bases de la democracia moderna. -->
-- [ ] B) Restableció la dictadura militar con carácter vitalicio para los mandos de las Fuerzas Armadas
+- [ ] A) Restableció la dictadura militar con carácter vitalicio para los mandos de las Fuerzas Armadas
   <!-- feedback: Incorrecto. La carta de 1992 estableció el control civil de las Fuerzas Armadas y prohibió la reelección. -->
-- [ ] C) Proscribió a todos los partidos políticos obligando a gobernar mediante debaes religiosos
+- [ ] B) Proscribió a todos los partidos políticos obligando a gobernar mediante debaes religiosos
   <!-- feedback: Incorrecto. Consagró el pluralismo político y la libertad de organización ciudadana. -->
-- [ ] D) Declaró la disolución de la República del Paraguay para unirse como estado a los EE.UU.
+- [ ] C) Declaró la disolución de la República del Paraguay para unirse como estado a los EE.UU.
   <!-- feedback: Incorrecto. Reafirmó con orgullo la soberanía e independencia del Estado paraguayo. -->
 
 ### Explicacion Pedagogica

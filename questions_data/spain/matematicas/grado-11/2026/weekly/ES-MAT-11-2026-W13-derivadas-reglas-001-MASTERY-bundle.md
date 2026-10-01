@@ -30,8 +30,8 @@ bundle_index: 1
 
 ### Opciones
 - [ ] A) $f'(a) = \frac{f(a+h) - f(a)}{h}$ <!-- feedback: Falta el límite cuando h tiende a cero. -->
-- [x] B) $f'(a) = \lim_{h \to 0} \frac{f(a+h) - f(a)}{h}$ <!-- feedback: Correcto. Es la definición de la derivada como el límite del cociente incremental. -->
-- [ ] C) $f'(a) = \lim_{x \to a} (f(x) - f(a))$ <!-- feedback: Esto es solo la diferencia de valores, no la tasa de cambio. -->
+- [x] C) $f'(a) = \lim_{h \to 0} \frac{f(a+h) - f(a)}{h}$ <!-- feedback: Correcto. Es la definición de la derivada como el límite del cociente incremental. -->
+- [ ] B) $f'(a) = \lim_{x \to a} (f(x) - f(a))$ <!-- feedback: Esto es solo la diferencia de valores, no la tasa de cambio. -->
 - [ ] D) $f'(a) = f(a) + h$ <!-- feedback: Definición incorrecta. -->
 
 ### Explicacion Pedagogica
@@ -50,9 +50,9 @@ La derivada representa la pendiente de la recta tangente a la curva en un punto.
 ¿Cuál es la derivada de la función potencia $f(x) = x^n$?
 
 ### Opciones
-- [ ] A) $f'(x) = x^{n-1}$ <!-- feedback: Falta el coeficiente n. -->
-- [ ] B) $f'(x) = n \cdot x^n$ <!-- feedback: No se restó 1 al exponente. -->
-- [x] C) $f'(x) = n \cdot x^{n-1}$ <!-- feedback: Correcto. El exponente pasa multiplicando y el nuevo exponente disminuye en una unidad. -->
+- [ ] B) $f'(x) = x^{n-1}$ <!-- feedback: Falta el coeficiente n. -->
+- [ ] C) $f'(x) = n \cdot x^n$ <!-- feedback: No se restó 1 al exponente. -->
+- [x] A) $f'(x) = n \cdot x^{n-1}$ <!-- feedback: Correcto. El exponente pasa multiplicando y el nuevo exponente disminuye en una unidad. -->
 - [ ] D) $f'(x) = \frac{x^{n+1}}{n+1}$ <!-- feedback: Esta es la regla para la integral indefinida, no para la derivada. -->
 
 ### Explicacion Pedagogica
@@ -71,9 +71,9 @@ La regla de la potencia es la base para derivar polinomios. Es válida para cual
 Si $f(x) = 7$ para todo $x$, ¿cuál es el valor de su derivada $f'(x)$?
 
 ### Opciones
-- [x] A) 0 <!-- feedback: Correcto. Una función constante no cambia, por lo que su tasa de variación es nula en todos los puntos. -->
-- [ ] B) 1 <!-- feedback: Esta sería la derivada de f(x) = x. -->
-- [ ] C) 7 <!-- feedback: La derivada no es igual al valor de la constante. -->
+- [x] C) 0 <!-- feedback: Correcto. Una función constante no cambia, por lo que su tasa de variación es nula en todos los puntos. -->
+- [ ] A) 1 <!-- feedback: Esta sería la derivada de f(x) = x. -->
+- [ ] B) 7 <!-- feedback: La derivada no es igual al valor de la constante. -->
 - [ ] D) $x$ <!-- feedback: Resultado incorrecto. -->
 
 ### Explicacion Pedagogica
@@ -113,8 +113,8 @@ El teorema fundamental establece que la derivabilidad implica continuidad. Sin e
 Dada la función $h(x) = x^2 \cdot \text{sen}(x)$, ¿cuál es su derivada $h'(x)$?
 
 ### Opciones
-- [ ] A) $2x \cdot \cos(x)$ <!-- feedback: Error al derivar; se derivaron ambos términos a la vez (regla incorrecta). -->
-- [x] B) $2x \cdot \text{sen}(x) + x^2 \cdot \cos(x)$ <!-- feedback: Correcto. Aplicando $(u \cdot v)' = u'v + uv'$. -->
+- [ ] B) $2x \cdot \cos(x)$ <!-- feedback: Error al derivar; se derivaron ambos términos a la vez (regla incorrecta). -->
+- [x] A) $2x \cdot \text{sen}(x) + x^2 \cdot \cos(x)$ <!-- feedback: Correcto. Aplicando $(u \cdot v)' = u'v + uv'$. -->
 - [ ] C) $2x + \cos(x)$ <!-- feedback: Se sumaron las derivadas en lugar de aplicar la regla del producto. -->
 - [ ] D) $x^2 \cdot \text{sen}(x) + 2x \cdot \cos(x)$ <!-- feedback: Error en el orden de los factores de la regla. -->
 
@@ -156,9 +156,9 @@ Halla la derivada de la función $f(x) = (3x^2 + 1)^5$.
 
 ### Opciones
 - [ ] A) $5(3x^2 + 1)^4$ <!-- feedback: Falta multiplicar por la derivada de la función interna. -->
-- [x] B) $30x \cdot (3x^2 + 1)^4$ <!-- feedback: Correcto. $5(3x^2 + 1)^4 \cdot (6x) = 30x(3x^2 + 1)^4$. -->
-- [ ] C) $15(3x^2 + 1)^4$ <!-- feedback: Error en el cálculo de la derivada interna. -->
-- [ ] D) $(6x)^5$ <!-- feedback: Aplicación incorrecta de la regla. -->
+- [x] D) $30x \cdot (3x^2 + 1)^4$ <!-- feedback: Correcto. $5(3x^2 + 1)^4 \cdot (6x) = 30x(3x^2 + 1)^4$. -->
+- [ ] B) $15(3x^2 + 1)^4$ <!-- feedback: Error en el cálculo de la derivada interna. -->
+- [ ] C) $(6x)^5$ <!-- feedback: Aplicación incorrecta de la regla. -->
 
 ### Explicacion Pedagogica
 La regla de la cadena establece que la derivada de $f(g(x))$ es $f'(g(x)) \cdot g'(x)$. Se conoce coloquialmente como "derivada de fuera por derivada de dentro".
@@ -177,9 +177,9 @@ La regla de la cadena establece que la derivada de $f(g(x))$ es $f'(g(x)) \cdot 
 
 ### Opciones
 - [ ] A) Su derivada es siempre negativa. <!-- feedback: $e^x$ es siempre positiva. -->
-- [x] B) Su derivada es idéntica a la función original. <!-- feedback: Correcto. $(e^x)' = e^x$. -->
-- [ ] C) Su derivada es una función constante. <!-- feedback: $e^x$ no es lineal. -->
-- [ ] D) Su derivada es $x \cdot e^{x-1}$. <!-- feedback: Esta sería la regla de la potencia aplicada erróneamente a una base variable. -->
+- [x] D) Su derivada es idéntica a la función original. <!-- feedback: Correcto. $(e^x)' = e^x$. -->
+- [ ] B) Su derivada es una función constante. <!-- feedback: $e^x$ no es lineal. -->
+- [ ] C) Su derivada es $x \cdot e^{x-1}$. <!-- feedback: Esta sería la regla de la potencia aplicada erróneamente a una base variable. -->
 
 ### Explicacion Pedagogica
 La función exponencial de base $e$ es la única función (salvo el cero) que es su propia derivada. Esta propiedad la hace fundamental en la resolución de ecuaciones diferenciales.
@@ -198,9 +198,9 @@ La función exponencial de base $e$ es la única función (salvo el cero) que es
 
 ### Opciones
 - [ ] A) $\frac{1}{x^2 + 5}$ <!-- feedback: Falta la derivada interna de la regla de la cadena. -->
-- [x] B) $\frac{2x}{x^2 + 5}$ <!-- feedback: Correcto. Aplicando $(\ln u)' = u'/u$. -->
-- [ ] C) $\frac{1}{2x}$ <!-- feedback: Simplificación incorrecta. -->
-- [ ] D) $2x \cdot \ln(x^2 + 5)$ <!-- feedback: Aplicación incorrecta de las reglas. -->
+- [x] D) $\frac{2x}{x^2 + 5}$ <!-- feedback: Correcto. Aplicando $(\ln u)' = u'/u$. -->
+- [ ] B) $\frac{1}{2x}$ <!-- feedback: Simplificación incorrecta. -->
+- [ ] C) $2x \cdot \ln(x^2 + 5)$ <!-- feedback: Aplicación incorrecta de las reglas. -->
 
 ### Explicacion Pedagogica
 La derivada del logaritmo neperiano de una función es la derivada de la función dividida por la función misma.
@@ -218,8 +218,8 @@ La derivada del logaritmo neperiano de una función es la derivada de la funció
 ¿Cuál es la pendiente de la recta tangente a la curva $f(x) = x^3 - 2x$ en el punto $x = 1$?
 
 ### Opciones
-- [ ] A) -1 <!-- feedback: Este es el valor de f(1), no de la derivada. -->
-- [x] B) 1 <!-- feedback: Correcto. $f'(x) = 3x^2 - 2$. En $x = 1$, $f'(1) = 3(1)^2 - 2 = 1$. -->
+- [ ] B) -1 <!-- feedback: Este es el valor de f(1), no de la derivada. -->
+- [x] A) 1 <!-- feedback: Correcto. $f'(x) = 3x^2 - 2$. En $x = 1$, $f'(1) = 3(1)^2 - 2 = 1$. -->
 - [ ] C) 3 <!-- feedback: Solo se consideró el primer término de la derivada. -->
 - [ ] D) 0 <!-- feedback: Error de cálculo. -->
 
@@ -325,8 +325,8 @@ La velocidad es la derivada de la posición respecto al tiempo. Hallar cuándo e
 ### Opciones
 - [ ] A) $x \cdot x^{x-1}$ <!-- feedback: Esta regla solo vale para base variable y exponente constante. -->
 - [ ] B) $x^x \cdot \ln(x)$ <!-- feedback: Esta regla solo vale para base constante y exponente variable. -->
-- [x] C) $x^x \cdot (1 + \ln x)$ <!-- feedback: Correcto. Derivada de $e^{x \ln x} = e^{x \ln x} \cdot (1 \cdot \ln x + x \cdot 1/x) = x^x(1 + \ln x)$. -->
-- [ ] D) $1 + \ln x$ <!-- feedback: Falta el factor de la función original. -->
+- [x] D) $x^x \cdot (1 + \ln x)$ <!-- feedback: Correcto. Derivada de $e^{x \ln x} = e^{x \ln x} \cdot (1 \cdot \ln x + x \cdot 1/x) = x^x(1 + \ln x)$. -->
+- [ ] C) $1 + \ln x$ <!-- feedback: Falta el factor de la función original. -->
 
 ### Explicacion Pedagogica
 Cuando tanto la base como el exponente dependen de $x$, se debe transformar la función a base $e$ o usar derivación logarítmica para aplicar correctamente las reglas.
@@ -429,9 +429,9 @@ Las funciones cuya derivada es proporcional a la función misma son las exponenc
 
 ### Opciones
 - [ ] A) Si es positiva, la función es creciente. <!-- feedback: Esto lo indica la primera derivada. -->
-- [x] B) Si es positiva, la función es convexa (curvatura hacia arriba). <!-- feedback: Correcto. Indica que la pendiente de la tangente está aumentando. -->
-- [ ] C) Si es positiva, la función tiene un máximo. <!-- feedback: Tendría un mínimo si f'(x)=0 y f''(x)>0. -->
-- [ ] D) Si es positiva, la función es constante. <!-- feedback: La derivada segunda sería cero. -->
+- [x] D) Si es positiva, la función es convexa (curvatura hacia arriba). <!-- feedback: Correcto. Indica que la pendiente de la tangente está aumentando. -->
+- [ ] B) Si es positiva, la función tiene un máximo. <!-- feedback: Tendría un mínimo si f'(x)=0 y f''(x)>0. -->
+- [ ] C) Si es positiva, la función es constante. <!-- feedback: La derivada segunda sería cero. -->
 
 ### Explicacion Pedagogica
 La derivada segunda mide la rapidez con la que cambia la pendiente. Una derivada segunda positiva significa que la curva "se dobla" hacia arriba, definiendo la convexidad.

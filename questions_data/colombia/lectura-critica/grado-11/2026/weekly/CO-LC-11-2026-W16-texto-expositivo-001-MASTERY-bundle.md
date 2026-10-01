@@ -34,9 +34,9 @@ Este bundle contiene 20 preguntas sobre **Texto Expositivo e Informativo** para 
 ¿Cuál es el propósito comunicativo dominante en este párrafo?
 
 ### Opciones
-- [x] A) Definir y explicitar las características fundamentales del fenómeno biológico de la fotosíntesis.
+- [x] B) Definir y explicitar las características fundamentales del fenómeno biológico de la fotosíntesis.
   <!-- feedback: Correcto. El texto expone objetivamente la definición, los actores y la ubicación celular del proceso biológico. -->
-- [ ] B) Persuadir al lector sobre la importancia de comprar abonos orgánicos para jardinería.
+- [ ] A) Persuadir al lector sobre la importancia de comprar abonos orgánicos para jardinería.
   <!-- feedback: Incorrecto. El fragmento es expositivo-científico y no contiene llamados comerciales de venta. -->
 - [ ] C) Narrar una historia de ficción sobre el origen de las primeras plantas terrestres.
   <!-- feedback: Incorrecto. No hay estructura narrativa ni personajes ficcionales en el texto. -->
@@ -57,9 +57,9 @@ La función principal del texto expositivo es transmitir conocimiento de manera 
 ¿Qué conector o marcador textual señala la relación de contraste en el fragmento?
 
 ### Opciones
-- [x] A) "A diferencia de"
+- [x] B) "A diferencia de"
   <!-- feedback: Correcto. La locución conjuntiva "A diferencia de" introduce explícitamente una comparación por oposición entre dos elementos. -->
-- [ ] B) "que contaban con"
+- [ ] A) "que contaban con"
   <!-- feedback: Incorrecto. Es una proposición subordinada adjetiva que describe a las ciudades costeras. -->
 - [ ] C) "enclavadas en"
   <!-- feedback: Incorrecto. Es un sintagma verbal circunstancial de lugar. -->
@@ -80,11 +80,11 @@ Los conectores de contraste en los textos expositivos permiten comparar categor�
 ¿Qué relación lógica establece el conector "Sin embargo" entre las dos oraciones?
 
 ### Opciones
-- [x] A) Introduce una objeción o restricción que diferencia el fenómeno natural de la alteración humana.
+- [x] C) Introduce una objeción o restricción que diferencia el fenómeno natural de la alteración humana.
   <!-- feedback: Correcto. "Sin embargo" contrapone la condición natural del efecto invernadero con su distorsión antrópica industrial. -->
-- [ ] B) Señala la causa directa por la cual surgieron los gases atmosféricos originales.
+- [ ] A) Señala la causa directa por la cual surgieron los gases atmosféricos originales.
   <!-- feedback: Incorrecto. Los conectores causales son "porque", "debido a", entre otros; "Sin embargo" es adversativo. -->
-- [ ] C) Enumera en orden cronológico los descubrimientos de los ecólogos del siglo XX.
+- [ ] B) Enumera en orden cronológico los descubrimientos de los ecólogos del siglo XX.
   <!-- feedback: Incorrecto. No es un conector temporal ni de ordenamiento secuencial. -->
 - [ ] D) Concluye que el efecto invernadero desapareció por completo gracias a la industria.
   <!-- feedback: Incorrecto. El conector no indica conclusión ni eliminación del fenómeno, sino una agravación problemática. -->
@@ -103,11 +103,11 @@ Los conectores adversativos como "Sin embargo" restringen la afirmación previa 
 La expresión "Esto significa que" cumple la función textual de:
 
 ### Opciones
-- [x] A) Aclarar o reformular conceptualmente el término técnico "estratovolcán" para facilitar su comprensión.
+- [x] C) Aclarar o reformular conceptualmente el término técnico "estratovolcán" para facilitar su comprensión.
   <!-- feedback: Correcto. Los marcadores de reformulación explicativa traducen términos especializados al lenguaje comprensible. -->
-- [ ] B) Desmentir la clasificación del Ruiz como un volcán activo en la cordillera Central.
+- [ ] A) Desmentir la clasificación del Ruiz como un volcán activo en la cordillera Central.
   <!-- feedback: Incorrecto. El texto confirma y explica la clasificación, no la invalida. -->
-- [ ] C) Presentar una opinión política sobre el presupuesto de gestión del riesgo.
+- [ ] B) Presentar una opinión política sobre el presupuesto de gestión del riesgo.
   <!-- feedback: Incorrecto. El texto es de carácter estrictamente vulcanológico y no de debate presupuestal. -->
 - [ ] D) Cambiar repentinamente de tema hacia la botánica de la zona andina.
   <!-- feedback: Incorrecto. Mantiene el hilo temático profundizando en la estructura del volcán. -->
@@ -126,11 +126,11 @@ Los organizadores explicativos en la divulgación científica permiten desempaqu
 ¿Cuál es el principio de organización de la información predominante en este texto expositivo?
 
 ### Opciones
-- [x] A) Una secuencia cronológica que detalla la evolución temporal del campo tecnológico.
+- [x] C) Una secuencia cronológica que detalla la evolución temporal del campo tecnológico.
   <!-- feedback: Correcto. El ordenamiento por fechas sucesivas demuestra una estructura explicativa lineal y evolutiva. -->
-- [ ] B) Una jerarquía de causa y efecto que atribuye las crisis económicas a las computadoras.
+- [ ] A) Una jerarquía de causa y efecto que atribuye las crisis económicas a las computadoras.
   <!-- feedback: Incorrecto. La estructura es un recorrido de hitos históricos por décadas y no un modelo de causa económica. -->
-- [ ] C) Una clasificación por regiones geográficas donde se fabrican los dispositivos.
+- [ ] B) Una clasificación por regiones geográficas donde se fabrican los dispositivos.
   <!-- feedback: Incorrecto. El criterio de división es temporal (años) y no espacial o biogeográfico. -->
 - [ ] D) Un diálogo ficticio entre dos científicos de épocas distintas.
   <!-- feedback: Incorrecto. El formato es una enumeración expositiva secuencial y no un texto dramático o dialógico. -->
@@ -149,11 +149,11 @@ Reconocer los modelos organizativos de los textos expositivos (secuencia cronol�
 El distanciamiento del autor mediante el uso de un lenguaje neutro busca:
 
 ### Opciones
-- [x] A) Preservar la objetividad discursiva propia de los textos informativos para que la evidencia hable por sí misma.
+- [x] C) Preservar la objetividad discursiva propia de los textos informativos para que la evidencia hable por sí misma.
   <!-- feedback: Correcto. Evitar juicios de valor adjetivados fortalece el rigor técnico y la imparcialidad del escrito expositivo. -->
-- [ ] B) Ocultar que los ríos colombianos están sufriendo problemas de contaminación.
+- [ ] A) Ocultar que los ríos colombianos están sufriendo problemas de contaminación.
   <!-- feedback: Incorrecto. El texto expone el problema con datos y mapas, pero prescinde del sensacionalismo. -->
-- [ ] C) Demostrar que los biólogos carecen de opinión sobre el medio ambiente.
+- [ ] B) Demostrar que los biólogos carecen de opinión sobre el medio ambiente.
   <!-- feedback: Incorrecto. Citar a los expertos aporta autoridad científica sin caer en descalificaciones emotivas. -->
 - [ ] D) Reducir la extensión del texto para ahorrar papel en la imprenta.
   <!-- feedback: Incorrecto. La neutralidad estilística obedece a criterios de rigor periodístico-científico y no a espacio. -->
@@ -172,11 +172,11 @@ La objetividad en los textos expositivos e informativos se logra mediante la den
 A partir del texto, se deduce lógicamente que si la temperatura ambiental cae drásticamente, un anfibio:
 
 ### Opciones
-- [x] A) Experimentará un descenso paralelo en su temperatura corporal al no poder autorregularla internamente.
+- [x] C) Experimentará un descenso paralelo en su temperatura corporal al no poder autorregularla internamente.
   <!-- feedback: Correcto. Al ser ectotérmicos (dependientes del entorno), la disminución del calor ambiental afecta directamente su temperatura biológica. -->
-- [ ] B) Encenderá su sistema circulatorio interno para mantener el cuerpo caliente automáticamente.
+- [ ] A) Encenderá su sistema circulatorio interno para mantener el cuerpo caliente automáticamente.
   <!-- feedback: Incorrecto. El texto aclara que no producen calor interno autorregulado como los endotermos. -->
-- [ ] C) Se transformará de inmediato en un mamífero de sangre caliente.
+- [ ] B) Se transformará de inmediato en un mamífero de sangre caliente.
   <!-- feedback: Incorrecto. Es una deducción biológicamente absurda que contradice la definición del taxón. -->
 - [ ] D) Dejará de requerir radiación solar por el resto de su vida.
   <!-- feedback: Incorrecto. Requiere justamente de fuentes externas para regular su temperatura. -->
@@ -195,9 +195,9 @@ La extracción de inferencias directas a partir de definiciones expositivas eval
 ¿Cuál es la matriz organizativa que vincula conceptualmente los tres párrafos?
 
 ### Opciones
-- [x] A) Problema - Causa/Efecto - Solución.
+- [x] B) Problema - Causa/Efecto - Solución.
   <!-- feedback: Correcto. Se plantea una problemática (pérdida de mano de obra), su impacto (menor cultivo) y las medidas para resolverla. -->
-- [ ] B) Tesis argumentativa - Contraargumento - Conclusión filosófica.
+- [ ] A) Tesis argumentativa - Contraargumento - Conclusión filosófica.
   <!-- feedback: Incorrecto. No se trata de un debate ideológico de opinión sino de un diagnóstico de dinámica agropecuaria. -->
 - [ ] C) Narración cronológica de una leyenda boyacense.
   <!-- feedback: Incorrecto. El contenido es socioeconómico expositivo y no una historia mitológica. -->
@@ -218,9 +218,9 @@ El esquema problema-solución es una de las estructuras organizativas más comun
 El uso de la analogía de la "llave que abre las puertas" tiene la función pedagógica de:
 
 ### Opciones
-- [x] A) Facilitar la comprensión de un proceso bioquímico complejo mediante una imagen de la vida cotidiana.
+- [x] B) Facilitar la comprensión de un proceso bioquímico complejo mediante una imagen de la vida cotidiana.
   <!-- feedback: Correcto. Las analogías en textos de divulgación médica permiten visibilizar mecanismos microscópicos mediante comparaciones sencillas. -->
-- [ ] B) Demostrar que las células están fabricadas con cerrojos de metal.
+- [ ] A) Demostrar que las células están fabricadas con cerrojos de metal.
   <!-- feedback: Incorrecto. Es una metáfora didáctica y no una afirmación anatómica literal sobre las células. -->
 - [ ] C) Vender llaves y cerraduras para puertas de laboratorios.
   <!-- feedback: Incorrecto. No es publicidad de cerrajería sino divulgación de la fisiología del metabolismo. -->
@@ -241,13 +241,13 @@ Las analogías y metáforas explicativas son herramientas didácticas fundamenta
 Para garantizar la objetividad del texto expositivo, el autor debe evitar incluir:
 
 ### Opciones
-- [x] A) Juicios de valor apasionados sobre cuál de los fundadores era "más simpático" o "mejor persona".
+- [x] D) Juicios de valor apasionados sobre cuál de los fundadores era "más simpático" o "mejor persona".
   <!-- feedback: Correcto. La subjetividad y las simpatías personales distorsionan el carácter informativo de la historiografía. -->
-- [ ] B) Las fechas exactas de inauguración de las primeras rutas aéreas.
+- [ ] A) Las fechas exactas de inauguración de las primeras rutas aéreas.
   <!-- feedback: Incorrecto. Las fechas precisas son datos empíricos indispensables para la cronología informativa. -->
-- [ ] C) Los nombres de las ciudades costeras involucradas en el proyecto.
+- [ ] B) Los nombres de las ciudades costeras involucradas en el proyecto.
   <!-- feedback: Incorrecto. El marco geográfico es un elemento denotativo indispensable para contextualizar. -->
-- [ ] D) Las cifras sobre el número de pasajeros transportados en los primeros años.
+- [ ] C) Las cifras sobre el número de pasajeros transportados en los primeros años.
   <!-- feedback: Incorrecto. Los datos cuantitativos sustentan la reconstrucción objetiva del proceso histórico. -->
 
 ### Explicacion Pedagogica
@@ -264,11 +264,11 @@ El rigor discursivo de la historiografía expositiva requiere purgar opiniones s
 Al comparar ambos textos expositivos, se puede afirmar que:
 
 ### Opciones
-- [x] A) Cada texto selecciona y expone aspectos de la realidad alineados con su enfoque disciplinar (económico vs. ambiental).
+- [x] C) Cada texto selecciona y expone aspectos de la realidad alineados con su enfoque disciplinar (económico vs. ambiental).
   <!-- feedback: Correcto. Los textos expositivos no son neutros en su recorte temático; cada disciplina prioriza las variables que estudia. -->
-- [ ] B) El Texto A miente deliberadamente y el Texto B presenta datos puramente inventados.
+- [ ] A) El Texto A miente deliberadamente y el Texto B presenta datos puramente inventados.
   <!-- feedback: Incorrecto. Ambos pueden presentar datos reales dentro de sus respectivos campos de análisis sin ser falsos. -->
-- [ ] C) Ambos textos son idénticos en sus conclusiones sobre el impacto social de la minería.
+- [ ] B) Ambos textos son idénticos en sus conclusiones sobre el impacto social de la minería.
   <!-- feedback: Incorrecto. Un enfoque enfatiza los ingresos financieros y el otro el deterioro de los ecosistemas. -->
 - [ ] D) El Texto B es un cuento de literatura fantástica y el Texto A es un poema.
   <!-- feedback: Incorrecto. Ambos son textos expositivos/informativos académicos en sus áreas respectivas. -->
@@ -287,11 +287,11 @@ La lectura crítica comparativa de textos expositivos permite identificar cómo 
 ¿Cuál es la limitación conceptual de esta analogía militar al aplicarla a la biología celular?
 
 ### Opciones
-- [x] A) Atribuir intencionalidad y estrategia consciente ("generales", "armas") a procesos químicos automatizados sin cerebro.
+- [x] C) Atribuir intencionalidad y estrategia consciente ("generales", "armas") a procesos químicos automatizados sin cerebro.
   <!-- feedback: Correcto. Aunque didáctica, la analogía antropomorfiza procesos moleculares que responden a leyes químicas no conscientes. -->
-- [ ] B) Demostrar que los linfocitos T usan uniformes de combate dentro de la sangre.
+- [ ] A) Demostrar que los linfocitos T usan uniformes de combate dentro de la sangre.
   <!-- feedback: Incorrecto. Es evidente que la analogía no implica ropa física; el sesgo es atribuir estrategia consciente. -->
-- [ ] C) Afirmar de forma errónea que las bacterias son organismos vivos.
+- [ ] B) Afirmar de forma errónea que las bacterias son organismos vivos.
   <!-- feedback: Incorrecto. Las bacterias son efectivamente organismos vivos; eso no es una falla de la analogía. -->
 - [ ] D) Sugerir que el cuerpo humano carece de mecanismos de defensa natural.
   <!-- feedback: Incorrecto. La analogía busca explicar la defensa y no negarla. -->
@@ -310,9 +310,9 @@ Analizar críticamente las analogías en divulgación científica implica recono
 Del texto se infiere que las campañas de estigmatización sanitaria contra la chicha estuvieron motivadas por:
 
 ### Opciones
-- [x] A) Intereses comerciales e industriales para desplazar una bebida tradicional y posicionar la cerveza en el mercado.
+- [x] B) Intereses comerciales e industriales para desplazar una bebida tradicional y posicionar la cerveza en el mercado.
   <!-- feedback: Correcto. El texto vincula la estigmatización del producto ancestral con el surgimiento de la competencia industrial cervecera. -->
-- [ ] B) Un descubrimiento neurocientífico que probó que la chicha destruía el cerebro en 24 horas.
+- [ ] A) Un descubrimiento neurocientífico que probó que la chicha destruía el cerebro en 24 horas.
   <!-- feedback: Incorrecto. El texto señala el origen económico/industrial de las campañas y no un hallazgo científico riguroso. -->
 - [ ] C) La prohibición total del consumo de alimentos en la Bogotá del siglo XX.
   <!-- feedback: Incorrecto. No se prohibieron todos los alimentos sino que se persiguió a una bebida específica. -->
@@ -333,9 +333,9 @@ La inferencia de relaciones socio-históricas en textos explicativos exige conec
 El texto evidencia una falla de coherencia discursiva porque:
 
 ### Opciones
-- [x] A) Incurre en una contradicción entre el triunfalismo absoluto de la introducción y la postura cautelosa de las conclusiones.
+- [x] B) Incurre en una contradicción entre el triunfalismo absoluto de la introducción y la postura cautelosa de las conclusiones.
   <!-- feedback: Correcto. Sostener la solución total inicial y luego afirmar la incertidumbre quebranta el principio de consistencia expositiva. -->
-- [ ] B) Utiliza una tipografía diferente en los párrafos centrales de la hoja.
+- [ ] A) Utiliza una tipografía diferente en los párrafos centrales de la hoja.
   <!-- feedback: Incorrecto. La incoherencia es conceptual y de contenido, no un detalle de formato tipográfico. -->
 - [ ] C) Fue escrito en idioma español por analistas de tecnología.
   <!-- feedback: Incorrecto. El idioma no genera contradicciones discursivas. -->
@@ -356,9 +356,9 @@ Evaluar la coherencia global de un texto expositivo implica verificar la consist
 ¿Cuál es la razón física que explica por qué los neutrinos atraviesan la materia sin ser percibidos?
 
 ### Opciones
-- [x] A) Su masa casi nula y su ausencia de carga eléctrica, lo que minimiza su interacción con otros átomos.
+- [x] B) Su masa casi nula y su ausencia de carga eléctrica, lo que minimiza su interacción con otros átomos.
   <!-- feedback: Correcto. El texto expone explícitamente que la falta de carga y la diminuta masa son la causa de la bajísima interacción. -->
-- [ ] B) El hecho de que viajen exclusivamente a través de la luz solar visible.
+- [ ] A) El hecho de que viajen exclusivamente a través de la luz solar visible.
   <!-- feedback: Incorrecto. El texto no menciona la luz visible como requisito de tránsito de los neutrinos. -->
 - [ ] C) Su capacidad para convertirse en células de piel humana al entrar en contacto con el cuerpo.
   <!-- feedback: Incorrecto. Los neutrinos son partículas subatómicas elementales y no se transforman en células vivas. -->
@@ -402,11 +402,11 @@ Identificar la estructura deductiva en textos de salud y nutrición permite comp
 Al evaluar la fiabilidad de la divulgación del blog frente a la fuente original, se concluye que el blog:
 
 ### Opciones
-- [x] A) Incurrió en una distorsión sensacionalista que tergiversó la muestra, la población objeto y la magnitud de los resultados.
+- [x] C) Incurrió en una distorsión sensacionalista que tergiversó la muestra, la población objeto y la magnitud de los resultados.
   <!-- feedback: Correcto. Transformar un test espacial breve en adultos en un aumento masivo de IQ en recién nacidos destruye la verdad científica. -->
-- [ ] B) Resumió con impecable rigor académico las conclusiones de los investigadores.
+- [ ] A) Resumió con impecable rigor académico las conclusiones de los investigadores.
   <!-- feedback: Incorrecto. La exageración y alteración de datos es la antítesis del rigor científico. -->
-- [ ] C) Demostró que la música clásica debe ser prohibida en los hospitales infantiles.
+- [ ] B) Demostró que la música clásica debe ser prohibida en los hospitales infantiles.
   <!-- feedback: Incorrecto. El estudio no evaluó perjuicios sino que el blog exageró los supuestos beneficios. -->
 - [ ] D) Formuló una nueva teoría de la física de partículas avalada por la UNESCO.
   <!-- feedback: Incorrecto. Es un tema de psicología cognitiva/neurociencia distorsionado por un blog no riguroso. -->
@@ -425,11 +425,11 @@ La evaluación crítica de la divulgación científica exige contrastar los titu
 ¿Por qué el uso de múltiples variables (cobertura, temperatura, acidez) otorga mayor validez al informe explicativo?
 
 ### Opciones
-- [x] A) Porque ofrece una visión sistémica y multicausal del deterioro ecológico, evitando explicaciones reduccionistas.
+- [x] C) Porque ofrece una visión sistémica y multicausal del deterioro ecológico, evitando explicaciones reduccionistas.
   <!-- feedback: Correcto. La salud ambiental de los arrecifes depende de múltiples factores integrados; analizarlos juntos da rigor técnico al diagnóstico. -->
-- [ ] B) Porque confunde deliberadamente al lector para que no pueda entender los datos.
+- [ ] A) Porque confunde deliberadamente al lector para que no pueda entender los datos.
   <!-- feedback: Incorrecto. La complejidad metodológica busca precisión explicativa y no confusión intencional. -->
-- [ ] C) Porque garantiza que el gobierno apruebe de inmediato nuevas licencias de pesca arrastre.
+- [ ] B) Porque garantiza que el gobierno apruebe de inmediato nuevas licencias de pesca arrastre.
   <!-- feedback: Incorrecto. El informe alerta sobre el deterioro y no busca promover la pesca destructiva. -->
 - [ ] D) Porque demuestra que los arrecifes de coral no necesitan agua para sobrevivir.
   <!-- feedback: Incorrecto. Es una afirmación biológicamente falsa; el agua y sus condiciones son vitales para el coral. -->
@@ -471,13 +471,13 @@ Evaluar los sesgos de omisión en textos expositivos históricos permite recuper
 ¿Cuál es la principal restricción pedagógica de este enfoque explicativo individualista en la enseñanza de la historia?
 
 ### Opciones
-- [x] A) Reduce un proceso social e histórico complejo a la voluntad heroica de unos pocos individuos, impidiendo comprender las causas estructurales.
+- [x] D) Reduce un proceso social e histórico complejo a la voluntad heroica de unos pocos individuos, impidiendo comprender las causas estructurales.
   <!-- feedback: Correcto. Explicar la historia solo a través de la "Gran Manera" o biografías individuales oculta los movimientos populares y factores económicos. -->
-- [ ] B) Facilita que los estudiantes aprendan las fechas exactas de las batallas con mayor velocidad.
+- [ ] A) Facilita que los estudiantes aprendan las fechas exactas de las batallas con mayor velocidad.
   <!-- feedback: Incorrecto. Memorizar fechas no compensa la falta de comprensión de las dinámicas estructurales de la sociedad. -->
-- [ ] C) Demuestra que las comunidades afro e indígenas no existieron durante el siglo XIX.
+- [ ] B) Demuestra que las comunidades afro e indígenas no existieron durante el siglo XIX.
   <!-- feedback: Incorrecto. Las comunidades sí existieron y fueron activas; el libro incurre en un grave sesgo de invisibilización. -->
-- [ ] D) Obliga a los colegios a cambiar los uniformes escolares de los estudiantes.
+- [ ] C) Obliga a los colegios a cambiar los uniformes escolares de los estudiantes.
   <!-- feedback: Incorrecto. El impacto pedagógico atañe al desarrollo del pensamiento histórico y no al vestuario escolar. -->
 
 ### Explicacion Pedagogica

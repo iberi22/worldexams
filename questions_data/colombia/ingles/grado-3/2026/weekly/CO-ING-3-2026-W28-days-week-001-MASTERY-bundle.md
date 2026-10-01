@@ -56,11 +56,11 @@ The word 'accommodation' is used to describe a place where you live or stay on h
 What is the English word for: "A detailed plan or route of a journey."
 
 ### Opciones
-- [x] A) itinerary
+- [x] C) itinerary
   <!-- feedback: Correct! 'itinerary' matches the definition. -->
-- [ ] B) baggage
+- [ ] A) baggage
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) destination
+- [ ] B) destination
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) passport
   <!-- feedback: Incorrect. Try again. -->
@@ -79,11 +79,11 @@ The word 'itinerary' is used to describe a detailed plan or route of a journey. 
 What is the English word for: "The place to which someone or something is going or being sent."
 
 ### Opciones
-- [x] A) destination
+- [x] C) destination
   <!-- feedback: Correct! 'destination' matches the definition. -->
-- [ ] B) departure
+- [ ] A) departure
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) arrival
+- [ ] B) arrival
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) journey
   <!-- feedback: Incorrect. Try again. -->
@@ -125,13 +125,13 @@ The word 'luggage' is used to describe suitcases or other bags in which to pack 
 What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
 
 ### Opciones
-- [x] A) passenger
+- [x] D) passenger
   <!-- feedback: Correct! 'passenger' matches the definition. -->
-- [ ] B) pedestrian
+- [ ] A) pedestrian
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) commuter
+- [ ] B) commuter
   <!-- feedback: Incorrect. Try again. -->
-- [ ] D) tourist
+- [ ] C) tourist
   <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica
@@ -148,9 +148,9 @@ The word 'passenger' is used to describe a traveler on a public or private conve
 What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
 
 ### Opciones
-- [x] A) customs
+- [x] B) customs
   <!-- feedback: Correct! 'customs' matches the definition. -->
-- [ ] B) security
+- [ ] A) security
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) terminal
   <!-- feedback: Incorrect. Try again. -->

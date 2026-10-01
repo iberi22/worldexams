@@ -32,9 +32,9 @@ Este bundle de 10 preguntas explica la reproducción sexual y asexual en plantas
 ### Enunciado
 ¿Qué es la polinización en las plantas con flores?
 ### Opciones
-- [x] A) El transporte del polen hasta el estigma para que ocurra la fecundación
+- [x] B) El transporte del polen hasta el estigma para que ocurra la fecundación
   <!-- feedback: Correcto. La polinización lleva el polen al estigma y permite la formación de semillas. -->
-- [ ] B) La caída de las hojas viejas durante el verano
+- [ ] A) La caída de las hojas viejas durante el verano
   <!-- feedback: Incorrecto. La caída de hojas se llama abscisión y no forma semillas. -->
 - [ ] C) La absorción de agua por las raíces profundas
   <!-- feedback: Incorrecto. Las raíces absorben agua, pero eso es nutrición, no polinización. -->
@@ -52,9 +52,9 @@ La polinización es el paso previo a la fecundación: el grano de polen llega al
 ### Enunciado
 ¿Cuál es la diferencia entre la reproducción sexual y la asexual en plantas?
 ### Opciones
-- [x] A) La sexual une células de dos progenitores y da hijos variados, la asexual usa una parte de la planta y da copias idénticas
+- [x] B) La sexual une células de dos progenitores y da hijos variados, la asexual usa una parte de la planta y da copias idénticas
   <!-- feedback: Correcto. La semilla combina información de dos gametos, el esqueje es un clon de la madre. -->
-- [ ] B) La sexual no necesita flores y la asexual siempre necesita semillas
+- [ ] A) La sexual no necesita flores y la asexual siempre necesita semillas
   <!-- feedback: Incorrecto. Es al revés: la sexual forma semillas y la asexual no las necesita. -->
 - [ ] C) La sexual produce copias idénticas y la asexual produce hijos diferentes
   <!-- feedback: Incorrecto. La variación genética ocurre en la reproducción sexual, no en la asexual. -->
@@ -92,9 +92,9 @@ Las abejas son polinizadores: buscan néctar y sin querer llevan polen adherido 
 ### Enunciado
 ¿Por qué el colibrí es un buen polinizador de esas flores tubulares?
 ### Opciones
-- [x] A) Porque su pico largo alcanza el néctar del fondo y su cabeza roza los estambres y el estigma
+- [x] B) Porque su pico largo alcanza el néctar del fondo y su cabeza roza los estambres y el estigma
   <!-- feedback: Correcto. La forma del pico coincide con la flor y el polen viaja en su cabeza. -->
-- [ ] B) Porque el colibrí riega las flores con agua del río
+- [ ] A) Porque el colibrí riega las flores con agua del río
   <!-- feedback: Incorrecto. El colibrí bebe néctar, no transporta agua para regar. -->
 - [ ] C) Porque el colibrí canta y las flores se abren con la música
   <!-- feedback: Incorrecto. Las flores no oyen cantos; la polinización es contacto físico con polen. -->
@@ -112,9 +112,9 @@ Hay coevolución: flores rojas tubulares sin olor atraen colibríes, que ven bie
 ### Enunciado
 ¿Qué tipo de reproducción usa la familia al sembrar trozos de papa?
 ### Opciones
-- [x] A) Reproducción asexual, porque una parte del tallo origina una planta idéntica sin semillas
+- [x] B) Reproducción asexual, porque una parte del tallo origina una planta idéntica sin semillas
   <!-- feedback: Correcto. El tubérculo es un tallo subterráneo y cada ojo genera un clon de la madre. -->
-- [ ] B) Reproducción sexual, porque el tubérculo es una semilla verdadera
+- [ ] A) Reproducción sexual, porque el tubérculo es una semilla verdadera
   <!-- feedback: Incorrecto. El tubérculo no es semilla; no hubo unión de gametos. -->
 - [ ] C) Polinización por el viento, porque la papa florece bajo tierra
   <!-- feedback: Incorrecto. La polinización ocurre en flores aéreas, no en tubérculos enterrados. -->
@@ -132,11 +132,11 @@ La papa, la yuca por estacas y la fresa por estolones son reproducción asexual 
 ### Enunciado
 ¿Qué ventaja analiza la ciencia en esa dispersión por el viento?
 ### Opciones
-- [x] A) Las hijas nacen lejos y no compiten con la madre por luz, agua y espacio
+- [x] C) Las hijas nacen lejos y no compiten con la madre por luz, agua y espacio
   <!-- feedback: Correcto. Dispersarse reduce la competencia y coloniza claros nuevos del páramo. -->
-- [ ] B) Las semillas vuelan para hacer fotosíntesis en el aire
+- [ ] A) Las semillas vuelan para hacer fotosíntesis en el aire
   <!-- feedback: Incorrecto. Las semillas no fotosintetizan volando; viajan para germinar en suelo. -->
-- [ ] C) El viento rompe las semillas para que nazcan dos plantas de cada una
+- [ ] B) El viento rompe las semillas para que nazcan dos plantas de cada una
   <!-- feedback: Incorrecto. El viento transporta, no multiplica ni parte las semillas. -->
 - [ ] D) Los pelillos sirven para que los frailejones respiren mejor
   <!-- feedback: Incorrecto. Los pelillos son estructuras de vuelo, no órganos de respiración. -->
@@ -172,13 +172,13 @@ Analizar variación ayuda a decidir: semilla para crear variedades nuevas resist
 ### Enunciado
 ¿Qué resultado confirma el papel de los polinizadores?
 ### Opciones
-- [x] A) Las embolsadas forman pocos o ningún fruto y las libres forman frutos normales con semillas
+- [x] D) Las embolsadas forman pocos o ningún fruto y las libres forman frutos normales con semillas
   <!-- feedback: Correcto. Sin visitas no llega polen suficiente y el fruto no cuaja. -->
-- [ ] B) Las embolsadas darán más frutos porque la tela las alimenta
+- [ ] A) Las embolsadas darán más frutos porque la tela las alimenta
   <!-- feedback: Incorrecto. La tela no aporta polen ni nutrientes; solo bloquea insectos. -->
-- [ ] C) Ambos grupos darán igual porque el viento riega las plantas
+- [ ] B) Ambos grupos darán igual porque el viento riega las plantas
   <!-- feedback: Incorrecto. Regar no poliniza; la calabaza necesita insectos que muevan polen pesado. -->
-- [ ] D) Las libres morirán porque los insectos se comen toda la planta
+- [ ] C) Las libres morirán porque los insectos se comen toda la planta
   <!-- feedback: Incorrecto. Los polinizadores visitan sin destruir la flor sana. -->
 ### Explicacion Pedagogica
 El experimento aísla una sola variable, la visita de insectos, y demuestra causa y efecto en la formación de frutos.
@@ -192,9 +192,9 @@ El experimento aísla una sola variable, la visita de insectos, y demuestra caus
 ### Enunciado
 ¿Qué juicio combina producción rápida y seguridad frente a una plaga nueva?
 ### Opciones
-- [x] A) Sembrar la mayoría por estaca para cosechar pronto la buena variedad, y un lote por semilla para tener plantas variadas que resistan la plaga
+- [x] B) Sembrar la mayoría por estaca para cosechar pronto la buena variedad, y un lote por semilla para tener plantas variadas que resistan la plaga
   <!-- feedback: Correcto. Combina clonación fiel y rápida con diversidad que protege a futuro. -->
-- [ ] B) Sembrar todo por semilla de una sola planta porque así salen clones idénticos
+- [ ] A) Sembrar todo por semilla de una sola planta porque así salen clones idénticos
   <!-- feedback: Incorrecto. La semilla no clona; además un monocultivo idéntico es vulnerable a plagas. -->
 - [ ] C) No sembrar nada y esperar que el viento traiga café nuevo
   <!-- feedback: Incorrecto. Sin siembra dirigida no hay cosecha predecible ni variedad elegida. -->
@@ -212,9 +212,9 @@ Evaluar exige ponderar velocidad contra diversidad: el clon rinde hoy, la semill
 ### Enunciado
 ¿Qué evaluación de las tres afirmaciones es científicamente correcta?
 ### Opciones
-- [x] A) La 1 es falsa porque muchas germinan solas, la 2 es verdadera y la 3 es verdadera
+- [x] B) La 1 es falsa porque muchas germinan solas, la 2 es verdadera y la 3 es verdadera
   <!-- feedback: Correcto. Solo algunas semillas exigen paso animal; el viento y los animales sí dispersan, y el fragmento clona sin gametos. -->
-- [ ] B) Las tres son verdaderas porque ninguna semilla germina sin animales
+- [ ] A) Las tres son verdaderas porque ninguna semilla germina sin animales
   <!-- feedback: Incorrecto. Frijol, maíz y muchas semillas germinan con solo agua, aire y temperatura. -->
 - [ ] C) Las tres son falsas porque las plantas no se reproducen
   <!-- feedback: Incorrecto. Las plantas se reproducen sexual y asexualmente de forma comprobada. -->

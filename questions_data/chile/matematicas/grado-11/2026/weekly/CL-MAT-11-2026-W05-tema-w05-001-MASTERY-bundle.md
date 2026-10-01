@@ -31,8 +31,8 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) 42 <!-- feedback: Has sumado 12 en lugar de restarlo para despejar la incógnita $x$. -->
-- [x] B) 18 <!-- feedback: Correcto. $30 - 12 = 18$. -->
-- [ ] C) 28 <!-- feedback: Error en el cálculo de la resta básica. -->
+- [x] C) 18 <!-- feedback: Correcto. $30 - 12 = 18$. -->
+- [ ] B) 28 <!-- feedback: Error en el cálculo de la resta básica. -->
 - [ ] D) 20 <!-- feedback: Revisa la operación aritmética de resta. -->
 
 ### Explicacion Pedagogica
@@ -87,8 +87,8 @@ Primero sumamos 8 a ambos lados para aislar el término con la incógnita: $2x =
 "El doble de un número aumentado en 5 es igual a 21". ¿Qué ecuación representa esta frase?
 
 ### Opciones
-- [ ] A) $x^2 + 5 = 21$ <!-- feedback: "Doble" significa multiplicar la variable por 2, no elevarla al cuadrado. -->
-- [x] B) $2x + 5 = 21$ <!-- feedback: Correcto. "Doble de un número" es $2x$ y "aumentado en 5" es $+ 5$. -->
+- [ ] B) $x^2 + 5 = 21$ <!-- feedback: "Doble" significa multiplicar la variable por 2, no elevarla al cuadrado. -->
+- [x] A) $2x + 5 = 21$ <!-- feedback: Correcto. "Doble de un número" es $2x$ y "aumentado en 5" es $+ 5$. -->
 - [ ] C) $2(x + 5) = 21$ <!-- feedback: Esta ecuación representaría "el doble de la suma de un número y 5". -->
 - [ ] D) $x/2 + 5 = 21$ <!-- feedback: Esto representaría la mitad del número en lugar de su doble. -->
 
@@ -107,8 +107,8 @@ Resuelva para $x$: $5x + 3 = 2x + 15$
 
 ### Opciones
 - [ ] A) $x = 6$ <!-- feedback: Error al agrupar los términos semejantes o en la división final por el coeficiente. -->
-- [x] B) $x = 4$ <!-- feedback: $5x - 2x = 15 - 3 \Rightarrow 3x = 12 \Rightarrow x = 4$. -->
-- [ ] C) $x = 2,5$ <!-- feedback: Error aritmético en la resta de los términos constantes de la ecuación. -->
+- [x] C) $x = 4$ <!-- feedback: $5x - 2x = 15 - 3 \Rightarrow 3x = 12 \Rightarrow x = 4$. -->
+- [ ] B) $x = 2,5$ <!-- feedback: Error aritmético en la resta de los términos constantes de la ecuación. -->
 - [ ] D) $x = -4$ <!-- feedback: Error en el manejo de los signos durante la transposición de términos. -->
 
 ### Explicacion Pedagogica
@@ -125,9 +125,9 @@ Agrupamos los términos con $x$ en un lado y los números constantes en el otro.
 ¿Cuál es la solución de $\frac{x}{3} + 4 = 10$?
 
 ### Opciones
-- [ ] A) $x = 2$ <!-- feedback: Error en el orden de los pasos lógicos para el despeje de la incógnita. -->
-- [ ] B) $x = 6$ <!-- feedback: Restaste 4 pero olvidaste multiplicar por 3 el resultado obtenido. -->
-- [x] C) $x = 18$ <!-- feedback: $x/3 = 10 - 4 \Rightarrow x/3 = 6 \Rightarrow x = 6 \cdot 3 = 18$. -->
+- [ ] B) $x = 2$ <!-- feedback: Error en el orden de los pasos lógicos para el despeje de la incógnita. -->
+- [ ] C) $x = 6$ <!-- feedback: Restaste 4 pero olvidaste multiplicar por 3 el resultado obtenido. -->
+- [x] A) $x = 18$ <!-- feedback: $x/3 = 10 - 4 \Rightarrow x/3 = 6 \Rightarrow x = 6 \cdot 3 = 18$. -->
 - [ ] D) $x = 42$ <!-- feedback: Sumaste 4 en lugar de realizar la resta antes de la multiplicación final. -->
 
 ### Explicacion Pedagogica
@@ -183,9 +183,9 @@ Si la pelota de fútbol cuesta \$9.000, ¿cuál es el precio de una pelota de te
 
 ### Opciones
 - [ ] A) \$3.000 <!-- feedback: Error al restar el valor conocido de la pelota de fútbol. -->
-- [x] B) \$2.000 <!-- feedback: $3x + 9.000 = 15.000 \Rightarrow 3x = 6.000 \Rightarrow x = 2.000$. -->
-- [ ] C) \$1.500 <!-- feedback: Error en la división por el coeficiente 3 al final. -->
-- [ ] D) \$4.000 <!-- feedback: Calculaste incorrectamente el saldo restante de la operación. -->
+- [x] D) \$2.000 <!-- feedback: $3x + 9.000 = 15.000 \Rightarrow 3x = 6.000 \Rightarrow x = 2.000$. -->
+- [ ] B) \$1.500 <!-- feedback: Error en la división por el coeficiente 3 al final. -->
+- [ ] C) \$4.000 <!-- feedback: Calculaste incorrectamente el saldo restante de la operación. -->
 
 ### Explicacion Pedagogica
 Planteamos $3t + 9.000 = 15.000$. Restamos el valor de la pelota de fútbol: $3t = 6.000$. Finalmente, dividimos por 3 para obtener el precio de una pelota de tenis: $t = 2.000$.
@@ -203,8 +203,8 @@ Planteamos $3t + 9.000 = 15.000$. Restamos el valor de la pelota de fútbol: $3t
 ### Opciones
 - [ ] A) La solución es $x = 0$. <!-- feedback: Si $x=0$, la igualdad resultante queda como $5=10$, lo cual es falso. -->
 - [ ] B) La solución es $x = 5$. <!-- feedback: Sustituir el valor $x=5$ no cumple con la igualdad planteada. -->
-- [x] C) No tiene solución real. <!-- feedback: Al restar $2x$, queda $5 = 10$, lo cual es una contradicción lógica. -->
-- [ ] D) Tiene infinitas soluciones. <!-- feedback: Esto solo ocurriría si resultara en una identidad como $5=5$. -->
+- [x] D) No tiene solución real. <!-- feedback: Al restar $2x$, queda $5 = 10$, lo cual es una contradicción lógica. -->
+- [ ] C) Tiene infinitas soluciones. <!-- feedback: Esto solo ocurriría si resultara en una identidad como $5=5$. -->
 
 ### Explicacion Pedagogica
 Al intentar agrupar las $x$, restamos $2x$ a ambos lados: $2x - 2x + 5 = 2x - 2x + 10$, lo que resulta en $5 = 10$. Como esto es una contradicción (una falsedad), concluimos que la ecuación no tiene solución.
@@ -221,8 +221,8 @@ Al intentar agrupar las $x$, restamos $2x$ a ambos lados: $2x - 2x + 5 = 2x - 2x
 
 ### Opciones
 - [ ] A) 30 <!-- feedback: Error al manejar el término fraccionario o al despejar la incógnita. -->
-- [x] B) 40 <!-- feedback: $\frac{3}{4}x + 10 = 40 \Rightarrow \frac{3}{4}x = 30 \Rightarrow x = 30 \cdot \frac{4}{3} = 40$. -->
-- [ ] C) 50 <!-- feedback: Error aritmético en el proceso de multiplicación fraccionaria final. -->
+- [x] C) 40 <!-- feedback: $\frac{3}{4}x + 10 = 40 \Rightarrow \frac{3}{4}x = 30 \Rightarrow x = 30 \cdot \frac{4}{3} = 40$. -->
+- [ ] B) 50 <!-- feedback: Error aritmético en el proceso de multiplicación fraccionaria final. -->
 - [ ] D) 60 <!-- feedback: Has multiplicado por un factor incorrecto durante el despeje. -->
 
 ### Explicacion Pedagogica
@@ -241,8 +241,8 @@ Resuelva: $4(x - 2) - 3(x + 1) = 5$
 ### Opciones
 - [ ] A) $x = 8$ <!-- feedback: Error al distribuir el signo negativo en el segundo paréntesis del polinomio. -->
 - [ ] B) $x = 10$ <!-- feedback: Error en la suma final de todos los términos constantes. -->
-- [x] C) $x = 16$ <!-- feedback: $4x - 8 - 3x - 3 = 5 \Rightarrow x - 11 = 5 \Rightarrow x = 16$. -->
-- [ ] D) $x = 12$ <!-- feedback: Error al agrupar adecuadamente los términos que contienen la variable $x$. -->
+- [x] D) $x = 16$ <!-- feedback: $4x - 8 - 3x - 3 = 5 \Rightarrow x - 11 = 5 \Rightarrow x = 16$. -->
+- [ ] C) $x = 12$ <!-- feedback: Error al agrupar adecuadamente los términos que contienen la variable $x$. -->
 
 ### Explicacion Pedagogica
 Distribuimos: $4x - 8 - 3x - 3 = 5$. Agrupamos términos semejantes: $(4x - 3x) + (-8 - 3) = 5$, lo que simplifica a $x - 11 = 5$. Finalmente, sumamos 11 a ambos lados para obtener $x = 16$.
@@ -277,8 +277,8 @@ Llamamos a los números $x$, $x+1$ y $x+2$. Su suma es $3x + 3 = 72$. Restamos 3
 Despeje $x$ en la ecuación $ax + b = c$.
 
 ### Opciones
-- [ ] A) $x = c - b - a$ <!-- feedback: El valor literal $a$ está multiplicando, no realizando una suma. -->
-- [x] B) $x = \frac{c - b}{a}$ <!-- feedback: Restamos $b$ de ambos lados y luego dividimos toda la expresión por $a$. -->
+- [ ] B) $x = c - b - a$ <!-- feedback: El valor literal $a$ está multiplicando, no realizando una suma. -->
+- [x] A) $x = \frac{c - b}{a}$ <!-- feedback: Restamos $b$ de ambos lados y luego dividimos toda la expresión por $a$. -->
 - [ ] C) $x = \frac{c + b}{a}$ <!-- feedback: El signo del valor $b$ debe cambiar al trasponerlo al otro lado de la igualdad. -->
 - [ ] D) $x = a(c - b)$ <!-- feedback: Dividiste por el factor equivocado o realizaste una operación inversa incorrecta. -->
 
@@ -296,8 +296,8 @@ Para despejar $x$, primero restamos $b$ de ambos lados: $ax = c - b$. Luego, com
 Resuelva: $\frac{2}{x} = \frac{5}{x + 6}$
 
 ### Opciones
-- [ ] A) $x = 2$ <!-- feedback: Error al realizar la multiplicación cruzada de las fracciones. -->
-- [x] B) $x = 4$ <!-- feedback: $2(x + 6) = 5x \Rightarrow 2x + 12 = 5x \Rightarrow 12 = 3x \Rightarrow x = 4$. -->
+- [ ] B) $x = 2$ <!-- feedback: Error al realizar la multiplicación cruzada de las fracciones. -->
+- [x] A) $x = 4$ <!-- feedback: $2(x + 6) = 5x \Rightarrow 2x + 12 = 5x \Rightarrow 12 = 3x \Rightarrow x = 4$. -->
 - [ ] C) $x = 6$ <!-- feedback: Error al agrupar los términos resultantes que contienen la variable $x$. -->
 - [ ] D) $x = 3$ <!-- feedback: Error en la división final del proceso de despeje. -->
 
@@ -316,9 +316,9 @@ Multiplicamos cruzado para eliminar los denominadores: $2(x + 6) = 5x$. Distribu
 
 ### Opciones
 - [ ] A) 18 litros <!-- feedback: Error al plantear la igualdad algebraica del problema. -->
-- [x] B) 22,5 litros <!-- feedback: $x - 15 = x/3 \Rightarrow 3x - 45 = x \Rightarrow 2x = 45 \Rightarrow x = 22,5$. -->
-- [ ] C) 30 litros <!-- feedback: Error en el manejo de la fracción durante el despeje. -->
-- [ ] D) 45 litros <!-- feedback: Error aritmético básico en el proceso de despeje de la variable. -->
+- [x] D) 22,5 litros <!-- feedback: $x - 15 = x/3 \Rightarrow 3x - 45 = x \Rightarrow 2x = 45 \Rightarrow x = 22,5$. -->
+- [ ] B) 30 litros <!-- feedback: Error en el manejo de la fracción durante el despeje. -->
+- [ ] C) 45 litros <!-- feedback: Error aritmético básico en el proceso de despeje de la variable. -->
 
 ### Explicacion Pedagogica
 Sea $x$ la cantidad inicial. La ecuación es $x - 15 = x/3$. Multiplicamos todo por 3 para eliminar la fracción: $3x - 45 = x$. Restamos $x$ y sumamos 45: $2x = 45$. Dividimos por 2: $x = 22,5$ litros.
@@ -335,8 +335,8 @@ Sea $x$ la cantidad inicial. La ecuación es $x - 15 = x/3$. Multiplicamos todo 
 
 ### Opciones
 - [ ] A) Solo $x = 11$ <!-- feedback: El valor absoluto siempre genera dos posibles escenarios lógicos (positivo y negativo). -->
-- [ ] B) $x = 11$ y $x = 3$ <!-- feedback: Error en el cálculo de la segunda solución posible. -->
-- [x] C) $x = 11$ y $x = -3$ <!-- feedback: $x-4=7 \Rightarrow 11$; $x-4=-7 \Rightarrow -3$. -->
+- [ ] C) $x = 11$ y $x = 3$ <!-- feedback: Error en el cálculo de la segunda solución posible. -->
+- [x] B) $x = 11$ y $x = -3$ <!-- feedback: $x-4=7 \Rightarrow 11$; $x-4=-7 \Rightarrow -3$. -->
 - [ ] D) $x = -11$ y $x = 3$ <!-- feedback: Invertiste incorrectamente los signos de las soluciones finales. -->
 
 ### Explicacion Pedagogica
@@ -373,8 +373,8 @@ Multiplicamos todo por $(x-2)$: $x = 2 + 5(x-2)$. Expandimos: $x = 2 + 5x - 10 \
 
 ### Opciones
 - [ ] A) $x = 3$ <!-- feedback: El valor $27$ es $3^3$, pero recuerda que la potencia es de la forma $x+1$. -->
-- [x] B) $x = 2$ <!-- feedback: $x+1 = 3 \Rightarrow x = 2$. -->
-- [ ] C) $x = 1$ <!-- feedback: Error al realizar la igualdad de los exponentes de las potencias. -->
+- [x] C) $x = 2$ <!-- feedback: $x+1 = 3 \Rightarrow x = 2$. -->
+- [ ] B) $x = 1$ <!-- feedback: Error al realizar la igualdad de los exponentes de las potencias. -->
 - [ ] D) $x = 9$ <!-- feedback: Confundiste el valor de la base con el del exponente durante el cálculo. -->
 
 ### Explicacion Pedagogica

@@ -32,11 +32,11 @@ creador: "Jules-Agent"
 Examina el siguiente fragmento: En su ensayo de Grado 11, Gabriela afirma: 'La educación digital es el único motor capaz de reducir la brecha social en El Salvador'. ¿Qué recurso o elemento discursivo formal se está aplicando?
 
 ### Opciones
-- [x] A) El uso de tesis argumentativa.
+- [x] C) El uso de tesis argumentativa.
   <!-- feedback: ¡Correcto! Aplica tesis argumentativa porque se centra en postular una afirmación categórica que defiende la postura ideológica del autor. -->
-- [ ] B) Una descripción prosopográfica de un personaje ficticio.
+- [ ] A) Una descripción prosopográfica de un personaje ficticio.
   <!-- feedback: Incorrecto. No se describen rasgos físicos, se analiza la estructura de un texto. -->
-- [ ] C) La función fática de apertura del canal de voz.
+- [ ] B) La función fática de apertura del canal de voz.
   <!-- feedback: Incorrecto. No se trata de un canal acústico, sino del análisis de un argumento. -->
 - [ ] D) La métrica alejandrina de Francisco Gavidia.
   <!-- feedback: Incorrecto. El texto está en prosa escolar o periodística, no en verso modernista. -->
@@ -58,9 +58,9 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 Examina el siguiente fragmento: Un folleto informativo de la alcaldía de Santa Tecla explica en lenguaje sencillo los pasos para pagar los impuestos municipales de comercio. ¿Qué recurso o elemento discursivo formal se está aplicando?
 
 ### Opciones
-- [x] A) El uso de exposición divulgativa.
+- [x] B) El uso de exposición divulgativa.
   <!-- feedback: ¡Correcto! Aplica exposición divulgativa porque se centra en informar de forma clara, amena y accesible a un público amplio no especializado en la materia. -->
-- [ ] B) Una descripción prosopográfica de un personaje ficticio.
+- [ ] A) Una descripción prosopográfica de un personaje ficticio.
   <!-- feedback: Incorrecto. No se describen rasgos físicos, se analiza la estructura de un texto. -->
 - [ ] C) La función fática de apertura del canal de voz.
   <!-- feedback: Incorrecto. No se trata de un canal acústico, sino del análisis de un argumento. -->
@@ -84,11 +84,11 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 Examina el siguiente fragmento: Un texto de opinión presenta una tesis clara, luego tres razonamientos lógicos con evidencias y una conclusión que resume la postura. ¿Qué recurso o elemento discursivo formal se está aplicando?
 
 ### Opciones
-- [x] A) El uso de estructura argumentativa tripartita.
+- [x] C) El uso de estructura argumentativa tripartita.
   <!-- feedback: ¡Correcto! Aplica estructura argumentativa tripartita porque se centra en organizar lógicamente las ideas en introducción (tesis), desarrollo (argumentos) y conclusión. -->
-- [ ] B) Una descripción prosopográfica de un personaje ficticio.
+- [ ] A) Una descripción prosopográfica de un personaje ficticio.
   <!-- feedback: Incorrecto. No se describen rasgos físicos, se analiza la estructura de un texto. -->
-- [ ] C) La función fática de apertura del canal de voz.
+- [ ] B) La función fática de apertura del canal de voz.
   <!-- feedback: Incorrecto. No se trata de un canal acústico, sino del análisis de un argumento. -->
 - [ ] D) La métrica alejandrina de Francisco Gavidia.
   <!-- feedback: Incorrecto. El texto está en prosa escolar o periodística, no en verso modernista. -->
@@ -110,13 +110,13 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 Examina el siguiente fragmento: En un debate sobre salud escolar, Carlos cita un estudio oficial de la Organización Mundial de la Salud (OMS) para sostener su tesis. ¿Qué recurso o elemento discursivo formal se está aplicando?
 
 ### Opciones
-- [x] A) El uso de argumento de autoridad.
+- [x] D) El uso de argumento de autoridad.
   <!-- feedback: ¡Correcto! Aplica argumento de autoridad porque se centra en citar el respaldo técnico de una institución, autor o experto de gran renombre y prestigio. -->
-- [ ] B) Una descripción prosopográfica de un personaje ficticio.
+- [ ] A) Una descripción prosopográfica de un personaje ficticio.
   <!-- feedback: Incorrecto. No se describen rasgos físicos, se analiza la estructura de un texto. -->
-- [ ] C) La función fática de apertura del canal de voz.
+- [ ] B) La función fática de apertura del canal de voz.
   <!-- feedback: Incorrecto. No se trata de un canal acústico, sino del análisis de un argumento. -->
-- [ ] D) La métrica alejandrina de Francisco Gavidia.
+- [ ] C) La métrica alejandrina de Francisco Gavidia.
   <!-- feedback: Incorrecto. El texto está en prosa escolar o periodística, no en verso modernista. -->
 
 ### Explicación Pedagógica
@@ -136,13 +136,13 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 Examina el siguiente fragmento: Para defender el cuidado ambiental, José escribe: 'Así como cuidamos nuestra casa familiar, debemos cuidar nuestro planeta, hogar de todos'. ¿Qué recurso o elemento discursivo formal se está aplicando?
 
 ### Opciones
-- [x] A) El uso de argumento por analogía.
+- [x] D) El uso de argumento por analogía.
   <!-- feedback: ¡Correcto! Aplica argumento por analogía porque se centra en establecer una comparación paralela entre dos situaciones similares para convencer al receptor. -->
-- [ ] B) Una descripción prosopográfica de un personaje ficticio.
+- [ ] A) Una descripción prosopográfica de un personaje ficticio.
   <!-- feedback: Incorrecto. No se describen rasgos físicos, se analiza la estructura de un texto. -->
-- [ ] C) La función fática de apertura del canal de voz.
+- [ ] B) La función fática de apertura del canal de voz.
   <!-- feedback: Incorrecto. No se trata de un canal acústico, sino del análisis de un argumento. -->
-- [ ] D) La métrica alejandrina de Francisco Gavidia.
+- [ ] C) La métrica alejandrina de Francisco Gavidia.
   <!-- feedback: Incorrecto. El texto está en prosa escolar o periodística, no en verso modernista. -->
 
 ### Explicación Pedagógica
@@ -188,13 +188,13 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 Examina el siguiente fragmento: Un texto concluye: 'Fui a un restaurante en Ahuachapán y la comida estaba fría; por lo tanto, toda la gastronomía del departamento es mala'. ¿Qué recurso o elemento discursivo formal se está aplicando?
 
 ### Opciones
-- [x] A) El uso de falacia de generalización apresurada.
+- [x] D) El uso de falacia de generalización apresurada.
   <!-- feedback: ¡Correcto! Aplica falacia de generalización apresurada porque se centra en extraer una regla universal falsa a partir de un solo caso aislado o muestra insuficiente de datos. -->
-- [ ] B) Una descripción prosopográfica de un personaje ficticio.
+- [ ] A) Una descripción prosopográfica de un personaje ficticio.
   <!-- feedback: Incorrecto. No se describen rasgos físicos, se analiza la estructura de un texto. -->
-- [ ] C) La función fática de apertura del canal de voz.
+- [ ] B) La función fática de apertura del canal de voz.
   <!-- feedback: Incorrecto. No se trata de un canal acústico, sino del análisis de un argumento. -->
-- [ ] D) La métrica alejandrina de Francisco Gavidia.
+- [ ] C) La métrica alejandrina de Francisco Gavidia.
   <!-- feedback: Incorrecto. El texto está en prosa escolar o periodística, no en verso modernista. -->
 
 ### Explicación Pedagógica
@@ -214,13 +214,13 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 Examina el siguiente fragmento: Un artículo describe primero varios casos particulares de emprendimientos en San Salvador para concluir explicando el concepto general de resiliencia. ¿Qué recurso o elemento discursivo formal se está aplicando?
 
 ### Opciones
-- [x] A) El uso de estructura expositiva inductiva.
+- [x] D) El uso de estructura expositiva inductiva.
   <!-- feedback: ¡Correcto! Aplica estructura expositiva inductiva porque se centra en partir de observaciones particulares para deducir una ley o concepto general al final del escrito. -->
-- [ ] B) Una descripción prosopográfica de un personaje ficticio.
+- [ ] A) Una descripción prosopográfica de un personaje ficticio.
   <!-- feedback: Incorrecto. No se describen rasgos físicos, se analiza la estructura de un texto. -->
-- [ ] C) La función fática de apertura del canal de voz.
+- [ ] B) La función fática de apertura del canal de voz.
   <!-- feedback: Incorrecto. No se trata de un canal acústico, sino del análisis de un argumento. -->
-- [ ] D) La métrica alejandrina de Francisco Gavidia.
+- [ ] C) La métrica alejandrina de Francisco Gavidia.
   <!-- feedback: Incorrecto. El texto está en prosa escolar o periodística, no en verso modernista. -->
 
 ### Explicación Pedagógica
@@ -266,13 +266,13 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 Examina el siguiente fragmento: En su ensayo, Fátima presenta una objeción de sus oponentes sobre el uso del uniforme escolar y la desmonta con lógica pedagógica. ¿Qué recurso o elemento discursivo formal se está aplicando?
 
 ### Opciones
-- [x] A) El uso de contraargumentación.
+- [x] D) El uso de contraargumentación.
   <!-- feedback: ¡Correcto! Aplica contraargumentación porque se centra en anticipar y neutralizar las objeciones contrarias para fortalecer la validez de la tesis propia. -->
-- [ ] B) Una descripción prosopográfica de un personaje ficticio.
+- [ ] A) Una descripción prosopográfica de un personaje ficticio.
   <!-- feedback: Incorrecto. No se describen rasgos físicos, se analiza la estructura de un texto. -->
-- [ ] C) La función fática de apertura del canal de voz.
+- [ ] B) La función fática de apertura del canal de voz.
   <!-- feedback: Incorrecto. No se trata de un canal acústico, sino del análisis de un argumento. -->
-- [ ] D) La métrica alejandrina de Francisco Gavidia.
+- [ ] C) La métrica alejandrina de Francisco Gavidia.
   <!-- feedback: Incorrecto. El texto está en prosa escolar o periodística, no en verso modernista. -->
 
 ### Explicación Pedagógica
@@ -318,9 +318,9 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 Examina el siguiente fragmento: Un columnista salvadoreño escribe un texto firmado donde opina libremente sobre el impacto estético de la arquitectura moderna en San Salvador. ¿Qué recurso o elemento discursivo formal se está aplicando?
 
 ### Opciones
-- [x] A) El uso de ensayo de opinión.
+- [x] B) El uso de ensayo de opinión.
   <!-- feedback: ¡Correcto! Aplica ensayo de opinión porque se centra en presentar un análisis subjetivo, crítico y firmado de un tema de actualidad desde el punto de vista del autor. -->
-- [ ] B) Una descripción prosopográfica de un personaje ficticio.
+- [ ] A) Una descripción prosopográfica de un personaje ficticio.
   <!-- feedback: Incorrecto. No se describen rasgos físicos, se analiza la estructura de un texto. -->
 - [ ] C) La función fática de apertura del canal de voz.
   <!-- feedback: Incorrecto. No se trata de un canal acústico, sino del análisis de un argumento. -->
@@ -344,11 +344,11 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 Examina el siguiente fragmento: Para defender el turismo, un folleto expone las estadísticas oficiales de ingreso de visitantes a las playas salvadoreñas durante el año anterior. ¿Qué recurso o elemento discursivo formal se está aplicando?
 
 ### Opciones
-- [x] A) El uso de argumento basado en hechos.
+- [x] C) El uso de argumento basado en hechos.
   <!-- feedback: ¡Correcto! Aplica argumento basado en hechos porque se centra en aportar datos numéricos, porcentajes y estadísticas verídicas para convencer lógicamente al receptor. -->
-- [ ] B) Una descripción prosopográfica de un personaje ficticio.
+- [ ] A) Una descripción prosopográfica de un personaje ficticio.
   <!-- feedback: Incorrecto. No se describen rasgos físicos, se analiza la estructura de un texto. -->
-- [ ] C) La función fática de apertura del canal de voz.
+- [ ] B) La función fática de apertura del canal de voz.
   <!-- feedback: Incorrecto. No se trata de un canal acústico, sino del análisis de un argumento. -->
 - [ ] D) La métrica alejandrina de Francisco Gavidia.
   <!-- feedback: Incorrecto. El texto está en prosa escolar o periodística, no en verso modernista. -->
@@ -370,13 +370,13 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 Examina el siguiente fragmento: El texto expone: 'El aumento excesivo en el precio internacional del petróleo provocará un alza inmediata en el costo de la energía eléctrica nacional'. ¿Qué recurso o elemento discursivo formal se está aplicando?
 
 ### Opciones
-- [x] A) El uso de argumento de causa-efecto.
+- [x] D) El uso de argumento de causa-efecto.
   <!-- feedback: ¡Correcto! Aplica argumento de causa-efecto porque se centra en conectar de forma lógica un acontecimiento como el desencadenante directo de una consecuencia. -->
-- [ ] B) Una descripción prosopográfica de un personaje ficticio.
+- [ ] A) Una descripción prosopográfica de un personaje ficticio.
   <!-- feedback: Incorrecto. No se describen rasgos físicos, se analiza la estructura de un texto. -->
-- [ ] C) La función fática de apertura del canal de voz.
+- [ ] B) La función fática de apertura del canal de voz.
   <!-- feedback: Incorrecto. No se trata de un canal acústico, sino del análisis de un argumento. -->
-- [ ] D) La métrica alejandrina de Francisco Gavidia.
+- [ ] C) La métrica alejandrina de Francisco Gavidia.
   <!-- feedback: Incorrecto. El texto está en prosa escolar o periodística, no en verso modernista. -->
 
 ### Explicación Pedagógica
@@ -396,13 +396,13 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 Examina el siguiente fragmento: Un letrero dice: 'Compra este refresco de cebada porque es el más vendido en toda Santa Tecla y millones de salvadoreños no pueden estar equivocados'. ¿Qué recurso o elemento discursivo formal se está aplicando?
 
 ### Opciones
-- [x] A) El uso de falacia ad populum.
+- [x] D) El uso de falacia ad populum.
   <!-- feedback: ¡Correcto! Aplica falacia ad populum porque se centra en apelar a la opinión de la mayoría o la popularidad social para validar la supuesta calidad de una afirmación. -->
-- [ ] B) Una descripción prosopográfica de un personaje ficticio.
+- [ ] A) Una descripción prosopográfica de un personaje ficticio.
   <!-- feedback: Incorrecto. No se describen rasgos físicos, se analiza la estructura de un texto. -->
-- [ ] C) La función fática de apertura del canal de voz.
+- [ ] B) La función fática de apertura del canal de voz.
   <!-- feedback: Incorrecto. No se trata de un canal acústico, sino del análisis de un argumento. -->
-- [ ] D) La métrica alejandrina de Francisco Gavidia.
+- [ ] C) La métrica alejandrina de Francisco Gavidia.
   <!-- feedback: Incorrecto. El texto está en prosa escolar o periodística, no en verso modernista. -->
 
 ### Explicación Pedagógica
@@ -422,13 +422,13 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 Examina el siguiente fragmento: Para mantener la neutralidad de su informe científico sobre el clima, el estudiante de Usulután redacta: 'Se observaron muestras del agua del río'. ¿Qué recurso o elemento discursivo formal se está aplicando?
 
 ### Opciones
-- [x] A) El uso de uso de la tercera persona.
+- [x] D) El uso de uso de la tercera persona.
   <!-- feedback: ¡Correcto! Aplica uso de la tercera persona porque se centra en utilizar un tono impersonal que garantiza la objetividad de la investigación expositiva. -->
-- [ ] B) Una descripción prosopográfica de un personaje ficticio.
+- [ ] A) Una descripción prosopográfica de un personaje ficticio.
   <!-- feedback: Incorrecto. No se describen rasgos físicos, se analiza la estructura de un texto. -->
-- [ ] C) La función fática de apertura del canal de voz.
+- [ ] B) La función fática de apertura del canal de voz.
   <!-- feedback: Incorrecto. No se trata de un canal acústico, sino del análisis de un argumento. -->
-- [ ] D) La métrica alejandrina de Francisco Gavidia.
+- [ ] C) La métrica alejandrina de Francisco Gavidia.
   <!-- feedback: Incorrecto. El texto está en prosa escolar o periodística, no en verso modernista. -->
 
 ### Explicación Pedagógica
@@ -474,9 +474,9 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 Examina el siguiente fragmento: Durante el foro en el colegio, Nayib toma la palabra para refutar con datos del Ministerio el argumento previo de su compañero de aula. ¿Qué recurso o elemento discursivo formal se está aplicando?
 
 ### Opciones
-- [x] A) El uso de réplica en foro oral.
+- [x] B) El uso de réplica en foro oral.
   <!-- feedback: ¡Correcto! Aplica réplica en foro oral porque se centra en responder de forma inmediata y argumentada a las posturas contrarias en una discusión oral moderada. -->
-- [ ] B) Una descripción prosopográfica de un personaje ficticio.
+- [ ] A) Una descripción prosopográfica de un personaje ficticio.
   <!-- feedback: Incorrecto. No se describen rasgos físicos, se analiza la estructura de un texto. -->
 - [ ] C) La función fática de apertura del canal de voz.
   <!-- feedback: Incorrecto. No se trata de un canal acústico, sino del análisis de un argumento. -->
@@ -500,13 +500,13 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 Examina el siguiente fragmento: Un folleto médico utiliza términos como 'patogenicidad', 'vector' y 'epidemiología' al explicar el virus del Zika. ¿Qué recurso o elemento discursivo formal se está aplicando?
 
 ### Opciones
-- [x] A) El uso de uso de tecnicismos científicos.
+- [x] D) El uso de uso de tecnicismos científicos.
   <!-- feedback: ¡Correcto! Aplica uso de tecnicismos científicos porque se centra en utilizar vocabulario formal y preciso característico de una disciplina de estudio científica. -->
-- [ ] B) Una descripción prosopográfica de un personaje ficticio.
+- [ ] A) Una descripción prosopográfica de un personaje ficticio.
   <!-- feedback: Incorrecto. No se describen rasgos físicos, se analiza la estructura de un texto. -->
-- [ ] C) La función fática de apertura del canal de voz.
+- [ ] B) La función fática de apertura del canal de voz.
   <!-- feedback: Incorrecto. No se trata de un canal acústico, sino del análisis de un argumento. -->
-- [ ] D) La métrica alejandrina de Francisco Gavidia.
+- [ ] C) La métrica alejandrina de Francisco Gavidia.
   <!-- feedback: Incorrecto. El texto está en prosa escolar o periodística, no en verso modernista. -->
 
 ### Explicación Pedagógica
@@ -526,13 +526,13 @@ La estructura, el propósito y los recursos lógicos del fragmento se correspond
 Examina el siguiente fragmento: El último párrafo del ensayo de opinión de Rodrigo reafirma la validez de la tesis inicial a la luz de los argumentos discutidos. ¿Qué recurso o elemento discursivo formal se está aplicando?
 
 ### Opciones
-- [x] A) El uso de conclusión argumentativa.
+- [x] D) El uso de conclusión argumentativa.
   <!-- feedback: ¡Correcto! Aplica conclusión argumentativa porque se centra en sintetizar las ideas principales desarrolladas y dejar una reflexión final coherente con la tesis. -->
-- [ ] B) Una descripción prosopográfica de un personaje ficticio.
+- [ ] A) Una descripción prosopográfica de un personaje ficticio.
   <!-- feedback: Incorrecto. No se describen rasgos físicos, se analiza la estructura de un texto. -->
-- [ ] C) La función fática de apertura del canal de voz.
+- [ ] B) La función fática de apertura del canal de voz.
   <!-- feedback: Incorrecto. No se trata de un canal acústico, sino del análisis de un argumento. -->
-- [ ] D) La métrica alejandrina de Francisco Gavidia.
+- [ ] C) La métrica alejandrina de Francisco Gavidia.
   <!-- feedback: Incorrecto. El texto está en prosa escolar o periodística, no en verso modernista. -->
 
 ### Explicación Pedagógica

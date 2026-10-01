@@ -35,10 +35,10 @@ This bundle focuses on Zero and First Conditionals to talk about facts and futur
 If you ________ water to 100 degrees Celsius, it ________.
 
 ### Opciones
-- [x] A) heat / boils <!-- feedback: Correct! Zero conditional uses Present Simple in both clauses for facts. -->
-- [ ] B) heat / will boil <!-- feedback: Incorrect. This sounds like a specific prediction, but Zero is for general facts. -->
-- [ ] C) heats / boil <!-- feedback: Incorrect. Subject-verb agreement errors. -->
-- [ ] D) heated / boiled <!-- feedback: Incorrect. This is past tense. -->
+- [x] D) heat / boils <!-- feedback: Correct! Zero conditional uses Present Simple in both clauses for facts. -->
+- [ ] A) heat / will boil <!-- feedback: Incorrect. This sounds like a specific prediction, but Zero is for general facts. -->
+- [ ] B) heats / boil <!-- feedback: Incorrect. Subject-verb agreement errors. -->
+- [ ] C) heated / boiled <!-- feedback: Incorrect. This is past tense. -->
 
 ### Explicación Pedagógica
 El Condicional Cero se usa para hechos científicos o verdades universales. La estructura es: If + Presente Simple, Presente Simple.
@@ -57,8 +57,8 @@ If I ________ time this weekend, I ________ to the movies with you.
 
 ### Opciones
 - [ ] A) will have / go <!-- feedback: Incorrect. "Will" never goes in the "if" clause. -->
-- [x] B) have / will go <!-- feedback: Correct! First conditional: If + Present Simple, Will + base form. -->
-- [ ] C) had / would go <!-- feedback: Incorrect. This is Second Conditional (imaginary). -->
+- [x] C) have / will go <!-- feedback: Correct! First conditional: If + Present Simple, Will + base form. -->
+- [ ] B) had / would go <!-- feedback: Incorrect. This is Second Conditional (imaginary). -->
 - [ ] D) have / go <!-- feedback: Incorrect. This would be a general habit, not a specific plan. -->
 
 ### Explicación Pedagógica
@@ -78,8 +78,8 @@ If you ________ your homework, the teacher ________ angry.
 
 ### Opciones
 - [ ] A) not do / is <!-- feedback: Incorrect. Needs auxiliary verbs. -->
-- [x] B) don't do / will be <!-- feedback: Correct! Negative present simple in "if" clause and future in result. -->
-- [ ] C) won't do / is <!-- feedback: Incorrect. "Will" cannot be in the "if" clause. -->
+- [x] C) don't do / will be <!-- feedback: Correct! Negative present simple in "if" clause and future in result. -->
+- [ ] B) won't do / is <!-- feedback: Incorrect. "Will" cannot be in the "if" clause. -->
 - [ ] D) doesn't do / will be <!-- feedback: Incorrect. "You" takes "don't", not "doesn't". -->
 
 ### Explicación Pedagógica
@@ -120,9 +120,9 @@ If I finish my project early, I ________ go to the park, but I'm not sure.
 
 ### Opciones
 - [ ] A) will <!-- feedback: Incorrect. "Will" expresses certainty, but the speaker says "I'm not sure". -->
-- [x] B) might <!-- feedback: Correct! "Might" is used in conditionals to show a possibility instead of a certainty. -->
-- [ ] C) am <!-- feedback: Incorrect. -->
-- [ ] D) must <!-- feedback: Incorrect. This would be an obligation. -->
+- [x] D) might <!-- feedback: Correct! "Might" is used in conditionals to show a possibility instead of a certainty. -->
+- [ ] B) am <!-- feedback: Incorrect. -->
+- [ ] C) must <!-- feedback: Incorrect. This would be an obligation. -->
 
 ### Explicación Pedagógica
 En lugar de "will", podemos usar otros verbos modales como "might" o "may" en el resultado del condicional para indicar que la consecuencia no es segura, sino solo posible.
@@ -141,8 +141,8 @@ If we don't protect the paramos, many Colombian cities ________ water problems i
 
 ### Opciones
 - [ ] A) have <!-- feedback: Incorrect. This is a prediction for the future. -->
-- [x] B) will have <!-- feedback: Correct! First conditional for a real future consequence. -->
-- [ ] C) has <!-- feedback: Incorrect. Plural subject. -->
+- [x] C) will have <!-- feedback: Correct! First conditional for a real future consequence. -->
+- [ ] B) has <!-- feedback: Incorrect. Plural subject. -->
 - [ ] D) are having <!-- feedback: Incorrect. Not the standard conditional structure. -->
 
 ### Explicación Pedagógica
@@ -162,9 +162,9 @@ Which sentence is grammatically correct?
 
 ### Opciones
 - [ ] A) If you will study hard, you will pass. <!-- feedback: Incorrect. No "will" in the "if" clause. -->
-- [x] B) You will pass the exam if you study hard. <!-- feedback: Correct! The order can be result + if + condition (no comma needed). -->
-- [ ] C) You pass the exam if you will study hard. <!-- feedback: Incorrect. -->
-- [ ] D) If you study hard you will pass. <!-- feedback: Incorrect. Needs a comma when "if" starts the sentence. -->
+- [x] D) You will pass the exam if you study hard. <!-- feedback: Correct! The order can be result + if + condition (no comma needed). -->
+- [ ] B) You pass the exam if you will study hard. <!-- feedback: Incorrect. -->
+- [ ] C) If you study hard you will pass. <!-- feedback: Incorrect. Needs a comma when "if" starts the sentence. -->
 
 ### Explicación Pedagógica
 Se puede cambiar el orden de las cláusulas: [Condition], [Result] (con coma) o [Result] [Condition] (sin coma). Nunca se pone "will" en la parte del "if".
@@ -207,9 +207,9 @@ If you feel dizzy, ________ some water and rest.
 
 ### Opciones
 - [ ] A) you will drink <!-- feedback: Incorrect. A bit long for a direct instruction. -->
-- [x] B) drink <!-- feedback: Correct! We can use an imperative in the result clause for instructions. -->
-- [ ] C) drinking <!-- feedback: Incorrect. -->
-- [ ] D) you should to drink <!-- feedback: Incorrect. "Should" is not followed by "to". -->
+- [x] D) drink <!-- feedback: Correct! We can use an imperative in the result clause for instructions. -->
+- [ ] B) drinking <!-- feedback: Incorrect. -->
+- [ ] C) you should to drink <!-- feedback: Incorrect. "Should" is not followed by "to". -->
 
 ### Explicación Pedagógica
 En lugar de "will", podemos usar el imperativo (la base del verbo) en la cláusula de resultado para dar instrucciones o consejos directos basados en una condición.
@@ -229,8 +229,8 @@ Identify the error:
 
 ### Opciones
 - [ ] A) will go <!-- feedback: Incorrect. This is the correct result form. -->
-- [ ] B) if <!-- feedback: Incorrect. Correct conjunction. -->
-- [x] C) will pass <!-- feedback: Correct! Error found. We must use Present Simple "pass" after "if". -->
+- [ ] C) if <!-- feedback: Incorrect. Correct conjunction. -->
+- [x] B) will pass <!-- feedback: Correct! Error found. We must use Present Simple "pass" after "if". -->
 - [ ] D) exam <!-- feedback: Incorrect. Correct noun. -->
 
 ### Explicación Pedagógica
@@ -270,10 +270,10 @@ Evaluar consecuencias requiere pensamiento crítico y la aplicación correcta de
 "Governments are discussing new taxes on sugar. If these taxes are approved, the price of soda will rise. Consequently..."
 
 ### Opciones
-- [x] A) people might consume less sugar and improve their health. <!-- feedback: Correct! Follows the logic of cause and effect with a modal of possibility. -->
-- [ ] B) everyone will become a millionaire. <!-- feedback: Incorrect. Illogical conclusion. -->
-- [ ] C) sugar was very popular in the past. <!-- feedback: Incorrect. Irrelevant to the conditional argument. -->
-- [ ] D) the taxes didn't work because they are expensive. <!-- feedback: Incorrect. Contradicts the "if ... are approved" future focus. -->
+- [x] D) people might consume less sugar and improve their health. <!-- feedback: Correct! Follows the logic of cause and effect with a modal of possibility. -->
+- [ ] A) everyone will become a millionaire. <!-- feedback: Incorrect. Illogical conclusion. -->
+- [ ] B) sugar was very popular in the past. <!-- feedback: Incorrect. Irrelevant to the conditional argument. -->
+- [ ] C) the taxes didn't work because they are expensive. <!-- feedback: Incorrect. Contradicts the "if ... are approved" future focus. -->
 
 ### Explicación Pedagógica
 Para completar un argumento condicional, el estudiante debe identificar una consecuencia que sea tanto gramaticalmente posible como lógicamente coherente con las premisas dadas.

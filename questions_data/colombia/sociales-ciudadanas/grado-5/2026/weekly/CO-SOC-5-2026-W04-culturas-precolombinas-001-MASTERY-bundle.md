@@ -34,13 +34,13 @@ Características de las principales culturas precolombinas del territorio colomb
 ¿Cuál de las siguientes fue una cultura precolombina que habitó el territorio colombiano antes de la llegada de los españoles?
 
 ### Opciones
-- [x] A) Los Muisca.
+- [x] D) Los Muisca.
   <!-- feedback: Los Muisca fueron una cultura precolombina que habitó el altiplano cundiboyacense. -->
-- [ ] B) Los Vikingos.
+- [ ] A) Los Vikingos.
   <!-- feedback: Los Vikingos habitaron el norte de Europa, no el territorio colombiano. -->
-- [ ] C) Los Egipcios.
+- [ ] B) Los Egipcios.
   <!-- feedback: Los Egipcios habitaron el noreste de África, no Colombia. -->
-- [ ] D) Los Romanos.
+- [ ] C) Los Romanos.
   <!-- feedback: Los Romanos vivieron en Europa occidental, no en territorio colombiano. -->
 
 ### Explicacion Pedagogica
@@ -57,9 +57,9 @@ Reconocer culturas precolombinas que existieron en el actual territorio colombia
 ¿Por qué los Muisca se ubicaron principalmente en el altiplano cundiboyacense?
 
 ### Opciones
-- [x] A) Porque allí encontraban lagos, tierra fértil y un clima adecuado para cultivar y pescar.
+- [x] B) Porque allí encontraban lagos, tierra fértil y un clima adecuado para cultivar y pescar.
   <!-- feedback: El altiplano ofrecía recursos hídricos y agrícolas para el desarrollo Muisca. -->
-- [ ] B) Porque el altiplano era una zona totalmente desértica y vacía.
+- [ ] A) Porque el altiplano era una zona totalmente desértica y vacía.
   <!-- feedback: El altiplano cundiboyacense no era un desierto, sino una región fértil. -->
 - [ ] C) Porque vivían únicamente en zonas costeras del Caribe.
   <!-- feedback: Los Muisca se asentaron en el interior andino, no en la costa Caribe. -->
@@ -80,11 +80,11 @@ Comprender la relación entre las condiciones geográficas y el asentamiento de 
 ¿Cuál de los siguientes aportes se le reconoce a las culturas precolombinas colombianas?
 
 ### Opciones
-- [x] A) Técnicas de orfebrería en oro, tejido en caña y cultivo de productos como papa y maíz.
+- [x] C) Técnicas de orfebrería en oro, tejido en caña y cultivo de productos como papa y maíz.
   <!-- feedback: Las culturas precolombinas aportaron técnicas de metalurgia, tejido y agricultura. -->
-- [ ] B) El uso de internet y computadores personales.
+- [ ] A) El uso de internet y computadores personales.
   <!-- feedback: Internet y computadores son inventos modernos posteriores a la conquista. -->
-- [ ] C) La construcción de rascacielos con acero.
+- [ ] B) La construcción de rascacielos con acero.
   <!-- feedback: No existían rascacielos ni acero en la época precolombina. -->
 - [ ] D) La creación de autos con motor de gasolina.
   <!-- feedback: Los autos con motor aparecieron siglos después. -->
@@ -126,9 +126,9 @@ Aplicar el concepto de organización social compleja a partir de ejemplos arquit
 ¿Qué criterio de comparación es más útil para diferenciar a los Muisca de los Tairona?
 
 ### Opciones
-- [x] A) La región donde vivieron y los recursos naturales que aprovecharon.
+- [x] B) La región donde vivieron y los recursos naturales que aprovecharon.
   <!-- feedback: La región y los recursos disponibles explican muchas diferencias entre estas culturas. -->
-- [ ] B) La cantidad de celulares que usaron en el siglo XXI.
+- [ ] A) La cantidad de celulares que usaron en el siglo XXI.
   <!-- feedback: Ninguna de estas culturas usó celulares, pues vivieron siglos antes de su invención. -->
 - [ ] C) El nombre de los presidentes que tuvieron.
   <!-- feedback: No existían presidentes ni Estados nacionales en la época precolombina. -->
@@ -149,9 +149,9 @@ Seleccionar criterios históricos válidos para comparar culturas precolombinas 
 ¿Qué diferencia cultural importante muestra el uso del oro entre Muisca y Quimbaya?
 
 ### Opciones
-- [x] A) Los Muisca lo consideraban sagrado y simbólico; los Quimbaya lo trabajaban con fines artísticos y rituales.
+- [x] B) Los Muisca lo consideraban sagrado y simbólico; los Quimbaya lo trabajaban con fines artísticos y rituales.
   <!-- feedback: Ambos valoraban el oro, pero con énfasis simbólico diferentes: ritual versus artístico. -->
-- [ ] B) Los Muisca no conocían el oro, mientras los Quimbaya sí.
+- [ ] A) Los Muisca no conocían el oro, mientras los Quimbaya sí.
   <!-- feedback: Los Muisca sí conocían el oro, como lo demuestra la leyenda de El Dorado. -->
 - [ ] C) Ninguna cultura precolombina trabajó el oro.
   <!-- feedback: Tanto Muisca como Quimbaya fueron reconocidas orfebres. -->
@@ -172,9 +172,9 @@ Analizar el significado cultural del oro en distintas civilizaciones precolombin
 ¿Qué revela la presencia de palabras de origen indígena en el español de Colombia?
 
 ### Opciones
-- [x] A) Que existe un legado lingüístico y cultural de los pueblos precolombinos en la actualidad.
+- [x] B) Que existe un legado lingüístico y cultural de los pueblos precolombinos en la actualidad.
   <!-- feedback: Los préstamos lingüísticos muestran la continuidad cultural de los pueblos originarios. -->
-- [ ] B) Que el español reemplazó por completo las lenguas indígenas.
+- [ ] A) Que el español reemplazó por completo las lenguas indígenas.
   <!-- feedback: Aunque el español es dominante, las lenguas indígenas dejaron huella en él. -->
 - [ ] C) Que los pueblos indígenas nunca hablaron ninguna lengua.
   <!-- feedback: Los pueblos indígenas sí tenían sus propias lenguas. -->
@@ -195,9 +195,9 @@ Reconocer el legado lingüístico de las culturas precolombinas en el español a
 ¿Por qué es importante estudiar y valorar las culturas precolombinas en la actualidad?
 
 ### Opciones
-- [x] A) Porque son la base de la diversidad cultural y de muchos conocimientos que aún se usan hoy.
+- [x] B) Porque son la base de la diversidad cultural y de muchos conocimientos que aún se usan hoy.
   <!-- feedback: Su legado agrícola, artesanal y simbólico sigue presente en la identidad colombiana. -->
-- [ ] B) Porque su historia no aporta nada a la sociedad actual.
+- [ ] A) Porque su historia no aporta nada a la sociedad actual.
   <!-- feedback: Su legado cultural sigue vivo en muchos aspectos de la vida colombiana. -->
 - [ ] C) Porque es importante olvidar el pasado indígena para construir una nueva identidad.
   <!-- feedback: Recordar y valorar el pasado fortalece la identidad, no la debilita. -->

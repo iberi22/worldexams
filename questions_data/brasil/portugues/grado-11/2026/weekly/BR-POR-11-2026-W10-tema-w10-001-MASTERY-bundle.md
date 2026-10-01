@@ -36,11 +36,11 @@ Como é denominado o termo sintático que completa o sentido de um nome (substan
 ### Opciones
 - [ ] A) Objeto Indireto.
   <!-- feedback: Incorreto. O objeto indireto completa o sentido de um verbo transitivo indireto e não de um nome (substantivo/adjetivo). -->
-- [x] B) Complemento Nominal.
+- [x] D) Complemento Nominal.
   <!-- feedback: Correto! O complemento nominal completa nomes transitivos abstratos, regido sempre por preposição obrigatória. -->
-- [ ] C) Adjunto Adnominal.
+- [ ] B) Adjunto Adnominal.
   <!-- feedback: Incorreto. O adjunto adnominal apenas acompanha, determina ou caracteriza o substantivo concreto ou abstrato sem completá-lo. -->
-- [ ] D) Agente da Passiva.
+- [ ] C) Agente da Passiva.
   <!-- feedback: Incorreto. O agente da passiva indica quem pratica a ação expressa pelo verbo na voz passiva analítica. -->
 
 ### Explicacion Pedagogica
@@ -82,11 +82,11 @@ No período analisado pela jovem curitibana, o termo "aos pedestres de Curitiba"
 ### Opciones
 - [ ] A) Complemento Nominal do substantivo abstrato "construção", regido pela preposição "aos" de forma obrigatória.
   <!-- feedback: Incorreto. O termo completa o sentido do verbo "agradou" e não do substantivo "construção". -->
-- [x] B) Objeto Indireto do verbo transitivo indireto "agradou", vindo precedido da preposição exigida pelo verbo.
+- [x] D) Objeto Indireto do verbo transitivo indireto "agradou", vindo precedido da preposição exigida pelo verbo.
   <!-- feedback: Correto! O verbo "agradar" (no sentido de ser agradável) é transitivo indireto, demandando objeto indireto regido por preposição. -->
-- [ ] C) Sujeito composto de Curitiba, praticando de forma unida e coordenada a ação de reformar estradas no Paraná.
+- [ ] B) Sujeito composto de Curitiba, praticando de forma unida e coordenada a ação de reformar estradas no Paraná.
   <!-- feedback: Incorreto. "aos pedestres" está preposicionado; o sujeito da oração é "A construção das novas calçadas". -->
-- [ ] D) Adjunto Adnominal do substantivo concreto "ruas" das margens dos rios paranaenses de trânsito em silêncio.
+- [ ] C) Adjunto Adnominal do substantivo concreto "ruas" das margens dos rios paranaenses de trânsito em silêncio.
   <!-- feedback: Incorreto. Não se acompanha substantivo concreto de ruas, mas completa-se a predicação verbal do trânsito na capital. -->
 
 ### Explicacion Pedagogica
@@ -105,9 +105,9 @@ No período composto de opinião paulistano, a oração destacada "de que a fuma
 ### Opciones
 - [ ] A) Oração subordinada substantiva objetiva indireta, completando a predicação do verbo transitivo indireto "têm".
   <!-- feedback: Incorreto. O verbo "têm" é transitivo direto e seu objeto direto é "consciência". A oração completa o substantivo "consciência". -->
-- [x] B) Oração subordinada substantiva completiva nominal, integrando o sentido do substantivo abstrato "consciência" com preposição.
+- [x] C) Oração subordinada substantiva completiva nominal, integrando o sentido do substantivo abstrato "consciência" com preposição.
   <!-- feedback: Correto! Como a oração inteira completa o sentido de um nome ("consciência"), ela é completiva nominal. -->
-- [ ] C) Oração coordenada sindética adversativa de oposição de ideias, quebrando expectativas lógicas de trânsito de forma irônica.
+- [ ] B) Oração coordenada sindética adversativa de oposição de ideias, quebrando expectativas lógicas de trânsito de forma irônica.
   <!-- feedback: Incorreto. Trata-se de oração subordinada integrante completiva e não de coordenação adversativa ("porém/mas"). -->
 - [ ] D) Oração subordinada adjetiva explicativa de luxo, pintando um retrato bucólico de florestas de árvores do sul do país.
   <!-- feedback: Incorreto. Não é oração adjetiva (introduzida por pronome relativo), mas oração substantiva que completa a semântica do nome. -->
@@ -126,9 +126,9 @@ Orações subordinadas substantivas completivas nominais exercem o papel de comp
 No parágrafo de engenharia de Belo Horizonte, o termo "indestrutível" funciona sintaticamente como:
 
 ### Opciones
-- [ ] A) Adjunto Adnominal do substantivo concreto "asfalto", acompanhando o nome de forma permanente de fábrica.
+- [ ] B) Adjunto Adnominal do substantivo concreto "asfalto", acompanhando o nome de forma permanente de fábrica.
   <!-- feedback: Incorreto. O adjetivo é uma qualidade provisória atribuída por meio da ação verbal de declarar, não sendo atributo inerente fixo. -->
-- [x] B) Predicativo do Objeto Direto "o asfalto das avenidas", caracterizando e qualificando o objeto por meio do verbo transitivo "declarou".
+- [x] A) Predicativo do Objeto Direto "o asfalto das avenidas", caracterizando e qualificando o objeto por meio do verbo transitivo "declarou".
   <!-- feedback: Correto! Verbos de opinião ("declarar, julgar, achar") exigem predicativo do objeto para completar a predicação de juízo. -->
 - [ ] C) Sujeito paciente do asfalto, sofrendo de forma mecânica a ação de desgaste físico por caminhões pesados de estradas.
   <!-- feedback: Incorreto. O sujeito da oração é ativo ("A prefeitura de Belo Horizonte") e "asfalto" é o objeto direto. -->
@@ -151,9 +151,9 @@ No trecho literário analisado, o termo entre vírgulas "o defunto autor carioca
 ### Opciones
 - [ ] A) Vocativo de chamamento lírico, interpelando de forma mística o espírito de Brás Cubas nas trevas de velórios.
   <!-- feedback: Incorreto. Vocativo é chamamento ("Ó Brás Cubas!"), ao passo que o termo explica quem é Brás Cubas de forma narrativa neutra. -->
-- [x] B) Aposto explicativo, pois desenvolve, esclarece e explica a identidade do substantivo próprio antecedente "Brás Cubas".
+- [x] C) Aposto explicativo, pois desenvolve, esclarece e explica a identidade do substantivo próprio antecedente "Brás Cubas".
   <!-- feedback: Correto! Apostos explicativos vêm isolados por vírgulas e servem para detalhar termos anteriores da oração. -->
-- [ ] C) Predicativo do sujeito de Belo Horizonte, qualificando a ação de escrever livros de vestibular em silêncio de morte.
+- [ ] B) Predicativo do sujeito de Belo Horizonte, qualificando a ação de escrever livros de vestibular em silêncio de morte.
   <!-- feedback: Incorreto. É um aposto nominal explicativo intercalado e não um adjetivo predicativo ligado por verbo de estado. -->
 - [ ] D) Adjunto Adverbial de meio espacial de trânsito, detalhando as carruagens imperiais cariocas de passeios de luxo.
   <!-- feedback: Incorreto. O termo é nominal explicativo de identidade e não advérbio de transporte de asfalto de carruagens. -->
@@ -174,9 +174,9 @@ No parágrafo de opinião soteropolitano, as funções sintáticas dos termos pr
 ### Opciones
 - [ ] A) Adjunto Adnominal (das ruas) e Objeto Indireto (pelas chuvas), completando o verbo transitivo direto "causou" de forma de farsa.
   <!-- feedback: Incorreto. "das ruas" completa o substantivo abstrato de ação "destruição" com sentido passivo, não sendo adjunto adnominal de posse fixa. -->
-- [x] B) Complemento Nominal (das ruas de Salvador - valor passivo: as ruas foram destruídas) e Adjunto Adnominal (pelas chuvas tropicais - valor ativo: as chuvas destruíram).
+- [x] C) Complemento Nominal (das ruas de Salvador - valor passivo: as ruas foram destruídas) e Adjunto Adnominal (pelas chuvas tropicais - valor ativo: as chuvas destruíram).
   <!-- feedback: Correto! Analisar o sentido ativo ou passivo de termos ligados a substantivos abstratos desvela CN e AA. -->
-- [ ] C) Sujeito simples de Salvador (das ruas) e Agente da Passiva (pelas chuvas) do trânsito na hora das chuvas na capital.
+- [ ] B) Sujeito simples de Salvador (das ruas) e Agente da Passiva (pelas chuvas) do trânsito na hora das chuvas na capital.
   <!-- feedback: Incorreto. O sujeito da oração principal é completo ("A destruição das ruas... pelas chuvas") e não termos isolados preposicionados. -->
 - [ ] D) Ambos são classificados como Adjuntos Adverbiais de tempo simultâneo de ontem do tráfego de pedestres no asfalto.
   <!-- feedback: Incorreto. São complementos e adjuntos ligados a nomes (destruição) e não advérbios ligados ao tempo cronológico do relógio de ontem. -->
@@ -197,9 +197,9 @@ Na oração passiva analítica de vestibular, o termo sintático preposicionado 
 ### Opciones
 - [ ] A) Objeto Indireto do verbo transitivo indireto "era sacudida" de forma de farsa de cliques rápidos de portais digitais.
   <!-- feedback: Incorreto. O verbo auxiliar "ser" e o particípio caracterizam voz passiva analítica e não transitividade verbal indireta ativa. -->
-- [ ] B) Sujeito agente de Porto Alegre, praticando de forma ativa e direta a ação de soprar as folhas de ovelhas gaúchas.
+- [ ] C) Sujeito agente de Porto Alegre, praticando de forma ativa e direta a ação de soprar as folhas de ovelhas gaúchas.
   <!-- feedback: Incorreto. O sujeito gramatical da oração é paciente ("A estalagem de João Romão") e sofre a ação física de ser sacudida. -->
-- [x] C) Agente da Passiva, pois representa o elemento ativo real que pratica a ação de sacudir a estalagem na voz passiva analítica.
+- [x] B) Agente da Passiva, pois representa o elemento ativo real que pratica a ação de sacudir a estalagem na voz passiva analítica.
   <!-- feedback: Correto! O agente da passiva vem regido pela preposição "por" (pelo/pela) e corresponde ao sujeito ativo da voz ativa. -->
 - [ ] D) Adjunto Adverbial de meio espacial de estradas de ferro do Paraná de engenheiros de informática em silêncio absoluto.
   <!-- feedback: Incorreto. É termo integrante da oração passiva (agente) e não advérbio de transporte de asfalto ou de informática de robôs. -->
@@ -220,9 +220,9 @@ No slogan do fabricante paulistano, as funções sintáticas dos termos preposic
 ### Opciones
 - [ ] A) Ambos são objetos indiretos do verbo transitivo indireto "necessita" paulistano de forma de farsa de cliques de loja.
   <!-- feedback: Incorreto. Somente o primeiro termo completa o verbo; o segundo se liga ao substantivo concrete de sapatos. -->
-- [x] B) Objeto Indireto (de calçados de luxo - completa o verbo transitivo indireto "necessita") e Adjunto Adnominal (de couro legítimo - qualifica e acompanha o substantivo concreto "calçados").
+- [x] C) Objeto Indireto (de calçados de luxo - completa o verbo transitivo indireto "necessita") e Adjunto Adnominal (de couro legítimo - qualifica e acompanha o substantivo concreto "calçados").
   <!-- feedback: Correto! Analisar a que termos se ligam os blocos preposicionados desvela sua predicação verbal ou nominal. -->
-- [ ] C) Sujeito simples paulistano (de calçados) e Complemento Nominal (de couro) de marcas de luxo na vitrine de lojas de moda.
+- [ ] B) Sujeito simples paulistano (de calçados) e Complemento Nominal (de couro) de marcas de luxo na vitrine de lojas de moda.
   <!-- feedback: Incorreto. Sujeito é "São Paulo" e termos preposicionados não atuam como sujeito gramatical de voz ativa de verbos de necessidade. -->
 - [ ] D) Manuais de montagem de computadores industriais de refinarias de petróleo de São José dos Campos de forma burocrática em silêncio.
   <!-- feedback: Incorreto. O anúncio de calçados é publicitário conotativo de vendas corporativas de moda de luxo e não cartilhas de oficinas mecânicas. -->
@@ -270,9 +270,9 @@ No verso simbolista, a oração destacada "que sussurram na noite de velórios" 
   <!-- feedback: Incorreto. O sujeito do verbo "trazem" é completo "As vozes que sussurram..." e não a oração subordinada isolada. -->
 - [ ] B) Oração coordenada sindética aditiva, somando ações de forma de receitas de cozinha de Ouro Preto em silêncio de morte.
   <!-- feedback: Incorreto. É oração subordinada adjetiva introduzida pelo pronome relativo "que" (retoma "As vozes") e não coordenação aditiva de ações. -->
-- [x] C) Oração subordinada adjetiva restritiva, introduzida pelo pronome relativo "que", funcionando sintaticamente como adjunto adnominal do substantivo "vozes".
+- [x] D) Oração subordinada adjetiva restritiva, introduzida pelo pronome relativo "que", funcionando sintaticamente como adjunto adnominal do substantivo "vozes".
   <!-- feedback: Correto! Como a oração delimita e restringe as vozes sem vírgulas explicativas, ela é classificada como adjetiva restritiva. -->
-- [ ] D) Oração subordinada substantiva completiva nominal de luxo, completando nomes abstratos de camponeses do Paraná.
+- [ ] C) Oração subordinada substantiva completiva nominal de luxo, completando nomes abstratos de camponeses do Paraná.
   <!-- feedback: Incorreto. Completa o substantivo diretamente caracterizando-o por meio de pronome relativo, sem preposição de complemento nominal. -->
 
 ### Explicacion Pedagogica
@@ -292,9 +292,9 @@ No alerta policial de rádio, o termo sintático "os condutores desatentos" func
 ### Opciones
 - [ ] A) Objeto Indireto do verbo transitivo indireto "multou" paulistano de forma de farsa de cliques de internet de rede.
   <!-- feedback: Incorreto. O verbo "multar" é transitivo direto e rege objeto direto não preposicionado de condutores de veículos. -->
-- [x] B) Objeto Direto do verbo transitivo direto "multou", recebendo de forma direta a ação verbal de aplicação de multas no asfalto da capital.
+- [x] C) Objeto Direto do verbo transitivo direto "multou", recebendo de forma direta a ação verbal de aplicação de multas no asfalto da capital.
   <!-- feedback: Correto! O termo completa de forma direta sem preposição obrigatória a predicação de ação da prefeitura paulistana. -->
-- [ ] C) Sujeito paciente paulistano, sofrendo as multas na hora da fiscalização de guardas civis de trânsito estaduais.
+- [ ] B) Sujeito paciente paulistano, sofrendo as multas na hora da fiscalização de guardas civis de trânsito estaduais.
   <!-- feedback: Incorreto. O sujeito ativo da oração é "A prefeitura paulistana" e os condutores sofrem a ação como objeto gramatical de predicação. -->
 - [ ] D) Adjunto Adverbial de meio de transporte de estradas de ferro de engenheiros de informática do Paraná em silêncio absoluto.
   <!-- feedback: Incorreto. O termo é nominal de objeto e não de meio de locomoção de carros de asfalto ou de informática de computadores. -->
@@ -316,11 +316,11 @@ Assinale a opção que indica de forma correta a análise sintática da oração
 ### Opciones
 - [ ] A) Oração subordinada substantiva completiva nominal, completando o substantivo abstrato "urgente" de forma de farsa de cartórios.
   <!-- feedback: Incorreto. "urgente" é adjetivo que atua como predicativo do sujeito inexistente; a oração completa o verbo de estado "é". -->
-- [x] B) Oração subordinada substantiva subjetiva, exercendo a função sintática de sujeito do verbo de ligação de estado "É" da oração principal.
+- [x] D) Oração subordinada substantiva subjetiva, exercendo a função sintática de sujeito do verbo de ligação de estado "É" da oração principal.
   <!-- feedback: Correto! A estrutura de oração impessoal ("É bom, É necessário, É urgente") exige oração subjetiva para sujeito lógico. -->
-- [ ] C) Oração coordenada sindética aditiva de ações, somando doutrinas de catequeses coloniais de jesuítas em Salvador.
+- [ ] B) Oração coordenada sindética aditiva de ações, somando doutrinas de catequeses coloniais de jesuítas em Salvador.
   <!-- feedback: Incorreto. É oração subordinada integrante introduzida pela conjunção integrante "que" e não coordenação aditiva de rimas. -->
-- [ ] D) Oração subordinada adjetiva explicativa de luxo, pintando um retrato bucólico de ninfas nas praias coloniais da Bahia de passagem.
+- [ ] C) Oração subordinada adjetiva explicativa de luxo, pintando um retrato bucólico de ninfas nas praias coloniais da Bahia de passagem.
   <!-- feedback: Incorreto. Não se introduz por pronome relativo nem descreve características de ninfas mitológicas, mas atua como sujeito de tese moral. -->
 
 ### Explicacion Pedagogica
@@ -341,9 +341,9 @@ Analisando a regência verbal e sintaxe da oração do candidato gaúcho perante
   <!-- feedback: Incorreto. O texto lida com asfalto comum de avenidas municipais de trânsito e não com ligas metálicas de engenharia aeroespacial. -->
 - [ ] B) Um desvio gravíssimo passível de anulação da redação do ENEM com nota zero por leis federais de trânsito do Ministério Público.
   <!-- feedback: Incorreto. Desvios de regência reduzem pontos na Competência 1, mas não anulam ou zeram a redação inteira do vestibular de Letras. -->
-- [x] C) Um desvio de regência verbal clássico do português brasileiro, pois o verbo "esquecer" (quando não acompanhado de pronome de retomada "se") é transitivo direto e exige objeto direto sem preposição ("esqueceram que o asfalto...").
+- [x] D) Um desvio de regência verbal clássico do português brasileiro, pois o verbo "esquecer" (quando não acompanhado de pronome de retomada "se") é transitivo direto e exige objeto direto sem preposição ("esqueceram que o asfalto...").
   <!-- feedback: Correto! Se usar pronome de retorno, a regência de "esquecer-se" exige preposição ("esqueceram-se de que o asfalto..."). -->
-- [ ] D) Uma violação de regras de ortografia de acentuação de palavras latinas arcaicas medievais lusas em silêncio absoluto.
+- [ ] C) Uma violação de regras de ortografia de acentuação de palavras latinas arcaicas medievais lusas em silêncio absoluto.
   <!-- feedback: Incorreto. O desvio é de sintaxe de regência verbal e não de ortografia ou acentuação de palavras de dicionários. -->
 
 ### Explicacion Pedagogica
@@ -362,9 +362,9 @@ Analisando a ambiguidade sintática gerada pelo pronome relativo "que" na oraç�
 ### Opciones
 - [ ] A) Quebra as leis federais de ortografia de Portugal de 1500 de acentuação de palavras românticas de ninfas tropicais.
   <!-- feedback: Incorreto. O pronome relativo está grafado corretamente, sem desvios ortográficos ou de acentuação de dicionários. -->
-- [x] B) Gera duplo sentido (ambiguidade referencial), pois pode retomar de forma sintática tanto o substantivo "condutores" quanto o substantivo "caminhões", devendo ser substituído por "os quais" ou "as quais" de acordo com o referente desejado.
+- [x] C) Gera duplo sentido (ambiguidade referencial), pois pode retomar de forma sintática tanto o substantivo "condutores" quanto o substantivo "caminhões", devendo ser substituído por "os quais" ou "as quais" de acordo com o referente desejado.
   <!-- feedback: Correto! Identificar e desfazer ambiguidades sintáticas de pronomes relativos é essencial para obter nota máxima na Competência 1 e 3 do ENEM. -->
-- [ ] C) Consiste em um erro de farsa lúdica de internet que de fato impede qualquer morador do sul de compreender as avenidas do Paraná.
+- [ ] B) Consiste em um erro de farsa lúdica de internet que de fato impede qualquer morador do sul de compreender as avenidas do Paraná.
   <!-- feedback: Incorreto. O texto é compreensível de forma coloquial, mas gera duplo sentido analítico que polui a precisão da redação acadêmica de vestibular. -->
 - [ ] D) Obriga os corretores do ENEM a dirigirem caminhões de metal nas rodovias estaduais de Curitiba no asfalto da capital.
   <!-- feedback: Incorreto. Corretores corrigem as provas de redação do ENEM de forma virtual computadorizada nas telas de informática, sem dirigir caminhões. -->
@@ -386,9 +386,9 @@ De acordo com as regras de concordância da gramática normativa de prestígio, 
 ### Opciones
 - [ ] A) Os verbos são transitivos indiretos e exigem objeto indireto preposicionado de forma de farsa de cliques rápidos.
   <!-- feedback: Incorreto. Verbos impessoais não variam por questões de transitividade indireta, mas sim por ausência de sujeito gramatical determinado. -->
-- [x] B) Os verbos "haver" (sentido de existir) e "fazer" (tempo decorrido) são impessoais (não possuem sujeito), devendo permanecer obrigatoriamente flexionados na terceira pessoa do singular ("Houve muitos acidentes", "Faz dez anos").
+- [x] C) Os verbos "haver" (sentido de existir) e "fazer" (tempo decorrido) são impessoais (não possuem sujeito), devendo permanecer obrigatoriamente flexionados na terceira pessoa do singular ("Houve muitos acidentes", "Faz dez anos").
   <!-- feedback: Correto! Verbos impessoais não concordam com seus complementos nominais (objetos diretos), permanecendo sempre no singular. -->
-- [ ] C) Os verbos são escritos em inglês corporativo de informática por robôs industriais modernos para humilhar as prefeituras paulistas.
+- [ ] B) Os verbos são escritos em inglês corporativo de informática por robôs industriais modernos para humilhar as prefeituras paulistas.
   <!-- feedback: Incorreto. Trata-se de verbos genuínos da língua portuguesa padrão escrita, sem relação com anglicismos ou robôs eletrônicos. -->
 - [ ] D) O uso do singular em verbos impessoais paulistas foi inventado por startups de marketing de moda para baratear custos de sapatos de luxo.
   <!-- feedback: Incorreto. A concordância impessoal de "haver" e "fazer" é regra clássica secular de base latina na formação histórica de Letras do português de prestígio. -->
@@ -409,9 +409,9 @@ Considerando a ciência moderna de Letras de vestibular que analisa criticamente
 ### Opciones
 - [ ] A) A escola deve banir o ensino de gramática de regência e de concordância verbal de vez, para livrar os alunos do "imperialismo de Portugal" de forma de farsa.
   <!-- feedback: Incorreto. Dominar a sintaxe padrão é pilar democrático de inserção social acadêmica corporativa, essencial para exames federais do país. -->
-- [ ] B) Exigir que as conversas informais de recreio das crianças imitem de forma rígida a sintaxe clássica em latim de sermões de jesuítas de 1650 em silêncio absoluto.
+- [ ] C) Exigir que as conversas informais de recreio das crianças imitem de forma rígida a sintaxe clássica em latim de sermões de jesuítas de 1650 em silêncio absoluto.
   <!-- feedback: Incorreto. Obrigar o uso oral da sintaxe padrão no recreio é inadequado, gerando fobia social e silenciamento escolar desnecessário de crianças. -->
-- [x] C) Praticar a pedagogia de adequação linguística: valorizar e acolher as falas populares de massas, ao mesmo tempo em que ensina com eficiência teórica e prática a sintaxe padrão escrita para exames oficiais e redações de prestígio.
+- [x] B) Praticar a pedagogia de adequação linguística: valorizar e acolher as falas populares de massas, ao mesmo tempo em que ensina com eficiência teórica e prática a sintaxe padrão escrita para exames oficiais e redações de prestígio.
   <!-- feedback: Correto! Ampliar as competências linguísticas do estudante capacita-o a escolher o registro sintático adequado a cada situação social de mídias. -->
 - [ ] D) O uso exclusivo de sintaxe padrão escrita nas redações do ENEM foi inventado por startups de marketing de moda em 2026 para humilhar os professores de Letras de Curitiba.
   <!-- feedback: Incorreto. A norma padrão escrita é patrimônio político e cultural unificador histórico milenar, imune a modas comerciais passageiras de sapatos. -->
@@ -431,11 +431,11 @@ A abordagem científica e sociolinguística moderna do ensino de Letras no Brasi
 Sob a análise sociolinguística e de avaliação de exames do vestibular, avalie a relevância de punir de forma mecânica os pequenos desvios de sintaxe:
 
 ### Opciones
-- [ ] A) É pertinente de forma total, haja vista que computadores de informática paulistas corrigem as provas de redação do ENEM contando as palavras escritas em silêncio.
+- [ ] B) É pertinente de forma total, haja vista que computadores de informática paulistas corrigem as provas de redação do ENEM contando as palavras escritas em silêncio.
   <!-- feedback: Incorreto. Corretores de Letras humanos avaliam a redação (Competência 1) analisando a gravidade, frequência e contexto de uso dos desvios de sintaxe e não contagens frias. -->
-- [ ] B) O Ministério da Educação deveria prender de forma civil com base em leis de trânsito os professores de Porto Alegre que coloquem muitos pronomes.
+- [ ] C) O Ministério da Educação deveria prender de forma civil com base em leis de trânsito os professores de Porto Alegre que coloquem muitos pronomes.
   <!-- feedback: Incorreto. Debates curriculares escolares e regras de Letras do ENEM no Brasil são livres e imunes a prisões penais de prefeituras de tráfego. -->
-- [x] C) É impertinente e anti-pedagógica, pois desvios ocasionais de regência não anulam a clareza, coerência e profundidade argumentativa da tese de redação (Competências 3 e 4) do candidato do ENEM.
+- [x] A) É impertinente e anti-pedagógica, pois desvios ocasionais de regência não anulam a clareza, coerência e profundidade argumentativa da tese de redação (Competências 3 e 4) do candidato do ENEM.
   <!-- feedback: Correto! Punir de forma mecânica pequenas falhas morfológicas desconsidera o valor intelectual global da redação de vestibular do país. -->
 - [ ] D) O uso de regência padrão de pronomes gaúchos foi inventado por startups de marketing de calçados de luxo de moda em 2026 para chocar os prefeitos.
   <!-- feedback: Incorreto. Regências padrão e concordâncias verbais constituem heranças estruturais históricas de formação de Letras do português e do latim clássico. -->
@@ -455,9 +455,9 @@ A correção democrática de Letras do vestibular do ENEM avalia o candidato com
 Considerando essa perspectiva científica moderna de Letras, avalie qual diagnóstico descritivo do português brasileiro de vestibular está correto sobre a evolução sintática do país:
 
 ### Opciones
-- [ ] A) O português brasileiro escrito falha em termos de gramática clássica e constitui uma cópia burra sem valor do português europeu, provando que o povo do Nordeste não sabe escrever.
+- [ ] B) O português brasileiro escrito falha em termos de gramática clássica e constitui uma cópia burra sem valor do português europeu, provando que o povo do Nordeste não sabe escrever.
   <!-- feedback: Incorreto. O português do Brasil possui rica e estruturada sintaxe própria nacional, amplamente louvada internacionalmente de Letras de vestibular. -->
-- [x] B) O português do Brasil consolida de forma padrão uma sintaxe brasileira autêntica (uso de pronome sujeito 'você' em desuso de 'vós', regências dinâmicas de verbos de movimento como 'ir ao' e 'ir no' na oralidade), validando a soberania linguística nacional do país.
+- [x] A) O português do Brasil consolida de forma padrão uma sintaxe brasileira autêntica (uso de pronome sujeito 'você' em desuso de 'vós', regências dinâmicas de verbos de movimento como 'ir ao' e 'ir no' na oralidade), validando a soberania linguística nacional do país.
   <!-- feedback: Correto! As mudanças sintáticas brasileiras seguem regras perfeitamente estruturadas e legítimas de base científica de evolução orgânica. -->
 - [ ] C) Os professores de Letras da USP foram proibidos de ensinar sintaxe padrão por leis federais de trânsito que regulam as escolas paulistas de asfalto.
   <!-- feedback: Incorreto. O estudo sistemático da gramática de regência e de concordância verbal segue livre e soberano no currículo escolar de vestibular paulistano. -->

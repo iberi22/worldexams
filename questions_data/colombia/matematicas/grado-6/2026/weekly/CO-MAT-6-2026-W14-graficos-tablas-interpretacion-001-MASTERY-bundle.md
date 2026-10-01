@@ -50,11 +50,11 @@ La tabla de frecuencias ordena los datos y registra cuántas veces aparece cada 
 ### Enunciado
 Según el gráfico, ¿qué equipo marcó más goles?
 ### Opciones
-- [x] A) Relámpagos, con 11 goles
+- [x] C) Relámpagos, con 11 goles
   <!-- feedback: Explica por qué es correcta: identifica la barra más alta con el valor mayor. -->
-- [ ] B) Estrellas, con 8 goles
+- [ ] A) Estrellas, con 8 goles
   <!-- feedback: Explica el error conceptual: elige la primera barra alta pero no la máxima del gráfico. -->
-- [ ] C) Truenos, con 3 goles
+- [ ] B) Truenos, con 3 goles
   <!-- feedback: Explica el error conceptual: elige la barra más baja, que es el valor mínimo. -->
 - [ ] D) Cometas, con 5 goles
   <!-- feedback: Explica el error conceptual: selecciona un valor intermedio en lugar del máximo. -->
@@ -70,11 +70,11 @@ En un gráfico de barras, la altura representa la cantidad. Comparar alturas per
 ### Enunciado
 ¿Cuál fue el total de jugos vendidos en esos cuatro días?
 ### Opciones
-- [x] A) 120 jugos
+- [x] C) 120 jugos
   <!-- feedback: Explica por qué es correcta: suma 20 más 35 más 25 más 40 y obtiene 120. -->
-- [ ] B) 100 jugos
+- [ ] A) 100 jugos
   <!-- feedback: Explica el error conceptual: omite 20 unidades al sumar de forma incompleta. -->
-- [ ] C) 110 jugos
+- [ ] B) 110 jugos
   <!-- feedback: Explica el error conceptual: comete un error de suma en las decenas finales. -->
 - [ ] D) 90 jugos
   <!-- feedback: Explica el error conceptual: suma solo tres días y deja uno por fuera. -->
@@ -90,9 +90,9 @@ Para obtener el total se suman todas las frecuencias de la tabla. La adición or
 ### Enunciado
 ¿En qué momento se registró la temperatura más alta?
 ### Opciones
-- [x] A) A las 12 p. m., con 31 grados
+- [x] B) A las 12 p. m., con 31 grados
   <!-- feedback: Explica por qué es correcta: identifica el punto más alto de la línea con el valor máximo. -->
-- [ ] B) A las 8 a. m., con 26 grados
+- [ ] A) A las 8 a. m., con 26 grados
   <!-- feedback: Explica el error conceptual: elige el punto inicial, que es el valor más bajo. -->
 - [ ] C) A las 4 p. m., con 29 grados
   <!-- feedback: Explica el error conceptual: elige un descenso posterior y no el pico del día. -->
@@ -110,13 +110,13 @@ El gráfico lineal une los valores en el tiempo y el punto más alto indica el m
 ### Enunciado
 ¿Qué porcentaje de estudiantes va en bus?
 ### Opciones
-- [x] A) 40 por ciento
+- [x] D) 40 por ciento
   <!-- feedback: Explica por qué es correcta: 16 de 40 equivale a 40 de cada 100. -->
-- [ ] B) 16 por ciento
+- [ ] A) 16 por ciento
   <!-- feedback: Explica el error conceptual: usa la frecuencia sin dividir entre el total de 40. -->
-- [ ] C) 25 por ciento
+- [ ] B) 25 por ciento
   <!-- feedback: Explica el error conceptual: supone una cuarta parte sin calcular la fracción real. -->
-- [ ] D) 60 por ciento
+- [ ] C) 60 por ciento
   <!-- feedback: Explica el error conceptual: calcula el complemento de quienes no van en bus. -->
 ### Explicacion Pedagogica
 El porcentaje se obtiene dividiendo la parte entre el total y multiplicando por 100. Con 16 sobre 40 se simplifica a 2 quintos, es decir 40 por ciento. Los porcentajes permiten comparar aunque cambie el total.
@@ -130,9 +130,9 @@ El porcentaje se obtiene dividiendo la parte entre el total y multiplicando por 
 ### Enunciado
 Analiza el gráfico y determina qué afirmación es correcta.
 ### Opciones
-- [x] A) 2024 fue el año más lluvioso y superó a 2025 por 90 milímetros
+- [x] B) 2024 fue el año más lluvioso y superó a 2025 por 90 milímetros
   <!-- feedback: Explica por qué es correcta: identifica el máximo y calcula bien la diferencia 240 menos 150. -->
-- [ ] B) 2023 fue el año más lluvioso con 240 milímetros
+- [ ] A) 2023 fue el año más lluvioso con 240 milímetros
   <!-- feedback: Explica el error conceptual: asigna a 2023 el valor que corresponde a 2024. -->
 - [ ] C) 2025 superó a 2024 por 90 milímetros
   <!-- feedback: Explica el error conceptual: invierte el orden de la comparación entre los dos años. -->
@@ -170,9 +170,9 @@ En el gráfico circular, la mitad del círculo equivale a 50 por ciento. Como 60
 ### Enunciado
 ¿Cuál es la moda y el promedio de los minutos de lectura?
 ### Opciones
-- [x] A) Moda 45 minutos y promedio 35 minutos
+- [x] B) Moda 45 minutos y promedio 35 minutos
   <!-- feedback: Explica por qué es correcta: 45 se repite dos veces y la suma 175 entre 5 da 35. -->
-- [ ] B) Moda 30 minutos y promedio 35 minutos
+- [ ] A) Moda 30 minutos y promedio 35 minutos
   <!-- feedback: Explica el error conceptual: elige un valor único como moda aunque no se repite. -->
 - [ ] C) Moda 45 minutos y promedio 40 minutos
   <!-- feedback: Explica el error conceptual: acierta la moda pero suma mal el total de minutos. -->

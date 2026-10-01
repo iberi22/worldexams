@@ -43,9 +43,9 @@ Si el radio del terreno es de 10 metros, ¿cuál es el área aproximada del terr
   <!-- feedback: Incorrecto. Calculaste la mitad de la circunferencia, no el área. -->
 - [ ] B) 62.8 m²
   <!-- feedback: Incorrecto. Calculaste la circunferencia del círculo (2πr). -->
-- [x] C) 314 m²
+- [x] D) 314 m²
   <!-- feedback: ¡Correcto! El área se calcula como π * r². 3.14 * 10² = 314. -->
-- [ ] D) 100 m²
+- [ ] C) 100 m²
   <!-- feedback: Incorrecto. Olvidaste multiplicar por el valor de π. -->
 
 ### Explicacion Pedagogica
@@ -66,9 +66,9 @@ Si depositan ₡500,000 a una tasa de interés simple del 6% anual, ¿cuánto di
 ### Opciones
 - [ ] A) ₡30,000
   <!-- feedback: Incorrecto. Este es el interés de un solo año. -->
-- [x] B) ₡90,000
+- [x] C) ₡90,000
   <!-- feedback: ¡Correcto! Interés = Principal * tasa * tiempo. 500,000 * 0.06 * 3 = 90,000. -->
-- [ ] C) ₡590,000
+- [ ] B) ₡590,000
   <!-- feedback: Incorrecto. Este es el monto total (capital + interés), no solo el interés. -->
 - [ ] D) ₡15,000
   <!-- feedback: Incorrecto. Error en el cálculo de la tasa. -->
@@ -91,11 +91,11 @@ Un uniforme cuesta ₡25,000 y tiene un 20% de descuento. ¿Cuál es el precio f
 ### Opciones
 - [ ] A) ₡5,000
   <!-- feedback: Incorrecto. Este es el monto del descuento, no el precio final. -->
-- [x] B) ₡20,000
+- [x] D) ₡20,000
   <!-- feedback: ¡Correcto! El 20% de 25,000 es 5,000. 25,000 - 5,000 = 20,000. -->
-- [ ] C) ₡22,500
+- [ ] B) ₡22,500
   <!-- feedback: Incorrecto. Calculaste un 10% de descuento. -->
-- [ ] D) ₡18,000
+- [ ] C) ₡18,000
   <!-- feedback: Incorrecto. Error en la resta o en el cálculo del porcentaje. -->
 
 ### Explicacion Pedagogica
@@ -139,11 +139,11 @@ Usamos una regla de tres simple directa: (12 L / 150 km) = (x L / 450 km). Despe
 Si la rampa sube 2 metros de altura por cada 10 metros de distancia horizontal, ¿cuál es la pendiente de la rampa expresada como porcentaje?
 
 ### Opciones
-- [ ] A) 2%
+- [ ] B) 2%
   <!-- feedback: Incorrecto. Dividiste 2 entre 100 en lugar de 10. -->
-- [ ] B) 10%
+- [ ] C) 10%
   <!-- feedback: Incorrecto. Confundiste la distancia con el resultado. -->
-- [x] C) 20%
+- [x] A) 20%
   <!-- feedback: ¡Correcto! Pendiente = (Altura / Base) * 100. (2 / 10) * 100 = 20%. -->
 - [ ] D) 5%
   <!-- feedback: Incorrecto. Dividiste 10 entre 2. -->
@@ -216,9 +216,9 @@ La edad de María es el doble que la de Juan. Si la suma de sus edades es 45 añ
 ### Opciones
 - [ ] A) 30 años
   <!-- feedback: Incorrecto. Esta es la edad de María. -->
-- [x] B) 15 años
+- [x] C) 15 años
   <!-- feedback: ¡Correcto! x + 2x = 45 => 3x = 45 => x = 15. -->
-- [ ] C) 20 años
+- [ ] B) 20 años
   <!-- feedback: Incorrecto. No cumple la condición de la suma ni del doble. -->
 - [ ] D) 10 años
   <!-- feedback: Incorrecto. Error al plantear o resolver la ecuación. -->
@@ -241,11 +241,11 @@ En una tómbola hay 100 números. 10 de ellos tienen premio. ¿Cuál es la proba
 ### Opciones
 - [ ] A) 0.10
   <!-- feedback: Incorrecto. Esta es la probabilidad de ganar un premio. -->
-- [x] B) 0.90
+- [x] D) 0.90
   <!-- feedback: ¡Correcto! Hay 90 números sin premio de 100 totales. 90/100 = 0.9. -->
-- [ ] C) 0.09
+- [ ] B) 0.09
   <!-- feedback: Incorrecto. Error en la división por 100. -->
-- [ ] D) 0.50
+- [ ] C) 0.50
   <!-- feedback: Incorrecto. No refleja la proporción real del sorteo. -->
 
 ### Explicacion Pedagogica
@@ -264,9 +264,9 @@ La probabilidad de que un evento no ocurra es (casos no favorables / total de ca
 Si el tanque tiene un radio de 2 metros y una altura de 5 metros, ¿cuál es su volumen aproximado? (Use π ≈ 3.14)
 
 ### Opciones
-- [ ] A) 31.4 m³
+- [ ] B) 31.4 m³
   <!-- feedback: Incorrecto. Olvidaste elevar el radio al cuadrado. -->
-- [x] B) 62.8 m³
+- [x] A) 62.8 m³
   <!-- feedback: ¡Correcto! V = π * r² * h = 3.14 * 2² * 5 = 3.14 * 4 * 5 = 62.8. -->
 - [ ] C) 20 m³
   <!-- feedback: Incorrecto. Multiplicaste solo las dimensiones sin π ni el cuadrado del radio. -->
@@ -289,11 +289,11 @@ El volumen de un cilindro se calcula con la fórmula V = π * r² * h. Sustituye
 Si el área del piso es de 64 metros cuadrados, ¿cuánto mide el lado del piso?
 
 ### Opciones
-- [ ] A) 32 metros
+- [ ] B) 32 metros
   <!-- feedback: Incorrecto. Dividiste el área por 2. -->
-- [ ] B) 16 metros
+- [ ] C) 16 metros
   <!-- feedback: Incorrecto. Dividiste el área por 4. -->
-- [x] C) 8 metros
+- [x] A) 8 metros
   <!-- feedback: ¡Correcto! El área de un cuadrado es L². √64 = 8. -->
 - [ ] D) 6.4 metros
   <!-- feedback: Incorrecto. Moviste el punto decimal sin sentido matemático. -->
@@ -316,11 +316,11 @@ El costo de un viaje es de ₡800 fijos más ₡600 por cada kilómetro recorrid
 ### Opciones
 - [ ] A) C(x) = 800x + 600
   <!-- feedback: Incorrecto. Asignaste el costo variable al fijo. -->
-- [x] B) C(x) = 600x + 800
+- [x] D) C(x) = 600x + 800
   <!-- feedback: ¡Correcto! El costo variable (por km) multiplica a x, y se suma el cargo fijo. -->
-- [ ] C) C(x) = 1400x
+- [ ] B) C(x) = 1400x
   <!-- feedback: Incorrecto. Sumaste el cargo fijo y el variable incorrectamente. -->
-- [ ] D) C(x) = 600 / x + 800
+- [ ] C) C(x) = 600 / x + 800
   <!-- feedback: Incorrecto. La relación es lineal directa, no inversa. -->
 
 ### Explicacion Pedagogica
@@ -343,9 +343,9 @@ Una función lineal de costo tiene la forma f(x) = mx + b, donde 'm' es el costo
   <!-- feedback: Incorrecto. Esta es solo la diferencia en las coordenadas X. -->
 - [ ] B) 4 unidades
   <!-- feedback: Incorrecto. Esta es solo la diferencia en las coordenadas Y. -->
-- [x] C) 5 unidades
+- [x] D) 5 unidades
   <!-- feedback: ¡Correcto! √((4-1)² + (6-2)²) = √(3² + 4²) = √25 = 5. -->
-- [ ] D) 7 unidades
+- [ ] C) 7 unidades
   <!-- feedback: Incorrecto. Sumaste las diferencias en lugar de aplicar la raíz de la suma de cuadrados. -->
 
 ### Explicacion Pedagogica
@@ -364,9 +364,9 @@ Usamos la fórmula de distancia: d = √((x₂ - x₁)² + (y₂ - y₁)²). d =
 Si x + y = 10 y 2x - y = 8, ¿cuál es el valor de 'x'?
 
 ### Opciones
-- [ ] A) x = 3
+- [ ] B) x = 3
   <!-- feedback: Incorrecto. No satisface las ecuaciones originales. -->
-- [x] B) x = 6
+- [x] A) x = 6
   <!-- feedback: ¡Correcto! Sumando las ecuaciones: 3x = 18 => x = 6. -->
 - [ ] C) x = 4
   <!-- feedback: Incorrecto. No satisface el sistema. -->
@@ -414,11 +414,11 @@ Cada 10 años la cantidad se divide por 2. En 30 años hay 3 periodos: (1/2) * (
 ¿Cuál es el valor de 'x' en la ecuación 10^x = 1000?
 
 ### Opciones
-- [ ] A) x = 1
+- [ ] B) x = 1
   <!-- feedback: Incorrecto. 10^1 = 10. -->
-- [ ] B) x = 2
+- [ ] C) x = 2
   <!-- feedback: Incorrecto. 10^2 = 100. -->
-- [x] C) x = 3
+- [x] A) x = 3
   <!-- feedback: ¡Correcto! 10 * 10 * 10 = 1000. -->
 - [ ] D) x = 4
   <!-- feedback: Incorrecto. 10^4 = 10000. -->
@@ -441,11 +441,11 @@ Si el estudiante está a 30 metros de la base del faro y lo observa con un ángu
 ### Opciones
 - [ ] A) 15 metros
   <!-- feedback: Incorrecto. Error en la razón trigonométrica. -->
-- [x] B) 30 metros
+- [x] D) 30 metros
   <!-- feedback: ¡Correcto! En un triángulo de 45°, los catetos son iguales (tan 45° = 1). -->
-- [ ] C) 45 metros
+- [ ] B) 45 metros
   <!-- feedback: Incorrecto. Confundiste el ángulo con la medida del lado. -->
-- [ ] D) 60 metros
+- [ ] C) 60 metros
   <!-- feedback: Incorrecto. Error en el cálculo trigonométrico. -->
 
 ### Explicacion Pedagogica
@@ -489,11 +489,11 @@ Como el coeficiente de x² es a = -2 (negativo), la parábola es cóncava hacia 
 ¿Cuál es el valor de x que satisface la ecuación log₃(2x - 1) = 2?
 
 ### Opciones
-- [ ] A) x = 3.5
+- [ ] B) x = 3.5
   <!-- feedback: Incorrecto. Error al despejar la ecuación exponencial resultante. -->
-- [ ] B) x = 4.5
+- [ ] C) x = 4.5
   <!-- feedback: Incorrecto. Error en la operación aritmética. -->
-- [x] C) x = 5
+- [x] A) x = 5
   <!-- feedback: ¡Correcto! 3² = 2x - 1 => 9 = 2x - 1 => 10 = 2x => x = 5. -->
 - [ ] D) x = 10
   <!-- feedback: Incorrecto. Error grave en la aplicación de la definición de logaritmo. -->
@@ -518,9 +518,9 @@ Si un conjunto de datos tiene una varianza de 25, ¿cuál es su desviación est�
   <!-- feedback: Incorrecto. Elevaste al cuadrado en lugar de calcular la raíz. -->
 - [ ] B) 12.5
   <!-- feedback: Incorrecto. Dividiste por 2 en lugar de calcular la raíz. -->
-- [x] C) 5
+- [x] D) 5
   <!-- feedback: ¡Correcto! La desviación estándar es la raíz cuadrada de la varianza. √25 = 5. -->
-- [ ] D) 0
+- [ ] C) 0
   <!-- feedback: Incorrecto. La varianza positiva implica una desviación positiva. -->
 
 ### Explicacion Pedagogica

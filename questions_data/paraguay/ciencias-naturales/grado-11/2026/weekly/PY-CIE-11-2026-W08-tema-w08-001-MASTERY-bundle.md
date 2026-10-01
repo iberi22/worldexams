@@ -57,8 +57,8 @@ El concepto de La transcripción constituye un fundamento esencial para comprend
 ¿Qué enzima eucariota cataliza la transcripción de los genes que codifican para las proteínas celulares (pre-ARNm)?
 
 ### Opciones
-- [x] A) La ARN polimerasa II <!-- feedback: ¡Correcto! La ARN polimerasa II responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) La caja TATA <!-- feedback: Incorrecto. La caja TATA no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) La ARN polimerasa II <!-- feedback: ¡Correcto! La ARN polimerasa II responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) La caja TATA <!-- feedback: Incorrecto. La caja TATA no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) Polirribosoma (o polisoma) <!-- feedback: Incorrecto. Polirribosoma (o polisoma) es un concepto diferente de la unidad temática. -->
 - [ ] D) El proteasoma <!-- feedback: Incorrecto. El proteasoma describe un proceso o componente distinto. -->
 
@@ -78,10 +78,10 @@ El concepto de La ARN polimerasa II constituye un fundamento esencial para compr
 ¿Qué modificación química en el extremo 5' del pre-ARNm protege al transcrito de la degradación y facilita la unión del ribosoma?
 
 ### Opciones
-- [x] A) El capuchón 5' (o metilguanosina Cap) <!-- feedback: ¡Correcto! El capuchón 5' (o metilguanosina Cap) responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Mutación de sentido erróneo (missense) <!-- feedback: Incorrecto. Mutación de sentido erróneo (missense) no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) Enlace peptídico <!-- feedback: Incorrecto. Enlace peptídico es un concepto diferente de la unidad temática. -->
-- [ ] D) El factor de transcripción <!-- feedback: Incorrecto. El factor de transcripción describe un proceso o componente distinto. -->
+- [x] D) El capuchón 5' (o metilguanosina Cap) <!-- feedback: ¡Correcto! El capuchón 5' (o metilguanosina Cap) responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Mutación de sentido erróneo (missense) <!-- feedback: Incorrecto. Mutación de sentido erróneo (missense) no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) Enlace peptídico <!-- feedback: Incorrecto. Enlace peptídico es un concepto diferente de la unidad temática. -->
+- [ ] C) El factor de transcripción <!-- feedback: Incorrecto. El factor de transcripción describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de El capuchón 5' (o metilguanosina Cap) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.
@@ -120,10 +120,10 @@ El concepto de La cola de poli-A (poliadenilación) constituye un fundamento ese
 ¿Qué proceso de procesamiento del ARN elimina selectivamente los intrones y empalma los exones para producir un ARNm maduro?
 
 ### Opciones
-- [x] A) El splicing (o empalme) <!-- feedback: ¡Correcto! El splicing (o empalme) responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Codón de terminación o STOP <!-- feedback: Incorrecto. Codón de terminación o STOP no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) Enlace peptídico <!-- feedback: Incorrecto. Enlace peptídico es un concepto diferente de la unidad temática. -->
-- [ ] D) La ARN polimerasa II <!-- feedback: Incorrecto. La ARN polimerasa II describe un proceso o componente distinto. -->
+- [x] D) El splicing (o empalme) <!-- feedback: ¡Correcto! El splicing (o empalme) responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Codón de terminación o STOP <!-- feedback: Incorrecto. Codón de terminación o STOP no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) Enlace peptídico <!-- feedback: Incorrecto. Enlace peptídico es un concepto diferente de la unidad temática. -->
+- [ ] C) La ARN polimerasa II <!-- feedback: Incorrecto. La ARN polimerasa II describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de El splicing (o empalme) constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.
@@ -141,8 +141,8 @@ El concepto de El splicing (o empalme) constituye un fundamento esencial para co
 ¿Qué estructura macromolecular catalítica compuesta de ARN y proteínas realiza el proceso de splicing o empalme del pre-ARNm?
 
 ### Opciones
-- [x] A) El espliceosoma (o complejo de empalme) <!-- feedback: ¡Correcto! El espliceosoma (o complejo de empalme) responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) El ARN de transferencia (ARNt) <!-- feedback: Incorrecto. El ARN de transferencia (ARNt) no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) El espliceosoma (o complejo de empalme) <!-- feedback: ¡Correcto! El espliceosoma (o complejo de empalme) responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) El ARN de transferencia (ARNt) <!-- feedback: Incorrecto. El ARN de transferencia (ARNt) no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) La transcripción <!-- feedback: Incorrecto. La transcripción es un concepto diferente de la unidad temática. -->
 - [ ] D) Sitio A (aminoacil) <!-- feedback: Incorrecto. Sitio A (aminoacil) describe un proceso o componente distinto. -->
 
@@ -162,8 +162,8 @@ El concepto de El espliceosoma (o complejo de empalme) constituye un fundamento 
 ¿Qué molécula adaptadora porta un anticodón específico en un extremo y se acopla a un aminoácido determinado en el otro extremo?
 
 ### Opciones
-- [x] A) El ARN de transferencia (ARNt) <!-- feedback: ¡Correcto! El ARN de transferencia (ARNt) responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Sitio A (aminoacil) <!-- feedback: Incorrecto. Sitio A (aminoacil) no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) El ARN de transferencia (ARNt) <!-- feedback: ¡Correcto! El ARN de transferencia (ARNt) responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Sitio A (aminoacil) <!-- feedback: Incorrecto. Sitio A (aminoacil) no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) El splicing (o empalme) <!-- feedback: Incorrecto. El splicing (o empalme) es un concepto diferente de la unidad temática. -->
 - [ ] D) Enlace peptídico <!-- feedback: Incorrecto. Enlace peptídico describe un proceso o componente distinto. -->
 
@@ -183,9 +183,9 @@ El concepto de El ARN de transferencia (ARNt) constituye un fundamento esencial 
 ¿Qué enzima carga covalentemente cada aminoácido correspondiente a su respectivo ARN de transferencia consumiendo ATP?
 
 ### Opciones
-- [x] A) La aminoacil-ARNt sintetasa <!-- feedback: ¡Correcto! La aminoacil-ARNt sintetasa responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) El factor de transcripción <!-- feedback: Incorrecto. El factor de transcripción no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) Es degenerado o redundante <!-- feedback: Incorrecto. Es degenerado o redundante es un concepto diferente de la unidad temática. -->
+- [x] C) La aminoacil-ARNt sintetasa <!-- feedback: ¡Correcto! La aminoacil-ARNt sintetasa responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) El factor de transcripción <!-- feedback: Incorrecto. El factor de transcripción no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) Es degenerado o redundante <!-- feedback: Incorrecto. Es degenerado o redundante es un concepto diferente de la unidad temática. -->
 - [ ] D) Mutación de sentido erróneo (missense) <!-- feedback: Incorrecto. Mutación de sentido erróneo (missense) describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
@@ -204,9 +204,9 @@ El concepto de La aminoacil-ARNt sintetasa constituye un fundamento esencial par
 ¿Cuál es el codón de inicio universal de la traducción proteica y qué aminoácido codifica en los ribosomas eucariotas?
 
 ### Opciones
-- [x] A) AUG, codifica para Metionina <!-- feedback: ¡Correcto! AUG, codifica para Metionina responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) La ARN polimerasa II <!-- feedback: Incorrecto. La ARN polimerasa II no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) La aminoacil-ARNt sintetasa <!-- feedback: Incorrecto. La aminoacil-ARNt sintetasa es un concepto diferente de la unidad temática. -->
+- [x] C) AUG, codifica para Metionina <!-- feedback: ¡Correcto! AUG, codifica para Metionina responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) La ARN polimerasa II <!-- feedback: Incorrecto. La ARN polimerasa II no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) La aminoacil-ARNt sintetasa <!-- feedback: Incorrecto. La aminoacil-ARNt sintetasa es un concepto diferente de la unidad temática. -->
 - [ ] D) La cola de poli-A (poliadenilación) <!-- feedback: Incorrecto. La cola de poli-A (poliadenilación) describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
@@ -267,8 +267,8 @@ El concepto de Sitio P (peptidil) constituye un fundamento esencial para compren
 ¿Qué enlace químico une el grupo amino de un nuevo aminoácido al grupo carboxilo de la cadena polipeptídica preexistente?
 
 ### Opciones
-- [x] A) Enlace peptídico <!-- feedback: ¡Correcto! Enlace peptídico responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) La transcripción <!-- feedback: Incorrecto. La transcripción no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) Enlace peptídico <!-- feedback: ¡Correcto! Enlace peptídico responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) La transcripción <!-- feedback: Incorrecto. La transcripción no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) La cola de poli-A (poliadenilación) <!-- feedback: Incorrecto. La cola de poli-A (poliadenilación) es un concepto diferente de la unidad temática. -->
 - [ ] D) El splicing (o empalme) <!-- feedback: Incorrecto. El splicing (o empalme) describe un proceso o componente distinto. -->
 
@@ -309,10 +309,10 @@ El concepto de Codón de terminación o STOP constituye un fundamento esencial p
 ¿Qué complejo multiproteico celular degrada de manera selectiva las proteínas dañadas marcadas previamente con ubiquitina?
 
 ### Opciones
-- [x] A) El proteasoma <!-- feedback: ¡Correcto! El proteasoma responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) La caja TATA <!-- feedback: Incorrecto. La caja TATA no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) El factor de transcripción <!-- feedback: Incorrecto. El factor de transcripción es un concepto diferente de la unidad temática. -->
-- [ ] D) Es universal <!-- feedback: Incorrecto. Es universal describe un proceso o componente distinto. -->
+- [x] D) El proteasoma <!-- feedback: ¡Correcto! El proteasoma responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) La caja TATA <!-- feedback: Incorrecto. La caja TATA no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) El factor de transcripción <!-- feedback: Incorrecto. El factor de transcripción es un concepto diferente de la unidad temática. -->
+- [ ] C) Es universal <!-- feedback: Incorrecto. Es universal describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de El proteasoma constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.
@@ -330,10 +330,10 @@ El concepto de El proteasoma constituye un fundamento esencial para comprender l
 ¿Qué factor proteico regula la tasa de transcripción de un gen uniéndose a secuencias promotoras u operadores específicos?
 
 ### Opciones
-- [x] A) El factor de transcripción <!-- feedback: ¡Correcto! El factor de transcripción responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) El splicing (o empalme) <!-- feedback: Incorrecto. El splicing (o empalme) no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) La cola de poli-A (poliadenilación) <!-- feedback: Incorrecto. La cola de poli-A (poliadenilación) es un concepto diferente de la unidad temática. -->
-- [ ] D) La transcripción <!-- feedback: Incorrecto. La transcripción describe un proceso o componente distinto. -->
+- [x] D) El factor de transcripción <!-- feedback: ¡Correcto! El factor de transcripción responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) El splicing (o empalme) <!-- feedback: Incorrecto. El splicing (o empalme) no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) La cola de poli-A (poliadenilación) <!-- feedback: Incorrecto. La cola de poli-A (poliadenilación) es un concepto diferente de la unidad temática. -->
+- [ ] C) La transcripción <!-- feedback: Incorrecto. La transcripción describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de El factor de transcripción constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.
@@ -351,9 +351,9 @@ El concepto de El factor de transcripción constituye un fundamento esencial par
 ¿Cómo se denomina al conjunto de ribosomas que traducen de manera simultánea un único filamento de ARN mensajero?
 
 ### Opciones
-- [x] A) Polirribosoma (o polisoma) <!-- feedback: ¡Correcto! Polirribosoma (o polisoma) responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) La ARN polimerasa II <!-- feedback: Incorrecto. La ARN polimerasa II no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) El espliceosoma (o complejo de empalme) <!-- feedback: Incorrecto. El espliceosoma (o complejo de empalme) es un concepto diferente de la unidad temática. -->
+- [x] C) Polirribosoma (o polisoma) <!-- feedback: ¡Correcto! Polirribosoma (o polisoma) responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) La ARN polimerasa II <!-- feedback: Incorrecto. La ARN polimerasa II no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) El espliceosoma (o complejo de empalme) <!-- feedback: Incorrecto. El espliceosoma (o complejo de empalme) es un concepto diferente de la unidad temática. -->
 - [ ] D) Es universal <!-- feedback: Incorrecto. Es universal describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
@@ -372,9 +372,9 @@ El concepto de Polirribosoma (o polisoma) constituye un fundamento esencial para
 ¿Qué propiedad del código genético indica que varios codones diferentes pueden codificar para el mismo aminoácido específico?
 
 ### Opciones
-- [x] A) Es degenerado o redundante <!-- feedback: ¡Correcto! Es degenerado o redundante responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Polirribosoma (o polisoma) <!-- feedback: Incorrecto. Polirribosoma (o polisoma) no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) Sitio P (peptidil) <!-- feedback: Incorrecto. Sitio P (peptidil) es un concepto diferente de la unidad temática. -->
+- [x] C) Es degenerado o redundante <!-- feedback: ¡Correcto! Es degenerado o redundante responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Polirribosoma (o polisoma) <!-- feedback: Incorrecto. Polirribosoma (o polisoma) no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) Sitio P (peptidil) <!-- feedback: Incorrecto. Sitio P (peptidil) es un concepto diferente de la unidad temática. -->
 - [ ] D) Mutación de sentido erróneo (missense) <!-- feedback: Incorrecto. Mutación de sentido erróneo (missense) describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
@@ -393,10 +393,10 @@ El concepto de Es degenerado o redundante constituye un fundamento esencial para
 ¿Qué característica del código genético indica que se aplica de manera idéntica en casi todos los seres vivos del planeta?
 
 ### Opciones
-- [x] A) Es universal <!-- feedback: ¡Correcto! Es universal responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Polirribosoma (o polisoma) <!-- feedback: Incorrecto. Polirribosoma (o polisoma) no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) AUG, codifica para Metionina <!-- feedback: Incorrecto. AUG, codifica para Metionina es un concepto diferente de la unidad temática. -->
-- [ ] D) La caja TATA <!-- feedback: Incorrecto. La caja TATA describe un proceso o componente distinto. -->
+- [x] D) Es universal <!-- feedback: ¡Correcto! Es universal responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Polirribosoma (o polisoma) <!-- feedback: Incorrecto. Polirribosoma (o polisoma) no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) AUG, codifica para Metionina <!-- feedback: Incorrecto. AUG, codifica para Metionina es un concepto diferente de la unidad temática. -->
+- [ ] C) La caja TATA <!-- feedback: Incorrecto. La caja TATA describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica
 El concepto de Es universal constituye un fundamento esencial para comprender los procesos analizados en la unidad de Síntesis de proteínas.
@@ -414,8 +414,8 @@ El concepto de Es universal constituye un fundamento esencial para comprender lo
 ¿Qué tipo de mutación genética sustituye una sola base nitrogenada provocando el cambio de un aminoácido por otro en la proteína?
 
 ### Opciones
-- [x] A) Mutación de sentido erróneo (missense) <!-- feedback: ¡Correcto! Mutación de sentido erróneo (missense) responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) AUG, codifica para Metionina <!-- feedback: Incorrecto. AUG, codifica para Metionina no se relaciona directamente con esta pregunta o describe otra función. -->
+- [x] B) Mutación de sentido erróneo (missense) <!-- feedback: ¡Correcto! Mutación de sentido erróneo (missense) responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) AUG, codifica para Metionina <!-- feedback: Incorrecto. AUG, codifica para Metionina no se relaciona directamente con esta pregunta o describe otra función. -->
 - [ ] C) La ARN polimerasa II <!-- feedback: Incorrecto. La ARN polimerasa II es un concepto diferente de la unidad temática. -->
 - [ ] D) Polirribosoma (o polisoma) <!-- feedback: Incorrecto. Polirribosoma (o polisoma) describe un proceso o componente distinto. -->
 
@@ -435,9 +435,9 @@ El concepto de Mutación de sentido erróneo (missense) constituye un fundamento
 ¿Qué región promotora clásica del ADN eucariota, localizada aguas arriba del gen, interacciona con los factores de transcripción?
 
 ### Opciones
-- [x] A) La caja TATA <!-- feedback: ¡Correcto! La caja TATA responde perfectamente a la base teórica correspondiente. -->
-- [ ] B) Polirribosoma (o polisoma) <!-- feedback: Incorrecto. Polirribosoma (o polisoma) no se relaciona directamente con esta pregunta o describe otra función. -->
-- [ ] C) Enlace peptídico <!-- feedback: Incorrecto. Enlace peptídico es un concepto diferente de la unidad temática. -->
+- [x] C) La caja TATA <!-- feedback: ¡Correcto! La caja TATA responde perfectamente a la base teórica correspondiente. -->
+- [ ] A) Polirribosoma (o polisoma) <!-- feedback: Incorrecto. Polirribosoma (o polisoma) no se relaciona directamente con esta pregunta o describe otra función. -->
+- [ ] B) Enlace peptídico <!-- feedback: Incorrecto. Enlace peptídico es un concepto diferente de la unidad temática. -->
 - [ ] D) AUG, codifica para Metionina <!-- feedback: Incorrecto. AUG, codifica para Metionina describe un proceso o componente distinto. -->
 
 ### Explicacion Pedagogica

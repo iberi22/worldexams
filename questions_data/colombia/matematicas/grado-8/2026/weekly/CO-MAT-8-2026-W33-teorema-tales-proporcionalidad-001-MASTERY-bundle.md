@@ -52,9 +52,9 @@ El Teorema de Tales establece la proporcionalidad: si paralelas cortan a dos tra
 ### Enunciado
 Si un segmento se divide en dos partes proporcionales a los números 2 y 4, ¿cuál es la razón entre la parte menor y la parte mayor?
 ### Opciones
-- [ ] A) 4/2 = 2
+- [ ] B) 4/2 = 2
   <!-- feedback: Incorrecto. Esa es la razón entre la parte mayor y la menor; se pide la razón menor a mayor. -->
-- [x] B) 2/4 = 1/2
+- [x] A) 2/4 = 1/2
   <!-- feedback: Correcto. La razón menor a mayor es 2/4, que simplificada es 1/2. -->
 - [ ] C) 6/2 = 3
   <!-- feedback: Incorrecto. Esa fracción compara el total con una parte, no las dos partes entre sí. -->
@@ -72,11 +72,11 @@ La razón entre dos cantidades es su cociente ordenado. Si las partes son propor
 ### Enunciado
 En un triángulo, una recta paralela a uno de los lados corta a los otros dos lados. ¿Qué afirma el Teorema de Tales sobre esa situación?
 ### Opciones
-- [ ] A) Divide a esos dos lados en segmentos iguales
+- [ ] B) Divide a esos dos lados en segmentos iguales
   <!-- feedback: Incorrecto. La igualdad solo ocurre si la paralela pasa por los puntos medios; en general la división es proporcional. -->
-- [ ] B) Forma un cuadrilátero con área igual a la mitad del triángulo
+- [ ] C) Forma un cuadrilátero con área igual a la mitad del triángulo
   <!-- feedback: Incorrecto. El área del cuadrilátero depende de la posición de la paralela; no es siempre la mitad. -->
-- [x] C) Divide a esos dos lados en segmentos proporcionales
+- [x] A) Divide a esos dos lados en segmentos proporcionales
   <!-- feedback: Correcto. Toda paralela a un lado de un triángulo divide a los otros dos lados en segmentos proporcionales. -->
 - [ ] D) Forma dos triángulos congruentes
   <!-- feedback: Incorrecto. Los triángulos formados son semejantes, no necesariamente congruentes, pues tienen distinto tamaño. -->
@@ -92,9 +92,9 @@ Es el corolario del Teorema de Tales en el triángulo: la paralela genera un tri
 ### Enunciado
 ¿Cuánto mide el segmento desconocido x correspondiente al segmento de 6 m?
 ### Opciones
-- [ ] A) 3 m
+- [ ] B) 3 m
   <!-- feedback: Incorrecto. Ese valor resultaría de una resta 6 - 3; debes plantear la proporción 3/6 = 2/x. -->
-- [x] B) 4 m
+- [x] A) 4 m
   <!-- feedback: Correcto. Como 3/6 = 2/x, entonces 3x = 12 y x = 4. -->
 - [ ] C) 5 m
   <!-- feedback: Incorrecto. Ese valor suma 3 + 2; la relación correcta es multiplicativa, no aditiva. -->
@@ -112,9 +112,9 @@ Se plantea 3/6 = 2/x. Al multiplicar en cruz: 3x = 12, de donde x = 4 m. Este pr
 ### Enunciado
 Por semejanza de los rayos del sol, que son paralelos, ¿cuál es la altura de la palmera?
 ### Opciones
-- [ ] A) 3,5 m
+- [ ] B) 3,5 m
   <!-- feedback: Incorrecto. Ese valor divide 7,5 entre algo incorrecto; la proporción es 2/3 = h/7,5. -->
-- [x] B) 5 m
+- [x] A) 5 m
   <!-- feedback: Correcto. Como 2/3 = h/7,5, entonces h = (2 por 7,5) / 3 = 15/3 = 5. -->
 - [ ] C) 6 m
   <!-- feedback: Incorrecto. Ese valor sumaría 2 + algo; la relación entre altura y sombra es proporcional, no aditiva. -->
@@ -134,9 +134,9 @@ Los rayos solares paralelos forman triángulos semejantes con los objetos y sus 
 ### Opciones
 - [ ] A) 20 m y 40 m
   <!-- feedback: Incorrecto. Esa división corresponde a la razón 1 a 2, no a 2 a 3. -->
-- [x] B) 24 m y 36 m
+- [x] C) 24 m y 36 m
   <!-- feedback: Correcto. El total se reparte en 2 + 3 = 5 partes de 12 m: 2 × 12 = 24 y 3 × 12 = 36. -->
-- [ ] C) 30 m y 30 m
+- [ ] B) 30 m y 30 m
   <!-- feedback: Incorrecto. Esa es una división en partes iguales, que corresponde a la razón 1 a 1. -->
 - [ ] D) 15 m y 45 m
   <!-- feedback: Incorrecto. Esa división corresponde a la razón 1 a 3, no a 2 a 3. -->
@@ -154,9 +154,9 @@ Para repartir 60 m en razón 2:3 se divide entre 5 partes iguales: 60/5 = 12 m p
 ### Opciones
 - [ ] A) EC = 8 cm y razón 2/3
   <!-- feedback: Incorrecto. EC = 8 no satisface 4/6 = 6/8, pues 4 × 8 = 32 y 6 × 6 = 36. -->
-- [x] B) EC = 9 cm y razón 2/5
+- [x] C) EC = 9 cm y razón 2/5
   <!-- feedback: Correcto. Como 4/6 = 6/EC, EC = 36/4 = 9; AB = 10 y AD = 4, razón 4/10 = 2/5. -->
-- [ ] C) EC = 9 cm y razón 3/2
+- [ ] B) EC = 9 cm y razón 3/2
   <!-- feedback: Incorrecto. EC = 9 es correcto, pero 3/2 es la razón del grande al pequeño invertida parcialmente; la razón pequeño a grande es 2/5. -->
 - [ ] D) EC = 10 cm y razón 2/5
   <!-- feedback: Incorrecto. La razón 2/5 es correcta, pero EC = 10 no cumple la proporción 4/6 = 6/10. -->
@@ -174,11 +174,11 @@ Si la visual forma triángulos semejantes de razón listón a distancia del ojo 
 ### Opciones
 - [ ] A) 6 m
   <!-- feedback: Incorrecto. Ese valor usa razón 1/2 en vez de 1,5/2; subestima la altura. -->
-- [x] B) 9 m
+- [x] D) 9 m
   <!-- feedback: Correcto. La altura es 12 × (1,5/2) = 12 × 0,75 = 9 m por semejanza. -->
-- [ ] C) 12 m
+- [ ] B) 12 m
   <!-- feedback: Incorrecto. Ese valor iguala la altura a la distancia, lo que supondría razón 1, no 0,75. -->
-- [ ] D) 18 m
+- [ ] C) 18 m
   <!-- feedback: Incorrecto. Ese valor multiplica 12 × 1,5 sin dividir entre 2; olvida la distancia del listón al ojo. -->
 ### Explicacion Pedagogica
 Los triángulos son semejantes por tener ángulos iguales y lados sobre paralelas. La razón constante es 1,5/2 = 0,75. Entonces altura = 12 × 0,75 = 9 m. El análisis consiste en identificar correctamente los lados homólogos.
@@ -194,11 +194,11 @@ Los triángulos son semejantes por tener ángulos iguales y lados sobre paralela
 ### Opciones
 - [ ] A) 6 m y 9 m
   <!-- feedback: Incorrecto. Esa respuesta mantiene diferencias aditivas, no la razón 4/5 constante. -->
-- [x] B) 8 m y 12 m
+- [x] D) 8 m y 12 m
   <!-- feedback: Correcto. La razón es 4/5 = 0,8; luego 10 × 0,8 = 8 y 15 × 0,8 = 12. -->
-- [ ] C) 9 m y 14 m
+- [ ] B) 9 m y 14 m
   <!-- feedback: Incorrecto. Esos valores suman 5 a cada dato original; la relación de Tales es multiplicativa. -->
-- [ ] D) 10 m y 15 m
+- [ ] C) 10 m y 15 m
   <!-- feedback: Incorrecto. Esos valores copian los segmentos de la primera avenida e ignoran la proporcionalidad con el 4 m. -->
 ### Explicacion Pedagogica
 Todas las razones respecto a la primera avenida deben ser iguales: x/10 = 4/5 y y/15 = 4/5. Así x = 8 m y y = 12 m. Se verifica que 4/5 = 8/10 = 12/15 = 0,8, confirmando el Teorema de Tales con tres paralelas.
@@ -214,9 +214,9 @@ Todas las razones respecto a la primera avenida deben ser iguales: x/10 = 4/5 y 
 ### Opciones
 - [ ] A) La de 14 cm por 20 cm, porque suma 4 y 5 a cada lado
   <!-- feedback: Incorrecto. Sumar cantidades distintas rompe la proporción: 10/14 es diferente de 15/20. -->
-- [x] B) La de 14 cm por 21 cm, porque 10/14 = 15/21 = 5/7
+- [x] C) La de 14 cm por 21 cm, porque 10/14 = 15/21 = 5/7
   <!-- feedback: Correcto. Ambas fracciones se simplifican a 5/7, por lo que los lados son proporcionales y la imagen no se deforma. -->
-- [ ] C) Ambas son correctas porque parten del mismo original
+- [ ] B) Ambas son correctas porque parten del mismo original
   <!-- feedback: Incorrecto. Partir del mismo original no garantiza proporcionalidad; solo 14 por 21 mantiene la razón 2/3. -->
 - [ ] D) Ninguna es correcta porque 10 y 15 no son proporcionales
   <!-- feedback: Incorrecto. La proporcionalidad se evalúa entre original y ampliación, no entre los lados del original. -->
@@ -234,9 +234,9 @@ Evaluar exige comprobar la igualdad de razones: 10/14 = 5/7 ≈ 0,714 y 15/21 = 
 ### Opciones
 - [ ] A) El primero, porque 3 + 6 = 4 + 5 y eso basta
   <!-- feedback: Incorrecto. La condición del recíproco es la igualdad de razones, no de sumas; además 4 + 5 no corresponde a los datos. -->
-- [ ] B) El primero, porque toda recta interior es paralela
+- [ ] C) El primero, porque toda recta interior es paralela
   <!-- feedback: Incorrecto. Solo son paralelas las rectas que determinan segmentos proporcionales; no toda recta interior lo es. -->
-- [x] C) El segundo, porque 3/6 = 1/2 es distinto de 4/9
+- [x] B) El segundo, porque 3/6 = 1/2 es distinto de 4/9
   <!-- feedback: Correcto. Como 1/2 ≈ 0,5 y 4/9 ≈ 0,44, las razones difieren y el recíproco de Tales niega el paralelismo. -->
 - [ ] D) El segundo, porque los segmentos deben ser iguales
   <!-- feedback: Incorrecto. La conclusión es correcta pero el argumento es falso: se exige proporcionalidad, no igualdad. -->
@@ -254,11 +254,11 @@ El recíproco de Tales dice: si los segmentos son proporcionales, la recta es pa
 ### Opciones
 - [ ] A) Sí, x = 7 m es correcto porque 6 + 1 = 7
   <!-- feedback: Incorrecto. Ese razonamiento aditivo no corresponde al Teorema de Tales, que exige igualdad de razones. -->
-- [x] B) No, el valor correcto es x = 8 m porque 6/9 = 8/12 = 2/3
+- [x] D) No, el valor correcto es x = 8 m porque 6/9 = 8/12 = 2/3
   <!-- feedback: Correcto. La proporción 6/9 = x/12 da x = 72/9 = 8; con x = 7 la razón sería 7/12 ≠ 2/3. -->
-- [ ] C) No, el valor correcto es x = 9 m por simetría
+- [ ] B) No, el valor correcto es x = 9 m por simetría
   <!-- feedback: Incorrecto. La simetría no aplica aquí; x = 9 daría 9/12 = 3/4, distinto de 6/9 = 2/3. -->
-- [ ] D) Sí, x = 7 m porque 9 - 6 = 12 - 9
+- [ ] C) Sí, x = 7 m porque 9 - 6 = 12 - 9
   <!-- feedback: Incorrecto. Esa igualdad de diferencias es casual y no demuestra proporcionalidad: 7/12 ≈ 0,58 ≠ 0,67. -->
 ### Explicacion Pedagogica
 Evaluar el informe exige verificar 6/9 frente a 7/12: 2/3 ≈ 0,667 contra 0,583, por lo que el informe es falso. El valor que satisface 6/9 = x/12 es x = 8 m, pues 8/12 = 2/3. Así se corrige el error con evidencia proporcional.

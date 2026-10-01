@@ -35,9 +35,9 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ¿Cuál de las siguientes opciones describe el orden cronológico convencional de la trama en una narración clásica?
 
 ### Opciones
-- [x] A) Planteamiento del estado inicial, irrupción de un conflicto (nudo), desarrollo de acciones y resolución final (desenlace).
+- [x] B) Planteamiento del estado inicial, irrupción de un conflicto (nudo), desarrollo de acciones y resolución final (desenlace).
   <!-- feedback: Correcto. Es el orden lógico lineal clásico de la narrativa tradicional. -->
-- [ ] B) Presentación de tesis, argumentación de datos empíricos y contraargumentación conclusiva.
+- [ ] A) Presentación de tesis, argumentación de datos empíricos y contraargumentación conclusiva.
   <!-- feedback: Incorrecto. Corresponde a la estructura de un texto argumentativo. -->
 - [ ] C) Definición conceptual del término principal, ejemplos de clasificación taxonómica y glosario técnico.
   <!-- feedback: Incorrecto. Describe la estructura típica de un texto expositivo o enciclopédico. -->
@@ -62,9 +62,9 @@ La macroestructura narrativa tradicional se articula en torno a tres momentos fu
 ### Opciones
 - [ ] A) Narrador omnisciente (tercera persona con conocimiento total de pensamientos).
   <!-- feedback: Incorrecto. El omnisciente no forma parte de los acontecimientos del relato como personaje principal. -->
-- [x] B) Narrador protagonista (primera persona que cuenta su propia vivencia de forma subjetiva).
+- [x] C) Narrador protagonista (primera persona que cuenta su propia vivencia de forma subjetiva).
   <!-- feedback: Correcto. El narrador protagonista asume la voz principal relatando su experiencia directa. -->
-- [ ] C) Narrador testigo (tercera persona observadora que relata lo que le ocurre a otros personajes).
+- [ ] B) Narrador testigo (tercera persona observadora que relata lo que le ocurre a otros personajes).
   <!-- feedback: Incorrecto. El testigo presencia los hechos pero no es el centro dramático del relato. -->
 - [ ] D) Narrador en segunda persona apelativo directo de carácter judicial.
   <!-- feedback: Incorrecto. Es un estilo experimental poco frecuente y no describe la autovivencia típica del protagonista. -->
@@ -87,9 +87,9 @@ El narrador protagonista utiliza la primera persona del singular para articular 
 ### Opciones
 - [ ] A) El uso obligatorio de rimas asonantes en todas las intervenciones de los héroes.
   <!-- feedback: Incorrecto. La crónica es un texto en prosa y no se escribe con rimas poéticas. -->
-- [x] B) El compromiso con la verdad fáctica de los sucesos reales relatados siguiendo un orden temporal, aunque incorpore recursos literarios.
+- [x] C) El compromiso con la verdad fáctica de los sucesos reales relatados siguiendo un orden temporal, aunque incorpore recursos literarios.
   <!-- feedback: Correcto. La crónica se nutre de acontecimientos reales e históricos organizados cronológicamente. -->
-- [ ] C) La ausencia absoluta de personajes humanos y de descripciones geográficas de Guanacaste.
+- [ ] B) La ausencia absoluta de personajes humanos y de descripciones geográficas de Guanacaste.
   <!-- feedback: Incorrecto. Al contrario, las crónicas abundan en personajes reales y precisiones espaciales territoriales. -->
 - [ ] D) La redacción de la crónica utilizando únicamente oraciones cortas exclamativas sin verbos conjugados.
   <!-- feedback: Incorrecto. El estilo narrativo requiere verbos conjugados en pasado para relatar los hechos secuenciales. -->
@@ -112,9 +112,9 @@ Si decide utilizar un narrador testigo, ¿cuál de las siguientes oraciones repr
 ### Opciones
 - [ ] A) Yo caminé asustado por el oscuro potrero de Cartago sintiendo un frío inmenso en el pecho.
   <!-- feedback: Incorrecto. Representa la voz de un narrador protagonista en primera persona. -->
-- [x] B) Desde mi ventana vi pasar a don Carlos, quien corría despavorido mientras un perro de ojos rojos lo seguía de cerca entre los matorrales.
+- [x] C) Desde mi ventana vi pasar a don Carlos, quien corría despavorido mientras un perro de ojos rojos lo seguía de cerca entre los matorrales.
   <!-- feedback: Correcto. El narrador testigo narra en primera persona lo que observa que le ocurre a otro personaje (don Carlos). -->
-- [ ] C) El joven corrió asustado sabiendo íntimamente que el Cadejos lo castigaría por sus malos actos.
+- [ ] B) El joven corrió asustado sabiendo íntimamente que el Cadejos lo castigaría por sus malos actos.
   <!-- feedback: Incorrecto. Indica una perspectiva de narrador omnisciente que conoce los pensamientos íntimos del joven. -->
 - [ ] D) Usted sintió un gran pánico al escuchar las cadenas arrastrarse por la calle principal del cantón.
   <!-- feedback: Incorrecto. Corresponde al uso del narrador en segunda persona. -->
@@ -160,9 +160,9 @@ La raya (—) delimita de forma clara el discurso de los personajes, diferencian
 ¿Qué tiempo verbal del modo indicativo es el idóneo para describir las acciones principales y puntuales del relato que hacen avanzar la trama de forma rápida?
 
 ### Opciones
-- [ ] A) Pretérito imperfecto de indicativo (cantaba, corría).
+- [ ] B) Pretérito imperfecto de indicativo (cantaba, corría).
   <!-- feedback: Incorrecto. Este tiempo se utiliza para describir estados, acciones habituales o el marco de fondo, no las acciones puntuales. -->
-- [x] B) Pretérito perfecto simple de indicativo (cantó, corrió).
+- [x] A) Pretérito perfecto simple de indicativo (cantó, corrió).
   <!-- feedback: Correcto. Es el tiempo narrativo por excelencia para presentar hechos concluidos y puntuales que dinamizan la acción. -->
 - [ ] C) Presente de subjuntivo (cante, corra).
   <!-- feedback: Incorrecto. Expresa deseos o hipótesis, inadecuados para el relato directo de hechos pasados completados. -->
@@ -212,9 +212,9 @@ En la narrativa, la descripción del entorno físico actúa como un catalizador 
 ### Opciones
 - [ ] A) Hace muchos años, en un tranquilo pueblo de San José, vivía una humilde familia de agricultores que sembraba maíz.
   <!-- feedback: Incorrecto. Es el inicio cronológico descriptivo convencional (planteamiento clásico). -->
-- [x] B) La bala silbó cerca de su oído izquierdo mientras corría desesperadamente entre los callejones oscuros de Alajuela.
+- [x] C) La bala silbó cerca de su oído izquierdo mientras corría desesperadamente entre los callejones oscuros de Alajuela.
   <!-- feedback: Correcto. Arroja al lector directamente al núcleo del peligro y la acción sin preámbulos explicativos de la situación. -->
-- [ ] C) Este cuento relatará los acontecimientos que llevaron al gran terremoto de Cartago de mil novecientos diez.
+- [ ] B) Este cuento relatará los acontecimientos que llevaron al gran terremoto de Cartago de mil novecientos diez.
   <!-- feedback: Incorrecto. Es un inicio expositivo o de crónica retrospectiva de advertencia al lector. -->
 - [ ] D) Había una vez un rey que gobernaba una hermosa provincia costarricense rodeada de verdes montañas.
   <!-- feedback: Incorrecto. Es la fórmula arquetípica de introducción de los cuentos tradicionales. -->
@@ -262,11 +262,11 @@ La descripción pausada y el pretérito imperfecto son los recursos idóneos par
 ### Opciones
 - [ ] A) Sustituir al protagonista para que la novela se quede sin voz conductora principal.
   <!-- feedback: Incorrecto. El protagonista mantiene su importancia central; los secundarios giran en torno a él. -->
-- [x] B) Contribuir al avance de la trama principal realizando acciones que interactúan con el protagonista y enriquecen los conflictos secundarios.
+- [x] D) Contribuir al avance de la trama principal realizando acciones que interactúan con el protagonista y enriquecen los conflictos secundarios.
   <!-- feedback: Correcto. Los secundarios dan densidad social, diversifican la trama e impulsan o entorpecen los planes del héroe. -->
-- [ ] C) Redactar el prólogo histórico del libro para explicar el cultivo de banano en el Caribe.
+- [ ] B) Redactar el prólogo histórico del libro para explicar el cultivo de banano en el Caribe.
   <!-- feedback: Incorrecto. El prólogo lo escribe el autor o un prologuista, no un personaje de ficción. -->
-- [ ] D) Explicar las reglas gramaticales y sintácticas del Ministerio.
+- [ ] C) Explicar las reglas gramaticales y sintácticas del Ministerio.
   <!-- feedback: Incorrecto. No tienen fines didácticos de ortografía, son de ficción literaria. -->
 
 ### Explicacion Pedagogica
@@ -285,13 +285,13 @@ Los personajes secundarios configuran el entorno dramático y actúan como facil
 ¿Cómo contribuyen los elementos sensoriales descritos a la caracterización psicológica de la escena?
 
 ### Opciones
-- [x] A) El chirrido metálico, el silencio denso y la tarde gris se corresponden con el estado de ánimo de melancolía y resignación del peón.
+- [x] D) El chirrido metálico, el silencio denso y la tarde gris se corresponden con el estado de ánimo de melancolía y resignación del peón.
   <!-- feedback: Correcto. El ambiente y los sonidos reflejan simbólicamente la fatiga existencial, soledad y tristeza del personaje principal. -->
-- [ ] B) Los bueyes simbolizan la rebelión inminente de los obreros agrícolas costarricenses contra las municipalidades.
+- [ ] A) Los bueyes simbolizan la rebelión inminente de los obreros agrícolas costarricenses contra las municipalidades.
   <!-- feedback: Incorrecto. Los bueyes caminan dócilmente por la ruta de memoria, no muestran signos de rebelión. -->
-- [ ] C) La tarde gris es una descripción meteorológica que busca de forma explícita instruir sobre el clima de Cartago.
+- [ ] B) La tarde gris es una descripción meteorológica que busca de forma explícita instruir sobre el clima de Cartago.
   <!-- feedback: Incorrecto. La descripción posee un fin expresivo estético literario, no meteorológico divulgativo. -->
-- [ ] D) El quejido de la madera anuncia la destrucción fantástica de la carreta por un rayo del Volcán Irazú.
+- [ ] C) El quejido de la madera anuncia la destrucción fantástica de la carreta por un rayo del Volcán Irazú.
   <!-- feedback: Incorrecto. El quejido es mecánico debido a la vejez de la carreta, no una premonición de fantasía. -->
 
 ### Explicacion Pedagogica
@@ -312,11 +312,11 @@ En la literatura realista y costumbrista, la atmósfera espacial y sensorial se 
 ### Opciones
 - [ ] A) Acelerar la resolución de los problemas del protagonista josefino.
   <!-- feedback: Incorrecto. Detiene momentáneamente la progresión de la línea temporal presente, retardando el desenlace. -->
-- [x] B) Suspender temporalmente el hilo del presente para revelar acontecimientos pasados cruciales que justifican las conductas actuales del personaje principal.
+- [x] D) Suspender temporalmente el hilo del presente para revelar acontecimientos pasados cruciales que justifican las conductas actuales del personaje principal.
   <!-- feedback: Correcto. La analepsis retrocede el tiempo cronológico para contextualizar y dar densidad dramática a los hechos del presente. -->
-- [ ] C) Permitir que el lector decida libremente el orden geográfico de las provincias que desea visitar en sus vacaciones.
+- [ ] B) Permitir que el lector decida libremente el orden geográfico de las provincias que desea visitar en sus vacaciones.
   <!-- feedback: Incorrecto. No se trata de una guía de viajes interactiva, sino de un recurso narrativo estructural temporal. -->
-- [ ] D) Explicar las normas de ortografía y puntuación aplicables a las cartas del siglo diecinueve.
+- [ ] C) Explicar las normas de ortografía y puntuación aplicables a las cartas del siglo diecinueve.
   <!-- feedback: Incorrecto. El fin es puramente estético y compositivo literario, no una lección de ortografía. -->
 
 ### Explicacion Pedagogica
@@ -336,9 +336,9 @@ La analepsis fractura el orden cronológico lineal para enriquecer la profundida
 ¿Qué nivel de lengua se manifiesta principalmente en el discurso del personaje de este fragmento?
 
 ### Opciones
-- [ ] A) Nivel científico formal con abundantes préstamos de la biología.
+- [ ] B) Nivel científico formal con abundantes préstamos de la biología.
   <!-- feedback: Incorrecto. No utiliza tecnicismos científicos, sino expresiones sumamente sencillas. -->
-- [x] B) Nivel coloquial costarricense, caracterizado por el uso de interjecciones típicas ('diay') y giros idiomáticos populares de la región.
+- [x] A) Nivel coloquial costarricense, caracterizado por el uso de interjecciones típicas ('diay') y giros idiomáticos populares de la región.
   <!-- feedback: Correcto. El 'diay' y expresiones coloquiales como 'empapar de lo lindo' son marcas claras del registro informal y popular local. -->
 - [ ] C) Nivel formal propio de los textos parlamentarios de la Asamblea.
   <!-- feedback: Incorrecto. Las expresiones populares e interjecciones son ajenas al rigor formal del debate legislativo. -->
@@ -363,11 +363,11 @@ La literatura costumbrista costarricense de autores como Aquileo J. Echeverría 
 ### Opciones
 - [ ] A) Busca promover la migración de la población josefina hacia las fincas de café del sur.
   <!-- feedback: Incorrecto. El realismo social denuncia carencias, no hace propaganda laboral agraria. -->
-- [x] B) Pretende denunciar las injusticias y desigualdades sociales de la época, dando voz y visibilidad a sectores históricamente marginados de la nación.
+- [x] D) Pretende denunciar las injusticias y desigualdades sociales de la época, dando voz y visibilidad a sectores históricamente marginados de la nación.
   <!-- feedback: Correcto. Es el postulado básico de la narrativa realista de la generación de los cuarenta y cincuenta en Costa Rica. -->
-- [ ] C) Desea convencer al MEP de eliminar las clases de literatura de los colegios.
+- [ ] B) Desea convencer al MEP de eliminar las clases de literatura de los colegios.
   <!-- feedback: Incorrecto. La obra artística no tiene como propósito la reforma curricular escolar interna de secundaria. -->
-- [ ] D) Tiene la intención de explicar detalladamente la mecánica de los motores de los trapiches.
+- [ ] C) Tiene la intención de explicar detalladamente la mecánica de los motores de los trapiches.
   <!-- feedback: Incorrecto. Se enfoca en las condiciones humanas y sociales, no en descripciones industriales puras. -->
 
 ### Explicacion Pedagogica
@@ -386,9 +386,9 @@ La narrativa de realismo social en Costa Rica posee una marcada intencionalidad 
 ¿Cómo afecta esta técnica de resolución la calidad y coherencia interna del tejido narrativo?
 
 ### Opciones
-- [ ] A) La fortalece porque introduce elementos mágicos que deleitan a la población escolar de Costa Rica.
+- [ ] B) La fortalece porque introduce elementos mágicos que deleitan a la población escolar de Costa Rica.
   <!-- feedback: Incorrecto. El uso de resoluciones mágicas incongruentes desbarata la verosimilitud de la historia, decepcionando al lector. -->
-- [x] B) La debilita profundamente, ya que los conflictos principales se resuelven de forma arbitraria e inverosímil, rompiendo la lógica interna y el esfuerzo del protagonista por superar sus problemas.
+- [x] A) La debilita profundamente, ya que los conflictos principales se resuelven de forma arbitraria e inverosímil, rompiendo la lógica interna y el esfuerzo del protagonista por superar sus problemas.
   <!-- feedback: Correcto. El 'deus ex machina' frustra el desarrollo orgánico de la trama, restando mérito al diseño lógico de las acciones de los personajes. -->
 - [ ] C) No afecta la obra puesto que las novelas policíacas no requieren guardar ninguna coherencia en Costa Rica.
   <!-- feedback: Incorrecto. Las novelas policíacas y de misterio son las que más rigor lógico y coherencia interna exigen. -->
@@ -414,11 +414,11 @@ Un tejido narrativo consistente exige que el desarrollo y desenlace broten de la
 ### Opciones
 - [ ] A) Es considerado una obra de arte inigualable en la literatura costarricense.
   <!-- feedback: Incorrecto. Es uno de los recursos de resolución más trillados de la historia de la narrativa de ficción. -->
-- [x] B) Es evaluado frecuentemente como un desenlace facilista o cliché que resta valor a la construcción fantástica previa al invalidar el universo ficticio como simple fantasía onírica.
+- [x] D) Es evaluado frecuentemente como un desenlace facilista o cliché que resta valor a la construcción fantástica previa al invalidar el universo ficticio como simple fantasía onírica.
   <!-- feedback: Correcto. Resolver una trama compleja con 'todo fue un sueño' anula la autenticidad y la inmersión del mundo creado, devaluando el suspenso literario. -->
-- [ ] C) Resulta instructivo para enseñar a los jóvenes costarricenses a dormir temprano.
+- [ ] B) Resulta instructivo para enseñar a los jóvenes costarricenses a dormir temprano.
   <!-- feedback: Incorrecto. El fin de un cuento literario fantástico no es dar lecciones morales de higiene del sueño. -->
-- [ ] D) Es inválido ya que el MEP prohíbe la recreación de cuentos que mencionen escuelas del país.
+- [ ] C) Es inválido ya que el MEP prohíbe la recreación de cuentos que mencionen escuelas del país.
   <!-- feedback: Incorrecto. No hay prohibiciones sobre la temática del ambiente escolar cotidiano en cuentos. -->
 
 ### Explicacion Pedagogica
@@ -465,9 +465,9 @@ El análisis literario de problemáticas marginales o migratorias humaniza la ed
 ### Opciones
 - [ ] A) Es una descripción geográfica que detalla la cantidad de zoológicos de San José.
   <!-- feedback: Incorrecto. Es un tropo literario subjetivo, no una descripción del zoológico de la ciudad. -->
-- [ ] B) Anuncia que el protagonista será encarcelado por robo.
+- [ ] C) Anuncia que el protagonista será encarcelado por robo.
   <!-- feedback: Incorrecto. No hay elementos que apunten a delitos del protagonista; la jaula es un estado existencial de ahogo. -->
-- [x] C) Sintetiza la profunda opresión, alineación y asfixia vital que experimenta el personaje frente a la hostilidad del entorno urbano josefino.
+- [x] B) Sintetiza la profunda opresión, alineación y asfixia vital que experimenta el personaje frente a la hostilidad del entorno urbano josefino.
   <!-- feedback: Correcto. El tropo de la jaula transmite con fuerza estética el sentimiento de encierro existencial del personaje en el medio de la gran urbe capitalina. -->
 - [ ] D) Indica que Costa Rica iniciará la exportación masiva de cemento hacia el exterior.
   <!-- feedback: Incorrecto. Carece de sentido dentro del análisis estético e intimista de la perspectiva literaria del fragmento. -->
@@ -490,9 +490,9 @@ La metáfora espacial asocia el cemento citadino con el confinamiento de la jaul
 ### Opciones
 - [ ] A) Es una muestra de modernismo que facilita la comunicación entre los soldados de la gesta.
   <!-- feedback: Incorrecto. Se trata de un grave error de coherencia cronológica e histórica elemental. -->
-- [x] B) Constituye un anacronismo severo que destruye la verosimilitud y el pacto de realismo histórico indispensable en este género.
+- [x] C) Constituye un anacronismo severo que destruye la verosimilitud y el pacto de realismo histórico indispensable en este género.
   <!-- feedback: Correcto. Un anacronismo consiste en situar elementos tecnológicos u objetos fuera de su época histórica correspondiente, arruinando el realismo. -->
-- [ ] C) Representa una metáfora sobre el desarrollo de las telecomunicaciones en el país.
+- [ ] B) Representa una metáfora sobre el desarrollo de las telecomunicaciones en el país.
   <!-- feedback: Incorrecto. No hay ninguna justificación simbólica, es una simple transgresión de la fidelidad del contexto histórico. -->
 - [ ] D) Es perfectamente válido porque Juan Santamaría construía radios portátiles en Alajuela.
   <!-- feedback: Incorrecto. Juan Santamaría era un humilde peón alajuelense y la tecnología telefónica celular no se inventó hasta el siglo veinte. -->
@@ -515,11 +515,11 @@ La fidelidad histórica y la ausencia de anacronismos absurdos son fundamentales
 ### Opciones
 - [ ] A) Al huso horario costarricense comparado con el de otros países de la región.
   <!-- feedback: Incorrecto. Es un aspecto astronómico y geográfico ajeno a la teoría del análisis literario formal de novelas. -->
-- [x] B) El tiempo de la historia es el orden cronológico objetivo de los hechos, mientras que el tiempo del relato es la forma estética y subjetiva en que el narrador dispone los sucesos en el texto.
+- [x] D) El tiempo de la historia es el orden cronológico objetivo de los hechos, mientras que el tiempo del relato es la forma estética y subjetiva en que el narrador dispone los sucesos en el texto.
   <!-- feedback: Correcto. Describe fielmente los conceptos de fábula (cronológica) y trama (artística temporal dispositiva). -->
-- [ ] C) A la velocidad de lectura que tiene un estudiante del Liceo de Heredia comparada con la de un profesor del MEP.
+- [ ] B) A la velocidad de lectura que tiene un estudiante del Liceo de Heredia comparada con la de un profesor del MEP.
   <!-- feedback: Incorrecto. La velocidad física de lectura individual no forma parte de la estructura de la novela misma. -->
-- [ ] D) A la época de la colonia en Costa Rica frente a la época democrática costarricense.
+- [ ] C) A la época de la colonia en Costa Rica frente a la época democrática costarricense.
   <!-- feedback: Incorrecto. Es una distinción sociológica histórica externa que no define los componentes de la teoría temporal narrativa interna. -->
 
 ### Explicacion Pedagogica

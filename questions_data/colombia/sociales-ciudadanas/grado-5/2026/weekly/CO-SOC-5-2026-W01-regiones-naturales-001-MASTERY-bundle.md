@@ -34,13 +34,13 @@ Geografía física, clima, relieve y diversidad cultural de las seis regiones na
 ¿Cuál de las siguientes regiones colombianas abarca la zona insular conformada por archipiélagos e islas en los océanos Atlántico y Pacífico?
 
 ### Opciones
-- [x] A) Región Insular (San Andrés, Providencia, Malpelo).
+- [x] D) Región Insular (San Andrés, Providencia, Malpelo).
   <!-- feedback: La Región Insular comprende las islas oceánicas e insulares de Colombia en ambos mares. -->
-- [ ] B) Región Andina.
+- [ ] A) Región Andina.
   <!-- feedback: La Región Andina es continental y abarca las tres cordilleras de los Andes. -->
-- [ ] C) Región de la Orinoquía.
+- [ ] B) Región de la Orinoquía.
   <!-- feedback: La Orinoquía es continental y corresponde a los llanos orientales. -->
-- [ ] D) Región Amazónica.
+- [ ] C) Región Amazónica.
   <!-- feedback: La Amazonía comprende la selva húmeda del sur del país en el continente. -->
 
 ### Explicacion Pedagogica
@@ -57,9 +57,9 @@ Identificación de la división regional geográfica oficial de Colombia y sus c
 ¿Qué factor geográfico principal determina la variedad de climas y cultivos agrícolas en la Región Andina?
 
 ### Opciones
-- [x] A) La variación de la altitud sobre el nivel del mar a lo largo de las cordilleras (pisos térmicos).
+- [x] B) La variación de la altitud sobre el nivel del mar a lo largo de las cordilleras (pisos térmicos).
   <!-- feedback: A mayor altitud disminuye la temperatura, generando pisos térmicos cálido, templado, frío, páramo y nival. -->
-- [ ] B) La presencia constante de marea alta en los valles interandinos.
+- [ ] A) La presencia constante de marea alta en los valles interandinos.
   <!-- feedback: Las mareas afectan las costas marinas, no la altitud de los valles interandinos. -->
 - [ ] C) La falta absoluta de ríos en los departamentos del interior.
   <!-- feedback: La región Andina alberga grandes ríos como el Magdalena y el Cauca. -->
@@ -103,9 +103,9 @@ Asociación de paisajes naturales, actividades económicas (ganadería) y folclo
 ¿Cuál de los siguientes departamentos colombianos posee territorio en la litoral de la Región Pacífica?
 
 ### Opciones
-- [x] A) Chocó.
+- [x] B) Chocó.
   <!-- feedback: Chocó se ubica completamente en la Región Pacífica y es centro de su biodiversidad. -->
-- [ ] B) Boyacá.
+- [ ] A) Boyacá.
   <!-- feedback: Boyacá se encuentra ubicado en la Región Andina (Cordillera Oriental). -->
 - [ ] C) Meta.
   <!-- feedback: Meta forma parte fundamental de la Región de la Orinoquía. -->
@@ -126,13 +126,13 @@ Localización espacial de las entidades territoriales (departamentos) en las res
 ¿Qué recurso natural o ecosistema característico de las áreas costeras de la Región Caribe protege la línea de playa frente a la erosión del mar?
 
 ### Opciones
-- [x] A) Los bosques de manglar.
+- [x] D) Los bosques de manglar.
   <!-- feedback: Los manglares en las costas caribeñas fijan el suelo con sus raíces y protegen de la erosión marina. -->
-- [ ] B) Los frailejones de alta montaña.
+- [ ] A) Los frailejones de alta montaña.
   <!-- feedback: Los frailejones son plantas exclusivas de los páramos andinos por encima de 3.000 msnm. -->
-- [ ] C) Los glaciares de nieve perpetua.
+- [ ] B) Los glaciares de nieve perpetua.
   <!-- feedback: Los glaciares están en las cumbres montañosas, no en las costas marítimas. -->
-- [ ] D) Las plantaciones de trigo sabanero.
+- [ ] C) Las plantaciones de trigo sabanero.
   <!-- feedback: El trigo se cultiva en tierras frías andinas, no en litorales salinos. -->
 
 ### Explicacion Pedagogica
@@ -149,9 +149,9 @@ Reconocimiento de ecosistemas estratégicos (mangles) en la franja costera de la
 ¿Qué consecuencia social y ambiental genera la quema indiscriminada de selva para abrir potreros en la Amazonía?
 
 ### Opciones
-- [x] A) Destrucción de la biodiversidad, pérdida de saberes ancestrales indígenas y aceleración del calentamiento global.
+- [x] B) Destrucción de la biodiversidad, pérdida de saberes ancestrales indígenas y aceleración del calentamiento global.
   <!-- feedback: La deforestación fragmenta los hábitats, desplaza comunidades nativas y libera toneladas de carbono acumulado. -->
-- [ ] B) Aumento inmediato de la producción de agua dulce en todas las ciudades del interior.
+- [ ] A) Aumento inmediato de la producción de agua dulce en todas las ciudades del interior.
   <!-- feedback: La tala de árboles reduce la humedad del aire y altera negativamente el ciclo del agua. -->
 - [ ] C) Disminución automática de las temperaturas en todo el departamento del Caquetá.
   <!-- feedback: Al eliminar la cobertura vegetal la temperatura local aumenta por pérdida de sombra y evapotranspiración. -->
@@ -172,11 +172,11 @@ Análisis del impacto socioambiental de las actividades extractivas e ilegales s
 ¿Qué beneficio socioeconómico aporta la complementariedad entre las diferentes regiones naturales de Colombia?
 
 ### Opciones
-- [x] A) Permite abastecer la canasta familiar diversificada a través del comercio interregional de alimentos.
+- [x] C) Permite abastecer la canasta familiar diversificada a través del comercio interregional de alimentos.
   <!-- feedback: La variedad de climas y suelos regionales enriquece la dieta y la economía nacional mediante el intercambio. -->
-- [ ] B) Obliga a que todas las personas vivan en una sola ciudad para poder alimentarse.
+- [ ] A) Obliga a que todas las personas vivan en una sola ciudad para poder alimentarse.
   <!-- feedback: La diversidad de producción fomenta el desarrollo equilibrado de los territorios. -->
-- [ ] C) Prohíbe que el pescado del Caribe se consuma en los restaurantes de Bogotá.
+- [ ] B) Prohíbe que el pescado del Caribe se consuma en los restaurantes de Bogotá.
   <!-- feedback: El comercio interregional permite que productos de las costas lleguen a las ciudades del interior. -->
 - [ ] D) Demuestra que sólo la Región Andina puede producir alimentos en el país.
   <!-- feedback: Todas las regiones aportan insumos agrícolas, ganaderos, pesqueros y mineros esenciales. -->
@@ -195,13 +195,13 @@ Comprensión de la integración económica interregional fundada en la diversida
 ¿Cómo debe evaluar la ciudadanía una obra pública de este tipo considerando el desarrollo sostenible?
 
 ### Opciones
-- [x] A) Sopesar la conectividad económica requerida con la protección de la biodiversidad mediante estudios de impacto ambiental rigurosos.
+- [x] D) Sopesar la conectividad económica requerida con la protección de la biodiversidad mediante estudios de impacto ambiental rigurosos.
   <!-- feedback: El desarrollo sostenible busca un equilibrio responsable entre crecimiento económico, equidad social y preservación ambiental. -->
-- [ ] B) Aprobar la obra de inmediato sin importar la extinción de especies nativas de la selva.
+- [ ] A) Aprobar la obra de inmediato sin importar la extinción de especies nativas de la selva.
   <!-- feedback: Desconocer el daño ambiental viola los principios constitucionales de protección del patrimonio natural. -->
-- [ ] C) Cancelar todos los medios de transporte en Colombia para evitar construir vías.
+- [ ] B) Cancelar todos los medios de transporte en Colombia para evitar construir vías.
   <!-- feedback: La infraestructura es necesaria para el bienestar; la clave es el diseño sostenible y respetuoso del entorno. -->
-- [ ] D) Permitir únicamente el paso de vehículos pesados sin control ambiental alguno.
+- [ ] C) Permitir únicamente el paso de vehículos pesados sin control ambiental alguno.
   <!-- feedback: Requiere controles estrictos para evitar la deforestación descontrolada en la zona de reserva. -->
 
 ### Explicacion Pedagogica

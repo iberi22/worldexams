@@ -32,13 +32,13 @@ Este bundle contiene 12 preguntas sobre **medidas-dispersion-datos** para grado 
 ### Enunciado
 ¿Qué mide el rango de un conjunto de datos?
 ### Opciones
-- [x] A) La diferencia entre el dato mayor y el dato menor
+- [x] D) La diferencia entre el dato mayor y el dato menor
   <!-- feedback: Correcto. El rango es la distancia entre el valor máximo y el mínimo. -->
-- [ ] B) El promedio aritmético de los datos
+- [ ] A) El promedio aritmético de los datos
   <!-- feedback: Incorrecto. El promedio es una medida de tendencia central, no de dispersión. -->
-- [ ] C) La suma de todos los datos
+- [ ] B) La suma de todos los datos
   <!-- feedback: Incorrecto. La suma no describe la dispersión del conjunto. -->
-- [ ] D) El dato que más se repite
+- [ ] C) El dato que más se repite
   <!-- feedback: Incorrecto. Ese es el concepto de moda. -->
 ### Explicacion Pedagogica
 El rango es una medida de dispersión que se calcula como el dato mayor menos el dato menor.
@@ -72,9 +72,9 @@ La desviación estándar cuantifica cuánto se alejan los datos de su media; a m
 ### Enunciado
 ¿Cuál es el rango de las temperaturas?
 ### Opciones
-- [x] A) 8 °C
+- [x] B) 8 °C
   <!-- feedback: Correcto. Rango = 25 − 17 = 8 °C. -->
-- [ ] B) 7 °C
+- [ ] A) 7 °C
   <!-- feedback: Incorrecto. Restaste mal los valores extremos. -->
 - [ ] C) 20 °C
   <!-- feedback: Incorrecto. Ese es el promedio aproximado, no el rango. -->
@@ -92,9 +92,9 @@ El dato mayor es 25 °C y el menor es 17 °C, por lo que el rango es 25 − 17 =
 ### Enunciado
 ¿Cuál es la varianza del conjunto?
 ### Opciones
-- [x] A) 5
+- [x] B) 5
   <!-- feedback: Correcto. La media es 5 y el promedio de las desviaciones al cuadrado es 20/4 = 5. -->
-- [ ] B) 20
+- [ ] A) 20
   <!-- feedback: Incorrecto. Ese es el total de las desviaciones al cuadrado, sin dividir entre el número de datos. -->
 - [ ] C) 2.5
   <!-- feedback: Incorrecto. Dividiste dos veces entre el número de datos. -->
@@ -112,13 +112,13 @@ La media es 5; las desviaciones al cuadrado son 9, 1, 1 y 9, que suman 20. La va
 ### Enunciado
 ¿Cuál es la desviación estándar del conjunto?
 ### Opciones
-- [x] A) 2
+- [x] D) 2
   <!-- feedback: Correcto. La varianza es 32/8 = 4 y su raíz cuadrada es 2. -->
-- [ ] B) 4
+- [ ] A) 4
   <!-- feedback: Incorrecto. Ese valor es la varianza, no la desviación estándar. -->
-- [ ] C) 32
+- [ ] B) 32
   <!-- feedback: Incorrecto. Ese es el total de las desviaciones al cuadrado. -->
-- [ ] D) √8
+- [ ] C) √8
   <!-- feedback: Incorrecto. Dividiste mal la suma de las desviaciones al cuadrado. -->
 ### Explicacion Pedagogica
 La media es 5; las desviaciones al cuadrado suman 32 y la varianza es 32/8 = 4, de modo que la desviación estándar es √4 = 2.
@@ -132,11 +132,11 @@ La media es 5; las desviaciones al cuadrado suman 32 y la varianza es 32/8 = 4, 
 ### Enunciado
 ¿Cuál es la desviación estándar de esos datos?
 ### Opciones
-- [x] A) 4
+- [x] C) 4
   <!-- feedback: Correcto. La desviación estándar es la raíz cuadrada de la varianza: √16 = 4. -->
-- [ ] B) 256
+- [ ] A) 256
   <!-- feedback: Incorrecto. Elevaste la varianza al cuadrado en vez de extraer la raíz. -->
-- [ ] C) 8
+- [ ] B) 8
   <!-- feedback: Incorrecto. Dividiste entre 2 en vez de calcular la raíz cuadrada. -->
 - [ ] D) 32
   <!-- feedback: Incorrecto. Duplicaste la varianza sin justificación. -->
@@ -152,9 +152,9 @@ La desviación estándar es la raíz cuadrada de la varianza: √16 = 4.
 ### Enunciado
 ¿Qué conclusión es correcta al comparar los dos grupos?
 ### Opciones
-- [x] A) El grupo A es más homogéneo, porque sus resultados están más concentrados alrededor de la media
+- [x] B) El grupo A es más homogéneo, porque sus resultados están más concentrados alrededor de la media
   <!-- feedback: Correcto. Una desviación estándar menor indica menor dispersión y mayor homogeneidad. -->
-- [ ] B) El grupo B es más homogéneo, porque su desviación estándar es mayor
+- [ ] A) El grupo B es más homogéneo, porque su desviación estándar es mayor
   <!-- feedback: Incorrecto. A mayor desviación estándar, mayor dispersión y menor homogeneidad. -->
 - [ ] C) Los dos grupos tienen la misma dispersión porque la media es igual
   <!-- feedback: Incorrecto. La media igual no implica la misma dispersión. -->
@@ -172,13 +172,13 @@ Con la misma media, la desviación estándar indica la dispersión: el grupo A, 
 ### Enunciado
 ¿Qué ocurre con la desviación estándar de la serie?
 ### Opciones
-- [x] A) No cambia, porque sumar una constante desplaza todos los datos sin alterar su dispersión
+- [x] D) No cambia, porque sumar una constante desplaza todos los datos sin alterar su dispersión
   <!-- feedback: Correcto. Una traslación no modifica las distancias entre los datos. -->
-- [ ] B) Aumenta en 5 unidades
+- [ ] A) Aumenta en 5 unidades
   <!-- feedback: Incorrecto. La desviación estándar mide dispersión, no posición. -->
-- [ ] C) Se multiplica por 5
+- [ ] B) Se multiplica por 5
   <!-- feedback: Incorrecto. La multiplicación afecta a los datos, pero aquí solo se sumó. -->
-- [ ] D) Disminuye en 5 unidades
+- [ ] C) Disminuye en 5 unidades
   <!-- feedback: Incorrecto. Sumar una constante no reduce la dispersión. -->
 ### Explicacion Pedagogica
 Al sumar la misma constante a todos los datos, las diferencias respecto a la media no cambian; por eso la desviación estándar permanece igual.
@@ -192,11 +192,11 @@ Al sumar la misma constante a todos los datos, las diferencias respecto a la med
 ### Enunciado
 ¿Cuál vendedor presenta un desempeño más estable?
 ### Opciones
-- [x] A) El vendedor 1, porque su desviación estándar es menor y sus ventas varían menos
+- [x] C) El vendedor 1, porque su desviación estándar es menor y sus ventas varían menos
   <!-- feedback: Correcto. Menor desviación estándar indica ventas más estables mes a mes. -->
-- [ ] B) El vendedor 2, porque su desviación estándar es mayor
+- [ ] A) El vendedor 2, porque su desviación estándar es mayor
   <!-- feedback: Incorrecto. Una desviación mayor indica más variabilidad, no más estabilidad. -->
-- [ ] C) Los dos por igual, porque sus promedios son parecidos
+- [ ] B) Los dos por igual, porque sus promedios son parecidos
   <!-- feedback: Incorrecto. Los promedios no determinan la estabilidad. -->
 - [ ] D) El vendedor 2, porque vendió un poco más en promedio
   <!-- feedback: Incorrecto. La diferencia de promedios es pequeña frente a la diferencia de dispersión. -->
@@ -212,9 +212,9 @@ La estabilidad se asocia a la menor dispersión; el vendedor 1, con desviación 
 ### Enunciado
 ¿Qué sensor ofrece registros más confiables para un cultivo que requiere temperatura estable?
 ### Opciones
-- [x] A) El sensor A, porque sus lecturas se alejan menos de la media
+- [x] B) El sensor A, porque sus lecturas se alejan menos de la media
   <!-- feedback: Correcto. Una desviación estándar menor indica lecturas más estables y confiables. -->
-- [ ] B) El sensor B, porque tiene mayor desviación estándar
+- [ ] A) El sensor B, porque tiene mayor desviación estándar
   <!-- feedback: Incorrecto. Mayor desviación estándar significa lecturas más dispersas e inestables. -->
 - [ ] C) Los dos por igual, porque ambos miden temperatura
   <!-- feedback: Incorrecto. La dispersión de las lecturas es distinta y afecta la confiabilidad. -->
@@ -252,11 +252,11 @@ La media describe la posición central y la desviación estándar la dispersión
 ### Enunciado
 ¿Cuál es el error cometido y el rango correcto?
 ### Opciones
-- [x] A) Confundió el rango con el número de datos: el rango es 9 − 3 = 6
+- [x] C) Confundió el rango con el número de datos: el rango es 9 − 3 = 6
   <!-- feedback: Correcto. El rango es la diferencia entre el mayor y el menor, es decir 6. -->
-- [ ] B) No hay error: el rango es 4
+- [ ] A) No hay error: el rango es 4
   <!-- feedback: Incorrecto. El rango no es la cantidad de datos del conjunto. -->
-- [ ] C) El error es que debió sumar los datos: el rango es 24
+- [ ] B) El error es que debió sumar los datos: el rango es 24
   <!-- feedback: Incorrecto. Sumar los datos no es el procedimiento del rango. -->
 - [ ] D) El error es que debió promediar: el rango es 6, igual que en la opción A por otra razón
   <!-- feedback: Incorrecto. El valor 6 es correcto, pero se obtiene restando extremos, no promediando. -->

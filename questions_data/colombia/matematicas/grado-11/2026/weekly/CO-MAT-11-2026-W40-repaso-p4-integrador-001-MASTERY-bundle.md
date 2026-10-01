@@ -57,13 +57,13 @@ La mediana de un número impar de datos ordenados de menor a mayor es la observa
 Si se extrae una ficha al azar, ¿cuál es la probabilidad de que sea de color azul?
 
 ### Opciones
-- [x] A) $\frac{2}{5}$
+- [x] D) $\frac{2}{5}$
   <!-- feedback: Casos favorables = 4, casos totales = 10. P = 4/10 = 2/5 = 0.40. -->
-- [ ] B) $\frac{3}{5}$
+- [ ] A) $\frac{3}{5}$
   <!-- feedback: Corresponde a la probabilidad de extraer una ficha roja (6/10 = 3/5). -->
-- [ ] C) $\frac{1}{4}$
+- [ ] B) $\frac{1}{4}$
   <!-- feedback: Dividió 1 entre 4. -->
-- [ ] D) $\frac{4}{6}$
+- [ ] C) $\frac{4}{6}$
   <!-- feedback: Dividió las fichas azules entre las rojas en lugar del total. -->
 
 ### Explicacion Pedagogica
@@ -103,13 +103,13 @@ Como el orden no importa en una delegación sin cargos, se usan combinaciones si
 ¿Cuál es la razón común $r$ y el quinto término $a_5$?
 
 ### Opciones
-- [x] A) Razón $r = 3$ y $a_5 = 162$
+- [x] D) Razón $r = 3$ y $a_5 = 162$
   <!-- feedback: r = 6/2 = 3. a_5 = 54 * 3 = 162. -->
-- [ ] B) Razón $r = 4$ y $a_5 = 216$
+- [ ] A) Razón $r = 4$ y $a_5 = 216$
   <!-- feedback: Confundió la razón sumando +4 en lugar de multiplicar por 3. -->
-- [ ] C) Razón $r = 3$ y $a_5 = 108$
+- [ ] B) Razón $r = 3$ y $a_5 = 108$
   <!-- feedback: Calculó 54 * 2. -->
-- [ ] D) Razón $r = 2$ y $a_5 = 108$
+- [ ] C) Razón $r = 2$ y $a_5 = 108$
   <!-- feedback: Asumió razón 2. -->
 
 ### Explicacion Pedagogica
@@ -127,11 +127,11 @@ El quinto término es $a_5 = a_4 \cdot r = 54   imes 3 = 162$.
 Si se elige un estudiante al azar, ¿cuál es la probabilidad de que juegue al menos uno de los dos deportes?
 
 ### Opciones
-- [x] A) $\frac{7}{8}$
+- [x] C) $\frac{7}{8}$
   <!-- feedback: Estudiantes que juegan al menos uno = 25 + 20 - 10 = 35. P = 35 / 40 = 7/8 = 0.875. -->
-- [ ] B) $\frac{9}{8}$
+- [ ] A) $\frac{9}{8}$
   <!-- feedback: Sumó 25 + 20 = 45 obteniendo una probabilidad mayor a 1. -->
-- [ ] C) $\frac{5}{8}$
+- [ ] B) $\frac{5}{8}$
   <!-- feedback: Calculó 25 / 40 en lugar de incluir a los de voleibol. -->
 - [ ] D) $\frac{1}{4}$
   <!-- feedback: Calculó solo la probabilidad de la intersección (10/40 = 1/4). -->
@@ -151,9 +151,9 @@ $P = \frac{35}{40} = \frac{7}{8} = 0.875$.
 Tenga en cuenta que la letra 'O' se repite 2 veces.
 
 ### Opciones
-- [x] A) 20,160
+- [x] B) 20,160
   <!-- feedback: Hay 8 letras con 2 'O's. Permutaciones con repetición = 8! / 2! = 40320 / 2 = 20160. -->
-- [ ] B) 40,320
+- [ ] A) 40,320
   <!-- feedback: Calculó 8! sin descontar las permutaciones de la letra 'O' repetida. -->
 - [ ] C) 10,080
   <!-- feedback: Dividió 40320 entre 4 por error. -->
@@ -244,9 +244,9 @@ El estimador es el punto medio $\hat{p} = \frac{0.42 + 0.58}{2} = 0.50$, y el ma
 ¿Cuál es el intervalo de salto $k$?
 
 ### Opciones
-- [x] A) $k = 20$
+- [x] B) $k = 20$
   <!-- feedback: k = N / n = 500 / 25 = 20. -->
-- [ ] B) $k = 25$
+- [ ] A) $k = 25$
   <!-- feedback: Confundió k con el tamaño de muestra n. -->
 - [ ] C) $k = 50$
   <!-- feedback: Calculó 500 / 10. -->
@@ -290,9 +290,9 @@ Teorema de Bayes: $P(B|D) = \frac{(0.05)(0.40)}{(0.02)(0.60) + (0.05)(0.40)} = \
 ¿Cuál es el coeficiente del término $x^3 y^2$?
 
 ### Opciones
-- [x] A) 80
+- [x] B) 80
   <!-- feedback: El término es C(5,2) * (2x)^3 * (y)^2 = 10 * 8x^3 * y^2 = 80 x^3 y^2. El coeficiente numérico es 80. -->
-- [ ] B) 10
+- [ ] A) 10
   <!-- feedback: Tomó solo el coeficiente binomial C(5,2) sin elevar 2 al cubo. -->
 - [ ] C) 40
   <!-- feedback: Multiplicó 10 por 4 en lugar de 10 por 8. -->
@@ -313,11 +313,11 @@ Término con $y^2$: $\binom{5}{2} (2x)^{5-2} y^2 = 10 \cdot (2x)^3 y^2 = 10 \cdo
 ¿Cuál es la conclusión estadística a un nivel de significancia del 5%?
 
 ### Opciones
-- [x] A) Se rechaza $H_0$, concluyendo que el tratamiento reduce significativamente la presión arterial.
+- [x] C) Se rechaza $H_0$, concluyendo que el tratamiento reduce significativamente la presión arterial.
   <!-- feedback: Como Z_calc = -2.15 < -1.645, cae en la región de rechazo de la cola izquierda. -->
-- [ ] B) No se rechaza $H_0$, porque la presión arterial aumenta.
+- [ ] A) No se rechaza $H_0$, porque la presión arterial aumenta.
   <!-- feedback: El valor Z negativo confirma una reducción en los datos muestrales. -->
-- [ ] C) Se acepta $H_0$ concluyendo que el tratamiento no tiene ningún efecto.
+- [ ] B) Se acepta $H_0$ concluyendo que el tratamiento no tiene ningún efecto.
   <!-- feedback: El estadístico cae dentro de la región de rechazo de H0. -->
 - [ ] D) Se requiere repetir la prueba con un nivel del 10%.
   <!-- feedback: La prueba ya es concluyente al nivel del 5%. -->
@@ -336,13 +336,13 @@ Dado que $Z_{calc} = -2.15 < Z_{crit} = -1.645$, el valor se sitúa en la regió
 ¿Cuál es la razón común $r$ de esta serie geométrica?
 
 ### Opciones
-- [x] A) $\frac{3}{4} = 0.75$
+- [x] D) $\frac{3}{4} = 0.75$
   <!-- feedback: S_inf = a_1 / (1 - r) -> 20 = 5 / (1 - r) -> 1 - r = 5 / 20 = 0.25 -> r = 1 - 0.25 = 0.75. -->
-- [ ] B) $\frac{1}{4} = 0.25$
+- [ ] A) $\frac{1}{4} = 0.25$
   <!-- feedback: Corresponde al valor de (1 - r), se olvidó despejar r. -->
-- [ ] C) $\frac{1}{2} = 0.50$
+- [ ] B) $\frac{1}{2} = 0.50$
   <!-- feedback: Si r = 0.50, S_inf sería 5 / 0.5 = 10. -->
-- [ ] D) $\frac{4}{5} = 0.80$
+- [ ] C) $\frac{4}{5} = 0.80$
   <!-- feedback: Calculó 16 / 20 de forma errónea. -->
 
 ### Explicacion Pedagogica
@@ -359,9 +359,9 @@ $S_\infty = \frac{a_1}{1 - r} Rightarrow 20 = \frac{5}{1 - r} Rightarrow 1 - r =
 ¿De cuántas maneras distintas se pueden ubicar alrededor de la mesa circular?
 
 ### Opciones
-- [x] A) 120
+- [x] B) 120
   <!-- feedback: Permutación circular PC_6 = (6 - 1)! = 5! = 120. -->
-- [ ] B) 720
+- [ ] A) 720
   <!-- feedback: Calculó 6! en línea recta. -->
 - [ ] C) 360
   <!-- feedback: Dividió 720 entre 2. -->
@@ -382,13 +382,13 @@ $PC_n = (n-1)! Rightarrow PC_6 = (6-1)! = 5! = 120$.
 ¿Cuál es la probabilidad de obtener AL MENOS una cara?
 
 ### Opciones
-- [x] A) $\frac{15}{16}$
+- [x] D) $\frac{15}{16}$
   <!-- feedback: P(al menos 1 cara) = 1 - P(0 caras) = 1 - (1/2)^4 = 1 - 1/16 = 15/16. -->
-- [ ] B) $\frac{1}{16}$
+- [ ] A) $\frac{1}{16}$
   <!-- feedback: Corresponde a la probabilidad de obtener 0 caras (todas sellos). -->
-- [ ] C) $\frac{1}{2}$
+- [ ] B) $\frac{1}{2}$
   <!-- feedback: Tomó la probabilidad de un solo lanzamiento. -->
-- [ ] D) $\frac{3}{4}$
+- [ ] C) $\frac{3}{4}$
   <!-- feedback: Calculó 1 - 1/4 por error. -->
 
 ### Explicacion Pedagogica
@@ -406,9 +406,9 @@ ight)^4 = 1 - \frac{1}{16} = \frac{15}{16}$.
 ¿Cuántas soluciones posibles existen para esta ecuación?
 
 ### Opciones
-- [x] A) 84
+- [x] B) 84
   <!-- feedback: CR(4,6) = C(4 + 6 - 1, 6) = C(9, 6) = C(9, 3) = (9 * 8 * 7) / 6 = 84. -->
-- [ ] B) 126
+- [ ] A) 126
   <!-- feedback: Calculó C(9,4) por error. -->
 - [ ] C) 56
   <!-- feedback: Calculó C(8,3). -->
@@ -478,13 +478,13 @@ ight) = \frac{25}{36}   imes \frac{1}{6} = \frac{25}{216}$.
 ¿A qué expresión racional equivale la suma de esta serie de potencias?
 
 ### Opciones
-- [x] A) $\frac{1}{(1-x)^2}$
+- [x] D) $\frac{1}{(1-x)^2}$
   <!-- feedback: Como sum 1/(1-x) = sum x^n, derivando respecto a x se tiene d/dx (1/(1-x)) = 1/(1-x)^2 = sum n * x^(n-1) = 1 + 2x + 3x^2 + ... -->
-- [ ] B) $\frac{1}{1-x}$
+- [ ] A) $\frac{1}{1-x}$
   <!-- feedback: Corresponde a la serie geométrica simple 1 + x + x^2 + ... -->
-- [ ] C) $\frac{x}{(1-x)^2}$
+- [ ] B) $\frac{x}{(1-x)^2}$
   <!-- feedback: Le falta un factor x en cada término (x + 2x^2 + 3x^3 + ...). -->
-- [ ] D) $\frac{1}{1 - x^2}$
+- [ ] C) $\frac{1}{1 - x^2}$
   <!-- feedback: Corresponde a 1 + x^2 + x^4 + ... -->
 
 ### Explicacion Pedagogica

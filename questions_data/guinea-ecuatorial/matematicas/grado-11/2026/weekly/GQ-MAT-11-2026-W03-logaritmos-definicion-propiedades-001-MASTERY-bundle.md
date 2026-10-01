@@ -48,9 +48,9 @@ El logaritmo es la operacion inversa de la potenciacion que busca el exponente. 
 En el conjunto de los numeros reales, ¿que condiciones deben cumplir la base $b$ y el argumento $a$ de un logaritmo $\log_b(a)$?
 
 ### Opciones
-- [ ] A) $b$ puede ser cualquier numero real y $a > 0$. <!-- feedback: La base b no puede ser cualquier real (no puede ser negativa ni 1). -->
-- [ ] B) $b > 0$ y $a$ puede ser cualquier numero real. <!-- feedback: El argumento a debe ser estrictamente positivo en el campo de los reales. -->
-- [x] C) $b > 0, b \neq 1$ y $a > 0$. <!-- feedback: ¡Correcto! La base debe ser positiva y distinta de 1, y el argumento debe ser positivo. -->
+- [ ] B) $b$ puede ser cualquier numero real y $a > 0$. <!-- feedback: La base b no puede ser cualquier real (no puede ser negativa ni 1). -->
+- [ ] C) $b > 0$ y $a$ puede ser cualquier numero real. <!-- feedback: El argumento a debe ser estrictamente positivo en el campo de los reales. -->
+- [x] A) $b > 0, b \neq 1$ y $a > 0$. <!-- feedback: ¡Correcto! La base debe ser positiva y distinta de 1, y el argumento debe ser positivo. -->
 - [ ] D) $b = 10$ siempre y $a > 1$. <!-- feedback: Aunque 10 es una base comun, no es la unica posible, y el argumento puede estar entre 0 y 1. -->
 
 ### Explicacion Pedagogica
@@ -86,9 +86,9 @@ Aplicando la definicion: $\log_{10}(1000) = x \iff 10^x = 1000$. Como $1000$ es 
 ¿Cual de las siguientes expresiones representa la propiedad del logaritmo de un producto?
 
 ### Opciones
-- [x] A) $\log_b(M \cdot N) = \log_b(M) + \log_b(N)$ <!-- feedback: ¡Correcto! El logaritmo convierte una multiplicacion en una suma de logaritmos. -->
-- [ ] B) $\log_b(M \cdot N) = \log_b(M) \cdot \log_b(N)$ <!-- feedback: Esta propiedad es incorrecta; el logaritmo de un producto no es el producto de logaritmos. -->
-- [ ] C) $\log_b(M + N) = \log_b(M) + \log_b(N)$ <!-- feedback: No existe una propiedad general para el logaritmo de una suma. -->
+- [x] C) $\log_b(M \cdot N) = \log_b(M) + \log_b(N)$ <!-- feedback: ¡Correcto! El logaritmo convierte una multiplicacion en una suma de logaritmos. -->
+- [ ] A) $\log_b(M \cdot N) = \log_b(M) \cdot \log_b(N)$ <!-- feedback: Esta propiedad es incorrecta; el logaritmo de un producto no es el producto de logaritmos. -->
+- [ ] B) $\log_b(M + N) = \log_b(M) + \log_b(N)$ <!-- feedback: No existe una propiedad general para el logaritmo de una suma. -->
 - [ ] D) $\log_b(M \cdot N) = \log_b(M) - \log_b(N)$ <!-- feedback: Esta es la propiedad para el logaritmo de un cociente (division). -->
 
 ### Explicacion Pedagogica
@@ -125,8 +125,8 @@ Si la concentracion de iones de hidrogeno $[H^+]$ es $10^{-5}$, ¿cual es el pH 
 
 ### Opciones
 - [ ] A) $-5$ <!-- feedback: El pH es el logaritmo negativo, por lo que el signo debe cambiar. -->
-- [x] B) $5$ <!-- feedback: ¡Correcto! $-\log_{10}(10^{-5}) = -(-5) = 5$. -->
-- [ ] C) $10$ <!-- feedback: El valor del logaritmo es el exponente, no la base. -->
+- [x] C) $5$ <!-- feedback: ¡Correcto! $-\log_{10}(10^{-5}) = -(-5) = 5$. -->
+- [ ] B) $10$ <!-- feedback: El valor del logaritmo es el exponente, no la base. -->
 - [ ] D) $1$ <!-- feedback: Error en el calculo del logaritmo de una potencia de 10. -->
 
 ### Explicacion Pedagogica
@@ -145,8 +145,8 @@ El logaritmo de una potencia de la base es igual al exponente: $\log_{10}(10^n) 
 ### Opciones
 - [ ] A) $5$ <!-- feedback: Solo se ha tomado el exponente, olvidando que la base del argumento (8) no es igual a la base del logaritmo (2). -->
 - [ ] B) $8$ <!-- feedback: El resultado del logaritmo debe ser un numero relacionado con el exponente total. -->
-- [x] C) $15$ <!-- feedback: ¡Correcto! $8 = 2^3$, por lo que $8^5 = (2^3)^5 = 2^{15}$. $\log_2(2^{15}) = 15$. -->
-- [ ] D) $40$ <!-- feedback: Error al multiplicar la base 8 por el exponente 5. -->
+- [x] D) $15$ <!-- feedback: ¡Correcto! $8 = 2^3$, por lo que $8^5 = (2^3)^5 = 2^{15}$. $\log_2(2^{15}) = 15$. -->
+- [ ] C) $40$ <!-- feedback: Error al multiplicar la base 8 por el exponente 5. -->
 
 ### Explicacion Pedagogica
 Podemos resolverlo de dos formas: 1) Bajar el exponente: $5 \cdot \log_2(8) = 5 \cdot 3 = 15$. 2) Igualar bases: $\log_2((2^3)^5) = \log_2(2^{15}) = 15$. Ambas propiedades son fundamentales para simplificar calculos.
@@ -182,9 +182,9 @@ El logaritmo decimal de 100 es 2 (porque $10^2 = 100$). Siguiendo la formula de 
 
 ### Opciones
 - [ ] A) 12.5 <!-- feedback: El logaritmo no es una operacion de division simple. -->
-- [x] B) 5 <!-- feedback: ¡Correcto! Por definicion, $x^2 = 25$, lo que implica que x = 5 (la base debe ser positiva). -->
-- [ ] C) 50 <!-- feedback: Error al interpretar la relacion entre base y exponente. -->
-- [ ] D) 1 <!-- feedback: La base de un logaritmo no puede ser 1. -->
+- [x] D) 5 <!-- feedback: ¡Correcto! Por definicion, $x^2 = 25$, lo que implica que x = 5 (la base debe ser positiva). -->
+- [ ] B) 50 <!-- feedback: Error al interpretar la relacion entre base y exponente. -->
+- [ ] C) 1 <!-- feedback: La base de un logaritmo no puede ser 1. -->
 
 ### Explicacion Pedagogica
 Para hallar una base desconocida, aplicamos la definicion de logaritmo y resolvemos la ecuacion resultante. En este caso, buscamos un numero que elevado al cuadrado de 25.
@@ -239,9 +239,9 @@ La formula de cambio de base es esencial para el uso de calculadoras y software 
 
 ### Opciones
 - [ ] A) $x = 1$ <!-- feedback: Si x = 1, el argumento (x-2) seria -1, y el logaritmo de un numero negativo no existe en los reales. -->
-- [x] B) $x = 3$ <!-- feedback: ¡Correcto! $\log_3(3 \cdot 1) = \log_3(3) = 1$. -->
-- [ ] C) $x = 0$ <!-- feedback: El logaritmo de 0 no esta definido. -->
-- [ ] D) $x = -1$ <!-- feedback: Los argumentos de los logaritmos deben ser positivos. -->
+- [x] D) $x = 3$ <!-- feedback: ¡Correcto! $\log_3(3 \cdot 1) = \log_3(3) = 1$. -->
+- [ ] B) $x = 0$ <!-- feedback: El logaritmo de 0 no esta definido. -->
+- [ ] C) $x = -1$ <!-- feedback: Los argumentos de los logaritmos deben ser positivos. -->
 
 ### Explicacion Pedagogica
 Usamos la propiedad del producto: $\log_3(x(x-2)) = 1$. Aplicando la definicion: $x^2 - 2x = 3^1$. Esto nos da la ecuacion cuadratica $x^2 - 2x - 3 = 0$. Las soluciones son $3$ y $-1$. Sin embargo, $-1$ se descarta porque haria negativos los argumentos originales.
@@ -257,8 +257,8 @@ Usamos la propiedad del producto: $\log_3(x(x-2)) = 1$. Aplicando la definicion:
 ¿Cual es la expansion correcta de $\log\left(\frac{a^2 \cdot b}{\sqrt{c}}\right)$ usando las propiedades de los logaritmos?
 
 ### Opciones
-- [ ] A) $2\log(a) + \log(b) - \log(c)$ <!-- feedback: Se ha olvidado el factor 1/2 que corresponde a la raiz cuadrada de c. -->
-- [x] B) $2\log(a) + \log(b) - \frac{1}{2}\log(c)$ <!-- feedback: ¡Correcto! Se aplica suma para el producto, resta para el cociente, y los exponentes (2 y 1/2) bajan multiplicando. -->
+- [ ] B) $2\log(a) + \log(b) - \log(c)$ <!-- feedback: Se ha olvidado el factor 1/2 que corresponde a la raiz cuadrada de c. -->
+- [x] A) $2\log(a) + \log(b) - \frac{1}{2}\log(c)$ <!-- feedback: ¡Correcto! Se aplica suma para el producto, resta para el cociente, y los exponentes (2 y 1/2) bajan multiplicando. -->
 - [ ] C) $\log(2a) + \log(b) - \log(\sqrt{c})$ <!-- feedback: El 2 es un exponente de 'a', no un coeficiente interno del argumento. -->
 - [ ] D) $2\log(a) \cdot \log(b) / \frac{1}{2}\log(c)$ <!-- feedback: Error al transformar las operaciones; los logaritmos deben sumarse o restarse. -->
 
@@ -277,8 +277,8 @@ Si un terremoto de magnitud 6 libera $E$ julios de energia, y la formula es $M =
 
 ### Opciones
 - [ ] A) 2 veces mas energia. <!-- feedback: La escala es logaritmica, por lo que un aumento de 2 unidades en magnitud implica un aumento mucho mayor en energia. -->
-- [ ] B) 100 veces mas energia. <!-- feedback: Esto seria cierto si la magnitud fuera directamente el logaritmo decimal, pero hay un factor 2/3. -->
-- [x] C) 1000 veces mas energia. <!-- feedback: ¡Correcto! La diferencia de 2 unidades en M equivale a un factor de $10^{(3/2) \cdot 2} = 10^3 = 1000$ en la energia. -->
+- [ ] C) 100 veces mas energia. <!-- feedback: Esto seria cierto si la magnitud fuera directamente el logaritmo decimal, pero hay un factor 2/3. -->
+- [x] B) 1000 veces mas energia. <!-- feedback: ¡Correcto! La diferencia de 2 unidades en M equivale a un factor de $10^{(3/2) \cdot 2} = 10^3 = 1000$ en la energia. -->
 - [ ] D) 10 veces mas energia. <!-- feedback: Un aumento de 10 veces corresponde a un cambio menor en la escala de Richter. -->
 
 ### Explicacion Pedagogica
@@ -296,9 +296,9 @@ La escala de Richter es logaritmica. Un cambio en la magnitud $M$ se traduce en 
 
 ### Opciones
 - [ ] A) $e^{5x}$ <!-- feedback: La funcion exponencial y el logaritmo natural se cancelan, no se combinan asi. -->
-- [x] B) $5x$ <!-- feedback: ¡Correcto! Al ser funciones inversas, $e$ elevado al logaritmo natural de un argumento es igual al propio argumento. -->
-- [ ] C) $\ln(5x)$ <!-- feedback: Esta seria la operacion inversa de la pedida. -->
-- [ ] D) $5$ <!-- feedback: Se ha eliminado incorrectamente la variable x. -->
+- [x] D) $5x$ <!-- feedback: ¡Correcto! Al ser funciones inversas, $e$ elevado al logaritmo natural de un argumento es igual al propio argumento. -->
+- [ ] B) $\ln(5x)$ <!-- feedback: Esta seria la operacion inversa de la pedida. -->
+- [ ] C) $5$ <!-- feedback: Se ha eliminado incorrectamente la variable x. -->
 
 ### Explicacion Pedagogica
 La funcion exponencial de base $e$ y el logaritmo natural ($\ln$) son funciones inversas. Aplicar una despues de la otra sobre el mismo valor devuelve el valor original. Es una de las identidades mas importantes en el calculo.
@@ -316,8 +316,8 @@ La funcion exponencial de base $e$ y el logaritmo natural ($\ln$) son funciones 
 ### Opciones
 - [ ] A) $x = 3$ <!-- feedback: La resta de logaritmos no es la resta de los argumentos. -->
 - [ ] B) $x = 7$ <!-- feedback: Error al aplicar las propiedades de los logaritmos. -->
-- [x] C) $x = 10$ <!-- feedback: ¡Correcto! $\log(x/2) = \log(5) \rightarrow x/2 = 5 \rightarrow x = 10$. -->
-- [ ] D) $x = 2.5$ <!-- feedback: Error en el despeje final de la fraccion. -->
+- [x] D) $x = 10$ <!-- feedback: ¡Correcto! $\log(x/2) = \log(5) \rightarrow x/2 = 5 \rightarrow x = 10$. -->
+- [ ] C) $x = 2.5$ <!-- feedback: Error en el despeje final de la fraccion. -->
 
 ### Explicacion Pedagogica
 Aplicamos la propiedad del logaritmo de un cociente: $\log(A) - \log(B) = \log(A/B)$. Luego igualamos los argumentos de los logaritmos y resolvemos la ecuacion lineal simple resultante.
@@ -333,8 +333,8 @@ Aplicamos la propiedad del logaritmo de un cociente: $\log(A) - \log(B) = \log(A
 ¿Cual de las siguientes afirmaciones describe mejor la relacion grafica entre $f(x) = b^x$ y $g(x) = \log_b(x)$?
 
 ### Opciones
-- [ ] A) Son paralelas entre si. <!-- feedback: No son paralelas; sus comportamientos de crecimiento son muy diferentes. -->
-- [x] B) Son simetricas respecto a la recta $y = x$. <!-- feedback: ¡Correcto! Al ser funciones inversas, su representacion grafica es un reflejo una de la otra sobre la diagonal principal. -->
+- [ ] B) Son paralelas entre si. <!-- feedback: No son paralelas; sus comportamientos de crecimiento son muy diferentes. -->
+- [x] A) Son simetricas respecto a la recta $y = x$. <!-- feedback: ¡Correcto! Al ser funciones inversas, su representacion grafica es un reflejo una de la otra sobre la diagonal principal. -->
 - [ ] C) Son simetricas respecto al eje $Y$. <!-- feedback: La simetria respecto al eje Y ocurre en funciones pares, no en inversas. -->
 - [ ] D) Una es el inverso multiplicativo de la otra. <!-- feedback: Son inversas funcionales, no inversos multiplicativos (reciprocos). -->
 
@@ -352,8 +352,8 @@ En matematicas, las funciones inversas deshacen la operacion de la otra. Grafica
 ¿Cual es el valor de la expresion $b^{\log_b(x)}$ para cualquier $x > 0$ y $b > 0, b \neq 1$?
 
 ### Opciones
-- [ ] A) $b$ <!-- feedback: Esto solo seria cierto si log(x) fuera 1. -->
-- [x] B) $x$ <!-- feedback: ¡Correcto! La potenciacion y el logaritmo de la misma base se cancelan por ser operaciones inversas. -->
+- [ ] B) $b$ <!-- feedback: Esto solo seria cierto si log(x) fuera 1. -->
+- [x] A) $x$ <!-- feedback: ¡Correcto! La potenciacion y el logaritmo de la misma base se cancelan por ser operaciones inversas. -->
 - [ ] C) $\log_b(x)$ <!-- feedback: Esto confunde la base con el exponente. -->
 - [ ] D) $1$ <!-- feedback: El resultado solo es 1 si x fuera 1. -->
 
@@ -372,9 +372,9 @@ Esta es la identidad fundamental de los logaritmos. Dado que el logaritmo es el 
 
 ### Opciones
 - [ ] A) $x = 4$ <!-- feedback: $5^4 = 625$, que es mucho mayor que 20. -->
-- [x] B) $x = \frac{\log(20)}{\log(5)}$ <!-- feedback: ¡Correcto! Aplicando logaritmos en ambos lados y despejando x obtenemos este cociente. -->
-- [ ] C) $x = \log(4)$ <!-- feedback: El logaritmo de 4 no es la solucion, ya que la base es 5. -->
-- [ ] D) $x = 20 - 5$ <!-- feedback: Las ecuaciones exponenciales no se resuelven mediante restas simples. -->
+- [x] D) $x = \frac{\log(20)}{\log(5)}$ <!-- feedback: ¡Correcto! Aplicando logaritmos en ambos lados y despejando x obtenemos este cociente. -->
+- [ ] B) $x = \log(4)$ <!-- feedback: El logaritmo de 4 no es la solucion, ya que la base es 5. -->
+- [ ] C) $x = 20 - 5$ <!-- feedback: Las ecuaciones exponenciales no se resuelven mediante restas simples. -->
 
 ### Explicacion Pedagogica
 Cuando la incognita esta en el exponente y no podemos igualar bases de forma sencilla, aplicamos logaritmos (comunes o naturales) en ambos miembros de la ecuacion. La propiedad de la potencia nos permite bajar la $x$ multiplicando: $x \cdot \log(5) = \log(20)$. Luego, despejamos $x$.
@@ -391,8 +391,8 @@ Cuando la incognita esta en el exponente y no podemos igualar bases de forma sen
 
 ### Opciones
 - [ ] A) Es siempre creciente. <!-- feedback: Esto solo ocurre cuando la base b es mayor que 1. -->
-- [x] B) Es siempre decreciente. <!-- feedback: ¡Correcto! Al igual que las exponenciales con base menor a 1, los logaritmos correspondientes decrecen. -->
-- [ ] C) Es constante. <!-- feedback: La funcion logaritmica siempre varia con x. -->
+- [x] C) Es siempre decreciente. <!-- feedback: ¡Correcto! Al igual que las exponenciales con base menor a 1, los logaritmos correspondientes decrecen. -->
+- [ ] B) Es constante. <!-- feedback: La funcion logaritmica siempre varia con x. -->
 - [ ] D) Primero crece y luego decrece. <!-- feedback: Las funciones logaritmicas basicas son monotonas (siempre crecen o siempre decrecen). -->
 
 ### Explicacion Pedagogica

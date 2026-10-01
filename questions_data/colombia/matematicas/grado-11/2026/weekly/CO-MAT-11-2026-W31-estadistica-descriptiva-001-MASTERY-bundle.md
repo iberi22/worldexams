@@ -34,13 +34,13 @@ Este bundle contiene 20 preguntas sobre **Estadística Descriptiva** para grado 
 ¿Cuál es la media aritmética (promedio) de los puntajes?
 
 ### Opciones
-- [x] A) 80
+- [x] D) 80
   <!-- feedback: Correcto. $\bar{x} = \frac{60 + 70 + 80 + 90 + 100}{5} = \frac{400}{5} = 80$. -->
-- [ ] B) 70
+- [ ] A) 70
   <!-- feedback: Incorrecto. Se calculó el promedio solo de los primeros dos datos. -->
-- [ ] C) 85
+- [ ] B) 85
   <!-- feedback: Incorrecto. Error en la suma total. -->
-- [ ] D) 90
+- [ ] C) 90
   <!-- feedback: Incorrecto. Se tomó el valor del cuarto dato. -->
 
 ### Explicacion Pedagogica
@@ -57,11 +57,11 @@ La media es la suma de todos los datos dividida entre el número de datos: $\fra
 ¿Cuál es la moda de este conjunto de datos?
 
 ### Opciones
-- [x] A) 12
+- [x] C) 12
   <!-- feedback: Correcto. El valor 12 se repite 3 veces, siendo el de mayor frecuencia absoluta. -->
-- [ ] B) 15
+- [ ] A) 15
   <!-- feedback: Incorrecto. 15 se repite solo 2 veces. -->
-- [ ] C) 18
+- [ ] B) 18
   <!-- feedback: Incorrecto. 18 aparece solo 1 vez. -->
 - [ ] D) 14
   <!-- feedback: Incorrecto. 14 no es un dato observado. -->
@@ -80,9 +80,9 @@ La moda es el dato con mayor frecuencia absoluta. 12 aparece 3 veces.
 ¿Cuál es el valor de la mediana de las edades?
 
 ### Opciones
-- [x] A) 17
+- [x] B) 17
   <!-- feedback: Correcto. Al ser $n=6$ par, la mediana es el promedio de los dos datos centrales: $\frac{16 + 18}{2} = 17$. -->
-- [ ] B) 16
+- [ ] A) 16
   <!-- feedback: Incorrecto. Se tomó solo el tercer dato. -->
 - [ ] C) 18
   <!-- feedback: Incorrecto. Se tomó solo el cuarto dato. -->
@@ -126,9 +126,9 @@ El rango mide la amplitud total de variación: $X_{máx} - X_{mín} = 25 - 12 = 
 Usando $s^2 = \frac{\sum (x_i - \bar{x})^2}{n - 1}$, ¿cuál es la varianza muestral $s^2$?
 
 ### Opciones
-- [x] A) 4
+- [x] B) 4
   <!-- feedback: Correcto. Desviaciones al cuadrado: $(2-4)^2 + (4-4)^2 + (6-4)^2 = 4 + 0 + 4 = 8$. Varianza muestral $s^2 = \frac{8}{3-1} = 4$. -->
-- [ ] B) 8
+- [ ] A) 8
   <!-- feedback: Incorrecto. Se olvidó dividir entre $n-1 = 2$. -->
 - [ ] C) 2
   <!-- feedback: Incorrecto. Es la desviación estándar $s = \sqrt{4} = 2$, no la varianza $s^2$. -->
@@ -149,13 +149,13 @@ $s^2 = \frac{(2-4)^2 + (4-4)^2 + (6-4)^2}{2} = \frac{4 + 0 + 4}{2} = 4$.
 ¿Cuál es el valor de la desviación estándar?
 
 ### Opciones
-- [x] A) 4
+- [x] D) 4
   <!-- feedback: Correcto. La desviación estándar es la raíz cuadrada positiva de la varianza: $s = \sqrt{16} = 4$. -->
-- [ ] B) 256
+- [ ] A) 256
   <!-- feedback: Incorrecto. Se elevó la varianza al cuadrado en lugar de extraer la raíz. -->
-- [ ] C) 8
+- [ ] B) 8
   <!-- feedback: Incorrecto. Se dividió la varianza por 2. -->
-- [ ] D) 16
+- [ ] C) 16
   <!-- feedback: Incorrecto. La desviación estándar no es igual a la varianza a menos que la varianza sea 0 o 1. -->
 
 ### Explicacion Pedagogica
@@ -172,11 +172,11 @@ $s = \sqrt{s^2} = \sqrt{16} = 4$.
 ¿Qué representan los límites de la 'caja' en un diagrama de Boxplot?
 
 ### Opciones
-- [x] A) El primer cuartil $Q_1$ (25%) y el tercer cuartil $Q_3$ (75%).
+- [x] C) El primer cuartil $Q_1$ (25%) y el tercer cuartil $Q_3$ (75%).
   <!-- feedback: Correcto. La caja encierra la distancia intercuartil $RIC = Q_3 - Q_1$, que contiene el 50% central de los datos. -->
-- [ ] B) El valor mínimo y el valor máximo de los datos.
+- [ ] A) El valor mínimo y el valor máximo de los datos.
   <!-- feedback: Incorrecto. Los valores extremos están representados por las puntas de los 'bigotes'. -->
-- [ ] C) La media y la desviación estándar.
+- [ ] B) La media y la desviación estándar.
   <!-- feedback: Incorrecto. El boxplot se construye con medidas de posición (cuartiles, mediana). -->
 - [ ] D) La moda y la mediana.
   <!-- feedback: Incorrecto. Los bordes de la caja son $Q_1$ y $Q_3$. -->
@@ -195,11 +195,11 @@ En un gráfico Boxplot, los extremos de la caja son el primer cuartil $Q_1$ y el
 ¿Cuál es el valor del Rango Intercuartílico?
 
 ### Opciones
-- [x] A) 30
+- [x] C) 30
   <!-- feedback: Correcto. $RIC = Q_3 - Q_1 = 50 - 20 = 30$. -->
-- [ ] B) 70
+- [ ] A) 70
   <!-- feedback: Incorrecto. Se sumaron los cuartiles en lugar de restarlos. -->
-- [ ] C) 35
+- [ ] B) 35
   <!-- feedback: Incorrecto. Se calculó el promedio de los cuartiles. -->
 - [ ] D) 2.5
   <!-- feedback: Incorrecto. Se dividió $Q_3$ entre $Q_1$. -->
@@ -218,13 +218,13 @@ $RIC = Q_3 - Q_1 = 50 - 20 = 30$.
 ¿Cuál es el porcentaje del coeficiente de variación?
 
 ### Opciones
-- [x] A) 10%
+- [x] D) 10%
   <!-- feedback: Correcto. $CV = \frac{5}{50} \times 100\% = 0.10 \times 100\% = 10\%$. -->
-- [ ] B) 5%
+- [ ] A) 5%
   <!-- feedback: Incorrecto. Se confundió con el valor de la desviación estándar. -->
-- [ ] C) 20%
+- [ ] B) 20%
   <!-- feedback: Incorrecto. Se dividió $\bar{x}/s = 50/5 = 10$, pero invertido mal. -->
-- [ ] D) 50%
+- [ ] C) 50%
   <!-- feedback: Incorrecto. Se multiplicó por la media. -->
 
 ### Explicacion Pedagogica
@@ -264,9 +264,9 @@ La mediana es resistente a datos atípicos (outliers). Cuando la distribución e
 ¿Qué representa la suma de todas las frecuencias relativas en un histograma?
 
 ### Opciones
-- [x] A) 1 (o 100%)
+- [x] B) 1 (o 100%)
   <!-- feedback: Correcto. La suma de las proporciones relativas de todas las categorías mutuamente excluyentes siempre es igual a 1 o 100%. -->
-- [ ] B) 100 personas
+- [ ] A) 100 personas
   <!-- feedback: Incorrecto. 100 es la suma de las frecuencias absolutas, no relativas. -->
 - [ ] C) 0.5 (o 50%)
   <!-- feedback: Incorrecto. Representa solo la mitad de los datos. -->
@@ -287,13 +287,13 @@ Por definición de probabilidad y proporción relativa, $\sum f_i = 1$ (o $100\%
 ¿Cuál es el puntaje $z$ del estudiante?
 
 ### Opciones
-- [x] A) +1.5
+- [x] D) +1.5
   <!-- feedback: Correcto. $z = \frac{85 - 70}{10} = \frac{15}{10} = +1.5$. -->
-- [ ] B) +1.0
+- [ ] A) +1.0
   <!-- feedback: Incorrecto. Se dividió entre 15 en lugar de entre 10. -->
-- [ ] C) -1.5
+- [ ] B) -1.5
   <!-- feedback: Incorrecto. Signo erróneo, el puntaje está por encima de la media. -->
-- [ ] D) +15
+- [ ] C) +15
   <!-- feedback: Incorrecto. Omitió dividir entre la desviación estándar $s=10$. -->
 
 ### Explicacion Pedagogica
@@ -310,11 +310,11 @@ El puntaje $z$ indica cuántas desviaciones estándar se aleja un dato de la med
 ¿Cómo se interpreta este valor de correlación $r = 0.92$?
 
 ### Opciones
-- [x] A) Existe una fuerte correlación lineal positiva entre las horas de estudio y el puntaje.
+- [x] C) Existe una fuerte correlación lineal positiva entre las horas de estudio y el puntaje.
   <!-- feedback: Correcto. $r \approx 1$ indica una relación lineal directa y muy fuerte. -->
-- [ ] B) Existe una relación lineal negativa y débil.
+- [ ] A) Existe una relación lineal negativa y débil.
   <!-- feedback: Incorrecto. $r > 0$ indica relación positiva. -->
-- [ ] C) Estudiar más horas causa directamente una mala nota.
+- [ ] B) Estudiar más horas causa directamente una mala nota.
   <!-- feedback: Incorrecto. La correlación positiva implica que a mayor horas de estudio, mayor nota. -->
 - [ ] D) No existe ninguna relación entre las dos variables.
   <!-- feedback: Incorrecto. $r = 0$ indicaría ausencia de relación lineal, no $0.92$. -->
@@ -356,9 +356,9 @@ Límite superior atípico $= Q_3 + 1.5(RIC) = 30 + 1.5(20) = 60$.
 ¿A qué es igual siempre la suma de las desviaciones de un conjunto de datos respecto a su media?
 
 ### Opciones
-- [x] A) Siempre es igual a 0.
+- [x] B) Siempre es igual a 0.
   <!-- feedback: Correcto. $\sum (x_i - \bar{x}) = \sum x_i - n\bar{x} = n\bar{x} - n\bar{x} = 0$ por definición algebraíca de la media. -->
-- [ ] B) Siempre es igual a 1.
+- [ ] A) Siempre es igual a 1.
   <!-- feedback: Incorrecto. Aplica a frecuencias relativas, no a desviaciones. -->
 - [ ] C) Es igual a la varianza.
   <!-- feedback: Incorrecto. La varianza eleva las diferencias al cuadrado para evitar que sumen 0. -->
@@ -379,11 +379,11 @@ Por definición de media $\bar{x} = \frac{\sum x_i}{n} \implies \sum (x_i - \bar
 ¿Cómo cambian la media $\bar{x}$ y la desviación estándar $s$ del nuevo conjunto de datos?
 
 ### Opciones
-- [x] A) La media aumenta en $c$ ($\bar{x}_{nueva} = \bar{x} + 5$) y la desviación estándar permanece inalterada ($s_{nueva} = s$).
+- [x] C) La media aumenta en $c$ ($\bar{x}_{nueva} = \bar{x} + 5$) y la desviación estándar permanece inalterada ($s_{nueva} = s$).
   <!-- feedback: Correcto. Sumar una constante traslada la localización central, pero no modifica la dispersión entre los datos. -->
-- [ ] B) Tanto la media como la desviación estándar aumentan en 5.
+- [ ] A) Tanto la media como la desviación estándar aumentan en 5.
   <!-- feedback: Incorrecto. La dispersión $s$ no cambia al sumar constantes a todos los datos. -->
-- [ ] C) La media se multiplica por 5 y la desviación estándar permanece igual.
+- [ ] B) La media se multiplica por 5 y la desviación estándar permanece igual.
   <!-- feedback: Incorrecto. La media se multiplica solo cuando los datos se multiplican. -->
 - [ ] D) La desviación estándar aumenta en 25.
   <!-- feedback: Incorrecto. La dispersión se mantiene exactamente igual. -->
@@ -402,11 +402,11 @@ Sumar una constante desplaza todos los datos por igual $\implies$ la media se in
 ¿Qué tipo de distribución presentan estos datos?
 
 ### Opciones
-- [x] A) Una distribución perfectamente simétrica (como la distribución normal).
+- [x] C) Una distribución perfectamente simétrica (como la distribución normal).
   <!-- feedback: Correcto. En distribuciones simétricas unimodales, media, mediana y moda coinciden en el mismo valor central. -->
-- [ ] B) Una distribución con asimetría positiva (sesgada a la derecha).
+- [ ] A) Una distribución con asimetría positiva (sesgada a la derecha).
   <!-- feedback: Incorrecto. Asimetría positiva requiere $\text{Media} > \text{Mediana}$. -->
-- [ ] C) Una distribución con asimetría negativa (sesgada a la izquierda).
+- [ ] B) Una distribución con asimetría negativa (sesgada a la izquierda).
   <!-- feedback: Incorrecto. Asimetría negativa requiere $\text{Media} < \text{Mediana}$. -->
 - [ ] D) Una distribución sin variabilidad.
   <!-- feedback: Incorrecto. La coincidencia de las tres medidas no implica varianza cero. -->
@@ -425,11 +425,11 @@ Cuando $\text{Media} = \text{Mediana} = \text{Moda}$, la distribución es perfec
 ¿Cuál de las dos muestras presenta una mayor dispersión relativa?
 
 ### Opciones
-- [x] A) La muestra $B$, porque su coeficiente de variación ($20\%$) es mayor que el de la muestra $A$ ($10\%$).
+- [x] C) La muestra $B$, porque su coeficiente de variación ($20\%$) es mayor que el de la muestra $A$ ($10\%$).
   <!-- feedback: Correcto. El Coeficiente de Variación mide la dispersión relativa a la magnitud de la media. -->
-- [ ] B) La muestra $A$, porque su desviación estándar ($s=10$) es mayor que la de $B$ ($s=2$).
+- [ ] A) La muestra $A$, porque su desviación estándar ($s=10$) es mayor que la de $B$ ($s=2$).
   <!-- feedback: Incorrecto. $s=10$ es mayor en términos absolutos, pero en relación con la media $\bar{x}=100$ representa solo el 10%. -->
-- [ ] C) Ambas tienen exactamente la misma dispersión.
+- [ ] B) Ambas tienen exactamente la misma dispersión.
   <!-- feedback: Incorrecto. Las escalas de medición y promedios son distintos. -->
 - [ ] D) No se pueden comparar muestras con medias diferentes.
   <!-- feedback: Incorrecto. El CV se diseñó precisamente para comparar dispersión entre muestras con unidades o medias distintas. -->
@@ -448,13 +448,13 @@ El Coeficiente de Variación $CV = \frac{s}{\bar{x}}$ permite comparar la variab
 Según Chebyshev, ¿qué porcentaje mínimo de datos se encuentra dentro de $k=2$ desviaciones estándar de la media (intervalo $[\bar{x}-2s, \bar{x}+2s]$)?
 
 ### Opciones
-- [x] A) Al menos el 75% de los datos ($1 - 1/k^2 = 1 - 1/4 = 0.75$).
+- [x] D) Al menos el 75% de los datos ($1 - 1/k^2 = 1 - 1/4 = 0.75$).
   <!-- feedback: Correcto. El Teorema de Chebyshev establece que al menos $1 - 1/k^2$ de los datos cae a $k$ desviaciones estándar de la media. -->
-- [ ] B) Exactamente el 68% de los datos.
+- [ ] A) Exactamente el 68% de los datos.
   <!-- feedback: Incorrecto. 68% aplica a la Regla Empírica de distribuciones normales acampanadas. -->
-- [ ] C) Al menos el 50% de los datos.
+- [ ] B) Al menos el 50% de los datos.
   <!-- feedback: Incorrecto. Corresponde a $k=\sqrt{2}$. -->
-- [ ] D) El 95% de los datos.
+- [ ] C) El 95% de los datos.
   <!-- feedback: Incorrecto. 95% es la Regla Empírica para 2 desviaciones en la distribución normal. -->
 
 ### Explicacion Pedagogica
@@ -471,13 +471,13 @@ Chebyshev: Proporción $\ge 1 - \frac{1}{k^2}$. Para $k=2 \implies 1 - \frac{1}{
 ¿Qué sucede con la varianza $s^2$ del nuevo conjunto de datos?
 
 ### Opciones
-- [x] A) La varianza se multiplica por $c^2 = 9$.
+- [x] D) La varianza se multiplica por $c^2 = 9$.
   <!-- feedback: Correcto. $s_{nueva}^2 = \operatorname{Var}(3X) = 3^2 \operatorname{Var}(X) = 9 s^2$. -->
-- [ ] B) La varianza se multiplica por 3.
+- [ ] A) La varianza se multiplica por 3.
   <!-- feedback: Incorrecto. La desviación estándar se multiplica por 3, por ende la varianza al ser cuadrática se multiplica por 9. -->
-- [ ] C) La varianza permanece inalterada.
+- [ ] B) La varianza permanece inalterada.
   <!-- feedback: Incorrecto. Escalar los datos modifica su variabilidad cuadrática. -->
-- [ ] D) La varianza aumenta en 3 unidades.
+- [ ] C) La varianza aumenta en 3 unidades.
   <!-- feedback: Incorrecto. Multiplicar altera la varianza por un factor cuadrático, no aditivo. -->
 
 ### Explicacion Pedagogica

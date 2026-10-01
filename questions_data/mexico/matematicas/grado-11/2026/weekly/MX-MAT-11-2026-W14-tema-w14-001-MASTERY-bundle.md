@@ -30,9 +30,9 @@ creador: "Jules-Agent"
 Si la escalera mide 10 metros de longitud y su base se coloca a 6 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?
 
 ### Opciones
-- [x] A) 8.0 metros
+- [x] B) 8.0 metros
   <!-- feedback: ¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²). -->
-- [ ] B) 16 metros
+- [ ] A) 16 metros
   <!-- feedback: Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados. -->
 - [ ] C) 11.66 metros
   <!-- feedback: Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera. -->
@@ -53,9 +53,9 @@ La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por e
 Si la escalera mide 11 metros de longitud y su base se coloca a 7 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?
 
 ### Opciones
-- [x] A) 8.49 metros
+- [x] B) 8.49 metros
   <!-- feedback: ¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²). -->
-- [ ] B) 18 metros
+- [ ] A) 18 metros
   <!-- feedback: Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados. -->
 - [ ] C) 13.04 metros
   <!-- feedback: Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera. -->
@@ -76,13 +76,13 @@ La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por e
 Si la escalera mide 12 metros de longitud y su base se coloca a 8 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?
 
 ### Opciones
-- [x] A) 8.94 metros
+- [x] D) 8.94 metros
   <!-- feedback: ¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²). -->
-- [ ] B) 20 metros
+- [ ] A) 20 metros
   <!-- feedback: Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados. -->
-- [ ] C) 14.42 metros
+- [ ] B) 14.42 metros
   <!-- feedback: Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera. -->
-- [ ] D) 6 metros
+- [ ] C) 6 metros
   <!-- feedback: Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico. -->
 
 ### Explicacion Pedagogica
@@ -99,9 +99,9 @@ La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por e
 Si la escalera mide 13 metros de longitud y su base se coloca a 6 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?
 
 ### Opciones
-- [x] A) 11.53 metros
+- [x] B) 11.53 metros
   <!-- feedback: ¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²). -->
-- [ ] B) 19 metros
+- [ ] A) 19 metros
   <!-- feedback: Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados. -->
 - [ ] C) 14.32 metros
   <!-- feedback: Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera. -->
@@ -122,9 +122,9 @@ La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por e
 Si la escalera mide 14 metros de longitud y su base se coloca a 7 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?
 
 ### Opciones
-- [x] A) 12.12 metros
+- [x] B) 12.12 metros
   <!-- feedback: ¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²). -->
-- [ ] B) 21 metros
+- [ ] A) 21 metros
   <!-- feedback: Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados. -->
 - [ ] C) 15.65 metros
   <!-- feedback: Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera. -->
@@ -145,13 +145,13 @@ La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por e
 Si la escalera mide 15 metros de longitud y su base se coloca a 8 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?
 
 ### Opciones
-- [x] A) 12.69 metros
+- [x] D) 12.69 metros
   <!-- feedback: ¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²). -->
-- [ ] B) 23 metros
+- [ ] A) 23 metros
   <!-- feedback: Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados. -->
-- [ ] C) 17.0 metros
+- [ ] B) 17.0 metros
   <!-- feedback: Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera. -->
-- [ ] D) 9 metros
+- [ ] C) 9 metros
   <!-- feedback: Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico. -->
 
 ### Explicacion Pedagogica
@@ -168,13 +168,13 @@ La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por e
 Si la escalera mide 16 metros de longitud y su base se coloca a 6 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?
 
 ### Opciones
-- [x] A) 14.83 metros
+- [x] D) 14.83 metros
   <!-- feedback: ¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²). -->
-- [ ] B) 22 metros
+- [ ] A) 22 metros
   <!-- feedback: Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados. -->
-- [ ] C) 17.09 metros
+- [ ] B) 17.09 metros
   <!-- feedback: Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera. -->
-- [ ] D) 10 metros
+- [ ] C) 10 metros
   <!-- feedback: Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico. -->
 
 ### Explicacion Pedagogica
@@ -191,9 +191,9 @@ La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por e
 Si la escalera mide 17 metros de longitud y su base se coloca a 7 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?
 
 ### Opciones
-- [x] A) 15.49 metros
+- [x] B) 15.49 metros
   <!-- feedback: ¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²). -->
-- [ ] B) 24 metros
+- [ ] A) 24 metros
   <!-- feedback: Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados. -->
 - [ ] C) 18.38 metros
   <!-- feedback: Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera. -->
@@ -214,9 +214,9 @@ La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por e
 Si la escalera mide 18 metros de longitud y su base se coloca a 8 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?
 
 ### Opciones
-- [x] A) 16.12 metros
+- [x] B) 16.12 metros
   <!-- feedback: ¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²). -->
-- [ ] B) 26 metros
+- [ ] A) 26 metros
   <!-- feedback: Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados. -->
 - [ ] C) 19.7 metros
   <!-- feedback: Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera. -->
@@ -237,11 +237,11 @@ La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por e
 Si la escalera mide 19 metros de longitud y su base se coloca a 6 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?
 
 ### Opciones
-- [x] A) 18.03 metros
+- [x] C) 18.03 metros
   <!-- feedback: ¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²). -->
-- [ ] B) 25 metros
+- [ ] A) 25 metros
   <!-- feedback: Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados. -->
-- [ ] C) 19.92 metros
+- [ ] B) 19.92 metros
   <!-- feedback: Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera. -->
 - [ ] D) 13 metros
   <!-- feedback: Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico. -->
@@ -260,13 +260,13 @@ La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por e
 Si la escalera mide 20 metros de longitud y su base se coloca a 7 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?
 
 ### Opciones
-- [x] A) 18.73 metros
+- [x] D) 18.73 metros
   <!-- feedback: ¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²). -->
-- [ ] B) 27 metros
+- [ ] A) 27 metros
   <!-- feedback: Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados. -->
-- [ ] C) 21.19 metros
+- [ ] B) 21.19 metros
   <!-- feedback: Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera. -->
-- [ ] D) 14 metros
+- [ ] C) 14 metros
   <!-- feedback: Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico. -->
 
 ### Explicacion Pedagogica
@@ -283,11 +283,11 @@ La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por e
 Si la escalera mide 21 metros de longitud y su base se coloca a 8 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?
 
 ### Opciones
-- [x] A) 19.42 metros
+- [x] C) 19.42 metros
   <!-- feedback: ¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²). -->
-- [ ] B) 29 metros
+- [ ] A) 29 metros
   <!-- feedback: Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados. -->
-- [ ] C) 22.47 metros
+- [ ] B) 22.47 metros
   <!-- feedback: Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera. -->
 - [ ] D) 15 metros
   <!-- feedback: Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico. -->
@@ -306,13 +306,13 @@ La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por e
 Si la escalera mide 22 metros de longitud y su base se coloca a 6 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?
 
 ### Opciones
-- [x] A) 21.17 metros
+- [x] D) 21.17 metros
   <!-- feedback: ¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²). -->
-- [ ] B) 28 metros
+- [ ] A) 28 metros
   <!-- feedback: Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados. -->
-- [ ] C) 22.8 metros
+- [ ] B) 22.8 metros
   <!-- feedback: Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera. -->
-- [ ] D) 16 metros
+- [ ] C) 16 metros
   <!-- feedback: Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico. -->
 
 ### Explicacion Pedagogica
@@ -329,9 +329,9 @@ La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por e
 Si la escalera mide 23 metros de longitud y su base se coloca a 7 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?
 
 ### Opciones
-- [x] A) 21.91 metros
+- [x] B) 21.91 metros
   <!-- feedback: ¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²). -->
-- [ ] B) 30 metros
+- [ ] A) 30 metros
   <!-- feedback: Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados. -->
 - [ ] C) 24.04 metros
   <!-- feedback: Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera. -->
@@ -352,9 +352,9 @@ La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por e
 Si la escalera mide 24 metros de longitud y su base se coloca a 8 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?
 
 ### Opciones
-- [x] A) 22.63 metros
+- [x] B) 22.63 metros
   <!-- feedback: ¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²). -->
-- [ ] B) 32 metros
+- [ ] A) 32 metros
   <!-- feedback: Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados. -->
 - [ ] C) 25.3 metros
   <!-- feedback: Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera. -->
@@ -398,13 +398,13 @@ La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por e
 Si la escalera mide 26 metros de longitud y su base se coloca a 7 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?
 
 ### Opciones
-- [x] A) 25.04 metros
+- [x] D) 25.04 metros
   <!-- feedback: ¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²). -->
-- [ ] B) 33 metros
+- [ ] A) 33 metros
   <!-- feedback: Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados. -->
-- [ ] C) 26.93 metros
+- [ ] B) 26.93 metros
   <!-- feedback: Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera. -->
-- [ ] D) 20 metros
+- [ ] C) 20 metros
   <!-- feedback: Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico. -->
 
 ### Explicacion Pedagogica
@@ -444,9 +444,9 @@ La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por e
 Si la escalera mide 28 metros de longitud y su base se coloca a 6 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?
 
 ### Opciones
-- [x] A) 27.35 metros
+- [x] B) 27.35 metros
   <!-- feedback: ¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²). -->
-- [ ] B) 34 metros
+- [ ] A) 34 metros
   <!-- feedback: Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados. -->
 - [ ] C) 28.64 metros
   <!-- feedback: Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera. -->
@@ -467,11 +467,11 @@ La escalera, el piso y la pared vertical forman un triángulo rectángulo. Por e
 Si la escalera mide 29 metros de longitud y su base se coloca a 7 metros de la pared, ¿a qué altura aproximada sobre la pared se apoya el extremo superior de la escalera?
 
 ### Opciones
-- [x] A) 28.14 metros
+- [x] C) 28.14 metros
   <!-- feedback: ¡Correcto! Usando el teorema de Pitágoras: a² + b² = c² -> altura = √(escalera² - distancia²). -->
-- [ ] B) 36 metros
+- [ ] A) 36 metros
   <!-- feedback: Incorrecto. No se pueden sumar directamente las longitudes lineales de los lados. -->
-- [ ] C) 29.83 metros
+- [ ] B) 29.83 metros
   <!-- feedback: Incorrecto. Este cálculo sumaría los cuadrados de los catetos, lo cual daría una hipotenusa mayor que la propia escalera. -->
 - [ ] D) 23 metros
   <!-- feedback: Incorrecto. Simple diferencia de los lados, que no corresponde al cálculo geométrico. -->

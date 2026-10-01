@@ -34,9 +34,9 @@ Estructura político-administrativa del municipio colombiano: alcalde, Concejo m
 ¿Cuál es la autoridad principal que dirige un municipio en Colombia?
 
 ### Opciones
-- [x] A) El alcalde.
+- [x] B) El alcalde.
   <!-- feedback: El alcalde es la primera autoridad ejecutiva del municipio en Colombia. -->
-- [ ] B) El presidente de la República.
+- [ ] A) El presidente de la República.
   <!-- feedback: El presidente dirige la nación, no un municipio específico. -->
 - [ ] C) El gobernador del departamento.
   <!-- feedback: El gobernador dirige el departamento, no el municipio. -->
@@ -80,11 +80,11 @@ Comprender el papel del Concejo Municipal en la democracia local colombiana.
 ¿Cuál de las siguientes es una función propia del alcalde municipal?
 
 ### Opciones
-- [x] A) Dirigir la administración del municipio, ejecutar el plan de desarrollo y velar por el bienestar de los ciudadanos.
+- [x] C) Dirigir la administración del municipio, ejecutar el plan de desarrollo y velar por el bienestar de los ciudadanos.
   <!-- feedback: El alcalde ejecuta políticas, dirige la administración y representa al municipio. -->
-- [ ] B) Juzgar a los ciudadanos que cometen delitos graves.
+- [ ] A) Juzgar a los ciudadanos que cometen delitos graves.
   <!-- feedback: Juzgar corresponde a la rama judicial, no al alcalde. -->
-- [ ] C) Crear leyes nacionales para todo el país.
+- [ ] B) Crear leyes nacionales para todo el país.
   <!-- feedback: Las leyes nacionales las aprueba el Congreso, no el alcalde. -->
 - [ ] D) Elegir al presidente de la República.
   <!-- feedback: La elección presidencial corresponde a los ciudadanos en las urnas. -->
@@ -103,13 +103,13 @@ Reconocer las funciones ejecutivas del alcalde en el gobierno municipal.
 ¿Cuál es la entidad territorial más cercana a la vida cotidiana de los ciudadanos?
 
 ### Opciones
-- [x] A) El municipio.
+- [x] D) El municipio.
   <!-- feedback: El municipio es la unidad territorial más cercana a la vida diaria de la gente. -->
-- [ ] B) El departamento.
+- [ ] A) El departamento.
   <!-- feedback: El departamento agrupa varios municipios y está más lejos de la vida cotidiana. -->
-- [ ] C) La nación.
+- [ ] B) La nación.
   <!-- feedback: La nación abarca todo el país y está muy lejos del ciudadano del común. -->
-- [ ] D) La Organización de las Naciones Unidas.
+- [ ] C) La Organización de las Naciones Unidas.
   <!-- feedback: La ONU es una organización internacional, no una entidad territorial nacional. -->
 
 ### Explicacion Pedagogica
@@ -149,9 +149,9 @@ Aplicar mecanismos democráticos de participación para que los ciudadanos se re
 ¿Qué diferencia existe entre el gobierno del municipio A y el del municipio B?
 
 ### Opciones
-- [x] A) El municipio A practica la participación y la rendición de cuentas; el B gobierna de forma cerrada.
+- [x] B) El municipio A practica la participación y la rendición de cuentas; el B gobierna de forma cerrada.
   <!-- feedback: La diferencia clave es la apertura a la comunidad y la transparencia con la ciudadanía. -->
-- [ ] B) Los dos alcaldes gobiernan exactamente igual porque tienen el mismo cargo.
+- [ ] A) Los dos alcaldes gobiernan exactamente igual porque tienen el mismo cargo.
   <!-- feedback: Aunque tienen el mismo cargo, su estilo de gobierno y su relación con la comunidad difieren. -->
 - [ ] C) Solo el municipio A tiene alcalde; el B no tiene autoridad.
   <!-- feedback: Ambos municipios tienen alcalde, según la descripción del caso. -->
@@ -195,13 +195,13 @@ Analizar la relación entre tributación local y prestación de servicios públi
 ¿Por qué la participación ciudadana es esencial para el buen gobierno del municipio?
 
 ### Opciones
-- [x] A) Porque permite que los ciudadanos controlen a sus gobernantes y propongan soluciones a los problemas locales.
+- [x] D) Porque permite que los ciudadanos controlen a sus gobernantes y propongan soluciones a los problemas locales.
   <!-- feedback: La participación hace que el gobierno responda a las necesidades reales de la gente. -->
-- [ ] B) Porque los ciudadanos no necesitan intervenir en los asuntos públicos.
+- [ ] A) Porque los ciudadanos no necesitan intervenir en los asuntos públicos.
   <!-- feedback: Sin participación ciudadana, el gobierno pierde cercanía con la comunidad. -->
-- [ ] C) Porque la participación solo sirve para protestar en la calle sin construir propuestas.
+- [ ] B) Porque la participación solo sirve para protestar en la calle sin construir propuestas.
   <!-- feedback: La participación incluye propuestas y diálogo, no solo protesta. -->
-- [ ] D) Porque el alcalde decide todo sin necesidad de escuchar a la comunidad.
+- [ ] C) Porque el alcalde decide todo sin necesidad de escuchar a la comunidad.
   <!-- feedback: Escuchar a la comunidad es parte esencial del gobierno democrático. -->
 
 ### Explicacion Pedagogica

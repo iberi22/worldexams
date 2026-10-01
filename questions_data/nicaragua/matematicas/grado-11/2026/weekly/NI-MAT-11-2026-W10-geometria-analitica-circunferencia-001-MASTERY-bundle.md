@@ -30,8 +30,8 @@ bundle_index: 1
 
 ### Opciones
 - [ ] A) El conjunto de puntos cuya suma de distancias a dos puntos fijos es constante. <!-- feedback: Incorrecto. Esta es la definición de una elipse. -->
-- [x] B) El conjunto de puntos en un plano que equidistan de un punto fijo llamado centro. <!-- feedback: Correcto. La distancia constante se denomina radio. -->
-- [ ] C) El conjunto de puntos cuya diferencia de distancias a dos puntos fijos es constante. <!-- feedback: Incorrecto. Esta es la definición de una hipérbola. -->
+- [x] C) El conjunto de puntos en un plano que equidistan de un punto fijo llamado centro. <!-- feedback: Correcto. La distancia constante se denomina radio. -->
+- [ ] B) El conjunto de puntos cuya diferencia de distancias a dos puntos fijos es constante. <!-- feedback: Incorrecto. Esta es la definición de una hipérbola. -->
 - [ ] D) El conjunto de puntos cuya distancia a una recta es igual a la distancia a un punto. <!-- feedback: Incorrecto. Esta es la definición de una parábola. -->
 
 ### Explicacion Pedagogica
@@ -48,8 +48,8 @@ La circunferencia es el caso más simple de las secciones cónicas. Se define po
 ¿Cuál es la ecuación canónica u ordinaria de una circunferencia con centro en $(h, k)$ y radio $r$?
 
 ### Opciones
-- [ ] A) $(x + h)^2 + (y + k)^2 = r^2$ <!-- feedback: Incorrecto. Los signos deben ser negativos para representar los desplazamientos. -->
-- [x] B) $(x - h)^2 + (y - k)^2 = r^2$ <!-- feedback: Correcto. Esta forma deriva directamente de la fórmula de distancia entre un punto $(x, y)$ y el centro. -->
+- [ ] B) $(x + h)^2 + (y + k)^2 = r^2$ <!-- feedback: Incorrecto. Los signos deben ser negativos para representar los desplazamientos. -->
+- [x] A) $(x - h)^2 + (y - k)^2 = r^2$ <!-- feedback: Correcto. Esta forma deriva directamente de la fórmula de distancia entre un punto $(x, y)$ y el centro. -->
 - [ ] C) $x^2 + y^2 = r$ <!-- feedback: Incorrecto. Esta es para centro en el origen y falta elevar el radio al cuadrado. -->
 - [ ] D) $(x - h) + (y - k) = r$ <!-- feedback: Incorrecto. Los términos deben estar elevados al cuadrado. -->
 
@@ -68,8 +68,8 @@ La forma ordinaria $(x-h)^2 + (y-k)^2 = r^2$ permite identificar visualmente el 
 
 ### Opciones
 - [ ] A) $x^2 + y^2 = 5$ <!-- feedback: Incorrecto. El radio debe elevarse al cuadrado. -->
-- [x] B) $x^2 + y^2 = 25$ <!-- feedback: Correcto. Sustituyendo $h=0, k=0$ y $r=5$, obtenemos $x^2 + y^2 = 25$. -->
-- [ ] C) $x + y = 25$ <!-- feedback: Incorrecto. No representa una figura cuadrática. -->
+- [x] C) $x^2 + y^2 = 25$ <!-- feedback: Correcto. Sustituyendo $h=0, k=0$ y $r=5$, obtenemos $x^2 + y^2 = 25$. -->
+- [ ] B) $x + y = 25$ <!-- feedback: Incorrecto. No representa una figura cuadrática. -->
 - [ ] D) $x^2 - y^2 = 25$ <!-- feedback: Incorrecto. Esta sería la ecuación de una hipérbola. -->
 
 ### Explicacion Pedagogica
@@ -87,8 +87,8 @@ Dada la ecuación $(x - 3)^2 + (y + 2)^2 = 16$, ¿cuál es el centro y el radio 
 
 ### Opciones
 - [ ] A) Centro $(3, -2)$, Radio 16 <!-- feedback: Incorrecto. El valor 16 es el radio al cuadrado. -->
-- [x] B) Centro $(3, -2)$, Radio 4 <!-- feedback: Correcto. Los desplazamientos son $h=3, k=-2$ y $\sqrt{16}=4$. -->
-- [ ] C) Centro $(-3, 2)$, Radio 4 <!-- feedback: Incorrecto. Los signos del centro son opuestos a los de la ecuación. -->
+- [x] C) Centro $(3, -2)$, Radio 4 <!-- feedback: Correcto. Los desplazamientos son $h=3, k=-2$ y $\sqrt{16}=4$. -->
+- [ ] B) Centro $(-3, 2)$, Radio 4 <!-- feedback: Incorrecto. Los signos del centro son opuestos a los de la ecuación. -->
 - [ ] D) Centro $(3, 2)$, Radio 8 <!-- feedback: Incorrecto. Signo de k y valor de r erróneos. -->
 
 ### Explicacion Pedagogica
@@ -125,8 +125,8 @@ En la ecuación general de las cónicas $Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0$, �
 
 ### Opciones
 - [ ] A) $A = 0$ y $C = 0$ <!-- feedback: Incorrecto. Eso daría una línea recta. -->
-- [x] B) $A = C$ (y no nulos) y $B = 0$ <!-- feedback: Correcto. Los términos cuadráticos deben ser iguales y no debe haber término de producto cruzado $xy$. -->
-- [ ] C) $A$ y $C$ deben tener signos opuestos. <!-- feedback: Incorrecto. Eso daría una hipérbola. -->
+- [x] C) $A = C$ (y no nulos) y $B = 0$ <!-- feedback: Correcto. Los términos cuadráticos deben ser iguales y no debe haber término de producto cruzado $xy$. -->
+- [ ] B) $A$ y $C$ deben tener signos opuestos. <!-- feedback: Incorrecto. Eso daría una hipérbola. -->
 - [ ] D) $B$ debe ser mayor que $A$. <!-- feedback: Incorrecto. El término $xy$ debe ser inexistente en la circunferencia estándar. -->
 
 ### Explicacion Pedagogica
@@ -143,8 +143,8 @@ Una circunferencia tiene la misma curvatura en todas las direcciones, por eso lo
 ¿Cuál es la ecuación de la circunferencia con centro en $(0, 0)$ que pasa por el punto $(3, 4)$?
 
 ### Opciones
-- [ ] A) $x^2 + y^2 = 7$ <!-- feedback: Incorrecto. Se sumaron las coordenadas. -->
-- [x] B) $x^2 + y^2 = 25$ <!-- feedback: Correcto. El radio al cuadrado es $r^2 = 3^2 + 4^2 = 9 + 16 = 25$. -->
+- [ ] B) $x^2 + y^2 = 7$ <!-- feedback: Incorrecto. Se sumaron las coordenadas. -->
+- [x] A) $x^2 + y^2 = 25$ <!-- feedback: Correcto. El radio al cuadrado es $r^2 = 3^2 + 4^2 = 9 + 16 = 25$. -->
 - [ ] C) $x^2 + y^2 = 5$ <!-- feedback: Incorrecto. Faltó elevar el radio al cuadrado. -->
 - [ ] D) $x^2 + y^2 = 12$ <!-- feedback: Incorrecto. Se multiplicaron las coordenadas. -->
 
@@ -163,9 +163,9 @@ Si los extremos del diámetro de una circunferencia son $A(-2, 0)$ y $B(4, 0)$, 
 
 ### Opciones
 - [ ] A) Centro $(1, 0)$, Radio 6 <!-- feedback: Incorrecto. 6 es la longitud del diámetro. -->
-- [x] B) Centro $(1, 0)$, Radio 3 <!-- feedback: Correcto. Centro es el punto medio: $(-2+4)/2 = 1$. El diámetro mide 6, por lo que el radio mide 3. -->
-- [ ] C) Centro $(2, 0)$, Radio 3 <!-- feedback: Incorrecto. Error en el cálculo del punto medio. -->
-- [ ] D) Centro $(0, 0)$, Radio 2 <!-- feedback: Incorrecto. Valores inconsistentes con los extremos dados. -->
+- [x] D) Centro $(1, 0)$, Radio 3 <!-- feedback: Correcto. Centro es el punto medio: $(-2+4)/2 = 1$. El diámetro mide 6, por lo que el radio mide 3. -->
+- [ ] B) Centro $(2, 0)$, Radio 3 <!-- feedback: Incorrecto. Error en el cálculo del punto medio. -->
+- [ ] C) Centro $(0, 0)$, Radio 2 <!-- feedback: Incorrecto. Valores inconsistentes con los extremos dados. -->
 
 ### Explicacion Pedagogica
 El centro de la circunferencia es siempre el punto medio de cualquier diámetro. El radio es la mitad de la longitud del diámetro.
@@ -182,9 +182,9 @@ Si el área de una plaza circular en León es de $49\pi$ metros cuadrados, ¿cu�
 
 ### Opciones
 - [ ] A) $x^2 + y^2 = 7$ <!-- feedback: Incorrecto. Faltó elevar el radio al cuadrado. -->
-- [x] B) $x^2 + y^2 = 49$ <!-- feedback: Correcto. Área = $\pi r^2 = 49\pi$, entonces $r^2 = 49$. La ecuación es $x^2 + y^2 = 49$. -->
-- [ ] C) $x^2 + y^2 = 24.5$ <!-- feedback: Incorrecto. Error en la relación entre área y radio. -->
-- [ ] D) $x^2 + y^2 = 2,401$ <!-- feedback: Incorrecto. Se elevó el área al cuadrado. -->
+- [x] D) $x^2 + y^2 = 49$ <!-- feedback: Correcto. Área = $\pi r^2 = 49\pi$, entonces $r^2 = 49$. La ecuación es $x^2 + y^2 = 49$. -->
+- [ ] B) $x^2 + y^2 = 24.5$ <!-- feedback: Incorrecto. Error en la relación entre área y radio. -->
+- [ ] C) $x^2 + y^2 = 2,401$ <!-- feedback: Incorrecto. Se elevó el área al cuadrado. -->
 
 ### Explicacion Pedagogica
 El área del círculo nos proporciona directamente el valor de $r^2$. Este valor es el término constante en la forma canónica de la circunferencia.
@@ -201,8 +201,8 @@ El área del círculo nos proporciona directamente el valor de $r^2$. Este valor
 
 ### Opciones
 - [ ] A) $(x + 2)^2 + (y + 1)^2 = 9$ <!-- feedback: Incorrecto. Los desplazamientos positivos requieren signos negativos en la ecuación. -->
-- [x] B) $(x - 2)^2 + (y - 1)^2 = 9$ <!-- feedback: Correcto. Reemplazamos x por $(x-h)$ e y por $(y-k)$. -->
-- [ ] C) $(x - 2)^2 + (y - 1)^2 = 3$ <!-- feedback: Incorrecto. El radio al cuadrado debe mantenerse en 9. -->
+- [x] C) $(x - 2)^2 + (y - 1)^2 = 9$ <!-- feedback: Correcto. Reemplazamos x por $(x-h)$ e y por $(y-k)$. -->
+- [ ] B) $(x - 2)^2 + (y - 1)^2 = 3$ <!-- feedback: Incorrecto. El radio al cuadrado debe mantenerse en 9. -->
 - [ ] D) $(x + 2)^2 + (y - 1)^2 = 9$ <!-- feedback: Incorrecto. Error en el signo del desplazamiento horizontal. -->
 
 ### Explicacion Pedagogica
@@ -219,8 +219,8 @@ Las traslaciones cambian el centro de $(0,0)$ a $(h,k)$, lo que se refleja como 
 Dada la ecuación general $x^2 + y^2 - 4x + 2y - 4 = 0$, ¿cuál es el radio de la circunferencia?
 
 ### Opciones
-- [ ] A) 2 <!-- feedback: Incorrecto. Error al completar los cuadrados y sumar la constante. -->
-- [x] B) 3 <!-- feedback: Correcto. $(x-2)^2 + (y+1)^2 = 4 + 4 + 1 = 9$. Por lo tanto $r = \sqrt{9} = 3$. -->
+- [ ] B) 2 <!-- feedback: Incorrecto. Error al completar los cuadrados y sumar la constante. -->
+- [x] A) 3 <!-- feedback: Correcto. $(x-2)^2 + (y+1)^2 = 4 + 4 + 1 = 9$. Por lo tanto $r = \sqrt{9} = 3$. -->
 - [ ] C) 9 <!-- feedback: Incorrecto. Este es el radio al cuadrado. -->
 - [ ] D) 4 <!-- feedback: Incorrecto. Olvidó incluir la constante original de la ecuación. -->
 
@@ -239,8 +239,8 @@ Agrupamos términos en x e y, completamos cuadrados sumando los términos necesa
 
 ### Opciones
 - [ ] A) $(x - 3)^2 + (y - 5)^2 = 9$ <!-- feedback: Incorrecto. Esto sería tangente al eje y. -->
-- [x] B) $(x - 3)^2 + (y - 5)^2 = 25$ <!-- feedback: Correcto. Si es tangente al eje x, su radio es la distancia vertical desde el centro al eje, es decir, el valor absoluto de k (5). -->
-- [ ] C) $(x - 3)^2 + (y - 5)^2 = 5$ <!-- feedback: Incorrecto. Falta elevar el radio (5) al cuadrado. -->
+- [x] C) $(x - 3)^2 + (y - 5)^2 = 25$ <!-- feedback: Correcto. Si es tangente al eje x, su radio es la distancia vertical desde el centro al eje, es decir, el valor absoluto de k (5). -->
+- [ ] B) $(x - 3)^2 + (y - 5)^2 = 5$ <!-- feedback: Incorrecto. Falta elevar el radio (5) al cuadrado. -->
 - [ ] D) $x^2 + y^2 = 25$ <!-- feedback: Incorrecto. El centro no está en el origen. -->
 
 ### Explicacion Pedagogica
@@ -257,8 +257,8 @@ La tangencia a un eje determina automáticamente el valor del radio basándose e
 ¿Dónde se ubica el punto $(2, 2)$ respecto a la circunferencia $x^2 + y^2 = 9$?
 
 ### Opciones
-- [ ] A) Sobre la circunferencia. <!-- feedback: Incorrecto. $2^2 + 2^2 = 8$, no 9. -->
-- [x] B) En el interior de la circunferencia. <!-- feedback: Correcto. Como $8 < 9$, la distancia del punto al centro es menor que el radio. -->
+- [ ] B) Sobre la circunferencia. <!-- feedback: Incorrecto. $2^2 + 2^2 = 8$, no 9. -->
+- [x] A) En el interior de la circunferencia. <!-- feedback: Correcto. Como $8 < 9$, la distancia del punto al centro es menor que el radio. -->
 - [ ] C) En el exterior de la circunferencia. <!-- feedback: Incorrecto. La distancia al centro es menor que el radio. -->
 - [ ] D) En el centro de la circunferencia. <!-- feedback: Incorrecto. El centro es $(0, 0)$. -->
 
@@ -276,9 +276,9 @@ Para determinar la posición, evaluamos las coordenadas en la ecuación: si el r
 Halla el radio de la circunferencia con centro en $(0, 0)$ que es tangente a la recta $3x + 4y - 10 = 0$.
 
 ### Opciones
-- [x] A) 2 <!-- feedback: Correcto. El radio es la distancia del punto $(0,0)$ a la recta: $d = |3(0)+4(0)-10|/\sqrt{3^2+4^2} = 10/5 = 2$. -->
-- [ ] B) 10 <!-- feedback: Incorrecto. No se dividió entre el módulo del vector normal. -->
-- [ ] C) 4 <!-- feedback: Incorrecto. Error en el cálculo de la distancia punto-recta. -->
+- [x] C) 2 <!-- feedback: Correcto. El radio es la distancia del punto $(0,0)$ a la recta: $d = |3(0)+4(0)-10|/\sqrt{3^2+4^2} = 10/5 = 2$. -->
+- [ ] A) 10 <!-- feedback: Incorrecto. No se dividió entre el módulo del vector normal. -->
+- [ ] B) 4 <!-- feedback: Incorrecto. Error en el cálculo de la distancia punto-recta. -->
 - [ ] D) $\sqrt{10}$ <!-- feedback: Incorrecto. Resultado inconsistente con el procedimiento. -->
 
 ### Explicacion Pedagogica
@@ -315,9 +315,9 @@ En un triángulo rectángulo inscrito en una circunferencia, el centro de la cir
 
 ### Opciones
 - [ ] A) $10\pi$ <!-- feedback: Incorrecto. El radio es 10, pero la fórmula del área es $\pi r^2$. -->
-- [x] B) $100\pi$ <!-- feedback: Correcto. $r^2 = 100$. Área = $\pi \cdot r^2 = 100\pi$. -->
-- [ ] C) $20\pi$ <!-- feedback: Incorrecto. Esta es la longitud de la circunferencia (perímetro). -->
-- [ ] D) $50\pi$ <!-- feedback: Incorrecto. Error en la aplicación de la fórmula del área. -->
+- [x] D) $100\pi$ <!-- feedback: Correcto. $r^2 = 100$. Área = $\pi \cdot r^2 = 100\pi$. -->
+- [ ] B) $20\pi$ <!-- feedback: Incorrecto. Esta es la longitud de la circunferencia (perímetro). -->
+- [ ] C) $50\pi$ <!-- feedback: Incorrecto. Error en la aplicación de la fórmula del área. -->
 
 ### Explicacion Pedagogica
 La ecuación nos da directamente $r^2$. El área es simplemente $\pi$ multiplicado por ese valor.
@@ -353,8 +353,8 @@ Halla la ecuación de la recta tangente a la circunferencia $x^2 + y^2 = 25$ en 
 
 ### Opciones
 - [ ] A) $y = 3/4 x + 25/4$ <!-- feedback: Incorrecto. La pendiente debe ser perpendicular al radio. -->
-- [x] B) $3x + 4y = 25$ <!-- feedback: Correcto. La pendiente del radio es $4/3$, por lo que la tangente es $-3/4$. $y - 4 = -3/4(x - 3) \Rightarrow 4y - 16 = -3x + 9 \Rightarrow 3x + 4y = 25$. -->
-- [ ] C) $4x - 3y = 0$ <!-- feedback: Incorrecto. Esta recta pasa por el origen. -->
+- [x] C) $3x + 4y = 25$ <!-- feedback: Correcto. La pendiente del radio es $4/3$, por lo que la tangente es $-3/4$. $y - 4 = -3/4(x - 3) \Rightarrow 4y - 16 = -3x + 9 \Rightarrow 3x + 4y = 25$. -->
+- [ ] B) $4x - 3y = 0$ <!-- feedback: Incorrecto. Esta recta pasa por el origen. -->
 - [ ] D) $3x + 4y = 0$ <!-- feedback: Incorrecto. No pasa por el punto de tangencia. -->
 
 ### Explicacion Pedagogica
@@ -371,8 +371,8 @@ La recta tangente es siempre perpendicular al radio que llega al punto de tangen
 ¿Cuál es la relación entre las circunferencias $C_1: x^2 + y^2 = 4$ y $C_2: (x - 5)^2 + y^2 = 9$?
 
 ### Opciones
-- [ ] A) Son concéntricas. <!-- feedback: Incorrecto. Tienen centros distintos. -->
-- [x] B) Son tangentes externas. <!-- feedback: Correcto. La distancia entre centros es 5. Los radios son 2 y 3. Como $d = r_1 + r_2$, se tocan en un solo punto exterior. -->
+- [ ] B) Son concéntricas. <!-- feedback: Incorrecto. Tienen centros distintos. -->
+- [x] A) Son tangentes externas. <!-- feedback: Correcto. La distancia entre centros es 5. Los radios son 2 y 3. Como $d = r_1 + r_2$, se tocan en un solo punto exterior. -->
 - [ ] C) Se cortan en dos puntos. <!-- feedback: Incorrecto. La distancia entre centros no es menor a la suma de radios. -->
 - [ ] D) Una está dentro de la otra sin tocarse. <!-- feedback: Incorrecto. La distancia entre centros es mayor a la diferencia de radios. -->
 
@@ -391,8 +391,8 @@ La posición relativa de dos circunferencias se determina comparando la distanci
 
 ### Opciones
 - [ ] A) Una línea recta paralela al eje y. <!-- feedback: Incorrecto. La relación de distancias al cuadrado genera términos cuadráticos de igual coeficiente. -->
-- [x] B) Una circunferencia con centro en $(4, 0)$. <!-- feedback: Correcto. $\sqrt{x^2+y^2} = 2\sqrt{(x-3)^2+y^2} \Rightarrow x^2+y^2 = 4(x^2-6x+9+y^2) \Rightarrow 3x^2+3y^2-24x+36=0 \Rightarrow x^2+y^2-8x+12=0 \Rightarrow (x-4)^2+y^2=4$. -->
-- [ ] C) Una parábola que abre a la derecha. <!-- feedback: Incorrecto. No es una relación de distancia a recta. -->
+- [x] C) Una circunferencia con centro en $(4, 0)$. <!-- feedback: Correcto. $\sqrt{x^2+y^2} = 2\sqrt{(x-3)^2+y^2} \Rightarrow x^2+y^2 = 4(x^2-6x+9+y^2) \Rightarrow 3x^2+3y^2-24x+36=0 \Rightarrow x^2+y^2-8x+12=0 \Rightarrow (x-4)^2+y^2=4$. -->
+- [ ] B) Una parábola que abre a la derecha. <!-- feedback: Incorrecto. No es una relación de distancia a recta. -->
 - [ ] D) El conjunto vacío. <!-- feedback: Incorrecto. Existen infinitos puntos que cumplen la condición. -->
 
 ### Explicacion Pedagogica

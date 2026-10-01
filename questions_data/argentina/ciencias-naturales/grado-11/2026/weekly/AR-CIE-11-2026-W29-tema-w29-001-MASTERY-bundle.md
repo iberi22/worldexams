@@ -78,8 +78,8 @@ El estudio de Configuración Electrónica es clave para comprender los fundament
 En una experiencia de laboratorio en Buenos Aires, un estudiante analiza el fenómeno de $Electronegatividad$. ¿Qué comportamiento se espera observar?
 
 ### Opciones
-- [x] A) El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Electronegatividad$. <!-- feedback: Correcto. La respuesta del sistema refleja la ley física/química de $Electronegatividad$. -->
-- [ ] B) El sistema permanece completamente inerte sin registrar variación alguna. <!-- feedback: Incorrecto. Las variables se modifican según las ecuaciones del modelo. -->
+- [x] B) El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Electronegatividad$. <!-- feedback: Correcto. La respuesta del sistema refleja la ley física/química de $Electronegatividad$. -->
+- [ ] A) El sistema permanece completamente inerte sin registrar variación alguna. <!-- feedback: Incorrecto. Las variables se modifican según las ecuaciones del modelo. -->
 - [ ] C) Se produce una pérdida total de masa violando las leyes de conservación. <!-- feedback: Incorrecto. Las leyes de conservación se cumplen siempre. -->
 - [ ] D) La magnitud medida oscila aleatoriamente sin patrón definido. <!-- feedback: Incorrecto. El fenómeno sigue un patrón determinista bien definido. -->
 
@@ -99,8 +99,8 @@ Las observaciones experimentales confirman las predicciones del modelo teórico 
 En una experiencia de laboratorio en Buenos Aires, un estudiante analiza el fenómeno de $Enlace Iónico$. ¿Qué comportamiento se espera observar?
 
 ### Opciones
-- [x] A) El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Enlace Iónico$. <!-- feedback: Correcto. La respuesta del sistema refleja la ley física/química de $Enlace Iónico$. -->
-- [ ] B) El sistema permanece completamente inerte sin registrar variación alguna. <!-- feedback: Incorrecto. Las variables se modifican según las ecuaciones del modelo. -->
+- [x] B) El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Enlace Iónico$. <!-- feedback: Correcto. La respuesta del sistema refleja la ley física/química de $Enlace Iónico$. -->
+- [ ] A) El sistema permanece completamente inerte sin registrar variación alguna. <!-- feedback: Incorrecto. Las variables se modifican según las ecuaciones del modelo. -->
 - [ ] C) Se produce una pérdida total de masa violando las leyes de conservación. <!-- feedback: Incorrecto. Las leyes de conservación se cumplen siempre. -->
 - [ ] D) La magnitud medida oscila aleatoriamente sin patrón definido. <!-- feedback: Incorrecto. El fenómeno sigue un patrón determinista bien definido. -->
 
@@ -120,9 +120,9 @@ Las observaciones experimentales confirman las predicciones del modelo teórico 
 Un equipo de investigación en Córdoba aplica el concepto de $Enlace Covalente$ para resolver un problema práctico de Química General. ¿Cuál es la relación matemática o lógica correcta?
 
 ### Opciones
-- [x] A) Se aplica la ecuación correspondiente a $Enlace Covalente$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Química. <!-- feedback: Correcto. Refleja la formulación correcta para $Enlace Covalente$. -->
-- [ ] B) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
-- [ ] C) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
+- [x] C) Se aplica la ecuación correspondiente a $Enlace Covalente$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Química. <!-- feedback: Correcto. Refleja la formulación correcta para $Enlace Covalente$. -->
+- [ ] A) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
+- [ ] B) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
 - [ ] D) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
 
 ### Explicacion Pedagogica
@@ -141,9 +141,9 @@ La aplicación cuantitativa de Enlace Covalente requiere el uso riguroso de las 
 Un equipo de investigación en Córdoba aplica el concepto de $Número Atómico y Másico$ para resolver un problema práctico de Química General. ¿Cuál es la relación matemática o lógica correcta?
 
 ### Opciones
-- [x] A) Se aplica la ecuación correspondiente a $Número Atómico y Másico$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Química. <!-- feedback: Correcto. Refleja la formulación correcta para $Número Atómico y Másico$. -->
-- [ ] B) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
-- [ ] C) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
+- [x] C) Se aplica la ecuación correspondiente a $Número Atómico y Másico$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Química. <!-- feedback: Correcto. Refleja la formulación correcta para $Número Atómico y Másico$. -->
+- [ ] A) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
+- [ ] B) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
 - [ ] D) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
 
 ### Explicacion Pedagogica
@@ -162,8 +162,8 @@ La aplicación cuantitativa de Número Atómico y Másico requiere el uso riguro
 Un equipo de investigación en Córdoba aplica el concepto de $Configuración Electrónica$ para resolver un problema práctico de Química General. ¿Cuál es la relación matemática o lógica correcta?
 
 ### Opciones
-- [x] A) Se aplica la ecuación correspondiente a $Configuración Electrónica$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Química. <!-- feedback: Correcto. Refleja la formulación correcta para $Configuración Electrónica$. -->
-- [ ] B) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
+- [x] B) Se aplica la ecuación correspondiente a $Configuración Electrónica$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Química. <!-- feedback: Correcto. Refleja la formulación correcta para $Configuración Electrónica$. -->
+- [ ] A) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
 - [ ] C) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
 - [ ] D) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
 
@@ -183,10 +183,10 @@ La aplicación cuantitativa de Configuración Electrónica requiere el uso rigur
 Un equipo de investigación en Córdoba aplica el concepto de $Electronegatividad$ para resolver un problema práctico de Química General. ¿Cuál es la relación matemática o lógica correcta?
 
 ### Opciones
-- [x] A) Se aplica la ecuación correspondiente a $Electronegatividad$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Química. <!-- feedback: Correcto. Refleja la formulación correcta para $Electronegatividad$. -->
-- [ ] B) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
-- [ ] C) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
-- [ ] D) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
+- [x] D) Se aplica la ecuación correspondiente a $Electronegatividad$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Química. <!-- feedback: Correcto. Refleja la formulación correcta para $Electronegatividad$. -->
+- [ ] A) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
+- [ ] B) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
+- [ ] C) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
 
 ### Explicacion Pedagogica
 La aplicación cuantitativa de Electronegatividad requiere el uso riguroso de las ecuaciones de Química General.
@@ -225,10 +225,10 @@ La aplicación cuantitativa de Enlace Iónico requiere el uso riguroso de las ec
 Un equipo de investigación en Córdoba aplica el concepto de $Enlace Covalente$ para resolver un problema práctico de Química General. ¿Cuál es la relación matemática o lógica correcta?
 
 ### Opciones
-- [x] A) Se aplica la ecuación correspondiente a $Enlace Covalente$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Química. <!-- feedback: Correcto. Refleja la formulación correcta para $Enlace Covalente$. -->
-- [ ] B) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
-- [ ] C) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
-- [ ] D) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
+- [x] D) Se aplica la ecuación correspondiente a $Enlace Covalente$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Química. <!-- feedback: Correcto. Refleja la formulación correcta para $Enlace Covalente$. -->
+- [ ] A) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
+- [ ] B) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
+- [ ] C) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
 
 ### Explicacion Pedagogica
 La aplicación cuantitativa de Enlace Covalente requiere el uso riguroso de las ecuaciones de Química General.
@@ -246,9 +246,9 @@ La aplicación cuantitativa de Enlace Covalente requiere el uso riguroso de las 
 Al analizar detalladamente las variables que intervienen en $Número Atómico y Másico$ dentro de Química General, se observa una variación en el estado inicial. ¿Cuál es la deducción analítica correcta?
 
 ### Opciones
-- [x] A) El cambio en las variables modifica el estado final según las restricciones impuestas por $Número Atómico y Másico$ y las leyes de Química. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
-- [ ] B) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
-- [ ] C) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
+- [x] C) El cambio en las variables modifica el estado final según las restricciones impuestas por $Número Atómico y Másico$ y las leyes de Química. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
+- [ ] A) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
+- [ ] B) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
 - [ ] D) La energía o materia total aumenta exponencialmente sin fuente externa. <!-- feedback: Incorrecto. No se puede crear masa ni energía de la nada. -->
 
 ### Explicacion Pedagogica
@@ -267,9 +267,9 @@ El análisis analítico de Número Atómico y Másico demuestra la coherencia in
 Al analizar detalladamente las variables que intervienen en $Configuración Electrónica$ dentro de Química General, se observa una variación en el estado inicial. ¿Cuál es la deducción analítica correcta?
 
 ### Opciones
-- [x] A) El cambio en las variables modifica el estado final según las restricciones impuestas por $Configuración Electrónica$ y las leyes de Química. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
-- [ ] B) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
-- [ ] C) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
+- [x] C) El cambio en las variables modifica el estado final según las restricciones impuestas por $Configuración Electrónica$ y las leyes de Química. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
+- [ ] A) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
+- [ ] B) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
 - [ ] D) La energía o materia total aumenta exponencialmente sin fuente externa. <!-- feedback: Incorrecto. No se puede crear masa ni energía de la nada. -->
 
 ### Explicacion Pedagogica
@@ -288,9 +288,9 @@ El análisis analítico de Configuración Electrónica demuestra la coherencia i
 Al analizar detalladamente las variables que intervienen en $Electronegatividad$ dentro de Química General, se observa una variación en el estado inicial. ¿Cuál es la deducción analítica correcta?
 
 ### Opciones
-- [x] A) El cambio en las variables modifica el estado final según las restricciones impuestas por $Electronegatividad$ y las leyes de Química. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
-- [ ] B) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
-- [ ] C) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
+- [x] C) El cambio en las variables modifica el estado final según las restricciones impuestas por $Electronegatividad$ y las leyes de Química. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
+- [ ] A) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
+- [ ] B) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
 - [ ] D) La energía o materia total aumenta exponencialmente sin fuente externa. <!-- feedback: Incorrecto. No se puede crear masa ni energía de la nada. -->
 
 ### Explicacion Pedagogica
@@ -309,10 +309,10 @@ El análisis analítico de Electronegatividad demuestra la coherencia interna de
 Al analizar detalladamente las variables que intervienen en $Enlace Iónico$ dentro de Química General, se observa una variación en el estado inicial. ¿Cuál es la deducción analítica correcta?
 
 ### Opciones
-- [x] A) El cambio en las variables modifica el estado final según las restricciones impuestas por $Enlace Iónico$ y las leyes de Química. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
-- [ ] B) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
-- [ ] C) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
-- [ ] D) La energía o materia total aumenta exponencialmente sin fuente externa. <!-- feedback: Incorrecto. No se puede crear masa ni energía de la nada. -->
+- [x] D) El cambio en las variables modifica el estado final según las restricciones impuestas por $Enlace Iónico$ y las leyes de Química. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
+- [ ] A) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
+- [ ] B) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
+- [ ] C) La energía o materia total aumenta exponencialmente sin fuente externa. <!-- feedback: Incorrecto. No se puede crear masa ni energía de la nada. -->
 
 ### Explicacion Pedagogica
 El análisis analítico de Enlace Iónico demuestra la coherencia interna de los modelos en Química General.
@@ -330,9 +330,9 @@ El análisis analítico de Enlace Iónico demuestra la coherencia interna de los
 Al analizar detalladamente las variables que intervienen en $Enlace Covalente$ dentro de Química General, se observa una variación en el estado inicial. ¿Cuál es la deducción analítica correcta?
 
 ### Opciones
-- [x] A) El cambio en las variables modifica el estado final según las restricciones impuestas por $Enlace Covalente$ y las leyes de Química. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
-- [ ] B) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
-- [ ] C) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
+- [x] C) El cambio en las variables modifica el estado final según las restricciones impuestas por $Enlace Covalente$ y las leyes de Química. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
+- [ ] A) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
+- [ ] B) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
 - [ ] D) La energía o materia total aumenta exponencialmente sin fuente externa. <!-- feedback: Incorrecto. No se puede crear masa ni energía de la nada. -->
 
 ### Explicacion Pedagogica
@@ -372,10 +372,10 @@ El análisis analítico de Número Atómico y Másico demuestra la coherencia in
 Se propone un modelo avanzado para evaluar la eficiencia de un proceso basado en $Configuración Electrónica$ en Química General. Evaluá cuál de las siguientes afirmaciones juzga correctamente la validez del modelo.
 
 ### Opciones
-- [x] A) El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Configuración Electrónica$. <!-- feedback: Correcto. La evaluación fundamentada confirma la solidez del modelo para $Configuración Electrónica$. -->
-- [ ] B) El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa. <!-- feedback: Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia. -->
-- [ ] C) El modelo sólo funciona si se desestiman las unidades del Sistema Internacional. <!-- feedback: Incorrecto. Debe operar de forma consistente en el Sistema Internacional. -->
-- [ ] D) El modelo presenta inconsistencias graves al asumir que el rendimiento puede superar el 100%. <!-- feedback: Incorrecto. El modelo respeta el límite físico del 100% de eficiencia. -->
+- [x] D) El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Configuración Electrónica$. <!-- feedback: Correcto. La evaluación fundamentada confirma la solidez del modelo para $Configuración Electrónica$. -->
+- [ ] A) El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa. <!-- feedback: Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia. -->
+- [ ] B) El modelo sólo funciona si se desestiman las unidades del Sistema Internacional. <!-- feedback: Incorrecto. Debe operar de forma consistente en el Sistema Internacional. -->
+- [ ] C) El modelo presenta inconsistencias graves al asumir que el rendimiento puede superar el 100%. <!-- feedback: Incorrecto. El modelo respeta el límite físico del 100% de eficiencia. -->
 
 ### Explicacion Pedagogica
 La evaluación crítica de modelos en Química General exige verificar el cumplimiento de los límites teóricos de Configuración Electrónica.
@@ -393,9 +393,9 @@ La evaluación crítica de modelos en Química General exige verificar el cumpli
 Se propone un modelo avanzado para evaluar la eficiencia de un proceso basado en $Electronegatividad$ en Química General. Evaluá cuál de las siguientes afirmaciones juzga correctamente la validez del modelo.
 
 ### Opciones
-- [x] A) El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Electronegatividad$. <!-- feedback: Correcto. La evaluación fundamentada confirma la solidez del modelo para $Electronegatividad$. -->
-- [ ] B) El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa. <!-- feedback: Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia. -->
-- [ ] C) El modelo sólo funciona si se desestiman las unidades del Sistema Internacional. <!-- feedback: Incorrecto. Debe operar de forma consistente en el Sistema Internacional. -->
+- [x] C) El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Electronegatividad$. <!-- feedback: Correcto. La evaluación fundamentada confirma la solidez del modelo para $Electronegatividad$. -->
+- [ ] A) El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa. <!-- feedback: Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia. -->
+- [ ] B) El modelo sólo funciona si se desestiman las unidades del Sistema Internacional. <!-- feedback: Incorrecto. Debe operar de forma consistente en el Sistema Internacional. -->
 - [ ] D) El modelo presenta inconsistencias graves al asumir que el rendimiento puede superar el 100%. <!-- feedback: Incorrecto. El modelo respeta el límite físico del 100% de eficiencia. -->
 
 ### Explicacion Pedagogica
@@ -414,10 +414,10 @@ La evaluación crítica de modelos en Química General exige verificar el cumpli
 Se propone un modelo avanzado para evaluar la eficiencia de un proceso basado en $Enlace Iónico$ en Química General. Evaluá cuál de las siguientes afirmaciones juzga correctamente la validez del modelo.
 
 ### Opciones
-- [x] A) El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Enlace Iónico$. <!-- feedback: Correcto. La evaluación fundamentada confirma la solidez del modelo para $Enlace Iónico$. -->
-- [ ] B) El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa. <!-- feedback: Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia. -->
-- [ ] C) El modelo sólo funciona si se desestiman las unidades del Sistema Internacional. <!-- feedback: Incorrecto. Debe operar de forma consistente en el Sistema Internacional. -->
-- [ ] D) El modelo presenta inconsistencias graves al asumir que el rendimiento puede superar el 100%. <!-- feedback: Incorrecto. El modelo respeta el límite físico del 100% de eficiencia. -->
+- [x] D) El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Enlace Iónico$. <!-- feedback: Correcto. La evaluación fundamentada confirma la solidez del modelo para $Enlace Iónico$. -->
+- [ ] A) El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa. <!-- feedback: Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia. -->
+- [ ] B) El modelo sólo funciona si se desestiman las unidades del Sistema Internacional. <!-- feedback: Incorrecto. Debe operar de forma consistente en el Sistema Internacional. -->
+- [ ] C) El modelo presenta inconsistencias graves al asumir que el rendimiento puede superar el 100%. <!-- feedback: Incorrecto. El modelo respeta el límite físico del 100% de eficiencia. -->
 
 ### Explicacion Pedagogica
 La evaluación crítica de modelos en Química General exige verificar el cumplimiento de los límites teóricos de Enlace Iónico.
@@ -435,8 +435,8 @@ La evaluación crítica de modelos en Química General exige verificar el cumpli
 Se propone un modelo avanzado para evaluar la eficiencia de un proceso basado en $Enlace Covalente$ en Química General. Evaluá cuál de las siguientes afirmaciones juzga correctamente la validez del modelo.
 
 ### Opciones
-- [x] A) El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Enlace Covalente$. <!-- feedback: Correcto. La evaluación fundamentada confirma la solidez del modelo para $Enlace Covalente$. -->
-- [ ] B) El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa. <!-- feedback: Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia. -->
+- [x] B) El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Enlace Covalente$. <!-- feedback: Correcto. La evaluación fundamentada confirma la solidez del modelo para $Enlace Covalente$. -->
+- [ ] A) El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa. <!-- feedback: Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia. -->
 - [ ] C) El modelo sólo funciona si se desestiman las unidades del Sistema Internacional. <!-- feedback: Incorrecto. Debe operar de forma consistente en el Sistema Internacional. -->
 - [ ] D) El modelo presenta inconsistencias graves al asumir que el rendimiento puede superar el 100%. <!-- feedback: Incorrecto. El modelo respeta el límite físico del 100% de eficiencia. -->
 

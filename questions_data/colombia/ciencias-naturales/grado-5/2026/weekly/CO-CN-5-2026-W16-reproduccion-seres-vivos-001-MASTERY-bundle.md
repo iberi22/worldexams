@@ -34,11 +34,11 @@ Reproducción sexual y asexual en plantas y animales, y su importancia para la c
 ¿Cómo se denomina el tipo de reproducción en el que un solo progenitor origina descendientes sin la unión de células sexuales?
 
 ### Opciones
-- [x] A) Reproducción asexual.
+- [x] C) Reproducción asexual.
   <!-- feedback: En la reproducción asexual participa un solo progenitor y no hay unión de gametos. -->
-- [ ] B) Reproducción sexual.
+- [ ] A) Reproducción sexual.
   <!-- feedback: La reproducción sexual requiere la unión de una célula sexual masculina y otra femenina. -->
-- [ ] C) Fotosíntesis.
+- [ ] B) Fotosíntesis.
   <!-- feedback: La fotosíntesis es el proceso por el cual las plantas fabrican su alimento usando la luz solar. -->
 - [ ] D) Respiración celular.
   <!-- feedback: La respiración celular libera energía de los nutrientes y no genera nuevos individuos. -->
@@ -57,11 +57,11 @@ Identificación del concepto de reproducción asexual y su diferencia con la rep
 ¿Qué caracteriza a la reproducción sexual de los animales?
 
 ### Opciones
-- [x] A) Participan dos progenitores y se unen una célula sexual masculina y una femenina.
+- [x] C) Participan dos progenitores y se unen una célula sexual masculina y una femenina.
   <!-- feedback: La reproducción sexual implica la fecundación, es decir, la unión de dos gametos de distinto progenitor. -->
-- [ ] B) Un solo animal crea copias idénticas de sí mismo sin ayuda de otro.
+- [ ] A) Un solo animal crea copias idénticas de sí mismo sin ayuda de otro.
   <!-- feedback: Ese proceso corresponde a la reproducción asexual, no a la sexual. -->
-- [ ] C) Los descendientes surgen del polvo que se acumula en el nido.
+- [ ] B) Los descendientes surgen del polvo que se acumula en el nido.
   <!-- feedback: Los nuevos seres vivos provienen de la fecundación, no de materia sin vida. -->
 - [ ] D) No se necesitan progenitores para que nazca un nuevo animal.
   <!-- feedback: En la reproducción sexual siempre intervienen un progenitor masculino y uno femenino. -->
@@ -80,13 +80,13 @@ Comprensión de la fecundación como momento central de la reproducción sexual 
 ¿Qué tipo de reproducción se presenta en esta situación?
 
 ### Opciones
-- [x] A) Reproducción asexual por fragmentación, porque de una parte del progenitor surge un nuevo individuo.
+- [x] D) Reproducción asexual por fragmentación, porque de una parte del progenitor surge un nuevo individuo.
   <!-- feedback: Al sembrar un fragmento del tallo se forma una planta independiente sin intervención de gametos. -->
-- [ ] B) Reproducción sexual por fecundación de flores vecinas.
+- [ ] A) Reproducción sexual por fecundación de flores vecinas.
   <!-- feedback: No hubo unión de células sexuales; la nueva planta proviene solo del fragmento del tallo. -->
-- [ ] C) Reproducción por esporas liberadas al aire.
+- [ ] B) Reproducción por esporas liberadas al aire.
   <!-- feedback: Las esporas son propias de hongos, musgos y helechos; aquí se usó un fragmento de tallo. -->
-- [ ] D) No hubo reproducción porque la planta madre no produjo semillas.
+- [ ] C) No hubo reproducción porque la planta madre no produjo semillas.
   <!-- feedback: La ausencia de semillas no impide la reproducción; muchas plantas se reproducen vegetativamente. -->
 
 ### Explicacion Pedagogica
@@ -103,13 +103,13 @@ Aplicación del concepto de reproducción asexual vegetativa en una práctica ag
 ¿Qué función cumple el polen en la reproducción de las plantas con flores?
 
 ### Opciones
-- [x] A) Lleva la célula sexual masculina hasta la parte femenina de la flor para lograr la fecundación.
+- [x] D) Lleva la célula sexual masculina hasta la parte femenina de la flor para lograr la fecundación.
   <!-- feedback: El polen contiene el gameto masculino y al llegar al pistilo permite la fecundación y la formación de semillas. -->
-- [ ] B) Alimenta directamente a la nueva planta que nace dentro del fruto.
+- [ ] A) Alimenta directamente a la nueva planta que nace dentro del fruto.
   <!-- feedback: El polen interviene en la fecundación; el alimento de la semilla lo aporta la planta madre. -->
-- [ ] C) Sirve solo para dar color y aroma a la flor.
+- [ ] B) Sirve solo para dar color y aroma a la flor.
   <!-- feedback: El color y el aroma atraen polinizadores, pero la función del polen es reproductiva. -->
-- [ ] D) Impide que las abejas visiten otras flores del cultivo.
+- [ ] C) Impide que las abejas visiten otras flores del cultivo.
   <!-- feedback: El polen es transportado por las abejas justamente para fecundar otras flores. -->
 
 ### Explicacion Pedagogica
@@ -149,9 +149,9 @@ Comparación entre la variabilidad de la descendencia sexual y la uniformidad de
 ¿Cuál es la explicación más adecuada de estas pequeñas diferencias entre las plantas?
 
 ### Opciones
-- [x] A) La reproducción sexual combina caracteres de dos progenitores y produce descendientes parecidos pero no idénticos.
+- [x] B) La reproducción sexual combina caracteres de dos progenitores y produce descendientes parecidos pero no idénticos.
   <!-- feedback: La semilla resulta de la fecundación, por lo que cada planta recibe una mezcla única de información hereditaria. -->
-- [ ] B) Las diferencias ocurren porque cada semilla fue sembrada a distinta hora del día.
+- [ ] A) Las diferencias ocurren porque cada semilla fue sembrada a distinta hora del día.
   <!-- feedback: La hora de siembra no explica las variaciones de altura, color y tallo registradas. -->
 - [ ] C) Las plantas crecieron iguales y los estudiantes midieron mal sin darse cuenta.
   <!-- feedback: Las variaciones se observaron de forma sistemática, lo que corresponde a una variabilidad real. -->
@@ -172,9 +172,9 @@ Análisis de datos de germinación para reconocer la variabilidad como resultado
 ¿Qué se puede concluir al comparar la reproducción por estolones con la reproducción por flores en la misma planta?
 
 ### Opciones
-- [x] A) La planta puede reproducirse de las dos formas: asexual por estolones (idéntica) y sexual por flores (con variabilidad).
+- [x] B) La planta puede reproducirse de las dos formas: asexual por estolones (idéntica) y sexual por flores (con variabilidad).
   <!-- feedback: Una misma especie puede combinar reproducción asexual y sexual según las condiciones y las estructuras que utilice. -->
-- [ ] B) La planta solo se reproduce sexualmente porque tiene flores.
+- [ ] A) La planta solo se reproduce sexualmente porque tiene flores.
   <!-- feedback: Los estolones son un mecanismo asexual que también genera nuevas plantas en esta especie. -->
 - [ ] C) Los estolones producen descendientes muy distintos entre sí.
   <!-- feedback: Los estolones generan copias genéticamente idénticas de la planta madre. -->
@@ -195,11 +195,11 @@ Análisis de la coexistencia de la reproducción asexual y sexual en una misma p
 ¿Qué evaluación justifica mejor la recomendación del técnico?
 
 ### Opciones
-- [x] A) Es acertada porque la reproducción asexual produce copias genéticamente idénticas que conservan las cualidades de la planta elegida.
+- [x] C) Es acertada porque la reproducción asexual produce copias genéticamente idénticas que conservan las cualidades de la planta elegida.
   <!-- feedback: Al no haber combinación genética, los hijuelos mantienen las mismas características de la planta madre. -->
-- [ ] B) Es equivocada porque las semillas garantizan plantas exactamente iguales a la madre.
+- [ ] A) Es equivocada porque las semillas garantizan plantas exactamente iguales a la madre.
   <!-- feedback: Las semillas provienen de reproducción sexual y suelen dar descendientes distintos entre sí. -->
-- [ ] C) Es acertada porque los hijuelos crecen sin necesidad de agua ni suelo.
+- [ ] B) Es acertada porque los hijuelos crecen sin necesidad de agua ni suelo.
   <!-- feedback: Los hijuelos requieren agua, suelo y nutrientes igual que cualquier planta. -->
 - [ ] D) Es equivocada porque la reproducción asexual solo ocurre en animales.
   <!-- feedback: La reproducción asexual es común en plantas, como ocurre con los hijuelos del plátano. -->

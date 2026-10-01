@@ -34,9 +34,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Qué sentimiento o emoción implícita hacia el árbol motiva la conducta del yo lírico en el fragmento poético?
 
 ### Opciones
-- [ ] A) Indiferencia absoluta y desdén por la botánica.
+- [ ] B) Indiferencia absoluta y desdén por la botánica.
   <!-- feedback: Incorrecto. El yo lírico se detiene de forma afectiva ante el árbol; su conducta expresa profunda empatía, no indiferencia. -->
-- [x] B) Una profunda empatía y afán de consuelo frente a la desvalorización o fealdad estética del árbol.
+- [x] A) Una profunda empatía y afán de consuelo frente a la desvalorización o fealdad estética del árbol.
   <!-- feedback: ¡Correcto! Se infiere de manera directa que el yo lírico experimenta piedad y compasión por el árbol marginado, decidiendo mentir piadosamente elogiando su belleza para endulzar su existencia silenciosa en el huerto. -->
 - [ ] C) Codicia comercial por cosechar los higos dulces del huerto.
   <!-- feedback: Incorrecto. No hay móviles de lucro económico o gastronómico expresados de forma directa o inferidos en el fragmento lírico. -->
@@ -60,11 +60,11 @@ La piedad declarada explícitamente se proyecta de forma inferencial hacia un af
 ### Opciones
 - [ ] A) Que los árboles carecen de toda capacidad de percepción sensorial.
   <!-- feedback: Incorrecto. Si creyera eso, su elogio de consuelo carecería de sentido pragmático en el huerto. -->
-- [x] B) Atribuye al árbol una capacidad de sentir, de entristecerse por su aspecto y de experimentar felicidad o consuelo al oír palabras amables (personificación afectiva).
+- [x] D) Atribuye al árbol una capacidad de sentir, de entristecerse por su aspecto y de experimentar felicidad o consuelo al oír palabras amables (personificación afectiva).
   <!-- feedback: ¡Correcto! El poema descansa sobre una personificación implícita: el yo lírico asume que la higuera padece por su fealdad física y que se sentirá halagada y feliz ('¡Qué dulce tan dulce será para ella!') al oír que la llaman hermosa. -->
-- [ ] C) Que la higuera es un organismo carnívoro hostil que ataca a los transeúntes.
+- [ ] B) Que la higuera es un organismo carnívoro hostil que ataca a los transeúntes.
   <!-- feedback: Incorrecto. Se describe al árbol de forma pacífica, pasiva, áspera y gris; no hay rasgos de hostilidad zoológica. -->
-- [ ] D) Que las ramas grises de la higuera curan de manera científica la parálisis facial.
+- [ ] C) Que las ramas grises de la higuera curan de manera científica la parálisis facial.
   <!-- feedback: Incorrecto. El texto es de carácter poético lírico; no da reportes de medicina botánica o curas de salud. -->
 
 ### Explicacion Pedagogica
@@ -86,11 +86,11 @@ Atribuir sentimientos de regocijo o dolor a un árbol inanimado es una personifi
 ### Opciones
 - [ ] A) Admiración ciega y deseos de felicitarlo por su solvencia financiera.
   <!-- feedback: Incorrecto. El uso de la ironía y el contraste con su precaria vivienda ('tapera') denota crítica, no admiración incondicional. -->
-- [x] B) Una ironía y crítica moral-económica hacia la inmadurez de Mateo, sugiriendo que prioriza la apariencia social exterior lujosa frente a las necesidades básicas domésticas reales.
+- [x] D) Una ironía y crítica moral-económica hacia la inmadurez de Mateo, sugiriendo que prioriza la apariencia social exterior lujosa frente a las necesidades básicas domésticas reales.
   <!-- feedback: ¡Correcto! Al contrastar un auto lujoso espectacular con vivir en una 'tapera' (vivienda sumamente precaria o rancho rústico) y no tener dinero para los gastos mínimos de patente, el interlocutor critica de forma implícita e irónica la falta de prioridades reales y la superficialidad del personaje. -->
-- [ ] C) Envidia extrema porque desea robarle el auto importado esa misma tarde.
+- [ ] B) Envidia extrema porque desea robarle el auto importado esa misma tarde.
   <!-- feedback: Incorrecto. Su respuesta analiza las contradicciones de la economía doméstica de Mateo; no expresa un plan delictivo de robo de autos. -->
-- [ ] D) Incomprensión total de los precios de las patentes de Montevideo.
+- [ ] C) Incomprensión total de los precios de las patentes de Montevideo.
   <!-- feedback: Incorrecto. El hablante comprende perfectamente el costo e impuestos asociados; los usa precisamente para desnudar la insolvencia del dueño del vehículo. -->
 
 ### Explicacion Pedagogica
@@ -110,11 +110,11 @@ La inferencia pragmática asocia la ironía y el contraste léxico ('espectacula
 ### Opciones
 - [ ] A) Que el viento del temporal de invierno ha ensordecido de manera física al cuerpo docente de Secundaria.
   <!-- feedback: Incorrecto. No hay sordera biológica o física real en los docentes; se describe una zozobra burocrática institucional. -->
-- [x] B) Que el verdadero temor de los profesores no es meteorológico (el silbido físico del viento en los vidrios), sino la inacción y omisión institucional (el 'silencio' de las autoridades de Secundaria) frente al deterioro real de la infraestructura áulica del liceo.
+- [x] D) Que el verdadero temor de los profesores no es meteorológico (el silbido físico del viento en los vidrios), sino la inacción y omisión institucional (el 'silencio' de las autoridades de Secundaria) frente al deterioro real de la infraestructura áulica del liceo.
   <!-- feedback: ¡Correcto! La editorial periodística utiliza un juego figurado: opone un ruido natural ordinario (viento) a un 'silencio' burocrático (la falta de respuestas o desidia de los gobernantes de Secundaria frente a las planillas de obras), sugiriendo que la inacción es la verdadera causa de zozobra gremial. -->
-- [ ] C) Que los profesores prefieren dar clase en silencio absoluto sin el uso de lápices de grafito escolares.
+- [ ] B) Que los profesores prefieren dar clase en silencio absoluto sin el uso de lápices de grafito escolares.
   <!-- feedback: Incorrecto. Se discute la falta de mantenimiento del edificio del liceo; el silencio es metáfora de abandono institucional, no de conducta de alumnos. -->
-- [ ] D) Una descripción científica de las ondas sonoras del viento en las aulas del liceo.
+- [ ] C) Una descripción científica de las ondas sonoras del viento en las aulas del liceo.
   <!-- feedback: Incorrecto. No se hace física acústica de decibelios del aire; se hace una crítica política y gremial de Secundaria de corte editorial. -->
 
 ### Explicacion Pedagogica
@@ -180,13 +180,13 @@ La autocrítica defensiva es una herramienta de argumentación escrita de Secund
 ¿Qué metáfora destaca en el texto de opinión para representar a los libros que descansan en la biblioteca y qué connota de forma implícita sobre la sociedad moderna?
 
 ### Opciones
-- [x] A) La comparación con 'tumbas de una civilización que sabía concentrarse', connotando de forma implícita que la capacidad de meditar y profundizar intelectualmente está extinguida o muerta en la sociedad actual dispersa por las pantallas.
+- [x] D) La comparación con 'tumbas de una civilización que sabía concentrarse', connotando de forma implícita que la capacidad de meditar y profundizar intelectualmente está extinguida o muerta en la sociedad actual dispersa por las pantallas.
   <!-- feedback: ¡Correcto! La metáfora asocia los libros polvorientos con lápidas funerarias o tumbas arqueológicas de una cultura mental extinta. Connota de forma implícita que la paciencia intelectual y el pensamiento crítico profundo son reliquias muertas frente al frenesí superficial digital. -->
-- [ ] B) La asociación de los estantes de madera con barcos de guerra coloniales del siglo XIX.
+- [ ] A) La asociación de los estantes de madera con barcos de guerra coloniales del siglo XIX.
   <!-- feedback: Incorrecto. No hay barcos de guerra descritos en el fragmento literario de opinión; la metáfora es fúnebre arqueológica. -->
-- [ ] C) La definición científica de los ácaros de polvo de las bibliotecas de Montevideo.
+- [ ] B) La definición científica de los ácaros de polvo de las bibliotecas de Montevideo.
   <!-- feedback: Incorrecto. El polvo es una marca de abandono de los libros; el texto no hace biología entomológica de ácaros. -->
-- [ ] D) La personificación del tintero de grafito escolar que canta con nostalgia en el aula del liceo.
+- [ ] C) La personificación del tintero de grafito escolar que canta con nostalgia en el aula del liceo.
   <!-- feedback: Incorrecto. El tintero es un objeto físico antiguo inanimado inerte; no se le atribuyen conductas líricas de canto de forma directa o indirecta. -->
 
 ### Explicacion Pedagogica
@@ -205,9 +205,9 @@ Las metáforas cargadas de melancolía fúnebre ('tumbas') asocian el abandono f
 ¿Qué significado implícito y figurado adopta el 'tablado' y el 'barco abollado' en la lírica de la murga?
 
 ### Opciones
-- [ ] A) El tablado es una estación de trenes de Peñarol y el barco abollado un remolcador real del puerto de Montevideo encallado.
+- [ ] B) El tablado es una estación de trenes de Peñarol y el barco abollado un remolcador real del puerto de Montevideo encallado.
   <!-- feedback: Incorrecto. Las murgas usan la lírica metafórica; no se describe un itinerario técnico ferroviario o náutico civil real de barcos. -->
-- [x] B) El tablado simboliza un refugio de encuentro y esperanza comunitaria (faro) frente a la adversidad y crisis social de la ciudad (el 'barco abollado' que navega en desorden o al revés), operando como cohesivo popular.
+- [x] A) El tablado simboliza un refugio de encuentro y esperanza comunitaria (faro) frente a la adversidad y crisis social de la ciudad (el 'barco abollado' que navega en desorden o al revés), operando como cohesivo popular.
   <!-- feedback: ¡Correcto! En el Carnaval rioplatense, el tablado (escenario barrial) es metáfora de faro que guía a la comunidad golpeada por la realidad social (la urbe hostil, el 'barco abollado' de la sociedad desordenada o en crisis), reuniendo a la vecindad con fines festivos e identitarios de asilo afectivo. -->
 - [ ] C) La murga exige al gobierno de Montevideo reparar de forma urgente un buque pesquero de madera del puerto.
   <!-- feedback: Incorrecto. El 'barco abollado' es metáfora de la sociedad o la vida en crisis, no una solicitud de astilleros navales civiles del puerto. -->
@@ -231,11 +231,11 @@ La poesía carnavalesca descansa en la metáfora urbana. El faro del tablado cob
 ### Opciones
 - [ ] A) Que la selva es un espacio seguro exento de insectos u ofidios peligrosos.
   <!-- feedback: Incorrecto. El silencio es descrito de forma ominosa y sepulcral; connota amenaza, no seguridad o esparcimiento. -->
-- [x] B) La inminencia de la muerte y la soledad trágica que envuelve la desaparición del hijo, donde el silencio de la selva actúa como un presagio fúnebre del deceso real del adolescente.
+- [x] D) La inminencia de la muerte y la soledad trágica que envuelve la desaparición del hijo, donde el silencio de la selva actúa como un presagio fúnebre del deceso real del adolescente.
   <!-- feedback: ¡Correcto! El adjetivo 'sepulcral' asocia de inmediato la selva con una tumba o cementerio. El silencio sordo de la naturaleza, alterado apenas por un insecto de muerte (tábano), connota que la tragedia ya ha acontecido en la selva, anticipando de manera inferencial el trágico fin del hijo. -->
-- [ ] C) Una lección científica de entomología agraria de Misiones de Secundaria.
+- [ ] B) Una lección científica de entomología agraria de Misiones de Secundaria.
   <!-- feedback: Incorrecto. No se hace ciencia de control de plagas agrícolas de tábanos; se genera atmósfera literaria de suspenso y muerte. -->
-- [ ] D) La alegría del padre que espera de forma optimista comer higos del huerto.
+- [ ] C) La alegría del padre que espera de forma optimista comer higos del huerto.
   <!-- feedback: Incorrecto. El sudor frío y la sangre helada marcan de manera inequívoca angustia, dolor e incertidumbre paterna, ajena al optimismo. -->
 
 ### Explicacion Pedagogica
@@ -255,9 +255,9 @@ Los silencios en la obra quiroguiana son indicios de muerte. El adjetivo fúnebr
 ### Opciones
 - [ ] A) Que el reloj de pulsera del padre se ha detenido físicamente por la humedad del temporal de la selva.
   <!-- feedback: Incorrecto. El reloj funciona físicamente de forma matemática; lo que muta es la percepción íntima del tiempo por la angustia. -->
-- [x] B) Que mientras el tiempo cronológico exterior sigue transcurriendo de forma lineal regular e impasible, la mente del padre herido por la duda experimenta una parálisis temporal interior subjetiva de tormento, donde los minutos se dilatan infinitamente por la sospecha de la tragedia.
+- [x] C) Que mientras el tiempo cronológico exterior sigue transcurriendo de forma lineal regular e impasible, la mente del padre herido por la duda experimenta una parálisis temporal interior subjetiva de tormento, donde los minutos se dilatan infinitamente por la sospecha de la tragedia.
   <!-- feedback: ¡Correcto! El tiempo es relativo en la conciencia del personaje. El tiempo objetivo del reloj de Misiones (matemático) pierde sentido ante el tiempo subjetivo emocional del padre (psicológico), cuya desesperación dilata y congela cada instante de la espera trágica del hijo. -->
-- [ ] C) Una explicación física astronómica sobre la rotación del sol sobre el hemisferio de Secundaria.
+- [ ] B) Una explicación física astronómica sobre la rotación del sol sobre el hemisferio de Secundaria.
   <!-- feedback: Incorrecto. El sol alto describe la hora de Secundaria (mediodía), pero la oposición de tiempos es psicológica existencial, no astronomía física orbital. -->
 - [ ] D) Que el padre ha olvidado de manera absoluta cómo leer las horas en los relojes de Secundaria.
   <!-- feedback: Incorrecto. El padre mira el reloj constantemente; su tormento reside precisamente en saber con precisión matemática matemática que el hijo ya debió haber regresado de la selva. -->
@@ -328,9 +328,9 @@ Analizá críticamente el fragmento. ¿Qué intencionalidad moral o política de
 ### Opciones
 - [ ] A) El autor es un zoólogo de Montevideo que describe de forma verídica los hábitos de alimentación de la fauna salvaje de Uruguay de forma científica.
   <!-- feedback: Incorrecto. No es un texto científico zoológico sobre zorros o gallinas; es una fábula satírica con fines de crítica social y política de la capital del país. -->
-- [x] B) El autor realiza una sátira política de corte cívico, denunciando de forma implícita la hipocresía de la élite política que declama austeridad pública pero goza de privilegios suntuosos privados a espensas del expolio impositivo de los ciudadanos (las 'gallinas' desplumadas de la ciudad), utilizando la alegoría animal para sortear la censura formal.
+- [x] C) El autor realiza una sátira política de corte cívico, denunciando de forma implícita la hipocresía de la élite política que declama austeridad pública pero goza de privilegios suntuosos privados a espensas del expolio impositivo de los ciudadanos (las 'gallinas' desplumadas de la ciudad), utilizando la alegoría animal para sortear la censura formal.
   <!-- feedback: ¡Correcto! La fábula es un género argumentativo-satírico clásico. El zorro encarna de manera alegórica la hipocresía gubernamental de la ciudad (discurso austero, vida de opulencia privada) y las gallinas son metáfora de los contribuyentes desplumados por la patente municipal, logrando una crítica feroz al abuso administrativo. -->
-- [ ] C) El texto promueve el uso de sacos de alpaca italianos en las ceremonias oficiales del gobierno de Montevideo.
+- [ ] B) El texto promueve el uso de sacos de alpaca italianos en las ceremonias oficiales del gobierno de Montevideo.
   <!-- feedback: Incorrecto. No hay intenciones comerciales o de moda textil; el saco de alpaca es símbolo de opulencia suntuosa de la élite gobernante criticada. -->
 - [ ] D) El zorro de la fábula simboliza de forma lírica la belleza romántica de la fauna autóctona de los montes nativos.
   <!-- feedback: Incorrecto. Es un retrato satírico de vicios de poder, no una idealización lírica poética o ecológica de los mamíferos salvajes del Uruguay. -->
@@ -352,11 +352,11 @@ La fábula política opera descodificando de forma inferencial el doble sentido.
 ### Opciones
 - [ ] A) Que el hijo se encuentra durmiendo de forma plácida en un campamento de dunas costeras de Rocha.
   <!-- feedback: Incorrecto. La selva no es descrita como un espacio lúdico de campamento o esparcimiento plácido; connota funeral, no sueño reparador. -->
-- [x] B) Que la selva es descrita de forma fúnebre y sepulcral (correlato objetivo de un cementerio), sugiriendo de forma implícita que el hijo ya ha fallecido orgánicamente y que el padre camina inconscientemente sobre la fosa del adolescente, asimilando el frío gélido de la muerte del muchacho.
+- [x] D) Que la selva es descrita de forma fúnebre y sepulcral (correlato objetivo de un cementerio), sugiriendo de forma implícita que el hijo ya ha fallecido orgánicamente y que el padre camina inconscientemente sobre la fosa del adolescente, asimilando el frío gélido de la muerte del muchacho.
   <!-- feedback: ¡Correcto! El sudor de vapor 'gélido', el silencio 'sepulcral' y el tábano (insecto de muerte) son indicios estéticos. Mimetizan la realidad del cadáver del hijo del cazador en la selva. El espacio geográfico es el escenario de la tragedia ya acontecida de Quiroga, envolviendo la marcha del padre en una atmósfera de entierro existencial. -->
-- [ ] C) Que el calor sofocante del sol de Misiones ha derretido los relojes matemáticos de Secundaria de forma científica.
+- [ ] B) Que el calor sofocante del sol de Misiones ha derretido los relojes matemáticos de Secundaria de forma científica.
   <!-- feedback: Incorrecto. Se describe 'vapor gélido' (frío), no calor derretidor de engranajes metálicos de relojes; la parálisis es cognitiva del padre, no física del cronómetro. -->
-- [ ] D) Un reporte botánico que enseña a cosechar orquídeas salvajes de la selva misionera.
+- [ ] C) Un reporte botánico que enseña a cosechar orquídeas salvajes de la selva misionera.
   <!-- feedback: Incorrecto. Es un relato dramático literario de suspenso y muerte trágica; no hay fines botánicos o de horticultura forestal de orquídeas. -->
 
 ### Explicacion Pedagogica
@@ -375,9 +375,9 @@ Quiroga utiliza la técnica del correlato objetivo: impregna el paisaje geográf
 Analizá el significado inferencial del relieve del río (el encajonamiento de piedra de cien metros) y el cese de dolor físico en el protagonista.
 
 ### Opciones
-- [ ] A) El encajonamiento indica que el río es un canal de navegación comercial seguro donde el protagonista hallará auxilio médico rápido.
+- [ ] B) El encajonamiento indica que el río es un canal de navegación comercial seguro donde el protagonista hallará auxilio médico rápido.
   <!-- feedback: Incorrecto. Las paredes lúgubres y el cielo mudo sugieren aislamiento absoluto y encierro sin salida de socorro; no connota un puerto comercial seguro de auxilio. -->
-- [x] B) Las paredes de piedra de cien metros simbolizan una fosa o ataúd colosal sin salida donde el protagonista está atrapado, y el cese del dolor de la pierna no es una mejoría médica de salud, sino el avance de la parálisis nerviosa y la gangrena mortal por ponzoña que silencia sus funciones vitales.
+- [x] A) Las paredes de piedra de cien metros simbolizan una fosa o ataúd colosal sin salida donde el protagonista está atrapado, y el cese del dolor de la pierna no es una mejoría médica de salud, sino el avance de la parálisis nerviosa y la gangrena mortal por ponzoña que silencia sus funciones vitales.
   <!-- feedback: ¡Correcto! El río encajonado de cien metros de altura lúgubre connota de forma inferencial una tumba o cajón de piedra natural de Quiroga. El cese de dolor del protagonista es un indicio trágico de parálisis y deceso orgánico irreversible de supervivencia, desmintiendo la ilusión de cura de Paulino. -->
 - [ ] C) La herida de la víbora se ha curado de manera científica gracias a la frescura de la piedra granítica rosada de las paredes del río.
   <!-- feedback: Incorrecto. Al contrario: el veneno de la víbora ya ha completado su recorrido biológico fatal; la parálisis es previa al deceso orgánico. -->
@@ -399,9 +399,9 @@ En los relatos de Quiroga el cese imprevisto de los síntomas físicos de dolor 
 ¿Qué lectura inferencial o alegoría social de gran escala se esconde de forma verosímil detrás de este relato entomológico ficticio?
 
 ### Opciones
-- [ ] A) Es una apología del comunismo soviético que promueve el trabajo obrero rural de forma voluntaria.
+- [ ] B) Es una apología del comunismo soviético que promueve el trabajo obrero rural de forma voluntaria.
   <!-- feedback: Incorrecto. No hay nexos políticos con el bloque soviético expresados en el texto; el relato describe una dinámica abstracta de dominación de poder. -->
-- [x] B) Una alegoría o crítica social satírica de la alienación laboral del ser humano en la sociedad industrial moderna, donde el obrero (la hormiga) trabaja de forma automática en una rutina gris sin disfrutar del fruto de su esfuerzo, obedeciendo las directivas invisibles de una élite burocrática o económica gorda de poder.
+- [x] A) Una alegoría o crítica social satírica de la alienación laboral del ser humano en la sociedad industrial moderna, donde el obrero (la hormiga) trabaja de forma automática en una rutina gris sin disfrutar del fruto de su esfuerzo, obedeciendo las directivas invisibles de una élite burocrática o económica gorda de poder.
   <!-- feedback: ¡Correcto! La fábula entomológica funciona como una alegoría social. Utiliza el comportamiento instintivo ciego de las hormigas para mimetizar y criticar la rutina gris del trabajo enajenado de la sociedad de consumo moderna, interpelando de forma inferencial al receptor de Secundaria sobre su propia libertad existencial. -->
 - [ ] C) Un instructivo de ingeniería agrícola que enseña a combatir las plagas de hormigas cortadoras de hojas de los campos de Tacuarembó.
   <!-- feedback: Incorrecto. No es un manual agrario de insecticidas o venenos químicos agrícolas de Tacuarembó; es una ficción literaria de corte alegórico social de Secundaria. -->
@@ -425,11 +425,11 @@ Evaluá críticamente el uso de la metáfora arqueológica 'descansan bajo una p
 ### Opciones
 - [ ] A) La metáfora fracasa al describir los libros debido a que utiliza términos del latín de cementerio que lesionan de forma biológica la comprensión de Secundaria.
   <!-- feedback: Incorrecto. Se comprende con gran fluidez por los lectores del liceo; el vocabulario fúnebre asocia el abandono físico del libro con la muerte de una destreza mental superior. -->
-- [x] B) El autor asocia de forma brillante el abandono material del libro de papel con la extinción espiritual o intelectual de una destreza humana superior (la concentración y el pensamiento crítico profundo), sugiriendo de forma implícita e inquietante que la sociedad digital de destellos de video marcha hacia un analfabetismo funcional irreversible de Secundaria de mentes dóciles.
+- [x] D) El autor asocia de forma brillante el abandono material del libro de papel con la extinción espiritual o intelectual de una destreza humana superior (la concentración y el pensamiento crítico profundo), sugiriendo de forma implícita e inquietante que la sociedad digital de destellos de video marcha hacia un analfabetismo funcional irreversible de Secundaria de mentes dóciles.
   <!-- feedback: ¡Correcto! El columnista de Montevideo utiliza pinceladas fúnebres ('tumbas', 'pátina de polvo silencioso', 'civilización muerta') para dramatizar la gravedad de la dispersión de internet de Secundaria. Connota que la capacidad de leer novelas y meditar de forma solitaria está en proceso de extinción histórica ante la tiranía del consumo rápido digital de destellos de video de internet de Secundaria. -->
-- [ ] C) La metáfora es en verdad un elogio comercial a los fabricantes de pantallas de vidrio templado de Montevideo.
+- [ ] B) La metáfora es en verdad un elogio comercial a los fabricantes de pantallas de vidrio templado de Montevideo.
   <!-- feedback: Incorrecto. No se elogian los celulares; el autor de opinión descalifica de forma frontal su consumo disperso e hipnótico digital de destellos de video de dopamina de internet. -->
-- [ ] D) La editorial exige el pago de multas de tránsito por el uso de libros de papel en la vía pública de forma judicial.
+- [ ] C) La editorial exige el pago de multas de tránsito por el uso de libros de papel en la vía pública de forma judicial.
   <!-- feedback: Incorrecto. No hay multas de tránsito de libros; se hace una crítica pedagógica y sociológica seria de Secundaria de la cultura juvenil digital de internet. -->
 
 ### Explicacion Pedagogica
@@ -449,9 +449,9 @@ Evaluá críticamente el desenlace lírico de 'La higuera' de Juana de Ibarbouro
 ### Opciones
 - [ ] A) El yo lírico exige talar las ramas de la higuera por considerarla una planta inútil para la producción agraria de higos de exportación de Uruguay.
   <!-- feedback: Incorrecto. No hay intenciones de talar el árbol ni móviles de exportación agraria mercantil; el poema es una elegía tierna de piedad existencial de Ibarbourou. -->
-- [x] B) La personificación del árbol herido de fealdad permite resolver de forma ética la aspereza del huerto: el yo lírico utiliza la mentira lírica ('el más bello árbol') no para engañar con dolo, sino para regalar de forma imaginaria e íntima una dignidad estética sublime al postergado, consagrando la mentira piadosa como un bálsamo de amor existencial que trasciende el dato físico de la realidad, logrando gran belleza lírica de Ibarbourou.
+- [x] C) La personificación del árbol herido de fealdad permite resolver de forma ética la aspereza del huerto: el yo lírico utiliza la mentira lírica ('el más bello árbol') no para engañar con dolo, sino para regalar de forma imaginaria e íntima una dignidad estética sublime al postergado, consagrando la mentira piadosa como un bálsamo de amor existencial que trasciende el dato físico de la realidad, logrando gran belleza lírica de Ibarbourou.
   <!-- feedback: ¡Correcto! El poema de Juana de Ibarbourou es un canto a la empatía activa. Resolver la fealdad física de la higuera con una mentira de consuelo es un acto ético sublime de compasión existencial que humaniza el huerto. La palabra lírica se redefine como herramienta creadora de belleza interior afectiva, salvando al árbol gris de su soledad de forma poética de Ibarbourou. -->
-- [ ] C) Se utiliza un registro formal de botánica de Secundaria de ceibos para dictaminar la deformación de las ramas de la higuera.
+- [ ] B) Se utiliza un registro formal de botánica de Secundaria de ceibos para dictaminar la deformación de las ramas de la higuera.
   <!-- feedback: Incorrecto. Se describe un mundo de ficción poética lírica de Ibarbourou de gran sensibilidad afectiva, ajeno al tecnicismo botánico denotativo frío de los ceibos de Secundaria. -->
 - [ ] D) El poema es en verdad una sátira de Carnaval destinada a reírse de los árboles secos de la capital del país de Ibarbourou.
   <!-- feedback: Incorrecto. El tono es serio, melancólico, de gran sensibilidad, ternura y compasión existencial; no persigue fines satíricos de Carnaval de risa de Ibarbourou. -->
@@ -473,11 +473,11 @@ La asimilación de la lectura lírica e inferencial de Secundaria exige desentra
 ### Opciones
 - [ ] A) Que las interpretaciones inferenciales solo se deben realizar empleando el voseo de Salto para evitar la ortografía formal escrita de Secundaria.
   <!-- feedback: Incorrecto. Se realizan respetando de forma estricta la gramática y ortografía formal de Secundaria de la asignatura Lengua de Secundaria, sin limitaciones de variedades departamentales de Salto. -->
-- [x] B) Que la lectura literal de Secundaria es insuficiente para la comprensión profunda, ya que los textos de calidad (literarios, periodísticos, de opinión) se construyen de forma intencional sobre el plano figurado, la ironía, la metáfora y la presuposición; abolir el análisis inferencial reduciría la lectura a descodificar signos mudos de forma plana, capando de forma irreversible la capacidad del estudiante de Secundaria de detectar sesgos, ironías, manipulación publicitaria y de ejercitar el pensamiento crítico de Secundaria de forma lógica y verosímil de Secundaria.
+- [x] D) Que la lectura literal de Secundaria es insuficiente para la comprensión profunda, ya que los textos de calidad (literarios, periodísticos, de opinión) se construyen de forma intencional sobre el plano figurado, la ironía, la metáfora y la presuposición; abolir el análisis inferencial reduciría la lectura a descodificar signos mudos de forma plana, capando de forma irreversible la capacidad del estudiante de Secundaria de detectar sesgos, ironías, manipulación publicitaria y de ejercitar el pensamiento crítico de Secundaria de forma lógica y verosímil de Secundaria.
   <!-- feedback: ¡Correcto! En teoría de la lectura de Secundaria, el nivel literal es la puerta de entrada, pero el nivel inferencial es la base de la competencia crítica y el pensamiento crítico de Secundaria. Leer entre líneas permite al alumno descubrir la verdadera intención del autor (su sesgo de prensa, su estrategia retórica o estética de Secundaria), dotando de rigor y madurez intelectual a la lectura de Secundaria. -->
-- [ ] C) La tesis de Secundaria es correcta debido a que las murgas uruguayas de Carnaval prohíben por ley constitucional las inferencias líricas en los tablados del país.
+- [ ] B) La tesis de Secundaria es correcta debido a que las murgas uruguayas de Carnaval prohíben por ley constitucional las inferencias líricas en los tablados del país.
   <!-- feedback: Incorrecto. Las murgas basan de forma histórica sus críticas en el doble sentido, la ironía, la parodia y la sátira lírica, exentas de prohibiciones constitucionales en los tablados del país. -->
-- [ ] D) La diferencia radica en que las interpretaciones inferenciales de Secundaria solo se pueden redactar con tiza verde en el pizarrón.
+- [ ] C) La diferencia radica en que las interpretaciones inferenciales de Secundaria solo se pueden redactar con tiza verde en el pizarrón.
   <!-- feedback: Incorrecto. Es un debate epistémico de estrategia didáctica y de teoría de la lectura formal de Secundaria, ajeno a soportes físicos escolares de tiza verde. -->
 
 ### Explicacion Pedagogica
@@ -495,9 +495,9 @@ La asimilación de la competencia de lectura crítica e inferencial de Secundari
 Evaluá críticamente el desenlace del fragmento de 'El hijo' de Horacio Quiroga de Secundaria, cuando el padre experimenta el 'tiempo de la angustia psicológica de la espera' en busca del hijo. ¿De qué manera la parálisis cognitiva paterna y la disolución del tiempo del reloj de Misiones prefiguran de forma inferencial el trágico final del relato de Secundaria?
 
 ### Opciones
-- [ ] A) La parálisis cognitiva demuestra que el padre padece de patologías graves de la memoria que le impiden leer los relojes de Secundaria.
+- [ ] B) La parálisis cognitiva demuestra que el padre padece de patologías graves de la memoria que le impiden leer los relojes de Secundaria.
   <!-- feedback: Incorrecto. El padre no tiene amnesia o ceguera clínica; su parálisis es fruto del pavor existencial y del presentimiento horrible de muerte del hijo de Misiones de Secundaria. -->
-- [x] B) La disolución del tiempo matemático del reloj de Misiones consagra de forma inferencial la irrupción de la locura o el delirio paterno como mecanismo de evasión de la realidad trágica de Secundaria: al saber en su conciencia íntima profunda que el hijo ha fallecido por el disparo oído, su mente rompe con la realidad lineal del reloj de Misiones para adentrarse en la alucinación dolorosa de la espera infinita, prefigurando el destino trágico y fúnebre del cuento de Quiroga de Secundaria.
+- [x] A) La disolución del tiempo matemático del reloj de Misiones consagra de forma inferencial la irrupción de la locura o el delirio paterno como mecanismo de evasión de la realidad trágica de Secundaria: al saber en su conciencia íntima profunda que el hijo ha fallecido por el disparo oído, su mente rompe con la realidad lineal del reloj de Misiones para adentrarse en la alucinación dolorosa de la espera infinita, prefigurando el destino trágico y fúnebre del cuento de Quiroga de Secundaria.
   <!-- feedback: ¡Correcto! El fin del tiempo matemático en la conciencia paterna de Misiones es el inicio de la enajenación de Quiroga. Al helarse su sangre por el presentimiento, el padre intuye la tragedia pero, ante la devastación del dolor existencial, su mente desconecta de la realidad real física cronológica para buscar al hijo en una alucinación piadosa, prefigurando de forma magistral y de gran impacto emocional el desenlace del cuento de horror de Secundaria. -->
 - [ ] C) El disparo oído de forma silenciosa es en verdad una figura de Carnaval de Montevideo que celebra el año nuevo de forma optimista.
   <!-- feedback: Incorrecto. Es un disparo real de escopeta en la selva de Misiones que ha terminado de forma trágica con la vida del hijo del cazador, ajeno a celebraciones festivas de Carnaval de Montevideo de forma optimista. -->

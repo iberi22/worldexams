@@ -31,9 +31,9 @@ Qual é a forma geral de uma função afim (ou função do 1º grau)?
 
 ### Opciones
 - [ ] A) $f(x) = ax^2 + bx + c$ <!-- feedback: Esta é a forma geral de uma função quadrática ou do 2º grau. -->
-- [x] B) $f(x) = ax + b$ <!-- feedback: Correto. 'a' é o coeficiente angular e 'b' é o coeficiente linear (termo constante). -->
-- [ ] C) $f(x) = a^x$ <!-- feedback: Esta é a forma básica de uma função exponencial. -->
-- [ ] D) $f(x) = \log_a(x)$ <!-- feedback: Esta é a forma básica de uma função logarítmica. -->
+- [x] D) $f(x) = ax + b$ <!-- feedback: Correto. 'a' é o coeficiente angular e 'b' é o coeficiente linear (termo constante). -->
+- [ ] B) $f(x) = a^x$ <!-- feedback: Esta é a forma básica de uma função exponencial. -->
+- [ ] C) $f(x) = \log_a(x)$ <!-- feedback: Esta é a forma básica de uma função logarítmica. -->
 
 ### Explicacion Pedagogica
 Uma função afim é definida por uma lei de formação do tipo $f(x) = ax + b$, onde $a$ e $b$ são números reais e $a \neq 0$ para que a função seja estritamente do 1º grau. O gráfico resultante é sempre uma linha reta.
@@ -49,8 +49,8 @@ Uma função afim é definida por uma lei de formação do tipo $f(x) = ax + b$,
 Na função afim $f(x) = ax + b$, o coeficiente $b$ representa o ponto onde a reta intercepta qual eixo do plano cartesiano?
 
 ### Opciones
-- [ ] A) Eixo das abscissas ($x$) <!-- feedback: O ponto onde a reta corta o eixo x é a raiz da função, dada por -b/a. -->
-- [x] B) Eixo das ordenadas ($y$) <!-- feedback: Correto. Quando x = 0, f(0) = b, logo o par ordenado é (0, b). -->
+- [ ] B) Eixo das abscissas ($x$) <!-- feedback: O ponto onde a reta corta o eixo x é a raiz da função, dada por -b/a. -->
+- [x] A) Eixo das ordenadas ($y$) <!-- feedback: Correto. Quando x = 0, f(0) = b, logo o par ordenado é (0, b). -->
 - [ ] C) A bissetriz dos quadrantes ímpares <!-- feedback: O coeficiente b não determina a bissetriz, mas sim o deslocamento vertical da reta. -->
 - [ ] D) A origem $(0,0)$ <!-- feedback: A reta só passa pela origem se b for igual a zero. -->
 
@@ -69,9 +69,9 @@ Dada a função $f(x) = -2x + 10$, qual é a raiz (ou zero) desta função?
 
 ### Opciones
 - [ ] A) $x = 10$ <!-- feedback: f(10) = -2(10) + 10 = -10. Não é a raiz. -->
-- [x] B) $x = 5$ <!-- feedback: f(5) = -2(5) + 10 = -10 + 10 = 0. Correto. -->
-- [ ] C) $x = -5$ <!-- feedback: f(-5) = -2(-5) + 10 = 10 + 10 = 20. Não é a raiz. -->
-- [ ] D) $x = 2$ <!-- feedback: f(2) = -2(2) + 10 = 6. Não é a raiz. -->
+- [x] D) $x = 5$ <!-- feedback: f(5) = -2(5) + 10 = -10 + 10 = 0. Correto. -->
+- [ ] B) $x = -5$ <!-- feedback: f(-5) = -2(-5) + 10 = 10 + 10 = 20. Não é a raiz. -->
+- [ ] C) $x = 2$ <!-- feedback: f(2) = -2(2) + 10 = 6. Não é a raiz. -->
 
 ### Explicacion Pedagogica
 A raiz de uma função é o valor de $x$ que faz $f(x) = 0$. Resolvendo $-2x + 10 = 0$, temos $-2x = -10$, logo $x = 5$.
@@ -87,10 +87,10 @@ A raiz de uma função é o valor de $x$ que faz $f(x) = 0$. Resolvendo $-2x + 1
 Sobre a função $f(x) = 3x - 4$, é correto afirmar que ela é:
 
 ### Opciones
-- [x] A) Crescente <!-- feedback: O coeficiente angular a = 3 é positivo, o que indica que a função é crescente. -->
-- [ ] B) Decrescente <!-- feedback: Para ser decrescente, o coeficiente angular 'a' deveria ser negativo. -->
-- [ ] C) Constante <!-- feedback: Uma função constante tem a = 0, o que não é o caso. -->
-- [ ] D) Uma parábola <!-- feedback: Funções afins têm como gráfico uma reta, não uma parábola. -->
+- [x] D) Crescente <!-- feedback: O coeficiente angular a = 3 é positivo, o que indica que a função é crescente. -->
+- [ ] A) Decrescente <!-- feedback: Para ser decrescente, o coeficiente angular 'a' deveria ser negativo. -->
+- [ ] B) Constante <!-- feedback: Uma função constante tem a = 0, o que não é o caso. -->
+- [ ] C) Uma parábola <!-- feedback: Funções afins têm como gráfico uma reta, não uma parábola. -->
 
 ### Explicacion Pedagogica
 O comportamento de crescimento ou decrescimento de uma função afim depende exclusivamente do sinal do coeficiente angular $a$. Se $a > 0$, a função é crescente. Se $a < 0$, a função é decrescente.
@@ -127,8 +127,8 @@ O custo mensal $C$ de um plano de celular é dado por $C(x) = 35 + 0,50x$, onde 
 ### Opciones
 - [ ] A) R\$ 50,00 <!-- feedback: Este é apenas o custo dos minutos (0,50 * 100), esquecendo a taxa fixa de 35. -->
 - [ ] B) R\$ 35,50 <!-- feedback: Erro no cálculo do valor variável. -->
-- [x] C) R\$ 85,00 <!-- feedback: C(100) = 35 + 0,50(100) = 35 + 50 = 85. -->
-- [ ] D) R\$ 135,00 <!-- feedback: Erro na soma dos valores fixos e variáveis. -->
+- [x] D) R\$ 85,00 <!-- feedback: C(100) = 35 + 0,50(100) = 35 + 50 = 85. -->
+- [ ] C) R\$ 135,00 <!-- feedback: Erro na soma dos valores fixos e variáveis. -->
 
 ### Explicacion Pedagogica
 Substituímos $x = 100$ na função custo: $C(100) = 35 + 0,5 \cdot 100$. Calculando o produto primeiro: $0,5 \cdot 100 = 50$. Somando à taxa fixa: $35 + 50 = 85$.
@@ -145,9 +145,9 @@ Um tanque contém 5000 litros de água e é esvaziado à razão de 200 litros po
 
 ### Opciones
 - [ ] A) $V(t) = 5000 + 200t$ <!-- feedback: Esta função representaria um tanque sendo enchido, não esvaziado. -->
-- [x] B) $V(t) = 5000 - 200t$ <!-- feedback: Correto. O volume inicial é 5000 e diminui 200 a cada unidade de tempo t. -->
-- [ ] C) $V(t) = 200t - 5000$ <!-- feedback: Esta função resultaria em valores negativos de volume no início. -->
-- [ ] D) $V(t) = 5000t - 200$ <!-- feedback: O tempo t deve multiplicar a taxa de variação, não o valor inicial. -->
+- [x] D) $V(t) = 5000 - 200t$ <!-- feedback: Correto. O volume inicial é 5000 e diminui 200 a cada unidade de tempo t. -->
+- [ ] B) $V(t) = 200t - 5000$ <!-- feedback: Esta função resultaria em valores negativos de volume no início. -->
+- [ ] C) $V(t) = 5000t - 200$ <!-- feedback: O tempo t deve multiplicar a taxa de variação, não o valor inicial. -->
 
 ### Explicacion Pedagogica
 O volume inicial ($b$) é 5000. Como a água está saindo, a taxa de variação ($a$) é negativa, igual a $-200$. Assim, a lei da função é $V(t) = -200t + 5000$.
@@ -202,8 +202,8 @@ Determine a lei da função afim cujo gráfico passa pelos pontos $(0, 3)$ e $(2
 
 ### Opciones
 - [ ] A) $f(x) = 3x + 2$ <!-- feedback: Se f(x) = 3x+2, f(0) seria 2, mas o ponto dado é (0,3). -->
-- [x] B) $f(x) = 2x + 3$ <!-- feedback: f(0)=3 (coeficiente linear). a = (7-3)/(2-0) = 4/2 = 2. Logo f(x)=2x+3. -->
-- [ ] C) $f(x) = 4x + 3$ <!-- feedback: Se a=4, f(2) seria 4(2)+3 = 11, mas f(2)=7. -->
+- [x] C) $f(x) = 2x + 3$ <!-- feedback: f(0)=3 (coeficiente linear). a = (7-3)/(2-0) = 4/2 = 2. Logo f(x)=2x+3. -->
+- [ ] B) $f(x) = 4x + 3$ <!-- feedback: Se a=4, f(2) seria 4(2)+3 = 11, mas f(2)=7. -->
 - [ ] D) $f(x) = x + 3$ <!-- feedback: Se a=1, f(2) seria 2+3 = 5, mas f(2)=7. -->
 
 ### Explicacion Pedagogica
@@ -220,8 +220,8 @@ O ponto $(0, 3)$ nos dá diretamente o coeficiente linear $b = 3$. O coeficiente
 Duas retas no plano cartesiano, representadas pelas funções $f(x) = 2x + 5$ e $g(x) = -x + 11$, interceptam-se em qual ponto?
 
 ### Opciones
-- [ ] A) $(3, 8)$ <!-- feedback: f(3) = 11 e g(3) = 8. Não é o ponto de interseção. -->
-- [x] B) $(2, 9)$ <!-- feedback: 2x + 5 = -x + 11 => 3x = 6 => x = 2. f(2) = 2(2)+5 = 9. -->
+- [ ] B) $(3, 8)$ <!-- feedback: f(3) = 11 e g(3) = 8. Não é o ponto de interseção. -->
+- [x] A) $(2, 9)$ <!-- feedback: 2x + 5 = -x + 11 => 3x = 6 => x = 2. f(2) = 2(2)+5 = 9. -->
 - [ ] C) $(6, 5)$ <!-- feedback: f(6) = 17 e g(6) = 5. Não é o ponto de interseção. -->
 - [ ] D) $(4, 7)$ <!-- feedback: f(4) = 13 e g(4) = 7. Não é o ponto de interseção. -->
 
@@ -259,8 +259,8 @@ Se o gráfico de uma função afim $f(x) = ax + b$ corta o eixo $x$ em um valor 
 
 ### Opciones
 - [ ] A) $a > 0$ e $b > 0$ <!-- feedback: Se b > 0, o gráfico cortaria o eixo y em um valor positivo. -->
-- [x] B) $a > 0$ e $b < 0$ <!-- feedback: b < 0 (corta y no negativo). Para cortar x no positivo, a reta deve subir, logo a > 0. -->
-- [ ] C) $a < 0$ e $b < 0$ <!-- feedback: Se a < 0 e b < 0, a reta desceria e cortaria o eixo x em um valor negativo. -->
+- [x] C) $a > 0$ e $b < 0$ <!-- feedback: b < 0 (corta y no negativo). Para cortar x no positivo, a reta deve subir, logo a > 0. -->
+- [ ] B) $a < 0$ e $b < 0$ <!-- feedback: Se a < 0 e b < 0, a reta desceria e cortaria o eixo x em um valor negativo. -->
 - [ ] D) $a < 0$ e $b > 0$ <!-- feedback: Cortaria o eixo y no positivo. -->
 
 ### Explicacion Pedagogica
@@ -278,8 +278,8 @@ O fundo A cobra R\$ 100,00 de taxa fixa mais 1\% do valor investido. O fundo B c
 
 ### Opciones
 - [ ] A) R\$ 2.500,00 <!-- feedback: Taxa A: 100 + 25 = 125. Taxa B: 50 + 50 = 100. Diferentes. -->
-- [x] B) R\$ 5.000,00 <!-- feedback: 100 + 0,01x = 50 + 0,02x => 50 = 0,01x => x = 5000. -->
-- [ ] C) R\$ 10.000,00 <!-- feedback: Taxa A: 100 + 100 = 200. Taxa B: 50 + 200 = 250. Diferentes. -->
+- [x] C) R\$ 5.000,00 <!-- feedback: 100 + 0,01x = 50 + 0,02x => 50 = 0,01x => x = 5000. -->
+- [ ] B) R\$ 10.000,00 <!-- feedback: Taxa A: 100 + 100 = 200. Taxa B: 50 + 200 = 250. Diferentes. -->
 - [ ] D) R\$ 7.500,00 <!-- feedback: As taxas não serão iguais para este valor. -->
 
 ### Explicacion Pedagogica
@@ -296,8 +296,8 @@ Montamos a equação de igualdade: $100 + 0,01x = 50 + 0,02x$. Isolando $x$: $10
 Sabendo que $0^\circ$C corresponde a $32^\circ$F e $100^\circ$C corresponde a $212^\circ$F, qual é a função afim que converte Celsius ($C$) para Fahrenheit ($F$)?
 
 ### Opciones
-- [ ] A) $F = 1,8C - 32$ <!-- feedback: O coeficiente linear b deve ser 32 positivo, não negativo. -->
-- [x] B) $F = 1,8C + 32$ <!-- feedback: a = (212-32)/(100-0) = 180/100 = 1,8. f(0)=32 => b=32. -->
+- [ ] B) $F = 1,8C - 32$ <!-- feedback: O coeficiente linear b deve ser 32 positivo, não negativo. -->
+- [x] A) $F = 1,8C + 32$ <!-- feedback: a = (212-32)/(100-0) = 180/100 = 1,8. f(0)=32 => b=32. -->
 - [ ] C) $F = 32C + 1,8$ <!-- feedback: Erro na posição dos coeficientes. -->
 - [ ] D) $F = C + 32$ <!-- feedback: A taxa de variação não é 1; a cada 5 graus C variam 9 graus F. -->
 
@@ -317,8 +317,8 @@ Se a função demanda de um produto é $D(p) = 400 - 5p$, onde $p$ é o preço, 
 ### Opciones
 - [ ] A) R\$ 400,00 <!-- feedback: Com p=400, a demanda seria negativa (400 - 2000). -->
 - [ ] B) R\$ 100,00 <!-- feedback: Com p=100, a demanda seria negativa (400 - 500). -->
-- [x] C) R\$ 80,00 <!-- feedback: 400 - 5p > 0 => 400 > 5p => p < 80. -->
-- [ ] D) R\$ 5,00 <!-- feedback: Este é o preço mínimo sugerido, mas não o máximo. -->
+- [x] D) R\$ 80,00 <!-- feedback: 400 - 5p > 0 => 400 > 5p => p < 80. -->
+- [ ] C) R\$ 5,00 <!-- feedback: Este é o preço mínimo sugerido, mas não o máximo. -->
 
 ### Explicacion Pedagogica
 Para que a demanda seja positiva, devemos ter $400 - 5p > 0$. Resolvendo a inequação: $400 > 5p$, o que implica $p < 80$. Portanto, o preço deve ser estritamente menor que R\$ 80,00.
@@ -336,8 +336,8 @@ Considere $f(x) = ax + b$. Se $f(f(x)) = 4x + 9$, quais são os possíveis valor
 ### Opciones
 - [ ] A) $a = 4, b = 9$ <!-- feedback: f(f(x)) com a=4 daria 16x. Errado. -->
 - [ ] B) $a = 2, b = 9$ <!-- feedback: Se a=2, f(f(x)) = 2(2x+b)+b = 4x+3b. Se 3b=9, b=3. Não 9. -->
-- [x] C) $a = 2, b = 3$ <!-- feedback: f(f(x)) = a(ax+b)+b = a²x + ab+b. a²=4 => a=2 ou a=-2. Se a=2: 2b+b=9 => 3b=9 => b=3. -->
-- [ ] D) $a = 2, b = 4,5$ <!-- feedback: Incorreto ao aplicar a substituição na composição. -->
+- [x] D) $a = 2, b = 3$ <!-- feedback: f(f(x)) = a(ax+b)+b = a²x + ab+b. a²=4 => a=2 ou a=-2. Se a=2: 2b+b=9 => 3b=9 => b=3. -->
+- [ ] C) $a = 2, b = 4,5$ <!-- feedback: Incorreto ao aplicar a substituição na composição. -->
 
 ### Explicacion Pedagogica
 $f(f(x)) = a(ax+b) + b = a^2x + (ab + b)$. Igualando os coeficientes: $a^2 = 4 \Rightarrow a = 2$ ou $a = -2$. Se $a = 2$, então $2b + b = 9 \Rightarrow 3b = 9 \Rightarrow b = 3$. Se $a = -2$, $-2b + b = 9 \Rightarrow -b = 9 \Rightarrow b = -9$.
@@ -372,8 +372,8 @@ Expandimos a soma: $f(1) + f(2) + f(3) = (2(1)+b) + (2(2)+b) + (2(3)+b)$. Somand
 Qual é a área da região triangular limitada pelo gráfico da função $f(x) = -2x + 8$ e pelos eixos coordenados $x$ e $y$?
 
 ### Opciones
-- [ ] A) 32 <!-- feedback: Este seria o produto da base pela altura (4 * 8), esquecendo de dividir por 2. -->
-- [x] B) 16 <!-- feedback: Intercepto y (altura) = 8. Intercepto x (raiz) = 4. Área = (4 * 8) / 2 = 16. -->
+- [ ] B) 32 <!-- feedback: Este seria o produto da base pela altura (4 * 8), esquecendo de dividir por 2. -->
+- [x] A) 16 <!-- feedback: Intercepto y (altura) = 8. Intercepto x (raiz) = 4. Área = (4 * 8) / 2 = 16. -->
 - [ ] C) 8 <!-- feedback: Erro no cálculo das dimensões do triângulo. -->
 - [ ] D) 4 <!-- feedback: Erro no cálculo das dimensões do triângulo. -->
 
@@ -393,8 +393,8 @@ Considere a família de funções $f_k(x) = (k-1)x + 2k + 3$. Qual é o ponto co
 ### Opciones
 - [ ] A) $(0, 5)$ <!-- feedback: Para x=0, f(0) depende de k: 2k+3. -->
 - [ ] B) $(1, 3)$ <!-- feedback: Testando na função, o resultado dependeria de k. -->
-- [x] C) $(-2, 5)$ <!-- feedback: f(-2) = (k-1)(-2) + 2k + 3 = -2k + 2 + 2k + 3 = 5. O valor é constante. -->
-- [ ] D) $(2, -1)$ <!-- feedback: Testando na função, o resultado dependeria de k. -->
+- [x] D) $(-2, 5)$ <!-- feedback: f(-2) = (k-1)(-2) + 2k + 3 = -2k + 2 + 2k + 3 = 5. O valor é constante. -->
+- [ ] C) $(2, -1)$ <!-- feedback: Testando na função, o resultado dependeria de k. -->
 
 ### Explicacion Pedagogica
 Para encontrar o ponto comum, reescrevemos a função isolando o parâmetro $k$: $f(x) = kx - x + 2k + 3 = k(x + 2) - x + 3$. Para que o valor de $f(x)$ não dependa de $k$, o termo que multiplica $k$ deve ser zero: $x + 2 = 0 \Rightarrow x = -2$. Substituindo $x = -2$ na função: $f(-2) = k(0) - (-2) + 3 = 5$. O ponto é $(-2, 5)$.

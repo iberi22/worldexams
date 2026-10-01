@@ -29,13 +29,13 @@ Este bundle trabaja prismas, pirámides y el cálculo de áreas de superficie co
 ### Enunciado
 ¿Qué caracteriza a un prisma recto?
 ### Opciones
-- [x] A) Tiene dos bases iguales y paralelas unidas por caras laterales rectangulares
+- [x] D) Tiene dos bases iguales y paralelas unidas por caras laterales rectangulares
   <!-- feedback: Explica por qué es correcta: esa es la definición del prisma; la caja de zapatos muestra las dos bases y los cuatro rectángulos laterales. -->
-- [ ] B) Tiene una sola base y caras laterales triangulares
+- [ ] A) Tiene una sola base y caras laterales triangulares
   <!-- feedback: Explica el error conceptual: eso describe una pirámide, no un prisma. -->
-- [ ] C) Todas sus caras son círculos
+- [ ] B) Todas sus caras son círculos
   <!-- feedback: Explica el error conceptual: los prismas tienen caras planas poligonales, nunca circulares. -->
-- [ ] D) No tiene caras planas
+- [ ] C) No tiene caras planas
   <!-- feedback: Explica el error conceptual: el prisma es un poliedro, todas sus caras son planas. -->
 ### Explicacion Pedagogica
 El prisma se reconoce por sus dos bases congruentes y paralelas más los rectángulos laterales. La caja de zapatos (prisma rectangular) es el ejemplo cotidiano perfecto.
@@ -67,13 +67,13 @@ Todo prisma tiene caras laterales según los lados de la base (3 rectángulos) m
 ### Enunciado
 ¿Cuántos cm² de superficie pinta en total?
 ### Opciones
-- [x] A) 96 cm²
+- [x] D) 96 cm²
   <!-- feedback: Explica por qué es correcta: cada cara mide 4 × 4 = 16 cm² y el cubo tiene 6 caras: 6 × 16 = 96. -->
-- [ ] B) 64 cm²
+- [ ] A) 64 cm²
   <!-- feedback: Explica el error conceptual: calcula 4³ = 64, que es el volumen, no la superficie. -->
-- [ ] C) 16 cm²
+- [ ] B) 16 cm²
   <!-- feedback: Explica el error conceptual: calcula solo una cara y olvida multiplicar por las 6 del cubo. -->
-- [ ] D) 24 cm²
+- [ ] C) 24 cm²
   <!-- feedback: Explica el error conceptual: multiplica 4 × 6 sin elevar el lado al cuadrado primero. -->
 ### Explicacion Pedagogica
 La superficie total suma todas las caras: 6 × (lado²) = 6 × 16 = 96 cm². Superficie (cm²) y volumen (cm³) son magnitudes distintas con fórmulas distintas.
@@ -86,13 +86,13 @@ La superficie total suma todas las caras: 6 × (lado²) = 6 × 16 = 96 cm². Sup
 ### Enunciado
 ¿Cuánto papel se necesita por caja (área de superficie total)?
 ### Opciones
-- [x] A) 94 cm²
+- [x] D) 94 cm²
   <!-- feedback: Explica por qué es correcta: 2 × (3×4 + 3×5 + 4×5) = 2 × (12 + 15 + 20) = 2 × 47 = 94 cm². -->
-- [ ] B) 60 cm²
+- [ ] A) 60 cm²
   <!-- feedback: Explica el error conceptual: calcula el volumen (3 × 4 × 5) en vez de la superficie. -->
-- [ ] C) 47 cm²
+- [ ] B) 47 cm²
   <!-- feedback: Explica el error conceptual: suma las tres caras distintas una sola vez, olvidando que cada una aparece dos veces. -->
-- [ ] D) 120 cm²
+- [ ] C) 120 cm²
   <!-- feedback: Explica el error conceptual: multiplica las tres dimensiones por 2 en vez de sumar los productos por pares. -->
 ### Explicacion Pedagogica
 El prisma rectangular tiene 3 pares de caras iguales: S = 2(ab + ac + bc). Con 3, 4 y 5: 2(12 + 15 + 20) = 94 cm² de papel por caja.
@@ -105,9 +105,9 @@ El prisma rectangular tiene 3 pares de caras iguales: S = 2(ab + ac + bc). Con 3
 ### Enunciado
 ¿Cuál es el área lateral (sin la base) de la pirámide?
 ### Opciones
-- [x] A) 60 cm²
+- [x] B) 60 cm²
   <!-- feedback: Explica por qué es correcta: la pirámide cuadrada tiene 4 caras triangulares: 4 × 15 = 60 cm². -->
-- [ ] B) 15 cm²
+- [ ] A) 15 cm²
   <!-- feedback: Explica el error conceptual: cuenta una sola cara triangular en vez de las 4 laterales. -->
 - [ ] C) 75 cm²
   <!-- feedback: Explica el error conceptual: multiplica 15 × 5 contando una cara de más. -->
@@ -143,13 +143,13 @@ Sin tapa se resta una cara del total: caja completa 62 menos base superior 15 = 
 ### Enunciado
 ¿Cuál bloque tiene mayor área de superficie?
 ### Opciones
-- [x] A) El bloque A, con 72 cm² frente a 66 cm² del bloque B
+- [x] D) El bloque A, con 72 cm² frente a 66 cm² del bloque B
   <!-- feedback: Explica por qué es correcta: A: 2(6 + 12 + 18) = 72; B: 2(9 + 12 + 12) = 66; 72 > 66. -->
-- [ ] B) El bloque B, porque es más parejo en sus medidas
+- [ ] A) El bloque B, porque es más parejo en sus medidas
   <!-- feedback: Explica el error conceptual: la forma pareja no garantiza mayor superficie; hay que calcular. -->
-- [ ] C) Son iguales porque ambos tienen 3 medidas
+- [ ] B) Son iguales porque ambos tienen 3 medidas
   <!-- feedback: Explica el error conceptual: tener 3 dimensiones no implica igual superficie; los valores difieren. -->
-- [ ] D) El bloque A, con 36 cm³ frente a 33 cm³
+- [ ] C) El bloque A, con 36 cm³ frente a 33 cm³
   <!-- feedback: Explica el error conceptual: esos valores a medias no corresponden a la superficie real de ningún bloque. -->
 ### Explicacion Pedagogica
 Comparar exige calcular S = 2(ab + ac + bc) en cada caso: 72 contra 66. La intuición sobre "formas parejas" no sustituye el cálculo de la superficie.
@@ -162,11 +162,11 @@ Comparar exige calcular S = 2(ab + ac + bc) en cada caso: 72 contra 66. La intui
 ### Enunciado
 ¿Cuántos m² de pintura necesita (sin contar la base que toca el suelo)?
 ### Opciones
-- [x] A) 125 m²
+- [x] C) 125 m²
   <!-- feedback: Explica por qué es correcta: cada cara mide 25 m² y se pintan 5 caras (4 laterales + techo): 5 × 25 = 125. -->
-- [ ] B) 150 m²
+- [ ] A) 150 m²
   <!-- feedback: Explica el error conceptual: cuenta las 6 caras del cubo sin descontar la base que no se pinta. -->
-- [ ] C) 25 m²
+- [ ] B) 25 m²
   <!-- feedback: Explica el error conceptual: calcula una sola cara en vez de las 5 visibles. -->
 - [ ] D) 125 m³
   <!-- feedback: Explica el error conceptual: calcula el volumen (5³) en vez de la superficie a pintar. -->
@@ -181,9 +181,9 @@ La base apoyada no se pinta: 6 caras − 1 = 5 caras de 25 m² = 125 m². Formul
 ### Enunciado
 ¿Es correcta la afirmación? Comprueba con ambas cajas.
 ### Opciones
-- [x] A) No, ambas tienen 40 cm² pero A guarda 12 cm³ y B guarda 16 cm³
+- [x] B) No, ambas tienen 40 cm² pero A guarda 12 cm³ y B guarda 16 cm³
   <!-- feedback: Explica por qué es correcta: A: S = 2(12+6+2) = 40, V = 12; B: S = 2(8+8+4) = 40, V = 16; igual superficie, distinto volumen. -->
-- [ ] B) Sí, porque a igual cartón corresponde igual capacidad
+- [ ] A) Sí, porque a igual cartón corresponde igual capacidad
   <!-- feedback: Explica el error conceptual: el contraejemplo muestra 12 contra 16 cm³ con el mismo cartón. -->
 - [ ] C) No, porque las superficies son 20 y 40 cm²
   <!-- feedback: Explica el error conceptual: ambas superficies valen 40 cm²; el cálculo de 20 es incorrecto. -->
@@ -200,13 +200,13 @@ Superficie y volumen son independientes: formas distintas pueden compartir super
 ### Enunciado
 ¿Cuál caja conviene para gastar menos papel de regalo?
 ### Opciones
-- [x] A) La de 10 × 6 × 4 cm, con 248 cm² de superficie
+- [x] D) La de 10 × 6 × 4 cm, con 248 cm² de superficie
   <!-- feedback: Explica por qué es correcta: S = 2(60 + 40 + 24) = 248, menor que 334 y 432 de las otras; además el regalo cabe exacto. -->
-- [ ] B) La de 12 × 8 × 6 cm, porque al ser grande protege mejor
+- [ ] A) La de 12 × 8 × 6 cm, porque al ser grande protege mejor
   <!-- feedback: Explica el error conceptual: gasta 432 cm² de papel, casi el doble, sin necesidad. -->
-- [ ] C) La de 11 × 7 × 5 cm, porque es la intermedia
+- [ ] B) La de 11 × 7 × 5 cm, porque es la intermedia
   <!-- feedback: Explica el error conceptual: elegir "la del medio" no minimiza nada; su superficie es 334 cm². -->
-- [ ] D) Cualquiera, porque el papel siempre sobra igual
+- [ ] C) Cualquiera, porque el papel siempre sobra igual
   <!-- feedback: Explica el error conceptual: las superficies difieren (248, 334, 432), el gasto no es igual. -->
 ### Explicacion Pedagogica
 Menos superficie = menos papel: 248 < 334 < 432 cm². La caja ajustada al objeto minimiza el material, aplicando la geometría a una decisión real de consumo.

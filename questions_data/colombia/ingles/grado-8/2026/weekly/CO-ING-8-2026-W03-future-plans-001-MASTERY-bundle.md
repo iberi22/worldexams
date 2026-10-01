@@ -56,8 +56,8 @@ Usamos "will" para hacer predicciones basadas en lo que creemos o pensamos (frec
 We ________ visit the Salt Cathedral in Zipaquirá next Saturday. We already bought the tickets!
 
 ### Opciones
-- [ ] A) will <!-- feedback: Incorrect. "Will" is for spontaneous decisions, not planned ones. -->
-- [x] B) are going to <!-- feedback: Correct! "Be going to" is used for prior plans and intentions. -->
+- [ ] B) will <!-- feedback: Incorrect. "Will" is for spontaneous decisions, not planned ones. -->
+- [x] A) are going to <!-- feedback: Correct! "Be going to" is used for prior plans and intentions. -->
 - [ ] C) go to <!-- feedback: Incorrect. Missing the verb "be" and "-ing". -->
 - [ ] D) went to <!-- feedback: Incorrect. This is past tense. -->
 
@@ -78,10 +78,10 @@ We ________ visit the Salt Cathedral in Zipaquirá next Saturday. We already bou
 **B:** "Don't worry, I ________ answer it."
 
 ### Opciones
-- [x] A) will <!-- feedback: Correct! "Will" is used for spontaneous decisions made at the moment of speaking. -->
-- [ ] B) am going to <!-- feedback: Incorrect. This wasn't a prior plan. -->
-- [ ] C) am answering <!-- feedback: Incorrect. This would mean you are already doing it. -->
-- [ ] D) answer <!-- feedback: Incorrect. Present simple doesn't work for this future offer. -->
+- [x] D) will <!-- feedback: Correct! "Will" is used for spontaneous decisions made at the moment of speaking. -->
+- [ ] A) am going to <!-- feedback: Incorrect. This wasn't a prior plan. -->
+- [ ] B) am answering <!-- feedback: Incorrect. This would mean you are already doing it. -->
+- [ ] C) answer <!-- feedback: Incorrect. Present simple doesn't work for this future offer. -->
 
 ### Explicación Pedagógica
 Cuando tomamos una decisión en el mismo momento en que hablamos (decisión espontánea), usamos "will".
@@ -99,8 +99,8 @@ Cuando tomamos una decisión en el mismo momento en que hablamos (decisión espo
 Look at those dark clouds! It ________ rain very soon.
 
 ### Opciones
-- [ ] A) will <!-- feedback: Incorrect. For predictions with physical evidence, "going to" is better. -->
-- [x] B) is going to <!-- feedback: Correct! We use "going to" for predictions based on what we can see now. -->
+- [ ] B) will <!-- feedback: Incorrect. For predictions with physical evidence, "going to" is better. -->
+- [x] A) is going to <!-- feedback: Correct! We use "going to" for predictions based on what we can see now. -->
 - [ ] C) is raining <!-- feedback: Incorrect. It hasn't started yet. -->
 - [ ] D) will be rain <!-- feedback: Incorrect. Grammatically incorrect structure. -->
 
@@ -162,8 +162,8 @@ I promise I ________ tell anyone your secret. You can trust me.
 Which sentence expresses a **spontaneous offer**?
 
 ### Opciones
-- [ ] A) I am going to help you with that heavy bag. <!-- feedback: Incorrect. This sounds like a previous intention. -->
-- [x] B) I'll help you with that heavy bag. <!-- feedback: Correct! "I'll" (I will) is used for immediate offers. -->
+- [ ] B) I am going to help you with that heavy bag. <!-- feedback: Incorrect. This sounds like a previous intention. -->
+- [x] A) I'll help you with that heavy bag. <!-- feedback: Correct! "I'll" (I will) is used for immediate offers. -->
 - [ ] C) I am helping you with that heavy bag. <!-- feedback: Incorrect. This means you are doing it right now. -->
 - [ ] D) I help you with heavy bags every day. <!-- feedback: Incorrect. This is a routine (Simple Present). -->
 
@@ -185,8 +185,8 @@ According to the school calendar, the final exams ________ on June 15th.
 ### Opciones
 - [ ] A) will start <!-- feedback: Incorrect. For official timetables, Present Simple is preferred. -->
 - [ ] B) are going to start <!-- feedback: Incorrect. Less formal than Present Simple for schedules. -->
-- [x] C) start <!-- feedback: Correct! Present Simple is used for fixed public schedules and calendars. -->
-- [ ] D) are starting <!-- feedback: Incorrect. Present continuous is for personal arrangements. -->
+- [x] D) start <!-- feedback: Correct! Present Simple is used for fixed public schedules and calendars. -->
+- [ ] C) are starting <!-- feedback: Incorrect. Present continuous is for personal arrangements. -->
 
 ### Explicación Pedagógica
 Utilizamos el Presente Simple para eventos futuros que forman parte de un horario u organización fija (calendarios escolares, transporte, etc.).
@@ -205,8 +205,8 @@ I ________ probably ________ home for Christmas this year.
 
 ### Opciones
 - [ ] A) am / going <!-- feedback: Incorrect. "Going to" usually goes before "probably" or sounds awkward here. -->
-- [x] B) will / be <!-- feedback: Correct! "Will probably" is the standard way to show future possibility. -->
-- [ ] C) am / stay <!-- feedback: Incorrect. Grammatically incorrect. -->
+- [x] C) will / be <!-- feedback: Correct! "Will probably" is the standard way to show future possibility. -->
+- [ ] B) am / stay <!-- feedback: Incorrect. Grammatically incorrect. -->
 - [ ] D) will / staying <!-- feedback: Incorrect. After "will", we need the base form. -->
 
 ### Explicación Pedagógica
@@ -228,8 +228,8 @@ Identify the grammatically **incorrect** part of this dialogue:
 
 ### Opciones
 - [ ] A) am going to <!-- feedback: Incorrect. This is a correct expression of intention. -->
-- [ ] B) is bringing <!-- feedback: Incorrect. Correct use of Present Continuous for a future arrangement. -->
-- [x] C) are winning <!-- feedback: Correct! This is an error. For an opinion/prediction, it should be "will win". -->
+- [ ] C) is bringing <!-- feedback: Incorrect. Correct use of Present Continuous for a future arrangement. -->
+- [x] B) are winning <!-- feedback: Correct! This is an error. For an opinion/prediction, it should be "will win". -->
 - [ ] D) is <!-- feedback: Incorrect. Simple present for a fact about the design. -->
 
 ### Explicación Pedagógica
@@ -249,9 +249,9 @@ You are writing an email to a guest speaker for your school. Which question is m
 
 ### Opciones
 - [ ] A) What will you talk about? <!-- feedback: Incorrect. A bit too direct/informal. -->
-- [x] B) Could you please confirm if you will be attending the event next month? <!-- feedback: Correct! Formal, polite, and uses correct future structures. -->
-- [ ] C) Are you going to come or not? <!-- feedback: Incorrect. Very rude/impatient. -->
-- [ ] D) You coming to school? <!-- feedback: Incorrect. Too informal and grammatically incomplete. -->
+- [x] D) Could you please confirm if you will be attending the event next month? <!-- feedback: Correct! Formal, polite, and uses correct future structures. -->
+- [ ] B) Are you going to come or not? <!-- feedback: Incorrect. Very rude/impatient. -->
+- [ ] C) You coming to school? <!-- feedback: Incorrect. Too informal and grammatically incomplete. -->
 
 ### Explicación Pedagógica
 En el nivel B1, se debe saber elegir estructuras futuras corteses (usando modales como "could") para contextos académicos o profesionales.
@@ -270,8 +270,8 @@ En el nivel B1, se debe saber elegir estructuras futuras corteses (usando modale
 What is the main idea?
 
 ### Opciones
-- [x] A) Technology will change work, but human skills will still be needed. <!-- feedback: Correct! It summarizes both the change and what stays the same. -->
-- [ ] B) AI is going to destroy all jobs by the year 2050. <!-- feedback: Incorrect. Too extreme; it doesn't mention creativity. -->
+- [x] B) Technology will change work, but human skills will still be needed. <!-- feedback: Correct! It summarizes both the change and what stays the same. -->
+- [ ] A) AI is going to destroy all jobs by the year 2050. <!-- feedback: Incorrect. Too extreme; it doesn't mention creativity. -->
 - [ ] C) Robots are already doing everyone's homework in schools. <!-- feedback: Incorrect. Not mentioned in the text. -->
 - [ ] D) We don't need to study because AI will do everything. <!-- feedback: Incorrect. Misinterprets the text's message. -->
 

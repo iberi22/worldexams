@@ -51,8 +51,8 @@ Definición de relaciones de orden entre expresiones algebraicas.
 
 ### Opciones
 - [ ] A) Mayor que. <!-- feedback: Incorrecto. Es >. -->
-- [ ] B) Menor estricto. <!-- feedback: Incorrecto. Es <. -->
-- [x] C) Menor o igual. <!-- feedback: Correcto. Incluye el valor límite. -->
+- [ ] C) Menor estricto. <!-- feedback: Incorrecto. Es <. -->
+- [x] B) Menor o igual. <!-- feedback: Correcto. Incluye el valor límite. -->
 - [ ] D) Diferente de. <!-- feedback: Incorrecto. Es ≠. -->
 
 ### Explicacion Pedagogica
@@ -113,8 +113,8 @@ Traducción de desigualdades a notación de intervalos.
 Halla la solución.
 
 ### Opciones
-- [ ] A) x < 23 <!-- feedback: Incorrecto. Sumaste el 8. -->
-- [x] B) x < 7 <!-- feedback: Correcto. $15 - 8 = 7$. -->
+- [ ] B) x < 23 <!-- feedback: Incorrecto. Sumaste el 8. -->
+- [x] A) x < 7 <!-- feedback: Correcto. $15 - 8 = 7$. -->
 - [ ] C) x > 7 <!-- feedback: Incorrecto. No invierte signo. -->
 - [ ] D) x = 7 <!-- feedback: Incorrecto. No es punto único. -->
 
@@ -135,8 +135,8 @@ Conjunto solución.
 
 ### Opciones
 - [ ] A) x >= 3 <!-- feedback: Incorrecto. No sumó 4. -->
-- [x] B) x >= 7 <!-- feedback: Correcto. $2x \geq 14 \implies x \geq 7$. -->
-- [ ] C) x <= 7 <!-- feedback: Incorrecto. Signo errado. -->
+- [x] C) x >= 7 <!-- feedback: Correcto. $2x \geq 14 \implies x \geq 7$. -->
+- [ ] B) x <= 7 <!-- feedback: Incorrecto. Signo errado. -->
 - [ ] D) x > 7 <!-- feedback: Incorrecto. Debe incluir al 7. -->
 
 ### Explicacion Pedagogica
@@ -156,9 +156,9 @@ Pasos secuenciales para despejar la incógnita en una desigualdad.
 
 ### Opciones
 - [ ] A) 4 <!-- feedback: Incorrecto. $480+50 > 500$. -->
-- [x] B) 3 <!-- feedback: Correcto. $360+50 \leq 500$. -->
-- [ ] C) 5 <!-- feedback: Incorrecto. Excede. -->
-- [ ] D) 2 <!-- feedback: Incorrecto. No es el máximo. -->
+- [x] D) 3 <!-- feedback: Correcto. $360+50 \leq 500$. -->
+- [ ] B) 5 <!-- feedback: Incorrecto. Excede. -->
+- [ ] C) 2 <!-- feedback: Incorrecto. No es el máximo. -->
 
 ### Explicacion Pedagogica
 Modelación de restricciones de presupuesto mediante inecuaciones.
@@ -218,8 +218,8 @@ Manejo de inecuaciones de doble frontera.
 ¿Nota mínima x?
 
 ### Opciones
-- [ ] A) 90 <!-- feedback: Incorrecto. Promedio 89. -->
-- [x] B) 93 <!-- feedback: Correcto. Suma 177+93=270; 270/3=90. -->
+- [ ] B) 90 <!-- feedback: Incorrecto. Promedio 89. -->
+- [x] A) 93 <!-- feedback: Correcto. Suma 177+93=270; 270/3=90. -->
 - [ ] C) 95 <!-- feedback: Incorrecto. No es la mínima. -->
 - [ ] D) 88 <!-- feedback: Incorrecto. Insuficiente. -->
 
@@ -240,8 +240,8 @@ Cálculo de valores mínimos requeridos para cumplir una condición promedio.
 
 ### Opciones
 - [ ] A) x >= 3 <!-- feedback: Incorrecto. Sentido errado. -->
-- [x] B) x <= 3 <!-- feedback: Correcto. $3x \leq 9 \implies x \leq 3$. -->
-- [ ] C) x <= 1.5 <!-- feedback: Incorrecto. División errada. -->
+- [x] C) x <= 3 <!-- feedback: Correcto. $3x \leq 9 \implies x \leq 3$. -->
+- [ ] B) x <= 1.5 <!-- feedback: Incorrecto. División errada. -->
 - [ ] D) x >= 9 <!-- feedback: Incorrecto. No agrupó bien. -->
 
 ### Explicacion Pedagogica
@@ -261,8 +261,8 @@ Conjunto solución.
 
 ### Opciones
 - [ ] A) x <= 3 <!-- feedback: Incorrecto. Olvidó negativos. -->
-- [x] B) [-3, 3] <!-- feedback: Correcto. Valores cuyo cuadrado no pasa de 9. -->
-- [ ] C) (-inf, 3] <!-- feedback: Incorrecto. No limitado inferiormente. -->
+- [x] C) [-3, 3] <!-- feedback: Correcto. Valores cuyo cuadrado no pasa de 9. -->
+- [ ] B) (-inf, 3] <!-- feedback: Incorrecto. No limitado inferiormente. -->
 - [ ] D) Solo 3 y -3. <!-- feedback: Incorrecto. Son infinitos reales. -->
 
 ### Explicacion Pedagogica
@@ -303,9 +303,9 @@ Interpretación de símbolos de intervalo en lenguaje algebraico.
 
 ### Opciones
 - [ ] A) Todos. <!-- feedback: Incorrecto. Negativos fallan. -->
-- [x] B) x > 0 <!-- feedback: Correcto. Positivo / positivo = positivo. -->
-- [ ] C) Excepto 0. <!-- feedback: Incorrecto. Negativos fallan. -->
-- [ ] D) x > 1 <!-- feedback: Incorrecto. 0.5 sirve. -->
+- [x] D) x > 0 <!-- feedback: Correcto. Positivo / positivo = positivo. -->
+- [ ] B) Excepto 0. <!-- feedback: Incorrecto. Negativos fallan. -->
+- [ ] C) x > 1 <!-- feedback: Incorrecto. 0.5 sirve. -->
 
 ### Explicacion Pedagogica
 Análisis de signos en cocientes algebraicos.
@@ -323,8 +323,8 @@ Análisis de signos en cocientes algebraicos.
 Solución final.
 
 ### Opciones
-- [ ] A) x >= -5 <!-- feedback: Incorrecto. No invirtió. -->
-- [x] B) x <= -5 <!-- feedback: Correcto. $-2x \geq 10$ invierte a $x \leq -5$. -->
+- [ ] B) x >= -5 <!-- feedback: Incorrecto. No invirtió. -->
+- [x] A) x <= -5 <!-- feedback: Correcto. $-2x \geq 10$ invierte a $x \leq -5$. -->
 - [ ] C) x <= 5 <!-- feedback: Incorrecto. Signo de suma. -->
 - [ ] D) x >= -1 <!-- feedback: Incorrecto. Falló pasos. -->
 
@@ -345,9 +345,9 @@ Combinación de distribución, transposición e inversión de sentido.
 
 ### Opciones
 - [ ] A) 0-15 <!-- feedback: Incorrecto. Subiría demasiado. -->
-- [x] B) 0-3 <!-- feedback: Correcto. $5 \cdot 3 = 15$; $20+15=35$. -->
-- [ ] C) 4-7 <!-- feedback: Incorrecto. Ya fuera de rango. -->
-- [ ] D) Siempre. <!-- feedback: Incorrecto. Sigue subiendo. -->
+- [x] D) 0-3 <!-- feedback: Correcto. $5 \cdot 3 = 15$; $20+15=35$. -->
+- [ ] B) 4-7 <!-- feedback: Incorrecto. Ya fuera de rango. -->
+- [ ] C) Siempre. <!-- feedback: Incorrecto. Sigue subiendo. -->
 
 ### Explicacion Pedagogica
 Aplicación de inecuaciones a procesos técnicos de control.
@@ -365,8 +365,8 @@ Aplicación de inecuaciones a procesos técnicos de control.
 Solución del intervalo.
 
 ### Opciones
-- [ ] A) x < 6 <!-- feedback: Incorrecto. Incompleto. -->
-- [x] B) (2, 6) <!-- feedback: Correcto. Distancia a 4 menor a 2. -->
+- [ ] B) x < 6 <!-- feedback: Incorrecto. Incompleto. -->
+- [x] A) (2, 6) <!-- feedback: Correcto. Distancia a 4 menor a 2. -->
 - [ ] C) (-inf, 2) U (6, inf) <!-- feedback: Incorrecto. Sería para mayor que. -->
 - [ ] D) [2, 6] <!-- feedback: Incorrecto. Desigualdad estricta. -->
 
@@ -387,8 +387,8 @@ Resolución de desigualdades modulares.
 
 ### Opciones
 - [ ] A) (-3, 1) <!-- feedback: Incorrecto. Da negativo. -->
-- [x] B) (-inf, -3) U (1, inf) <!-- feedback: Correcto. Signos iguales para producto positivo. -->
-- [ ] C) [1, inf) <!-- feedback: Incorrecto. Falta tramo negativo. -->
+- [x] C) (-inf, -3) U (1, inf) <!-- feedback: Correcto. Signos iguales para producto positivo. -->
+- [ ] B) [1, inf) <!-- feedback: Incorrecto. Falta tramo negativo. -->
 - [ ] D) Sin solución. <!-- feedback: Incorrecto. Sí hay. -->
 
 ### Explicacion Pedagogica
@@ -408,8 +408,8 @@ Uso de puntos críticos para determinar regiones de solución en productos.
 
 ### Opciones
 - [ ] A) x < -1 <!-- feedback: Incorrecto. (-2)^2+1=5. -->
-- [ ] B) x > 1 <!-- feedback: Incorrecto. 2^2+1=5. -->
-- [x] C) Vacío <!-- feedback: Correcto. Suma de positivos nunca menor a cero. -->
+- [ ] C) x > 1 <!-- feedback: Incorrecto. 2^2+1=5. -->
+- [x] B) Vacío <!-- feedback: Correcto. Suma de positivos nunca menor a cero. -->
 - [ ] D) Todos. <!-- feedback: Incorrecto. Ninguno cumple. -->
 
 ### Explicacion Pedagogica
@@ -428,9 +428,9 @@ Reconocimiento de inecuaciones sin solución en el campo real.
 ¿Punto NO factible?
 
 ### Opciones
-- [ ] A) (10, 20) <!-- feedback: Incorrecto. Cumple ambas. -->
-- [ ] B) (15, 5) <!-- feedback: Incorrecto. Cumple ambas. -->
-- [x] C) (5, 20) <!-- feedback: Correcto. Viola A >= 10. -->
+- [ ] B) (10, 20) <!-- feedback: Incorrecto. Cumple ambas. -->
+- [ ] C) (15, 5) <!-- feedback: Incorrecto. Cumple ambas. -->
+- [x] A) (5, 20) <!-- feedback: Correcto. Viola A >= 10. -->
 - [ ] D) (12, 10) <!-- feedback: Incorrecto. Cumple ambas. -->
 
 ### Explicacion Pedagogica

@@ -32,11 +32,11 @@ Este bundle contiene 10 preguntas sobre **mezclas-separacion** para grado 6, ali
 ### Enunciado
 Una mezcla se diferencia de una sustancia pura porque:
 ### Opciones
-- [x] A) La mezcla está formada por dos o más componentes que conservan sus propiedades.
+- [x] C) La mezcla está formada por dos o más componentes que conservan sus propiedades.
   <!-- feedback: Correcto. Cada componente mantiene sus propiedades. -->
-- [ ] B) La sustancia pura tiene varios componentes.
+- [ ] A) La sustancia pura tiene varios componentes.
   <!-- feedback: Incorrecto. Solo tiene uno. -->
-- [ ] C) La mezcla no se puede separar.
+- [ ] B) La mezcla no se puede separar.
   <!-- feedback: Incorrecto. Se puede separar. -->
 - [ ] D) La sustancia pura cambia de composición.
   <!-- feedback: Incorrecto. Mantiene composición fija. -->
@@ -52,13 +52,13 @@ Las mezclas se clasifican en homogéneas y heterogéneas según su apariencia.
 ### Enunciado
 Una mezcla homogénea es aquella que:
 ### Opciones
-- [x] A) Presenta una sola fase y composición uniforme.
+- [x] D) Presenta una sola fase y composición uniforme.
   <!-- feedback: Correcto. No se distinguen sus componentes a simple vista. -->
-- [ ] B) Tiene componentes visibles.
+- [ ] A) Tiene componentes visibles.
   <!-- feedback: Incorrecto. Sería heterogénea. -->
-- [ ] C) Solo contiene gases.
+- [ ] B) Solo contiene gases.
   <!-- feedback: Incorrecto. Puede ser sólida, líquida o gaseosa. -->
-- [ ] D) Es siempre sólida.
+- [ ] C) Es siempre sólida.
   <!-- feedback: Incorrecto. Hay mezclas homogéneas líquidas. -->
 ### Explicacion Pedagogica
 Ejemplos de mezclas homogéneas son el agua con sal disuelta o el aire.
@@ -92,11 +92,11 @@ En una mezcla heterogénea se distinguen las fases a simple vista o con lupa.
 ### Enunciado
 Para separar agua y aceite se puede usar:
 ### Opciones
-- [x] A) Decantación, porque tienen distinta densidad.
+- [x] C) Decantación, porque tienen distinta densidad.
   <!-- feedback: Correcto. El aceite flota sobre el agua. -->
-- [ ] B) Filtración simple únicamente.
+- [ ] A) Filtración simple únicamente.
   <!-- feedback: Incorrecto. No retiene el aceite. -->
-- [ ] C) Sublimación.
+- [ ] B) Sublimación.
   <!-- feedback: Incorrecto. Ninguno sublima. -->
 - [ ] D) Cromatografía.
   <!-- feedback: Incorrecto. No aplica aquí. -->
@@ -132,9 +132,9 @@ La filtración usa un medio poroso que retiene partículas sólidas.
 ### Enunciado
 La destilación permite separar:
 ### Opciones
-- [x] A) Líquidos con diferentes puntos de ebullición o un sólido disuelto en un líquido.
+- [x] B) Líquidos con diferentes puntos de ebullición o un sólido disuelto en un líquido.
   <!-- feedback: Correcto. Se evapora un componente y se condensa. -->
-- [ ] B) Solo sólidos insolubles.
+- [ ] A) Solo sólidos insolubles.
   <!-- feedback: Incorrecto. Para eso se filtra. -->
 - [ ] C) Mezclas heterogéneas únicamente.
   <!-- feedback: Incorrecto. Funciona también con homogéneas. -->
@@ -152,9 +152,9 @@ La destilación combina evaporación y condensación para purificar líquidos.
 ### Enunciado
 Para separar limaduras de hierro mezcladas con arena se usa:
 ### Opciones
-- [x] A) Imantación, porque el hierro es atraído por el imán.
+- [x] B) Imantación, porque el hierro es atraído por el imán.
   <!-- feedback: Correcto. Las limaduras se adhieren al imán. -->
-- [ ] B) Decantación.
+- [ ] A) Decantación.
   <!-- feedback: Incorrecto. No hay diferencia de densidad suficiente. -->
 - [ ] C) Filtración.
   <!-- feedback: Incorrecto. Ambos sólidos pasarían. -->
@@ -172,13 +172,13 @@ La imantación aprovecha las propiedades magnéticas de algunos materiales.
 ### Enunciado
 Para obtener sal a partir de agua de mar, el método más usado industrialmente es:
 ### Opciones
-- [x] A) Evaporación y cristalización.
+- [x] D) Evaporación y cristalización.
   <!-- feedback: Correcto. El agua se evapora y la sal cristaliza. -->
-- [ ] B) Centrifugación únicamente.
+- [ ] A) Centrifugación únicamente.
   <!-- feedback: Incorrecto. No separa la sal. -->
-- [ ] C) Cromatografía.
+- [ ] B) Cromatografía.
   <!-- feedback: Incorrecto. No escala industrialmente. -->
-- [ ] D) Sublimación.
+- [ ] C) Sublimación.
   <!-- feedback: Incorrecto. La sal no sublima. -->
 ### Explicacion Pedagogica
 La sal marina se obtiene por evaporación solar en grandes extensiones.
@@ -192,9 +192,9 @@ La sal marina se obtiene por evaporación solar en grandes extensiones.
 ### Enunciado
 Para purificar agua contaminada con microorganismos en una zona rural, lo más apropiado es:
 ### Opciones
-- [x] A) Hervirla y/o usar filtros con carbón activado.
+- [x] B) Hervirla y/o usar filtros con carbón activado.
   <!-- feedback: Correcto. Elimina patógenos y mejora sabor. -->
-- [ ] B) Agregar más microorganismos.
+- [ ] A) Agregar más microorganismos.
   <!-- feedback: Incorrecto. Aumenta el riesgo. -->
 - [ ] C) Mezclar con gasolina.
   <!-- feedback: Incorrecto. La contamina más. -->
@@ -212,9 +212,9 @@ El acceso a agua limpia es clave para la salud pública.
 ### Enunciado
 Separar los residuos sólidos urbanos es importante porque:
 ### Opciones
-- [x] A) Permite reciclar, reduce la contaminación y aprovecha los materiales.
+- [x] B) Permite reciclar, reduce la contaminación y aprovecha los materiales.
   <!-- feedback: Correcto. La separación en la fuente es clave. -->
-- [ ] B) Solo incrementa el trabajo en las ciudades.
+- [ ] A) Solo incrementa el trabajo en las ciudades.
   <!-- feedback: Incorrecto. Tiene beneficios ambientales. -->
 - [ ] C) Hace más difícil el reciclaje.
   <!-- feedback: Incorrecto. Lo facilita. -->

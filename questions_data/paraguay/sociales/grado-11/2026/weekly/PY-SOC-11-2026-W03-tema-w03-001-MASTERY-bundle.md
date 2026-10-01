@@ -79,11 +79,11 @@ El departamento Central contiene a las principales ciudades del área metropolit
 ¿Qué característica demográfica principal presenta la estructura de la población paraguaya según la forma de su pirámide poblacional?
 
 ### Opciones
-- [x] A) Se caracteriza por ser una población mayoritariamente joven, aunque se observa un paulatino proceso de transición demográfica con reducción de la natalidad
+- [x] C) Se caracteriza por ser una población mayoritariamente joven, aunque se observa un paulatino proceso de transición demográfica con reducción de la natalidad
   <!-- feedback: Correcto. La pirámide posee una base ancha por la juventud de su población, aunque se encamina hacia una transición con caída paulatina de la tasa global de fecundidad. -->
-- [ ] B) Es una estructura sumamente envejecida donde los mayores de 80 años constituyen el 60% de la población total
+- [ ] A) Es una estructura sumamente envejecida donde los mayores de 80 años constituyen el 60% de la población total
   <!-- feedback: Incorrecto. El envejecimiento demográfico paraguayo es incipiente, manteniéndose un bono demográfico caracterizado por alta juventud laboral. -->
-- [ ] C) Presenta una tasa de natalidad nula de cero nacimientos anuales en todo el territorio
+- [ ] B) Presenta una tasa de natalidad nula de cero nacimientos anuales en todo el territorio
   <!-- feedback: Incorrecto. Paraguay mantiene tasas de crecimiento vegetativo positivas y dinámicas, alejándose de un escenario de natalidad nula. -->
 - [ ] D) La población está compuesta de manera exclusiva por habitantes originarios del continente asiático
   <!-- feedback: Incorrecto. La población paraguaya posee un fuerte mestizaje hispano-guaraní originario, enriquecido por corrientes migratorias europeas y de otros países. -->
@@ -102,9 +102,9 @@ La población del Paraguay es predominantemente joven, gozando actualmente del d
 ¿Qué particularidad sociolingüística singular presenta el uso de la lengua guaraní en el Paraguay contemporáneo en comparación con otras lenguas indígenas de América Latina?
 
 ### Opciones
-- [x] A) Es ampliamente hablada por la población no indígena y mestiza de todos los estratos sociales, tanto en zonas rurales como urbanas
+- [x] B) Es ampliamente hablada por la población no indígena y mestiza de todos los estratos sociales, tanto en zonas rurales como urbanas
   <!-- feedback: Correcto. El guaraní paraguayo trascendió las fronteras de las comunidades nativas para consolidarse como idioma de uso cotidiano de la gran mayoría de la población nacional mestiza. -->
-- [ ] B) Su uso está restringido de forma exclusiva a pequeños rituales religiosos en el departamento de Boquerón
+- [ ] A) Su uso está restringido de forma exclusiva a pequeños rituales religiosos en el departamento de Boquerón
   <!-- feedback: Incorrecto. El guaraní es oficial, se enseña en escuelas y se emplea a diario por millones de habitantes en todo el Paraguay. -->
 - [ ] C) Solo se escribe utilizando caracteres chinos mandaranes importados por vía comercial
   <!-- feedback: Incorrecto. El guaraní posee su propio alfabeto fonético estandarizado de base latina (achegety), consolidado por lingüistas y la academia de la lengua. -->
@@ -125,11 +125,11 @@ El guaraní paraguayo es un caso de bilingüismo extendido único en América, y
 ¿Cuáles han sido históricamente los principales destinos de emigración de los trabajadores paraguayos en busca de mejores oportunidades laborales y salariales?
 
 ### Opciones
-- [x] A) Argentina (principalmente Buenos Aires) y España (principalmente Madrid y Barcelona)
+- [x] C) Argentina (principalmente Buenos Aires) y España (principalmente Madrid y Barcelona)
   <!-- feedback: Correcto. La vecina Argentina ha albergado históricamente la mayor colectividad paraguaya en el exterior, seguida en este siglo por España por facilidades idiomáticas y laborales. -->
-- [ ] B) Rusia, China y los países de la península escandinava
+- [ ] A) Rusia, China y los países de la península escandinava
   <!-- feedback: Incorrecto. La distancia geográfica, idiomática y las exigencias de visados limitaron las migraciones masivas de trabajadores paraguayos a estos destinos lejanos. -->
-- [ ] C) Ecuador, Bolivia y los pequeños Estados de la Polinesia
+- [ ] B) Ecuador, Bolivia y los pequeños Estados de la Polinesia
   <!-- feedback: Incorrecto. No constituyen flujos migratorios de gran volumen numérico ni destinos tradicionales históricos para los emigrantes del país. -->
 - [ ] D) De manera exclusiva el territorio deshabitado de la Antártida
   <!-- feedback: Incorrecto. La Antártida es un continente de investigación científica sin población civil permanente y carente de flujos de emigración laboral paraguaya. -->
@@ -171,13 +171,13 @@ El jopará es la forma coloquial predominante de comunicación en el país, cons
 ¿Qué factor de infraestructura vial impulsó notablemente el poblamiento y la consolidación de nuevos centros urbanos en los departamentos de Caaguazú y Alto Paraná a partir de la segunda mitad del siglo XX?
 
 ### Opciones
-- [x] A) La construcción de la Ruta Nacional N° 2 (antiguas Rutas 2 y 7) que unió Asunción con Ciudad del Este y conectó con el puente de la Amistad hacia el Brasil
+- [x] D) La construcción de la Ruta Nacional N° 2 (antiguas Rutas 2 y 7) que unió Asunción con Ciudad del Este y conectó con el puente de la Amistad hacia el Brasil
   <!-- feedback: Correcto. Este corredor vial de exportación e importación abrió vastas tierras boscosas a la colonización agrícola y el surgimiento de pujantes ciudades. -->
-- [ ] B) La excavación de un canal navegable transcontinental que unió la cordillera de Amambay con el mar Caribe
+- [ ] A) La excavación de un canal navegable transcontinental que unió la cordillera de Amambay con el mar Caribe
   <!-- feedback: Incorrecto. No se construyó tal canal hidráulico transcontinental que cruzara por la cordillera norteña con el Caribe. -->
-- [ ] C) La implantación obligatoria de vías de tren bala ultrasónicos por parte de los imperios coloniales europeos
+- [ ] B) La implantación obligatoria de vías de tren bala ultrasónicos por parte de los imperios coloniales europeos
   <!-- feedback: Incorrecto. Paraguay posee una rica historia ferroviaria (ferrocarril Carlos Antonio López) pero no contó con trenes bala supersónicos de potencias imperiales en su poblamiento esteño. -->
-- [ ] D) La prohibición de circular en carretas para obligar a usar carruajes tirados por elefantes asiáticos
+- [ ] C) La prohibición de circular en carretas para obligar a usar carruajes tirados por elefantes asiáticos
   <!-- feedback: Incorrecto. Planteamiento fantasioso sin asidero histórico, geográfico ni biológico en la colonización del este paraguayo. -->
 
 ### Explicacion Pedagogica
@@ -194,9 +194,9 @@ La conexión terrestre este-oeste por carretera fue el catalizador del dinamismo
 ¿Cómo se conoce habitualmente a los productores y colonos brasileños y sus descendientes establecidos principalmente en los departamentos de Alto Paraná, Canindeyú y Amambay para dedicarse a la producción de soja?
 
 ### Opciones
-- [x] A) Los brasiguayos
+- [x] B) Los brasiguayos
   <!-- feedback: Correcto. 'Brasiguayos' es el término sociológico y popular que designa a los inmigrantes de origen brasileño y sus hijos nacidos en suelo paraguayo dedicados a actividades del agro. -->
-- [ ] B) Los bandeirantes históricos
+- [ ] A) Los bandeirantes históricos
   <!-- feedback: Incorrecto. Los bandeirantes eran exploradores coloniales paulistas del siglo XVII y XVIII que incursionaban cazando indígenas guaraníes de las misiones. -->
 - [ ] C) Los gauchos riograndenses
   <!-- feedback: Incorrecto. Designa al habitante del campo de Río Grande del Sur, pero no define el fenómeno demográfico híbrido transfronterizo del este del país. -->
@@ -217,13 +217,13 @@ El fenómeno demográfico 'brasiguayo' se consolidó en los años 1970 y 1980 a 
 ¿Cuál es la principal causa que motiva a las familias rurales del Paraguay a migrar hacia el departamento Central y los centros urbanos de la Gran Asunción?
 
 ### Opciones
-- [x] A) La búsqueda de mejores empleos en el sector de comercio y servicios, sumada a la mayor oferta de servicios de salud, educación y la falta de tierras agrícolas para los jóvenes
+- [x] D) La búsqueda de mejores empleos en el sector de comercio y servicios, sumada a la mayor oferta de servicios de salud, educación y la falta de tierras agrícolas para los jóvenes
   <!-- feedback: Correcto. El minifundio improductivo y la mecanización agrícola expulsan mano de obra rural hacia los cinturones metropolitanos que concentran servicios y ofertas laborales informales. -->
-- [ ] B) La inundación volcánica permanente de todos los campos de cultivo del interior del país
+- [ ] A) La inundación volcánica permanente de todos los campos de cultivo del interior del país
   <!-- feedback: Incorrecto. Las tierras rurales paraguayas son fértiles y estables geológicamente; las inundaciones de ríos son locales y no volcánicas. -->
-- [ ] C) La prohibición constitucional de consumir mandioca en las fincas familiares del interior
+- [ ] B) La prohibición constitucional de consumir mandioca en las fincas familiares del interior
   <!-- feedback: Incorrecto. La mandioca es el alimento primordial de consumo y sustento diario nacional, de ninguna manera está prohibida. -->
-- [ ] D) La obligación estatal de residir en departamentos que tengan cines ultrasónicos en 3D
+- [ ] C) La obligación estatal de residir en departamentos que tengan cines ultrasónicos en 3D
   <!-- feedback: Incorrecto. No existe ninguna medida gubernamental autoritaria o directiva de traslado vinculada al acceso de cines modernos de entretenimiento. -->
 
 ### Explicacion Pedagogica
@@ -240,13 +240,13 @@ La migración campo-ciudad en Paraguay está determinada por la asimetría de de
 A pesar del predominio de la lengua oficial guaraní de origen andino-amazónico, ¿cuántos pueblos indígenas organizados habitan aproximadamente en Paraguay, distribuidos en varias familias lingüísticas distintas?
 
 ### Opciones
-- [x] A) Aproximadamente 19 pueblos indígenas distribuidos en 5 familias lingüísticas (Guaraní, Maskoy, Mataco-Mataguayo, Zamuco y Lengua-Enlhet)
+- [x] D) Aproximadamente 19 pueblos indígenas distribuidos en 5 familias lingüísticas (Guaraní, Maskoy, Mataco-Mataguayo, Zamuco y Lengua-Enlhet)
   <!-- feedback: Correcto. El Paraguay posee una rica diversidad de pueblos originarios que conservan lenguas propias, no limitadas de forma exclusiva al guaraní mestizo. -->
-- [ ] B) Solo existe un único pueblo indígena que reside de forma exclusiva en el centro de Asunción
+- [ ] A) Solo existe un único pueblo indígena que reside de forma exclusiva en el centro de Asunción
   <!-- feedback: Incorrecto. Existen múltiples pueblos originarios de riquísima cultura y lenguas que habitan tanto la Región Oriental como el Chaco. -->
-- [ ] C) Existen más de 5000 pueblos indígenas que hablan dialectos europeos y germánicos medievales
+- [ ] B) Existen más de 5000 pueblos indígenas que hablan dialectos europeos y germánicos medievales
   <!-- feedback: Incorrecto. La población indígena paraguaya pertenece a familias lingüísticas netamente americanas prehispánicas, no de procedencia germánica europea medieval. -->
-- [ ] D) Todos los pueblos indígenas emigraron de forma definitiva a las costas de Chile en el siglo XVIII
+- [ ] C) Todos los pueblos indígenas emigraron de forma definitiva a las costas de Chile en el siglo XVIII
   <!-- feedback: Incorrecto. Los pueblos originarios paraguayos siguen residiendo en sus territorios ancestrales del país y resistiendo presiones agroexportadoras. -->
 
 ### Explicacion Pedagogica
@@ -263,9 +263,9 @@ La diversidad de pueblos indígenas (como los Nivaclé, Ayoreo o Maká) compleme
 A pesar del reconocimiento oficial del guaraní, ¿cuál es una manifestación persistente de la diglosia en el Paraguay contemporáneo?
 
 ### Opciones
-- [x] A) La tendencia a preferir formalmente el castellano en los ámbitos jurídicos, académicos y de administración oficial del Estado, relegando al guaraní mayormente a la oralidad coloquial o familiar
+- [x] B) La tendencia a preferir formalmente el castellano en los ámbitos jurídicos, académicos y de administración oficial del Estado, relegando al guaraní mayormente a la oralidad coloquial o familiar
   <!-- feedback: Correcto. La diglosia implica el uso asimétrico de dos lenguas donde una goza de mayor estatus formal o escrito en ámbitos de poder e instituciones del Estado frente al uso informal de la otra. -->
-- [ ] B) La prohibición de emitir programas de radio o televisión empleando el idioma castellano
+- [ ] A) La prohibición de emitir programas de radio o televisión empleando el idioma castellano
   <!-- feedback: Incorrecto. Los medios paraguayos emplean abundantemente ambos idiomas de manera abierta sin prohibiciones al castellano. -->
 - [ ] C) La exigencia legal de redactar todas las leyes únicamente en dialecto alemán plautdietsch
   <!-- feedback: Incorrecto. Las leyes paraguayas se redactan en castellano y se traducen de forma progresiva al guaraní, no al plautdietsch de origen germánico. -->
@@ -286,13 +286,13 @@ La superación de la diglosia requiere la efectiva implementación de la Ley de 
 Desde el punto de vista demográfico y de exclusión socioespacial, ¿cuál es la causa estructural de la formación de los cinturones de pobreza periurbanos y los 'bañados' en Asunción?
 
 ### Opciones
-- [x] A) La migración de familias campesinas desplazadas de sus tierras que se asientan en zonas inundables fiscales por falta de políticas de vivienda social e inserción urbana planificada
+- [x] D) La migración de familias campesinas desplazadas de sus tierras que se asientan en zonas inundables fiscales por falta de políticas de vivienda social e inserción urbana planificada
   <!-- feedback: Correcto. Los bañados de Asunción albergan población rural migrante de escasos recursos que se establece de manera precaria sobre planicies de inundación del río Paraguay. -->
-- [ ] B) La decisión voluntaria de la élite de Asunción de mudarse a zonas insalubres para pagar menos impuestos de alcantarillado
+- [ ] A) La decisión voluntaria de la élite de Asunción de mudarse a zonas insalubres para pagar menos impuestos de alcantarillado
   <!-- feedback: Incorrecto. Los bañados son asentamientos habitados por sectores populares vulnerables empujados por la marginación, no por la élite económica. -->
-- [ ] C) Un decreto del presidente de la República que prohíbe de forma perpetua construir casas en terrenos firmes y elevados de Luque
+- [ ] B) Un decreto del presidente de la República que prohíbe de forma perpetua construir casas en terrenos firmes y elevados de Luque
   <!-- feedback: Incorrecto. No existe tal decreto restrictivo o autoritario que fuerce la precariedad habitacional en zonas de inundación. -->
-- [ ] D) La presencia de pozos de petróleo subterráneo que obligan a cavar en las riberas del río Paraguay
+- [ ] C) La presencia de pozos de petróleo subterráneo que obligan a cavar en las riberas del río Paraguay
   <!-- feedback: Incorrecto. Paraguay no destaca por producción petrolífera comercial subterránea y los bañados son zonas residenciales populares, no petroleras. -->
 
 ### Explicacion Pedagogica
@@ -309,11 +309,11 @@ Los bañados asuncenos ilustran la segregación espacial urbana resultante de co
 ¿Qué factor de organización cooperativa y cohesión socio-religiosa permitió a los inmigrantes menonitas prosperar productivamente en el hostil ecosistema del Chaco Central?
 
 ### Opciones
-- [x] A) El establecimiento de un modelo cooperativo interno rígido de producción, apoyo mutuo financiero e inversión en infraestructura láctea y cárnica
+- [x] C) El establecimiento de un modelo cooperativo interno rígido de producción, apoyo mutuo financiero e inversión en infraestructura láctea y cárnica
   <!-- feedback: Correcto. El cooperativismo menonita centralizó el procesamiento industrial y la comercialización de su producción, convirtiendo al Chaco en un gran polo agroindustrial paraguayo. -->
-- [ ] B) La importación de mano de obra esclava caribeña bajo la supervisión de las fuerzas militares de la corona española
+- [ ] A) La importación de mano de obra esclava caribeña bajo la supervisión de las fuerzas militares de la corona española
   <!-- feedback: Incorrecto. Los menonitas ingresaron a partir de la década de 1920 bajo leyes republicanas de libertad de culto y exención militar, sin usar mano de obra esclava colonial. -->
-- [ ] C) El desvío permanente de las corrientes de agua del río Paraná para inundar el Chaco de forma artificial
+- [ ] B) El desvío permanente de las corrientes de agua del río Paraná para inundar el Chaco de forma artificial
   <!-- feedback: Incorrecto. El Chaco menonita carece de agua superficial del Paraná; el agua se almacena penosamente de lluvias o pozos profundos de agua salobre. -->
 - [ ] D) La supresión absoluta del idioma alemán para hablar únicamente guaraní jopará
   <!-- feedback: Incorrecto. Los menonitas del Chaco conservan activamente su idioma plautdietsch y alemán estándar para sus cultos e intercambios internos comunitarios. -->
@@ -332,13 +332,13 @@ El cooperativismo es la columna vertebral de la prosperidad de las colonias meno
 Desde el punto de vista macroeconómico y familiar, ¿qué rol desempeñan las remesas de divisas enviadas por la diáspora paraguaya establecida en España y Argentina?
 
 ### Opciones
-- [x] A) Constituyen un importante sustento de consumo para los hogares de menores ingresos, financiando alimentación, educación de hijos y pequeñas mejoras de vivienda
+- [x] D) Constituyen un importante sustento de consumo para los hogares de menores ingresos, financiando alimentación, educación de hijos y pequeñas mejoras de vivienda
   <!-- feedback: Correcto. Las remesas alivian de forma directa la pobreza de miles de familias paraguayas y representan una inyección importante de moneda extranjera en la economía local. -->
-- [ ] B) Se destinan en su totalidad a financiar la compra de flotas de satélites espaciales militares para el país
+- [ ] A) Se destinan en su totalidad a financiar la compra de flotas de satélites espaciales militares para el país
   <!-- feedback: Incorrecto. Las remesas son recursos familiares privados y no se canalizan para gastos de satélites espaciales o armamento militar estatal. -->
-- [ ] C) Provocan la quiebra absoluta y obligatoria de todos los bancos locales por falta de moneda nacional
+- [ ] B) Provocan la quiebra absoluta y obligatoria de todos los bancos locales por falta de moneda nacional
   <!-- feedback: Incorrecto. Al contrario, las remesas dinamizan la banca comercial nacional y la red cambiaria de transacciones financieras del país. -->
-- [ ] D) Se canjean exclusivamente por oro que se entierra en cofres en el cerro Tres Kandu
+- [ ] C) Se canjean exclusivamente por oro que se entierra en cofres en el cerro Tres Kandu
   <!-- feedback: Incorrecto. Las divisas extranjeras se ingresan y consumen libremente en el comercio legal cotidiano, no se entierran ritualmente en cofres. -->
 
 ### Explicacion Pedagogica
@@ -355,13 +355,13 @@ La migración económica al exterior actúa como válvula de escape al desempleo
 Aparte de los españoles, ¿qué corrientes de inmigrantes europeos, asiáticos y americanos influyeron de forma significativa en el desarrollo comercial, agrícola e industrial de Paraguay?
 
 ### Opciones
-- [x] A) Italianos, alemanes, menonitas, japoneses, sirio-libaneses y, más recientemente, colonos brasileños
+- [x] D) Italianos, alemanes, menonitas, japoneses, sirio-libaneses y, más recientemente, colonos brasileños
   <!-- feedback: Correcto. Estas colectividades fundaron colonias agrícolas (como los japoneses en La Colmena o alemanes en San Bernardino) y dinamizaron el comercio y la agricultura nacional. -->
-- [ ] B) Migraciones masivas de esquimales de Groenlandia y aborígenes australianos nómadas
+- [ ] A) Migraciones masivas de esquimales de Groenlandia y aborígenes australianos nómadas
   <!-- feedback: Incorrecto. No se registraron corrientes inmigratorias masivas procedentes del Ártico de Groenlandia o de los desiertos australianos en la historia paraguaya. -->
-- [ ] C) Monjes budistas del Tíbet que fundaron industrias de acero templado en el departamento del Chaco
+- [ ] B) Monjes budistas del Tíbet que fundaron industrias de acero templado en el departamento del Chaco
   <!-- feedback: Incorrecto. La inmigración del Chaco fue mayormente menonita o de ganaderos paraguayos, sin fundaciones industriales budistas de acero. -->
-- [ ] D) La inmigración forzada de piratas del Caribe de los siglos XVII y XVIII
+- [ ] C) La inmigración forzada de piratas del Caribe de los siglos XVII y XVIII
   <!-- feedback: Incorrecto. Es un completo anacronismo e inexactitud histórica ajena a las corrientes demográficas modernas de colonización legal en el país. -->
 
 ### Explicacion Pedagogica
@@ -378,9 +378,9 @@ La inmigración selectiva y espontánea del siglo XX contribuyó a la diversific
 Al analizar la convivencia del castellano, el guaraní, el plautdietsch y las lenguas nativas locales en el Chaco paraguayo, ¿cuál es el mayor desafío para lograr una verdadera política de salud y educación intercultural?
 
 ### Opciones
-- [x] A) Garantizar servicios públicos traducidos y adaptados a las pautas culturales de cada pueblo respetando sus lenguas nativas, superando barreras idiomáticas históricas
+- [x] B) Garantizar servicios públicos traducidos y adaptados a las pautas culturales de cada pueblo respetando sus lenguas nativas, superando barreras idiomáticas históricas
   <!-- feedback: Correcto. La educación escolar básica y la atención médica deben respetar la lengua materna de los diversos pueblos para asegurar eficacia y derechos humanos. -->
-- [ ] B) Imponer el uso obligatorio y exclusivo del inglés en todas las transacciones informales del Chaco
+- [ ] A) Imponer el uso obligatorio y exclusivo del inglés en todas las transacciones informales del Chaco
   <!-- feedback: Incorrecto. Imponer una lengua extranjera ajena a las comunidades empeoraría los niveles de exclusión social en la región chaqueña. -->
 - [ ] C) Suprimir todas las lenguas indígenas para homogeneizar de forma forzosa a toda la población en el dialecto de las colonias menonitas
   <!-- feedback: Incorrecto. La asimilación o el exterminio de las lenguas indígenas violan los principios de pluralismo garantizados constitucionalmente. -->
@@ -424,13 +424,13 @@ La reforma educativa paraguaya introdujo la educación bilingüe (castellano/gua
 Al juzgar el impacto del bono demográfico paraguayo en el desarrollo socioeconómico actual, ¿cuál de las siguientes condiciones es la más imperativa para que el país aproveche verdaderamente esta ventaja temporal de tener una población mayoritariamente joven?
 
 ### Opciones
-- [x] A) Realizar masivas inversiones públicas en la calidad de la educación técnica, universitaria y de salud, y crear oportunidades de empleo formal de calidad para los jóvenes que ingresan al mercado de trabajo
+- [x] D) Realizar masivas inversiones públicas en la calidad de la educación técnica, universitaria y de salud, y crear oportunidades de empleo formal de calidad para los jóvenes que ingresan al mercado de trabajo
   <!-- feedback: Correcto. Contar con una gran masa de población en edad de trabajar solo se traduce en crecimiento si existen capacitación laboral adecuada y puestos de empleo formal estructurados, de lo contrario se estimula el subempleo y la emigración. -->
-- [ ] B) Decretar la jubilación forzada de todos los paraguayos mayores de 30 años para dejar los empleos a adolescentes sin escolaridad
+- [ ] A) Decretar la jubilación forzada de todos los paraguayos mayores de 30 años para dejar los empleos a adolescentes sin escolaridad
   <!-- feedback: Incorrecto. Esto destruiría el sistema de previsión social familiar y privaría al país de trabajadores experimentados, precarizando la producción general. -->
-- [ ] C) Subvencionar la emigración masiva e ininterrumpida de todos los jóvenes paraguayos hacia los desiertos del norte de África
+- [ ] B) Subvencionar la emigración masiva e ininterrumpida de todos los jóvenes paraguayos hacia los desiertos del norte de África
   <!-- feedback: Incorrecto. Fomentar la pérdida definitiva de capital humano de jóvenes talentos agravaría el subdesarrollo y deprimiría las dinámicas productivas locales. -->
-- [ ] D) Prohibir de forma absoluta e inmediata la apertura de fábricas industriales y universidades técnicas en el país
+- [ ] C) Prohibir de forma absoluta e inmediata la apertura de fábricas industriales y universidades técnicas en el país
   <!-- feedback: Incorrecto. Es un planteamiento que anula cualquier posibilidad de desarrollo económico agrario o urbano moderno para la juventud paraguaya. -->
 
 ### Explicacion Pedagogica
@@ -447,13 +447,13 @@ El bono demográfico es una ventana de oportunidad temporal de algunas décadas 
 Al evaluar la correlación entre la estructura latifundista del agro mecanizado y la exclusión social, ¿cuál es la principal crítica sociológica que asocia la gran propiedad agraria con la migración desordenada de la población rural?
 
 ### Opciones
-- [x] A) Que la expansión del cultivo masivo mecanizado de soja adquiere pequeñas parcelas de la agricultura familiar campesina, reduciendo la superficie para cultivos de subsistencia y empujando a los campesinos hacia los cinturones informales urbanos
+- [x] D) Que la expansión del cultivo masivo mecanizado de soja adquiere pequeñas parcelas de la agricultura familiar campesina, reduciendo la superficie para cultivos de subsistencia y empujando a los campesinos hacia los cinturones informales urbanos
   <!-- feedback: Correcto. El agro extensivo mecanizado requiere poca mano de obra directa. Al expandirse, presiona sobre los minifundios minifundistas tradicionales obligando al éxodo de familias rurales campesinas por pérdida de arraigo. -->
-- [ ] B) Que los grandes propietarios de tierra obligan a los campesinos a estudiar el idioma guaraní de forma exclusiva bajo pena de destierro fluvial
+- [ ] A) Que los grandes propietarios de tierra obligan a los campesinos a estudiar el idioma guaraní de forma exclusiva bajo pena de destierro fluvial
   <!-- feedback: Incorrecto. Los campesinos ya dominan el guaraní como lengua nativa materna tradicional; la expulsión no se origina por imposiciones lingüísticas. -->
-- [ ] C) Que la mecanización agrícola del agro ha provocado que todas las tierras rurales del este se vuelvan desiertos de sal donde no crece ningún cultivo vegetal
+- [ ] B) Que la mecanización agrícola del agro ha provocado que todas las tierras rurales del este se vuelvan desiertos de sal donde no crece ningún cultivo vegetal
   <!-- feedback: Incorrecto. Las tierras orientales son fértiles para cultivos como la soja y el trigo; el conflicto es de orden social distributivo y no de desertificación por salinización química total. -->
-- [ ] D) La prohibición gubernamental de utilizar tractores modernos para forzar el uso de herramientas de piedra de la era de piedra andina
+- [ ] C) La prohibición gubernamental de utilizar tractores modernos para forzar el uso de herramientas de piedra de la era de piedra andina
   <!-- feedback: Incorrecto. Paraguay destaca por utilizar alta tecnología en el sector del agro de exportación; el debate se enfoca en la exclusión de pequeños productores agrarios tradicionales. -->
 
 ### Explicacion Pedagogica
@@ -470,13 +470,13 @@ La concentración de la propiedad rural de la tierra es uno de los factores estr
 Al evaluar críticamente las amenazas contemporáneas que enfrenta la preservación de la lengua guaraní paraguaya en la era digital y de comunicaciones globales, ¿cuál de los siguientes diagnósticos resulta el más pertinente?
 
 ### Opciones
-- [x] A) La escasez de contenidos formales y educativos de calidad en internet, sumada a la influencia dominante del inglés y español en redes sociales y la tecnología digital, lo que desincentiva la lectoescritura del guaraní en la juventud urbana
+- [x] D) La escasez de contenidos formales y educativos de calidad en internet, sumada a la influencia dominante del inglés y español en redes sociales y la tecnología digital, lo que desincentiva la lectoescritura del guaraní en la juventud urbana
   <!-- feedback: Correcto. La era digital demanda la presencia activa de las lenguas nativas en el desarrollo de interfaces y contenidos virtuales; de lo contrario, su utilidad se reduce al habla informal relegada de la globalización. -->
-- [ ] B) La prohibición gubernamental explícita de hablar guaraní a través de teléfonos inteligentes y redes sociales en todo el territorio
+- [ ] A) La prohibición gubernamental explícita de hablar guaraní a través de teléfonos inteligentes y redes sociales en todo el territorio
   <!-- feedback: Incorrecto. No existen prohibiciones gubernamentales; la Ley de Lenguas y la Secretaría de Políticas Lingüísticas alientan activamente su uso digital. -->
-- [ ] C) El rechazo absoluto de todos los círculos intelectuales europeos para que el guaraní sea estudiado en universidades extranjeras
+- [ ] B) El rechazo absoluto de todos los círculos intelectuales europeos para que el guaraní sea estudiado en universidades extranjeras
   <!-- feedback: Incorrecto. Al contrario, el guaraní paraguayo es objeto de enorme interés lingüístico y filológico en círculos académicos universitarios de todo el mundo. -->
-- [ ] D) El desvanecimiento físico del alfabeto latino que impide escribir palabras que lleven vocales nasales en computadoras modernas
+- [ ] C) El desvanecimiento físico del alfabeto latino que impide escribir palabras que lleven vocales nasales en computadoras modernas
   <!-- feedback: Incorrecto. La informática moderna y los caracteres Unicode permiten tipificar perfectamente las vocales nasales de la ortografía oficial del guaraní sin problemas físicos. -->
 
 ### Explicacion Pedagogica

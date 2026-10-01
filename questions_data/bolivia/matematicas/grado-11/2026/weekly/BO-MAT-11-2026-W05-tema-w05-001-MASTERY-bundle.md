@@ -34,9 +34,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Cuál es la forma general de una ecuación lineal de primer grado con una sola variable?
 
 ### Opciones
-- [x] A) ax + b = 0, con a distinto de cero <!-- feedback: ¡Correcto! Esta ecuación tiene grado 1 respecto a la variable x, y su solución es única y real si a != 0. -->
-- [ ] B) ax^2 + bx + c = 0 <!-- feedback: Incorrecto. Esta es la forma general de una ecuación cuadrática, de segundo grado. -->
-- [ ] C) ax + by + c = 0 <!-- feedback: Incorrecto. Esta es una ecuación lineal con dos variables, no con una. -->
+- [x] C) ax + b = 0, con a distinto de cero <!-- feedback: ¡Correcto! Esta ecuación tiene grado 1 respecto a la variable x, y su solución es única y real si a != 0. -->
+- [ ] A) ax^2 + bx + c = 0 <!-- feedback: Incorrecto. Esta es la forma general de una ecuación cuadrática, de segundo grado. -->
+- [ ] B) ax + by + c = 0 <!-- feedback: Incorrecto. Esta es una ecuación lineal con dos variables, no con una. -->
 - [ ] D) a/x + b = 0 <!-- feedback: Incorrecto. Esta es una ecuación racional, no una ecuación lineal pura de primer grado. -->
 
 ### Explicacion Pedagogica
@@ -54,8 +54,8 @@ Una ecuación lineal de primer grado con una variable se escribe en la forma ax 
 ¿Cuál es el valor que toma la variable x al resolver la ecuación lineal básica x / 2 + 5 = 11?
 
 ### Opciones
-- [x] A) 12 <!-- feedback: ¡Correcto! Restando 5 a ambos lados se obtiene x / 2 = 6, y multiplicando por 2 resulta x = 12. -->
-- [ ] B) 8 <!-- feedback: Incorrecto. Si x = 8, 8 / 2 + 5 = 4 + 5 = 9, no 11. -->
+- [x] B) 12 <!-- feedback: ¡Correcto! Restando 5 a ambos lados se obtiene x / 2 = 6, y multiplicando por 2 resulta x = 12. -->
+- [ ] A) 8 <!-- feedback: Incorrecto. Si x = 8, 8 / 2 + 5 = 4 + 5 = 9, no 11. -->
 - [ ] C) 3 <!-- feedback: Incorrecto. Dividiste de forma errónea los términos del despeje. -->
 - [ ] D) 6 <!-- feedback: Incorrecto. Olvidaste multiplicar por 2 al despejar la fracción del miembro izquierdo. -->
 
@@ -74,8 +74,8 @@ Restando 5 en ambos miembros obtenemos x / 2 = 6. Multiplicando ambos lados por 
 Si sumamos 3 al doble de un número real x se obtiene 15. ¿Cuál ecuación lineal describe este enunciado?
 
 ### Opciones
-- [x] A) 2x + 3 = 15 <!-- feedback: ¡Correcto! El doble de un número es 2x, y sumándole 3 es 2x + 3. Igualando a 15 resulta 2x + 3 = 15. -->
-- [ ] B) 3x + 2 = 15 <!-- feedback: Incorrecto. Escribiste el triple del número más dos, lo cual contradice el enunciado. -->
+- [x] B) 2x + 3 = 15 <!-- feedback: ¡Correcto! El doble de un número es 2x, y sumándole 3 es 2x + 3. Igualando a 15 resulta 2x + 3 = 15. -->
+- [ ] A) 3x + 2 = 15 <!-- feedback: Incorrecto. Escribiste el triple del número más dos, lo cual contradice el enunciado. -->
 - [ ] C) 2(x + 3) = 15 <!-- feedback: Incorrecto. Esta ecuación representa el doble de la suma de x y 3, no el doble de x más 3. -->
 - [ ] D) x^2 + 3 = 15 <!-- feedback: Incorrecto. Elevaste la variable al cuadrado en lugar de multiplicarla por 2. -->
 
@@ -94,9 +94,9 @@ Tradiciendo al lenguaje algebraico: 'el doble de un número x' es 2x. 'Sumamos 3
 Resuelva la ecuación lineal: 4x - 20 = 3x + 8. ¿Cuál es el valor de x?
 
 ### Opciones
-- [x] A) 28 <!-- feedback: ¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x. -->
-- [ ] B) 4 <!-- feedback: Incorrecto. Error al despejar los coeficientes reales de la ecuación. -->
-- [ ] C) 0 <!-- feedback: Incorrecto. La variable no se anula por completo en este sistema. -->
+- [x] C) 28 <!-- feedback: ¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x. -->
+- [ ] A) 4 <!-- feedback: Incorrecto. Error al despejar los coeficientes reales de la ecuación. -->
+- [ ] B) 0 <!-- feedback: Incorrecto. La variable no se anula por completo en este sistema. -->
 - [ ] D) -4 <!-- feedback: Incorrecto. Error de signos en las constantes de la ecuación. -->
 
 ### Explicacion Pedagogica
@@ -134,10 +134,10 @@ Agrupando los términos con variable x del lado izquierdo y los independientes a
 Resuelva la ecuación lineal: 6x - 30 = 5x + 12. ¿Cuál es el valor de x?
 
 ### Opciones
-- [x] A) 42 <!-- feedback: ¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x. -->
-- [ ] B) 6 <!-- feedback: Incorrecto. Error al despejar los coeficientes reales de la ecuación. -->
-- [ ] C) 0 <!-- feedback: Incorrecto. La variable no se anula por completo en este sistema. -->
-- [ ] D) -6 <!-- feedback: Incorrecto. Error de signos en las constantes de la ecuación. -->
+- [x] D) 42 <!-- feedback: ¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x. -->
+- [ ] A) 6 <!-- feedback: Incorrecto. Error al despejar los coeficientes reales de la ecuación. -->
+- [ ] B) 0 <!-- feedback: Incorrecto. La variable no se anula por completo en este sistema. -->
+- [ ] C) -6 <!-- feedback: Incorrecto. Error de signos en las constantes de la ecuación. -->
 
 ### Explicacion Pedagogica
 Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.
@@ -154,9 +154,9 @@ Agrupando los términos con variable x del lado izquierdo y los independientes a
 Resuelva la ecuación lineal: 7x - 35 = 6x + 14. ¿Cuál es el valor de x?
 
 ### Opciones
-- [x] A) 49 <!-- feedback: ¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x. -->
-- [ ] B) 7 <!-- feedback: Incorrecto. Error al despejar los coeficientes reales de la ecuación. -->
-- [ ] C) 0 <!-- feedback: Incorrecto. La variable no se anula por completo en este sistema. -->
+- [x] C) 49 <!-- feedback: ¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x. -->
+- [ ] A) 7 <!-- feedback: Incorrecto. Error al despejar los coeficientes reales de la ecuación. -->
+- [ ] B) 0 <!-- feedback: Incorrecto. La variable no se anula por completo en este sistema. -->
 - [ ] D) -7 <!-- feedback: Incorrecto. Error de signos en las constantes de la ecuación. -->
 
 ### Explicacion Pedagogica
@@ -174,8 +174,8 @@ Agrupando los términos con variable x del lado izquierdo y los independientes a
 Resuelva la ecuación lineal: 8x - 40 = 7x + 16. ¿Cuál es el valor de x?
 
 ### Opciones
-- [x] A) 56 <!-- feedback: ¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x. -->
-- [ ] B) 8 <!-- feedback: Incorrecto. Error al despejar los coeficientes reales de la ecuación. -->
+- [x] B) 56 <!-- feedback: ¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x. -->
+- [ ] A) 8 <!-- feedback: Incorrecto. Error al despejar los coeficientes reales de la ecuación. -->
 - [ ] C) 0 <!-- feedback: Incorrecto. La variable no se anula por completo en este sistema. -->
 - [ ] D) -8 <!-- feedback: Incorrecto. Error de signos en las constantes de la ecuación. -->
 
@@ -194,10 +194,10 @@ Agrupando los términos con variable x del lado izquierdo y los independientes a
 Resuelva la ecuación lineal: 9x - 45 = 8x + 18. ¿Cuál es el valor de x?
 
 ### Opciones
-- [x] A) 63 <!-- feedback: ¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x. -->
-- [ ] B) 9 <!-- feedback: Incorrecto. Error al despejar los coeficientes reales de la ecuación. -->
-- [ ] C) 0 <!-- feedback: Incorrecto. La variable no se anula por completo en este sistema. -->
-- [ ] D) -9 <!-- feedback: Incorrecto. Error de signos en las constantes de la ecuación. -->
+- [x] D) 63 <!-- feedback: ¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x. -->
+- [ ] A) 9 <!-- feedback: Incorrecto. Error al despejar los coeficientes reales de la ecuación. -->
+- [ ] B) 0 <!-- feedback: Incorrecto. La variable no se anula por completo en este sistema. -->
+- [ ] C) -9 <!-- feedback: Incorrecto. Error de signos en las constantes de la ecuación. -->
 
 ### Explicacion Pedagogica
 Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.
@@ -214,8 +214,8 @@ Agrupando los términos con variable x del lado izquierdo y los independientes a
 Resuelva la ecuación lineal: 10x - 50 = 9x + 20. ¿Cuál es el valor de x?
 
 ### Opciones
-- [x] A) 70 <!-- feedback: ¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x. -->
-- [ ] B) 10 <!-- feedback: Incorrecto. Error al despejar los coeficientes reales de la ecuación. -->
+- [x] B) 70 <!-- feedback: ¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x. -->
+- [ ] A) 10 <!-- feedback: Incorrecto. Error al despejar los coeficientes reales de la ecuación. -->
 - [ ] C) 0 <!-- feedback: Incorrecto. La variable no se anula por completo en este sistema. -->
 - [ ] D) -10 <!-- feedback: Incorrecto. Error de signos en las constantes de la ecuación. -->
 
@@ -234,10 +234,10 @@ Agrupando los términos con variable x del lado izquierdo y los independientes a
 Resuelva la ecuación lineal: 11x - 55 = 10x + 22. ¿Cuál es el valor de x?
 
 ### Opciones
-- [x] A) 77 <!-- feedback: ¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x. -->
-- [ ] B) 11 <!-- feedback: Incorrecto. Error al despejar los coeficientes reales de la ecuación. -->
-- [ ] C) 0 <!-- feedback: Incorrecto. La variable no se anula por completo en este sistema. -->
-- [ ] D) -11 <!-- feedback: Incorrecto. Error de signos en las constantes de la ecuación. -->
+- [x] D) 77 <!-- feedback: ¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x. -->
+- [ ] A) 11 <!-- feedback: Incorrecto. Error al despejar los coeficientes reales de la ecuación. -->
+- [ ] B) 0 <!-- feedback: Incorrecto. La variable no se anula por completo en este sistema. -->
+- [ ] C) -11 <!-- feedback: Incorrecto. Error de signos en las constantes de la ecuación. -->
 
 ### Explicacion Pedagogica
 Agrupando los términos con variable x del lado izquierdo y los independientes a la derecha obtenemos la solución única.
@@ -254,9 +254,9 @@ Agrupando los términos con variable x del lado izquierdo y los independientes a
 Resuelva la ecuación lineal: 12x - 60 = 11x + 24. ¿Cuál es el valor de x?
 
 ### Opciones
-- [x] A) 84 <!-- feedback: ¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x. -->
-- [ ] B) 12 <!-- feedback: Incorrecto. Error al despejar los coeficientes reales de la ecuación. -->
-- [ ] C) 0 <!-- feedback: Incorrecto. La variable no se anula por completo en este sistema. -->
+- [x] C) 84 <!-- feedback: ¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x. -->
+- [ ] A) 12 <!-- feedback: Incorrecto. Error al despejar los coeficientes reales de la ecuación. -->
+- [ ] B) 0 <!-- feedback: Incorrecto. La variable no se anula por completo en este sistema. -->
 - [ ] D) -12 <!-- feedback: Incorrecto. Error de signos en las constantes de la ecuación. -->
 
 ### Explicacion Pedagogica
@@ -274,9 +274,9 @@ Agrupando los términos con variable x del lado izquierdo y los independientes a
 Resuelva la ecuación lineal: 13x - 65 = 12x + 26. ¿Cuál es el valor de x?
 
 ### Opciones
-- [x] A) 91 <!-- feedback: ¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x. -->
-- [ ] B) 13 <!-- feedback: Incorrecto. Error al despejar los coeficientes reales de la ecuación. -->
-- [ ] C) 0 <!-- feedback: Incorrecto. La variable no se anula por completo en este sistema. -->
+- [x] C) 91 <!-- feedback: ¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x. -->
+- [ ] A) 13 <!-- feedback: Incorrecto. Error al despejar los coeficientes reales de la ecuación. -->
+- [ ] B) 0 <!-- feedback: Incorrecto. La variable no se anula por completo en este sistema. -->
 - [ ] D) -13 <!-- feedback: Incorrecto. Error de signos en las constantes de la ecuación. -->
 
 ### Explicacion Pedagogica
@@ -294,9 +294,9 @@ Agrupando los términos con variable x del lado izquierdo y los independientes a
 Resuelva la ecuación lineal: 14x - 70 = 13x + 28. ¿Cuál es el valor de x?
 
 ### Opciones
-- [x] A) 98 <!-- feedback: ¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x. -->
-- [ ] B) 14 <!-- feedback: Incorrecto. Error al despejar los coeficientes reales de la ecuación. -->
-- [ ] C) 0 <!-- feedback: Incorrecto. La variable no se anula por completo en este sistema. -->
+- [x] C) 98 <!-- feedback: ¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x. -->
+- [ ] A) 14 <!-- feedback: Incorrecto. Error al despejar los coeficientes reales de la ecuación. -->
+- [ ] B) 0 <!-- feedback: Incorrecto. La variable no se anula por completo en este sistema. -->
 - [ ] D) -14 <!-- feedback: Incorrecto. Error de signos en las constantes de la ecuación. -->
 
 ### Explicacion Pedagogica
@@ -314,9 +314,9 @@ Agrupando los términos con variable x del lado izquierdo y los independientes a
 Resuelva la ecuación lineal: 15x - 75 = 14x + 30. ¿Cuál es el valor de x?
 
 ### Opciones
-- [x] A) 105 <!-- feedback: ¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x. -->
-- [ ] B) 15 <!-- feedback: Incorrecto. Error al despejar los coeficientes reales de la ecuación. -->
-- [ ] C) 0 <!-- feedback: Incorrecto. La variable no se anula por completo en este sistema. -->
+- [x] C) 105 <!-- feedback: ¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x. -->
+- [ ] A) 15 <!-- feedback: Incorrecto. Error al despejar los coeficientes reales de la ecuación. -->
+- [ ] B) 0 <!-- feedback: Incorrecto. La variable no se anula por completo en este sistema. -->
 - [ ] D) -15 <!-- feedback: Incorrecto. Error de signos en las constantes de la ecuación. -->
 
 ### Explicacion Pedagogica
@@ -354,9 +354,9 @@ Agrupando los términos con variable x del lado izquierdo y los independientes a
 Resuelva la ecuación lineal: 17x - 85 = 16x + 34. ¿Cuál es el valor de x?
 
 ### Opciones
-- [x] A) 119 <!-- feedback: ¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x. -->
-- [ ] B) 17 <!-- feedback: Incorrecto. Error al despejar los coeficientes reales de la ecuación. -->
-- [ ] C) 0 <!-- feedback: Incorrecto. La variable no se anula por completo en este sistema. -->
+- [x] C) 119 <!-- feedback: ¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x. -->
+- [ ] A) 17 <!-- feedback: Incorrecto. Error al despejar los coeficientes reales de la ecuación. -->
+- [ ] B) 0 <!-- feedback: Incorrecto. La variable no se anula por completo en este sistema. -->
 - [ ] D) -17 <!-- feedback: Incorrecto. Error de signos en las constantes de la ecuación. -->
 
 ### Explicacion Pedagogica
@@ -394,8 +394,8 @@ Agrupando los términos con variable x del lado izquierdo y los independientes a
 Resuelva la ecuación lineal: 19x - 95 = 18x + 38. ¿Cuál es el valor de x?
 
 ### Opciones
-- [x] A) 133 <!-- feedback: ¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x. -->
-- [ ] B) 19 <!-- feedback: Incorrecto. Error al despejar los coeficientes reales de la ecuación. -->
+- [x] B) 133 <!-- feedback: ¡Correcto! Agrupando los términos semejantes se obtiene el valor correspondiente de x. -->
+- [ ] A) 19 <!-- feedback: Incorrecto. Error al despejar los coeficientes reales de la ecuación. -->
 - [ ] C) 0 <!-- feedback: Incorrecto. La variable no se anula por completo en este sistema. -->
 - [ ] D) -19 <!-- feedback: Incorrecto. Error de signos en las constantes de la ecuación. -->
 

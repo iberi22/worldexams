@@ -34,9 +34,9 @@ Tipos de fuerza, fricción, gravedad, movimiento rectilíneo simple y máquinas 
 ¿Qué es una fuerza en física?
 
 ### Opciones
-- [x] A) Una acción de empujar o halar que puede mover un objeto o cambiar su forma.
+- [x] B) Una acción de empujar o halar que puede mover un objeto o cambiar su forma.
   <!-- feedback: Empujar y halar son ejemplos de fuerza que cambian el movimiento o la forma de los objetos. -->
-- [ ] B) Un tipo de energía que solo existe dentro de las baterías.
+- [ ] A) Un tipo de energía que solo existe dentro de las baterías.
   <!-- feedback: La fuerza no vive solo en las baterías; es una interacción que empuj a o hala objetos. -->
 - [ ] C) El peso de un objeto medido siempre en litros.
   <!-- feedback: El peso se relaciona con la gravedad, pero la fuerza se describe como empujar o halar, no en litros. -->
@@ -57,13 +57,13 @@ Recordar que la fuerza es una acción de empujar o halar que puede iniciar, dete
 ¿Por qué los dos objetos caen al suelo y no se quedan flotando en el aire?
 
 ### Opciones
-- [x] A) Porque la gravedad de la Tierra los atrae hacia el suelo.
+- [x] D) Porque la gravedad de la Tierra los atrae hacia el suelo.
   <!-- feedback: La gravedad atrae todos los objetos hacia el centro de la Tierra, por eso caen. -->
-- [ ] B) Porque el aire los empuja hacia abajo con una cuerda invisible.
+- [ ] A) Porque el aire los empuja hacia abajo con una cuerda invisible.
   <!-- feedback: El aire no tiene cuerdas; lo que atrae los objetos hacia abajo es la gravedad. -->
-- [ ] C) Porque los objetos pesan tanto que rompen el aire.
+- [ ] B) Porque los objetos pesan tanto que rompen el aire.
   <!-- feedback: Los objetos no rompen el aire; caen por la atracción de la gravedad. -->
-- [ ] D) Porque el suelo tiene un imán que solo atrae borradores y pelotas.
+- [ ] C) Porque el suelo tiene un imán que solo atrae borradores y pelotas.
   <!-- feedback: El suelo no tiene un imán especial; la gravedad actúa sobre todos los objetos. -->
 
 ### Explicacion Pedagogica
@@ -80,9 +80,9 @@ Comprender que la gravedad es la fuerza que atrae los objetos hacia la Tierra y 
 ¿Qué efecto tiene la fricción en este caso y qué debería hacer Camilo para no resbalarse?
 
 ### Opciones
-- [x] A) La fricción entre la suela y el piso mojado es muy pequeña, por eso debe caminar despacio y con pasos cortos.
+- [x] B) La fricción entre la suela y el piso mojado es muy pequeña, por eso debe caminar despacio y con pasos cortos.
   <!-- feedback: Con poca fricción hay menos agarre, así que caminar despacio evita resbalones. -->
-- [ ] B) La fricción aumenta mucho con el agua, por eso puede correr sin ningún riesgo.
+- [ ] A) La fricción aumenta mucho con el agua, por eso puede correr sin ningún riesgo.
   <!-- feedback: El agua reduce la fricción entre la suela y el piso, no la aumenta. -->
 - [ ] C) La fricción desaparece por completo y los zapatos flotan sobre el agua.
   <!-- feedback: La fricción disminuye pero no desaparece; los zapatos siguen en contacto con el piso. -->
@@ -172,11 +172,11 @@ Analizar cómo la rugosidad de las superficies determina la magnitud de la fricc
 ¿Por qué el ayudante que usa la tabla larga hace menos esfuerzo aunque recorra más distancia?
 
 ### Opciones
-- [x] A) Porque el plano inclinado reparte el esfuerzo en un recorrido más largo y la fuerza necesaria es menor.
+- [x] C) Porque el plano inclinado reparte el esfuerzo en un recorrido más largo y la fuerza necesaria es menor.
   <!-- feedback: La rampa alarga el camino pero reduce la fuerza para subir la misma carga a la misma altura. -->
-- [ ] B) Porque la tabla elimina la gravedad y el bulto deja de pesar.
+- [ ] A) Porque la tabla elimina la gravedad y el bulto deja de pesar.
   <!-- feedback: La gravedad sigue actuando; la rampa solo disminuye la fuerza requerida, no el peso. -->
-- [ ] C) Porque cargar en brazos siempre es más rápido y exige menos fuerza que usar una rampa.
+- [ ] B) Porque cargar en brazos siempre es más rápido y exige menos fuerza que usar una rampa.
   <!-- feedback: Cargar en brazos exige levantar todo el peso de una vez, por eso requiere más fuerza. -->
 - [ ] D) Porque la tabla corta el bulto en pedazos más livianos.
   <!-- feedback: El bulto sigue intacto; la rampa no divide la carga, solo facilita subirla. -->

@@ -30,9 +30,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 Al realizar experimentos sobre biodiversidad, ecosistemas de bolivia y áreas protegidas y estudiar bosque nublado de alta montaña en Bolivia con altísima biodiversidad y abundancia de especies endémicas, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Ecorregión de los yungas
+- [x] B) Ecorregión de los yungas
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a bosque nublado de alta montaña en Bolivia con altísima biodiversidad y abundancia de especies endémicas. -->
-- [ ] B) Ecorregión del chaco
+- [ ] A) Ecorregión del chaco
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) Ecorregión del altiplano
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biodiversidad, ecosistemas de bolivia y áreas protegidas. -->
@@ -55,13 +55,13 @@ La respuesta correcta es Ecorregión de los yungas. Científicamente, esto se ex
 Al realizar experimentos sobre biodiversidad, ecosistemas de bolivia y áreas protegidas y estudiar área protegida boliviana considerada uno de los reservorios de biodiversidad más grandes del planeta, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Parque nacional madidi
+- [x] D) Parque nacional madidi
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a área protegida boliviana considerada uno de los reservorios de biodiversidad más grandes del planeta. -->
-- [ ] B) Parque nacional sajama
+- [ ] A) Parque nacional sajama
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Parque nacional noel kempff mercado
+- [ ] B) Parque nacional noel kempff mercado
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biodiversidad, ecosistemas de bolivia y áreas protegidas. -->
-- [ ] D) Reserva eduardo avaroa
+- [ ] C) Reserva eduardo avaroa
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -80,13 +80,13 @@ La respuesta correcta es Parque nacional madidi. Científicamente, esto se expli
 Al realizar experimentos sobre biodiversidad, ecosistemas de bolivia y áreas protegidas y estudiar mamífero acuático endémico de los ríos de la cuenca amazónica de Bolivia (Beni y Santa Cruz), ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El bufeo boliviano (inia boliviensis)
+- [x] D) El bufeo boliviano (inia boliviensis)
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a mamífero acuático endémico de los ríos de la cuenca amazónica de Bolivia (Beni y Santa Cruz). -->
-- [ ] B) El condor andino
+- [ ] A) El condor andino
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) El jaguar americano
+- [ ] B) El jaguar americano
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biodiversidad, ecosistemas de bolivia y áreas protegidas. -->
-- [ ] D) El oso de anteojos
+- [ ] C) El oso de anteojos
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -105,13 +105,13 @@ La respuesta correcta es El bufeo boliviano (inia boliviensis). Científicamente
 Al realizar experimentos sobre biodiversidad, ecosistemas de bolivia y áreas protegidas y estudiar desafío fisiológico del Altiplano boliviano (3800 m) superado por fauna nativa con alta hemoglobina, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Hipoxia por altitud
+- [x] D) Hipoxia por altitud
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a desafío fisiológico del Altiplano boliviano (3800 m) superado por fauna nativa con alta hemoglobina. -->
-- [ ] B) Hipotermia severa
+- [ ] A) Hipotermia severa
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Deshidratación osmótica
+- [ ] B) Deshidratación osmótica
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biodiversidad, ecosistemas de bolivia y áreas protegidas. -->
-- [ ] D) Acidosis respiratoria
+- [ ] C) Acidosis respiratoria
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -130,9 +130,9 @@ La respuesta correcta es Hipoxia por altitud. Científicamente, esto se explica 
 Al realizar experimentos sobre biodiversidad, ecosistemas de bolivia y áreas protegidas y estudiar área protegida que alberga la mayor concentración de bosques de keñua en el altiplano de Oruro, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Parque nacional sajama
+- [x] B) Parque nacional sajama
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a área protegida que alberga la mayor concentración de bosques de keñua en el altiplano de Oruro. -->
-- [ ] B) Parque nacional madidi
+- [ ] A) Parque nacional madidi
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) Reserva nacional toro toro
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biodiversidad, ecosistemas de bolivia y áreas protegidas. -->
@@ -155,11 +155,11 @@ La respuesta correcta es Parque nacional sajama. Científicamente, esto se expli
 Al realizar experimentos sobre biodiversidad, ecosistemas de bolivia y áreas protegidas y estudiar planta altoandina endémica que florece una sola vez cada 100 años con una inflorescencia gigante, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La puya raimondii
+- [x] C) La puya raimondii
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a planta altoandina endémica que florece una sola vez cada 100 años con una inflorescencia gigante. -->
-- [ ] B) La keñua de altura
+- [ ] A) La keñua de altura
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) La cantuta tricolor
+- [ ] B) La cantuta tricolor
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biodiversidad, ecosistemas de bolivia y áreas protegidas. -->
 - [ ] D) El patujú bandera
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -180,9 +180,9 @@ La respuesta correcta es La puya raimondii. Científicamente, esto se explica po
 Al realizar experimentos sobre biodiversidad, ecosistemas de bolivia y áreas protegidas y estudiar área protegida en el departamento de Santa Cruz declarada Patrimonio de la Humanidad por sus mesetas precámbricas, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Parque nacional noel kempff mercado
+- [x] B) Parque nacional noel kempff mercado
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a área protegida en el departamento de Santa Cruz declarada Patrimonio de la Humanidad por sus mesetas precámbricas. -->
-- [ ] B) Parque nacional sajama
+- [ ] A) Parque nacional sajama
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) Parque nacional kaa-iya
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biodiversidad, ecosistemas de bolivia y áreas protegidas. -->
@@ -205,13 +205,13 @@ La respuesta correcta es Parque nacional noel kempff mercado. Científicamente, 
 Al realizar experimentos sobre biodiversidad, ecosistemas de bolivia y áreas protegidas y estudiar área protegida del chaco boliviano cogestionada por pueblos indígenas que protege al jaguar, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Parque nacional kaa-iya
+- [x] D) Parque nacional kaa-iya
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a área protegida del chaco boliviano cogestionada por pueblos indígenas que protege al jaguar. -->
-- [ ] B) Parque nacional madidi
+- [ ] A) Parque nacional madidi
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Reserva del manuripi
+- [ ] B) Reserva del manuripi
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biodiversidad, ecosistemas de bolivia y áreas protegidas. -->
-- [ ] D) Parque nacional amboró
+- [ ] C) Parque nacional amboró
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -230,9 +230,9 @@ La respuesta correcta es Parque nacional kaa-iya. Científicamente, esto se expl
 Al realizar experimentos sobre biodiversidad, ecosistemas de bolivia y áreas protegidas y estudiar cuerpo de agua altiplánico que regula el clima regional y alberga fauna endémica como el zambullidor, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El lago titicaca
+- [x] B) El lago titicaca
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a cuerpo de agua altiplánico que regula el clima regional y alberga fauna endémica como el zambullidor. -->
-- [ ] B) El lago poopó
+- [ ] A) El lago poopó
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) La laguna colorada
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biodiversidad, ecosistemas de bolivia y áreas protegidas. -->
@@ -280,13 +280,13 @@ La respuesta correcta es Deforestación por ampliación de frontera agrícola. C
 Al realizar experimentos sobre biodiversidad, ecosistemas de bolivia y áreas protegidas y estudiar sitio Ramsar boliviano famoso por albergar miles de flamencos andinos que se alimentan de algas microscópicas, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La laguna colorada
+- [x] D) La laguna colorada
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a sitio Ramsar boliviano famoso por albergar miles de flamencos andinos que se alimentan de algas microscópicas. -->
-- [ ] B) La laguna verde
+- [ ] A) La laguna verde
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) El salar de uyuni
+- [ ] B) El salar de uyuni
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biodiversidad, ecosistemas de bolivia y áreas protegidas. -->
-- [ ] D) El salar de coipasa
+- [ ] C) El salar de coipasa
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -305,13 +305,13 @@ La respuesta correcta es La laguna colorada. Científicamente, esto se explica p
 Al realizar experimentos sobre biodiversidad, ecosistemas de bolivia y áreas protegidas y estudiar proceso de degradación que afecta a los suelos semiáridos de los valles interandinos de Bolivia, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La erosión hídrica y eólica
+- [x] D) La erosión hídrica y eólica
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a proceso de degradación que afecta a los suelos semiáridos de los valles interandinos de Bolivia. -->
-- [ ] B) La salinización natural de acuíferos
+- [ ] A) La salinización natural de acuíferos
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) El sobrepastoreo de camélidos
+- [ ] B) El sobrepastoreo de camélidos
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biodiversidad, ecosistemas de bolivia y áreas protegidas. -->
-- [ ] D) La deforestación forestal
+- [ ] C) La deforestación forestal
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -330,11 +330,11 @@ La respuesta correcta es La erosión hídrica y eólica. Científicamente, esto 
 Al realizar experimentos sobre biodiversidad, ecosistemas de bolivia y áreas protegidas y estudiar gran felino cuya caza ilegal está motivada por el contrabando de sus colmillos al mercado asiático, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El jaguar (panthera onca)
+- [x] C) El jaguar (panthera onca)
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a gran felino cuya caza ilegal está motivada por el contrabando de sus colmillos al mercado asiático. -->
-- [ ] B) El oso de anteojos
+- [ ] A) El oso de anteojos
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) El lobo de crin (borochi)
+- [ ] B) El lobo de crin (borochi)
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biodiversidad, ecosistemas de bolivia y áreas protegidas. -->
 - [ ] D) El gato andino
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -355,11 +355,11 @@ La respuesta correcta es El jaguar (panthera onca). Científicamente, esto se ex
 Al realizar experimentos sobre biodiversidad, ecosistemas de bolivia y áreas protegidas y estudiar figura legal territorial en Bolivia que permite la cogestión y manejo sostenible de recursos por pueblos indígenas, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Tco (tierras comunitarias de origen)
+- [x] C) Tco (tierras comunitarias de origen)
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a figura legal territorial en Bolivia que permite la cogestión y manejo sostenible de recursos por pueblos indígenas. -->
-- [ ] B) Sernap (servicio de áreas protegidas)
+- [ ] A) Sernap (servicio de áreas protegidas)
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Otb (organizaciones territoriales)
+- [ ] B) Otb (organizaciones territoriales)
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biodiversidad, ecosistemas de bolivia y áreas protegidas. -->
 - [ ] D) Opce (calidad educativa)
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -380,9 +380,9 @@ La respuesta correcta es Tco (tierras comunitarias de origen). Científicamente,
 Al realizar experimentos sobre biodiversidad, ecosistemas de bolivia y áreas protegidas y estudiar único oso nativo de Sudamérica presente en los bosques nublados andinos de Bolivia bajo severa amenaza, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El oso de anteojos (jucumari)
+- [x] B) El oso de anteojos (jucumari)
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a único oso nativo de Sudamérica presente en los bosques nublados andinos de Bolivia bajo severa amenaza. -->
-- [ ] B) El gato andino
+- [ ] A) El gato andino
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) La vicuña andina
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biodiversidad, ecosistemas de bolivia y áreas protegidas. -->
@@ -455,9 +455,9 @@ La respuesta correcta es Servicios ecosistémicos de regulación hídrica. Cient
 Al realizar experimentos sobre biodiversidad, ecosistemas de bolivia y áreas protegidas y estudiar causa principal de la desaparición física de la pista de esquí del glaciar Chacaltaya en La Paz, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El retroceso de glaciares andinos por cambio climático
+- [x] B) El retroceso de glaciares andinos por cambio climático
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a causa principal de la desaparición física de la pista de esquí del glaciar Chacaltaya en La Paz. -->
-- [ ] B) La acumulación de basuras urbanas
+- [ ] A) La acumulación de basuras urbanas
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) La desecación por riego agrícola masivo
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de biodiversidad, ecosistemas de bolivia y áreas protegidas. -->

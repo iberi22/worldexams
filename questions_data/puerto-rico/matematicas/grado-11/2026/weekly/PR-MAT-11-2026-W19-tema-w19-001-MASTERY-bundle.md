@@ -52,8 +52,8 @@ El volumen de un prisma rectangular se calcula multiplicando el área de la base
 ¿Cuál es el volumen de un cilindro con radio de base $r = 3$ cm y altura $h = 10$ cm? (Usa $\pi \approx 3.14$)
 
 ### Opciones
-- [ ] A) $188.4\text{ cm}^3$ <!-- feedback: Incorrecto. Error al aplicar el radio lineal. -->
-- [x] B) $282.6\text{ cm}^3$ <!-- feedback: Correcto. $V = \pi r^2 h = 3.14 \times 9 \times 10 = 282.6$. -->
+- [ ] B) $188.4\text{ cm}^3$ <!-- feedback: Incorrecto. Error al aplicar el radio lineal. -->
+- [x] A) $282.6\text{ cm}^3$ <!-- feedback: Correcto. $V = \pi r^2 h = 3.14 \times 9 \times 10 = 282.6$. -->
 - [ ] C) $90.0\text{ cm}^3$ <!-- feedback: Incorrecto. Se omitió el factor $\pi$. -->
 - [ ] D) $94.2\text{ cm}^3$ <!-- feedback: Incorrecto. No se elevó el radio al cuadrado. -->
 
@@ -73,9 +73,9 @@ El volumen de un cilindro es $V = \pi r^2 h$. Con $r = 3$ cm, $h = 10$ cm y $\pi
 Calcula el volumen aproximado de una esfera que tiene un radio de $r = 3$ cm. (Usa $\pi \approx 3.14$)
 
 ### Opciones
-- [x] A) $113.04\text{ cm}^3$ <!-- feedback: Correcto. Aplicando la fórmula del volumen de la esfera. -->
-- [ ] B) $169.56\text{ cm}^3$ <!-- feedback: Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen. -->
-- [ ] C) $56.52\text{ cm}^3$ <!-- feedback: Incorrecto. Se dividió por la mitad el volumen real de la esfera. -->
+- [x] C) $113.04\text{ cm}^3$ <!-- feedback: Correcto. Aplicando la fórmula del volumen de la esfera. -->
+- [ ] A) $169.56\text{ cm}^3$ <!-- feedback: Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen. -->
+- [ ] B) $56.52\text{ cm}^3$ <!-- feedback: Incorrecto. Se dividió por la mitad el volumen real de la esfera. -->
 - [ ] D) $84.78\text{ cm}^3$ <!-- feedback: Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen. -->
 
 ### Explicacion Pedagogica
@@ -118,8 +118,8 @@ Calcula el volumen aproximado de una esfera que tiene un radio de $r = 5$ cm. (U
 
 ### Opciones
 - [ ] A) $261.67\text{ cm}^3$ <!-- feedback: Incorrecto. Se dividió por la mitad el volumen real de la esfera. -->
-- [ ] B) $392.5\text{ cm}^3$ <!-- feedback: Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen. -->
-- [x] C) $523.33\text{ cm}^3$ <!-- feedback: Correcto. Aplicando la fórmula del volumen de la esfera. -->
+- [ ] C) $392.5\text{ cm}^3$ <!-- feedback: Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen. -->
+- [x] B) $523.33\text{ cm}^3$ <!-- feedback: Correcto. Aplicando la fórmula del volumen de la esfera. -->
 - [ ] D) $785.0\text{ cm}^3$ <!-- feedback: Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen. -->
 
 ### Explicacion Pedagogica
@@ -139,9 +139,9 @@ Calcula el volumen aproximado de una esfera que tiene un radio de $r = 6$ cm. (U
 
 ### Opciones
 - [ ] A) $1356.48\text{ cm}^3$ <!-- feedback: Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen. -->
-- [ ] B) $452.16\text{ cm}^3$ <!-- feedback: Incorrecto. Se dividió por la mitad el volumen real de la esfera. -->
-- [ ] C) $678.24\text{ cm}^3$ <!-- feedback: Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen. -->
-- [x] D) $904.32\text{ cm}^3$ <!-- feedback: Correcto. Aplicando la fórmula del volumen de la esfera. -->
+- [ ] C) $452.16\text{ cm}^3$ <!-- feedback: Incorrecto. Se dividió por la mitad el volumen real de la esfera. -->
+- [ ] D) $678.24\text{ cm}^3$ <!-- feedback: Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen. -->
+- [x] B) $904.32\text{ cm}^3$ <!-- feedback: Correcto. Aplicando la fórmula del volumen de la esfera. -->
 
 ### Explicacion Pedagogica
 El volumen de una esfera se calcula mediante la fórmula $V = \frac{4}{3}\pi r^3$. Con $r = 6$ y $\pi \approx 3.14$: $V \approx \frac{4}{3} \times 3.14 \times 216 = 904.32\text{ cm}^3$.
@@ -160,9 +160,9 @@ Calcula el volumen aproximado de una esfera que tiene un radio de $r = 7$ cm. (U
 
 ### Opciones
 - [ ] A) $1077.02\text{ cm}^3$ <!-- feedback: Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen. -->
-- [x] B) $1436.03\text{ cm}^3$ <!-- feedback: Correcto. Aplicando la fórmula del volumen de la esfera. -->
-- [ ] C) $2154.04\text{ cm}^3$ <!-- feedback: Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen. -->
-- [ ] D) $718.01\text{ cm}^3$ <!-- feedback: Incorrecto. Se dividió por la mitad el volumen real de la esfera. -->
+- [x] D) $1436.03\text{ cm}^3$ <!-- feedback: Correcto. Aplicando la fórmula del volumen de la esfera. -->
+- [ ] B) $2154.04\text{ cm}^3$ <!-- feedback: Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen. -->
+- [ ] C) $718.01\text{ cm}^3$ <!-- feedback: Incorrecto. Se dividió por la mitad el volumen real de la esfera. -->
 
 ### Explicacion Pedagogica
 El volumen de una esfera se calcula mediante la fórmula $V = \frac{4}{3}\pi r^3$. Con $r = 7$ y $\pi \approx 3.14$: $V \approx \frac{4}{3} \times 3.14 \times 343 = 1436.03\text{ cm}^3$.
@@ -202,8 +202,8 @@ Calcula el volumen aproximado de una esfera que tiene un radio de $r = 9$ cm. (U
 
 ### Opciones
 - [ ] A) $1526.04\text{ cm}^3$ <!-- feedback: Incorrecto. Se dividió por la mitad el volumen real de la esfera. -->
-- [ ] B) $2289.06\text{ cm}^3$ <!-- feedback: Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen. -->
-- [x] C) $3052.08\text{ cm}^3$ <!-- feedback: Correcto. Aplicando la fórmula del volumen de la esfera. -->
+- [ ] C) $2289.06\text{ cm}^3$ <!-- feedback: Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen. -->
+- [x] B) $3052.08\text{ cm}^3$ <!-- feedback: Correcto. Aplicando la fórmula del volumen de la esfera. -->
 - [ ] D) $4578.12\text{ cm}^3$ <!-- feedback: Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen. -->
 
 ### Explicacion Pedagogica
@@ -224,8 +224,8 @@ Calcula el volumen aproximado de una esfera que tiene un radio de $r = 10$ cm. (
 ### Opciones
 - [ ] A) $2093.33\text{ cm}^3$ <!-- feedback: Incorrecto. Se dividió por la mitad el volumen real de la esfera. -->
 - [ ] B) $3140.0\text{ cm}^3$ <!-- feedback: Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen. -->
-- [x] C) $4186.67\text{ cm}^3$ <!-- feedback: Correcto. Aplicando la fórmula del volumen de la esfera. -->
-- [ ] D) $6280.0\text{ cm}^3$ <!-- feedback: Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen. -->
+- [x] D) $4186.67\text{ cm}^3$ <!-- feedback: Correcto. Aplicando la fórmula del volumen de la esfera. -->
+- [ ] C) $6280.0\text{ cm}^3$ <!-- feedback: Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen. -->
 
 ### Explicacion Pedagogica
 El volumen de una esfera se calcula mediante la fórmula $V = \frac{4}{3}\pi r^3$. Con $r = 10$ y $\pi \approx 3.14$: $V \approx \frac{4}{3} \times 3.14 \times 1000 = 4186.67\text{ cm}^3$.
@@ -267,9 +267,9 @@ Calcula el volumen aproximado de una esfera que tiene un radio de $r = 12$ cm. (
 
 ### Opciones
 - [ ] A) $10851.84\text{ cm}^3$ <!-- feedback: Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen. -->
-- [ ] B) $3617.28\text{ cm}^3$ <!-- feedback: Incorrecto. Se dividió por la mitad el volumen real de la esfera. -->
-- [ ] C) $5425.92\text{ cm}^3$ <!-- feedback: Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen. -->
-- [x] D) $7234.56\text{ cm}^3$ <!-- feedback: Correcto. Aplicando la fórmula del volumen de la esfera. -->
+- [ ] C) $3617.28\text{ cm}^3$ <!-- feedback: Incorrecto. Se dividió por la mitad el volumen real de la esfera. -->
+- [ ] D) $5425.92\text{ cm}^3$ <!-- feedback: Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen. -->
+- [x] B) $7234.56\text{ cm}^3$ <!-- feedback: Correcto. Aplicando la fórmula del volumen de la esfera. -->
 
 ### Explicacion Pedagogica
 El volumen de una esfera se calcula mediante la fórmula $V = \frac{4}{3}\pi r^3$. Con $r = 12$ y $\pi \approx 3.14$: $V \approx \frac{4}{3} \times 3.14 \times 1728 = 7234.56\text{ cm}^3$.
@@ -287,10 +287,10 @@ El volumen de una esfera se calcula mediante la fórmula $V = \frac{4}{3}\pi r^3
 Calcula el volumen aproximado de una esfera que tiene un radio de $r = 13$ cm. (Usa $\pi \approx 3.14$)
 
 ### Opciones
-- [ ] A) $13797.16\text{ cm}^3$ <!-- feedback: Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen. -->
-- [ ] B) $4599.05\text{ cm}^3$ <!-- feedback: Incorrecto. Se dividió por la mitad el volumen real de la esfera. -->
-- [ ] C) $6898.58\text{ cm}^3$ <!-- feedback: Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen. -->
-- [x] D) $9198.11\text{ cm}^3$ <!-- feedback: Correcto. Aplicando la fórmula del volumen de la esfera. -->
+- [ ] B) $13797.16\text{ cm}^3$ <!-- feedback: Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen. -->
+- [ ] C) $4599.05\text{ cm}^3$ <!-- feedback: Incorrecto. Se dividió por la mitad el volumen real de la esfera. -->
+- [ ] D) $6898.58\text{ cm}^3$ <!-- feedback: Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen. -->
+- [x] A) $9198.11\text{ cm}^3$ <!-- feedback: Correcto. Aplicando la fórmula del volumen de la esfera. -->
 
 ### Explicacion Pedagogica
 El volumen de una esfera se calcula mediante la fórmula $V = \frac{4}{3}\pi r^3$. Con $r = 13$ y $\pi \approx 3.14$: $V \approx \frac{4}{3} \times 3.14 \times 2197 = 9198.11\text{ cm}^3$.
@@ -308,10 +308,10 @@ El volumen de una esfera se calcula mediante la fórmula $V = \frac{4}{3}\pi r^3
 Calcula el volumen aproximado de una esfera que tiene un radio de $r = 14$ cm. (Usa $\pi \approx 3.14$)
 
 ### Opciones
-- [x] A) $11488.21\text{ cm}^3$ <!-- feedback: Correcto. Aplicando la fórmula del volumen de la esfera. -->
-- [ ] B) $17232.32\text{ cm}^3$ <!-- feedback: Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen. -->
-- [ ] C) $5744.11\text{ cm}^3$ <!-- feedback: Incorrecto. Se dividió por la mitad el volumen real de la esfera. -->
-- [ ] D) $8616.16\text{ cm}^3$ <!-- feedback: Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen. -->
+- [x] D) $11488.21\text{ cm}^3$ <!-- feedback: Correcto. Aplicando la fórmula del volumen de la esfera. -->
+- [ ] A) $17232.32\text{ cm}^3$ <!-- feedback: Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen. -->
+- [ ] B) $5744.11\text{ cm}^3$ <!-- feedback: Incorrecto. Se dividió por la mitad el volumen real de la esfera. -->
+- [ ] C) $8616.16\text{ cm}^3$ <!-- feedback: Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen. -->
 
 ### Explicacion Pedagogica
 El volumen de una esfera se calcula mediante la fórmula $V = \frac{4}{3}\pi r^3$. Con $r = 14$ y $\pi \approx 3.14$: $V \approx \frac{4}{3} \times 3.14 \times 2744 = 11488.21\text{ cm}^3$.
@@ -350,8 +350,8 @@ El volumen de una esfera se calcula mediante la fórmula $V = \frac{4}{3}\pi r^3
 Calcula el volumen aproximado de una esfera que tiene un radio de $r = 16$ cm. (Usa $\pi \approx 3.14$)
 
 ### Opciones
-- [ ] A) $12861.44\text{ cm}^3$ <!-- feedback: Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen. -->
-- [x] B) $17148.59\text{ cm}^3$ <!-- feedback: Correcto. Aplicando la fórmula del volumen de la esfera. -->
+- [ ] B) $12861.44\text{ cm}^3$ <!-- feedback: Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen. -->
+- [x] A) $17148.59\text{ cm}^3$ <!-- feedback: Correcto. Aplicando la fórmula del volumen de la esfera. -->
 - [ ] C) $25722.88\text{ cm}^3$ <!-- feedback: Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen. -->
 - [ ] D) $8574.29\text{ cm}^3$ <!-- feedback: Incorrecto. Se dividió por la mitad el volumen real de la esfera. -->
 
@@ -373,9 +373,9 @@ El volumen de una esfera se calcula mediante la fórmula $V = \frac{4}{3}\pi r^3
 Calcula el volumen aproximado de una esfera que tiene un radio de $r = 17$ cm. (Usa $\pi \approx 3.14$)
 
 ### Opciones
-- [ ] A) $10284.55\text{ cm}^3$ <!-- feedback: Incorrecto. Se dividió por la mitad el volumen real de la esfera. -->
-- [ ] B) $15426.82\text{ cm}^3$ <!-- feedback: Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen. -->
-- [x] C) $20569.09\text{ cm}^3$ <!-- feedback: Correcto. Aplicando la fórmula del volumen de la esfera. -->
+- [ ] B) $10284.55\text{ cm}^3$ <!-- feedback: Incorrecto. Se dividió por la mitad el volumen real de la esfera. -->
+- [ ] C) $15426.82\text{ cm}^3$ <!-- feedback: Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen. -->
+- [x] A) $20569.09\text{ cm}^3$ <!-- feedback: Correcto. Aplicando la fórmula del volumen de la esfera. -->
 - [ ] D) $30853.64\text{ cm}^3$ <!-- feedback: Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen. -->
 
 ### Explicacion Pedagogica
@@ -396,8 +396,8 @@ Calcula el volumen aproximado de una esfera que tiene un radio de $r = 18$ cm. (
 ### Opciones
 - [ ] A) $12208.32\text{ cm}^3$ <!-- feedback: Incorrecto. Se dividió por la mitad el volumen real de la esfera. -->
 - [ ] B) $18312.48\text{ cm}^3$ <!-- feedback: Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen. -->
-- [x] C) $24416.64\text{ cm}^3$ <!-- feedback: Correcto. Aplicando la fórmula del volumen de la esfera. -->
-- [ ] D) $36624.96\text{ cm}^3$ <!-- feedback: Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen. -->
+- [x] D) $24416.64\text{ cm}^3$ <!-- feedback: Correcto. Aplicando la fórmula del volumen de la esfera. -->
+- [ ] C) $36624.96\text{ cm}^3$ <!-- feedback: Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen. -->
 
 ### Explicacion Pedagogica
 El volumen de una esfera se calcula mediante la fórmula $V = \frac{4}{3}\pi r^3$. Con $r = 18$ y $\pi \approx 3.14$: $V \approx \frac{4}{3} \times 3.14 \times 5832 = 24416.64\text{ cm}^3$.
@@ -438,8 +438,8 @@ Calcula el volumen aproximado de una esfera que tiene un radio de $r = 20$ cm. (
 ### Opciones
 - [ ] A) $16746.67\text{ cm}^3$ <!-- feedback: Incorrecto. Se dividió por la mitad el volumen real de la esfera. -->
 - [ ] B) $25120.0\text{ cm}^3$ <!-- feedback: Incorrecto. Se omitió la fracción de cuatro tercios en la fórmula de volumen. -->
-- [x] C) $33493.33\text{ cm}^3$ <!-- feedback: Correcto. Aplicando la fórmula del volumen de la esfera. -->
-- [ ] D) $50240.0\text{ cm}^3$ <!-- feedback: Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen. -->
+- [x] D) $33493.33\text{ cm}^3$ <!-- feedback: Correcto. Aplicando la fórmula del volumen de la esfera. -->
+- [ ] C) $50240.0\text{ cm}^3$ <!-- feedback: Incorrecto. Se usó una constante multiplicativa incorrecta para el volumen. -->
 
 ### Explicacion Pedagogica
 El volumen de una esfera se calcula mediante la fórmula $V = \frac{4}{3}\pi r^3$. Con $r = 20$ y $\pi \approx 3.14$: $V \approx \frac{4}{3} \times 3.14 \times 8000 = 33493.33\text{ cm}^3$.

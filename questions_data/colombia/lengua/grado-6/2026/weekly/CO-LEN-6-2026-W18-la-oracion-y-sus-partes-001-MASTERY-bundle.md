@@ -35,8 +35,8 @@ creador: Jules-Agent
 ### Opciones
 - [ ] A) Una lista de palabras sin sentido completo. <!-- feedback: Incorrecto. Una oración transmite una idea completa. -->
 - [ ] B) Un conjunto de letras escritas una tras otra. <!-- feedback: Incorrecto. Las letras forman palabras, no oraciones necesariamente. -->
-- [x] C) Un conjunto de palabras que expresa una idea completa y tiene sentido por sí sola. <!-- feedback: Correcto. La oración comunica algo y termina con punto, signo de interrogación o de exclamación. -->
-- [ ] D) Una sola palabra con terminación verbal. <!-- feedback: Incorrecto. Una oración necesita varias palabras organizadas. -->
+- [x] D) Un conjunto de palabras que expresa una idea completa y tiene sentido por sí sola. <!-- feedback: Correcto. La oración comunica algo y termina con punto, signo de interrogación o de exclamación. -->
+- [ ] C) Una sola palabra con terminación verbal. <!-- feedback: Incorrecto. Una oración necesita varias palabras organizadas. -->
 
 ### Explicacion Pedagogica
 Una oración es una unidad de sentido que tiene autonomía: el lector la entiende aunque esté sola. Toda oración tiene al menos un sujeto y un predicado, y siempre termina con un signo de puntuación final.
@@ -55,8 +55,8 @@ Una oración es una unidad de sentido que tiene autonomía: el lector la entiend
 
 ### Opciones
 - [ ] A) Hay una sola oración larga separada por comas. <!-- feedback: Incorrecto. Los puntos dividen tres oraciones distintas. -->
-- [x] B) Hay tres oraciones separadas por punto seguido. <!-- feedback: Correcto. Cada punto seguido marca el final de una oración. -->
-- [ ] C) Hay dos oraciones separadas por un punto y aparte. <!-- feedback: Incorrecto. Las tres frases terminan con punto seguido. -->
+- [x] C) Hay tres oraciones separadas por punto seguido. <!-- feedback: Correcto. Cada punto seguido marca el final de una oración. -->
+- [ ] B) Hay dos oraciones separadas por un punto y aparte. <!-- feedback: Incorrecto. Las tres frases terminan con punto seguido. -->
 - [ ] D) No hay oraciones, son solo enunciados sueltos. <!-- feedback: Incorrecto. Cada frase es una oración con sentido propio. -->
 
 ### Explicacion Pedagogica
@@ -76,8 +76,8 @@ El punto seguido une oraciones dentro de un mismo párrafo; el punto y aparte se
 
 ### Opciones
 - [ ] A) Todas son enunciativas porque solo informan. <!-- feedback: Incorrecto. Hay al menos una pregunta y una exclamación. -->
-- [ ] B) Solo hay una oración interrogativa; las demás son exclamativas. <!-- feedback: Incorrecto. La tercera es enunciativa. -->
-- [x] C) Interrogativa (pregunta), exclamativa (emoción) y enunciativa (información). <!-- feedback: Correcto. Cada intención usa una estructura y un signo distinto. -->
+- [ ] C) Solo hay una oración interrogativa; las demás son exclamativas. <!-- feedback: Incorrecto. La tercera es enunciativa. -->
+- [x] B) Interrogativa (pregunta), exclamativa (emoción) y enunciativa (información). <!-- feedback: Correcto. Cada intención usa una estructura y un signo distinto. -->
 - [ ] D) Solo hay oraciones imperativas porque dan instrucciones. <!-- feedback: Incorrecto. No se trata de dar órdenes en este cartel. -->
 
 ### Explicacion Pedagogica
@@ -96,8 +96,8 @@ Tipos de oración según la intención: enunciativa (informa), interrogativa (pr
 ¿Qué modalidad expresiva tiene cada oración?
 
 ### Opciones
-- [ ] A) Las tres son afirmativas porque no niegan nada. <!-- feedback: Incorrecto. La segunda es claramente negativa. -->
-- [x] B) Afirmativa, negativa e interrogativa. <!-- feedback: Correcto. Cada modalidad refleja una actitud distinta del hablante. -->
+- [ ] B) Las tres son afirmativas porque no niegan nada. <!-- feedback: Incorrecto. La segunda es claramente negativa. -->
+- [x] A) Afirmativa, negativa e interrogativa. <!-- feedback: Correcto. Cada modalidad refleja una actitud distinta del hablante. -->
 - [ ] C) Negativa, afirmativa y exclamativa. <!-- feedback: Incorrecto. El orden y la última modalidad están equivocados. -->
 - [ ] D) Exclamativa, interrogativa y afirmativa. <!-- feedback: Incorrecto. La primera no expresa emoción. -->
 
@@ -117,8 +117,8 @@ Modalidades de la oración: afirmativa (dice sí), negativa (dice no), interroga
 ¿Cuántas oraciones componen el enunciado y cómo se identifican?
 
 ### Opciones
-- [ ] A) Es una sola oración porque tiene un solo verbo. <!-- feedback: Incorrecto. Hay tres verbos conjugados: vinieron, trajeron, jugamos. -->
-- [x] B) Son tres oraciones unidas por comas y una conjunción. <!-- feedback: Correcto. Cada verbo marca una acción distinta y, por tanto, una oración. -->
+- [ ] B) Es una sola oración porque tiene un solo verbo. <!-- feedback: Incorrecto. Hay tres verbos conjugados: vinieron, trajeron, jugamos. -->
+- [x] A) Son tres oraciones unidas por comas y una conjunción. <!-- feedback: Correcto. Cada verbo marca una acción distinta y, por tanto, una oración. -->
 - [ ] C) Son dos oraciones separadas por la conjunción «y». <!-- feedback: Incorrecto. Hay tres acciones, no dos. -->
 - [ ] D) Es una oración compuesta pero no se puede segmentar. <!-- feedback: Incorrecto. Cualquier oración se puede segmentar por sus verbos. -->
 
@@ -222,9 +222,9 @@ Encadenar muchos conectores adversativos («pero», «aunque», «sin embargo»)
 ¿Qué efecto comunicativo logra el aviso al repetir la estructura condicional?
 
 ### Opciones
-- [ ] A) El aviso resulta confuso porque repite lo mismo. <!-- feedback: Incorrecto. La repetición refuerza la norma y deja clara la consecuencia. -->
-- [ ] B) Solo la segunda oración informa, la primera sobra. <!-- feedback: Incorrecto. Ambas son necesarias para entender la condición. -->
-- [x] C) La estructura paralela deja muy claras la condición y la consecuencia. <!-- feedback: Correcto. El paralelismo hace la norma fácil de recordar. -->
+- [ ] B) El aviso resulta confuso porque repite lo mismo. <!-- feedback: Incorrecto. La repetición refuerza la norma y deja clara la consecuencia. -->
+- [ ] C) Solo la segunda oración informa, la primera sobra. <!-- feedback: Incorrecto. Ambas son necesarias para entender la condición. -->
+- [x] A) La estructura paralela deja muy claras la condición y la consecuencia. <!-- feedback: Correcto. El paralelismo hace la norma fácil de recordar. -->
 - [ ] D) El aviso intimida a los estudiantes y debería suavizarse. <!-- feedback: Incorrecto. La intención es informar con claridad, no amenazar. -->
 
 ### Explicacion Pedagogica

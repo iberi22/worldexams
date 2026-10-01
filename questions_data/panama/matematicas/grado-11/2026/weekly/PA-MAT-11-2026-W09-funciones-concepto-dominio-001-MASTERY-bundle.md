@@ -29,8 +29,8 @@ bundle_index: 1
 ¿Cuál es la definición fundamental de una función en el conjunto de los números reales?
 
 ### Opciones
-- [ ] A) Es cualquier conjunto de pares ordenados (x, y) <!-- feedback: Incorrecto. Eso define una relación en general, pero no necesariamente cumple la condición de función. -->
-- [x] B) Relación donde a cada entrada le corresponde exactamente una salida <!-- feedback: Correcto. La unicidad de la imagen para cada elemento del dominio es la esencia de una función. -->
+- [ ] B) Es cualquier conjunto de pares ordenados (x, y) <!-- feedback: Incorrecto. Eso define una relación en general, pero no necesariamente cumple la condición de función. -->
+- [x] A) Relación donde a cada entrada le corresponde exactamente una salida <!-- feedback: Correcto. La unicidad de la imagen para cada elemento del dominio es la esencia de una función. -->
 - [ ] C) Es una igualdad matemática que siempre involucra una potencia cuadrada <!-- feedback: Incorrecto. Las funciones pueden ser lineales, constantes o de cualquier otro tipo polinómico. -->
 - [ ] D) Operación donde se obtienen múltiples resultados por cada entrada <!-- feedback: Incorrecto. Si una entrada produce más de una salida, la relación deja de ser una función. -->
 
@@ -50,8 +50,8 @@ Definición conceptual de función y distinción entre los conceptos de relació
 ¿Cómo se denomina al conjunto de todos los valores posibles de la variable independiente (x)?
 
 ### Opciones
-- [ ] A) Codominio <!-- feedback: El codominio es el conjunto de llegada, el cual puede contener elementos que no sean imágenes. -->
-- [x] B) Dominio <!-- feedback: Correcto. El dominio es el conjunto de partida formado por todos los valores de entrada válidos. -->
+- [ ] B) Codominio <!-- feedback: El codominio es el conjunto de llegada, el cual puede contener elementos que no sean imágenes. -->
+- [x] A) Dominio <!-- feedback: Correcto. El dominio es el conjunto de partida formado por todos los valores de entrada válidos. -->
 - [ ] C) Rango o Ámbito <!-- feedback: El rango es el subconjunto del codominio formado exclusivamente por los valores de salida o imágenes. -->
 - [ ] D) Pendiente <!-- feedback: La pendiente es una medida de inclinación exclusiva de las funciones lineales, no un conjunto. -->
 
@@ -93,8 +93,8 @@ Si una función se define como f(x) = 7, ¿cuál es el valor resultante de f(25)
 
 ### Opciones
 - [ ] A) 25 <!-- feedback: Incorrecto. Se confundió la variable de entrada con el valor constante de la función de salida. -->
-- [x] B) 7 <!-- feedback: Correcto. En una función constante, la imagen es siempre la misma sin importar el valor de la entrada x. -->
-- [ ] C) 175 <!-- feedback: Incorrecto. Se realizó una multiplicación asumiendo una relación proporcional que no existe en esta función. -->
+- [x] C) 7 <!-- feedback: Correcto. En una función constante, la imagen es siempre la misma sin importar el valor de la entrada x. -->
+- [ ] B) 175 <!-- feedback: Incorrecto. Se realizó una multiplicación asumiendo una relación proporcional que no existe en esta función. -->
 - [ ] D) No se puede determinar <!-- feedback: Incorrecto. La función está plenamente definida para cualquier número real de entrada. -->
 
 ### Explicacion Pedagogica
@@ -115,8 +115,8 @@ Comprensión y evaluación de funciones constantes en el conjunto de los número
 ### Opciones
 - [ ] A) Todos los números reales <!-- feedback: Incorrecto. Existe un valor de x que anula el denominador, lo cual no es una operación permitida. -->
 - [ ] B) Solo el número 3 <!-- feedback: Incorrecto. Este es el único valor que NO pertenece al dominio de la función dada. -->
-- [x] C) Todos los reales excepto el 3 <!-- feedback: Correcto. El denominador no puede ser nulo, por lo tanto la variable x debe ser distinta de tres. -->
-- [ ] D) Los reales mayores a 3 <!-- feedback: Incorrecto. Los números menores a 3 también producen resultados válidos en esta función. -->
+- [x] D) Todos los reales excepto el 3 <!-- feedback: Correcto. El denominador no puede ser nulo, por lo tanto la variable x debe ser distinta de tres. -->
+- [ ] C) Los reales mayores a 3 <!-- feedback: Incorrecto. Los números menores a 3 también producen resultados válidos en esta función. -->
 
 ### Explicacion Pedagogica
 Identificación de restricciones en el dominio de funciones racionales (evitación de la división por cero).
@@ -134,8 +134,8 @@ Identificación de restricciones en el dominio de funciones racionales (evitaci�
 Dada la función f(x) = x^2 - 4x + 1, halla el valor exacto de f(-2).
 
 ### Opciones
-- [ ] A) -3 <!-- feedback: Incorrecto. Se cometió un error de signos al elevar el número negativo al cuadrado durante el proceso. -->
-- [x] B) 13 <!-- feedback: Correcto. (-2)^2 - 4(-2) + 1 = 4 + 8 + 1 = 13. Las potencias pares de negativos son positivas. -->
+- [ ] B) -3 <!-- feedback: Incorrecto. Se cometió un error de signos al elevar el número negativo al cuadrado durante el proceso. -->
+- [x] A) 13 <!-- feedback: Correcto. (-2)^2 - 4(-2) + 1 = 4 + 8 + 1 = 13. Las potencias pares de negativos son positivas. -->
 - [ ] C) 5 <!-- feedback: Incorrecto. Se cometió un error en el signo del producto intermedio entre el coeficiente y la x. -->
 - [ ] D) 1 <!-- feedback: Incorrecto. Error en la suma aritmética final de los tres términos que componen la función. -->
 
@@ -156,8 +156,8 @@ Determina el dominio de la función real g(x) = sqrt(x + 4).
 
 ### Opciones
 - [ ] A) Los reales positivos <!-- feedback: Incorrecto. Esta restricción es demasiado fuerte, ya que algunos negativos también sirven. -->
-- [x] B) x mayor o igual a -4 <!-- feedback: Correcto. El radicando debe ser no negativo para que la raíz cuadrada sea un número real. -->
-- [ ] C) x estrictamente mayor a -4 <!-- feedback: Incorrecto. La raíz de cero es válida en el conjunto de los reales, por lo que incluye al -4. -->
+- [x] C) x mayor o igual a -4 <!-- feedback: Correcto. El radicando debe ser no negativo para que la raíz cuadrada sea un número real. -->
+- [ ] B) x estrictamente mayor a -4 <!-- feedback: Incorrecto. La raíz de cero es válida en el conjunto de los reales, por lo que incluye al -4. -->
 - [ ] D) Todos los números reales <!-- feedback: Incorrecto. No se pueden procesar raíces de números negativos en este campo numérico. -->
 
 ### Explicacion Pedagogica
@@ -176,8 +176,8 @@ Cálculo del dominio de funciones irracionales (raíces de índice par).
 Sea f(x) = 2x si x <= 5; y f(x) = 3x - 1 si x > 5. Calcula el valor de f(6).
 
 ### Opciones
-- [ ] A) 12 <!-- feedback: Incorrecto. Se aplicó la primera regla de la función, la cual solo es válida para valores menores o iguales a 5. -->
-- [x] B) 17 <!-- feedback: Correcto. Como 6 es mayor que 5, se debe usar la expresión 3(6) - 1, la cual resulta en diecisiete. -->
+- [ ] B) 12 <!-- feedback: Incorrecto. Se aplicó la primera regla de la función, la cual solo es válida para valores menores o iguales a 5. -->
+- [x] A) 17 <!-- feedback: Correcto. Como 6 es mayor que 5, se debe usar la expresión 3(6) - 1, la cual resulta en diecisiete. -->
 - [ ] C) 18 <!-- feedback: Incorrecto. Se olvidó realizar la resta de la unidad indicada en el segundo tramo de la función. -->
 - [ ] D) 29 <!-- feedback: Incorrecto. Se sumaron erróneamente los resultados de ambas ramas de la función definida por partes. -->
 
@@ -219,8 +219,8 @@ Determinación del rango de una función lineal a partir de la restricción de s
 
 ### Opciones
 - [ ] A) La función f(x) = x^2 <!-- feedback: Incorrecto. No es inyectiva porque valores opuestos de entrada tienen la misma imagen. -->
-- [x] B) La función f(x) = 2x - 5 <!-- feedback: Correcto. En las funciones lineales no constantes, cada valor de y tiene una única preimagen x. -->
-- [ ] C) La función f(x) = |x| <!-- feedback: Incorrecto. Al igual que la cuadrática, el valor absoluto de 2 y -2 resulta en el mismo valor 2. -->
+- [x] C) La función f(x) = 2x - 5 <!-- feedback: Correcto. En las funciones lineales no constantes, cada valor de y tiene una única preimagen x. -->
+- [ ] B) La función f(x) = |x| <!-- feedback: Incorrecto. Al igual que la cuadrática, el valor absoluto de 2 y -2 resulta en el mismo valor 2. -->
 - [ ] D) La función f(x) = sen(x) <!-- feedback: Incorrecto. Las funciones trigonométricas repiten sus valores periódicamente de forma infinita. -->
 
 ### Explicacion Pedagogica
@@ -240,9 +240,9 @@ Si f(x) = x + 2 y g(x) = x^2, ¿cuál es la expresión de la función compuesta 
 
 ### Opciones
 - [ ] A) x^2 + 2 <!-- feedback: Incorrecto. Esta expresión corresponde a la composición (f o g)(x), donde se aplica g primero. -->
-- [x] B) (x + 2)^2 <!-- feedback: Correcto. Se introduce la función f dentro de la variable de la función g, elevando toda la suma al cuadrado. -->
-- [ ] C) x^2 + 4 <!-- feedback: Incorrecto. Se omitió el término central del trinomio si se hubiera realizado la expansión del cuadrado. -->
-- [ ] D) 2x + 2 <!-- feedback: Incorrecto. Se realizó una manipulación algebraica errónea de los términos de ambas funciones. -->
+- [x] D) (x + 2)^2 <!-- feedback: Correcto. Se introduce la función f dentro de la variable de la función g, elevando toda la suma al cuadrado. -->
+- [ ] B) x^2 + 4 <!-- feedback: Incorrecto. Se omitió el término central del trinomio si se hubiera realizado la expansión del cuadrado. -->
+- [ ] C) 2x + 2 <!-- feedback: Incorrecto. Se realizó una manipulación algebraica errónea de los términos de ambas funciones. -->
 
 ### Explicacion Pedagogica
 Cálculo de la composición de funciones mediante la sustitución de expresiones algebraicas.
@@ -261,9 +261,9 @@ Cálculo de la composición de funciones mediante la sustitución de expresiones
 
 ### Opciones
 - [ ] A) x mayor o igual a 2 <!-- feedback: Incompleto. No se considera la exclusión del valor que hace nulo al denominador de la fracción. -->
-- [x] B) Intervalo [2, 5) U (5, inf) <!-- feedback: Correcto. Combina la restricción de la raíz (x>=2) con la del denominador (x!=5). -->
-- [ ] C) x mayor estricto a 2 y x != 5 <!-- feedback: Incorrecto. El valor 2 es perfectamente válido en el numerador ya que la raíz de cero existe. -->
-- [ ] D) x distinto de 5 <!-- feedback: Incompleto. Se ignoró totalmente la restricción de signo impuesta por la raíz cuadrada. -->
+- [x] D) Intervalo [2, 5) U (5, inf) <!-- feedback: Correcto. Combina la restricción de la raíz (x>=2) con la del denominador (x!=5). -->
+- [ ] B) x mayor estricto a 2 y x != 5 <!-- feedback: Incorrecto. El valor 2 es perfectamente válido en el numerador ya que la raíz de cero existe. -->
+- [ ] C) x distinto de 5 <!-- feedback: Incompleto. Se ignoró totalmente la restricción de signo impuesta por la raíz cuadrada. -->
 
 ### Explicacion Pedagogica
 Análisis del dominio en funciones que presentan restricciones racionales e irracionales simultáneas.
@@ -302,9 +302,9 @@ Determinación de la función inversa mediante el despeje de la variable indepen
 ¿Cuál de las siguientes funciones posee una simetría de tipo PAR?
 
 ### Opciones
-- [x] A) f(x) = x^2 + 3 <!-- feedback: Correcto. Una función es par si f(-x) = f(x). El cuadrado anula el efecto del signo negativo de x. -->
-- [ ] B) f(x) = x^3 <!-- feedback: Incorrecto. Esta es una función impar ya que conserva el signo negativo tras elevar al cubo. -->
-- [ ] C) f(x) = 2x - 1 <!-- feedback: Incorrecto. No presenta simetría respecto al eje vertical ni respecto al origen de coordenadas. -->
+- [x] C) f(x) = x^2 + 3 <!-- feedback: Correcto. Una función es par si f(-x) = f(x). El cuadrado anula el efecto del signo negativo de x. -->
+- [ ] A) f(x) = x^3 <!-- feedback: Incorrecto. Esta es una función impar ya que conserva el signo negativo tras elevar al cubo. -->
+- [ ] B) f(x) = 2x - 1 <!-- feedback: Incorrecto. No presenta simetría respecto al eje vertical ni respecto al origen de coordenadas. -->
 - [ ] D) f(x) = sqrt(x) <!-- feedback: Incorrecto. No puede evaluarse la simetría par al no estar definida para valores negativos de x. -->
 
 ### Explicacion Pedagogica
@@ -324,9 +324,9 @@ Si la gráfica de y = f(x) se desplaza 3 unidades hacia arriba y 2 unidades a la
 
 ### Opciones
 - [ ] A) y = f(x + 2) + 3 <!-- feedback: Incorrecto. El desplazamiento hacia la derecha se representa con una resta dentro del argumento. -->
-- [x] B) y = f(x - 2) + 3 <!-- feedback: Correcto. La forma f(x-h)+k representa desplazamientos horizontales h y verticales k respectivamente. -->
-- [ ] C) y = f(x - 3) + 2 <!-- feedback: Incorrecto. Se intercambiaron los valores de las traslaciones horizontal y vertical de la gráfica. -->
-- [ ] D) y = f(x + 3) - 2 <!-- feedback: Incorrecto. Se utilizaron signos de dirección opuestos a los indicados en el problema planteado. -->
+- [x] D) y = f(x - 2) + 3 <!-- feedback: Correcto. La forma f(x-h)+k representa desplazamientos horizontales h y verticales k respectivamente. -->
+- [ ] B) y = f(x - 3) + 2 <!-- feedback: Incorrecto. Se intercambiaron los valores de las traslaciones horizontal y vertical de la gráfica. -->
+- [ ] C) y = f(x + 3) - 2 <!-- feedback: Incorrecto. Se utilizaron signos de dirección opuestos a los indicados en el problema planteado. -->
 
 ### Explicacion Pedagogica
 Comprensión de las traslaciones de funciones en el plano cartesiano (efectos de h y k).
@@ -346,8 +346,8 @@ Halla el dominio de definición de la función real f(x) = sqrt(9 - x^2).
 ### Opciones
 - [ ] A) x menor o igual a 3 <!-- feedback: Incompleto. No se considera la restricción del límite inferior para mantener el radicando positivo. -->
 - [ ] B) x mayor o igual a -3 <!-- feedback: Incompleto. No se considera la restricción del límite superior para mantener el radicando positivo. -->
-- [x] C) El intervalo cerrado [-3, 3] <!-- feedback: Correcto. Resolviendo la inecuación 9 - x^2 >= 0 se obtiene el rango de valores entre -3 y 3. -->
-- [ ] D) x fuera del rango (-3, 3) <!-- feedback: Incorrecto. En esas regiones el radicando sería negativo, invalidando la función en los reales. -->
+- [x] D) El intervalo cerrado [-3, 3] <!-- feedback: Correcto. Resolviendo la inecuación 9 - x^2 >= 0 se obtiene el rango de valores entre -3 y 3. -->
+- [ ] C) x fuera del rango (-3, 3) <!-- feedback: Incorrecto. En esas regiones el radicando sería negativo, invalidando la función en los reales. -->
 
 ### Explicacion Pedagogica
 Determinación del dominio de funciones irracionales con argumentos polinómicos de segundo grado.
@@ -365,8 +365,8 @@ Determinación del dominio de funciones irracionales con argumentos polinómicos
 ¿Cuál es la forma simplificada del cociente incremental [f(x+h) - f(x)] / h para la función cuadrática f(x) = x^2?
 
 ### Opciones
-- [ ] A) h <!-- feedback: Incorrecto. Resultado obtenido al omitir términos fundamentales en la expansión del binomio al cuadrado. -->
-- [x] B) 2x + h <!-- feedback: Correcto. Al expandir (x+h)^2 y restar x^2 queda 2xh + h^2, lo cual al dividirse entre h resulta en esta expresión. -->
+- [ ] B) h <!-- feedback: Incorrecto. Resultado obtenido al omitir términos fundamentales en la expansión del binomio al cuadrado. -->
+- [x] A) 2x + h <!-- feedback: Correcto. Al expandir (x+h)^2 y restar x^2 queda 2xh + h^2, lo cual al dividirse entre h resulta en esta expresión. -->
 - [ ] C) 2x <!-- feedback: Este es el valor del límite cuando h tiende a cero, pero no es la expresión simplificada completa. -->
 - [ ] D) x^2 + h <!-- feedback: Incorrecto. Se cometió un error en el desarrollo del producto notable del numerador del cociente. -->
 
@@ -386,9 +386,9 @@ Cálculo y simplificación del cociente de diferencias en funciones cuadráticas
 ¿Cuáles son las asíntotas verticales de la función real f(x) = (2x + 1) / (x^2 - 4)?
 
 ### Opciones
-- [ ] A) x = 4 únicamente <!-- feedback: Incorrecto. Se confundió el valor de la constante con el valor de la raíz del denominador. -->
-- [ ] B) x = 2 únicamente <!-- feedback: Incompleto. Existe un segundo valor negativo que también anula la expresión del denominador. -->
-- [x] C) x = 2 y x = -2 <!-- feedback: Correcto. Las asíntotas verticales ocurren en los valores de x que hacen nulo al denominador de la función. -->
+- [ ] B) x = 4 únicamente <!-- feedback: Incorrecto. Se confundió el valor de la constante con el valor de la raíz del denominador. -->
+- [ ] C) x = 2 únicamente <!-- feedback: Incompleto. Existe un segundo valor negativo que también anula la expresión del denominador. -->
+- [x] A) x = 2 y x = -2 <!-- feedback: Correcto. Las asíntotas verticales ocurren en los valores de x que hacen nulo al denominador de la función. -->
 - [ ] D) y = 0 <!-- feedback: Incorrecto. Esta corresponde a una asíntota horizontal, no a una de tipo vertical solicitada. -->
 
 ### Explicacion Pedagogica
@@ -428,9 +428,9 @@ Evaluación de composiciones sucesivas de funciones con propiedades especiales d
 ¿Cuál es el dominio de la función real definida por la expresión f(x) = ln(x^2 - 1)?
 
 ### Opciones
-- [ ] A) x mayor estricto a 1 <!-- feedback: Incompleto. No considera los valores negativos menores a menos uno, los cuales también sirven. -->
-- [ ] B) El intervalo (-1, 1) <!-- feedback: Incorrecto. En esta región el argumento del logaritmo sería negativo, lo cual no está definido. -->
-- [x] C) Unión de (-inf, -1) y (1, inf) <!-- feedback: Correcto. El argumento de un logaritmo natural debe ser siempre estrictamente positivo. -->
+- [ ] B) x mayor estricto a 1 <!-- feedback: Incompleto. No considera los valores negativos menores a menos uno, los cuales también sirven. -->
+- [ ] C) El intervalo (-1, 1) <!-- feedback: Incorrecto. En esta región el argumento del logaritmo sería negativo, lo cual no está definido. -->
+- [x] A) Unión de (-inf, -1) y (1, inf) <!-- feedback: Correcto. El argumento de un logaritmo natural debe ser siempre estrictamente positivo. -->
 - [ ] D) Reales excepto el 1 y -1 <!-- feedback: Incorrecto. Se ignoraron todos los valores intermedios que hacen que la resta sea negativa. -->
 
 ### Explicacion Pedagogica

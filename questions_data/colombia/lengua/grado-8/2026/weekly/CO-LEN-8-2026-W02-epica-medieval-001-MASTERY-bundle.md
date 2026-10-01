@@ -33,9 +33,9 @@ creador: "Jules-Agent"
 ¿Cuál es el nombre genérico que reciben los poemas épicos medievales que narran las hazañas de héroes legendarios?
 
 ### Opciones
-- [ ] A) Novelas de caballería <!-- feedback: Las novelas de caballería son en prosa y posteriores a los grandes poemas épicos. -->
-- [ ] B) Romances antiguos <!-- feedback: Los romances son composiciones más breves, a menudo derivadas de los cantares de gesta. -->
-- [x] C) Cantares de gesta <!-- feedback: "Gesta" significa hazañas; son los poemas que narran los hechos heroicos de un caballero. -->
+- [ ] B) Novelas de caballería <!-- feedback: Las novelas de caballería son en prosa y posteriores a los grandes poemas épicos. -->
+- [ ] C) Romances antiguos <!-- feedback: Los romances son composiciones más breves, a menudo derivadas de los cantares de gesta. -->
+- [x] A) Cantares de gesta <!-- feedback: "Gesta" significa hazañas; son los poemas que narran los hechos heroicos de un caballero. -->
 - [ ] D) Epopeyas griegas <!-- feedback: Las epopeyas griegas, como la Ilíada, pertenecen a la Antigüedad clásica, no a la Edad Media. -->
 
 ### Explicacion Pedagogica
@@ -76,9 +76,9 @@ El eje estructural del Cantar de Mio Cid es la recuperación de la honra, tanto 
 
 ### Opciones
 - [ ] A) Rebeldía constante ante las órdenes injustas. <!-- feedback: Aunque puede haber tensiones, la lealtad es la norma general del héroe. -->
-- [x] B) Lealtad y vasallaje incondicional. <!-- feedback: El héroe épico encarna el ideal del buen vasallo que sirve con fidelidad a su señor. -->
-- [ ] C) Indiferencia total hacia los asuntos políticos. <!-- feedback: El héroe está profundamente involucrado en la defensa y expansión de su reino. -->
-- [ ] D) Búsqueda de la independencia para formar un propio reino. <!-- feedback: El objetivo del héroe suele ser la gloria de su señor y su pueblo, no la secesión. -->
+- [x] D) Lealtad y vasallaje incondicional. <!-- feedback: El héroe épico encarna el ideal del buen vasallo que sirve con fidelidad a su señor. -->
+- [ ] B) Indiferencia total hacia los asuntos políticos. <!-- feedback: El héroe está profundamente involucrado en la defensa y expansión de su reino. -->
+- [ ] C) Búsqueda de la independencia para formar un propio reino. <!-- feedback: El objetivo del héroe suele ser la gloria de su señor y su pueblo, no la secesión. -->
 
 ### Explicacion Pedagogica
 La lealtad es un pilar del sistema feudal reflejado en la literatura épica; el héroe se define por su servicio al soberano y a la fe.
@@ -97,9 +97,9 @@ La lealtad es un pilar del sistema feudal reflejado en la literatura épica; el 
 
 ### Opciones
 - [ ] A) En la presencia de dragones y magos que ayudan al héroe. <!-- feedback: Esto es propio de la épica nórdica o los libros de caballería, no del Cid. -->
-- [x] B) En la descripción detallada de lugares geográficos reales y aspectos cotidianos. <!-- feedback: El Cid se mueve por una geografía reconocible y se preocupa por temas humanos como el dinero o la familia. -->
-- [ ] C) En la invención de lenguas mágicas para los diálogos de los personajes. <!-- feedback: Los personajes hablan en el castellano de la época, sin elementos lingüísticos fantásticos. -->
-- [ ] D) En el uso de una métrica perfecta y culta sin variaciones. <!-- feedback: El realismo se refiere al contenido; la métrica del Cid es irregular (anisosilabismo). -->
+- [x] D) En la descripción detallada de lugares geográficos reales y aspectos cotidianos. <!-- feedback: El Cid se mueve por una geografía reconocible y se preocupa por temas humanos como el dinero o la familia. -->
+- [ ] B) En la invención de lenguas mágicas para los diálogos de los personajes. <!-- feedback: Los personajes hablan en el castellano de la época, sin elementos lingüísticos fantásticos. -->
+- [ ] C) En el uso de una métrica perfecta y culta sin variaciones. <!-- feedback: El realismo se refiere al contenido; la métrica del Cid es irregular (anisosilabismo). -->
 
 ### Explicacion Pedagogica
 El realismo castellano hace que el héroe sea más humano, alejándolo de la figura semidivina o puramente mítica de otras tradiciones.
@@ -119,8 +119,8 @@ Si en un texto épico leemos constantemente frases como "El que en buena hora ci
 ### Opciones
 - [ ] A) Indicar que el héroe tiene poderes mágicos en su espada. <!-- feedback: Es una descripción honorífica, no implica necesariamente magia. -->
 - [ ] B) Ocultar el verdadero nombre del personaje por motivos de seguridad. <!-- feedback: El lector o el oyente conoce perfectamente de quién se trata. -->
-- [x] C) Facilitar la memorización del juglar y enfatizar una cualidad del héroe. <!-- feedback: Los epítetos épicos son recursos de la oralidad para fijar la imagen del héroe en la audiencia. -->
-- [ ] D) Rellenar los versos que no tienen rima para mantener el ritmo. <!-- feedback: Aunque ayudan a la métrica, su función principal es caracterizar al héroe de forma solemne. -->
+- [x] D) Facilitar la memorización del juglar y enfatizar una cualidad del héroe. <!-- feedback: Los epítetos épicos son recursos de la oralidad para fijar la imagen del héroe en la audiencia. -->
+- [ ] C) Rellenar los versos que no tienen rima para mantener el ritmo. <!-- feedback: Aunque ayudan a la métrica, su función principal es caracterizar al héroe de forma solemne. -->
 
 ### Explicacion Pedagogica
 El epíteto épico es una marca distintiva del mester de juglaría, sirviendo tanto para la estructura del verso como para la glorificación del personaje.
@@ -139,9 +139,9 @@ El epíteto épico es una marca distintiva del mester de juglaría, sirviendo ta
 
 ### Opciones
 - [ ] A) Su falta de entrenamiento militar y cobardía. <!-- feedback: Roldán es el modelo de valentía; su error no es la cobardía. -->
-- [x] B) El exceso de orgullo heroico y el sacrificio por el honor. <!-- feedback: Su "desmesura" u orgullo le impide pedir ayuda, prefiriendo morir antes que parecer débil. -->
-- [ ] C) El odio profundo que sentía hacia Carlomagno y sus tropas. <!-- feedback: Roldán es el vasallo más leal de Carlomagno. -->
-- [ ] D) Una táctica militar secreta para engañar al enemigo. <!-- feedback: No es una táctica, sino una decisión personal basada en su código de honor. -->
+- [x] D) El exceso de orgullo heroico y el sacrificio por el honor. <!-- feedback: Su "desmesura" u orgullo le impide pedir ayuda, prefiriendo morir antes que parecer débil. -->
+- [ ] B) El odio profundo que sentía hacia Carlomagno y sus tropas. <!-- feedback: Roldán es el vasallo más leal de Carlomagno. -->
+- [ ] C) Una táctica militar secreta para engañar al enemigo. <!-- feedback: No es una táctica, sino una decisión personal basada en su código de honor. -->
 
 ### Explicacion Pedagogica
 El orgullo (o "desmesura") es un rasgo común en los héroes trágicos de la épica, donde el honor personal a veces choca con la lógica de la supervivencia.
@@ -159,9 +159,9 @@ El orgullo (o "desmesura") es un rasgo común en los héroes trágicos de la ép
 ¿Cuál es la razón principal por la que la épica medieval suele exagerar las fuerzas de los enemigos o la magnitud de las batallas?
 
 ### Opciones
-- [ ] A) Para enseñar matemáticas y estrategias de conteo a los oyentes. <!-- feedback: La literatura no tenía ese fin pedagógico específico en este caso. -->
-- [ ] B) Porque los juglares no conocían la realidad de las guerras de su tiempo. <!-- feedback: Los juglares vivían en una sociedad guerrera y conocían bien el ambiente bélico. -->
-- [x] C) Para engrandecer la figura del héroe al vencer dificultades aparentemente imposibles. <!-- feedback: Cuanto más poderoso es el enemigo, mayor es la gloria del héroe que lo derrota. -->
+- [ ] B) Para enseñar matemáticas y estrategias de conteo a los oyentes. <!-- feedback: La literatura no tenía ese fin pedagógico específico en este caso. -->
+- [ ] C) Porque los juglares no conocían la realidad de las guerras de su tiempo. <!-- feedback: Los juglares vivían en una sociedad guerrera y conocían bien el ambiente bélico. -->
+- [x] A) Para engrandecer la figura del héroe al vencer dificultades aparentemente imposibles. <!-- feedback: Cuanto más poderoso es el enemigo, mayor es la gloria del héroe que lo derrota. -->
 - [ ] D) Debido a errores en la traducción de los textos originales latinos. <!-- feedback: Las exageraciones son recursos literarios conscientes, no errores de traducción. -->
 
 ### Explicacion Pedagogica
@@ -181,8 +181,8 @@ La hipérbole épica es un recurso fundamental para la creación del mito heroic
 
 ### Opciones
 - [ ] A) Que el Cid tenía miedo de pelear contra la nobleza de Carrión. <!-- feedback: El Cid demuestra su valor en innumerables batallas; no es miedo. -->
-- [ ] B) Que las hijas del Cid no eran importantes para él. <!-- feedback: El Cid ama profundamente a su familia y busca reparar el daño hecho. -->
-- [x] C) La transición hacia un sistema legal civilizado y el respeto a la autoridad real. <!-- feedback: El Cid actúa como un "buen vasallo" que confía en las leyes y en el juicio del monarca. -->
+- [ ] C) Que las hijas del Cid no eran importantes para él. <!-- feedback: El Cid ama profundamente a su familia y busca reparar el daño hecho. -->
+- [x] B) La transición hacia un sistema legal civilizado y el respeto a la autoridad real. <!-- feedback: El Cid actúa como un "buen vasallo" que confía en las leyes y en el juicio del monarca. -->
 - [ ] D) Que el Cid había perdido sus habilidades de guerrero por la vejez. <!-- feedback: El Cid sigue siendo un guerrero formidable, pero elige la vía legal. -->
 
 ### Explicacion Pedagogica
@@ -244,9 +244,9 @@ La épica cumple una función socializadora, creando una identidad común y valo
 
 ### Opciones
 - [ ] A) Los refuerza, ya que solo se preocupa por tareas domésticas durante toda la obra. <!-- feedback: Krimilda toma acciones políticas y guerreras drásticas para su venganza. -->
-- [x] B) Los desafía al asumir un rol activo y violento en la política y la guerra para vengar a su esposo. <!-- feedback: Su papel rompe con la pasividad habitual de las mujeres en la épica, aunque su fin sea trágico. -->
-- [ ] C) Los refuerza, porque demuestra que las mujeres no pueden tomar decisiones importantes. <!-- feedback: Sus decisiones mueven toda la segunda parte del poema, demostrando un gran poder de voluntad. -->
-- [ ] D) Los desafía al casarse muchas veces por interés económico puro. <!-- feedback: Su motivación es el honor y la venganza por Sigfrido, no el dinero. -->
+- [x] D) Los desafía al asumir un rol activo y violento en la política y la guerra para vengar a su esposo. <!-- feedback: Su papel rompe con la pasividad habitual de las mujeres en la épica, aunque su fin sea trágico. -->
+- [ ] B) Los refuerza, porque demuestra que las mujeres no pueden tomar decisiones importantes. <!-- feedback: Sus decisiones mueven toda la segunda parte del poema, demostrando un gran poder de voluntad. -->
+- [ ] C) Los desafía al casarse muchas veces por interés económico puro. <!-- feedback: Su motivación es el honor y la venganza por Sigfrido, no el dinero. -->
 
 ### Explicacion Pedagogica
 Aunque la épica es un género predominantemente masculino, personajes como Krimilda muestran la complejidad de las figuras femeninas cuando el honor familiar está en juego.
@@ -264,9 +264,9 @@ Aunque la épica es un género predominantemente masculino, personajes como Krim
 ¿Cuál es el efecto estético y psicológico de usar el presente histórico en los cantares de gesta cuando el juglar recitaba ante su público?
 
 ### Opciones
-- [ ] A) Provocar confusión en la audiencia sobre si el héroe aún está vivo. <!-- feedback: El público sabía que eran leyendas del pasado; el objetivo no era engañar. -->
-- [ ] B) Demostrar que el juglar no sabía usar los tiempos verbales del pasado. <!-- feedback: Los juglares eran expertos en el manejo del lenguaje oral para su oficio. -->
-- [x] C) Aumentar el dinamismo y la sensación de inmediatez, haciendo que el público se sienta testigo de la hazaña. <!-- feedback: El presente acerca la acción al oyente, generando una mayor implicación emocional. -->
+- [ ] B) Provocar confusión en la audiencia sobre si el héroe aún está vivo. <!-- feedback: El público sabía que eran leyendas del pasado; el objetivo no era engañar. -->
+- [ ] C) Demostrar que el juglar no sabía usar los tiempos verbales del pasado. <!-- feedback: Los juglares eran expertos en el manejo del lenguaje oral para su oficio. -->
+- [x] A) Aumentar el dinamismo y la sensación de inmediatez, haciendo que el público se sienta testigo de la hazaña. <!-- feedback: El presente acerca la acción al oyente, generando una mayor implicación emocional. -->
 - [ ] D) Reducir el tiempo de la recitación para poder terminar más rápido. <!-- feedback: No afecta la duración, sino la viveza y el estilo de la narración. -->
 
 ### Explicacion Pedagogica

@@ -34,13 +34,13 @@ Estructura y función básica del sistema respiratorio humano, sus órganos prin
 ¿Cuál de los siguientes órganos pertenece al sistema respiratorio humano?
 
 ### Opciones
-- [x] A) Los pulmones.
+- [x] D) Los pulmones.
   <!-- feedback: Los pulmones son los órganos principales del sistema respiratorio, donde ocurre el intercambio de gases. -->
-- [ ] B) El hígado.
+- [ ] A) El hígado.
   <!-- feedback: El hígado pertenece al sistema digestivo, no al respiratorio. -->
-- [ ] C) Los riñones.
+- [ ] B) Los riñones.
   <!-- feedback: Los riñones pertenecen al sistema excretor, no al respiratorio. -->
-- [ ] D) El estómago.
+- [ ] C) El estómago.
   <!-- feedback: El estómago hace parte del sistema digestivo, no del respiratorio. -->
 
 ### Explicacion Pedagogica
@@ -57,11 +57,11 @@ Reconocer los principales órganos del sistema respiratorio y diferenciarlos de 
 ¿Por qué el aire recorre primero la nariz o la boca antes de llegar a los pulmones?
 
 ### Opciones
-- [x] A) Porque la nariz y la boca son las vías de entrada del aire al cuerpo.
+- [x] C) Porque la nariz y la boca son las vías de entrada del aire al cuerpo.
   <!-- feedback: La nariz y la boca son las puertas de entrada del sistema respiratorio. -->
-- [ ] B) Porque los pulmones están ubicados en la boca.
+- [ ] A) Porque los pulmones están ubicados en la boca.
   <!-- feedback: Los pulmones están en el pecho, no en la boca. -->
-- [ ] C) Porque la nariz produce oxígeno nuevo.
+- [ ] B) Porque la nariz produce oxígeno nuevo.
   <!-- feedback: La nariz no produce oxígeno, solo permite la entrada del aire. -->
 - [ ] D) Porque la boca reemplaza a los pulmones.
   <!-- feedback: La boca no reemplaza a los pulmones, solo es una vía de entrada. -->
@@ -80,9 +80,9 @@ Comprender el recorrido del aire por las vías respiratorias superiores antes de
 Si el estudiante pasa de estar sentado a correr, lo más probable es que su ritmo respiratorio:
 
 ### Opciones
-- [x] A) Aumente porque los músculos necesitan más oxígeno al hacer ejercicio.
+- [x] B) Aumente porque los músculos necesitan más oxígeno al hacer ejercicio.
   <!-- feedback: Al correr, los músculos consumen más oxígeno, lo que aumenta la frecuencia respiratoria. -->
-- [ ] B) Disminuya casi hasta detenerse.
+- [ ] A) Disminuya casi hasta detenerse.
   <!-- feedback: Al hacer ejercicio, la frecuencia respiratoria aumenta, no disminuye. -->
 - [ ] C) Se mantenga igual sin ningún cambio.
   <!-- feedback: El esfuerzo físico modifica la frecuencia respiratoria, así que cambia. -->
@@ -103,9 +103,9 @@ Relacionar la actividad física con el aumento de la frecuencia respiratoria seg
 ¿Cuál es la función principal de los alvéolos en el sistema respiratorio?
 
 ### Opciones
-- [x] A) Realizar el intercambio de oxígeno y dióxido de carbono con la sangre.
+- [x] B) Realizar el intercambio de oxígeno y dióxido de carbono con la sangre.
   <!-- feedback: En los alvéolos se lleva a cabo el intercambio gaseoso entre el aire y la sangre. -->
-- [ ] B) Bombear sangre hacia todo el cuerpo.
+- [ ] A) Bombear sangre hacia todo el cuerpo.
   <!-- feedback: Bombear la sangre es función del corazón, no de los alvéolos. -->
 - [ ] C) Producir sonidos al hablar.
   <!-- feedback: La producción de la voz depende de las cuerdas vocales en la laringe. -->
@@ -149,13 +149,13 @@ Aplicar hábitos de higiene y cuidado para proteger el sistema respiratorio en l
 ¿Qué relación se puede establecer entre la calidad del aire y la salud del sistema respiratorio?
 
 ### Opciones
-- [x] A) El aire contaminado irrita las vías respiratorias, mientras que el aire limpio las protege.
+- [x] D) El aire contaminado irrita las vías respiratorias, mientras que el aire limpio las protege.
   <!-- feedback: La contaminación irrita pulmones y vías respiratorias; el aire limpio favorece su buen funcionamiento. -->
-- [ ] B) La contaminación del aire mejora la capacidad de los pulmones.
+- [ ] A) La contaminación del aire mejora la capacidad de los pulmones.
   <!-- feedback: La contaminación no mejora, sino que daña el sistema respiratorio. -->
-- [ ] C) La calidad del aire no influye en la tos ni en la respiración.
+- [ ] B) La calidad del aire no influye en la tos ni en la respiración.
   <!-- feedback: La evidencia muestra que la calidad del aire sí influye en la salud respiratoria. -->
-- [ ] D) Solo las personas del campo pueden respirar aire limpio.
+- [ ] C) Solo las personas del campo pueden respirar aire limpio.
   <!-- feedback: Personas de ciudad también pueden respirar aire limpio en espacios sin contaminación. -->
 
 ### Explicacion Pedagogica
@@ -172,13 +172,13 @@ Analizar cómo la contaminación del aire afecta el funcionamiento del sistema r
 ¿Qué sucede con el oxígeno y el dióxido de carbono durante la respiración?
 
 ### Opciones
-- [x] A) El oxígeno entra al cuerpo y se incorpora a la sangre, mientras que el dióxido de carbono se expulsa al exhalar.
+- [x] D) El oxígeno entra al cuerpo y se incorpora a la sangre, mientras que el dióxido de carbono se expulsa al exhalar.
   <!-- feedback: La respiración incorpora oxígeno y elimina dióxido de carbono producido por las células. -->
-- [ ] B) El oxígeno sale del cuerpo y el dióxido de carbono entra.
+- [ ] A) El oxígeno sale del cuerpo y el dióxido de carbono entra.
   <!-- feedback: Es al revés: el oxígeno entra y el dióxido de carbono sale. -->
-- [ ] C) El oxígeno y el dióxido de carbono permanecen igual dentro del cuerpo.
+- [ ] B) El oxígeno y el dióxido de carbono permanecen igual dentro del cuerpo.
   <!-- feedback: Durante la respiración, estos gases cambian de concentración y dirección. -->
-- [ ] D) El cuerpo solo utiliza el dióxido de carbono y elimina el oxígeno.
+- [ ] C) El cuerpo solo utiliza el dióxido de carbono y elimina el oxígeno.
   <!-- feedback: Las células usan oxígeno, no dióxido de carbono, para obtener energía. -->
 
 ### Explicacion Pedagogica
@@ -195,11 +195,11 @@ Distinguir el intercambio de oxígeno y dióxido de carbono que ocurre en cada c
 ¿Por qué el sistema respiratorio es vital para todo el organismo y qué hábito puede protegerlo?
 
 ### Opciones
-- [x] A) Porque lleva oxígeno a las células y retira dióxido de carbono, y evitar el humo protege los pulmones.
+- [x] C) Porque lleva oxígeno a las células y retira dióxido de carbono, y evitar el humo protege los pulmones.
   <!-- feedback: El sistema respiratorio sostiene la vida celular y se protege evitando sustancias dañinas como el humo. -->
-- [ ] B) Porque solo sirve para hablar y cantar.
+- [ ] A) Porque solo sirve para hablar y cantar.
   <!-- feedback: El sistema respiratorio cumple funciones mucho más amplias que hablar o cantar. -->
-- [ ] C) Porque respirar aire contaminado fortalece los pulmones automáticamente.
+- [ ] B) Porque respirar aire contaminado fortalece los pulmones automáticamente.
   <!-- feedback: El aire contaminado debilita, no fortalece, los pulmones. -->
 - [ ] D) Porque no tiene relación con el sistema circulatorio ni con las células.
   <!-- feedback: El texto explica claramente su relación con el sistema circulatorio y las células. -->

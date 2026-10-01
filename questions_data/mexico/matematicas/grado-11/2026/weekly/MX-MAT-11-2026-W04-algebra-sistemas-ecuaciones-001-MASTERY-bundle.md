@@ -52,9 +52,9 @@ En un sistema de ecuaciones lineales 2x2, cada ecuación representa una línea r
 
 ### Opciones
 - [ ] A) x * y = 30 <!-- feedback: Esto indicaría que el producto de las cantidades es 30. -->
-- [x] B) x + y = 30 <!-- feedback: La suma de ambos tipos de peces es el total de 30. -->
-- [ ] C) x - y = 30 <!-- feedback: Esto indicaría que la diferencia entre ellos es 30. -->
-- [ ] D) y = 30x <!-- feedback: Esto indicaría que hay 30 peces cirujano por cada pez payaso. -->
+- [x] D) x + y = 30 <!-- feedback: La suma de ambos tipos de peces es el total de 30. -->
+- [ ] B) x - y = 30 <!-- feedback: Esto indicaría que la diferencia entre ellos es 30. -->
+- [ ] C) y = 30x <!-- feedback: Esto indicaría que hay 30 peces cirujano por cada pez payaso. -->
 
 ### Explicacion Pedagogica
 El planteamiento de ecuaciones es el primer paso para resolver sistemas. Cuando se nos indica que el total de dos cantidades sumadas es un valor específico, usamos la operación de adición entre las variables representantes para igualarlas a dicho total.
@@ -74,8 +74,8 @@ El planteamiento de ecuaciones es el primer paso para resolver sistemas. Cuando 
 ### Opciones
 - [ ] A) Sustitución <!-- feedback: Es un método válido donde se despeja una variable en una ecuación. -->
 - [ ] B) Reducción (Suma y Resta) <!-- feedback: Es un método válido que busca eliminar una variable. -->
-- [ ] C) Igualación <!-- feedback: Es un método válido donde se despeja la misma variable en ambas ecuaciones. -->
-- [x] D) Método de la raíz cuadrada <!-- feedback: Este método se usa para ecuaciones cuadráticas de la forma x² = k, no para sistemas lineales. -->
+- [ ] D) Igualación <!-- feedback: Es un método válido donde se despeja la misma variable en ambas ecuaciones. -->
+- [x] C) Método de la raíz cuadrada <!-- feedback: Este método se usa para ecuaciones cuadráticas de la forma x² = k, no para sistemas lineales. -->
 
 ### Explicacion Pedagogica
 Los métodos clásicos para resolver sistemas de ecuaciones lineales 2x2 incluyen Sustitución, Igualación, Reducción y el método Gráfico. El método de la raíz cuadrada pertenece al ámbito de las ecuaciones de segundo grado (cuadráticas).
@@ -93,9 +93,9 @@ Los métodos clásicos para resolver sistemas de ecuaciones lineales 2x2 incluye
 Si un sistema de ecuaciones lineales tiene rectas paralelas, ¿cuántas soluciones tiene el sistema?
 
 ### Opciones
-- [ ] A) Una única solución. <!-- feedback: Requiere que las rectas se crucen. -->
-- [ ] B) Infinitas soluciones. <!-- feedback: Requiere que las rectas sean la misma (coincidentes). -->
-- [x] C) Ninguna solución. <!-- feedback: Si las rectas nunca se cruzan, no hay ningún punto que satisfaga ambas ecuaciones. -->
+- [ ] B) Una única solución. <!-- feedback: Requiere que las rectas se crucen. -->
+- [ ] C) Infinitas soluciones. <!-- feedback: Requiere que las rectas sean la misma (coincidentes). -->
+- [x] A) Ninguna solución. <!-- feedback: Si las rectas nunca se cruzan, no hay ningún punto que satisfaga ambas ecuaciones. -->
 - [ ] D) Dos soluciones. <!-- feedback: Las ecuaciones lineales nunca se cruzan exactamente en dos puntos. -->
 
 ### Explicacion Pedagogica
@@ -138,10 +138,10 @@ Usamos sustitución: reemplazamos y por 2x en la segunda ecuación. Obtenemos x 
 ¿Cuántos borregos hay en la granja?
 
 ### Opciones
-- [x] A) 5 <!-- feedback: G+B=20; 2G+4B=50. Resolviendo, B=5 y G=15. -->
-- [ ] B) 15 <!-- feedback: Este es el número de gallinas. -->
-- [ ] C) 10 <!-- feedback: Esto daría 60 patas si fueran mitad y mitad. -->
-- [ ] D) 2 <!-- feedback: Muy pocos borregos para el número de patas dado. -->
+- [x] D) 5 <!-- feedback: G+B=20; 2G+4B=50. Resolviendo, B=5 y G=15. -->
+- [ ] A) 15 <!-- feedback: Este es el número de gallinas. -->
+- [ ] B) 10 <!-- feedback: Esto daría 60 patas si fueran mitad y mitad. -->
+- [ ] C) 2 <!-- feedback: Muy pocos borregos para el número de patas dado. -->
 
 ### Explicacion Pedagogica
 Planteamos el sistema: G + B = 20 (cabezas) y 2G + 4B = 50 (patas). Despejamos G de la primera: G = 20 - B. Sustituimos en la segunda: 2(20 - B) + 4B = 50 \rightarrow 40 - 2B + 4B = 50 \rightarrow 2B = 10 \rightarrow B = 5. Hay 5 borregos.
@@ -184,9 +184,9 @@ Sumamos ambas ecuaciones directamente ya que y e -y se cancelan: (x + x) + (y - 
 
 ### Opciones
 - [ ] A) $100 <!-- feedback: Muy bajo según la diferencia de los precios. -->
-- [x] B) $200 <!-- feedback: (2x+y) - (1x+y) = 700 - 500; x = 200. -->
-- [ ] C) $300 <!-- feedback: Si la playera fuera de 300, el pantalón sería de 200, y 2(300)+200=800, no 700. -->
-- [ ] D) $250 <!-- feedback: Error de cálculo. -->
+- [x] D) $200 <!-- feedback: (2x+y) - (1x+y) = 700 - 500; x = 200. -->
+- [ ] B) $300 <!-- feedback: Si la playera fuera de 300, el pantalón sería de 200, y 2(300)+200=800, no 700. -->
+- [ ] C) $250 <!-- feedback: Error de cálculo. -->
 
 ### Explicacion Pedagogica
 Restamos la segunda compra de la primera para eliminar el costo del pantalón: (2 playeras + 1 pantalón) - (1 playera + 1 pantalón) = 700 - 500. Esto nos da directamente: 1 playera = $200 pesos.
@@ -274,8 +274,8 @@ Invirtió un total de $100,000 pesos. La acción A dio un 5% de interés y la B 
 
 ### Opciones
 - [ ] A) $60,000 <!-- feedback: 5% de 40k (2000) + 10% de 60k (6000) = 8000, no 7000. -->
-- [x] B) $40,000 <!-- feedback: 5% de 60k (3000) + 10% de 40k (4000) = 7000. -->
-- [ ] C) $50,000 <!-- feedback: 5% de 50k (2500) + 10% de 50k (5000) = 7500. -->
+- [x] C) $40,000 <!-- feedback: 5% de 60k (3000) + 10% de 40k (4000) = 7000. -->
+- [ ] B) $50,000 <!-- feedback: 5% de 50k (2500) + 10% de 50k (5000) = 7500. -->
 - [ ] D) $30,000 <!-- feedback: Rendimiento insuficiente. -->
 
 ### Explicacion Pedagogica
@@ -294,8 +294,8 @@ Sistema: x + y = 100,000 y 0.05x + 0.10y = 7,000. Despejamos x = 100,000 - y. Su
 Se mezcla café de $80/kg con café de $120/kg para obtener 20 kg de una mezcla de $90/kg. ¿Qué cantidad de café de $120 se utilizó?
 
 ### Opciones
-- [x] A) 5 kg <!-- feedback: 80x + 120y = 90(20); x+y=20. 80(20-y) + 120y = 1800; 1600 + 40y = 1800; y = 5. -->
-- [ ] B) 15 kg <!-- feedback: Esto daría un precio promedio mucho más alto. -->
+- [x] B) 5 kg <!-- feedback: 80x + 120y = 90(20); x+y=20. 80(20-y) + 120y = 1800; 1600 + 40y = 1800; y = 5. -->
+- [ ] A) 15 kg <!-- feedback: Esto daría un precio promedio mucho más alto. -->
 - [ ] C) 10 kg <!-- feedback: El precio promedio sería de 100, no de 90. -->
 - [ ] D) 2.5 kg <!-- feedback: Cantidad insuficiente. -->
 
@@ -342,9 +342,9 @@ Resuelve:
 ¿Cuál es el valor de x?
 
 ### Opciones
-- [x] A) 6 <!-- feedback: De la ec.2, x=y. Sustituyendo en ec.1: x/2 + x/3 = 5; (5/6)x = 5; x = 6. -->
-- [ ] B) 5 <!-- feedback: Error en el manejo de fracciones. -->
-- [ ] C) 3 <!-- feedback: Error al despejar la incógnita. -->
+- [x] C) 6 <!-- feedback: De la ec.2, x=y. Sustituyendo en ec.1: x/2 + x/3 = 5; (5/6)x = 5; x = 6. -->
+- [ ] A) 5 <!-- feedback: Error en el manejo de fracciones. -->
+- [ ] B) 3 <!-- feedback: Error al despejar la incógnita. -->
 - [ ] D) 2 <!-- feedback: Resultado incoherente con la suma dada. -->
 
 ### Explicacion Pedagogica
@@ -366,9 +366,9 @@ De la segunda ecuación x - y = 0, deducimos que x = y. Sustituimos y por x en l
 
 ### Opciones
 - [ ] A) k = 1 <!-- feedback: Las pendientes serían diferentes (-0.5 y -1). -->
-- [x] B) k = 2 <!-- feedback: Para ser paralelas, los coeficientes de x e y deben ser proporcionales (2/1 = 4/2). -->
-- [ ] C) k = 4 <!-- feedback: Pendientes diferentes. -->
-- [ ] D) k = 0 <!-- feedback: Esto eliminaría la variable y de la segunda ecuación. -->
+- [x] D) k = 2 <!-- feedback: Para ser paralelas, los coeficientes de x e y deben ser proporcionales (2/1 = 4/2). -->
+- [ ] B) k = 4 <!-- feedback: Pendientes diferentes. -->
+- [ ] C) k = 0 <!-- feedback: Esto eliminaría la variable y de la segunda ecuación. -->
 
 ### Explicacion Pedagogica
 Un sistema no tiene solución si las pendientes son iguales pero las ordenadas al origen son diferentes. La pendiente de la ec. 1 es -2/4 = -0.5. La pendiente de la ec. 2 es -1/k. Para que -1/k = -0.5, k debe ser igual a 2. Note que los términos independientes 8 y 5 no mantienen la proporción 2:1, confirmando que son paralelas y no coincidentes.
@@ -386,8 +386,8 @@ Un sistema no tiene solución si las pendientes son iguales pero las ordenadas a
 Si x + y + z = 6, x + y = 3, y y + z = 5, ¿cuál es el valor de y?
 
 ### Opciones
-- [ ] A) 1 <!-- feedback: x sería 2 y z sería 4. 2+1+4 = 7, no 6. -->
-- [x] B) 2 <!-- feedback: z = 6-3=3. Luego y+3=5, entonces y=2. x=3-2=1. 1+2+3=6. -->
+- [ ] B) 1 <!-- feedback: x sería 2 y z sería 4. 2+1+4 = 7, no 6. -->
+- [x] A) 2 <!-- feedback: z = 6-3=3. Luego y+3=5, entonces y=2. x=3-2=1. 1+2+3=6. -->
 - [ ] C) 3 <!-- feedback: Error al sustituir las sumas parciales. -->
 - [ ] D) 0 <!-- feedback: Valor no compatible con las igualdades. -->
 
@@ -408,9 +408,9 @@ Una lancha viaja a favor de la corriente a 20 km/h y en contra a 12 km/h. ¿Cuá
 
 ### Opciones
 - [ ] A) v=15, c=5 <!-- feedback: 15+5=20 pero 15-5=10, no 12. -->
-- [x] B) v=16, c=4 <!-- feedback: 16+4=20 y 16-4=12. -->
-- [ ] C) v=18, c=2 <!-- feedback: 18+2=20 pero 18-2=16, no 12. -->
-- [ ] D) v=14, c=6 <!-- feedback: 14+6=20 pero 14-6=8, no 12. -->
+- [x] D) v=16, c=4 <!-- feedback: 16+4=20 y 16-4=12. -->
+- [ ] B) v=18, c=2 <!-- feedback: 18+2=20 pero 18-2=16, no 12. -->
+- [ ] C) v=14, c=6 <!-- feedback: 14+6=20 pero 14-6=8, no 12. -->
 
 ### Explicacion Pedagogica
 Sistema: (1) v + c = 20; (2) v - c = 12. Sumamos las ecuaciones para eliminar c: 2v = 32 \rightarrow v = 16. Sustituimos en la primera: 16 + c = 20 \rightarrow c = 4. La lancha va a 16 km/h y el río a 4 km/h.
@@ -452,9 +452,9 @@ La demanda de un producto es P = 100 - 2Q y la oferta es P = 10 + 3Q. ¿Cuál es
 
 ### Opciones
 - [ ] A) Q = 20 <!-- feedback: Demanda P=60, Oferta P=70. No hay equilibrio. -->
-- [x] B) Q = 18 <!-- feedback: 100 - 2Q = 10 + 3Q; 90 = 5Q; Q = 18. -->
-- [ ] C) Q = 25 <!-- feedback: Demanda P=50, Oferta P=85. -->
-- [ ] D) Q = 15 <!-- feedback: Demanda P=70, Oferta P=55. -->
+- [x] D) Q = 18 <!-- feedback: 100 - 2Q = 10 + 3Q; 90 = 5Q; Q = 18. -->
+- [ ] B) Q = 25 <!-- feedback: Demanda P=50, Oferta P=85. -->
+- [ ] C) Q = 15 <!-- feedback: Demanda P=70, Oferta P=55. -->
 
 ### Explicacion Pedagogica
 Igualamos ambas expresiones para P: 100 - 2Q = 10 + 3Q. Sumamos 2Q a ambos lados y restamos 10: 90 = 5Q. Dividimos entre 5 para hallar la cantidad: Q = 90 / 5 = 18. El precio de equilibrio sería P = 100 - 2(18) = 64.

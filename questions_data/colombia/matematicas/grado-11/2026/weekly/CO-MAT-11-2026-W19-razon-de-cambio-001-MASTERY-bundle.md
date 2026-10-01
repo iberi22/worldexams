@@ -35,11 +35,11 @@ alineadas con los DBA del MEN Colombia y el marco de evaluación Saber 11 del IC
 Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\frac{dr}{dt} = 3\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\frac{dA}{dt}$ cuando el radio es $r = 1\text{ m}$?
 
 ### Opciones
-- [x] A) $6\pi\text{ m}^2\text{/s}$
+- [x] C) $6\pi\text{ m}^2\text{/s}$
   <!-- feedback: Correcto: aplicación impecable de la derivación implícita con respecto al tiempo. -->
-- [ ] B) $3\pi\text{ m}^2\text{/s}$
+- [ ] A) $3\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2. -->
-- [ ] C) $6\text{ m}^2\text{/s}$
+- [ ] B) $6\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se omitió la constante pi en la respuesta. -->
 - [ ] D) $9\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se elevó al cuadrado el valor de dr/dt. -->
@@ -58,11 +58,11 @@ Diferenciando el área del círculo $A = \pi r^2$ respecto al tiempo $t$ por reg
 Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\frac{dr}{dt} = 3\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\frac{dA}{dt}$ cuando el radio es $r = 2\text{ m}$?
 
 ### Opciones
-- [x] A) $12\pi\text{ m}^2\text{/s}$
+- [x] C) $12\pi\text{ m}^2\text{/s}$
   <!-- feedback: Correcto: aplicación impecable de la derivación implícita con respecto al tiempo. -->
-- [ ] B) $6\pi\text{ m}^2\text{/s}$
+- [ ] A) $6\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2. -->
-- [ ] C) $12\text{ m}^2\text{/s}$
+- [ ] B) $12\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se omitió la constante pi en la respuesta. -->
 - [ ] D) $18\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se elevó al cuadrado el valor de dr/dt. -->
@@ -81,11 +81,11 @@ Diferenciando el área del círculo $A = \pi r^2$ respecto al tiempo $t$ por reg
 Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\frac{dr}{dt} = 3\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\frac{dA}{dt}$ cuando el radio es $r = 3\text{ m}$?
 
 ### Opciones
-- [x] A) $18\pi\text{ m}^2\text{/s}$
+- [x] C) $18\pi\text{ m}^2\text{/s}$
   <!-- feedback: Correcto: aplicación impecable de la derivación implícita con respecto al tiempo. -->
-- [ ] B) $9\pi\text{ m}^2\text{/s}$
+- [ ] A) $9\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2. -->
-- [ ] C) $18\text{ m}^2\text{/s}$
+- [ ] B) $18\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se omitió la constante pi en la respuesta. -->
 - [ ] D) $27\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se elevó al cuadrado el valor de dr/dt. -->
@@ -104,11 +104,11 @@ Diferenciando el área del círculo $A = \pi r^2$ respecto al tiempo $t$ por reg
 Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\frac{dr}{dt} = 3\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\frac{dA}{dt}$ cuando el radio es $r = 4\text{ m}$?
 
 ### Opciones
-- [x] A) $24\pi\text{ m}^2\text{/s}$
+- [x] C) $24\pi\text{ m}^2\text{/s}$
   <!-- feedback: Correcto: aplicación impecable de la derivación implícita con respecto al tiempo. -->
-- [ ] B) $12\pi\text{ m}^2\text{/s}$
+- [ ] A) $12\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2. -->
-- [ ] C) $24\text{ m}^2\text{/s}$
+- [ ] B) $24\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se omitió la constante pi en la respuesta. -->
 - [ ] D) $36\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se elevó al cuadrado el valor de dr/dt. -->
@@ -127,13 +127,13 @@ Diferenciando el área del círculo $A = \pi r^2$ respecto al tiempo $t$ por reg
 Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\frac{dr}{dt} = 3\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\frac{dA}{dt}$ cuando el radio es $r = 5\text{ m}$?
 
 ### Opciones
-- [x] A) $30\pi\text{ m}^2\text{/s}$
+- [x] D) $30\pi\text{ m}^2\text{/s}$
   <!-- feedback: Correcto: aplicación impecable de la derivación implícita con respecto al tiempo. -->
-- [ ] B) $15\pi\text{ m}^2\text{/s}$
+- [ ] A) $15\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2. -->
-- [ ] C) $30\text{ m}^2\text{/s}$
+- [ ] B) $30\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se omitió la constante pi en la respuesta. -->
-- [ ] D) $45\pi\text{ m}^2\text{/s}$
+- [ ] C) $45\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se elevó al cuadrado el valor de dr/dt. -->
 
 ### Explicacion Pedagogica
@@ -150,11 +150,11 @@ Diferenciando el área del círculo $A = \pi r^2$ respecto al tiempo $t$ por reg
 Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\frac{dr}{dt} = 3\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\frac{dA}{dt}$ cuando el radio es $r = 6\text{ m}$?
 
 ### Opciones
-- [x] A) $36\pi\text{ m}^2\text{/s}$
+- [x] C) $36\pi\text{ m}^2\text{/s}$
   <!-- feedback: Correcto: aplicación impecable de la derivación implícita con respecto al tiempo. -->
-- [ ] B) $18\pi\text{ m}^2\text{/s}$
+- [ ] A) $18\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2. -->
-- [ ] C) $36\text{ m}^2\text{/s}$
+- [ ] B) $36\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se omitió la constante pi en la respuesta. -->
 - [ ] D) $54\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se elevó al cuadrado el valor de dr/dt. -->
@@ -173,13 +173,13 @@ Diferenciando el área del círculo $A = \pi r^2$ respecto al tiempo $t$ por reg
 Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\frac{dr}{dt} = 3\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\frac{dA}{dt}$ cuando el radio es $r = 7\text{ m}$?
 
 ### Opciones
-- [x] A) $42\pi\text{ m}^2\text{/s}$
+- [x] D) $42\pi\text{ m}^2\text{/s}$
   <!-- feedback: Correcto: aplicación impecable de la derivación implícita con respecto al tiempo. -->
-- [ ] B) $21\pi\text{ m}^2\text{/s}$
+- [ ] A) $21\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2. -->
-- [ ] C) $42\text{ m}^2\text{/s}$
+- [ ] B) $42\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se omitió la constante pi en la respuesta. -->
-- [ ] D) $63\pi\text{ m}^2\text{/s}$
+- [ ] C) $63\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se elevó al cuadrado el valor de dr/dt. -->
 
 ### Explicacion Pedagogica
@@ -196,11 +196,11 @@ Diferenciando el área del círculo $A = \pi r^2$ respecto al tiempo $t$ por reg
 Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\frac{dr}{dt} = 3\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\frac{dA}{dt}$ cuando el radio es $r = 8\text{ m}$?
 
 ### Opciones
-- [x] A) $48\pi\text{ m}^2\text{/s}$
+- [x] C) $48\pi\text{ m}^2\text{/s}$
   <!-- feedback: Correcto: aplicación impecable de la derivación implícita con respecto al tiempo. -->
-- [ ] B) $24\pi\text{ m}^2\text{/s}$
+- [ ] A) $24\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2. -->
-- [ ] C) $48\text{ m}^2\text{/s}$
+- [ ] B) $48\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se omitió la constante pi en la respuesta. -->
 - [ ] D) $72\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se elevó al cuadrado el valor de dr/dt. -->
@@ -219,9 +219,9 @@ Diferenciando el área del círculo $A = \pi r^2$ respecto al tiempo $t$ por reg
 Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\frac{dr}{dt} = 3\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\frac{dA}{dt}$ cuando el radio es $r = 9\text{ m}$?
 
 ### Opciones
-- [x] A) $54\pi\text{ m}^2\text{/s}$
+- [x] B) $54\pi\text{ m}^2\text{/s}$
   <!-- feedback: Correcto: aplicación impecable de la derivación implícita con respecto al tiempo. -->
-- [ ] B) $27\pi\text{ m}^2\text{/s}$
+- [ ] A) $27\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2. -->
 - [ ] C) $54\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se omitió la constante pi en la respuesta. -->
@@ -242,9 +242,9 @@ Diferenciando el área del círculo $A = \pi r^2$ respecto al tiempo $t$ por reg
 Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\frac{dr}{dt} = 3\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\frac{dA}{dt}$ cuando el radio es $r = 10\text{ m}$?
 
 ### Opciones
-- [x] A) $60\pi\text{ m}^2\text{/s}$
+- [x] B) $60\pi\text{ m}^2\text{/s}$
   <!-- feedback: Correcto: aplicación impecable de la derivación implícita con respecto al tiempo. -->
-- [ ] B) $30\pi\text{ m}^2\text{/s}$
+- [ ] A) $30\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2. -->
 - [ ] C) $60\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se omitió la constante pi en la respuesta. -->
@@ -265,9 +265,9 @@ Diferenciando el área del círculo $A = \pi r^2$ respecto al tiempo $t$ por reg
 Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\frac{dr}{dt} = 3\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\frac{dA}{dt}$ cuando el radio es $r = 11\text{ m}$?
 
 ### Opciones
-- [x] A) $66\pi\text{ m}^2\text{/s}$
+- [x] B) $66\pi\text{ m}^2\text{/s}$
   <!-- feedback: Correcto: aplicación impecable de la derivación implícita con respecto al tiempo. -->
-- [ ] B) $33\pi\text{ m}^2\text{/s}$
+- [ ] A) $33\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2. -->
 - [ ] C) $66\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se omitió la constante pi en la respuesta. -->
@@ -288,9 +288,9 @@ Diferenciando el área del círculo $A = \pi r^2$ respecto al tiempo $t$ por reg
 Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\frac{dr}{dt} = 3\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\frac{dA}{dt}$ cuando el radio es $r = 12\text{ m}$?
 
 ### Opciones
-- [x] A) $72\pi\text{ m}^2\text{/s}$
+- [x] B) $72\pi\text{ m}^2\text{/s}$
   <!-- feedback: Correcto: aplicación impecable de la derivación implícita con respecto al tiempo. -->
-- [ ] B) $36\pi\text{ m}^2\text{/s}$
+- [ ] A) $36\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2. -->
 - [ ] C) $72\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se omitió la constante pi en la respuesta. -->
@@ -311,9 +311,9 @@ Diferenciando el área del círculo $A = \pi r^2$ respecto al tiempo $t$ por reg
 Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\frac{dr}{dt} = 3\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\frac{dA}{dt}$ cuando el radio es $r = 13\text{ m}$?
 
 ### Opciones
-- [x] A) $78\pi\text{ m}^2\text{/s}$
+- [x] B) $78\pi\text{ m}^2\text{/s}$
   <!-- feedback: Correcto: aplicación impecable de la derivación implícita con respecto al tiempo. -->
-- [ ] B) $39\pi\text{ m}^2\text{/s}$
+- [ ] A) $39\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2. -->
 - [ ] C) $78\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se omitió la constante pi en la respuesta. -->
@@ -334,11 +334,11 @@ Diferenciando el área del círculo $A = \pi r^2$ respecto al tiempo $t$ por reg
 Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\frac{dr}{dt} = 3\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\frac{dA}{dt}$ cuando el radio es $r = 14\text{ m}$?
 
 ### Opciones
-- [x] A) $84\pi\text{ m}^2\text{/s}$
+- [x] C) $84\pi\text{ m}^2\text{/s}$
   <!-- feedback: Correcto: aplicación impecable de la derivación implícita con respecto al tiempo. -->
-- [ ] B) $42\pi\text{ m}^2\text{/s}$
+- [ ] A) $42\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2. -->
-- [ ] C) $84\text{ m}^2\text{/s}$
+- [ ] B) $84\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se omitió la constante pi en la respuesta. -->
 - [ ] D) $126\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se elevó al cuadrado el valor de dr/dt. -->
@@ -357,13 +357,13 @@ Diferenciando el área del círculo $A = \pi r^2$ respecto al tiempo $t$ por reg
 Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\frac{dr}{dt} = 3\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\frac{dA}{dt}$ cuando el radio es $r = 15\text{ m}$?
 
 ### Opciones
-- [x] A) $90\pi\text{ m}^2\text{/s}$
+- [x] D) $90\pi\text{ m}^2\text{/s}$
   <!-- feedback: Correcto: aplicación impecable de la derivación implícita con respecto al tiempo. -->
-- [ ] B) $45\pi\text{ m}^2\text{/s}$
+- [ ] A) $45\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2. -->
-- [ ] C) $90\text{ m}^2\text{/s}$
+- [ ] B) $90\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se omitió la constante pi en la respuesta. -->
-- [ ] D) $135\pi\text{ m}^2\text{/s}$
+- [ ] C) $135\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se elevó al cuadrado el valor de dr/dt. -->
 
 ### Explicacion Pedagogica
@@ -380,11 +380,11 @@ Diferenciando el área del círculo $A = \pi r^2$ respecto al tiempo $t$ por reg
 Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\frac{dr}{dt} = 3\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\frac{dA}{dt}$ cuando el radio es $r = 16\text{ m}$?
 
 ### Opciones
-- [x] A) $96\pi\text{ m}^2\text{/s}$
+- [x] C) $96\pi\text{ m}^2\text{/s}$
   <!-- feedback: Correcto: aplicación impecable de la derivación implícita con respecto al tiempo. -->
-- [ ] B) $48\pi\text{ m}^2\text{/s}$
+- [ ] A) $48\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2. -->
-- [ ] C) $96\text{ m}^2\text{/s}$
+- [ ] B) $96\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se omitió la constante pi en la respuesta. -->
 - [ ] D) $144\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se elevó al cuadrado el valor de dr/dt. -->
@@ -472,13 +472,13 @@ Diferenciando el área del círculo $A = \pi r^2$ respecto al tiempo $t$ por reg
 Un derrame circular de aceite en las costas colombianas expande su radio a razón constante de $\frac{dr}{dt} = 3\text{ m/s}$. ¿A qué razón aumenta el área del derrame $\frac{dA}{dt}$ cuando el radio es $r = 20\text{ m}$?
 
 ### Opciones
-- [x] A) $120\pi\text{ m}^2\text{/s}$
+- [x] D) $120\pi\text{ m}^2\text{/s}$
   <!-- feedback: Correcto: aplicación impecable de la derivación implícita con respecto al tiempo. -->
-- [ ] B) $60\pi\text{ m}^2\text{/s}$
+- [ ] A) $60\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se olvidó el factor de multiplicación 2 de la derivada de r^2. -->
-- [ ] C) $120\text{ m}^2\text{/s}$
+- [ ] B) $120\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se omitió la constante pi en la respuesta. -->
-- [ ] D) $180\pi\text{ m}^2\text{/s}$
+- [ ] C) $180\pi\text{ m}^2\text{/s}$
   <!-- feedback: Incorrecto: se elevó al cuadrado el valor de dr/dt. -->
 
 ### Explicacion Pedagogica

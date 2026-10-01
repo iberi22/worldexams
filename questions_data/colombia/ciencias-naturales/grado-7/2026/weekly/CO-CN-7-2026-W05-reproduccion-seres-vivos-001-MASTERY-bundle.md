@@ -34,13 +34,13 @@ Este bundle aborda la reproducción sexual y asexual en plantas, animales y huma
 ¿Cuál es la diferencia básica entre reproducción sexual y asexual?
 
 ### Opciones
-- [x] A) La sexual une células de dos progenitores y la asexual genera descendientes de uno solo
+- [x] D) La sexual une células de dos progenitores y la asexual genera descendientes de uno solo
   <!-- feedback: Correcta porque define el número de progenitores y la combinación genética. -->
-- [ ] B) La asexual necesita dos progenitores y la sexual solo uno
+- [ ] A) La asexual necesita dos progenitores y la sexual solo uno
   <!-- feedback: Incorrecta porque invierte la definición de cada tipo. -->
-- [ ] C) Ambas necesitan siempre flores y frutos
+- [ ] B) Ambas necesitan siempre flores y frutos
   <!-- feedback: Incorrecta porque la reproducción asexual no requiere flores ni frutos. -->
-- [ ] D) Ambas producen hijos idénticos sin variación
+- [ ] C) Ambas producen hijos idénticos sin variación
   <!-- feedback: Incorrecta porque la reproducción sexual genera variación genética. -->
 
 ### Explicacion Pedagogica
@@ -59,9 +59,9 @@ La reproducción sexual combina material genético y crea diversidad, mientras l
 ### Opciones
 - [ ] A) La caída de las hojas en verano
   <!-- feedback: Incorrecta porque la caída de hojas no traslada polen. -->
-- [x] B) El traslado del polen hasta el estigma para permitir la fecundación
+- [x] C) El traslado del polen hasta el estigma para permitir la fecundación
   <!-- feedback: Correcta porque ese traslado inicia la formación de frutos y semillas. -->
-- [ ] C) La absorción de agua por las raíces
+- [ ] B) La absorción de agua por las raíces
   <!-- feedback: Incorrecta porque la absorción de agua es nutrición, no reproducción. -->
 - [ ] D) La respiración de las hojas en la noche
   <!-- feedback: Incorrecta porque el intercambio gaseoso no produce fecundación. -->
@@ -128,9 +128,9 @@ La fecundación externa en el agua deja a los huevos expuestos, de modo que prod
 ### Opciones
 - [ ] A) La división de una célula del cuerpo en dos idénticas
   <!-- feedback: Incorrecta porque eso describe mitosis del crecimiento, no fecundación. -->
-- [x] B) La unión del óvulo y el espermatozoide que forma una nueva célula
+- [x] C) La unión del óvulo y el espermatozoide que forma una nueva célula
   <!-- feedback: Correcta porque esa unión origina el cigoto con información de ambos progenitores. -->
-- [ ] C) El crecimiento del bebé solo con información de la madre
+- [ ] B) El crecimiento del bebé solo con información de la madre
   <!-- feedback: Incorrecta porque el cigoto combina información de ambos progenitores. -->
 - [ ] D) La producción de semillas en las flores
   <!-- feedback: Incorrecta porque las semillas corresponden a la reproducción de plantas. -->
@@ -149,9 +149,9 @@ La fecundación forma el cigoto, que se divide y desarrolla hasta el nacimiento.
 ¿Por qué la caña sembrada por trozos resulta idéntica a la planta madre?
 
 ### Opciones
-- [ ] A) Porque hubo polinización cruzada con otras variedades
+- [ ] B) Porque hubo polinización cruzada con otras variedades
   <!-- feedback: Incorrecta porque la polinización cruzada generaría variación, no clones. -->
-- [x] B) Porque es reproducción asexual sin combinación de gametos
+- [x] A) Porque es reproducción asexual sin combinación de gametos
   <!-- feedback: Correcta porque al no haber fecundación, el material genético se conserva. -->
 - [ ] C) Porque el suelo del Valle cambia los genes de la caña
   <!-- feedback: Incorrecta porque el suelo nutre, pero no reescribe la información hereditaria. -->
@@ -197,11 +197,11 @@ Colores, aromas, formas y néctar son adaptaciones que aseguran visitas de polin
 ### Opciones
 - [ ] A) No habrá ninguna diferencia porque el agua no afecta a las plantas
   <!-- feedback: Incorrecta porque la disponibilidad de agua sí presiona la supervivencia vegetal. -->
-- [x] B) El potrero de semilla tendrá plantas variadas y más probabilidad de resistir
+- [x] D) El potrero de semilla tendrá plantas variadas y más probabilidad de resistir
   <!-- feedback: Correcta porque la variación genética aumenta las opciones de adaptación. -->
-- [ ] C) El potrero clonado tendrá mayor variación genética
+- [ ] B) El potrero clonado tendrá mayor variación genética
   <!-- feedback: Incorrecta porque los clones son genéticamente idénticos. -->
-- [ ] D) Ambos potreros morirán porque la reproducción no influye en la resistencia
+- [ ] C) Ambos potreros morirán porque la reproducción no influye en la resistencia
   <!-- feedback: Incorrecta porque la diversidad genética sí influye en la resistencia poblacional. -->
 
 ### Explicacion Pedagogica
@@ -220,11 +220,11 @@ La reproducción sexual genera combinaciones nuevas y la asexual las conserva. C
 ### Opciones
 - [ ] A) Se acepta sin revisar porque lo compartieron muchas personas
   <!-- feedback: Incorrecta porque el número de compartidos no es evidencia científica. -->
-- [x] B) Se contrasta con estudios médicos y se consulta al personal de salud antes de decidir
+- [x] D) Se contrasta con estudios médicos y se consulta al personal de salud antes de decidir
   <!-- feedback: Correcta porque aplica pensamiento crítico y acude a fuentes confiables. -->
-- [ ] C) Se acepta porque todas las vacunas causan infertilidad
+- [ ] B) Se acepta porque todas las vacunas causan infertilidad
   <!-- feedback: Incorrecta porque no existe evidencia de que esa vacuna cause infertilidad. -->
-- [ ] D) Se rechaza la vacuna sin consultar porque las redes siempre mienten
+- [ ] C) Se rechaza la vacuna sin consultar porque las redes siempre mienten
   <!-- feedback: Incorrecta porque decidir sin consultar fuentes confiables también es acrítico. -->
 
 ### Explicacion Pedagogica
@@ -243,9 +243,9 @@ Evaluar mensajes de salud exige verificar estudios, entidades sanitarias y profe
 ### Opciones
 - [ ] A) Contar una sola flor durante un minuto
   <!-- feedback: Incorrecta porque una sola observación no representa el fenómeno. -->
-- [x] B) Comparar flores cubiertas que excluyen insectos con flores visitadas libremente y registrar frutos formados
+- [x] C) Comparar flores cubiertas que excluyen insectos con flores visitadas libremente y registrar frutos formados
   <!-- feedback: Correcta porque aísla la variable polinizador y mide su efecto en la fructificación. -->
-- [ ] C) Regar todas las plantas con jugos de colores
+- [ ] B) Regar todas las plantas con jugos de colores
   <!-- feedback: Incorrecta porque introduce sustancias extrañas y no mide polinización. -->
 - [ ] D) Arrancar todas las flores para contar sus pétalos
   <!-- feedback: Incorrecta porque destruye el objeto de estudio e impide observar la fructificación. -->

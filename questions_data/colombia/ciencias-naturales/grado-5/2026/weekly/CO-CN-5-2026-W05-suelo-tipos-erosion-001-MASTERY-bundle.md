@@ -34,13 +34,13 @@ Tipos de suelo según su textura (arenoso, arcilloso, limoso), sus componentes y
 ¿Cuál de los siguientes es un componente básico del suelo?
 
 ### Opciones
-- [x] A) Minerales, agua, aire y materia orgánica.
+- [x] D) Minerales, agua, aire y materia orgánica.
   <!-- feedback: El suelo está formado por partículas minerales, agua, aire y restos orgánicos. -->
-- [ ] B) Solo agua y aire.
+- [ ] A) Solo agua y aire.
   <!-- feedback: Faltan los minerales y la materia orgánica como componentes del suelo. -->
-- [ ] C) Únicamente piedras grandes.
+- [ ] B) Únicamente piedras grandes.
   <!-- feedback: El suelo contiene partículas de distintos tamaños, no solo piedras grandes. -->
-- [ ] D) Solo arena seca sin vida.
+- [ ] C) Solo arena seca sin vida.
   <!-- feedback: El suelo incluye materia orgánica y seres vivos, no solo arena seca. -->
 
 ### Explicacion Pedagogica
@@ -57,13 +57,13 @@ Reconocer los componentes principales del suelo y su importancia para los ecosis
 ¿Por qué el suelo arcilloso retiene más agua que el suelo arenoso?
 
 ### Opciones
-- [x] A) Porque sus partículas son muy finas y se adhieren entre sí, formando espacios pequeños para el agua.
+- [x] D) Porque sus partículas son muy finas y se adhieren entre sí, formando espacios pequeños para el agua.
   <!-- feedback: Las partículas finas de la arcilla forman poros pequeños que retienen agua con facilidad. -->
-- [ ] B) Porque está formado únicamente por piedras grandes.
+- [ ] A) Porque está formado únicamente por piedras grandes.
   <!-- feedback: La arcilla está formada por partículas muy finas, no por piedras grandes. -->
-- [ ] C) Porque no contiene ningún tipo de partícula mineral.
+- [ ] B) Porque no contiene ningún tipo de partícula mineral.
   <!-- feedback: El suelo arcilloso sí contiene partículas minerales, solo que son muy finas. -->
-- [ ] D) Porque el agua no puede mojar la arena.
+- [ ] C) Porque el agua no puede mojar la arena.
   <!-- feedback: El agua sí moja la arena; la diferencia está en el tamaño de las partículas. -->
 
 ### Explicacion Pedagogica
@@ -80,9 +80,9 @@ Comprender la relación entre el tamaño de las partículas del suelo y su capac
 ¿Qué tipo de suelo es probablemente el más adecuado para cultivar alimentos?
 
 ### Opciones
-- [x] A) Un suelo oscuro, con materia orgánica y buena capacidad de retener agua.
+- [x] B) Un suelo oscuro, con materia orgánica y buena capacidad de retener agua.
   <!-- feedback: Los suelos oscuros y esponjosos tienen nutrientes y buena estructura para cultivar. -->
-- [ ] B) Un suelo completamente rocoso sin tierra fina.
+- [ ] A) Un suelo completamente rocoso sin tierra fina.
   <!-- feedback: Un suelo solo rocoso no retiene agua ni nutrientes para las plantas. -->
 - [ ] C) Un suelo solo de arena seca sin materia orgánica.
   <!-- feedback: La arena seca es pobre en nutrientes y retiene poca agua. -->
@@ -126,9 +126,9 @@ Identificar ejemplos concretos de erosión del suelo causados por el agua o el v
 ¿Qué acción sencilla ayuda a reducir la erosión del suelo en el patio del colegio?
 
 ### Opciones
-- [x] A) Sembrar plantas y cubrir el suelo con pasto o cubiertas vegetales.
+- [x] B) Sembrar plantas y cubrir el suelo con pasto o cubiertas vegetales.
   <!-- feedback: La vegetación protege el suelo y reduce el arrastre por agua y viento. -->
-- [ ] B) Dejar el suelo completamente descubierto y sin ninguna planta.
+- [ ] A) Dejar el suelo completamente descubierto y sin ninguna planta.
   <!-- feedback: Un suelo sin vegetación es más vulnerable a la erosión. -->
 - [ ] C) Regar el suelo con mangueras todo el día para mantenerlo mojado.
   <!-- feedback: Regar en exceso puede provocar encharcamientos y más erosión, no solucionarla. -->
@@ -149,13 +149,13 @@ Proponer acciones prácticas para prevenir la erosión del suelo en el entorno e
 ¿Qué factores hacen que la erosión sea mayor en zonas con pendientes y sin vegetación?
 
 ### Opciones
-- [x] A) La gravedad y el agua lluvia arrastran el suelo sin raíces que lo sujeten.
+- [x] D) La gravedad y el agua lluvia arrastran el suelo sin raíces que lo sujeten.
   <!-- feedback: En pendientes, el agua y la gravedad mueven las partículas; las raíces las retienen. -->
-- [ ] B) La ausencia de pendientes y la cantidad de raíces disminuyen la erosión.
+- [ ] A) La ausencia de pendientes y la cantidad de raíces disminuyen la erosión.
   <!-- feedback: Esa combinación reduce la erosión, no la aumenta. -->
-- [ ] C) La vegetación siempre aumenta la erosión, sin importar la pendiente.
+- [ ] B) La vegetación siempre aumenta la erosión, sin importar la pendiente.
   <!-- feedback: La vegetación protege el suelo, no aumenta la erosión. -->
-- [ ] D) La lluvia solo erosiona los suelos planos y nunca los pendientes.
+- [ ] C) La lluvia solo erosiona los suelos planos y nunca los pendientes.
   <!-- feedback: La lluvia erosiona más intensamente en pendientes que en zonas planas. -->
 
 ### Explicacion Pedagogica
@@ -172,11 +172,11 @@ Analizar la interacción entre pendiente, vegetación y agentes naturales en el 
 ¿Qué relación puedes establecer entre el tipo de suelo y su uso por el ser humano?
 
 ### Opciones
-- [x] A) Cada tipo de suelo tiene propiedades que lo hacen útil para distintas actividades humanas.
+- [x] C) Cada tipo de suelo tiene propiedades que lo hacen útil para distintas actividades humanas.
   <!-- feedback: Las propiedades físicas y químicas de cada suelo determinan su uso más adecuado. -->
-- [ ] B) Todos los suelos sirven exactamente para lo mismo, sin importar sus propiedades.
+- [ ] A) Todos los suelos sirven exactamente para lo mismo, sin importar sus propiedades.
   <!-- feedback: Los suelos tienen propiedades diferentes y, por tanto, usos diferentes. -->
-- [ ] C) Solo el suelo arcilloso se usa para algo, los demás son inútiles.
+- [ ] B) Solo el suelo arcilloso se usa para algo, los demás son inútiles.
   <!-- feedback: Los suelos arenosos, limosos y arcillosos tienen usos valiosos cada uno. -->
 - [ ] D) Ningún suelo se usa para cultivar ni construir.
   <!-- feedback: El texto describe múltiples usos humanos de los distintos suelos. -->
@@ -195,13 +195,13 @@ Relacionar las propiedades de los tipos de suelo con sus usos en la vida cotidia
 ¿Por qué es urgente proteger el suelo y cuáles son las mejores estrategias para hacerlo?
 
 ### Opciones
-- [x] A) Porque tarda mucho en formarse y la erosión pone en riesgo alimentos y agua; se protege con vegetación y prácticas responsables.
+- [x] D) Porque tarda mucho en formarse y la erosión pone en riesgo alimentos y agua; se protege con vegetación y prácticas responsables.
   <!-- feedback: El suelo es un recurso lento de formar; la vegetación y el uso responsable lo conservan. -->
-- [ ] B) Porque se forma en pocos días y se puede reemplazar fácilmente.
+- [ ] A) Porque se forma en pocos días y se puede reemplazar fácilmente.
   <!-- feedback: El suelo tarda cientos de años en formarse, no pocos días. -->
-- [ ] C) Porque lo mejor es talar bosques para dar más espacio a la agricultura.
+- [ ] B) Porque lo mejor es talar bosques para dar más espacio a la agricultura.
   <!-- feedback: La deforestación acelera la erosión, no la solución. -->
-- [ ] D) Porque proteger el suelo no tiene relación con el agua ni con los alimentos.
+- [ ] C) Porque proteger el suelo no tiene relación con el agua ni con los alimentos.
   <!-- feedback: La calidad del suelo influye directamente en el agua y en la producción de alimentos. -->
 
 ### Explicacion Pedagogica

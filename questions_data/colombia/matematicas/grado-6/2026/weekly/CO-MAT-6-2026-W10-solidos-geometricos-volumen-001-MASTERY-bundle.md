@@ -29,11 +29,11 @@ Este bundle de matemáticas presenta los sólidos geométricos y el cálculo del
 ### Enunciado
 Un balón de fútbol tiene la forma de:
 ### Opciones
-- [x] A) Esfera
+- [x] C) Esfera
   <!-- feedback: Es correcta porque el balón es redondo en todas las direcciones. -->
-- [ ] B) Cubo
+- [ ] A) Cubo
   <!-- feedback: Es incorrecta porque el cubo tiene caras planas y aristas. -->
-- [ ] C) Cilindro
+- [ ] B) Cilindro
   <!-- feedback: Es incorrecta porque el cilindro tiene dos bases planas y altura. -->
 - [ ] D) Cono
   <!-- feedback: Es incorrecta porque el cono tiene una punta y una base circular. -->
@@ -67,13 +67,13 @@ El cubo es un prisma especial con todas sus aristas iguales y 6 caras cuadradas.
 ### Enunciado
 ¿Cuál es el volumen de la caja?
 ### Opciones
-- [x] A) 24 centímetros cúbicos
+- [x] D) 24 centímetros cúbicos
   <!-- feedback: Es correcta porque 4 por 3 por 2 es igual a 24. -->
-- [ ] B) 9 centímetros cúbicos
+- [ ] A) 9 centímetros cúbicos
   <!-- feedback: Es incorrecta porque 9 es la suma de las medidas y no el producto. -->
-- [ ] C) 12 centímetros cúbicos
+- [ ] B) 12 centímetros cúbicos
   <!-- feedback: Es incorrecta porque multiplica solo dos medidas y falta la altura. -->
-- [ ] D) 29 centímetros cúbicos
+- [ ] C) 29 centímetros cúbicos
   <!-- feedback: Es incorrecta porque combina suma y producto de forma equivocada. -->
 ### Explicacion Pedagogica
 El volumen de un prisma rectangular es largo por ancho por alto. Al multiplicar 4 por 3 se obtiene 12 y por 2 se llega a 24 centímetros cúbicos, que es el espacio dentro de la caja.
@@ -86,13 +86,13 @@ El volumen de un prisma rectangular es largo por ancho por alto. Al multiplicar 
 ### Enunciado
 ¿Cuál es el volumen del tanque?
 ### Opciones
-- [x] A) 125 metros cúbicos
+- [x] D) 125 metros cúbicos
   <!-- feedback: Es correcta porque 5 por 5 por 5 es igual a 125. -->
-- [ ] B) 25 metros cúbicos
+- [ ] A) 25 metros cúbicos
   <!-- feedback: Es incorrecta porque 25 es el área de una cara y no el volumen. -->
-- [ ] C) 15 metros cúbicos
+- [ ] B) 15 metros cúbicos
   <!-- feedback: Es incorrecta porque 15 es la suma de las aristas principales. -->
-- [ ] D) 75 metros cúbicos
+- [ ] C) 75 metros cúbicos
   <!-- feedback: Es incorrecta porque multiplica 25 por 3 en lugar de elevar al cubo. -->
 ### Explicacion Pedagogica
 El volumen del cubo es arista al cubo. Como 5 al cuadrado es 25 y por 5 es 125, el tanque guarda 125 metros cúbicos de agua.
@@ -124,11 +124,11 @@ El volumen de un prisma o cilindro es el área de la base multiplicada por la al
 ### Enunciado
 ¿Cuál caja tiene mayor volumen y por cuánto supera a la otra?
 ### Opciones
-- [x] A) Empatan con 48 centímetros cúbicos cada una
+- [x] C) Empatan con 48 centímetros cúbicos cada una
   <!-- feedback: Es correcta porque ambas multiplicaciones dan 48. -->
-- [ ] B) La caja A con 12 más
+- [ ] A) La caja A con 12 más
   <!-- feedback: Es incorrecta porque calcula mal el volumen de B. -->
-- [ ] C) La caja B con 6 más
+- [ ] B) La caja B con 6 más
   <!-- feedback: Es incorrecta porque calcula mal el volumen de A. -->
 - [ ] D) La caja A con 24 más
   <!-- feedback: Es incorrecta porque usa solo dos dimensiones en B. -->
@@ -143,11 +143,11 @@ La caja A tiene 6 por 4 por 2 igual a 48 y la caja B tiene 4 por 4 por 3 igual a
 ### Enunciado
 ¿Cuál es el volumen de la pirámide?
 ### Opciones
-- [x] A) 18 centímetros cúbicos
+- [x] C) 18 centímetros cúbicos
   <!-- feedback: Es correcta porque un tercio de 9 por 6 es 18. -->
-- [ ] B) 54 centímetros cúbicos
+- [ ] A) 54 centímetros cúbicos
   <!-- feedback: Es incorrecta porque ese es el volumen del prisma y falta dividir entre 3. -->
-- [ ] C) 15 centímetros cúbicos
+- [ ] B) 15 centímetros cúbicos
   <!-- feedback: Es incorrecta porque suma base y altura en lugar de multiplicar. -->
 - [ ] D) 27 centímetros cúbicos
   <!-- feedback: Es incorrecta porque divide entre 2 como si fuera un triángulo plano. -->
@@ -162,11 +162,11 @@ El volumen de una pirámide es un tercio del prisma con igual base y altura. Se 
 ### Enunciado
 Si 1 metro cúbico equivale a 1000 litros, ¿cuántos litros faltan para llenarla?
 ### Opciones
-- [x] A) 10000 litros
+- [x] C) 10000 litros
   <!-- feedback: Es correcta porque la capacidad es 80000 y ya tiene 70000. -->
-- [ ] B) 30000 litros
+- [ ] A) 30000 litros
   <!-- feedback: Es incorrecta porque calcula mal el volumen como 100 metros cúbicos. -->
-- [ ] C) 80000 litros
+- [ ] B) 80000 litros
   <!-- feedback: Es incorrecta porque esa es la capacidad total y no lo que falta. -->
 - [ ] D) 0 litros
   <!-- feedback: Es incorrecta porque 70000 litros son 70 metros cúbicos y aún falta. -->
@@ -181,13 +181,13 @@ El volumen es 8 por 5 por 2 igual a 80 metros cúbicos, es decir 80000 litros. C
 ### Enunciado
 ¿Cuál será la altura de cada vela si no se desperdicia cera?
 ### Opciones
-- [x] A) 12 centímetros
+- [x] D) 12 centímetros
   <!-- feedback: Es correcta porque el volumen 216 se reparte en dos partes de 108 y 108 entre 9 es 12. -->
-- [ ] B) 24 centímetros
+- [ ] A) 24 centímetros
   <!-- feedback: Es incorrecta porque usa todo el volumen para una sola vela. -->
-- [ ] C) 6 centímetros
+- [ ] B) 6 centímetros
   <!-- feedback: Es incorrecta porque usa la arista original como altura sin calcular. -->
-- [ ] D) 36 centímetros
+- [ ] C) 36 centímetros
   <!-- feedback: Es incorrecta porque multiplica en lugar de dividir el volumen repartido. -->
 ### Explicacion Pedagogica
 El cubo tiene 216 centímetros cúbicos. Al repartirlo en dos velas quedan 108 para cada una. Como el volumen del cilindro es base por altura, la altura es 108 dividido entre 9, es decir 12 centímetros.
@@ -200,9 +200,9 @@ El cubo tiene 216 centímetros cúbicos. Al repartirlo en dos velas quedan 108 p
 ### Enunciado
 ¿Cuál es la evaluación correcta de esa afirmación?
 ### Opciones
-- [x] A) Es falsa, porque el volumen se multiplica por 8
+- [x] B) Es falsa, porque el volumen se multiplica por 8
   <!-- feedback: Es correcta porque cada dimensión se duplica y 2 por 2 por 2 es 8. -->
-- [ ] B) Es verdadera, porque todo crece en la misma proporción
+- [ ] A) Es verdadera, porque todo crece en la misma proporción
   <!-- feedback: Es incorrecta porque confunde el crecimiento lineal con el crecimiento en volumen. -->
 - [ ] C) Es falsa, porque el volumen se multiplica por 4
   <!-- feedback: Es incorrecta porque 4 es el factor del área y no del volumen. -->

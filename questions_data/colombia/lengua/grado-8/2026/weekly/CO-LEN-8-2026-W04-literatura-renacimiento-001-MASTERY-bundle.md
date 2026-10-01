@@ -55,8 +55,8 @@ El Humanismo es el motor intelectual del Renacimiento, promoviendo el estudio de
 
 ### Opciones
 - [ ] A) Lira <!-- feedback: La lira es una estrofa de cinco versos que combina heptasílabos y endecasílabos. -->
-- [x] B) Soneto <!-- feedback: El soneto es la estructura poética más característica del Renacimiento europeo. -->
-- [ ] C) Octava real <!-- feedback: La octava real tiene ocho versos y se usaba principalmente en poemas épicos. -->
+- [x] C) Soneto <!-- feedback: El soneto es la estructura poética más característica del Renacimiento europeo. -->
+- [ ] B) Octava real <!-- feedback: La octava real tiene ocho versos y se usaba principalmente en poemas épicos. -->
 - [ ] D) Copla de pie quebrado <!-- feedback: Esta estrofa es medieval, famosa por su uso en las Coplas de Jorge Manrique. -->
 
 ### Explicacion Pedagogica
@@ -96,9 +96,9 @@ El antropocentrismo marca un cambio de mentalidad respecto a la Edad Media, perm
 ¿Cuál es la idea principal que transmite el poema de Garcilaso de la Vega cuando invita a una joven a disfrutar de su juventud antes de que llegue la "nieve" de la vejez?
 
 ### Opciones
-- [ ] A) Que la nieve es muy peligrosa para la salud de las mujeres jóvenes. <!-- feedback: La "nieve" es una metáfora de las canas y el paso del tiempo, no un fenómeno meteorológico. -->
-- [ ] B) Que la belleza física es eterna si se tiene una buena educación humanista. <!-- feedback: El poema enfatiza precisamente la fugacidad de la belleza física. -->
-- [x] C) Que se debe disfrutar del presente y de la juventud, ya que el tiempo pasa de forma inevitable. <!-- feedback: Es la esencia del tópico latino "Carpe diem", invitando al goce antes del marchitamiento. -->
+- [ ] B) Que la nieve es muy peligrosa para la salud de las mujeres jóvenes. <!-- feedback: La "nieve" es una metáfora de las canas y el paso del tiempo, no un fenómeno meteorológico. -->
+- [ ] C) Que la belleza física es eterna si se tiene una buena educación humanista. <!-- feedback: El poema enfatiza precisamente la fugacidad de la belleza física. -->
+- [x] A) Que se debe disfrutar del presente y de la juventud, ya que el tiempo pasa de forma inevitable. <!-- feedback: Es la esencia del tópico latino "Carpe diem", invitando al goce antes del marchitamiento. -->
 - [ ] D) Que solo los nobles pueden disfrutar de la vida porque tienen dinero. <!-- feedback: El tópico es universal y se centra en la naturaleza humana, no en la clase social. -->
 
 ### Explicacion Pedagogica
@@ -118,8 +118,8 @@ Si en un poema renacentista se describe un prado perfecto donde los pastores hab
 
 ### Opciones
 - [ ] A) Mostrar los problemas de la agricultura en la España del siglo XVI. <!-- feedback: La naturaleza en la literatura no busca ser un registro económico. -->
-- [ ] B) Advertir sobre los peligros de los animales salvajes en el campo. <!-- feedback: En el locus amoenus, la naturaleza es pacífica y segura. -->
-- [x] C) Servir como un escenario armonioso que refleja o contrasta con los sentimientos del poeta. <!-- feedback: La naturaleza idealizada es el marco perfecto para la introspección amorosa. -->
+- [ ] C) Advertir sobre los peligros de los animales salvajes en el campo. <!-- feedback: En el locus amoenus, la naturaleza es pacífica y segura. -->
+- [x] B) Servir como un escenario armonioso que refleja o contrasta con los sentimientos del poeta. <!-- feedback: La naturaleza idealizada es el marco perfecto para la introspección amorosa. -->
 - [ ] D) Promover el turismo rural entre los habitantes de la ciudad. <!-- feedback: Es un recurso estético literario, no una promoción publicitaria. -->
 
 ### Explicacion Pedagogica
@@ -138,9 +138,9 @@ La naturaleza renacentista es una construcción mental (naturaleza artificiosa) 
 ¿Por qué los poetas místicos utilizaban a menudo el lenguaje del amor terrenal y erótico para hablar de su relación con Dios?
 
 ### Opciones
-- [ ] A) Porque no conocían palabras religiosas para expresarse. <!-- feedback: Eran personas profundamente cultas en teología. -->
-- [ ] B) Porque querían ocultar que sus poemas eran religiosos para evitar la censura. <!-- feedback: Al contrario, su objetivo era compartir su experiencia de fe suprema. -->
-- [x] C) Porque el amor humano era la experiencia más intensa y comprensible para explicar la unión espiritual. <!-- feedback: Utilizan la metáfora de la unión entre amantes para simbolizar la unión del alma con la divinidad. -->
+- [ ] B) Porque no conocían palabras religiosas para expresarse. <!-- feedback: Eran personas profundamente cultas en teología. -->
+- [ ] C) Porque querían ocultar que sus poemas eran religiosos para evitar la censura. <!-- feedback: Al contrario, su objetivo era compartir su experiencia de fe suprema. -->
+- [x] A) Porque el amor humano era la experiencia más intensa y comprensible para explicar la unión espiritual. <!-- feedback: Utilizan la metáfora de la unión entre amantes para simbolizar la unión del alma con la divinidad. -->
 - [ ] D) Porque en el Renacimiento estaba prohibido escribir sobre temas puramente sagrados. <!-- feedback: Los temas sagrados seguían siendo fundamentales, pero se renovaron estilísticamente. -->
 
 ### Explicacion Pedagogica
@@ -160,9 +160,9 @@ La poesía mística utiliza la "vía unitiva" para describir un estado inefable 
 
 ### Opciones
 - [ ] A) Al incluir personajes mágicos que ayudan al pícaro a ser rico. <!-- feedback: La picaresca es realista y carece de elementos mágicos. -->
-- [x] B) Al mostrar de forma cruda la pobreza, el hambre y la hipocresía social de la época. <!-- feedback: Frente a los pastores ideales, Lázaro muestra la realidad marginal de España. -->
-- [ ] C) Al utilizar un lenguaje tan culto que nadie podía entender la historia. <!-- feedback: El estilo es sencillo y llano, adecuado a la condición del protagonista. -->
-- [ ] D) Al defender que todos los mendigos son personas malvadas por naturaleza. <!-- feedback: La obra critica más al sistema y a los amos que al propio Lázaro. -->
+- [x] D) Al mostrar de forma cruda la pobreza, el hambre y la hipocresía social de la época. <!-- feedback: Frente a los pastores ideales, Lázaro muestra la realidad marginal de España. -->
+- [ ] B) Al utilizar un lenguaje tan culto que nadie podía entender la historia. <!-- feedback: El estilo es sencillo y llano, adecuado a la condición del protagonista. -->
+- [ ] C) Al defender que todos los mendigos son personas malvadas por naturaleza. <!-- feedback: La obra critica más al sistema y a los amos que al propio Lázaro. -->
 
 ### Explicacion Pedagogica
 La novela picaresca es el "reverso" del idealismo renacentista, aportando una visión realista y satírica de la sociedad que influirá profundamente en la literatura posterior.
@@ -182,8 +182,8 @@ La novela picaresca es el "reverso" del idealismo renacentista, aportando una vi
 ### Opciones
 - [ ] A) Escribiendo solo sobre guerras y rechazando la poesía amorosa. <!-- feedback: El ideal es el equilibrio entre ambas facetas. -->
 - [ ] B) Viviendo encerrado en una biblioteca sin tener contacto con el mundo exterior. <!-- feedback: Garcilaso fue un soldado activo que murió en combate. -->
-- [x] C) Combinando su carrera militar con una profunda formación cultural y poética. <!-- feedback: Encarna el equilibrio entre la acción (marte) y el pensamiento (minerva). -->
-- [ ] D) Trabajando como campesino para entender la vida de los pastores de sus poemas. <!-- feedback: Era un noble que seguía los códigos de la corte, no un campesino real. -->
+- [x] D) Combinando su carrera militar con una profunda formación cultural y poética. <!-- feedback: Encarna el equilibrio entre la acción (marte) y el pensamiento (minerva). -->
+- [ ] C) Trabajando como campesino para entender la vida de los pastores de sus poemas. <!-- feedback: Era un noble que seguía los códigos de la corte, no un campesino real. -->
 
 ### Explicacion Pedagogica
 El equilibrio renacentista busca el desarrollo integral del ser humano, donde la fuerza física y la sensibilidad artística no son excluyentes.
@@ -202,8 +202,8 @@ El equilibrio renacentista busca el desarrollo integral del ser humano, donde la
 
 ### Opciones
 - [ ] A) Memento mori <!-- feedback: "Recuerda que vas a morir", más común en el Barroco. -->
-- [x] B) Beatus ille <!-- feedback: "Dichoso aquel...", que exalta la vida sencilla alejada de las preocupaciones urbanas. -->
-- [ ] C) Ubi sunt <!-- feedback: "¿Dónde están?", pregunta sobre el destino de los que ya murieron. -->
+- [x] C) Beatus ille <!-- feedback: "Dichoso aquel...", que exalta la vida sencilla alejada de las preocupaciones urbanas. -->
+- [ ] B) Ubi sunt <!-- feedback: "¿Dónde están?", pregunta sobre el destino de los que ya murieron. -->
 - [ ] D) Amor post mortem <!-- feedback: "Amor después de la muerte", propio de la lírica amorosa extrema. -->
 
 ### Explicacion Pedagogica
@@ -243,8 +243,8 @@ La gramática de Nebrija es el primer tratado sobre una lengua romance, reflejan
 ¿Cómo cambió el espíritu del Renacimiento español desde el reinado de Carlos I (apertura) al de Felipe II (cerrazón y defensa de la fe)?
 
 ### Opciones
-- [ ] A) Se volvió más alegre y centrado en la mitología griega. <!-- feedback: Esto ocurrió más bien en la primera mitad del siglo. -->
-- [x] B) Se volvió más introspectivo, religioso y austero, centrándose en temas espirituales y morales. <!-- feedback: La influencia de la Contrarreforma hizo que la literatura se alejara de lo puramente pagano. -->
+- [ ] B) Se volvió más alegre y centrado en la mitología griega. <!-- feedback: Esto ocurrió más bien en la primera mitad del siglo. -->
+- [x] A) Se volvió más introspectivo, religioso y austero, centrándose en temas espirituales y morales. <!-- feedback: La influencia de la Contrarreforma hizo que la literatura se alejara de lo puramente pagano. -->
 - [ ] C) Dejó de escribirse poesía y solo se permitieron los tratados científicos. <!-- feedback: La poesía siguió floreciendo, pero con un enfoque más espiritual (mística y ascética). -->
 - [ ] D) Se permitió la libertad total de culto y de expresión en todas las artes. <!-- feedback: Al contrario, la censura de la Inquisición se volvió más estricta. -->
 
@@ -266,8 +266,8 @@ El Renacimiento español tuvo una fase inicial vitalista e italianizante y una s
 ### Opciones
 - [ ] A) Demostrar que escribir es muy fácil y que cualquiera puede ser autor. <!-- feedback: Se buscaba la elegancia, no la falta de esfuerzo. -->
 - [ ] B) Evitar el uso de cualquier metáfora o comparación para ser directos. <!-- feedback: Se usaban metáforas, pero buscaban ser claras y armoniosas. -->
-- [x] C) Lograr la elegancia mediante la sencillez, la claridad y el equilibrio, evitando la afectación exagerada. <!-- feedback: La belleza renacentista reside en la armonía y la proporción, sin artificios innecesarios. -->
-- [ ] D) Escribir de forma descuidada para que el pueblo analfabeto pudiera entender. <!-- feedback: Era un ideal para la literatura culta, buscando la perfección sin que se notara el artificio (Sprezzatura). -->
+- [x] D) Lograr la elegancia mediante la sencillez, la claridad y el equilibrio, evitando la afectación exagerada. <!-- feedback: La belleza renacentista reside en la armonía y la proporción, sin artificios innecesarios. -->
+- [ ] C) Escribir de forma descuidada para que el pueblo analfabeto pudiera entender. <!-- feedback: Era un ideal para la literatura culta, buscando la perfección sin que se notara el artificio (Sprezzatura). -->
 
 ### Explicacion Pedagogica
 El ideal de claridad y sencillez del Renacimiento responde a la búsqueda de la verdad y la belleza eterna, sin las complicaciones retóricas de otras épocas.

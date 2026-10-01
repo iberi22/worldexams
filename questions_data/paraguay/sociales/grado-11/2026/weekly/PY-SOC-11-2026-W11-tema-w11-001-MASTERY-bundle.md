@@ -33,9 +33,9 @@ creador: "Jules-Agent"
 ¿Qué elemento natural principal actúa como límite biogeográfico y territorial dividiendo al Paraguay en dos grandes regiones (Región Oriental y Región Occidental o Chaco)?
 
 ### Opciones
-- [x] A) El Río Paraguay
+- [x] B) El Río Paraguay
   <!-- feedback: Correcto. El Río Paraguay cruza el territorio de norte a sur dividiéndolo naturalmente en la Región Oriental y la Región Occidental (Chaco). -->
-- [ ] B) La Cordillera de los Andes
+- [ ] A) La Cordillera de los Andes
   <!-- feedback: Incorrecto. Los Andes se ubican en la franja occidental de Sudamérica, fuera de las fronteras territoriales paraguayas. -->
 - [ ] C) El Océano Atlántico
   <!-- feedback: Incorrecto. Paraguay es un país mediterráneo sin costas directas sobre el océano Atlántico. -->
@@ -79,11 +79,11 @@ El contraste entre el 60% de superficie del Chaco y su escasa población frente 
 ¿Qué ciudad es la capital política y el centro administrativo más poblado de la República del Paraguay?
 
 ### Opciones
-- [x] A) Asunción
+- [x] C) Asunción
   <!-- feedback: Correcto. Nuestra Señora de la Asunción es la madre de ciudades y capital soberana del Paraguay. -->
-- [ ] B) Ciudad del Este
+- [ ] A) Ciudad del Este
   <!-- feedback: Incorrecto. Ciudad del Este es la capital del Departamento de Alto Paraná y principal polo comercial fronterizo, pero no la capital nacional. -->
-- [ ] C) Encarnación
+- [ ] B) Encarnación
   <!-- feedback: Incorrecto. Encarnación es la capital del Departamento de Itapúa, referente turístico y fronterizo sobre el Río Paraná. -->
 - [ ] D) Concepción
   <!-- feedback: Incorrecto. Concepción es la capital departamental del primer departamento norteño sobre el Río Paraguay. -->
@@ -148,11 +148,11 @@ Itaipú y Yacyretá convierten a Paraguay en uno de los mayores exportadores net
 ¿Qué tipo de clima predomina en la mayor parte de la Región Oriental del Paraguay, propiciando la agricultura de cereales y oleaginosas?
 
 ### Opciones
-- [x] A) Subtropical húmedo con precipitaciones abundantes bien distribuidas
+- [x] C) Subtropical húmedo con precipitaciones abundantes bien distribuidas
   <!-- feedback: Correcto. La Región Oriental posee un clima subtropical húmedo sin estación seca prolongada, idóneo para el bosque atlántico y el agro. -->
-- [ ] B) Árido desértico con ausencia total de lluvias
+- [ ] A) Árido desértico con ausencia total de lluvias
   <!-- feedback: Incorrecto. Paraguay no posee desiertos áridos extremos tipo Atacama o Sahara. -->
-- [ ] C) Polar de alta montaña con nieves perpetuas
+- [ ] B) Polar de alta montaña con nieves perpetuas
   <!-- feedback: Incorrecto. El relieve paraguayo es predominantemente de llanura y meseta sin altitudes polares. -->
 - [ ] D) Ecuatorial monzónico con fríos polares permanentes
   <!-- feedback: Incorrecto. Combinación climática contradictoria ajena a la geografía del Cono Sur paraguayo. -->
@@ -171,11 +171,11 @@ El clima subtropical húmedo en la Región Oriental favorece la producción agr�
 ¿Qué gran acuífero subterráneo dulce de dimensión transfronteriza y valor estratégico mundial yace bajo el subsuelo del oriente paraguayo compartiéndose con Brasil, Argentina y Uruguay?
 
 ### Opciones
-- [x] A) El Acuífero Guaraní
+- [x] C) El Acuífero Guaraní
   <!-- feedback: Correcto. El Acuífero Guaraní es uno de los mayores reservorios subterráneos de agua dulce del planeta. -->
-- [ ] B) El Acuífero de Ogallala
+- [ ] A) El Acuífero de Ogallala
   <!-- feedback: Incorrecto. El Ogallala es una reserva subterránea de agua en las grandes planicies de los Estados Unidos. -->
-- [ ] C) El Acuífero Nubio
+- [ ] B) El Acuífero Nubio
   <!-- feedback: Incorrecto. El reservorio Nubio yace bajo el desierto del Sahara en el norte de África. -->
 - [ ] D) El Acuífero Amazónico del Pacífico
   <!-- feedback: Incorrecto. Denominación geográficamente errónea sin correspondencia en la cuenca del Plata. -->
@@ -194,11 +194,11 @@ El Acuífero Guaraní constituye la mayor reserva estratégica de agua dulce de 
 ¿Qué bioma boscoso de altísima biodiversidad y endemismo, ampliamente fragmentado por la expansión agrícola en el este del país, forma parte del patrimonio natural paraguayo?
 
 ### Opciones
-- [x] A) El Bosque Atlántico del Alto Paraná (BAAPA)
+- [x] C) El Bosque Atlántico del Alto Paraná (BAAPA)
   <!-- feedback: Correcto. El BAAPA forma parte del bioma de la selva paranaense de extraordinaria riqueza biológica en flora y fauna. -->
-- [ ] B) La Taiga de coníferas polares
+- [ ] A) La Taiga de coníferas polares
   <!-- feedback: Incorrecto. La taiga es un bioma de latitudes subárticas de hemisferio norte. -->
-- [ ] C) La Tundra ártica de musgos
+- [ ] B) La Tundra ártica de musgos
   <!-- feedback: Incorrecto. La tundra es un ecosistema frío sin árboles de zonas polares. -->
 - [ ] D) La Sabana de los llanos del Orinoco
   <!-- feedback: Incorrecto. Los llanos del Orinoco se ubican en Colombia y Venezuela. -->
@@ -217,13 +217,13 @@ La protección de los remanentes del BAAPA es prioritaria para mitigar la defore
 ¿Cuál es la elevación orográfica o cerro de mayor altitud sobre el nivel del mar en la República del Paraguay (ubicado en la Cordillera del Ybytyruzú)?
 
 ### Opciones
-- [x] A) El Cerro Tres Kandú (o Cerro Peró) con 842 metros sobre el nivel del mar
+- [x] D) El Cerro Tres Kandú (o Cerro Peró) con 842 metros sobre el nivel del mar
   <!-- feedback: Correcto. El Cerro Tres Kandú en el Departamento de Guairá es el punto más elevado de la geografía nacional paraguaya (842 msnm). -->
-- [ ] B) El Cerro Aconcagua de 6.960 metros
+- [ ] A) El Cerro Aconcagua de 6.960 metros
   <!-- feedback: Incorrecto. El Aconcagua es la cima más alta de América ubicada en los Andes argentinos. -->
-- [ ] C) El Cerro Lambaré de 1.200 metros
+- [ ] B) El Cerro Lambaré de 1.200 metros
   <!-- feedback: Incorrecto. El Cerro Lambaré en Asunción posee una altitud modesta de aproximadamente 139 msnm. -->
-- [ ] D) El Volcán Chimborazo de 6.263 metros
+- [ ] C) El Volcán Chimborazo de 6.263 metros
   <!-- feedback: Incorrecto. El Chimborazo es un imponente volcán ubicado en los Andes ecuatorianos. -->
 
 ### Explicacion Pedagogica
@@ -309,13 +309,13 @@ La Hidrovía Paraguay-Paraná otorga competitividad internacional a la flota de 
 ¿Cuál ha sido la principal causa socioeconómica de los intensos flujos de migración campesina desde el campo hacia las zonas periféricas de Asunción y Ciudad del Este?
 
 ### Opciones
-- [x] A) La mecanización e industrialización del agro extensivo de soja, que redujo el empleo rural familiar y concentró la tenencia de tierras
+- [x] D) La mecanización e industrialización del agro extensivo de soja, que redujo el empleo rural familiar y concentró la tenencia de tierras
   <!-- feedback: Correcto. La expansión de la agricultura mecanizada desplaza la mano de obra campesina, acelerando el éxodo a áreas urbanas marginales. -->
-- [ ] B) El aumento de temperaturas polares que congeló los cultivos agrícolas del norte
+- [ ] A) El aumento de temperaturas polares que congeló los cultivos agrícolas del norte
   <!-- feedback: Incorrecto. Paraguay posee clima cálido subtropical; la causa del éxodo es estructural agraria y laboral. -->
-- [ ] C) La falta absoluta de agua en el curso del Río Paraná durante todo el siglo XXI
+- [ ] B) La falta absoluta de agua en el curso del Río Paraná durante todo el siglo XXI
   <!-- feedback: Incorrecto. El Río Paraná mantiene su caudal navegable constante sosteniendo la generación hidroeléctrica. -->
-- [ ] D) La obligación legal de que todos los jóvenes residan en rascacielos de la capital
+- [ ] C) La obligación legal de que todos los jóvenes residan en rascacielos de la capital
   <!-- feedback: Incorrecto. Afirmación disparatada desprovista de rigor sociológico o legal paraguayo. -->
 
 ### Explicacion Pedagogica
@@ -332,13 +332,13 @@ El desempleo rural por mecanización agropecuaria empuja a miles de familias cam
 La ocurrencia recurrente de incendios forestales de gran escala en el Chaco Boreal durante la estación seca invernal responde fundamentalmente a la combinación de:
 
 ### Opciones
-- [x] A) Sequías prolongadas, altas temperaturas con vientos del norte y prácticas antrópicas de quema no controlada de pastizales
+- [x] D) Sequías prolongadas, altas temperaturas con vientos del norte y prácticas antrópicas de quema no controlada de pastizales
   <!-- feedback: Correcto. Los incendios chaqueños combinan variaciones climáticas extremas con rozados y quemas agrícolas irresponsables que devoran biodiversidad. -->
-- [ ] B) Caída de meteoritos radioactivos sobre los bosques del departamento de Alto Paraguay
+- [ ] A) Caída de meteoritos radioactivos sobre los bosques del departamento de Alto Paraguay
   <!-- feedback: Incorrecto. No existen evidencias de impactos meteóricos desencadenantes de incendios forestales en la zona. -->
-- [ ] C) Erupciones de volcanes de lava basáltica en el centro de Filadelfia
+- [ ] B) Erupciones de volcanes de lava basáltica en el centro de Filadelfia
   <!-- feedback: Incorrecto. El Chaco carece de volcanes activos o actividad orogénica reciente. -->
-- [ ] D) Inundaciones por maremotos procedentes del Océano Pacífico
+- [ ] C) Inundaciones por maremotos procedentes del Océano Pacífico
   <!-- feedback: Incorrecto. Paraguay es mediterráneo y dista miles de kilómetros del Océano Pacífico. -->
 
 ### Explicacion Pedagogica
@@ -355,11 +355,11 @@ Los incendios en el Chaco dañan áreas protegidas únicas exigiendo una respues
 ¿Cuál es la trascendencia geopolítica y comercial de la megacarretera del Corredor Bioceánico que atraviesa el Chaco uniendo Brasil con los puertos del Pacífico en Chile?
 
 ### Opciones
-- [x] A) Posiciona a Paraguay como el nodo logístico terrestre estratégico del Cono Sur reduciendo los tiempos de flete hacia los mercados asiáticos
+- [x] C) Posiciona a Paraguay como el nodo logístico terrestre estratégico del Cono Sur reduciendo los tiempos de flete hacia los mercados asiáticos
   <!-- feedback: Correcto. El Corredor Bioceánico convertirá al Chaco paraguayo en el puente terrestre de integración entre el Atlántico brasileño y el Pacífico chileno. -->
-- [ ] B) Aísla al país impidiendo cualquier intercambio comercial con Argentina y Brasil
+- [ ] A) Aísla al país impidiendo cualquier intercambio comercial con Argentina y Brasil
   <!-- feedback: Incorrecto. La obra potencia la integración comercial regional en lugar de aislar al país. -->
-- [ ] C) Convierte al Chaco en una pista fluvial exclusiva para buques de guerra transatlánticos
+- [ ] B) Convierte al Chaco en una pista fluvial exclusiva para buques de guerra transatlánticos
   <!-- feedback: Incorrecto. Se trata de una red vial de carreteras terrestres pavimentadas para transporte pesado. -->
 - [ ] D) Obliga a transferir la capital de la República a la ciudad de Carmelo Peralta
   <!-- feedback: Incorrecto. Asunción se mantiene como capital de la República independientemente de las infraestructuras viales. -->
@@ -424,9 +424,9 @@ El desarrollo sustentable exige aplicar normativas ambientales estrictas (Zero D
 Al juzgar los proyectos de industrialización de materias primas en el norte del país (departamentos de Concepción, San Pedro y Amambay), ¿cuál es el beneficio socioeconómico estructural más relevante para la población local?
 
 ### Opciones
-- [x] A) La generación de empleo formal procesando productos primarios (plantas de celulosa, frigoríficos), frenando la migración de jóvenes a la capital
+- [x] B) La generación de empleo formal procesando productos primarios (plantas de celulosa, frigoríficos), frenando la migración de jóvenes a la capital
   <!-- feedback: Correcto. Industrializar el norte mediante inversiones agroindustriales y de celulosa diversifica la economía y arraiga a la juventud local. -->
-- [ ] B) La importación masiva de mano de obra de otros continentes para sustituir a los trabajadores paraguayos
+- [ ] A) La importación masiva de mano de obra de otros continentes para sustituir a los trabajadores paraguayos
   <!-- feedback: Incorrecto. El objetivo es priorizar el empleo de la mano de obra paraguaya regional. -->
 - [ ] C) La desmantelación de todas las carreteras viales para retornar a caminos de tierra del siglo XIX
   <!-- feedback: Incorrecto. La industrialización exige mejorar y pavimentar las redes viales para el transporte. -->
@@ -447,13 +447,13 @@ La industrialización regional en el norte paraguayo reduce la histórica brecha
 Al evaluar los impactos de fenómenos como El Niño y La Niña en Ñeembucú, ¿qué estrategia de infraestructura y gestión territorial resulta más efectiva para proteger a las poblaciones ribereñas?
 
 ### Opciones
-- [x] A) Construcción de franjas costeras y muros de contención con bombas de desagüe, combinados con la conservación de los humedales naturales reguladores
+- [x] D) Construcción de franjas costeras y muros de contención con bombas de desagüe, combinados con la conservación de los humedales naturales reguladores
   <!-- feedback: Correcto. Obras como la Defensa Costera de Pilar protegen a las ciudades de las crecidas del Río Paraguay respetando el rol esponja de los humedales. -->
-- [ ] B) La canalización completa de todos los esteros con pavimento de hormigón armado para eliminar el agua dulce
+- [ ] A) La canalización completa de todos los esteros con pavimento de hormigón armado para eliminar el agua dulce
   <!-- feedback: Incorrecto. Destruir los humedales empeoraría las inundaciones y arruinaría la recarga del acuífero. -->
-- [ ] C) La evacuación permanente e irreparable de todos los habitantes hacia la cima del Cerro Tres Kandú
+- [ ] B) La evacuación permanente e irreparable de todos los habitantes hacia la cima del Cerro Tres Kandú
   <!-- feedback: Incorrecto. Plan inviable de desplazamiento masivo que destruiría el tejido social de Pilar y Ñeembucú. -->
-- [ ] D) Prohibir que llueva en el departamento mediante decretos municipales
+- [ ] C) Prohibir que llueva en el departamento mediante decretos municipales
   <!-- feedback: Incorrecto. Pretensión absurda; el clima se gestiona con obras de adaptación y no con leyes administrativas. -->
 
 ### Explicacion Pedagogica
@@ -470,9 +470,9 @@ La resiliencia costera en Pilar demuestra cómo la ingeniería civil unida a la 
 Al evaluar la posición geográfica estratégica de Paraguay en el corazón de la Cuenca del Plata, ¿cuál es su mayor ventaja competitiva para la integración regional del siglo XXI?
 
 ### Opciones
-- [x] A) Su condición de encrucijada multimodal hidro-vial y centro generador de energía limpia capaz de articular el comercio del Cono Sur
+- [x] B) Su condición de encrucijada multimodal hidro-vial y centro generador de energía limpia capaz de articular el comercio del Cono Sur
   <!-- feedback: Correcto. Paraguay es el corazón hidroenergético y logístico del Cono Sur, llamado a ser el nexo comercial entre el Atlántico y el Pacífico. -->
-- [ ] B) Su total aislamiento diplomático que le impide firmar tratados comerciales con otros continentes
+- [ ] A) Su total aislamiento diplomático que le impide firmar tratados comerciales con otros continentes
   <!-- feedback: Incorrecto. Paraguay es miembro activo del Mercosur, la OEA y las Naciones Unidas con amplia diplomacia multilateral. -->
 - [ ] C) La falta de ríos navegables que la obliga a depender del transporte aéreo exclusivamente
   <!-- feedback: Incorrecto. Los ríos Paraguay y Paraná brindan una extraordinaria red de navegación fluvial comercial. -->

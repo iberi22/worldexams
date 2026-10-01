@@ -34,13 +34,13 @@ Vocabulary and simple expressions to describe places in the neighborhood and the
 Which place is a place where you can borrow and read books?
 
 ### Opciones
-- [x] A) A library.
+- [x] D) A library.
   <!-- feedback: A library is the place where people borrow and read books. -->
-- [ ] B) A market.
+- [ ] A) A market.
   <!-- feedback: A market is a place to buy food and other products, not to borrow books. -->
-- [ ] C) A stadium.
+- [ ] B) A stadium.
   <!-- feedback: A stadium is used for sports events, not for borrowing books. -->
-- [ ] D) A bakery.
+- [ ] C) A bakery.
   <!-- feedback: A bakery sells bread and cakes, not books. -->
 
 ### Explicacion Pedagogica
@@ -57,9 +57,9 @@ Recognizing the English name of a common community place by its function.
 Why does María go to the park?
 
 ### Opciones
-- [x] A) Because she plays with her dog and meets her friends there.
+- [x] B) Because she plays with her dog and meets her friends there.
   <!-- feedback: The text says María goes to the park to play with her dog and meet her friends. -->
-- [ ] B) Because she buys vegetables there.
+- [ ] A) Because she buys vegetables there.
   <!-- feedback: Buying vegetables is not mentioned in the passage. -->
 - [ ] C) Because she borrows books there.
   <!-- feedback: Borrowing books happens in a library, not in the park. -->
@@ -80,11 +80,11 @@ Inferring the reason for visiting a place from a short descriptive text in Engli
 Which place is the correct answer?
 
 ### Opciones
-- [x] A) At the market.
+- [x] C) At the market.
   <!-- feedback: The market is the place where people buy fruit, vegetables and fish. -->
-- [ ] B) At the library.
+- [ ] A) At the library.
   <!-- feedback: The library lends books; it does not sell food. -->
-- [ ] C) At the school.
+- [ ] B) At the school.
   <!-- feedback: The school is for learning, not for buying fresh food. -->
 - [ ] D) At the park.
   <!-- feedback: The park is for recreation and does not sell fruit or fish. -->
@@ -103,11 +103,11 @@ Applying vocabulary about community places to answer a question about shopping.
 Which word correctly completes the sentence?
 
 ### Opciones
-- [x] A) is.
+- [x] C) is.
   <!-- feedback: "There is" is used with a singular noun like "a big park". -->
-- [ ] B) are.
+- [ ] A) are.
   <!-- feedback: "There are" is used with plural nouns, not with "a big park". -->
-- [ ] C) am.
+- [ ] B) am.
   <!-- feedback: "Am" is used with the pronoun "I", not with "there". -->
 - [ ] D) be.
   <!-- feedback: "Be" is the base form and cannot complete this sentence alone. -->
@@ -126,9 +126,9 @@ Using "there is" correctly to describe a singular place in the neighborhood.
 Where is the market?
 
 ### Opciones
-- [x] A) Across from the park.
+- [x] B) Across from the park.
   <!-- feedback: The text states that the market is across from the park. -->
-- [ ] B) Next to the library.
+- [ ] A) Next to the library.
   <!-- feedback: Next to the library is the school, not the market. -->
 - [ ] C) Behind the school.
   <!-- feedback: Behind the school is the hospital, according to the text. -->
@@ -195,13 +195,13 @@ Analyzing how community places and shopping habits differ between small towns an
 What is the main message of this text?
 
 ### Opciones
-- [x] A) Community places like parks, libraries, markets and schools help people live together.
+- [x] D) Community places like parks, libraries, markets and schools help people live together.
   <!-- feedback: The text explains that these shared places strengthen the community. -->
-- [ ] B) Neighborhoods are only streets and houses.
+- [ ] A) Neighborhoods are only streets and houses.
   <!-- feedback: The text says a neighborhood is more than streets and houses. -->
-- [ ] C) Libraries are the only important place in a neighborhood.
+- [ ] B) Libraries are the only important place in a neighborhood.
   <!-- feedback: The text lists several important places, not only the library. -->
-- [ ] D) Children should never play in the park.
+- [ ] C) Children should never play in the park.
   <!-- feedback: The text presents the park as a place where children play. -->
 
 ### Explicacion Pedagogica

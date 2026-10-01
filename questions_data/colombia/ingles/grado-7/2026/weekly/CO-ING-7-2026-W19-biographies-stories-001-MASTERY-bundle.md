@@ -38,9 +38,9 @@ Which verb is commonly used to describe the start of someone's life in a biograp
 ### Opciones
 - [ ] A) Died
   <!-- feedback: Incorrect. This refers to the end of life. -->
-- [x] B) Was born
+- [x] C) Was born
   <!-- feedback: Correct! "Was born" indicates the beginning of a life story. -->
-- [ ] C) Studied
+- [ ] B) Studied
   <!-- feedback: Incorrect. This refers to education. -->
 - [ ] D) Worked
   <!-- feedback: Incorrect. This refers to a professional life. -->
@@ -115,9 +115,9 @@ The student understands how to use time markers to locate biographical events in
   <!-- feedback: Incorrect. Present tense. -->
 - [ ] B) die
   <!-- feedback: Incorrect. Present tense. -->
-- [x] C) died
+- [x] D) died
   <!-- feedback: Correct! Past simple of the regular verb "die". -->
-- [ ] D) dead
+- [ ] C) dead
   <!-- feedback: Incorrect. "Dead" is an adjective, not a verb. -->
 
 ### Explicacion Pedagogica
@@ -138,11 +138,11 @@ The student understands the correct verb form to describe a past biographical ev
 ### Opciones
 - [ ] A) lives / writes
   <!-- feedback: Incorrect. Present tense. -->
-- [x] B) was living / wrote
+- [x] D) was living / wrote
   <!-- feedback: Correct! Background state (living) and specific action (wrote). -->
-- [ ] C) lived / was writing
+- [ ] B) lived / was writing
   <!-- feedback: Incorrect. "Lived" is possible, but "was living" is more natural for a background state in a biography. -->
-- [ ] D) is living / wrote
+- [ ] C) is living / wrote
   <!-- feedback: Incorrect. Tense inconsistency. -->
 
 ### Explicacion Pedagogica
@@ -187,9 +187,9 @@ The student applies reading strategies to extract specific chronological data fr
 "My father ________ from the University of Antioquia in 1990."
 
 ### Opciones
-- [ ] A) study
+- [ ] B) study
   <!-- feedback: Incorrect. He completed the study. -->
-- [x] B) graduated
+- [x] A) graduated
   <!-- feedback: Correct! "Graduated" is the standard verb for finishing university. -->
 - [ ] C) finish
   <!-- feedback: Incorrect. Present tense. -->
@@ -217,9 +217,9 @@ What is the most remarkable thing about this artist's story?
   <!-- feedback: Incorrect. He lost his sight at 20. -->
 - [ ] B) He stopped painting at 20.
   <!-- feedback: Incorrect. He "didn't stop". -->
-- [x] C) He continued his creative career despite a physical challenge.
+- [x] D) He continued his creative career despite a physical challenge.
   <!-- feedback: Correct! His persistence after losing his sight is the main point. -->
-- [ ] D) He only painted when he was young.
+- [ ] C) He only painted when he was young.
   <!-- feedback: Incorrect. He created masterpieces after his accident. -->
 
 ### Explicacion Pedagogica
@@ -240,11 +240,11 @@ Choose the sentence that is grammatically correct and appropriate for a life sto
 ### Opciones
 - [ ] A) In 2010, he start his first business and he was only 18.
   <!-- feedback: Incorrect. "Start" should be "started". -->
-- [x] B) In 2010, he started his first business; he was only 18 years old.
+- [x] D) In 2010, he started his first business; he was only 18 years old.
   <!-- feedback: Correct! Proper use of past simple and age expression. -->
-- [ ] C) In 2010, he starting his first business and he has 18 years.
+- [ ] B) In 2010, he starting his first business and he has 18 years.
   <!-- feedback: Incorrect. "Starting" needs "was", and age uses "be", not "have". -->
-- [ ] D) He started his first business in 2010 when he has 18.
+- [ ] C) He started his first business in 2010 when he has 18.
   <!-- feedback: Incorrect. Age must be in the past: "was". -->
 
 ### Explicacion Pedagogica
@@ -268,9 +268,9 @@ Which sentence summarizes the general importance of the person rather than a spe
   <!-- feedback: Incorrect. This is a birth fact. -->
 - [ ] B) Sentence 2
   <!-- feedback: Incorrect. This is an education fact. -->
-- [ ] C) Sentence 3
+- [ ] D) Sentence 3
   <!-- feedback: Incorrect. This is about his style. -->
-- [x] D) Sentence 4
+- [x] C) Sentence 4
   <!-- feedback: Correct! This evaluates his overall legacy and recognition. -->
 
 ### Explicacion Pedagogica

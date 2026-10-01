@@ -37,8 +37,8 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) Sinónimos. <!-- feedback: Incorrecto. Los sinónimos son palabras con significados parecidos, no iguales. -->
-- [ ] B) Antónimos. <!-- feedback: Incorrecto. Los antónimos son palabras con significados opuestos. -->
-- [x] C) Homónimas. <!-- feedback: Correcto. Las palabras homónimas (específicamente homógrafas en este caso) se escriben igual pero tienen distintos significados. -->
+- [ ] C) Antónimos. <!-- feedback: Incorrecto. Los antónimos son palabras con significados opuestos. -->
+- [x] B) Homónimas. <!-- feedback: Correcto. Las palabras homónimas (específicamente homógrafas en este caso) se escriben igual pero tienen distintos significados. -->
 - [ ] D) Parónimas. <!-- feedback: Incorrecto. Las parónimas se parecen en su sonido o escritura pero no son iguales. -->
 
 ### Explicacion Pedagogica
@@ -58,9 +58,9 @@ En la oración "Mañana **habremos terminado** el proyecto de ciencias", el verb
 
 ### Opciones
 - [ ] A) Futuro simple de indicativo. <!-- feedback: Incorrecto. El futuro simple sería "terminaremos". -->
-- [x] B) Futuro compuesto (antefuturo) de indicativo. <!-- feedback: Correcto. Se forma con el futuro de "haber" + participio, indicando una acción futura anterior a otra. -->
-- [ ] C) Pretérito perfecto de subjuntivo. <!-- feedback: Incorrecto. El modo no es subjuntivo y no indica pasado. -->
-- [ ] D) Condicional simple. <!-- feedback: Incorrecto. El condicional sería "terminaríamos". -->
+- [x] D) Futuro compuesto (antefuturo) de indicativo. <!-- feedback: Correcto. Se forma con el futuro de "haber" + participio, indicando una acción futura anterior a otra. -->
+- [ ] B) Pretérito perfecto de subjuntivo. <!-- feedback: Incorrecto. El modo no es subjuntivo y no indica pasado. -->
+- [ ] C) Condicional simple. <!-- feedback: Incorrecto. El condicional sería "terminaríamos". -->
 
 ### Explicacion Pedagogica
 Los tiempos compuestos se forman con el verbo auxiliar "haber" conjugado y el participio del verbo principal. El futuro compuesto indica una acción que se considera acabada en el futuro.
@@ -121,9 +121,9 @@ Identifica el par de palabras que mantienen una relación de **antonimia gradual
 
 ### Opciones
 - [ ] A) Vivo / Muerto. <!-- feedback: Incorrecto. Son antónimos complementarios (si es uno, no puede ser el otro). -->
-- [x] B) Caliente / Frío. <!-- feedback: Correcto. Son antónimos graduales porque existen estados intermedios como tibio o templado. -->
-- [ ] C) Comprar / Vender. <!-- feedback: Incorrecto. Son antónimos recíprocos (uno implica al otro). -->
-- [ ] D) Entrar / Salir. <!-- feedback: Incorrecto. Son antónimos direccionales u opuestos inversos. -->
+- [x] D) Caliente / Frío. <!-- feedback: Correcto. Son antónimos graduales porque existen estados intermedios como tibio o templado. -->
+- [ ] B) Comprar / Vender. <!-- feedback: Incorrecto. Son antónimos recíprocos (uno implica al otro). -->
+- [ ] C) Entrar / Salir. <!-- feedback: Incorrecto. Son antónimos direccionales u opuestos inversos. -->
 
 ### Explicacion Pedagogica
 Los antónimos graduales son aquellos que representan los extremos de una escala, permitiendo la existencia de matices intermedios entre ambos.
@@ -141,8 +141,8 @@ Los antónimos graduales son aquellos que representan los extremos de una escala
 En el fragmento: "Los ancestros **caminaban** por el desierto cada noche", el verbo resaltado indica:
 
 ### Opciones
-- [ ] A) Una acción puntual que terminó rápidamente. <!-- feedback: Incorrecto. Esa función corresponde al pretérito perfecto simple (caminaron). -->
-- [x] B) Una acción habitual o repetida en el pasado. <!-- feedback: Correcto. El pretérito imperfecto (copretérito) se usa para describir rutinas o estados duraderos en el pasado. -->
+- [ ] B) Una acción puntual que terminó rápidamente. <!-- feedback: Incorrecto. Esa función corresponde al pretérito perfecto simple (caminaron). -->
+- [x] A) Una acción habitual o repetida en el pasado. <!-- feedback: Correcto. El pretérito imperfecto (copretérito) se usa para describir rutinas o estados duraderos en el pasado. -->
 - [ ] C) Una acción que todavía no ha sucedido. <!-- feedback: Incorrecto. Es un tiempo de pasado, no de futuro. -->
 - [ ] D) Un deseo del narrador sobre el futuro de su pueblo. <!-- feedback: Incorrecto. El modo es indicativo, no subjuntivo de deseo. -->
 
@@ -164,8 +164,8 @@ En la oración: "La **casa** del hato es muy grande", ¿cuál de los siguientes 
 ### Opciones
 - [ ] A) Edificio. <!-- feedback: Incorrecto. Un edificio es una estructura urbana de varios pisos, no encaja con un hato llanero. -->
 - [ ] B) Apartamento. <!-- feedback: Incorrecto. No corresponde a la realidad rural de un hato. -->
-- [x] C) Casona. <!-- feedback: Correcto. "Casona" o "vivienda principal" se ajusta mejor a la descripción de una construcción rural amplia. -->
-- [ ] D) Choza. <!-- feedback: Incorrecto. Una choza es una construcción humilde y pequeña, lo que contradice el adjetivo "grande". -->
+- [x] D) Casona. <!-- feedback: Correcto. "Casona" o "vivienda principal" se ajusta mejor a la descripción de una construcción rural amplia. -->
+- [ ] C) Choza. <!-- feedback: Incorrecto. Una choza es una construcción humilde y pequeña, lo que contradice el adjetivo "grande". -->
 
 ### Explicacion Pedagogica
 La sinonimia total es rara; la mayoría de los sinónimos son parciales o contextuales. Elegir la palabra exacta depende del entorno (urbano vs rural) y las características del objeto.
@@ -204,8 +204,8 @@ Estas palabras son homófonas (suenan igual o parecido en algunas regiones) pero
 ¿Cuál sería la mejor opción para sustituir el verbo "hacer" en la oración: "Los artesanos van a **hacer** una estatua de madera"?
 
 ### Opciones
-- [ ] A) Realizar. <!-- feedback: Es aceptable, pero hay un verbo más específico para el arte. -->
-- [x] B) Esculpir. <!-- feedback: Correcto. Es el verbo preciso para la creación de estatuas o figuras en materiales sólidos. -->
+- [ ] B) Realizar. <!-- feedback: Es aceptable, pero hay un verbo más específico para el arte. -->
+- [x] A) Esculpir. <!-- feedback: Correcto. Es el verbo preciso para la creación de estatuas o figuras en materiales sólidos. -->
 - [ ] C) Ejecutar. <!-- feedback: Incorrecto. Es demasiado técnico o administrativo para un contexto artístico. -->
 - [ ] D) Fabricar. <!-- feedback: Incorrecto. Sugiere un proceso industrial o en serie, no artesanal. -->
 
@@ -226,8 +226,8 @@ Evalúa el siguiente párrafo: "Ayer **vaya** al museo y **miraría** los cuadro
 
 ### Opciones
 - [ ] A) Cambiar "vaya" por "vengo" y "miraría" por "veo". <!-- feedback: Incorrecto. El primer verbo debe estar en pasado (ayer). -->
-- [x] B) Cambiar "vaya" por "fui" (pasado) y "miraría" por "miré" (pasado), manteniendo el resto. <!-- feedback: Correcto. "Ayer" exige pretérito perfecto simple, y la segunda parte (condición real) es correcta. -->
-- [ ] C) Cambiar "iré" por "fuera" y "tengo" por "tuviera". <!-- feedback: Incorrecto. Cambiaría una condición posible por una improbable, pero no corrige el error del pasado. -->
+- [x] C) Cambiar "vaya" por "fui" (pasado) y "miraría" por "miré" (pasado), manteniendo el resto. <!-- feedback: Correcto. "Ayer" exige pretérito perfecto simple, y la segunda parte (condición real) es correcta. -->
+- [ ] B) Cambiar "iré" por "fuera" y "tengo" por "tuviera". <!-- feedback: Incorrecto. Cambiaría una condición posible por una improbable, pero no corrige el error del pasado. -->
 - [ ] D) El texto es correcto tal como está escrito. <!-- feedback: Incorrecto. Presenta errores graves de concordancia temporal con el adverbio "ayer". -->
 
 ### Explicacion Pedagogica

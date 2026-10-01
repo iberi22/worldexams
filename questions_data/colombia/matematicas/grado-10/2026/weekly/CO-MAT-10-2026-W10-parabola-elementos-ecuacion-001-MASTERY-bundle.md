@@ -52,9 +52,9 @@ La parábola con foco en $(p, 0)$ y directriz $x = -p$ tiene ecuación $y^2 = 4p
 ### Enunciado
 ¿Cuál es el foco de la parábola?
 ### Opciones
-- [x] A) $(2, 0)$
+- [x] B) $(2, 0)$
   <!-- feedback: Correcto. $4p = 8$, luego $p = 2$ y el foco es $(p, 0) = (2, 0)$. -->
-- [ ] B) $(0, 2)$
+- [ ] A) $(0, 2)$
   <!-- feedback: Incorrecto. Ese sería el foco de una parábola vertical. -->
 - [ ] C) $(4, 0)$
   <!-- feedback: Incorrecto. $p = 2$, no $4$; $4p = 8$. -->
@@ -112,9 +112,9 @@ Con $4p = 16$, $p = 4$. Para una parábola $y^2 = 4px$, la directriz es la recta
 ### Enunciado
 ¿Cuál es la ecuación de la parábola?
 ### Opciones
-- [x] A) $x^2 = 12y$
+- [x] B) $x^2 = 12y$
   <!-- feedback: Correcto. Foco $(0, p) = (0, 3)$, $p = 3$; $x^2 = 4py = 12y$. -->
-- [ ] B) $x^2 = -12y$
+- [ ] A) $x^2 = -12y$
   <!-- feedback: Incorrecto. El foco está arriba, por lo que el coeficiente es positivo. -->
 - [ ] C) $y^2 = 12x$
   <!-- feedback: Incorrecto. Esa es una parábola horizontal con foco en $(3, 0)$. -->
@@ -132,11 +132,11 @@ El foco en $(0, 3)$ indica una parábola vertical con $p = 3$: $x^2 = 4py = 12y$
 ### Enunciado
 ¿Cuál es el vértice de la parábola?
 ### Opciones
-- [x] A) $(-1, 2)$
+- [x] C) $(-1, 2)$
   <!-- feedback: Correcto. El vértice es $(h, k) = (-1, 2)$. -->
-- [ ] B) $(1, -2)$
+- [ ] A) $(1, -2)$
   <!-- feedback: Incorrecto. Los signos están invertidos. -->
-- [ ] C) $(8, -1)$
+- [ ] B) $(8, -1)$
   <!-- feedback: Incorrecto. Confundiste el coeficiente con las coordenadas. -->
 - [ ] D) $(0, 0)$
   <!-- feedback: Incorrecto. El vértice está desplazado. -->
@@ -172,13 +172,13 @@ Comparando con $y^2 = 4px$: $4p = -8$, $p = -2$. El foco es $(p, 0) = (-2, 0)$ y
 ### Enunciado
 ¿Cuál es la ecuación de la parábola?
 ### Opciones
-- [x] A) $y^2 = -20x$
+- [x] D) $y^2 = -20x$
   <!-- feedback: Correcto. $x = 5$ implica $p = -5$; $y^2 = 4px = -20x$. -->
-- [ ] B) $y^2 = 20x$
+- [ ] A) $y^2 = 20x$
   <!-- feedback: Incorrecto. El foco estaría en $(5, 0)$, pero la directriz $x = 5$ indica que abre a la izquierda. -->
-- [ ] C) $x^2 = -20y$
+- [ ] B) $x^2 = -20y$
   <!-- feedback: Incorrecto. Esa sería una parábola vertical. -->
-- [ ] D) $y^2 = -5x$
+- [ ] C) $y^2 = -5x$
   <!-- feedback: Incorrecto. El coeficiente es $4p = -20$, no $-5$. -->
 ### Explicacion Pedagogica
 Si la directriz es $x = -p = 5$, entonces $p = -5$ y $4p = -20$: $y^2 = -20x$, abriendo a la izquierda.
@@ -192,13 +192,13 @@ Si la directriz es $x = -p = 5$, entonces $p = -5$ y $4p = -20$: $y^2 = -20x$, a
 ### Enunciado
 ¿Cuál es la longitud del lado recto?
 ### Opciones
-- [x] A) $20$
+- [x] D) $20$
   <!-- feedback: Correcto. El lado recto mide $|4p| = 20$. -->
-- [ ] B) $5$
+- [ ] A) $5$
   <!-- feedback: Incorrecto. $5$ es el valor de $p$, no del lado recto. -->
-- [ ] C) $10$
+- [ ] B) $10$
   <!-- feedback: Incorrecto. El lado recto mide $4p$, no $2p$. -->
-- [ ] D) $80$
+- [ ] C) $80$
   <!-- feedback: Incorrecto. Multiplicaste de más. -->
 ### Explicacion Pedagogica
 El lado recto de una parábola $y^2 = 4px$ mide $|4p|$. Con $4p = 20$, la longitud es $20$.
@@ -212,13 +212,13 @@ El lado recto de una parábola $y^2 = 4px$ mide $|4p|$. Con $4p = 20$, la longit
 ### Enunciado
 ¿A qué distancia del vértice debe ubicarse la fuente de luz para que los rayos salgan paralelos?
 ### Opciones
-- [x] A) A $6$ dm.
+- [x] D) A $6$ dm.
   <!-- feedback: Correcto. La fuente va en el foco; $4p = 24$, luego $p = 6$ dm. -->
-- [ ] B) A $24$ dm.
+- [ ] A) A $24$ dm.
   <!-- feedback: Incorrecto. $24$ es $4p$, no la distancia focal. -->
-- [ ] C) A $12$ dm.
+- [ ] B) A $12$ dm.
   <!-- feedback: Incorrecto. El foco está a $p = 6$ dm, no a $12$. -->
-- [ ] D) A $3$ dm.
+- [ ] C) A $3$ dm.
   <!-- feedback: Incorrecto. Subestimaste la distancia focal. -->
 ### Explicacion Pedagogica
 En un reflector parabólico, la fuente se ubica en el foco. De $y^2 = 24x$, $4p = 24$, luego $p = 6$ dm.
@@ -232,9 +232,9 @@ En un reflector parabólico, la fuente se ubica en el foco. De $y^2 = 24x$, $4p 
 ### Enunciado
 Completando cuadrados, ¿cuál es el foco de la parábola?
 ### Opciones
-- [x] A) $(2, 3)$
+- [x] B) $(2, 3)$
   <!-- feedback: Correcto. $(x-2)^2 = 8(y-1)$; vértice $(2, 1)$, $4p = 8$, $p = 2$, foco en $(2, 1+2) = (2, 3)$. -->
-- [ ] B) $(2, 1)$
+- [ ] A) $(2, 1)$
   <!-- feedback: Incorrecto. Ese es el vértice, no el foco. -->
 - [ ] C) $(2, 2)$
   <!-- feedback: Incorrecto. $2$ es el valor de $p$, pero el foco suma $p$ a la ordenada del vértice. -->
@@ -252,9 +252,9 @@ Completando cuadrados: $x^2 - 4x = 8y - 12$, luego $(x - 2)^2 = 8y - 8 = 8(y - 1
 ### Enunciado
 ¿Cuál es la ecuación de la parábola?
 ### Opciones
-- [x] A) $(x - 1)^2 = 12(y - 2)$
+- [x] B) $(x - 1)^2 = 12(y - 2)$
   <!-- feedback: Correcto. Distancia focal $p = 3$; abre hacia arriba: $(x - 1)^2 = 4(3)(y - 2) = 12(y - 2)$. -->
-- [ ] B) $(x - 1)^2 = 3(y - 2)$
+- [ ] A) $(x - 1)^2 = 3(y - 2)$
   <!-- feedback: Incorrecto. El coeficiente debe ser $4p = 12$. -->
 - [ ] C) $(y - 2)^2 = 12(x - 1)$
   <!-- feedback: Incorrecto. El foco está sobre la misma vertical que el vértice, es una parábola vertical. -->

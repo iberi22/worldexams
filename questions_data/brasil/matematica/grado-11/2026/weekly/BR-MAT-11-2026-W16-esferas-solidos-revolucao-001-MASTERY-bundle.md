@@ -50,8 +50,8 @@ Qual sólido é gerado pela rotação completa de um retângulo em torno de um d
 
 ### Opciones
 - [ ] A) Cone <!-- feedback: Incorreto: o cone é gerado pela rotação de um triângulo retângulo. -->
-- [x] B) Cilindro <!-- feedback: Correto: a rotação de um retângulo em torno de um lado gera um cilindro. -->
-- [ ] C) Esfera <!-- feedback: Incorreto: a esfera é gerada pela rotação de um semicírculo. -->
+- [x] C) Cilindro <!-- feedback: Correto: a rotação de um retângulo em torno de um lado gera um cilindro. -->
+- [ ] B) Esfera <!-- feedback: Incorreto: a esfera é gerada pela rotação de um semicírculo. -->
 - [ ] D) Pirâmide <!-- feedback: Incorreto: a pirâmide não é um sólido de revolução. -->
 
 ### Explicacion Pedagogica
@@ -69,9 +69,9 @@ Qual é a área da superfície de uma esfera de raio 3 cm? (Use π = 3.)
 
 ### Opciones
 - [ ] A) 36 cm² <!-- feedback: Incorreto: 36 seria 4πr com π = 3. -->
-- [x] B) 108 cm² <!-- feedback: Correto: A = 4πr² = 4 × 3 × 9 = 108 cm². -->
-- [ ] C) 72 cm² <!-- feedback: Incorreto: 72 seria o volume da esfera com π = 3. -->
-- [ ] D) 54 cm² <!-- feedback: Incorreto: 54 seria a metade da área correta. -->
+- [x] D) 108 cm² <!-- feedback: Correto: A = 4πr² = 4 × 3 × 9 = 108 cm². -->
+- [ ] B) 72 cm² <!-- feedback: Incorreto: 72 seria o volume da esfera com π = 3. -->
+- [ ] C) 54 cm² <!-- feedback: Incorreto: 54 seria a metade da área correta. -->
 
 ### Explicacion Pedagogica
 A área da superfície esférica é A = 4πr² = 4 × 3 × 3² = 108 cm².
@@ -107,8 +107,8 @@ Uma esfera de raio 5 cm é cortada por um plano que passa a 3 cm do centro. Qual
 
 ### Opciones
 - [ ] A) 2 cm <!-- feedback: Incorreto: 2 é a diferença entre o raio e a distância. -->
-- [x] B) 4 cm <!-- feedback: Correto: r_seção = √(5² − 3²) = √16 = 4 cm. -->
-- [ ] C) √34 cm <!-- feedback: Incorreto: √34 seria √(5² + 3²). -->
+- [x] C) 4 cm <!-- feedback: Correto: r_seção = √(5² − 3²) = √16 = 4 cm. -->
+- [ ] B) √34 cm <!-- feedback: Incorreto: √34 seria √(5² + 3²). -->
 - [ ] D) 5 cm <!-- feedback: Incorreto: 5 é o raio da esfera, não da seção. -->
 
 ### Explicacion Pedagogica
@@ -126,8 +126,8 @@ Qual é o volume de uma semiesfera de raio 3 cm? (Use π = 3.)
 
 ### Opciones
 - [ ] A) 108 cm³ <!-- feedback: Incorreto: 108 é o volume da esfera inteira. -->
-- [x] B) 54 cm³ <!-- feedback: Correto: V_semiesfera = (1/2) × (4/3)πr³ = (2/3) × 3 × 27 = 54 cm³. -->
-- [ ] C) 27 cm³ <!-- feedback: Incorreto: 27 é o cubo do raio. -->
+- [x] C) 54 cm³ <!-- feedback: Correto: V_semiesfera = (1/2) × (4/3)πr³ = (2/3) × 3 × 27 = 54 cm³. -->
+- [ ] B) 27 cm³ <!-- feedback: Incorreto: 27 é o cubo do raio. -->
 - [ ] D) 36 cm³ <!-- feedback: Incorreto: 36 seria o volume de uma esfera de raio 2. -->
 
 ### Explicacion Pedagogica
@@ -163,8 +163,8 @@ A área da superfície de uma semiesfera (sem a base) é metade da área da esfe
 Uma bola tem diâmetro de 6 cm. Qual é o seu volume? (Use π = 3.)
 
 ### Opciones
-- [ ] A) 288 cm³ <!-- feedback: Incorreto: 288 seria o volume se o raio fosse 6 cm. -->
-- [x] B) 108 cm³ <!-- feedback: Correto: r = 3 cm, V = (4/3) × 3 × 27 = 108 cm³. -->
+- [ ] B) 288 cm³ <!-- feedback: Incorreto: 288 seria o volume se o raio fosse 6 cm. -->
+- [x] A) 108 cm³ <!-- feedback: Correto: r = 3 cm, V = (4/3) × 3 × 27 = 108 cm³. -->
 - [ ] C) 54 cm³ <!-- feedback: Incorreto: 54 seria o volume de uma semiesfera de raio 3. -->
 - [ ] D) 216 cm³ <!-- feedback: Incorreto: 216 seria o volume de um cubo de aresta 6. -->
 
@@ -182,8 +182,8 @@ Com diâmetro 6 cm, o raio é 3 cm. O volume é V = (4/3)πr³ = (4/3) × 3 × 2
 Qual sólido é gerado pela rotação completa de um triângulo retângulo em torno de um de seus catetos?
 
 ### Opciones
-- [ ] A) Cilindro <!-- feedback: Incorreto: o cilindro é gerado por um retângulo. -->
-- [x] B) Cone <!-- feedback: Correto: a rotação de um triângulo retângulo em torno de um cateto gera um cone reto. -->
+- [ ] B) Cilindro <!-- feedback: Incorreto: o cilindro é gerado por um retângulo. -->
+- [x] A) Cone <!-- feedback: Correto: a rotação de um triângulo retângulo em torno de um cateto gera um cone reto. -->
 - [ ] C) Esfera <!-- feedback: Incorreto: a esfera é gerada por um semicírculo. -->
 - [ ] D) Tronco de cone <!-- feedback: Incorreto: o tronco de cone é gerado pela rotação de um trapézio retângulo. -->
 
@@ -220,8 +220,8 @@ O cilindro circunscrito tem raio igual ao da esfera (3 cm) e altura igual ao di�
 Um reservatório esférico tem raio interno de 1,5 m. Qual é a sua capacidade aproximada em litros? (Use π = 3 e 1 m³ = 1000 L.)
 
 ### Opciones
-- [x] A) 13.500 L <!-- feedback: Correto: V = (4/3) × 3 × 3,375 = 13,5 m³ = 13.500 L. -->
-- [ ] B) 4.500 L <!-- feedback: Incorreto: 4.500 L seria o volume de uma esfera de raio 1 m. -->
+- [x] B) 13.500 L <!-- feedback: Correto: V = (4/3) × 3 × 3,375 = 13,5 m³ = 13.500 L. -->
+- [ ] A) 4.500 L <!-- feedback: Incorreto: 4.500 L seria o volume de uma esfera de raio 1 m. -->
 - [ ] C) 27.000 L <!-- feedback: Incorreto: 27.000 L seria o volume de uma esfera de raio 1,9 m. -->
 - [ ] D) 6.750 L <!-- feedback: Incorreto: 6.750 L seria o volume de uma semiesfera de raio 1,5 m. -->
 
@@ -240,8 +240,8 @@ Uma esfera tem volume 36π cm³. Qual é o valor do seu raio?
 
 ### Opciones
 - [ ] A) 2 cm <!-- feedback: Incorreto: com r = 2, o volume seria 32π/3 cm³. -->
-- [x] B) 3 cm <!-- feedback: Correto: (4/3)πr³ = 36π, logo r³ = 27 e r = 3 cm. -->
-- [ ] C) 4 cm <!-- feedback: Incorreto: com r = 4, o volume seria 256π/3 cm³. -->
+- [x] C) 3 cm <!-- feedback: Correto: (4/3)πr³ = 36π, logo r³ = 27 e r = 3 cm. -->
+- [ ] B) 4 cm <!-- feedback: Incorreto: com r = 4, o volume seria 256π/3 cm³. -->
 - [ ] D) 6 cm <!-- feedback: Incorreto: com r = 6, o volume seria 288π cm³. -->
 
 ### Explicacion Pedagogica
@@ -259,8 +259,8 @@ A esfera A tem o dobro do raio da esfera B. Qual é a razão entre o volume de A
 
 ### Opciones
 - [ ] A) 2 <!-- feedback: Incorreto: 2 é a razão entre os raios. -->
-- [ ] B) 4 <!-- feedback: Incorreto: 4 é a razão entre as áreas das superfícies. -->
-- [x] C) 8 <!-- feedback: Correto: o volume cresce com o cubo do raio: 2³ = 8. -->
+- [ ] C) 4 <!-- feedback: Incorreto: 4 é a razão entre as áreas das superfícies. -->
+- [x] B) 8 <!-- feedback: Correto: o volume cresce com o cubo do raio: 2³ = 8. -->
 - [ ] D) 16 <!-- feedback: Incorreto: 16 seria 2⁴. -->
 
 ### Explicacion Pedagogica
@@ -278,8 +278,8 @@ Qual é a razão entre a área da superfície de uma esfera de raio r e a área 
 
 ### Opciones
 - [ ] A) 2 <!-- feedback: Incorreto: 2 seria a razão se a área fosse 2πr². -->
-- [x] B) 4 <!-- feedback: Correto: A_esfera/A_círculo = 4πr²/πr² = 4. -->
-- [ ] C) 4/3 <!-- feedback: Incorreto: 4/3 aparece na fórmula do volume, não aqui. -->
+- [x] C) 4 <!-- feedback: Correto: A_esfera/A_círculo = 4πr²/πr² = 4. -->
+- [ ] B) 4/3 <!-- feedback: Incorreto: 4/3 aparece na fórmula do volume, não aqui. -->
 - [ ] D) 8 <!-- feedback: Incorreto: 8 seria a razão entre os volumes de esferas com raio dobrado. -->
 
 ### Explicacion Pedagogica
@@ -296,8 +296,8 @@ A área da superfície esférica é 4πr² e a área do círculo máximo é πr�
 Qual sólido é gerado pela rotação completa de um semicírculo em torno de seu diâmetro?
 
 ### Opciones
-- [ ] A) Cilindro <!-- feedback: Incorreto: o cilindro é gerado por um retângulo. -->
-- [x] B) Esfera <!-- feedback: Correto: a rotação de um semicírculo em torno do diâmetro gera uma esfera. -->
+- [ ] B) Cilindro <!-- feedback: Incorreto: o cilindro é gerado por um retângulo. -->
+- [x] A) Esfera <!-- feedback: Correto: a rotação de um semicírculo em torno do diâmetro gera uma esfera. -->
 - [ ] C) Cone <!-- feedback: Incorreto: o cone é gerado por um triângulo retângulo. -->
 - [ ] D) Tronco de cone <!-- feedback: Incorreto: o tronco de cone é gerado por um trapézio retângulo. -->
 
@@ -315,8 +315,8 @@ O semicírculo, ao girar em torno de seu diâmetro, descreve a superfície esfé
 Um globo decorativo tem área de superfície de 144π cm². Qual é o seu raio?
 
 ### Opciones
-- [ ] A) 12 cm <!-- feedback: Incorreto: 12 é o valor de r². -->
-- [x] B) 6 cm <!-- feedback: Correto: 4πr² = 144π, logo r² = 36 e r = 6 cm. -->
+- [ ] B) 12 cm <!-- feedback: Incorreto: 12 é o valor de r². -->
+- [x] A) 6 cm <!-- feedback: Correto: 4πr² = 144π, logo r² = 36 e r = 6 cm. -->
 - [ ] C) 8 cm <!-- feedback: Incorreto: com r = 8, a área seria 256π cm². -->
 - [ ] D) 4 cm <!-- feedback: Incorreto: com r = 4, a área seria 64π cm². -->
 
@@ -335,8 +335,8 @@ Uma esfera está inscrita em um cubo de aresta 6 cm. Qual é a razão entre o vo
 
 ### Opciones
 - [ ] A) π/2 <!-- feedback: Incorreto: π/2 não corresponde à razão entre os volumes. -->
-- [x] B) 1/2 <!-- feedback: Correto: V_esfera = 108 cm³ e V_cubo = 216 cm³, logo a razão é 1/2. -->
-- [ ] C) 1/3 <!-- feedback: Incorreto: 1/3 seria a razão entre o volume do cone e do cilindro. -->
+- [x] C) 1/2 <!-- feedback: Correto: V_esfera = 108 cm³ e V_cubo = 216 cm³, logo a razão é 1/2. -->
+- [ ] B) 1/3 <!-- feedback: Incorreto: 1/3 seria a razão entre o volume do cone e do cilindro. -->
 - [ ] D) 2/3 <!-- feedback: Incorreto: 2/3 não corresponde à razão pedida. -->
 
 ### Explicacion Pedagogica
@@ -353,8 +353,8 @@ A esfera inscrita tem raio 3 cm. V_esfera = (4/3)π × 27 = 108 cm³ (com π = 3
 Um quadrado de lado 2 cm gira em torno de uma de suas diagonais. Qual é o volume do sólido gerado? (Use π = 3.)
 
 ### Opciones
-- [x] A) 4√2 cm³ <!-- feedback: Correto: o sólido são dois cones de raio √2 e altura √2; volume = 2 × (1/3)π(√2)²(√2) = 4√2 cm³. -->
-- [ ] B) 8 cm³ <!-- feedback: Incorreto: 8 seria o resultado se o sólido fosse um cubo de aresta 2. -->
+- [x] B) 4√2 cm³ <!-- feedback: Correto: o sólido são dois cones de raio √2 e altura √2; volume = 2 × (1/3)π(√2)²(√2) = 4√2 cm³. -->
+- [ ] A) 8 cm³ <!-- feedback: Incorreto: 8 seria o resultado se o sólido fosse um cubo de aresta 2. -->
 - [ ] C) 4 cm³ <!-- feedback: Incorreto: 4 seria o volume de um único cone. -->
 - [ ] D) 16 cm³ <!-- feedback: Incorreto: 16 não corresponde ao volume dos dois cones. -->
 
@@ -372,8 +372,8 @@ A diagonal do quadrado mede 2√2 cm. A rotação gera dois cones justapostos, c
 Uma esfera tangencia as seis faces de um cubo de aresta 4 cm. Qual é a área da superfície da esfera? (Use π = 3.)
 
 ### Opciones
-- [ ] A) 16 cm² <!-- feedback: Incorreto: 16 é a área de uma face do cubo. -->
-- [x] B) 48 cm² <!-- feedback: Correto: r = 2 cm, A = 4πr² = 4 × 3 × 4 = 48 cm². -->
+- [ ] B) 16 cm² <!-- feedback: Incorreto: 16 é a área de uma face do cubo. -->
+- [x] A) 48 cm² <!-- feedback: Correto: r = 2 cm, A = 4πr² = 4 × 3 × 4 = 48 cm². -->
 - [ ] C) 96 cm² <!-- feedback: Incorreto: 96 é a área total do cubo. -->
 - [ ] D) 24 cm² <!-- feedback: Incorreto: 24 seria a área de um círculo de raio 2 multiplicada por 2. -->
 
@@ -392,8 +392,8 @@ Se o raio de uma esfera é reduzido à metade, o que acontece com o seu volume?
 
 ### Opciones
 - [ ] A) É reduzido à metade <!-- feedback: Incorreto: o volume não varia linearmente com o raio. -->
-- [ ] B) É reduzido a um quarto <!-- feedback: Incorreto: 1/4 é o efeito sobre a área da superfície. -->
-- [x] C) É reduzido a um oitavo <!-- feedback: Correto: o volume é proporcional ao cubo do raio: (1/2)³ = 1/8. -->
+- [ ] C) É reduzido a um quarto <!-- feedback: Incorreto: 1/4 é o efeito sobre a área da superfície. -->
+- [x] B) É reduzido a um oitavo <!-- feedback: Correto: o volume é proporcional ao cubo do raio: (1/2)³ = 1/8. -->
 - [ ] D) Permanece o mesmo <!-- feedback: Incorreto: o volume depende do raio. -->
 
 ### Explicacion Pedagogica

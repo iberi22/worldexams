@@ -57,9 +57,9 @@ Recordar que el termómetro es el instrumento que sirve para medir y leer la tem
 ¿Qué significa que la temperatura mínima del día haya sido 12 °C?
 
 ### Opciones
-- [x] A) Que 12 °C fue la temperatura más baja registrada durante ese día.
+- [x] B) Que 12 °C fue la temperatura más baja registrada durante ese día.
   <!-- feedback: La temperatura mínima es el valor más bajo que se registró en el día. -->
-- [ ] B) Que la temperatura se mantuvo en 12 °C durante todas las horas del día.
+- [ ] A) Que la temperatura se mantuvo en 12 °C durante todas las horas del día.
   <!-- feedback: Una temperatura mínima es un solo registro bajo; durante el día hubo otros valores mayores. -->
 - [ ] C) Que a las 12 del mediodía la temperatura fue de 12 °C.
   <!-- feedback: Se confunde el número 12 de los grados con las 12 horas del mediodía; son datos diferentes. -->
@@ -80,9 +80,9 @@ Comprender que la temperatura mínima es el valor más bajo del día y que no de
 ¿Cuál fue la variación de la temperatura ese lunes?
 
 ### Opciones
-- [x] A) 10 °C.
+- [x] B) 10 °C.
   <!-- feedback: La variación es la diferencia: 19 - 9 = 10 °C. -->
-- [ ] B) 28 °C.
+- [ ] A) 28 °C.
   <!-- feedback: 28 °C resulta de sumar 19 + 9; la variación se obtiene restando. -->
 - [ ] C) 19 °C.
   <!-- feedback: 19 °C es la temperatura máxima; no representa la variación del día. -->
@@ -103,9 +103,9 @@ Aplicar la resta entre la temperatura máxima y la mínima para calcular la vari
 ¿Cuántos grados subió la temperatura entre las dos lecturas?
 
 ### Opciones
-- [x] A) 9 °C.
+- [x] B) 9 °C.
   <!-- feedback: La temperatura subió 17 - 8 = 9 °C entre las dos lecturas. -->
-- [ ] B) 25 °C.
+- [ ] A) 25 °C.
   <!-- feedback: 25 °C resulta de sumar 8 + 17; el aumento se calcula restando. -->
 - [ ] C) 8 °C.
   <!-- feedback: 8 °C es la temperatura de la primera lectura, no el aumento. -->
@@ -126,11 +126,11 @@ Aplicar la resta entre la lectura final y la lectura inicial para saber cuántos
 ¿Cuál era la temperatura a las 7 de la noche?
 
 ### Opciones
-- [x] A) 12 °C.
+- [x] C) 12 °C.
   <!-- feedback: Pasaron 3 horas y bajó 3 × 3 = 9 °C; entonces 21 - 9 = 12 °C. -->
-- [ ] B) 9 °C.
+- [ ] A) 9 °C.
   <!-- feedback: 9 °C es el total que descendió, no la temperatura final. -->
-- [ ] C) 18 °C.
+- [ ] B) 18 °C.
   <!-- feedback: 18 °C resultaría si solo hubiera bajado 1 °C por hora. -->
 - [ ] D) 24 °C.
   <!-- feedback: 24 °C resulta de sumar en lugar de restar el descenso. -->
@@ -155,9 +155,9 @@ Aplicar un descenso constante de temperatura por hora: multiplicar el descenso p
 ¿En cuál de las tres ciudades hubo mayor variación de temperatura ese día?
 
 ### Opciones
-- [x] A) Tunja, porque su variación fue 11 °C.
+- [x] B) Tunja, porque su variación fue 11 °C.
   <!-- feedback: Tunja: 18 - 7 = 11 °C; Manizales: 22 - 12 = 10 °C; Pasto: 19 - 9 = 10 °C. La mayor es la de Tunja. -->
-- [ ] B) Manizales, porque tuvo la temperatura máxima más alta de la tabla.
+- [ ] A) Manizales, porque tuvo la temperatura máxima más alta de la tabla.
   <!-- feedback: Tener la máxima más alta no garantiza la mayor variación; hay que restar la mínima. -->
 - [ ] C) Pasto, porque su variación fue 10 °C.
   <!-- feedback: 10 °C es la variación de Pasto, que es menor que los 11 °C de Tunja. -->
@@ -185,11 +185,11 @@ Analizar una tabla climática calculando la variación de cada ciudad y comparan
 ¿Cuál día presentó la mayor variación de temperatura?
 
 ### Opciones
-- [x] A) Martes, con 12 °C.
+- [x] C) Martes, con 12 °C.
   <!-- feedback: Lunes: 19 - 9 = 10 °C; martes: 20 - 8 = 12 °C; miércoles: 18 - 10 = 8 °C; jueves: 21 - 11 = 10 °C. El mayor es el martes. -->
-- [ ] B) Jueves, con 10 °C.
+- [ ] A) Jueves, con 10 °C.
   <!-- feedback: El jueves tuvo 10 °C de variación, menos que los 12 °C del martes. -->
-- [ ] C) Miércoles, con 8 °C.
+- [ ] B) Miércoles, con 8 °C.
   <!-- feedback: El miércoles tuvo la menor variación de la semana, no la mayor. -->
 - [ ] D) Lunes, con 10 °C.
   <!-- feedback: El lunes tuvo 10 °C de variación; es menor que la del martes. -->

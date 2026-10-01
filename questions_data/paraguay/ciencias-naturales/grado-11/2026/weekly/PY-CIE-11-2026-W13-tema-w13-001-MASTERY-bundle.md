@@ -36,9 +36,9 @@ Este bundle cubre de manera exhaustiva el metabolismo celular, las leyes de la t
 ¿Qué nucleótido fosfatado actúa como la principal "moneda energética" universal en las reacciones bioquímicas de las células vivas?
 
 ### Opciones
-- [x] A) Adenosín Trifosfato (ATP) <!-- feedback: ¡Correcto! El ATP almacena y transfiere energía utilizable mediante la hidrólisis de sus enlaces fosfato de alta energía. -->
-- [ ] B) Ácido Desoxirribonucleico (ADN) <!-- feedback: Incorrecto. El ADN es la molécula encargada de almacenar el genoma celular. -->
-- [ ] C) Nicotinamida Adenina Dinucleótido (NADH) <!-- feedback: Incorrecto. El NADH es un coenzima transportador de electrones y protones, no la moneda principal de energía libre inmediata. -->
+- [x] C) Adenosín Trifosfato (ATP) <!-- feedback: ¡Correcto! El ATP almacena y transfiere energía utilizable mediante la hidrólisis de sus enlaces fosfato de alta energía. -->
+- [ ] A) Ácido Desoxirribonucleico (ADN) <!-- feedback: Incorrecto. El ADN es la molécula encargada de almacenar el genoma celular. -->
+- [ ] B) Nicotinamida Adenina Dinucleótido (NADH) <!-- feedback: Incorrecto. El NADH es un coenzima transportador de electrones y protones, no la moneda principal de energía libre inmediata. -->
 - [ ] D) Glucógeno hepático <!-- feedback: Incorrecto. El glucógeno es un polisacárido de reserva a medio plazo en el hígado y tejido muscular. -->
 
 ### Explicacion Pedagogica
@@ -57,9 +57,9 @@ El ATP conecta los procesos catabólicos liberadores de energía con los proceso
 ¿En qué organelo celular vegetal ocurre la etapa lumínica y la fijación de carbono de la fotosíntesis?
 
 ### Opciones
-- [x] A) Cloroplasto <!-- feedback: ¡Correcto! Los cloroplastos son organelos fotosintéticos que contienen tilacoides y estroma especializados en la conversión fotoquímica. -->
-- [ ] B) Mitocondria <!-- feedback: Incorrecto. Las mitocondrias son el sitio principal de la respiración celular aeróbica y fosforilación oxidativa. -->
-- [ ] C) Aparato de Golgi <!-- feedback: Incorrecto. El aparato de Golgi procesa y empaqueta proteínas y lípidos metabólicos. -->
+- [x] C) Cloroplasto <!-- feedback: ¡Correcto! Los cloroplastos son organelos fotosintéticos que contienen tilacoides y estroma especializados en la conversión fotoquímica. -->
+- [ ] A) Mitocondria <!-- feedback: Incorrecto. Las mitocondrias son el sitio principal de la respiración celular aeróbica y fosforilación oxidativa. -->
+- [ ] B) Aparato de Golgi <!-- feedback: Incorrecto. El aparato de Golgi procesa y empaqueta proteínas y lípidos metabólicos. -->
 - [ ] D) Peroxisoma <!-- feedback: Incorrecto. Los peroxisomas participan en la oxidación de ácidos grasos y eliminación de peróxido de hidrógeno. -->
 
 ### Explicacion Pedagogica
@@ -78,8 +78,8 @@ Los cloroplastos albergan los pigmentos fotosintéticos y el complejo enzimátic
 ¿Qué pigmento fotosintético primario absorbe principalmente luz roja y azul-violeta, reflejando el color verde característico de la vegetación?
 
 ### Opciones
-- [x] A) Clorofila a <!-- feedback: ¡Correcto! La clorofila a es el pigmento fotorreceptor fundamental en los centros de reacción fotosintéticos. -->
-- [ ] B) Caroteno <!-- feedback: Incorrecto. Los carotenos son pigmentos accesorios de color anaranjado. -->
+- [x] B) Clorofila a <!-- feedback: ¡Correcto! La clorofila a es el pigmento fotorreceptor fundamental en los centros de reacción fotosintéticos. -->
+- [ ] A) Caroteno <!-- feedback: Incorrecto. Los carotenos son pigmentos accesorios de color anaranjado. -->
 - [ ] C) Xantofila <!-- feedback: Incorrecto. Las xantofilas son pigmentos carotenoides accesorios de tonalidad amarillenta. -->
 - [ ] D) Antocianina <!-- feedback: Incorrecto. Las antocianinas son pigmentos vacuolares solubles en agua que aportan colores rojizos y violetas en flores. -->
 
@@ -99,9 +99,9 @@ La clorofila a inicia la fase fotodependiente liberando electrones excitados hac
 ¿De qué molécula proviene el oxígeno molecular (O2) liberado durante la fase luminosa de la fotosíntesis?
 
 ### Opciones
-- [x] A) De la fotólisis de la agua (H2O) <!-- feedback: ¡Correcto! La ruptura fotoquímica de la molécula de agua libera protones, electrones y gas oxígeno libre. -->
-- [ ] B) Del dióxido de carbono (CO2) absorbido <!-- feedback: Incorrecto. El carbono y el oxígeno del CO2 se fijan en carbohidratos durante el ciclo de Calvin. -->
-- [ ] C) De la descomposición del ATP celular <!-- feedback: Incorrecto. El ATP aporta grupos fosfato y energía, no libera oxígeno gaseoso libre. -->
+- [x] C) De la fotólisis de la agua (H2O) <!-- feedback: ¡Correcto! La ruptura fotoquímica de la molécula de agua libera protones, electrones y gas oxígeno libre. -->
+- [ ] A) Del dióxido de carbono (CO2) absorbido <!-- feedback: Incorrecto. El carbono y el oxígeno del CO2 se fijan en carbohidratos durante el ciclo de Calvin. -->
+- [ ] B) De la descomposición del ATP celular <!-- feedback: Incorrecto. El ATP aporta grupos fosfato y energía, no libera oxígeno gaseoso libre. -->
 - [ ] D) De la degradación del ácido pirúvico <!-- feedback: Incorrecto. El piruvato se genera en la glucólisis citoplasmática. -->
 
 ### Explicacion Pedagogica
@@ -141,10 +141,10 @@ RuBisCO inicia la fase independiente de la luz (Ciclo de Calvin) en el estroma d
 ¿Qué ventaja adaptativa presentan las plantas con vía fotosintética C4 frente a las plantas C3 tradicionales bajo altas temperaturas y aridez?
 
 ### Opciones
-- [x] A) Minimizan la fotorrespiración al fijar CO2 primeramente en fosfoenolpiruvato (PEP) separando espacialmente los procesos <!-- feedback: ¡Correcto! La vía C4 fija CO2 en ácido oxalacético en las células del mesófilo concentrando CO2 en la vaina del haz para la RuBisCO. -->
-- [ ] B) No requieren agua para llevar a cabo la fotosíntesis <!-- feedback: Incorrecto. Todas las plantas terrestres requieren agua para sus procesos fototróficos. -->
-- [ ] C) Realizan el ciclo de Calvin únicamente durante la noche más fría <!-- feedback: Incorrecto. La apertura estomática nocturna y fijación temporal es propia del metabolismo CAM (crasuláceas). -->
-- [ ] D) Utilizan infrarrojos nocturnos en sustitución de los fotones solares <!-- feedback: Incorrecto. La energía lumínica visible es imprescindible en los fotosistemas. -->
+- [x] D) Minimizan la fotorrespiración al fijar CO2 primeramente en fosfoenolpiruvato (PEP) separando espacialmente los procesos <!-- feedback: ¡Correcto! La vía C4 fija CO2 en ácido oxalacético en las células del mesófilo concentrando CO2 en la vaina del haz para la RuBisCO. -->
+- [ ] A) No requieren agua para llevar a cabo la fotosíntesis <!-- feedback: Incorrecto. Todas las plantas terrestres requieren agua para sus procesos fototróficos. -->
+- [ ] B) Realizan el ciclo de Calvin únicamente durante la noche más fría <!-- feedback: Incorrecto. La apertura estomática nocturna y fijación temporal es propia del metabolismo CAM (crasuláceas). -->
+- [ ] C) Utilizan infrarrojos nocturnos en sustitución de los fotones solares <!-- feedback: Incorrecto. La energía lumínica visible es imprescindible en los fotosistemas. -->
 
 ### Explicacion Pedagogica
 El mecanismo C4 es una brillante solución evolutiva que optimiza el uso del agua y previene las pérdidas por fotorrespiración en ambientes cálidos como el Chaco paraguayo.
@@ -183,9 +183,9 @@ La glucólisis convierte una molécula de hexosa glucosa en dos moléculas de pi
 ¿Qué subproductos químicos se generan durante la fermentación alcohólica anaeróbica a partir del piruvato?
 
 ### Opciones
-- [x] A) Etanol y Dióxido de carbono (CO2) <!-- feedback: ¡Correcto! Las levaduras convierten el piruvato en etanol desprendiendo gas CO2 responsable del leudado de las masas. -->
-- [ ] B) Ácido láctico y agua <!-- feedback: Incorrecto. El ácido láctico se produce en la fermentación láctica por bacterias o tejido muscular. -->
-- [ ] C) Ácido cítrico y oxígeno <!-- feedback: Incorrecto. El ácido cítrico se forma en el ciclo de Krebs mitocondrial. -->
+- [x] C) Etanol y Dióxido de carbono (CO2) <!-- feedback: ¡Correcto! Las levaduras convierten el piruvato en etanol desprendiendo gas CO2 responsable del leudado de las masas. -->
+- [ ] A) Ácido láctico y agua <!-- feedback: Incorrecto. El ácido láctico se produce en la fermentación láctica por bacterias o tejido muscular. -->
+- [ ] B) Ácido cítrico y oxígeno <!-- feedback: Incorrecto. El ácido cítrico se forma en el ciclo de Krebs mitocondrial. -->
 - [ ] D) Glucosa y glucógeno <!-- feedback: Incorrecto. La fermentación es un proceso catabólico de degradación, no de síntesis de azúcares. -->
 
 ### Explicacion Pedagogica
@@ -204,9 +204,9 @@ La fermentación alcohólica permite a los microorganismos regenerar el NAD+ nec
 ¿En qué compartimento mitocondrial se desarrollan las reacciones enzimáticas del Ciclo de Krebs (o del ácido cítrico)?
 
 ### Opciones
-- [x] A) En la matriz mitocondrial <!-- feedback: ¡Correcto! La matriz mitocondrial contiene las enzimas solubles requeridas para oxidar el acetilo a CO2. -->
-- [ ] B) En el espacio intermembrana <!-- feedback: Incorrecto. En el espacio intermembrana se acumulan los protones (H+) bombeados por la cadena respiratoria. -->
-- [ ] C) En la membrana mitocondrial externa <!-- feedback: Incorrecto. La membrana externa posee porinas de permeabilidad no catalíticas. -->
+- [x] C) En la matriz mitocondrial <!-- feedback: ¡Correcto! La matriz mitocondrial contiene las enzimas solubles requeridas para oxidar el acetilo a CO2. -->
+- [ ] A) En el espacio intermembrana <!-- feedback: Incorrecto. En el espacio intermembrana se acumulan los protones (H+) bombeados por la cadena respiratoria. -->
+- [ ] B) En la membrana mitocondrial externa <!-- feedback: Incorrecto. La membrana externa posee porinas de permeabilidad no catalíticas. -->
 - [ ] D) En los grana tilacoidales <!-- feedback: Incorrecto. Los grana son estructuras presentes en los cloroplastos vegetales. -->
 
 ### Explicacion Pedagogica
@@ -225,9 +225,9 @@ El ciclo de Krebs procesa el grupo acetilo de la Acetil-CoA liberando CO2 y carg
 ¿Quién actúa como el aceptor final de electrones e hidrógenos en la cadena respiratoria mitocondrial de las células aeróbicas?
 
 ### Opciones
-- [x] A) El Oxígeno molecular (O2) <!-- feedback: ¡Correcto! El oxígeno recibe los electrones terminales combinándose con protones para formar agua (H2O). -->
-- [ ] B) El Dióxido de carbono (CO2) <!-- feedback: Incorrecto. El CO2 es un desecho de descarboxilación del ciclo de Krebs. -->
-- [ ] C) El Nitrógeno atmosférico (N2) <!-- feedback: Incorrecto. El nitrógeno gaseoso es inerte para la respiración eucariota. -->
+- [x] C) El Oxígeno molecular (O2) <!-- feedback: ¡Correcto! El oxígeno recibe los electrones terminales combinándose con protones para formar agua (H2O). -->
+- [ ] A) El Dióxido de carbono (CO2) <!-- feedback: Incorrecto. El CO2 es un desecho de descarboxilación del ciclo de Krebs. -->
+- [ ] B) El Nitrógeno atmosférico (N2) <!-- feedback: Incorrecto. El nitrógeno gaseoso es inerte para la respiración eucariota. -->
 - [ ] D) La Glucosa citoplasmática <!-- feedback: Incorrecto. La glucosa es el donador inicial de electrones en el proceso catabólico. -->
 
 ### Explicacion Pedagogica
@@ -267,8 +267,8 @@ El acoplamiento quimiosmótico transforma la energía acumulada en un gradiente 
 Las plantas CAM (Metabolismo Ácido de las Crasuláceas) abren sus estomas de noche para fijar CO2 en forma de malato. ¿Por qué razón realizan este proceso durante las horas nocturnas?
 
 ### Opciones
-- [x] A) Para evitar la pérdida masiva de agua por transpiración evaporativa durante las horas calurosas del día <!-- feedback: ¡Correcto! La apertura nocturna con bajas temperaturas minimiza drásticamente la evaporación de agua foliar en desiertos o zonas secas. -->
-- [ ] B) Porque la enzima RuBisCO únicamente funciona en ausencia de luz solar <!-- feedback: Incorrecto. RuBisCO actúa de día utilizando el CO2 liberado del malato guardado en vacuolas. -->
+- [x] B) Para evitar la pérdida masiva de agua por transpiración evaporativa durante las horas calurosas del día <!-- feedback: ¡Correcto! La apertura nocturna con bajas temperaturas minimiza drásticamente la evaporación de agua foliar en desiertos o zonas secas. -->
+- [ ] A) Porque la enzima RuBisCO únicamente funciona en ausencia de luz solar <!-- feedback: Incorrecto. RuBisCO actúa de día utilizando el CO2 liberado del malato guardado en vacuolas. -->
 - [ ] C) Para absorber nitrógeno gaseoso directo del suelo helado <!-- feedback: Incorrecto. La fijación del CO2 no involucra la absorción de N2 atmosférico por vía foliar. -->
 - [ ] D) Porque carecen por completo de clorofila a en sus tejidos <!-- feedback: Incorrecto. Las plantas CAM poseen clorofila y realizan fotosíntesis activa. -->
 
@@ -288,8 +288,8 @@ La separación temporal del metabolismo CAM permite almacenar CO2 en forma de á
 ¿Qué representa el "punto de compensación lumínica" en una curva fotosintética vegetal?
 
 ### Opciones
-- [x] A) La intensidad de luz donde la velocidad de fotosíntesis iguala exactamente a la velocidad de respiración celular <!-- feedback: ¡Correcto! En este punto, el consumo de O2 y fijación de CO2 se igualan exactamente a la producción de O2 y liberación de CO2. -->
-- [ ] B) El nivel de radiación ultravioleta que quema irreversiblemente las hojas <!-- feedback: Incorrecto. Describe fotoinhibición o daño por radiación destructiva. -->
+- [x] B) La intensidad de luz donde la velocidad de fotosíntesis iguala exactamente a la velocidad de respiración celular <!-- feedback: ¡Correcto! En este punto, el consumo de O2 y fijación de CO2 se igualan exactamente a la producción de O2 y liberación de CO2. -->
+- [ ] A) El nivel de radiación ultravioleta que quema irreversiblemente las hojas <!-- feedback: Incorrecto. Describe fotoinhibición o daño por radiación destructiva. -->
 - [ ] C) La saturación máxima donde la planta deja de sintetizar proteínas <!-- feedback: Incorrecto. El punto de saturación lumínica es donde la fotosíntesis alcanza su tasa máxima constante. -->
 - [ ] D) La ausencia total de luz que provoca la muerte celular instantánea <!-- feedback: Incorrecto. En oscuridad la planta respira consumiendo reservas sin morir inmediatamente. -->
 
@@ -309,10 +309,10 @@ Por debajo del punto de compensación lumínica, la respiración supera a la fot
 El cianuro inhibe irreversiblemente al complejo IV (Citocromo c oxidasa) de la cadena respiratoria. ¿Cuál es la consecuencia metabólica directa de este veneno?
 
 ### Opciones
-- [x] A) Bloquea la transferencia de electrones al oxígeno, deteniendo la formación del gradiente de protones y la síntesis de ATP <!-- feedback: ¡Correcto! Al paralizar el complejo IV, se interrumpe la cadena transportadora de electrones, colapsando la respiración aeróbica. -->
-- [ ] B) Estimula de forma descontrolada la fotosíntesis en tejidos animales <!-- feedback: Incorrecto. Las células animales no realizan fotosíntesis bajo ninguna condición. -->
-- [ ] C) Incrementa diez veces la producción de glucosa en el citosol <!-- feedback: Incorrecto. Sin ATP, los procesos de gluconeogénesis se detienen por falta de energía. -->
-- [ ] D) Convierte la mitocondria en un cloroplasto funcional <!-- feedback: Incorrecto. Las organelas celulares no sufren transmutaciones morfológicas por acción de inhibidores. -->
+- [x] D) Bloquea la transferencia de electrones al oxígeno, deteniendo la formación del gradiente de protones y la síntesis de ATP <!-- feedback: ¡Correcto! Al paralizar el complejo IV, se interrumpe la cadena transportadora de electrones, colapsando la respiración aeróbica. -->
+- [ ] A) Estimula de forma descontrolada la fotosíntesis en tejidos animales <!-- feedback: Incorrecto. Las células animales no realizan fotosíntesis bajo ninguna condición. -->
+- [ ] B) Incrementa diez veces la producción de glucosa en el citosol <!-- feedback: Incorrecto. Sin ATP, los procesos de gluconeogénesis se detienen por falta de energía. -->
+- [ ] C) Convierte la mitocondria en un cloroplasto funcional <!-- feedback: Incorrecto. Las organelas celulares no sufren transmutaciones morfológicas por acción de inhibidores. -->
 
 ### Explicacion Pedagogica
 Inhibidores como el cianuro o monóxido de carbono demuestran el papel crítico del transporte de electrones para sostener la fosforilación oxidativa vital.
@@ -330,9 +330,9 @@ Inhibidores como el cianuro o monóxido de carbono demuestran el papel crítico 
 De acuerdo con la Segunda Ley de la Termodinámica, ¿qué ocurre con la energía útil en cada transformación metabólica dentro de una célula?
 
 ### Opciones
-- [x] A) Parte de la energía utilizable se degrada irreversiblemente en forma de calor aumentando la entropía del universo <!-- feedback: ¡Correcto! Ninguna conversión energética es 100% eficiente; siempre hay disipación de energía térmica no utilizable (aumento de entropía). -->
-- [ ] B) La energía se destruye por completo sin dejar rastros residuales <!-- feedback: Incorrecto. La Primera Ley establece que la energía no se crea ni se destruye, solo se transforma. -->
-- [ ] C) La entropía del sistema biológico disminuye sin liberar calor al entorno <!-- feedback: Incorrecto. Los seres vivos reducen su entropía interna a costa de liberar calor y desorden al entorno. -->
+- [x] C) Parte de la energía utilizable se degrada irreversiblemente en forma de calor aumentando la entropía del universo <!-- feedback: ¡Correcto! Ninguna conversión energética es 100% eficiente; siempre hay disipación de energía térmica no utilizable (aumento de entropía). -->
+- [ ] A) La energía se destruye por completo sin dejar rastros residuales <!-- feedback: Incorrecto. La Primera Ley establece que la energía no se crea ni se destruye, solo se transforma. -->
+- [ ] B) La entropía del sistema biológico disminuye sin liberar calor al entorno <!-- feedback: Incorrecto. Los seres vivos reducen su entropía interna a costa de liberar calor y desorden al entorno. -->
 - [ ] D) El calor generado se convierte espontáneamente en energía potencial química <!-- feedback: Incorrecto. El calor disipado no puede reconvertirse espontáneamente en energía libre utilizable. -->
 
 ### Explicacion Pedagogica
@@ -351,10 +351,10 @@ Los sistemas vivos son sistemas abiertos altamente ordenados que mantienen baja 
 Cuando el suministro de oxígeno al tejido muscular es insuficiente durante un ejercicio anaeróbico intenso, el piruvato se reduce a:
 
 ### Opciones
-- [x] A) Ácido láctico (Lactato) <!-- feedback: ¡Correcto! En condiciones de hipoxia, las células musculares realizan fermentación láctica para regenerar NAD+ manteniendo la glucólisis activa. -->
-- [ ] B) Etanol de 96° <!-- feedback: Incorrecto. El tejido muscular humano carece de alcohol deshidrogenasa para producir fermentación alcohólica. -->
-- [ ] C) Ácido oxalacético puro <!-- feedback: Incorrecto. El oxalacetato es un intermediario del ciclo de Krebs, no el producto final anaeróbico. -->
-- [ ] D) Colesterol LDL <!-- feedback: Incorrecto. El colesterol es un esteroide estructural y precursor hormonal de síntesis lenta. -->
+- [x] D) Ácido láctico (Lactato) <!-- feedback: ¡Correcto! En condiciones de hipoxia, las células musculares realizan fermentación láctica para regenerar NAD+ manteniendo la glucólisis activa. -->
+- [ ] A) Etanol de 96° <!-- feedback: Incorrecto. El tejido muscular humano carece de alcohol deshidrogenasa para producir fermentación alcohólica. -->
+- [ ] B) Ácido oxalacético puro <!-- feedback: Incorrecto. El oxalacetato es un intermediario del ciclo de Krebs, no el producto final anaeróbico. -->
+- [ ] C) Colesterol LDL <!-- feedback: Incorrecto. El colesterol es un esteroide estructural y precursor hormonal de síntesis lenta. -->
 
 ### Explicacion Pedagogica
 La acumulación temporal de lactato genera acidosis celular transitoria, siendo transportado posteriormente al hígado para reconvertirse en glucosa (Ciclo de Cori).
@@ -393,9 +393,9 @@ Comprender los límites termodinámicos y biológicos de la fotosíntesis guía 
 Al comparar el rendimiento energético gramo a gramo, ¿por qué los triacilglicéridos (lípidos) producen más del doble de ATP que los carbohidratos (glucosa)?
 
 ### Opciones
-- [x] A) Sus átomos de carbono se encuentran en un estado químico mucho más reducido, conteniendo mayor cantidad de electrones de alta energía <!-- feedback: ¡Correcto! Al estar altamente reducidos y ser no hidratados, los ácidos grasos ceden más electrones a la cadena respiratoria por gramo de masa. -->
-- [ ] B) Contienen nitrógeno radioactivo que acelera el ciclo de Krebs <!-- feedback: Incorrecto. Los lípidos no contienen nitrógeno ni isótopos radioactivos en su estructura básica. -->
-- [ ] C) Se disuelven directamente en la ATP sintasa sin requerir acetil-CoA <!-- feedback: Incorrecto. Requieren convertirse en Acetil-CoA mediante beta-oxidación. -->
+- [x] C) Sus átomos de carbono se encuentran en un estado químico mucho más reducido, conteniendo mayor cantidad de electrones de alta energía <!-- feedback: ¡Correcto! Al estar altamente reducidos y ser no hidratados, los ácidos grasos ceden más electrones a la cadena respiratoria por gramo de masa. -->
+- [ ] A) Contienen nitrógeno radioactivo que acelera el ciclo de Krebs <!-- feedback: Incorrecto. Los lípidos no contienen nitrógeno ni isótopos radioactivos en su estructura básica. -->
+- [ ] B) Se disuelven directamente en la ATP sintasa sin requerir acetil-CoA <!-- feedback: Incorrecto. Requieren convertirse en Acetil-CoA mediante beta-oxidación. -->
 - [ ] D) Poseen enlaces peptídicos de alta energía libre de formación <!-- feedback: Incorrecto. Los enlaces peptídicos pertenecen a las proteínas, los lípidos tienen enlaces éster. -->
 
 ### Explicacion Pedagogica
@@ -414,10 +414,10 @@ La alta reducción química de los hidrocarburos de los ácidos grasos explica s
 ¿De qué manera la proteína desacoplante UCP1 (Termogenina) en la membrana mitocondrial interna permite generar calor corporal en lugar de ATP?
 
 ### Opciones
-- [x] A) Permite el reingreso de los protones a la matriz sin pasar por la ATP sintasa, disipando el gradiente electroquímico directamente como energía térmica <!-- feedback: ¡Correcto! Al actuar como un poro protónico alternativo a la ATP sintasa, la energía del gradiente se libera como calor (termogénesis no tiritante). -->
-- [ ] B) Destruye el oxígeno molecular impidiendo la formación de agua respiratoria <!-- feedback: Incorrecto. El oxígeno sigue actuando como aceptor final de electrones. -->
-- [ ] C) Bloquea las enzimas del ciclo de Krebs acumulando ácido cítrico tóxico <!-- feedback: Incorrecto. El flujo del ciclo de Krebs se acelera para sostener el consumo de sustratos. -->
-- [ ] D) Sintetiza glucosa directamente a partir de la luz infrarroja corporal <!-- feedback: Incorrecto. La termogenina regula el flujo protónico mitocondrial sin inducir gluconeogénesis fotoquímica. -->
+- [x] D) Permite el reingreso de los protones a la matriz sin pasar por la ATP sintasa, disipando el gradiente electroquímico directamente como energía térmica <!-- feedback: ¡Correcto! Al actuar como un poro protónico alternativo a la ATP sintasa, la energía del gradiente se libera como calor (termogénesis no tiritante). -->
+- [ ] A) Destruye el oxígeno molecular impidiendo la formación de agua respiratoria <!-- feedback: Incorrecto. El oxígeno sigue actuando como aceptor final de electrones. -->
+- [ ] B) Bloquea las enzimas del ciclo de Krebs acumulando ácido cítrico tóxico <!-- feedback: Incorrecto. El flujo del ciclo de Krebs se acelera para sostener el consumo de sustratos. -->
+- [ ] C) Sintetiza glucosa directamente a partir de la luz infrarroja corporal <!-- feedback: Incorrecto. La termogenina regula el flujo protónico mitocondrial sin inducir gluconeogénesis fotoquímica. -->
 
 ### Explicacion Pedagogica
 El desacoplamiento fisiológico por UCP1 es una adaptación homeostática vital que permite regular la temperatura corporal disipando la fuerza protón-motriz como calor directo.
@@ -435,8 +435,8 @@ El desacoplamiento fisiológico por UCP1 es una adaptación homeostática vital 
 La enzima Fosfofructoquinasa-1 (PFK-1) es el principal punto de regulación de la glucólisis. ¿Qué sucede con la actividad de PFK-1 cuando las concentraciones celulares de ATP y citrato son elevadas?
 
 ### Opciones
-- [x] A) Se inhibe alostéricamente, frenando la glucólisis ya que la célula dispone de suficiente carga energética <!-- feedback: ¡Correcto! El ATP y el citrato son moduladores alostéricos negativos que señalan saciedad energética, reduciendo la degradación de glucosa. -->
-- [ ] B) Se activa diez veces más acelerando el consumo inútil de glucosa <!-- feedback: Incorrecto. La célula ahorra glucosa cuando los niveles energéticos de ATP son elevados. -->
+- [x] B) Se inhibe alostéricamente, frenando la glucólisis ya que la célula dispone de suficiente carga energética <!-- feedback: ¡Correcto! El ATP y el citrato son moduladores alostéricos negativos que señalan saciedad energética, reduciendo la degradación de glucosa. -->
+- [ ] A) Se activa diez veces más acelerando el consumo inútil de glucosa <!-- feedback: Incorrecto. La célula ahorra glucosa cuando los niveles energéticos de ATP son elevados. -->
 - [ ] C) Se denatura térmicamente en el núcleo celular <!-- feedback: Incorrecto. La inhibición alostérica es un proceso reversible en el citosol sin desnaturalización proteica. -->
 - [ ] D) Se transforma en una polimerasa de ARN mensajero <!-- feedback: Incorrecto. Las enzimas metabólicas conservan su especificidad de sustrato regulada alostéricamente. -->
 

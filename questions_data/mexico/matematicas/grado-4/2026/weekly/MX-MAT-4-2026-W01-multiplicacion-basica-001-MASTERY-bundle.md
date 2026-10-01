@@ -29,13 +29,13 @@ creador: "Jules-Agent"
 ¿Qué multiplicación representa el número total de sillas?
 
 ### Opciones
-- [x] A) 8 × 6 = 48
+- [x] D) 8 × 6 = 48
   <!-- feedback: Cada una de las 8 filas aporta 6 sillas, así que el total es 8 × 6 = 48. -->
-- [ ] B) 8 + 6 = 14
+- [ ] A) 8 + 6 = 14
   <!-- feedback: Sumar solo cuenta una fila y una columna; el arreglo requiere multiplicar. -->
-- [ ] C) 8 − 6 = 2
+- [ ] B) 8 − 6 = 2
   <!-- feedback: Restar no modela un arreglo rectangular de filas y columnas. -->
-- [ ] D) 6 × 6 = 36
+- [ ] C) 6 × 6 = 36
   <!-- feedback: Usó el número de filas equivocadas; hay 8 filas, no 6. -->
 
 ### Explicacion Pedagogica
@@ -51,13 +51,13 @@ Un arreglo rectangular de m filas con n elementos cada uno se cuenta con la mult
 ¿Qué propiedad de la multiplicación explica lo que dice Diego?
 
 ### Opciones
-- [x] A) La propiedad conmutativa
+- [x] D) La propiedad conmutativa
   <!-- feedback: La propiedad conmutativa establece que el orden de los factores no altera el producto: 7 × 9 = 9 × 7 = 63. -->
-- [ ] B) La propiedad asociativa
+- [ ] A) La propiedad asociativa
   <!-- feedback: La asociativa agrupa tres o más factores de distinta manera; aquí solo hay dos factores. -->
-- [ ] C) La propiedad distributiva
+- [ ] B) La propiedad distributiva
   <!-- feedback: La distributiva descompone un factor para multiplicar por partes; no es lo que describe el ejemplo. -->
-- [ ] D) El elemento neutro
+- [ ] C) El elemento neutro
   <!-- feedback: El elemento neutro de la multiplicación es el 1; no interviene en este caso. -->
 
 ### Explicacion Pedagogica
@@ -73,9 +73,9 @@ El orden de los factores no altera el producto es la propiedad conmutativa. Comp
 ¿Cuánto pagaron en total?
 
 ### Opciones
-- [x] A) $3,855
+- [x] B) $3,855
   <!-- feedback: 1,285 × 3 = 3,855; por lugares: 5 × 3 = 15 (5 y lleva 1), 8 × 3 + 1 = 25 (5 y lleva 2), 2 × 3 + 2 = 8, 1 × 3 = 3. -->
-- [ ] B) $3,755
+- [ ] A) $3,755
   <!-- feedback: Olvidó el canje de las centenas: 2 × 3 = 6 más las 2 que se llevan da 8 centenas, no 7. -->
 - [ ] C) $3,845
   <!-- feedback: El canje de las decenas está mal aplicado; el producto de las unidades es 15, se queda 5 y se lleva 1. -->
@@ -139,13 +139,13 @@ Multiplicar múltiplos de diez permite un atajo: descomponer 350 como 35 × 10, 
 ¿Por qué la verificación de la hermana es válida?
 
 ### Opciones
-- [x] A) Porque la división es la operación inversa de la multiplicación y 1,000 ÷ 8 debe dar 125
+- [x] D) Porque la división es la operación inversa de la multiplicación y 1,000 ÷ 8 debe dar 125
   <!-- feedback: Si 125 × 8 = 1,000 es cierto, entonces 1,000 ÷ 8 = 125 debe cumplirse; así se comprueba el resultado. -->
-- [ ] B) Porque dividir siempre da un número menor
+- [ ] A) Porque dividir siempre da un número menor
   <!-- feedback: Que el cociente sea menor no prueba que la multiplicación original sea correcta. -->
-- [ ] C) Porque 8 es un número par
+- [ ] B) Porque 8 es un número par
   <!-- feedback: La paridad del factor no tiene relación con la verificación de un producto. -->
-- [ ] D) Porque 1,000 termina en ceros
+- [ ] C) Porque 1,000 termina en ceros
   <!-- feedback: La terminación en ceros es coincidencia del resultado y no constituye una prueba. -->
 
 ### Explicacion Pedagogica
@@ -183,9 +183,9 @@ Comparar ingresos exige calcular cada producto (precio por cantidad) y luego con
 ¿Es correcta la sugerencia de la empleada?
 
 ### Opciones
-- [x] A) Sí, porque 12 × 24 = 288 y 18 × 16 = 288
+- [x] B) Sí, porque 12 × 24 = 288 y 18 × 16 = 288
   <!-- feedback: Ambos productos dan 288 chocolates; la cantidad total se conserva aunque cambie la organización en cajas. -->
-- [ ] B) No, porque 12 × 24 = 264
+- [ ] A) No, porque 12 × 24 = 264
   <!-- feedback: El producto 12 × 24 es 288; quien obtiene 264 suma mal las parciales. -->
 - [ ] C) No, porque 18 × 16 = 268
   <!-- feedback: 18 × 16 = 18 × 10 + 18 × 6 = 180 + 108 = 288; 268 es un error de cálculo. -->

@@ -30,13 +30,13 @@ creador: "Jules-Agent"
 Si se cumple que $x + 3 = 6$, ¿cuál es el valor correspondiente del número real $x$?
 
 ### Opciones
-- [x] A) $3$
+- [x] D) $3$
   <!-- feedback: Correcto. Despejando obtenemos la diferencia exacta. -->
-- [ ] B) $9$
+- [ ] A) $9$
   <!-- feedback: Incorrecto. Se sumaron las constantes en lugar de restar. -->
-- [ ] C) $5$
+- [ ] B) $5$
   <!-- feedback: Incorrecto. Error de cálculo aritmético. -->
-- [ ] D) $1$
+- [ ] C) $1$
   <!-- feedback: Incorrecto. Error de signo al transponer términos. -->
 
 ### Explicacion Pedagogica
@@ -55,9 +55,9 @@ Para hallar el valor de $x$, restamos 3 a ambos lados de la ecuación: $x = 6 - 
 ¿Cuál es el elemento neutro de la multiplicación en el conjunto de los números reales?
 
 ### Opciones
-- [x] A) $1$
+- [x] B) $1$
   <!-- feedback: Correcto. El número 1 es el elemento neutro multiplicativo porque para cualquier real $a$, $a \cdot 1 = a$. -->
-- [ ] B) $0$
+- [ ] A) $0$
   <!-- feedback: Incorrecto. Cero es el elemento neutro de la adición, no de la multiplicación. -->
 - [ ] C) $-1$
   <!-- feedback: Incorrecto. Al multiplicar por -1 cambia el signo del número. -->
@@ -155,11 +155,11 @@ Por leyes de exponentes de la división de bases iguales, restamos el exponente 
 Si se sabe que $2x < 6$, determine el conjunto solución expresado como intervalo real de la variable $x$.
 
 ### Opciones
-- [x] A) $\langle -\infty, 3 \rangle$
+- [x] C) $\langle -\infty, 3 \rangle$
   <!-- feedback: Correcto. Al dividir entre el número positivo 2 se mantiene el sentido, resultando $x < 3$. -->
-- [ ] B) $\langle 3, +\infty \rangle$
+- [ ] A) $\langle 3, +\infty \rangle$
   <!-- feedback: Incorrecto. Se invirtió erróneamente el sentido de la inecuación lineal. -->
-- [ ] C) $[ -\infty, 3 ]$
+- [ ] B) $[ -\infty, 3 ]$
   <!-- feedback: Incorrecto. El extremo infinito nunca es cerrado y la inecuación es estricta. -->
 - [ ] D) $\langle -\infty, 3 ]$
   <!-- feedback: Incorrecto. Al ser menor estricto ($<$), el extremo superior debe ser abierto. -->
@@ -180,9 +180,9 @@ Dividimos ambos miembros de la inecuación lineal entre el número positivo 2: $
 Una persona en el mercado gasta S/ 18 en frutas y S/ 24 en verduras. Si pagó con un billete de S/ 100, ¿cuánto dinero recibe de vuelto en soles?
 
 ### Opciones
-- [x] A) S/ 58
+- [x] B) S/ 58
   <!-- feedback: Correcto. Restamos el gasto total de la denominación del billete de pago. -->
-- [ ] B) S/ 63
+- [ ] A) S/ 63
   <!-- feedback: Incorrecto. Error en la suma de los consumos realizados. -->
 - [ ] C) S/ 82
   <!-- feedback: Incorrecto. No se restó el gasto de las verduras. -->
@@ -205,11 +205,11 @@ El gasto total es la suma de ambos rubros: 18 + 24 = 42 soles. El vuelto es la d
 Determine la solución de la inecuación lineal: $4x - 5 \ge 11$.
 
 ### Opciones
-- [x] A) $x \ge 4$
+- [x] C) $x \ge 4$
   <!-- feedback: Correcto. Al sumar 5 a ambos lados y luego dividir por el número positivo 4, el sentido se mantiene. -->
-- [ ] B) $x \le 4$
+- [ ] A) $x \le 4$
   <!-- feedback: Incorrecto. Se invirtió incorrectamente el sentido de la desigualdad. -->
-- [ ] C) $x > 4$
+- [ ] B) $x > 4$
   <!-- feedback: Incorrecto. Se cambió la desigualdad de no estricta a estricta. -->
 - [ ] D) $x \ge 5$
   <!-- feedback: Incorrecto. Error en la división o en la simplificación numérica. -->
@@ -230,11 +230,11 @@ Sumamos 5 a ambos miembros de la inecuación lineal: $4x \ge 16$. Dividimos entr
 ¿Cuál es el valor absoluto de la diferencia de los números reales $2$ y $8$?
 
 ### Opciones
-- [x] A) $6$
+- [x] C) $6$
   <!-- feedback: Correcto. El valor absoluto de la diferencia es el módulo de 2 menos la suma 2 más 6, que resulta en el valor absoluto de menos 6, es decir, 6. -->
-- [ ] B) $-6$
+- [ ] A) $-6$
   <!-- feedback: Incorrecto. El valor absoluto de cualquier expresión real es siempre un número no negativo. -->
-- [ ] C) $10$
+- [ ] B) $10$
   <!-- feedback: Incorrecto. Se sumaron las cantidades en lugar de restarlas. -->
 - [ ] D) $8$
   <!-- feedback: Incorrecto. Error aritmético en la resolución del módulo. -->
@@ -255,11 +255,11 @@ La diferencia es $2 - (8) = -6$. El valor absoluto de este resultado negativo es
 Encuentre el valor de la variable $y$ si se sabe que cumple con la proporción lineal: $\frac{y}{3} = \frac{3}{6}$.
 
 ### Opciones
-- [x] A) $1.50$
+- [x] C) $1.50$
   <!-- feedback: Correcto. Multiplicamos de forma cruzada para despejar la variable del numerador. -->
-- [ ] B) $2.50$
+- [ ] A) $2.50$
   <!-- feedback: Incorrecto. Error en la multiplicación de los factores cruzados. -->
-- [ ] C) $0.50$
+- [ ] B) $0.50$
   <!-- feedback: Incorrecto. Error en la división de los coeficientes. -->
 - [ ] D) $18.00$
   <!-- feedback: Incorrecto. Se multiplicaron denominadores incorrectos. -->
@@ -280,9 +280,9 @@ Multiplicamos por 3 en ambos lados de la ecuación de proporcionalidad para desp
 Calcule la suma de los coeficientes del polinomio lineal: $P(x) = 4x + 4$.
 
 ### Opciones
-- [x] A) $8$
+- [x] B) $8$
   <!-- feedback: Correcto. La suma de coeficientes de un polinomio es equivalente a evaluarlo en $x = 1$, dando 4 más 4 igual a 8. -->
-- [ ] B) $16$
+- [ ] A) $16$
   <!-- feedback: Incorrecto. Se multiplicaron los coeficientes en lugar de sumarlos. -->
 - [ ] C) $0$
   <!-- feedback: Incorrecto. Se restaron los coeficientes. -->
@@ -305,9 +305,9 @@ La suma de coeficientes se halla evaluando el polinomio para la variable en 1: $
 Si el perímetro de un triángulo equilátero es de $6$ metros, ¿cuánto mide cada uno de sus lados en metros?
 
 ### Opciones
-- [x] A) $2$
+- [x] B) $2$
   <!-- feedback: Correcto. Un triángulo equilátero tiene tres lados iguales, por lo que cada lado mide la tercera parte de su perímetro, dando 2. -->
-- [ ] B) $3$
+- [ ] A) $3$
   <!-- feedback: Incorrecto. Longitud inconsistente con la definición de equilátero de este perímetro. -->
 - [ ] C) $4$
   <!-- feedback: Incorrecto. Excede el perímetro total al sumar dos lados de esta medida. -->
@@ -330,13 +330,13 @@ El perímetro de un triángulo equilátero de lado $L$ es $3L$. Sabiendo que el 
 Halle el dominio de la función real: $f(x) = \frac{1}{x - 6}$.
 
 ### Opciones
-- [x] A) $\mathbb{R} - \{6\}$
+- [x] D) $\mathbb{R} - \{6\}$
   <!-- feedback: Correcto. El denominador no puede ser cero, por lo que se debe excluir el valor de x = 6. -->
-- [ ] B) $\mathbb{R}$
+- [ ] A) $\mathbb{R}$
   <!-- feedback: Incorrecto. El valor de x causa una división indeterminada por cero. -->
-- [ ] C) $\langle 6, +\infty \rangle$
+- [ ] B) $\langle 6, +\infty \rangle$
   <!-- feedback: Incorrecto. La función también está perfectamente definida para valores reales menores que 6. -->
-- [ ] D) $\mathbb{R} - \{-6\}$
+- [ ] C) $\mathbb{R} - \{-6\}$
   <!-- feedback: Incorrecto. Error de signo al hallar el punto de discontinuidad del denominador. -->
 
 ### Explicacion Pedagogica
@@ -355,13 +355,13 @@ Para que la función racional esté definida en el campo real, el denominador de
 Determine el valor numérico del polinomio cuadrático $P(y) = y^2 - 7y + 12$ cuando $y = 4$.
 
 ### Opciones
-- [x] A) $0$
+- [x] D) $0$
   <!-- feedback: Correcto. Evaluando el polinomio para y = a resulta cero. -->
-- [ ] B) $2$
+- [ ] A) $2$
   <!-- feedback: Incorrecto. Error de cálculo en los productos parciales. -->
-- [ ] C) $24$
+- [ ] B) $24$
   <!-- feedback: Incorrecto. Error al evaluar o transponer los términos del trinomio. -->
-- [ ] D) $4$
+- [ ] C) $4$
   <!-- feedback: Incorrecto. Error aritmético en las adiciones. -->
 
 ### Explicacion Pedagogica
@@ -382,9 +382,9 @@ $\begin{cases} x + y = 6 \\ x - y = 2 \end{cases}$
 Indique el valor obtenido para la variable $x$.
 
 ### Opciones
-- [x] A) $4$
+- [x] B) $4$
   <!-- feedback: Correcto. Sumando ambas ecuaciones para eliminar la variable y. -->
-- [ ] B) $2$
+- [ ] A) $2$
   <!-- feedback: Incorrecto. Este corresponde al valor de la variable y, no de x. -->
 - [ ] C) $6$
   <!-- feedback: Incorrecto. Error de resolución al sustituir o sumar los miembros. -->
@@ -407,11 +407,11 @@ Sumamos miembro a miembro las dos ecuaciones lineales del sistema para eliminar 
 ¿Cuál es el valor del discriminante ($\Delta$) de la ecuación de segundo grado $x^2 - 8x + 15 = 0$?
 
 ### Opciones
-- [x] A) $4$
+- [x] C) $4$
   <!-- feedback: Correcto. El discriminante se calcula como b^2 - 4ac. -->
-- [ ] B) $6$
+- [ ] A) $6$
   <!-- feedback: Incorrecto. Error al restar el término cuadrático del discriminante. -->
-- [ ] C) $2$
+- [ ] B) $2$
   <!-- feedback: Incorrecto. Error en los signos del producto de los coeficientes. -->
 - [ ] D) $64$
   <!-- feedback: Incorrecto. Se olvidó restar el término de la fórmula fundamental. -->
@@ -432,11 +432,11 @@ El discriminante de una ecuación cuadrática is b^2 - 4ac. Aquí es 64 - 4(15) 
 Si se sabe que la suma de un número real y su inverso multiplicativo es igual a 4.25, determine el producto exacto de dichos números.
 
 ### Opciones
-- [x] A) $1$
+- [x] C) $1$
   <!-- feedback: Correcto. Por definición, el producto de cualquier número real no nulo y su inverso multiplicativo es 1. -->
-- [ ] B) $4$
+- [ ] A) $4$
   <!-- feedback: Incorrecto. Ese es el número original, no el producto con su recíproco. -->
-- [ ] C) $0.25$
+- [ ] B) $0.25$
   <!-- feedback: Incorrecto. Corresponde al inverso aditivo o multiplicativo individual. -->
 - [ ] D) No se puede determinar
   <!-- feedback: Incorrecto. El producto es constante e independiente del número real elegido. -->
@@ -482,9 +482,9 @@ Las relaciones de Cardano-Vieta establecen que para una ecuación cuadrática ax
 Determine el área máxima que puede encerrar un terreno rectangular de perímetro constante e igual a $28$ metros.
 
 ### Opciones
-- [x] A) $49$ metros cuadrados
+- [x] B) $49$ metros cuadrados
   <!-- feedback: Correcto. El área máxima para un perímetro dado se logra cuando la figura es un cuadrado. -->
-- [ ] B) $45$ metros cuadrados
+- [ ] A) $45$ metros cuadrados
   <!-- feedback: Incorrecto. Corresponde a una configuración rectangular desigual subóptima. -->
 - [ ] C) $53$ metros cuadrados
   <!-- feedback: Incorrecto. Un perímetro de la magnitud dada no puede encerrar un área rectangular de valor superior al máximo. -->
@@ -507,13 +507,13 @@ Sean los lados x e y. El perímetro es 2(x+y) = 28 \Rightarrow x+y = 14. El áre
 Si se define la función real $f(x) = x^2 - 8x + 21$, determine las coordenadas del vértice $(h, k)$ de su representación gráfica parabólica.
 
 ### Opciones
-- [x] A) $(4, 5)$
+- [x] D) $(4, 5)$
   <!-- feedback: Correcto. Completando cuadrados: f(x) = (x - a)^2 + b. -->
-- [ ] B) $(-4, 5)$
+- [ ] A) $(-4, 5)$
   <!-- feedback: Incorrecto. Error de signo al despejar la coordenada horizontal h. -->
-- [ ] C) $(4, -5)$
+- [ ] B) $(4, -5)$
   <!-- feedback: Incorrecto. Error de signo al determinar la coordenada vertical k. -->
-- [ ] D) $(8, 5)$
+- [ ] C) $(8, 5)$
   <!-- feedback: Incorrecto. Coordenadas mal identificadas. -->
 
 ### Explicacion Pedagogica

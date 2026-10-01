@@ -34,13 +34,13 @@ Comprensión literal e inferencial de cuentos fantásticos, elementos del mundo 
 Según el fragmento, ¿dónde encontró Mariana la puerta que la llevó a Nubelaria?
 
 ### Opciones
-- [x] A) Detrás del cafetal de su abuela, tallada en un guayacán centenario.
+- [x] D) Detrás del cafetal de su abuela, tallada en un guayacán centenario.
   <!-- feedback: El texto indica con claridad que la puerta estaba detrás del cafetal, tallada en un guayacán centenario. -->
-- [ ] B) En el patio de su escuela, escondida dentro de un libro de cuentos.
+- [ ] A) En el patio de su escuela, escondida dentro de un libro de cuentos.
   <!-- feedback: La escuela no aparece en el fragmento; la puerta estaba en el cafetal de la abuela. -->
-- [ ] C) En la cima de un nevado, custodiada por un ejército de colibríes.
+- [ ] B) En la cima de un nevado, custodiada por un ejército de colibríes.
   <!-- feedback: Los colibríes transportan cartas en Nubelaria, pero no custodiaban la puerta en ningún nevado. -->
-- [ ] D) En el mercado del pueblo, vendida por un comerciante viajero.
+- [ ] C) En el mercado del pueblo, vendida por un comerciante viajero.
   <!-- feedback: Ningún comerciante ni mercado se mencionan en el fragmento leído. -->
 
 ### Explicacion Pedagogica
@@ -80,9 +80,9 @@ Identificar el conflicto central de un relato fantástico permite comprender la 
 ¿Qué enseña la escena del puente sobre la manera de enfrentar los temores en la vida real?
 
 ### Opciones
-- [x] A) Que reconocer los miedos y dejarlos atrás con decisión permite avanzar hacia las metas.
+- [x] B) Que reconocer los miedos y dejarlos atrás con decisión permite avanzar hacia las metas.
   <!-- feedback: Mariana nombra su miedo, lo deja simbólicamente atrás y logra cruzar, lo cual se aplica a enfrentar temores reales. -->
-- [ ] B) Que los puentes de cristal siempre son seguros y nunca presentan peligro alguno.
+- [ ] A) Que los puentes de cristal siempre son seguros y nunca presentan peligro alguno.
   <!-- feedback: El puente estaba resquebrajado sobre un abismo; el mensaje no trata de la seguridad de los puentes. -->
 - [ ] C) Que basta con correr muy rápido para que los problemas desaparezcan solos.
   <!-- feedback: Mariana no corrió; avanzó con paso firme después de un acto consciente de valentía. -->
@@ -126,13 +126,13 @@ Reconocer los recursos descriptivos de un texto permite apreciar cómo el autor 
 ¿Qué intención comunicativa tiene el desenlace del cuento al mostrar a Mariana organizando una huerta escolar?
 
 ### Opciones
-- [x] A) Motivar a los lectores a transformar lo aprendido en la fantasía en acciones solidarias reales.
+- [x] D) Motivar a los lectores a transformar lo aprendido en la fantasía en acciones solidarias reales.
   <!-- feedback: El regreso de Mariana y la huerta escolar conectan la aventura imaginaria con un compromiso concreto en su comunidad. -->
-- [ ] B) Informar sobre las técnicas agrícolas correctas para sembrar café en el Eje Cafetero.
+- [ ] A) Informar sobre las técnicas agrícolas correctas para sembrar café en el Eje Cafetero.
   <!-- feedback: El cuento no explica técnicas de cultivo; la siembra es un símbolo de esperanza, no un manual agrícola. -->
-- [ ] C) Prohibir a los niños imaginar mundos fantásticos para concentrarse solo en el trabajo.
+- [ ] B) Prohibir a los niños imaginar mundos fantásticos para concentrarse solo en el trabajo.
   <!-- feedback: La historia celebra la imaginación; la huerta nace precisamente de lo vivido en el mundo imaginario. -->
-- [ ] D) Demostrar que los reinos imaginarios existen físicamente detrás de todos los cafetales.
+- [ ] C) Demostrar que los reinos imaginarios existen físicamente detrás de todos los cafetales.
   <!-- feedback: Nubelaria es un mundo de ficción; el desenlace invita a actuar en la realidad, no a buscar reinos literales. -->
 
 ### Explicacion Pedagogica
@@ -149,11 +149,11 @@ Identificar la intención discursiva del desenlace ayuda a comprender cómo la l
 ¿Qué función cumplen los elementos fantásticos en la construcción del sentido del cuento?
 
 ### Opciones
-- [x] A) Representan símbolos (la ayuda, la sabiduría y la esperanza) que permiten reflexionar sobre valores humanos.
+- [x] C) Representan símbolos (la ayuda, la sabiduría y la esperanza) que permiten reflexionar sobre valores humanos.
   <!-- feedback: Cada elemento mágico encarna una idea: los colibríes la solidaridad, don Aurelio la guía sabia y el Corazón la esperanza colectiva. -->
-- [ ] B) Sirven únicamente como decoración bonita sin ninguna relación con el mensaje de la historia.
+- [ ] A) Sirven únicamente como decoración bonita sin ninguna relación con el mensaje de la historia.
   <!-- feedback: Los elementos fantásticos están ligados al conflicto y a su solución, no son adornos sueltos. -->
-- [ ] C) Demuestran que la autora desconocía la realidad del Eje Cafetero y sus costumbres.
+- [ ] B) Demuestran que la autora desconocía la realidad del Eje Cafetero y sus costumbres.
   <!-- feedback: El cuento parte de elementos reales (el café, el guayacán) y los combina a propósito con fantasía. -->
 - [ ] D) Comprueban que los cuentos de fantasía no pueden dejar enseñanzas para la vida real.
   <!-- feedback: El desenlace con la huerta escolar prueba que la fantasía sí deja enseñanzas aplicables. -->
@@ -172,11 +172,11 @@ Analizar la función simbólica de los elementos fantásticos permite distinguir
 ¿Qué consecuencia tiene la brevedad extrema de la versión 1 frente a la versión original?
 
 ### Opciones
-- [x] A) Se pierde la caracterización del mundo imaginario y la motivación profunda de la protagonista.
+- [x] C) Se pierde la caracterización del mundo imaginario y la motivación profunda de la protagonista.
   <!-- feedback: Sin descripciones ni diálogos, el lector no conoce Nubelaria ni entiende por qué la semilla sembrada con esperanza es la solución. -->
-- [ ] B) La historia gana suspenso porque el lector debe adivinar todos los detalles faltantes.
+- [ ] A) La historia gana suspenso porque el lector debe adivinar todos los detalles faltantes.
   <!-- feedback: Omitir información esencial no crea suspenso, sino confusión y desinterés por personajes planos. -->
-- [ ] C) El mensaje sobre la esperanza se vuelve más claro al eliminar descripciones innecesarias.
+- [ ] B) El mensaje sobre la esperanza se vuelve más claro al eliminar descripciones innecesarias.
   <!-- feedback: Sin el desarrollo de la misión, la esperanza queda como una palabra vacía sin sustento narrativo. -->
 - [ ] D) Ambas versiones producen exactamente el mismo efecto estético en quien las lee.
   <!-- feedback: La versión original construye atmósfera y vínculos afectivos que la versión resumida no logra. -->

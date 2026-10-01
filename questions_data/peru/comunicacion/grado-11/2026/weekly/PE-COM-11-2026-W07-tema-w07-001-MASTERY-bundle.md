@@ -32,9 +32,9 @@ creador: "Jules-Agent"
 ### Opciones
 - [ ] A) La oda clásica
   <!-- feedback: Incorrecto. Melgar escribió odas, pero esta es una forma poética de origen puramente europeo, no una especie mestiza andina. -->
-- [ ] B) La copla costumbrista
+- [ ] C) La copla costumbrista
   <!-- feedback: Incorrecto. La copla es una forma poética octosílaba española, no es la especie de origen mestizo creada por Melgar. -->
-- [x] C) El yaraví
+- [x] B) El yaraví
   <!-- feedback: Correcto. El yaraví es la especie lírica mestiza por excelencia del sur peruano; Melgar fusionó la carga de melancolía y dolor del harawi quechua con el metro y rima de la lírica hispana, cantando al desamor de Silvia. -->
 - [ ] D) La décima de pie forzado
   <!-- feedback: Incorrecto. La décima es una estrofa clásica española cultivada popularmente por decimistas afroperuanos, no es creación o especie central de Melgar. -->
@@ -57,11 +57,11 @@ Mariano Melgar es considerado el precursor del Romanticismo peruano. Su aporte f
 ### Opciones
 - [ ] A) Pájinas libres
   <!-- feedback: Incorrecto. Esta es una obra de ensayos ideológicos de Manuel González Prada. -->
-- [x] B) Alma América
+- [x] D) Alma América
   <!-- feedback: Correcto. 'Alma América' es la obra cumbre de Chocano en la cual exalta la identidad mestiza, la flora, fauna y mitología hispanoamericana de forma sonora y sensual, típica del modernismo. -->
-- [ ] C) Simbólicas
+- [ ] B) Simbólicas
   <!-- feedback: Incorrecto. 'Simbólicas' es un poemario simbolista de José María Eguren published en 1911. -->
-- [ ] D) Trilce
+- [ ] C) Trilce
   <!-- feedback: Incorrecto. 'Trilce' es el poemario vanguardista cumbre de César Vallejo publicado en 1922. -->
 
 ### Explicacion Pedagogica
@@ -80,9 +80,9 @@ José Santos Chocano es la figura emblemática del modernismo peruano. Su poemar
 La novela 'Aves sin nido' de Clorinda Matto de Turner es considerada la obra fundacional del indigenismo en el Perú. ¿Qué denuncia social de carácter moral constituye el núcleo argumentativo de la novela?
 
 ### Opciones
-- [ ] A) La falta de ferrocarriles modernos en las provincias andinas
+- [ ] B) La falta de ferrocarriles modernos en las provincias andinas
   <!-- feedback: Incorrecto. El ferrocarril aparece de forma referencial, no es la denuncia de fondo moral de la obra. -->
-- [x] B) La trinidad embrutecedora (el cura, el gobernador y el juez de paz) que explota despiadadamente a la población indígena desprotegida
+- [x] A) La trinidad embrutecedora (el cura, el gobernador y el juez de paz) que explota despiadadamente a la población indígena desprotegida
   <!-- feedback: Correcto. Clorinda Matto de Turner denuncia en 'Aves sin nido' cómo las autoridades locales (políticas, eclesiásticas y judiciales) del pueblo andino de Killac se coluden para abusar de los indios, sirviéndose de la fe, la ley y la fuerza para explotarlos. -->
 - [ ] C) La migración masiva de los jóvenes campesinos hacia los callejones de Lima
   <!-- feedback: Incorrecto. La novela transcurre netamente en el ámbito rural andino; la migración urbana es un tema posterior del siglo XX. -->
@@ -111,9 +111,9 @@ Lea el fragmento del 'Discurso en el Politeama':
   <!-- feedback: Incorrecto. Aunque fue un factor logístico, González Prada sitúa el problema en una causa estructural moral y social de fondo. -->
 - [ ] B) La cobardía innata de los soldados de procedencia indígena
   <!-- feedback: Incorrecto. El autor defiende el valor del soldado; no los culpa de la derrota, sino a la élite gobernante. -->
-- [x] C) La fragmentación social del país y la postración educativa y civil del campesino indígena, que impidió la cohesión nacional
+- [x] D) La fragmentación social del país y la postración educativa y civil del campesino indígena, que impidió la cohesión nacional
   <!-- feedback: Correcto. El ensayista sostiene que el Perú perdió la guerra porque no era una nación integrada; la inmensa mayoría de la población (los indios) vivía en servidumbre e ignorancia, sin comprender la noción de patria por la que luchaban, debido al egoísmo de la oligarquía costeña. -->
-- [ ] D) La interferencia de los países vecinos de la Amazonía
+- [ ] C) La interferencia de los países vecinos de la Amazonía
   <!-- feedback: Incorrecto. No se hace referencia a la selva o países vecinos del este; la guerra fue con Chile en la costa y sierra sur. -->
 
 ### Explicacion Pedagogica
@@ -132,11 +132,11 @@ González Prada ejerce una crítica sociológica brillante. El fracaso bélico d
 Mariano Melgar no solo fue un poeta del amor melancólico, sino un patriota activo que se inmoló en la batalla de Umachiri en 1815. ¿Cómo se articula su vida heroica con su obra poética de la Emancipación?
 
 ### Opciones
-- [ ] A) Abandonó por completo el castellano para escribir arengas exclusivamente en latín canónico
+- [ ] B) Abandonó por completo el castellano para escribir arengas exclusivamente en latín canónico
   <!-- feedback: Incorrecto. Escribió poesía en castellano y tradujo a Ovidio, pero no usó el latín como lengua de arenga política nacional. -->
-- [ ] B) Su obra exalta la sumisión total al rey de España como única vía de orden social
+- [ ] C) Su obra exalta la sumisión total al rey de España como única vía de orden social
   <!-- feedback: Incorrecto. Su poesía de la Emancipación ('Oda a la Libertad') defiende fervorosamente la independencia americana frente a la corona española. -->
-- [x] C) Su poesía patriótica y sus yaravíes expresan la búsqueda de libertad civil y la afirmación del sentimiento y la sensibilidad mestiza americana
+- [x] A) Su poesía patriótica y sus yaravíes expresan la búsqueda de libertad civil y la afirmación del sentimiento y la sensibilidad mestiza americana
   <!-- feedback: Correcto. Melgar representa la perfecta unión del intelectual ilustrado y el soldado de la emancipación. Su poesía ('Oda a la Libertad') expresa el ansia de soberanía política, mientras que sus yaravíes validan líricamente la sensibilidad y el dolor del sujeto mestizo andino. -->
 - [ ] D) Defendió la restauración de la Inquisición en la ciudad de Arequipa
   <!-- feedback: Incorrecto. Melgar fue un librepensador ilustrado de ideas liberales; se opuso al absolutismo e instituciones coloniales opresivas. -->
@@ -159,9 +159,9 @@ Estéticamente, ¿cuál es el contraste fundamental entre la poesía modernista 
 ### Opciones
 - [ ] A) Chocano defiende la ciencia exacta y la economía industrial, mientras que González Prada es puramente romántico y místico
   <!-- feedback: Incorrecto. González Prada defiende el positivismo científico y la razón; no es místico. Chocano es esteticista y retórico. -->
-- [ ] B) Ambos autores coinciden en el uso de un lenguaje rústico, informal y plagado de quechuismos
+- [ ] C) Ambos autores coinciden en el uso de un lenguaje rústico, informal y plagado de quechuismos
   <!-- feedback: Incorrecto. Ninguno usa lenguaje rústico; Chocano destaca por su léxico preciosista y sonoro; González Prada por su prosa pulcra, cáustica y elegante. -->
-- [x] C) Chocano busca la exaltación cromática, sonora y descriptiva del paisaje americano con fin estético, mientras que González Prada prioriza la crítica política, la agitación social y el rigor ensayístico e ideológico
+- [x] B) Chocano busca la exaltación cromática, sonora y descriptiva del paisaje americano con fin estético, mientras que González Prada prioriza la crítica política, la agitación social y el rigor ensayístico e ideológico
   <!-- feedback: Correcto. El modernismo de Chocano busca la belleza de la forma, la musicalidad de los versos y la glorificación de la historia mestiza ('Alma América'). González Prada utiliza la palabra escrita como un arma de combate social, orientada a sacudir la adormecida conciencia moral de los ciudadanos republicanos de su tiempo. -->
 - [ ] D) Chocano propone el retorno a España y la sumisión colonial, mientras que González Prada defiende el feudalismo andino
   <!-- feedback: Incorrecto. Chocano exalta el mestizaje americano y González Prada combate con fiereza el feudalismo latifundista serrano. -->
@@ -184,11 +184,11 @@ Lea el fragmento de un yaraví de Melgar:
 ¿Qué elemento estilístico propio del harawi prehispánico andino se reconfigura en esta estrofa mestiza melgariana?
 
 ### Opciones
-- [ ] A) La descripción de batallas sangrientas contra monstruos mitológicos de la selva
+- [ ] B) La descripción de batallas sangrientas contra monstruos mitológicos de la selva
   <!-- feedback: Incorrecto. La escena es de carácter íntimo amoroso y melancólico, ajena a epopeyas guerreras de monstruos. -->
-- [ ] B) La ironía burlona contra las autoridades eclesiásticas locales
+- [ ] C) La ironía burlona contra las autoridades eclesiásticas locales
   <!-- feedback: Incorrecto. No hay sátira o ironía política en estos versos líricos de dolor amoroso. -->
-- [x] C) La metáfora de la amada ausente como una 'palomita' (urpi en quechua) que abandona el nido familiar, expresando dolor por la pérdida
+- [x] A) La metáfora de la amada ausente como una 'palomita' (urpi en quechua) que abandona el nido familiar, expresando dolor por la pérdida
   <!-- feedback: Correcto. Melgar asimila de forma directa la metáfora andina del 'urpi' (la amada que es vista como una palomita asustadiza o ausente de gran pureza), dándole formato de redondilla o metro corto castellano, un hito de simbiosis estética. -->
 - [ ] D) El uso de la rima asonante en versos alejandrinos de corte helénico
   <!-- feedback: Incorrecto. La estrofa usa versos cortos de arte menor, no alejandrinos clásicos complejos. -->
@@ -213,9 +213,9 @@ Lea los célebres versos de 'Blasón' de Chocano:
 ### Opciones
 - [ ] A) Hipérbaton radical; porque invierte de manera caótica la sintaxis de las oraciones
   <!-- feedback: Incorrecto. La sintaxis del poema es sumamente clara, ordenada y fluida, alejada de un hipérbaton complejo. -->
-- [x] B) Antítesis o contraste de estilos; al oponer su poesía activa, vigorosa y de grandes temas a la poesía lánguida y perezosa de los trópicos
+- [x] C) Antítesis o contraste de estilos; al oponer su poesía activa, vigorosa y de grandes temas a la poesía lánguida y perezosa de los trópicos
   <!-- feedback: Correcto. El yo poético opone la fortaleza y ambición de su estilo lírico ('autóctono y salvaje') a la desidia y languidez que él atribuye a otros poetas de la región ('vaivén de hamaca tropical'), asumiendo un rol de héroe lírico americano. -->
-- [ ] C) Silepsis de concordancia gramatical entre el alma y la hamaca
+- [ ] B) Silepsis de concordancia gramatical entre el alma y la hamaca
   <!-- feedback: Incorrecto. No hay anomalías de concordancia voluntarias (silepsis) en la estructura estrófica. -->
 - [ ] D) Elipsis del pronombre personal para ocultar la identidad del autor
   <!-- feedback: Incorrecto. Al contrario: Chocano abusa del pronombre 'mi/soy' (egocentrismo modernista), reafirmando de forma enfática su presencia. -->
@@ -238,9 +238,9 @@ Manuel González Prada abogaba en sus ensayos por desterrar la educación escol�
 ### Opciones
 - [ ] A) Propone que los poetas escriban manuales de química orgánica en lugar de versos líricos
   <!-- feedback: Incorrecto. No anula el género poético (él mismo fue un prolífico experimentador lírico), sino la mentalidad dogmática en la educación. -->
-- [ ] B) Considera que las leyendas de Ricardo Palma son estudios científicos rigurosos
+- [ ] C) Considera que las leyendas de Ricardo Palma son estudios científicos rigurosos
   <!-- feedback: Incorrecto. Justamente critica a Ricardo Palma por 'falsificar la historia' mediante anécdotas e ironías aristocráticas. -->
-- [x] C) Sostiene que el Perú debe analizar su realidad nacional mediante la observación empírica, la verdad racional y la ciencia dura, despojándose de dogmas religiosos e idealismos líricos estériles
+- [x] B) Sostiene que el Perú debe analizar su realidad nacional mediante la observación empírica, la verdad racional y la ciencia dura, despojándose de dogmas religiosos e idealismos líricos estériles
   <!-- feedback: Correcto. González Prada se apoya en el positivismo (Comte, Spencer) para argumentar que el atraso del país responde al oscurantismo y la falta de pensamiento científico crítico, planteando que solo la ciencia puede emancipar a la sociedad peruana. -->
 - [ ] D) Exige retornar a la filosofía teológica de Santo Tomás de Aquino para guiar el Estado
   <!-- feedback: Incorrecto. Él combatió ferozmente la influencia del clero y la teología en la educación pública y la política republicana. -->
@@ -313,11 +313,11 @@ González Prada desmitifica el relato triunfalista de la República peruana de l
 A diferencia del modernismo cosmopolita de Rubén Darío (que abunda en cisnes, princesas y palacios europeos), el modernismo de José Santos Chocano en 'Alma América' posee un carácter singular. ¿Cuál es esta particularidad temática que define la obra de Chocano?
 
 ### Opciones
-- [ ] A) La imitación servil de las tragedias clásicas de William Shakespeare
+- [ ] B) La imitación servil de las tragedias clásicas de William Shakespeare
   <!-- feedback: Incorrecto. Chocano no escribe teatro isabelino; su obra es modernista lírica. -->
-- [ ] B) El rechazo absoluto al paisaje peruano para centrarse solo en la geografía siberiana
+- [ ] C) El rechazo absoluto al paisaje peruano para centrarse solo en la geografía siberiana
   <!-- feedback: Incorrecto. Su poesía canta con fervor a la selva amazónica, el Cusco y los Andes peruanos. -->
-- [x] C) La incorporación de la geografía, el trópico, el pasado andino (incas) e hispano (conquistadores) como materia prima de una épica modernista americana
+- [x] A) La incorporación de la geografía, el trópico, el pasado andino (incas) e hispano (conquistadores) como materia prima de una épica modernista americana
   <!-- feedback: Correcto. Chocano cultiva el modernismo de vertiente indomundista o americanista. Su obra exalta los elementos autóctonos del continente de forma sensual, grandilocuente e integradora del legado hispano e indígena ('El cantor de América'). -->
 - [ ] D) La defensa del socialismo andino como solución para la tenencia de la tierra
   <!-- feedback: Incorrecto. Chocano tenía ideas conservadoras y un fuerte ego aristocrático, alejado del socialismo andino de Mariátegui. -->
@@ -390,11 +390,11 @@ Lea la crítica contemporánea:
 ¿Cómo se evalúa la veracidad de esta crítica en base al análisis de los personajes y el desenlace de la novela 'Aves sin nido'?
 
 ### Opciones
-- [ ] A) Es falsa porque en la novela los indios se organizan militarmente y derrotan de forma autónoma al gobernador de Killac
+- [ ] B) Es falsa porque en la novela los indios se organizan militarmente y derrotan de forma autónoma al gobernador de Killac
   <!-- feedback: Incorrecto. En la novela los indios sufren de forma pasiva; es la familia burguesa ilustrada de Fernando y Lucía Marín la que debe interceder y defenderlos legal y moralmente. -->
-- [ ] B) Es verdadera porque Clorinda Matto propone erradicar el cristianismo para volver a la adoración incaica del dios Inti
+- [ ] C) Es verdadera porque Clorinda Matto propone erradicar el cristianismo para volver a la adoración incaica del dios Inti
   <!-- feedback: Incorrecto. Matto de Turner propone reformar el cristianismo y la educación de las provincias, pero bajo un marco cívico ilustrado moderno, no de retorno a la religión incaica. -->
-- [x] C) Es verdadera porque el matrimonio Marín (burgueses ilustrados de Lima) actúa como el tutor civilizador indispensable para salvar a las huérfanas de la familia india Yupanqui
+- [x] A) Es verdadera porque el matrimonio Marín (burgueses ilustrados de Lima) actúa como el tutor civilizador indispensable para salvar a las huérfanas de la familia india Yupanqui
   <!-- feedback: Correcto. El análisis literario corrobora que 'Aves sin nido' se escribe bajo el amparo de la ideología filantrópica. Los indígenas Yupanqui son incapaces de resistir de forma autónoma los abusos del gamonalismo; requieren del amparo protector, moral, legal y económico de los esposos Marín (portadores de la ilustración limeña). -->
 - [ ] D) Es falsa porque Clorinda Matto sostiene que la única solución para el indio es el aislamiento geográfico absoluto de la República
   <!-- feedback: Incorrecto. Al contrario, la autora propone la integración cívica y educativa del indígena a la vida moderna nacional de la República. -->
@@ -421,9 +421,9 @@ Lea la afirmación de Manuel González Prada en su ensayo 'Propaganda y ataque':
   <!-- feedback: Incorrecto. González Prada rechaza y combate de forma terminante el legado y herencia señorial hispano. -->
 - [ ] B) La emigración masiva del campesinado andino a las capitales vecinas para vaciar los campos de la sierra
   <!-- feedback: Incorrecto. Su objetivo no es despoblar la sierra, sino dignificar y educar al campesino en su territorio mediante la abolición del feudalismo. -->
-- [x] C) La ineludible necesidad de incluir al campesino indígena como sujeto de derechos plenos y núcleo de la ciudadanía para fundar una auténtica nación peruana
+- [x] D) La ineludible necesidad de incluir al campesino indígena como sujeto de derechos plenos y núcleo de la ciudadanía para fundar una auténtica nación peruana
   <!-- feedback: Correcto. El autor cuestiona la hipocresía de la élite de su tiempo, que definía al Perú solo según los intereses de la costa y la burocracia limeña, ignorando que el sustento material y demográfico del país reside en las masas indígenas marginadas. Fundar la patria exige liberarlos. -->
-- [ ] D) La expulsión de todas las empresas extranjeras de telefonía inalámbrica del Cusco
+- [ ] C) La expulsión de todas las empresas extranjeras de telefonía inalámbrica del Cusco
   <!-- feedback: Incorrecto. La telefonía inalámbrica no existía de forma comercial masiva en su época; su crítica se centra en el gamonalismo y la servidumbre feudal agraria. -->
 
 ### Explicacion Pedagogica
@@ -444,9 +444,9 @@ En la poesía modernista peruana, la tensión entre el esteticismo cosmopolita (
 ### Opciones
 - [ ] A) Mediante el rechazo terminante del castellano literario para escribir el poema de forma exclusiva en quechua imperial
   <!-- feedback: Incorrecto. Chocano escribe su obra en español clásico con metros tradicionales de alta sonoridad y preciosismo formal. -->
-- [x] B) A través de la equivalencia lírica y orgullosa de sus dos linajes históricos: el incaico, que le otorga la majestad del paisaje, y el español, que le confiere la audacia y la soberanía de la palabra
+- [x] C) A través de la equivalencia lírica y orgullosa de sus dos linajes históricos: el incaico, que le otorga la majestad del paisaje, y el español, que le confiere la audacia y la soberanía de la palabra
   <!-- feedback: Correcto. En 'Blasón', el poeta afirma: 'Tengo sangre española e incaica es mi canción...'. Une los dos mundos en un mestizaje imperial y heroico, donde la herencia hispana (conquistadores) y andina (incas) se fusionan de forma complementaria para magnificar su identidad poética. -->
-- [ ] C) Sosteniendo que la cultura andina fue totalmente exterminada y solo queda la herencia hispana como fuente de civilización
+- [ ] B) Sosteniendo que la cultura andina fue totalmente exterminada y solo queda la herencia hispana como fuente de civilización
   <!-- feedback: Incorrecto. Chocano canta a los Apus y emperadores incas con devoción estética; no los considera extinguidos culturalmente en el imaginario poético nacional. -->
 - [ ] D) Proponiendo una guerra de castas racial para erradicar a las poblaciones mestizas de la costa peruana
   <!-- feedback: Incorrecto. Su discurso es de mestizaje integrador y glorificante de ambas estirpes imperiales; no propone violencia de castas. -->
@@ -497,9 +497,9 @@ Si deconstruimos el aporte de Mariano Melgar a la Literatura de la Emancipación
 ### Opciones
 - [ ] A) La imitación fidedigna y servil de los clásicos neoclásicos españoles que elogiaban al Virrey Abascal
   <!-- feedback: Incorrecto. Melgar luchó contra el virrey Abascal en las huestes rebeldes de Pumacahua; su poesía rompe con la sumisión colonial. -->
-- [ ] B) La erradicación de toda influencia de la lírica andina para purificar el castellano estándar
+- [ ] C) La erradicación de toda influencia de la lírica andina para purificar el castellano estándar
   <!-- feedback: Incorrecto. Melgar hace lo contrario: introduce el harawi quechua (canción andina de amor y muerte) en la poesía escrita castellana. -->
-- [x] C) Haber fundado el primer espacio de confluencia estética y existencial mestiza, donde la rebelión política y la queja lírica del sujeto andino adquieren jerarquía artística universal
+- [x] B) Haber fundado el primer espacio de confluencia estética y existencial mestiza, donde la rebelión política y la queja lírica del sujeto andino adquieren jerarquía artística universal
   <!-- feedback: Correcto. Melgar es fundacional porque demuestra que el sujeto andino-mestizo posee una sensibilidad autónoma de gran belleza y dolor real, que no cabe en las copias frías de la lírica peninsular. Al morir por la patria en Umachiri y legar sus yaravíes, hermana de forma indestructible el nacimiento de la patria libre con la voz lírica mestiza. -->
 - [ ] D) La propuesta de someter la educación escolar peruana a la supervisión exclusiva de los obispos de Arequipa
   <!-- feedback: Incorrecto. Melgar fue un librepensador ilustrado de ideas liberales; defendió la soberanía civil y la libertad racional frente a la tutela eclesiástica. -->
@@ -520,11 +520,11 @@ Mariano Melgar no es solo un poeta regional de yaravíes, sino el arquitecto esp
 Si aplicáramos el método crítico de Manuel González Prada plasmado en sus 'Pájinas Libres' para analizar los problemas del Perú contemporáneo (siglo XXI), ¿cuál de las siguientes directivas intelectuales reflejaría fielmente su rigor ideológico?
 
 ### Opciones
-- [ ] A) El elogio incondicional de los discursos oficiales de los gobernantes en Palacio de Gobierno
+- [ ] B) El elogio incondicional de los discursos oficiales de los gobernantes en Palacio de Gobierno
   <!-- feedback: Incorrecto. González Prada consideraba que el deber del intelectual es la disidencia y la crítica implacable del poder político de turno. -->
-- [ ] B) La resignación sumisa y la defensa del statu quo colonial como única garantía de estabilidad macroeconómica
+- [ ] C) La resignación sumisa y la defensa del statu quo colonial como única garantía de estabilidad macroeconómica
   <!-- feedback: Incorrecto. Su pensamiento aboga por la transformación revolucionaria, el progreso científico y la rebelión de la juventud; rechaza el conservadurismo inerte. -->
-- [x] C) La deconstrucción despiadada de la corrupción de los partidos políticos, la denuncia de la exclusión social del interior del país y el llamado a que la juventud asuma el control cívico y moral frente al cinismo de la élite tradicional
+- [x] A) La deconstrucción despiadada de la corrupción de los partidos políticos, la denuncia de la exclusión social del interior del país y el llamado a que la juventud asuma el control cívico y moral frente al cinismo de la élite tradicional
   <!-- feedback: Correcto. La directiva gonzalepradiana por excelencia es el combate ético y la agitación racional. Su herencia exige denunciar las mentiras del 'Perú oficial' que encubre la corrupción bajo formas legales, defendiendo los derechos de las mayorías marginadas y movilizando a los jóvenes hacia la acción constructiva ('¡Los jóvenes a la obra!'). -->
 - [ ] D) La propuesta de reinstaurar el tributo indígena colonial para financiar la deuda externa del Estado
   <!-- feedback: Incorrecto. El tributo indígena fue una de las instituciones feudales coloniales más combatidas y condenadas por González Prada por su inhumanidad. -->

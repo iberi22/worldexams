@@ -37,8 +37,8 @@ Bogotá, ________ is the capital of Colombia, is home to many museums.
 
 ### Opciones
 - [ ] A) that <!-- feedback: Incorrect. "That" cannot be used in non-defining clauses (after commas). -->
-- [x] B) which <!-- feedback: Correct! "Which" is used for non-defining clauses referring to places or things. -->
-- [ ] C) where <!-- feedback: Incorrect. "Where" would be used if we described an action happening in the city, like "where I live". -->
+- [x] C) which <!-- feedback: Correct! "Which" is used for non-defining clauses referring to places or things. -->
+- [ ] B) where <!-- feedback: Incorrect. "Where" would be used if we described an action happening in the city, like "where I live". -->
 - [ ] D) who <!-- feedback: Incorrect. For people. -->
 
 ### Explicacion Pedagogica
@@ -79,9 +79,9 @@ We have ________ paint left, so we can't finish the mural today.
 
 ### Opciones
 - [ ] A) a little <!-- feedback: Incorrect. This would mean we have enough to continue. -->
-- [x] B) little <!-- feedback: Correct! "Little" indicates an insufficient amount (negative connotation). -->
-- [ ] C) few <!-- feedback: Incorrect. "Paint" is uncountable. -->
-- [ ] D) a few <!-- feedback: Incorrect. For countable nouns. -->
+- [x] D) little <!-- feedback: Correct! "Little" indicates an insufficient amount (negative connotation). -->
+- [ ] B) few <!-- feedback: Incorrect. "Paint" is uncountable. -->
+- [ ] C) a few <!-- feedback: Incorrect. For countable nouns. -->
 
 ### Explicacion Pedagogica
 El cuantificador *little* se usa con sustantivos incontables para expresar que la cantidad es poca e insuficiente.
@@ -100,8 +100,8 @@ ________ the new law, the citizens gathered in the square to celebrate.
 
 ### Opciones
 - [ ] A) Passing <!-- feedback: Incorrect. The citizens didn't pass the law; the law was passed. -->
-- [x] B) Having heard about <!-- feedback: Correct! Active perfect participle for an action completed by the citizens. -->
-- [ ] C) Heard about <!-- feedback: Incorrect. Passive meaning. -->
+- [x] C) Having heard about <!-- feedback: Correct! Active perfect participle for an action completed by the citizens. -->
+- [ ] B) Heard about <!-- feedback: Incorrect. Passive meaning. -->
 - [ ] D) To hear about <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
@@ -141,8 +141,8 @@ Usamos *whose* para conectar a una persona con algo que le pertenece en una orac
 The teacher gave ________ student a different topic to research.
 
 ### Opciones
-- [ ] A) all <!-- feedback: Incorrect. Would require "all students". -->
-- [x] B) each <!-- feedback: Correct! "Each" refers to individuals in a group and takes a singular noun. -->
+- [ ] B) all <!-- feedback: Incorrect. Would require "all students". -->
+- [x] A) each <!-- feedback: Correct! "Each" refers to individuals in a group and takes a singular noun. -->
 - [ ] C) whole <!-- feedback: Incorrect. Not used for people in this way. -->
 - [ ] D) both <!-- feedback: Incorrect. Implies only two students. -->
 
@@ -162,10 +162,10 @@ The teacher gave ________ student a different topic to research.
 The scientist stopped ________ the sample because he noticed a contamination.
 
 ### Opciones
-- [x] A) analyzing <!-- feedback: Correct! "Stop + gerund" means ending the activity of analysis. -->
-- [ ] B) to analyze <!-- feedback: Incorrect. This would mean he made a pause in another activity *to start* analyzing. -->
-- [ ] C) analyze <!-- feedback: Incorrect. Incomplete form. -->
-- [ ] D) of analyzing <!-- feedback: Incorrect. Grammatically wrong. -->
+- [x] D) analyzing <!-- feedback: Correct! "Stop + gerund" means ending the activity of analysis. -->
+- [ ] A) to analyze <!-- feedback: Incorrect. This would mean he made a pause in another activity *to start* analyzing. -->
+- [ ] B) analyze <!-- feedback: Incorrect. Incomplete form. -->
+- [ ] C) of analyzing <!-- feedback: Incorrect. Grammatically wrong. -->
 
 ### Explicacion Pedagogica
 A nivel B2, es vital distinguir el cambio de significado con el verbo *stop*: el gerundio indica el fin de la acción que se estaba realizando.
@@ -205,9 +205,9 @@ In which sentence can the relative pronoun be **removed**?
 
 ### Opciones
 - [ ] A) The hotel which has the best reviews is expensive. <!-- feedback: Incorrect. "Which" is the subject. -->
-- [x] B) The tour which I booked was excellent. <!-- feedback: Correct! "Which" is the object of "booked". -->
-- [ ] C) The guide, who was very kind, spoke four languages. <!-- feedback: Incorrect. Cannot omit in non-defining clauses. -->
-- [ ] D) The museum whose director I met is closed today. <!-- feedback: Incorrect. "Whose" is never omitted. -->
+- [x] D) The tour which I booked was excellent. <!-- feedback: Correct! "Which" is the object of "booked". -->
+- [ ] B) The guide, who was very kind, spoke four languages. <!-- feedback: Incorrect. Cannot omit in non-defining clauses. -->
+- [ ] C) The museum whose director I met is closed today. <!-- feedback: Incorrect. "Whose" is never omitted. -->
 
 ### Explicacion Pedagogica
 Solo podemos omitir el pronombre relativo en oraciones especificativas cuando este funciona como objeto de la cláusula subordinada.
@@ -226,9 +226,9 @@ Identify the error in this paragraph:
 "Innovation involves **to take** (A) risks. Every **scientist** (B) knows that. The laboratory **where** (C) we work is well-equipped, providing **all** (D) the necessary tools."
 
 ### Opciones
-- [x] A) to take <!-- feedback: Correct! "Involve" must be followed by a gerund: "involves taking". -->
-- [ ] B) scientist <!-- feedback: Incorrect. "Every" is correctly followed by a singular noun. -->
-- [ ] C) where <!-- feedback: Incorrect. Correct use for place. -->
+- [x] C) to take <!-- feedback: Correct! "Involve" must be followed by a gerund: "involves taking". -->
+- [ ] A) scientist <!-- feedback: Incorrect. "Every" is correctly followed by a singular noun. -->
+- [ ] B) where <!-- feedback: Incorrect. Correct use for place. -->
 - [ ] D) all <!-- feedback: Incorrect. Correct use for uncountable "tools" (or countable plural). -->
 
 ### Explicacion Pedagogica
@@ -247,8 +247,8 @@ El verbo *involve* (involucrar) requiere gramaticalmente un gerundio (*-ing*), n
 Which sentence is the most formal way to describe a historical artifact?
 
 ### Opciones
-- [ ] A) We found an artifact that was buried in the sand. <!-- feedback: Incorrect. Simple relative clause. -->
-- [x] B) Found in the sand, the artifact was taken to the museum. <!-- feedback: Correct! Uses a participle clause for a formal and concise tone. -->
+- [ ] B) We found an artifact that was buried in the sand. <!-- feedback: Incorrect. Simple relative clause. -->
+- [x] A) Found in the sand, the artifact was taken to the museum. <!-- feedback: Correct! Uses a participle clause for a formal and concise tone. -->
 - [ ] C) The artifact was found in the sand and people took it to the museum. <!-- feedback: Incorrect. Too informal. -->
 - [ ] D) Having found in the sand, the artifact went to the museum. <!-- feedback: Incorrect. Grammatically wrong (active perfect participle). -->
 

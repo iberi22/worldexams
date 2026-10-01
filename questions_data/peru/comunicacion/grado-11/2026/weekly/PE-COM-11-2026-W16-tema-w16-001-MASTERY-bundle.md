@@ -33,9 +33,9 @@ creador: "Jules-Agent"
 ¿Quién es el célebre autor peruano decimonónico que creó el género híbrido de la "tradición", caracterizado por fundir de manera amena la anécdota histórica, la ficción y el humor criollo limeño?
 
 ### Opciones
-- [ ] A) Manuel González Prada.
+- [ ] B) Manuel González Prada.
   <!-- feedback: Incorrecto. González Prada es el máximo exponente del Realismo peruano, conocido por sus ensayos y críticas sociales ácidas. -->
-- [x] B) Ricardo Palma.
+- [x] A) Ricardo Palma.
   <!-- feedback: ¡Correcto! Ricardo Palma es el creador indiscutible de las "Tradiciones peruanas", obra cumbre del Romanticismo histórico de nuestro país. -->
 - [ ] C) Abraham Valdelomar.
   <!-- feedback: Incorrecto. Valdelomar pertenece al movimiento Colónida e introdujo el cuento criollo modernista a inicios del siglo XX. -->
@@ -59,9 +59,9 @@ Ricardo Palma consolidó un subgénero narrativo netamente peruano: la tradició
 ### Opciones
 - [ ] A) La revolución emancipadora liderada por Don José de San Martín en 1821.
   <!-- feedback: Incorrecto. Este suceso dio origen a la República, mucho antes del surgimiento del Realismo. -->
-- [x] B) La Guerra del Pacífico (o Guerra con Chile) y la consecuente ocupación militar de Lima en la década de 1880.
+- [x] C) La Guerra del Pacífico (o Guerra con Chile) y la consecuente ocupación militar de Lima en la década de 1880.
   <!-- feedback: ¡Correcto! El desastre de la Guerra del Pacífico sumió al Perú en una crisis moral y material que sepultó el idealismo romántico, dando paso a la mirada crítica del Realismo. -->
-- [ ] C) La rebelión indígena del cacique Túpac Amaru II en el Cusco colonial de 1780.
+- [ ] B) La rebelión indígena del cacique Túpac Amaru II en el Cusco colonial de 1780.
   <!-- feedback: Incorrecto. Este suceso corresponde al periodo de la literatura de la Emancipación o asimilación de la Colonia tardía. -->
 - [ ] D) El auge económico de la era del guano y la prosperidad falaz del gobierno de Ramón Castilla.
   <!-- feedback: Incorrecto. La prosperidad falaz coincidió con el apogeo del Romanticismo peruano, no del Realismo. -->
@@ -84,9 +84,9 @@ La debacle militar y social de la Guerra del Pacífico expuso las profundas frac
 ### Opciones
 - [ ] A) Un llamado nostálgico a restaurar los antiguos valores de los terratenientes coloniales limeños.
   <!-- feedback: Incorrecto. González Prada ataca ferozmente el heroismo caduco de la aristocracia colonial limeña. -->
-- [x] B) Una arenga revolucionaria que exige el relevo generacional y moral para reconstruir la nación peruana tras la derrota bélica.
+- [x] C) Una arenga revolucionaria que exige el relevo generacional y moral para reconstruir la nación peruana tras la derrota bélica.
   <!-- feedback: ¡Correcto! El autor exhorta a la juventud a asumir el liderazgo activo del país frente al fracaso ético e intelectual de la vieja clase política corrupta. -->
-- [ ] C) Una recomendación agronómica para renovar los campos de cultivo de algodón en la costa norte.
+- [ ] B) Una recomendación agronómica para renovar los campos de cultivo de algodón en la costa norte.
   <!-- feedback: Incorrecto. Las metáforas de árboles y frutos son puramente literarias y políticas; no aluden a la agricultura física agraria. -->
 - [ ] D) Una apología de la literatura romántica de Ricardo Palma para olvidar los dolores de la guerra pasada.
   <!-- feedback: Incorrecto. González Prada fue un detractor del costumbrismo romántico y defendió un realismo objetivo y comprometido con el cambio. -->
@@ -108,11 +108,11 @@ En la tradición *Al rincón, quita-calzón*, ambientada en una escuela religios
 ### Opciones
 - [ ] A) El fomento ciego de la sumisión incondicional de los niños ante las autoridades del clero español.
   <!-- feedback: Incorrecto. La tradición destaca precisamente lo contrario: el valor del cuestionamiento y el talento del niño frente a la rigidez clerical. -->
-- [x] B) La valoración de la agudeza intelectual, la picardía y la rebeldía inteligente del estudiante andino criollo.
+- [x] D) La valoración de la agudeza intelectual, la picardía y la rebeldía inteligente del estudiante andino criollo.
   <!-- feedback: ¡Correcto! Palma ensalza el ingenio y el talento innato del niño que desafía la pedagogía restrictiva tradicional, logrando el perdón y patrocinio del obispo asombrado. -->
-- [ ] C) La necesidad de expulsar de forma definitiva a todos los niños de los colegios nacionales peruanos.
+- [ ] B) La necesidad de expulsar de forma definitiva a todos los niños de los colegios nacionales peruanos.
   <!-- feedback: Incorrecto. El niño no es expulsado, sino que se convierte en el alumno predilecto y protegido del obispo. -->
-- [ ] D) El triunfo de la teología escolástica tradicional sobre cualquier asomo de pensamiento racional o moderno.
+- [ ] C) El triunfo de la teología escolástica tradicional sobre cualquier asomo de pensamiento racional o moderno.
   <!-- feedback: Incorrecto. El niño expone las contradicciones de la enseñanza dogmática de forma lógica y divertida, ganándose el respeto intelectual del obispo. -->
 
 ### Explicación Pedagógica
@@ -133,9 +133,9 @@ A partir del texto, ¿cuál es el cambio metodológico y social fundamental que 
 ### Opciones
 - [ ] A) Mantener la idealización poética del indio presentándolo como un guerrero incaico con armadura de oro europeo.
   <!-- feedback: Incorrecto. Esto es lo que hacía el romanticismo o indigenismo romántico decimonónico; el realismo denunciaba abusos concretos del presente. -->
-- [ ] B) Omitir por completo la presencia indígena para centrarse exclusivamente en la vida bohemia de la aristocracia limeña.
+- [ ] C) Omitir por completo la presencia indígena para centrarse exclusivamente en la vida bohemia de la aristocracia limeña.
   <!-- feedback: Incorrecto. Al contrario, el Realismo visibilizó el problema del indio como la esencia misma de la reconstrucción nacional. -->
-- [x] C) Denunciar con verismo las condiciones materiales de opresión social y económica que sufría el indio en los pueblos del interior andino.
+- [x] B) Denunciar con verismo las condiciones materiales de opresión social y económica que sufría el indio en los pueblos del interior andino.
   <!-- feedback: ¡Correcto! El Realismo sitúa al indio en su dimensión social e histórica real de explotación agraria y civil, planteando la educación y la reforma de tierras como soluciones. -->
 - [ ] D) Sostener que la salvación del indio dependía únicamente de rezar oraciones coloniales devotas en latín.
   <!-- feedback: Incorrecto. El Realismo, marcadamente anticlerical, denunció que los curas eran parte activa del abuso sistemático del andino. -->
@@ -181,9 +181,9 @@ Si *Aves sin nido* (1889) retrata los abusos sistemáticos contra los esposos Yu
 ### Opciones
 - [ ] A) El uso de una prosa poética refinada dedicada a describir la belleza idílica de las cordilleras nevadas de Cusco.
   <!-- feedback: Incorrecto. Aunque describe el paisaje, su objetivo central es la denuncia de la corrupción institucional, no la mera contemplación estética. -->
-- [ ] B) La presencia de una historia de amor trágica e imposible entre jóvenes que resulta ser un incesto involuntario de origen clerical.
+- [ ] C) La presencia de una historia de amor trágica e imposible entre jóvenes que resulta ser un incesto involuntario de origen clerical.
   <!-- feedback: Incorrecto. El amor trágico es un recurso argumental melodramático, pero el núcleo realista reside en la denuncia sistémica social de los abusos. -->
-- [x] C) La exposición descarnada de la colusión del cura, el juez y el gobernador para esquilmar económicamente a los indios del ande.
+- [x] B) La exposición descarnada de la colusión del cura, el juez y el gobernador para esquilmar económicamente a los indios del ande.
   <!-- feedback: ¡Correcto! La denuncia verídica de la corrupción estructural andina y la desmitificación del clero son los pilares metodológicos que encasillan la novela en el Realismo militante. -->
 - [ ] D) La exaltación de las antiguas hazañas guerreras del imperio incaico durante el reinado de Huayna Cápac.
   <!-- feedback: Incorrecto. La novela transcurre en la República contemporánea a la autora; no es una recreación histórica de la monarquía inca. -->
@@ -208,9 +208,9 @@ Si los estudiantes redactan un ensayo de crítica social sobre la corrupción mu
   <!-- feedback: Incorrecto. Este estilo costumbrista y lúdico corresponde a Ricardo Palma, no a la retórica combativa de González Prada. -->
 - [ ] B) Un poema modernista en versos libres que exalte la musicalidad del oleaje de la playa de Huanchaco.
   <!-- feedback: Incorrecto. Esto sería una composición modernista estética o lírica; no responde a la prosa ensayística del realismo crítico. -->
-- [x] C) Una prosa directa, analítica y fustigadora que emplee analogías científicas y denuncie de forma documentada las irregularidades administrativas.
+- [x] D) Una prosa directa, analítica y fustigadora que emplee analogías científicas y denuncie de forma documentada las irregularidades administrativas.
   <!-- feedback: ¡Correcto! La prosa de González Prada es directa, racional y contundente; propugna el uso del análisis riguroso para desterrar los males sociales. -->
-- [ ] D) Una apología teológica que justifique la corrupción como un castigo divino inevitable de la providencia andina.
+- [ ] C) Una apología teológica que justifique la corrupción como un castigo divino inevitable de la providencia andina.
   <!-- feedback: Incorrecto. González Prada era radicalmente librepensador y positivista, rechazando interpretaciones místicas del quehacer cívico. -->
 
 ### Explicación Pedagógica
@@ -233,9 +233,9 @@ La transferencia de modelos retóricos literarios exige diferenciar el costumbri
   <!-- feedback: Incorrecto. El autor rechaza la tutela clerical que juzga opresiva e inútil para la solución del problema del indio. -->
 - [ ] B) Imprimir miles de cartillas de alfabetización en castellano sin alterar la estructura feudal de propiedad de las haciendas andinas.
   <!-- feedback: Incorrecto. Para González Prada, la educación aislada del problema de la tierra es un paliativo que no resuelve la servidumbre económica. -->
-- [x] C) Implementar una reforma agraria redistributiva que otorgue títulos de propiedad comunales e individuales del suelo a los agricultores campesinos.
+- [x] D) Implementar una reforma agraria redistributiva que otorgue títulos de propiedad comunales e individuales del suelo a los agricultores campesinos.
   <!-- feedback: ¡Correcto! Reivindica el acceso directo a la tierra como la única solución estructural para emancipar materialmente al indio del gamonalismo feudal. -->
-- [ ] D) Prohibir que los campesinos altoandinos utilicen calzado de suela blanda durante sus faenas diarias de labranza.
+- [ ] C) Prohibir que los campesinos altoandinos utilicen calzado de suela blanda durante sus faenas diarias de labranza.
   <!-- feedback: Incorrecto. No guarda relación con el debate de la tierra ni con la reivindicación social y económica andina planteada. -->
 
 ### Explicación Pedagógica
@@ -257,9 +257,9 @@ El alumno asocia las tesis decimonónicas realistas con propuestas históricas d
   <!-- feedback: Incorrecto. Esto es precisamente lo que Palma evita en la tradición para no aburrir al lector criollo. -->
 - [ ] B) Utilizar exclusivamente la lengua latina para dar un aire sagrado a los pleitos coloniales de los oidores.
   <!-- feedback: Incorrecto. Palma escribe en un castellano vivo, fluido, sazonado con giros lingüísticos de Lima. -->
-- [x] C) Intercalar la crónica de datos históricos ciertos con diálogos chispeantes, anécdotas íntimas inventadas, chismes de alcoba y humor criollo de época.
+- [x] D) Intercalar la crónica de datos históricos ciertos con diálogos chispeantes, anécdotas íntimas inventadas, chismes de alcoba y humor criollo de época.
   <!-- feedback: ¡Correcto! La fuerza de la tradición estriba en dinamizar la historia oficial mediante la ficción íntima y el humor picaresco criollo andino. -->
-- [ ] D) Sostener que todos los personajes históricos peruanos fueron santos inmaculados que jamás cometieron errores terrenales.
+- [ ] C) Sostener que todos los personajes históricos peruanos fueron santos inmaculados que jamás cometieron errores terrenales.
   <!-- feedback: Incorrecto. Palma desmitifica a las figuras históricas, revelando sus vicios, picardías y debilidades de forma irónica. -->
 
 ### Explicación Pedagógica
@@ -280,9 +280,9 @@ La tradición como formato romántico peruano democratiza la historia oficial al
 ### Opciones
 - [ ] A) El hipérbaton extremo; busca desordenar la sintaxis de la frase para confundir deliberadamente a los censores limeños de la posguerra.
   <!-- feedback: Incorrecto. El orden sintáctico es claro y directo; no busca confundir, sino convencer de forma explícita. -->
-- [x] B) La antítesis simétrica; busca polarizar moralmente a los ciudadanos peruanos confrontando de forma directa las conductas corruptas con las virtuosas.
+- [x] C) La antítesis simétrica; busca polarizar moralmente a los ciudadanos peruanos confrontando de forma directa las conductas corruptas con las virtuosas.
   <!-- feedback: ¡Correcto! González Prada utiliza la antítesis ("opresor/oprimido", "mentira/verdad") para marcar una línea divisoria ética tajante que remueva la conciencia civil del lector. -->
-- [ ] C) La aliteración acústica; busca imitar los sonidos metálicos de los cañones de la Guerra del Pacífico mediante la repetición de consonantes vibrantes.
+- [ ] B) La aliteración acústica; busca imitar los sonidos metálicos de los cañones de la Guerra del Pacífico mediante la repetición de consonantes vibrantes.
   <!-- feedback: Incorrecto. No busca efectos onomatopéyicos acústicos, sino un contraste conceptual lógico de ideas morales. -->
 - [ ] D) El epíteto redundante; busca decorar el texto con adjetivos decorativos que oculten el sentido trágico de la derrota bélica.
   <!-- feedback: Incorrecto. Su prosa huye del adorno floral romántico y de la elusión de la tragedia patria. -->
@@ -302,9 +302,9 @@ La antítesis es un recurso estilístico clave de la retórica realista. Gonzál
 Al analizar de qué manera la literatura romántica de Ricardo Palma asimila la figura del mártir y poeta Mariano Melgar, se deduce que Palma destaca principalmente:
 
 ### Opciones
-- [ ] A) Su rol como científico positivista precursor del estudio de la termodinámica volcánica en Arequipa.
+- [ ] B) Su rol como científico positivista precursor del estudio de la termodinámica volcánica en Arequipa.
   <!-- feedback: Incorrecto. Melgar fue un poeta y mártir; la ciencia del siglo XIX es ajena a su mitificación lírica romántica. -->
-- [x] B) Su consagración como el héroe romántico peruano por excelencia, que unificó el dolor del amor imposible por Silvia con el sacrificio patriótico por la libertad en la batalla de Umachiri.
+- [x] A) Su consagración como el héroe romántico peruano por excelencia, que unificó el dolor del amor imposible por Silvia con el sacrificio patriótico por la libertad en la batalla de Umachiri.
   <!-- feedback: ¡Correcto! El romanticismo de Palma magnifica el destino trágico de Melgar como el arquetipo del poeta patriota que ofrenda su vida por el ideal de libertad americana y el dolor del desamor. -->
 - [ ] C) El hecho de que Melgar odiaba los cantos populares quechuas y buscaba imponer la lírica francesa en la sierra sur.
   <!-- feedback: Incorrecto. Melgar creó el yaraví andino fusionando el harawi quechua con la poesía hispana; Palma celebra esta herencia mestiza. -->
@@ -327,9 +327,9 @@ La asimilación romántica de las figuras patrias busca consagrar mitos de ident
 A partir de este dato, ¿cuál es la contradicción o paradoja estética que se manifiesta en la producción creadora del máximo realista peruano?
 
 ### Opciones
-- [ ] A) Exigir en sus ensayos el rechazo a cualquier influencia científica andina y refugiarse en la teología mística colonial.
+- [ ] B) Exigir en sus ensayos el rechazo a cualquier influencia científica andina y refugiarse en la teología mística colonial.
   <!-- feedback: Incorrecto. El autor abogó incansablemente por el racionalismo científico y el positivismo contra la teología. -->
-- [x] B) Propugnar en sus ensayos una ruptura total con el pasado europeo colonial y, simultáneamente, recurrir en su poesía a estructuras métricas medievales de origen francés e italiano para encauzar su voz satírica.
+- [x] A) Propugnar en sus ensayos una ruptura total con el pasado europeo colonial y, simultáneamente, recurrir en su poesía a estructuras métricas medievales de origen francés e italiano para encauzar su voz satírica.
   <!-- feedback: ¡Correcto! Existe una estimulante paradoja entre su discurso político modernizador anti-tradicionalista y su rigor formal de orfebrería métrica clásica de raigambre medieval europea. -->
 - [ ] C) Afirmar que la poesía peruana carecía de valor para luego dedicarse a componer exclusivamente yaravíes quechuas en Cusco.
   <!-- feedback: Incorrecto. Sus poemas utilizaron formas líricas complejas europeas de vanguardia y neoclásicas, no yaravíes folclóricos tradicionales del sur. -->
@@ -354,9 +354,9 @@ El análisis del perfil estético de un autor exige que el estudiante integre co
 ### Opciones
 - [ ] A) Determinar si Ricardo Palma inventó por completo la existencia de la ciudad de Lima en el siglo XIX.
   <!-- feedback: Incorrecto. La existencia geográfica e histórica de Lima no está en tela de juicio en el debate literario. -->
-- [ ] B) Comprobar si los virreyes españoles sabían volar por los cielos de la sierra andina de forma milagrosa.
+- [ ] C) Comprobar si los virreyes españoles sabían volar por los cielos de la sierra andina de forma milagrosa.
   <!-- feedback: Incorrecto. Se debate la veracidad costumbrista del retrato social, no fenómenos fantásticos de levitación. -->
-- [x] C) Evaluar la tensión entre el rigor historiográfico fidedigno y la recreación nostálgica costumbrista de las relaciones sociales de la Colonia.
+- [x] B) Evaluar la tensión entre el rigor historiográfico fidedigno y la recreación nostálgica costumbrista de las relaciones sociales de la Colonia.
   <!-- feedback: ¡Correcto! El debate reside en si la idealización romántica de Palma distorsiona las injusticias reales del virreinato (esclavitud, exclusión) o si debe aceptarse llanamente como una rica ficción literaria de identidad nacional. -->
 - [ ] D) Demostrar que los manuales de historia del Perú son infinitamente más divertidos que cualquier tradición de Ricardo Palma.
   <!-- feedback: Incorrecto. Tradicionalmente ocurre lo opuesto: la prosa ágil de Palma resulta mucho más atractiva para el lector general que las áridas crónicas oficiales del siglo XIX. -->
@@ -403,9 +403,9 @@ La evaluación comparativa de poéticas permite al alumno mapear las grandes cor
 A partir del fragmento, ¿cuál de los siguientes enunciados define mejor el aporte ideológico de Mercedes Cabello de Carbonera al Realismo peruano?
 
 ### Opciones
-- [ ] A) Validar el romanticismo folclórico limeño como el único camino para la felicidad femenina andina.
+- [ ] B) Validar el romanticismo folclórico limeño como el único camino para la felicidad femenina andina.
   <!-- feedback: Incorrecto. Cabello ataca la sensiblería del romanticismo burgués por considerarla un engaño que idiotiza a la mujer. -->
-- [x] B) Incorporar la perspectiva de género y el análisis sociológico directo de la sumisión de la mujer y el arribismo de clase como temas críticos centrales de la novela nacional realista.
+- [x] A) Incorporar la perspectiva de género y el análisis sociológico directo de la sumisión de la mujer y el arribismo de clase como temas críticos centrales de la novela nacional realista.
   <!-- feedback: ¡Correcto! Cabello y Matto de Turner introducen una aguda mirada crítica femenina sobre las estructuras oligárquicas y domésticas de dominación del Perú. -->
 - [ ] C) Recomendar que las mujeres de la alta sociedad limeña compren más vestidos importados de París para dinamizar el comercio de importación.
   <!-- feedback: Incorrecto. Su obra fustiga ácidamente la frivolidad consumista del personaje de Blanca Sol; no promueve el consumismo de lujo de modas. -->
@@ -458,11 +458,11 @@ El pensamiento evaluativo exige al alumno calibrar la vigencia del patrimonio li
 ### Opciones
 - [ ] A) Imponiendo de forma totalitaria las reglas gramaticales más áridas de España, extirpando cualquier dicho o peruanismo popular local.
   <!-- feedback: Incorrecto. Palma defendió ardientemente el uso de peruanismos frente a los puristas españoles de la Real Academia. -->
-- [x] B) Legitimando de forma literaria y escrita el habla coloquial criolla, los refranes populares andinos y el ingenio verbal limeño dentro del registro culto y literario formal del español americano.
+- [x] D) Legitimando de forma literaria y escrita el habla coloquial criolla, los refranes populares andinos y el ingenio verbal limeño dentro del registro culto y literario formal del español americano.
   <!-- feedback: ¡Correcto! La estructura tripartita de Palma unifica el archivo oficial culto con el saber lingüístico informal de la calle, dotando de prestancia literaria al español criollo del Perú. -->
-- [ ] C) Demostrando que la historia virreinal peruana solo puede ser explicada mediante versos trágicos en lengua latina clásica.
+- [ ] B) Demostrando que la historia virreinal peruana solo puede ser explicada mediante versos trágicos en lengua latina clásica.
   <!-- feedback: Incorrecto. La tradición destaca precisamente por su lenguaje ágil en prosa, alejado de las rigideces medievales latinas. -->
-- [ ] D) Obligando a los lectores peruanos a cambiar de nombre civil cada vez que leen una tradición de duendes coloniales.
+- [ ] C) Obligando a los lectores peruanos a cambiar de nombre civil cada vez que leen una tradición de duendes coloniales.
   <!-- feedback: Incorrecto. No ejerce influencia legal de cambio de nombres; es una revaloración lingüística identitaria de la lengua. -->
 
 ### Explicación Pedagógica
@@ -485,9 +485,9 @@ Al evaluar con rigor curricular los beneficios formativos complementarios de amb
   <!-- feedback: Incorrecto. Los textos no se anulan; forman un contrapeso ideal de aproximación a la historia patria. -->
 - [ ] B) Las *Tradiciones* de Palma enseñan geología descriptiva de suelos costeros, mientras que González Prada enseña teología de la orden dominica del Cusco.
   <!-- feedback: Incorrecto. Las *Tradiciones* recrean costumbrismo histórico e ingenio del habla, y González Prada es positivista y anticlerical; las temáticas asignadas son incorrectas. -->
-- [x] C) Palma consolida el sentido de identidad nacional, la picardía verbal y el aprecio nostálgico del patrimonio histórico costumbrista; en tanto, González Prada estimula el pensamiento crítico riguroso, la autocrítica cívica activa y el compromiso racional científico con la reconstrucción social.
+- [x] D) Palma consolida el sentido de identidad nacional, la picardía verbal y el aprecio nostálgico del patrimonio histórico costumbrista; en tanto, González Prada estimula el pensamiento crítico riguroso, la autocrítica cívica activa y el compromiso racional científico con la reconstrucción social.
   <!-- feedback: ¡Correcto! Se trata de una complementariedad perfecta: uno aporta el amor e ingenio de la herencia lingüística y costumbrista nacional (Palma), y el otro forja el temple ético del ciudadano comprometido con desterrar las injusticias de su presente con bases de desarrollo científico (González Prada). -->
-- [ ] D) El único beneficio real de estas lecturas es que los estudiantes aprueben de forma mecánica el examen de ingreso sin entender el significado de una sola palabra escrita.
+- [ ] C) El único beneficio real de estas lecturas es que los estudiantes aprueben de forma mecánica el examen de ingreso sin entender el significado de una sola palabra escrita.
   <!-- feedback: Incorrecto. El enfoque por competencias del CNEB busca el desarrollo integral cívico del estudiante, no el mero memorismo mecánico. -->
 
 ### Explicación Pedagógica
@@ -505,9 +505,9 @@ El estudiante demuestra capacidad de evaluación sistémica de alto nivel al con
 Al ponderar de forma crítica y argumentada la originalidad y validez histórica de la corriente del Realismo peruano, ¿cuál de los siguientes juicios valorativos constituye la síntesis más sólida y sustentada de este debate académico?
 
 ### Opciones
-- [ ] A) El Realismo peruano es una copia exacta sin originalidad del naturalismo francés, pues los personajes de Kíllac hablan en idioma francés fluido en todas las novelas de la época.
+- [ ] B) El Realismo peruano es una copia exacta sin originalidad del naturalismo francés, pues los personajes de Kíllac hablan en idioma francés fluido en todas las novelas de la época.
   <!-- feedback: Incorrecto. La obra realista peruana está profundamente arraigada en el territorio, con personajes que se expresan en castellano andino o quechua coloquial, adaptando las técnicas francesas a problemáticas peruanas autóctonas. -->
-- [x] B) Aunque adoptó técnicas de observación científica y crudeza expositiva de raigambre europea, el Realismo peruano es profundamente original al nacionalizar estas herramientas teóricas para diagnosticar el gamonalismo andino, el problema de la servidumbre indígena y las secuelas éticas de la derrota patria.
+- [x] A) Aunque adoptó técnicas de observación científica y crudeza expositiva de raigambre europea, el Realismo peruano es profundamente original al nacionalizar estas herramientas teóricas para diagnosticar el gamonalismo andino, el problema de la servidumbre indígena y las secuelas éticas de la derrota patria.
   <!-- feedback: ¡Correcto! El Realismo en el Perú adaptó el método naturalista y el rigor positivista para resolver y fustigar problemas genuinamente nacionales, fundando una literatura de tesis que inauguró la vertiente indigenista de América. -->
 - [ ] C) El Realismo peruano no existió en absoluto; fue un invento publicitario del siglo XX financiado por las empresas exportadoras de algodón de la costa norte de Trujillo.
   <!-- feedback: Incorrecto. El Realismo fue un movimiento intelectual vibrante y documentado con revistas de época (como *El Perú Ilustrado*) y obras que marcaron la historia literaria peruana de forma ineludible. -->

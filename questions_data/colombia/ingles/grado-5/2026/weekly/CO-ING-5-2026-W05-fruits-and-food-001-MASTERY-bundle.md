@@ -80,11 +80,11 @@ Differentiating between solid food and drink vocabulary in English using a simpl
 Choose the correct sentence to express a like and a dislike using "like".
 
 ### Opciones
-- [x] A) She likes apples but she does not like candy.
+- [x] C) She likes apples but she does not like candy.
   <!-- feedback: "Likes" agrees with third person singular "she" and expresses preference. -->
-- [ ] B) She like apples but she does not like candy.
+- [ ] A) She like apples but she does not like candy.
   <!-- feedback: "Like" without -s is incorrect with the singular subject "she". -->
-- [ ] C) She liking apples and she does not like candy.
+- [ ] B) She liking apples and she does not like candy.
   <!-- feedback: "Liking" is a gerund and needs an auxiliary verb to work as a main verb. -->
 - [ ] D) She likes apple and she do not like candy.
   <!-- feedback: "Apple" should be plural "apples" with the verb "likes". -->
@@ -126,13 +126,13 @@ Applying the rules for the articles "a / an / some" with countable and uncountab
 Choose the correct question a student could ask about portions.
 
 ### Opciones
-- [x] A) How many portions of fruits should I eat every day?
+- [x] D) How many portions of fruits should I eat every day?
   <!-- feedback: "How many" is used with countable plural nouns like "portions". -->
-- [ ] B) How much portions of fruits should I eat every day?
+- [ ] A) How much portions of fruits should I eat every day?
   <!-- feedback: "How much" is used with uncountable nouns, not with the countable "portions". -->
-- [ ] C) How many portion of fruits should I eat every day?
+- [ ] B) How many portion of fruits should I eat every day?
   <!-- feedback: "Portion" should be in the plural "portions" with "how many". -->
-- [ ] D) How much portion of fruits should I eat every day?
+- [ ] C) How much portion of fruits should I eat every day?
   <!-- feedback: "Portion" is countable, so "how many" is required, not "how much". -->
 
 ### Explicacion Pedagogica
@@ -149,9 +149,9 @@ Forming questions with "how many" versus "how much" for countable and uncountabl
 Which statement compares Ana's and Pedro's lunches correctly?
 
 ### Opciones
-- [x] A) Ana eats fruits as a snack, while Pedro eats a more complete meal with protein.
+- [x] B) Ana eats fruits as a snack, while Pedro eats a more complete meal with protein.
   <!-- feedback: Ana's meal is mainly fruits, while Pedro's includes chicken (protein) and salad. -->
-- [ ] B) Both Ana and Pedro eat only fruits for lunch.
+- [ ] A) Both Ana and Pedro eat only fruits for lunch.
   <!-- feedback: Pedro also eats chicken and salad, so they do not eat only fruits. -->
 - [ ] C) Ana eats chicken and salad, while Pedro eats fruits.
   <!-- feedback: The roles are reversed; Ana eats fruits and Pedro eats chicken and salad. -->
@@ -172,9 +172,9 @@ Analyzing and comparing meal compositions described in English to identify food 
 Which classification of these foods into fruits and other foods is correct?
 
 ### Opciones
-- [x] A) Fruits: apple, banana, orange. Other foods: milk, cheese, rice, carrot, tomato.
+- [x] B) Fruits: apple, banana, orange. Other foods: milk, cheese, rice, carrot, tomato.
   <!-- feedback: Apple, banana, and orange are fruits; the rest are dairy, grains, or vegetables. -->
-- [ ] B) Fruits: milk, cheese, rice, carrot, tomato.
+- [ ] A) Fruits: milk, cheese, rice, carrot, tomato.
   <!-- feedback: Milk, cheese, and rice are not fruits; carrot and tomato are vegetables. -->
 - [ ] C) Fruits: apple, banana, milk, cheese, rice.
   <!-- feedback: Milk, cheese, and rice are not fruits. -->

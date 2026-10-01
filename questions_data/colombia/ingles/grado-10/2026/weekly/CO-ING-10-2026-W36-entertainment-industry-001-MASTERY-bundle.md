@@ -36,9 +36,9 @@ This bundle explores the world of film, music, and streaming using B2-level gram
 
 ### Opciones
 - [ ] A) Hear <!-- feedback: Incorrect form. -->
-- [x] B) Hearing <!-- feedback: Correct present participle clause (Hearing = After they heard). -->
-- [ ] C) Heard <!-- feedback: Past participle suggests a passive meaning. -->
-- [ ] D) To hear <!-- feedback: Incorrect. -->
+- [x] D) Hearing <!-- feedback: Correct present participle clause (Hearing = After they heard). -->
+- [ ] B) Heard <!-- feedback: Past participle suggests a passive meaning. -->
+- [ ] C) To hear <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
 Present participle clauses (-ing) are used to describe actions that happen at the same time or immediately after the main action.
@@ -57,9 +57,9 @@ Present participle clauses (-ing) are used to describe actions that happen at th
 
 ### Opciones
 - [ ] A) Inspiring <!-- feedback: Present participle implies the film is doing the inspiring (active). -->
-- [x] B) Inspired <!-- feedback: Correct past participle clause (Inspired = Because it was inspired). -->
-- [ ] C) Inspire <!-- feedback: Incorrect form. -->
-- [ ] D) Having inspired <!-- feedback: Active perfect participle. -->
+- [x] D) Inspired <!-- feedback: Correct past participle clause (Inspired = Because it was inspired). -->
+- [ ] B) Inspire <!-- feedback: Incorrect form. -->
+- [ ] C) Having inspired <!-- feedback: Active perfect participle. -->
 
 ### Explicación Pedagógica
 Past participle clauses (-ed) are used with a passive meaning, often to show the reason or cause for the main action.
@@ -78,9 +78,9 @@ Past participle clauses (-ed) are used with a passive meaning, often to show the
 
 ### Opciones
 - [ ] A) Spent <!-- feedback: Incorrect. -->
-- [x] B) Having spent <!-- feedback: Correct perfect participle clause (Having spent = After he had spent). -->
-- [ ] C) Spending <!-- feedback: Correct but B shows the sequence better. -->
-- [ ] D) To spend <!-- feedback: Incorrect. -->
+- [x] D) Having spent <!-- feedback: Correct perfect participle clause (Having spent = After he had spent). -->
+- [ ] B) Spending <!-- feedback: Correct but B shows the sequence better. -->
+- [ ] C) To spend <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
 Perfect participle clauses (Having + past participle) are used to show that one action was completed before another.
@@ -119,8 +119,8 @@ Using present participle clauses as a more concise alternative to relative claus
 "____ by a wall of high mountains, the village in the movie seemed completely isolated."
 
 ### Opciones
-- [ ] A) Surrounding <!-- feedback: Active meaning. -->
-- [x] B) Surrounded <!-- feedback: Correct past participle clause (passive state). -->
+- [ ] B) Surrounding <!-- feedback: Active meaning. -->
+- [x] A) Surrounded <!-- feedback: Correct past participle clause (passive state). -->
 - [ ] C) Having surrounded <!-- feedback: Incorrect. -->
 - [ ] D) Being surround <!-- feedback: Incorrect. -->
 
@@ -141,8 +141,8 @@ Past participle clauses can describe a state or situation that is the result of 
 
 ### Opciones
 - [ ] A) Noted <!-- feedback: Passive meaning. -->
-- [x] B) Realizing <!-- feedback: Correct present participle clause showing the reason. -->
-- [ ] C) To realize <!-- feedback: Incorrect. -->
+- [x] C) Realizing <!-- feedback: Correct present participle clause showing the reason. -->
+- [ ] B) To realize <!-- feedback: Incorrect. -->
 - [ ] D) Having realized <!-- feedback: Also correct, emphasizing the completion of the realization. -->
 
 ### Explicación Pedagógica
@@ -162,8 +162,8 @@ Using participle clauses to express cause or reason in a professional context.
 
 ### Opciones
 - [ ] A) knowing <!-- feedback: Active meaning. -->
-- [x] B) known <!-- feedback: Correct past participle clause (known = who is known). -->
-- [ ] C) has known <!-- feedback: Incorrect. -->
+- [x] C) known <!-- feedback: Correct past participle clause (known = who is known). -->
+- [ ] B) has known <!-- feedback: Incorrect. -->
 - [ ] D) to be known <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
@@ -183,9 +183,9 @@ Past participle clauses can serve as non-defining descriptive clauses (known for
 
 ### Opciones
 - [ ] A) Discovered <!-- feedback: Possible, but B is more active. Wait, B is 'Discovering'. -->
-- [x] B) Having been discovered <!-- feedback: Correct perfect passive participle (Having been discovered = After she had been discovered). -->
-- [ ] C) Discovering <!-- feedback: Active meaning. -->
-- [ ] D) To be discovered <!-- feedback: Incorrect. -->
+- [x] D) Having been discovered <!-- feedback: Correct perfect passive participle (Having been discovered = After she had been discovered). -->
+- [ ] B) Discovering <!-- feedback: Active meaning. -->
+- [ ] C) To be discovered <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
 Perfect passive participle clauses (Having been + past participle) are used for completed passive actions.
@@ -204,8 +204,8 @@ Perfect passive participle clauses (Having been + past participle) are used for 
 
 ### Opciones
 - [ ] A) Seen <!-- feedback: Incorrect. -->
-- [x] B) Seeing <!-- feedback: Correct present participle clause (Seeing = Since they see). -->
-- [ ] C) By seeing <!-- feedback: 'By' usually shows method, not just reason. -->
+- [x] C) Seeing <!-- feedback: Correct present participle clause (Seeing = Since they see). -->
+- [ ] B) By seeing <!-- feedback: 'By' usually shows method, not just reason. -->
 - [ ] D) Having seen <!-- feedback: Also possible, but B is standard for a current situation. -->
 
 ### Explicación Pedagógica
@@ -224,10 +224,10 @@ B2 complexity: Using participle clauses to link observation to action in an indu
 "____ in specialized vaults, the original film reels are protected from humidity."
 
 ### Opciones
-- [x] A) Stored <!-- feedback: Correct past participle clause (Stored = Because they are stored). -->
-- [ ] B) Storing <!-- feedback: Active meaning. -->
-- [ ] C) Having stored <!-- feedback: Active perfect participle. -->
-- [ ] D) To store <!-- feedback: Incorrect. -->
+- [x] D) Stored <!-- feedback: Correct past participle clause (Stored = Because they are stored). -->
+- [ ] A) Storing <!-- feedback: Active meaning. -->
+- [ ] B) Having stored <!-- feedback: Active perfect participle. -->
+- [ ] C) To store <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
 Advanced B2 structure: Starting a formal sentence with a past participle clause to show condition or reason.
@@ -247,8 +247,8 @@ Advanced B2 structure: Starting a formal sentence with a past participle clause 
 ### Opciones
 - [ ] A) Writing <!-- feedback: Active meaning. -->
 - [ ] B) Written <!-- feedback: Correct but B is more sequential. -->
-- [x] C) Having been rewritten <!-- feedback: Correct perfect passive participle. -->
-- [ ] D) To be rewritten <!-- feedback: Incorrect. -->
+- [x] D) Having been rewritten <!-- feedback: Correct perfect passive participle. -->
+- [ ] C) To be rewritten <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
 Using the perfect passive participle to describe a long process of revision before a final outcome.
@@ -266,9 +266,9 @@ Using the perfect passive participle to describe a long process of revision befo
 "____ from a distance, the special effects look realistic, but ____ closely, they appear artificial."
 
 ### Opciones
-- [x] A) Viewed / examined <!-- feedback: Correct dual past participle clauses. -->
-- [ ] B) Viewing / examining <!-- feedback: Active meaning. -->
-- [ ] C) To view / to examine <!-- feedback: Incorrect. -->
+- [x] C) Viewed / examined <!-- feedback: Correct dual past participle clauses. -->
+- [ ] A) Viewing / examining <!-- feedback: Active meaning. -->
+- [ ] B) To view / to examine <!-- feedback: Incorrect. -->
 - [ ] D) Having viewed / having examined <!-- feedback: Incorrect syntax for this context. -->
 
 ### Explicación Pedagógica

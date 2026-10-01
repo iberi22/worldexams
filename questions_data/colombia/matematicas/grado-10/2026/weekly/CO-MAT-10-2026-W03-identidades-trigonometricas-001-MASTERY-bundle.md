@@ -32,11 +32,11 @@ Este bundle contiene 12 preguntas sobre **identidades-trigonometricas** para gra
 ### Enunciado
 ¿Cuál es la identidad pitagórica fundamental de la trigonometría?
 ### Opciones
-- [x] A) $\operatorname{sen}^2 x + \cos^2 x = 1$
+- [x] C) $\operatorname{sen}^2 x + \cos^2 x = 1$
   <!-- feedback: Correcto. Es la identidad pitagórica fundamental, válida para todo ángulo $x$. -->
-- [ ] B) $\operatorname{sen}^2 x - \cos^2 x = 1$
+- [ ] A) $\operatorname{sen}^2 x - \cos^2 x = 1$
   <!-- feedback: Incorrecto. La resta de los cuadrados no es $1$; equivale a $-\cos(2x)$. -->
-- [ ] C) $\operatorname{sen} x + \cos x = 1$
+- [ ] B) $\operatorname{sen} x + \cos x = 1$
   <!-- feedback: Incorrecto. Solo se cumple para valores particulares de $x$, no para todos. -->
 - [ ] D) $\operatorname{sen}^2 x \cdot \cos^2 x = 1$
   <!-- feedback: Incorrecto. El producto de los cuadrados no es constante igual a $1$. -->
@@ -52,13 +52,13 @@ La identidad pitagórica fundamental $\operatorname{sen}^2 x + \cos^2 x = 1$ se 
 ### Enunciado
 Usando la identidad pitagórica, ¿cuál es el valor de $\operatorname{sen} \theta$?
 ### Opciones
-- [x] A) $0.8$
+- [x] D) $0.8$
   <!-- feedback: Correcto. $\operatorname{sen}^2 \theta = 1 - 0.36 = 0.64$, por lo que $\operatorname{sen} \theta = 0.8$. -->
-- [ ] B) $0.4$
+- [ ] A) $0.4$
   <!-- feedback: Incorrecto. Restaste $0.6$ de $1$ sin tomar raíz cuadrada. -->
-- [ ] C) $0.6$
+- [ ] B) $0.6$
   <!-- feedback: Incorrecto. Confundiste el valor de $\cos \theta$ con el de $\operatorname{sen} \theta$. -->
-- [ ] D) $0.9$
+- [ ] C) $0.9$
   <!-- feedback: Incorrecto. No aplicaste correctamente la relación pitagórica. -->
 ### Explicacion Pedagogica
 Como $\operatorname{sen}^2 \theta + \cos^2 \theta = 1$, entonces $\operatorname{sen}^2 \theta = 1 - 0.6^2 = 0.64$ y $\operatorname{sen} \theta = 0.8$ (positivo en el primer cuadrante).
@@ -72,13 +72,13 @@ Como $\operatorname{sen}^2 \theta + \cos^2 \theta = 1$, entonces $\operatorname{
 ### Enunciado
 ¿Cuál de las siguientes expresiones es equivalente a $\tan x \cdot \cos x$?
 ### Opciones
-- [x] A) $\operatorname{sen} x$
+- [x] D) $\operatorname{sen} x$
   <!-- feedback: Correcto. $\tan x = \frac{\operatorname{sen} x}{\cos x}$, luego $\tan x \cdot \cos x = \operatorname{sen} x$. -->
-- [ ] B) $\cos x$
+- [ ] A) $\cos x$
   <!-- feedback: Incorrecto. No se cancela el coseno del numerador con el factor. -->
-- [ ] C) $1$
+- [ ] B) $1$
   <!-- feedback: Incorrecto. $1$ resulta solo si multiplicaras por $\sec x$. -->
-- [ ] D) $\tan x$
+- [ ] C) $\tan x$
   <!-- feedback: Incorrecto. No simplificaste el producto. -->
 ### Explicacion Pedagogica
 Al escribir $\tan x = \frac{\operatorname{sen} x}{\cos x}$ y multiplicar por $\cos x$, el coseno se cancela y queda $\operatorname{sen} x$.
@@ -92,9 +92,9 @@ Al escribir $\tan x = \frac{\operatorname{sen} x}{\cos x}$ y multiplicar por $\c
 ### Enunciado
 ¿Cuál es el resultado de simplificar la expresión?
 ### Opciones
-- [x] A) $1$
+- [x] B) $1$
   <!-- feedback: Correcto. Como $1 - \cos^2 x = \operatorname{sen}^2 x$, la fracción es $\frac{\operatorname{sen}^2 x}{\operatorname{sen}^2 x} = 1$. -->
-- [ ] B) $\operatorname{sen} x$
+- [ ] A) $\operatorname{sen} x$
   <!-- feedback: Incorrecto. Solo se cancelaría un factor de seno si el numerador fuera $\operatorname{sen} x$. -->
 - [ ] C) $\cos x$
   <!-- feedback: Incorrecto. El denominador no es $\cos^2 x$ sino $1 - \cos^2 x$. -->
@@ -112,9 +112,9 @@ Usando $\operatorname{sen}^2 x = 1 - \cos^2 x$, la expresión se reduce a $\frac
 ### Enunciado
 ¿Cuál es el valor numérico de la expresión para todo $x$ donde esté definida?
 ### Opciones
-- [x] A) $2$
+- [x] B) $2$
   <!-- feedback: Correcto. $\operatorname{sen} x \cdot \csc x = 1$ y $\cos x \cdot \sec x = 1$; la suma es $2$. -->
-- [ ] B) $1$
+- [ ] A) $1$
   <!-- feedback: Incorrecto. Cada producto vale $1$, pero hay dos productos. -->
 - [ ] C) $0$
   <!-- feedback: Incorrecto. Las funciones recíprocas no se anulan. -->
@@ -132,11 +132,11 @@ Por las identidades recíprocas, $\csc x = \frac{1}{\operatorname{sen} x}$ y $\s
 ### Enunciado
 ¿Cuál de las siguientes es la forma simplificada de la expresión?
 ### Opciones
-- [x] A) $\cot^2 x$
+- [x] C) $\cot^2 x$
   <!-- feedback: Correcto. $1 - \operatorname{sen}^2 x = \cos^2 x$ y $\csc^2 x = \frac{1}{\operatorname{sen}^2 x}$, luego $\frac{\cos^2 x}{\operatorname{sen}^2 x} = \cot^2 x$. -->
-- [ ] B) $\tan^2 x$
+- [ ] A) $\tan^2 x$
   <!-- feedback: Incorrecto. Sería $\frac{\operatorname{sen}^2 x}{\cos^2 x}$, la relación inversa. -->
-- [ ] C) $1$
+- [ ] B) $1$
   <!-- feedback: Incorrecto. Solo sería $1$ si ambas funciones coincidieran. -->
 - [ ] D) $\sec^2 x$
   <!-- feedback: Incorrecto. Confundiste la relación recíproca. -->
@@ -152,9 +152,9 @@ $\cos^2 x \cdot \frac{1}{\operatorname{sen}^2 x} = \frac{\cos^2 x}{\operatorname
 ### Enunciado
 ¿Cuál es el resultado de la simplificación?
 ### Opciones
-- [x] A) $\operatorname{sen} x$
+- [x] B) $\operatorname{sen} x$
   <!-- feedback: Correcto. $\sec x - \cos x = \frac{1-\cos^2 x}{\cos x} = \frac{\operatorname{sen}^2 x}{\cos x}$; al dividir por $\tan x = \frac{\operatorname{sen} x}{\cos x}$ queda $\operatorname{sen} x$. -->
-- [ ] B) $\cos x$
+- [ ] A) $\cos x$
   <!-- feedback: Incorrecto. La cancelación deja un seno, no un coseno. -->
 - [ ] C) $1$
   <!-- feedback: Incorrecto. El resultado depende del ángulo y no es constante. -->
@@ -172,11 +172,11 @@ Escribiendo $\sec x = \frac{1}{\cos x}$ y $\tan x = \frac{\operatorname{sen} x}{
 ### Enunciado
 ¿Cuál es el valor de $\tan \theta$?
 ### Opciones
-- [x] A) $\frac{3}{4}$
+- [x] C) $\frac{3}{4}$
   <!-- feedback: Correcto. $\cos \theta = \frac{4}{5}$ por Pitágoras; $\tan \theta = \frac{3/5}{4/5} = \frac{3}{4}$. -->
-- [ ] B) $\frac{4}{3}$
+- [ ] A) $\frac{4}{3}$
   <!-- feedback: Incorrecto. Invertiste la razón; ese sería el valor de $\cot \theta$. -->
-- [ ] C) $\frac{3}{5}$
+- [ ] B) $\frac{3}{5}$
   <!-- feedback: Incorrecto. Ese es el valor del seno, no de la tangente. -->
 - [ ] D) $\frac{5}{3}$
   <!-- feedback: Incorrecto. Ese es el recíproco del seno. -->
@@ -192,9 +192,9 @@ Por Pitágoras, $\cos \theta = \sqrt{1 - (3/5)^2} = \frac{4}{5}$. Entonces $\tan
 ### Enunciado
 ¿Cuál de las siguientes expresiones equivale a $\operatorname{sen}^4 x - \cos^4 x$?
 ### Opciones
-- [x] A) $\operatorname{sen}^2 x - \cos^2 x$
+- [x] B) $\operatorname{sen}^2 x - \cos^2 x$
   <!-- feedback: Correcto. Se factoriza como $(\operatorname{sen}^2 x - \cos^2 x)(\operatorname{sen}^2 x + \cos^2 x)$ y el segundo factor vale $1$. -->
-- [ ] B) $1$
+- [ ] A) $1$
   <!-- feedback: Incorrecto. La suma de cuadrados vale $1$, pero la diferencia no. -->
 - [ ] C) $\operatorname{sen}^2 x + \cos^2 x$
   <!-- feedback: Incorrecto. La factorización conserva la resta, no la suma. -->
@@ -212,13 +212,13 @@ $\operatorname{sen}^4 x - \cos^4 x = (\operatorname{sen}^2 x - \cos^2 x)(\operat
 ### Enunciado
 ¿Cuál de las siguientes ecuaciones es una identidad trigonométrica?
 ### Opciones
-- [x] A) $1 + \tan^2 x = \sec^2 x$
+- [x] D) $1 + \tan^2 x = \sec^2 x$
   <!-- feedback: Correcto. Al dividir $\operatorname{sen}^2 x + \cos^2 x = 1$ entre $\cos^2 x$ se obtiene esta identidad. -->
-- [ ] B) $\operatorname{sen}(2x) = 2\operatorname{sen} x$
+- [ ] A) $\operatorname{sen}(2x) = 2\operatorname{sen} x$
   <!-- feedback: Incorrecto. Solo es cierta para ángulos particulares, no para todos. -->
-- [ ] C) $\operatorname{sen}^2 x - \cos^2 x = 1$
+- [ ] B) $\operatorname{sen}^2 x - \cos^2 x = 1$
   <!-- feedback: Incorrecto. Eso equivale a $-\cos(2x)$, no a $1$. -->
-- [ ] D) $\operatorname{sen} x = 1 - \cos x$
+- [ ] C) $\operatorname{sen} x = 1 - \cos x$
   <!-- feedback: Incorrecto. No se cumple de forma general. -->
 ### Explicacion Pedagogica
 La identidad $1 + \tan^2 x = \sec^2 x$ se obtiene de dividir la identidad pitagórica entre $\cos^2 x$. Las demás son ecuaciones falsas en general.
@@ -232,13 +232,13 @@ La identidad $1 + \tan^2 x = \sec^2 x$ se obtiene de dividir la identidad pitag�
 ### Enunciado
 Usando identidades, ¿cuál es el valor de $\operatorname{sen}(2x)$?
 ### Opciones
-- [x] A) $0.44$
+- [x] D) $0.44$
   <!-- feedback: Correcto. $(\operatorname{sen} x + \cos x)^2 = 1 + \operatorname{sen}(2x) = 1.44$, luego $\operatorname{sen}(2x) = 0.44$. -->
-- [ ] B) $0.6$
+- [ ] A) $0.6$
   <!-- feedback: Incorrecto. No elevaste la suma al cuadrado correctamente. -->
-- [ ] C) $0.2$
+- [ ] B) $0.2$
   <!-- feedback: Incorrecto. Restaste mal el $1$. -->
-- [ ] D) $1.44$
+- [ ] C) $1.44$
   <!-- feedback: Incorrecto. $1.44$ es la suma al cuadrado, no el valor de $\operatorname{sen}(2x)$. -->
 ### Explicacion Pedagogica
 Al elevar al cuadrado: $\operatorname{sen}^2 x + \cos^2 x + 2\operatorname{sen} x \cos x = 1 + \operatorname{sen}(2x) = 1.2^2 = 1.44$, entonces $\operatorname{sen}(2x) = 0.44$.
@@ -252,13 +252,13 @@ Al elevar al cuadrado: $\operatorname{sen}^2 x + \cos^2 x + 2\operatorname{sen} 
 ### Enunciado
 ¿Cuál es el valor de $\operatorname{sen} \theta$?
 ### Opciones
-- [x] A) $\frac{\sqrt{3}}{2}$
+- [x] D) $\frac{\sqrt{3}}{2}$
   <!-- feedback: Correcto. $\sec^2 \theta - \tan^2 \theta = 1$, luego $1 + \cos \theta = 1.5$ implica $\cos \theta = 0.5$, $\theta = 60^\circ$ y $\operatorname{sen} 60^\circ = \frac{\sqrt{3}}{2}$. -->
-- [ ] B) $\frac{1}{2}$
+- [ ] A) $\frac{1}{2}$
   <!-- feedback: Incorrecto. $\frac{1}{2}$ es el coseno de $60^\circ$, no su seno. -->
-- [ ] C) $\frac{\sqrt{2}}{2}$
+- [ ] B) $\frac{\sqrt{2}}{2}$
   <!-- feedback: Incorrecto. Corresponde a un ángulo de $45^\circ$. -->
-- [ ] D) $1$
+- [ ] C) $1$
   <!-- feedback: Incorrecto. El seno es $1$ solo para $\theta = 90^\circ$, que no es agudo aquí. -->
 ### Explicacion Pedagogica
 La identidad $\sec^2 \theta - \tan^2 \theta = 1$ reduce la ecuación a $\cos \theta = 0.5$, es decir $\theta = 60^\circ$, cuyo seno es $\frac{\sqrt{3}}{2}$.

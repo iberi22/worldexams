@@ -34,11 +34,11 @@ Unidades de masa (gramo, kilogramo, libra) y de capacidad (litro, mililitro), co
 ¿Cuál es la unidad de medida de masa del Sistema Internacional más adecuada para expresar la cantidad de manzanilla contenida en una bolsa familiar?
 
 ### Opciones
-- [x] A) El gramo (g), porque es la unidad básica del SI para masas pequeñas.
+- [x] C) El gramo (g), porque es la unidad básica del SI para masas pequeñas.
   <!-- feedback: El gramo es submúltiplo del kilogramo y resulta práctico para expresar la masa de bolsas de hierbas. -->
-- [ ] B) El centímetro (cm), porque mide la longitud de la bolsa.
+- [ ] A) El centímetro (cm), porque mide la longitud de la bolsa.
   <!-- feedback: El centímetro es unidad de longitud, no de masa. -->
-- [ ] C) El litro (L), porque mide la capacidad del empaque.
+- [ ] B) El litro (L), porque mide la capacidad del empaque.
   <!-- feedback: El litro mide volumen de líquidos, no masa de sólidos. -->
 - [ ] D) La hora (h), porque la masa cambia con el tiempo.
   <!-- feedback: La hora es unidad de tiempo y la masa no se mide en horas. -->
@@ -57,11 +57,11 @@ En el Sistema Internacional de Unidades (SI), la masa se expresa en kilogramos (
 ¿Cuál es la masa total, en gramos, que transporta el campesino?
 
 ### Opciones
-- [x] A) 4.750 gramos.
+- [x] C) 4.750 gramos.
   <!-- feedback: 3,5 kg = 3.500 g. Sumando 1.250 g: 3.500 + 1.250 = 4.750 g. -->
-- [ ] B) 3.625 gramos.
+- [ ] A) 3.625 gramos.
   <!-- feedback: Error al convertir 3,5 kg como 3.500 g y sumarlos incorrectamente. -->
-- [ ] C) 4.250 gramos.
+- [ ] B) 4.250 gramos.
   <!-- feedback: No se sumó el kilogramo completo (faltan 500 g). -->
 - [ ] D) 5.750 gramos.
   <!-- feedback: Se sumaron los dos valores como si ambos estuvieran en kg sin convertir. -->
@@ -80,13 +80,13 @@ Para sumar medidas de masa con unidades distintas se convierten todas a una mism
 ¿Cuántos vasos de 250 mL se pueden llenar completamente con el tanque de 15 L?
 
 ### Opciones
-- [x] A) 60 vasos.
+- [x] D) 60 vasos.
   <!-- feedback: 15 L = 15.000 mL. Dividiendo 15.000 mL entre 250 mL por vaso: 15.000 / 250 = 60 vasos. -->
-- [ ] B) 15 vasos.
+- [ ] A) 15 vasos.
   <!-- feedback: Se ignoró la conversión a mililitros y se dividió entre 1. -->
-- [ ] C) 6 vasos.
+- [ ] B) 6 vasos.
   <!-- feedback: 6 corresponde a dividir 15 entre 2,5, lo cual no aplica a mililitros. -->
-- [ ] D) 150 vasos.
+- [ ] C) 150 vasos.
   <!-- feedback: Corresponde a multiplicar 15 por 10 sin convertir unidades. -->
 
 ### Explicacion Pedagogica
@@ -103,11 +103,11 @@ La conversión de capacidad se realiza con la equivalencia 1 L = 1.000 mL. Para 
 Considerando que 1 libra equivale aproximadamente a 0,4536 kg, ¿cuántos kilogramos debe despachar el tendero en total?
 
 ### Opciones
-- [x] A) 4,3 lb ≈ 1,95 kg, que redondeado se aproxima a 1,95 kg.
+- [x] C) 4,3 lb ≈ 1,95 kg, que redondeado se aproxima a 1,95 kg.
   <!-- feedback: 2,5 + 1,8 = 4,3 lb. 4,3 x 0,4536 ≈ 1,95 kg. -->
-- [ ] B) 4,3 kg exactos.
+- [ ] A) 4,3 kg exactos.
   <!-- feedback: Las libras y los kilogramos no son la misma unidad; 4,3 lb no equivalen a 4,3 kg. -->
-- [ ] C) 4,3 lb ≈ 4,3 kg, porque la libra es casi igual al kilogramo.
+- [ ] B) 4,3 lb ≈ 4,3 kg, porque la libra es casi igual al kilogramo.
   <!-- feedback: 1 lb es menor que 1 kg, así que 4,3 lb son menos de 4,3 kg. -->
 - [ ] D) 9,3 kg por error de suma.
   <!-- feedback: 9,3 kg surge de sumar 2,5 + 1,8 + 5, lo cual no aparece en el enunciado. -->
@@ -126,13 +126,13 @@ Para convertir de libras a kilogramos se multiplica por 0,4536. Así, 4,3 lb equ
 Si se usa una jarra cuya gran medida aparece marcada en mililitros, ¿qué cantidad de líquido total debe verterse?
 
 ### Opciones
-- [x] A) 1.100 mL.
+- [x] D) 1.100 mL.
   <!-- feedback: 0,75 L + 0,35 L = 1,10 L. Como 1 L = 1.000 mL, entonces 1,10 L = 1.100 mL. -->
-- [ ] B) 1,10 mL.
+- [ ] A) 1,10 mL.
   <!-- feedback: 1,10 mL es un valor muy pequeño: faltó multiplicar por 1.000. -->
-- [ ] C) 110 mL.
+- [ ] B) 110 mL.
   <!-- feedback: 110 mL es 1,10 L dividido entre 10, no multiplicado por 1.000. -->
-- [ ] D) 11.000 mL.
+- [ ] C) 11.000 mL.
   <!-- feedback: 11.000 mL equivalen a 11 L, no a 1,10 L. -->
 
 ### Explicacion Pedagogica
@@ -149,9 +149,9 @@ La suma de las dos capacidades es 1,10 L. Al convertir a mililitros se multiplic
 Si el primero registró 0,85 L y el segundo registró 0,850 L, ¿qué se puede concluir sobre la exactitud de ambas mediciones?
 
 ### Opciones
-- [x] A) Las dos representan la misma cantidad: 850 mL. La cantidad de cifras decimales indica precisión de instrumento.
+- [x] B) Las dos representan la misma cantidad: 850 mL. La cantidad de cifras decimales indica precisión de instrumento.
   <!-- feedback: 0,85 L y 0,850 L son equivalentes (850 mL); la cantidad de ceros indica la precisión del instrumento. -->
-- [ ] B) 0,850 L es mayor que 0,85 L porque tiene más cifras decimales.
+- [ ] A) 0,850 L es mayor que 0,85 L porque tiene más cifras decimales.
   <!-- feedback: Más decimales no implica mayor valor; 0,850 L = 0,85 L. -->
 - [ ] C) 0,85 L es mayor porque tiene menos ceros a la derecha.
   <!-- feedback: La cantidad de ceros a la derecha no modifica el valor del número decimal. -->
@@ -197,11 +197,11 @@ Si el mercado vende bultos de 25 kg, ¿cuántos bultos debe comprar la nutricion
 ### Opciones
 - [ ] A) 1 bulto, ya que 43,75 kg se aproxima a 25 kg.
   <!-- feedback: 43,75 kg superan los 25 kg de un bulto; faltarían 18,75 kg de alimento. -->
-- [x] B) 2 bultos.
+- [x] D) 2 bultos.
   <!-- feedback: 2 bultos dan 50 kg, suficientes para 43,75 kg. -->
-- [ ] C) 3 bultos.
+- [ ] B) 3 bultos.
   <!-- feedback: 3 bultos equivalen a 75 kg, mucho más de lo necesario. -->
-- [ ] D) 1 bulto ajustado a la baja, aunque falte alimento.
+- [ ] C) 1 bulto ajustado a la baja, aunque falte alimento.
   <!-- feedback: Ajustar a la baja deja 43,75 - 25 = 18,75 kg sin cubrir; faltaría alimento para los estudiantes. -->
 
 ### Explicacion Pedagogica

@@ -52,9 +52,9 @@ La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^
 ### Enunciado
 ¿Cuál es el valor del límite $\lim_{x \to 3} \frac{x^2 - 9}{x - 3}$?
 ### Opciones
-- [x] A) 6
+- [x] B) 6
   <!-- feedback: Correcto. Factorizando $x^2 - 9 = (x - 3)(x + 3)$, se simplifica $x + 3$, dando 3 + 3 = 6. -->
-- [ ] B) 3
+- [ ] A) 3
   <!-- feedback: Incorrecto. Evaluaste directamente sin cancelar la indeterminación. -->
 - [ ] C) 0
   <!-- feedback: Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite. -->
@@ -92,11 +92,11 @@ La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^
 ### Enunciado
 ¿Cuál es el valor del límite $\lim_{x \to 5} \frac{x^2 - 25}{x - 5}$?
 ### Opciones
-- [x] A) 10
+- [x] C) 10
   <!-- feedback: Correcto. Factorizando $x^2 - 25 = (x - 5)(x + 5)$, se simplifica $x + 5$, dando 5 + 5 = 10. -->
-- [ ] B) 5
+- [ ] A) 5
   <!-- feedback: Incorrecto. Evaluaste directamente sin cancelar la indeterminación. -->
-- [ ] C) 0
+- [ ] B) 0
   <!-- feedback: Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite. -->
 - [ ] D) 15
   <!-- feedback: Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación. -->
@@ -152,13 +152,13 @@ La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^
 ### Enunciado
 ¿Cuál es el valor del límite $\lim_{x \to 8} \frac{x^2 - 64}{x - 8}$?
 ### Opciones
-- [x] A) 16
+- [x] D) 16
   <!-- feedback: Correcto. Factorizando $x^2 - 64 = (x - 8)(x + 8)$, se simplifica $x + 8$, dando 8 + 8 = 16. -->
-- [ ] B) 8
+- [ ] A) 8
   <!-- feedback: Incorrecto. Evaluaste directamente sin cancelar la indeterminación. -->
-- [ ] C) 0
+- [ ] B) 0
   <!-- feedback: Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite. -->
-- [ ] D) 24
+- [ ] C) 24
   <!-- feedback: Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación. -->
 ### Explicacion Pedagogica
 La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^2 - 64 = (x - 8)(x + 8)$, cancelamos $(x - 8)$ y evaluamos $\lim_{x \to 8} (x + 8) = 8 + 8 = 16$.
@@ -172,13 +172,13 @@ La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^
 ### Enunciado
 ¿Cuál es el valor del límite $\lim_{x \to 9} \frac{x^2 - 81}{x - 9}$?
 ### Opciones
-- [x] A) 18
+- [x] D) 18
   <!-- feedback: Correcto. Factorizando $x^2 - 81 = (x - 9)(x + 9)$, se simplifica $x + 9$, dando 9 + 9 = 18. -->
-- [ ] B) 9
+- [ ] A) 9
   <!-- feedback: Incorrecto. Evaluaste directamente sin cancelar la indeterminación. -->
-- [ ] C) 0
+- [ ] B) 0
   <!-- feedback: Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite. -->
-- [ ] D) 27
+- [ ] C) 27
   <!-- feedback: Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación. -->
 ### Explicacion Pedagogica
 La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^2 - 81 = (x - 9)(x + 9)$, cancelamos $(x - 9)$ y evaluamos $\lim_{x \to 9} (x + 9) = 9 + 9 = 18$.
@@ -212,11 +212,11 @@ La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^
 ### Enunciado
 ¿Cuál es el valor del límite $\lim_{x \to 11} \frac{x^2 - 121}{x - 11}$?
 ### Opciones
-- [x] A) 22
+- [x] C) 22
   <!-- feedback: Correcto. Factorizando $x^2 - 121 = (x - 11)(x + 11)$, se simplifica $x + 11$, dando 11 + 11 = 22. -->
-- [ ] B) 11
+- [ ] A) 11
   <!-- feedback: Incorrecto. Evaluaste directamente sin cancelar la indeterminación. -->
-- [ ] C) 0
+- [ ] B) 0
   <!-- feedback: Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite. -->
 - [ ] D) 33
   <!-- feedback: Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación. -->
@@ -252,13 +252,13 @@ La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^
 ### Enunciado
 ¿Cuál es el valor del límite $\lim_{x \to 13} \frac{x^2 - 169}{x - 13}$?
 ### Opciones
-- [x] A) 26
+- [x] D) 26
   <!-- feedback: Correcto. Factorizando $x^2 - 169 = (x - 13)(x + 13)$, se simplifica $x + 13$, dando 13 + 13 = 26. -->
-- [ ] B) 13
+- [ ] A) 13
   <!-- feedback: Incorrecto. Evaluaste directamente sin cancelar la indeterminación. -->
-- [ ] C) 0
+- [ ] B) 0
   <!-- feedback: Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite. -->
-- [ ] D) 39
+- [ ] C) 39
   <!-- feedback: Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación. -->
 ### Explicacion Pedagogica
 La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^2 - 169 = (x - 13)(x + 13)$, cancelamos $(x - 13)$ y evaluamos $\lim_{x \to 13} (x + 13) = 13 + 13 = 26$.
@@ -272,9 +272,9 @@ La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^
 ### Enunciado
 ¿Cuál es el valor del límite $\lim_{x \to 14} \frac{x^2 - 196}{x - 14}$?
 ### Opciones
-- [x] A) 28
+- [x] B) 28
   <!-- feedback: Correcto. Factorizando $x^2 - 196 = (x - 14)(x + 14)$, se simplifica $x + 14$, dando 14 + 14 = 28. -->
-- [ ] B) 14
+- [ ] A) 14
   <!-- feedback: Incorrecto. Evaluaste directamente sin cancelar la indeterminación. -->
 - [ ] C) 0
   <!-- feedback: Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite. -->
@@ -312,9 +312,9 @@ La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^
 ### Enunciado
 ¿Cuál es el valor del límite $\lim_{x \to 16} \frac{x^2 - 256}{x - 16}$?
 ### Opciones
-- [x] A) 32
+- [x] B) 32
   <!-- feedback: Correcto. Factorizando $x^2 - 256 = (x - 16)(x + 16)$, se simplifica $x + 16$, dando 16 + 16 = 32. -->
-- [ ] B) 16
+- [ ] A) 16
   <!-- feedback: Incorrecto. Evaluaste directamente sin cancelar la indeterminación. -->
 - [ ] C) 0
   <!-- feedback: Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite. -->
@@ -332,13 +332,13 @@ La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^
 ### Enunciado
 ¿Cuál es el valor del límite $\lim_{x \to 17} \frac{x^2 - 289}{x - 17}$?
 ### Opciones
-- [x] A) 34
+- [x] D) 34
   <!-- feedback: Correcto. Factorizando $x^2 - 289 = (x - 17)(x + 17)$, se simplifica $x + 17$, dando 17 + 17 = 34. -->
-- [ ] B) 17
+- [ ] A) 17
   <!-- feedback: Incorrecto. Evaluaste directamente sin cancelar la indeterminación. -->
-- [ ] C) 0
+- [ ] B) 0
   <!-- feedback: Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite. -->
-- [ ] D) 51
+- [ ] C) 51
   <!-- feedback: Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación. -->
 ### Explicacion Pedagogica
 La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^2 - 289 = (x - 17)(x + 17)$, cancelamos $(x - 17)$ y evaluamos $\lim_{x \to 17} (x + 17) = 17 + 17 = 34$.
@@ -352,13 +352,13 @@ La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^
 ### Enunciado
 ¿Cuál es el valor del límite $\lim_{x \to 18} \frac{x^2 - 324}{x - 18}$?
 ### Opciones
-- [x] A) 36
+- [x] D) 36
   <!-- feedback: Correcto. Factorizando $x^2 - 324 = (x - 18)(x + 18)$, se simplifica $x + 18$, dando 18 + 18 = 36. -->
-- [ ] B) 18
+- [ ] A) 18
   <!-- feedback: Incorrecto. Evaluaste directamente sin cancelar la indeterminación. -->
-- [ ] C) 0
+- [ ] B) 0
   <!-- feedback: Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite. -->
-- [ ] D) 54
+- [ ] C) 54
   <!-- feedback: Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación. -->
 ### Explicacion Pedagogica
 La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^2 - 324 = (x - 18)(x + 18)$, cancelamos $(x - 18)$ y evaluamos $\lim_{x \to 18} (x + 18) = 18 + 18 = 36$.
@@ -372,11 +372,11 @@ La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^
 ### Enunciado
 ¿Cuál es el valor del límite $\lim_{x \to 19} \frac{x^2 - 361}{x - 19}$?
 ### Opciones
-- [x] A) 38
+- [x] C) 38
   <!-- feedback: Correcto. Factorizando $x^2 - 361 = (x - 19)(x + 19)$, se simplifica $x + 19$, dando 19 + 19 = 38. -->
-- [ ] B) 19
+- [ ] A) 19
   <!-- feedback: Incorrecto. Evaluaste directamente sin cancelar la indeterminación. -->
-- [ ] C) 0
+- [ ] B) 0
   <!-- feedback: Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite. -->
 - [ ] D) 57
   <!-- feedback: Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación. -->
@@ -392,13 +392,13 @@ La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^
 ### Enunciado
 ¿Cuál es el valor del límite $\lim_{x \to 20} \frac{x^2 - 400}{x - 20}$?
 ### Opciones
-- [x] A) 40
+- [x] D) 40
   <!-- feedback: Correcto. Factorizando $x^2 - 400 = (x - 20)(x + 20)$, se simplifica $x + 20$, dando 20 + 20 = 40. -->
-- [ ] B) 20
+- [ ] A) 20
   <!-- feedback: Incorrecto. Evaluaste directamente sin cancelar la indeterminación. -->
-- [ ] C) 0
+- [ ] B) 0
   <!-- feedback: Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite. -->
-- [ ] D) 60
+- [ ] C) 60
   <!-- feedback: Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación. -->
 ### Explicacion Pedagogica
 La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^2 - 400 = (x - 20)(x + 20)$, cancelamos $(x - 20)$ y evaluamos $\lim_{x \to 20} (x + 20) = 20 + 20 = 40$.
@@ -412,11 +412,11 @@ La evaluación directa genera $0/0$. Factorizando la diferencia de cuadrados $x^
 ### Enunciado
 ¿Cuál es el valor del límite $\lim_{x \to 21} \frac{x^2 - 441}{x - 21}$?
 ### Opciones
-- [x] A) 42
+- [x] C) 42
   <!-- feedback: Correcto. Factorizando $x^2 - 441 = (x - 21)(x + 21)$, se simplifica $x + 21$, dando 21 + 21 = 42. -->
-- [ ] B) 21
+- [ ] A) 21
   <!-- feedback: Incorrecto. Evaluaste directamente sin cancelar la indeterminación. -->
-- [ ] C) 0
+- [ ] B) 0
   <!-- feedback: Incorrecto. Cero sobre cero es una indeterminación, no el valor del límite. -->
 - [ ] D) 63
   <!-- feedback: Incorrecto. Error de cálculo al evaluar $x + a$ tras la simplificación. -->

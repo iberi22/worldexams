@@ -34,11 +34,11 @@ Este bundle de 10 preguntas estudia el ciclo del agua y los procesos de potabili
 ¿Cuál es el orden correcto de las etapas principales del ciclo del agua?
 
 ### Opciones
-- [x] A) Evaporación, condensación, precipitación y retorno al suelo y a los ríos
+- [x] C) Evaporación, condensación, precipitación y retorno al suelo y a los ríos
   <!-- feedback: Correcto. Ese es el recorrido continuo del agua en la naturaleza. -->
-- [ ] B) Condensación, precipitación, evaporación y congelamiento permanente del agua
+- [ ] A) Condensación, precipitación, evaporación y congelamiento permanente del agua
   <!-- feedback: Incorrecto. El agua no se congela de forma permanente en el ciclo. -->
-- [ ] C) Precipitación, evaporación, condensación y almacenamiento únicamente en el mar
+- [ ] B) Precipitación, evaporación, condensación y almacenamiento únicamente en el mar
   <!-- feedback: Incorrecto. El agua también se almacena en lagos, suelos, seres vivos y glaciares. -->
 - [ ] D) Infiltración, fotosíntesis, condensación y evaporación
   <!-- feedback: Incorrecto. La fotosíntesis no es una etapa del ciclo del agua. -->
@@ -57,13 +57,13 @@ El ciclo del agua es continuo: el calor del Sol evapora el agua de mares, ríos 
 ¿Por qué se forman las nubes durante el ciclo del agua?
 
 ### Opciones
-- [x] A) Porque el vapor de agua se enfría al ascender y se condensa en gotitas muy pequeñas que se agrupan y flotan
+- [x] D) Porque el vapor de agua se enfría al ascender y se condensa en gotitas muy pequeñas que se agrupan y flotan
   <!-- feedback: Correcto. La condensación del vapor forma las nubes. -->
-- [ ] B) Porque el agua hierve en la atmósfera por acción del Sol
+- [ ] A) Porque el agua hierve en la atmósfera por acción del Sol
   <!-- feedback: Incorrecto. En la atmósfera el vapor se enfría, no hierve. -->
-- [ ] C) Porque las nubes son humo producido por las fábricas de la región
+- [ ] B) Porque las nubes son humo producido por las fábricas de la región
   <!-- feedback: Incorrecto. Las nubes se forman por condensación del vapor de agua. -->
-- [ ] D) Porque el agua de los ríos sube líquida por el aire hasta el cielo
+- [ ] C) Porque el agua de los ríos sube líquida por el aire hasta el cielo
   <!-- feedback: Incorrecto. El agua sube como vapor tras evaporarse, no como líquido. -->
 
 ### Explicacion Pedagogica
@@ -80,9 +80,9 @@ Cuando el aire húmedo asciende, la temperatura disminuye y el vapor de agua se 
 ¿Qué resultado deben esperar y cómo lo interpretan?
 
 ### Opciones
-- [x] A) En la parcela con vegetación se infiltra más agua, porque las raíces y la hojarasca dejan poros que facilitan el paso del agua al suelo
+- [x] B) En la parcela con vegetación se infiltra más agua, porque las raíces y la hojarasca dejan poros que facilitan el paso del agua al suelo
   <!-- feedback: Correcto. La cobertura vegetal favorece la infiltración. -->
-- [ ] B) En la parcela sin vegetación se infiltra más agua, porque el suelo desnudo es más poroso
+- [ ] A) En la parcela sin vegetación se infiltra más agua, porque el suelo desnudo es más poroso
   <!-- feedback: Incorrecto. Sin vegetación el suelo se compacta y la infiltración disminuye. -->
 - [ ] C) En las dos parcelas se infiltra exactamente la misma cantidad de agua
   <!-- feedback: Incorrecto. La cobertura vegetal modifica la infiltración. -->
@@ -103,13 +103,13 @@ La vegetación aumenta la infiltración: la hojarasca protege el suelo del impac
 ¿Qué etapa de la potabilización aplica el operario y para qué lo hace?
 
 ### Opciones
-- [x] A) La coagulación y floculación, que agrupan las partículas pequeñas en otras más grandes para poder retirarlas con mayor facilidad
+- [x] D) La coagulación y floculación, que agrupan las partículas pequeñas en otras más grandes para poder retirarlas con mayor facilidad
   <!-- feedback: Correcto. Al unir las partículas se facilita su separación posterior. -->
-- [ ] B) La desinfección, que elimina los microorganismos con cloro
+- [ ] A) La desinfección, que elimina los microorganismos con cloro
   <!-- feedback: Incorrecto. La desinfección usa desinfectantes como el cloro, no sulfato de aluminio. -->
-- [ ] C) La captación, que consiste en tomar el agua del río o del embalse
+- [ ] B) La captación, que consiste en tomar el agua del río o del embalse
   <!-- feedback: Incorrecto. La captación es la primera etapa, cuando el agua entra a la planta. -->
-- [ ] D) La distribución, que lleva el agua ya tratada a las casas
+- [ ] C) La distribución, que lleva el agua ya tratada a las casas
   <!-- feedback: Incorrecto. La distribución es la etapa final del proceso. -->
 
 ### Explicacion Pedagogica
@@ -126,9 +126,9 @@ En la potabilización, el agua pasa por captación, desarenado, coagulación y f
 ¿Para qué sirve hervir el agua en este caso?
 
 ### Opciones
-- [x] A) Para eliminar los microorganismos que pueden causar enfermedades transmitidas por el agua
+- [x] B) Para eliminar los microorganismos que pueden causar enfermedades transmitidas por el agua
   <!-- feedback: Correcto. El calor del hervor destruye bacterias y otros microorganismos. -->
-- [ ] B) Para agregarle minerales y vitaminas al agua
+- [ ] A) Para agregarle minerales y vitaminas al agua
   <!-- feedback: Incorrecto. Hervir no agrega nutrientes al agua. -->
 - [ ] C) Para volverla más dulce y agradable al paladar
   <!-- feedback: Incorrecto. El sabor no mejora por hervir el agua. -->
@@ -149,11 +149,11 @@ Hervir el agua durante unos minutos es una forma sencilla de desinfección caser
 ¿Qué análisis explica el cambio observado entre las dos muestras?
 
 ### Opciones
-- [x] A) El filtro retiene las partículas sólidas que estaban en suspensión y por eso el agua se ve más clara, aunque todavía puede contener microorganismos
+- [x] C) El filtro retiene las partículas sólidas que estaban en suspensión y por eso el agua se ve más clara, aunque todavía puede contener microorganismos
   <!-- feedback: Correcto. La filtración aclara el agua, pero la desinfección es un paso aparte. -->
-- [ ] B) El filtro elimina todos los microorganismos y por eso el agua queda potable
+- [ ] A) El filtro elimina todos los microorganismos y por eso el agua queda potable
   <!-- feedback: Incorrecto. La filtración retira partículas, pero no garantiza la desinfección. -->
-- [ ] C) El filtro cambia el agua contaminada en agua destilada
+- [ ] B) El filtro cambia el agua contaminada en agua destilada
   <!-- feedback: Incorrecto. La destilación es otro proceso y requiere evaporación y condensación. -->
 - [ ] D) El filtro no produce ningún cambio en las características del agua
   <!-- feedback: Incorrecto. La filtración disminuye visiblemente la turbiedad. -->
@@ -195,11 +195,11 @@ Existe una relación directa entre lo que ocurre en la cuenca y la calidad del a
 ¿Qué análisis explica la diferencia de caudal entre las dos épocas?
 
 ### Opciones
-- [x] A) En la época de lluvias aumenta la precipitación y el agua escurre hacia el río, mientras que en la época seca llueve menos y el caudal disminuye
+- [x] C) En la época de lluvias aumenta la precipitación y el agua escurre hacia el río, mientras que en la época seca llueve menos y el caudal disminuye
   <!-- feedback: Correcto. El caudal depende de las lluvias que caen en la cuenca. -->
-- [ ] B) En la época seca el río recibe más agua porque las plantas absorben menos
+- [ ] A) En la época seca el río recibe más agua porque las plantas absorben menos
   <!-- feedback: Incorrecto. En la época seca lo que disminuye es la precipitación. -->
-- [ ] C) El caudal del río no cambia nunca a lo largo del año
+- [ ] B) El caudal del río no cambia nunca a lo largo del año
   <!-- feedback: Incorrecto. Los ríos colombianos varían su caudal según las lluvias. -->
 - [ ] D) El caudal aumenta en la época seca porque hace más calor
   <!-- feedback: Incorrecto. El calor favorece la evaporación y reduce el agua disponible. -->
@@ -241,13 +241,13 @@ Evaluar estas afirmaciones exige distinguir la cantidad total de agua del planet
 ¿Qué medida conviene priorizar y por qué?
 
 ### Opciones
-- [x] A) Proteger las cuencas y los páramos que abastecen el acueducto, reducir las pérdidas de la red y mantener el tratamiento, porque así se sostiene la oferta de agua a largo plazo
+- [x] D) Proteger las cuencas y los páramos que abastecen el acueducto, reducir las pérdidas de la red y mantener el tratamiento, porque así se sostiene la oferta de agua a largo plazo
   <!-- feedback: Correcto. Cuidar la fuente, la red y el tratamiento garantiza agua segura y sostenible. -->
-- [ ] B) Tumbar el bosque de la cuenca alta para obtener más tierras de cultivo
+- [ ] A) Tumbar el bosque de la cuenca alta para obtener más tierras de cultivo
   <!-- feedback: Incorrecto. La deforestación reduce y contamina las fuentes de agua. -->
-- [ ] C) Suspender el tratamiento del agua para ahorrar dinero
+- [ ] B) Suspender el tratamiento del agua para ahorrar dinero
   <!-- feedback: Incorrecto. Sin tratamiento aumenta el riesgo de enfermedades en la población. -->
-- [ ] D) Esperar a que la situación mejore sin cambiar nada en la cuenca ni en la red
+- [ ] C) Esperar a que la situación mejore sin cambiar nada en la cuenca ni en la red
   <!-- feedback: Incorrecto. Sin acciones, el deterioro de las fuentes y las pérdidas aumentan. -->
 
 ### Explicacion Pedagogica

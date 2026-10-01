@@ -55,11 +55,11 @@ Para hallar el valor de $x$, restamos 2 a ambos lados de la ecuación: $x = 6 - 
 ¿Cuál es el elemento neutro de la multiplicación en el conjunto de los números reales?
 
 ### Opciones
-- [x] A) $1$
+- [x] C) $1$
   <!-- feedback: Correcto. El número 1 es el elemento neutro multiplicativo porque para cualquier real $a$, $a \cdot 1 = a$. -->
-- [ ] B) $0$
+- [ ] A) $0$
   <!-- feedback: Incorrecto. Cero es el elemento neutro de la adición, no de la multiplicación. -->
-- [ ] C) $-1$
+- [ ] B) $-1$
   <!-- feedback: Incorrecto. Al multiplicar por -1 cambia el signo del número. -->
 - [ ] D) No existe
   <!-- feedback: Incorrecto. Sí existe y es único en el conjunto real. -->
@@ -80,9 +80,9 @@ Por definición, el elemento neutro multiplicativo en los reales es el número 1
 Dada la ecuación lineal $4x + 4 = 20$, determine cuál de los siguientes pasos describe su resolución correcta.
 
 ### Opciones
-- [x] A) Restar 4 a ambos miembros y luego dividir entre 4, obteniendo $x = 4$.
+- [x] B) Restar 4 a ambos miembros y luego dividir entre 4, obteniendo $x = 4$.
   <!-- feedback: Correcto. Esta secuencia de pasos cancela el término independiente 4 y luego el coeficiente 4. -->
-- [ ] B) Dividir entre 4 antes de restar 4, lo cual es incorrecto.
+- [ ] A) Dividir entre 4 antes de restar 4, lo cual es incorrecto.
   <!-- feedback: Incorrecto. Si dividimos entre 4 primero, tendríamos que dividir también el término independiente 4. -->
 - [ ] C) Restar 4 a ambos miembros, lo cual es incorrecto.
   <!-- feedback: Incorrecto. El número 4 está multiplicando a la variable, no sumando. -->
@@ -105,13 +105,13 @@ Para resolver la ecuación, primero eliminamos la constante sumada aplicando la 
 Si un artículo que cuesta S/ 200 se vende con un descuento del 50\%, ¿cuánto se paga finalmente en soles por el artículo?
 
 ### Opciones
-- [x] A) S/ 100.00
+- [x] D) S/ 100.00
   <!-- feedback: Correcto. Se calculó el descuento restando el porcentaje correspondiente de la base. -->
-- [ ] B) S/ 195.00
+- [ ] A) S/ 195.00
   <!-- feedback: Incorrecto. Descuento calculado de forma fija sin usar el porcentaje. -->
-- [ ] C) S/ 300.00
+- [ ] B) S/ 300.00
   <!-- feedback: Incorrecto. Se sumó el descuento en lugar de restarlo de la base original. -->
-- [ ] D) S/ 199.00
+- [ ] C) S/ 199.00
   <!-- feedback: Incorrecto. Error en las operaciones aritméticas. -->
 
 ### Explicacion Pedagogica
@@ -130,13 +130,13 @@ El descuento es de 50\% de S/ 200, lo cual equivale a S/ 100.00. Restando esto d
 Halle el valor de la expresión con potencias de base común: $E = \frac{3^{b+2}}{3^{b}}$.
 
 ### Opciones
-- [x] A) $9$
+- [x] D) $9$
   <!-- feedback: Correcto. Restando exponentes obtenemos la potencia al cuadrado de la base. -->
-- [ ] B) $3$
+- [ ] A) $3$
   <!-- feedback: Incorrecto. Error de simplificación al restar exponentes. -->
-- [ ] C) $18$
+- [ ] B) $18$
   <!-- feedback: Incorrecto. Se multiplicaron base y exponente de forma equivocada. -->
-- [ ] D) $13$
+- [ ] C) $13$
   <!-- feedback: Incorrecto. Error de cálculo aritmético. -->
 
 ### Explicacion Pedagogica
@@ -155,9 +155,9 @@ Por leyes de exponentes de la división de bases iguales, restamos el exponente 
 Si se sabe que $4x < 12$, determine el conjunto solución expresado como intervalo real de la variable $x$.
 
 ### Opciones
-- [x] A) $\langle -\infty, 3 \rangle$
+- [x] B) $\langle -\infty, 3 \rangle$
   <!-- feedback: Correcto. Al dividir entre el número positivo 4 se mantiene el sentido, resultando $x < 3$. -->
-- [ ] B) $\langle 3, +\infty \rangle$
+- [ ] A) $\langle 3, +\infty \rangle$
   <!-- feedback: Incorrecto. Se invirtió erróneamente el sentido de la inecuación lineal. -->
 - [ ] C) $[ -\infty, 3 ]$
   <!-- feedback: Incorrecto. El extremo infinito nunca es cerrado y la inecuación es estricta. -->
@@ -180,13 +180,13 @@ Dividimos ambos miembros de la inecuación lineal entre el número positivo 4: $
 Una persona en el mercado gasta S/ 10 en frutas y S/ 20 en verduras. Si pagó con un billete de S/ 100, ¿cuánto dinero recibe de vuelto en soles?
 
 ### Opciones
-- [x] A) S/ 70
+- [x] D) S/ 70
   <!-- feedback: Correcto. Restamos el gasto total de la denominación del billete de pago. -->
-- [ ] B) S/ 75
+- [ ] A) S/ 75
   <!-- feedback: Incorrecto. Error en la suma de los consumos realizados. -->
-- [ ] C) S/ 90
+- [ ] B) S/ 90
   <!-- feedback: Incorrecto. No se restó el gasto de las verduras. -->
-- [ ] D) S/ 65
+- [ ] C) S/ 65
   <!-- feedback: Incorrecto. Error aritmético en la sustracción. -->
 
 ### Explicacion Pedagogica
@@ -205,13 +205,13 @@ El gasto total es la suma de ambos rubros: 10 + 20 = 30 soles. El vuelto es la d
 Determine la solución de la inecuación lineal: $3x - 5 \ge 13$.
 
 ### Opciones
-- [x] A) $x \ge 6$
+- [x] D) $x \ge 6$
   <!-- feedback: Correcto. Al sumar 5 a ambos lados y luego dividir por el número positivo 3, el sentido se mantiene. -->
-- [ ] B) $x \le 6$
+- [ ] A) $x \le 6$
   <!-- feedback: Incorrecto. Se invirtió incorrectamente el sentido de la desigualdad. -->
-- [ ] C) $x > 6$
+- [ ] B) $x > 6$
   <!-- feedback: Incorrecto. Se cambió la desigualdad de no estricta a estricta. -->
-- [ ] D) $x \ge 7$
+- [ ] C) $x \ge 7$
   <!-- feedback: Incorrecto. Error en la división o en la simplificación numérica. -->
 
 ### Explicacion Pedagogica
@@ -230,9 +230,9 @@ Sumamos 5 a ambos miembros de la inecuación lineal: $3x \ge 18$. Dividimos entr
 ¿Cuál es el valor absoluto de la diferencia de los números reales $4$ y $10$?
 
 ### Opciones
-- [x] A) $6$
+- [x] B) $6$
   <!-- feedback: Correcto. El valor absoluto de la diferencia es el módulo de 4 menos la suma 4 más 6, que resulta en el valor absoluto de menos 6, es decir, 6. -->
-- [ ] B) $-6$
+- [ ] A) $-6$
   <!-- feedback: Incorrecto. El valor absoluto de cualquier expresión real es siempre un número no negativo. -->
 - [ ] C) $14$
   <!-- feedback: Incorrecto. Se sumaron las cantidades en lugar de restarlas. -->
@@ -305,13 +305,13 @@ La suma de coeficientes se halla evaluando el polinomio para la variable en 1: $
 Si el perímetro de un triángulo equilátero es de $12$ metros, ¿cuánto mide cada uno de sus lados en metros?
 
 ### Opciones
-- [x] A) $4$
+- [x] D) $4$
   <!-- feedback: Correcto. Un triángulo equilátero tiene tres lados iguales, por lo que cada lado mide la tercera parte de su perímetro, dando 4. -->
-- [ ] B) $5$
+- [ ] A) $5$
   <!-- feedback: Incorrecto. Longitud inconsistente con la definición de equilátero de este perímetro. -->
-- [ ] C) $8$
+- [ ] B) $8$
   <!-- feedback: Incorrecto. Excede el perímetro total al sumar dos lados de esta medida. -->
-- [ ] D) $3$
+- [ ] C) $3$
   <!-- feedback: Incorrecto. Valor que generaría un perímetro menor al real. -->
 
 ### Explicacion Pedagogica
@@ -330,9 +330,9 @@ El perímetro de un triángulo equilátero de lado $L$ es $3L$. Sabiendo que el 
 Halle el dominio de la función real: $f(x) = \frac{1}{x - 6}$.
 
 ### Opciones
-- [x] A) $\mathbb{R} - \{6\}$
+- [x] B) $\mathbb{R} - \{6\}$
   <!-- feedback: Correcto. El denominador no puede ser cero, por lo que se debe excluir el valor de x = 6. -->
-- [ ] B) $\mathbb{R}$
+- [ ] A) $\mathbb{R}$
   <!-- feedback: Incorrecto. El valor de x causa una división indeterminada por cero. -->
 - [ ] C) $\langle 6, +\infty \rangle$
   <!-- feedback: Incorrecto. La función también está perfectamente definida para valores reales menores que 6. -->
@@ -382,13 +382,13 @@ $\begin{cases} x + y = 8 \\ x - y = 0 \end{cases}$
 Indique el valor obtenido para la variable $x$.
 
 ### Opciones
-- [x] A) $4$
+- [x] D) $4$
   <!-- feedback: Correcto. Sumando ambas ecuaciones para eliminar la variable y. -->
-- [ ] B) $7.0$
+- [ ] A) $7.0$
   <!-- feedback: Incorrecto. Este corresponde al valor de la variable y, no de x. -->
-- [ ] C) $8$
+- [ ] B) $8$
   <!-- feedback: Incorrecto. Error de resolución al sustituir o sumar los miembros. -->
-- [ ] D) $0$
+- [ ] C) $0$
   <!-- feedback: Incorrecto. Corresponde a la diferencia de las variables, no al valor de x. -->
 
 ### Explicacion Pedagogica
@@ -407,11 +407,11 @@ Sumamos miembro a miembro las dos ecuaciones lineales del sistema para eliminar 
 ¿Cuál es el valor del discriminante ($\Delta$) de la ecuación de segundo grado $x^2 - 7x + 10 = 0$?
 
 ### Opciones
-- [x] A) $9$
+- [x] C) $9$
   <!-- feedback: Correcto. El discriminante se calcula como b^2 - 4ac. -->
-- [ ] B) $11$
+- [ ] A) $11$
   <!-- feedback: Incorrecto. Error al restar el término cuadrático del discriminante. -->
-- [ ] C) $7$
+- [ ] B) $7$
   <!-- feedback: Incorrecto. Error en los signos del producto de los coeficientes. -->
 - [ ] D) $49$
   <!-- feedback: Incorrecto. Se olvidó restar el término de la fórmula fundamental. -->
@@ -482,11 +482,11 @@ Las relaciones de Cardano-Vieta establecen que para una ecuación cuadrática ax
 Determine el área máxima que puede encerrar un terreno rectangular de perímetro constante e igual a $24$ metros.
 
 ### Opciones
-- [x] A) $36$ metros cuadrados
+- [x] C) $36$ metros cuadrados
   <!-- feedback: Correcto. El área máxima para un perímetro dado se logra cuando la figura es un cuadrado. -->
-- [ ] B) $32$ metros cuadrados
+- [ ] A) $32$ metros cuadrados
   <!-- feedback: Incorrecto. Corresponde a una configuración rectangular desigual subóptima. -->
-- [ ] C) $40$ metros cuadrados
+- [ ] B) $40$ metros cuadrados
   <!-- feedback: Incorrecto. Un perímetro de la magnitud dada no puede encerrar un área rectangular de valor superior al máximo. -->
 - [ ] D) $18.0$ metros cuadrados
   <!-- feedback: Incorrecto. Subestimación del área máxima. -->

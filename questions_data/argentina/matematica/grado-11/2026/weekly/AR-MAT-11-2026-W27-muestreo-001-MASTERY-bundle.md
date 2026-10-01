@@ -39,8 +39,8 @@ Este bundle aborda los conceptos de población, muestra, tipos de muestreo (prob
 
 ### Opciones
 - [ ] A) Muestra <!-- feedback: Incorrecto. La muestra es solo una parte representativa del total. -->
-- [x] B) Población <!-- feedback: Correcto. En estadística, la población es el conjunto completo de individuos u objetos que se desea estudiar. -->
-- [ ] C) Censo <!-- feedback: Incorrecto. El censo es el proceso de recolectar datos de toda la población, no el conjunto en sí. -->
+- [x] C) Población <!-- feedback: Correcto. En estadística, la población es el conjunto completo de individuos u objetos que se desea estudiar. -->
+- [ ] B) Censo <!-- feedback: Incorrecto. El censo es el proceso de recolectar datos de toda la población, no el conjunto en sí. -->
 - [ ] D) Marco muestral <!-- feedback: Incorrecto. El marco es la lista o registro de donde se extrae la muestra. -->
 
 ### Explicacion Pedagogica
@@ -61,9 +61,9 @@ La población es el universo completo de estudio. En este caso, todos los votant
 ¿Cuál es el término correcto para designar a este subgrupo de 1.000 personas extraído de la población total?
 
 ### Opciones
-- [ ] A) Estrato <!-- feedback: Incorrecto. Un estrato es una subdivisión de la población con características comunes. -->
-- [ ] B) Conglomerado <!-- feedback: Incorrecto. Un conglomerado es un grupo natural (como un barrio) usado en ciertos muestreos. -->
-- [x] C) Muestra <!-- feedback: Correcto. Una muestra es un subconjunto de la población que se selecciona para obtener información sobre el total. -->
+- [ ] B) Estrato <!-- feedback: Incorrecto. Un estrato es una subdivisión de la población con características comunes. -->
+- [ ] C) Conglomerado <!-- feedback: Incorrecto. Un conglomerado es un grupo natural (como un barrio) usado en ciertos muestreos. -->
+- [x] A) Muestra <!-- feedback: Correcto. Una muestra es un subconjunto de la población que se selecciona para obtener información sobre el total. -->
 - [ ] D) Parámetro <!-- feedback: Incorrecto. Un parámetro es un valor numérico que describe una característica de la población. -->
 
 ### Explicacion Pedagogica
@@ -85,9 +85,9 @@ La muestra es la parte representativa de la población sobre la cual se realizan
 
 ### Opciones
 - [ ] A) No probabilístico <!-- feedback: Incorrecto. En el no probabilístico la elección depende del criterio del investigador. -->
-- [x] B) Probabilístico o Aleatorio <!-- feedback: Correcto. Se basa en el principio de equiprobabilidad, garantizando que la elección sea al azar. -->
-- [ ] C) Por conveniencia <!-- feedback: Incorrecto. Este es un tipo de muestreo no probabilístico. -->
-- [ ] D) Por cuotas <!-- feedback: Incorrecto. También es un método no probabilístico. -->
+- [x] D) Probabilístico o Aleatorio <!-- feedback: Correcto. Se basa en el principio de equiprobabilidad, garantizando que la elección sea al azar. -->
+- [ ] B) Por conveniencia <!-- feedback: Incorrecto. Este es un tipo de muestreo no probabilístico. -->
+- [ ] C) Por cuotas <!-- feedback: Incorrecto. También es un método no probabilístico. -->
 
 ### Explicacion Pedagogica
 El muestreo probabilístico es aquel en el que se conoce la probabilidad de cada elemento de ser seleccionado, siendo el azar el mecanismo de elección.
@@ -107,9 +107,9 @@ El muestreo probabilístico es aquel en el que se conoce la probabilidad de cada
 ¿Por qué este tipo de muestreo se considera "no probabilístico"?
 
 ### Opciones
-- [ ] A) Porque no se usa una computadora para elegir. <!-- feedback: Incorrecto. La tecnología no define la naturaleza del muestreo. -->
-- [ ] B) Porque la población de Córdoba es muy grande. <!-- feedback: Incorrecto. El tamaño de la población no determina el tipo de muestreo. -->
-- [x] C) Porque solo participan las personas que deciden llamar (autoselección), no es al azar. <!-- feedback: Correcto. No todos los hinchas tienen la misma probabilidad de ser elegidos; solo los que escuchan esa radio y quieren llamar. -->
+- [ ] B) Porque no se usa una computadora para elegir. <!-- feedback: Incorrecto. La tecnología no define la naturaleza del muestreo. -->
+- [ ] C) Porque la población de Córdoba es muy grande. <!-- feedback: Incorrecto. El tamaño de la población no determina el tipo de muestreo. -->
+- [x] A) Porque solo participan las personas que deciden llamar (autoselección), no es al azar. <!-- feedback: Correcto. No todos los hinchas tienen la misma probabilidad de ser elegidos; solo los que escuchan esa radio y quieren llamar. -->
 - [ ] D) Porque el fútbol es una variable cualitativa. <!-- feedback: Incorrecto. No tiene relación con el método de selección. -->
 
 ### Explicacion Pedagogica
@@ -130,8 +130,8 @@ En el muestreo no probabilístico, no se puede garantizar que todos los miembros
 ¿Cómo se denomina técnicamente este método de muestreo?
 
 ### Opciones
-- [ ] A) Aleatorio simple <!-- feedback: Incorrecto. En el simple se eligen individuos aislados sin un patrón fijo. -->
-- [x] B) Sistemático <!-- feedback: Correcto. Se elige un punto de partida al azar y luego se seleccionan elementos siguiendo un intervalo fijo (k). -->
+- [ ] B) Aleatorio simple <!-- feedback: Incorrecto. En el simple se eligen individuos aislados sin un patrón fijo. -->
+- [x] A) Sistemático <!-- feedback: Correcto. Se elige un punto de partida al azar y luego se seleccionan elementos siguiendo un intervalo fijo (k). -->
 - [ ] C) Estratificado <!-- feedback: Incorrecto. No se dividió la producción en grupos con características distintas. -->
 - [ ] D) Por conglomerados <!-- feedback: Incorrecto. No se eligieron grupos naturales completos. -->
 
@@ -177,8 +177,8 @@ El muestreo estratificado garantiza que los subgrupos importantes de la poblaci�
 
 ### Opciones
 - [ ] A) Estratificado <!-- feedback: Incorrecto. En el estratificado se sacan algunos de cada grupo; aquí se sacan grupos completos. -->
-- [x] B) Por conglomerados <!-- feedback: Correcto. Los grupos (sucursales) se eligen al azar y se estudia a todos los miembros dentro de ellos. -->
-- [ ] C) Aleatorio simple <!-- feedback: Incorrecto. La unidad de elección no es el individuo, sino el grupo. -->
+- [x] C) Por conglomerados <!-- feedback: Correcto. Los grupos (sucursales) se eligen al azar y se estudia a todos los miembros dentro de ellos. -->
+- [ ] B) Aleatorio simple <!-- feedback: Incorrecto. La unidad de elección no es el individuo, sino el grupo. -->
 - [ ] D) Bola de nieve <!-- feedback: Incorrecto. Este método se usa para poblaciones de difícil acceso mediante contactos. -->
 
 ### Explicacion Pedagogica
@@ -222,9 +222,9 @@ El muestreo de bola de nieve (o por redes) es una técnica no probabilística do
 ¿Cuál es el principal problema de este diseño muestral?
 
 ### Opciones
-- [ ] A) El tamaño de la muestra es pequeño. <!-- feedback: Incorrecto. El problema no es la cantidad, sino a quiénes se llama. -->
-- [ ] B) Se gasta mucho dinero en llamadas. <!-- feedback: Incorrecto. Esto es un tema operativo, no de validez estadística. -->
-- [x] C) Presenta un sesgo de cobertura (excluye a quienes solo usan celular o trabajan en ese horario). <!-- feedback: Correcto. La muestra no será representativa porque deja afuera sistemáticamente a gran parte de la población joven y trabajadora. -->
+- [ ] B) El tamaño de la muestra es pequeño. <!-- feedback: Incorrecto. El problema no es la cantidad, sino a quiénes se llama. -->
+- [ ] C) Se gasta mucho dinero en llamadas. <!-- feedback: Incorrecto. Esto es un tema operativo, no de validez estadística. -->
+- [x] A) Presenta un sesgo de cobertura (excluye a quienes solo usan celular o trabajan en ese horario). <!-- feedback: Correcto. La muestra no será representativa porque deja afuera sistemáticamente a gran parte de la población joven y trabajadora. -->
 - [ ] D) Es un muestreo aleatorio simple perfecto. <!-- feedback: Incorrecto. Es un diseño con graves fallas de representatividad. -->
 
 ### Explicacion Pedagogica
@@ -245,8 +245,8 @@ El sesgo de cobertura ocurre cuando algunos miembros de la población tienen pro
 ¿Cuál de las siguientes es una descripción correcta de un "parámetro"?
 
 ### Opciones
-- [x] A) Es un valor numérico que describe una característica de toda la población. <!-- feedback: Correcto. Por ejemplo, el promedio de altura de todos los argentinos. -->
-- [ ] B) Es un valor que se calcula a partir de los datos de una muestra. <!-- feedback: Incorrecto. Eso se llama estadístico o estimador. -->
+- [x] B) Es un valor numérico que describe una característica de toda la población. <!-- feedback: Correcto. Por ejemplo, el promedio de altura de todos los argentinos. -->
+- [ ] A) Es un valor que se calcula a partir de los datos de una muestra. <!-- feedback: Incorrecto. Eso se llama estadístico o estimador. -->
 - [ ] C) Es el error que se comete al elegir la muestra. <!-- feedback: Incorrecto. Eso es el error de muestreo. -->
 - [ ] D) Es la lista de nombres de los encuestados. <!-- feedback: Incorrecto. Eso es parte del marco muestral. -->
 
@@ -268,8 +268,8 @@ Los parámetros son valores fijos y desconocidos de la población, mientras que 
 ¿Cuál debe ser el intervalo de selección (k) y cuál es el procedimiento correcto?
 
 ### Opciones
-- [ ] A) k = 50; se eligen las primeras 200 facturas. <!-- feedback: Incorrecto. Elegir las primeras no es aleatorio. -->
-- [x] B) k = 25; se elige un número al azar entre 1 y 25, y luego cada 25 facturas. <!-- feedback: Correcto. k = N / n = 5000 / 200 = 25. -->
+- [ ] B) k = 50; se eligen las primeras 200 facturas. <!-- feedback: Incorrecto. Elegir las primeras no es aleatorio. -->
+- [x] A) k = 25; se elige un número al azar entre 1 y 25, y luego cada 25 facturas. <!-- feedback: Correcto. k = N / n = 5000 / 200 = 25. -->
 - [ ] C) k = 200; se eligen 200 facturas al azar de la lista completa. <!-- feedback: Incorrecto. Este sería aleatorio simple, no sistemático. -->
 - [ ] D) k = 10; se eligen facturas que terminen en cero. <!-- feedback: Incorrecto. No respeta el cálculo del intervalo k necesario. -->
 
@@ -292,8 +292,8 @@ Para el muestreo sistemático, k = N/n. 5000 / 200 = 25. Se elige un "arranque a
 
 ### Opciones
 - [ ] A) 250 personas <!-- feedback: Incorrecto. Esto sería un muestreo no proporcional (mitad y mitad). -->
-- [ ] B) 200 personas <!-- feedback: Incorrecto. No respeta la proporción del 20% del estrato B. -->
-- [x] C) 100 personas <!-- feedback: Correcto. El estrato B es el 20% de la población (2000/10000). El 20% de la muestra de 500 es 100. -->
+- [ ] C) 200 personas <!-- feedback: Incorrecto. No respeta la proporción del 20% del estrato B. -->
+- [x] B) 100 personas <!-- feedback: Correcto. El estrato B es el 20% de la población (2000/10000). El 20% de la muestra de 500 es 100. -->
 - [ ] D) 400 personas <!-- feedback: Incorrecto. Esta sería la cantidad para el estrato A. -->
 
 ### Explicacion Pedagogica
@@ -338,8 +338,8 @@ El muestreo por cuotas define categorías de la población que deben estar prese
 
 ### Opciones
 - [ ] A) Sesgo de selección <!-- feedback: Incorrecto. El investigador los eligió bien, pero ellos no respondieron. -->
-- [x] B) Sesgo de no respuesta <!-- feedback: Correcto. Ocurre cuando la probabilidad de responder está relacionada con la variable de estudio, distorsionando los resultados. -->
-- [ ] C) Error de tipeo <!-- feedback: Incorrecto. Es un error de recolección, no de carga de datos. -->
+- [x] C) Sesgo de no respuesta <!-- feedback: Correcto. Ocurre cuando la probabilidad de responder está relacionada con la variable de estudio, distorsionando los resultados. -->
+- [ ] B) Error de tipeo <!-- feedback: Incorrecto. Es un error de recolección, no de carga de datos. -->
 - [ ] D) Variabilidad natural <!-- feedback: Incorrecto. Es un error sistemático, no azaroso. -->
 
 ### Explicacion Pedagogica
@@ -407,9 +407,9 @@ El muestreo multietápico combina diferentes técnicas en niveles sucesivos, per
 
 ### Opciones
 - [ ] A) 4 <!-- feedback: Incorrecto. No coincide con la media poblacional. -->
-- [x] B) 5 <!-- feedback: Correcto. La media de la población es (2+4+6+8)/4 = 5. Según la teoría, la media de las medias muestrales es siempre igual a la media poblacional. -->
-- [ ] C) 2,5 <!-- feedback: Incorrecto. Esto sería si se dividiera por el tamaño de muestra. -->
-- [ ] D) 6,25 <!-- feedback: Incorrecto. No surge de las propiedades de la distribución muestral. -->
+- [x] D) 5 <!-- feedback: Correcto. La media de la población es (2+4+6+8)/4 = 5. Según la teoría, la media de las medias muestrales es siempre igual a la media poblacional. -->
+- [ ] B) 2,5 <!-- feedback: Incorrecto. Esto sería si se dividiera por el tamaño de muestra. -->
+- [ ] C) 6,25 <!-- feedback: Incorrecto. No surge de las propiedades de la distribución muestral. -->
 
 ### Explicacion Pedagogica
 Una propiedad fundamental de la estadística es que el valor esperado (promedio) de la distribución muestral de la media es idéntico a la media de la población original. E[X] = μ.
@@ -453,8 +453,8 @@ El error típico de estimación disminuye con la raíz cuadrada del tamaño de l
 
 ### Opciones
 - [ ] A) Error de redondeo en las encuestas. <!-- feedback: Incorrecto. Es un tema menor frente al problema estructural. -->
-- [x] B) Error de marco muestral (falta de paridad entre población objetivo y marco). <!-- feedback: Correcto. El registro está muy desactualizado y no incluye a los nuevos usuarios ni a quienes solo tienen celular. -->
-- [ ] C) Error por excesiva precisión. <!-- feedback: Incorrecto. No tiene sentido técnico. -->
+- [x] C) Error de marco muestral (falta de paridad entre población objetivo y marco). <!-- feedback: Correcto. El registro está muy desactualizado y no incluye a los nuevos usuarios ni a quienes solo tienen celular. -->
+- [ ] B) Error por excesiva precisión. <!-- feedback: Incorrecto. No tiene sentido técnico. -->
 - [ ] D) Sesgo del entrevistador. <!-- feedback: Incorrecto. El problema es previo a la entrevista, está en la selección. -->
 
 ### Explicacion Pedagogica
@@ -476,8 +476,8 @@ El error de marco ocurre cuando la lista de la que se extrae la muestra no coinc
 
 ### Opciones
 - [ ] A) El método 1 (aleatorio simple) porque es más puro. <!-- feedback: Incorrecto. El aleatorio simple suele tener mayor varianza cuando la población es heterogénea. -->
-- [x] B) El método 2 (estratificado) porque asegura representación de todas las alturas. <!-- feedback: Correcto. La nieve varía mucho con la altura (estratificación efectiva), por lo que este método reduce la variabilidad de la muestra. -->
-- [ ] C) Ambos son idénticos porque el tamaño total de muestra es 10. <!-- feedback: Incorrecto. El diseño afecta la precisión aunque n sea igual. -->
+- [x] C) El método 2 (estratificado) porque asegura representación de todas las alturas. <!-- feedback: Correcto. La nieve varía mucho con la altura (estratificación efectiva), por lo que este método reduce la variabilidad de la muestra. -->
+- [ ] B) Ambos son idénticos porque el tamaño total de muestra es 10. <!-- feedback: Incorrecto. El diseño afecta la precisión aunque n sea igual. -->
 - [ ] D) Depende de qué día se realice la medición. <!-- feedback: Incorrecto. Estamos evaluando la eficiencia teórica del diseño. -->
 
 ### Explicacion Pedagogica

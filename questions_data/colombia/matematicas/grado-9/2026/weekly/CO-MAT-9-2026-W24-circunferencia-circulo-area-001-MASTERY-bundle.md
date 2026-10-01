@@ -32,9 +32,9 @@ Este bundle contiene 12 preguntas sobre **circunferencia-circulo-area** para gra
 ### Enunciado
 ¿Cuál es la fórmula de la longitud de una circunferencia de radio r?
 ### Opciones
-- [x] A) 2πr
+- [x] B) 2πr
   <!-- feedback: Correcto. La longitud de la circunferencia es 2πr, equivalente a π por el diámetro. -->
-- [ ] B) πr²
+- [ ] A) πr²
   <!-- feedback: Incorrecto. Esa expresión corresponde al área del círculo, no a su longitud. -->
 - [ ] C) πd²
   <!-- feedback: Incorrecto. El diámetro no se eleva al cuadrado en la longitud de la circunferencia. -->
@@ -72,11 +72,11 @@ El área del círculo se calcula con A = πr².
 ### Enunciado
 ¿Cuál es el área de la superficie de la piscina?
 ### Opciones
-- [x] A) 78.5 m²
+- [x] C) 78.5 m²
   <!-- feedback: Correcto. A = πr² = 3.14 × 25 = 78.5 m². -->
-- [ ] B) 31.4 m²
+- [ ] A) 31.4 m²
   <!-- feedback: Incorrecto. Ese valor es la longitud de la circunferencia (2πr), no el área. -->
-- [ ] C) 15.7 m²
+- [ ] B) 15.7 m²
   <!-- feedback: Incorrecto. Calculaste πr sin elevar el radio al cuadrado. -->
 - [ ] D) 157 m²
   <!-- feedback: Incorrecto. Duplicaste el área correcta sin justificación. -->
@@ -92,9 +92,9 @@ Con r = 5 m se obtiene A = πr² = 3.14 × 25 = 78.5 m².
 ### Enunciado
 ¿Cuál es la longitud del borde de la tapa?
 ### Opciones
-- [ ] A) 21.98 dm
+- [ ] B) 21.98 dm
   <!-- feedback: Incorrecto. Usaste el radio (7 dm) como si fuera el diámetro. -->
-- [x] B) 43.96 dm
+- [x] A) 43.96 dm
   <!-- feedback: Correcto. L = πd = 3.14 × 14 = 43.96 dm. -->
 - [ ] C) 153.86 dm
   <!-- feedback: Incorrecto. Ese valor es el área del círculo, no su longitud. -->
@@ -134,9 +134,9 @@ Un sector de 90° es la cuarta parte del círculo, así que su área es 0.25 × 
 ### Opciones
 - [ ] A) 12π cm
   <!-- feedback: Incorrecto. Ese valor corresponde a la semicircunferencia, no a un arco de 90°. -->
-- [x] B) 6π cm
+- [x] C) 6π cm
   <!-- feedback: Correcto. L = (90/360) × 2πr = 0.25 × 24π = 6π cm. -->
-- [ ] C) 3π cm
+- [ ] B) 3π cm
   <!-- feedback: Incorrecto. Dividiste entre 8 en vez de entre 4. -->
 - [ ] D) 24π cm
   <!-- feedback: Incorrecto. Ese es el valor de la circunferencia completa. -->
@@ -152,9 +152,9 @@ La longitud del arco es L = (90/360) × 2π × 12 = 6π cm.
 ### Enunciado
 ¿Cuál es el área del estanque?
 ### Opciones
-- [x] A) 78.5 m²
+- [x] B) 78.5 m²
   <!-- feedback: Correcto. r = 31.4/(2×3.14) = 5 m, y A = 3.14 × 25 = 78.5 m². -->
-- [ ] B) 314 m²
+- [ ] A) 314 m²
   <!-- feedback: Incorrecto. Multiplicaste la longitud por 10 sin despejar el radio. -->
 - [ ] C) 15.7 m²
   <!-- feedback: Incorrecto. Usaste el perímetro como si fuera el radio. -->
@@ -172,13 +172,13 @@ De L = 2πr se despeja r = 31.4/6.28 = 5 m; luego A = πr² = 3.14 × 25 = 78.5 
 ### Enunciado
 ¿Cuántas veces es mayor el área del círculo B con respecto al área del círculo A?
 ### Opciones
-- [x] A) 4 veces
+- [x] D) 4 veces
   <!-- feedback: Correcto. Al duplicar el radio, el área se multiplica por 2² = 4. -->
-- [ ] B) 2 veces
+- [ ] A) 2 veces
   <!-- feedback: Incorrecto. El área depende del cuadrado del radio, no del radio directamente. -->
-- [ ] C) 3 veces
+- [ ] B) 3 veces
   <!-- feedback: Incorrecto. Comparaste los radios, pero el área crece con el cuadrado. -->
-- [ ] D) 8 veces
+- [ ] C) 8 veces
   <!-- feedback: Incorrecto. Confundiste el factor del área con el del volumen. -->
 ### Explicacion Pedagogica
 Si el radio se duplica, el área queda multiplicada por 2² = 4, porque A = πr².
@@ -212,11 +212,11 @@ El área cubierta es A = πr² = 3.14 × 64 = 200.96 m².
 ### Enunciado
 ¿Cuál es el área de la superficie de agua (corona circular)?
 ### Opciones
-- [x] A) 65.94 m²
+- [x] C) 65.94 m²
   <!-- feedback: Correcto. A = π(5² − 2²) = 3.14 × 21 = 65.94 m². -->
-- [ ] B) 91.06 m²
+- [ ] A) 91.06 m²
   <!-- feedback: Incorrecto. Sumaste las áreas en vez de restarlas. -->
-- [ ] C) 28.26 m²
+- [ ] B) 28.26 m²
   <!-- feedback: Incorrecto. Ese es el área de la isla central, no la corona. -->
 - [ ] D) 12.56 m²
   <!-- feedback: Incorrecto. Restaste los radios sin elevarlos al cuadrado. -->

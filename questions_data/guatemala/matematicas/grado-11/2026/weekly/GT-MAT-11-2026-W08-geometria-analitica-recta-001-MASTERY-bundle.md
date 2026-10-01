@@ -68,9 +68,9 @@ El punto medio es el punto que divide al segmento en dos partes iguales y sus co
 
 ### Opciones
 - [ ] A) $m = \frac{x_2 - x_1}{y_2 - y_1}$ <!-- feedback: La pendiente es la variación en $y$ sobre la variación en $x$, no al revés. -->
-- [x] B) $m = \frac{y_2 - y_1}{x_2 - x_1}$ <!-- feedback: Correcto. Representa la razón de cambio vertical respecto al cambio horizontal. -->
-- [ ] C) $m = (y_2 - y_1)(x_2 - x_1)$ <!-- feedback: El producto de las diferencias no define la inclinación. -->
-- [ ] D) $m = y_2 + y_1 + x_2 + x_1$ <!-- feedback: Fórmula incorrecta para la pendiente. -->
+- [x] D) $m = \frac{y_2 - y_1}{x_2 - x_1}$ <!-- feedback: Correcto. Representa la razón de cambio vertical respecto al cambio horizontal. -->
+- [ ] B) $m = (y_2 - y_1)(x_2 - x_1)$ <!-- feedback: El producto de las diferencias no define la inclinación. -->
+- [ ] C) $m = y_2 + y_1 + x_2 + x_1$ <!-- feedback: Fórmula incorrecta para la pendiente. -->
 
 ### Explicacion Pedagogica
 La pendiente cuantifica la inclinación de una recta. Si $m > 0$ la recta es creciente; si $m < 0$ es decreciente.
@@ -86,9 +86,9 @@ La pendiente cuantifica la inclinación de una recta. Si $m > 0$ la recta es cre
 ¿Cómo se denomina a la forma de la ecuación de la recta expresada como $Ax + By + C = 0$?
 
 ### Opciones
-- [ ] A) Forma punto-pendiente <!-- feedback: La forma punto-pendiente es $y - y_1 = m(x - x_1)$. -->
-- [ ] B) Forma pendiente-intercepto <!-- feedback: Esta forma es $y = mx + b$. -->
-- [x] C) Forma general o normal <!-- feedback: Correcto. En esta forma, todos los términos se igualan a cero. -->
+- [ ] B) Forma punto-pendiente <!-- feedback: La forma punto-pendiente es $y - y_1 = m(x - x_1)$. -->
+- [ ] C) Forma pendiente-intercepto <!-- feedback: Esta forma es $y = mx + b$. -->
+- [x] A) Forma general o normal <!-- feedback: Correcto. En esta forma, todos los términos se igualan a cero. -->
 - [ ] D) Forma simétrica <!-- feedback: La forma simétrica es $x/a + y/b = 1$. -->
 
 ### Explicacion Pedagogica
@@ -143,8 +143,8 @@ El cálculo del punto medio requiere sumar algebraicamente las coordenadas corre
 ¿Cuál es la pendiente de la recta que pasa por los puntos $(2, -3)$ y $(5, 6)$?
 
 ### Opciones
-- [ ] A) $1$ <!-- feedback: $(6 - (-3)) / (5 - 2) = 9 / 3 = 3$. -->
-- [x] B) $3$ <!-- feedback: Correcto. $m = (6 - (-3)) / (5 - 2) = 9 / 3 = 3$. -->
+- [ ] B) $1$ <!-- feedback: $(6 - (-3)) / (5 - 2) = 9 / 3 = 3$. -->
+- [x] A) $3$ <!-- feedback: Correcto. $m = (6 - (-3)) / (5 - 2) = 9 / 3 = 3$. -->
 - [ ] C) $1/3$ <!-- feedback: Dividiste la variación de $x$ entre la de $y$. -->
 - [ ] D) $-3$ <!-- feedback: Error en el manejo de signos al restar $-3$ de $6$. -->
 
@@ -162,8 +162,8 @@ La pendiente se halla restando las ordenadas ($y$) y dividiendo por la resta de 
 ¿Cuál es la ecuación de la recta que tiene pendiente $m = -2$ y pasa por el punto $(3, 1)$?
 
 ### Opciones
-- [x] A) $y = -2x + 7$ <!-- feedback: Correcto. $y - 1 = -2(x - 3) \Rightarrow y = -2x + 6 + 1 \Rightarrow y = -2x + 7$. -->
-- [ ] B) $y = -2x + 1$ <!-- feedback: Error al calcular el intercepto $b$. El punto dado no es el intercepto con el eje $y$. -->
+- [x] B) $y = -2x + 7$ <!-- feedback: Correcto. $y - 1 = -2(x - 3) \Rightarrow y = -2x + 6 + 1 \Rightarrow y = -2x + 7$. -->
+- [ ] A) $y = -2x + 1$ <!-- feedback: Error al calcular el intercepto $b$. El punto dado no es el intercepto con el eje $y$. -->
 - [ ] C) $y = 2x - 5$ <!-- feedback: Se cambió el signo de la pendiente y hubo error en el intercepto. -->
 - [ ] D) $y = -2x - 5$ <!-- feedback: Error de signos al despejar la ecuación. -->
 
@@ -182,8 +182,8 @@ Usando la forma punto-pendiente ($y - y_1 = m(x - x_1)$), se sustituyen los valo
 
 ### Opciones
 - [ ] A) Sus pendientes deben ser recíprocas y opuestas. <!-- feedback: Esta es la condición para que sean perpendiculares. -->
-- [x] B) Sus pendientes deben ser iguales ($m_1 = m_2$). <!-- feedback: Correcto. Si tienen la misma inclinación y diferentes interceptos, nunca se cortarán. -->
-- [ ] C) El producto de sus pendientes debe ser igual a $1$. <!-- feedback: El producto de pendientes no tiene una regla simple para el paralelismo. -->
+- [x] C) Sus pendientes deben ser iguales ($m_1 = m_2$). <!-- feedback: Correcto. Si tienen la misma inclinación y diferentes interceptos, nunca se cortarán. -->
+- [ ] B) El producto de sus pendientes debe ser igual a $1$. <!-- feedback: El producto de pendientes no tiene una regla simple para el paralelismo. -->
 - [ ] D) Una pendiente debe ser el doble de la otra. <!-- feedback: Esto causaría que las rectas se intersecten en algún punto. -->
 
 ### Explicacion Pedagogica
@@ -201,8 +201,8 @@ Si la recta pasa por el origen $(0, 0)$ y por el punto $(4, 12)$, ¿cuál es su 
 
 ### Opciones
 - [ ] A) $y = 4x$ <!-- feedback: Si $x=4, y=16 \ne 12$. -->
-- [x] B) $y = 3x$ <!-- feedback: Correcto. Pendiente $m = 12/4 = 3$. Como pasa por el origen, $b=0$. -->
-- [ ] C) $y = x + 8$ <!-- feedback: No pasa por el origen $(0,0)$. -->
+- [x] C) $y = 3x$ <!-- feedback: Correcto. Pendiente $m = 12/4 = 3$. Como pasa por el origen, $b=0$. -->
+- [ ] B) $y = x + 8$ <!-- feedback: No pasa por el origen $(0,0)$. -->
 - [ ] D) $y = 12x$ <!-- feedback: Pendiente incorrecta. -->
 
 ### Explicacion Pedagogica
@@ -219,9 +219,9 @@ Una recta que pasa por el origen se llama función lineal proporcional y su ecua
 Si la calle A sigue la recta $y = \frac{1}{3}x + 2$, ¿cuál debe ser la pendiente de la calle B para que sea perpendicular?
 
 ### Opciones
-- [ ] A) $1/3$ <!-- feedback: Pendientes iguales significan paralelismo. -->
-- [ ] B) $3$ <!-- feedback: Falta el cambio de signo (debe ser la opuesta de la recíproca). -->
-- [x] C) $-3$ <!-- feedback: Correcto. $(1/3) \times (-3) = -1$. -->
+- [ ] B) $1/3$ <!-- feedback: Pendientes iguales significan paralelismo. -->
+- [ ] C) $3$ <!-- feedback: Falta el cambio de signo (debe ser la opuesta de la recíproca). -->
+- [x] A) $-3$ <!-- feedback: Correcto. $(1/3) \times (-3) = -1$. -->
 - [ ] D) $-1/3$ <!-- feedback: Solo se cambió el signo, falta invertir la fracción. -->
 
 ### Explicacion Pedagogica
@@ -239,8 +239,8 @@ Dos rectas son perpendiculares si y solo si el producto de sus pendientes es $-1
 
 ### Opciones
 - [ ] A) $m = 4, b = 10$ <!-- feedback: No se despejó la variable $y$. -->
-- [x] B) $m = 2, b = 5$ <!-- feedback: Correcto. $2y = 4x + 10 \Rightarrow y = 2x + 5$. -->
-- [ ] C) $m = -2, b = -5$ <!-- feedback: Error al manejar los signos durante el despeje de $y$. -->
+- [x] C) $m = 2, b = 5$ <!-- feedback: Correcto. $2y = 4x + 10 \Rightarrow y = 2x + 5$. -->
+- [ ] B) $m = -2, b = -5$ <!-- feedback: Error al manejar los signos durante el despeje de $y$. -->
 - [ ] D) $m = 2, b = 10$ <!-- feedback: Olvidaste dividir el término independiente por el coeficiente de $y$. -->
 
 ### Explicacion Pedagogica
@@ -257,10 +257,10 @@ Para hallar la pendiente y el intercepto a partir de la forma general, se debe d
 ¿Cuál es la distancia del punto $P(2, 3)$ a la recta $3x + 4y - 8 = 0$?
 
 ### Opciones
-- [x] A) $2$ unidades <!-- feedback: Correcto. $d = |3(2) + 4(3) - 8| / \sqrt{3^2 + 4^2} = |6 + 12 - 8| / 5 = 10 / 5 = 2$. -->
-- [ ] B) $10$ unidades <!-- feedback: Olvidaste dividir por la magnitud del vector normal ($\sqrt{A^2+B^2}$). -->
-- [ ] C) $1.5$ unidades <!-- feedback: Error en el cálculo aritmético del numerador o denominador. -->
-- [ ] D) $5$ unidades <!-- feedback: Error al aplicar la fórmula de distancia de un punto a una recta. -->
+- [x] D) $2$ unidades <!-- feedback: Correcto. $d = |3(2) + 4(3) - 8| / \sqrt{3^2 + 4^2} = |6 + 12 - 8| / 5 = 10 / 5 = 2$. -->
+- [ ] A) $10$ unidades <!-- feedback: Olvidaste dividir por la magnitud del vector normal ($\sqrt{A^2+B^2}$). -->
+- [ ] B) $1.5$ unidades <!-- feedback: Error en el cálculo aritmético del numerador o denominador. -->
+- [ ] C) $5$ unidades <!-- feedback: Error al aplicar la fórmula de distancia de un punto a una recta. -->
 
 ### Explicacion Pedagogica
 La distancia de un punto $(x_0, y_0)$ a una recta $Ax+By+C=0$ se halla con la fórmula $d = \frac{|Ax_0 + By_0 + C|}{\sqrt{A^2 + B^2}}$.
@@ -276,8 +276,8 @@ La distancia de un punto $(x_0, y_0)$ a una recta $Ax+By+C=0$ se halla con la f�
 Dada una recta con ángulo de inclinación $\alpha = 45^\circ$ con el eje positivo de las $x$, ¿cuál es su pendiente?
 
 ### Opciones
-- [ ] A) $0$ <!-- feedback: Esta sería la pendiente si el ángulo fuera $0^\circ$ (horizontal). -->
-- [x] B) $1$ <!-- feedback: Correcto. La pendiente es igual a la tangente del ángulo de inclinación: $\tan(45^\circ) = 1$. -->
+- [ ] B) $0$ <!-- feedback: Esta sería la pendiente si el ángulo fuera $0^\circ$ (horizontal). -->
+- [x] A) $1$ <!-- feedback: Correcto. La pendiente es igual a la tangente del ángulo de inclinación: $\tan(45^\circ) = 1$. -->
 - [ ] C) $\sqrt{2}$ <!-- feedback: Confundiste la tangente con el valor de las funciones seno o coseno evaluadas en otros ángulos. -->
 - [ ] D) Infinito <!-- feedback: Esta sería la pendiente si el ángulo fuera $90^\circ$ (vertical). -->
 
@@ -295,8 +295,8 @@ Existe una relación directa entre la trigonometría y la geometría analítica:
 ¿Cuál es la ecuación general de la recta cuya forma simétrica es $\frac{x}{3} + \frac{y}{4} = 1$?
 
 ### Opciones
-- [ ] A) $3x + 4y - 1 = 0$ <!-- feedback: No se realizó correctamente el producto por el mínimo común múltiplo. -->
-- [x] B) $4x + 3y - 12 = 0$ <!-- feedback: Correcto. Multiplicando por 12: $4x + 3y = 12 \Rightarrow 4x + 3y - 12 = 0$. -->
+- [ ] B) $3x + 4y - 1 = 0$ <!-- feedback: No se realizó correctamente el producto por el mínimo común múltiplo. -->
+- [x] A) $4x + 3y - 12 = 0$ <!-- feedback: Correcto. Multiplicando por 12: $4x + 3y = 12 \Rightarrow 4x + 3y - 12 = 0$. -->
 - [ ] C) $4x + 3y - 1 = 0$ <!-- feedback: Olvidaste multiplicar el término de la derecha por el denominador común. -->
 - [ ] D) $3x + 4y - 12 = 0$ <!-- feedback: Se intercambiaron los coeficientes de las variables. -->
 
@@ -314,10 +314,10 @@ En la forma simétrica $x/a + y/b = 1$, los valores $a$ y $b$ representan las in
 ¿Son colineales los puntos $A(1, 2)$, $B(2, 4)$ y $C(3, 6)$?
 
 ### Opciones
-- [x] A) Sí, porque la pendiente entre $A$ y $B$ es igual a la pendiente entre $B$ y $C$. <!-- feedback: Correcto. $m_{AB} = (4-2)/(2-1) = 2$ y $m_{BC} = (6-4)/(3-2) = 2$. -->
-- [ ] B) No, porque forman un triángulo de área pequeña. <!-- feedback: Si las pendientes son iguales, el área del triángulo formado por ellos es exactamente cero. -->
-- [ ] C) Sí, porque las coordenadas $x$ aumentan de 1 en 1. <!-- feedback: Esto no garantiza colinealidad si las coordenadas $y$ no aumentan de manera proporcional. -->
-- [ ] D) No, porque no hay una recta que pase por el origen. <!-- feedback: La colinealidad no depende de si la recta pasa o no por el origen. -->
+- [x] D) Sí, porque la pendiente entre $A$ y $B$ es igual a la pendiente entre $B$ y $C$. <!-- feedback: Correcto. $m_{AB} = (4-2)/(2-1) = 2$ y $m_{BC} = (6-4)/(3-2) = 2$. -->
+- [ ] A) No, porque forman un triángulo de área pequeña. <!-- feedback: Si las pendientes son iguales, el área del triángulo formado por ellos es exactamente cero. -->
+- [ ] B) Sí, porque las coordenadas $x$ aumentan de 1 en 1. <!-- feedback: Esto no garantiza colinealidad si las coordenadas $y$ no aumentan de manera proporcional. -->
+- [ ] C) No, porque no hay una recta que pase por el origen. <!-- feedback: La colinealidad no depende de si la recta pasa o no por el origen. -->
 
 ### Explicacion Pedagogica
 Tres o más puntos son colineales si pertenecen a la misma recta, lo cual algebraicamente se verifica comprobando que las pendientes entre cualquier par de puntos sean idénticas.
@@ -333,8 +333,8 @@ Tres o más puntos son colineales si pertenecen a la misma recta, lo cual algebr
 ¿Cuáles son las coordenadas del punto $P$ que divide al segmento $AB$ con $A(1, 1)$ y $B(7, 4)$ en una razón $r = 2$ (es decir, $AP = 2PB$)?
 
 ### Opciones
-- [ ] A) $(4, 2.5)$ <!-- feedback: Este es el punto medio (razón 1). -->
-- [x] B) $(5, 3)$ <!-- feedback: Correcto. $x_p = (1 + 2 \times 7) / (1 + 2) = 15/3 = 5$; $y_p = (1 + 2 \times 4) / (1 + 2) = 9/3 = 3$. -->
+- [ ] B) $(4, 2.5)$ <!-- feedback: Este es el punto medio (razón 1). -->
+- [x] A) $(5, 3)$ <!-- feedback: Correcto. $x_p = (1 + 2 \times 7) / (1 + 2) = 15/3 = 5$; $y_p = (1 + 2 \times 4) / (1 + 2) = 9/3 = 3$. -->
 - [ ] C) $(3, 2)$ <!-- feedback: Error al aplicar la fórmula de división de un segmento en una razón dada. -->
 - [ ] D) $(4, 3)$ <!-- feedback: Incorrecto. No satisface la razón de distancias requerida. -->
 
@@ -353,9 +353,9 @@ La división de un segmento en una razón $r$ utiliza la fórmula $x = (x_1 + r 
 
 ### Opciones
 - [ ] A) $30^\circ$ <!-- feedback: Incorrecto. -->
-- [x] B) $45^\circ$ <!-- feedback: Correcto. $\tan(\theta) = |(m_2 - m_1) / (1 + m_1 m_2)| = |(-3 - 2) / (1 + (2)(-3))| = |-5 / -5| = 1$. $\arctan(1) = 45^\circ$. -->
-- [ ] C) $60^\circ$ <!-- feedback: Incorrecto. -->
-- [ ] D) $90^\circ$ <!-- feedback: Solo si el producto de pendientes fuera $-1$, pero $2 \times (-3) = -6$. -->
+- [x] D) $45^\circ$ <!-- feedback: Correcto. $\tan(\theta) = |(m_2 - m_1) / (1 + m_1 m_2)| = |(-3 - 2) / (1 + (2)(-3))| = |-5 / -5| = 1$. $\arctan(1) = 45^\circ$. -->
+- [ ] B) $60^\circ$ <!-- feedback: Incorrecto. -->
+- [ ] C) $90^\circ$ <!-- feedback: Solo si el producto de pendientes fuera $-1$, pero $2 \times (-3) = -6$. -->
 
 ### Explicacion Pedagogica
 El ángulo entre dos rectas se halla mediante la fórmula de la tangente de la diferencia de sus ángulos de inclinación, expresada en términos de sus pendientes.
@@ -372,8 +372,8 @@ El ángulo entre dos rectas se halla mediante la fórmula de la tangente de la d
 
 ### Opciones
 - [ ] A) $(2.5, 0)$ <!-- feedback: Este es el intercepto con $x$, no necesariamente el más cercano al origen. -->
-- [x] B) $(2, 1)$ <!-- feedback: Correcto. El punto más cercano está en la recta perpendicular que pasa por el origen ($y = 0.5x$). Intersección: $2x + 0.5x = 5 \Rightarrow 2.5x = 5 \Rightarrow x=2, y=1$. -->
-- [ ] C) $(1, 3)$ <!-- feedback: Este punto está en la recta, pero su distancia al origen ($\sqrt{10}$) es mayor que la de $(2,1)$ que es $\sqrt{5}$. -->
+- [x] C) $(2, 1)$ <!-- feedback: Correcto. El punto más cercano está en la recta perpendicular que pasa por el origen ($y = 0.5x$). Intersección: $2x + 0.5x = 5 \Rightarrow 2.5x = 5 \Rightarrow x=2, y=1$. -->
+- [ ] B) $(1, 3)$ <!-- feedback: Este punto está en la recta, pero su distancia al origen ($\sqrt{10}$) es mayor que la de $(2,1)$ que es $\sqrt{5}$. -->
 - [ ] D) $(0, 5)$ <!-- feedback: Este es el intercepto con $y$, más alejado que el punto perpendicular. -->
 
 ### Explicacion Pedagogica
@@ -391,8 +391,8 @@ El punto de una recta más cercano al origen es el pie de la perpendicular traza
 
 ### Opciones
 - [ ] A) $y = 2x - 3$ <!-- feedback: Esta recta pasa por los puntos, no es la mediatriz. -->
-- [x] B) $x + 2y - 9 = 0$ <!-- feedback: Correcto. Punto medio $M(3, 3)$. Pendiente $AB = 4/2 = 2$. Pendiente mediatriz $m = -1/2$. Ecuación: $y - 3 = -1/2(x - 3) \Rightarrow 2y - 6 = -x + 3 \Rightarrow x + 2y - 9 = 0$. -->
-- [ ] C) $2x + y - 9 = 0$ <!-- feedback: Error al calcular la pendiente perpendicular. -->
+- [x] C) $x + 2y - 9 = 0$ <!-- feedback: Correcto. Punto medio $M(3, 3)$. Pendiente $AB = 4/2 = 2$. Pendiente mediatriz $m = -1/2$. Ecuación: $y - 3 = -1/2(x - 3) \Rightarrow 2y - 6 = -x + 3 \Rightarrow x + 2y - 9 = 0$. -->
+- [ ] B) $2x + y - 9 = 0$ <!-- feedback: Error al calcular la pendiente perpendicular. -->
 - [ ] D) $x - 2y + 3 = 0$ <!-- feedback: Error en los signos de la ecuación general resultante. -->
 
 ### Explicacion Pedagogica

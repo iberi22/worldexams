@@ -34,11 +34,11 @@ Reconocimiento de números primos y compuestos a partir de sus divisores, descom
 ¿Cuál de los siguientes números es primo?
 
 ### Opciones
-- [x] A) 7
+- [x] C) 7
   <!-- feedback: El 7 solo tiene dos divisores: el 1 y el 7, por eso es primo. -->
-- [ ] B) 4
+- [ ] A) 4
   <!-- feedback: El 4 tiene como divisores el 1, el 2 y el 4; por tener más de dos divisores es compuesto. -->
-- [ ] C) 9
+- [ ] B) 9
   <!-- feedback: El 9 se divide entre 1, 3 y 9; al tener tres divisores es un número compuesto. -->
 - [ ] D) 15
   <!-- feedback: El 15 se divide entre 1, 3, 5 y 15; por tener más de dos divisores es compuesto. -->
@@ -57,13 +57,13 @@ Un número primo es aquel que tiene exactamente dos divisores positivos: el 1 y 
 ¿Cuál es la razón por la que el número 1 no se considera primo ni compuesto?
 
 ### Opciones
-- [x] A) Porque solamente tiene un divisor positivo, que es él mismo, y los primos necesitan exactamente dos.
+- [x] D) Porque solamente tiene un divisor positivo, que es él mismo, y los primos necesitan exactamente dos.
   <!-- feedback: El 1 tiene un único divisor (el 1), así que no alcanza los dos divisores que exige la definición de primo ni los más de dos de un compuesto. -->
-- [ ] B) Porque es un número impar y todos los primos deben ser pares.
+- [ ] A) Porque es un número impar y todos los primos deben ser pares.
   <!-- feedback: Existen primos impares como el 3, el 5 y el 7; la paridad no define si un número es primo. -->
-- [ ] C) Porque se puede dividir exactamente entre 3.
+- [ ] B) Porque se puede dividir exactamente entre 3.
   <!-- feedback: El 1 no se divide exactamente entre 3; además, ese criterio no explica su clasificación. -->
-- [ ] D) Porque es un número muy pequeño y los primos empiezan después del 10.
+- [ ] C) Porque es un número muy pequeño y los primos empiezan después del 10.
   <!-- feedback: El tamaño no importa: hay primos menores que 10, como el 2, el 3, el 5 y el 7. -->
 
 ### Explicacion Pedagogica
@@ -103,11 +103,11 @@ Descomponer en factores primos significa expresar el número como producto de n�
 ¿Cuántos números primos hay entre 10 y 20?
 
 ### Opciones
-- [x] A) 4
+- [x] C) 4
   <!-- feedback: Los primos entre 10 y 20 son 11, 13, 17 y 19, es decir, cuatro números. -->
-- [ ] B) 3
+- [ ] A) 3
   <!-- feedback: Faltan primos en el conteo; entre 10 y 20 hay cuatro primos, no tres. -->
-- [ ] C) 5
+- [ ] B) 5
   <!-- feedback: Se contó de más; números como 15 no son primos porque se divide entre 3 y 5. -->
 - [ ] D) 6
   <!-- feedback: Se incluyeron números compuestos; los pares mayores que 2 y los múltiplos de 3 o 5 no son primos. -->
@@ -126,11 +126,11 @@ Entre 10 y 20 los números primos son 11, 13, 17 y 19. Los demás números de es
 ¿Cuál de los siguientes números es compuesto?
 
 ### Opciones
-- [x] A) 21
+- [x] C) 21
   <!-- feedback: 21 = 3 × 7, por lo que tiene divisores adicionales al 1 y a sí mismo; es compuesto. -->
-- [ ] B) 17
+- [ ] A) 17
   <!-- feedback: El 17 solo se divide entre 1 y 17, así que es un número primo. -->
-- [ ] C) 19
+- [ ] B) 19
   <!-- feedback: El 19 solo tiene como divisores 1 y 19, por eso es primo. -->
 - [ ] D) 23
   <!-- feedback: El 23 es primo porque sus únicos divisores son 1 y 23. -->
@@ -149,9 +149,9 @@ Un número compuesto tiene más de dos divisores positivos. El 21 se puede escri
 ¿Cuál es la mejor justificación de que todo número par mayor que 2 sea compuesto?
 
 ### Opciones
-- [x] A) Porque todo número par mayor que 2 se puede dividir exactamente entre 2, además del 1 y de sí mismo.
+- [x] B) Porque todo número par mayor que 2 se puede dividir exactamente entre 2, además del 1 y de sí mismo.
   <!-- feedback: Esa división exacta aporta un tercer divisor, y por eso el número deja de ser primo y se vuelve compuesto. -->
-- [ ] B) Porque todos los números pares terminan en 0 y por eso son compuestos.
+- [ ] A) Porque todos los números pares terminan en 0 y por eso son compuestos.
   <!-- feedback: No todos los pares terminan en 0; por ejemplo, 14 y 26 son pares y terminan en otras cifras. -->
 - [ ] C) Porque los números pares no tienen divisores.
   <!-- feedback: Todo número tiene al menos los divisores 1 y él mismo; los pares tienen además el 2. -->
@@ -172,9 +172,9 @@ Todo número par se puede dividir exactamente entre 2. Si además es mayor que 2
 ¿Por qué es incorrecta la afirmación de Valentina sobre el número 51?
 
 ### Opciones
-- [x] A) Porque el 51 también se divide exactamente entre 3, ya que 51 = 3 × 17, y entonces tiene más de dos divisores.
+- [x] B) Porque el 51 también se divide exactamente entre 3, ya que 51 = 3 × 17, y entonces tiene más de dos divisores.
   <!-- feedback: Al encontrar el divisor 3 y su pareja 17, se muestra que el 51 es compuesto y no primo. -->
-- [ ] B) Porque el 51 termina en 1 y todos los números que terminan en 1 son compuestos.
+- [ ] A) Porque el 51 termina en 1 y todos los números que terminan en 1 son compuestos.
   <!-- feedback: Terminar en 1 no basta: el 11 y el 31 terminan en 1 y son primos. -->
 - [ ] C) Porque el 51 es menor que 100 y todos los números menores que 100 son compuestos.
   <!-- feedback: Eso es falso: 2, 3, 5, 7 y muchos otros menores que 100 son primos. -->
@@ -195,11 +195,11 @@ Para verificar si un número es primo no basta con revisar si es par o si termin
 ¿Cuál de las siguientes opciones demuestra que la afirmación de Valentina es falsa?
 
 ### Opciones
-- [x] A) El 9 es impar, pero es compuesto, porque 9 = 3 × 3.
+- [x] C) El 9 es impar, pero es compuesto, porque 9 = 3 × 3.
   <!-- feedback: Este ejemplo cumple la condición de ser impar y a la vez la contradice, pues no es primo; así refuta la afirmación. -->
-- [ ] B) El 7 es impar y además es primo.
+- [ ] A) El 7 es impar y además es primo.
   <!-- feedback: Este ejemplo está de acuerdo con la afirmación y por eso no sirve para refutarla. -->
-- [ ] C) El 2 es par y además es primo.
+- [ ] B) El 2 es par y además es primo.
   <!-- feedback: El ejemplo habla de un número par, así que no dice nada sobre la afirmación referida a los impares. -->
 - [ ] D) El 15 es par y es compuesto.
   <!-- feedback: El 15 es impar, no par, así que el dato está mal y no prueba nada sobre la afirmación. -->

@@ -35,9 +35,9 @@ bundle_index: 1
 ¿Qué representa geométricamente la integral definida $\int_a^b f(x) \, dx$ para una función continua y positiva?
 
 ### Opciones
-- [ ] A) La pendiente de la recta tangente en el intervalo $[a, b]$.
+- [ ] B) La pendiente de la recta tangente en el intervalo $[a, b]$.
   <!-- feedback: Incorrecto. Eso se relaciona con la derivada. -->
-- [x] B) El área neta bajo la curva entre el eje $x$ y las rectas $x=a$ y $x=b$.
+- [x] A) El área neta bajo la curva entre el eje $x$ y las rectas $x=a$ y $x=b$.
   <!-- feedback: Correcto. La integral definida es la herramienta fundamental para el cálculo de áreas en el plano. -->
 - [ ] C) El volumen de la función al rotar sobre el eje $y$.
   <!-- feedback: Incorrecto. Eso requiere una fórmula adicional (sólidos de revolución). -->
@@ -60,9 +60,9 @@ La integral definida suma infinitesimalmente los productos de la altura ($f(x)$)
 ¿Qué establece la Regla de Barrow para calcular una integral definida de una función continua $f(x)$ con antiderivada $F(x)$?
 
 ### Opciones
-- [x] A) $\int_a^b f(x) \, dx = F(b) - F(a)$
+- [x] B) $\int_a^b f(x) \, dx = F(b) - F(a)$
   <!-- feedback: Correcto. Esta regla permite evaluar integrales definidas usando las antiderivadas calculadas previamente. -->
-- [ ] B) $\int_a^b f(x) \, dx = F(a) - F(b)$
+- [ ] A) $\int_a^b f(x) \, dx = F(a) - F(b)$
   <!-- feedback: Incorrecto. El orden de los límites es superior menos inferior. -->
 - [ ] C) El valor es simplemente $f(b) - f(a)$
   <!-- feedback: Incorrecto. Se deben usar las antiderivadas ($F$), no los valores de la función original ($f$). -->
@@ -87,9 +87,9 @@ Calcule el valor de $\int_1^3 2x \, dx$.
 ### Opciones
 - [ ] A) 4
   <!-- feedback: Incorrecto. Verifique la evaluación en los límites superior e inferior. -->
-- [x] B) 8
+- [x] C) 8
   <!-- feedback: Correcto. Antiderivada de $2x$ es $x^2$. Evaluando: $3^2 - 1^2 = 9 - 1 = 8$. -->
-- [ ] C) 9
+- [ ] B) 9
   <!-- feedback: Incorrecto. Olvidó restar el valor en el límite inferior. -->
 - [ ] D) 10
   <!-- feedback: Incorrecto. Error en el cálculo de la antiderivada. -->
@@ -112,11 +112,11 @@ Si $\int_0^5 f(x) \, dx = 10$ y $\int_0^2 f(x) \, dx = 3$, ¿cuál es el valor d
 ### Opciones
 - [ ] A) 13
   <!-- feedback: Incorrecto. Sumó los valores en lugar de aplicar la propiedad de aditividad del intervalo. -->
-- [x] B) 7
+- [x] D) 7
   <!-- feedback: Correcto. Por la propiedad de aditividad: $\int_0^5 = \int_0^2 + \int_2^5 \Rightarrow 10 = 3 + \int_2^5 \Rightarrow \int_2^5 = 7$. -->
-- [ ] C) 3.33
+- [ ] B) 3.33
   <!-- feedback: Incorrecto. La integral no se divide proporcionalmente si no conocemos la función. -->
-- [ ] D) No se puede determinar.
+- [ ] C) No se puede determinar.
   <!-- feedback: Incorrecto. Las propiedades de la integral permiten hallar este valor con los datos dados. -->
 
 ### Explicacion Pedagogica
@@ -141,9 +141,9 @@ Uso de la propiedad de aditividad respecto al intervalo de integración para des
 ### Opciones
 - [ ] A) 4
   <!-- feedback: Incorrecto. Este es el valor de la altura en el extremo, no el área. -->
-- [x] B) 8/3
+- [x] C) 8/3
   <!-- feedback: Correcto. $\int_0^2 x^2 \, dx = [x^3/3]_0^2 = 8/3 - 0 = 8/3$. -->
-- [ ] C) 2
+- [ ] B) 2
   <!-- feedback: Incorrecto. Error al integrar o evaluar. -->
 - [ ] D) 4/3
   <!-- feedback: Incorrecto. Dividió por el límite superior en lugar de aplicar la potencia. -->
@@ -191,11 +191,11 @@ Si $f(x)$ es una función impar (como $x^3$) y el intervalo es simétrico respec
 ### Opciones
 - [ ] A) $2 \int_0^a f(x) \, dx$
   <!-- feedback: Incorrecto. Esto es válido para funciones pares. -->
-- [x] B) 0
+- [x] D) 0
   <!-- feedback: Correcto. En funciones impares, el área a la izquierda del eje y tiene el signo opuesto al área a la derecha, por lo que se anulan. -->
-- [ ] C) $a^2$
+- [ ] B) $a^2$
   <!-- feedback: Incorrecto. No hay relación directa con el cuadrado del límite. -->
-- [ ] D) Depende del valor de $a$.
+- [ ] C) Depende del valor de $a$.
   <!-- feedback: Incorrecto. Para cualquier $a$ en el dominio de una función impar, la integral sobre el intervalo simétrico es cero. -->
 
 ### Explicacion Pedagogica
@@ -214,11 +214,11 @@ Uso de propiedades de paridad y simetría para simplificar el cálculo de integr
 ¿Cuál es el valor de dicha área?
 
 ### Opciones
-- [ ] A) 1/2
+- [ ] B) 1/2
   <!-- feedback: Incorrecto. Área bajo la recta $y=x$ desde 0 a 1. -->
-- [ ] B) 1/3
+- [ ] C) 1/3
   <!-- feedback: Incorrecto. Área bajo la parábola $y=x^2$ desde 0 a 1. -->
-- [x] C) 1/6
+- [x] A) 1/6
   <!-- feedback: Correcto. Puntos de corte: $x = x^2 \Rightarrow x=0, x=1$. Área = $\int_0^1 (x - x^2) \, dx = [x^2/2 - x^3/3]_0^1 = 1/2 - 1/3 = 1/6$. -->
 - [ ] D) 1
   <!-- feedback: Incorrecto. Sumó las áreas en lugar de restarlas. -->
@@ -243,9 +243,9 @@ Procedimiento para hallar el área entre dos funciones: identificar puntos de in
   <!-- feedback: Incorrecto. Error en el proceso de integración. -->
 - [ ] B) 12 °C
   <!-- feedback: Incorrecto. Olvidó aplicar el exponente 3/2 correctamente. -->
-- [x] C) 16 °C
+- [x] D) 16 °C
   <!-- feedback: Correcto. $\int_0^4 3t^{1/2} \, dt = [3 \frac{t^{3/2}}{3/2}]_0^4 = [2t^{3/2}]_0^4 = 2(4^{3/2}) = 2(8) = 16$. -->
-- [ ] D) 24 °C
+- [ ] C) 24 °C
   <!-- feedback: Incorrecto. Multiplicó mal los términos finales. -->
 
 ### Explicacion Pedagogica
@@ -266,11 +266,11 @@ Si $g(x) = \int_0^x e^{t^2} \, dt$, ¿cuál es el valor de $g'(x)$?
 ### Opciones
 - [ ] A) $e^{x^2} \cdot 2x$
   <!-- feedback: Incorrecto. Aplicó regla de la cadena innecesariamente para el límite superior simple. -->
-- [x] B) $e^{x^2}$
+- [x] D) $e^{x^2}$
   <!-- feedback: Correcto. Por el Teorema Fundamental del Cálculo, la derivada de una integral respecto a su límite superior es el integrando evaluado en ese límite. -->
-- [ ] C) $\frac{e^{x^2}}{2x}$
+- [ ] B) $\frac{e^{x^2}}{2x}$
   <!-- feedback: Incorrecto. Trató de integrar en lugar de derivar. -->
-- [ ] D) $0$
+- [ ] C) $0$
   <!-- feedback: Incorrecto. La función $g(x)$ cambia con $x$, por lo que su derivada no es cero. -->
 
 ### Explicacion Pedagogica
@@ -343,11 +343,11 @@ Interpretación de la integral definida como herramienta para calcular promedios
 ¿Cuál es el valor promedio de la función?
 
 ### Opciones
-- [ ] A) 9
+- [ ] B) 9
   <!-- feedback: Incorrecto. Este es el valor máximo en el intervalo. -->
-- [ ] B) 4.5
+- [ ] C) 4.5
   <!-- feedback: Incorrecto. Promedio simple de los extremos, lo cual no es válido para funciones no lineales. -->
-- [x] C) 3
+- [x] A) 3
   <!-- feedback: Correcto. Área = $\int_0^3 x^2 \, dx = 9$. Promedio = Área / Longitud = $9 / (3 - 0) = 3$. -->
 - [ ] D) 1
   <!-- feedback: Incorrecto. Error en el proceso de integración o división. -->
@@ -395,9 +395,9 @@ Calcule el valor de la integral.
 ### Opciones
 - [ ] A) 0
   <!-- feedback: Incorrecto. El valor absoluto siempre es positivo o cero; el área no puede anularse. -->
-- [x] B) 4
+- [x] C) 4
   <!-- feedback: Correcto. Geométricamente son dos triángulos de base 2 y altura 2. Área = $2(2 \cdot 2 / 2) = 4$. -->
-- [ ] C) 2
+- [ ] B) 2
   <!-- feedback: Incorrecto. Solo consideró un lado del eje y. -->
 - [ ] D) 8
   <!-- feedback: Incorrecto. Error al calcular el área de los triángulos (no dividió por 2). -->
@@ -418,9 +418,9 @@ Resolución de integrales de funciones no suaves mediante la descomposición en 
 ¿Cuál de las siguientes integrales representa el área de un semicírculo de radio 1?
 
 ### Opciones
-- [ ] A) $\int_{-1}^1 (1 - x^2) \, dx$
+- [ ] B) $\int_{-1}^1 (1 - x^2) \, dx$
   <!-- feedback: Incorrecto. Esta es el área bajo una parábola. -->
-- [x] B) $\int_{-1}^1 \sqrt{1 - x^2} \, dx$
+- [x] A) $\int_{-1}^1 \sqrt{1 - x^2} \, dx$
   <!-- feedback: Correcto. La ecuación del círculo es $x^2 + y^2 = 1$, despejando $y = \sqrt{1-x^2}$. El resultado es $\pi/2$. -->
 - [ ] C) $\int_0^1 \pi x^2 \, dx$
   <!-- feedback: Incorrecto. Esto se relaciona con el volumen de un sólido de revolución. -->
@@ -447,9 +447,9 @@ Modelado de figuras geométricas clásicas (círculos) mediante funciones irraci
 ¿Cuál es el área total bajo la curva desde $x=0$ hasta el infinito?
 
 ### Opciones
-- [ ] A) 0
+- [ ] B) 0
   <!-- feedback: Incorrecto. La función es positiva en todo su dominio. -->
-- [x] B) 1
+- [x] A) 1
   <!-- feedback: Correcto. $\lim_{b \to \infty} \int_0^b e^{-x} \, dx = \lim_{b \to \infty} [-e^{-x}]_0^b = \lim_{b \to \infty} (-e^{-b} + e^0) = 0 + 1 = 1$. -->
 - [ ] C) $\infty$
   <!-- feedback: Incorrecto. Aunque el intervalo es infinito, el área converge a un valor finito. -->
@@ -474,11 +474,11 @@ Calcule el trabajo total realizado ($W = \int F \, dx$).
 ### Opciones
 - [ ] A) 10 J
   <!-- feedback: Incorrecto. Valor obtenido por una integración errónea. -->
-- [x] B) 8 J
+- [x] D) 8 J
   <!-- feedback: Correcto. $\int_1^5 10x^{-2} \, dx = [-10/x]_1^5 = -10/5 - (-10/1) = -2 + 10 = 8$. -->
-- [ ] C) 2 J
+- [ ] B) 2 J
   <!-- feedback: Incorrecto. Error de signo al evaluar la antiderivada. -->
-- [ ] D) 50 J
+- [ ] C) 50 J
   <!-- feedback: Incorrecto. Multiplicó la fuerza máxima por la distancia. -->
 
 ### Explicacion Pedagogica

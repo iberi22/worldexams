@@ -35,9 +35,9 @@ Este bundle evalúa conceptos clave de Expresiones Algebraicas y Polinomios alin
 ¿Cómo se determina el grado absoluto de un polinomio de varias variables?
 
 ### Opciones
-- [x] A) Es la mayor suma de los exponentes de las variables en un solo término del polinomio. <!-- feedback: ¡Correcto! El grado absoluto es el máximo grado de todos sus términos. -->
-- [ ] B) Es la suma de todos los exponentes del polinomio completo. <!-- feedback: Incorrecto. No se suman todos los exponentes del polinomio para hallar el grado absoluto. -->
-- [ ] C) Es el exponente más alto de la variable con mayor coeficiente principal. <!-- feedback: Incorrecto. El grado no depende del valor numérico del coeficiente. -->
+- [x] C) Es la mayor suma de los exponentes de las variables en un solo término del polinomio. <!-- feedback: ¡Correcto! El grado absoluto es el máximo grado de todos sus términos. -->
+- [ ] A) Es la suma de todos los exponentes del polinomio completo. <!-- feedback: Incorrecto. No se suman todos los exponentes del polinomio para hallar el grado absoluto. -->
+- [ ] B) Es el exponente más alto de la variable con mayor coeficiente principal. <!-- feedback: Incorrecto. El grado no depende del valor numérico del coeficiente. -->
 - [ ] D) Es el número total de términos no semejantes del polinomio. <!-- feedback: Incorrecto. Eso define la cantidad de términos del polinomio, no su grado absoluto. -->
 
 ### Explicacion Pedagogica
@@ -56,10 +56,10 @@ El grado absoluto de un polinomio es el mayor grado absoluto de sus términos co
 En el polinomio $P(x) = 5x^3 - 3x^2 + 8x - 12$, ¿cuál es el término independiente?
 
 ### Opciones
-- [x] A) $-12$ <!-- feedback: ¡Correcto! El término independiente es aquel que no está acompañado por la variable $x$, es decir, $-12$. -->
-- [ ] B) $5$ <!-- feedback: Incorrecto. $5$ es el coeficiente principal del término de mayor grado. -->
-- [ ] C) $8$ <!-- feedback: Incorrecto. $8$ es el coeficiente del término lineal. -->
-- [ ] D) $-3$ <!-- feedback: Incorrecto. $-3$ es el coeficiente del término cuadrático. -->
+- [x] D) $-12$ <!-- feedback: ¡Correcto! El término independiente es aquel que no está acompañado por la variable $x$, es decir, $-12$. -->
+- [ ] A) $5$ <!-- feedback: Incorrecto. $5$ es el coeficiente principal del término de mayor grado. -->
+- [ ] B) $8$ <!-- feedback: Incorrecto. $8$ es el coeficiente del término lineal. -->
+- [ ] C) $-3$ <!-- feedback: Incorrecto. $-3$ es el coeficiente del término cuadrático. -->
 
 ### Explicacion Pedagogica
 El término independiente de un polinomio es el término que no tiene variable (es de grado 0), que en este caso es $-12$.
@@ -98,8 +98,8 @@ Factorizando por término común: $5x^2 + 10x = 5x(x + 2)$. El término común e
 El área de un depósito rectangular en Encarnación está dada por el polinomio $A(x) = 2x^2 + 4x$. Si factorizamos esta expresión por término común, ¿qué factor lineal común se obtiene?
 
 ### Opciones
-- [x] A) 2x <!-- feedback: ¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x. -->
-- [ ] B) x + 2 <!-- feedback: Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior. -->
+- [x] B) 2x <!-- feedback: ¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x. -->
+- [ ] A) x + 2 <!-- feedback: Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior. -->
 - [ ] C) 2 <!-- feedback: Incorrecto. Falta la variable x en el factor común exterior. -->
 - [ ] D) x^2 <!-- feedback: Incorrecto. El segundo término solo contiene x, no x al cuadrado. -->
 
@@ -140,10 +140,10 @@ Factorizando por término común: $3x^2 + 6x = 3x(x + 2)$. El término común ex
 El área de un depósito rectangular en Caacupé está dada por el polinomio $A(x) = 4x^2 + 8x$. Si factorizamos esta expresión por término común, ¿qué factor lineal común se obtiene?
 
 ### Opciones
-- [x] A) 4x <!-- feedback: ¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x. -->
-- [ ] B) x + 4 <!-- feedback: Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior. -->
-- [ ] C) 4 <!-- feedback: Incorrecto. Falta la variable x en el factor común exterior. -->
-- [ ] D) x^2 <!-- feedback: Incorrecto. El segundo término solo contiene x, no x al cuadrado. -->
+- [x] D) 4x <!-- feedback: ¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x. -->
+- [ ] A) x + 4 <!-- feedback: Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior. -->
+- [ ] B) 4 <!-- feedback: Incorrecto. Falta la variable x en el factor común exterior. -->
+- [ ] C) x^2 <!-- feedback: Incorrecto. El segundo término solo contiene x, no x al cuadrado. -->
 
 ### Explicacion Pedagogica
 Factorizando por término común: $4x^2 + 8x = 4x(x + 2)$. El término común exterior es $4x$.
@@ -161,8 +161,8 @@ Factorizando por término común: $4x^2 + 8x = 4x(x + 2)$. El término común ex
 El área de un depósito rectangular en Pilar está dada por el polinomio $A(x) = 5x^2 + 10x$. Si factorizamos esta expresión por término común, ¿qué factor lineal común se obtiene?
 
 ### Opciones
-- [x] A) 5x <!-- feedback: ¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x. -->
-- [ ] B) x + 5 <!-- feedback: Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior. -->
+- [x] B) 5x <!-- feedback: ¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x. -->
+- [ ] A) x + 5 <!-- feedback: Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior. -->
 - [ ] C) 5 <!-- feedback: Incorrecto. Falta la variable x en el factor común exterior. -->
 - [ ] D) x^2 <!-- feedback: Incorrecto. El segundo término solo contiene x, no x al cuadrado. -->
 
@@ -182,8 +182,8 @@ Factorizando por término común: $5x^2 + 10x = 5x(x + 2)$. El término común e
 El área de un depósito rectangular en Coronel Oviedo está dada por el polinomio $A(x) = 2x^2 + 4x$. Si factorizamos esta expresión por término común, ¿qué factor lineal común se obtiene?
 
 ### Opciones
-- [x] A) 2x <!-- feedback: ¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x. -->
-- [ ] B) x + 2 <!-- feedback: Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior. -->
+- [x] B) 2x <!-- feedback: ¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x. -->
+- [ ] A) x + 2 <!-- feedback: Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior. -->
 - [ ] C) 2 <!-- feedback: Incorrecto. Falta la variable x en el factor común exterior. -->
 - [ ] D) x^2 <!-- feedback: Incorrecto. El segundo término solo contiene x, no x al cuadrado. -->
 
@@ -203,9 +203,9 @@ Factorizando por término común: $2x^2 + 4x = 2x(x + 2)$. El término común ex
 El área de un depósito rectangular en Concepción está dada por el polinomio $A(x) = 3x^2 + 6x$. Si factorizamos esta expresión por término común, ¿qué factor lineal común se obtiene?
 
 ### Opciones
-- [x] A) 3x <!-- feedback: ¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x. -->
-- [ ] B) x + 3 <!-- feedback: Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior. -->
-- [ ] C) 3 <!-- feedback: Incorrecto. Falta la variable x en el factor común exterior. -->
+- [x] C) 3x <!-- feedback: ¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x. -->
+- [ ] A) x + 3 <!-- feedback: Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior. -->
+- [ ] B) 3 <!-- feedback: Incorrecto. Falta la variable x en el factor común exterior. -->
 - [ ] D) x^2 <!-- feedback: Incorrecto. El segundo término solo contiene x, no x al cuadrado. -->
 
 ### Explicacion Pedagogica
@@ -224,8 +224,8 @@ Factorizando por término común: $3x^2 + 6x = 3x(x + 2)$. El término común ex
 El área de un depósito rectangular en Villarrica está dada por el polinomio $A(x) = 4x^2 + 8x$. Si factorizamos esta expresión por término común, ¿qué factor lineal común se obtiene?
 
 ### Opciones
-- [x] A) 4x <!-- feedback: ¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x. -->
-- [ ] B) x + 4 <!-- feedback: Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior. -->
+- [x] B) 4x <!-- feedback: ¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x. -->
+- [ ] A) x + 4 <!-- feedback: Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior. -->
 - [ ] C) 4 <!-- feedback: Incorrecto. Falta la variable x en el factor común exterior. -->
 - [ ] D) x^2 <!-- feedback: Incorrecto. El segundo término solo contiene x, no x al cuadrado. -->
 
@@ -266,8 +266,8 @@ Factorizando por término común: $5x^2 + 10x = 5x(x + 2)$. El término común e
 El área de un depósito rectangular en San Lorenzo está dada por el polinomio $A(x) = 2x^2 + 4x$. Si factorizamos esta expresión por término común, ¿qué factor lineal común se obtiene?
 
 ### Opciones
-- [x] A) 2x <!-- feedback: ¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x. -->
-- [ ] B) x + 2 <!-- feedback: Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior. -->
+- [x] B) 2x <!-- feedback: ¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x. -->
+- [ ] A) x + 2 <!-- feedback: Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior. -->
 - [ ] C) 2 <!-- feedback: Incorrecto. Falta la variable x en el factor común exterior. -->
 - [ ] D) x^2 <!-- feedback: Incorrecto. El segundo término solo contiene x, no x al cuadrado. -->
 
@@ -308,9 +308,9 @@ Factorizando por término común: $3x^2 + 6x = 3x(x + 2)$. El término común ex
 El área de un depósito rectangular en Encarnación está dada por el polinomio $A(x) = 4x^2 + 8x$. Si factorizamos esta expresión por término común, ¿qué factor lineal común se obtiene?
 
 ### Opciones
-- [x] A) 4x <!-- feedback: ¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x. -->
-- [ ] B) x + 4 <!-- feedback: Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior. -->
-- [ ] C) 4 <!-- feedback: Incorrecto. Falta la variable x en el factor común exterior. -->
+- [x] C) 4x <!-- feedback: ¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x. -->
+- [ ] A) x + 4 <!-- feedback: Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior. -->
+- [ ] B) 4 <!-- feedback: Incorrecto. Falta la variable x en el factor común exterior. -->
 - [ ] D) x^2 <!-- feedback: Incorrecto. El segundo término solo contiene x, no x al cuadrado. -->
 
 ### Explicacion Pedagogica
@@ -329,9 +329,9 @@ Factorizando por término común: $4x^2 + 8x = 4x(x + 2)$. El término común ex
 El área de un depósito rectangular en Ciudad del Este está dada por el polinomio $A(x) = 5x^2 + 10x$. Si factorizamos esta expresión por término común, ¿qué factor lineal común se obtiene?
 
 ### Opciones
-- [x] A) 5x <!-- feedback: ¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x. -->
-- [ ] B) x + 5 <!-- feedback: Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior. -->
-- [ ] C) 5 <!-- feedback: Incorrecto. Falta la variable x en el factor común exterior. -->
+- [x] C) 5x <!-- feedback: ¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x. -->
+- [ ] A) x + 5 <!-- feedback: Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior. -->
+- [ ] B) 5 <!-- feedback: Incorrecto. Falta la variable x en el factor común exterior. -->
 - [ ] D) x^2 <!-- feedback: Incorrecto. El segundo término solo contiene x, no x al cuadrado. -->
 
 ### Explicacion Pedagogica
@@ -371,8 +371,8 @@ Factorizando por término común: $2x^2 + 4x = 2x(x + 2)$. El término común ex
 El área de un depósito rectangular en Pilar está dada por el polinomio $A(x) = 3x^2 + 6x$. Si factorizamos esta expresión por término común, ¿qué factor lineal común se obtiene?
 
 ### Opciones
-- [x] A) 3x <!-- feedback: ¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x. -->
-- [ ] B) x + 3 <!-- feedback: Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior. -->
+- [x] B) 3x <!-- feedback: ¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x. -->
+- [ ] A) x + 3 <!-- feedback: Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior. -->
 - [ ] C) 3 <!-- feedback: Incorrecto. Falta la variable x en el factor común exterior. -->
 - [ ] D) x^2 <!-- feedback: Incorrecto. El segundo término solo contiene x, no x al cuadrado. -->
 
@@ -434,8 +434,8 @@ Factorizando por término común: $5x^2 + 10x = 5x(x + 2)$. El término común e
 El área de un depósito rectangular en Villarrica está dada por el polinomio $A(x) = 2x^2 + 4x$. Si factorizamos esta expresión por término común, ¿qué factor lineal común se obtiene?
 
 ### Opciones
-- [x] A) 2x <!-- feedback: ¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x. -->
-- [ ] B) x + 2 <!-- feedback: Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior. -->
+- [x] B) 2x <!-- feedback: ¡Correcto! El máximo común divisor de los coeficientes es el mismo número, y la variable común es x. -->
+- [ ] A) x + 2 <!-- feedback: Incorrecto. Este factor resulta dentro del paréntesis, no como término común exterior. -->
 - [ ] C) 2 <!-- feedback: Incorrecto. Falta la variable x en el factor común exterior. -->
 - [ ] D) x^2 <!-- feedback: Incorrecto. El segundo término solo contiene x, no x al cuadrado. -->
 

@@ -34,13 +34,13 @@ Propagación rectilínea de la luz, formación de sombras, fuentes luminosas y r
 ¿Cuál de los siguientes objetos es una fuente natural de luz?
 
 ### Opciones
-- [x] A) El Sol.
+- [x] D) El Sol.
   <!-- feedback: El Sol es una estrella que emite luz propia de manera natural. -->
-- [ ] B) Una bombilla encendida.
+- [ ] A) Una bombilla encendida.
   <!-- feedback: La bombilla es una fuente artificial de luz producida por el ser humano. -->
-- [ ] C) Una linterna con pilas.
+- [ ] B) Una linterna con pilas.
   <!-- feedback: La linterna es una fuente artificial de luz. -->
-- [ ] D) Una vela encendida.
+- [ ] C) Una vela encendida.
   <!-- feedback: La vela es una fuente artificial de luz creada por el ser humano. -->
 
 ### Explicacion Pedagogica
@@ -80,13 +80,13 @@ Comprender la formación de sombras a partir de la propagación rectilínea de l
 ¿Por qué la sombra cambia de tamaño a lo largo del día?
 
 ### Opciones
-- [x] A) Porque la posición del Sol en el cielo cambia y modifica el ángulo con que la luz llega al objeto.
+- [x] D) Porque la posición del Sol en el cielo cambia y modifica el ángulo con que la luz llega al objeto.
   <!-- feedback: El ángulo de incidencia de la luz solar varía durante el día, cambiando el tamaño de la sombra. -->
-- [ ] B) Porque el Sol se aleja físicamente de la Tierra en pocas horas.
+- [ ] A) Porque el Sol se aleja físicamente de la Tierra en pocas horas.
   <!-- feedback: La distancia Sol-Tierra no cambia de manera perceptible en horas. -->
-- [ ] C) Porque la sombra se infla con la humedad del aire.
+- [ ] B) Porque la sombra se infla con la humedad del aire.
   <!-- feedback: La humedad no infla las sombras; el cambio se debe al ángulo de la luz solar. -->
-- [ ] D) Porque el objeto crece durante el día.
+- [ ] C) Porque el objeto crece durante el día.
   <!-- feedback: Los objetos no crecen por estar expuestos al Sol; el cambio está en la sombra. -->
 
 ### Explicacion Pedagogica
@@ -103,13 +103,13 @@ Aplicar la variación del ángulo de la luz solar para explicar los cambios de t
 Si el objeto se aleja más de la lámpara, ¿qué pasa con el tamaño de la sombra en la pared?
 
 ### Opciones
-- [x] A) La sombra se hace más grande porque los rayos se separan al alejarse.
+- [x] D) La sombra se hace más grande porque los rayos se separan al alejarse.
   <!-- feedback: Al alejarse, los rayos divergen y producen una sombra más grande. -->
-- [ ] B) La sombra se hace más pequeña porque se concentra en un punto.
+- [ ] A) La sombra se hace más pequeña porque se concentra en un punto.
   <!-- feedback: Al alejar el objeto, la sombra aumenta, no disminuye. -->
-- [ ] C) La sombra desaparece sin importar la distancia.
+- [ ] B) La sombra desaparece sin importar la distancia.
   <!-- feedback: La sombra se mantiene mientras haya luz y un objeto opaco en su camino. -->
-- [ ] D) La sombra mantiene siempre el mismo tamaño exacto.
+- [ ] C) La sombra mantiene siempre el mismo tamaño exacto.
   <!-- feedback: El tamaño de la sombra varía con la distancia a la fuente de luz. -->
 
 ### Explicacion Pedagogica
@@ -126,13 +126,13 @@ Aplicar la relación entre distancia a la fuente de luz y tamaño de la sombra p
 ¿Cómo se llama el fenómeno que ocurre cuando la luz "rebota" en una superficie lisa como el espejo?
 
 ### Opciones
-- [x] A) Reflexión de la luz.
+- [x] D) Reflexión de la luz.
   <!-- feedback: El rebote ordenado de la luz en una superficie lisa se llama reflexión. -->
-- [ ] B) Refracción de la luz.
+- [ ] A) Refracción de la luz.
   <!-- feedback: La refracción ocurre cuando la luz pasa de un medio a otro, no cuando rebota. -->
-- [ ] C) Absorción total de la luz.
+- [ ] B) Absorción total de la luz.
   <!-- feedback: La absorción atrapa la luz; el espejo la devuelve, por eso no es absorción. -->
-- [ ] D) Sombra proyectada.
+- [ ] C) Sombra proyectada.
   <!-- feedback: La sombra aparece cuando la luz es bloqueada, no cuando rebota. -->
 
 ### Explicacion Pedagogica
@@ -195,11 +195,11 @@ Relacionar los eclipses con la propagación rectilínea de la luz y la formació
 ¿Por qué es importante protegerse de la luz solar excesiva y cómo hacerlo correctamente?
 
 ### Opciones
-- [x] A) Porque los rayos ultravioleta pueden dañar piel y ojos; se protege con bloqueador, gafas con filtro UV y ropa adecuada.
+- [x] C) Porque los rayos ultravioleta pueden dañar piel y ojos; se protege con bloqueador, gafas con filtro UV y ropa adecuada.
   <!-- feedback: La protección adecuada reduce el daño por radiación UV sin dejar de aprovechar los beneficios de la luz solar. -->
-- [ ] B) Porque la luz del Sol es tóxica y debe evitarse por completo a cualquier hora.
+- [ ] A) Porque la luz del Sol es tóxica y debe evitarse por completo a cualquier hora.
   <!-- feedback: La luz solar es esencial para la vida; el problema es el exceso, no la luz en sí. -->
-- [ ] C) Porque solo las gafas oscuras ofrecen protección frente a los rayos UV.
+- [ ] B) Porque solo las gafas oscuras ofrecen protección frente a los rayos UV.
   <!-- feedback: Las gafas oscuras sin filtro UV no protegen; debe haber filtro UV certificado. -->
 - [ ] D) Porque la ropa de color negro deja pasar más rayos UV que la ropa blanca.
   <!-- feedback: La ropa oscura puede bloquear mejor la luz visible, pero lo clave es el material y el factor UV, no solo el color. -->

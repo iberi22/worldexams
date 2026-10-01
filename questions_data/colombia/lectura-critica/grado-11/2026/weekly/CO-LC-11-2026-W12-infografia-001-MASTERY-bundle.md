@@ -34,11 +34,11 @@ Este bundle contiene 20 preguntas sobre **Infografía** para grado 11, alineadas
 ¿Cuál es la función directa del ícono del grifo goteando en la infografía?
 
 ### Opciones
-- [x] A) Ilustrar visualmente la fuente del desperdicio de agua mencionado en la cifra explicativa.
+- [x] C) Ilustrar visualmente la fuente del desperdicio de agua mencionado en la cifra explicativa.
   <!-- feedback: Correcto. El ícono acompaña y refuerza visualmente la cifra cuantitativa sobre el goteo de agua. -->
-- [ ] B) Sustituir completamente el texto explicativo sobre el consumo diario de agua en los hogares.
+- [ ] A) Sustituir completamente el texto explicativo sobre el consumo diario de agua en los hogares.
   <!-- feedback: Incorrecto. El ícono no sustituye al texto, sino que lo complementa sintéticamente. -->
-- [ ] C) Exponer una crítica abstracta sobre la infraestructura hidráulica de la ciudad.
+- [ ] B) Exponer una crítica abstracta sobre la infraestructura hidráulica de la ciudad.
   <!-- feedback: Incorrecto. La función del ícono es directa e ilustrativa respecto al mensaje del uso doméstico. -->
 - [ ] D) Argumentar en favor de las tarifas del servicio público de agua potable.
   <!-- feedback: Incorrecto. La imagen no aborda aspectos tarifarios ni financieros del servicio. -->
@@ -57,13 +57,13 @@ En la lectura de textos discontinuos (infografías), los elementos icónicos cum
 Según la disposición del mapa infográfico, los colores diferenciados sirven principalmente para:
 
 ### Opciones
-- [x] A) Distinguir claramente las diferentes líneas y modalidades de transporte del sistema.
+- [x] D) Distinguir claramente las diferentes líneas y modalidades de transporte del sistema.
   <!-- feedback: Correcto. El código de colores es una convención infográfica para segmentar rutas y facilitar la navegación visual. -->
-- [ ] B) Indicar la velocidad promedio a la que se desplaza cada tren en la ciudad.
+- [ ] A) Indicar la velocidad promedio a la que se desplaza cada tren en la ciudad.
   <!-- feedback: Incorrecto. El color de línea no denota magnitudes de velocidad ni tiempos de desplazamiento. -->
-- [ ] C) Representar el costo económico del pasaje según la distancia recorrida.
+- [ ] B) Representar el costo económico del pasaje según la distancia recorrida.
   <!-- feedback: Incorrecto. El sistema tarifario no se codifica mediante los colores de las líneas. -->
-- [ ] D) Decorar el plano sin ninguna relación sintáctica con el servicio de transporte.
+- [ ] C) Decorar el plano sin ninguna relación sintáctica con el servicio de transporte.
   <!-- feedback: Incorrecto. Los colores cumplen una función comunicativa funcional dentro de la infografía. -->
 
 ### Explicacion Pedagogica
@@ -103,9 +103,9 @@ La infografía integra diversos recursos cuantitativos; reconocer la función de
 ¿Qué relación de sentido establece la línea temporal entre los tres materiales presentados?
 
 ### Opciones
-- [x] A) Una escala comparativa del impacto ambiental según la duración del material en la naturaleza.
+- [x] B) Una escala comparativa del impacto ambiental según la duración del material en la naturaleza.
   <!-- feedback: Correcto. La línea temporal ordena los objetos por su tiempo de biodegradación para concienciar sobre el impacto del plástico. -->
-- [ ] B) Un listado del costo monetario de producción de cada uno de los materiales.
+- [ ] A) Un listado del costo monetario de producción de cada uno de los materiales.
   <!-- feedback: Incorrecto. Los datos presentados corresponden al tiempo de biodegradación, no a valores de mercado. -->
 - [ ] C) Una guía de pasos secuenciales para fabricar botellas y latas recicladas.
   <!-- feedback: Incorrecto. La línea temporal no describe un proceso de fabricación industrial. -->
@@ -126,11 +126,11 @@ Las líneas de tiempo en textos infográficos sirven para establecer comparacion
 A partir del uso del contraste cromático y tipográfico en la infografía, se infiere que la intención del diseñador es:
 
 ### Opciones
-- [x] A) Generar un impacto visual inmediato que enfatice la disparidad en las condiciones de nutrición.
+- [x] C) Generar un impacto visual inmediato que enfatice la disparidad en las condiciones de nutrición.
   <!-- feedback: Correcto. El contraste oposicional entre verde (positivo) y gris (deficiente) refuerza la tesis del desequilibrio social. -->
-- [ ] B) Demostrar que el color de la piel varía según el tipo de alimento consumido por los niños.
+- [ ] A) Demostrar que el color de la piel varía según el tipo de alimento consumido por los niños.
   <!-- feedback: Incorrecto. El uso del color es simbólico y comunicativo, no biológico ni literal. -->
-- [ ] C) Ocultar los datos estadísticos reales utilizando elementos figurativos imprecisos.
+- [ ] B) Ocultar los datos estadísticos reales utilizando elementos figurativos imprecisos.
   <!-- feedback: Incorrecto. El contraste busca visibilizar e iluminar los datos estadísticos, no distorsionarlos. -->
 - [ ] D) Promover la compra de suplementos vitamínicos de una marca comercial específica.
   <!-- feedback: Incorrecto. El emisor institucional (ICBF) persigue fines de concientización pública y política social. -->
@@ -149,9 +149,9 @@ En la evaluación discursiva de infografías, se analiza cómo los recursos ret�
 ¿Qué metaforización o relación analógica expresa la composición gráfica de la infografía?
 
 ### Opciones
-- [x] A) La subordinación de los recursos naturales a la explotación económica a corto plazo.
+- [x] B) La subordinación de los recursos naturales a la explotación económica a corto plazo.
   <!-- feedback: Correcto. La transformación visual de las raíces en monedas que alimentan la maquinaria representa la mercantilización del bosque. -->
-- [ ] B) El aumento de la fertilidad del suelo gracias al uso de maquinaria pesada.
+- [ ] A) El aumento de la fertilidad del suelo gracias al uso de maquinaria pesada.
   <!-- feedback: Incorrecto. La retroexcavadora y la tala simbolizan la destrucción ambiental, no la mejora del suelo. -->
 - [ ] C) Una técnica agrícola moderna para extraer minerales valiosos de los árboles.
   <!-- feedback: Incorrecto. La imagen es una metáfora crítica de la deforestación, no un procedimiento técnico. -->
@@ -195,9 +195,9 @@ La integración del componente verbal (cualitativo) y el icónico/estadístico (
 El uso de la jerarquía dimensional (tamaño diferencial de las figuras) en esta infografía cumple la función de:
 
 ### Opciones
-- [x] A) Priorizar valorativamente el uso de la bicicleta como el actor central de la movilidad sostenible.
+- [x] B) Priorizar valorativamente el uso de la bicicleta como el actor central de la movilidad sostenible.
   <!-- feedback: Correcto. En el lenguaje visual, mayor tamaño relativo equivale a mayor relevancia conceptual dentro del mensaje. -->
-- [ ] B) Señalar que los automóviles en Bogotá son mecánicamente más pequeños que las bicicletas.
+- [ ] A) Señalar que los automóviles en Bogotá son mecánicamente más pequeños que las bicicletas.
   <!-- feedback: Incorrecto. El tamaño gráfico no representa las dimensiones físicas reales, sino la jerarquía simbólica. -->
 - [ ] C) Indicar que los ciclistas ocupan la mayor parte de las vías vehiculares de la capital.
   <!-- feedback: Incorrecto. El recurso gráfico busca valorar la movilidad alternativa, no describir ocupación espacial de vías. -->
@@ -218,9 +218,9 @@ La jerarquía de tamaño es un recurso de diseño infográfico que asigna releva
 ¿Cuál es la estructura lógica dominante que organiza la información en esta infografía?
 
 ### Opciones
-- [x] A) Una estructura de comparación y contraste entre dos modalidades de consumo lector.
+- [x] B) Una estructura de comparación y contraste entre dos modalidades de consumo lector.
   <!-- feedback: Correcto. La disposición en columnas paralelas facilita la confrontación de datos entre lo digital y lo impreso. -->
-- [ ] B) Una estructura de causa y efecto que explica la invención de la imprenta.
+- [ ] A) Una estructura de causa y efecto que explica la invención de la imprenta.
   <!-- feedback: Incorrecto. No se están analizando causas históricas sino comparando hábitos contemporáneos. -->
 - [ ] C) Una secuencia cronológica que narra la biografía de un escritor colombiano destacado.
   <!-- feedback: Incorrecto. La infografía no tiene formato biográfico ni narrativo. -->
@@ -241,11 +241,11 @@ Identificar la organización sintáctica (paralelismo, secuencia, clasificación
 Las flechas continuas presentes en el diseño infográfico cumplen la función sintáctica de:
 
 ### Opciones
-- [x] A) Establecer la secuencia direccional del proceso de generación y distribución de energía.
+- [x] C) Establecer la secuencia direccional del proceso de generación y distribución de energía.
   <!-- feedback: Correcto. Las flechas operan como conectores de flujo que guían al lector a través de los pasos del proceso. -->
-- [ ] B) Representar el costo económico de las facturas de luz en los hogares del Caribe.
+- [ ] A) Representar el costo económico de las facturas de luz en los hogares del Caribe.
   <!-- feedback: Incorrecto. Las flechas no simbolizan valores monetarios sino direcciones de flujo operativo. -->
-- [ ] C) Señalar los errores técnicos cometidos durante la instalación de los paneles solares.
+- [ ] B) Señalar los errores técnicos cometidos durante la instalación de los paneles solares.
   <!-- feedback: Incorrecto. El esquema muestra un flujo funcional continuo y sin fallas. -->
 - [ ] D) Sustituir el título principal de la infografía por un símbolo geométrico abstracto.
   <!-- feedback: Incorrecto. Las flechas son conectores internos y no reemplazan el título del texto. -->
@@ -264,13 +264,13 @@ Los conectores gráficos (flechas, líneas de flujo) guían la ruta de lectura e
 ¿De qué manera interactúan el elemento visual de la tortuga y el enunciado textual en la construcción del mensaje crítico?
 
 ### Opciones
-- [x] A) El texto interpela éticamente al lector haciéndolo responsable directo del sufrimiento animal ilustrado en la imagen.
+- [x] D) El texto interpela éticamente al lector haciéndolo responsable directo del sufrimiento animal ilustrado en la imagen.
   <!-- feedback: Correcto. La combinación de la metáfora gráfica con el pronombre "Tú" moviliza la conciencia y la responsabilidad del receptor. -->
-- [ ] B) El texto desmiente la imagen al afirmar que las tortugas comen empaques de plástico voluntariamente.
+- [ ] A) El texto desmiente la imagen al afirmar que las tortugas comen empaques de plástico voluntariamente.
   <!-- feedback: Incorrecto. El texto enfatiza precisamente lo contrario: que los animales no eligen y son víctimas inintencionadas. -->
-- [ ] C) La imagen y el texto se contradicen para generar confusión en los compradores de supermercado.
+- [ ] B) La imagen y el texto se contradicen para generar confusión en los compradores de supermercado.
   <!-- feedback: Incorrecto. No hay contradicción; la sinergia verbal-icónica persigue un mensaje de denuncia unívoco. -->
-- [ ] D) La imagen busca promocionar marcas colombianas de snacks en envases biodegradables.
+- [ ] C) La imagen busca promocionar marcas colombianas de snacks en envases biodegradables.
   <!-- feedback: Incorrecto. El emisor ambientalista usa el empaque como símbolo del problema y no como publicidad de consumo. -->
 
 ### Explicacion Pedagogica
@@ -287,9 +287,9 @@ El análisis discursivo de infografías evalúa cómo la retórica visual y la a
 Al calificar el empleo informal como "Mercado no estructurado" y relegarlo visualmente a una zona sombreada, la infografía evidencia:
 
 ### Opciones
-- [x] A) Un sesgo discursivo que suaviza la precariedad laboral mediante un eufemismo técnico y una marginación gráfica.
+- [x] B) Un sesgo discursivo que suaviza la precariedad laboral mediante un eufemismo técnico y una marginación gráfica.
   <!-- feedback: Correcto. El uso de términos neutros y zonas oscuras atenúa el impacto conceptual del empleo informal. -->
-- [ ] B) Una intención de ocultar por completo la existencia del trabajo informal en las estadísticas del país.
+- [ ] A) Una intención de ocultar por completo la existencia del trabajo informal en las estadísticas del país.
   <!-- feedback: Incorrecto. El dato sí aparece representado; lo que se analiza es la forma atenuada y sesgada de presentarlo. -->
 - [ ] C) Un compromiso absoluto con el lenguaje poético para describir las dinámicas macroeconómicas.
   <!-- feedback: Incorrecto. El término "Mercado no estructurado" es técnico-eufemístico, no poético. -->
@@ -310,11 +310,11 @@ Analizar el sesgo en infografías requiere examinar tanto el léxico seleccionad
 Un lector que busque evaluar la sustentabilidad hídrica de la región durante la época de sequía debe integrar los siguientes datos de la infografía:
 
 ### Opciones
-- [x] A) Los puntos mínimos de la gráfica de precipitación mensual con la capacidad de retención de humedad atribuida al frailejón.
+- [x] C) Los puntos mínimos de la gráfica de precipitación mensual con la capacidad de retención de humedad atribuida al frailejón.
   <!-- feedback: Correcto. Cruzar los meses de baja lluvia con la respuesta ecológica de la vegetación permite medir el balance de reserva de agua. -->
-- [ ] B) El color del musgo con el nombre técnico del autor de la infografía ambiental.
+- [ ] A) El color del musgo con el nombre técnico del autor de la infografía ambiental.
   <!-- feedback: Incorrecto. El color de la planta y la autoría no aportan datos sobre el volumen hídrico durante la sequía. -->
-- [ ] C) El título principal de la infografía con el número total de páginas del periódico donde fue impresa.
+- [ ] B) El título principal de la infografía con el número total de páginas del periódico donde fue impresa.
   <!-- feedback: Incorrecto. Los datos externos del medio impreso no determinan la sustentabilidad ambiental del páramo. -->
 - [ ] D) La altitud sobre el nivel del mar con el costo del transporte desde Bogotá hasta el páramo.
   <!-- feedback: Incorrecto. El valor del transporte turístico es ajeno al análisis eco-hídrico del ecosistema. -->
@@ -333,9 +333,9 @@ La lectura crítica de infografías exige la síntesis e integración de datos p
 ¿Qué estrategia de persuasión o encuadre comunicativo utiliza la empresa minera en este diseño?
 
 ### Opciones
-- [x] A) Visibilizar y magnificar los beneficios de la responsabilidad social para eclipsar los costos o impactos ambientales.
+- [x] B) Visibilizar y magnificar los beneficios de la responsabilidad social para eclipsar los costos o impactos ambientales.
   <!-- feedback: Correcto. La desproporción tipográfica e icónica resalta lo positivo (inversión) y minimiza lo problemático (uso del agua). -->
-- [ ] B) Garantizar la máxima neutralidad científica en la divulgación de los datos extractivos.
+- [ ] A) Garantizar la máxima neutralidad científica en la divulgación de los datos extractivos.
   <!-- feedback: Incorrecto. El diseño sesgado en tamaños y colores rompe el principio de neutralidad informativa. -->
 - [ ] C) Demostrar que el consumo de agua es el factor más importante en la economía de la comunidad.
   <!-- feedback: Incorrecto. Si fuera el factor más importante para la empresa, no estaría relegado a la letra pequeña. -->
@@ -379,11 +379,11 @@ La localización y focalización de variables específicas en tablas o matrices 
 El uso de la forma en espiral ascendente iluminada aporta un significado simbólico de:
 
 ### Opciones
-- [x] A) Progreso evolutivo y superación gradual hacia un logro colectivo de mayor trascendencia.
+- [x] C) Progreso evolutivo y superación gradual hacia un logro colectivo de mayor trascendencia.
   <!-- feedback: Correcto. La espiral que se expande hacia arriba sugiere un camino ascendente de maduración y esperanza. -->
-- [ ] B) Retroceso histórico impredecible hacia etapas de mayor conflicto armado.
+- [ ] A) Retroceso histórico impredecible hacia etapas de mayor conflicto armado.
   <!-- feedback: Incorrecto. El movimiento ascendente e iluminado connota evolución positiva, no retroceso. -->
-- [ ] C) Repetición idéntica e infinita de los mismos errores del pasado sin solución alguna.
+- [ ] B) Repetición idéntica e infinita de los mismos errores del pasado sin solución alguna.
   <!-- feedback: Incorrecto. La espiral se abre y culmina en un símbolo de paz, lo que rompe el bucle cerrado. -->
 - [ ] D) Estancamiento absoluto del proceso político en la fase inicial de negociación.
   <!-- feedback: Incorrecto. La estructura gráfica muestra dinamismo y avance continuo en las etapas. -->
@@ -402,9 +402,9 @@ Las estructuras compositivas en las infografías (líneas rectas, círculos, esp
 Al evaluar la validez comunicativa de esta infografía, un lector crítico debe concluir que el gráfico es:
 
 ### Opciones
-- [x] A) Engañoso, porque la manipulación del origen de la escala vertical distorsiona la percepción visual de la magnitud real del cambio.
+- [x] B) Engañoso, porque la manipulación del origen de la escala vertical distorsiona la percepción visual de la magnitud real del cambio.
   <!-- feedback: Correcto. Truncar el eje Y sin empezar en cero magnifica visualmente pequeñas variaciones, creando una falsa sensación de éxito drástico. -->
-- [ ] B) Riguroso y preciso, ya que mantiene la representación matemática exacta sin importar el diseño visual del eje.
+- [ ] A) Riguroso y preciso, ya que mantiene la representación matemática exacta sin importar el diseño visual del eje.
   <!-- feedback: Incorrecto. El diseño visual altera deliberadamente la proporción perceptiva, vulnerando la objetividad comunicativa. -->
 - [ ] C) Incompleto, porque debió omitir por completo las cifras numéricas y presentar solo colores evaluativos.
   <!-- feedback: Incorrecto. La falta no es incluir cifras, sino alterar la escala cartesiana para manipular al electorado. -->
@@ -425,9 +425,9 @@ El análisis crítico de infografías estadísticas requiere evaluar la honestid
 ¿Cuál es la principal debilidad argumentativa de esta infografía al ser sometida a una evaluación de rigor académico?
 
 ### Opciones
-- [x] A) Carecer de respaldo empírico y fuentes verificables que sustenten las afirmaciones categóricas sobre la sustentabilidad.
+- [x] B) Carecer de respaldo empírico y fuentes verificables que sustenten las afirmaciones categóricas sobre la sustentabilidad.
   <!-- feedback: Correcto. Un texto informativo/argumentativo sin citas ni sustento estadístico explícito pierde validez como evidencia sólida. -->
-- [ ] B) Incluir ilustraciones de cultivos campesinos en lugar de fotografías satelitales en alta resolución.
+- [ ] A) Incluir ilustraciones de cultivos campesinos en lugar de fotografías satelitales en alta resolución.
   <!-- feedback: Incorrecto. El uso de ilustraciones es plenamente válido en infografía; el problema es la falta de evidencia empírica. -->
 - [ ] C) Utilizar el idioma español en lugar de términos técnicos en inglés para nombrar las especies vegetales.
   <!-- feedback: Incorrecto. El idioma español es idóneo para el público destino y no constituye un fallo argumentativo. -->
@@ -448,11 +448,11 @@ La validez pragmática de una infografía depende de la trazabilidad y rigor de 
 Desde una perspectiva crítica de la complejidad socioeconómica, ¿por qué esta representación infográfica resulta insuficiente o reductiva?
 
 ### Opciones
-- [x] A) Porque simplifica un fenómeno multicausal en una relación determinista de causa-efecto, omitiendo variables como tasas de interés y costos de insumos.
+- [x] C) Porque simplifica un fenómeno multicausal en una relación determinista de causa-efecto, omitiendo variables como tasas de interés y costos de insumos.
   <!-- feedback: Correcto. La economía es un sistema complejo; reducir la inflación a un solo factor genera un sesgo explicativo grave. -->
-- [ ] B) Porque las flechas unidireccionales están prohibidas por las leyes internacionales del diseño gráfico.
+- [ ] A) Porque las flechas unidireccionales están prohibidas por las leyes internacionales del diseño gráfico.
   <!-- feedback: Incorrecto. No existen prohibiciones legales sobre el uso de flechas; el fallo es de complejidad conceptual y económica. -->
-- [ ] C) Porque el salario mínimo en Colombia se ajusta anualmente sin ninguna relación con la economía real.
+- [ ] B) Porque el salario mínimo en Colombia se ajusta anualmente sin ninguna relación con la economía real.
   <!-- feedback: Incorrecto. Sí existe relación económica, pero el modelo de la infografía la sobre-simplifica de forma engañosa. -->
 - [ ] D) Porque el portal debía presentar la información mediante un poema argumentativo y no mediante diagramas.
   <!-- feedback: Incorrecto. El formato infográfico es adecuado; lo cuestionable es la reducción simplista de la multicausalidad. -->
@@ -471,11 +471,11 @@ Evaluar la suficiencia expositiva de un texto discontinuo implica detectar cuán
 Al comparar la efectividad persuasiva y la validez informativa de ambas infografías, se puede afirmar que:
 
 ### Opciones
-- [x] A) La Infografía A fundamenta su postura en evidencia institucional contrastable, mientras la Infografía B apela al sesgo emotivo y al ataque ad hominem.
+- [x] C) La Infografía A fundamenta su postura en evidencia institucional contrastable, mientras la Infografía B apela al sesgo emotivo y al ataque ad hominem.
   <!-- feedback: Correcto. La Infografía A ofrece argumentos de hecho basados en datos; la B recurre a recursos falaces y descalificaciones emotivas. -->
-- [ ] B) La Infografía B es superior porque logra conmover y asustar al lector utilizando adjetivos contundentes.
+- [ ] A) La Infografía B es superior porque logra conmover y asustar al lector utilizando adjetivos contundentes.
   <!-- feedback: Incorrecto. La apelación al miedo o a la emoción violenta no aporta validez racional ni rigor informativo. -->
-- [ ] C) Ambas infografías poseen exactamente la misma validez académica al tratar sobre la misma ley de la República.
+- [ ] B) Ambas infografías poseen exactamente la misma validez académica al tratar sobre la misma ley de la República.
   <!-- feedback: Incorrecto. Las fuentes y el tipo de lenguaje utilizado marcan una diferencia radical en el valor probatorio de ambas. -->
 - [ ] D) La Infografía A carece de utilidad pedagógica porque los datos estadísticos confunden siempre al ciudadano común.
   <!-- feedback: Incorrecto. Los datos institucionales son la base de la deliberación pública informada y democrática. -->

@@ -30,9 +30,9 @@ creador: "Jules-Agent"
 Si la tarifa inicial fija (banderazo) es de $15 pesos y se cobran $8 pesos por cada kilómetro recorrido, ¿cuál es la ecuación que representa la tarifa total T(x) en función de los kilómetros x?
 
 ### Opciones
-- [x] A) T(x) = 8x + 15
+- [x] B) T(x) = 8x + 15
   <!-- feedback: ¡Correcto! La tarifa fija representa la ordenada al origen (15) y la tarifa por kilómetro representa la pendiente (8). Por lo tanto, T(x) = 8x + 15. -->
-- [ ] B) T(x) = 15x + 8
+- [ ] A) T(x) = 15x + 8
   <!-- feedback: Incorrecto. Esto significaría cobrar $15 pesos por kilómetro con un banderazo de $8 pesos. -->
 - [ ] C) T(x) = 23x
   <!-- feedback: Incorrecto. Esto sumaría de forma directa ambos costos cobrando una tarifa proporcional errónea. -->
@@ -76,9 +76,9 @@ Utilizamos la fórmula de la pendiente m = (y₂ - y₁) / (x₂ - x₁). Dados 
 Determina la intersección con el eje y de la función lineal f(x) = 3x - 25.
 
 ### Opciones
-- [x] A) (0, -25)
+- [x] B) (0, -25)
   <!-- feedback: ¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25. -->
-- [ ] B) (0, 25)
+- [ ] A) (0, 25)
   <!-- feedback: Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen. -->
 - [ ] C) (8.3, 0)
   <!-- feedback: Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función). -->
@@ -99,9 +99,9 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 Determina la intersección con el eje y de la función lineal f(x) = 4x - 25.
 
 ### Opciones
-- [x] A) (0, -25)
+- [x] B) (0, -25)
   <!-- feedback: ¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25. -->
-- [ ] B) (0, 25)
+- [ ] A) (0, 25)
   <!-- feedback: Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen. -->
 - [ ] C) (6.2, 0)
   <!-- feedback: Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función). -->
@@ -122,11 +122,11 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 Determina la intersección con el eje y de la función lineal f(x) = 5x - 25.
 
 ### Opciones
-- [x] A) (0, -25)
+- [x] C) (0, -25)
   <!-- feedback: ¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25. -->
-- [ ] B) (0, 25)
+- [ ] A) (0, 25)
   <!-- feedback: Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen. -->
-- [ ] C) (5.0, 0)
+- [ ] B) (5.0, 0)
   <!-- feedback: Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función). -->
 - [ ] D) (0, 0)
   <!-- feedback: Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas. -->
@@ -145,13 +145,13 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 Determina la intersección con el eje y de la función lineal f(x) = 6x - 25.
 
 ### Opciones
-- [x] A) (0, -25)
+- [x] D) (0, -25)
   <!-- feedback: ¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25. -->
-- [ ] B) (0, 25)
+- [ ] A) (0, 25)
   <!-- feedback: Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen. -->
-- [ ] C) (4.2, 0)
+- [ ] B) (4.2, 0)
   <!-- feedback: Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función). -->
-- [ ] D) (0, 0)
+- [ ] C) (0, 0)
   <!-- feedback: Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas. -->
 
 ### Explicacion Pedagogica
@@ -191,9 +191,9 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 Determina la intersección con el eje y de la función lineal f(x) = 8x - 25.
 
 ### Opciones
-- [x] A) (0, -25)
+- [x] B) (0, -25)
   <!-- feedback: ¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25. -->
-- [ ] B) (0, 25)
+- [ ] A) (0, 25)
   <!-- feedback: Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen. -->
 - [ ] C) (3.1, 0)
   <!-- feedback: Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función). -->
@@ -214,9 +214,9 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 Determina la intersección con el eje y de la función lineal f(x) = 9x - 25.
 
 ### Opciones
-- [x] A) (0, -25)
+- [x] B) (0, -25)
   <!-- feedback: ¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25. -->
-- [ ] B) (0, 25)
+- [ ] A) (0, 25)
   <!-- feedback: Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen. -->
 - [ ] C) (2.8, 0)
   <!-- feedback: Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función). -->
@@ -237,13 +237,13 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 Determina la intersección con el eje y de la función lineal f(x) = 10x - 25.
 
 ### Opciones
-- [x] A) (0, -25)
+- [x] D) (0, -25)
   <!-- feedback: ¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25. -->
-- [ ] B) (0, 25)
+- [ ] A) (0, 25)
   <!-- feedback: Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen. -->
-- [ ] C) (2.5, 0)
+- [ ] B) (2.5, 0)
   <!-- feedback: Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función). -->
-- [ ] D) (0, 0)
+- [ ] C) (0, 0)
   <!-- feedback: Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas. -->
 
 ### Explicacion Pedagogica
@@ -260,11 +260,11 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 Determina la intersección con el eje y de la función lineal f(x) = 11x - 25.
 
 ### Opciones
-- [x] A) (0, -25)
+- [x] C) (0, -25)
   <!-- feedback: ¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25. -->
-- [ ] B) (0, 25)
+- [ ] A) (0, 25)
   <!-- feedback: Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen. -->
-- [ ] C) (2.3, 0)
+- [ ] B) (2.3, 0)
   <!-- feedback: Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función). -->
 - [ ] D) (0, 0)
   <!-- feedback: Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas. -->
@@ -306,11 +306,11 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 Determina la intersección con el eje y de la función lineal f(x) = 13x - 25.
 
 ### Opciones
-- [x] A) (0, -25)
+- [x] C) (0, -25)
   <!-- feedback: ¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25. -->
-- [ ] B) (0, 25)
+- [ ] A) (0, 25)
   <!-- feedback: Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen. -->
-- [ ] C) (1.9, 0)
+- [ ] B) (1.9, 0)
   <!-- feedback: Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función). -->
 - [ ] D) (0, 0)
   <!-- feedback: Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas. -->
@@ -329,11 +329,11 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 Determina la intersección con el eje y de la función lineal f(x) = 14x - 25.
 
 ### Opciones
-- [x] A) (0, -25)
+- [x] C) (0, -25)
   <!-- feedback: ¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25. -->
-- [ ] B) (0, 25)
+- [ ] A) (0, 25)
   <!-- feedback: Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen. -->
-- [ ] C) (1.8, 0)
+- [ ] B) (1.8, 0)
   <!-- feedback: Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función). -->
 - [ ] D) (0, 0)
   <!-- feedback: Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas. -->
@@ -352,9 +352,9 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 Determina la intersección con el eje y de la función lineal f(x) = 15x - 25.
 
 ### Opciones
-- [x] A) (0, -25)
+- [x] B) (0, -25)
   <!-- feedback: ¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25. -->
-- [ ] B) (0, 25)
+- [ ] A) (0, 25)
   <!-- feedback: Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen. -->
 - [ ] C) (1.7, 0)
   <!-- feedback: Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función). -->
@@ -375,13 +375,13 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 Determina la intersección con el eje y de la función lineal f(x) = 16x - 25.
 
 ### Opciones
-- [x] A) (0, -25)
+- [x] D) (0, -25)
   <!-- feedback: ¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25. -->
-- [ ] B) (0, 25)
+- [ ] A) (0, 25)
   <!-- feedback: Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen. -->
-- [ ] C) (1.6, 0)
+- [ ] B) (1.6, 0)
   <!-- feedback: Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función). -->
-- [ ] D) (0, 0)
+- [ ] C) (0, 0)
   <!-- feedback: Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas. -->
 
 ### Explicacion Pedagogica
@@ -421,13 +421,13 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 Determina la intersección con el eje y de la función lineal f(x) = 18x - 25.
 
 ### Opciones
-- [x] A) (0, -25)
+- [x] D) (0, -25)
   <!-- feedback: ¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25. -->
-- [ ] B) (0, 25)
+- [ ] A) (0, 25)
   <!-- feedback: Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen. -->
-- [ ] C) (1.4, 0)
+- [ ] B) (1.4, 0)
   <!-- feedback: Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función). -->
-- [ ] D) (0, 0)
+- [ ] C) (0, 0)
   <!-- feedback: Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas. -->
 
 ### Explicacion Pedagogica
@@ -444,13 +444,13 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 Determina la intersección con el eje y de la función lineal f(x) = 19x - 25.
 
 ### Opciones
-- [x] A) (0, -25)
+- [x] D) (0, -25)
   <!-- feedback: ¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25. -->
-- [ ] B) (0, 25)
+- [ ] A) (0, 25)
   <!-- feedback: Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen. -->
-- [ ] C) (1.3, 0)
+- [ ] B) (1.3, 0)
   <!-- feedback: Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función). -->
-- [ ] D) (0, 0)
+- [ ] C) (0, 0)
   <!-- feedback: Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas. -->
 
 ### Explicacion Pedagogica
@@ -467,13 +467,13 @@ La intersección con el eje y de cualquier función f(x) se halla evaluando f(0)
 Determina la intersección con el eje y de la función lineal f(x) = 20x - 25.
 
 ### Opciones
-- [x] A) (0, -25)
+- [x] D) (0, -25)
   <!-- feedback: ¡Correcto! La intersección con el eje y ocurre cuando x = 0, lo que nos da f(0) = -25. -->
-- [ ] B) (0, 25)
+- [ ] A) (0, 25)
   <!-- feedback: Incorrecto. Se cambió de forma errónea el signo de la ordenada al origen. -->
-- [ ] C) (1.2, 0)
+- [ ] B) (1.2, 0)
   <!-- feedback: Incorrecto. Esto correspondería a la intersección con el eje x (raíz de la función). -->
-- [ ] D) (0, 0)
+- [ ] C) (0, 0)
   <!-- feedback: Incorrecto. La recta no pasa por el origen del plano de coordenadas cartesianas. -->
 
 ### Explicacion Pedagogica

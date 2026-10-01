@@ -58,9 +58,9 @@ Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x)
 Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 4x + 5$ alcanza su punto mínimo.
 
 ### Opciones
-- [x] A) $x = 2$
+- [x] B) $x = 2$
   <!-- feedback: Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo. -->
-- [ ] B) $x = -2$
+- [ ] A) $x = -2$
   <!-- feedback: Incorrecto: error de signo en el despeje. -->
 - [ ] C) $x = 5$
   <!-- feedback: Incorrecto: falta dividir por el coeficiente 2. -->
@@ -104,9 +104,9 @@ Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x)
 Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 8x + 5$ alcanza su punto mínimo.
 
 ### Opciones
-- [x] A) $x = 4$
+- [x] B) $x = 4$
   <!-- feedback: Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo. -->
-- [ ] B) $x = -4$
+- [ ] A) $x = -4$
   <!-- feedback: Incorrecto: error de signo en el despeje. -->
 - [ ] C) $x = 9$
   <!-- feedback: Incorrecto: falta dividir por el coeficiente 2. -->
@@ -127,9 +127,9 @@ Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x)
 Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 10x + 5$ alcanza su punto mínimo.
 
 ### Opciones
-- [x] A) $x = 5$
+- [x] B) $x = 5$
   <!-- feedback: Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo. -->
-- [ ] B) $x = -5$
+- [ ] A) $x = -5$
   <!-- feedback: Incorrecto: error de signo en el despeje. -->
 - [ ] C) $x = 11$
   <!-- feedback: Incorrecto: falta dividir por el coeficiente 2. -->
@@ -150,13 +150,13 @@ Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x)
 Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 12x + 5$ alcanza su punto mínimo.
 
 ### Opciones
-- [x] A) $x = 6$
+- [x] D) $x = 6$
   <!-- feedback: Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo. -->
-- [ ] B) $x = -6$
+- [ ] A) $x = -6$
   <!-- feedback: Incorrecto: error de signo en el despeje. -->
-- [ ] C) $x = 13$
+- [ ] B) $x = 13$
   <!-- feedback: Incorrecto: falta dividir por el coeficiente 2. -->
-- [ ] D) $x = 0$
+- [ ] C) $x = 0$
   <!-- feedback: Incorrecto: se asumió por error el origen. -->
 
 ### Explicacion Pedagogica
@@ -173,11 +173,11 @@ Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x)
 Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 14x + 5$ alcanza su punto mínimo.
 
 ### Opciones
-- [x] A) $x = 7$
+- [x] C) $x = 7$
   <!-- feedback: Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo. -->
-- [ ] B) $x = -7$
+- [ ] A) $x = -7$
   <!-- feedback: Incorrecto: error de signo en el despeje. -->
-- [ ] C) $x = 15$
+- [ ] B) $x = 15$
   <!-- feedback: Incorrecto: falta dividir por el coeficiente 2. -->
 - [ ] D) $x = 0$
   <!-- feedback: Incorrecto: se asumió por error el origen. -->
@@ -196,11 +196,11 @@ Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x)
 Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 16x + 5$ alcanza su punto mínimo.
 
 ### Opciones
-- [x] A) $x = 8$
+- [x] C) $x = 8$
   <!-- feedback: Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo. -->
-- [ ] B) $x = -8$
+- [ ] A) $x = -8$
   <!-- feedback: Incorrecto: error de signo en el despeje. -->
-- [ ] C) $x = 17$
+- [ ] B) $x = 17$
   <!-- feedback: Incorrecto: falta dividir por el coeficiente 2. -->
 - [ ] D) $x = 0$
   <!-- feedback: Incorrecto: se asumió por error el origen. -->
@@ -219,9 +219,9 @@ Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x)
 Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 18x + 5$ alcanza su punto mínimo.
 
 ### Opciones
-- [x] A) $x = 9$
+- [x] B) $x = 9$
   <!-- feedback: Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo. -->
-- [ ] B) $x = -9$
+- [ ] A) $x = -9$
   <!-- feedback: Incorrecto: error de signo en el despeje. -->
 - [ ] C) $x = 19$
   <!-- feedback: Incorrecto: falta dividir por el coeficiente 2. -->
@@ -265,11 +265,11 @@ Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x)
 Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 22x + 5$ alcanza su punto mínimo.
 
 ### Opciones
-- [x] A) $x = 11$
+- [x] C) $x = 11$
   <!-- feedback: Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo. -->
-- [ ] B) $x = -11$
+- [ ] A) $x = -11$
   <!-- feedback: Incorrecto: error de signo en el despeje. -->
-- [ ] C) $x = 23$
+- [ ] B) $x = 23$
   <!-- feedback: Incorrecto: falta dividir por el coeficiente 2. -->
 - [ ] D) $x = 0$
   <!-- feedback: Incorrecto: se asumió por error el origen. -->
@@ -311,13 +311,13 @@ Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x)
 Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 26x + 5$ alcanza su punto mínimo.
 
 ### Opciones
-- [x] A) $x = 13$
+- [x] D) $x = 13$
   <!-- feedback: Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo. -->
-- [ ] B) $x = -13$
+- [ ] A) $x = -13$
   <!-- feedback: Incorrecto: error de signo en el despeje. -->
-- [ ] C) $x = 27$
+- [ ] B) $x = 27$
   <!-- feedback: Incorrecto: falta dividir por el coeficiente 2. -->
-- [ ] D) $x = 0$
+- [ ] C) $x = 0$
   <!-- feedback: Incorrecto: se asumió por error el origen. -->
 
 ### Explicacion Pedagogica
@@ -334,13 +334,13 @@ Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x)
 Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 28x + 5$ alcanza su punto mínimo.
 
 ### Opciones
-- [x] A) $x = 14$
+- [x] D) $x = 14$
   <!-- feedback: Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo. -->
-- [ ] B) $x = -14$
+- [ ] A) $x = -14$
   <!-- feedback: Incorrecto: error de signo en el despeje. -->
-- [ ] C) $x = 29$
+- [ ] B) $x = 29$
   <!-- feedback: Incorrecto: falta dividir por el coeficiente 2. -->
-- [ ] D) $x = 0$
+- [ ] C) $x = 0$
   <!-- feedback: Incorrecto: se asumió por error el origen. -->
 
 ### Explicacion Pedagogica
@@ -357,9 +357,9 @@ Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x)
 Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 30x + 5$ alcanza su punto mínimo.
 
 ### Opciones
-- [x] A) $x = 15$
+- [x] B) $x = 15$
   <!-- feedback: Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo. -->
-- [ ] B) $x = -15$
+- [ ] A) $x = -15$
   <!-- feedback: Incorrecto: error de signo en el despeje. -->
 - [ ] C) $x = 31$
   <!-- feedback: Incorrecto: falta dividir por el coeficiente 2. -->
@@ -380,13 +380,13 @@ Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x)
 Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 32x + 5$ alcanza su punto mínimo.
 
 ### Opciones
-- [x] A) $x = 16$
+- [x] D) $x = 16$
   <!-- feedback: Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo. -->
-- [ ] B) $x = -16$
+- [ ] A) $x = -16$
   <!-- feedback: Incorrecto: error de signo en el despeje. -->
-- [ ] C) $x = 33$
+- [ ] B) $x = 33$
   <!-- feedback: Incorrecto: falta dividir por el coeficiente 2. -->
-- [ ] D) $x = 0$
+- [ ] C) $x = 0$
   <!-- feedback: Incorrecto: se asumió por error el origen. -->
 
 ### Explicacion Pedagogica
@@ -403,11 +403,11 @@ Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x)
 Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 34x + 5$ alcanza su punto mínimo.
 
 ### Opciones
-- [x] A) $x = 17$
+- [x] C) $x = 17$
   <!-- feedback: Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo. -->
-- [ ] B) $x = -17$
+- [ ] A) $x = -17$
   <!-- feedback: Incorrecto: error de signo en el despeje. -->
-- [ ] C) $x = 35$
+- [ ] B) $x = 35$
   <!-- feedback: Incorrecto: falta dividir por el coeficiente 2. -->
 - [ ] D) $x = 0$
   <!-- feedback: Incorrecto: se asumió por error el origen. -->
@@ -426,9 +426,9 @@ Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x)
 Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 36x + 5$ alcanza su punto mínimo.
 
 ### Opciones
-- [x] A) $x = 18$
+- [x] B) $x = 18$
   <!-- feedback: Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo. -->
-- [ ] B) $x = -18$
+- [ ] A) $x = -18$
   <!-- feedback: Incorrecto: error de signo en el despeje. -->
 - [ ] C) $x = 37$
   <!-- feedback: Incorrecto: falta dividir por el coeficiente 2. -->
@@ -472,9 +472,9 @@ Para encontrar los puntos críticos igualamos la primera derivada a cero: $f'(x)
 Determine el valor crítico $x$ donde la función cuadrática $f(x) = x^2 - 40x + 5$ alcanza su punto mínimo.
 
 ### Opciones
-- [x] A) $x = 20$
+- [x] B) $x = 20$
   <!-- feedback: Correcto: al despejar f'(x) = 0 se obtiene la coordenada x del mínimo. -->
-- [ ] B) $x = -20$
+- [ ] A) $x = -20$
   <!-- feedback: Incorrecto: error de signo en el despeje. -->
 - [ ] C) $x = 41$
   <!-- feedback: Incorrecto: falta dividir por el coeficiente 2. -->

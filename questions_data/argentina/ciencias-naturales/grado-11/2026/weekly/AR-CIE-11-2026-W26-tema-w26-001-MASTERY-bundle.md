@@ -36,9 +36,9 @@ Este bundle aborda contenidos curriculares prioritarios de Electrostática, Ley 
 ¿Cuál de las siguientes definiciones describe correctamente el concepto de $Carga Eléctrica$ en el marco de Física - Electromagnetismo?
 
 ### Opciones
-- [x] A) Constituye un principio fundamental de Física - Electromagnetismo que explica el comportamiento del sistema según las leyes de la naturaleza. <!-- feedback: Correcto. La definición de $Carga Eléctrica$ corresponde con los principios teóricos de Física - Electromagnetismo. -->
-- [ ] B) Representa un fenómeno aislado sin relación con las leyes de conservación en Física. <!-- feedback: Incorrecto. El concepto de $Carga Eléctrica$ está íntimamente ligado a las leyes de Física. -->
-- [ ] C) Es una magnitud exclusivamente teórica que no se puede medir experimentalmente en el laboratorio. <!-- feedback: Incorrecto. Es una propiedad medible y verificable. -->
+- [x] C) Constituye un principio fundamental de Física - Electromagnetismo que explica el comportamiento del sistema según las leyes de la naturaleza. <!-- feedback: Correcto. La definición de $Carga Eléctrica$ corresponde con los principios teóricos de Física - Electromagnetismo. -->
+- [ ] A) Representa un fenómeno aislado sin relación con las leyes de conservación en Física. <!-- feedback: Incorrecto. El concepto de $Carga Eléctrica$ está íntimamente ligado a las leyes de Física. -->
+- [ ] B) Es una magnitud exclusivamente teórica que no se puede medir experimentalmente en el laboratorio. <!-- feedback: Incorrecto. Es una propiedad medible y verificable. -->
 - [ ] D) Corresponde únicamente a procesos ocurridos a altas temperaturas fuera del MKS. <!-- feedback: Incorrecto. Se aplica de forma general bajo condiciones estándar MKS. -->
 
 ### Explicacion Pedagogica
@@ -57,9 +57,9 @@ El estudio de Carga Eléctrica es clave para comprender los fundamentos teórico
 ¿Cuál de las siguientes definiciones describe correctamente el concepto de $Ley de Coulomb$ en el marco de Física - Electromagnetismo?
 
 ### Opciones
-- [x] A) Constituye un principio fundamental de Física - Electromagnetismo que explica el comportamiento del sistema según las leyes de la naturaleza. <!-- feedback: Correcto. La definición de $Ley de Coulomb$ corresponde con los principios teóricos de Física - Electromagnetismo. -->
-- [ ] B) Representa un fenómeno aislado sin relación con las leyes de conservación en Física. <!-- feedback: Incorrecto. El concepto de $Ley de Coulomb$ está íntimamente ligado a las leyes de Física. -->
-- [ ] C) Es una magnitud exclusivamente teórica que no se puede medir experimentalmente en el laboratorio. <!-- feedback: Incorrecto. Es una propiedad medible y verificable. -->
+- [x] C) Constituye un principio fundamental de Física - Electromagnetismo que explica el comportamiento del sistema según las leyes de la naturaleza. <!-- feedback: Correcto. La definición de $Ley de Coulomb$ corresponde con los principios teóricos de Física - Electromagnetismo. -->
+- [ ] A) Representa un fenómeno aislado sin relación con las leyes de conservación en Física. <!-- feedback: Incorrecto. El concepto de $Ley de Coulomb$ está íntimamente ligado a las leyes de Física. -->
+- [ ] B) Es una magnitud exclusivamente teórica que no se puede medir experimentalmente en el laboratorio. <!-- feedback: Incorrecto. Es una propiedad medible y verificable. -->
 - [ ] D) Corresponde únicamente a procesos ocurridos a altas temperaturas fuera del MKS. <!-- feedback: Incorrecto. Se aplica de forma general bajo condiciones estándar MKS. -->
 
 ### Explicacion Pedagogica
@@ -78,8 +78,8 @@ El estudio de Ley de Coulomb es clave para comprender los fundamentos teóricos 
 En una experiencia de laboratorio en Buenos Aires, un estudiante analiza el fenómeno de $Campo Eléctrico$. ¿Qué comportamiento se espera observar?
 
 ### Opciones
-- [x] A) El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Campo Eléctrico$. <!-- feedback: Correcto. La respuesta del sistema refleja la ley física/química de $Campo Eléctrico$. -->
-- [ ] B) El sistema permanece completamente inerte sin registrar variación alguna. <!-- feedback: Incorrecto. Las variables se modifican según las ecuaciones del modelo. -->
+- [x] B) El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Campo Eléctrico$. <!-- feedback: Correcto. La respuesta del sistema refleja la ley física/química de $Campo Eléctrico$. -->
+- [ ] A) El sistema permanece completamente inerte sin registrar variación alguna. <!-- feedback: Incorrecto. Las variables se modifican según las ecuaciones del modelo. -->
 - [ ] C) Se produce una pérdida total de masa violando las leyes de conservación. <!-- feedback: Incorrecto. Las leyes de conservación se cumplen siempre. -->
 - [ ] D) La magnitud medida oscila aleatoriamente sin patrón definido. <!-- feedback: Incorrecto. El fenómeno sigue un patrón determinista bien definido. -->
 
@@ -99,10 +99,10 @@ Las observaciones experimentales confirman las predicciones del modelo teórico 
 En una experiencia de laboratorio en Buenos Aires, un estudiante analiza el fenómeno de $Potencial Eléctrico$. ¿Qué comportamiento se espera observar?
 
 ### Opciones
-- [x] A) El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Potencial Eléctrico$. <!-- feedback: Correcto. La respuesta del sistema refleja la ley física/química de $Potencial Eléctrico$. -->
-- [ ] B) El sistema permanece completamente inerte sin registrar variación alguna. <!-- feedback: Incorrecto. Las variables se modifican según las ecuaciones del modelo. -->
-- [ ] C) Se produce una pérdida total de masa violando las leyes de conservación. <!-- feedback: Incorrecto. Las leyes de conservación se cumplen siempre. -->
-- [ ] D) La magnitud medida oscila aleatoriamente sin patrón definido. <!-- feedback: Incorrecto. El fenómeno sigue un patrón determinista bien definido. -->
+- [x] D) El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Potencial Eléctrico$. <!-- feedback: Correcto. La respuesta del sistema refleja la ley física/química de $Potencial Eléctrico$. -->
+- [ ] A) El sistema permanece completamente inerte sin registrar variación alguna. <!-- feedback: Incorrecto. Las variables se modifican según las ecuaciones del modelo. -->
+- [ ] B) Se produce una pérdida total de masa violando las leyes de conservación. <!-- feedback: Incorrecto. Las leyes de conservación se cumplen siempre. -->
+- [ ] C) La magnitud medida oscila aleatoriamente sin patrón definido. <!-- feedback: Incorrecto. El fenómeno sigue un patrón determinista bien definido. -->
 
 ### Explicacion Pedagogica
 Las observaciones experimentales confirman las predicciones del modelo teórico de Potencial Eléctrico.
@@ -120,10 +120,10 @@ Las observaciones experimentales confirman las predicciones del modelo teórico 
 Un equipo de investigación en Córdoba aplica el concepto de $Conductores y Aislantes$ para resolver un problema práctico de Física - Electromagnetismo. ¿Cuál es la relación matemática o lógica correcta?
 
 ### Opciones
-- [x] A) Se aplica la ecuación correspondiente a $Conductores y Aislantes$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física. <!-- feedback: Correcto. Refleja la formulación correcta para $Conductores y Aislantes$. -->
-- [ ] B) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
-- [ ] C) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
-- [ ] D) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
+- [x] D) Se aplica la ecuación correspondiente a $Conductores y Aislantes$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física. <!-- feedback: Correcto. Refleja la formulación correcta para $Conductores y Aislantes$. -->
+- [ ] A) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
+- [ ] B) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
+- [ ] C) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
 
 ### Explicacion Pedagogica
 La aplicación cuantitativa de Conductores y Aislantes requiere el uso riguroso de las ecuaciones de Física - Electromagnetismo.
@@ -141,8 +141,8 @@ La aplicación cuantitativa de Conductores y Aislantes requiere el uso riguroso 
 Un equipo de investigación en Córdoba aplica el concepto de $Carga Eléctrica$ para resolver un problema práctico de Física - Electromagnetismo. ¿Cuál es la relación matemática o lógica correcta?
 
 ### Opciones
-- [x] A) Se aplica la ecuación correspondiente a $Carga Eléctrica$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física. <!-- feedback: Correcto. Refleja la formulación correcta para $Carga Eléctrica$. -->
-- [ ] B) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
+- [x] B) Se aplica la ecuación correspondiente a $Carga Eléctrica$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física. <!-- feedback: Correcto. Refleja la formulación correcta para $Carga Eléctrica$. -->
+- [ ] A) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
 - [ ] C) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
 - [ ] D) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
 
@@ -162,10 +162,10 @@ La aplicación cuantitativa de Carga Eléctrica requiere el uso riguroso de las 
 Un equipo de investigación en Córdoba aplica el concepto de $Ley de Coulomb$ para resolver un problema práctico de Física - Electromagnetismo. ¿Cuál es la relación matemática o lógica correcta?
 
 ### Opciones
-- [x] A) Se aplica la ecuación correspondiente a $Ley de Coulomb$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física. <!-- feedback: Correcto. Refleja la formulación correcta para $Ley de Coulomb$. -->
-- [ ] B) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
-- [ ] C) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
-- [ ] D) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
+- [x] D) Se aplica la ecuación correspondiente a $Ley de Coulomb$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física. <!-- feedback: Correcto. Refleja la formulación correcta para $Ley de Coulomb$. -->
+- [ ] A) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
+- [ ] B) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
+- [ ] C) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
 
 ### Explicacion Pedagogica
 La aplicación cuantitativa de Ley de Coulomb requiere el uso riguroso de las ecuaciones de Física - Electromagnetismo.
@@ -225,8 +225,8 @@ La aplicación cuantitativa de Potencial Eléctrico requiere el uso riguroso de 
 Un equipo de investigación en Córdoba aplica el concepto de $Conductores y Aislantes$ para resolver un problema práctico de Física - Electromagnetismo. ¿Cuál es la relación matemática o lógica correcta?
 
 ### Opciones
-- [x] A) Se aplica la ecuación correspondiente a $Conductores y Aislantes$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física. <!-- feedback: Correcto. Refleja la formulación correcta para $Conductores y Aislantes$. -->
-- [ ] B) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
+- [x] B) Se aplica la ecuación correspondiente a $Conductores y Aislantes$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Física. <!-- feedback: Correcto. Refleja la formulación correcta para $Conductores y Aislantes$. -->
+- [ ] A) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
 - [ ] C) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
 - [ ] D) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
 
@@ -246,8 +246,8 @@ La aplicación cuantitativa de Conductores y Aislantes requiere el uso riguroso 
 Al analizar detalladamente las variables que intervienen en $Carga Eléctrica$ dentro de Física - Electromagnetismo, se observa una variación en el estado inicial. ¿Cuál es la deducción analítica correcta?
 
 ### Opciones
-- [x] A) El cambio en las variables modifica el estado final según las restricciones impuestas por $Carga Eléctrica$ y las leyes de Física. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
-- [ ] B) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
+- [x] B) El cambio en las variables modifica el estado final según las restricciones impuestas por $Carga Eléctrica$ y las leyes de Física. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
+- [ ] A) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
 - [ ] C) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
 - [ ] D) La energía o materia total aumenta exponencialmente sin fuente externa. <!-- feedback: Incorrecto. No se puede crear masa ni energía de la nada. -->
 
@@ -267,8 +267,8 @@ El análisis analítico de Carga Eléctrica demuestra la coherencia interna de l
 Al analizar detalladamente las variables que intervienen en $Ley de Coulomb$ dentro de Física - Electromagnetismo, se observa una variación en el estado inicial. ¿Cuál es la deducción analítica correcta?
 
 ### Opciones
-- [x] A) El cambio en las variables modifica el estado final según las restricciones impuestas por $Ley de Coulomb$ y las leyes de Física. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
-- [ ] B) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
+- [x] B) El cambio en las variables modifica el estado final según las restricciones impuestas por $Ley de Coulomb$ y las leyes de Física. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
+- [ ] A) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
 - [ ] C) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
 - [ ] D) La energía o materia total aumenta exponencialmente sin fuente externa. <!-- feedback: Incorrecto. No se puede crear masa ni energía de la nada. -->
 
@@ -330,9 +330,9 @@ El análisis analítico de Potencial Eléctrico demuestra la coherencia interna 
 Al analizar detalladamente las variables que intervienen en $Conductores y Aislantes$ dentro de Física - Electromagnetismo, se observa una variación en el estado inicial. ¿Cuál es la deducción analítica correcta?
 
 ### Opciones
-- [x] A) El cambio en las variables modifica el estado final según las restricciones impuestas por $Conductores y Aislantes$ y las leyes de Física. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
-- [ ] B) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
-- [ ] C) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
+- [x] C) El cambio en las variables modifica el estado final según las restricciones impuestas por $Conductores y Aislantes$ y las leyes de Física. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
+- [ ] A) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
+- [ ] B) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
 - [ ] D) La energía o materia total aumenta exponencialmente sin fuente externa. <!-- feedback: Incorrecto. No se puede crear masa ni energía de la nada. -->
 
 ### Explicacion Pedagogica
@@ -351,9 +351,9 @@ El análisis analítico de Conductores y Aislantes demuestra la coherencia inter
 Al analizar detalladamente las variables que intervienen en $Carga Eléctrica$ dentro de Física - Electromagnetismo, se observa una variación en el estado inicial. ¿Cuál es la deducción analítica correcta?
 
 ### Opciones
-- [x] A) El cambio en las variables modifica el estado final según las restricciones impuestas por $Carga Eléctrica$ y las leyes de Física. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
-- [ ] B) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
-- [ ] C) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
+- [x] C) El cambio en las variables modifica el estado final según las restricciones impuestas por $Carga Eléctrica$ y las leyes de Física. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
+- [ ] A) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
+- [ ] B) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
 - [ ] D) La energía o materia total aumenta exponencialmente sin fuente externa. <!-- feedback: Incorrecto. No se puede crear masa ni energía de la nada. -->
 
 ### Explicacion Pedagogica
@@ -372,8 +372,8 @@ El análisis analítico de Carga Eléctrica demuestra la coherencia interna de l
 Se propone un modelo avanzado para evaluar la eficiencia de un proceso basado en $Ley de Coulomb$ en Física - Electromagnetismo. Evaluá cuál de las siguientes afirmaciones juzga correctamente la validez del modelo.
 
 ### Opciones
-- [x] A) El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Ley de Coulomb$. <!-- feedback: Correcto. La evaluación fundamentada confirma la solidez del modelo para $Ley de Coulomb$. -->
-- [ ] B) El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa. <!-- feedback: Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia. -->
+- [x] B) El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Ley de Coulomb$. <!-- feedback: Correcto. La evaluación fundamentada confirma la solidez del modelo para $Ley de Coulomb$. -->
+- [ ] A) El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa. <!-- feedback: Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia. -->
 - [ ] C) El modelo sólo funciona si se desestiman las unidades del Sistema Internacional. <!-- feedback: Incorrecto. Debe operar de forma consistente en el Sistema Internacional. -->
 - [ ] D) El modelo presenta inconsistencias graves al asumir que el rendimiento puede superar el 100%. <!-- feedback: Incorrecto. El modelo respeta el límite físico del 100% de eficiencia. -->
 
@@ -435,9 +435,9 @@ La evaluación crítica de modelos en Física - Electromagnetismo exige verifica
 Se propone un modelo avanzado para evaluar la eficiencia de un proceso basado en $Conductores y Aislantes$ en Física - Electromagnetismo. Evaluá cuál de las siguientes afirmaciones juzga correctamente la validez del modelo.
 
 ### Opciones
-- [x] A) El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Conductores y Aislantes$. <!-- feedback: Correcto. La evaluación fundamentada confirma la solidez del modelo para $Conductores y Aislantes$. -->
-- [ ] B) El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa. <!-- feedback: Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia. -->
-- [ ] C) El modelo sólo funciona si se desestiman las unidades del Sistema Internacional. <!-- feedback: Incorrecto. Debe operar de forma consistente en el Sistema Internacional. -->
+- [x] C) El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Conductores y Aislantes$. <!-- feedback: Correcto. La evaluación fundamentada confirma la solidez del modelo para $Conductores y Aislantes$. -->
+- [ ] A) El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa. <!-- feedback: Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia. -->
+- [ ] B) El modelo sólo funciona si se desestiman las unidades del Sistema Internacional. <!-- feedback: Incorrecto. Debe operar de forma consistente en el Sistema Internacional. -->
 - [ ] D) El modelo presenta inconsistencias graves al asumir que el rendimiento puede superar el 100%. <!-- feedback: Incorrecto. El modelo respeta el límite físico del 100% de eficiencia. -->
 
 ### Explicacion Pedagogica

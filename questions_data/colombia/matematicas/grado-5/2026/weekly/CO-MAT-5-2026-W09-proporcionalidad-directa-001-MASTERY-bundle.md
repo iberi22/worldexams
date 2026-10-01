@@ -57,11 +57,11 @@ Comprender el concepto de proporcionalidad directa entre dos magnitudes.
 ¿Por qué el precio del arroz es directamente proporcional a la cantidad comprada?
 
 ### Opciones
-- [x] A) Porque al duplicar la cantidad, el precio también se duplica manteniendo la misma razón.
+- [x] C) Porque al duplicar la cantidad, el precio también se duplica manteniendo la misma razón.
   <!-- feedback: La razón 5.000 COP por kilogramo se mantiene constante al cambiar la cantidad. -->
-- [ ] B) Porque al duplicar la cantidad, el precio se reduce a la mitad.
+- [ ] A) Porque al duplicar la cantidad, el precio se reduce a la mitad.
   <!-- feedback: Si el precio bajara al duplicar la cantidad, sería proporcionalidad inversa. -->
-- [ ] C) Porque la cantidad y el precio no se relacionan.
+- [ ] B) Porque la cantidad y el precio no se relacionan.
   <!-- feedback: El texto muestra claramente una relación constante entre cantidad y precio. -->
 - [ ] D) Porque el precio cambia de forma aleatoria.
   <!-- feedback: El precio cambia de forma regular y predecible, no aleatoria. -->
@@ -80,11 +80,11 @@ Explicar la proporcionalidad directa a partir de un ejemplo cotidiano con precio
 ¿Cuánto costarán 4 cuadernos al mismo precio?
 
 ### Opciones
-- [x] A) 14.000 COP.
+- [x] C) 14.000 COP.
   <!-- feedback: 4 × 3.500 COP = 14.000 COP, manteniendo la razón de 3.500 COP por cuaderno. -->
-- [ ] B) 10.500 COP.
+- [ ] A) 10.500 COP.
   <!-- feedback: 10.500 COP es el precio de 3 cuadernos, no de 4. -->
-- [ ] C) 17.500 COP.
+- [ ] B) 17.500 COP.
   <!-- feedback: 17.500 COP sería el precio de 5 cuadernos. -->
 - [ ] D) 3.500 COP.
   <!-- feedback: 3.500 COP es el precio de un solo cuaderno. -->
@@ -103,11 +103,11 @@ Aplicar la razón constante para hallar el costo total al variar la cantidad de 
 Si un viajero recorre 8 kilómetros en el mismo taxi, ¿cuánto pagará?
 
 ### Opciones
-- [x] A) 10.000 COP.
+- [x] C) 10.000 COP.
   <!-- feedback: 2.000 COP de banderazo + 8 × 1.000 COP = 10.000 COP. -->
-- [ ] B) 8.000 COP.
+- [ ] A) 8.000 COP.
   <!-- feedback: 8.000 COP no incluye el banderazo de 2.000 COP. -->
-- [ ] C) 7.000 COP.
+- [ ] B) 7.000 COP.
   <!-- feedback: 7.000 COP es el valor para 5 km, no para 8 km. -->
 - [ ] D) 16.000 COP.
   <!-- feedback: 16.000 COP sería cobrar solo 2.000 COP por kilómetro, lo que no corresponde. -->
@@ -126,9 +126,9 @@ Aplicar la proporcionalidad directa y una tarifa fija para calcular el costo tot
 ¿Cuántas hojas se imprimirán en 6 minutos manteniendo la misma velocidad?
 
 ### Opciones
-- [x] A) 150 hojas.
+- [x] B) 150 hojas.
   <!-- feedback: 50 hojas cada 2 minutos equivale a 25 hojas por minuto; en 6 minutos son 25 × 6 = 150 hojas. -->
-- [ ] B) 100 hojas.
+- [ ] A) 100 hojas.
   <!-- feedback: 100 hojas corresponderían a 4 minutos, no a 6. -->
 - [ ] C) 200 hojas.
   <!-- feedback: 200 hojas corresponderían a 8 minutos, no a 6. -->
@@ -172,13 +172,13 @@ Analizar la constancia de la razón como característica de la proporcionalidad 
 Si la receta se prepara para 10 personas, ¿cuántos gramos de azúcar se necesitan?
 
 ### Opciones
-- [x] A) 500 gramos.
+- [x] D) 500 gramos.
   <!-- feedback: 200 g ÷ 4 personas = 50 g por persona; 50 × 10 = 500 g para 10 personas. -->
-- [ ] B) 200 gramos.
+- [ ] A) 200 gramos.
   <!-- feedback: 200 g es la cantidad para 4 personas, insuficiente para 10. -->
-- [ ] C) 800 gramos.
+- [ ] B) 800 gramos.
   <!-- feedback: 800 g sería para 16 personas si se mantuviera la misma proporción. -->
-- [ ] D) 1.000 gramos.
+- [ ] C) 1.000 gramos.
   <!-- feedback: 1.000 g excede la cantidad proporcional necesaria para 10 personas. -->
 
 ### Explicacion Pedagogica
@@ -195,11 +195,11 @@ Analizar y aplicar la proporcionalidad directa para ajustar cantidades de una re
 ¿Por qué es útil comprender la proporcionalidad directa en la vida cotidiana?
 
 ### Opciones
-- [x] A) Porque permite resolver problemas de cantidades, repartir, calcular costos y ajustar recetas con precisión.
+- [x] C) Porque permite resolver problemas de cantidades, repartir, calcular costos y ajustar recetas con precisión.
   <!-- feedback: La proporcionalidad directa facilita decisiones prácticas en muchas situaciones. -->
-- [ ] B) Porque solo se aplica en exámenes escolares sin uso real.
+- [ ] A) Porque solo se aplica en exámenes escolares sin uso real.
   <!-- feedback: La proporcionalidad directa se usa constantemente en la vida cotidiana. -->
-- [ ] C) Porque su uso está prohibido fuera del salón de clases.
+- [ ] B) Porque su uso está prohibido fuera del salón de clases.
   <!-- feedback: Al contrario, es una herramienta útil y accesible para todos. -->
 - [ ] D) Porque solo los adultos necesitan conocerla.
   <!-- feedback: Los estudiantes también se benefician al aprenderla para resolver problemas reales. -->

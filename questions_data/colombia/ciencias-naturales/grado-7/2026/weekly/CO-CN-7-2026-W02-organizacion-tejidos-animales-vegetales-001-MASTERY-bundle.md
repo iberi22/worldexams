@@ -80,11 +80,11 @@ El tejido epitelial está formado por células muy unidas que recubren la piel y
 ¿Qué tejido permite el movimiento de las piernas durante la carrera?
 
 ### Opciones
-- [ ] A) Tejido nervioso del cerebro
+- [ ] B) Tejido nervioso del cerebro
   <!-- feedback: Incorrecta porque el tejido nervioso coordina, pero no genera la fuerza del movimiento. -->
-- [ ] B) Tejido epitelial de la piel
+- [ ] C) Tejido epitelial de la piel
   <!-- feedback: Incorrecta porque el epitelial recubre, no produce contracción. -->
-- [x] C) Tejido muscular esquelético de las piernas
+- [x] A) Tejido muscular esquelético de las piernas
   <!-- feedback: Correcta porque sus fibras se contraen y tiran de los huesos para correr. -->
 - [ ] D) Tejido vascular de las plantas
   <!-- feedback: Incorrecta porque el tejido vascular transporta sustancias en vegetales, no mueve piernas. -->
@@ -103,9 +103,9 @@ El músculo esquelético está unido a los huesos y se contrae de forma voluntar
 ¿Por qué el hueso y la sangre se clasifican como tejido conectivo?
 
 ### Opciones
-- [ ] A) Porque ambos transmiten impulsos nerviosos
+- [ ] B) Porque ambos transmiten impulsos nerviosos
   <!-- feedback: Incorrecta porque la transmisión de impulsos es propia del tejido nervioso. -->
-- [x] B) Porque ambos sostienen, conectan o transportan dentro del cuerpo
+- [x] A) Porque ambos sostienen, conectan o transportan dentro del cuerpo
   <!-- feedback: Correcta porque el conectivo incluye sostén como el hueso y transporte como la sangre. -->
 - [ ] C) Porque ambos recubren la superficie del cuerpo
   <!-- feedback: Incorrecta porque recubrir superficies es función del tejido epitelial. -->
@@ -151,11 +151,11 @@ La epidermis foliar, a veces con cutícula cérea y estomas, controla la salida 
 ### Opciones
 - [ ] A) Ambas son tejido epitelial porque tienen células unidas
   <!-- feedback: Incorrecta porque ninguna muestra describe células aplanadas y unidas típicas del epitelio. -->
-- [x] B) P es tejido muscular y Q es tejido nervioso por su forma y función
+- [x] D) P es tejido muscular y Q es tejido nervioso por su forma y función
   <!-- feedback: Correcta porque las fibras contráctiles indican músculo y la red estrellada indica neuronas. -->
-- [ ] C) P es tejido nervioso y Q es tejido muscular
+- [ ] B) P es tejido nervioso y Q es tejido muscular
   <!-- feedback: Incorrecta porque invierte los rasgos: las neuronas no son fibras contráctiles. -->
-- [ ] D) Ambas son tejido conectivo sanguíneo
+- [ ] C) Ambas son tejido conectivo sanguíneo
   <!-- feedback: Incorrecta porque la sangre muestra células separadas en plasma, no fibras ni redes. -->
 
 ### Explicacion Pedagogica
@@ -199,9 +199,9 @@ Si el agua con sales sube desde la raíz hasta las hojas de la yuca, ¿qué teji
   <!-- feedback: Incorrecta porque proteger no equivale a conducir savia a distancia. -->
 - [ ] B) Tejido meristemático, porque genera hojas nuevas
   <!-- feedback: Incorrecta porque generar células no explica el ascenso de agua ya absorbida. -->
-- [x] C) Tejido vascular xilema, porque conduce savia bruta hacia arriba
+- [x] D) Tejido vascular xilema, porque conduce savia bruta hacia arriba
   <!-- feedback: Correcta porque el xilema transporta agua y sales desde la raíz al resto de la planta. -->
-- [ ] D) Tejido nervioso, porque ordena el ascenso
+- [ ] C) Tejido nervioso, porque ordena el ascenso
   <!-- feedback: Incorrecta porque las plantas carecen de tejido nervioso. -->
 
 ### Explicacion Pedagogica
@@ -218,9 +218,9 @@ El sistema vascular vegetal tiene xilema para savia bruta ascendente y floema pa
 ¿Cómo se evalúa científicamente esa afirmación usando los niveles de organización?
 
 ### Opciones
-- [ ] A) Se acepta porque la sangre actúa de forma independiente del cuerpo
+- [ ] B) Se acepta porque la sangre actúa de forma independiente del cuerpo
   <!-- feedback: Incorrecta porque la sangre depende del corazón, vasos, médula ósea y otros órganos. -->
-- [x] B) Se rechaza porque la salud depende de células, tejidos, órganos y sistemas coordinados, no de un solo tejido
+- [x] A) Se rechaza porque la salud depende de células, tejidos, órganos y sistemas coordinados, no de un solo tejido
   <!-- feedback: Correcta porque aplica el modelo de niveles integrados frente a una explicación simplista. -->
 - [ ] C) Se acepta porque los tejidos no necesitan órganos para funcionar
   <!-- feedback: Incorrecta porque los tejidos solo funcionan integrados en órganos y sistemas. -->
@@ -245,9 +245,9 @@ Evaluar afirmaciones de salud exige pensar en sistemas: la sangre se produce, se
   <!-- feedback: Incorrecta porque una sola observación sin registro no permite comparar ni concluir. -->
 - [ ] B) Probar sabores de mango de distintas tiendas de la ciudad
   <!-- feedback: Incorrecta porque el sabor no evidencia la anatomía de los tejidos foliares. -->
-- [x] C) Comparar cortes de epidermis y de nervadura, dibujar, medir y repetir en varias hojas
+- [x] D) Comparar cortes de epidermis y de nervadura, dibujar, medir y repetir en varias hojas
   <!-- feedback: Correcta porque contrasta ambos tejidos con evidencia repetible y registrada. -->
-- [ ] D) Regar una planta con gaseosa y otra sin agua durante un mes
+- [ ] C) Regar una planta con gaseosa y otra sin agua durante un mes
   <!-- feedback: Incorrecta porque maltrata las plantas y no compara los dos tejidos solicitados. -->
 
 ### Explicacion Pedagogica

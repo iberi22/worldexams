@@ -29,9 +29,9 @@ Este bundle desarrolla la observación, la hipótesis, las variables y la experi
 ### Enunciado
 ¿Qué es observar en una indagación científica?
 ### Opciones
-- [ ] A) Adivinar la respuesta sin mirar ni medir nada del fenómeno.
+- [ ] B) Adivinar la respuesta sin mirar ni medir nada del fenómeno.
   <!-- feedback: Incorrecta, porque adivinar sin datos no es observar ni investigar. -->
-- [x] B) Examinar con atención usando los sentidos e instrumentos y registrar lo que ocurre sin opinar todavía.
+- [x] A) Examinar con atención usando los sentidos e instrumentos y registrar lo que ocurre sin opinar todavía.
   <!-- feedback: Correcta, porque define la observación como registro cuidadoso y objetivo del fenómeno. -->
 - [ ] C) Copiar la tarea del compañero sin hacer el experimento en el laboratorio.
   <!-- feedback: Incorrecta, porque copiar evita el contacto directo con el fenómeno que se estudia. -->
@@ -48,9 +48,9 @@ Observar es la base de la ciencia: mirar, escuchar, medir y anotar con orden ant
 ### Enunciado
 ¿Cuál es la diferencia entre la primera anotación y la segunda?
 ### Opciones
-- [x] A) La primera es una observación descriptiva útil y la segunda es una opinión personal sin datos medibles.
+- [x] B) La primera es una observación descriptiva útil y la segunda es una opinión personal sin datos medibles.
   <!-- feedback: Correcta, porque distingue describir propiedades observables de expresar un gusto subjetivo. -->
-- [ ] B) Ambas son hipótesis comprobadas porque las escribieron en el cuaderno de campo.
+- [ ] A) Ambas son hipótesis comprobadas porque las escribieron en el cuaderno de campo.
   <!-- feedback: Incorrecta, porque escribir algo no lo convierte en hipótesis ni lo comprueba. -->
 - [ ] C) La segunda es científica porque usa adjetivos y la primera es artística porque usa los sentidos.
   <!-- feedback: Incorrecta, porque invierte los papeles: la ciencia valora lo observable y medible. -->
@@ -67,11 +67,11 @@ La observación científica registra propiedades como color, olor, temperatura y
 ### Enunciado
 En ese experimento, ¿cuál es la variable independiente y cuál es la variable dependiente?
 ### Opciones
-- [ ] A) Independiente es la altura de los estudiantes y dependiente es el color del armario.
+- [ ] B) Independiente es la altura de los estudiantes y dependiente es el color del armario.
   <!-- feedback: Incorrecta, porque ni la altura ni el color del mueble se manipulan para explicar el crecimiento. -->
-- [ ] B) Independiente es el crecimiento y dependiente es la luz, porque las plantas producen luz.
+- [ ] C) Independiente es el crecimiento y dependiente es la luz, porque las plantas producen luz.
   <!-- feedback: Incorrecta, porque invierte los papeles y las plantas no producen la luz que reciben. -->
-- [x] C) Independiente es la cantidad de luz que se cambia a propósito y dependiente es el crecimiento que se mide como resultado.
+- [x] A) Independiente es la cantidad de luz que se cambia a propósito y dependiente es el crecimiento que se mide como resultado.
   <!-- feedback: Correcta, porque identifica la causa manipulada y el efecto medido en el experimento. -->
 - [ ] D) No hay variables porque usar dos bandejas iguales elimina todo lo que se puede medir.
   <!-- feedback: Incorrecta, porque igualar lo demás permite aislar justo la variable que sí cambia. -->
@@ -86,13 +86,13 @@ La variable independiente es la que el equipo cambia a propósito, aquí la luz.
 ### Enunciado
 ¿Cuál es una hipótesis comprobable para explicar esa diferencia?
 ### Opciones
-- [x] A) Si la tierra está más compactada, entonces el agua se infiltra más lento y el charco dura más tiempo.
+- [x] D) Si la tierra está más compactada, entonces el agua se infiltra más lento y el charco dura más tiempo.
   <!-- feedback: Correcta, porque propone una relación causa efecto que se puede medir con tiempos de infiltración. -->
-- [ ] B) Los charcos duran porque a la tierra le gusta guardar agua para los pájaros del patio.
+- [ ] A) Los charcos duran porque a la tierra le gusta guardar agua para los pájaros del patio.
   <!-- feedback: Incorrecta, porque atribuye gustos a la tierra y no propone nada medible. -->
-- [ ] C) La lluvia cae por castigo y por eso nadie puede estudiar cómo se comporta.
+- [ ] B) La lluvia cae por castigo y por eso nadie puede estudiar cómo se comporta.
   <!-- feedback: Incorrecta, porque apela a un castigo y declara imposible la indagación. -->
-- [ ] D) Todos los suelos son idénticos y ningún experimento podrá mostrar diferencias.
+- [ ] C) Todos los suelos son idénticos y ningún experimento podrá mostrar diferencias.
   <!-- feedback: Incorrecta, porque niega diferencias reales y cierra la puerta a comprobar con datos. -->
 ### Explicacion Pedagogica
 Una buena hipótesis tiene forma de si-entonces y conecta una causa con un efecto medible. Debe poder confirmarse o rechazarse con un experimento. La opción correcta permite comparar tiempos de infiltración en tierra compactada y suelta con volúmenes iguales de agua.
@@ -107,9 +107,9 @@ Una buena hipótesis tiene forma de si-entonces y conecta una causa con un efect
 ### Opciones
 - [ ] A) Porque así el experimento sale más caro y parece más científico ante el jurado.
   <!-- feedback: Incorrecta, porque el costo no determina la calidad de un diseño experimental. -->
-- [x] B) Porque al cambiar una sola variable se sabe que las diferencias en el crecimiento se deben al abono y no a otros factores.
+- [x] C) Porque al cambiar una sola variable se sabe que las diferencias en el crecimiento se deben al abono y no a otros factores.
   <!-- feedback: Correcta, porque aplica el principio de prueba justa con controles constantes. -->
-- [ ] C) Porque las plantas necesitan cambios bruscos de agua, luz y tierra al mismo tiempo para crecer.
+- [ ] B) Porque las plantas necesitan cambios bruscos de agua, luz y tierra al mismo tiempo para crecer.
   <!-- feedback: Incorrecta, porque cambiar todo a la vez impide saber qué causó el resultado. -->
 - [ ] D) Porque con una sola matera basta y sobra para concluir sobre todo el Caquetá.
   <!-- feedback: Incorrecta, porque una sola muestra no permite comparar ni generalizar con confianza. -->
@@ -126,11 +126,11 @@ Un experimento justo manipula una variable y controla las demás. Si cambian agu
 ### Opciones
 - [ ] A) Recomendar el del grupo X porque cosechar menos ahorra trabajo en la finca.
   <!-- feedback: Incorrecta, porque el criterio es el rendimiento comparable y X obtuvo el menor. -->
-- [x] B) El fertilizante Y muestra el mejor rendimiento en estas condiciones, pero conviene repetir la prueba otra temporada antes de generalizar.
+- [x] D) El fertilizante Y muestra el mejor rendimiento en estas condiciones, pero conviene repetir la prueba otra temporada antes de generalizar.
   <!-- feedback: Correcta, porque interpreta la tabla y pide repetición para confirmar la tendencia. -->
-- [ ] C) Declarar un empate porque todos los números son distintos y los datos nunca sirven.
+- [ ] B) Declarar un empate porque todos los números son distintos y los datos nunca sirven.
   <!-- feedback: Incorrecta, porque los datos sí muestran diferencias claras que se pueden comparar. -->
-- [ ] D) Elegir por el color del empaque sin mirar los kilos cosechados en cada surco.
+- [ ] C) Elegir por el color del empaque sin mirar los kilos cosechados en cada surco.
   <!-- feedback: Incorrecta, porque el empaque no mide el efecto real sobre la cosecha. -->
 ### Explicacion Pedagogica
 Analizar datos es comparar con el mismo indicador y reconocer límites. Y rindió más en ese ensayo, pero una sola temporada no basta: el clima cambia cada año. Repetir, promediar y anotar costos permite recomendar con responsabilidad a las familias paperas de Boyacá.
@@ -145,11 +145,11 @@ Analizar datos es comparar con el mismo indicador y reconocer límites. Y rindi�
 ### Opciones
 - [ ] A) Ninguno, porque con una sola medida sin apuntes ya se puede generalizar a todo el país.
   <!-- feedback: Incorrecta, porque una muestra única sin registro no sostiene ninguna generalización. -->
-- [x] B) Usa muestra mínima sin réplicas, no registra datos y generaliza más allá de lo observado.
+- [x] D) Usa muestra mínima sin réplicas, no registra datos y generaliza más allá de lo observado.
   <!-- feedback: Correcta, porque identifica falta de réplicas, ausencia de evidencia y conclusión exagerada. -->
-- [ ] C) Su error es usar algodón, porque en ciencia está prohibido usar materiales baratos.
+- [ ] B) Su error es usar algodón, porque en ciencia está prohibido usar materiales baratos.
   <!-- feedback: Incorrecta, porque el algodón es un soporte válido; el problema es el diseño y no el material. -->
-- [ ] D) Su error es medir, porque en indagación está prohibido tomar medidas y anotar.
+- [ ] C) Su error es medir, porque en indagación está prohibido tomar medidas y anotar.
   <!-- feedback: Incorrecta, porque medir y anotar son obligaciones centrales de toda indagación. -->
 ### Explicacion Pedagogica
 Toda indagación seria usa varias réplicas, registra datos ordenados y concluye solo sobre lo probado. Una semilla puede fallar por azar. Con diez o más semillas por condición, tablas de medida y fotos fechadas, la conclusión gana fuerza y se puede compartir con el curso.
@@ -162,9 +162,9 @@ Toda indagación seria usa varias réplicas, registra datos ordenados y concluye
 ### Enunciado
 ¿Por qué el promedio de diez tardes es más confiable que la medida de una sola tarde?
 ### Opciones
-- [ ] A) Porque medir muchas veces gasta más papel y eso impresiona al profesor del colegio.
+- [ ] B) Porque medir muchas veces gasta más papel y eso impresiona al profesor del colegio.
   <!-- feedback: Incorrecta, porque el gasto de papel no aumenta la precisión de la medida. -->
-- [x] B) Porque repetir reduce el efecto del azar de un día raro y el promedio refleja mejor el comportamiento típico.
+- [x] A) Porque repetir reduce el efecto del azar de un día raro y el promedio refleja mejor el comportamiento típico.
   <!-- feedback: Correcta, porque explica la repetición como control de la variación natural. -->
 - [ ] C) Porque en Quibdó llueve una sola vez al año y una medida basta para todo el ciclo.
   <!-- feedback: Incorrecta, porque Quibdó es una de las zonas más lluviosas y la lluvia varía cada día. -->
@@ -183,11 +183,11 @@ Conclusión 1: la luz favorece el crecimiento en estas condiciones. Conclusión 
 ### Opciones
 - [ ] A) Ambas son correctas porque cualquier dato pequeño prueba todo lo que existe.
   <!-- feedback: Incorrecta, porque un ensayo limitado no demuestra afirmaciones universales absolutas. -->
-- [x] B) La primera es válida porque se apoya en los datos, y la segunda es exagerada porque el agua, la tierra y la temperatura también influyen.
+- [x] D) La primera es válida porque se apoya en los datos, y la segunda es exagerada porque el agua, la tierra y la temperatura también influyen.
   <!-- feedback: Correcta, porque acepta lo respaldado por la evidencia y frena la generalización excesiva. -->
-- [ ] C) Ambas son falsas porque medir con regla invalida cualquier experimento escolar.
+- [ ] B) Ambas son falsas porque medir con regla invalida cualquier experimento escolar.
   <!-- feedback: Incorrecta, porque medir con regla es un procedimiento válido y necesario. -->
-- [ ] D) La primera es falsa y la segunda verdadera porque en ciencia gana la frase más grande.
+- [ ] C) La primera es falsa y la segunda verdadera porque en ciencia gana la frase más grande.
   <!-- feedback: Incorrecta, porque en ciencia gana la afirmación ajustada a los datos, no la más llamativa. -->
 ### Explicacion Pedagogica
 Evaluar conclusiones es comparar cada frase con los datos. El promedio mayor con luz respalda la primera conclusión dentro de esas condiciones. La segunda salta a todo el universo e ignora otros factores conocidos. Una buena conclusión dice qué se probó, en qué condiciones y qué falta por probar.
@@ -204,9 +204,9 @@ Evaluar conclusiones es comparar cada frase con los datos. El promedio mayor con
   <!-- feedback: Incorrecta, porque el sabor no detecta patógenos ni químicos peligrosos y exponerse así es riesgoso. -->
 - [ ] B) Oler y votar por el grifo favorito porque la simpatía del grupo purifica el agua.
   <!-- feedback: Incorrecta, porque votar no mide calidad y ningún gusto colectivo potabiliza el agua. -->
-- [x] C) Medir con tiras, repetir las pruebas, registrar en tablas y comparar con la norma antes de recomendar.
+- [x] D) Medir con tiras, repetir las pruebas, registrar en tablas y comparar con la norma antes de recomendar.
   <!-- feedback: Correcta, porque usa instrumentos, réplicas, registro y criterio externo de calidad. -->
-- [ ] D) No investigar nada porque el agua de cualquier grifo siempre es segura en todo lugar.
+- [ ] C) No investigar nada porque el agua de cualquier grifo siempre es segura en todo lugar.
   <!-- feedback: Incorrecta, porque la calidad varía por tuberías y tanques y debe verificarse con datos. -->
 ### Explicacion Pedagogica
 Una indagación para la salud debe ser segura y basada en evidencia. Las tiras miden indicadores, la repetición da confianza, las tablas ordenan y la norma da el límite de referencia. Probar con la boca expone a enfermar. Evaluar planes con seguridad, instrumentos y comparación es el corazón del método científico escolar.

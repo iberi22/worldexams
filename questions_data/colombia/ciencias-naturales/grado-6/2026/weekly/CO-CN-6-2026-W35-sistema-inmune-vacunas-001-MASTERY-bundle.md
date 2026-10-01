@@ -34,11 +34,11 @@ Este bundle de 10 preguntas estudia el sistema inmune y las vacunas, con énfasi
 ¿Qué es el sistema inmune?
 
 ### Opciones
-- [x] A) El conjunto de órganos, células y sustancias que defienden al cuerpo de microorganismos y de otras partículas extrañas
+- [x] C) El conjunto de órganos, células y sustancias que defienden al cuerpo de microorganismos y de otras partículas extrañas
   <!-- feedback: Correcto. El sistema inmune es el sistema de defensa del organismo. -->
-- [ ] B) El conjunto de huesos y músculos que permite el movimiento del cuerpo
+- [ ] A) El conjunto de huesos y músculos que permite el movimiento del cuerpo
   <!-- feedback: Incorrecto. Esa es la función del sistema locomotor. -->
-- [ ] C) El sistema que transporta los alimentos ya digeridos por la sangre
+- [ ] B) El sistema que transporta los alimentos ya digeridos por la sangre
   <!-- feedback: Incorrecto. Esa función corresponde a la digestión y a la absorción de nutrientes. -->
 - [ ] D) El conjunto de órganos que producen la orina y eliminan desechos
   <!-- feedback: Incorrecto. Esa es la función del sistema excretor. -->
@@ -57,13 +57,13 @@ El sistema inmune está formado por barreras como la piel y las mucosas, por cé
 ¿Cómo actúa una vacuna en el organismo?
 
 ### Opciones
-- [x] A) Introduce una forma segura y debilitada del microorganismo o de sus partes, para que el cuerpo produzca defensas y memoria sin padecer la enfermedad
+- [x] D) Introduce una forma segura y debilitada del microorganismo o de sus partes, para que el cuerpo produzca defensas y memoria sin padecer la enfermedad
   <!-- feedback: Correcto. La vacuna entrena al sistema inmune de forma segura. -->
-- [ ] B) Combate directamente a los microorganismos con sustancias externas al cuerpo
+- [ ] A) Combate directamente a los microorganismos con sustancias externas al cuerpo
   <!-- feedback: Incorrecto. Ese es el efecto de algunos medicamentos, no de las vacunas. -->
-- [ ] C) Sustituye definitivamente a los glóbulos blancos de la persona vacunada
+- [ ] B) Sustituye definitivamente a los glóbulos blancos de la persona vacunada
   <!-- feedback: Incorrecto. La vacuna no reemplaza células, estimula su producción. -->
-- [ ] D) Elimina las enfermedades únicamente durante el día de la aplicación
+- [ ] C) Elimina las enfermedades únicamente durante el día de la aplicación
   <!-- feedback: Incorrecto. La protección se construye y perdura gracias a la memoria inmunológica. -->
 
 ### Explicacion Pedagogica
@@ -80,9 +80,9 @@ Una vacuna presenta al sistema inmune un microorganismo inactivado, debilitado o
 ¿Para qué se aplican los refuerzos de algunas vacunas?
 
 ### Opciones
-- [x] A) Para mantener altos los niveles de defensas y de células de memoria a lo largo del tiempo
+- [x] B) Para mantener altos los niveles de defensas y de células de memoria a lo largo del tiempo
   <!-- feedback: Correcto. Los refuerzos prolongan la protección lograda con las primeras dosis. -->
-- [ ] B) Porque la primera dosis no produjo ninguna defensa en el organismo
+- [ ] A) Porque la primera dosis no produjo ninguna defensa en el organismo
   <!-- feedback: Incorrecto. Las primeras dosis sí generan defensas; los refuerzos las consolidan. -->
 - [ ] C) Porque las vacunas caducan dentro del cuerpo pocos días después
   <!-- feedback: Incorrecto. La protección disminuye lentamente, no caduca de un día para otro. -->
@@ -103,13 +103,13 @@ Después de las primeras dosis, la cantidad de anticuerpos puede disminuir con l
 ¿Qué logra esta medida en el salón de clases?
 
 ### Opciones
-- [x] A) Evita que las gotitas con virus lleguen a otras personas y reduce el contagio entre los compañeros
+- [x] D) Evita que las gotitas con virus lleguen a otras personas y reduce el contagio entre los compañeros
   <!-- feedback: Correcto. Interrumpir la transmisión protege a la comunidad escolar. -->
-- [ ] B) Cura más rápido la gripe del estudiante que tose
+- [ ] A) Cura más rápido la gripe del estudiante que tose
   <!-- feedback: Incorrecto. La medida evita contagios, no acelera la recuperación. -->
-- [ ] C) Elimina por completo el virus del cuerpo del estudiante enfermo
+- [ ] B) Elimina por completo el virus del cuerpo del estudiante enfermo
   <!-- feedback: Incorrecto. El sistema inmune es el que elimina el virus con el tiempo. -->
-- [ ] D) Fortalece el sistema inmune de todos los compañeros del salón
+- [ ] C) Fortalece el sistema inmune de todos los compañeros del salón
   <!-- feedback: Incorrecto. La barrera física evita la transmisión, no fortalece la inmunidad. -->
 
 ### Explicacion Pedagogica
@@ -126,13 +126,13 @@ Los virus respiratorios se transmiten en gotitas que salen al toser o estornudar
 ¿Qué explica la inflamación de la zona lesionada?
 
 ### Opciones
-- [x] A) Es una respuesta defensiva: los vasos sanguíneos llevan más sangre y células de defensa a la zona para combatir posibles microorganismos y reparar el tejido
+- [x] D) Es una respuesta defensiva: los vasos sanguíneos llevan más sangre y células de defensa a la zona para combatir posibles microorganismos y reparar el tejido
   <!-- feedback: Correcto. La inflamación es parte de la respuesta inmune local. -->
-- [ ] B) Es una señal de que el cuerpo ha perdido todas sus defensas
+- [ ] A) Es una señal de que el cuerpo ha perdido todas sus defensas
   <!-- feedback: Incorrecto. La inflamación indica que las defensas están actuando. -->
-- [ ] C) Significa que la herida siempre está infectada por bacterias peligrosas
+- [ ] B) Significa que la herida siempre está infectada por bacterias peligrosas
   <!-- feedback: Incorrecto. La inflamación es normal tras una lesión y no implica infección grave. -->
-- [ ] D) Indica que el sistema inmune dejó de funcionar en esa parte del cuerpo
+- [ ] C) Indica que el sistema inmune dejó de funcionar en esa parte del cuerpo
   <!-- feedback: Incorrecto. La respuesta inflamatoria demuestra actividad del sistema inmune. -->
 
 ### Explicacion Pedagogica
@@ -149,11 +149,11 @@ Ante una lesión o una infección, los vasos sanguíneos de la zona se dilatan, 
 ¿Qué análisis explica mejor la diferencia en el número de casos entre los dos grupos?
 
 ### Opciones
-- [x] A) El grupo vacunado enferma menos porque su sistema inmune reconoce el virus y responde rápido gracias a la memoria inmunológica creada por la vacuna
+- [x] C) El grupo vacunado enferma menos porque su sistema inmune reconoce el virus y responde rápido gracias a la memoria inmunológica creada por la vacuna
   <!-- feedback: Correcto. La memoria inmunológica explica la diferencia observada. -->
-- [ ] B) El grupo vacunado enferma menos porque la vacuna mata al virus apenas entra al cuerpo
+- [ ] A) El grupo vacunado enferma menos porque la vacuna mata al virus apenas entra al cuerpo
   <!-- feedback: Incorrecto. La vacuna no mata al virus; prepara al sistema inmune para hacerlo. -->
-- [ ] C) Los dos grupos tienen el mismo número de casos porque la vacuna no influye
+- [ ] B) Los dos grupos tienen el mismo número de casos porque la vacuna no influye
   <!-- feedback: Incorrecto. La comparación muestra una clara diferencia de casos. -->
 - [ ] D) El grupo no vacunado enferma menos porque desarrolla más defensas al contagiarse
   <!-- feedback: Incorrecto. Enfermar sin vacuna implica riesgo y no ofrece ventaja frente al grupo vacunado. -->
@@ -172,9 +172,9 @@ Al comparar grupos con y sin vacunación se hace evidente el efecto de la inmuni
 ¿Qué análisis explica que casi nunca se repita esa enfermedad?
 
 ### Opciones
-- [x] A) Después de la primera infección el sistema inmune conserva células de memoria que reconocen el virus y lo eliminan antes de que cause síntomas
+- [x] B) Después de la primera infección el sistema inmune conserva células de memoria que reconocen el virus y lo eliminan antes de que cause síntomas
   <!-- feedback: Correcto. La memoria inmunológica impide que la enfermedad se repita. -->
-- [ ] B) El virus de la varicela desaparece del ambiente después de infectar a una persona
+- [ ] A) El virus de la varicela desaparece del ambiente después de infectar a una persona
   <!-- feedback: Incorrecto. El virus sigue circulando; la protección está en la persona. -->
 - [ ] C) El cuerpo produce una barrera de piel más gruesa después de la enfermedad
   <!-- feedback: Incorrecto. La protección es inmunológica, no un cambio de la piel. -->
@@ -195,11 +195,11 @@ Tras una infección, el sistema inmune guarda células de memoria específicas p
 ¿Qué análisis explica la recomendación del farmacéutico?
 
 ### Opciones
-- [x] A) Los antibióticos actúan contra bacterias y no contra virus; usarlos para una gripe viral no alivia la enfermedad y favorece que aparezcan bacterias resistentes
+- [x] C) Los antibióticos actúan contra bacterias y no contra virus; usarlos para una gripe viral no alivia la enfermedad y favorece que aparezcan bacterias resistentes
   <!-- feedback: Correcto. El uso innecesario de antibióticos no sirve y genera resistencia. -->
-- [ ] B) Los antibióticos sirven para todas las infecciones porque destruyen cualquier microorganismo
+- [ ] A) Los antibióticos sirven para todas las infecciones porque destruyen cualquier microorganismo
   <!-- feedback: Incorrecto. Los antibióticos no actúan sobre los virus. -->
-- [ ] C) Los antibióticos refuerzan el sistema inmune y por eso se deben tomar siempre
+- [ ] B) Los antibióticos refuerzan el sistema inmune y por eso se deben tomar siempre
   <!-- feedback: Incorrecto. Los antibióticos no fortalecen la inmunidad. -->
 - [ ] D) La gripe es causada por bacterias y por eso requiere un antibiótico más fuerte
   <!-- feedback: Incorrecto. La gripe es causada por virus respiratorios. -->
@@ -218,11 +218,11 @@ Analizar el tipo de agente causal orienta el tratamiento: los antibióticos solo
 ¿Qué evaluación conjunta de las tres afirmaciones es correcta?
 
 ### Opciones
-- [x] A) La 1 y la 2 son verdaderas, porque las vacunas estimulan defensas y memoria sin provocar la enfermedad; la 3 es falsa, porque enfermar implica riesgos y complicaciones evitables
+- [x] C) La 1 y la 2 son verdaderas, porque las vacunas estimulan defensas y memoria sin provocar la enfermedad; la 3 es falsa, porque enfermar implica riesgos y complicaciones evitables
   <!-- feedback: Correcto. Reconoce el valor de las vacunas y los riesgos de enfermar. -->
-- [ ] B) Las tres afirmaciones son verdaderas, porque enfermar siempre es más seguro que vacunarse
+- [ ] A) Las tres afirmaciones son verdaderas, porque enfermar siempre es más seguro que vacunarse
   <!-- feedback: Incorrecto. Enfermar expone a complicaciones graves e incluso a la muerte. -->
-- [ ] C) Solo la 3 es verdadera, porque las vacunas no generan memoria inmunológica
+- [ ] B) Solo la 3 es verdadera, porque las vacunas no generan memoria inmunológica
   <!-- feedback: Incorrecto. Las vacunas sí producen células de memoria. -->
 - [ ] D) Las tres afirmaciones son falsas, porque el sistema inmune no tiene memoria
   <!-- feedback: Incorrecto. La memoria inmunológica es un hecho demostrado. -->
@@ -241,11 +241,11 @@ Evaluar estas afirmaciones exige comparar riesgos y beneficios: las vacunas gene
 ¿Qué medida conviene priorizar y por qué?
 
 ### Opciones
-- [x] A) Organizar jornadas de vacunación, asegurar la refrigeración adecuada de las vacunas y educar a la comunidad, porque reduce el contagio y protege a la población de manera segura y sostenible
+- [x] C) Organizar jornadas de vacunación, asegurar la refrigeración adecuada de las vacunas y educar a la comunidad, porque reduce el contagio y protege a la población de manera segura y sostenible
   <!-- feedback: Correcto. La inmunización con calidad y educación es la medida más eficaz. -->
-- [ ] B) Repartir antibióticos a todas las familias para que nadie se enferme
+- [ ] A) Repartir antibióticos a todas las familias para que nadie se enferme
   <!-- feedback: Incorrecto. Los antibióticos no previenen enfermedades contagiosas virales y promueven resistencia. -->
-- [ ] C) Ocultar la información sobre el aumento de casos para evitar la alarma
+- [ ] B) Ocultar la información sobre el aumento de casos para evitar la alarma
   <!-- feedback: Incorrecto. La información veraz permite que la comunidad se proteja. -->
 - [ ] D) Suspender las campañas de vacunación hasta que la enfermedad desaparezca
   <!-- feedback: Incorrecto. Suspender la vacunación aumenta el número de personas susceptibles. -->

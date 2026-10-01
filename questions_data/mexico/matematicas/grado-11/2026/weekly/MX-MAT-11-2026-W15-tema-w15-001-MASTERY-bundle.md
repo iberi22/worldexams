@@ -30,11 +30,11 @@ creador: "Jules-Agent"
 Si el teodolito se ubica a una distancia horizontal de 15 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).
 
 ### Opciones
-- [x] A) 10.15 metros
+- [x] C) 10.15 metros
   <!-- feedback: ¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5. -->
-- [ ] B) 8.65 metros
+- [ ] A) 8.65 metros
   <!-- feedback: Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m). -->
-- [ ] C) 27.5 metros
+- [ ] B) 27.5 metros
   <!-- feedback: Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar. -->
 - [ ] D) 9.0 metros
   <!-- feedback: Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577. -->
@@ -53,11 +53,11 @@ En el triángulo rectángulo formado, el cateto adyacente es la distancia horizo
 Si el teodolito se ubica a una distancia horizontal de 17 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).
 
 ### Opciones
-- [x] A) 11.31 metros
+- [x] C) 11.31 metros
   <!-- feedback: ¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5. -->
-- [ ] B) 9.81 metros
+- [ ] A) 9.81 metros
   <!-- feedback: Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m). -->
-- [ ] C) 30.96 metros
+- [ ] B) 30.96 metros
   <!-- feedback: Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar. -->
 - [ ] D) 10.0 metros
   <!-- feedback: Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577. -->
@@ -99,11 +99,11 @@ En el triángulo rectángulo formado, el cateto adyacente es la distancia horizo
 Si el teodolito se ubica a una distancia horizontal de 21 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).
 
 ### Opciones
-- [x] A) 13.62 metros
+- [x] C) 13.62 metros
   <!-- feedback: ¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5. -->
-- [ ] B) 12.12 metros
+- [ ] A) 12.12 metros
   <!-- feedback: Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m). -->
-- [ ] C) 37.9 metros
+- [ ] B) 37.9 metros
   <!-- feedback: Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar. -->
 - [ ] D) 12.0 metros
   <!-- feedback: Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577. -->
@@ -122,9 +122,9 @@ En el triángulo rectángulo formado, el cateto adyacente es la distancia horizo
 Si el teodolito se ubica a una distancia horizontal de 23 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).
 
 ### Opciones
-- [x] A) 14.77 metros
+- [x] B) 14.77 metros
   <!-- feedback: ¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5. -->
-- [ ] B) 13.27 metros
+- [ ] A) 13.27 metros
   <!-- feedback: Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m). -->
 - [ ] C) 41.36 metros
   <!-- feedback: Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar. -->
@@ -168,13 +168,13 @@ En el triángulo rectángulo formado, el cateto adyacente es la distancia horizo
 Si el teodolito se ubica a una distancia horizontal de 27 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).
 
 ### Opciones
-- [x] A) 17.08 metros
+- [x] D) 17.08 metros
   <!-- feedback: ¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5. -->
-- [ ] B) 15.58 metros
+- [ ] A) 15.58 metros
   <!-- feedback: Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m). -->
-- [ ] C) 48.29 metros
+- [ ] B) 48.29 metros
   <!-- feedback: Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar. -->
-- [ ] D) 15.0 metros
+- [ ] C) 15.0 metros
   <!-- feedback: Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577. -->
 
 ### Explicacion Pedagogica
@@ -191,11 +191,11 @@ En el triángulo rectángulo formado, el cateto adyacente es la distancia horizo
 Si el teodolito se ubica a una distancia horizontal de 29 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).
 
 ### Opciones
-- [x] A) 18.23 metros
+- [x] C) 18.23 metros
   <!-- feedback: ¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5. -->
-- [ ] B) 16.73 metros
+- [ ] A) 16.73 metros
   <!-- feedback: Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m). -->
-- [ ] C) 51.76 metros
+- [ ] B) 51.76 metros
   <!-- feedback: Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar. -->
 - [ ] D) 16.0 metros
   <!-- feedback: Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577. -->
@@ -214,11 +214,11 @@ En el triángulo rectángulo formado, el cateto adyacente es la distancia horizo
 Si el teodolito se ubica a una distancia horizontal de 31 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).
 
 ### Opciones
-- [x] A) 19.39 metros
+- [x] C) 19.39 metros
   <!-- feedback: ¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5. -->
-- [ ] B) 17.89 metros
+- [ ] A) 17.89 metros
   <!-- feedback: Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m). -->
-- [ ] C) 55.23 metros
+- [ ] B) 55.23 metros
   <!-- feedback: Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar. -->
 - [ ] D) 17.0 metros
   <!-- feedback: Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577. -->
@@ -260,9 +260,9 @@ En el triángulo rectángulo formado, el cateto adyacente es la distancia horizo
 Si el teodolito se ubica a una distancia horizontal de 35 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).
 
 ### Opciones
-- [x] A) 21.7 metros
+- [x] B) 21.7 metros
   <!-- feedback: ¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5. -->
-- [ ] B) 20.2 metros
+- [ ] A) 20.2 metros
   <!-- feedback: Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m). -->
 - [ ] C) 62.16 metros
   <!-- feedback: Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar. -->
@@ -283,11 +283,11 @@ En el triángulo rectángulo formado, el cateto adyacente es la distancia horizo
 Si el teodolito se ubica a una distancia horizontal de 37 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).
 
 ### Opciones
-- [x] A) 22.85 metros
+- [x] C) 22.85 metros
   <!-- feedback: ¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5. -->
-- [ ] B) 21.35 metros
+- [ ] A) 21.35 metros
   <!-- feedback: Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m). -->
-- [ ] C) 65.62 metros
+- [ ] B) 65.62 metros
   <!-- feedback: Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar. -->
 - [ ] D) 20.0 metros
   <!-- feedback: Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577. -->
@@ -306,9 +306,9 @@ En el triángulo rectángulo formado, el cateto adyacente es la distancia horizo
 Si el teodolito se ubica a una distancia horizontal de 39 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).
 
 ### Opciones
-- [x] A) 24.0 metros
+- [x] B) 24.0 metros
   <!-- feedback: ¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5. -->
-- [ ] B) 22.5 metros
+- [ ] A) 22.5 metros
   <!-- feedback: Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m). -->
 - [ ] C) 69.09 metros
   <!-- feedback: Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar. -->
@@ -352,9 +352,9 @@ En el triángulo rectángulo formado, el cateto adyacente es la distancia horizo
 Si el teodolito se ubica a una distancia horizontal de 43 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).
 
 ### Opciones
-- [x] A) 26.31 metros
+- [x] B) 26.31 metros
   <!-- feedback: ¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5. -->
-- [ ] B) 24.81 metros
+- [ ] A) 24.81 metros
   <!-- feedback: Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m). -->
 - [ ] C) 76.02 metros
   <!-- feedback: Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar. -->
@@ -375,13 +375,13 @@ En el triángulo rectángulo formado, el cateto adyacente es la distancia horizo
 Si el teodolito se ubica a una distancia horizontal de 45 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).
 
 ### Opciones
-- [x] A) 27.46 metros
+- [x] D) 27.46 metros
   <!-- feedback: ¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5. -->
-- [ ] B) 25.96 metros
+- [ ] A) 25.96 metros
   <!-- feedback: Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m). -->
-- [ ] C) 79.49 metros
+- [ ] B) 79.49 metros
   <!-- feedback: Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar. -->
-- [ ] D) 24.0 metros
+- [ ] C) 24.0 metros
   <!-- feedback: Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577. -->
 
 ### Explicacion Pedagogica
@@ -398,11 +398,11 @@ En el triángulo rectángulo formado, el cateto adyacente es la distancia horizo
 Si el teodolito se ubica a una distancia horizontal de 47 metros de la base del asta y mide un ángulo de elevación de 30° al extremo superior, ¿cuál es la altura aproximada del asta si la altura del teodolito es de 1.5 metros? (Usa tan(30°) ≈ 0.577).
 
 ### Opciones
-- [x] A) 28.62 metros
+- [x] C) 28.62 metros
   <!-- feedback: ¡Correcto! La altura parcial es d * tan(30°). La altura total se obtiene sumando la altura del teodolito: h = d * tan(30°) + 1.5. -->
-- [ ] B) 27.12 metros
+- [ ] A) 27.12 metros
   <!-- feedback: Incorrecto. Se olvidó sumar la altura de visual del instrumento de medición (1.5 m). -->
-- [ ] C) 82.96 metros
+- [ ] B) 82.96 metros
   <!-- feedback: Incorrecto. Se dividió por la tangente de 30° en lugar de multiplicar. -->
 - [ ] D) 25.0 metros
   <!-- feedback: Incorrecto. Esto usaría el valor de sen(30°) = 0.5 en lugar de tan(30°) = 0.577. -->

@@ -29,9 +29,9 @@ Este bundle trabaja la traducción entre lenguaje común y algebraico, el uso de
 ### Enunciado
 ¿Qué representa una letra como n en una expresión algebraica?
 ### Opciones
-- [x] A) Un valor desconocido o que puede variar, llamado variable
+- [x] B) Un valor desconocido o que puede variar, llamado variable
   <!-- feedback: Explica por qué es correcta: la variable ocupa el lugar de un número que no se conoce o que cambia según la situación. -->
-- [ ] B) Siempre el número 14, por su posición en el abecedario
+- [ ] A) Siempre el número 14, por su posición en el abecedario
   <!-- feedback: Explica el error conceptual: la letra no vale por su posición en el abecedario; representa un valor variable. -->
 - [ ] C) Una operación entre números
   <!-- feedback: Explica el error conceptual: las operaciones se escriben con signos (+, −, ×); las letras representan valores. -->
@@ -48,13 +48,13 @@ La variable es el corazón del álgebra: una letra que representa un número des
 ### Enunciado
 Si n es el número de panelas, ¿qué expresión representa el doble de esa cantidad?
 ### Opciones
-- [x] A) 2n
+- [x] D) 2n
   <!-- feedback: Explica por qué es correcta: el doble significa multiplicar por 2, y en álgebra 2 × n se escribe 2n. -->
-- [ ] B) n + 2
+- [ ] A) n + 2
   <!-- feedback: Explica el error conceptual: eso es el número aumentado en 2, no duplicado. -->
-- [ ] C) n²
+- [ ] B) n²
   <!-- feedback: Explica el error conceptual: eso es el número al cuadrado (n × n), no el doble. -->
-- [ ] D) 2 + n + 2
+- [ ] C) 2 + n + 2
   <!-- feedback: Explica el error conceptual: agrega doses en vez de multiplicar la cantidad por 2. -->
 ### Explicacion Pedagogica
 "El doble de n" se traduce como 2 × n = 2n. Cada palabra del lenguaje común (doble, triple, mitad) tiene una operación asociada que debe identificarse al traducir.
@@ -86,13 +86,13 @@ Si n es el número de panelas, ¿qué expresión representa el doble de esa cant
 ### Enunciado
 ¿Qué expresión representa lo que recibe cada hijo si son dos hijos y el reparto es equitativo?
 ### Opciones
-- [ ] A) x/2 - 3 dividido entre 2
+- [ ] B) x/2 - 3 dividido entre 2
   <!-- feedback: Explica el error conceptual: esta opción describe mal el reparto; la expresión correcta descuenta primero y luego divide. -->
-- [ ] B) x - 3
+- [ ] C) x - 3
   <!-- feedback: Explica el error conceptual: resta los 3 bultos pero no divide entre los dos hijos. -->
-- [ ] C) x/2 + 3
+- [ ] D) x/2 + 3
   <!-- feedback: Explica el error conceptual: suma los bultos apartados en vez de restarlos antes de repartir. -->
-- [x] D) (x - 3)/2
+- [x] A) (x - 3)/2
   <!-- feedback: Explica por qué es correcta: primero se apartan los 3 bultos (x - 3) y el resto se divide entre 2. -->
 ### Explicacion Pedagogica
 El orden de las operaciones importa al traducir: primero se aparta (x − 3) y luego se reparte (÷ 2). Los paréntesis en (x − 3)/2 conservan ese orden correcto.
@@ -105,13 +105,13 @@ El orden de las operaciones importa al traducir: primero se aparta (x − 3) y l
 ### Enunciado
 ¿Cuánto vale el pasaje si x = 5?
 ### Opciones
-- [x] A) 17 (miles de COP)
+- [x] D) 17 (miles de COP)
   <!-- feedback: Explica por qué es correcta: 3 × 5 + 2 = 15 + 2 = 17. -->
-- [ ] B) 25 (miles de COP)
+- [ ] A) 25 (miles de COP)
   <!-- feedback: Explica el error conceptual: suma 3 + 2 y multiplica por 5, ignorando la jerarquía de operaciones. -->
-- [ ] C) 16 (miles de COP)
+- [ ] B) 16 (miles de COP)
   <!-- feedback: Explica el error conceptual: calcula 3 × 5 = 15 pero olvida sumar el 2 final. -->
-- [ ] D) 10 (miles de COP)
+- [ ] C) 10 (miles de COP)
   <!-- feedback: Explica el error conceptual: multiplica 3 × 2 y suma x, alterando el orden de la expresión. -->
 ### Explicacion Pedagogica
 Evaluar es reemplazar la variable y operar con jerarquía: primero la multiplicación (3 × 5 = 15) y luego la suma (15 + 2 = 17). La jerarquía de operaciones no cambia en álgebra.
@@ -143,9 +143,9 @@ Modelar con álgebra es expresar una regularidad: 4 lados iguales → perímetro
 ### Enunciado
 ¿Qué valor de n necesita el jugador?
 ### Opciones
-- [x] A) n = 4, porque 2 × 4 + 3 = 11
+- [x] B) n = 4, porque 2 × 4 + 3 = 11
   <!-- feedback: Explica por qué es correcta: al reemplazar n = 4 se obtiene 8 + 3 = 11, justo la meta. -->
-- [ ] B) n = 3, porque 2 × 3 + 3 = 11
+- [ ] A) n = 3, porque 2 × 3 + 3 = 11
   <!-- feedback: Explica el error conceptual: 2 × 3 + 3 = 9, no alcanza la meta de 11 puntos. -->
 - [ ] C) n = 5, porque 2 × 5 + 3 = 11
   <!-- feedback: Explica el error conceptual: 2 × 5 + 3 = 13, se pasa de la meta. -->
@@ -162,13 +162,13 @@ Hallar n es invertir la expresión: si 2n + 3 = 11, entonces 2n = 8 y n = 4. Ver
 ### Enunciado
 ¿Qué edad tiene Ana?
 ### Opciones
-- [x] A) 4 años, porque 3 × 4 - 2 = 10
+- [x] D) 4 años, porque 3 × 4 - 2 = 10
   <!-- feedback: Explica por qué es correcta: la ecuación 3e - 2 = 10 da 3e = 12 y e = 4, que verifica la igualdad. -->
-- [ ] B) 3 años, porque 3 × 3 - 2 = 10
+- [ ] A) 3 años, porque 3 × 3 - 2 = 10
   <!-- feedback: Explica el error conceptual: 3 × 3 - 2 = 7, no cumple la condición de 10 años. -->
-- [ ] C) 6 años, porque 3 × 6 - 2 = 10
+- [ ] B) 6 años, porque 3 × 6 - 2 = 10
   <!-- feedback: Explica el error conceptual: 3 × 6 - 2 = 16, supera el valor indicado. -->
-- [ ] D) 10 años, porque es el resultado
+- [ ] C) 10 años, porque es el resultado
   <!-- feedback: Explica el error conceptual: 10 es el resultado de la expresión, no la edad buscada. -->
 ### Explicacion Pedagogica
 Traducir el enunciado da 3e − 2 = 10; despejar: 3e = 12, e = 4. El ciclo completo (traducir → despejar → verificar) es el método algebraico para problemas verbales.
@@ -200,13 +200,13 @@ Evaluar con dos variables exige reemplazar cada una y respetar la jerarquía: 2(
 ### Enunciado
 ¿Cuál expresión modela la compra y cuánto paga en total?
 ### Opciones
-- [x] A) 3c + 4000, total 19.000 COP
+- [x] D) 3c + 4000, total 19.000 COP
   <!-- feedback: Explica por qué es correcta: 3 cuadernos (3c) más 2 × 2.000 = 4.000; con c = 5.000: 15.000 + 4.000 = 19.000. -->
-- [ ] B) 3c + 2000, total 17.000 COP
+- [ ] A) 3c + 2000, total 17.000 COP
   <!-- feedback: Explica el error conceptual: cuenta un solo lápiz en vez de los dos comprados. -->
-- [ ] C) 5c, total 25.000 COP
+- [ ] B) 5c, total 25.000 COP
   <!-- feedback: Explica el error conceptual: suma cantidades de artículos distintos como si tuvieran el mismo precio. -->
-- [ ] D) 3c × 4000, total 60.000.000 COP
+- [ ] C) 3c × 4000, total 60.000.000 COP
   <!-- feedback: Explica el error conceptual: multiplica los dos grupos en vez de sumarlos, obteniendo un valor absurdo. -->
 ### Explicacion Pedagogica
 Modelar combina términos con variable (3c) y constantes (4000): total = 3c + 4000. Evaluar con c = 5000 da 19.000 COP, cerrando el ciclo entre situación real, modelo y respuesta.

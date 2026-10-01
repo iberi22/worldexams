@@ -31,11 +31,11 @@ Este bundle de dominio explica las defensas del cuerpo y cómo las vacunas del p
 ### Opciones
 - [ ] A) El conjunto de huesos de Cartagena que sostiene las piernas de los estudiantes.
   <!-- feedback: Explica el error conceptual: los huesos sostienen el cuerpo, pero no son las defensas contra microbios. -->
-- [x] B) El conjunto de células, anticuerpos y órganos que defiende al cuerpo contra virus, bacterias y otros invasores.
+- [x] D) El conjunto de células, anticuerpos y órganos que defiende al cuerpo contra virus, bacterias y otros invasores.
   <!-- feedback: Explica por qué es correcta: define defensas, sus componentes y su función de proteger contra infecciones. -->
-- [ ] C) El tubo digestivo que convierte el patacón en energía durante el recreo.
+- [ ] B) El tubo digestivo que convierte el patacón en energía durante el recreo.
   <!-- feedback: Explica el error conceptual: esa es la función del sistema digestivo, no del sistema de defensa. -->
-- [ ] D) Un medicamento que se compra con pesos para quitar el dolor de cabeza.
+- [ ] C) Un medicamento que se compra con pesos para quitar el dolor de cabeza.
   <!-- feedback: Explica el error conceptual: un medicamento alivia síntomas, pero no es el sistema de defensa del cuerpo. -->
 ### Explicacion Pedagogica
 El sistema inmune incluye glóbulos blancos, anticuerpos, ganglios, bazo y otras barreras como la piel. Su trabajo es reconocer lo propio y atacar lo extraño: virus, bacterias y parásitos. Cuando funciona bien, elimina la infección y guarda memoria para responder más rápido la próxima vez.
@@ -48,9 +48,9 @@ El sistema inmune incluye glóbulos blancos, anticuerpos, ganglios, bazo y otras
 ### Enunciado
 ¿Qué es una vacuna y cómo protege?
 ### Opciones
-- [x] A) Una preparación que enseña a las defensas a reconocer un microbio para responder rápido si aparece el verdadero.
+- [x] B) Una preparación que enseña a las defensas a reconocer un microbio para responder rápido si aparece el verdadero.
   <!-- feedback: Explica por qué es correcta: describe entrenamiento inmune con memoria sin causar la enfermedad grave. -->
-- [ ] B) Un antibiótico fuerte que mata de una vez todos los virus de Sincelejo.
+- [ ] A) Un antibiótico fuerte que mata de una vez todos los virus de Sincelejo.
   <!-- feedback: Explica el error conceptual: los antibióticos actúan contra bacterias y no enseñan memoria inmune contra virus. -->
 - [ ] C) Un analgésico que quita la fiebre durante una hora en el colegio.
   <!-- feedback: Explica el error conceptual: bajar la fiebre no entrena a las defensas ni da protección duradera. -->
@@ -69,9 +69,9 @@ La vacuna presenta al sistema inmune una versión debilitada, inactivada o una p
 ### Opciones
 - [ ] A) Esperar a que el niño cumpla quince años para completar todo de una vez en Valledupar.
   <!-- feedback: Explica el error conceptual: retrasar deja al niño desprotegido justo en la edad de mayor riesgo. -->
-- [x] B) Acudir al puesto de salud para completar las dosis gratuitas según el esquema nacional.
+- [x] C) Acudir al puesto de salud para completar las dosis gratuitas según el esquema nacional.
   <!-- feedback: Explica por qué es correcta: el esquema colombiano es gratuito, ordenado por edades y protege a tiempo. -->
-- [ ] C) Comprar un jarabe para la tos con 20000 COP y reemplazar con eso las vacunas.
+- [ ] B) Comprar un jarabe para la tos con 20000 COP y reemplazar con eso las vacunas.
   <!-- feedback: Explica el error conceptual: el jarabe alivia síntomas, pero no crea defensas contra sarampión ni polio. -->
 - [ ] D) Romper el carné porque las marcas en el brazo ya prueban la protección total.
   <!-- feedback: Explica el error conceptual: el carné es el registro oficial y cada vacuna protege contra una enfermedad distinta. -->
@@ -86,9 +86,9 @@ Colombia tiene un esquema nacional gratuito que indica qué vacuna, cuántas dos
 ### Enunciado
 ¿Cómo se interpreta la fiebre leve después de la vacunación?
 ### Opciones
-- [ ] A) Es prueba de que la vacuna contagió la enfermedad grave y se debe esconder el caso en Tunja.
+- [ ] B) Es prueba de que la vacuna contagió la enfermedad grave y se debe esconder el caso en Tunja.
   <!-- feedback: Explica el error conceptual: las vacunas del esquema no causan la enfermedad que previenen. -->
-- [x] B) Es una señal común de que las defensas están respondiendo y suele pasar con reposo, líquidos y control médico.
+- [x] A) Es una señal común de que las defensas están respondiendo y suele pasar con reposo, líquidos y control médico.
   <!-- feedback: Explica por qué es correcta: reconoce reacción esperada leve y manejo adecuado con seguimiento. -->
 - [ ] C) Es una alergia grave segura y se debe aplicar hielo con sal directamente en la vena.
   <!-- feedback: Explica el error conceptual: una reacción leve no es una alergia grave y los remedios caseros en la vena son peligrosos. -->
@@ -105,9 +105,9 @@ Después de vacunarse, el sistema inmune se activa: puede haber dolor local, enr
 ### Enunciado
 ¿Por qué el lavado de manos ayuda al sistema inmune aunque no sea una vacuna?
 ### Opciones
-- [ ] A) Porque el jabón de Cúcuta vacuna directamente la sangre contra todos los virus.
+- [ ] B) Porque el jabón de Cúcuta vacuna directamente la sangre contra todos los virus.
   <!-- feedback: Explica el error conceptual: el jabón no entra a la sangre a vacunar, actúa fuera del cuerpo. -->
-- [x] B) Porque retira y destruye microbios de la piel y reduce la cantidad de invasores que las defensas deben enfrentar.
+- [x] A) Porque retira y destruye microbios de la piel y reduce la cantidad de invasores que las defensas deben enfrentar.
   <!-- feedback: Explica por qué es correcta: menos microbios que entran significa menos infecciones y menos trabajo inmune. -->
 - [ ] C) Porque lavarse las manos reemplaza por completo el esquema de vacunación escolar.
   <!-- feedback: Explica el error conceptual: la higiene ayuda, pero no crea la memoria específica que dan las vacunas. -->
@@ -124,9 +124,9 @@ Las manos llevan microbios a la boca, la nariz y los ojos. El jabón rompe la ca
 ### Enunciado
 ¿Qué diferencia existe entre la inmunidad innata y la inmunidad adaptativa?
 ### Opciones
-- [ ] A) No hay diferencia porque en Bucaramanga ambas curan con el mismo jugo de lulo.
+- [ ] B) No hay diferencia porque en Bucaramanga ambas curan con el mismo jugo de lulo.
   <!-- feedback: Explica el error conceptual: son dos líneas de defensa con velocidad y memoria distintas. -->
-- [x] B) La innata actúa de inmediato y de forma general, y la adaptativa tarda más pero crea memoria específica contra cada microbio.
+- [x] A) La innata actúa de inmediato y de forma general, y la adaptativa tarda más pero crea memoria específica contra cada microbio.
   <!-- feedback: Explica por qué es correcta: contrasta rapidez general con aprendizaje específico y recuerdo duradero. -->
 - [ ] C) La adaptativa es instantánea y la innata guarda memoria para toda la vida.
   <!-- feedback: Explica el error conceptual: invierte los papeles, pues la memoria duradera es propia de la adaptativa. -->
@@ -145,9 +145,9 @@ La inmunidad innata incluye piel, fiebre, inflamación y células que atacan rá
 ### Opciones
 - [ ] A) Que el sarampión de Quibdó solo ataca a quienes toman agua de lluvia y perdona a los demás.
   <!-- feedback: Explica el error conceptual: el sarampión se transmite por el aire al toser, no por el agua de lluvia. -->
-- [x] B) Que los vacunados tenían defensas con memoria que bloquearon al virus, y los no vacunados no tenían esa protección.
+- [x] C) Que los vacunados tenían defensas con memoria que bloquearon al virus, y los no vacunados no tenían esa protección.
   <!-- feedback: Explica por qué es correcta: la memoria inmune explica la diferencia entre protegidos y enfermos. -->
-- [ ] C) Que las vacunas causaron el brote en los niños que nunca fueron vacunados.
+- [ ] B) Que las vacunas causaron el brote en los niños que nunca fueron vacunados.
   <!-- feedback: Explica el error conceptual: los no vacunados enfermaron por falta de protección, no por culpa de los vacunados. -->
 - [ ] D) Que el brote se debe al calor del Chocó y se cura evitando el plátano durante una semana.
   <!-- feedback: Explica el error conceptual: el calor no crea el virus y la dieta sola no elimina una infección contagiosa. -->
@@ -164,9 +164,9 @@ El sarampión es muy contagioso y viaja por gotas en el aire. Quien tiene la vac
 ### Opciones
 - [ ] A) Porque el antibiótico de Armenia está vencido y la vacuna mata bacterias en el estómago.
   <!-- feedback: Explica el error conceptual: el problema no es el vencimiento, sino que bacterias y virus son distintos. -->
-- [x] B) Porque el antibiótico ataca bacterias y la gripa es viral, mientras la vacuna entrena defensas contra virus específicos.
+- [x] C) Porque el antibiótico ataca bacterias y la gripa es viral, mientras la vacuna entrena defensas contra virus específicos.
   <!-- feedback: Explica por qué es correcta: distingue el blanco del antibiótico y la función preventiva de la vacuna. -->
-- [ ] C) Porque los virus son más grandes que las bacterias y se matan tomando doble dosis de antibiótico.
+- [ ] B) Porque los virus son más grandes que las bacterias y se matan tomando doble dosis de antibiótico.
   <!-- feedback: Explica el error conceptual: los virus son mucho más pequeños y el exceso de antibiótico no los elimina y crea resistencia. -->
 - [ ] D) Porque la gripa se cura solo con antibiótico y las vacunas solo sirven para el dolor muscular.
   <!-- feedback: Explica el error conceptual: usar antibiótico para virus es inútil y las vacunas previenen infecciones, no solo dolores. -->
@@ -183,11 +183,11 @@ Los antibióticos dañan estructuras propias de las bacterias, como su pared. Lo
 ### Opciones
 - [ ] A) Es verdadero porque en Pereira todos los vacunados terminan hospitalizados por la vacuna.
   <!-- feedback: Explica el error conceptual: los datos de salud muestran que las vacunas evitan hospitalizaciones, no las causan. -->
-- [x] B) Es falso porque las vacunas entrenan sin causar la enfermedad grave, mientras enfermarse implica riesgo de complicación y contagio.
+- [x] D) Es falso porque las vacunas entrenan sin causar la enfermedad grave, mientras enfermarse implica riesgo de complicación y contagio.
   <!-- feedback: Explica por qué es correcta: compara riesgo bajo del entrenamiento con riesgo alto de la infección real. -->
-- [ ] C) Es verdadero porque enfermarse siempre es leve y nunca deja secuelas en ningún niño.
+- [ ] B) Es verdadero porque enfermarse siempre es leve y nunca deja secuelas en ningún niño.
   <!-- feedback: Explica el error conceptual: enfermedades como polio, sarampión o tosferina pueden dejar parálisis, ceguera o muerte. -->
-- [ ] D) Es falso solo porque el mensaje tiene faltas de ortografía y viene de otra ciudad.
+- [ ] C) Es falso solo porque el mensaje tiene faltas de ortografía y viene de otra ciudad.
   <!-- feedback: Explica el error conceptual: la validez se juzga con evidencia científica, no con ortografía ni origen. -->
 ### Explicacion Pedagogica
 Para evaluar un mensaje de salud se revisa la evidencia: ensayos, vigilancia oficial y estadísticas. Las vacunas del esquema pasan pruebas de seguridad y usan microbios debilitados o partes que no provocan la enfermedad completa. Enfermarse de forma natural expone a fiebre alta, neumonía, daño cerebral o contagio a bebés. Por eso la vía segura para lograr defensas es la vacunación.

@@ -34,13 +34,13 @@ Realismo mágico, la renovación formal y autores emblemáticos del Boom.
 ¿Qué busca Cortázar al experimentar con el lenguaje en esta célebre escena de *Rayuela*?
 
 ### Opciones
-- [x] A) Desafiar el automatismo del idioma cotidiano para transmitir sensaciones eróticas y poéticas más profundas.
+- [x] D) Desafiar el automatismo del idioma cotidiano para transmitir sensaciones eróticas y poéticas más profundas.
   <!-- feedback: El glíglico destruye las convenciones del diccionario para reconstruir el sentido desde la sonoridad y la afectividad de los amantes. -->
-- [ ] B) Demostrar que ignoraba las reglas del idioma español por vivir en París.
+- [ ] A) Demostrar que ignoraba las reglas del idioma español por vivir en París.
   <!-- feedback: Cortázar conocía a fondo el idioma y lo transformaba de forma genial e intencional. -->
-- [ ] C) Obligar al lector a buscar las palabras en un diccionario de lenguas muertas.
+- [ ] B) Obligar al lector a buscar las palabras en un diccionario de lenguas muertas.
   <!-- feedback: El glíglico es un juego fonético y poético invención de Cortázar. -->
-- [ ] D) Proponer una reforma ortográfica obligatoria para los países del Cono Sur.
+- [ ] C) Proponer una reforma ortográfica obligatoria para los países del Cono Sur.
   <!-- feedback: Es un experimento estético en una obra de ficción, no una norma lingüística estatal. -->
 
 ### Explicacion Pedagogica
@@ -57,13 +57,13 @@ La experimentación verbal en *Rayuela* rompe con el discurso convencional para 
 ¿De qué manera esta escena condensa la esencia del realismo mágico en la narrativa de García Márquez?
 
 ### Opciones
-- [x] A) Naturaliza un hecho insólito y milagroso dentro del discurrir cotidiano y doméstico sin provocar asombro en los personajes.
+- [x] D) Naturaliza un hecho insólito y milagroso dentro del discurrir cotidiano y doméstico sin provocar asombro en los personajes.
   <!-- feedback: El realismo mágico trata lo prodigioso como parte de la realidad cotidiana y lo real como algo sobrecogedor. -->
-- [ ] B) Presenta una crítica científica sobre la gravedad y la resistencia del aire en la zona del Caribe.
+- [ ] A) Presenta una crítica científica sobre la gravedad y la resistencia del aire en la zona del Caribe.
   <!-- feedback: La escena opera en el plano estético y mítico, no bajo las leyes de la física. -->
-- [ ] C) Demuestra que Remedios la Bella era una aviadora profesional entrenada en Europa.
+- [ ] B) Demuestra que Remedios la Bella era una aviadora profesional entrenada en Europa.
   <!-- feedback: La narración apela a la pureza y la dimensión mítica, no a la aviación secular. -->
-- [ ] D) Advierte al lector sobre los peligros de lavar ropa en días de viento.
+- [ ] C) Advierte al lector sobre los peligros de lavar ropa en días de viento.
   <!-- feedback: Es un evento poético y maravilloso que trasciende la advertencia doméstica. -->
 
 ### Explicacion Pedagogica
@@ -172,13 +172,13 @@ Lo real maravilloso en Carpentier fundamenta la identidad americana en la prodig
 ¿Qué factor sociocultural contribuyó a la masificación internacional de los autores del Boom Latinoamericano?
 
 ### Opciones
-- [x] A) El crecimiento de la industria editorial, la profesionalización del escritor y el interés mundial en las transformaciones políticas de la región.
+- [x] D) El crecimiento de la industria editorial, la profesionalización del escritor y el interés mundial en las transformaciones políticas de la región.
   <!-- feedback: El Boom coincidió con la expansión de editoriales como Seix Barral y la fascinación global por la Revolución Cubana y la nueva novela. -->
-- [ ] B) El subsidio financiero otorgado por la Corona Española a todos los poetas jóvenes del continente.
+- [ ] A) El subsidio financiero otorgado por la Corona Española a todos los poetas jóvenes del continente.
   <!-- feedback: No existía tal subsidio real; fue un fenómeno de mercado, talento e industria editorial. -->
-- [ ] C) La prohibición de vender libros de autores norteamericanos en las librerías de América Latina.
+- [ ] B) La prohibición de vender libros de autores norteamericanos en las librerías de América Latina.
   <!-- feedback: Los autores del Boom leían y dialogaban con Faulkner, Hemingway y la literatura universal. -->
-- [ ] D) La invención de la primera red social de internet en la ciudad de Caracas.
+- [ ] C) La invención de la primera red social de internet en la ciudad de Caracas.
   <!-- feedback: Ocurrió en los años 1960-1970, décadas antes de la existencia de la red internet popular. -->
 
 ### Explicacion Pedagogica
@@ -195,13 +195,13 @@ El Boom fue tanto una revolución estética como un fenómeno de modernización 
 ¿De qué manera la estructura del colegio militar funciona como una metáfora de la sociedad peruana?
 
 ### Opciones
-- [x] A) Representa una microsociedad donde el machismo, el racismo y la violencia institucional reproducen las jerarquías del país.
+- [x] D) Representa una microsociedad donde el machismo, el racismo y la violencia institucional reproducen las jerarquías del país.
   <!-- feedback: El Leoncio Prado sintetiza los prejuicios de clase y la brutalidad con que se moldea a la juventud en un entorno hostil. -->
-- [ ] B) Demuestra los beneficios de la instrucción atlética en la salud física de los adolescentes.
+- [ ] A) Demuestra los beneficios de la instrucción atlética en la salud física de los adolescentes.
   <!-- feedback: La obra denuncia la crueldad y la deshumanización de la violencia estandarizada. -->
-- [ ] C) Presenta un modelo educativo idílico admirado por todas las instituciones del continente.
+- [ ] B) Presenta un modelo educativo idílico admirado por todas las instituciones del continente.
   <!-- feedback: La publicación de la novela provocó protestas de las autoridades militares que quemaron ejemplares. -->
-- [ ] D) Es una comedia musical sobre estudiantes de aviación en los Andes.
+- [ ] C) Es una comedia musical sobre estudiantes de aviación en los Andes.
   <!-- feedback: Se trata de un drama realista de profunda crudeza y protesta social. -->
 
 ### Explicacion Pedagogica
@@ -218,11 +218,11 @@ El microcosmos del internado militar desnuda los mecanismos de dominación y vio
 ¿Qué búsqueda filosófica emprende el protagonista a medida que remonta el río hacia el pasado de la civilización?
 
 ### Opciones
-- [x] A) El retorno a las orígenes del arte y la posibilidad de reencontrar un tiempo primordial no alienado por la modernidad.
+- [x] C) El retorno a las orígenes del arte y la posibilidad de reencontrar un tiempo primordial no alienado por la modernidad.
   <!-- feedback: El viaje hacia la selva es un descenso temporal donde el músico redescubre las raíces mágicas de la música y la existencia. -->
-- [ ] B) La recolección de muestras de caucho para venderlas en el mercado bancario de Nueva York.
+- [ ] A) La recolección de muestras de caucho para venderlas en el mercado bancario de Nueva York.
   <!-- feedback: El protagonista huye de la comercialización mercantil en busca de sentido artístico. -->
-- [ ] C) La verificación de los límites fronterizos entre Brasil y Venezuela mediante un GPS.
+- [ ] B) La verificación de los límites fronterizos entre Brasil y Venezuela mediante un GPS.
   <!-- feedback: Es una travesía poética y filosófica, no un peritaje topográfico tecnológico. -->
 - [ ] D) El intento de construir un rascacielos de cemento en medio de la tupida vegetación.
   <!-- feedback: El personaje busca alejarse de la arquitectura de hormigón de la metrópoli. -->
@@ -241,13 +241,13 @@ El viaje regresivo a la selva en Carpentier es una reflexión sobre la alienaci�
 ¿Cómo tensiona Borges el límite entre la realidad de la cama de un hospital y el sueño del destino épico en el sur?
 
 ### Opciones
-- [x] A) Superpone ambas posibilidades para que el lector dude de si el viaje al Sur fue un hecho real o una muerte soñada y anhelada.
+- [x] D) Superpone ambas posibilidades para que el lector dude de si el viaje al Sur fue un hecho real o una muerte soñada y anhelada.
   <!-- feedback: Borges utiliza la ambigüedad y el doble para reflexionar sobre la identidad, el azar y el deseo de una muerte noble. -->
-- [ ] B) Afirma categóricamente que Dahlmann era un cirujano experto en operaciones del cerebro.
+- [ ] A) Afirma categóricamente que Dahlmann era un cirujano experto en operaciones del cerebro.
   <!-- feedback: Dahlmann era un modesto bibliotecario llevado por la fiebre y las lecturas. -->
-- [ ] C) Demuestra que los trenes de la Pampa eran los más rápidos del siglo XIX.
+- [ ] B) Demuestra que los trenes de la Pampa eran los más rápidos del siglo XIX.
   <!-- feedback: El tren es un vehículo simbólico de tránsito hacia el mito y el origen. -->
-- [ ] D) Elimina todas las metáforas para redactar una noticia policial del diario *La Nación*.
+- [ ] C) Elimina todas las metáforas para redactar una noticia policial del diario *La Nación*.
   <!-- feedback: Borges construye un relato de altísima densidad simbólica y poética. -->
 
 ### Explicacion Pedagogica
@@ -264,11 +264,11 @@ La vacilación fantástica borgesiana sitúa el sentido en la encrucijada entre 
 ¿Qué aporta esta desmesura sintáctica a la representación del poder del dictador caribeño?
 
 ### Opciones
-- [x] A) Refleja la sofocante atmósfera de un régimen senil donde el tiempo y las voces de la tiranía se acumulan sin descanso.
+- [x] C) Refleja la sofocante atmósfera de un régimen senil donde el tiempo y las voces de la tiranía se acumulan sin descanso.
   <!-- feedback: La prosa fluida y monolítica materializa la eternidad opresiva de un dictador atemporal que ha gobernado durante siglos. -->
-- [ ] B) Demuestra que la máquina de escribir del autor tenía la tecla del punto rota.
+- [ ] A) Demuestra que la máquina de escribir del autor tenía la tecla del punto rota.
   <!-- feedback: Es un deslumbrante experimento de virtuosismo estilístico intencional. -->
-- [ ] C) Obliga a los estudiantes a memorizar la novela en una sola sesión de lectura.
+- [ ] B) Obliga a los estudiantes a memorizar la novela en una sola sesión de lectura.
   <!-- feedback: Es un recurso de intensificación estética para transmitir el agobio de la tiranía. -->
 - [ ] D) Indica que el libro es una recopilación de anuncios publicitarios de periódicos antiguos.
   <!-- feedback: La obra es una cúspide de la novela sobre el despotismo latinoamericano. -->
@@ -310,11 +310,11 @@ Manuel Puig desmonta la frontera entre alta cultura y arte de masas, usando el f
 ¿Cómo interpretan estos autores la soledad como una constante en la historia del continente?
 
 ### Opciones
-- [x] A) Como la incapacidad histórica de consolidar un proyecto común debido a la incomunicación, el egoísmo y la violencia recurrente.
+- [x] C) Como la incapacidad histórica de consolidar un proyecto común debido a la incomunicación, el egoísmo y la violencia recurrente.
   <!-- feedback: La soledad en el Boom es tanto un rasgo existencial del individuo como una condena colectiva ligada a nuestras trágicas fracturas. -->
-- [ ] B) Como el deseo voluntario de todos los ciudadanos de vivir sin vecinos ni electricidad.
+- [ ] A) Como el deseo voluntario de todos los ciudadanos de vivir sin vecinos ni electricidad.
   <!-- feedback: La soledad es una herida histórica e individual, no una preferencia turística. -->
-- [ ] C) Como una enfermedad contagiosa causada por el exceso de humedad en los trópicos.
+- [ ] B) Como una enfermedad contagiosa causada por el exceso de humedad en los trópicos.
   <!-- feedback: Se aborda como una dimensión simbólica, social y existencial. -->
 - [ ] D) Como un requisito indispensable exigido por los bancos para conceder préstamos.
   <!-- feedback: Carece de relación con trámites financieros. -->
@@ -333,11 +333,11 @@ La soledad en la narrativa del Boom encarna el aislamiento histórico, la desuni
 ¿Qué papel otorga esta propuesta al concepto de "lector hembra" vs. "lector cómplice"?
 
 ### Opciones
-- [x] A) Exige un "lector cómplice" que abandone la pasividad para co-crear el orden y sentido del texto junto con el autor.
+- [x] C) Exige un "lector cómplice" que abandone la pasividad para co-crear el orden y sentido del texto junto con el autor.
   <!-- feedback: Cortázar critica la lectura pasiva (que llama provocativamente "hembra") y propone un lector activo que asuma riesgos intelectuales. -->
-- [ ] B) Sugiere que solo las personas con estudios de matemáticas pueden entender el índice.
+- [ ] A) Sugiere que solo las personas con estudios de matemáticas pueden entender el índice.
   <!-- feedback: La propuesta busca la libertad de lectura y la reconfiguración del sentido ficcional. -->
-- [ ] C) Afirma que el libro impreso debe ser destruido después de leer el primer capítulo.
+- [ ] B) Afirma que el libro impreso debe ser destruido después de leer el primer capítulo.
   <!-- feedback: Invita a múltiples relecturas combinatorias del mismo texto. -->
 - [ ] D) Obliga al lector a comprar dos ejemplares del libro para leer ambos órdenes simultáneamente.
   <!-- feedback: El mismo volumen contiene todos los capítulos para la experiencia combinatoria. -->
@@ -356,9 +356,9 @@ La estructura de *Rayuela* emancipa al lector al invitarlo a asumir un papel act
 ¿Qué importancia tiene la voz femenina y la escritura doméstica en la resistencia contra la dictadura en esta novela?
 
 ### Opciones
-- [x] A) Preserva la memoria histórica colectiva y contrapone la sensibilidad y el cuidado frente al autoritarismo patriarcal.
+- [x] B) Preserva la memoria histórica colectiva y contrapone la sensibilidad y el cuidado frente al autoritarismo patriarcal.
   <!-- feedback: Los cuadernos de anotar la vida de Clara se convierten en el testimonio que permite superar el dolor y denunciar la violencia del régimen. -->
-- [ ] B) Demuestra que las mujeres aristocráticas no tenían interés en los asuntos del país.
+- [ ] A) Demuestra que las mujeres aristocráticas no tenían interés en los asuntos del país.
   <!-- feedback: La novela muestra su involucramiento profundo en las luchas sociales y la memoria. -->
 - [ ] C) Señala que los fantasmas de la casa eran los encargados de redactar las leyes de la República.
   <!-- feedback: Los elementos mágicos acompañan el desarrollo de una trama de denso contenido histórico. -->
@@ -379,13 +379,13 @@ La memoria escrita por las mujeres actúa como salvaguarda frente al olvido y re
 ¿Qué reflexión sobre la historia política colombiana encarna la figura del coronel Aureliano Buendía?
 
 ### Opciones
-- [x] A) El bucle estéril y absurdo de las guerras partidistas que desgastan la vida humana sin transformar las causas profundas.
+- [x] D) El bucle estéril y absurdo de las guerras partidistas que desgastan la vida humana sin transformar las causas profundas.
   <!-- feedback: Aureliano descubre al final que la guerra carece de orgullo y sólo ha dejado desolación y una fabricación vacía de pescaditos de oro. -->
-- [ ] B) La victoria gloriosa del progreso económico en las zonas rurales del Caribe.
+- [ ] A) La victoria gloriosa del progreso económico en las zonas rurales del Caribe.
   <!-- feedback: La trayectoria del coronel es el retrato de una derrota amarga e inacabable. -->
-- [ ] C) La necesidad de duplicar el número de guerras para alcanzar la paz definitiva.
+- [ ] B) La necesidad de duplicar el número de guerras para alcanzar la paz definitiva.
   <!-- feedback: La obra muestra la vacuidad y el horror de la violencia armada recurrente. -->
-- [ ] D) Un modelo militar copiado de los libros de estrategia militar de la antigua Roma.
+- [ ] C) Un modelo militar copiado de los libros de estrategia militar de la antigua Roma.
   <!-- feedback: Refleja la historia trágica de las contiendas bipartidistas colombianas del siglo XIX. -->
 
 ### Explicacion Pedagogica
@@ -402,9 +402,9 @@ La figura de Aureliano Buendía alegoriza la insensatez y el sinsentido destruct
 ¿Qué simboliza la "hojarasca" como metáfora del modelo de desarrollo extractivista en el enclave bananero?
 
 ### Opciones
-- [x] A) Los desperdicios humanos y materiales dejados por un progreso artificial y efímero que explota la tierra y luego abandona la región.
+- [x] B) Los desperdicios humanos y materiales dejados por un progreso artificial y efímero que explota la tierra y luego abandona la región.
   <!-- feedback: La hojarasca es el aluvión de aventureros y desperdicios que la compañía bananera trae y deja tras su partida desoladora. -->
-- [ ] B) Un abono natural recomendado por las autoridades agrícolas para proteger la flora local.
+- [ ] A) Un abono natural recomendado por las autoridades agrícolas para proteger la flora local.
   <!-- feedback: Simboliza la degradación social y el impacto destructivo del enclave extranjero. -->
 - [ ] C) Una fiesta popular donde los habitantes celebran la llegada del otoño en el trópico.
   <!-- feedback: Representa la invasión ruidosa y la posterior ruina de Macondo. -->
@@ -425,13 +425,13 @@ La metáfora de la hojarasca capta la voracidad del capital enclave y la posteri
 ¿Qué diferencia el tono desolado de Comala respecto a la vitalidad inicial de Macondo?
 
 ### Opciones
-- [x] A) Comala es un espacio cerrado y fúnebre desde el comienzo, mientras Macondo nace con la inocencia de un mundo recién creado.
+- [x] D) Comala es un espacio cerrado y fúnebre desde el comienzo, mientras Macondo nace con la inocencia de un mundo recién creado.
   <!-- feedback: Rulfo construye un paisaje de purgatorio insoportable, mientras García Márquez arranca con el asombro y el vigor del Génesis. -->
-- [ ] B) Macondo es un pueblo ubicado en la luna, mientras Comala está en medio del océano Pacífico.
+- [ ] A) Macondo es un pueblo ubicado en la luna, mientras Comala está en medio del océano Pacífico.
   <!-- feedback: Ambos son pueblos ficcionales arraigados en la geografía y memoria de México y Colombia. -->
-- [ ] C) En Comala los habitantes son inmortales y en Macondo todos mueren en el primer capítulo.
+- [ ] B) En Comala los habitantes son inmortales y en Macondo todos mueren en el primer capítulo.
   <!-- feedback: En Comala todos están muertos antes de empezar la historia; en Macondo asistimos al ciclo de generaciones. -->
-- [ ] D) No existe ninguna diferencia entre ambas obras por ser escritas por el mismo autor.
+- [ ] C) No existe ninguna diferencia entre ambas obras por ser escritas por el mismo autor.
   <!-- feedback: Juan Rulfo es mexicano y García Márquez colombiano, con poéticas distintas. -->
 
 ### Explicacion Pedagogica
@@ -448,9 +448,9 @@ Rulfo concibe a Comala desde la ruina trágica y la culpa fúnebre, mientras Mac
 ¿Qué significó para la literatura latinoamericana superar el antiguo realismo telúrico (de la selva o la pampa)?
 
 ### Opciones
-- [x] A) Dejar de considerar al paisaje como el único protagonista para centrarse en la complejidad del lenguaje y la psique urbana.
+- [x] B) Dejar de considerar al paisaje como el único protagonista para centrarse en la complejidad del lenguaje y la psique urbana.
   <!-- feedback: La narrativa pasó de la mera pintura costumbrista de la selva o el llano a la exploración estética de la ciudad y la palabra. -->
-- [ ] B) Prohibir las descripciones de la naturaleza en todas las obras de teatro y poesía.
+- [ ] A) Prohibir las descripciones de la naturaleza en todas las obras de teatro y poesía.
   <!-- feedback: La naturaleza continuó apareciendo pero mediada por recursos estilísticos renovados. -->
 - [ ] C) Obligar a los escritores a publicar únicamente en periódicos de los Estados Unidos.
   <!-- feedback: El objetivo fue alcanzar universalidad desde la propia identidad cultural. -->
@@ -471,13 +471,13 @@ La renovación del Boom descentró la primacía de la geografía física para el
 ¿Qué juicio crítico sobre la vigencia del Boom sustenta esta afirmación?
 
 ### Opciones
-- [x] A) El Boom logró que la literatura latinoamericana fuera leída de igual a igual en el canon occidental sin subordinación colonial.
+- [x] D) El Boom logró que la literatura latinoamericana fuera leída de igual a igual en el canon occidental sin subordinación colonial.
   <!-- feedback: Por primera vez, las letras hispanoamericanas influyeron decisivamente en escritores de Europa, Estados Unidos y Asia. -->
-- [ ] B) El Boom convenció a los países europeos de que en América Latina no existía la educación primaria.
+- [ ] A) El Boom convenció a los países europeos de que en América Latina no existía la educación primaria.
   <!-- feedback: El Boom demostró una altísima sofisticación técnica e intelectual en nuestras letras. -->
-- [ ] C) Demuestra que el realismo mágico es la única forma válida de escribir en todo el planeta.
+- [ ] B) Demuestra que el realismo mágico es la única forma válida de escribir en todo el planeta.
   <!-- feedback: Es un movimiento fundamental, pero coexiste con múltiples tradiciones literarias valiosas. -->
-- [ ] D) Obligó a las universidades extranjeras a cerrar sus facultades de literatura clásica.
+- [ ] C) Obligó a las universidades extranjeras a cerrar sus facultades de literatura clásica.
   <!-- feedback: Enriqueció los currículos académicos globales incorporando el canon latinoamericano. -->
 
 ### Explicacion Pedagogica

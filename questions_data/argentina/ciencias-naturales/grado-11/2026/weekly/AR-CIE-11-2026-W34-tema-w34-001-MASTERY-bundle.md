@@ -36,10 +36,10 @@ Este bundle aborda contenidos curriculares prioritarios de Genética Mendeliana,
 ¿Cuál de las siguientes definiciones describe correctamente el concepto de $Leyes de Mendel$ en el marco de Biología - Genética?
 
 ### Opciones
-- [x] A) Constituye un principio fundamental de Biología - Genética que explica el comportamiento del sistema según las leyes de la naturaleza. <!-- feedback: Correcto. La definición de $Leyes de Mendel$ corresponde con los principios teóricos de Biología - Genética. -->
-- [ ] B) Representa un fenómeno aislado sin relación con las leyes de conservación en Biología. <!-- feedback: Incorrecto. El concepto de $Leyes de Mendel$ está íntimamente ligado a las leyes de Biología. -->
-- [ ] C) Es una magnitud exclusivamente teórica que no se puede medir experimentalmente en el laboratorio. <!-- feedback: Incorrecto. Es una propiedad medible y verificable. -->
-- [ ] D) Corresponde únicamente a procesos ocurridos a altas temperaturas fuera del MKS. <!-- feedback: Incorrecto. Se aplica de forma general bajo condiciones estándar MKS. -->
+- [x] D) Constituye un principio fundamental de Biología - Genética que explica el comportamiento del sistema según las leyes de la naturaleza. <!-- feedback: Correcto. La definición de $Leyes de Mendel$ corresponde con los principios teóricos de Biología - Genética. -->
+- [ ] A) Representa un fenómeno aislado sin relación con las leyes de conservación en Biología. <!-- feedback: Incorrecto. El concepto de $Leyes de Mendel$ está íntimamente ligado a las leyes de Biología. -->
+- [ ] B) Es una magnitud exclusivamente teórica que no se puede medir experimentalmente en el laboratorio. <!-- feedback: Incorrecto. Es una propiedad medible y verificable. -->
+- [ ] C) Corresponde únicamente a procesos ocurridos a altas temperaturas fuera del MKS. <!-- feedback: Incorrecto. Se aplica de forma general bajo condiciones estándar MKS. -->
 
 ### Explicacion Pedagogica
 El estudio de Leyes de Mendel es clave para comprender los fundamentos teóricos y prácticos de Biología - Genética.
@@ -57,10 +57,10 @@ El estudio de Leyes de Mendel es clave para comprender los fundamentos teóricos
 ¿Cuál de las siguientes definiciones describe correctamente el concepto de $Genotipo y Fenotipo$ en el marco de Biología - Genética?
 
 ### Opciones
-- [x] A) Constituye un principio fundamental de Biología - Genética que explica el comportamiento del sistema según las leyes de la naturaleza. <!-- feedback: Correcto. La definición de $Genotipo y Fenotipo$ corresponde con los principios teóricos de Biología - Genética. -->
-- [ ] B) Representa un fenómeno aislado sin relación con las leyes de conservación en Biología. <!-- feedback: Incorrecto. El concepto de $Genotipo y Fenotipo$ está íntimamente ligado a las leyes de Biología. -->
-- [ ] C) Es una magnitud exclusivamente teórica que no se puede medir experimentalmente en el laboratorio. <!-- feedback: Incorrecto. Es una propiedad medible y verificable. -->
-- [ ] D) Corresponde únicamente a procesos ocurridos a altas temperaturas fuera del MKS. <!-- feedback: Incorrecto. Se aplica de forma general bajo condiciones estándar MKS. -->
+- [x] D) Constituye un principio fundamental de Biología - Genética que explica el comportamiento del sistema según las leyes de la naturaleza. <!-- feedback: Correcto. La definición de $Genotipo y Fenotipo$ corresponde con los principios teóricos de Biología - Genética. -->
+- [ ] A) Representa un fenómeno aislado sin relación con las leyes de conservación en Biología. <!-- feedback: Incorrecto. El concepto de $Genotipo y Fenotipo$ está íntimamente ligado a las leyes de Biología. -->
+- [ ] B) Es una magnitud exclusivamente teórica que no se puede medir experimentalmente en el laboratorio. <!-- feedback: Incorrecto. Es una propiedad medible y verificable. -->
+- [ ] C) Corresponde únicamente a procesos ocurridos a altas temperaturas fuera del MKS. <!-- feedback: Incorrecto. Se aplica de forma general bajo condiciones estándar MKS. -->
 
 ### Explicacion Pedagogica
 El estudio de Genotipo y Fenotipo es clave para comprender los fundamentos teóricos y prácticos de Biología - Genética.
@@ -78,8 +78,8 @@ El estudio de Genotipo y Fenotipo es clave para comprender los fundamentos teór
 En una experiencia de laboratorio en Buenos Aires, un estudiante analiza el fenómeno de $Cuadro de Punnett$. ¿Qué comportamiento se espera observar?
 
 ### Opciones
-- [x] A) El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Cuadro de Punnett$. <!-- feedback: Correcto. La respuesta del sistema refleja la ley física/química de $Cuadro de Punnett$. -->
-- [ ] B) El sistema permanece completamente inerte sin registrar variación alguna. <!-- feedback: Incorrecto. Las variables se modifican según las ecuaciones del modelo. -->
+- [x] B) El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Cuadro de Punnett$. <!-- feedback: Correcto. La respuesta del sistema refleja la ley física/química de $Cuadro de Punnett$. -->
+- [ ] A) El sistema permanece completamente inerte sin registrar variación alguna. <!-- feedback: Incorrecto. Las variables se modifican según las ecuaciones del modelo. -->
 - [ ] C) Se produce una pérdida total de masa violando las leyes de conservación. <!-- feedback: Incorrecto. Las leyes de conservación se cumplen siempre. -->
 - [ ] D) La magnitud medida oscila aleatoriamente sin patrón definido. <!-- feedback: Incorrecto. El fenómeno sigue un patrón determinista bien definido. -->
 
@@ -99,9 +99,9 @@ Las observaciones experimentales confirman las predicciones del modelo teórico 
 En una experiencia de laboratorio en Buenos Aires, un estudiante analiza el fenómeno de $Herencia Ligada al Sexo$. ¿Qué comportamiento se espera observar?
 
 ### Opciones
-- [x] A) El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Herencia Ligada al Sexo$. <!-- feedback: Correcto. La respuesta del sistema refleja la ley física/química de $Herencia Ligada al Sexo$. -->
-- [ ] B) El sistema permanece completamente inerte sin registrar variación alguna. <!-- feedback: Incorrecto. Las variables se modifican según las ecuaciones del modelo. -->
-- [ ] C) Se produce una pérdida total de masa violando las leyes de conservación. <!-- feedback: Incorrecto. Las leyes de conservación se cumplen siempre. -->
+- [x] C) El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Herencia Ligada al Sexo$. <!-- feedback: Correcto. La respuesta del sistema refleja la ley física/química de $Herencia Ligada al Sexo$. -->
+- [ ] A) El sistema permanece completamente inerte sin registrar variación alguna. <!-- feedback: Incorrecto. Las variables se modifican según las ecuaciones del modelo. -->
+- [ ] B) Se produce una pérdida total de masa violando las leyes de conservación. <!-- feedback: Incorrecto. Las leyes de conservación se cumplen siempre. -->
 - [ ] D) La magnitud medida oscila aleatoriamente sin patrón definido. <!-- feedback: Incorrecto. El fenómeno sigue un patrón determinista bien definido. -->
 
 ### Explicacion Pedagogica
@@ -141,10 +141,10 @@ La aplicación cuantitativa de Mutaciones Genéticas requiere el uso riguroso de
 Un equipo de investigación en Córdoba aplica el concepto de $Leyes de Mendel$ para resolver un problema práctico de Biología - Genética. ¿Cuál es la relación matemática o lógica correcta?
 
 ### Opciones
-- [x] A) Se aplica la ecuación correspondiente a $Leyes de Mendel$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Biología. <!-- feedback: Correcto. Refleja la formulación correcta para $Leyes de Mendel$. -->
-- [ ] B) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
-- [ ] C) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
-- [ ] D) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
+- [x] D) Se aplica la ecuación correspondiente a $Leyes de Mendel$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Biología. <!-- feedback: Correcto. Refleja la formulación correcta para $Leyes de Mendel$. -->
+- [ ] A) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
+- [ ] B) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
+- [ ] C) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
 
 ### Explicacion Pedagogica
 La aplicación cuantitativa de Leyes de Mendel requiere el uso riguroso de las ecuaciones de Biología - Genética.
@@ -162,8 +162,8 @@ La aplicación cuantitativa de Leyes de Mendel requiere el uso riguroso de las e
 Un equipo de investigación en Córdoba aplica el concepto de $Genotipo y Fenotipo$ para resolver un problema práctico de Biología - Genética. ¿Cuál es la relación matemática o lógica correcta?
 
 ### Opciones
-- [x] A) Se aplica la ecuación correspondiente a $Genotipo y Fenotipo$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Biología. <!-- feedback: Correcto. Refleja la formulación correcta para $Genotipo y Fenotipo$. -->
-- [ ] B) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
+- [x] B) Se aplica la ecuación correspondiente a $Genotipo y Fenotipo$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Biología. <!-- feedback: Correcto. Refleja la formulación correcta para $Genotipo y Fenotipo$. -->
+- [ ] A) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
 - [ ] C) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
 - [ ] D) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
 
@@ -183,9 +183,9 @@ La aplicación cuantitativa de Genotipo y Fenotipo requiere el uso riguroso de l
 Un equipo de investigación en Córdoba aplica el concepto de $Cuadro de Punnett$ para resolver un problema práctico de Biología - Genética. ¿Cuál es la relación matemática o lógica correcta?
 
 ### Opciones
-- [x] A) Se aplica la ecuación correspondiente a $Cuadro de Punnett$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Biología. <!-- feedback: Correcto. Refleja la formulación correcta para $Cuadro de Punnett$. -->
-- [ ] B) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
-- [ ] C) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
+- [x] C) Se aplica la ecuación correspondiente a $Cuadro de Punnett$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Biología. <!-- feedback: Correcto. Refleja la formulación correcta para $Cuadro de Punnett$. -->
+- [ ] A) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
+- [ ] B) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
 - [ ] D) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
 
 ### Explicacion Pedagogica
@@ -225,10 +225,10 @@ La aplicación cuantitativa de Herencia Ligada al Sexo requiere el uso riguroso 
 Un equipo de investigación en Córdoba aplica el concepto de $Mutaciones Genéticas$ para resolver un problema práctico de Biología - Genética. ¿Cuál es la relación matemática o lógica correcta?
 
 ### Opciones
-- [x] A) Se aplica la ecuación correspondiente a $Mutaciones Genéticas$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Biología. <!-- feedback: Correcto. Refleja la formulación correcta para $Mutaciones Genéticas$. -->
-- [ ] B) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
-- [ ] C) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
-- [ ] D) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
+- [x] D) Se aplica la ecuación correspondiente a $Mutaciones Genéticas$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Biología. <!-- feedback: Correcto. Refleja la formulación correcta para $Mutaciones Genéticas$. -->
+- [ ] A) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
+- [ ] B) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
+- [ ] C) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
 
 ### Explicacion Pedagogica
 La aplicación cuantitativa de Mutaciones Genéticas requiere el uso riguroso de las ecuaciones de Biología - Genética.
@@ -246,9 +246,9 @@ La aplicación cuantitativa de Mutaciones Genéticas requiere el uso riguroso de
 Al analizar detalladamente las variables que intervienen en $Leyes de Mendel$ dentro de Biología - Genética, se observa una variación en el estado inicial. ¿Cuál es la deducción analítica correcta?
 
 ### Opciones
-- [x] A) El cambio en las variables modifica el estado final según las restricciones impuestas por $Leyes de Mendel$ y las leyes de Biología. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
-- [ ] B) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
-- [ ] C) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
+- [x] C) El cambio en las variables modifica el estado final según las restricciones impuestas por $Leyes de Mendel$ y las leyes de Biología. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
+- [ ] A) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
+- [ ] B) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
 - [ ] D) La energía o materia total aumenta exponencialmente sin fuente externa. <!-- feedback: Incorrecto. No se puede crear masa ni energía de la nada. -->
 
 ### Explicacion Pedagogica
@@ -309,9 +309,9 @@ El análisis analítico de Cuadro de Punnett demuestra la coherencia interna de 
 Al analizar detalladamente las variables que intervienen en $Herencia Ligada al Sexo$ dentro de Biología - Genética, se observa una variación en el estado inicial. ¿Cuál es la deducción analítica correcta?
 
 ### Opciones
-- [x] A) El cambio en las variables modifica el estado final según las restricciones impuestas por $Herencia Ligada al Sexo$ y las leyes de Biología. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
-- [ ] B) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
-- [ ] C) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
+- [x] C) El cambio en las variables modifica el estado final según las restricciones impuestas por $Herencia Ligada al Sexo$ y las leyes de Biología. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
+- [ ] A) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
+- [ ] B) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
 - [ ] D) La energía o materia total aumenta exponencialmente sin fuente externa. <!-- feedback: Incorrecto. No se puede crear masa ni energía de la nada. -->
 
 ### Explicacion Pedagogica
@@ -330,8 +330,8 @@ El análisis analítico de Herencia Ligada al Sexo demuestra la coherencia inter
 Al analizar detalladamente las variables que intervienen en $Mutaciones Genéticas$ dentro de Biología - Genética, se observa una variación en el estado inicial. ¿Cuál es la deducción analítica correcta?
 
 ### Opciones
-- [x] A) El cambio en las variables modifica el estado final según las restricciones impuestas por $Mutaciones Genéticas$ y las leyes de Biología. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
-- [ ] B) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
+- [x] B) El cambio en las variables modifica el estado final según las restricciones impuestas por $Mutaciones Genéticas$ y las leyes de Biología. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
+- [ ] A) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
 - [ ] C) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
 - [ ] D) La energía o materia total aumenta exponencialmente sin fuente externa. <!-- feedback: Incorrecto. No se puede crear masa ni energía de la nada. -->
 
@@ -372,10 +372,10 @@ El análisis analítico de Leyes de Mendel demuestra la coherencia interna de lo
 Se propone un modelo avanzado para evaluar la eficiencia de un proceso basado en $Genotipo y Fenotipo$ en Biología - Genética. Evaluá cuál de las siguientes afirmaciones juzga correctamente la validez del modelo.
 
 ### Opciones
-- [x] A) El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Genotipo y Fenotipo$. <!-- feedback: Correcto. La evaluación fundamentada confirma la solidez del modelo para $Genotipo y Fenotipo$. -->
-- [ ] B) El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa. <!-- feedback: Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia. -->
-- [ ] C) El modelo sólo funciona si se desestiman las unidades del Sistema Internacional. <!-- feedback: Incorrecto. Debe operar de forma consistente en el Sistema Internacional. -->
-- [ ] D) El modelo presenta inconsistencias graves al asumir que el rendimiento puede superar el 100%. <!-- feedback: Incorrecto. El modelo respeta el límite físico del 100% de eficiencia. -->
+- [x] D) El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Genotipo y Fenotipo$. <!-- feedback: Correcto. La evaluación fundamentada confirma la solidez del modelo para $Genotipo y Fenotipo$. -->
+- [ ] A) El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa. <!-- feedback: Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia. -->
+- [ ] B) El modelo sólo funciona si se desestiman las unidades del Sistema Internacional. <!-- feedback: Incorrecto. Debe operar de forma consistente en el Sistema Internacional. -->
+- [ ] C) El modelo presenta inconsistencias graves al asumir que el rendimiento puede superar el 100%. <!-- feedback: Incorrecto. El modelo respeta el límite físico del 100% de eficiencia. -->
 
 ### Explicacion Pedagogica
 La evaluación crítica de modelos en Biología - Genética exige verificar el cumplimiento de los límites teóricos de Genotipo y Fenotipo.
@@ -435,9 +435,9 @@ La evaluación crítica de modelos en Biología - Genética exige verificar el c
 Se propone un modelo avanzado para evaluar la eficiencia de un proceso basado en $Mutaciones Genéticas$ en Biología - Genética. Evaluá cuál de las siguientes afirmaciones juzga correctamente la validez del modelo.
 
 ### Opciones
-- [x] A) El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Mutaciones Genéticas$. <!-- feedback: Correcto. La evaluación fundamentada confirma la solidez del modelo para $Mutaciones Genéticas$. -->
-- [ ] B) El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa. <!-- feedback: Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia. -->
-- [ ] C) El modelo sólo funciona si se desestiman las unidades del Sistema Internacional. <!-- feedback: Incorrecto. Debe operar de forma consistente en el Sistema Internacional. -->
+- [x] C) El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Mutaciones Genéticas$. <!-- feedback: Correcto. La evaluación fundamentada confirma la solidez del modelo para $Mutaciones Genéticas$. -->
+- [ ] A) El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa. <!-- feedback: Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia. -->
+- [ ] B) El modelo sólo funciona si se desestiman las unidades del Sistema Internacional. <!-- feedback: Incorrecto. Debe operar de forma consistente en el Sistema Internacional. -->
 - [ ] D) El modelo presenta inconsistencias graves al asumir que el rendimiento puede superar el 100%. <!-- feedback: Incorrecto. El modelo respeta el límite físico del 100% de eficiencia. -->
 
 ### Explicacion Pedagogica

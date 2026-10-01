@@ -56,9 +56,9 @@ National parks were created to preserve wilderness areas for future generations.
 
 ### Opciones
 - [ ] A) create <!-- feedback: Incorrect. Active voice. -->
-- [x] B) were created <!-- feedback: Correct. Past simple passive for a completed historical action. -->
-- [ ] C) have created <!-- feedback: Incorrect. Active voice. -->
-- [ ] D) are created <!-- feedback: Incorrect. Present tense. -->
+- [x] D) were created <!-- feedback: Correct. Past simple passive for a completed historical action. -->
+- [ ] B) have created <!-- feedback: Incorrect. Active voice. -->
+- [ ] C) are created <!-- feedback: Incorrect. Present tense. -->
 
 ### Explicacion Pedagogica
 The past simple passive 'were created' describes the founding of national parks in the past.
@@ -75,8 +75,8 @@ The past simple passive 'were created' describes the founding of national parks 
 If we valued nature more for its own sake, we would protect it more effectively.
 
 ### Opciones
-- [ ] A) value <!-- feedback: Incorrect. First conditional. -->
-- [x] B) valued <!-- feedback: Correct. Second conditional for a hypothetical present attitude. -->
+- [ ] B) value <!-- feedback: Incorrect. First conditional. -->
+- [x] A) valued <!-- feedback: Correct. Second conditional for a hypothetical present attitude. -->
 - [ ] C) had valued <!-- feedback: Incorrect. Third conditional. -->
 - [ ] D) would value <!-- feedback: Incorrect. 'Would' not in 'if' clause. -->
 
@@ -95,8 +95,8 @@ The second conditional 'if + past simple' describes how a hypothetical shift in 
 Intergenerational justice involves the ethical obligation to leave a healthy planet for those who will be born in the future.
 
 ### Opciones
-- [x] A) obligation <!-- feedback: Correct. An obligation is a duty or commitment. -->
-- [ ] B) choice <!-- feedback: Incorrect. Ethics often frames this as a duty, not just a casual choice. -->
+- [x] B) obligation <!-- feedback: Correct. An obligation is a duty or commitment. -->
+- [ ] A) choice <!-- feedback: Incorrect. Ethics often frames this as a duty, not just a casual choice. -->
 - [ ] C) refusal <!-- feedback: Incorrect. Negative. -->
 - [ ] D) accident <!-- feedback: Incorrect. It should be an intentional effort. -->
 
@@ -135,8 +135,8 @@ Environmentalists argue that nature has intrinsic value, meaning it is valuable 
 Sustainability means meeting our own needs without compromising the ability of future generations to meet theirs.
 
 ### Opciones
-- [ ] A) destroying <!-- feedback: Incorrect. Comprises sustainability. -->
-- [x] B) compromising <!-- feedback: Correct. To compromise here means to weaken or damage. -->
+- [ ] B) destroying <!-- feedback: Incorrect. Comprises sustainability. -->
+- [x] A) compromising <!-- feedback: Correct. To compromise here means to weaken or damage. -->
 - [ ] C) increasing <!-- feedback: Incorrect. Doesn't fit the standard definition. -->
 - [ ] D) ignoring <!-- feedback: Incorrect. Sustainability requires attention to future needs. -->
 
@@ -176,8 +176,8 @@ Environmental stewardship is the responsible use and protection of the natural e
 
 ### Opciones
 - [ ] A) Ownership <!-- feedback: Incorrect. Stewardship is about care, not just possessing. -->
-- [x] B) Stewardship <!-- feedback: Correct. The term for responsible management of nature. -->
-- [ ] C) Exploitation <!-- feedback: Incorrect. The opposite of stewardship. -->
+- [x] C) Stewardship <!-- feedback: Correct. The term for responsible management of nature. -->
+- [ ] B) Exploitation <!-- feedback: Incorrect. The opposite of stewardship. -->
 - [ ] D) Neglect <!-- feedback: Incorrect. The opposite of stewardship. -->
 
 ### Explicacion Pedagogica
@@ -195,9 +195,9 @@ Environmental stewardship is the responsible use and protection of the natural e
 By the 1970s, the modern environmental movement had gained significant momentum.
 
 ### Opciones
-- [ ] A) gains <!-- feedback: Incorrect. Present tense. -->
-- [ ] B) has gained <!-- feedback: Incorrect. Present perfect. -->
-- [x] C) had gained <!-- feedback: Correct. Past perfect for a state completed by a past point. -->
+- [ ] B) gains <!-- feedback: Incorrect. Present tense. -->
+- [ ] C) has gained <!-- feedback: Incorrect. Present perfect. -->
+- [x] A) had gained <!-- feedback: Correct. Past perfect for a state completed by a past point. -->
 - [ ] D) was gaining <!-- feedback: Incorrect. Focus is on the completed state of having momentum. -->
 
 ### Explicacion Pedagogica
@@ -215,8 +215,8 @@ The past perfect 'had gained' indicates that the movement's growth occurred befo
 Speciesism is the assumption of human superiority leading to the exploitation of animals.
 
 ### Opciones
-- [ ] A) equality <!-- feedback: Incorrect. Speciesism is based on inequality. -->
-- [x] B) superiority <!-- feedback: Correct. Superiority is the state of being higher in rank or quality. -->
+- [ ] B) equality <!-- feedback: Incorrect. Speciesism is based on inequality. -->
+- [x] A) superiority <!-- feedback: Correct. Superiority is the state of being higher in rank or quality. -->
 - [ ] C) indifference <!-- feedback: Incorrect. It's an active assumption of being 'better'. -->
 - [ ] D) kindness <!-- feedback: Incorrect. Speciesism leads to exploitation, not kindness. -->
 
@@ -236,8 +236,8 @@ Ecology is the branch of biology that deals with the relations of organisms to o
 
 ### Opciones
 - [ ] A) Physics <!-- feedback: Incorrect. -->
-- [x] B) Ecology <!-- feedback: Correct. Scientific study of ecosystems. -->
-- [ ] C) Anatomy <!-- feedback: Incorrect. Study of body structure. -->
+- [x] C) Ecology <!-- feedback: Correct. Scientific study of ecosystems. -->
+- [ ] B) Anatomy <!-- feedback: Incorrect. Study of body structure. -->
 - [ ] D) Chemistry <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
@@ -256,8 +256,8 @@ In the future, it is hoped that "ecocide" will have been recognized as an intern
 
 ### Opciones
 - [ ] A) will recognize <!-- feedback: Incorrect. Active voice. -->
-- [x] B) will have been recognized <!-- feedback: Correct. Future perfect passive for a completed state in the future. -->
-- [ ] C) recognized <!-- feedback: Incorrect. Past simple. -->
+- [x] C) will have been recognized <!-- feedback: Correct. Future perfect passive for a completed state in the future. -->
+- [ ] B) recognized <!-- feedback: Incorrect. Past simple. -->
 - [ ] D) recognizing <!-- feedback: Incorrect. Gerund. -->
 
 ### Explicacion Pedagogica
@@ -275,9 +275,9 @@ The future perfect passive describes a legal milestone that is desired to be a f
 Biodiversity is crucial for ecosystem resilience, as it allows systems to recover from disturbances.
 
 ### Opciones
-- [x] A) resilience <!-- feedback: Correct. Resilience is the ability to recover from difficulties. -->
-- [ ] B) fragility <!-- feedback: Incorrect. Biodiversity reduces fragility. -->
-- [ ] C) stagnation <!-- feedback: Incorrect. Nature is dynamic. -->
+- [x] C) resilience <!-- feedback: Correct. Resilience is the ability to recover from difficulties. -->
+- [ ] A) fragility <!-- feedback: Incorrect. Biodiversity reduces fragility. -->
+- [ ] B) stagnation <!-- feedback: Incorrect. Nature is dynamic. -->
 - [ ] D) isolation <!-- feedback: Incorrect. Systems are interconnected. -->
 
 ### Explicacion Pedagogica
@@ -295,8 +295,8 @@ Biodiversity is crucial for ecosystem resilience, as it allows systems to recove
 If we didn't produce so much single-use plastic, our oceans would be much cleaner.
 
 ### Opciones
-- [ ] A) don't produce <!-- feedback: Incorrect. First conditional. -->
-- [x] B) didn't produce <!-- feedback: Correct. Second conditional for a hypothetical change. -->
+- [ ] B) don't produce <!-- feedback: Incorrect. First conditional. -->
+- [x] A) didn't produce <!-- feedback: Correct. Second conditional for a hypothetical change. -->
 - [ ] C) hadn't produced <!-- feedback: Incorrect. Third conditional. -->
 - [ ] D) wouldn't produce <!-- feedback: Incorrect. 'Would' not in 'if' clause. -->
 
@@ -316,9 +316,9 @@ The author concludes that environmental justice requires that no group of people
 
 ### Opciones
 - [ ] A) equal <!-- feedback: Incorrect. If it were equal, there would be no 'disproportionate' share. -->
-- [x] B) disproportionate <!-- feedback: Correct. Disproportionate means too large or too small in comparison with something else. -->
-- [ ] C) minimal <!-- feedback: Incorrect. The goal is for everyone to have minimal, not for one group to bear it all. -->
-- [ ] D) invisible <!-- feedback: Incorrect. Consequences are often very visible. -->
+- [x] D) disproportionate <!-- feedback: Correct. Disproportionate means too large or too small in comparison with something else. -->
+- [ ] B) minimal <!-- feedback: Incorrect. The goal is for everyone to have minimal, not for one group to bear it all. -->
+- [ ] C) invisible <!-- feedback: Incorrect. Consequences are often very visible. -->
 
 ### Explicacion Pedagogica
 'Disproportionate' is the key term for describing the unfair burden placed on certain communities in environmental ethics.
@@ -335,8 +335,8 @@ The author concludes that environmental justice requires that no group of people
 A carbon sink is a forest, ocean, or other natural environment viewed in terms of its ability to absorb carbon dioxide from the atmosphere.
 
 ### Opciones
-- [ ] A) source <!-- feedback: Incorrect. A source releases carbon. -->
-- [x] B) sink <!-- feedback: Correct. A sink absorbs/stores carbon. -->
+- [ ] B) source <!-- feedback: Incorrect. A source releases carbon. -->
+- [x] A) sink <!-- feedback: Correct. A sink absorbs/stores carbon. -->
 - [ ] C) waste <!-- feedback: Incorrect. -->
 - [ ] D) filter <!-- feedback: Incorrect. While it acts like a filter, 'sink' is the technical term. -->
 
@@ -356,8 +356,8 @@ Scientists warned that the loss of biodiversity would have irreversible effects 
 
 ### Opciones
 - [ ] A) will have <!-- feedback: Incorrect. Backshifted in reported speech. -->
-- [x] B) would have <!-- feedback: Correct. Backshifted from 'will have' to 'would have'. -->
-- [ ] C) has had <!-- feedback: Incorrect. Present perfect. -->
+- [x] C) would have <!-- feedback: Correct. Backshifted from 'will have' to 'would have'. -->
+- [ ] B) has had <!-- feedback: Incorrect. Present perfect. -->
 - [ ] D) have <!-- feedback: Incorrect. Present tense. -->
 
 ### Explicacion Pedagogica
@@ -415,8 +415,8 @@ The past perfect 'had been' establishes the long-term cleanliness of the river p
 Ultimately, we must move towards a more biocentric worldview that respects the rights of all living things.
 
 ### Opciones
-- [x] A) biocentric <!-- feedback: Correct. Values all living things. -->
-- [ ] B) egoistic <!-- feedback: Incorrect. Values only oneself. -->
+- [x] B) biocentric <!-- feedback: Correct. Values all living things. -->
+- [ ] A) egoistic <!-- feedback: Incorrect. Values only oneself. -->
 - [ ] C) commercial <!-- feedback: Incorrect. Values only profit. -->
 - [ ] D) narrow <!-- feedback: Incorrect. We need a broader view. -->
 

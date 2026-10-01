@@ -32,13 +32,13 @@ Este bundle contiene 12 preguntas sobre **funcion-lineal** para grado 9, alinead
 ### Enunciado
 ¿Cuál es la pendiente $m$ de la recta?
 ### Opciones
-- [x] A) $m = 2$
+- [x] D) $m = 2$
   <!-- feedback: Correcto. $m = \frac{7 - 3}{3 - 1} = \frac{4}{2} = 2$. -->
-- [ ] B) $m = \frac{1}{2}$
+- [ ] A) $m = \frac{1}{2}$
   <!-- feedback: Incorrecto. Invertiste la fórmula (cambio en $x$ sobre cambio en $y$). -->
-- [ ] C) $m = 4$
+- [ ] B) $m = 4$
   <!-- feedback: Incorrecto. Olvidaste dividir entre el cambio en $x$ ($3 - 1$). -->
-- [ ] D) $m = -2$
+- [ ] C) $m = -2$
   <!-- feedback: Incorrecto. Invertiste el signo del numerador. -->
 ### Explicacion Pedagogica
 La pendiente es $m = \frac{y_2 - y_1}{x_2 - x_1} = \frac{7 - 3}{3 - 1} = \frac{4}{2} = 2$.
@@ -52,13 +52,13 @@ La pendiente es $m = \frac{y_2 - y_1}{x_2 - x_1} = \frac{7 - 3}{3 - 1} = \frac{4
 ### Enunciado
 ¿Qué representa el valor $5.000$ en el modelo de función lineal?
 ### Opciones
-- [x] A) El costo fijo inicial del servicio
+- [x] D) El costo fijo inicial del servicio
   <!-- feedback: Correcto. Es el intercepto con el eje $y$, correspondiente a $C(0)$. -->
-- [ ] B) El costo por kilómetro recorrido
+- [ ] A) El costo por kilómetro recorrido
   <!-- feedback: Incorrecto. El costo por kilómetro es la pendiente ($2.000$). -->
-- [ ] C) La distancia máxima en kilómetros
+- [ ] B) La distancia máxima en kilómetros
   <!-- feedback: Incorrecto. $5.000$ está expresado en pesos, no en kilómetros. -->
-- [ ] D) El costo total de un viaje de 5 km
+- [ ] C) El costo total de un viaje de 5 km
   <!-- feedback: Incorrecto. Para $x=5$, el costo es $15.000$. -->
 ### Explicacion Pedagogica
 En la forma $y = mx + b$, el término independiente $b = 5.000$ representa el cargo fijo inicial.
@@ -72,13 +72,13 @@ En la forma $y = mx + b$, el término independiente $b = 5.000$ representa el ca
 ### Enunciado
 ¿Cuál es la ecuación explícita de la recta?
 ### Opciones
-- [x] A) $y = -3x + 10$
+- [x] D) $y = -3x + 10$
   <!-- feedback: Correcto. $y - 4 = -3(x - 2) \implies y - 4 = -3x + 6 \implies y = -3x + 10$. -->
-- [ ] B) $y = -3x + 4$
+- [ ] A) $y = -3x + 4$
   <!-- feedback: Incorrecto. Asumiste que $4$ era el intercepto con el eje $y$. -->
-- [ ] C) $y = -3x - 2$
+- [ ] B) $y = -3x - 2$
   <!-- feedback: Incorrecto. Error de signo al despejar el punto. -->
-- [ ] D) $y = 3x + 10$
+- [ ] C) $y = 3x + 10$
   <!-- feedback: Incorrecto. Invertiste el signo de la pendiente. -->
 ### Explicacion Pedagogica
 Usando punto-pendiente: $y - 4 = -3(x - 2) \implies y = -3x + 6 + 4 = -3x + 10$.
@@ -112,11 +112,11 @@ Paralelas $\implies m_1 = m_2 = 4$. Con $b = 3$, la recta es $y = 4x + 3$.
 ### Enunciado
 ¿Cuál es la solución del sistema para $(x, y)$?
 ### Opciones
-- [x] A) $(6, 4)$
+- [x] C) $(6, 4)$
   <!-- feedback: Correcto. Sumando ambas ecuaciones: $3x = 18 \implies x = 6$. Luego $6 + y = 10 \implies y = 4$. -->
-- [ ] B) $(7, 3)$
+- [ ] A) $(7, 3)$
   <!-- feedback: Incorrecto. $2(7) - 3 = 11 \neq 8$. -->
-- [ ] C) $(5, 5)$
+- [ ] B) $(5, 5)$
   <!-- feedback: Incorrecto. $2(5) - 5 = 5 \neq 8$. -->
 - [ ] D) $(8, 2)$
   <!-- feedback: Incorrecto. $8+2=10$ pero $2(8)-2 = 14 \neq 8$. -->
@@ -132,11 +132,11 @@ Sumando miembro a miembro: $3x = 18 \implies x = 6$. Reemplazando: $y = 10 - 6 =
 ### Enunciado
 ¿Cuál es el valor de $m_2$?
 ### Opciones
-- [x] A) $m_2 = \frac{1}{2}$
+- [x] C) $m_2 = \frac{1}{2}$
   <!-- feedback: Correcto. Perpendiculares cumplen $m_1 \cdot m_2 = -1 \implies m_2 = -1 / (-2) = 1/2$. -->
-- [ ] B) $m_2 = 2$
+- [ ] A) $m_2 = 2$
   <!-- feedback: Incorrecto. Olvidaste invertir la fracción. -->
-- [ ] C) $m_2 = -\frac{1}{2}$
+- [ ] B) $m_2 = -\frac{1}{2}$
   <!-- feedback: Incorrecto. Olvidaste cambiar el signo. -->
 - [ ] D) $m_2 = -2$
   <!-- feedback: Incorrecto. Pendientes iguales corresponden a rectas paralelas. -->
@@ -172,9 +172,9 @@ Igualando tarifas: $3.000 + 1.500x = 1.000 + 2.000x \implies 500x = 2.000 \impli
 ### Enunciado
 ¿Cuál es el valor de $x$ e $y$?
 ### Opciones
-- [x] A) $x = 2, y = 3$
+- [x] B) $x = 2, y = 3$
   <!-- feedback: Correcto. Sumando: $8x = 16 \implies x = 2$. Luego $3(2) + 2y = 12 \implies 2y = 6 \implies y = 3$. -->
-- [ ] B) $x = 3, y = 2$
+- [ ] A) $x = 3, y = 2$
   <!-- feedback: Incorrecto. Invertiste los valores de $x$ e $y$. -->
 - [ ] C) $x = 4, y = 0$
   <!-- feedback: Incorrecto. $5(4) - 0 = 20 \neq 4$. -->
@@ -192,9 +192,9 @@ Eliminación directa de $y$: $8x = 16 \implies x = 2$. Reemplazando: $6 + 2y = 1
 ### Enunciado
 ¿Cuántas soluciones tiene el sistema de ecuaciones?
 ### Opciones
-- [x] A) Ninguna solución (inconsistente)
+- [x] B) Ninguna solución (inconsistente)
   <!-- feedback: Correcto. Las rectas paralelas jamás se intersectan, por lo que no existe punto común. -->
-- [ ] B) Infinitas soluciones
+- [ ] A) Infinitas soluciones
   <!-- feedback: Incorrecto. Infinitas soluciones ocurren cuando las rectas son coincidentes (misma recta). -->
 - [ ] C) Exactamente una solución
   <!-- feedback: Incorrecto. Ocurre cuando las pendientes son distintas y las rectas se cortan en un punto. -->
@@ -212,11 +212,11 @@ Si las rectas son paralelas no coincidentes, no tienen puntos en común. El sist
 ### Enunciado
 ¿Cuál es la edad de Carlos?
 ### Opciones
-- [x] A) $20$ años
+- [x] C) $20$ años
   <!-- feedback: Correcto. $A + C = 35$ y $C = A + 5 \implies A + A + 5 = 35 \implies 2A = 30 \implies A = 15$. Carlos tiene $20$ años. -->
-- [ ] B) $15$ años
+- [ ] A) $15$ años
   <!-- feedback: Incorrecto. $15$ años es la edad de Ana. -->
-- [ ] C) $25$ años
+- [ ] B) $25$ años
   <!-- feedback: Incorrecto. $25 + 20 = 45 \neq 35$. -->
 - [ ] D) $18$ años
   <!-- feedback: Incorrecto. $18 + 13 = 31 \neq 35$. -->
@@ -232,11 +232,11 @@ $A + C = 35$, $C - A = 5$. Sumando: $2C = 40 \implies C = 20$ años.
 ### Enunciado
 ¿Cuál debe ser el valor exacto de $k$?
 ### Opciones
-- [x] A) $k = 2$
+- [x] C) $k = 2$
   <!-- feedback: Correcto. Para infinitas soluciones, las ecuaciones deben ser proporcionales. La segunda es el doble de la primera $\implies 2k = 4 \implies k = 2$. -->
-- [ ] B) $k = 4$
+- [ ] A) $k = 4$
   <!-- feedback: Incorrecto. Daría la misma pendiente pero no proporcionalidad directa en coeficientes de $y$. -->
-- [ ] C) $k = 8$
+- [ ] B) $k = 8$
   <!-- feedback: Incorrecto. Multiplicaste por 2 en vez de dividir. -->
 - [ ] D) $k = -2$
   <!-- feedback: Incorrecto. Cambiaste el signo de proporcionalidad. -->
@@ -252,9 +252,9 @@ Infinitas soluciones $\implies \frac{k}{4} = \frac{3}{6} = \frac{6}{12} = \frac{
 ### Enunciado
 ¿Cuál es la distancia exacta en unidades lineales?
 ### Opciones
-- [x] A) $2.4$ unidades
+- [x] B) $2.4$ unidades
   <!-- feedback: Correcto. $d = \frac{|3(0) + 4(0) - 12|}{\sqrt{3^2 + 4^2}} = \frac{12}{5} = 2.4$. -->
-- [ ] B) $3.0$ unidades
+- [ ] A) $3.0$ unidades
   <!-- feedback: Incorrecto. Dividiste entre 4 en vez de 5. -->
 - [ ] C) $1.2$ unidades
   <!-- feedback: Incorrecto. Dividiste entre 10. -->

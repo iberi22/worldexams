@@ -35,10 +35,10 @@ This bundle provides a comprehensive review of the topics covered in weeks 6 to 
 You ________ study tonight if you want to pass the math test tomorrow.
 
 ### Opciones
-- [x] A) should <!-- feedback: Correct! "Should" is the appropriate modal for giving advice. -->
-- [ ] B) must to <!-- feedback: Incorrect. "Must" does not take "to". -->
-- [ ] C) shouldn't <!-- feedback: Incorrect. Illogical advice for someone who wants to pass. -->
-- [ ] D) are should <!-- feedback: Incorrect. -->
+- [x] D) should <!-- feedback: Correct! "Should" is the appropriate modal for giving advice. -->
+- [ ] A) must to <!-- feedback: Incorrect. "Must" does not take "to". -->
+- [ ] B) shouldn't <!-- feedback: Incorrect. Illogical advice for someone who wants to pass. -->
+- [ ] C) are should <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
 Recordamos que "should" se utiliza para dar consejos y va seguido de la forma base del verbo.
@@ -99,9 +99,9 @@ If we ________ to the party, we ________ a gift for the host.
 
 ### Opciones
 - [ ] A) go / bring <!-- feedback: Incorrect. Result needs "will". -->
-- [x] B) go / will bring <!-- feedback: Correct! First conditional structure. -->
-- [ ] C) will go / bring <!-- feedback: Incorrect. No "will" after "if". -->
-- [ ] D) goes / will bring <!-- feedback: Incorrect. "We" takes "go". -->
+- [x] D) go / will bring <!-- feedback: Correct! First conditional structure. -->
+- [ ] B) will go / bring <!-- feedback: Incorrect. No "will" after "if". -->
+- [ ] C) goes / will bring <!-- feedback: Incorrect. "We" takes "go". -->
 
 ### Explicación Pedagógica
 El Primer Condicional conecta una condición presente (Present Simple) con un resultado futuro probable (Will).
@@ -120,8 +120,8 @@ Maria has worked as a nurse ________ 2015.
 
 ### Opciones
 - [ ] A) for <!-- feedback: Incorrect. For is for periods of time (years). -->
-- [x] B) since <!-- feedback: Correct! Since is for a specific starting point. -->
-- [ ] C) during <!-- feedback: Incorrect. -->
+- [x] C) since <!-- feedback: Correct! Since is for a specific starting point. -->
+- [ ] B) during <!-- feedback: Incorrect. -->
 - [ ] D) ago <!-- feedback: Incorrect. -->
 
 ### Explicación Pedagógica
@@ -204,8 +204,8 @@ I won't call you ________ it's an emergency. I know you are busy.
 **B:** "No, I ________."
 
 ### Opciones
-- [ ] A) haven't see it yet <!-- feedback: Incorrect. Participle "seen" is required. -->
-- [x] B) haven't seen it yet <!-- feedback: Correct! Correct use of negative Present Perfect with "yet". -->
+- [ ] B) haven't see it yet <!-- feedback: Incorrect. Participle "seen" is required. -->
+- [x] A) haven't seen it yet <!-- feedback: Correct! Correct use of negative Present Perfect with "yet". -->
 - [ ] C) didn't see it yet <!-- feedback: Incorrect. Present perfect is needed with "yet". -->
 - [ ] D) have already seen it <!-- feedback: Incorrect. Doesn't match the "No" in the response. -->
 
@@ -226,10 +226,10 @@ Identify the error:
 "If you **will see (A)** the man **whose (B)** car was stolen, you **should (C)** tell him to call **the police (D)**."
 
 ### Opciones
-- [x] A) will see <!-- feedback: Correct! Error found. "Will" cannot be used in the "if" clause. It should be "see". -->
-- [ ] B) whose <!-- feedback: Incorrect. Correct use of possessive relative pronoun. -->
-- [ ] C) should <!-- feedback: Incorrect. Correct use for giving advice. -->
-- [ ] D) the police <!-- feedback: Incorrect. Correct noun. -->
+- [x] D) will see <!-- feedback: Correct! Error found. "Will" cannot be used in the "if" clause. It should be "see". -->
+- [ ] A) whose <!-- feedback: Incorrect. Correct use of possessive relative pronoun. -->
+- [ ] B) should <!-- feedback: Incorrect. Correct use for giving advice. -->
+- [ ] C) the police <!-- feedback: Incorrect. Correct noun. -->
 
 ### Explicación Pedagógica
 Se evalúa la capacidad de detectar el uso incorrecto del futuro en cláusulas condicionales, un error común incluso en niveles intermedios.
@@ -247,8 +247,8 @@ Se evalúa la capacidad de detectar el uso incorrecto del futuro en cláusulas c
 Your friend is crying because they lost their phone. What is the most empathetic B1 advice?
 
 ### Opciones
-- [ ] A) You must buy a new one now. <!-- feedback: Incorrect. Too direct/commanding. -->
-- [x] B) You should try to remember where you saw it last, and maybe we can call it. <!-- feedback: Correct! Helpful advice using "should" and "can". -->
+- [ ] B) You must buy a new one now. <!-- feedback: Incorrect. Too direct/commanding. -->
+- [x] A) You should try to remember where you saw it last, and maybe we can call it. <!-- feedback: Correct! Helpful advice using "should" and "can". -->
 - [ ] C) If you cry, you won't find it. <!-- feedback: Incorrect. True, but not empathetic. -->
 - [ ] D) You shouldn't have a phone if you are so distracted. <!-- feedback: Incorrect. Critical and unhelpful. -->
 

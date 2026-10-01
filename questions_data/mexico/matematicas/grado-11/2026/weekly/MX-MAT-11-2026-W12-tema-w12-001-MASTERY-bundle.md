@@ -30,11 +30,11 @@ creador: "Jules-Agent"
 ¿Cuál es el nombre del polígono regular que tiene exactamente 8 lados?
 
 ### Opciones
-- [x] A) Octágono
+- [x] C) Octágono
   <!-- feedback: ¡Correcto! Un polígono de exactamente 8 lados se denomina octágono u octónono. -->
-- [ ] B) Heptágono
+- [ ] A) Heptágono
   <!-- feedback: Incorrecto. El heptágono tiene 7 lados. -->
-- [ ] C) Decágono
+- [ ] B) Decágono
   <!-- feedback: Incorrecto. El decágono tiene 10 lados. -->
 - [ ] D) Hexágono
   <!-- feedback: Incorrecto. El hexágono tiene 6 lados. -->
@@ -53,13 +53,13 @@ Los polígonos se clasifican y nombran de acuerdo con su número de lados. Un oc
 ¿Qué nombre recibe el segmento de recta que une dos puntos cualesquiera de una circunferencia pasando exactamente por su centro?
 
 ### Opciones
-- [x] A) Diámetro
+- [x] D) Diámetro
   <!-- feedback: ¡Correcto! El diámetro es la cuerda de mayor longitud en una circunferencia y pasa obligatoriamente por el centro. -->
-- [ ] B) Radio
+- [ ] A) Radio
   <!-- feedback: Incorrecto. El radio une el centro con un punto de la circunferencia, no une dos puntos de la misma. -->
-- [ ] C) Secante
+- [ ] B) Secante
   <!-- feedback: Incorrecto. Una secante es una recta infinita que corta a la circunferencia en dos puntos, no un segmento. -->
-- [ ] D) Tangente
+- [ ] C) Tangente
   <!-- feedback: Incorrecto. La tangente es una recta exterior que toca a la circunferencia en un único punto. -->
 
 ### Explicacion Pedagogica
@@ -76,13 +76,13 @@ El diámetro es el segmento de recta que pasa por el centro de la circunferencia
 Si el radio de la glorieta circular mide 5 metros, ¿cuánto mide el área total de la glorieta expresada en términos de pi?
 
 ### Opciones
-- [x] A) 25π m²
+- [x] D) 25π m²
   <!-- feedback: ¡Correcto! El área de un círculo se calcula con la fórmula A = π * r². Sustituyendo r = 5, obtenemos A = π * 5² = 25π m². -->
-- [ ] B) 10π m²
+- [ ] A) 10π m²
   <!-- feedback: Incorrecto. 10π es la longitud de la circunferencia (2 * π * r), no su área. -->
-- [ ] C) 5π m²
+- [ ] B) 5π m²
   <!-- feedback: Incorrecto. Se olvidó elevar el radio al cuadrado en la fórmula del área. -->
-- [ ] D) 50π m²
+- [ ] C) 50π m²
   <!-- feedback: Incorrecto. No corresponde a la fórmula correcta del área de un círculo. -->
 
 ### Explicacion Pedagogica
@@ -99,11 +99,11 @@ La superficie o área de un círculo se determina mediante la fórmula matemáti
 ¿Cuál es la suma de los de un hexágono convexo cualquiera?
 
 ### Opciones
-- [x] A) 720°
+- [x] C) 720°
   <!-- feedback: ¡Correcto! Usando la fórmula S = (n - 2) * 180°, para un hexágono (n = 6) la suma es (6 - 2) * 180° = 4 * 180° = 720°. -->
-- [ ] B) 540°
+- [ ] A) 540°
   <!-- feedback: Incorrecto. 540° es la suma de los ángulos internos de un pentágono (n = 5). -->
-- [ ] C) 360°
+- [ ] B) 360°
   <!-- feedback: Incorrecto. 360° es la suma de los de un cuadrilátero (n = 4). -->
 - [ ] D) 900°
   <!-- feedback: Incorrecto. 900° es la suma de los de un heptágono (n = 7). -->
@@ -122,13 +122,13 @@ La suma de los ángulos internos de cualquier polígono convexo de n lados se ca
 ¿Cuánto mide cada uno de los de un hexágono regular?
 
 ### Opciones
-- [x] A) 120°
+- [x] D) 120°
   <!-- feedback: ¡Correcto! En un hexágono regular, la suma total de los de 720°. Como tiene 6 de iguales, cada uno mide 720° / 6 = 120°. -->
-- [ ] B) 108°
+- [ ] A) 108°
   <!-- feedback: Incorrecto. 108° es el ángulo interno de un pentágono regular. -->
-- [ ] C) 60°
+- [ ] B) 60°
   <!-- feedback: Incorrecto. 60° es el ángulo central del hexágono regular o el ángulo interno de un triángulo equilátero. -->
-- [ ] D) 135°
+- [ ] C) 135°
   <!-- feedback: Incorrecto. 135° es el ángulo interno de un octágono regular. -->
 
 ### Explicacion Pedagogica
@@ -145,9 +145,9 @@ Para encontrar la medida de un ángulo interno de un polígono regular, dividimo
 Si el área total del círculo es de 120 cm² y se divide en 8 sectores circulares idénticos, ¿cuál es el área de cada sector circular?
 
 ### Opciones
-- [x] A) 15 cm²
+- [x] B) 15 cm²
   <!-- feedback: ¡Correcto! El área de cada sector es simplemente el área total dividida entre el número de sectores idénticos: 120 cm² / 8 = 15 cm². -->
-- [ ] B) 20 cm²
+- [ ] A) 20 cm²
   <!-- feedback: Incorrecto. Un área de 20 cm² implicaría dividir el círculo en 6 sectores circulares idénticos. -->
 - [ ] C) 30 cm²
   <!-- feedback: Incorrecto. Esto correspondería a 4 sectores circulares idénticos. -->
@@ -168,11 +168,11 @@ Dado que el círculo se divide en 8 sectores circulares idénticos, la superfici
 Si cada lado del octágono regular mide 1.5 metros y el apotema mide 1.8 metros, ¿cuál es el área total de la mesa?
 
 ### Opciones
-- [x] A) 10.8 m²
+- [x] C) 10.8 m²
   <!-- feedback: ¡Correcto! El perímetro es 8 * 1.5 = 12 m. El área se calcula como (Perímetro * apotema) / 2 = (12 * 1.8) / 2 = 10.8 m². -->
-- [ ] B) 21.6 m²
+- [ ] A) 21.6 m²
   <!-- feedback: Incorrecto. Se omitió dividir entre 2 al aplicar la fórmula del área del polígono regular. -->
-- [ ] C) 18.0 m²
+- [ ] B) 18.0 m²
   <!-- feedback: Incorrecto. Se calculó incorrectamente el perímetro del octágono regular. -->
 - [ ] D) 9.6 m²
   <!-- feedback: Incorrecto. No corresponde a los valores y de dadas en el problema. -->
@@ -191,13 +191,13 @@ La fórmula para calcular el área de cualquier polígono regular es A = (P * ap
 ¿Cuántas diagonales totales se pueden trazar en un octágono convexo?
 
 ### Opciones
-- [x] A) 20
+- [x] D) 20
   <!-- feedback: ¡Correcto! Aplicando la fórmula D = n * (n - 3) / 2, para un octágono (n = 8) tenemos D = 8 * (8 - 3) / 2 = 8 * 5 / 2 = 20 de. -->
-- [ ] B) 14
+- [ ] A) 14
   <!-- feedback: Incorrecto. 14 es el número de diagonales de un heptágono (n = 7). -->
-- [ ] C) 27
+- [ ] B) 27
   <!-- feedback: Incorrecto. 27 es el número de diagonales de un eneágono (n = 9). -->
-- [ ] D) 40
+- [ ] C) 40
   <!-- feedback: Incorrecto. Este valor es el doble del resultado correcto. -->
 
 ### Explicacion Pedagogica
@@ -214,9 +214,9 @@ El número total de diagonales (D) que se pueden trazar en cualquier polígono c
 Si la longitud de la pista (perímetro del círculo) es de 400 metros, ¿cuál es la medida aproximada de su radio? (Considera π ≈ 3.1416).
 
 ### Opciones
-- [x] A) 63.66 metros
+- [x] B) 63.66 metros
   <!-- feedback: ¡Correcto! El perímetro es P = 2 * π * r. Despejando r: r = P / (2 * π) = 400 / (2 * 3.1416) ≈ 63.66 metros. -->
-- [ ] B) 127.32 metros
+- [ ] A) 127.32 metros
   <!-- feedback: Incorrecto. 127.32 es el diámetro de la pista circular, no el radio. -->
 - [ ] C) 50.24 metros
   <!-- feedback: Incorrecto. Este valor resulta de un mal despeje algebraico o de dividir incorrectamente por π. -->
@@ -237,11 +237,11 @@ La circunferencia o perímetro de un círculo se determina mediante la fórmula:
 Si el círculo de la piedra es tangente a los tres lados del triángulo, ¿qué nombre recibe este círculo en relación con el triángulo?
 
 ### Opciones
-- [x] A) Círculo inscrito
+- [x] C) Círculo inscrito
   <!-- feedback: ¡Correcto! Un círculo que se encuentra dentro de un polígono y es tangente a todos sus lados se llama círculo inscrito, y su centro es el incentro. -->
-- [ ] B) Círculo circunscrito
+- [ ] A) Círculo circunscrito
   <!-- feedback: Incorrecto. El círculo circunscrito pasa por los de del polígono, no es tangente a sus lados. -->
-- [ ] C) Círculo excéntrico
+- [ ] B) Círculo excéntrico
   <!-- feedback: Incorrecto. Se refiere a de que no comparten el mismo centro. -->
 - [ ] D) Círculo concéntrico
   <!-- feedback: Incorrecto. Los de concéntricos comparten el mismo centro entre sí. -->
@@ -260,11 +260,11 @@ Por definición geométrica, el círculo que es interior a un polígono y que re
 Si la longitud de un arco de circunferencia que subtiende un ángulo central de 60° mide exactamente 4π metros, ¿cuál es la longitud del radio de la circunferencia?
 
 ### Opciones
-- [x] A) 12 metros
+- [x] C) 12 metros
   <!-- feedback: ¡Correcto! La longitud del arco se calcula como s = 2 * π * r * (θ / 360°). Sustituyendo: 4π = 2 * π * r * (60 / 360) -> 4π = 2 * π * r * (1/6) -> 4 = r / 3 -> r = 12 m. -->
-- [ ] B) 6 metros
+- [ ] A) 6 metros
   <!-- feedback: Incorrecto. Si el radio fuera 6 m, la longitud del arco para 60° sería de 2π m. -->
-- [ ] C) 8 metros
+- [ ] B) 8 metros
   <!-- feedback: Incorrecto. No cumple con la proporción angular de un sexto de la circunferencia. -->
 - [ ] D) 24 metros
   <!-- feedback: Incorrecto. Este valor es el doble de la longitud real requerida para el radio. -->
@@ -283,11 +283,11 @@ La longitud de un arco (s) para un ángulo central θ en grados se calcula media
 En una circunferencia, un ángulo inscrito tiene su vértice sobre la de y sus lados son de. Si el ángulo inscrito mide 45°, ¿cuál es la medida del ángulo central que subtiende el mismo arco?
 
 ### Opciones
-- [x] A) 90°
+- [x] C) 90°
   <!-- feedback: ¡Correcto! El teorema del de inscrito establece que la medida del de central es siempre el doble de la medida del de inscrito que subtiende el mismo arco. Así, 45° * 2 = 90°. -->
-- [ ] B) 45°
+- [ ] A) 45°
   <!-- feedback: Incorrecto. Un de central e inscrito que subtienden el mismo arco no tienen la misma medida. -->
-- [ ] C) 22.5°
+- [ ] B) 22.5°
   <!-- feedback: Incorrecto. El de central debe ser el doble de la medida del inscrito. -->
 - [ ] D) 180°
   <!-- feedback: Incorrecto. Esto sucedería si el de inscrito fuese un de recto de 90°. -->
@@ -306,9 +306,9 @@ De acuerdo con las de de los de en la de, la medida de un de inscrito es exactam
 Si la suma de los de internos de un de regular es de 1440°, ¿cuántas diagonales en total se pueden trazar desde un solo de del de?
 
 ### Opciones
-- [x] A) 7
+- [x] B) 7
   <!-- feedback: ¡Correcto! Primero encontramos el de de lados: 1440 = (n - 2) * 180 -> n - 2 = 8 -> n = 10 (decágono). Las de trazadas desde un solo de se calculan como n - 3, lo que nos da 10 - 3 = 7. -->
-- [ ] B) 10
+- [ ] A) 10
   <!-- feedback: Incorrecto. 10 es el de total de lados (n) del de. -->
 - [ ] C) 35
   <!-- feedback: Incorrecto. 35 es el de total de de de un decágono (10 * 7 / 2 = 35). -->
@@ -329,11 +329,11 @@ Primero, determinamos el número de lados del polígono con la fórmula de la su
 ¿Cuál es la longitud exacta del radio de la circunferencia circunscrita al cuadrado de lado 4 cm?
 
 ### Opciones
-- [x] A) 2√2 cm
+- [x] C) 2√2 cm
   <!-- feedback: ¡Correcto! La diagonal del cuadrado es la hipotenusa de un de de de catetos 4 cm y 4 cm: d = √(4² + 4²) = √32 = 4√2 cm. El de de la de es la diagonal del cuadrado, por lo que el de es la mitad: r = 2√2 cm. -->
-- [ ] B) 2 cm
+- [ ] A) 2 cm
   <!-- feedback: Incorrecto. 2 cm sería el radio de una circunferencia inscrita, no circunscrita. -->
-- [ ] C) 4 cm
+- [ ] B) 4 cm
   <!-- feedback: Incorrecto. 4 cm es la longitud de la diagonal o del diámetro en otros contextos, pero no el radio circunscrito. -->
 - [ ] D) 4√2 cm
   <!-- feedback: Incorrecto. 4√2 cm es la diagonal total (diámetro de la circunferencia), no el radio. -->
@@ -352,11 +352,11 @@ Cuando un cuadrado está inscrito en una de, la de del cuadrado es exactamente i
 Si el aspersor tiene un alcance de 6 metros de longitud y gira cubriendo un ángulo de 120°, ¿cuál es el área aproximada de la zona de césped que recibe agua? (Considera π ≈ 3.1416).
 
 ### Opciones
-- [x] A) 37.70 m²
+- [x] C) 37.70 m²
   <!-- feedback: ¡Correcto! El área del sector circular se calcula como A = π * r² * (θ / 360°). Sustituyendo r = 6 m y θ = 120°, obtenemos A = 3.1416 * 6² * (120 / 360) = 3.1416 * 36 / 3 = 12 * 3.1416 ≈ 37.70 m². -->
-- [ ] B) 113.10 m²
+- [ ] A) 113.10 m²
   <!-- feedback: Incorrecto. Esto corresponde al área total del círculo (360°), no del sector de 120°. -->
-- [ ] C) 18.85 m²
+- [ ] B) 18.85 m²
   <!-- feedback: Incorrecto. Se dividió incorrectamente la fórmula por un factor de escala diferente al de 120°. -->
 - [ ] D) 56.55 m²
   <!-- feedback: Incorrecto. No corresponde al cálculo correcto del sector circular de un tercio de círculo. -->
@@ -375,11 +375,11 @@ La superficie mojada por el aspersor forma un sector circular. El área de un se
 Si una de de una de de de 10 cm mide exactamente 12 cm, ¿cuál es la de de más corta desde el de de la de hasta dicha de?
 
 ### Opciones
-- [x] A) 8 cm
+- [x] C) 8 cm
   <!-- feedback: ¡Correcto! La de desde el de a la de forma un de de de la de es el de (10 cm), un de es la mitad de la de (6 cm) y el otro de es la de d. Por de: d = √(10² - 6²) = √(100 - 36) = √64 = 8 cm. -->
-- [ ] B) 6 cm
+- [ ] A) 6 cm
   <!-- feedback: Incorrecto. 6 cm es la mitad de la de de la de, no la de desde el de. -->
-- [ ] C) 5 cm
+- [ ] B) 5 cm
   <!-- feedback: Incorrecto. Este valor no satisface el de de de para este de de. -->
 - [ ] D) 4 cm
   <!-- feedback: Incorrecto. No cumple la de métrica del de de (6, 8, 10). -->
@@ -398,13 +398,13 @@ Cualquier de perpendicular trazado desde el de de una de a una de biseca a la mi
 Si dos de de de tienen de de 5 m y 3 m, ¿cuál es el de de la de de (de comprendida entre ambas de) expresada en de de pi?
 
 ### Opciones
-- [x] A) 16π m²
+- [x] D) 16π m²
   <!-- feedback: ¡Correcto! El área de la corona circular es la diferencia de las áreas de los dos de: A = π * R² - π * r² = π * (5² - 3²) = π * (25 - 9) = 16π m². -->
-- [ ] B) 4π m²
+- [ ] A) 4π m²
   <!-- feedback: Incorrecto. Este resultado se obtiene restando incorrectamente los de primero y elevando la de al de. -->
-- [ ] C) 8π m²
+- [ ] B) 8π m²
   <!-- feedback: Incorrecto. No corresponde a la de de de de los de de los de. -->
-- [ ] D) 34π m²
+- [ ] C) 34π m²
   <!-- feedback: Incorrecto. Este resultado se obtendría sumando las de en lugar de restarlas. -->
 
 ### Explicacion Pedagogica
@@ -421,13 +421,13 @@ Una de de es la de de de de por dos de de. Su de se determina restando el de del
 Si un de regular tiene n lados, ¿cuál es la de de que determina la medida de uno de sus de de en de?
 
 ### Opciones
-- [x] A) 360° / n
+- [x] D) 360° / n
   <!-- feedback: ¡Correcto! Dado que la suma de los de de de cualquier de de es siempre 360°, y en uno regular todos los de son iguales, la medida de cada de de es 360° / n. -->
-- [ ] B) 180° * (n - 2) / n
+- [ ] A) 180° * (n - 2) / n
   <!-- feedback: Incorrecto. Esta de de la de de un de de del de de, no de un de. -->
-- [ ] C) 360° * (n - 2) / n
+- [ ] B) 360° * (n - 2) / n
   <!-- feedback: Incorrecto. Es una de de para la de de los de de. -->
-- [ ] D) 180° / n
+- [ ] C) 180° / n
   <!-- feedback: Incorrecto. No corresponde a la suma de los de de de un de. -->
 
 ### Explicacion Pedagogica
@@ -467,11 +467,11 @@ El de de la de y la de establece que si desde un de de a una de se trazan una de
 En una de de de R, se tiene un de de de de θ. Si disminuimos el de de la de a la mitad y queremos que el de de de de permanezca exactamente igual, ¿cómo debe cambiar la medida del de de θ?
 
 ### Opciones
-- [x] A) Debe cuadruplicarse (4θ)
+- [x] C) Debe cuadruplicarse (4θ)
   <!-- feedback: ¡Correcto! El área de un sector circular es directamente proporcional al ángulo central y al cuadrado del radio (r²). Si el radio se reduce a la mitad (r/2), su cuadrado se reduce a la cuarta parte (r²/4). Para mantener el área constante, el ángulo debe multiplicarse por 4. -->
-- [ ] B) Debe duplicarse (2θ)
+- [ ] A) Debe duplicarse (2θ)
   <!-- feedback: Incorrecto. Duplicar el de no compensa la de de del de a la mitad. -->
-- [ ] C) Debe permanecer constante
+- [ ] B) Debe permanecer constante
   <!-- feedback: Incorrecto. Si permanece de, el de de de de se reduciría a la de de. -->
 - [ ] D) Debe reducirse a la de de (θ/4)
   <!-- feedback: Incorrecto. Esto reduciría aún más el de de de de. -->

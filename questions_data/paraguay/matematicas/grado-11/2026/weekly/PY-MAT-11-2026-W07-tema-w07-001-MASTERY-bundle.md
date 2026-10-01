@@ -35,9 +35,9 @@ Este bundle evalúa conceptos clave de Ecuaciones Cuadráticas alineados al curr
 En una ecuación de segundo grado de la forma $ax^2 + bx + c = 0$, ¿cómo se denomina al término $ax^2$?
 
 ### Opciones
-- [x] A) Término cuadrático. <!-- feedback: ¡Correcto! El término con exponente 2 es el término cuadrático de la ecuación. -->
-- [ ] B) Término lineal. <!-- feedback: Incorrecto. El término lineal es $bx$, que tiene exponente 1. -->
-- [ ] C) Término independiente. <!-- feedback: Incorrecto. El término independiente es $c$, que no posee variable visible. -->
+- [x] C) Término cuadrático. <!-- feedback: ¡Correcto! El término con exponente 2 es el término cuadrático de la ecuación. -->
+- [ ] A) Término lineal. <!-- feedback: Incorrecto. El término lineal es $bx$, que tiene exponente 1. -->
+- [ ] B) Término independiente. <!-- feedback: Incorrecto. El término independiente es $c$, que no posee variable visible. -->
 - [ ] D) Coeficiente principal. <!-- feedback: Incorrecto. El coeficiente principal es solo el valor numérico $a$, no el término completo. -->
 
 ### Explicacion Pedagogica
@@ -98,9 +98,9 @@ La ecuación $t^2 - 9t + 20 = 0$ se factoriza como $(t - 4)(t - 5) = 0$, lo que 
 En Encarnación, un proyectil de práctica es lanzado verticalmente. Su altura relativa en metros está modelada por la ecuación de segundo grado $h(t) = t^2 - 6t + 5 = 0$. ¿En qué instante de tiempo $t > 0$ en segundos el proyectil toca el suelo?
 
 ### Opciones
-- [x] A) 5 segundos <!-- feedback: ¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 1)(t - 5) = 0. La mayor raíz es 5. -->
-- [ ] B) 7 segundos <!-- feedback: Incorrecto. Esta raíz no satisface la ecuación de altura dada. -->
-- [ ] C) 2 segundos <!-- feedback: Incorrecto. No corresponde al despeje correcto de los factores lineales. -->
+- [x] C) 5 segundos <!-- feedback: ¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 1)(t - 5) = 0. La mayor raíz es 5. -->
+- [ ] A) 7 segundos <!-- feedback: Incorrecto. Esta raíz no satisface la ecuación de altura dada. -->
+- [ ] B) 2 segundos <!-- feedback: Incorrecto. No corresponde al despeje correcto de los factores lineales. -->
 - [ ] D) 0 segundos <!-- feedback: Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior. -->
 
 ### Explicacion Pedagogica
@@ -119,9 +119,9 @@ La ecuación $t^2 - 6t + 5 = 0$ se factoriza como $(t - 1)(t - 5) = 0$, lo que d
 En Ciudad del Este, un proyectil de práctica es lanzado verticalmente. Su altura relativa en metros está modelada por la ecuación de segundo grado $h(t) = t^2 - 7t + 10 = 0$. ¿En qué instante de tiempo $t > 0$ en segundos el proyectil toca el suelo?
 
 ### Opciones
-- [x] A) 5 segundos <!-- feedback: ¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 2)(t - 5) = 0. La mayor raíz es 5. -->
-- [ ] B) 8 segundos <!-- feedback: Incorrecto. Esta raíz no satisface la ecuación de altura dada. -->
-- [ ] C) 4 segundos <!-- feedback: Incorrecto. No corresponde al despeje correcto de los factores lineales. -->
+- [x] C) 5 segundos <!-- feedback: ¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 2)(t - 5) = 0. La mayor raíz es 5. -->
+- [ ] A) 8 segundos <!-- feedback: Incorrecto. Esta raíz no satisface la ecuación de altura dada. -->
+- [ ] B) 4 segundos <!-- feedback: Incorrecto. No corresponde al despeje correcto de los factores lineales. -->
 - [ ] D) 0 segundos <!-- feedback: Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior. -->
 
 ### Explicacion Pedagogica
@@ -140,10 +140,10 @@ La ecuación $t^2 - 7t + 10 = 0$ se factoriza como $(t - 2)(t - 5) = 0$, lo que 
 En Caacupé, un proyectil de práctica es lanzado verticalmente. Su altura relativa en metros está modelada por la ecuación de segundo grado $h(t) = t^2 - 8t + 15 = 0$. ¿En qué instante de tiempo $t > 0$ en segundos el proyectil toca el suelo?
 
 ### Opciones
-- [x] A) 5 segundos <!-- feedback: ¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 3)(t - 5) = 0. La mayor raíz es 5. -->
-- [ ] B) 9 segundos <!-- feedback: Incorrecto. Esta raíz no satisface la ecuación de altura dada. -->
-- [ ] C) 6 segundos <!-- feedback: Incorrecto. No corresponde al despeje correcto de los factores lineales. -->
-- [ ] D) 0 segundos <!-- feedback: Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior. -->
+- [x] D) 5 segundos <!-- feedback: ¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 3)(t - 5) = 0. La mayor raíz es 5. -->
+- [ ] A) 9 segundos <!-- feedback: Incorrecto. Esta raíz no satisface la ecuación de altura dada. -->
+- [ ] B) 6 segundos <!-- feedback: Incorrecto. No corresponde al despeje correcto de los factores lineales. -->
+- [ ] C) 0 segundos <!-- feedback: Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior. -->
 
 ### Explicacion Pedagogica
 La ecuación $t^2 - 8t + 15 = 0$ se factoriza como $(t - 3)(t - 5) = 0$, lo que da como soluciones $t = 3$ y $t = 5$. El instante posterior de caída corresponde al mayor de estos valores, 5 segundos.
@@ -161,9 +161,9 @@ La ecuación $t^2 - 8t + 15 = 0$ se factoriza como $(t - 3)(t - 5) = 0$, lo que 
 En Pilar, un proyectil de práctica es lanzado verticalmente. Su altura relativa en metros está modelada por la ecuación de segundo grado $h(t) = t^2 - 9t + 20 = 0$. ¿En qué instante de tiempo $t > 0$ en segundos el proyectil toca el suelo?
 
 ### Opciones
-- [x] A) 5 segundos <!-- feedback: ¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 4)(t - 5) = 0. La mayor raíz es 5. -->
-- [ ] B) 10 segundos <!-- feedback: Incorrecto. Esta raíz no satisface la ecuación de altura dada. -->
-- [ ] C) 8 segundos <!-- feedback: Incorrecto. No corresponde al despeje correcto de los factores lineales. -->
+- [x] C) 5 segundos <!-- feedback: ¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 4)(t - 5) = 0. La mayor raíz es 5. -->
+- [ ] A) 10 segundos <!-- feedback: Incorrecto. Esta raíz no satisface la ecuación de altura dada. -->
+- [ ] B) 8 segundos <!-- feedback: Incorrecto. No corresponde al despeje correcto de los factores lineales. -->
 - [ ] D) 0 segundos <!-- feedback: Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior. -->
 
 ### Explicacion Pedagogica
@@ -182,9 +182,9 @@ La ecuación $t^2 - 9t + 20 = 0$ se factoriza como $(t - 4)(t - 5) = 0$, lo que 
 En Coronel Oviedo, un proyectil de práctica es lanzado verticalmente. Su altura relativa en metros está modelada por la ecuación de segundo grado $h(t) = t^2 - 6t + 5 = 0$. ¿En qué instante de tiempo $t > 0$ en segundos el proyectil toca el suelo?
 
 ### Opciones
-- [x] A) 5 segundos <!-- feedback: ¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 1)(t - 5) = 0. La mayor raíz es 5. -->
-- [ ] B) 7 segundos <!-- feedback: Incorrecto. Esta raíz no satisface la ecuación de altura dada. -->
-- [ ] C) 2 segundos <!-- feedback: Incorrecto. No corresponde al despeje correcto de los factores lineales. -->
+- [x] C) 5 segundos <!-- feedback: ¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 1)(t - 5) = 0. La mayor raíz es 5. -->
+- [ ] A) 7 segundos <!-- feedback: Incorrecto. Esta raíz no satisface la ecuación de altura dada. -->
+- [ ] B) 2 segundos <!-- feedback: Incorrecto. No corresponde al despeje correcto de los factores lineales. -->
 - [ ] D) 0 segundos <!-- feedback: Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior. -->
 
 ### Explicacion Pedagogica
@@ -203,10 +203,10 @@ La ecuación $t^2 - 6t + 5 = 0$ se factoriza como $(t - 1)(t - 5) = 0$, lo que d
 En Concepción, un proyectil de práctica es lanzado verticalmente. Su altura relativa en metros está modelada por la ecuación de segundo grado $h(t) = t^2 - 7t + 10 = 0$. ¿En qué instante de tiempo $t > 0$ en segundos el proyectil toca el suelo?
 
 ### Opciones
-- [x] A) 5 segundos <!-- feedback: ¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 2)(t - 5) = 0. La mayor raíz es 5. -->
-- [ ] B) 8 segundos <!-- feedback: Incorrecto. Esta raíz no satisface la ecuación de altura dada. -->
-- [ ] C) 4 segundos <!-- feedback: Incorrecto. No corresponde al despeje correcto de los factores lineales. -->
-- [ ] D) 0 segundos <!-- feedback: Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior. -->
+- [x] D) 5 segundos <!-- feedback: ¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 2)(t - 5) = 0. La mayor raíz es 5. -->
+- [ ] A) 8 segundos <!-- feedback: Incorrecto. Esta raíz no satisface la ecuación de altura dada. -->
+- [ ] B) 4 segundos <!-- feedback: Incorrecto. No corresponde al despeje correcto de los factores lineales. -->
+- [ ] C) 0 segundos <!-- feedback: Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior. -->
 
 ### Explicacion Pedagogica
 La ecuación $t^2 - 7t + 10 = 0$ se factoriza como $(t - 2)(t - 5) = 0$, lo que da como soluciones $t = 2$ y $t = 5$. El instante posterior de caída corresponde al mayor de estos valores, 5 segundos.
@@ -224,10 +224,10 @@ La ecuación $t^2 - 7t + 10 = 0$ se factoriza como $(t - 2)(t - 5) = 0$, lo que 
 En Villarrica, un proyectil de práctica es lanzado verticalmente. Su altura relativa en metros está modelada por la ecuación de segundo grado $h(t) = t^2 - 8t + 15 = 0$. ¿En qué instante de tiempo $t > 0$ en segundos el proyectil toca el suelo?
 
 ### Opciones
-- [x] A) 5 segundos <!-- feedback: ¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 3)(t - 5) = 0. La mayor raíz es 5. -->
-- [ ] B) 9 segundos <!-- feedback: Incorrecto. Esta raíz no satisface la ecuación de altura dada. -->
-- [ ] C) 6 segundos <!-- feedback: Incorrecto. No corresponde al despeje correcto de los factores lineales. -->
-- [ ] D) 0 segundos <!-- feedback: Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior. -->
+- [x] D) 5 segundos <!-- feedback: ¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 3)(t - 5) = 0. La mayor raíz es 5. -->
+- [ ] A) 9 segundos <!-- feedback: Incorrecto. Esta raíz no satisface la ecuación de altura dada. -->
+- [ ] B) 6 segundos <!-- feedback: Incorrecto. No corresponde al despeje correcto de los factores lineales. -->
+- [ ] C) 0 segundos <!-- feedback: Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior. -->
 
 ### Explicacion Pedagogica
 La ecuación $t^2 - 8t + 15 = 0$ se factoriza como $(t - 3)(t - 5) = 0$, lo que da como soluciones $t = 3$ y $t = 5$. El instante posterior de caída corresponde al mayor de estos valores, 5 segundos.
@@ -266,9 +266,9 @@ La ecuación $t^2 - 9t + 20 = 0$ se factoriza como $(t - 4)(t - 5) = 0$, lo que 
 En San Lorenzo, un proyectil de práctica es lanzado verticalmente. Su altura relativa en metros está modelada por la ecuación de segundo grado $h(t) = t^2 - 6t + 5 = 0$. ¿En qué instante de tiempo $t > 0$ en segundos el proyectil toca el suelo?
 
 ### Opciones
-- [x] A) 5 segundos <!-- feedback: ¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 1)(t - 5) = 0. La mayor raíz es 5. -->
-- [ ] B) 7 segundos <!-- feedback: Incorrecto. Esta raíz no satisface la ecuación de altura dada. -->
-- [ ] C) 2 segundos <!-- feedback: Incorrecto. No corresponde al despeje correcto de los factores lineales. -->
+- [x] C) 5 segundos <!-- feedback: ¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 1)(t - 5) = 0. La mayor raíz es 5. -->
+- [ ] A) 7 segundos <!-- feedback: Incorrecto. Esta raíz no satisface la ecuación de altura dada. -->
+- [ ] B) 2 segundos <!-- feedback: Incorrecto. No corresponde al despeje correcto de los factores lineales. -->
 - [ ] D) 0 segundos <!-- feedback: Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior. -->
 
 ### Explicacion Pedagogica
@@ -308,8 +308,8 @@ La ecuación $t^2 - 7t + 10 = 0$ se factoriza como $(t - 2)(t - 5) = 0$, lo que 
 En Encarnación, un proyectil de práctica es lanzado verticalmente. Su altura relativa en metros está modelada por la ecuación de segundo grado $h(t) = t^2 - 8t + 15 = 0$. ¿En qué instante de tiempo $t > 0$ en segundos el proyectil toca el suelo?
 
 ### Opciones
-- [x] A) 5 segundos <!-- feedback: ¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 3)(t - 5) = 0. La mayor raíz es 5. -->
-- [ ] B) 9 segundos <!-- feedback: Incorrecto. Esta raíz no satisface la ecuación de altura dada. -->
+- [x] B) 5 segundos <!-- feedback: ¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 3)(t - 5) = 0. La mayor raíz es 5. -->
+- [ ] A) 9 segundos <!-- feedback: Incorrecto. Esta raíz no satisface la ecuación de altura dada. -->
 - [ ] C) 6 segundos <!-- feedback: Incorrecto. No corresponde al despeje correcto de los factores lineales. -->
 - [ ] D) 0 segundos <!-- feedback: Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior. -->
 
@@ -350,8 +350,8 @@ La ecuación $t^2 - 9t + 20 = 0$ se factoriza como $(t - 4)(t - 5) = 0$, lo que 
 En Caacupé, un proyectil de práctica es lanzado verticalmente. Su altura relativa en metros está modelada por la ecuación de segundo grado $h(t) = t^2 - 6t + 5 = 0$. ¿En qué instante de tiempo $t > 0$ en segundos el proyectil toca el suelo?
 
 ### Opciones
-- [x] A) 5 segundos <!-- feedback: ¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 1)(t - 5) = 0. La mayor raíz es 5. -->
-- [ ] B) 7 segundos <!-- feedback: Incorrecto. Esta raíz no satisface la ecuación de altura dada. -->
+- [x] B) 5 segundos <!-- feedback: ¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 1)(t - 5) = 0. La mayor raíz es 5. -->
+- [ ] A) 7 segundos <!-- feedback: Incorrecto. Esta raíz no satisface la ecuación de altura dada. -->
 - [ ] C) 2 segundos <!-- feedback: Incorrecto. No corresponde al despeje correcto de los factores lineales. -->
 - [ ] D) 0 segundos <!-- feedback: Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior. -->
 
@@ -371,9 +371,9 @@ La ecuación $t^2 - 6t + 5 = 0$ se factoriza como $(t - 1)(t - 5) = 0$, lo que d
 En Pilar, un proyectil de práctica es lanzado verticalmente. Su altura relativa en metros está modelada por la ecuación de segundo grado $h(t) = t^2 - 7t + 10 = 0$. ¿En qué instante de tiempo $t > 0$ en segundos el proyectil toca el suelo?
 
 ### Opciones
-- [x] A) 5 segundos <!-- feedback: ¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 2)(t - 5) = 0. La mayor raíz es 5. -->
-- [ ] B) 8 segundos <!-- feedback: Incorrecto. Esta raíz no satisface la ecuación de altura dada. -->
-- [ ] C) 4 segundos <!-- feedback: Incorrecto. No corresponde al despeje correcto de los factores lineales. -->
+- [x] C) 5 segundos <!-- feedback: ¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 2)(t - 5) = 0. La mayor raíz es 5. -->
+- [ ] A) 8 segundos <!-- feedback: Incorrecto. Esta raíz no satisface la ecuación de altura dada. -->
+- [ ] B) 4 segundos <!-- feedback: Incorrecto. No corresponde al despeje correcto de los factores lineales. -->
 - [ ] D) 0 segundos <!-- feedback: Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior. -->
 
 ### Explicacion Pedagogica
@@ -392,9 +392,9 @@ La ecuación $t^2 - 7t + 10 = 0$ se factoriza como $(t - 2)(t - 5) = 0$, lo que 
 En Coronel Oviedo, un proyectil de práctica es lanzado verticalmente. Su altura relativa en metros está modelada por la ecuación de segundo grado $h(t) = t^2 - 8t + 15 = 0$. ¿En qué instante de tiempo $t > 0$ en segundos el proyectil toca el suelo?
 
 ### Opciones
-- [x] A) 5 segundos <!-- feedback: ¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 3)(t - 5) = 0. La mayor raíz es 5. -->
-- [ ] B) 9 segundos <!-- feedback: Incorrecto. Esta raíz no satisface la ecuación de altura dada. -->
-- [ ] C) 6 segundos <!-- feedback: Incorrecto. No corresponde al despeje correcto de los factores lineales. -->
+- [x] C) 5 segundos <!-- feedback: ¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 3)(t - 5) = 0. La mayor raíz es 5. -->
+- [ ] A) 9 segundos <!-- feedback: Incorrecto. Esta raíz no satisface la ecuación de altura dada. -->
+- [ ] B) 6 segundos <!-- feedback: Incorrecto. No corresponde al despeje correcto de los factores lineales. -->
 - [ ] D) 0 segundos <!-- feedback: Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior. -->
 
 ### Explicacion Pedagogica
@@ -413,9 +413,9 @@ La ecuación $t^2 - 8t + 15 = 0$ se factoriza como $(t - 3)(t - 5) = 0$, lo que 
 En Concepción, un proyectil de práctica es lanzado verticalmente. Su altura relativa en metros está modelada por la ecuación de segundo grado $h(t) = t^2 - 9t + 20 = 0$. ¿En qué instante de tiempo $t > 0$ en segundos el proyectil toca el suelo?
 
 ### Opciones
-- [x] A) 5 segundos <!-- feedback: ¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 4)(t - 5) = 0. La mayor raíz es 5. -->
-- [ ] B) 10 segundos <!-- feedback: Incorrecto. Esta raíz no satisface la ecuación de altura dada. -->
-- [ ] C) 8 segundos <!-- feedback: Incorrecto. No corresponde al despeje correcto de los factores lineales. -->
+- [x] C) 5 segundos <!-- feedback: ¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 4)(t - 5) = 0. La mayor raíz es 5. -->
+- [ ] A) 10 segundos <!-- feedback: Incorrecto. Esta raíz no satisface la ecuación de altura dada. -->
+- [ ] B) 8 segundos <!-- feedback: Incorrecto. No corresponde al despeje correcto de los factores lineales. -->
 - [ ] D) 0 segundos <!-- feedback: Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior. -->
 
 ### Explicacion Pedagogica
@@ -434,9 +434,9 @@ La ecuación $t^2 - 9t + 20 = 0$ se factoriza como $(t - 4)(t - 5) = 0$, lo que 
 En Villarrica, un proyectil de práctica es lanzado verticalmente. Su altura relativa en metros está modelada por la ecuación de segundo grado $h(t) = t^2 - 6t + 5 = 0$. ¿En qué instante de tiempo $t > 0$ en segundos el proyectil toca el suelo?
 
 ### Opciones
-- [x] A) 5 segundos <!-- feedback: ¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 1)(t - 5) = 0. La mayor raíz es 5. -->
-- [ ] B) 7 segundos <!-- feedback: Incorrecto. Esta raíz no satisface la ecuación de altura dada. -->
-- [ ] C) 2 segundos <!-- feedback: Incorrecto. No corresponde al despeje correcto de los factores lineales. -->
+- [x] C) 5 segundos <!-- feedback: ¡Correcto! Factorizando la ecuación cuadrática obtenemos (t - 1)(t - 5) = 0. La mayor raíz es 5. -->
+- [ ] A) 7 segundos <!-- feedback: Incorrecto. Esta raíz no satisface la ecuación de altura dada. -->
+- [ ] B) 2 segundos <!-- feedback: Incorrecto. No corresponde al despeje correcto de los factores lineales. -->
 - [ ] D) 0 segundos <!-- feedback: Incorrecto. Aunque el lanzamiento inicia en un instante temprano, se busca el tiempo de caída posterior. -->
 
 ### Explicacion Pedagogica

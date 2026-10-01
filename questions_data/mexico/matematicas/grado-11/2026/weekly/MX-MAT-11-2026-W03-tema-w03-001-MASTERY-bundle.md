@@ -30,11 +30,11 @@ creador: "Jules-Agent"
 El salón cobra una cuota fija de $1,500 pesos más $120 pesos por cada invitado. Si Mauricio dispone de un presupuesto total de $5,100 pesos, ¿cuál es el número máximo de invitados que puede registrar?
 
 ### Opciones
-- [x] A) 30 invitados
+- [x] C) 30 invitados
   <!-- feedback: ¡Correcto! Planteando la ecuación: 120x + 1500 = 5100. Restando 1500 queda 120x = 3600. Dividiendo entre 120, x = 30. -->
-- [ ] B) 42 invitados
+- [ ] A) 42 invitados
   <!-- feedback: Incorrecto. Se calculó dividiendo todo el presupuesto directamente sin restar la cuota fija. -->
-- [ ] C) 25 invitados
+- [ ] B) 25 invitados
   <!-- feedback: Incorrecto. Esta cantidad de invitados dejaría presupuesto sin utilizar habiendo espacio para más. -->
 - [ ] D) 35 invitados
   <!-- feedback: Incorrecto. Esta cantidad superaría el presupuesto total disponible por Mauricio. -->
@@ -53,11 +53,11 @@ Planteamos la ecuación lineal donde x representa el número de invitados: 120x 
 Resuelve la siguiente ecuación de primer grado para encontrar el valor de x: (2/3)x - 5 = 7.
 
 ### Opciones
-- [x] A) 18
+- [x] C) 18
   <!-- feedback: ¡Correcto! Sumando 5 en ambos lados: (2/3)x = 12. Multiplicando por 3: 2x = 36. Dividiendo entre 2: x = 18. -->
-- [ ] B) 8
+- [ ] A) 8
   <!-- feedback: Incorrecto. Se multiplicó de forma errónea por la fracción en el despeje. -->
-- [ ] C) 12
+- [ ] B) 12
   <!-- feedback: Incorrecto. Esto representaría el resultado intermedio antes de multiplicar por la inversa de la fracción. -->
 - [ ] D) 15
   <!-- feedback: Incorrecto. No se aplicaron correctamente las operaciones inversas para despejar la variable x. -->
@@ -122,11 +122,11 @@ Para resolver 4x + 4 = 2x + 14, agrupamos los términos con x en un miembro y la
 Si se cumple que 4x + 5 = 2x + 15, ¿cuál es el valor numérico de x?
 
 ### Opciones
-- [x] A) 5
+- [x] C) 5
   <!-- feedback: ¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5. -->
-- [ ] B) 10
+- [ ] A) 10
   <!-- feedback: Incorrecto. Se cometió un error al dividir los coeficientes resultantes. -->
-- [ ] C) 2
+- [ ] B) 2
   <!-- feedback: Incorrecto. No se agruparon de manera correcta los términos lineales. -->
 - [ ] D) 15
   <!-- feedback: Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas. -->
@@ -145,9 +145,9 @@ Para resolver 4x + 5 = 2x + 15, agrupamos los términos con x en un miembro y la
 Si se cumple que 4x + 6 = 2x + 16, ¿cuál es el valor numérico de x?
 
 ### Opciones
-- [x] A) 5
+- [x] B) 5
   <!-- feedback: ¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5. -->
-- [ ] B) 10
+- [ ] A) 10
   <!-- feedback: Incorrecto. Se cometió un error al dividir los coeficientes resultantes. -->
 - [ ] C) 2
   <!-- feedback: Incorrecto. No se agruparon de manera correcta los términos lineales. -->
@@ -168,11 +168,11 @@ Para resolver 4x + 6 = 2x + 16, agrupamos los términos con x en un miembro y la
 Si se cumple que 4x + 7 = 2x + 17, ¿cuál es el valor numérico de x?
 
 ### Opciones
-- [x] A) 5
+- [x] C) 5
   <!-- feedback: ¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5. -->
-- [ ] B) 10
+- [ ] A) 10
   <!-- feedback: Incorrecto. Se cometió un error al dividir los coeficientes resultantes. -->
-- [ ] C) 2
+- [ ] B) 2
   <!-- feedback: Incorrecto. No se agruparon de manera correcta los términos lineales. -->
 - [ ] D) 15
   <!-- feedback: Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas. -->
@@ -214,9 +214,9 @@ Para resolver 4x + 8 = 2x + 18, agrupamos los términos con x en un miembro y la
 Si se cumple que 4x + 9 = 2x + 19, ¿cuál es el valor numérico de x?
 
 ### Opciones
-- [x] A) 5
+- [x] B) 5
   <!-- feedback: ¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5. -->
-- [ ] B) 10
+- [ ] A) 10
   <!-- feedback: Incorrecto. Se cometió un error al dividir los coeficientes resultantes. -->
 - [ ] C) 2
   <!-- feedback: Incorrecto. No se agruparon de manera correcta los términos lineales. -->
@@ -283,9 +283,9 @@ Para resolver 4x + 11 = 2x + 21, agrupamos los términos con x en un miembro y l
 Si se cumple que 4x + 12 = 2x + 22, ¿cuál es el valor numérico de x?
 
 ### Opciones
-- [x] A) 5
+- [x] B) 5
   <!-- feedback: ¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5. -->
-- [ ] B) 10
+- [ ] A) 10
   <!-- feedback: Incorrecto. Se cometió un error al dividir los coeficientes resultantes. -->
 - [ ] C) 2
   <!-- feedback: Incorrecto. No se agruparon de manera correcta los términos lineales. -->
@@ -329,11 +329,11 @@ Para resolver 4x + 13 = 2x + 23, agrupamos los términos con x en un miembro y l
 Si se cumple que 4x + 14 = 2x + 24, ¿cuál es el valor numérico de x?
 
 ### Opciones
-- [x] A) 5
+- [x] C) 5
   <!-- feedback: ¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5. -->
-- [ ] B) 10
+- [ ] A) 10
   <!-- feedback: Incorrecto. Se cometió un error al dividir los coeficientes resultantes. -->
-- [ ] C) 2
+- [ ] B) 2
   <!-- feedback: Incorrecto. No se agruparon de manera correcta los términos lineales. -->
 - [ ] D) 15
   <!-- feedback: Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas. -->
@@ -352,13 +352,13 @@ Para resolver 4x + 14 = 2x + 24, agrupamos los términos con x en un miembro y l
 Si se cumple que 4x + 15 = 2x + 25, ¿cuál es el valor numérico de x?
 
 ### Opciones
-- [x] A) 5
+- [x] D) 5
   <!-- feedback: ¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5. -->
-- [ ] B) 10
+- [ ] A) 10
   <!-- feedback: Incorrecto. Se cometió un error al dividir los coeficientes resultantes. -->
-- [ ] C) 2
+- [ ] B) 2
   <!-- feedback: Incorrecto. No se agruparon de manera correcta los términos lineales. -->
-- [ ] D) 15
+- [ ] C) 15
   <!-- feedback: Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas. -->
 
 ### Explicacion Pedagogica
@@ -375,13 +375,13 @@ Para resolver 4x + 15 = 2x + 25, agrupamos los términos con x en un miembro y l
 Si se cumple que 4x + 16 = 2x + 26, ¿cuál es el valor numérico de x?
 
 ### Opciones
-- [x] A) 5
+- [x] D) 5
   <!-- feedback: ¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5. -->
-- [ ] B) 10
+- [ ] A) 10
   <!-- feedback: Incorrecto. Se cometió un error al dividir los coeficientes resultantes. -->
-- [ ] C) 2
+- [ ] B) 2
   <!-- feedback: Incorrecto. No se agruparon de manera correcta los términos lineales. -->
-- [ ] D) 15
+- [ ] C) 15
   <!-- feedback: Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas. -->
 
 ### Explicacion Pedagogica
@@ -398,13 +398,13 @@ Para resolver 4x + 16 = 2x + 26, agrupamos los términos con x en un miembro y l
 Si se cumple que 4x + 17 = 2x + 27, ¿cuál es el valor numérico de x?
 
 ### Opciones
-- [x] A) 5
+- [x] D) 5
   <!-- feedback: ¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5. -->
-- [ ] B) 10
+- [ ] A) 10
   <!-- feedback: Incorrecto. Se cometió un error al dividir los coeficientes resultantes. -->
-- [ ] C) 2
+- [ ] B) 2
   <!-- feedback: Incorrecto. No se agruparon de manera correcta los términos lineales. -->
-- [ ] D) 15
+- [ ] C) 15
   <!-- feedback: Incorrecto. Se sumaron las constantes de ambos lados en vez de restarlas. -->
 
 ### Explicacion Pedagogica
@@ -467,9 +467,9 @@ Para resolver 4x + 19 = 2x + 29, agrupamos los términos con x en un miembro y l
 Si se cumple que 4x + 20 = 2x + 30, ¿cuál es el valor numérico de x?
 
 ### Opciones
-- [x] A) 5
+- [x] B) 5
   <!-- feedback: ¡Correcto! Al restar 2x y restar la constante de ambos lados, simplificamos a 2x = 10, de donde x = 5. -->
-- [ ] B) 10
+- [ ] A) 10
   <!-- feedback: Incorrecto. Se cometió un error al dividir los coeficientes resultantes. -->
 - [ ] C) 2
   <!-- feedback: Incorrecto. No se agruparon de manera correcta los términos lineales. -->

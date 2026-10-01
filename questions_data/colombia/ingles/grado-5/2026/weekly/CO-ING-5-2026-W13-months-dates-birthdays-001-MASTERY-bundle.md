@@ -34,11 +34,11 @@ Months of the year, ordinal numbers, asking and giving birthdays, and Colombian 
 Which is the first month of the year?
 
 ### Opciones
-- [x] A) January.
+- [x] C) January.
   <!-- feedback: January is the first month of the year. -->
-- [ ] B) March.
+- [ ] A) March.
   <!-- feedback: March is the third month, not the first. -->
-- [ ] C) June.
+- [ ] B) June.
   <!-- feedback: June is the sixth month, not the first. -->
 - [ ] D) December.
   <!-- feedback: December is the twelfth and last month. -->
@@ -80,13 +80,13 @@ Understanding simple written information about dates and birthdays.
 Which sentence uses the ordinal number correctly?
 
 ### Opciones
-- [x] A) My birthday is on the 12th of September.
+- [x] D) My birthday is on the 12th of September.
   <!-- feedback: "12th" is the correct ordinal form for twelve. -->
-- [ ] B) My birthday is on the 12 of September.
+- [ ] A) My birthday is on the 12 of September.
   <!-- feedback: The ordinal needs "th": "12th". -->
-- [ ] C) My birthday is on September 12th of.
+- [ ] B) My birthday is on September 12th of.
   <!-- feedback: The word order is wrong; "of" must come before the month. -->
-- [ ] D) My birthday is in the 12nd of September.
+- [ ] C) My birthday is in the 12nd of September.
   <!-- feedback: "12nd" is not a correct ordinal form. -->
 
 ### Explicacion Pedagogica
@@ -126,9 +126,9 @@ Recognizing Colombian holidays and their dates in English.
 Which is the correct question?
 
 ### Opciones
-- [x] A) When is your birthday?
+- [x] B) When is your birthday?
   <!-- feedback: "When is your birthday?" is the correct way to ask for the date. -->
-- [ ] B) When your birthday is?
+- [ ] A) When your birthday is?
   <!-- feedback: The word order is incorrect; the verb "is" must come before the subject. -->
 - [ ] C) What birthday is yours?
   <!-- feedback: This is not a correct question in English. -->
@@ -149,9 +149,9 @@ Forming polite questions in English to ask about birthdays and dates.
 What is the main idea of the text?
 
 ### Opciones
-- [x] A) Colombian birthday parties usually include cake, music, and games with friends.
+- [x] B) Colombian birthday parties usually include cake, music, and games with friends.
   <!-- feedback: The text describes how families celebrate birthdays in Colombia. -->
-- [ ] B) Birthdays in Colombia are never celebrated with friends.
+- [ ] A) Birthdays in Colombia are never celebrated with friends.
   <!-- feedback: The text says children usually invite their friends. -->
 - [ ] C) Only adults celebrate birthdays in Colombia.
   <!-- feedback: The text mentions children celebrating and playing games. -->
@@ -172,13 +172,13 @@ Analyzing a short paragraph in English to identify its main idea.
 Why do the two sentences use different prepositions?
 
 ### Opciones
-- [x] A) "In" is used with months and "on" with specific dates.
+- [x] D) "In" is used with months and "on" with specific dates.
   <!-- feedback: We say "in December" for the month and "on December 5th" for a date. -->
-- [ ] B) "On" is used with months and "in" with specific dates.
+- [ ] A) "On" is used with months and "in" with specific dates.
   <!-- feedback: It is the opposite: "in" goes with months and "on" with dates. -->
-- [ ] C) Both prepositions can be exchanged without changing meaning.
+- [ ] B) Both prepositions can be exchanged without changing meaning.
   <!-- feedback: The prepositions are not interchangeable here. -->
-- [ ] D) Months never take a preposition in English.
+- [ ] C) Months never take a preposition in English.
   <!-- feedback: Months do take the preposition "in". -->
 
 ### Explicacion Pedagogica
@@ -195,9 +195,9 @@ Analyzing the correct use of the prepositions "in" and "on" with months and date
 Based on the text, which statement is true?
 
 ### Opciones
-- [x] A) Maria's birthday comes after the concert but before the football game.
+- [x] B) Maria's birthday comes after the concert but before the football game.
   <!-- feedback: October 9th is after October 7th and before October 12th. -->
-- [ ] B) Maria's birthday is before the concert.
+- [ ] A) Maria's birthday is before the concert.
   <!-- feedback: October 9th is after the concert on October 7th. -->
 - [ ] C) Maria's birthday is after the football game.
   <!-- feedback: October 9th is before the game on October 12th. -->

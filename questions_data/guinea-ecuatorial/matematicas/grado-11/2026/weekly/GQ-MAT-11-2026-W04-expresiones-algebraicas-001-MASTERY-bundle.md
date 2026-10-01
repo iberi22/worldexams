@@ -49,9 +49,9 @@ En la expresion algebraica $3x^4 - 5x^2 + 7$, ¿cual es el grado del polinomio?
 
 ### Opciones
 - [ ] A) 2 <!-- feedback: El 2 es el exponente de uno de los terminos, pero no es el mayor. -->
-- [x] B) 4 <!-- feedback: ¡Correcto! El grado de un polinomio es el mayor de los exponentes de su variable. -->
-- [ ] C) 3 <!-- feedback: El 3 es el coeficiente principal, no el exponente. -->
-- [ ] D) 7 <!-- feedback: El 7 es el termino independiente, no el grado. -->
+- [x] D) 4 <!-- feedback: ¡Correcto! El grado de un polinomio es el mayor de los exponentes de su variable. -->
+- [ ] B) 3 <!-- feedback: El 3 es el coeficiente principal, no el exponente. -->
+- [ ] C) 7 <!-- feedback: El 7 es el termino independiente, no el grado. -->
 
 ### Explicacion Pedagogica
 El grado de un polinomio de una sola variable es el mayor exponente al que esta elevada dicha variable. Determina el comportamiento de la funcion y el numero maximo de raices que puede tener.
@@ -69,8 +69,8 @@ El grado de un polinomio de una sola variable es el mayor exponente al que esta 
 ### Opciones
 - [ ] A) Que tengan el mismo coeficiente numerico. <!-- feedback: Los coeficientes pueden ser distintos; lo que importa es la parte literal. -->
 - [ ] B) Que tengan el mismo numero de variables. <!-- feedback: No basta con el numero de variables, deben ser exactamente las mismas con los mismos exponentes. -->
-- [x] C) Que sean terminos semejantes (misma parte literal con mismos exponentes). <!-- feedback: ¡Correcto! Solo los terminos semejantes pueden combinarse mediante suma o resta. -->
-- [ ] D) Que ambos terminos sean positivos. <!-- feedback: Se pueden sumar terminos positivos con negativos sin problemas. -->
+- [x] D) Que sean terminos semejantes (misma parte literal con mismos exponentes). <!-- feedback: ¡Correcto! Solo los terminos semejantes pueden combinarse mediante suma o resta. -->
+- [ ] C) Que ambos terminos sean positivos. <!-- feedback: Se pueden sumar terminos positivos con negativos sin problemas. -->
 
 ### Explicacion Pedagogica
 La reduccion de terminos semejantes es la operacion base para simplificar expresiones algebraicas. Se basa en la propiedad distributiva: $ax^n + bx^n = (a + b)x^n$.
@@ -87,9 +87,9 @@ La reduccion de terminos semejantes es la operacion base para simplificar expres
 
 ### Opciones
 - [ ] A) 5 <!-- feedback: Error en el calculo de los terminos. -->
-- [x] B) 7 <!-- feedback: ¡Correcto! $2(2^2) - 3(2) + 5 = 2(4) - 6 + 5 = 8 - 6 + 5 = 7$. -->
-- [ ] C) 9 <!-- feedback: Error al realizar la suma y resta final. -->
-- [ ] D) 11 <!-- feedback: Error al elevar al cuadrado o multiplicar. -->
+- [x] D) 7 <!-- feedback: ¡Correcto! $2(2^2) - 3(2) + 5 = 2(4) - 6 + 5 = 8 - 6 + 5 = 7$. -->
+- [ ] B) 9 <!-- feedback: Error al realizar la suma y resta final. -->
+- [ ] C) 11 <!-- feedback: Error al elevar al cuadrado o multiplicar. -->
 
 ### Explicacion Pedagogica
 El valor numerico de una expresion algebraica se obtiene al sustituir las variables por numeros especificos y realizar las operaciones indicadas respetando la jerarquia de las mismas.
@@ -105,8 +105,8 @@ El valor numerico de una expresion algebraica se obtiene al sustituir las variab
 ¿A que es igual el desarrollo del binomio al cuadrado $(a + b)^2$?
 
 ### Opciones
-- [ ] A) $a^2 + b^2$ <!-- feedback: Falta el termino intermedio (el doble producto). Este es un error comun. -->
-- [x] B) $a^2 + 2ab + b^2$ <!-- feedback: ¡Correcto! El cuadrado de un binomio es igual al cuadrado del primero, mas el doble del primero por el segundo, mas el cuadrado del segundo. -->
+- [ ] B) $a^2 + b^2$ <!-- feedback: Falta el termino intermedio (el doble producto). Este es un error comun. -->
+- [x] A) $a^2 + 2ab + b^2$ <!-- feedback: ¡Correcto! El cuadrado de un binomio es igual al cuadrado del primero, mas el doble del primero por el segundo, mas el cuadrado del segundo. -->
 - [ ] C) $a^2 - 2ab + b^2$ <!-- feedback: Este seria el desarrollo de $(a - b)^2$. -->
 - [ ] D) $2a + 2b$ <!-- feedback: Esto es simplemente multiplicar el binomio por 2, no elevarlo al cuadrado. -->
 
@@ -125,9 +125,9 @@ Simplifica la expresion $(x + 5)(x - 5)$ utilizando la propiedad de producto de 
 
 ### Opciones
 - [ ] A) $x^2 + 25$ <!-- feedback: En una diferencia de cuadrados el signo entre los terminos debe ser negativo. -->
-- [x] B) $x^2 - 25$ <!-- feedback: ¡Correcto! El producto de una suma por una diferencia es igual a la diferencia de los cuadrados. -->
-- [ ] C) $x^2 - 10x + 25$ <!-- feedback: Este seria el desarrollo de $(x - 5)^2$. -->
-- [ ] D) $2x - 10$ <!-- feedback: Error total en la operacion algebraica. -->
+- [x] D) $x^2 - 25$ <!-- feedback: ¡Correcto! El producto de una suma por una diferencia es igual a la diferencia de los cuadrados. -->
+- [ ] B) $x^2 - 10x + 25$ <!-- feedback: Este seria el desarrollo de $(x - 5)^2$. -->
+- [ ] C) $2x - 10$ <!-- feedback: Error total en la operacion algebraica. -->
 
 ### Explicacion Pedagogica
 La formula $(a + b)(a - b) = a^2 - b^2$ se conoce como diferencia de cuadrados. Es extremadamente util en la factorizacion de expresiones y en la simplificacion de calculos geometricos.
@@ -144,9 +144,9 @@ La formula $(a + b)(a - b) = a^2 - b^2$ se conoce como diferencia de cuadrados. 
 
 ### Opciones
 - [ ] A) $3x^2 - 4x^2$ <!-- feedback: El segundo termino tambien debe dividirse por 2x. -->
-- [x] B) $3x^2 - 2x$ <!-- feedback: ¡Correcto! Se divide cada termino del numerador entre el monomio del denominador. -->
-- [ ] C) $3x^3 - 2x^2$ <!-- feedback: Al dividir potencias de la misma base, se restan los exponentes ($x^3/x = x^2$). -->
-- [ ] D) $4x^2 - 2x$ <!-- feedback: Error al dividir el primer coeficiente ($6/2 = 3$). -->
+- [x] D) $3x^2 - 2x$ <!-- feedback: ¡Correcto! Se divide cada termino del numerador entre el monomio del denominador. -->
+- [ ] B) $3x^3 - 2x^2$ <!-- feedback: Al dividir potencias de la misma base, se restan los exponentes ($x^3/x = x^2$). -->
+- [ ] C) $4x^2 - 2x$ <!-- feedback: Error al dividir el primer coeficiente ($6/2 = 3$). -->
 
 ### Explicacion Pedagogica
 Para dividir un polinomio por un monomio, aplicamos la propiedad distributiva de la division respecto a la suma/resta, dividiendo cada termino del polinomio individualmente y aplicando las leyes de los exponentes.
@@ -162,9 +162,9 @@ Para dividir un polinomio por un monomio, aplicamos la propiedad distributiva de
 ¿Cual es el resultado de aplicar la propiedad distributiva a $5(x^2 - 2x + 1)$?
 
 ### Opciones
-- [ ] A) $5x^2 - 2x + 1$ <!-- feedback: El factor 5 debe multiplicar a todos los terminos del polinomio. -->
-- [ ] B) $5x^2 - 10x + 1$ <!-- feedback: Falta multiplicar el termino independiente (1) por 5. -->
-- [x] C) $5x^2 - 10x + 5$ <!-- feedback: ¡Correcto! El 5 se distribuye sobre cada uno de los tres terminos. -->
+- [ ] B) $5x^2 - 2x + 1$ <!-- feedback: El factor 5 debe multiplicar a todos los terminos del polinomio. -->
+- [ ] C) $5x^2 - 10x + 1$ <!-- feedback: Falta multiplicar el termino independiente (1) por 5. -->
+- [x] A) $5x^2 - 10x + 5$ <!-- feedback: ¡Correcto! El 5 se distribuye sobre cada uno de los tres terminos. -->
 - [ ] D) $5x^2 + 10x + 5$ <!-- feedback: Se ha cambiado el signo negativo del termino central incorrectamente. -->
 
 ### Explicacion Pedagogica
@@ -182,8 +182,8 @@ Si sumamos $(2x + 3)$ y $(3x - 5)$, ¿que expresion obtenemos?
 
 ### Opciones
 - [ ] A) $5x + 8$ <!-- feedback: Error al operar los terminos independientes (+3 - 5 = -2). -->
-- [x] B) $5x - 2$ <!-- feedback: ¡Correcto! Sumamos las x ($2x+3x=5x$) y los numeros ($3-5=-2$). -->
-- [ ] C) $6x^2 - 15$ <!-- feedback: Se han multiplicado los terminos en lugar de sumarlos. -->
+- [x] C) $5x - 2$ <!-- feedback: ¡Correcto! Sumamos las x ($2x+3x=5x$) y los numeros ($3-5=-2$). -->
+- [ ] B) $6x^2 - 15$ <!-- feedback: Se han multiplicado los terminos en lugar de sumarlos. -->
 - [ ] D) $5x^2 - 2$ <!-- feedback: Al sumar terminos semejantes, los exponentes de las variables no cambian. -->
 
 ### Explicacion Pedagogica
@@ -219,8 +219,8 @@ El termino independiente de un polinomio es el valor constante que no depende de
 ¿Cual es la factorizacion correcta del trinomio $x^2 - 7x + 10$?
 
 ### Opciones
-- [ ] A) $(x - 10)(x - 1)$ <!-- feedback: Esto daria x^2 - 11x + 10. -->
-- [x] B) $(x - 5)(x - 2)$ <!-- feedback: ¡Correcto! -5 y -2 multiplicados dan +10 y sumados dan -7. -->
+- [ ] B) $(x - 10)(x - 1)$ <!-- feedback: Esto daria x^2 - 11x + 10. -->
+- [x] A) $(x - 5)(x - 2)$ <!-- feedback: ¡Correcto! -5 y -2 multiplicados dan +10 y sumados dan -7. -->
 - [ ] C) $(x + 5)(x + 2)$ <!-- feedback: Esto daria un termino central positivo (+7x). -->
 - [ ] D) $(x - 7)(x + 10)$ <!-- feedback: Esta no es la estructura correcta para un trinomio de este tipo. -->
 
@@ -238,8 +238,8 @@ Para factorizar un trinomio de la forma $x^2 + bx + c$, buscamos dos numeros que
 Simplifica la expresion $\frac{x^2 - 9}{x + 3}$.
 
 ### Opciones
-- [ ] A) $x + 3$ <!-- feedback: Solo seria x+3 si el numerador fuera (x+3)^2. -->
-- [x] B) $x - 3$ <!-- feedback: ¡Correcto! El numerador es una diferencia de cuadrados $(x+3)(x-3)$, y el factor $(x+3)$ se cancela. -->
+- [ ] B) $x + 3$ <!-- feedback: Solo seria x+3 si el numerador fuera (x+3)^2. -->
+- [x] A) $x - 3$ <!-- feedback: ¡Correcto! El numerador es una diferencia de cuadrados $(x+3)(x-3)$, y el factor $(x+3)$ se cancela. -->
 - [ ] C) $x^2 - 3$ <!-- feedback: No se pueden simplificar terminos sueltos de una suma con el denominador. -->
 - [ ] D) $x - 9$ <!-- feedback: Error al realizar la division de los terminos. -->
 
@@ -257,9 +257,9 @@ La simplificacion de fracciones algebraicas requiere factorizar primero tanto el
 ¿Cual es la expresion simplificada del perimetro total?
 
 ### Opciones
-- [ ] A) $3x - 3$ <!-- feedback: Error al no multiplicar por 3 los primeros lados. -->
-- [ ] B) $6x + 3$ <!-- feedback: Falta sumar el cuarto lado. -->
-- [x] C) $7x - 1$ <!-- feedback: ¡Correcto! $3(2x + 1) + (x - 4) = 6x + 3 + x - 4 = 7x - 1$. -->
+- [ ] B) $3x - 3$ <!-- feedback: Error al no multiplicar por 3 los primeros lados. -->
+- [ ] C) $6x + 3$ <!-- feedback: Falta sumar el cuarto lado. -->
+- [x] A) $7x - 1$ <!-- feedback: ¡Correcto! $3(2x + 1) + (x - 4) = 6x + 3 + x - 4 = 7x - 1$. -->
 - [ ] D) $7x + 7$ <!-- feedback: Error en el manejo de los terminos independientes (+3 - 4 = -1). -->
 
 ### Explicacion Pedagogica
@@ -277,8 +277,8 @@ Este problema requiere modelar una situacion real mediante una expresion algebra
 
 ### Opciones
 - [ ] A) $2x^2 - 12$ <!-- feedback: Falta el termino central que resulta de las multiplicaciones cruzadas. -->
-- [x] B) $2x^2 - 5x - 12$ <!-- feedback: ¡Correcto! $2x^2 - 8x + 3x - 12 = 2x^2 - 5x - 12$. -->
-- [ ] C) $2x^2 + 5x - 12$ <!-- feedback: Error en el signo del termino central (-8x + 3x es -5x). -->
+- [x] C) $2x^2 - 5x - 12$ <!-- feedback: ¡Correcto! $2x^2 - 8x + 3x - 12 = 2x^2 - 5x - 12$. -->
+- [ ] B) $2x^2 + 5x - 12$ <!-- feedback: Error en el signo del termino central (-8x + 3x es -5x). -->
 - [ ] D) $x^2 - 5x - 12$ <!-- feedback: El primer coeficiente debe ser 2 (2x * x). -->
 
 ### Explicacion Pedagogica
@@ -295,8 +295,8 @@ La multiplicacion de polinomios se basa en la propiedad distributiva aplicada de
 ¿Cual es la factorizacion completa de $ax + ay + bx + by$?
 
 ### Opciones
-- [ ] A) $a(x + y) + b(x + y)$ <!-- feedback: Esta es una factorizacion parcial correcta, pero se puede simplificar mas. -->
-- [x] B) $(a + b)(x + y)$ <!-- feedback: ¡Correcto! Agrupando (ax+ay) y (bx+by), extraemos factores comunes y luego el parentesis comun. -->
+- [ ] B) $a(x + y) + b(x + y)$ <!-- feedback: Esta es una factorizacion parcial correcta, pero se puede simplificar mas. -->
+- [x] A) $(a + b)(x + y)$ <!-- feedback: ¡Correcto! Agrupando (ax+ay) y (bx+by), extraemos factores comunes y luego el parentesis comun. -->
 - [ ] C) $ab(x + y)$ <!-- feedback: Error al combinar los coeficientes a y b. -->
 - [ ] D) $(ax + by)(ay + bx)$ <!-- feedback: Esta expansion no coincide con la expresion original. -->
 
@@ -314,9 +314,9 @@ La factorizacion por agrupacion se aplica cuando no hay un factor comun a todos 
 ¿Cual es el primer termino del desarrollo de $(x + 1 + y)^2$ segun las reglas de expansion de polinomios?
 
 ### Opciones
-- [x] A) $x^2$ <!-- feedback: ¡Correcto! Al elevar al cuadrado un polinomio, el primer paso incluye elevar cada termino individual al cuadrado. -->
-- [ ] B) $2x$ <!-- feedback: Este seria un termino de doble producto, no el primero. -->
-- [ ] C) $x^2 + 1 + y^2$ <!-- feedback: Esto solo seria una parte de la expansion total. -->
+- [x] C) $x^2$ <!-- feedback: ¡Correcto! Al elevar al cuadrado un polinomio, el primer paso incluye elevar cada termino individual al cuadrado. -->
+- [ ] A) $2x$ <!-- feedback: Este seria un termino de doble producto, no el primero. -->
+- [ ] B) $x^2 + 1 + y^2$ <!-- feedback: Esto solo seria una parte de la expansion total. -->
 - [ ] D) $x+y+1$ <!-- feedback: Elevar al cuadrado cambia los grados de los terminos. -->
 
 ### Explicacion Pedagogica
@@ -334,8 +334,8 @@ La expansion de un multinomio al cuadrado sigue el patron: la suma de los cuadra
 
 ### Opciones
 - [ ] A) $(x - y)^3$ <!-- feedback: El cubo de una resta no es igual a la resta de los cubos (faltan terminos intermedios). -->
-- [x] B) $(x - y)(x^2 + xy + y^2)$ <!-- feedback: ¡Correcto! Esta es la formula notable para la diferencia de cubos. -->
-- [ ] C) $(x - y)(x^2 - xy + y^2)$ <!-- feedback: Esta formula es incorrecta; el signo central del segundo factor debe ser positivo. -->
+- [x] C) $(x - y)(x^2 + xy + y^2)$ <!-- feedback: ¡Correcto! Esta es la formula notable para la diferencia de cubos. -->
+- [ ] B) $(x - y)(x^2 - xy + y^2)$ <!-- feedback: Esta formula es incorrecta; el signo central del segundo factor debe ser positivo. -->
 - [ ] D) $(x + y)(x^2 - xy + y^2)$ <!-- feedback: Esta es la factorizacion de la suma de cubos ($x^3 + y^3$). -->
 
 ### Explicacion Pedagogica
@@ -353,8 +353,8 @@ La factorizacion de suma y diferencia de cubos es una herramienta avanzada que p
 
 ### Opciones
 - [ ] A) 10 <!-- feedback: Se debe sumar el cuadrado de la mitad del coeficiente de x. -->
-- [ ] B) 100 <!-- feedback: Este es el cuadrado de 10, pero falta dividir por 2 primero. -->
-- [x] C) 25 <!-- feedback: ¡Correcto! La mitad de 10 es 5, y 5 al cuadrado es 25. La expresion queda $(x + 5)^2$. -->
+- [ ] C) 100 <!-- feedback: Este es el cuadrado de 10, pero falta dividir por 2 primero. -->
+- [x] B) 25 <!-- feedback: ¡Correcto! La mitad de 10 es 5, y 5 al cuadrado es 25. La expresion queda $(x + 5)^2$. -->
 - [ ] D) 5 <!-- feedback: 5 es la mitad de 10, pero hay que elevarlo al cuadrado. -->
 
 ### Explicacion Pedagogica
@@ -372,8 +372,8 @@ Factoriza completamente la expresion $5x^2 + 20x + 15$ para encontrar una forma 
 
 ### Opciones
 - [ ] A) $(5x + 5)(x + 3)$ <!-- feedback: Aunque es una factorizacion parcial correcta, se puede extraer un factor comun mas grande. -->
-- [x] B) $5(x + 1)(x + 3)$ <!-- feedback: ¡Correcto! Extrayendo el factor comun 5 queda $x^2 + 4x + 3$, que se factoriza como $(x+1)(x+3)$. -->
-- [ ] C) $5(x^2 + 4x + 15)$ <!-- feedback: Error al no dividir el termino independiente (15) por el factor comun (5). -->
+- [x] C) $5(x + 1)(x + 3)$ <!-- feedback: ¡Correcto! Extrayendo el factor comun 5 queda $x^2 + 4x + 3$, que se factoriza como $(x+1)(x+3)$. -->
+- [ ] B) $5(x^2 + 4x + 15)$ <!-- feedback: Error al no dividir el termino independiente (15) por el factor comun (5). -->
 - [ ] D) $5(x + 2)^2$ <!-- feedback: El desarrollo de esto daria $5x^2 + 20x + 20$, no termina en 15. -->
 
 ### Explicacion Pedagogica
@@ -391,8 +391,8 @@ La factorizacion completa implica primero buscar el Maximo Comun Factor (MCF) de
 
 ### Opciones
 - [ ] A) 1 <!-- feedback: El teorema del resto dice que el resto es P(a). P(1) = 1^100 - 1 = 0. -->
-- [x] B) 0 <!-- feedback: ¡Correcto! $P(1) = 1^{100} - 1 = 1 - 1 = 0$. Esto indica que x-1 es un factor de P(x). -->
-- [ ] C) -1 <!-- feedback: Error al evaluar el polinomio en x = 1. -->
+- [x] C) 0 <!-- feedback: ¡Correcto! $P(1) = 1^{100} - 1 = 1 - 1 = 0$. Esto indica que x-1 es un factor de P(x). -->
+- [ ] B) -1 <!-- feedback: Error al evaluar el polinomio en x = 1. -->
 - [ ] D) 99 <!-- feedback: El teorema del resto no tiene relacion directa con los exponentes de esta forma. -->
 
 ### Explicacion Pedagogica

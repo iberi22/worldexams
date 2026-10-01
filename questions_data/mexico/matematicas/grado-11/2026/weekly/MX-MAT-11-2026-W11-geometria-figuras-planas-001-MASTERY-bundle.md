@@ -33,8 +33,8 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) $S = 180(n + 2)$ <!-- feedback: Esta fórmula aumentaría la suma en lugar de disminuirla proporcionalmente a los triángulos formados. -->
-- [x] B) $S = 180(n - 2)$ <!-- feedback: Correcto. La suma de los ángulos internos se basa en que un polígono de n lados se puede dividir en (n-2) triángulos. -->
-- [ ] C) $S = 360(n - 2)$ <!-- feedback: El factor multiplicativo es 180 grados, que es la suma de los ángulos de un triángulo, no 360. -->
+- [x] C) $S = 180(n - 2)$ <!-- feedback: Correcto. La suma de los ángulos internos se basa en que un polígono de n lados se puede dividir en (n-2) triángulos. -->
+- [ ] B) $S = 360(n - 2)$ <!-- feedback: El factor multiplicativo es 180 grados, que es la suma de los ángulos de un triángulo, no 360. -->
 - [ ] D) $S = 180n$ <!-- feedback: Esta fórmula no resta los dos triángulos que no se forman desde un solo vértice. -->
 
 ### Explicacion Pedagogica
@@ -75,9 +75,9 @@ Si el diámetro de un círculo se duplica, ¿qué sucede con su circunferencia?
 
 ### Opciones
 - [ ] A) Se cuadruplica <!-- feedback: La circunferencia es lineal respecto al diámetro (C = πd), no cuadrática. -->
-- [x] B) Se duplica <!-- feedback: Correcto. Como C = πd, si d se convierte en 2d, la nueva circunferencia es π(2d) = 2(πd), es decir, el doble. -->
-- [ ] C) Permanece igual <!-- feedback: La circunferencia depende directamente de la medida del diámetro. -->
-- [ ] D) Aumenta en un factor de π <!-- feedback: π es la constante de proporcionalidad, pero el factor de cambio es el mismo que el del diámetro. -->
+- [x] D) Se duplica <!-- feedback: Correcto. Como C = πd, si d se convierte en 2d, la nueva circunferencia es π(2d) = 2(πd), es decir, el doble. -->
+- [ ] B) Permanece igual <!-- feedback: La circunferencia depende directamente de la medida del diámetro. -->
+- [ ] C) Aumenta en un factor de π <!-- feedback: π es la constante de proporcionalidad, pero el factor de cambio es el mismo que el del diámetro. -->
 
 ### Explicacion Pedagogica
 La circunferencia de un círculo es directamente proporcional a su diámetro ($C = \pi d$). Al ser una relación lineal, cualquier factor de escala aplicado al diámetro se aplicará de la misma forma a la circunferencia.
@@ -138,8 +138,8 @@ El trapecio tiene bases de 10 cm y 18 cm, y una altura de 6 cm. ¿Cuál es su á
 
 ### Opciones
 - [ ] A) $168\text{ cm}^2$ <!-- feedback: Multiplicaste la suma de las bases por la altura sin dividir entre dos. -->
-- [x] B) $84\text{ cm}^2$ <!-- feedback: Correcto. Área = [(B + b) × h] / 2 = [(18 + 10) × 6] / 2 = (28 × 6) / 2 = 84. -->
-- [ ] C) $60\text{ cm}^2$ <!-- feedback: Solo consideraste una de las bases para el cálculo. -->
+- [x] C) $84\text{ cm}^2$ <!-- feedback: Correcto. Área = [(B + b) × h] / 2 = [(18 + 10) × 6] / 2 = (28 × 6) / 2 = 84. -->
+- [ ] B) $60\text{ cm}^2$ <!-- feedback: Solo consideraste una de las bases para el cálculo. -->
 - [ ] D) $42\text{ cm}^2$ <!-- feedback: Dividiste el resultado correcto entre dos nuevamente. -->
 
 ### Explicacion Pedagogica
@@ -160,8 +160,8 @@ Si el diámetro de la glorieta es de 12 metros, ¿cuál es su área aproximada? 
 ### Opciones
 - [ ] A) $37.68\text{ m}^2$ <!-- feedback: Este valor corresponde a la circunferencia, no al área. -->
 - [ ] B) $452.16\text{ m}^2$ <!-- feedback: Usaste el diámetro en lugar del radio en la fórmula del área (πd²). -->
-- [x] C) $113.04\text{ m}^2$ <!-- feedback: Correcto. El radio es 6 m. Área = πr² = 3.14 × (6)² = 3.14 × 36 = 113.04. -->
-- [ ] D) $18.84\text{ m}^2$ <!-- feedback: Este es el valor del radio multiplicado por π, lo cual es incorrecto. -->
+- [x] D) $113.04\text{ m}^2$ <!-- feedback: Correcto. El radio es 6 m. Área = πr² = 3.14 × (6)² = 3.14 × 36 = 113.04. -->
+- [ ] C) $18.84\text{ m}^2$ <!-- feedback: Este es el valor del radio multiplicado por π, lo cual es incorrecto. -->
 
 ### Explicacion Pedagogica
 Para calcular el área de un círculo ($A = \pi r^2$), primero identificamos el radio, que es la mitad del diámetro ($12 / 2 = 6\text{ m}$). Aplicamos la fórmula: $A = 3.14 \cdot (6)^2 = 3.14 \cdot 36 = 113.04\text{ m}^2$.
@@ -180,8 +180,8 @@ Si las diagonales del rombo miden 16 cm y 12 cm, ¿cuál es el área de la super
 
 ### Opciones
 - [ ] A) $192\text{ cm}^2$ <!-- feedback: Multiplicaste las diagonales pero olvidaste dividir entre dos. -->
-- [x] B) $96\text{ cm}^2$ <!-- feedback: Correcto. Área = (D × d) / 2 = (16 × 12) / 2 = 192 / 2 = 96. -->
-- [ ] C) $28\text{ cm}^2$ <!-- feedback: Sumaste las diagonales en lugar de multiplicarlas. -->
+- [x] C) $96\text{ cm}^2$ <!-- feedback: Correcto. Área = (D × d) / 2 = (16 × 12) / 2 = 192 / 2 = 96. -->
+- [ ] B) $28\text{ cm}^2$ <!-- feedback: Sumaste las diagonales en lugar de multiplicarlas. -->
 - [ ] D) $56\text{ cm}^2$ <!-- feedback: Sumaste las diagonales y multiplicaste por dos, lo cual no corresponde al área. -->
 
 ### Explicacion Pedagogica
@@ -200,9 +200,9 @@ El área de un rombo se calcula multiplicando su diagonal mayor ($D$) por su dia
 ¿Cuál es la medida de cada ángulo interno de un hexágono regular?
 
 ### Opciones
-- [ ] A) $90^{\circ}$ <!-- feedback: Este es el ángulo de un cuadrado. -->
-- [ ] B) $108^{\circ}$ <!-- feedback: Este es el ángulo interno de un pentágono regular. -->
-- [x] C) $120^{\circ}$ <!-- feedback: Correcto. Suma = 180(6-2) = 720. Cada ángulo = 720 / 6 = 120. -->
+- [ ] B) $90^{\circ}$ <!-- feedback: Este es el ángulo de un cuadrado. -->
+- [ ] C) $108^{\circ}$ <!-- feedback: Este es el ángulo interno de un pentágono regular. -->
+- [x] A) $120^{\circ}$ <!-- feedback: Correcto. Suma = 180(6-2) = 720. Cada ángulo = 720 / 6 = 120. -->
 - [ ] D) $140^{\circ}$ <!-- feedback: Este valor no corresponde a un hexágono regular. -->
 
 ### Explicacion Pedagogica
@@ -222,9 +222,9 @@ Calcula el área de un sector circular cuyo radio mide 10 cm y cuyo ángulo cent
 
 ### Opciones
 - [ ] A) $31.4\text{ cm}^2$ <!-- feedback: Este valor se obtiene al no elevar el radio al cuadrado en la fórmula. -->
-- [x] B) $52.33\text{ cm}^2$ <!-- feedback: Correcto. Área = (πr² × θ) / 360 = (3.14 × 100 × 60) / 360 = 314 / 6 ≈ 52.33. -->
-- [ ] C) $104.66\text{ cm}^2$ <!-- feedback: Este valor es el doble del área del sector solicitado. -->
-- [ ] D) $314\text{ cm}^2$ <!-- feedback: Este es el área del círculo completo, no solo del sector de 60 grados. -->
+- [x] D) $52.33\text{ cm}^2$ <!-- feedback: Correcto. Área = (πr² × θ) / 360 = (3.14 × 100 × 60) / 360 = 314 / 6 ≈ 52.33. -->
+- [ ] B) $104.66\text{ cm}^2$ <!-- feedback: Este valor es el doble del área del sector solicitado. -->
+- [ ] C) $314\text{ cm}^2$ <!-- feedback: Este es el área del círculo completo, no solo del sector de 60 grados. -->
 
 ### Explicacion Pedagogica
 El área de un sector circular es una fracción del área total del círculo, proporcional al ángulo central: $A = \frac{\pi r^2 \theta}{360}$. Para $r=10$ y $\theta=60$: $A = \frac{3.14 \cdot 100 \cdot 60}{360} = \frac{314}{6} \approx 52.33\text{ cm}^2$.
@@ -243,8 +243,8 @@ El rectángulo central mide 80 m de largo y 40 m de ancho. Si los semicírculos 
 
 ### Opciones
 - [ ] A) $3,200\text{ m}^2$ <!-- feedback: Solo calculaste el área del rectángulo central. -->
-- [ ] B) $3,828\text{ m}^2$ <!-- feedback: Calculaste el área de un solo semicírculo en lugar de dos. -->
-- [x] C) $4,456\text{ m}^2$ <!-- feedback: Correcto. Área rect = 80×40 = 3200. Área 2 semicirc (1 círculo) = π(20)² = 1256. Total = 3200 + 1256 = 4456. -->
+- [ ] C) $3,828\text{ m}^2$ <!-- feedback: Calculaste el área de un solo semicírculo en lugar de dos. -->
+- [x] B) $4,456\text{ m}^2$ <!-- feedback: Correcto. Área rect = 80×40 = 3200. Área 2 semicirc (1 círculo) = π(20)² = 1256. Total = 3200 + 1256 = 4456. -->
 - [ ] D) $8,224\text{ m}^2$ <!-- feedback: Usaste el diámetro en lugar del radio para el área de los semicírculos. -->
 
 ### Explicacion Pedagogica
@@ -263,8 +263,8 @@ La pista se compone de un rectángulo ($80 \cdot 40 = 3,200\text{ m}^2$) y dos s
 ¿Cuál es el área de la región del círculo que queda fuera del cuadrado? (Considera $\pi \approx 3.14$)
 
 ### Opciones
-- [ ] A) $25.0\text{ cm}^2$ <!-- feedback: Este es el valor del área de un triángulo formado por el radio y el lado del cuadrado, no la región buscada. -->
-- [x] B) $28.5\text{ cm}^2$ <!-- feedback: Correcto. Área círculo = 78.5. El lado del cuadrado es s = 5√2, s² = 50. Diferencia = 78.5 - 50 = 28.5. -->
+- [ ] B) $25.0\text{ cm}^2$ <!-- feedback: Este es el valor del área de un triángulo formado por el radio y el lado del cuadrado, no la región buscada. -->
+- [x] A) $28.5\text{ cm}^2$ <!-- feedback: Correcto. Área círculo = 78.5. El lado del cuadrado es s = 5√2, s² = 50. Diferencia = 78.5 - 50 = 28.5. -->
 - [ ] C) $53.5\text{ cm}^2$ <!-- feedback: Restaste incorrectamente el área del cuadrado o calculaste mal su lado. -->
 - [ ] D) $18.5\text{ cm}^2$ <!-- feedback: Valor incorrecto producto de un error en el cálculo del área del cuadrado. -->
 
@@ -284,8 +284,8 @@ El círculo tiene área $A_c = \pi(5)^2 = 78.5\text{ cm}^2$. Para el cuadrado in
 ¿Cuál es la altura de dicho triángulo equilátero si su base pasa por un punto que está a una distancia igual al radio desde el vértice superior (es decir, el centro del círculo)?
 
 ### Opciones
-- [ ] A) $4\text{ cm}$ <!-- feedback: Esta es solo la distancia del centro al vértice, falta la distancia del centro a la base. -->
-- [x] B) $6\text{ cm}$ <!-- feedback: Correcto. En un triángulo equilátero inscrito, el centro divide a la altura en relación 2:1. Altura = R + R/2 = 4 + 2 = 6. -->
+- [ ] B) $4\text{ cm}$ <!-- feedback: Esta es solo la distancia del centro al vértice, falta la distancia del centro a la base. -->
+- [x] A) $6\text{ cm}$ <!-- feedback: Correcto. En un triángulo equilátero inscrito, el centro divide a la altura en relación 2:1. Altura = R + R/2 = 4 + 2 = 6. -->
 - [ ] C) $8\text{ cm}$ <!-- feedback: Esta medida corresponde al diámetro del círculo, no a la altura del triángulo. -->
 - [ ] D) $4\sqrt{3}\text{ cm}$ <!-- feedback: Este es el valor de un lado del triángulo, no su altura. -->
 
@@ -306,9 +306,9 @@ Si para formar el octágono se cortan los cuatro rincones del cuadrado (triángu
 
 ### Opciones
 - [ ] A) $40\text{ cm}$ <!-- feedback: Este es el perímetro del cuadrado original. -->
-- [x] B) $33.12\text{ cm}$ <!-- feedback: Correcto. Un octágono regular tiene 8 lados iguales. Perímetro = 8 × 4.14 = 33.12. -->
-- [ ] C) $16.56\text{ cm}$ <!-- feedback: Dividiste el perímetro correcto entre dos. -->
-- [ ] D) $41.4\text{ cm}$ <!-- feedback: Multiplicaste por 10 en lugar de por 8. -->
+- [x] D) $33.12\text{ cm}$ <!-- feedback: Correcto. Un octágono regular tiene 8 lados iguales. Perímetro = 8 × 4.14 = 33.12. -->
+- [ ] B) $16.56\text{ cm}$ <!-- feedback: Dividiste el perímetro correcto entre dos. -->
+- [ ] C) $41.4\text{ cm}$ <!-- feedback: Multiplicaste por 10 en lugar de por 8. -->
 
 ### Explicacion Pedagogica
 Un octágono regular posee ocho lados de igual longitud. Dado que se especifica que el lado mide $4.14\text{ cm}$, el perímetro se calcula simplemente multiplicando esta medida por ocho: $4.14 \cdot 8 = 33.12\text{ cm}$.
@@ -326,9 +326,9 @@ Un octágono regular posee ocho lados de igual longitud. Dado que se especifica 
 ¿Cuál es el área que ocupa la vereda?
 
 ### Opciones
-- [ ] A) $1,500\text{ m}^2$ <!-- feedback: Este es el área total del terreno original. -->
-- [ ] B) $1,196\text{ m}^2$ <!-- feedback: Este es el área del rectángulo interior resultante, no la de la vereda. -->
-- [x] C) $304\text{ m}^2$ <!-- feedback: Correcto. Área total = 1500. Rectángulo interior = (50-4)×(30-4) = 46×26 = 1196. Vereda = 1500 - 1196 = 304. -->
+- [ ] B) $1,500\text{ m}^2$ <!-- feedback: Este es el área total del terreno original. -->
+- [ ] C) $1,196\text{ m}^2$ <!-- feedback: Este es el área del rectángulo interior resultante, no la de la vereda. -->
+- [x] A) $304\text{ m}^2$ <!-- feedback: Correcto. Área total = 1500. Rectángulo interior = (50-4)×(30-4) = 46×26 = 1196. Vereda = 1500 - 1196 = 304. -->
 - [ ] D) $320\text{ m}^2$ <!-- feedback: Error en el cálculo de las nuevas dimensiones del rectángulo interior. -->
 
 ### Explicacion Pedagogica
@@ -348,9 +348,9 @@ Tres círculos de radio 10 cm son tangentes entre sí dos a dos. ¿Cuál es el �
 
 ### Opciones
 - [ ] A) $100\text{ cm}^2$ <!-- feedback: Este valor no corresponde al área de un triángulo equilátero de lado 20. -->
-- [x] B) $100\sqrt{3}\text{ cm}^2$ <!-- feedback: Correcto. Los lados del triángulo miden R+R = 20. Área = (s²√3)/4 = (400√3)/4 = 100√3. -->
-- [ ] C) $200\text{ cm}^2$ <!-- feedback: Error en la aplicación de la fórmula del área del triángulo equilátero. -->
-- [ ] D) $50\sqrt{3}\text{ cm}^2$ <!-- feedback: Dividiste incorrectamente o usaste un lado de 10 en lugar de 20. -->
+- [x] D) $100\sqrt{3}\text{ cm}^2$ <!-- feedback: Correcto. Los lados del triángulo miden R+R = 20. Área = (s²√3)/4 = (400√3)/4 = 100√3. -->
+- [ ] B) $200\text{ cm}^2$ <!-- feedback: Error en la aplicación de la fórmula del área del triángulo equilátero. -->
+- [ ] C) $50\sqrt{3}\text{ cm}^2$ <!-- feedback: Dividiste incorrectamente o usaste un lado de 10 en lugar de 20. -->
 
 ### Explicacion Pedagogica
 Al unir los centros de tres círculos tangentes de radio $R$, se forma un triángulo equilátero cuyos lados miden $2R$. Con $R=10$, el lado $s=20$. El área de un triángulo equilátero es $\frac{s^2\sqrt{3}}{4} = \frac{20^2\sqrt{3}}{4} = \frac{400\sqrt{3}}{4} = 100\sqrt{3}\text{ cm}^2$.
@@ -368,9 +368,9 @@ Al unir los centros de tres círculos tangentes de radio $R$, se forma un trián
 ¿Cuál es la expresión general para el área de un hexágono regular en términos únicamente de la longitud de su lado $L$?
 
 ### Opciones
-- [ ] A) $3L^2$ <!-- feedback: Esta expresión subestima el área total del hexágono. -->
-- [ ] B) $\frac{3L^2}{2}$ <!-- feedback: Falta el factor de raíz de 3 característico de los triángulos equiláteros que componen el hexágono. -->
-- [x] C) $\frac{3\sqrt{3}L^2}{2}$ <!-- feedback: Correcto. Un hexágono regular se compone de 6 triángulos equiláteros de área (L²√3)/4. Total = 6 × (L²√3)/4 = (3√3L²)/2. -->
+- [ ] B) $3L^2$ <!-- feedback: Esta expresión subestima el área total del hexágono. -->
+- [ ] C) $\frac{3L^2}{2}$ <!-- feedback: Falta el factor de raíz de 3 característico de los triángulos equiláteros que componen el hexágono. -->
+- [x] A) $\frac{3\sqrt{3}L^2}{2}$ <!-- feedback: Correcto. Un hexágono regular se compone de 6 triángulos equiláteros de área (L²√3)/4. Total = 6 × (L²√3)/4 = (3√3L²)/2. -->
 - [ ] D) $6\sqrt{3}L^2$ <!-- feedback: Esta expresión sobreestima el área por un factor de 4. -->
 
 ### Explicacion Pedagogica
@@ -390,8 +390,8 @@ Un hexágono regular se divide en 6 triángulos equiláteros. El área de uno de
 
 ### Opciones
 - [ ] A) El área tiende a infinito <!-- feedback: El área está acotada por el círculo en el que el polígono está inscrito. -->
-- [ ] B) El área tiende a cero <!-- feedback: Al aumentar los lados, el polígono ocupa más espacio dentro del círculo, no menos. -->
-- [x] C) El área tiende a $\pi R^2$ <!-- feedback: Correcto. A medida que n aumenta, el polígono se aproxima cada vez más a la forma del círculo que lo contiene. -->
+- [ ] C) El área tiende a cero <!-- feedback: Al aumentar los lados, el polígono ocupa más espacio dentro del círculo, no menos. -->
+- [x] B) El área tiende a $\pi R^2$ <!-- feedback: Correcto. A medida que n aumenta, el polígono se aproxima cada vez más a la forma del círculo que lo contiene. -->
 - [ ] D) El área tiende a $2\pi R$ <!-- feedback: Este es el valor de la circunferencia (longitud), no del área. -->
 
 ### Explicacion Pedagogica
@@ -410,8 +410,8 @@ Este es el concepto fundamental del cálculo integral desarrollado por Arquímed
 ¿Cuál es el área de la región donde se traslapan los cuatro semicírculos (el "pétalo" central formado)?
 
 ### Opciones
-- [ ] A) $a^2(\pi - 1)$ <!-- feedback: Esta expresión resultaría en un área mayor que la del cuadrado mismo. -->
-- [x] B) $a^2(\frac{\pi}{2} - 1)$ <!-- feedback: Correcto. El área de la región de traslape de dos semicírculos opuestos menos el cuadrado permite deducir esta forma característica. -->
+- [ ] B) $a^2(\pi - 1)$ <!-- feedback: Esta expresión resultaría en un área mayor que la del cuadrado mismo. -->
+- [x] A) $a^2(\frac{\pi}{2} - 1)$ <!-- feedback: Correcto. El área de la región de traslape de dos semicírculos opuestos menos el cuadrado permite deducir esta forma característica. -->
 - [ ] C) $\frac{\pi a^2}{4}$ <!-- feedback: Este es solo el área de un cuarto de círculo. -->
 - [ ] D) $a^2(1 - \frac{\pi}{4})$ <!-- feedback: Esta es el área de las esquinas del cuadrado no cubiertas por un cuarto de círculo. -->
 
@@ -431,8 +431,8 @@ Este problema se resuelve mediante la suma de áreas de sectores circulares y la
 Si la distancia entre los centros de los dos círculos es igual al radio $R$, ¿cuál es el área de la región común (intersección)?
 
 ### Opciones
-- [ ] A) $R^2(\frac{\pi}{2})$ <!-- feedback: Esta es el área de medio círculo, no corresponde a la intersección dada. -->
-- [x] B) $R^2(\frac{2\pi}{3} - \frac{\sqrt{3}}{2})$ <!-- feedback: Correcto. Se calcula restando segmentos circulares o mediante la integración de las áreas de los sectores de 120 grados. -->
+- [ ] B) $R^2(\frac{\pi}{2})$ <!-- feedback: Esta es el área de medio círculo, no corresponde a la intersección dada. -->
+- [x] A) $R^2(\frac{2\pi}{3} - \frac{\sqrt{3}}{2})$ <!-- feedback: Correcto. Se calcula restando segmentos circulares o mediante la integración de las áreas de los sectores de 120 grados. -->
 - [ ] C) $R^2(\frac{\pi}{3} - \frac{\sqrt{3}}{4})$ <!-- feedback: Este valor es solo la mitad del área de la intersección. -->
 - [ ] D) $\pi R^2$ <!-- feedback: Este es el área de un círculo completo. -->
 

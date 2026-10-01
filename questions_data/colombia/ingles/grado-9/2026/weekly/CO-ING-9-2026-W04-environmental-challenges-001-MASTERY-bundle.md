@@ -63,9 +63,9 @@ I ________ all my plastic bottles from now on to help protect the oceans.
 ### Opciones
 - [ ] A) will recycle
   <!-- feedback: Incorrect. While possible for a spontaneous decision, "be going to" is better for a planned intention. -->
-- [x] B) am going to recycle
+- [x] C) am going to recycle
   <!-- feedback: Correct! "Be going to" expresses a personal intention or plan. -->
-- [ ] C) recycle
+- [ ] B) recycle
   <!-- feedback: Incorrect. This describes a current habit, not a future intention. -->
 - [ ] D) am recycling
   <!-- feedback: Incorrect. This usually refers to a fixed arrangement or an action in progress. -->
@@ -86,9 +86,9 @@ Para expresar intenciones o planes personales que ya hemos decidido, la estructu
 The international conference on climate change ________ in Bogotá next month.
 
 ### Opciones
-- [ ] A) will start
+- [ ] B) will start
   <!-- feedback: Incorrect. While used for future, it's less specific than the arrangement form. -->
-- [x] B) is taking place
+- [x] A) is taking place
   <!-- feedback: Correct! Present Continuous is used for fixed arrangements in the future. -->
 - [ ] C) starts
   <!-- feedback: Incorrect. Simple Present is used for timetables, but Present Continuous is more common for organized events. -->
@@ -111,9 +111,9 @@ El Presente Continuo (*is taking place*) se utiliza para hablar de compromisos o
 This time next year, our school ________ solar panels to generate its own electricity.
 
 ### Opciones
-- [ ] A) will use
+- [ ] B) will use
   <!-- feedback: Incorrect. This just predicts the use, not the ongoing state at that time. -->
-- [x] B) will be using
+- [x] A) will be using
   <!-- feedback: Correct! Future Continuous describes an action that will be in progress at a specific time in the future. -->
 - [ ] C) is going to use
   <!-- feedback: Incorrect. This expresses intention but not the ongoing action at a specific future point. -->
@@ -161,9 +161,9 @@ Cuando hacemos una predicción basada en algo que podemos ver o percibir en el p
 By 2050, many cities in Colombia ________ zero-waste policies to combat pollution.
 
 ### Opciones
-- [ ] A) will implement
+- [ ] B) will implement
   <!-- feedback: Incorrect. This just states a future act. -->
-- [x] B) will have implemented
+- [x] A) will have implemented
   <!-- feedback: Correct! Future Perfect shows an action that will be completed by a certain point in the future. -->
 - [ ] C) will be implementing
   <!-- feedback: Incorrect. This shows the action in progress, not its completion. -->
@@ -186,11 +186,11 @@ Usamos el Futuro Perfecto (*will have implemented*) para indicar que una acción
 Which sentence implies that the person has already **made an appointment** or a firm arrangement?
 
 ### Opciones
-- [ ] A) I will visit the recycling plant tomorrow.
+- [ ] B) I will visit the recycling plant tomorrow.
   <!-- feedback: Incorrect. This sounds like a spontaneous decision. -->
-- [ ] B) I am going to visit the recycling plant tomorrow.
+- [ ] C) I am going to visit the recycling plant tomorrow.
   <!-- feedback: Incorrect. This is a plan or intention, but not necessarily a firm arrangement with others. -->
-- [x] C) I am visiting the recycling plant tomorrow morning.
+- [x] A) I am visiting the recycling plant tomorrow morning.
   <!-- feedback: Correct! Present Continuous for future indicates a fixed arrangement. -->
 - [ ] D) I will be visiting the recycling plant tomorrow.
   <!-- feedback: Incorrect. This is more about the ongoing activity during the day. -->
@@ -212,9 +212,9 @@ En el nivel B2, es clave distinguir que el Presente Continuo para el futuro impl
 "Don't worry, I ________ it to the recycling center right now."
 
 ### Opciones
-- [x] A) will take
+- [x] B) will take
   <!-- feedback: Correct! "Will" is used for spontaneous decisions or offers made at the moment of speaking. -->
-- [ ] B) am going to take
+- [ ] A) am going to take
   <!-- feedback: Incorrect. This would imply you already planned to take it before the person spoke. -->
 - [ ] C) take
   <!-- feedback: Incorrect. Simple present is not used for spontaneous future offers. -->
@@ -239,9 +239,9 @@ If we continue at this pace, many coastal areas ________ by the end of the centu
 ### Opciones
 - [ ] A) will disappear
   <!-- feedback: Incorrect. Simple future doesn't emphasize the state by that time. -->
-- [x] B) will have disappeared
+- [x] C) will have disappeared
   <!-- feedback: Correct! Future Perfect emphasizes the completion of the disappearance by the deadline. -->
-- [ ] C) will be disappearing
+- [ ] B) will be disappearing
   <!-- feedback: Incorrect. This shows the process, but the context usually focuses on the result by the deadline. -->
 - [ ] D) are disappearing
   <!-- feedback: Incorrect. This is happening now, but doesn't project the finality by the end of the century. -->
@@ -265,9 +265,9 @@ Identify the error in this speech about the future:
 ### Opciones
 - [ ] A) will hold
   <!-- feedback: Incorrect. Correct for a future event. -->
-- [ ] B) are going to collect
+- [ ] C) are going to collect
   <!-- feedback: Incorrect. Correct for an intention. -->
-- [x] C) will be collecting
+- [x] B) will be collecting
   <!-- feedback: Correct! This should be Future Perfect (*will have collected*) because it refers to the total amount of waste accumulated by the end of the event. -->
 - [ ] D) will be
   <!-- feedback: Incorrect. Correct for a prediction/opinion. -->

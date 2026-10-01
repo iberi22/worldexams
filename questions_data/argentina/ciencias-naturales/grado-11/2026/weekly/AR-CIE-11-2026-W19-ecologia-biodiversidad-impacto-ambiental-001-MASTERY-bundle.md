@@ -36,10 +36,10 @@ Este bundle aborda contenidos curriculares prioritarios de Ecología, Biodiversi
 Un zooplancton contiene $2\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?
 
 ### Opciones
-- [x] A) Concentración = $6\text{ ppm}$ <!-- feedback: Correcto. $2 \cdot 3 = 6\text{ ppm}$ debido al proceso de biomagnificación. -->
-- [ ] B) Concentración = $2\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
-- [ ] C) Concentración = $0,7\text{ ppm}$ <!-- feedback: Incorrecto. Dividió la concentración en lugar de multiplicarla. -->
-- [ ] D) Concentración = $0\text{ ppm}$ <!-- feedback: Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan. -->
+- [x] D) Concentración = $6\text{ ppm}$ <!-- feedback: Correcto. $2 \cdot 3 = 6\text{ ppm}$ debido al proceso de biomagnificación. -->
+- [ ] A) Concentración = $2\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
+- [ ] B) Concentración = $0,7\text{ ppm}$ <!-- feedback: Incorrecto. Dividió la concentración en lugar de multiplicarla. -->
+- [ ] C) Concentración = $0\text{ ppm}$ <!-- feedback: Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan. -->
 
 ### Explicacion Pedagogica
 Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $2 \cdot 3 = 6\text{ ppm}$.
@@ -78,10 +78,10 @@ Debido a la biomagnificación en las redes tróficas, la concentración de conta
 Un zooplancton contiene $6\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?
 
 ### Opciones
-- [x] A) Concentración = $18\text{ ppm}$ <!-- feedback: Correcto. $6 \cdot 3 = 18\text{ ppm}$ debido al proceso de biomagnificación. -->
-- [ ] B) Concentración = $6\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
-- [ ] C) Concentración = $2,0\text{ ppm}$ <!-- feedback: Incorrecto. Dividió la concentración en lugar de multiplicarla. -->
-- [ ] D) Concentración = $0\text{ ppm}$ <!-- feedback: Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan. -->
+- [x] D) Concentración = $18\text{ ppm}$ <!-- feedback: Correcto. $6 \cdot 3 = 18\text{ ppm}$ debido al proceso de biomagnificación. -->
+- [ ] A) Concentración = $6\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
+- [ ] B) Concentración = $2,0\text{ ppm}$ <!-- feedback: Incorrecto. Dividió la concentración en lugar de multiplicarla. -->
+- [ ] C) Concentración = $0\text{ ppm}$ <!-- feedback: Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan. -->
 
 ### Explicacion Pedagogica
 Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $6 \cdot 3 = 18\text{ ppm}$.
@@ -99,9 +99,9 @@ Debido a la biomagnificación en las redes tróficas, la concentración de conta
 Un zooplancton contiene $8\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?
 
 ### Opciones
-- [x] A) Concentración = $24\text{ ppm}$ <!-- feedback: Correcto. $8 \cdot 3 = 24\text{ ppm}$ debido al proceso de biomagnificación. -->
-- [ ] B) Concentración = $8\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
-- [ ] C) Concentración = $2,7\text{ ppm}$ <!-- feedback: Incorrecto. Dividió la concentración en lugar de multiplicarla. -->
+- [x] C) Concentración = $24\text{ ppm}$ <!-- feedback: Correcto. $8 \cdot 3 = 24\text{ ppm}$ debido al proceso de biomagnificación. -->
+- [ ] A) Concentración = $8\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
+- [ ] B) Concentración = $2,7\text{ ppm}$ <!-- feedback: Incorrecto. Dividió la concentración en lugar de multiplicarla. -->
 - [ ] D) Concentración = $0\text{ ppm}$ <!-- feedback: Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan. -->
 
 ### Explicacion Pedagogica
@@ -120,10 +120,10 @@ Debido a la biomagnificación en las redes tróficas, la concentración de conta
 Un zooplancton contiene $10\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?
 
 ### Opciones
-- [x] A) Concentración = $30\text{ ppm}$ <!-- feedback: Correcto. $10 \cdot 3 = 30\text{ ppm}$ debido al proceso de biomagnificación. -->
-- [ ] B) Concentración = $10\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
-- [ ] C) Concentración = $3,3\text{ ppm}$ <!-- feedback: Incorrecto. Dividió la concentración en lugar de multiplicarla. -->
-- [ ] D) Concentración = $0\text{ ppm}$ <!-- feedback: Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan. -->
+- [x] D) Concentración = $30\text{ ppm}$ <!-- feedback: Correcto. $10 \cdot 3 = 30\text{ ppm}$ debido al proceso de biomagnificación. -->
+- [ ] A) Concentración = $10\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
+- [ ] B) Concentración = $3,3\text{ ppm}$ <!-- feedback: Incorrecto. Dividió la concentración en lugar de multiplicarla. -->
+- [ ] C) Concentración = $0\text{ ppm}$ <!-- feedback: Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan. -->
 
 ### Explicacion Pedagogica
 Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $10 \cdot 3 = 30\text{ ppm}$.
@@ -141,8 +141,8 @@ Debido a la biomagnificación en las redes tróficas, la concentración de conta
 Un zooplancton contiene $12\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?
 
 ### Opciones
-- [x] A) Concentración = $36\text{ ppm}$ <!-- feedback: Correcto. $12 \cdot 3 = 36\text{ ppm}$ debido al proceso de biomagnificación. -->
-- [ ] B) Concentración = $12\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
+- [x] B) Concentración = $36\text{ ppm}$ <!-- feedback: Correcto. $12 \cdot 3 = 36\text{ ppm}$ debido al proceso de biomagnificación. -->
+- [ ] A) Concentración = $12\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
 - [ ] C) Concentración = $4,0\text{ ppm}$ <!-- feedback: Incorrecto. Dividió la concentración en lugar de multiplicarla. -->
 - [ ] D) Concentración = $0\text{ ppm}$ <!-- feedback: Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan. -->
 
@@ -162,9 +162,9 @@ Debido a la biomagnificación en las redes tróficas, la concentración de conta
 Un zooplancton contiene $14\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?
 
 ### Opciones
-- [x] A) Concentración = $42\text{ ppm}$ <!-- feedback: Correcto. $14 \cdot 3 = 42\text{ ppm}$ debido al proceso de biomagnificación. -->
-- [ ] B) Concentración = $14\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
-- [ ] C) Concentración = $4,7\text{ ppm}$ <!-- feedback: Incorrecto. Dividió la concentración en lugar de multiplicarla. -->
+- [x] C) Concentración = $42\text{ ppm}$ <!-- feedback: Correcto. $14 \cdot 3 = 42\text{ ppm}$ debido al proceso de biomagnificación. -->
+- [ ] A) Concentración = $14\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
+- [ ] B) Concentración = $4,7\text{ ppm}$ <!-- feedback: Incorrecto. Dividió la concentración en lugar de multiplicarla. -->
 - [ ] D) Concentración = $0\text{ ppm}$ <!-- feedback: Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan. -->
 
 ### Explicacion Pedagogica
@@ -204,9 +204,9 @@ Debido a la biomagnificación en las redes tróficas, la concentración de conta
 Un zooplancton contiene $18\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?
 
 ### Opciones
-- [x] A) Concentración = $54\text{ ppm}$ <!-- feedback: Correcto. $18 \cdot 3 = 54\text{ ppm}$ debido al proceso de biomagnificación. -->
-- [ ] B) Concentración = $18\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
-- [ ] C) Concentración = $6,0\text{ ppm}$ <!-- feedback: Incorrecto. Dividió la concentración en lugar de multiplicarla. -->
+- [x] C) Concentración = $54\text{ ppm}$ <!-- feedback: Correcto. $18 \cdot 3 = 54\text{ ppm}$ debido al proceso de biomagnificación. -->
+- [ ] A) Concentración = $18\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
+- [ ] B) Concentración = $6,0\text{ ppm}$ <!-- feedback: Incorrecto. Dividió la concentración en lugar de multiplicarla. -->
 - [ ] D) Concentración = $0\text{ ppm}$ <!-- feedback: Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan. -->
 
 ### Explicacion Pedagogica
@@ -225,9 +225,9 @@ Debido a la biomagnificación en las redes tróficas, la concentración de conta
 Un zooplancton contiene $20\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?
 
 ### Opciones
-- [x] A) Concentración = $60\text{ ppm}$ <!-- feedback: Correcto. $20 \cdot 3 = 60\text{ ppm}$ debido al proceso de biomagnificación. -->
-- [ ] B) Concentración = $20\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
-- [ ] C) Concentración = $6,7\text{ ppm}$ <!-- feedback: Incorrecto. Dividió la concentración en lugar de multiplicarla. -->
+- [x] C) Concentración = $60\text{ ppm}$ <!-- feedback: Correcto. $20 \cdot 3 = 60\text{ ppm}$ debido al proceso de biomagnificación. -->
+- [ ] A) Concentración = $20\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
+- [ ] B) Concentración = $6,7\text{ ppm}$ <!-- feedback: Incorrecto. Dividió la concentración en lugar de multiplicarla. -->
 - [ ] D) Concentración = $0\text{ ppm}$ <!-- feedback: Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan. -->
 
 ### Explicacion Pedagogica
@@ -288,9 +288,9 @@ Debido a la biomagnificación en las redes tróficas, la concentración de conta
 Un zooplancton contiene $26\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?
 
 ### Opciones
-- [x] A) Concentración = $78\text{ ppm}$ <!-- feedback: Correcto. $26 \cdot 3 = 78\text{ ppm}$ debido al proceso de biomagnificación. -->
-- [ ] B) Concentración = $26\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
-- [ ] C) Concentración = $8,7\text{ ppm}$ <!-- feedback: Incorrecto. Dividió la concentración en lugar de multiplicarla. -->
+- [x] C) Concentración = $78\text{ ppm}$ <!-- feedback: Correcto. $26 \cdot 3 = 78\text{ ppm}$ debido al proceso de biomagnificación. -->
+- [ ] A) Concentración = $26\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
+- [ ] B) Concentración = $8,7\text{ ppm}$ <!-- feedback: Incorrecto. Dividió la concentración en lugar de multiplicarla. -->
 - [ ] D) Concentración = $0\text{ ppm}$ <!-- feedback: Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan. -->
 
 ### Explicacion Pedagogica
@@ -309,10 +309,10 @@ Debido a la biomagnificación en las redes tróficas, la concentración de conta
 Un zooplancton contiene $28\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?
 
 ### Opciones
-- [x] A) Concentración = $84\text{ ppm}$ <!-- feedback: Correcto. $28 \cdot 3 = 84\text{ ppm}$ debido al proceso de biomagnificación. -->
-- [ ] B) Concentración = $28\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
-- [ ] C) Concentración = $9,3\text{ ppm}$ <!-- feedback: Incorrecto. Dividió la concentración en lugar de multiplicarla. -->
-- [ ] D) Concentración = $0\text{ ppm}$ <!-- feedback: Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan. -->
+- [x] D) Concentración = $84\text{ ppm}$ <!-- feedback: Correcto. $28 \cdot 3 = 84\text{ ppm}$ debido al proceso de biomagnificación. -->
+- [ ] A) Concentración = $28\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
+- [ ] B) Concentración = $9,3\text{ ppm}$ <!-- feedback: Incorrecto. Dividió la concentración en lugar de multiplicarla. -->
+- [ ] C) Concentración = $0\text{ ppm}$ <!-- feedback: Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan. -->
 
 ### Explicacion Pedagogica
 Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $28 \cdot 3 = 84\text{ ppm}$.
@@ -351,8 +351,8 @@ Debido a la biomagnificación en las redes tróficas, la concentración de conta
 Un zooplancton contiene $32\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?
 
 ### Opciones
-- [x] A) Concentración = $96\text{ ppm}$ <!-- feedback: Correcto. $32 \cdot 3 = 96\text{ ppm}$ debido al proceso de biomagnificación. -->
-- [ ] B) Concentración = $32\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
+- [x] B) Concentración = $96\text{ ppm}$ <!-- feedback: Correcto. $32 \cdot 3 = 96\text{ ppm}$ debido al proceso de biomagnificación. -->
+- [ ] A) Concentración = $32\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
 - [ ] C) Concentración = $10,7\text{ ppm}$ <!-- feedback: Incorrecto. Dividió la concentración en lugar de multiplicarla. -->
 - [ ] D) Concentración = $0\text{ ppm}$ <!-- feedback: Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan. -->
 
@@ -372,8 +372,8 @@ Debido a la biomagnificación en las redes tróficas, la concentración de conta
 Un zooplancton contiene $34\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?
 
 ### Opciones
-- [x] A) Concentración = $102\text{ ppm}$ <!-- feedback: Correcto. $34 \cdot 3 = 102\text{ ppm}$ debido al proceso de biomagnificación. -->
-- [ ] B) Concentración = $34\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
+- [x] B) Concentración = $102\text{ ppm}$ <!-- feedback: Correcto. $34 \cdot 3 = 102\text{ ppm}$ debido al proceso de biomagnificación. -->
+- [ ] A) Concentración = $34\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
 - [ ] C) Concentración = $11,3\text{ ppm}$ <!-- feedback: Incorrecto. Dividió la concentración en lugar de multiplicarla. -->
 - [ ] D) Concentración = $0\text{ ppm}$ <!-- feedback: Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan. -->
 
@@ -393,8 +393,8 @@ Debido a la biomagnificación en las redes tróficas, la concentración de conta
 Un zooplancton contiene $36\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?
 
 ### Opciones
-- [x] A) Concentración = $108\text{ ppm}$ <!-- feedback: Correcto. $36 \cdot 3 = 108\text{ ppm}$ debido al proceso de biomagnificación. -->
-- [ ] B) Concentración = $36\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
+- [x] B) Concentración = $108\text{ ppm}$ <!-- feedback: Correcto. $36 \cdot 3 = 108\text{ ppm}$ debido al proceso de biomagnificación. -->
+- [ ] A) Concentración = $36\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
 - [ ] C) Concentración = $12,0\text{ ppm}$ <!-- feedback: Incorrecto. Dividió la concentración en lugar de multiplicarla. -->
 - [ ] D) Concentración = $0\text{ ppm}$ <!-- feedback: Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan. -->
 
@@ -414,10 +414,10 @@ Debido a la biomagnificación en las redes tróficas, la concentración de conta
 Un zooplancton contiene $38\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?
 
 ### Opciones
-- [x] A) Concentración = $114\text{ ppm}$ <!-- feedback: Correcto. $38 \cdot 3 = 114\text{ ppm}$ debido al proceso de biomagnificación. -->
-- [ ] B) Concentración = $38\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
-- [ ] C) Concentración = $12,7\text{ ppm}$ <!-- feedback: Incorrecto. Dividió la concentración en lugar de multiplicarla. -->
-- [ ] D) Concentración = $0\text{ ppm}$ <!-- feedback: Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan. -->
+- [x] D) Concentración = $114\text{ ppm}$ <!-- feedback: Correcto. $38 \cdot 3 = 114\text{ ppm}$ debido al proceso de biomagnificación. -->
+- [ ] A) Concentración = $38\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
+- [ ] B) Concentración = $12,7\text{ ppm}$ <!-- feedback: Incorrecto. Dividió la concentración en lugar de multiplicarla. -->
+- [ ] C) Concentración = $0\text{ ppm}$ <!-- feedback: Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan. -->
 
 ### Explicacion Pedagogica
 Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $38 \cdot 3 = 114\text{ ppm}$.
@@ -435,10 +435,10 @@ Debido a la biomagnificación en las redes tróficas, la concentración de conta
 Un zooplancton contiene $40\text{ ppm}$ de un tóxico persistente. Si la concentración se triplica al pasar a los peces pequeños, ¿qué concentración alcanzará en dicho nivel trófico?
 
 ### Opciones
-- [x] A) Concentración = $120\text{ ppm}$ <!-- feedback: Correcto. $40 \cdot 3 = 120\text{ ppm}$ debido al proceso de biomagnificación. -->
-- [ ] B) Concentración = $40\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
-- [ ] C) Concentración = $13,3\text{ ppm}$ <!-- feedback: Incorrecto. Dividió la concentración en lugar de multiplicarla. -->
-- [ ] D) Concentración = $0\text{ ppm}$ <!-- feedback: Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan. -->
+- [x] D) Concentración = $120\text{ ppm}$ <!-- feedback: Correcto. $40 \cdot 3 = 120\text{ ppm}$ debido al proceso de biomagnificación. -->
+- [ ] A) Concentración = $40\text{ ppm}$ <!-- feedback: Incorrecto. La biomagnificación implica aumento de concentración en cada nivel. -->
+- [ ] B) Concentración = $13,3\text{ ppm}$ <!-- feedback: Incorrecto. Dividió la concentración en lugar de multiplicarla. -->
+- [ ] C) Concentración = $0\text{ ppm}$ <!-- feedback: Incorrecto. Las sustancias persistentes lipofílicas se bioacumulan. -->
 
 ### Explicacion Pedagogica
 Debido a la biomagnificación en las redes tróficas, la concentración de contaminantes persistentes no biodegradables se multiplica en los consumidores: $40 \cdot 3 = 120\text{ ppm}$.

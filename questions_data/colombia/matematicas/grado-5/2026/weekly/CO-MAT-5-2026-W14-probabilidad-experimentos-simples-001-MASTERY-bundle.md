@@ -34,13 +34,13 @@ Noción de probabilidad en experimentos aleatorios sencillos con monedas, dados,
 ¿Cuáles son los posibles resultados al lanzar una moneda una sola vez?
 
 ### Opciones
-- [x] A) Cara o sello.
+- [x] D) Cara o sello.
   <!-- feedback: Una moneda tiene dos caras distintas: cara y sello, esos son sus únicos resultados. -->
-- [ ] B) Rojo o azul.
+- [ ] A) Rojo o azul.
   <!-- feedback: Rojo y azul son colores y no aparecen en las caras de una moneda. -->
-- [ ] C) Uno o dos.
+- [ ] B) Uno o dos.
   <!-- feedback: Los números uno y dos son resultados de un dado, no de una moneda. -->
-- [ ] D) Grande o pequeño.
+- [ ] C) Grande o pequeño.
   <!-- feedback: Grande y pequeño describen tamaños, no los resultados posibles de una moneda. -->
 
 ### Explicacion Pedagogica
@@ -57,13 +57,13 @@ Reconocer los resultados posibles de un experimento aleatorio sencillo como el l
 ¿Por qué lanzar un dado es un experimento aleatorio?
 
 ### Opciones
-- [x] A) Porque antes de lanzarlo no se puede saber con certeza qué número saldrá.
+- [x] D) Porque antes de lanzarlo no se puede saber con certeza qué número saldrá.
   <!-- feedback: En un experimento aleatorio el resultado depende del azar y no se puede predecir. -->
-- [ ] B) Porque siempre sale el número 6 en cada lanzamiento.
+- [ ] A) Porque siempre sale el número 6 en cada lanzamiento.
   <!-- feedback: Si siempre saliera el mismo número, no sería un experimento aleatorio. -->
-- [ ] C) Porque los números del dado nunca cambian de posición.
+- [ ] B) Porque los números del dado nunca cambian de posición.
   <!-- feedback: Que las caras estén fijas no elimina el azar del resultado. -->
-- [ ] D) Porque el resultado se puede predecir con exactitud de antemano.
+- [ ] C) Porque el resultado se puede predecir con exactitud de antemano.
   <!-- feedback: Predecir con exactitud es lo contrario de un experimento aleatorio. -->
 
 ### Explicacion Pedagogica
@@ -103,13 +103,13 @@ Calcular la probabilidad de un evento comparando los casos favorables con el tot
 ¿Cuántos resultados favorables hay para obtener un número par en el dado?
 
 ### Opciones
-- [x] A) 3 resultados: 2, 4 y 6.
+- [x] D) 3 resultados: 2, 4 y 6.
   <!-- feedback: Los números pares del dado son 2, 4 y 6, es decir, tres resultados favorables. -->
-- [ ] B) 2 resultados: 1 y 3.
+- [ ] A) 2 resultados: 1 y 3.
   <!-- feedback: 1 y 3 son números impares, no resultados favorables para un número par. -->
-- [ ] C) 6 resultados: todos los números.
+- [ ] B) 6 resultados: todos los números.
   <!-- feedback: Solo la mitad de los números del dado son pares, no todos. -->
-- [ ] D) 4 resultados: 1, 2, 3 y 4.
+- [ ] C) 4 resultados: 1, 2, 3 y 4.
   <!-- feedback: Esta lista mezcla números impares y no incluye todos los pares posibles. -->
 
 ### Explicacion Pedagogica
@@ -126,9 +126,9 @@ Identificar los casos favorables de un evento al aplicar la probabilidad en un d
 ¿Cuál es la probabilidad de sacar una balota negra?
 
 ### Opciones
-- [x] A) 2 de 5.
+- [x] B) 2 de 5.
   <!-- feedback: Hay 2 balotas negras entre 5 en total, así que la probabilidad es 2/5. -->
-- [ ] B) 3 de 5.
+- [ ] A) 3 de 5.
   <!-- feedback: 3 de 5 corresponde a las balotas blancas, no a las negras. -->
 - [ ] C) 5 de 2.
   <!-- feedback: La probabilidad no puede ser mayor que 1 ni comparar más casos que el total. -->
@@ -149,11 +149,11 @@ Resolver problemas de probabilidad sencillos con conteo de casos favorables y ca
 ¿Qué diferencia hay entre estos dos experimentos aleatorios?
 
 ### Opciones
-- [x] A) El dado tiene más resultados posibles que la moneda, por eso la probabilidad de cada cara del dado es menor.
+- [x] C) El dado tiene más resultados posibles que la moneda, por eso la probabilidad de cada cara del dado es menor.
   <!-- feedback: A mayor número de resultados posibles, menor es la probabilidad de cada uno. -->
-- [ ] B) Los dos experimentos tienen exactamente 6 resultados posibles.
+- [ ] A) Los dos experimentos tienen exactamente 6 resultados posibles.
   <!-- feedback: La moneda solo tiene 2 resultados posibles, no 6. -->
-- [ ] C) La moneda tiene más resultados posibles que el dado.
+- [ ] B) La moneda tiene más resultados posibles que el dado.
   <!-- feedback: La moneda tiene menos resultados (2) que el dado (6). -->
 - [ ] D) En los dos experimentos siempre se obtiene el mismo resultado.
   <!-- feedback: Al ser aleatorios, los resultados cambian en cada lanzamiento. -->
@@ -172,11 +172,11 @@ Analizar cómo el número de resultados posibles influye en la probabilidad de c
 ¿Por qué la afirmación de Juan es incorrecta?
 
 ### Opciones
-- [x] A) Porque hay más sectores amarillos que morados, así que es más probable obtener amarillo.
+- [x] C) Porque hay más sectores amarillos que morados, así que es más probable obtener amarillo.
   <!-- feedback: Con 7 sectores amarillos frente a 3 morados, el amarillo tiene mayor probabilidad. -->
-- [ ] B) Porque los sectores morados ocupan todo el círculo de la ruleta.
+- [ ] A) Porque los sectores morados ocupan todo el círculo de la ruleta.
   <!-- feedback: Si los morados ocuparan todo el círculo, no habría sectores amarillos. -->
-- [ ] C) Porque girar una ruleta no es un experimento aleatorio.
+- [ ] B) Porque girar una ruleta no es un experimento aleatorio.
   <!-- feedback: Girar una ruleta sí es un experimento aleatorio, pues el resultado varía. -->
 - [ ] D) Porque el número 10 impide calcular cualquier probabilidad.
   <!-- feedback: Contar 10 sectores iguales facilita el cálculo de las probabilidades. -->
@@ -195,11 +195,11 @@ Analizar afirmaciones sobre probabilidad comparando las cantidades de casos favo
 ¿Cuál conclusión evalúa mejor el papel de la probabilidad en situaciones cotidianas?
 
 ### Opciones
-- [x] A) La probabilidad permite estimar qué resultado es más probable, aunque no garantiza lo que ocurrirá.
+- [x] C) La probabilidad permite estimar qué resultado es más probable, aunque no garantiza lo que ocurrirá.
   <!-- feedback: La probabilidad mide qué tan posible es un evento, pero no asegura el resultado. -->
-- [ ] B) La probabilidad asegura con certeza absoluta el resultado del experimento.
+- [ ] A) La probabilidad asegura con certeza absoluta el resultado del experimento.
   <!-- feedback: Un evento probable puede no ocurrir y uno poco probable puede ocurrir. -->
-- [ ] C) Un resultado probable nunca ocurre en la realidad.
+- [ ] B) Un resultado probable nunca ocurre en la realidad.
   <!-- feedback: Al contrario, los resultados probables suelen ocurrir con mayor frecuencia. -->
 - [ ] D) La probabilidad solo sirve para los dados y no para otras situaciones.
   <!-- feedback: La probabilidad se aplica en muchos contextos además de los dados. -->

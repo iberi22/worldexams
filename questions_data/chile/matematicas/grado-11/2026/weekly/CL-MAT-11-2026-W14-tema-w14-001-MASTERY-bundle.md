@@ -30,9 +30,9 @@ creador: "Jules-Agent"
 En un triángulo rectángulo, el cateto opuesto a un ángulo $\alpha$ mide $3 \text{ cm}$ y el adyacente mide $4 \text{ cm}$. ¿Cuál es el valor de $\cos(\alpha)$?
 
 ### Opciones
-- [x] A) $4/\sqrt{25}$ <!-- feedback: ¡Correcto! Hipotenusa = sqrt(25), luego cos(alpha) = cateto adyacente / hipotenusa = 4/sqrt(25). -->
-- [ ] B) $3/\sqrt{25}$ <!-- feedback: Incorrecto. Calculaste el seno del ángulo en vez del coseno. -->
-- [ ] C) $3/4$ <!-- feedback: Incorrecto. Calculaste la tangente del ángulo. -->
+- [x] C) $4/\sqrt{25}$ <!-- feedback: ¡Correcto! Hipotenusa = sqrt(25), luego cos(alpha) = cateto adyacente / hipotenusa = 4/sqrt(25). -->
+- [ ] A) $3/\sqrt{25}$ <!-- feedback: Incorrecto. Calculaste el seno del ángulo en vez del coseno. -->
+- [ ] B) $3/4$ <!-- feedback: Incorrecto. Calculaste la tangente del ángulo. -->
 - [ ] D) $\sqrt{25}/4$ <!-- feedback: Incorrecto. Invertiste la razón trigonométrica calculando la secante. -->
 
 ### Explicacion Pedagogica
@@ -68,8 +68,8 @@ La hipotenusa es sqrt(4^2 + 5^2) = sqrt(41). Por definición, cos(alpha) = catet
 En un triángulo rectángulo, el cateto opuesto a un ángulo $\alpha$ mide $5 \text{ cm}$ y el adyacente mide $6 \text{ cm}$. ¿Cuál es el valor de $\cos(\alpha)$?
 
 ### Opciones
-- [x] A) $6/\sqrt{61}$ <!-- feedback: ¡Correcto! Hipotenusa = sqrt(61), luego cos(alpha) = cateto adyacente / hipotenusa = 6/sqrt(61). -->
-- [ ] B) $5/\sqrt{61}$ <!-- feedback: Incorrecto. Calculaste el seno del ángulo en vez del coseno. -->
+- [x] B) $6/\sqrt{61}$ <!-- feedback: ¡Correcto! Hipotenusa = sqrt(61), luego cos(alpha) = cateto adyacente / hipotenusa = 6/sqrt(61). -->
+- [ ] A) $5/\sqrt{61}$ <!-- feedback: Incorrecto. Calculaste el seno del ángulo en vez del coseno. -->
 - [ ] C) $5/6$ <!-- feedback: Incorrecto. Calculaste la tangente del ángulo. -->
 - [ ] D) $\sqrt{61}/6$ <!-- feedback: Incorrecto. Invertiste la razón trigonométrica calculando la secante. -->
 
@@ -87,9 +87,9 @@ La hipotenusa es sqrt(5^2 + 6^2) = sqrt(61). Por definición, cos(alpha) = catet
 En un triángulo rectángulo, el cateto opuesto a un ángulo $\alpha$ mide $6 \text{ cm}$ y el adyacente mide $7 \text{ cm}$. ¿Cuál es el valor de $\cos(\alpha)$?
 
 ### Opciones
-- [x] A) $7/\sqrt{85}$ <!-- feedback: ¡Correcto! Hipotenusa = sqrt(85), luego cos(alpha) = cateto adyacente / hipotenusa = 7/sqrt(85). -->
-- [ ] B) $6/\sqrt{85}$ <!-- feedback: Incorrecto. Calculaste el seno del ángulo en vez del coseno. -->
-- [ ] C) $6/7$ <!-- feedback: Incorrecto. Calculaste la tangente del ángulo. -->
+- [x] C) $7/\sqrt{85}$ <!-- feedback: ¡Correcto! Hipotenusa = sqrt(85), luego cos(alpha) = cateto adyacente / hipotenusa = 7/sqrt(85). -->
+- [ ] A) $6/\sqrt{85}$ <!-- feedback: Incorrecto. Calculaste el seno del ángulo en vez del coseno. -->
+- [ ] B) $6/7$ <!-- feedback: Incorrecto. Calculaste la tangente del ángulo. -->
 - [ ] D) $\sqrt{85}/7$ <!-- feedback: Incorrecto. Invertiste la razón trigonométrica calculando la secante. -->
 
 ### Explicacion Pedagogica
@@ -106,8 +106,8 @@ La hipotenusa es sqrt(6^2 + 7^2) = sqrt(85). Por definición, cos(alpha) = catet
 En un triángulo rectángulo, el cateto opuesto a un ángulo $\alpha$ mide $7 \text{ cm}$ y el adyacente mide $8 \text{ cm}$. ¿Cuál es el valor de $\cos(\alpha)$?
 
 ### Opciones
-- [x] A) $8/\sqrt{113}$ <!-- feedback: ¡Correcto! Hipotenusa = sqrt(113), luego cos(alpha) = cateto adyacente / hipotenusa = 8/sqrt(113). -->
-- [ ] B) $7/\sqrt{113}$ <!-- feedback: Incorrecto. Calculaste el seno del ángulo en vez del coseno. -->
+- [x] B) $8/\sqrt{113}$ <!-- feedback: ¡Correcto! Hipotenusa = sqrt(113), luego cos(alpha) = cateto adyacente / hipotenusa = 8/sqrt(113). -->
+- [ ] A) $7/\sqrt{113}$ <!-- feedback: Incorrecto. Calculaste el seno del ángulo en vez del coseno. -->
 - [ ] C) $7/8$ <!-- feedback: Incorrecto. Calculaste la tangente del ángulo. -->
 - [ ] D) $\sqrt{113}/8$ <!-- feedback: Incorrecto. Invertiste la razón trigonométrica calculando la secante. -->
 
@@ -125,8 +125,8 @@ La hipotenusa es sqrt(7^2 + 8^2) = sqrt(113). Por definición, cos(alpha) = cate
 En un triángulo rectángulo, el cateto opuesto a un ángulo $\alpha$ mide $8 \text{ cm}$ y el adyacente mide $9 \text{ cm}$. ¿Cuál es el valor de $\cos(\alpha)$?
 
 ### Opciones
-- [x] A) $9/\sqrt{145}$ <!-- feedback: ¡Correcto! Hipotenusa = sqrt(145), luego cos(alpha) = cateto adyacente / hipotenusa = 9/sqrt(145). -->
-- [ ] B) $8/\sqrt{145}$ <!-- feedback: Incorrecto. Calculaste el seno del ángulo en vez del coseno. -->
+- [x] B) $9/\sqrt{145}$ <!-- feedback: ¡Correcto! Hipotenusa = sqrt(145), luego cos(alpha) = cateto adyacente / hipotenusa = 9/sqrt(145). -->
+- [ ] A) $8/\sqrt{145}$ <!-- feedback: Incorrecto. Calculaste el seno del ángulo en vez del coseno. -->
 - [ ] C) $8/9$ <!-- feedback: Incorrecto. Calculaste la tangente del ángulo. -->
 - [ ] D) $\sqrt{145}/9$ <!-- feedback: Incorrecto. Invertiste la razón trigonométrica calculando la secante. -->
 
@@ -144,8 +144,8 @@ La hipotenusa es sqrt(8^2 + 9^2) = sqrt(145). Por definición, cos(alpha) = cate
 En un triángulo rectángulo, el cateto opuesto a un ángulo $\alpha$ mide $9 \text{ cm}$ y el adyacente mide $10 \text{ cm}$. ¿Cuál es el valor de $\cos(\alpha)$?
 
 ### Opciones
-- [x] A) $10/\sqrt{181}$ <!-- feedback: ¡Correcto! Hipotenusa = sqrt(181), luego cos(alpha) = cateto adyacente / hipotenusa = 10/sqrt(181). -->
-- [ ] B) $9/\sqrt{181}$ <!-- feedback: Incorrecto. Calculaste el seno del ángulo en vez del coseno. -->
+- [x] B) $10/\sqrt{181}$ <!-- feedback: ¡Correcto! Hipotenusa = sqrt(181), luego cos(alpha) = cateto adyacente / hipotenusa = 10/sqrt(181). -->
+- [ ] A) $9/\sqrt{181}$ <!-- feedback: Incorrecto. Calculaste el seno del ángulo en vez del coseno. -->
 - [ ] C) $9/10$ <!-- feedback: Incorrecto. Calculaste la tangente del ángulo. -->
 - [ ] D) $\sqrt{181}/10$ <!-- feedback: Incorrecto. Invertiste la razón trigonométrica calculando la secante. -->
 
@@ -201,10 +201,10 @@ La hipotenusa es sqrt(11^2 + 12^2) = sqrt(265). Por definición, cos(alpha) = ca
 En un triángulo rectángulo, el cateto opuesto a un ángulo $\alpha$ mide $12 \text{ cm}$ y el adyacente mide $13 \text{ cm}$. ¿Cuál es el valor de $\cos(\alpha)$?
 
 ### Opciones
-- [x] A) $13/\sqrt{313}$ <!-- feedback: ¡Correcto! Hipotenusa = sqrt(313), luego cos(alpha) = cateto adyacente / hipotenusa = 13/sqrt(313). -->
-- [ ] B) $12/\sqrt{313}$ <!-- feedback: Incorrecto. Calculaste el seno del ángulo en vez del coseno. -->
-- [ ] C) $12/13$ <!-- feedback: Incorrecto. Calculaste la tangente del ángulo. -->
-- [ ] D) $\sqrt{313}/13$ <!-- feedback: Incorrecto. Invertiste la razón trigonométrica calculando la secante. -->
+- [x] D) $13/\sqrt{313}$ <!-- feedback: ¡Correcto! Hipotenusa = sqrt(313), luego cos(alpha) = cateto adyacente / hipotenusa = 13/sqrt(313). -->
+- [ ] A) $12/\sqrt{313}$ <!-- feedback: Incorrecto. Calculaste el seno del ángulo en vez del coseno. -->
+- [ ] B) $12/13$ <!-- feedback: Incorrecto. Calculaste la tangente del ángulo. -->
+- [ ] C) $\sqrt{313}/13$ <!-- feedback: Incorrecto. Invertiste la razón trigonométrica calculando la secante. -->
 
 ### Explicacion Pedagogica
 La hipotenusa es sqrt(12^2 + 13^2) = sqrt(313). Por definición, cos(alpha) = cateto adyacente / hipotenusa = 13/sqrt(313).
@@ -239,9 +239,9 @@ La hipotenusa es sqrt(13^2 + 14^2) = sqrt(365). Por definición, cos(alpha) = ca
 En un triángulo rectángulo, el cateto opuesto a un ángulo $\alpha$ mide $14 \text{ cm}$ y el adyacente mide $15 \text{ cm}$. ¿Cuál es el valor de $\cos(\alpha)$?
 
 ### Opciones
-- [x] A) $15/\sqrt{421}$ <!-- feedback: ¡Correcto! Hipotenusa = sqrt(421), luego cos(alpha) = cateto adyacente / hipotenusa = 15/sqrt(421). -->
-- [ ] B) $14/\sqrt{421}$ <!-- feedback: Incorrecto. Calculaste el seno del ángulo en vez del coseno. -->
-- [ ] C) $14/15$ <!-- feedback: Incorrecto. Calculaste la tangente del ángulo. -->
+- [x] C) $15/\sqrt{421}$ <!-- feedback: ¡Correcto! Hipotenusa = sqrt(421), luego cos(alpha) = cateto adyacente / hipotenusa = 15/sqrt(421). -->
+- [ ] A) $14/\sqrt{421}$ <!-- feedback: Incorrecto. Calculaste el seno del ángulo en vez del coseno. -->
+- [ ] B) $14/15$ <!-- feedback: Incorrecto. Calculaste la tangente del ángulo. -->
 - [ ] D) $\sqrt{421}/15$ <!-- feedback: Incorrecto. Invertiste la razón trigonométrica calculando la secante. -->
 
 ### Explicacion Pedagogica
@@ -258,9 +258,9 @@ La hipotenusa es sqrt(14^2 + 15^2) = sqrt(421). Por definición, cos(alpha) = ca
 En un triángulo rectángulo, el cateto opuesto a un ángulo $\alpha$ mide $15 \text{ cm}$ y el adyacente mide $16 \text{ cm}$. ¿Cuál es el valor de $\cos(\alpha)$?
 
 ### Opciones
-- [x] A) $16/\sqrt{481}$ <!-- feedback: ¡Correcto! Hipotenusa = sqrt(481), luego cos(alpha) = cateto adyacente / hipotenusa = 16/sqrt(481). -->
-- [ ] B) $15/\sqrt{481}$ <!-- feedback: Incorrecto. Calculaste el seno del ángulo en vez del coseno. -->
-- [ ] C) $15/16$ <!-- feedback: Incorrecto. Calculaste la tangente del ángulo. -->
+- [x] C) $16/\sqrt{481}$ <!-- feedback: ¡Correcto! Hipotenusa = sqrt(481), luego cos(alpha) = cateto adyacente / hipotenusa = 16/sqrt(481). -->
+- [ ] A) $15/\sqrt{481}$ <!-- feedback: Incorrecto. Calculaste el seno del ángulo en vez del coseno. -->
+- [ ] B) $15/16$ <!-- feedback: Incorrecto. Calculaste la tangente del ángulo. -->
 - [ ] D) $\sqrt{481}/16$ <!-- feedback: Incorrecto. Invertiste la razón trigonométrica calculando la secante. -->
 
 ### Explicacion Pedagogica
@@ -277,10 +277,10 @@ La hipotenusa es sqrt(15^2 + 16^2) = sqrt(481). Por definición, cos(alpha) = ca
 En un triángulo rectángulo, el cateto opuesto a un ángulo $\alpha$ mide $16 \text{ cm}$ y el adyacente mide $17 \text{ cm}$. ¿Cuál es el valor de $\cos(\alpha)$?
 
 ### Opciones
-- [x] A) $17/\sqrt{545}$ <!-- feedback: ¡Correcto! Hipotenusa = sqrt(545), luego cos(alpha) = cateto adyacente / hipotenusa = 17/sqrt(545). -->
-- [ ] B) $16/\sqrt{545}$ <!-- feedback: Incorrecto. Calculaste el seno del ángulo en vez del coseno. -->
-- [ ] C) $16/17$ <!-- feedback: Incorrecto. Calculaste la tangente del ángulo. -->
-- [ ] D) $\sqrt{545}/17$ <!-- feedback: Incorrecto. Invertiste la razón trigonométrica calculando la secante. -->
+- [x] D) $17/\sqrt{545}$ <!-- feedback: ¡Correcto! Hipotenusa = sqrt(545), luego cos(alpha) = cateto adyacente / hipotenusa = 17/sqrt(545). -->
+- [ ] A) $16/\sqrt{545}$ <!-- feedback: Incorrecto. Calculaste el seno del ángulo en vez del coseno. -->
+- [ ] B) $16/17$ <!-- feedback: Incorrecto. Calculaste la tangente del ángulo. -->
+- [ ] C) $\sqrt{545}/17$ <!-- feedback: Incorrecto. Invertiste la razón trigonométrica calculando la secante. -->
 
 ### Explicacion Pedagogica
 La hipotenusa es sqrt(16^2 + 17^2) = sqrt(545). Por definición, cos(alpha) = cateto adyacente / hipotenusa = 17/sqrt(545).
@@ -296,9 +296,9 @@ La hipotenusa es sqrt(16^2 + 17^2) = sqrt(545). Por definición, cos(alpha) = ca
 En un triángulo rectángulo, el cateto opuesto a un ángulo $\alpha$ mide $17 \text{ cm}$ y el adyacente mide $18 \text{ cm}$. ¿Cuál es el valor de $\cos(\alpha)$?
 
 ### Opciones
-- [x] A) $18/\sqrt{613}$ <!-- feedback: ¡Correcto! Hipotenusa = sqrt(613), luego cos(alpha) = cateto adyacente / hipotenusa = 18/sqrt(613). -->
-- [ ] B) $17/\sqrt{613}$ <!-- feedback: Incorrecto. Calculaste el seno del ángulo en vez del coseno. -->
-- [ ] C) $17/18$ <!-- feedback: Incorrecto. Calculaste la tangente del ángulo. -->
+- [x] C) $18/\sqrt{613}$ <!-- feedback: ¡Correcto! Hipotenusa = sqrt(613), luego cos(alpha) = cateto adyacente / hipotenusa = 18/sqrt(613). -->
+- [ ] A) $17/\sqrt{613}$ <!-- feedback: Incorrecto. Calculaste el seno del ángulo en vez del coseno. -->
+- [ ] B) $17/18$ <!-- feedback: Incorrecto. Calculaste la tangente del ángulo. -->
 - [ ] D) $\sqrt{613}/18$ <!-- feedback: Incorrecto. Invertiste la razón trigonométrica calculando la secante. -->
 
 ### Explicacion Pedagogica
@@ -334,8 +334,8 @@ La hipotenusa es sqrt(18^2 + 19^2) = sqrt(685). Por definición, cos(alpha) = ca
 En un triángulo rectángulo, el cateto opuesto a un ángulo $\alpha$ mide $19 \text{ cm}$ y el adyacente mide $20 \text{ cm}$. ¿Cuál es el valor de $\cos(\alpha)$?
 
 ### Opciones
-- [x] A) $20/\sqrt{761}$ <!-- feedback: ¡Correcto! Hipotenusa = sqrt(761), luego cos(alpha) = cateto adyacente / hipotenusa = 20/sqrt(761). -->
-- [ ] B) $19/\sqrt{761}$ <!-- feedback: Incorrecto. Calculaste el seno del ángulo en vez del coseno. -->
+- [x] B) $20/\sqrt{761}$ <!-- feedback: ¡Correcto! Hipotenusa = sqrt(761), luego cos(alpha) = cateto adyacente / hipotenusa = 20/sqrt(761). -->
+- [ ] A) $19/\sqrt{761}$ <!-- feedback: Incorrecto. Calculaste el seno del ángulo en vez del coseno. -->
 - [ ] C) $19/20$ <!-- feedback: Incorrecto. Calculaste la tangente del ángulo. -->
 - [ ] D) $\sqrt{761}/20$ <!-- feedback: Incorrecto. Invertiste la razón trigonométrica calculando la secante. -->
 
@@ -353,10 +353,10 @@ La hipotenusa es sqrt(19^2 + 20^2) = sqrt(761). Por definición, cos(alpha) = ca
 En un triángulo rectángulo, el cateto opuesto a un ángulo $\alpha$ mide $20 \text{ cm}$ y el adyacente mide $21 \text{ cm}$. ¿Cuál es el valor de $\cos(\alpha)$?
 
 ### Opciones
-- [x] A) $21/\sqrt{841}$ <!-- feedback: ¡Correcto! Hipotenusa = sqrt(841), luego cos(alpha) = cateto adyacente / hipotenusa = 21/sqrt(841). -->
-- [ ] B) $20/\sqrt{841}$ <!-- feedback: Incorrecto. Calculaste el seno del ángulo en vez del coseno. -->
-- [ ] C) $20/21$ <!-- feedback: Incorrecto. Calculaste la tangente del ángulo. -->
-- [ ] D) $\sqrt{841}/21$ <!-- feedback: Incorrecto. Invertiste la razón trigonométrica calculando la secante. -->
+- [x] D) $21/\sqrt{841}$ <!-- feedback: ¡Correcto! Hipotenusa = sqrt(841), luego cos(alpha) = cateto adyacente / hipotenusa = 21/sqrt(841). -->
+- [ ] A) $20/\sqrt{841}$ <!-- feedback: Incorrecto. Calculaste el seno del ángulo en vez del coseno. -->
+- [ ] B) $20/21$ <!-- feedback: Incorrecto. Calculaste la tangente del ángulo. -->
+- [ ] C) $\sqrt{841}/21$ <!-- feedback: Incorrecto. Invertiste la razón trigonométrica calculando la secante. -->
 
 ### Explicacion Pedagogica
 La hipotenusa es sqrt(20^2 + 21^2) = sqrt(841). Por definición, cos(alpha) = cateto adyacente / hipotenusa = 21/sqrt(841).
@@ -372,10 +372,10 @@ La hipotenusa es sqrt(20^2 + 21^2) = sqrt(841). Por definición, cos(alpha) = ca
 En un triángulo rectángulo, el cateto opuesto a un ángulo $\alpha$ mide $21 \text{ cm}$ y el adyacente mide $22 \text{ cm}$. ¿Cuál es el valor de $\cos(\alpha)$?
 
 ### Opciones
-- [x] A) $22/\sqrt{925}$ <!-- feedback: ¡Correcto! Hipotenusa = sqrt(925), luego cos(alpha) = cateto adyacente / hipotenusa = 22/sqrt(925). -->
-- [ ] B) $21/\sqrt{925}$ <!-- feedback: Incorrecto. Calculaste el seno del ángulo en vez del coseno. -->
-- [ ] C) $21/22$ <!-- feedback: Incorrecto. Calculaste la tangente del ángulo. -->
-- [ ] D) $\sqrt{925}/22$ <!-- feedback: Incorrecto. Invertiste la razón trigonométrica calculando la secante. -->
+- [x] D) $22/\sqrt{925}$ <!-- feedback: ¡Correcto! Hipotenusa = sqrt(925), luego cos(alpha) = cateto adyacente / hipotenusa = 22/sqrt(925). -->
+- [ ] A) $21/\sqrt{925}$ <!-- feedback: Incorrecto. Calculaste el seno del ángulo en vez del coseno. -->
+- [ ] B) $21/22$ <!-- feedback: Incorrecto. Calculaste la tangente del ángulo. -->
+- [ ] C) $\sqrt{925}/22$ <!-- feedback: Incorrecto. Invertiste la razón trigonométrica calculando la secante. -->
 
 ### Explicacion Pedagogica
 La hipotenusa es sqrt(21^2 + 22^2) = sqrt(925). Por definición, cos(alpha) = cateto adyacente / hipotenusa = 22/sqrt(925).

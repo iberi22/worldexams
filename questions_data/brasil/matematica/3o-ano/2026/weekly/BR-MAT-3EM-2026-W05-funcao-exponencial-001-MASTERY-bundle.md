@@ -50,9 +50,9 @@ Em uma função exponencial do tipo $f(x) = a^x$, o que acontece com o gráfico 
 
 ### Opciones
 - [ ] A) A função é crescente. <!-- feedback: Para a função ser crescente, a base 'a' deve ser maior que 1. -->
-- [x] B) A função é decrescente. <!-- feedback: Correto. Quando a base é uma fração própria, multiplicar repetidamente diminui o valor final. -->
-- [ ] C) A função é uma reta horizontal. <!-- feedback: Isso ocorreria apenas se a base fosse exatamente 1. -->
-- [ ] D) A função passa a ter raízes negativas. <!-- feedback: Funções exponenciais simples não possuem raízes (não cruzam o eixo x). -->
+- [x] D) A função é decrescente. <!-- feedback: Correto. Quando a base é uma fração própria, multiplicar repetidamente diminui o valor final. -->
+- [ ] B) A função é uma reta horizontal. <!-- feedback: Isso ocorreria apenas se a base fosse exatamente 1. -->
+- [ ] C) A função passa a ter raízes negativas. <!-- feedback: Funções exponenciais simples não possuem raízes (não cruzam o eixo x). -->
 
 ### Explicacion Pedagogica
 O valor da base $a$ determina o comportamento da função: se $a > 1$, os valores de $y$ aumentam conforme $x$ aumenta (crescente); se $0 < a < 1$, os valores de $y$ diminuem conforme $x$ aumenta (decrescente).
@@ -69,9 +69,9 @@ Qual é o valor de $f(3)$ para a função exponencial $f(x) = 2^x$?
 
 ### Opciones
 - [ ] A) 6 <!-- feedback: Erro comum de multiplicar a base pelo expoente (2 * 3). -->
-- [x] B) 8 <!-- feedback: 2³ = 2 * 2 * 2 = 8. -->
-- [ ] C) 9 <!-- feedback: 9 seria 3², confundindo a base com o expoente. -->
-- [ ] D) 5 <!-- feedback: Erro de somar a base com o expoente. -->
+- [x] D) 8 <!-- feedback: 2³ = 2 * 2 * 2 = 8. -->
+- [ ] B) 9 <!-- feedback: 9 seria 3², confundindo a base com o expoente. -->
+- [ ] C) 5 <!-- feedback: Erro de somar a base com o expoente. -->
 
 ### Explicacion Pedagogica
 Avaliar uma função exponencial consiste em elevar a base ao valor de $x$ indicado. No caso, $f(3) = 2^3 = 2 \cdot 2 \cdot 2 = 8$.
@@ -108,8 +108,8 @@ Dada a função $f(x) = (\frac{1}{3})^x$, qual é o valor de $f(-2)$?
 ### Opciones
 - [ ] A) $\frac{1}{9}$ <!-- feedback: Este seria o valor de f(2). -->
 - [ ] B) $-\frac{1}{9}$ <!-- feedback: Expoentes negativos não tornam o resultado da potência negativo. -->
-- [x] C) 9 <!-- feedback: (1/3)⁻² = 3² = 9. -->
-- [ ] D) -6 <!-- feedback: Erro grosseiro de operação aritmética. -->
+- [x] D) 9 <!-- feedback: (1/3)⁻² = 3² = 9. -->
+- [ ] C) -6 <!-- feedback: Erro grosseiro de operação aritmética. -->
 
 ### Explicacion Pedagogica
 Um expoente negativo inverte a base da potência. Assim, $(\frac{1}{3})^{-2} = (3)^2$. Elevando 3 ao quadrado, obtemos 9.
@@ -144,8 +144,8 @@ A função exponencial $f(x) = a^x$ (com $a > 0$) tem como imagem o intervalo $(
 Após quantas horas $t$ a massa de algas atingirá 160 gramas?
 
 ### Opciones
-- [ ] A) 16 horas <!-- feedback: P(16) seria um valor extremamente alto (10 * 65536). -->
-- [x] B) 4 horas <!-- feedback: 160 = 10 * 2^t => 16 = 2^t => 2⁴ = 2^t => t = 4. -->
+- [ ] B) 16 horas <!-- feedback: P(16) seria um valor extremamente alto (10 * 65536). -->
+- [x] A) 4 horas <!-- feedback: 160 = 10 * 2^t => 16 = 2^t => 2⁴ = 2^t => t = 4. -->
 - [ ] C) 3 horas <!-- feedback: P(3) = 10 * 8 = 80. -->
 - [ ] D) 5 horas <!-- feedback: P(5) = 10 * 32 = 320. -->
 
@@ -163,8 +163,8 @@ Igualamos a função ao valor desejado: $160 = 10 \cdot 2^t$. Dividindo por 10: 
 Resolva a equação exponencial $9^x = 27$.
 
 ### Opciones
-- [ ] A) $x = 3$ <!-- feedback: 9³ = 729. -->
-- [x] B) $x = 1,5$ <!-- feedback: (3²) ^ x = 3³ => 3^(2x) = 3³ => 2x = 3 => x = 1,5. -->
+- [ ] B) $x = 3$ <!-- feedback: 9³ = 729. -->
+- [x] A) $x = 1,5$ <!-- feedback: (3²) ^ x = 3³ => 3^(2x) = 3³ => 2x = 3 => x = 1,5. -->
 - [ ] C) $x = 2$ <!-- feedback: 9² = 81. -->
 - [ ] D) $x = 0,5$ <!-- feedback: 9^(0,5) = √9 = 3. -->
 
@@ -182,8 +182,8 @@ Para resolver equações exponenciais, devemos igualar as bases. Como $9 = 3^2$ 
 Se a área inicial é $A_0$, a função que descreve a área após $n$ décadas é $A(n) = A_0 \cdot (0,9)^n$. Qual será a porcentagem da área original restante após 2 décadas?
 
 ### Opciones
-- [ ] A) 80\% <!-- feedback: Este seria o resultado se a perda fosse de 10% do original a cada vez (juros simples). -->
-- [x] B) 81\% <!-- feedback: (0,9)² = 0,81 = 81%. -->
+- [ ] B) 80\% <!-- feedback: Este seria o resultado se a perda fosse de 10% do original a cada vez (juros simples). -->
+- [x] A) 81\% <!-- feedback: (0,9)² = 0,81 = 81%. -->
 - [ ] C) 90\% <!-- feedback: Este é o valor após apenas 1 década. -->
 - [ ] D) 70\% <!-- feedback: Erro no cálculo da potência. -->
 
@@ -221,8 +221,8 @@ Considere a função $f(x) = 2^x + 3$. Qual é a assíntota horizontal desta fun
 
 ### Opciones
 - [ ] A) Assíntota $y = 0$ e intercepto $(0, 1)$. <!-- feedback: Esta seria a resposta para a função 2^x sem o termo constante +3. -->
-- [x] B) Assíntota $y = 3$ e intercepto $(0, 4)$. <!-- feedback: A função é transladada 3 unidades para cima. f(0) = 2^0 + 3 = 4. -->
-- [ ] C) Assíntota $y = 3$ e intercepto $(0, 3)$. <!-- feedback: f(0) resulta em 4, não 3. -->
+- [x] C) Assíntota $y = 3$ e intercepto $(0, 4)$. <!-- feedback: A função é transladada 3 unidades para cima. f(0) = 2^0 + 3 = 4. -->
+- [ ] B) Assíntota $y = 3$ e intercepto $(0, 3)$. <!-- feedback: f(0) resulta em 4, não 3. -->
 - [ ] D) Assíntota $y = 1$ e intercepto $(0, 2)$. <!-- feedback: Translação incorreta. -->
 
 ### Explicacion Pedagogica
@@ -240,9 +240,9 @@ Resolva a inequação exponencial: $(\frac{1}{2})^x < \frac{1}{8}$.
 
 ### Opciones
 - [ ] A) $x < 3$ <!-- feedback: Cuidado: ao lidar com bases entre 0 e 1, a ordem da desigualdade se inverte ao comparar expoentes. -->
-- [x] B) $x > 3$ <!-- feedback: (1/2)^x < (1/2)³. Como a base é menor que 1, x deve ser maior que 3. -->
-- [ ] C) $x > 4$ <!-- feedback: O valor comparativo correto é 3, pois 2³ = 8. -->
-- [ ] D) $x < -3$ <!-- feedback: Incorreto. -->
+- [x] D) $x > 3$ <!-- feedback: (1/2)^x < (1/2)³. Como a base é menor que 1, x deve ser maior que 3. -->
+- [ ] B) $x > 4$ <!-- feedback: O valor comparativo correto é 3, pois 2³ = 8. -->
+- [ ] C) $x < -3$ <!-- feedback: Incorreto. -->
 
 ### Explicacion Pedagogica
 Escrevemos ambos os lados na mesma base: $(\frac{1}{2})^x < (\frac{1}{2})^3$. Como a base $1/2$ está entre 0 e 1, a função é decrescente. Isso significa que, para o valor da função ser menor, o expoente deve ser maior: $x > 3$.
@@ -296,9 +296,9 @@ O fator de crescimento é 3. Como esse crescimento ocorre a cada 7 dias, o tempo
 A função $f(x) = e^x$ é chamada de função exponencial natural. Qual é a característica fundamental de sua função inversa?
 
 ### Opciones
-- [ ] A) É uma função quadrática. <!-- feedback: A inversa de uma exponencial nunca é uma potência. -->
-- [ ] B) É a função $f(x) = x^e$. <!-- feedback: Esta é uma função potência. -->
-- [x] C) É o logaritmo natural, $\ln(x)$. <!-- feedback: Correto. O logaritmo de base 'e' é a operação inversa da exponencial de base 'e'. -->
+- [ ] B) É uma função quadrática. <!-- feedback: A inversa de uma exponencial nunca é uma potência. -->
+- [ ] C) É a função $f(x) = x^e$. <!-- feedback: Esta é uma função potência. -->
+- [x] A) É o logaritmo natural, $\ln(x)$. <!-- feedback: Correto. O logaritmo de base 'e' é a operação inversa da exponencial de base 'e'. -->
 - [ ] D) É a função $f(x) = 1/e^x$. <!-- feedback: Esta é a função e⁻x, não a inversa f⁻¹(x). -->
 
 ### Explicacion Pedagogica
@@ -335,9 +335,9 @@ Resolva a equação: $4^x - 6 \cdot 2^x + 8 = 0$.
 
 ### Opciones
 - [ ] A) $x = 2$ e $x = 4$ <!-- feedback: Estes são os valores de y = 2^x, mas precisamos achar o valor de x. -->
-- [x] B) $x = 1$ e $x = 2$ <!-- feedback: Fazendo y = 2^x, temos y² - 6y + 8 = 0. Raízes y=2 e y=4. Então 2^x=2 (x=1) e 2^x=4 (x=2). -->
-- [ ] C) $x = 1$ e $x = 3$ <!-- feedback: Testando na equação original não satisfaz a igualdade. -->
-- [ ] D) Não possui solução real. <!-- feedback: A equação possui duas soluções reais distintas. -->
+- [x] D) $x = 1$ e $x = 2$ <!-- feedback: Fazendo y = 2^x, temos y² - 6y + 8 = 0. Raízes y=2 e y=4. Então 2^x=2 (x=1) e 2^x=4 (x=2). -->
+- [ ] B) $x = 1$ e $x = 3$ <!-- feedback: Testando na equação original não satisfaz a igualdade. -->
+- [ ] C) Não possui solução real. <!-- feedback: A equação possui duas soluções reais distintas. -->
 
 ### Explicacion Pedagogica
 Substituímos $y = 2^x$, transformando a equação em uma quadrática: $y^2 - 6y + 8 = 0$. As raízes são $y = 2$ e $y = 4$. Retornando para $x$: $2^x = 2 \Rightarrow x = 1$; $2^x = 4 \Rightarrow x = 2$.
@@ -353,8 +353,8 @@ Substituímos $y = 2^x$, transformando a equação em uma quadrática: $y^2 - 6y
 Considere a função $f(x) = 2^{-x^2}$. Qual é o valor máximo desta função e para qual valor de $x$ ele ocorre?
 
 ### Opciones
-- [ ] A) Máximo 2 em $x = 1$. <!-- feedback: f(1) = 2⁻¹ = 0,5. -->
-- [x] B) Máximo 1 em $x = 0$. <!-- feedback: x² é sempre ≥ 0, logo -x² é sempre ≤ 0. O valor máximo de 2^(-x²) ocorre quando o expoente é máximo (0). 2⁰ = 1. -->
+- [ ] B) Máximo 2 em $x = 1$. <!-- feedback: f(1) = 2⁻¹ = 0,5. -->
+- [x] A) Máximo 1 em $x = 0$. <!-- feedback: x² é sempre ≥ 0, logo -x² é sempre ≤ 0. O valor máximo de 2^(-x²) ocorre quando o expoente é máximo (0). 2⁰ = 1. -->
 - [ ] C) Não possui valor máximo. <!-- feedback: Como o expoente é limitado superiormente, a função possui máximo. -->
 - [ ] D) Máximo 0 em $x$ tendendo ao infinito. <!-- feedback: 0 é o limite inferior (assíntota), não o máximo. -->
 
@@ -373,8 +373,8 @@ Determine o conjunto solução da inequação: $2^{x^2 - 4} > (\frac{1}{2})^{x -
 
 ### Opciones
 - [ ] A) $x > 2$ <!-- feedback: Esta é apenas uma parte da solução. -->
-- [ ] B) $x < -3$ <!-- feedback: Esta é apenas uma parte da solução. -->
-- [x] C) $x < -3$ ou $x > 2$ <!-- feedback: 2^(x²-4) > 2^{-(x-2)} => x² - 4 > -x + 2 => x² + x - 6 > 0. Raízes -3 e 2. Parábola para cima, positiva fora das raízes. -->
+- [ ] C) $x < -3$ <!-- feedback: Esta é apenas uma parte da solução. -->
+- [x] B) $x < -3$ ou $x > 2$ <!-- feedback: 2^(x²-4) > 2^{-(x-2)} => x² - 4 > -x + 2 => x² + x - 6 > 0. Raízes -3 e 2. Parábola para cima, positiva fora das raízes. -->
 - [ ] D) $-3 < x < 2$ <!-- feedback: Este é o intervalo onde a expressão quadrática é negativa. -->
 
 ### Explicacion Pedagogica
@@ -391,8 +391,8 @@ Colocamos na base 2: $2^{x^2 - 4} > 2^{-(x-2)}$. Como a base é maior que 1, man
 Se $3^x + 3^{-x} = 5$, qual é o valor de $9^x + 9^{-x}$?
 
 ### Opciones
-- [ ] A) 25 <!-- feedback: Erro ao elevar cada termo individualmente sem considerar o termo médio do quadrado do binômio. -->
-- [x] B) 23 <!-- feedback: (3^x + 3⁻x)² = 5² => (3^x)² + 2(3^x)(3⁻x) + (3⁻x)² = 25 => 9^x + 2 + 9⁻x = 25 => 9^x + 9⁻x = 23. -->
+- [ ] B) 25 <!-- feedback: Erro ao elevar cada termo individualmente sem considerar o termo médio do quadrado do binômio. -->
+- [x] A) 23 <!-- feedback: (3^x + 3⁻x)² = 5² => (3^x)² + 2(3^x)(3⁻x) + (3⁻x)² = 25 => 9^x + 2 + 9⁻x = 25 => 9^x + 9⁻x = 23. -->
 - [ ] C) 27 <!-- feedback: Erro no sinal ou na manipulação do termo médio. -->
 - [ ] D) 10 <!-- feedback: Erro na aplicação das propriedades de potências. -->
 

@@ -52,9 +52,9 @@ La potencia indica multiplicar la base tantas veces como el exponente: $3^4 = 3 
 ### Enunciado
 ¿Cuál es el resultado de la multiplicación?
 ### Opciones
-- [x] A) $128$
+- [x] B) $128$
   <!-- feedback: Correcto. $2^3 \cdot 2^4 = 2^{3+4} = 2^7 = 128$. -->
-- [ ] B) $2^{12}$
+- [ ] A) $2^{12}$
   <!-- feedback: Incorrecto. Multiplicaste los exponentes en lugar de sumarlos. -->
 - [ ] C) $64$
   <!-- feedback: Incorrecto. Ese es el valor de $2^6$, no de $2^7$. -->
@@ -72,9 +72,9 @@ En un producto de igual base se suman los exponentes: $2^3 \cdot 2^4 = 2^{7} = 1
 ### Enunciado
 ¿Cuál es el valor de la expresión simplificada?
 ### Opciones
-- [x] A) $625$
+- [x] B) $625$
   <!-- feedback: Correcto. $\frac{5^6}{5^2} = 5^{6-2} = 5^4 = 625$. -->
-- [ ] B) $125$
+- [ ] A) $125$
   <!-- feedback: Incorrecto. Ese es el valor de $5^3$, exponente restado de más. -->
 - [ ] C) $5^8$
   <!-- feedback: Incorrecto. Sumaste los exponentes en un cociente. -->
@@ -92,11 +92,11 @@ En un cociente de igual base se restan los exponentes: $\frac{5^6}{5^2} = 5^{4} 
 ### Enunciado
 ¿Cuál es el valor de la expresión?
 ### Opciones
-- [x] A) $729$
+- [x] C) $729$
   <!-- feedback: Correcto. $(3^2)^3 = 3^{2 \times 3} = 3^6 = 729$. -->
-- [ ] B) $243$
+- [ ] A) $243$
   <!-- feedback: Incorrecto. Ese es el valor de $3^5$, sumaste los exponentes. -->
-- [ ] C) $6561$
+- [ ] B) $6561$
   <!-- feedback: Incorrecto. Ese es el valor de $3^8$. -->
 - [ ] D) $27$
   <!-- feedback: Incorrecto. Multiplicaste mal los exponentes. -->
@@ -112,13 +112,13 @@ En potencia de potencia se multiplican los exponentes: $(3^2)^3 = 3^{6} = 729$.
 ### Enunciado
 ¿Cuál es el valor de la expresión?
 ### Opciones
-- [x] A) $1$
+- [x] D) $1$
   <!-- feedback: Correcto. $(-3)^2 = 9$ y $(-2)^3 = -8$; entonces $9 + (-8) = 1$. -->
-- [ ] B) $-17$
+- [ ] A) $-17$
   <!-- feedback: Incorrecto. Calculaste $-9 + (-8)$ por un error de signo en el cuadrado. -->
-- [ ] C) $17$
+- [ ] B) $17$
   <!-- feedback: Incorrecto. Ignoraste el signo negativo del cubo. -->
-- [ ] D) $-1$
+- [ ] C) $-1$
   <!-- feedback: Incorrecto. Error al restar los valores absolutos. -->
 ### Explicacion Pedagogica
 El exponente par da resultado positivo y el impar conserva el signo: $(-3)^2 = 9$ y $(-2)^3 = -8$. Luego $9 - 8 = 1$.
@@ -132,11 +132,11 @@ El exponente par da resultado positivo y el impar conserva el signo: $(-3)^2 = 9
 ### Enunciado
 ¿Cuál es el resultado de la expresión?
 ### Opciones
-- [x] A) $47$
+- [x] C) $47$
   <!-- feedback: Correcto. $2^3 \cdot 3^2 = 8 \times 9 = 72$ y $5^2 = 25$; entonces $72 - 25 = 47$. -->
-- [ ] B) $72$
+- [ ] A) $72$
   <!-- feedback: Incorrecto. Olvidaste restar $5^2$. -->
-- [ ] C) $121$
+- [ ] B) $121$
   <!-- feedback: Incorrecto. Sumaste en lugar de restar los términos. -->
 - [ ] D) $22$
   <!-- feedback: Incorrecto. Evaluaste mal el producto de las primeras potencias. -->
@@ -152,13 +152,13 @@ Se evalúan las potencias y se respeta la jerarquía: $8 \times 9 = 72$, luego $
 ### Enunciado
 ¿Cuál expresión corresponde a la mayor cantidad y con qué valor?
 ### Opciones
-- [x] A) $2^{10}$ con $1024$ individuos
+- [x] D) $2^{10}$ con $1024$ individuos
   <!-- feedback: Correcto. $2^{10} = 1024$ es mayor que $10^3 = 1000$. -->
-- [ ] B) $10^3$ con $1000$ individuos
+- [ ] A) $10^3$ con $1000$ individuos
   <!-- feedback: Incorrecto. $1000$ es menor que $1024$. -->
-- [ ] C) $2^{10}$ con $512$ individuos
+- [ ] B) $2^{10}$ con $512$ individuos
   <!-- feedback: Incorrecto. $2^{10}$ vale $1024$, no $512$ (ese es $2^9$). -->
-- [ ] D) $10^3$ con $3000$ individuos
+- [ ] C) $10^3$ con $3000$ individuos
   <!-- feedback: Incorrecto. $10^3$ significa $10 \times 10 \times 10 = 1000$. -->
 ### Explicacion Pedagogica
 $2^{10} = 1024$ y $10^3 = 1000$. Por lo tanto, $1024 > 1000$ y la mayor cantidad es $2^{10}$.
@@ -172,9 +172,9 @@ $2^{10} = 1024$ y $10^3 = 1000$. Por lo tanto, $1024 > 1000$ y la mayor cantidad
 ### Enunciado
 ¿Cuál es el valor simplificado?
 ### Opciones
-- [x] A) $1$
+- [x] B) $1$
   <!-- feedback: Correcto. En el numerador $4^3 \cdot 4^{-1} = 4^2$; entonces $\frac{4^2}{4^2} = 4^0 = 1$. -->
-- [ ] B) $4$
+- [ ] A) $4$
   <!-- feedback: Incorrecto. Restaste mal los exponentes del numerador. -->
 - [ ] C) $16$
   <!-- feedback: Incorrecto. No aplicaste la resta del exponente del denominador. -->
@@ -192,9 +192,9 @@ Numerador: $4^3 \cdot 4^{-1} = 4^{3-1} = 4^2$. Luego $\frac{4^2}{4^2} = 4^{2-2} 
 ### Enunciado
 ¿Cuántas bacterias habrá al final de las $5$ horas?
 ### Opciones
-- [x] A) $256$ bacterias
+- [x] B) $256$ bacterias
   <!-- feedback: Correcto. $2^3 \cdot 2^5 = 2^{8} = 256$. -->
-- [ ] B) $128$ bacterias
+- [ ] A) $128$ bacterias
   <!-- feedback: Incorrecto. Ese es el valor de $2^7$, sumaste mal las horas. -->
 - [ ] C) $512$ bacterias
   <!-- feedback: Incorrecto. Ese es el valor de $2^9$. -->
@@ -212,9 +212,9 @@ La población final es $2^3 \cdot 2^5 = 2^{3+5} = 2^8 = 256$ bacterias.
 ### Enunciado
 ¿Cuál es el volumen del cubo expresado como potencia?
 ### Opciones
-- [x] A) $2^9$
+- [x] B) $2^9$
   <!-- feedback: Correcto. Volumen $= (2^3)^3 = 2^{3 \times 3} = 2^9$. -->
-- [ ] B) $2^6$
+- [ ] A) $2^6$
   <!-- feedback: Incorrecto. Sumaste los exponentes en lugar de multiplicarlos. -->
 - [ ] C) $2^3$
   <!-- feedback: Incorrecto. Ese es el valor de la arista, no del volumen. -->

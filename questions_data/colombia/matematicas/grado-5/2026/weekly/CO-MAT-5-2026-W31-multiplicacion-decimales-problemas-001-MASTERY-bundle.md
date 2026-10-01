@@ -57,11 +57,11 @@ Multiplicar un decimal por un número natural equivale a sumar ese decimal tanta
 ¿Cuál es el resultado de multiplicar 1,5 por 10?
 
 ### Opciones
-- [x] A) 15.
+- [x] C) 15.
   <!-- feedback: Al multiplicar por 10, la coma se desplaza una posición hacia la derecha y 1,5 se convierte en 15. -->
-- [ ] B) 0,15.
+- [ ] A) 0,15.
   <!-- feedback: 0,15 sería el resultado de dividir entre 10, no de multiplicar por 10. -->
-- [ ] C) 150.
+- [ ] B) 150.
   <!-- feedback: 150 correspondería a multiplicar por 100, es decir, desplazar la coma dos posiciones. -->
 - [ ] D) 1,50.
   <!-- feedback: 1,50 tiene el mismo valor que 1,5; multiplicar por 10 debe aumentar el valor, no dejarlo igual. -->
@@ -80,13 +80,13 @@ Multiplicar un número decimal por 10, 100 o 1.000 desplaza la coma hacia la der
 ¿Cuánto debe pagar Mariana por los 2,5 metros de tela?
 
 ### Opciones
-- [x] A) $31.250 COP.
+- [x] D) $31.250 COP.
   <!-- feedback: 12.500 x 2,5 = 31.250, porque 12.500 x 2 = 25.000 y 12.500 x 0,5 = 6.250. -->
-- [ ] B) $25.000 COP.
+- [ ] A) $25.000 COP.
   <!-- feedback: 25.000 corresponde a multiplicar por 2 y olvidar el medio metro adicional. -->
-- [ ] C) $3.125 COP.
+- [ ] B) $3.125 COP.
   <!-- feedback: 3.125 resulta de dividir entre 10; el precio por metro es mucho mayor. -->
-- [ ] D) $37.500 COP.
+- [ ] C) $37.500 COP.
   <!-- feedback: 37.500 correspondería a comprar 3 metros completos, no 2,5 metros. -->
 
 ### Explicacion Pedagogica
@@ -103,9 +103,9 @@ Para hallar el costo total se multiplica el precio de una unidad por la cantidad
 ¿Cuántos litros de jugo compró Santiago en total?
 
 ### Opciones
-- [x] A) 9 litros.
+- [x] B) 9 litros.
   <!-- feedback: 1,5 x 6 = 9, porque 1 x 6 = 6 y 0,5 x 6 = 3, y 6 + 3 = 9. -->
-- [ ] B) 7,5 litros.
+- [ ] A) 7,5 litros.
   <!-- feedback: 7,5 litros corresponden a multiplicar 1,5 por 5, no por 6. -->
 - [ ] C) 90 litros.
   <!-- feedback: 90 litros sería el resultado de multiplicar por 60, una cantidad muy superior a la real. -->
@@ -126,11 +126,11 @@ Cuando el multiplicador es mayor que 1, el producto crece. La operación 1,5 x 6
 ¿Cuánto debe pagar Mariana por los 4 lápices?
 
 ### Opciones
-- [x] A) $3.402 COP.
+- [x] C) $3.402 COP.
   <!-- feedback: 850,50 x 4 = 3.402, porque 850 x 4 = 3.400 y 0,50 x 4 = 2, y la suma es 3.402. -->
-- [ ] B) $3.400 COP.
+- [ ] A) $3.400 COP.
   <!-- feedback: 3.400 resulta de multiplicar solo 850 por 4 y omitir los 50 centavos de cada lápiz. -->
-- [ ] C) $34.020 COP.
+- [ ] B) $34.020 COP.
   <!-- feedback: 34.020 tiene un cero de más; la coma quedó desplazada una posición a la derecha. -->
 - [ ] D) $3.042 COP.
   <!-- feedback: 3.042 altera el orden de las cifras y no proviene de multiplicar correctamente las partes. -->
@@ -172,11 +172,11 @@ Comparar ofertas exige calcular el costo de la misma cantidad en ambas alternati
 ¿Cuál es el resultado correcto de 2,4 x 0,5 y en qué consistió el error de Santiago?
 
 ### Opciones
-- [x] A) El resultado correcto es 1,2; Santiago multiplicó 24 x 5 = 120 y no contó las dos cifras decimales de los factores.
+- [x] C) El resultado correcto es 1,2; Santiago multiplicó 24 x 5 = 120 y no contó las dos cifras decimales de los factores.
   <!-- feedback: 2,4 tiene una cifra decimal y 0,5 tiene otra; el producto 120 debe llevar la coma dos posiciones a la izquierda y da 1,20, es decir 1,2. -->
-- [ ] B) El resultado correcto es 12,0; Santiago no cometió ningún error.
+- [ ] A) El resultado correcto es 12,0; Santiago no cometió ningún error.
   <!-- feedback: 12,0 sería mayor que 2,4, pero multiplicar por 0,5 reduce el valor a la mitad, así que no puede ser correcto. -->
-- [ ] C) El resultado correcto es 0,12; hay que ubicar la coma tres posiciones a la izquierda.
+- [ ] B) El resultado correcto es 0,12; hay que ubicar la coma tres posiciones a la izquierda.
   <!-- feedback: Solo hay dos cifras decimales entre los dos factores, por lo que la coma se corre dos posiciones, no tres. -->
 - [ ] D) El resultado correcto es 120; el producto no lleva coma decimal.
   <!-- feedback: Cuando al menos un factor es decimal, el producto también lo es; no se puede omitir la coma. -->
@@ -195,13 +195,13 @@ Para multiplicar decimales se opera con las cifras como si fueran naturales (24 
 ¿Le alcanza el dinero a Mariana para pagar todo y cuánto le sobra?
 
 ### Opciones
-- [x] A) Sí le alcanza y le sobran $39.998,75 COP.
+- [x] D) Sí le alcanza y le sobran $39.998,75 COP.
   <!-- feedback: Carne: 18.900,50 x 2,5 = 47.251,25; panes: 4.250 x 3 = 12.750; total 60.001,25 y 100.000 - 60.001,25 = 39.998,75. -->
-- [ ] B) Sí le alcanza y le sobran $39.998,25 COP.
+- [ ] A) Sí le alcanza y le sobran $39.998,25 COP.
   <!-- feedback: La diferencia de 0,50 indica un error al multiplicar los centavos del precio de la carne. -->
-- [ ] C) No le alcanza, porque el total supera los $100.000 COP.
+- [ ] B) No le alcanza, porque el total supera los $100.000 COP.
   <!-- feedback: El total es 60.001,25 COP, bastante menor que 100.000 COP, así que sí le alcanza. -->
-- [ ] D) Sí le alcanza y le sobran $40.000 COP.
+- [ ] C) Sí le alcanza y le sobran $40.000 COP.
   <!-- feedback: 40.000 es una aproximación; el valor exacto incluye centavos: 39.998,75 COP. -->
 
 ### Explicacion Pedagogica

@@ -32,11 +32,11 @@ Este bundle contiene 10 preguntas sobre **ecuaciones-primer-grado** para grado 7
 ### Enunciado
 ¿Cuál es el valor de $x$ que satisface la ecuación?
 ### Opciones
-- [x] A) $5$
+- [x] C) $5$
   <!-- feedback: Correcto. Se resta $7$ en ambos lados: $x = 12 - 7 = 5$. -->
-- [ ] B) $19$
+- [ ] A) $19$
   <!-- feedback: Incorrecto. Sumaste $7$ en lugar de restarlo. -->
-- [ ] C) $-5$
+- [ ] B) $-5$
   <!-- feedback: Incorrecto. El resultado debe ser positivo al restar $12 - 7$. -->
 - [ ] D) $7$
   <!-- feedback: Incorrecto. Ese es el término que se resta, no el valor de $x$. -->
@@ -52,11 +52,11 @@ Para despejar $x$ se aplica la operación inversa: $x = 12 - 7 = 5$.
 ### Enunciado
 ¿Cuál es el valor de $x$?
 ### Opciones
-- [x] A) $5$
+- [x] C) $5$
   <!-- feedback: Correcto. Se divide entre $3$: $x = \frac{15}{3} = 5$. -->
-- [ ] B) $45$
+- [ ] A) $45$
   <!-- feedback: Incorrecto. Multiplicaste $15$ por $3$ en lugar de dividir. -->
-- [ ] C) $12$
+- [ ] B) $12$
   <!-- feedback: Incorrecto. Restaste $3$ de $15$ sin aplicar la operación inversa. -->
 - [ ] D) $18$
   <!-- feedback: Incorrecto. Sumaste $3$ a $15$ en lugar de dividir. -->
@@ -72,9 +72,9 @@ El $3$ multiplica a $x$, así que se despeja dividiendo: $x = \frac{15}{3} = 5$.
 ### Enunciado
 ¿Cuál es el valor de $x$?
 ### Opciones
-- [x] A) $8$
+- [x] B) $8$
   <!-- feedback: Correcto. $2x = 11 + 5 = 16$, luego $x = \frac{16}{2} = 8$. -->
-- [ ] B) $3$
+- [ ] A) $3$
   <!-- feedback: Incorrecto. Restaste $5$ de $11$ antes de dividir. -->
 - [ ] C) $16$
   <!-- feedback: Incorrecto. Olvidaste dividir entre $2$ al final. -->
@@ -92,9 +92,9 @@ Se suma $5$ en ambos lados: $2x = 16$, y se divide entre $2$: $x = 8$.
 ### Enunciado
 ¿Cuál es el valor de $x$?
 ### Opciones
-- [x] A) $4$
+- [x] B) $4$
   <!-- feedback: Correcto. $4x - 2x = 11 - 3$, es decir $2x = 8$, entonces $x = 4$. -->
-- [ ] B) $7$
+- [ ] A) $7$
   <!-- feedback: Incorrecto. Sumaste mal al agrupar los términos constantes. -->
 - [ ] C) $2$
   <!-- feedback: Incorrecto. Restaste mal los términos con $x$. -->
@@ -132,11 +132,11 @@ Con $c$ el precio de cada cuaderno: $5c + 5000 = 35000$. Entonces $5c = 30000$ y
 ### Enunciado
 ¿Cuál es el valor de $x$?
 ### Opciones
-- [x] A) $8$
+- [x] C) $8$
   <!-- feedback: Correcto. $x - 3 = 5$, entonces $x = 5 + 3 = 8$. -->
-- [ ] B) $5$
+- [ ] A) $5$
   <!-- feedback: Incorrecto. Ese es el valor de $x - 3$, no de $x$. -->
-- [ ] C) $2$
+- [ ] B) $2$
   <!-- feedback: Incorrecto. Restaste $3$ al resultado de la división. -->
 - [ ] D) $16$
   <!-- feedback: Incorrecto. Dividiste mal entre $2$. -->
@@ -152,9 +152,9 @@ Se divide entre $2$: $x - 3 = 5$; luego se suma $3$: $x = 8$.
 ### Enunciado
 ¿Cuál es el menor de los dos números?
 ### Opciones
-- [x] A) $23$
+- [x] B) $23$
   <!-- feedback: Correcto. $x + (x+1) = 47 \Rightarrow 2x = 46 \Rightarrow x = 23$. -->
-- [ ] B) $24$
+- [ ] A) $24$
   <!-- feedback: Incorrecto. Ese es el número mayor, no el menor. -->
 - [ ] C) $22$
   <!-- feedback: Incorrecto. Error al restar $1$ en la ecuación. -->
@@ -172,13 +172,13 @@ Si el menor es $x$, el mayor es $x+1$. $x + x + 1 = 47 \Rightarrow 2x = 46 \Righ
 ### Enunciado
 ¿Cuál es el valor de $x$?
 ### Opciones
-- [x] A) $5$
+- [x] D) $5$
   <!-- feedback: Correcto. $3x + 6 = 2x + 11 \Rightarrow x = 5$. -->
-- [ ] B) $11$
+- [ ] A) $11$
   <!-- feedback: Incorrecto. No distribuiste el $3$ antes de agrupar. -->
-- [ ] C) $1$
+- [ ] B) $1$
   <!-- feedback: Incorrecto. Error al restar las constantes. -->
-- [ ] D) $17$
+- [ ] C) $17$
   <!-- feedback: Incorrecto. Sumaste en lugar de restar los términos con $x$. -->
 ### Explicacion Pedagogica
 Se distribuye: $3x + 6 = 2x + 11$. Al agrupar, $3x - 2x = 11 - 6 \Rightarrow x = 5$.
@@ -192,13 +192,13 @@ Se distribuye: $3x + 6 = 2x + 11$. Al agrupar, $3x - 2x = 11 - 6 \Rightarrow x =
 ### Enunciado
 ¿Para cuántas clases el costo de ambos planes es igual?
 ### Opciones
-- [x] A) $8$ clases
+- [x] D) $8$ clases
   <!-- feedback: Correcto. $80000 + 5000n = 15000n \Rightarrow 80000 = 10000n \Rightarrow n = 8$. -->
-- [ ] B) $10$ clases
+- [ ] A) $10$ clases
   <!-- feedback: Incorrecto. Dividiste $80000$ entre $8000$ por un error en la diferencia de tarifas. -->
-- [ ] C) $6$ clases
+- [ ] B) $6$ clases
   <!-- feedback: Incorrecto. Error al despejar la incógnita. -->
-- [ ] D) $16$ clases
+- [ ] C) $16$ clases
   <!-- feedback: Incorrecto. Usaste la tarifa de $5000$ en lugar de la diferencia de $10000$. -->
 ### Explicacion Pedagogica
 Igualando costos: $80000 + 5000n = 15000n$. Entonces $80000 = 10000n$ y $n = 8$ clases.
@@ -212,9 +212,9 @@ Igualando costos: $80000 + 5000n = 15000n$. Entonces $80000 = 10000n$ y $n = 8$ 
 ### Enunciado
 ¿Cuánto mide el ancho del terreno?
 ### Opciones
-- [x] A) $10\text{ m}$
+- [x] B) $10\text{ m}$
   <!-- feedback: Correcto. $2(w + w + 3) = 46 \Rightarrow 4w + 6 = 46 \Rightarrow w = 10$. -->
-- [ ] B) $13\text{ m}$
+- [ ] A) $13\text{ m}$
   <!-- feedback: Incorrecto. Ese es el largo, no el ancho. -->
 - [ ] C) $20\text{ m}$
   <!-- feedback: Incorrecto. Olvidaste el factor $2$ del perímetro. -->

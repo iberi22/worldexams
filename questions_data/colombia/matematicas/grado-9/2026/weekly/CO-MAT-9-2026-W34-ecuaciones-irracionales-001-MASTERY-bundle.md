@@ -32,9 +32,9 @@ Este bundle contiene 12 preguntas sobre **ecuaciones-irracionales** para grado 9
 ### Enunciado
 ¿Cuál de las siguientes condiciones debe cumplirse para que $\sqrt{x}$ exista como número real?
 ### Opciones
-- [x] A) $x \geq 0$, porque el radicando de una raíz cuadrada real no puede ser negativo.
+- [x] B) $x \geq 0$, porque el radicando de una raíz cuadrada real no puede ser negativo.
   <!-- feedback: Correcto. En los reales, $\sqrt{x}$ solo existe cuando el radicando es mayor o igual que cero. -->
-- [ ] B) $x > 0$, porque cualquier número positivo tiene raíz cuadrada y el cero no.
+- [ ] A) $x > 0$, porque cualquier número positivo tiene raíz cuadrada y el cero no.
   <!-- feedback: Incorrecto. El cero sí tiene raíz cuadrada real: $\sqrt{0} = 0$, así que la condición incluye al cero. -->
 - [ ] C) $x \leq 0$, porque las raíces siempre producen un resultado negativo o nulo.
   <!-- feedback: Incorrecto. Una raíz cuadrada real nunca puede tener un radicando negativo. -->
@@ -52,11 +52,11 @@ En los números reales, la raíz cuadrada $\sqrt{x}$ solo está definida cuando 
 ### Enunciado
 ¿Cuál de las siguientes ecuaciones se clasifica como ecuación irracional?
 ### Opciones
-- [ ] A) $2x + 5 = 11$, porque contiene una variable elevada a un número.
+- [ ] B) $2x + 5 = 11$, porque contiene una variable elevada a un número.
   <!-- feedback: Incorrecto. Aunque tiene la palabra "elevada", la variable no está dentro de un radical; es una ecuación lineal. -->
-- [ ] B) $x^{2} - 4 = 0$, porque tiene un exponente que la hace compleja.
+- [ ] C) $x^{2} - 4 = 0$, porque tiene un exponente que la hace compleja.
   <!-- feedback: Incorrecto. Aquí el exponente es entero y la variable no aparece dentro de un radical. -->
-- [x] C) $\sqrt{x + 3} = 7$, porque la variable aparece dentro de un radical.
+- [x] A) $\sqrt{x + 3} = 7$, porque la variable aparece dentro de un radical.
   <!-- feedback: Correcto. Una ecuación es irracional cuando la incógnita está al menos una vez dentro de un radical. -->
 - [ ] D) $\dfrac{3}{x} = 6$, porque tiene una fracción con la variable.
   <!-- feedback: Incorrecto. Aquí la variable está en el denominador; es una ecuación racional, no irracional. -->
@@ -72,11 +72,11 @@ Una ecuación irracional es aquella en la que la incógnita aparece dentro de un
 ### Enunciado
 ¿Cuál es la solución de $\sqrt{x + 3} = 5$?
 ### Opciones
-- [ ] A) $x = 2$, porque se resta $5 - 3$.
+- [ ] B) $x = 2$, porque se resta $5 - 3$.
   <!-- feedback: Incorrecto. Restar no elimina el radical; antes hay que elevar ambos lados al cuadrado. -->
-- [ ] B) $x = 8$, porque se suma $5 + 3$.
+- [ ] C) $x = 8$, porque se suma $5 + 3$.
   <!-- feedback: Incorrecto. Sumar no despeja la raíz; el procedimiento correcto es elevar al cuadrado y luego restar $3$. -->
-- [x] C) $x = 22$, porque al elevar al cuadrado se obtiene $x + 3 = 25$.
+- [x] A) $x = 22$, porque al elevar al cuadrado se obtiene $x + 3 = 25$.
   <!-- feedback: Correcto. Elevando al cuadrado: $x + 3 = 25$, luego $x = 22$ y $\sqrt{22 + 3} = \sqrt{25} = 5$. -->
 - [ ] D) $x = 25$, porque se conserva el radicando.
   <!-- feedback: Incorrecto. El $25$ es el resultado de $x + 3$, todavía falta restar $3$ para despejar $x$. -->
@@ -96,9 +96,9 @@ Se eleva al cuadrado ambos miembros: $(\sqrt{x+3})^{2} = 5^{2}$, lo que da $x + 
   <!-- feedback: Incorrecto. Al elevar al cuadrado se obtiene una ecuación cuadrática con dos raíces candidatas, no solo una. -->
 - [ ] B) $x = 3$ y $x = 4$.
   <!-- feedback: Incorrecto. La raíz menor no satisface la ecuación original; conviene revisar la cuadrática resultante. -->
-- [x] C) $x = 4$ y $x = 2$, y ambas verifican la ecuación original.
+- [x] D) $x = 4$ y $x = 2$, y ambas verifican la ecuación original.
   <!-- feedback: Correcto. Al elevar al cuadrado, $2x - 4 = x^{2} - 4x + 4$ da $x = 4$ o $x = 2$, y ambos cumplen $\sqrt{2x-4} = x-2$. -->
-- [ ] D) No tiene solución porque el radical nunca se anula.
+- [ ] C) No tiene solución porque el radical nunca se anula.
   <!-- feedback: Incorrecto. El radical sí admite el valor $0$ cuando $x = 2$. -->
 ### Explicacion Pedagogica
 Elevando ambos miembros al cuadrado: $2x - 4 = (x-2)^{2} = x^{2} - 4x + 4$. Se reorganiza en $x^{2} - 6x + 8 = 0$, que factoriza como $(x-2)(x-4) = 0$. Las candidatas son $x = 2$ y $x = 4$. La verificación en la ecuación original muestra que ambas son válidas: $\sqrt{0} = 0$ y $\sqrt{4} = 2$.
@@ -114,9 +114,9 @@ Al resolver $\sqrt{3x + 1} = x - 1$, ¿cuál de las siguientes afirmaciones desc
 ### Opciones
 - [ ] A) Las dos candidatas $x = 0$ y $x = 5$ son soluciones de la ecuación original.
   <!-- feedback: Incorrecto. La candidata $x = 0$ no satisface la ecuación porque $\sqrt{1} = 1 \neq -1$. -->
-- [ ] B) La única solución es $x = 0$, porque $x - 1$ se anula a la izquierda.
+- [ ] C) La única solución es $x = 0$, porque $x - 1$ se anula a la izquierda.
   <!-- feedback: Incorrecto. $x - 1 = 0$ da $x = 1$, no $x = 0$; además la candidata $x = 0$ ni siquiera cumple la ecuación. -->
-- [x] C) La única solución válida es $x = 5$, porque $x = 0$ es una solución extraña que aparece al elevar al cuadrado.
+- [x] B) La única solución válida es $x = 5$, porque $x = 0$ es una solución extraña que aparece al elevar al cuadrado.
   <!-- feedback: Correcto. Al elevar al cuadrado se obtiene $x^{2} - 5x = 0$, con candidatas $x = 0$ y $x = 5$; solo $x = 5$ verifica $\sqrt{3 \cdot 5 + 1} = 5 - 1$. -->
 - [ ] D) La única solución es $x = 1$, porque ese es el valor que anula el radical al cuadrado.
   <!-- feedback: Incorrecto. $x = 1$ no es ni siquiera candidata, ya que al elevar al cuadrado la cuadrática resultante no lo contiene. -->
@@ -132,13 +132,13 @@ Al elevar al cuadrado se obtiene $3x + 1 = x^{2} - 2x + 1$, es decir $x^{2} - 5x
 ### Enunciado
 ¿Cuál es la solución de $\sqrt[3]{2x - 1} = 3$?
 ### Opciones
-- [ ] A) $x = 1$, porque el radicando vale $1$ y la raíz cúbica de $1$ es $3$ no, es $1$.
+- [ ] B) $x = 1$, porque el radicando vale $1$ y la raíz cúbica de $1$ es $3$ no, es $1$.
   <!-- feedback: Incorrecto. La raíz cúbica de $1$ es $1$, no $3$; por eso esa sustitución no resuelve la ecuación. -->
-- [ ] B) $x = 9$, porque se suma $1 + 3$.
+- [ ] C) $x = 9$, porque se suma $1 + 3$.
   <!-- feedback: Incorrecto. Sumar no despeja; hay que elevar al cubo y luego operar con el término independiente. -->
-- [ ] C) $x = 4$, porque se divide $12$ entre $3$.
+- [ ] D) $x = 4$, porque se divide $12$ entre $3$.
   <!-- feedback: Incorrecto. El término independiente es $-1$, no $+12$; dividir entre $3$ tampoco aplica aquí. -->
-- [x] D) $x = 14$, porque al elevar al cubo se obtiene $2x - 1 = 27$.
+- [x] A) $x = 14$, porque al elevar al cubo se obtiene $2x - 1 = 27$.
   <!-- feedback: Correcto. $(\sqrt[3]{2x - 1})^{3} = 3^{3}$ da $2x - 1 = 27$, luego $2x = 28$ y $x = 14$. -->
 ### Explicacion Pedagogica
 A diferencia de las raíces de índice par, las raíces de índice impar están definidas para cualquier radicando real. Se eleva al cubo: $2x - 1 = 27$, luego $2x = 28$ y $x = 14$. La verificación directa da $\sqrt[3]{2 \cdot 14 - 1} = \sqrt[3]{27} = 3$.
@@ -154,9 +154,9 @@ Al resolver $\sqrt{x + 7} = x + 1$, ¿cuál es el análisis correcto del conjunt
 ### Opciones
 - [ ] A) Las candidatas son $x = 2$ y $x = -3$, y ambas son válidas porque aparecen al elevar al cuadrado.
   <!-- feedback: Incorrecto. Aunque ambas aparecen al elevar al cuadrado, solo una verifica la ecuación original. -->
-- [ ] B) La única candidata es $x = 2$ porque $-3$ queda descartado por la raíz, que no acepta negativos.
+- [ ] C) La única candidata es $x = 2$ porque $-3$ queda descartado por la raíz, que no acepta negativos.
   <!-- feedback: Incorrecto. La raíz $\sqrt{-3 + 7} = \sqrt{4}$ sí existe; el descarte de $-3$ ocurre en el otro miembro, no en el radical. -->
-- [x] C) La única válida es $x = 2$, porque $x = -3$ da $\sqrt{4} = 2 \neq -2$, por lo que es solución extraña.
+- [x] B) La única válida es $x = 2$, porque $x = -3$ da $\sqrt{4} = 2 \neq -2$, por lo que es solución extraña.
   <!-- feedback: Correcto. Para $x = 2$ se cumple $\sqrt{9} = 3 = 2 + 1$; para $x = -3$ se obtiene $\sqrt{4} = 2 \neq -2$. -->
 - [ ] D) La única válida es $x = -3$, porque el radical siempre da un número positivo que iguala al lado derecho.
   <!-- feedback: Incorrecto. Con $x = -3$, el lado derecho es $-2$, que no es positivo, así que la igualdad falla. -->
@@ -216,9 +216,9 @@ Al resolver $\sqrt{x - 1} + \sqrt{x + 3} = 4$, ¿cuál de las siguientes afirmac
   <!-- feedback: Incorrecto. Con $x = 1$ la suma es $\sqrt{0} + \sqrt{4} = 2$, que no es $4$. -->
 - [ ] B) Cualquier candidato que satisfaga la cuadrática obtenida al elevar al cuadrado es automáticamente válido.
   <!-- feedback: Incorrecto. Elevar al cuadrado puede introducir soluciones extrañas, así que siempre se debe verificar en la original. -->
-- [x] C) Después de aislar un radical y elevar al cuadrado se obtiene $x = 2$; al verificar, $\sqrt{1} + \sqrt{5} \approx 3{,}24 \neq 4$, por lo que esa candidata es extraña y no hay soluciones válidas.
+- [x] D) Después de aislar un radical y elevar al cuadrado se obtiene $x = 2$; al verificar, $\sqrt{1} + \sqrt{5} \approx 3{,}24 \neq 4$, por lo que esa candidata es extraña y no hay soluciones válidas.
   <!-- feedback: Correcto. La verificación muestra que la candidata $x = 2$ no cumple la ecuación original; en este problema la igualdad pedida no se satisface con números reales. -->
-- [ ] D) Después de elevar al cuadrado se obtiene $x = 2$ y $x = 13$, y ambas satisfacen la ecuación original.
+- [ ] C) Después de elevar al cuadrado se obtiene $x = 2$ y $x = 13$, y ambas satisfacen la ecuación original.
   <!-- feedback: Incorrecto. Aunque pueden aparecer varias candidatas, la verificación en la original puede descartar todas, como ocurre en este caso. -->
 ### Explicacion Pedagogica
 Al aislar $\sqrt{x - 1} = 4 - \sqrt{x + 3}$ y elevar al cuadrado se llega a una ecuación cuadrática con candidatas reales, entre ellas $x = 2$. Sin embargo, al sustituir en la ecuación original, $\sqrt{2 - 1} + \sqrt{2 + 3} = 1 + \sqrt{5} \approx 3{,}24 \neq 4$. Por eso $x = 2$ es una solución extraña y el problema no tiene soluciones válidas. Esto evidencia la necesidad de verificar siempre las candidatas.
@@ -232,11 +232,11 @@ Al aislar $\sqrt{x - 1} = 4 - \sqrt{x + 3}$ y elevar al cuadrado se llega a una 
 ### Enunciado
 Si la velocidad registrada al caer fue $v = 19{,}6 \text{ m/s}$, ¿desde qué altura $h$ se soltó el objeto?
 ### Opciones
-- [x] A) $h = 19{,}6 \text{ m}$, porque al elevar al cuadrado se obtiene $19{,}6^{2} = 2 \cdot 9{,}8 \cdot h$.
+- [x] C) $h = 19{,}6 \text{ m}$, porque al elevar al cuadrado se obtiene $19{,}6^{2} = 2 \cdot 9{,}8 \cdot h$.
   <!-- feedback: Correcto. $19{,}6^{2} = 384{,}16$ y $2 \cdot 9{,}8 \cdot 19{,}6 = 384{,}16$, así que la igualdad se cumple y la altura es $19{,}6 \text{ m}$. -->
-- [ ] B) $h = 9{,}8 \text{ m}$, porque se divide la velocidad entre $2$.
+- [ ] A) $h = 9{,}8 \text{ m}$, porque se divide la velocidad entre $2$.
   <!-- feedback: Incorrecto. Dividir entre $2$ no aplica; el despeje correcto surge de elevar al cuadrado y luego dividir entre $2g$. -->
-- [ ] C) $h = 38{,}4 \text{ m}$, porque se duplica el valor de la velocidad.
+- [ ] B) $h = 38{,}4 \text{ m}$, porque se duplica el valor de la velocidad.
   <!-- feedback: Incorrecto. Duplicar $19{,}6$ no es la operación correcta; la altura debe obtenerse de $h = v^{2} / (2g)$. -->
 - [ ] D) $h = 4{,}9 \text{ m}$, porque se toma la mitad de la velocidad al cuadrado.
   <!-- feedback: Incorrecto. La mitad de la velocidad al cuadrado no coincide con la fórmula $h = v^{2} / (2g)$ en este caso. -->

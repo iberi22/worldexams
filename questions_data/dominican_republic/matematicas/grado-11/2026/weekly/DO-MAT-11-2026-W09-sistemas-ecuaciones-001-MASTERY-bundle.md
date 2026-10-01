@@ -30,8 +30,8 @@ bundle_index: 1
 
 ### Opciones
 - [ ] A) Ecuación con incógnitas cuadráticas. <!-- feedback: Incorrecto. Eso es cuadrática. -->
-- [x] B) Conjunto de dos ecuaciones lineales con dos incógnitas. <!-- feedback: Correcto. Buscan valores que satisfagan ambas simultáneamente. -->
-- [ ] C) Producto de matrices 2x2. <!-- feedback: Incorrecto. Es una herramienta, no la definición. -->
+- [x] C) Conjunto de dos ecuaciones lineales con dos incógnitas. <!-- feedback: Correcto. Buscan valores que satisfagan ambas simultáneamente. -->
+- [ ] B) Producto de matrices 2x2. <!-- feedback: Incorrecto. Es una herramienta, no la definición. -->
 - [ ] D) Igualdad con cuatro variables. <!-- feedback: Incorrecto. 2x2 indica dos de cada una. -->
 
 ### Explicacion Pedagogica
@@ -52,8 +52,8 @@ Un sistema busca la intersección de condiciones matemáticas representadas por 
 ### Opciones
 - [ ] A) Sustitución <!-- feedback: Incorrecto. Método estándar. -->
 - [ ] B) Igualación <!-- feedback: Incorrecto. Método estándar. -->
-- [x] C) Factorización <!-- feedback: Correcto. Se usa para simplificar sumas, no sistemas lineales. -->
-- [ ] D) Reducción <!-- feedback: Incorrecto. Método estándar (eliminación). -->
+- [x] D) Factorización <!-- feedback: Correcto. Se usa para simplificar sumas, no sistemas lineales. -->
+- [ ] C) Reducción <!-- feedback: Incorrecto. Método estándar (eliminación). -->
 
 ### Explicacion Pedagogica
 Identificación de los procedimientos algebraicos específicos para sistemas 2x2.
@@ -114,8 +114,8 @@ Halla (x, y).
 
 ### Opciones
 - [ ] A) (10, 5) <!-- feedback: Incorrecto. No cumple y=2x. -->
-- [x] B) (5, 10) <!-- feedback: Correcto. $5+10=15$ y $10=2(5)$. -->
-- [ ] C) (7.5, 7.5) <!-- feedback: Incorrecto. No cumple y=2x. -->
+- [x] C) (5, 10) <!-- feedback: Correcto. $5+10=15$ y $10=2(5)$. -->
+- [ ] B) (7.5, 7.5) <!-- feedback: Incorrecto. No cumple y=2x. -->
 - [ ] D) (3, 6) <!-- feedback: Incorrecto. Suma 9, no 15. -->
 
 ### Explicacion Pedagogica
@@ -134,8 +134,8 @@ Uso del método de sustitución para hallar el punto de intersección.
 Valor de x tras sumar las ecuaciones.
 
 ### Opciones
-- [ ] A) 10 <!-- feedback: Incorrecto. No dividió por 2. -->
-- [x] B) 5 <!-- feedback: Correcto. $2x = 10 \implies x = 5$. -->
+- [ ] B) 10 <!-- feedback: Incorrecto. No dividió por 2. -->
+- [x] A) 5 <!-- feedback: Correcto. $2x = 10 \implies x = 5$. -->
 - [ ] C) 3 <!-- feedback: Incorrecto. Valor insuficiente. -->
 - [ ] D) 6 <!-- feedback: Incorrecto. Error de cálculo. -->
 
@@ -156,8 +156,8 @@ Eliminación de una variable mediante la adición de ecuaciones.
 
 ### Opciones
 - [ ] A) RD\$ 50 <!-- feedback: Incorrecto. Revisa la diferencia. -->
-- [x] B) RD\$ 100 <!-- feedback: Correcto. 2 melones de diferencia valen 200. -->
-- [ ] C) RD\$ 75 <!-- feedback: Incorrecto. No cuadra la diferencia. -->
+- [x] C) RD\$ 100 <!-- feedback: Correcto. 2 melones de diferencia valen 200. -->
+- [ ] B) RD\$ 75 <!-- feedback: Incorrecto. No cuadra la diferencia. -->
 - [ ] D) RD\$ 150 <!-- feedback: Incorrecto. Valor excedido. -->
 
 ### Explicacion Pedagogica
@@ -198,8 +198,8 @@ Aplicación del método de reducción y posterior sustitución.
 
 ### Opciones
 - [ ] A) $g+v=20; g+v=50$ <!-- feedback: Incorrecto. Ignora patas. -->
-- [x] B) $g+v=20; 2g+4v=50$ <!-- feedback: Correcto. Conteo de cabezas y conteo de patas. -->
-- [ ] C) $g+v=50; 2g+4v=20$ <!-- feedback: Incorrecto. Intercambió totales. -->
+- [x] C) $g+v=20; 2g+4v=50$ <!-- feedback: Correcto. Conteo de cabezas y conteo de patas. -->
+- [ ] B) $g+v=50; 2g+4v=20$ <!-- feedback: Incorrecto. Intercambió totales. -->
 - [ ] D) $2g+4v=70$ <!-- feedback: Incorrecto. Falta condición de individuos. -->
 
 ### Explicacion Pedagogica
@@ -218,9 +218,9 @@ Modelación de problemas de mezclas o conteos múltiples con sistemas 2x2.
 ¿Cuántas vacas hay?
 
 ### Opciones
-- [x] A) 5 <!-- feedback: Correcto. $2(20-v)+4v=50 \implies 2v=10 \implies v=5$. -->
-- [ ] B) 15 <!-- feedback: Incorrecto. Son las gallinas. -->
-- [ ] C) 10 <!-- feedback: Incorrecto. Serían 60 patas. -->
+- [x] C) 5 <!-- feedback: Correcto. $2(20-v)+4v=50 \implies 2v=10 \implies v=5$. -->
+- [ ] A) 15 <!-- feedback: Incorrecto. Son las gallinas. -->
+- [ ] B) 10 <!-- feedback: Incorrecto. Serían 60 patas. -->
 - [ ] D) 20 <!-- feedback: Incorrecto. Excedió patas. -->
 
 ### Explicacion Pedagogica
@@ -240,8 +240,8 @@ Resolución de un problema aplicado mediante el método algebraico.
 
 ### Opciones
 - [ ] A) Sin solución. <!-- feedback: Incorrecto. Sí tienen puntos comunes. -->
-- [x] B) Infinitas soluciones. <!-- feedback: Correcto. Son la misma recta (sistema dependiente). -->
-- [ ] C) Única (0,5). <!-- feedback: Incorrecto. (1,4) también sirve. -->
+- [x] C) Infinitas soluciones. <!-- feedback: Correcto. Son la misma recta (sistema dependiente). -->
+- [ ] B) Única (0,5). <!-- feedback: Incorrecto. (1,4) también sirve. -->
 - [ ] D) x debe ser 2. <!-- feedback: Incorrecto. x es libre. -->
 
 ### Explicacion Pedagogica
@@ -302,8 +302,8 @@ Planteamiento de sistemas de mezcla balanceando peso y costo.
 Resuelve $x/2 + y/3 = 4$ y $x + y = 9$.
 
 ### Opciones
-- [ ] A) (4, 5) <!-- feedback: Incorrecto. Falló la primera. -->
-- [x] B) (6, 3) <!-- feedback: Correcto. $3+1=4$ en la primera y $6+3=9$ en la segunda. -->
+- [ ] B) (4, 5) <!-- feedback: Incorrecto. Falló la primera. -->
+- [x] A) (6, 3) <!-- feedback: Correcto. $3+1=4$ en la primera y $6+3=9$ en la segunda. -->
 - [ ] C) (2, 7) <!-- feedback: Incorrecto. No satisface. -->
 - [ ] D) (3, 6) <!-- feedback: Incorrecto. No satisface. -->
 
@@ -345,8 +345,8 @@ Condiciones de paralelismo en los coeficientes de las incógnitas.
 
 ### Opciones
 - [ ] A) RD\$ 4,000 <!-- feedback: Incorrecto. Interés insuficiente. -->
-- [x] B) RD\$ 6,000 <!-- feedback: Correcto. $0.04(4000)+0.06(6000) = 160+360=520$. -->
-- [ ] C) RD\$ 5,000 <!-- feedback: Incorrecto. Interés sería 500. -->
+- [x] C) RD\$ 6,000 <!-- feedback: Correcto. $0.04(4000)+0.06(6000) = 160+360=520$. -->
+- [ ] B) RD\$ 5,000 <!-- feedback: Incorrecto. Interés sería 500. -->
 - [ ] D) RD\$ 2,000 <!-- feedback: Incorrecto. Insuficiente. -->
 
 ### Explicacion Pedagogica
@@ -366,8 +366,8 @@ Aplicación de sistemas de ecuaciones a finanzas personales.
 
 ### Opciones
 - [ ] A) Cruce de tres líneas. <!-- feedback: Incorrecto. Son planos. -->
-- [x] B) Intersección de tres planos. <!-- feedback: Correcto. Punto común en el espacio. -->
-- [ ] C) Área entre curvas. <!-- feedback: Incorrecto. Es lineal. -->
+- [x] C) Intersección de tres planos. <!-- feedback: Correcto. Punto común en el espacio. -->
+- [ ] B) Área entre curvas. <!-- feedback: Incorrecto. Es lineal. -->
 - [ ] D) Volumen piramidal. <!-- feedback: Incorrecto. La solución es un punto. -->
 
 ### Explicacion Pedagogica
@@ -386,8 +386,8 @@ Extensión del concepto de solución al espacio tridimensional.
 ¿Número original?
 
 ### Opciones
-- [ ] A) 75 <!-- feedback: Incorrecto. Invertido es menor. -->
-- [x] B) 57 <!-- feedback: Correcto. $75 - 57 = 18$ y $5+7=12$. -->
+- [ ] B) 75 <!-- feedback: Incorrecto. Invertido es menor. -->
+- [x] A) 57 <!-- feedback: Correcto. $75 - 57 = 18$ y $5+7=12$. -->
 - [ ] C) 48 <!-- feedback: Incorrecto. Diferencia 36. -->
 - [ ] D) 39 <!-- feedback: Incorrecto. Diferencia 54. -->
 
@@ -408,9 +408,9 @@ Uso de sistemas para resolver acertijos numéricos de base diez.
 
 ### Opciones
 - [ ] A) Siempre una. <!-- feedback: Incorrecto. Recta corta círculo hasta dos veces. -->
-- [x] B) 0, 1 o 2. <!-- feedback: Correcto. Depende de la posición relativa de la recta. -->
-- [ ] C) Infinitas. <!-- feedback: Incorrecto. Curvaturas distintas. -->
-- [ ] D) Ninguna real. <!-- feedback: Incorrecto. Sí existen reales. -->
+- [x] D) 0, 1 o 2. <!-- feedback: Correcto. Depende de la posición relativa de la recta. -->
+- [ ] B) Infinitas. <!-- feedback: Incorrecto. Curvaturas distintas. -->
+- [ ] C) Ninguna real. <!-- feedback: Incorrecto. Sí existen reales. -->
 
 ### Explicacion Pedagogica
 Análisis de la intersección entre diferentes familias de funciones.
@@ -428,8 +428,8 @@ Análisis de la intersección entre diferentes familias de funciones.
 Halla $x+y+z$.
 
 ### Opciones
-- [ ] A) 20 <!-- feedback: Incorrecto. Es la suma de los resultados. -->
-- [x] B) 10 <!-- feedback: Correcto. $2(x+y+z) = 20 \implies 10$. -->
+- [ ] B) 20 <!-- feedback: Incorrecto. Es la suma de los resultados. -->
+- [x] A) 10 <!-- feedback: Correcto. $2(x+y+z) = 20 \implies 10$. -->
 - [ ] C) 15 <!-- feedback: Incorrecto. Excedido. -->
 - [ ] D) 7.5 <!-- feedback: Incorrecto. Insuficiente. -->
 

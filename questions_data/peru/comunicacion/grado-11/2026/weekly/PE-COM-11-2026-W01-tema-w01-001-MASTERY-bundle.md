@@ -32,9 +32,9 @@ En la obra de Abraham Valdelomar, ¿cuál es el nombre del gallo viejo y noble q
 ### Opciones
 - [ ] A) El Ajiseco
   <!-- feedback: Incorrecto. El Ajiseco es el rival joven y arrogante contra el cual pelea el Carmelo. -->
-- [x] B) El caballero Carmelo
+- [x] C) El caballero Carmelo
   <!-- feedback: Correcto. El caballero Carmelo es el gallo protagonista que encarna la nobleza y la valentía en el relato de Valdelomar. -->
-- [ ] C) El gallo de pelea de San Andrés
+- [ ] B) El gallo de pelea de San Andrés
   <!-- feedback: Incorrecto. Este es solo un término general para referirse a la procedencia geográfica, no es el nombre del protagonista. -->
 - [ ] D) El Pelado
   <!-- feedback: Incorrecto. El Pelado es otro gallo de la familia, caracterizado por ser travieso y causar disgustos antes de la pelea del Carmelo. -->
@@ -55,11 +55,11 @@ El cuento 'El caballero Carmelo' se centra en la figura de un viejo gallo de pel
 En la narrativa de Valdelomar, especialmente en 'El caballero Carmelo', ¿qué valor ético-familiar simboliza fundamentalmente el Carmelo?
 
 ### Opciones
-- [ ] A) La rebeldía juvenil frente a la autoridad paterna
+- [ ] B) La rebeldía juvenil frente a la autoridad paterna
   <!-- feedback: Incorrecto. El Carmelo representa valores tradicionales de madurez, serenidad y respeto, no rebeldía juvenil. -->
-- [ ] B) El desprecio por las tradiciones rurales
+- [ ] C) El desprecio por las tradiciones rurales
   <!-- feedback: Incorrecto. Al contrario, la obra exalta con nostalgia las tradiciones rurales y costeñas del Perú. -->
-- [x] C) La dignidad frente a la vejez y el deber cumplido
+- [x] A) La dignidad frente a la vejez y el deber cumplido
   <!-- feedback: Correcto. El gallo Carmelo acepta combatir a pesar de su avanzada edad y cansancio, representando la dignidad, el honor familiar y el sacrificio. -->
 - [ ] D) La ambición por el dinero de las apuestas
   <!-- feedback: Incorrecto. La familia no desea apostar por ambición comercial; es el honor y el compromiso del padre lo que impulsa el evento. -->
@@ -82,9 +82,9 @@ Lea el siguiente fragmento:
 ¿Qué tipo de conflicto socio-humano predomina en este fragmento del cuento literario de Ribeyro?
 
 ### Opciones
-- [ ] A) La falta de comunicación entre diferentes generaciones andinas
+- [ ] B) La falta de comunicación entre diferentes generaciones andinas
   <!-- feedback: Incorrecto. El relato no se enfoca en problemas generacionales andinos, sino en la explotación urbana costeña de la marginalidad de Lima. -->
-- [x] B) La explotación infantil y la deshumanización en la urbe marginal
+- [x] A) La explotación infantil y la deshumanización en la urbe marginal
   <!-- feedback: Correcto. El abuelo Don Santos representa la explotación despiadada hacia sus nietos Efraín y Enrique para alimentar al cerdo Pascual, reflejando la deshumanización de los sectores marginados. -->
 - [ ] C) La delincuencia juvenil organizada en los callejones limeños
   <!-- feedback: Incorrecto. Los niños no participan de delincuencia organizada, sino que realizan tareas de recolección de basura para subsistir bajo coacción. -->
@@ -111,9 +111,9 @@ Si quisiéramos asociar la situación de explotación de Enrique y Efraín con u
   <!-- feedback: Incorrecto. Este fenómeno involucra educación superior privada, alejado de la subsistencia y explotación infantil extrema. -->
 - [ ] B) La escasez de mano de obra calificada en el sector minero de la sierra
   <!-- feedback: Incorrecto. Se trata de un problema técnico de otra región geográfica y laboral. -->
-- [x] C) El trabajo infantil informal en botaderos de basura y calles céntricas
+- [x] D) El trabajo infantil informal en botaderos de basura y calles céntricas
   <!-- feedback: Correcto. La recolección de residuos en muladares bajo explotación es la definición directa del trabajo infantil informal y peligroso en zonas marginales actuales. -->
-- [ ] D) La migración de profesionales peruanos calificados al extranjero
+- [ ] C) La migración de profesionales peruanos calificados al extranjero
   <!-- feedback: Incorrecto. Esto se denomina 'fuga de cerebros', un fenómeno socioeconómico de clase media/alta que no guarda analogía con la marginalidad extrema descrita. -->
 
 ### Explicacion Pedagogica
@@ -159,9 +159,9 @@ A partir de la experiencia del protagonista Ernesto en 'Los ríos profundos', ¿
 ### Opciones
 - [ ] A) Rechaza sus orígenes hispanos y se niega a aprender castellano literario
   <!-- feedback: Incorrecto. Ernesto habla perfectamente castellano, pero su sensibilidad está profundamente ligada al quechua. -->
-- [ ] B) Siente vergüenza de haber crecido en comunidades indígenas andinas
+- [ ] C) Siente vergüenza de haber crecido en comunidades indígenas andinas
   <!-- feedback: Incorrecto. Al contrario, él añora la ternura y la música de las comunidades indias donde fue criado y de las cuales extrae su fuerza moral. -->
-- [x] C) Se halla atrapado entre el mundo señorial hispano (opresor) y el mundo indígena (maternal y armónico)
+- [x] B) Se halla atrapado entre el mundo señorial hispano (opresor) y el mundo indígena (maternal y armónico)
   <!-- feedback: Correcto. Ernesto vive una profunda dualidad: pertenece por herencia familiar al mundo criollo o terrateniente, pero su sensibilidad moral, lingüística y espiritual pertenece al mundo quechua, viéndose marginado en el internado. -->
 - [ ] D) Intenta asimilarse rápidamente a las costumbres limeñas de los profesores
   <!-- feedback: Incorrecto. El internado se ubica en Abancay y los referentes de Ernesto están lejos de las modas urbanas de Lima. -->
@@ -186,9 +186,9 @@ Si aplicamos este mito andino para interpretar un cambio social brusco pero nece
 ### Opciones
 - [ ] A) La destrucción absoluta y el castigo eterno de los pecados
   <!-- feedback: Incorrecto. La cosmovisión andina no opera bajo el concepto de pecado judeocristiano de castigo eterno; el Amaru tiene un fin transformador. -->
-- [x] B) Un agente de cambio cíclico que destruye para regenerar la vida
+- [x] C) Un agente de cambio cíclico que destruye para regenerar la vida
   <!-- feedback: Correcto. El Amaru desata tormentas que, aunque destructivas en apariencia, tienen como fin 'renovar la tierra', lo que simboliza la regeneración cíclica. -->
-- [ ] C) El temor reverencial a la tecnología moderna
+- [ ] B) El temor reverencial a la tecnología moderna
   <!-- feedback: Incorrecto. El mito es prehispánico y se vincula con la naturaleza, no con el miedo a la tecnología contemporánea. -->
 - [ ] D) La inmutabilidad del orden social establecido
   <!-- feedback: Incorrecto. El Amaru agita las aguas y vuela desatando cambios, lo que representa transformación y movimiento, no inmutabilidad. -->
@@ -213,11 +213,11 @@ Lea el siguiente inicio de relato:
 ### Opciones
 - [ ] A) Narrador omnisciente; genera un distanciamiento irónico y frío de la historia
   <!-- feedback: Incorrecto. Se utiliza la primera persona ('Llegamos', 'Mi padre', 'Yo'), lo que descarta al narrador omnisciente. -->
-- [x] B) Narrador protagonista (primera persona); otorga intimidad y veracidad emocional a la experiencia del viaje
+- [x] D) Narrador protagonista (primera persona); otorga intimidad y veracidad emocional a la experiencia del viaje
   <!-- feedback: Correcto. El narrador participa directamente en la acción física y expresa sus sentimientos íntimos de respeto ('entendí que debíamos quitarnos los sombreros'), generando cercanía emocional con el lector. -->
-- [ ] C) Narrador testigo; describe de manera externa e imparcial las acciones de un héroe histórico
+- [ ] B) Narrador testigo; describe de manera externa e imparcial las acciones de un héroe histórico
   <!-- feedback: Incorrecto. El narrador no es un observador pasivo de un tercero; él es parte central de la vivencia familiar íntima. -->
-- [ ] D) Narrador en segunda persona; busca interpelar al lector para que tome una posición política activa
+- [ ] C) Narrador en segunda persona; busca interpelar al lector para que tome una posición política activa
   <!-- feedback: Incorrecto. No se dirige al lector como 'tú', sino que narra en primera persona del plural y singular. -->
 
 ### Explicacion Pedagogica
@@ -238,9 +238,9 @@ En la narrativa de Mario Vargas Llosa, el uso de múltiples perspectivas o 'múl
 ### Opciones
 - [ ] A) Confundir deliberadamente al lector y evitar que comprenda el desenlace
   <!-- feedback: Incorrecto. El objetivo de las técnicas de Vargas Llosa no es la confusión caótica, sino la representación de la complejidad social. -->
-- [x] B) Demostrar que la realidad histórica es compleja, fragmentada y subjetiva
+- [x] C) Demostrar que la realidad histórica es compleja, fragmentada y subjetiva
   <!-- feedback: Correcto. Al presentar los hechos a través de los ojos de los soldados del gobierno, los rebeldes, el Consejero y periodistas, el autor ilustra la imposibilidad de una única verdad absoluta e incuestionable. -->
-- [ ] C) Ocultar la falta de documentación real de los procesos históricos
+- [ ] B) Ocultar la falta de documentación real de los procesos históricos
   <!-- feedback: Incorrecto. Vargas Llosa destaca justamente por su rigurosa investigación documental e histórica previa a la redacción de sus novelas. -->
 - [ ] D) Garantizar que la voz oficial del gobierno sea la que predomine en la novela
   <!-- feedback: Incorrecto. La técnica descentraliza la voz oficial para dar igual peso narrativo a las voces marginales, disidentes o místicas. -->
@@ -267,9 +267,9 @@ Lea el fragmento:
   <!-- feedback: Incorrecto. Al contrario, Roberto tiene 'proyectos fantásticos' e imaginación desbordante. -->
 - [ ] B) El desinterés por las oportunidades educativas que brinda el Estado
   <!-- feedback: Incorrecto. El texto no alude a la educación formal, sino a la expectativa de enriquecimiento rápido. -->
-- [x] C) El autoengaño ilusorio y la idealización del éxito rápido sin bases reales
+- [x] D) El autoengaño ilusorio y la idealización del éxito rápido sin bases reales
   <!-- feedback: Correcto. La ironía de Ribeyro reside en contrastar la dura realidad material de Roberto (bolsillos vacíos) con sus fantasías desmesuradas de riqueza instantánea (volverse millonario en un mes con una sola idea), rasgo común en sus personajes frustrados. -->
-- [ ] D) Su profunda resignación y conformismo frente a su destino económico
+- [ ] C) Su profunda resignación y conformismo frente a su destino económico
   <!-- feedback: Incorrecto. El personaje no está resignado; por el contrario, sueña activamente con el éxito, aunque de manera ingenua e inoperante. -->
 
 ### Explicacion Pedagogica
@@ -290,9 +290,9 @@ Si tuviéramos que caracterizar el 'realismo urbano' de la generación del 50 en
 ### Opciones
 - [ ] A) El traslado del foco de atención hacia los conflictos agrarios de los latifundios serranos
   <!-- feedback: Incorrecto. Esto describe al indigenismo clásico, no al realismo urbano de la generación del 50. -->
-- [x] B) La representación de Lima como una urbe hostil y devoradora que recibe las primeras oleadas de migrantes provincianos
+- [x] C) La representación de Lima como una urbe hostil y devoradora que recibe las primeras oleadas de migrantes provincianos
   <!-- feedback: Correcto. El realismo urbano (Congrains, Ribeyro) explora las barriadas, la burocracia estatal media y la difícil adaptación de los migrantes andinos a una capital que los marginaliza. -->
-- [ ] C) La idealización bucólica y poética de las caletas de pescadores del norte peruano
+- [ ] B) La idealización bucólica y poética de las caletas de pescadores del norte peruano
   <!-- feedback: Incorrecto. El tono del realismo del 50 es de denuncia social y desilusión, ajeno a la idealización romántica o bucólica. -->
 - [ ] D) El análisis psicológico de la aristocracia limeña durante el virreinato
   <!-- feedback: Incorrecto. La generación del 50 es contemporánea y se enfoca en las clases medias, bajas y migrantes, no en el virreinato aristocrático. -->
@@ -315,9 +315,9 @@ En 'Yawar Fiesta', el conflicto central gira en torno a la prohibición gubernam
 ### Opciones
 - [ ] A) La perfecta asimilación y acuerdo armonioso entre las autoridades de Lima y los comuneros de Puquio
   <!-- feedback: Incorrecto. Hay una tensión constante y conflicto abierto, no asimilación armoniosa. -->
-- [ ] B) El desinterés absoluto de los indígenas por conservar sus ritos religiosos ancestrales
+- [ ] C) El desinterés absoluto de los indígenas por conservar sus ritos religiosos ancestrales
   <!-- feedback: Incorrecto. Los comuneros defienden con fervor el turupukllay como afirmación de su valor e identidad comunal. -->
-- [x] C) El choque cultural entre el centralismo modernizador limeño (que tilda la fiesta de bárbara) y la resistencia cultural andina (que la considera un rito de identidad)
+- [x] B) El choque cultural entre el centralismo modernizador limeño (que tilda la fiesta de bárbara) y la resistencia cultural andina (que la considera un rito de identidad)
   <!-- feedback: Correcto. La circular del gobierno de Lima prohíbe la corrida por considerarla 'salvaje', chocando contra los comuneros locales que ven en el turupukllay la máxima expresión de su valentía y autonomía cultural frente al misti (blanco/mestizo). -->
 - [ ] D) La alianza inquebrantable de los terratenientes locales con las demandas de los indios más pobres
   <!-- feedback: Incorrecto. Los terratenientes (mistis) están divididos; algunos apoyan la modernización de Lima para ganar prestigio y otros la rechazan por defender sus privilegios feudales, pero no se alían de forma desinteresada con los indios. -->
@@ -342,9 +342,9 @@ Lea el fragmento de 'Tristitia':
 ### Opciones
 - [ ] A) Un dinamismo festivo propio de las celebraciones patronales costeñas
   <!-- feedback: Incorrecto. Los términos 'triste y sola', 'manso rumor con que muere una ola' y 'tañer doloroso' configuran una atmósfera de recogimiento, no de fiesta. -->
-- [x] B) Una melancolía serena asociada al paisaje marino y la soledad del hogar provinciano
+- [x] C) Una melancolía serena asociada al paisaje marino y la soledad del hogar provinciano
   <!-- feedback: Correcto. La combinación de elementos naturales (el mar de Pisco) y acústicos (la campana de la iglesia) genera un tono de nostalgia dulce, triste y contemplativa típica de la estética postmodernista de Valdelomar. -->
-- [ ] C) El pavor existencial ante la inminencia del terremoto en el sur peruano
+- [ ] B) El pavor existencial ante la inminencia del terremoto en el sur peruano
   <!-- feedback: Incorrecto. No se describe ningún desastre o pavor existencial violento; la escena es de calma y paz rural deslizada de forma mansa. -->
 - [ ] D) La rebeldía romántica del poeta que se siente incomprendido por su familia
   <!-- feedback: Incorrecto. El poema exalta la paz del hogar y la ternura de sus padres ('me dieron el oro de su ternura...'), mostrando agradecimiento, no rebeldía. -->
@@ -365,11 +365,11 @@ Valdelomar edifica en 'Tristitia' un espacio íntimo de comunión con la natural
 En la obra narrativa de César Vallejo, como en su novela 'El tungsteno' o el cuento 'Paco Yunque', ¿qué perspectiva ideológico-social asume primordialmente la voz narrativa?
 
 ### Opciones
-- [ ] A) El esteticismo puro, desprovisto de juicios éticos o de compromiso político
+- [ ] B) El esteticismo puro, desprovisto de juicios éticos o de compromiso político
   <!-- feedback: Incorrecto. Vallejo se caracteriza por un fuerte compromiso humano y social; su literatura no busca el arte por el arte. -->
-- [ ] B) La justificación de las desigualdades como parte del orden natural de las cosas
+- [ ] C) La justificación de las desigualdades como parte del orden natural de las cosas
   <!-- feedback: Incorrecto. Toda la obra vallejana denuncia con dolor y rabia las injusticias, buscando despertar la sensibilidad ética del lector. -->
-- [x] C) La denuncia explícita de las asimetrías de clase y la opresión sobre los sectores desprotegidos
+- [x] A) La denuncia explícita de las asimetrías de clase y la opresión sobre los sectores desprotegidos
   <!-- feedback: Correcto. 'El tungsteno' denuncia la explotación de los peones e indígenas por parte de una empresa minera extranjera y la oligarquía local; 'Paco Yunque' expone la humillación del niño campesino por parte de la élite de provincia. -->
 - [ ] D) La defensa de las corporaciones transnacionales como motores únicos del progreso
   <!-- feedback: Incorrecto. Justamente las empresas mineras extranjeras son retratadas como entes despiadados y corruptores en 'El tungsteno'. -->
@@ -394,9 +394,9 @@ Considerando las actitudes de Humberto Grieve (el niño rico) y la pasividad del
   <!-- feedback: Incorrecto. El conflicto del aula no es pedagógico-académico, sino moral y de abuso de poder sin sanción. -->
 - [ ] B) La falta de infraestructura moderna en los colegios públicos andinos
   <!-- feedback: Incorrecto. El cuento no centra su crítica en el aspecto material del aula, sino en las relaciones humanas e institucionales. -->
-- [x] C) La complicidad del sistema educativo frente a los abusos cometidos por las clases influyentes
+- [x] D) La complicidad del sistema educativo frente a los abusos cometidos por las clases influyentes
   <!-- feedback: Correcto. El maestro tolera las mentiras, agresiones y tardanzas de Humberto Grieve debido al poder económico de su padre (el gerente de la empresa local), lo que demuestra cómo las jerarquías de clase corrompen la justicia en la escuela. -->
-- [ ] D) La necesidad de expulsar a los niños campesinos de las escuelas urbanas
+- [ ] C) La necesidad de expulsar a los niños campesinos de las escuelas urbanas
   <!-- feedback: Incorrecto. Vallejo defiende la dignidad de Paco Yunque; el cuento no promueve la segregación, sino que denuncia la marginación existente para combatirla. -->
 
 ### Explicacion Pedagogica
@@ -419,9 +419,9 @@ Lea la siguiente afirmación de José María Arguedas en su discurso 'No soy un 
 ### Opciones
 - [ ] A) La erradicación del castellano para recuperar el quechua como única lengua nacional
   <!-- feedback: Incorrecto. Arguedas habla 'en cristiano y en indio', defendiendo la coexistencia y mestizaje de ambos mundos, no la eliminación de uno. -->
-- [ ] B) La superioridad inherente de la cultura criolla sobre las tradiciones andinas
+- [ ] C) La superioridad inherente de la cultura criolla sobre las tradiciones andinas
   <!-- feedback: Incorrecto. Toda la vida y obra de Arguedas combate la discriminación y la falsa idea de que la cultura andina es inferior. -->
-- [x] C) La posibilidad de habitar simultáneamente dos universos culturales distintos sin perder la autenticidad
+- [x] B) La posibilidad de habitar simultáneamente dos universos culturales distintos sin perder la autenticidad
   <!-- feedback: Correcto. El autor rechaza la idea de que para integrarse a la modernidad occidental el indígena deba renunciar a su herencia cultural, proponiendo un diálogo de culturas asertivo y simétrico (interculturalidad). -->
 - [ ] D) La necesidad de aislar a las comunidades andinas de todo contacto con el mundo exterior
   <!-- feedback: Incorrecto. Arguedas reconoce la necesidad de dominar el castellano ('habla en cristiano') para interactuar en el mundo moderno, pero conservando la riqueza andina. -->
@@ -444,11 +444,11 @@ En 'Los cachorros' de Mario Vargas Llosa, el uso de un narrador colectivo en pri
 ### Opciones
 - [ ] A) Ocultar la identidad del verdadero culpable de la castración física del protagonista
   <!-- feedback: Incorrecto. La agresión del perro Judas es un accidente fortuito y público; no hay un culpable humano que ocultar. -->
-- [x] B) Representar la presión asfixiante de la mentalidad de grupo de la burguesía miraflorina de la época
+- [x] D) Representar la presión asfixiante de la mentalidad de grupo de la burguesía miraflorina de la época
   <!-- feedback: Correcto. El 'nosotros' (la pandilla del barrio) actúa como una conciencia colectiva que acompaña, juzga, asimila y finalmente margina a Cuéllar cuando este es incapaz de adaptarse a los ritos de virilidad y madurez exigidos por su clase social. -->
-- [ ] C) Evitar el uso de diálogos para acelerar el ritmo del relato de aventuras
+- [ ] B) Evitar el uso de diálogos para acelerar el ritmo del relato de aventuras
   <!-- feedback: Incorrecto. La novela está cargada de diálogos directos que se insertan de manera sumamente dinámica dentro de la corriente de voz del narrador. -->
-- [ ] D) Establecer la voz del propio autor como un juez moral absoluto fuera de la historia
+- [ ] C) Establecer la voz del propio autor como un juez moral absoluto fuera de la historia
   <!-- feedback: Incorrecto. El narrador colectivo está inmerso en la historia (es personaje-testigo); comparte los mismos prejuicios de su grupo y no juzga desde afuera. -->
 
 ### Explicacion Pedagogica
@@ -470,11 +470,11 @@ Lea los siguientes dos pasajes sobre la vida en Lima:
 ¿Qué divergencia ideológico-estética fundamental se constata entre ambos autores?
 
 ### Opciones
-- [ ] A) El Texto A propone un análisis económico moderno mientras que el Texto B es puramente humorístico
+- [ ] B) El Texto A propone un análisis económico moderno mientras que el Texto B es puramente humorístico
   <!-- feedback: Incorrecto. El Texto A es conservador y costumbrista, no económico; el Texto B es de corte dramático y realista, no humorístico. -->
-- [ ] B) Ambos autores coinciden en idealizar el campo frente al progreso tecnológico de la capital
+- [ ] C) Ambos autores coinciden en idealizar el campo frente al progreso tecnológico de la capital
   <!-- feedback: Incorrecto. Pardo y Aliaga defiende el orden aristocrático colonial de la ciudad; Congrains retrata de manera brutal la marginalidad urbana de la migración. -->
-- [x] C) El Texto A adopta una postura conservadora y nostálgica del orden tradicional, mientras que el Texto B ejerce una denuncia naturalista de la violencia social urbana
+- [x] A) El Texto A adopta una postura conservadora y nostálgica del orden tradicional, mientras que el Texto B ejerce una denuncia naturalista de la violencia social urbana
   <!-- feedback: Correcto. Pardo y Aliaga representa al costumbrismo de élite que idealiza el pasado colonial y sus ritos señoriales; Congrains representa el neorrealismo urbano que describe con lenguaje crudo el impacto de la modernización desordenada y la migración masiva. -->
 - [ ] D) El Texto A defiende la revolución obrera y el Texto B aboga por el retorno al virreinato de España
   <!-- feedback: Incorrecto. Es justamente al revés en cuanto a posturas ante el cambio, y las ideas de revolución obrera no corresponden a Pardo y Aliaga. -->
@@ -499,9 +499,9 @@ Lea el fragmento de la novela 'Conversación en La Catedral' de Mario Vargas Llo
 ### Opciones
 - [ ] A) Que la decadencia del país se inició debido a factores externos como la caída de los precios internacionales de los minerales
   <!-- feedback: Incorrecto. Santiago asocia la frustración con un problema moral interno ligado al autoritarismo y la complicidad de su propia clase social, no a factores macroeconómicos globales. -->
-- [x] B) Que la frustración nacional no es un evento fortuito, sino un proceso acumulativo de claudicación moral y pérdida de libertades democráticas
+- [x] C) Que la frustración nacional no es un evento fortuito, sino un proceso acumulativo de claudicación moral y pérdida de libertades democráticas
   <!-- feedback: Correcto. La pregunta sobre el momento en que se 'jodió' el país indaga en las raíces históricas de un fracaso colectivo que se agrava durante la dictadura de Odría (el Ochenio), donde la sociedad civil (incluida la familia adinerada de Santiago) claudicó moralmente a cambio de estabilidad económica. -->
-- [ ] C) La culpa exclusiva del crecimiento urbano desordenado sobre la felicidad de los ciudadanos de Lima
+- [ ] B) La culpa exclusiva del crecimiento urbano desordenado sobre la felicidad de los ciudadanos de Lima
   <!-- feedback: Incorrecto. La geografía de Lima (el polvo) acompaña su pensamiento de desilusión existencial, pero el núcleo de la pregunta es ético, político e histórico. -->
 - [ ] D) La propuesta de restaurar el Imperio de los Incas como única vía de salvación moral para la República
   <!-- feedback: Incorrecto. Santiago Zavala es un joven periodista de clase media alta desencantado con posturas utópicas; no propone una restauración indigenista. -->
@@ -526,9 +526,9 @@ Si contrastamos el 'primer indigenismo' de Clorinda Matto de Turner en su novela
   <!-- feedback: Incorrecto. Es al revés: Matto de Turner escribe desde una perspectiva paternalista hispana y sus indios hablan con giros románticos ajenos a su realidad; Arguedas los dota de una gran profundidad interna y lírica basada en su propia lengua. -->
 - [ ] B) La renuncia del indigenismo del siglo XX a plantear reclamos sobre la tenencia de la tierra para centrarse solo en la música
   <!-- feedback: Incorrecto. Al contrario, las luchas agrarias por la tierra son centrales en Arguedas y en Scorza ('Redoble por Rancas' narra la rebelión campesina contra la Cerro de Pasco Corporation). -->
-- [x] C) La transición de una mirada paternalista-filantrópica externa hacia una representación autónoma, compleja y de resistencia activa desde la propia cosmovisión andina
+- [x] D) La transición de una mirada paternalista-filantrópica externa hacia una representación autónoma, compleja y de resistencia activa desde la propia cosmovisión andina
   <!-- feedback: Correcto. Matto de Turner asume una postura humanitaria y de queja cristiana donde el indio es una víctima pasiva que requiere la salvación de intelectuales criollos ilustrados; Arguedas y Scorza, en cambio, muestran al indio como un agente histórico complejo con una cosmovisión rica, capaz de organizarse, rebelarse y resistir la opresión terrateniente. -->
-- [ ] D) La asimilación definitiva del indio a la vida urbana criolla como única salida digna
+- [ ] C) La asimilación definitiva del indio a la vida urbana criolla como única salida digna
   <!-- feedback: Incorrecto. Ninguno de estos autores propone la desaparición de la cultura andina mediante la asimilación criolla; defienden el valor autónomo de sus tradiciones y derechos. -->
 
 ### Explicacion Pedagogica

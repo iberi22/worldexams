@@ -31,9 +31,9 @@ Si la razón entre harina y azúcar es 5:2, ¿qué significa esto correctamente?
 
 ### Opciones
 - [ ] A) Por cada 5 gramos de mezcla, 2 son de azúcar. <!-- feedback: La razón 5:2 indica la relación entre los ingredientes, no con el total de la mezcla. -->
-- [x] B) Por cada 5 unidades de harina, se deben usar 2 unidades de azúcar. <!-- feedback: Correcto. La razón compara directamente las cantidades de los dos componentes. -->
-- [ ] C) Hay 3 unidades más de harina que de azúcar en cualquier preparación. <!-- feedback: La razón indica una relación multiplicativa, no una diferencia constante. -->
-- [ ] D) La harina representa el 50% de la mezcla total. <!-- feedback: Si la razón es 5:2, la harina representa 5/7 del total, que es más del 70%. -->
+- [x] D) Por cada 5 unidades de harina, se deben usar 2 unidades de azúcar. <!-- feedback: Correcto. La razón compara directamente las cantidades de los dos componentes. -->
+- [ ] B) Hay 3 unidades más de harina que de azúcar en cualquier preparación. <!-- feedback: La razón indica una relación multiplicativa, no una diferencia constante. -->
+- [ ] C) La harina representa el 50% de la mezcla total. <!-- feedback: Si la razón es 5:2, la harina representa 5/7 del total, que es más del 70%. -->
 
 ### Explicacion Pedagogica
 Una razón es una comparación por cociente entre dos magnitudes. En este caso, la razón 5:2 entre harina y azúcar establece que por cada 5 partes de la primera magnitud, corresponden 2 partes de la segunda.
@@ -106,8 +106,8 @@ A mayor cantidad de trabajadores, menor es el tiempo de ejecución (proporcional
 Si el candidato B obtuvo 150 votos, ¿cuántos votos obtuvo el candidato A?
 
 ### Opciones
-- [ ] A) 105 votos <!-- feedback: Invertiste la razón o calculaste mal el factor de escala. -->
-- [x] B) 350 votos <!-- feedback: $\frac{7}{3} = \frac{x}{150} \Rightarrow x = \frac{7 \cdot 150}{3} = 350$. -->
+- [ ] B) 105 votos <!-- feedback: Invertiste la razón o calculaste mal el factor de escala. -->
+- [x] A) 350 votos <!-- feedback: $\frac{7}{3} = \frac{x}{150} \Rightarrow x = \frac{7 \cdot 150}{3} = 350$. -->
 - [ ] C) 250 votos <!-- feedback: Error en la multiplicación o división de la proporción. -->
 - [ ] D) 500 votos <!-- feedback: Ese es el total de votos sumando ambos candidatos. -->
 
@@ -146,8 +146,8 @@ Sumamos los términos de la razón: $2 + 3 = 5$ partes iguales. Dividimos el tot
 ### Opciones
 - [ ] A) 2 llaves <!-- feedback: Menos llaves tardarían más tiempo. Es proporción inversa. -->
 - [ ] B) 6 llaves <!-- feedback: Error en el cálculo de la constante de proporcionalidad. -->
-- [x] C) 8 llaves <!-- feedback: El tiempo se reduce a la mitad, por lo que las llaves se duplican. $4 \cdot 6 = 24$; $24 / 3 = 8$. -->
-- [ ] D) 12 llaves <!-- feedback: Multiplicaste por el factor equivocado. -->
+- [x] D) 8 llaves <!-- feedback: El tiempo se reduce a la mitad, por lo que las llaves se duplican. $4 \cdot 6 = 24$; $24 / 3 = 8$. -->
+- [ ] C) 12 llaves <!-- feedback: Multiplicaste por el factor equivocado. -->
 
 ### Explicacion Pedagogica
 Es una relación de proporcionalidad inversa: a más llaves, menos tiempo. La constante es $4 \text{ llaves} \cdot 6 \text{ horas} = 24$. Para un tiempo de 3 horas: $x \cdot 3 = 24 \Rightarrow x = 24 / 3 = 8$ llaves.
@@ -163,9 +163,9 @@ Es una relación de proporcionalidad inversa: a más llaves, menos tiempo. La co
 ¿Cuánto tiempo tardarán en imprimir los mismos 500 folletos si usan 5 máquinas trabajando al mismo ritmo?
 
 ### Opciones
-- [ ] A) 100 minutos <!-- feedback: Aplicaste proporción directa, pero a más máquinas, menos tiempo. -->
-- [ ] B) 20 minutos <!-- feedback: Error en el cálculo aritmético. -->
-- [x] C) 16 minutos <!-- feedback: $40 \cdot 2 = x \cdot 5 \Rightarrow 80 = 5x \Rightarrow x = 16$. -->
+- [ ] B) 100 minutos <!-- feedback: Aplicaste proporción directa, pero a más máquinas, menos tiempo. -->
+- [ ] C) 20 minutos <!-- feedback: Error en el cálculo aritmético. -->
+- [x] A) 16 minutos <!-- feedback: $40 \cdot 2 = x \cdot 5 \Rightarrow 80 = 5x \Rightarrow x = 16$. -->
 - [ ] D) 8 minutos <!-- feedback: Has dividido por un factor extra de 2. -->
 
 ### Explicacion Pedagogica
@@ -202,8 +202,8 @@ El semiperímetro ($largo + ancho$) es $20 \text{ cm}$. La razón $3:2$ suma 5 p
 
 ### Opciones
 - [ ] A) 2 <!-- feedback: Eso sería si la proporción fuera directa. -->
-- [x] B) 8 <!-- feedback: En proporción inversa, si $x$ se reduce a la mitad, $y$ se duplica. $10 \cdot 4 = 5 \cdot y \Rightarrow 40 = 5y \Rightarrow y=8$. -->
-- [ ] C) 20 <!-- feedback: Multiplicaste por un factor incorrecto. -->
+- [x] C) 8 <!-- feedback: En proporción inversa, si $x$ se reduce a la mitad, $y$ se duplica. $10 \cdot 4 = 5 \cdot y \Rightarrow 40 = 5y \Rightarrow y=8$. -->
+- [ ] B) 20 <!-- feedback: Multiplicaste por un factor incorrecto. -->
 - [ ] D) 10 <!-- feedback: La constante de producto es 40, no 50. -->
 
 ### Explicacion Pedagogica
@@ -221,8 +221,8 @@ En la proporcionalidad inversa, el producto de las variables es constante ($x \c
 
 ### Opciones
 - [ ] A) 4 días <!-- feedback: Error al no considerar el aumento significativo en los metros de muro. -->
-- [x] B) 8 días <!-- feedback: Operarios y días son inversos; Metros y días son directos. $\frac{4 \cdot 5}{100} = \frac{x \cdot 10}{400} \Rightarrow \frac{20}{100} = \frac{10x}{400} \Rightarrow 0,2 = \frac{x}{40} \Rightarrow x = 8$. -->
-- [ ] C) 16 días <!-- feedback: No consideraste que al haber más operarios el tiempo se reduce. -->
+- [x] C) 8 días <!-- feedback: Operarios y días son inversos; Metros y días son directos. $\frac{4 \cdot 5}{100} = \frac{x \cdot 10}{400} \Rightarrow \frac{20}{100} = \frac{10x}{400} \Rightarrow 0,2 = \frac{x}{40} \Rightarrow x = 8$. -->
+- [ ] B) 16 días <!-- feedback: No consideraste que al haber más operarios el tiempo se reduce. -->
 - [ ] D) 2 días <!-- feedback: El aumento de trabajo (metros) pesa más que el aumento de personal. -->
 
 ### Explicacion Pedagogica
@@ -239,8 +239,8 @@ Usamos la regla de tres compuesta. La relación días-operarios es inversa ($\cd
 Si para una obra se utilizan $400 \text{ kg}$ del componente C, ¿cuál es la masa total de la mezcla?
 
 ### Opciones
-- [ ] A) $800 \text{ kg}$ <!-- feedback: Solo sumaste una parte de los componentes. -->
-- [x] B) $640 \text{ kg}$ <!-- feedback: $5k = 400 \Rightarrow k = 80$. Total = $(1+2+5) \cdot 80 = 8 \cdot 80 = 640$. -->
+- [ ] B) $800 \text{ kg}$ <!-- feedback: Solo sumaste una parte de los componentes. -->
+- [x] A) $640 \text{ kg}$ <!-- feedback: $5k = 400 \Rightarrow k = 80$. Total = $(1+2+5) \cdot 80 = 8 \cdot 80 = 640$. -->
 - [ ] C) $1.000 \text{ kg}$ <!-- feedback: Calculaste el total basándote en una razón distinta. -->
 - [ ] D) $500 \text{ kg}$ <!-- feedback: Error al determinar el valor de la constante $k$. -->
 
@@ -259,8 +259,8 @@ Si dos ciudades están separadas por $125 \text{ km}$, ¿cuántos centímetros d
 
 ### Opciones
 - [ ] A) $4 \text{ cm}$ <!-- feedback: Eso representaría 100 km. -->
-- [x] B) $5 \text{ cm}$ <!-- feedback: $\frac{2}{50} = \frac{x}{125} \Rightarrow x = \frac{2 \cdot 125}{50} = \frac{250}{50} = 5$. -->
-- [ ] C) $6 \text{ cm}$ <!-- feedback: Error en el cálculo de la proporción directa. -->
+- [x] C) $5 \text{ cm}$ <!-- feedback: $\frac{2}{50} = \frac{x}{125} \Rightarrow x = \frac{2 \cdot 125}{50} = \frac{250}{50} = 5$. -->
+- [ ] B) $6 \text{ cm}$ <!-- feedback: Error en el cálculo de la proporción directa. -->
 - [ ] D) $2,5 \text{ cm}$ <!-- feedback: Dividiste al revés. -->
 
 ### Explicacion Pedagogica
@@ -278,8 +278,8 @@ La razón es $2 \text{ cm} / 50 \text{ km} = 0,04 \text{ cm/km}$. Multiplicamos 
 
 ### Opciones
 - [ ] A) 3:4 <!-- feedback: La razón de las áreas es el cuadrado de la razón de los lados. -->
-- [ ] B) $\sqrt{3}:\sqrt{4}$ <!-- feedback: Esa sería la relación inversa si conociéramos las áreas. -->
-- [x] C) 9:16 <!-- feedback: $(3/4)^2 = 9/16$. -->
+- [ ] C) $\sqrt{3}:\sqrt{4}$ <!-- feedback: Esa sería la relación inversa si conociéramos las áreas. -->
+- [x] B) 9:16 <!-- feedback: $(3/4)^2 = 9/16$. -->
 - [ ] D) 6:8 <!-- feedback: Solo multiplicaste por 2, no elevaste al cuadrado. -->
 
 ### Explicacion Pedagogica
@@ -296,8 +296,8 @@ Si la razón entre los lados de dos figuras semejantes es $k$, entonces la razó
 ¿Cuál es la razón entre la inversión de Pedro y la de Diego?
 
 ### Opciones
-- [ ] A) 4:2 <!-- feedback: No puedes comparar directamente sin igualar el término común (Juan). -->
-- [x] B) 6:5 <!-- feedback: $P/J = 4/5 = 12/15$ y $J/D = 3/2 = 15/10$. Entonces $P:D = 12:10 = 6:5$. -->
+- [ ] B) 4:2 <!-- feedback: No puedes comparar directamente sin igualar el término común (Juan). -->
+- [x] A) 6:5 <!-- feedback: $P/J = 4/5 = 12/15$ y $J/D = 3/2 = 15/10$. Entonces $P:D = 12:10 = 6:5$. -->
 - [ ] C) 2:1 <!-- feedback: Error al encadenar las razones. -->
 - [ ] D) 12:5 <!-- feedback: Error en la simplificación de la razón compuesta. -->
 
@@ -354,9 +354,9 @@ Si a una presión de 2 atmósferas el volumen es de 12 litros, ¿cuál será el 
 
 ### Opciones
 - [ ] A) 36 litros <!-- feedback: Proporción directa incorrecta; a más presión, menos volumen. -->
-- [x] B) 4 litros <!-- feedback: $2 \cdot 12 = 6 \cdot V \Rightarrow 24 = 6V \Rightarrow V = 4$. -->
-- [ ] C) 6 litros <!-- feedback: Error en el cálculo de la constante. -->
-- [ ] D) 8 litros <!-- feedback: Dividiste por el factor equivocado. -->
+- [x] D) 4 litros <!-- feedback: $2 \cdot 12 = 6 \cdot V \Rightarrow 24 = 6V \Rightarrow V = 4$. -->
+- [ ] B) 6 litros <!-- feedback: Error en el cálculo de la constante. -->
+- [ ] C) 8 litros <!-- feedback: Dividiste por el factor equivocado. -->
 
 ### Explicacion Pedagogica
 En proporción inversa, $P_1 \cdot V_1 = P_2 \cdot V_2$. Sustituimos los valores conocidos: $2 \text{ atm} \cdot 12 \text{ l} = 6 \text{ atm} \cdot V_2$. Obtenemos $24 = 6V_2$, por lo tanto $V_2 = 24 / 6 = 4$ litros.
@@ -392,8 +392,8 @@ Establecemos la relación: $\text{Tarifa} / (\text{Peso} \cdot \text{Distancia})
 
 ### Opciones
 - [ ] A) $6 \text{ km}^2$ <!-- feedback: Error al no elevar la escala al cuadrado para el área. -->
-- [ ] B) $12 \text{ km}^2$ <!-- feedback: Calculaste el perímetro real, no el área. -->
-- [x] C) $36 \text{ km}^2$ <!-- feedback: Lado real = $3 \text{ cm} \cdot 200.000 = 600.000 \text{ cm} = 6 \text{ km}$. Área = $6^2 = 36$. -->
+- [ ] C) $12 \text{ km}^2$ <!-- feedback: Calculaste el perímetro real, no el área. -->
+- [x] B) $36 \text{ km}^2$ <!-- feedback: Lado real = $3 \text{ cm} \cdot 200.000 = 600.000 \text{ cm} = 6 \text{ km}$. Área = $6^2 = 36$. -->
 - [ ] D) $144 \text{ km}^2$ <!-- feedback: Has multiplicado erróneamente por un factor de 4. -->
 
 ### Explicacion Pedagogica

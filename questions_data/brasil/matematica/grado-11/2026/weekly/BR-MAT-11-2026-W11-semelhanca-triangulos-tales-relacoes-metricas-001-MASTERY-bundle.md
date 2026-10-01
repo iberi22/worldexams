@@ -106,9 +106,9 @@ Nas relações métricas do triângulo retângulo, a altura h relativa à hipote
 Três terrenos retangulares contíguos têm frentes de 10 m, 15 m e 20 m para a rua A. Pelo fundo, eles são delimitados pela rua B, paralela à rua A. Se o terreno de frente 10 m tem 30 m de profundidade, qual é a profundidade do terreno de frente 20 m?
 
 ### Opciones
-- [ ] A) 45 m <!-- feedback: Incorreto: 45 m seria a profundidade do terreno de 15 m de frente. -->
-- [ ] B) 50 m <!-- feedback: Incorreto: a proporção é direta: 10/30 = 20/x resulta em x = 60 m. -->
-- [x] C) 60 m <!-- feedback: Correto: por Tales, 10/30 = 20/x, logo x = 60 m. -->
+- [ ] B) 45 m <!-- feedback: Incorreto: 45 m seria a profundidade do terreno de 15 m de frente. -->
+- [ ] C) 50 m <!-- feedback: Incorreto: a proporção é direta: 10/30 = 20/x resulta em x = 60 m. -->
+- [x] A) 60 m <!-- feedback: Correto: por Tales, 10/30 = 20/x, logo x = 60 m. -->
 - [ ] D) 75 m <!-- feedback: Incorreto: valor acima do proporcional esperado. -->
 
 ### Explicacion Pedagogica
@@ -125,8 +125,8 @@ Pelo Teorema de Tales, as frentes e as profundidades são diretamente proporcion
 Dois triângulos semelhantes têm razão de semelhança 3 (o segundo é 3 vezes maior que o primeiro). Se a área do menor é 12 cm², qual é a área do maior?
 
 ### Opciones
-- [ ] A) 36 cm² <!-- feedback: Incorreto: 36 seria o resultado se a área crescesse na razão 3, mas ela cresce na razão ao quadrado. -->
-- [x] B) 108 cm² <!-- feedback: Correto: a área cresce na razão 3² = 9, logo 12 × 9 = 108 cm². -->
+- [ ] B) 36 cm² <!-- feedback: Incorreto: 36 seria o resultado se a área crescesse na razão 3, mas ela cresce na razão ao quadrado. -->
+- [x] A) 108 cm² <!-- feedback: Correto: a área cresce na razão 3² = 9, logo 12 × 9 = 108 cm². -->
 - [ ] C) 72 cm² <!-- feedback: Incorreto: razão 6 seria o dobro da razão dada. -->
 - [ ] D) 144 cm² <!-- feedback: Incorreto: valor correspondente à razão 12, não à razão 3. -->
 
@@ -145,9 +145,9 @@ Uma vareta de 1 m projeta uma sombra de 0,8 m no mesmo instante em que um poste 
 
 ### Opciones
 - [ ] A) 3,2 m <!-- feedback: Incorreto: 3,2 m seria o resultado se a sombra e a altura fossem proporcionais de forma invertida. -->
-- [x] B) 5 m <!-- feedback: Correto: 1/0,8 = h/4, logo h = 4/0,8 = 5 m. -->
-- [ ] C) 4,8 m <!-- feedback: Incorreto: valor próximo, mas a proporção correta resulta em 5 m. -->
-- [ ] D) 6 m <!-- feedback: Incorreto: a razão entre sombras é 4/0,8 = 5, então a altura deve ser 5 × 1 = 5 m. -->
+- [x] D) 5 m <!-- feedback: Correto: 1/0,8 = h/4, logo h = 4/0,8 = 5 m. -->
+- [ ] B) 4,8 m <!-- feedback: Incorreto: valor próximo, mas a proporção correta resulta em 5 m. -->
+- [ ] C) 6 m <!-- feedback: Incorreto: a razão entre sombras é 4/0,8 = 5, então a altura deve ser 5 × 1 = 5 m. -->
 
 ### Explicacion Pedagogica
 Os triângulos formados pela vareta e pelo poste com suas sombras são semelhantes. Assim, 1/0,8 = h/4, o que dá h = 5 m.
@@ -182,8 +182,8 @@ Pelo Teorema de Tales, os segmentos são proporcionais: 6/8 = 9/x. Resolvendo, x
 Em um triângulo retângulo, as projeções dos catetos sobre a hipotenusa medem 4 cm e 9 cm. Qual é a medida da hipotenusa?
 
 ### Opciones
-- [x] A) 13 cm <!-- feedback: Correto: a hipotenusa é a soma das projeções: 4 + 9 = 13 cm. -->
-- [ ] B) 36 cm <!-- feedback: Incorreto: 36 é o produto das projeções, não a hipotenusa. -->
+- [x] B) 13 cm <!-- feedback: Correto: a hipotenusa é a soma das projeções: 4 + 9 = 13 cm. -->
+- [ ] A) 36 cm <!-- feedback: Incorreto: 36 é o produto das projeções, não a hipotenusa. -->
 - [ ] C) 6,5 cm <!-- feedback: Incorreto: 6,5 é a média das projeções, não a hipotenusa. -->
 - [ ] D) 25 cm <!-- feedback: Incorreto: valor sem relação direta com as projeções dadas. -->
 
@@ -201,8 +201,8 @@ Nas relações métricas, a projeção da altura sobre a hipotenusa divide-a em 
 Os triângulos ABC e DEF são semelhantes, com AB = 5 cm, BC = 7 cm e AC = 8 cm. No triângulo DEF, o lado correspondente a AB mede 15 cm. Qual é a medida do lado correspondente a BC?
 
 ### Opciones
-- [ ] A) 14 cm <!-- feedback: Incorreto: 14 seria o dobro de 7, mas a razão de semelhança é 3. -->
-- [x] B) 21 cm <!-- feedback: Correto: a razão de semelhança é 15/5 = 3, então o lado correspondente a BC mede 7 × 3 = 21 cm. -->
+- [ ] B) 14 cm <!-- feedback: Incorreto: 14 seria o dobro de 7, mas a razão de semelhança é 3. -->
+- [x] A) 21 cm <!-- feedback: Correto: a razão de semelhança é 15/5 = 3, então o lado correspondente a BC mede 7 × 3 = 21 cm. -->
 - [ ] C) 24 cm <!-- feedback: Incorreto: 24 é o triplo de 8, que corresponde ao lado AC. -->
 - [ ] D) 28 cm <!-- feedback: Incorreto: valor sem correspondência com a razão de semelhança. -->
 
@@ -220,9 +220,9 @@ A razão de semelhança é k = 15/5 = 3. Todos os lados correspondentes são mul
 Em um mapa, a rua Augusta e a rua Consolação são paralelas e cortadas pela avenida Paulista e pela avenida Faria Lima. Na avenida Paulista, os trechos entre as ruas medem 12 cm e 18 cm. Na avenida Faria Lima, o trecho correspondente ao de 12 cm mede 9 cm. Qual é a medida do trecho correspondente ao de 18 cm?
 
 ### Opciones
-- [ ] A) 12 cm <!-- feedback: Incorreto: a proporcionalidade dá 13,5 cm, não 12 cm. -->
-- [ ] B) 15 cm <!-- feedback: Incorreto: 15 é a média aritmética dos trechos da Paulista. -->
-- [x] C) 13,5 cm <!-- feedback: Correto: 12/9 = 18/x, logo x = (18 × 9)/12 = 13,5 cm. -->
+- [ ] B) 12 cm <!-- feedback: Incorreto: a proporcionalidade dá 13,5 cm, não 12 cm. -->
+- [ ] C) 15 cm <!-- feedback: Incorreto: 15 é a média aritmética dos trechos da Paulista. -->
+- [x] A) 13,5 cm <!-- feedback: Correto: 12/9 = 18/x, logo x = (18 × 9)/12 = 13,5 cm. -->
 - [ ] D) 24 cm <!-- feedback: Incorreto: 24 seria 12 + 12, sem base proporcional. -->
 
 ### Explicacion Pedagogica
@@ -240,9 +240,9 @@ Em um triângulo retângulo, a hipotenusa mede 25 cm e um dos catetos mede 7 cm.
 
 ### Opciones
 - [ ] A) 2,8 cm <!-- feedback: Incorreto: valor da projeção do outro cateto. -->
-- [x] B) 1,96 cm <!-- feedback: Correto: o outro cateto mede 24 cm (tripla pitagórica 7-24-25), e pela relação b² = a·n, n = 49/25 = 1,96 cm. -->
-- [ ] C) 4,8 cm <!-- feedback: Incorreto: valor da altura relativa à hipotenusa, não da projeção. -->
-- [ ] D) 6,4 cm <!-- feedback: Incorreto: sem relação com as medidas dadas. -->
+- [x] D) 1,96 cm <!-- feedback: Correto: o outro cateto mede 24 cm (tripla pitagórica 7-24-25), e pela relação b² = a·n, n = 49/25 = 1,96 cm. -->
+- [ ] B) 4,8 cm <!-- feedback: Incorreto: valor da altura relativa à hipotenusa, não da projeção. -->
+- [ ] C) 6,4 cm <!-- feedback: Incorreto: sem relação com as medidas dadas. -->
 
 ### Explicacion Pedagogica
 Pelo teorema de Pitágoras, o outro cateto é √(625 − 49) = √576 = 24 cm. Pela relação métrica b² = a·n (cateto ao quadrado igual à hipotenusa vezes sua projeção), a projeção do cateto de 7 cm é n = 49/25 = 1,96 cm.
@@ -297,9 +297,9 @@ Uma árvore projeta uma sombra de 12 m, enquanto uma pessoa de 1,8 m projeta uma
 
 ### Opciones
 - [ ] A) 8 m <!-- feedback: Incorreto: 8 m corresponderia a uma razão invertida. -->
-- [x] B) 9 m <!-- feedback: Correto: 1,8/2,4 = h/12, logo h = (1,8 × 12)/2,4 = 9 m. -->
-- [ ] C) 10 m <!-- feedback: Incorreto: valor aproximado, mas a proporção exata resulta em 9 m. -->
-- [ ] D) 16 m <!-- feedback: Incorreto: 16 é o resultado de multiplicar a sombra pela altura da pessoa, sem proporção. -->
+- [x] D) 9 m <!-- feedback: Correto: 1,8/2,4 = h/12, logo h = (1,8 × 12)/2,4 = 9 m. -->
+- [ ] B) 10 m <!-- feedback: Incorreto: valor aproximado, mas a proporção exata resulta em 9 m. -->
+- [ ] C) 16 m <!-- feedback: Incorreto: 16 é o resultado de multiplicar a sombra pela altura da pessoa, sem proporção. -->
 
 ### Explicacion Pedagogica
 Os triângulos formados por pessoa/sombra e árvore/sombra são semelhantes: 1,8/2,4 = h/12, então h = (1,8 × 12)/2,4 = 21,6/2,4 = 9 m.
@@ -315,8 +315,8 @@ Os triângulos formados por pessoa/sombra e árvore/sombra são semelhantes: 1,8
 Um feixe de paralelas determina, sobre uma transversal, segmentos de 3 cm e 5 cm. Sobre outra transversal, o segmento correspondente ao de 3 cm mede 4,5 cm. Quanto mede o segmento correspondente ao de 5 cm?
 
 ### Opciones
-- [ ] A) 6 cm <!-- feedback: Incorreto: 6 resultaria de 4,5 + 1,5, sem base proporcional. -->
-- [x] B) 7,5 cm <!-- feedback: Correto: 3/4,5 = 5/x, logo x = (5 × 4,5)/3 = 7,5 cm. -->
+- [ ] B) 6 cm <!-- feedback: Incorreto: 6 resultaria de 4,5 + 1,5, sem base proporcional. -->
+- [x] A) 7,5 cm <!-- feedback: Correto: 3/4,5 = 5/x, logo x = (5 × 4,5)/3 = 7,5 cm. -->
 - [ ] C) 8 cm <!-- feedback: Incorreto: valor acima do proporcional. -->
 - [ ] D) 9 cm <!-- feedback: Incorreto: 9 seria o dobro de 4,5, sem relação com a proporção dada. -->
 
@@ -353,8 +353,8 @@ A razão entre as áreas é o quadrado da razão de semelhança: k² = 18/50 = 9
 Em um triângulo retângulo, a soma das projeções dos catetos sobre a hipotenusa é 25 cm e o produto dessas projeções é 144 cm². Qual é a medida da altura relativa à hipotenusa?
 
 ### Opciones
-- [ ] A) 10 cm <!-- feedback: Incorreto: 10 é a média aritmética das projeções. -->
-- [x] B) 12 cm <!-- feedback: Correto: pela relação h² = m·n = 144, logo h = 12 cm. -->
+- [ ] B) 10 cm <!-- feedback: Incorreto: 10 é a média aritmética das projeções. -->
+- [x] A) 12 cm <!-- feedback: Correto: pela relação h² = m·n = 144, logo h = 12 cm. -->
 - [ ] C) 15 cm <!-- feedback: Incorreto: 15 não satisfaz h² = 144. -->
 - [ ] D) 20 cm <!-- feedback: Incorreto: 20 é próximo da hipotenusa (25), não da altura. -->
 
@@ -372,9 +372,9 @@ A soma das projeções é a hipotenusa (a = 25) e o produto m·n = 144. A relaç
 Duas pirâmides semelhantes têm volumes 27 cm³ e 125 cm³. Qual é a razão entre as alturas da pirâmide menor e da maior?
 
 ### Opciones
-- [x] A) 3/5 <!-- feedback: Correto: a razão dos volumes é (razão linear)³, então k = ∛(27/125) = 3/5. -->
-- [ ] B) 9/25 <!-- feedback: Incorreto: 9/25 seria a razão entre as áreas das bases. -->
-- [ ] C) 27/125 <!-- feedback: Incorreto: 27/125 é a razão entre os volumes, não entre as alturas. -->
+- [x] C) 3/5 <!-- feedback: Correto: a razão dos volumes é (razão linear)³, então k = ∛(27/125) = 3/5. -->
+- [ ] A) 9/25 <!-- feedback: Incorreto: 9/25 seria a razão entre as áreas das bases. -->
+- [ ] B) 27/125 <!-- feedback: Incorreto: 27/125 é a razão entre os volumes, não entre as alturas. -->
 - [ ] D) 5/3 <!-- feedback: Incorreto: é a razão inversa. -->
 
 ### Explicacion Pedagogica
@@ -391,10 +391,10 @@ Em sólidos semelhantes, a razão entre os volumes é o cubo da razão linear. A
 Em um triângulo retângulo inscrito em uma semicircunferência de raio 6,5 cm, a altura relativa à hipotenusa mede 6 cm. Qual é o produto das projeções dos catetos sobre a hipotenusa?
 
 ### Opciones
-- [x] A) 36 cm² <!-- feedback: Correto: pela relação h² = m·n, temos m·n = 6² = 36 cm². -->
-- [ ] B) 12 cm² <!-- feedback: Incorreto: 12 é o dobro da altura, sem relação com o produto pedido. -->
-- [ ] C) 42,25 cm² <!-- feedback: Incorreto: 42,25 é o quadrado do raio, não o produto das projeções. -->
-- [ ] D) 72 cm² <!-- feedback: Incorreto: 72 seria o dobro de 36, sem fundamento nas relações métricas. -->
+- [x] D) 36 cm² <!-- feedback: Correto: pela relação h² = m·n, temos m·n = 6² = 36 cm². -->
+- [ ] A) 12 cm² <!-- feedback: Incorreto: 12 é o dobro da altura, sem relação com o produto pedido. -->
+- [ ] B) 42,25 cm² <!-- feedback: Incorreto: 42,25 é o quadrado do raio, não o produto das projeções. -->
+- [ ] C) 72 cm² <!-- feedback: Incorreto: 72 seria o dobro de 36, sem fundamento nas relações métricas. -->
 
 ### Explicacion Pedagogica
 A hipotenusa é o diâmetro da semicircunferência (13 cm), informação que confirma a configuração, mas a relação pedida vem de h² = m·n: m·n = 6² = 36 cm².

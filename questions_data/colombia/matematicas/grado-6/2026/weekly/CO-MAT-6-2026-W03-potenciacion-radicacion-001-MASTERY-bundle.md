@@ -32,9 +32,9 @@ Este bundle contiene 10 preguntas sobre **potenciacion-radicacion** para grado 6
 ### Enunciado
 En la potencia $2^5$, ¿cuál es la base y cuál el exponente?
 ### Opciones
-- [x] A) Base 2 y exponente 5.
+- [x] B) Base 2 y exponente 5.
   <!-- feedback: Correcto. La base es 2 y el exponente 5. -->
-- [ ] B) Base 5 y exponente 2.
+- [ ] A) Base 5 y exponente 2.
   <!-- feedback: Incorrecto. Los roles están invertidos. -->
 - [ ] C) Base 25 y exponente 1.
   <!-- feedback: Incorrecto. 25 es el resultado, no la base. -->
@@ -92,11 +92,11 @@ La raíz cuadrada busca un número que elevado al cuadrado dé el radicando.
 ### Enunciado
 ¿Cuál es el resultado de $2^3 \cdot 2^2$?
 ### Opciones
-- [x] A) $2^5 = 32$.
+- [x] C) $2^5 = 32$.
   <!-- feedback: Correcto. Se suman exponentes con base igual: $2^{3+2} = 2^5 = 32$. -->
-- [ ] B) $2^6 = 64$.
+- [ ] A) $2^6 = 64$.
   <!-- feedback: Incorrecto. Multiplicaste las bases. -->
-- [ ] C) $4^5 = 1024$.
+- [ ] B) $4^5 = 1024$.
   <!-- feedback: Incorrecto. La base no cambia. -->
 - [ ] D) $4^6$.
   <!-- feedback: Incorrecto. Se conserva la base. -->
@@ -132,13 +132,13 @@ El cociente de potencias de igual base se resuelve restando los exponentes.
 ### Enunciado
 Calcula $(2 \cdot 3)^2$.
 ### Opciones
-- [x] A) $36$.
+- [x] D) $36$.
   <!-- feedback: Correcto. $(2 \cdot 3)^2 = 6^2 = 36$. -->
-- [ ] B) $12$.
+- [ ] A) $12$.
   <!-- feedback: Incorrecto. Elevaste solo el 3. -->
-- [ ] C) $18$.
+- [ ] B) $18$.
   <!-- feedback: Incorrecto. Sumaste y elevaste. -->
-- [ ] D) $108$.
+- [ ] C) $108$.
   <!-- feedback: Incorrecto. Multiplicaste por 3 después. -->
 ### Explicacion Pedagogica
 La potencia de un producto se distribuye: $(a \cdot b)^n = a^n \cdot b^n$.
@@ -152,11 +152,11 @@ La potencia de un producto se distribuye: $(a \cdot b)^n = a^n \cdot b^n$.
 ### Enunciado
 ¿Cuánto vale $3^{-2}$?
 ### Opciones
-- [x] A) $\frac{1}{9}$.
+- [x] C) $\frac{1}{9}$.
   <!-- feedback: Correcto. $3^{-2} = \frac{1}{3^2} = \frac{1}{9}$. -->
-- [ ] B) $-9$.
+- [ ] A) $-9$.
   <!-- feedback: Incorrecto. El signo se mantiene positivo. -->
-- [ ] C) $9$.
+- [ ] B) $9$.
   <!-- feedback: Incorrecto. Es el recíproco. -->
 - [ ] D) $-\frac{1}{9}$.
   <!-- feedback: Incorrecto. El signo es positivo. -->
@@ -172,11 +172,11 @@ Un exponente negativo indica el recíproco: $a^{-n} = \frac{1}{a^n}$.
 ### Enunciado
 ¿Cuál es el valor de $\sqrt[3]{27}$?
 ### Opciones
-- [x] A) 3.
+- [x] C) 3.
   <!-- feedback: Correcto. $3^3 = 27$. -->
-- [ ] B) 9.
+- [ ] A) 9.
   <!-- feedback: Incorrecto. 9 elevado al cubo da 729. -->
-- [ ] C) 13.5.
+- [ ] B) 13.5.
   <!-- feedback: Incorrecto. Dividiste 27 entre 2. -->
 - [ ] D) 2.7.
   <!-- feedback: Incorrecto. Dividiste entre 10. -->
@@ -192,11 +192,11 @@ La raíz cúbica de 27 es 3 porque $3^3 = 27$.
 ### Enunciado
 ¿Cuál de las siguientes igualdades es incorrecta?
 ### Opciones
-- [ ] A) $\sqrt{16} = 4$.
+- [ ] B) $\sqrt{16} = 4$.
   <!-- feedback: Correcta. $4^2 = 16$. -->
-- [ ] B) $(-2)^3 = -8$.
+- [ ] C) $(-2)^3 = -8$.
   <!-- feedback: Correcta. El cubo conserva el signo. -->
-- [x] C) $\sqrt{25} = -5$.
+- [x] A) $\sqrt{25} = -5$.
   <!-- feedback: Correcta es 5. La raíz principal es positiva. -->
 - [ ] D) $2^4 = 16$.
   <!-- feedback: Correcta. -->
@@ -212,9 +212,9 @@ Por convención, $\sqrt{a}$ representa la raíz principal no negativa.
 ### Enunciado
 Si el área de un cuadrado es $81 \text{ cm}^2$, ¿cuánto mide su lado?
 ### Opciones
-- [x] A) 9 cm.
+- [x] B) 9 cm.
   <!-- feedback: Correcto. $\sqrt{81} = 9$. -->
-- [ ] B) 40.5 cm.
+- [ ] A) 40.5 cm.
   <!-- feedback: Incorrecto. Dividiste entre 2. -->
 - [ ] C) 8.1 cm.
   <!-- feedback: Incorrecto. Dividiste entre 10. -->

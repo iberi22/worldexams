@@ -35,9 +35,9 @@ This bundle provides a comprehensive review of the topics covered in weeks 1 to 
 My father ________ a uniform to work every day, but today he ________ a casual shirt.
 
 ### Opciones
-- [x] A) wears / is wearing <!-- feedback: Correct! Simple Present for habit, Present Continuous for today's exception. -->
-- [ ] B) is wearing / wears <!-- feedback: Incorrect. The order of habit and exception is swapped. -->
-- [ ] C) wear / wearing <!-- feedback: Incorrect. Missing third person 's' and auxiliary 'is'. -->
+- [x] C) wears / is wearing <!-- feedback: Correct! Simple Present for habit, Present Continuous for today's exception. -->
+- [ ] A) is wearing / wears <!-- feedback: Incorrect. The order of habit and exception is swapped. -->
+- [ ] B) wear / wearing <!-- feedback: Incorrect. Missing third person 's' and auxiliary 'is'. -->
 - [ ] D) wore / wears <!-- feedback: Incorrect. "Every day" implies present habit, not past. -->
 
 ### Explicación Pedagógica
@@ -57,8 +57,8 @@ Two days ago, I ________ an interesting documentary about biodiversity in the Am
 
 ### Opciones
 - [ ] A) see <!-- feedback: Incorrect. Needs past tense for "two days ago". -->
-- [x] B) saw <!-- feedback: Correct! "Saw" is the past tense of "see". -->
-- [ ] C) seen <!-- feedback: Incorrect. This is the past participle, needs an auxiliary verb. -->
+- [x] C) saw <!-- feedback: Correct! "Saw" is the past tense of "see". -->
+- [ ] B) seen <!-- feedback: Incorrect. This is the past participle, needs an auxiliary verb. -->
 - [ ] D) was seeing <!-- feedback: Incorrect. For a completed action in the past, Simple Past is better. -->
 
 ### Explicación Pedagógica
@@ -78,9 +78,9 @@ My friends and I ________ study together for the final exam next Friday. We alre
 
 ### Opciones
 - [ ] A) will <!-- feedback: Incorrect. This is a previously made plan, not a spontaneous decision. -->
-- [x] B) are going to <!-- feedback: Correct! Use "be going to" for planned intentions. -->
-- [ ] C) go to <!-- feedback: Incorrect. Missing the auxiliary "are". -->
-- [ ] D) studied <!-- feedback: Incorrect. This is past tense. -->
+- [x] D) are going to <!-- feedback: Correct! Use "be going to" for planned intentions. -->
+- [ ] B) go to <!-- feedback: Incorrect. Missing the auxiliary "are". -->
+- [ ] C) studied <!-- feedback: Incorrect. This is past tense. -->
 
 ### Explicación Pedagógica
 Recordamos usar "be going to" para planes o intenciones decididas antes del momento de hablar.
@@ -120,8 +120,8 @@ I ________ a shower when the electricity ________ off.
 
 ### Opciones
 - [ ] A) took / went <!-- feedback: Incorrect. One action was in progress when the other happened. -->
-- [x] B) was taking / went <!-- feedback: Correct! Past continuous for the background action and past simple for the interruption. -->
-- [ ] C) were taking / go <!-- feedback: Incorrect. Subject-verb agreement and tense errors. -->
+- [x] C) was taking / went <!-- feedback: Correct! Past continuous for the background action and past simple for the interruption. -->
+- [ ] B) were taking / go <!-- feedback: Incorrect. Subject-verb agreement and tense errors. -->
 - [ ] D) am taking / is going <!-- feedback: Incorrect. These are present tenses. -->
 
 ### Explicación Pedagógica
@@ -141,9 +141,9 @@ Cuando una acción continua en el pasado es interrumpida, usamos el Pasado Conti
 **Customer:** "Yes, I ________ have a fresh lemonade, please."
 
 ### Opciones
-- [x] A) will <!-- feedback: Correct! Spontaneous decision made at the moment of ordering. -->
-- [ ] B) am going to <!-- feedback: Incorrect. Not a pre-planned intention in this context. -->
-- [ ] C) am having <!-- feedback: Incorrect. Present continuous is for arrangements, not ordering at a table. -->
+- [x] C) will <!-- feedback: Correct! Spontaneous decision made at the moment of ordering. -->
+- [ ] A) am going to <!-- feedback: Incorrect. Not a pre-planned intention in this context. -->
+- [ ] B) am having <!-- feedback: Incorrect. Present continuous is for arrangements, not ordering at a table. -->
 - [ ] D) have <!-- feedback: Incorrect. Future meaning is required here. -->
 
 ### Explicación Pedagógica
@@ -163,8 +163,8 @@ The secondary school building is ________ tall ________ the primary school build
 
 ### Opciones
 - [ ] A) more / than <!-- feedback: Incorrect. This would mean one is taller. -->
-- [x] B) as / as <!-- feedback: Correct! Used for comparing things that are equal. -->
-- [ ] C) the / most <!-- feedback: Incorrect. This is a superlative structure. -->
+- [x] C) as / as <!-- feedback: Correct! Used for comparing things that are equal. -->
+- [ ] B) the / most <!-- feedback: Incorrect. This is a superlative structure. -->
 - [ ] D) so / as <!-- feedback: Incorrect. "So...as" is usually used in negative comparisons. -->
 
 ### Explicación Pedagógica
@@ -184,9 +184,9 @@ I ________ what you mean, but I don't agree with your opinion.
 
 ### Opciones
 - [ ] A) am understanding <!-- feedback: Incorrect. "Understand" is a stative verb. -->
-- [x] B) understand <!-- feedback: Correct! Stative verbs stay in Simple Present. -->
-- [ ] C) understanding <!-- feedback: Incorrect. Lacks an auxiliary verb. -->
-- [ ] D) understood <!-- feedback: Incorrect. Context is current conversation. -->
+- [x] D) understand <!-- feedback: Correct! Stative verbs stay in Simple Present. -->
+- [ ] B) understanding <!-- feedback: Incorrect. Lacks an auxiliary verb. -->
+- [ ] C) understood <!-- feedback: Incorrect. Context is current conversation. -->
 
 ### Explicación Pedagógica
 Los verbos de estado (como understand, know, like) no se usan generalmente en tiempos continuos.
@@ -204,8 +204,8 @@ Los verbos de estado (como understand, know, like) no se usan generalmente en ti
 Be careful! You ________ trip over that wire on the floor!
 
 ### Opciones
-- [ ] A) will <!-- feedback: Incorrect. "Going to" is better for immediate predictions based on evidence. -->
-- [x] B) are going to <!-- feedback: Correct! You can see the danger right now. -->
+- [ ] B) will <!-- feedback: Incorrect. "Going to" is better for immediate predictions based on evidence. -->
+- [x] A) are going to <!-- feedback: Correct! You can see the danger right now. -->
 - [ ] C) trip <!-- feedback: Incorrect. Present simple is for habits or schedules. -->
 - [ ] D) were going to <!-- feedback: Incorrect. This is for a past plan that didn't happen. -->
 
@@ -227,8 +227,8 @@ Which sentence is grammatically **correct** and makes sense?
 ### Opciones
 - [ ] A) While I was studying, I was suddenly hearing a loud noise. <!-- feedback: Incorrect. Hearing a sudden noise should be in Past Simple. -->
 - [ ] B) I think it is going to be colder than yesterday tomorrow. <!-- feedback: Incorrect. Word order is very confusing. -->
-- [x] C) I am meeting my cousin at the airport tomorrow morning at 10:00. <!-- feedback: Correct! Present continuous for a fixed arrangement. -->
-- [ ] D) She is the more intelligent girl in my whole school. <!-- feedback: Incorrect. Comparison in a group requires the superlative "most". -->
+- [x] D) I am meeting my cousin at the airport tomorrow morning at 10:00. <!-- feedback: Correct! Present continuous for a fixed arrangement. -->
+- [ ] C) She is the more intelligent girl in my whole school. <!-- feedback: Incorrect. Comparison in a group requires the superlative "most". -->
 
 ### Explicación Pedagógica
 Se evalúa la capacidad de distinguir entre planes (Present Continuous), comparativos/superlativos y la lógica de interrupción en el pasado.
@@ -246,8 +246,8 @@ Se evalúa la capacidad de distinguir entre planes (Present Continuous), compara
 A teacher asks about your missing project. Which response is B1-appropriate?
 
 ### Opciones
-- [ ] A) I didn't did it. I'm sorry. <!-- feedback: Incorrect. Grammatically incorrect ("didn't did"). -->
-- [x] B) I apologize, teacher. I was working on it last night when my computer crashed. <!-- feedback: Correct! Professional tone and correct use of past tenses. -->
+- [ ] B) I didn't did it. I'm sorry. <!-- feedback: Incorrect. Grammatically incorrect ("didn't did"). -->
+- [x] A) I apologize, teacher. I was working on it last night when my computer crashed. <!-- feedback: Correct! Professional tone and correct use of past tenses. -->
 - [ ] C) I'm going to bring it never. <!-- feedback: Incorrect. Rude and illogical. -->
 - [ ] D) Why are you asking me that now? <!-- feedback: Incorrect. Inappropriate and rude. -->
 
@@ -268,8 +268,8 @@ Read and choose the best summary:
 "Last week, I planned to go hiking. While I was packing, it started to rain. I decided to stay home. Now, I am reading a book about mountains. Next month, I'll try again."
 
 ### Opciones
-- [x] A) A past plan was cancelled due to weather, leading to a present activity and a future intention. <!-- feedback: Correct! It covers past, present, and future mentioned in the text. -->
-- [ ] B) The person always goes hiking when it rains and is reading now. <!-- feedback: Incorrect. The hike was cancelled. -->
+- [x] B) A past plan was cancelled due to weather, leading to a present activity and a future intention. <!-- feedback: Correct! It covers past, present, and future mentioned in the text. -->
+- [ ] A) The person always goes hiking when it rains and is reading now. <!-- feedback: Incorrect. The hike was cancelled. -->
 - [ ] C) Hiking is better than reading books about mountains in the future. <!-- feedback: Incorrect. Misinterprets the tenses and facts. -->
 - [ ] D) He is going to hike next month because he doesn't like books. <!-- feedback: Incorrect. The text doesn't say he doesn't like books. -->
 

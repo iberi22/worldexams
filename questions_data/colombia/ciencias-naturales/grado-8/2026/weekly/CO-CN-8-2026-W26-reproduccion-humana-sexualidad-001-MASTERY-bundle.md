@@ -32,13 +32,13 @@ Este bundle contiene 12 preguntas sobre **reproduccion-humana-sexualidad** para 
 ### Enunciado
 Cuáles son las gónadas que producen los gametos en el hombre y en la mujer?
 ### Opciones
-- [x] A) Los testículos en el hombre y los ovarios en la mujer.
+- [x] D) Los testículos en el hombre y los ovarios en la mujer.
   <!-- feedback: Correcto. Los testículos producen espermatozoides y los ovarios producen óvulos. -->
-- [ ] B) El epididimo en el hombre y la uretra en la mujer.
+- [ ] A) El epididimo en el hombre y la uretra en la mujer.
   <!-- feedback: Incorrecto. El epididimo madura espermatozoides pero no es gonada; la uretra no produce gametos. -->
-- [ ] C) La próstata en el hombre y el útero en la mujer.
+- [ ] B) La próstata en el hombre y el útero en la mujer.
   <!-- feedback: Incorrecto. La próstata secreta líquido seminal y el útero aloja al embrión, no producen gametos. -->
-- [ ] D) El pene en el hombre y la vagina en la mujer.
+- [ ] C) El pene en el hombre y la vagina en la mujer.
   <!-- feedback: Incorrecto. Estas son vías de paso de los gametos, no glándulas productoras. -->
 ### Explicacion Pedagogica
 Las gónadas humanas son los testículos (glándulas sexuales masculinas que fabrican espermatozoides y testosterona) y los ovarios (glándulas sexuales femeninas que producen óvulos, estrógenos y progesterona). Cualquier otra estructura mencionada solo participa en el transporte, maduración o sosten del embarazo.
@@ -72,11 +72,11 @@ La pubertad se inicia por la activacion del eje hipotalamo-hipofisario-gonadal, 
 ### Enunciado
 Cuál es la diferencia principal entre un espermatozoide y un óvulo humano?
 ### Opciones
-- [x] A) El espermatozoide es una célula pequeña y móvil con flagelo; el óvulo es una célula grande, inmóvil y rica en reservas.
+- [x] C) El espermatozoide es una célula pequeña y móvil con flagelo; el óvulo es una célula grande, inmóvil y rica en reservas.
   <!-- feedback: Correcto. Tamano, movilidad y reservas nutritivas son rasgos diferenciales clave. -->
-- [ ] B) El espermatozoide se produce en el útero y el óvulo en los pulmones.
+- [ ] A) El espermatozoide se produce en el útero y el óvulo en los pulmones.
   <!-- feedback: Incorrecto. Los espermatozoides se producen en los testículos y los óvulos en los ovarios. -->
-- [ ] C) Ambos gametos tienen el mismo tamano y la misma movilidad.
+- [ ] B) Ambos gametos tienen el mismo tamano y la misma movilidad.
   <!-- feedback: Incorrecto. Poseen características morfologicas y funcionales muy distintas. -->
 - [ ] D) El óvulo tiene flagelo y el espermatozoide es completamente inmóvil.
   <!-- feedback: Incorrecto. Es al reves: el espermatozoide es quien tiene flagelo. -->
@@ -112,9 +112,9 @@ En un ciclo de 28 días, la fase folicular va del día 1 al 13, la ovulación oc
 ### Enunciado
 Cuál de los siguientes métodos anticonceptivos actúa como barrera física que impide el paso de los espermatozoides hacia el útero?
 ### Opciones
-- [x] A) El condón masculino de látex.
+- [x] B) El condón masculino de látex.
   <!-- feedback: Correcto. El condón es una barrera mecánica que retiene los espermatozoides. -->
-- [ ] B) El dispositivo intrauterino liberador de cobre.
+- [ ] A) El dispositivo intrauterino liberador de cobre.
   <!-- feedback: Incorrecto. El DIU es un método intrauterino que altera la fecundacion, no es barrera física. -->
 - [ ] C) El implante subdermico de progestageno.
   <!-- feedback: Incorrecto. El implante actúa hormonalmente, no es barrera mecánica. -->
@@ -132,13 +132,13 @@ Los métodos de barrera incluyen el condón masculino, el condón femenino, el d
 ### Enunciado
 Cuál de las siguientes prácticas es la más efectiva para reducir el riesgo de adquirir una infección de transmisión sexual durante una relación sexual?
 ### Opciones
-- [x] A) El uso correcto y consistente del condón desde el inicio del contacto sexual.
+- [x] D) El uso correcto y consistente del condón desde el inicio del contacto sexual.
   <!-- feedback: Correcto. El condón, bien usado, reduce significativamente el riesgo de ITS. -->
-- [ ] B) Realizar un lavado vaginal profundo después de cada relación.
+- [ ] A) Realizar un lavado vaginal profundo después de cada relación.
   <!-- feedback: Incorrecto. Las duchas vaginales no previenen ITS y pueden alterar la flora. -->
-- [ ] C) Tomar antibióticos de forma preventiva después de cada relación.
+- [ ] B) Tomar antibióticos de forma preventiva después de cada relación.
   <!-- feedback: Incorrecto. El uso indiscriminado de antibióticos no previene ITS y genera resistencia. -->
-- [ ] D) Usar anticonceptivos hormonales orales como método único de protección.
+- [ ] C) Usar anticonceptivos hormonales orales como método único de protección.
   <!-- feedback: Incorrecto. Los hormonales no protegen frente a virus ni bacterias de transmisión sexual. -->
 ### Explicacion Pedagogica
 Los métodos hormonales previenen embarazos pero no infecciones. El condón de látex, usado de principio a fin, es la principal barrera contra el VIH, hepatitis B, clamidia, gonorrea y otras ITS. La combinación de condón con método hormonal se llama doble protección y es la recomendación de salud pública.
@@ -152,9 +152,9 @@ Los métodos hormonales previenen embarazos pero no infecciones. El condón de l
 ### Enunciado
 Según datos de salud pública, el embarazo en la adolescencia es un tema prioritario en Colombia principalmente porque:
 ### Opciones
-- [x] A) Aumenta la deserción escolar, perpetua la pobreza y eleva el riesgo de complicaciones obstetricas.
+- [x] B) Aumenta la deserción escolar, perpetua la pobreza y eleva el riesgo de complicaciones obstetricas.
   <!-- feedback: Correcto. El embarazo temprano vulnera derechos y tiene riesgos médicos. -->
-- [ ] B) Incrementa el ingreso economico promedio de los hogares colombianos.
+- [ ] A) Incrementa el ingreso economico promedio de los hogares colombianos.
   <!-- feedback: Incorrecto. El embarazo adolescente suele asociarse a menor ingreso, no a mayor. -->
 - [ ] C) Reduce por completo el riesgo de infecciones de transmisión sexual.
   <!-- feedback: Incorrecto. No existe relación de protección frente a ITS asociada al embarazo. -->
@@ -172,9 +172,9 @@ Colombia reportaba alrededor de 100.000 embarazos anuales en menores de 19 años
 ### Enunciado
 Una gráfica muestra la curva de estrógenos y progesterona durante 28 días. El pico de estrógenos precede en 24 horas al pico de la hormona luteinizante. Qué representa este patrón?
 ### Opciones
-- [x] A) La inducción de la ovulación por el pico estrogenico y la descarga de LH.
+- [x] B) La inducción de la ovulación por el pico estrogenico y la descarga de LH.
   <!-- feedback: Correcto. El estradiol elevado dispara la descarga de LH que rompe el folículo. -->
-- [ ] B) Una falla hipofisaria que impide la fecundacion.
+- [ ] A) Una falla hipofisaria que impide la fecundacion.
   <!-- feedback: Incorrecto. El patrón es el esperado, no representa falla hipofisaria. -->
 - [ ] C) El inicio inmediato de la menstruación.
   <!-- feedback: Incorrecto. La menstruación ocurre días después, no por el pico estrogenico. -->
@@ -192,9 +192,9 @@ El estradiol producido por el folículo de Graaf en maduración estimula la hip�
 ### Enunciado
 Una adolescente de 16 años desea un método anticonceptivo de larga duración, reversible y sin intervención hormonal sistémica. Cuál es la opción más adecuada entre las siguientes?
 ### Opciones
-- [x] A) El dispositivo intrauterino de cobre (DIU TCu380A).
+- [x] B) El dispositivo intrauterino de cobre (DIU TCu380A).
   <!-- feedback: Correcto. El DIU de cobre dura hasta 10 años, es reversible y no usa hormonas. -->
-- [ ] B) El implante subdermico de etonogestrel.
+- [ ] A) El implante subdermico de etonogestrel.
   <!-- feedback: Incorrecto. Es de larga duración pero si libera hormona sistémica. -->
 - [ ] C) La pídora anticonceptiva oral combinada.
   <!-- feedback: Incorrecto. Es hormonal sistémica y requiere toma diaria. -->
@@ -212,11 +212,11 @@ El DIU TCu380A es un método no hormonal que actúa generando una reacción espe
 ### Enunciado
 Cuál de las siguientes situaciones, analizadas en conjunto, explica mejor el embarazo no deseado en esta adolescente?
 ### Opciones
-- [x] A) Ausencia de educación sexual integral, desconocimiento de métodos y presión de pareja.
+- [x] C) Ausencia de educación sexual integral, desconocimiento de métodos y presión de pareja.
   <!-- feedback: Correcto. Son factores determinantes estructural y conductualmente. -->
-- [ ] B) Consumo excesivo de frutas citricas y clima calido del Valle del Cauca.
+- [ ] A) Consumo excesivo de frutas citricas y clima calido del Valle del Cauca.
   <!-- feedback: Incorrecto. La dieta y el clima no causan embarazos. -->
-- [ ] C) Predisposición genética a la hiperovulación múltiple.
+- [ ] B) Predisposición genética a la hiperovulación múltiple.
   <!-- feedback: Incorrecto. La hiperovulación múltiple es rara y no explica el fenómeno. -->
 - [ ] D) Deficiencia de vitamina D por baja exposicion solar.
   <!-- feedback: Incorrecto. La vitamina D no tiene relación causal con el embarazo. -->
@@ -232,11 +232,11 @@ La interseccion de inicio sexual temprano, falta de información veraz, baja per
 ### Enunciado
 Cuál es la medida más efectiva para juzgar si la campaña "Decidir es poder" realmente redujo el embarazo adolescente en Manizales?
 ### Opciones
-- [x] A) Comparar la tasa de embarazos en adolescentes antes y después de la campaña, controlando por cohorte.
+- [x] C) Comparar la tasa de embarazos en adolescentes antes y después de la campaña, controlando por cohorte.
   <!-- feedback: Correcto. El indicador epidemiológico clave es la tasa específica de fecundidad adolescente. -->
-- [ ] B) Contar el número de carteleras instaladas en los colegios públicos.
+- [ ] A) Contar el número de carteleras instaladas en los colegios públicos.
   <!-- feedback: Incorrecto. La cantidad de piezas gráficas no mide el impacto real. -->
-- [ ] C) Medir el color de las paredes donde se pegaron los afiches.
+- [ ] B) Medir el color de las paredes donde se pegaron los afiches.
   <!-- feedback: Incorrecto. La estética no evalúa la eficacia de la intervención. -->
 - [ ] D) Preguntar a los profesores si les gusto la campaña.
   <!-- feedback: Incorrecto. La percepcion docente no es un indicador de impacto en salud. -->
@@ -252,13 +252,13 @@ La evaluación de una intervención de salud pública requiere indicadores compa
 ### Enunciado
 De las siguientes opciones, ¿cuál es la política con mayor evidencia científica internacional para reducir el embarazo adolescente y las infecciones de transmisión sexual?
 ### Opciones
-- [x] A) Programas escolares de educación sexual integral basada en evidencia, con perspectiva de derechos y género.
+- [x] D) Programas escolares de educación sexual integral basada en evidencia, con perspectiva de derechos y género.
   <!-- feedback: Correcto. La evidencia internacional respalda esta estrategia integral y sostenida. -->
-- [ ] B) Campanas de television con frases impactantes en horario prime.
+- [ ] A) Campanas de television con frases impactantes en horario prime.
   <!-- feedback: Incorrecto. Las piezas de television aisladas tienen impacto limitado. -->
-- [ ] C) Distribucion gratuita de dulces en las puertas de los colegios.
+- [ ] B) Distribucion gratuita de dulces en las puertas de los colegios.
   <!-- feedback: Incorrecto. La alimentacion no es una intervención de salud sexual. -->
-- [ ] D) Castigo público a las adolescentes embarazadas en redes sociales.
+- [ ] C) Castigo público a las adolescentes embarazadas en redes sociales.
   <!-- feedback: Incorrecto. La estigmatizacion vulnera derechos y no reduce el problema. -->
 ### Explicacion Pedagogica
 La OMS recomienda programas escolares de educación sexual integral, con contenidos científicos, perspectiva de género, habilidades para la vida y acceso a servicios amigables de salud. Estos programas, cuando son sostenidos, reducen tanto embarazos no deseados como ITS, mientras que las intervenciones punitivas o aisladas no tienen impacto.

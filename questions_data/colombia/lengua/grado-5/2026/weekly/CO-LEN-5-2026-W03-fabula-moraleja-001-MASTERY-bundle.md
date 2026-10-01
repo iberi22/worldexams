@@ -30,13 +30,13 @@ Bundle semanal para reconocer personajes animales, acciones y la moraleja en fá
 ### Enunciado
 Lee el dato: "La hormiga guardaba granos de maíz y la cigarra cantaba todo el día". Según el texto, ¿quiénes son los personajes y qué hace cada uno?
 ### Opciones
-- [x] A) La hormiga guarda granos y la cigarra canta todo el día.
+- [x] D) La hormiga guarda granos y la cigarra canta todo el día.
   <!-- feedback: Es correcta porque repite exactamente lo que hace cada personaje. -->
-- [ ] B) La hormiga canta y la cigarra guarda granos.
+- [ ] A) La hormiga canta y la cigarra guarda granos.
   <!-- feedback: Es incorrecta porque invierte las acciones de los personajes. -->
-- [ ] C) Dos pescadores que trabajan en Cartagena.
+- [ ] B) Dos pescadores que trabajan en Cartagena.
   <!-- feedback: Es incorrecta porque los personajes son animales, no pescadores. -->
-- [ ] D) Un profesor y sus estudiantes en Medellín.
+- [ ] C) Un profesor y sus estudiantes en Medellín.
   <!-- feedback: Es incorrecta porque no aparecen personas en la fábula. -->
 ### Explicacion Pedagogica
 La fábula presenta animales que actúan como personas. Recordar quién hace qué es la base literal para luego entender la enseñanza. Este reconocimiento también amplía el vocabulario sobre la narración.
@@ -50,9 +50,9 @@ La fábula presenta animales que actúan como personas. Recordar quién hace qu�
 ### Enunciado
 ¿Qué se entiende de manera directa de esa moraleja?
 ### Opciones
-- [x] A) Que esforzarse sin rendirse ayuda a superar los problemas.
+- [x] B) Que esforzarse sin rendirse ayuda a superar los problemas.
   <!-- feedback: Es correcta porque explica con otras palabras lo que dice la moraleja. -->
-- [ ] B) Que es mejor no hacer nada y esperar la suerte.
+- [ ] A) Que es mejor no hacer nada y esperar la suerte.
   <!-- feedback: Es incorrecta porque la moraleja invita al esfuerzo, no a la pereza. -->
 - [ ] C) Que las dificultades nunca se pueden vencer.
   <!-- feedback: Es incorrecta porque afirma lo contrario de la moraleja. -->
@@ -70,13 +70,13 @@ La moraleja es la enseñanza final de la fábula. Comprenderla de forma literal 
 ### Enunciado
 Lee el fragmento: "La liebre corrió rápido, se acostó a dormir a mitad del camino y la tortuga siguió caminando sin detenerse". ¿Qué enseñanza se deduce de estos hechos?
 ### Opciones
-- [x] A) Que la constancia y la humildad superan la arrogancia.
+- [x] D) Que la constancia y la humildad superan la arrogancia.
   <!-- feedback: Es correcta porque la tortuga avanza sin parar y la liebre confiada pierde. -->
-- [ ] B) Que dormir en una carrera siempre da la victoria.
+- [ ] A) Que dormir en una carrera siempre da la victoria.
   <!-- feedback: Es incorrecta porque dormir hizo perder a la liebre. -->
-- [ ] C) Que es bueno burlarse de los demás.
+- [ ] B) Que es bueno burlarse de los demás.
   <!-- feedback: Es incorrecta porque la burla llevó a la liebre a la derrota. -->
-- [ ] D) Que las tortugas son más rápidas que las liebres.
+- [ ] C) Que las tortugas son más rápidas que las liebres.
   <!-- feedback: Es incorrecta porque la tortuga gana por constancia, no por velocidad. -->
 ### Explicacion Pedagogica
 Inferir la moraleja exige conectar las acciones con el resultado. La liebre representa la arrogancia y la tortuga la perseverancia. Esta lectura también invita a reflexionar sobre el propio comportamiento con los compañeros.
@@ -110,13 +110,13 @@ La fábula muestra una excusa típica: despreciar lo que no se logra. Deducir la
 ### Enunciado
 Lee la fábula breve: "Dos amigos hallaron una bolsa con monedas y uno quiso guardarla solo. El otro propuso avisar para devolverla y al final la devolvieron". ¿Qué moraleja se aplica a esta historia?
 ### Opciones
-- [x] A) Que la honradez y compartir fortalecen la amistad.
+- [x] D) Que la honradez y compartir fortalecen la amistad.
   <!-- feedback: Es correcta porque devolver la bolsa muestra honradez y cuidado del amigo. -->
-- [ ] B) Que es mejor quedarse con lo ajeno sin decir nada.
+- [ ] A) Que es mejor quedarse con lo ajeno sin decir nada.
   <!-- feedback: Es incorrecta porque propone lo contrario a devolver la bolsa. -->
-- [ ] C) Que los amigos deben pelear por el dinero.
+- [ ] B) Que los amigos deben pelear por el dinero.
   <!-- feedback: Es incorrecta porque pelear destruye la amistad. -->
-- [ ] D) Que las bolsas con monedas no existen.
+- [ ] C) Que las bolsas con monedas no existen.
   <!-- feedback: Es incorrecta porque niega la historia en vez de interpretarla. -->
 ### Explicacion Pedagogica
 Aplicar la moraleja consiste en elegir la enseñanza que mejor explica los hechos. Devolver lo hallado muestra honradez, un valor que también se practica al manejar dinero en la escuela con transparencia.
@@ -130,11 +130,11 @@ Aplicar la moraleja consiste en elegir la enseñanza que mejor explica los hecho
 ### Enunciado
 Versión 1: el niño miente por diversión y nadie le cree cuando pide ayuda de verdad. Versión 2: el niño avisa con la verdad y los vecinos llegan a tiempo. ¿Qué analiza mejor el cambio entre versiones?
 ### Opciones
-- [x] A) Que decir la verdad genera confianza y mentir la destruye.
+- [x] C) Que decir la verdad genera confianza y mentir la destruye.
   <!-- feedback: Es correcta porque contrasta las consecuencias de mentir y de ser veraz. -->
-- [ ] B) Que mentir y decir la verdad dan el mismo resultado.
+- [ ] A) Que mentir y decir la verdad dan el mismo resultado.
   <!-- feedback: Es incorrecta porque los resultados son opuestos en cada versión. -->
-- [ ] C) Que los vecinos nunca ayudan a nadie.
+- [ ] B) Que los vecinos nunca ayudan a nadie.
   <!-- feedback: Es incorrecta porque en la versión 2 sí llegan a tiempo. -->
 - [ ] D) Que el niño no tiene ninguna responsabilidad.
   <!-- feedback: Es incorrecta porque sus palabras causan cada desenlace. -->

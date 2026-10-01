@@ -36,8 +36,8 @@ The preservation of natural resources for future generations is the core princip
 
 ### Opciones
 - [ ] A) exploitation <!-- feedback: Incorrect. Exploitation means using something for benefit. -->
-- [x] B) preservation <!-- feedback: Correct. Preservation is the act of keeping something as it is. -->
-- [ ] C) destruction <!-- feedback: Incorrect. Destruction is the opposite. -->
+- [x] C) preservation <!-- feedback: Correct. Preservation is the act of keeping something as it is. -->
+- [ ] B) destruction <!-- feedback: Incorrect. Destruction is the opposite. -->
 - [ ] D) consumption <!-- feedback: Incorrect. Consumption means using something up. -->
 
 ### Explicacion Pedagogica
@@ -76,9 +76,9 @@ If we had acted sooner, we could have prevented much of the damage to the ozone 
 
 ### Opciones
 - [ ] A) acted <!-- feedback: Incorrect. Second conditional. -->
-- [x] B) had acted <!-- feedback: Correct. Third conditional for hypothetical past situations. -->
-- [ ] C) act <!-- feedback: Incorrect. Present tense. -->
-- [ ] D) would act <!-- feedback: Incorrect. 'Would' is not used in the 'if' clause. -->
+- [x] D) had acted <!-- feedback: Correct. Third conditional for hypothetical past situations. -->
+- [ ] B) act <!-- feedback: Incorrect. Present tense. -->
+- [ ] C) would act <!-- feedback: Incorrect. 'Would' is not used in the 'if' clause. -->
 
 ### Explicacion Pedagogica
 The third conditional (if + past perfect) describes an alternative past that did not happen.
@@ -95,9 +95,9 @@ The third conditional (if + past perfect) describes an alternative past that did
 Greenwashing occurs when a company spends more time on marketing itself as environmentally friendly than on actually minimizing its impact.
 
 ### Opciones
-- [x] A) greenwashing <!-- feedback: Correct. Greenwashing is deceptive environmental marketing. -->
-- [ ] B) recycling <!-- feedback: Incorrect. Recycling is a real environmental action. -->
-- [ ] C) reforestation <!-- feedback: Incorrect. Reforestation is planting trees. -->
+- [x] C) greenwashing <!-- feedback: Correct. Greenwashing is deceptive environmental marketing. -->
+- [ ] A) recycling <!-- feedback: Incorrect. Recycling is a real environmental action. -->
+- [ ] B) reforestation <!-- feedback: Incorrect. Reforestation is planting trees. -->
 - [ ] D) composting <!-- feedback: Incorrect. Composting is recycling organic waste. -->
 
 ### Explicacion Pedagogica
@@ -116,8 +116,8 @@ The primary challenge in managing plastic waste is its persistence in the enviro
 
 ### Opciones
 - [ ] A) solubility <!-- feedback: Incorrect. Solubility refers to dissolving. -->
-- [x] B) persistence <!-- feedback: Correct. Persistence refers to the ability to remain for a long time. -->
-- [ ] C) variety <!-- feedback: Incorrect. Variety refers to diversity. -->
+- [x] C) persistence <!-- feedback: Correct. Persistence refers to the ability to remain for a long time. -->
+- [ ] B) variety <!-- feedback: Incorrect. Variety refers to diversity. -->
 - [ ] D) weight <!-- feedback: Incorrect. Weight is not the main problem. -->
 
 ### Explicacion Pedagogica
@@ -136,8 +136,8 @@ Solar panels convert sunlight into electricity, providing a clean source of powe
 
 ### Opciones
 - [ ] A) fuel <!-- feedback: Incorrect. Fuel usually refers to combustibles. -->
-- [x] B) electricity <!-- feedback: Correct. Solar panels produce electrical energy. -->
-- [ ] C) heat <!-- feedback: Incorrect. While related, electricity is the main discussion. -->
+- [x] C) electricity <!-- feedback: Correct. Solar panels produce electrical energy. -->
+- [ ] B) heat <!-- feedback: Incorrect. While related, electricity is the main discussion. -->
 - [ ] D) gas <!-- feedback: Incorrect. Gas is a different source. -->
 
 ### Explicacion Pedagogica
@@ -155,9 +155,9 @@ The primary function of photovoltaic solar panels is to generate electricity.
 It is essential that we reduce our water consumption to prepare for future droughts.
 
 ### Opciones
-- [x] A) reduce <!-- feedback: Correct. Subjunctive form after 'It is essential that...'. -->
-- [ ] B) reduces <!-- feedback: Incorrect. Third person singular. -->
-- [ ] C) to reduce <!-- feedback: Incorrect. Infinitive doesn't fit here. -->
+- [x] C) reduce <!-- feedback: Correct. Subjunctive form after 'It is essential that...'. -->
+- [ ] A) reduces <!-- feedback: Incorrect. Third person singular. -->
+- [ ] B) to reduce <!-- feedback: Incorrect. Infinitive doesn't fit here. -->
 - [ ] D) reducing <!-- feedback: Incorrect. Gerund doesn't fit here. -->
 
 ### Explicacion Pedagogica
@@ -176,8 +176,8 @@ Urban sprawl often leads to the destruction of natural habitats and increased re
 
 ### Opciones
 - [ ] A) rejuvenation <!-- feedback: Incorrect. Rejuvenation means making something young again. -->
-- [x] B) sprawl <!-- feedback: Correct. Urban sprawl is the expansion of cities. -->
-- [ ] C) density <!-- feedback: Incorrect. Density refers to compact building. -->
+- [x] C) sprawl <!-- feedback: Correct. Urban sprawl is the expansion of cities. -->
+- [ ] B) density <!-- feedback: Incorrect. Density refers to compact building. -->
 - [ ] D) forestry <!-- feedback: Incorrect. Forestry is about managing forests. -->
 
 ### Explicacion Pedagogica
@@ -196,9 +196,9 @@ Years ago, people used to throw away much more waste than we do now.
 
 ### Opciones
 - [ ] A) use to <!-- feedback: Incorrect. Needs 'used' for past habits. -->
-- [x] B) used to <!-- feedback: Correct. 'Used to' describes past habits. -->
-- [ ] C) would <!-- feedback: Incorrect. 'Used to' is better for states. -->
-- [ ] D) are used to <!-- feedback: Incorrect. This means 'accustomed to'. -->
+- [x] D) used to <!-- feedback: Correct. 'Used to' describes past habits. -->
+- [ ] B) would <!-- feedback: Incorrect. 'Used to' is better for states. -->
+- [ ] C) are used to <!-- feedback: Incorrect. This means 'accustomed to'. -->
 
 ### Explicacion Pedagogica
 'Used to' is the appropriate structure for describing a past habit or state that has changed.
@@ -216,8 +216,8 @@ The "throwaway culture" refers to a society that prioritizes convenience over th
 
 ### Opciones
 - [ ] A) economy <!-- feedback: Incorrect. While related, convenience is the focus. -->
-- [x] B) convenience <!-- feedback: Correct. Desired for easy, one-time use. -->
-- [ ] C) tradition <!-- feedback: Incorrect. Modern phenomenon. -->
+- [x] C) convenience <!-- feedback: Correct. Desired for easy, one-time use. -->
+- [ ] B) tradition <!-- feedback: Incorrect. Modern phenomenon. -->
 - [ ] D) safety <!-- feedback: Incorrect. General culture is about ease. -->
 
 ### Explicacion Pedagogica
@@ -256,8 +256,8 @@ Vast areas of the rainforest are being cleared to make way for agriculture.
 
 ### Opciones
 - [ ] A) are clearing <!-- feedback: Incorrect. Active voice. -->
-- [x] B) are being cleared <!-- feedback: Correct. Present continuous passive for ongoing process. -->
-- [ ] C) cleared <!-- feedback: Incorrect. Past simple. -->
+- [x] C) are being cleared <!-- feedback: Correct. Present continuous passive for ongoing process. -->
+- [ ] B) cleared <!-- feedback: Incorrect. Past simple. -->
 - [ ] D) have cleared <!-- feedback: Incorrect. Active voice. -->
 
 ### Explicacion Pedagogica
@@ -296,9 +296,9 @@ If the government imposed higher taxes on carbon, companies would likely invest 
 
 ### Opciones
 - [ ] A) imposes <!-- feedback: Incorrect. First conditional. -->
-- [x] B) imposed <!-- feedback: Correct. Second conditional for hypothetical policy. -->
-- [ ] C) had imposed <!-- feedback: Incorrect. Third conditional. -->
-- [ ] D) would impose <!-- feedback: Incorrect. 'Would' not used in 'if' clause. -->
+- [x] D) imposed <!-- feedback: Correct. Second conditional for hypothetical policy. -->
+- [ ] B) had imposed <!-- feedback: Incorrect. Third conditional. -->
+- [ ] C) would impose <!-- feedback: Incorrect. 'Would' not used in 'if' clause. -->
 
 ### Explicacion Pedagogica
 The second conditional is used to describe a hypothetical scenario and its likely outcome.
@@ -315,8 +315,8 @@ The second conditional is used to describe a hypothetical scenario and its likel
 The study concludes that unless we address acidification, coral reefs will face collapse.
 
 ### Opciones
-- [ ] A) if <!-- feedback: Incorrect. Collapse happens if we don't fix it. -->
-- [x] B) unless <!-- feedback: Correct. 'Unless' means 'if not'. -->
+- [ ] B) if <!-- feedback: Incorrect. Collapse happens if we don't fix it. -->
+- [x] A) unless <!-- feedback: Correct. 'Unless' means 'if not'. -->
 - [ ] C) although <!-- feedback: Incorrect. Expresses contrast. -->
 - [ ] D) provided <!-- feedback: Incorrect. 'Provided' means 'if'. -->
 
@@ -336,9 +336,9 @@ Biodegradable materials can be broken down by bacteria.
 
 ### Opciones
 - [ ] A) Synthetic <!-- feedback: Incorrect. Often not biodegradable. -->
-- [x] B) Biodegradable <!-- feedback: Correct. Capable of being decomposed. -->
-- [ ] C) Permanent <!-- feedback: Incorrect. Lasts forever. -->
-- [ ] D) Hazardous <!-- feedback: Incorrect. Means dangerous. -->
+- [x] D) Biodegradable <!-- feedback: Correct. Capable of being decomposed. -->
+- [ ] B) Permanent <!-- feedback: Incorrect. Lasts forever. -->
+- [ ] C) Hazardous <!-- feedback: Incorrect. Means dangerous. -->
 
 ### Explicacion Pedagogica
 'Biodegradable' is the property of substances that decompose naturally.
@@ -355,8 +355,8 @@ Biodegradable materials can be broken down by bacteria.
 By 2040, the Arctic Ocean might be ice-free during the summer.
 
 ### Opciones
-- [x] A) might be <!-- feedback: Correct. Expresses possibility. -->
-- [ ] B) is <!-- feedback: Incorrect. Present simple. -->
+- [x] B) might be <!-- feedback: Correct. Expresses possibility. -->
+- [ ] A) is <!-- feedback: Incorrect. Present simple. -->
 - [ ] C) was <!-- feedback: Incorrect. Past tense. -->
 - [ ] D) will have been <!-- feedback: Incorrect. Future perfect. -->
 
