@@ -62,7 +62,10 @@ describe('question-transformer feedback preservation', () => {
   });
 
   it('transforms real pack fixture preserving feedback', () => {
-    const packPath = path.resolve(process.cwd(), 'apps/worldexams-api/public/v1/packs/co-week-31-grade-11-subject-matematicas.json');
+    const repoRoot = fs.existsSync(path.resolve(process.cwd(), 'apps/worldexams-api'))
+      ? process.cwd()
+      : path.resolve(process.cwd(), '..');
+    const packPath = path.resolve(repoRoot, 'apps/worldexams-api/public/v1/packs/co-week-31-grade-11-subject-matematicas.json');
     const pack = JSON.parse(fs.readFileSync(packPath, 'utf8'));
     const firstQuestion = pack.questions[0];
 

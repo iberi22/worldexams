@@ -307,12 +307,14 @@ Dos factores lo agravaron:
 npm run validate
 npm run validate -- questions_data/colombia/lengua/grado-7/2026/weekly/CO-LEN-7-2026-W14-subordinacion-001-MASTERY-bundle.md
 
+# Desde saberparatodos/ usar rutas relativas al directorio actual:
+cd saberparatodos && npm run validate -- ../questions_data/colombia/lengua/grado-7/2026/weekly/CO-LEN-7-2026-W14-subordinacion-001-MASTERY-bundle.md
+
 # El gate de feedback tiene su propio test. Correrlo cuando se toque el validador:
 node scripts/test-feedback-gate.mjs
 ```
 
-`npm run validate` con `--` sobre un DIRECTORIO (no un glob): el glob produce un
-falso verde. No abrir PR si `npm run validate` falla.
+`npm run validate` con `--` acepta archivos individuales, carpetas o filtros `--only`. Las rutas relativas resuelven correctamente desde la raíz o desde `saberparatodos/`. Si los filtros o rutas no coinciden con ningún bundle (0 archivos analizados), el validador fallará explícitamente con código de salida 1. Evitar globs sin expandir. No abrir PR si `npm run validate` falla.
 
 **Nota sobre la cobertura:** el gate de feedback es mas estricto que el resto del
 validador y por diseno va a fallar sobre bundles legacy que ya estan mergeados con

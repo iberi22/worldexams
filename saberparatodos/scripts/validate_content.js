@@ -6,7 +6,8 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const ROOT = path.join(__dirname, '..');
-const QUESTIONS_DIR = path.join(ROOT, '..', 'questions_data');
+const REPO_ROOT = path.join(ROOT, '..');
+const QUESTIONS_DIR = path.join(REPO_ROOT, 'questions_data');
 
 const args = process.argv.slice(2);
 const strictV3 = args.includes('--strict-v3');
@@ -26,10 +27,18 @@ const onlyScopes = onlyScopeArg
     )
   : null;
 
-// --only <ruta|prefijo> robusto: acepta múltiples valores, coma-separados y globs simples
+// Collect target patterns from --only flags and positional arguments
 const onlyPatternsRaw = [];
+const positionalArgs = [];
+
 for (let i = 0; i < args.length; i++) {
   const a = args[i];
+  if (a === '--help' || a === '-h' || a === '--strict-v3' || a === '--fail-on-error') {
+    continue;
+  }
+  if (a.startsWith('--grade=') || a.startsWith('--country=') || a.startsWith('--scope=')) {
+    continue;
+  }
   if (a === '--only' && args[i + 1] && !args[i + 1].startsWith('--')) {
     onlyPatternsRaw.push(args[i + 1]);
     i++;
@@ -37,8 +46,11 @@ for (let i = 0; i < args.length; i++) {
     onlyPatternsRaw.push(a.slice('--only='.length));
   } else if (a.startsWith('--only:')) {
     onlyPatternsRaw.push(a.slice('--only:'.length));
+  } else if (!a.startsWith('--')) {
+    positionalArgs.push(a);
   }
 }
+
 const onlyPatterns = [];
 for (const raw of onlyPatternsRaw) {
   for (const part of raw.split(',')) {
@@ -46,6 +58,8 @@ for (const raw of onlyPatternsRaw) {
     if (p) onlyPatterns.push(p);
   }
 }
+
+const allTargetPatterns = [...onlyPatterns, ...positionalArgs];
 
 function globToRegExp(glob) {
   let re = '';
@@ -74,43 +88,63 @@ function globToRegExp(glob) {
   return new RegExp('^' + re + '$', 'i');
 }
 
-function matchesOnlyFilter(filePath) {
-  if (onlyPatterns.length === 0) return true;
-  // normaliza relativos para comparar: tanto respecto a ROOT como respecto a proyecto
-  const relRoot = relative(filePath); // ../questions_data/...
-  const relFromProject = path
-    .relative(path.join(ROOT, '..'), filePath)
-    .replace(/\\/g, '/'); // questions_data/...
-  const relRootNormalized = relRoot.replace(/^\.\.\//, '');
-  const candidates = [relRoot, relRootNormalized, relFromProject, path.relative('.', filePath).replace(/\\/g, '/')];
-  // también el absoluto normalizado
-  const absoluteNormalized = filePath.replace(/\\/g, '/');
-  candidates.push(absoluteNormalized);
+function matchesPattern(filePath) {
+  if (allTargetPatterns.length === 0) return true;
 
-  for (const patRaw of onlyPatterns) {
-    const pat = patRaw.replace(/\\/g, '/').replace(/^\.\//, '').trim();
+  const normalizedFilePath = filePath.replace(/\\/g, '/');
+  const resolvedFilePath = path.resolve(filePath).replace(/\\/g, '/');
+  const relCwd = path.relative(process.cwd(), filePath).replace(/\\/g, '/');
+  const relRepo = path.relative(REPO_ROOT, filePath).replace(/\\/g, '/');
+  const relQuestions = path.relative(QUESTIONS_DIR, filePath).replace(/\\/g, '/');
+  const relRoot = relative(filePath);
+  const fileName = path.basename(filePath);
+
+  const candidates = [
+    normalizedFilePath,
+    resolvedFilePath,
+    relCwd,
+    relRepo,
+    relQuestions,
+    relRoot,
+    relRoot.replace(/^\.\.\//, ''),
+    fileName
+  ];
+
+  for (const patRaw of allTargetPatterns) {
+    const pat = patRaw.replace(/\\/g, '/').trim();
+    if (!pat) continue;
+
+    // Check 1: Resolve pat relative to process.cwd() on disk
+    const resolvedPat = path.resolve(process.cwd(), pat).replace(/\\/g, '/');
+    if (resolvedFilePath === resolvedPat) return true;
+    if (resolvedFilePath.startsWith(resolvedPat.endsWith('/') ? resolvedPat : resolvedPat + '/')) return true;
+
+    // Check 2: Glob matching if pat contains * or ?
     const isGlob = pat.includes('*') || pat.includes('?');
     if (isGlob) {
       const re = globToRegExp(pat);
       const re2 = globToRegExp('**/' + pat);
       for (const cand of candidates) {
         if (re.test(cand) || re2.test(cand)) return true;
-        // también probar sin prefijo questions_data/
         const candNoPrefix = cand.replace(/^\.\.\//, '');
         if (re.test(candNoPrefix) || re2.test(candNoPrefix)) return true;
       }
     } else {
+      // Check 3: Relative path or substring matching
       const patNorm = pat.toLowerCase();
+      const patNormClean = patNorm.replace(/^\.\//, '').replace(/^\.\.\//, '');
       for (const cand of candidates) {
         const candLower = cand.toLowerCase();
         if (candLower === patNorm) return true;
         if (candLower.startsWith(patNorm.endsWith('/') ? patNorm : patNorm + '/')) return true;
         if (candLower.includes('/' + patNorm) || candLower.endsWith('/' + patNorm)) return true;
-        // prefijo directo
-        if (candLower.startsWith(patNorm)) return true;
+        if (candLower === patNormClean) return true;
+        if (candLower.startsWith(patNormClean.endsWith('/') ? patNormClean : patNormClean + '/')) return true;
+        if (candLower.includes('/' + patNormClean) || candLower.endsWith('/' + patNormClean)) return true;
       }
     }
   }
+
   return false;
 }
 
@@ -282,7 +316,7 @@ function getDifficultyFromHeader(section) {
 }
 
 function validateFile(filePath) {
-  if (!matchesOnlyFilter(filePath)) return;
+  if (!matchesPattern(filePath)) return;
   const relFile = relative(filePath);
   const relFileLower = relFile.toLowerCase();
   const strictScopeV3 = strictV3 && relFileLower.includes('src/content/questions/colombia/');
@@ -485,26 +519,9 @@ Opciones:
                              --only questions_data/brasil/matematica/3o-ano/2026/weekly/*.md
 `);
   }
-  let filesToValidate = files;
-  if (onlyPatterns.length > 0) {
-    filesToValidate = files.filter((f) => matchesOnlyFilter(f));
-  }
-  // Si se pasaron rutas posicionales sin --only, tratarlas como --only implícito
-  const consumedOnlyValues = new Set(
-    onlyPatternsRaw.flatMap((raw) => raw.split(',').map((s) => s.trim()).filter(Boolean))
-  );
-  const positionalRoots = args.filter(
-    (a) => !a.startsWith('--') && a.includes('questions_data') && !consumedOnlyValues.has(a)
-  );
-  if (positionalRoots.length > 0 && onlyPatterns.length === 0) {
-    // compatibilidad retro: npm run validate -- questions_data/colombia/...
-    // los trata como filtros only
-    const tmpPatterns = positionalRoots.flatMap((p) => p.split(',').map((s) => s.trim()).filter(Boolean));
-    filesToValidate = filesToValidate.filter((f) => {
-      const rel = path.relative(path.join(ROOT, '..'), f).replace(/\\/g, '/');
-      return tmpPatterns.some((pat) => rel.startsWith(pat.replace(/\\/g, '/')));
-    });
-  }
+
+  const filesToValidate = files.filter((f) => matchesPattern(f));
+
   for (const file of filesToValidate) {
     validateFile(file);
   }
@@ -516,7 +533,7 @@ Opciones:
   console.log(`- Archivos descubiertos: ${preFilteredCount}`);
   console.log(`- Archivos analizados: ${filesToValidate.length}`);
   if (onlyPatterns.length > 0) console.log(`- Filtro --only: ${onlyPatterns.join(', ')}`);
-  if (positionalRoots.length > 0) console.log(`- Filtro posicional: ${positionalRoots.join(', ')}`);
+  if (positionalArgs.length > 0) console.log(`- Filtro posicional: ${positionalArgs.join(', ')}`);
   if (onlyGrade !== null) console.log(`- Filtro grado: ${onlyGrade}`);
   if (onlyCountry) console.log(`- Filtro país: ${onlyCountry}`);
   if (onlyScopes) console.log(`- Filtro scope: ${[...onlyScopes].join(', ')}`);
@@ -524,6 +541,27 @@ Opciones:
   console.log(`- Fail on error: ${failOnError ? 'ON' : 'OFF'}`);
   console.log(`- Errores: ${errors.length}`);
   console.log(`- Warnings: ${warnings.length}`);
+
+  if (filesToValidate.length === 0) {
+    if (preFilteredCount === 0) {
+      console.error('\n❌ Error: No se encontraron archivos bundle en questions_data/.');
+    } else {
+      const activeFilters = [
+        ...onlyPatterns.map((p) => `--only ${p}`),
+        ...positionalArgs.map((p) => `posicional: ${p}`),
+        onlyGrade !== null ? `--grade=${onlyGrade}` : null,
+        onlyCountry ? `--country=${onlyCountry}` : null,
+        onlyScopes ? `--scope=${[...onlyScopes].join(',')}` : null
+      ].filter(Boolean);
+
+      console.error('\n❌ Error: Se especificaron filtros o rutas de archivo pero no se analizó ningún bundle (0 archivos analizados).');
+      if (activeFilters.length > 0) {
+        console.error(`  Filtros activos: ${activeFilters.join('; ')}`);
+      }
+      console.error(`  Causa probable: Verifique la ruta relativa o el patrón especificado. Directorio de trabajo actual: ${process.cwd()}`);
+    }
+    process.exit(1);
+  }
 
   const orderedFindings = [...errors, ...warnings];
   const top = orderedFindings.slice(0, 80);
