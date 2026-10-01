@@ -17,466 +17,507 @@ tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
 ---
-# MASTERY Bundle - Ingles: Causative Have Get (W18)
-**20 preguntas | Ingles | BGU - Ministerio de Educacion**
+# MASTERY Bundle - Ingles: causative-have-get (W18)
+**20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
-## Question 1 [D3]
-**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v1
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
 
-### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
-
-### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'accommodation' matches the definition. -->
-- [ ] A) transportation
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) entertainment
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) currency
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
-## Question 2 [D4]
-**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! 'itinerary' matches the definition. -->
-- [ ] A) baggage
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) destination
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) passport
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
-**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v3
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
-
-### Opciones
-- [x] C) destination
-  <!-- feedback: Correct! 'destination' matches the definition. -->
-- [ ] A) departure
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) arrival
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) journey
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
-## Question 4 [D4]
-**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v4
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
-
-### Opciones
-- [x] D) luggage
-  <!-- feedback: Correct! 'luggage' matches the definition. -->
-- [ ] A) ticket
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) flight
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) reservation
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
-## Question 5 [D5]
-**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
-
-### Opciones
-- [x] D) passenger
-  <!-- feedback: Correct! 'passenger' matches the definition. -->
-- [ ] A) pedestrian
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) commuter
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) tourist
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
-## Question 6 [D6]
-**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
-
-### Opciones
-- [x] B) customs
-  <!-- feedback: Correct! 'customs' matches the definition. -->
-- [ ] A) security
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) terminal
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) gate
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
-## Question 7 [D5]
-**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v7
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
-
-### Opciones
-- [x] C) boarding pass
-  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
-- [ ] A) visa
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) receipt
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) brochure
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
-## Question 8 [D6]
-**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v8
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
-
-### Opciones
-- [x] B) sightseeing
-  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
-- [ ] A) shopping
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) hiking
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) camping
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
----
-## Question 9 [D5]
-**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
-
-### Opciones
-- [x] D) souvenir
-  <!-- feedback: Correct! 'souvenir' matches the definition. -->
-- [ ] A) gift
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) award
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) prize
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
----
-## Question 10 [D6]
-**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
-
-### Opciones
-- [x] C) delay
-  <!-- feedback: Correct! 'delay' matches the definition. -->
-- [ ] A) cancellation
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) departure
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) arrival
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
-## Question 11 [D7]
-**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
-
-### Opciones
-- [x] C) check-in
-  <!-- feedback: Correct! 'check-in' matches the definition. -->
-- [ ] A) check-out
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) booking
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) reservation
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
-**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
-
-### Opciones
-- [x] A) layover
-  <!-- feedback: Correct! 'layover' matches the definition. -->
-- [ ] B) stopover
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) transfer
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) transit
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
-## Question 13 [D7]
-**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v13
+## Question 1 [D5-D6]
+**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v1
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Practica del causative, Quito, grado 11.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Which sentence uses the causative correctly?
 
 ### Opciones
-- [x] D) currency
-  <!-- feedback: Correct! 'currency' matches the definition. -->
-- [ ] A) coin
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) banknote
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) cash
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) She had her hair cut at the salon.
+  <!-- feedback: 'Have something done' expresses that someone else performs the action. -->
+- [ ] B) She had cut her hair at the salon.
+  <!-- feedback: 'Had cut' would mean she performed the action herself in the past. -->
+- [ ] C) She has cut her hair at the salon.
+  <!-- feedback: That says she cut it herself, without causative meaning. -->
+- [ ] D) She is hair cut at the salon.
+  <!-- feedback: 'Is' plus participle does not express the causative structure. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+La estructura causative causative indica que una persona Provoca una accion realize otra persona.
+
 ---
-## Question 14 [D8]
-**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v14
+
+## Question 2 [D5-D6]
+**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v2
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Causative en construccion, Quito.
+
+### Enunciado
+Complete: 'They are building a new library; the contractor ____ it for the city council.'
+
+### Opciones
+- [x] A) has built
+  <!-- feedback: 'Is building' with 'has built' means the contractor performs the building. -->
+- [ ] B) is building
+  <!-- feedback: That would mean the city council itself is doing the work. -->
+- [ ] C) builds
+  <!-- feedback: A bare verb gives no causative meaning. -->
+- [ ] D) built
+  <!-- feedback: The past simple refers to a completed past action, not to the ongoing one. -->
+
+### Explicacion Pedagogica
+La forma causative exige 'have/get' mas objeto mas participio, y el presente coincide con la accion en curso.
+
+---
+
+## Question 3 [D3-D4]
+**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v3
+**Bloom:** Understand
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Comprension del causative, Guayaquil.
+
+### Enunciado
+What does 'I got my car repaired' mean?
+
+### Opciones
+- [ ] A) The speaker repaired the car personally
+  <!-- feedback: That would be 'I repaired my car'. -->
+- [ ] B) The car was stolen
+  <!-- feedback: Nothing in the sentence refers to theft. -->
+- [ ] C) The speaker bought a new car
+  <!-- feedback: 'Repaired' means fixed, not replaced. -->
+- [x] D) The speaker had someone else repair the car
+  <!-- feedback: 'Got it repaired' means the repair was done by another person. -->
+
+### Explicacion Pedagogica
+'Get' mas objeto mas participio expresa que el hablante llevo el coche a un taller sin ejecutarlo el mismo.
+
+---
+
+## Question 4 [D3-D4]
+**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v4
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Aplicacion del causative, Cuenca.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Which sentence uses 'have' plus participle correctly?
 
 ### Opciones
-- [x] A) guidebook
-  <!-- feedback: Correct! 'guidebook' matches the definition. -->
-- [ ] B) map
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) dictionary
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) encyclopedia
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) I have my windows cleaned every month.
+  <!-- feedback: The cleaning is performed by another person on a regular basis. -->
+- [ ] B) I have clean my windows every month.
+  <!-- feedback: The second verb must be the participle 'cleaned', not the base form. -->
+- [ ] C) I am clean my windows every month.
+  <!-- feedback: 'Am' cannot be followed by a bare verb in this structure. -->
+- [ ] D) I cleaning my windows every month.
+  <!-- feedback: A gerund alone cannot function as the causative verb group. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+En la estructura causative el 'have' es el auxiliar y el participio expresa la accion Encargada.
+
 ---
-## Question 15 [D7]
-**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v15
+
+## Question 5 [D5-D6]
+**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Deteccion de errores, Quito.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Look at the sentence: 'I had cut my hair very short.' What does it mean?
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: Correct! 'backpack' matches the definition. -->
-- [ ] A) suitcase
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) briefcase
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) handbag
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) A hairdresser cut the speaker's hair
+  <!-- feedback: That requires the causative 'had it cut'. -->
+- [x] B) The speaker cut the speaker's own hair
+  <!-- feedback: 'Had cut' without a following participle is the simple past perfect of 'cut'. -->
+- [ ] C) The speaker will cut the hair tomorrow
+  <!-- feedback: Nothing in the sentence refers to the future. -->
+- [ ] D) The hair was cut by the speaker last week
+  <!-- feedback: The sentence does not specify last week; it only uses the past perfect. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Sin el participio, 'had cut' significa que el hablante se corto el pelo el mismo, no que se lo cortaron.
+
 ---
-## Question 16 [D8]
-**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v16
+
+## Question 6 [D3-D4]
+**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v6
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Pregunta causative, Guayaquil.
+
+### Enunciado
+Complete the causative question: 'Where did you ____ your phone repaired?'
+
+### Opciones
+- [ ] A) did get
+  <!-- feedback: Repeating 'did' makes the sentence ungrammatical. -->
+- [ ] B) getting
+  <!-- feedback: A gerund cannot open a past question with 'did'. -->
+- [ ] C) be
+  <!-- feedback: 'Be' plus participle forms the passive voice, not the causative question. -->
+- [x] D) get
+  <!-- feedback: 'Did you get it repaired?' is a standard causative question. -->
+
+### Explicacion Pedagogica
+En pasado el causative usa 'did' mas objeto mas 'have' mas participio, o directamente 'get' mas participio.
+
+---
+
+## Question 7 [D5-D6]
+**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Causative con 'will', Cuenca.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Which sentence expresses the causative in the future?
 
 ### Opciones
-- [x] B) overseas
-  <!-- feedback: Correct! 'overseas' matches the definition. -->
-- [ ] A) domestic
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) local
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) national
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) I will paint the kitchen next month.
+  <!-- feedback: That says the speaker will do the painting personally. -->
+- [x] B) I will have the kitchen painted next month.
+  <!-- feedback: 'Will have' plus participle expresses a future causative arrangement. -->
+- [ ] C) I have the kitchen painted next month.
+  <!-- feedback: The simple present would place the arrangement in a habitual sense, not clearly in the future. -->
+- [ ] D) I am painting the kitchen next month.
+  <!-- feedback: The present continuous plus 'next month' is awkward; the causative frame is required. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+Para expresar el causative en el futuro se usa 'will have' mas objeto mas participio.
+
 ---
-## Question 17 [D9]
-**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+
+## Question 8 [D5-D6]
+**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v8
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Analisis del causative, Quito.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+What is the difference between 'have' and 'get' in the causative?
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: Correct! 'budget' matches the definition. -->
-- [ ] A) expense
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) cost
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) price
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) 'Get' expresses the speaker doing the action
+  <!-- feedback: Both forms place the action in someone else's hands. -->
+- [ ] B) 'Have' is only used in questions
+  <!-- feedback: The causative with 'have' appears mainly in statements. -->
+- [ ] C) They are completely unrelated in meaning
+  <!-- feedback: They are variants of the same causative structure. -->
+- [x] D) 'Have' is standard; 'get' is a common informal alternative
+  <!-- feedback: Both express that another person performs the action. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+'Have something done' es la forma estandar; 'get something done' es mas coloquial y significa lo mismo.
+
 ---
-## Question 18 [D10]
-**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+
+## Question 9 [D5-D6]
+**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v9
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Causative y pasiva, Guayaquil.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Choose the sentence that correctly uses the causative passive.
 
 ### Opciones
-- [x] D) insurance
-  <!-- feedback: Correct! 'insurance' matches the definition. -->
-- [ ] A) warranty
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) guarantee
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) policy
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) They had repair the roof before the rains.
+  <!-- feedback: The second verb must be a participle, not the base form 'repair'. -->
+- [ ] B) They had the roof repair before the rains.
+  <!-- feedback: The bare 'repair' lacks the passive form 'repaired'. -->
+- [x] C) They had the roof repaired before the rains.
+  <!-- feedback: 'Roof repaired' is the passive participle of the action done to the roof. -->
+- [ ] D) They got the roof to repair before the rains.
+  <!-- feedback: 'Get' plus infinitive does not express the causative here. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+En el causative pasivo el 'have/get' va seguido de un participio pasivo que describe la accion sobre un objeto.
+
 ---
-## Question 19 [D9]
-**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+
+## Question 10 [D5-D6]
+**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v10
+**Bloom:** Understand
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Comprension lectora, Cuenca.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Read the text: 'After the storm, the family had the roof repaired and the walls repainted.' What is the meaning?
 
 ### Opciones
-- [x] A) vaccination
-  <!-- feedback: Correct! 'vaccination' matches the definition. -->
-- [ ] B) medication
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) prescription
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) infection
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) The family repaired and repainted everything themselves
+  <!-- feedback: That would require the simple past 'repaired' without 'had'. -->
+- [ ] B) The family built a new house
+  <!-- feedback: The text mentions repairs, not a new construction. -->
+- [ ] C) The family moved to another house
+  <!-- feedback: No change of residence is mentioned in the text. -->
+- [x] D) Other people repaired the roof and repainted the walls
+  <!-- feedback: The causative 'had done' assigns the work to hired professionals. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Ambas acciones fueron realizadas por otras personas hired, no por la familia misma.
+
 ---
-## Question 20 [D10]
-**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+
+## Question 11 [D5-D6]
+**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v11
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Reconocimiento de estructuras, Quito.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which sentence is NOT a causative construction?
 
 ### Opciones
-- [x] B) jet lag
-  <!-- feedback: Correct! 'jet lag' matches the definition. -->
-- [ ] A) fatigue
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) exhaustion
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) insomnia
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) They had a good time at the party.
+  <!-- feedback: 'Have a good time' is an idiom meaning 'enjoy yourself', not a causative. -->
+- [ ] B) They had the car washed.
+  <!-- feedback: 'Had the car washed' is a causative with a passive participle. -->
+- [ ] C) He had his photograph taken.
+  <!-- feedback: 'Had his photograph taken' is a causative structure. -->
+- [ ] D) We had the walls painted.
+  <!-- feedback: 'Had the walls painted' is a causative structure. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+La frase 'have a good time' es una expresion idiomatica y no una estructura causative.
+
+---
+
+## Question 12 [D3-D4]
+**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v12
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Causative en contexto de servicios, Guayaquil.
+
+### Enunciado
+Complete the sentence: 'The office ____ its carpets cleaned every week.'
+
+### Opciones
+- [ ] A) have
+  <!-- feedback: 'Have' does not agree with the singular subject 'the office'. -->
+- [ ] B) is
+  <!-- feedback: 'Is' plus 'cleaning' would mean the office cleans the carpets itself. -->
+- [x] C) has
+  <!-- feedback: 'Has' agrees with the singular subject and fits the habitual causative. -->
+- [ ] D) are
+  <!-- feedback: 'Are' does not agree with the singular subject 'the office'. -->
+
+### Explicacion Pedagogica
+El sujeto 'the office' encarga el trabajo y el auxiliar 'has' concuerda con el presente habitual.
+
+---
+
+## Question 13 [D5-D6]
+**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v13
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Causative en pasado, Cuenca.
+
+### Enunciado
+Which sentence correctly uses the causative with 'get' in the past?
+
+### Opciones
+- [x] A) She got her computer fixed at the shop.
+  <!-- feedback: 'Got it fixed' is a standard past causative with 'get'. -->
+- [ ] B) She got fix her computer at the shop.
+  <!-- feedback: After 'got' the verb must be the participle 'fixed'. -->
+- [ ] C) She gets fix her computer at the shop.
+  <!-- feedback: The base form after the participle position is wrong here. -->
+- [ ] D) She is get her computer fixed at the shop.
+  <!-- feedback: 'Is' cannot be combined with 'get' in the causative. -->
+
+### Explicacion Pedagogica
+En pasado, 'get' mas objeto mas participio aparece con 'did' o directamente en la oracion afirmativa.
+
+---
+
+## Question 14 [D5-D6]
+**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v14
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Comprension de preguntas causative, Quito.
+
+### Enunciado
+Look at the question: 'Did you have your car serviced before the trip?' How should it be answered?
+
+### Opciones
+- [ ] A) Yes, I serviced it on Monday.
+  <!-- feedback: That says the speaker did the work, which loses the causative meaning. -->
+- [ ] B) Yes, I am servicing it on Monday.
+  <!-- feedback: The present continuous does not answer a past question. -->
+- [x] C) Yes, I had it serviced on Monday.
+  <!-- feedback: 'Had it serviced' keeps the causative frame and the past time. -->
+- [ ] D) Yes, it was serviced by me.
+  <!-- feedback: The passive here suggests the speaker did it, contradicting the causative question. -->
+
+### Explicacion Pedagogica
+Una respuesta coherente mantiene el pasado y aclara si el trabajo lo hizo alguien mas.
+
+---
+
+## Question 15 [D5-D6]
+**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v15
+**Bloom:** Understand
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Marco conceptual, Guayaquil.
+
+### Enunciado
+Which statement about the causative is correct?
+
+### Opciones
+- [ ] A) It describes an action performed by the subject itself
+  <!-- feedback: That is the plain active voice, not the causative. -->
+- [x] B) It describes making someone else perform an action
+  <!-- feedback: That is precisely the meaning of the causative structure. -->
+- [ ] C) It describes an action that did not happen
+  <!-- feedback: A hypothetical is expressed with conditionals, not with the causative. -->
+- [ ] D) It is used only with animate subjects
+  <!-- feedback: Inanimate subjects such as 'the office' appear frequently in causative sentences. -->
+
+### Explicacion Pedagogica
+El causativehift describe una accion en la que el sujeto Provoca que otro la realice.
+
+---
+
+## Question 16 [D3-D4]
+**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v16
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Participio pasivo, Cuenca.
+
+### Enunciado
+Choose the correct passive participle: 'She had her dress ____ before the party.'
+
+### Opciones
+- [ ] A) maked
+  <!-- feedback: 'Maked' is not an English participle. -->
+- [x] B) made
+  <!-- feedback: 'Made' is the correct past participle of 'make' for this passive construction. -->
+- [ ] C) make
+  <!-- feedback: 'Make' is the base form and does not work after the causative auxiliary. -->
+- [ ] D) making
+  <!-- feedback: 'Making' is the gerund and does not fit this position. -->
+
+### Explicacion Pedagogica
+El participio pasivo de 'make' para una prenda es 'made', y la frase completa expresa el causative.
+
+---
+
+## Question 17 [D5-D6]
+**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v17
+**Bloom:** Evaluate
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Causative y tiempo, Quito.
+
+### Enunciado
+Which sentence uses the causative correctly with a time expression?
+
+### Opciones
+- [ ] A) We have the generator installed last semester.
+  <!-- feedback: The present perfect is incompatible with the closed time 'last semester'. -->
+- [ ] B) We had install the generator last semester.
+  <!-- feedback: After 'had' the verb must be the participle 'installed'. -->
+- [ ] C) We are having install the generator last semester.
+  <!-- feedback: The present continuous cannot be combined with a closed past time. -->
+- [x] D) We had the generator installed last semester.
+  <!-- feedback: 'Had installed' with a closed past time is a correct causative. -->
+
+### Explicacion Pedagogica
+El causative en pasado con un tiempo cerrado se enuncia con 'had' mas participio, sin auxiliares adicionales.
+
+---
+
+## Question 18 [D5-D6]
+**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v18
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Analisis de la oracion, Guayaquil.
+
+### Enunciado
+Read the sentence: 'The hotel had the rooms renovated in 2018.' What does 'renovated' express?
+
+### Opciones
+- [ ] A) The action performed by the guests
+  <!-- feedback: The guests are not the ones who renovate; the causative assigns it to others. -->
+- [x] B) The action performed to the rooms by someone else
+  <!-- feedback: The passive participle marks the action done to the object. -->
+- [ ] C) A future intention of the hotel
+  <!-- feedback: The time 'in 2018' is past, not future. -->
+- [ ] D) A refusal to renovate
+  <!-- feedback: The sentence states the renovation took place. -->
+
+### Explicacion Pedagogica
+'Renovated' es el participio pasivo que describe la accion ejecutada sobre las habitaciones.
+
+---
+
+## Question 19 [D5-D6]
+**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v19
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Causative en presente continuo, Cuenca.
+
+### Enunciado
+Which option correctly completes: 'They are getting the generator ____ before the storm arrives.'
+
+### Opciones
+- [ ] A) to check
+  <!-- feedback: 'To check' would be an infinitive, not the required participle. -->
+- [ ] B) check
+  <!-- feedback: The bare base form does not fit the causative structure. -->
+- [x] C) checked
+  <!-- feedback: 'Getting it checked' presents the check as an action in progress. -->
+- [ ] D) for checking
+  <!-- feedback: The preposition is not part of this structure. -->
+
+### Explicacion Pedagogica
+En presente continuo el causative usa 'getting' mas objeto mas participio para una accion que se esta Realizando.
+
+---
+
+## Question 20 [D5-D6]
+**ID:** EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v20
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Analisis de la funcion, Quito.
+
+### Enunciado
+What does the causative allow the speaker to emphasise?
+
+### Opciones
+- [ ] A) The identity of the worker
+  <!-- feedback: The worker is usually anonymous in the causative structure. -->
+- [ ] B) The place where the action takes place
+  <!-- feedback: Location is expressed by prepositional phrases, not by the causative. -->
+- [x] C) The result obtained, rather than the person who performs the action
+  <!-- feedback: The causative foregrounds the result of having something done. -->
+- [ ] D) The exact price of the service
+  <!-- feedback: Cost would appear in a separate sentence about payment. -->
+
+### Explicacion Pedagogica
+El causative destaca el resultado y la accion del objeto, mas que la persona que la ejecuta.
+
+---

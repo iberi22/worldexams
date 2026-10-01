@@ -18,190 +18,207 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-# MASTERY Bundle - Ingles: Numbers 1 20 (W03)
-**8 preguntas | Ingles | {alignment}**
+# MASTERY Bundle - Ingles: numbers-1-20 (W03)
+**8 preguntas | Ingles | DBA MEN Colombia**
 
 ---
+
 ## Question 1 [D3-D4]
 **ID:** CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lexico
+**ICFES:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Practica de numeros del 1 al 20, grado 3.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which number is 'thirteen'?
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'accommodation' matches the definition. -->
-- [ ] A) transportation
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) entertainment
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) currency
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) 30
+  <!-- feedback: 'Thirty' is the word for 30, a different number entirely. -->
+- [x] B) 13
+  <!-- feedback: 'Thirteen' is the number after twelve: 10 + 3 = 13. -->
+- [ ] C) 3
+  <!-- feedback: That is 'three', not 'thirteen'. -->
+- [ ] D) 11
+  <!-- feedback: That is 'eleven', the number before twelve. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+'Thirteen' se escribe con vocal inicial y es el numero inmediatamente despues de 'twelve'.
+
 ---
+
 ## Question 2 [D3-D4]
 **ID:** CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v2
-**Bloom:** Understand
-**ICFES:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] C) itinerary
-  <!-- feedback: Correct! 'itinerary' matches the definition. -->
-- [ ] A) baggage
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) destination
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) passport
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D5-D6]
-**ID:** CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v3
 **Bloom:** Apply
-**ICFES:** Lexico
+**ICFES:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Numeros en contexto, grado 3.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Complete the sentence: 'I have ____ pencils in my bag.'
 
 ### Opciones
-- [x] D) destination
-  <!-- feedback: Correct! 'destination' matches the definition. -->
-- [ ] A) departure
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) arrival
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) journey
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) twelveth
+  <!-- feedback: 'Twelveth' is not an English number. -->
+- [ ] B) twelves
+  <!-- feedback: 'Twelves' is not a standard plural of 'twelve'. -->
+- [ ] C) twelf
+  <!-- feedback: 'Twelf' is not an English word. -->
+- [x] D) twelve
+  <!-- feedback: 'Twelve pencils' is a plural count that matches the noun 'pencils'. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Los lapices se cuentan en plural, por eso el enunciado requiere un numero mayor de uno.
+
 ---
-## Question 4 [D5-D6]
+
+## Question 3 [D3-D4]
+**ID:** CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v3
+**Bloom:** Understand
+**ICFES:** Lexical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Secuencia numerica del 1 al 20, grado 3.
+
+### Enunciado
+Which number comes after nineteen?
+
+### Opciones
+- [ ] A) nineteen
+  <!-- feedback: That is the number before, not the one after. -->
+- [ ] B) twenty-one
+  <!-- feedback: 'Twenty-one' would be the number after twenty. -->
+- [ ] C) ten
+  <!-- feedback: 'Ten' restarts the tens in the sequence. -->
+- [x] D) twenty
+  <!-- feedback: Nineteen is followed by twenty in the natural counting sequence. -->
+
+### Explicacion Pedagogica
+La serie del 1 al 20 termina en 19 followed by 20, que se escribe 'twenty'. Esta forma se practica tambien con los otros verbos de la misma serie.
+
+---
+
+## Question 4 [D3-D4]
 **ID:** CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v4
 **Bloom:** Apply
-**ICFES:** Lexico
+**ICFES:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Lectura de numeros de dos cifras, grado 3.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Look at the number 45. How do you read it?
 
 ### Opciones
-- [x] B) luggage
-  <!-- feedback: Correct! 'luggage' matches the definition. -->
-- [ ] A) ticket
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) flight
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) reservation
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) forty-five
+  <!-- feedback: Forty is the tens digit and five is the units digit: 40 + 5 = 45. -->
+- [ ] B) fifty-four
+  <!-- feedback: That reads 54, with the digits in the wrong order. -->
+- [ ] C) four-five
+  <!-- feedback: 'Four-five' is how a number is read digit by digit, not as a value. -->
+- [ ] D) fourteen-five
+  <!-- feedback: 'Fourteen' has no place in this two-digit number. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+En ingles el 45 se lee 'forty-five': la decena primero y la unidad despues, con guion.
+
 ---
-## Question 5 [D7-D8]
+
+## Question 5 [D3-D4]
 **ID:** CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v5
-**Bloom:** Analyze
-**ICFES:** Lexico
+**Bloom:** Remember
+**ICFES:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Numeros redondos, grado 3.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Which word means 'the number 100'?
 
 ### Opciones
-- [x] B) passenger
-  <!-- feedback: Correct! 'passenger' matches the definition. -->
-- [ ] A) pedestrian
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) commuter
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) tourist
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) one thousand
+  <!-- feedback: 'One thousand' is 1,000, ten times larger. -->
+- [ ] B) ten hundred
+  <!-- feedback: Ten hundreds would be 1,000, not 100. -->
+- [x] C) one hundred
+  <!-- feedback: 'One hundred' is 100 in English. -->
+- [ ] D) hundred
+  <!-- feedback: 'Hundred' alone needs the determiner 'one' or 'a' in this sense. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+'One hundred' o 'a hundred' equivalen a 100; 'thousand' es 1,000. El mismo criterio se aplica al resto del vocabulario del tema.
+
 ---
-## Question 6 [D7-D8]
+
+## Question 6 [D3-D4]
 **ID:** CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v6
-**Bloom:** Analyze
-**ICFES:** Lexico
+**Bloom:** Apply
+**ICFES:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Interrogacion sobre cantidades, grado 3.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Complete the dialogue: 'A: How many books do you have? B: ____ fifteen.'
 
 ### Opciones
-- [x] C) customs
-  <!-- feedback: Correct! 'customs' matches the definition. -->
-- [ ] A) security
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) terminal
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) gate
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) I have
+  <!-- feedback: 'I have fifteen books' answers the question and keeps the plural noun. -->
+- [ ] B) I am
+  <!-- feedback: 'I am' cannot be followed by a counted object. -->
+- [ ] C) I has
+  <!-- feedback: With 'I' the verb is always 'have', never 'has'. -->
+- [ ] D) I having
+  <!-- feedback: 'Having' is a gerund and does not answer the question. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+La respuesta a 'How many' con un numero mayor de uno lleva el plural 'books': 'fifteen books'.
+
 ---
-## Question 7 [D9-D10]
+
+## Question 7 [D3-D4]
 **ID:** CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v7
-**Bloom:** Evaluate
-**ICFES:** Lexico
+**Bloom:** Analyze
+**ICFES:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Comparacion de cantidades, grado 3.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Which is the correct order from the largest to the smallest?
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
-- [ ] A) visa
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) receipt
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) brochure
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) 9, 12, 20
+  <!-- feedback: That is the ascending order, not the descending one. -->
+- [x] B) 20, 12, 9
+  <!-- feedback: Each number is smaller than the one before it, so the order is descending. -->
+- [ ] C) 12, 20, 9
+  <!-- feedback: Twelve is smaller than twenty, so the order breaks. -->
+- [ ] D) 20, 9, 12
+  <!-- feedback: Nine is smaller than twelve, so this order breaks. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+El orden descendente correcto es 20, 12 y luego 9, porque cada numero es menor que el anterior.
+
 ---
-## Question 8 [D9-D10]
+
+## Question 8 [D3-D4]
 **ID:** CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v8
-**Bloom:** Evaluate
-**ICFES:** Lexico
+**Bloom:** Understand
+**ICFES:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Secuencia numerica, grado 3.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+What number comes after ninety-nine?
 
 ### Opciones
-- [x] C) sightseeing
-  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
-- [ ] A) shopping
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) hiking
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) camping
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) ninety-eight
+  <!-- feedback: That is the number before ninety-nine. -->
+- [ ] B) ninety
+  <!-- feedback: Ninety comes earlier, as part of the teens and eighties. -->
+- [x] C) one hundred
+  <!-- feedback: Ninety-nine plus one is one hundred. -->
+- [ ] D) one hundred one
+  <!-- feedback: 'One hundred one' would be the number after one hundred. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Despues de 99 viene 100, que en ingles se escribe 'one hundred' o simply 'a hundred'.
+
+---

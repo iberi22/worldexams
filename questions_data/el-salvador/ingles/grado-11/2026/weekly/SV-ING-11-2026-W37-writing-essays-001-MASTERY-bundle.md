@@ -18,467 +18,507 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-# MASTERY Bundle - ingles: writing essays (W37)
-**20 preguntas | ingles | MINED - PAES El Salvador**
+# MASTERY Bundle - Ingles: writing-essays (W37)
+**20 preguntas | Ingles | MINED - PAES El Salvador**
 
 ---
 
 ## Question 1 [D3-D4]
 **ID:** SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v1
 **Bloom:** Apply
-**EJE:** writing essays
+**EJE:** Pragmatic Competence
 **Expected_Success:** 0.80
-**Contexto:** English class in San Miguel, SV.
+**Contexto:** Redaccion de ensayos argumentativos, San Salvador.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Which is the best opening sentence for an argumentative essay?
 
 ### Opciones
-- [x] B) am
-  <!-- feedback: Correct! -->
-- [ ] A) is
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) are
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) be
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) School uniforms should be replaced by a dress code based on comfort.
+  <!-- feedback: It states the topic and the writer's position in one clear thesis. -->
+- [ ] B) There are many opinions about school clothes.
+  <!-- feedback: It only announces a topic without taking a position. -->
+- [ ] C) This essay will talk about uniforms.
+  <!-- feedback: A metadiscourse announcement adds no content. -->
+- [ ] D) Uniforms are worn every day by millions of students.
+  <!-- feedback: It gives a fact but does not present an argument. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
+Una buena tesis presenta el tema y anticipa la posicion del autor de forma clara y directa.
+
+---
 
 ## Question 2 [D3-D4]
 **ID:** SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**EJE:** writing essays
+**EJE:** Pragmatic Competence
 **Expected_Success:** 0.80
-**Contexto:** English class in Soyapango, SV.
+**Contexto:** Estructura del ensayo, San Salvador.
 
 ### Enunciado
-What does 'benevolent' mean?
+What does a thesis statement do in an argumentative essay?
 
 ### Opciones
-- [x] B) Kind and generous
-  <!-- feedback: Correct! -->
-- [ ] A) Mean and cruel
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) Quick and fast
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] A) It lists every source used.
+  <!-- feedback: References belong in the bibliography, not in the thesis. -->
+- [ ] B) It concludes the argument with a summary.
+  <!-- feedback: That is the role of the conclusion. -->
+- [x] C) It states the central argument of the essay.
+  <!-- feedback: The thesis is the claim the whole text supports. -->
+- [ ] D) It introduces the author's biography.
+  <!-- feedback: Biographical information is not part of the thesis. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
+La tesis declara la posicion central del ensayo y guia todo el desarrollo posterior.
+
+---
 
 ## Question 3 [D3-D4]
 **ID:** SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v3
-**Bloom:** Analyze
-**EJE:** writing essays
-**Expected_Success:** 0.70
-**Contexto:** English class in Santa Ana, SV.
+**Bloom:** Apply
+**EJE:** Pragmatic Competence
+**Expected_Success:** 0.80
+**Contexto:** Conectores en el ensayo, San Miguel.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Choose the best linking word: 'The policy is expensive. ____, it improves results.'
 
 ### Opciones
-- [x] C) Bees are important for pollination and honey
-  <!-- feedback: Correct! -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] B) Honey is the only product bees make
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] A) Therefore
+  <!-- feedback: 'Therefore' would draw a conclusion, not a contrast. -->
+- [x] B) However
+  <!-- feedback: 'However' introduces a contrast between cost and improved results. -->
+- [ ] C) Besides
+  <!-- feedback: 'Besides' adds supporting information, which is not the relation here. -->
+- [ ] D) For example
+  <!-- feedback: 'For example' introduces an illustration, not an opposing idea. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
+'However' introduce una idea opuesta: el costo se opone al beneficio. Los conectores de contraste aunque pueden ser 'nevertheless' o 'yet'.
 
-## Question 4 [D3-D4]
+---
+
+## Question 4 [D5-D6]
 **ID:** SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v4
-**Bloom:** Remember
-**EJE:** writing essays
-**Expected_Success:** 0.85
-**Contexto:** English class in Mejicanos, SV.
+**Bloom:** Apply
+**EJE:** Pragmatic Competence
+**Expected_Success:** 0.80
+**Contexto:** Conclusion del ensayo, San Salvador.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+Which is the best concluding sentence?
 
 ### Opciones
-- [x] C) went
-  <!-- feedback: Correct! -->
-- [ ] A) goed
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] B) gone
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) going
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] A) There are many reasons to think about school uniforms.
+  <!-- feedback: That is a vague repetition, not a conclusion. -->
+- [ ] B) I will now write about the second reason.
+  <!-- feedback: That is a metadiscourse remark and breaks the conclusion. -->
+- [x] C) For these reasons, schools should adopt flexible dress codes.
+  <!-- feedback: It restates the argument and closes the essay without new evidence. -->
+- [ ] D) Uniforms cost ten dollars per year.
+  <!-- feedback: A new fact at the end distracts from the argument. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
+Una buena conclusion retoma la tesis y la amplia con una implicacion, sin introducir argumentos nuevos.
+
+---
 
 ## Question 5 [D5-D6]
 **ID:** SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v5
-**Bloom:** Remember
-**EJE:** writing essays
-**Expected_Success:** 0.85
-**Contexto:** English class in San Miguel, SV.
+**Bloom:** Understand
+**EJE:** Pragmatic Competence
+**Expected_Success:** 0.80
+**Contexto:** Estructura argumentativa, San Salvador.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+What is the main purpose of a counterargument paragraph?
 
 ### Opciones
-- [x] D) She goes to school every day.
-  <!-- feedback: Correct! -->
-- [ ] A) She go to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] B) She going to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) She gone to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] A) To weaken the essay by confusing the reader.
+  <!-- feedback: The purpose is to strengthen, not to confuse. -->
+- [x] B) To present the strongest objection and then answer it.
+  <!-- feedback: Addressing an objection makes the argument more convincing. -->
+- [ ] C) To repeat the thesis in other words.
+  <!-- feedback: Repetition of the thesis is not a counterargument. -->
+- [ ] D) To list unrelated sources.
+  <!-- feedback: Sources are cited to support a position, not listed randomly. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
+El contraargumento presenta la objecion mas fuerte y la refuta, fortaleciendo la tesis del autor.
+
+---
 
 ## Question 6 [D5-D6]
 **ID:** SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v6
-**Bloom:** Apply
-**EJE:** writing essays
+**Bloom:** Analyze
+**EJE:** Pragmatic Competence
 **Expected_Success:** 0.80
-**Contexto:** English class in San Miguel, SV.
+**Contexto:** Redaccion de tesis, San Miguel.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Choose the best thesis statement for an essay about remote learning.
 
 ### Opciones
-- [x] C) am
-  <!-- feedback: Correct! -->
-- [ ] A) is
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] B) are
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) be
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] A) Remote learning is a topic that many people discuss.
+  <!-- feedback: It only announces a topic and cannot be argued. -->
+- [ ] B) Remote learning is used in many countries.
+  <!-- feedback: It is a fact, not a debatable claim. -->
+- [ ] C) Remote learning changed education.
+  <!-- feedback: It is too vague to serve as an argument. -->
+- [x] D) Remote learning improves independence but requires better internet access.
+  <!-- feedback: It takes a clear position that can be defended with evidence on both sides. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
+Una tesis argumentative debe ser una afirmacion clara, discutible y sostenida por argumentos.
+
+---
 
 ## Question 7 [D5-D6]
 **ID:** SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v7
-**Bloom:** Understand
-**EJE:** writing essays
+**Bloom:** Evaluate
+**EJE:** Pragmatic Competence
 **Expected_Success:** 0.80
-**Contexto:** English class in Soyapango, SV.
+**Contexto:** Registro formal, San Salvador.
 
 ### Enunciado
-What does 'benevolent' mean?
+Which sentence is the most objective in a formal argumentative essay?
 
 ### Opciones
-- [x] D) Kind and generous
-  <!-- feedback: Correct! -->
-- [ ] A) Mean and cruel
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] B) Quick and fast
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) Slow and lazy
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] A) The terrible old system never worked for anyone.
+  <!-- feedback: 'Terrible' and 'never' are judgements, not evidence. -->
+- [x] B) Two studies published in 2020 reported improved attendance.
+  <!-- feedback: It presents verifiable data with no emotional judgement. -->
+- [ ] C) Everyone knows that online classes are fantastic.
+  <!-- feedback: 'Everyone knows' and 'fantastic' are subjective and unverified. -->
+- [ ] D) Obviously, the new method is the best option.
+  <!-- feedback: 'Obviously' assumes the conclusion instead of arguing it. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
+La objetividad se expresa con datos verificables y sin adjetivos valorativos; las otras opciones contienen juicios.
 
-## Question 8 [D5-D6]
+---
+
+## Question 8 [D3-D4]
 **ID:** SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v8
-**Bloom:** Analyze
-**EJE:** writing essays
-**Expected_Success:** 0.70
-**Contexto:** English class in Mejicanos, SV.
+**Bloom:** Understand
+**EJE:** Pragmatic Competence
+**Expected_Success:** 0.80
+**Contexto:** Estructura del ensayo, San Salvador.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+What does the phrase 'In conclusion' signal to the reader?
 
 ### Opciones
-- [x] C) Bees are important for pollination and honey
-  <!-- feedback: Correct! -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] B) Honey is the only product bees make
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] A) The writer is starting a new paragraph.
+  <!-- feedback: It signals the end, not the beginning. -->
+- [ ] B) The writer is quoting a source.
+  <!-- feedback: Quotations need reference markers, not a linking phrase. -->
+- [x] C) The writer is summarising the argument.
+  <!-- feedback: 'In conclusion' marks the synthesising part of the text. -->
+- [ ] D) The writer is asking a question.
+  <!-- feedback: Questions use question forms, not this connective. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
+La expresion anuncia el cierre del ensayo y la sintesis final de los argumentos.
+
+---
 
 ## Question 9 [D5-D6]
 **ID:** SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v9
-**Bloom:** Remember
-**EJE:** writing essays
-**Expected_Success:** 0.85
-**Contexto:** English class in Mejicanos, SV.
+**Bloom:** Evaluate
+**EJE:** Pragmatic Competence
+**Expected_Success:** 0.80
+**Contexto:** Seleccion de evidencia, San Miguel.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+Which evidence is most appropriate for an essay arguing that schools should recycle more?
 
 ### Opciones
-- [x] D) went
-  <!-- feedback: Correct! -->
-- [ ] A) goed
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] B) gone
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) going
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] A) Recycling is a wonderful idea.
+  <!-- feedback: That is an opinion repeated from the thesis. -->
+- [ ] B) I think everyone should recycle.
+  <!-- feedback: A personal preference does not support an argument. -->
+- [ ] C) Some people do not like bins in the corridors.
+  <!-- feedback: An irrelevant personal reaction, not evidence. -->
+- [x] D) The amount of electricity saved by recycling paper last year.
+  <!-- feedback: Measurable data directly supports the claim. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
+Una cifra sobre kilowatios de energia ahorrada es evidencia cuantitativa y verificable; las demas son opiniones.
+
+---
 
 ## Question 10 [D5-D6]
 **ID:** SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v10
-**Bloom:** Remember
-**EJE:** writing essays
-**Expected_Success:** 0.85
-**Contexto:** English class in Mejicanos, SV.
-
-### Enunciado
-Which sentence uses the present simple correctly?
-
-### Opciones
-- [x] A) She goes to school every day.
-  <!-- feedback: Correct! -->
-- [ ] B) She go to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) She going to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
-
-### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
-
-## Question 11 [D7-D8]
-**ID:** SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** writing essays
+**EJE:** Pragmatic Competence
 **Expected_Success:** 0.80
-**Contexto:** English class in Santa Ana, SV.
+**Contexto:** Coherencia entre parrafos, San Salvador.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Choose the best transition between paragraphs on different aspects of the same topic.
 
 ### Opciones
-- [x] A) am
-  <!-- feedback: Correct! -->
-- [ ] B) is
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) are
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) be
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Furthermore, schools should reduce paper waste.
+  <!-- feedback: It adds a further point without breaking the topic. -->
+- [ ] B) In conclusion, recycling is a good practice.
+  <!-- feedback: That signals the end, which is not a mid-text transition. -->
+- [ ] C) For example, I have three brothers.
+  <!-- feedback: The personal detail breaks the line of argument. -->
+- [ ] D) On the other hand, that was a different school.
+  <!-- feedback: The contrast introduces an unrelated setting. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
+'Furthermore' anade un argumento adicional al ya presentado dentro del mismo tema.
 
-## Question 12 [D7-D8]
+---
+
+## Question 11 [D5-D6]
+**ID:** SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v11
+**Bloom:** Analyze
+**EJE:** Pragmatic Competence
+**Expected_Success:** 0.80
+**Contexto:** Tipos de ensayo, San Salvador.
+
+### Enunciado
+What is the main difference between an argumentative and a descriptive essay?
+
+### Opciones
+- [ ] A) The descriptive essay always includes statistics.
+  <!-- feedback: Statistics belong to argumentative texts. -->
+- [ ] B) The argumentative essay has no structure.
+  <!-- feedback: Both genres require an organised structure. -->
+- [ ] C) The descriptive essay presents a conclusion.
+  <!-- feedback: Both genres normally end with a closing paragraph. -->
+- [x] D) An argumentative essay defends a position; a descriptive one explains characteristics.
+  <!-- feedback: The first argues, the second depicts. -->
+
+### Explicacion Pedagogica
+El ensayo argumentativo defiende una posicion con razones; el descriptivo explica caracteristicas de algo.
+
+---
+
+## Question 12 [D5-D6]
 **ID:** SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v12
-**Bloom:** Understand
-**EJE:** writing essays
+**Bloom:** Apply
+**EJE:** Pragmatic Competence
 **Expected_Success:** 0.80
-**Contexto:** English class in Santa Ana, SV.
+**Contexto:** Oraciones de tema, San Salvador.
 
 ### Enunciado
-What does 'benevolent' mean?
+Which sentence is a clear topic sentence for a paragraph about renewable energy?
 
 ### Opciones
-- [x] A) Kind and generous
-  <!-- feedback: Correct! -->
-- [ ] B) Mean and cruel
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) Quick and fast
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) Solar panels convert sunlight into electricity.
+  <!-- feedback: It announces the general idea the paragraph will develop. -->
+- [ ] B) My uncle installed panels on his roof.
+  <!-- feedback: A single specific case is too narrow for a topic sentence. -->
+- [ ] C) Panels are useful because they reduce bills and emissions.
+  <!-- feedback: This already gives the reasons, which belong after the topic sentence. -->
+- [ ] D) Panels.
+  <!-- feedback: A single word cannot announce the content of a paragraph. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
+Una oracion de tema anuncia de forma general lo que el parrafo va a explicar. Suele ocupar la primera frase del parrafo.
 
-## Question 13 [D7-D8]
+---
+
+## Question 13 [D5-D6]
 **ID:** SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**EJE:** writing essays
-**Expected_Success:** 0.70
-**Contexto:** English class in Mejicanos, SV.
+**EJE:** Pragmatic Competence
+**Expected_Success:** 0.80
+**Contexto:** Introduccion del ensayo, San Salvador.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Why should an essay include a short introduction of the topic before the thesis?
 
 ### Opciones
-- [x] D) Bees are important for pollination and honey
-  <!-- feedback: Correct! -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] B) Honey is the only product bees make
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) Flowers don't need bees
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] A) To fill space so the essay looks longer.
+  <!-- feedback: Padding is not a rhetorical reason. -->
+- [x] B) To give the reader background so the thesis makes sense.
+  <!-- feedback: Context first, claim second is the standard order. -->
+- [ ] C) To list all the sources used.
+  <!-- feedback: Sources are cited in the body, not listed as background. -->
+- [ ] D) To repeat the conclusion twice.
+  <!-- feedback: Repeating a conclusion is not a function of the introduction. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
+La introduccion situacion el tema en su contexto para que la tesis tenga sentido para el lector.
 
-## Question 14 [D7-D8]
+---
+
+## Question 14 [D5-D6]
 **ID:** SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v14
-**Bloom:** Remember
-**EJE:** writing essays
-**Expected_Success:** 0.85
-**Contexto:** English class in Mejicanos, SV.
-
-### Enunciado
-Which is the correct past form of 'go'?
-
-### Opciones
-- [x] C) went
-  <!-- feedback: Correct! -->
-- [ ] A) goed
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] B) gone
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) going
-  <!-- feedback: Incorrect. Review the concept. -->
-
-### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
-
-## Question 15 [D7-D8]
-**ID:** SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v15
-**Bloom:** Remember
-**EJE:** writing essays
-**Expected_Success:** 0.85
-**Contexto:** English class in Santa Ana, SV.
-
-### Enunciado
-Which sentence uses the present simple correctly?
-
-### Opciones
-- [x] A) She goes to school every day.
-  <!-- feedback: Correct! -->
-- [ ] B) She go to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) She going to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
-
-### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
-
-## Question 16 [D7-D8]
-**ID:** SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**EJE:** writing essays
+**EJE:** Pragmatic Competence
 **Expected_Success:** 0.80
-**Contexto:** English class in Santa Ana, SV.
+**Contexto:** Registro academico, San Miguel.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Which verb is more precise in an academic essay: 'The results ____ a clear improvement.'
 
 ### Opciones
-- [x] C) am
-  <!-- feedback: Correct! -->
-- [ ] A) is
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] B) are
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) be
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) show
+  <!-- feedback: 'Show' indicates evidence without claiming absolute proof. -->
+- [ ] B) prove
+  <!-- feedback: 'Prove' claims certainty, which empirical results rarely support. -->
+- [ ] C) guess
+  <!-- feedback: 'Guess' contradicts the factual register of the sentence. -->
+- [ ] D) feel
+  <!-- feedback: 'Feel' is subjective and does not fit academic writing. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
+'Show' presenta evidencia visible; 'prove' es demasiado fuerte para datos que podrian tener otra explicacion.
 
-## Question 17 [D9-D10]
+---
+
+## Question 15 [D5-D6]
+**ID:** SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v15
+**Bloom:** Evaluate
+**EJE:** Pragmatic Competence
+**Expected_Success:** 0.80
+**Contexto:** Deteccion de errores en la tesis, San Salvador.
+
+### Enunciado
+Identify the error in this thesis: 'Recycling should definitely be good for everyone everywhere.'
+
+### Opciones
+- [ ] A) The thesis is too short to be valid.
+  <!-- feedback: Length does not determine the validity of a thesis. -->
+- [ ] B) It should end with a question mark.
+  <!-- feedback: A thesis is a statement, not a question. -->
+- [x] C) The absolutes make the claim impossible to argue precisely.
+  <!-- feedback: 'Definitely', 'good' and 'everyone' remove any space for qualification. -->
+- [ ] D) It needs a quotation in the middle.
+  <!-- feedback: Quotations belong to the body of the essay. -->
+
+### Explicacion Pedagogica
+La tesis es demasiado absoluta y general: 'definitely', 'good' y 'everyone' impiden argumentar con precision.
+
+---
+
+## Question 16 [D5-D6]
+**ID:** SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v16
+**Bloom:** Analyze
+**EJE:** Pragmatic Competence
+**Expected_Success:** 0.80
+**Contexto:** Refutacion de argumentos, San Miguel.
+
+### Enunciado
+Choose the best way to refute an opponent's argument.
+
+### Opciones
+- [ ] A) Repeat the opponent's words louder.
+  <!-- feedback: Volume does not refute an argument logically. -->
+- [ ] B) Change the subject quickly.
+  <!-- feedback: Avoiding the issue leaves the objection unanswered. -->
+- [ ] C) Call the author a poor writer.
+  <!-- feedback: Personal attacks are a fallacy, not an argument. -->
+- [x] D) Point out that its evidence does not support its conclusion.
+  <!-- feedback: A refutation attacks the link between evidence and claim. -->
+
+### Explicacion Pedagogica
+Una refutacion solida se apoya en la logica del argumento contrario: se muestra que la evidencia presentada no sostiene la conclusion que el oponente extrae, sin recurrir a insultos ni a cambios de tema.
+
+---
+
+## Question 17 [D3-D4]
 **ID:** SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v17
-**Bloom:** Understand
-**EJE:** writing essays
+**Bloom:** Remember
+**EJE:** Pragmatic Competence
 **Expected_Success:** 0.80
-**Contexto:** English class in Santa Ana, SV.
+**Contexto:** Estructura del ensayo de cinco parrafos, San Salvador.
 
 ### Enunciado
-What does 'benevolent' mean?
+Which paragraph usually contains the main argument in a five-paragraph essay?
 
 ### Opciones
-- [x] C) Kind and generous
-  <!-- feedback: Correct! -->
-- [ ] A) Mean and cruel
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] B) Quick and fast
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: Incorrect. Review the concept. -->
+- [x] A) The second paragraph.
+  <!-- feedback: The body paragraph carries the thesis and its supporting evidence. -->
+- [ ] B) The first paragraph.
+  <!-- feedback: The first paragraph is the introduction. -->
+- [ ] C) The last paragraph.
+  <!-- feedback: The last paragraph is the conclusion. -->
+- [ ] D) Any paragraph at random.
+  <!-- feedback: Structure follows a deliberate order, not randomness. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
+En el esquema clasico, el segundo parrafo es el cuerpo donde se desarrolla la tesis con evidencias.
 
-## Question 18 [D9-D10]
+---
+
+## Question 18 [D5-D6]
 **ID:** SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**EJE:** writing essays
-**Expected_Success:** 0.70
-**Contexto:** English class in Mejicanos, SV.
+**EJE:** Pragmatic Competence
+**Expected_Success:** 0.80
+**Contexto:** Cita academica, San Miguel.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+What should you avoid when quoting a source in an academic essay?
 
 ### Opciones
-- [x] D) Bees are important for pollination and honey
-  <!-- feedback: Correct! -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] B) Honey is the only product bees make
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) Flowers don't need bees
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] A) Quoting a sentence of fewer than eight words.
+  <!-- feedback: Short quotations are acceptable when they are attributed. -->
+- [ ] B) Using a quote to support your own argument.
+  <!-- feedback: That is a legitimate and common use of evidence. -->
+- [x] C) Quoting without naming the author or the year.
+  <!-- feedback: An unattributed quote cannot be verified by the reader. -->
+- [ ] D) Introducing the quote with a colon.
+  <!-- feedback: A colon is the standard way to introduce a quotation. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
+Una cita sin autor ni ano es una cita no verificable; ademas debe integrarse en la propia redaccion.
 
-## Question 19 [D9-D10]
+---
+
+## Question 19 [D3-D4]
 **ID:** SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v19
-**Bloom:** Remember
-**EJE:** writing essays
-**Expected_Success:** 0.85
-**Contexto:** English class in San Salvador, SV.
+**Bloom:** Apply
+**EJE:** Pragmatic Competence
+**Expected_Success:** 0.80
+**Contexto:** Titulo del ensayo, San Salvador.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+Choose the best title for an essay about the benefits of public transport.
 
 ### Opciones
-- [x] B) went
-  <!-- feedback: Correct! -->
-- [ ] A) goed
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) gone
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] D) going
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] A) Essay About Transport
+  <!-- feedback: It is too vague to inform the reader of the content. -->
+- [x] B) Why Buses Beat Cars in City Streets
+  <!-- feedback: It names the topic and signals a comparative argument. -->
+- [ ] C) The Second Essay of the Year
+  <!-- feedback: It refers to the assignment, not to the content. -->
+- [ ] D) Things I Like
+  <!-- feedback: It does not identify the subject matter at all. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
+Un buen titulo anuncia el tema y el enfoque del texto de forma breve y precisa.
 
-## Question 20 [D9-D10]
+---
+
+## Question 20 [D5-D6]
 **ID:** SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v20
-**Bloom:** Remember
-**EJE:** writing essays
-**Expected_Success:** 0.85
-**Contexto:** English class in San Salvador, SV.
+**Bloom:** Evaluate
+**EJE:** Pragmatic Competence
+**Expected_Success:** 0.80
+**Contexto:** Expresion de opiniones, San Salvador.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+Which sentence expresses an opinion clearly and appropriately for an argumentative essay?
 
 ### Opciones
-- [x] D) She goes to school every day.
-  <!-- feedback: Correct! -->
-- [ ] A) She go to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] B) She going to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
-- [ ] C) She gone to school every day.
-  <!-- feedback: Incorrect. Review the concept. -->
+- [ ] A) Later start times are obviously the truth.
+  <!-- feedback: 'Obviously' asserts the claim as fact and gives no reason. -->
+- [ ] B) Everyone knows that teenagers prefer late classes.
+  <!-- feedback: 'Everyone knows' is an unsupported generalisation. -->
+- [ ] C) Later start times reduce stress.
+  <!-- feedback: Stated alone, it reads as a fact rather than an argued opinion. -->
+- [x] D) In my view, later start times would reduce stress for teenagers.
+  <!-- feedback: It marks the position as an opinion and gives a reason. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
+Una opinion argumentative se enuncia con 'In my view' y se apoya en una razon, no como un hecho aislado.
+
+---

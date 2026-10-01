@@ -34,15 +34,14 @@ creador: "Jules-Agent"
 Complete the sentence: "I ___ my grandmother. We visit her every Sunday."
 
 ### Opciones
-### Opciones
 - [ ] A) dislikes
-  <!-- feedback: dislikes expresa rechazo y la accion de visitarla cada domingo indica un afecto positivo. -->
+  <!-- feedback: dislikes expresses rejection, and the action of visiting her every Sunday shows positive affection. -->
 - [ ] B) am not liking
-  <!-- feedback: am not liking no es una forma correcta; el presente simple con negacion es do not like o dont like. -->
+  <!-- feedback: am not liking is not a correct form; the negative present simple is do not like or don't like. -->
 - [x] D) like
-  <!-- feedback: la accion habitual de visitarla los domingos indica que la preferencia es positiva: I like my grandmother. -->
+  <!-- feedback: The habitual action of visiting her on Sundays shows that the preference is positive: I like my grandmother. -->
 - [ ] C) am liking
-  <!-- feedback: am liking sugiere una preferencia temporal y no es la forma estandar para expresar que algo te gusta en general. -->
+  <!-- feedback: Am liking suggests a temporary preference and is not the standard way to say that you like something in general. -->
 
 ### Explicacion Pedagogica
 Para hablar de gustos el ingles usa el presente simple con el verbo to like, tanto para decir I like como para no me gusta, que es I do not like. El indicio de tiempo habitual del enunciado descarta las formas progresivas, que describen una situacion temporal y no una preferencia permanente.
@@ -58,15 +57,14 @@ Para hablar de gustos el ingles usa el presente simple con el verbo to like, tan
 Read: "My brother likes soccer but he doesn't like swimming." What does the text tell us?
 
 ### Opciones
-### Opciones
 - [x] D) He likes one sport and dislikes another
-  <!-- feedback: el texto dice que le gusta el futbol y que no le gusta la natacion, exactamente eso. -->
+  <!-- feedback: The text says he likes football and that he does not like swimming, which is exactly that. -->
 - [ ] A) He likes both sports
-  <!-- feedback: si le gustaran ambos, el texto no tendria la negacion doesn't like swimming. -->
+  <!-- feedback: If he liked both, the text would not have the negation doesn't like swimming. -->
 - [ ] B) He dislikes both sports
-  <!-- feedback: la primera parte dice claramente que le gusta el futbol. -->
+  <!-- feedback: The first part clearly says he likes football. -->
 - [ ] C) He likes swimming only
-  <!-- feedback: es la negacion del texto: el texto dice justamente que no le gusta nadar. -->
+  <!-- feedback: It is the opposite of the text: the text says precisely that he does not like swimming. -->
 
 ### Explicacion Pedagogica
 El conector but opone dos ideas dentro de la misma oracion. Reconocerlo permite entender que el texto comunica una preferencia y una no preferencia a la vez, y no una idea unica que se pueda resumir sin relacion.
@@ -82,15 +80,14 @@ El conector but opone dos ideas dentro de la misma oracion. Reconocerlo permite 
 Tom does not like carrots. Which sentence says the same thing?
 
 ### Opciones
-### Opciones
 - [ ] A) Tom likes carrots a lot.
-  <!-- feedback: esa frase afirma lo contrario de lo que dice el enunciado. -->
+  <!-- feedback: That sentence states the opposite of what the prompt says. -->
 - [x] C) Tom doesn't like carrots.
-  <!-- feedback: no le gustan las zanahorias es Tom doesn't like carrots. -->
+  <!-- feedback: Not liking carrots is Tom doesn't like carrots. -->
 - [ ] B) Tom likes carrots and vegetables.
-  <!-- feedback: esa frase expresa una pasion y contradice la informacion original. -->
+  <!-- feedback: That sentence expresses a passion and contradicts the original information. -->
 - [ ] D) Tom doesn't eat vegetables at all.
-  <!-- feedback: el enunciado se refiere solo a las zanahorias y ampliar el alcance a todas las verduras es incorreto. -->
+  <!-- feedback: The prompt refers only to carrots, and widening the scope to all vegetables is incorrect. -->
 
 ### Explicacion Pedagogica
 Transformar una oracion negativa exige mantener el alcance exacto de la negacion. Decir que no le gustan las zanahorias no autoriza a concluir que no come ninguna verdura, y esa ampliacion indebida del alcance es el error tipico de comprension en grado tercero.
@@ -103,18 +100,17 @@ Transformar una oracion negativa exige mantener el alcance exacto de la negacion
 **Contexto:** Dialogo entre dos estudiantes sobre el tiempo libre del fin de semana.
 
 ### Enunciado
-Which sentence is correct?
+Which sentence adds the -s correctly in the present simple with the subject 'we'?
 
 ### Opciones
-### Opciones
 - [ ] B) I likes reading books.
-  <!-- feedback: con el sujeto I el verbo lleva -s en el presente simple, y por eso no puede ser likes. -->
+  <!-- feedback: With the subject I the verb takes -s in the present simple, so it cannot be likes. -->
 - [ ] C) She don't like apples.
-  <!-- feedback: con el sujeto she el verbo debe ser doesnt, y la forma dont corresponde a I o you. -->
+  <!-- feedback: With the subject she the verb must be doesn't, and the form don't goes with I or you. -->
 - [x] A) We like drawing.
-  <!-- feedback: con el sujeto we el verbo aparece en su forma base, sin -s. -->
+  <!-- feedback: With the subject we the verb appears in its base form, without -s. -->
 - [ ] D) They doesn't like soccer.
-  <!-- feedback: con el sujeto they el verbo de tercera persona es dont, y doesnt corresponde a he o she. -->
+  <!-- feedback: With the subject they the third person verb is don't, and doesn't goes with he or she. -->
 
 ### Explicacion Pedagogica
 La terminacion -s se anade solo en la tercera persona del singular: he, she y it. Los pronombres I, you, we y they usan siempre la forma base del verbo, y esa es la regla que resuelven las tres opciones incorrectas de este ejercicio.
@@ -130,15 +126,14 @@ La terminacion -s se anade solo en la tercera persona del singular: he, she y it
 Which food does the child like according to the sentence? "I like rice and chicken for lunch."
 
 ### Opciones
-### Opciones
 - [ ] B) Fish
-  <!-- feedback: el pescado no aparece en la oracion, que solo nombra arroz y pollo. -->
+  <!-- feedback: Fish does not appear in the sentence, which names only rice and chicken. -->
 - [ ] C) Soup
-  <!-- feedback: la sopa tampoco se menciona en la enumeracion del enunciado. -->
+  <!-- feedback: Soup is not mentioned in the list in the prompt either. -->
 - [ ] D) Beans
-  <!-- feedback: los frijoles no forman parte de la lista de alimentos del enunciado. -->
+  <!-- feedback: Beans are not part of the list of foods in the prompt. -->
 - [x] A) Chicken
-  <!-- feedback: el pollo es uno de los dos alimentos enumerados despues de and. -->
+  <!-- feedback: The chicken is one of the two foods listed after and. -->
 
 ### Explicacion Pedagogica
 Localizar un elemento dentro de una enumeracion de dos elementos es una microhabilidad de lectura. La conjuncion and separa el arroz del pollo, y solo uno de los dos aparece entre las opciones, lo que hace la pregunta un buen control de comprension literal.
@@ -154,15 +149,14 @@ Localizar un elemento dentro de una enumeracion de dos elementos es una microhab
 Complete the sentence: "I don't ___ coffee. I drink water."
 
 ### Opciones
-### Opciones
 - [ ] A) likes
-  <!-- feedback: likes concuerda con un sujeto en tercera persona, y aqui el sujeto es I. -->
+  <!-- feedback: likes agrees with a third person subject, and here the subject is I. -->
 - [x] B) like
-  <!-- feedback: despues de don't el verbo aparece en su forma base, sin -s. -->
+  <!-- feedback: After don't the verb appears in its base form, without -s. -->
 - [ ] C) liking
-  <!-- feedback: liking es la forma en -ing y no puede seguir a un auxiliar de negacion como don't. -->
+  <!-- feedback: liking is the -ing form and cannot follow a negative auxiliary such as don't. -->
 - [ ] D) am like
-  <!-- feedback: am like no es una estructura del ingles; la negacion del presente simple es do not más el verbo base. -->
+  <!-- feedback: am like is not an English structure; the negative present simple is do not plus the base verb. -->
 
 ### Explicacion Pedagogica
 La negacion con do not o dont siempre va seguida de la forma base del verbo principal. Esa combinacion es la que explica por que en I don't like la palabra like aparece sin terminacion, un detalle que los estudiantes de tercer grado suelen necesitar practicar de forma isolated.
@@ -178,15 +172,14 @@ La negacion con do not o dont siempre va seguida de la forma base del verbo prin
 Read: "My mother loves fruit, but my father prefers vegetables." Who likes vegetables?
 
 ### Opciones
-### Opciones
 - [ ] A) The mother
-  <!-- feedback: la madre ama la fruta segun el texto, y no se menciona que prefiera las verduras. -->
+  <!-- feedback: The mother loves fruit according to the text, and it does not say she prefers vegetables. -->
 - [x] B) The father
-  <!-- feedback: el texto dice literalmente que el padre prefiere las verduras. -->
+  <!-- feedback: The text says literally that the father prefers vegetables. -->
 - [ ] C) Both parents
-  <!-- feedback: solo el padre las prefiere y la madre es la que ama la fruta. -->
+  <!-- feedback: Only the father prefers them and the mother is the one who loves fruit. -->
 - [ ] D) Nobody
-  <!-- feedback: el texto identifica claramente al padre como quien prefiere las verduras. -->
+  <!-- feedback: The text clearly identifies the father as the one who prefers vegetables. -->
 
 ### Explicacion Pedagogica
 Los verbos to love y to prefer no significan exactamente lo mismo: love expresa un afecto intenso y prefer indica una eleccion entre alternativas. El ejercicio comprueba que el estudiante distinga esos dos niveles de intensidad al leer, no solo que identifique al sujeto correcto.
@@ -202,15 +195,14 @@ Los verbos to love y to prefer no significan exactamente lo mismo: love expresa 
 Which sentence is best for answering the question "Do you like ice cream?"
 
 ### Opciones
-### Opciones
 - [ ] A) No, I don't like ice cream.
-  <!-- feedback: esa respuesta da una preferencia negativa y solo seria correcta si al estudiante no le gustara. -->
+  <!-- feedback: That answer gives a negative preference and would only be correct if the student did not like it. -->
 - [ ] B) Because it is cold and sweet.
-  <!-- feedback: la palabra because responde a la pregunta why, y no a la pregunta si te gusta. -->
+  <!-- feedback: The word because answers the question why, and not the question of whether you like it. -->
 - [x] C) Yes, I like ice cream very much.
-  <!-- feedback: la estructura Yes, I like responde con si o no y acompania la respuesta con el grado de la preferencia. -->
+  <!-- feedback: The structure Yes, I like answers with yes or no and accompanies the answer with the degree of the preference. -->
 - [ ] D) Ice cream is in the kitchen.
-  <!-- feedback: esa oracion informa donde esta el alimento y no expresa ninguna preferencia. -->
+  <!-- feedback: That sentence says where the food is and does not express any preference. -->
 
 ### Explicacion Pedagogica
 Las preguntas con auxiliar do en presente simple admiten respuestas cortas que empiezan por Yes o No. Reconocer que la palabra clave es do evita confundirla con las preguntas de why, where o what, donde la respuesta debe aportar informacion distinta.

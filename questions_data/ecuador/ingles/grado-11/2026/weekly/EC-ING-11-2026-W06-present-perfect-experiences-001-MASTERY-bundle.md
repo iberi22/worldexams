@@ -17,466 +17,507 @@ tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
 ---
-# MASTERY Bundle - Ingles: Present Perfect Experiences (W06)
-**20 preguntas | Ingles | BGU - Ministerio de Educacion**
+# MASTERY Bundle - Ingles: present-perfect-experiences (W06)
+**20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
-## Question 1 [D3]
-**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-v1
+
+## Question 1 [D3-D4]
+**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-bundle-v1
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Practica de presente perfecto, Quito, grado 11.
+
+### Enunciado
+Choose the sentence that correctly uses the present perfect for experience.
+
+### Opciones
+- [ ] A) Did you ever eat a cuy in Ecuador?
+  <!-- feedback: 'Did' plus base verb refers to a finished past event. -->
+- [ ] B) Are you ever eating a cuy in Ecuador?
+  <!-- feedback: The present continuous is not used for life experience. -->
+- [x] C) Have you ever eaten a cuy in Ecuador?
+  <!-- feedback: Auxiliary 'have' plus participle 'eaten' is the structure for life experience. -->
+- [ ] D) Do you ever eat a cuy in Ecuador?
+  <!-- feedback: That form speaks about a habit, not about past experience. -->
+
+### Explicacion Pedagogica
+'Have you ever...' expresa una experiencia de vida sin tiempo definido, que corresponde al presente perfecto.
+
+---
+
+## Question 2 [D3-D4]
+**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-bundle-v2
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Experiencias de vida, Guayaquil.
+
+### Enunciado
+Complete the sentence: 'She ____ (never / be) to the Galapagos Islands.'
+
+### Opciones
+- [x] A) has never been
+  <!-- feedback: 'Has never been' is the correct structure for a life experience with 'never'. -->
+- [ ] B) has never be
+  <!-- feedback: The second verb must be the past participle 'been'. -->
+- [ ] C) is never being
+  <!-- feedback: The present continuous cannot express a life experience. -->
+- [ ] D) was never
+  <!-- feedback: The simple past would imply a specific past time. -->
+
+### Explicacion Pedagogica
+La experiencia de vida con 'never' se forma con 'has never been', donde 'been' es el participio de 'be'.
+
+---
+
+## Question 3 [D5-D6]
+**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-bundle-v3
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Diferencia entre 'been' y 'gone', Cuenca.
+
+### Enunciado
+What is the difference between 'I have been to Paris' and 'I have gone to Paris'?
+
+### Opciones
+- [ ] A) Both mean the person is currently in Paris
+  <!-- feedback: Only 'have gone' places the person in Paris at the time of speaking. -->
+- [ ] B) 'Have been' refers to the future and 'have gone' to the past
+  <!-- feedback: Both forms refer to past actions connected with the present. -->
+- [ ] C) 'Have gone' is the simple past of 'go'
+  <!-- feedback: 'Have gone' is a present perfect form, not a simple past. -->
+- [x] D) 'Have been' is experience; 'have gone' means the person is there now
+  <!-- feedback: The difference lies in whether the person returned. -->
+
+### Explicacion Pedagogica
+'Have been' indica experiencia sin decir si se sigue alli; 'have gone' indica que la persona esta alli ahora.
+
+---
+
+## Question 4 [D3-D4]
+**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-bundle-v4
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Interrogacion en presente perfecto, Quito.
+
+### Enunciado
+Choose the correct question with the present perfect.
+
+### Opciones
+- [ ] A) Did you finish the project yet?
+  <!-- feedback: 'Did' requires the base form 'finish' and a past time. -->
+- [x] B) Have you finished the project yet?
+  <!-- feedback: Auxiliary before the subject and participle 'finished' with 'yet'. -->
+- [ ] C) Are you finish the project yet?
+  <!-- feedback: 'Are' cannot be combined with the participle 'finished'. -->
+- [ ] D) Do you finished the project yet?
+  <!-- feedback: 'Do' plus participle is not a valid structure. -->
+
+### Explicacion Pedagogica
+La pregunta conserva el auxiliar 'have' delante del sujeto y el participio despues.
+
+---
+
+## Question 5 [D3-D4]
+**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-bundle-v5
+**Bloom:** Understand
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Cantidad y frecuencia en presente perfecto, Guayaquil.
+
+### Enunciado
+Look at the sentence: 'I have seen that film three times.' What does 'three times' tell us?
+
+### Opciones
+- [x] A) How many times the action has occurred
+  <!-- feedback: Counting experiences is a standard use of the present perfect. -->
+- [ ] B) How long the action lasted
+  <!-- feedback: Duration would be expressed with 'for' plus a period. -->
+- [ ] C) When the action will happen
+  <!-- feedback: The present perfect does not refer to the future. -->
+- [ ] D) That the action is happening now
+  <!-- feedback: The counting refers to repeated past occurrences. -->
+
+### Explicacion Pedagogica
+'Three times' cuantifica cuantas veces se ha producido la accion, una funcion tipica del presente perfecto.
+
+---
+
+## Question 6 [D5-D6]
+**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-bundle-v6
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Marcadores temporales, Cuenca.
+
+### Enunciado
+Which time expression is NOT normally used with the present perfect?
+
+### Opciones
+- [ ] A) ever
+  <!-- feedback: 'Ever' is a present perfect marker used in questions about experience. -->
+- [x] B) yesterday
+  <!-- feedback: A finished past moment requires the simple past, not the present perfect. -->
+- [ ] C) just
+  <!-- feedback: 'Just' is a present perfect marker meaning very recently. -->
+- [ ] D) already
+  <!-- feedback: 'Already' is a present perfect marker meaning sooner than expected. -->
+
+### Explicacion Pedagogica
+'Yesterday' fija un momento del pasado, por lo que es incompatible con el presente perfecto.
+
+---
+
+## Question 7 [D5-D6]
+**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-bundle-v7
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Dialogo sobre experiencias, Quito.
+
+### Enunciado
+Complete the dialogue: 'A: Have you ever been to the Galapagos? B: Yes, I ____ there in 2019.'
+
+### Opciones
+- [x] A) went
+  <!-- feedback: 'Went' is the simple past required by the closed past time 'in 2019'. -->
+- [ ] B) have gone
+  <!-- feedback: The present perfect is incompatible with a finished past year. -->
+- [ ] C) am going
+  <!-- feedback: The present continuous places the action now, but the text says 2019. -->
+- [ ] D) had gone
+  <!-- feedback: The past perfect would need another past reference point, which is absent. -->
+
+### Explicacion Pedagogica
+Como 'in 2019' es un tiempo pasado definido, la segunda oracion va en pasado simple: 'went'.
+
+---
+
+## Question 8 [D5-D6]
+**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-bundle-v8
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Uso de 'since', Guayaquil.
+
+### Enunciado
+Which sentence is correct with 'since'?
+
+### Opciones
+- [ ] A) I live in Quito since I was born.
+  <!-- feedback: The simple present is not compatible with 'since' plus a past reference. -->
+- [ ] B) I am living in Quito since I was born.
+  <!-- feedback: The present continuous cannot be combined with 'since' in this usage. -->
+- [ ] C) I live in Quito since my birth.
+  <!-- feedback: 'Since' does not take 'my birth' in that construction. -->
+- [x] D) I have lived in Quito since I was born.
+  <!-- feedback: 'Have lived since' states a situation that began in the past and continues. -->
+
+### Explicacion Pedagogica
+'Since' introduce un punto de partida en el tiempo y por eso se combina con presente perfecto o pasado simple.
+
+---
+
+## Question 9 [D5-D6]
+**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-bundle-v9
+**Bloom:** Evaluate
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Consolidacion del presente perfecto, Guayaquil.
+
+### Enunciado
+Which sentence is grammatically correct?
+
+### Opciones
+- [ ] A) We have know each other since primary school.
+  <!-- feedback: After 'have' the participle 'known' is required. -->
+- [ ] B) We are know each other since primary school.
+  <!-- feedback: 'Are' plus participle is not a valid verb group. -->
+- [ ] C) We have known each other from last year ago
+  <!-- feedback: 'Since' does not combine with 'ago' in the same expression. -->
+- [x] D) We have known each other since primary school.
+  <!-- feedback: 'Have known' plus 'since' expresses a situation continuing from the past. -->
+
+### Explicacion Pedagogica
+Solo la opcion que combina 'have' con un participio es una estructura de presente perfecto valida.
+
+---
+
+## Question 10 [D3-D4]
+**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-bundle-v10
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Uso de 'yet', Quito.
+
+### Enunciado
+What does the word 'yet' express in 'She has not arrived yet'?
+
+### Opciones
+- [ ] A) The action will never happen
+  <!-- feedback: 'Yet' does not exclude a future occurrence. -->
+- [ ] B) The action happened in the past
+  <!-- feedback: 'Not ... yet' negates a completed past occurrence. -->
+- [x] C) The action has not happened up to now
+  <!-- feedback: 'Yet' places the non-occurrence at the present moment. -->
+- [ ] D) The action happens every day
+  <!-- feedback: 'Yet' has no relation to daily frequency. -->
+
+### Explicacion Pedagogica
+'Yet' indica que la accion esperada no se ha producido hasta el momento actual. Esta estructura se repite con otros verbos del mismo grupo.
+
+---
+
+## Question 11 [D3-D4]
+**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-bundle-v11
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** 'For' con presente perfecto, Cuenca.
+
+### Enunciado
+Choose the correct form: 'They ____ in this city for ten years.'
+
+### Opciones
+- [ ] A) lived
+  <!-- feedback: The simple past would not indicate that the situation still continues. -->
+- [x] B) have lived
+  <!-- feedback: 'Have lived' plus 'for' expresses a situation that began in the past and continues. -->
+- [ ] C) are living
+  <!-- feedback: The present continuous is possible but 'for ten years' fits the present perfect better. -->
+- [ ] D) had lived
+  <!-- feedback: The past perfect would place the situation before another past reference. -->
+
+### Explicacion Pedagogica
+La duracion con 'for' y la continuacion de la situacion en el presente exigen presente perfecto.
+
+---
+
+## Question 12 [D3-D4]
+**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-bundle-v12
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Uso de 'just' en presente perfecto, Guayaquil.
+
+### Enunciado
+Which sentence correctly uses 'just'?
+
+### Opciones
+- [x] A) The results have just arrived.
+  <!-- feedback: 'Have just arrived' marks a very recent completed action. -->
+- [ ] B) The results have arrived just.
+  <!-- feedback: The adverb must sit between the auxiliary and the participle. -->
+- [ ] C) The results just have arrived.
+  <!-- feedback: The correct order is auxiliary plus adverb plus participle. -->
+- [ ] D) The results have just arrive.
+  <!-- feedback: The verb must be the participle 'arrived'. -->
+
+### Explicacion Pedagogica
+'Just' se coloca entre el auxiliar y el participio y expresa una accion muy reciente.
+
+---
+
+## Question 13 [D5-D6]
+**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-bundle-v13
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Analisis de la funcion del tiempo, Quito.
+
+### Enunciado
+What is the function of the present perfect in the sentence: 'I have lost my keys, so I cannot enter'?
+
+### Opciones
+- [ ] A) It describes a daily routine
+  <!-- feedback: A routine belongs to the simple present. -->
+- [ ] B) It places the action in the distant past
+  <!-- feedback: A distant past event would use the simple past with a date. -->
+- [ ] C) It expresses a future plan
+  <!-- feedback: No future element appears in the sentence. -->
+- [x] D) It links a past action to its present result
+  <!-- feedback: That is the core meaning of the present perfect. -->
+
+### Explicacion Pedagogica
+El presente perfecto conecta una accion pasada con su consecuencia inmediata en el presente.
+
+---
+
+## Question 14 [D3-D4]
+**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-bundle-v14
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Negacion en presente perfecto, Cuenca.
+
+### Enunciado
+Choose the correct negative form of the present perfect.
+
+### Opciones
+- [ ] A) I not have seen that documentary.
+  <!-- feedback: The auxiliary must precede the adverb 'not'. -->
+- [ ] B) I have not saw that documentary.
+  <!-- feedback: After 'have not' the participle 'seen' is required. -->
+- [x] C) I have not seen that documentary.
+  <!-- feedback: 'Have not seen' is the correct negative structure. -->
+- [ ] D) I did not saw that documentary.
+  <!-- feedback: That combines 'did' with an incorrect past form. -->
+
+### Explicacion Pedagogica
+La negacion se forma con 'have/has not' seguido del participio. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
+---
+
+## Question 15 [D5-D6]
+**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-bundle-v15
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Deteccion de errores, Guayaquil.
+
+### Enunciado
+Look at the sentence: 'She has went to the coast last weekend.' What is the error?
+
+### Opciones
+- [ ] A) Nothing is wrong with the sentence
+  <!-- feedback: Both the participle and the time expression are incorrect here. -->
+- [ ] B) 'Coast' must be capitalized
+  <!-- feedback: A common noun written with 'the' does not need a capital letter. -->
+- [ ] C) 'She' must be 'He'
+  <!-- feedback: The pronoun agrees with the rest of the sentence and poses no problem. -->
+- [x] D) 'Went' is not a participle, and 'last weekend' requires the past simple
+  <!-- feedback: The correct form is 'She went to the coast last weekend'. -->
+
+### Explicacion Pedagogica
+Hay dos errores: 'went' no es participo de 'go', y 'last weekend' es un tiempo pasado definido.
+
+---
+
+## Question 16 [D3-D4]
+**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-bundle-v16
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Participios irregulares, Quito.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which verb forms its participle by changing 'e' to 'e'? Choose the correct irregular participle.
 
 ### Opciones
-- [x] C) accommodation
-  <!-- feedback: Correct! 'accommodation' matches the definition. -->
-- [ ] A) transportation
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) entertainment
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) currency
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) work - worked
+  <!-- feedback: That is a regular verb with the -ed participle. -->
+- [x] B) write - written
+  <!-- feedback: The irregular participle 'written' drops the base form's final structure. -->
+- [ ] C) open - opened
+  <!-- feedback: That is a regular verb with the -ed participle. -->
+- [ ] D) walk - walked
+  <!-- feedback: That is a regular verb with the -ed participle. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+'Write' forma su participio como 'written', mientras los verbos regulares lo forman con -ed.
+
 ---
-## Question 2 [D4]
-**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
 
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! 'itinerary' matches the definition. -->
-- [ ] A) baggage
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) destination
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) passport
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
-**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-v3
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
-
-### Opciones
-- [x] D) destination
-  <!-- feedback: Correct! 'destination' matches the definition. -->
-- [ ] A) departure
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) arrival
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) journey
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
-## Question 4 [D4]
-**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-v4
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
-
-### Opciones
-- [x] A) luggage
-  <!-- feedback: Correct! 'luggage' matches the definition. -->
-- [ ] B) ticket
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) flight
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) reservation
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
-## Question 5 [D5]
-**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
-
-### Opciones
-- [x] A) passenger
-  <!-- feedback: Correct! 'passenger' matches the definition. -->
-- [ ] B) pedestrian
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) commuter
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) tourist
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
-## Question 6 [D6]
-**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
-
-### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'customs' matches the definition. -->
-- [ ] B) security
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) terminal
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) gate
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
-## Question 7 [D5]
-**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-v7
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
-
-### Opciones
-- [x] A) boarding pass
-  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
-- [ ] B) visa
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) receipt
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) brochure
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
-## Question 8 [D6]
-**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-v8
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
-
-### Opciones
-- [x] A) sightseeing
-  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
-- [ ] B) shopping
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) hiking
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) camping
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
----
-## Question 9 [D5]
-**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
-
-### Opciones
-- [x] A) souvenir
-  <!-- feedback: Correct! 'souvenir' matches the definition. -->
-- [ ] B) gift
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) award
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) prize
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
----
-## Question 10 [D6]
-**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
-
-### Opciones
-- [x] B) delay
-  <!-- feedback: Correct! 'delay' matches the definition. -->
-- [ ] A) cancellation
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) departure
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) arrival
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
-## Question 11 [D7]
-**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
-
-### Opciones
-- [x] B) check-in
-  <!-- feedback: Correct! 'check-in' matches the definition. -->
-- [ ] A) check-out
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) booking
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) reservation
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
-**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
-
-### Opciones
-- [x] B) layover
-  <!-- feedback: Correct! 'layover' matches the definition. -->
-- [ ] A) stopover
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) transfer
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) transit
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
-## Question 13 [D7]
-**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-v13
+## Question 17 [D5-D6]
+**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-bundle-v17
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Pasado simple y presente perfecto juntos, Cuenca.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Complete the text: 'When I arrived, the film ____ already ____.'
 
 ### Opciones
-- [x] C) currency
-  <!-- feedback: Correct! 'currency' matches the definition. -->
-- [ ] A) coin
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) banknote
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) cash
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) has already start
+  <!-- feedback: The auxiliary would have to be 'had' with the participle 'started'. -->
+- [ ] B) already starts
+  <!-- feedback: The simple present would not place the action before the arrival. -->
+- [x] C) had already started
+  <!-- feedback: The past perfect places the start before the arrival mentioned. -->
+- [ ] D) was already starting
+  <!-- feedback: The past continuous would not express completion before the arrival. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+Un pasado simple y un presente perfecto pueden convivir: el segundo situa la accion antes del pasado simple.
+
 ---
-## Question 14 [D8]
-**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-v14
+
+## Question 18 [D5-D6]
+**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Inferencia a partir del presente perfecto, Guayaquil.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Read: 'He has worked in three different countries, and he has never regretted the choice.' What can be inferred?
 
 ### Opciones
-- [x] C) guidebook
-  <!-- feedback: Correct! 'guidebook' matches the definition. -->
-- [ ] A) map
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) dictionary
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) encyclopedia
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) He will change his job next year
+  <!-- feedback: No future event is mentioned in the text. -->
+- [x] B) He values his decision up to this point
+  <!-- feedback: 'Has never regretted' covers the whole period up to now. -->
+- [ ] C) He was unhappy at the beginning
+  <!-- feedback: The text says he has never regretted it, which is the opposite. -->
+- [ ] D) He worked in those countries simultaneously
+  <!-- feedback: The text does not specify when each job took place. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+La segunda parte indica que no hubo arrepentimiento hasta el momento actual, lo cual es una experiencia acumulada.
+
 ---
-## Question 15 [D7]
-**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-v15
+
+## Question 19 [D3-D4]
+**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-bundle-v19
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Tipos de pregunta sobre experiencia, Quito.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Which question would you ask to find out about a person's experience?
 
 ### Opciones
-- [x] B) backpack
-  <!-- feedback: Correct! 'backpack' matches the definition. -->
-- [ ] A) suitcase
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) briefcase
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) handbag
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) Have you ever worked abroad?
+  <!-- feedback: 'Have you ever' is the standard form for asking about experience. -->
+- [ ] B) Did you work abroad yesterday?
+  <!-- feedback: That question asks about a specific past time, not experience. -->
+- [ ] C) Do you work abroad?
+  <!-- feedback: That asks about a current or habitual situation. -->
+- [ ] D) Will you work abroad?
+  <!-- feedback: That asks about the future. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Las preguntas de experiencia se forman con 'have' mas participio y un marcador como 'ever' o 'never'.
+
 ---
-## Question 16 [D8]
-**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-v16
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
 
-### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
-
-### Opciones
-- [x] C) overseas
-  <!-- feedback: Correct! 'overseas' matches the definition. -->
-- [ ] A) domestic
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) local
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) national
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
----
-## Question 17 [D9]
-**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-v17
+## Question 20 [D5-D6]
+**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Evaluacion de uso del presente perfecto, Cuenca.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Choose the best sentence to describe the situation.
 
 ### Opciones
-- [x] C) budget
-  <!-- feedback: Correct! 'budget' matches the definition. -->
-- [ ] A) expense
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) cost
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) price
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) I lived here since I was a child.
+  <!-- feedback: The simple past contradicts the ongoing meaning implied by 'since'. -->
+- [ ] B) I live here since I was a child.
+  <!-- feedback: The simple present is not compatible with 'since' plus a past reference. -->
+- [x] C) I have lived here since I was a child.
+  <!-- feedback: 'Have lived since' marks a situation that started in the past and continues. -->
+- [ ] D) I was living here since I was a child.
+  <!-- feedback: The past continuous does not express a situation that continues. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+El presente perfecto con 'since' describe una situacion que empezo en el pasado y sigue vigente.
+
 ---
-## Question 18 [D10]
-**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
-
-### Opciones
-- [x] A) insurance
-  <!-- feedback: Correct! 'insurance' matches the definition. -->
-- [ ] B) warranty
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) guarantee
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) policy
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
----
-## Question 19 [D9]
-**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
-
-### Opciones
-- [x] C) vaccination
-  <!-- feedback: Correct! 'vaccination' matches the definition. -->
-- [ ] A) medication
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) prescription
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) infection
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
----
-## Question 20 [D10]
-**ID:** EC-ING-11-2026-W06-present-perfect-experiences-001-MASTERY-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
-
-### Opciones
-- [x] B) jet lag
-  <!-- feedback: Correct! 'jet lag' matches the definition. -->
-- [ ] A) fatigue
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) exhaustion
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) insomnia
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.

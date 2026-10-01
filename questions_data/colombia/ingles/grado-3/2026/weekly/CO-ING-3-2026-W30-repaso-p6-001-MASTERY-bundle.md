@@ -34,15 +34,14 @@ creador: "Jules-Agent"
 Choose the correct word: "Last Saturday I ___ to the park with my father."
 
 ### Opciones
-### Opciones
 - [ ] A) go
-  <!-- feedback: go es la forma del presente; la palabra Last Saturday fija la accion en el pasado. -->
+  <!-- feedback: go is the present form; the words Last Saturday place the action in the past. -->
 - [x] D) went
-  <!-- feedback: went es el pasado simple irregular de go y el enunciado habla de una accion ya terminada. -->
+  <!-- feedback: went is the irregular past simple of go, and the sentence talks about an action that already happened. -->
 - [ ] B) am going
-  <!-- feedback: am going es el presente continuo y describe una accion en curso, no algo que ya ocurrio. -->
+  <!-- feedback: am going is the present continuous and describes an action in progress, not something that already happened. -->
 - [ ] C) will go
-  <!-- feedback: will go expresa un plan o una prediccion futura, y el enunciado ya situa la accion en el pasado. -->
+  <!-- feedback: will go expresses a plan or a future prediction, and the sentence already places the action in the past. -->
 
 ### Explicacion Pedagogica
 El indicio de tiempo es lo que decide el verbo, no el sentido de la oracion. Last Saturday, yesterday y last night obligan al pasado simple, y entre las formas del pasado el verbo to go es irregular, por eso se memoriza como went y no como goed.
@@ -58,15 +57,14 @@ El indicio de tiempo es lo que decide el verbo, no el sentido de la oracion. Las
 Read: "I eat an apple and a banana for snack every day." How many fruits does the child eat?
 
 ### Opciones
-### Opciones
 - [ ] A) One
-  <!-- feedback: one seria la respuesta si el texto mencionara un solo tipo de fruta. -->
+  <!-- feedback: One would be the answer if the text mentioned a single type of fruit. -->
 - [x] D) Two
-  <!-- feedback: el texto nombra dos frutas distintas, una manzana y un platano. -->
+  <!-- feedback: The text names two different fruits, an apple and a banana. -->
 - [ ] B) Three
-  <!-- feedback: tres exigiria un tercer alimento en la enumeracion, y el enunciado solo lista dos. -->
+  <!-- feedback: Three would require a third food in the list, and the sentence only lists two. -->
 - [ ] C) Four
-  <!-- feedback: cuatro exceede lo que el texto enumera, que se limita a dos frutas por colacion. -->
+  <!-- feedback: Four goes beyond what the text enumerates, which is limited to two fruits for the snack. -->
 
 ### Explicacion Pedagogica
 Contar elementos de una enumeracion escrita es una habilidad de comprension lectora basica y muy usada en las pruebas de grado tercero. La clave esta en identificar la conjunction and, que anuncia que la lista sigue y que hay un elemento mas.
@@ -82,15 +80,14 @@ Contar elementos de una enumeracion escrita es una habilidad de comprension lect
 It is afternoon now and the sun is still up. Choose the better question for your brother.
 
 ### Opciones
-### Opciones
 - [ ] A) What time do you go to bed?
-  <!-- feedback: esa pregunta se hace por la noche, al final del dia, no a la tarde con el sol aun arriba. -->
+  <!-- feedback: That question is asked at night, at the end of the day, and not in the afternoon with the sun still up. -->
 - [x] C) What time is it now?
-  <!-- feedback: What time is it now pregunta la hora actual, que es justo lo que el estudiante quiere saber a la tarde. -->
+  <!-- feedback: What time is it now asks for the current hour, which is exactly what the student wants to know in the afternoon. -->
 - [ ] B) When did you wake up?
-  <!-- feedback: esa pregunta se hace por la manana para saber la hora del despertar, y no al mediodia. -->
+  <!-- feedback: That question is asked in the morning to find out the time of waking up, and not at noon. -->
 - [ ] D) How long do you sleep?
-  <!-- feedback: esa pregunta pide una duracion de tiempo en horas, y no pide la hora en punto de este momento. -->
+  <!-- feedback: That question asks for a length of time in hours, and not for the time of day at this moment. -->
 
 ### Explicacion Pedagogica
 Repetir la palabra tiempo en ingles no significa que todas las preguntas sean equivalentes: What time is it pide la hora, When pregunta el momento y How long pide una duracion. Diferenciar esos tres usos evita que el estudiante responda con una informacion que no fue solicitada.
@@ -106,15 +103,14 @@ Repetir la palabra tiempo en ingles no significa que todas las preguntas sean eq
 Read: "My brother goes to school at seven and comes home at four." How many hours is he at school?
 
 ### Opciones
-### Opciones
 - [ ] B) Two hours
-  <!-- feedback: dos horas no corresponden a la diferencia entre las siete y las cuatro. -->
+  <!-- feedback: Two hours do not correspond to the difference between seven and four. -->
 - [x] A) Nine hours
-  <!-- feedback: de 7:00 a 16:00 hay nueve horas, que es lo que dura la jornada escolar del texto. -->
+  <!-- feedback: From 7:00 to 16:00 there are nine hours, which is how long the school day in the text lasts. -->
 - [ ] C) Twenty-four hours
-  <!-- feedback: veinticuatro horas es un dia completo y no el tiempo que el hermano pasa en la escuela. -->
+  <!-- feedback: Twenty-four hours is a full day and not the time the brother spends at school. -->
 - [ ] D) Eleven hours
-  <!-- feedback: once seria la cuenta desde medianoche hasta las once, que es otra forma de medir el mismo horario. -->
+  <!-- feedback: Eleven would be the count from midnight to eleven, which is another way of measuring the same schedule. -->
 
 ### Explicacion Pedagogica
 Resolver problemas de reloj convierte un texto en un calculo. La estrategia es restar la hora de llegada a la hora de salida, y en este caso da 16 - 7 = 9. La opcion de once horas es el error tipico cuando el estudiante cuenta el tiempo desde medianoche en lugar de calcular la duracion real.
@@ -130,15 +126,14 @@ Resolver problemas de reloj convierte un texto en un calculo. La estrategia es r
 Choose the correct preposition: "My English class starts ___ eight o'clock and ends ___ twelve."
 
 ### Opciones
-### Opciones
 - [x] A) at ... at
-  <!-- feedback: las horas en punto se preceden con at, tanto a las ocho como a las doce. -->
+  <!-- feedback: Exact hours are preceded by at, both at eight and at twelve. -->
 - [ ] B) in ... in
-  <!-- feedback: in se usa con expresiones mas amplias como in the morning, no con una hora exacta como las ocho. -->
+  <!-- feedback: in is used with broader expressions like in the morning, not with an exact hour like eight. -->
 - [ ] C) on ... on
-  <!-- feedback: on se usa con dias y fechas, como on Monday, y no con horas del reloj. -->
+  <!-- feedback: on is used with days and dates, like on Monday, and not with hours of the clock. -->
 - [ ] D) to ... to
-  <!-- feedback: to indica destino o intervalo entre dos puntos, y no introduce la hora de inicio de una clase. -->
+  <!-- feedback: to indicates destination or the interval between two points, and does not introduce the starting hour of a class. -->
 
 ### Explicacion Pedagogica
 La preposicion de tiempo depende de la granularidad del dato: at para horas exactas, in para periodos amplios como la manana o la tarde y on para dias y fechas. En el repaso del sexto periodo los estudiantes ya deben aplicar esa tabla a dos espacios en la misma oracion.
@@ -154,15 +149,14 @@ La preposicion de tiempo depende de la granularidad del dato: at para horas exac
 Which animal gives us milk?
 
 ### Opciones
-### Opciones
 - [ ] A) The hen
-  <!-- feedback: la gallina pone huevos y no produce leche. -->
+  <!-- feedback: The hen lays eggs and does not produce milk. -->
 - [x] B) The cow
-  <!-- feedback: la vaca es el animal dari que obtenemos la leche que consumimos. -->
+  <!-- feedback: The cow is the animal from which we get the milk we drink. -->
 - [ ] C) The horse
-  <!-- feedback: el caballo se usa para montar y para transporte, no para producir leche. -->
+  <!-- feedback: The horse is used for riding and for transport, not for producing milk. -->
 - [ ] D) The sheep
-  <!-- feedback: la oveja da lana y carne, y su leche no es el alimento diario del que habla el ejercicio. -->
+  <!-- feedback: The sheep gives wool and meat, and its milk is not the daily food the exercise talks about. -->
 
 ### Explicacion Pedagogica
 Asociar un animal con su producto es el contenido principal de esta unidad de repaso: la gallina da huevos, la oveja da lana y la vaca da leche. Este tipo de emparejamiento de vocabulario aparece con frecuencia en las pruebas de grado tercero porque comprueba comprension activa y no solo reconocimiento.
@@ -178,15 +172,14 @@ Asociar un animal con su producto es el contenido principal de esta unidad de re
 Look at the sentence: "___ you ever eaten sushi?" Which auxiliary makes the question correct?
 
 ### Opciones
-### Opciones
 - [ ] A) Are
-  <!-- feedback: are combina con un participio como eaten y se usa con el verbo to be, no con el verbo to have. -->
+  <!-- feedback: are combines with a participle like eaten and is used with the verb to be, not with the verb to have. -->
 - [x] B) Have
-  <!-- feedback: haveever forma el presente perfecto con el participio eaten, que es la estructura que pide el ejercicio. -->
+  <!-- feedback: haveever forms the present perfect with the participle eaten, which is the structure the exercise asks for. -->
 - [ ] C) Do
-  <!-- feedback: do sirve para el presente simple, como Do you like sushi, y no para un participio. -->
+  <!-- feedback: do is used for the present simple, like Do you like sushi, and not for a participle. -->
 - [ ] D) Did
-  <!-- feedback: did forma el pasado simple interrogativo y necesita el verbo base, no la forma eaten. -->
+  <!-- feedback: did forms the interrogative past simple and needs the base verb, not the form eaten. -->
 
 ### Explicacion Pedagogica
 La presencia de un participio como eaten revela que la oracion pide el presente perfecto. El auxiliar que acompaña al participio es have, y el orden correcto es have you ever eaten. Reconocer la forma del participio es la estrategia mas segura para escoger el auxiliar en preguntas de este tipo.
@@ -202,15 +195,14 @@ La presencia de un participio como eaten revela que la oracion pide el presente 
 Read: "There are seven pencils and three erasers on my desk." How many objects are on the desk in total?
 
 ### Opciones
-### Opciones
 - [ ] A) Ten
-  <!-- feedback: diez seria el total si los numeros fueran siete y tres, pero hay que sumar los dos grupos. -->
+  <!-- feedback: Ten would be the total if the numbers were seven and three, but the two groups have to be added. -->
 - [ ] B) Nine
-  <!-- feedback: nueve corresponde solo a los lapices mas dos de mas, y no suma los tres sacapuntas. -->
+  <!-- feedback: Nine corresponds only to the pencils plus two extra, and it does not add the three erasers. -->
 - [x] C) Seven plus three, ten in total
-  <!-- feedback: 7 + 3 = 10, y la opcion muestra la operacion que justifica el total. -->
+  <!-- feedback: 7 + 3 = 10, and the option shows the operation that justifies the total. -->
 - [ ] D) Three
-  <!-- feedback: tres es solo la cantidad de sacapuntas y deja fuera el grupo de siete lapices. -->
+  <!-- feedback: Three is only the number of erasers and leaves out the group of seven pencils. -->
 
 ### Explicacion Pedagogica
 Mostrar la operacion en la respuesta es una buena estrategia de comprension numerica: permite al docente ver el procedimiento y no solo el resultado. Cuando un total resulta ser mas de diez, conviene expresar la cuenta en dos pasos, siete y luego tres, para evitar errores de suma mental.
