@@ -48,7 +48,7 @@ a Colombia como uno de los países más desiguales de la región. ¿Qué mide es
 El coeficiente de Gini resume en un número qué tan concentrado está el ingreso de un país. Según el DANE, Colombia aparece de forma persistente entre las naciones más desiguales de América Latina. Su lectura exige cautela: resume distribución, pero no explica sus causas, que son objeto de análisis en las preguntas siguientes.
 
 ## Question 2 [D3-D4]
-**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **ICFES:** Ciudadano
 **Expected_Success:** 0.85
@@ -72,7 +72,7 @@ en dignidad y prohíbe las discriminaciones por sexo, raza, origen o condición?
 El artículo 13 de la Constitución de 1991 consagra la igualdad ante la ley, prohíbe discriminaciones y ordena al Estado promover condiciones para que la igualdad sea real y efectiva. Su inciso final autoriza medidas a favor de grupos discriminados o marginados, base de las acciones afirmativas. Esta norma es la brújula jurídica para evaluar políticas contra la desigualdad.
 
 ## Question 3 [D3-D4]
-**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.80
@@ -96,7 +96,7 @@ Gran Encuesta Integrada de Hogares?
 La pobreza monetaria se define por ingresos: un hogar es pobre si su ingreso per cápita no cubre el costo de una canasta de bienes y servicios. El DANE también publica la pobreza multidimensional, que suma carencias en educación, salud, empleo, vivienda y servicios. Ambas miras son complementarias y pueden mostrar cifras distintas para un mismo territorio.
 
 ## Question 4 [D3-D4]
-**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.80
@@ -119,7 +119,7 @@ En ese contexto fue creado el programa Ingreso Solidario. ¿Cuál fue su propós
 Ingreso Solidario se creó en 2020, en respuesta a la emergencia sanitaria, para transferir dinero de forma rápida a hogares en riesgo. Mostró la capacidad del Estado de escalar cobertura con canales financieros digitales, y reabrió el debate sobre programas permanentes de protección. Su diseño temporal lo distingue de las transferencias condicionadas estructurales.
 
 ## Question 5 [D5-D6]
-**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **ICFES:** Sistema político y democracia
 **Expected_Success:** 0.75
@@ -143,7 +143,7 @@ urbana y rural?
 La política pública debe focalizarse con estadísticas oficiales: el DANE calcula pobreza monetaria y multidimensional con la GEIH, disagregadas por área y territorio. Usar esa fuente permite comparar municipios y priorizar inversiones con criterios verificables. Focalizar sin datos termina reproduciendo la exclusión que se quiere corregir.
 
 ## Question 6 [D5-D6]
-**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.75
@@ -166,7 +166,7 @@ La política pública debe focalizarse con estadísticas oficiales: el DANE calc
 El DANE y la evidencia académica muestran que la población afrocolombiana e indígena enfrenta mayores tasas de pobreza y menor acceso a educación superior. Estas brechas son expresión de discriminación estructural con raíces históricas en la esclavitud y la exclusión territorial. Por eso la jurisprudencia y el artículo 13 respaldan medidas diferenciales a favor de estos grupos.
 
 ## Question 7 [D5-D6]
-**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **ICFES:** Convivencia y paz
 **Expected_Success:** 0.70
@@ -190,7 +190,7 @@ Un estudiante relaciona ese escenario con el informe de la Comisión de la Verda
 El informe final de la Comisión de la Verdad, entregado en 2022, identificó la concentración de la tierra y la exclusión del campo entre las causas estructurales del conflicto armado. Este hallazgo conecta la desigualdad con la violencia: la pobreza rural no es un accidente, tiene historia. Analizar esa relación es parte de la competencia de pensamiento sistémico en Sociales Ciudadanas.
 
 ## Question 8 [D5-D6]
-**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.70
@@ -214,7 +214,7 @@ situación de vejez sin pensión?
 Colombia Mayor entrega un apoyo económico a adultos mayores en pobreza extrema que no accedieron a pensión, típicamente por historias laborales informales o de cuidados. Su existencia confirma que el sistema contributivo dejó vacíos que el Estado debe llenar. El debate sobre la reforma pensional discute precisamente cómo articular estos apoyos con un pilar semicontributivo.
 
 ## Question 9 [D5-D6]
-**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.75
@@ -237,7 +237,7 @@ Colombia Mayor entrega un apoyo económico a adultos mayores en pobreza extrema 
 Los resultados Saber expresan aprendizajes, pero también condiciones: docentes, infraestructura, conectividad y seguridad alimentaria. La brecha entre zonas refleja desigualdad de oportunidades, no capacidades naturales. La educación es un derecho fundamental (artículo 67 de la Constitución) y su calidad diferenciada reproduce la desigualdad que el Estado debería corregir.
 
 ## Question 10 [D5-D6]
-**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.70
@@ -261,7 +261,7 @@ de cuidados?
 Las encuestas de uso del tiempo del DANE muestran que las mujeres asumen la mayor parte del trabajo doméstico no remunerado, lo que reduce su participación y sus cotizaciones. Los centros y rutas de cuidado redistribuyen parcialmente esa carga y reconocen el trabajo de cuidados como asunto público. Este tipo de políticas articula igualdad de género con ampliación de derechos sociales.
 
 ## Question 11 [D7-D8]
-**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.65
@@ -284,7 +284,7 @@ Las encuestas de uso del tiempo del DANE muestran que las mujeres asumen la mayo
 Las transferencias alivian la pobreza monetaria inmediata, pero la desigualdad colombiana se sostiene en la distribución de activos: tierra, capital humano y calidad del empleo. Por eso la brecha persiste aunque mejore el ingreso de los más pobres en un trimestre. Analizar este desfase es la base para evaluar reformas estructurales frente a ayudas transitorias.
 
 ## Question 12 [D7-D8]
-**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **ICFES:** Sistema político y democracia
 **Expected_Success:** 0.65
@@ -308,7 +308,7 @@ con los derechos fundamentales de la población?
 Los artículos 365 a 368 de la Constitución califican los servicios públicos como esenciales y ordenan su prestación eficiente y de calidad, con control del Estado. Cuando su ausencia amenaza la vida y la salud, la tutela (artículo 86) se vuelve un instrumento de los grupos vulnerables para exigir el acceso al agua. Así, la desigualdad territorial también es una desigualdad en el goce efectivo de derechos.
 
 ## Question 13 [D7-D8]
-**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.65
@@ -331,7 +331,7 @@ Los artículos 365 a 368 de la Constitución califican los servicios públicos c
 Las acciones afirmativas se apoyan en el artículo 13, que ordena promover condiciones de igualdad real y adoptar medidas a favor de grupos discriminados. No niegan el mérito: corrigen puntos de partida desiguales producidos por siglos de exclusión étnico-racial y territorial. Su evaluación exige revisar cobertura, efectividad y temporalidad de la medida.
 
 ## Question 14 [D7-D8]
-**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.65
@@ -354,7 +354,7 @@ Las acciones afirmativas se apoyan en el artículo 13, que ordena promover condi
 La pandemia funcionó como revelador de la brecha urbano-rural: estudiar depende de infraestructura, ingreso del hogar y conectividad. La pobreza multidimensional incorpora carencias como condiciones educativas y acceso a servicios, que explican la deserción rural. Analizar estos episodios evita reducir la desigualdad a un problema de esfuerzo individual.
 
 ## Question 15 [D7-D8]
-**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.65
@@ -378,7 +378,7 @@ no entrega?
 El índice de pobreza multidimensional del DANE agrega carencias efectivas: educación, salud, condiciones de la vivienda, servicios y tiempo. Un hogar puede salir de la línea de ingresos y seguir sin acueducto ni cobertura escolar completa. Por eso las políticas de superación de la pobreza requieren ambas miras para focalizar inversiones.
 
 ## Question 16 [D7-D8]
-**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **ICFES:** Convivencia y paz
 **Expected_Success:** 0.65
@@ -401,7 +401,7 @@ El índice de pobreza multidimensional del DANE agrega carencias efectivas: educ
 La Comisión de la Verdad presentó el conflicto como multicausal, con la tierra y la exclusión del campo entre sus raíces estructurales. Las drogas, la debilidad institucional y la violencia política se suman sin borrar ese origen agrario. Este análisis enseña a evitar explicaciones monocausales y a conectar memoria histórica con presente desigual.
 
 ## Question 17 [D9-D10]
-**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.60
@@ -425,7 +425,7 @@ sólido a favor de mantener esas medidas?
 El juicio sobre acciones afirmativas enfrenta la igualdad formal (mismo trato) con la igualdad material (mismas oportunidades). El constituyente del 91 resolvió la tensión autorizando tratos diferenciales compensatorios para grupos discriminados. El mejor juicio valora la medida por su objetivo, proporcionalidad y temporalidad, no por un principio abstracto de indiferencia.
 
 ## Question 18 [D9-D10]
-**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.55
@@ -449,7 +449,7 @@ desigualdad?
 Ingreso Solidario demostró capacidad de respuesta rápida ante una crisis, mientras la brecha de activos exige generación de largo plazo: tierra, infraestructura, educación y formalización. El juicio informado no elige una sola pata, sino que pondera complementos y restricciones fiscales. Esta es la discusión central entre compensación y transformación estructural de la desigualdad.
 
 ## Question 19 [D9-D10]
-**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **ICFES:** Trabajo y economía
 **Expected_Success:** 0.60
@@ -473,7 +473,7 @@ igualdad material?
 Las pensiones se construyen sobre cotizaciones formales, un molde que excluyó a quienes dedicaron su vida al cuidado no remunerado, en su mayoría mujeres. Las encuestas de uso del tiempo del DANE muestran esa asimetría persistente. El juicio de valor sobre estas iniciativas enfrenta eficiencia actuarial con justicia de género: una democracia igualitaria no puede ignorar quién sostiene la vida social.
 
 ## Question 20 [D9-D10]
-**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W19-desigualdad-pobreza-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.55

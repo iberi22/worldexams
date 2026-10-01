@@ -48,7 +48,7 @@ La Organización Internacional del Trabajo adoptó en 1948 el Convenio 87, que h
 El Convenio 87 de la OIT, sobre libertad sindical y protección del derecho de asociación, hace parte de los convenios fundamentales del trabajo. En Colombia, el artículo 39 de la Constitución Política de 1991 garantiza la libertad sindical "sin permiso previo", en consonancia con ese tratado. Este derecho permite a trabajadores y empleadores constituir organizaciones, afiliarse o retirarse de ellas libremente.
 
 ## Question 2 [D3-D4]
-**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **ICFES:** Trabajo y economía
 **Expected_Success:** 0.85
@@ -72,7 +72,7 @@ en materia de salud, pensiones y riesgos laborales?
 La Ley 100 de 1993 creó el Sistema General de Seguridad Social, con regimes de salud, pensiones y riesgos laborales. En 2024 el Congreso de la República discutió y aprobó una reforma pensional que agrega un componente semicontributivo, sin que eso borre la arquitectura general creada en 1993. Conocer esta ley permite entender debates actuales sobre cobertura y sostenibilidad.
 
 ## Question 3 [D3-D4]
-**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **ICFES:** Trabajo y economía
 **Expected_Success:** 0.80
@@ -96,7 +96,7 @@ La situación de este trabajador ilustra un fenómeno muy extendido en Colombia.
 El DANE, mediante la Gran Encuesta Integrada de Hogares, mide el empleo informal: posiciones sin contrato, sin afiliación plena a seguridad social o sin acceso a prestaciones. La informalidad limita el acceso a pensiones, riesgos laborales y estabilidad. Por eso el grado 11 debe distinguir entre trabajar, trabajar formalmente y estar desempleado.
 
 ## Question 4 [D3-D4]
-**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **ICFES:** Trabajo y economía
 **Expected_Success:** 0.80
@@ -120,7 +120,7 @@ según las mediciones oficiales del DANE. ¿Cuál afirmación es acertada?
 Las mediciones del DANE indican que más de la mitad del empleo colombiano es informal, tanto en ciudades intermedias como en grandes capitales. Esta estructura se relaciona con el tamaño reducido de las empresas, la baja productividad y los costos de formalizar. Comprender esta cifra es clave para evaluar políticas de formalización y el alcance real de la protección social.
 
 ## Question 5 [D5-D6]
-**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **ICFES:** Trabajo y economía
 **Expected_Success:** 0.75
@@ -144,7 +144,7 @@ constitucional colombiano en ese escenario?
 El artículo 53 de la Constitución Política ordena que el salario mínimo se concierte anualmente dentro del diálogo social, y permite al Gobierno regularlo cuando no hay acuerdo. En la práctica, muchas veces las negociaciones fracasan y el aumento se fija por decreto. Por eso el debate público cuestiona si el monto compensa el costo de vida sin afectar el empleo.
 
 ## Question 6 [D5-D6]
-**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **ICFES:** Trabajo y economía
 **Expected_Success:** 0.75
@@ -168,7 +168,7 @@ de política pública liderada por el Ministerio del Trabajo?
 Las cifras oficiales del DANE muestran que el desempleo juvenil es sistemáticamente más alto que el promedio nacional, y la exigencia de experiencia es una barrera típica. El Ministerio del Trabajo, el SENA y programas de primer empleo buscan romper ese círculo. Analizar estos casos permite evaluar la efectividad real de tales estrategias.
 
 ## Question 7 [D5-D6]
-**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.70
@@ -191,7 +191,7 @@ Las cifras oficiales del DANE muestran que el desempleo juvenil es sistemáticam
 Las encuestas de uso del tiempo del DANE demuestran que las mujeres dedican muchas más horas al trabajo doméstico no remunerado que los hombres. Ese trabajo sostiene la economía pero queda fuera del PIB y, por tanto, fuera de derechos como la pensión. Por eso el movimiento de mujeres exige sistemas nacionales de cuidados que redistribuyan esa carga.
 
 ## Question 8 [D5-D6]
-**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **ICFES:** Ciudadano
 **Expected_Success:** 0.70
@@ -215,7 +215,7 @@ para la trabajadora embarazada?
 La estabilidad laboral reforzada protege a personas en circunstancia de debilidad manifiesta: embarazadas, personas con discapacidad o próximos a pensionarse. En el caso de la maternidad, el Código Sustantivo del Trabajo exige autorización del Ministerio del Trabajo para el despido. La tutela (artículo 86 de la Constitución) es el mecanismo idóneo cuando el despido discriminatorio vulnera derechos fundamentales.
 
 ## Question 9 [D5-D6]
-**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **ICFES:** Trabajo y economía
 **Expected_Success:** 0.75
@@ -238,7 +238,7 @@ La estabilidad laboral reforzada protege a personas en circunstancia de debilida
 El fuero sindical protege a fundadores y directivos de organizaciones sindicales para que su actividad no sea sancionada con el despido. En Colombia, la desvinculación de un amparado exige demostrar la justa causa ante un juez laboral con audiencia del trabajador. Esta garantía desarrolla el Convenio 87 de la OIT y el artículo 39 de la Constitución.
 
 ## Question 10 [D5-D6]
-**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **ICFES:** Convivencia y paz
 **Expected_Success:** 0.70
@@ -262,7 +262,7 @@ es constitucionalmente correcta?
 El artículo 56 de la Constitución Política garantiza el derecho de huelga y remite a la ley las excepciones en servicios públicos esenciales, donde deben garantizarse actividades que no pueden suspenderse. La Corte Constitucional ha protegido la huelga como expresión de la libertad sindical. Analizar este caso exige ponderar el conflicto colectivo con derechos de la comunidad, como la salud.
 
 ## Question 11 [D7-D8]
-**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **ICFES:** Trabajo y economía
 **Expected_Success:** 0.65
@@ -286,7 +286,7 @@ heredado de la Ley 100 de 1993?
 El régimen de ahorro individual creado por la Ley 100 exige semanas cotizadas y capital acumulado, requisitos que resultan inaccesibles para trayectorias informales discontinuas. Por eso la reforma pensional aprobada en 2024 incorpora un pilar semicontributivo para adultos mayores con historias laborales fragmentadas. El caso muestra cómo la estructura del mercado laboral se traduce en vejez desprotegida.
 
 ## Question 12 [D7-D8]
-**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.65
@@ -309,7 +309,7 @@ Las encuestas muestran que las mujeres dedican bastante más tiempo que los homb
 Las encuestas de uso del tiempo evidencian una asignación desigual de los cuidados que no reconoce el mercado ni la seguridad social. Ese desajuste reduce ingresos, cotizaciones y pensiones de las mujeres, y explica en parte su mayor informalidad y dependencia. Por eso la agenda pública discute sistemas nacionales de cuidados como política de igualdad material.
 
 ## Question 13 [D7-D8]
-**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **ICFES:** Trabajo y economía
 **Expected_Success:** 0.65
@@ -332,7 +332,7 @@ Las encuestas de uso del tiempo evidencian una asignación desigual de los cuida
 La Ley 100 diseñó la pensión sobre la premisa de trayectorias formales y estables, un supuesto que choca con la realidad de más de la mitad del empleo informal. La reforma aprobada por el Congreso en 2024 busca corregir ese sesgo con componentes solidarios y semicontributivos. El caso muestra cómo el diseño institucional puede reproducir desigualdades del mercado.
 
 ## Question 14 [D7-D8]
-**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **ICFES:** Trabajo y economía
 **Expected_Success:** 0.65
@@ -355,7 +355,7 @@ La Ley 100 diseñó la pensión sobre la premisa de trayectorias formales y esta
 Los convenios colectivos son el instrumento del derecho de negociación (artículo 55 de la Constitución) y suelen elevar salarios y prestaciones de los trabajadores cubiertos. El problema es la exclusión: la alta informalidad y la baja densidad sindical dejan a mayoría de ocupados fuera de esa ventaja. Por eso la discusión sobre libertad sindical incluye cómo extender sus beneficios.
 
 ## Question 15 [D7-D8]
-**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **ICFES:** Sistema político y democracia
 **Expected_Success:** 0.65
@@ -378,7 +378,7 @@ Los convenios colectivos son el instrumento del derecho de negociación (artícu
 La tutela (artículo 86 de la Constitución) protege derechos fundamentales y es improcedente cuando existen otros medios de defensa judicial, a menos que se use para evitar un perjuicio irremediable. La jurisdicción ordinaria laboral es el juez natural de prestaciones sociales. Este principio de subsidiariedad muestra cómo el sistema constitucional ordena, y no confunde, las competencias de cada juez.
 
 ## Question 16 [D7-D8]
-**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **ICFES:** Trabajo y economía
 **Expected_Success:** 0.65
@@ -401,7 +401,7 @@ La tutela (artículo 86 de la Constitución) protege derechos fundamentales y es
 Evaluar una política de precios mínimos exige comparar variables del mercado laboral antes y después: contratación formal, desocupación, precios e ingresos. Los resultados difieren según el tamaño de la empresa y la región, como muestran los análisis de la frontera. Este caso enseña a distinguir opinión publicada de evidencia construida con estadísticas oficiales.
 
 ## Question 17 [D9-D10]
-**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **ICFES:** Trabajo y economía
 **Expected_Success:** 0.60
@@ -425,7 +425,7 @@ más sólido contra la decisión unilateral permanente del gobierno?
 La Constitución diseña la concertación anual como regla y la decisión gubernamental como excepción subsidiaria. Un mecanismo permanente de unilateralidad erosionaría el tripartismo y la autonomía sindical del Convenio 87. El mejor juicio de valor combina legitimidad democrática con protección del ingreso: arbitraje fuerte, negociación de buena fe y decreto solo como último recurso.
 
 ## Question 18 [D9-D10]
-**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **ICFES:** Trabajo y economía
 **Expected_Success:** 0.55
@@ -449,7 +449,7 @@ respecto al esquema estrictamente individual de la Ley 100?
 El ahorro individual premió las carreras formales continuas y dejó fuera a trabajadores informales, cuidadoras y jornaleros. Un esquema con componentes solidarios y de redistribución intra-generacional apunta a cerrar esa brecha de cubrimiento. La evaluación honesta exige sopesar equidad, sostenibilidad fiscal e incentivos al empleo formal.
 
 ## Question 19 [D9-D10]
-**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **ICFES:** Trabajo y economía
 **Expected_Success:** 0.60
@@ -472,7 +472,7 @@ El ahorro individual premió las carreras formales continuas y dejó fuera a tra
 La evidencia señala costos laborales, tamaño de la unidad productiva y baja productividad como raíces de la informalidad. Un juicio equilibrado pondera inspección con Simplificación de cargas: regímenes como el de empleo formal han mostrado que los incentivos funcionan gradualmente. Ninguna ruta puramente punitiva o puramente benévola agota el problema estructural.
 
 ## Question 20 [D9-D10]
-**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W18-mercado-laboral-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **ICFES:** Convivencia y paz
 **Expected_Success:** 0.55

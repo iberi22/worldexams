@@ -298,7 +298,7 @@
           "letter": "C",
           "text": "bring",
           "is_correct": false,
-          "feedback": "Incorrect. Present tense."
+          "feedback": "Incorrect. The third conditional needs the past perfect \"had brought\"; \"bring\" is a bare infinitive and marks no past time at all."
         },
         {
           "letter": "D",
@@ -683,7 +683,7 @@
       "country": "cl"
     },
     {
-      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v11",
+      "id": "CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v16",
       "statement": "We spent the whole afternoon sightseeing around the historic center of the city.",
       "context": "Exploring a new city.",
       "options": [
@@ -754,7 +754,7 @@
           "letter": "D",
           "text": "snowed",
           "is_correct": false,
-          "feedback": "Incorrect. Past simple."
+          "feedback": "Incorrect. The past perfect continuous is \"had been snowing\"; \"snowed\" is the past simple and drops the duration that was still ongoing at that past point."
         }
       ],
       "correct_answer": "B",
