@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import crypto from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import { parseArgs } from 'node:util';
 
@@ -307,11 +308,47 @@ function countryCodeOf(file, fm) {
   return null;
 }
 
-function rel(file) {
+export function rel(file) {
   return path.relative(ROOT, file).replace(/\\/g, '/');
 }
 
-export function validateFile(file, opts = { strictQuality: false }) {
+export function extractStem(qText) {
+  const matchEnunciado = qText.match(/###\s+Enunciado\s*([\s\S]*?)(?=###\s+Opciones|###\s+Explicaci[oó]n|$)/i);
+  const stemRaw = matchEnunciado ? matchEnunciado[1].trim() : '';
+  return stemRaw.toLowerCase().replace(/\s+/g, ' ');
+}
+
+export function calculateQuestionHash(qText) {
+  const stem = extractStem(qText);
+  const options = optionRows(qText).map((o) => o.text);
+  const key = [stem, ...options].join('|');
+  return crypto.createHash('sha256').update(key).digest('hex').slice(0, 16);
+}
+
+export function buildCorpusHashMap(files) {
+  const hashMap = new Map();
+  for (const file of files) {
+    if (!fs.existsSync(file)) continue;
+    const content = fs.readFileSync(file, 'utf8');
+    const relative = rel(file);
+    const questions = questionBlocks(content);
+    questions.forEach((q, index) => {
+      const qNum = q.number || (index + 1);
+      const hash = calculateQuestionHash(q.text);
+      if (!hashMap.has(hash)) {
+        hashMap.set(hash, []);
+      }
+      hashMap.get(hash).push({
+        file: relative,
+        qNum,
+        qId: q.text.match(/\*\*ID:\*\*\s*`?([^\n`\r]+)`?/)?.[1]?.trim() || `Q${qNum}`,
+      });
+    });
+  }
+  return hashMap;
+}
+
+export function validateFile(file, opts = { strictQuality: false, corpusHashMap: null }) {
   const warnings = [];
   const errors = [];
   if (!fs.existsSync(file)) {
@@ -410,6 +447,36 @@ export function validateFile(file, opts = { strictQuality: false }) {
   const correctAnswers = [];
   const allExplanations = [];
   const seenIds = new Set();
+
+  if (opts.corpusHashMap) {
+    questions.forEach((q, index) => {
+      const prefix = `Question ${index + 1}`;
+      const hash = calculateQuestionHash(q.text);
+      const locations = opts.corpusHashMap.get(hash) || [];
+      const selfRel = rel(file);
+      const selfNum = q.number || (index + 1);
+      const others = locations.filter((loc) => !(loc.file === selfRel && loc.qNum === selfNum));
+
+      if (others.length > 0) {
+        const otherDescs = others.map((loc) =>
+          loc.file === selfRel ? `Question ${loc.qNum}` : `${loc.file}:Question ${loc.qNum}`
+        );
+        errors.push(`ERROR [duplicate-question] ${prefix}: byte-for-byte duplicate of ${otherDescs.join(', ')}`);
+      }
+    });
+  } else {
+    const seenHashes = new Map();
+    questions.forEach((q, index) => {
+      const prefix = `Question ${index + 1}`;
+      const hash = calculateQuestionHash(q.text);
+      if (seenHashes.has(hash)) {
+        const prevNum = seenHashes.get(hash);
+        errors.push(`ERROR [duplicate-question] ${prefix}: byte-for-byte duplicate of Question ${prevNum} in the same bundle`);
+      } else {
+        seenHashes.set(hash, q.number || (index + 1));
+      }
+    });
+  }
 
   questions.forEach((q, index) => {
     const prefix = `Question ${index + 1}`;
@@ -521,6 +588,7 @@ if (isMainModule) {
     options: {
       'strict-quality': { type: 'boolean', default: false },
       'json': { type: 'boolean', default: false },
+      'all-duplicates': { type: 'boolean', default: false },
     },
     allowPositionals: true
   });
@@ -537,7 +605,17 @@ if (isMainModule) {
 
   const targetFiles = positionals.length ? files : files.filter((file) => file.endsWith('-MASTERY-bundle.md'));
 
-  const results = targetFiles.map(f => validateFile(f, { strictQuality: values['strict-quality'] }));
+  let corpusHashMap = null;
+  if (positionals.length > 0 || values['all-duplicates']) {
+    const allBundles = walk(path.join(ROOT, 'questions_data'));
+    const allScanned = Array.from(new Set([...allBundles, ...targetFiles]));
+    corpusHashMap = buildCorpusHashMap(allScanned);
+  }
+
+  const results = targetFiles.map(f => validateFile(f, {
+    strictQuality: values['strict-quality'],
+    corpusHashMap,
+  }));
 
   if (values.json) {
     console.log(JSON.stringify(results, null, 2));
