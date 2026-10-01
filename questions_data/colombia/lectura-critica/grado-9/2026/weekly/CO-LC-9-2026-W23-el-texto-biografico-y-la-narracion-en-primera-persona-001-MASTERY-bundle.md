@@ -29,7 +29,7 @@ Esta semana estudia el relato de una vida a través de dos voces distintas. El t
 
 **Texto 1 (Fragmento autobiográfico en primera persona):** «Yo nací en Palmira en 1954, en una casa de bareque junto al río. Aprendí a leer con un misal viejo que me prestó el párroco del barrio. El primer cuaderno que compré en la papelería del centro todavía lo tengo, con los bordes rotos por el uso, y en sus primeras páginas están los nombres de todas las plantas del cañón que mi madre conocía. Yo no había aprendido nada de botánica: había aprendido a reconocer.»
 
-**Texto 2 (Nota biográfica en tercera persona):** «Marta Elena Quintero (Palmira, 1954) es una bióloga formada en 1981 en la Universidad del Valle. Su autobiografía, publicada en 2011, recounts con detalle su infancia en la ribera del río. La especialidad de la autora es el estudio de la flora del valle del Cauca. Varios investigadores coinciden en atribuir a esa infancia junto al río el origen de su interés por las plantas del cañón.»
+**Texto 2 (Nota biográfica en tercera persona):** «Marta Elena Quintero (Palmira, 1954) es una bióloga formada en 1981 en la Universidad del Valle. Su autobiografía, publicada en 2011, narra con detalle su infancia en la ribera del río. La especialidad de la autora es el estudio de la flora del valle del Cauca. Varios investigadores coinciden en atribuir a esa infancia junto al río el origen de su interés por las plantas del cañón.»
 ## Question 1 [D3-D4]
 **ID:** CO-LC-9-2026-W23-el-texto-biografico-y-la-narracion-en-primera-persona-001-MASTERY-bundle-v1
 **Bloom:** Remember

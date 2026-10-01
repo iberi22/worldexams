@@ -37,7 +37,7 @@ En la semana 21 de 40 del año escolar 2026 trabajamos el manifiesto, un texto b
 ### Opciones
 - [x] A) Un texto breve y público en el que un grupo declara los principios que lo rigen
   <!-- feedback: Es correcta porque el manifiesto expone de manera pública una posición y los principios que la sostienen. -->
-- [ ] B) Un texto largo que recounts la historia completa de un país desde su independencia
+- [ ] B) Un texto largo que narra la historia completa de un país desde su independencia
   <!-- feedback: La narración histórica extensa es propia de la crónica, no de un manifiesto, que es breve y declarativo. -->
 - [ ] C) Un texto que resume el argumento de una novela sin nombrar al autor
   <!-- feedback: Un resumen de la novela describe hechos y personajes de una ficción; no declara principios de un grupo. -->

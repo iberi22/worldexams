@@ -274,7 +274,7 @@ Los indicadores de tiempo y de espacio son las marcas que anclan la acción y la
   <!-- feedback: Incorrecto: el desenlace confirma lo que el abuelo había dicho, de modo que el relato no se aparta de la realidad que narra. -->
 
 ### Explicacion Pedagogica
-Analizar un relato oral exige separar la fuente de su contenido. En este fragmento hay una voz, la del abuelo, que anticipa un hecho; hay un narrator que la transmite; y hay un hecho que finally se cumple y comprueba la advertencia. Esa estructura triple muestra que un testimonio no es simple: es una versión que alguien recuerda y que otro alguien decide contar. Reconocer el valor de la memoria sin convertirla en fuente infalible es lo que permite trabajar crítica y fuentes en el mismo ejercicio.
+Analizar un relato oral exige separar la fuente de su contenido. En este fragmento hay una voz, la del abuelo, que anticipa un hecho; hay un narrador que la transmite; y hay un hecho que finalmente se cumple y comprueba la advertencia. Esa estructura triple muestra que un testimonio no es simple: es una versión que alguien recuerda y que otro alguien decide contar. Reconocer el valor de la memoria sin convertirla en fuente infalible es lo que permite trabajar crítica y fuentes en el mismo ejercicio.
 
 ## Question 12 [D7-D8]
 **ID:** CO-LEN-11-2026-W11-el-texto-narrativo-y-sus-marcas-001-MASTERY-bundle-v12
