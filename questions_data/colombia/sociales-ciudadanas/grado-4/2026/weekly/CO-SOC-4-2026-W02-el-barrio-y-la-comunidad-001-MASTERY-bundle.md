@@ -62,7 +62,7 @@ Cuando contamos dónde está algo usamos referencias espaciales: al lado, cerca,
 - [ ] B) Los carros que pasan por la calle
   <!-- feedback: Incorrecto. Los carros son objetos que transitan, no personas: la comunidad está formada por gente que vive, conversa y se organiza en el barrio. -->
 - [ ] C) Los árboles del parque
-  <!-- feedback: Incorrecto. Los árboles son parte del paisaje y son valiosos, pero una comunidad necesita personas que decida qué se hace, porque son ellas las que resuelven los problemas. -->
+  <!-- feedback: Incorrecto. Los árboles son parte del paisaje y son valiosos, pero una comunidad necesita personas que decidan qué se hace, porque son ellas las que resuelven los problemas. -->
 - [ ] D) Solamente los edificios del centro del barrio
   <!-- feedback: Incorrecto. Limitar la comunidad a los edificios deja afuera a las familias que viven en casas y apartamentos: la comunidad incluye a todos los que viven allí. -->
 
@@ -129,7 +129,7 @@ Cuando una comunidad reúne dinero, primero suma lo que aporta cada persona y de
 - [x] A) Reunirse a escuchar los argumentos de cada grupo y buscar un lugar para el parqueadero que no afecte el juego
   <!-- feedback: Correcto. Un desacuerdo se resuelve con diálogo: escuchar a los dos lados y buscar una ubicación que sirva a ambos es la vía de la convivencia pacífica. -->
 - [ ] B) Los vecinos que están en contra deben ganar por mayoría, porque su opinión cuenta más
-  <!-- feedback: Incorrecto. No hay opiniones que valgan más que otras: ganar por mayoría deja fuera a los niños, y la convivencia exige que todos los grupos participates. -->
+  <!-- feedback: Incorrecto. No hay opiniones que valgan más que otras: ganar por mayoría deja fuera a los niños, y la convivencia exige que todos los grupos participen. -->
 - [ ] C) Mejor no hablar del tema hasta que una de las dos partes se canse de insistir
   <!-- feedback: Incorrecto. Guardarse el tema no resuelve nada: mientras nadie habla, el desacuerdo sigue creciendo y el espacio sigue en disputa. -->
 - [ ] D) Que la administración del barrio decida por fuera, sin consultar a los vecinos

@@ -239,8 +239,8 @@
     },
     {
       "id": "CO-SOC-4-2026-W05-el-cuidado-del-entorno-001-MASTERY-bundle-v6",
-      "statement": "¿Por qué ese razonamiento está equivocado?",
-      "context": "En el barrio San Javier de Medellín, algunas familias sacan la basura a la calle porque, según ellas, \"total la recoge alguien\".",
+      "statement": "¿Por qué es un error dejar la bolsa en la calle si \"total la recoge alguien\"?",
+      "context": "En el barrio San Javier de Medellín, algunas familias dejan la bolsa de basura tirada en la calle, en un rincón que no está autorizado y días antes de que pase el camión de la basura.",
       "options": [
         {
           "letter": "A",
@@ -258,7 +258,7 @@
           "letter": "C",
           "text": "Porque el concepto de basurero no es real",
           "is_correct": false,
-          "feedback": "Incorrecto. Los contenedores y los camiones de la basura sí existen y funcionan: lo que falla es el uso que hacen las familias al deixar la bolsa."
+          "feedback": "Incorrecto. Los contenedores y los camiones de la basura sí existen y funcionan: lo que falla es que las familias dejen la bolsa donde no se recoge, no que el relleno sanitario reciba la basura."
         },
         {
           "letter": "D",

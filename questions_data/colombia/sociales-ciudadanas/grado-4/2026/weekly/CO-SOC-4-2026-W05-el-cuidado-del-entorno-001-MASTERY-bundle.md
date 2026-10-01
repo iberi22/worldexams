@@ -143,10 +143,10 @@ Un bien común es algo que pertenece a la comunidad y que se usa entre todos, co
 **Bloom:** Analyze
 **ICFES:** Reflexión ética y política
 **Expected_Success:** 0.70
-**Contexto:** En el barrio San Javier de Medellín, algunas familias sacan la basura a la calle porque, según ellas, "total la recoge alguien".
+**Contexto:** En el barrio San Javier de Medellín, algunas familias dejan la bolsa de basura tirada en la calle, en un rincón que no está autorizado y días antes de que pase el camión de la basura.
 
 ### Enunciado
-¿Por qué ese razonamiento está equivocado?
+¿Por qué es un error dejar la bolsa en la calle si "total la recoge alguien"?
 
 ### Opciones
 - [x] A) Porque pasar la basura a otro es traspasar el problema, y al final termina en el río o en el relleno sanitario
@@ -154,7 +154,7 @@ Un bien común es algo que pertenece a la comunidad y que se usa entre todos, co
 - [ ] B) Porque la basura no existe
   <!-- feedback: Incorrecto. La basura sí existe y se produce todos los días: lo que se puede cambiar es si se recoge bien o si se deja tirada en la calle. -->
 - [ ] C) Porque el concepto de basurero no es real
-  <!-- feedback: Incorrecto. Los contenedores y los camiones de la basura sí existen y funcionan: lo que falla es el uso que hacen las familias al deixar la bolsa. -->
+  <!-- feedback: Incorrecto. Los contenedores y los camiones de la basura sí existen y funcionan: lo que falla es que las familias dejen la bolsa donde no se recoge, no que el relleno sanitario reciba la basura. -->
 - [ ] D) Porque el camión de la basura es muy viejo
   <!-- feedback: Incorrecto. La edad del vehículo no tiene nada que ver: el problema real es dejar la basura en la acera en un día que no pasa el camión. -->
 

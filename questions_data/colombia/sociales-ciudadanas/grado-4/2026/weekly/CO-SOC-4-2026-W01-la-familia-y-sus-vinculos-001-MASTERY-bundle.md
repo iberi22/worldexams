@@ -44,7 +44,7 @@ Según lo que aprendiste en clase, ¿quiénes forman parte de la familia Ramíre
   <!-- feedback: Incorrecto. Estudiar juntos crea amistad, no familia: la amistad se elige y se puede cambiar, mientras que el lazo de familia se hereda o se construye con un compromiso. -->
 
 ### Explicacion Pedagogica
-La familia es el grupo de personas unidas por un lazo de sangre, un matrimonio o una adopción que viven juntas y se ayudan. Que una persona trabaje fuera de la casa no la saca de la familia, porque el trabajo está fuera y el hogar está adentro. Los vecinos y los amigos del colegio son otra cosa: son vecinos y amigos, y a ellos también se les respeta, pero no son familia.
+La familia es el grupo de personas unidas por un lazo de sangre, un matrimonio o una adopción. Esas personas se ayudan entre sí, aunque no vivan bajo el mismo techo. Que una persona trabaje fuera de la casa no la saca de la familia, porque el trabajo está fuera y el hogar está adentro. Los vecinos y los amigos del colegio son otra cosa: son vecinos y amigos, y a ellos también se les respeta, pero no son familia.
 
 ## Question 2 [D3-D4]
 **ID:** CO-SOC-4-2026-W01-la-familia-y-sus-vinculos-001-MASTERY-bundle-v2
@@ -62,7 +62,7 @@ La familia es el grupo de personas unidas por un lazo de sangre, un matrimonio o
 - [ ] B) Porque Sofía y su abuela viven en el mismo barrio de Medellín
   <!-- feedback: Incorrecto. Vivir en el mismo barrio significa ser vecinas, no familia: el lazo de sangre que existe entre ellas es lo que las une, no la dirección. -->
 - [ ] C) Porque la abuela asiste a todas las reuniones del colegio de Sofía
-  <!-- feedback: Incorrecto. Asistir a reuniones es participar en la escuela, no un lazo de familia: no hay sangre ni matrimonio entre la abuela y la niña. -->
+  <!-- feedback: Incorrecto. Asistir a reuniones es participar en la escuela, no un lazo de familia: entre la abuela y Sofía sí hay sangre, pero esa relación ya está en la respuesta correcta; lo que la hace familia no es la asistencia al colegio. -->
 - [ ] D) Porque toda persona mayor que vive en la misma ciudad es parte de la familia
   <!-- feedback: Incorrecto. Compartir ciudad no significa ser familia: si todo mayor de la ciudad fuera familia, no habría ningún lazo que nos definiera como familia. -->
 

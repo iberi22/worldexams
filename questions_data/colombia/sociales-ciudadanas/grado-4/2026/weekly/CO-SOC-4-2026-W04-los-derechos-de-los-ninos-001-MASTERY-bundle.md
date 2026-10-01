@@ -97,7 +97,7 @@ Exigir que se respeten los derechos de los niños no significa dejar de acatar l
 **Bloom:** Apply
 **ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.80
-**Contexto:** En el barrio La Esmeralda de Cartagena hay casas donde llega el agua potable y otras donde el agua llega unas pocas horas al día.
+**Contexto:** En el barrio La Esmeralda de Cartagena hay casas donde llega el agua potable y otras donde el agua no llega limpia: apenas unas pocas horas al día y a veces turbia.
 
 ### Enunciado
 ¿Qué derecho de los niños se está viendo afectado en las casas donde no llega agua limpia?
@@ -106,7 +106,7 @@ Exigir que se respeten los derechos de los niños no significa dejar de acatar l
 - [x] A) El derecho a tener un lugar sano donde vivir, con servicios básicos como el agua
   <!-- feedback: Correcto. Tener agua limpia es parte del derecho a la salud y a una vivienda digna, y ese derecho le corresponde a los niños de esas casas. -->
 - [ ] B) El derecho a cambiar de ciudad cuando uno quiera
-  <!-- feedback: Incorrecto. Mudarse de ciudad no es un derecho: lo que está en riesgo aquí es la salud y la calidad de vida en el lugar donde ya viven. -->
+  <!-- feedback: Incorrecto. Mudarse de ciudad es una decisión personal, pero no es el derecho que se está viendo afectado aquí: la salud y una vivienda digna se pierden cuando el agua no llega, te quedes o te vayas. -->
 - [ ] C) El derecho a no pagar ningún servicio
   <!-- feedback: Incorrecto. Ninguna norma quita la obligación de pagar: el problema es que el servicio no llega, y eso debe resolverse, no esquivarse. -->
 - [ ] D) El derecho a recibir dos casas
@@ -198,7 +198,7 @@ El derecho a la salud de los niños se respeta con una atención médica adecuad
 - [x] A) Reunirse, explicar lo que piden con respeto y llevar la propuesta a quien decide
   <!-- feedback: Correcto. Participar es expresar una opinión y llevarla por las vías correctas, y eso se hace mejor con respeto y sin dañar a nadie. -->
 - [ ] B) Romper las sillas del patio para que los adultos los escuchen
-  <!-- feedback: Incorrecto. Dañar el patio daña a todos los estudiantes y quita la razón de la petición: el diálogo no necesita violencia para ser efficace. -->
+  <!-- feedback: Incorrecto. Dañar el patio daña a todos los estudiantes y quita la razón de la petición: el diálogo no necesita violencia para ser eficaz. -->
 - [ ] C) No ir a clases hasta que acepten lo que piden
   <!-- feedback: Incorrecto. Dejar de ir a clases rompe el derecho a la educación, que es otro derecho de ellos mismos, y no cambia la norma que quieren cambiar. -->
 - [ ] D) Dejar que cualquier persona decida cuál es la norma nueva
