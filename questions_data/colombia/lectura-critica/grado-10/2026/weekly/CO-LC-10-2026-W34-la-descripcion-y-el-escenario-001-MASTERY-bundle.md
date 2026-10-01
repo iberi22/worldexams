@@ -91,7 +91,7 @@ Según el Texto 2, ¿qué pide el guion a quienes colaboran en el documental?
 
 ### Opciones
 - [ ] A) Que narren la historia personal de los rowing.
-  <!-- feedback: El guion no recounts biografías; su instrucción se centra en cómo se describe el río, no en la vida de nadie. -->
+  <!-- feedback: El guion no narra biografías; su instrucción se centra en cómo se describe el río, no en la vida de nadie. -->
 - [ ] B) Que graben imágenes desde el agua.
   <!-- feedback: La hoja de ruta señala seis puntos del malecón, y en ninguno se describe una grabación desde el agua. -->
 - [ ] C) Que usen la mayor cantidad posible de adjetivos.

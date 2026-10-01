@@ -55,7 +55,7 @@ La idea central de una definición se identifica en la relación que une sus ele
 Cuatro textos cortos aparecen en el periódico escolar de Bucaramanga. ¿Cuál corresponde al género ensayo?
 
 ### Opciones
-- [ ] A) Un resumen de cinco líneas que recounts los capítulos de una novela sin opiniones.
+- [ ] A) Un resumen de cinco líneas que narra los capítulos de una novela sin opiniones.
   <!-- feedback: Un resumen sin opinión es un texto informativo o referencial, no un ensayo. -->
 - [x] B) Un texto que defiende que los libros de primaria deben leerse en clase, con tres razones y datos que lo sustentan.
   <!-- feedback: Defender una postura con razones y datos es exactamente la estructura argumentativa del ensayo. -->

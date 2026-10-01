@@ -38,7 +38,7 @@ En la semana 37 del año escolar 2026, dentro de una secuencia de 40 semanas, lo
   <!-- feedback: Correcta, porque el ensayo combina la exposición de una postura, su defensa argumentativa y el respaldo en razones que el lector puede evaluar. -->
 - [ ] B) Un texto expositivo que resume en un solo párrafo la posición de tres autores distintos sin pronunciarse.
   <!-- feedback: Incorrecta, porque si el texto no toma posición no hay tesis que sostener, y por tanto no hay ensayo argumentativo. -->
-- [ ] C) Un texto narrativo que recounts un viaje e intercala opiniones sobre los lugares visitados.
+- [ ] C) Un texto narrativo que narra un viaje e intercala opiniones sobre los lugares visitados.
   <!-- feedback: Incorrecta, porque la narración con opiniones intercaladas no constituye la estructura argumentativa propia del ensayo. -->
 - [ ] D) Un texto de investigación que cites fuentes en un estándar internacional y concluye con un aporte al conocimiento.
   <!-- feedback: Incorrecta, porque esa descripción corresponde al artículo de investigación, con un método de fuentes distinto al del ensayo. -->

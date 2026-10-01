@@ -189,7 +189,7 @@ El epígrafe es una frase breve, normalmente de otro autor, que se coloca antes 
 En una edición de la novela, el nombre del autor aparece en la tapa, hay una nota del traductor antes del primer capítulo y unas notas al pie que explican palabras antiguas. ¿Qué reúne estos elementos?
 
 ### Opciones
-- [ ] A) La trama, porque son los episodios que el narrador recounts en orden cronológico.
+- [ ] A) La trama, porque son los episodios que el narrador narra en orden cronológico.
   <!-- feedback: Incorrecta, porque ninguno de esos elementos es un episodio de la historia narrada. -->
 - [ ] B) La referencia, porque remiten a documentos externos que el lector debe consultar.
   <!-- feedback: Incorrecta, porque el paratexto no es solo un conjunto de remisiones, sino todo lo que rodea el texto principal. -->

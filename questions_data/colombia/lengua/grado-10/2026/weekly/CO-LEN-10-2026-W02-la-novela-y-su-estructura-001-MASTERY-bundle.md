@@ -143,7 +143,7 @@ La novela organiza su materia en capítulos y puede usar recursos como el adelan
 **ID:** CO-LEN-10-2026-W02-la-novela-y-su-estructura-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **ICFES:** Discursivo
-**Contexto:** En una novela de García Márquez leída por estudiantes de Medellín, los primeros capítulos recounts dos hechos sin nexos claros, y el sentido general aparece meses después, cuando las líneas convergen.
+**Contexto:** En una novela de García Márquez leída por estudiantes de Medellín, los primeros capítulos narran dos hechos sin nexos claros, y el sentido general aparece meses después, cuando las líneas convergen.
 **Expected_Success:** 0.7
 
 ### Enunciado

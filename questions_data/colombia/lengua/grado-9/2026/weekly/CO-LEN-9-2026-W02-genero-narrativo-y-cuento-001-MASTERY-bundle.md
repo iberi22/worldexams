@@ -75,7 +75,7 @@ El género narrativo se define por su capacidad de representar una sucesión de 
 **Expected_Success:** 0.78
 
 ### Enunciado
-Un texto recounts que un hombre entra a una panadería, pide pan sin decir nada, paga de más, sale y llora en la esquina sin que nadie lo vea. ¿Cuál es el rasgo narrativo más evidente?
+Un texto narra que un hombre entra a una panadería, pide pan sin decir nada, paga de más, sale y llora en la esquina sin que nadie lo vea. ¿Cuál es el rasgo narrativo más evidente?
 
 ### Opciones
 - [ ] A) Es un texto dramático porque llora en la escena <!-- feedback: La reacción emocional del personaje no convierte el texto en una obra de teatro. -->
@@ -270,7 +270,7 @@ Un cuento del Chocó narra una tradición de la comunidad, con un relato inserti
 - [ ] A) Es un texto dramático, porque hay alguien que narra y hay personajes <!-- feedback: Narrar y tener personajes no basta; la representación ante público define al género dramático. -->
 - [ ] B) Es un texto lírico, porque la tradición se expresaa con Hep emotions colectivas <!-- feedback: El valor de la tradición no convierte el texto en lírico; predomina la representación de hechos. -->
 - [ ] C) Es un texto argumentativo, porque defiende la comunidad <!-- feedback: Un texto que refleje valores no se vuelve argumentativo; no hay tesis ni demostración. -->
-- [x] D) Es un cuento narrativo de estructura compleja, con narrator intradiegético y relato encabalgado <!-- feedback: Describe con exactitud los recursos narrativos: la voz que comenta y el relato dentro del relato. -->
+- [x] D) Es un cuento narrativo de estructura compleja, con narrador intradiegético y relato encabalgado <!-- feedback: Describe con exactitud los recursos narrativos: la voz que comenta y el relato dentro del relato. -->
 
 ### Explicacion Pedagogica
 Los recursos del relato pueden combinarse: una voz que comenta lo que narra es un narrador intradiegético, y un relato dentro de otro es una estructura encabalgada. Reconocer estos recursos permite describir con precisión textos que rompen las formas simples. Es un nivel de análisis que la prueba Saber incluye en sus preguntas de comprensión e inferencia textual.

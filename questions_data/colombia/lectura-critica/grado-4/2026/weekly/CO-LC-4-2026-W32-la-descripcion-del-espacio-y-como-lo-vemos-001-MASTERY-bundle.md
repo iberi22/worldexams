@@ -66,10 +66,10 @@ Observa las dos frases que describen la misma plaza.
 
 ### Opciones
 - [ ] A) La frase 1 nombra un lugar y la frase 2 nombra a una persona
-  <!-- feedback: Incorrecto. Las dos frases hablan de un lugar, y la segunda también menciona a la abuela del narrator. -->
+  <!-- feedback: Incorrecto. Las dos frases hablan de un lugar, y la segunda también menciona a la abuela del narrador. -->
 - [ ] B) Las dos frases dicen lo mismo, porque las dos mencionan los toldos
   <!-- feedback: Incorrecto. La frase 1 describe lo que se ve y la frase 2 expresa lo que esa vista provocan. -->
-- [x] C) La frase 1 describe lo que el lector puede ver y la frase 2 cuenta lo que esa vista hizo pensar al narrator
+- [x] C) La frase 1 describe lo que el lector puede ver y la frase 2 cuenta lo que esa vista hizo pensar al narrador
   <!-- feedback: Correcto. Una frase se queda en la imagen y la otra agrega la reacción personal que surge al verla. -->
 - [ ] D) La frase 1 es menos completa porque no menciona ningún color
   <!-- feedback: Incorrecto. La frase 1 sí dice que los toldos eran de colores, y no le falta ese detalle. -->
