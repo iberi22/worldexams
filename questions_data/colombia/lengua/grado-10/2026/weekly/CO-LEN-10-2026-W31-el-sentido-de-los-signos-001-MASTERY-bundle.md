@@ -76,11 +76,10 @@ Dentro de un mismo signo conviven varios elementos y cada uno aporta un tipo dis
 **Bloom:** Understand
 **ICFES:** Pragmatico
 **Expected_Success:** 0.78
-**Contexto:** Campaña de!
-//Notice en los buses de Cali sobre el consumo responsable de agua.
+**Contexto:** Cartel de una empresa de agua embotellada colocado en los buses de Cali sobre el consumo responsable del recurso.
 
 ### Enunciado
-El mismo producto envasado aparece sin publicidad en un supermercado y con el lema "Bebe lo que también cuida" en el allegory del advertisement de una empresa departamental. ¿Qué evidencia muestra que en la versión con lema hay una diferencia de sentido pragmático?
+El mismo producto envasado aparece sin publicidad en un supermercado y con el lema "Bebe lo que también cuida" en la publicidad de una empresa departamental. ¿Qué evidencia muestra que en la versión con lema hay una diferencia de sentido pragmático?
 
 ### Opciones
 - [ ] A) El color de la etiqueta, porque el lema obligatoriamente comparte paleta con el envase.
@@ -103,7 +102,7 @@ El sentido pragmático es el uso que el enunciador hace del lenguaje: informar, 
 **Contexto:** Afiche de la jornada cultural de un colegio de Pamplona, Norte de Santander.
 
 ### Enunciado
-El afiche anuncia una jornada cultural y, en lugar de limitarse a dar fecha y lugar, incluye preguntas directed al público ("¿Ya leíste este año? ¿Vas?") además de imágenes y colores llamativos. ¿Qué función discursiva predomina en ese afiche?
+El afiche anuncia una jornada cultural y, en lugar de limitarse a dar fecha y lugar, incluye preguntas dirigidas al público ("¿Ya leíste este año? ¿Vas?") además de imágenes y colores llamativos. ¿Qué función discursiva predomina en ese afiche?
 
 ### Opciones
 - [ ] A) Narrar, porque ordena los hechos de la jornada en una secuencia temporal.
