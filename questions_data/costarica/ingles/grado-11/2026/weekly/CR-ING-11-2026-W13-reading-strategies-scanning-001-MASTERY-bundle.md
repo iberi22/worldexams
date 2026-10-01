@@ -20,463 +20,464 @@ bundle_index: 1
 # MASTERY Bundle - Ingles: Reading Strategies Scanning (W13)
 **20 preguntas | Ingles | Curriculo de Ingles**
 
+
 ---
 ## Question 1 [D3]
-**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-v1
+**Bloom:** Apply
+**EJE:** Reading Strategies
+**Expected_Success:** 0.85
+**Contexto:** A student must find the closing time of the national library. The text is six paragraphs long and the information appears once, in a table near the end.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which strategy should the student use?
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home. -->
-- [ ] A) transportation
-  <!-- feedback: Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay. -->
-- [ ] B) entertainment
-  <!-- feedback: Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep. -->
-- [ ] C) currency
-  <!-- feedback: Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging. -->
+- [x] D) Scanning, because the specific fact appears once and the layout can be read quickly
+  <!-- feedback: Scanning looks for one isolated piece of information, which is exactly what a single table entry requires. -->
+- [ ] A) Skimming, because the text is long and only the shape matters
+  <!-- feedback: Skimming gives an overview of the text and would not reliably locate a specific hour. -->
+- [ ] B) Close reading, because every sentence must be understood
+  <!-- feedback: Close reading is the most thorough strategy and is unnecessary when only one figure is needed. -->
+- [ ] C) Reading from the end, because the answer is usually first
+  <!-- feedback: Answers in English texts are distributed rather than concentrated at the beginning. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+Scanning is the right strategy when the reader knows precisely what is being looked for. Reading speed matters less than recognising the visual cue, which is the table row or the label in this case.
 ---
-## Question 2 [D4]
-**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] A) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way. -->
-- [ ] B) baggage
-  <!-- feedback: Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route. -->
-- [ ] D) passport
-  <!-- feedback: Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
-**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-001-MASTERY-bundle-v3
+## Question 2 [D3]
+**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-v2
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Reading Strategies
+**Expected_Success:** 0.85
+**Contexto:** A reader is told: 'Find the telephone number for enquiries in the appendix.'
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+How does this task differ from skimming a text?
 
 ### Opciones
-- [x] A) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going to or being sent to. -->
-- [ ] B) departure
-  <!-- feedback: Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip. -->
-- [ ] C) arrival
-  <!-- feedback: Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to. -->
-- [ ] D) journey
-  <!-- feedback: Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it. -->
+- [x] A) It requires locating one detail rather than forming a general impression
+  <!-- feedback: A telephone number is a specific detail, so the task belongs to scanning rather than to skimming. -->
+- [ ] B) It requires understanding every paragraph in order
+  <!-- feedback: A detail task does not require understanding the whole text paragraph by paragraph. -->
+- [ ] C) It requires reading the text twice from the beginning
+  <!-- feedback: Reading twice from the start is a strategy for difficult material, not for locating a number. -->
+- [ ] D) It requires taking notes on the general argument
+  <!-- feedback: Notes on the general argument belong to close reading of the content, not to a detail search. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Exam instructions often distinguish scanning, skimming and close reading without naming them explicitly. Learning to read the instruction in these terms is often worth more than extra practice speed.
+---
+## Question 3 [D4]
+**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-v3
+**Bloom:** Analyze
+**EJE:** Reading Strategies
+**Expected_Success:** 0.8
+**Contexto:** An exam asks twenty multiple-choice questions on a 900-word article, and the allotted time is 35 minutes.
+
+### Enunciado
+What does the time allowance imply about the intended reading strategy?
+
+### Opciones
+- [x] B) The article should be scanned for specific information rather than read word by word
+  <!-- feedback: Twenty questions in 35 minutes leaves under two minutes per question, which is only feasible if the reading is targeted. -->
+- [ ] C) The article should be read three times to check every detail
+  <!-- feedback: Reading three times would consume most of the allotted time and leave none for the questions. -->
+- [ ] D) Only the first paragraph is likely to be examined
+  <!-- feedback: A 900-word article cannot be assumed to hide its content in one paragraph. -->
+- [ ] A) The article should be summarised in writing beforehand
+  <!-- feedback: No writing time is mentioned, and summarising in advance would consume the same time as careful reading. -->
+
+### Explicacion Pedagogica
+The proportion of reading time to question time is itself a clue about strategy. When the ratio is tight, the article is a source to search rather than a text to study.
 ---
 ## Question 4 [D4]
-**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-001-MASTERY-bundle-v4
+**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-v4
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Reading Strategies
+**Expected_Success:** 0.75
+**Contexto:** A timetable lists departures from an airport terminal with columns for time, airline and gate.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Which words would a reader scan for in this document?
 
 ### Opciones
-- [x] B) luggage
-  <!-- feedback: Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in. -->
-- [ ] A) ticket
-  <!-- feedback: Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack. -->
-- [ ] C) flight
-  <!-- feedback: Wrong. A 'flight' is the journey by plane itself, not the bags carried on it. -->
-- [ ] D) reservation
-  <!-- feedback: Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself. -->
+- [x] C) The time, the airline and the gate
+  <!-- feedback: The column headings name exactly what the table records, and those are the items a reader looks up. -->
+- [ ] D) The opinions of previous passengers
+  <!-- feedback: A timetable contains no opinions, so that category is absent from the document. -->
+- [ ] A) The history of the airline company
+  <!-- feedback: Company history does not appear in a departures table. -->
+- [ ] B) The weather forecast for the destination
+  <!-- feedback: Weather information is not part of a schedule of flights. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+When reading a document with a clear layout, the headings tell the reader exactly which words to search for. Scanning starts by identifying the layout, not by reading from the beginning.
 ---
-## Question 5 [D5]
-**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 5 [D4]
+**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-v5
+**Bloom:** Analyze
+**EJE:** Reading Strategies
+**Expected_Success:** 0.75
+**Contexto:** A dictionary entry lists the word, its phonetic spelling, three meanings, two examples and the date of its first recorded use.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Which entry element answers the question 'When was this word first written down?'
 
 ### Opciones
-- [x] A) passenger
-  <!-- feedback: Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it. -->
-- [ ] B) pedestrian
-  <!-- feedback: Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all. -->
-- [ ] C) commuter
-  <!-- feedback: Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general. -->
-- [ ] D) tourist
-  <!-- feedback: Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle. -->
+- [x] B) The date of first recorded use
+  <!-- feedback: That element states when the word appears in writing, which is precisely what the question asks. -->
+- [ ] C) The phonetic spelling
+  <!-- feedback: Phonetics describe how a word sounds, not when it was written. -->
+- [ ] D) The third meaning
+  <!-- feedback: A meaning describes what the word denotes and carries no date. -->
+- [ ] A) The two examples
+  <!-- feedback: Examples illustrate usage and do not record the earliest written occurrence. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+A dictionary has a fixed structure, and each part answers a different kind of question. Matching the question to the element is a faster operation than reading the whole entry.
 ---
-## Question 6 [D6]
-**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 6 [D5]
+**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-v6
+**Bloom:** Apply
+**EJE:** Reading Strategies
+**Expected_Success:** 0.8
+**Contexto:** A reader must answer: 'How many pages does the reference section occupy?'
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Where should the reader look first in a report that ends with several sections and lists?
 
 ### Opciones
-- [x] D) customs
-  <!-- feedback: Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad. -->
-- [ ] A) security
-  <!-- feedback: Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods. -->
-- [ ] B) terminal
-  <!-- feedback: Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports. -->
-- [ ] C) gate
-  <!-- feedback: Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself. -->
+- [x] D) The final part of the report, where references and appendices usually begin
+  <!-- feedback: Reference sections and lists of appendices appear at the end, so the last pages are the right place to begin the search. -->
+- [ ] A) The first paragraph, which states the aim
+  <!-- feedback: The opening paragraph gives the purpose of the report and contains no page counts. -->
+- [ ] B) The middle section, which describes the method
+  <!-- feedback: The method section explains how the work was done and does not list pages. -->
+- [ ] C) The title page, which shows the author
+  <!-- feedback: A title page carries name and date information and no reference section. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+Skimming for a specific element means using the predictable order of a document. Knowing where sections normally sit saves the reader from searching the whole text.
 ---
 ## Question 7 [D5]
-**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-001-MASTERY-bundle-v7
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-v7
+**Bloom:** Analyze
+**EJE:** Reading Strategies
+**Expected_Success:** 0.75
+**Contexto:** An article contains a chart with a legend listing four colours and what each one represents.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+A reader wants to know what the green line in the chart measures. What should the reader check?
 
 ### Opciones
-- [x] A) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane. -->
-- [ ] B) visa
-  <!-- feedback: Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel. -->
-- [ ] C) receipt
-  <!-- feedback: Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft. -->
-- [ ] D) brochure
-  <!-- feedback: Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding. -->
+- [x] C) The legend
+  <!-- feedback: The legend is the element that maps each colour to the variable it represents. -->
+- [ ] D) The title of the article
+  <!-- feedback: The article title names the subject but does not decode the colours. -->
+- [ ] A) The last paragraph
+  <!-- feedback: A concluding paragraph interprets findings rather than defining chart symbols. -->
+- [ ] B) The first sentence of the chart
+  <!-- feedback: Charts have no opening sentence, and the coding of colours is given in the legend. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Visual documents have their own set of fixed components: title, axis labels, bars, legend and source. Knowing them turns an unfamiliar graphic into a document with a searchable structure.
 ---
-## Question 8 [D6]
-**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-001-MASTERY-bundle-v8
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 8 [D5]
+**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-v8
+**Bloom:** Evaluate
+**EJE:** Reading Strategies
+**Expected_Success:** 0.75
+**Contexto:** A student scans an article for every mention of a named village and counts them, but concludes that the village is the most mentioned place.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+What mistake has the student made?
 
 ### Opciones
-- [x] C) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor. -->
-- [ ] A) shopping
-  <!-- feedback: Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest. -->
-- [ ] B) hiking
-  <!-- feedback: Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location. -->
-- [ ] D) camping
-  <!-- feedback: Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest. -->
+- [x] A) The student did not check whether other places were mentioned more often
+  <!-- feedback: A count becomes meaningful only when compared with the counts for the other candidates. -->
+- [ ] B) The student counted the wrong letters in the name
+  <!-- feedback: Spelling accuracy is not the issue described in the question. -->
+- [ ] C) The student read the article too quickly
+  <!-- feedback: Reading speed has no bearing on the validity of a comparison. -->
+- [ ] D) The student should have scanned in alphabetical order
+  <!-- feedback: Alphabetical order is irrelevant to a count of occurrences in a text. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+A scan produces raw data; an inference requires comparison. This item separates the mechanical skill of locating information from the reasoning needed to interpret it.
 ---
 ## Question 9 [D5]
-**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-001-MASTERY-bundle-v9
+**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-v9
+**Bloom:** Understand
+**EJE:** Reading Strategies
+**Expected_Success:** 0.75
+**Contexto:** A form requires the reader to enter a date printed in the top right corner of page two.
+
+### Enunciado
+What is the most efficient way to find that date?
+
+### Opciones
+- [x] B) Look directly at the top right corner of page two
+  <!-- feedback: Forms place metadata such as dates and reference numbers in predictable corners, so a direct look is enough. -->
+- [ ] C) Read page two from the beginning to the end
+  <!-- feedback: A full reading of the page is unnecessary for a single fixed position. -->
+- [ ] D) Read every page in order until the date appears
+  <!-- feedback: Searching beyond the stated page adds time without any chance of finding a better location. -->
+- [ ] A) Ask a classmate to find it
+  <!-- feedback: Delegating the task defeats the purpose of practising the strategy. -->
+
+### Explicacion Pedagogica
+Scanning is efficient because documents follow conventions. The header of a form is one of the most standardised positions in any kind of printed material.
+---
+## Question 10 [D5]
+**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-v10
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Reading Strategies
+**Expected_Success:** 0.75
+**Contexto:** A question asks: 'According to the text, how long did the trial last?'
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Which text features would the reader look for?
 
 ### Opciones
-- [x] A) souvenir
-  <!-- feedback: Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it. -->
-- [ ] B) gift
-  <!-- feedback: Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller. -->
-- [ ] C) award
-  <!-- feedback: Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip. -->
-- [ ] D) prize
-  <!-- feedback: Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey. -->
+- [x] A) Expressions of duration such as months, weeks or years near a trial
+  <!-- feedback: A question about duration is answered by a time expression, and scanning for those words finds it quickly. -->
+- [ ] B) The opinion of the writer about the trial
+  <!-- feedback: An opinion is not a measure of time and would not answer the question. -->
+- [ ] C) The names of the lawyers involved
+  <!-- feedback: Names identify people rather than establishing how long anything lasted. -->
+- [ ] D) The place where the trial was held
+  <!-- feedback: A location tells where an event happened and says nothing about its duration. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+Turning the question into a keyword is the decisive step of scanning. Naming the grammatical category of the answer tells the reader what visual pattern to hunt for.
 ---
-## Question 10 [D6]
-**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-001-MASTERY-bundle-v10
+## Question 11 [D6]
+**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-v11
+**Bloom:** Analyze
+**EJE:** Reading Strategies
+**Expected_Success:** 0.75
+**Contexto:** An exam paper asks a student to mark the correct letter in a passage of three hundred words. Each question refers to a single sentence.
+
+### Enunciado
+What reading approach best fits this task?
+
+### Opciones
+- [x] A) Scanning each sentence for the specific information named in the question
+  <!-- feedback: Each question points at one fact, so a sentence-by-sentence search matches the structure of the task. -->
+- [ ] B) Reading the whole passage three times
+  <!-- feedback: Three readings would consume time the paper does not allow and add nothing for single-fact questions. -->
+- [ ] C) Summarising the passage in one's own words first
+  <!-- feedback: Summarising in one's own words is a study technique, not part of a timed examination procedure. -->
+- [ ] D) Reading only the final paragraph
+  <!-- feedback: Questions refer to sentences throughout the passage, so restricting the search to the end would miss most of them. -->
+
+### Explicacion Pedagogica
+Exam papers are designed around a strategy. When every question has a single identifiable answer, scanning is both the fastest and the intended method.
+---
+## Question 12 [D6]
+**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-v12
+**Bloom:** Understand
+**EJE:** Reading Strategies
+**Expected_Success:** 0.75
+**Contexto:** A reader needs to know whether a train service runs on Sundays, and the document provides a weekly grid with days as columns.
+
+### Enunciado
+Which part of the grid should the reader examine?
+
+### Opciones
+- [x] C) The column headed Sunday, moving across to the row for that service
+  <!-- feedback: In a grid, the required information sits where the correct day column meets the correct service row. -->
+- [ ] D) The row headed Monday, since Monday is listed first
+  <!-- feedback: The first day in the list is a reading convention, not a reason to select Monday. -->
+- [ ] A) The footer of the page, which contains notes
+  <!-- feedback: Footers may contain caveats about exceptions, but the day itself appears in the grid. -->
+- [ ] B) The title at the top of the grid
+  <!-- feedback: The title identifies the line but does not indicate which days it runs. -->
+
+### Explicacion Pedagogica
+A table is searched by intersection, which is a different operation from reading in sequence. Recognising the shape of a table prevents the reader from following the order of the text instead of the order of the data.
+---
+## Question 13 [D6]
+**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-v13
+**Bloom:** Evaluate
+**EJE:** Reading Strategies
+**Expected_Success:** 0.75
+**Contexto:** A web page presents facts in a long single column without headings, and a reader needs the date of the third revision.
+
+### Enunciado
+What should the reader do in this situation?
+
+### Opciones
+- [x] B) Use the page search function for words such as updated or revised and check each match
+  <!-- feedback: With no headings to guide the eye, a search function replaces the visual scan that headings would normally support. -->
+- [ ] C) Read the entire page from top to bottom at normal speed
+  <!-- feedback: A full reading is possible but wasteful when a single revision date is required. -->
+- [ ] D) Guess the date from the style of the page
+  <!-- feedback: Guessing from style would produce an answer with no basis in the document. -->
+- [ ] A) Read only the comments at the bottom
+  <!-- feedback: Comments may mention dates, but the revision record is what the question asks for. -->
+
+### Explicacion Pedagogica
+Scanning works through layout, so a page with no layout requires a different tool. Turning the browser search into the scanning mechanism is the practical skill this item describes.
+---
+## Question 14 [D6]
+**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-v14
+**Bloom:** Analyze
+**EJE:** Reading Strategies
+**Expected_Success:** 0.75
+**Contexto:** A student must answer five questions about a graph that compares four countries over ten years.
+
+### Enunciado
+What should the student do before reading any of the four axes?
+
+### Opciones
+- [x] C) Read the title and the labels of both axes to know what is being compared
+  <!-- feedback: A title and axis labels define the variables, and without them no value can be interpreted at all. -->
+- [ ] D) Read the values of the highest line first
+  <!-- feedback: The highest line is meaningless until the reader knows what each axis measures. -->
+- [ ] A) Count the number of lines in the graph
+  <!-- feedback: Counting lines describes the layout but does not explain what any of them represent. -->
+- [ ] B) Read the source of the data at the bottom
+  <!-- feedback: The source establishes credibility, which matters, but it does not tell the reader what the axes show. -->
+
+### Explicacion Pedagogica
+Every visual document must be read before it is measured. The title and labels are the first stage of any graph, and a scan that skips them produces numbers with no meaning.
+---
+## Question 15 [D6]
+**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-v15
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Reading Strategies
+**Expected_Success:** 0.75
+**Contexto:** A reader has three documents: a timetable, a fare chart and a set of station rules, and needs only the price of a return ticket.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Which document should the reader open first?
 
 ### Opciones
-- [x] D) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours. -->
-- [ ] B) departure
-  <!-- feedback: Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it. -->
-- [ ] C) arrival
-  <!-- feedback: Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late. -->
+- [x] B) The fare chart, because it holds prices
+  <!-- feedback: Matching the type of document to the type of information is the first step of an efficient search. -->
+- [ ] C) The timetable, because it lists departures
+  <!-- feedback: A timetable answers a question about times, not about prices. -->
+- [ ] D) The station rules, because they govern travel
+  <!-- feedback: Rules describe permitted behaviour and rarely list prices. -->
+- [ ] A) All three equally, because the reader cannot know in advance
+  <!-- feedback: The reader can classify the documents by subject, so the search does not have to be blind. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+Before scanning, a reader should identify which document is even capable of containing the answer. This preliminary classification saves more time than any increase in scanning speed.
 ---
-## Question 11 [D7]
-**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
-
-### Opciones
-- [x] D) check-in
-  <!-- feedback: Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass. -->
-- [ ] A) check-out
-  <!-- feedback: Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving. -->
-- [ ] B) booking
-  <!-- feedback: Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival. -->
-- [ ] C) reservation
-  <!-- feedback: Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival. -->
-
-### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
-**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
-
-### Opciones
-- [x] C) layover
-  <!-- feedback: Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue. -->
-- [ ] A) stopover
-  <!-- feedback: Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights. -->
-- [ ] B) transfer
-  <!-- feedback: Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself. -->
-- [ ] D) transit
-  <!-- feedback: Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages. -->
-
-### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
-## Question 13 [D7]
-**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-001-MASTERY-bundle-v13
+## Question 16 [D7]
+**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-v16
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Reading Strategies
+**Expected_Success:** 0.7
+**Contexto:** A reader scans an article for a figure and finds the number twice, once in the body text and once in a summary box.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+What should the reader do before using the figure?
 
 ### Opciones
-- [x] A) currency
-  <!-- feedback: Correct! 'Currency' is the whole monetary system a country uses, not any single object. -->
-- [ ] B) coin
-  <!-- feedback: Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system. -->
-- [ ] C) banknote
-  <!-- feedback: Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country. -->
-- [ ] D) cash
-  <!-- feedback: Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system. -->
+- [x] D) Compare the two occurrences to see whether they refer to the same figure
+  <!-- feedback: A repeated figure may describe different populations or years, and comparing the two guards against a wrong answer. -->
+- [ ] A) Use the first one found, since scanning favours the first match
+  <!-- feedback: Scanning is not a reason to accept whichever match appears first. -->
+- [ ] B) Use the one in the summary box, since summaries are always more accurate
+  <!-- feedback: A summary may condense or round, so it is not automatically the more reliable instance. -->
+- [ ] C) Take whichever number is larger
+  <!-- feedback: Selecting by magnitude has no basis in any reading principle. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+Scanning locates candidates; it does not certify them. The final step of a scan is always a check that the located text answers the question that was asked.
 ---
-## Question 14 [D8]
-**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-001-MASTERY-bundle-v14
+## Question 17 [D7]
+**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-v17
+**Bloom:** Understand
+**EJE:** Reading Strategies
+**Expected_Success:** 0.7
+**Contexto:** An article is written entirely in the past tense and describes events that finished years ago.
+
+### Enunciado
+Which strategy is most suitable for a reader who must extract the sequence of those events?
+
+### Opciones
+- [x] D) Close reading, because order and causal links must be tracked precisely
+  <!-- feedback: Tracing the order of several events requires understanding how the sentences relate to one another. -->
+- [ ] A) Fast scanning, because a single date answers the question
+  <!-- feedback: Scanning suits an isolated fact such as a date, not a chain of events. -->
+- [ ] B) Skimming the title, because titles summarise long texts
+  <!-- feedback: A title names the subject and does not carry the sequence of events. -->
+- [ ] C) Reading only the final paragraph, because it repeats the sequence
+  <!-- feedback: A conclusion may summarise the outcome but does not list the whole sequence. -->
+
+### Explicacion Pedagogica
+Choosing a strategy means matching the demand of the question to the kind of reading it requires. Sequence and causation are demands that scanning cannot meet.
+---
+## Question 18 [D7]
+**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-v18
+**Bloom:** Evaluate
+**EJE:** Reading Strategies
+**Expected_Success:** 0.7
+**Contexto:** A student is told to skim a chapter before reading it closely. The student reads the first two pages word by word instead.
+
+### Enunciado
+What is lost by this choice?
+
+### Opciones
+- [x] A) The overview of the structure that would guide the closer reading
+  <!-- feedback: The point of skimming is to map the text first, and without that map the close reading loses its bearings. -->
+- [ ] B) Nothing, because careful reading is always sufficient
+  <!-- feedback: Close reading alone can work, but the staged approach is faster and reduces the risk of missing sections. -->
+- [ ] C) The ability to pronounce the words correctly
+  <!-- feedback: Pronunciation is not part of a reading strategy for a printed text. -->
+- [ ] D) The list of difficult vocabulary items
+  <!-- feedback: Vocabulary work accompanies close reading and is not the purpose of skimming. -->
+
+### Explicacion Pedagogica
+Skimming and close reading are complementary, not alternatives. The overview tells the reader where the argument develops, which is what makes the second pass efficient.
+---
+## Question 19 [D7]
+**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-v19
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Reading Strategies
+**Expected_Success:** 0.7
+**Contexto:** A manual is organised into numbered sections, and a technician must apply the safety procedure described in one of them.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Which approach best fits this task?
 
 ### Opciones
-- [x] C) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book written about a place to help visitors find their way around it. -->
-- [ ] A) map
-  <!-- feedback: Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place. -->
-- [ ] B) dictionary
-  <!-- feedback: Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination. -->
-- [ ] D) encyclopedia
-  <!-- feedback: Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place. -->
+- [x] C) Skim to find the section that covers safety, then read that section closely
+  <!-- feedback: Locating the relevant section first and reading it in full combines the speed of skimming with the accuracy required for a procedure. -->
+- [ ] D) Read the whole manual closely from the first page
+  <!-- feedback: Reading the entire manual closely is unnecessary when the layout identifies where the procedure sits. -->
+- [ ] A) Scan for the word safety and act on the first sentence that contains it
+  <!-- feedback: Acting on the first sentence containing the word would bypass the details that make a procedure safe. -->
+- [ ] B) Read only the index at the back
+  <!-- feedback: The index may name the section but contains no instructions to follow. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Most real reading combines strategies: a fast pass to find the territory and a careful pass inside it. Procedural texts make this pattern unavoidable.
 ---
-## Question 15 [D7]
-**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
-
-### Opciones
-- [x] D) backpack
-  <!-- feedback: Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you. -->
-- [ ] B) briefcase
-  <!-- feedback: Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work. -->
-- [ ] C) handbag
-  <!-- feedback: Wrong. A 'handbag' is held in the hand and has no straps at all. -->
-
-### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
----
-## Question 16 [D8]
-**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
-
-### Opciones
-- [x] B) overseas
-  <!-- feedback: Correct! 'Overseas' means to or in another country reached by crossing the sea. -->
-- [ ] A) domestic
-  <!-- feedback: Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: Wrong. 'Local' means in a particular small area or town, which may well be inside your own country. -->
-- [ ] D) national
-  <!-- feedback: Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea. -->
-
-### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
----
-## Question 17 [D9]
-**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-001-MASTERY-bundle-v17
+## Question 20 [D7]
+**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Reading Strategies
+**Expected_Success:** 0.7
+**Contexto:** A student prepares for an exam with forty questions on six separate articles and no indication of where each answer appears.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+What preparation strategy is most rational?
 
 ### Opciones
-- [x] A) budget
-  <!-- feedback: Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year. -->
-- [ ] B) expense
-  <!-- feedback: Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period. -->
-- [ ] C) cost
-  <!-- feedback: Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it. -->
-- [ ] D) price
-  <!-- feedback: Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances. -->
+- [x] D) Skim each article once for its structure, then scan each question's article for its specific answer
+  <!-- feedback: An initial skim supplies a map of each article, after which a targeted scan per question is the efficient combination. -->
+- [ ] A) Read all six articles closely three times before beginning
+  <!-- feedback: Three close readings of six articles would consume far more time than the exam itself. -->
+- [ ] B) Scan randomly and hope to find each answer
+  <!-- feedback: Random scanning has no system and cannot be relied on for forty separate questions. -->
+- [ ] C) Memorise the first paragraph of each article
+  <!-- feedback: Answers are distributed through the articles, so one paragraph cannot supply forty answers. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
----
-## Question 18 [D10]
-**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
-
-### Opciones
-- [x] B) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death. -->
-- [ ] C) guarantee
-  <!-- feedback: Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium. -->
-- [ ] D) policy
-  <!-- feedback: Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself. -->
-
-### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
----
-## Question 19 [D9]
-**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
-
-### Opciones
-- [x] A) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease. -->
-- [ ] B) medication
-  <!-- feedback: Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand. -->
-- [ ] C) prescription
-  <!-- feedback: Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it. -->
-
-### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
----
-## Question 20 [D10]
-**ID:** CR-ING-11-2026-W13-reading-strategies-scanning-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
-
-### Opciones
-- [x] C) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight. -->
-- [ ] A) fatigue
-  <!-- feedback: Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone. -->
-- [ ] D) insomnia
-  <!-- feedback: Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying. -->
-
-### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+When the source of each answer is unknown, a brief orientation pass pays for itself many times over. This final item combines the two strategies in the order that a skilled reader actually uses them.

@@ -17,466 +17,509 @@ tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
 ---
-# MASTERY Bundle - Ingles: Emphasis Cleft Sentences (W26)
-**20 preguntas | Ingles | Curriculo de Ingles**
+# Bundle MASTERY: Emphasis Cleft Sentences - Grado 11
+
+Este bundle contiene 20 preguntas sobre **emphasis-cleft-sentences** para grado 11,
+alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 
 ---
+
 ## Question 1 [D3]
 **ID:** CR-ING-11-2026-W26-emphasis-cleft-sentences-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
-
-### Opciones
-- [x] C) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home. -->
-- [ ] A) transportation
-  <!-- feedback: Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay. -->
-- [ ] B) entertainment
-  <!-- feedback: Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep. -->
-- [ ] D) currency
-  <!-- feedback: Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging. -->
-
-### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
-## Question 2 [D4]
-**ID:** CR-ING-11-2026-W26-emphasis-cleft-sentences-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] D) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way. -->
-- [ ] A) baggage
-  <!-- feedback: Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route. -->
-- [ ] C) passport
-  <!-- feedback: Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
-**ID:** CR-ING-11-2026-W26-emphasis-cleft-sentences-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A teacher at a Heredia high school notices a student who never speaks in class.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+What does the cleft sentence "It was fear that kept Diego silent" emphasize?
 
 ### Opciones
-- [x] D) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going to or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip. -->
-- [ ] B) arrival
-  <!-- feedback: Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to. -->
-- [ ] C) journey
-  <!-- feedback: Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it. -->
+- [x] A) That fear, and not shyness, was the reason Diego stayed quiet.
+  <!-- feedback: Correct! A cleft sentence splits the given and the new information so that the element after 'that' becomes the focus of the message. -->
+- [ ] B) That Diego was silent, with no reason given at all.
+  <!-- feedback: The cleft always names a cause, so it does not leave the reason out; here the reason is stated explicitly. -->
+- [ ] C) That fear is a feeling that nobody can explain.
+  <!-- feedback: The structure says nothing about whether fear can be explained; it only assigns the role of cause. -->
+- [ ] D) That the silence happened before fear was felt.
+  <!-- feedback: The sentence describes the cause of the silence, not the order in which fear and silence appeared. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+The cleft pattern 'It was X that Y' exists to correct a listener's assumption. The part after 'that' carries the new information, while the rest of the sentence keeps the shared background.
+
 ---
+
+## Question 2 [D3]
+**ID:** CR-ING-11-2026-W26-emphasis-cleft-sentences-001-MASTERY-bundle-v2
+**Bloom:** Apply
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A newspaper corrects the impression given by a short report about a new hospital.
+
+### Enunciado
+The article said "The new wing opened last year." Rewrite it as an emphasis cleft:
+
+### Opciones
+- [ ] A) Last year, the new wing was opened in the capital.
+  <!-- feedback: This only moves the time to the front; it does not build the cleft frame at all. -->
+- [ ] B) The new wing was what opened last year in the capital.
+  <!-- feedback: 'Was what opened' is a pseudo-cleft built on 'what', and it keeps 'last year' in a weak position. -->
+- [x] C) It was last year that the new wing opened in the capital.
+  <!-- feedback: Correct! The cleft places 'last year' after 'that', making the time the element the reader focuses on. -->
+- [ ] D) It was the new wing that opened in the capital last year.
+  <!-- feedback: This cleft stresses the wing instead of the date, so it answers a different question than the one intended. -->
+
+### Explicacion Pedagogica
+Cleft sentences move whichever element matters into the focus slot after 'that'. Choosing 'It was last year that' keeps the action in the background and highlights the time, which is exactly what the correction requires.
+
+---
+
+## Question 3 [D4]
+**ID:** CR-ING-11-2026-W26-emphasis-cleft-sentences-001-MASTERY-bundle-v3
+**Bloom:** Apply
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** Two colleagues argue about who repaired the school roof.
+
+### Enunciado
+Which sentence stresses the person responsible rather than the repair itself?
+
+### Opciones
+- [ ] A) The roof of the school was repaired last month.
+  <!-- feedback: This is a plain passive with no emphasis structure, so the agent disappears from the message. -->
+- [x] B) It was Mr. Vargas who repaired the roof of the school.
+  <!-- feedback: Correct! The cleft frame with 'who' places the agent in the focus position and makes him the new information. -->
+- [ ] C) It was the roof of the school that Mr. Vargas repaired.
+  <!-- feedback: Here the focus falls on the roof, which was already obvious, so the agent is buried in the background. -->
+- [ ] D) Mr. Vargas repaired the roof of the school last month.
+  <!-- feedback: The agent is in subject position, but no cleft structure directs the reader's attention to him. -->
+
+### Explicacion Pedagogica
+A cleft sentence is chosen for what it highlights. When the responsible person is the point, the pattern is 'It was somebody who did something', which puts that person where the listener's attention lands.
+
+---
+
 ## Question 4 [D4]
 **ID:** CR-ING-11-2026-W26-emphasis-cleft-sentences-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** An editor reviews a sentence that seems to lack emphasis.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Why is "I didn't get the scholarship" weak compared with "What I got was the scholarship"?
 
 ### Opciones
-- [x] D) luggage
-  <!-- feedback: Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in. -->
-- [ ] A) ticket
-  <!-- feedback: Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack. -->
-- [ ] B) flight
-  <!-- feedback: Wrong. A 'flight' is the journey by plane itself, not the bags carried on it. -->
-- [ ] C) reservation
-  <!-- feedback: Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself. -->
+- [ ] A) Because the first sentence contains a negation, which is always ungrammatical.
+  <!-- feedback: Negation is fully grammatical; it simply does not help the reader see what the emphasis should be. -->
+- [ ] B) Because the second sentence changes the meaning of the word 'scholarship'.
+  <!-- feedback: Both sentences refer to the same prize, so the noun has not changed its meaning at all. -->
+- [ ] C) Because the first sentence is too short to carry a complete message.
+  <!-- feedback: Length is not what makes a sentence clear, and eleven words are enough for a complete message. -->
+- [x] D) Because the second uses the what-cleft to put the focus on what was obtained.
+  <!-- feedback: Correct! The what-cleft isolates the obtained element as the focus, which the negative statement leaves buried. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+The what-cleft pattern 'What X was Y' works like a spotlight. Whatever is named after 'What X was' becomes the only element the reader is expected to retain from the sentence.
+
 ---
+
 ## Question 5 [D5]
 **ID:** CR-ING-11-2026-W26-emphasis-cleft-sentences-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A linguistics student studies how English corrects an expected answer.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Which pair shows a question and its correct answer in cleft form?
 
 ### Opciones
-- [x] D) passenger
-  <!-- feedback: Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it. -->
-- [ ] A) pedestrian
-  <!-- feedback: Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all. -->
-- [ ] B) commuter
-  <!-- feedback: Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general. -->
-- [ ] C) tourist
-  <!-- feedback: Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle. -->
+- [ ] A) "When did you finish?" - "It was at noon that I finished it."
+  <!-- feedback: This cleft answers a question about the cause, because it emphasizes 'because I was tired', not the time. -->
+- [ ] B) "Why did you leave?" - "It was because I was tired that I left."
+  <!-- feedback: The cleft here emphasizes the reason, which is correct for the 'why' question. -->
+- [x] C) "What did you write?" - "It was the letter that I wrote."
+  <!-- feedback: Correct! The original question asks what the action produced, and this cleft names exactly that thing. -->
+- [ ] D) "Who paid the bill?" - "It was the bill that I paid."
+  <!-- feedback: The focus lands on the bill, which answers a question about the object acted upon, not about the person paying. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+A cleft answers the same question as the original sentence while relocating the emphasis. Matching them requires checking which element the question asks about, then putting that same element in the cleft focus.
+
 ---
-## Question 6 [D6]
+
+## Question 6 [D5]
 **ID:** CR-ING-11-2026-W26-emphasis-cleft-sentences-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A professor demonstrates how much of a message a listener keeps.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+In "It was in Limon that she spent her childhood", what is the new information?
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad. -->
-- [ ] B) security
-  <!-- feedback: Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods. -->
-- [ ] C) terminal
-  <!-- feedback: Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports. -->
-- [ ] D) gate
-  <!-- feedback: Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself. -->
+- [ ] A) That she spent part of her childhood somewhere.
+  <!-- feedback: This is too general; the cleft is built precisely to say more than the listener could already assume. -->
+- [x] B) That the place where she spent her childhood was Limon.
+  <!-- feedback: Correct! The focus slot after 'that' names the place, so the place is what the sentence updates in the listener's mind. -->
+- [ ] C) That Limon is a place where children often live.
+  <!-- feedback: The sentence makes a claim about her, not a generalization about children in Limon. -->
+- [ ] D) That she does not live in Limon anymore.
+  <!-- feedback: Nothing in the sentence mentions her present address, so no conclusion about moving away is supported. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+The background of a cleft is assumed to be shared already, so the focus must carry the genuinely new element. Naming the place after 'that' tells the listener which piece of information the writer is correcting.
+
 ---
-## Question 7 [D5]
+
+## Question 7 [D6]
 **ID:** CR-ING-11-2026-W26-emphasis-cleft-sentences-001-MASTERY-bundle-v7
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student compares a cleft sentence with an ordinary one in a written exam.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Which statement about cleft sentences is accurate?
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel. -->
-- [ ] B) receipt
-  <!-- feedback: Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft. -->
-- [ ] C) brochure
-  <!-- feedback: Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding. -->
+- [x] A) They keep the same propositional content as the plain sentence but move the emphasis.
+  <!-- feedback: Correct! A cleft preserves what is asserted and changes only which part of it the reader attends to. -->
+- [ ] B) They add new facts that the plain sentence does not contain.
+  <!-- feedback: Adding information would make it a different sentence, whereas a cleft only reorganizes the same claim. -->
+- [ ] C) They can only be used with past-tense verbs in formal writing.
+  <!-- feedback: Clefts work in every tense and in speech as well as in writing, so the tense restriction is invented. -->
+- [ ] D) They are always longer than the ordinary sentence they replace.
+  <!-- feedback: The extra words are grammatical function words, and the real length varies with the element being focused. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Cleft sentences are a focusing device, not an expansion device. The assertion stays the same while the information structure changes, which is why they are so frequent in speech corrections and written emphasis.
+
 ---
+
 ## Question 8 [D6]
 **ID:** CR-ING-11-2026-W26-emphasis-cleft-sentences-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A guide explains a route where two walks begin at the same square.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Rewrite for emphasis: "Only after the church do the two trails diverge."
 
 ### Opciones
-- [x] B) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor. -->
-- [ ] A) shopping
-  <!-- feedback: Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest. -->
-- [ ] C) hiking
-  <!-- feedback: Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location. -->
-- [ ] D) camping
-  <!-- feedback: Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest. -->
+- [ ] A) It was the two trails that diverged only after the church.
+  <!-- feedback: This cleft focuses the trails themselves, so the timing of the divergence is left in the background. -->
+- [ ] B) The two trails diverged only after the church was passed.
+  <!-- feedback: This is a plain passive, and 'was passed' also adds a passive meaning the original never had. -->
+- [ ] C) After the church, the two trails were the ones that diverged.
+  <!-- feedback: Moving 'after the church' to the front stresses the place, not the fact that the order of events matters. -->
+- [x] D) It was only after the church that the two trails diverged.
+  <!-- feedback: Correct! 'Only' stays inside the focus, so the cleft emphasises exactly the restriction on the timing. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Focus adverbs such as 'only', 'even' and 'just' normally sit inside the cleft focus. Placing them after 'that' preserves the narrowness of the original claim while the cleft supplies the emphasis.
+
 ---
-## Question 9 [D5]
+
+## Question 9 [D7]
 **ID:** CR-ING-11-2026-W26-emphasis-cleft-sentences-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A writing teacher evaluates a paragraph that keeps repeating the same word.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Why is "What I want is more practice" usually preferred over "I want more practice"?
 
 ### Opciones
-- [x] A) souvenir
-  <!-- feedback: Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it. -->
-- [ ] B) gift
-  <!-- feedback: Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller. -->
-- [ ] C) award
-  <!-- feedback: Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip. -->
-- [ ] D) prize
-  <!-- feedback: Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey. -->
+- [ ] A) Because the what-cleft is required after the verb 'want' in English.
+  <!-- feedback: No such rule exists; a plain clause after 'want' is perfectly grammatical and is in fact more common. -->
+- [ ] B) Because the plain sentence is grammatically incorrect without a relative clause.
+  <!-- feedback: The plain sentence is correct, and no relative clause is needed at all to make it well formed. -->
+- [x] C) Because the cleft places the wanted thing in the focus slot and gives the message a deliberate rhythm.
+  <!-- feedback: Correct! The cleft singles out what is wanted, and the parallel of 'What ... is ...' gives the line a marked emphasis. -->
+- [ ] D) Because the what-cleft shortens the message and removes the verb 'want' from the sentence.
+  <!-- feedback: The what-cleft keeps the verb 'want' inside the sentence, so it removes nothing and adds words instead. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+Writers choose a what-cleft when a plain statement sounds flat or when a particular element must dominate. The pattern is marked rather than neutral, which is precisely why it is avoided in every sentence of ordinary prose.
+
 ---
-## Question 10 [D6]
+
+## Question 10 [D8]
 **ID:** CR-ING-11-2026-W26-emphasis-cleft-sentences-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** An editor reviews a headline for a story about school transport.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Which headline uses the cleft correctly to correct a mistaken assumption?
 
 ### Opciones
-- [x] C) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours. -->
-- [ ] B) departure
-  <!-- feedback: Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it. -->
-- [ ] D) arrival
-  <!-- feedback: Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late. -->
+- [ ] A) The students who live in Santa Ana walk to school.
+  <!-- feedback: This states a fact with no emphasis structure, so it corrects nothing in the reader's mind. -->
+- [x] B) It was the distance, not the roads, that made the walk hard.
+  <!-- feedback: Correct! The cleft names the real cause and explicitly rejects the assumption that roads were the problem. -->
+- [ ] C) The walk to school was hard because of the distance.
+  <!-- feedback: This gives the same cause as a plain subordinate clause, with no correction of the reader's assumption. -->
+- [ ] D) What made the walk hard was the students who live in Santa Ana.
+  <!-- feedback: This focuses the students, which answers a different question from the one about what made the walk hard. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+A correcting cleft frequently pairs the focus with its opposite, as in 'It was X, not Y, that'. The contrast is what tells the reader the assumption that was being made and what replaces it.
+
 ---
+
 ## Question 11 [D7]
 **ID:** CR-ING-11-2026-W26-emphasis-cleft-sentences-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student checks whether a cleft keeps the same propositional content.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Compare "She wrote the report" and "It was the report that she wrote." What changes?
 
 ### Opciones
-- [x] D) check-in
-  <!-- feedback: Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass. -->
-- [ ] A) check-out
-  <!-- feedback: Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving. -->
-- [ ] B) booking
-  <!-- feedback: Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival. -->
-- [ ] C) reservation
-  <!-- feedback: Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival. -->
+- [ ] A) The agent changes, because the subject moves out of the first position.
+  <!-- feedback: The agent is named in the cleft clause, so she is exactly as clear in both sentences. -->
+- [x] B) Only the emphasis changes; both sentences assert the same facts.
+  <!-- feedback: Correct! A cleft reorganises the information without adding or removing any proposition. -->
+- [ ] C) The tense changes, because the cleft form cannot keep the present simple.
+  <!-- feedback: The cleft works with any tense, so the present simple is fully preserved. -->
+- [ ] D) A new fact appears, because the cleft reports an intention the plain sentence lacks.
+  <!-- feedback: Nothing in either sentence speaks about intentions, so no new fact can be read into the cleft. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+What makes cleft sentences valuable for correction is that they change the information structure without changing the content. That is the test any well-formed cleft must pass: same propositions, different focus.
+
 ---
+
 ## Question 12 [D8]
 **ID:** CR-ING-11-2026-W26-emphasis-cleft-sentences-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** An oral exam candidate must correct a misunderstanding about a museum visit.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+A visitor assumed the tour was optional. Which correction is the best cleft?
 
 ### Opciones
-- [x] B) layover
-  <!-- feedback: Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue. -->
-- [ ] A) stopover
-  <!-- feedback: Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights. -->
-- [ ] C) transfer
-  <!-- feedback: Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself. -->
-- [ ] D) transit
-  <!-- feedback: Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages. -->
+- [x] A) It was compulsory that every visitor join the guided tour.
+  <!-- feedback: Correct! This cleft puts the compulsory nature in the focus slot, which is exactly the assumption the reader must drop. -->
+- [ ] B) The guided tour was compulsory for every visitor.
+  <!-- feedback: This states the same fact as a plain sentence, so the visitor's mistaken assumption is not explicitly corrected. -->
+- [ ] C) Every visitor had to join the guided tour, it was compulsory.
+  <!-- feedback: Repeating the statement in two clauses adds no contrast, so it does not function as a correction. -->
+- [ ] D) It was the guided tour that every visitor might skip.
+  <!-- feedback: 'Might skip' reverses the meaning and would confirm the very assumption the speaker is denying. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+To correct an assumption, the cleft must focus the very proposition that contradicts it. The ordinary declarative carries the fact but not the corrective force, and a negated version of the wrong assumption would be worse than silence.
+
 ---
-## Question 13 [D7]
+
+## Question 13 [D8]
 **ID:** CR-ING-11-2026-W26-emphasis-cleft-sentences-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A grammar reference explains the pattern 'It is X that' for a school audience.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Which element can NOT be moved into the focus slot of an it-cleft?
 
 ### Opciones
-- [x] C) currency
-  <!-- feedback: Correct! 'Currency' is the whole monetary system a country uses, not any single object. -->
-- [ ] A) coin
-  <!-- feedback: Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system. -->
-- [ ] B) banknote
-  <!-- feedback: Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country. -->
-- [ ] D) cash
-  <!-- feedback: Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system. -->
+- [ ] A) A subject: "It was Maria who called."
+  <!-- feedback: Subjects move into the cleft focus without difficulty, as in the it-cleft with 'who' or 'that'. -->
+- [ ] B) An object: "It was the medal that she won."
+  <!-- feedback: Objects are the commonest focus in cleft sentences, which is exactly how they correct a wrong assumption. -->
+- [ ] C) An adverbial of time: "It was in 1990 that they moved."
+  <!-- feedback: Time expressions sit comfortably after 'that', which is how a writer stresses a date rather than an event. -->
+- [x] D) A following verb phrase by itself, with its subject left out: "It was ran that they did."
+  <!-- feedback: Correct! A verb cannot be focused on its own: the cleft always needs a subject in that clause, as in 'It was running that she did'. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+The focus slot accepts a subject, an object or an adverbial. It does not accept a bare verb phrase, because the relative clause after 'that' requires a subject, and English will not leave that subject out.
+
 ---
-## Question 14 [D8]
+
+## Question 14 [D9]
 **ID:** CR-ING-11-2026-W26-emphasis-cleft-sentences-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A linguistics seminar compares clefts with existential 'there' sentences.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+How does "There is a problem with the schedule" differ from "It is the schedule that has a problem"?
 
 ### Opciones
-- [x] B) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book written about a place to help visitors find their way around it. -->
-- [ ] A) map
-  <!-- feedback: Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place. -->
-- [ ] C) dictionary
-  <!-- feedback: Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination. -->
-- [ ] D) encyclopedia
-  <!-- feedback: Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place. -->
+- [ ] A) They are interchangeable, because both say a problem exists somewhere.
+  <!-- feedback: They are not interchangeable, since the second rejects the assumption that the schedule itself was the problem. -->
+- [ ] B) The first names the problem and the second names the schedule as the thing that is problematic.
+  <!-- feedback: Both sentences name the schedule, but the first makes no claim about what is wrong with it. -->
+- [x] C) The first introduces a new entity, while the second presupposes one and highlights the schedule.
+  <!-- feedback: Correct! An existential 'there' sentence presents the problem as newly given, while the cleft takes the schedule as shared and makes it the focus. -->
+- [ ] D) The first is a question and the second is an answer about the same topic.
+  <!-- feedback: Neither sentence is a question; the difference lies in information structure, not in the speech act involved. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Existential 'there' introduces something the listener did not have in mind. A cleft does the opposite: it accepts that the surrounding information is shared and corrects only which element should carry the message.
+
 ---
-## Question 15 [D7]
+
+## Question 15 [D10]
 **ID:** CR-ING-11-2026-W26-emphasis-cleft-sentences-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** An exam candidate must justify using a cleft in a formal report.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Which claim about cleft sentences is correct and complete?
 
 ### Opciones
-- [x] B) backpack
-  <!-- feedback: Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you. -->
-- [ ] C) briefcase
-  <!-- feedback: Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: Wrong. A 'handbag' is held in the hand and has no straps at all. -->
+- [ ] A) They are optional decorations that may be added or removed without changing what is said.
+  <!-- feedback: Removing a cleft removes the emphasis and often the correction, so the two forms are not equivalent. -->
+- [ ] B) They are only correct in speech, since written English prefers the unmarked order.
+  <!-- feedback: Cleft sentences are common in formal writing precisely because they carry an explicit corrective force. -->
+- [ ] C) They replace relative clauses, so using one removes the need for a relative pronoun.
+  <!-- feedback: The cleft itself contains a relative clause, so it does not remove the need for a relative pronoun or 'that'. -->
+- [x] D) They mark the element the writer assumes the listener already has, so they are used to correct a shared assumption.
+  <!-- feedback: Correct! The cleft contrasts a background the listener already has with one element placed in the focus to be corrected or stressed. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+The formal account of the cleft rests on the distinction between shared background and focus. Because it encodes that distinction, the cleft is the natural choice whenever the writer must set the reader's expectation straight.
+
 ---
+
 ## Question 16 [D8]
 **ID:** CR-ING-11-2026-W26-emphasis-cleft-sentences-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A teacher asks why a cleft is used in an exam instruction.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Why does an exam sheet say "It was Section B that carried the most marks"?
 
 ### Opciones
-- [x] A) overseas
-  <!-- feedback: Correct! 'Overseas' means to or in another country reached by crossing the sea. -->
-- [ ] B) domestic
-  <!-- feedback: Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: Wrong. 'Local' means in a particular small area or town, which may well be inside your own country. -->
-- [ ] D) national
-  <!-- feedback: Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea. -->
+- [ ] A) Because cleft sentences are shorter and therefore leave more room on the paper.
+  <!-- feedback: Length has nothing to do with it; the sentence is in fact longer than the plain version it replaces. -->
+- [x] B) To correct a likely assumption that the marks were spread evenly across the sections.
+  <!-- feedback: Correct! The cleft corrects the reader's expectation by putting the section in the focus position. -->
+- [ ] C) Because passive voice is forbidden in any formal document.
+  <!-- feedback: No such prohibition exists, and the sentence uses no passive at all. -->
+- [ ] D) Because the number of marks can only be expressed in a cleft structure.
+  <!-- feedback: A cleft focus must be a noun phrase, phrase or adverbial, and never the bare conjunction 'that'. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+Exam instructions are read by many candidates who may all assume something similar. The cleft is the format that lets the writer single out the one element that breaks that assumption without restating everything.
+
 ---
+
 ## Question 17 [D9]
 **ID:** CR-ING-11-2026-W26-emphasis-cleft-sentences-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student is asked to rewrite a plain sentence without losing the emphasis.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Keep the emphasis on the cause in "The rain caused the cancellation."
 
 ### Opciones
-- [x] A) budget
-  <!-- feedback: Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year. -->
-- [ ] B) expense
-  <!-- feedback: Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period. -->
-- [ ] C) cost
-  <!-- feedback: Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it. -->
-- [ ] D) price
-  <!-- feedback: Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances. -->
+- [ ] A) It was caused the rain that the cancellation.
+  <!-- feedback: The word order is broken, since 'caused' must stay in the relative clause and the focus must be a noun phrase. -->
+- [ ] B) The rain it was that caused the cancellation.
+  <!-- feedback: The subject pronoun 'it' can only fill the empty subject of the cleft, never the focus slot. -->
+- [x] C) It was the rain that caused the cancellation.
+  <!-- feedback: Correct! The focus slot after 'that' receives the noun phrase naming the cause, with the rest as background. -->
+- [ ] D) It was that the rain caused the cancellation.
+  <!-- feedback: A cleft focus must be a noun phrase, phrase or adverbial, never the bare conjunction 'that'. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+The mechanical shape of the it-cleft leaves exactly three pieces: the frame, the focus and the remainder. Placing the cause in the focus slot and the action in the remainder is what preserves the original emphasis.
+
 ---
-## Question 18 [D10]
+
+## Question 18 [D9]
 **ID:** CR-ING-11-2026-W26-emphasis-cleft-sentences-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A translator compares two English versions of a Spanish emphasis construction.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Which sentence best preserves a Spanish emphatic focus on the subject of the action?
 
 ### Opciones
-- [x] A) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium. -->
-- [ ] B) warranty
-  <!-- feedback: Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death. -->
-- [ ] C) guarantee
-  <!-- feedback: Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium. -->
-- [ ] D) policy
-  <!-- feedback: Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself. -->
+- [ ] A) Was it Carlos who fixed the printer yesterday?
+  <!-- feedback: A tag question is a different device: it seeks confirmation instead of asserting the focus. -->
+- [ ] B) Carlos did fix the printer yesterday.
+  <!-- feedback: 'Did fix' is a mild intensifier on the adverb, not a structure that isolates the subject. -->
+- [ ] C) Carlos fixed the printer yesterday.
+  <!-- feedback: This is the unmarked order, so the subject receives no special attention at all. -->
+- [x] D) It was Carlos who fixed the printer yesterday.
+  <!-- feedback: Correct! The cleft places the name in the focus position, which is the standard English way to mark a subject as the emphasised element. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+Spanish has its own emphatic particles, and English marks that emphasis either with a cleft or with a tag question. The cleft is the fuller device, because it explicitly contrasts what the listener expects with what is being asserted.
+
 ---
-## Question 19 [D9]
+
+## Question 19 [D10]
 **ID:** CR-ING-11-2026-W26-emphasis-cleft-sentences-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** An advanced linguistics class compares cleft patterns systematically.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which comparison between it-cleft and what-cleft is correct?
 
 ### Opciones
-- [x] B) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease. -->
-- [ ] A) medication
-  <!-- feedback: Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand. -->
-- [ ] C) prescription
-  <!-- feedback: Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it. -->
+- [x] A) The it-cleft uses 'It is X that', while the what-cleft uses 'What X was', and both focus one element.
+  <!-- feedback: Correct! Both patterns isolate a single element, and the choice between them is driven by register and rhythm rather than by what can be focused. -->
+- [ ] B) Only the it-cleft can be used with a subject; the what-cleft is restricted to objects.
+  <!-- feedback: Both patterns accept subjects, objects and adverbials, so the restriction invented here does not exist. -->
+- [ ] C) The what-cleft requires a question form, and the it-cleft requires an exclamation.
+  <!-- feedback: Neither pattern requires a question or an exclamation; both are ordinary declarative statements. -->
+- [ ] D) They are dialectal variants with no difference in the information they carry.
+  <!-- feedback: The two are not dialect variants: they carry different presuppositions about what the listener already knows. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+The two main cleft patterns differ in form but share a function. Both are bounded focusing devices that pick one element out of an otherwise unchanged clause, and choosing between them is a matter of style rather than of possibility.
+
 ---
+
 ## Question 20 [D10]
 **ID:** CR-ING-11-2026-W26-emphasis-cleft-sentences-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A candidate must spot the error in an exam essay that uses clefts badly.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which criticism of a cleft sentence is valid? "What I needed was more time, and what I used was not enough of it."
 
 ### Opciones
-- [x] B) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight. -->
-- [ ] A) fatigue
-  <!-- feedback: Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone. -->
-- [ ] D) insomnia
-  <!-- feedback: Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying. -->
+- [ ] A) The sentence is invalid because it places two what-clefts in a single sentence.
+  <!-- feedback: There is no rule against two clefts in a sentence, so the claim about validity is false. -->
+- [x] B) Using clefts in both halves repeats the same device and weakens the emphasis by making it predictable.
+  <!-- feedback: Correct! A marked device used twice in a row stops marking anything, so the emphasis is spent on the pattern instead of the content. -->
+- [ ] C) The sentence is invalid because the verb 'needed' cannot appear inside a what-cleft.
+  <!-- feedback: 'Needed' works normally inside the what-cleft, as in 'What I needed was rest'. -->
+- [ ] D) The sentence is invalid because a what-cleft must contain a question word other than 'what'.
+  <!-- feedback: The word 'what' is itself the required opener, so no other question word is involved. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Emphasis devices work by contrast with unmarked language. When a writer reaches for the same marked pattern twice in one sentence, the second occurrence stops carrying contrast and the emphasis on the content is lost.
+
+---

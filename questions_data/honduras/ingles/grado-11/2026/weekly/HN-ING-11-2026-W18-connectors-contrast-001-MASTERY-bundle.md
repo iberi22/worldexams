@@ -21,462 +21,462 @@ bundle_index: 1
 **20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
-## Question 1 [D3]
+## Question 1 [D2]
 **ID:** HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The connector that contrasts two ideas of equal weight.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+The route was long, ___ the views from the top were unforgettable.
 
 ### Opciones
-- [x] C) accommodation
-  <!-- feedback: 'accommodation' is the word for a place where you live or stay, including on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' means the way you travel, such as buses or planes, not where you stay. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' is the activity of enjoying shows, films or games, not a place to live. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money of a country, such as the colon; a place to stay is not money. -->
+- [x] A) but
+  <!-- feedback: Correct! But contrasts two complete statements that are both true and equally important. -->
+- [ ] B) because
+  <!-- feedback: Because gives a reason, and the views are not the cause of the long route. -->
+- [ ] C) so
+  <!-- feedback: So gives a result, and the views did not follow from the length of the route. -->
+- [ ] D) and
+  <!-- feedback: And simply adds, whereas the sentence sets the two ideas against each other. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+But and although do the same job with a different weight. But gives both ideas equal emphasis, while although makes the second one less important.
 ---
-## Question 2 [D4]
+## Question 2 [D3]
 **ID:** HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The connector that makes the second idea less important than the first.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+___ it was raining heavily, the match went ahead.
 
 ### Opciones
-- [x] D) itinerary
-  <!-- feedback: 'itinerary' is a detailed plan of a journey, listing the route and the stops along the way. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'destination' is only the place you are going to; the plan of the route is the itinerary. -->
-- [ ] C) passport
-  <!-- feedback: 'passport' is the travel document you show at the border, not the plan of a journey. -->
+- [x] B) Although
+  <!-- feedback: Correct! Although introduces the concession and makes it less important than the main clause. -->
+- [ ] A) Because
+  <!-- feedback: Because gives a reason, and the rain is not what caused the match to go ahead. -->
+- [ ] C) However
+  <!-- feedback: However needs a full clause after it, and a bare clause after it is not a correct use in this position. -->
+- [ ] D) So
+  <!-- feedback: So introduces a result, and the sentence gives no result of the rain. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+Although, though, even though and while all introduce a concession. They signal that the second idea is true but less important than the first.
 ---
-## Question 3 [D3]
+## Question 3 [D2]
 **ID:** HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The connector that gives a result.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+She studied for hours, ___ she passed with the highest mark.
 
 ### Opciones
-- [x] B) destination
-  <!-- feedback: 'destination' names the place a person or thing is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the action of leaving, not the place you leave for. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the moment of reaching a place, not the place itself. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, not the place at the end of it. -->
+- [x] C) so
+  <!-- feedback: Correct! So introduces the result that follows from what came before. -->
+- [ ] A) but
+  <!-- feedback: But would contrast the two clauses, and the second is a result of the first rather than an opposite idea. -->
+- [ ] B) or
+  <!-- feedback: Or introduces a choice or an alternative, and there is no choice being offered. -->
+- [ ] D) because
+  <!-- feedback: Because gives a reason and would need to introduce the first clause instead. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+So, therefore and as a result all signal consequence. The first clause is the cause and the second is what followed from it.
 ---
-## Question 4 [D4]
+## Question 4 [D3]
 **ID:** HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The contrastive adverb used with a full stop or a comma.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+The exam was difficult. ___, most students passed.
 
 ### Opciones
-- [x] B) luggage
-  <!-- feedback: 'luggage' is the collective word for the suitcases and bags you pack for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'ticket' is the document you buy that admits you to the journey. -->
-- [ ] C) flight
-  <!-- feedback: 'flight' is the plane or the scheduled trip itself, not the bags you carry. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the booking you hold for a seat or a room. -->
+- [x] D) However
+  <!-- feedback: Correct! However is a connector word and needs punctuation around it when it stands between two sentences. -->
+- [ ] A) Although
+  <!-- feedback: Although introduces a subordinate clause, and there is no second clause to attach it to here. -->
+- [ ] B) Therefore
+  <!-- feedback: Therefore signals a result, but the second statement is the opposite of what the first suggests. -->
+- [ ] C) Otherwise
+  <!-- feedback: Otherwise introduces an alternative that would happen instead, which is not the relationship here. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+However, therefore and otherwise are adverbs rather than conjunctions. They are followed by a comma or a full stop and then a new statement.
 ---
-## Question 5 [D5]
+## Question 5 [D3]
 **ID:** HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The connector that gives a reason at the start of a sentence.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+___ we left early, we missed the last bus.
 
 ### Opciones
-- [x] C) passenger
-  <!-- feedback: 'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, not on a bus, a train or a plane. -->
-- [ ] B) commuter
-  <!-- feedback: 'commuter' is someone who travels regularly between home and work, a narrower idea than passenger. -->
-- [ ] D) tourist
-  <!-- feedback: 'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew. -->
+- [x] A) Because
+  <!-- feedback: Correct! Because introduces the reason and takes a full clause after it. -->
+- [ ] B) Although
+  <!-- feedback: Although introduces a concession, and leaving early is the reason rather than a contrast. -->
+- [ ] C) Unless
+  <!-- feedback: Unless introduces a condition and needs a main clause, which this sentence does not have. -->
+- [ ] D) Otherwise
+  <!-- feedback: Otherwise introduces an alternative outcome and cannot stand as the only clause in a sentence. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+Because, since and as introduce a reason. Since and as are lighter than because and are common in speech and in informal writing.
 ---
-## Question 6 [D6]
+## Question 6 [D3]
 **ID:** HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The connector that presents two options of equal value.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+We can travel by bus ___ by plane.
 
 ### Opciones
-- [x] D) customs
-  <!-- feedback: 'customs' is the office where officials check the goods, the luggage and the travellers entering a country. -->
-- [ ] A) security
-  <!-- feedback: 'security' refers to the staff and the measures that keep the airport safe, not to the goods check. -->
-- [ ] B) terminal
-  <!-- feedback: 'terminal' is the building where you wait for and board your flight. -->
-- [ ] C) gate
-  <!-- feedback: 'gate' is the door you board the plane through, not the place where officials check luggage. -->
+- [x] B) or
+  <!-- feedback: Correct! Or presents the second of two alternatives. -->
+- [ ] A) but
+  <!-- feedback: But contrasts, and these two options are not opposed to each other. -->
+- [ ] C) and
+  <!-- feedback: And would suggest both are used together, and the sentence offers a choice. -->
+- [ ] D) so
+  <!-- feedback: So introduces a result, and no result is being reported. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+Or presents alternatives, and either is the word that introduces the first of them. Either and or work as a pair in formal writing.
 ---
-## Question 7 [D5]
+## Question 7 [D3]
 **ID:** HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The connector that signals a surprising contrast.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+___ he had studied for weeks, he still made several mistakes.
 
 ### Opciones
-- [x] C) boarding pass
-  <!-- feedback: 'boarding pass' is the slip the airline hands over at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: 'visa' is the official permission to enter and stay in a foreign country. -->
-- [ ] B) receipt
-  <!-- feedback: 'receipt' is the proof of payment for the ticket, not the document that lets you board. -->
-- [ ] D) brochure
-  <!-- feedback: 'brochure' is a small booklet with tourist information, not a travel document. -->
+- [x] C) Even though
+  <!-- feedback: Correct! Even though highlights the contrast and suggests the result was unexpected. -->
+- [ ] A) Even so
+  <!-- feedback: Even so is an adverb that needs a full stop before it, and it cannot take a clause in this position. -->
+- [ ] B) Because
+  <!-- feedback: Because would make the studying the cause of the mistakes, which reverses the logic. -->
+- [ ] D) Unless
+  <!-- feedback: Unless introduces a condition, and no conditional structure exists in the sentence. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Even though and despite are the strongest contrast connectors. The stronger they are, the more unexpected the following result sounds.
 ---
-## Question 8 [D6]
+## Question 8 [D3]
 **ID:** HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The preposition form of contrast, which needs a noun phrase.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+___ the cost of the trip, the students decided to go by bus.
 
 ### Opciones
-- [x] B) sightseeing
-  <!-- feedback: 'sightseeing' is visiting the places of interest of a location in order to look at them. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things, which is a different activity from visiting sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is walking in the countryside along a trail, usually for exercise. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means spending the night outdoors in a tent. -->
+- [x] D) Despite
+  <!-- feedback: Correct! Despite is a preposition and is followed by a noun phrase, not by a clause. -->
+- [ ] A) Despite of
+  <!-- feedback: Of cannot follow despite, and that is one of the classic errors in this structure. -->
+- [ ] B) Although
+  <!-- feedback: Although is a conjunction and needs a clause, and the sentence has a noun phrase instead. -->
+- [ ] C) However
+  <!-- feedback: However is an adverb and cannot be followed by a noun phrase directly. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Despite and although do the same job in different grammatical ways. Despite takes a noun phrase, and although takes a clause.
 ---
-## Question 9 [D5]
+## Question 9 [D3]
 **ID:** HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The contrast conjunction used in a fixed phrase with a comparative.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+The second test was much harder ___ the first one.
 
 ### Opciones
-- [x] C) souvenir
-  <!-- feedback: 'souvenir' is an object kept because it reminds you of a person, a place or an event. -->
-- [ ] A) gift
-  <!-- feedback: 'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder. -->
-- [ ] B) award
-  <!-- feedback: 'award' is a distinction given for a merit or an achievement. -->
-- [ ] D) prize
-  <!-- feedback: 'prize' is what is won in a competition, not an object bought to remember a trip. -->
+- [x] A) than
+  <!-- feedback: Correct! Than introduces the second element of a comparison and contrasts the two things directly. -->
+- [ ] B) then
+  <!-- feedback: Then refers to time, and the sentence is comparing two tests rather than their order. -->
+- [ ] C) that
+  <!-- feedback: That introduces a clause or a noun, and it cannot follow a comparative. -->
+- [ ] D) as
+  <!-- feedback: As with a comparative marks equality, and the sentence states a clear difference. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+Than compares two different things, while as and like compare two things that are presented as similar or equal.
 ---
-## Question 10 [D6]
+## Question 10 [D3]
 **ID:** HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The connector that introduces an unexpected result.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+He arrived late, ___ he still got a good grade.
 
 ### Opciones
-- [x] A) delay
-  <!-- feedback: 'delay' is the extra period of time by which something becomes late or is postponed. -->
-- [ ] B) cancellation
-  <!-- feedback: 'cancellation' ends the booking or the trip altogether rather than pushing it back. -->
-- [ ] C) departure
-  <!-- feedback: 'departure' is the time a vehicle is scheduled to leave, not a postponement. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment you reach the destination, not the waiting time. -->
+- [x] B) yet
+  <!-- feedback: Correct! Yet signals that the second clause was not the expected outcome. -->
+- [ ] A) so
+  <!-- feedback: So would give a logical result, and a good grade does not follow from arriving late. -->
+- [ ] C) because
+  <!-- feedback: Because introduces a reason, and the sentence is not explaining why the grade was good. -->
+- [ ] D) or
+  <!-- feedback: Or introduces an alternative, and there is no choice in the sentence. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+Yet, still and nevertheless all point at an unexpected result. They are the classic alternatives to but, and they need a comma or a full stop around them.
 ---
-## Question 11 [D7]
+## Question 11 [D3]
 **ID:** HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The connector that compares two things as similar.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+This restaurant is ___ cheap as the one near the market.
 
 ### Opciones
-- [x] D) check-in
-  <!-- feedback: 'check-in' is reporting your presence at the airport or the hotel and registering. -->
-- [ ] A) check-out
-  <!-- feedback: 'check-out' is the opposite moment: leaving the hotel and settling the bill. -->
-- [ ] B) booking
-  <!-- feedback: 'booking' is reserving the room or the seat in advance, which happens before you arrive. -->
-- [ ] C) reservation
-  <!-- feedback: 'reservation' is the record of that booking, not the act of reporting your presence. -->
+- [x] C) as
+  <!-- feedback: Correct! As plus adjective plus as marks equality between two things. -->
+- [ ] A) than
+  <!-- feedback: Than marks a difference, and the sentence presents the two prices as equal. -->
+- [ ] B) so
+  <!-- feedback: So introduces a result, and no result is being reported. -->
+- [ ] D) enough
+  <!-- feedback: Enough has a different structure entirely, and it does not express comparison. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+As plus adjective plus as and as plus adverb plus as both mark equality. The two halves must be parallel in their grammatical form.
 ---
-## Question 12 [D8]
+## Question 12 [D3]
 **ID:** HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The connector used to correct something somebody has just said.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+I thought the meeting was on Monday. ___, it has been moved to Thursday.
 
 ### Opciones
-- [x] C) layover
-  <!-- feedback: 'layover' is the rest or the waiting period between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is a break in a journey during which you leave the vehicle, often overnight. -->
-- [ ] B) transfer
-  <!-- feedback: 'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means passage through a place or the system that carries people, not the pause itself. -->
+- [x] D) Actually
+  <!-- feedback: Correct! Actually introduces a correction of what the listener believed. -->
+- [ ] A) Anyway
+  <!-- feedback: Anyway changes the subject rather than correcting what was said before. -->
+- [ ] B) Otherwise
+  <!-- feedback: Otherwise introduces an alternative outcome, and the correction is not a conditional consequence. -->
+- [ ] C) Instead
+  <!-- feedback: Instead signals a substitution, and the sentence is correcting a date rather than replacing an action. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+Actually and in fact both correct an assumption the listener was making. They are useful in speaking and in informal argument.
 ---
-## Question 13 [D7]
+## Question 13 [D3]
 **ID:** HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The connector that adds a limiting point to an argument.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+The plan is expensive. ___, it may save money in the long run.
 
 ### Opciones
-- [x] B) currency
-  <!-- feedback: 'currency' is the whole money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'coin' is a single round piece of metal money, only one part of a currency. -->
-- [ ] C) banknote
-  <!-- feedback: 'banknote' is a paper note, again only one part of a country's money system. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' is money in coins and notes seen as a form of payment, not the system a country has. -->
+- [x] A) However
+  <!-- feedback: Correct! However introduces a point that limits the first one without contradicting it. -->
+- [ ] B) Otherwise
+  <!-- feedback: Otherwise introduces an alternative that would happen instead, and no such alternative is given. -->
+- [ ] C) Instead
+  <!-- feedback: Instead signals a replacement, and the second statement adds to the first rather than replacing it. -->
+- [ ] D) Therefore
+  <!-- feedback: Therefore would draw a conclusion, and the sentence is qualifying rather than concluding. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+A limiting connector concedes a point and then adds a qualification. It is weaker than a contradiction and stronger than a simple addition.
 ---
-## Question 14 [D8]
+## Question 14 [D3]
 **ID:** HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The conjunction that introduces a negative condition.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+___ you book early, you will not get a cheaper fare.
 
 ### Opciones
-- [x] D) guidebook
-  <!-- feedback: 'guidebook' is a book of information about a place written for the use of visitors. -->
-- [ ] A) map
-  <!-- feedback: 'map' is a drawing of the area, not a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: 'dictionary' explains the words of a language, not the places of a region. -->
-- [ ] C) encyclopedia
-  <!-- feedback: 'encyclopedia' covers all branches of knowledge, not one destination for tourists. -->
+- [x] B) Unless
+  <!-- feedback: Correct! Unless plus a positive form means if plus not, which is what the sentence needs. -->
+- [ ] A) If
+  <!-- feedback: If plus a positive clause would reverse the meaning, because the fare is cheaper when you book early. -->
+- [ ] C) Until
+  <!-- feedback: Until refers to time and needs a main clause about a duration or a point in time. -->
+- [ ] D) Though
+  <!-- feedback: Though introduces a concession, and the sentence is stating a condition. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Unless is the standard conditional negative in English. If you do not book early, you will not get a cheaper fare means exactly the same thing.
 ---
-## Question 15 [D7]
+## Question 15 [D4]
 **ID:** HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The connector that says a thing is true in spite of a difficulty.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+___ the delays, the team arrived in time for the final.
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: 'backpack' has shoulder straps and is carried on the back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'suitcase' is a case with a handle that is pulled along, not one worn on the back. -->
-- [ ] B) briefcase
-  <!-- feedback: 'briefcase' is a flat case for documents that you carry by hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: 'handbag' is a small bag held in the hand, usually for personal items. -->
+- [x] C) Despite
+  <!-- feedback: Correct! Despite is a preposition and takes the noun phrase the delays directly. -->
+- [ ] A) Despite of
+  <!-- feedback: Of cannot follow despite, and the phrase despite of is always wrong. -->
+- [ ] B) In spite of
+  <!-- feedback: In spite of is a correct phrase but is a three-word alternative, and the single word is the direct choice here. -->
+- [ ] D) Although
+  <!-- feedback: Although needs a clause, and the sentence provides a noun phrase instead. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Despite, in spite of and notwithstanding all take a noun phrase. Note that despite never takes of after it.
 ---
-## Question 16 [D8]
+## Question 16 [D3]
 **ID:** HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The connector that introduces a comparison of two similar situations.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+___ you study regularly, your results will improve quickly.
 
 ### Opciones
-- [x] D) overseas
-  <!-- feedback: 'overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: 'local' means belonging to a small area nearby, not to a foreign country. -->
-- [ ] C) national
-  <!-- feedback: 'national' means concerning the whole nation and says nothing about being abroad. -->
+- [x] D) If
+  <!-- feedback: Correct! If plus present introduces a real condition, and the result is a probable future one. -->
+- [ ] A) Whether
+  <!-- feedback: Whether introduces an indirect question or an alternative, and it cannot govern a result clause. -->
+- [ ] B) Unless
+  <!-- feedback: Unless plus a positive form would mean if you do not study, which is the opposite of the intended meaning. -->
+- [ ] C) As
+  <!-- feedback: As can introduce a reason, and studying is being presented as a condition with a result. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+If introduces the first conditional when the condition is real and the result is likely. That combination is the standard exam pattern.
 ---
-## Question 17 [D9]
+## Question 17 [D3]
 **ID:** HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The connector that changes the direction of an argument.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+The film received good reviews. ___, I found it rather slow.
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: 'budget' is an estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'expense' is a single amount of money that is spent, not the plan for a whole period. -->
-- [ ] C) cost
-  <!-- feedback: 'cost' is what one item or one service costs, again not an estimate for a period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the sum a customer pays for one product; a budget covers income and spending together. -->
+- [x] A) Nevertheless
+  <!-- feedback: Correct! Nevertheless contrasts a second statement that runs against the first. -->
+- [ ] B) Therefore
+  <!-- feedback: Therefore draws a conclusion, and the second statement goes against the first rather than following it. -->
+- [ ] C) Furthermore
+  <!-- feedback: Furthermore adds supporting information, and the second statement is opposite to the first. -->
+- [ ] D) Accordingly
+  <!-- feedback: Accordingly signals that something was done in response, and there is no such action in the sentence. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Nevertheless, however and yet all express a contrast between two statements. Nevertheless is the most formal of the three.
 ---
-## Question 18 [D10]
+## Question 18 [D3]
 **ID:** HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The connector that adds extra information to an argument.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+The course is expensive. ___, it includes all the materials you need.
 
 ### Opciones
-- [x] C) insurance
-  <!-- feedback: 'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge. -->
-- [ ] B) guarantee
-  <!-- feedback: 'guarantee' is a general promise of quality and does not involve paying a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'policy' is the written document that states what an insurance contract covers. -->
+- [x] B) Moreover
+  <!-- feedback: Correct! Moreover adds a further point in favour of the same point the sentence is making. -->
+- [ ] A) Nevertheless
+  <!-- feedback: Nevertheless contradicts the first statement, and the second point supports the overall argument instead. -->
+- [ ] C) Otherwise
+  <!-- feedback: Otherwise introduces an alternative outcome, and no alternative is being described. -->
+- [ ] D) However
+  <!-- feedback: However qualifies or contradicts the first point, and the second point adds to it. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+Moreover, furthermore, in addition and also all add a supporting point. They are the connectors of a developing argument rather than a contrast.
 ---
-## Question 19 [D9]
+## Question 19 [D3]
 **ID:** HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The connector used to state a conclusion from what has just been said.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+The roads were closed and the trains were cancelled. ___, we had to drive the long way.
 
 ### Opciones
-- [x] B) vaccination
-  <!-- feedback: 'vaccination' is the treatment with a vaccine that makes the body immune to a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' is a drug taken to treat an illness, not to prevent one. -->
-- [ ] C) prescription
-  <!-- feedback: 'prescription' is the written order that authorises a medicine, not the treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: 'infection' is the disease itself, the opposite of the protection a vaccination gives. -->
+- [x] C) Therefore
+  <!-- feedback: Correct! Therefore draws a conclusion that follows logically from the two facts before it. -->
+- [ ] A) Otherwise
+  <!-- feedback: Otherwise introduces an alternative, and the sentence is stating what did happen. -->
+- [ ] B) However
+  <!-- feedback: However would contrast the conclusion with the facts, and the conclusion agrees with them. -->
+- [ ] D) Instead
+  <!-- feedback: Instead signals a substitution for something mentioned before, and there is nothing being replaced. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Therefore, consequently and as a result all conclude an argument. The first clause gives the reason and the last gives what followed from it.
 ---
-## Question 20 [D10]
+## Question 20 [D4]
 **ID:** HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The connector that introduces a specific example of a general point.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Many students work while studying. ___, my cousin combines a part-time job with a full course.
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: 'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness that can come from any long effort, not specifically from a flight. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the inability to fall asleep, which has many causes besides travel. -->
+- [x] D) For example
+  <!-- feedback: Correct! For example introduces a particular case that illustrates the general statement before it. -->
+- [ ] A) Therefore
+  <!-- feedback: Therefore would draw a conclusion from the general statement, and the second clause is an illustration rather than a conclusion. -->
+- [ ] B) Otherwise
+  <!-- feedback: Otherwise introduces an alternative, and there is no alternative situation being described. -->
+- [ ] C) Similarly
+  <!-- feedback: Similarly would add a second example, and the connector is already introducing the first one. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+For example, for instance and such as all introduce an illustration. The general point comes first, and the specific case follows it.

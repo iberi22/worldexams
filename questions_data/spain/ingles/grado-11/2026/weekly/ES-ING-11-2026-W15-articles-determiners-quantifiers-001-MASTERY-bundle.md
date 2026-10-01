@@ -24,459 +24,460 @@ bundle_index: 1
 ## Question 1 [D3]
 **ID:** ES-ING-11-2026-W15-articles-determiners-quantifiers-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student describes last night's sky for a science diary entry.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Fill in the blank: We could see ___ moon very clearly last night.
 
 ### Opciones
-- [x] B) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home. -->
-- [ ] A) transportation
-  <!-- feedback: Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay. -->
-- [ ] C) entertainment
-  <!-- feedback: Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep. -->
-- [ ] D) currency
-  <!-- feedback: Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging. -->
+- [x] A) the
+  <!-- feedback: Correct. The moon is unique in our sky, and unique things take the definite article 'the'. -->
+- [ ] B) a
+  <!-- feedback: Incorrect. 'A' would suggest any one of several moons, but there is only one moon in our sky. -->
+- [ ] C) an
+  <!-- feedback: Incorrect. 'An' is used before vowel sounds, and 'moon' begins with the consonant sound /m/. -->
+- [ ] D) some
+  <!-- feedback: Incorrect. 'Some' points to an unspecified amount, which makes no sense with the single moon. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+Unique objects such as the moon, the sun or the sky always take the definite article 'the', because speaker and listener both know exactly which one is meant.
 ---
-## Question 2 [D4]
+## Question 2 [D3]
 **ID:** ES-ING-11-2026-W15-articles-determiners-quantifiers-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A girl talks about her career plans with the school counsellor.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Choose the correct article: My sister wants to be ___ engineer like our uncle.
 
 ### Opciones
-- [x] A) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way. -->
-- [ ] B) baggage
-  <!-- feedback: Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route. -->
-- [ ] D) passport
-  <!-- feedback: Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey. -->
+- [ ] A) a
+  <!-- feedback: Incorrect. 'A' is only correct before consonant sounds, and 'engineer' starts with a vowel sound. -->
+- [x] B) an
+  <!-- feedback: Correct. 'Engineer' begins with the vowel sound /e/, so the article 'an' is required. -->
+- [ ] C) the
+  <!-- feedback: Incorrect. 'The' would name one specific engineer already known, but the sentence means any engineer. -->
+- [ ] D) one
+  <!-- feedback: Incorrect. 'One' is a counting word that contrasts with others; the neutral article English needs here is 'an'. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+The choice between 'a' and 'an' depends on sound, not spelling: 'an' comes before vowel sounds such as engineer, hour or umbrella.
 ---
 ## Question 3 [D3]
 **ID:** ES-ING-11-2026-W15-articles-determiners-quantifiers-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A boy writes about his first day with a new computer at home.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+I bought a new laptop yesterday. ___ laptop works very fast.
 
 ### Opciones
-- [x] C) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going to or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip. -->
-- [ ] B) arrival
-  <!-- feedback: Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to. -->
-- [ ] D) journey
-  <!-- feedback: Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it. -->
+- [ ] A) A
+  <!-- feedback: Incorrect. 'A' introduces something new, but this laptop is already known from the first sentence. -->
+- [ ] B) An
+  <!-- feedback: Incorrect. 'An' needs a following vowel sound, and 'laptop' starts with /l/. -->
+- [x] C) The
+  <!-- feedback: Correct. The laptop is mentioned for the second time, and second mentions always take 'the'. -->
+- [ ] D) No article
+  <!-- feedback: Incorrect. A singular countable noun like 'laptop' cannot stand alone without a determiner. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+English uses 'the' when a noun is mentioned again, because both speaker and listener now know exactly which thing is being talked about.
 ---
 ## Question 4 [D4]
 **ID:** ES-ING-11-2026-W15-articles-determiners-quantifiers-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A biology teacher explains animal facts to a curious class.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Choose the correct option: ___ tigers are endangered animals.
 
 ### Opciones
-- [x] A) luggage
-  <!-- feedback: Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in. -->
-- [ ] B) ticket
-  <!-- feedback: Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack. -->
-- [ ] C) flight
-  <!-- feedback: Wrong. A 'flight' is the journey by plane itself, not the bags carried on it. -->
-- [ ] D) reservation
-  <!-- feedback: Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself. -->
+- [ ] A) A
+  <!-- feedback: Incorrect. 'A' cannot go before a plural noun like 'tigers', which is already plural in form. -->
+- [ ] B) An
+  <!-- feedback: Incorrect. 'An' needs a singular noun after it, but 'tigers' is a plural noun. -->
+- [ ] C) Much
+  <!-- feedback: Incorrect. 'Much' never modifies a countable plural noun such as 'tigers'. -->
+- [x] D) No article
+  <!-- feedback: Correct. General plural nouns take no article when the meaning is all tigers, not specific ones. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+Plural nouns used in a general sense carry no article at all; adding 'the' or 'a' would point to specific tigers or break number agreement.
 ---
-## Question 5 [D5]
+## Question 5 [D4]
 **ID:** ES-ING-11-2026-W15-articles-determiners-quantifiers-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A doctor gives advice to a student during a health check.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+How ___ water should a teenager drink every day?
 
 ### Opciones
-- [x] B) passenger
-  <!-- feedback: Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it. -->
-- [ ] A) pedestrian
-  <!-- feedback: Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all. -->
-- [ ] C) commuter
-  <!-- feedback: Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general. -->
-- [ ] D) tourist
-  <!-- feedback: Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle. -->
+- [x] A) much
+  <!-- feedback: Correct. 'Water' is an uncountable noun, and uncountable nouns pair with 'much' in questions. -->
+- [ ] B) many
+  <!-- feedback: Incorrect. 'Many' only goes with countable plural nouns, and 'water' cannot be counted in units. -->
+- [ ] C) few
+  <!-- feedback: Incorrect. 'Few' describes countable plurals and means a small number, which does not fit 'water'. -->
+- [ ] D) several
+  <!-- feedback: Incorrect. 'Several' counts individual items, so it cannot quantify the uncountable 'water'. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+'Much' asks about the amount of an uncountable noun like water, time or money, while 'many' asks about the number of countable items.
 ---
-## Question 6 [D6]
+## Question 6 [D4]
 **ID:** ES-ING-11-2026-W15-articles-determiners-quantifiers-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A caretaker checks the furniture before the new term starts.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+There are ___ chairs in the hall, but only twenty students in this group.
 
 ### Opciones
-- [x] D) customs
-  <!-- feedback: Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad. -->
-- [ ] A) security
-  <!-- feedback: Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods. -->
-- [ ] B) terminal
-  <!-- feedback: Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports. -->
-- [ ] C) gate
-  <!-- feedback: Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself. -->
+- [ ] A) much
+  <!-- feedback: Incorrect. 'Much' works with uncountable nouns only, and 'chairs' can be counted one by one. -->
+- [x] B) many
+  <!-- feedback: Correct. 'Chairs' is a countable plural noun, so the quantity word must be 'many'. -->
+- [ ] C) a little
+  <!-- feedback: Incorrect. 'A little' suits uncountable nouns such as furniture, not countable items like chairs. -->
+- [ ] D) a bit of
+  <!-- feedback: Incorrect. 'A bit of' is only natural with uncountable nouns, never with a countable plural. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+Countable plurals such as chairs or books take 'many', while uncountable nouns take 'much'; mixing the two is a very common quantifier error.
 ---
-## Question 7 [D5]
+## Question 7 [D4]
 **ID:** ES-ING-11-2026-W15-articles-determiners-quantifiers-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A teenager explains what he still needs before finishing his homework.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+I still need ___ time to finish this homework tonight.
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel. -->
-- [ ] B) receipt
-  <!-- feedback: Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft. -->
-- [ ] C) brochure
-  <!-- feedback: Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding. -->
+- [ ] A) any
+  <!-- feedback: Incorrect. 'Any' belongs in negatives and questions, but this sentence is affirmative. -->
+- [ ] B) many
+  <!-- feedback: Incorrect. 'Many' cannot quantify the uncountable noun 'time'. -->
+- [x] C) some
+  <!-- feedback: Correct. Affirmative sentences normally use 'some' before uncountable nouns like 'time'. -->
+- [ ] D) few
+  <!-- feedback: Incorrect. 'Few' needs a countable plural after it, and 'time' is uncountable. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+'Some' appears in positive statements about an unspecified amount; 'any' takes over in questions and negatives, so the sentence type decides the choice.
 ---
-## Question 8 [D6]
+## Question 8 [D4]
 **ID:** ES-ING-11-2026-W15-articles-determiners-quantifiers-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A flatmate checks the fridge before making coffee for both of them.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+We do not have ___ milk left for the morning coffee.
 
 ### Opciones
-- [x] B) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor. -->
-- [ ] A) shopping
-  <!-- feedback: Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest. -->
-- [ ] C) hiking
-  <!-- feedback: Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location. -->
-- [ ] D) camping
-  <!-- feedback: Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest. -->
+- [ ] A) some
+  <!-- feedback: Incorrect. 'Some' is not used in plain negative statements; 'any' replaces it after 'not'. -->
+- [ ] B) many
+  <!-- feedback: Incorrect. 'Many' cannot modify the uncountable noun 'milk'. -->
+- [ ] C) a few
+  <!-- feedback: Incorrect. 'A few' counts plural items, and 'milk' is an uncountable liquid. -->
+- [x] D) any
+  <!-- feedback: Correct. In negative sentences English uses 'any' instead of 'some' with uncountable nouns. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Negatives take 'any': 'not any milk' means zero milk. 'Some' would soften an offer or request, but a plain negative needs 'any'.
 ---
-## Question 9 [D5]
+## Question 9 [D4]
 **ID:** ES-ING-11-2026-W15-articles-determiners-quantifiers-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A runner asks his friend to wait a moment before the race.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Could you give me ___ minutes to get ready before we leave?
 
 ### Opciones
-- [x] C) souvenir
-  <!-- feedback: Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it. -->
-- [ ] A) gift
-  <!-- feedback: Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller. -->
-- [ ] B) award
-  <!-- feedback: Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip. -->
-- [ ] D) prize
-  <!-- feedback: Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey. -->
+- [x] A) a few
+  <!-- feedback: Correct. 'Minutes' is a countable plural, and 'a few' means a small number of them. -->
+- [ ] B) a little
+  <!-- feedback: Incorrect. 'A little' quantifies uncountable nouns, but 'minutes' are separate countable units. -->
+- [ ] C) much
+  <!-- feedback: Incorrect. 'Much' does not fit a positive request with a countable plural like 'minutes'. -->
+- [ ] D) little
+  <!-- feedback: Incorrect. 'Little' without 'a' means almost no minutes, which contradicts the polite request. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+'A few' and 'a little' both mean a small amount, but 'a few' counts plural nouns while 'a little' weighs uncountable ones.
 ---
-## Question 10 [D6]
+## Question 10 [D4]
 **ID:** ES-ING-11-2026-W15-articles-determiners-quantifiers-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Two friends prepare tea together in the school kitchen.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Add ___ sugar to my tea, please, but not too much.
 
 ### Opciones
-- [x] A) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed. -->
-- [ ] B) cancellation
-  <!-- feedback: Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours. -->
-- [ ] C) departure
-  <!-- feedback: Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it. -->
-- [ ] D) arrival
-  <!-- feedback: Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late. -->
+- [ ] A) a few
+  <!-- feedback: Incorrect. 'A few' counts plural nouns like spoonfuls, not the uncountable substance 'sugar'. -->
+- [x] B) a little
+  <!-- feedback: Correct. 'Sugar' is uncountable, so the small quantity is expressed with 'a little'. -->
+- [ ] C) many
+  <!-- feedback: Incorrect. 'Many' never goes with uncountable nouns such as 'sugar'. -->
+- [ ] D) several
+  <!-- feedback: Incorrect. 'Several' counts individual items, and sugar cannot be counted without a unit word. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+With uncountable food and drink words like sugar, water or rice, English measures small amounts with 'a little'; plural counting words do not fit.
 ---
-## Question 11 [D7]
+## Question 11 [D4]
 **ID:** ES-ING-11-2026-W15-articles-determiners-quantifiers-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A coach reports how the football team received its new equipment.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+The trainer handed a whistle to the players ___.
 
 ### Opciones
-- [x] B) check-in
-  <!-- feedback: Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass. -->
-- [ ] A) check-out
-  <!-- feedback: Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving. -->
-- [ ] C) booking
-  <!-- feedback: Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival. -->
-- [ ] D) reservation
-  <!-- feedback: Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival. -->
+- [ ] A) every
+  <!-- feedback: Incorrect. 'Every' must sit directly before a singular noun, so it cannot end the sentence alone. -->
+- [ ] B) all
+  <!-- feedback: Incorrect. 'All' needs 'of the players' or a plural noun after it when it stands at the end. -->
+- [x] C) each
+  <!-- feedback: Correct. 'Each' is the only quantifier that can stand alone at the end of the sentence. -->
+- [ ] D) much
+  <!-- feedback: Incorrect. 'Much' cannot refer to countable people and never appears in this position. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+'Each' can close a sentence on its own, while 'every' needs a noun right after it and 'all' needs 'of the' before a plural group.
 ---
-## Question 12 [D8]
+## Question 12 [D4]
 **ID:** ES-ING-11-2026-W15-articles-determiners-quantifiers-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A city reporter compares traffic figures before and after the metro.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Since the metro opened, there are ___ cars in the city centre.
 
 ### Opciones
-- [x] B) layover
-  <!-- feedback: Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue. -->
-- [ ] A) stopover
-  <!-- feedback: Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights. -->
-- [ ] C) transfer
-  <!-- feedback: Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself. -->
-- [ ] D) transit
-  <!-- feedback: Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages. -->
+- [ ] A) less
+  <!-- feedback: Incorrect. 'Less' is used with uncountable nouns; 'cars' are counted one by one. -->
+- [ ] B) much
+  <!-- feedback: Incorrect. 'Much' is a plain quantity word, not a comparative, and cannot modify 'cars' anyway. -->
+- [ ] C) little
+  <!-- feedback: Incorrect. 'Little' describes uncountable amounts and is not a comparative form. -->
+- [x] D) fewer
+  <!-- feedback: Correct. 'Cars' is countable, and countable nouns take the comparative 'fewer'. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+The fewer/less split follows noun type: 'fewer' counts items like cars or students, while 'less' weighs substances like traffic or noise.
 ---
-## Question 13 [D7]
+## Question 13 [D4]
 **ID:** ES-ING-11-2026-W15-articles-determiners-quantifiers-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A girl describes a photo of the family garden to her cousin on a call.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+___ shoes over there by the gate belong to my brother.
 
 ### Opciones
-- [x] B) currency
-  <!-- feedback: Correct! 'Currency' is the whole monetary system a country uses, not any single object. -->
-- [ ] A) coin
-  <!-- feedback: Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system. -->
-- [ ] C) banknote
-  <!-- feedback: Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country. -->
-- [ ] D) cash
-  <!-- feedback: Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system. -->
+- [x] A) Those
+  <!-- feedback: Correct. 'Those' matches the plural noun 'shoes' and the distance signal 'over there'. -->
+- [ ] B) This
+  <!-- feedback: Incorrect. 'This' points to one near item, but 'shoes' is plural and the pair is far away. -->
+- [ ] C) That
+  <!-- feedback: Incorrect. 'That' is singular, while the plural 'shoes' and the verb 'belong' need a plural determiner. -->
+- [ ] D) These
+  <!-- feedback: Incorrect. 'These' is plural but always refers to things near the speaker, not 'over there'. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+Demonstratives combine two features: number, with this and that singular and these and those plural, and distance, with this and these near and that and those far.
 ---
-## Question 14 [D8]
+## Question 14 [D4]
 **ID:** ES-ING-11-2026-W15-articles-determiners-quantifiers-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student describes her parents' workplaces for a school survey.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+___ of my parents work at the same hospital near our flat.
 
 ### Opciones
-- [x] D) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book written about a place to help visitors find their way around it. -->
-- [ ] A) map
-  <!-- feedback: Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place. -->
-- [ ] B) dictionary
-  <!-- feedback: Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination. -->
-- [ ] C) encyclopedia
-  <!-- feedback: Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place. -->
+- [ ] A) Each
+  <!-- feedback: Incorrect. 'Each of' demands the singular verb 'works', but the sentence says 'work'. -->
+- [x] B) Both
+  <!-- feedback: Correct. 'Both' is the quantifier for exactly two people, and it takes the plural verb 'work'. -->
+- [ ] C) Every
+  <!-- feedback: Incorrect. 'Every' never combines with 'of' plus a plural noun in this position. -->
+- [ ] D) One
+  <!-- feedback: Incorrect. 'One of my parents' needs the singular verb 'works' and contradicts the plural 'parents'. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+For exactly two people English uses 'both' with plural agreement; 'each of' would force 'works', and 'every' cannot take 'of my parents' at all.
 ---
-## Question 15 [D7]
+## Question 15 [D4]
 **ID:** ES-ING-11-2026-W15-articles-determiners-quantifiers-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A shopper returns a tight T-shirt at the counter of a clothes shop.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+This T-shirt is too small for me. Could I try ___ one, please?
 
 ### Opciones
-- [x] D) backpack
-  <!-- feedback: Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you. -->
-- [ ] B) briefcase
-  <!-- feedback: Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work. -->
-- [ ] C) handbag
-  <!-- feedback: Wrong. A 'handbag' is held in the hand and has no straps at all. -->
+- [ ] A) other
+  <!-- feedback: Incorrect. 'Other' cannot stand alone before a singular noun; it needs a plural noun or 'the'. -->
+- [ ] B) others
+  <!-- feedback: Incorrect. 'Others' is a plural pronoun that replaces nouns, so it cannot precede the singular 'one'. -->
+- [x] C) another
+  <!-- feedback: Correct. 'Another' means one more unspecified item and fits before the singular 'one'. -->
+- [ ] D) the other
+  <!-- feedback: Incorrect. 'The other one' would mean the shop has exactly two shirts, but a shop offers many. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+'Another' is 'an' plus 'other': it introduces one additional unspecified item, so it fits a request for a different shirt from an open set.
 ---
-## Question 16 [D8]
+## Question 16 [D4]
 **ID:** ES-ING-11-2026-W15-articles-determiners-quantifiers-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A young founder explains what launching a small business demanded.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Starting a small business takes ___ of courage and money.
 
 ### Opciones
-- [x] A) overseas
-  <!-- feedback: Correct! 'Overseas' means to or in another country reached by crossing the sea. -->
-- [ ] B) domestic
-  <!-- feedback: Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: Wrong. 'Local' means in a particular small area or town, which may well be inside your own country. -->
-- [ ] D) national
-  <!-- feedback: Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea. -->
+- [ ] A) a great number
+  <!-- feedback: Incorrect. 'A great number of' only works with countable plural nouns, never with 'courage'. -->
+- [ ] B) many
+  <!-- feedback: Incorrect. 'Many' cannot stand before 'of' plus an uncountable noun in this structure. -->
+- [ ] C) few
+  <!-- feedback: Incorrect. 'Few' does not combine with 'of' here and clashes with the uncountable nouns anyway. -->
+- [x] D) a great deal
+  <!-- feedback: Correct. 'A great deal of' is the fixed expression that pairs with uncountable nouns like 'courage'. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+Collocation matters with quantifiers: 'a great deal of' is the set phrase for uncountable amounts, while 'a great number of' counts plural items.
 ---
-## Question 17 [D9]
+## Question 17 [D4]
 **ID:** ES-ING-11-2026-W15-articles-determiners-quantifiers-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A radio host corrects sentences sent in by learners of English.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Which sentence uses a quantifier correctly?
 
 ### Opciones
-- [x] D) budget
-  <!-- feedback: Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year. -->
-- [ ] A) expense
-  <!-- feedback: Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period. -->
-- [ ] B) cost
-  <!-- feedback: Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it. -->
-- [ ] C) price
-  <!-- feedback: Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances. -->
+- [x] A) There are many cars in the city centre.
+  <!-- feedback: Correct. 'Many' agrees with the countable plural noun 'cars', which is exactly what the rule needs. -->
+- [ ] B) There is much traffic of cars in the centre.
+  <!-- feedback: Incorrect. 'Much traffic' is possible, but 'traffic of cars' is not an English structure at all. -->
+- [ ] C) There are much cars in the city centre.
+  <!-- feedback: Incorrect. 'Much' cannot modify the countable plural 'cars'; it belongs with uncountable nouns. -->
+- [ ] D) There is many traffic in the city centre.
+  <!-- feedback: Incorrect. 'Many' cannot modify the uncountable noun 'traffic'; that noun takes 'much' or 'a lot of'. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Judging quantifier correctness means checking the noun type every time: countable plurals pair with 'many', uncountable nouns with 'much' or 'a lot of'.
 ---
-## Question 18 [D10]
+## Question 18 [D4]
 **ID:** ES-ING-11-2026-W15-articles-determiners-quantifiers-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Pragmatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A host pours tea for a guest who is asked about sugar.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+The host asks how much sugar the guest takes. Which reply is natural?
 
 ### Opciones
-- [x] C) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death. -->
-- [ ] B) guarantee
-  <!-- feedback: Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium. -->
-- [ ] D) policy
-  <!-- feedback: Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself. -->
+- [ ] A) Just a few, thanks.
+  <!-- feedback: Incorrect. 'A few' answers 'how many' about countable items, and sugar is not counted in pieces. -->
+- [x] B) Just a little, thanks.
+  <!-- feedback: Correct. 'A little' answers a 'how much' question about the uncountable noun 'sugar'. -->
+- [ ] C) Just many, thanks.
+  <!-- feedback: Incorrect. 'Many' never stands alone in this reply and cannot quantify uncountable sugar. -->
+- [ ] D) Just much, thanks.
+  <!-- feedback: Incorrect. 'Much' appears in questions and negatives, not in a short positive reply like this. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+In polite replies the quantifier must mirror the question: 'how much' about an uncountable noun is answered with 'a little', never with 'a few'.
 ---
-## Question 19 [D9]
+## Question 19 [D4]
 **ID:** ES-ING-11-2026-W15-articles-determiners-quantifiers-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A teacher marks a listening test and comments on a student's results.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which sentence is correct about the student's exam results?
 
 ### Opciones
-- [x] C) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease. -->
-- [ ] A) medication
-  <!-- feedback: Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand. -->
-- [ ] B) prescription
-  <!-- feedback: Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it. -->
+- [ ] A) She made little mistakes in the listening exam.
+  <!-- feedback: Incorrect. 'Little' as a quantifier needs an uncountable noun, but 'mistakes' can be counted. -->
+- [ ] B) She made a little mistakes in the listening exam.
+  <!-- feedback: Incorrect. 'A little' weighs uncountable nouns, while 'mistakes' is a countable plural. -->
+- [x] C) She made few mistakes in the listening exam.
+  <!-- feedback: Correct. 'Few' fits the countable plural 'mistakes' and reports a small number of them. -->
+- [ ] D) She made much mistakes in the listening exam.
+  <!-- feedback: Incorrect. 'Much' cannot modify the countable plural noun 'mistakes'. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Error-spotting starts with the noun: 'mistakes' is countable, so only 'few' works, and 'little', 'a little' and 'much' all target uncountable nouns.
 ---
-## Question 20 [D10]
+## Question 20 [D4]
 **ID:** ES-ING-11-2026-W15-articles-determiners-quantifiers-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Pragmatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Two neighbours negotiate a small favour before the school run.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which offer sounds most natural and polite in English?
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight. -->
-- [ ] A) fatigue
-  <!-- feedback: Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone. -->
-- [ ] D) insomnia
-  <!-- feedback: Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying. -->
+- [ ] A) Would you like any help with the bags?
+  <!-- feedback: Incorrect. 'Any' in an offer sounds distant or doubtful; polite offers normally use 'some'. -->
+- [ ] B) Would you like many help with the bags?
+  <!-- feedback: Incorrect. 'Many' cannot quantify the uncountable noun 'help'. -->
+- [ ] C) Would you like few help with the bags?
+  <!-- feedback: Incorrect. 'Few' counts plural nouns and would make the offer sound strange and unhelpful. -->
+- [x] D) Would you like some help with the bags?
+  <!-- feedback: Correct. Offers usually take 'some', and 'help' is uncountable, so this is the natural polite form. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Politeness shapes quantifier choice: offers and requests prefer 'some' even when the answer could be no, and uncountable nouns rule out 'many' and 'few'.
+---

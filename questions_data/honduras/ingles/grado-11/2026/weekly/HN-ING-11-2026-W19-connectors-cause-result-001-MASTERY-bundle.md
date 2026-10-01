@@ -21,462 +21,464 @@ bundle_index: 1
 **20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
+
 ## Question 1 [D3]
 **ID:** HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A football match in a Honduran city is called off in the middle of the afternoon.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+The match was cancelled ____ heavy rain flooded the pitch.
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place. -->
-- [ ] C) currency
-  <!-- feedback: 'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay. -->
+- [x] A) because
+  <!-- feedback: Correct! 'because' introduces the cause that explains the cancellation. -->
+- [ ] B) although
+  <!-- feedback: 'although' introduces a contrast, and no contrasting fact is given here. -->
+- [ ] C) unless
+  <!-- feedback: 'unless' states a condition that would stop the rain, not a reason for the cancellation. -->
+- [ ] D) so
+  <!-- feedback: 'so' presents a result, but this sentence already gives the reason, not a consequence. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+'Because' links an effect to its cause. The rain caused the cancellation, so the reason follows the connector in a second clause.
 ---
-## Question 2 [D4]
+## Question 2 [D3]
 **ID:** HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Torrential rain blocks the main road of a town in the valley.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+The roads were flooded, ____ the school closed for two days.
 
 ### Opciones
-- [x] D) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' means the suitcases and bags you travel with, not the plan that organises the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself. -->
-- [ ] C) passport
-  <!-- feedback: 'passport' is the official travel document you show at the border, not a description of the journey route. -->
+- [ ] A) because
+  <!-- feedback: 'because' would ask for the reason of the flood, and the sentence is already giving a consequence. -->
+- [x] B) so
+  <!-- feedback: Correct! 'so' shows the result that follows from the first clause. -->
+- [ ] C) although
+  <!-- feedback: 'although' would need a contrast, but nothing opposes the flood. -->
+- [ ] D) unless
+  <!-- feedback: 'unless' needs a negative clause in the other direction, which the sentence does not have. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+Result connectors such as 'so', 'therefore' and 'consequently' point forward from a fact to what follows from it.
 ---
 ## Question 3 [D3]
 **ID:** HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A traveller tells a friend about the plan for the moment of landing.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+I will send you a message ____ I arrive at the airport.
 
 ### Opciones
-- [x] B) destination
-  <!-- feedback: Correct! A 'destination' is the place to which someone or something is going or being sent. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, whereas the definition names only where it ends. -->
+- [ ] A) even though
+  <!-- feedback: 'even though' introduces a concession, and the sentence states no opposition. -->
+- [ ] B) in spite of
+  <!-- feedback: 'in spite of' is followed by a noun or a gerund, not by a clause with a subject and a verb. -->
+- [x] C) as soon as
+  <!-- feedback: Correct! 'as soon as' joins two present or future events, with the earlier one acting as the trigger. -->
+- [ ] D) so that
+  <!-- feedback: 'so that' states a purpose, but the message is not a goal that the arrival produces. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+'As soon as' is a time connector: the second clause happens immediately after the first one is complete.
 ---
 ## Question 4 [D4]
 **ID:** HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A school day begins with a bell that sometimes fails to sound.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+____ the alarm did not ring, every student reached class on time.
 
 ### Opciones
-- [x] D) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling. -->
-- [ ] A) ticket
-  <!-- feedback: a 'ticket' is the document that gives you the right to travel; it carries nothing at all. -->
-- [ ] B) flight
-  <!-- feedback: a 'flight' is the trip itself by plane, not the bags you pack for it. -->
-- [ ] C) reservation
-  <!-- feedback: a 'reservation' is the booking held for a seat or a room, not the container where clothes go. -->
+- [ ] A) because
+  <!-- feedback: 'because' would make the failed alarm the reason the students were on time, and it is not. -->
+- [ ] B) so
+  <!-- feedback: 'so' would make the students on time a result, and no cause is given here. -->
+- [ ] C) unless
+  <!-- feedback: 'unless' requires a negative clause after it, and the clause here is positive. -->
+- [x] D) although
+  <!-- feedback: Correct! 'although' introduces a fact that is expected to prevent the main clause, which is the classic concessive use. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+'Although' sets an expectation and then breaks it. The alarm should have caused lateness, yet the class was punctual.
 ---
-## Question 5 [D5]
+## Question 5 [D4]
 **ID:** HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student checks the clock before the last bus leaves the town.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+You will miss the last bus ____ you leave the school now.
 
 ### Opciones
-- [x] B) passenger
-  <!-- feedback: Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all. -->
-- [ ] C) commuter
-  <!-- feedback: a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance. -->
-- [ ] D) tourist
-  <!-- feedback: a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle. -->
+- [x] A) unless
+  <!-- feedback: Correct! 'unless' states the only condition that would stop the result in the main clause. -->
+- [ ] B) although
+  <!-- feedback: 'although' introduces a concession, and the sentence presents a condition instead. -->
+- [ ] C) because
+  <!-- feedback: 'because' would need a reason for missing the bus, and no reason is offered. -->
+- [ ] D) so that
+  <!-- feedback: 'so that' states a purpose, but leaving now is not presented as a goal. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+'Unless' is followed by a negative clause and means 'if not'. Here the bus is caught only if the student leaves now.
 ---
-## Question 6 [D6]
+## Question 6 [D4]
 **ID:** HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A visitor addresses a full auditorium during an open house at a school.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+She spoke very slowly ____ every student in the hall could hear her.
 
 ### Opciones
-- [x] C) customs
-  <!-- feedback: Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage. -->
-- [ ] A) security
-  <!-- feedback: 'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs. -->
-- [ ] B) terminal
-  <!-- feedback: a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done. -->
-- [ ] D) gate
-  <!-- feedback: a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings. -->
+- [ ] A) even if
+  <!-- feedback: 'even if' introduces a concession, and no unexpected obstacle is mentioned. -->
+- [x] B) so that
+  <!-- feedback: Correct! 'so that' introduces a purpose: the slow voice was the means and comprehension the goal. -->
+- [ ] C) in case
+  <!-- feedback: 'in case' introduces a precaution against a possible event, and no risk is described. -->
+- [ ] D) as long as
+  <!-- feedback: 'as long as' introduces a condition, but the hearing is not stated as a requirement. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+'So that' marks purpose. The intention behind the slow, clear voice is that every listener understands the message.
 ---
-## Question 7 [D5]
+## Question 7 [D4]
 **ID:** HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v7
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A group is ready to photograph the school parade with a digital camera.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+The battery is completely empty; ____ we will not be able to take the picture.
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board. -->
-- [ ] A) visa
-  <!-- feedback: a 'visa' is the permission to enter a country, obtained before the trip and not from the airline. -->
-- [ ] B) receipt
-  <!-- feedback: a 'receipt' only proves that you paid; it does not let you board the plane. -->
-- [ ] C) brochure
-  <!-- feedback: a 'brochure' is printed information about the airline or the destination, not a travel document. -->
+- [ ] A) moreover
+  <!-- feedback: 'moreover' adds extra information of the same value, and no addition is made here. -->
+- [ ] B) however
+  <!-- feedback: 'however' contrasts two facts, but both clauses agree that the camera is useless. -->
+- [x] C) otherwise
+  <!-- feedback: Correct! 'otherwise' states the bad alternative if the problem is not solved. -->
+- [ ] D) therefore
+  <!-- feedback: 'therefore' states a result, and the sentence is presenting a warning rather than a conclusion. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+'Otherwise' links a problem to the consequence that arrives if the problem is ignored, which is exactly the warning here.
 ---
-## Question 8 [D6]
+## Question 8 [D4]
 **ID:** HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A match is played outdoors although the forecast promised storms.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+____ the heavy rain, the football match went ahead on time.
 
 ### Opciones
-- [x] D) sightseeing
-  <!-- feedback: Correct! 'sightseeing' is the activity of visiting the places of interest of a location. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things in stores, not the general activity of visiting a place's sights. -->
-- [ ] B) hiking
-  <!-- feedback: 'hiking' is one specific outdoor walk in nature, only one kind of activity out of many. -->
-- [ ] C) camping
-  <!-- feedback: 'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark. -->
+- [ ] A) because of
+  <!-- feedback: 'because of' must also be followed by a noun, but it would reverse the logic and explain the match, not contrast it. -->
+- [ ] B) so that
+  <!-- feedback: 'so that' introduces a purpose and needs a result clause, which is not present. -->
+- [ ] C) unless
+  <!-- feedback: 'unless' needs a negative clause, and the second clause here is positive and surprising. -->
+- [x] D) despite
+  <!-- feedback: Correct! 'despite' is a preposition and is followed directly by the noun 'the heavy rain'. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+'Despite' is followed by a noun phrase or a gerund, never by a full clause. The concession is expected to stop the match.
 ---
-## Question 9 [D5]
+## Question 9 [D3]
 **ID:** HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A traveller compares two small hotels in a colonial town.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+The guesthouse is very cheap. ____, it is a long walk from the main square.
 
 ### Opciones
-- [x] C) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event. -->
-- [ ] A) gift
-  <!-- feedback: a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event. -->
-- [ ] B) award
-  <!-- feedback: an 'award' is an honour granted by an institution for merit, not a keepsake. -->
-- [ ] D) prize
-  <!-- feedback: a 'prize' is the reward of a competition; the definition describes an object kept as a memento. -->
+- [x] A) however
+  <!-- feedback: Correct! 'however' marks a contrast between the low price and the inconvenient distance. -->
+- [ ] B) therefore
+  <!-- feedback: 'therefore' would make the distance a result of the price, which is not the relationship here. -->
+- [ ] C) moreover
+  <!-- feedback: 'moreover' would add a supporting detail, and the second clause weakens The third one. -->
+- [ ] D) otherwise
+  <!-- feedback: 'otherwise' needs a negative or alternative second clause, and this clause is a plain statement. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+'However', 'nevertheless' and 'yet' link two clauses that disagree. Here a good price is cancelled by a bad location.
 ---
-## Question 10 [D6]
+## Question 10 [D4]
 **ID:** HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A teacher asks students about the hour in which they study best.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Some students revise at night, ____ others prefer to work in the morning.
 
 ### Opciones
-- [x] C) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which something ends up late or postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: a 'cancellation' means the trip or event will not happen at all, not that it happens later. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is simply the moment of leaving, which can be perfectly punctual. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment of reaching the place, and it says nothing about being late. -->
+- [ ] A) so that
+  <!-- feedback: 'so that' would present a purpose, and no goal is stated in the second clause. -->
+- [x] B) whereas
+  <!-- feedback: Correct! 'whereas' contrasts two habits of the same group of students. -->
+- [ ] C) because
+  <!-- feedback: 'because' would need one habit to explain the other, and they are simply different. -->
+- [ ] D) unless
+  <!-- feedback: 'unless' needs a negative clause, and the second clause is positive. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+'Whereas' contrasts two parallel clauses and makes the difference between them explicit and easy to hear.
 ---
-## Question 11 [D7]
+## Question 11 [D3]
 **ID:** HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A high school student chooses an extracurricular activity for the next term.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+She joined the debate club ____ improve her spoken English.
 
 ### Opciones
-- [x] C) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'check-out' is the opposite moment, when you pay and hand the room key back before leaving. -->
-- [ ] B) booking
-  <!-- feedback: 'booking' is the reservation made beforehand; check-in is what you do on arrival. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the earlier record of your booking, not the act of registering your presence. -->
+- [ ] A) in addition to
+  <!-- feedback: 'in addition to' adds a second item and would need a noun phrase before the verb. -->
+- [ ] B) in charge of
+  <!-- feedback: 'in charge of' expresses responsibility for something and does not introduce a purpose. -->
+- [x] C) in order to
+  <!-- feedback: Correct! 'in order to' introduces a purpose, and improving her English is the goal of joining. -->
+- [ ] D) in front of
+  <!-- feedback: 'in front of' is a position expression and has no grammatical link to a purpose clause. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+'In order to', 'so as to' and 'to' all express purpose. Here the club membership is the means and the fluency the aim.
 ---
-## Question 12 [D8]
+## Question 12 [D5]
 **ID:** HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Students describe their feelings in the minutes before a difficult test.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+The students were nervous, ____ they finished the exam calmly.
 
 ### Opciones
-- [x] C) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two further stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey. -->
-- [ ] B) transfer
-  <!-- feedback: a 'transfer' is the change from one vehicle or flight to another, not the pause itself. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means the action of passing through a place, with no idea of resting between stages. -->
+- [ ] A) both ... and
+  <!-- feedback: 'both ... and' needs two positive elements, and the second clause is not part of a positive pair. -->
+- [ ] B) either ... or
+  <!-- feedback: 'either ... or' offers a choice, and no alternative is being selected here. -->
+- [ ] C) not only ... but also
+  <!-- feedback: 'not only ... but also' needs a negative first element, which is missing. -->
+- [x] D) neither ... nor
+  <!-- feedback: Correct! 'neither ... nor' joins two negative ideas and matches the negative adjective 'nervous'. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+'Neither ... nor' is the correlative for negative clauses and keeps a single negative sense across both halves.
 ---
-## Question 13 [D7]
+## Question 13 [D4]
 **ID:** HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Two siblings describe how they spent the same evening at home.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Luis studied for two hours; ____ his sister prepared dinner.
 
 ### Opciones
-- [x] C) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: a 'coin' is one single piece of money, not the whole system used in the country. -->
-- [ ] B) banknote
-  <!-- feedback: a 'banknote' is one single paper note of that system, not the system itself. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' means money in coins and notes in general, not the specific monetary system of a country. -->
+- [x] A) meanwhile
+  <!-- feedback: Correct! 'meanwhile' links two actions happening at the same time in different places. -->
+- [ ] B) therefore
+  <!-- feedback: 'therefore' would make the dinner a result of the studying, which is not stated. -->
+- [ ] C) otherwise
+  <!-- feedback: 'otherwise' would warn about an alternative, and no problem is described. -->
+- [ ] D) whereas
+  <!-- feedback: 'whereas' would contrast the two actions, but the sentence states that they simply coincide. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+'Meanwhile' and 'at the same time' mark simultaneity between two separate actions of different subjects.
 ---
-## Question 14 [D8]
+## Question 14 [D3]
 **ID:** HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Passengers wait on the tarmac while a storm passes over the departure city.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+The flight was delayed for three hours ____ a storm in Chicago.
 
 ### Opciones
-- [x] B) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: a 'dictionary' gives the meaning of words, not details about a destination for travellers. -->
-- [ ] D) encyclopedia
-  <!-- feedback: an encyclopedia covers all branches of knowledge rather than one particular place for visitors. -->
+- [ ] A) because
+  <!-- feedback: 'because' is followed by a full clause with a verb, and only a noun phrase is available here. -->
+- [x] B) because of
+  <!-- feedback: Correct! 'because of' is followed by a noun, and 'a storm' is the cause of the delay. -->
+- [ ] C) reason of
+  <!-- feedback: 'reason of' is not an expression of cause in English; the correct noun is 'reason for'. -->
+- [ ] D) cause of
+  <!-- feedback: 'cause of' could name a cause only in a different construction, and the sentence structure does not allow it. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+'Because of' takes a noun phrase; 'because' takes a clause. A noun such as 'a storm' requires the prepositional form.
 ---
-## Question 15 [D7]
+## Question 15 [D4]
 **ID:** HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A teacher reminds students what to take for a walking tour in the hills.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Carry an umbrella ____ the weather changes, you can open it.
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back. -->
-- [ ] A) suitcase
-  <!-- feedback: a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps. -->
-- [ ] B) briefcase
-  <!-- feedback: a 'briefcase' is a case for documents and a laptop that is carried in the hand. -->
-- [ ] D) handbag
-  <!-- feedback: a 'handbag' is a small bag held in the hand, not carried on the back. -->
+- [ ] A) so that
+  <!-- feedback: 'so that' presents a purpose, and the umbrella is not aimed at any result here. -->
+- [ ] B) even though
+  <!-- feedback: 'even though' would need a concession, but the clause describes a neutral possibility. -->
+- [x] C) in case
+  <!-- feedback: Correct! 'in case' introduces a precaution against a possible future situation. -->
+- [ ] D) as far as
+  <!-- feedback: 'as far as' introduces a limit or a measure of distance, which the sentence does not express. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+'In case' and 'just in case' are the standard connectives of precaution before an uncertain event.
 ---
-## Question 16 [D8]
+## Question 16 [D5]
 **ID:** HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student describes the timing of two events on the same evening.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Hardly had she arrived home ____ the telephone rang.
 
 ### Opciones
-- [x] A) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea. -->
-- [ ] B) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'local' means belonging to the area where you already are, again the opposite meaning. -->
-- [ ] D) national
-  <!-- feedback: 'national' refers to the nation as a whole, but it does not mean being abroad. -->
+- [ ] A) than
+  <!-- feedback: 'than' belongs to comparative structures such as 'hardly ... than', which is not the standard form here. -->
+- [ ] B) then
+  <!-- feedback: 'then' is an adverb of sequence and cannot follow 'hardly had she arrived' in this construction. -->
+- [ ] C) since
+  <!-- feedback: 'since' marks a starting point in the past and does not pair with the inverted 'hardly had' clause. -->
+- [x] D) when
+  <!-- feedback: Correct! 'when' completes the pair 'hardly ... when', which links two events in time. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+'Hardly ... when' is a fixed pair. The inverted 'had' clause carries the inversion that the pair requires.
 ---
-## Question 17 [D9]
+## Question 17 [D4]
 **ID:** HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A classmate lends study material to another student before a test.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+You may borrow my notes ____ you give them back tomorrow.
 
 ### Opciones
-- [x] C) budget
-  <!-- feedback: Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time. -->
-- [ ] A) expense
-  <!-- feedback: an 'expense' is a single cost; a budget gathers all income and spending over a period. -->
-- [ ] B) cost
-  <!-- feedback: 'cost' is the amount paid for one thing, not an estimate for a whole period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the figure written on a product, not a plan of income and expenditure. -->
+- [x] A) as long as
+  <!-- feedback: Correct! 'as long as' states the condition on which the permission depends. -->
+- [ ] B) as soon as
+  <!-- feedback: 'as soon as' marks a moment in time, and returning the notes is not given as a time limit. -->
+- [ ] C) even though
+  <!-- feedback: 'even though' introduces a concession, and the clause sets a condition instead. -->
+- [ ] D) as far as
+  <!-- feedback: 'as far as' introduces a limit such as distance or progress, which is absent here. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+'As long as' and 'provided that' both mean 'only if'. The permission is valid exactly while the condition holds.
 ---
-## Question 18 [D10]
+## Question 18 [D4]
 **ID:** HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** An academic office informs candidates about an examination that has been moved.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+The university exam was postponed; ____, the new date will be announced on Monday.
 
 ### Opciones
-- [x] B) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only. -->
-- [ ] C) guarantee
-  <!-- feedback: a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement. -->
-- [ ] D) policy
-  <!-- feedback: a 'policy' is the written document of the contract, not the practice of insuring itself. -->
+- [ ] A) otherwise
+  <!-- feedback: 'otherwise' would offer the opposite case, and no alternative is described. -->
+- [x] B) therefore
+  <!-- feedback: Correct! 'therefore' presents the next logical step that follows from the postponement. -->
+- [ ] C) even so
+  <!-- feedback: 'even so' introduces a concession, and the clause agrees with the postponement instead. -->
+- [ ] D) on the other hand
+  <!-- feedback: 'on the other hand' needs a previous viewpoint to contrast, which a single statement cannot provide. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+'Therefore' and 'thus' signal consequence. The announcement about the date is the logical continuation of the postponement.
 ---
-## Question 19 [D9]
+## Question 19 [D3]
 **ID:** HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A teacher describes the two parts of a short class assessment.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+____ the grammar test, the class also has a short writing task.
 
 ### Opciones
-- [x] A) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease. -->
-- [ ] B) medication
-  <!-- feedback: 'medication' treats the symptoms of a disease; it does not create immunity against it. -->
-- [ ] C) prescription
-  <!-- feedback: a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease. -->
+- [ ] A) in charge of
+  <!-- feedback: 'in charge of' expresses who is responsible for something, and no task is assigned here. -->
+- [ ] B) in front of
+  <!-- feedback: 'in front of' is a preposition of position and cannot introduce an added item. -->
+- [x] C) in addition to
+  <!-- feedback: Correct! 'in addition to' adds a second element of the same kind to the one already named. -->
+- [ ] D) in spite of
+  <!-- feedback: 'in spite of' introduces a contrast, and the second task does not oppose the test. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+'In addition to' and 'as well as' both add information. A preposition of place cannot perform that function.
 ---
-## Question 20 [D10]
+## Question 20 [D3]
 **ID:** HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Examinees arrive at a school after a delayed urban bus.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+The bus was late, ____ everyone reached the examination room before nine o'clock.
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight. -->
+- [ ] A) because
+  <!-- feedback: 'because' would make the lateness the cause of the punctual arrival, which reverses the logic. -->
+- [ ] B) so that
+  <!-- feedback: 'so that' introduces a purpose, and no intention is described. -->
+- [ ] C) in case
+  <!-- feedback: 'in case' introduces a precaution, and the second clause states an accomplished fact. -->
+- [x] D) but
+  <!-- feedback: Correct! 'but' contrasts the delay of the bus with the punctual arrival of the candidates. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+'But' is the shortest contrastive connector. It links two facts whose combination surprises the reader.
+---
